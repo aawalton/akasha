@@ -1,0 +1,447 @@
+---
+id: 9b77e8ff-97f7-50d4-818d-515f2e3d6148
+page-type-slug: story-chapter-royal-road
+title: "Chapter 168 - An Old Friend"
+slug: 0155-chapter-168-an-old-friend
+partOf: mythrans-master-of-all-continued-completed
+position: 155
+ownLength: 4781
+unit: words
+publishedAt: 2017-02-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118407/chapter-168-an-old-friend"
+royalRoadId: "118407"
+---
+
+Notice!
+
+Due to your dishonorable actions, you have lost Honor.
+
+Honor: -10,000
+
+Ren walked away from the table, stored his shield, and went back over to the workbench. He searched it and found several more recipes; Healing Potion, Mana Potion, Vial of Health Regeneration, and Vial of Mana Regeneration. He looked at all of the recipes he had, then looked at the shelf of ingredients above the workbench. Nothing was labeled, so he activated his Decipher Ingredients ability and picked a bottle up. He identified it as Eye of Newt, appraised it, and put it back... then figured he would probably never find these ingredients anywhere else. He glanced back at the dwarf on the table, and sadness filled him.
+
+How could I do that? Ren asked himself, then took out the half-sized crate he had previously stored diamonds in.
+
+“You didn't have much choice.” Teepo said. “If you didn't want him experimenting again, it was either disable his hands, or... or take them.”
+
+Ren took in a deep breath and let it out, and tried to stop himself from shaking at the thought of actually removing someone's hands. He shook the thought out of his head and put the half-crate on the workbench. Ren picked up the bottle of Eye of Newt, and took half of it; put it in one of his own spare bottles, then put the ingredient back on the shelf. He put the part he'd taken into the half-crate, then kept picking up each bottle, used Decipher Ingredient and Appraisal, then took half and put it in the crate. This continued for nearly 20 minutes, and Ren had half of all the ingredients in the crate. When he was done, his Decipher Ingredients and Identify skills were both at Intermediate Level 2, and Appraisal was up to Intermediate level 5. He'd used cloth between the layers so that nothing would break, then stored the half-crate into inventory. He left a few more platinum on the workbench, then walked over to the dogs who still watched the dwarf on the table.
+
+“Come.” Ren said, and left the female dwarf there to tend to her unconscious father. He had left her hands tied in front of her, so she shouldn't have any trouble doing that. He picked up the guards and carried them over to the still burning table in the middle of the room. After he absorbed the fire and regenerated the Mana he'd used, he sat one of the guards on the desk and left the other one on the floor. Ren held onto the one on the desk, and activated his Water Spray ring to douse the guard in the face. A few moments later, the guard revived and blinked the water out of his eyes.
+
+“Where do they keep the prisoners?” Ren asked him.
+
+“Go to he-ggllluugggg!” The guard said as Ren sprayed him again.
+
+“It's a simple question.” Ren said and deactivated the ring. “I already know about the holding area. Where else would they take a prisoner?”
+
+“Th-the holding area! There is nowhere else, you idiot! Why would we need 2 places to hold people?!?”
+
+Ren frowned at the guard, but it did make sense. “Where's Lady Neram, then?”
+
+“How would I know that?” The guard asked, exasperated. “This is my duty station!”
+
+Ren put a gag in the guard's mouth and sat him on the floor. Now what?
+
+“We could look through all the other doors...” Teepo suggested, and Ren laughed.
+
+If we had a month or two. Ren thought. It's nearly supper time. I've got to get to a Safe Zone and log out afterwards.
+
+“Then there's really only one thing you can do.”
+
+What's that?
+
+“Cause a big enough of a ruckus to get everyone's attention.”
+
+Teepo, I couldn't... I mean... I... I'm supposed to be sneaking around!
+
+“That worked for Stacy and Riley, but only because you could follow your connection to them.” Teepo said. “Narhilda, on the other hand...”
+
+You're right. She could be anywhere. Ren thought. Okay, I'm going to try and ask a few people first, but if that doesn't work, I'll...
+
+“Have some fun and wreck the place.” Teepo said.
+
+*
+
+“Is everything set for the trial in the morning?” The King asked.
+
+“Of course it is, Your Eminence.” His advisor said.
+
+“I told you to stop calling me that.”
+
+“Of course, Your Eminence.” The advisor repeated.
+
+The King sighed. “By the gods, I had forgotten how much I hate this place.”
+
+“You've been gone a long time, 'Your Eminence'.” A woman's voice said from across the room. The King turned to look at her and sighed again as he saw the two guards that stood beside the woman. They weren't for protection, however; they were to stop her from leaving again.
+
+“Yes.” The King said. “Just like you.” He frowned. “Have you enjoyed living your life away from the castle?”
+
+“I have, actually.” The woman said. “Despite being away from the castle for over 20 years, these last 3 months have been worth every second.”
+
+“I can't believe you've been living such a charade for all this time.” He shook his head. “And right under the nose of the guards, soldiers, and nobility.”
+
+“It was easy, really.” She snorted a laugh. “Once I was away from here, no one even cared who I was.”
+
+“I know all about how you got away.” The King said. “I've got the chamber maid that arranged your escape in the holding area.”
+
+“You WHAT?!?”
+
+The King walked over to her. “Once I talked to her personally, she told me all of the details.”
+
+“Why would you lock her up?” The woman asked. “I ordered her to help me!”
+
+The King smiled. “I'm the King. I can do whatever I want.”
+
+“If you have to say that you're the king to justify your actions, then you're not really a king.”
+
+“I don't want to be King, remember?” He walked back across the room. “It was all just the luck of birth.”
+
+“If I'd known at the time how you would turn out...” The woman shook her head. “...I wouldn't have let the Council interfere with your education.”
+
+“Mother.” The King sighed. “Let it go.”
+
+“Now that you're back, you should know what the Council has been doing while you were gone.”
+
+“I don't care what they've been doing.” The King said. “Don't you understand? I'd give up the throne in a second if I could.”
+
+“If you let the Council continue the way it's been going... in another 50 years, there won't be a King; or even a Kingdom anymore.”
+
+“So what?!?” The King exclaimed, finally letting his feelings out. “I wouldn't be here in this mess if they'd already succeeded!”
+
+“WHAT!?!”
+
+“Why else do you think Gellian was working for a sand merchant?” The King sighed. “I arranged it before I left.”
+
+“You... you...”
+
+“And now an innocent girl, who I tried to save from all of this...” The King waved his hand at the opulent room. “...is dead. By bad luck or happenstance, it doesn't matter. She's still gone.”
+
+“Did they tell you how it happened?” The woman asked.
+
+The King shook his head. “No, and you aren't going to either.”
+
+“You need to know...”
+
+“Quiet!” The King said. “I will not have your words prejudice my thinking any more.”
+
+The woman clamped her mouth shut.
+
+“That's better.” He said, then sat down to rub his face with his hands. “I loved her as if she was my own daughter.”
+
+“Not enough to stay and protect her.” The woman said. “Or to take her with you when you left.”
+
+The King sighed again. “Yes, it's all my fault. Isn't it, Mother?”
+
+“Not all of it.” She responded. “Most of it, now that I know that you intentionally gave the Council free reign.”
+
+The King stopped rubbing his face and stood up. “This will all be settled in the morning.”
+
+“Really?” The woman laughed. “How is that possible?” She asked. “The murderers will be hung until they're dead. How does that fix all the rest of the Kingdom's problems?”
+
+“That's not my concern.” The King said as he walked to the door of the large room. A guard opened it to let him pass through.
+
+“You're the King!” The woman nearly yelled. “This should all be your concern!”
+
+He didn't say anything in response, and left the room. The guard stepped out to follow, and shut the door behind him.
+
+“That went as well as I expected.” The advisor said, and the woman sighed. She walked over to a chair and sat down, as the guards followed her. She glanced at them and shook her head.
+
+“It's not really necessary to have the guards follow me inside the royal apartments.” She said.
+
+“The King ordered...”
+
+“That King?” She pointed to the closed door. “The one who said that none of this was his concern?”
+
+The advisor sighed himself. “Yes. Despite his behavior, he's still the King.”
+
+She put a hand on her abdomen. “I honestly wish I could have had more children.”
+
+“So do I, Narhilda.” Dural, Advisor to the Throne, said as he went to the door and opened it. “So do I.”
+
+*
+
+Ren turned off the Sealed enchantment on the hallway door and opened it. Riley and Stacy walked out, he stepped out behind them, and shut the door. He activated the enchantment again and walked down the hallway. When he got to the door at the end, he looked at Riley and Stacy. “Stay close. Don't attack unless I say so. No killing.”
+
+Ren got the distinct feeling of grudging acceptance, and he smiled. He opened the door into the next hallway and the dogs stayed by his sides. He walked down the hallway and into the lobby, then asked several people if they knew where Lady Neram was. No one had any idea where she was, and several of them were visibly afraid of the dogs, so he went to the 4 guards that were stationed between the huge staircases.
+
+This place should have a general information desk or something. Ren thought as he approached them.
+
+“They probably wouldn't tell you anyway.” Teepo said. “You know how they like to keep information to themselves.”
+
+Ren sighed mentally, and made eye contact with a guard. “Where is Lady Neram?”
+
+“Who?” The guard asked and smiled smugly. Ren concentrated on his Command Aura and reached a hand out. He grabbed the guard by his tunic, picked him up, and held him at arm's length.
+
+“Don't be flippant with me. I'm not in the mood for it.” Ren said. “I asked you a simple question.”
+
+The other guards started to reach for their weapons, and Riley and Stacy growled loudly.
+
+“I wouldn't do that if I were you.” Ren said to the guards. “They're pissed about you taking them. Don't give them an excuse to bite your faces off.”
+
+Ren heard the dog's razor sharp teeth pop out with a solid metal sound, and he grinned as the guards moved their hands back to their sides and away from the hilts of their weapons.
+
+“That's better.” Ren looked at the guard that he still held at arms length, about 6 inches from the floor. “If you lie to me again and say you don't know, you'll find out what the floor tastes like through broken teeth.” Ren said. “Where is Lady Neram?”
+
+The guard swallowed visibly, and took in a breath. “Go to he-aaahhHH!” His words were cut off as Ren turned him upside down and smashed his face into the floor. Ren lifted him up and did it again, then turned him back upright. Several of the guard's teeth were missing, and his face was a bloody mess.
+
+“I'm getting tired of repeating myself.” Ren said, and the other people in the lobby stopped talking and watched the scene he was making. I guess I'm taking your advice after all, Teepo. Ren thought, concentrated on his personal Aura, and shook the guard. “What is wrong with you people?” Ren asked. “You all keep your godsdamned mouths shut over the simplest things, and for no reason!”
+
+He tossed the guard into the other 3 guards standing there, and they caught him for the most part. Two of them lost their balance, and leaned back against the wall to stop themselves from falling and dropping the guard they'd just caught.
+
+“When I came here, I had no idea what was going on!” Ren said, quite loudly. “I got caught up in a huge mess with the Council, then eventually exposed them for what they've been doing.” Ren turned around and addressed the growing crowd. “Can you guess what the rest of you did about it?”
+
+No one said anything, and Ren grinned.
+
+“Exactly! You did NOTHING!” Ren shouted. “You've KNOWN for years, haven't you? It's become normal for you to ignore the injustice that's been happening!”
+
+“That's enough.” One of the guards said. “You're under arrest.”
+
+“For what?” Ren asked. “For speaking my mind? For telling the truth? WHAT?”
+
+“For assaulting a Royal Guard!” The guard said, getting angry.
+
+“Really?” Ren laughed at him. “You're going to arrest me for keeping my word? For doing what I said I would do if he kept lying to my face, and in front of witnesses?”
+
+Several of the dwarves gasped, and the guard looked over Ren's shoulder.
+
+“Ren, there's more guards coming down a hallway on the left.”
+
+Thanks, Teepo.
+
+“It doesn't matter how it happened, you did assault him.”
+
+“And YOU trespassed on House Neram land, KIDNAPPED Lady Neram and my fiance, then you took my dogs when they tried their best to STOP YOU!”
+
+More gasps were heard, and Ren was about to keep talking when another voice spoke.
+
+“Ren of House Neram, you are under arrest for treason against the crown.”
+
+Ren turned around to see about a dozen guards, half of them with crossbows, and the Knight leading them was holding the fireball wand from Stacy's mouth.
+
+“I hope you've come to return my property.” Ren said. “That's my dog's wand you stole.”
+
+Silence filled the lobby as everyone heard the truth in Ren's words.
+
+“He gave his dog a wand?” “How can the dog use it? It doesn't have hands!” “The Royal Guard are thieves!”
+
+“QUIET!” The Knight said. “The dogs attacked us...”
+
+“We heard!” Someone said. “You're supposed to up uphold the law, not ignore it.”
+
+“Step back!” The Knight said, and the crowd started to part.
+
+Here goes everything. Ren thought, and concentrated on the wand the Knight held. Wait... wait... Activate!
+
+The wand shot off a fireball, and it hit Ren square in the chest.
+
+“AaahhhhHHHH!” Ren yelled, jumped backwards, and fell to the floor as he was engulfed in flames. A woman screamed and several people turned away.
+
+“By the gods, they've shot him!” Someone shouted, and a few of the dwarves started to panic. “S-s-someone! Get some water or something!”
+
+Ren continued to roll around on the floor, clutching his face. Teepo are they getting close?
+
+“Yeah, they're moving the people back and coming over.” Teepo said. “3 on the left, 4 on the right.”
+
+Tell me when. Ren thought, and for the first time ever, equipped his golden-colored helm and absorbed the fire.
+
+“You can stand, in 3... 2... 1... NOW!”
+
+“You SHOT ME!” Ren hopped up and grabbed 2 of the guards on the left, picked them up, and kicked the third lightly in the chest; but it still sent the guard across the floor. Ren swung the guards he held around, and threw them into the 4 guards on the right. He equipped his shield as several crossbow bolts whizzed by, and Ren deflected several more.
+
+“Stop firing, you fools!” Ren shouted. “You'll hit the people!”
+
+Another crossbow bolt bounced off of the shield and Ren ran at them as fast as he could, with the shield held in front of him. He wanted to stop them from firing into the crowd, but had completely forgotten that he was wearing his new boots. Ren smashed into them much faster than he had intended; two of the crossbowmen bounced off of his shield, one was caught in the Grip of Earth enchantment, and two more were trampled as Ren ran over them. The last one stared as Ren came to a stop, deactivated the enchantment on the shield to release the guard, and turned around.
+
+“On the left!” Teepo shouted, as another fireball hit Ren in the side, and Ren pretended to fall to the right, away from it. He clutched his side as the fireball engulfed him, and heard the Knight laugh.
+
+“Even with your armor, you're not so tough against fireballs.” He said smugly as he walked over to Ren on the floor, and shot a fireball every couple of seconds.
+
+I guess I didn't have to activate the wand prematurely. Ren thought. He was going to shoot me with it anyway.
+
+The Knight stepped close and waited for the fire to dissipate before firing again.
+
+“What the hell is going on out here?!?” A stern voice asked.
+
+“I'm just subduing a prisoner.” The Knight said.
+
+“With a fireball wand?!?” The voice asked. “Where did you even get that?”
+
+“He stole it!” A voice from the crowd said.
+
+“From him!” One of the dwarfs in front pointed to Ren on the ground.
+
+“I didn't steal it!” The Knight turned to the dwarf. “We were attacked!”
+
+“It's still stealing.” The dwarf muttered.
+
+“Give me that.” The voice said, and the Knight frowned.
+
+“I acquired it in battle.” He said. “By right of conquest...”
+
+“Hand. It. Over.”
+
+The Knight passed him the wand and the dwarf looked down at Ren.
+
+“Are you done?”
+
+“Pretty much.” Ren said. “I could use a bit more cooking on my left side; but I can make do without it.”
+
+The dwarf with the stern voice smiled. “Lady Neram said you had a weird sense of humor.”
+
+“You know where she is?” Ren asked.
+
+“She's in the royal apartments.” The dwarf said, then looked around. “Is that what this is all about?”
+
+“Part of it.” Ren said. “No one would tell me anything.” He stood up and realized he was about 5 inches taller than everyone else, thanks to the thick soles of his boots.
+
+“You're a big one.” The dwarf said.
+
+“I could make a rude joke about that line, but I'd rather go see Lady Neram.”
+
+“You can't, you're a prisoner.”
+
+Ren shook his head. “This idiot claimed, without proof, that I committed treason against the crown.” He stuck a thumb out to indicate the Knight. “I was hit by a fireball, then when I attacked, non-lethally by the way, they opened fire with crossbows and then more fireballs.” Ren looked around. “Is anyone hurt?”
+
+Several of the guards raised their hands, and Ren ignored them.
+
+“Is any civilian injured? There were a lot of crossbows flying around.” He said, and no one spoke up. “Thank the gods.”
+
+“I'd ask you what happened, but I'd rather get an independent version first.” The dwarf said, and went to the crowd. He came back a few minutes later, and looked at the Knight. “You have some explaining to do.”
+
+The Knight scowled. “I don't answer to you.”
+
+“Then go answer to whoever.” The dwarf waved a hand in front of the Knight's face, and the Knight held out a hand for the wand. The dwarf shook his head. “I don't think so.”
+
+“It's mine.” The Knight said.
+
+“Where's the Minor Healing wand?” Ren asked. “If you have the Fireball one, you must have the other.”
+
+“I gave it to the Medical Wing.” The Knight said, and the other dwarf winced slightly.
+
+“For a people with an Honor based society, you sure have a lot of people who lie.” Ren said. “How is he even a Knight?”
+
+“Inherited Honor.” The dwarf with the stern voice said, then turned to the guards that were still standing. “Take the others to the Medical Wing of the Main Keep.”
+
+The guards gathered up the injured and left the lobby.
+
+“As for you...” The dwarf turned to the Knight. “You will return the stolen property.”
+
+“You can give it to the Medical Wing.” Ren said, then pointed at the Knight. “...as long as he doesn't get to keep it.”
+
+“Hand it over.” The dwarf with the stern voice said. “Right now.”
+
+The Knight pulled out the wand from behind his back and handed it to the dwarf. “This isn't over.” He said, then walked away down the hallway he had come from. The dwarf sighed and turned to Ren.
+
+“He's always been a trouble-maker.”
+
+Ren shook his head. “I bet he started out leading a regiment or something.”
+
+The dwarf nodded slightly. “Yes, and now he's down to a Knight. It won't be long before he's only a Warrior.”
+
+“I honestly don't care where he ends up.” Ren said. “Take me to the royal apartments.”
+
+“It's really odd to talk to someone in full plate armor.” The dwarf said. “This way.” He walked down the hallway to the left of the staircase, and Ren followed until he got to where Riley and Stacy still held the 4 guards at bay.
+
+“Come.” Ren said, and they ran over to him as he followed the dwarf into another hallway to the end. They went through that door, and to another set of staircases after Teepo gave the all clear. They climbed up the stairs and down yet another hallway, then arrived at a door with 2 guards in front of it. Teepo slipped inside and Ren felt his relief and surprise.
+
+“She's here with 2 guards!” Teepo exclaimed.
+
+“Open the door.” The dwarf said, and one of the guards opened the door.
+
+“By the gods, leave me alone!” Narhilda said, as she threw a pillow at the open door. Ren caught it and stepped inside. “What's this? Now you're sending in gold... armored... REN!” She ran across the expanse of the room, and Ren stored his armor and dropped the pillow in time to receive her bone-crunching hug.
+
+“Hi.” Ren said, as he held her close. The two guards ran over as well, to stand beside them. They scowled down at the two metal dogs.
+
+“Thank you, Dural.” Narhilda said to the dwarf.
+
+“Don't thank me.” Dural shook his head. “He was making quite the scene in the lobby.”
+
+“He was?” Narhilda said, surprised. “Why?”
+
+“To find you, of course.” Ren said. “I tried asking politely, then more guards showed up.. and... well...”
+
+“Things got out of hand.” Narhilda said, and Ren nodded. She turned to Dural. “I know I can't ask...”
+
+Dural turned to the guards. “We can wait in the hall, while Lady Neram discusses need to know information.”
+
+The guards looked at each other, nodded slightly to Dural, and stepped outside the door and turned to face it.
+
+“Thank you.” Narhilda said.
+
+Dural leaned close. “It will only work for a short time, then I will have to let them back in.”
+
+She nodded slightly and he left the room, turned to face the door just like the guards, and closed it.
+
+“Oh, Ren!” Narhilda said, and kissed him passionately. Since Ren was only wearing his bodysuit, she felt his reaction to her, and she broke the kiss. “We... we can't...”
+
+“Just because I'm ready, doesn't mean it has to happen.” Ren said and smiled. “If that was the case, I'd be doing it all the time.”
+
+Narhilda smiled and took his hand to lead him to sit on one of the many couches in the apartment.
+
+“How did you get here?” Narhilda asked, still holding his hand.
+
+Ren told her about how he'd contacted Nathalia with his Sending Ring after coming through the portal, and found out they were here; but she wouldn't tell him anything about it so he came to see her himself.
+
+“She's always been loyal to me, without fault.” Narhilda said. “Keep going.”
+
+Ren explained about finding the dogs missing, coming to the castle, getting locked up, and then going to the alchemist's lab. She gasped when she heard what had happened to the dogs, and how it had hurt Ren, and she went quiet as he told her about the encounter with the alchemist.
+
+“How... how could you?!?” Narhilda asked, and put a hand over her mouth. “I've known him for decades. He was a good man! He didn't mean anything by experimenting on your toys!”
+
+Ren let her hand go and stood up. “They are not toys! Or things! Or wonderful mechanisms to experiment on!” He nearly yelled at her, then clenched his fists as he tried to calm down. “The same thing happened to me when I was younger, Narhilda.” Ren said. “When I felt Stacy's pain similar to mine, I... it brought back a lot of the memories I'd suppressed about my own experiences.”
+
+Narhilda reached a hand out and held his wrist. “Sit. Please.” She said, and Ren sat back down. “I didn't know that you...”
+
+“It's not something I ever... ever... wanted to talk about.” Ren said sadly. “The things they... they did to me... all in the name of research.” He shook his head. “I... I snapped, Narhilda. I did something... something I never thought I'd do to someone else.”
+
+“Oh, Ren.” Narhilda started to cry, as she felt the truth in his words. “That... that still doesn't justify what you did today.”
+
+“Do you think I don't know that?” Ren asked, pain clearly on his face. “I crushed that man's fingers, Narhilda! Over and over! I was so mad that I... at the end I... I held them in an Iron Grip and healed them.”
+
+The tears were streaming down her face as Ren kept talking.
+
+“I left them a pile of money, so he could live comfortably for the rest of his days; but no matter what I do or say, I can't take back what I've done.”
+
+Narhilda nodded slightly, and Ren looked down at his hands.
+
+“What do I do now?” Ren asked.
+
+“The only thing you can do.” Narhilda said. “Confess in open court, and face the punishment.”
+
+Ren looked at her. “Are you serious?”
+
+Narhilda nodded slightly. “If you let this go, and people find out about what you did...”
+
+“I've already lost 10,000 Honor, Narhilda.” Ren said, and she gasped. “If I admit it in open court...”
+
+“You'll probably lose the rest.” Narhilda said. “It's the chance you'll have to take.”
+
+Ren sighed, and nodded slightly. “You're right. I... I'll do it at the start of the trial in the morning.”
+
+Narhilda took his hand again and held it tightly. “Ren.” She took a breath. “Ren, I... I have something... something you need to know about.”
+
+“Is it about you not being Nathalia's real mother?” Ren asked, and Narhilda froze in shock.
+
+“How... how did you...”
+
+“Teepo told me the morning after he overheard you and Nathalia talking in the kitchen.” Ren said. “It was a bit of a surprise, but... think back.” He looked at her. “I've always treated you like a woman, and you've always treated me like the man of the house.”
+
+Narhilda opened her mouth in surprise, and then she smiled.
+
+“After I admitted to myself, and to you, that I loved you... I... I realized that it felt like I've been living with 2 wives this whole time.” He shook his head. “I thought it was weird having those kinds of feelings for you, but...”
+
+She took him into a hug and kissed him. He didn't fight the feeling this time, and kissed her back just as passionately as she was kissing him. Ren caressed her breast and she moaned in appreciation, then laid back on the couch. He kept making out with her, and things started to get hot and heavy; then a knock on the door shattered their moment, and they froze.
+
+“Oh... oh my...” Narhilda said, as Ren sat up. “I... I almost lost myself there.”
+
+“Me, too.” Ren said.
+
+Narhilda sat up as the door to the apartment burst open, and a bald red-bearded dwarf stalked into the room.
+
+“FRITZ!” Ren yelled, and stood up to greet the dwarf who had sent him to the Dwarven Kingdom. Ren hadn't seen him in several months; not since the last time he was at the mines back in Aurora. “What are you doing her-ghwah!”
+
+A fist connected with Ren's face and cut off his words.
+
+“What are you doing to my mother?!?” Fritz asked, fists at the ready.
+
+“WHHHHAAAAATTTT???!!!???”

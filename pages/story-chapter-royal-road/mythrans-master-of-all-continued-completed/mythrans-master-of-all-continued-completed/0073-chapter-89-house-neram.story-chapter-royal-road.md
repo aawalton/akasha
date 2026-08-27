@@ -1,0 +1,433 @@
+---
+id: b53c6b1d-5f3b-5311-8920-2514d9e70b2b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89 - House Neram"
+slug: 0073-chapter-89-house-neram
+partOf: mythrans-master-of-all-continued-completed
+position: 73
+ownLength: 5019
+unit: words
+publishedAt: 2016-11-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103684/chapter-89-house-neram"
+royalRoadId: "103684"
+---
+
+As the tiny ship approached the massive wall of mountains, Ren could see that there wasn't a shore of any kind. No beaches, outcroppings, or anything of the sort. The whole mountain range ended in mile high sheer cliffs. The water was a deep blue right up to them, showing that it was just as deep here as it was out in the sea. Ren shook his head slightly as the ship's bow was about to hit the cliff's face and then the mountain disappeared.
+
+“They don't have to leave it until the last minute, do they?” Ren asked the captain.
+
+The captain laughed. “No... but it gets the blood pumping, doesn't it?”
+
+Ren nodded. Not for the reason you think, though. Ren thought. The amount of Mana needed to make that illusion solid... it's... mind numbing.
+
+The ship sailed into the mountain wide gulf that was cut through the cliff. Ren looked up and could barely make out the top. It was quite a humbling sight. Someone had to dig all this out! Ren thought, and the ship continued on through the opening for several miles. When they came to the other side, the mountains tapered off into rolling hills, and then into a gigantic bay. At the end of the bay was a city that was at least 3 times the size of Aurora. There were battlements built all around it. He couldn't tell how thick the walls were, but they looked massive from this distance. Smaller ships and boats peppered the shoreline and the bay, and one of the biggest docks Ren had seen so far, was set off to the side.
+
+Isn't this great! Ren thought. A whole new city to explore.
+
+“I know!” Teepo said, excitedly. “I can't wait!”
+
+Now that they were close to the middle of the bay, Ren turned around to get a look at the mountains from this side, and saw what was on the side of the rolling hills that he didn't see on the way in. Ren and Teepo stared at all of the animals grazing on some of the steep slopes.
+
+Oh, crap! Ren thought.
+
+“My thoughts exactly.” Teepo said.
+
+The hills were covered in bighorn rams.
+
+“I'll be in the hold.” Ren said and quickly left his spot at the railing.
+
+The captain stared at him as Ren disappeared into a porthole. What's gotten into him?
+
+Ren went into the hold and over to his designated spot. Most of the hold was still full of crates, but most of them were empty now. Ren picked up his protective barrier stones and stored them into inventory, and knocked on Ruck's cabinet.
+
+“Ruck? We're here.” Ren looked at Princess. “I'm sorry, Princess... but I have to get you prepped as a mount.”
+
+She looked at him with doubt in her eyes.
+
+“I know it's sudden, but I just saw...” Ren shook his head. “Look, it will be much better if everyone sees you as a mount right away. Trust me.”
+
+Princess huffed and gave a slight nod.
+
+“Thank you.”
+
+She stepped out of the crate and Ren put her saddle on, securing it snugly, but not tightly. He didn't have to ride her, he just had to let everyone know that she should be ridden... and not eaten. Ren shuddered.
+
+“If only I'd known... no, that's not true. It's not like I would leave you somewhere and hope you'd be looked after.” Ren said to Princess, looking her in the eyes. “You're my responsibility, and I promise to take good care of you.” He said then put on the rein harness over Princess' face as she closed her eyes. He made sure the harness didn't snag her fur, or pushed the fur in front of her eyes. Once that was done, Ren closed up her crate and stored it in inventory. Ruck had opened his cabinet and it still swung slightly in the calm water. Ren smiled. At least he's feeling better.
+
+“Climb aboard!” Ren said and turned around to let Ruck grab onto him. Ren used his wood hammer to dig out the nail holding the Spider String to the rafter, closed the cabinet, and stored it. The lantern and bed were next. Ren looked around and didn't see anything else that was his, and nodded. “I think that's everything.”
+
+The ship hit something and Ren grabbed Princess' reins. Her hooves started to slide a little bit on the smooth wood floor and Ren grabbed her saddle, too. “Dammit! I forgot to tell the captain that he needs to warn people when the ship docks and undocks!”
+
+A minute later, several dwarves came into the hold and started gathering up the empty crates. Ren didn't offer to help this time. One of his lessons was to not offer unneeded assistance to dwarves that didn't ask for it. It made Ren smile, considering that was exactly how he'd gotten into this mess in the first place. Ren waited patiently as the pallet was lowered into the hold, and the holdmaster directed the dwarves in the proper way to load the empty crates onto it. They did several loads of empty crates to get them out of the way, and then moved on to the ones that held trade goods.
+
+Groggot came into the hold then, and Ren greeted him properly. Not with a hello, a nod, or even a wave; but a low grunt. That way, it didn't interfere with whatever the dwarves were doing at the time. It was a way of showing respect to good workers that you knew, without insulting them. Groggot grunted back and went about his job. He picked up the heavier crates easily and the holdmaster guided him to the right spot. Groggot was hunched over slightly and was all muscles; when he picked up the bigger crates, he literally couldn't see anything in front of him. Everyone got out of his way.
+
+The hold was completely cleared eventually and then the holdmaster told Ren it was his turn. Ren led Princess over to the pallet, enchanted it with Antidark, then got on. They were lifted from the hold and Ren absorbed the enchantment from the pallet and stepped onto the deck with Princess. He led her over to the gangplank and off of the ship. He had agreed to meet Nathalia here, and would wait for as long as he had to, for her to get ready.
+
+“Ruck? Can I put you on Princess' saddle? I'm going to see Nathalia's mother, and I can't show up with a backpack.” Ruck gave a quick 'thumbs up' gesture and Ren slipped him off and put him on the saddle. Princess didn't grunt or huff and Ren smiled. “Thanks, Princess.”
+
+Their plan required Nathalia to play along with his petition, and gather up all of her things. It was going to take a while. It might have been a small kitchen, but it had also been quite full. He'd asked if she wanted him to take everything himself, as he still had lots of room in inventory, but she said that they needed the spectacle of her actually leaving the ship to make everyone think they really wanted to establish a new house. Ren did take the fire stones from the stove, however. Even though only he and Nathalia could use them, he didn't want to just leave them lying around. Nathalia told the captain about having to leave, and he gratiously offered to leave the cook position open, in case Ren's petition for registration was denied. The ship wouldn't be leaving on another trip for 2 weeks, anyways.
+
+An hour later, mostly everyone else was off the ship, except for a few of the deckhands that were cleaning up all the mess. Nathalia came out of the main cabin area, carrying a big box. Several other dwarves came out behind her, pushing 2 foot wide carts filled with medium sized boxes. Ren's eyes widened as they pulled the carts down the gangplank, and the boxes slid from side to side as the cart bumped over the slats. Nathalia had a smile on her face as she saw Ren standing on the dock, and came over to him.
+
+“Your arms are empty!” She said and handed him the heavy box. Ren laughed and stored it before she could blink. The dwarves dropped the 20 or so boxes on the dock and took the carts back to the ship. Ren and Nathalia stood on the dock until the dwarves helping her went back inside the ship. Once Ren couldn't see them anymore, he stored all the boxes into inventory and she shook her head.
+
+“You weren't kidding, were you?” Nathalia asked and Ren shook his head.
+
+“I said it would have been faster, but you wanted a 'spectacle'.” Ren did the 'air quotes' gesture and grinned.
+
+Nathalia laughed. “All right, come on.” She said. “It's time you met my mother.”
+
+Ren nodded and followed Nathalia along the dock, carefully leading Princess along and trying his best to not disturb any of the dwarves working on the dock. It was a lot harder than it sounded. Dwarves were everywhere. Ren was glad that the ship had arrived just as another had cleared the slip and the berth they got was only 2 ships away from the mainland. They didn't have far to walk to be on solid ground. They came to the end of the dock and Ren stepped onto the dirt.
+
+“A new land to explore.” Ren said and smiled.
+
+Nathalia laughed. “New to you.”
+
+“And to me.” Teepo said.
+
+Nathalia walked along the street and through the warehouses lining both sides. They made their way up to the main gates of the battlement situated closest to the docks. Ren had been right in his assessment when he'd first seen them. They were massive structures, and now he could see that they were nearly a hundred feet wide and 50 feet high.
+
+“You could fit 10 carts on top of that, side by side, and still have room to walk around them!” Ren said in awe.
+
+The Warrior standing guard at the gate laughed. “Aye, and probably twice that at the Main Keep.”
+
+Ren looked at him in surprise. “Really?”
+
+The Warrior nodded.
+
+“Nice.” Ren said.
+
+The Warrior smiled.
+
+“Please tell me you don't like making outrageously big things.” Nathalia said to Ren.
+
+Ren grinned and the Warrior laughed.
+
+“Come on...” She said. “Ma's waiting for me.”
+
+They walked on and both Ren and Teepo tried their best not to do the whole rubberneck tourist bit, but there was just so much stuff to look at. Ren's pace started to slow down as he kept seeing more and more things, and Teepo pointed out things that interested him. Nathalia noticed Ren wasn't following as closely as he should, and blushed when she took his hand to lead him through the streets.
+
+I'm holding a man's hand in public! Nathalia thought and tried her best to ignore the glances that Ren was attracting from bystanders. He was by far one of the tallest people there. Once they got far enough away from the main trading area, the buildings spread out a bit more and went from 3 and 4 stories, to 1 and 2 stories. Ren stared at everything he could see.
+
+“This place is great!” Ren exclaimed.
+
+It took a while, but they eventually came to a large property quite a ways from the main street. It was enclosed in a miniature version of a battlement, only about 8 feet high. No other buildings were around it at all. It kind of stood out from everything else in the city, as it hadn't been maintained well. The 2 foot wide moat surrounding it was dry as a bone, and was a bit overgrown with weeds and vines. They approached the small drawbridge that was so old, it had embedded itself in the ground years ago from people walking on it. By the looks of it, it no longer functioned anyways. Now it was just a pile of planks crossing a hole. Nathalia led Ren to the gate and turned to him.
+
+“You remember what to do?” She asked.
+
+Ren nodded. Nathalia let go of Ren's hand and opened the gate. It creaked so loudly that Ren thought the hinges were going to let go; but it swung open all the way and Nathalia stepped inside. Ren led Princess into the small courtyard and Nathalia shut the gate. Ren winced this time as he was on the side with the hinges and could see them grinding together.
+
+Go, Teepo! Ren thought and Teepo leaped from Ren's shoulder and skittered as fast as his little legs could carry him into the house. Ren didn't want to let his recipe for Trouble to get any ingredients.
+
+Nathalia led Ren around the side of the main house to another small area with a trough and stand to tie mounts to. A small stable was there, but it was empty. It looked like it hadn't been used in a long time.
+
+“I'll be back as soon as I can, okay?” Ren said to Princess and Ruck, then tied the reins to the stand. Ren looked at the trough and the wood was cracked in several places. He doubted it would hold any water at all, then he remembered he still had the big bowl that he had been using to feed Princess and took it out of inventory.
+
+“Hey! I was looking for that!” Nathalia said, surprised.
+
+“Oh... sorry.” Ren said, sheepishly. “I've been using it and didn't get a chance to bring it back after breakfast this morning.” Ren said and used his Water Spray ring to rinse it out, then filled it with water. He put it in front of Princess and she took a drink.
+
+“You've been using it to feed your mount?!?” Nathalia almost yelled.
+
+“If I say yes, will you be mad?”
+
+Nathalia growled. “Do you know how much that bowl cost?”
+
+Ren bent down and used Appraisal. “I'd say about 2 gold, give or take a few silver.”
+
+“Yes! 2 gold coins!” She said, exasperated.
+
+Ren walked over to Nathalia and handed her 2 gold, 10 silver. “I'm sorry if I've upset you.” He said. “Please buy another bowl to replace it.”
+
+Nathalia looked at the money in her hand. “You... you can't keep doing that.”
+
+“Doing what?” Ren asked.
+
+“Trying to solve problems with money.” Nathalia said.
+
+Ren widened his eyes and looked at her. “I'm sorry.” He said. “I didn't mean to offend you.”
+
+Nathalia closed her eyes for a moment and sighed. “I'm not offended.”
+
+“Then what...”
+
+“I just want you to know that throwing money at something won't magically fix it.” Nathalia said.
+
+“Okay.” Ren nodded. “I understand. Do you want the bowl back?”
+
+“No, you might as well keep it.” She said. “You've paid me for it.”
+
+Ren winced. He'd heard that tone before. It usually meant someone was angry and they were trying to hide it. “I really am sorry.”
+
+Nathalia took a deep breath. “I know you are. Come inside. Ma is probably wondering what's taking me so long.”
+
+Ren nodded and followed her to the front door of the house. It was only a single storey high and covered most of the lot it was on. The battlement walls surrounding it nearly touched the back 2 corners. The only extra space was what Ren had already seen. The front courtyard and the stable on the side.
+
+Teepo?
+
+“I looked in every room. There's no one here, except one woman in the main room. There's a huge kitchen, 2 closets, 3 giant bedrooms, and a door that leads to stone stairs going down.” Teepo said.
+
+Great work, Teepo!
+
+“Thanks, Ren. I'm going down the stairs now.”
+
+Be careful. Ren thought as Nathalia opened the front door.
+
+“Ma?” She said as they stepped inside.
+
+“In here, dear.” A woman's voice said.
+
+“She's in the main room.” Nathalia whispered. “You know what to do.”
+
+Ren nodded. They'd gone over the proper protocol a dozen times. When presenting an introduction gift to the Lady of a House, you always pay respects first. If you meet standing, then a deep bow is needed. Sitting, a one leg kneel. Ren just hoped the gift he had was enough. Nathalia walked into the main room and her mother sat in a stiff wooden chair, her back straight and her hair done up in a braid, just like her daughter. She wore a thin white chiffon dress, and a small white belt around her waist.
+
+She looks just like her daughter. Ren thought. Only she's a little thinner, and she has some gray hair.
+
+“Hello, Ma.” Nathalia said and went over to her. She gave her mother a quick hug, and a kiss on the cheek, then stepped to the side.
+
+“And who's this?” Her mother said and glanced at her daughter. “You're a little young to be courted.” She whispered. Ren could hear her clearly, and held back a smile. He took a few steps forward, and knelt on one knee.
+
+“I am Ren, of an Unregistered House, and I present to you, the Lady of House Neram, a gift commensurate of your worth.” Ren took out 2 of the golden band rings that he hadn't equipped yet, but had enchanted with an Augment Glyph (4 runes of Augment). One granted a +4 to Vitality, and the other +4 to Strength. Ren held them out to her in the palm of his hand. Nathalia's mother's eyes widened at the gold rings.
+
+After talking with Nathalia all week, and hearing that her mother's only regrets were that she felt weak and wasn't as young as she used to be, giving her rings to help alleviate that seemed like the best gift he could give her. Nathalia's mother reached out and picked up the rings.
+
+“Are these really what I think...” She started to say, and then clamped her mouth shut before she broke protocol completely. She slipped the Vitality ring onto her right hand, and when it resized to fit her, she took a deep breath and looked at Ren. She put the Strength ring on the next finger.
+
+“As the Lady of this House, I find your gifts... acceptable.” She said and smiled.
+
+Ren relaxed for a moment, then took a deep breath himself. This is the hard part. He thought, then spoke. “I come before you, to seek guidance. Through my own ignorance, I have courted your daughter.” Ren said. “I was also challenged, and in front of High House witnesses, won a duel to become her official courter.”
+
+Nathalia's mother's face showed surprise, and Ren continued.
+
+“My ignorance is no excuse, I accept that; but seeing as I am not physically a dwarf, and my House is Unregistered... I humbly request your assistance to have my petition for registration be denied.”
+
+Her face was shocked and she turned to her daughter, who nodded.
+
+“What you're requesting is quite unorthodox.” She said and frowned.
+
+“It's the only way to undo everything that's happened, Ma.”
+
+“What do you mean?”
+
+Nathalia sighed. “I can't leave the ship yet. We still owe too much to do that.”
+
+“But this man...”
+
+“Can't be locked in a marriage that he doesn't want.”
+
+Nathalia's mother turned back to Ren. “Is this true?” She asked. “You've been playing with my daughter's affections and now you are spurning her?”
+
+Ren's eyes widened. What do I say? This wasn't a part of the protocol!
+
+“Mother!” Nathalia yelled.
+
+“What?” Her mother yelled back.
+
+“It's not like that! We... we haven't... it's not like that!”
+
+Her mother relaxed slightly. “Then tell me what happened.”
+
+Nathalia and Ren told her the whole story, how it began quite innocently, then how things snowballed into a duel. Then they told her about Nathalia's realization that neither she nor Ren wanted to go through with it, and then the hatching of the plan. When they were finished, Nathalia's mother sat in silence. Several minutes passed and she didn't say anything. Ren still knelt and Nathalia still stood beside the chair, both unmoving.
+
+Her mother nodded. “Wait here.” She said, then tried to stand up quickly and turn right, but she'd forgotten about the rings Ren had given her. When she pushed herself out of the chair with her left arm and legs like she usually did, her extra strength let her pop out of it as if she had hopped.
+
+“Whoop!” She exclaimed. She lost her footing, twisted around and fell backwards, arms windmilling. Ren caught her easily, since he had been kneeling only a step away in front of the chair. She ended up sitting on Ren's knee, with an arm draped around his shoulders, with one of his hands on her upper back and the other hand on her leg.
+
+“Mother!” Nathalia said. “Are you all right?”
+
+“Yes, dear. I'm fine.” She said. “Apparently, I don't know my own strength.” She started to laugh and then stopped. Her eyes drifted down to where Ren's hand was on her thigh, and her face flushed a little red when she realized she was sitting on a man's thigh, and that man was holding her in a very manly way, for the first time in over 12 years.
+
+“Oh... oh my...” She said and her blush filled her face. Ren thought she might pass out and shifted his stabilizing hand from her thigh to under both of her legs. He stood up and cupped Nathalia's mother to his chest.
+
+“Oh My!” She exclaimed.
+
+“Ren.” Nathalia said.
+
+“What?”
+
+“Put my mother down.”
+
+“Her face turned red so fast after that fall, I thought she was going to pass out.” Ren said. “You're supposed to level out the flow of blood when that happens.”
+
+Nathalia laughed. “That's not why she was blushing.”
+
+He's holding me like I weigh nothing! Her mother thought.
+
+Ren looked at Nathalia with a question on his face. “Then why...”
+
+Nathalia smiled. “She's a woman... and if my guess is right... and I sincerely hope it is... she hasn't had a man touch her like that in about a decade.”
+
+Ren looked down in surprise at Nathalia's mother, who looked up at him with embarrassment, and a little bit of longing.
+
+“I'm terribly sorry.” Ren said. “I over-reacted.”
+
+“So did I...” She said. “...I think.” She continued to blush.
+
+Ren put her down gently, standing her on her feet, and found out she was the same height as her daughter at 4 foot even. Ren was a head taller than both of them.
+
+“If I was in my right mind, I wouldn't help you.” Nathalia's mother said.
+
+“Mother!”
+
+Her mother smiled mischievously. “I think he would make a very fine courter.”
+
+Nathalia's mouth fell open. “But... but...”
+
+“Don't worry, dear. I'm going to help you.” She said and then turned to Ren. “I only have 2 conditions.”
+
+Ren didn't say anything and crossed his arms. Teepo? What have you found?
+
+“There's a keep down here, Ren. A big one.” Teepo said.
+
+Really?
+
+“The house is sitting on the entrance. It goes on for about half a mile below ground.”
+
+That is pretty big. Ren thought. How's the condition?
+
+“Terrible. Walls have collapsed, ceilings have caved in. There's really big spiders and some bats. It's actually really dangerous down here. I don't think it's been touched in decades.”
+
+It hasn't. Ren thought. Her father was a tailor.
+
+“That figures. It kills me to see a place like this waste away.” Teepo said, disgusted.
+
+Me, too. What are the chances I can fix it?
+
+“Slim and none... and Slim left town.” Teepo said and chittered in laughter.
+
+Ren smiled.
+
+“Just kidding. If you can get a good stonemason or something, then dig out the rooms above and fix them before trying to clear the lower levels...”
+
+Hm. I understand. Have you found anything shiny?
+
+Teepo chittered in laughter again. “How did you know?”
+
+You're in a dungeon surrounded by spiders and bats, and you're in a good mood.
+
+“Ha ha... I haven't seen anything really good... but there's veins of gold behind some of these fallen walls.”
+
+Excellent.
+
+“What are your conditions?” Ren said to Nathalia's mother.
+
+“One... You pay a proper tribute, as a dowery for my daughter.”
+
+“Mother, no!” Nathalia yelled. “You can't ask him to-”
+
+“And the second?” Ren asked.
+
+“When she is ready in 6 years, you come back and petition to be her courter.”
+
+Ren looked at Nathalia's mother and knew she was scheming for something, and Ren's Haggling ability engaged. I see. Ren thought. “What would you consider a proper tribute to pay?” He asked.
+
+“How much do you have?” She asked coyly.
+
+“By the gods, Mother! Have you no shame?” Nathalia asked.
+
+Her mother laughed. “Relax, dear. He knows what I'm doing, don't you?”
+
+Ren nodded and smiled. Nathalia looked back and forth between them and didn't know what to say.
+
+“Well... rather than offer you money...” Ren said to her mother's wide eyes. “...I'll offer to repair this place.”
+
+Nathalia gasped. “Ren!”
+
+“What?”
+
+“You... you don't know how big this place is.”
+
+“If you're referring to the size of the battlements outside, I know they're supposed to be on top of a structure at least... what? Half a mile high?”
+
+Nathalia and her mother's mouths dropped open in shock.
+
+“I've seen the outside of this place. It's practically crumbling. The inside? Something this old... there'd be walls collapsed and ceilings caved in, I think.”
+
+“How... how....” Nathalia's mother said.
+
+Ren shrugged. “I'll need to talk to a stonemason first, of course. I'd be scared to touch anything without consulting an expert.”
+
+“You'd really do it?” Nathalia's mother said in disbelief. “You'd try to repair the Keep?”
+
+“That's what you want, isn't it?” Ren asked her. “I was wondering why you'd want Nathalia working back home for 3 years after saving up money while working on a ship. There's not 3 years of work to what I've seen so far. There had to be a lot more to this place.”
+
+Nathalia's mother turned to her. “Are you sure you don't want to keep him trapped in an engagement?”
+
+Nathalia opened and closed her mouth, but didn't say anything.
+
+“You're right.” Her mother said. “I've borrowed money to try and maintain this place all these years, but it's been too much for me to handle. Nathalia was kind enough to take a job on a ship to try and earn enough money to pay back what I owe.”
+
+“What we owe.” Nathalia said.
+
+Her mother smiled. “You see? She takes on the family's problems as if they were her own.”
+
+“If you accept repairing the keep as the first condition, then all you'd have to worry about is paying back the money, right?” Ren asked.
+
+“Why?!?” Nathalia and her mother said together, looked at each other, then back to Ren.
+
+“Why would you do this for us?” Nathalia asked.
+
+“I really have messed up your life's plan for the next handful of years. I want to do what I can to fix that.” Ren said, then smiled. “I'm also going to need somewhere to live while I'm here.”
+
+Both Nathalia and her mother blushed slightly. A man living here after so long!
+
+“I can't ask you to let me live here in the house.” Ren said. “The keep on the other hand? I can stay there... once I clean it up a little.”
+
+Nathalia's mother looked at Ren. “I'll agree to the change of the first condition.” She said. “I won't budge on the second.”
+
+Ren smiled. “Actually... your second condition isn't valid anymore.”
+
+“What!” She said.
+
+Ren looked at Nathalia. “Your second condition was based on her working for 3 years on the ship to save up to fix the keep, then 3 years here working on the keep itself.”
+
+Her mother nodded.
+
+“But now... I'm fixing the keep.” Ren said and grinned. “Plus, I've already petitioned to be a courter to your daughter. We're trying to undo that, remember?”
+
+Her mother looked at him, trying to see where she was getting screwed over, but she couldn't see it. She stepped forward and put out a hand for Ren to shake. He didn't take it however.
+
+“I can't agree yet.” Ren said to her shocked expression and she dropped her hand. “While I'm fixing the place, I'm bound to find something valuable. What should we do with it?”
+
+Both Nathalia and her mother stared at Ren again.
+
+“What?!?” Her mother asked.
+
+“I'll eventually get really deep. There's monsters down there. If I kill them, who gets the loot?”
+
+“You do, of course. If they are your kills, you get the spoils.” Her mother said.
+
+Ren nodded. “That's fair. What if I find something in one of the rooms? Do I get to keep it, do you keep it, do we sell it, fix it, split it?”
+
+Her mother huffed. “Just take everything that's not mine, dammit!” She said and stuck out her hand again. Ren smiled and took her hand. Instead of shaking it, he turned it towards his face and bent over to place a kiss on the front of her fingers. It was proper protocol, after all.
+
+“It's an Honor to work for your House, My Lady.”
+
+New Quest!
+
+You have entered a contract with House Neram to rebuild Neram Keep. You will remain in Lady Narhilda Neram's employ until the contract is fulfilled.
+
+No time limit has been set to complete this quest.
+
+Rewards: Immediate Dissolution of House Ememay, ????
+
+Narhilda blushed a deep red as she looked into Ren's eyes. “I-I-I'll have the improper paperwork filed right away.” She stammered.
+
+Quest Update!
+
+House Ememay has been disbanded!
+
+Influence Lost!
+
+Honor Lost!
+
+Notice!
+
+You have been fined by the Dwarven Council for using a false House name!
+
+Fine Amount: 100 gold coins
+
+Fines can be paid at the Main Keep. Time Limit: 1 day.
+
+Well... crap. Ren thought.

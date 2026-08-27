@@ -1,0 +1,291 @@
+---
+id: 21d68313-3585-56b2-a47d-0303a2f7ccc5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 462 - Say Hi To The High Elves"
+slug: 0462-chapter-462-say-hi-to-the-high-elves
+partOf: mythrans-master-of-all-continued-completed
+position: 462
+ownLength: 2996
+unit: words
+publishedAt: 2017-12-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182358/chapter-462-say-hi-to-the-high-elves"
+royalRoadId: "182358"
+---
+
+“I can't believe this!” One of the programmers in the tech department of Sid Tec exclaimed, and several others looked over at him.
+
+“What is it?”
+
+“I messed up the schedule a little.” He said. “A major battle was happening today at the first large walled city of the High Elves called Zinnorel.”
+
+“Aw, man!” One of the other programmers said. “I wanted to see that one!”
+
+“That's the problem.” The first programmer said. “It didn't happen.”
+
+“What?”
+
+“A fire elemental grew to a colossal size and ate all the ghouls that were going to attack the city.”
+
+“WHAT?”
+
+“Hey, what's going on over here?” Max, the head programmer asked. “Why are you shouting?”
+
+“I'm sorry, sir.” The guy who shouted said. “The big battle with a huge High Elven army was ruined.”
+
+“What do you mean, ruined?” Max asked.
+
+The guy pointed to the first programmer. “Go ahead. Tell him.”
+
+The first programmer gave a more in depth description of what had happened, and Max asked to see the footage. He watched as a fire elemental grew in front of the troops, and sighed when he noticed who was there.
+
+“How long ago was this?” Max asked. When the fire elemental became a cow, he almost laughed. Almost.
+
+“Maybe an hour game-time.” The programmer responded.
+
+“So, just this battle and not the whole war.” Max said. “Let me know if anything else happens.”
+
+“Yes, sir.”
+
+Max went back to his desk and sat down. Goddammit! He's doing it again! He thought. It's not too late to save this event before he wrecks it. He opened a message box, typed for a second, and sent it to Ren.
+
+*
+
+Ren was back in the High Elven Kingdom a few minutes after leaving the healer, and he received a message popup.
+
+System Notice!
+
+Your character has received an important update, and you need to log out for it to take effect.
+
+The programmers must have seen the battle. Ren thought in amusement and Princess came to a stop just outside the High Elves front line. He stood up on the saddle and pointed up at the sky. “Are you listening?” He nearly yelled. “I'll leave when I'm done cleaning up this mess and saving these people!”
+
+The High Elves didn't know what to make of this declaration against the sky; but, they didn't comment on it, either.
+
+Ren had Princess run over to Zetaya. “How are you?”
+
+Zetaya rolled over, and Ren chuckled at the sight of a colossal cow rolling over onto it's back and wiggling it's legs. He could feel that the fire elemental wasn't as full as it was before, and it was feeling a lot better.
+
+“I'll let you rest for another hour or so.” Ren said and walked over to the cart. “Can you take 150 more?”
+
+The cow nodded and Ren opened the cart. 10 ghouls jumped out at him, and he swatted them away and then tossed all of the ghouls down into Zetaya. The fire elemental absorbed them easily.
+
+“Thank you so much for doing this.” Ren said to the fire elemental, and he heard a crackling fire. “I'll be back in a little while.” He said, unhooked the cart from Princess and stored it, then pat his mount. “Do you want to stay here, or go for a little run?” He asked Princess, and she had to think about it.
+
+Normally, that would be a hard decision. Princess thought to him. It isn't now. I will stay by your side, in case you need me.
+
+“I guess that means you don't want to miss anything if it happens.” Ren said, and she nodded. He checked the All-Seeing Mirror and asked it to show him any impending battles or skirmishes that could happen over the next few hours. He then asked about towns or villages being overrun, and asked about individual homes or small groups of people. Nothing was happening or going to happen for a while, so he put the mirror away, scratched Princess on the chin and waved to Zetaya, then jogged through the air and stopped at the High Elves command tower.
+
+Ren stood on the railing and could see the elfling as she stood in the middle of the balcony, with her hands clasped in front of her. She had changed her outfit for some reason, and was now wearing a white dress with fancy gold embroidery. Her long raven-colored hair was swept back from her face to highlight her Elven features, and her face was flushed red. The High Elves stood on the periphery of the balcony and Ren felt their anticipation. He sighed mentally, because they had laid a trap for him and were using the elfling as bait.
+
+Ren knew something would spring into place if he stepped on the floor at the respectable distance from her, and he looked her in the eyes. They locked gazes, and Ren smiled at her as he intentionally stepped down onto the floor.
+
+“No.” She whispered as the trap sprung into place, and Ren was surrounded by bars made of Mana.
+
+“Not so smart if so easily fooled by a pretty face.” Alinar Keacaryn, the High Lord of the Elves, said as he walked over to the Mana cage.
+
+“You are an idiot.” Ren said.
+
+Ren felt the High Elf Lord's hatred. He was pretty sure what he felt from the High Lord wasn't for the insult. It was because Ren hadn't stopped looking at the elfling.
+
+“She knows the truth.” Ren said, and nodded to the elfling.
+
+“He stepped there on purpose.” She said as a tear came to her eye. “For me.” She didn't try to hide her shame as she let the tear roll down her cheek. “I'm sorry, M'lord.”
+
+“Fret not, M'lady.” Ren said. “I know the machinations of court politics quite well by now.”
+
+“Court politics?” Alinar chuckled. “This was my idea, and not the court's decision.”
+
+“I had guessed it was your idea, and you misunderstood what I meant.” Ren said. “So, what do you want?”
+
+“We want answers.” Alinar waved to someone, and a wizened old elf stepped forward.
+
+“Why did you come here?” He asked, and Ren felt a slight probe in his head.
+
+“I heard of the immense beauty of...” Ren stopped talking and smiled at the elfling. “I know it's quite improper to ask without having a formal meal with you first.” He said to her and bowed slightly. “I ask for your forgiveness, and for your name.”
+
+She glanced at the High Lord for a moment, and then back to Ren. “Allynna Arthion”
+
+“An appropriately beautiful name.” Ren said and looked back at the wizened old elf. “I heard of the immense beauty of M'lady Arthion, and had to see it for myself.”
+
+The wizened old elf walked over to Alinar and they whispered low enough that they thought Ren couldn't hear. With his stats so high, Ren heard them easily and could even read their lips.
+
+“I can't tell if he's lying or not.” The old elf said. “My probes bounce off of him, and my in-depth attempt was also unsuccessful.”
+
+“What else can you do?” Alinar asked.
+
+“We could try torture.” The old elf said, then shook his head. “Then again, he's a bit too powerful for that to work.”
+
+“That's because of his armor.” Alinar said. “If he wasn't wearing it...”
+
+“A short teleport spell?” The old elf asked, and Alinar nodded. The old man waved another High Elf over and spoke to him just as quietly, then turned back to Alinar. “It will take a few moments to prepare.”
+
+“Just keep him talking.” Alinar said.
+
+The wizened old elf nodded and walked back over to Ren. “Why did you save the city?”
+
+“I heard that M'lady Arthion was inside, and I won't let anything happen to her.” Ren said and smiled.
+
+“What are you going to do now?” The old elf asked.
+
+“When I leave here, after having a nice meal with M'lady, I'll clear away the rest of the ghoul hordes so that she won't be in danger from them ever again.”
+
+“Why aren't you telling us the whole truth?” Allynna asked when the inspiration struck her.
+
+“They didn't say they wanted the truth, just that they wanted answers.” Ren responded, and she giggled. He felt her surprise at the sound of her own laugh, and she covered her mouth.
+
+“Tell us the truth.” The wizened old elf said.
+
+“Okay.” Ren said.
+
+“Why did you come here?”
+
+“Other Adventurers annoyed me, and I'm going to annoy them back.” Ren said. “A lot of this war was their doing, and they tried to shove me aside so I couldn't participate.”
+
+The High Elves exchanged glances, then looked back at Ren.
+
+“How do we know that's the truth?” The old elf asked.
+
+“Just a minute.” Ren said and activated his Craft Wondrous item ability, put a blank amulet on the golden platform that appeared, and made an Amulet of Interrogation.
+
+Amulet of Interrogation (Compulsion - Truth)
+
+Beings (creatures or persons) within the area of effect can't speak any deliberate or intentional lies. Anyone within the Aura cannot avoid speaking the truth when asked a direct question, or they will suffer through a blast of Heat that will make them sweat immediately for the first infraction. Each subsequent infraction will increase both the Heat and the amount of sweat produced.
+
+Any creatures or persons with no will of their own are unaffected by any truth-based spell or enchantment.
+
+Area of Effect: 50 foot radius
+
+“This is an Amulet of Interrogation.” Ren said and held it up. “It causes anyone that lies to sweat profusely until they tell the truth.”
+
+The old elf eyed the amulet and Ren could feel how much he wanted it.
+
+“May I have it?” The old elf asked.
+
+“Sure.” Ren said, and looked at the High Lord. “I only have one question to ask first.” He said. “Do you treat M'lady Arthion properly?”
+
+“Of course I do.” Alinar said. He felt a small burst of heat and beads of sweat popped out on his skin.
+
+“Well, now you know it works.” Ren said and gently tossed the amulet through the bars of the Mana cage. The old elf caught it and immediately put it around his neck, then sighed.
+
+“It's a false comfort.” Ren warned him. “Everyone believes they want to hear the truth all the time; but, when they do, they aren't happy about it.”
+
+“Not in my line of work, halfling.”
+
+“By the tone in your voice, you just insulted me.” Ren said and looked at the other High Elves. “If anyone insults me or M'lady Arthion like that again, I'll teach them a lesson.”
+
+“Not from there, you can't.” One of the others said.
+
+“You do realize that only I am within this cage, right?” Ren said. “Neither my awesome mount, nor my friend Zetaya are inside here with me.”
+
+No one spoke at all for a few moments.
+
+“Wh-what lesson would you teach them?” Allynna asked.
+
+“A most appropriate one, M'lady.” Ren smiled warmly at her.
+
+“Why aren't you afraid of being captured and held against your will?” The wizened old elf asked.
+
+“I haven't been captured.” Ren grinned at the old elf. “I'm merely humoring you.”
+
+“Why are you doing that?”
+
+“At first, it was because I didn't want M'lady to fail in her assigned task.” Ren said, and he felt Allynna's gratitude. “Now? I'm just waiting for your assistant to finish his spell preparation.”
+
+“Why?” The old elf asked.
+
+“It's done!” The assistant said and brought over the scroll. He unfurled it and Ren saw it.
+
+“So I can gain the limited teleport spell, of course.” Ren said, and dismissed the popup saying he now knew the spell.
+
+“Cast it on him quickly!” Alinar said.
+
+“It doesn't work like that.” Ren said, and cut off the old elf's response. “Gathering the Mana and saying the chant takes a lot longer than a few seconds.”
+
+“Do it!” Alinar commanded.
+
+“I'll just stand here and do nothing to try and prevent it.” Ren said and looked at the old elf. “Go ahead. I'll wait.”
+
+The old elf handed the scroll to the Head Spell Caster, who read the spell and the scroll disappeared. Ren felt the elf's regret as the Mana started to build, and stood there with his arms held down at his sides, to show that he really wasn't going to do anything. It took nearly a full minute for the spell to be ready, and a green light formed around the spell caster's hands.
+
+“I'm sorry, Adventurer.” The Head Spell Caster said, and cast the spell... and nothing happened.
+
+“Don't be.” Ren said and laughed. “I have 7,500% Spell Resistance while wearing this thing.”
+
+All of the High Elves mouths dropped open, even High Lord Alinar's, and Ren crossed his arms.
+
+“So, anything else you want to know?”
+
+“Are... are you really going to get rid of all the ghouls?” Allynna asked.
+
+“Not all of them.” Ren said. “I won't deny other Adventurers the chance to play this event.”
+
+“But...”
+
+“The High Elves do not need to be nearly annihilated to achieve the same result.” Ren said. “A skirmish here and a battle there, was all that was needed.” He smiled. “None of this population depletion garbage had to happen.”
+
+“But... M'lord...”
+
+“Are you worried about this Mana cage, M'lady?” Ren asked Allynna, and she nodded. Ren reached out and touched the cage, then absorbed it. It disappeared instantly, and all of the High Elves stepped back. “It provided naught but a temporary barrier between our meeting.” He said and walked forward.
+
+“Stay back!” Alinar said and drew his sword, then darted forward to attack. A shield appeared and the High Lord bounced off of it and flew backwards into the wall of the tower.
+
+“High Lord!” Allynna exclaimed and ran to his side. She knelt by the stunned High Elf and pulled his head into her lap.
+
+“I suspected that you enjoyed your position a lot more than he wanted you to be there.” Ren said.
+
+“I... I love him, even though his hatred for me stabs my heart every time he speaks.” Allynna said, and Ren walked over to her.
+
+“I won't subject you to actually having a meal with me, if the one you love would hold it against you.”
+
+“You are magnanimous, M'lord.” Allynna said.
+
+Ren chuckled. “I assume he has a wife.”
+
+“He does, but she treats him like trash.” Allynna said. “He expects that, and not the love he deserves.” She sighed. “He doesn't understand what actual love is.” She said. “I do everything for him, and yet...”
+
+Ren put a hand on her shoulder. “Please accept my apologies for putting you in this position.”
+
+“M'lord, it is I that should ask for your forgiveness.” Allynna said. “If I had suspected that your words were more than just words...”
+
+Ren smiled. “I would enjoy having a meal with you; but, I won't jeopardize your position for my own enjoyment.” He said. “I will fight for your social standing if you want me to, though.”
+
+“Thank you, M'lord.” Allynna said. “But... they aren't ready for that kind of... social upheaval.”
+
+Ren laughed. “I could argue that they really do need it; but, with the current atmosphere...”
+
+“M'lord... they can't handle...” She ducked her head. “I can't be what they need.”
+
+“That's exactly why you are what they need.” Ren said as Alinar started to come around. “I won't force you to take on that role if you don't want it.”
+
+Alinar blinked his eyes and stared at Ren as he came to, then he tried to get to his feet and continue the attack.
+
+“Don't make me hurt you.” Ren warned as Alinar stood up and hefted the Keacaryn Ancestral Sword.
+
+“High Lord!” Allynna yelled, and Alinar looked at her. “I have politely declined his meal request.”
+
+Alinar took in a deep breath, and sheathed his sword. “You are fortunate that I listen to my underlings.” He said to Ren.
+
+“As are you.” Ren commented, and someone behind him chuckled.
+
+“Who laughed?” Alinar asked and glared at the other High Elves.
+
+“It doesn't matter.” Ren said and looked at Allynna. “M'lady, it was an honor to meet you.”
+
+“I am honored to meet you as well.” Allynna said.
+
+“I would like to arrange meeting more of my kind, with your help.” Ren said.
+
+“There are quite a number of us here.” Allynna said. “It can be done.”
+
+Ren held out a platinum coin. “Please choose an appropriate venue, and make arrangements for everyone in this city that wants to meet with me.” He said. “In 3 hours. That should be enough time.”
+
+“Enough time for what?”
+
+“To see if any of the High Elves survived the healing.” Ren said.
+
+Allynna didn't look at the High Lord before she took the offered coin and stashed it. “I will make the appropriate arrangements.”
+
+“Thank you, M'lady.” Ren said, and walked over to the railing. “I will return.” He said and stepped out into the open air. “I sincerely hope you will be at the meeting.” He looked at Alinar. “I will understand if you aren't.”
+
+“Don't expect to see me there, M'lord.” Allynna said.
+
+Ren nodded and ran across the sky over to Zetaya, then asked the fire elemental if it wanted to be shrunk back down. The fire elemental shook it's head stub and stood up on all four limbs, and Ren took out the All-Seeing Mirror. He asked where the closest ghoul nest was, and showed the location to Princess and Zetaya. The High Elves watched in amazement while the colossal fire elemental tromped over the hill and up into the sky as it ran as fast as it could towards the next encounter. They barely noticed the small speck running through the air beside it.

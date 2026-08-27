@@ -1,0 +1,211 @@
+---
+id: 6f7f8cbf-f6ff-5d21-bcb4-723d86e4d122
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57 - The Sage Of Ages"
+slug: 0041-chapter-57-the-sage-of-ages
+partOf: mythrans-master-of-all-continued-completed
+position: 41
+ownLength: 2648
+unit: words
+publishedAt: 2016-10-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98793/chapter-57-the-sage-of-ages"
+royalRoadId: "98793"
+---
+
+Ren hurried Lucy along through the crowd, or at least tried to. The market was packed pretty tightly by now and people kept blocking their path and greeting Ren like they were old friends. It was mostly men interrupting them, but at one point Ren and Lucy passed a group of women. The group was whispering, but with Ren's ears, he could hear them quite clearly.
+
+“Who is that with Ren?”
+
+“I don't know... but she would have to be famous, too... right?”
+
+“No doubt she's pretty. Maybe Ren goes for that kind of thing?”
+
+“He wouldn't be that shallow, would he? He saved the city. I thought he'd be better than that!”
+
+Ren ignored them and kept going. Teepo chittered in delight at all the people because he had never seen so many gathered in one place before. When they got out of the Market District, Ren heaved a huge sigh because there was almost no one around now.
+
+“Ren, why did I just get a popup saying I had gained 10 Fame?” Lucy asked.
+
+“It's one of the side effects of making the party, I think.” Ren said.
+
+Ren rubbed his face with a hand and sighed. “You remember that time... back when I had that seizure?”
+
+Lucy nodded.
+
+“I was getting an award for saving the city from a great evil. It pretty much made me famous here. Almost everyone knows me now.” Ren explained.
+
+“But...”
+
+“If I'm famous, and you're with me, you start to become famous, too.”
+
+“Oh.” Lucy said. “I guess that makes sense.”
+
+Ren nodded. “Just like in the real world. Famous by association.” Ren smiled. “Come on, we have to get to the library.”
+
+Ren and Lucy jogged down the street and along the avenue until they got to the main road. They followed it until they got to the library and went inside.
+
+Teepo admired the books in awe. “If I had a real body, I bet those would taste delicious!”
+
+Ren chuckled because he could almost feel Teepo salivating and licking his mandibles. Lucy asked what was funny and Ren told her how much Teepo wanted to eat the books. Lucy chuckled too and commented that Teepo would definitely be in bug heaven here.
+
+There were only a few people at the tables at this time of day and Ren looked around for the Sage. No sign of her could be seen. Ren noticed Rosie sitting at the main desk and waved to her. Rosie waved back, but didn't have any kind of expression on her face. Ren thought that was a bit odd, but then turned around to look for the Sage again. Once again with no sign of her, Ren opened up the message system and picked Lara's message. Ren typed a quick response and sent it. A minute later, a side door opened.
+
+“Well, don't just stand there. Hurry up! I don't have all day to waste here, you know.” Lara said.
+
+Ren saw that Lara wore a dark grey robe and had the hood up. Ren and Lucy walked forward and entered the hallway behind the door.
+
+“This way.” Lara said and walked at a fast pace down the hallway. Lara didn't make much noise, so Ren assumed she had either slippers or soft boots on. Lucy's boot heels rang with every step and echoed off the walls. Ren almost laughed at that, since you were supposed to be quiet in a library. Ren didn't say anything about it and followed the two women to the end of the hallway and to the last door. Lara opened it and Lucy went inside. Ren stepped through the doorway and marveled at the sight.
+
+Ren had thought that the main room had a lot of books... but this must have been the storage area for the ones people had to ask for, because from floor to ceiling was shelves. Shelves upon shelves covered every inch of the walls and rows upon rows filled the massive room.
+
+“Over here.” Lara said. Lucy and Ren followed closely behind and Ren kept track of where they were going. If Ren had to leave without guidance, he wanted to know exactly where to go. Getting lost in here probably wouldn't be that bad, though. There's lots to read to keep you busy. Ren thought as they approached a giant table in the center of a clearing.
+
+“Before you say anything... yes, this is my space. One of the 'perks'...” Lara said and rolled her eyes. “... of being the Sage of Ages is that I have personal space in every library in the game.”
+
+“No way!” Ren said and stared at Lara like she was made of gold. Can you imagine? Getting to read every book in every library in the whole game?
+
+“That would take a while.” Teepo said. “Maybe even a full beetle's lifetime.”
+
+How long is that? Ren asked his friend.
+
+“About a hundred years or so.” Teepo said.
+
+Wh-what? I thought... maybe a year... Ren had seen a documentary once and thought that was what they said.
+
+Teepo laughed. “We're barely out of the larval stage after a year. It takes us nearly 3 years just to get out of the egg burrow!”
+
+Ren shook his head in disbelief and Lara blushed a little.
+
+“It's true.” Lara said. “Why else do you think the librarian is in such a bad mood? She hates that I get to share this with her... without her permission.” Lara then adopted her meek persona. “A sage is someone that is supposed to have knowledge, while others seek it.”
+
+Ren and Lucy looked at Lara like she had 2 heads. Ren sincerely hoped that Lara wasn't crazy. Lara was going to be hard to deal with normally... but a real split personality? Ren sighed mentally. Of course, I'm supposed to be crazy, too. Ren smiled.
+
+Lara sighed and dropped her facade. “Everyone thinks that because I'm supposed to know everything, I can tell them what's going to happen next.” Lara shook her head. “Maybe when I'm a much higher level, I'll be able to do that... make predictions on how things are supposed to go... but until then, I'm pretty much stuck in here.”
+
+“Why?” Ren asked.
+
+“Why what?” Lara responded.
+
+“Why are you stuck in here? You can leave whenever you want, can't you?” Ren said.
+
+Lara sighed again. “Unfortunately, I could leave... but I'm constantly peppered by everyone about the future. The future! Ha!” Lara said. “I can barely get a handle on what's happening now.”
+
+Ren looked at her with a puzzled expression.
+
+“It's simple, really. I have the knowledge already... up here.” Lara pointed to her head. “But I need something to jog my memory about it. That's why I need to level up more. The higher my level, the more knowledge I automatically have access to.”
+
+Ren nodded.
+
+“What do you do to jog your memories?” Lucy asked, intrigued.
+
+“Something I kinda hate.” Lara said. “Ren, hand me that stone you wanted me to look at.”
+
+Ren didn't correct Lara's statement and pulled out the first chunk of ore that he'd found out past the mines. It was a good sized chunk and Ren put it on the table. Lara reached out and touched it. Lara closed her eyes and spoke as the chunk glowed a little more than usual.
+
+“Cold... so cold... then heat. Burning and melting... broken... flying through the air... hitting the ground...” Lara let the gem like ore go and disappeared down one of the aisles.
+
+Ren looked at Lucy and Lucy looked back. They stayed looking at each other until Lara came back to the table with a huge roll of several pieces of parchment in her hands.
+
+“Move that aside, please.” Lara said, pointing to the ore. Ren moved it and Lara unrolled a map. It was a map of the city of Aurora.
+
+Lara looked at it for a second and ran her finger across it. “Nope. Too close.” Lara flicked the top piece of parchment aside and it rolled up by itself. It wasn't magic, just that it had been rolled for a long time and reverted back to that shape. Underneath the city map was one of the whole countryside.
+
+“Ah, here we go.” Lara said and ran her finger across the map in the same direction as she did on the other map. Ren followed her finger as it landed just past the mines. “There.”
+
+Ren stared at the spot Lara's finger was. If he remembered correctly, that was exactly where he'd found the chunk of ore. Ren nodded.
+
+Lara smiled. “If you've tried to identify it, you know it's only one piece. Right?”
+
+Ren nodded again and took out another piece and placed it on the table next to the other one. Lara's eyes widened a little and reached out to touch it. Lara said almost the same thing as she did before, except that she added that the chunk was protected afterwards, and Lara looked at the map again. Lara ran her finger in a similar direction, but then veered off and her finger landed on an island in the water.
+
+“It hit there.” Lara said. “Then it was taken to here, and carried up to this spot.” Lara traced a line across the water, hit the land, then crossed over the land to end up right on the spot in the mountain pass where the hidden cove was.
+
+Ren nodded. “That's... that's absolutely right.”
+
+“Of course it is. I know it all. I just needed to remind myself.” Lara said a bit smugly. “I don't suppose you have the last piece, do you?”
+
+Ren grinned. “As it happens... I do.” Ren took out the largest chunk and put it on the table.
+
+“It was a meteor.” Lara said before she touched it. “It was in the bitter cold of space until it hit the atmosphere ages ago. There was a lot of heat that melted off all the ice it had gathered, but then those chunks broke off.” Lara said and motioned to the other pieces. “This one... I'll just bet that there's something interesting that happened to it.” Lara reached out and touched the ore. It glowed brightly and Lara closed her eyes. Ren and Lucy stood there as the big chunk of ore started to shake on the table.
+
+“Lara... I mean, Sage of Ages... maybe you shouldn't read it.” Ren said, worried.
+
+Lara didn't answer and Ren noticed emotions flicker across her face, too fast to recognize. She must be seeing the whole history of what happened around that chunk... Ren thought and reached out to take the chunk. When Ren touched it, it drained all of his mana instantly and glowed a bright green.
+
+The other 2 chunks glowed just as brightly and Lara opened her eyes wide. “Let go, Ren.”
+
+Ren thought about not listening, but since she was the Sage... Ren let go.
+
+“It has enough mana now.” Lara said and let go as well.
+
+The 3 pieces flew together and melded into a single large piece of ore. The green glow faded and it looked like it had never been in pieces at all. Ren and Lucy stared at the meteor.
+
+Teepo had been quiet since the main library, but now spoke. “That was cool.”
+
+“What is it?” Ren asked.
+
+Teepo answered. “I don't know.”
+
+Sorry, Teepo. I was asking the Sage. Ren thought.
+
+Teepo chittered in laughter.
+
+“You can identify it for yourself now.” Lara said.
+
+“Identify.”
+
+Unearthly Meteoric Ore
+
+Due to it's presence not being from this realm, it's properties cannot be defined.
+
+“But... what does that mean?” Ren asked Lara.
+
+“It means... it won't have any properties that can be identified until it's made into something.” Lara said and pulled up a chair. “Ugh... that thing took all my mana! I feel horrible.” Lara said and took out a weak mana potion.
+
+“It took all of mine, too.” Ren said.
+
+“How come you're not exhausted like I am?” Lara said and drank the weak mana potion. “Huh, almost nothing.” Lara said and tossed the bottle in a nearby trash can. The glass bottle shattered. “I've never let myself get this low before.”
+
+Ren took out 2 of his mana potions and put them on the table.
+
+“Where did you get those?!?” Lara said. “I haven't been able to find good potions anywhere! Everyone has been sold out for weeks. All they have are those things...” Lara waved to the trash can.
+
+Ren smiled. “I... have my sources.”
+
+Lara snorted. “Keeping mum, huh? I don't blame you. People would be chasing you all over if they knew you could get them potions.”
+
+“You can drink those.” Ren said. “I'd like the bottles back, though.”
+
+Lara drank the 2 mana potions. “Ah... that's better.” Lara said and handed the empty bottles back to Ren. “You don't have any more, do you? You still owe me compensation for this appointment.” Lara smiled briefly.
+
+Ren raised an eyebrow. “I had planned on giving you 5 gold; but, if you'd rather potions...” Ren took out 2 more mana potions and put them on the table. Lara didn't react at all. Ren took out another, and Lara started to smile. Ren sighed. “This is my last one.” Ren said and took out another mana potion and put it with the others.
+
+“Deal!” Lara said and jumped up to take all 4 potions. “Well, you were certainly lucky!” Lara said to Ren. “I told you that if it hadn't been something interesting, I wouldn't ever forgive you... and I probably would have hated you forever, too.” Lara said and grinned.
+
+Ren chuckled and Lucy rolled her eyes.
+
+“Come on, Ren... we have to go.” Lucy said.
+
+Ren looked at Lucy and she did that 'head tilted several times to the side' thing that Ren had seen in many comedy shows. “You're right, Lucy.” Ren smiled. “Lara... *ahem*... Sage of Ages, I thank you for allowing me to have an audience in your august presence.” Ren said and bowed slightly. “I appreciate all the help you've given me.” Ren said and stored the meteoric ore. “Have a good day.”
+
+Lara waved nonchalantly as Ren and Lucy left the table. Lucy led the way until they got to an intersection and Ren pointed along another shelf. Lucy kept walking and Ren followed along. They got back to the door, went down the hallway, and out into the main library. Ren waved to Rosie as he passed by her desk and she waved again, but still had no expression on her face.
+
+I guess Rosie really doesn't like having Lara here. Ren thought as he left the library behind Lucy.
+
+“So... what are we going to do now?” Lucy said.
+
+Ren shrugged. “I need more potion bottles, so we could stop at the Apothocary.” Ren suggested.
+
+“What about that meteor? Are you going to make something out of it?” Lucy asked as they walked down the street to the Artesian District.
+
+Ren nodded. “It's probably going to take a lot of heat to melt it, though... I don't know if the forge can do it.” Ren stopped dead in his tracks.
+
+Lucy kept walking for a moment and noticed Ren wasn't beside her. Lucy turned around and walked back to Ren. “What is it?” Lucy asked, because Ren looked like he had tears in his eyes.
+
+“I completely forgot.” Ren said as a single tear slid from his eye and down his cheek. “I have to go there right away!” Ren said and started running. Lucy ran to catch up to Ren.
+
+“Go where?” Lucy asked. She was already getting tired trying to keep up with Ren's pace.
+
+“Where I should have gone months ago...” Ren said and wiped the tear away.
+
+“Donan's.”

@@ -1,0 +1,279 @@
+---
+id: e475fb0a-9106-5322-9361-874d5faef1d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 420 - I've Got This"
+slug: 0417-chapter-420-ive-got-this
+partOf: mythrans-master-of-all-continued-completed
+position: 417
+ownLength: 4217
+unit: words
+publishedAt: 2017-11-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174136/chapter-420-ive-got-this"
+royalRoadId: "174136"
+---
+
+The succubi stood by and watched as Ren relentlessly pounded the remains of the umber hulk for a full 10 minutes, and then the Enlarge Person spell wore off. When his small fists didn't do anything to the pile of mush in front of him, he started to calm down. He used an Energize spell to counter the effects of his Controlled Berserk Rage ending, gathered up some of it's blood in a vial, and then looted the umber hulk. He dismissed the XP gain popup and didn't get any kind of money or weapons from the loot. What he did gain was a pet rock.
+
+He was tempted to crush it with Iron Grip as soon as it had dropped into his inventory; but, he didn't know if the pet rock was from it's own remains or was from something it had eaten. Without proof either way, he stored it and decided when he wasn't so easily angered, he would contact the Spirit of Earth and ask what it was. Then he would crush it if it was the heart of the creature.
+
+“Thank you.” Ren said and knelt by his Phantom Steed. “I understand now why Elerlyth feels the way she does about her Phantom Steed Etheria.”
+
+Ren pat it's head and looked at it's information. He saw that it had lost a lot of it's Health, and since there wasn't any way for him to heal it, leaving it with half of it's throat torn out and part of it's face and chest eaten, was not the best way to thank it for it's sacrifice.
+
+“When I cast you again, you'll remember this.” Ren said. “The spell gives me the mount I need, and I need you to remember what you did for me.”
+
+The Phantom Steed tried to huff, but since it's throat was torn open, all that came out was a hiss. Ren gave it a hug despite it's wounds, then dismissed the spell. The succubi could feel his sadness, and came forward as he stood up. They each gave him a quick hug as they walked past, and then they all walked slowly up the ramp to the next level.
+
+“This is a safe zone, so I think we'll stop for lunch.” Ren said, and he took out his icebox. He gave them a plate each and by the time he handed one to the last succubi, nearly all of the others were already done eating. He chuckled as he went back to the first one and gathered up the plates and stored them, then took out all the clean plates he had in inventory and put them in the icebox.
+
+Ren took out his Alchemy kit and used the umber hulk's blood to make a poison antidote, and took it. The poison timer disappeared from his display, and he was glad that his Alchemy skill was mastered and stored the kit and the nearly empty icebox. Now that he had some time to think about it, he knew that he couldn't leave all those bushels of vegetables and three butchered cows in his inventory without properly storing them.
+
+Ren took out his Instant Tower and went up the stairs, and made a large walk-in icebox right in the middle of the floor, and left room around it to still access the arrow slits and his bed. He put up a bunch of shelves and then added all the bushels of vegetables and the cuts of meat from the slaughtered cows. It was a tight fit; but, he managed to get it all in there. Of course, since he had a bunch of stuff in his inventory and the ability to make another tower, he did so.
+
+Ren left the Instant Tower and activated the new one, and stored everything he had inside it. He even took the time to drop all of his shadow coins into his coin pouch, except for a single box that he left on a shelf above his workbench in the other Instant Tower. He never knew when he might lose a battle and keeping everything on him was not the smart thing to do. He deactivated both towers, then stored the 2 inch wide cubes.
+
+“Do you need another emotion feeding?” Ren asked the succubi. There was a chorus of yes and a chorus of no, and he chuckled. “Are you saying yes because you don't want to say no?”
+
+“Yes.” A few of them admitted.
+
+“How about just a taste instead of a full feeding?” Ren asked, and there was general agreement from the succubi. They didn't kneel this time as they took their positions and touched Zunala, and Ren stored his gauntlets and held her hands.
+
+“Can you store your helm as well?” Zunala asked.
+
+“Really?” Ren asked and stored the helm. “Does wanting to see my face as I feed you mean that you're starting to forgive me?”
+
+Zunala shook her head. “Seeing your face makes it... tastier.”
+
+Ren looked at the other succubi and several of them nodded. He smiled sweetly at them and remembered how he felt when he saw Jennifer's metal plate between her legs. He sifted it and discovered that it contained everything that all the succubi needed and he sent that through Zunala. They all gasped as the feeling hit them, and their abilities gobbled the genuine feelings down. Their eyes glowed briefly and they all sighed as the feeling faded.
+
+“I hope that was enough.” Ren said and they all nodded. “I'm glad.” He said and they could feel his happiness through Zunala. They all gasped and stopped touching her before their abilities overloaded; but, Zunala didn't try to let go. She held on and kept feeling his happiness. She wasn't trying to eat it, though.
+
+“Let's get going.” Ren said.
+
+Zunala nodded and let his hands go, and he equipped his gauntlets and helm. He checked the All-Seeing Mirror and it showed that the next level was a single large chamber that was completely filled with vine brambles, and the entire place was filled with ghosts, wraiths, shadows, shadow creatures, and shadow demons.
+
+“Ladies, this next area is too dangerous for you.” Ren said. “Please wait here while I take care of it.”
+
+“No, we are going with you.” One of the succubi said and Ren looked to see that it was Seldanna. “We'll stay back out of your way; but, we won't let you go on ahead and leave us here.”
+
+Ren could feel their determination to stay with him, and he nodded. “All right, you can come as long as you stay in the tunnel until I clear a big enough area for you.” He said. “It's full of life strangling vines that I'm going to light on fire. I'm going to assume the vines or spikes on the vines are poisonous, and within those vines are ghosts and various shadow demons.”
+
+“You're trying to burn them out?” One of the succubi asked. “That's not going to work.”
+
+Ren chuckled. “No, the fire is just to clear the vines and to reveal where the shadow demons are; then I'll deal with them.”
+
+“You're so confident.” One of the succubi said and reached out a hand to touch his armor. He felt her ability take some of it, and he smiled.
+
+“I've fought and killed a summoned shadow demon before.” Ren said. “I know their weakness.”
+
+“That won't help against spirits.” She said and rubbed her hand over the glimmering gold of his armor.
+
+“I've fought spirits before, so I know their weakness, too.” Ren said, and she caught her breath as his confidence made her shiver.
+
+“We will be a fitting audience for you, My Lord.” She said.
+
+“I hope so.” Ren said and grinned. “There's no one else around to show off to.”
+
+She nodded and stepped away, and he turned and walked over to the tunnel. He told the skeleton knight to stay back, because after the fire, he was going to use Light, or Holy enchantments. They followed him down the large tunnel until they came to the entrance of the cavern. Ren waved them to a stop, and he stepped forward.
+
+The entire view, from floor to ceiling, was filled with vines and brambles. He had been right about them being poisonous, and saw thorns on the vines and they dripped a green liquid. Ren knew they wouldn't light on fire on their own, since they were so damp with that liquid, so he used the Web wands mounted on his shoulders to cover what he could see, then used the Fireball wands to light the webbing on fire. It went up like dry paper, and the vines started to burn and fill the cavern with smoke.
+
+Please accept this meager offering, Fire Dancer.
+
+Ren took out a wand and filled it with Gust of Wind, then cast it to push the smoke away from the tunnel. It had the secondary effect of feeding the fire, and the vines started burning in earnest. He kept using the web wands to cover the wet vines and only occasionally had to use a Fireball to light it. He pretty much just had to keep stoking the raging fire as it progressed across the cavern. He didn't follow it up, however.
+
+The succubi and the skeleton knight stood there and watched as the fire made it's way across the cavern, while Ren took out the special golden shield he had recovered from the temple so long ago. Even now he couldn't get the recipe for it, and used his Retain Essence ability to remove the Sunder enchantment it had. Several ghosts and wraiths appeared and Ren enchanted the shield with 50 Light runes, then used Double Infusion to add another 50. He made sure to stand in front of the skeleton knight so it wouldn't get hit, then activated the enchantment that always seem to be boosted by the special nature of the shield.
+
+The ghosts and wraiths screamed as the Holy Light from the shield lit up the entire cavern. The succubi folded their wings over their faces to protect their eyes and the skeleton knight ducked down behind Ren to protect itself from the reflective glare. After a few minutes the screaming stopped and Ren deactivated the enchantment on the shield.
+
+The fire had consumed about half of the cavern at this point, and three shadow creatures that had been frozen in place from the Holy Light were now set free. Ren knew their weakness was Illumination runes, and activated the enchanted ruby mounted to his chest plate. A 1 foot wide solid beam of red laser light shot out and blew through the chest of one of the shadow creatures. It dissolved a moment later, and Ren shifted the beam to burn through the other two.
+
+Ren could feel the shock from the succubi as he easily dispatched more ghosts, wraiths, and shadow creatures as the fire continued to burn away the vines across the cavern. He stepped into the cavern with the skeleton knight and the succubi right behind him. Once he progressed far enough into the cavern, several dark portals opened and a shadow demon stepped out of each of them. He used his chest laser judiciously and dispatched them both quickly and easily.
+
+“My Lord! Over here!” One of the succubi said, and Ren walked over to her. At her feet was a cracked skull and part of a helm that looked similar to the one the skeleton knight had worn. Ren bent down and picked it up to try and repair it, but it didn't work. He stored his gauntlet and picked up the skull, and he felt a sharp pain on his right hand and a tingle went up is arm as a spirit of a knight appeared before him.
+
+“You have slain that which has slain me.” The spirit knight said as a portal appeared behind him. “Thank you, Adventurer.”
+
+“I'm glad I could help.” Ren said.
+
+“You can raise my remains if you wish.” It said and stepped into the portal.
+
+I'll do that later. Ren thought and dismissed the popup for the quest update and stored the skull. I'm a little busy right now.
+
+When all the vines were burned out, Ren and his group had casually walked most of the way across the cavern, and right in front of the tunnel another portal opened. A large clawed hand came out, then a horned head. The hand braced on the ground as the Minor Demon crawled out of the portal that was much too small for it. It stood up to it's full 20 foot height and glared at Ren and the succubi when the portal disappeared.
+
+“I have found you.” It's deep gravely voice said.
+
+“Have you come for your offering?” Ren asked it.
+
+“It is too late for that.” The Minor Demon smiled and revealed a mouth full of pointed teeth. “I've come to eat you all.”
+
+“I'm sure the succubi would like that normally; but, if I'm not going to have sex with them, I can't in good conscience let you do it, either.”
+
+He felt surprise and shock from the succubi and the Minor Demon.
+
+“Wh-what?”
+
+“Look, I know they're tempting.” Ren said and handed the Helm of Foolishness to the skeleton knight. “But, I have their contracts now. If you had a deal with Murdrasu, I'm not obligated to fulfill it.”
+
+The Minor Demon frowned. “You have no say in the matter.”
+
+“Oh, but I do.” Ren smiled and nodded to the skeleton knight. It put on the helm and the enchantment activated. The Minor Demon's head immediately turned and looked at the skeleton knight, and it started to dance. It was just a basic side to side step at first, then it did a 360 degree turn. It popped it's head off and held it up, then rolled it like a basketball from one hand and across it's arm and shoulders, and down it's other arm to catch it with the other hand. It flipped the head over twice and put it back on it's neck upside down. It flung it's arms out to the side and did a little jig, and for some reason, the head stayed in place.
+
+Ren used this opportunity to cast Enlarge Person on himself and equipped the blood sword he had received as loot from Murdrasu.
+
+Vampiric Blood Sword (Rare Wondrous Item - Binds on Equip)
+
+This black iron longsword has been forged in the Void, and can damage anything that lives. It has a thirst for the blood of the living, and can never be satisfied. All hits are considered critical as they drain blood, and causes the Bleeding Profusely condition on those hit. The more blood the sword gains, the more powerful it's wielder becomes to make strikes with the sword easier to gain it more blood.
+
+Please note: This sword cannot be repaired by normal means, and must be given blood instead. Power gains are temporary and only last 24 hours.
+
+This sword grants: Critical Strike (Double Damage)
+
+Damage: 380 (190 Normal Damage)
+
+Durability: N / A
+
+I figured it would be useful. Ren thought as he walked around behind the Minor Demon, then frowned when he did not get the recipe for the sword. He knew that was because it had been forged in the Void, but it still pissed him off. His Fear and Hatred Auras snapped into place as his Enraged condition kicked in and activated his Controlled Berserk Rage.
+
+“RAHHH!” Ren yelled and jumped up into the air to get as much momentum as possible, then shoved the blood sword into the Minor Demon's back. It yelled, but it couldn't do anything else while the skeleton danced. Ren felt the first power boost from the sword.
+
+Notice!
+
+You have gained +10 to all stats for the next 24 hours.
+
+Ren grinned and yanked the sword out, changed his grip on it, and shoved it up into the side of the Minor Demon to impale it up through the chest.
+
+Notice!
+
+You have gained +10 to all stats for the next 24 hours.
+
+“HA! HAHAHA!” Ren laughed and kept pulling the sword out and stabbed the Minor Demon with it over and over. He could see the demon's color starting to drain when he was at +100 to all his stats; but that didn't stop him. He kept going and became even more powerful. When he reached +200 to all of his stats, the Minor Demon dropped down to it's knees.
+
+“I heard that you can't be killed.” Ren said to it, now that it's head was down to his own enlarged height. “I'm going to tell you a secret about that.”
+
+Ren had slashed the sword across it's back over and over until it was just one large wound, and he could see the Minor Demon's heart through it's rib cage.
+
+“There's much worse things than death.” Ren said and shoved the blood sword through it's heart and out through the front of it's chest.
+
+“AHHH!” The Minor Demon yelled and clutched it's chest around the sword. It stopped breathing and slumped over, and Ren held onto the sword as the Minor Demon slid off of it to the ground.
+
+“You... you killed it.” One of the succubi said, completely shocked.
+
+“No, it's still alive.” Ren said and stored the sword. “Even if I decapitated it, I'm pretty sure it could regenerate.”
+
+The Minor Demon twitched when it heard that, and Ren chuckled. He picked the Minor Demon up easily and looked into it's eyes, but it still looked at the skeleton knight.
+
+“You had the succubi gather food for you, and when I showed up and took them, you had to do it yourself.” Ren said. “You were selfish and greedy, and that's okay... to a point. You came after them when you couldn't get a free and easy meal to try and get a free and easy meal.” Ren grinned at the Minor Demon and he felt a trace of fear from it. “They are no longer an easy meal.”
+
+The Minor Demon didn't say anything, but Ren felt it's agreement. He dropped it to the ground and walked over to the group.
+
+Notice!
+
+You have been corrupted! You have absorbed Minor Demon blood directly from the source through your skin. It's effects vary by those infected, and by the amount of blood absorbed.
+
+Current Corruption Level: 92%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+“Let's go up to the next level.” Ren said and used the Energize spell to stop from collapsing after his Controlled Berserk Rage ended and dismissed the Enlarge Person spell. The group followed him over to the tunnel the Minor Demon had blocked.
+
+Notice!
+
+You have successfully defeated the Minor Demon and completed the Cavern of Spirit Horrors.
+
+Rewards: 122,545 XP
+
+Notice!
+
+You have gained a level and are now Level 82, and 10 stat points have been automatically allocated.
+
+Ren felt sad that he had completed what should have been a very difficult task, gained a level, and didn't unlock anything.
+
+“You can't expect something from every level you go up.” Teepo said.
+
+You've been quiet a lot lately. Ren thought to his friend.
+
+“I've just been in awe of the things you're doing.” Teepo said. “Plus, when you're Angered or Enraged, the last thing I wanted to do is get your attention.”
+
+Yeah, I'm glad you kept quiet, too. Ren thought. I don't like being angry at you, either.
+
+“I'm sorry I gave you a reason.” Teepo said, apologetically.
+
+It's okay. I know you were just trying to look out for me in your own way.
+
+“I was, but it hurt you, too.” Teepo said. “I'm not making that mistake again.”
+
+Ren led the succubi and the skeleton knight up the tunnel to the safe area of the next level.
+
+Notice!
+
+Congratulations! This safe area is at the midway point of Shargon Caverns. You have done well to come this far, and you have gained several followers. Unfortunately, this does not come without a cost. If you wish to move forward, a sacrifice must be made to open the door to the next level.
+
+Please Note: Your own spell-created beings do not count as a suitable sacrifice.
+
+“Ha ha!” Ren said and looked at the succubi. “I assume you all got that popup?”
+
+They nodded, and he felt how they felt. They were all nervous and a little scared, and they all wondered who he would pick. Ren took out the three Instant Towers and activated them, then raised up the protective wall around the group to hopefully keep anything out if it did show up. He looked at all of their faces, and he felt a strong sense of protectiveness from one, and saw as she hugged the harness he had made for her. It held the dretch in the bag, and Ren walked over to her.
+
+“Please... don't.”
+
+Ren reached a hand out and she flinched. “It's okay.” He said and cupped the side of her face. “I'm not killing your friend.”
+
+The succubi blinked the tears from her eyes and looked at him as she felt his compassion, and also the protectiveness that matched her own. Ren smiled at her and walked over to Zunala.
+
+“I thought it would be me.” Zunala said.
+
+“Of course it is.” Ren said, and he could feel what the other succubi felt about his decision. They hated him for it. “Who else would get the most out of this sacrifice?”
+
+No one could counter that argument, and Ren took her hand. She gasped at his calmness, and her heart withered a little that he felt nothing about using her as a sacrifice.
+
+“This is going to hurt.” Ren said and took out a knife. “Please kneel.”
+
+Zunala knelt without protest and Ren put the knife in the hand he held.
+
+“You're going to make me do it?” Zunala asked, surprised.
+
+“No, I'll still do it; but, I can't wield normal weapons.” Ren said and held her hand steady. “I need to use your hand to do it.”
+
+Zunala sighed and nodded as Ren moved her hand and the knife up to her neck.
+
+“I'm really sorry about this.” Ren said. “It's the only way.”
+
+“I... I understand.” Zunala said, and Ren felt her resignation.
+
+“It'll be quick.” Ren said, then used her hand and the knife to make a small shallow cut just on the side of her neck. The blood welled up and he let her hand go to bend over and put his mouth over the wound.
+
+“Wh-what are you... OH!” Zunala gasped as Ren fed her a huge burst of pleasure and sucked on her wound. He swallowed a mouthful of her blood and waited. When nothing happened, he swallowed another... then felt deathly ill.
+
+Notice!
+
+Your corruption level has reached 100%. You will die in 1 minute, 59 seconds.
+
+Please note: Corruption resets upon death.
+
+“Th-that did it.” Ren said and stumbled away, then went into the Instant Tower with his shops in it. Teepo.
+
+“See you soon, Ren.” Teepo said and dissolved into the ring. Ren put it and the rest of his rings on the box of shadow coins, took out a single gold coin and left his coin pouch, then dropped his armor on the floor. He dropped off all of his wands except for a Minor Healing one, stored the icebox, and went back outside wearing just his armor bodysuit. The tower door shut behind him and he walked the short distance to the succubi and collapsed to his knees as his face turned blood red.
+
+“Why did you do that?!?” Zunala exclaimed and went to him.
+
+“I... s-sacrificed... myself.” Ren muttered. “No rules... against it.”
+
+“You were supposed to pick one of us!” Zunala said as tears came to her eyes. “I thought you picked me to die!”
+
+Ren coughed up blood and it spilled onto the cave floor. “I'd never pick one of you.” He said and coughed a few more times as a torrent of blood came out. “Ugh, this feels terrible.”
+
+“That's because it's melting your insides.” One of the others said, and Ren looked at her. She had tears in her eyes, as did all the others; and he felt their regret that they had hated him when they thought he had picked Zunala to die. “It's almost over.”
+
+Ren nodded because the countdown was at 30 seconds. He took out the icebox for them to have food while he was gone, and also took out the Minor Healing wand. He wavered from side to side, and Zunala took him into her arms as he fell.
+
+“That wand won't save you.” Zunala said.
+
+“It's... not for... me.” Ren said and used it to heal her still bleeding neck.
+
+“You should have killed me.” Zunala said. “I hate you for killing Murdrasu!”
+
+“I... know you do.” Ren said and touched the tears on her face. “That's why I... had you... kill me.” He said and smiled, then died in her arms.

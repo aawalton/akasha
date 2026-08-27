@@ -1,0 +1,341 @@
+---
+id: a99b2dc3-ec77-5228-b40a-0a86d4f13d2b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 341 - A Promise Is A Promise"
+slug: 0334-chapter-341-a-promise-is-a-promise
+partOf: mythrans-master-of-all-continued-completed
+position: 334
+ownLength: 3516
+unit: words
+publishedAt: 2017-08-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157613/chapter-341-a-promise-is-a-promise"
+royalRoadId: "157613"
+---
+
+Ren had fun on his date with Jhulune, met her parents, and had spent some quality one-on-one time with her in her room. It was time for him to go, however.
+
+“I'm sorry, but I have Adventurer's business to take care of.” Ren said as he stood up and put on his Dire Wolf Hooded Cloak. Teepo dropped from the ceiling and landed on his shoulder.
+
+“Ren... thank... thank you.” Jhulune said dreamily. “I'll... I'll always remember... oh, god.” She said and bit her lip as she rolled over on the bed to face away from him. He couldn't see what she was doing; but, he heard her fast breath and smiled. A few moments later, she rolled back over and looked at him.
+
+“Oh, yes.” Jhulune smiled. “I'll remember.”
+
+Ren leaned down and kissed her long and hard, then broke the kiss with a loud pop. “So will I, Jhulune.” He said, and took out a Bracelet of Magical Balance that gave the wearer +75 to all their stats, plus what the Bracelet of Magic gave them. “Thank you so much for letting me be your first.”
+
+“What... what is that?” Jhulune asked as she stared at the gold and diamond bracelet.
+
+“Something that will let you physically become just as awesome as you are.” Ren said and gave it to her.
+
+“Ren!” Jhulune exclaimed as she stood up and tried to give it back. “I can't take that! It's worth a fortune!”
+
+Ren put both of his hands on her face and lightly kissed her lips. “You've given me a gift worth much more than that.”
+
+Jhulune blinked her eyes at him several times before she spoke. “You... you really mean that?”
+
+“Of course I do.” Ren said. “You'll only ever have one first time.” He said, wrapped his arms around her, and kissed her again. Jhulune wrapped her arms around him as well, and after almost a minute, she broke the kiss and sighed.
+
+“That's probably the last time we'll ever kiss like that.” Jhulune said.
+
+“I'll be moving to my county next week, so that's probably true.” Ren said and ran his hands through her fluffy hair. “We can still be good friends, though.”
+
+“Can we sleep together occasionally?” Jhulune asked.
+
+“Jhulune.”
+
+“I know.” Jhulune said and chuckled. “One time only.”
+
+“You need to build your own life.” Ren said and stroked her ear, then her neck and collarbone. “Find out who you want to be.” He said and stepped back. “Become who you were meant to be.” He took her hand, bent over it, and kissed the back of it.
+
+“Ren.” Jhulune said, then smiled. “My Lord.”
+
+“Goodbye, Jhulune.” Ren said and let her hand go. She nodded slightly to him, and he left her bedroom, activated Sneak, and swiftly went down the stairs and out the front door without making a sound. The front door on the other hand, clicked when he shut it.
+
+*
+
+“Whuzzat?” Angus mumbled from the couch.
+
+“It was just Jhulune's guest leaving.” Gail said. She had heard her daughter's bedroom door, then nothing, then the front door as it shut.
+
+Angus grunted and looked at his wife as she laid on his massive chest. “I hope she didn't fall for him.”
+
+Of course she did. Gail smiled and kissed her foolish husband. “She's much too smart to let that stop her.”
+
+“I know.” Angus said. “She's going to do great things.”
+
+“Especially if he helps her again.” Gail said.
+
+“So that's where she got the ring.” Angus said, and she nodded. “I wonder how much they are.”
+
+*
+
+Ren ran down the street for only a moment, and then stopped. I shouldn't. He thought. It's not my concern. He tried to convince himself and think of several reasons why he shouldn't. Aw, screw it. He ran back to Jhulune's house, carefully opened the front door, and slipped back inside. He didn't shut it this time, however; and went into the kitchen and opened the drawer with the pieces of parchment paper. He wrote a short note, left it on the kitchen counter, and put a handful of platinum coins on it.
+
+You have a great family, Jhulune. Ren thought, slipped back outside, and shut the front door again.
+
+*
+
+“I heard it clearly that time.” Angus said and carefully moved his wife off of his chest. “I hope Jhulune didn't follow him.” He said and went to the front door. He opened it, looked around, and didn't see anyone, then felt Ren's Aura fade away. He shrugged and closed the door, then went back into the living room to his wife who had waited patiently for him.
+
+“I can hear her moving around upstairs.” Gail said.
+
+Angus nodded because he had heard a loud thump, which meant that Jhulune had flopped down onto her bed like she did every night.
+
+“He might have forgotten to kiss her goodnight.” Gail offered, and Angus winced at the thought of someone kissing his daughter.
+
+“Don't tell me things like that.” Angus said to her, and she laughed.
+
+“She's a grown woman, Angus.” Gail said. “She did a lot more than that with him tonig-”
+
+“I don't want to hear it!” Angus said and covered his ears. “No. No one touched my sweet little girl. Nope. No one.”
+
+Gail laughed again and kissed her still foolish husband. The things he freaks out over. She thought, and Angus didn't need any more convincing as he uncovered his ears and embraced his wife again.
+
+*
+
+Ren ran to the Housing District and went into his house. He took out one of the last plates of food from his icebox and gave it to Princess, then went up the stairs to the large bedroom he shared with his personal maids.
+
+“Did you have fun on your date?” Frikara asked as he came into the room.
+
+“Yes, actually.” Ren said. “It was... a little odd meeting her family; but, all in all I enjoyed it.”
+
+“I'm glad.” Frikara said and stored her clothing. “Now hurry up and get in bed.”
+
+Ren chuckled, because he could feel that she wanted him gone quickly so he could come back faster.
+
+“We should eat first.” Ren said and took out the last few plates of food that he had in the icebox. Teepo flew up to land on the ceiling and watched as Ren and the maids ate a quick meal and discussed what they had to do tomorrow. When the food was gone, Ren took off the Dire Wolf Hooded Cloak and folded it up on a chair. He stored his clothing and climbed onto the bed on the far left side.
+
+“What are you doing?” Lusinia asked.
+
+“Letting you have most of the bed.” Ren said and laid down close to the edge. “Don't worry, I'll join the pile again like I did last night.”
+
+“Really?” Andrela asked, then she shivered as she remembered what had happened.
+
+“Okay, not exactly like I did yesterday.” Ren said and smiled. “It's Frikara's turn next.”
+
+The maids stared at him, and he grinned at the surprise they felt.
+
+See you later, Teepo. Ren thought.
+
+“Logout.”
+
+********
+
+Ren logged out and had lunch, then checked his emails. They still haven't given me anything for losing all that Honor and the XP bonuses. He thought. It's been a few days. I wonder what the hold up is? He snorted a laugh. They probably can't think of anything that won't mess my character up.
+
+Ren checked the forums and saw people were still talking about the XP leader board and how someone could get an indeterminate amount of XP.
+
+Because it was a mistake. Ren thought and clicked on a discussion that talked about him. People seemed to be divided on if he was cheating at the game somehow, or had gained inside information. Well, it was definitely 'inside the game' information. He chuckled. If people played it enough, they would discover things they can do, too.
+
+Ren closed his email program and web browser, moved the laptop out of the way, and picked up the VR headset. I can't remember the last time I went back in so soon. He thought, slipped on the headset, and laid back in the bed.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the bed, and saw the pile of maids beside him. I really should ask them how they get like that so quickly.
+
+“You wouldn't believe it.” Teepo whispered. “It's like magic.”
+
+Ren chuckled, and it woke the maids up. “Move over for me.”
+
+“Right away!” A couple of them said, and they sorted themselves out of the pile and moved over to let him get in the center.
+
+“I'll go scout the rest of the house.” Teepo said and left the room.
+
+“Let's try spooning this time.” Ren said and laid down on his side, and reached a hand out for Frikara.
+
+“Spooning?”
+
+“Pretend your some food, and I'm a spoon trying to scoop you up.”
+
+“If you're going to be a utensil, I think I'd rather you be a fork.” Frikara said and grinned.
+
+Ren snorted a laugh. “Come here.” He said and pulled her down onto the bed. Frikara shifted around at his direction, and he put an arm around her waist and pulled her in close to him. He had his knees bent and his head and chest forward a little bit, and she fit into the space easily.
+
+“By the gods.” Frikara whispered. Nearly all of his front from head to toe touched nearly all of her back from head to heel, and she took a deep breath as she let the sensation of feeling all of him run through her.
+
+“Andrela.” Frikara said, and Andrela laid down in front of her in the same position. Frikara wrapped an arm around her waist and pulled her in close just like Ren had done, and she was spooned as well. Without any prompting, the other three maids got behind Ren and did the same thing. Once again he was in the middle, but he knew that wouldn't last long. Once they were asleep, all sleeping arrangements were thrown out the window. Ren let sleep drag him down, and the maids soon followed his example.
+
+*
+
+“I'm going to him.” Lylyth said from her throne and stood up.
+
+“Your Highness, that isn't wise.” Her attendant said.
+
+“He just came back from wherever Adventurer's go. If he's going to sleep with someone else, it's going to be me.”
+
+“He's barely half your size.” The attendant said. “You aren't going to feel much, if anything.”
+
+“I don't care!” Lylyth exclaimed, and for an instant her spider body appeared, shot a quick web to cover her attendant's mouth, then disappeared again. Lylyth froze when she realized what had happened. “Great Vasalor.” She said, and fell to her knees. “I haven't manifested like that since...”
+
+“Mmmum mummmum mum.” The attendant mumbled through the web that covered her mouth.
+
+“Yes, it's been decades.” Lylyth said and looked at her arms. The decorative web pattern covered her forearms and was slowly making it's way up to her shoulders. She moved the small bit of cloth out of the way and looked at her chest. Right over her heart was a partially-developed spider image that was filling in day by day.
+
+“I want it all back right now.” Lylyth said softly. “This slow waiting is maddening!”
+
+The attendant walked over to her Queen and put a hand on her shoulder. “Mmm mum muummum.”
+
+Lylyth sighed. “I know I can't force it by willpower alone.” She said. “That's why I want Ren's help.”
+
+“Mmmum mumm mum muumum?”
+
+“Of course he'll help me.” Lylyth said. “This is all because of him anyways!”
+
+“Mum mummum mum mumm.”
+
+“You're right. He doesn't know he's doing it.” Lylyth sighed. “I suppose I should tell him before I just show up out of the blue.”
+
+“Mumm mmmm mm mumm.”
+
+“When have I been wise about this whole situation?” Lylyth asked and stood up. Her familiar had come down at her silent request, and she pet him. “I won't be going myself.” She said, and called for the healer.
+
+“Yes, Your Majesty?” The healer said as she came into the throne room. She had made it a habit to stay close to her Queen the last few weeks.
+
+“I need you to deliver a message for me.” Lylyth said.
+
+“I know what I must do.” The healer said.
+
+Lylyth smiled at the healer. Since she had entered the healer through her fear, to compel her to talk about what was happening, they ended up with a much deeper connection than she had with her other devoted followers.
+
+“Make sure to-”
+
+“Yes, Your Majesty.” The healer said. “As soon as he wakes, I will tell him.”
+
+Lylyth nodded and opened a portal, and the healer stepped through it without another word.
+
+*
+
+The portal opened in Ren's bedroom and the healer stepped out of it, right next to the chair that the Dire Wolf Hooded Cloak was on. There were no lights on; but since she lived in perpetual darkness and because she was a Dark Elf, her eyes were quite used to it and she could see just fine.
+
+The healer looked at the bed and saw the pile of people and a tangle of limbs, then smiled because she could barely make out Ren on the bottom of it. She reached into the Dire Wolf Hooded Cloak and took out the tarantula that was her Queen's blessing upon those that were worthy, cradled it in her hands, and sat down to wait. As a precaution, she weaved a shadow to cover herself from prying eyes. When the object of her task awoke, she would reveal herself to him like the Queen wanted.
+
+*
+
+Several hours passed before Frikara moved around and felt something poke her back. “Mmm. Yes, Ren. Go ahead.”
+
+Ren opened his eyes at her words and looked for her. He couldn't see her, though; and he wondered what was going on.
+
+“Yes, move lower.” Frikara said as the thing that poked her moved down her back.
+
+“Frikara.” Navruth said.
+
+“Yes?”
+
+“That's my elbow.” Navruth said and a couple of the maids laughed.
+
+“What?” Frikara opened her eyes and looked around. She was near the foot of the bed and well away from Ren. “Oh.”
+
+Everyone felt her disappointment in the shared Aura and reached for her; Ren included. The maids all made room for her, and Ren pulled her up on top of himself. Frikara tried to position herself like the day before, but he stopped her and asked her to get on her back.
+
+“On... on my back... on top of you?”
+
+Ren nodded.
+
+“O-okay.” Frikara said and did as he asked. “This feels... a little weird.”
+
+Ren chuckled a little, then he kissed the side of her neck. She let her head fall over his shoulder as he nuzzled her there, and she moaned as his hands grabbed her chest and massaged them.
+
+“Oh... OH!” Frikara gasped as he tweaked the tips a little.
+
+The other maids put their hands on her so they could feel what she felt clearly. Ren let one of her breasts go and slid a hand down across her abdomen and then touched the top of her underwear.
+
+“By... by the gods!” Frikara exclaimed and went, just from the thought that he would try and touch her special place. The other maids went along for the ride and gasped themselves; then Frikara panted several times and relaxed.
+
+“Oh, Ren.” Frikara whispered.
+
+“That was quite enjoyable.” A female voice said from the side of the room. The maids knew what to do in an emergency, and they rolled off the bed and out of the way as Ren hopped up, equipped his clothing and hammerpick, and faced the threat.
+
+“Don't be alarmed.” The healer said as her Shroud of Darkness went away. “My Queen tasked me to deliver a message.”
+
+“How did you... no, I know how.” Ren said. “Why now?”
+
+“Actually, I arrived late last night.” The healer said. “I've been waiting for hours.”
+
+“Teepo?” Ren asked and looked up.
+
+“I didn't see her when I came back in an hour after I went to scout.” Teepo said from the ceiling.
+
+“My shadow stops all forms of detection.” The healer said. “Just so you know, Spot only works if the object is moving within your sight range.”
+
+“Oh.” Teepo said. “That's good to know.”
+
+Ren sighed and stored the hammerpick. “What's the message?”
+
+“Can we have some privacy?” The healer asked and looked at the maids.
+
+“I can order them to not repeat what they hear.” Ren said. “Or make them forget it entirely.”
+
+The maids gasped at that, and the healer nodded.
+
+“My Queen has been getting her old powers and abilities back.” The healer said. “She's blossoming into what she once was.”
+
+“And?”
+
+“It's because of you.” The healer said.
+
+“Excuse me?”
+
+“Ever since she gave you the Mark of Favor, she's been feeding from you.” The healer said. “It's been having quite the effect on her lately.”
+
+“Does she want to take it back?” Ren asked, and the healer shook her head.
+
+“Not at all.” The healer said. “In fact, she wants to accelerate it.”
+
+“Accelerate it how?”
+
+“By letting you force-feed her like you did with the other one.” The healer said. “We've been delaying her from just popping over and taking you.”
+
+“Thanks for the warning.” Ren said, and the healer laughed.
+
+“I'm not warning you.” The healer said. “I'm informing you that she will come for you soon, and you should be prepared to serve her...” She glanced at the space between his legs. “...hopefully to the best of your ability.”
+
+“I won't be forced into anything.” Ren said and crossed his arms. “I choose what I do and with whom.”
+
+“Forced? Are you crazy?” The healer asked and laughed. “You already agreed to do anything she asked of you. I even felt your desire for her when you visited her last.”
+
+“If I remember correctly, she broke both of my arms by accident.” Ren said.
+
+“Yes, and you were still willing to feed her, even after that happened.” The healer said. “I thought you were a remarkable man for that, then you gave me this and I knew you were much more than just remarkable.” She said and took out the Mana potion he had given her after she had healed his arms.
+
+“You still have that?” Ren asked. “I thought you would have drunk it by now.”
+
+“Drunk it?” The healer asked, incredulously. “It's liquid Mana!” She said and held it up. Her hand glowed slightly for a moment, then the blue potion glowed brightly as it reacted to her ability, then the glow spread over her and she sighed as it faded. “It feels so good to recharge from it.”
+
+Ren stared at her as she put the potion away. No wonder she was so thankful when I gave it to her.
+
+“My task is complete.” The healer said and Ren's pet tarantula crawled up to her shoulder. She whispered to it, and then a portal opened beside the chair.
+
+“I didn't know it could do that.” Ren said, and the healer laughed.
+
+“You are so funny.” The healer said, stood up, and placed the spider on the cloak. “My Queen made the portal.”
+
+“I know that.” Ren said. “I meant talking to it and relaying a message.”
+
+The healer smiled and walked to the portal. “Remember. She will come for you soon.”
+
+“I'll be ready.” Ren said, and the healer stepped through the portal.
+
+*
+
+“What did he say?”
+
+“He said he would be ready.” The healer said, and Lylyth almost jumped for joy.
+
+“Then I'll get him now.” Lylyth said.
+
+“Mmm MMUM!” Her attendant said.
+
+“Yes, I can!” Lylyth said, and a giant spider leg manifested. It quickly reached out, touched the webbing on her attendant's mouth, and yanked. It tore off the webbing like she wanted; it just happened to take some of the attendant's skin with it.
+
+“Gah!” The attendant gasped and fell to her knees as the manifested spider limb disappeared. “You're still unstable.” She said as the healer went to her and healed her face. “I caution that you should wait.”
+
+Lylyth manifested 2 large spider legs and jammed them into the stone floor of the throne room and shattered several tiles into bits and pieces.
+
+“I DON'T Need to...” Lylyth's yell turned into a whisper as she felt the healer regard her as a spoiled child that was throwing a tantrum. “Very well.” She sighed and let the spider legs disappear. “I will give him time to adjust to the thought of feeding me properly.”
+
+The healer finished with the attendant's face, and they both walked over to the throne behind their Queen.
+
+“By properly, you mean...” The attendant started to say.
+
+“Yes.” Lylyth said. “He will scream for me.” She smiled. “Or die trying.”

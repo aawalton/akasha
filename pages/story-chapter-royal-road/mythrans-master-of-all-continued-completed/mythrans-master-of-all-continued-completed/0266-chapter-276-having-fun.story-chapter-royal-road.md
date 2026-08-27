@@ -1,0 +1,381 @@
+---
+id: 0549d43f-8e1c-525b-9b7c-d6ecbb26ddcf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 276 - Having Fun"
+slug: 0266-chapter-276-having-fun
+partOf: mythrans-master-of-all-continued-completed
+position: 266
+ownLength: 3784
+unit: words
+publishedAt: 2017-06-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141094/chapter-276-having-fun"
+royalRoadId: "141094"
+---
+
+“This was a great idea!” Officer Holly Stonewall said as she gazed out over the cliff from the top railing of the largest lighthouse on the coast.
+
+“Yeah, I love it here.” Detective John Ramirez said. “I always make it a point to come here when I visit.”
+
+“Did you just point out that you make it a point to visit the Point?” Holly asked as she looked at him and chuckled.
+
+“Only because it's a point of contention with me.” John said and chuckled himself. “What's the point of saying it, if I don't get right to the point?”
+
+Holly laughed and John's watch beeped.
+
+“This is it.” John said, and pointed out over the water. “10 more seconds.”
+
+Holly took in a deep breath of the fresh sea air, and waited for the sun to set. John took the opportunity to put an arm behind her back, and rested his hand on her hip. Holly was completely in the moment, and leaned in close to put her head on his shoulder. She wrapped her arm behind his back, and they stood there together to watch the sunset. The sun dipped into the water, and it's eternal flames appeared to be extinguished from the illusion. Holly sighed as she let her breath out, and looked up at him.
+
+“That was nice.” Holly said. “I've seen the sunset hundreds of times, but never like this.”
+
+“Me, either.” John said.
+
+“Wh-what?” Holly said, surprised. “You've never seen the sunset?”
+
+John chuckled. “I've seen it more times than I can count.” He said. “But, I've never brought anyone up here to watch it.”
+
+“You... you didn't...”
+
+John shook his head. “I was kind of saving a moment like this for when I met that special someone.”
+
+Holly blinked her eyes at him several times. “J-John...”
+
+“Shh.” John said and turned to face her. He put his other arm around her to take her into a hug, and her eyes widened as she felt how happy he was to hold her so close.
+
+“J-John...” Holly tried to speak again, and then he kissed her.
+
+*
+
+“How many plates is that?” Stella asked.
+
+“No idea.” Ren said and took another french fry. “I'm sure the waitress is keeping track.”
+
+“I have no idea where you're putting it all!” Gloria laughed. “I only had a burger and fries, and I can't even finish the fries!”
+
+Ren chuckled. “That's because you filled up on nutritional things like meat, bread, and salad.”
+
+“I'd ask you to hurry up, but you're milking this for all it's worth, aren't you?” Stella asked.
+
+“Of course I am.” Ren said and ate another french fry covered in gravy. “Once again, the battle rages!” He exclaimed and ate another french fry. “Will the Endless Stomach succumb to the continual onslaught of Endless Fries, or will it prevail in it's latest attempt to fight off perpetual hunger?”
+
+Stella and Gloria laughed and shook their heads as Ren continued to eat more fries.
+
+*
+
+“Something's wrong.” Agent Smith said to his partner. “Why is he giving up so many people?”
+
+“I don't know.” His partner, Agent Smith said. “Once the investigator let it slip that we found him through his old alias, he's been 'spilling the beans'.”
+
+“It's definitely suspicious.” Agent Smith said. “He's admitting to several of the crimes right off the bat, too.”
+
+“You don't think...”
+
+“Yeah, he's the scapegoat.”
+
+“Ah, dammit.”
+
+*
+
+Holly broke the kiss and leaned back. “John... we... we're partners...”
+
+John sighed. “I know.” He said. “We spend a lot of time together, but it's always been work between us.”
+
+“Yes.” Holly said. “We've both tried to keep this relationship professional.”
+
+John nodded. “We also work well together.” He said. “But... this case...”
+
+It was Holly's turn to nod. “It's... making us see things differently.”
+
+John moved one of his hands from her back to cup the side of her face. “For the last little while, you've shown me how great you are.” He said. “Knowing you're smart is one thing, but showing me you're intelligent, intuitive, and a great investigator too boot?” He smiled. “You're just hitting all my buttons.”
+
+Holly raised her eyebrows at him. “I...” She swallowed. “I think we should go.”
+
+John nodded, and slowly slid his hand down her cheek, then let her out of the half-hug he had her in. “You're right, it's getting dark.” John said. “Let's climb down before it's too dark to see the ladder clearly.” He went over to the ladder. “I'll go first. If you start to fall, I'll either catch you, or you'll have something softer than the ground to land on.”
+
+Holly smiled, let him get a few rungs ahead of her, then started to climb down herself. She watched him to see if he was checking her out, and caught him as he glanced up at her a few times. She couldn't tell if he was looking at her for her safety or at her butt; either way, it didn't bother her. She had worn the jeans for him, so it was okay if he did look.
+
+When she was near the bottom of the ladder, she felt his hands on her hips. It startled her slightly, and her foot slipped. Her hands slipped next; but instead of falling, she was suspended in the air by her hips.
+
+“I got you.” John said, and eased her to the ground. “Are you okay?”
+
+Holly nodded, and he led her to the car. John opened the door for her again, and she climbed into the passenger seat.
+
+Even though I ended that romantic moment on top of the lighthouse, he's still treating me like a date. Holly thought. I was a little worried he'd be angry, or at least get a little pissy with me.
+
+They drove back to the inn, and neither of them said anything. It was a companionable silence, and not oppressive or strained. It was one of the things they liked about each other. Once at the inn, they went inside and to their room. They decided to take turns in the shower, and Holly made him go first despite his many protests that ladies should always go first. John came out after only spending 10 minutes in the bathroom, with just a towel around his waist. His hair and chest were still wet, and he carried a small towel.
+
+“I went fast, just in case they don't have a big water heater here.” John said. “I didn't want to hog all the hot water.”
+
+“Thank you.” Holly said, picked up her bag of toiletries, and went into the bathroom.
+
+*
+
+“Geez, look at that!” Tommy said as he checked out the leaderboard for the largest XP gain at one time. “It's too bad they don't say how they got it.” He said, then opened the forums. “Ren...” He said as he typed in the name and searched for anything. He got several hits, and discovered that a lot of people were discussing him. He clicked on the one with the most responses, and it talked about Ren's new hit show.
+
+“He has a show now?” Tommy asked himself.
+
+“What are you looking at?” His girlfriend asked when she came into the room.
+
+“I was just checking the Flow website to see what was new, and Ren got the top spot on the XP leaderboard again!”
+
+His girlfriend laughed. “For a guy that's not a fighter, a magic user, or a healer, he sure gets around a lot.”
+
+“Tell me about it.” Tommy said. “Did you read his last book?”
+
+“Yeah.” His girlfriend said. “I can't believe it was free!”
+
+Tommy laughed. “All of his books are.”
+
+“WHAT?”
+
+“Just ask that short Librarian the next time you're in the Library.” Tommy said. “She'll give you copies of all of his books.”
+
+“I'll do that.” She said and leaned in to give him a kiss. “You know, you should send him a message.”
+
+“What for?”
+
+“You've been dying for a better bow for a while, haven't you?”
+
+Tommy sighed. “Yeah, and the one I want in the general store is way too expensive to justify the price.”
+
+“Then ask Ren to make you one.” She said. “I'm sure he'd take the time to make you something. You are his friend.”
+
+Tommy shook his head. “I'm not much of a friend. I haven't seen him since the Aurora Expedition.”
+
+“That doesn't matter.” His girlfriend said. “He's a guy, and he's on your contacts list. He'll be ecstatic to hear from you.” She gave him a hug and held on. “Trust me.”
+
+“Okay.” Tommy said. “I'll send him a message right after I log in.”
+
+“You might want to wait before you do that.” She said.
+
+“Why?”
+
+“You're going to be busy after we log in.”
+
+“We don't have a quest lined up yet.” Tommy said. “What am I going to be busy with?”
+
+She put her lips by his ear. “I splurged a little bit at Ren's store.”
+
+Tommy caught his breath as he completely understood what she meant. His girlfriend bit his earlobe, and he shivered.
+
+“You're right.” Tommy said, and stood up. He kissed her hard on the mouth, and grinned. “I am definitely going to be too busy for the next half an hour.”
+
+His girlfriend giggled and he chased her into the bedroom. They laid down on the bed and picked up their VR headsets to log into the game. It was time for some one-on-one action; and since it was virtual, there was no need for condoms or for the fear of pregnancy.
+
+*
+
+Holly had taken her shower, and even though she was a lot smaller than John, she was in there for twice as long and came out over 20 minutes later. She saw John was standing in front of the television set and only wore a pair of jogging pants.
+
+No shirt? No socks? No problem. Holly thought and smiled at his back. It was a good view. “Aren't you going to complain that I took too long?”
+
+“Why would I do that?” John asked as he turned around with a smile on his face. He saw she was only wearing a towel wrapped around her chest, and his smile froze in place. It was one of the small towels.
+
+“Men always complain that a woman takes too long in the bathroom.” Holly commented.
+
+“That's because they don't understand that a woman needs her time to get ready.” John said, when he recovered from how much the towel wasn't covering.
+
+“Really?” Holly asked and went to her bag. She picked it up and went to stand between the beds. “Which one of these is yours?”
+
+John chuckled. “I was going to ask you that when you came out.” He said. “I want you to be comfortable, and taking the bed I want without at least talking to you first, would have been more than selfish of me.”
+
+“That would be a dickish move.” Holly smiled. “I think I'll take this one.” She said, and put her bag on the bed farthest from the door. It was also the one she had hopped up and down on earlier.
+
+“I thought you'd take that one.” John said, and turned off the television. “Now that you've chosen, I think... yes, I'll take this one.” He smiled and sat down on the other bed. It was the one closest to the door, and he laid back on it and put his hands behind his head. “Yes, this one is much more comfortable.”
+
+Holly laughed. “Are you trying to tell me that you want this bed instead?”
+
+“Not at all.” John said. “I wanted this one, just so I'd be between you and the door.”
+
+“That sounds kind of ominous.” Holly said. “Are you expecting something to happen?”
+
+“I'm always expecting that something will happen.” John said. “Be prepared and all that.”
+
+Holly smirked at him. “Going all boy scout on me, are you?”
+
+John nodded. “I won't let anything bad happened to you.” He said and held his hand up in the boy scout salute. “Scout's Honor.”
+
+Holly chuckled. “Turn your head the other way, Mr. Boy Scout.”
+
+“Yes, ma'am.” John said, and turned his head to the side. With his head turned away, it gave Holly a chance to look at his body. She saw that he had a few defined abs, but not the 6 pack of a hardcore exerciser. He had good arm muscles, and his chest was nice and broad. She felt things stir within her, and she shook her head.
+
+No, I won't think with my hormones. Holly kept her eyes on his face as she undid her towel. She let it drop to the carpet, and John's head didn't even twitch in her direction at the sound. She was completely nude, and she wondered what he would say if he saw her. She smiled and picked up her over-sized t-shirt and put it on over her head. She grabbed a pair of frilly lace underwear and slipped them on.
+
+“Okay, you can look now.” Holly said, and John turned to look at her.
+
+“Wow.” John said. “You're... ah...” He looked up at the ceiling so he wouldn't stare at her. “Goodnight.”
+
+Holly was so surprised by his reaction, that she didn't know what to do. I'm completely covered! She thought and looked down at herself. It's not see-through, I'm not poking out, and you can't see my underwear!
+
+John started to hum a soft tune, because he was trying his best to keep his eyes off of her. Holly looked at his face first, then her gaze drifted down to his waist.
+
+Oh, my. Holly thought. Does he really like t-shirts or something? She moved her bag to the floor, and climbed onto her bed. “Goodnight.”
+
+*
+
+For the last half an hour, Stella and Gloria had watched in amazement as Ren just kept eating and eating.
+
+“Okay, I'm calling it.” Stella said. “Endless Stomach is definitely the clear winner.”
+
+“Ding! Ding! Ding!” Gloria said. “By unanimous decision, Endless Fries suffered a knock out in the...” She turned to the waitress and whispered. “How many plates was that?”
+
+“Five.” The waitress responded softly.
+
+“By knock out in the fifth round, we have a winner! Endless Stomach!”
+
+“YAY!” Ren said, and sat back in the chair. “Take that, Endless Fries!” He said and grabbed the last one to shove it in his mouth. “In your FACE!”
+
+They all laughed, even the waitress.
+
+“Check, please.” Ren said, and the waitress handed it to him. He paid it and gave her a 40% tip for delivering the plates of fries just as he needed them. She looked like she wanted to kiss him, and he smiled at her.
+
+“If you'll excuse the pun, my plate is kind of full right now.”
+
+She laughed, and leaned in to kiss his cheek. “I'm a big fan of the show.” She said, and looked at everyone at the table. “Thank you for choosing Amazon Jim's, and I hope you have a great day.”
+
+“You, too.” Stella said, and stood up. “Let's get back to the house and finish working.”
+
+Ren and Gloria nodded, and the waitress waved as they left the restaurant.
+
+“She's a big fan.” Gloria said when they loaded Ren into the minivan.
+
+“A huge fan.” Stella said as she got in the seat behind the driver.
+
+“My best fan!” Ren said. “She gave me Endless Fries!”
+
+“You better be careful of strangers offering gravy fries, mister.” Gloria said and grinned.
+
+“Oh, damn!” Ren said.
+
+“What is it?” Stella asked, concerned.
+
+“I should have asked her what her name was.” Ren said. “If I know her name, she won't be a stranger anymore.”
+
+Stella laughed, and Gloria pulled out of the parking lot to go back to Stella's place to finish out the day.
+
+*
+
+It had only been a few minutes, but Holly couldn't help but stare at John and the bulge in his jogging pants.
+
+Why isn't it getting smaller? Holly asked herself. Is it supposed to last this long if you don't do anything to it?
+
+John was embarrassed that his erection wasn't going away. She pushed my last button with that t-shirt stunt. He thought, and couldn't get that image out of his head. That is so damn sexy!
+
+Holly felt her body react, and her emotions were starting to get the better of her. No, we... we can't... I... I want to keep him as a partner... if this happens...
+
+What do I do? John asked himself. There's no way I'm going to get to sleep...
+
+Holly got out of bed and walked over to him. “John, I...”
+
+John looked at her, and he saw the doubt and worry on her face.
+
+“I want to stay partners, John.” Holly said. “Like you said, we work well together. We click like all good partners do.”
+
+John nodded, but didn't say anything.
+
+“If... if we...” Holly looked at him intensely. “You have to agree that this is it.” She said. “Only for now. Only for this weekend.”
+
+John smiled at her as he understood what she meant. “I'm not Detective Ramirez right now, and you're not Officer Stonewall.”
+
+Holly nodded, and John held a hand out to her.
+
+“Hi, Holly. I'm John. It's nice to meet you.”
+
+“Hi, John.” Holly said as she took his hand, then climbed onto the bed with him. “And you're damn right it's nice to meet me.”
+
+John laughed and then kissed her.
+
+*
+
+Ren, Stella and Gloria changed back into their sweaty clothes, and logged back into the administrative medical program.
+
+“So, what's on the agenda now?” Ren asked. “We've got an hour left in real time for this, but that's 8 hours in here.”
+
+Stella pulled up all of the things that she wanted to do, and Ren whistled.
+
+“Why so many different activities?”
+
+“We need to record the brain in all of it's... well, permutations.”
+
+“Permutations?” Ren asked and pointed to one that was part-way down the list. “What does a roller coaster have to do with... oh, I get it! Fear, excitement, and exhilaration!”
+
+“Bingo!” Stella said. “Your reactions have psychological effects, but they also have physical effects, too.”
+
+“Let's do that first!” Ren said. “I've always wanted to ride one!”
+
+Stella laughed. “As long as we get these done, it doesn't matter what order we do them in.”
+
+“Great!” Ren said, and pulled up the roller coaster design up. He put it beside the running track, then looked at the other rides that were available and grinned. “This is going to be fun!”
+
+“For you maybe.” Stella said. “I've got to stay here and monitor your readings.”
+
+“For the first time, sure.” Ren said and looked at her, then spoke in a deep voice. “I'll be back.”
+
+He grabbed Gloria by the arm and dragged her over to the ride.
+
+“Why do I have to go?” Gloria asked. “I hate roller coasters!”
+
+“Perfect!” Ren said. “Stella! You're getting good numbers for Gloria, right?”
+
+Stella nodded, and Ren smiled.
+
+“Hop in.” Ren said. “I won't let anything happen to you.”
+
+“Ren, you're not superhuman.” Gloria said. “How would you stop anyth-Mmh!”
+
+Ren kissed her to stop her from talking. He broke the kiss and grinned at Gloria's surprised expression. “Get in, and hold onto me.” Ren said, and Gloria nodded and sat in the front seat. He sat beside her, and she gripped his arm tightly. “Hit it, Stella!”
+
+Stella activated the ride, and the cars rolled along the track and started to climb the first high arch.
+
+“Oh, god!” Gloria exclaimed and closed her eyes. Ren reached over and took one of her hands that was wrapped around his arm like a vise.
+
+“It's okay.” Ren said. “I'm right here.”
+
+“Ren, I... I'm so scared!”
+
+“You don't have to be.” Ren said. “Look at me.”
+
+Gloria opened her eyes and looked at him. She couldn't feel how he felt, but she recognized that look in his eyes.
+
+“How... how can you look at me like that?” Gloria asked.
+
+“Like what?” Ren asked, but he knew what she meant. He just wanted her to admit it to herself.
+
+“Like... like we're... having sex.” Gloria said.
+
+Ren smiled. “That's because I love you.”
+
+“Wh-what?” Gloria said, shocked.
+
+“I recently spent some time with Lara... she's the Sage of Ages in the game... and she asked me a very important question.”
+
+“What was that?”
+
+“She asked me who I was kissing when I kissed her.” Ren said. “Was I kissing the girl playing her, or the character she was playing.”
+
+“And what did you say?”
+
+“I told her the truth of course.” Ren said. “I told her I was kissing both of them.”
+
+“That's not possible.” Gloria said. “If she's in an avatar body...”
+
+Ren chuckled. “They're both still her. It's just the body that's different.”
+
+“But... if you think along those lines... that means...”
+
+“While I've been having sex with Elerlyth, I was also having sex with you at the same time.”
+
+Gloria didn't know what to say to that, and then the roller coaster hit the top of the arch and she screamed. Ren put a hand on her face, and turned her head to look at him. Despite the jarring ride, Ren kept a calm look on his face; so that she would remain calm, too.
+
+The cars came to a stop 2 minutes later. Ren stepped out, and gave Gloria a hand out as well. They walked over to Stella, and watched as she examined the data.
+
+“Gloria, you were terrified for a minute, then it evened out. You were still definitely scared, but it was tempered by something.” Stella said. “Ren... if I didn't know any better, I'd swear you didn't even get on the ride at all; even though I watched you the whole time.”
+
+“I didn't realize Gloria would be so scared.” Ren said. “I had to make sure she was okay.”
+
+Gloria stared at Ren, and he smiled at her.
+
+“That's my Ren.” Stella chuckled and told Gloria how to keep track of them and start the ride, and then took Ren's hand. “Let's have some fun!”
+
+“Don't we always?” Ren said, and they ran over to get on the ride. “Hit it, Gloria!”
+
+The ride started, and Ren and Stella fidgeted in their seats in anticipation for the thrills to come. They got to the top of the first arch, and instead of screaming in terror, they threw their hands up into the air and yelled their laughter as the cars plunged forward.

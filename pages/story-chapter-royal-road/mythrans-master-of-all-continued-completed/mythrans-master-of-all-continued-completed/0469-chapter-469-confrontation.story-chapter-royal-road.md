@@ -1,0 +1,283 @@
+---
+id: 03b5024c-31e6-5af7-8f8d-b367ab2b108a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 469 - Confrontation"
+slug: 0469-chapter-469-confrontation
+partOf: mythrans-master-of-all-continued-completed
+position: 469
+ownLength: 3363
+unit: words
+publishedAt: 2018-01-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183866/chapter-469-confrontation"
+royalRoadId: "183866"
+---
+
+Elerlyth flew her Phantom Steed Etheria back to her little cottage hidden in the woods of Ren's county, tied the steed up outside, and went into her cottage and slammed the door shut.
+
+“That damn little piece of... UGH!” Elerlyth kicked the chair in front of her dressing table, and it shattered into a dozen pieces because she had forgotten she was still wearing her armor. “Goddammit!”
+
+Elerlyth picked up the pieces and tossed them against the wall and out of the way, stored her powerful armor, and flopped down on the bed.
+
+“How could he do that to me?” Elerlyth asked herself. “He treated me like a child! He actually scolded me!” She pounded her fists into the mattress. “I wanted to catch him so I could yell at him before he left the game, but I guess yelling at him in real life will have to do.” She said. “Logout.”
+
+********
+
+Gloria took off her customized VR headset and set it aside. Even though she seethed inside, she calmly went to the bathroom and took a shower, dressed in a loose pair of pants and a tight t-shirt, and grabbed her cell phone. She checked the call history and saw that she had missed half a dozen calls over the last 2 days, and twice that many text messages... and all of them had been about Ren.
+
+“Dammit.” Gloria said, and she was angry at herself for not checking before. Of course, that brought her mind back to what Ren had done in the game and it redirected that anger back to him. She shoved the cell phone into her pocket and grabbed her keys.
+
+“I hope you're ready to chew on a piece of my mind, Ren.” Gloria said and left her apartment. “I'm going to give it to you whether you want it or not.”
+
+Gloria hopped in her car and squealed the tires as she drove out of the parking lot. She started to drive across the city to get to his new place, then remembered why he had come to get her in the game. It was his birthday. She ground her teeth and took the next corner to head to the closest mall. She couldn't crash his birthday party and show up without having something for him.
+
+*
+
+Ren had been 'rescued' from his attempt to distract everyone by Lisa, and after a bit of yelling from both Barbara and Denise, he sat in the hot tub and watched as everyone played water polo. There were 4 people on each side, with Elise, Lisa, Barbara, and Stella on one side; and Donald, Barbi, Officer Holly, and Denise on the other. The competition was fierce, and there was a lot of trash talk; especially from Officer Holly, who had changed into full combat mode.
+
+Ren had been a little surprised at first that Donald had approved of the young woman's presence on his team; but after a quick talk with Barbara, he found out she reminded Donald of the first woman to ever join his combat unit. She was small, feisty, and wouldn't take guff from anyone without a fight.
+
+That's Officer Holly, all right. Ren thought as he watched her spike the ball into the water to splash Elise in the face and it bounced the ball over her head and into the makeshift goal.
+
+“HA! That's three!” Officer Holly said as she half-swam and half-walked back to her team's side of the pool. “One more and we win!”
+
+“Who decided that the best of 7 wins?” Elise asked as she wiped her eyes clear of water.
+
+“Officer Holly.” Lisa said.
+
+“What are we now?”
+
+“Two.”
+
+“Let's change that, shall we?” Elise said and smiled, and Lisa nodded. “I'll run interference, and you slip inside to score.” She said and looked at Barbara and Stella. “Block the best you can.”
+
+“We're on it.” Stella said and they all took their positions. Donald set the ball in the space between the two teams and eased back to his position.
+
+“Go!” Ren said, and Stella and Barbara splashed the water on either side of the ball and Elise stepped forward and hit the ball from underneath and back over her shoulder. Lisa caught it and then Ren couldn't see her anymore, then Elise, Stella and Barbara kept their opponents distracted.
+
+“She's under!” Donald said and he ducked under the water to catch Lisa; but, it was too late. Lisa splashed up through the surface in a high jump just as Donald's head disappeared under the water, and she tossed the ball into the enemy's goal.
+
+“YEAH!” Elise yelled and held a hand up for Lisa to give her a high five, and the players moved back to their respective sides of the pool. “We're tied.”
+
+“I think it's time for a Hail Mary pass.” Stella said and looked at Barbara. “Donald's going to guard that goal like a bear in a cave.”
+
+“Don't worry, I know how to distract my husband.” Barbara said and smirked. “He'll never know what hit him.”
+
+“Elise, this one's all yours.” Stella said.
+
+“It would be my honor to bring our underdog team to victory.” Elise said with a huge smile on her face. “Let's do it!”
+
+They spread out and got ready, and Lisa positioned the ball this time. She eased back by her goal, and Ren saw everyone was ready.
+
+“Go!” Ren said, and Officer Holly tried to dive for the ball. Stella had been a bit quicker and her reach a little longer; so, she palmed the ball and pushed it down into the water and between her legs. It popped up behind her and out of Officer Holly's reach, and Barbara hopped forward as Lisa picked up the ball. She avoided an awkward grab from Barbi and turned around to toss it to Elise.
+
+“Now!” Stella yelled.
+
+Barbara took the cue and stood up in front of her husband, then pulled her bathing suit top down to reveal her breasts. Donald spit and sputtered in surprise at the sight, and Elise tossed the ball into the completely undefended goal.
+
+“Ha ha! We won!” Elise exclaimed.
+
+“My eyes! My eyes!” Ren exclaimed and covered them with his hands. “Why, Barbara? Why?”
+
+Barbara laughed, and then so did everyone else. “It's okay, Ren. They're covered now.”
+
+“I can't believe I saw you topless.” Ren said and rubbed his eyes. “Barbara, I...”
+
+Ren spread his fingers a little and saw that she did have her top back in place; but, since the top was form-fitting, he could still see the shape of her breasts and covered his eyes again.
+
+“Ren, don't overreact.” Stella said.
+
+“B-but, I... I can't un-see that.” Ren said.
+
+“They aren't that ugly, are they?” Barbara asked, a little sadly.
+
+“N-no.” Ren said. “Just the opposite.” He said and kept his eyes covered. “They looked really nice.”
+
+“Then what's the problem?” Barbi asked. “They're just boobs.”
+
+“I know I'm being foolish, but... I... I don't want to think of Barbara like that.” Ren said.
+
+“Would a distraction help?” Barbi asked, and he heard the water of the hot tub splash a little.
+
+“Wh-what?” Ren asked as she moved his hands away from his eyes.
+
+“If you don't want to think of her, then think of me.” Barbi said and pulled the tight bathing suit off of her shoulders and her boobs popped right out of it. “These are the best money can buy, and worth every penny.”
+
+Ren blinked his eyes and stared at her chest, and his gaze shifted from one perfect breast to the other.
+
+“What do you think?” Barbi asked and turned from side to side. “Aren't they great?”
+
+“Geez, Barbi.” Elise laughed. “Put the big guns away.”
+
+“Did it work? Is he distracted?” Barbi asked as she carefully pulled her bathing suit back up. “He's just staring blankly and I can't tell.”
+
+“I think he's in shock.” Stella said as she knelt beside the hot tub. “Ren? Are you okay?”
+
+“I don't know.” Ren said, and he breathed a little heavily. “I'm not dreaming, am I?” He asked. “Did... did a life-size Barbie Doll just show me her breasts?”
+
+Stella nodded and pat his shoulder, and Barbi laughed.
+
+“I guess it worked.” Barbi said and got out of the hot tub.
+
+“That was a low down, rotten, underhanded thing you did to distract your husband, Barbara.” Officer Holly said to the older woman. “It was great!” She said and grinned, and everyone could see how happy she was. “You exploited a weakness in your enemy and achieved victory.”
+
+Donald looked at his wife as he thought about it that way. “Even I have to admit it was a good plan.” He smiled. “It was completely unorthodox and it was something I never would have expected.”
+
+“Wait! Am I the one who's dreaming?” Barbara asked. “Someone pinch me! Donald just gave me tactical praise!”
+
+Donald chuckled and it made everyone smile.
+
+“Who's up for playing something else?” Barbi asked.
+
+“I think we should just relax for a while.” Elise said and rubbed the top of Ren's head. “I don't think he can take much more right now.”
+
+“I'm fine, Elise.” Ren said and took her hand. “Thanks.”
+
+“You guys go and have fun in the pool.” Lisa said and slipped into the hot tub, then sat down beside Ren. “I'll sacrifice my fun and cuddle with him.”
+
+“Sacrifice, huh? You already changed swimsuits.” Elise said and chuckled, and Lisa beamed a smile at her.
+
+“Lisa's right.” Ren said and put an arm around Lisa, and she snuggled in. “Go and enjoy yourselves. This is supposed to be a party.”
+
+Everyone started to spread out to go to different parts of the pool, and Denise pointed a finger at him. “You sit there and relax, and don't go enjoying yourself too much.”
+
+“I'll be good.” Ren said.
+
+Lisa put her head on his shoulder. “I'll keep an eye on him.”
+
+“See that you do.” Denise said. “I'll be right over there if you need anything.”
+
+Lisa and Ren nodded, and Denise walked over to the pool and dove into the water close to where Stella was already swimming. Ren looked around and saw that Donald and Barbara had sat down on the lounge chairs and were talking animatedly with Officer Holly about something, and Barbi and Elise were beside the pool and pointed at each other's swimsuits as they talked.
+
+“This turned out to be a great day, and I didn't even know it was my birthday.” Ren said and Lisa lifted her head from his shoulder and kissed his cheek.
+
+“No one's looking at us right now.” Lisa whispered.
+
+“Denise said I can't enjoy myself too much.” Ren said. “I'm pretty sure I'll be enjoying myself too much if we start making out.”
+
+“Okay.” Lisa sighed. “I guess I can wait a little longer.”
+
+Ren let her wait for only a moment. “Well, a few kisses couldn't hurt.”
+
+Lisa chuckled and they started kissing; but, they held in their passion and kept it quite reserved.
+
+*
+
+Gloria had stopped in the first store she came to in the mall, grabbed the first thing she saw and paid for it and a nice bag for it, then ran back to her car and drove out of the parking lot without thinking about anything except rubbing the stupid present right in Ren's face.
+
+She made it through traffic quickly, mainly because it was early afternoon, and the guard at the gate to the community let her in without any hassle. When she came to the house, she saw a couple of cars in the driveway that she didn't recognize. She was tempted to park across the driveway just to annoy them. When she realized she wasn't staying long and they wouldn't even see it, she parked reasonably instead and got out. After a perfunctory check by the security guard, she went into the house.
+
+“Hello?” Gloria spoke as she quickly walked through the large lobby and into the first living room. No one answered, so she went to the large dining room and saw the remains of the party. “Dammit, don't tell me I rushed over here and still missed it!”
+
+She stood still and thought about where they could be, and heard muffled laughter from outside. She walked through the kitchen and over to the triple set of big patio doors at the back of the house, and saw several people having fun by the pool.
+
+Dammit, I didn't bring my swimsuit. Gloria thought as she scanned around to find Ren and saw him in the hot tub. He was cuddled up with Lisa and looked comfortable. Aw, screw it.
+
+Gloria opened the patio door and walked towards the hot tub. Lisa saw her before Ren did, and she whispered to him. Ren turned to look at Gloria as she stopped beside the hot tub.
+
+“Happy Birthday, you bastard.” Gloria said and passed him the bag with his gift in it. All other conversations died at Gloria's words.
+
+“Hey!” Lisa said and stood up. “Don't you dare talk to him like that!”
+
+“Why?” Gloria asked. “Did he tell you what he did?”
+
+“Of course he told me!” Lisa said. “He told all of us!”
+
+“It's all right, Lisa.” Ren said and put the bag beside the hot tub. “Let her finish.”
+
+“I was playing that quest for over a week game time, and you burst in out of the blue and ruined it!” Gloria said. “You came in there and destroyed everything I was working so hard to finish!”
+
+“Hold on.” Stella said. “You've been playing it for the last two days, real time?”
+
+Gloria nodded. “That's why I missed your calls and text messages.”
+
+“That part doesn't matter right now.” Stella said as she climbed out of the pool. “You've been letting yourself be beaten all that time?”
+
+Gloria didn't say anything, and Stella came over to her.
+
+“Is admitting your feelings so difficult that you have to punish yourself like that?”
+
+“It... it wasn't like that.” Gloria said. “It was just a quest.”
+
+“It doesn't sound like it.” Elise said as she came over, too. “It sounds like you were hiding.”
+
+“I... I wasn't.” Gloria said.
+
+“I hope you realize what could have happened while you were hiding from your feelings.” Lisa said, and Gloria looked at her.
+
+“What do you mean?”
+
+“Do I really have to spell it out for you?” She asked, and when Gloria didn't say anything, she sighed and shook her head. “For someone so smart, you're being awfully stupid.”
+
+“Excuse me?”
+
+“It was just a surprise birthday party this time, and no one could get a hold of you to tell you.” Lisa said. “But, if Ren had been hurt again and wanted you here...”
+
+The blood drained from Gloria's face.
+
+“Yeah, you get it now.” Lisa said. “So many things could have happened for us to get a hold of you, and you ignored the fact it could have been very important.”
+
+“But...” Gloria's bluster faded. “I was in the game.”
+
+“Even Ren logs out every game night to check on everyone.” Elise said.
+
+“And to eat.” Denise said.
+
+“And to do other things, like talk to his friends.” Stella said.
+
+“Stop it.” Ren said as he stood up. “She didn't come here for a guilt trip.” He said, and everyone looked at him. “Gloria, I'm sorry.”
+
+“Wh-what?”
+
+“I had no right to wreck what you were doing in the game, or to tell you what you can and can't do with your life.” Ren said and climbed out of the hot tub. “It bothered me that you weren't here with everyone to celebrate; but, that was my problem... and I... I dealt with it poorly.”
+
+“Ren, I...”
+
+Ren held up a hand in a clear stop gesture. “Please, let me finish.” He said. “It was my own fault for thinking that after someone comes into my life and then confesses to me how they feel, that their lives should revolve around me and the things that happen to me.”
+
+“But...”
+
+“That goes for everyone else here, too. I don't expect to be the only thing in your lives.” Ren said and looked at everyone. “That would be really selfish on my part, and I'm sorry if I gave anyone that impression.” He stepped close to Gloria; but, didn't touch her because he was wet from being in the hot tub. “I'm sorry for acting like a child, and for throwing a tantrum when you wouldn't pay attention to me.” He smiled. “I won't even use the excuse that I had the Angered condition, mainly because I don't want it to be an excuse or an explanation for my behavior.”
+
+No one said anything, and Ren sighed.
+
+“I was actually angry at myself for letting you get hurt, when I could have easily done something about it.”
+
+“You did do something about it.” Gloria said. “You destroyed that fighting school.”
+
+“Despite enjoying that, that was after the fact. I meant that I have enchantments that would have let you benefit from wearing heavy armor without actually wearing any.” Ren said. “I should have messaged you right away and given it to you.”
+
+“I don't think I would have taken it, even if you had offered it.” Gloria admitted, because her arguments had been co-opted by Ren and it made her lose her self-righteous anger. “I... I don't know why I'm having a hard time with... with whatever this is between us.”
+
+“That.” Ren said and pointed at her. “That right there is why.”
+
+“What?”
+
+“Even though you've told me how you felt, you can't decide what it is we have.” Ren said. “Doubt and fear cloud your mind. It affects your decisions, and you can't think clearly.”
+
+Gloria looked at him with wide eyes, and he smiled reassuringly.
+
+“The simple solution is to not think about it.” Ren said. “We can have a proper discussion about everything later.” He picked up the present bag Gloria had given him. “Why don't you grab a bathing suit from one of the change rooms and have some fun in the pool.” He opened the bag and pulled out a plush bright blue blanket. “Oh, wow! Look at that color!” He said and rubbed it on his face, the only part of his body that was dry. “This feels so nice!”
+
+“It was just something I picked up at the last minute.” Gloria said.
+
+“Thank you so much!” Ren said and put it back in the bag. “Hurry up and get changed, so I can give you a hug.” He said and put the bag down beside the hot tub. “I'm still wet and I can't hug you like this.”
+
+“But...”
+
+“I'll help you pick out something.” Stella said and took Gloria by the elbow to guide her over to the change rooms. Everyone drifted back to their previous groupings and conversations, and Ren carefully climbed back into the hot tub.
+
+“That was really nice of you.” Lisa said and sat down next to him again.
+
+“So was you standing up for me like that.” Ren said and kissed her cheek. “Thank you.”
+
+“I wanted to punch her right in the face after what she called you.” Lisa said, and Ren touched her cheek to turn her face to his.
+
+“Thank you for not doing that.” Ren said and tenderly kissed her on the lips. “I would greatly prefer that she have all of her teeth the next time she smiles.”
+
+Lisa chuckled and sat back against the side of the hot tub, and Ren put his arm back around her. She snuggled in close and put her hand on his chest.
+
+“So, even after that, I guess it's still a good day?” Lisa asked.
+
+“The day is only going to get better.” Ren said and smiled. “We're watching the show in the theatre after supper, and it's going to be nice and dark in there.”
+
+Lisa smiled, too. She couldn't wait to spend some more quality time in the dark with Ren.

@@ -1,0 +1,291 @@
+---
+id: f3b1cdcb-9af6-5d83-b43f-4da20dba87c4
+page-type-slug: story-chapter-royal-road
+title: "Interlude 04 Tide"
+slug: 0112-interlude-04-tide
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 112
+ownLength: 3041
+unit: words
+publishedAt: 2026-08-02
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3760093/interlude-04-tide"
+royalRoadId: "3760093"
+---
+
+She remembered thinking life in her small village was hard. There was barely enough to eat whenever the Tithe came around and their crops hadn't finished growing yet in spring.
+
+There were barely any children in her village so she didn't have many friends to play with. Mother always needed her help with chores as well and carrying buckets all day was so boring.
+
+Father said to be thankful that their life was peaceful so far. He would often tell stories of his childhood, when he grew up in a village that he said was three times their size.
+
+It even had a name!
+
+The village she grew up in was simply called Village by the Ridge Hills. There were days she dreamed about living in a place with a name.
+
+But it was so much simpler back then, and she prayed to the Goddess every day that those times would return.
+
+One day in winter, the scary monsters came. Their village gate was broken again and they had to hide in their houses for winter until they passed.
+
+Father had come back home, covered in blood as he barred their doors. Mother shooed her away into her room even though there was little point. Their house was so small that she could hear nearly everything from there anyway.
+
+"How bad is it?" Mother whispered.
+
+Father let out a shaky breath. "It's bad. Too many of them came through...we barely held off the first wave before the next came. The gates broke after too many began pressing against it."
+
+She heard a soft sound from mother...she was crying again.
+
+"Will we be safe here? Should we flee?"
+
+"No. It's too dark outside and we don't know how many of them there are...those goblins see better than us in the night." Father replied.
+
+She heard sounds of something being dragged for several moments.
+
+"Stay inside with her. I'll guard the entrance...don't come out until its daylight."
+
+Her father sounded tired, like the time he'd spent hours working in the fields...but there was something different about it that made her heart clench.
+
+"...Be careful," Mother whispered, her voice thick with tears.
+
+Mother came into her room after that and immediately began moving everything in the room to the front of the door.
+
+"Mother...? Is father going to be okay?"
+
+At her voice, mother turned to face her, expression softening. "H-he'll be fine. But we must be quiet, Aisha."
+
+Aisha's brows scrunched as she looked up at her mother. The way she said it reminded her of the days when there wasn't enough food and mother always insisted she had already eaten.
+
+"Come, Aisha. Sit with me while we wait for daylight to come. And try to get some sleep."
+
+Mother pulled her gently toward the corner of the room, far from the windows, and wrapped her cold, clammy hands around her.
+
+"M-mother, it's too tight."
+
+She loosened her grip slightly. "I'm sorry, Aisha. Be still now, okay?" Mother repeated, her hands shaking as the sounds from outside grew louder and louder.
+
+They spent the entire night like that, filled with the screeches of those scary goblins and the howls of kobolds.
+
+At some point, Aisha fell asleep in her mother's arms and she dreamt of the rustling of trees in the summer where the light from the sun never faded even after hours must've passed.
+
+When she woke up with a slight jolt, the room was bright from the morning sun. She looked around quickly only to see mother at the door, not moving at all.
+
+"...Mother?"
+
+Mother jumped slightly before immediately rushing over to her to hug her close. A few soft sobs escaped her even as she murmured.
+
+"...We have to go, Aisha. We can't stay here any longer."
+
+Aisha knew what that meant. Her parents had told her before, lots of times. That there would be a time where they would have to leave the village because it wasn't safe anymore.
+
+"Okay...should we go get father then? He's been waiting all night..."
+
+Her mother's sobs grew heavier and for a long moment she didn't say anything at all.
+
+A sinking weight gradually filled her chest.
+
+"We're going to go get him...right?"
+
+Mother never answered her in the end.
+
+Aisha didn't remember a lot of what happened next. Mother had covered her eyes as they fled from their home, carrying what little they could hold.
+
+It was really heavy but she tried not to complain like she used to.
+
+Not all of their village had fled. Some wanted to stay and wait out the Tithe. Mother decided not to because their door was broken and father was...gone.
+
+At first, they tried to stay together with those from their village. But everyone wanted to go to different places where they had relatives. Mother came from the western side of the frontier but it was so far away that no one would come with them.
+
+So they kept moving...staying not more than a few days in a village at a time.
+
+Then they had to stop in one of the villages because she fell sick. It was a small village, not much bigger than the one she grew up in. This time, it was called Village Near the Mountain River!
+
+She didn't get the chance to explore though. Her head was too hot, and most of the time she remained in bed while Mother took care of her.
+
+It must've been days later when Aisha felt someone carrying her. She opened her eyes blearily to see mother running, even leaving their things behind.
+
+There was so much shouting...and there were big greenish monsters that didn't look like goblins at all. They were dragging screaming women out of the houses while the men were fighting some of them.
+
+Aisha thought her sickness was giving her nightmares, so she shut her eyes tight for a few moments before opening them again.
+
+Then she saw it.
+
+A big red monster was walking around the village.
+
+It didn't drag anyone around, instead it just kept looking about like it was searching for something.
+
+One of the green monsters was shouting something while pointing toward a house. The red monster merely growled, causing it to immediately lower its head.
+
+The red monster turned after that, meeting her eyes.
+
+Aisha nearly screamed in her mother's grasp. Two enormous tusks curled from its mouth, one ending in a jagged break as though it had been snapped years before.
+
+Its eyes seemed to glow in the darkness.
+
+She squeezed her eyes shut and didn't dare open them again for a long time.
+
+The first thing Aisha noticed about Helvarn was the walls.
+
+Mother said they would be safe here and she believed her. Even if they weren't inside the walls, there were so many people around! Surely the monsters wouldn't dare come here.
+
+Besides, winter was over so most of them would've already moved further north by now.
+
+It was too bad they couldn't stay inside Helvarn. She really wanted to know what it was like in there.
+
+Aisha wished father was here...he would know more and tell the same stories again about his last village.
+
+But at least there were plenty of children around to play with, even if the food wasn't a lot and there were more nights she had to go without a meal.
+
+The people here spoke a little funny sometimes. Their words came out too quickly that she had to listen carefully before she could understand. Some of the children were a little mean though, they said she was the one that spoke too slowly, which wasn't true at all!
+
+As the spring season carried on, more and more people began arriving in Helvarn.
+
+Some of them even came from the heartlands! The stories children who came from there were amazing. She even made good friends with one of the boys from there too.
+
+Mother's face, however, grew more worried as the number of people increased. When Aisha asked her why, she just shook her head and said not to worry.
+
+Aisha found out anyway when the boy she had become good friends with didn't come to play at their favorite place.
+
+When she went looking for him...she heard that he had become sick, just like she had during the journey here.
+
+But this time, he didn't recover and she never saw him come out to play again at their usual spot.
+
+One morning, mother told her to be quiet again before she took her hand and went toward the gates. Then, they joined the line like last time, but it had grown so long that they had to wait for hours.
+
+Aisha wanted to ask why they were waiting in line again but it didn't feel right to say anything, especially with so many scary looking faces around them.
+
+When the guard took them to a side door, he asked questions like whether they knew anyone to stay with inside.
+
+Mother did something she always told her not to do, and tried to lie! Aisha tried not to say anything, but the guard must've known somehow. He immediately shook his head and started dragging her out.
+
+Aisha followed along, frightened that their lie would cause them to get into big trouble while mother continued to plead, even saying they had coin to spare...but they didn't! Everything was left behind when she fell sick that day and they had to run from the scary green monsters!
+
+She looked around, afraid that someone would accuse them of lying. When mother finally pulled her away from the gate, she looked back to check if anyone would chase them.
+
+The people there all had the same scary expression on their faces...there was even a well dressed man sitting on a horse with even scarier looking eyes!
+
+Aisha quickly looked away to see another man on a horse with sad eyes watching them leave. Unlike the others, he didn't seem angry.
+
+She continued to think about it over the next few days, until something began to change within the camp. It felt like everyone in the camp had begun speaking in whispers recently.
+
+"Have you heard? There's been talk that an announcement will be made today by Lord Rathenfell." A woman muttered to her mother as Aisha sat nearby, too tired and hungry to play as much.
+
+Mother held a hand to her chest, eyes crinkling in worry. "I-is he planning to send us away? The sickness is getting worse..."
+
+"I don't know...maybe? There doesn't seem to be any way to solve it...Helvarn is already full and there's nowhere else to go."
+
+A man near them glanced around briefly. "...I heard there's a big village further south from here. They might take a few of us in," he murmured.
+
+The woman beside her mother let out a breath. "It's not likely they would. I heard they already took in some survivors from Cragwatch." She gestured toward her mother. "Even took in a lot of people from your parts of the frontier as well."
+
+Mother's eyes widened. "...I never heard of this. Why isn't it more known? Surely people would be talking about it more around the camp."
+
+A harsh scoff escaped the man. "If more people know, then more would start to go there when it comes time for us to leave. That's why people are keeping it quiet...don't want to let those damn heartlanders know too."
+
+Before mother could ask more, three men in armor and a man with a funny looking beard carrying a parchment entered the camp.
+
+Aisha didn't know why, but she felt tense at the sudden silence around her.
+
+The group came to a stop at the center of the camp before the one with the funny beard gave a loud cough.
+
+"Hear ye! Hear ye! Lord Rathenfell has ordered you lot to separate yourselves into two groups! We are to select a number of you to move elsewhere!"
+
+Around the camp, murmurs began to rise again as people looked worriedly at one another, though no one dared to speak up.
+
+The man smoothed his funny looking beard before he continued. "Lord Vaelric will be taking four hundred from the heartlands to resettle Cragwatch! A mining settlement that had fallen from last year's Tithe!"
+
+People started to have those looks around them again but grew silent quickly when one of the guards palmed his sword, a hard expression on his face.
+
+"Lord Varentis will take seven hundred people from the frontier to move to Ashridge!"
+
+Immediately, Aisha could see the change that swept through the camp. A few even looked tempted to shout but they didn't have angry looks in their faces.
+
+Instead, they seemed too surprised to speak, like how she'd looked when a friend poured cold water down her back one time last winter.
+
+She turned to her mother who seemed just as shocked. "Mother...is seven hundred people a lot?"
+
+Mother didn't respond at first, but when Aisha pulled on her sleeves, she immediately crouched down and hugged her tightly again.
+
+"...Yes, Aisha. It's a lot," she muttered.
+
+Aisha's brows scrunched at how tight it was but she didn't complain. "How many is it? Is it bigger than father's village?"
+
+Her mother didn't say anything, only a sob answered her.
+
+It didn't seem like a bad thing this time.
+
+The days flew by in a blur to her and soon there were all sorts of men coming to the camp from Helvarn, asking questions and writing things down on parchment.
+
+Mother didn't lie this time when it was their turn so everything seemed alright!
+
+Then one early morning, she woke her up with a smile on her face, the first that she'd seen ever since father was gone.
+
+She took her hand and brought her to the road again, but this time there were so many horses and carts, more than she had ever seen before!
+
+When people began getting on the carts, mother looked around to see if there was any space left but the sound of metal clinking made her freeze. Aisha turned toward the sound and saw the same man with the sad eyes again!
+
+He didn't look sad this time though...there was a nice smile on his face.
+
+"Could I help you into one of the carts?" he asked.
+
+Mother bowed low then she pushed Aisha's head down too. "T-thank you. As long as there's space for my daughter..."
+
+The man smiled at Aisha before bending down to lift her up to one of the carts. "Don't worry, there should be plenty for everyone." He gestured somewhere at the front of the long line of carts. "Lord Lucien has arranged everything. The journey should be easier than most."
+
+She returned his nice smile, then turned to where he had pointed.
+
+The same man with the scary eyes was looking at them!
+
+Aisha quickly looked away from him.
+
+'Hopefully he isn't too mean.'
+
+The man cursed inwardly as he walked through the overcrowded streets of Helvarn. He couldn't wait to finally be done with this backwater place.
+
+Why did that person have to choose public places like this every time they met? Looking up to check for their mark, he glanced around briefly before entering.
+
+The figure was already there, seated behind a desk near the back of the room. Without looking up, he spoke first.
+
+"You're late."
+
+The man fought the urge to curse out loud. They were the same words that old fool had said to him months ago. Before he could reply, the figure chuckled.
+
+"Still sore about how Lord Rathenfell dismissed you so easily? And here I thought you were committed to the plan."
+
+"I am. Have I not shown my loyalty enough?" the man replied through gritted teeth.
+
+The figure's chuckle grew louder before he shook his head. "Loyalty? Do you think we care about that sort of thing?"
+
+Despite the faint smile on the figure's face, the man felt a bead of sweat form as he met his eyes.
+
+He looked away first before speaking slowly. "Our plan has failed anyway. Lord Vaelric and Lord Varentis have taken too many of the refugees into their villages."
+
+What should have been bad news only made the figure laugh louder. It was a low, uneven sound that made the back of his neck prickle.
+
+After it subsided, the figure leaned back in his chair, hands drumming the table lightly. "It matters not. The tide has already grown too large for two young lords and an old fool to stop the chaos now."
+
+He made a strange sound with his mouth, as though he had just tasted something amusing. "It's a shame you didn't manage to get Lord Varentis and Lord Vaelric together back during winter. Would've made things easier that way."
+
+A deep frown formed on the man's expression. "I didn't expect Lord Varentis to act through the market like that...and that merchant girl to help him so openly."
+
+Perhaps for the first time since he met the figure, a look of surprise flickered in his eyes. "...Merchant girl?"
+
+The man stared at him, brow raised. "...The one from the Mervaine family?"
+
+For a long moment, the figure did not seem to move, only for his shoulders to start shaking. Again, that same humorless laughter began to slip from his lips before halting abruptly.
+
+He leaned forward, eyes boring into him. "You are certain she's alive then? Both of them together?"
+
+Swallowing hard, the man gave a slow nod. "I saw it myself. She went back to Ashridge with Lord Varentis."
+
+"...I thought you had ears inside the Mervaine family...how could you not have known this?"
+
+The figure remained silent for a time, his eyes lowered. "Hmm...and I had thought the young lord would've chosen to..."
+
+His head lifted to regard him. "Good work. You've brought something of value after all."
+
+Without another word, he waved dismissively, already looking back down to his parchment.
+
+Resisting the urge to frown, the man turned and made to leave quickly.
+
+As he opened the door about to step outside, the figure muttered a few last words out loud.
+
+"It seems things aren't going to be that boring after all."

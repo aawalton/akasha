@@ -1,0 +1,311 @@
+---
+id: 60fa1b24-e2fb-5947-9dc2-e4592296d024
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61 Transition"
+slug: 0065-chapter-61-transition
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 65
+ownLength: 2502
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3400596/chapter-61-transition"
+royalRoadId: "3400596"
+---
+
+The rear of the inn had turned into a hive of activity.
+
+Carts from Ashridge were lined near the back entrance, with eight additional guards having arrived the day before to escort them home.
+
+Supplies were loaded carefully while others maintained watch over the surroundings.
+
+Lucien observed from a short distance away, his eyes passing over the carts before moving across the men.
+
+Banditry was rare in the frontier, but not entirely absent. And goods tied to a variant would attract far too much attention to neglect the increase in security.
+
+Footsteps approached from his right.
+
+“My Lord,” Tomas came to a stop just behind him. His posture remained firm, though a trace of exertion lingered in the set of his shoulders.
+
+“The carts have been secured. No issues along the way.”
+
+He inclined his head in response. “Ashridge?”
+
+“Preparations are underway back in the village, My Lord,” Tomas replied. “More space has been cleared for storage. Captain Dorian is preparing for the first ore shipment and ensuring the roads near the village remain safe.”
+
+Lucien’s gaze moved toward the carts once more. “Were the skins stored separately? We will have to hand them over soon.”
+
+Tomas gave a firm nod. "Yes, My Lord. I just checked them. There was no damage during transport."
+
+“Good. We would not want our first trade to go wrong at the last moment.”
+
+Around them, the guards continued their work, their movements falling into a practiced routine.
+
+The sound of hurried footsteps broke that. Lucien turned toward the man approaching hurriedly.
+
+It was the merchant who had won the bidding war, the quality of his attire reflecting that success. His eyes went first to the carts before returning to Lucien.
+
+“Two full skins from variants...” he breathed as he reached the edge of the loading area.
+
+Even with Talia’s explanation, the man’s reaction suggested the materials were rarer than Lucien had initially assumed.
+
+The merchant’s attention remained fixed on the covered section of the cart where the materials had been stored separately.
+
+For a brief moment, he seemed to weigh whether to ask. He made his decision soon after, stepping within reach.
+
+“May I?” he asked, though his hand had already begun to reach toward the covering.
+
+Lucien gestured for him to proceed.
+
+That was enough for the merchant to carefully pull the cloth aside, revealing the hides beneath.
+
+He leaned in, running a careful hand along the cured hide before pressing lightly near the edge.
+
+The man gave a small, satisfied nod. “The quality is excellent, My Lord. Clean cuts, and there is no unnecessary damage to the surface.”
+
+Lucien’s gaze lingered on the material. “It was handled by someone experienced.”
+
+The merchant straightened from his brief examining of the skin. “That much is clear, My Lord. It will fetch a good return.”
+
+The prices he had heard during the bidding made more sense now.
+
+The man adjusted his coat before he spoke. “The equipment you requested will take time. A month, perhaps slightly more depending on the pace of the smith.”
+
+Lucien gave a nod. “That is acceptable. We will have to take the condition of the roads into account as well.”
+
+The merchant’s attention shifted back toward the bundled hides. “There was also the custom addition you requested, My Lord?”
+
+“It is to be included with the first shipment. Within the week if possible.”
+
+The man bowed his head. “Of course, My Lord. It will be prepared accordingly.”
+
+Their brief exchange ended there.
+
+Lucien’s mind was already moving to the next task awaiting him.
+
+By the time he reached the cathedral, the weight of the past few days had begun to wear on his body.
+
+The pace he had maintained since arriving in Helvarn had left little room for rest. He decided to turn it into an opportunity for his experiment, much like Talia’s third attempt.
+
+If the phenomenon was genuine, then his current state would provide a suitable condition to observe it.
+
+The interior remained much the same as before. Light filtered through the narrow panes above, casting softened patterns across the stone floor. The air carried a serenity shaped by habit rather than reverence alone.
+
+Lucien stepped inside, his gaze passing briefly over the gathered figures.
+
+Some sat along the benches while others knelt with heads lowered and hands clasped in silent devotion.
+
+A few brief glances followed him, but little more. Within the cathedral, status seemed to matter little.
+
+He moved deeper into the cathedral.
+
+At the front of the hall, the priestess continued her work. She moved with the same calm grace as before, the vessel in her hand catching faint light as she passed from one individual to the next.
+
+Lucien approached in turn, lowering himself onto one knee when the space opened. He mirrored the posture of those before him, hands coming together loosely.
+
+He closed his eyes, leaving only the faintest slit open.
+
+The priestess stopped before him. A faint coolness touched the top of his head before her hand rested lightly against his forehead.
+
+Through the narrow slit of his vision, a glow appeared.
+
+A soft light gathered beneath her palm.
+
+It lingered briefly, just as he had observed days earlier.
+
+Lucien remained still, focusing on his own condition to see whether any sensation followed.
+
+There was none.
+
+His thoughts remained unchanged, nor did the heaviness in his limbs lessen.
+
+The light faded and the priestess withdrew her hand, moving on as though nothing unusual had occurred.
+
+He remained there for a moment longer before rising and turning toward the exit.
+
+The result aligned with Talia’s account though it remained a single data point between them, not enough yet to draw a conclusion.
+
+But it did establish one thing. The effect appeared selective. Another possibility surfaced alongside it, one that carried greater implications.
+
+Lucien stepped out into the open air, the light shifting as he crossed the threshold.
+
+If the phenomenon operated on a framework distinct from their own, then perhaps it did not recognize them at all.
+
+There was only one way to confirm it.
+
+He needed to ask someone from Ashridge who had undergone the same process before.
+
+Someone native to this world would provide a clearer comparison.
+
+It seemed there would be new questions to discuss with Talia.
+
+The sun had barely risen over Helvarn when Lucien made his way through the streets toward Talia’s shop.
+
+Carts rolled past as he walked while merchants called out in passing exchanges, the hum of movement carrying through the town.
+
+He did not need to search for her long.
+
+Orange light from the dawn fell over Talia's red hair as she stood near the edge of a side street branching off from the main road, speaking with two men.
+
+One held a set of keys while the other gestured toward a cart stationed nearby.
+
+Their voices overlapped briefly before quieting as she lifted a hand, smoothly guiding the conversation back into place.
+
+“No, no—don’t stack everything in one go,” she instructed, tone light but firm. “Rotate it. If it just sits there, it defeats the whole point.”
+
+The man with the keys nodded quickly. “Understood. We’ll keep it moving.”
+
+“And the back room?” the other asked.
+
+“Shared, like we agreed.” She tilted her head, pointing at him playfully. “Just don’t get greedy with the space, yeah?”
+
+He let out a short bark of laughter. “Wouldn’t dream of it, Talia. A merchant's word is everything.”
+
+She clapped her hands together lightly. “Good! Then we’re set.”
+
+The two men moved off soon after. Talia watched them go for a breath before turning, spotting him immediately.
+
+Her expression brightened instantly. “Senior!” she called, lifting a hand in an easy wave as she stepped away from the street’s edge. “You’re late! I was just about to head off to the inn to find you.”
+
+Lucien approached at an even pace, his gaze lingering briefly on the departing figures before returning to her. “You appear rather occupied.”
+
+She stretched her arms, letting out a yawn before she spoke. “Mm~! Yeah, just finishing the last checks.”
+
+His eyes shifted past her, toward where the men had gone, then to Talia’s shop further down the street. A cart had been drawn up near the entrance, its contents partially unloaded. Another man stood by the doorway, speaking with someone inside while marking notes onto a small board.
+
+Lucien’s gaze lingered for a moment longer. "You plan to use it as a storage building."
+
+Talia grinned in response. “Waste not, want not,” she admitted easily. “Besides, it’s in a pretty good spot. Would’ve been a shame to leave it empty.”
+
+The pieces aligned without needing further explanation. A few smaller merchants pooling resources through for a shared storage space.
+
+His gaze flicked once more toward the shop before settling back on her. “I see you’ve already begun the process.”
+
+“Of course,” she replied, as if the answer was obvious. “What, you thought I’d wait around?”
+
+Lucien exhaled softly through his nose.
+
+No.
+
+That would not have been like her at all.
+
+With that, they turned from the side street and made their way back toward the inn. The rear of the inn buzzed with activity from merchants preparing for departure.
+
+Two carts stood prepared near the entrance, the goods already loaded, with guards from Ashridge stationed around them. Tomas stood among them, checking the ropes securing the cargo.
+
+As they approached the inn, Talia's steps had begun to slow beside him. The easy motion she had carried through the streets began to change. Her posture straightened while the expression on her face softened into something more composed.
+
+When they neared the guards, she lowered herself into a small, practiced curtsey.
+
+“Lord Lucien,” she greeted.
+
+He understood immediately. They were in public and standing before his guards.
+
+She straightened, her demeanor softening into something more relaxed. “I brought my share,” she continued, reaching into her satchel before producing a small pouch. She stepped closer and pressed it lightly into his hand.
+
+Lucien’s brow lifted slightly at the weight of it. “This is?”
+
+“Payment,” she replied. “For the shop in Ashridge and the area provided.”
+
+He looked at her. “That was never—”
+
+“It is,” she cut in smoothly. “If I’m setting up in Ashridge, it’s better to do things properly from the start.”
+
+Lucien’s gaze shifted toward the guards. They seemed to be attempting to look busy yet were clearly paying attention to their exchange.
+
+He returned his gaze to her, “...Very well.”
+
+Talia’s expression brightened at his words.
+
+Lucien weighed it once more before asking, “Thirty Arde?”
+
+“And ninety-nine Vire,” she added cheerfully.
+
+“...Why that particular amount?”
+
+Her grin widened as she leaned in slightly. “Remember the variant corpse?” She gave him a quick wink. “That was the price for the information I gave them.”
+
+He exhaled softly through his nose. And since that information had been his, she was merely returning it now.
+
+Around them, a few of the guards exchanged brief glances in bemusement. Tomas looked away a touch too quickly, examining the rope he had secured for far too long.
+
+Lucien chose not to comment further. “Your cart?”
+
+She gestured toward a smaller cart nearby. It had already been loaded with goods and unlike the others, it bore the mark of someone who knew exactly what they would need.
+
+'When had she arranged this...'
+
+He resisted the urge to sigh once more. “Then we will depart,” he said instead.
+
+Orders were given quickly after that as guards took their positions. Their carts were drawn into formation as the group rode out through the streets.
+
+Talia seemed to have inherited the same instinctive memories, as she controlled her own cart with an ease that clearly did not belong to someone from their former world.
+
+The group reached the gates of Helvarn with little delay before joining the flow of travelers leaving the town.
+
+The mansion overlooking Helvarn stood in contrast to the constant flow of movement below.
+
+From the upper floor, the southern gates were clearly visible.
+
+Cedric Rathenfell stood by the window, one hand resting lightly against the stone frame as his gaze followed the line of travelers filtering out onto the open road. Among them, a small formation moved with more structure than the rest.
+
+Three carts. One from that merchant girl with the guards positioned with intent rather than the usual theatrics of a noble’s procession.
+
+At its center was the young lord of Ashridge.
+
+Cedric’s eyes lingered there for several breaths longer before shifting to track the formation as it passed beyond the gates and onto the southern road.
+
+A knock sounded behind him.
+
+“Come.”
+
+The door swung open smoothly and a man stepped in, posture straight.
+
+“My Lord.”
+
+Cedric did not turn from the window. “You’re late.”
+
+“The report required confirmation,” the man replied apologetically. “Lord Varentis has just departed Helvarn, My Lord.”
+
+A short breath left Cedric, something between a scoff and a laugh. “I can see that.”
+
+Silence lingered in the room before the man continued. “He didn't make contact with the Lord of Cragwatch during his stay.”
+
+Cedric let out a more open laugh this time. “He didn’t bother coming to me either.”
+
+“Strange,” he said, the word rolling easily off his tongue. “Most would have gone to Lord Vaelric first, a noble’s pride demands it.” His gaze remained fixed beyond the window. “And if not that, then here.”
+
+His smile widened. “But he did neither.”
+
+The man remained silent, gaze lowered.
+
+Cedric shifted his weight, folding his arms as he leaned more comfortably against the frame of the windowsill. “Instead,” he continued, amusement threading through his tone, “he let the market solve it for him.”
+
+Another laugh followed, a touch louder this time. “From that merchant girl, of all people.”
+
+He remembered an old story from his father. “House Varentis...” he murmured, almost to himself. “I had heard they often handled things with a different sort of hand.”
+
+His gaze flicked once more toward the road, though the group had already begun to thin into the distance.
+
+Behind him, the man shifted, as if taking it as a sign of dismissal.
+
+Cedric spoke before he could move toward the door. “Was it you,” he asked, his tone lowering abruptly, “that instructed the smiths to limit external orders?”
+
+The room stilled at the sudden change.
+
+“…Yes, My Lord.”
+
+Cedric did not turn to face him.
+
+“Don’t try such worthless things without my order again in the future.”
+
+He froze, sweat beading on his brow. “B-by your command, My Lord.”
+
+“Go on, then.”
+
+The man left, his movements more hurried than when he had entered, and the door swung shut with a soft click soon after.
+
+Cedric remained where he stood, his gaze fixed upon the open road beyond Helvarn’s gates, where the last trace of Ashridge’s party had already begun to fade into the distance.
+
+For a long moment, he said nothing before a light smile touched the edge of his expression.
+
+“So it begins.”

@@ -1,0 +1,253 @@
+---
+id: 48493e1a-2ebb-50fc-b615-9d3150b7f9e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 Misread"
+slug: 0047-chapter-43-misread
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 47
+ownLength: 2341
+unit: words
+publishedAt: 2026-04-26
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3321623/chapter-43-misread"
+royalRoadId: "3321623"
+---
+
+Elias paused in the doorway of the study, allowing the quiet of the room to settle around him before stepping inside.
+
+The morning light fell across the long desk beside the window, illuminating the scattered traces of the previous evening’s work. Ledgers left slightly ajar, loose sheets of parchment resting at uneven angles, and several books placed where they had clearly not been intended to remain.
+
+None of it was disorder in any serious sense. The young lord was not careless with his work.
+
+Simply...occupied.
+
+The steward moved through the room with the calm, deliberate rhythm that had defined most of his life. A page was aligned with the corner of the desk while a ledger was closed and placed neatly atop its companion volume. The ink bottle was returned to its proper position beside the stand where it belonged.
+
+His gaze drifted briefly to the smaller shelf near the side of the desk.
+
+Several books had been set there during the previous evening’s reading.
+
+One in particular rested slightly apart from the others.
+
+He lifted it, noting from its placement that it had not originally been meant for the shelf, before opening the desk drawer with a practiced motion and sliding the book neatly inside, returning it to the space where it properly belonged.
+
+The drawer closed with a soft click.
+
+Elias regarded the desk once more, confirming that nothing remained out of place. Satisfied, he folded his hands behind his back and allowed himself a small, almost imperceptible nod.
+
+His routine done, he turned and left the study, the order of the room restored exactly as it should have been.
+
+A month had passed since the Fall of Cragwatch.
+
+Winter had not loosened its grip on the frontier, but the sharp edge of crisis had dulled into something steadier. The village had settled into a routine, one built from the slow, practical work of survival.
+
+Lucien had come to understand that such routines rarely announced themselves. They emerged quietly, almost imperceptibly, until one day the absence of panic became noticeable.
+
+The ledgers before him reflected that change more clearly than any conversation.
+
+Numbers had a way of revealing truths that people often overlooked.
+
+Ashridge’s population now stood just over six hundred.
+
+The increase was not dramatic by the standards of a city, but for a frontier village it was significant. The refugees from the eastern settlements had arrived exhausted and wary, yet most had chosen to remain once the immediate fear of winter starvation had passed.
+
+Labor records showed the first signs of stabilization.
+
+Harlon had taken nearly half of the new arrivals into the southern clearing project. What had once been a dense line of forest pressing against the palisade was slowly retreating as trees were felled and dragged away to become timber for new homes.
+
+Lucien had visited the site several times over the past month. Each visit revealed small changes, new stumps where old trees had stood, stacks of cut lumber drying beneath rough shelters, and wider clearings where the snow had been trampled flat by steady work.
+
+Only two months ago, Ashridge had struggled to maintain the houses it already possessed.
+
+Now it was pushing the wild back.
+
+The agricultural reports showed a similar pattern.
+
+Bran had accepted his responsibility for overseeing the expanded fields with the stubbornness that seemed to define most farmers on the frontier. The man had not spoken much during their earlier meetings, but his actions had been decisive.
+
+The expanded eastern farms had already been marked for spring planting. He made a note for another meeting with Bran and Elias, perhaps sometime later in the week for the results of the winter harvest.
+
+If the coming season in spring proved kind, Ashridge might harvest more grain than it had in several years.
+
+Lucien found himself studying those projections with cautious optimism.
+
+Frontier settlements did not often receive the luxury of long-term planning. Too many variables could shatter careful preparation.
+
+Yet the numbers suggested something unusual.
+
+Ashridge might actually grow.
+
+The militia records lay beside the agricultural tallies.
+
+Dorian’s influence could be seen in the careful columns of names and drill rotations. The ranking board Lucien had introduced weeks earlier had evolved into something almost cultural within the village. Men competed for position for the pride that came with seeing their names posted above their neighbors.
+
+He had come to learn since his sudden arrival in this world, people often found ways to utilize systems that were far removed from their intended purposes.
+
+Lucien closed the final ledger and leaned back in his chair.
+
+For the first time since arriving in Ashridge, the numbers no longer spoke of survival alone.
+
+He allowed the quiet to linger after setting the ledger aside.
+
+The study had grown dim while he worked. Winter daylight faded early along the frontier, and the pale light that slipped through the narrow window had softened into the muted gray of evening. Shadows stretched slowly across the desk, swallowing the neat columns of ink that had occupied his attention for most of the afternoon.
+
+For a time he simply sat there, leaning back after another day filled with work, dryly noting that he was somehow busier as a lord than he had ever been in his former life.
+
+A moment later, the door opened with a soft knock.
+
+He looked up from his desk as Alicia stepped inside carrying a small tray balanced carefully in her hands. Steam curled gently upward from the teapot, the faint scent of warm leaves spreading through the room.
+
+She paused just inside the doorway, “My Lord,” she said softly.
+
+Lucien inclined his head in acknowledgment. “Thank you, Alicia.”
+
+She placed the tray upon the desk with a faint clink of porcelain against wood, then began preparing the tea with the quiet grace that had become second nature to her.
+
+The study, which had felt empty only moments earlier, now carried the faint scent of steeping tea.
+
+Beyond the desk, near the far window, another figure remained seated in silence.
+
+Sera had arrived sometime earlier in the evening, though Lucien had not heard her enter. The hunter sat cross-legged near the window, one of her arrows resting loosely in her hands while she slowly turned it between her fingers.
+
+Her dull eyes drifted briefly toward the desk before returning to the dimming view outside.
+
+Lucien had long since stopped questioning how she managed to appear in the room without anyone noticing.
+
+Some habits were simply easier to accept than explain.
+
+Alicia finished pouring the tea and set the cup carefully beside the remaining stack of papers. “You should rest your eyes for a little while, My Lord,” she said gently.
+
+Lucien glanced at the steaming cup before him.
+
+For once, he did not feel inclined to ignore the advice.
+
+He lifted the cup and allowed the warmth of the tea to settle into his hands before taking a small sip. It was too mild for his taste compared to that blessed drink, but the warmth still carried its own comfort.
+
+Across the desk, Alicia had already begun gathering the loose papers he had left scattered near the edge of the table. She worked carefully, aligning each sheet before stacking them beside the closed ledger.
+
+He noticed the motion only vaguely. His attention had drifted back to the documents he had been reviewing earlier. The figures themselves no longer needed immediate correction, yet habits formed over weeks of constant vigilance did not disappear easily.
+
+He reached toward the desk drawer almost absently.
+
+The wood slid open with a soft rasp.
+
+Lucien withdrew a small bundle of ledgers tied neatly with twine and set them beside the tea.
+
+Behind him, near the window, Sera’s fingers stilled on the arrow, her head tilting slightly.
+
+Lucien did not notice the change as he untied the twine around the ledgers, setting them beside the cup the maid had poured only moments earlier.
+
+Across the desk, Alicia remained where she stood, the stack of parchments she had been arranging resting neatly beneath her hands, though she had stopped moving entirely.
+
+Her eyes had fallen toward the open drawer.
+
+Sera rose from the floor without a sound.
+
+Lucien became aware of the motion only when she stepped into the edge of his vision. He glanced up briefly as the girl crossed the room and came to stand near the desk, her pale eyes fixed on the drawer.
+
+Inside the open space of the drawer rested several familiar objects. sealing wax, a small knife used for trimming parchment, and the stack of reports he had just removed.
+
+And beside them, a slim volume bound in red leather, its title written in delicate gilt script.
+
+Lucien regarded it for a moment before recognition surfaced.
+
+'Ah, that book is...'
+
+He had nearly forgotten about it.
+
+The sight of it brought a faint wave of nostalgia that was unusual for him. It was the same book he had once pretended was a farming manual to spare Alicia the embarrassment of her former inability to read. The opening pages had been harmless enough, though he had never found time to continue it.
+
+He had wondered where it had gone, but other matters had always demanded more of him.
+
+Before he could speak, Sera reached down and drew the red leather book from the drawer.
+
+Lucien watched with mild curiosity. The reason he had hidden it no longer mattered, and he doubted she would mind after so long. It might even be a warm memory for her.
+
+Across the desk, Alicia had gone very still.
+
+Sera turned the book over in her hands once before opening it.
+
+The faint rustle of pages sounded louder than it should have in the room.
+
+Her eyes moved across the page, then she paused. She studied the lines for the span of a breath, her brow faintly furrowing as though trying to understand an unfamiliar trail.
+
+Slowly, Sera lifted her head, shifting her gaze toward Alicia.
+
+The maid stood rigid beside the desk, her hands still resting upon the papers she had gathered earlier.
+
+Color had risen to her cheeks, though she had lowered her eyes toward the floor as if studying the grain of the wood beneath her feet. One finger had begun tightening the ribbon of her apron without her noticing.
+
+Sera looked back down at the page, then again toward Alicia. Her head tilted, like someone judging whether a wounded animal would flee or finally allow itself to rest.
+
+Lucien's brow furrowed faintly, the exchange making little sense to him.
+
+Across from him, Alicia appeared to be suffering from some inexplicable wave of embarrassment, while Sera stood silently beside the desk studying both the book and the maid with the focus she normally reserved for tracking animals through the forest.
+
+He had the distinct feeling he had somehow missed an important detail.
+
+Sera reached for the small stick of charcoal resting near the edge of the desk.
+
+She wrote a few quick words upon a scrap of parchment before turning it toward him.
+
+Is Alicia sick?
+
+Lucien blinked once.
+
+He looked from the note to Alicia.
+
+She did not look ill. If anything, she appeared far too determined to avoid looking at either of them.
+
+Whatever the reason, it would be best to solve it promptly before the poor girl fainted from whatever strange embarrassment had seized her.
+
+He suspected the explanation was far simpler than whatever she imagined.
+
+Lucien reached out to take the book from Sera's hands. “Sera,” he said calmly, setting the red volume back inside the drawer, “that book is not for reading.”
+
+He closed the drawer slowly, sliding it shut with deliberate care.
+
+Alicia’s fingers finally stopped twisting the ribbon of her apron, though her head lowered a fraction further as if hoping the floor might kindly open beneath her.
+
+Sera tilted her head again as her pale eyes moved between the two of them.
+
+Lucien reached for his tea again, satisfied that the strange interruption had been resolved.
+
+Elias closed the study door behind him.
+
+His gaze moved briefly across the surface of the desk. The arrangement had shifted only by a fraction, the small stack of ledgers and reports moved aside, the teacup resting nearer the edge than before.
+
+The drawer itself sat closed once more.
+
+Otherwise the room appeared much as it always did after one of the young lord’s late evenings.
+
+He let the silence settle for another moment before stepping forward.
+
+The drawer opened with a familiar wooden rasp.
+
+Inside, the contents had been returned to their previous arrangement with the sort of deliberate neatness that suggested a small matter had been handled and set aside.
+
+Sealing wax.The trimming knife.A bundle of reports awaiting review.
+
+And the red leather volume.
+
+He regarded the book silently, before sliding the drawer closed again.
+
+The young lord continued to prove...unusual. He was far removed from the young man Elias had once received brief reports about in the capital.
+
+The steward folded his hands behind his back as he straightened.
+
+Since their arrival in Ashridge, Lord Lucien had continued to issue orders with a consistency that spoke of forethought rather than impulse. Coin had been spent carefully and decisions had been made without theatrics.
+
+Even the more peculiar choices, standing upon the wall during the Tithe, accepting refugees when caution would have been easier, had revealed a pattern of reasoning rather than recklessness.
+
+Elias had served powerful men long enough to recognize the difference.
+
+House Varentis had not fractured.
+
+If anything, its young lord appeared to have hardened in ways the capital had never revealed.
+
+That, at least, would quiet certain concerns that still lingered far from the frontier.
+
+Still, Lord Lucien had appeared rather amused whenever the steward found himself confounded by the strange girl now residing in the manor.
+
+It seemed only fair that the household occasionally returned the favor.
+
+After all, even an old steward could still remember a few small lessons the younger generation had yet to learn.

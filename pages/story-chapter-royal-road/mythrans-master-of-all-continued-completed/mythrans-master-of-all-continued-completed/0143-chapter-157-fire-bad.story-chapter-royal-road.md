@@ -1,0 +1,413 @@
+---
+id: ab90c2bd-912e-5fa1-be52-9a0cd5fe9836
+page-type-slug: story-chapter-royal-road
+title: "Chapter 157 - Fire Bad!"
+slug: 0143-chapter-157-fire-bad
+partOf: mythrans-master-of-all-continued-completed
+position: 143
+ownLength: 4257
+unit: words
+publishedAt: 2017-02-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116184/chapter-157-fire-bad"
+royalRoadId: "116184"
+---
+
+Ren barely acknowledged the guard as he went through the gate to House Neram Keep. He locked it and went inside the house, then checked the baby fire elemental. It was 5 inches across now, and Ren smiled as he made some more crumpled squares of Spider Silk Cloth to put in the pen. He opened the message system and sent a message to Elerlyth about meeting early, then went to the kitchen to grab a quick bite to eat. Ren went to the old bedroom, and Nathalia and Narhilda watched him enter the room. He stored his armor and bodysuit, then crawled into the bed between them.
+
+“It's okay, Ren.” Nathalia said. “You can let it out, now.”
+
+Ren shook his head. “I can't.” He said and looked at her. “I have to hold it in.”
+
+“We're here for you.” Narhilda said as their Auras merged. “We can handle it.”
+
+Ren chuckled as a tear came to his eye. “If I can't handle it, how are you going to?” He hugged them close. “I'll suffer until I can get a hold of Elerlyth.”
+
+“How can she handle what we can't?” Nathalia asked.
+
+Ren smiled. “I don't think she can handle it either; but, at least she can absorb as much of it as she can.”
+
+“You shouldn't let it eat you up inside.” Narhilda said. “It wasn't your fault.”
+
+“Tell that to Gellian.” Ren said, then took out the scroll the Scroll Mage had given him. “The Scroll Mage gave me this to give to you.”
+
+Narhilda's eyes widened. “Why would she...” She took it and put it on the small table by the bed. “I'll look at it in the morning.”
+
+“But...” Ren started to say, and she shook her head.
+
+“I can't do anything about it until then, no matter what it is.” She snuggled down into the bed and onto Ren's chest, and Nathalia did the same on his other side. “Goodnight.”
+
+Ren felt their auras fade and he sighed as he rubbed their backs, then drifted off to sleep.
+
+********
+
+Barbara stared at the television screen. “Did he just crawl into bed with 2 women?” She glanced at his still form in the bed. “You're becoming quite the Casanova.” She looked back at the screen. “I just hope it doesn't bite you in the ass.”
+
+********
+
+It had taken Talon all day to contact everyone involved; but since he didn't know their game IDs, he couldn't just message them. He had to rely on relays and message drop off points. Talon finally tracked the last guy down and sighed as he left the house.
+
+“I'm the Shadow Weaver, I shouldn't have to do all this work out in the open.” He said, and walked down the alley behind the house.
+
+A beggar came over to him. “Spare a coin, mister?”
+
+“Sure.” Talon said, and reached to his side. He took out a gold coin, and the beggar's eyes lit up. Talon held it up high, and the beggar pretended to reach for it; unfortunately, he had ignored Talon's other hand, and a dagger appeared in it. He slit the beggar's throat, and the beggar gagged.
+
+“Damn, I keep forgetting that doesn't work all the time.” Talon said and jammed the dagger into the beggar's heart. The body collapsed to the ground and Talon waited for it to dissolve. He picked up the several gold coins, a helmet, and a shadow marker.
+
+“Some mother-fucker's always trying to ice-skate uphill.” Talon said, and left the alley.
+
+********
+
+Gloria was exhausted. She'd had to stay late to finish a rush job, and didn't get home until nearly midnight. She got out of the shower, wrapped herself in a big towel, and dried her hair with another one. She went into her room and checked her computer, and saw she'd missed an email. She opened it and stared at it's contents.
+
+“Oh, my god.” She said. “They can't!” She typed furiously, and checked her other contacts. It didn't take long, and she found out it was true. “I wasn't going to log in tonight.” She sighed. “I guess I have to, now.”
+
+She stayed in the big towel, sat back on her recliner, and picked up her VR headset.
+
+“Flow Login Start.”
+
+********
+
+Elerlyth woke up on her bed, and blinked at all of the in-game messages. “Damn, everyone wants me to work.” She flipped through them quickly, deleted some without reading them, and hit one from Emanon. She read it and sighed.
+
+“Why would they hit the starter city?” She asked, then her eyes widened as she saw the message from Ren. “You have got to be kidding me!” Elerlyth exclaimed. “It can't be because of him!” She read Ren's message, and her heart pained. “Oh, Ren.”
+
+Elerlyth sent a reply, but didn't expect a response until morning. She got out of bed and gathered her things, checked herself in the sitting table mirror, and left her little cottage.
+
+I hope I can get there before it starts! She thought as she ran through the woods.
+
+*
+
+Ren woke up when he got Elerlyth's message, and Teepo told him he'd only been in bed for an hour. He gently moved the two women off of him, slid down the bed between them, and out from under the blanket onto the floor.
+
+Sometimes I'm sorry they are such heavy sleepers. Ren thought and put on his Travelling Clothes and Dire Wolf Hooded Cloak. He used Sneak to leave the bedroom and went down the hallway. He went into the kitchen and gathered some of the pastries, and a pile of normal food. He left a note on the kitchen table and put more food into the baby fire elemental's pen. Once those tasks were done, he went out of the house and into the stable.
+
+“Hi, Riley. Hi, Stacy.” Ren said. “I'm going to need Princess for a while.” He went over to them and pat their heads. “Guard the front door of the house.”
+
+They nodded slightly and went out to stand on either side of the front door of the house.
+
+“Princess.” Ren said and put some food in her bowl. “I need a ride to the warehouse again.”
+
+...about... time... She thought as she ate the food.
+
+Ren chuckled. “Yeah, I haven't seen Elerlyth in a while.”
+
+Princess huffed and Ren stored her crate and bowl, then led her into the courtyard to hook her to the cart.
+
+“I better drop some things off.” Ren said and went back into the stable to unload the 16 crates of uncut diamond crystals. When he came back out, he went to the guard dogs.
+
+“Open.”
+
+The guard dogs opened their mouths and Ren knelt. He took out a Fireball wand and slid it into Stacy's mouth and it clicked into place at the back of her throat. He did the same thing to Riley, but with a Minor Healing wand instead. That slight modification he'd made to their design worked like a charm.
+
+“Close” Ren said, and the dogs closed their mouths. “Stacy, you're the offense if it's needed. Defend the house and the women inside.”
+
+She nodded and Ren looked at Riley.
+
+“Riley, you're the support. Your main purpose is to heal Stacy and anyone else that needs it.” Ren said. “Defend.”
+
+He growled slightly, and Ren smiled.
+
+“Yes, you can still attack when it's necessary.” He pat them on the head again, then led Princess to the gate and opened it.
+
+“Hello, Broxor. I'll be gone for a while. Probably all night and some of tomorrow.” Ren said as he passed by. “Standard orders.”
+
+“Yes, sir.” Broxor said, as he shut and locked the gate. “No one in or out.”
+
+Ren nodded slightly and climbed into the driver's seat of the cart. “Okay.”
+
+Princess trotted down the road a little, then took off running.
+
+*
+
+Half an hour later, a fist pounded on Ren's business door in Aurora.
+
+“Open up, you little shit!” Selene, the Mistress of Dance shouted. It had cost her quite a bit of money, and a date with her contact at the television station, to find out who had the new show contract. She remembered what it was like to kiss the lowly worker, and nearly gagged again.
+
+It tasted like I licked the inside of an ashtray! Selene shivered at the thought. I would have just flashed him my chest if I'd known. She banged on the door again. In fact, I can still taste it! She stepped away from the door. Wait a minute. I shouldn't taste that in here.
+
+A puff of smoke passed by her and her party members, and she looked around.
+
+“What's going on?” She asked the 6 people with her, and a few of them shrugged. “Well, don't just stand there!” She nearly shouted at them. “Go and see what it is!”
+
+One of them laughed. “By the smell and the smoke, I'd say it's a fire.”
+
+“Why would anyone have a fire here?” She asked. “We're in the middle of a city.”
+
+“Maybe it's a cookout?” One of them suggested, and sniffed the air. “I think I can smell bacon.”
+
+*
+
+Elerlyth was thankful that Hailey still had the cart and horse hidden for her. Even though she'd paid her to take care of them, Hailey wasn't a big believer in animal rights in games. Elerlyth snorted.
+
+Neither was I, until I started hanging around Ren. She thought. He cares so much about everything, that you can't help but care about things yourself. She flicked the reins to egg the horse on. I should be there soon, Ren.
+
+*
+
+Talon headed out across the countryside. He wanted to be well away before the raid parties moved in.
+
+Hitting everywhere at once is a big deal. He thought. There's no way I want to be associated with it, even though it was my idea. He slipped into another shadow and jumped another 50 feet forward. He had never gotten used to the feeling of disconnection as he stepped between places like that, but the ability itself was the best thing he'd ever seen.
+
+*
+
+Ren arrived at the warehouse and unhooked Princess from the cart, and led her inside. He took out her crate and she got inside. He put her bowl down and dropped a few pastries in it.
+
+...heaven...
+
+Ren pat her neck and left her to enjoy them. He went upstairs and opened the cabinet to step through the portal.
+
+“I'll summon you as soon as I'm on the other side, Teepo.” Ren said, then Teepo dissolved into the ring. He stepped through the portal and summoned Teepo, then heard banging on the front door. Ren ran out of the apartment and down the stairs.
+
+That can't be Elerlyth. Ren thought as he went to the door. She has a key!
+
+Teepo slipped out through the space under the doorway. “It's a group of 7 people, Ren.” Teepo said. “I don't know who they are, but there's smoke everywhere.”
+
+“Please!” *cough* *cough* “Open the door!” *cough* “I'll forgive you!”
+
+I'll have to take the chance with my Trouble recipe. Ren thought as he opened the door, and Selene and her party scrambled inside. He shut the door to stop any more smoke from coming in. The group coughed and bent over, then sat down on the floor.
+
+“What's going on?” Ren asked, as they huddled together.
+
+“Everything's on fire!” Selene said in a raspy voice, then coughed several times. “I've been banging on your door for nearly 20 minutes!”
+
+“I'm sorry.” Ren said. “I just got here.”
+
+“You just... oh my god! You have a portal!”
+
+“Business owner only.” He said immediately.
+
+“I'll buy your business!” She said, then coughed. “I've got 20 platinum on me, but I can get more if I log out first.”
+
+“It cost 50 platinum just for the building.” Ren said, then laughed at her surprised expression. “It was double that for the portal.”
+
+“How... how long will it take you to pay the bank back after borrowing so much?”
+
+Ren looked at her with his head tilted slightly to the side. “There's a bank?”
+
+Selene's mouth dropped open, and she stared at Ren like she'd never seen him before; then she started coughing and retching. Ren took out a wand of Minor Healing and used up the last of it's charges on the group. They all visibly relaxed as their coughing fits stopped. He stored the empty wand, and reached for the door handle.
+
+“Stay here.” Ren said. “It's a Safe Zone.”
+
+“That's a relief.” One of the group said. “Dying is one thing, but burning to death is not something I want to experience.”
+
+“Me, either.” Another one said.
+
+“Wait!” Selene said. “Where are you going?”
+
+“To fight the fire.”
+
+“Are you crazy?” She asked. “I don't see you carrying a fire hose!”
+
+Ren lifted his fist and smiled. “I've got one right here.” He opened the door and stepped out into the thick smoke, and shut the door behind him. He took out a piece of cloth and tied it around his face; then equipped his full plate armor.
+
+Let's go, Teepo! Ren thought, then ran off in search of the closest fire.
+
+*
+
+“Oh, no!” Elerlyth said. “I'm too late!”
+
+She had just come out of the thick forest near the West Gate, and saw all the billowing smoke that covered nearly half of the city. She drove the horse and cart into the trees and tied the horse to a nearby branch. She did a messy job of trying to cover the cart with loose branches, then ran for the gate on foot. When she was close enough, she saw several groups of people waiting to go inside, and she snuck closer.
+
+*
+
+“It won't be long now.” One of the men said. “I can't wait to get my hands on some of the loot!”
+
+“You idiot.” A man next to him said. “This is the starter city. I doubt there's a platinum coin among them.”
+
+The man frowned. “Then why are you here?”
+
+The other man laughed. “I wanna see it all burn.”
+
+“Quiet!” The leader of the group said. “We all have our reasons to be here.”
+
+“Money.” “Jiggly Puff.” “Jiggly Puff.” “Jiggly Puff.” “Horse.”
+
+Everyone turned to look at the guy.
+
+“What? I want a horse.” He looked at the staring faces. “To ride.” The men kept staring, and he sighed. “On it's back, you sick fucks.”
+
+*
+
+Elerlyth slipped by them and no one noticed her. She went through the gate and saw that the smoke covered a good portion of what she could see.
+
+I hope you get here soon, Ren. She thought as she tied a piece of cloth around her face, then moved into the thick smoke.
+
+*
+
+Is there anyone inside, Teepo? Ren asked, as he grabbed onto another burning building and absorbed the fire. His Mana Pool was almost full, and he used his Fire Manipulation ability to draw the fire to him.
+
+Stat Change!
+
+Fire Manipulation Level 2 (Beginner 0%)
+
+I expect that to go up a lot tonight. Ren thought, as he absorbed more of the fire.
+
+“Ren, there's someone in here. Second floor. First room. There's lots of fire and she's... you better hurry.”
+
+Ren took out his hammerpick and used the plow side to swipe at the wall. By the sound of Teepo's voice, he didn't have the time to look for the door. Ren pushed through the damaged wall easily and saw the stairs, then ran up them to the spot Teepo had said. Ren walked through the flames and absorbed them. He found the woman huddled in the corner, with her arms over her head. Her skin was burned and mangled, and she cried softly. Ren took out the empty wand and used nearly all of his Mana Pool to fill it with Major Healing spells.
+
+“It's all right.” Ren said to the frightened woman, and knelt in front of her. “I won't let the fire hurt you.” He used the Major Healing wand on her several times, and her arms healed. She gasped, and dropped her arms.
+
+“Am I dead?”
+
+Ren chuckled. “No, just healed.”
+
+“Where did the fire go?” She asked, and looked around the room. “It blocked me in here and I couldn't escape.”
+
+“I took care of it.” Ren said. “Can you stand?”
+
+She nodded and Ren held out a hand to help her stand.
+
+“I can smell smoke! It's still on fire!” She almost shouted, and Ren nodded as he pat her hand. “I came in here because you needed my help first.” He said. “I'll take care of the rest of the fire right now.”
+
+She watched as Ren left the room and he absorbed the fire. Everything was damaged, but at least it wasn't burned away and could be repaired or replaced. He went back up the stairs to her, and saw she was standing there, in shock.
+
+“It's all gone now.” Ren said.
+
+“I know!” She exclaimed and started crying again. “I lost everything!”
+
+Ren took her hand and led her out of the room. “I meant the fire.” He said. “Your home seems a little crispy, but it's still standing, so that can be fixed.”
+
+She marveled at how little actual damage there was. “How... how...”
+
+“Let's get you to a Safe Zone first.” Ren said. “You can worry about everything else later.”
+
+*
+
+Elerlyth ran for all that she was worth towards Ren's business. She saw one of the street torches fall over, and the fire jumped across the street and lit another house on fire. She jumped over the fallen post and ran up the street. She took the corner and was surprised to see that even though there was smoke everywhere, none of the buildings in the Artesian District were on fire. Elerlyth pushed that thought aside and ran over to Ren's place. She opened the door and was greeted by 15 people standing in the main room.
+
+“Are you the... no, just another refugee.” A man said and sat down on the floor. “I hope the soldiers get here, soon. I'm starving.”
+
+“You just ate!” A woman standing near him said. “If that boy hadn't saved us...”
+
+“What boy?” Elerlyth asked the woman.
+
+“That cute blond-haired boy.” She said and smiled. “He brought us here and gave us something to eat.”
+
+“Where did he go?”
+
+“He's out fighting the fire.” Selene said and rolled her eyes. “I can't believe how stupid he is, risking his life like that, and only for...” She looked around at the people, and stepped close to whisper to Elerlyth. “They're only NPCs. Why would he do that?”
+
+“For the same reason he let you in here.” Elerlyth said. “He doesn't want to see anyone die needlessly.”
+
+Selene looked at Elerlyth like she was crazy. “I could understand that for the players.” She said. “But... aren't the others easily replaceable?”
+
+Elerlyth snorted. “Has anyone opened Mitchell's shop yet? No? Was he easily replaceable, then?”
+
+Selene closed her mouth, and Elerlyth turned to go back outside.
+
+“Where are you going?”
+
+“I need to find him.” Elerlyth said. “He needs to know what's going on.”
+
+“Just stand here for a few minutes.” Selene said. “He brings another one every few min-”
+
+The door opened and Ren led a man inside.
+
+“I know it's a little crowded, but it's the only Safe Zone I own.” Ren said.
+
+“Ren!” Elerlyth exclaimed and took him into a tight hug. Their armor clanged together and Ren chuckled.
+
+“That feels really weird with the both of us in armor.” Ren said as he hugged her back. “I'm glad you made it.”
+
+“I came as fast as I could.” Elerlyth said. “You need to know something about all of this.”
+
+Ren raised a single eyebrow at her, and she kissed it. Several people gasped, and Selene stood there with shock on her face.
+
+“I knew something must be going on.” Ren said. “What is it?”
+
+“It's a Fire Sale.”
+
+“A what?”
+
+“You know. A fire sale. As in, 'everything must go'.”
+
+“By the gods, are you serious?” Ren said. “Who... who would do that to these poor people?”
+
+“I don't know who ordered it, but there's several groups of looters waiting outside the West Gate.” Elerlyth said. “I can only assume that there's more at the North and South gates, too.”
+
+“Dammit, I can't fight the fire and save people, and fight the looters at the same time!” Ren exclaimed. “There's only one of me!”
+
+“There might only be one of you...” Elerlyth smiled. “...but you aren't alone.”
+
+Ren's eyes widened for a moment, and then he smiled. “Oh, you are brilliant!” Ren said and kissed her. Several more gasps were heard, and Elerlyth reveled in the feelings of joy and appreciation Ren poured into her.
+
+Good god, he's so happy! She thought as they kept kissing and she fed. They stayed like that for a minute, until they heard someone cough.
+
+“Ahem.” Selene said. “You apparently have an idea?”
+
+“Yes!” Ren said, after breaking the kiss. “I, as the owner of a business in danger, hereby grant a Quest.”
+
+Selene's mouth dropped open again.
+
+“I task you to defeat the hooligans that plan on looting the city, while the fire is being dealt with.” Ren said, as he got a popup. He typed furiously for a minute, then the popup closed. “You will earn XP and gold for every looter that you defeat, regardless of if you die or not.”
+
+The players gathered together gasped. “We always lose XP and money for dying!”
+
+“Not this time.” Ren said. “I don't know if you can get back here in time if you do have to respawn.” He walked over to the middle of the floor and placed a hand on it. A large glowing circle appeared on the floor, and was covered in ancient writing.
+
+“This is a temporary spawn point, and is only valid for 2 days.” Ren said. “I'll even add a Running Quest, so that if the fire event part is over, you can still earn XP and gold for tracking down the looters later.”
+
+“Geezus, can he do that?” One of the players asked.
+
+“It's his quest, man. I think he's got a lot of leeway here.”
+
+“Yes, before you ask, it scales. The more you defeat, the more you make.”
+
+Two of the players high-fived each other.
+
+“Do not kill innocents or townspeople.” Ren said. “Or an equal amount of XP and money will be forfeit.”
+
+“No random killing. Got it.” One of the men said and took out his sword. “I'm not that high of a level, but I'm sure I'll take one or two of the looters with me.”
+
+Ren grinned. “That's the spirit.” He said then looked around. “Who's going to accept the Quest?”
+
+“Hold on.” One of them said. “You mean it's just us? No one else will get a piece?”
+
+Ren nodded. “Right. It's all yours.” He said. “This is a Special Quest, only for those present.”
+
+“Oh, man. This is going to be sweet!”
+
+Another popup appeared, and Ren watched as 10 players joined the quest. He looked at Selene, and she sighed.
+
+“Yes, I'll do it.”
+
+The popup closed and Ren concentrated on his Command Aura as he grinned. “Quest runners! Line up!”
+
+They did so, and Ren repaired all of their equipment and clothing.
+
+“Good lord, you can repair everything!” One girl said, surprised.
+
+Ren chuckled. “As a bonus for this Quest, I grant you a sword and a shield, to use in my name.” He went to each person and offered them a sword and a shield, and enchanted them with a glyph of the House Neram crest and 3 Antidark runes. Ren activated the enchantments, then spoke.
+
+“Set your spawn point, and go out there to make those looters pay for doing this to you and the city!”
+
+“Yeah!” They set their spawn point, and filed out of the front door.
+
+“Ren.” Selene said and held out the shield. “I can't use this.”
+
+“Oh! Right.” Ren said and stored it. “Sorry, I forgot.” He took out another sword, enchanted and activated it, and handed it to her.
+
+“I... I wasn't asking for...”
+
+“I can't let you go out there with only one new sword.” Ren smiled. “Plus, I expect everyone to sell them afterwards.”
+
+“I can almost guarantee it for my party.” Selene laughed. “They can't seem to keep their hands on nice things when they get them.”
+
+Ren held the door open for her. “Do me proud.”
+
+Selene glanced at Elerlyth, then looked Ren up and down. “I'll think about it.” She said and went out into the night.
+
+“Why didn't you accept the quest?” Ren asked Elerlyth as they stepped out into the street.
+
+“I'm staying right by your side.” Elerlyth said. “You need someone to watch your back once the looting starts.”
+
+Ren put a hand on the side of her face. “Thank you.”
+
+“I felt some of those wonderful emotions of yours.” Elerlyth said and smiled. “You're really enjoying the whole hero thing.”
+
+“I can't help it.” Ren smiled. “Helping people is awesome!”
+
+“Then let's keep going.” Elerlyth said and took his hand. “There's a whole city for you to help.”
+
+Ren grinned and they ran down the street, hand-in-hand, to find someone else to help.

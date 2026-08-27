@@ -1,0 +1,317 @@
+---
+id: b0418c1a-6d8e-5355-88b2-151b31e94eef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 483 - My Name Is..."
+slug: 0483-chapter-483-my-name-is
+partOf: mythrans-master-of-all-continued-completed
+position: 483
+ownLength: 3584
+unit: words
+publishedAt: 2018-01-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186940/chapter-483-my-name-is"
+royalRoadId: "186940"
+---
+
+Ren wasn't sure what to do. He could feel her growing impatience that he wasn't giving her a name; but, he could also feel that she was teasing him. It was quite the change from his other familiars, and he wasn't sure if the departure was going to be a good thing or not. The familiar picked up those thoughts immediately and she uncrossed her arms and put her hands on her hips.
+
+“You better believe that I am the best thing to ever happen to you.” She said, confidently. “Now activate your Serene State of Mind and think through this problem.”
+
+Ren didn't question her at all and activated his ability. Everything seemed to stop and a calmness filled him. He took a deep breath and let it out, and his whirling thoughts calmed down.
+
+She's right. Ren thought. I need to take a moment to think, and her name will come to me.
+
+Ren didn't try to concentrate on the task. He knew it wouldn't work that way. What he did do was think about her. He thought about her capabilities, her usefulness to both him and to his friends, and how much she was going to mean to them and to him. Unlike his other two familiars, her role was to be a combat specialist. She was meant to fight, to be in the thick of things and not flinch.
+
+Now that Ren was calm and wasn't flustered by her attitude, he could feel how confident she was. He knew she could handle anything that was thrown at her, and her strong will would get her, and him, through whatever fate threw at them. He let a smile spread across his face as her name came to him, and he deactivated Serene State of Mind. He held a hand out to her, and she took it.
+
+“Welcome to the team, Artemis.” Ren said, and kissed her hand. Surprisingly, it wasn't hard metal like he thought it was going to be.
+
+“You do good work.” Artemis said and smiled.
+
+“Apparently much better than I thought I could.” Ren said, and she laughed. It was a pleasant sound, and he felt genuine amusement from her.
+
+“We are going to have so much fun together.” Artemis said. “Let's wake the others and get back to work.”
+
+“Good idea.” Ren said. “Elerlyth and Zetaya should have finished their naps by now.”
+
+“I hope Zetaya isn't grumpy.” Artemis said. “Unlike the others, the fire elemental can't wear one of the Sustenance rings.”
+
+Ren nodded. “I've been trying to think of a way to make something that won't be consumed by the Fire, like making it out of diamonds; but...”
+
+“There's no way to attach those diamonds together, without having that attachment melt.” Artemis said.
+
+“Exactly.” Ren said and walked over to the door of the tower and opened it. “I'd need some way to fuse the diamonds themselves together to make something.”
+
+“Then you still have the problem of how Zetaya would wear it.” Artemis said, and stepped by him.
+
+“Yes, would it stay external, and prone to damage, or internal, where it's under constant pressure and attack? Would that negate it's powers, assuming the enchantment would even work?” Ren asked and shook his head as he shut the door and deactivated the tower. He stored it and walked over to Elerlyth. “But, I can worry about that later.” He said and bent over her. “Ellllerlyyyyth.” He said softly and gently stroked her cheek. “Waaaake uuuuuup.”
+
+“Mmm.” Elerlyth squirmed a little.
+
+“Wakey, wakey.” Ren said in a more normal tone of voice.
+
+“Hm? What?” Elerlyth opened her eyes and looked at him. “Oh, you're back.”
+
+“I was back about 2 hours ago.” Ren chuckled. “I slept for an hour, and then made a new friend.”
+
+Elerlyth felt his emotions and the double meaning, and turned her head at the new set of feelings she could feel. She blinked her eyes at the metallic woman that stood behind Ren.
+
+“W-who?”
+
+“My name is Artemis, and I'm Ren's new familiar.”
+
+“B-but...”
+
+“She's a sentient crossbow... or, she was supposed to only be a sentient crossbow.” Ren said and smiled. “I couldn't leave well enough alone, though.”
+
+“What he actually means is that he couldn't stand to give me a mind and a personality, and leave me as only a ranged combat weapon that would just float around him during a fight.” Artemis said. “Once he decided I needed an actual body... well...” She waved at herself. “He went all out.”
+
+“I... can see that.” Elerlyth said and stood up. “You look kind of familiar, too.” She said, and saw that Artemis was several inches taller than her, wore a copy of her armor, and had long flowing metallic hair that constantly moved as if an actual breeze was blowing through it.
+
+“I'm a composite.” Artemis said. “Elise, Stella, and Lisa's facial features were combined to give me a unique look.”
+
+“Excuse us for a moment.” Elerlyth said and put a hand on Ren's arm.
+
+“I'll go over there and wait.” Artemis said and pointed to a spot 20 feet away, and walked over to it and faced away from them.
+
+“Ren why did you make that?”
+
+“What do you mean?”
+
+“I can feel her emotions.”
+
+“Yeah, and?”
+
+“She likes you.” Elerlyth said. “A lot.”
+
+“I sincerely hope she likes me, or things could get uncomfortable; especially considering she's my familiar and is also in my head.” Ren said. “Can you imagine being tied to someone that didn't like you?” He shook his head. “Talk about awkward.”
+
+“No, Ren.” Elerlyth said. “I... I mean she...”
+
+“She what?”
+
+“She loves you.”
+
+“What?” Ren concentrated on his mental connection to Artemis and felt along it's path. “I'm not picking up on that at all.”
+
+“Obviously she's hiding it from you.” Elerlyth said.
+
+“Then how did you feel it?”
+
+“She's only hiding it from you, so I can only assume it takes too much concentration to hide it completely.”
+
+Ren turned to Artemis. “Please come over here, Artemis.”
+
+Artemis turned around and walked over to him. “Yes, I love you.”
+
+“Why are you hiding it?” Ren asked.
+
+“You made me, and I share your thoughts.” Artemis said. “I know you only have so much room in your heart for those you care about, and if you felt how I feel, you're going to start feeling bad that you can't reciprocate.”
+
+“I... don't understand.” Ren said. “You were literally just born.” He said. “How can you love me already?”
+
+Artemis smiled as she reached out and touched his hair, then ran her fingers through it, just how he liked it. “I came into being with full knowledge of you and everything you've done... and gone through.” She said. “There would be something wrong with me if I didn't already love you for that.”
+
+“But...”
+
+“If it makes you feel any better about it, it's just love.” Artemis said and stopped stroking his hair. She quickly glanced at Elerlyth and then back at Ren. “Thanks to your knowledge, I can clearly tell the difference between the different types of love there is.” She said. “I didn't want you to think I was pressuring you into trying to return my feelings.”
+
+“But...”
+
+“Only other emotion tasters can detect anything from me.” Artemis said. “For now, I'm going to keep it that way.”
+
+“But...”
+
+“Feeling how I feel isn't going to help you right now.” Artemis said. “You'll get to know me over time, and as that time passes by, I'll ease the barrier down.” She smiled. “Despite what your friend is implying, there's no need to concern yourself over this.”
+
+“But...”
+
+“When you used your Serene State of Mind and thought of me, did you detect anything harmful? Anything malicious? Anything detrimental?”
+
+“Of course not.” Ren said.
+
+“Then don't let doubt or distrust color your decision to bring me into the world. It was your choice, and you made me into this.” Artemis said. “I am a part of you, and I will fight by your side without question.” She said. “Before Elerlyth tries to argue with you about keeping me, I would rather destroy myself before causing you harm, or causing harm to those that you care about, despite her belief that I am a problem that needs to be dealt with.”
+
+“I didn't say that.” Elerlyth said.
+
+“You want to.” Artemis said, and Elerlyth didn't say anything in response. “It's okay to have an opinion, Elerlyth.”
+
+“I think you're going to distract him.” Elerlyth said. “He's going to be looking at you instead of concentrating on the battle.”
+
+“You really believe that.” Artemis said.
+
+“He's going to be concerned about you, and that's going to be a distraction.”
+
+“That's kind of true.” Ren said. “For the first few battles, anyways.”
+
+Artemis nodded. “I agree; but, you would be just as concerned if Tee-one or Ruck were by your side. You do the same thing any time that you're in a battle with someone new.” She said. “How else can you be aware of someone's capabilities if you don't keep an eye on them during a fight?”
+
+“She's right.” Ren said. “I kept a close eye on you the first time we went into battle together, and I was concerned about your well being.”
+
+“During the Aurora Fire.” Elerlyth said, and Ren nodded.
+
+“It was a hectic night for us both; but, after that I had no problem having you at my back, or having your back, during a fight.”
+
+Elerlyth sighed. “I picked a losing fight, didn't I?”
+
+“It's not a fight.” Ren said. “It's a discussion of the merits of untested combatants in combat situations.” He said. “We just decided that until they are tested, they should be carefully watched.”
+
+“So, we're just going to completely ignore that she loves you?” Elerlyth asked.
+
+“Yes.” Ren said. “Since that's what she wants us to do.”
+
+Elerlyth sighed. “Then wake up your fire elemental and let's get going.” She said and stored the recliner Ren had made for her. “The ghouls aren't going to sit still and wait forever.”
+
+Ren stored his recliner before he went over to the fire elemental and woke Zetaya up. The fire elemental was a bit groggy at first, then it realized it had fallen asleep and jumped up to the sound of branches snapping loudly in a roaring fire.
+
+“It's all right.” Ren said to calm Zetaya down. “I know this is hard on you, being so big and having to eat all that yucky undead stuff.” He said. “I was tempted to let you sleep; but, we need to keep working or more people will die.”
+
+Zetaya's roaring fire died down, and the fire elemental nodded. It was weird seeing a colossal cow nod it's head, and Ren held in his laughter at the sight. He took out the All-Seeing Mirror and asked for the closest ghoul infestation, and the spot appeared on the map.
+
+“Let's go, people.” Ren said and showed the spot to Elerlyth, Artemis, and Princess, then climbed up onto the saddle while Elerlyth climbed onto her Phantom Steed, Etheria. Artemis was covered in a soft golden glow, then floated up to hover beside Ren. He looked at her and smiled, and she smiled back. Princess took to the air, and Artemis was pulled along with them, since her ability kept her next to Ren no matter how fast they moved. Zetaya ran just above the treetops, and Elerlyth rode Etheria beside the fire elemental.
+
+“Okay, that's pretty neat.” Teepo said as he looked at Artemis. “When I was flying, it was hard to keep up with Ren sometimes.”
+
+“Thanks, Teepo.” Artemis said. “If I could impart the same ability to you, I would.”
+
+“So would I.” Ren said. “Athough, I don't think splicing a familiar recipe into your platinum beetle body would work. I don't think Artemis can fly, just that she can fly next to me.”
+
+“That's right.” Artemis said as the group moved over several miles to the next site. “I can't fly on my own out past Ren's Aura.” She said. “That's okay, though; since I never want to go further than that anyway.”
+
+Teepo chittered in laughter. “Yeah, I used to go and leave him for hours; and boy, that almost never worked out well.”
+
+“Only once, as far as I can remember.” Ren chuckled. “You found the diamond mine in the dwarf lands that time.”
+
+“That was a good find.” Teepo said. “It sure helped out a lot at the time.”
+
+“It still does.” Ren said. “Both for wands and for enchantments.”
+
+“We're here.” Princess said, and they all looked down at the spot. It wasn't a cavern nest this time. It was a full High Elf town that looked deserted.
+
+“Okay, easy does it.” Ren said. “Zetaya, stay here on the edge of town and we'll bring them to you.” He said. “Elerlyth, scout the far side and be careful of any High Elves that might still be around. If you see any ghouls, let us know where and how many.”
+
+Elerlyth nodded and took off on her mount.
+
+“Princess and Artemis, we'll do a grid pattern and try to draw them out.” Ren said and took out the Generic Staff of Necromancy and activated the Ghoul Lure spell. “Artemis, hold your fire until we get enough of them out to make a mass, then maybe shoot a few in the arm.”
+
+Princess trotted through the air and across the edge of the town, then started to move across the houses and small buildings to have Ren's Aura cover as much of the town as possible. They heard several screeches as the ghouls were affected by the Ghoul Lure spell, and several ghouls came out and started running after them. They eventually covered most of the town, and Ren saw Elerlyth on her mount as she slowly moved around and searched.
+
+“Anything?” Ren asked.
+
+“Not much.” Elerlyth said. “Now I'm wondering where they went.”
+
+“How many High Elves were in this town, do you think?” Ren asked. He hadn't felt anything at all like normal intelligence from the ghouls they had found, and there was a group of about 85 of them below.
+
+“This is a pretty big town.” Elerlyth said. “There should be anywhere from 20,000 to 80,000 people.”
+
+“I'll consult the All-Seeing Mirror while you and Artemis clean up the ones below us.” Ren said.
+
+“So, none of them can be-” Elerlyth's words were cut off as Artemis started to fire 1 foot long Mana bolts out of both hands in a steady stream. “Hey! No fair!”
+
+Artemis started to laugh, and Elerlyth flew her mount Etheria down into the middle of the ghouls and started swinging her sword to try and kill as many of them as she could. Ren chuckled and took out the All-Seeing Mirror and asked it where the town's population was. Nothing came up, and he sighed.
+
+“Show me the ghouls that left this town.” Ren said, and the mirror shifted and showed him a large underground area. Inside was a lot more than 100,000 ghouls. “You know my capabilities.” He said to the mirror. “Show me the ones in that group that can be saved.”
+
+Out of the million or so ghouls the mirror showed him, only 3 of them were highlighted.
+
+“Well, damn.” Ren said, sadly. He looked around at the town they were in, and recognized all of the buildings. He had designs for them all, and then he looked below. He saw Elerlyth strike out with her sword and decapitate the last ghoul, and a Mana bolt went down through the head while another went through the body.
+
+“Nice teamwork!” Ren said. “Your two skills sets work well with each other.”
+
+“I felt that spike of sadness.” Elerlyth said as she started to loot all the bodies. “What is it?”
+
+“Out of all the ghouls in the next horde, only 3 of them...” Ren looked at the mirror. “...dammit, only two of them... can be saved.”
+
+“By the time we get over to them, there probably won't be any to save.” Elerlyth said. “Where are they?”
+
+Ren asked the All-Seeing Mirror and it showed the spot on the map.
+
+“I'm sorry, Ren.” Elerlyth said and finished looting the bodies. “It's going to take us a few minutes to get there.”
+
+“I know.” Ren said. “Zetaya! Let's go!”
+
+The fire elemental disguised as a colossal cow, ran through the air over to him. He showed everyone on the map where they were going, and they all left the abandoned town.
+
+“Ren, when we're done, I'm going back to loot the town.” Elerlyth said.
+
+“If you find anything interesting, bring it to me.” Ren said.
+
+“You're not going to get angry?”
+
+“What for?” Ren said. “There's literally no one left.” He said and held up the All-Seeing Mirror to show her none of the ghouls were highlighted.
+
+“I really am sorry about that.” Elerlyth said.
+
+“I can feel that you are.” Ren said. “Before you explain why, it doesn't matter that it's for the wrong reason.”
+
+Elerlyth chuckled. “Yes, I'm sorry because you don't have anyone left to save.”
+
+“No one except the people that are going to be attacked by this new horde.” Ren said. “I can't believe how fast they went from none of them gathered, to over a million!” He shook his head. “I'm thinking the conversion percentage numbers were tweaked.”
+
+“No doubt.” Elerlyth said. “We're getting close.”
+
+“Get ready, Zetaya!” Ren said and took out his Staff of Earth. “Elerlyth, Artemis, Princess!” He said and hopped off of Princess and ran beside her. “Get the ones on the outskirts! It's gonna get messy!”
+
+“No mercy!” Elerlyth said and her mount Etheria darted forward.
+
+Ren used the Staff of Earth to split the dirt above the cavern and pushed it to the sides, and Zetaya jumped right into the opening. Princess followed the fire elemental, and Ren felt how happy Princess was that she could run as fast as she wanted and could ram the ghouls as hard as she could without having to worry about not killing them.
+
+“Artemis?” Ren looked at his newest familiar.
+
+“I'm letting her have her fun.” Artemis said, then shot a ghoul that tried to grab Princess. “Safely, of course.”
+
+Ren nodded and used the All-Seeing Mirror to see if any of the ghouls were trying to escape. They were, and Ren directed his combat team to head them off. Without having to sort them, the group made short work of the undead threat, and Ren just stood there in mid-air and watched them.
+
+“Wow, you guys.” Ren said as they all came back over to him, and he filled in the underground cavern. “That was amazing!”
+
+Elerlyth laughed. “I don't think I've ever had my kill get pulverized while I was in the process of killing it.”
+
+“You were too slow!” Princess brayed in amusement.
+
+“At least it didn't splash me.” Elerlyth said.
+
+Ren looked around at the members of his clean-up group. In fact, none of them had any blood on them, and he smiled as he took out the All-Seeing Mirror and asked it for the closest ghoul horde, then asked for the closest nest.
+
+“Show me all the nests close by.” Ren said, and about 150 nests appeared. “Okay, we have our work cut out for us.” He said. “If we stick to the 3 minutes per nest, give or take half a minute for the different sizes, that's close to 8 hours.”
+
+“What if we split up?” Elerlyth asked as she came over to him.
+
+“I don't know.” Ren said.
+
+“Check to see how many can be saved.” Elerlyth said, and put a hand on his shoulder.
+
+“I... okay.” Ren said, and asked the All-Seeing Mirror to show the potential saves they would have. None of the nests were highlighted, and he sighed.
+
+“Make another Staff of Earth, and give me a wand with the Locate spell.” Elerlyth said.
+
+Ren handed her the staff he had in his hand, and took out a wand and changed it's spell charges to Locate.
+
+“I'll take Princess with me, and you keep Zetaya and Artemis.” Elerlyth said. “We'll get this done in half the time.”
+
+“Be careful.” Ren said and looked at Elerlyth, then at Princess. “I mean it.”
+
+“I run too fast for the blood to touch me, My Lord.” Princess said. “I will still be careful for you, though.”
+
+Ren smiled and scratched her chin. “I'll meet you both back here in 4 hours.”
+
+“You got it.” Elerlyth said.
+
+“If you meet High Elves, don't engage unless they attack first.”
+
+“Ren, even though we're saving them, they are going to attack first if they get close enough to see me.”
+
+“Yeah, I know.” Ren said, then smiled. “What was it you said? No mercy?”
+
+Elerlyth nodded.
+
+“Princess, take care of her.”
+
+“Yes, My Lord.”
+
+“Great, now I've got two mounts that are going to tell me what to do.” Elerlyth said and chuckled.
+
+“It's because they care... or were told to care.” Ren grinned, and Elerlyth laughed.
+
+“See you soon.” Elerlyth said and she rode her mount towards the next nest, and Princess kept pace with her.
+
+“Let's go.” Ren said and showed Zetaya the next nest in another direction, and he ran through the air beside the colossal cow and Artemis flew beside him.

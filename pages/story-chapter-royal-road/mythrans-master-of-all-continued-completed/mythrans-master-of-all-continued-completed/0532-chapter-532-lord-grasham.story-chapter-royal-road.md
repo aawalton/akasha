@@ -1,0 +1,231 @@
+---
+id: b6ab13be-8f60-5802-9bb8-03c6b4d7422a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 532 - Lord Grasham"
+slug: 0532-chapter-532-lord-grasham
+partOf: mythrans-master-of-all-continued-completed
+position: 532
+ownLength: 2580
+unit: words
+publishedAt: 2018-03-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/202525/chapter-532-lord-grasham"
+royalRoadId: "202525"
+---
+
+As Ren and his group of followers moved through the air towards the city that was the capital for Lord Grasham's lands, the succubi changed their appearance to that of angels. Their red skin faded to white and their leathery bat-like wings changed to white feathered bird-like wings. The succubi kept the bikini tops and underwear bottoms that they normally wore, as well as their natural hair color.
+
+The succubi also reactivated their Displacement enchantments in case someone didn't buy their hastily made disguises; but, they needn't have worried about that. The soldiers on the walls had let Ren and the succubi pass over the wall without incident. Xuunah rode up into the sky to rejoin Ren and the Pegasus Knights rose up into the air with her.
+
+Ren nodded to the succubi and they descended to the soldiers on the wall and quickly disposed of them. He saw everyone stop for a moment and assumed they had received the popup that stated they had completed the 'Remove Soldiers' quest he had given them. Ren and Princess continued on over the city towards the large mansion in the center and the others went with them. With his Auras active, everyone they passed over in the city looked up at them and saw exactly what they wanted to see... a flight of angels as it passed over their city to bless them.
+
+“What did you say to them?” Officer Holly asked, and indicated the Pegasus Knights that flew in formation behind them.
+
+“I explained that we don't want any trouble, and we are only here because we wanted to talk to Lord Grasham about his latest illegal endeavour to wipe out the villagers in the next county.”
+
+“So you lied?” Officer Holly asked as the group came to a stop just outside the main building of the mansion that the All-Seeing Mirror had shown Ren as the location for Lord Grasham.
+
+Xuunah chuckled. “No, because it hasn't been any trouble for us so far, has it?”
+
+“Oh, crap.” Teepo said, and Ren sighed.
+
+“It will be now.” Ren said as he felt the emotions of the Pegasus Knights shift from escort mode to containment mode.
+
+“I don't understand.” Xuunah said. She had felt the emotions shift in the knights through Ren, and her gaze watched the knights to see if they were going to attack.
+
+“It's a little hard to explain.” Ren said and looked at Officer Holly, who was doing the same thing Xuunah was. “Murphy's Law.”
+
+“Oh, damn.” Officer Holly said.
+
+“Murphy's Law?” Xuunah asked.
+
+“In simplest terms, it means 'anything that can go wrong, will go wrong'.” Officer Holly said. “That's actually a misinterpretation of 'anything that can happen, will happen'; but, since everyone says it the other way, that's the way everyone believes it is.”
+
+“I triggered it because of what I said?” Xuunah looked from Ren to Officer Holly while she still watched the knights.
+
+“It's something that's happened a few times to me while I've been going on adventures.” Ren said. “It was Tee-one that messed me up the last time, and we almost got overrun with giant spiders.”
+
+“I... I'm sorry.” Xuunah said. “I didn't mean to.”
+
+Ren smiled and pat her hand. “It's okay.”
+
+Xuunah shook her head. “No, I should have known not to make a comment like that.” She said. “I'll know better in the future.”
+
+“So, what do we do now?” Officer Holly asked.
+
+“We could leave.” Symmetra said, and everyone glanced at her. “What? It's a valid option.”
+
+“We could level the place and move on, like you did for the Thieves Guild.” Teepo suggested.
+
+“We could go in and attack anything that moves.” Artemis said, and she had her arms posed to do just that, starting with the Pegasus Knights.
+
+“Or we can just walk in and ask what the hell he was thinking.” Ren said, and he felt the knights relax.
+
+“If I may make a suggestion?” A woman's voice said, and everyone turned to see a woman floating in the air in front of the building. “Go with the last option. Lord Grasham is expecting you.”
+
+Ren tried to use Identify Person on her, but nothing happened. “You're not real?”
+
+The woman smiled. “Astral Projection.”
+
+“I've never used that spell.” Ren said. “Does it feel weird at all?”
+
+“Yes, it does.” She replied. “I can feel the environment I'm in at the moment, and I'm also feeling this environment on top of it.”
+
+“I assume your eyes are only seeing this view.” Ren said, and she nodded.
+
+“It would be very difficult to move or interact with anything if you saw both at the same time.”
+
+“That's what I was worried about.” Ren said. “What's the travelling like? Do you take just as much time in astral form, or is it faster than normal movement?”
+
+“Do we really want to discuss this right now?” Officer Holly asked.
+
+“Right, right.” Ren said and smiled at the floating woman. “Lead the way, ma'am.”
+
+The woman nodded and turned around and floated through the wall of the mansion. Ren took out the Staff of Earth and used the Pass Wall spell to make a hole for him and the others to pass through. They did so and entered a large lobby, which left the Pegasus Knights outside, and Ren nodded at the succubi.
+
+The Pegasus Knights were immediately dispatched, and the Pegasus mounts started to freak out and go into a Frenzy with their bonded riders dead. The succubi killed the winged horses quickly and looted all the bodies, came in through the hole in the wall to join Ren and the others, and Ren dismissed the Pass Wall spell. Even if someone had been looking in their general direction, they wouldn't have seen anything because it had happened so fast.
+
+Ren and the others followed the astral projected woman out of the lobby and down a hallway to a large set of doors, and she went through them as if they weren't there just like she had through the wall. The woman hadn't turned around at all since Ren had started following her, and he thought that was quite the oversight on her part. He could do so many things behind her back without gaining her attention, in addition to removing the Pegasus Knights.
+
+The large doors opened as he and his group approached them, and inside was a large throne room. In the middle of the room was an ornate throne, with a normal man sitting in it. He was surrounded by several dozen guards, as well as attendants. Ren saw the astral projected woman enter her physical body and heard her take a breath.
+
+I wonder if that's a kind of limitation? Ren asked himself. Maybe the longer you are away from your body, you lose Health or something?
+
+“Well, well, well.” The man said in a monotone voice and distracted Ren from his thoughts. “It seems my little ploy worked.”
+
+“What ploy?” Ren asked.
+
+“To get you to come and see me, of course.” The man said in the same monotone voice. “You see, what I wanted to do to you required that you to come to me willingly.”
+
+Ren's entourage spread out to defend him, and the man laughed. When he spoke next, his voice changed to that of a woman and still had the same monotone level.
+
+“Relax. Take a deep breath. Let it out slowly.”
+
+Ren took a breath and relaxed, despite not wanting to.
+
+“Listen to the sound of my voice.” The man kept speaking in a woman's voice.
+
+Ren's eyes widened as the man's appearance morphed into that of a woman he recognized quite well.
+
+“Listen to how soothing and relaxing my voice is.” Suzie said. “Listen to the tones and the tremble in my words. Concentrate on what you hear, not what I say.”
+
+Ren took in another breath and let it out slowly.
+
+“Ren? What's going on?” Xuunah asked because she could feel that he was being forced to remain calm. Ren didn't respond to her.
+
+“You are one with your mind, and your mind is one with you.” Suzie said the last hypnotic catch phrase and Ren went completely limp as he slumped to the floor, unconscious.
+
+********
+
+“REN!” Stella yelled as soon a she saw Suzie. “Initiate emergency logout procedure!”
+
+[table] System Notice!
+
+Emergency logout initiated. Estimated time for safe removal of player: 2 minutes [/table]
+
+“Two minutes is too long!” Stella said uselessly as Ren's avatar dropped to the floor. “What is she going to do to him?”
+
+********
+
+Xuunah's Righteous Fury Aura popped into place without her calling for it. “Kill them!” She commanded because she felt it was imperative that she had to defend Ren now that he was completely defenseless from whatever kind of attack that was, so she stepped in front of him with her sword at the ready to stop anyone from approaching his unconscious form. The succubi and Symmetra's constructs leaped forward to fight the guards and Princess ran forward and rammed through the crowd of people around Suzie.
+
+“Ren, stop them!” Suzie said immediately.
+
+Princess clipped Suzie's arm with a horn, and Suzie screamed as her arm was pulverized from the impact, as was the throne she sat on. She would have been thrown across the room, but the people around her acted as a buffer and caught her.
+
+“Everyone stop!” Ren commanded. With his Command Aura active, everyone within it stopped, including Princess, who had looped around the room and was just about to ram Suzie right in the side of the head.
+
+“Th-that's better.” Suzie said and winced when she tried to stand up. Her arm hung uselessly by her side, and blood poured out of multiple contusions onto the floor.
+
+“My Lord! Let me take care of that!” One of the people around her said, and the woman used Major Healing on her.
+
+“Hurry up.” Suzie said.
+
+The woman nodded and poured Mana through her hands. The arm healed completely a few moments later and Suzie flexed her fingers.
+
+“Tend to the others.”
+
+“Yes, My Lord.” The woman said and stepped around Princess to the closest body. She touched it for only a second and shook her head, then moved on to the next.
+
+“I should kill you all where you stand.” Suzie said and stepped forward. “I only wanted to talk to him.”
+
+“Step no closer!” Xuunah exclaimed. “You will not harm him!”
+
+“I'm not going to harm him, even after his underlings did this to my people.” Suzie said and waved at the carnage. All the guards were dead at the hands of the succubi, and half of her advisers were dead because of Princess. “I really do only want to talk to him.”
+
+“Then shut your mouth!” Xuunah said. “Your words alone have harmed him!”
+
+“You have no idea what my words alone can accomplish.” Suzie chuckled. “Ren, you will do everything I say.”
+
+“Yes, Suzie.” Ren said.
+
+“Stand up and grab this woman.” Suzie said.
+
+Ren stood up with his eyes still closed, and he grabbed Xuunah's arms to hold her.
+
+“Ren! Let me go!” Xuunah pleaded. “I'm trying to help you!”
+
+“He can't hear you.” Suzie said. “Only my voice matters to him right now.”
+
+If my voice can't reach him, then... Xuunah thought and closed her eyes. Maybe... if I concentrate...
+
+“You're starting to cause me problems in the real world, Ren.” Suzie said. “Private investigators, news reporters, unauthorized police stakeouts, and a few visits by several unnamed three letter agencies have plagued me and my clients during the last few weeks.”
+
+“I'm sorry.” Ren said, then felt something inside his chest as it started to glow.
+
+“I've even been subpoenaed to appear in a court case concerning you as the star witness.” Suzie said. “I can't let myself be questioned or cross-examined like that, Ren.” She said and walked over to Ren and Xuunah. “You will refuse to show up at the ne-HURK!”
+
+A white glowing sword stuck out through her chest, and Suzie looked down at it in shock.
+
+“I'm really glad I never accepted Ren's job offer.” Officer Holly said.
+
+“Wh-what? H-how are you still moving?” Suzie asked.
+
+“I'm not one of Ren's underlings.” Officer Holly said and smiled.
+
+“R-Ren! Kil-HUCK!” Suzie's words were cut off by the short sword that was shoved up under her chin and through the top of her head.
+
+“Now now, we can't have you talking.” Officer Holly said. “That would be bad.”
+
+Suzie stared daggers at Officer Holly, who grinned back.
+
+“I see you have lots of Health.” Officer Holly said. “Let me help you with that.” She gripped the hilts of both swords, twisted them to the right, then the left, yanked them both out in one smooth motion and crossed her arms to decapitate Suzie. Her head and body dropped to the floor, and everyone could see that she was quite dead. A moment later, Ren let Xuunah go and fell to the floor as well.
+
+“REN!” Xuunah yelled and her sword evaporated as she knelt to cradle his head in her lap, their connection glowed between them. “Oh, Ren.” I almost woke you up.
+
+“Is he dead, too?” Zunala, the head succubi asked.
+
+“No, he... he's just gone where Adventurer's go.” Xunnah said.
+
+Zunala sighed in relief. “When his stop order lifted, I thought...”
+
+“Dispatch the others.” Princess said to her. “No one must know of this.”
+
+“W-wait!” The woman who had healed Suzie said when a succubus grabbed her. “I was just following orders!”
+
+“So are we.” The succubus said and ripped the woman's heart out of her chest. The remaining people were quickly killed and the bodies looted.
+
+“What do we do now?” Artemis asked of no one in particular.
+
+“We wait for his return.” Xuunah said confidently and looked at everyone. “Secure the mansion. Kill everyone else inside. Barricade the windows and doors and set up sentries to keep watch.”
+
+After each sentence, several succubi left the room to kill the inhabitants, the constructs and Symmetra left to make the barricades, and then the last handful of succubi set themselves up to keep watch.
+
+“No one will come near our Ren again.” Xunnah said.
+
+********
+
+Stella slipped off the VR headset after seeing the successful logout popup, and looked at Ren's still form. I really hope this works. She thought. “Ren, can you hear me?” She said, and Ren didn't react. She sighed and picked up a piece of paper and tore off a small piece. She chewed on it for a minute and spit out the extra saliva into a tissue, then stuffed the wet wad of paper on the inside of her cheek. She coughed to rough up her voice a little, then spoke.
+
+“Ren, can you hear me?” Stella said in a very good imitation of Suzie's voice.
+
+“Yes.”
+
+“You will remember everything that's happened to you, and when I clap my hands like I always do, you will wake up feeling refreshed and like you can take on the world.”
+
+“Okay.”
+
+Stella clapped her hands once and Ren opened his eyes immediately.
+
+“Mommy, NO! NOOOOOOOO!” Ren screamed, and tears gushed out of his eyes. The blood drained from Stella's face as Ren thrashed around on the bed, and his whole body started to shake and shiver as frothy foam flowed out of his mouth.
+
+He was having a Grand Mal seizure.

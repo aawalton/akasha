@@ -1,0 +1,287 @@
+---
+id: 27f0a31c-4c15-549f-82e2-d871457462f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 412 - I Met Another One"
+slug: 0409-chapter-412-i-met-another-one
+partOf: mythrans-master-of-all-continued-completed
+position: 409
+ownLength: 3730
+unit: words
+publishedAt: 2017-11-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172209/chapter-412-i-met-another-one"
+royalRoadId: "172209"
+---
+
+Ren dug upwards at a good pace, but he wasn't pushing himself. He knew if he tried to go faster, he was bound to find something that he wasn't going to like... and then he hit another layer of impenetrable rock.
+
+Well, damn. Ren thought and took out the All-Seeing Mirror. Right above him was a large cavern, only about 1000 feet long. It seemed to have stages or platforms that went progressively higher from one end to the other.
+
+“Try going around.” Teepo suggested.
+
+Ren tried to dig to the right and hit another impenetrable rock barrier. He went left and there was another. He sighed and tried going towards the higher end of the cavern and met yet another barrier.
+
+I think I'm supposed to go to the start of this cavern. Ren thought, and dug towards the lowest part. He didn't meet a barrier in this direction, so he kept going.
+
+“I guess they couldn't just put up a sign saying 'go this way'.” Teepo said.
+
+I don't like being forced to do something. Ren thought and met another impenetrable rock barrier. He checked the All-Seeing Mirror again, and he was directly underneath the very beginning of the cavern above him. Should I try to dig around? He asked his friend.
+
+“Don't bother.” Teepo said. “You know it's going to be blocked.”
+
+Ren nodded. It's led us here, so we need go this way. He started to dig up, and less than 10 minutes later, his mining pick met air. Teepo.
+
+Teepo crawled down his arm and Ren held onto him and stuck his hand carefully up through the hole. “It's clear.” Teepo said. “Nothing's moving, and I can't see anything within the first platform.”
+
+Ren pulled him back and put Teepo on his shoulder, then dug out the rest of the way. He climbed out and stood on the first platform. It was very old, 100 feet wide, and the next platform was 30 feet away and 15 feet up. He used Enchanted Eyes and cast Detect Magic and Detect Traps, and nothing appeared except a popup.
+
+Stat Change!
+
+Spell Casting Level 2 (Beginner 0%)
+
+Ren walked over to the next platform and climbed up 14 feet and peeked over the lip. It was identical to the first part, and he climbed up onto it. He left his Enchanted Eyes activated and cast both spells again, and nothing appeared. He walked to the next platform and repeated this process.
+
+I think we're on stairs. Ren thought, a little amazed. If they are actual stairs, and they're scaled for humanoids, then whatever used them was... oh, boy.
+
+“They would be about the size of Fire Dancer the first time we met her.” Teepo said. “Just like the stained glass window you made in both churches.”
+
+It would be the size of a good portion of a mountain. Ren thought and kept going up the stairway. It didn't even make him feel small, mainly because he had ignored that feeling for his entire life. What he actually felt was awe. I wonder what it looks like. He asked himself. Did it keep the humanoid shape, or did it keep the rock shapes and just move them around?
+
+Teepo chittered in laughter. “Do you really want to meet whoever it is and find out?”
+
+Sure. Ren thought, then added a qualifier. As long as they don't kill me.
+
+********
+
+“I wish I could just pop in and send him a message.” Elise said.
+
+“You heard what Lisa said. Everything is disabled.” Stella sighed. “But, I wish you could, too.”
+
+“Do you think he knows we're here watching him?” Elise asked.
+
+“He knows someone is.” Stella said.
+
+“Hey, you two.” Barbara said as she came into Ren's room. “I should ask what you're doing, but I can see you're watching Ren.” She smiled. “Which reminds me of something that I meant to come over this morning about.”
+
+“What's that?” Stella asked.
+
+“Donald reminded me that this place is huge and expensive, and might have a security system with cameras and everything.”
+
+Both Elise and Stella stared open-mouthed at her.
+
+“I had almost the same reaction.” Barbara said. “I yelled, though.”
+
+“I'll be right back!” Elise said and ran from the room. Barbara and Stella watched, because it was quite the sight to see a 6 foot 2 inch tall woman run in 3 inch high heels.
+
+“How did she do that?” Barbara asked. “I would have broken my neck after two steps!”
+
+Stella chuckled. “Elise has more talent than we realized.”
+
+Barbara nodded. “Well, you might as well fill me in on...” She caught sight of the television screen. “What the hell?”
+
+“There's a lot to explain.” Stella said.
+
+*
+
+Elise ran out to her Hummer H2 and to the rear storage area. She always kept her bug sweeper close by, but it never occurred to her to sweep the new house. She kicked herself for not thinking of it sooner, set it up and dialed in the proper settings. Rather than walk around with it openly, she used her tablet and shunted the readings to there instead. If there were cameras or secret recording devices, whoever was watching wouldn't see what she was actually doing.
+
+Elise tucked the bug sweeper inside her suit coat on the left side, and held the tablet in that hand. The readings were coming through properly, and she walked towards the house.
+
+*
+
+What is she doing? The man who rode the lawnmower asked himself as he watched the security footage through the tap he had on the wires under the house. The external camera coverage was limited to specific fields of view, which is what allowed him to gain access to the small crawl space under the house. It had taken a lot of trial and error to figure out what wires were for which cameras; but, once he had everything all set up, he only had to hit buttons to change to another camera.
+
+She seemed to be in an awful rush to play with her tablet. The man thought as Elise went back into the house. He hit the button for Lobby First Floor, and saw her stop. She tapped her tablet and walked on, and he changed to the hallway to see her walk into the first living room.
+
+Damn, she's out of sight. The man thought. He didn't know why the inside cameras only showed the hallways and not the rooms themselves, but beggars couldn't be choosers. The house was never empty during the day to place other cameras, and doing it at night would have been just asking for trouble. He followed her progress all the way into the kitchen, and then all the way back to the elevator.
+
+The man slowed his breathing down and didn't make any noise as he waited for the elevator next to him to rise up. He glanced up at the bottom of it when it went up to the second floor and saw the small access panel in the elevator's floor. It made him smile that he had been given a great opportunity to fulfill his contract, but the smile faded as he realized he wasn't going to get the same opportunity again.
+
+They aren't going to leave him alone in the elevator again. The man thought. I never imagined that his skull would have been so hard to crack.
+
+*
+
+Elise went through the entire house, and traced the electronic wires of all the cameras she had found. She hadn't let her relief show when she didn't find a single camera in any of the rooms, and when she went to the third floor, all the wires led her to the den.
+
+It can't be. Elise thought and went inside. Why would one be here? She asked herself and followed the wires to the back of the room. Once there, she looked straight ahead at a bookshelf. There was nothing remarkable about it, and it looked identical to all the others; but, she knew there was something behind it. She read some of the book titles in front of her, and nothing caught her attention. She pulled each one out just in case that old 'pull the book' trope worked and opened a secret passageway.
+
+Elise sighed when nothing happened, and after a moment's pause, a thrill went through her. I'm too tall! She thought and crouched a little. When she read the book titles on the shelf, she stopped at one particular book. No, it can't be this one. Please, don't let it be this one! She carefully slid the book off the shelf and looked at the cover.
+
+Simulacra and Simulation
+
+A Philosophical Treatise by Jean Baudrillard
+
+Elise sighed, because the book was about the examination of the relationship between reality, symbolism, and society; with a focus on the media used in constructing a shared existence. She looked back at the shelf and there was a small red button in the space behind the book. She sighed again and put the book back on the shelf, then pushed it in to hit the button. The bookshelf slid inwards and then to the side to reveal a panic room.
+
+It had a set of bunk beds, dried and canned food storage that would last a long time, and an entertainment center. It also had a bank of television monitors on the wall in front of a desk, and the screens showed the hallway and lobby cameras that she had found. Elise wondered why someone would need such an elaborate setup... and then one of the monitors caught her eye.
+
+It showed the electrical wiring panel in the elevator's maintenance shaft, and she could clearly see someone's shoulder. Elise whipped out her cell phone and dialed 9-1-1. She told the operator the situation, that there was someone inside their house, and that the owner of the house had suffered an accident in the very elevator that the trespassing person was inside of.
+
+*
+
+Ren climbed the rest of the stairs to the top at the end of the cavern. He had Enchanted Eyes and cast both Detect spells on each step, and nothing was there. At the very top, the entire wall glowed.
+
+It's just like the mountain illusion wall that hid the dwarf kingdom's bay from being approached by sea. Ren thought.
+
+“Or the doors into the hold of their ships.” Teepo said.
+
+Will that work? Ren asked.
+
+“There's only one way to find out.” Teepo said.
+
+Ren stepped forward and thought Enter, and the cave wall disappeared. Behind it was a massive cavern that wasn't on the map the All-Seeing Mirror showed him.
+
+I guess I should have asked it to show me all the hidden things, and not just the set of caverns to pass through. Ren thought, slightly amused at his mistake. He stepped forward and the wall reappeared behind him, just like both the door in the hold of a ship when you walked through and the mountain range when a ship passed through. I want to know what spell that is. He thought. I can make the illusion, but I can't make it solid.
+
+“COME FORWARD!” A loud voice boomed out, and Ren winced. The words bounced off the cave walls and he heard it again and again. He didn't move and looked around instead. The room had piles and piles of rocks in it, all along the sides, and in the middle of those piles was a 300 foot tall, elaborately-carved stone throne.
+
+“COME FORWARD!” The voice commanded, and Ren frowned.
+
+“You don't have to yell, you know. I'm standing right here.” Ren said. “Can you use your indoor voice, please?”
+
+“MY INDOOR VOICE?” The booming voice asked. “WHAT IS THAT?”
+
+“Pretend I'm standing right next to you in a crowded room and you need to whisper in my ear.” Ren suggested.
+
+“WHISpering, you say?” The voice said in a more normal tone. “No one has ever asked me to whisper to them before.”
+
+“That's probably because you were yelling at them.” Ren said, and felt a sense of foreboding fill the room. “I meant from their point of view it was yelling.” He explained. “It's very difficult for those of us beneath you to take the full power of your normal voice.”
+
+“Hm.” The voice said. “I suppose you are correct.”
+
+Ren walked forward and several piles of rocks rolled out of his way.
+
+“I don't know if I like this.” Teepo said.
+
+My Etiquette skill hasn't kicked in yet, either. Ren thought. I could be breaking a ton of unspoken rules right now.
+
+When he was about 50 feet in front of the throne, the rocks stopped moving out of the way and he had to stop walking. He looked up at the empty throne, then around the room again.
+
+“Are you the Spirit of Earth?”
+
+“Yes.” The voice said.
+
+“Where are you?” Ren asked, because now that he was here, he wanted to see what they looked like.
+
+“I am here.” The voice said, and Ren looked back at the throne.
+
+“Are you really a spirit?” Ren asked. “I can't see you.”
+
+“Are you blind?” The voice asked, and then the room started to shake. The rocks rolled away from the throne, and then it moved. Ren watched as the arms lifted up, the back shifted a little and then the throne stood up... because it wasn't a throne at all.
+
+It was the Spirit of Earth itself.
+
+“Oh, wow.” Ren said as the 300 foot chair stood up to it's full 500 foot height. “That is so cool!”
+
+The head of the throne turned a little, and then it bent over to look at Ren. “You are unafraid.”
+
+“It's more like I'm way out of my league and being afraid isn't really an option.” Ren said and tried to look up at it. “Can you reduce yourself to a more manageable form? It's hard to have a conversation like this.”
+
+The rocks of all various sizes immediately rolled over to attack him and several tiny ones bounced off his armor. Ren jumped up to get out of the way of the assault, and several rocks as big as him smashed together. He landed on the much bigger pile, and the other rocks tried to roll up and over the others to get at him. When they formed together into rock golems that could easily reach him, Ren took out his hammerpick and changed the Fire enchantment to Antiearth, and lifted it to swing at them.
+
+“STOP.” The voice boomed out. The rock golems stopped their advance, and Ren lowered his hammerpick. “WHY DID YOU INSULT ME?”
+
+“My sincerest apologies.” Ren said and stored the hammerpick, then tried not to wince at the sound of the Spirit of Earth's normal voice. “I did not think it was an insult.”
+
+“YOU ARE A TERRIBLE LIAR.” The voice said.
+
+“I am.” Ren said and took out his Amulet of Interrogation. “That's why I always tell the truth.”
+
+“WHAT IS... you can make such things?” The voice changed back to a whisper.
+
+“Once I knew how.” Ren said. “I've given a few unmodified ones away already; but, this is the first one I've made like this.” He held it out. “Will you accept it?”
+
+The enormous stone throne that wasn't a throne took a step back, bent down, and opened an ornately carved hand. Ren placed the amulet in it, and it disappeared. A moment later, the entire throne room was covered in it's area of effect and the rock of the throne changed as a duplicate of the amulet formed on the Spirit of Earth's chest.
+
+“You can amplify it's effect.” Ren said. “Cool.”
+
+“It is made of a metal that came from me, so I can manipulate it.” The voice said. “Why do you want me to reduce myself?”
+
+“I wanted to see what you look like without your giant rocky covering.” Ren said. “It really is easier to talk to people when they are a lot closer in height.”
+
+“Hm.” The voice said. “Very well.”
+
+The large carved stone hand grabbed Ren, picked him up, and the Spirit of Earth stood up.
+
+“GahHH!” Ren grunted as he was partially crushed under the stone hand's grip and one of his legs was broken. He lost almost three quarters of his Health as the hand lifted him up to be level with the Spirit of Earth's chest, and it opened the hand to make a platform with it's other hand and arms. Ren had collapsed when it let him go, and he stored his armor to examine his injuries.
+
+Broken leg in two spots. Ren thought. Bruises along my right side, sprained elbow, and a twisted ankle.
+
+Ren used a Major Healing wand to start tending to his wounds as the Spirit of Earth's chest rippled like water. A being with translucent skin, exactly 6 feet tall, stepped out of the chest. Ren was about to greet the person when another stepped out, and then another. Ren blinked his eyes as the arms started to ripple like the chest was, and more and more of the beings came out. When the last one stepped out of the giant throne golem, Teepo had told him there were 451 of them.
+
+They were also completely naked.
+
+Ren wasn't sure what to make of it as he kept healing himself. He had never met so many divine beings before, or seen so many naked people. One of them stepped forward, and Ren saw the being was distinctly female. She was similar to the Fire and Water beings he had met; but under her skin, it was grey and white gravel of various sizes grinding together.
+
+“Why are you laying down in my presence?” She asked.
+
+“My apologies.” Ren said, and used the Major Healing wand to fix his broken leg. “My frail body couldn't take your embrace.”
+
+“You are... being polite.”
+
+Ren nodded as he stood up. “I'm not going to complain that you damaged me, when all you did was allow me to see you.” He smiled. “That's not the best way to start a conversation.”
+
+She smiled. “You are a charmer.”
+
+“Only to those predisposed to like me.” Ren said and dropped his head in a slight bow, then knelt on one knee. “It is an honor to meet you, Spirit of Earth.”
+
+“You should feel honored.” One of the others said. “Asking her to dethrone herself to meet you is beyond contemptible.”
+
+“I really did not know it was.” Ren said, and didn't take his eyes from the Spirit of Earth. His Etiquette skill might not be active; but, he wasn't stupid enough to divert his attention from her. “May I ask you a question?”
+
+She nodded.
+
+“Why don't you want me to gather the green meteor ore?”
+
+“You have seen what it can do!” Another one said angrily.
+
+Ren felt the anger spread out through a lot of them, except for the Spirit of Earth. He wasn't sure why.
+
+“In a large enough quantity, it can do untold damage!” The angry one said.
+
+“It does cut through the earth easily.” Ren said. “I thought that was because of what I made with it, though.”
+
+“It can damage any element in the right circumstances.” Yet another one said, much more calmly. “We have been protecting everyone from it's dangers.”
+
+“Then you came along and dug a bunch of it up!” The angry one said.
+
+“I'm not going to lie and apologize for that.” Ren said, and the anger spread to more of them. “I will apologize for disrupting your safeguards, since I never intended to disturb them.”
+
+“Disrupt and disturb? You killed them!” The angry one exclaimed.
+
+“I did.” Ren said. “The last one almost killed me in return.”
+
+“I wish it had!” Another one said. “You wouldn't be here and bothering us!”
+
+“Actually, I would be.” Ren said. “I'm an Adventurer. I'm on the path to learn as much as I can, and gain all the skills that I can.” He smiled. “I already have both Fire and Water affinities maxed. Earth is at 30% already, and with my churches bringing you more and more followers every day...”
+
+“You did that?” The Spirit of Earth asked.
+
+Ren nodded. “I built them so that people could come and worship in both peace and privacy, in accordance to their personal beliefs... or just in a general sense.”
+
+“So, that's why we are getting so many growing requests.” One of them said.
+
+“Most of them have to be from the dwarf kingdom.” Ren said. “There's not a lot of people in my county to make requests yet.”
+
+The feeling of anger from them dropped to just annoyance.
+
+“Is there anything you prefer as offerings?” Ren asked, and the beings looked at each other. “I can get word to the dwarves if there's something you would rather have instead of what you've been getting.”
+
+“You are a wonder.” The Spirit of Earth said. “All offerings are welcome. We won't dictate what we will and won't accept from those that follow Earth.”
+
+That reminded Ren of the time he had dinner with Jhulune's parents and had offered up some Mana during her father's prayer to Mother Earth, and of the other offerings he had made.
+
+“If I may, can I make another offering to you?”
+
+“It's not a piddly amount of Mana, is it?” The angry one said. “That barely let me grow a dozen potatoes!”
+
+“Well, I didn't know what I was doing at the time and could only offer what I had available.” Ren smiled. “Jhulune dragged me to eat with her parents, and I wasn't prepared for that at all.”
+
+Several of the beings laughed, and a bunch of them nodded agreement.
+
+“Then what do you offer?” The Spirit of Earth asked.
+
+Ren had knelt the entire time they talked, so he stood up and he held a hand out to her. “Would 10,000 Mana be a good start?”
+
+A ripple of shock went through the beings that surrounded him, and because he was still within the Amulet of Interrogation's area of effect, they knew he wasn't lying with the offer.
+
+The Spirit of Earth stepped forward. “Yes, that is a good start.”

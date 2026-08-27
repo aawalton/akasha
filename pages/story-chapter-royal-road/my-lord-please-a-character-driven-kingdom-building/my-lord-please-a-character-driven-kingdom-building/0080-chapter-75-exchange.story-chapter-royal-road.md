@@ -1,0 +1,185 @@
+---
+id: c1a74dcf-ed3a-51bf-bff3-4e690577593a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75 Exchange"
+slug: 0080-chapter-75-exchange
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 80
+ownLength: 1949
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3510708/chapter-75-exchange"
+royalRoadId: "3510708"
+---
+
+When Lucien entered the dining hall, the light of the mid-spring morning had already begun to filter through the windows.
+
+Alicia stood at her usual spot near the table, teapot in hand as she poured another cup for Talia. One leg was tucked beneath her as Talia idly traced the rim of her cup, glancing away from the faint disapproval in the maid's eyes.
+
+Sera remained by the window as always. Her pale eyes did not shift toward him when he entered. A piece of bread dangled from her hand as she took small bites from it.
+
+Talia spoke before he had fully crossed the room. “You’re later than usual,” she said lightly, glancing toward him.
+
+Taking a seat, he let out a soft breath. “The meeting with Bran lasted longer than I expected last night, so I decided to sleep in a little."
+
+He ignored the teasing wiggle of Talia's brows as Alicia stepped forward to set a cup of tea before him.
+
+"My Lord. Please make sure you have enough rest."
+
+Lucien gave a small nod as he took a sip from the cup. The longer he went without it, the more he found himself missing that blessed drink.
+
+Talia’s gaze lingered on his cup for a brief moment before a faint curve touched her lips. She looked away soon after when he glanced at her in question.
+
+Leaning back in her chair, Talia stretched her arms above her head before letting them fall. “Well, today’s a big day! Harlon’s finished the last bits so it’s pretty much ready now.”
+
+A faint smile appeared on Alicia’s lips. “The villagers have been looking forward to having a proper shop in Ashridge.”
+
+“Ugh, it would’ve been finished earlier, but that sly fox is particular about the strangest things,” Talia replied.
+
+Lucien took another sip of his tea, hiding the faint twitch at the corner of his mouth. It was mildly amusing to see his junior at a disadvantage for once.
+
+Talia’s eyes flicked toward him, narrowing as she studied him with suspicion.
+
+He met her gaze with a raised brow, offering nothing in return.
+
+She turned away soon after before speaking again. “Lord Lucien, you’ve cleared your schedule today, right? Alicia too! We can't have the most famous couple in the village not attending my opening after all."
+
+Alicia flushed lightly, though it faded soon after as she recovered, shaking her head faintly. “Please don't say such things in public, Lady Talia,” she replied, a hint of soft exasperation in her tone.
+
+It was her way of dealing with the maid’s lectures, deflecting them through teasing, often at his expense as well, much to his chagrin.
+
+Talia let out a soft chuckle, waving a hand lightly. “Come on, you should hear the rumors about me instead.”
+
+“…That is primarily your own fault,” Lucien muttered.
+
+She ignored him, her attention shifting expectantly toward Alicia. It was mildly irritating that she had already taken his attendance as a foregone conclusion. It might be time for another round of flicking soon.
+
+Alicia clasped her hands in front of her. “Of course I will be there. Lord Lucien, you are coming as well, yes?” She looked toward him, a hint of hope in her eyes.
+
+Lucien inclined his head in response, taking another sip from his cup. “Yes, I have cleared my schedule for today,” he said, gesturing lightly toward Talia. “She has been reminding me nearly all week.”
+
+At his words, Alicia lifted a hand to cover her mouth though it failed to hide the smile beneath.
+
+Talia clapped her hands lightly before her eyes flicked toward Sera, who had not moved from her spot. “Sera! How about you?”
+
+At her words, Sera glanced at Alicia first before looking toward him. She gave a firm nod, one hand moving to the crimson case holding her longbow as though already preparing for a hunt.
+
+Talia grinned brightly. “See? Someone has the right idea about being eager!” she exclaimed, giving him a pointed look.
+
+“That is a bold interpretation to draw from,” he replied dryly, as Alicia moved to Sera’s side to offer her another plate.
+
+“You should eat a little more.”
+
+Accepting the plate from the maid, Sera shifted slightly from the window as she tucked the sleeves of her tunic upward.
+
+Talia watched for a brief moment, her chin resting against her palm. “Hmm...You know with summer approaching in a few months...we might have to get you new clothes soon, Sera.”
+
+Sera glanced toward her, tilting her head.
+
+Raising a hand lightly, Talia gestured toward the clothes the hunter typically wore. "Aren't you going to be a little too hot wearing that? It's still the middle of spring so it's fine right now."
+
+Alicia had arranged for the hunter to change out of her travel-worn tunic and trousers long ago but so far, the silent hunter usually stuck to the same outfit nearly every day.
+
+If not for the maid constantly washing it and passing her a fresh set, he suspected she would still be wearing the same clothes she had arrived in.
+
+Sera only tilted her head before returning her attention to the food, drawing an exaggerated breath through Talia's nose.
+
+Breakfast continued with her speaking at length despite Sera's silence, though neither seemed to mind the one-sided conversation.
+
+After their meal, Talia pushed herself upright from the chair. “We should head out soon! If I don’t show up early, Harlon’s going to pretend he’s too busy to deal with me.”
+
+Alicia gave a nod while Sera was already walking toward the door. The three of them had already started toward the door by the time he rose from his seat. The maid lingered by the doorway, waiting for him as usual.
+
+“Come on, Lord Lucien!” Talia’s voice carried faintly from outside the room.
+
+He exhaled softly through his nose. “Where does she get that energy from.”
+
+Without even a hint of caffeine at that.
+
+Lucien heard a soft sound as he stepped closer. Alicia had turned away, a hand lifted to her lips, though it did little to hide the quiet giggle that escaped her.
+
+The doors of the manor opened as Lucien stepped out with the others. Talia had already moved ahead, with Sera trailing behind her while she chattered about the shop and the goods she planned to sell first.
+
+Alicia walked a step behind him to his right as though this were an official visit rather than a trip across the village.
+
+Ashridge was livelier than usual. Even as they left the manor courtyard, he could already see a steady flow of villagers making their way toward the gathering hall.
+
+Some slowed along the nearby paths at their approach, and a few turned toward them, their gazes lingering for a moment before shifting away.
+
+He already knew what they were thinking, and there was no value in dwelling on it now. That matter had long since been decided, and he doubted he could change it.
+
+The path toward the gathering hall from the manor was short. Villagers had gathered in small clusters while others moved past at a slower pace, their attention drawn ahead toward the structure beside the hall.
+
+Talia’s shop stood right beside it, its timber frame still pale from the recent work. The structure followed a simple design that favored function over ornament, reflecting the practical nature of the man who had built it.
+
+A small crowd had already gathered before the entrance, their voices rising and falling with restrained anticipation as they waited.
+
+Talia’s pace quickened as soon as it came into view, her steps carrying her forward with visible eagerness that set her ahead of the group.
+
+Sera slowed when she noticed the crowd. Her head tilted as she studied it before glancing back toward him.
+
+'Did she even know what a shop opening was?'
+
+He reached her side and gestured lightly toward the edge of the gathering. “You don't have to go inside if you would rather stay out here.”
+
+Alicia gave a small nod in agreement, though she remained silent.
+
+Sera’s gaze returned to the crowd. After a moment, she shook her head firmly, though she remained close as they continued forward.
+
+The villagers stepped aside when they noticed them approach, though movement gathered again at the edges. The hoop boy and his group had already formed near the side, watching with open interest. The smallest girl waved the moment she spotted him, and he returned it with a slight dip of his head.
+
+The Cragwatch boy stood near the back beside the rag doll girl, his gaze lingering on Lucien longer than the shop itself.
+
+The boy with the wooden sword lifted it high and declared loudly that he would defend the new Ashridge shop.
+
+Lucien’s gaze moved past the crowd toward a familiar figure near the entrance of the building, where Talia was already speaking to him.
+
+Harlon didn't turn toward her, one hand resting against a beam while his attention remained fixed on the structure, his gaze tracing upward along the frame before lowering again.
+
+After a moment, he gave a small nod and stepped back to view it from another angle, drawing a loud exhale from Talia.
+
+Lucien noticed the faint twitch at the corner of the carpenter’s mouth and wondered if the older man was doing it on purpose.
+
+As he drew closer, Talia’s voice reached him first.
+
+“I’m telling you, it’s done. You’re just finding things to fix at this point.”
+
+Harlon's hand pressed once more against the beam before he stepped back, his eyes moving along the frame. Then, he noticed Lucien. “Lord,” he said, giving a short nod.
+
+Talia’s head snapped toward him at once. “Oh? So Lord Lucien gets a greeting?”
+
+Harlon huffed, his gaze once more on the structure. “He's a noble.”
+
+“And I am the customer,” she shot back lightly.
+
+“You paid for it to hold, and with it set beside the hall, it has to be done properly,” he replied plainly, his eyes still on the frame.
+
+Talia scratched her hair lightly at that, her lips pressing together as she searched for a response.
+
+“You know, most people would just say ‘it’s done’ and move on as soon as the customer's satisfied!”
+
+“Then they build it wrong.” he replied dryly.
+
+Before she could continue, Harlon gave a rough nod. “It’s done. I checked the furnishings inside as well.” He stepped aside at last, leaving the entrance clear as the gathered villagers began to stir.
+
+Talia’s expression shifted at once, her earlier frustration gone in a flash as she turned toward the crowd with renewed energy. “Alright, that’s enough waiting!” she said, clapping her hands lightly. “It's finally time to open it properly.”
+
+The murmur rose at once as the first few stepped forward.
+
+Lucien’s gaze followed the passage of the crowd, noting the anticipation that lingered beneath a layer of hesitation.
+
+He spotted Joren off to the side with Bran, the two speaking in low voices as they glanced toward the shop, their attention lingering on the shop in a way that suggested professional interest rather than mere curiosity.
+
+Alicia remained close at his side, her eyes slowly moving between the villagers and the shop, while Sera lingered just behind them, looking around the crowd with curiosity.
+
+Then, from the edge of the crowd, a voice called out.
+
+“Delivery!”
+
+The word carried just enough to cut through the noise.
+
+Lucien turned to see a man with a small cart, its contents covered, though a faint scent reached him as the cart jostled, familiar enough to give him pause.
+
+Talia froze for the briefest moment.
+
+Then her lips curved.

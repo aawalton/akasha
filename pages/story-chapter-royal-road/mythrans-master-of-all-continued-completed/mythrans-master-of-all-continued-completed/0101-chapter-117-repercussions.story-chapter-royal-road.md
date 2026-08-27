@@ -1,0 +1,475 @@
+---
+id: b16ed756-000f-5403-aa3c-cdcd802fde18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117 - Repercussions"
+slug: 0101-chapter-117-repercussions
+partOf: mythrans-master-of-all-continued-completed
+position: 101
+ownLength: 3743
+unit: words
+publishedAt: 2016-12-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107998/chapter-117-repercussions"
+royalRoadId: "107998"
+---
+
+Ren opened his eyes and groaned. “Ugh... I wonder if this is what a hangover feels like.”
+
+Notice!
+
+Time until full recovery from over-exertion: 2 hours 20 Min (Game Time) or 35 Min (Real Time).
+
+“REN!” Teepo and Nathalia hollered together, and Nathalia leaned over the bed with Teepo on her shoulder.
+
+“Hi.” Ren said and smiled, then noticed he was under a heavy blanket.
+
+“You're okay!” Nathalia said.
+
+“Of course I am.” Ren said. “Why wouldn't I be?”
+
+“Don't... don't you remember what happened?” Nathalia asked, concerned.
+
+Ren closed his eyes and thought back to what happened. “I carried Dorcot's house to the new lot... then I felt really tired, and fell asleep.”
+
+“You didn't fall asleep, Ren.” Nathalia said and sighed. “You collapsed in the middle of the road.”
+
+“I did?” Ren opened his eyes and looked around. “How did I get to the bedroom?”
+
+“We carried you, of course.” Dorcot stepped into the bedroom after hearing Nathalia's shout. “How are you feeling?”
+
+“Exhausted.” Ren said and rubbed his eyes. “It feels like I didn't sleep at all.”
+
+Everyone piled into the room to gather around the bed. Narhilda put a hand on his forehead and smiled.
+
+“We didn't know what to do.” Nathalia said and sat on the bed. “I used up my healing right away, then had you carried back to the house.” She sighed. “If I hadn't thought of Ruck... and had him feed me Mana potions to keep healing you... I don't know if you'd have made it long enough for the healer to get here.”
+
+Ruck popped his head up over the edge of the bed and pat Ren's arm.
+
+“Hi, Ruck.” Ren said. “Thanks for helping Nathalia.”
+
+Ruck gave a 'thumbs up' gesture.
+
+“Hold on...” Ren said. “Long enough for the healer? How long was I out?”
+
+“You collapsed a little while after breakfast...” Nathalia said. “...yesterday. It's just after suppertime today.”
+
+“Almost 2 days?” Ren tried to move under the blanket and Nathalia held him down, Narhilda put a hand on his shoulder to help.
+
+“Where do you think you're going?” Narhilda asked.
+
+“I've got work to do.” Ren said.
+
+“No, you don't.” Nathalia said. “The only thing you have to do right now, is rest.”
+
+“But...”
+
+Nathalia stood and glared at him. “Don't make me order you, Ren.”
+
+Notice!
+
+Time until full recovery from over-exertion: 2 hours (Game Time) or 30 Min (Real Time).
+
+Ren let a crooked smile cross his face. “I'm tempted to see what would happen if you did order me.” He said, then grinned at Nathalia's surprised expression. “I'm not going to defy you, though.” Ren yawned, sank back into the bed, and closed his eyes. “I love you... too much... to make you mad.” He said in a low voice, then started to snore. Everyone had shocked looks on their faces, then Nathalia recovered and leaned in to give Ren a kiss.
+
+“I love you, too.”
+
+********
+
+Lucy woke up with the worst hangover she's ever had. She rubbed her eyes, felt a stinging sensation, and then looked at her hands. They were covered in makeup; base, eyeliner, and mascara.
+
+“Ugh... I didn't even wash my face.” She said and threw off the covers. She stood up next to the bed, and when her bare feet hit the cold wood of the floor, she froze. Her bedroom was supposed to have carpet on the floor. She looked down to see dark hardwood flooring, and noticed that she still wore her party dress. It was in disheveled state, and partially turned to the side.
+
+“Oh, god.” She said and adjusted it to face forwards again, and jumped when there was a knock on the bedroom door.
+
+“OW!” Lucy grabbed the sides of her head and closed her eyes.
+
+“Ah reckon yer up.” Clint said and opened the door. He only wore a pair of jeans, and had a small towel over his shoulder. He carried a tray in his hands, with toast, eggs, orange juice, and a tall glass full of a red liquid. “Howarya feelin'?”
+
+“Horrible.” She said, then stared at Clint. “Oh my GOD!” Lucy sat down on the bed and started to cry. Clint put the tray down and came over to her.
+
+“Hey!” He said as he sat, and she pulled away from him. “Lucy.”
+
+She looked at him with tears in her eyes.
+
+“Nothin' happened.” Clint said and smiled. “Ah'm not tha' kinda guy.”
+
+Lucy checked to see that she still wore her underwear, and sighed in relief. “Then... how did I...”
+
+“We were at tha bar, an dancin'.” He said. “Bes' time ah've had in a while.” Clint smiled. “Yer tha bes' comp'ny. Afta a few songs, though... ya asked ta leave.”
+
+Lucy stared at him as he spoke.
+
+“Ah got ya in my truck easy 'nough... but when ah drove outta the parkin' lot, ah asked ya where ta go... an saw ya was out like ah light.”
+
+“Oh my god.” Lucy covered her face with her hands.
+
+“Ah reckon ya hadn' been out in a while, an hit th' bottle a little hard.” Clint said. “Tis a good thing it were me tha ya met...”
+
+Lucy groaned.
+
+“Ah got ya up tha elevator easy, an tucked ya inta bed.”
+
+Lucy dropped her hands from her face and whipped her head around to look at the bed.
+
+“Ah slept ontha couch.” Clint chuckled. “Ah toldja ah wasn' tha kinda guy.”
+
+Lucy turned back to look at Clint. “Clint... I...”
+
+“Hey, it's awlrigh'.” He said and smiled. “Ah was jus' lookin' out fer a friend.”
+
+Lucy sighed. “Thank you.”
+
+“Wan' some breakfast?” Clint said and got the tray.
+
+“What's that?” Lucy asked and pointed to the tall glass of red liquid.
+
+“This here is ma grandpappy's secret recipe fer hangovers.” Clint said and smiled. “Tamato juice, tabasco sauce, worchestershire sauce, raw egg-”
+
+Lucy's face turned green and she put a hand over her mouth. “Bathroom!”
+
+Clint pointed and Lucy ran. She threw up several times, and flushed the toilet afterwards.
+
+“Sorry, Lucy.” Clint said. “Ah shouldn't ah offered ya tha ingredients like tha'.”
+
+“It... it's okay.” Lucy said as she came out of the bathroom. “I think I needed to get that up anyways.”
+
+Clint smiled and held out the tray. Lucy turned a little green, shook her head, then looked around for her coat and purse.
+
+“Whatcha lookin' fer?” Clint asked.
+
+“My coat and purse.”
+
+“Ya didn' have 'em when we left.”
+
+Lucy's eyes widened as she realized where they were. “Oh, crap.” She said. “Clint, can I use your phone?”
+
+*
+
+Stella hadn't sleep well. She got up and had a bowl of cereal, just to get something in her stomach.
+
+“Blah.” She said as she swallowed the milk. “That's not going to sit well.” She went to the sink and held her hand over the cereal and dumped the milk. She sat back down at her breakfast nook and continued to eat. Several minutes later, her cell phone vibrated and she picked it up.
+
+“Speak.”
+
+“Stella? It's Lucy.”
+
+“Well, well! Good morning, Slutbunny!”
+
+Lucy groaned and Stella grinned. It took her all night to come up with the proper response for when Lucy called.
+
+“Stella, it's not like that.”
+
+“Uh huh.” Stella said. “I've got your purse and coat here, and I assume your house keys.” She said. “You couldn't go home, and you're calling me from a different number. What's it not like?”
+
+Lucy sighed. “I didn't sleep with him, okay? It didn't happen.”
+
+Stella laughed. “Like that matters.”
+
+“W-what do you mean?”
+
+“You wanted it to.”
+
+“No I didn't!”
+
+“Really?” Stella asked. “You went out to a bar, danced with every guy in the place, got drunk, and then you went home with a guy.” She sighed. “You obviously wanted something to happen.”
+
+Lucy was quiet on the phone.
+
+“Look, I'm not judging you.” Stella said, then chuckled. “Okay, I am; but I don't have any right to tell you how you live your life.” She said. “I tried my best to help you last night, and you gave me the slip. I assume it was on purpose, because you left your cell phone.” Stella sighed. “I was so mad when I tried to call you and your purse rang.”
+
+“Stella, I-”
+
+“Let me finish.” Stella said. “Something really bad could have happened to you after you left... and there would have been no way to find you.” Stella sighed. “I wouldn't even know where to start looking.”
+
+“I told you his name...”
+
+“Really? His NAME?” Stella laughed. “How would I know if it was real or not? It was dark, too. I couldn't describe him in the least.”
+
+“But...”
+
+“I've said what I wanted to say, Lucy. I won't lecture you anymore.” Stella said. “You can come by and pick up your things.” She looked at the clock. “I've got to be at the hospital in an hour, though. So anytime within the next 45 minutes would be good.”
+
+“Okay.” Lucy said.
+
+“Bye, Lucy.”
+
+“Bye.”
+
+*
+
+15 minutes later, Lucy knocked on the front door of Stella's house. Stella answered, already dressed for work. She looked over Lucy's shoulder at the big pickup truck that idled at the side of the street.
+
+“Don't say it.” Lucy said.
+
+Stella looked at her and smiled. “Lucy, I told you I was done lecturing you.” She said and handed her the purse and coat she'd come for. Stella put on her own coat and then her shoes.
+
+“Do you want a lift?” Lucy asked.
+
+“No, thanks.” Stella grinned. “I've had my share of awkward silences this week. I'm going to walk.”
+
+“Oh, okay.” Lucy said. “Thanks, Stella.”
+
+“For what?
+
+“Not saying 'I told you so'.”
+
+“Lucy...” Stella sighed. “...if you can't tell the difference between good natured carrying on, and comments about caring about what happens to you...” Stella locked her door and walked towards the road. “...then you don't know me very well.”
+
+Lucy stood in silence and watched as Stella walk down the road. Clint hit the horn and Lucy walked to the truck. She opened the door and climbed in.
+
+“Take me home, Clint.”
+
+“Whateva ya say, darlin'.”
+
+Lucy looked at him sharply. “I'm not your 'darling'.”
+
+“Sorry.” Clint chuckled. “It's jus' a sayin'. Ah didn' mean nothin' by it.”
+
+“Then why say it?” Lucy asked.
+
+Clint didn't have a good answer for her, so he pulled away from the curb to take her home. Lucy turned her head to face out the passenger window.
+
+Stella was right. Lucy thought. This is an awkward silence.
+
+********
+
+Ren woke up with the familiar feeling of Nathalia draped over him, only this time they were under a blanket.
+
+Notice!
+
+Time until full recovery from over-exertion: 15 minutes (Game Time) or 3 Min 45 Sec (Real Time).
+
+He moved his hand along her hip, but didn't feel the dress she usually wore. He took in a deep breath and Nathalia stirred.
+
+“Hi.” She said and looked at him.
+
+“Hi, beautiful.” Ren said and kissed her lightly. Teepo skittered across the ceiling and Ren looked up at him. Hi, Teepo. Ren thought. Thanks for always watching out for me.
+
+“Anytime, Ren.” Teepo said. “I just wish I could do more.”
+
+What you do already isn't enough? Ren thought and smiled.
+
+“How are you feeling?” Nathalia asked.
+
+“I'll be fine; but, I think you should ask me what I'm not feeling.” Ren said and grinned. “I'm not feeling your dress.”
+
+Nathalia blushed a little and ducked her head. “It was kind of hot with the dress on under the blanket, so I'm just in my slip.”
+
+Ren slid his hand along her hip, then hooked his thumb under the top edge of her underwear, and she froze.
+
+“I'm not feeling the slip, either.”
+
+Nathalia tried to move around, but the blanket was restricting her movement too much. She sat up and the blanket fell away. Her slip had ridden up above her waist and was tangled underneath her chest. Nathalia looked down at herself, and blushed as she grabbed the end of it to try and pull it down to cover herself. Ren reached out a hand to stop her.
+
+“Nathalia, it's okay.”
+
+“But... Ren, I didn't mean to...”
+
+“You don't have to be embarrassed.” Ren grinned. “Why don't I just make us even?”
+
+“W-what?”
+
+Ren stored the Dire Wolf Hooded Cloak and his set of Traveller's Clothes into inventory, leaving him in only a pair of Spider Silk Cloth underwear.
+
+“There.” He said. “Now we're both only wearing underclothes.”
+
+Nathalia stared at Ren's muscular body, and visibly shook. He took her hand and pulled her back down to his chest, then covered them both in the blanket, up to their necks.
+
+“I still need to rest for a little while longer, then I have some Adventurer's business to take care of.” Ren said as Nathalia held onto his chest. He half-hugged her and rested his hand on her hip, and she snuggled down under the blanket and shivered.
+
+“Are you a little cold now?” Ren asked.
+
+Nathalia shook her head. “I'm not cold... I just... I'm happy that I get to hold you this close.”
+
+Ren smiled. “I know the feeling.” He said as Little Ren started to make an appearance.
+
+She looked at him. “You do?”
+
+“Nathalia... if you hadn't noticed, whenever I hold you close, we get... ah... a visitor.” Ren glanced down at himself and the bulge in the blanket. “Every time we touch, I've been trying my best to not cover you from head to toe in kisses.”
+
+Her eyes widened at his confession, and then she smiled. “Me, too.” She said, then looked down at him herself. As she was under the blanket, Nathalia had a much better view of what was happening. Since Ren was only wearing a thin pair of underwear, she got a really good view. She shivered again and Ren saw where her face was pointed.
+
+“Nathalia, my face is up here.”
+
+“W-w-what?” She said and turned to him.
+
+“I hope you don't want me just for that.” Ren said.
+
+“Oh, Ren.” Nathalia said and kissed him. “I love you, and it's a part of you.” She said and blushed a little. “Can you blame me if I want to see all of you?”
+
+“I love you, too...” Ren said and smiled. “...and I can't blame you, because I want to see all of you, too.”
+
+Nathalia blushed and Ren kissed her. She moved a hand to cup the side of his face and Ren did the same to her. They stayed that way for several minutes, and then Ren got another popup.
+
+Notice!
+
+Recovery complete!
+
+Ren broke the kiss and sighed. “Now I have Adventurer's business to take care of.”
+
+Nathalia wiggled her body back and forth a little and Ren laughed.
+
+“You really should get some sleep.” Ren said and pulled away slightly. “I'll be back as soon as I can.”
+
+“All right.” She sighed and pulled away herself. “I'll be here.”
+
+“By the gods, I hope so.” Ren said to her surprised face.
+
+“Logout.”
+
+********
+
+Ren started to take off the VR headset and Barbara took it off the rest of the way.
+
+“Hi, Barbara!” Ren said.
+
+“Hey, there.” Barbara said. “You're okay.”
+
+Ren chuckled. “Yeah, I just over-exerted myself.”
+
+“Ren! You picked up a HOUSE!”
+
+Ren laughed. “Yeah, I know it was stupid... now.”
+
+Barbara snorted a laugh. “You know it now?” She shook her head. “What were you thinking?”
+
+“It doesn't matter.” Ren shook his head. “I'm never doing that again.”
+
+“Good.” Barbara put a hand on his arm. “You had me so worried.”
+
+“Sorry, Barbara.” Ren said. “If I'd known...”
+
+“Well, you do now.” She said and smiled. “At least you got some much needed rest.”
+
+Ren chuckled. “If only that were true.”
+
+“What do you mean?”
+
+“It was like I closed my eyes one second, and then the next, it was almost 2 days later.”
+
+Barbara sighed. “I hate it when that happens.”
+
+“You, too?”
+
+She nodded. “You're asleep, but don't sleep at all. Your brain just shuts off, and then it's on again.”
+
+“That's it, exactly.” Ren said. “There was nothing in between, despite how long I was asleep.”
+
+“You're still exhausted, arent you?” Barbara asked.
+
+Ren nodded, and then yawned. “I do need the bathroom, though.” He said and slid out of bed. Barbara pulled the rollaway table out of the way, just in time for Ren to miss it with his sore elbow.
+
+“Watch that elbow, mister.” Barbara said.
+
+Ren yawned again. “Sorry.” He said and walked into the bathroom.
+
+“Not as sorry as you'll be if you bang it.” Barbara said. “I bet it's pretty sore already.”
+
+Ren did his business quickly and washed his hands. “I don't really notice it anymore.” He said and climbed into bed with a little bit of difficulty, then yawned when he laid back on the pillow.
+
+“Don't worry.” Barbara said. “You'll defintely wake up in therapy.”
+
+Ren groaned. “Can I skip it today?” Ren asked. “I swear I'll sleep when I log back in.”
+
+Barbara laughed. “Sure you will. I saw what was going on before you logged off.”
+
+Ren's face flushed a little red, and she put a hand on his arm.
+
+“You really do need to rest for a while, just like she said.”
+
+“But... the game said I was fully recovered.” Ren said. “You saw the popup, didn't you?”
+
+Barbara smiled. “You're physically recovered, yes... but mentally?”
+
+Ren yawned again and Barbara chuckled.
+
+“I'll talk to the doctor.”
+
+“Thanks, Barbara.” Ren said and settled in the bed. “You're the best.”
+
+*
+
+Stella got in to work just on time and made it to the breakroom without having to talk to anyone. She took off her coat and changed her shoes, and adjusted her uniform to make sure it was straight. She looked in the little mirror above the sink in the tiny bathroom and smiled.
+
+Even though you were out late last night, you're still gorgeous! Stella thought and laughed at herself. Time to work! She assembled a nice breakfast of eggs and toast, then slipped in 2 pieces of bacon. He just loves bacon, for some reason.
+
+*
+
+Ren watched television and dozed a little bit. He tried hard to not go to sleep, since breakfast would be served soon. Bonnie tried too hard sometimes; but Ren couldn't convince her that he was happy with something simple, like cereal and juice. The room to Ren's door opened and Stella walked in with a tray. The room was filled with a delicious smell and Ren sat up in bed.
+
+“Stella!” Ren exclaimed. “What are you doing here?” He took in a deep breath through his nose. “And is that what I think it is?”
+
+Stella laughed. “Good morning to you, too.” She said. “Hi, Barbara.”
+
+“Hi, Stella.” Barbara said and stood up. “Switched shifts with Bonnie?”
+
+Stella nodded and put the tray on the rollaway table. “Thanks for sticking around until I made breakfast.”
+
+“Oh, that's no trouble.” Barbara said. “I'll spend as much time with Ren as he needs.”
+
+“Fangs, boof of vou.” Ren said as he chewed on a piece of bacon and had half of a piece of toast sticking out of his mouth. Barbara and Stella looked at him and laughed.
+
+“Take it easy there, you glutton.” Barbara said. “We're not going to steal it on you.”
+
+Ren finished chewing and swallowed. “Are you sure? This is good stuff!” He said and bit off another piece of bacon.
+
+“You were supposed to save that for last.” Stella said.
+
+“No evidence must be left!” Ren said, shoved the rest of it in his mouth, and kept chewing.
+
+“And on that high note, I'm off.” Barbara said.
+
+“Bye, Barbara. See you tonight.” Ren said as he used a fork to cut off a piece of egg.
+
+“Bye, Ren.” She said and Stella walked to the door with Barbara. They stood there for several minutes as they exchanged information. Barbara's eyes widened and shook her head, nodded and left the room. Stella walked over to the bed and waited for Ren to finish eating, and took the tray.
+
+“I'll be back in a bit.” Stella said.
+
+“That was delicious, Stella.” Ren said and smiled. “Thank you.”
+
+“Did you even taste it?” She asked, and laughed as she left the room. Stella went to the breakroom and Barbara was there, sitting at the table.
+
+“I can't believe Lucy would do that.” Barbara said.
+
+“You and me both.” Stella said and put the dirty dishes in the sink and the tray back on the counter. Barbara put a hand on her arm when she sat down. “Did she tell you any details?”
+
+Stella shook her head. “No, and I didn't ask.” She said. “I can't believe how stupid...”
+
+Barbara pat her arm and pulled her hand back. “She hasn't been thinking straight for a while.”
+
+Stella sighed. “I know.”
+
+“Do you think...” Barbara said.
+
+“No.” Stella shook her head. “Lucy needs to work things out for herself. All we can do is offer advice when we can, and hope for the best.”
+
+Barbara nodded and stood. “I need to tell Doctor Hobbard that Ren is skipping therapy today. He's exhausted.”
+
+“I thought he slept all night?” Stella asked.
+
+“He did, but it was an empty sleep. Brain off, brain on.”
+
+“Oh, I hate it when that happens.” Stella said. “What a waste of time! Why go to sleep at all?”
+
+“Right.” Barbara smiled. “That's something else we share.” She said. “See you tonight.”
+
+“Bye, Barbara.” Stella said and stood. Barbara stopped and turned around.
+
+“Stella, don't tell Ren about this. He... doesn't need to know.”
+
+Stella nodded. “He doesn't even ask about Lucy, so don't worry about it.”
+
+Barbara nodded and waved as she left. Stella left the dishes in the sink and went back to Ren's room.
+
+Now that his belly was full of good food, Ren was quite happy. He watched television mindlessly, thinking about what he had to do in the game. Stella came back into the room and shut the door.
+
+“How are you feeling?” She asked.
+
+“Tired.”
+
+Stella smiled. “I hear you're getting out of doing therapy today.”
+
+Ren smiled. “I promised to catch up on sleep when I log back in.”
+
+“You lucky dog.”
+
+“I know!”

@@ -1,0 +1,377 @@
+---
+id: 0f7cc54c-599e-54a6-a4c8-6f84e34009b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 162 - To The Village"
+slug: 0148-chapter-162-to-the-village
+partOf: mythrans-master-of-all-continued-completed
+position: 148
+ownLength: 2994
+unit: words
+publishedAt: 2017-02-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117247/chapter-162-to-the-village"
+royalRoadId: "117247"
+---
+
+After about an hour of driving the horse a little hard, Ren stopped the cart to give the horse a rest.
+
+“Why are we stopping?” Elerlyth asked. “Aren't we almost there?”
+
+“We're almost to the edge of the County, but the village is on the other side of it; right on the border to the next Principality.”
+
+“You're kidding.”
+
+“No.” Ren said. “Whoever had the bright idea to build it right along the edge, and spread out to boot, was an idiot.”
+
+“It could have been randomly generated.” Elerlyth said.
+
+Ren chuckled. “Then the algorithm used is completely flawed. The village is made in three rows, a quarter of a mile long. There's no wall surrounding it. There's no river nearby... and the villagers have to travel a mile to get to the farmland they need to use, just to feed themselves.”
+
+“Okay, even I have to admit that's pretty stupid.” She said and smiled.
+
+“Oh, it gets better.” Ren said. “There's a population of 796 people, and 646 of that is in the village. The other 150 is spread out over the 50 square miles.”
+
+“Wow.”
+
+“I'm not done.” He said. “There's 2300 chickens, 1100 cows, and 300 pigs.”
+
+“No way!” Elerlyth said. “How do they feed them all?”
+
+“They don't.” Ren said. “There's also 13 butchers, and... get this... 61 bakers.”
+
+Elerlyth's eyes widened. “Chicken Pot Pie.”
+
+Ren laughed again. “That's my guess from the numbers of production.” He said. “The fields grow wheat; half to make dough and half to feed the chickens. Keep three quarters of the chickens for eggs; use half of those eggs to eat and grow the other half, then chop up the chickens that are left.”
+
+“Good god.” She said. “They must be sick of eating chicken!”
+
+“Assuming they don't change how they cook it, yeah.” Ren said, then looked at the horse. “Okay, I think we can head out now.”
+
+They went to the cart and climbed in.
+
+“Why don't you drive.” Ren said. “I want to check my stats.”
+
+Elerlyth nodded and took the reins.
+
+“Show Status.” Ren said, and looked at the popup.
+
+Status
+
+Name  Ren  Level  29
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  355,590 (Lord)  Honor  42,825 (Prominent)
+
+Titles
+
+Blacksmith  Grants 5 level bonus to Blacksmithing Skills
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Health  1026  Mana  1197
+
+Strength  169  Dexterity  97
+
+Vitality  103  Agility  93
+
+Endurance  101  Intelligence  133
+
+Luck  34  Wisdom  133
+
+“I got 2 new titles. 'Hero of Aurora' and 'Lord'. They give me +5 and +10 levels to my Aura.” He said. “It's out to 90 feet, now... without combining it with anything. ”
+
+“That's pretty far.” Elerlyth said. “Mine's still only 10 feet, and it's nearly at Expert.” She frowned. “Check the info on your Auras.”
+
+Ren nodded. “Show info for Auras.”
+
+Aura Info
+
+Main Skill:
+
+Aura (Dire Wolf Hooded Cloak) Level 3 (Expert 52%)  Menacing feeling, small creatures flee. Current distance: 40 foot radius
+
+Aura (Personal) (Master)  Your presence is such as those near you will be in awe of you and your accomplishments. Current distance: 50 foot radius
+
+Sub Skills:
+
+Camaraderie Level 4 (Expert 51%)  Allows mutual trust and friendship to easily build among people who spend a lot of time together. Higher levels will allow a larger Camaraderie Radius, and grants XP bonuses when fighting in a group of 2 or more. Current distance: 40 foot radius
+
+Command Level 9 (Advanced 60%)  Allows you to lead a group and issue orders. Higher levels will allow a larger Command radius, and generate loyalty from those under your command. Current distance: 25 foot radius
+
+Fear Level 1 (Expert 21%)  Causes Fear instead of Awe in those around you. Current distance: 40 foot radius
+
+Hatred Level 8 (Advanced 20%)  Grants Temporary stat modifiers - Level 10: Strength +15, Endurance +15, Dexterity +15, Agility +15, Intelligence -20, Wisdom -20
+
+House Neram Level 6 (Advanced 88%)  People recognize you as a member of House Neram. Current distance: 25 foot radius
+
+Spider Level 7 (Intermediate 80%)  Special: Only usable with another Spider Aura to create an emotional link. Current distance: 15 foot radius
+
+“Well, that explains a lot.” Ren said. “My personal Aura is now at the Master Level with 50 feet, and my cloak is at Expert at 40 feet.”
+
+Elerlyth shook her head. “Damn, I wonder if there's something wrong with mine?”
+
+“I doubt it.” Ren chuckled. “I'm a special one-of-a-kind class, remember? I'm probably the odd one here.”
+
+Elerlyth smiled. “That's probably true.” She said. “It's not like we have anyone else we can compare ourselves to.”
+
+Ren looked at her. “You're the only one of your kind?”
+
+She nodded. “So far. I haven't seen, or heard, of anyone else that chose this race.”
+
+“I haven't seen any other player crafters, either.” Ren said.
+
+“We're quite the pair.” Elerlyth said.
+
+“Ain't that the truth.” Ren said. “An elfling Lord and a dark elf emotion siphon.” He grinned. “We should be trying to kill each other, not sleeping together.”
+
+Elerlyth laughed. “I did try to kill you, remember? First with the venom, and then the duel.”
+
+Ren laughed. “The first was a mistake, the second was pretty funny.”
+
+“Oh? You thought it was funny?”
+
+He nodded. “The look on your face when I conceded was priceless.”
+
+She snorted a laugh. “It wasn't priceless. You gave me 25 platinum afterwards.”
+
+Ren waved that away. “I can give you more if you want it.”
+
+She shook her head. “I still have 20 platinum left, and I've been spending it left and right.”
+
+He grinned. “I'm glad.”
+
+“Why's that?” She asked, curious.
+
+“You know my philosophy. You should be working for fun, not playing to work.”
+
+“It sounds good in theory, but if you remove the economy from the game, what's the reason to play?”
+
+Ren smiled. “That's the fun part. If there's no money, what would you do with all the time you'd be spending working?”
+
+She opened her mouth, then closed it.
+
+“What have you been doing, now that you don't have to guard the warehouse?” Ren asked.
+
+“I've been going on adventures.” She said, then glanced at him. “For the loot drops to see what I can find.”
+
+“There you go.” He grinned. “You're not worrying about the money, you want to find something nice or unique.”
+
+Elerlyth nodded and concentrated on the road. “It seems like I just did this.”
+
+Ren looked at her. “What? Driving the cart?”
+
+“Yeah, and down this road, too.” She said, then clamped her mouth shut.
+
+“Aha!” Ren exclaimed. “I've found your hideout!”
+
+Elerlyth sighed and pulled the horse to a stop. “Okay. Okay!” She said. “My cottage is about a mile or so into the woods there.” She pointed into the trees.
+
+“Why did you stop the cart?” Ren asked.
+
+“Don't... don't you want to see it?”
+
+“Of course I do.” He said. “I don't want to intrude on your personal space, though.”
+
+Elerlyth looked at him with raised eyebrows, and he put a hand on her arm.
+
+“That's your space.” Ren said and smiled. “I don't need to share your feelings to know that it's the space you go to when you want to relax, or to leave all of this behind and forget about everything for a while.”
+
+Elerlyth felt his sincerity. “Thank you.”
+
+Ren chuckled. “It's for the best anyways.”
+
+“Why's that?”
+
+“Well, I'd probably be so overcome with happiness that I was in your private space, that I'd want to christen the bed with you, despite it probably being inadequate for the task.” Ren said, and waggled his eyebrows.
+
+“Yes, my little bed definitely would not survive an encounter with you.” Elerlyth snorted a laugh. “Not to mention we wouldn't have the time to spare, either.” She flicked the reins and the horse started to trot down the road.
+
+“It's not my fault that I lose track of time when we're together.” Ren said. “No, wait. Yes, it is.” He grinned. “I honestly don't care what time it is, and don't stop until Teepo reminds me of the time.”
+
+Elerlyth laughed. “You really could just keep going, and not stop?”
+
+“If I didn't have to take breaks to eat and sleep, yeah.” Ren nodded. “Your body is a wonderland.”
+
+She turned to him and stared.
+
+“I know I'm irresistible; but keep your eyes on the road, please.” He chuckled, and she faced forward again.
+
+“You really believe that.” Elerlyth said, in wonder.
+
+“Of course I do.” Ren said. “Have you seen yourself naked?”
+
+She nodded and he smiled.
+
+“Good lord, woman! My hands ache when we're together, because I can't hold onto you for as long as I'd like to.”
+
+Elerlyth's face flushed a little darker, and Ren smiled.
+
+“It's a good thing I like you so much.”
+
+She glanced at him, and he smiled wickedly.
+
+“You owe me for several months in back taxes.”
+
+“I WHAT?!?”
+
+“It's on my land.” Ren laughed. “You didn't think the system kept track of that stuff, did you?”
+
+“Ren.” Elerlyth said. “It's a secret hideout. No one is supposed to even know about it.” She sighed. “Why would I go and pay taxes on it?”
+
+“It's okay. You don't have to worry about it.” Ren smiled. “I know the owner. He's pretty generous when it comes to things like that.”
+
+Elerlyth laughed and shook her head. “You're going to pay it for me, aren't you?”
+
+“Did you really have to ask that?”
+
+She shook her head again and kept driving. They drove for another 10 minutes, and Ren told her to slow down.
+
+“We're coming up on the farmland.” Ren said. “It's just past these trees.”
+
+They came out of the trees and they were greeted by fields upon fields of wheat, for as far as their eyes could see.
+
+“Wow.” Elerlyth said. “That's a lot of wheat.”
+
+“Yeah.” He said. “I wonder how they harvest it?”
+
+“No idea.” She said. “I'm not a farm girl.”
+
+“Urban all the way, huh?” Ren asked.
+
+“Damn right.” Elerlyth said. “Places like these are nice to visit, but I wouldn't want to live here.”
+
+“It would be a simpler life.” He commented.
+
+“Boring you mean.” She responded, and he chuckled. They looked at all the fields as they passed by, and didn't speak again until they came to the outskirts of Goagan village.
+
+Teepo, you're up. Ren thought, and Teepo took off down the road to examine the village.
+
+“That's so neat.” Elerlyth said. “It's like a little piece of you just flew away.”
+
+“Having a scout is great!” Ren said. “Teepo has helped me out of a few sticky spots.”
+
+“He's definitely got your back.” She said.
+
+Ren nodded. “I don't know what I would do without his constant help.”
+
+“Probably the same thing everyone else does. Stick your nose into places you shouldn't go.”
+
+“I don't doubt that.” He laughed. “Even with Teepo's help, it still happens.”
+
+“From what I can see, everything is clear, Ren.” Teepo said. “There's a few villagers around, but there doesn't seem to be a lot of activity.”
+
+Thanks, buddy. We're coming in now.
+
+“Teepo says it's clear as far as he can see.”
+
+Elerlyth flicked the reins and the horse trotted into the village. Two minutes later, they were at the other side of the village, and standing at the border to the next Principality.
+
+“That is the oddest thing I have ever seen.” Elerlyth said.
+
+“Me, too.” Ren said. “Now I know why the village stops right here.” He stared up the 200 foot cliff. There were no roads, stairs, ropes, or even anywhere to climb; as the surface was completely sheer and free of any blemish whatsoever.
+
+“This... changes what I had in mind.” Ren said and looked to the left for a minute, then to the right for another minute. Teepo? I can't tell if the cliff tapers off. Can you use your Spot ability?
+
+“I already did.” Teepo said. “It goes on for a few miles both ways.”
+
+“I had wondered if there was any trade with the next Principality; but with this thing in the way...” Ren waved at the cliff face. “I know there isn't.”
+
+“It's only 50 square miles, Ren.” Elerlyth said. “I doubt they have anything worth trading that they aren't using for themselves.”
+
+Ren nodded. “Okay, lets go and see if we can find the village elders. Or a mayor. Or something.”
+
+“That info wasn't in with the other stats?” Elerlyth asked, and Ren shook his head.
+
+“I'm hoping it was left out by mistake.” He said. “But by the looks of things...”
+
+Elerlyth snorted a laugh as they looked at the straw and mud huts. “Yeah, definitely no mayor.”
+
+“I'd say 'split up and start knocking on doors', but I don't want to lose sight of you.” Ren said, and she looked at him with a question on her face. “Yes, I know you can handle yourself; but that doesn't mean I want you to be here alone, either.”
+
+She put a hand on his arm. “Let's start looking.”
+
+Ren nodded and they went to the closest hut. Teepo scouted inside, and said there was no one there. This pattern continued until Teepo finally saw someone walking down the road. Ren turned towards the figure, and the figure stopped right at the 90 foot limit of Ren's Aura. The woman was a little on the plump side, and had shoulder-length black hair. Ren took a step towards her, and she turned around and started to walk away.
+
+“Wait!” Ren said, and ran towards her. She started to run as well, but Ren easily caught up to her. “I just want to ask a few questions.”
+
+The woman sighed and turned around. Her face was slightly distorted, and one eye was a little lower than the other one. Or, at least that's what Ren assumed, as she had her head tilted to the side so that both eyes were at the same level. Her mouth was also a little crooked, and when she spoke, it was slightly slurred.
+
+“Caln I help youl?”
+
+“I hope so.” Ren said. “I'm the new Lord of this County. Is there a mayor or village elder I can speak to?”
+
+“Slure.” The woman said, speaking slowly. “Youl want Pabby. Slhe's at the farlm.”
+
+“Which one?” Ren asked, and the woman looked at him like he was crazy.
+
+“Thlere's only one farlm. Itsa mile thlat way.” She pointed to the only road out of the village.
+
+Ren handed her a copper coin. “Thank you for your help.”
+
+The woman stared at the copper coin as Ren and Elerlyth went back to the horse and cart. He let Elerlyth drive again; and as the cart turned around, Ren saw that the woman still stood there. She had the copper coin in her hand and stared at it like she'd never seen one before.
+
+“I think you broke her.” Elerlyth commented as they left the village.
+
+“I didn't mean to.” Ren said. “Copper is the lowest form of currency I have.”
+
+“Imagine what would have happened if you'd given her a gold coin instead.” Elerlyth chuckled. “Her head might have exploded.”
+
+Ren snorted a laugh. “That's always a possibility.” He said. “Everyone seems to react differently to money.”
+
+“Not just money.” Elerlyth grinned. “We're both still wearing our fancy armor.”
+
+Ren looked down at himself, then back at her and smiled.
+
+“She wanted to get as far away from us as her legs could carry her.” She said. “We were just too fast for her to get away from to hide.”
+
+Ren sighed. “I don't know if it was because we're new, or because she didn't want to talk.”
+
+“Both, I think.” Elerlyth said. “I could barely make out anything she said.”
+
+“I heard every word just fine.” Ren said. “I've had lots of practice with that kind of thing.”
+
+Elerlyth let one of her hands go from holding the reins, took his hand in hers, and squeezed it.
+
+“We're looking for Patty.” He said, and pointed to a small trail going off the road. “I'm going to assume that will lead us to the farmhouse.”
+
+She let his hand go, and directed the horse up the trail. It didn't take long to get to the house, and they saw that a good portion of the field was harvested. Elerlyth tied the horse to the post there, and Ren filled the trough with water. Without thinking about it, he turned around and knocked on the front door of the house.
+
+“Ren, no!” Teepo shouted. “I haven't scouted-”
+
+The front door opened, and a beautiful blonde-haired woman stood there. Ren stared at her with wide eyes as the sunlight hit her hair just right, and it glowed like she had a halo.
+
+“Can I help you, My Lord?” The woman said, and Ren's mouth dropped open in shock. A slightly older version of Lucy stood in front of him. If Lucy had had an older sister, this was exactly as Ren had imagined she would look and sound like.
+
+“Oh, for fuck's sake!” Elerlyth said, exasperated.

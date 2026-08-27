@@ -1,0 +1,293 @@
+---
+id: 2d06b06a-43a3-5c62-9ba2-71053beabd29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 570 - Lylyth's Lair"
+slug: 0570-chapter-570-lylyths-lair
+partOf: mythrans-master-of-all-continued-completed
+position: 570
+ownLength: 3300
+unit: words
+publishedAt: 2018-04-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211637/chapter-570-lylyths-lair"
+royalRoadId: "211637"
+---
+
+Ren kissed all the maids before he got out of bed. He equipped his clothing, then checked the All-Seeing Mirror for the best place to open a portal to meet the Queen of the Dark Elves. He found a good spot just inside the throne room as Teepo dropped from the ceiling to land on his shoulder, then he chuckled.
+
+“What's so funny?” Frikara asked.
+
+“I was just about to pop into the Dark Elf throne room without calling ahead first, or going to get Artemis.” Ren said and left the apartment for a moment. He came back with his ranged combat familiar and picked up the folded Dire Wolf Hooded Cloak that had been beside the bed, then pulled out his pet tarantula from inside. “My Queen, may I pay you a visit?”
+
+An instant later a portal opened beside him. Ren equipped the cloak and put the pet spider on his other shoulder. Teepo dissolved into the Beetle Crown ring without being asked, so Ren took Artemis' hand and they stepped through the portal... right into Lylyth's funnel web bedroom.
+
+“Did I come at a bad time?” Ren asked as he beheld the enticing sight of a just over 9 foot tall Dark Elf woman as she sprawled on her over-sized bed completely nude.
+
+“I certainly hope not.” Lylyth said and gave him a knowing smile. “As the Royal Consort, you are to do that only when I say so.”
+
+Ren chuckled. “My Queen, I thought I was here so we could discuss how I can better handle my need.” He said, then silently summoned Teepo, who flew up to land on Artemis' shoulder. Ren gently transferred his pet spider to her other shoulder, then Lylyth slid off the bed and stood up in front of him.
+
+“This is part of it.” Lylyth said, and Artemis walked over to the side of the room and stood beside the Queen's attendant. “You must not let yourself go for too long without fulfilling your desire. You must also feed your Emotion Siphon ability or it will build up to the point that it could harm you or others.”
+
+“I thought once it was mastered, I could use it however I wanted.”
+
+“Yes, but it must be used.” Lylyth said and her large hand rubbed the top of his head. “I thought you had a counterpart to help you with this?”
+
+“I haven't seen her for a while.” Ren said. “I can only assume she's busy with Adventurer business.”
+
+Lylyth frowned. “She is lax in her duties to you.” She looked at the healer across the room. “If Tiatha wasn't so useful to me for my own needs, I would lend her to you.”
+
+“That would be generous of you, My Queen.” Ren said. “Thank you for the potential offer.”
+
+Lylyth looked back at him. “You aren't offended by me offering her to you as an emotional sex surrogate?”
+
+Ren chuckled. “We've both enjoyed her company in this bed, My Queen.” He said. “Although I haven't gone all the way with her, we are quite compatible otherwise.”
+
+Lylyth caught his underlying emotions about not being compatible with someone, and she knelt to put her face near his. “Tell me what happened.” She said. “I felt your emotions then, but I would like the context.”
+
+Ren thought about not saying anything, since it wasn't that big of a deal; then he sighed and stored his clothing. “Let's get into bed and I'll tell you about my last visit to the High Elven Kingdom and a less than flattering encounter with an elfling.”
+
+Lylyth looked him up and down. “Can you...”
+
+“Of course, My Queen.” Ren said and cast Permanent Enlarge and Reduce Anything on himself to double his size to 9 feet and 2 inches in height.
+
+“Please, call me by name when we are alone.” Lylyth said and took his hand, then sat down on the bed.
+
+“We aren't alone.” Ren said and smiled, and she chuckled.
+
+“Our attendants don't count.” Lylyth said and laid back on the bed, and he laid down beside her. “Now tell me about this encounter while I ravish your magnificent body.”
+
+Ren chuckled and rolled onto his back, then started to tell her about what happened with Allynna. Lylyth got on top of him and started to slowly move, so that Ren was getting pleasure but wasn't distracted by it. He ended the story quickly, and Lylyth nodded.
+
+“Yes, your Prince Charming title only works on those that are impressionable or are already attracted to you.” Lylyth said. “This Allynna said she had hoped she would feel something besides admiration for you, which means that she wasn't feeling anything for you beforehand.”
+
+“That's what I thought.” Ren said.
+
+“It happens, even to me.” Lylyth said. “Despite looking like this nearly all of the time, most men only remember seeing my other form and can't get it out of their head.”
+
+“It was impressive, that's for sure.” Ren said. “I've never seen a spider that big before.”
+
+Lylyth leaned down and kissed him and kept moving her hips. “You weren't afraid, even when I showed you my worst.”
+
+“That's funny.” Ren chuckled. “I doubt you quickly killing a dissenter was you at your worst.”
+
+“Oh?” Lylyth sat up. “What do you imagine I'm like when I'm at my worst?”
+
+“I'd say a good comparison would be something like when I encountered your sister in Shargon Caverns.”
+
+“Wait, what?” Lylyth stopped moving, and he felt her emotions coalesce into ice. “Did you say you met my sister?”
+
+Ren nodded. “She was the largest creature I'd met there, except for an abyssal terror. Those things are huge.”
+
+Lylyth leaned back down and braced her hands on his shoulders, then slid them to his neck. “Did you... kill her?” She asked and her grip tightened slightly.
+
+“Of course not.” Ren said. “Although I could have.”
+
+“Did... did you hurt her?” Lylyth asked softly, and her grip didn't loosen.
+
+“That depends on your definition of 'hurt'.” Ren said.
+
+“Ren, don't mince words with me. She is my only living family.” Lylyth said as her grip tightened. “Did. You. Hurt. Her?”
+
+“I did not hurt her... physically.” Ren added the qualifier, because he could tell that Lylyth felt a lie forming.
+
+“Explain.” Lylyth said, almost angrily.
+
+Ren went through the entire encounter that he had with the Marilith demon, and Lylyth's grip on his neck eased as he described the appearance of the boar demon and the wonderful smell of bacon that had appeared when the succubi had blasted it with several dozen fireballs. He told her that he forgot about the potentially lethal fight he was in and started to carve up the well-cooked demon.
+
+“You ate a meal with her?” Lylyth asked, surprised.
+
+“It tasted so good.” Ren said and remembered the feeling of it in his mouth as he chewed on it, and gave that feeling to Lylyth. She put a hand to her mouth at the sensation, and her eyes widened. “She curled up around me and we ate several nice chunks of it.”
+
+“I can't believe...” Lylyth took a breath and let it out. “...she didn't kill you.”
+
+Ren shook his head. “She tried a couple of times, and I matched her each time.” He said. “Once I reminded her that she could kill me and I would come back, then I could kill her and she wouldn't... she grudgingly accepted a non-verbal non-aggression pact.”
+
+“She couldn't have been happy with that.” Lylyth said.
+
+“Everything went fine after that.” Ren said. “We ate some more and I replaced her terrible armor.”
+
+“You what?”
+
+“That armor she wore was garbage.” Ren said. “It hurt my eyes to look at the shoddy workmanship, so I replaced it.”
+
+“Is that all you did?”
+
+“I gave her bracers with the Sunder enchantment, one for each of her arms, then gave her a necklace to thank her for not killing me.” Ren said. “Oh, and I went down on her.”
+
+“Great Vasalor.” Lylyth whispered. “Why didn't she keep you?”
+
+“She wanted to.” Ren replied. “I told her I had too many people waiting for me to stay.”
+
+“She was satisfied with that?”
+
+Ren laughed. “Of course not.” He said. “I had to bribe her with my Polymorph helm.”
+
+“You gave her a priceless item?”
+
+“No, I had to wear it.” Ren said. “I even used a part of her to make it.”
+
+Lylyth was quiet for a moment.
+
+“Can you guess what she wanted me to change into?” Ren asked.
+
+“You... no.” Lylyth shook her head. “You didn't!”
+
+“I did.” Ren said and smiled as he felt her shock. “By the gods, it was weird trying to move with 4 extra arms and without legs.” He laughed. “I flopped around like a fish!”
+
+“Ren...”
+
+“I didn't want to; but, she said she wouldn't let me go if I didn't.” Ren said, and Lylyth felt his sadness. “That's the part I knew would hurt her. She had been alone all that time and I knew if I became a male version of her...”
+
+“Poor (indiscernible).” Lylyth said softly and shared his sadness.
+
+“She said her name wasn't pronounceable in my words.” Ren said. “I have no idea what you said, but it sounded nice.”
+
+Lylyth sighed. “What happened next?”
+
+“I changed back and she let me go.”
+
+“What else?” Lylyth asked, because she could feel he was concealing something.
+
+“Well, I didn't want her to leave her with a feeling of sadness, so I told her something and made her angry at me instead.”
+
+“What in the world did you say?”
+
+“Before I made the helm I told her its time limit. It was 5 minutes, and she said she would be happy with that.” Ren said, then he smiled. “When I was leaving and before she closed the exit, I told her I modified the helm to last over 4 hours, then fled as fast as I could.”
+
+Lylyth didn't say anything for a moment, then barked a laugh. “Ha!” She said, then laughed and laughed until tears rolled down her cheeks. “She must have been so angry!”
+
+Ren remembered what he had felt from the Marilith demon and let Lylyth feel it.
+
+“Ha ha ha! Murderous rage! She's going to kill you! Ha ha ha ha!” Lylyth laughed and laid down on top of him. Ren felt her mirth and laughed as well.
+
+Artemis turned to the healer and whispered. “Do you think we should laugh, too?”
+
+“We can do it later.” Tiatha said. “Let them have these moments together without distraction.”
+
+Lylyth calmed down after several minutes of shared laughter, and then asked to be on the bottom. Ren rolled them over to accommodate her request, and she stared up at him. With him looming over her, she remembered what her attendant had said about asking him for what she wanted.
+
+“Ren, I...” Lylyth's face flushed to a darker grey. “I want to ask you something.”
+
+“I can feel your apprehension.” Ren said and caressed the firm mounds of her chest with his hand. “Take a deep breath, relax, and ask your question.”
+
+Lylyth took a deep breath and let it out. “Ren, when I saw you with... when you told them that... I felt their pleasure because you...”
+
+Ren covered her mouth with a hand. “Nod your head if I guess this right.” He said, and leaned in to whisper in her ear. “You want me to do the same thing to you. You want me to make you happy by plowing your field and planting my seed.”
+
+Lylyth nodded her head, and Ren kept her mouth covered.
+
+“Let me ask you a question.” Ren said, and she nodded again. “Have you tried this before and borne any children?”
+
+Lylyth shook her head twice, and he took that as a no for both parts of that question.
+
+“I assume it's one of the duties of the Royal Consort?” Ren asked, and she nodded again. “Let me think about it.”
+
+Lylyth sighed into his hand and he felt her resignation.
+
+“Okay, I've thought about it.” Ren said and entered her. “As with the maids, I will fulfill my duty to you.”
+
+Lylyth gasped at the sudden and welcome intrusion, then started to moan as he moved faster.
+
+Ren kept his hand over her mouth as he pleased her. “There's something you should know.”
+
+“Mhm hmm mhh!” Lylyth mumbled and wrapped her arms and legs around him in case he tried to stop or get away.
+
+“You will care about this.” Ren said and moved even faster. He could feel her approaching the finish and how happy she was that he was doing this for her, and he prepped himself to finish as well.
+
+“Mhm mmm hmm!” Lylyth said and her phantom spider limbs faded into existence and wrapped around Ren as well.
+
+“Yes, you will.” Ren said. “You see, I'm one of Vasalor's Chosen.”
+
+“HMMMMM!” Lylyth screamed into his hand and finished as her body clamped down on him, and then Ren finished inside of her. Her mouth distorted and formed several sets of fangs, then she bit into his shoulder. Since his Toughness was so high at level 5, she had a difficult time getting her teeth worked into his skin. Once she did, she poured her poison into him.
+
+Ren felt her venom flood into him, and a burning sensation went down his back. Instead of feeling woozy or sick like he should have, it surprisingly gave him an energy boost. His Stamina Bar changed colors and greyed out, and he laughed as he pounded into her as hard and as much as she wanted... and she really wanted it.
+
+Both of their Emotion Siphon abilities had activated as they both experienced enormous amounts of pleasure and happiness, and they funnelled it through each other over and over. They were locked into a nearly endless loop of pleasure and need, and Artemis and the healer stood there and watched it all.
+
+After several hours, Lylyth pulled her fangs out of Ren's shoulder and formed her mouth back into it's normal shape. As her venom faded, Ren pulled out as well, and he flopped onto the bed next to her.
+
+Stat Change!
+
+Hardy (Mastered) - You have gained almost complete resistance to poison, foreign spells, and foreign spell-like abilities.
+
+“Great Vasalor.” Lylyth whispered. “That... how did that...” She looked at Ren. “You really are Vasalor's Chosen.”
+
+Ren smiled and gave her a kiss. “When I didn't die from your venom, I knew something was up.”
+
+“I didn't even realize I did that until it was too late.” Lylyth said, then her eyes widened. “Wait, you didn't know you would live and you let me do it anyway?” She asked. “Why didn't you fight me?”
+
+“Out of all the ways I have died, that seemed like a good one.” Ren said. “Not the poison part, the dying while having sex with you part.”
+
+“You are a strange man.” Lylyth said, and smiled. “Willing to let yourself die just to have sex with me.”
+
+“After having sex with you.” Ren said and grinned. “Dying first would be stupid.”
+
+Lylyth laughed and hugged him, then they laid in bed together and wallowed in the afterglow. After about 10 minutes, the both of them started to feel like they were procrastinating. They exchanged looks and sat up in bed, then stood up.
+
+“Ren.” Lylyth said and put her arms around his neck. “Thank you for... giving me...”
+
+“...what you asked for.” Ren hugged her and gave her a kiss. “You know how much making women happy makes me happy.”
+
+Lylyth smiled and let him go. “You don't know how much I appreciate that you can see me as a woman, even knowing the twisted monster I can become.”
+
+“No one is perfect.” Ren said and let her out of the hug, then cast the spell on himself to return to his normal size. He equipped his clothing and Artemis came over to him to return Teepo and his pet spider. He took out the All-Seeing Mirror and checked for the best spot to create a portal back to the apartment, then cast the spell. He felt Lylyth's surprise, and he smiled as he stored the mirror.
+
+“I'm not sure when I'll have time to spare to come back.” Ren said. “It all depends on how the war turns out.”
+
+Lylyth blinked her eyes at him, because she didn't realize that he knew about her offensive. “It's... it's going well, actually. We caught the High Elves out of position, and our much smaller military force was able to engage effectively.”
+
+“You're leaving the civilians out of it, I hope.”
+
+“I ordered it to be so.”
+
+Ren gave her a warm smile, took several steps up into the air, and kissed her cheek. “Thank you.”
+
+“You're not going to berate me for taking advantage of the situation the High Elves were in from the ghoul devastation?”
+
+“You created it, so I can't fault you for using it.” Ren said. “I saved as many of the High Elves as I could from the ghouls, since that was my own personal grudge; but, I won't step in and fight you and your armies, just to save them from their own creation.”
+
+“Ren...”
+
+“It was their own actions that made you and set their people against each other, essentially creating a civil war.” Ren said. “I'm not going to interfere with that.”
+
+“What if I asked you to fight on my behalf?”
+
+Ren stroked her cheek. “I don't know your laws or even if you have laws for it; but, I'm pretty sure the Royal Consort is exempt from serving in your army.”
+
+Lylyth opened her mouth to deny it, then sighed. “Yes, we can't let the potential ruler fight beside the troops.”
+
+“If you start to lose too many people, or are in danger yourself...” Ren glanced at the healer. “...or a few others are in danger, I'll come running.”
+
+“But...”
+
+“I won't fight in the battle itself, I'll stop it.” Ren said.
+
+“You really would.” Lylyth said.
+
+Ren felt her amazement. “When you win, please don't kill the High Lord and his staff.”
+
+Lylyth frowned. “You cannot dictate...”
+
+“It was a request!” Her attendant nearly yelled and ran over. “You can feel it, can't you? He's asking you, not telling you.”
+
+Lylyth looked past the words and felt his emotions, then nodded. “Can I ask why?”
+
+“Allynna is his elfling servant, and I've spent time with her mother.” Ren said. “I don't want them to be saddened.”
+
+“Can I at least torture them?” Lylyth asked sarcastically.
+
+“I think holding them hostage will be torture enough.” Ren said. “Although, if you did want to torment them, I just might have an idea of the best way to do it.”
+
+Lylyth was surprised, yet again, at Ren's thinking as he told her what his idea was. “You... that's...” She shook her head. “I thought I was sadistic!”
+
+Ren chuckled. “Just make sure if it ever comes about, you contact me so I can be here to see it.”
+
+“You will be seated beside me as we watch it together.” Lylyth said and kissed the side of his face. “Goodbye, Ren.”
+
+“Goodbye, Lylyth.” Ren said. Teepo dissolved into the Beetle Crown ring and Artemis took Ren's hand, then they stepped through the portal together.
+
+“He is an amazing man.” Lylyth said.
+
+“He certainly is.” The healer said. “Did you get enough food from him if the mating was successful?”
+
+“More than enough.” Lylyth said and licked her lips. “My venom kept liquefying his insides and I kept eating, and he kept regenerating.” She chuckled. “He really is perfect.”

@@ -1,0 +1,425 @@
+---
+id: 04b569e2-9c3c-547c-879c-2619efe769a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 181 - The Convent"
+slug: 0169-chapter-181-the-convent
+partOf: mythrans-master-of-all-continued-completed
+position: 169
+ownLength: 4336
+unit: words
+publishedAt: 2017-02-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120803/chapter-181-the-convent"
+royalRoadId: "120803"
+---
+
+Ren got a full 6 hours of sleep, and was up bright and early the next morning. Nathalia rolled off of him with some gentle prodding, and he kissed her cheek before he left the bedroom.
+
+“Ah!” Ren said. “This is going to be a great day!”
+
+“Are you always this loud?” Ereka said as she came out of the old bedroom. Her shoulder-length blonde hair was disheveled and stuck up in several places, and her slip was only slightly crooked. It was as thin as every other dress slip Ren had seen, and the tips of her breasts were quite prominent.
+
+“Would you like something for breakfast?” Ren asked, and went into the kitchen. Ereka followed him, and Ren took out the big icebox. “You can have something that's already made, or I can whip something up.”
+
+“Already made is fine.” Ereka said as she sat down and looked at Ren bleary-eyed.
+
+“I guess you're not a morning person.” He said, and took some food out of the icebox.
+
+Ereka smiled crookedly. “I am when I get enough uninterrupted sleep.”
+
+Ren chuckled as he put a plate in front of her. “I can only apologize so many times.”
+
+Ereka started eating without even looking at the food. “Hey! This is cold!”
+
+“Icebox.” He smiled. “You can keep prepared food a lot longer than you normally can.”
+
+“It must be nice.” Ereka said. “I have to buy more food every day.”
+
+“Since you're staying here, why don't you use that one?” Ren pointed to the small one that he'd made first.
+
+“That's one, too?” Ereka asked, and Ren nodded slightly. She went over to it and opened the door. The blast of cold hit her and she shivered, then smiled. “Thank you.”
+
+Ren shrugged. “You're living here now. You might as well use it.” He took some food out for himself and sat down. “Did you want the food warmed up?”
+
+“Could you?” Ereka said. “If it's not too much trouble.”
+
+Ren took her plate to the oven and turned it on. He opened the door, held the plate near the flames, and used his Fire Manipulation ability to direct the heat through the plate and into the food. When he pulled the plate out a minute later, he received a popup.
+
+Stat Change!
+
+Fire Manipulation Level 1 (Intermediate 0%)
+
+Ren turned off the oven and shut the door, then brought the plate to Ereka. Since he had pushed the heat through the plate and into the food, the plate itself was only barely warm.
+
+“Careful. The food's probably hot.”
+
+“You barely had it in the oven.” Ereka said, and tried to pick up a piece of meat. “Ow!”
+
+Ren grabbed her hand, and examined it to see if it was burned. Two of her fingers were starting to turn red, and he stuck them in his mouth. Ereka's mouth dropped open in shock.
+
+“W-w-w-what are you d-d-doing?” She stammered, as Ren sucked on her fingers.
+
+“Suwwing on whem hews.” Ren mumbled, as he held her hand to his mouth, and took out a Minor Healing wand.
+
+“W-w-what?”
+
+He slid her fingers out of his mouth, then used the wand on them. “I said, 'sucking on them helps'.”
+
+“I-i-it d-does?”
+
+Ren nodded slightly, then smiled. “You didn't think about the burns at all, did you?”
+
+Ereka stared at him, blinked her eyes a few times, then started to laugh. “Oh... oh!” She hugged herself. “By... by the gods...” She laughed for a couple of minutes, and Ren let her laugh herself out. “I can't believe you... you sucked on my fingers... just to distract me.”
+
+“It worked, didn't it?” Ren grinned.
+
+Ereka smiled. “It definitely distracted me.”
+
+“What did?” Nathalia asked as she came into the kitchen.
+
+“I burned my fingers...”
+
+Nathalia grinned. “He did his finger-sucking technique, didn't he?”
+
+Ereka nodded.
+
+“He used it on me once.” Nathalia said. “Now when I try to burn my fingers on purpose, he either stops me or ignores me.”
+
+“Oh, that's horrible!” Ereka said. “He shouldn't ignore your pleas for help!”
+
+“That's what I keep telling him!” Nathalia said, and the two women laughed.
+
+“I feel like the butt of the joke here.” Ren said.
+
+“Hey! That's another butt you've felt!” Ereka exclaimed, and the three of them laughed.
+
+“As much as I'd like to stick around, I've got to get an anvil to use at the mines.” Ren said. “Ereka, do you have to call for an appointment at the Convent?”
+
+“W-w-what?” She asked in shock. “I'm... I'm not due for training for another couple of years.”
+
+Ren shook his head. “They make anvils there. Do I have to call ahead to go buy one?”
+
+“I have no idea what you are talking about.” Ereka said. “The Convent is only for women, and for their training.”
+
+Ren nodded slightly and took out a plate of food for Nathalia. “I'll just stop in, then.” He said and stored the icebox. “I better get going.” He took Nathalia into a hug, did a partial dip, and kissed her. He stood her up and grinned at her.
+
+“What was that for?” Nathalia asked, slightly out of breath.
+
+“For fulfilling my fantasy last night.”
+
+Nathalia blushed a deep red. “We didn't do anything like that last night!”
+
+Ren laughed. “By the gods, you're so cute.” He cupped the side of her face. “I meant that you showed up when I had almost no expectations that it could happen; but, I hoped that it would.”
+
+“Oh.” Nathalia said.
+
+“I'll see you tonight, assuming I don't get away early from work.” Ren said, and gave her a quick kiss goodbye.
+
+“See you then.” Nathalia said. “I'm tempted to go with you; but, the last thing I want is to take the chance that they'll schedule me for training when our marriage contract expires.”
+
+“Would they do that?” Ren asked. “Even after all of the... practical experience you've had?” He waggled his eyebrows up and down, then grinned.
+
+“Get out of here!” Nathalia said, and swatted at him. Ren laughed and left the house, with Teepo flying behind him, then went to the stable.
+
+“Hi, Princess.” Ren said. “Feel up to hauling me across the countryside for an hour or two?”
+
+...Of course...
+
+“Great!” Ren said, took her out to the courtyard, and hooked the cart to her. He looked at his Bracelet of Enforcement. “I need an anvil to work at the mine, so I'm going to go to the Convent to try and get one, like the blacksmith at the mine has.” Ren waited to see if it would glow or something, but nothing happened. He shrugged and led Princess out through the gate. He nodded slightly at the guards, and got in the driver's seat.
+
+“Okay.”
+
+Princess started off at a trot, then took off once she got a feeling for the weight.
+
+*
+
+“So.” Nathalia said, as she finished her food and took the plate to the sink. “What are your intentions towards Ren?”
+
+“Wh-what?”
+
+“You can drop the dumb blonde act.” Nathalia said. “I saw how you were with him.”
+
+Ereka looked at Nathalia with surprise on her face. “N-Nathalia, I...” She sighed. “I haven't gone for my training yet. I don't even know what to do to get a man's attention, let alone know what to do if I somehow managed to get one!”
+
+“I haven't had my formal training, either.”
+
+“Wh-wh-what?!?”
+
+Nathalia chuckled. “It's hard to imagine, I know.” She said. “I'm a bit old to have missed the training, but when Ren and I entered the marriage contract, my training contract was nullified.”
+
+“Oh, wow.” Ereka said. “I didn't know that was even possible!”
+
+Nathalia turned her head slightly. “You're telling the truth, and yet... look at you.”
+
+Ereka looked down at herself, and saw her dress slip was a little crooked. She pulled it straight and looked at Nathalia.
+
+“I didn't know it was crooked. Thanks.”
+
+Nathalia laughed. “I meant that you're only wearing a slip. I can see the tips of your breasts quite clearly, and I'm 10 feet away from you.”
+
+“Wh-what?” Ereka put her hands on her chest, and felt herself poke her palms. “Oh, no.” She said. “The Librarian said that I could dress a little provocatively to tease him, because we knew that nothing could happen while he was engaged to you; but, I... I didn't realize that he could see me through it!” Her face flushed a deep red and she let her chest go, to cover her face with her hands.
+
+Nathalia walked over to her, and gave her a hug. “I'm sorry.” She said. “I didn't mean to accuse you like that.”
+
+Ereka chuckled as her blush faded. “I was teasing your fiance.” She said. “Accusing me of it seems fair.”
+
+Nathalia let her out of the hug. “Last night, I felt how happy you were that he was sharing his feelings with you.”
+
+Ereka nodded slightly. “They're so strong!” She said. “I've never felt anything like them.”
+
+Nathalia nodded slightly herself. “I haven't felt anything like them, either.”
+
+“How can you handle them so well?” Ereka asked. “I can't help but get lost in them.” She sighed. “They feel so wonderful.”
+
+“I've gotten used to it.” Nathalia said. “But, we don't share all the time.” It was her turn to sigh. “It gives me a headache after a while.”
+
+“It does?” Ereka asked. “I haven't had one yet... but I've been sharing my Aura with the Main House every day.”
+
+Nathalia smiled. “Did Ren tell you to practice like that?”
+
+Ereka shook her head. “No. After he taught me how to do it, he left. I've been doing it on my own ever since.”
+
+“Why?”
+
+“So that whenever he passed by, I could get another glimpse of his emotions.” Ereka said. “Since I didn't know when he would go by, I had to keep my Aura going constantly.”
+
+So... she's younger, smarter, prettier, can share his emotions better than I can, and she's sleeping in his old bed. Nathalia thought. “You better get dressed and head over to the Main House.”
+
+“Right!” Ereka said. “The workers will be coming soon to collect their pay.” She left the kitchen and Nathalia took the other plate to the sink.
+
+Is he looking for a replacement already? Nathalia thought, as she washed the two dishes.
+
+*
+
+An hour and 20 minutes later, and after several food stops, the cart arrived at the Convent. Ren climbed down and stared at the architecture.
+
+“Well, isn't that something.” Ren said, as only half of the main building could be seen because it was embedded into the side of the mountain. It had several smaller buildings around it as well. “It even has battlement walls!”
+
+Teepo. Ren thought.
+
+“On it!” Teepo said and flew over the battlement wall and disappeared from sight. The two female guards, who wore dull iron plate armor, stared as he led Princess over to them.
+
+“Hi, there.” Ren said. “I'm sorry to bother you; but, is there a headmistress or someone who runs things that I can talk to?”
+
+They looked at him, and then at each other.
+
+“Is he serious?” One of them said. “I think he's actually serious!”
+
+The other shook her head. “He can't just expect to visit the Madam, without even making an appointment.”
+
+“How would I do that?” Ren asked, interrupting them, and the two women looked at him. “I mean, I know there's a Sending Stone inside for communication, but... where would the other one be, and how would I use it to call ahead first to make an appointment?”
+
+The two guards blinked their eyes at him a few times, then one of them shook her head slightly.
+
+“By the gods, he's right.” She said and opened the gate behind her. “I'll be right back.”
+
+Ren waited patiently, and didn't try to engage the other guard in polite conversation. He examined her armor, and saw it was exactly like normal armor that a man would wear. He frowned mentally.
+
+They must be in constant pain if they're wearing armor designed for men instead of women. He shook his head slightly. The pressure on their chests alone... no, it's not my concern. It's not my concern. He repeated mentally. I don't need yet another thing to do before I leave!
+
+“There's several women doing various tasks.” Teepo reported. “Nothing like a blacksmith, though.”
+
+Follow the guard. Ren thought. She's going right where I need to go, I think.
+
+“Sure thing.” Teepo said. Five minutes later, he spoke again. “There's several hallways after the front door, and the guard had to wait a minute for the door to the office to open. There's a single female dwarf inside.”
+
+Thanks, Teepo.
+
+After another 5 minutes, the gate opened and the guard waved him inside.
+
+“Do I bring my mount in as well?” Ren asked, and the guard nodded slightly. He followed the guard and led Princess inside the compound and walked along a short road to a stable.
+
+“You can leave the cart and mount here. It will be taken care of.”
+
+“I don't see anyone here to do that.” Ren said, and looked around. All he could see were a few simply dressed women, but none of them were near the stable.
+
+“They are there, but they aren't allowed to interact with a man for another few months.” The guard said.
+
+“Oh!” Ren said, and turned to the stable. “I'm terribly sorry for causing you any inconvenience.” He led Princess over to the stable, and unhooked the cart. “I just fed her, so you can pretty much just let her stand here.” He pat Princess' neck. “I don't think I'll be long.”
+
+...Will wait patiently...
+
+Ren scratched her chin, then followed the guard to the main building. It was even more impressive up close. The stonework was impeccable, the carved figures danced around columns, and the filigree covered the entire surface that Ren could see.
+
+This must have taken decades to build. Ren thought.
+
+“More like a century or two.” Teepo offered. “You haven't seen the inside yet.”
+
+It must be huge if you're saying it's big.
+
+“Dwarves never build anything small if they have access to the right materials.” Teepo said.
+
+Ain't that the truth! Ren thought as they went inside and he saw the stonework was even more ornate inside. He could tell there were a lot of newer stones among the old ones. They must have to repair it all of the time.
+
+“They do.” Teepo said. “The crews are moving around in the next hallway to avoid you.”
+
+I don't know if I should be flattered or insulted that they are avoiding me like a plague.
+
+“Definitely flattered.” Teepo responded. “Several of the women are skirting the edge of your Aura, and are practically drooling.”
+
+Maybe coming here wasn't such a good idea. Ren thought.
+
+“It's a good test for their resolve.” Teepo said. “If any of them break down now, the Convent will know they aren't ready to handle a man's attention yet.”
+
+Ren smiled. I think this is my first time being used as a tool for education.
+
+The guard arrived at the office, and knocked on the door. A moment later, she opened it without hearing any kind of response, and ushered Ren inside. Teepo followed him in, and the guard closed the door. It left Ren alone with the female dwarf that ran the Convent, and she stared at him as he spoke.
+
+“Hi.” Ren said. “My apologies for just dropping in like this, but I didn't know how to make an appointment.” He smiled. “The reason I'm here is because I heard from a fellow blacksmith that you have high quality anvils for sale.”
+
+The female dwarf continued to stare at him.
+
+“If it's too much trouble, or if you don't have any...” Ren said. “I can leave.”
+
+She stood up from behind the desk and walked over to him. If Ren had to guess, he estimated her to be around 50 years old or so. She had a fit and firm body, from what he could tell through her modest clothing that left quite a lot to the imagination. Her pitch black hair ended midway down her back, and she had strong facial features. She wasn't beautiful by any stretch of the imagination; but her face was almost hawk-like in it's appearance, and that was a kind of beauty all on it's own. She was also just about his height; so when she stood in front of him, they stared into each other's eyes.
+
+“By the gods, what are you?” She asked.
+
+“Excuse me?” Ren asked, surprised.
+
+“I felt you coming down the hallway.” She rubbed her arms. “Your Aura is so strong.”
+
+“I'm an Adventurer, Ma'am.”
+
+“Oh, you are much more than that.” She said, stopped herself from rubbing her arms, and let them fall to her sides. “Lord, Artificer, Elfling, Dwarf...” She tilted her head. “...and Elemental, somehow.”
+
+Ren didn't know what to say to that description, and she smiled.
+
+“You're also very desirable.” She said. “And you cause trouble wherever you go.” She grinned. “One is usually the cause of the other.”
+
+“Are you suffering from that trouble, Ma'am?” Ren asked.
+
+“Yes, I am.” She said. “I've been married, you see.” She walked around Ren to examine him, and he fought his urge to follow her movements and kept looking forward.
+
+“I'm watching her, Ren.” Teepo said from the ceiling.
+
+Thanks.
+
+“For nearly 25 years I kept him happy. He never wanted for anything.” She said as she came around to stand in front of Ren again. “He was also much older than me.” She sighed. “He passed away last year.”
+
+“I'm sorry to hear that.” Ren said, and she smiled as she heard the truth in his words.
+
+“Thank you.” She said. “I was uniquely qualified to run this institution, and have done so for countless years. I've taught tens of thousands of women how to find and keep a man.” She smiled. “How to make them happy, both emotionally and physically. How to take care of a house, unruly children, disruptive parents and relatives...” She said. “... and how to please a man.”
+
+Ren didn't say anything, and she smiled again.
+
+“Do my skills interest you at all?” She said, and waited patiently for his response. Ren was not stupid enough to answer that question, though.
+
+“I'm just here to buy an anvil, Ma'am.” Ren said. “I require nothing else at this time.”
+
+She grinned at his evasion. “Asking if you have money, would be as stupid as asking you to bend me over the desk to make love to me.” She watched his face for his reaction to that suggestion, and Ren raised a single eyebrow at her.
+
+“Oh, that's precious!” She said, lifted a hand to touch his face, then caught herself and pulled the hand back to cover her heart. “You, sir... are a dangerous man.”
+
+Ren raised his other eyebrow to join the first, and she giggled. Her hand moved from her heart to cover her mouth.
+
+“I haven't laughed like that since before my training.” She said, surprised.
+
+Ren let his eyebrows drop to their normal positions, and she stepped back.
+
+“Yes, we make anvils here.” She said. “Only a select few are allowed to buy one, though.”
+
+“How does one become a part of that select few?” Ren asked.
+
+“Quite easily.” The female dwarf said. “You must provide the Convent a service of equal value.”
+
+“How would that work?” Ren asked, finally letting his curiosity show. “If I don't know the value of the anvil, how would I know what service to provide?”
+
+She grinned and started to untie the cord around her waist.
+
+“No, thank you.” Ren said, turned around, and started to walk out of the office. “I can just use a normal anvil.”
+
+“Wait!” The female dwarf said, as Ren turned the door handle. “Are you really going to pass up owning a one of a kind anvil like this?”
+
+“It's not worth it.” Ren said. “Even if, somehow, my fiance agreed to let me do it, I wouldn't.” He said. “I don't really have the moral high ground to argue here, but I will anyways. Forcing someone to sleep with you like this, just so they can get something from you, is wrong.”
+
+“Why?” She asked. “People have been exchanging money and items for pleasure, for as long as there have been people.”
+
+“That doesn't make it right, only consistent.” Ren said. “If that's all, I'll be going.” He pulled open the door and stepped into the hallway.
+
+“Wait!” She said, and tied the cord around her waist.
+
+“She stopped undressing.” Teepo said.
+
+The head of the Convent came over to the doorway. “You passed the test.”
+
+Ren shook his head. “No, I didn't.” He said. “If I'd taken you up on your offer, you'd have proven that all men are alike.”
+
+She looked at him with surprise on her face. “How did you-”
+
+“It's what you wanted from me, right from the first moment you saw me.” Ren said. “I don't know how many times I have to keep telling women this; but, I am not like other men.”
+
+“Why?” She asked. “Why didn't my seduction work?”
+
+“You were trying too hard.” Ren said.
+
+“I was trying too hard?” She laughed. “Normally, I barely have to smile at a man, and he'd be on top of me.”
+
+Ren nodded slightly. “I assumed so.” He said. “You made me feel guilty just from talking to you.”
+
+She laughed again. “Yes, that is one of my many talents.”
+
+“So, can I buy an anvil?” Ren asked. “With actual money, not favors or trade or anything.”
+
+“Well...” She said, and reached for his neck. Ren didn't react as she hooked the edge of the chain around his neck that the pendant hung from. “...a trade might be in order.”
+
+After some tense negotiations, the head of the convent agreed to sell Ren 2 anvils. One for actual money, because they needed the money to pay for expenses, supplies, and other things, and the other for a good-sized diamond pendant of equal value. She gave Ren access to a forge, and he smelted her a pendant, using one of the 20 platinum diamond ovals, then took out 20 platinum coins.
+
+“Before we complete the deal, I'd like to see the anvils, please.” Ren said.
+
+“Of course.” She said, and led him to another area of the Convent. She opened a door and Ren looked inside. A dozen anvils were there, and they all had the same Durability of 25,000.
+
+“Wow.” He said. “How long does it take to make them?”
+
+“Not long.” She said. “Once we sell one, we don't need to make another one to replace it until a year later.”
+
+“You always have 12 available.”
+
+She nodded slightly. “This will be the first time we've sold two of them at the same time.”
+
+“You'll have a lot more work to do, then.” Ren said.
+
+“There's always work to be done.” She said. “So, do we have a deal?”
+
+Ren took out the pendant, and her eyes glistened as it reflected the light. He gave it to her, and then handed her 20 platinum coins.
+
+“They are extraordinarily heavy. It will take a while to get them hauled up to the ga-”
+
+Her words were cut off as Ren stored two of the anvils, and he took her hand.
+
+“It was a pleasure doing business with you.” He said.
+
+“It could have been quite the pleasure.” She said once she got over the shock, and then she chuckled. “If you'd taken me there in my office, I'd have had you wrapped around my little finger for the rest of your life.”
+
+“I don't think so.” Ren said, and smiled as he pulled her towards him. She didn't fight the movement, and her eyes widened as he placed a gentle kiss on her cheek. She gasped as she gained Honor from the action, much more than just bending over her hand would have been.
+
+“How... how in the world did you...”
+
+“Have a wonderful day, Ma'am.” Ren said. “I'll show myself out.”
+
+*
+
+She watched Ren walk down the hallway, and put a hand on her cheek. He's right. She thought. I think... I think it would be me wrapped around his little finger instead.
+
+*
+
+With Teepo's help, Ren avoided meeting any women along the way back to the entrance of the main building. Once outside, Ren saw there was a lot more women around than when he went in.
+
+They couldn't have sent word out that I was leaving. Ren thought, and tried to ignore his Aura. It didn't work, as he walked down the road and every single woman stopped whatever they were doing and stared at him as he passed.
+
+This is kind of creepy. Ren thought.
+
+“Kind of?” Teepo said. “It feels like you're a deer walking through a field full of lions... that are ready to pounce and devour you.”
+
+Ren made it to the stable and hooked Princess back up to the cart.
+
+...Women talk about you... Princess thought to him.
+
+Ren led her down the road to the gate.
+
+...They say you are a good mate...
+
+Ren didn't say anything to Princess as the guard opened the gate for him. He got her situated on the road and looked at the guard that had helped him.
+
+“Thank you.” He said, and gave her a slight bow. She gasped and held a hand over her heart. The metal of her gauntlet clanged against the chest plate, and he smiled. Ren climbed into the driver's seat of the cart, and Teepo landed on his shoulder.
+
+“Let's go.” Ren said, and the cart took off down the road and back towards the dwarf city of Dornach.

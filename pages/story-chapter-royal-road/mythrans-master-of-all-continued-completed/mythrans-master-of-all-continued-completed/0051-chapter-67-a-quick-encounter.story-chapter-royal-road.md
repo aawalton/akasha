@@ -1,0 +1,485 @@
+---
+id: ea035623-2206-5765-9561-8246e0787596
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67 - A Quick Encounter"
+slug: 0051-chapter-67-a-quick-encounter
+partOf: mythrans-master-of-all-continued-completed
+position: 51
+ownLength: 4564
+unit: words
+publishedAt: 2016-10-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100401/chapter-67-a-quick-encounter"
+royalRoadId: "100401"
+---
+
+Ren turned to leave and Donan held him back. “Just a second, I almost forgot to give you your share, Ren.”
+
+Donan handed Ren 16 platinum coins and 25 gold coins, and Ren put them in his money pouch. Lucy's eyes bulged at the amount of money Ren had just received, but didn't say anything. Ren led Lucy out of the shop and around the corner.
+
+“I want to go and check out the bow maker's place.” Ren said. “What was his name...”
+
+“I think it was Micheal.” Lucy offered.
+
+Ren shook his head. “I don't think so. That's close, but it doesn't quite sound right.”
+
+“It's Mitchell.” Teepo said from his improvised perch in Ren's hood.
+
+Thanks, Teepo. Ren thought. “Teepo said the name is Mitchell.”
+
+Ren and Lucy walked down the street and took the corner at the end of the Artesian District. “It's supposed to be around here somewhere.” Ren said. “At least I remembered the shopkeeper saying is was at the end of the district.” Ren chuckled.
+
+Lucy giggled and once again put a hand over her mouth. “Damn, I have to stop doing that! It's so embarassing.” Lucy said and Ren laughed. “It's not funny! Every time I'm around you lately, I get this giddy feeling...”
+
+Ren hooked Lucy's arm and pulled her behind one of the small shacks. “Me, too.” Ren said. “Let's see if we can help each other with that.” Ren said and cast concealment glyphs on a few surrounding rocks. “Come here.” Ren pulled Lucy down for a kiss. Teepo ducked into the hood so he wouldn't be spying on his friend. Lucy knelt so she wouldn't get a crick in her neck, but now she was slightly shorter than Ren and had to tilt her head up slightly. Hair was ruffled on both sides as they made out for the first time in the game. Ren reached around and grabbed both cheeks of Lucy's backside.
+
+********
+
+A large popup window appeared on the television screen in Ren's room at the hospital.
+
+Notice!
+
+Privacy Mode has been automatically engaged. No video or audio may be recorded at this time.
+
+Privacy Mode will disengage when proscribed activities have ended.
+
+“Aww, it was just getting good.” One of the night nurses said.
+
+Barbara shook her head. “It's a good thing the game cuts off like that. Can you imagine how many... questionable... videos could be made this way?”
+
+“Yes.” Another nurse said. The other 2 nurses turned to stare at her. “What? You can't tell me you haven't seen the computer animated stuff people make these days.”
+
+“I can tell you that.” Barbara said and they all laughed.
+
+“This might take a while” The nurse said and waved to the screen. "See you later, Barbara.” The nurse said and turned to the other one. “Come on, we better get back to the floor.” The other nurse nodded, said goodbye herself, and they left Barbara alone to sit in the chair beside Ren's still form in the bed.
+
+Barbara sighed. I know I told him to have fun, but doing that wasn't what I meant. Barbara stared at the screen and hoped the notice went away soon.
+
+********
+
+Lucy reached around and grabbed the cheeks of Ren's backside and squeezed. Ren let out a little yip and Lucy laughed.
+
+“I've been wanting to do that for a while.” Lucy said and blushed. “It's so cute I just want to cuddle it.”
+
+“Isn't that supposed to be my line to you?” Ren said and gently massaged Lucy's backside.
+
+Lucy rolled her eyes. “That thing's not cute.”
+
+Ren stopped rubbing and leaned back to look Lucy in the eyes. “You know what? You're right.”
+
+Lucy's eyes widened at Ren's words. Lucy had just been joking.
+
+“It's not cute... it's spectacular.” Ren said and cupped Lucy's face with both hands. Lucy's face flushed red and Ren kissed her gently.
+
+“That day you showed up out of the blue to pick me up for a day at the mall... I thought I was seeing an angel.” Ren said and kissed her gently again. “I was so wrapped up in seeing your smiling face that it wasn't until we were back at the hospital, and alone in my room, that I noticed how tight your jeans were.”
+
+He really didn't notice what I was wearing!  Lucy thought and blushed really hard, almost turning a bright red. When he didn't say anything about me wearing the tightest jeans I could find, I thought maybe something was wrong... but he was paying me the best compliment I've ever had. Ren was so busy looking at 'me' that he didn't see the clothes that I wore for him!
+
+“It wasn't until you walked out of the room that I got the full view...” Ren said and sighed. “It was wonderful.”
+
+Lucy's blush stayed on in full force.
+
+“Did you paint those on?” Ren asked. “I mean... damn... they were tight.” Ren said and smiled. “You wouldn't believe how long it took Little Ren to calm down afterwards.”
+
+Lucy snorted a laugh and her blush eased. So he did notice eventually. Lucy thought. Mission accomplished!
+
+Ren gave Lucy another quick kiss and pulled her up to stand again. Lucy was still a head taller than Ren in the game, but Ren didn't mind. Ren hugged Lucy tightly and his chin fit right between her breasts.
+
+“Even though I'd like to see how far this could go...” Ren said as he looked up and Lucy blushed again. “Trying it in an alley is not the best place I'd like to do that.” Ren said and Lucy looked around to see if anyone had seen them. Ren let Lucy go and picked up the rocks and stored them into inventory. They might be needed again in the future. “I really do want to go and see this Mitchell guy.” Ren said. “I hope he's there.”
+
+Ren and Lucy walked out of the alley and down the street to the corner. They didn't see any kind of bow and arrow store and started to walk up the street and there it was. A sign was hung on the front of the building.
+
+The Fletching Bowman
+
+The Best Bows You Can Only Hope To Own!
+
+Lucy tugged on Ren's arm to get him to stop walking. “I don't have a good feeling about this place.” Lucy whispered.
+
+“Can you detect something?” Ren asked.
+
+“I'm not sure. Something is tickling my Rogue's perception.” Lucy answered.
+
+Ren nodded. “Okay.” Ren said and turned around to walk back down the street.
+
+“Ren! Wait!” Lucy said and walked faster to catch up to Ren. “You're not going in?”
+
+“Of course not.” Ren said and kept walking.
+
+“W-why not?” Lucy asked.
+
+Ren stopped walking and turned quickly. Lucy bumped into him and then bounced off. Ren caught her before she fell, though.
+
+“What the?!?” Lucy said. “That almost felt like hitting a brick wall.”
+
+“More like a rock, actually.” Ren corrected.
+
+“What?” Lucy said, confused.
+
+“It's a new ability a dwarf friend gave to me recently, called Rock Steady. I'm really hard to push over or trip with my feet on the ground.” Ren answered.
+
+“Oh... that's actually a nice ability.” Lucy said and rubbed her belly where Ren's elbow had caught her.
+
+“Are you okay?” Ren asked.
+
+Lucy nodded. I just lost 50 points of health, but I can't tell him that. It'll make him feel bad. Lucy thought. “Why aren't you going into the bow making place? I thought you wanted to find out how to make a bow?”
+
+Ren looked up at Lucy and stared intently into her eyes. Lucy started to blush a little.
+
+“I trust you, Lucy. I always have.” Ren said and took her hand. “If you say something is bothering you about that place, then I want nothing to do with it.”
+
+“I...” Lucy tried to speak but Ren staring at her made her blush harder. “I...I only had a vague feeling, Ren.”
+
+Ren smiled. “That doesn't matter. I've always listened to your advice, and you've never let me down.” Ren grinned. “Plus, if I don't listen to my girlfriend, who else am I supposed to listen to?”
+
+Lucy had a shocked look on her face and Ren chuckled.
+
+G-g-g-girlfriend?  Lucy stammered in her thoughts. I... I thought we were just... just having fun.
+
+Ren lightly kissed Lucy's hand and started walking down the street again, leading Lucy the whole way. Poeple whispered as they passed and Lucy didn't otice the popups of Fame increases she was getting.
+
+Ren led Lucy down the street to the back of the Library and went around to the front. Ren started walking up the steps and Lucy let his hand go. Ren stopped and turned around and saw Lucy's face. Ren wasn't sure what he saw there, but knew it wasn't happiness.
+
+Ren stood on the step above Lucy and it put their faces at equal height. Ren reached out to put a hand on Lucy's face and Lucy leaned back. Ren dropped his hand and sighed.
+
+“It's because I called you my girlfriend, isn't it?” Ren asked but Lucy didn't say anything. “Lucy... I've never had a girlfriend before. You know that.” Ren said. “Being around you is so mind-blowing that I don't know how to act sometimes.” Ren sighed again. “We've made out a few times and gone on a date. I thought that's what guys were only supposed to do with a girlfriend.” Ren looked Lucy in the eyes. “Was I wrong?”
+
+Lucy looked back at Ren. “Ren.. I... I don't...”
+
+“I guess I was.” Ren said and took a deep breath. “I'm sorry, Lucy. I didn't mean to push my assumptions onto you like that.” Ren turned away. “You obviously haven't thought about me like that at all.” Ren said and walked up the stairs to the Library. “I should have kept my big mouth shut about it.”
+
+“Ren... wait...” Lucy half-heartedly said.
+
+Ren stopped at the top of the stairs but didn't go inside. A tear formed at the corner of one eye and Ren wiped it away. I guess it was all just wishful thinking, right Teepo?
+
+“I think she really likes you, Ren.” Teepo said.
+
+Liking me is one thing... considering me as a boyfriend is apparently a completely different thing for her.
+
+“eeeeen!”
+
+Teepo, did you hear that?
+
+“reeeeeeeen!”
+
+Now I know I heard that. Ren thought and looked around.
+
+“REEEEEEEEEN!” A elven woman who wore glasses and had an enormous chest bellowed and tried to tackle Ren on the Library's steps. Ren's Rock Steady prevented that, but the woman quickly recovered from her rebound and picked Ren up in a big hug. Ren was half buried in her cleavage and he flailed around, helpless.
+
+“You came! YOU CAME!” She exclaimed to the heavens. “I sent those emails so long ago that I thought you might have forgotten... but here you are!” Elise said and squealed in delight and held Ren out at arm's length. Ren's feet were at least a foot from the ground. “I mean, you're a little late, but what's a few hours to an everlasting LOVE!!!” Elise squealed again and swung Ren around in the air like a child and then buried his head in her cleavage again with another hug.
+
+“E-x-c-u-s-e me.” Lucy said and tapped Elise on the shoulder.
+
+Elise gave Lucy a scowl. “You're excused.” Elise said and squeezed Ren harder. All that could be seen of Ren was the top of his head between Elise's breasts and his continuously flailing arms. “I'm busy with my love!”
+
+Lucy grabbed Ren's legs and gave a quick pull. Ren's head popped out of Elise's cleavage and Ren gasped for breath.
+
+Stat Change!
+
+Hold Breath Level 2 (Beginner 0%)
+
+“Let... him... go!” Lucy said and tugged after each word. Ren felt like he was on one of those old torture devices called a Rack, where they tie your arms and legs on opposite sides of the table and stretch you until your bones break. 3%... 5%... 7%... 10%. With each tug and squeeze, Ren's Health bar was slowly whitling away.
+
+I wonder if that will be a new record. Ren thought. Death by breast.
+
+Teepo chittered in laughter. “This is fun, Ren!” Teepo said and the hood flapped up and down as Ren was continuously pulled into Elise's cleavage and then yanked out again by Lucy.
+
+“No! He's mine!” Squeeze. “Mine, I tell you!” Squeeze. “He came here for me! Me!” Squeeze. “I love him!” Elise screamed at Lucy.
+
+“You're not...” Tug. “...loving him.” Tug. “You're...” Tug. “...killing him!” Lucy said.
+
+“That's... not helping!” Ren said when he came up for another breath of air.
+
+Lucy let go and Ren's face disappeared into Elise's cleavage again. Elise grinned and hugged Ren so tightly that Ren lost the breath he was holding and started to turn blue.
+
+Lucy came over to stand beside Elise. “Let him go.”
+
+“No!” Elise spat and tried to turn away.
+
+Lucy reached out and put a hand on Elise's shoulder. “Get your hands off my boyfriend. Now.”
+
+“What are you do-” Elise tried to say when Lucy punched her right in the face. Elise was so surprised that she didn't react at all and was knocked out cold. Lucy held onto Ren as Elise let him go and Elise's unconscious body slid down to lie on the steps of the Library.
+
+Ren hunched over and tried to catch his breath. “L-L-Lucy...”
+
+“I'm sorry, Ren. My Diplomacy skill wasn't working so I had to use a Sneak Attack.”
+
+Ren stood up and rubbed his face to try and get the feeling back into it. “Are... are you kidding?” Ren asked. “That... was... awesome!” Ren said and tried to laugh, but coughed instead and hunched over again.
+
+Lucy blushed at Ren's comment but immediately patted Ren gently on the back and then switched to massaging his chest. Ren breathed normally a moment later and stood up straight.
+
+“I thought your t-shirt was only a joke... but you really are a Rescue Ninja!” Ren said with a huge grin on his face.
+
+Lucy blushed harder. “Let's get inside before she wakes up.” Lucy said and Ren followed her inside the Library. They pushed through the crowd of people that had gathered and found an unoccupied stall near the back of the main room. Ren and Lucy sat down on opposite sides of the table. Teepo hopped out of Ren's hood and skittered up the wall. Don't go far, Teepo.
+
+“So... is it true?” Lucy asked.
+
+“Is what true?”
+
+“That you came here to meet her.” Lucy said.
+
+“Of course not! I have no idea who that woman is!” Ren said loudly.
+
+A loud “Shhhhhhh!” was heard and Ren winced. “Sorry.” Ren whispered.
+
+“I think I know who she is.” Lucy said. “She said something about sending you emails. What about them?”
+
+Ren was quiet for a minute. “Well... I think I remember seeing something... but I haven't checked my email since before my birthday.” Ren said. “It was just a couple of emails from the VR company, about when I was trapped in the game.” Ren's eyes widened. “Wait... I think... yes, there might have been a message from someone... what was that name... Edna? Elaine?”
+
+“Elise.” Lucy said.
+
+Ren raised an eyebrow. “That's it. Elise. I had no idea who that was, so I never opened it.”
+
+“You didn't even open it?” Lucy asked.
+
+“No. Why would I? If you got an email from some random guy, would you open it?” Ren said.
+
+“She's not some random woman, Ren.”
+
+“She... she's not? Who is she?” Ren asked.
+
+“She's the secretary from the VR company.”
+
+Ren squinted his eyes. “How would you know that?”
+
+Lucy sighed. “She's been to the hospital several times with technicians to adjust your VR headset.”
+
+Ren sat back in the chair. “When did these visits happen? I don't remember anything about them.”
+
+“They were usually scheduled for when you were playing the game, or when you were asleep.” Lucy said.
+
+Ren crossed his arms. “And I wasn't told because...”
+
+“Doctor's orders.” Lucy explained. “He didn't want the knowledge of them making changes to affect how you interacted with the system.”
+
+“What changes?” Ren asked with narrow eyes.
+
+“I honestly don't know.” Lucy said and leaned on the table to cross her arms under her chin. “They'd just show up and then asked for access to the equipment.”
+
+“...and since they actually own the equipment...” Ren offered.
+
+“No questions were asked about it and no answers were given.”
+
+Ren sighed. “Well, crap.”
+
+Lucy looked at Ren across the table. “What are you going to do?”
+
+Ren opened the message system and looked for the 'contact system administrator' option. There wasn't one. “The system won't let me contact the system administrator.”
+
+Lucy sat up straight and did the same thing. “Me, either.” Lucy said a minute later. “I wonder when they took that option out?”
+
+“Probably during that big update that they released after my little incident.” Ren said.
+
+Lucy winced. Not because it had happened, but that she hadn't been there when it did.
+
+“Well, since we can't do anything yet... I might as well do what I came in here to do.” Ren said and stood.
+
+“What's that?” Lucy asked.
+
+Ren walked up the aisle and Lucy followed behind. Ren arrived at the main desk and Rosie was sitting there.
+
+“Hi, Rosie.” Ren said.
+
+“Hi, Ren.” Rosie said and giggled.
+
+“I need some help.” Ren smiled.
+
+“I'll do what I can. What do you need?” Rosie asked.
+
+“I need a really good book on bow making.” Ren said. “Better make that one for basics, and one for advanced.”
+
+Rosie raised her eyebrows.
+
+“I promised someone a while ago that I'd make them a bow, but I don't know how... or even where to start.” Ren explained. “I figured if anyone around here would know what to do about it, it would be you.”
+
+Rosie blushed and giggled. “Do you have your Library Card?”
+
+“Of course I do. I never leave home without it.” Ren said and pulled it from inventory to hand it over.
+
+Rosie smiled, looked at the card, and tilted her head a little. “What was the tenth book you read?”
+
+“Hm?”
+
+“Your card says you've read 10 books, but only 9 are from here.” Rosie said and looked at Ren. Ren thought for a moment and smiled.
+
+“Oh, that! I read an old children's storybook at a friend's homestead.” Ren said. “Wait... that will record any book I read, and not just the ones I read while I'm in here?”
+
+Rosie nodded.
+
+“That's pretty cool.” Ren said.
+
+“Not as cool as your cloak.” Rosie said and giggled.
+
+Ren swished it from side to side. “This old thing?” Ren said and grinned. “The dire wolf didn't need it anymore.”
+
+Rosie's eyes widened. “You... you mean that you...”
+
+Ren nodded.
+
+Rosie squealed and hopped down from her chair and ran around the desk and jumped on Ren to hug him. “You must have been so scared!” Rosie said and tears came to her eyes. “You poor thing!”
+
+Ren chuckled and gave Rosie a quick pat and stepped back, pulling Rosie's arms off and holding her hands instead. “It wasn't like that, actually. As you can see, both Lucy and I are fine.” Ren said and smiled. “I'll tell you the story right after I get a chance to read a book or two.” Ren said and let Rosie's hands go.
+
+Rosie nodded and went back behind the desk to climb up into the chair. I'll send someone for them right away.”
+
+“Thank you.” Ren said and started to turn away, then stopped. “Rosie?”
+
+“Yes, Ren?”
+
+“Is there some kind of privacy area? Maybe a closed booth or room that we could use?”
+
+“Why?” Rosie asked.
+
+“I'd like to read the book in private so I won't disturb the other people here, but after I'm done, we can fill you in on all the details about this.” Ren said and lifted the front paw of the cloak. “It's not something to talk about out here, wouldn't you agree?” Ren said and looked around.
+
+Rosie looked around herself and nodded. “Here's the key to room 12 down the hallway. Come and get me when you're done with the books.” Rosie said and handed Ren a small key. Ren nodded.
+
+“Thanks, Rosie.” Ren said and waved for Lucy to follow him. They went to a familiar door and opened it. They went inside and walked down the hall to room 12 to wait, leaving the door open.
+
+“That was quite the show you did there.” Lucy said.
+
+“What do you mean?” Ren asked.
+
+“You were playing the hero pretty good out there to dazzle her.” Lucy said and sat down.
+
+Ren sat down across from Lucy and smiled. “I wasn't playing.” Ren said and grinned at Lucy's opened mouth that made a cute 'o' shape.
+
+The attenant came in with a single book and placed it on the table. “Thank you.” Ren said and shook the man's hand, placing a silver coin in it.
+
+“Y-you're welcome, sir.” He said and bowed. “I hope you enjoy the book.” The man left and shut the door.
+
+“Did you just tip that guy?” Lucy asked.
+
+“Yup.”
+
+“Why?”
+
+Ren shrugged. “He wouldn't be working here if he didn't need money.” Ren said. “Since he's not out adventuring, this would have to be his best source of income.”
+
+“How do you know that?” Lucy asked.
+
+“I was playing the game for a week real time before I earned enough money to get a silver coin.” Ren explained. “It takes a lot of hard work and dedication. I just wanted to help him out a bit, is all.”
+
+Lucy reached over and took Ren's hand. “You are a really sweet guy.”
+
+“Thanks.” Ren said and looked at the book.
+
+Fletching Mastery
+
+A Comprehensive Guide
+
+Longbows, Shortbows, Arrows, Crossbows, Bolts
+
+And the Limitations of their Magical Properties
+
+Rank: B
+
+Ren stared at the cover.
+
+“What is it?” Lucy said.
+
+“It's... oh, boy... I'm not even supposed to see the cover of this book, let alone be allowed to read it.”
+
+“What do you mean?” Lucy asked.
+
+“My library card is only a rank D... and this book is a B.”
+
+Lucy's eyes widened. “She must really want to hear the story.”
+
+Ren nodded. “This might take a while, even with Speed Reading.” Ren said and took out the scraps of spider silk cloth he had, the portable dying station, spider silk thread, and the portable tailor's kit. “You can have some fun with this while you wait.” Lucy nodded and started playing with the different colors and sewing things together.
+
+Ren opened the book and started to read. The book was about 3 inches thick, Speed Reading kicked in, and Ren flipped the pages faster than normal. An hour later when Ren got about halfway through, Speed Reading hit Level 6 and Ren flipped the pages faster. 45 minutes later, Ren closed the book and sat back.
+
+“Well... that was... enlightening.” Ren said and got a series of popups.
+
+Notice!
+
+You have read a book beyond your level and understood it's contents.
+
+Stat Change!
+
+Intelligence +5
+
+Wisdom +5
+
+Notice!
+
+You have learned new skills!
+
+Bow Making Level 1 (Beginner 0%) - This skill allows you to construct bows.
+
+Arrow Making Level 1 (Beginner 0%) - This skill allows you to construct arrows.
+
+Crossbow Making Level 1 (Beginner 0%) - This skill allows you to construct crossbows.
+
+Bolt Making Level 1 (Beginner 0%) - This skill allows you to construct crossbow bolts.
+
+Higher levels of these skills will allow quicker build times and higher quality products.
+
+Notice!
+
+Your extensive knowledge has given you bonus levels in your new skills!
+
+Bow Making Level 3 (Beginner 0%), Arrow Making Level 3 (Beginner 0%), Crossbow Making Level 3 (Beginner 0%), Bolt Making Level 3 (Beginner 0%).
+
+Notice!
+
+You have discovered Hidden Knowledge buried deep within the pages and between the words.
+
+New Rune!
+
+Your skill Hidden Knowledge has allowed you to discover a new rune: Enhancement.
+
+Stat Change!
+
+Hidden Knowledge Level 2 (Beginner 0%)
+
+Ren took out his Book of Runes and flipped to the single runes section and to the last page.
+
+Rune of Enhancement
+
+This rune grants you the ability to enhance 1 aspect of what you enchant at the time of casting. Quality, Toughness, Piercing, Sharpness, Brightness, Speed, etc. can be increased by 5%
+
+Ren took a few moments and made the double, triple and quadruple glyphs for the new rune and put the Book of Runes away. Ren rubbed his eyes and stood up. Ren stretched and walked around the table to stand beside Lucy.
+
+“What have you got there?” Ren asked.
+
+Lucy tried to hide it, but Ren saw what it was.
+
+“Lucy...” Ren said and gently took it from Lucy's hands.
+
+“I know... it looks horrible!” Lucy said and tried to take it back.
+
+Ren kept it out of her reach and put a hand on her shoulder. “Lucy, it's great.”
+
+“You're just saying that.” Lucy said.
+
+Ren shook his head. “I haven't seen anything like it before.” Ren said and held it up. “It's wonderful.”
+
+Lucy looked at Ren and saw the smile and wonder on his face. He likes what I made!
+
+“Can I keep it?” Ren asked.
+
+“You want to keep it?” Lucy said. “Why? I was just playing around with the cloth...”
+
+“Well you made it, for one thing... for another, I didn't know you could make things like this.” Ren said and smiled. “I mean, you helped teach me how to sew and I figured you could have fun with the cloth and dying station... but this!”
+
+Lucy blushed a little and then nodded. “You can keep it.”
+
+Ren grinned and leaned down to give Lucy a kiss. It turned into another short make out session and Lucy pulled back.
+
+“Ren... outside the library when you called me your girlfr-”
+
+Ren put a finger on Lucy's lips. “It's okay.”
+
+“But I want to explain...” Lucy tried to say and Ren shook his head.
+
+“I heard what you said when you punched out that woman to save me.” Ren said and put the thing Lucy had made on the table, facing them. “Does, 'Get your hands off my boyfriend', sound familiar?” Ren grinned and Lucy blushed harder.
+
+“When she grabbed you like that... I couldn't think straight... and it just slipped out.” Lucy said and Ren kissed her again.
+
+“That's why it doesn't matter what happened before that.” Ren said and kissed Lucy's neck.
+
+“Ren... we can't do anything in here...” Lucy said.
+
+“We can't?” Ren said. “Why else do you think I asked for a private room? To read a book?” Ren chuckled and took out the rocks with concealment runes on them and put them on the table and the floor. “I could read a book anywhere.” Ren looked Lucy in the eyes. “What I really wanted to do...” Ren said and kissed Lucy like he'd been forcing himself not to do all day. Lucy's spider silk cloth creation sat on the desk and watched them in silence.
+
+It was a miniature version of Ren.

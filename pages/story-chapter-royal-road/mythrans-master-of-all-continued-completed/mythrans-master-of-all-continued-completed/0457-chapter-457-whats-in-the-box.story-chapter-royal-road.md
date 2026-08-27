@@ -1,0 +1,299 @@
+---
+id: c8e22472-384c-5536-8955-16a856921398
+page-type-slug: story-chapter-royal-road
+title: "Chapter 457 - What's In The Box?"
+slug: 0457-chapter-457-whats-in-the-box
+partOf: mythrans-master-of-all-continued-completed
+position: 457
+ownLength: 3201
+unit: words
+publishedAt: 2017-12-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181343/chapter-457-whats-in-the-box"
+royalRoadId: "181343"
+---
+
+Ren felt an intense spike in desire about two hours later, and opened his eyes. Someone just realized I'm naked. He thought in amusement, and then felt a hand touch his private place. It took him a minute to discern which of the maids it was, since he couldn't actually see them; but, after sifting through her swirling emotions, he discovered that it was Andrela.
+
+“I'm awake, so go ahead.” Ren said softly. He felt her happiness, and then he felt her mouth as she kissed it. She did other things, and it didn't take long for him to finish. “Thank you.”
+
+Ren felt her amusement at being thanked for such a simple thing, and then the pile of maids on top of him shifted slightly. A moment later, he was face to face with Andrela, and then they joined together. The situation was just as intense as her emotions, and Ren and Andrela concentrated on each other as she moved. They could each feel how the other felt, thanks to the shared Aura, and they both eventually reached a crescendo. The wisps of smoke-like light came from their chests and joined together, just as it did when he and Frikara had done a similar thing. When it became a solid beam, they finished together and the binding was complete.
+
+“B-by the g-gods.” Andrela said as she collapsed on top of Ren, and dismissed the popup of her contract removal. “T-that w-was...”
+
+“...really intense.” Frikara said.
+
+Ren and Andrela looked at her, and she was still snuggled up with Ren.
+
+“I thought I... I was going to lose my mind!” Andrela said.
+
+“I know.” Frikara chuckled and pat her head. “You needed it a lot more than Ren did.”
+
+“Hey, I didn't start this.” Ren defended himself.
+
+“You're naked in bed with 5 women.” Frikara said, and he felt her teasing emotions. “If you didn't want to have sex, you would have left your underwear on at least.”
+
+It was Ren's turn to chuckle. “All right, I guess that's a fair conclusion.”
+
+“Can I be next?” Verwynn asked as she looked at his still ready condition. “But... you know, I... I want...” Her face flushed red, and Ren cupped the side of it.
+
+“Yes, I know exactly how you like to be treated.” Ren said, and pleased her exactly like she wanted. They formed a bond as well, which replaced her contract, and she moved off to make room for Lusinia.
+
+“I'm still having a hard time believing you can keep doing this.” Lusinia said as she joined with him. “By the gods, you really have Mjolnir!”
+
+Ren laughed and made love to her, then formed the bond. Lusinia rolled off when they were done to languish in the after-effect of being freed and satisfied at the same time. Navruth was the last, but Ren could feel her reluctance.
+
+“What is it?” Ren asked.
+
+“C-can I wait?” Navruth asked. “I... well, I want our time together to be special.”
+
+“Navruth.” Ren said and sat up. “Our time together is special.”
+
+“But...”
+
+“I'm making sure I spend an equal amount of time with each of you.” Ren said and touched her arm. “No sharing, no doubling, no two or three at a time.” He smiled. “Even if we are all in the bed and naked, it's all still one-on-one.”
+
+“I...”
+
+“Even when I had Anabelle here, I didn't ask anyone to participate. We are all together, but we are also separate.”
+
+“I know... I... it's just...”
+
+“We'll give you your time 'alone' with Ren.” Frikara said, and stopped concentrating on the Contact Aura. The other maids stopped concentrating on the shared Aura as well, and as each left, Navruth looked at them. Tears formed in her eyes, and she hugged each of them.
+
+“Ren shares everything with us; but sometimes, not sharing everything is what we need.” Frikara said.
+
+“Thank you.” Navruth let her go, and she turned to Ren.
+
+“It's just us now.” Ren said, and Navruth felt his strong emotions all by herself. It made her shiver, in the good way, and Ren laid her back on the bed. They didn't have to concentrate on each other, because it was only them in the shared Aura, and he gave her all of the attention that she wanted. Navruth's emotions almost burst out of her as Ren kissed her all over, and by the time he had worked his way up to her face, her passion was so intense she was almost frantic to have him.
+
+Ren kissed her on the lips. “I'm sorry I didn't realize that...”
+
+“Just take me!” Navruth said and wrapped her arms around his neck. “I'm yours! All yours!”
+
+“Thank you.” Ren said and kissed her. The wisps of light formed between them and became solid, and then he joined with her.
+
+“GODS! GODS! GODS!” Navruth yelled over and over as Ren made love to her while they were already bonded. “I love you!” She was the first to feel it this way, and that just hit all the buttons she didn't realize she had. “I LOVE YOU!” She yelled and finished. “AHH!”
+
+Ren felt her extreme pleasure, and that hit his button, and he finished, too. After several minutes of just laying there and holding each other, Ren rolled off and left her breathless.
+
+“Can we...” Frikara started to ask, and Navruth had already nodded several times.
+
+When the other maids dropped back into the shared Aura, they all gasped and fell back onto the bed from the experience.
+
+“By the gods.” Frikara said and her hand found Navruth's and gave it a squeeze. “You hid it well.”
+
+Navruth chuckled, and they all felt she was laughing more at herself than at the situation. “I didn't realize I was hiding anything.” She looked at Ren, and used her free hand to rub his chest. “You bring everything out of us.”
+
+“I'm pretty sure it was you that brought it out of me.” Ren joked, and she smacked his chest.
+
+“Ren! I'm being serious!” Navruth said.
+
+“I know you are.” Ren said and took her hand, and lifted it to kiss it. She tried to pull her hand away before he could insult her; but he held on, turned it over, and kissed the inside of her wrist. Her mouth fell open and he felt her shock.
+
+“R-Ren, you...”
+
+“Before I decided to go all the way with you, I had tried to keep my distance to hold you all at bay.” Ren said and picked up Frikara's hand and kissed her wrist, too. “None of you wanted that, though.”
+
+“Of course not!” Frikara said as Ren kissed Lusinia's wrist next. “You owned us, and we wanted to please you!”
+
+Ren chuckled and took Verwynn's hand. “That was why.” He said and kissed Verwynn's wrist. “It would be wrong for me to take advantage of you like that.”
+
+Andrela held out her hand with a huge smile on her face, and Ren felt how happy she was. He gave her wrist extra kisses to make her giggle, then she leaned in and kissed his cheek.
+
+“We knew you felt that way.” Frikara said. “That's why none of us had a problem with you using us if you wanted.”
+
+Ren smiled. “If I had done it at the time, I don't think any of us would be anywhere near as happy as we are now.”
+
+Ren didn't think that anyone could argue that, and then Andrela spoke.
+
+“We would have had a lot more sex, though.” Andrela said, and everyone laughed.
+
+Now that he had his hands free, Ren took out the Gift Box that was in his inventory.
+
+“Ooo, what's that?” Andrela asked.
+
+“Let's find out.” Ren said and opened it. The room was engulfed in a golden glow, and then it faded. The box had disappeared, and in it's place was a ring. It was made of platinum and had a single blue sapphire stone set in it. “Identify.”
+
+One Wish Ring
+
+Wish is the mightiest force that any player can wield. By simply speaking aloud, you can alter reality to better suit you. Even a wish, however, has its limits.
+
+As examples, a wish can produce some of the following effects:
+
+Duplicate any wizard or sorcerer spell, even if you don't know it. Spells duplicated in this way cannot be dispelled or deflected
+
+Reverse any spell effects
+
+Create any one item worth up to 250 platinum coins in value
+
+Create a magic item for free, or add to the powers of an existing magic item for free and without restriction
+
+Gain immunity to one of the following: poison, sleep, stun, paralysis, disease, life drain, or exhaustion
+
+Grant yourself or another +10 to any statistic
+
+Remove all injuries and afflictions from yourself and everyone else in your party
+
+Undo a misfortune or a single recent action. Reality reshapes itself locally to accommodate the new outcome. For example, a wish could undo an opponent’s successful dodge, or a foe’s successful critical hit on you, etc. The outcome however, may be as bad or worse than what could have happened if left unaltered.
+
+Warning: You may try to use a wish to produce greater effects than these, but doing so is dangerous. The wish may pervert your intent into a literal and undesirable fulfillment. Also, you cannot revive an already deceased ally, as those consequences can't be altered in this fashion.
+
+“Wow.” Ren said. “This... I can't believe something like this even exists.” He said, and told them what it did, or could potentially do.
+
+“Melt it.” Frikara said.
+
+“Wh-what?”
+
+“That's too powerful to have, even for you.” Frikara said. “What will you do with it? Keep it forever? Sell it for... well, I think it's priceless, so everything? What will you use it on? Or who? On yourself? On others?”
+
+“I don't know.” Ren said, and tried to use Appraisal on it. It had a dash for the value, so he knew Frikara was right. It was priceless. He examined it and received the recipe for it; but, when he tried to open it, it was greyed out and he couldn't choose it.
+
+“Ren.” Frikara said, and he felt her deep concern for him. “This is an immense weight upon your shoulders.” She said. “You are going to be thinking about it all the time.”
+
+Ren opened his mouth to say that he wasn't; but, then he started to laugh. “Frikara, you are absolutely right.” He said and slipped the ring onto the Hand of Glory around his neck. “I've been thinking of what I can use it for constantly.”
+
+“Then get rid of it.” Frikara said.
+
+“I can't.” Ren said. “If I do, I'll be thinking about everything that I could have done with it.”
+
+Frikara felt the truth in his words, and sighed. “Ren, please...”
+
+Ren gave her a passionate kiss, and stood up. “Don't worry, I won't think about it too much.”
+
+“Don't you dare lie to me.” Frikara said sternly and stood up beside him.
+
+Ren smiled. “Okay, then. You can worry.”
+
+“Ren!”
+
+“Frikara, I can't undo opening... the gift... box...”
+
+“REN!”
+
+Ren took her into his arms and kissed her hard. Frikara reacted automatically and put her arms around him. She kissed him back just as hard, and they stayed that way for several minutes. Ren broke the kiss and he felt she was still concerned.
+
+“Thank you.” Ren said. “I won't let it affect me like that anymore.”
+
+“But...”
+
+“I'm keeping it; but, I won't start second-guessing every decision I make.”
+
+Frikara was about to argue with him, and he leaned in close to whisper in her ear.
+
+“I won't wish to break our bond, or my bonds with the others; so you can relax.” Ren kissed her ear and felt her shock that he had guessed her concern. “You're mine now, and I won't ever wish that away.”
+
+Frikara's heart beat twice as fast as normal, and she had a hard time catching her breath.
+
+“Darling, I said to relax.” Ren whispered and kissed her ear again. Frikara's body trembled at his words, and he helped her sit down on the side of the bed. “Breathe. Just breathe.”
+
+Frikara took several deep breaths, and he felt her calm down.
+
+“I've got some Adventurer's business to take care of, but when I come back, I'm going to work on my armor; then I'm taking Zetaya to the closest infected city I can find inside the High Elven Kingdom.” Ren said. “I don't have the time for a full scale battle like I had planned, where I could round up all the stragglers, so I'm just going to settle for surgical strikes against the enemy.”
+
+“B-be c-careful.” Frikara managed to say.
+
+“Zetaya already agreed to do all the dirty work.” Ren said and grinned. “I'm just going along for the ride, and for emotional support.”
+
+“Don't have too much fun, then.” Andrela said as she moved across the bed to hug Frikara.
+
+“I'll be back soon.” Ren said and stopped concentrating on the shared Aura. “Logout.”
+
+********
+
+Ren slipped off the VR headset and was greeted by an unhappy face that was surrounded by short blonde hair that was slicked back, and on a 5 foot 3 inch tall body.
+
+“I'm sorry, Denise. I needed sleep.” Ren said as she took the headset.
+
+“Sleep, was it?” Denise asked and put the headset aside. “I already put the blanket and your dirty clothes in the washing machine.”
+
+“What? Why?” Ren looked down at himself and saw that his pyjama pants and underwear were missing, and he had a towel wrapped around him and one under him. “Oh, damn. What happened?”
+
+“Your safety measure of wearing protection failed.” Denise said. “It broke and made a mess.” She said. “A huge mess.”
+
+“I'm so sorry.” Ren said and sat up. “I logged out to eat and to clean up.” He said and moved to the edge of the bed. “Was it bad?”
+
+“I got a towel under you in time, so I don't have to wash the sheets or clean the bed.” Denise said. “It could have been bad, though.”
+
+“I'll be more careful in the future.” Ren said and tried to stand up. “I won't wait so long between checking, okay?” He teetered a little, and his leg still hurt; but, he managed to stand on his own. “Please don't be mad.”
+
+Denise smiled and shook her head. “I'm not mad.” She said and helped him walk to the bathroom. “I'm just glad Barbara already went home before it happened.”
+
+Ren's face flushed red as he opened the towel and used the bathroom. “Yeah, that would have been embarrassing.”
+
+Denise chuckled. “This wasn't embarrassing enough for you?”
+
+“I've seen you naked, and we've had sex.” Ren said as he cleaned himself off. “Barbara isn't anywhere close to having either of those things happen!”
+
+Denise laughed and nodded. “Wash your hands and I'll help you get dressed.”
+
+Ren washed his hands and she helped guide him back out to his room and to the dresser. She helped him change and he climbed back onto the bed and sat up by the headboard.
+
+“I've got your breakfast here, but I'm sure it's cold by now.”
+
+“That's fine.” Ren said. “What is it?”
+
+“Cereal.” Denise laughed and pushed the rollaway cart over. It had the tray on it with a bowl, a big glass of milk, and his supplement drink.
+
+Ren looked in the bowl. “No way! Is that...”
+
+“A source of 3 essential nutrients and a crap load of sugar.” Denise said and poured the glass of milk over it, and Ren laughed.
+
+“Thanks, Denise.” Ren said and touched her arm. “Really, though. Thank you.”
+
+“It's my job to take care of you, even when you make huge messes.” Denise said and pat his hand. “Now eat and get back to your game.”
+
+Ren nodded and ate. He didn't rush like Denise thought he would, and when he was done of the meal, thanked her again.
+
+“You don't have to keep thanking me.” Denise said.
+
+“I do if I don't want you to think I'm taking you for granted.” Ren said. “I'm not, by the way.”
+
+Denise laughed. “I know you aren't.”
+
+“Good.” Ren said. “Now drop your pants and let me thank you properly.”
+
+“Excuse me?”
+
+“I'm about to go on a desperate mission to save the entire game world.” Ren said. “I want to make sure I take the best feeling in this world with me.”
+
+“Ren, I'm working.” Denise said. “You can't possibly think that...”
+
+“You said it's your job to take care of me.” Ren said. “My tongue needs you.”
+
+Denise snorted a laugh, and Ren pat the bed beside him. She took the rollaway cart away and climbed up on the bed to kneel beside him.
+
+“You do realize this is a complete perversion of the nursing profession, don't you?”
+
+“I can suspend you for the next 20 minutes if you want.” Ren said, and she looked at him.
+
+“Actually, that's a good idea.” Denise said.
+
+“You're suspended for 20 minutes, and can't work as my nurse.” Ren said and grinned. “Now drop 'em.”
+
+Denise laughed and shook her head as she undid her pants, then pulled them and her underwear down to her knees.
+
+“Turn around, please.” Ren said.
+
+Denise managed to shuffle around enough to do that, and she felt a hand on her back. She bent over at the gentle urging, and she blushed at the embarrassing position as she rested her head on the bed.
+
+“What a sight.” Ren said and kissed her there, and Denise didn't wonder why she was doing this for him anymore. True to his word, Ren used up all 20 minutes to make sure that Denise felt well and truly thanked. He picked up the VR headset and put it on, and had a huge smile on his face.
+
+“Flow Login Start.”
+
+*
+
+Ren materialized back in the bedroom and saw that the maids were back in bed and in a pile. He put on his Dire Wolf Hooded Cloak and waved to Teepo, who flew down and landed on his shoulder. Ren activated Sneak, left the apartment, and went downstairs. He crept past Princess and the two dogs, and went outside. It was still dark out, since he still had most of the night left, and ran across the street.
+
+“Hi, Ren.” Tee-one said. “Ruck and I finished the lumber yard, and added all the tools the workers would need.”
+
+“Thanks, guys.” Ren said and took out his armor from inventory. “It's time to update this.”
+
+“Oh, I agree. It's almost completely outdated.” Tee-one said. “Let's disassemble it so I can reforge it and enchant it, then use Double Infusion to enchant it again, then you can use Double Infusion.”
+
+“Oh, boy!” Ren said, excitedly.
+
+“I'll enchant all the diamonds again and use Double Infusion to double their enchantments.”
+
+“Then I'll use Double Infusion on them, too.” Ren said and smiled. “Are we abusing that ability too much?”
+
+“Yes, we are.” Tee-one said and smiled back. “Let's get to work.”

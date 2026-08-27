@@ -1,0 +1,303 @@
+---
+id: c6a8a476-623a-5bd6-a26c-97c3b65089b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60 - Donan's Teachings"
+slug: 0044-chapter-60-donans-teachings
+partOf: mythrans-master-of-all-continued-completed
+position: 44
+ownLength: 3941
+unit: words
+publishedAt: 2016-10-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99279/chapter-60-donans-teachings"
+royalRoadId: "99279"
+---
+
+Ren woke up in the same spot next to Lucy's phantom form. Ren saw that he was a bit early and Donan's shop was still closed. Ren walked over to Sally's and it was still in darkness, too. Ren kept going down the street and noticed that Issac's light was on. Ren knocked, just to be polite, and entered Issac's shop. Issac had his back turned to the door again. Ren didn't want to disturb Issac, since Ren's knock hadn't gotten Issac's attention, and activated Sneak. Ren creeped across the floor; careful of where the boards looked to be weaker, and avoided stepping on them. Ren saw that Issac was enchanting something and slid around the side of the table and just stood there. The item was a gauntlet. Issac leaned in close to the intricate glyph that was etched onto the back of the metal hand.
+
+“Activate.” Issac said. The gauntlet glowed for a moment... and then imploded as if it was a soda can and all the air had been sucked out of it.
+
+“Ah, dammit.” Issac crumpled up the sheet of parchment he had in his hand and threw it across the room and into a pile of similarly crumpled balls of parchment.
+
+“I didn't think Dark Magic could be imbued like that.” Ren said and poked the collapsed metal glove with a finger.
+
+“Ahhhhh!” Issac jumped away from the table and clutched his chest. “By the love of...” Issac shook his head. “Ren! What the hell are you doing?”
+
+“I came to visit.” Ren said and smiled. “It's been a while since I've been here.”
+
+Teepo chittered in delight because he always enjoyed when Ren unintentionally scared people.
+
+Issac calmed down and came back to the table. “Just a visit?” Issac asked. “You don't have any questions?”
+
+Ren thought about it.“Actually... I do.” Something had been nagging at Ren for a while, now. “When you first told me about enchanting, you said that the enchanment was permanent. I figured out how to activate them without hitting them on something, but how do you turn them off?” Ren remembered that he and Aimus had worked really hard to soak every tree with water and then disenchant each rune Ren had placed. It seemed like a difficult thing to do... especially if it had to be done each time. The same thing for at the campsite and when Ren was waiting for Lucy. It was a waste of mana, too. You only get back a fraction of what was put into an enchantment when it was absorbed again.
+
+“Oh, that? Just say 'Deactivate'.” Issac said and took out another sheet of parchment.
+
+Ren just stared at Issac as Issac drew another intricate glyph on the paper. “You... you're not kidding, right? Just saying 'Deactivate' will stop the enchantment?”
+
+Issac nodded and kept drawing.
+
+Ren thought about it some more. Well, I guess that would make sense if 'Activate' starts the enchantment without having to touch it.  Ren laughed. I should have known it would be that simple.
+
+Stat Change!
+
+You have gained some understanding about basic enchanting.
+
+Wisdom +1
+
+“Can anyone do it?” Ren asked. “Activating and Deactivating, I mean?”
+
+“No. Unless you give whatever you're enchanting the impression of who you are making it for, only the enchanter can deactivate it.”
+
+Ren thought about that... and figured he should get a message to Aimus somehow to tell him he can deactivate the water rock Ren had given him and didn't have to break it to get it to stop. Then another thought occured to Ren.
+
+“So... how do rings work?” Ren asked.
+
+“Hm?” Issac said and continued drawing.
+
+Ren was watching Issac work, but couldn't make heads or tails out of whatever it was that Issac was drawing.
+
+“Ah. You remember the simple copper ring I gave you?” Issac said.
+
+Ren nodded, took out the ring, and placed it on the table.
+
+“If you just enchant something with defense in mind, it will always be 'on' and protect the wearer.” Issac said and picked up the ring. “If you try to put an offensive component into it, there's a good chance it will take the finger of whoever's wearing it.”
+
+“Really? Why?” Ren enquired.
+
+“It's difficult to direct an enchantment once it's activated.” Issac said and Ren nodded. Issac smiled. “I see you've had some experience with it, then.”
+
+Ren nodded again.
+
+“An enchantment emanates outwards. On a ring, which is round, it will go outwards, and possibly inwards, in all directions. Some rings are flat on the inside, but the rounded edge of the ring still touches the finger. That's why protections or enhancements are usually cast on them.” Issac said and put the ring down on the table next to Ren, and started drawing again.
+
+I guess that's why Issac had used the fire example when he said if you enchanted something with just 'fire', whoever wore it would more than likely just light themselves on fire. Ren thought about it. I wonder if it would work if there was a raised flat area on the front of the ring?  Ren pondered.
+
+“Why not ask?” Teepo said.
+
+Issac said I should be finding stuff out like this for myself. He's given me more help than he realizes.  Ren thought to Teepo. I'll do some experimenting with it later.
+
+Issac finished his drawing and turned around to get another metal gauntlet. Ren activated Decipher and stared at the drawing. Ren could see the Dark rune mixed throughout, but that was all he could make out. This is definitely at least an Expert glyph. Ren thought.
+
+Issac put the gauntlet on the table, stared at the drawing, and placed a hand on it.
+
+“What are you trying to do? Increase the impact of a punch or the swing of a weapon?” Ren asked.
+
+Issac turned his head to stare at Ren as the glyph etched itself on the metal glove. “How did you figure that out?” Issac said, a little shocked.
+
+Ren shrugged. “I saw the Dark rune in your drawing. Since it manipulates gravity, either you're making it so that whoever uses the glove can either punch really hard, or swing a sword hard enough to do more damage.”
+
+“Yes, that's exactly right.” Issac said.
+
+Notice!
+
+You have discerned the nature of an enchantment using only a single clue.
+
+Intelligence +1
+
+“It's a special order. I've been working on it all night and I can't get it to work.” Issac said.
+
+Ren leaned in and stared at the drawing. Nope, still nothing new. “Well, I know you aren't going to tell me what's in this new glyph... otherwise you'd be giving away some of your best secrets.” Ren said and smiled as he stood up straight. “But... if it was me... I'd have a good portion of the runes or glyphs as reinforcement for the glove... maybe a third? Another good portion as protection... not for the person, but for the glove since it's going to be taking the brunt of the punishment... and the rest as Dark runes or glyphs.”
+
+Issac stared at Ren like he had never seen him before. “What... what made you come up with that mixture?”
+
+“If all you put on it was mixes of Dark runes, then that would have been all I saw. It wasn't. I couldn't make anything else out, though... so it made me think of what else should be included. I haven't seen anything even close to what you have here...” Ren said and waved at the drawing. “...so I just thought about how I would do it.” Ren shrugged again. “If the person is strong enough to use the glove in the first place, then it's not the hand that needs to be protected. It's the glove.”
+
+Issac picked up the piece of parchment with the glyph on it, then crumpled it up and tossed it with the others. Ren watched as the parchment landed near the pile and Issac took out another piece.
+
+“You know... you could have just flipped that over and used the other side.” Ren said.
+
+Issac laughed. “Mindful of my wasteful ways, are you?”
+
+Ren smiled. “I guess someone has to rein in your appetite for destruction. It might as well be me.”
+
+Issac laughed again and clapped Ren on the shoulder. “Naming you my novice was a better choice than I could have imagined.” Issac said and nodded to the gauntlet. “Go ahead. Dismantle it.”
+
+Ren stared at Issac, who smiled.
+
+“There's only a slight chance you may learn something from it; but since it's here in my shop, and I'm letting you do it... I'd say the odds are pretty good.”
+
+Ren reached out a hand and touched the metal glove where the enchantment was. The glyph glowed for only a second and then broke apart.
+
+Notice!
+
+You have learned a new glyph: Augment
+
+“Was it something good?” Issac asked with a smile on his face.
+
+Ren took out his Book of Runes and Issac's eyes widened at it's doubled size. He's already past Intermediate Level 5?
+
+Ren flipped through the pages and Issac averted his gaze. Issac was sure there wouldn't be anything in it that he hadn't seen before, but it was respectful to not stare at another's hidden work. Ren got to the end of the single rune pages and read the new rune.
+
+Augment
+
+This rune adds +1 to any stat specified at the time of enchantment.
+
+Ren's eyes bulged and told Issac what it said.
+
+“Yes, defintely something good.” Issac said.
+
+Ren did his glyph imagining and made the double, triple and quadruple rune glyphs to fill the page in only a moment. Issac couldn't help but stare at how fast Ren had done it and forgot that he wasn't supposed to be looking into Ren's book. Ren touched the tarnished copper ring that was still on the table and tried to use the new glyph that combined 4 of the Augment runes.
+
+“Ren, don't!” Issac said, but it was too late.
+
+The copper ring glowed for only a moment... and then it melted. The smell of burning wood filled the little shop quickly and Issac poured some water on the copper puddle.
+
+“Sorry.” Ren said.
+
+“Only certain materials can hold higher level glyphs.” Issac shook his head. “That old ring would barely hold a double rune glyph, let alone one with 4.”
+
+Ren tried to pry the copper from the desk with his fingers, but it was stuck tight. Ren equipped his blacksmith's belt and used a chisel to pry up the melted metal. Underneath was a black and charred pit about a quarter of an inch deep. Ren stored the copper and the blacksmith's belt into inventory.
+
+“Just be more careful in the future. I'd use iron if you want to do more powerful glyphs on a ring.” Issac said and then drew a glyph on the parchment. Ren followed Issac's movements but still couldn't tell what it was. Since most of it was made of glyphs Ren hadn't seen before, he assumed that he wouldn't learn anything else. Once the glyph was completed, Ren recognized the new rune he had received as well as the Protection and Dark runes.
+
+Issac held onto the parchment and placed a hand on the gauntlet. The glyph etched itself onto the metal glove and Issac leaned in closely. Ren, just as curious as Issac, leaned in as well.
+
+“Activate.” Issac said.
+
+The glyph glowed and Issac and Ren watched for the uncoming implosion... that didn't happen.
+
+“Yes!” Issac said and raised his hand in the air. “Ren, thank you for helping me figure this out.” Issac tried to pick up the glove and it didn't move. “Ugh.” Issac grunted. “Deactivate.” Issac picked up the glove and put it into a finely carved wooden case and closed it. “I'm sure I would have figured it out eventually; but your insight into making the glove itself stronger instead of the person wearing it, made it a whole lot easier. Thank you.”
+
+“They don't call me your novice for nothing.” Ren grinned.
+
+Issac looked outside and saw that dawn was apparoaching. “Well, it looks like I spent yet another whole night working.” Issac chuckled. “It's the bane of our existence, isn't it?” Issac said and winked at Ren. “Time. It waits for no man.” Issac picked up the box and put a lock on it. “I've got to get this sent off right away.” Issac said and walked to the front of his shop. Ren followed quickly and stepped out just before Issac shut the front door.
+
+“See you later.” Ren said and watched Issac walk off down the street. “I probably should have asked him where to send messages.” Ren shrugged and turned around. Donan's shop was open now and Ren hurried over.
+
+“Good morning!” Ren said.
+
+Donan jumped and Teepo chittered in laughter.
+
+“Jeezus! Ren where did you come from? No, nevermind. Stop sneaking around and get in here.” Donan said and Ren walked over to where Donan stood. “I can't believe it's still going.” Donan said and bent to look at the bottom of the forge. “It's still just as hot as it was yesterday.”
+
+“It'll stay that way, too.” Ren said. “But... if you have to leave the shop and don't want to worry about it burning down or something, just say 'Deactivate' and it'll stop.”
+
+Donan got near the forge and said 'Deactivate' and the fire and wind glyphs turned off. The stones were still hot, but it wasn't running anymore.
+
+“Just say 'Activate' and it'll start up again.” Ren said.
+
+“Activate.” Donan said and the forge lit again.
+
+“Ren, I didn't say this before. Good work! This is going to save me so much money in coal and trees.” Donan said and grinned.
+
+The mention of money reminded Ren of the 2 large sacks that Nodal had given Donan. Ren looked around but didn't see them. “Where did the money go? I hope no one stole it!”
+
+Donan laughed and clapped Ren on the shoulder. “Haha! That was 2 days ago, Ren. I put it away, of course.”
+
+Ren was relieved to hear that. Jumping in and out of the game at different times really was messing up his perception of time. Ren wasn't sure how he was going to deal with it. Every fourth day in game he had to be logged out to do his physical therapy. If Ren neglected doing therapy too many times, the doctor would take the VR headset away without question.
+
+“I suppose you want your share.” Donan said and went to the cupboard.
+
+“My share?” Ren said.
+
+“With the cost of the materials, that includes getting it delivered here from the mines, the use of the shop, my mentor's cut, and the discount... well, I couldn't charge my own brother full price for them, could I?” Donan said. “There's still quite a bit left over. I think 15% for an assistant is good enough, don't you?” Donan didn't turn around.
+
+Ren looked at Donan's back. “Well, if we're dicussing costs... if I hadn't changed your forge, you would have had a really hard time trying to make all those short swords.... and keeping up with me.” Ren said.
+
+Donan half turned towards Ren. “I'll admit it helped.” Donan said, reluctantly. “20%.”
+
+“If I wasn't here, though... you wouldn't have completed the order at all.” Ren said.
+
+Donan turned the rest of the way to face Ren and crossed his arms. “If you'd been here the whole time, I wouldn't have had to work so hard to get them all done before they were due.” Donan said. “18%.”
+
+Ren thought for a moment. “Well, that's true. I've already apologized and you've accepted it, though... you shouldn't dock points for that.”
+
+Donan nodded.
+
+“On that note... even though I was here, I didn't have to work as hard as I did, either... or for as long. If I'd set even a slightly longer pace, we never would have made the deadline.” Ren said and smiled.
+
+Donan raised his eyebrows.
+
+“Come on... you know I'm kidding, Donan!” Ren chuckled. “Not once have I ever failed to give it my all, the whole time I've worked here.”
+
+“All right.” Donan smiled. “25%” Donan said and tossed an already tied bag of money to Ren.
+
+Ren caught the bag and then stared at Donan.
+
+“But... but...” Ren stammered.
+
+“I wanted to see if you would defend yourself.” Donan smiled again. “You made a good argument in the end.”
+
+Ren sighed and Donan laughed. Ren opened the bag and dumped the contents into his coin pouch and tossed the empty bag back to Donan. Ren looked at his coin pouch contents and nearly fainted.
+
+Ren had received 1000 gold, which then became 10 Platinum coins.
+
+“D-D-Donan!” Ren stuttered. “How?”
+
+“Do the math.” Donan said. “1000 short swords at 10 gold each. It's normally 15 but I gave my brother a 5 gold discount. That makes it 10,000 gold. Half taken away for materials and delivery, 1% of every sale for my mentor, 1000 gold... and that leaves 4,000 gold. Your cut was 25% of that.”
+
+Ren was left speechless. So... much... gold! “What... what... what am I going to do with it all?” Ren finally said.
+
+“I'm sure you'll think of something.” Donan said and smiled.
+
+“Is... is this normal? Huge orders, I mean?” Ren asked.
+
+Donan nodded. “Once every few months or so, I get an order for shields, or swords, or daggers. Some things are more expensive than others. Daggers? A gold each. Almost no profit in them. Shields? 7 to 10 gold. Short swords are 15 and long swords are 30. People don't normally have access to blacksmiths as good as us. Their stuff breaks eventually and they need replacements.” Donan said. “Between those orders, I fill anything that's missing at local armories and stores for a half decent profit. Not as good as selling them direct, but it's still a good business.”
+
+“I had no idea.” Ren said. “When I started here, I thought it would be fun to learn everything I could. I didn't even consider it as a business that made money.”
+
+Donan laughed and clapped Ren on the shoulder again. “That's why I liked you, right from the start. You showed me that you had heart and potential. You didn't think of it as a job at all, did you?”
+
+Ren shook his head.
+
+“Well, now you know.” Donan said. “Want to learn how to make a long sword the normal way, and not cast it?”
+
+“Can't I learn both ways?” Ren asked, eager to get started.
+
+“Of course you can, Ren.” Donan said and smiled. “Of course you can.”
+
+Over the next week, Donan showed Ren how to make everything that could be held in a hand. Daggers, short swords, long swords, great swords, pikes, spears, battle axes, great axes, throwing axes, maces, flails, and even a lance. Lances weren't used much anymore, but it didn't hurt to know how to make one anyways. Shields were next, ranging from small bucklers to giant tower shields. Ren learned it all and sucked it up like a sponge.
+
+While they had been working, Ren had filled Donan in on everything that had happened while Ren was at the homestead. When Ren got to the part with the dire wolf, Donan stopped working and listened intently as Ren relayed each moment in detail.
+
+“I was wondering how you managed to survive.” Donan said when Ren finished the story.
+
+“You were wondering?”
+
+Donan nodded. “I noticed your cloak after Nodal came to pick up the short swords and I've been curious about it ever since.”
+
+“Why didn't you ask?” Ren said.
+
+Donan smiled. “I figured if I got you talking long enough, you'd eventually tell me about it.”
+
+Ren laughed. “Well, it worked.”
+
+Donan nodded. “It's better to have the story offered, instead of nagging for it.” Donan said. “It's a much better story if the teller isn't reluctant to give the details.”
+
+It was Ren's turn to nod. “Now that I think about it, I kinda liked using the mallet. It just... felt right.” Ren said. “You wouldn't happen to have a mold for something similar, do you?” Ren asked Donan. “Or where I could maybe make one?”
+
+Donan shook his head. “The only mold I have is for a bigger normal hammer.”
+
+“Can I see it?” Ren said.
+
+Donan got up and went into the back for a few minutes. Donan came back out with a 2 foot by 1 foot stone mold and gave it to Ren. Ren opened it and sure enough, inside was an empty cavity for a hammer that was about twice the size of a normal hammer, with a flat front and a clawed back. There was a metal spacer, so if you wanted a wooden handle instead, you'd put it inside. It didn't fit Ren's use very much. Ren would have to find something else that looked closer to what he wanted so it could be modified, or try to make something from scratch.
+
+I'll have to think about that later. Ren thought. There's something else I want to learn first.
+
+“Donan... I've been thinking.” Ren said. “How do I make armor?”
+
+Donan grinned. “I've been waiting for you to ask that.”
+
+Another week passed as Donan showed Ren all the different types of armor that could be made and how all the pieces fit together. Lucy only came back in the game for a brief time, and Ren spent several hours with her just walking around the town and pretty much giving Lucy the full tour. After confirming that nothing new was in the Market District, They went back to the blacksmith's shop and Lucy logged out again. Her new job was taking up all of her time. Ren missed seeing her smile.
+
+When Ren told Donan that he had leather pelts, Donan helped Ren make a full set of leather armor. Ren used the dying station to make it a dull red color. Once Ren had the recipe for the full set and could tell where it could be altered, Ren modified it and lined each armor piece with his spider silk cloth after dying it black. It increased the armor's durability and doubled it's Defense value. Ren smiled and equipped it.
+
+Thick leather boots, leather pants, a leather coat with thick panels on each shoulder, leather gloves, and a leather helmet, but Ren didn't like how it looked and didn't equip it. Ren put on his Dire Wolf Hooded Cloak, with the hood up, and he was fully protected.
+
+“Very nice, Ren.” Donan said. “You look like an Adventurer. All you're missing is a weapon.”
+
+Ren smiled, but Donan couldn't see it because the hood cast Ren's face in shadow. Ren put everything into inventory and smiled so Donan could see it.
+
+“I have something I want to show you. We've been so busy that it slipped my mind until now.” Ren said.
+
+“You seem to be bad for that.” Donan said, teasing.
+
+Ren chuckled. “Tell me about it.” Ren took out the meteoric ore and put it on a bench.
+
+Donan stared at it. “I've never seen anything like that before.”
+
+“Really? No old stories or rumors of weird green stones or fire across the sky?” Ren asked.
+
+Donan shook his head.
+
+“You're gonna love this story, then.” Ren said and told Donan the story of the meteor and how Ren found out about it.

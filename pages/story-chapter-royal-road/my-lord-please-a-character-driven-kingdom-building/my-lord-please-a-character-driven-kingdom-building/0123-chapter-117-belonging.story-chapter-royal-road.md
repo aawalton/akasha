@@ -1,0 +1,209 @@
+---
+id: fce9c5bf-5772-59b2-8a39-c982f9e60a2c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117 Belonging"
+slug: 0123-chapter-117-belonging
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 123
+ownLength: 2310
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3844617/chapter-117-belonging"
+royalRoadId: "3844617"
+---
+
+“I will ensure dinner is ready by the time you and Lady Talia return, My Lord,” Alicia reminded him gently as she walked him to the entrance of the manor.
+
+Just as he was about to reply, the guards opened the door to reveal Sera, who exchanged nods with them before glancing in his direction.
+
+It seemed the hunter had been waiting by the entrance.
+
+A curve appeared on Alicia's lips though she quickly turned away when Lucien shot her a look.
+
+Sera tilted her head, gaze shifting toward his back. Upon seeing the shoulder harness on his back with the hunting bow she had gifted him secured in place, she gave a firm nod.
+
+Ignoring Alicia's attempt to hide her amusement by covering her mouth, Lucien continued walking toward the entrance even as he spoke.
+
+“Sera. I am just going to visit Talia at her shop for a bit.”
+
+Turning toward Alicia, the hunter inclined her head once before immediately falling in beside him.
+
+“Don't be too late for dinner,” the maid called, bowing once as they left the manor.
+
+Lucien replied by raising his hand to wave his assent, though the motion froze when Sera followed suit a brief moment later.
+
+He ignored the sound of giggles as the manor door closed behind them. After exchanging greetings with the guards in the manor courtyard, they made their way to Talia’s shop in what was becoming Ashridge’s central quarter.
+
+At this hour, the warmth of early summer had already seeped into the dirt roads and wooden walls of the village.
+
+Grass now crowded the edges of the paths, its growth thickening across the open spaces between houses while the smell of timber, smoke, and turned soil lingered beneath the afternoon sun.
+
+As it beat down on them, Lucien made the effort to stay within the shade cast by the buildings. It was a shame that the world he had found himself in did not have year-round temperate seasons.
+
+Idly adjusting his cloak when it ruffled against the shoulder harness, he couldn't help but glance at Sera, who didn't seem bothered by the heat at all.
+
+Instead, the hunter's attention was focused on a particular building across from them.
+
+Even without looking, Lucien knew which one it was. It had only been built over the past month, after all.
+
+As they approached, the sound of children's laughter reached them long before they drew near.
+
+The nursery that Harlon had built was modest in size and made entirely of wood. They couldn't afford stone foundations for every single building in Ashridge yet, and this particular one had been built as quickly as the carpenter would accept based on his usual standards.
+
+Lucien spotted Zara and a few other women among the children, looking understandably busy as they were surrounded by so many of them.
+
+Leofric, ever the responsible and serious one, attempted to corral the other children alongside the women.
+
+Though it looked more like he was trying to boss them around as he folded his hands behind his back, a serious look on his face that vanished as soon as Roland's voice cut in.
+
+“Leo! Quick! We must defend this area from these miscreants! Matthias is already down!”
+
+Said boy, Matthias, was indeed down. Though it appeared more like he was buried under a few toddlers as they clambered over him. When he raised a hand helplessly toward Elin, who was standing not far away, the usually helpful girl merely covered her mouth and giggled.
+
+Leofric spun toward Roland, finger pointing at him. “Stop calling me Leo! And put that stick down! Miss Zara is going to scold you again!”
+
+His words only caused Roland to attempt to twirl the stick in what the boy clearly believed was a knightly flourish, only for him to drop it mid-twirl. Before he could reach for it, Cora came running in, snatching it off the ground.
+
+“I have it! Everyone, get him now!” Cora exclaimed, holding the stick high in the air, looking far more triumphant than someone her size had any right to be, though Roland could have easily taken it back if not for another gaggle of toddlers clambering over him.
+
+“Ugh! Save me, Leo! Cora...why...” The rest of the boy's words were swallowed by the laughter of the children on top of him.
+
+Zara had turned toward the chaotic group to bring back some semblance of control, only to spot Lucien instead. She gave a quick bow, but returned to work once he gestured for her not to mind him.
+
+Beside him, Sera remained still, her pale eyes fixed on the scene.
+
+Lucien glanced at her. “...Do you want to join them?”
+
+She considered the question with alarming seriousness, forcing Lucien to exhale before he clarified dryly.
+
+“I meant join Zara to help her with the children.”
+
+At his words, Sera looked toward him, tilting her head. Lucien wisely chose not to ask what that meant before sound of footsteps interrupted them from behind.
+
+Turning slightly, Lucien noticed two women from among Ashridge’s newer arrivals. Even in the summer heat, they continued to wear the modest clothing common to the eastern frontier.
+
+One of them, a woman with her hair tied into a bun, took a hesitant step closer. “Milord...could we trouble you for a moment?”
+
+A step behind her, the other woman remained where she was, long plaited hair falling over one shoulder as she clasped her hands in front of her.
+
+“Yes? Is something the matter?” Lucien asked, turning fully to face them.
+
+The woman with the tied bun bowed low. “We would like to ask...” Her words trailed off, eyes flicking briefly toward Sera. “We heard about the militia accepting...women into their ranks?”
+
+“Yes, that is the current arrangement. Those who serve in defense of the village will have compensation set aside for their families should the worst happen.”
+
+An uncertain expression crossed her face before the woman with the plaited hair spoke carefully.
+
+“Is it something all of us would be able to apply for, Milord? Or is it only for the original villagers?”
+
+Lucien shook his head. “No. It is open to all. From the moment I accepted you into Ashridge, you were already considered part of the village.”
+
+The two women seemed to still at that. The one with the plaited hair lowered her eyes first, her clasped hands tightening, while the woman with the bun looked as though she wanted to say something before thinking better of it.
+
+Then her eyes flicked toward Sera, who had already turned back to the nursery, only for the hunter to glance back as though she had felt the woman’s gaze settle on her.
+
+Looking away immediately, the woman’s fingers curled around the edge of her sleeve before she gestured toward Sera.
+
+“Milord, what about working as someone like her?”
+
+At her words, Lucien kept his expression carefully neutral. “You mean as a hunter?”
+
+“Oh...! Is she not a...is she not your guard, Milord?”
+
+Lucien’s brow creased faintly before shaking his head. “She is not part of Ashridge’s military, nor is she formally in my service.”
+
+He considered Sera’s proper role and found it strangely difficult to define what exactly she was in Ashridge. It was not as though Sera hunted officially for the village either.
+
+When he turned to Sera to ask, he found her staring at him, head tilted.
+
+Lucien decided to give up on that hopeless avenue, shifting his gaze back to the two women still waiting before him, though their expressions had only grown more confused.
+
+“I suppose you can consider her as my guest in the manor,” he said at last.
+
+The two women exchanged a look Lucien couldn't quite place.
+
+Before he could ask, the one with the plaited hair raised her hand slightly. “Milord...would you accept women into the Ashridge guards then?”
+
+“...That is something I haven't discussed yet with my guard captain.”
+
+When the two women’s expressions faltered at his words, he let out a breath before continuing. “Even if I agreed to it, the decision on who would be formally accepted would rest with Captain Dorian and whether potential recruits could pass his...standards.”
+
+That made their shoulders lower even more.
+
+During the journey back from Helvarn, the refugees had seen with their own eyes what passed for Dorian's standards as a proper guard.
+
+Sera’s reputation stood only just behind his, and he was the only man in the village who wore plate armor. Both of them had also dealt killing blows to variants.
+
+Lucien folded his hands behind him. “I would suggest the two of you wait for a few days first. There will be an announcement soon that might be of help to you.”
+
+The woman with the bun blinked in surprise. “An announcement, Milord?”
+
+“Yes. After that, if you still wish to join Ashridge's guards, you may approach any one of them and ask how best to prepare before applying.”
+
+The uncertain look they had worn at the beginning diminished slightly before they dipped their heads.
+
+“Yes, Milord. Sorry to bother you during your walk with your...guest,” the woman with the plaited hair said, even as they exchanged another look before turning to leave.
+
+Lucien couldn't help but feel that there was something not quite right. Glancing at Sera, who had already turned back toward the nursery, the only thing he could think of that might have caused a misunderstanding was the olive wrap skirt she wore.
+
+'That nosy junior...I knew this outfit was too much.'
+
+When Sera turned to look back at him, her head tilted faintly. Lucien exhaled through his nose and decided not to explain.
+
+“Let’s go, Sera. I don’t know how long my meeting with Talia will take. We'd better not keep Alicia waiting for us again.”
+
+Sera gave a small nod before falling into step beside him.
+
+Together, they crossed the remaining distance to Talia's shop, where Lucien returned a greeting to an exiting customer before stepping inside.
+
+“Welcome to Still...oh, good afternoon, My Lord.” Maris dipped her head, though she lifted it when he waved it off.
+
+“Maris. Is Talia in the back? There’s something I have to speak with her about.”
+
+The older woman gave a nod, but before she could continue, she glanced downward at someone tugging her sleeve.
+
+It was only then he noticed Aisha standing slightly behind her. When he turned his eyes toward her, she let out a small eep and hid behind the woman again.
+
+A soft chuckle escaped Maris's lips. “Aisha. You should be greeting customers,” she chided lightly, stepping to the side to reveal the shy girl.
+
+“G-good afternoon, My Lord,” Aisha said nervously, quickly bowing her head.
+
+Lucien returned the gesture, mildly surprised. “Good afternoon, Aisha. I thought you would be at the nursery with your mother.”
+
+At that, Aisha straightened just enough to look offended. “I...I am too old to be at the nursery, My Lord.”
+
+Lucien's eyes widened slightly before he looked at the girl more closely. Aisha did seem a little older than the children at the nursery.
+
+“Lady Talia decided to help Zara out and hired her as an assistant for the shop, My Lord.” Maris clarified, placing her hands on the girl's shoulders reassuringly.
+
+"Her mother had wanted her watched in the nursery, but Aisha insisted on helping wherever she could...Lady Talia heard of it and hired her for the shop instead."
+
+That sounded like his junior, though Lucien briefly wondered how much help a girl her age could truly provide. Maris seemed to notice where his thoughts had gone and gave a slight nod.
+
+"Aisha is more than enough as help, My Lord. She tends to customers when I am busy in the back, so I needn't rush as much as before."
+
+“And she's also been learning her letters...” She covered her mouth, though he could see the smile behind her hand. “...together with my husband. The village’s old scribe is teaching them both.”
+
+The image of a burly man like Bran sitting down at a desk beside Aisha while learning how to write made the corner of Lucien's mouth twitch.
+
+Lucien rubbed his chin. "I didn't know Bran was learning to read...what brought that on?"
+
+The smile on Maris's lips deepened. “With the worst of the spring planting behind him, Bran decided to learn his letters...to avoid looking bad in front of Alicia, I believe.”
+
+She gave a nod toward him. “And he knows there is a chance you might officially make him reeve in the future. He would make a poor reeve if he could not read by then.”
+
+Lucien was silent for a moment before letting out a breath through his nose. It was difficult to tell which reason sounded more like Bran.
+
+His gaze shifted briefly toward Aisha. “Tell him that is a wise decision. That goes for you too, Aisha. Learning to read will be useful.”
+
+Aisha’s shoulders straightened at that. Beside him, Sera, who had been looking around the shop curiously, turned her stare toward the girl.
+
+Seeing the hunter's attention on the girl, Lucien shook his head faintly. “Well, I won't disturb you two then. I will head to the back. Talia is still testing the red herbs?”
+
+Maris gave a nod, though Sera's brow scrunched at the mention of the herbs, drawing a smile from the older woman. “Sera, would you prefer to stay out front with us?”
+
+When Sera glanced toward him, he shrugged lightly. “It would be worse at the back, Sera. It's up to you if you want to stay out here.”
+
+Almost immediately, she inclined her head. It seemed the hunter disliked the smell almost as much as Alicia did.
+
+He made his way to the back of the shop and opened the door, only for a sharp, earthy scent to spill out.

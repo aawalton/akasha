@@ -1,0 +1,221 @@
+---
+id: be66eaca-bffc-5928-b3cd-966af250f9da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50 Assessment"
+slug: 0054-chapter-50-assessment
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 54
+ownLength: 2090
+unit: words
+publishedAt: 2026-05-03
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3350257/chapter-50-assessment"
+royalRoadId: "3350257"
+---
+
+Lucien stepped out of the manor into the cool morning air.
+
+The weather had gradually shifted though the season had not fully loosened its hold. Frost lingered along the edges of rooftops, but the roads beneath showed darker patches where the ground had begun to soften.
+
+He found Harlon near the edge of the yard where several cut beams had been stacked in careful rows, their surfaces pale against the darker wood of older stock. The carpenter stood with his pipe resting unlit between his fingers, thumb running along the grain of a freshly split length of timber.
+
+When he drew close, the older man looked up and dipped his head. “Lord,” he said, setting the plank down on the stack.
+
+Lucien returned the gesture. “You’re early. I expected you later with the clearing underway.”
+
+Harlon gave a faint shrug. “Work’s far enough along. They don’t need me standing over it.” His gaze drifted briefly toward the southern end of the yard. “Ground’s softening too. Makes the hauling easier for the men.”
+
+He lifted his pipe in question. When Lucien gave a small nod, he struck a flint and lit it, drawing once before letting the smoke drift.
+
+The older man watched it for a moment before speaking. “Some of the Cragwatch folk went back a few days ago, thought they might find something worth taking.” He shook his head. “They pulled what they could from their homes, but no sign of the ones who ran.”
+
+Lucien’s brow creased faintly. “Where would they go?”
+
+He disliked how often he had to rely on secondhand accounts like this. A proper ledger with the records of movement, stores and names. Those would have made questions like this unnecessary.
+
+But pushing for that would only invite resistance he could not afford.
+
+Harlon’s gaze lifted in thought, lightly puffing out a smoke. “There’s a shanty camp outside Helvarn. Closest place without risking the wilds this time of year,” a brief pause followed before his eyes returned to him. “They saw Lord Vaelric’s men there.”
+
+Lucien stilled, his attention sharpening. “Did they speak to them?”
+
+Harlon shook his head, turning the pipe slowly between his fingers. “All they did was ask where they were staying. Didn’t stop them leaving or taking their things out.”
+
+Lucien’s hand moved to his chin in thought. “Elias was right. Lord Vaelric moved for the stores first.”
+
+It was something he had asked the steward after the events at Cragwatch had passed. The elderly man had outlined several moves Lord Vaelric was likely to take.
+
+Some of the Cragwatch folk had already made several trips back over the past weeks, salvaging what they could once the Tithe had passed.
+
+Harlon’s gaze lingered a moment before he spoke. “…We could wait till nightfall. The villagers who went there said the guards didn’t look like they meant to stay.”
+
+Lucien considered it briefly before shaking his head. “No. Even if we took what’s left, Lord Vaelric already has the records. He will know what’s missing.”
+
+Harlon grunted faintly at that, his expression unreadable. “Your steward wouldn’t agree with that either.”
+
+His gaze moved to him, studying him more closely. “You don’t trust him.”
+
+The carpenter stilled for the span of a breath before the pipe shifted between his teeth. “His loyalty is to your house, Lord.” His eyes met Lucien’s. “Same as Lord Vaelric is to his own.”
+
+Before he could respond to that, the sound of footsteps crunching over the snow reached them a moment before the man came into view.
+
+Garrick approached at a measured pace, his boots still carrying a faint dusting of dried earth that had not come from within the palisade.
+
+When he neared, he slowed slightly, his gaze passing between the two men. He came to a stop beside Harlon and dipped his head.
+
+“Lord.”
+
+Lucien let the moment pass before he inclined his head in return. “Garrick. How was the survey at the ridge?”
+
+Garrick’s eyes shifted toward the western ridge. “Stone holds along the spine. More of it than we thought from the surface.”
+
+“And the ground? Did you find a place for the outpost?”
+
+The miner gave a faint nod. “We have a spot in the lower area of the ridge. The ground’s better there.”
+
+His gaze returned to Lucien. “Not now though. Thaw’s got water cutting through it.”
+
+Harlon exhaled softly beside them. “It’s as we expected then. We can start by marking the place first.”
+
+Garrick gave a small grunt as he looked back toward the horizon. “Found the old quarry cut as well. It’s collapsed, but the stone around it looks good.”
+
+Lucien’s attention sharpened at the miner’s words. “And that is where the ground holds?”
+
+“Aye. No trace left, but someone worked it before.” His gaze lingered on the ridge. “Could be more than stone. Ground like that...sometimes carries iron.”
+
+His hand came up to rub at his stubble. “But we won’t know until we open it proper.”
+
+Harlon’s gaze followed the line of the ridge. “Then we’re not starting blind.”
+
+The carpenter seemed to consider something for a breath before he spoke. “You won’t be pulling ore from it anytime soon, Lord.” He paused to draw on his pipe before continuing. “Soon as he heard the survey was done, Joren’s been asking when you plan to leave for Helvarn.”
+
+Lucien inclined his head in acknowledgment. “Tomorrow, if the weather holds.”
+
+Both men turned toward him. Harlon’s reaction showed plainly, while Garrick remained silent, watching.
+
+“You're moving that soon?” Harlon asked, a note of curiosity entering his voice.
+
+Lucien cupped his chin as he gave a nod. “We’ll need those ores before the spring planting begins. And if we are building an outpost at the ridge, we will need the tools for it.”
+
+His gaze shifted toward Harlon, brow raised. “Unless you want to be the one telling Joren you need more hammers and nails for the ridge outpost.”
+
+The older man let out a huff of amusement but said nothing.
+
+Garrick let out a faint grunt, his gaze still fixed on the ridge. “Could start with the road. Ground’s soft enough now. We won’t need much to get it going.”
+
+Harlon nodded slowly. “Would’ve been the first step anyway.”
+
+Lucien’s attention shifted between the two men. “Anything we need to account for before we start?”
+
+Garrick’s eyes returned to him. “Road’s half there already. We can use the Cragwatch path part of the way.”
+
+Harlon drew on his pipe, then let the smoke drift. “Hard part’s cutting through the forest toward the ridge.” His gaze shifted briefly toward the village. “We’ll need men for it. Not many to start, but enough to clear a path and mark the ground proper.”
+
+“How many?”
+
+The older man’s brow furrowed faintly. “Six to ten. More if you want it faster. Fewer if you don’t want to pull too many from the village.”
+
+Lucien’s thoughts moved quickly through the numbers. Ashridge had the labor to spare, but it was not without cost. “We will switch the groups every few days. Make sure no one stays out long enough to disrupt the work here.”
+
+Harlon glanced toward him, before he gave a small nod. “That’ll keep things steady.”
+
+The miner shifted, finally turning his attention back from the ridge. “You’ll want someone who knows the ground. Not just men who can swing tools.”
+
+Lucien met his eyes. “You will take the lead on it.”
+
+Garrick held his gaze for a moment before giving a small nod. “I’ll see it laid right," a brief moment later, his eyes went back toward the ridge. “We can decide the rest once it’s done.”
+
+Harlon drew on his pipe before he spoke. “We can make do with what we have for clearing the forest and marking the ground.” He tapped the pipe lightly in thought. “But they’ll need food if they’re staying the day. Firewood if they’re staying longer.”
+
+Lucien’s eyes narrowed. “And if we don’t want them staying?”
+
+“Then they don’t, but you lose time walking back and forth.”
+
+Garrick added quietly, “Ridge isn’t far, but it’s far enough.”
+
+Lucien looked once more toward the western horizon. Distance meant effort, time, and how often the same path could be used before it slowed everything else.
+
+He folded his hands behind his back as he spoke. “We keep it short for now. Day work only.”
+
+Harlon nodded in acknowledgement. “Safer that way.”
+
+“Did you manage to test any of the stone?” Lucien asked, returning to the matter at hand.
+
+Garrick turned toward him, his gaze settling briefly before he spoke. “It’s worth cutting, from what we saw. How much, and how clean...that takes time to know.”
+
+Harlon exhaled through his nose, shaking his head lightly. “We don’t need perfect, we need usable.”
+
+Lucien inclined his head. Usable was enough, for now.
+
+It was a compromise he found himself making more often than he would have preferred. In another setting, he would have taken more time with it. Here, decisions were made with what was available, not what was ideal.
+
+Perfection demanded time, measurement, and consistency, things they did not yet have in surplus. For now, reliability would have to come later.
+
+Ashridge did not have the luxury of waiting for it.
+
+Around them, the village continued its steady rhythm. A hammer struck somewhere in the distance. A voice called out near the storage sheds before fading again into the background of work.
+
+The road would have to be laid first to facilitate the transport of resources from the ridge.
+
+“We begin with the road first, everything else depends on it.”
+
+Harlon’s brow furrowed. “Ground’ll hold for now,” he said, glancing toward the western approach. “Too much traffic too early and it’ll start to give.”
+
+Garrick gave a faint grunt in agreement. “The low stretches in the path will sink first.”
+
+Lucien considered it briefly before nodding. “Then we reinforce as we go. Better a road that needs work than none at all.”
+
+Harlon gave a single nod while Garrick said nothing.
+
+Lucien had come to understand the man rarely spoke unless he needed to, and even then, he chose his words more carefully than most.
+
+A faint wind moved across the yard, carrying with it the scent of damp wood and thawing earth.
+
+The three of them stood in silence for a moment longer, the shape of the work ahead settling into something more defined.
+
+Harlon turned, his gaze lingering on the horizon for a moment. "There’s one more thing."
+
+Lucien glanced toward him, brow raised in question. “What is it?”
+
+The older man rolled the pipe lightly between his fingers. “That hunter of yours.”
+
+“Sera?”
+
+Harlon gave a nod. “If you’re sending men out that way more often, you’ll want to think about what she can do.” He turned to Garrick. “She was picking the route half the time, wasn’t she?”
+
+Garrick’s eyes narrowed briefly as he let out a low grunt. “She sees paths where there aren’t any. Changes route quick while we’re moving.”
+
+“And that bow of hers...not like the ones we make here.” Harlon drew on his pipe. “The wood isn’t from anywhere around the frontier. And the draw is—”
+
+He paused, brow tightening slightly.
+
+“She can’t use it the same way. The longbow on her back.”
+
+Lucien’s gaze lingered toward the edge of the yard for a moment before he spoke.
+
+“I am aware of it.”
+
+Harlon studied him briefly, then gave a slow nod. “Then there’s nothing more to say on it.”
+
+He tapped the stem of his pipe lightly against his glove before turning away.
+
+“I’ll see to the men at the southern clearing, Lord.”
+
+Garrick dipped his head once before following after him.
+
+The sound of their footsteps faded across the yard.
+
+Lucien remained where he stood once they had left, his thoughts turning inward.
+
+He had already seen enough to know what she was capable of.
+
+What concerned him was how easily that capability could be turned into expectation from others.
+
+It would be simple to rely on her more and make use of what she could offer.
+
+But that path rarely stopped where it began.
+
+Pressing her now, asking more of her when she had only just found somewhere to return to again, would risk undoing what little stability she had found.
+
+He exhaled through his nose, setting his concerns about the resident hunter aside. He turned to walk out of the courtyard.
+
+There was still another place he had to visit before he left for Helvarn.

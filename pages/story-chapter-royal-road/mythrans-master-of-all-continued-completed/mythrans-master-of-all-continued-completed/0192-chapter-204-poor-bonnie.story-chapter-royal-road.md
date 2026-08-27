@@ -1,0 +1,349 @@
+---
+id: 24338b5c-83ef-50b3-b1c1-0c9b8f482f9a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 204 - Poor Bonnie"
+slug: 0192-chapter-204-poor-bonnie
+partOf: mythrans-master-of-all-continued-completed
+position: 192
+ownLength: 3700
+unit: words
+publishedAt: 2017-03-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125883/chapter-204-poor-bonnie"
+royalRoadId: "125883"
+---
+
+Bonnie screamed in panic. The tarantula on the other hand, realized it wasn't in it's container anymore, and started to crawl over Ren. Bonnie couldn't take it and ran from the room.
+
+“Hey, little guy.” Ren said to it, and he moved his hand to block it from crawling up to his neck. Since that way was blocked, the spider turned around and went to the side. Ren kept it from crawling away, and decided to try and put it back in the unfolded box it came from, when Bonnie came back into the room wielding a rolled up magazine.
+
+“Bonnie, NO!” Ren exclaimed, and Bonnie cringed as she approached the bed and unleashed a flurry of blows to try and get the spider. Ren used both of his hands to try and stop the magazine before it hit the spider, and he saw that Bonnie wasn't even looking. Her eyes were squeezed shut as she swung. Ren kept his hand over the poor tarantula and blocked all of the blows that he could.
+
+“Bonnie! Stop!” Ren yelled. “Ow! Stop it!” He tried to tell her; but, she kept swinging to try and squish the spider. Ren could feel each impact on his arms and shoulders as Bonnie swung as hard as she could to kill the tarantula. His eyes started to water, and he was having a hard time seeing where the next blow would hit.
+
+“OW!” Ren cried out after one particular blow hit his previously dislocated elbow, and sent a sharp pain up his arm. “Bonnie! You're hurting me!”
+
+Bonnie froze with a look of horror on her face, and she opened her eyes to see the tears that streamed from Ren's eyes. She started to cry as well, and then the spider chose that moment to come out of hiding. Bonnie screamed again and swung, and Ren put his sore arm in front of the spider. He started to sob because the pain from yet another impact was excruciating, and Bonnie backed away from the bed. She started shaking her head and mumbling to herself, as she clutched the rolled up magazine in front of her.
+
+The desk nurse came in, because she had heard the screaming, and saw Ren as he cried in his bed. She looked at Bonnie, and tried to ask her what was going on; but, Bonnie only shook her head, and mumbled 'no', over and over. The nurse looked back at the bed and saw the tarantula as it crawled up and onto Ren's arm.
+
+“Good god!” She exclaimed, and led Bonnie out of the room. She was back a minute later, with a metal trash can.
+
+“No!” Ren said and picked the spider up with his still working arm. “You can't kill it!”
+
+The nurse sighed. “What do you expect us to do with it?”
+
+Ren motioned to the box he'd cut open. “Tape that back up and I can put it back inside.” He said. “Or get me something else to hold it.”
+
+The nurse stepped lightly over to the bed, and picked up the box. “I'll be right back.”
+
+She left and was gone for a couple of minutes. When she came back, the box was very securely taped up, and she put it in front of Ren. He gently put the tarantula inside, and closed it. The nurse tried to take the box, and Ren held onto it and shook his head.
+
+“This is a hospital, not a zoo.” The nurse said sternly.
+
+“It's not leaving my sight.” Ren said. “You could dispose of it and I'd never know.”
+
+She sighed. “You are not keeping it.”
+
+“It was sent to me, so it's my property.” Ren said. “You don't have my permission to get rid of it, or to harm it in any way.”
+
+“That isn't your decision to make.” The nurse said. “I already called the police. They should be here soon.”
+
+Ren wiped the tears off of his face and looked at her. “Then I'll wait for them to get here.”
+
+She sighed again and shook her head, then turned around and left the room.
+
+“Don't worry.” Ren said to the tarantula. “It's not your fault that you're here.”
+
+It took about half an hour for the police to show up, and after a very lengthy question and answer period, they asked to take the box.
+
+“You can have the box, but Samantha is staying here.” Ren said, and took out the tarantula.
+
+“Sweet Jesus, son of God!” One of the police officers said, and stepped away. “Look at the size of that thing!”
+
+“Son, I need you to put that back in the box.” The other officer said. “It's evidence.”
+
+“I'm not your 'son'.” Ren said. “And the spider isn't evidence. The box it came in is, so you can take that.” He said and handed the box over to them.
+
+“We need to track were it was purchased from.” The officer said.
+
+“Do spiders come with tracking numbers or tags?” Ren asked.
+
+“No.”
+
+“Then what purpose would taking it serve?”
+
+The police officer took a breath and let it out. “That is a dangerous animal, and it needs to be taken care of.”
+
+“It does, but not in the way you mean.” Ren said. “It's not the spider's fault it was sent to me. It didn't do anything wrong.”
+
+“Not according to your nurse.” The officer said. “That thing jumped out and attacked you.”
+
+“Attacked me?” Ren snorted a laugh. “It must have been on the side of the box when I cut it open, and it fell out onto my chest.”
+
+“That's not how she described it.”
+
+Ren sighed. “Did she also tell you that she tried to kill it?”
+
+“Yes. We have the magazine.”
+
+“Then don't you think it's escaped death enough today?” Ren asked. “Does it really need to be killed just because it's a spider?”
+
+“Yes.” The other officer said, and his partner stared at him with a frown on his face. “Sorry.”
+
+“Mr. Haddon, we need to confiscate it.”
+
+Ren shook his head. “It's my property, and you aren't taking it.”
+
+“Whoever sent you a dangerous animal in the mail, meant for it to cause chaos.”
+
+“Will you charge them with something when you find out who they are?”
+
+The two officers looked at each other, and Ren smiled.
+
+“If that's the case, I won't be pressing assault charges.” Ren said. “It was a gift, and things just got out of hand.”
+
+“Now listen here...”
+
+“You heard him.” A familiar voice said, and Ren looked past the officers to see Suzie the psychiatrist standing in the doorway to his room. “It was a gift; nothing more.”
+
+“Ma'am...”
+
+“If you actually are going to track down whoever sent it, then I suggest you do so.” Suzie said. “I assume there's not too many places that sell that kind of creature.”
+
+“We... we'll look into that, Ma'am.”
+
+“Good.” She said and stepped into the room and out of the doorway. “You can stop pestering my patient and go do your jobs.”
+
+The two officers looked at each other again, nodded to her, then left the room.
+
+“Thanks.” Ren said when the door shut. “I really didn't want them to take it.”
+
+“Why?” Suzie asked as she came over to the bed and sat down in the chair beside it.
+
+“Because.” Ren said. “It's not the spider's fault it's involved. It's just a spider.”
+
+“And you're comfortable with it?” Suzie asked, and Ren nodded.
+
+“As long as you don't bother it too much, it leaves you alone.” Ren said.
+
+“I better go and find something to put that in.” Suzie said and stood up.
+
+“I'd appreciate that.”
+
+Suzie left the room and was gone for a while. She eventually came back with a large brown cardboard box that had all the holes taped up; both inside and out.
+
+“Thanks, Suzie.” Ren said, and used the steak knife to cut a bunch of air holes along the top of the box. He put the tarantula inside and closed it.
+
+“You really can't keep it here, you know.”
+
+“I know.” Ren said. “I'll find it a good home.”
+
+“Bonnie is still in hysterics.” Suzie said. “It took both officers to get the rolled-up magazine out of her hands.”
+
+Ren sighed. “That was the only bad part about this whole thing.”
+
+“Was it?” Suzie asked.
+
+“Huh? What do you mean?”
+
+“Between fits of screaming and crying, she said what she did to you.”
+
+“That wasn't her fault.” Ren said. “It was mine. I was protecting the spider.”
+
+“Can you show me?”
+
+Ren looked at her warily, then pulled up the sleeves of his pajama shirt. Suzie gasped when she saw that both of his forearms were covered in large dark bruises.
+
+“How... how far up to they go?” She asked in a soft voice. Ren unbuttoned his shirt and slid it down to his elbows. Part of his chest, both shoulders, and upper arms were just as bruise-covered as his forearms. Suzie winced because she had never seen bruises develop so fast before.
+
+“Oh, Ren.” Suzie said. “I'll go and get the doctor.”
+
+She got up and walked out of the room, and Ren didn't try to stop her. She came back with Doctor Hobbard a few minutes later, and he shook his head as he examined Ren's beaten and battered body.
+
+“I don't know how you manage to do this to yourself.” Doctor Hobbard said. “You seem to be getting hurt every couple of weeks.”
+
+Ren nodded, but didn't speak.
+
+“If you keep this up, you won't be able to get any better.” He said, a little crossly.
+
+“I'd like to say that it's not my fault; but, you're right. This keeps happening to me, no matter how careful I am.”
+
+“Then be even more careful.” The doctor said. “You only have one body. We can replace parts of it, but at the rate you're going, you'll need a whole new one.” He shook his head again. “I'm afraid we can't do that yet.”
+
+“How long before we can?” Ren asked.
+
+“About 30 years.” Doctor Hobbard said. “It will take that long to get cloning technology to a high enough level, and then we'll need to get the Medical Clone Bill passed.”
+
+“Passed?” Ren asked. “Don't you mean drafted?”
+
+The doctor laughed. “We've had the Bill ready for years; we're just waiting for science to catch up to our expectations.”
+
+“Oh.” Ren said. “What can I do about this right now?”
+
+The doctor wrote something down on a notepad, then something else, and smiled. “I'll have one of the nurses bring you something for the pain, and a numbing creme for the bruises.”
+
+“Thanks.”
+
+The doctor left the room and Suzie sat down by the bed again while Ren put his pajama shirt back on and buttoned it.
+
+“You look really horrible.” She said honestly.
+
+“There you go, being all truthful and honest again.” Ren smiled. “At least you're not trying to sugar-coat it for me.”
+
+“I thought I was.” Suzie said, and Ren laughed.
+
+“Hand me the laptop.” He said and pointed. She passed it to him and he checked his email, then typed up an email to send to Gloria. It took a little while, since his arms were so sore; but he managed to write an impassioned plea for her to take the spider, and promised to give her the money to take care of it. After that, he wrote one to Elise, the secretary of Sid Tec. This had to have happened because someone had discovered his identity from the television news program, and she should know that people now knew where he was as well. He sent an email to Stella, Barbara, and Denise to fill them in, too. He didn't have to do that; but, he felt it was better that they heard what happened directly from him.
+
+“Suzie?”
+
+“Yes?”
+
+“Why are you sitting in here with me?” Ren asked.
+
+“Someone has to.” She said. “Bonnie can barely speak, let alone take care of you.”
+
+“But... you're not a nurse.”
+
+“I can go get one when she's needed.” Suzie said with a huge grin on her face. “Until then, I'll just keep you company.”
+
+“Don't tell me that you're... ah... enjoying all of this.” Ren said. “Are you?”
+
+“I am!” Suzie said. “It's so fascinating.” She looked at him and her eyes danced. “The person everyone thought would keep a cool head, totally freaked out; and the one we all thought would squeal like a stuck pig if something like this happened, is the calm one.”
+
+Ren froze at her words, then looked at her. “Who exactly is 'we'?”
+
+Suzie looked at Ren with wide eyes, then blinked them a few times. “I'm sorry. I misspoke.” She said. “I meant 'me'.”
+
+“No, you didn't.” Ren said. “You said 'we all thought', not 'I thought'.” He started to get angry. “And what did you mean when you said 'if something like this happened'?”
+
+“Um...” Susie sat back in the chair. “I... can't discuss that.”
+
+“You're not allowed to let the test subject know, so it doesn't change the parameters of the experiment.” Ren said in a bland, almost robotic voice.
+
+“Exactly.” Suzie said, then clamped her mouth shut.
+
+“Get out.” Ren said through gritted teeth.
+
+“Someone needs to stay wi-”
+
+“GET OUT!!!” Ren yelled, and Suzie was so startled at his shout that she stood up. “I've humored you all this time, because I knew you took some form of pleasure from hearing about the things I go through.” Ren said. “But I refuse to be a part of anything you may be involved in with this 'we' you referred to.”
+
+“Ren...”
+
+“Get out, doctor.” Ren said doctor like it was a dirty word. “You can file this under 'final visit'.” He snarled. “I never want to see you again.”
+
+“You can't make that decision.” Suzie said. “I've been court appointed to look after your mental welfare.”
+
+“Really?” Ren said. “Are they the 'we' you were talking about?”
+
+Suzie didn't say anything, and Ren chuckled.
+
+“If you don't tell me who it is that you meant, and who it is that you've been discussing me with... without my permission, I might add... I'll have no choice but to have a restraining order served against you by tomorrow morning for violating my privacy rights.”
+
+“I... can't reveal...”
+
+“Yes, the court did appoint you.” He said. “How will the court react when I tell them that you've been subjecting me to the same environment and experiments as my parents?”
+
+Suzie's face drained of all of it's color. “I... I didn't...”
+
+“No?” Ren said. “You make me relive the things I remember my father doing to me, and you enjoy it.” He shook his head. “I distinctly remember my mother doing that, and I told you that she did.”
+
+“Ren... I...”
+
+“That still didn't loosen your lips?” Ren asked, and she shook her head. “Then if, somehow, you can get the restraining order lifted, and even if you force me to endure more of your visits, I will never speak or look at you.”
+
+“That's an interesting viewpo-”
+
+“GET OOOUUUUUUUTTTTT!!!!!!” Ren shouted as loudly as he could, and a minute later, the desk nurse came in.
+
+“What is going on in here?!?” She exclaimed.
+
+“Please escort this... person... out of my room.” Ren said. “Then remove her from the visitor's list.”
+
+The nurse looked at Suzie, and then at Ren.
+
+“I have every right to see, or not see, anyone that I want to.” Ren said. “Until she tells me who she's been telling my secrets to, I never want her near me again.”
+
+“Ren, I can't tell you.” Suzie said. “I'm under oath...”
+
+“I believe the Hippocratic oath includes not discussing patients.” Ren said. “It does not restrict you from telling patients information they ask for.” He looked at her. “Would knowing who it is, hurt me in any way?”
+
+“I... no, I don't think so.”
+
+“But, by not telling me, you are hurting me.” Ren said. “You're causing me emotional pain, and also denying me your professional care.”
+
+Suzie took in a deep breath and let it out. She didn't say anything, however.
+
+“If you change your mind, let one of the nurses know.” Ren said. “Goodbye, doctor.”
+
+The desk nurse held the door for Suzie, and she left the room with the desk nurse close behind.
+
+*
+
+“Unfortunately, he's right.” Suzie said as she walked down the hallway. “I am hurting him by not telling him.” She shook her head. “I never thought he could turn my own oath against me like that, though.” She sighed. “He's got quite the brain in that skull of his.”
+
+“Are you going to tell him who it is?” The desk nurse asked.
+
+“I can't say, until I discuss it with...” She looked at the desk nurse. “I can't discuss it.”
+
+The desk nurse nodded and went back behind the desk that was her normal station, and Suzie went into the break room and tried to calm Bonnie down once more.
+
+“Oh, god! I have to kill it!” Bonnie yelled, as she searched for the rolled up magazine that the police had taken from her. “It's crawling over him!”
+
+Apparently, Bonnie has an acute case of arachnophobia. Suzie thought as she tried to reason with the unreasonable, and Bonnie was having none of it.
+
+*
+
+Ren checked his emails, and didn't get any responses to the ones he had sent. He looked at his watch, and sighed. It was now 1 pm, thanks to this incident. He had missed an entire game day and part of the next night; and would probably miss the rest of this night and the next game day as well. Ren looked at the door to his room and climbed out of bed.
+
+I wonder if I can find someone to get me lunch. Ren thought as he opened the door to his room and estimated the distance to the nurse's station. He sighed and walked down the hallway that was close to the same distance as his section of the walking track.
+
+“What are you doing out of bed?” The desk nurse asked when she saw him. “The doctor said you shouldn't be up and around.”
+
+“I... ah...” Ren wasn't sure what to say. He'd only ever asked the nurses that took care of him for lunch, and it seemed presumptuous to ask someone who wasn't taking care of him for food. “Um... I was wondering how Bonnie was.”
+
+“You don't have to worry about that.” The nurse said and came out from behind her desk. “Suzie is taking care of her right now.” She tried to take one of Ren's arms to lead him back to his room, and he cringed away from her touch. “What is it?”
+
+“My arms are sore.” Ren said. “Don't grab them.”
+
+“I'm sorry.” The nurse said. “Please go back to your room.”
+
+“I...” Ren sighed, and decided to throw caution to the wind. “I'm hungry, and with Bonnie in the state she's in, I don't have anyone to get lunch.”
+
+The nurse looked at him in surprise, and then she looked at the time on the big clock behind her desk.
+
+“Oh, dear.” She looked back at Ren. “I... I'm not sure what to do about that.”
+
+“Me, either.” Ren said. “It's never happened before.”
+
+“I'll ask the doctor what to do.” The nurse said. “You should go back to your room for now.”
+
+Ren nodded and turned around, and when he was about halfway back to the door to his room, exhaustion hit him hard. He leaned against the wall and rested for a minute, took several breaths, then kept going.
+
+I couldn't even take the wheelchair because my arms are so sore. Ren thought as he finally made it back to his room. He climbed into bed, and at the moment, he didn't care that his stomach was rumbling loudly. He was too tired to even think about food, and fell asleep with the blanket half covering him.
+
+Half an hour later, a nurse brought up a small tray with pain medication and a jar of numbing creme for Ren, and after telling the desk nurse what the doctor instructed her to do, she went to Ren's room and saw the state he was in.
+
+“Hey.” She said. “Hey, wake up. You need to take your medication.”
+
+Ren mumbled something in his sleep, and she tried to shake him. Unfortunately, she had held onto his shoulder to do so.
+
+“Ahhh!” Ren cried out in pain as his eyes flew open. He looked around wildly, and stared at the nurse, who had a shocked look on her face. “Wh-what are you doing?!?” He asked, shaking slightly from panic.
+
+“You... you need to take your medication.” The nurse said. “For the pain.”
+
+Ren took a deep breath to calm down, and nodded. She gave him the pills and a drink of water, and she held up the jar of numbing creme.
+
+“Do you feel like having this applied?”
+
+Ren blinked his eyes at her. “I... I don't know.” He said. “It really hurts.”
+
+The nurse motioned to his shirt, and he watched as she unbuttoned his pajama shirt.
+
+“Oh... oh, my.” She said, as she saw the multitude of bruises, and realized she had grabbed one of the large ones to wake him. “I'm sorry.” She said as she opened the creme and put a small amount onto the tips of her fingers. “This is going to be cold.” She cautioned him, and Ren nodded.
+
+The nurse gently spread the creme over the bruises, and Ren couldn't help but let the tears flow as the pressure she had to use, hurt even more than the blows that had caused the bruises in the first place. It nearly broke the nurse's heart to hurt him so much; but when she was done, Ren relaxed on the bed.
+
+“Is it kicking in yet?” She asked.
+
+“I... don't... kn...” Ren stopped talking as he closed his eyes, then drifted off to sleep.

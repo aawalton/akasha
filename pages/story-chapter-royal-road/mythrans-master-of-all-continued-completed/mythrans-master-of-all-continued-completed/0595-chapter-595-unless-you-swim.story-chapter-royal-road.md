@@ -1,0 +1,231 @@
+---
+id: 1a7aabab-41d3-53fe-9cf4-2d9bef0005b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 595 - Unless You Swim"
+slug: 0595-chapter-595-unless-you-swim
+partOf: mythrans-master-of-all-continued-completed
+position: 595
+ownLength: 2735
+unit: words
+publishedAt: 2018-05-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217989/chapter-595-unless-you-swim"
+royalRoadId: "217989"
+---
+
+Ren approached the area cautiously and slowed down when his Aura passed over the Sea Dweller encampment on the bottom of the ocean. He felt the immediate reaction of the Sea Dwellers, and using his Heat Sense, could tell they were ranked up and waiting for him. He and Artemis floated over to them and came to a stop a respectable distance away.
+
+The 12 Sea Dweller soldiers were floating in two lines, one line male, one line female. Another Sea Dweller, this one also female, floated towards Ren between them.
+
+“King Ren, it is a pleasure to meet you again.” The female Sea Dweller said in Land Dweller language, instead of speaking in her native language with bubbles and gurgles.
+
+“You will have to forgive me.” Ren said. “I would like to say the same; but, I can't remember meeting you before.”
+
+The female Sea Dweller laughed and Ren heard rushing waves, which meant she was quite powerful because he could hear it even though he was currently underwater.
+
+“King Ren, I am not surprised you do not remember me, since I was well and truly hidden within the entirety of my brother and sister spawn at the time.”
+
+Ren blinked his eyes for several moments as he thought about that, and then he smiled at her warmly. “Then let me retract my previous statement.” He said and bowed. “It's a pleasure to meet you again, Heir to the Water Realm.”
+
+She laughed again. “Mother said you had an odd sense of humor.”
+
+“You are a member of the royal family and in line for the throne.”
+
+“Behind several hundred others.” She said.
+
+“I believe your mother said something similar about being last in line.” Ren said and smiled. “Look where she ended up.”
+
+The female Sea Dweller floated closer and reached out to touch his face, and Ren didn't try to pull away or stop her. “If my father is to be believed, it was because of you that happened.” She said and closed her eyes, and Ren felt her probe his brain a few times. She took in a deep breath and let it out, and opened her eyes. “Yes, it is true.” She opened her eyes and stared at him. “You were also instrumental in my birth.”
+
+“I was about to say that you can't know how happy it makes me that you all lived; but, I'm pretty sure you can.”
+
+The female Sea Dweller nodded. “I can also feel your Angered condition and your reluctance to let it go, despite feeling happy.”
+
+“This impending war between the Sea Dwellers and Land Dwellers has caused a few of the people I care about to be hurt in a way I can't heal or ignore.” Ren said. “I'm trying to have it dealt with, but until then...”
+
+“I understand.” She said. “You are 'keeping busy' until you need to take more drastic measures.”
+
+Ren nodded. “I came here...”
+
+“I know why you are here, King Ren.” The female Sea Dweller said and let her hand fall away from his face. “Please, come this way.”
+
+Ren and Artemis followed her through the two lines of soldiers and over to a small cave. They went inside and up, and exited the water. Inside the cave was a representation of a Land Dweller living room, and the 4 missing men sat on the couch. One of them jumped to his feet immediately and looked like he was about to attack, then water suddenly appeared around him and held him still.
+
+“He tries to attack every time he sees me.” The female Sea Dweller said sadly. “His irrational fear of the water clouds his mind.”
+
+“Having a job that has you constantly on the water is not the best way to deal with that.” Ren said to the man.
+
+“She's right there! Kill her! She's a monster!” The man shouted. “She tried to eat us!”
+
+Ren turned and raised a single eyebrow to the Sea Dweller, and she laughed at the gesture and touched it with a fingertip.
+
+“I've heard so many stories about Land Dwellers, and how a certain few can be... delicious.” She said, and the currents of water under her translucent skin swirled faster. “I freely admit to biting the second man's finger... after asking permission, of course.” She smiled. “It took nearly ten minutes to reassure him that it wasn't punishment for being captured.”
+
+Ren looked at the second man. “It really isn't a punishment.” He said. “It's kind of intimate, actually.”
+
+“You're one of them, so you have to say that!” The water-restrained man said. “Let... me... go!”
+
+The female Sea Dweller sighed as she flicked her thumb and water covered the man's mouth. It didn't cover his nose, so he could still breathe and there was no danger of him being smothered.
+
+“I'm getting tired of silencing you each and every time I visit.”
+
+The man mumbled something through the water.
+
+“I have to keep visiting to feed you, you ignorant (bubble gurgle)!” She said.
+
+Ren chuckled. “Puffer fish is an appropriate nickname for him.” He said, then he sighed and turned to the female Sea Dweller. “Future Queen.” He said, using the formal title he had used for Railyse, and her eyes widened. “What can I do to ensure their release?”
+
+“King Ren, all you need to do is ask.” The female Sea Dweller said.
+
+“Really?”
+
+She chuckled. “Did you think I would say no?”
+
+“I honestly didn't know what was going to happen.”
+
+“And yet, you came here to try and bargain for them, not knowing what lay in store for you.” She said, and her hand reached up and cupped the side of his face. “So, that was true of you as well.”
+
+Ren put a hand on her hand. “I can't just take them and not offer you something in return.”
+
+“What would you give me in trade for something I give to you freely?”
+
+Ren cast Iron Wall between him and the captives, so that they wouldn't see what happened next. “The only thing I know you really want.” He said as he moved her hand out of the way and pointed to the corner of his eye. The female Sea Dweller stared at the spot and then locked gazes with him.
+
+“You are too generous with your precious fluids.” She said, and licked her lips.
+
+“I would offer blood, but the others would be jealous.” Ren said.
+
+“The others?” She asked, then she smiled. “You mean my brothers and sisters.”
+
+Ren nodded. “I can't take the time to give a feeding to all of them.”
+
+“Then I graciously accept your tears.” The female Sea Dweller said.
+
+“What kind would you like?” Ren asked, and he felt her surprise.
+
+“You... can you really...”
+
+“Your mother was particularly fond of drinking the regret I felt for her having to leave her family and go to the Land Dwellers for so long.”
+
+The female Sea Dweller visibly shivered at the thought, and Ren felt her immediate need to taste it. “Let... let it be so.”
+
+Ren stepped up into the air and took her into a hug. “Get a tendril ready.” He said as she put her lips near his left eye, and a tendril separated from her hair and poised itself to catch the tears from his right eye. He remembered that day Railyse had realized she had been away for so long, and he let that regret well up. A moment later, tears started to pour out of his eyes.
+
+The female Sea Dweller gasped at the torrent and her lips and tendril attached themselves to his eyes and absorbed the offered precious fluid. She kissed and licked his cheek as he kept crying, and she moaned as her body started to glow. Ren let the feeling of regret go and the tears slowed, then stopped. The female Sea Dweller waited for another moment to see if more would come out, then kissed his cheek one last time.
+
+“Thank you, King Ren.” She said, and the glow faded. “Your offer was more than I could have ever imagined.”
+
+“I'm glad you liked it, Future Queen.” Ren said, and she chuckled.
+
+“I don't know how mother is going to react when I tell her about this tonight.”
+
+“Please tell her I said hello and that I miss her.” Ren said.
+
+“I will.” The female Sea Dweller said and looked at the Iron Wall. “How long is that going to...”
+
+The Iron Wall spell expired and she smiled.
+
+“Never mind.” She said. “Prisoners! Gather together.”
+
+The three men that still sat on the couch stood up and gathered around the still restrained one, and the female Sea Dweller said a few bubbles and gurgles. A solid bubble appeared around the 4 men, and the water holding the one man let him go and disappeared.
+
+“This will protect them from the depths until you break the surface of the water, then the spell will end.” She said.
+
+“Thank you.” Ren said.
+
+“Don't thank me for this.” The female Sea Dweller said and shook her head. “We have hundreds of outposts across all the oceans in this realm. We have no shortage of prisoners to bargain with.”
+
+Ren nodded his understanding of the situation and walked over to the ball. “Get ready for a crazy ride.”
+
+“NO! Don't roll us!” One of the men exclaimed. “I'll throw up! All we've been eating is fish!”
+
+“I was going to pick you up, actually.” Ren said, and the 4 men stared at him in disbelief. “Yes, really.”
+
+Ren walked around the bubble and used his Amulet of the Spider enchantment to put his hands on the ball and picked it up.
+
+“Good lord!” One of the men inside said as Ren moved under the ball and then held it steady.
+
+“That looks so odd.” The female Sea Dweller said.
+
+“It's going to look just as weird when I'm in the water.” Ren said and walked towards the cave entrance. “It was nice meeting you... ah...”
+
+The female Sea Dweller let out a long stream of bubbles and gurgles, and Ren smiled.
+
+“It was a pleasure.” Ren said and repeated her name perfectly. He felt her surprise that he could do that, and he entered the water carrying the bubble. Artemis followed him and they moved through the water, past the two rows of guards, and out into the water.
+
+“Artemis.” Ren said, and she quickly moved ahead and rose up above him. A minute later she broke the surface of the water and asked for a boat. The crew unhooked the small rowboat from that side of the ship, and she put it in the water right where Ren was ascending. Just before the bubble broke the surface, Ren gave it a small push. It popped out of the water and disappeared, and the 4 men flopped into the rowboat.
+
+“We're free! Ha ha ha ha!” One of them said and kissed the boat. “I missed you so much!”
+
+“It's only been a few days.” One of the others said, then Ren came out of the water.
+
+“Kill him! He's one of them!” The man the female Sea Dweller had restrained yelled to the crew on the ship.
+
+“Is he crazy?” One of the men on the ship asked. “That guy just saved him.”
+
+“Ungrateful, that's what I call him.” Another man said.
+
+“Come on, you can tell what he is! Look what he did to the ship!”
+
+“Shut up, Perlman.” The captain said. “He didn't do it, the Sea Dwellers did.”
+
+“He's a Sea Dweller!”
+
+“And you're an idiot!” The captain said. “Someone gag him and take him below until he cools off.”
+
+The crew used ropes to pull the rowboat up the side of the ship and secured it back in place, then helped the 4 men climb aboard. The man started to protest about being treated unfairly, then was gagged and taken below deck.
+
+“Which one of you is Galen?” Ren asked.
+
+“I am, sir.” One of the remaining three said.
+
+“Your wife is going to be happy to see you.” Ren said, and he nodded.
+
+“I appreciate your help, but he won't be seeing his wife anytime soon.” The captain said. “As you can clearly see, this ship is currently beached at sea.”
+
+“I'll be taking you to Aurora.” Ren said.
+
+“I won't leave my ship!” The captain said. “I've got too much time and money invested in it to just leave it here!” He fumed. “What will my crew do when they all lose their jobs? What about my cargo? What about...”
+
+“Relax.” Ren said. “I meant I'm taking the whole ship.”
+
+“WHAAAAAAATT?!?” The captain yelled, as did a lot of the crew that had heard him.
+
+“Give me a few minutes to work it out.” Ren said, and walked through the air with Artemis over to Princess, then he crossed his arms. “We can't just drag it.”
+
+“Speaking for yourself.” Princess said. “I can drag anything.”
+
+Ren chuckled. “I meant, since the ship is on it's side, it would tear the hull apart if we dragged it at any given speed for any amount of time.”
+
+“Oh.” Princess said. “Can't you just cast the Air Walk spell on it, like we do for the carts?”
+
+“I could, but I don't want them to know I can easily transport all of the ships across the sea without having the ships touch the water.” Ren said. “All you'll be doing is ferrying ships to their destinations, albeit one at a time.”
+
+“Yes, there's no way that people wouldn't latch onto that idea and try to get you to help them bypass the Sea Dwellers completely.” Artemis added.
+
+Ren nodded. “I think I'll build a dry dock on wheels, then slide the ship onto it.” He said. “That way, I can cast Air Walk on the dock, and Princess can run through the air close to the water, without actually touching it.”
+
+“You want them to think that's the only way to get ships back to port?” Teepo asked.
+
+“We'll have to go at quarter speed, though.” Ren said.
+
+“It will take 2 hours at that speed to get back to land.” Princess sighed.
+
+Ren reached out and scratched her chin. “I did say we were going to do some travelling. I didn't say how fast.”
+
+“I knew I should have stayed home.” Princess joked, and Ren laughed.
+
+Ren got to work and built a long flat cart, just wide enough for the keel of the ship to fit in, then made the sides high enough to support the ship and stop it from toppling over.
+
+“It's a good thing wood floats.” Artemis said as Ren added the cross supports to stop the cart from collapsing under the weight. Ren then enchanted it with Reinforcement runes, Anti-dark runes, and increased it's Durability.
+
+“I think it's ready.” Ren said and looked at the ship, and saw that the entire crew were watching him from various spots on the ship. “Captain! I'm going to slide this under the ship and try to pick it up.”
+
+“You're crazy!” One of the crew yelled. “How can you lift this whole ship with something that can sink on it's own?”
+
+“As soon as I push this thing into position, the same spell that affected your ship will affect this as well.” Ren said. “Then, pop. Out of the water it'll be.” He smiled. “You better hold onto something.”
+
+The crew didn't say anything as they scrambled for handholds. Ren moved the long cart over to the front of the ship, then pushed it down and slid it under the tilted side. Once he thought it was in position, he cast Permanent Water Walking on it and it rose out of the water. The ship was caught by the cart as it rose, and the ship straightened up almost perfectly and slotted into the dry dock.
+
+“Well, I'll be damned.” The captain said. “It worked.”
+
+Ren cast Permanent Air Walk on the cart and then attached the cart to Princess. “Make your struggle look good.” He whispered to her, and she huffed at him. Ren climbed onto her saddle and the succubi and Artemis took up their flying positions around the ship instead of him, so they could keep an eye on the crew.

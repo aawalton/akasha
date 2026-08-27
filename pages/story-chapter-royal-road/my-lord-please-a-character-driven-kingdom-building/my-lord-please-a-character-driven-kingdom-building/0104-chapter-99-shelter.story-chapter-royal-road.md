@@ -1,0 +1,215 @@
+---
+id: 7e177d3c-aa79-5b25-860b-afb848ce12f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99 Shelter"
+slug: 0104-chapter-99-shelter
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 104
+ownLength: 2279
+unit: words
+publishedAt: 2026-07-19
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3698441/chapter-99-shelter"
+royalRoadId: "3698441"
+---
+
+When Lucien stepped out of the manor, the sun had barely risen over Ashridge.
+
+'At least the weather isn't as hot this time of the day.'
+
+He had said his farewells in the dining hall during a quiet breakfast. Talia had given him a small package with a wink. The moment Lucien took hold of it, the scent told him what it was.
+
+It seemed she had prepared a small batch ahead of time.
+
+Alicia fussed briefly over whether he would remember to eat the food she had packed for the road before assuring him that the drawing would be done by the time he returned, causing Talia to cast him a subtle look.
+
+Lucien adjusted the shoulder harness on his back, the hunting bow secured with it. The leather straps shifted awkwardly against the cloak draped over his shoulder, though Sera had clearly considered the issue less important than ensuring he carried the weapon properly.
+
+She had arranged for the harness to be made some time ago and handed it to him that morning with a solemn nod.
+
+He exhaled faintly through his nose as the events from earlier surfaced.
+
+Apparently, if his hands were occupied during meetings, then he simply needed another way to carry it everywhere.
+
+From her perspective, the problem was solved now.
+
+Shaking his head lightly, Lucien walked toward the stables only to come to a stop a distance away at the strange sight before him.
+
+Dorian was standing a distance away, his arms crossed and a slightly amused expression on his face.
+
+Nearer to the stables, Tomas stood at attention before Henric who wore a serious look on his face.
+
+Folding his arms behind his back, Henric cleared his throat before he spoke. "You intend to join House Varentis as a household guard, Tomas?"
+
+Tomas gave a rigid salute. "Yes. Captain Dorian has been teaching me the sword."
+
+Walking around him slowly, Henric shook his head firmly. "That is not sufficient, Tomas. A household guard is more than his skill in arms."
+
+Henric remained silent as he continued circling him slowly, a slightly confused expression appeared on Tomas’s face though he quickly stilled it when the guard shot him a look.
+
+Lucien decided to observe for now as he walked over to stand beside Dorian. He glanced toward the captain, brow raised in question. His guard captain merely shook his head, though the amused look on his face didn't fade.
+
+Henric came to a slow stop in front of him once more before he finally spoke. "Do you know what it is, Tomas?"
+
+When Tomas was about to speak, Henric cut him off. "It is loyalty to the Lord you serve. And you lack it."
+
+Despite the indignant look on Tomas’s face, he remained silent forcing himself still.
+
+Henric gave an approving nod at that before he spoke. "You believe I am mistaken."
+
+The silence was enough for Henric as he held the younger man's gaze. "I heard during Lord Lucien's trip to Helvarn, you were escorting him alone for much of it."
+
+At his words, Tomas stiffened before he inclined his head slowly.
+
+Henric's eyes narrowed slightly. "And you left him with Lady Talia when he first arrived in Helvarn."
+
+The dawning realization on Tomas's face briefly stilled at Henric's next words.
+
+“You should have stayed nearby to ensure his safety...and seen to it that their night went smoothly!”
+
+Tomas tilted his head though he remained standing straight. "...S-seen to it? But I don't think Lord Lucien would..."
+
+Shaking his head firmly, Henric let out a soft breath. "A household guard must go beyond just ensuring the safety of his Lord, Tomas. You must think of what the Lord you serve truly needs. That is the difference between a village guard and one who serves a noble's household."
+
+Beside him, his guard captain turned slightly away, though he could see the small curve at the corner of his mouth.
+
+His brow twitched while he shot Dorian a dry look. Lucien decided to end it there before Henric passed on his ridiculous notion of how to properly serve to the potential member.
+
+He let out a deliberate cough, causing the two guards to turn and face them.
+
+They straightened at the sight of them. "L-Lord Lucien, Captain Dorian!"
+
+Lucien let out a breath through his nose before speaking. “Are the horses ready for our departure?” he asked as he walked toward them with Dorian beside him.
+
+Henric dipped his head. "Yes, My Lord. We can set off whenever you are ready."
+
+Glancing toward the groom who had started to bring them over, Lucien inclined his head.
+
+"Let us be off then. The closer we can make camp near Helvarn, the safer it would be."
+
+The horses moved at a steady pace beneath the muted light of the late afternoon sun, their hooves carrying them along the worn northern road leading away from Ashridge.
+
+Behind them, the village had long since disappeared beyond the rolling terrain and sparse stretches of woodland.
+
+Lucien adjusted the reins lightly as his gaze swept across the open frontier around them.
+
+Compared to winter, the southern frontier looked almost deceptively calm during late spring. Grass had begun reclaiming stretches of earth left barren by snow while the distant ridges carried patches of green once more beneath the pale sky.
+
+And yet, after his conversation with Dorian, the quiet no longer felt entirely reassuring.
+
+Ahead of him, Henric rode with the same straight-backed posture he always carried while Tomas remained slightly behind the older guard, his expression still faintly conflicted from whatever absurd lesson Henric had attempted to impart earlier.
+
+Beside Lucien, Dorian glanced briefly toward the darkening horizon before speaking.
+
+“If the weather holds, we should reach Helvarn before mid-day tomorrow, My Lord.”
+
+Lucien inclined his head slowly. “There seem to be more people traveling the roads...you've lived in the frontier before, Dorian. Is this normal?”
+
+The guard captain’s expression remained unchanged as they rode. For a brief moment, it seemed as though he would not answer before he finally spoke.
+
+“...My village was farther east from here. During spring, the roads are often filled with people traveling the frontier to seek greener pastures after a poor Tithe."
+
+At those words, Lucien’s eyes lowered slightly in thought.
+
+He wondered if last year’s Tithe was considered poor by this world’s standards. After all, two variants had appeared in the vicinity of Ashridge. And if the eastern villages had fallen then perhaps...
+
+His thoughts were broken by Henric's voice from ahead, slightly distorted from the wind blowing through the open plains.
+
+"We should avoid camping too close to the tree line tonight, My Lord."
+
+Lucien’s gaze lifted toward the distant woods stretching along part of the western horizon before he gave a nod.
+
+Dorian’s hand rested closer to the sword at his side. “There’s an abandoned watch shelter further ahead. If no one else has claimed it yet, we’ll stop there for the night.”
+
+The group continued onward beneath the fading light, the sounds of hoofbeats gradually overtaking the last traces of Ashridge lingering in Lucien’s mind.
+
+By the time the last traces of sunlight disappeared beyond the plains, a small fire had already been lit within the abandoned watch shelter.
+
+Lucien found himself slightly more relaxed compared to his first time camping outside back during late winter.
+
+Part of the reason might have been the presence of Dorian, who efficiently handled the watch rotations and other miscellaneous tasks.
+
+Dinner had been a quiet affair, the group sharing small conversations over their meal.
+
+Lucien ignored the small nod Henric gave when he ate his meal carefully prepared by Alicia.
+
+Tomas looked like he was about to say something to the household guard only to fall silent when Henric shot him a look that practically screamed See? across the shelter.
+
+When it came time for watch duty and Tomas offered to take first watch, Lucien finally spoke dryly.
+
+“Henric. You should demonstrate your diligence as my household guard to Tomas.”
+
+The household guard straightened immediately. “By your command, My Lord. I shall take the first watch.”
+
+If not for the need to remain quiet, Lucien suspected the man would have loudly proclaimed the words instead.
+
+At the conflicted look on Tomas’s face, Dorian shook his head faintly. “Tomas, go practice your sword forms. Just because we are traveling does not mean you get to skip them. Keep it short and stop once you grow tired enough.”
+
+Tomas saluted before reaching for his sword and the two men headed outside the watch shelter.
+
+Even before they had gone beyond hearing distance, Lucien could already hear Henric beginning to give pointers on swordsmanship as their voices gradually faded into the night.
+
+Lucien shot his guard captain a look. "Is he always like that? I had thought you would have corrected his...zealous behavior by now."
+
+The small twitch at the corner of Dorian's mouth told him enough, a brief moment later it faded and a more solemn look came upon his face before he spoke.
+
+"Henric joined your household guard shortly before your father's...death."
+
+The sudden mention of his "father", caused Lucien to still. When Dorian studied him carefully, he merely shook his head and gestured lightly.
+
+"Go on. It's been months now and I have...moved past it."
+
+Slowly, the captain inclined his head. "After that, he considered it a personal failing for not being able to prevent it," he let out a soft breath. "Since then, he has sought to go far beyond what is asked of him whenever an order is given."
+
+Lucien's gaze shifted toward the firepit before them. "And you can't rein that in without touching Henric's sore spot and his...personal oath."
+
+Tossing another log into the firepit, Dorian remained silent for a brief moment before he spoke slowly. "...Forgive my bluntness, My Lord. But there are times when a household guard is simply powerless in the face of the games nobles play."
+
+His eyes moved to meet Lucien's. "Henric did not have the time to learn that lesson yet before your father's death."
+
+Lucien's brow creased faintly as he considered whether to ask here before deciding to do it anyway. "...How did you come to join House Varentis? If you had lived in the frontier during your younger years then..."
+
+At his words, Dorian stiffened briefly before he exhaled through his nose. He reached toward the pouch at his belt before pulling out the hobgoblin fang.
+
+He regarded it briefly, before shaking his head. "After what had happened...I left my village and traveled to Helvarn. I couldn't stay there without constantly being reminded of my failure."
+
+"When I was considering whether to join Helvarn's guards or become a mercenary...your father gave me one look before he said I like the look in your eyes. Would you consider joining my guard?"
+
+Lucien shot him an incredulous look. "That seems a little..."
+
+The captain let out a small chuckle. "Yes. I gave him that exact same look on your face as well. But haven't you realized, My Lord?"
+
+At Lucien's questioning look, Dorian nodded toward the direction where Henric had left. "Your father had a penchant for picking up...strays. All of us who remained as your household guards were picked up from somewhere at some point."
+
+It was slightly fortunate that the captain seemed to misunderstand his lack of knowledge and even more so when he continued speaking.
+
+"House Varentis had twenty five household guards before their fall in the capital. Those of us who are left, were those who your father had given his offer during his travels around the kingdom for his work."
+
+A slight scowl cast over Dorian's face as he spoke. "The twenty who left were the ones that were selected the traditional way." He let out a disdainful snort. "They had always claimed to be proper guards yet they threw away their oath as soon as fortunes turned."
+
+Lucien gave a slow nod before he carefully spoke. "I suppose that explains why you and the others had remained...did the previous guard captain of House Varentis leave as well?"
+
+He was slightly relieved when there was no suspicion on Dorian's face as he slowly shook his head. "I do not know, My Lord. The others and myself often traveled with your father for his work while the remaining guards were stationed at the capital."
+
+Dorian's brow creased faintly as he stared into the firepit. "...I only knew the previous guard captain disappeared shortly before your father's death."
+
+"...Before?"
+
+The captain inclined his head. "Yes. Right after that, I became your guard captain...Merek insisted."
+
+A brief moment later, he let out a snort. "The others had chosen him at first but he claimed a younger guard captain would suit a young lord more. He just didn't want the position because of the additional stress it would bring."
+
+At his words, Lucien's brow lifted. "I suppose he was right in the end. Considering the amount of headache I put you through during the Tithe."
+
+Dorian glanced away, a slight twitch at the corner of his mouth was the only indication of his amusement.
+
+After that, the two men remained quietly by the fire, the soft crackling gradually overtaking the conversation between them.
+
+Outside the abandoned shelter, Henric’s distant voice occasionally carried faintly through the night as he continued instructing Tomas.
+
+Eventually, Lucien let out a soft breath before bidding the captain good night.
+
+As he crawled into the bedroll, Dorian’s mention of the former guard captain lingered at the back of his mind.
+
+But for now, there was little point dwelling on matters long past.
+
+Tomorrow, they would reach Helvarn.

@@ -1,0 +1,343 @@
+---
+id: 8db51567-6967-51aa-85c8-9b9d8f82311d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 198 - Uh Oh!"
+slug: 0186-chapter-198-uh-oh
+partOf: mythrans-master-of-all-continued-completed
+position: 186
+ownLength: 3391
+unit: words
+publishedAt: 2017-03-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/124083/chapter-198-uh-oh"
+royalRoadId: "124083"
+---
+
+“I'm totally going to regret this, aren't I?” Gloria asked.
+
+“Don't worry.” Stella chuckled and pat her arm. “Of course you will.”
+
+“Hey, at least we won't ask you to put in your 12 hours right now.” Ren laughed at Gloria's expression. “Not tomorrow either.” He said. “Stella has to fill out the employee and tax forms, then file them on Monday.”
+
+“I can do some preliminary work today, if you want me to.” Gloria offered.
+
+“What do you think, Ren?” Stella asked him.
+
+“I think you're going to abuse Gloria's good nature.”
+
+Gloria snorted a laugh. “Hey, I thought you knew me.”
+
+“I do.” Ren said, and winked at her. “The real you.”
+
+“Whatever.” Gloria said. “At least let me help fill out the forms.”
+
+“That's a good idea.” Stella said, and they filled out all of the relevant paperwork. “Well, that definitely went a lot faster than trying to find out your information from your resume and identification.”
+
+“It's definitely a lot easier to talk to someone, instead of reading bland text.” Gloria said.
+
+“Ain't that the truth.” Ren said. “I poured over everything about F.L.O.W. for weeks before I could play it, then learned more about playing it in one day compared to all of the reading I did.” He smiled. “I knew the details; but until I experienced it for myself, the words alone didn't mean a whole lot.”
+
+Gloria looked at him.
+
+“Yes, I'm implying that even if Stella knew all about you, she would still want to meet you.”
+
+Stella laughed. “He's right. I wouldn't have hired you sight unseen, no matter how good your qualifications are.”
+
+Gloria nodded, then looked at the pieces of the VR console. “Well, I guess I better put this back together.”
+
+“That would be a good choice, since it's yours.” Ren said, then grinned at her surprised face.
+
+“Thank you.” Gloria said, reassembled the console quickly, and put everything back in the box. “This is quite generous of you.”
+
+“You said you needed one to tinker with.” Ren said. “So have fun with it.”
+
+“I will.” Gloria said and put her tools away in her backpack.
+
+“I'll have copies of these forms made, and I'll send them to you.” Stella said as she put everything back into her small briefcase. She stood up and looked at Gloria, and then at Ren. “I hope this will be the beginning of a wonderful working relationship.”
+
+“It will.” Ren said. “Gloria and I already agreed that it will be 'work only' in the real world.”
+
+“Really?” Stella had a wicked gleam in her eye as she turned to Gloria. “You're going to be able to keep your hands off each other, after everything you've done together in the game?”
+
+Gloria blushed. “That's... that's what I said. Only in the game.”
+
+Stella put a hand on Gloria's shoulder. “That's very admirable.”
+
+“Thank you.”
+
+“Totally unrealistic, but admirable.” Stella said and chuckled. “I better get going.” She said and gave a little wave, then walked towards the door with her briefcase in hand.
+
+“Me, too.” Gloria said as she picked up her backpack and the console, then turned to follow Stella.
+
+“Gloria? Can I talk to you for a minute?” Ren asked.
+
+“Um... sure.” Gloria said, and put her things down.
+
+“See you later, Ren.” Stella said from the doorway.
+
+“Bye, Stella. See you tomorrow.” Ren said, then the door shut behind Stella.
+
+“What is it?” Gloria asked.
+
+“Are you logging back into the game later?”
+
+Gloria looked a little spooked for a moment. “I don't know.”
+
+“I want you to.” Ren said. “Do it tonight. That way we'll have lots of time to deal with things.”
+
+“Ren, I...” Gloria sighed. “I... don't want to think about what happened.”
+
+“Then don't think about it.” Ren said. “I want you to do something about it.”
+
+“What do you mean?”
+
+“I mean... I want you to message me about what happened during your attack, or meet me at the business and tell me about it in person.”
+
+“But... I... I already told you about it!” Gloria nearly shouted.
+
+“Yes you did. Out here.” Ren said and waved around. “I need you to tell me about it in the game, though. That way, I can help you.”
+
+“Wh-what?”
+
+“I can't really start things on my own, with only what I saw in the game.” Ren said. “But, if you tell my game character what your game character went through...” He grinned. “I can issue a quest.”
+
+Gloria's eyes widened. “A quest?”
+
+Ren nodded. “Then you can form a party, add me to it, then we can go and whip some Dark Elf ass.”
+
+“Oh, Ren.” Gloria said, and gave him a hug. “You don't have to do this.”
+
+“Yes, I do.” Ren said as she let him out of the hug. “Even Nathalia wants in on it.”
+
+“Wh-wh-what?!?” Gloria stammered.
+
+“I bought Mitchell's old place to make it a restaurant, and built an identical building in the dwarf lands.” Ren grinned. “I made Nathalia the business owner of both, then made a portal for her.”
+
+“Oh, my god!” Gloria said, and sat down. “You... you...”
+
+“Spent a ton of platinum just to bring an NPC into the human realm.” Ren said and laughed. “She can't stay for long, since she's the Head of House Neram, but...”
+
+“But?”
+
+“She was nearly as angry about what happened to you as I was.”
+
+“She... she was?!?” Gloria asked, surprised.
+
+Ren nodded. “She actually said she wanted to come and help you, but couldn't; because that would take weeks by boat for her to get here.”
+
+“Wow.”
+
+“I know.” Ren said. “She's quite the woman.” He grinned. “She was so excited when I told her about the restaurant idea, and she actually could come and help you.”
+
+“Ren, I... good god.” Gloria shook her head. “I can't... I can't thank you enough.”
+
+“Don't thank me yet.” Ren looked at her seriously. “Wait until we get some payback for what happened.” He smiled evilly. “Then you can thank me... by putting your sword through their heads.”
+
+*
+
+Elise Stanford, the secretary at Sid Tec, was flooded with calls and emails. She'd had to call in the temp, just to handle the overflow.
+
+“Ms. Stanford!” Edward Torren, the CEO of Sid Tec, called from his office. Elise hit pause on the business phone and the calls shunted to the temp. She got up and went into his office.
+
+“Yes, sir?”
+
+“How many new clients do we have so far?”
+
+“Nearly a thousand, sir.”
+
+“Wh-what?!?”
+
+“I've already put a rush on fabrication of the headsets to keep up with the demand.” Elise said. “We're running out of stock.”
+
+“You're kidding!”
+
+“No, sir.” Elise said and smiled. “Even people who've never played anything like it before, want to try it.”
+
+“This... this is fantastic!” Edward said “We've never had this much interest before.”
+
+“It's all thanks to Mr. Haddon's show, sir.”
+
+“Don't I know it!” Edward said and laughed. “It's the best free advertising we've ever had!”
+
+“There is a downside, though.” Elise said, and her happy face turned to sadness. “I've been bombarded by calls and messages about Ren.” She said. “Apparently, one of the nurses who saw the show last night gave an interview with the news and told them that he was the star.”
+
+“WHAT?!?” Edward's face went from happy to angry. “How could she be so stupid?”
+
+“I don't know, sir.” Elise said. “Most of the inquiries are asking for confirmation of the details.”
+
+“Damn.” Edward said. “Poor kid's probably going to be swamped with fans and money-grubbers.”
+
+“Unfortunately.” Elise said.
+
+“Should we issue a statement about it?”
+
+“You already did, sir.” She smiled. “You stated that it was deplorable that some people will do anything for their 15 minutes of fame, and that any breech of privacy, if it did occur, was not condoned nor acknowledged by Sid Tec, nor any of it's affiliates.”
+
+“What about the television station?”
+
+“They've already have a lawsuit filed against the news program and the lead anchor.”
+
+“Oh, crap.”
+
+“Yes, sir.” Elise said, and her face turned predatory. “Not only did they fail to confirm the 'facts' that nurse spouted; but they didn't contact us, the hospital, or Mr. Haddon about revealing his identity publicly.”
+
+“They are so screwed.” Edward said. “Who filed it?”
+
+“The Civil Rights Union, on behalf of Mr. Haddon.”
+
+Edward shook his head. “This is going to blow up beyond all proportions, isn't it?”
+
+Elise nodded, and he sighed.
+
+“Well, there's not much else we can do.” Edward said. “If they call for a copy of the confidentiality agreements, give it to them.”
+
+“It's already sent, sir.” Elise said.
+
+“Excellent! You always do a great job, Ms. Stanford.” Edward said. “You had better get back to your desk.” He said and grinned. “You know that old saying... even bad publicity is still publicity.”
+
+“Yes, sir.” Elise said and left the office to sit down at her desk. I'm so sorry about this, Ren. She thought as she put her phone back into the circuit. If I knew that you'd be found out so quickly... She sighed. I'd have still done it; but, I would have at least warned you of the possibility!
+
+*
+
+Gloria left Ren's room in high spirits. Not only do I have a job that will look great on my resume, it has great pay, is only one day a week, and I can work on modern technology to my heart's content! She almost let her laughter bubble out uncontrollably, but kept it under wraps until she got outside and into her car. I can also get those bastards back for draining me! She started laughing, and very carefully didn't peel her tires as she left the parking lot.
+
+*
+
+Ren laid back in the bed and was in a good mood. He had watched Gloria's reaction to what he said, and smiled. I could almost feel how happy she was. He thought as Denise came back into the room.
+
+“Did you guys get everything worked out?” Denise asked.
+
+“Not everything.” Ren said. “Just enough to get the ball rolling.”
+
+“Really?” Denise asked. “They were in here for a while.”
+
+“We had a lot to discuss before we finally settled on the job offer.”
+
+“Ah.” She said. “How did that go?”
+
+“I think we all came to a good understanding.”
+
+Denise nodded. “Are you heading into the game?”
+
+“Right after I use the bathroom.” Ren said, and slid out of the bed. He walked towards the bathroom, and turned when Denise spoke.
+
+“Aren't you forgetting something?” She asked.
+
+“I... don't think so.” Ren said. “I'm just using the bathroom.”
+
+Denise slid a hand into the cubbyhole of the rollaway table, that Ren hid things in. She brought out a foil packet and held it up. Ren's eyes widened, and his face flushed red. She smiled as she walked over to him, and he held his hand out for it.
+
+“T-thank you.” Ren said as she handed it to him.
+
+“You've been very careful about not making messes for us to clean up.”
+
+His face flushed a deeper red as he nodded. “You already do so much for me.” Ren said. “I can't expect you to clean... that... up, too.”
+
+Denise put a hand on his shoulder. “Thank you.” She said. “I wish all of the patients here were as caring about things like this.” She smiled. “Go ahead and take care of things.”
+
+“O-okay.” Ren said and went into the bathroom. Boy, that could have been a huge mistake on my part!  He thought as he used the bathroom, and took care of business. Just imagine!  He shook his head. I'd be so embarrassed, and would probably have ruined my new pajamas.
+
+*
+
+Denise tried to keep her laughter to herself. He looked so cute!  She thought. He acted like I'd caught him actually doing something!
+
+*
+
+Ren came out of the bathroom a few minutes later, and glanced at Denise. She only smiled at him, and when he climbed into the bed, she handed him his VR headset.
+
+“You're not going to tease me about it, are you?” Ren asked, as she helped him put the headset on.
+
+“Why would I do that?” Denise asked. “You're actually doing me a favor by wearing it.”
+
+“Thanks, Denise.” Ren relaxed and settled down in the bed. “See you at supper.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, stood up and went to Nathalia's bedroom. Hi, Teepo.
+
+“Hi, Ren.” Teepo said.
+
+Anything happen while I was gone?
+
+“Only Nathalia tucking Ereka into bed.”
+
+Really? Isn't that a little odd?
+
+“Not really.” Teepo said. “Ereka was pretty desperate to get some sleep, so Nathalia offered to help.”
+
+Did it work?
+
+“I haven't seen or heard Ereka on any of my patrols, like the last few nights.” Teepo said. “So, I think so.”
+
+Cool. Ren thought. Wake me in the morning if I'm not up.
+
+“Sure thing, Ren.” Teepo said. “Goodnight.”
+
+Goodnight. Ren opened Nathalia's bedroom door, slipped inside, and then climbed into bed.
+
+Stat Change!
+
+Sneak Level 1 (Intermediate 0%)
+
+He dismissed the popup and snuggled into Nathalia. She didn't move at all, so he put a hand on her hip and went to sleep.
+
+*
+
+“By the gods, get back here!” Nershan, the little dwarf with Groggot and Croggart, whispered to the pair of brothers. “We're only supposed to track them!”
+
+The two brothers ignored his pleas for restraint, and crawled through the underbrush.
+
+“I can't believe we actually found one.” Croggart whispered to his brother.
+
+“I can't believe I'm stupid enough to do this with you.” Groggot whispered back. “Nershan's right. I need to get back and tell the Garrison there's another one close by.”
+
+“Close by?” Croggart asked. “We're nearly 3 full days travel away from the Garrison.”
+
+“I know that.” Groggot said. “Three days out is my limit. I need to report in.”
+
+“We'll head back in the morning.” Croggart said. “This I've got to see.”
+
+The pair of brothers didn't have to whisper, or be quiet, since the giant they had found wasn't being quiet in the least. She was screaming her head off, swinging her arms as if trying to knock something away, and then they watched in amazement as she grabbed a nearby tree, pulled it up roots and all, then swung it at her own head.
+
+“What the hell is she doing?” Groggot asked.
+
+After several hits, the female giant staggered around, and went down on one knee. She dropped the tree and put her hands on her head. She let out another bellow, and frantically looked around. She put her nose up in the air, as if she caught the scent of something, then sniffed. Her head whipped around and her eyes landed on the pair of brothers. For the first time in their lives, the brothers felt real fear. The female giant screamed at them, picked up the tree she had dropped, and then ran towards them.
+
+“Raaawwrrrrr!”
+
+“RUN!” Groggot yelled, and the brothers stood up and took off running. It was pointless however; since the giant's legs were longer than they were tall. She stood about 20 feet tall, a little small for a giant; but she was faster than the larger ones, so she caught up to them only a few seconds later. She swung the tree and hooked Croggart in the back with it. The big bushy top of the tree's branches clanged against his armor, and the force of the blow picked him up and tossed him 30 feet into the air. He flew end over end and hit a nearby tree's top branches, went through them, then smashed down through another tree's branches towards the ground.
+
+Croggart managed to keep his wits about him, and stuck out his arms to try and slow his fall. He managed to grab several branches on the way to the ground, and they slowed his fall somewhat. He hit the ground hard, and had the wind knocked out of him. After several minutes of pain and silence, Croggart managed to stand up. Thanks to the armor Ren had given him, he had survived the attack; but, was more beaten and bruised than he'd ever been before. He leaned against the tree he'd just crashed into, and took stock of the situation.
+
+The armor was dented and cracked, both the back and chest pieces. The marking on the front had a large crack across it, and he'd lost one of the gauntlets and the helm. He still couldn't hear anything; but he didn't know if it was him, or if there wasn't any sound. As a test, he put his fingers to his ears, and snapped them. One ear worked fine, but the other one had nothing.
+
+Dammit. Croggart thought. I'm going to be useless in a fight if I don't get my hearing back. He turned his head so that the one working ear could hear anything that might need to be heard, and there was nothing. No animals, no birds, and barely any wind to rattle the tree branches. He waited a few minutes, then moved around slowly. Croggart easily found the path of destruction the giant had left, and followed it. He didn't have to look long before he found Nershan. At least, what was left of him. His legs had been caught in one of the giant's footsteps, and were crushed into pulp. If Croggart had to guess, she must have stopped and grabbed Nershan, then pulled without lifting the foot. All that was there was hips and pulped legs. He walked on for another 20 feet, and found the rest of Nershan. The imprint of giant teeth on the chest almost made Croggart throw up; but, at least she hadn't eaten all of him.
+
+Nershan's face had a surprised look on it, and the blank eyes stared up at the sky. Croggart knelt by him and closed them. He took out 2 silver coins and performed the funeral ritual for fallen warriors, the body was enveloped in a soft white glow for a moment, then disappeared.
+
+“Safe journey.” Croggart said. He kept walking, and gathered his strength. He could only hope against all the odds, and the evidence, that his brother hadn't met the same terrible fate.
+
+*
+
+Jhulune, the worker from the lumber mill, cuddled under her blanket. Since her and Brian weren't an item anymore, she'd had several of the guys ask her out. She very politely declined each offer, and said that she was taking a break from being a couple for a while.
+
+-S
+
+Jhulune tried to keep herself quiet as she rubbed herself between her legs with one hand, and bit down on the other. She remembered how Ren had made her feel so good, and she bit her hand harder as she rubbed harder. She mumbled his name over and over as she pleased herself, and gasped as an orgasm caught her. After her muscles stopped twitching, she relaxed and curled in tighter and hugged herself.
+
+-E
+
+Oh, Ren! Jhulune thought. I can't wait until I see you again!
+
+*
+
+Barnar held the Queen in his arms. He thought it was presumptuous to do such a thing, but Narhilda had finally convinced him that what he did in the bedroom with her, wouldn't reflect on him as a man outside of the bedroom. He still wasn't sure that was true; but, Narhilda seemed to be genuinely happy that he cuddled her at night. He looked at her sleeping face, and saw happiness there.
+
+I guess I am doing something right. Barnar thought, and drifted off to sleep.
+
+*
+
+Deresdra, the healer at House Neram Mines, lay awake in her very comfortable bed, and tried her best not to scream in frustration. She was surrounded by all of the things Ren had given her, had more money than she knew what to do with it, that he had also given her, and she should have been happier than she had ever been in her life.
+
+All she could think about however, was how frustrating it was that Ren didn't want her as a woman; even though it was her that had made him into a proper-looking man.

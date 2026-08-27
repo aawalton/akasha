@@ -1,0 +1,261 @@
+---
+id: 14434834-ee46-5ad8-81f2-394f34a412dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 205 - Poor Ren"
+slug: 0193-chapter-205-poor-ren
+partOf: mythrans-master-of-all-continued-completed
+position: 193
+ownLength: 2708
+unit: words
+publishedAt: 2017-03-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126068/chapter-205-poor-ren"
+royalRoadId: "126068"
+---
+
+The darkness was all encompassing. Ren tried to blink his eyes to let them adjust to the darkness, but he couldn't even see his own hand in front of his face. After almost poking himself in the eye, he stopped trying to see it. He waited anxiously, like he always did, to find out what it was he would have to do today to make his mother like him. He hoped beyond hope that today would be the day she would finally give him the hug that he'd always wanted from her.
+
+*
+
+Elise Stanford, the secretary from Sid Tec, stormed into the hospital like a tornado through a trailer park. Everyone got out of her way as she made her way to Ren's room. When she got there, she saw his beaten and battered body.
+
+“Oh, my GOD!” She exclaimed and rushed over to him. Her eyes burst into tears as they traced the pattern of bruises up his arms and to his shoulders. When she looked around and saw that no one was attending to him, she got angry. She knew that he was supposed to have a nurse on-hand at all times, just in case of an emergency, so she wiped her eyes and stormed back down the hallway to the nurse's desk.
+
+“Why is Ren Haddon alone in his room?” Elise asked the startled nurse.
+
+“The pain medication knocked him out.” She said. “He shouldn't need anyone there while he sleeps.”
+
+“There is supposed to be an attending nurse.” Elise said. “Where is she?”
+
+“Not that it's any of your business, but she's on psychiatric leave.” The nurse said. “The incident today was too much for her.”
+
+“Then call in the alternate nurse!” Elise said.
+
+“She was the alternate nurse.”
+
+“Wh-what?”
+
+“There's only so many nurses working here.” The desk nurse said. “When his full time nurse left, they had to split her shifts among the replacements.”
+
+“Oh.” Elise said. “So there's no one available that can sit with him at all today?”
+
+The nurse shook her head. “Denise is scheduled to be in tomorrow.”
+
+Elise rubbed her forehead with a hand. “So, you're telling me, that a patient that requires 24 hour around the clock care, won't get that care until tomorrow?”
+
+The nurse saw the logic trap, so she didn't say anything. Elise sighed and took out her cell phone.
+
+“Hi, Tara.” “I'm sorry I have to do this to you.” “Yes.” “Uh huh.” “Yeah, I'm going to be here all day.” “No, I don't know.” “Thanks, Tara.” “Bye.”
+
+Elise hung up the cell phone and looked at the desk nurse. “Tell me what I need to do.”
+
+*
+
+Ren tried to open his eyes, but everything was sluggish and they barely moved. He also tried to speak, and it felt like his mouth was full of cotton balls.
+
+“Muh... mah...” He mumbled.
+
+“Oh! He's awake!” A woman's voice said. Ren recognized it, but couldn't remember who it belonged to. His thoughts weren't coming together like they usually did.
+
+“Ren? How are you feeling?” Another woman's voice said, and he couldn't remember her name, either.
+
+“Mluah...” He tried to say.
+
+“What in the world did they give him?!?” The first woman nearly shouted. “He's been unconscious since yesterday!”
+
+“I don't know.” The other woman said. “All I know is that he was given something for the pain.”
+
+Ren tried to move his arms, but they were secured to something.
+
+“Mah!” He said and shifted his arm.
+
+“No, don't move!” The first woman said. “You're really hurt, and there's... there's... IV needles in your arms.”
+
+Ren sighed and his tongue flapped out.
+
+“I don't care how you do it.” The first woman said to the other. “But you find that nurse! Look at the footage! See where she came from!”
+
+“What footage?”
+
+“Don't tell me the cameras are fake!”
+
+The other voice didn't say anything.
+
+“That does it!” The woman said vehemently and took out her cell phone. “I will not leave him here for another day, just so he can be mistreated!”
+
+“There's nothing you can do.” The other voice said. “He's a ward of the state.”
+
+The first woman laughed. “He's over 18 now, rich, and has me on his side.” She said. “Just watch and see what I can do for him!”
+
+Ren tried to smile as he heard the woman defend him. Part of his lip curled up and showed a bit of teeth, then the darkness consumed him once again and he drifted back to sleep.
+
+*
+
+“Excuse me?” Elise said an hour later. “Janice, did you just tell me that there's almost no money left in Ren's court settlement account? How the hell did that happen?!?” She listened to the response. “That shouldn't be possible.” She sighed. “He's supposed to be living on the interest alone! Who took all that money out?” She frowned. “What do you mean, you don't know?” Elise sighed again. “Yes, I know it's not your account. Who's is it?” Her eyes widened. “You're kidding.”
+
+“What's going on?” Denise asked, and Elise held up a hand for her to be quiet.
+
+“Dammit, is there nothing you can do about it?” Elise listened, then sighed again. “We can't leave his other money just sitting there for them to take.” She said. “I want you to transfer the other two accounts to another bank.” She shook her head. “No, he can't give you authorization. They drugged him up to his eyeballs, and he can't even speak. He was awake for a minute not long ago; but I don't know how long he's been this way, or how long until he's not.” She said. “Just get the ball rolling, and set everything up. I'll do what I can on this end to fix things.” She hung up the phone and looked at Denise. “Apparently someone, through the bank manager no less, has been siphoning off Ren's settlement fund.”
+
+“You're kidding!” Denise said, surprised.
+
+“I wish I was.” Elise said. “Janice can only see the records of the transactions, so she can't tell me who it was. Or even if it was only a single person doing it.”
+
+“Good god.” Denise said and looked at Ren. “Poor Ren.”
+
+“Yes, poor Ren. Almost literally.” Elise said. “It's a good thing his show was picked up for the season.” She looked at Denise. “I'm going to do something drastic, so I don't want you to say anything for the next few minutes.”
+
+“What?” Denise asked, concerned.
+
+“I'm calling Sid Tec's lawyers.”
+
+“What can they do?”
+
+“They are going to contact the law firm that handled Ren's case.” Elise said. “I don't think they are going to be happy about how his funds have been mishandled.”
+
+“How do you know they aren't involved themselves?”
+
+“Because they get paid out of that account.” Elise said. “And if there's one thing that lawyers can't stand, it's when they can't get paid.” She grinned. “They will move hell and high water to find out what happened to that money!”
+
+*
+
+Ren could feel something chewing on his belly. He tried his best to ignore it, like his mother wanted him to; but it became too much to bear after a while, and he started swatting it away. He still couldn't see anything; but that was because of the blindfold this time, and not because of the lack of light.
+
+“Time.” A woman's voice said, and after a moment, a cool liquid flowed over his belly and the chewing stopped immediately. Ren heard her shoes clack against the tiled floor as she approached him. “You did really well this time, son.”
+
+Ren felt all warm and fuzzy inside at her praise. He had been worried that she would be angry at him for disobeying her. He shivered involuntarily when he remembered the last time she was unhappy with him.
+
+“I, on the other hand, am disappointed.” A man's voice said, and Ren froze. “I expected at least another few minutes.”
+
+The electrodes attached to Ren's head lit the EKG machine up like a Christmas tree.
+
+“No!” Ren's mother said. “Look what you've done!”
+
+Ren heard a loud slap, and his father grunted.
+
+“You weren't supposed to speak, you fool!” She growled at him. “You've skewed the test results!”
+
+“Just cut that part off of the sheet.”
+
+“It's not the sheet, it's the pool of data!” She nearly screamed at him. “Now I have to start all over again!”
+
+“I'm sorry.” His father said sarcastically.
+
+“No, you're not.” Ren's mother said. “But, you will be.”
+
+Ren tried not to smile, but he couldn't help himself and it spread across his face. He's going to get it now!
+
+*
+
+By that afternoon, Elise had arranged for Ren's transfer to a temporary care facility.
+
+“How did you do that?” Denise asked. “We can barely get permission to bring him outside the hospital once a month, and now you're taking Ren completely out of it!”
+
+“I believe the threat of a lawsuit, and press conference showing their lack of care and security for their now very high profile patient, might have swayed the hospital board's decision.”
+
+Denise opened her mouth to say that they wouldn't let Ren go, just from the threat of a lawsuit, and then she looked at Elise.
+
+“You're really going to sue them, aren't you?”
+
+“You bet your panties I am.” Elise said. “And they know it looks bad.” She motioned to Ren. “It should never have gotten to this point. Ever.”
+
+There was a knock on the room door, and then a young woman came in wearing tight blue jeans and a loose-fitting t-shirt. Part of the left side of her head was shaved, and her hair was a bright bubblegum pink with blue streaks.
+
+“Hi, Ren. I'm here to pick up the... OH MY GOD!” Gloria exclaimed as she saw Ren. His upper body was still exposed because the numbing cream had to be applied every 6 hours. The edges of the bruises had turned a sickly yellow, but the centers were still a deep purple.
+
+“What... what happened?” Gloria asked with concern in her voice.
+
+Denise and Elise filled her in on what had been going on, and she nearly cried.
+
+“Poor Ren!” Gloria said as she stood by his bedside. “What's going to happen now?”
+
+“I'm taking him out of here, for one.” Elise said. “I can't leave him here, where anyone that wants to do him harm, can just walk in and do it to him.”
+
+“Can I still visit him?” Gloria asked.
+
+“That depends.” Denise said. “Did you send him the spider?”
+
+“Wh-what?!?” Gloria had a shocked look on her face. “I'd never do that!”
+
+“How do we know that?” Elise asked.
+
+Gloria took a deep breath and sighed. “First off, I care about him. He helps me in the game like no one else does.” She said. “Second, I can barely afford the gas it takes to go from home, to school, and to work. I'd never be able to buy something like that!”
+
+Elise nodded. “Then yes, you can come and visit.”
+
+“How long will he be like this?” Gloria asked.
+
+“I wish we knew.” Elise said. “I really wish we knew.”
+
+*
+
+Ren was floating in the darkness. The water lapped up and onto his face when he moved, but he didn't care. The sensory-deprivation chamber was the only real escape that he had from the real world, and the things he had to do every day. He smiled to himself. He had tricked his parents early on by pretending that he hated it in here, and now they took it upon themselves to 'punish' him by leaving him in here for hours at a time. Something bumped the side of the chamber, and it echoed loudly inside. Thankfully, his ears were below the water level and all he heard was a low thump.
+
+“I hope you're suffering in there, boy!” His father said, and hit the chamber again. Ren sighed because it sounded like his father had been drinking again. “It had better be worth all this money to make you scared!” He said. “You're no good to us otherwise!” He said and hit the chamber again.
+
+“What are you doing?” Ren's mother said. “You're interfering in Ren's quiet time!”
+
+“Quiet time!” His father said. “He's always quiet!”
+
+“Maybe if you left him alone sometimes, he might actually speak!”
+
+“Ha!” He thumped the chamber again. “What's he going to say? Daddy! You scare me!” His father laughed. “I already know that. We set it up that way!”
+
+“Shut UP!” Ren's mother said. He couldn't hear the slap; but, he knew it had happened, because a moment later, his mother screamed and fell to the floor.
+
+“Don't hit me again, woman!” He said. “Or you'll get it back ten-fold!”
+
+“If you keep this up, you'll ruin everything!” She said.
+
+Ren didn't wonder what she meant. He knew exactly what would be ruined. Their perfect little test subject.
+
+Him.
+
+*
+
+Surprisingly enough, it didn't take long to move Ren and his things to the temporary care facility. He didn't have a lot of worldly possessions to his name, so the people that had come to help him move didn't have a lot to do. There were some mementos, a dresser and a cabinet of clothes, the lock box with all of his important papers in it, and the things from his bathroom. That was pretty much it.
+
+“His whole life. Right here in these few boxes.” Barbara said as she put the last box onto the pile. “I never thought I'd see...” She stopped a tear from escaping her eye.
+
+“You've been there with him since the beginning.” Elise said, and Barbara nodded.
+
+“It's been a pleasure taking care of him all these years.” Barbara said. “I can't believe it's over.”
+
+“It doesn't have to be.”
+
+“Wh-what?”
+
+“I think it's time you retired from the hospital.” Elise said. “Ren's going to need you now, more than ever.”
+
+“I... I...”
+
+Elise looked at Stella. “Now that Ren isn't at the hospital, you don't have much of a job left, right?”
+
+Stella opened her mouth to say that she had lots of work to keep her occupied, then remembered she worked for Ren every third day. Her pay was going to be severely reduced, now that there wasn't any official funds coming in for him. She closed her mouth, and Elise smiled.
+
+“That's right. You're going to lose the most important part of your work; or you can keep going if you want to.”
+
+The two women looked at each other.
+
+“What about Bonnie and Denise?” Stella asked.
+
+“I don't think Bonnie is going to be any good to anyone for a while.” Barbara said, and shivered. “I saw the spider, and what happened to Ren.”
+
+Stella nodded. “I'll ask her about that in a few days.” She said. “Denise I'll ask when I go back to the hospital.”
+
+“So, you're going back?” Elise asked.
+
+“Yeah.” Stella said and smiled. “I need to clean out my locker.”
+
+“Me, too.” Barbara said. “I'll come with you.”
+
+Elise smiled as the two women left the room, and she went over to sit beside the bed.
+
+“I hope this won't be too much of a shock for you when you wake up.” Elise said, and gently took Ren's hand. “The best part of it is, it's going to be much harder for people to find you now.”
+
+*
+
+Ren laid on the examination table, his small body completely exposed to the intense cold of the freezer. He shook and shivered as his skin started to stick to the metal table; but, his mother had warned him that he was not to move, or curl up into a ball, or hug himself at all.
+
+“Why?” He had asked her. She had just shaken her head and didn't say anything as she undressed him. Ren tried to remain as still as possible, because he knew there was someone else behind the glass today. If he made that person happy, then his mother would be happy; and that was all that Ren wanted.
+
+Perhaps today would be the day he would get that hug.

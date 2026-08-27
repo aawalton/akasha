@@ -1,0 +1,253 @@
+---
+id: 51d4586b-d86c-52d7-8367-d2d95a60b6f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 337 - Caravan Version 2"
+slug: 0330-chapter-337-caravan-version-2
+partOf: mythrans-master-of-all-continued-completed
+position: 330
+ownLength: 3921
+unit: words
+publishedAt: 2017-08-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156767/chapter-337-caravan-version-2"
+royalRoadId: "156767"
+---
+
+Ren woke up about 3 hours later, long before he needed to get up, and felt a lot of warm flesh under his hands. He gave both of his hands a little squeeze to see what it was he was touching, and he heard two women moan a little. He came fully to himself, and tried to pull his hands back, but several sets of hands held on to him.
+
+“Just... a few more minutes.” Lusinia said. “Please.”
+
+Ren lifted his head to look, and he saw that both of his arms now covered all 4 of the women's chests, with one hand feeling Lusinia's right breast, and the other hand feeling Navruth's left breast.
+
+“You've got about 2 hours before the meeting with Jen.” Teepo said.
+
+“Lucinia, Navruth? Switch places with Andrela and Verwynn.” Ren said, and they looked at him with surprise on their faces. “I promised I'd give you all equal time, remember?”
+
+He could feel the excitement in the shared Aura, and he could feel their hearts beating faster with his arms. They let him go and switched places, and he put his hands on Verwynn and Andrela's breasts.
+
+“Mmm!” Verwynn moaned as Ren massaged her. “Thank you!”
+
+“Yes.” Andrela said as she closed her eyes and spoke softly. “Thank you.”
+
+Ren could feel that she was getting more worked up over it than the others, but she was also quieter about it.
+
+“What about me?” Frikara asked, and he could feel her playfulness. They all knew that she wasn't jealous, just that she wanted a turn.
+
+“I only have two hands.” Ren said and laid back. “Move over a little... a little more... higher... a bit more... now open your legs a little.”
+
+Frikara's eyes widened as she very distinctly felt him through the thin fabric of her underwear, and let her legs fall to the outside of his. She moaned at the heat she felt from him, and he smiled as he felt her reaction to him.
+
+“By the gods.” Frikara said and laid her head on his shoulder. She didn't try to move or grind herself against him like he thought she might, now that she had the opportunity. Instead, she basked in contentment and pleasure, and let the feeling of his hands on the other women's breasts flow into her as she shared the physical sensations she felt from him. After about 10 minutes, Frikara wanted the actual physical sensation of a massage, slid off of Ren, and took Andrela's place at the end. The maids shifted over one spot and Navruth climbed on top of him.
+
+“Oh, my.” Navruth said, and did the same thing that Frikara did. She laid there and let the sensations flow into her and out again. This continued with each maid until it came to the last one, Andrela. She knew what to expect, since she had 'felt' it 4 times already; but, the maids all had slightly different body types. She had a bit more space between her legs than the other women, and when she slid into place to take her turn, she gasped because she felt quite a bit more of Ren than the others did.
+
+Andrela gasped again as she put her head on his shoulder, and since his hands were currently occupied and practically restrained, he couldn't adjust himself or how she laid on him. She also didn't rub or grind, despite her very strong feelings of wanting to. She took a deep breath and that moved her pelvis sightly; and that little movement sent shivers down her spine and made her shake and tremble.
+
+“By the gods!” Frikara said and let Ren's hand go. “The poor girl is going explode!”
+
+“I know.” Ren said, and then his other hand was let go. He grabbed Andrela's hips and thought about pulling her off to ease her suffering, then remembered what he had told Denise. It was his decision, no one else's, of who he accepted into his life. He could feel trepidation from the other maids, and he knew they wouldn't blame him if he stopped this before it went any further.
+
+Ren smiled at them, then quickly moved Andrela forward and back several times. She wrapped her arms around his neck and sunk her teeth into his shoulder and bit him. Less than a minute later, she screamed as she went. The other maids had placed hands on both Andrela and Ren when they felt his decision, so the feelings could be shared strongly and equally with everyone. When Andrela finished, it was so strong and overwhelming that they finished, too.
+
+Tremors went through them all as they collapsed to the bed and shook from the pleasure. It was something that none of them had felt in a long time; especially Andrela. She was the youngest and least experienced of the group, and hadn't had any kind of sexual experience since her training over a year ago.
+
+Ren concentrated on how Andrela was feeling, and he could feel her utter joy over what had just happened. He could also feel her tears as they hit his neck, and she kissed the spot on his shoulder that she had bitten. She turned her head to apologize to him, and he turned his head to look at the damage, and their lips met. Unlike the couple of times it had happened by accident before with other women, this time it didn't feel awkward or rushed.
+
+Ren had assessed the situation immediately and kissed her as if he had meant to do it all along. Andrela was still reeling a little from her experience going through the shared Aura, and didn't realize it had been an accident and kissed him back. She broke the kiss a few moments later and looked at him.
+
+“Thank you for not getting angry.” Andrela said, as she finally gathered her wits about her. Her hand touched the indent of her teeth in his skin, and she sighed. “I didn't mean to do that.”
+
+“We both went a little farther than we thought we would.” Ren said and smiled at her blush.
+
+“I'd ask to do that again...” Frikara smiled and sighed contentedly. “...but, I don't think I can move right now.”
+
+Everyone laughed and just laid there in silence as they enjoyed the afterglow.
+
+*
+
+Lylyth, the Queen of the Dark Elves, had gone to bed earlier that day when she'd felt Ren's deep wound as if she had taken a similar one herself. There were no physical traces of it, but she felt it just the same. Her relief when the pain receded was something she hadn't felt before.
+
+Why am I relieved? I love pain! Lylyth thought, once she could think clearly. Why did I... oh, I didn't feel it! Ren did!
+
+The personal attendant had convinced Lylyth to stay confined to the bed when she desperately wanted to go to Ren and help him. Lylyth had drifted off to sleep soon after and let Ren's normal emotions flow through her unbidden. She didn't feel anything significant until an hour or so later when she was awoken as a strong spike of happiness hit her; which was soon followed by sorrow and then a very strong spike of self-loathing.
+
+Lylyth gasped at the depth of both emotions, and her heart raced that he could feel such negative emotions as strongly as he could positive ones. It wasn't long after that, that his feelings were a little muddled, but she felt his pleasure as he pleased someone else, then his feelings cut off completely and she relaxed. Much later that night, nearly 8 hours had passed before she felt him again.
+
+He's back. Lylyth thought and felt contentment, and then 3 hours later, she felt something else. “Great Vasalor!” She said out loud as she rolled over in her bed and touched herself in a spot that hadn't been touched, by her or anyone else, since Ren had touched her there. “What is he doing?” She asked her empty room, and closed her eyes to enjoy the afterglow just like his personal maids did.
+
+*
+
+“Time to get up.” Teepo said from the ceiling. “You're going to be late.”
+
+“Ugh. Just 5 more minutes.” Ren mumbled, and he felt agreement in the shared Aura.
+
+“Do you want to skip breakfast?” Teepo asked, and Ren sighed.
+
+“We should eat.” Ren said, and he felt agreement from the maids. Then there was a soft rumbling not too far away.
+
+“Yes, I'm hungry.” Verwynn said. “We should get up.”
+
+“All right.” Frikara said, and they felt her determination enter the Aura. “Everyone up! Let's go!”
+
+The maids groaned as they untangled themselves and sat up. Ren sat up with them and stretched his arms.
+
+“I should cancel the caravan and just stay in bed.” Ren said. “Or send them ahead and join then later.”
+
+“Now you listen here.” Frikara said as she slid off the bed and stood up. “We all know you're no slacker! Get up and get dressed, and make us breakfast!”
+
+Ren slid off the bed to stand beside her. “Yes, dear.” He said, kissed her cheek, then equipped his Travelling Clothes and put on the Dire Wolf Hooded Cloak.
+
+He just called me 'dear'. Frikara thought, then squashed her emotions before they could be shared. “Come on you lazy bums!” She said to the other maids. “We're dressing casual today.”
+
+“Are we coming with you?” Andrela asked.
+
+“Not today.” Ren said. “I'm just going out to show the crews where to build, and to do a bit of land shaping.”
+
+“No need for us to show-off, then.” Navruth said.
+
+“Not yet.” Ren said and went to the bedroom door. “You have my permission to leave the house, and even go around town, as long as you wear the things I gave you to protect yourselves.”
+
+“We won't be going anywhere without you.” Lusinia said. “Plus, we've got to try on all the things you bought us yesterday.”
+
+Ren chuckled. “Okay, I'll be back soon with breakfast.” He left the room and went down to the kitchen and made breakfast for everyone. He took a large fish, nearly as long as he was tall, and tossed it into Railyse's indoor pool. It was caught in the artificial currents of the water and looked like it was swimming, and he watched as a dark shape stalked it.
+
+A moment later, the dark shape lunged through the water, attacked the fish, and sank it's teeth into the spot behind the head. Blood filled the water as a chunk of the flesh was torn away, and Railyse looked up through the water at him. Ren waved to her, and she smiled and waved back.
+
+Ren left her room and brought breakfast in to Princess, told her and his dogs that he was going for the day, and that he would see them later. He thought about getting her to come along, but he wanted her to relax for a bit before taxing her like he had the day before.
+
+Ren went upstairs and back into the main bedroom to have breakfast with his maids. No mention was made about what had happened between them that morning, and there didn't need to be. No one was uncomfortable or worried about what it might mean. All anyone could feel was that they were happy, and at the moment, that was all that mattered.
+
+Now that breakfast was done and he had the opportunity, Ren took out the keg of ale he had bought from the vendor the day before and opened it. He poured some out into a cup, and sealed the keg again. He smelled it, swirled it around, and then took out his Alchemy kit. Using his Determine Ingredients skill and the items available in the kit, he correctly determined that there wasn't any poison in it, that it had a pretty high alcohol content, and that it was made mainly from sunflowers. He didn't know the exact recipe, since he didn't have any experience with brewing things; but, he did know what all the ingredients were and could get them easily. He just didn't know the quantities needed or how to mix them.
+
+Ren finished his testing and kissed his maids goodbye; then left the house and ran down the street to the lumberyard. He was greeted with the sight of 2 dozen overloaded carts with prefabricated house parts, and 3 carts full of workers.
+
+“Good morning, Ren!” Jen said as he approached, and several of the workers waved to him. “We've got the first batch loaded, and we're ready to move out when you are.”
+
+“Let me check the carts and horses first.” Ren said.
+
+“We already did that.” Jen said, but Ren ran around to each of the carts and enchanted then with Antidark runes to make them lighter and easier on the horses. He then made cushions for the workers to sit on, because he knew it would be a long ride out to his county and he didn't want them sore and possibly hurt when they got there.
+
+Jhulune was one of the workers on the crew, and she blushed a little when he handed her a cushion to sit on and smiled at her. He checked the horses and made sure they were secured properly, then ran back over to Jen.
+
+“You just delayed us by ten minutes.” Jen said, a little unhappy that they were getting such a late start.
+
+“That's true.” Ren said and smiled. “But don't worry. I made the carts lighter so we should be able to make up almost double that time on the trip out, and triple on the way back.”
+
+“We'll see.” Jen said a little skeptically, and climbed up onto the first cart and sat in the passenger seat. “Where's your mount?”
+
+“Taking the day off.” Ren said.
+
+“There's no room for you on any of these things.” Jen said. “I had a hard time getting my own people on board.”
+
+“I'll keep up.” Ren said and smiled. “I assume you know where Walin County is?”
+
+Jen laughed. “It's out the West Gate, and about 3 hours away.”
+
+“No turns, no shortcuts.” The driver said. “It's a straight run to the dead end cliff.”
+
+“You'll be stopping a couple of miles before you get that far.” Ren said. “I've built a large two storey Main House in an open field that's not being used, and I want the houses constructed around that.”
+
+The driver nodded and flicked the reins, and the horse didn't have to struggle to get the cart moving like it normally did. The driver glanced back to see the cart was still loaded up with materials, shrugged, and looked back at the road. It was still early enough in the morning that there wasn't a lot of people around for him to be careful of, so he let the horse have some leeway.
+
+Ren barely had to jog to keep up with the slow caravan, and the people that saw him walking quickly nodded or waved to him. He did the same back, and then they reached the West Gate.
+
+“We're picking up the speed here.” Jen said to Ren. “Are you sure...”
+
+“I'll remember that I have to slow down to stay with you.” Ren said and grinned at her. Jen chuckled and pat the driver's shoulder. He flicked the reins with a snap and the horse started to gallop. Not wanting to be left behind, the other drivers snapped their reins as well, and the whole caravan picked up speed and drove out into the wilderness.
+
+Ren stood still and waited until the entire caravan had passed him, waved at the soldiers standing guard on top of the city wall, then ran after the carts. He showed off a little bit as he gained on the caravan, then passed one cart, then another, and slowly made his way along the 27 carts until he got to the head of the line. Each person that saw him was surprised that he was overtaking them like he was, even Jhulune and Jen. They knew he could run pretty fast, but faster than a cart was a bit shocking for them to see.
+
+“You're all clear for at least two miles.” Ren said, after he and Teepo had used their respective Spot abilities to confirm it. “I can cast Haste spells on the horses if you want.”
+
+“Yes!” The driver said, and then looked at Jen. “Sorry, Ma'am.”
+
+Jen laughed. “Ask the other drivers first; but I'm sure they'll agree, especially if this one is all for the idea.”
+
+Ren nodded and let the caravan pass and he asked each of the drivers. They readily agreed and he ran back to the front of the line.
+
+“It's a go.” Ren said.
+
+“All right!” The driver said. “Neyney! We're gonna have fun!”
+
+The horse pulling the cart neighed at him, and Ren chuckled and ran forward a good distance, then stopped and took out the Haste wand. He cast it on each horse as they passed, and after he did the last one, cast it on himself and ran after them.
+
+When the Haste spell wore off, it was time to feed and water the horses. Ren went along and poured Health potion into the feed bags, and answered the questions people asked him.
+
+“How can you run so fast?” One worker asked.
+
+“Practice.” Ren smiled and went to the next cart.
+
+“Are you sore after running like that?”
+
+“Not a bit.” Ren said. “I'm used to it.”
+
+“Can I kiss you?”
+
+Ren looked up and saw that it was a woman he'd never met before. She must be one of the new workers. He thought. “I'm sorry, Ma'am.” He said and gave her a slight bow. “I'm currently involved with someone at the moment.”
+
+“Yeah, me!” Jhulune said from the next cart, and everyone looked at her. Her face flushed a deep red and it almost matched her hair color.
+
+“Is that true?” The woman asked Ren.
+
+“I have a date with Jhulune tonight.” Ren said. “I had planned for us to eat dinner at Nathalia's Nourishment, but I kind of had a fight with the owner.” He explained. “I haven't come up with an alternative yet.”
+
+“Just spending time with you is fine!” Jhulune said as her embarrassment and blush slowly faded.
+
+“Hey, that's my line!” Ren said back to her, and a few people laughed.
+
+“Well, can you... pick something up for me?” The woman asked. “I want to see how strong you are.”
+
+“Yeah!” Someone said. “Show us!”
+
+“I see a big tree there!” A guy said and pointed to a ridiculously large tree. “Knock it down and pick it up!”
+
+“Do it!”
+
+“You got this!”
+
+“That thing is massive, he can't do that.”
+
+“Ren, be careful.” Jhulune said.
+
+Ren smiled at her then walked off the road and into the sparse trees, and pointed to the large tree.
+
+“Yeah, that one!” The guy yelled, then turned to his friends. “Watch this. He's going to embarrass himself in front of us.”
+
+“I can't wait.” One of his friends said.
+
+Ren could hear them all clearly, and looked at the tree.
+
+Large Tree
+
+This is a large tree.
+
+Ren smiled at the popup, then braced himself. He'd never done anything like this before, and he wasn't sure if it would work. The tree was firmly planted into the ground, and he used Enchanted Eyes to see if it was magical in any way. It wasn't, so he put his hands against the tree trunk and pushed a little. It didn't move.
+
+Ren heard several low laughs, and he knew that he was going to be judged on this, even though it was just a stupid stunt. He wanted them to see what he could do, so he stomped the ground several times to loosen up the large roots that held the tree in place. He could hear a few comments that said he was throwing a tantrum, and he looked right at them. Their words and laughter cut off as he stared at them, and he kept his gaze on them as he reached out and touched the tree.
+
+Ren put his weight behind the effort and pushed with all he had. The large tree shuddered as an unequalled force was applied to it, and it's footing had been compromised. The roots pulled out from the ground and several of them snapped as the tree toppled over and it's momentum dragged the remaining roots from the ground.
+
+Complete silence filled the area around the caravan as Ren walked over to the end of the tree, grabbed it by the tip, and then dragged it out to the road and laid it by the caravan with no effort whatsoever.
+
+“This was the tree, right?” Ren asked the guy, who nodded wordlessly. Ren grinned at him, walked around to the other side of the tree, and dug his hands into the bark and meat of the tree, then used Iron Grip. He bent his knees and dead-lifted the tree up to his waist, then hopped a little to shift the weight of it up and onto his shoulders, then pushed it up and over his head.
+
+“Good god.” Someone whispered.
+
+Ren couldn't tell who it was, but it didn't matter. He let his Iron Grip go and stepped forward as he let the tree fall to the ground behind him with a loud crash.
+
+“I probably shouldn't leave that there.” Ren said and stored it. “It would be a road hazard otherwise.”
+
+No one spoke as he went to the next cart and helped feed the horse and gave it some Health potion, too. The cart shifted a little and he looked at the back. Jhulune had climbed down and looked at him with wide eyes. She chewed on her bottom lip as Ren walked towards her, and she threw caution to the wind and jumped into his arms. He caught her easily, and she wrapped her arms around his neck and kissed him. There were a few comments made then, and one whistle.
+
+“I am so turned on right now.” Jhulune whispered to Ren. “What are you going to do with the tree?”
+
+“I'm going to strip it, cut it up into pieces, and build something with it.” Ren whispered back to her.
+
+“So manly.” Jhulune whispered and nuzzled his neck.
+
+“I have to feed the rest of the horses.” Ren said to her, and she sighed as he helped her stand up. “At this pace, we'll be at the county in only another hour or so.”
+
+“I'll be too busy working after we get there.” Jhulune said.
+
+“Exactly.” Ren smiled, gave her a quick kiss, and walked to the next cart. Jhulune climbed back into her cart and Ren fed all the horses. After a short break so that all the horses had some rest, he ran to the head of the line again and had the Haste wand ready.
+
+“Let's go!” Jen said as all the drivers flicked their reins and the caravan started up again. Ren cast Haste on them as they passed, then on himself, and ran after them. It only took 4 more breaks for them to reach Walin County and the caravan came to a stop in front of the Main House to take the next break.

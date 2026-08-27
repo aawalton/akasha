@@ -1,0 +1,239 @@
+---
+id: ac29bf04-55fe-50bb-a21c-17cf3512b518
+page-type-slug: story-chapter-royal-road
+title: "Chapter 405 - In The Hospital"
+slug: 0402-chapter-405-in-the-hospital
+partOf: mythrans-master-of-all-continued-completed
+position: 402
+ownLength: 2846
+unit: words
+publishedAt: 2017-10-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170983/chapter-405-in-the-hospital"
+royalRoadId: "170983"
+---
+
+“REN!” Denise yelled and went over to Ren and knelt. The wheelchair's handle was jammed into the elevator's stop mechanism in the door that let it hit something and retract, which meant that it didn't know there was anything in the way and had shut at full force. She almost cried as she saw that his leg was caught between the wheelchair's frame and the elevator's door, then ignored that injury to examine his head.
+
+“Gloria, get me the medical kit under the sink in the main bathroom.” Denise said, and Gloria ran to get it. Denise hissed when she found a nasty bump on the side of his forehead; but she dared not move him in case something was broken. She checked his vital signs and sighed in relief as everything checked out, and she hoped that he was only unconscious.
+
+Gloria came back with the medical kit. “We have to get him to the hospital.” She said. “I'll call 911!”
+
+“Don't bother.” Denise said and took out her cell phone and dialed a number. “Hi, Kevin.” “No, this isn't a social call.” She said and gave Kevin a rundown of the situation and hung up the phone. “He'll be here in a few minutes.”
+
+“Who?”
+
+“The ambulance driver.” Denise said and smiled. “He's the best, and he knows what to do about this.”
+
+“I hope so.” Gloria said and looked at Ren's limp body. “I really hope so.”
+
+*
+
+Ren woke up in a strange bed and didn't know how he got there. He blinked his eyes several times, then started to gag on the intubation tube jammed in his throat. The machine monitoring his heart rate sped up to the sound of a hummingbird's wings, and he caught sight of someone moving.
+
+“Ren! Calm down!” Stella said, leaned into his field of view, and cupped the side of his face. “I'm here, sweetie.”
+
+The beeping slowed down, but he was still gagging on the tube.
+
+“Relax.” Stella said in a calm voice. “Breathe in through your nose, out through your nose.”
+
+Ren pulled on his arms, but they didn't move.
+
+“Calm down and I'll remove both the intubation tube and the restraints.” Stella said, and Ren stopped struggling. “That's better.” She said and pulled over a small machine. She used a tool and applied suction to the tube for a moment, opened a small valve, and Ren felt the pressure in his throat ease. “Close your eyes.” Stella said, and she put a hand over his face to stop any potential splash getting in his eyes, and pulled out the collapsed tube. Ren starting coughing right away and looked uncomfortable; but there wasn't anything she could do. When the short coughing fit passed, she slipped an oxygen mask over his face.
+
+“Deep breath, please.” Stella said, and Ren tried. He coughed some more, then took a shallow breath. “I said a deep breath.” She repeated, and Ren squinted his eyes at her. “I'm waiting.”
+
+Ren sighed and tried to take a deep breath again. He only coughed once this time and she smiled.
+
+“One more should do it.” Stella said, and he took a deep breath. Ren didn't cough this time and she pat his arm. “Keep going while I undo your arms.”
+
+Ren nodded and Stella opened the strap on his left arm and gave it a quick massage to make sure the blood was flowing properly, then walked around the bed to get his right arm free.
+
+“You gave us quite the scare.” Stella said. “Can you remember what happened?”
+
+Ren shook his head and opened his mouth to talk. All that came out was a short raspy hiss.
+
+“You're not going to be talking for a few hours.” Stella said. “Your throat's been roughed up by the intubation tube.”
+
+Ren lifted both hands palm up and shrugged his shoulders in a 'why' gesture.
+
+“You stopped breathing.” Stella said. “Denise had to intubate while you were still on the floor on your side. She didn't want to move you until she knew nothing was broken.”
+
+Ren's eyes widened and he pointed to his leg.
+
+“It's not broken, thank god.” Stella said. “The arm on the wheelchair took the brunt of the force when the elevator closed on you.”
+
+Stella wanted to stroke his thigh and calf where he had been hurt, in a vain attempt to comfort him. She fought that motherly instinct because touching him there would only cause him pain, and that was the last thing she wanted to do. Ren looked around and saw that they were all alone.
+
+“They just left to grab a bite to eat.” Stella said. “We've all been here since yesterday.”
+
+Ren sighed because he had missed several days in the game and looked at his watch to find out the time and see how many days he had actually missed... and his wrist was bare.
+
+“HhhuH!” Ren rasped loudly and sat up in the bed.
+
+“Ren! What is it?” Stella asked as his heart monitor sped back up to humming bird proportions. Ren tapped his wrist and Stella wasn't sure what he meant. He looked around and pointed to the clock on the wall. Stella looked at it, then back at him. He held his wrist up and pointed.
+
+“Oh, no.” Stella said. “Lucy's watch.”
+
+Ren nodded, and Stella walked around the bed and pushed the button for the nurse. About 20 seconds later a nurse came into the room.
+
+“What can I... hello! You're awake!” The nurse said, then frowned at his currently free state. “You shouldn't remove the restraints.” She said, then looked at Stella. “Or the breathing tube.”
+
+“Well, he was choking on it.” Stella said.
+
+“You should have called then.”
+
+“Why would I bother you for something so simple?” Stella asked.
+
+The nurse didn't have a response for that.
+
+“Mmm!” Ren said and held up his hand and pointed to his wrist.
+
+“Where's the watch he had on when they brought him in?” Stella asked.
+
+“It was cut off and discarded with the clothes.” The nurse said and Ren let out a sob as tears came to his eyes.
+
+“Well, you had better get it undiscarded.” Stella said. “Call the maintenance crew right now.”
+
+“That's not my job.” The nurse said.
+
+“I didn't ask if it was.” Stella said, and let some of her anger show as she stepped close to the nurse. “Get your ass to the nurse station right now and make the call, or I'll drag you there.”
+
+“Miss, you can't threaten me like that.” The nurse said.
+
+Stella reached out and grabbed the nurse by her collar. “It wasn't a threat.” She said and walked towards the room's door and dragged the nurse.
+
+“Hey! Stop! Help! Someone HELP!” The nurse flailed around as Stella pulled her out of the room and the door shut behind them. Ren was too surprised to react and just stared at the door.
+
+Did that just happen? Ren thought and felt a throbbing pain on the side of his forehead. He reached up and touched the spot, then pain lanced through his head and he closed his eyes.
+
+“You really are awake.” Elise said with surprise when she came into the room, and Ren looked up at her. “Don't touch that. They said you were lucky you didn't fracture your skull when you fell face first on the floor in front of the elevator.”
+
+Ren saw that she still wore the business suit she must have worn the day before to meet with the lawyers, and he also saw that she was trembling a little. He waved her in and opened his arms. Elise stepped into the room and walked over to the bed, and he could see the tears in her eyes.
+
+“Oh, Ren!” Elise said and hugged him. She had to be careful because of the oxygen mask, and Ren saw the problem. He slipped it off and tossed it on the bed, then hugged her tightly. She let him out of the hug a moment later and sat down in the chair by the bed. She took a hold of his hand and he held onto it.
+
+“I thought... I thought I'd lost you.” Elise said and tears ran down her cheek. Ren couldn't reach her face to wipe them off, and he did the motion on his own face. She stood up and leaned forward and he cupped the side of her face and kissed her. Elise put a hand behind his head and kissed him, almost with desperation, then she realized what she was doing. She broke the kiss and tried to move back, but Ren had a hold of her suit coat.
+
+“I thought you wanted to wipe off my tears.” Elise said and he nodded.
+
+Ren grabbed a tissue and wiped off her face, then let her go.
+
+“Thank you.” Elise said and sat down.
+
+Ren pointed to his own eye, tapped his chest, and pointed to her.
+
+“I love you, too.” Elise said. “Stella said you wouldn't be able to talk for a while.”
+
+Ren pat his own throat, then smiled. He pointed to Elise, then mimed putting on a VR headset.
+
+“I'm sorry, but no.” Elise said. “You took a really bad fall and hit your head.” She said. “No VR for you, at least until tomorrow.”
+
+Ren opened his mouth to talk, then coughed and held onto his throat. He mimed the VR headset again and pointed to his mouth.
+
+“Yes, it would let us talk; but, I don't know how the interface will react with that damage.”
+
+Ren reached up to touch it again, and Elise stopped him.
+
+“What part of 'don't touch it' didn't you understand?” Elise asked. “It's right at the part the headset rests on.”
+
+Ren frowned slightly and sighed.
+
+“I know, sweetheart.” Elise said. “You just have to stay patient and wait to get better.”
+
+Ren pointed to his eye, made a grabbing motion, pointed to Elise, then pretended to rock a baby in his arms.
+
+“I'm sorry, Ren.” Elise said and glanced at his leg. “We can't, even though I want to cuddle with you, too.”
+
+Ren sighed and pointed to her, made a talking motion with his hand, then tugged on her business suit.
+
+“Okay, I'll tell you about what happened at the law firm.” Elise said and started to tell him what had happened the day before. Ren raised the hospital bed so he could relax and stay sitting up, and listened as she told him how much the lawyers had liked the folder full of evidence.
+
+Elise told him that a fist fight almost broke out over who got to use it first, and Ren shook his head; then she told him when she had brought out more copies for them so they didn't have to share, they had practically thrown themselves at her feet. Ren started to laugh, grabbed his throat and coughed several times.
+
+By the time she had left the law firm when Denise had called about Ren's accident, the law firm had already settled 3 of the 6 lawsuits it was handling, and she'd left with both paperwork and promissory notes. She even had two proposals of marriage. Ren gave her hand a squeeze and she chuckled.
+
+“Even if they were serious, and not complete idiots, I still would have said no.” Elise said and lifted his hand, turned it over, and kissed the inside of his wrist. “I don't need anyone else except you.”
+
+Ren caressed the side of her face and smiled at her.
+
+“Hey.” Stella said when she opened the room's door. “Guess what I found.”
+
+Ren looked at her expectantly, and she came into the room with a sealed plastic bag. Inside was a bundle of blue silky fabric, and he waved his hands towards himself in a clear 'want' gesture.
+
+Stella shook her head. “It has to be properly cleaned before you can touch it.” She said. “The watch is in there, though.”
+
+Stella turned the bag to show him the face of the watch was pressed against the side of the bag, and he could see the cut strap right next to it.
+
+“I'm so sorry, Ren.” Elise said. “I know that watch means a lot to you.”
+
+Ren nodded, and the room's door opened. Lisa came in and saw Ren was up, and her face crumbled.
+
+“Ren.” Lisa said in a soft voice and quickly walked around the bed to the other side. She didn't hesitate at all as she gently put her arms around him and kissed him. They kissed for nearly a full minute before Stella pretended to cough. Lisa reluctantly broke the kiss and let him out of the hug, then ran her hand through his hair.
+
+“You really need a shower.” Lisa said.
+
+Ren chuckled and grabbed his throat, but stopped himself before he coughed.
+
+“I'm sorry.” Lisa said and gave him another kiss. “I'll try not to be funny.”
+
+Ren smiled and touched her cheek, then shook his head.
+
+“I know it'll be hard.” Lisa said. “Since I'm always a barrel of laughs.”
+
+Ren snorted a laugh and she grinned. The room's door opened and Denise came in, with Gloria right behind her.
+
+“I'm really glad you're awake.” Denise said. “I was so scared when...” She paused and sighed. “Ren, I'm really sorry for leaving you in the elevator alone.”
+
+Ren waved her to come closer, and Lisa stepped back out of the way to make room for Denise. He held a hand out to her and she took it, then she started to cry. “I am so sorry!” She said. “I... I'm guilty of the very thing you got mad at Gloria for.”
+
+Ren took her hand and held it to his heart, and she started to cry.
+
+“Ren, I... I love you.” Denise said. “When I saw you on the floor like that, I... I knew that... Ren, I...” She shook her head. “I don't want to lose you.”
+
+Ren took the hand over his heart and kissed it, and Denise didn't know what to do. She was his nurse, but she was also infatuated with him. He had led her through so much emotional turmoil that she didn't know if she really loved him, or if he was really the ideal man that he could have represented. At this point in her life, she really didn't care what version of him that he was, or what version she perceived him as.
+
+The only thing she knew was that she didn't want to lose him. Ever.
+
+“I'll bring my things over tonight, before you get back to the mansion.” Denise said. “No matter what happens from now on, I am always going to be by your side.”
+
+“Me, too.” Lisa said. “I chose the room to the right of the den, and I am always going to be there for you.”
+
+“I chose the one on the left.” Denise said, and then smiled. “I've got a car we can fill up with our stuff.”
+
+Lisa smiled. “I'd be happy to use you to ferry my things to Ren's place.”
+
+Denise chuckled. “Only if you help me move my things.”
+
+“Deal.” Lisa said, and they shook on it.
+
+Ren pat his chest, and the women looked at him.
+
+“Hey, you invited us.” Denise said. “We're only taking you up on the offer.”
+
+Ren reached out and cupped the sides of each of their faces, moved his hands to touch them above their hearts, then touched his own.
+
+“Yes, we know how much you appreciate it.” Denise said. “Now, you just lie still and get better.”
+
+Ren held an index finger up and moved it back and forth without moving the hand, in a clear 'no, no, no' gesture. He mimed standing up, and moved his fingers in a clear walking gesture.
+
+“No, you can't leave yet.” Stella said. “They haven't even come back with your brain scans.”
+
+Ren splayed his hands out, then pointed to each woman, and then at Stella. She sighed, and looked at the other women.
+
+“He wants us all to take him home.” Stella said.
+
+“I'd be more than happy to.” Lisa said. “What's he doing here that he can't do at home?”
+
+None of the other women could come up with an argument, and Ren smiled.
+
+“He wants us to take him home, so we better take him home.” Lisa said. “Any objections?”
+
+None of the other women said anything, and both Lisa and Ren smiled.
+
+“Stella, get the paperwork started.” Lisa said. “Our Ren wants to go home, and we will take him there.”
+
+Stella looked at the other women, and no one protested or said it was a bad idea.
+
+“I'll be right back.” Stella said, and left the room.
+
+“You'll be back home in your own bed soon.” Lisa turned to Ren and smiled. “From now on, you will never be alone.” She leaned in close and kissed him, and Ren didn't object at all.

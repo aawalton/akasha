@@ -1,0 +1,353 @@
+---
+id: 878305b9-1613-5169-8e00-7aeee6e7f770
+page-type-slug: story-chapter-royal-road
+title: "Chapter 328 - Hanging Out With The Guys"
+slug: 0320-chapter-328-hanging-out-with-the-guys
+partOf: mythrans-master-of-all-continued-completed
+position: 320
+ownLength: 3743
+unit: words
+publishedAt: 2017-08-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154714/chapter-328-hanging-out-with-the-guys"
+royalRoadId: "154714"
+---
+
+“Billy, what the hell?” Dillon exclaimed when he thought Ren and Clint were out of earshot.
+
+“What did I do?” Billy asked.
+
+“You really put him on the spot there!” Dillon said. “He didn't know what to say!”
+
+“I think he'll accept.” Hank said. “He might be short, but he looks strong.”
+
+“I meant Clint!” Dillon said. “Billy, you should have waited until we were alone to tell Clint that idea.”
+
+“What for?” Billy asked.
+
+“Because Clint might not have wanted Ren in the party, you idiot!” Dillon said. “Didn't he say he wanted a fighter and a magic user for the last two slots?”
+
+“Oh, yeah.” Billy said. “But... look at what he can do in only a few minutes!” He said and held up the bow. “He'll definitely be useful!”
+
+“Sure he'll be useful.” Dillon said. “He doesn't have to be a part of the party for that, though.”
+
+“If he's going to equip us like this on the cheap...” Tommy said, and held a hand up to stop any argument. “It's really cheap and we can't get anything like this anywhere else; so, don't kid yourself about that.” He smiled. “He should at least get a share of the XP his weapons help us get.”
+
+“Well... I guess that's fair.” Dillon said. “But, isn't he just going to be dead weight on quests?”
+
+Tommy smiled. “You saw how quick he was with that healing wand.” He said. “How long does your Cure Light Wounds spell take?”
+
+“Up to 5 minutes.” Dillon said, reluctantly. “Depending on how spread out the wounds are.”
+
+“If we only brought him along for that, he's still worth his weight in gold.” Tommy said, and clapped Hank on the shoulder. “Even if it's just for Hank's sake!”
+
+They all laughed and agreed.
+
+*
+
+Ren had heard everything the other guys said while he skinned the first wolf. He felt both bad and good about their discussion; mainly because they thought he wouldn't be able to fight and that made him feel bad, and some of them wanted him anyways and that made him feel good.
+
+“Ah see where yer cuttin'.” Clint said as he watched Ren work. “Is it tha same on every animal?” He asked, and hoped he could somehow pick up the skill.
+
+“Almost.” Ren said. “The shapes of the bodies determine the shape of the pelt. Rabbits? It's pretty much just the back. Foxes? Part of the leg and neck as well, and if you're lucky, you can add the tail.” He explained and skinned another wolf. “Wolves? It depends on the size. It's the back, most or all of the legs and tail if you want. If you're careful and take your time, you can include some or even all of the head.”
+
+Clint shook his head. “Ah'm standin' here watchin' ya, and yer moving yer hands like ya've done it a hundred times.”
+
+“It was a lot more times than that.” Ren said and finished another wolf. “I still have to be careful, though.” He said and kept working. It took about an hour to do the 30 wolves, and he even let Clint try to do one. Even with Ren's direct guidance, Clint couldn't get the knife to do what he wanted. When he was done, the pelt was a little mangled on the edges; but, he didn't receive the Skinning skill.
+
+“Ah, well.” Clint said. “It was a good try, anyway.”
+
+Ren nodded and took the skinning knife back, then had to pause when he looked at the Dire Wolf. “Okay, I'm really going to take my time with this one.”
+
+Clint nodded, and about 20 minutes later, the unfinished pelt of the Dire Wolf, including the paws and head, was added to the pile.
+
+Stat Change!
+
+Skinning Level 7 (Intermediate 0%)
+
+“Ah can' believe ya did it so fast.” Clint said. “Tha' was...” He put a hand on Ren's shoulder. “Yer ah good worker.”
+
+“It's what I do.” Ren said and smiled. “You can loot the bodies now.”
+
+Clint nodded and looted the carcasses of the skinned wolves. He didn't say how much he got when he was done, but Ren saw his eyes widen at the total amount.
+
+“Now, about these pelts...” Ren said.
+
+“Ya want'em, dontcha?” Clint asked and chuckled.
+
+“I do.” Ren said. “How much do you want for them?”
+
+“Appraise 'em an' tell me.” Clint said, and Ren used Appraisal on one of the wolf pelts.
+
+“It says 5 gold coins.”
+
+Clint nodded. “An' yer gonna treat 'em and dry 'em and trim 'em later, right?”
+
+Ren nodded.
+
+“What'll they be worth then?”
+
+“No idea.” Ren said. “These are my first wolf pelts.”
+
+“Then wha' were ya skinnin' hundreds of before?” Clint asked.
+
+“Giant rats.” Ren said, and Clint stared at him.
+
+“Did ya just say GIANT RATS?!?” Clint exclaimed, and Ren nodded.
+
+“They were about 3 feet long, not including the tail.” Ren said and held his arms apart to show the approximate size.
+
+Clint whistled appreciatively. “Ya'll livin' an interestin' life, Ren.”
+
+“You don't know the half of it, my friend.” Ren said and laughed.
+
+“Ahlright. Gimme 2 platinum coins fer the pile of pelts, includin' tha Dire Wolf one.”
+
+“What? That's... that's only 50 gold for the Dire Wolf pelt!”
+
+Clint chuckled. “Ah hope ya can make something nice outta all of it.”
+
+“Clint... I... thanks. Thanks a lot.” Ren said and handed Clint 2 platinum coins, then stored the pelts.
+
+“So, ya had time ta think abou' joinin' mah party.” Clint said. “Wha's yer answer?”
+
+“Clint.” Ren said and gave his friend a serious look. “Do you want me in your party?”
+
+Clint didn't say anything for a full minute, then he smiled. “Ah remembah ya winnin' tha award fer most contribution points aftah the Aurora Expedition. An' ah remembah how useful ya were ta me an' the ones ya chose fer yer team, wit both yer enchantin' and repairin'.” He put a hand on Ren's shoulder. “If'n ya can be just as useful now, ah'd be proud ta have ya in mah party.”
+
+Ren nodded. “Thanks, Clint.”
+
+Clint sent Ren a party invite. Because of his skill 'Tricks of the Trade', Ren could be the leader of his own party and a member of another party as long as he wasn't the leader; so, he accepted the invite.
+
+Notice!
+
+You are now a member of the Reckless Rough Riders. All party bonuses, effects, and XP gains will be shared appropriately.
+
+“Hey! We just got the notice!” Tommy said as he and the other guys came over to them. “Welcome to the Rough Riders!”
+
+“Thanks.” Ren said and took out a Bracelet of Unbelievable Magic and held it out to Dillon. “I said it wasn't for sale, but that doesn't mean I can't give it to my new friends.”
+
+“Aw, yer gonna make me cry!” Clint whined in a high voice and wiped a fake tear away, and everyone laughed.
+
+Dillion equipped the bracelet and closed his eyes as it took effect. “Oh, man.” He said. “This is awesome.”
+
+“Dudes! We gotta celebrate!” Tommy said. “We've got half the day left, we should head over to the...”
+
+“Jennifer!” Billy said. “I got money to burn!”
+
+“Ah didn't even give ya yer share of tha loot yet!” Clint said and laughed.
+
+“Then hand it over and get the cart hooked up, man!” Tommy said. “We gotta go before the crowd gets there!”
+
+“I can't.” Ren said. “I have to get back to Aurora.”
+
+Clint put an arm over his shoulder. “Ah know how fas' yer mount is. Ya can leave jus' ovah 2 hours before supper an' be back in time fer whatevah ya need ta git back fer.”
+
+“Yeah, Ren.” Billy said. “You have got to check out these girls!”
+
+“I don't really...” Ren started to say.
+
+“We'll even restrict Hank to a single keg!” Tommy said.
+
+“WHAT?!?” Hank exclaimed. “That's not fair!”
+
+Dillon laughed. “At least come with us and stick around until we get the party started.”
+
+Ren looked at their happy and expectant faces, and sighed dramatically.
+
+“YES!” Billy yelled, and then he yelled again when Clint divided up the loot. “WAHOO! I'm RICH!”
+
+Everyone laughed again, and Clint grabbed the cart to attach to Izabeal.
+
+“Just store that so you can use it on the way home.” Ren said to Clint. “Princess can haul us all there.”
+
+Clint nodded and stored it, and they all went out to where the two mounts waited.
+
+“Princess, do you feel like showing off a little more?” Ren asked her, and she huffed at him.
+
+Of course. Let me show the nag what a real mount can do.
+
+“That's my girl.” Ren said and rubbed her neck. He took out the cart and hooked it up to her, and the guys climbed up into it.
+
+“Hey, this is really comfy.” Hank said. “What are the handholds for?”
+
+“Take a wild guess, Sherlock.” Billy said and climbed in. He sat down and grabbed onto one of the handholds.
+
+“I don't need to-” Hank tried to say, but Clint's words cut him off.
+
+“Ya better hold on.” Clint warned them as Tommy and Dillon climbed into the back. “Ah seen his mount run. It ain't gonna be a smooth ride.”
+
+Ren chuckled. “She won't be running full out.” He said and climbed up into the driver's seat. “Unless Tommy comes up to the front to tell her where to go.”
+
+“I'll do tha'.” Clint said and looked at the back of the cart. “Izabeal? Can ya git up on tha'?”
+
+“NOOO!” The guys in the back yelled and bailed out over the sides as Izabeal jumped up into the back of the cart. Clint and Ren laughed at the other guys and their panicked faces, while Izabeal folded her legs down under herself and she settled down in the cart. Ren took out an Amulet of the Spider and slipped it over her head, and she didn't protest or try to bite him.
+
+“Git back in there, ya wusses!” Clint said to the guys, and they climbed back in. They gave Izabeal lots of room and sat on the sides; but, this time they all held on to the handholds without question. Clint climbed into the passenger seat in the front beside Ren, and smiled. “It's that-a-way.” He said and pointed, and Princess huffed, dug in her hooves, then took off at her best speed while pulling the cart.
+
+“AHH-HH-HH-HH!” The guys in the back yelled as they shook back and forth. Ren, Teepo, and Clint laughed because that was all they could hear. They arrived at the rest stop almost an hour and a half later, and Ren was surprised when he got to see what it was.“I have two questions.” Ren said. “How long did it take them to get a ship out this far, and why is it pink?”
+
+Clint snorted a laugh and hopped down off the cart. “Ya gotta see tha inside ta understand.” He went around to the back of the cart and looked at the faces of the other guys. “Come on, ya wimps! Git outta there!”
+
+Tommy, Hank, Dillon and Billy sort of stumbled out of the cart and tried to stand on the ground, then braced themselves on each other to stop themselves from wobbling. Clint whistled a brief note, and Izabeal stood up, turned around, and hopped off the cart no worse for the wear. Ren hopped down and unhooked the cart, stored it, and thanked Princess for doing so well and gave her a bit of food.
+
+“How can you two not be affected by that?” Tommy asked and looked shaken as Ren and Clint led their mounts over to the stand to tie them on.
+
+“Ah don' know wha' yer talkin abou'.” Clint said, and looked at Ren. “Did ya feel anythin', Ren?”
+
+“Nope.” Ren said and pat Princess' neck after he pretended to tie her on. “It was a perfect ride.”
+
+“Okay, you're both officially crazy.” Billy said. “That ride was nuts!”
+
+Clint pat his warhorse. “Izabeal didn' mind it, did ya girl?”
+
+Izabeal neyed, and Billy shook his head.
+
+“She's not a fair witness! Everyone knows your horse is just as crazy as you!”
+
+Clint laughed and walked over to the guys. “Come on! Tha firs' roun' is on me.”
+
+“Now you're talking my language!” Hank said and put his arms over Dillon's and Tommy's shoulders to drag them over to the entrance of the ship. “This is gonna be fun!”
+
+“Here we go!” Billy said excitedly; his previous mood vanished at the thought of another round with Jennifer, and he followed the other guys to the door.
+
+“Ren?” Clint asked. “Are ya comin'?”
+
+“Is that what they do here?” Ren asked, and Clint laughed and clapped him on the shoulder.
+
+“Only if'n ya want 'em to.” Clint said.
+
+“I've seen places like this in the adult section of Aurora lots of times, but I've never gone in.” Ren said. “What's it like?”
+
+“Ah can tell ya abou' it; but, it's righ' there. All ya gotta do is look fer yerself ta find out.”
+
+Ren nodded, and they went inside together.
+
+System Notice!
+
+You have entered an Adult Only business (The Pink Pearl). What happens here, stays here. The Blue Screen protocol is now in effect.
+
+Notice!
+
+You have embarked on a journey that is pleasant to the eyes and pleasing to the mind. Congratulations!
+
+Warning: Sometimes a little knowledge can be dangerous; therefore, all known forms of attacks have been disabled while inside the premises.
+
+“Holy crap!” Ren exclaimed at the popup. “Clint!”
+
+“Ah git tha popup every time ah come in here.” Clint said. “It's reassurin', ain' it? Knowin' ya can have fun and not worry abou' fightin'?”
+
+Ren looked around when they entered the place, and it looked just like a strip club that you'd see on television in a crime drama, because they always showed strip clubs on crime shows. This one had a definite sea theme, though. He looked at everything, and started picking out the faults in the designs. When he came to one in particular, he couldn't help himself and commented on it.
+
+“Tridents only have 2 or 3 prongs, not 4.” Ren whispered to Clint. “That's a pitchfork.”
+
+“Ren, ah don' think tha customers really care if it's authentic.” Clint snorted a laugh. “They ain' lookin' at tha walls.”
+
+Ren turned around to look at Clint, and he pointed to the other customers. They all sat there, with handfuls of coins, and stared at the barely dressed women in front of them.
+
+“Oh.” Ren said, and Clint took pity on him.
+
+“It's yer firs' time, so ah'll spring fer a booth.” Clint said, and waved to one of the waitresses. “Ma'am? Ah booth and a roun' of ale fer mah friends, please.”
+
+“Sure thing.” The waitress said. “How many at the table?”
+
+“6.” Clint said. He had automatically included Ren in the total and thought about changing the order; but, Ren didn't protest or say that he didn't want any, so he left it unchanged.
+
+“We've got the large party booths in the back.” The waitress said. “They should fit all 6 of you; but, they're a little extra.”
+
+Clint nodded. “Tha's fine.”
+
+The woman smiled sweetly at him, because the party booths always had the best tips. “Right this way.” She said and turned to walk towards the curtained-off area.
+
+“Boys!” Clint said with his distinctive tone of voice, and the other members of the party looked at him. “We're goin' out back.”
+
+“YES!” Hank said and dragged Tommy and Dillon with him. “We're in for a show, guys!”
+
+“I don't see Jennifer.” Billy said as he looked around. “She normally works the bar.”
+
+Ren thought about asking if he meant serving drinks or working for the customers; but, he had wisely kept his mouth shut because the woman in question came out through an employee only door not far away.
+
+“Billy!” Jennifer said and wrapped her arms around his neck. She wore a see-through wrap and a set of green bra and panties; both of which Ren sold at his store. “How come you're back so soon?”
+
+“I just couldn't stay away from your sweet lips.” Billy said, and she laughed.
+
+“Where are you sitting?” Jennifer asked.
+
+“Party booth out back.”
+
+Jennifer squealed and kissed him. “I'll go get the girls!”
+
+“We'll be waiting.” Billy said to her as she went back through the employee only door.
+
+“That's two women that reacted when 'party booth' was mentioned.” Ren said. “Why is that?”
+
+“Party booths have a reputation for giving out the highest tips in the place.” Tommy said. “But, oh boy! Do they earn it!”
+
+“I'll say!” Hank said as they went through the curtains into the back. “I hope the cute one is working today.”
+
+“That's a little vague.” Dillon said and laughed. “Half of the women in here are cute.”
+
+Tommy laughed. “Ain't that the truth!”
+
+The waitress showed them the middle booth, and it had a 5 foot wide, 1 foot tall dancing table in front of it. The circular booth was divided into sections by cushions, and each guy sat down between the dividers. Billy, Hank, Dillon, Clint, and Tommy all sat like they'd been there quite a few times before like it was assigned seating.
+
+Ren sat on the end by Tommy, because he didn't know what to expect; and he also didn't want to be caught in the middle of the seats if something happened that he didn't want to be a part of. He looked around and saw that they were the only people in the back at the moment. He also couldn't make out what kind of music was playing in the background and was tempted to ask about it; but then, he remembered the look on Clint's face when he had mentioned the decor.
+
+*
+
+The curtain opened up and 5 scantily-clad women came in. They froze a moment later and stared at the booth because there was 6 customers waiting for them. They gathered together in a group and talked for a minute.
+
+“What do we do?” One of them asked. “The other girls are busy.”
+
+“I don't know.” Jennifer said. “Billy's only ever had 4 friends come with him.”
+
+“The new guy's kinda cute, and there's... something... about him.” One of them said.
+
+“Yeah, but... he's new. We don't know what kind of tips he'll give.”
+
+“We've never actually switched around, have we?” One of them said, and the other women looked at her.
+
+“What?”
+
+“Jennifer always goes for Billy because he spoils her. I always go for Hank.” She said. “I like them strong.”
+
+“I always take Dillon. He's so sweet.” One said.
+
+“I like riding the cowboy.” Another said.
+
+“Tommy's always respectable, and never takes it too far.” The last one said.
+
+“So... what do we do?” One of them asked, and then no one spoke because they still didn't know how to handle the situation.
+
+*
+
+Ren had heard every word that the women said, and he looked at the other guys that sat in the circular booth with him. None of them had any idea what the women were actually discussing, or the dilemma Ren had inadvertently caused. He was about to say something to them, when the waitress came in with a big tray overloaded with full tankards of ale.
+
+“Here we go.” The waitress said and put the tray down on the dancing table. She handed each of them a tankard, and smiled at them. “That'll be 1 silver and 20 copper.”
+
+Clint handed her the money and gave her a 10 copper tip, and she put the money in a badly-made coin purse.
+
+“Will there be anything else?” She asked, and Ren had a stroke of inspiration.
+
+“Actually, I believe there is.” Ren said and his Etiquette skill activated. “I think you're quite pretty, and I wonder if you'd like to spend a bit of time with me.”
+
+The waitress blinked her eyes a few times in surprise, then looked at Ren curiously. She'd stopped dancing herself months ago, mainly because it was just too hard to keep up with all the younger and prettier women that seemed to show up constantly. Her tips hadn't been great at the time, either. She made more serving drinks exclusively than she ever did working the room and serving drinks on the side.
+
+“Um...” She looked at the other girls as they stood near the curtain, and wondered what they were talking about. “I used to do that; but, I mainly serve drinks now.”
+
+“I'm okay with that.” Ren said. “You'll be close at hand to take our orders when we need you, and I'm sure we'll keep you busy.”
+
+“Well...” She looked at him again. He wouldn't have gotten in if he wasn't legal age. She thought. “You are kinda cute, even if you are a little young.”
+
+Ren chuckled and held a hand out for her to take. “I like to cuddle, if that can sway you at all.”
+
+The waitress smiled and put her serving tray down beside the circular booth. When she took his offered hand, Ren gently pulled her close and kissed the back of her hand lightly.
+
+“Oh, my.” The waitress said and sat down on his lap. She slid her arms around Ren's neck and he slid his arms around her waist. Her face started to turn red because she wore a really short skirt that had hiked up to the top of her thighs when she had sat down.
+
+Ren felt like she didn't really want to flash the room like that, so he ran a hand down from her waist and along her hip, then across the cheek of her ass. Her breath sped up, because he was being so brazen right off the bat; then she caught her breath when Ren grabbed the bottom edge of her skirt and carefully pulled it down her legs and back into place without anyone else realizing what he'd done.
+
+Stat Change!
+
+Etiquette Level 7 (Expert 0%)
+
+All anyone saw was Ren as he got a very good feel of the waitress and her reaction to that feel. Only he and the waitress knew the truth. He hadn't groped her. What he did was save her modesty.

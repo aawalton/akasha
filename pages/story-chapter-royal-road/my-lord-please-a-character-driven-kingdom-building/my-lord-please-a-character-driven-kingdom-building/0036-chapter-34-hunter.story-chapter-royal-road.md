@@ -1,0 +1,233 @@
+---
+id: 9864b854-0123-56f5-a30f-7bb10def0a94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 Hunter"
+slug: 0036-chapter-34-hunter
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 36
+ownLength: 2247
+unit: words
+publishedAt: 2026-04-18
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3290264/chapter-34-hunter"
+royalRoadId: "3290264"
+---
+
+The room beyond the doorway was unmistakably Alicia’s.
+
+It carried the same quiet tidiness that seemed to follow the young maid wherever she went. Her bed had been carefully made with the blanket folded neatly across the end, and a narrow wooden table stood near the window holding a clay cup, a comb, and a small stack of parchments filled with her drawings.
+
+The chamber was far simpler than Lucien’s own, yet it possessed a warmth that reminded him strongly of the maid who lived within it.
+
+Yet someone else now stood within that gentle space, and the contrast between the two drew his attention to the figure almost immediately.
+
+The girl stood near the window where the pale winter light filtered through the narrow panes, her silhouette faintly outlined against the dim glow beyond, a position that left the rest of the room clearly within her view.
+
+She wore travel leathers darkened by road dust and the long wear of the frontier, clothing that appeared practical and weathered in a way that stood in stark contrast to the domestic air surrounding her.
+
+Everything about her suggested someone who belonged beneath open skies and forest canopies rather than within the walls of a noble’s manor.
+
+It was then that he noticed the bow slung across her back, and his gaze lingered there a heartbeat longer.
+
+Even at a glance the craftsmanship was obvious. The wood carried a smooth, deliberate curve that spoke of careful shaping rather than rough village work, its polished surface catching the light in subtle lines that revealed both strength and flexibility in its design.
+
+He might not have been an expert in weaponry in either world, yet even he could tell that a bow like that was not the sort commonly seen in Ashridge, much less in the newer settlements scattered across the frontier.
+
+Something about it stirred a memory within him, of how the quality reminded him of Dorian’s armor, equipment crafted to endure.
+
+The thought only deepened Lucien’s curiosity as his attention shifted toward the girl herself.
+
+Despite the stillness of her posture, there was nothing relaxed in the way she held herself. Her weight rested lightly upon the balls of her feet, the stance balanced and alert in a manner that suggested long familiarity with uneven ground and sudden movement rather than the polished floorboards of a noble’s manor.
+
+The second bow Tomas had mentioned rested loosely in one of her hands, its smaller frame held with the unconscious ease of someone who had carried such a weapon for years.
+
+Lucien allowed his gaze to rise at last, meeting the silent girl’s eyes.
+
+For several breaths, he said nothing as she regarded him without hostility or fear, her dull eyes simply watching him.
+
+He was not ashamed to admit to himself that the look unsettled him more than anger might have.
+
+They were not vacant in the sense that suggested a lack of comprehension, but instead hollowed by something deeper, as though whatever spark should have lived behind them had been worn thin by something that had already passed through her life.
+
+Haunted.
+
+The word surfaced unbidden in Lucien’s thoughts. In that moment, he was reminded faintly of sepia tinted photographs of soldiers staring across devastated battlefields from his former world.
+
+The room remained tense, Alicia had remained near the doorway, her posture composed though the uncertainty in her expression had not entirely faded.
+
+Within the space, the three of them regarded one another in silence as he recalled Tomas’s report from earlier.
+
+The image of a silent traveler carrying two bows along the winter road returned to him, the pieces settling together with certainty.
+
+“So,” he said at last, his voice calm as he regarded her.
+
+“You are the one who disappeared.”
+
+The girl did not answer. She continued to watch him, her dull gaze steady as the silence within the chamber slowly deepened.
+
+She stood near the window with the same distant stillness as before, the smaller bow resting loosely in her hand while her fingers settled naturally around the grip rather than clutching it in alarm.
+
+Behind him, Alicia shifted near the doorway. “My Lord,” she said softly.
+
+He glanced toward her, his eyes flicking briefly while keeping the stranger within the corner of his vision.
+
+“I discovered her only a short while ago,” Alicia continued, her voice careful as though reluctant to disturb the fragile quiet that had settled inside the room. “When I returned to tidy my things, she was already here.”
+
+Lucien raised a brow faintly. “She entered the manor without being seen?”
+
+“It would appear so.”
+
+Alicia’s gaze moved briefly toward the girl again before returning to him.
+
+“She didn’t attempt to harm anyone,” she added quietly. “In truth, she has hardly moved since I found her.”
+
+He regarded the strange girl once more. From the moment he had entered, she had not once looked away.
+
+“And she has not spoken?” he asked evenly.
+
+Alicia shook her head. “Not a word, My Lord.” She paused briefly before continuing more carefully. “She did write something, though.” Her eyes flickered toward her desk.
+
+His gaze followed the brief shift of her eyes toward the small table near the window, where several parchments lay scattered across its surface, the same sheets Alicia often used for the drawings she had begun making for the village board.
+
+A single sheet had been pushed slightly apart from the others.
+
+As he moved closer, he saw that the parchment bore only two words, written in firm and deliberate strokes.
+
+Too loud.
+
+His eyes lingered on the letters, noting how deeply they had been pressed into the parchment, as though the hand that wrote them carried more strain than the simple phrase suggested.
+
+Behind him Alicia spoke again, her voice gentle. “When I tried to guide her back outside,” she continued, “she only shook her head.”
+
+He gave a small nod in response, understanding settling into place.
+
+The square would still be crowded after today’s gathering. Villagers speaking with the refugees, voices rising across the open space as unfamiliar people attempted to make sense of their sudden proximity to one another.
+
+For someone already living beneath the constant strain of the frontier, even the ordinary noise of a crowded room could become overwhelming.
+
+His attention shifted again toward the girl, who remained near the window watching him with the same quiet stillness.
+
+Yet there was an alertness in the way she observed him, the subtle tension of someone accustomed to measuring every unfamiliar situation carefully, like someone who had learned to trust instinct above all else.
+
+Lucien folded his hands loosely behind his back. “Your name,” he asked calmly. Though he did not expect any response, it would not hurt to try.
+
+She offered no reply, her gaze remaining fixed upon him.
+
+He waited a moment before inclining his head slightly. “I see.”
+
+The air in the room seemed to ease as he realized the girl likely meant no harm.
+
+Lucien stepped away from the table and returned his attention to her standing by the window, where the wear of the road was easier to see up close.
+
+Her clothing carried the dull stains of long travel through winter forests. The leather at her sleeves was scuffed from repeated use, and faint traces of dried mud clung to the edges of her boots.
+
+And yet the two bows she carried had been kept in far better condition.
+
+The larger weapon slung across her back showed none of the neglect such a journey might have caused, its polished curve revealing deliberate care even after weeks upon the road.
+
+He noted the condition of the weapon, and the observation only reinforced the impression he had formed earlier upon learning of the missing girl.
+
+“Did you follow the others here from the eastern road?” he asked at last.
+
+She reacted faintly to the question, though she offered no answer.
+
+Alicia stepped a little further inside then, her presence quiet and reassuring rather than intrusive.
+
+“It's all right,” she said gently, though her words were directed more toward the girl than Lucien.
+
+Her eyes flickered briefly toward Alicia before returning to him, a small movement subtle but clear enough that it did not escape his notice. It seemed she had already decided which of them felt safer.
+
+‘Once again, this damn body makes me look like the villain,’ he noted dryly to himself.
+
+After a brief pause, he spoke again. “You will not be forced to leave the village,” he said evenly. “You are already counted among those who arrived yesterday.”
+
+Though the girl’s expression did not change, he noticed the grip of her hand upon the smaller bow loosen.
+
+“However,” he continued, “remaining here will require a measure of cooperation.”
+
+When no answer came, he exhaled softly through his nose. “I would prefer not to begin our acquaintance with a search of the entire village simply to confirm that you exist.”
+
+Alicia lowered her gaze, though the faintest hint of amusement flickered across her expression.
+
+The silent girl did not smile, though her eyes shifted again as she studied him more closely. Lucien met that scrutiny calmly.
+
+“Your name would suffice.”
+
+The silence stretched a little longer before she finally moved, stepping toward the table with a careful, measured gait.
+
+He watched as she reached for one of the blank parchments resting beside Alicia’s drawings. Taking the small charcoal stick lying nearby, she hesitated only briefly before pressing it against the page.
+
+The soft scratch of charcoal against parchment was the only sound in the room until she finished and pushed the sheet forward slightly.
+
+Lucien stepped closer and glanced down at the parchment.
+
+Only a single word had been written there in firm strokes.
+
+Sera.
+
+By the time he lifted his eyes again, she had already returned to the window. Sera stood there in silence before her head turned slightly toward the door.
+
+The movement was subtle, but the sudden shift in her attention caught his eye. The relaxed stillness she had carried a moment earlier sharpened almost imperceptibly, as though she had sensed something beyond the room itself. For an instant, her fingers tightened faintly around the grip of the smaller bow.
+
+A heartbeat later, he heard it, faint sounds of footsteps drifted along the corridor outside.
+
+They slowed as they approached the door.
+
+The steps paused briefly, as though the person beyond believed he already understood the situation within the maid’s chamber.
+
+Then the handle turned and the door opened just enough for Elias to step inside.
+
+“My Lord, I wished to inform you that the refugee’s—”
+
+The words stopped mid sentence. Elias’s voice simply...ended. Under different circumstances, he might have found the sight amusing.
+
+The elderly steward's gaze moved slowly across the room, first to Lucien standing near the table, then to the maid still beside the doorway, and finally to the unfamiliar girl near the window, travel worn, silent, and holding a bow as though it were the most natural thing in the world to bring into Alicia’s chambers.
+
+The pause that followed lingered noticeably longer than any Elias had ever allowed before.
+
+It dawned on him how the scene must appear to his steward. Only moments earlier, Elias had likely expected to find his lord alone with the maid behind a closed door.
+
+This was precisely the sort of scenario he had spent the past month trying very carefully to avoid, and yet somehow he now found himself standing squarely inside it.
+
+A young lord behind a closed door in his maid’s chamber.
+
+And two girls near his age in the room with him.
+
+“I didn’t drag this one here this time,” Lucien said, a touch too quickly.
+
+He winced inwardly even as the words slipped out. It seemed the memory of his first day lingered more vividly than he would have preferred.
+
+Behind him Alicia lowered her gaze, though the faintest hint of amusement flickered across her expression.
+
+Across the room Sera simply continued watching the exchange in silence, her dull eyes shifting from Lucien to the newly arrived steward with renewed curiosity.
+
+Elias, for his part, had regained his usual composure.
+
+His gaze moved slowly across the room once more, briefly noting the bows, the parchment resting upon the table, and the two young women standing nearby.
+
+After a brief pause, he inclined his head. “...I see.”
+
+The response carried neither surprise nor judgment. If anything, it sounded faintly thoughtful.
+
+He was not entirely certain whether that made the situation better or worse.
+
+‘Just what sort of tastes did the former Lucien have?’
+
+Silence lingered briefly within the room before Elias spoke again, his tone returning to its usual calm professionalism.
+
+“In that case, My Lord,” he said evenly, “it would appear the missing refugee has already been located.”
+
+His gaze shifted toward Sera again. “And brought her own equipment.”
+
+Sera offered no reaction, remaining beside the window with one hand resting lightly upon the smaller bow, her expression as unreadable as before.
+
+After another moment of consideration, Elias returned his attention to him.
+
+“Shall I inform Captain Dorian that the matter has resolved itself?”
+
+Lucien exhaled through his nose. “...Yes.”
+
+After a brief pause, Elias inclined his head once more. “Very good, My Lord.”
+
+And with that, the steward stepped back toward the door, leaving behind a room that had grown quieter than before.
+
+For reasons he suspected would take some time to fully untangle.

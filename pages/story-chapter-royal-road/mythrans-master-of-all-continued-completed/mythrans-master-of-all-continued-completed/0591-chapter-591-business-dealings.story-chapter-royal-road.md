@@ -1,0 +1,247 @@
+---
+id: ad92bb33-1c10-5416-8ade-e019b850e024
+page-type-slug: story-chapter-royal-road
+title: "Chapter 591 - Business Dealings"
+slug: 0591-chapter-591-business-dealings
+partOf: mythrans-master-of-all-continued-completed
+position: 591
+ownLength: 2946
+unit: words
+publishedAt: 2018-05-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216981/chapter-591-business-dealings"
+royalRoadId: "216981"
+---
+
+Ren and Artemis went into the business and saw it was a little crowded.
+
+“Oh, thank god!” Anabelle said and ran over to them. “My King, we're running low on weapons and protective enchantments.” She said. “We've still got a few simple armor sets left, but people have complained that they only have simple enchantments and can't give them the boost that they need for this new threat.”
+
+“Okay.” Ren said and activated the forge in the workshop part. “When they come back in, tell them to either bring their armor, or tell me where to meet them. I'll change their enchantments to a more suitable mix, especially since I meant to do that a while ago.”
+
+Anabelle sighed in relief, and handed him a piece of paper. “I was really hoping you would say that.”
+
+Ren chuckled. “You already told them that, didn't you?” He asked, and she nodded. “I didn't think I could care about you more, and here you are proving me wrong.”
+
+Anabelle's face flushed red and he stepped up into the air and kissed her.
+
+“Has anyone asked for a specific kind of protection?”
+
+“We've just about sold out of the Ring of Water Walking.” Anabelle said. “It was supposed to be a novelty and a potential life-saving device, and now it's giving people a sense of security that they won't be dragged under the water by a Sea Dweller.”
+
+“Wait, what?”
+
+“That's one of the stories going around.” Anabelle said. “There was a woman that ran down the street yesterday and she was shouting hysterically that her husband was taken by a sea creature of some kind, while he was out on the sea.”
+
+“Any idea who she was?” Ren asked, and Anabelle shook her head.
+
+“Check the All-Seeing Mirror, Ren.” Teepo suggested, and Ren took it out and asked it for the woman. He saw her sitting at the docks with a sword in her hand. She looked dishevelled and like she hadn't slept in a while, and she trembled occasionally.
+
+“Anabelle, I'll go see her as soon as I get the inventory back up to a respectable level.” Ren said.
+
+“You're a good man, Ren.” Anabelle said.
+
+“Before I forget, you don't happen to have any new weapon and armor plans for me, do you?”
+
+Anabelle smiled. “I'm glad you asked.” She said and went over to her counter and bent down behind it, and lifted out several sheets of parchment paper. “A messenger delivered these just after lunch yesterday.”
+
+Ren took the sheets and read through them, then received the plans for a trident, a single shot harpoon (personal size), a harpoon (ship size), and several shields covered in spikes, like they were designed to not be grabbed from the front.
+
+“They could be used to smash into things, like giant crab shells.” Teepo suggested, and Ren had to nod.
+
+There were a few other things, but they were copies of the weapons he had found the first time he had been in the Water Realm and saw them hanging up inside the castle.
+
+“I'll make them right away.” Ren said.
+
+“I'll let the customers know.” Anabelle said and came around the counter and gave him a hug. “How long...”
+
+“A few minutes.” Ren said. “I just have to go into my storage tower and grab a couple rings full of iron ore.”
+
+Anabelle laughed. “Just go over to the warehouse at the dock. The ship is delivering a few hundred tons of it as we speak.”
+
+“The ship's back?” Ren asked, and she nodded. I didn't get a notification. “I'll go over there right now.”
+
+“Thank you, My King.” Anabelle said.
+
+Ren thought about telling her that she didn't have to call him that, but he saw the look in her eyes and felt her teasing feelings. He smiled at her and gave her a slight bow, and he and Artemis left the shop. He was tempted to just run up into the air and go directly to the dock, then decided he was only wasting time by following the streets to go outside the city and did run up into the air. A few people gasped at the sight, and he wasn't sure if it was him running through the air or Artemis flying beside him.
+
+It didn't matter either way, so he ran over to the dock and came to a stop in mid-air. A train of carts were delivering loads upon loads of iron ore to the warehouse, and Ren could see into the hold. It was full of crates, and he didn't know what they were.
+
+“Ahoy, there!” The short captain said as he came up on deck. “Well, lookatchou!” He said and chuckled. “Yer flying!”
+
+“I'm just standing.” Ren said and smiled, then pointed to Artemis with a thumb. “Artemis flies.”
+
+“Yer arguin' semantics, sir.” The short captain said.
+
+“Yeah.” Ren pointed into the hold. “What's all that?”
+
+“Personal delivery from Dorcot is a big bunch of them. A few of them are bribes to make deliveries that couldn't fit on other ships, and the rest are those deliveries.”
+
+“Bribes?”
+
+The short captain nodded. “I know you didn't tell me that I couldn't accept other cargo, but I wasn't sure, so I took it, and the bribes, and left them right there for you to look through.”
+
+“Are the bribes for me or for you?”
+
+“Both, split how you want, since it's your ship.” The captain said. “I didn't look through the actual cargo, since I won't do that without accepting the bribe first.” He smiled. “If I don't take the bribe, then I don't need to know what I'm shipping.”
+
+“That's a unique way of looking at things.” Ren said, and the short captain laughed. “Did you look through Dorcot's delivery?”
+
+“I did.”
+
+“How many did you take?”
+
+“Just the one, and I took it instead of my pay.” The short captain said. “I was planning on asking the cook to marry me.”
+
+“I assume you took a big one?” Ren asked.
+
+“The biggest.” The captain chuckled.
+
+“Did anyone else take any?”
+
+“No one even went near them, and they all know what's in them.”
+
+“How do you know that?”
+
+“I've had a man sitting on them the whole trip with his sword drawn.” The short captain said and grinned, and Ren laughed.
+
+“All right, thanks for being honest.” Ren said. “Can you call the crew together?”
+
+“All hands on deck!” The short captain yelled, and all work stopped as everyone came up to gather on the deck of the ship.
+
+“I just want to ask a simple question.” Ren said. “Did anyone steal from me?” He felt surprise from everyone, except one. He walked over to the waitress and stood in front of her. “Ma'am? Can you explain, please?”
+
+“I didn't... I... how did you know?” She asked and burst into tears. “I swear it was just sitting there on the table for days! I didn't think anyone owned it! Who would leave something like that out?”
+
+“What was it?” Ren asked, and she took out a platinum coin.
+
+“Sir, I swear! I...” She sobbed. “...I didn't know it was yours!”
+
+Ren took out the All-Seeing Mirror and asked it where she had found it. It showed him a small table that was in the suite of rooms he and the maids had stayed in while they were on the ship. He stored the mirror and smiled.
+
+“It's okay.” Ren said and folded her hand over the coin. “Finder's keepers, right?”
+
+“Wh-what?” The waitress blinked her eyes and wiped at the tears. “I can keep it?”
+
+“Of course.” Ren said. “I left it there for anyone that cleaned the room.”
+
+“Th-that's how I found it.” The waitress said. “I was wiping down everything, since dust collects when you don't use something, and... when I found it... I left it there for three days, and... and then I took it.”
+
+“Then you don't need to feel guilty.” Ren said. “It won't be as easy to find next time, though.”
+
+“Wh-what?” She and the other waitress said.
+
+“I can't make it that easy all the time.” Ren said and smiled. “Who's assigned to clean the rooms on the next trip?”
+
+The other waitress raised her hand.
+
+“Good luck finding it.” Ren said and stepped away. “I'll give you a hint, though. You actually have to clean to find it.”
+
+“Sir, those rooms will be spotless.” The waitress said, and Ren nodded.
+
+“As for the rest of you, thank you for showing restraint while shipping expensive cargo for me.” Ren said.
+
+The crew watched as Ren ran down into the hold and stored all the crates Dorcot had sent him, then he came back up onto the deck. He took one of the crates out and opened it, and it was full of odd-sized diamonds. He closed it and took out another, and it was full of 1 inch wide diamonds cut specifically for wands.
+
+“As a bonus, besides your normal pay that is, you can have two of these.” Ren said and the crew stared at him. “Go ahead. Take two.”
+
+The closest dwarf reached into the crate and picked two of the diamonds up and they sparkled in the sunlight. “You're really giving them to us?”
+
+“I know how hard you all work, especially since the ship is so big.” Ren said.
+
+“It's flipping huge!” The dwarf said, and everyone laughed.
+
+“If you want something made with them, let me know.”
+
+The next dwarf reached in and took two, as did the next, and then all of them were grabbing two of the diamonds. When they all had two, he told the waitresses to grab two of them as well. They squealed in delight and rummaged through them. They picked out two that Ren thought were identical to the others; but, he felt their satisfied feelings that the ones they picked were better than the others.
+
+Ren stored the crate and walked over to the one crew member that he knew didn't like him. “So, have you calmed down after being a part of a family, and being treated normally?”
+
+“Yes.” Orimihr sighed. “I'm sorry I was being a jerk the last time we met.”
+
+“Just consider it water under the bridge. Are you willing to tell me about him now?” Ren asked, and he nodded. “Then come with me. You can talk while I work.”
+
+Orimihr looked at Ren's feet, and indicated he stood in mid-air.
+
+“Oh, just a second.” Ren said and cast Permanent Air Walk on him. “Okay, now you can follow me.”
+
+Orimihr took a cautious step up into the air, and smiled. He took another step and started to laugh.
+
+“We're staying for a week while we sort out the cargo.” The short captain said. “I assume you'll be back to look at it later?”
+
+“I should be back in an hour or so.” Ren said and went down into the hold and stored a ton of iron ore. “I just have a few things to make for the shop to get the inventory back up to functioning levels.”
+
+“See you then.” The captain said and looked at the crew. “Get back ta work you scally-wags!”
+
+The crew scattered almost instantly and Ren, Orimihr, and Artemis went through the air and over the wall of the city.
+
+“This is so crazy.” Orimihr said and looked down at the people below him. “We're running through the air like we're running on the ground, only there's nothing for us to trip over!”
+
+“It's definitely a great ability to have.” Ren said and they went into the shop, and over to the forge. He added a pile of ore to it and let the system skim off the impurities. “Tell me what you know about the Legendary Blacksmith Delthid Kulduhr.”
+
+“All right.” Orimihr said and watched Ren stir the molten metal quickly. “The first thing you should know is that he's an arrogant pr-”
+
+“Easy, there.” Ren interrupted him and gave a slight nod to the female customers that were well within earshot. “There are ladies present.”
+
+The women quickly blushed at his compliment and they chattered under their breath to each other.
+
+“My apologies.” Orimihr said and nodded to the women as well. “I've been on a sailing ship for a while.”
+
+Ren smiled at the excuse, because he spoke like that long before they were on the ship.
+
+“Which ship?” One of the women asked. “We were just down at the docks and didn't see you there.”
+
+“It's a ship at a private dock just outside the city.” Orimihr said, and the women gave him an appreciative 'ooo'. He smiled at them and turned to Ren. “As I was saying...”
+
+“Do you really know the Legendary Blacksmith?” One of the women interrupted. “I thought he was just a myth.”
+
+“If I can get my hands on him, that's all he's going to be.” Orimihr responded, and she gasped.
+
+“You've got a quest!” She turned to her friend. “He's got a quest to find the Legendary Blacksmith!”
+
+“Oh, my god.” Her friend said her voice full of wonder. “That's unbelievable.”
+
+“Orimihr, why don't you have a seat with these two enticing women, and tell them all about your old friend.” Ren said and took out a couch for them to sit on, far enough away from the forge that they wouldn't feel the heat, but they could still see what was going on.
+
+“I don't know...” Orimihr said.
+
+“Please, kind sir!” One of them said. “Regale us with your tale!”
+
+Orimihr was genuinely surprised that anyone besides Ren would be interested in talking to him, so he started to wave to the couch and was about to ask them if they wanted to sit. The two women didn't wait for him to finish moving or talking, and they had already sat down on the couch about 2 feet apart from each other, and waited expectantly. Orimihr smiled as he sat down between them, then he started to tell them all about Delthid.
+
+Ren went to the forge and kept working while he listened intently to everything Orimihr said. He knew there would be some exaggeration because he now had a female audience, so he took everything that was said and added a doubtful tone. He made weapons, armor, pendants, and everything else that was on the plans that Anabelle had given him.
+
+It took Orimihr 2 hours to tell his tale, and the two women were both riveted by his words the entire time. When he was done of his tale, both women had agreed to meet him for dinner at the local restaurant, and they left quite happy.
+
+Ren was done of the work he had to do as well. He had stocked the shop as the work progressed, and several of the items sold right away. Anabelle had been right, and the Rings of Water Walking were hot sellers, as were the Pendants of Protection. She gave him the latest pile of platinum and gold coins that she had gathered by selling his things, and Ren promised that he would thank her properly that night.
+
+“I always look forward to your thanks.” Anabelle said and gave him a quick kiss, then went back to the multitude of customers that still populated the shop.
+
+“Ren.” Orimihr said to get his attention, and he held out the two diamonds. “Can you make these into pendants and give them Water Walking and Protection?”
+
+Ren looked at him knowingly and quickly did it using his Craft Wondrous Item ability, rather than forging them, and Orimihr stared at them when Ren handed them back.“Normally, I would warn someone not to just give them away and waste them; but, I'm pretty sure you're not going to waste them if you give them away.” Ren said and smiled. “If you get what I'm saying.”
+
+Orimihr took out the large handful of gold he had and held it out. “Can you keep my pay and give me a Strong Ring of Storage? I think I'm going to need the boost.”
+
+“Keep your pay.” Ren said and gave him a Strong Ring of Storage and a Bracelet of Magical Balance. “I always help my friends.” He smiled and pat Orimihr's shoulder. “By the way, if you're smart, you'll head over to the restaurant right now and book a private table in the back for tonight.”
+
+Orimihr equipped the items and stored the two pendants inside the ring. “I think that's a great idea.”
+
+“Make sure you tip a gold coin when you book the table.” Ren said. “It might not get you in faster, but the workers appreciate someone that appreciates them.”
+
+Orimihr let a slow smile spread across his face and nodded. “I understand.” He said and turned to walk away, then stopped. “I'm sorry, Ren. I didn't realize...”
+
+“It's okay. You don't know me, and I don't know you.” Ren said. “I had hoped to change that a while ago; but like I said then, I can't force you to open up and talk to me.”
+
+“So you left me alone and let me think about it instead.”
+
+“It seemed like the best way.”
+
+“It was, my friend.” Orimihr said. “Let me know when... well, you know.”
+
+“You'll be the eighth person I tell when I decide to go and find him.”
+
+“The eighth?” Orimihr asked, surprised.
+
+“Artemis and Teepo, who are always by my side, and the 5 Ladies of my House will know first.”
+
+Orimihr looked at him with wide eyes for a moment, then laughed and left the shop.

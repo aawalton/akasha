@@ -1,0 +1,251 @@
+---
+id: 5e7f0835-454e-5b71-b6b2-3690bbb34458
+page-type-slug: story-chapter-royal-road
+title: "Chapter 561 - I Hope You Learned Something"
+slug: 0561-chapter-561-i-hope-you-learned-something
+partOf: mythrans-master-of-all-continued-completed
+position: 561
+ownLength: 2555
+unit: words
+publishedAt: 2018-04-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209266/chapter-561-i-hope-you-learned-something"
+royalRoadId: "209266"
+---
+
+“You know I would like nothing more than to learn everything you have to teach me, Nathalia.” Ren said. “Unfortunately, neither of us has the time right now.”
+
+Nathalia was about to tell him that nothing else mattered to her, and he put a finger on her lips to stop her.
+
+“Your staff is about to interrupt us because you have a meal to supervise.” Ren said, and she nodded.
+
+“Keep an eye on the oven.” Nathalia said, kissed his palm, and went through the curtain.
+
+While Ren waited for the casserole to cool and for the cakes to cook, Nathalia went to help the staff cook supper for the customers of the restaurant. Ren stored the box of Alchemy ingredients and took out two chairs to sit down on.
+
+“I should have offered you a chair before.” Ren said to Xuunah and held it steady for her.
+
+“I would have been in the way if I was sitting down.” Xuunah sat down gracefully and crossed her legs. “Since I wasn't in the way, I had the chance to see the two of you work together as if you were one person.”
+
+“We kind of were.” Ren said and sat down himself. “Our movements complimented each other and that made the work go so much faster.”
+
+Xuunah nodded. “I could feel your symmetry as you moved, almost like a dance.” She said. “It was quite beautiful.”
+
+Ren thought about the analogy and smiled. “You're right, it was like a dance. Dancing always works out well when you have a great partner.”
+
+They fell silent and watched the oven as it cooked the cakes, but the silence wasn't awkward or strained. Ren reached out absently and took Xuunah's hand, then started to fondle it. She didn't mention it or complain, mainly because she liked having someone do that to her.
+
+The sensations in a physical body were a wonder to experience, and even the little bit Ren was doing was enough to give Xuunah a little thrill. They were both thinking about things, and when they happened to think of the same subject, she felt their thoughts sync up and spoke.
+
+“Are you going to actively try to take the ghoul infected from the capital city?” Xuunah asked.
+
+“No, I don't want to prove King Alamast right.” Ren said. “I will tell them that they can come to my county to live if they want to, but I won't say it's free or tell them they could all have some kind of job when they get here.”
+
+“Is that true? Will they all have a job of some kind?”
+
+“There's always something to do around there.” Ren said. “Imagine how quickly things would get done with a hundred, or a thousand, or even ten thousand people doing it.” He smiled. “Like harvesting.”
+
+“It would happen almost instantly.” Xuunah said, and Ren nodded.
+
+“But I know people. I've seen enough of them in this world to know that as a whole, they are lazy.”
+
+Xuunah chuckled. “Why work when you don't have to?”
+
+Ren smiled. “Exactly.” He said. “If I take a mass of people and just dump them into the county, I'll destroy the charm the county has, and I don't want to do that.”
+
+“What if they all decide that they want to come, despite not knowing the benefits?”
+
+“You mean like Narshan did?” Ren asked, and Xuunah nodded. “Then I'll figure out how to get them all to the county.”
+
+“Ren, if there's thousands of them and they want to take their families...”
+
+Ren sighed. “Yeah, I know.”
+
+Teepo warned Ren about the time, and he made up a batch of icing for the cake. When it was ready, the cakes were ready to come out of the oven. Ren deactivated the oven and took out the cakes, then absorbed the heat from them. He applied the icing and assembled the cake, then decorated it to make it look fancy. He quickly added swirls, beads, streamers, roses, leaves, and some filigree to join everything together.
+
+“Ren that looks divine.” Xuunah said as he finished, and then Nathalia came through the curtain.
+
+“It really does.” Nathalia said and gave him a hug. “You've got a knack for decorating with icing.”
+
+“I was just wasting time until you showed up.” Ren said, and she chuckled.
+
+“Well, I'm here now. Let's eat.” Nathalia said. They did up three plates of casserole and cut off three pieces of cake for dessert, which left 5, and Nathalia told him to store the rest of the casserole and cake.
+
+“But, shouldn't you...”
+
+“I was making them for you, so don't worry about it.” Nathalia said. “I think you know a few people that could benefit from them.”
+
+“Only a few?” Ren said and grinned at her.
+
+“Try to keep it to a few, then.” Nathalia laughed. “There's not enough to the dishes to give to too many people.”
+
+Ren stored the dishes and they took their meals to the dining room and sat down to eat. They didn't talk much except for idle chit-chat, and when they were done of the casserole, they each gained a point of Vitality and a slight boost to Regeneration.
+
+“Wow, Nathalia.” Ren said. “I knew it would work, but still...”
+
+Nathalia smiled. “With the ingredients you have, we can make something that will increase each of your stats just by eating.” She said. “Of course, you're going to burn through the ingredients quickly if you try to make too many things at once.”
+
+Ren was about to respond when he was covered in a slight glow for a moment. “My sustenance ring just kicked in.”
+
+“It won't matter.” Nathalia said. “You won't gain the Health increases from eating normally, but the boosts happen no matter what.”
+
+Ren nodded. “Dessert time.”
+
+Nathalia and Xuunah took out their slices of cake and the three of them dug in and enjoyed the taste. When they were done, Ren received a popup.
+
+Notice!
+
+You have consumed a piece of Strongman Cake!
+
++1 Strength
+
++10% Boost to Endurance for 1 hour
+
+Ren dismissed the popup. “Hey, I thought it was supposed to be permanent.”
+
+“The Endurance boost is normally only 1%.” Nathalia said.
+
+“Oh... never mind.” Ren said, and she laughed.
+
+“You can't have everything you do be permanent, Ren.” Nathalia said.
+
+“No matter how much I want it to be?” Ren asked and his hand touched her hand.
+
+Nathalia's face flushed a little red. “I... ah... need to go.”
+
+“Me, too.” Ren said and stood up. “Thank you very much for giving me a glimpse into the wonderful world of alchemy cooking.”
+
+Nathalia stood up as well. “It was about time.”
+
+“I don't know when I can be back to learn more.” Ren said.
+
+Nathalia ran a hand through his hair. “I'll always be ready to teach you whenever you have some free time.”
+
+“I'd rather shuffle things aside and make time, rather than wait for 'free' time.” Ren chuckled. “I almost never have any of that!”
+
+Both Nathalia and Xuunah laughed.
+
+“That's certainly the truth.” Xuunah said and took Nathalia into a hug. “Until the next time we meet.”
+
+Nathalia nodded and hugged her back, then let go. “Until then.” She said. “Keep him safe.”
+
+“Always.” Xuunah said.
+
+Nathalia left, so Ren and Xuunah left as well. As he passed by the woman who sat people, he handed her several gold coins. Before she could thank him, he and Xuunah were already outside the restaurant and up onto the roof. They waited a few minutes with Artemis as she filled them in on who she had seen, and then Officer Holly came out to join them.
+
+“Nothing suspicious.” Officer Holly said. “No covert spells or disguises that I could detect.”
+
+“That's what I was telling them.” Artemis said.
+
+“Nice work, both of you.” Ren said. “I just have to make a quick stop and then we can head back to the county.”
+
+The three women nodded and Ren took out the All-Seeing Mirror and asked it for the location of the place that sold parchment paper. It showed him on the map, and the three of them climbed onto their mounts, then rode through the air to the spot while Artemis flew beside them.
+
+Ren saw the young boy that made the paper deliveries as he stood next to an old man who was locking the door of the business. Princess came in for a landing not far away and clomped her hooves loudly, so they wouldn't startle the man and boy by just appearing behind them.
+
+“Hello, there.” Ren said and hopped off of Princess. “I'm sorry for being so late, but I'd like to buy some parchment paper.”
+
+“I'm sorry, young fella.” The old man said and turned towards him. “We just closed up.”
+
+“It will only take a moment.”
+
+“Grandpa, that's the man!” The boy said. “The Hero of Aurora!”
+
+“I don't care who he is. We're closed and that's that.”
+
+“Grandpa!”
+
+“I only want to buy...” Ren tried to speak.
+
+“Come back tomorrow.” The old man interrupted. “I won't open again until the morning.”
+
+“Grandpa, either open the door or give me the key.” The boy said. “I'm selling him whatever he wants!”
+
+“You're a good kid, and you help me a lot.” The old man said. “Don't mistake that as having a say in how I run things.”
+
+“But, Grandpa!”
+
+“Hush, now.” The old man said. “Listen to your elder.”
+
+“If you were making sense I would!” The boy said and looked at Ren. “What can I get for you?”
+
+“I want a couple writing instruments...”
+
+“Ha.” The old man said. “Piddly sales.”
+
+“...and 10,000 sheets of parchment.” Ren finished and the old man's mouth fell open.
+
+“We've only got just over 1,000.” The boy said. “But if we cut them like we did for you the last time, that's 4,000.”
+
+“Good enough.” Ren said and handed the boy a wand with the Pass Wall spell. “Since you work there, you're not breaking and entering.” He said and told the boy how to use the spell. The boy stared at the wand and the glittering diamond on the end of it, then used the spell. An 8 foot by 6 foot hole appeared in the wall beside the door, and the old man gasped and fainted.
+
+Xuunah went to him and knelt.
+
+“Don't worry about him.” The boy said and gave the wand back. “He faints when he sees a paper cut.”
+
+Ren chuckled, and the boy went inside for a few minutes. They heard a loud thump and then a shearing sound, then two smaller thumps and another shearing sound. A moment later, the boy came out with a huge stack of paper.
+
+“Here... you go... sir!” The boy panted and held up the paper.
+
+“Thank you.” Ren took the paper from him and stored it, much to the boy's relief.
+
+“Here's the writing instruments, too.” The boy said and handed Ren what he wanted.
+
+“How much?”
+
+“50 gold.” The boy said. “I have to charge you extra because it's going to take us a day to build our stock back up.”
+
+Ren nodded and handed the boy a platinum coin.
+
+“I'll have your change in a minute.” The boy said and dropped the coin into his coin pouch.
+
+“Keep the change.” Ren said, and the boy's eyes nearly bulged out of his head.
+
+“B-b-but s-s-sir!”
+
+“I always thank people that help me. Since you tried your best to get your grandpa to open for me, you deserve a bit extra for that.” Ren smiled. “This paper lets me start to earn the love of my life back, so by rights I should give you another...”
+
+“N-no, one... one was enough.” The boy said and held his hands up in surrender.
+
+Ren took out a Strong Ring of Storage and gave it to the boy. “So you can help your grandpa out more.”
+
+“Geez, thanks, mister!” The boy said and put the ring on, and a huge smile appeared on his face. “Wow! I feel 10 times as strong now!”
+
+That's because you are. Ren thought. “No, thank you young man.”
+
+The boy walked over to his still unconscious grandfather. “I'll get him home.” He picked him up in a fireman's carry and put the man over his shoulder. Xuunah went back to Ren and they watched the boy struggle a little with the extra weight, but he handled it well. When the boy reached the corner, he turned and waved, which swung the old man's head around and whacked the corner of the building.
+
+“See ya!”
+
+Ren winced and waved, and the boy disappeared from sight.
+
+“It's a good thing the old guy was already unconscious, because that looked like it hurt.” Teepo chittered in laughter. Artemis joined him and laughed, too.
+
+“I've got what I need, so we can go.” Ren said, then they all climbed onto their mounts and rode across the sky to Walin County. They landed in front of the Main House, and Ren, Xuunah, and Officer Holly dismounted. Ren gave Princess a plate of fried dough, which she sucked up greedily and chewed loudly, then she went into her house to go to bed.
+
+“I'd complain what a waste that was, but she earned it.” Officer Holly said and looked at the bakery across the street to see it was closed. “Oh, well.” When her well-trained nose caught a whiff of warm fried dough, she whipped her head around to stare at Ren. He had another plate of them and held them out.
+
+“Thank you for coming along and watching out for me this whole time.” Ren said.
+
+“Ren... I... I've got work tomorrow and I can't be here to watch you for a couple of days.” Officer Holly said.
+
+“I know you've got stuff to do this week and you can't be there to watch out for me, but what you've done so far was well beyond anything you needed to do.” Ren smiled and gave her the warmed plate. “I'll try to restrict myself and stay around here, and won't go anywhere that other Adventurers will be.”
+
+Officer Holly reached out with both hands and took hold of both sides of the plate, almost reverently, and her fingers lingered on his hands that held the plate underneath. She slowly pulled the plate out of Ren's grasp, and dragged her fingers over his.
+
+“Be safe and take care.” Officer Holly said.
+
+“I will.” Ren said. “See you when I see you.”
+
+Officer Holly smiled. “Bye, Ren.” She said, stored the plate and led her mount to the side of the building.
+
+“Hey, wait!” Ren said, and she turned back. “Don't forget to tell that guy you like how much you like him!”
+
+“Wh-what?” Officer Holly blinked her eyes at him. “What did you say?”
+
+“You don't want to have that regret living in your head.” Ren said. “Believe me. Even if it doesn't work out, take what happiness you can and enjoy it.”
+
+Officer Holly thought about it, and Ren felt her contemplate it and also felt her doubt.
+
+“Or don't.” Ren said. “As long as you're honest with yourself.”
+
+Officer Holly nodded slowly and walked to the stable to put her mount away.

@@ -1,0 +1,293 @@
+---
+id: 4a71a23a-7fb8-5d33-89a1-ae4d3d254fa1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 359 - Do This For Me"
+slug: 0352-chapter-359-do-this-for-me
+partOf: mythrans-master-of-all-continued-completed
+position: 352
+ownLength: 3626
+unit: words
+publishedAt: 2017-09-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162532/chapter-359-do-this-for-me"
+royalRoadId: "162532"
+---
+
+Ren went to one of the display cabinets in his shop, and started to fill it with the glassware he had purchased from Janice.
+
+“What's this?” Anabelle asked.
+
+“Janice made a bunch of stuff at the Main House, and I bought it from her.” Ren said. “I'm making a display for it.”
+
+“I don't think we should sell it.” Anabelle said.
+
+“Why?” Ren asked her and stopped loading the shelves.
+
+“This is your shop.” Anabelle said. “I've told everyone that's come in here, and everyone I meet when I go out, that you made everything in this shop that's for sale.”
+
+“But...”
+
+“Tee-one is yours and does your bidding.” Anabelle said. “He uses your skills to make everything.”
+
+“Well, I...”
+
+“Ren, please.” Anabelle said. “They may be great items, but you said it yourself. This isn't a resale store.”
+
+Ren opened his mouth to argue, then changed his mind. “All right, I won't change my policy.”
+
+“Thank you for listening to me.” Anabelle smiled. “The last thing we need is to have everyone think they can sell their items out of your shop.” She said. “We'd be bombarded all day and every day with resale requests!”
+
+Ren nodded reluctantly. “So, what should I do with all of the things I have?”
+
+Anabelle thought about it for a minute, then smiled. “Open a temporary market stall.” She said. “You can offload everything at a good price, and people won't associate the market stall with the shop.”
+
+“That's actually a good idea.” Ren said. “Do you have a recommendation for who can run it?”
+
+“I sure do.” Anabelle said. “Get your maids to do it.”
+
+Ren blinked his eyes a couple of times, because he thought she was going to mention one of the three sales girls, or even one of the candidates that she'd interviewed as a sales girl.
+
+“It would give them something to do.” Anabelle said. “Until you decide what you're going to do with them.”
+
+Ren thought about it, and figured it would be something to keep them busy... assuming one, or even all of them... wanted to do it.
+
+“I'll ask them.” Ren said, and hugged her. “Thank you.”
+
+“You're welcome.” Anabelle said and hugged him back. He really is cuddly. She thought and let him go.
+
+“I've got to go up and check on Elerlyth and Zetaya.” Ren said. “Don't forget to eat!”
+
+“I can't wait for the Ring of Sustenance to kick in next week.” Anabelle said. “We're going to save so much money on food when they do.”
+
+Ren nodded and went out the back of the shop, up the stairs, and into the apartment. “Hi, Zetaya.” Ren said and climbed into the pen. The fire elemental ran over to him and jumped. Ren caught it and hugged it close, and it dabbed its head stub on his cheeks. He heard a small crackling fire and smiled.
+
+“I love you, too.” Ren said. “I came to tell you that I've got all the parts I need for the giant forge, and all I have to do is build the warehouse to hold it.” He said. “I'm going out with the lumberyard caravan first thing in the morning, and I'll be back at noon to get you.”
+
+The fire elemental's color changed slightly, and it tucked its head under Ren's chin. Ren stood there and held it, and stroked its back. After a few minutes, Ren said he had to leave, so Zetaya reluctantly let him go and dropped to the floor.
+
+“I'll see you again tomorrow.” Ren said, knelt, and kissed its head stub. “Bye, Zetaya.”
+
+Ren started to walk away, and the fire elemental followed him.
+
+“Oh, hey... do you want another Spider Silk treat?” Ren asked, and the fire elemental turned from its bright orange flame to white for an instant. “I think that's a yes.” He said and took out several large scrap pieces. He had thought about saving them to make smaller pieces of clothing; but, he knew that Zetaya really enjoyed the taste of them and gave them to the fire elemental. It sucked the pieces into itself and jumped around, and Ren laughed.
+
+“Don't try and eat them all at once.” Ren said with a huge smile on his face. “There's plenty more where that came from.”
+
+Ren left the pen and went to the bedroom, to find Elerlyth's phantom form on the bed. He saw a piece of parchment on the dresser and read it.
+
+Ren,
+
+You don't know how tempted I was to stay in and spend some time with you, but I have to get a good night's sleep because I'm picking up my diploma first thing in the morning. I'm still having a difficult time believing all of my hard work has finally paid off.
+
+I'll see you tomorrow night at your place, so we can show your new party friends what a real power couple can do.
+
+Elerlyth
+
+I guess I'll just use the extra plate of food later. Ren thought, then left the bedroom and saw Anabelle come into the apartment.
+
+“Oh, she's still gone?” Anabelle asked. She had a half-eaten plate of food in her hands and Ren showed her the note. “Well, at least you'll see her later.”
+
+Ren looked at Anabelle, and knew she wasn't happy about that. “Can I ask you what...”
+
+“She's a bitch.” Anabelle said and sat down on her bed to eat. “She's always treated me like I don't matter.” She said. “Just like Lord Eric did.”
+
+Ren walked over to her and cupped the sides of her face. “Don't take it personally, Anabelle. Elerlyth treats everyone like that.”
+
+“She doesn't treat you like that.” Anabelle said.
+
+“She did at first.” Ren said, and leaned in close to whisper. “Then I bent her over and screwed her so hard that she screamed my name.”
+
+Anabelle shivered at the thought of him doing that to her, and he gave her a gentle kiss when he saw her reaction.
+
+That wasn't how it actually happened the first time. Ren thought. But the end result was the same. “Goodnight.” He said, and left a surprised and quite horny Anabelle in the apartment as he went down the stairs and out the back door.
+
+********
+
+Officer Holly Stonewall watched Ren's Player ID flitter from his retail business, down the street and up to the Housing District, then it entered the large house in the middle. It was almost too fast to see, and she wondered how fast he could actually run.
+
+At least now I know where he lives in the game. Holly thought. It should make things easier from now on.
+
+*
+
+Detective John Ramirez regretted assigning witness protection duty to his partner, but after they had found out Ren's own psychiatrist was involved in the case, it led them down a different path than what they had expected.
+
+They had used an old police contact that worked there as a security guard, to get as much information on her as they could. What the information revealed was surprising. The psychiatrist was seeing everyone they had identified in Ren's childhood drawing. Mayor Danicot, the woman with the mayor, the Chief of Police, Senator Eddlemere, and Agent Smith's FBI supervisor. The other men might be her patients as well, but since they didn't know anything but their aliases, they couldn't prove it.
+
+The last part of the information was also the worst. The highly recommended treatment the psychiatrist had prescribed, for all of her patients, was VR therapy... with the now quite popular VR game called FLOW.
+
+********
+
+Ren went into the back downstairs bedroom and gave Princess a plate of food, then went upstairs to the guest bedroom and knocked on the door. Janice accepted the plate of food and said goodnight, then Ren went into the big bedroom and to the waiting maids.
+
+“Here he is, the dashing hero!” Frikara said, and Ren could feel the slight teasing and amusement in the shared Aura. Ren strode over to her, picked her up by the hips and swung her around once, then let her slide down so she ended up in his arms with her arms around his neck. She had wide eyes and he felt her surprise, and then he dipped her backwards slightly and kissed her.
+
+All the maids were too surprised to react at all, even Frikara; then Ren stopped kissing her and stood her up.
+
+“If it wasn't for you and your quick thinking, Fern could have had a permanent injury just like the mine foreman back in the dwarf lands.” Ren said. “Thank you.”
+
+“Y-y-you're w-w-welcome.” Frikara said, completely shaken at his actions and his sincerity.
+
+“Strapping the healer like that to Princess was brilliant.” Ren said and led her over to the bed. “My only thought at the time was to get the healer. It didn't occur to me that I could get Princess to bring him.”
+
+“It... it was nothing.” Frikara said.
+
+Ren handed her a plate of food, and then gave the other maids a plate as well. He took a chair out of inventory and sat down in front of them, then took out a plate of food for himself.
+
+“Don't play it off like it didn't matter.” Ren said and ate some food. “You were smart, thought about the problem tactically, and I'm really glad that you did.”
+
+Frikara's face flushed red, because she knew he wasn't lying with the praise he had given her, and she could feel he was still being sincere.
+
+“Now I wish I'd gotten the call.” Lusinia said and smiled. “That was some twirl and kiss.”
+
+Ren chuckled. “I only did what I thought a dashing hero would do.”
+
+“Getting swept off our feet and into your arms like that...” Andrela's face flushed red, too. “...it felt wonderful.”
+
+“I'm glad you all got to share in the experience.” Frikara said dryly and rolled her eyes, and everyone laughed, because they all knew she didn't mind them sharing it and feeling what she'd felt. They finished the meal, and Ren told them about what happened that day. When he was done, he asked them if they wanted to work at a market stall.
+
+A couple of them were hesitant, but Verwynn said she would be delighted to try it. If she wore the things Ren gave them for protection and one of the fancy dresses, she was sure she could make at least a few sales.
+
+“You know it's not because I need the money.” Ren said. “It's to give Janice some local exposure.”
+
+“Why don't you get her to do it?” Navruth asked.
+
+“She's only here for 2 or 3 days a week. She can't possibly work a market stall consistently.” Ren said. “Plus, she said she might come to the county tomorrow to make more glassware.”
+
+“Well... I can at least try it and see what happens.” Verwynn said. “I assume you have the items on you?”
+
+Ren nodded. “We'll set up the stall in the morning just down the street from the Artesian District.” He said. “There's a few other stalls there, and it should fit right in.”
+
+“I look forward to it.”
+
+“Thank you, Verwynn.” Ren said. “I'll have Riley and Stacy guard you.”
+
+“I don't think that'll be necessary.” Verwynn said. She felt Ren's protective emotions flood into the shared Aura and smiled. “But I'll take them as company.”
+
+“Thank you.” Ren said. “Now if you'll excuse me, I have some meals to pick up.” He said and stood up, then stored the chair. “I'll be right back.”
+
+The maids nodded and Ren left the bedroom and then the house, and ran down the street.
+
+*
+
+When they felt Ren leave the shared Aura, Lusinia turned to Verwynn.
+
+“Are you really going to subject yourself to being a... a...”
+
+“Peddler.” Verwynn said. “Yes, I am.”
+
+“But...”
+
+“I know our culture sees them as the lowest class.”
+
+“No, we see them as swindlers, scammers, and thieves.”
+
+Verwynn laughed. “Do you really think Ren wants me to swindle and rob customers?”
+
+“I... no.”
+
+“Then I don't have a problem with it.”
+
+“But...”
+
+“He's going to give me negotiating room on the prices, since he knows we like to Haggle.” Verwynn said. “I could almost feel his will. He only wants to help his friend.”
+
+“I felt that, too.” Andrela said. “He really doesn't want to make money from this.”
+
+“I don't think he even needs that fantastic store he has.” Frikara said. “He has more money than... than...”
+
+Navruth laughed. “That's right. None of us can think of anyone that could have more money than him.” She said. “Not even the Royal Family, and they get the taxes from everyone in the kingdom.”
+
+“We really should ask where he got it all.” Lusinia said. “I bet it's an interesting story.”
+
+“I know he got a pile of it when he looted Throgg's treasure chest.” Frikara said. “We all saw what was inside.”
+
+The other maids nodded. They knew that Throgg had loved platinum coins, and the bottom of the chest had been filled with them. The funny thing was, not for one second did they believe that they deserved one copper coin from it. If anyone had asked them, they would honestly say that they wouldn't want any of it, either.
+
+*
+
+Ren ran to the restaurant, and was greeted kindly by the woman there.
+
+“We're just about done.” She said and pointed. All of the tables were covered with plates and plates of food.
+
+“That's great.” Ren said and took out the large icebox. The woman stared at it as he loaded it up with plate after plate of food. He cleared off about three quarters of the tables and couldn't fit any more into the large icebox. He stored it and made another one exactly the same while he waited for the rest of the food, then the servers came out with the remainder of the plates. He put the rest of the food inside the new icebox and stored it, too.
+
+“Thanks a lot.” Ren said. “This saves me a ton of time.”
+
+“It cost a ton of money, too.” One of the servers said, quickly glanced at the woman that sat people and the other server, then she held a hand out. “Thank you for your business, and it was really nice meeting you.”
+
+Ren took the hand and bent over it. “It's always nice to meet an efficient worker.” He said and lightly kissed the back of her hand. He felt her shiver slightly from his touch, and he looked at her face. She had blushed a little, and he wondered if it was his Prince Charming title or if she just liked having her hand kissed. He stood up and let her hand go, and she slowly slid it out of his.
+
+“She definitely liked getting the hand kissed.” Teepo said. “Do the other two so I can see her reaction.”
+
+Ren took the other server's hand and lightly kissed it, then turned and did the same with the woman who sat everyone, too.
+
+“Oh, yeah... she's envious.” Teepo said. “It's definitely hand kissing and not the title.”
+
+Thanks for the confirmation, Teepo. Ren thought and smiled at the three women. “Thank you for staying late and making all of this food for me.” He said to them. “I'll probably be placing a similar order next week.”
+
+“I can't wait!” The server who liked getting her hand kissed said and her hand twitched. Ren thought she was going to try and take his hand again; but, she changed her mind and just smiled at him.
+
+“I'm not even going to ask how you can carry all of those plates.” The second server said.
+
+Ren chuckled. If she knew what I was really carrying, it would probably blow her mind.
+
+“Speaking of blowing her mind.” Teepo said. “I wonder how Patty is.”
+
+Ren bid the servers a good night and left the restaurant. That's a good point. He thought and came to a stop halfway down the street. I wonder if there's an option to send her a message. He opened the Land Owner menu and chose Goagan City from the drop down menu. All the information popped up and he scrolled down to see what options he had.
+
+Mayor... mayor...mayor... there it is. Ren thought and chose the 'Contact Mayor' option. He typed up a quick message and sent it to her. Since he had a menu opened anyways, he switched to the Business Owner menu and ordered rope and parchment. He'd been out of both for a while and wanted to rectify that problem. The delivery time was set for the next day at noon, so he closed the menu and ran down the street, around the corner, and down to the Housing District.
+
+*
+
+Patty was awoken by a loud beep, and she opened her eyes. This isn't my bed. She thought sleepily, wiped her eyes, and sat up. A message popup had appeared and she looked at it.
+
+Message From Land Owner:
+
+Hi, Patty.
+
+I hope you weren't too surprised by the amount of money I put in the budget. It's for the whole year, and I didn't want to worry about having to put more in it later. You can use as much of it as you want. I'm sure there's things that people are going to need that I can't think of right now, so go ahead and get it for them.
+
+- Ren
+
+Patty stared at the message and shook her head. She couldn't believe that he had given her complete reign over the entire budget without a second thought over how she could abuse it.
+
+How can he be so stupid? Patty asked herself, then typed out a quick response to say she was fine and that he was crazy for giving her so much money. No one in their right mind would just hand over nearly a th-th-th-th-thousand pl-pl-platinum coins!
+
+Patty shook her head again when Ren sent her a happy face with the eyes pointed in different directions, and she sighed as she closed the message. She opened the Item Order tab to put the order through for the parchment, after increasing the amount from 10 to 100, then increased the writing instruments from 1 to 20. A very minuscule amount of gold and silver was deducted from the budget, then Patty closed the Item Order tab.
+
+I'm tempted to order everything I can on that menu. Patty thought. It would serve him right!
+
+Patty opened it again and chose one of everything, and saw the total at the bottom.
+
+125 platinum! Patty thought in shock. It wasn't just the total amount of the cost that was shocking, it was that Ren had been right. If there was anything at all that she wanted for the city, or for anyone in the city, he had given her more than enough money to handle it.
+
+“Miss Patty!” Russell said from the doorway.
+
+“AAAHHH!” Patty screamed.
+
+“Sorry, Miss Patty.” Russell said. “I came back to tell you that you're missing the town council meeting.”
+
+“The council meeting!” Patty said, closed the Mayor menu, and stood up. “Go back and tell them I'm sorry I'm late, and that I'm coming right now.”
+
+“Yes'um.” Russell said and ran out of the building as Patty came around the desk to follow him at a jog.
+
+*
+
+Ren ran inside the house and up to the bedroom, and Teepo took off and landed on the ceiling. The maids were already undressed and had laid down on the bed on the far side, to give him room to lay down and log out. He took off his Dire Wolf Hooded Cloak and folded it up, then remembered his crafting station. He took it out and opened the treatment compartment, and several of the maids gagged.
+
+“Sorry.” Ren said and took out the Dire Wolf pelt and put it into the drying compartment and closed the crafting station to store it. He then stored his clothing, which left him in just his underwear, and he felt how much they liked the sight. He let them feel how much he liked the sight of them on the bed like that, then he crawled up onto the bed to join them.
+
+“Can you move over a little?” Ren asked. “I want to be in the middle this time.”
+
+“But... before you said...” Navruth started to say, and she felt some admonishment from the other maids. She stopped talking and three of the maids moved to one side, and two of them moved to the other. Ren laid down in the middle of them and sighed dramatically.
+
+“Goodnight.” Ren said and closed his eyes. The maids watched and waited for him to speak again and then fade away; but after about 30 seconds, Ren hadn't spoken and they couldn't wait anymore.
+
+“Ren?” Frikara asked. “Aren't you leaving?”
+
+“Do you want me to leave?” Ren asked, and kept his eyes closed.
+
+“By the gods, no.” Frikara said. “Are you going to?”
+
+“I've postponed my Adventurer's business-” Ren's words were interrupted when all 5 maids practically piled on top of him. “-for tonight.” He finished with a laugh, and the maids settled down to cuddle with him as they held onto him tightly. Ren was actually tired, even though he had been tempted to stay back at the county to work all night and build up the defenses. Now he was glad that he didn't do that.
+
+Ren let sleep drag him down, and the maids soon followed him as they shared his comforting warmth.

@@ -1,0 +1,251 @@
+---
+id: b9ed9ea1-43e7-5df0-bdbb-b8b40a6cc573
+page-type-slug: story-chapter-royal-road
+title: "Chapter 348 - Shopping At The Capital"
+slug: 0341-chapter-348-shopping-at-the-capital
+partOf: mythrans-master-of-all-continued-completed
+position: 341
+ownLength: 3063
+unit: words
+publishedAt: 2017-08-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159061/chapter-348-shopping-at-the-capital"
+royalRoadId: "159061"
+---
+
+Ren asked Catalina to go to the blacksmith shop, and she laughed at him as she told him there was a whole district of blacksmith shops.
+
+“Take me to the best one.” Ren said. “Not the most expensive one, the best one.”
+
+“Is there a difference?”
+
+“Just imagine one is a purebred horse, the expensive one, but the other is just a nag but can run like the wind.” Ren said. “Which one is better?”
+
+Catalina opened her mouth to say the expensive one, then thought about it. “Well, damn.”
+
+Ren chuckled. “It's a conundrum, isn't it?”
+
+Catalina laughed and took him to the blacksmith district. Ren picked through the wares quickly and found the best one, and asked them for the parts and valves that he needed for the giant forge and smelter. He thought that they wouldn't have the large parts he needed, but they said they always try to have at least one set of parts for it. They were more than happy to sell them to him, so he bought what he needed from them and asked Catalina to take him to the lumber yard.
+
+They went a couple of districts over to the Timber District, and Ren saw all kinds of things. He found plans for all new sets of furniture, which he quickly modified for both comfort and aesthetics. He ordered 50,000 planks; 3,000 4x4 posts; 1,000 long floor joists; 2,000 support beams; and enough trim to cover all the joints and seams.
+
+They offered to have it delivered for free, and then Ren told them where it had to go. Their faces drained of color, because it would cost more to ship it all the way to Aurora than it did for the materials themselves. Ren let them stew on it for only a few seconds and let them off the hook.
+
+“I'm taking them with me.” Ren said, and laughed as the lumber yard workers sighed in relief. Ren took out a steel square and enchanted it with 50 runes of Holding, which gave it 250 slots. Since each slot could hold 20 items, that gave it a carrying capacity of 5,000 items. The workers had just stared at him while he shoved pieces of wood into small squares of metal. It only took 12 steel squares to carry everything, and Ren stored them when he was done.
+
+“Thanks a lot.” Ren said and shook the shocked workers hands, then left them with a pile of money and drove away quite a bit slower than when he had arrived. “Catalina? Can we stop at the stables?”
+
+“Once again...” Catalina started to say, and Ren laughed.
+
+“Just take me to horses, woman!” Ren said in mock anger and shook his fist at her, and she laughed. Catalina took Ren to the largest space for horses he had ever seen. It had it's own gate outside the city, with stables stacked side by side on the inside of the wall, and several square miles of pastures outside of it. She parked the carriage in the appropriate spot and climbed down to secure them to the posts.
+
+“Wow.” Ren said as he climbed out of the carriage. Horses of every size and color were scattered all over the place. Some ran free, some were tethered, and some were in pens. Teepo?
+
+“There's about 12,000 of them, Ren.”
+
+Twelve thousand! Ren thought, surprised. Holy crap!
+
+Teepo chittered in laughter.
+
+“It sure is something, isn't it?” Catalina said. “I love it here.”
+
+“This is where you went when you dropped us off at the castle.”
+
+“There's no better place to go to take care of horses.” Catalina said.
+
+“I think that would be true no matter where I go from now on.” Ren said, and she nodded. “Where's the manager's office?”
+
+“Over there.” Catalina said and pointed to a stable that looked just like all the others.
+
+“Railyse, I'll be right back.” Ren said.
+
+“I'll be here.” Railyse said and looked down at her ring. The dirt and dust floating through the air was a bit hard on her, so she activated the ring's enchantment and absorbed water just as fast as it could be produced. She sighed and sat back, and Ren smiled at her.
+
+“I won't be long.” Ren said and ran over to the stable and went inside. He knocked on the manager's door and a woman's voice told him to come in. He opened the door and looked at her. She had long black hair and wore the traditional rider's outfit. It looked well-worn and broken in, and he could tell it was used a lot more than it normally should have.
+
+She probably never takes it off until she needs to replace it. Ren thought and stepped inside. “Hi, I'm-”
+
+“I don't care.” The woman said and looked him over from head to toe. “They aren't for sale.”
+
+“But-”
+
+“I can see you're quite full of yourself, wearing such outrageous armor.” The woman said and crossed her arms. “I may be from the higher class, but I don't flaunt it like you do.”
+
+“I'm not-”
+
+“I won't sell horses to someone who only wants them because they're pretty.”
+
+Ren concentrated on his Command Aura. “Be quiet!”
+
+The woman snapped her mouth shut with a clack, and her eyes widened.
+
+“By the gods, I hate doing this.” Ren said. “Did you have to judge me by my appearance?” He asked her. “Did you have to jump to conclusions?”
+
+The woman stared at him as he ranted.
+
+“What the hell is wrong with wearing protective armor?” Ren asked. “Just because it's shiny doesn't mean I'm showing off!” He said. “Do you want me to show off?” He looked at her. “Answer me! Do you?”
+
+“Yes.” The woman said. “Prove to me that you aren't just pretty to look at.”
+
+“Come with me.” Ren said and he left the manager's office. She came out behind him and he walked over to the city gate. He looked around and saw someone on the top of the wall. “CLOSE THE GATE!”
+
+The soldier waved and disappeared, and then the city gate started to close.
+
+“What... what are you doing?” The woman asked.
+
+“Hey, what's going on?” Catalina asked and came over to them.
+
+“She thinks I'm just showing off and pretending.” Ren said. “She asked me to prove that I'm not.”
+
+“Maude! I told you what happened between us! Why are you doing this?”
+
+“That's why.” Maude said. “I want to see if he's a real man and deserved your attention.”
+
+“Oh, you're going to see all right.” Ren said as the 50 foot wide and 1 foot thick metal gate clanged shut and cut off the pastures from the stables. “Stand back.”
+
+Catalina and Maude stepped back out of the way.
+
+“Can you take feeling Fear?” Ren asked them, and they nodded. “You want to see what I can do?” He asked, took out a wand, and replaced it's charges with the Energize spell. “I'll show you what I can do!”
+
+Ren put the Energize wand into the Hand Of Glory around his neck and it gripped it tightly. He looked at the thick metal gate and imagined it was a big creature to fight. He concentrated on his Fear Aura and heard the two women gasp; then he connected his Screaming Terror ring and activated it to funnel it through his Aura. The two women stopped breathing, and he grinned. Lastly, he equipped his gauntlets and helm, then activated his Controlled Berserk Rage. He poured all of his anger and frustration into it, and charged at the metal gate.
+
+*
+
+“Great Vasalor!” Lylyth exclaimed and grabbed her heart. “What... what is he doing?”
+
+“Your Majesty? If I may?” The healer asked, and Lylyth nodded. She reached out and touched Lylyth's forehead and gasped as the boosted Screaming Terror of Ren's Aura slammed into her. She fell to her knees and it pulled her hand away from her Queen's forehead.
+
+“He... he's so angry!” The healer said. “There was two women nearby, and thousands of horses.”
+
+“Thousands?” Lylyth asked and stood up to her full height of just over 9 feet. “What's going on? Is it a full army battle?”
+
+“N-n-no, My Queen.” The healer said. “He's just... it's...” She shook her head. “I can't explain it properly.”
+
+Lylyth bent down and took the healer's hand and put it on her forehead. Ren's Aura slammed into her again; but, since she had already fallen to the floor, she could do nothing except endure it. Ren's Aura filled the throne room and touched the wall of spiders. They shivered for a few moments, then the wall broke apart and the spiders of all shapes and sizes skittered down to the floor and came over to their queen.
+
+Or so she thought.
+
+The closest, and largest spiders came close and reached out a single leg to touch the healer instead.
+
+“What... what's... going... on?” The healer managed to speak through the Screaming Terror she felt.
+
+“They say his power calls to them.” Lylyth said. The spiders had piled on top of one another, between each other's legs, and even upside down to reach out and touch the healer. It was quite a sight, and Lylyth didn't know what to think about it.
+
+*
+
+The metal gate never had a chance.
+
+Ren had been smart and used his Vision of Impurity to find the weak points in the metal, and smashed his gauntlet-covered fists into the spots. The metal groaned and cracked where he punched it, and it started to break apart. He didn't relent, however. As each piece fell when it broke off, he devoted time to each of them and smashed them as hard and as fast as he could.
+
+Ren was tempted to activate his party abilities, but he didn't want to worry Princess or his new friends in Clint's party, the Reckless Rough Riders. He relied on his own abilities and used Deep Impact to cause internal damage, his Unarmed Combat skill to fight without weapons, his mastered Shock Absorption ability, and mastered Serene State Of Mind.
+
+When there was only one piece of the metal gate left, a nearly 15 foot wide piece, he picked it up and walked over to the two women. They had stood there in terror the entire time he had pummelled the gate and watched him as he approached. They didn't try to run or scream, even though they thought he was going to squash them with it.
+
+Ren could see the reactions on their faces, and turned to the side a little, then used Iron Grip and crushed the end of it, then he folded it over, and crushed that, then folded it again. When he was done, it was barely 3 feet across, and he dropped the piece of metal gate at the women's feet.
+
+Stat Change!
+
+Deep Impact Level 1 (Intermediate 0%)
+
+Unarmed Combat Level 1 (Advanced 0%)
+
+Ren deactivated his Screaming Terror, stopped concentrating on his Fear Aura, stored his helm and gauntlets, and let his Controlled Berserk Rage lapse. He wavered only slightly, then used the Energize wand that the Hand of Glory held to refill his Stamina, which cancelled the effects of extreme exhaustion he was supposed to suffer.
+
+“Is that proof enough?” Ren asked Maude, but she didn't respond. He picked up the crushed piece of metal gate and threw it almost 150 feet to land by the pile of metal he'd left by the passage to outside. He took out 2 platinum coins and gave them to Maude.
+
+“Tell them to make another gate, and to do it right this time.” Ren said. “It was pathetically easy to destroy.”
+
+Maude didn't react at all as Ren took Catalina's hand and walked back to the carriage. He opened the door and put her inside, then untied the horses.
+
+“How many do you want?” Maude asked.
+
+“I want 60 horses for riding or pulling carts, with all accoutrements, and workers to tend them for at least a month. I also want at least one instructor to come to Walin County to teach horse-handling to those that want to learn.” Ren said. “I'm not sure how long that job will take, so tell whoever it is that it's a long term position if they want it.”
+
+“Walin County is quite far from here.” Maude said. “Give me a week, and I'll have what you want delivered.”
+
+“No arguing, or saying I want them for show?” Ren asked. “No inspection of the stables they're to stay in?”
+
+Maude shook her head.
+
+“Good.” Ren said, flicked the reins, and the horses pulled the carriage away from the Stable District and he drove it down the street to follow the path they had taken to get there. He was tempted to stop in the Library, assuming they had one, or even some of the shops; but, he didn't have a lot of time to spare if he wanted to get back to Aurora in time to have supper with his maids and to log out.
+
+Ren drove the team of horses out through the city gate they had come in, and when he tried to come to a stop, the guard at the gate waved him forward and told him to keep going. Ren tried not to frown at the guard as he drove past, but it was difficult.
+
+I could be smuggling anything, anything at all, and they didn't even check! Ren thought.
+
+“Pull over here.” Catalina said.
+
+Ren brought the team of horses and the carriage to a stop on the side of the road, out of the way of other traffic, and Catalina came out of the back and took over.
+
+“Are you okay to drive?” Ren asked her as he sat on the passenger side, and she nodded.
+
+“Yes, I've recovered enough from your... display.”
+
+“I'm glad.” Ren said. “I'm only half-way to Beginner Level 9 in Cart Driving.” He said. “There's no way I'd be able to handle a team of horses under a Haste spell.”
+
+“We would have crashed within a few seconds if you'd tried.” Catalina said. “You need to get that level up.”
+
+“I would have, but I've been busy.” Ren said and smiled at her.
+
+“If that's how you've been keeping busy...” Catalina said and laughed. Ren cast Haste on the horses and went into the back of the carriage with Railyse.
+
+“How are you?”
+
+“Much better now.” Railyse said. “I have a question, though.”
+
+“What is it?” Ren asked her.
+
+“What did that gate ever do to you?”
+
+Ren snorted a laugh. “It existed.” He said. “How could they trust the protection of a city that big, to a weak gate?” He shook his head. “All those huge thick walls would mean nothing if the gates won't hold the same force from coming through.”
+
+“Perhaps you should have stayed and showed them how to do it right.”
+
+Ren laughed. “I'd be working day and night to get the safety of that place up to a normal standard, let alone what it's supposed to have.”
+
+Railyse held an arm open for him, and he tucked himself under it and she hugged him close. “How you must suffer from seeing all of that.”
+
+“Oh, I am.” Ren said. “I couldn't believe that there's no enchantments on the castle windows.” He said. “I should not have been able to crawl up the wall and knock on them!”
+
+Railyse laughed, and Ren let the sound of rain soothe him.
+
+“I really like your laugh...” Ren let a stream of bubbles, gurgles and water sounds out when he called her by her real name.
+
+“And I like that you like it so much, my little piranha.” Railyse said. She hadn't actually called him a piranha, because she didn't say the words. It had been a stream of bubbles and gurgles, just like her name had been, and Ren's mind had filled in what she meant.
+
+Ren grinned at her description. “Can you imagine what they would have said if you'd called me that in the meeting room?”
+
+Railyse held a hand out and he took it. “They would have said it was accurate.”
+
+Ren laughed, and Railyse thought his laugh was quite soothing to her ears.
+
+“At least we delivered your mother's message.” Ren said. “Now we just have to wait and see if it takes effect.”
+
+“I still can't believe you convinced her to wait so long.” Railyse said.
+
+“Me, either.” Ren said. “500 years was a long time to plan for.”
+
+“Would you have really denied her the Wands of Water Walking?” Railyse asked.
+
+“If she didn't agree, yes.” Ren said, and touched the amulet that was nestled between Railyse's breasts. “She wore an Amulet of Truth just like this one, remember?”
+
+“I should give this back.” Railyse said and moved to do that.
+
+“No, you can keep it.” Ren said. “I know you aren't really going to need it, but until I can get Tee-one to remake it and I can double-infuse it with the Amulet of the Spider, you might as well wear it.”
+
+“All right.” Railyse said, and they settled in for the short time they had before Ren had to cast Haste on the horses again. “Ren.”
+
+“Yes?”
+
+“Thank you for helping me.”
+
+“You're welcome.” Ren said. “I'll always do anything I can to help a friend.”
+
+“I am so grateful for that, and for you.” Railyse said. “After all you've done for me and my people, you'll still help me travel across hundreds of miles of land, just to be my assistant.” She said and smiled at him. “You've been a wonderful blessing for me.”
+
+“Aw! You're gonna make me (gurgle)!” Ren said, and she laughed.
+
+“It's not possible for you to (gurgle)!” Railyse said. “You'd need a (bubble bubble) for that!”
+
+“Can you imagine a land dweller with a (bubble bubble)?” Ren said and snorted a laugh. “Don't we look funny enough already?”
+
+Railyse laughed and laughed, and hugged her dear friend close. He might have been a land dweller; but, she cared about him just as much as she would have if he were one of her own people... and according to her mother, there was no higher praise to give a land dweller than that.

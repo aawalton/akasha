@@ -1,0 +1,395 @@
+---
+id: 89b52851-822f-5462-b2dd-f440e448fa1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63 - Another Order?"
+slug: 0047-chapter-63-another-order
+partOf: mythrans-master-of-all-continued-completed
+position: 47
+ownLength: 4693
+unit: words
+publishedAt: 2016-10-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99757/chapter-63-another-order"
+royalRoadId: "99757"
+---
+
+Ren nuzzled Lucy's neck and made her giggle. Ren pushed Lucy's shoulder a little and Lucy rolled onto her back. Ren was up on an elbow and leaning over Lucy. Ren kissed her on the lips again and slowly reached for the edge of Lucy's loose fitting t-shirt. Lucy didn't protest and Ren slipped his hand under the edge of the t-shirt and pulled it gently up and over the mounds of Lucy's breasts. Ren stopped once he saw Lucy's bra.
+
+“It's blue.” Ren said in awe.
+
+Lucy blushed a deep red and nodded. “You... you said... it would bring out the color in my eyes more than red would.”
+
+Ren looked at Lucy in the eyes and nodded. Ren reached out and ran a hand down the side of Lucy's face and Lucy closed her eyes. Ren's hand traveled down Lucy's neck and over her shoulder. Ren let his fingers play along the shoulder strap and followed it to the main part of the bra. Ren traced the top edge of the bra with his fingertips, barely touching Lucy's skin along the way. Lucy arched her back and Ren heard her catch her breath as he inadvertently found the edge of the pink part of Lucy's breast that had peeked out from the bra. Ren leaned in and placed a gentle kiss right next to that spot and Lucy caught her breath again. Ren leaned away, smiled, and ran a finger down to the middle of Lucy's chest. Ren saw Lucy relax and kept going.
+
+Ren traced the slight grove there, down to her belly, and across her belly button. Lucy squirmed a little and Ren had to remember that Lucy was ticklish there. Ren ignored the spot for now and touched the skin at the top of her jeans. Lucy tensed up and Ren took his hand away and grabbed Lucy's knee. Lucy relaxed again and Ren admired how well Lucy's jeans fit her. They hugged every curve she had, including between her legs. Ren hadn't noticed it before; it must have happened when Lucy had pushed herself down the bed, so her head would be at the same height as his.
+
+Rather than just shoving his hand in like he wanted to, Ren slid his hand down from Lucy's knee, along the outside of Lucy's thigh, and Lucy lifted that knee slightly. Ren found the tiny cell phone in Lucy's back pocket and continued up to the top of the jeans. Ren pulled his hand around to the front and Lucy's breathing became ragged. Ren dragged his hand down the front of her leg and back to the knee. Once there, Ren moved his hand to the inside of Lucy's leg and slowly felt along the inseam of her jeans and approached the promised land.
+
+Only an inch away, Lucy took a deep breath but didn't try to stop Ren. Ren's heart beat faster and he reached for the spot...
+
+*BANG!*
+
+“Ow! What the... why is the door locked?”
+
+Ren snatched his hand away and Lucy rolled out of the bed and pulled down her top as she stood up. Lucy was slightly out of breath, just like Ren. Lucy grabbed the hairclip Ren had put on the bed between them, and fixed her hair up quicker than Ren could see. Lucy grabbed a handi-wipe and tossed it to Ren, who immediately understood and wiped off his lips and face. Lucy did the same to her lips, unlocked the door, and opened it to a disgruntled looking Bonnie.
+
+“I was supposed to check and see if Ren wanted anything to eat.” Bonnie said and rubbed her nose, then checked her arm.
+
+Giggling could be heard from the nurse's station and Lucy looked over to see several heads poking around the corner, the middle one was Stella. Lucy shook her head and turned around.
+
+“Ren, are you hungry?” Lucy asked.
+
+Ren had stayed on his side to hide what would be quite obvious if he was on his back. “After what I just had? I don't know if I could survive another taste.” Ren said and smiled.
+
+Bonnie shrugged. “I'll check again later, then.” Bonnie said and walked away without coming into the room and didn't see Lucy's face turned a bright red color.
+
+Lucy shut the door and just stood there. “Ren...”
+
+“Don't say it.” Ren said and sat up on the bed.
+
+“You don't know what I was going to-” Lucy started and Ren cut her off.
+
+“It'll be something along the lines of, 'we went too far' or 'we shouldn't do this here' or 'I can't believe we just did that'.” Ren said in a serious voice.
+
+“How...” Lucy said.
+
+“I had some of the same thoughts.” Ren said.
+
+“Then...”
+
+“No. I don't want to hear those words from you.”
+
+Lucy's eyes widened at Ren's commanding tone. Lucy hadn't heard Ren use that tone since that man had assaulted them at the mall.
+
+“I don't care what 'could' have happened. All that matters to me is what 'did' happen... and I will never regret being allowed to be near you like that.” Ren looked down at his hands and opened and closed them repeatedly. “That you'd let me touch you with these hands... and not cringe or flinch when I did...”
+
+“Ren...” Lucy spoke in a soft voice.
+
+“It was the best present I've ever gotten, Lucy.” Ren said then moved over to the side of the bed to sit on the edge, letting his legs hang down.
+
+Lucy walked over to the bed and glanced down at Ren's legs. Ren moved a knee to either side of Lucy's hips and Lucy stepped close enough to cuddle.
+
+“Does that mean you didn't like my other present?” Lucy asked.
+
+Ren smiled and glanced at the small box that was placed away from the others. Ren opened it again and took out the wristwatch inside and put it on. It had the game day hours marked on it as well as the regular time.
+
+“I'll treasure it always... just like I treasure you.” Ren said.
+
+Lucy snorted a laugh and shook her head. “That was pretty corny.”
+
+Ren cupped the side of Lucy's face with one hand and pulled Lucy closer with the other. “You bring out the best in me.” Ren said and grinned as Lucy had a good feel of just how much 'best' there was. Lucy blushed hard and then Ren kissed her.
+
+During another short make-out session, Ren had rubbed his hands slowly around the bottom edge of the back pockets on Lucy's jeans, lightly caressing her while they kissed. Lucy stopped the kiss and said that she had to go, and Ren nodded. Ren pulled his hands back to a more respectable position on Lucy's hips. Ren didn't try to repeat his earlier attempt to touch Lucy in the front, though. Lucy pulled away from Ren's hold and started to walk to the door. Ren caught Lucy's hand and pulled her back. Lucy gave an appropriate little yip when it happened and Ren kissed her again. Lucy was left a little breathless afterwards.
+
+“Making out with you was... well, it was amazing.” Ren smiled. “That last kiss was just in case I have to wait another month before I can kiss you again.” Ren said and let Lucy go.
+
+Lucy blinked a couple of times and then nodded. “I... um... I'll see you later, Ren.” Lucy said, then walked across the room and opened the door. Ren had watched her walk and smiled.
+
+Those jeans are definitely a perfect fit. Ren thought and waved to Lucy when she turned around to shut the door.
+
+Ren slid off the bed and went to the dresser and took out a set of pyjamas. Ren needed to use the bathroom and carried his pyjamas with him. Ren hung the pyjamas on the back of the door and used the bathroom. When he was done, Ren washed up and unbuttoned his shirt. Ren winced when the shirt slipped off his shoulder and he caught it before it fell to the floor. Ren turned around and saw his reflection in the mirror over the sink. Small light bruises peppered his back and arms where the nurses had hugged him a little too hard. Ren looked down at his chest and saw a nameplate shaped bruise starting to form. Ren poked it and sighed.
+
+It was still worth it to make everyone so happy. Ren thought and finished getting changed, leaving his outfit hanging on the back of the bathroom door. Ren went back into his room and climbed into bed. It had been a long day and Ren was exhausted all of a sudden. It was a good tired, where you knew you were going to feel better after a nice sleep. Ren smiled and drifted off into unconsciousness as he imagined Lucy had come back into the room and wanted to keep making out... and do a few other things.
+
+A short time later, Stella came into the room and saw that Ren was fast asleep. Stella had hoped that sending Bonnie in when she did that Bonnie would have caught Ren and Lucy doing something unprofessional, so Stella could tease Lucy relentlessly about it. Bonnie had said they both still had their clothes on, though. Stella sighed.
+
+Maybe next time. Stella thought and grinned as she tucked a blanket over Ren and turned off the lights. Barbara's shift starts soon. She's going to have an easy night, I think.
+
+Barbara came in half an hour later and sat down next to Ren's bed. Barbara smiled. Ren was so happy today! Barbara thought. I'm glad I could get all the girls in for the party.
+
+Ren woke up a few hours later and Barbara gave him a glass of water.
+
+“Are you hungry?” Barbara asked.
+
+Ren shook his head and passed back the empty glass. “I was more tired than I thought.” Ren said. “I don't think I even dreamed this time.”
+
+Barbara nodded because she remembered some of the dreams Ren had. Those were not good nights for either of them.
+
+“How are you feeling now?” Barbara asked.
+
+Ren took a deep breath and flexed his arms. “Actually, I feel pretty good.”
+
+Barbara smiled. “Are you up for watching a bit of tv?”
+
+“Sure. Is there anything good on?”
+
+“Is there ever anything good on?” Barbara said and laughed.
+
+“Good point.” Ren tucked his pillow behind him so he could sit up. “Let's browse and see what we can find.”
+
+They surfed the channels for a while and hit a funny clip show. They tried to keep their laughter under control because it was late at night, but some of the things they saw were just too funny to keep it to themselves. After that show, they watched a night-time talk show for a while and when it was over, Barbara turned the television off.
+
+“Thank you, Ren.” Barbara said.
+
+Ren widened his eyes. “What are you thanking me for?”
+
+“For letting us throw you a party.” Barbara said. “Most teenagers hate birthday parties, and yet every year you don't complain or get mad when we fuss over you like this.”
+
+“Barbara...” Ren said.
+
+“You haven't played your VR thing since early this morning.” Barbara said. “And I thought we'd have a hard time trying to drag you away from it long enough to feed you a piece of cake.” Barbara laughed. “You haven't looked for it all day. Not even after the party.”
+
+Ren's face flushed red a little when he remembered what he was actually doing after the party.
+
+“You didn't even have to 'stay here' after we surprised you.” Barbara said and put a hand on Ren's arm. “You could have escaped us by just playing your game. So... thank you.”
+
+“I have just as much fun spending time with you, as you do with me.” Ren said and smiled. “You'd call me an ass in front of everyone if I tried to play a game and ignored everyone that was here.” Ren laughed. “Now it's my turn to thank you.”
+
+“Why?” Barbara asked.
+
+Ren chuckled. “You think I don't know that it was you who set all this up?” Ren waved at the party decorations. It was Barbara's turn to widen her eyes.
+
+“You wouldn't let anyone else touch this room without your permission.”
+
+Barbara smiled and nodded.
+
+“So... thank you.” Ren said and held Barbara's hand for a moment before letting it go. “Since I can't leave the room in the middle of the night so you can gather everything up without me seeing it...” Ren said and grinned. “...pass me the VR headset and I can get out of your way.”
+
+Barbara laughed. “Okay, you caught me.” Barbara handed over the VR headset. Ren pushed his pillow flat again and put on the headset. “You'll only have one in-game day before you have to log back off for therapy, though.” Barbara said.
+
+Ren nodded. “If you're gone before I wake up...”
+
+“I'll see you tomorrow night.” Barbara said.
+
+“Flow Login Start.”
+
+********
+
+Ren entered the game sitting next to Lucy. Ren smiled at Lucy's still form and crossed his legs.
+
+Hey, Teepo!
+
+“Yes, Ren?”
+
+Where are you?
+
+“In Donan's back room. You should see some of the things he has in here.” Teepo said.
+
+Ren chuckled. That's okay, Teepo. If it's something Donan thinks I need to see, I'll get to see it eventually. Have you been enjoying yourself?
+
+“I sure have! There's so many nooks and crannies in here.” Teepo said, excidedly.
+
+I'm sorry I've been kinda stuck here the last 2 months.
+
+“That's okay. The life of an Adventurer takes turns that no one can expect. It's why I wanted to come along in the first place.” Teepo responded.
+
+Thanks, Teepo. You can get back to exploring.
+
+“Get back to it? I didn't stop.” Teepo said and chittered in laughter.
+
+Ren smailed and took out the Legendary Pickaxe. Ren was tempted to try it out. I shouldn't do anything like that in town... I might get banned. Ren thought. The pickaxe slipped a bit in his hand and Ren frowned. Oh, that just won't do. No, sir. Ren opened his inventory and looked for his bolt of spider silk cloth. Ren had used more than two thirds of it with the sets of clothes he'd made, then lining the inside of the leather armor, and the tent. The tent!
+
+Ren took out the remains of the tent and the portable tailor's kit. Ren cut up the tent into even strips 2 inches wide until he got to a wide section. Ren looked down at his money pouch and then at Lucy. Ren couldn't see it, but Lucy only had starting items anyways so Ren used the last of the tent to make another high quality money pouch. Ren still had lots of straps to cover the handle, so Ren took out the portable dying statio and dyed the strips of cloth an appropriate green color. Ren folded the strips of cloth in half lengthwise and sewed it together with the spider silk thread. When Ren was done, he had several really long 1 inch strips of double thick spider silk cloth.
+
+Ren wrapped it around the end of the pickaxe handle and tied it. Ren sewed it together to stop the knot from coming loose and slowly wrapped the strip of cloth around the handle at an angle, to overlap each wrap with a little cloth and kept the tension on it. Ren went almost all the way up the handle and stopped. Ren tied it, cut off the excess, and sewed it just like the other end. Ren picked the pickaxe up and felt how the handle sat in his hand, and shook his head. Ren took another long strip and tied it at the top end of the other wrap, sewed it and did counter wraps back down the handle until he got to the bottom and tied it off. A bit of sewing later, and Ren was done. Ren lifted the pickaxe again and it felt perfect.
+
+Notice!
+
+You have used your sewing knowledge to enhance the effectiveness of a superior tool.
+
+Intelligence +1
+
+Ren examined the pickaxe to see how it changed.
+
+Legendary Pickaxe Of Unearthing (Unique)
+
+An ore not of this world has been forged into a digging tool that can cut through the earth like a hot knife through butter. A highly durable cloth has been wrapped around the handle to provide a suitable grip.
+
+Innate Ability: Mana Absorption - will automatically absorb mana from any source to repair itself.
+
+Strong Grip: 50% Bonus to hold on if handle starts to slip.
+
+Durability: N/A
+
+Ren smiled and put the pickaxe away. Ren took out his hammerpick and did the same process again. Ren didn't get another popup, though. I guess doing it twice doesn't deserve another Intelligence point. Ren put away the hammerpick, the tailor's kit, and the strips of cloth that were left. Ren sat there for a moment and looked through his inventory.
+
+INVENTORY
+
+Money
+
+Superb Spider Silk Coin Vault
+
+Copper: 25Silver: 20Gold: 40Platinum: 12
+
+Items
+
+Water SkinCrude Iron DaggerTravelling Clothes (HQ)High Elven Uniform (E)
+
+Tailor KitAlchemy KitDye StationCraft Station
+
+Blacksmith BeltLibrary CardBedrollLantern
+
+Rations: 5 DaysLongsword (2)Short Sword (2)Medium Shields (2)
+
+Battle Axe (2)Gauntlets (4)Rings (9)Rings-Modified (3)
+
+Book of RunesSunflowers (20)PickaxeShield (M-Gold)
+
+Spider Fang: 78Spider Silk: 22Poison Gland: 48Rat Claws: 95
+
+Rat Teeth: 120Rat Tails: 150Wooden Shields: 19Iron Daggers: 28
+
+Pet RockBat Wing (I): 100Bat Leather: 70
+
+Supurb Spider Silk Cloth (1 Bolt)Spider Silk Thread: 1/3 Spool
+
+Spider Silk String: 1 SpoolSpider Silk Cloth (sewn strips):3
+
+Spider Silk Cloth (scraps)Cloth (scraps)
+
+Specialty Items
+
+Dire Wolf Hooded Cloak (equipped)Crown of the Beetle King (equipped)
+
+Legendary Pickaxe of UnearthingGreat Earthshaking Hammerpick of Reaping
+
+Leather Armor (equipped)
+
+Potions:
+
+Health: 10Mana: 3Poison (weak): 1Paralysis: 2
+
+Health (weak): 0Mana (weak): 0Fake Poison: 1Antidote (weak): 0
+
+Health Herbs: 120Mana Herbs: 150Poison Herbs: 50Antidote Herbs: 50
+
+Potency Berry: 300
+
+Vials
+
+Poison: 1EX Pain: 1Antidote: 2Moth Dust: 3
+
+Ren chuckled at everything that he had. And this is after giving back all those tools I was holding for Aimus. Ren saw the gold rings and took one out, along with the Book of Runes. Ren flipped through the pages to the Dark rune. After everything Ren had done in the last few game months, he hadn't gotten one bit stronger. It was time to change that. Ren enchanted the 4 rune glyph on the ring and saw it etch itself into the surface of the ring. It immediately felt heavy in Ren's hand and Ren smiled when he examined it.
+
+Golden Ring of Encumberance (Uncommon)
+
+This ring will increase the pull of gravity on you by 16%
+
+Ren put it on and took out 5 more rings. Ren enchanted each with the same glyph and put them on after using Identify on them. They were all 'uncommon' and had similar names; Difficulty, Weight, Unmoving, Resistance, and Hinderance... and gave the same 'bonus'. In total, 'Gravity' now pulled Ren down at 96%... making him almost twice his normal weight. Ren tried to stand and fell back against the wall. A loud crack came from the wall, but Ren regained his balance before anything else happened. Ren closed his fists and stood up straight. Ren didn't dare try to take a step. It was taking all he had trying not to collapse to the ground.
+
+A little too much to start, I think. Ren thought and absorbed two of the enchantments. Ren felt the pull lessen enough and took a deep breath. That's better. 4 rings at 16% is... 64%. Ren took a step and his body remembered it clearly. No way! Ren thought. It feels like my real body!
+
+Ren took another step, and then another. Ren eventually walked all the way down the street to the closest east gate and came back to the spot beside Lucy. Ren was tired just from that small amount, but he wasn't giving up.
+
+Notice!
+
+Your hard work has allowed you to overcome a small amount of your burden.
+
+Strength +1
+
+Ren grinned. It's working! For the next hour, Ren walked up and down the street. Once the hour had passed, Ren could walk the whole way to the gate and back at an almost normal pace. Ren also added a point to Endurance and another to Strength. This... is going to take a while. Ren thought. Ren walked past Donan's door again and Donan hollered.
+
+“Ren! Get in here!”
+
+Ren went inside and Donan stared at him. “Is everything alright? You look like you're having trouble standing up.”
+
+Ren smiled. “Everything's fine. I just enchanted a couple of rings and was testing them out.” Ren said and held up his hands to show off the rings.
+
+Donan shook his head. “You can play on your own time. I just got another big order.”
+
+Ren's eyes widened. “What is it? Longswords? Pikes?” Ren said, excited.
+
+“Shields.” Donan said. “500 by the end of the week.”
+
+“Are we casting or forging?” Ren asked.
+
+“They want forged.” Donan said and sighed. “They said the casts were too brittle and didn't last long, even with repairing.”
+
+“Is it your brother's order?”
+
+“No... so I can at least charge full price.” Donan said.
+
+Ren thought it out. “If you charge the full 10 gold per shield, half of the cost is for materials and delivery, with 1% for your mentor leaves 1,500. 25% for me... you're only getting 1,125 gold to keep.” Ren said. “If we're forging, that's going to be at least triple the time for folding and hammering.” Ren sighed. “Donan, you're almost losing money that way.”
+
+Donan nodded.
+
+“Well, the job's not going to do itself while we just stand here.” Ren said and smiled.
+
+Donan slapped Ren on the shoulder and Ren went down onto one knee. “Ren!”
+
+“It's okay, Donan.” Ren said and stood up. “I just wasn't ready for that.”
+
+Donan squinted his eyes at Ren and Ren nodded.
+
+“I've already sent an order to the mine. They said that it'll take 2 days to get the ore here.”
+
+“2 days?” Ren stared at Donan. “That's no good. We won't have enough time left to smelt the ore and forge the shields... not even if we just cast them!”
+
+Donan nodded. Ren stared at his hands and saw the 6 rings he still wore, 4 of which still had Dark enchantments... and a wickedly neat idea formed in his head.
+
+“Donan I need a piece of parchment, preferably a thin one.” Ren said.
+
+Donan went and got a small piece and handed it to Ren. Ren took it to the bench by the wall and brought out his Book of Runes. Ren flipped to the Dark rune and very carefully drew it on the paper. After several comparisons and slight corrections, Ren had accurately drawn it. Ren put the book away and flipped the parchment over. Unfortunately, the rune couldn't be seen.
+
+“Damn... the paper is too thick.” Ren held it up and could slightly see through it but that wasn't good enough. Ren looked around the shop and thought. A grin spread across Ren's face as his gaze found the oil quenching barrels. Ren went to the barrel and dipped the tips of his fingers in it. Ren went back to the bench and put the parchment face down and starting from the center, gently rubbed a small amount of oil on the paper with his index finger. The oil soaked in and a few seconds later, Ren could see the middle of the rune. Ren kept gently rubbing outwards from the spot, careful not to tear the paper. Ren had to go back and get a little more oil, but eventually the rune could clearly be seen.
+
+Notice!
+
+You have found an ingenious way of seeing through thick parchment.
+
+Intelligence +1
+
+Wisdom +1
+
+Ren dried his hands on a cloth and then imprinted the rune into his mind. Ren took out his Book of Runes and flipped to the page for the Dark rune. Ren took a breath, flipped the next page... and there it was.
+
+Notice!
+
+You have discovered a new rune!
+
+Ren read what it was.
+
+Rune of Antidark
+
+This rune will help lift things out of the Dark.
+
+Gravity: -4%
+
+Ren concentrated on the page and made a double, triple, and quadruple glyph appear. Ren turned to Donan and grinned.
+
+“I'll have that ore here as fast as I can.” Ren said and put the Book of Runes away.
+
+Donan shook his head. “I don't know what you did there... but you can't possibly get to the mines and back here with enough ore to make any difference.”
+
+Ren crumpled the parchment up and tossed it into the trash. “Donan, if I can't deliver all the ore by tomorrow, it won't matter if I make it back in time or not.”
+
+Donan sighed. “Ren, it's a 2 hour cart ride... and that's if it's empty.”
+
+Ren reached up and put a hand on Donan's shoulder. “I won't let you down.”
+
+“Alright, then. Go.” Donan said. “I'll start working with the blanks I have left.”
+
+Ren turned to leave and looked back at Donan. “About that. I had an idea.”
+
+“Another one?” Donan chuckled. “Let's hear it.”
+
+“Use the big forge and smelt as many blanks as you can fit in the thing. Let it simmer for a while... maybe 4 hours or so... but only skim off some of the impurities, not all of them. Stir it up a lot, too. Once that's done, pour some into the shield mold.” Ren said quickly.
+
+“But Ren-” Donan's eyes widened as Ren cut him off.
+
+“Let it sit for 10 to 15 seconds to only get hard enough to pick up, grab it with tongs and fold it in half, then half again. You'll have a wedge shape that will be easy to stick into the forge to heat up and then you can hammer it into a shield shape. If you heat that shield up and fold it again, it should be really strong and durable.” Ren said.
+
+“What made you...” Donan tried to say.
+
+“It doesn't matter how I came up with it. It should cut the forging time in half if we cheat and partially cast them first. Just try it once and see how it comes out. If it doesn't work, you can always do it the old way.” Ren said. “I gotta go. See you tomorrow.” Ren walked over to the door. “Oh, just in case Lucy comes in, tell her I'll be right back.”
+
+“Lucy?” Donan said. “You mean that girl you had in here before.”
+
+Ren nodded.
+
+Donan waved and Ren left the shop. Ren equipped his leather armor and Dire Wolf Hooded Cloak. Ren walked faster and pushed himself harder to get to the North Gate. Once Ren reached the gate, he was exhausted. Ren stopped to rest and then remembered something.
+
+Teepo... I'm heading out of the city and to the mines to get some ore. Want to come along?
+
+“Of course I do!” Teepo said excitedly.
+
+“Summon Teepo!” Ren said and tapped the ring. Teepo appeared at Ren's feet and Ren picked him up. Teepo hopped out of Ren's hand and into the hood of his cloak. Ren felt a little better, but figured that the extra weight from the ring enchantments would slow him down too much. Ren sighed and enchanted the 2 blank rings still on his fingers with the new quadruple antidark glyphs.
+
+Golden Ring of Assistance (Uncommon)
+
+This ring will assist you in your travels and reduce the pull of gravity by 16%
+
+Golden Ring of Unburden (Uncommon)
+
+This ring will assist you in your travels and reduce the pull of gravity by 16%
+
+Ren's encumberance dropped down to only 32% and Ren started to run. The heavy training would have to wait. Teepo chittered in delight because it was always fun when Ren ran.

@@ -1,0 +1,261 @@
+---
+id: 19230a74-717d-58cf-b586-8387be8f9c3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 308 - The Ship: Part Two"
+slug: 0299-chapter-308-the-ship-part-two
+partOf: mythrans-master-of-all-continued-completed
+position: 299
+ownLength: 3278
+unit: words
+publishedAt: 2017-07-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148828/chapter-308-the-ship-part-two"
+royalRoadId: "148828"
+---
+
+“Are you going to tell the captain about the stowaway?” Tee-one asked as Ren detached everything from the floor and stored it.
+
+“Yeah.” Ren said. “There's no rush.” He said and picked the best spot to set up the large Jacuzzi. “It's not like the stowaway is going to go anywhere.”
+
+“They could go overboard.” Tee-one suggested as they reinforced the floor and built braces to set the Jacuzzi in, so it wouldn't slide around when the ship rocked. Ren took it out of inventory and put it in place, then he and Tee-one secured it. Once that was done, Ren made several Antiwater enchanted steel squares and attached them to the floor in good spots to catch any water if and when it spilled, then activated the Water, Wind and Fire enchantments in the Jacuzzi.
+
+Ren took out the 6 lounge chairs he'd made and set them up in a kind of semi-circle on one side of the room, and then put the large table on the other side of the room and surrounded it with the chairs he'd made to complete their dining area. He made a nice tablecloth and dyed it red, then made covers for the chairs and lounge chairs in the same color.
+
+Tee-one helped Ren make large flowing white curtains to drape around the room, to hide that it was on a ship; then Ren enchanted several steel squares with glyphs of Illumination and put them on the walls to light up the place and deactivated the Jacuzzi enchantments because it was nearly full.
+
+“Tee-one?” Ren turned to his friend. “What do you think about...”
+
+“It's a great idea.” Tee-one said. “The personal maids won't have to go out into the hallway if you make connecting doors.”
+
+“Where do you think is the best spot?” Ren asked, and Tee-one pointed.
+
+“Right there.” Tee-one said and pointed. “The layout's match perfectly, and then we can do the same thing between that cabin and the main one.”
+
+“I'm tempted to remove the walls completely to make it all one big suite; but, I'm pretty sure we'd all rather have separate spaces to sleep in.”
+
+“I agree.” Tee-one said. “Princess wouldn't like sharing with dwarf women.”
+
+“Why do you say that?” Ren asked, puzzled.
+
+“Right now she's sharing with Zetaya, Riley, and Stacy.” Tee-one said. “They would all probably have to act differently with women around all the time.”
+
+Ren nodded slightly. “I was thinking something similar.” He said and smiled. “The women would have to act differently around the others.”
+
+Tee-one nodded slightly back and Ren cut a small hole out of the wall and into the next cabin.
+
+“Hi, everyone.” Ren said. “It's going to be noisy for a little while.”
+
+Princess huffed, and the dogs barked; then Ren glanced into Zetaya's pen. The Spider Silk Cloth cape had about a quarter of it missing, and the fire elemental was sprawled out in the flames and looked like it was asleep. Ren finished cutting out a doorway in the wall and stepped through it with Tee-one. While Tee-one made a frame to mount a door in the hole, Ren went to the other side of the room and cut another small hole to talk through.
+
+“Hi, everyone.” Ren repeated for the personal maids. “It's not going to be noisy for much longer.”
+
+“That's good.” Frikara said and smiled. “Lusinia hasn't gotten all of her beauty sleep yet.”
+
+“I'm going to kill you!” Lusinia said, but Ren felt her amusement in the shared Aura.
+
+“I don't think she needs any more sleep for that.” Ren said as he started to cut the hole for the doorway. “In fact, I don't think any of you do.”
+
+“Wh-what?” Frikara said, surprised. She didn't even get a hint of exaggeration from Ren; but, he felt her surprise and it matched how the others felt. “How can you say that? You completely ignored that we were topless this morning.”
+
+Ren chuckled. “When it's not sprung on me as a surprise...” He smiled. “...I can pretty much ignore a naked woman.”
+
+“You... you mean... you haven't even looked?” Andrela asked, and Ren felt her sadness.
+
+“Oh, I looked.” Ren said, and he let his appreciation flow out to them. “I'm not going to stare at them, though.” He chuckled. “I had enough of that with Ereka.” He shook his head. “She used them to distract me a few times.”
+
+“We're sorry.” Verwynn said and sadness filled the Aura. “If we'd known, we... we wouldn't have...”
+
+“No no no.” Ren shook his head. “You misunderstand. She gained an ability to cause Distraction on me when she showed me her chest, and all I could really do was stare at them.”
+
+The personal maids stared at him with their mouths slightly open.
+
+“Yes! Just like that!” Ren said and pointed at Frikara. “That was all I could do.”
+
+“You're kidding.” Frikara said.
+
+“I'm not.” Ren smiled. “My mind went nearly completely blank and I couldn't think.”
+
+“What did you do?” Andrela asked.
+
+“I couldn't really do anything until she covered them.” Ren said. “Compared to her and the power she had over me, seeing you... all 5 of you... walking around and showing me your breasts was... well...”
+
+“Go ahead and say it.” Frikara said and smiled.
+
+“It was relaxing.” Ren said and smiled. “I... ah...” His face flushed a little red. “...I liked that you were comfortable enough to act normal around me, even without your clothes on.”
+
+They could feel how he felt, and knew Ren was being completely honest with them.
+
+“Oh, Ren.” One of them said, but he couldn't tell who it was, and with the way they were all sharing their feelings, it really didn't matter.
+
+“The door's done.” Tee-one said.
+
+“Thanks, Tee-one.” Ren said, looked at the maids, then motioned to the new doorway. “Please accompany me to the bath.”
+
+“WHAT?!?” Frikara exclaimed.
+
+Ren felt shock and surprise fill the shared Aura. “With Tee-one's help, I finished early.”
+
+“He's really not kidding.” Lusinia said. “He made us a bathtub.”
+
+“This I have to see.” Navruth said and walked through the doorway. The other 4 maids followed her and they went through the cabin Princess was in, nodded or waved to her, and entered the next cabin.
+
+“By the gods.” Navruth said softly as she beheld the splendor Ren and Tee-one had made, and the other maids followed her into the room. Ren felt the maid's wonder and surprise at the transformation of a room into a personal bath.
+
+“How in the world did you do this so quickly?” Frikara asked.
+
+“I used a shortcut to make the mold for the tub.” Ren said. “You don't really need to know the details; only that it was fast and was a heck of a lot easier.”
+
+“I've never seen a tub like this before.” Verwynn said as she touched the Jacuzzi.
+
+“No one here has.” Ren said. “I was going to make a normal bathtub; but then, you'd have to take turns and that would use up a lot of time unnecessarily.”
+
+“You mean we can all take a bath together?” Frikara asked, amazed.
+
+“If you want to.” Ren said.
+
+“We do!” Frikara said and started to strip. “Hurry! Before he changes his mind!”
+
+The other personal maids started to take their clothes off and Ren felt their anticipation flood the shared Aura. Each maid laid her clothing on one of the lounge chairs, then slipped off their underwear to add it to the piles. Now that Ren could literally see all of them, he had to compare them. They were all about the same height, around 4 foot 5 inches; only a couple of inches shorter than Ren. That's where the similarities ended, however.
+
+Frikara, the outspoken one, had dark black hair that would have been long, had it not been constantly done up in a tight hairdo. It kind of looped in on itself and looked quite stylish. Her light skin was as appealing as her chest; which was a good size. They only sagged a little, and had dark tips. Her womanhood was obscured by hair as thick and dark as the hair on her head, and he felt that it suited her quite well. She was statuesque and a little thin, but it suited her body type.
+
+Lusinia had a mix of long, dark blonde and brown hair, dark eyebrows, and light skin. Her chest was nearly double the size of Frikara's and the tips were just as dark. Ren wasn't sure how she had hidden her chest so well under her clothing; but, he didn't think about that too much. Her womanhood wasn't quite as covered in hair as Frikara's was; so it gave you a glimpse of it's shape as it peeked out. If you looked hard enough. She was a little on the heavy side for her height; but because her chest was so large, she needed the extra bit of thickness to offset it.
+
+Navruth had short dark brown hair, a darker almost tanned skin, and her chest was in between Frikara's and Lusinia's in size. They had bright pink tips that seemed too small for the size of the breasts they were on. It actually made her chest seem much larger by comparison, until you had other breasts to compare it to. She barely had any hair at all near her womanhood, and Ren didn't have to stare to see a whole lot of her. She had an athletic body, almost to the point of being muscular.
+
+Verwynn had very light blonde hair down to her shoulders, normal skin, and average-sized breasts. The tips were almost pointed out to the sides, and were a healthy dark pink in color. She had a small tuft of hair above her not-so-secret place, and Ren had to avert his eyes so he wouldn't see more than what a man who was sleeping with her would see. She was also the perfect weight for her height.
+
+Last, but not least, was Andrela. Her bright red hair was halfway down her back, and was as straight as a ruler. There were no curls, waves, or anything at all in it. Ren thought it was a little odd at first; but then it flowed with her as she moved because when she turned her head, it cascaded like a curtain being drawn.
+
+Andrela's skin was as white as it could possibly be, nearly transparent; but surprisingly, she didn't have a single freckle anywhere. Her breasts were only a little bit more than a handful, and Ren had to concentrate to make out the tips. They were so light that it was hard to distinguish where the edges were. The most surprising thing Ren noticed was that there wasn't a trace of hair anywhere on her, except for her head and eyebrows. Just like him.
+
+The 5 maids walked over to the Jacuzzi, and looked inside.
+
+“You first.” Frikara said.
+
+“What?” Ren asked.
+
+“Did you try it yet?” Lusinia asked. “How do we know it's safe?”
+
+“I...” Ren looked at them. “No, I haven't.”
+
+“Then hurry up and get undressed.” Frikara said. “You did offer to come with us to the bath.”
+
+“No, I-” Ren tried to say, and Tee-one put a hand on his shoulder.
+
+“You did.” Tee-one said. “You asked them to accompany you to the bath, and she asked if you can all take a bath together. You told her if she wanted to.”
+
+“I... well, dammit.” Ren said and looked at the floor. “Can I at least...”
+
+“Only if you want to break your word.” Lusinia said. “We can feel you're reluctant, now that you realize what you agreed to.” She said and smiled, then put a hand on his hand. “We give our word that all we'll do is take a bath together.” She looked at the other women. “Agreed?”
+
+“Agreed.” They all said together, and Tee-one left the room as Teepo flew up to land on the ceiling.
+
+Ren felt the maids determination to only take a bath and nothing else, and he nodded slightly because it matched his own determination for nothing to happen. He took off the Dire Wolf Hooded Cloak and folded it up on the last lounge chair, and made sure the spider was safely tucked inside. He walked back over to the Jacuzzi and stood beside the 5 personal maids, and stored his clothing.
+
+It was the first time they had seen him completely nude, and there was an immediate spike in desire in the shared Aura. Ren stopped concentrating on the Contact Aura as he turned around and faced away from them so they wouldn't see his reaction.
+
+“I'm sorry, Ren.” Andrela said, and everyone looked at her. “It was too much of a pleasant surprise for me to ignore.”
+
+“You all get mad at me when I feel things like that.” Frikara said, and chuckled. “When she does it, you think it's cute.”
+
+Ren looked over his shoulder at them. “I'll get in first.” He put a hand into the water and he could feel how hot it was. “This might be too hot.”
+
+Frikara leaned forward and tried to put her finger into the water and couldn't do it. “Yes, it's definitely too hot.”
+
+Ren used his Absorb Fire ability to reduce the heat. Since Fire was used to heat the water, Ren assumed he could absorb the heat.
+
+“Try it now.” Ren said.
+
+“But you didn't do anything.” Frikara said and put her hand into it. “Hey! It's nice now!”
+
+Ren smiled, climbed in, and sat down.
+
+“A hand, please.” Frikara said.
+
+Ren stood up immediately and sloshed the water around, then bowed to her. Frikara stopped breathing and the Aura the maids shared was flooded with both shock and surprise.
+
+“Please forgive me.” Ren said and held a hand out to her. “I forgot my manners.”
+
+“Y-y-you're f-f-forgiven.” Frikara stuttered and took his hand. She climbed into the Jacuzzi with Ren's assistance, and then Ren helped each one climb in and sit down. The water covered the women almost up to their necks.
+
+“This is a little deep.” Andrela said. “We can't wash like this.”
+
+“I wasn't sure how far up to fill it.” Ren said and activated the Antiwater enchantments on the bottom of the Jacuzzi. The water level started to drop and when it got to just above the middle of their breasts, he deactivated the enchantment. “How's that?”
+
+“Discreet.” Frikara said and smiled. “Verwynn, soap me.”
+
+Verwynn chuckled. “One lathering, coming up.”
+
+“This might take a while.” Navruth said. “Verwynn gives massages, too.”
+
+“Here, Ren.” Tee-one said and handed Ren several bars of soap.
+
+“Thanks, Tee-one!” Ren said, concentrated on the Contact Aura and his Aura merged into the shared Aura. “Make a chain!” He said and handed a bar of soap to each maid that didn't have one. “Andrela, I'll wash your back and you can wash Lusinia, she can wash Navruth, and she can wash Verwynn as she washes Frikara.”
+
+“Then I'll do yours.” Frikara said to Ren, and he nodded slightly. They all stood up and started washing their backs. It only lasted for a couple of minutes, then Frikara smiled. “Backs are done. Switch to fronts.”
+
+Frikara's hope that she would catch Ren and get to wash his chest was dashed as Andrela turned quickly and started to rub the bar of soap over Ren's chest.
+
+“You're stuck with me.” Verwynn said and Frikara chuckled.
+
+“That's fine.” Frikara said. “We all agreed she got to be first.”
+
+“It's just a bath.” Ren said.
+
+“It is.” Lusinia said as she and Navruth washed each other's chest and arms. “Do you feel any spikes of desire?”
+
+“Yes.” Ren said, and smiled at Andrela as she scrubbed his chest very thoroughly. Her face flushed red, because she was touching Ren and he was picking up nearly everything she was feeling. She stopped scrubbing and lifted her arms so he could wash her. Ren felt a wash of emotions as he lathered up his hands, then moved them towards Andrela's white skin. His hands touched her shoulders, and he felt fear, excitement, worry, joy, sadness, and several other emotions that he couldn't quite sort out from her.
+
+Ren leaned close and smiled. “Can you turn around?”
+
+Andrela nodded slightly, and turned around. He felt her disappointment, and then her shock when he stepped close to her and pressed his chest against her back. Her body stiffened for a brief moment, and she was sure he would apologize and back away; and she gasped when Ren reached around her and put his hands on her breasts and scrubbed them.
+
+“By the gods.” Someone whispered as Ren gave Andrela a thorough massage and scrubbing. He could feel the feelings going through the shared Aura, about how much they were all enjoying Andrela's reactions; and then he asked Andrela to sit down. She did so without question; so, Ren lifted her legs and scrubbed them for her, and ended at her feet. When he was done, Andrela was more relaxed than he'd ever seen her, and her presence in the Aura had a calming effect.
+
+“Me... me next.” Frikara said. “Please.”
+
+Ren turned to look at her, and saw that none of them has finished washing each other. “You're right, Navruth.” He said and lathered his hands up to deal with the next customer. “This is going to take a while.”
+
+“By the gods, I hope so.” Frikara said, then gasped when Ren's soap-covered hands caressed her breasts from behind, and she moaned in pleasure despite her serious attempt not to.
+
+*
+
+“What is he doing?” Lylyth the Queen of the Dark Elves asked.
+
+“If I may?” The healer asked, and Lylyth nodded to her. The healer placed a hand on the side of Lylyth's head and closed her own eyes. “I'm only getting a trace of it.” She said. “He's giving pleasure to... one, two, three, four...” She smiled. “...five women at once.”
+
+“He's WHAT?!?” Lylyth exclaimed. That little man? “Five women? Really?”
+
+The healer nodded. “I'm surprised you can't feel them yourself.”
+
+“So am I.” Lylyth said. “That's why I called you. Ever since my old abilities started to resurface, it's been getting harder and harder to read what's around him through the Mark.”
+
+“What about him?” The healer asked. “Can you still feel his emotions?”
+
+Lylyth nodded. “He has been coming through clearer the last few days.” She said. “What's wrong with me?”
+
+The healer looked worried for a moment, then sighed. “Please don't kill me.”
+
+“What do you mean?” Lylyth asked surprised.
+
+“If I tell you this, I must beg for mercy.”
+
+“Just tell me!” Lylyth said, angrily.
+
+“You are...” The healer leaned forward slightly to whisper. “...becoming infatuated with him.”
+
+“I am NOT!” Lylyth said loudly. “He is just another Marked Minion!”
+
+“As you say, Your Highness.” The healer said and bowed deeply to her. “May I leave?”
+
+“No!” Lylyth said. “Tell me why you think this!”
+
+The healer swallowed loudly and her fear filled the room. “There comes a time in every elf's life when-”
+
+“I AM NOT A CHILD!” Lylyth yelled, then concentrated on the healer's fear. She followed that emotion inside and ensnared her. “No stories. Tell me.”
+
+“You are hunting.” The healer said, completely entranced and captured by her fear. “You will continue to hunt until you find what you are looking for.”
+
+“What am I looking for?” Lylyth whispered, but she had finally guessed what the healer was going to say.
+
+“Another chance.” The healer said, and passed out.

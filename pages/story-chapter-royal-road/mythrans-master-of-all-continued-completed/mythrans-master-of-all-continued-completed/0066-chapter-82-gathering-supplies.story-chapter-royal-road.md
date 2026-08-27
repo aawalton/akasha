@@ -1,0 +1,239 @@
+---
+id: 458922e4-103d-5739-b91b-361b8ab2588e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82 - Gathering Supplies"
+slug: 0066-chapter-82-gathering-supplies
+partOf: mythrans-master-of-all-continued-completed
+position: 66
+ownLength: 3808
+unit: words
+publishedAt: 2016-11-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102774/chapter-82-gathering-supplies"
+royalRoadId: "102774"
+---
+
+Ren ended his run back at his building and went inside. “I actually don't remember the last time I just went out for a run.”
+
+Ruck let go of Ren and climbed down to the floor.
+
+“I'm just going to make the sinks, then maybe a stove.” Ren smiled. “I say stove, but it's just a metal box that you can cook things on.” He said. “I don't like the idea of burning wood like they do in the mansion's kitchen, though. I'll try and do something like the forge, but without the wind. I only need enough heat to cook, not to melt metal.”
+
+Ren walked over to the smelter and saw that it was ready. “After I put these down to set, I'm heading out to the sunflower field to gather more ingredients. I'm almost out of both flowers and Balefire Moth dust.” Ren poured the molten metal into the 4 foot by 3 foot area he'd marked off with stone bricks until it was almost an inch thick. He waited for a minute and then used his tongs to pick it up and put it on the smallest mound, to make a small sink for the bathroom. The ends were pushed down with the skimming tool and tongs, and Ren pulled out a wind stone to help it set. Once it cooled off a little, Ren moved the stone bricks to make it a 4x6 area, and repeated the same process to cover the kitchen sink mold.
+
+Right now, they're just window dressing and not actually functional. Ren thought. I'll have to figure out what to do to change that... or find someone else who knows how to set them up. He went to the steel tub and kicked it lightly. It made a nice dull thud and Ren smiled as he picked it up and it slid off the dirt mound. When it was flipped over, there was still dirt residue in it and he brought the tub out behind the building. Ren took out one of the Ice enchanted stone bricks he had in inventory and absorbed the enchantment, then put a Water Spray glyph of 2 Water runes and 2 Wind runes on it. Ren washed out the tub and dried it with some cloth scraps, and put the deactivated Water Spray stone brink into inventory. It would be needed again soon.
+
+Ren went back inside and saw the sinks still needed time to cool off. He was tempted to soak them anyways, but didn't want to take the chance that they would crack from rapid cooling. Ren poured the last of the metal into the big blank mold he had, and turned off the forge.
+
+“I'm heading out to the field now. Are you coming, Ruck? You've only got a dozen sunflowers stored. I want to top that inventory slot off if I can, and maybe fill another.”
+
+Ruck gave a 'thumbs up' gesture and Ren turned around for him to climb up again. Ready for another run, Teepo?
+
+“Always!” Teepo said, excitedly.
+
+Ren left the building and locked the door. He walked around to the old man Apothocary's shop and bought 2 dozen glass bottles. They were 5 copper each, so Ren paid him 120 copper for the bottles and tipped 6 copper. The old man laughed at Ren. “Store owners aren't supposed to take tips.” He slid the extra copper back across the counter.
+
+“Oh, sorry. I didn't know.” Ren said and accepted the coins back.
+
+“That's quite alright.” The old man said. “I just hope you haven't lost too much money from that mistake.”
+
+Ren smiled. “How much is too much?”
+
+The old man laughed and then Ren left the shop.
+
+“Here we go!” He took off running down the street until he hit the North Gate / South Gate street and turned north. Three blocks later they passed the guardhouse at the North Gate and Ren waved to the soldiers stationed there. He kept going, and about 10 minutes later, slowed his pace to let his Stamina recover. Ren wasn't really in any rush, as the anvil wouldn't be delivered until tomorrow, but he needed to make that sitting table for Lucy. She'd always wanted one with a nice big mirror.
+
+Now she'll have one. Ren thought. When she comes back into the game.
+
+When the Stamina bar filled up, Ren took off running again and Teepo chitterd in delight. Ren wasn't sure why Teepo liked it so much when he ran; but if he could give Teepo a little more happiness in his astral life, Ren didn't mind running whenever he could. The trio arrived at the sunflower field at about noon, and Ren went into the field. It had been a while since he'd been there and he couldn't find the spot where he'd harvested them from the roadside.
+
+Ren took out his woodworking toolbox from inventory, brought out a large pair of shears, then stored the box again. “Okay, Ruck. You grab one and pull a little bit, so I'll know which one you have. I'll cut it off with the shears and say 'now', then you can store it.” Ren said. “Sound good?”
+
+Ruck gave the 'okay' gesture and Ren bent over slightly to reach the bottom of the stems. “Go!”
+
+Ruck grabbed the closest one and pulled it towards Ren, who saw the stem shift. He clipped it off with the large pair of shears. “Now.” Ruck stored it and then the next stem moved. They went slowly at first, until they got into a rhythm, and then went faster and faster. Eventually, Ren didn't have to say 'now', as Ruck found out that if he pulled a little harder and Ren cut them off, they popped up into his hands and then he stored them right away.
+
+To an outside observer, It looked like Ren was mowing the sunflowers down. Each one he cut disappeared almost immediately and then he cut the next one. Although he was hunched over to reach the bottom of the stems, Ren walked at a normal pace. They really were quite an efficient team. Ruck tapped Ren on the shoulder after not grabbing another flower.
+
+“Are we done?” Ren asked.
+
+Ruck gave the 'thumbs up' gesture. It had taken about half an hour to gather nearly 200 sunflowers.
+
+“It should last a while. Now to get some Balefire Moth Dust.”
+
+Ren took out the woodworking tool box, put the shears inside, and stored it again. He activated Sneak and crept into the field of sunflowers. He eventually came to the clearing where the caterpillars gathered and Ren found a broken open den. He checked around for anything suspicious, then asked Teepo to check the hole.
+
+“All clear.” Teepo said and Ren slid into it. There was tons of moth dust there and Ren filled 10 more bottles, making what he had an even dozen. It only used a pinch for each potion, but it adds up eventually. 12 bottles full should last a long time as well. He handed them to Ruck for storage.
+
+Ren climbed out of the hole and crept away until he thought he was far enough away from the nest, deactivated Sneak, and then started to run.
+
+“Hahaha!” Teepo shouted and the sunflowers whipped by Ren's head and Ruck kept his hands out to the sides, hitting the sunflowers. It didn't slow Ren down, as his Rock Steady kept him going at the same speed. Ren emerged from the field and laughed as he was covered in a shower of sunflower petals. He turned around and saw Ruck's hands had made a clear path through the sunflowers, tearing off the petals that he could reach.
+
+“That was neat! Thanks, Ruck.”
+
+Ruck gave the 'thumbs up' gesture and Ren started to run down the road. They got back to the city 2 hours after leaving it and Ren took the road through the North Gate until he hit the street to the West Gate. He took that corner and went out the West Gate to gather more basic ingredients while he had the chance. It didn't take long to get his Herb Aura to Level 5 and gathered enough Health and Mana herbs to have 2 full inventory slots each, then topped off his Poison herbs and Antidote herbs to 99 each.
+
+“Hey, Ruck... I think you're almost full!” Ren said and Ruck gave the 'okay' gesture. Ren went back into the city and ran back to his building. He went inside and let Ruck crawl down.
+
+“How did you like your first time outside of the city?” Ren asked.
+
+Ruck gave the 'thumbs up' gesture.
+
+“I'd hoped you'd like it.” Ren said. “I usually don't go a lot of places, but for the last little while, I've spent more time outside the city than I have in it... and I'll be going again soon.”
+
+Ruck pointed to himself and then at Ren.
+
+“Yes, I want you to come. I really can't carry everything by myself anymore.”
+
+Ruck gave the 'okay' gesture and Ren smiled.
+
+“Thanks, Ruck.”
+
+Ruck waved and went to his cabinet.
+
+“Oh, I almost forgot. I need those planks we got from the mill.” Ren said, and Ruck stacked them on the floor next to the other 2 that were still there on the floor. “Thanks, Ruck.”
+
+Ruck gave the 'thumbs up' gesture and shut the doors of his cabinet behind himself.
+
+“What do you think he does in there?” Teepo asked.
+
+Anything he wants to. Ren thought. It's his space. Just like you have yours.
+
+Ren walked over to the sinks he made and found they had cooled off. He took both of them out back and rinsed them out, then dried them like he did with the tub. Ren stored them and went back inside.
+
+“Now to build that sitting table for Lucy.”
+
+Ren opened up the plans he'd made earlier and got to work. It took a while, especially all the small pieces for all the drawers, but eventually Ren finished it. He dyed it a dark brown like the other furniture and attached the mirror. He made a small stool to sit on, stored it and the sitting table, then went upstairs to the apartment and put it in the bedroom. It fit perfectly in the space that was left and Ren could see himself in the mirror.
+
+“I really hope she likes it.” He said and turned to look at Lucy's phantom form on the bed. “There's going to be a tub and sink in the bathroom, too.” Ren said to her, then went into the bathroom and took out the tub. He'd made the bottom flat so it sat well on the floor, but then, it was just a big metal trough in the middle of the floor. “Hm. Should I build it into the wall or make it a free-standing one?” Ren looked at the walls. “Free standing I think.”
+
+Ren put the tub back into inventory and went downstairs to the pile of wood. He took out his woodworking tool box and the tub, then built a box for it to sit in. Next was the bathroom sink and Ren made a simple square for it and to hang it on the wall. He stored them again and went back upstairs to the bathroom and attached the wooden square to the wall and set the sink in it.
+
+“I should have ordered a small mirror for in here as well.” Ren said and shrugged. He didn't order one now, as he wouldn't be here to receive it. He took the tub out next and positioned it slightly away from the opposite wall, under the lone window, so it didn't dominate the space. It was tempting to make a shower in the corner, but Ren needed to work out how to get the water out of the room first.
+
+Ren rubbed his hand on the tub's surface and realized that water would probably turn if it was in contact with the metal too long, assuming the game was programmed that way. He examined the tub and it's dimensions. “Yeah, it should work.” Ren took out his bolt of Spider Silk Cloth and measured out enough to make a cozy for the inside of the tub. Using the plans he'd made of the tub, it was easy to adapt it to a pattern for sewing. There wasn't much fabric left in the roll, but Ren didn't mind. He'd put it to good use since he'd received it from Sally. Ren cut out the pieces he needed, dyed them red, and took his time sewing it inside out. He used Spider Silk Thread and pulled the stitches really tight. The edges of the fabric and the stitches would be underneath when it was flipped, and he put the liner into the tub.
+
+“Nice.” Ren said and then made a small one for the bathroom sink. “It's almost gone.” Ren said when he held up the nearly empty bolt of cloth. “I hope there's enough for the kitchen one.” He left the bathroom, then the bedroom, and entered the kitchen. There was a single window there as well and Ren went to it. “Here is the best place, I believe.” Ren modified the end table recipe he had and made a hole for the sink to sit in. He put it at a good height, then made it right there, attaching it to the wall. Ren used up the last of the Spider Silk Cloth to line the kitchen sink and stored the empty roll into inventory.
+
+Once again he was tempted to just make a whole countertop, but seeing as he didn't know how much room he needed to leave for the 'appliances' he intended to make, doing a countertop now would be foolish. Ren left the kitchen after cleaning up the sawdust, and went downstairs.
+
+“It's all slowly coming together.” He said and smiled, then stopped. He looked around and realized that there wasn't a lick of lighting anywhere. Ren started to laugh and he told Teepo, who started to laugh, too. Ren walked over to Ruck's cabinet and knocked. “I'm heading to the general store to pick up some lanterns. Want to come along?” Ren stepped back and Ruck came out and closed the cabinet's door. “Hop on.”
+
+Ruck climbed onto Ren's back and they left the building. Ren looked around and saw it was past suppertime in the game and ran as fast as he could. If he was lucky, he should catch Beable before he locked up for the night. Ren ran pretty hard, draining his Stamina bar quickly, but he reached the Market District in time and stopped at General Goode's General Goods as Beable reached the door to lock it.
+
+“Ha ha! You're lucky! I was just about to lock up.” Beable said and held the door for Ren.
+
+“Thanks for not shutting the door in my face.” Ren said and smiled.
+
+Beable laughed and shut the door. “What can I get for you?” He asked and locked the door.
+
+“A couple of lanterns. I need them to light up my place... assuming you don't have something better?” Ren asked, hopeful.
+
+Beable smiled. “Wait here.”
+
+Ren waited and Beable came back with what looked like an Aladdin's lamp.
+
+“Unlike a lantern that only lasts 6 hours on one flask of oil, this lasts for 12 hours on half that.”
+
+“Sounds good. How much?”
+
+“Only 5 silver.”
+
+“Okay... what's wrong with it?” Ren asked as his Vision of Impurity saw several flaws in the metal.
+
+“W-what do you mean?”
+
+“A lantern cost a gold coin, right?”
+
+Beable nodded.
+
+“So, if this is so much better, and also so much cheaper, there's got to be a drawback.” Ren reasoned.
+
+Beable sighed. “It gets really hot.”
+
+“How hot?”
+
+“Enough to catch wood on fire after a few hours.” Beable said.
+
+“And you were going to sell me that?” Ren asked. “Are you trying to lose customers?”
+
+Beable sighed again. “I paid for these before they were delivered, then I found out how badly they were made. I'm losing a lot of money if I don't sell them.”
+
+“How many did you buy?”
+
+“A hundred.” Beable said, dejected. “I'm taking a loss selling them for only 5 silver, too.”
+
+“Have you sold any yet?”
+
+Beable shook his head. “You're the only one who's been interested in something besides a lantern.”
+
+Ren sighed. He really hated when people were scammed out of their money.
+
+“Look, I'll take the lot... if you throw in a flask of oil for each and an empty barrel.”
+
+Beable had a shocked look on his face for a moment and then squinted his eyes. “You're not going to sell them yourself, are you?”
+
+Ren shook his head. “No. You're right. They're terrible lamps.” Ren reached out and squeezed the tip of the lantern in his fingers, right where he saw a flaw, and it crumpled. Beable winced.
+
+“A flask of oil for each is too much.” Beable said. “How about half that, and 2 empty barrels. I'm overstocked on those, anyways.”
+
+Ren thought about it for a minute. “Deal.”
+
+Beable smiled as they shook hands. “You're a lifesaver.” He said. “Do you want them delivered?”
+
+Ren shook his head. “No, I'm leaving soon and won't be home. I'll take everything now.”
+
+Beable got a surprised look on his face and then shrugged. “This way.”
+
+Ren followed Beable into his back room and saw stacks of boxes and crates. The amount of money he's got tied up in stock is just staggering. Ren thought as they made their way to a stack near the back of the room.
+
+“These are the crates of lamps.” Beable said, putting the damage lamp in the top crate and banging it shut. “There's 20 of them in each crate.” He pointed to another smaller stack. “That's the oil flasks, 10 in each.”
+
+Ren stored the 5 crates of lamps into inventory, then with 5 crates of oil flasks.
+
+Beable shook his head in disbelief. “You Adventurers sure are something.” He said and turned around. Ren followed him back out to the front of the store and to a pile of empty barrels. Ren took 2 and stored them. When he looked around, he saw the grappling hook.
+
+“How much is that?” Ren asked and pointed.
+
+“70 silver.” Beable said without thinking. “Ah... I mean, it's 1 gold. Yes, 1 gold coin.”
+
+Ren laughed and then handed over 6 gold. 5 for the bad lamps, and 1 for the grappling hook. Beable looked at Ren with an expression that Ren couldn't discern what it meant, and then Beable smiled.
+
+“It's always nice doing business with you.”
+
+Notice!
+
+You have gained a favorable opinion from a member of the Merchant's Guild.
+
+Ren dismissed the popup and smiled back at Beable. “I was just about to say the same thing.” Ren said and Beable nodded, then let him out of the shop. “Have a good day.” Ren said and waved, then ran up the street. He got back to his building and let himself inside. “Hey, Ruck... I'm sorry I didn't ask while we were there, but Beable was in a hurry to close the shop... was there anything in there that you wanted?”
+
+Ruck crawled off of Ren's back and shook from side to side, and Teepo hopped off Ren's shoulder.
+
+“If you think of anything you do want for your cabinet, let me know.”
+
+Ruck gave Ren an 'okay' gesture. Ren nodded and then took out one of the empty barrels. He examined it closely, opened the top and felt the metal bands, and discovered the pattern for it. Ren used his new dwarf skill Appraisal and determined that the barrel in it's current condition was worth a little more than the cost of the materials, about 50 copper. He took out the other barrel and used Appraisal on that one as well. Ren brought over a stool, and took out the 5 crates of lamps he just bought and stacked them on the floor in front of him.
+
+Ren opened the top crate, picked a lamp up, and used Appraisal on it. It was made of copper. With his Vision of Impurity picking out the flaws in the metal, all Ren could do was determine how much it actually was worth, and not what Beable had paid for it. It came out to be 8 silver for the first one. He repeated this process and used Appraisal on every one of the 100 lamps. When he'd gotten about halfway through, Appraisal went to Level 2 and he noticed something in the copper.
+
+Is that... traces of gold? Ren thought, and his Vision of Impurity went to Level 6. Yes, definitely traces of gold. No wonder the copper was weak! Ren kept appraising the lamps and they ranged from 3 silver for the really bad ones to 10 silver for a few that only had a couple of flaws. Ren kept those lamps out. When all the lamps had Appraisal used on them, he examined the lamps he'd put aside and discovered the pattern for it. It was a good design, with the wick at the top and the thick bottom. Ren thought. When the copper wasn't too weak to hold the heat, that is.
+
+Ren had the bright idea to smelt them down, but it was getting late and he didn't want to start another project that would keep him up all night.
+
+“Goodnight, Ruck.” Ren said and Ruck waved. Goodnight, Teepo.
+
+“Goodnight.” Teepo said and crawled into his place under the floor.
+
+Ren went upstairs and into the bedroom. The sweet pastry was still there, but it had been there for almost an in-game week. Ren took the pastry and the note, then realized he didn't know what to do with them, as he didn't have anywhere to throw them out.
+
+“I need to make a trash can or something.” Ren said and stored the pastry and note in inventory. He climbed up onto the bed and laid down next to Lucy. “Goodnight, Lucy.”
+
+“Logout.”
+
+********
+
+Ren logged out for lunch and Stella teased him about sleeping with Lucy, and Ren rolled his eyes. He tried his best to tell her that they were sleeping in the same bed, but weren't sleeping together. Stella laughed and served him lunch. Ren ate and watched a few game shows on television. The watch Lucy had given him beeped and Ren looked at it.
+
+Yep, the night is just about over. Ren thought. “See you at supper, Stella.” Ren said and put on the VR headset. My anvil will be delivered today!
+
+“Flow Login Start.”
+
+********

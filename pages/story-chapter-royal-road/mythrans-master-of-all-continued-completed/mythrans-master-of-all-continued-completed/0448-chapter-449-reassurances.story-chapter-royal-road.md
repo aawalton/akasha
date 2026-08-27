@@ -1,0 +1,255 @@
+---
+id: 37f0f120-70b4-58b9-816e-53dde78fb246
+page-type-slug: story-chapter-royal-road
+title: "Chapter 449 - Reassurances"
+slug: 0448-chapter-449-reassurances
+partOf: mythrans-master-of-all-continued-completed
+position: 448
+ownLength: 3229
+unit: words
+publishedAt: 2017-12-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179810/chapter-449-reassurances"
+royalRoadId: "179810"
+---
+
+“Are you crazy?” Officer Holly asked, slightly outraged. “I'm not going anywhere with you! You just spanked me in the middle of the street!”
+
+“Besides the fact that you deserved it...” Ren chuckled because she had completely skipped over the fact that he had felt her up. “...no one is around the Housing District this late at night.” He felt that she was trying hard to deny what had happened, so he turned off the effects of his Prince Charming title and took her hand. “Holly, I really do think the best place for you to observe is as close to me as possible.”
+
+“I am not becoming one of your girls!” Officer Holly exclaimed.
+
+“I didn't ask you to.” Ren said, and he felt her churning emotions turn to anger.
+
+“Excuse me?”
+
+Ren smiled reassuringly at her and gently stroked the back of her hand with his thumb. “Please, don't take this the wrong way; but, you're not that nice of a person.”
+
+Officer Holly squinted her eyes at him, and opened her mouth to speak.
+
+“You're brash, confrontational, and have a chip on your shoulder a mile wide.” Ren said to cut her off. “You immediately think whatever you decide is right, and that anyone who disagrees with that is automatically wrong.”
+
+Officer Holly closed her mouth, because she couldn't contradict him on anything he said; not without lying at least a little bit... and that annoyed her.
+
+“What happened here tonight was... quite a bit out of my comfort zone.” Ren said as he felt her annoyance. “Hitting a woman like that is sometimes necessary when she's into that sort of thing; but personally, it hurts me more than it does them.”
+
+“You seemed to enjoy it.” Officer Holly said, and he felt her doubt his words.
+
+“Only because you let me touch your butt.” Ren said and grinned. “It's really nice.”
+
+Officer Holly's face flushed a little red, and he felt that she was both embarrassed and pleased at the compliment.
+
+“The other thing that happened? I did that for you.” Ren said, and her hand tensed up in his. “You were almost as sexually frustrated as Andrela was.”
+
+“No, I...” Officer Holly frowned at him when she thought about what he said; but, she didn't try to take her hand back. “So, you did sleep with them despite what I said.”
+
+“Before you get all judgmental, it only happened last night; which was a long time since you expressed your opinion.” Ren said. “Mind you, I had intended to sleep with them a while ago, but things kept getting in the way.”
+
+Frikara gasped at that nugget of information.
+
+Ren felt her surprise and winked at her. “Of course, just before you showed up tonight, Frikara and I figured out a way to nullify her unbreakable contract... which is what I've been trying to do ever since I met her.”
+
+“You've been trying to figure out how to free us this whole time?” Frikara asked, her voice and emotions full of wonder.
+
+“Of course I have.” Ren said and looked at her. “It always bothered me that you signed your lives away, and I didn't want to be the one to keep you like that; not if I could do something about it.”
+
+“Oh, Ren.” Frikara wrapped her arms around his neck and kissed him. He put his free arm around her and kissed her back just as passionately for several moments.
+
+Officer Holly wasn't sure what to do. She kind of felt like she was intruding on a private moment; but, Ren still had a hold of her hand and kept rubbing his thumb on the back of it.
+
+How can he do two different things at once? Officer Holly thought.
+
+Frikara broke the kiss and let Ren out of the hug, and Officer Holly saw the stream of light between them.
+
+What is that? Officer Holly thought in surprise as it faded, and Ren turned to look at her.
+
+“I should probably apologize for that public display of affection, but I won't.” Ren said when he felt her surprise and grinned. “I'll never say no to Frikara if she wants a kiss, no matter what the circumstances.”
+
+“Do you remember our first upside down kiss?” Frikara asked, and Ren chuckled.
+
+“You mean the one where you moved from the front of the line to the back of the line, just so you could get another one?”
+
+Frikara laughed. “Yes, that one.” She said, and he remembered how much she had liked it.
+
+“I haven't had a kiss like that since then.” Ren said and smiled. “I think it's about time we had another.”
+
+“I'd like that very much.” Frikara said and took his other hand.
+
+Ren turned to Officer Holly. “I'll make a bed for you and set it up in the kitchen, since we don't use it anymore.” He said. “That's only for tonight, though. You'll have your own house tomorrow when we go to my county.”
+
+“But... but...”
+
+“Come on.” Ren said and walked back to the house, with Frikara on one side and Officer Holly on the other, and dismissed the popup that he had lost the Angered condition. He also felt that Frikara was enthusiastic and Officer Holly was reluctant; but, they both walked with him and the reluctant one didn't try to slow him down or delay his movement.
+
+I can't believe I'm doing this. Officer Holly thought as Ren told the guards that she was allowed in from now on. Once they were inside, Frikara went up the stairs and Ren stored the table and chairs in the kitchen. He made a bed and put it in place, then made a blanket for her.
+
+“Sleep well.” Ren said and looked at the doorway. “I guess a door is needed so you have privacy.” He said and made a door and hung it. “Goodnight.”
+
+“Ren.” Officer Holly said. “Why are you doing this?”
+
+“It's to keep an eye on you, of course.” Ren said and smiled. “I figure turnabout is fair play.” He said and shut the door, then opened it again. “By the way, I'll know it if you leave.” He pointed to his eyes.
+
+“What is that ability?”
+
+“Heat Sense.” Ren said. “I can detect anything living within my Aura.”
+
+Officer Holly nodded, then he felt her want to ask a question.
+
+“Go ahead and ask.”
+
+“How big is your Aura?”
+
+“It's only 300 feet if I'm not concentrating on anything extra.”
+
+Th-three hundred feet? Officer Holly thought, shocked.
+
+“Hey, it's not going to be as bad as you think being around me.” Ren said, and misread her shock. “Just wait until I armor you up.” He chuckled. “You are going to adore me.”
+
+“Armor me up?” Officer Holly asked, and he nodded.
+
+“I'm a Master Blacksmith.”
+
+“Um, I... I have something for you.” She took out the plans she had received when she graduated her training, and handed them over. Ren took them and read through them, and they disappeared.
+
+“Oh, wow!” Ren said. “Thanks!” He said excitedly. “Something new to make!”
+
+Officer Holly could almost feel his enthusiasm, and it touched something inside of her. I made him happy. She thought, and her Reassurance Aura sprung into place, much to her surprise, and she took out the other recipe she had. “I need to find an enchanter for this one, though.”
+
+“That's me, too.” Ren said, and she blinked her eyes for a moment.
+
+“You're a blacksmith and an enchanter?”
+
+“Yep.” Ren said and held his hand out. She gave him the recipe and he read it.
+
+“Oh, hey! Revealing Light.” Ren said and then the plans disappeared. “I can make that for you right now.”
+
+Officer Holly watched in amazement as he took out a sack and picked out a small diamond, put the sack away, and a 1 foot by 1 foot golden platform appeared in front of him. He put the diamond on it and it glowed for a second, and then he picked it up.
+
+“There you go.” Ren said and held it out. “It's been modified so that there's no time limit, and I boosted the range with additional Mana.”
+
+“Wh-what?”
+
+“It works constantly, and you can tuck it into a pocket and leave it on all the time if you want.” Ren said. “Just concentrate on it and say 'Activate' to turn it on, and 'Deactivate' to turn it off.”
+
+Officer Holly concentrated on it. “Activate.”
+
+The Revealing Light area of effect popped into place and it was a circle with a 100 foot radius, and she felt it's immense size. Officer Holly felt something nearby and couldn't pinpoint it; so, she looked around to see if anything had appeared, and she saw a beetle on Ren's shoulder.
+
+“Ren, there's...”
+
+“That's Teepo.” Ren said, and the beetle waved a leg at her. “He's been my friend for a long time.”
+
+“B-but... he's a beetle.” Officer Holly said. “And he's invisible.”
+
+“Yeah, but that doesn't mean he's not real.” Ren said.
+
+“O-kay.” Officer Holly said, and Ren chuckled.
+
+“Goodnight, Holly.”
+
+“Goodnight.” Officer Holly sat down on the bed, and Ren left the kitchen and ran up the stairs.
+
+*
+
+Xuunah had watched everything through a viewing cloud, because her curiosity about Ren had increased tenfold after their interaction earlier. She dismissed the spell when Ren led the Paladin and Frikara up the street towards the house.
+
+His method was unorthodox, but quite effective. Xuunah thought as she laid down in bed, and then felt the Paladin enter the house. A few minutes later she felt the Paladin's Reassurance Aura pop into place and smiled.
+
+I'm glad he accepted her help. Xuunah thought and closed her eyes. This bed is so comfortable. She thought and immediately went to sleep.
+
+*
+
+Ren went into the big bedroom and saw that 4 of the maids had laid down with their heads at the bottom of the bed to wait for him, and the last sat on the far end of the bed. Ren knelt in front of Frikara and gave her an upside down kiss. Next in line was Lusinia, then Andrela, and Navruth. The one who sat on the end of the bed was Verwynn, and Ren didn't question her at all about what she wanted as he knelt. He could feel her desire, and she laid back onto the bed so he could kiss her where she really wanted to be kissed instead.
+
+*
+
+Nathalia laid in her empty bed and thought about everything the maids and Anabelle had told her about what Ren had gone through. It had bothered her a lot at first, to know he was going through so much without her; but, then her mother had shown up out of the blue and told her why she was there and what she planned to do.
+
+I'm so glad she's going to watch over you, Ren. Nathalia thought and snuggled under her blanket as she closed her eyes. I'm sorry that I haven't gone to see you, My Love.
+
+The middle of her chest was warm as the Light inside of her glowed slightly, and she felt a strong feeling of reassurance.
+
+*
+
+Ren had quickly finished the maids kisses and they climbed into bed together, and they all hugged and snuggled each other. He could feel how much each of them wanted to share the same thing with him as Frikara did, and he told them that they needed to rest first. The others were fine with that, because they only needed to sleep for two hours and would be fully rested.
+
+Ren on the other hand, only need one hour; and when he woke up, he slipped out of bed and snuck downstairs and out the door. He went to the empty lot on the other side of his house and took out his shop tower and activated it, then went inside.
+
+Tell me when an hour passes, Teepo. Ren thought.
+
+“Sure thing, Ren.” Teepo said.
+
+Ren had an idea he wanted to try a while ago, but he never had the chance to implement it. He knew that the system could make very thin wire mesh for a strainer, so he opened that recipe and removed everything from it except for the wire mesh, moved it all around to make a single long thin wire, then copied it hundreds of times and wrapped it into a coil, then saved the recipe as 'wire'.
+
+Once that was done, he knew it only needed 2 metal bricks, so he made 2 high quality steel ones and activated his Craft Wondrous Item ability. It wasn't a Wondrous Item itself; but, he needed somewhere to make the recipe and used it. He added the 2 steel bricks and they disappeared; then a large coil of wire appeared in front of him.
+
+Oh, yeah. Ren thought and went to his Tailor shop section to the loom. He ran Spider Silk thread through the loom to set up making a bolt of cloth, and instead of using a spool of thread for the crosshatching, he took out the coil of wire and a pair of pliers. This is going to be fun!
+
+Ren used the loom to make steel-reinforced Spider Silk cloth, and when he was done, he felt it and couldn't tell where the steel wire was because it was completely covered by the Spider Silk thread.
+
+That's awesome. Ren thought and went to the workbench and used some of the cloth to make an armor bodysuit, added thin hand coverings and socks, and even a form-fitting hood. Lisa is gonna love this. He thought and then remembered why he wanted to make it. He thought about an appropriate enchantment, and made a combination glyph of 50 runes with Augment runes for Reinforcement and Toughness, as well as Protection to increase the armor defense.
+
+With the abundant metal within the fabric, it was strong enough to hold the enchantment without consuming itself. He made a modified Amulet of Natural Armor to boost it's armor value, added Protection, and then used Double Infusion to add the modified Amulet of the Spider enchantment to it.
+
+“That's an hour, Ren.” Teepo said.
+
+Thanks, Teepo. Ren stopped working and stored the cloth, bodysuit and amulet.
+
+Stat Change!
+
+Contact Aura Level 1 (Advanced 0%)
+
+Heat Sense Level 2 (Beginner 0%)
+
+Nice. Ren thought and left the tower, deactivated and stored it, then snuck back inside the house. He went up the stairs and into the bedroom, and saw that all 5 maids started to stir at the same time. He climbed back onto the bed, which shook it and woke them up.
+
+“Where were you?” Frikara asked and held her arms open.
+
+“Just doing a bit of work I meant to do a while ago.” Ren said and laid down beside her.
+
+“How did you get up before us?” Andrela asked and put her head on his chest.
+
+“While I was away, I changed the Ring of Sustenance requirements.” He said. “I only need an hour sleep now.”
+
+“Are you going to change ours?” Verwynn asked.
+
+“I don't have to.” Ren said. “They're already active. I had to take mine off when I knew I was going to die.” He said, and they fell silent. “I didn't know how long I was going to be there, so I restructured it and didn't have to wait a week for it to be active again.”
+
+“That was smart.” Lusinia said and kissed his thigh, then snuggled it.
+
+Navruth took his other leg, and Verwynn laid on his other side.
+
+“I know we don't have to stay in bed for the rest of the night; but, can we?” Verwynn asked.
+
+“Of course we can.” Ren said and hugged her with one arm. “You all like to cuddle me almost as much as I like you cuddling me.”
+
+That made them laugh, then they settled down and just held each other.
+
+*
+
+Officer Holly stared up at the ceiling of the kitchen. She had heard some laughter, and wondered what was going on. Even though the bed she was in was luxuriously comfortable, she just couldn't get to sleep. Not long after she had tucked herself into bed, she had started to doubt why she had let Ren co-opt both her and her mission... and her Reassurance Aura had disappeared as a result. She tried to get it back, but it just wouldn't activate for her.
+
+I should check and see if there's any messages in real life. Officer Holly thought. “Logout.”
+
+********
+
+Officer Holly took off her VR headset and sat up in her recliner, and heard a squelch sound. “Goddammit!” She said as she looked down and saw her underwear was completely soaked through, and the now cool liquid had pooled underneath her. “No one told me this could happen!”
+
+Officer Holly got up and stomped to the bathroom to get a shower, cleaned herself up and put on a thick bathrobe, then came back out with the right supplies to clean up the mess she had made.
+
+Geez, there's a lot of it. Officer Holly thought, a little surprised, and then was relieved the recliner was made of leather; mainly because it was so easy to clean and disinfect. Imagine if it was cloth! She thought and chuckled. I'd probably have to throw the damn thing out. She stopped laughing and frowned. No, this isn't funny. She sprayed the chair cushion again with a disinfectant cleaner and wiped it off. He made me do this.
+
+Officer Holly dried the leather and sat on a nearby chair. Oh, god. She thought and put her head in her hands. He did make me do this; but, only after he asked me if I wanted him to do it. She sighed and took a deep breath. Heaven help me, I really wanted him to.
+
+Officer Holly picked up her phone to see if her partner had discovered anything while watching Ren's house, and she didn't see any messages from him. She did have one from Agent Smith, however. The hitman hired to take care of Ren was paid in untraceable cash that had been deposited in an offshore account, and the account it was transferred from had been closed out. The good news was that the guy confessed to everything.
+
+Officer Holly sent a message back to thank him for the information, and that if she learned anything she would let him know. She put the phone down and looked at the VR headset.
+
+I really should try and get some sleep. Officer Holly thought and sat down on the recliner. She hesitated for a moment before putting on the VR headset. I won't ask him to do that again. She thought, quite unconvincingly, and put the headset on and laid back.
+
+“Flow Login Start.”
+
+*
+
+Officer Holly woke up in the bed inside Ren's house, and everything was quiet. She half-expected him to be standing over her to stop her from leaving, and that made her smile.
+
+Ha! I left, and you didn't even know it! Officer Holly thought in satisfaction, and closed her eyes. This bed is really comfortable. She rolled over onto her side as she pulled the blanket up tight, and fell asleep.

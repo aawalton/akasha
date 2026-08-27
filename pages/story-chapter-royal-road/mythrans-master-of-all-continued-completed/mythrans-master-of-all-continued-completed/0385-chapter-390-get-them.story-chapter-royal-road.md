@@ -1,0 +1,291 @@
+---
+id: f343f81c-2774-5d40-a508-fadc58707084
+page-type-slug: story-chapter-royal-road
+title: "Chapter 390 - Get Them!"
+slug: 0385-chapter-390-get-them
+partOf: mythrans-master-of-all-continued-completed
+position: 385
+ownLength: 3143
+unit: words
+publishedAt: 2017-10-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168435/chapter-390-get-them"
+royalRoadId: "168435"
+---
+
+“It's ah ghoul factory?” Clint asked, then thought about it. “No, yer not serious!” He nearly yelled.
+
+“It's still operating, too.” Ren said, and he tried to reign in his anger. “Large ghouls are biting people as we speak.”
+
+“We gotta get in there.” Hank said and started to run to the tunnel, and both Ren and Clint grabbed his arms.
+
+“We can't just go in swinging.” Ren said. “We have to be careful of the civilians.”
+
+“I'll just kill the ghouls.” Hank said. “That's easy.”
+
+“Wha' if'n thare only a little turned?” Clint asked. “Wha' if'n they look normal and are already a ghoul?”
+
+“Or look like a ghoul, but can still think and be saved if treated?” Ren asked and made a fist with his hand. “By the gods, this is the worst thing that can happen on an extermination quest!”
+
+“Ah know.” Clint said. “We migh' hafta exterminate all of 'em, no matter how far along thay are, just ta complete it.”
+
+“Dammit, man!” Tommy exclaimed. “What do we do?”
+
+Ren thought about Elerlyth and the Spider Brooch glowed. “Hey, baby.” He said. “Did you kill the stragglers?”
+
+“You know I did.” Elerlyth said. “What's up?”
+
+“We need your expertise.” Ren said. “Teepo discovered a ghoul factory.”
+
+Elerlyth was quiet for a moment. “I'll be right there.”
+
+Ren looked at Clint. “Both she and I have high Sneak and stealth bonuses.” He said. “I'm just going to assume she'll want to go in and try to clear out the large ghouls before we try anything else.”
+
+Clint nodded. “Ah figured tha's whachya were gonna do.”
+
+Elerlyth flew her steed in for a landing and jumped off just as it hit the ground. “Ren, I know you can Sneak; but you can't use your hammerpick for sneak attacks.”
+
+“I'll just use my hands, then.” Ren said, made his hands into fists, and used Iron Grip to crack all of the knuckles at the same time. “I am not letting you go in there alone.”
+
+Elerlyth could feel his strong protective streak, so she nodded and felt his thanks for not saying no. She turned to Clint and spoke.
+
+“If you hear the sound of a fight, come running.” Elerlyth said. “Other than that, you need to stay as quiet as possible.”
+
+“Why?” Billy asked. “We've been really loud up until now.”
+
+“That's because it didn't matter much after the main cavern collapsed.” Ren said. “Once we get inside this tunnel and start removing the large ghouls, though...”
+
+“The others will panic at any sound, so if you come into the tunnel, be quiet.” Elerlyth said. “Ren, let's go.”
+
+They activated Sneak and moved into the tunnel together.
+
+*
+
+Hank leaned close to Billy and whispered. “I can't hear them at all, and I'm looking right at them.”
+
+Billy nodded. “I don't know how they can make no noise with all that armor on.”
+
+“Ah guess tha's wha' it's like ta have mastered Sneak.” Clint whispered. “Ah wonder why Ren learned it.”
+
+“He wasn't a fighter at all when we met him that first time.” Tommy whispered. “He might have learned it to hide after that.”
+
+Clint nodded. “Ah suppose so.” He said. “He don' likely need ta hide no more, though.”
+
+Hank chuckled. “Did you see him using that green glowing thing? That was awesome.”
+
+“Not as awesome as you, man.” Tommy said and went to clap Hank on the shoulder; but Clint grabbed his hand before he could.
+
+“Keep it quiet remember.”
+
+“Oh, right.” Tommy said. “Sorry, man.”
+
+*
+
+Elerlyth glided down the tunnel with Ren right beside her, and they could both feel how each of them felt about being able to keep up with the other. Ren sent her a trace of his love and she swallowed it, then she sent him a sliver of her love and he absorbed it.
+
+Ren felt her surprise and Elerlyth wondered why he had the same ability as her and yet it was different. Ren sent her a feeling of admonition to keep her mind on the mission, and he felt her small spike of annoyance. That made him smile, then he stopped smiling when they came to the tunnel Teepo had found the ghoul factory in.
+
+Teepo, they aren't going to smell us or anything, are they? Ren asked.
+
+“No, there's too much other things around for them to pick you up.”
+
+Good. Ren thought. I'm not concentrating on any Aura at all, so hopefully they won't notice us because of my basic Aura, either.
+
+“Ren, before you go in, it... it's bad.” Teepo said. “You'll see how bad when you're in there; but, the first pen just on the right has the newest people in it, and there's a large ghoul inside biting them.”
+
+Ren tapped Elerlyth on the arm so she would look at him. He pointed to the right, held up an index finger, then dragged his finger across his neck. Elerlyth nodded and they went into the cavern. It was only about 200 feet long, but it was also 100 feet wide like the large cavern that they had inadvertently collapsed. Feelings of hatred, despair, pain, and loss filled the cavern, and Ren didn't even try to feed on them.
+
+Ren watched as Elerlyth moved around the first 10 foot long by 10 foot wide by 10 foot high metal cage until she was in the right position, then saw her hand as it darted out quick as a flash. She grabbed the large ghoul by the throat and pulled it back into the metal bars without a sound. A black knife came out of the front of it's throat, turned, and there was a very faint popping sound.
+
+Elerlyth eased the large ghoul down to the floor of the pen and looted it to make the body disappear. The people in the pen watched in surprise as the large ghoul had, for some reason, disappeared. No one said anything or saw her; but, she felt relief and a bit of satisfaction from them. She went back to Ren's side and waited for more instructions.
+
+“The next closest one is up on the ledge.” Teepo said. “15 feet up, to the left of the entrance.”
+
+Ren took out a large piece of fabric, dyed it the same color as the wall, and sewed up a poncho.
+
+“The next one is three pens in, and is... ah... eating one of the failures.”
+
+Ren slipped on the poncho and pointed up, pointed two fingers at his own eyes, then held up 1, then 2, then 3 fingers. He pointed where Teepo said the ghoul was, and sent Elerlyth a careful feeling. She sent him a feeling of reassurance and moved off. Ren turned towards the wall and crept up it to just below the ledge.
+
+“It's turning to the right... hold on... okay, go for it.” Teepo said and Ren climbed up onto the ledge and reached out. He grabbed the large ghoul by the back of the neck and used Iron Grip. The skull detached from the spine with a soft pop, and Ren looted it. He saw a small alcove behind where the ghoul stood, and then he felt a tingle on his right hand. He reached out and touched the wall at the back of the alcove, and a doorway appeared.
+
+No way! Ren thought in surprise. It's an Underworld entrance! He took his hand away from the wall, and a moment later, the door vanished and he used the Staff of Earth to cover the spot. He crawled down from the ledge and made his way over to Elerlyth. She'd killed the large ghoul that had been eating, and another that had come over to eat, too.
+
+How many large ghouls are left? Ren asked his friend.
+
+“Just two more. They are 40 feet away and behind the last cage.” Teepo said. “Unfortunately, that cage is for the ones almost completely turned.”
+
+There's no hope for them, then? Ren asked.
+
+“No.” Teepo said, sadly. “Once they are that far gone, there's no coming back.”
+
+Ren looked at Elerlyth and held up all 8 fingers and 2 thumbs on his hands 4 times, pointed to his feet, then pointed to where the ghouls were. She started to move off, and he touched her arm. She looked at him again, and he counted 2 on his fingers. She nodded and moved off, and Ren followed right behind her.
+
+They made their way across the distance quickly, and went around the cage. The two large ghouls were antagonizing the almost turned ghouls in the cage, and both Ren and Elerlyth felt the aggravation and need to kill that the caged ones felt. She glanced at Ren, and he motioned with both of his hands in a clear gesture to help herself. Ren felt her happiness, and watched as she crept up behind the two large ghouls. She took out the sword he had made for her and decapitated them both with one swipe.
+
+The almost turned ghouls in the cage saw their tormentors fall to the ground headless, then saw Elerlyth as she stood over their dead bodies. The ghouls started to freak out, then started to screech. Several of them shrieked like the full ghouls had in the fight earlier, and all that did was agitate them more. One ghoul leaned back and tried to jump at Elerlyth through the bars of the cage. She heard a bone crack, and then it's head became stuck between the bars.
+
+Elerlyth jammed her sword into it's mouth, moved it side to side, and the body fell to the floor of the cage. That really set them off, and they all started to scramble to try and get to her.
+
+“Ren.” Elerlyth said. “What do we-”
+
+“Molotov.” Ren said and held out a stone brick with Fire activated on it. Elerlyth took one of her Molotov Cocktails out, lit it with Ren's fire, then tossed it at the bars of the cage. The glass shattered and it sprayed oil over them all, and the flame engulfed them. They stopped shrieking and screamed instead; but, only for a few moments. The flames in such a small space was almost hot enough to melt the iron bars, and it made short work of the cage's contents.
+
+“Let us out of here!” One woman shrieked from the next cage that was about 20 feet away, and Ren looked at her. He could feel the same feelings from her that the almost turned ghouls had, and he sighed.
+
+“Elerlyth.” Ren said, and she nodded. She walked calmly over to the cage, and the woman's face turned feral. She gnashed her teeth at the approaching meal, and Elerlyth slid her sword through the woman's face.
+
+“NOOOO!” The man next to the speared woman yelled. “Don't kill us! We're innocent!”
+
+Three other people in the cage reacted the same way the woman did when Elerlyth came closer, and she killed them, too.
+
+“No! Stop!” A woman pleaded. “Please! I'm begging you!”
+
+“You'll have to stay in the cage until we can get a trained healer out here.” Ren said. “And probably a clergy to absorb the corruption.”
+
+Everyone in the cage nodded their heads very fast, and Elerlyth stepped away from the cage.
+
+“I can feel how terrified they are, but...” Elerlyth stopped talking, and Ren could feel how she felt.
+
+“I don't want to feed either.”
+
+“I'll go and get the guys.” Elerlyth said, and then Ren felt something awful enter his Aura.
+
+“Oh, crap.” Ren said, then felt 6 more things enter his Aura.
+
+“What is it?”
+
+“Company.” Ren said and pointed to the ledge across the cavern. “There's a passage behind that wall.”
+
+“What kind of company?” Elerlyth asked.
+
+“Dark Elf company.” Ren said. “A nasty one named Grimlow, and 6... no, make that 8 friends.”
+
+“Ren, we can't fight here.” Elerlyth said and looked at the cages.
+
+“Leave that to me.” Ren said and took out the Staff of Earth, then shifted the floor of the cavern under just the cages.
+
+“DON'T BURY US!!” Someone hollered.
+
+“I'm not!” Ren said. “I'm hiding you!”
+
+People started to scream and cry, and Ren sighed and made a thin dirt wall in front of them instead. He took out the Wall of Earth wand he had, then cast it a dozen times to thicken it up.
+
+“It's only good for 20 minutes.” Ren said. “The dark elves are at the covered entrance.”
+
+Elerlyth nodded and they ran over to get under the ledge. “Should we climb?”
+
+“No, I have a much nastier idea.” Ren said, and she felt his wicked streak open up.
+
+“Ren!”
+
+“What?”
+
+“Where have you been hiding that?!?” Elerlyth asked, surprised.
+
+“I wasn't hiding it.” Ren said and smiled. “I've just never had a use for it before.”
+
+Elerlyth shook her head and Ren took out his Staff of Earth. He removed the block he had placed in front of the hidden door, then made a tunnel straight down from there and into the ground for a hundred feet and held it open.
+
+Ren felt the 9 people move fast through his Aura towards him. “Here they come.” He whispered and Elerlyth tried not to moan from the feelings he was giving her. The hidden door burst open and all 9 dark elves came out through the door and fell into Ren's tunnel pit. They screamed as they plummeted down to the bottom, and Ren and Elerlyth heard several bone crunches.
+
+“That hurt them a lot.” Elerlyth whispered and fed on the pain and shock.
+
+“Not as much as this is going to.” Ren said. “Get ready.”
+
+Elerlyth nodded and held her sword at the ready, then moaned when she felt Ren's evil streak as he dismissed the multiple Pass Wall spells. Her mouth dropped open in surprise as the dark elves zoomed past her and Ren up to the ceiling. The dark elves were helpless as they had been shot up the collapsing tunnel at twice their falling velocity, then they hit the stalactites on the ceiling.
+
+Even Elerlyth winced as the dark elves were impaled in various spots. Head, chest, groin, arms, legs, and backs were run through; but, since the nature of stalactites was to let things drip from them, each dark elf slid off of the improvised instruments of impalement and fell down to the ground in front of her.
+
+Neither Ren nor Elerlyth spoke as she decapitated each of them. A couple of them were still alive, but that didn't stop her. Unlike with the ghouls, they didn't loot the bodies because they wanted the evidence. Ren used the Staff of Earth to uncover the captives, and he felt their shock. They all looked at him and Elerlyth, then at the pile of dark elf bodies.
+
+“How... how did you...” One of them asked.
+
+“It doesn't matter.” Ren said. “We're Adventurers. We came to save as many of you as possible.”
+
+“But... but you just exterminated all of them!” Someone else said and pointed to the last cage.
+
+“They were too far gone.” Ren said sadly. “It was the same with a few in the next cage.”
+
+“But...”
+
+“I can only hope we can finish this quest without further bloodshed.” Ren said, and the person didn't speak again. “Elerlyth? Can you go and get the guys? I've got... something I need to take care of.”
+
+Elerlyth felt his sorrow and gave him a quick hug, then walked away. She felt that he needed a bit of time, and she was going to give it to him.
+
+Ren used the Staff of Earth to cover up the hidden door again. He sewed up a sack and stored the severed heads of the dark elves in it, then took out the spider tucked into his cloak. “My Queen, may I have a portal to you, please?”
+
+A portal opened a moment later, and Ren stored the sack.
+
+“I'll wait here.” Teepo said.
+
+Thanks, Teepo. Ren said and stepped through the portal.
+
+*
+
+Elerlyth took her time, and walked at a slow pace across the chamber. She turned back to look when she reached the tunnel and saw Ren step through a portal.
+
+Oh, Ren. Elerlyth thought. Please, be careful.
+
+Elerlyth turned and walked down the tunnel, and brought up the popups she had received when Ren had commanded her ability to open.
+
+Notice!
+
+You have been given a level up through your ability by The Unnamed King (Dark Elves). While you are a subject under his domain, you cannot refuse a direct order.
+
+Elerlyth ignored the other level popups and concentrated on the important ones.
+
+Notice!
+
+WARNING: Your ability Emotion Siphon has had it's limitations removed. Without it's limitations, you can easily kill with this ability if you are not careful.
+
+Notice!
+
+You have gained a new restricted ability: Emotion Death Level 1 (Beginner 0%). This ability allows you to drain emotions to the point of death from those that have a similar ability.
+
+WARNING: Your target will know it is you doing it, because it creates a temporary emotional link between you.
+
+Notice!
+
+Your ability Emotion Siphon has had it's limitations reinstated.
+
+I still can't believe it. Elerlyth thought. Ren is the Unnamed King of the Dark Elves.
+
+“Hey, thare.” Clint said, and Elerlyth was brought out of her thoughts.
+
+“Um, hi.” Elerlyth said.
+
+“Wha's up?”
+
+“We killed all the large ghouls in the factory.” Elerlyth said.
+
+“That's great!” Billy said.
+
+“Then we had to kill everyone in one of the cages.”
+
+“That... sucks.” Dillon said.
+
+“Ya don' seem ta be too shook up abou' tha'.” Clint said to her.
+
+“Why would I be? They were ghouls.” Elerlyth said. “We were about to come and get you when a group of Dark Elves showed up out of nowhere.”
+
+“Aw, man!” Tommy said. “We missed the big fight!”
+
+“We didn't fight.” Elerlyth said, and she felt their surprise. She didn't feed on it, though.
+
+“What happened?”
+
+“Ren made this tunnel thing in the ground. They fell in it, he closed it, and it shot them up to the ceiling.”
+
+“Whoa.” Hank said.
+
+“Most of them died, and I finished them off when they landed on the ground.” Elerlyth said. “Now I'm here to tell you to get healers trained in treating ghouls, if they have them in the town. If they don't have at least one...”
+
+“Tha othahs are gonna turn, too.” Clint said. “Dillon, Billy. Git to the town. Ask fer tha bes' healers they got.”
+
+“And a Clergy.” Elerlyth said.
+
+“Tommy.” Clint said, and he nodded. The three men mounted their Phantom Steeds and took off towards the town.
+
+“What can we do?” Hank asked.
+
+“There's not really anything we can do except wait.” Elerlyth said.

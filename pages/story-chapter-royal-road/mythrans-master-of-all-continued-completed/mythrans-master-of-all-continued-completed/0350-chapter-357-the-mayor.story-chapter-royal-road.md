@@ -1,0 +1,315 @@
+---
+id: 4648a445-8d8a-52ba-a354-b5a4cbaabad7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 357 - The Mayor"
+slug: 0350-chapter-357-the-mayor
+partOf: mythrans-master-of-all-continued-completed
+position: 350
+ownLength: 3261
+unit: words
+publishedAt: 2017-09-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160952/chapter-357-the-mayor"
+royalRoadId: "160952"
+---
+
+Ren dug underground for the entire hour to clear out space for the wheat. Since Patty told him that they had more wheat than they normally did, he knew they needed a lot more space to hold it all. He added supports and braces all along the space to ensure it wouldn't collapse, and he had dug down far enough that there wasn't a danger to the houses up above. He had made a dozen huge crates to fill with dirt and had them in the middle of the new storage room.
+
+Teepo? How fast were we going in the farm vehicle?
+
+“Pretty fast.” Teepo said. “We were doing 6 passes an hour.”
+
+I'm pretty sure if I went any faster, it would ruin the wheat. Ren thought. Or the farm vehicle.
+
+“Probably.” Teepo said. “What are your levels now, by the way?”
+
+I don't know. Ren thought. I dismissed the popups without looking at them. “Show info for Farming skill and sub skills.” He said and looked at the popup.
+
+Current levels for Farming:
+
+Farming Level 5 (Beginner 20%)
+
+Harvesting Level 5 (Beginner 20%)
+
+Raking Level 5 (Beginner 20%)
+
+Seeding Level 5 (Beginner 20%)
+
+Tilling Level 5 (Beginner 20%)
+
+That seems about right. Ren thought. 6 passes gave me the first level up to 2, and I've worked for just over 3 hours since then. He smiled. I can get a Beginner level every hour.
+
+“You know it's going to increase a lot when you get to the next stage.” Teepo said.
+
+Yeah. Ren thought. It'll probably be every 3 to 5 hours per level when I hit Intermediate.
+
+“Hey, down there!” A woman's voice said at the top of the ramp that Ren had dug. “It's been an hour! Are you done yet?”
+
+Ren equipped his Travelling Clothes for a moment, which stored his armor and cleaned it and himself, then equipped the armor again. He ran over to the ramp and went up it, to find Patty and several other women at the top of it.
+
+“I'm done digging.” Ren said. “I just have to add lights to the ceiling, then lay down planks to walk on and for the wheat to be stored off the ground.”
+
+“How much longer is that going to take?” Patty asked.
+
+“I'm not nailing the wood, so... maybe 5 minutes.” Ren said, and he saw her smug smile. She must think the place is tiny. He thought in amusement. “I'll be right back.”
+
+Patty crossed her arms to wait, and Ren ran back down into the new storage room and used his Air Walking wand to walk up close to the ceiling. He quickly strode around the room and added steel squares to the rafters and braces, and enchanted them with a glyph of 5 Illumination runes. He put them every 5 feet to make sure light would cover every inch of the room, then he took out a storage square and laid down wood planks all along the floor.
+
+Ren stored the 12 crates of dirt when he came to them, then kept laying wood down until he reached the ramp and stopped. If he put wood there without securing it, it would just slide down the ramp onto the floor. He thought about making a wooden ramp; but, he knew it would be slippery if people kept walking up and down it constantly. He left the ramp as bare dirt and walked up it to Patty.
+
+“There, all done.” Ren said.
+
+“Finally.” Patty said. “We've got a pile of wheat ready to be stored down there.”
+
+Ren stepped aside and motioned for her to walk down the ramp, and the others with her that carried bundles of wheat went down as well.
+
+“I thought you said you put up lights.” Patty said and looked around. Some light was coming down the ramp, but it wasn't enough to see by.
+
+“I wanted to make sure you were in far enough before I turned them on.” Ren said from beside her.
+
+“AhhH!” Patty and the other women let out a little scream and jumped. It had been Teepo's idea to activate Sneak and follow them, and Ren chuckled.
+
+“Activate.” Ren said, and all the Illumination runes on the ceiling lit up. It bathed the entire room with light, and he looked at their shocked expressions.
+
+“I know it's a little small.” Ren said jokingly, and the women gasped. “But I said I'd stop after an hour.”
+
+Patty stared at the huge room and didn't know what to say. It was 200 feet x 200 feet x 8 feet high. It was both cool and dry, and she knew that the wheat would last a very long time if it was stored there.
+
+“How did you do this in only an hour?” One of the women asked.
+
+“I kind of cheated.” Ren said, and they looked at him. “I made the ceiling the exact height of the support posts, so I just slid them into place and didn't have to cut them at all.”
+
+“What about the dirt?” She asked. “There's nothing outside.”
+
+Ren took out one of the huge crates full of dirt and they stared at it. “It's pretty heavy, but I stored it.” He said. “I'll dump it near the Main House in a few minutes.”
+
+“You... you're carrying this room's dirt?” She asked, shocked. “All of it?”
+
+Ren nodded. “I won't be carrying it for long, even though I could.”
+
+“You're amazing.” The woman whispered.
+
+“Only when I'm awake.” Ren joked and laughed; but, the women didn't laugh with him. “Well, I better go and drop off this dirt, then I'll keep harvesting the field.” He said and started to walk towards the ramp. “I've got about 3 hours left to work before I have to leave.”
+
+Neither Patty nor the women said anything to him, so he shrugged and left the underground storage at a fast walk.
+
+*
+
+“I can't believe this.” One of the women said as she put her bundles of wheat in the far corner. “How in the world are we ever going to fill this thing?”
+
+The woman who had asked if Ren could fly, dropped her bundles on top of the other woman's pile and shook her head. “We'll never fill it.” She said and looked at Patty. “I think that was his point.”
+
+“What point is that?” Patty asked.
+
+“Despite our expectations, he is going to meet and possibly far exceed them.”
+
+He did say he would give us everything we would need. Patty thought and looked around the room. We definitely needed storage space, but this...
+
+“Let's get the kids going.” Patty said, and the women nodded. “We can put Russell at the top of the ramp and he can run down here to store the bundles.”
+
+“Now that's a great idea.” One of the women said. “He hasn't stopped running since he got those boots!”
+
+*
+
+Ren ran out of the village, and waved to several people that waved to him. He took out the Haste wand and cast it on himself, then ran down the road to the Main House. He deviated from his path slightly and ran off into the field across the road from the Main House and took out the 12 huge crates. He thought about dumping them like he told Patty, then shrugged and left the crates where they were instead.
+
+Notice!
+
+You have carried an enormous amount of dirt for a considerable amount of time and over a large distance. If you were any weaker, this task would have been impossible for you.
+
+Strength: +5
+
+Endurance: +5
+
+Ren smiled at the popup, stored the dirt again, and ran halfway to the village, then ran back to the field across from the Main House and dropped the crates off again.
+
+Notice!
+
+You have carried an enormous amount of dirt over a large distance. If you were any weaker, this task would have been close to impossible for you.
+
+Strength: +3
+
+Endurance: +3
+
+So, the amount of time was a considerable factor. Ren thought, stored the dirt and repeated the process to end up back at the field. He dropped the crates off again and looked at the popup.
+
+Notice!
+
+You have carried an enormous amount of dirt over a large distance. If you were any weaker, this task would have been close to impossible for you.
+
+Strength: +2
+
+Endurance: +2
+
+Maybe if I run farther, I can keep the bonus up. Ren said, stored the crates and ran all the way back to the village, then back to the field.
+
+Notice!
+
+You have carried an enormous amount of dirt over a large distance. If you were any weaker, this task would have been close to impossible for you.
+
+Strength: +5
+
+Endurance: +5
+
+Ren looked down at his armor, thought about taking some of it off, and shook his head. I can play with this later. He left the crates of dirt where they were, cast Haste on himself, and ran back to the village to keep harvesting. He arrived at the field and saw the carry train was back in operation, then saw Falla wave to him. He waved back enthusiastically, then took out the farm vehicle. He got on, pedaled to charge it up, and went to work.
+
+It was getting easier to control the farm vehicle, but Ren didn't increase the speed. He knew if he went too fast that something bad would happen, and the last thing he wanted was to give his Trouble recipe anything to work with. For 3 hours he harvested and made 18 passes, and when he stopped, he gained 3 more levels in Farming and it's sub skills.
+
+Stat Change!
+
+Farming Level 8 (Beginner 0%)
+
+Harvesting Level 8 (Beginner 0%)
+
+Raking Level 8 (Beginner 0%)
+
+Seeding Level 8 (Beginner 0%)
+
+Tilling Level 8 (Beginner 0%)
+
+Only two more levels to go. Ren thought, and ran over to the village. The carry train had ended, and the kids were talking about how much fun they had that day. Ren slowed to a walk and heard that everyone looked forward to all the great bread and things the bakers would make with all the wheat they had gathered. Several people greeted him as he passed, and he greeted them back.
+
+Ren made his way to the storage space and went inside, and heard several voices down below.
+
+“That's good, Russell.” Patty said. “Keep the stacks straight.”
+
+“I know how to pack wheat bundles, Miss Patty.” Russell said.
+
+“I know you know.” Patty said. “I'm just reminding you that you know.”
+
+“I know that you know that I know.” Russell said, then stopped. “I think.”
+
+Patty chuckled. “Just hurry up, or you're going to be late for supper.”
+
+Ren walked down the ramp and saw that Russell and a couple of women were stacking the last few bundles of wheat from the carry train, with Patty managing and directing their movements.
+
+“There!” Russell said. “It's done!”
+
+“This load is done, you mean.” The short woman standing next to him said. “There's a whole lot more to gather tomorrow.”
+
+“We're doing it again tomorrow?” Russell said happily. “I can use my boots again!”
+
+“Only if you like running.” The woman said as she hugged the boy who was a head taller than her, and Russell laughed.
+
+“Try and stop me!” Russell said when she let him go, and he took off running. “Hey, mister!” He said as he passed Ren, then ran up the ramp and out of the storage area.
+
+“I don't know whether to thank you or curse you for giving him those boots.” The woman said and walked over to him. She was only a couple of inches taller than Ren's 4 foot 7, had wavy brown shoulder-length hair, and a curvy body.
+
+“I'd gladly accept the thanks, Ma'am.” Ren said and smiled at her. “I'd rather not know if you curse me for it, though.”
+
+The woman laughed and held a hand out to him. “I'm Russell's mother, Ramona. It's nice to meet you, My Lord.”
+
+“The pleasure is all mine, M'Lady.” Ren said as he took the offered hand and kissed the back of it. Ramona smiled sweetly at him. “So, that wasn't just a rumor Gemma started.”
+
+“What rumor is that?” Ren asked.
+
+“That you treat every woman like she's a high class lady, even if you don't know them.”
+
+Ren smiled. “Just because I don't know them, doesn't mean they're not ladies.” He said. “I'll treat them the same, even if they prove to be otherwise.”
+
+“So gallant.” Ramona said and squeezed his hand affectionately. “I assume at least one of those rings on your fingers means you're taken.”
+
+“Please accept my humble apology.” Ren said. “I am unavailable.”
+
+“That's too bad.” Ramona said and leaned in close. “Russell's father passed away a year ago, and since then you're the first man I've met that is shorter than me.”
+
+“I'm terribly sorry for your loss.” Ren said. “Was he a good farmer?”
+
+“Absolutely not!” Ramona said and laughed. “He couldn't tell a rake from a plow!”
+
+Ren chuckled, and the other woman spoke.
+
+“Are you done trying to seduce the poor man?” She asked.
+
+Ramona laughed again and let Ren's hand go.
+
+“Hi, I'm Betsie.” She said and held her hand out to him. She was about a foot taller than Ren, and he had to look up to see her face. She was pretty thin, and had long and straight blonde hair. “Unlike my friend here, I'm just greeting you.”
+
+Ren chuckled, took her hand, and kissed the back of it. “It's a pleasure to just greet you, too.”
+
+Betsie smiled at him, and he let her hand go.
+
+“You better get going.” Patty told them. “It's getting close to supper time.”
+
+Betsie nodded. “We'll see you tomorrow.” She said and put a hand on Ramona's arm. “Let's go. Russell isn't going to feed himself.”
+
+“He could if he wanted to.” Ramona said and they started to walk away. “He can reach the cupboards easier than I can.”
+
+Betsie laughed and the two women left the underground storage area.
+
+“You should go, too.” Patty said to Ren, and he looked at her. “You've wasted enough of your time here with us country folk.”
+
+“Do you really believe that?” Ren asked her, but she didn't respond. “I'm not wasting my time.” He said. “It's true that I could be doing other things; but, that doesn't mean I'm wasting time.”
+
+“But...”
+
+“Look, I'm going to do what I can for this village and for this county.” Ren said. “I'm going to do it no matter what you say in the next few minutes.”
+
+Patty looked at him, and a frown started to form on her face.
+
+“I'm going to do my best to make this the best place to live.” Ren said. “You've got a great community here. You work together, you share everything, and I like that. I like it a lot.”
+
+Patty's frown smoothed out to a straight line. “You really mean that?”
+
+Ren nodded. “I like what you've done here so much that I want to offer you the job officially.”
+
+“Wh-what?”
+
+“Miss Patty, I want you to be the Mayor of Goagan City.”
+
+“Did... did you say Goagan City?”
+
+Ren nodded again. “I told you I'm upgrading the housing and that I'm going to build a lot of things.” He said and smiled. “I'm going to need you to keep doing what you're doing, and make sure everyone is happy.”
+
+“But...”
+
+“I know it's a lot to ask, especially with all the changes that are going to happen.” Ren said. “I'll be coming back here tomorrow to build a few things, so I won't be harvesting.”
+
+So, old Casper was right. Patty thought. He isn't man enough to stick around and finish the field.
+
+“Depending on how long that takes, I probably won't get back to harvesting until the day after that.” Ren said. “I'm tempted to postpone it, though.”
+
+“Why?”
+
+“I really want to finish the outer wall of the barricade.” Ren said. “If I take my time with it and make each section complete, I might have it done in 4 days; but, rather than do each section like I did before, I can try to run faster and only do a little bit at a time on each pass.” He smiled. “If I'm concentrating on a small area using the Staff of Earth, it shifts really fast.”
+
+“What are you talking about?” Patty asked, and Ren chuckled.
+
+“It's nothing you have to worry about.” Ren said. “I'll figure it out.”
+
+“But...”
+
+“Do you want the official job that you're already doing anyways?” Ren asked her.
+
+“I... you...” Patty said. “Dammit, yes.”
+
+“Excellent!” Ren said and took her hand. He shook it, and he saw her face twitch when he didn't bend over to kiss it. “If you can wait for just a second? I'll add you to the roster.”
+
+“The what?”
+
+Ren opened the land owner menu and looked at Goagan Village. He chose the 'make new village' option and selected a large area around the Main House. He entered the new name of Goagan City, and picked the option for expansion. He wasn't sure if that meant new people could come in, or if the villagers could have more kids; that is, until the next window asked if people needed approval to move there.
+
+Ren chose yes, because he was pretty sure that Patty didn't want just anyone moving there. He added Patty as the Mayor, gave her access to the administration part of the Main House and assigned her the office there, then added everyone he knew would be living with him as residents.
+
+*
+
+Patty felt the key form around her neck, and she looked down at it. It was gold in color and had an 'M' etched on it. She didn't say anything, because she could still see Ren was working on something.
+
+*
+
+Ren had a pretty good idea where Elerlyth's cottage was, and marked a 1 mile circle around the spot and made it a restricted zone. He'd ask her where it actually was later, and could make sure to cover her place with it. He knew she wanted to be left alone, and that was the best way to give her that privacy.
+
+“What's this?” Patty asked when Ren stopped typing in the air and looked at her. “It looks like my farm house key, but...”
+
+“You're the Mayor.” Ren said. “You can enter any building within the city limits.”
+
+“But...”
+
+“Your office is on the ground floor of the Main House.” Ren said. “There's also a meeting room and a workshop upstairs. My apartment is there, too; but, your key won't open that part.”
+
+Patty stared at him.
+
+“You should have a Mayor menu available now.” Ren said. “If there's an option for it, you should add the town council as your advisors and counterparts.” He smiled. “I think I'll take your advice and head out now.” He said and took her hand. “I've got to get back for supper.”
+
+Patty was too surprised by everything to react when Ren bent over her hand and kissed it.
+
+“I'll see you tomorrow.” Ren said. He let her hand go, ran over to and up the ramp, then went outside. More people greeted him and he greeted them back; then he cast Haste on himself and left the village at a run.

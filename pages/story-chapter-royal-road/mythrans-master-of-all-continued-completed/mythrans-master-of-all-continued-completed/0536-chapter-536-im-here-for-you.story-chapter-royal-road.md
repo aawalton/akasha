@@ -1,0 +1,259 @@
+---
+id: 33b32977-82fe-58b8-bf7f-80a8ee967b1c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 536 - I'm Here For You"
+slug: 0536-chapter-536-im-here-for-you
+partOf: mythrans-master-of-all-continued-completed
+position: 536
+ownLength: 2874
+unit: words
+publishedAt: 2018-03-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203388/chapter-536-im-here-for-you"
+royalRoadId: "203388"
+---
+
+Billy had watched the respawn timer count down and waited impatiently to get back online. He had thought up a great excuse to give to Jennifer so she would forgive him, and had even found a present to give her. He had considered letting her tie him up for a few minutes as an apology while they had sex, then dismissed that ludicrous idea.
+
+She gets enough of her kink at work. Billy thought. She doesn't need me to do that, too.
+
+That was quite the selfish delusion on his part, considering Jennifer wanted to share all of herself with the man she chose to be with, and not just the parts he liked or could stomach.
+
+When the timer hit zero, Billy took a deep breath and let it out. “Flow Login Start.”
+
+********
+
+Billy materialized in Clint's living room and was grateful that his friend had 12 foot tall ceilings. He checked his messages and saw he hadn't received any at all for the time he had been offline. He looked around and saw the place was empty, and realized he must have just missed them. He ran outside and didn't see any dust or anything, and used his Spot ability to try and see if they had gotten far.
+
+When that didn't work, he activated his new Track ability and examined the driveway. He found the cart and horse tracks and saw they were half an hour old. He smiled and ran over to the barn and kitted up one of Clint's fastest horses, then activated his Swift Elven Steed ability as he mounted it. The horse changed into a more appropriate size for him to ride safely, which increased it's Strength and Speed, and Billy flicked the reins.
+
+If he hurried, he could catch his friends just as they arrived at the club.
+
+*
+
+Ren entered his apartment again and Frikara and the other maids lounged on the bed, each wearing their chosen sexy outfits. His eyes drank in the lace, the see through cloth, the cute frills, the peekaboo cuts, and the luscious bodies they contained.
+
+“By the gods, I'm the luckiest man in this world.” Ren said as he took off his Dire Wolf Hooded Cloak and folded it up on a chair beside the bed. Instead of storing the rest of his clothing like he normally did, he did the 'tearing them away' trick. He gripped the sides of his shirt and tunic and pulled, and tore it into shreds. He felt the surprise from the maids, then felt their desire as he did the same to his pants and revealed that he was quite ready to please them. He stored the shreds of cloth to give to Zetaya and climbed onto the bed.
+
+Ren spent exactly 18 minutes with each of them, and while joined with them, increased their emotional bond. The Light bond he had formed with them to remove their contracts became stronger than ever before. As he lay with each one, he whispered in their ear the same thing he said when he broke those contracts.
+
+“Give me a powerful child.” Ren said as he finished inside them, and because of the dwarf culture to procreate with strong men, it flipped their switches and gave them the highest form of ecstasy they didn't realize they craved almost as much as they craved him.
+
+With the hour and a half used up exactly, Ren kissed each of them passionately and covered them with a blanket, then equipped a sleek armor bodysuit similar to the one he had given Lara and equipped his blue suit on top of it.
+
+“I might not be back until morning.” Ren said.
+
+“We might... be recovered... by then.” Frikara said dreamily.
+
+Ren caressed her cheek for a moment and left the apartment. He thought about deactivating his Auras, then decided not to because he wanted everyone to know that he was coming. He walked over to the warehouse and Artemis came out to meet him.
+
+“I should say I feel bad having to bring you along all the time, but I don't.” Ren said as he took her hand. “You've become a security blanket for me.”
+
+Artemis chuckled. “Does that mean I should wrap myself around you and keep you warm?”
+
+“Only if you want to.” Ren joked.
+
+Artemis let his hand go and climbed onto his back, then wrapped her arms and legs around him to hold him tightly. “How's that?”
+
+“It feels like I'm wearing a sexy backpack.” Ren said, and she laughed. He walked up the street to the club and saw there were already several horses in the parking lot, and he was glad that they were getting lots of business.
+
+“Do you want me to go into the club with you?” Artemis asked as he approached the front door.
+
+“It wouldn't be nice of me to make you stand outside.” Ren said. “Plus, I would rather have you by my side in case anything happens, rather than wait for you to come in.”
+
+“What about a disguise?”
+
+“You can use one if you want to.” Ren said. “Either way, you are going to draw attention.”
+
+Artemis nodded and hopped off his back. “Give me the female version of your blue suit.”
+
+Ren cast Full Illusion on her and gave her a matching suit, and when they reached the front door, it opened without him touching the Sending Square.
+
+“Good god, what have you been doing?” Gina asked. “I felt your Aura down the street!”
+
+“Is it a good feeling or a bad feeling?” Ren asked, and she chuckled.
+
+“It's a powerful feeling.” Gina said. “Who's your lady friend with the red metal hair?”
+
+“Gina, this is my ranged combat specialist familiar, Artemis.”
+
+“That's a mouthful.” Gina said and held a hand out to shake. “Hi, Artemis.”
+
+“Hi, Gina.” Artemis said and shook her hand. “Is Jennifer around?”
+
+“She's upstairs getting ready.” Gina said. “I'll send for her if you want.”
+
+“Thanks.” Ren said, and reached out to touch her arm. “When you get a few minutes to spare, can you come to my booth?”
+
+“Hey, now.” Gina smiled. “You know I'm retired.”
+
+Ren smiled back and held up a placating hand. “I only want to talk.”
+
+“All right, I'll come over before the main show starts.” Gina said.
+
+“Who's up first?” Ren asked.
+
+“Candy and Apple.” Gina said. “They've been practising, so they aren't as out of breath at the end like usual.”
+
+“Nice.” Ren said. “That was a great routine.”
+
+Gina nodded. “You've got your choice of booths this early.” She said and waved to the section. “I'll have Jennifer bring you a drink.”
+
+“Thanks.” Ren said, then took out a gold coin and shook her hand.
+
+“Ren.” Gina looked at the coin.
+
+“Do you want me to give you a hundred silver coins instead?” Ren asked.
+
+Gina shook her head and chuckled. “Go on, get.”
+
+Ren walked over to the booth section and sat down. It was the one furthest from the door, and it gave him the best view of the entire club.
+
+“Keep an eye out for Billy.” Ren whispered. “If my calculations are right, he should be here soon.”
+
+Teepo chittered in acknowledgement and Artemis nodded. With his friends keeping watch, Ren took out the All-Seeing Mirror and asked to see Yllana. He saw her as she lay across her bed, with only a clear robe on. One of her hands caressed the soft mounds of her breasts while her other hand rubbed her special place. She was pleasing herself in bed yet again, and it turned Ren on. He suspected she knew he was watching her, because she opened her eyes and looked up at him as her hands moved faster.
+
+“Hi, Ren!” Jennifer said as she put his drink on the small table in front of him, and Ren showed her the mirror. “Oh, my.”
+
+“Why don't you order up a couple of meals for us.” Ren said and stood up as he stored the mirror. “I just have to step out for a few minutes.”
+
+“But...”
+
+“I'll be back by the time the food is ready.” Ren said. “Teepo.”
+
+Teepo dissolved into the ring and Ren cast the Portal spell. Jennifer gasped at the sight, because she had never seen anything like it before. Ren took Artemis' hand and they went through the portal together. Jennifer stared at the spot as the portal disappeared.
+
+Ren summoned Teepo on the other side and dismissed the Portal spell, and Yllana's mouth dropped open in shock.
+
+“R-Ren!” Yllana gasped.
+
+“I thought you might need a hand... or a tongue.” Ren said, and she nodded vigorously.
+
+“Who's your friend?”
+
+“Artemis is my ranged combat specialist familiar.” Ren said and knelt by the bed and pulled Yllana over to the edge of it. “I don't go anywhere without her now.”
+
+“I... I do enjoy... having an audience.” Yllana said as Ren started to please her with his mouth. She and Artemis locked gazes, and it didn't take long for Yllana to finish once Ren added a couple of fingers to the mix. It was a bit more powerful than normal for Yllana, because it was the first time she had seen the audience in person, and it left her a little breathless.
+
+“Great... Vasalor.” Yllana panted. “You... you are...”
+
+“Has Allynna arrived yet?” Ren asked and stored his clothing and new armor bodysuit, and Yllana gripped him firmly as she went down on him. She mumbled incoherently as she pleased Ren, and he waited until she was done pleasing him before he asked her again.
+
+“Her... caravan... arrived an hour ago.” Yllana said, and Ren cleaned her off with a piece of cloth. “She's staying for a few days.”
+
+“Good.” Ren said. “I'll try and visit tomorrow afternoon. I've got to visit the Human Kingdom's King Alamast first thing in the morning.”
+
+“You know so many powerful people.” Yllana said. “You're amazing.”
+
+Ren smiled and leaned down to give her a kiss. She took it greedily and stroked his special place several more times to get him to finish again. He could have fought the feeling, now that he had full control over himself; but, he gave her what she wanted instead. Yllana gasped as he finished and the warm fluid bathed her chest.
+
+“So amazing!” Yllana said, her voice full of wonder, and Ren ran a hand through her hair as he handed her the cloth to clean up.
+
+“I have to go.” Ren said as he equipped his special armor bodysuit and blue suit, and she nodded. Yllana didn't try to clean herself off as she watched Ren cast another Portal spell. Artemis waved to her and she waved back, Teepo dissolved into the ring, then Ren and Artemis stepped through the portal and it disappeared.
+
+Ren stepped out of the portal with Artemis and summoned Teepo again, dismissed the portal, and cast the spells needed for Teepo to get a solid body again. Jennifer stood there with her mouth hanging open, and Ren felt her utter shock.
+
+“Hey, easy now.” Ren said and took her hand. He sat her down in the booth and she looked at him with wide eyes.
+
+“You disappeared.” Jennifer said. “Just poof! Gone!”
+
+Ren sat beside her and pat her hand.
+
+“Then poof! You came right back!” Jennifer said. “I... I can't believe it.”
+
+“I'm sorry, I didn't think it would surprise you so much.” Ren said and glanced at Artemis, who left the booth and went to the kitchen to get the meals he asked for. “I've had the spell for a while. I just never used it before.”
+
+“I suspected it was possible, considering I've heard of you travelling from here to the dwarf kingdom through one... but... I mean...”
+
+“Hey, it's okay.” Ren said and put an arm around her shoulders and held her hand. “It's a powerful spell, and I was a bit too nervous to try it before.” He smiled. “Now I know what it can do.”
+
+“Wh-what do you mean, before?”
+
+“I've had a revelation of sorts.” Ren said. “Something happened to me in real life, and it made me realize a few things.”
+
+“Like what?”
+
+“Like I don't have to pander to the people that run things in this game.” Ren said. “All I can do is give my opinion, help those that deserve it, then let them destroy themselves if they want.”
+
+Jennifer blinked her eyes a few times. “Wh-what?”
+
+Ren chuckled. “Sorry, I'm a bit maudlin as I think about the High Elves and the ghoul infestation, and about the Human Kingdom and their impending war with the Sea Dwellers.”
+
+“WAR?!?” Jennifer yelled, and several people turned to look at her.
+
+“I guess word of it hasn't spread this far from the capital yet.” Ren said. “The Sea Dwellers asked for peace, then gave an ultimatum to the Human Kingdom to move their shipping from the Sea Dweller's holy sites or it would be forcefully removed.”
+
+“Wh-when is the deadline?”
+
+“Teepo?”
+
+“Three days.” Teepo said, and Artemis came back to the booth with the food.
+
+“Oh, no.” Jennifer said. “We... we have to tell everyone!”
+
+“Tell them what?”
+
+“There's going to be a war!”
+
+“There's already one being waged right now against the ghouls.” Ren said and took out the All-Seeing Mirror and asked it for the ghoul situation in the Human Kingdom. “Look.” He said and showed her all the spots where ghouls were, and the humans fighting them. “If they stop fighting the ghouls, they'll be overrun.”
+
+“But...”
+
+“I'm going to the King in the morning to ask him and the kingdom's representatives about it.” Ren said. “I want to see their reaction when they have to choose between which war they want to fight.”
+
+“Ren.” Jennifer frowned. “What's gotten into you?”
+
+“I warned them three months ago about this, Jennifer.” Ren sighed. “I even brought the Sea Dweller's Ambassador to the Land Dwellers to see the king, and gave him proof that all the Sea Dwellers wanted was peace. They don't want to fight anymore.”
+
+“Then why...”
+
+“Stubbornness, of course.” Ren said. He had felt several people enter his Aura the whole time he had been there, and hadn't paid it much attention.
+
+“Ren, there's Clint and the guys.” Teepo said. “I don't see Billy.”
+
+“Billy? What about him?” Jennifer asked, and her body tensed up a little.
+
+“His reset timer expired and he should have logged back in by now.” Ren said. “That's why I'm here, remember? To be the friend you need when he shows up.”
+
+“Are you going to stick around all night to wait? He might not show up at all.”
+
+“I would stay here all night, tomorrow, and the next day.” Ren said. “I don't think that will be necessary, though.”
+
+“Why not?” Jennifer asked, curious.
+
+“Because he'll want to beg for your forgiveness right away.” Ren said. “If he delays or wastes time and you don't forgive him when he asks, he will always wonder if it would have made a difference if he had done it sooner.”
+
+“That sounds like experience talking.” Jennifer said and turned her hand over to hold onto his, and she saw his sad smile.
+
+“Ah don' believe it.” Clint said. “It didn' take long fer ya ta move in an' claim 'er, did it?”
+
+Ren looked up at Clint and gave him a genuine smile. “I'm just here as a friend.”
+
+“It shore don' look like it.” Clint said, and motioned to Ren's arm around Jennifer's shoulder and at their clasped hands.
+
+“It's called 'comforting a friend'.” Ren said. “I gave her a bit of a shock before you came in, and we were talking about that and other things.”
+
+“Tha's a lie.”
+
+“I could have claimed to be her client for tonight, but everyone knows I'm a terrible liar.” Ren chuckled. “Why would I start lying now?”
+
+“She's not your girlfriend, man.” Tommy said. “You shouldn't hang over her like that.”
+
+“I believe Jennifer is the one who can choose who does what with her.” Ren said. “Which reminds me. Where's Billy?”
+
+“He hadn't logged back in before we had to leave to get here when the place opened.” Hank said. “Have you seen Ginger around?”
+
+“No.” Ren said and looked at Clint. “Rather than wait for your friend, you left and went partying without him?”
+
+“It's not yer place ta judge...”
+
+“Even though you don't know what he did, you still left him to get here on his own.” Ren said. “I wonder...” He tilted his head slightly to the side. “You must have done it on purpose.”
+
+“Ah did no such thing!” Clint said, and Ren noticed the girl on Clint's arm as her face went slightly red, then saw Tommy's girlfriend's face as it matched.
+
+“I see.” Ren said. “So you do know.”
+
+“This ain' tha place ta talk about stuff like this.” Clint said.
+
+“It's going to have to be.” Teepo said. “Billy just came in.”
+
+Ren took his arm off Jennifer's shoulders and let her hand go, and Clint and his group turned to look at the High Elf that stalked towards them.

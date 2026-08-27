@@ -1,0 +1,469 @@
+---
+id: 85e972da-3823-590f-a4c7-6072c08eafd5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 164 - Remember Me?"
+slug: 0150-chapter-164-remember-me
+partOf: mythrans-master-of-all-continued-completed
+position: 150
+ownLength: 4207
+unit: words
+publishedAt: 2017-02-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117642/chapter-164-remember-me"
+royalRoadId: "117642"
+---
+
+It took about 2 hours for Ren to get back to a part of the road that he recognized. Unlike the horse, he could run a lot faster and didn't have to stop and rest if he kept himself at a good pace. He detoured into the forest to the springy tree grove, and was surprised that there was no evidence that he'd taken any of the trees from the last time he'd been there.
+
+I think this grove regenerates. Ren thought. With his Strength so high, it only took 2 chops (one on each side) to cut through the 6 inch thick springy trees. He laughed as he harvested nearly half of the grove over the next hour. Ren ended up with 5 inventory slots full, with 995 trees, and had leveled his Chop skill to Intermediate Level 9. When he stopped to think about the math, he realized if he chopped down another hundred trees, he would level the skill to Advanced. He took another 7 minutes, because the trees were a little farther apart, and got the popup he wanted.
+
+Stat Change!
+
+Chop Level 1 (Advanced 0%)
+
+Ren looked around and smiled. I'm really tempted to keep going, but I have to get back to the city. He took off running and was back at the road in no time, then ran towards the city of Aurora. Since it was a 3 hour walk to the grove, he ran the distance in just under half an hour and stopped at the West Gate. He quickly made 2 comfy chairs, then ran through the gates.
+
+I don't know why there's still no guards at the gates. Ren thought. You'd think after last night, there would at least be one lookout.
+
+“Maybe they're short-handed?” Teepo offered.
+
+They are playing those war games with King Alamast. Ren thought. I'm surprised the Captain of the Guard didn't hire new people.
+
+“If any of them were around to see what happened last night, they might not want to get hired.” Teepo chittered in laughter.
+
+A few minutes later, Ren was back at his business and went inside. He didn't see Anabelle, so he went upstairs to the apartment. He saw she was asleep on the couch, and didn't want to disturb her, so he shut the door and crept back downstairs.
+
+I might as well go and see if the Refugee Center is finished. He thought, and left the business to run up the street and over to the Housing District. When he got there, he was amazed as a 2 storey building, the entire length of the district, stood before him. He ran to the street on that side, and saw Jen standing there. The couch was missing, however.
+
+“I was just about to come over and see you.” Jen said. “The crew is finishing up the interior walls.”
+
+“What about the furniture?”
+
+“It'll be delivered over the next couple of days.” She said. “We had enough in stock for a single house, but this...” She waved at the monstrosity. “...is going to take a while.”
+
+“As long as part of it is livable right now.”
+
+Jen nodded. “We furnished the end with the living room and kitchen.”
+
+“That's great.” Ren said. “I hope she likes it.”
+
+“Who?”
+
+“My maid.”
+
+“You bought half of the District for the MAID?”
+
+Ren laughed. “No, she's just going to be staying here until I can get a house built in my County.”
+
+“Oh. That's okay then.”
+
+“It's a Refugee Center. People are going to be living here.” Ren said. “If I pay a little extra, can the crew put a rush on the beds?”
+
+Jen raised her eyebrows.
+
+“The mansion is full of people without somewhere to stay. I'd like to get them over here as soon as possible.”
+
+“You don't need to pay extra.” Jen said, and sighed. “We have to do it anyways; but, I was going to start work on the repairs for the city first.”
+
+Ren took out the 2 comfy chairs he'd made and put them beside each other, facing the Refugee Center. “Please, have a seat and fill me in about the situation.” He sat in one, and Jen reluctantly sat in the other. She relaxed when her butt hit the comfy surface, and she smiled as she crossed her long legs.
+
+“Did you get the assessment back?” Ren asked as he looked at the Refugee Center.
+
+“About half an hour ago.” Jen said. “Thankfully, some of the damage was superficial. The survey crew said some of it looked weird, though.”
+
+“Weird how?”
+
+“Like the fire had crawled across the surface of the wood, left scars, but didn't burn it.”
+
+That was me. Ren thought. “I wouldn't worry about that.” He smiled. “As long as the damage was minimal, it should be easy to fix.”
+
+Jen nodded. “Even with that, it's...” She sighed. “The townspeople will take years paying for it.”
+
+Ren took her hand and held onto it, then continued to look at the Refugee Center. “Tell me you haven't submitted the assessment yet.”
+
+Jen looked at the hand he held, then at him. “I shouldn't tell you.” She said. “You're an Adventurer. You won't be staying here.”
+
+Ren smiled. “I built a business here. I'll be opening the storefront soon, with all new products for sale.”
+
+Jen used her free hand to stroke the fabric of the chair. “I don't think people can afford your merchandise.”
+
+Ren chuckled as he looked at her. “You mean the chairs?”
+
+Jen nodded.
+
+“I was thinking a silver coin each.”
+
+Jen's mouth dropped open. “But... but... they look so expensive!”
+
+Ren smiled. “That's one of my skills.”
+
+“You're crazy to sell them so cheap.”
+
+“I've been called crazy a lot.” Ren laughed. “But that price covers the materials and the labor.”
+
+“With no markup?” Jen shook her head. “You shouldn't under-sell yourself.”
+
+“This is just to get people in the door.” Ren grinned. “Then they can see the expensive things.”
+
+“Ah!” Jen grinned back. “Door-busters.”
+
+“Bingo.” Ren said. “With some of the things I can offer, these chairs are just chicken feed.”
+
+“All right.” Jen said, then looked around. No one was there, so she turned back to him and leaned in close to whisper. I can't wait to see his reaction! She thought.
+
+“The assessment was nearly 300 platinum.” She waited anxiously for his outburst, that never came. He's not surprised in the least! She thought, surprised by his non-reaction. He... he didn't tense up... or twitch... or anything!
+
+“Is that all?” Ren asked, and Jen's eyes widened. “Can I pay you for it now?”
+
+“Wh-wh-wh-WHAT?!?”
+
+“Shh! We're supposed to be discussing this quietly.” Ren grinned at her.
+
+“You're serious!” Jen gripped his hand tightly. “You can't be serious!”
+
+“Why not?”
+
+“But... but...” Jen took a deep breath, then relaxed. “You'd really pay for it. You'd pay for it all?”
+
+“Sure.” Ren said.
+
+“You really are crazy.” She said. “To spend so much...”
+
+“It's only money.”
+
+“They'll never be able to pay it back.”
+
+Ren laughed. “I don't remember saying it was a loan or anything.”
+
+“Okay, now I know you're pulling my leg.” Jen let his hand go, then stared at him. “It's not nice to tease a woman like that.”
+
+Ren turned away from her and took out a red coin pouch, and shoveled handfuls of platinum coins into it. He examined it several times, and when he hit 300 platinum, he stopped and pulled the red coin pouch closed. He turned back to Jen and smiled.
+
+“I never tease a woman about serious things like this.” Ren said and handed Jen the coin pouch. She stared at it, and then at Ren.
+
+“You... you...” Jen swallowed audibly. “You didn't... you can't!”
+
+Ren stood up. “I hope you enjoy the chairs.”
+
+“W-wait.” Jen said. “I... I...” She looked at him. “Why are you doing this?”
+
+“I care about what happens to people.” Ren said. “If I can help, then I will.”
+
+“Ren.” Jen said. “This... this...” She shook her head. “You'll never have to pay for anything you order from me ever again.”
+
+“What if I ordered two hundred thousand planks, and wanted to hire a dozen crews to build 600 houses, starting tomorrow?”
+
+Jen's mouth dropped open in shock, and Ren laughed.
+
+“Please be more careful about what you offer.” Ren said. “I could abuse your gratitude so much that your business would be run into the ground before you knew it.”
+
+“You're right.” Jen said and sighed. “Making an offer like that was a mistake.”
+
+Ren nodded.
+
+“A discount, then.” She said, and Ren shook his head.
+
+“You're going to be too busy to do anything, for anyone, over the next... what? Two weeks or so?”
+
+Jen nodded.
+
+“I'd suggest training up another crew or two, to help with all the work.” Ren said. “Not to mention you should double, or even triple, the tree harvesters you have.”
+
+“That's a good idea.” Jen said and stood. “Thank you, Ren.”
+
+Ren waved her thanks away. “It's no trouble.”
+
+“You just gave away 300 platinum, that you'll never get back or see again, and it's no trouble.” Jen laughed. “What in the world do you class as trouble?”
+
+“Believe me...” Ren grinned. “...you don't want to know.”
+
+Several workers came out of the Refugee Center and Jen turned to them.
+
+“Good work, everyone!” Jen said, and the crew congratulated themselves.
+
+“Ren!” An 18 year old girl, only slightly taller than him, with red hair styled just like his, pushed through the other workers and ran over to him. She gave him a big hug, and Ren hugged her back.
+
+“Hi, Jhulune.” Ren said. “Long time, no see.”
+
+“Not really.” She said, and let him out of the hug. “I saw you last night.”
+
+“You did?” Ren asked. “I don't remember seeing you.”
+
+“You were a little busy using that... whatever it was... to take out those looters.”
+
+“You were in the town square?”
+
+Jhulune nodded. “I had my eyes covered for most of it, though.”
+
+“I didn't think...” Ren said, shook his head, and took her hand. “I'm sorry if it was too violent for you.”
+
+“It wasn't too violent for me.” She laughed, and squeezed his hand. “It was too violent for my mother. It was her hands covering my eyes.”
+
+Ren grinned. “I'm glad she at least tried to protect your tender sensibilities.”
+
+Jhulune snorted a laugh. “She had her own eyes shut the whole time, too.”
+
+“Ahem.” A guy coughed as he came through the crowd to stand beside Jhulune. He looked down at Jhulune and Ren's clasped hands, and tried not to frown.
+
+“Brian!” Jhulune turned to look at him, but kept a hold of Ren's hand. “This is Ren.” She said. “He's the one that saved us last night!”
+
+“I know who he is.” Brian said. “I was at the ceremony this morning, too.”
+
+“A Knighthood!” Jhulune said, and turned back to Ren. “It's going to be so neat seeing you forming ranks with the regular soldiers!”
+
+“What?” Ren asked.
+
+“You got a commission in the army. That's what a Knighthood means.”
+
+“Really?”
+
+Jhulune nodded. “It's a parcel of land given in exchange for service to the King.”
+
+“Why that sneaky little basta-.”
+
+“REN!” Jen shouted, and Jhulune laughed.
+
+Ren glanced at Jen. “Sorry.”
+
+“No, you're not.” Jen said, and he grinned.
+
+“Not a bit. He was getting rid of me.”
+
+“Why would he do that?” Jhulune asked. “You just saved the city, and nearly everyone in it!”
+
+Ren looked back at Jhulune. “You just answered your own question.”
+
+Her eyes widened. “No way!”
+
+Ren nodded. “Out of sight, out of mind.” He said. “It was my name the people were chanting last night and this morning, not his.” Ren smiled. “I'm going to assume he doesn't want anyone to realize that he had put you all in danger last night, by not letting you into the mansion.”
+
+Jhulune's mouth fell open, and Ren chuckled.
+
+“I wouldn't have had to come and save you at all, if he hadn't locked the mansion up.”
+
+Jhulune shook her head. “How did you know to come, then?”
+
+“I didn't.” Ren said. “I had been rescuing people for a while, then ran out of space at my business to hold them. I went to the mansion to see if they could take them in.”
+
+“Wow.” Jhulune said, and started to shake. Ren moved her over to one of the chairs and sat her down. She still had a hold of his hand, and squeezed it tightly. “Thank you.” She said, as a tear came to her eye. “Thank you so much!”
+
+Ren gave her a piece of cloth to dry her eyes. “It's okay.” He said. “I got there in time.”
+
+“But if you hadn't shown up... we... I...”
+
+“Don't think like that.” Ren said and knelt in front of her. “I did make it. I did get rid of the looters. I did stop the fire before it took everything.”
+
+Jhulune took a deep breath, and nodded. “And now you've given me somewhere to sleep.”
+
+Ren's eyes widened. “Your house?”
+
+She nodded. “We got out in time; but, it's pretty much gone.”
+
+Ren looked at Jen. “Can you rebuild her house first?”
+
+Jen nodded, and Ren grinned.
+
+“You won't have to stay here for long.” He told Jhulune.
+
+“W-w-what do you mean?”
+
+“She's already had quite the shock, Ren. Do you think she can take another?” Jen said. “I'm still reeling from it myself.”
+
+Ren smiled. “This will be a good shock, though.”
+
+“What?” Jhulune asked, and gripped Ren's hand tighter. “What is it?”
+
+“I've already paid for the repairs to the city.” Ren said, and nearly everyone gasped.
+
+Jhulune was barely coherent as she spoke. “Wh-w-wh-w-wh-what?!?”
+
+“I came into a lot of money recently, and took a wild guess about how much it would cost to fix everything.” Ren said. “I gave it to Jen just before you came out, and she said it was enough.”
+
+“You can't be serious!” Jhulune said. “That's... that's...”
+
+“300 platinum coins.” Jen held up the coin pouch. “A little bit over what the survey crew told me.”
+
+“OH MY GOD!” Jhulune hollered, and in one swift motion pulled on Ren's hand that held hers, wrapped her free hand around his neck, and kissed him. Ren looked at her in surprise as nearly everyone gasped again, and Brian got over the shock of that much money after a few seconds.
+
+“Hey!” Brian exclaimed, and Jhulune broke the kiss.
+
+“Sorry, Brian.” Jhulune said, and blushed. “I had to thank him for buying me a house!” She looked at Ren. “I had to thank you for buying half of the city a new house.”
+
+Ren still had his lips slightly puckered, then he smiled. “You're quite welcome, Jhulune.”
+
+“I bet that was the most expensive kiss in history!” One of the crew said.
+
+“Yeah.” Another said. “I wonder if it was worth it?”
+
+“Shut it!” Brian said, as he turned to face the two guys who spoke. Ren stood up and pulled on Jhulune's hand to get her to stand up as well. He pulled a little harder than he should have, and she fell in close to him and he caught her in a hug. Jhulune's blush turned to a deep red and held onto him tightly, as he whispered in her ear so only she could hear.
+
+“It was.”
+
+Ren let her go after making sure she could still stand, and looked at Jen. “I've got to go, but if you could think about my order and let me know when it might be possible to fill, I'd appreciate it.”
+
+“Hold on.” Jen said. “You were serious? You want 600 homes built?”
+
+The crew stared at him, and Ren nodded. “I'm tempted to add a retaining wall to that, but I need to decide how high to make it first.”
+
+Her mouth dropped open, and he laughed.
+
+“Why else do you think I said I didn't want a discount?”
+
+“We're going to be working for you again?” Jhulune asked.
+
+“Hopefully.” Ren said. “Once the city is finished, of course.”
+
+“I... I'd be happy to!” Jhulune said, and several people laughed.
+
+“We can worry about the details later.” Ren said and looked at the crew. “Thank you all for your hard work.” He said. “Now keep going and make the beds.”
+
+Most of the crew stared at him, and he grinned.
+
+“There's still an hour before quitting time.” Jen said, and they groaned.
+
+“Is it okay to tip them again?” Ren asked.
+
+“Only if you don't overdo it again.”
+
+“Is a gold coin overdoing it?”
+
+“Yes.” Jen sighed.
+
+“Then I'm sorry in advance.” Ren smirked at her, and gave them all a gold coin.
+
+Jen shook her head. “Good lord, what did I just say?”
+
+Ren laughed, concentrated on his Command Aura, and turned to them. “You've got a lot of work ahead of you to repair the city.” He said. “I know you are all up to the task.” He waved at the huge building behind them. “You'll have Aurora back to it's glory in no time!”
+
+“Yeah!” “You said it!” “Let's make those beds!” “Yeah!”
+
+Most of the crew turned around, grabbed more supplies, and went back inside the Refugee Center.
+
+“How did you do that?” Jen asked. “Even I wanted to go and make them.”
+
+“It's my inspiring presence.” Ren said and switched to his personal Aura. “Sometimes, people can't resist it.”
+
+Jhulune gave him a hug and whispered in his ear. “Some of us are trying really hard to.” She let him out of the hug and stepped back. “Thank you...” A smile spread across her face. “...for everything.”
+
+“It was my pleasure.” Ren said. “Bye, Jhulune.”
+
+“Bye.” She said, walked towards the Refugee Center, and picked up some more supplies herself before going inside. Brian followed closely behind her and did the same thing.
+
+Ren turned to Jen. “Is it okay to go to the mansion and tell the people about this place?”
+
+“Yeah.” Jen said. “There should be enough beds for the people that need them.”
+
+“Thank you.” Ren said, and Jen shook her head.
+
+“You can stop it with the gushing gratitude routine.” She said. “You're not going to seduce me like that.”
+
+“I wasn't trying...” Ren started to say, then changed tactics. “What would seduce you?”
+
+Jen stared at him. “Wh-what?”
+
+“I was just thanking you and you took it as an advance.” Ren said. “Now I'm curious. What would you consider an attempt to seduce you?”
+
+She stared at him, and clamped her mouth shut.
+
+“Shall I try blindly?” Ren asked. “I'm not trying to seduce you, by the way.” He said. “I've got more than enough action in that regard; but, you've piqued my interest.”
+
+Jen took in a deep breath, but kept her mouth shut.
+
+“Would telling you that I made an exact duplicate of the warehouse you restored, in another kingdom count?”
+
+“You... you built...”
+
+“With my own two hands.” Ren said. “I also built a 48 foot long and 24 foot wide workshop with help from a friend, and built the walls inside.” He said. “Then I made a huge 2 storey building. By myself.”
+
+Jen stared at him with wide eyes, and Ren continued.
+
+“I even used a new technique.” He said. “I made a mold out of wood for the walls, added metal rods in the middle, and filled the space with liquid rock.”
+
+Jen started to breathe heavily and put a hand over her heart, then sat down on one of the chairs.
+
+“When I took the mold apart, the walls were harder than the rock they were made from. I built the massive roof rafters and mounted them all by myself, 2 stories above the ground.” Ren leaned close to her and whispered. “It was all me, bare hands, and luck. No safety lines, either. Then I made the roof.”
+
+“St-stop...” Jen said. I can't take it! Oh, god, that... that's so... so manly!
+
+Ren knelt in front of her. “As you can see, giving you gratitude, or tipping your students, was not an attempt to seduce you.” He said and took her hand. She grasped it tightly, and stared at him. “If I put my mind to it, I can usually come up with something a little more creative than 'thank you'.”
+
+“I...” Jen took a breath and tried to calm down. “I believe you.”
+
+Ren stood up and tried to let go of her hand; but, she held onto it as her face flushed a little red.
+
+“K-k-kiss me.”
+
+Ren looked at her with a single raised eyebrow, and she smiled.
+
+“Now that you've satisfied your curiosity...” She blushed a little more. “...let me satisfy mine.” She tugged on his hand. “I only saw you as this cute boy, making things happen around you, sometimes unintentionally... but... but now...”
+
+Ren leaned in close. “As long as you know, nothing will happen after this.”
+
+“Of course it won't.” Jen said. “I don't want anything else. Just... just a kiss.”
+
+With Jen sitting down and him standing, Ren was only a few inches taller than her. He shook the hand she still held, and she let him go. He gently cupped the sides of her face, as if he was holding a fragile butterfly, and she closed her eyes as he kissed her. Several seconds later, her eyes flew open.
+
+Oh... oh my god! Jen thought, as she went.
+
+Ren felt her tense up, and stopped kissing her. He stepped back, thinking she didn't like it, and she grabbed at him desperately with a hand.
+
+“You... you can't just... leave me like this.” Jen said, and he glanced down at her other hand, and saw she held her hand over a growing wet spot in her pants.
+
+“I'll take you home to change.” Ren said, and took out a bolt of cloth, cut a good portion off, and stored the bolt. He wrapped Jen in the cloth, picked her up and stored the chairs. “Where do you live?”
+
+“L-l-lumber mill.” Jen stammered at Ren's show of strength, then held onto his shoulders. He ran down the street and around the corner, and took her inside the lumber mill. Ren put her down and she grabbed onto the cloth. “I... I'll be right back.”
+
+“Bring me back any soiled clothing.” Ren said, and Jen stared at him. “I'll clean and repair it.”
+
+“Oh!” She exclaimed. “O-okay.” She disappeared around a wall and Ren took out the two comfy chairs he'd made for her, then waited until she came back. She wore a similar pair of pants and clutched a small bundle of cloth to her chest.
+
+“H-here.” Jen said, slightly embarrassed.
+
+“It's okay.” Ren said, then stored the clothing into his inventory. “I'm an Adventurer.” He took out the pair of pants and gave them back to her.
+
+“Hey!” Jen nearly shouted. “You can't keep my underwear!”
+
+“Your wh-what?”
+
+“My underwear was there, too!”
+
+Ren opened his inventory, and sure enough, there was a dainty pair of underwear. “My sincere apologies.” He said and took them out. “I didn't realize you gave me two things.”
+
+“That... that's okay.” Jen said.
+
+Ren took out his Master Tailor Sewing Needle. He used Repair on both items, and they reformed themselves and looked brand new.
+
+“Oh my god!” Jen said, and held the pants and underwear up to marvel at them. “They're brand new!”
+
+Ren chuckled. “I better check the table saw while I'm here.” He went over to it, and used Repair again, and got a popup.
+
+Stat Change!
+
+Repair Level 5 (Intermediate 0%)
+
+Metal Repair Level 5 (Intermediate 0%)
+
+Ren sharpened and polished the blade, and went back to Jen. “I'm sorry things... ah... went a little farther than I thought they would.”
+
+“Me, too.” Jen said. “Who would have thought something like that would happen, just from a kiss?”
+
+Ren smiled. “You were turned on a lot more than I thought you were.”
+
+Jen snorted a laugh. “You pushed nearly all of my buttons, that's for sure.”
+
+He grinned and held up his hands in surrender. “I'm not going to try and guess what the last few buttons are.”
+
+Jen laughed and took him into a hug. “You just keep doing what you're doing.” She said. “You'll find the rest of them eventually.”
+
+Ren widened his eyes at her, and she ran her hands through his hair.
+
+“Get out of here.” Jen said. “Before I ask you to tell me what else you've been building.”
+
+Ren took her hand, bent over it, and placed a light kiss on it. “Yes, Ma'am.” He left the lumberyard and ran down the street.
+
+*
+
+Once he was a hundred feet away, Jen took a deep breath and sat down on one of the chairs.
+
+“Oh, my god.” She sighed. “Why did I say all of that to him out loud?” She rubbed her hands over her face. “Thoughts like that are fine... but...” She shook her head, then stopped moving her hands and took in a breath through her nose.
+
+They smell like him.

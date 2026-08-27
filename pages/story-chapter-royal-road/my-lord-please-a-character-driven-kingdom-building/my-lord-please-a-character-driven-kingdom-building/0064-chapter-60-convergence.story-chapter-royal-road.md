@@ -1,0 +1,267 @@
+---
+id: c97a4e8b-adc8-57bb-b21c-cd051f0b2987
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60 Convergence"
+slug: 0064-chapter-60-convergence
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 64
+ownLength: 2391
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3396086/chapter-60-convergence"
+royalRoadId: "3396086"
+---
+
+The rest of the day passed in a near-frantic pace, even after the impromptu bidding war he had initiated among the independent ore merchants.
+
+Messengers were sent ahead to Ashridge with instructions drafted to ensure enough carts would be prepared for the initial deliveries of both seed stock and ore.
+
+By the time he reached the tavern, the sun had already begun its descent, casting the interior in the soft hues of dusk.
+
+Inside, it was quieter than before. Fewer patrons occupied the space, most gathered within their own corners. The occasional clink of cups threaded through the background as he stepped in.
+
+A barmaid nodded briefly at him, gesturing toward what had already become their usual table.
+
+Talia was already there.
+
+She leaned into her seat, relaxed at a glance, yet even from a distance Lucien could recognize the telltale signs of her anticipation.
+
+At the sight of him, her grin widened, and she lifted a hand, waving with unnecessary enthusiasm despite the short distance between them.
+
+Someone’s eager, Lucien noted dryly as he took his seat across from her.
+
+Despite that, she said nothing at first. Instead, she pushed a cup of ale toward him, punctuating the gesture with a playful wink.
+
+Lucien exhaled softly through his nose before taking a sip. “You knew they would come."
+
+Talia’s smile curved just a little wider. “Mmm. I had a pretty good idea.”
+
+“That is why you chose a place like this,” he gestured faintly to the tavern around them.
+
+She nodded energetically, tapping her finger against the table twice, while she mimicked the soft chime of a bell.
+
+“Yep! It’s pretty popular with merchants and travelers.”
+
+“So we would be seen.”
+
+She leaned forward, her energy picking up. “You and me, sitting here like this? In a place where everyone could see us?” A small grin formed. “That kind of thing spreads fast.”
+
+“And perception is everything,” he finished, a faint crack barely visible at the corner of his lips.
+
+Talia’s eyes lit up at that. She raised her hand and mimed a finger gun toward him, clicking her tongue lightly.
+
+Lucien exhaled once more through his nose, the motion carrying a trace of resignation. “You’ve been rather loose with expressions from our lands,” he muttered.
+
+“Eh, only with you, Senior.” She waved it off easily. “Besides, I already cultivated that sort of reputation with the folks here.”
+
+He didn't doubt it. Talia had always been acutely aware of the atmosphere around her.
+
+Establishing a particular image for herself in Helvarn would not have been difficult, especially in a place where impressions carried further than facts.
+
+“Uncertainty, then?” he asked, guiding the conversation back. “They would not know the extent of your actual stock.”
+
+“Mhmm.” She held his gaze, her attention sharpening. “They don’t know what I can supply, but they do know I’m a merchant.” She lifted a hand lightly, fingers curling as if gathering an invisible thread. “And once that doubt sets in…”
+
+“They begin to speculate,” Lucien concluded.
+
+Her grin returned, smaller this time. “And people make the worst decisions when they’re guessing.”
+
+Lucien took a sip from his cup before he spoke. “Did you actually have enough?”
+
+The curve on her lips grew. “Not enough for anything long-term,” she admitted without hesitation. “But I could’ve pulled some strings to cover your needs for a bit.”
+
+She tilted her head before adding more thoughtfully, “Just enough to keep things moving.”
+
+After a brief pause, Talia shrugged lightly. “And it wasn’t like I was lacking things to do.”
+
+Lucien glanced toward her, one brow raised.
+
+“Mm.” She waved it off. “Just some arrangements regarding my work here.”
+
+Lucien let the matter rest for now. “So if they had decided not to come, you already had a temporary plan in mind.”
+
+“A delaying one. Enough for the situation to change,” she corrected with a wink.
+
+Their eyes met briefly, a silent understanding passed between them.
+
+Lucien inclined his head faintly. The more time that passed, the more leverage they would've gained.
+
+Talia leaned back all at once, stretching her arms with an exaggerated motion. “But honestly, that would’ve been way too much wooork,” she groaned, dragging out the last word.
+
+He let out a faint snort. “Allergic to work as usual, I see.”
+
+“I’m normal,” she shot back immediately. “You’re the strange one here!"
+
+Lucien merely sipped his cup in response. It was somewhat vexing, but he couldn't deny it.
+
+Though with the presence of Talia, perhaps he at least could say he didn't die from overwork after all. The embarrassment he felt on his first day faded, just a little.
+
+“…Senior, you just thought of something weird again, didn’t you?” she said, narrowing her eyes at him.
+
+'This nosy junior…'
+
+The memory prompted Lucien to ask something he had been curious about for some time.
+
+His voice lowered slightly as he asked, "Talia, what do you remember in the beginning when you woke up in this world?"
+
+At his words, Talia's expression shifted to something more contemplative. "I remember us being in the office together late at night."
+
+Lucien shot her a dry look. "Because of a certain someone."
+
+Her cheeks flushed lightly before she scratched the back of her head sheepishly. "Y-yeah. Anyway! We were fixing my mistakes then..." Her words trailed off as Talia's brows creased faintly. "I don't remember anything after that."
+
+He rubbed at his temple. "So. The same as me then? You woke up here, with fragmented memories of your current body."
+
+Talia nodded, her eyes lowering in thought as her fingers traced lightly against the rim of her mug.
+
+Lucien shook his head faintly. "We can find out more about that later. Speaking about it in public is too dangerous."
+
+She glanced around briefly. "Yeah. There's more ears around this town than you'd think."
+
+He leaned back in his chair. "Is it common for groups of merchants to form a coalition like this?”
+
+Talia lifted two fingers beside her head. “Depends on the trade, I guess. My ‘family’ has a pretty big group back in the capital too.”
+
+“I would have thought the ore merchants would be the ones forming such a group.” He cupped his chin in thought before continuing, “My steward, Elias, mentioned that iron would be more tightly controlled than grain.”
+
+Talia waved a hand sideways in response. “He’s right, but only up to a certain point. At the quantities you were dealing with, plus the variant corpses, there’s a limit to the Crown’s authority when it comes to independent players.”
+
+That made sense. Even Cragwatch’s noble would be unlikely to pressure every independent merchant in Helvarn.
+
+“The ore merchants from this morning were your doing, then?”
+
+Talia responded by simply waiting for him to continue, an anticipatory glint in her eyes.
+
+Lucien's gaze lowered in thought. “It would have been too obvious if you mentioned my need for ores. That is why you brought up the variant corpses as bait.”
+
+His finger tapped lightly against the side of his cup. “And with that, they would have looked deeper into my actions.”
+
+“In the end, they would have found out about my guards’ actions as well,” he concluded.
+
+“I didn’t mention it directly, by the way!” she corrected, raising a finger to punctuate the point. “Just a liiittle nudge here and there.”
+
+“A plausible cause,” he amended, his eyes lifting to meet Talia’s. “Not a direct statement.”
+
+“Exactly!” She pointed at him lightly. “If you say it outright, it feels forced. But if they arrive at it themselves…” she spread her hands, “then it becomes their idea.”
+
+“After all, for the smaller merchants…” Talia cupped her hands together as if framing something small, “they have their own way of doing things.”
+
+Lucien inclined his head in agreement. “Smaller merchants would naturally rely on mobility.” He held onto that line of thought for a breath. “And of course, variant corpses would be a potential windfall for them as well.”
+
+She chuckled lightly in response. “Yeah, they’re more like the marketing people back in our world compared to a coalition of merchants.”
+
+His eyes narrowed slightly. “That is another thing I noticed. They do not seem as proactive in trade.”
+
+His first day in Helvarn came to mind. At first, he had assumed the grain merchants’ passive manner was a form of posturing, but the contrast with the ore merchants suggested otherwise.
+
+“Even today, the difference in how the grain and ore merchants behaved was...distinct.”
+
+Talia was already nodding before he finished. She waved a hand for him to continue, curiosity and anticipation glinting in her eyes.
+
+“...Profit is not their only goal, then.”
+
+He compared the differences between his former world and this one, and there was one clear variable that stood out to him.
+
+“A path to nobility?” he voiced aloud.
+
+Talia snapped her fingers. “Ding ding! Took me an embarrassingly long time to figure that out too,” she admitted with a sheepish grin.
+
+“That cannot be helped,” he replied, exhaling through his nose. “We were not raised in a world shaped by such structures.”
+
+Even with deliberate effort, it would be impractical to account for every aspect of noble custom and expectation. That way lay too many uncertain paths.
+
+“Yeah, the social hierarchy is kinda rigid in ways you’d expect, but also weirdly flexible too.” She gave a small shrug. “Well...for merchants, at least. We get a bit more leeway.”
+
+“Such as being able to inquire about objects of interest,” he said dryly, “like variant corpses or a sudden need for ores?”
+
+The image of the independent merchants from earlier surfaced again, their lack of restraint now easier to understand.
+
+“As long as they don’t step over the line!” she replied quickly. “Still figuring out where that line is, though. It’s not like I get many chances to talk to a noble.” She punctuated the remark with a wink.
+
+He shook his head faintly, a wry note entering his tone. “Then what was the true cause of the chaos this morning?”
+
+“Before that—!” she cut in, leaning forward. “Which one showed up first?”
+
+“The grain merchant.”
+
+At his answer, Talia clicked her tongue. “Those sly old foxes…” she muttered, a trace of grudging respect in her voice.
+
+Lucien watched her for a moment. “You expected them to hesitate.”
+
+“Mhmm.” Talia leaned back, though the glint in her eyes remained. “That would've been one of the better outcomes.”
+
+“But they didn’t.”
+
+“Nope.” She clicked her tongue again, lighter this time. “They moved fast.”
+
+Lucien’s gaze lowered in thought. “Because the risk became immediate.”
+
+“Yep.” She pointed at him again. “You showing up alone? That’s manageable. You looking desperate? Even better for them.” Her hand lowered as her tone shifted, just a fraction more serious. “But you being seen with me? That’s where it stops being comfortable.”
+
+“And combined with a group of merchants being seen rushing to the inn where I was staying,” Lucien added, “that discomfort would have compounded beyond what they were willing to tolerate.”
+
+She gave a small nod. “Because if they waited too long...”
+
+“They risk losing control of the exchange entirely.”
+
+Talia’s smile widened, pleased. “And that’s way worse than giving you a better deal.”
+
+Lucien exhaled softly through his nose. “But instead, they moved first.”
+
+She leaned in, resting her chin lightly against her hand. “Still...I guess that part was wishful thinking on my end.” At his questioning look, she added, “They didn’t get to where they are by being slow.”
+
+“And if there’s one thing people at the top hate most...” she prompted lightly.
+
+Lucien’s eyes sharpened. “Competition. Or even the possibility of it.”
+
+“Bingo.”
+
+She leaned back again. “So yeah, hesitation was always the less likely outcome.”
+
+Lucien fell silent for a moment. Whether they hesitated or moved immediately, the result would still converge toward the same point.
+
+Control of the grain market would begin to slip, and they would be forced to respond.
+
+“…There was no losing scenario,” he said at last.
+
+Talia gave a small, satisfied hum in response. “Pretty much.”
+
+The conversation eased after that, the tension in it dissipating as naturally as it had formed.
+
+Lucien set his cup down lightly. “I will likely be occupied the next few days,” his words were more to organize his thoughts than to inform her. “There are still matters to confirm.”
+
+Talia nodded along lightly, letting him continue uninterrupted.
+
+“I intend to revisit the cathedral,” he continued. “There was that white glow we have yet to verify.” His gaze lowered to the table. “And the arrangements with the craftsmen will need to be finalized.”
+
+“You managed to secure one of Helvarn’s blacksmiths?” she asked, a hint of curiosity in her tone.
+
+“A referral. If the terms hold, it should be sufficient to ensure the guards are better equipped.”
+
+“Makes sense,” she said easily. “You’ve got a lot to set up.”
+
+“It is necessary,” Lucien replied. “Ashridge cannot remain as it is.”
+
+She leaned forward, hand resting against her chin. "You planning to visit Helvarn's lord?"
+
+At her words, Lucien's brow creased before he shook his head. "No. I had considered it at first," he allowed himself a weakness he normally couldn't show. “I am not ready to meet with a noble of this world yet,” he admitted.
+
+Elias had not mentioned the need for it and as long as he could prolong it, he planned to prepare himself and learn as much as he could before meeting one.
+
+Talia watched him for a moment, then leaned back, stretching her arms with a small sigh. “I guess it can't be helped then. Your cute junior will help you out as well! I am just about done wrapping things up here too.”
+
+Normally, he would have immediately responded to her teasing, but her last words made him pause.
+
+“…Wrapping things up?”
+
+Talia tilted her head in confusion. “Moving to Ashridge, of course. What did you think I was busy with since yesterday?”
+
+“…What?”
+
+She blinked at him, tilting her head further. “…Senior, did you think I was going to stay in Helvarn now that I’ve met you?” A note of exasperation slipped into her voice.
+
+Lucien held her gaze for a moment.
+
+Then he exhaled softly through his nose.
+
+It seemed Ashridge would no longer remain as quiet as it had been.

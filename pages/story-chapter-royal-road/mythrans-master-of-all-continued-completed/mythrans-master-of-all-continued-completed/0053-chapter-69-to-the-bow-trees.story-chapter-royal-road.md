@@ -1,0 +1,223 @@
+---
+id: f3e12e77-4037-58ae-9ca2-1ebe8969fed9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69 - To The Bow Trees!"
+slug: 0053-chapter-69-to-the-bow-trees
+partOf: mythrans-master-of-all-continued-completed
+position: 53
+ownLength: 2809
+unit: words
+publishedAt: 2016-11-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100784/chapter-69-to-the-bow-trees"
+royalRoadId: "100784"
+---
+
+Ren borrowed several pieces of wood from Donan and took out the small wooden box Donan had given him. He examined it and checked the hinges. Ren saw how the wood was cut to fit and after a few minutes, learned the wooden box plans and scaled it up in size to made a big version of it. Ren put in all the different saw blades he had made with Donan, then took the time to make an axe and a hatchet, and put those in the box as well. Ren made a smaller box and filled it with nails, adding in a hammer, too. He couldn't think of what else to take, so he closed the box and put it into inventory with the new hand saw.
+
+“Donan, I'm heading out to get some wood for bows. I'll be back later.” Ren said. Teepo, are you coming?
+
+“Sure! Be right there.” Teepo said and skittered across the ceiling. Ren waited until Teepo was right above and equipped his cloak. Teepo plopped right into the hood an Ren left the shop. Thanks to the book Rosie had let him read, Ren knew exactly where to find the best bow making trees. Ren walked down the street until he came to the main road and went towards the West Gate. As an extra precaution, Ren equipped his leather armor as well. Ren walked out through the West Gate and past the herb field. Ren saw there were still a lot of people 'farming' for XP. Ren stayed on the road and didn't venture into the forest. When Ren was 2 hours away from the city, the forest became dark and foreboding. Ren smiled because it didn't bother him in the least. Knowing that terror can easily be caused by runes, Ren continued walking.
+
+About an hour later, the trees thinned out a little and Ren came to a small path. If the description in the book was right, then I need to follow this trail to the grove. Ren stepped off the road and onto the path. Ren followed the trail and didn't leave it to explore. Teepo had been tempted to do just that but Ren had convinced Teepo to stay with him.
+
+Half an hour later, the path opened up and Ren entered a grove of trees. The trees were tall and seemed really flimsy. They swayed when the wind blew and Ren thought he cold hear some of them creak.
+
+This is supposed to be the place. Ren thought and took out his powered hand saw and Book of Runes. Ren flipped to the Enhancement rune and concentrated on the quadruple glyph. Torque Ren thought as he touched the first wheel. Speed Ren thought and touched the second one. Razor Sharp Ren thought and touched the sawblade. Ren looked at the contraption he'd made and decided to add one more rune to it. Ren touched the main body. Hardy Each glyph gave a 20% bonus to those attributes. Ren smiled and picked it up.
+
+“I hope this works.” Ren said out loud. “Cross your fingers, Teepo.”
+
+Teepo looked down at his legs and crossed the front 2.
+
+Ren held the thing steady and used Iron Grip to pump the handle's lever with his fingers, letting Iron Grip go when the lever hit the handle. Ren kept it going and the blade turned slowly at first. More pumps had the blade going faster. If Ren's control of Iron Grip hadn't been so skilled, this would never have worked. Ren turned the machine sideways and the pumping got easier. Ren pumped the handle's lever faster and faster with his fingers and lost all feeling in them. Ren edged the blade into the closest tree and the blade started to dig into the thin bark.
+
+“It's working!” Ren said. “It's wor-”
+
+*BANG*
+
+The blade jammed itself into the tree about 2 inches in and Ren's Iron Grip bent the lever and the handle together. If Ren handn't had a hold of it, it would have flung right out of his hands.
+
+“What the heck...” Ren said and let go. The blade hung there, suspended in the tree like it was a part of it. Ren walked over to the tree and looked at the cut. The blade was wedged into the tree and didn't look like it would be moving anytime soon.
+
+Ren sighed. “Well... it was a good idea... but not for this.”
+
+“That's half-true at least.” A voice said.
+
+Ren looked around but didn't see anyone. Teepo.
+
+“On it, Ren!” Teepo said and jumped out of the hood on Ren's cloak and skittered off into the grove.
+
+“Why is that?” Ren asked the voice.
+
+“These trees can't be cut like that.” The voice said and laughed. “It takes both care and finesse to bend them to your will.”
+
+Ren placed a hand on the tree. Weaken. Ren pushed the tree away from where the saw was wedged and the saw fell out of the grove it had been stuck in. Ren held the tree where it was, the grove opened about an inch wide and absorbed the glyph, then placed another. Brittle Ren pushed the tree as hard as he could and a loud crack sounded from the tree. The tree broke apart from the stump and crashed to the ground, it's branches snapping off as it hit. Ren reached out and absorbed the glyph.
+
+The voice had remained quiet during Ren's little display.
+
+“I found him! Here's over here.” Teepo said.
+
+Ren turned to where Teepo's voice was coming from. Down through the grove of trees Ren could see where Teepo was jumping up and down.
+
+“And who might you be?” Ren asked while facing that direction.
+
+“I was so easily caught.” The voice sighed and a man stepped out from behind a clump of similar trees to the one Ren had cut. “I'm Mitchell...” Mitchell wore light travelling clothes and wore boots that came up to the knee and had rounded leather pads over the knees. Mitchell also had a bow in his hand, but no arrow. “...and this is my grove.”
+
+Ren heard the determination in the man's voice and smiled. Ren knew full well that no one owned this land. The book had said so. Anyone who knew of the place was free to come here.
+
+“Is it?” Ren looked around. “I don't see your name on it anywhere.”
+
+“I found it, so I claimed it.” Mitchell said and gripped the bow in his hand tighter.
+
+“Well, I didn't have to find it. I knew it was here.” Ren said. “So... wouldn't that give me a better claim to it than you?”
+
+Mitchell scowled at Ren and Ren smiled.
+
+I'm calling your bluff. Ren thought. What are you going to do?
+
+“He's reaching for an arrow, Ren!” Teepo said. “It's in his boot!”
+
+Notice!
+
+You have entered PVP Mode.
+
+Ren pulled the metal shield out of inventory and Mitchell let lose an arrow. Ren ducked behind the shield and croutched down. The instant the arrow touched the shield, the Grip of the Earth glyph Ren had placed on the shield activated. A rock hand caught the arrow and crushed it. Ren pushed the shield down into the soft earth a little bit and propped it up with the saw that was there, next to Ren on the ground. Ren activated Sneak and slipped off into the trees.
+
+I guess he wasn't bluffing. Ren thought as he saw another arrow pass and heard the grinding sound of rock. Is he still in the same spot, Teepo?
+
+“Yes, Ren. He's pulling multiple arrows from his back quiver to fire all at once.” Teepo responded.
+
+Excellent. Thanks, Teepo.
+
+Ren moved around the trees in the grove and did his best to stay silent. As Ren creeped over to where Mitchell stood, Ren pulled out one of the raised platform rings from inventory. Ren didn't want to do any serious harm, or possibly kill Mitchell over a stupid argument that had barely started. Ren placed a finger on the front of the raised part of the ring and enchanted a single lightning rune on it. The rune etched itself into the surface and Ren put it on, facing it outwards. Ren slid over the soft earth the last few feet and came up behind his target. Mitchell turned around at the last second, but the reaction was much too late.
+
+Ren already held his fist out. Activate.
+
+A tiny lightning bolt shot out and struck Mitchell in the leg. “Ahhhh!” Mitchell dropped his bow and arrows, then dropped to the ground to grasp his own leg. Ren aimed the ring away from Mitchell.
+
+Deactivate. Ren thought.
+
+Mitchell's leg spasmed a few times and Ren stood up.
+
+“I only came here to get a few trees.” Ren said. “You didn't have to attack me.”
+
+“You're trying to take away my livelihood!” Mitchell nearly yelled.
+
+Ren laughed. “What? Why would you think that?”
+
+“I've heard about you.” Mitchell spat and let go of the knee that had stopped spasming. “The great Ren... Hero of Aurora... stealing everyone's stuff and calling it his own!”
+
+Ren was shocked to hear the venom in Mitchell's voice. “What are you talking about?”
+
+“We've all seen how you wormed your way into the Artisan District. Preying on the affections of that poor old woman at the tailor shop.” Mitchell said. “Gathering ellicit materials for the apothocary.” Mitchell sneered. “Buying your way into the blacksmith's shop and taking it over! You've even got that idiot Issac helping you! We all know what you've been doing. Stealing all their hard work!” Mitchell tried to crawl away from Ren on his back. “I won't let you take my secrets, too!”
+
+Ren watched as Mitchell crawled away and didn't move to stop him. Mitchell, seeing that his false words had shaken Ren so badly, rolled over and crawled on hands and knees until he was far enough away. That Tristan kid was right. Hitting the little squirt where it would hurt was the best option. Mitchell thought. This Ren guy really cares for those NPCs. Mitchell reached into his other boot and brought out a blowpipe, popped something into the end of it, and turned to Ren.
+
+“Ren! Watch out!” Teepo said.
+
+Ren was so stunned to hear that someone thought he would do such things to people he cared about, he reacted too slowly to do anything but raise a hand to block the attack. A needle-like blow dart struck him right in the palm and Ren felt the immediate sting from it.
+
+“Ahhhhhhhh!” Ren screamed and turned his hand towards his face. The little needle had emptied itself into his skin and Ren watched as veins of black poison slowly spread under the skin of his hand. Ren dropped to his knees and a moment later a sharp pain hit him in the neck. “AhhhhhHHH!” Ren screamed again. Mitchell had moved back closer than he'd fled, and ended up only 20 feet away from Ren. Hitting a stationary target with a blowpipe at that distance was quite easy for Mitchell. He'd been playing this game for a long time.
+
+Ren's neck was covered in the veins of poison as well and Ren's vision started to blur.
+
+“Ren!” Teepo shouted. “Ren! The antidote! Use the antidote!”
+
+Ren nodded weakly and took out the only Vial of Antidote that he had. Ren drank it and slumped down, sitting on his legs. Ren didn't move for a minute... and then took a deep breath.
+
+“AhhhhhhhHHHHHH!!!!!” Ren screamed, pulled the needle-like dart from his hand and grabbed his hammerpick from inventory. Ren lunged at Mitchell, who tried to run, but by that point, it didn't matter. Ren wasn't aiming for him, anyways. Ren swung at the ground with all of his might while enchanting the hammer with a quadruple Heavy glyph, barely 10 feet away from Mitchell. Ren's sole intent was to knock Mitchell off of his feet, and it had worked spectacularly.
+
+The 20% heavier hammerpick hit the ground and caused a shockwave to eminate outwards to almost 20 feet. It was only small in scale, shaking the ground barely an inch and a half up and then down again within that space. Mitchell flew off his feet and fell flat on his face, stunned. Ren stomped his feet as he walked over to Mitchell and looked down. Mitchell shook off the stun effect and turned over to watch Ren as he reached up and pulled the needle-like dart from his neck.
+
+“Needles.” Ren said in a deep gravelly voice. “I really... really... HATE NEEDLES!” Ren swung the hammer and hit Mitchell in the chest, forgetting it still had the Heavy enchantment. Mitchell spit out blood as the hammer and shockwave took almost two thirds of his health and gave him Crippled status. Mitchell couldn't move, and started laughing. That was enough to break Ren out of his angry state.
+
+“He... he said you would be a real pushover.” Mitchell said. “Easy money... ha. Ha... hahahaha!”
+
+Ren squinted his eyes. “Who?”
+
+Mitchell smiled. “Does it matter?”
+
+“Yes.” Ren said. “It does.”
+
+Mitchell shook his head.
+
+Ren smiled and hefted the hammerpick over his head.
+
+“All right, all right! It was Tristan, okay! He paid me to set up shop... said you'd come to visit me eventually.”
+
+Ren eased the hammerpick down to his side.
+
+“You never came to the shop, even though I'd seen you around the city a lot.” Mitchell said. “Then you show up here out of the blue. I thought I had hit the jackpot.” Mitchell chuckled and coughed up blood.
+
+“How much did he pay you?” Ren asked.
+
+Mitchell shook his head. “It doesn't really matter. It wasn't near enough.”
+
+“The next time you see Tristan, tell him something for me.” Ren said.
+
+“What?” Mitchell asked and coughed.
+
+“Everything that happened to him, whatever it was... it was all his own fault.” Ren said.
+
+Mitchell's eyes widened as Ren swung the hammerpick and hit Mitchell in the chest again.
+
+Notice!
+
+PVP Mode has ended.
+
+I really didn't want to do that. Ren thought. But in every other game I've played, I'd have been stuck in PVP until one of us was eliminated.
+
+Notice!
+
+Congratulations! You have defeated your opponent in One-on-One combat.
+
+Rewards: 2000 XP
+
+'It Was My First Time' Bonus: XP x2
+
+Fame Bonus: 13%
+
+Notice!
+
+You have defeated an opponent 60 levels higher than you.
+
+Fame: +100
+
+Level Up!
+
+You have gained a level and are now Level 5.
+
+10 stat points have been allocated automatically.
+
+New Class Skill Unlocked!
+
+Craft Familiar Level 1 (Beginner 0%) - Allows you to create a familiar or companion to accompany you on your journey.
+
+Current Limit: 1
+
+Higher levels will grant new recipes and access to new familiars.
+
+New Recipe!
+
+Your class skill Craft Familiar has granted you an automatic recipe: Pack Mule
+
+You can now create a walking backpack. It can help you on adventures, or you can leave it at home and it will guard the place for you. However, it is only a backpack and you shouldn't expect too much from it if you do so.
+
+Ren stared at all the popups and swiped them away. Ren looked down and watched as Mitchell's body dissolved into nothing and left a stack of 35 gold coins, a low quality short sword, and a dark metal coin Ren hadn't seen before. Ren picked up the coin and stored the other coins and short sword into inventory. Ren looked at the black coin closely, but couldn't make out any of the details. Ren wasn't sure what to do with it, so he put it into his coin pouch.
+
+Notice!
+
+You have found a coin from a hidden currency.
+
+Ren swipped the popup away. “Show coin vault stats.”
+
+Superb Spider Silk Coin Vault
+
+Copper: 25Silver: 20Gold: 0Platinum: 26
+
+Shadow: 1
+
+“If I'm reading this right, then a Shadow coin is worth 100 platinum.” Ren said and stared at the popup. “No, that's not possible. It must be a mistake! Tristan wouldn't pay that much just to get to me... would he?” Ren shook his head. “It must be a seperate value system or something.” Ren bent down and picked up Teepo, then gathered up his metal shield and failed attempt at a tree cutting saw. “It should work great as a table saw... if I extent the lever and maybe put the small pulley back in to turn the blade instead of a rod.”
+
+Teepo wasn't sure what Ren was talking about, but figured it was safe to just agree, and nodded.
+
+“Come on, buddy. We have some trees to chop down.” Ren said, put Teepo in the hood of the cloak, and took out a big axe.

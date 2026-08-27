@@ -1,0 +1,317 @@
+---
+id: 83697c33-c057-5bb5-80b6-ad661f9700c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94 Expectation"
+slug: 0099-chapter-94-expectation
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 99
+ownLength: 2664
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3658987/chapter-94-expectation"
+royalRoadId: "3658987"
+---
+
+The walk back to the manor in the early evening was quieter than usual.
+
+Alicia had not spoken since they left the forge, though there were several times where she opened her mouth briefly before falling silent again, a troubled expression lingering across her face.
+
+Lucien kept his gaze ahead, resisting the urge to reassure her.
+
+When they passed by Talia’s shop, he slowed to a stop. “Alicia, go on ahead to the manor. I need to speak with your mother for a moment.”
+
+She studied him quietly for several long moments before bowing her head.
+
+“Yes, My Lord.”
+
+As she continued onward, Lucien watched her leave before letting out a soft breath.
+
+Then he turned and entered the shop.
+
+A gentle voice reached him before anything else.
+
+“Welcom-Ah. My Lord.”
+
+Maris appeared to be in the middle of closing the shop, one hand still wiping along a shelf when he entered.
+
+“Hmm? Is Alicia not with you? She was all excited yesterday about helping with the plans for the water gate.”
+
+As she spoke, her eyes gradually rested on him. The warmth in her expression softened into concern. She placed the cloth aside before turning to face him fully.
+
+“Is something the matter, My Lord?”
+
+Lucien’s gaze shifted briefly to the side. “...How did you know something was wrong?”
+
+A knowing look appeared in her eyes. “You have the same face my husband gets whenever he has to make a difficult decision.”
+
+At her words, Lucien let out a slow breath. “Maris. I intend to ask the women of the village if any would wish to volunteer for training with the crossbows.”
+
+The older woman’s eyes widened before the look gradually smoothed away again.
+
+“I see...”
+
+Whatever Lucien had expected her to say next, it was not what followed.
+
+“When would you like me to ask them to gather, My Lord?”
+
+Lucien stared at her. “...You are not going to ask anything else?”
+
+Maris shook her head faintly. “Would you want me to, My Lord?”
+
+He fell silent, his gaze lowering slightly as he considered her question.
+
+Maris studied him carefully before speaking once more. “My Lord, people of the frontier have always held complicated feelings toward their ruling nobles.”
+
+Lucien’s eyes lifted again at her words, though he remained silent.
+
+Maris walked toward the window overlooking the street, the orange light of evening casting softly across her face.
+
+“For most of our lives, we moved from village to village whenever a bad Tithe passed.” Her hand rested lightly against the glass. “I met my husband after moving to his village when mine was destroyed.”
+
+Slowly, Maris turned from the window to face him.
+
+“Ashridge is the fourth village I have lived in now, My Lord.”
+
+It was something Lucien had read before, but it struck him differently hearing it spoken so plainly by someone who had lived through it.
+
+Maris continued to hold his gaze. “You heard of the interest the former lord once held toward Alicia, yes?”
+
+Lucien’s brow furrowed before he gave a slow nod.
+
+The older woman tilted her head. “And yet Bran and I still chose to remain in Ashridge.”
+
+A faint breath escaped her. “That is the weight a noble’s presence carries upon the frontier, My Lord. Even just knowing a noble remains within a frontier village means a great deal to us.“
+
+Her gaze drifted toward the village outside.
+
+“Because it means our children might live long enough to grow up in the same village they were born in.” A faint wistfulness touched her smile. “Even if one day they may still have to leave it behind.”
+
+To the people of the frontier, even that alone was enough to endure much more than they otherwise would have tolerated.
+
+Maris turned back toward him, her smile carrying both warmth and understanding.
+
+“You have made a decision as a noble, My Lord. Then it is my duty to help as best I can.”
+
+Lucien said nothing for several breaths before inclining his head slowly.
+
+"If any wish to present themselves...tell them to gather tomorrow near sundown."
+
+By the following afternoon, word had already spread through Ashridge.
+
+When Lucien descended into the manor hall, Elias was already waiting by the front entrance with his usual implacable expression.
+
+The steward bowed his head as he approached.
+
+"My Lord. The women have been gathered outside the gathering hall. As instructed, Maris has informed them that this is not an official summons."
+
+Lucien inclined his head. "Good. I will head there now."
+
+As he walked by, Elias hesitated briefly before lowering his head once more. “My Lord,” he said instead as Lucien walked past, idly adjusting the cloak upon his shoulder.
+
+Aside from the two guards near the manor entrance, the courtyard was nearly empty. He exchanged nods with them before continuing toward the gathering hall.
+
+A crowd had already begun to gather outside the gathering hall by the time Lucien arrived. Even from a distance, he could tell the turnout was far smaller than the number of women living within Ashridge.
+
+They stood in small groups of their own, some of the women from the eastern villages lingering apart from the others while the women of Cragwatch stood slightly closer together.
+
+Outside the gathering itself, several men lingered farther back along the road or near the surrounding buildings, speaking quietly amongst themselves.
+
+As Lucien neared the gathering, his steps slowed.
+
+Sera was there, standing apart from everyone else at the edge of the gathering.
+
+The groups of women glanced toward her and, of all the various emotions upon their faces, the expectation in their eyes was what struck him the most.
+
+He felt his chest tighten faintly at the sight.
+
+Lucien had known that by introducing the possibility at all, he would place pressure upon her existence.
+
+Ashridge had begun to consume her usefulness just as he had feared.
+
+Sera turned toward him, her eyes narrowing slightly as she tilted her head.
+
+He kept his own expression carefully neutral, giving her a faint nod before moving toward the front of the gathered group.
+
+The murmurs around him began to quiet as more people caught sight of him. By the time he had reached the front, the open space in front of the gathering hall had grown silent.
+
+Lucien did not delay any further.
+
+"All of you here must have heard the offer from Maris by now."
+
+A few nods around him answered while most remained still, their expressions uncertain.
+
+He folded his arms behind his back. "The crossbow allows one to take up watchtower duties during a time when the village happens to be attacked...or during the Tithe."
+
+Lucien's eyes moved slowly between the women before him. "If women were able to aid in such duties, it would allow more men to be stationed upon the walls."
+
+A younger woman, perhaps slightly older than him, looked close to speaking before hesitating. Only when Lucien gestured toward her did she finally speak.
+
+"Milord. Maris said this would be...voluntary?"
+
+Lucien inclined his head. “Yes. This is not an official edict.” He glanced briefly toward the gathered women. “That is why those who chose not to attend this meeting will not be penalized. I will take their absence as an answer in itself.”
+
+The woman fell silent at his words, her expression thoughtful.
+
+He allowed his words to linger for a time before he spoke.
+
+"The duties, should any choose to volunteer, will remain defensive in nature. You will not be asked to stand upon the walls."
+
+Some exchanged glances with each other while others began to murmur amongst themselves.
+
+A middle-aged woman from the Cragwatch group, with a haggard face spoke up carefully.
+
+"Milord, I have heard that the men from the militia who die during a defense of the village will be...paid?"
+
+At her words, Lucien gave a slow nod. "Yes. That compensation will be given to any who die during their duties in defense of Ashridge. The same will apply to any woman who volunteers."
+
+The older woman met his gaze carefully for several breaths before she dipped her head.
+
+He waited until the murmurs faded once more before speaking again.
+
+"If any would like to volunteer, step forward."
+
+For a time, a stillness settled over the gathering as the murmurs slowly died away.
+
+Even the men lingering farther back gradually abandoned the pretense of ordinary conversation as their attention shifted fully toward the gathering.
+
+Most of the gathered women still had uncertain expressions on their faces but gradually, some of their glances began to be directed at one particular person standing apart from them.
+
+Sera took a step.
+
+The crunch of her boots against the ground caused more heads to turn toward her. She moved as she always had, certainty guiding her steps.
+
+Lucien closed his eyes briefly at the sight.
+
+When he opened them next, she was already beside him, though her dull eyes flicked toward him as she studied him.
+
+One of the women from the eastern village murmured beside another. "Of course, she would volunteer. When she traveled with us, she had shot down quite a few goblins before they reached us."
+
+Another from Cragwatch gave a nod to herself. “Wasn’t she the one that took down that variant? Just look at the red case slung around her. I heard it’s made from some of its skin.”
+
+At the mention of his gift, Lucien kept his expression carefully neutral.
+
+Sera had made the choice just as he had feared.
+
+And he could say nothing to dissuade her now that people had already begun reaching for the one person shaped by violence.
+
+The hunter's gaze remained on Lucien, her eyes narrowing slightly despite the voices surrounding her.
+
+For a time, the women before him continued looking between Sera and him. Then, the middle-aged woman with the haggard face stepped forward next.
+
+"Milord. I would like to volunteer as well. As long as my daughter is taken care of if something should happen to me."
+
+He gave a slow nod. "Speak with one of the guards. They will add your name to the compensation records."
+
+The younger woman who had first spoken glanced toward her before shifting her gaze toward Sera. She took a small step before stopping herself and lowering her gaze once more.
+
+Lucien waited until he was certain no one else would step forward before finally speaking again.
+
+"The offer remains open. Those who change their minds can approach any of the guards."
+
+Taking his words as a dismissal, the gathering slowly began to disperse. Some continued speaking softly amongst themselves while others walked toward the group of men who had been watching, likely a relative or loved one.
+
+The older woman dipped her head toward him before she approached one of the Ashridge guards.
+
+Lucien remained where he was, Sera still beside him. Her pale eyes had not left him, but he could not bring himself to look back at her.
+
+He let out a soft breath. "...I will head back to the manor first, Sera. Remember to have your dinner."
+
+She gave a small nod as he walked back alone.
+
+His study had gradually darkened, illuminated only by the soft light of early evening. A ledger was in front of him, one of the reports he had not managed to finish today.
+
+Even so, his eyes remained fixed upon the page without truly reading it.
+
+A knock sounded on his door.
+
+Lucien exhaled softly before he spoke.
+
+"Enter."
+
+The door opened slowly before Alicia stepped through, carrying a tray with his meal and a cup of coffee in it.
+
+She placed the tray softly on the desk. “You missed dinner, My Lord.” Despite the words, there was a gentle understanding beneath them.
+
+"My thanks, Alicia."
+
+Alicia gave a small shake of her head. “I didn't prepare this, My Lord.”
+
+Lucien’s brow lifted faintly before she gave him a sad smile. “Sera saved this for you when you didn't come for dinner.”
+
+His eyes shifted to the side. "...I see."
+
+For a time, neither of them spoke.
+
+Alicia turned slightly toward the window. "...I had thought about it...about volunteering myself."
+
+Lucien stilled slightly at her words, his gaze returning to her.
+
+The maid gripped her apron before shaking her head. "But when I imagine myself trying to...I couldn't...I was afraid, My Lord."
+
+Lucien's brow creased before he spoke carefully. "...That is a normal thing to feel, Alicia."
+
+He could not help but wonder what Alicia had imagined when she pictured herself standing amidst a battle.
+
+Alicia’s fingers tightened around her apron. “I have always disliked that part of myself, My Lord. To stand by and be able to do nothing while others speak freely without fear.”
+
+Silence lingered between them before she finally dipped her head.
+
+“Please don't blame yourself for her choice, My Lord.”
+
+Alicia didn't wait for his response as she withdrew from the room, gently closing the door behind her.
+
+Exhaling softly through his nose, Lucien pulled the plate closer. As expected of Sera, the "meal" she prepared was nothing more than dried meat, likely from her own stash.
+
+He took a piece and bit into it. The taste was the same as the dried meat he had eaten at her training spot. A faint trace of salt lingered in his mouth as he chewed.
+
+Just as he was about to take another bite, the door swung open fast, before someone barged in.
+
+"Seniooor! How was the meeting just now?"
+
+When Talia saw his expression, she merely nodded as she pulled out the chair across from him.
+
+"The turnout was low, huh?"
+
+Lucien took another bite before setting the dried meat back down.
+
+"It is something we had expected. I had introduced the idea behind it, in that sense, the meeting was a success."
+
+The word "success" felt bitter when he said it, his eyes resting on the plate of dried meat before him.
+
+Talia's eyes flicked to it before returning to him, for a long moment she studied his face before she finally spoke.
+
+"I told her not to go, ya know."
+
+Lucien's eyes lifted to meet her, brow raised in question.
+
+Talia leaned forward, hand on her chin. "This morning. She heard about it and I knew from that look on her face that she would be there."
+
+The usual cheery expression had softened into something smaller that he couldn't quite place.
+
+"I said there was no point for her to. Because the whole purpose of this was for ordinary women to volunteer."
+
+Lucien reached for another piece of dried meat though he made no move to eat it.
+
+"How did she respond?"
+
+Talia let out a soft breath. "She just wrote two words. Help Lucien. That was it."
+
+The piece of dried meat crumpled beneath Lucien’s fingers.
+
+Light from outside the study had grown darker as night began to fall on Ashridge. The crackle of the hearth filled the silence between them for a time before Talia finally spoke.
+
+"Don't worry too much about it, Senior! We always knew change would have to happen slowly."
+
+She winked at him. “And if it doesn't come faster, guess it's up to your cute junior to introduce a patch here and there, eh?”
+
+Lucien shook his head ruefully. "With your skills. I would much rather you didn't."
+
+She gave him an indignant look before snatching the cup of coffee from his desk and gulping it down in one go, only to abruptly break into coughs.
+
+"W-what the...how strong did Alicia make this!? Senior, I told you I can't get too much of this often!"
+
+Talia slowly lowered the cup, dawning horror spreading across her face. "...How much of the batch I gave you is left?"
+
+Lucien glanced to the side. "...I might need you to order another one. Soon."
+
+It was a rather strange occurrence for him to be lectured by his junior though he found that he didn't particularly mind it.

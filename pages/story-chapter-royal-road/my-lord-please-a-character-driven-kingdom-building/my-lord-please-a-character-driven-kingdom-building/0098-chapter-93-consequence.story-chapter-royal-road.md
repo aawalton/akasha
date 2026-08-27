@@ -1,0 +1,279 @@
+---
+id: 04149bb5-f8e4-5ef4-9990-fd8e298fbd11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93 Consequence"
+slug: 0098-chapter-93-consequence
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 98
+ownLength: 2395
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3649890/chapter-93-consequence"
+royalRoadId: "3649890"
+---
+
+When Lucien woke that morning, it was to aching muscles and a body still protesting yesterday’s training with Sera.
+
+Dinner the night before had begun with Talia occasionally poking at his shoulder while wearing her usual grin.
+
+That stopped quickly once Alicia gave her a disapproving look before placing a far heartier meal than usual in front of him while reminding him to eat properly.
+
+Lucien let out a slow breath as he leaned back in his chair.
+
+It seemed this body, while far healthier than the one from his old world, was still nowhere near as suited for physical training as Dorian’s.
+
+A knock sounded at the study door, drawing another quiet exhale from him.
+
+“Enter.”
+
+Dorian stepped into the room, his eyes briefly scanning the study before resting on him. A faint twitch appeared at the corner of the captain’s mouth before disappearing just as quickly.
+
+“My Lord.”
+
+As usual, he waited for permission before taking a seat, only doing so after Lucien gave a tired wave of his hand.
+
+Lucien leaned back against his chair. “Dorian. How goes the condition of the Ashridge guards?”
+
+The captain straightened in his seat. “Before winter, there were twenty-five fully trained guards and another eight hired to...replace what the former lord took with him.”
+
+His brows creased faintly. “They are adequate, My Lord. We still have time before winter to bring them fully up to standard.”
+
+“And the recruitment efforts?”
+
+Dorian inclined his head once. “In addition to Tomas, another eight have been selected from the militia after showing sufficient potential.”
+
+He cleared his throat softly before continuing. “All eight came from the eastern fields, though Bran has reported increasing grumblings regarding the number of laborers being removed from farming efforts. The village-wide ditch project has only worsened those concerns.”
+
+“Ashridge now has forty-two guards in total.”
+
+Lucien’s gaze lowered in thought. “Then we will not increase recruitment further for now.” His eyes lifted back toward the captain. “And the militia’s crossbow training?”
+
+Dorian looked toward the window. “After accounting for those transferred into the guard, seventy militia members have been training with the crossbows on a rotational basis.”
+
+A dry look slowly formed across the captain’s face. “...Master Joren has been rather vocal regarding their handling of the weapons.”
+
+The corner of Lucien’s mouth twitched. “I am certain he has.”
+
+He rested an arm against the chair before continuing. “Have you observed their progress overall? The crossbow may be easier to train with than the bow, but maintaining proficiency still requires repetition.”
+
+That reality had become far more apparent to him after his own brief experience with archery.
+
+Already, the motions Sera had corrected yesterday were becoming harder to recall naturally despite less than a day having passed.
+
+The dry expression on Dorian’s face deepened, causing Lucien’s brow to lift.
+
+“...The ranking board has acquired a new category.”
+
+Lucien stared at him for a brief moment, already sensing where this was going.
+
+Dorian exhaled softly through his nose. “Your maid has been...rather insistent about ensuring every man receives equal time with the crossbows.”
+
+A sound somewhere between a sigh and a restrained chuckle escaped the captain. “There are fifteen crossbows currently available. She has organized the rotations in an exceptionally...strict manner.”
+
+'When did she even find the time for that?'
+
+Alicia’s responsibilities had only continued increasing recently. Beyond her normal duties, she now assisted Ashridge’s lone scribe with organizing both the new grain records and census reforms while also updating the village map.
+
+More and more, Lucien found himself feeling the limitations of Ashridge’s labor pool despite the village technically having more people now than when he had first arrived in this world.
+
+The mention of Alicia, however, brought his thoughts back toward another matter he had been considering.
+
+Lucien leaned forward, resting his hands lightly against the desk. “The crossbows were originally created so untrained men could still respond to threats at range.”
+
+Dorian’s brow lifted at the shift in topic. “Yes, My Lord. They have...” The captain’s gaze drifted briefly to the side. “The potential to alter military doctrine significantly if produced in large enough numbers.”
+
+Lucien considered the answer carefully before speaking. “Then theoretically...would it not be possible for the same principle to apply in a different manner?”
+
+The captain’s eyes returned to him, a frown forming. "Different manner, My Lord?"
+
+Leaning back against his chair, Lucien inclined his head. “If the draw strength continues improving and the loading mechanisms become easier to operate.”
+
+His gaze lifted toward Dorian. “Could someone without the physical conditioning expected of a soldier still serve effectively using one?”
+
+The room remained quiet for several breaths.
+
+Then Dorian’s eyes narrowed slightly.
+
+“You are referring to women wielding them.”
+
+Lucien gave a slow nod. “It would not be mandatory, nor would they be deployed directly upon the walls.”
+
+He rested his arms against the sides of his chair. “But with the crossbows, they could still serve effectively within the watchtowers. It would free more men for the shield wall.”
+
+Dorian’s gaze lowered in thought for a long while before he finally spoke. “Even if they are kept outside the formation itself, My Lord, the men will still remain conscious of their presence during battle.”
+
+"Lovers, wives...daughters. The men fighting upon the walls fight ultimately for them."
+
+His gaze moved to meet Lucien's eyes. "If women begin standing alongside the defense itself, that focus changes. "
+
+“The possibility of one...if not more to break from the formation if something were to happen to them...”
+
+Dorian exhaled softly through his nose. “The risk is too great for what amounts to little military gain, My Lord.”
+
+Lucien’s fingers tapped lightly against the arm of his chair, his gaze lowered in thought before he finally spoke.
+
+“But if there are more hands capable of using the crossbows during battle, then the likelihood of a breach would naturally lessen alongside the increase in military strength.”
+
+His eyes lifted toward Dorian, the quiet tapping of his fingers slowing to a stop.
+
+“Would that not make the risk worth considering?”
+
+Dorian shook his head firmly. “Each additional woman upon the battlefield would only increase the risk of the formation breaking. It only means one more man becoming distracted by his loved ones.”
+
+He let out a breath before continuing. “And that is without accounting for the women’s own discipline under battle conditions.”
+
+His eyes drifted toward the palisade walls beyond the study window. “They are not like that hunter of yours. Most of them have never been amidst the chaos of battle.”
+
+"In desperation, when they are faced with no other choice during a breach and a beast comes into their home. Then yes, they will find their own courage."
+
+Dorian’s gaze shifted back toward Lucien. “But battle is a different beast altogether.”
+
+His voice lowered slightly. “You were there, My Lord. You understand the difference."
+
+The study fell quiet after that.
+
+Lucien’s eyes lingered on the distant palisade walls and, for a brief moment, a memory surfaced unbidden.
+
+Of Dalen's shield splintering and the pressure of bodies within the shield wall.
+
+Lucien exhaled softly through his nose before leaning back against his chair once more. “...I understand your concerns, Dorian.”
+
+The captain inclined his head but did not speak further.
+
+Neither of them continued the topic after that.
+
+The sound of Joren’s hammering echoed through Ashridge beneath the warmer light of the afternoon long before Lucien and Alicia reached the forge.
+
+Alicia had been sending him worried looks ever since he came to collect her for the meeting despite his assurances that nothing was wrong.
+
+She only seemed to set the matter aside after he pointed out they would be late meeting Joren if they delayed any longer, though it was clear the concern had only been temporarily buried.
+
+Lucien stopped just outside the threshold of the smithy, waiting as usual for the blacksmith to finish his current work.
+
+A hiss of metal meeting water echoed through the forge a short while later before Joren finally passed the finished piece toward his apprentice, who now looked noticeably more confident around the forge compared to late winter.
+
+Joren glanced in their direction and gave a small dip of his head.
+
+“Lord.”
+
+Then he turned toward Alicia, his expression visibly warming. “Alicia. Haven’t seen you around as much lately.” His gaze flicked briefly toward Lucien. “Heard you’ve been busier up at the manor.”
+
+Alicia’s eyes shifted toward Lucien before he gave a small nod.
+
+“Yes, Master Joren. My Lord has tasked me with helping the scribe and updating the new map of Ashridge.”
+
+Despite her soft voice, a faint puff of pride still touched her posture.
+
+Joren’s eyes softened slightly, the corner of his beard twitching. “No longer just running errands for your mother, eh? Too busy to come see old Joren now?”
+
+Alicia’s cheeks flushed immediately. “Ah-I did not mean it like that...” She fidgeted before continuing. “Besides, My Lord asked me to draw something new to show you today as well.”
+
+It seemed Talia was not the only one who enjoyed teasing the poor girl.
+
+At the mention of the drawing, Lucien finally spoke.
+
+“I assume you have already heard about the planned water gate, Joren?”
+
+The blacksmith gave a grunt as he jerked his chin toward the forge interior. “Heard about it from Talia when she came asking for shovels.”
+
+He turned back toward the interior. “Come inside. We’ll talk there.”
+
+They sat within the resting area beside the forge while the rhythmic sound of the apprentice continuing his work filled the space around them.
+
+Alicia carefully placed the first parchment down between them while remaining quietly at Lucien’s side.
+
+Joren leaned forward, his eyes moving slowly across the drawing.
+
+“This what that old man’s about to build?”
+
+He scratched the corner of his beard, his eyes narrowing slightly. “That’s a large drum...but it’d fit well enough for the width of the Easthollow river.”
+
+Lucien gave a nod. “It would allow one man, perhaps two at most, to raise the gate.”
+
+The blacksmith’s gaze shifted toward the axles. “It’ll need iron there. And the pawl’s going to need proper teeth cut into it if you want the lock to hold.”
+
+He let out a grunt. “Wood’s not going to take that kind of impact lightly if it’s meant to last.”
+
+Lucien leaned forward and pointed toward several of the side notations written in Alicia’s careful script.
+
+“That has already been accounted for. Including the rope thickness and drum measurements.”
+
+More tellingly, Alicia had not required Harlon’s advice for any of it.
+
+As though responding to the thought itself, Joren gave a small grunt of approval, his eyes flicking toward the maid.
+
+“You’ve improved since you first started. Could make a decent living doing this.”
+
+Alicia’s face flushed lightly as her eyes lowered. “It only reminded me of the crank I use for the well every day...it seemed similar.”
+
+Joren nodded thoughtfully. “Similar enough. Just meant for lifting something far heavier than a bucket.”
+
+As the blacksmith continued examining the drawing before him, Lucien gestured toward Alicia, who carefully placed the second parchment beside it upon the table.
+
+The older man’s eyes flicked toward the movement before a frown formed.
+
+“Another one of your strange bows, Lord?”
+
+A brief moment later, his gaze shifted between the two drawings laid side by side before settling on the second.
+
+“This one’s got more parts to it. And twin cranks with another smaller drum this time...”
+
+Lucien remained silent, allowing the blacksmith to arrive at the answer himself.
+
+Joren rubbed a hand across his beard. “The string’s going to need to handle more weight than the current one.”
+
+He let out a grunt as his gaze flicked toward Lucien. “Your girl’s been teaching the men how to make the strings. But she’s going to need to find something stronger for this.”
+
+Lucien’s brow twitched while a small curve appeared on Alicia’s lips before quickly fading once he shot her a dry look.
+
+The blacksmith lifted both drawings again, comparing them side by side. “Same principle for holding the weight between the two. But this bow...” His eyes narrowed a fraction. “It’ll hold far tighter. And the release on it’ll be vicious as well.”
+
+“The iron’s going to need to be hard enough to keep it steady.”
+
+Lucien cleared his throat softly before speaking. “With this, the draw strength would no longer require a particularly strong arm to pull the string back.”
+
+Joren stilled, his fingers tightening slightly against the two parchments before he quickly released them after noticing the faint scrunch in Alicia’s brows.
+
+The blacksmith set the drawings down slowly before glancing at Alicia, then back toward him.
+
+“You’re going to ask women to fight?”
+
+The hammering from the apprentice outside stalled briefly before resuming once more.
+
+Alicia’s eyes flicked toward him, something within her expression softening into understanding.
+
+Lucien did not look away from the blacksmith’s gaze.
+
+“With this crossbow, the limitations of physical strength could be overcome. It would allow them the means to defend themselves...and perhaps fight, yes.”
+
+Joren’s eyes narrowed slightly. “You’re asking them to do more than fight, Lord.”
+
+His gaze shifted toward Alicia before returning to Lucien once more. “If she were to bleed beside you in battle, could you keep your head calm?”
+
+Alicia stiffened while Lucien’s expression tightened.
+
+Before either could respond, Joren cut in.
+
+“That’s what you’d be asking men to do.”
+
+He exhaled sharply through his nose. “And that’s the weight you’ll carry if one of them dies.”
+
+“Uncle Joren, I do not think that is something My Lord should have to bear.”
+
+Both men blinked before turning toward Alicia.
+
+Her face was lightly flushed, though her expression did not waver.
+
+She shook her head firmly. “My Lord would only be giving them a choice. If they choose to take it, why must he alone carry that burden?”
+
+Joren’s expression softened briefly before hardening once more.
+
+“Because he’s a noble.”
+
+Seeing the dissatisfaction still lingering on Alicia’s face, the older man let out a rough breath.
+
+“He’ll bear that weight regardless.” His gaze shifted briefly toward Lucien. “That’s why it’s better he understands what he’s asking for now...before something happens that can’t be taken back.”
+
+Alicia’s eyes widened slightly before drifting toward Lucien, who had remained silent throughout the exchange.
+
+This time, she didn't argue further.

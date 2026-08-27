@@ -1,0 +1,315 @@
+---
+id: 0f9012b8-05b2-5174-8b1c-661b4fa26fdf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 234 - High Elves"
+slug: 0223-chapter-234-high-elves
+partOf: mythrans-master-of-all-continued-completed
+position: 223
+ownLength: 3111
+unit: words
+publishedAt: 2017-04-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131926/chapter-234-high-elves"
+royalRoadId: "131926"
+---
+
+The High Elves camouflage spell was canceled when they threw the large net. Ren assumed because it was a sudden jerky movement, the spell couldn't hide them anymore. He had been forewarned of the net by Teepo, so he easily rolled out of the way and stood up again.
+
+“Behind!” Teepo said, and Ren turned around to see a jaguar leap towards him. He only had time to open his arms to catch the beast, and the jaguar slammed into him. Thanks to Ren's Unstoppable and Rock Steady skills combined, he was impossible to knock over with both feet on the ground. He heard a crack of bone, and the jaguar mewled in pain.
+
+“I'm so sorry, kitty.” Ren said, as he held the hurt jaguar. It looked like one of it's front paws was broken. “I didn't notice that you didn't have your claws out.”
+
+There was a loud growl from the side, and Ren glanced over to see another jaguar ready to pounce.
+
+“Please, don't.” He said to it, and it eased out slightly from it's crouch. It had seen what had happened to it's mate.
+
+“They're throwing the net again.” Teepo said as he flew down to land on Ren's shoulder.
+
+That's fine. Ren thought, and laid the jaguar down on the street. He knelt over it, took out the Major Healing wand, and touched the jaguar's leg as the net covered them both. “This is going to hurt.”
+
+The jaguar growled, and the other jaguar growled, too. Ren pulled the paw out straight, and the jaguar screamed. He used the Major Healing wand on the paw, and the jaguar quieted right away.
+
+“No!” The Tracker yelled and pulled out his bow. “He's killed it!” He let the arrow go, and it flew across the short distance to hit Ren in the lower back.
+
+“Ugh!” Ren grunted as he lost 10% of his Health. A moment later, he got a popup.
+
+Notice!
+
+You have been Poisoned! Thanks to your Hardy skill, you will only lose 1 Health every 3 seconds, instead of every second. It is a particularly strong poison, so you will stay Poisoned until an Antidote has been administered.
+
+“At least he didn't hit you with his rushed shot, kitty.” Ren said and pet it.
+
+The jaguar purred slightly, but because the net covered them both, it couldn't get up.
+
+“It's alright.” Ren said and tried to lift the net. Hooks along it's edges dug into the street and held the net in place. Damn, I can't move it. He thought. The more I pull, the more it digs in. He looked at how the net covered them, and smiled. He took out his Wand of Engorgement and pet the jaguar again. “Go to your mate.” He said, and used the wand on himself.
+
+“Great Vasalor! He's becoming a giant!” One of the elves exclaimed as Ren grew to twice his size, and the net was easily lifted from the street. His growing size had pushed some of the hooks out on one side, and it couldn't hold anything down anymore. Ren stood up and held the net in one hand, as the jaguar slunked away to go to it's mate. Ren wasn't sure which was male and which was female, but he saw one licking the other's face, and heard the purring.
+
+“Who threw that?” Ren said as he turned around quickly, saw 4 elves about 20 feet away, and threw the net at them. The elves scattered to the sides, and the net hit the street without catching anything.
+
+“He's not a giant!” The Tracker said. “He's only a foot taller than me!”
+
+“What do we do?” One of them asked. “Do we open fire?”
+
+“No!” One of them said. “We don't want him dead, just captured!”
+
+“Why?” Ren asked them as he reached around and pulled out the arrow. “You aren't dark elves. Why are you after me?”
+
+“We don't answer questions from killers like you!” The Tracker said and loaded another arrow. Ren took out his shield and deflected the shot.
+
+“I said cease fire!” One of the elves said.
+
+“He killed my-” The Tracker stopped talking as both cats had come around the building behind him and sat at his sides. “Wh-what?!?” He looked down at them. “But I saw...”
+
+The Enlarge Person spell wore off, and Ren returned to his normal size.
+
+“He's back to normal size!” One of the elves said. “Get him!”
+
+Ren had lost 100 Health from the arrow shot, and had lost 60 Health so far from being Poisoned. The elves moved around to attack, except for the Tracker. He knelt and hugged his jaguars.
+
+“I can do it again, if you want.” Ren said, and used the wand again. He grew to just over 9 feet tall and stared at the elves. “I didn't attack the last time I was like this.” He said. “Do you want me to attack this time?”
+
+“Do your worst!” One of the elves said, and Ren laughed.
+
+“You wouldn't like that.” Ren said, equipped his hammerpick, and it doubled in size. He looked down the street at some of the townspeople who had gathered to watch. “Sorry about this, everyone.”
+
+Ren hefted the hammerpick over his head, and rather than swing it forward to hit the ground, he swung it backwards, down, and forward with the plow end instead. The double-sized end tore up an enormous trough in the street, right through the paving stones as if they weren't there. Ren jerked the tool up on the follow through, and flung the large amount of dug up dirt across the distance to hit two of the elves. They had failed to dodge out of the way of the near tidal wave of earth that came towards them. The unfortunate elves were engulfed by the dirt, paving stone pieces, and rocks. There was no movement from the pile when it settled, and Ren looked at the remaining elves.
+
+“That wasn't my worst.” Ren said as the spell wore off, and he returned to normal size. “Do you really want me to keep going?”
+
+“Duck!” Teepo said.
+
+Ren ducked automatically as a large arrow, nearly twice the size and thickness of a normal arrow, zoomed past his head and stuck into the ground.
+
+“On the roof, two buildings over.” Teepo said, and Ren turned to look where it had come from. It was an elf, over 8 feet tall, and his longbow was as big as him. He nocked another arrow into the bow, and Ren shook his head.
+
+“Stop this!” Ren shouted.
+
+The elf didn't react at all to Ren's shout, and let the arrow go. Ren held his shield up to defend himself, and the arrow hit the center of the shield with a loud clang of metal on metal. Ren grunted from the impact, and thanks to his Shock Absorption and Block skills, he only took 50 points of damage.
+
+That thing could go right through me! Ren thought as the large arrow fell to the ground in front of him. It's nothing special, either. He thought. It's just a big, thick arrow.
+
+“He's getting ready to shoot again!” Teepo said, and Ren clenched his fist in frustration.
+
+“Fine!” Ren said, made a connection between his hammerpick and shield, angled the shield up towards the elf, then activated the Screaming Terror enchantment.
+
+“Ahhhh!” “Agghhh!” “Oh, god!” “Noooo!”
+
+Ren heard the screams of the townspeople that were caught within the enchantment's cone of effect, but had to ignore them for the moment. With the boosted enchantment, it's power and area of effect had doubled.
+
+Teepo?
+
+“He's dropped the bow” Teepo said. “He's holding his head and shaking it.”
+
+Ren deactivated the enchantment, stored the shield and hammerpick, and took off running.
+
+“Hey! He's getting away!” One of the remaining elves said.
+
+Ren wasn't trying to get away, however. He ran up the street, and used his Boots of Striding and Leaping. He strode and leaped up onto a cart, then to the top of a one storey building. He ran across the top of it, jumped to a connecting balcony, then half-jumped-half-climbed to the top of the next two storey building where the elf with the large longbow had been. It hadn't taken long for Ren to get there, but it was long enough for the elf to have picked up his dropped longbow. He had also recovered from the blast of terror.
+
+“Move, and I'll skewer you.” The High Elf said, with an arrow pointed at Ren's head. “We're supposed to bring you back.” He said. “They didn't say it had to be alive.”
+
+“What do you want with an elfling like me?” Ren asked.
+
+“Ha!” The High Elf said. “We know all about your polymorphing tricks, Dark Elf scum.”
+
+“Dark elf?” Ren asked, then had an idea. I can't polymorph, but I can equip something that might surprise him. “I'm not a dark elf.”
+
+The High Elf shook his head. “You aren't going to convince me you-” His words stopped as Ren equipped his High Elven Court Uniform, that he and Sally had made so long ago. The elf's face froze in shock, because Ren was wearing the royal garments; and now that the elf wasn't actively trying to protect himself from Ren's Aura, he felt how much Honor Ren had. “You... you're not...”
+
+“Nope.” Ren said, took out a stone brick, and threw it at the elf's hand that held the bow.
+
+********
+
+Detective Ramirez was driving his car back to the station, and Officer Stonewall sat in the passenger seat beside him.
+
+“Good, god.” She said. “What are we going to do?”
+
+The detective didn't respond to her question and drove on in silence.
+
+“John?”
+
+He grunted.
+
+“Please, tell me what...”
+
+“There's nothing we can do.”
+
+“What... what do you mean?”
+
+“He's the freaking mayor of the city, Holly!” Detective Ramirez said. “No judge in this whole jurisdiction would issue a warrant to have his place searched!”
+
+“But... aren't we even going to question him?”
+
+“About what?”
+
+“John!”
+
+“A fingerprint on the back of a photo, among thousands.” Detective Ramirez said. “Do you really think he's going to admit he touched the thing?” He shook his head. “He'll deny it completely, and say it was planted.”
+
+“Goddammit!” Officer Stonewall said, and Detective Ramires smiled.
+
+“You've been hanging around me too much.” He said, and she snorted a laugh.
+
+“At least I haven't started calling you honey.”
+
+“What?!?” Detective Ramirez exclaimed, and she shook her head.
+
+“You called me 'honey' just before you went to get the warrant to look in that room.” Officer Stonewall said, and Detective Ramirez' face flushed red.
+
+“I'm sorry about that.” He said. “I just...”
+
+“...got too excited to hold yourself in check.” Officer Stonewall said.
+
+“Yeah.” He said. “I didn't mean to insult you or anything.”
+
+“I know.” She said and sighed. “But you can't say things like that.”
+
+“I...” Detective Ramirez sighed. “I'm sorry.”
+
+“I'm not going to report it.” Officer Stonewall said. “You're going to have enough reports on you tonight to last a while.”
+
+“Thanks.” He said, his voice an even mix of sarcasm and gratitude. After a few minutes of silence, Officer Stonewall spoke.
+
+“So, what are we going to do?”
+
+Detective Ramirez didn't say anything right away, and she relaxed into the seat.
+
+“Do you still have that little voice recorder?” He asked her a minute later.
+
+“No.” She said, saw his frown, then smiled. “I upgraded when the new voice recognition software came out.”
+
+He glanced at her, and she slipped a little device out of her shirt pocket.
+
+“It sends everything right to my phone and home computer. Voice and text at the same time.”
+
+“Hold on.” Detective Ramirez said, slammed on the brakes, and did a u-turn right in the middle of the street.
+
+“John!”
+
+He jammed his foot on the gas and peeled the tires.
+
+“What are you doing?”
+
+“Me? Nothing.” Detective Ramirez grinned. “We, on the other hand, are going to pay a little unofficial visit to our beloved mayor.”
+
+********
+
+Ren had thrown the stone brick hard enough to make the elf drop the bow, but the elf shifted his bow sideways to try and block it. Unfortunately, it deflected the stone up and it hit the elf flat in the face. Ren gasped as the elf was knocked out instantly and started to fall backwards.
+
+“No!” Ren said, and ran forwards to try and catch him; but, it was much too late. The elf fell over the side of the building, tumbled through the air, and landed on the ground. Blood pooled from underneath the body immediately, and Ren saw that the elf's neck was at the wrong angle to still be alive.
+
+“Oh, crap.” Teepo said, and Ren nodded.
+
+Oh crap indeed. Ren thought, changed back into his House Neram red suit, and carefully climbed down the side of the building.
+
+“I guess this is your worst.” One of the elves said, as Ren hopped down the last few feet to land on the ground.
+
+“I didn't mean for it to happen like this.” Ren said. “I tried to disarm him so he wouldn't shoot me, but he deflected the stone. Once he was unconscious, he lost his footing and fell. I couldn't get to him in time.”
+
+“That doesn't matter.” The Tracker said. “You have killed the head scout.”
+
+“What's going to happen now?”
+
+“You are going to have to come with us.” The Tracker said. “To answer for your crimes.”
+
+“What crimes?”
+
+“Murder, for one.” The Tracker said. “Being a dark elf for another.”
+
+“I'm not a dark elf, and I didn't murder him!”
+
+“Whether it was an accident or not, he's still dead.” One of the elves said. He must have dug the two elves out of the pile of dirt they had been buried in, as they were all there now. “You must be brought to the Spire.”
+
+*
+
+“Oh, my god.” Elerlyth said as she finished skimming through the book and closed it. “Ren, you are a stupid, stupid fool.” She shook her head. “How could you just throw your life away like that?”
+
+“Because that's what he does.” Nathalia said from the apartment doorway. “He gives so much of himself to save people, that he sometimes loses himself to it.”
+
+Elerlyth stood up and walked over to her. “I know.” She said. “He's an Adventurer. He's going to lose his life doing things.” She sighed. “But this?” She held up the book. “Who the hell in their right minds does these crazy things?”
+
+Nathalia glanced around. “He must still be at the Library.” She said, and turned around.
+
+“Wait!” Elerlyth said, and Nathalia stopped and turned back to face her.
+
+“What is it?”
+
+“I'm going to need him for a while.” Elerlyth said as she approached.
+
+Nathalia looked at her appraisingly. “Has it started again?”
+
+Elerlyth nodded, and put a hand on her abdomen. “Just as I read the plea to take the giants home in the book.”
+
+“I'll let him know.”
+
+“Thank you.”
+
+“Don't thank me for this.” Nathalia sighed. “Don't thank me for letting you take him away from me.”
+
+“Wh-what?”
+
+“Do you think I don't realize that he has feelings for you?”
+
+Elerlyth didn't say anything.
+
+“You're not going to deny it? Or say that he would never betray me?”
+
+“He told me that he would never tell you that he loves me.” Elerlyth said. “Even if it were true, he wouldn't tell you.”
+
+*
+
+Ren looked at the group of elves, and then at the body. “Before anything else happens, what is your death ritual?”
+
+“Our what?”
+
+“Death ritual.” Ren said. “When one of you dies in combat, what do you do to send them to the next life?”
+
+The elves started to laugh.
+
+“Next... next life?” One of them said. “When we die, that's it. Once we are gone, we are gone.” He pointed to the body. “Whoever is closest takes what they can from the empty remains.”
+
+“Oh.” Ren said. “That's... kind of sad, actually.”
+
+“What?”
+
+“To look at your life now, and think that this was all there is.” Ren said. “To believe that nothing new awaited you when you moved on.” He shook his head. “Where is your hope? Where would your dreams take you?”
+
+“You're crazy.” The elf said.
+
+“Be at peace.” Ren said to the remains of the head scout. He knelt by the body, closed it's eyes, and looted it. The body dissolved and dropped several gold coins, a shadow marker, and the extra large longbow.
+
+“Take him into custody.” One of the elves said.
+
+“No.” Ren said and stood up. “You attacked me, right here in this city, for no reason.” He said, and heard several sets of metal feet approaching after Teepo warned him that the soldiers were coming. “You broke the law by putting the townspeople's lives in danger, and it resulted in the death of one of your own.”
+
+A group of nearly a dozen soldiers came around the corner of the nearby street, and drew their swords. They moved into position, and the elves were now surrounded. The elves looked to the Tracker, as he was the next senior in the group.
+
+“We could easily kill you all.” The Tracker said. “Five High Elves against a dozen humans?” He smiled. “Even the youngest of us has been through almost a hundred years of battle.”
+
+“That may be true.” The lead soldier said. “But we've had some experience with elves.” He smiled. “You hate anything new, because you don't understand it.”
+
+A couple of the soldiers stepped aside, to reveal a Ballista, about half the size of the one Ren had in inventory. It looked to be made of rough wood and was only a single shot, but it's bolt was just as deadly as his was.
+
+Dammit. Ren thought. They made one a lot quicker than I thought.
+
+“More than one.” Teepo said. “Look up the street.”
+
+Ren turned around and saw another one being deployed.
+
+Well, crap.
+
+*
+
+“He would never betray you.” Elerlyth said, and Nathalia didn't wince once.
+
+“I know.” Nathalia said. “He's a good man.” She sighed. “He's better than either of us deserves.”
+
+“I can't argue that.” Elerlyth said. “Here in this world, he's the best thing that's ever happened to me.”
+
+“And what about in the other one?” Nathalia asked.
+
+Elerlyth's eyes widened in surprise. “Wh-what are you talking about?”
+
+Nathalia winced slightly, then smiled. “The world that Adventurers come from, of course.”
+
+Elerlyth's mouth dropped open in shock.

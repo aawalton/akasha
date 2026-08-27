@@ -1,0 +1,331 @@
+---
+id: 7b91f5db-d422-55d0-9d9d-7c9af07866f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 208 - Prepped And Ready"
+slug: 0196-chapter-208-prepped-and-ready
+partOf: mythrans-master-of-all-continued-completed
+position: 196
+ownLength: 3441
+unit: words
+publishedAt: 2017-03-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126612/chapter-208-prepped-and-ready"
+royalRoadId: "126612"
+---
+
+Quest Update!
+
+You have gathered an important resource that will lead you directly to Groggot. The Quest Difficulty has been reduced.
+
+Difficulty: C
+
+Rewards: ????
+
+Ren and Croggart passed out through the brig's door and a couple of the Warriors followed them outside.
+
+“You're not going to do what I think you're going to do, are you?” One of them asked.
+
+Ren smiled. “That depends on what you think we're going to do.”
+
+“You're going to get yourselves killed.” The Warrior said.
+
+Ren laughed, and shook his head. “I'm going to try my best not to do that.”
+
+“Ren.” Croggart said when he got to the back of the cart. “What are those?”
+
+Ren came around to the back of the cart and pointed to one of the dogs. “That's Riley. He's a bit excitable, but completely loyal.” He said and pointed to the other dog. “That's Stacy. She keeps a cool head, and is Riley's better half.”
+
+“Did you just say...” Croggart shook his head. “Is she his mate?!?” He asked astonished.
+
+“Well, I don't think they can actually have puppies.” Ren said. “But, I never really examined them for that, or asked them what they do on their own time.”
+
+“By the gods.” Croggart said, and looked at him. “Can I ride up front with you?”
+
+Ren chuckled as he walked to the front of the cart and took Princess' reins. “We both won't fit, so you can ride up front when we get to the other end of the Garrison.” He said and led her back to the main 'road' that went right through the Garrison to the other side.
+
+“What in the... why are all of the gates open?”
+
+“Just the main ones.” Ren said and climbed into the driver's seat. “Hop in the back and hold on tight. This should only take a couple of minutes.”
+
+Croggart climbed in and held on. “What's only going to take-WHOA!!!”
+
+Princess took off and ran for all that she was worth within the confined space. They covered the distance in only a few minutes and Ren had her slow down when Teepo said the gate was coming up. They came to a stop right at the end and Ren nodded to the guards by the gate. It was opened a minute later, and Ren had Princess trot out and around the barricades.
+
+“At least they buried the traps.” Ren said. Teepo? Can you spot them?
+
+“Easily.” Teepo said. “Follow me slowly.”
+
+Princess followed Teepo closely, and the cart made it's way through the large field of hidden leg-holding traps. Once on the other side, Ren and Croggart switched places.
+
+“Don't touch the reins.” Ren said. “Just tell her where you want to go.”
+
+“Wait a minute.” Croggart said. “You don't want me to drive the cart, just sit here and tell your mount where to go?”
+
+“Yeah.” Ren said and climbed in the back. He grabbed onto one of the sides and smiled. “I assume there's not a lot of roads out this way, so you better hold on. It's going to be a rough ride.”
+
+Croggart held onto the handholds beside where he sat. “What... what do I say?”
+
+“Which direction you want to go, and how fast.” Ren laughed. “What else?”
+
+Croggart sighed. “Go east for a while, then slightly north. Trot at first, then maybe half-speed.”
+
+“You saw how fast we went in the Garrison, right?” Ren asked.
+
+“Yeah.” Croggart said and Princess trotted eastwards. The cart hit several bumps and it rocked from side to side a little, and Teepo landed on Ren's shoulder.
+
+“That was a little more than half-speed.” Ren said. “She couldn't go all out, or we would have hit the gate before we knew it.”
+
+“Oh, cra-aaa-aaa-ppp!” Croggart said as Princess went to half-speed like he asked, and the cart barely touched the ground as it bounced from bump to bump. Ren laughed and held on, as both of the dogs, Riley and Stacy, sat calmly and enjoyed the ride. It looked like they were rocking from side to side, but they were actually staying perfectly still. It was the cart that was rocking back and forth.
+
+“S-s-s-slow d-d-down!” Croggart said once he had endured a good amount of jostling. Princess listened and slowed down to a good pace, that didn't shake Croggart and Ren so much. “You know, we just had a near-miss with a tree.”
+
+“Nope. That's wrong.” Ren chuckled. “We actually missed that tree. If we'd nearly missed it, we would have hit it.”
+
+Croggart opened his mouth to argue, and then he looked at Ren. “Well, damn. I've been saying that wrong for years.”
+
+Ren grinned at him. “How are we in relation to where Groggot is being held?”
+
+“We've only barely started.” Croggart said. “I ran for over 2 days to get back here.” He sighed. “Even with your mount's faster speed, we aren't going to get there soon.”
+
+Ren looked at the terrain. Teepo? Why don't you sit on Princess' helm. We can use your spot ability to warn us if we're about to run into anything.
+
+“Good idea, Ren.” Teepo said and flew over to land on Princess' helm, after asking her permission.
+
+“Then we have no choice.” Ren said and stood up to hold onto the front of the cart right behind the driver's seat. “I've used up way to much time already.”
+
+“What are you going to do?”
+
+“I'm going to hope that the theory of square wheels is true.” Ren said.
+
+“Wh-what?!?” Croggart looked at Ren like he was crazy. “Square wheels?”
+
+Ren nodded slightly. “If you have square wheels, the ride will be really bumpy; unless you go fast enough that only the corners of the squares touch, and the ride becomes as smooth as it would with round wheels.”
+
+“But... we have round wheels...”
+
+“And more bumps than those wheels can handle at a slow speed.”
+
+“Wait... no! You can't!”
+
+“You better hold on tighter.” Ren said to Croggart, then looked at Princess. “Full speed ahead! Let's go!”
+
+Ren felt delight from both Teepo and Princess, and she took off as if they were traveling on a nice flat road.
+
+“Wha-aa-aa-aa-aa-aa-aa-hhhh!” Croggart stuttered as the cart skimmed every bump, and Ren held his delight and laughter in. It would be kind of cruel to let show how much he was actually enjoying it.
+
+*
+
+Nathalia was in the best mood she'd ever been in. She whipped out masterpiece dishes of food without thinking about it, and stepped through the portal and did the same thing on the other side. When there was a lull in the orders, she left the her restaurant and went to Ren's business. She went inside and over to Anabelle, then waited for her to finish serving a customer.
+
+“You know where the orders go by now, Nathalia.” Anabelle said with a huge grin on her face, and Nathalia chuckled.
+
+“Yes, but I'll deliver them later.” Nathalia said. “I just came over to tell you that Ren showed up this morning.”
+
+Anabelle practically jumped over her desk and grabbed Nathalia by the shoulders. “Tell me you aren't joking!”
+
+“I never joke about anything when it comes to Ren.” Nathalia said. “I just wanted you to know he's here, but won't be able to visit for a few days more, at least.”
+
+“Oh, that doesn't matter.” Anabelle said as a tear came to her eye. “As long as he's okay.”
+
+Nathalia nodded slightly and smiled. “He's going to rescue a friend from a giant.”
+
+“He's WHAT?!?” Anabelle yelled, and several people browsing looked over at her. She smiled and waved at them, then looked at Nathalia. “You aren't joking.”
+
+“No.” Nathalia said. “Don't worry. He took his dogs and his mount with him.” She smiled. “If he thought it would be really dangerous, he would have gone alone.”
+
+Anabelle's mouth fell open and she stared at Nathalia. “You still aren't kidding.”
+
+“I wish I was.” Nathalia said and chuckled. “He has a tendency to go it alone if it's dangerous.”
+
+“That man...” Anabelle shook her head.
+
+“I know.” Nathalia said. “I better go. The supper rush will be starting soon. Let the others know for me, will you?”
+
+Anabelle nodded.
+
+“Bye, Anabelle.” Nathalia said, and left the shop. Anabelle walked over to the other woman working.
+
+“Katie, take over the main desk.” Anabelle said. “I've got a couple of errands to run.”
+
+“Sure, Anabelle.” Katie said. “Should I tell Holly?”
+
+“She's fine where she is.” Anabelle said and smiled. “She's sold more lingerie than all of us combined.”
+
+Katie laughed. “She's a real go-getter in that department.”
+
+“It's too bad she can't tell which tool is which, or I'd be glad to have her work alone.”
+
+Katie nodded. “She'd never let you do that, though.” She smiled. “She knows her limitations.”
+
+“It's worth the salary just to have her around.” Anabelle said. “She's such a delight.”
+
+“I know!” Katie said. “Her impression of Lord Eric is hilarious, and she doesn't even mind working every day.”
+
+“You could work every day if you wanted to.” Anabelle said. “But I know you like your personal time.”
+
+“Do I ever.” Katie said and grinned. “All this money won't spend itself, you know!”
+
+Anabelle laughed. “I'm going to Sally's first, then the lumber mill, the Library, and then the mansion.”
+
+“All of that?” Katie asked. “Why?”
+
+“Ren's back.”
+
+“Oooo.” Katie said. “I understand. You better get going then.”
+
+“See you in a little while.” Anabelle said and left the shop. Ren's back! She thought, and ran to Sally's Shop. She had a few people that she had to tell the good news to.
+
+*
+
+After countless stops along the way, mainly for Health Potion enhanced food and to rest from the relentless shaking of the cart, they had traveled for nearly 6 hours at Princess' top speed. Considering it took her an hour to go the 10 hours to get to the warehouse and the portal to Aurora, it was quite an accomplishment. They stopped well away from the trail to the cave, and Ren unhooked Princess from the cart as Teepo took off along the trail. Riley and Stacy hopped out of the cart to take up positions on either side of Princess while she recovered her Stamina.
+
+“I'm hoping I won't need your help.” Ren said to Princess. “I'm going to go and scout first. If I need you, come running as fast and as hard as you can.”
+
+Is there any other way to run? Princess thought to him with amusement. He scratched her chin and bent down to Riley and Stacy.
+
+“The same goes for you.” Ren said, and pat them both. “Guard Princess, and come running when she does.”
+
+They both barked softly, and he smiled. Ren turned to Croggart. “Let's see that busted up armor.”
+
+“There's no time for that!” Croggart said. “We have to go! He's right there!”
+
+Ren grabbed Croggart's arm. “It saved your life before. Do you really want to take the chance of going in there to save your brother without it?”
+
+Croggart looked like he was going to say that he would, without question, then he sighed and handed over the pieces of broken and cracked armor. Ren repaired the pieces, enchanted them with Protection glyphs, and took out one of the crates that held a suit of armor. He gave Croggart a replacement gauntlet after making it red and enchanting it with Protection, then stored the crate.
+
+“Come on, come on!” Croggart urged as Ren equipped his own armor bodysuit and then the gold-colored armor without the helm.
+
+Teepo?
+
+“It's a mess in here.” Teepo said. “There's debris everywhere. You have to be very careful when you Sneak, or there's no point.”
+
+How's Groggot?
+
+“It's hard to tell; but, I'm going to hope he's just asleep.” Teepo said. “He's in the arms of the female giant.”
+
+Thanks, Teepo. Ren thought and looked at Croggart. “Lead on...” He grabbed Croggart's arm. “...slowly and silently. She's probably asleep.”
+
+Croggart took a deep breath and sighed. He looked at Ren and nodded slightly, then moved off into the underbrush along the path to the cave. Ren followed closely behind, and it didn't take long for them to approach the opening of the cave. Croggart pointed to his eyes using 2 fingers, pointed into the cave, then pointed down. Ren nodded slightly, and the two of them moved into the cave and kept a look out for things they might trip over. Unlike when they were outside, they moved very slowly in the cave, so they wouldn't take any chances on making any noise whatsoever. Even just shuffling their feet echoed from the walls, and they slowed down to a crawl as they moved deeper into the cave. It took a while to get to the end and where the giant had made her nest.
+
+There were things smashed and crushed all over the place, but the biggest pile Ren could see, the giant was sleeping in. It was almost literally a nest of things that she was on. She lay on her back; her tattered clothing hanging off of her. One of her giant breasts, nearly two feet wide if Ren had to guess, was exposed through one of the many rips in her shirt; the huge 3 inch wide brown tip poked straight up in the air. Nestled firmly between the breasts, and tightly held by giant arms, was Groggot.
+
+“He's still alive, at least.” Croggart whispered. “What should we do?”
+
+Ren sat there and thought about it. Dammit, what should we do? He opened his inventory and looked through the contents. I had hoped we'd catch her away from the cave, or at least separated from Groggo- His thought was cut off when he saw the Level 1, Level 2, and Level 3 Spell books. Ren pulled out the Level 1 Spell book, since that was the only one he could use at the moment, and read through the index of contents. It didn't take long, since it was only a small book.
+
+Spell List
+
+Name  Page
+
+Acid Arrow  2
+
+Color Spray  3
+
+Detect Undead  4
+
+Enlarge Person  6
+
+Fireball  7
+
+Ghost Sound  8
+
+Grease  9
+
+Magic Mouth  10
+
+Major Healing  11
+
+Minor Healing  12
+
+Obscuring Mist  13
+
+Reduce Person  14
+
+Shield  16
+
+Silent Image  17
+
+Sleep  18
+
+Sleet Storm  19
+
+Web  20
+
+Ren wasn't sure if the spells would be the same as he saw in other games that he played, so he took the time to read through the book. His Speed Reading ability was at Intermediate Level 2, so 20 pages went by pretty fast. He took out a fireball wand and absorbed the charges from it, then replaced the spell with Sleep.
+
+That will definitely come in handy. Ren thought, and took out another Fireball wand and absorbed it's charges. He replaced it with Ghost Sound, just in case they need a distraction, then replaced another Fireball wand with Web. Ren was tempted to use Obscuring Mist, but that was just as likely to interfere with their own movement, not just the giant. On the next wand he used Reduce Person.
+
+If she starts to attack, that is definitely the spell we'll need. Ren thought. Lastly, he made one with Grease, then picked up each wand and examined it.
+
+Wand Of Slumber
+
+A sleep spell causes a magical slumber. Creatures with the lowest Health are affected first. Sleeping creatures are helpless. Slapping or wounding awakens an affected creature, but normal noise does not.
+
+Warning: Multiple sleep spells do not stack. The first must expire before another will work.
+
+Cast Distance: Within 100 feet (Medium). Area of Effect: 10 foot radius.
+
+Time Limit: 2 minutes (Level 1)
+
+Wand Of Distraction
+
+A Ghost Sound spell allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound Ghost Sound creates when casting it and cannot thereafter change the sound’s basic character.
+
+The volume of sound created depends on your level. You can produce as much noise as four normal humans per Wand level (maximum twenty five humans). Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The noise a ghost sound spell produces can be virtually any type of sound within the volume limit.
+
+Ghost Sound can enhance the effectiveness of a Silent Image (Level 1) spell.
+
+Ghost Sound can be made permanent with a Permanency (Level 5) spell.
+
+Warning: Multiple Ghost Sound spells do not stack on the same object / item. The first must expire before another will work.
+
+Cast Distance: Within 100 feet (Medium). Area of Effect: Varies, depending on the sound being produced.
+
+Time Limit: 2 minutes (Level 1)
+
+Wand Of Entanglement
+
+A Web spell creates a many-layered mass of strong, sticky strands. These strands trap those caught in them. The strands are similar to spider webs, but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points or else the web collapses upon itself and disappears. Creatures caught within a web become entangled among the gluey fibers. Attacking a creature in a web won’t cause you to become entangled.
+
+If you have at least 5 feet of web between you and an opponent, it provides cover. If you have at least 20 feet of web between you, it provides total cover and you cannot be seen.
+
+Web can be made permanent with a Permanency (Level 5) spell. A permanent web that is damaged (but not destroyed) regrows in 10 minutes.
+
+Warning: The strands of a Web spell are flammable. A magic flaming sword can slash them away as easily as a hand brushes away cobwebs. Any fire can set the webs alight and burn away 5 square feet in 1 minute. All creatures within flaming webs take 4 to 8 points of Fire damage from the flames.
+
+Cast Distance: Within 100 feet (Medium). Area of Effect: 20 foot circle.
+
+Time Limit: 10 minutes (Level 1)
+
+Wand Of Shrinkage
+
+A Reduce Person spell causes instant diminution of a humanoid creature, halving its height, length, and width and dividing its weight by 8. This decrease changes the creature’s size category to the next smaller one. (Large becomes Normal, Normal becomes Small, etc.) The target gains a bonus to Dexterity (as it is now smaller and can move faster), a penalty to Strength (it is now weaker and unused to it's new muscle mass), and gains a bonus on attacks and armor due to its reduced size (it is much harder to hit).
+
+All equipment worn or carried by a creature is similarly reduced by the spell. A Small humanoid creature whose size decreases to Tiny takes up a space of 2 feet, and a natural reach of 0 feet (None).
+
+Reduce Person can be made permanent with a Permanency (Level 5) spell.
+
+Warning: Multiple Reduce Person spells do not stack. The first must expire before another will work.
+
+Cast Distance: Within 25 feet (Short). Area of Effect: One humanoid within cast distance.
+
+Time Limit: 2 minutes (Level 1)
+
+Wand Of Slickness
+
+A Grease spell covers a solid surface with a layer of slippery grease. Any creature in the area of effect when the spell is cast must be careful or they will slip and fall. Movement is automatically reduced to half of normal for the duration of the spell.
+
+Warning: Multiple Grease spells do not stack. The first must expire before another will work in the same area.
+
+Cast Distance: Within 25 feet (Short). Area of Effect: One object, or a 10 foot square.
+
+Time Limit: 2 minutes (Level 1)
+
+Ren kept out the Sleep, Grease, and Web wands, and stored the other two wands in the top two slots of his inventory. He looked at Croggart; who was staring at Ren like he had three heads and had never seen such a thing before.
+
+“You've missed a lot while you've been gone.” Ren whispered to him, then handed him the Grease wand. “Grease, to make her arms slick.” He said softly, then lifted one of the wands he held. “Sleep, to keep her unconscious.” He lifted the other. “Web, to tie her down.”
+
+Croggart looked at the wand in his hand. “No offensive spells?”
+
+“I can give you a fireball wand if you want; but if it comes down to that, we're screwed unless I reduce her in size.” He whispered. “Giants have spell resistance, if I remember correctly.”
+
+Croggart nodded slightly. “Let's go.” He whispered, and they crept forward.

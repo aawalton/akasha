@@ -1,0 +1,175 @@
+---
+id: 4f6ef63f-e0c2-5113-aeb5-434484eab228
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97 Permanence"
+slug: 0102-chapter-97-permanence
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 102
+ownLength: 2074
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3681635/chapter-97-permanence"
+royalRoadId: "3681635"
+---
+
+As Talia immediately began questioning the masons further regarding mortar production, Harlon glanced toward Garrick and jerked his head slightly toward the riverbank before turning away.
+
+The miner followed after him without a word.
+
+"We've been slaking it at the ridge outpost and transporting it here afterward." Talia said as she gestured toward the southwestern direction.
+
+The mason with the pipe gave a slow nod. "Good. Quicklime's nasty to haul if the weather turns ugly." He followed Talia's gesture. "Heard from Garrick that there's a stream there."
+
+Lucien folded his arms behind his back. "Yes. The stream has made slaking it there far easier, though transportation remains one of the main bottlenecks. But we will not be constructing stone roads just yet."
+
+He exchanged looks with Talia before he continued. "Instead, the craftsmen's quarter takes precedence. Particularly the blacksmith forges."
+
+The more finely dressed mason blinked in surprise. “You are not planning on reinforcing the walls first, My Lord?”
+
+At his words, Lucien shook his head. "That will come later, perhaps during the middle of summer."
+
+Without proper workshops already prepared, few blacksmiths would willingly relocate this far into the frontier regardless of his offers.
+
+Facing away from them briefly, the mason with the pipe blew out smoke. “Walls need too much stone, and the Tithe’s still months away. But other than the forge kilns and the foundations for them, you won’t need much for the quarter itself, Lord.”
+
+Beside him, the other mason gave a slow nod. “We asked Garrick how much stone comes down from the outpost, My Lord. It is not much, but for a village this size...it is significant.”
+
+Talia tapped her cheek lightly. “Still not enough for paved roads though. We don’t have the labor for that either.”
+
+Lucien’s gaze lowered briefly in thought. “We plan to relocate some of the villagers’ homes to make room for the craftsmen’s quarter. Some of the stone can be used to build proper foundations for them.”
+
+His eyes lifted again. “The granaries should also take priority. The village’s population is likely to increase over the coming months, and proper food storage will only grow more important with time.”
+
+The finely dressed mason stroked his beard thoughtfully. “That is sensible, My Lord. It would consume most of the current stone production, but I believe there should still be enough for everything you have mentioned.”
+
+Twirling his pipe between his fingers, the older mason exhaled slowly through his nose. “We’ll have to wait for early summer before expanding the work proper. The farmers are still tied up with their fields this time of year.”
+
+Lucien inclined his head slightly before gesturing toward the ditch beyond them. “By then, the ditch should be far enough along that we no longer require so many men here. We may even have enough labor to assign additional workers to the ridge outpost.”
+
+Turning toward the village, Talia raised a hand to shield her eyes from the sun. “We might even have enough to squeeze in one more improvement too!”
+
+She glanced back toward him. “Maybe foundations for the new homes being built near the quarter for the families needing to move?” Her gaze shifted toward the northern palisades. “Or the culvert beneath the gate road?”
+
+Lucien’s brows creased before he looked toward the two masons. “How much stone would a culvert require?”
+
+The older mason drew slowly on his pipe in thought before blowing the smoke back out. “A full stone culvert would take a fair amount. But if timber carries most of the structure and we only line the sections where the water comes through...”
+
+He gave a slow nod. “Wouldn’t need much stone at all. Though it won’t look particularly pretty, Lord.”
+
+Lucien shook his head. “It does not need to be. As long as it endures until we can eventually replace it with a proper stone one later.” His gaze drifted back toward the village. “Once summer begins, and with additional men assigned to the ridge outpost...”
+
+He fell silent for a moment, mentally weighing the stone they would realistically have available before looking toward the two masons once more.
+
+“Would there be enough by then to lay the foundations for a dozen homes?”
+
+The two masons exchanged brief looks before the man with the finer clothing carefully spoke.
+
+“It might be just enough, My Lord. But if anything unforeseen were to occur...there would be delays.”
+
+Talia let out a light chuckle. “That goes without saying. Lord Lucien isn’t the type to expect perfection anyway, right?”
+
+She gave him a wink, causing him to exhale lightly before speaking.
+
+“If there are delays, do not hesitate to inform Harlon. The frontier isn’t a place where we can expect things to always go smoothly. He will be the one assigning the appropriate people to each task.”
+
+The two men dipped their heads while Talia immediately began speaking to them at length about possible ways to improve the mortar’s production and quality.
+
+Lucien walked over to where the other two men were speaking quietly nearer to the riverbank.
+
+At his approach, Harlon glanced toward him and gave a nod. Garrick turned slightly to face him, though his brows creased faintly as he noticed a villager from Cragwatch digging along one section of the ditch while pointedly ignoring the western farmers nearby.
+
+The carpenter drew on his pipe. “Lord. Heard you were leaving for Helvarn soon?”
+
+Stopping beside them, Lucien inclined his head. “Yes. Tomorrow, if the weather holds.”
+
+Garrick stiffened slightly though he remained silent. Harlon cast him a look before shaking his head lightly as he spoke.
+
+“Meeting Garrick’s half brother, then?”
+
+At the carpenter’s words, Lucien’s eyes widened, though the reaction faded quickly.
+
+“You knew about it when you told me Garrick wanted to speak with me.”
+
+Harlon gave a slow nod, smoke curling from his pipe. “Aye. Wanted to have this brat here tell you himself. Wasn’t my place to say anything.”
+
+A light grunt escaped Garrick. “Brat? How long are you going to keep bringing that up, old man?”
+
+The corner of the carpenter’s mouth twitched. “Who was the one demanding two wooden swords whenever your family traveled through Ashridge all those years ago?”
+
+Lucien could not help but stare at the exchange between the two men. “I didn’t expect the both of you to share that sort of history. You certainly didn’t give off that impression when we spoke about the ridge outpost months ago.”
+
+Garrick shook his head, shooting the older man beside him a mildly annoyed look.
+
+“We only met once, Lord. And it was a long time ago when I was still a child.” He snorted, thumbing toward Harlon. “This old man’s been around long enough that he probably knows everyone in the region by now.”
+
+At his words, Harlon let out a huff though he made no attempt to deny it.
+
+In hindsight, it made sense. House Vaelric had taken charge of Cragwatch around the same time Ashridge was first established under the former lord, and Harlon had been around since the village’s founding.
+
+Lucien let out a breath. “During the meeting at Helvarn...I will try to deal with Lord Vaelric fairly, Garrick. But I can’t make any promises if he attempts to ask for too much.”
+
+The miner shook his head firmly. “No, My Lord. The people here take precedence over my...brother. I shared my story merely so you could better understand his motives.”
+
+He exhaled through his nose, a tired look settling over his face. “And there are other problems here as well.”
+
+Garrick’s gaze shifted toward where the men were digging. Harlon and Lucien followed his line of sight.
+
+Lucien gave a slow nod. “I have tried to divide the groups as evenly as possible. But it seems the resentment still lingers.”
+
+A cloud of smoke drifted from Harlon’s pipe before he spoke. “Men don’t forget that easily, Lord.”
+
+Garrick crossed his arms as he continued observing the workers. “One of the other reasons I took up the work at the ridge outpost was to avoid this.”
+
+Lucien glanced toward him, one brow lifting slightly. “You didn’t want them gathering around you because of your connection to House Vaelric?”
+
+The miner inclined his head. “They might not think highly of the current Lord Vaelric now. But there was a time when the house treated its people well.”
+
+He unfolded his arms, one hand rising to rub at his temple. “The reeve from Cragwatch asked me to remain in the village back when you first put me in charge of the ridge outpost.”
+
+Garrick exhaled softly through his nose before continuing. “But I told him there is already a noble here. And the less time I spent around them, the less likely they were to dwell on times long gone.”
+
+Harlon shook his head. “Instead, they simply found someone else to gather around. You staying out there wasn’t going to ease their resentment either.”
+
+At the older man’s words, Lucien let out a soft breath.
+
+“Bran’s kin and the former reeve.”
+
+One represented the older establishment while the other was tied to Alicia through blood. From their perspective, he could hardly blame them for making assumptions.
+
+The carpenter glanced toward him before nudging his head toward a small group consisting of Cragwatch villagers and eastern villagers. “Some of the newer folk have started gathering around together as well.”
+
+Lucien’s brows creased faintly. “Which brings us to the next matter. Harlon, I need you to ensure the groups are properly mixed once we begin the stone upgrades during early summer.”
+
+The older man stroked his beard thoughtfully. “You likely have several different sites planned?” At Lucien’s nod, he gave a grunt. “Then we split the groups farther apart this time. Less chance for them to favor their own when they’re separated like that.”
+
+Lucien inclined his head before turning toward Garrick. “Do you still have...influence among the people of Cragwatch? Or with the reeve?”
+
+Garrick let out a breath as he shook his head. “I don’t know, My Lord. I haven’t been present these past few months. They might resent me for it because of that.”
+
+At the miner’s words, Lucien cupped his chin thoughtfully. “Would you...prefer to remain closer to the village from now on, then?”
+
+Garrick’s eyes widened slightly. “But the ridge outpost...?”
+
+Lucien shook his head. “The work there can continue without you being present all the time, Garrick. Besides, there is more work for you here now that we will likely need to begin planning future roads within Ashridge.”
+
+His eyes met Garrick’s steadily. “You do not need to speak to them if you are not ready for it. But having you nearby if something happens...it may help cooler heads prevail.”
+
+Harlon remained silent, though he gave a faint nod toward Garrick, who now wore a conflicted expression.
+
+“...I have been thinking about finding work besides mining lately.” Garrick admitted hesitantly.
+
+Lucien gestured toward Ashridge in the distance. “And there is no shortage of work here. But the choice remains your own, Garrick. If you wish to stay at the ridge outpost, then that is fine as well.”
+
+The older man seemed momentarily at a loss, and Lucien realized it was likely the first time Garrick had truly been given the freedom to choose his own path.
+
+Garrick’s gaze lowered in thought for a long moment before finally lifting once more. “...I will help with the planning alongside Harlon. But My Lord...could you give me some time to think about any work after that?”
+
+Lucien inclined his head. “Take all the time you need, Garrick.”
+
+The conversation drifted toward the water gate after that as Harlon spoke about the progress made since the small test they had conducted a week earlier.
+
+Lucien and Talia had both been present for it, though that was largely because Talia had insisted he come to watch. In the end, he had indulged her, with Alicia and even Sera accompanying them as well.
+
+Garrick, far more comfortable discussing matters related to terrain and construction, began warning that after the initial stone upgrades, they should focus on improving the roads through the key sections of Ashridge next.
+
+As the afternoon sun settled over the worksite, the two men dipped their heads before returning to their respective tasks while Lucien began making his way back toward the manor, Talia merely waving him onward from where she remained speaking with the masons.

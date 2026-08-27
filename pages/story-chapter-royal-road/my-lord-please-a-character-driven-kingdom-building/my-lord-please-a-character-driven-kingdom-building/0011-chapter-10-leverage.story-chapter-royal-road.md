@@ -1,0 +1,191 @@
+---
+id: 174e2c3d-ec5a-5d95-b2b5-d94cc3a23080
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 Leverage"
+slug: 0011-chapter-10-leverage
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 11
+ownLength: 2388
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202270/chapter-10-leverage"
+royalRoadId: "3202270"
+---
+
+Although he hadn't been in this world for more than a week, Lucien had already begun to grow accustomed to how people saw and subsequently treated him. It was a great deal more respect than he had ever garnered before.
+
+It still felt uncomfortable to be given that respect because of his status rather than his deeds, and he had never been one to seek such things in his former life.
+
+So, he was actually rather glad that Joren's first words and greeting were filled with hostility.
+
+It would have been better if it was something “he” had done and not this body’s original owner, but Lucien supposed one couldn’t have everything in life.
+
+The room had grown rather tense after Joren's rude greeting.
+
+Alicia looked as though she half wanted to shrink back, while the other half of her wanted to jump in and say something to defend the surly blacksmith.
+
+Harlon had simply snorted and leaned against the wall, his arms remaining folded.
+
+"Still, you’ve the nerve for it, I’ll grant you that. We’d begun to think we might never see Alicia’s face again." Joren continued after a moment, his hostility fading just a hint while something guarded took over his expression.
+
+"You are close with Bran’s family, then." Lucien stated. He had guessed as much when he had noted how Bran was one of the few in the militia who was actually equipped decently.
+
+A proper spear and shield, with even basic protective clothing like a leather jerkin, wasn’t something a normal farmer would have spare coin to purchase.
+
+"I knew the lad and his kin when they first came here, some years back. Watched Alicia grow from a wee little thing into the young woman she is now." Joren growled.
+
+Lucien couldn’t help but think about what that must have meant for someone like him to just come swooping in, taking Alicia into his service and nearly executing Bran.
+
+He had a feeling Bran wouldn’t have been the only one storming the manor gates if more time had passed without her being seen in the village.
+
+"As you can see, Alicia has fared well enough. She has not been mistreated in my service as a personal maid." Lucien gestured toward Alicia, who had finally decided to remain silent.
+
+At his gesture, she stiffened slightly but otherwise tried to maintain a placid, professional demeanour.
+
+She looked adorably like a girl in her first real job, wearing clothes that barely fit her and performing a role she was inadequately prepared for.
+
+"Hmph. A personal maid, is it? You should've said that instead of hauling her off to your manor that day." Joren grumbled, a sceptical look on his face.
+
+"I had only just arrived from the capital and found myself without proper staff. Hiring a maid was a practical first step. Alicia appeared well-suited to the role." Lucien explained lightly.
+
+It was an explanation that was plausible given what he had learned so far. It was well within his rights as a noble to employ a maid from among the locals if she proved suitable.
+
+Of course, the criteria for who was considered “suitable” was likely based on appearance rather than skill, but as long as he provided for the individual’s basic needs, he had the right to employ a peasant without needing that peasant’s approval.
+
+He didn’t know how other nobles conducted themselves, but he suspected concepts like freedom of choice ranked very low in this time and place.
+
+"Aye, I can see why a young noble might be tempted to take in a pretty lass like Alicia." Joren wasn’t happy with his explanation, but the man’s expression grew darker as he continued. "And you’re not the first lord to take notice of her."
+
+His words caused her to pale slightly and Harlon to frown at the implication.
+
+"Is that so? I suppose that is hardly surprising. Alicia’s appearance is...remarkable, after all." Lucien hummed aloud, deliberately rubbing his chin thoughtfully.
+
+The color drained from her face for a breath flared into full embarrassment the moment Lucien and Joren nodded together. Color rushed to her cheeks with little mercy. The forge’s warmth seemed to recede, replaced by the peculiar chill that accompanied a rare instance of unanimous male agreement.
+
+"Aye. Beauty’s a curse when there’s no strength behind it. The previous lord," Joren spat, a harsh sound at the mention of the former ruler of Ashridge, "had his eye on taking her into service before he was recalled. He would have, too, had Bran not kept the girl well out of his sight."
+
+Appearance, in this world, did not carry the same kind of advantages it might have in his former life.
+
+Beauty had always been something humans were naturally drawn to, and in his old world it could be monetized, leveraged, protected. Here, however, appearance was only a boon if one had the strength or power to defend it. Otherwise, being attractive was closer to a liability than a blessing for commoners.
+
+Alicia looked slightly downtrodden at being framed as the cause of her family’s suffering. It was clear she took that fact to heart, even though it was not her fault.
+
+"Didn’t save her from your reach when you rode in a few weeks later, though." Joren added, his gaze still fixed on Lucien as if weighing whether that was a good or bad outcome. "At least you haven't bedded her yet," Joren added at the end, nodding to himself.
+
+"Unc-Master Joren!" At those words, Alicia finally yelped, unable to restrain herself.
+
+"Bah, you’ve been of marriageable age for years now. Were it not for the lord’s attention lingering over you, you’d have been wed long since." Joren chuckled, ignoring the embarrassed squawks from the blushing girl, who quite admirably still held her position despite clearly wanting to flee.
+
+‘I wondered as much, but I suppose that makes sense if the girl caught the eye of the ruling nobility,’ Lucien noted inwardly.
+
+It had been a question lingering in his mind ever since he noticed the difference in appearance between the other villagers and the petite maid escorting him.
+
+Marriage in a medieval setting often happened young. He had wondered how someone like Alicia, who appeared at least eighteen or nineteen and possessed such looks, yet had remained unwed.
+
+"Then you understand why I have been...making her presence known today." Lucien replied, his tone light but his words carrying a firm warning that he would not tolerate further insults.
+
+Just because Joren’s reaction had been understandable did not make it any less rude. If this meeting had taken place in public, Lucien would not have been able to be as lenient.
+
+Dorian’s words had rung true, appearances mattered and a commoner, even a valuable one like a blacksmith, would not be spared punishment if caught disrespecting his lord openly.
+
+It wasn’t something Lucien personally cared for, but this world did not care about his preferences. It cared about order and perception. And if Joren had spoken that way in front of others, Lucien would have been forced to respond.
+
+"Aye. My apologies for the rough welcome. I had to be certain," the surly man rumbled, bowing his head slightly. His tone was apologetic but only just enough.
+
+Lucien simply nodded in response. “Besides, there is a reason I am meeting with you and Harlon beyond merely showing Alicia’s face to the villagers.”
+
+“The coming winter, then?” Joren asked, his frown deepening as the topic shifted to something far grimmer. "Aye, come in. I reckoned as much when I saw this old grouch shadowing you."
+
+The blacksmith stepped aside and led them into the forge. The harsher heat near the anvil gave way to a more contained warmth deeper inside, still heavy with smoke and iron but far more bearable than the furnace at the entrance.
+
+Within was a small sitting area not unlike Harlon’s own. Lucien suspected the carpenter had built much of this place when Joren first settled in Ashridge, beam by beam, plank by plank.
+
+The interior felt less like a storefront and more like a working stronghold. Unfinished blades, raw iron bars, and completed tools were stacked in deliberate clusters, organized by a system only the blacksmith himself seemed to understand.
+
+Lucien allowed himself only a brief glance around. There would be time to observe later.
+
+Now, they were about to begin a discussion that would determine whether Ashridge endured the coming winter or joined the long list of frontier settlements that had not.
+
+“Well then, what is it you wish to discuss, my Lord?” Joren asked once they were all seated.
+
+“The militia’s equipment. Their spears, specifically. I observed yesterday that most are carrying little more than farming tools. How long would it take you to produce a hundred proper spears?” Lucien questioned bluntly.
+
+It seemed both Joren and Harlon preferred plain speech, which suited him just fine.
+
+“A hundred spearheads...” the blacksmith hummed, frowning at the number. “Before the beasts come? Even if I set all else aside, I would scarcely manage a hundred.”
+
+“And even if Joren met your number,” Harlon interjected, “I could not shape a hundred shafts alone.”
+
+“Assume, for the moment, that manpower is not your concern. What then?” Lucien pressed, nodding slightly at Harlon to indicate he had heard his words.
+
+“...If manpower weren’t an issue,” Joren trailed off, his eyes meeting the older carpenter’s.
+
+A silent exchange passed briefly between the two men. “Then...aye. It could be done.” he finished, though the scepticism remained in his tone.
+
+“I do not need spears of fine quality,” Lucien added. “Only arms that will endure the end of this winter.”
+
+“If we strip what scrap remains and melt down the broken tools, I can forge the heads…” Joren said, leaning back as he began making mental calculations. “But the shields are another matter. We barely have enough iron for proper bands as it is, especially if we’re talking about another hundred to match the spears.”
+
+“If the shields need only endure the Tithes,” Harlon said, drawing out his pipe, “I have enough timber. We can make up for the lack of iron with reinforced leather grips and bindings.”
+
+“Um...” Alicia’s soft voice interrupted the flow of discussion. “I thought we had only sixty in the militia...Why would we need a hundred spears and shields, my Lord?” she asked hesitantly, uncertain whether she ought to speak at all.
+
+“A shield wall is only as strong as its weakest member,” Lucien explained patiently. “Battle breaks arms as surely as men. I would prefer twice that number, but a hundred is a prudent start.”
+
+“A man without shield or spear should not be counted in the line at all,” Harlon added flatly. “Especially if their arms differ in reach or balance. Uniformity matters.”
+
+“Hmph. The shafts can at least be turned back into farming tools come spring,” Joren muttered. “The heads I’ll likely melt down again.”
+
+There was bite in his words, but it was directed at circumstance rather than any man in the room.
+
+“Not all of them. But the problem of labour still remains,” Harlon replied tiredly.
+
+“How do you normally divide the labour between you?” Lucien asked, looking between the men.
+
+“Bran helps me from time to time when he’s free. Some of the others too,” Joren explained, gesturing vaguely with one hand. “I pay in barter, most times. Or with serviceable tools.”
+
+“Same here. We try not to use the same men at the same time, but I have similar arrangements with a few of them,” Harlon continued, puffing on his pipe.
+
+“Then there are no formal labour priorities set among the villagers?” Lucien asked.
+
+“It’s not as though we can compel them,” Joren grumbled. “Especially with how your captain has been drilling them hard enough lately.” There was a faint accusation in his tone.
+
+“Dorian’s drills are necessary, Joren. And I believe the present strain may be turned to an advantage.” Lucien replied evenly, ignoring the jab and steering the discussion back to the main issue.
+
+“Lord...even with a decree, unwilling hands make poor labour.” Harlon warned.
+
+“You will find, Harlon, that I do not favour authority used in such a crude manner.” Lucien assured him firmly.
+
+“But how will you find willing men without issuing a decree?” Joren interjected, still skeptical.
+
+“Instead of framing it as labour or assistance,” Lucien answered, a faint smile forming, “we present the chance to assist you as a reward.”
+
+“...A reward?” Joren raised an eyebrow, clearly unsure where this was going.
+
+“I assume the current militia drills are not particularly popular?” Lucien asked, shifting the subject abruptly.
+
+“Most of them understand the necessity,” Harlon replied flatly. “But the previous captain wasn’t as strict last year. So they grumble more now, though they still comply.”
+
+“Then we implement a weekly rotation. Each week, the best contenders will be granted time in your workshops instead.” Lucien said. His faint smile sharpened slightly as both men reacted.
+
+“You would reward the most capable of them with...more work?” Joren muttered, confusion evident in his voice.
+
+“...You mean to pay them.” Harlon stated, the implication from before dawning on him.
+
+“As I said earlier, gold may not solve the problem outright. But it can shape the answer.” Lucien replied lightly.
+
+“Hold on, Lord. You mean to pay these extra hands from the treasury?” Joren pressed, beginning to understand.
+
+“The amount and duration can be negotiated,” Lucien said. “But yes, that is my intent.” He did not mention that he intended to draw from his personal funds rather than the village treasury.
+
+“At the same time,” he continued, “the men will prove more diligent in their drills. If strong performance earns them coin rather than another punishing session under Dorian, they will strive all the harder.”
+
+His faint smile grew into something sharper, perhaps even slightly unsettling, judging by the cautious looks exchanged between the carpenter and blacksmith.
+
+It was an idea that had taken root after observing the drills the previous day. The militia could not be treated as professional soldiers.
+
+So how did one motivate farmers to take military training seriously and then willingly contribute additional labour toward their own survival?
+
+You give them something more tangible and closer to aim.
+
+And more importantly, give them a reason to choose it.

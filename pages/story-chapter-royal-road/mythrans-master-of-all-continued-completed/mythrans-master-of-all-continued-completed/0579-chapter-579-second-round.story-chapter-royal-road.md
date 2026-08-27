@@ -1,0 +1,207 @@
+---
+id: 0015d94d-1ac2-5673-9199-1bd1b59f3677
+page-type-slug: story-chapter-royal-road
+title: "Chapter 579 - Second Round"
+slug: 0579-chapter-579-second-round
+partOf: mythrans-master-of-all-continued-completed
+position: 579
+ownLength: 2686
+unit: words
+publishedAt: 2018-05-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213881/chapter-579-second-round"
+royalRoadId: "213881"
+---
+
+The 8 foot long electric eels descend upon the participants, and more than half of the Sea Dwellers dodged the assault. The ones that didn't dodge had the right idea, because the ones that dodged out of the way of one eel, ran into another.
+
+The crowd let out oo's and ah's as the eels let bolts of Lightning fly out almost simultaneously, and they hit the much easier targets, which blasted the dodging Sea Dwellers to make them tumble through the water and knocked them temporarily out of the fight. The ones that didn't dodge took the attack head on and used their various weapons to kill the eels that had expelled their charge. It took the eels a moment to build up another charge, so they were vulnerable while that happened.
+
+That didn't mean they were defenseless, however.
+
+One poor Sea Dweller had three of them wrapped around his arms and chest, and another eel diverted from a moving target to the immobile one. The male gurgled for help, and a spear hit the attacking eel in the middle of its body and pinned it to the ground. It wasn't dead, just incapacitated.
+
+“Thank you.”
+
+“I'm not helping you, I'm just taking free kills.” The other male said and used a dagger to stab the three eels that held the other.
+
+“Same thing.” The newly freed male said and picked up his dropped spear. “Hey, duck!”
+
+The other male ducked and the freed one shoved his spear down the open throat of an eel about to chomp down on his rescuer. The eel was stuck with the spear almost all the way down it's length, and the other male stood up and slapped the freed male's shoulder. He nodded at the incapacitated eel, and the freed male knelt and killed it, as well as the one still quivering on his spear.
+
+The other males were having just as much of a hard time with the eels; but, they also helped each other.
+
+*
+
+“I was going to ask if this was a bit too dangerous to have as the first event, but they seem to be handling things quite well.” Ren commented. “Even the ones that took the brunt of the Lightning bolts are getting back into the fight.”
+
+“They are at a disadvantage because they missed a lot of easy kills.” Railyse said. “The others are far ahead of them and it will be difficult to make up the numbers.”
+
+“Can I assume the eels aren't an endangered species or something?” Ren asked, and Railyse laughed.
+
+“They were culled from the massive eel colonies that roam the depths, far out in the realm.”
+
+“So, more than enough for this.” Ren said. “How do they taste?”
+
+Railyse looked at him with distaste. “You would need a high affinity with Lightning to even hold it, let alone eat it.”
+
+Ren chuckled. “It could be the most delicious thing, and no one can eat it.”
+
+Railyse smiled. “You're welcome to try.”
+
+“Thank you.” Ren said and looked for a good one. He found a cautious one that was straggling behind the others, and since it was well within his Aura, he grabbed it with his Water Manipulation ability. It hollered and hissed it's displeasure, and Ren pulled it away from the fight and over towards where he sat. The eel caught sight of him and Ren could feel it's hatred, and hundreds of Sea Dwellers watched the eel's progress across the arena. When the eel thought it was close enough to it's target, it let out a huge bolt of Lightning that shot at Ren.
+
+Ren already had his hand up to block it, so when the Lightning hit it... the bolt disappeared. The crowd gasped in shock at that, and he could feel that surprised them more than his chest laser had surprised the people that had seen it. He smiled and brought the eel right over to him, and it hissed and tried to bite him when he put his hand near it.
+
+“I'd tell you to be nice, but considering I'm going to eat you, you have a right to be angry.” Ren said, and grabbed the eel behind it's head, just like you would do for a snake, and he wasn't shocked at all.
+
+“H-how are you doing that?” Railyse asked.
+
+“Trade secret.” Ren said. Sweat beaded on his forehead, and he laughed. “It's an enchantment I came up with to protect me.”
+
+Ren didn't explain that he had enchanted Anti-runes for all of the elements into his platinum armor, or that he had activated the Anti-lightning runes to absorb any Lightning that tried to hurt him. He twisted his hand and snapped the eel's spine, took out his hammerpick and used the plow end to lop off the eel's head to ensure it was dead.
+
+“What are you doing?!?” The old Queen asked, quite loudly.
+
+“Hm?” Ren looked at her, and then noticed Railyse's hungry face as she stared at the blood in the water. “Oh! I'm sorry.”
+
+Ren used his Water Manipulation ability to pull the blood back and shoved it into the head, then held the body and head together and made the water solid around it to stop the blood from leaking out.
+
+“I didn't want it to suffer.” Ren said and stored the hammerpick and the eel.
+
+“That's not what...” The old Queen shook her head. “Never mind.”
+
+Ren went back to watching the battle in the arena, and he didn't notice that a good portion of the Sea Dwellers were now watching him instead of the fight.
+
+*
+
+The male Sea Dwellers in the arena were too busy to notice one eel being taken from their mass of attackers. They fought their way to eliminating all of the eels, and when they reached the tipping point of where the eels numbers had dropped enough, the task became much easier.
+
+The males looked around when all the eels were dead and they saw that they had lost over 30 of their fellow competitors to unconsciousness. They were removed from the area by the attendees, and the remaining 120 Sea Dwellers were ready for the next challenge.
+
+“You have proven that you can survive a continued assault by an unorganized foe.” Railyse said in her voice that carried to everyone in the arena. “Now you must prove that you can survive a continued assault by an organized foe.”
+
+A large opening appeared at the side of the Colosseum on the opposite side of where the participants had entered, and then 50 frog men stepped out. They had armor over select parts of their bodies, mostly to protect their soft bellies and throats, and they all carried spears, swords, and even bows. Those 50 leaped forward through the water using their powerful legs, and 50 more came out behind them.
+
+*
+
+“Wait, what's this?” Ren asked as Railyse floated back into place. “Those are real frog men, aren't they?”
+
+“They are.”
+
+Ren frowned. “They are going to be killed.”
+
+“Most of them, since their bodies are so weak compared to ours.”
+
+“Then why are you doing this?” Ren asked.
+
+“It's a condition of the treaty we have with them.” Railyse said. “They send us their best warriors to compete in tournaments and to train our soldiers. In exchange, we don't slaughter them all.”
+
+“I hope you won't be insulted if I say that's not much of a treaty.” Ren said.
+
+Railyse reached a hand out to him, and he took it. “Thousands of years ago, my people had let them go unchecked for too long of a time and they grew bold and overconfident. They tried to kill us all, starting with the Royal Family.” She said and glanced at her mother, the only remaining member of that slaughter. “They wanted to take control of the realm and believed they needed us out of the way to do it.”
+
+“Now they make fodder for you to fight?” Ren asked, and she chuckled.
+
+“Watch, dear one.” Railyse said. “They are by no means fodder.”
+
+Ren watched as the frog men approached the tournament participants, and he wasn't sure why they weren't swimming through the water, since their legs could probably propel them very fast.
+
+*
+
+“Spread out! Don't let them overrun us as a single unit!” One of the Sea Dwellers yelled as the frog men leaped through the water towards them. The first 50 frog men landed and braced with their shields at the ready, and the 50 frog men behind them were in mid-jump as they drew their bows and fired. Several Sea Dwellers hadn't dodged in time and were hit by the arrows that didn't seem to be slowed down by the water.
+
+None of the shots were fatal, but they did anger some of the Sea Dwellers enough to put them into a Frenzy. They swam forward to hit the front line of the frog men just as the next row of frog men landed and the third line leaped and shot their bows.
+
+“No, don't attack as one!” One of the Sea Dwellers yelled as 20 more of his fellow participants charged the frog men's front line to join in on the attack. Several frog men in the front row were quickly dispatched, but they were just as quickly replaced by the ones in behind and the front line held. The close combat fight was on, and unfortunately, the Sea Dwellers were at a distinct disadvantage.
+
+“Dammit, if we have to fight like that, we'll lose!” Another Sea Dweller said and rallied a small group. “Hit them on the sides! Flank them and break their ranks!”
+
+Another 50 frog men leaped and shot their bows at the Sea Dwellers not engaged with the main fighting force of frog men, then they landed with that force to make yet another row of troops behind them.
+
+*
+
+“They are taking too long.” Ren said. “The frog men already have the advantage of numbers, and if they can defend their flanks as well as they can the front line, the Sea Dwellers will lose this combat.”
+
+“The frog men are not so much fodder now, are they?” Railyse asked.
+
+“All right, I made a snap judgment and I was wrong.” Ren smiled at her. “Thanks for reminding me that it's nice to learn new things.”
+
+Railyse gave his hand a squeeze. “There is still a lot you can learn about our people.”
+
+Ren raised a single eyebrow at her. “Our?”
+
+Railyse chuckled. “My people, then.” She said. “Even though you are a Waterkin, and your skill at Water Manipulation is quite strong...” She gave a little sigh. “...you keep reminding me that you are not a Sea Dweller.”
+
+“You need to know that I can't be what you need.” Ren said. “I'd like to be that, I really would.” He glanced at her mother and felt her approval. “You need someone who can rule by your side and give you strength to overcome anything that comes your way.”
+
+“That could have been you.” Railyse said softly.
+
+“No, unfortunately it can't.” Ren said. “If I had nothing else in my life at all, I might be able to assume that role for you; but, I'm an Adventurer. I literally can't give up that part to stay here with you.” He said and let her hand go. “I would need to leave you constantly; and believe me, that would hurt you a lot more than saying 'no' does now.”
+
+“I know.” Railyse said. “It's just difficult to get the possibilities out of my mind.”
+
+Ren chuckled. “I understand.”
+
+“You do, don't you?” Railyse asked.
+
+“I've gone through several different scenarios in my head, and not one of them has come up that you didn't feel like I abandoned you when I have to leave on Adventurer's business.” Ren said. “You would always resent me for it, as would the kids.”
+
+Railyse reluctantly nodded.
+
+*
+
+The Sea Dwellers finally got their act together and managed to flank the frog men on both sides, which successfully engaged the 300 frog men that now counted as a horde. They were much slower to reinforce on the sides, because they were bulky and faced forwards, so the flank attack became the Sea Dweller's focus. The frog men formation started to collapse in on itself, because they were no longer being reinforced.
+
+The Sea Dwellers quickly noticed this, and pressed the attack on all sides. Since this was only a tournament and not actual training, no one had to die to satisfy the rules. All that was needed was to be incapacitated, and the Sea Dwellers used this to their advantage.
+
+Rather than expending their energy for a death blow, all they had to do was sever the leg muscles in one or two places, and the frog men were rendered almost useless. Getting by the frog men's defenses was the hard part.
+
+*
+
+“They broke the formation!” Teepo exclaimed as the frog men started to panic. “10 gold coins says they scatter in every direction!”
+
+“10 gold that they are going to jump forward.” Ren said in response.
+
+“10 gold that they jump back and out of the Sea Dweller's reach.” Artemis said.
+
+Railyse smiled. “Can I bet as well?”
+
+“Do you have inside information that we don't?” Ren asked her with a smile.
+
+“Of course.”
+
+“Then sure, you can bet.”
+
+“10 gold they split right down the middle and jump sideways.” Railyse said.
+
+“Ha, I didn't think of that.” Ren said. “A slight change to the old 'divide and conquer' technique.”
+
+Railyse nodded.
+
+“Your Highness, do you want to bet?” Ren asked the old Queen, and she shook her head.
+
+“The only option left is to surrender, and they would never do that.”
+
+“There they go!” Teepo said, and they watched as the horde of frog men split into two halves, then turned in opposite directions and jumped away... except that they didn't do it together as a unit and scattered.
+
+“Oho! We have two winners!” Ren said. “You have to split the pot with Teepo, Railyse. He bet that they would scatter, and you bet they would split.”
+
+“Yay!” Teepo chittered in delight as both Artemis and Ren gave him 5 gold coins, then they gave Railyse 5 gold coins as well.
+
+“I almost feel like I cheated.” Railyse chuckled and stored the gold. “Splitting with Teepo eases that feeling, though.”
+
+Ren smiled at her and they all put their attention back on the participants still in the arena.
+
+*
+
+The Sea Dwellers tried to chase the frog men; but, they did what Ren had wondered about earlier. Instead of landing, the frogs kicked their powerful legs and quickly darted through the water. Since they were scattering and swimming erratically, none of the Sea Dwellers could pinpoint them and either launch their harpoons or throw their spears.
+
+The Sea Dwellers relented in their fruitless pursuit of their quite elusive foes, and returned to the center of the arena. The attendees removed the unconscious and hurt Sea Dwellers and carried them over to the healers, as well as the frog men that were hurt or dying. The ones that remained in the center and wanted to keep going, were ready to face the next challenge. All 72 of them.
+
+“Congratulations!” Railyse said and floated up slightly. “You have survived a coordinated assault from an enemy that can fight and think for itself.” She smiled. “Now that you have tested your might, it is time to test your mind.”
+
+More doors opened and several dozen hooded figures floated out to the middle of the Colosseum, while the participants were led over to the side of the arena in front of the Queen to clear the middle. The hooded figures started casting spells and populated the entire arena floor with various traps and mechanisms to be fought, dodged around, or avoided completely.
+
+“This should be fun!” Teepo said.
+
+For us, sure. Ren thought, and tried not to laugh at the participants and their shocked expressions.

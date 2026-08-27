@@ -1,0 +1,371 @@
+---
+id: ef68d1cd-0b69-5063-a094-34b26069c175
+page-type-slug: story-chapter-royal-road
+title: "Chapter 253 - Early Warning"
+slug: 0242-chapter-253-early-warning
+partOf: mythrans-master-of-all-continued-completed
+position: 242
+ownLength: 3479
+unit: words
+publishedAt: 2017-05-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136580/chapter-253-early-warning"
+royalRoadId: "136580"
+---
+
+Ren was woken up from a good sleep when he received a message popup. He pulled away from Nathalia and opened the message system.
+
+Lara? Ren thought. What in the world could she… the giants! He quickly typed a response to her.
+
+*
+
+“Oh, thank god.” Lara said, and began to type.
+
+Lara:  Ren, the Chancellor of the giants wants to know where the giants are.
+
+Ren:  They’re about an hour outside the dwarf Garrison. Why?
+
+Lara:  I didn’t ask.
+
+Ren:  Lara, why do you think he wants to know the location?
+
+Lara:  I don’t know.
+
+Ren:  Come on, Lara. Use that spectacular knowledge ability of yours.
+
+Lara:  You know it doesn’t work like that.
+
+Ren:  I know you’re supposed to touch things to get the whole back story, but I know for a fact that all someone needs to do is tell you a few details and you’ll see it.
+
+Lara sighed.
+
+Lara:  He only asked if I could get the location.
+
+Ren:  I don’t suppose you can go back and ask why he wants it.
+
+Lara:  If I go back, it has to be with the specific location.
+
+Ren:  This can’t be good.
+
+Lara:  What do you mean?
+
+Ren:  If it was going to be something to help the giants, why wouldn’t he ask to see me? I was the one who asked for their help.
+
+Lara:  I can’t believe he would do anything bad against his own people.
+
+Ren:  They aren’t his people, Lara. They’ve been exiled. You saw what happened with Rubella.
+
+Lara:  Wait… you don’t mean…
+
+Ren:  Yeah. They’re going to attack and kill the refugees.
+
+Lara:  I… I’m sorry, Ren.
+
+Ren:  You can’t give him false information, can you?
+
+Lara:  No. It’s against my class. Plus, I already told him I could get the location.
+
+Ren:  Did you tell him how long you were going to be?
+
+Lara looked at the text on the screen, and she smiled.
+
+Lara:  No, I didn’t.
+
+Ren:  Then give me 2 hours.
+
+Lara:  I… okay. I’ll give you two hours, as long as you can give me the exact location.
+
+Ren:  I can do better than tell you.
+
+Lara:  How?
+
+Ren:  I’ll show you.
+
+Lara:  What?
+
+Ren:  I set up a tent camp for them, and had them build it in a circle around a cooking area. I made them clothes and gave them enough food to live for a few days. I even made the child giant laugh with a bit of magic.
+
+Lara closed her eyes after she read the text, and she saw it all in her mind’s eye. How far they had walked, and the sad state they were in until Ren had made them clothes. She also knew the exact location.
+
+Damn, he was right. She thought, kind of surprised. All he has to do is describe some things, and I'll see where it happened.
+
+Lara:  You have two hours.
+
+Ren:  Thanks, Lara.
+
+Lara:  You still owe me for delivering the last book, too.
+
+Ren:  I know. I'll bring you something soon.
+
+Lara:  Bye, Ren.
+
+Ren:  Bye, Lara.
+
+Lara closed the message system and waited. She would keep her word and give Ren two hours before she told the Chancellor where the refugee giants were.
+
+*
+
+Ren closed the messaging system and slipped out of the bed. Sorry, Nathalia. He thought, gave her a quick kiss, and snuck out of the bedroom. Let’s go, Teepo. Ren picked up his Dire Wolf Hooded Cloak, put it on, and left the house. He startled the guard when he opened the gate, but didn’t say anything about it, so he wouldn’t embarrass the guard.
+
+Ren ran up to his workshop with Teepo on his shoulder, and found Tee-one in the forge room and discovered he had poured molten metal into a mold that was made on the floor.
+
+“One step ahead of me.” Ren said, partially absorbed some of the heat from the metal in the mold, and picked it up. Tee-one poured more into the mold, while Ren hammered and folded the first piece.
+
+He was making swords.
+
+“You do realize you’re going to ask normal giants to fight their elite protectors, right?” Tee-one asked.
+
+“I don’t really expect anyone to take me up on the offer, but if even one decides that they want to fight, then I want to have a sword and shield to give them.”
+
+“These are going to be poor quality compared to what we usually make.”
+
+“I know.” Ren said. “Short notice and all that.”
+
+“I’m glad she gave you any notice at all.” Tee-one smiled.
+
+“Me, too.” Ren said. “I’ve got an idea for her, though.”
+
+“Ah.” Tee-one said as Ren made mental plans, and saw what Ren wanted to make. “I hope she likes it.”
+
+“She should.” Ren said and finished the sword. “Girls seem to like that stuff.” He grabbed the cooling metal from the mold and Tee-one filled the mold again. They worked for half an hour, and made 2 dozen swords and shields.
+
+“This should be enough.” Ren said, and handed Tee-one the wand handle mold. It made 40 wands at a time, and Ren took out one of the crates that he’d had Dorcot cut up for him. Ren didn’t have to sort them or search for an appropriately-sized diamond to attach to the wand handles, as they were all already the perfect size.
+
+“How many do you plan to make?” Tee-one asked as he filled the mold.
+
+“It doesn’t cost me any Mana to make Fireball wands.” Ren said. “I’m going to try and see what it’s going to take to level my Craft Wand skill.”
+
+“And once you know?”
+
+“I don’t have the time to make enough to level it to Intermediate and unlock the next level of spells, but what I can do is make an array.”
+
+“An array?” Tee-one closed his eyes and saw what Ren meant. “Oh, that’s nasty.”
+
+“I know, right?” Ren grinned. “It’s going to be a surprise.”
+
+Ren used his ability to absorb some of the heat from one of the wand handles, and attached a diamond to the end. That end was still nearly molten, so it was easy to make small claws to hold the diamond in place. He enchanted it with the Fireball spell, and picked up the next handle. Ren did this for all 40 wands, and when he was done, he had leveled Craft Wand to Beginner Level 4 and Gemstone Setting to Beginner Level 4, but it didn’t change his Enchanting at all.
+
+Ren changed his tactics with the next 40 wands he made, and used Web spells instead of Fireball spells. It increased his Enchanting by 10%, gave him another Craft Wand level, and another Gemstone Setting level. He stored the wands and the crate of wand-sized diamonds.
+
+“Okay, now I know I can at least push them past the Beginner stage with another 5 castings.” Ren said. “I’ll do that the next chance I get.” He said and poured some molten metal into a mold 6 inches by 12 inches, and an inch thick. He poked his finger into it and absorbed the heat around his finger. He did that action 11 more times, and ended with a 3 x 4 grid of holes. Ren repeated this again, and took out his armor chest piece.
+
+“I’m sorry that I can’t level it up for you.” Tee-one said, sadly. Ren put a hand on his shoulder.
+
+“Can you imagine how much I could abuse that?” Ren asked. “I wouldn’t have to do anything at all anymore, and you could do everything for me instead.”
+
+Tee-one smiled. “Yes, I agree. It would be very boring for you.”
+
+Ren laughed. “I wouldn’t tell you to stop, though.” He used some molten metal to attach one of the metal plates to the top of the right shoulder, and then attached the other one to the left shoulder. He took out 12 of the Fireball wands and slid them into 6 of the holes on each side. He then took out 12 of the Web wands and filled the rest of the holes.
+
+“You better get going. Even with Princess to ride, you will only have an hour left to prepare the giant camp.”
+
+“Damn!” Ren said and grabbed the mold that he used to make the steel squares. He filled it quickly and absorbed all the heat. It refilled his Mana Pool and he stored the squares. It only gave him a hundred squares, so he poured it again. It went quickly; since it was just pour, absorb, then store. Ren did it 3 more times, and ended up with 500 squares. He stored them and his chest plate that had the wands attached.
+
+“I don’t know if that’s going to be enough.” Ren said. “But I have to go.”
+
+“Do you want me to come along?”
+
+“Only if this works.” Ren said and passed him one of the stone squares. “Enchant this with a double glyph. One glyph with 4 Wind runes, and one glyph with 4 Fire runes.”
+
+Tee-one took it and closed his eyes. He opened them and enchanted it with the double glyph. Ren’s Mana Pool dropped quite a bit more than if he’d done the enchantment himself, and Tee-one handed it back.
+
+“You don’t get my bonuses.” Ren said.
+
+“I can use your skills as if they are my own.” Tee-one said. “But, they don’t combine like yours do.”
+
+“So, you can use my Rock Steady ability, or my Unstoppable ability, but you can’t get the bonus for having both.”
+
+“It would be great if it worked that way.”
+
+“So, you can use my Absorb Fire ability, but you’re not immune to fire because that’s my Knowledge skill.”
+
+“Unfortunately.” Tee-one said. “I’d start to melt if I tried it again.”
+
+“What do you… oh, you already tried it.”
+
+Tee-one nodded. “Thanks to my innate Major Healing spell, I was okay.”
+
+Ren put a hand on Tee-one’s chest, and refilled the Major Healing Spell that Tee-one had used up.
+
+“How long ago did you try that?”
+
+“It was while you were gone.” Tee-one said. “I had hoped that I could increase my work on the Keep if I could absorb the heat like you do.”
+
+Ren sighed. “I’m sorry.”
+
+“It’s not your fault.” Tee-one said, and tapped his temple. “I got your story when you told Nathalia about it.”
+
+Ren looked at him. “You saw everything when she hit me with her dagger, didn’t you?”
+
+“I did.” Tee-one said. “I don’t know how you survived all of that; but, I’m glad that you did. Otherwise, I wouldn’t exist.”
+
+“I’m glad it wasn’t too much for you to handle.” Ren said. “I was getting a little worried every time I came into the workshop and you weren’t here.”
+
+“Like with Ruck.”
+
+“Yeah.” Ren said. “I was going to check on him again this morning, but now I have to go.” He said and opened the door to the forge room. “I’ll go into his room later, despite him wanting to keep his privacy.”
+
+“Good luck.” Tee-one said.
+
+“Thanks.” Ren said and ran down to the Keep. The guard opened the gate and Ren told him to leave it open and ran past. He went into the stable, and Princess was already standing.
+
+“You’re eager.” Ren said and smiled as he took the Garrison’s deed out of her inventory and looked at Stacy. “Open.” He said, and she opened her mouth. He took out the fireball wand and inserted the rolled-up scroll of the deed. He put the wand on the floor and told her to close her mouth, and she could still use the wand if she picked it up in her mouth.
+
+You go to prepare for battle. Princess thought to him. I will be by your side.
+
+“Thank you.” Ren said.
+
+Great Warriors do not thank their mounts.
+
+“Probably not.” Ren said as he led her out to the road. “I’m sure they thank their friends, though.”
+
+Princess huffed, and Ren smiled as he climbed up onto her back and sat in the saddle. She took off at a run and Ren held on while Teepo chittered in laughter. Ren took out the Sending Square connected to the Commander at the Garrison and thought about him.
+
+“Good morning, Commander.”
+
+“Hm.” The Commander responded.
+
+“I’m heading to the Garrison. The giants are sending an excursion force out to kill the refugees, and possibly attack the Garrison.”
+
+“That wasn’t quite the truth.”
+
+“Once they know where the giants were captured, and that the pit is still there and full of pheromones…”
+
+“They’ll want to destroy everything associated with them.”
+
+“That’s what I was thinking.” Ren said. “I don’t know if it’ll happen for sure or not, but it’s always better to be prepared.”
+
+“Do you want a force assembled to go out to the campsite?”
+
+“Hell, no.” Ren said. “I’m not sending anyone out there to die.”
+
+“Oh.” The Commander said, surprised. He thought for sure Ren had called to tell him to get a battalion ready. “Then what do you want?”
+
+“I want a force assembled to guard the wall on that side, and to watch the field where the leg-holding traps are.” Ren said. “If the giants make it that far, they’ll be sitting ducks for only a short time before they figure out how to get out of the traps.”
+
+“Understood.” The Commander said. “Anything else?”
+
+“I’m running right through. Have the front and back gates opened.”
+
+There wasn’t a response for a minute.
+
+“I sent runners to both. You should be able to get through without stopping.”
+
+“Thank you, Commander.” Ren said and arrived at the Garrison only a few minutes later, then ran right through. The gates were closed behind them, and Ren rode Princess out to the trench around the giant campsite. Princess didn’t stop, and instead jumped over the trench easily.
+
+“That trench was about 20 feet wide.” Ren said as they came to a stop in the middle of the camp. He climbed off of Princess and looked around. No one was up, so he went to Laurelia’s tent. He glanced inside, and saw her as she laid there in her bedroll. It looked like she was awake and was staring up at the top of the tent.
+
+“Knock, knock.” Ren said, and Laurelia sat up and stared at him.
+
+“Ren!” She exclaimed, threw off the bedroll, reached over and opened up the tent. She pulled him inside and into a hug, then shut the tent behind him. “I’m so glad to see you!”
+
+“It’s nice to see you, too.” Ren said, when she let him go. Now that he had a chance to look at her, he saw that she wasn’t wearing anything on top.
+
+“I’m sorry.” Ren said, and covered his eyes with a hand.
+
+Laurelia laughed at his reaction. “It’s all right.” She said. “It’s not like anything can ever happen between us.”
+
+“Are you sure?” Ren said. “It won’t make you uncomfortable?”
+
+“That depends.” Laurelia said. “Are you going to ravish me if I keep my sweat-covered clothes off?”
+
+“I’m pretty sure I can refrain from jumping onto your giant breasts, despite how much I would enjoy that.” Ren said and then frowned. “Hold on. Did you say sweat-covered clothes?” He dropped his hand and looked at her. “You shouldn’t have any dirty clothes.”
+
+“What do you mean?” Laurelia asked. “We have no way to wash them.”
+
+“You don’t have to.” Ren said. “You have two giants that can store them and hand them back. It automatically cleans the clothing.”
+
+“Really?” Laurelia smiled. “That’s great!” She said. “I can’t wait to tell…” She said, and then stopped talking.
+
+“What is it?” Ren asked.
+
+“Nikaia and Telaka left yesterday.”
+
+“They WHAT?!?”
+
+Laurelia sighed and laid back down. “When the dwarves dropped off the food, they converted it all, and we cooked it all.” She turned to her side and looked at Ren. “A bunch of them decided to go off and try to make it back to our lands.”
+
+“How many is a bunch?” Ren asked, and didn’t stare at her breasts when they moved close to his face, despite the temptation to do so.
+
+“Fifty.”
+
+“Oh, no.” Ren said and closed his eyes. “They couldn’t have picked a worse time.”
+
+“What do you mean?”
+
+“The reason I’m here.” Ren said and opened his eyes. “The Chancellor read my book.” He said. “He wanted to know where the camp was.”
+
+“That’s wonderful!” Laurelia said. “They’re coming to rescue us!”
+
+Ren shook his head. “Unfortunately, I don’t think they are.”
+
+“WHAT?”
+
+“He didn’t contact me directly to answer the plea I made on your behalf.” Ren said. “The friend I had deliver the book asked for the information.”
+
+“Oh… oh no.”
+
+“Yeah.” Ren said. “That was my thought exactly.” He said. “I think he’s sending the Guardians of the Land to clear you out. Permanently.”
+
+“What… what…” Laurelia started to cry. “What do we do?”
+
+“I won’t let them kill you.” Ren said.
+
+“How are you going to stop them?”
+
+“I stopped them before.” Ren said. “I’ll do it again.”
+
+“But… but you’re just one man.” Laurelia said. “I know you can get scary when you want to, but…”
+
+“You haven’t seen anything yet.” Ren said. “I was going to ask for volunteers to help defend the camp…”
+
+“That won’t work.” Laurelia said. “If it is the Guardians that are coming, no one will raise a hand against them.”
+
+“I’ll have to handle it myself then.” Ren took her dirty dress and stored it, then took it back out and hung it up. “I’d ask you to wake everyone up, but it honestly doesn’t matter if they are awake at this point or not.”
+
+“What are you going to do?” She asked.
+
+“I’m going to stop them from getting to the camp.” Ren said. “If Nikaia or Telaka had been here, I could have used their help to make some barriers; but as it is, I’ll just do what I can with what I have.” He turned to the tent flap and started to open it.
+
+“Ren.”
+
+Ren turned around and looked at her, and she wiped her eyes. “Yes?”
+
+“I… I’m sorry.”
+
+“For what?”
+
+“I really wanted to meet a little person.” Laurelia said. “It didn’t matter who it was. I... I’d have wanted to kiss them.”
+
+“Oh.” Ren said. That kind of hurts.
+
+“I didn’t realize how great you were at the time.” She said. “You risked your life to help us, gave us clothing and food, and then somewhere to live.” She sighed. “Now, you’re going to fight our countrymen to stop them from killing us, even though we’re not a danger to them anymore.”
+
+Before Ren could react, she took him into a one-armed hug. She was propped up on her elbow and his head went over her shoulder, and one of her breasts pressed against his chest. He hugged her with one arm around her neck, and the other around her shoulder.
+
+“If we somehow live through all of this… I… I’d be honored to have you meet my mother.”
+
+“Even though I’m a little person that’s not supposed to exist?” He said, half-jokingly.
+
+“Ren, if… if you use your magic to make yourself bigger again... and then made me smaller…”
+
+“You want to kiss a little person again that badly?” Ren asked without any inflection in his voice. Laurelia heard the angry tone that he didn’t use, and she tried to stop herself from crying.
+
+“No, I want to kiss you.”
+
+“Isn’t that the same thing?”
+
+“No.” Laurelia said. “I’ve already fulfilled my childhood fantasy to kiss a little person.” She smiled. “Now I want to kiss my friend.”
+
+“If we live through this, I… I’ll think about it.” Ren said.
+
+Laurelia let him go, looked him in the eye, and nodded. “Go out there and kick their asses.”
+
+Ren smiled. “I plan to.” He said and opened the tent enough to get out. “If I’d realized this attack was a possibility, I would have tried to set up better defenses already.”
+
+“I know you would have.” Laurelia said as Ren stepped outside. “Good luck.” She said as he closed the tent, then she watched him as he ran out of sight.
+
+*
+
+Laurelia glanced down at herself, and saw that she had been quite excited to have Ren pressed against her like that.
+
+What is everyone going to think? Laurelia thought as she pulled the blanket back over herself. I explained the first kiss as wish fulfillment, but how do I explain that I want to do it again? She grinned. Or how I want to do more than that. She started to laugh. And with a little person, too!

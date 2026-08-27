@@ -1,0 +1,341 @@
+---
+id: b76baf78-8cfa-578b-93e2-d66e0f82321e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 209 - Giant Problems"
+slug: 0197-chapter-209-giant-problems
+partOf: mythrans-master-of-all-continued-completed
+position: 197
+ownLength: 3292
+unit: words
+publishedAt: 2017-03-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126797/chapter-209-giant-problems"
+royalRoadId: "126797"
+---
+
+Croggart and Ren crept forward with wands at the ready. Once they were within a hundred feet of the giant, Ren shot her with the Wand Of Slumber. It hit her in the shoulder and spread out 10 feet, then dissipated.
+
+“We've only got 2 minutes!” Ren nearly yelled, then ran the rest of the way. Teepo, keep track so I can shoot her again when the time's up.
+
+“Already counting!” Teepo said as Ren reached the sleeping giant. She was helpless; and Croggart drew his sword.
+
+“Don't!” Ren said. “That would wake her up right away!”
+
+“And shouting doesn't?”
+
+“Not for another minute and a half.” Ren said as he started using the Wand of Entanglement. He shot the space between the giant and her nest and all around her body; from her feet to her head.
+
+“Ten seconds!” Teepo said, and Ren stepped back from her, and asked Croggart to step back as well. The giant started to stir, and Ren shot her right in the head with the Wand of Slumber.
+
+“I think she's secure enough.” Ren said. “Shoot Groggot with the Wand of Slickness.”
+
+“Groggot?” Croggart asked. “Not her?”
+
+“If you grease her up, she'll slip out of the web.”
+
+“Ah, got it.” He said and shot Groggot with the wand. He was instantly covered in grease, and slid slightly. “Nice!” Croggart said and grabbed one of Groggot's arms. It took a bit of tugging, but after a minute the giant's arms shifted slightly and the unconscious Groggot slid out from the giant's grasp.
+
+“Ten seconds!” Teepo said.
+
+“Okay, step back.” Ren said.
+
+“I can't!” Croggart said as he tried to pick Groggot up again. “He's still too slippery!”
+
+“Then drag him!” Ren said, and looked back at the giant. “She's waking up!”
+
+*
+
+Her thoughts were muddled and confused. She felt something holding her, and tried to move, then remembered her baby. She clutched her arms to her chest, felt nothing but a slickness, and opened her eyes.
+
+“Ro?” She saw that her baby was gone and Ren standing close to her. “ROOAAARRRRR!!!” She bellowed her frustration and anger at him.
+
+*
+
+“Get back, Croggart!” Ren waved him to run, then shot the giant in the head again. She shook her head, then her eyes closed for a moment. A second later, she opened her eyes again and growled as she stared at Ren.
+
+“Oh, crap.” Ren said, and tried to shoot her again; and got the same result. “RUN!” He shouted and stored the Wand of Slumber.
+
+By this point, the grease had dissolved and Groggot could now be gripped easily; but he had still been within the area of effect for the sleep spell and remained unconscious. Croggart went back to him, picked him up easily, and hefted him over his shoulder as he started to run. Ren shot the Wand of Entanglement a few more times to cover the giant's chest and arms where Groggot had been, and took off running himself.
+
+Ren heard a loud crash, then debris being crushed; and ran as fast as the mess of the cave would allow his legs to carry him. He actually felt fear, and that surprised him beyond anything that he'd seen up to this point.
+
+I'm actually afraid. Ren thought, then realized what was going on. The giant has a Fear Aura! He let the surprise of the situation carry him out of the cave and away from the opening. Now that they were out of the cave and didn't have to be careful about tripping over the mess, they ran as fast as they could. Ren easily out-paced Croggart back to the cart, turned around and pulled out the Wand Of Shrinkage.
+
+“What are you doing?!?” Croggart asked Ren as he passed, then put Groggot in the back of the cart.
+
+“She's coming, Ren!” Teepo said as he flew over to land on Ren's shoulder. There were more crashing sounds coming from the cave, and then the giant walked out of the entrance. She was covered from head to foot in web and debris. It would take her a few minutes to reach them.
+
+“She got up with all that stuff still attached to her!” Croggart said in surprise, and then Groggot started to wake up. “Brother! We came to rescue you!” He said, and shook his brother awake.
+
+“Wh-what?” Groggot asked, groggily. “Who... what... Croggart?!?”
+
+Croggart laughed and hugged his brother. “Were about to deal with the creature!”
+
+“What? NO!” Groggot exclaimed and jumped out of the cart and ran over to Ren. “Don't hurt her! She kept me alive all this time!”
+
+“How did she do that?” His brother asked. “I didn't see any food or anything in there.”
+
+“Um... ah... I...” Groggot mumbled something, and Ren's eyes widened in surprise.
+
+“No way!” Ren said as he glanced at Groggot, then back at the giant as she bellowed. She had worked one of her arms free and was tearing the debris off, along with a lot of her clothing that the web was attached to.
+
+“What?” Croggart asked. “How?”
+
+“I... I suckled her breast, okay?” Groggot said, and looked embarrassed.
+
+“You... you...” Croggart shook his head. “I can't believe you nursed from a crazy giant!”
+
+“You can ask her yourself.” Ren said. “Here she comes!”
+
+She had managed to tear a couple chunks of debris from one of her legs, and hurled it at Ren as she started to run. Ren smiled and used the Wand of Entanglement on one of them, because the other one wasn't going to reach him. The clump of debris and webs stuck to the ground mere feet in front of him. She yelled an inarticulate roar at him, and Ren changed his concentration from his Command Aura to his Fear Aura. The giant kept coming, and then she hit Ren's Aura. Her pace faltered slightly and she slowed down, and she seemed wary for some reason. His Aura matched hers now, so he was no longer affected by her Fear Aura.
+
+When she was within the 100 feet of the wand's limit, Ren shot her with the Reduce Person spell. She staggered and stopped running, then fell to one knee. She shook her head, then bellowed at him. He started walking towards her, and then he had an idea. Ren formed a Connection between his Dire Wolf Hooded Cloak and Screaming Terror ring.
+
+Stat Change!
+
+Connection Level 5 (Beginner 0%)
+
+Ren activated the Screaming Terror ring, and pumped all that terror through his Aura. The female giant grabbed the sides of her head and started to scream. It wasn't even close to the bellow that she had let out before; but a scream of pure pain. He used the Wand of Entanglement again and shot the ground and her feet, then her knee, securing her to the ground. At least, he hoped it secured her.
+
+“What are you doing now?” Croggart asked him, and Ren waved the question away as he kept walking over to the giant.
+
+“I knew there was something wrong with the giants.” Ren said. “But this... I don't think they're sick. At least, not sick as in a flu or a cold.”
+
+As Ren walked closer, the female giant took deep breaths between screams; and he could swear he heard something that wasn't normal. While he kept concentrating on his Fear Aura, he absorbed the Lightning enchantment on one of the raised platform rings, then enchanted it with Screaming Terror instead.
+
+“Please don't hurt her.” Groggot said.
+
+“It's okay.” Ren said. “I think... I think I know what's going on.” He pointed the new Screaming Terror ring at the giant's head, and activated it. Nothing happened, and Ren smiled as he formed a connection between the two rings instead. His Fear Aura boosted again, and the giant screamed loud and long, then collapsed onto her side when she fell unconscious.
+
+“Stop it!” Groggot pleaded with Ren as he came over to him. “You're hurting her!”
+
+“I'm not.” Ren said, then pointed. “That thing is.”
+
+Groggot looked where Ren indicated, and he saw the giant's ear fill up with blood. A moment later, a grub-like thing crawled out of her ear with a slopping sound, and plopped onto the ground. It was about 6 inches long and as big around as Ren's fist. It started to crawl away on tiny little legs, screaming a high-pitched squeal.
+
+“Care to do the honors?” Ren said to Groggot.
+
+“I'd like to, but my battle-axe was broken to pieces when she took me.” He said, disheartened.
+
+Ren had made a pair of battle-axes a long time ago, and had given one to Groggot at the Garrison for weapon practice; now he took out the second one and handed it to him.
+
+“If you break this one, I'll have to make more.” Ren said. “It's my last one.” He grinned at Groggot's surprised expression.
+
+“You're giving me another one?!?” Groggot asked, astonished.
+
+“I can't use them, so it just sat in my inventory.” Ren said, and looked down. “You'd better hurry. It's very, very slowly getting away.”
+
+Groggot laughed as he hefted the battle-axe over his head, then chopped the thing in half. The high pitched squealing stopped immediately, and the pieces stopped moving except for an occasional twitch.
+
+Quest Complete!
+
+You have successfully rescued your friend Groggot from the giant that held him captive.
+
+Rewards: 12,345 XP
+
+Influence: 10,000
+
+Honor: 5,000 / Lady Neram 5,000
+
+Notice!
+
+You used ingenuity and cunning to devise a way to rescue your friend without killing the giant. A special bonus has been granted.
+
+Intelligence +1
+
+Wisdom +1
+
+Ren took out the sack that Lord Lodur's loot came in, and put the two halves of the grub-like creature into the bag.
+
+“You're not going to loot it?” Croggart asked. “I've never seen anything like it before! It's got to have something valuable inside!”
+
+Ren smiled and stored the sack back into inventory. “Right now, it's worth more the way it is.” He said. “Once I finish with it, I'll loot it and see what appears.”
+
+Croggart shook his head. “Passing up the chance to loot right away. I knew you were crazy.”
+
+Ren chuckled. “Crazier than you? That was the second time you went into the cave of a giant for your brother.”
+
+Croggart laughed. “Okay, that's a good point.”
+
+“What do we do now?” Groggot asked.
+
+“She's unconscious, so we could just leave her here.” Croggart suggested, and both Groggot and Ren shook their heads.
+
+“I'd rather help her, if I can.” Ren said. “If only just because she kept Groggot alive.”
+
+Croggart sighed. “Fine. Help her.”
+
+Ren looked at her, and took out several pieces of scrap cloth to dry up the blood in her ear. “I can't see any obvious damage; but I can't see inside her ear passage, either.” He said and took out a Minor Healing wand. He used it on the ear and the blood stopped. Ren cleaned it out again, and despite his reluctance to do so, stuck a finger inside. He felt around the inside of the ear canal as far as his finger could go, and didn't feel any cuts or abrasions.
+
+“I think that thing's little legs caused all the blood when it scrambled to get out.” Ren said, then stepped back a few feet. “We'll have to wait a few minutes for the webs to dissolve before doing anything else.”
+
+They sat down and waited, and when the webbing dissolved, they cleared away all of the debris around her. Her head was at an odd angle, so Ren made an extra-wide comfy chair and propped her head up on it. Most of her clothing was missing on one side of her body because she had pulled it off with the webbing; so, Ren took out a bolt of fabric to make her a set of basic clothing. He didn't have to make it extra large or anything, because the game automatically scaled it when it was equipped. A shirt, tunic, and skirt, dyed a light green like the tatters she still wore; were made and stored, along with a pair of underwear and a bra. Ren didn't have much else to do while they waited, so he took out the icebox and they ate a good meal. He gave some food to Princess, stored the icebox, and then waited for the giant to wake up.
+
+*
+
+“What do you think he's doing right now?” Ereka asked Nathalia for the hundredth time, and she smiled.
+
+“Probably the same thing he was doing two minutes ago when you asked me last.”
+
+“I'm sorry.” Ereka apologized. “It's just so nerve-racking not knowing.”
+
+“I'd like to say that you get used to it, but you don't.” Nathalia said. “You just have to accept it.”
+
+“By the gods, I envy you so much.” Ereka said. “You're strong, confident, have a man that would do anything for you.” She shook her head. “You have it all.”
+
+Nathalia smiled sadly. “For now.” She said. “With him being missing for a month... the time I could have spent with him was cut down to nothing.”
+
+“Wh-what do you mean?” Ereka asked, concerned.
+
+“His sentence was for 3 months, then we had a month to gather everything for him to take with him.” Nathalia sighed. “Now, he lost a month of time.”
+
+Ereka's eyes widened. “No!” She exclaimed. “Surely the deadline extended, just like the sentence did!”
+
+Nathalia shook her head.
+
+“Then... then he'll never be able to complete everything!”
+
+Nathalia nodded slightly, and Ereka came around the table to take her into a hug.
+
+“I'm so sorry!” She said.
+
+“I know it was a faint hope that he could complete the contract so early, but... he... he said... he would try his best to... to...” Nathalia started to cry. “I missed him so much while he was gone!” She said as she held onto Ereka tightly.
+
+“You should tell him how you feel.” Ereka said.
+
+“I... I can't.” Nathalia said. “If I do that, he'll change how he does things from now on.” She shook her head. “I don't want him to change anything, just because I want to spend more time with him.”
+
+Ereka laughed. “Well, that's just stupid of you.”
+
+“Wh-what?”
+
+“If he doesn't know how much you've missed him, he'll think you didn't miss him. At all.”
+
+Nathalia's eyes widened. “But... but...”
+
+“If you don't tell him, it will only drive him away.” Ereka said. “I may not have gone through training, but even I know that if you don't tell people how you feel, they won't ever know how you feel.”
+
+*
+
+Ren was tempted to use the Major Healing wand on the giant to see if that would make her wake up faster; but, if there was anything wrong with her and he healed her without knowing what to fix, it could cause all sorts of problems. So, he decided to wait a little longer and checked his Status.
+
+“Show Status.” He whispered and read the popup.
+
+Status
+
+Name  Ren  Level  31
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  415,590 (Lord)  Honor  62,825 (Prestigious)
+
+Titles
+
+Blacksmith  Grants 5 level bonus to Blacksmithing Skills
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Health  1048  Mana  1274
+
+Strength  175  Dexterity  97
+
+Vitality  105  Agility  93
+
+Endurance  101  Intelligence  139
+
+Luck  39  Wisdom  144
+
+*
+
+“Ugh.” The giant said. “What... what...” She put a hand on her head, then opened her eyes. “AHHHHHH!!!” She screamed when she saw three small figures sitting nearby. She covered her face with her hands, knocked the chair Ren had made away, and broke it. “You're not real!” She said. “YOU'RE NOT REAL!” She yelled, then started to cry. “The little people! The little people are haunting me!”
+
+*
+
+Ren dismissed his status window and was shocked at the giant's words; because he didn't know what to make of it.
+
+“It's all right.” Groggot said and walked over to her.
+
+“Groggot!” His brother tried to haul him back, but Groggot slipped out of his grasp.
+
+“Don't worry.” Groggot said to the giant. “We won't hurt you.”
+
+The giant shook her head. “No no no! You aren't real!”
+
+Groggot stepped close to her, which put his life in danger; and Ren held the Wand of Entanglement at the ready.
+
+“It's okay.” Groggot said, and put a hand on the side of her ear. The giant froze still, then spread her fingers a little to look at him.
+
+“You... you're touching me.” She said, her eyes wide. “You're real.”
+
+“I am.” Groggot said. “Can you tell me your name?”
+
+“I...” She looked at Ren with the wand held out at her, and she frowned. “I remember... I remember... OW!” She winced and gripped the sides of her head, and started to cry again. “Where am I?”
+
+“The land between the dwarves and the giants.” Groggot said, and she looked at him.
+
+“Dwar-what?” She asked. “There's nothing between the giant lands and the mountains by the sea.”
+
+Ren glanced at Croggart, who had a surprised look on his face, and then he looked at Groggot.
+
+“This isn't the time to discuss things like that.” Ren said. “Can you sit up?”
+
+She frowned at Ren. “I don't like you.” She said. “I can't remember why; but, I don't.”
+
+“I'm sorry.” Ren said, then remembered his Aura and Connected rings. He let the Connection lapse, then concentrated on his Camaraderie Aura. The giant relaxed right away, and Ren smiled at her.
+
+“Can you sit up?” Groggot asked, and her gaze fell on him.
+
+“I... I think so.” She said, and braced herself with her arms. She pushed herself up into a sitting position, and then she started to swoon. “Oooohhhh...”
+
+Groggot stepped into her and held her steady, and she wrapped her arms around him automatically. Her eyes widened as she looked at him.
+
+“R... Ro?” She asked, and Groggot nodded slightly.
+
+“What's your name?” He asked her.
+
+“Rubella.” She said. “Why... why do I...” She sighed. “I remember you.” She said. “I've held you like this before.”
+
+Groggot nodded slightly. “Every night for nearly a month, you've held me like this.”
+
+“Wh-wh-WHAT?!?” She exclaimed in shock.
+
+“This might be hard to explain...” Groggot said as his face started to flush red.
+
+“I think we should let her get dressed first.” Ren said, and took out the clothing he'd made for her.
+
+“What did you...” Rubella looked down at herself, and saw that one of her breasts was hanging out for everyone to see, and she screamed from embarrassment as she pulled Groggot in front of it. When she realized what she had done, she stared at his face.
+
+“I... I've done this before, too.” She said in a soft voice.
+
+Groggot nodded slightly again. “Yeah, this is definitely going to be hard to explain...”

@@ -1,0 +1,393 @@
+---
+id: 91e1dbae-28bb-596a-934b-60dc7fa7363a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 352 - Can You Resist Change?"
+slug: 0345-chapter-352-can-you-resist-change
+partOf: mythrans-master-of-all-continued-completed
+position: 345
+ownLength: 3645
+unit: words
+publishedAt: 2017-09-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159911/chapter-352-can-you-resist-change"
+royalRoadId: "159911"
+---
+
+Just before they came around the corner to the front door of the mansion, Donna grabbed him by the head and quickly kissed him.
+
+“I'll be here to ease your hurt any time that you need me.” Donna said, then walked around the corner. Ren stepped around the corner behind her and watched her go into the mansion, then he ran up the street. He waved and said hello to anyone that did the same to him, and when he arrived at the Housing District, his Aura merged with the shared Aura the maids had, and he knew they were up and a little upset that he wasn't there.
+
+The maids felt him at the same time, and he was bombarded with inquisitive feelings and a little bit of indignation. He chuckled and went into the house and the kitchen to make breakfast. They felt his amusement, and didn't come down the stairs to see what had happened, because they knew he would be up soon with breakfast. Ren made scrambled eggs and toast for everyone, gave Princess her share, then went upstairs to eat breakfast with the maids.
+
+“You snuck out and left us alone.” Frikara said as soon as Ren opened the bedroom door.
+
+“Actually, I didn't use Sneak at all.” Ren said and smiled at her.
+
+“That's not the point I'm trying to make.”
+
+“I kissed you goodbye.” Ren said, and Frikara looked at him.
+
+“Wh-what?”
+
+“When I used my Leatherworking Craft Station, you woke up and asked what the smell was.”
+
+“I... do kind of remember a bad smell...”
+
+“I told you to go back to sleep, and you asked for a kiss.” Ren said and grinned. “I gave you one, and then you went back to sleep.”
+
+“I don't remember that part.” Frikara said and touched her lips. “I would have remembered kissing you.” She whispered. “I know I would.”
+
+“I dreamed I kissed you last night.” Lusinia said. “Boy, it was great!” She said. “You even hugged me close and cuddled me!”
+
+Ren chuckled, and thought about telling her she really did kiss him; then decided it wouldn't hurt if she knew.
+
+“Actually, last night...”
+
+“I dreamed I kissed him, too.” Navruth said. “It was a little weird. I hugged him with only one arm, and his lips were a lot softer and plumper.”
+
+“His lips were like that in my dream, too!” Andrela said. “I didn't get a hug, though.”
+
+“I got a hug, but no kiss.” Verwynn said. “You're right, Navruth. It was weird.”
+
+“It's like we all had versions of the same dream.” Lusinia said. “Mine was the best, though.”
+
+“No argument there.” Navruth said, and they chuckled.
+
+How many times do they 'dream' about me and are really only half-asleep? Ren asked himself.
+
+“A lot.” Teepo said chittered in laughter.
+
+Ren changed his mind about telling Lusinia that some of her dream had actually happened, and served the maids breakfast in bed.
+
+“Come on and join us.” Frikara asked and pat the middle of the bed. “We can share again.”
+
+“I'd like to, but I need to head out to my county.” Ren said and picked up the Dire Wolf Hooded Cloak and put it on. “I'm probably already late, especially if they get up early and harvest all day.”
+
+“But... we didn't get to wake up with you.” Lusinia said. “I was kind of hoping that... that... it would be my turn today.”
+
+Ren remembered that yesterday he had pleased Frikara when they woke up, and the day before, Andrela. He could feel that they were anxious about it, and he smiled.
+
+“I can't give you the time and preparation that you deserve.” Ren said and walked over to her. “Starting cold like this, it'll just seem like a task that needs to be done.”
+
+Lusinia sat up on the bed and sighed. “You're right. I don't want it to be something that you have to do.”
+
+Ren knelt in front of her and cupped the side of her face.
+
+“The last thing I want you to think, is that it's something I have to do.” Ren said and gave her a kiss. “I want it to mean something when you feel it.”
+
+“I understand.” Lusinia said. “Maybe tomorrow morning it might happen.”
+
+Ren took her hand and tried to kiss it, and she yanked it back before he could.
+
+“We told you not to do that.” Lusinia said. “We are not superior to you.”
+
+“Oh, Lusinia.” Ren said and gave her a long kiss. She moaned into his mouth as they kissed, and she gave his tongue another workout. He broke the kiss and left her breathing heavy. “You are so wrong about that.”
+
+The maids all looked at Ren with wide eyes, and they didn't say anything as he left the bedroom.
+
+*
+
+“He wasn't lying.” Lusinia said, surprised. “He... he really thinks...”
+
+“...that we're better than him.” Frikara said. “It might not be the truth, but it's what he believes.”
+
+“Are you falling in love with him?” Verwynn asked Frikara.
+
+“Falling in love?” Frikara asked, then chuckled. “That happened when he rescued us.” She said and looked at the others. “You all fell for him, right?”
+
+The other maids nodded, and then they felt Ren leave the shared Aura.
+
+“What this is... what we're building now... goes so far beyond that.” Frikara said. “It's like... like building a good fire.” She said, and the maids nodded.
+
+“You don't just throw the wood in, you make an ordered pile that lets the air in.” Verwynn said.
+
+“You add bits of parchment to help ignite it.” Navruth said.
+
+“You hold the flint and stone close to let it start, and strike them together to make a spark.” Lusinia said.
+
+“It starts slow at first; but once it catches, it burns brightly and for a long time.” Andrela said.
+
+“We're at the 'adding parchment' stage right now.” Frikara said. “We're adding things to help ignite the fire.”
+
+“I can't wait for the spark stage.” Lusinia said. “I wonder which one of us it'll be?”
+
+The other maids glanced at each other, then each glance shifted and 4 of the maids looked right at Andrela.
+
+“M-m-me?”
+
+“You'll be the spark to start it all.” Frikara said. “But, don't worry. We are all in this together.”
+
+“Wh-what do I do?”
+
+Frikara chuckled and put an arm around her. “You don't have to do anything, little one.” She said. “Just be yourself, and he won't be able to resist you.”
+
+“He's resisted so far.” Andrela said and blushed at her boldness.
+
+“You heard him yesterday.” Frikara said. “The only reason he hasn't done anything with us is because he needs to talk to the others.”
+
+“I really thought there would be more than the few he mentioned.” Verwynn said. “Why doesn't he have hundreds of women after him?”
+
+“I'm sure he does.” Navruth said. “I mean, who can resist him?”
+
+“I think there's lots of women that don't fall at his feet when he enters the room.” Frikara said. “Even we don't do that; but, we could... and some of us actually want to.” She said, and her face flushed a little red.
+
+“Frikara.” Andrela said.
+
+“Yes?” Frikara said and looked at the young woman she still had an arm around. She expected another admonishment, and was pleasantly surprised instead.
+
+“I want to throw myself at his feet, too.” Andrela's face flushed bright red, and they felt her embarrassment.
+
+“People want what they want, and that's okay.” Frikara said and gave her shoulder a squeeze. “One of these days, we might even get the chance to get what we want.”
+
+“That... that would be nice.” Andrela said and smiled. “I really like him.”
+
+*
+
+Ren thought about getting Ruck to come along this time, but he knew Ruck could never keep up with him and what he was about to do. He equipped his armor to almost double his stats and it gave him a different color Stamina bar, then he made a Giant Strength wand by replacing a Level 5 wand's charges with the Giant Strength spell. When he hit the West Gate out of the city, he stopped and took out the Haste wand as well.
+
+His armor doubled his Strength, which gave him a 50% bonus to his speed, which was already doubled because of his boots. He cast Giant Strength on himself and that gave him a 50% bonus on top of that, then he cast the Haste spell and that doubled his total speed again. Ren looked at his display and saw that his Stamina bar had turned a solid black color and a timer had appeared underneath it, with 19 minutes and 55 seconds on it.
+
+“Get ready! Get Set! GO!” Ren said and ran for all he was worth.
+
+“Wheee!” Teepo said from his shoulder. “You're almost as fast as Princess!”
+
+Ren made it to his county only a short time later, and had only had to cast both spells twice; once when he started, and once three quarters of the way there. He ran up the small road to the farmhouse and came to a stop at the front door. He didn't have to ask Teepo to scout, because Teepo had already slipped through the door crack.
+
+“It's just the town council.” Teepo said and came back out.
+
+Thanks. Ren thought, stored his helm and gauntlets, and knocked on the door. It opened a moment later, and Patty stared at him. He wasn't sure why, though. He told her he would be here.
+
+“I'm here to work.” Ren said. “I know I'm a little late, but I ran here as fast as I could.”
+
+“Ran?” Patty asked, surprised. “You ran here?”
+
+“I'm giving my mount a rest.” Ren said. “So, where do I go to help?”
+
+“Well... about that...”
+
+“I brought a large crate of tools for you.” Ren said.
+
+“Come in, come in!” Margaret, the old lady with the Amulet of Truth said and reached a hand out past Patty. Ren took it and went inside, and Patty sighed.
+
+“Is something wrong?” Ren asked her.
+
+“She doesn't want someone so flashy working with the villagers.” Margaret said.
+
+“Why?”
+
+“She doesn't want you to show them up.” One of the old men said from across the new table Ren had given them to use.
+
+“That's not... not... dammit. Yes, it's true.” Patty said.
+
+“I don't want to show them up.” Ren said and took out the crate and opened it. “All I want to do is help.”
+
+“Goodness!” Margaret said and looked into the crate. “There's... I don't know how many tools in there! It's full!”
+
+Ren chuckled. “I hope your community can put them to good use.”
+
+“We will.” Another old man said. “How long will it take to buy them all?”
+
+“What do you mean?” Ren looked at his stern face. “I'm giving you these tools.”
+
+“Yes, we know you are.” He said. “How much will we owe you for them?”
+
+“Um... nothing?” Ren kind of asked, a little unsettled that the old man didn't understand what a gift meant. “Trying to pay for them defeats the whole purpose of giving them away, doesn't it?”
+
+“You're really giving them to us, and you don't expect anything in return?”
+
+“Well, I expect them to get used; but, other than that? No.” Ren said and smiled at the old man, who leaned close to the man next to him and whispered.
+
+“I told you he was crazy.”
+
+Ren hadn't needed his excellent hearing to hear them, because they were only about 4 feet in front of him, and he didn't actually whisper.
+
+The other old man must be hard of hearing. Ren thought. “Can I at least watch some of the harvest, so I can see what you're doing?”
+
+Patty sighed and looked at him. “You're not going to let this drop, are you?”
+
+“I had something special made for today, but you're not being very cooperative.” Ren said. “What's so bad about letting me see the harvest?”
+
+“She doesn't want you to laugh at our old ways.” Margaret said.
+
+“Why would you think I'd do that?” Ren asked Patty, and she sighed again.
+
+“Look at you.” Patty said and motioned to his armor. “You're as far above us as we are above the animals we take care of!”
+
+“Hey, now.” Ren said. “That's not true.”
+
+“This is just a small village.” Patty said. “All these fancy houses you're having built are going to change how we live!”
+
+Ren chuckled. “I certainly hope so.” He said. “I want to try some of the wares from the 61 bakers you have here, but not if the food was made in a straw and mud hut.”
+
+“Are you saying our food isn't good enough for you?” One of the old men said.
+
+“I'm not going to lie.” Ren said. “I won't eat just anything that's given to me. If I know the conditions of food preparation is below the standard I set for myself, then I won't eat it.”
+
+“You have some nerve.” The old man said.
+
+“I do.” Ren said. “I'm even tempted to check each and every home in the village to see how bad things really are, and to make sure you all have better living conditions... even if you refuse to live in a house provided for you to live in.”
+
+The old man cross his arms and frowned; but, he didn't argue like Ren thought he would.
+
+Patty looked at the old man, then at Ren. “Do you see? You're already causing so much unrest...”
+
+“I'm going to cause more, too.” Ren said and stood up. “If you aren't going to let me help with the harvest the villagers are doing, then I'm going to go out there and pick a field to do it myself.”
+
+“You can't do that.” Patty said. “We have set areas that families go out and do...”
+
+“Which family hasn't gone out yet, or had their field done already?”
+
+“The Farnhams.” Margaret said right away.
+
+“Margaret!” Patty exclaimed.
+
+“Fern hurt his leg yesterday, and he can't get out of bed to do his field.”
+
+“Which hut in the village?” Ren asked.
+
+“Russell!” Margaret almost yelled, and the young boy jumped into the farmhouse and stood there with his hands on his hips.
+
+“Yes'um?”
+
+“Please show this man the hut Fern lives in.”
+
+“Yes, Ma'am.” Russell said and looked at Ren. “Let's go. I ain't got all day.”
+
+Ren chuckled and took Margaret's hand and bent over it. “Thank you.”
+
+“You're welcome.” The old lady said, then glanced at Patty's angry face and back at Ren. “Don't judge us too harshly.”
+
+Ren kissed the back of her hand and let it go. “Who would have thought it's the young woman that's protesting change.”
+
+No one said anything as he equipped his helm and gauntlets, stepped out of the farm house, and followed Russell at a fast jog.
+
+*
+
+“Did you see the damage to his armor?” One of the old men asked.
+
+“It must have been something powerful to damage that chest plate.” Another one said.
+
+“He can run pretty fast in full armor.”
+
+“He's only jogging now, but he said he ran here.”
+
+They looked at Margaret and the Amulet of Truth.
+
+“What are we going to do?” Patty asked. “If he's going to stay here, he... he's going to change everything.”
+
+Margaret reached out a hand and pat Patty's arm. “He means well.”
+
+Patty sighed. “I only hope that's all he means to do.”
+
+“We'll find out soon enough.” One of the old men said. “Fern's field is 4 miles square. Let's see if he's man enough to stay long enough to do it all.”
+
+*
+
+Ren followed Russell for a little ways, and wondered why Patty was so against him.
+
+I knew she was angry I've been away for so long; but, she shouldn't be fighting against me. Ren thought.
+
+“Maybe she thinks you are going to take her job away from her.” Teepo said.
+
+Maybe. Ren thought. I guess she could be scared that she won't be as necessary if I'm around.
+
+“You could offer her the position officially.” Teepo suggested.
+
+What? You mean Mayor?
+
+“Yeah.” Teepo said. “I mean, there's a town council, but she pretty much runs everything anyways.”
+
+That's true. Ren thought. I wonder if I should just tell her, or wait and make an announcement for the whole village.
+
+“Both.” Teepo said. “That way it's not a surprise to her and the council, and it gives them time to adjust to the fact that you're just too awesome for them.”
+
+Ren snorted a laugh and thought about how far it was to the village. “Russell? How about a piggy-back ride?”
+
+Russell glanced back, and looked forward again. “Are you crazy, mister? I can't lift you!”
+
+Ren laughed. “I meant I'd give you one.”
+
+“Oh! Well, I dunno.” Russell said. “I like running, and it's not that far...”
+
+“I can run a lot faster.” Ren said, and Russell slowed down, then came to a stop.
+
+“I heard you say you ran all the way here from the city.”
+
+Ren nodded, and turned a bit. “Hop on. I'll run a bit, and if you don't like it, I'll stop and let you off.”
+
+“That's fair, I guess.” Russell said and climbed onto Ren's back and locked his hands under Ren's neck. The cloak provided a cushion between them, and Ren held onto Russell's legs.
+
+“Ready?” Ren asked.
+
+“As I'll ever be.” Russell said, and Ren started to jog. “Hey, I thought you said you could run fast?”
+
+Ren chuckled. “I'm taking the advice I give my mount when she's hauling an unfamiliar load.”
+
+“What's that?”
+
+“Go slow until you get a feel for how the load changes your balance and movement, then run for all you're worth.”
+
+Russell laughed. “I never heard that before.”
+
+“It works, though.” Ren said and leaned forward slightly. “Here we go!”
+
+Russell kept laughing as Ren took off, and he ran faster than anything Russell had ever seen before, let alone rode. The fastest thing he'd ever ridden on was old Bessy, his dad's retired milking cow, and she ran pretty fast when you poked her with a stick.
+
+They arrived at the village about 10 minutes later, and Ren put Russell down and stored his helm and gauntlets. Russell led Ren over to Fern Farnham's house and knocked on the doorframe.
+
+“Mister Farnham? I got someone here to see you.”
+
+“Russell?” A young black-haired girl about 10 years old asked when she came around the corner of the hut. “Who's come to see daddy?”
+
+“That would be me.” Ren said, and the girl froze when she saw him.
+
+“M-my... m-my... m-my L-Lord!” The girl stuttered and tried to curtsy. She stumbled and nearly fell, but Ren reached out and caught her before she could hurt herself.
+
+“Easy, there.” Ren said and stood her up on her feet. “You don't have to curtsy.”
+
+“But... my momma always said...”
+
+“I'm sure she meant if you could do it safely.” Ren said, and the girl blushed.
+
+“I... I'll practice every day, my Lord!” The girl said. “I'm... I'm sure you'll enjoy seeing it when I get better at it!”
+
+“I enjoyed seeing it this time.” Ren said and smiled. “So you don't have to practice much more.”
+
+“Th-thank you, my Lord.” The girl said. “My... my mom's at the bakery and dad's in bed. He hurt his leg...”
+
+“That's why I'm here.” Ren said. “I came here to help.”
+
+“Yay!” The girl said and grabbed Ren's hand. “He's whining more than our pig before we slaughtered him.” She went into the house and Ren went with her. He saw it was nice inside, and the temperature was cooler than it was outside. It seemed a little dark, but that was because of the lack of windows and not because of the straw and mud. The furniture was actually of good quality, and the girl led Ren to the big bedroom.
+
+“Daddy? My Lord is here to see you.”
+
+“Hm? What?” Fern mumbled, then tried to sit up. He bit down on his lip to stop from screaming, and grabbed his leg.
+
+“He's here to heal you!” The girl said excitedly, and Fern looked at Ren.
+
+“You don't... look like... a healer.” Fern said through gritted teeth.
+
+“I'm not, but I do have the skill.” Ren said and stepped close to the bed. “What happened?”
+
+“I was a darn fool.” Fern said. “I tried to make sure my bull wasn't getting at my milking cows, but the blasted thing knocked me down and stepped on my leg.”
+
+“Can I look at it?” Ren asked.
+
+Fern nodded and pulled up the pant leg, and Ren saw a black and blue bruise covered the entire calf. He sat down on the edge of the bed and examined the leg closely.
+
+“Your knee is dislocated, and I'm pretty sure you've got one or two breaks in the leg.” Ren said.
+
+“You're only pretty sure?”
+
+“I can heal the bruise easily and put the knee back in place; but, I don't think I can fix the broken leg.”
+
+“Why not?”
+
+“I'd need a higher skill to diagnose major injuries properly, so I'm only guessing here.” Ren said. “Do you want me to do what I can?”
+
+“If it'll ease some of this pain, sure.”
+
+Ren took out a Major Healing wand and concentrated on the dislocated knee and used the spell. It popped back into place and then he concentrated on the bruise and used another spell. The bruise faded and Fern took a deep breath and relaxed.
+
+“Oh, yeah.” Fern said. “That's much better.”
+
+“Daddy!” The girl exclaimed and hugged her father, and he hugged her back.

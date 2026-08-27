@@ -1,0 +1,317 @@
+---
+id: c0584188-708a-53ae-ac37-7b51fce4f2f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 201 - Nathalia Is Here, Part Two"
+slug: 0189-chapter-201-nathalia-is-here-part-two
+partOf: mythrans-master-of-all-continued-completed
+position: 189
+ownLength: 4333
+unit: words
+publishedAt: 2017-03-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125322/chapter-201-nathalia-is-here-part-two"
+royalRoadId: "125322"
+---
+
+Ren sat down in front of Sally's shop, and didn't know what to do. He cared about Sally a lot, and she had taken him under her wing right at the first. He'd had nothing back then; and because of her help, he learned skills that he still used to this day. It put him in a very awkward position to have inadvertently hurt her.
+
+This beard has to come off. Ren thought, and ran around Sally's Shop to his own and went inside. There were a few customers there, but Ren ignored them and went to the forge. He started it up and put one of the high quality iron ingots into the smelter. Since it was only one ingot, it took almost no time at all to melt. Ren stirred it vigorously, getting as much air into it as possible.
+
+*
+
+Sally started to calm down after she told Nathalia about how her husband had died at such a young age, and about how he had always worn a 2 inch beard so everyone would think he was much older than he actually was. She had loved him with all of her heart, and had never loved anyone else like that again. He had been her one and only, and no one would ever replace him.
+
+“I feel the same way about Ren.” Nathalia said, to confirm that Sally's views weren't only her own. “When our marriage contract expires, I'll never look at another man like that again.”
+
+Sally nodded her agreement. “I swore that I wouldn't, either.” She said. “It's just... the last few times Ren has been here I... I...” She smiled. “There was something about him that made my heart flutter a little.”
+
+Nathalia chuckled. “There's definitely something about him that makes women flustered.”
+
+Sally chuckled, too. “I even showed him one of my ankles.”
+
+“You didn't!” Nathalia's eyes widened.
+
+Sally took her hand. “I'm sorry, dear.” She said. “I know I shouldn't tease him like that, but... I was feeling a little naughty that day, and I... I wanted to feel a little excitement.”
+
+Nathalia squeezed her hand. “That's understandable.” She said. “You knew it wouldn't go any further than that, didn't you?”
+
+Sally nodded. “I'm an old woman, and I try to not push my unrequited feelings onto such a sweet young man, but then... then...” Her eyes teared up again. “...he showed up with the same beard as my husband.” She cried and Nathalia held her hand firmly. “I... I haven't seen that beard in nearly 30 years.”“I'm sorry, Sally.” Nathalia said.
+
+“Oh, it's... it's alright.” Sally said as she composed herself. She took several deep breaths and sighed. “I over-reacted.”
+
+“No, you didn't.” Nathalia said. “If I'd seen someone that looked like my father just suddenly appear in front of me, I would have reacted the same way.”
+
+Sally smiled, tears still glistening in her eyes, and took Nathalia into a hug.
+
+“Ren has been very lucky to have found someone like you.” Sally said.
+
+“I was going to say the same thing about you.” Nathalia said. “He's told me all about you.”
+
+“He... he has?” Sally asked.
+
+“Ren doesn't keep secrets from me, even though sometimes I wish he did.” Nathalia said, and her own eyes brimmed with tears. “I've... I've done some things that... that I don't think he would approve of, because of the things he's told me.”
+
+Nathalia froze, then looked up at Sally. “I don't know why I just told you that.”
+
+Sally smiled and hugged Nathalia tighter. “I think you just needed a sympathetic ear.”
+
+Nathalia blinked her eyes quickly to stop the tears from falling. “I think you're right.”
+
+*
+
+Ren stirred the molten metal until it was ready. He made a small thin mold on the floor, and poured some of the molten metal into it. He couldn't use his Absorb Fire ability, because there were people watching through the store window; so, he used his tongs to pick up the small thin piece of metal and turned to the anvil... that wasn't there, because he'd forgotten that he'd taken that anvil to the Dwarven Kingdom. Luckily, he opened his inventory and took out Donan's old and battered anvil, and put it in the proper spot. Ren hammered the metal to a nice thinness and then dipped it into the large barrel of oil. It quenched the heat still in the metal and smoke billowed from it. He pulled it out and it didn't flame up again, and he smiled as he sharpened it to a razor edge, then polished it to a shine. He held it up, and the straight razor had the appearance that it could cut you just by looking at it.
+
+“Perfect.” Ren said then ran up the stairs to the apartment, and then to the 'bathroom'. He stood in front of the mirror, took out a piece of cloth to cover the sink, then took a deep breath.
+
+“Here goes nothing.” Ren said, then started to shave with the very sharp blade. He'd never done anything like it before; but, he knew he needed to be careful to not cut himself. Of course, watching yourself in a mirror and doing it, while trying to be careful, wasn't as accurate as he thought it was going to be. He got nearly all of it off, and had covered the cloth in the sink with soft fluffy hair. There were several deep cuts on his chin, and he'd lost quite a few Health points along the way; so he used a Minor Healing wand on the cuts to stop the bleeding and used the razor to finish off the spots he'd missed.
+
+“Finally!” Ren said, as his face had been shorn of all the new hair. He ran down the stairs and out through the door before anyone could even see what had passed them. He was back in front of Sally's Shop a few seconds later, and went inside.
+
+“Sally, I'm really sorry.” Ren said, and Sally and Nathalia turned around and stared at him. Both women had surprised expressions on their faces, and a moment later, both women gasped. Sally covered her eyes, and Nathalia's eyes widened as she kept staring at Ren.
+
+“What is it?” Ren asked, even more concerned than he had been before. Nathalia pointed to her own chin, and Ren reached up and felt his chin. “Godsdammit!” He exclaimed. “I just shaved the blasted thing off!”
+
+Sally chuckled, but she still couldn't make herself look at Ren. “You shouldn't use such language in front of a lady, Ren.”
+
+Ren opened his mouth to say something else, then closed it. “You're right, Sally. I'm sorry.” He said. “Please accept my apologies. Both of you.”
+
+Both women nodded, and Ren relaxed.
+
+“I... I won't be able to look at you for a while, Ren.” Sally said. “If you can't get rid of the beard, I...” She sighed. “I'm going to miss seeing my old student.”
+
+“Me, too.” Ren said. “Ah, I mean... I won't hurt you by being around you, while I look like this.” He said. “But... I can't leave you without at least giving you something.” He walked over to her main workbench and used one of the sheets of parchment she had there. It took about 20 minutes for him to draw out the pattern; but when he was done, he smiled and signed it.
+
+“Sally, I want you to make this, then I want you to wear it to the next party that happens here in Aurora.”
+
+“I promise.” Sally said.
+
+“You haven't even looked at it yet.” Ren said.
+
+“That doesn't matter.” Sally said. “Whatever you've designed, I'm sure it will be the most wonderful thing I've ever seen.”
+
+Ren gave her a hug. “I'll expect a dance from you, too.”
+
+Sally kept her eyes covered with one hand and hugged Ren with the other. “Nothing else would make me happier.” She said and let him go. “Now get out of here, so I can uncover my eyes.”
+
+Ren chuckled, and Nathalia took his arm as Teepo landed on his shoulder.
+
+“Bye, Sally.” Ren said, and they left the shop.
+
+*
+
+When she heard the door close behind them, Sally dropped her hand and looked at the designs Ren had left on her desk. It was the fanciest formal dress Sally had ever seen, and another tear came to her eye. She caught it before it escaped, and she sat down at her desk to make Ren's creation.
+
+If even half of the rumors were true, there would be a party thrown in only a few days. Sally thought as she picked up a fresh bolt of fabric and started to cut.
+
+*
+
+Ren led Nathalia down the street to Donan's place, and introduced her to his mentor. Unlike Sally, Donan didn't notice Ren's beard at all. His eyes were only for Nathalia, and he gushed over how lucky Ren was to have found such a beautiful bride. The visit was brief, and Ren took Nathalia on a tour of the whole city, and ended it at the Library.
+
+“There's someone here that I want you to meet.” Ren said. “Rosie's been my friend for a long time; almost as long as I've been in Aurora, actually.”
+
+“You've told me about her a few times.” Nathalia said. “She's helped you a lot.”
+
+“She sure has.” Ren said, and had a winsome smile on his face as he opened the door to the Library. “I'd have been stuck a few times if she hadn't helped me.”
+
+They went inside and Rosie sat at the main desk.
+
+“Ren!” Rosie said. “I'm so glad to see you.”
+
+“It's nice to see you, too.” Ren said. “Rosie, I'd like to introduce you to my fiance, Nathalia.”
+
+“Your... fiance...”
+
+“Yeah.” Ren said. “Nathalia, this is Rosie.”
+
+“It's a pleasure to finally meet you.” Nathalia said. “Ren's told me a lot about you.”
+
+“He... he has?”
+
+Nathalia nodded slightly. “Ren doesn't keep secrets from me.”
+
+“Oh.” Rosie said. “That's nice.”
+
+Nathalia smiled, then looked at Ren. “Most times, yes.”
+
+Ren's face flushed a little red, and Rosie giggled.
+
+“I'm not going to ask what he did.” Rosie said. “Just seeing him blush is enough.”
+
+Nathalia chuckled. “Yes, that's pretty rare to see these days.”
+
+“So, what can I do for you?” Rosie asked.
+
+“That was it.” Ren said. “I'm just introducing Nathalia to the important people in my life.”
+
+“Oh.” Rosie said. “Then I guess I'll see you the next time you need something.”
+
+“More than likely.” Ren said, and then the door in the side of the room opened.
+
+“Hi, Ren.” Lara, the Sage of Ages said. “I believe you have a few books for me.”
+
+“Wh-what?”
+
+Lara laughed. “I'm the Sage of Ages, remember? I've been waiting for nearly a week for you to come and visit.”
+
+“I didn't realize I was supposed to.” Ren said.
+
+“After everything you've gone through the last little while, and you don't want to know anything about the situations people are in?”
+
+Ren opened his mouth to ask about that, and Nathalia led him over to where Lara stood and reached out her free hand.
+
+“It's an honor to meet you, Sage of Ages.” Nathalia said.
+
+Lara took her hand automatically, without realizing her mistake until she touched Nathalia's skin. Their hands locked together, and Lara was lost in the flow of information.
+
+**
+
+Varthirm Dhamgrin was a horrible person. Or, at least that was what he believed. He'd killed indiscriminately during the Dwarf Civil War, friend or foe, while his Battle Rage ability was active. When his eyes turned blood red from bloodlust, no one was safe from his double-sided axe. The last battle had been the worst. He'd been pitted against his own brother, who also had the same ability, and the both of them chopped at each other until one of them fell. Varthirm wasn't sure he had won that battle; because he was still alive, and his brother had moved on to the next plane of existence after dying a warrior's death. It had been glorious, but Varthirm took no comfort from that. Each death had weighed upon his soul; while the pile of bodies got higher, the weight dragged him down. He declared that his warring ways were over after his brother's untimely demise at his hand, and that was enough to send him into despair.
+
+Varthirm carried his family's double-headed axe, covered in that same family's blood, nearly a hundred miles before he came to the temple that he wanted. Once there, he went inside, and the other worshipers screamed and fled from him. He paid them no mind as he stepped up to the altar and knelt on one knee.
+
+“Blessed be, those that go into the Light.” Varthirm said. “I am a wretched thing, unworthy to pass through the veil to join my brother with you.” He said. “My life... my very existence... means nothing.” He sighed. “Everything that I've done in the name of what I thought was right, has been meaningless in the grand scheme of things.”
+
+He thought about the Council's decision to let the King's marriage to the commoner to proceed, and he realized that his own works, all of the battles that he had fought, that he thought he was in the right, meant nothing.
+
+I killed my own brother. Varthirm thought. And for NOTHING!
+
+“Please.” Varthirm pleaded. “All that I believe... all that I hold dear... is gone now.” Tears came to his eyes. “Accept this life, worthless as it is, to do with as you see fit.”
+
+He placed his family's axe on the altar, braced it in the carved stone recess he had found there, and stood up. After taking several steps away, he took a deep breath, and ran for the altar. He impaled himself on his family's axe, his blood flowing over the white marble surface of the altar. It found another recess in the stone, and filled it. Varthirm lost consciousness as the alter glowed, and then a portal opened behind it. A 6 foot tall figure stepped out of it, encompassed in a blinding white glow, and peered at the slumped body on the altar.
+
+“Your gift has been accepted, Varthirm Dhamgrin.” The figure said in a booming voice, and then the glow faded as a woman's hand formed out of it to cup the side of his face. “You will earn your spot in the Light.” The woman said as she took on the form that would suit the people of this region. “For as long as need be, you shall do the bidding of the weak and the poor.”
+
+Varthirm was engulfed in the same blinding light. After only a few moments, the bleeding stopped, and he took a deep breath. He stood up, pulled out the axe, and the gaping wound in his chest closed itself. It didn't leave, as it was a mark of his gift, but it did heal so that he wasn't in constant pain from it.
+
+“My Lady.” Varthirm said, and tried to kneel in front of her.
+
+“I'll have none of that.” She said. “Your old life is over now, and your new life begins.”
+
+“But... I'm well known here.” He said.
+
+“Do not worry over such things.” She said. “They are as beyond your concern as is your old life.”
+
+Varthirm nodded slightly, and she smiled.
+
+“Let us begin.”
+
+For the next hundred years, Varthirm and the woman traveled the countryside. They plowed fields for the downtrodden, healed the sick, gave away any money they were given for their work, and lived as if each day was the last day they could help someone. They both gave their all, and over the years, affection grew between them. Varthirm had always had feelings for her, since she was the one who had saved him; but for her, it had taken 30 years for her to even acknowledge that he was a valid presence in her life. It took nearly 50 years after that for her to accept that when he did things for others, he wasn't trying to impress her. The last 20 years, she had grudgingly admitted that he really was being selfless and didn't expect anything in return.
+
+One day, for no particular reason, the woman watched Varthirm pulling a plow through a field, and she saw that he was a good man. It didn't wipe away all of the things he had done during his other life; but, because he wasn't in that other life anymore, it didn't affect him like it used to. He was happy, despite not having a single possession to his name. When he was done pulling the plow and came over to her to get a drink of water, she kissed him. They were both surprised by this; and neither of them spoke of it for nearly another year. That was the start of something that neither of them had expected. The next 50 years were the best 50 years that Varthirm had ever experienced. He'd not only had a new life, but had earned the love of a great woman. They had nothing, and would never have anything; but, that didn't matter. They were together, and that was all that he could have ever hoped for.
+
+At the end of that 50 years, she became pregnant despite all the precautions they had been taking. Since none of her race had ever had that happen before, she was scared beyond all reasoning. Their good works had to be put on hold while Varthirm tended to her while they stayed at the Convent, and after a year, the length of a normal dwarf pregnancy, she gave birth to a beautiful little girl. She was the gleam in their eyes, as once again, they traveled around the countryside to continue doing good works.
+
+Another 5 years passed before they knew it, and they decided that it was time for them to settle down. All the traveling was hard on such a young child, and she needed a stable place to live. Once they set up house, it didn't take long before they were found by the ones that had been searching for them.
+
+Three dwarf men, in full armor, stormed into the little house and destroyed everything. Varthirm had tried to put up a valiant fight; but, he hadn't done anything like that in over a century and a half, and was quickly overwhelmed. Both he and his wife were dragged out of the house and into the street, and one of the three held Varthirm still.
+
+“You have broken sacred law, Xuunah.” One of the dwarves said. “You have mated with your charge, despite all rules against doing so.”
+
+“I love him.” Xuunah said. “He is a good man.”
+
+The other two dwarves laughed.
+
+“We knew you had gone native, when you passed the hundred year mark for the end of your scheduled time here.” The first dwarf said. “I didn't think you had stooped this low, however.”
+
+Xuunah stood up and punched the dwarf in the face, and they all laughed at her feeble attempt at defiance.
+
+“You will be brought back to face the consequences of what you have done.” He said, as one of the dwarves grabbed her by the arm.
+
+“What about my husband?” Xuunah asked, and looked at Varthirm, who was struggling against the dwarf that held him still.
+
+“He is of no importance.” The dwarf said and nodded to the dwarf that held Varthirm. A glowing mist-covered sword pierced through Varthirm's chest from behind.
+
+“NOOOOO!” Xuunah screamed as a mist-covered sword formed in her hand and she decapitated the dwarf holding her. The arm holding her let her go, and she lunged at the dwarf that had ordered the death of her husband. The dwarf parried her blow with a mist-covered sword of his own, as the dwarf she had beheaded fell to the ground and his body turned to mist and dissolved.
+
+“So, the kitten does have claws after all.” He said, and knocked her sword hand out of the way, and plunged his sword into her side. Xuunah gasped at the pain, and her sword dissipated as quickly as it had appeared. She grabbed her side and collapsed to the ground.
+
+“If you weren't so weak after all these years in this realm, you might have offered me a challenge.” The dwarf said.
+
+Xuunah reached out a hand to her husband, to try and use her ability to heal him.
+
+“No, we can't have that.” The dwarf said, and picked her up easily.
+
+“Noooo!” Xuunah yelled, as a portal formed before them.
+
+“What about the child?” The dwarf that had killed her husband asked.
+
+“It's still inside the house, so destroy it. The sight of it sickens me.”
+
+The dwarf cast an implosion spell on the house, and Xuunah cried as her whole world imploded into a small wooden ball. They stepped through the portal, and left Varthirm's body in the middle of the street. Little did anyone realize, but the little girl had known something bad was happening; and had left the house to hide in the little gully beside the road, well away from where the fight was. When the bad men had left, she came out of her hiding place and walked over to her father. He was laying on his back, and appeared to be dead; but the little girl knew better. She knelt by his head and picked it up to put on her tiny lap. Varthirm opened his eyes and looked at his daughter.
+
+“Be... be strong.” He said. “Hide. Stay safe.” His breathing became ragged. “Pro... protect yourself.” He took her little hand in his. “Show me.”
+
+The little girl formed a tiny mist-covered dagger in her hand, and Varthirm smiled.
+
+“That's my... my girl.” He said and let her hand go. “I... I love you... Nathalia...”
+
+Varthirm let out one last breath of air, then breathed no more. Tiny tear drops covered his face as the little girl cried silently.
+
+**
+
+Lara let Nathalia's hand go and tried to keep her face as perfectly neutral as she could. She smiled to cover up the shock of experiencing close to 160 years in only a few seconds.
+
+“I'm glad to finally meet you.” Lara said. “I've... heard so much about you.”
+
+Nathalia nodded slightly, since she assumed Ren had told Lara all about her; just like he'd told Sally and Donan. Ren took out the last bunch of copies of his book, The Chronicles of Ren: Adventures in The Dwarven Kingdom, and gave them to Lara.
+
+“I assume you're going to do your dispersion trick for them again?” Ren asked.
+
+Lara nodded. “The more people that know what things used to be like in the dwarf lands, the better the reaction will be when they open up for other people...” She looked at Nathalia. “...and not just from invitation only.”
+
+“I understand.” Ren said. “Thanks a lot, Lara.”
+
+“It's no trouble, Ren.” Lara said. “In fact, it's kind of my job.”
+
+“Really?”
+
+Lara nodded again. “I'm an information broker, remember? All I really deal with is information.”
+
+“Then I'd like some information.” Ren said.
+
+“Go ahead.” Lara said, and rolled her eyes. “What do you want to know now?”
+
+“Why aren't you reacting to my beard?”
+
+Lara smiled coyly. “You really needed to ask me that?”
+
+Ren blinked his eyes at her, then smiled. “I really do have a penchant for asking stupid questions sometimes, don't I?”
+
+“I don't have to answer that question, either.” Lara laughed, and Ren and Nathalia joined her. After a bit of unimportant small talk, Lara turned to go back to the rear area, then stopped and put a hand on Ren's arm.
+
+“Before I forget.” Lara said. “You might want to open that box of knick-knacks you got from that peddler in the dwarf market.”
+
+“Wh-what?”
+
+Lara chuckled. “Yeah, I knew you had completely forgotten that you had it.” She said. “It'll help you, trust me.”
+
+“I do.” Ren said sincerely. “Thanks, Lara.”
+
+“Have fun.” Lara said and opened the door to the hallway that led to the rear storage area. “By the way, what you're expecting to happen tonight, won't. Bye.” She stepped through the opening and shut the door.
+
+*
+
+Lara held herself in check and walked down the hallway and into the storage area. She went to her closet, and closed the door. She sat down on Ren's chair and sighed.
+
+“I... I can't believe it.” Lara said. “Oh, Ren! I'm so sorry that I can't tell you!” She put her head in her hands. “Nathalia is one of the Children of Light.”
+
+*
+
+“What do you think she meant about what we're expecting to happen?” Nathalia asked as Ren waved goodbye to Rosie.
+
+“If I was to take a guess, I'd say that our little adventure to help Elerlyth tonight isn't going to happen.” Ren said as they left the Library.
+
+“Oh, damn.” Nathalia said. “I was looking forward to seeing her in person.”
+
+Ren could feel that was true, and then felt Nathalia getting a headache. He told her to stop sharing the Aura, so she wouldn't be in pain.
+
+“Are you sure?” She asked. “I can hold it for a little while longer.”
+
+Ren shook his head. “I just wanted to share my feelings with you while we walked around.”
+
+Nathalia smiled. “It was wonderful.” She said. “You've had so many memories here.”
+
+Ren put his arm around her. “Hopefully, we can make new memories to add to them.”
+
+“I'd like that.” Nathalia said, and gave him a quick kiss. “I'd like that a lot.”
+
+“Let's get back to the shop and see if anyone showed up for the job offer.” Ren said, and they walked up the street together.

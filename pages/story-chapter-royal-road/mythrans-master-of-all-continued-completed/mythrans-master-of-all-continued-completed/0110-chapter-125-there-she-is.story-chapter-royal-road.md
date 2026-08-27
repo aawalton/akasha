@@ -1,0 +1,1009 @@
+---
+id: a5a6b14c-9810-5679-b5ac-2f54656c3f23
+page-type-slug: story-chapter-royal-road
+title: "Chapter 125 - There She Is!"
+slug: 0110-chapter-125-there-she-is
+partOf: mythrans-master-of-all-continued-completed
+position: 110
+ownLength: 8691
+unit: words
+publishedAt: 2016-12-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109356/chapter-125-there-she-is"
+royalRoadId: "109356"
+---
+
+Ren, Nathalia, and her mother Narhilda, decided the Main House should be a mile up the road. That way, anyone who had business with House Neram would stop at the Main House, and those that wanted to visit the family, would come out to the Keep. Ren went outside and stored the modified cart, then ran down the road to the spot they'd chosen. He did the lot clearing technique, but unlike all the other Houses, he set it about 200 feet back from the road. He even made courtyard out front, with lots of space for people and their carts. Ren also didn't want people to have to climb stairs to get inside, either. He dropped the floor's level so it would feel more welcoming.
+
+Ren didn't think he had a lot of time, so he built the 2 storey wooden mold as quickly as he could, and covered it in handholds and ladders. He made the main supporting internal walls with doorways and left all the connecting walls out; because he wanted to change them as well. He placed rebar inside all the walls, and since the walls were 8 feet high and the rebar was 10, he had lots of extra to jam into the ground and still leave some to work with. Ren ran back to his forge and smelted a bit more ore. He took out his big crucible from inventory and filled it, then stored the crucible. He ran back to the Main House and made wooden supports all along the inside walls, then built a wooden floor on the second level. He left space for several stairways, then used dollops of molten metal to attach rebar to the walls, across the wooden floor, and attached them to the other walls.
+
+Ren started mixing cement in the modified cart. Since he'd never done it before, it took several tries for him to get the mix right. Once he did, he set about filling the entire first floor's walls with it, then covered the second story's wooden floor and all of the rebar. Even though he'd built the mold to include the walls for the second floor, he couldn't fill them yet. He'd have to wait a day for the first floor's walls to dry, and the floor enough to walk on. Ren crossed his fingers and hoped that the accelerated time in the game also accelerated the drying time. He ran back to the workshop and dropped off the empty sacks for the workers to fill again.
+
+Ren ran to the house and told Nathalia that he had to pop over to the Library, and would probably be there until supper. She was tempted to go with him, but wanted to stay there with her mother. He kissed Nathalia goodbye and ran as hard as he could down the road. No one paid him any attention, and he smiled.
+
+I guess my running isn't as big of a deal anymore. Ren thought.
+
+“It is for me!” Teepo said and chittered in delight as the hood bounced him around.
+
+Why do you think I run? Ren thought in amusement. They made it into the main city a few minutes later and Ren went to the Library. He went inside, stopped to listen, and went up to the third floor to where he'd heard shuffling feet.
+
+“Good evening, Ma'am.” Ren said, as his head crossed the threshhold of the stairway to the third floor.
+
+“Good evening, your highness.” The female dwarf said.
+
+“Making any progress?” Ren asked.
+
+“Only one shelf so far.” She said and pointed to the top shelf of the cabinet she was standing in front of. “It's not the lack of space that's making it difficult.” The Librarian said. “It's having to look through all the shelves to find the books I need to put in order, then make room for them without messing everything else up.”
+
+Ren thought about it for a minute. “Are you putting them in alphabetical order?”
+
+The female dwarf nodded.
+
+“Then I can help.”
+
+“How?”
+
+“I'll go through all the unsorted books on the shelved and gather all the 'a' books I find. You can sort them and put them on the shelves.”
+
+“What about the books already on the shelves?” She said and waved to them.
+
+“You've forgotten the couple of empty ones downstairs.” Ren said. “I'll go and get them.”
+
+She nodded slightly, and Ren went to the second floor to store the 2 empty cabinets of shelves. He went back to the third floor, and moved two of the cabinets out of the way, and put the two blank ones in their place. He then went through all of the shelves of unsorted books to find all of the books starting with 'a', then went back and loaded up the empty shelves with them. There was still plenty of space, and Ren asked her to open the storage area and he could look there as well. She did so, and Ren searched all of the books and gathered everything that started with an 'a', then deposited them on the third floor. Ren repeated this process several times and was up to 'd' when Teepo told him that it was nearly suppertime.
+
+“I'm sorry Ma'am, but I have to go.” Ren said. “It's almost time for supper.”
+
+“What? Oh.” The female dwarf said. “I guess you better go, then.”
+
+Ren walked over to her and took her hand, bent over it, and smiled. “I'll try to come back as soon as I can. I can't promise it'll be tomorrow; but I'll do my best to make sure that it is.”
+
+“Thank you.” She said and smiled. “Why don't you take that box of books with you? I'm sure you can read one or two tonight after supper.”
+
+Ren shook his head. “I'd be more than happy to; but, I've got other things to do tonight...” Ren grinned. “...like sleep. If I take the books with me, sleeping isn't what I'd be doing.”
+
+The Librarian smiled, yawned, then laughed. “Yes, I know that feeling!”
+
+Ren laughed and bid her a good night. He ran all the way over to Barnar's and caught him and his crew packing up for the night. Ren ordered another 200 bricks to be delivered the next day. He paid for them and then ran all the way back to House Neram to enjoy a nice supper.
+
+*
+
+It had taken another 2 hours for Elerlyth's health to fully recover. She'd thought about splurging a little on some minor Health potions to try and speed things up; but they would only give her 50 points of Health each, which she'd gain in about 15 minutes anyways. Her armor dug into her ribs a little, but it didn't bother her too much. It served as a reminder of what could have happened if she hadn't been wearing it. Elerlyth debated heavily about messaging Ren, to tell him what Tristan was up to.
+
+She sat down at the table in her small, one room house. It had cost her nearly a hundred gold to hire the local woodworkers to come all the way out to the middle of nowhere and build the place for her. It would have been a lot more than that, for transport costs and labor, but Elerlyth had convinced them it was better that they only charged her for the materials, rather than lose their lives. She smiled. Like she had told Tristan, she never would have killed them; but, Fear was always a great motivator. The house was snuggled into the foliage, inside a huge forest. If you didn't know where to look, you would never find it. It didn't take much convincing to have the workers forget that it was there. She let the smile fade away and then sighed.
+
+“I feel so bad about what I did to him.” Elerlyth said. “I'm pretty sure it would have worn off by now, so I don't know if he'll even look at anything I send him.” She made her decision and stood up. “There's only one thing that I can do, to make him hear me out.” She walked over to her bed and lay down.
+
+“Logout.”
+
+*
+
+Tristan was pissed beyond anything he'd ever felt before. “That rotten... stinking... BITCH!” He shouted and punched a hole in the wall of the little shack. Even though he was so angry that he could barely see straight, he was also glad that he'd set his spawn point to be in the next room the night before. “She was working for him the whole time, wasn't she?” Tristan spat at Emanon, who shook his head.
+
+“She's an independent contractor, sir.” Emanon said. “She works for anyone willing to pay the fee.”
+
+“She knows him!” Tristan ranted as he paced the room.
+
+“She knows a lot of people, sir.”
+
+“She killed me, you stupid prick!” Tristan said and punched another hole in the wall. “With a goddamned spider!”
+
+“To be fair, it was a big spider, sir.” One of the other 2 hooded figures said. “It withered and dissolved right after you did.”
+
+“Thank god.” The other hooded figure said and shivered like something had crawled up his back. “I fucking hate spiders!”
+
+Emanon smiled inside the hood, but no one was looking at him.
+
+“Contact her again! I want her to find Ren as soon as possible.” Tristan said.
+
+Emanon frowned. “No.”
+
+“What did you say?” Tristan said and whirled to face him.
+
+“I'm not going to contact her.” Emanon shook his head. “You didn't pay her for the job she did, and then you lost it and tried to kill her.” He said and sighed. “If word gets around about how you treated her...”
+
+Tristan sat down at his desk. “FUUUCK!”
+
+“...it'll undo all the behind the scenes bridge building you've been doing.” Emanon said.
+
+Tristan plunked his head down on the desk and sighed. “Fine.” A moment later he picked up his head and looked at his 3 remaining hooded figures. “He doesn't know I'm looking for him now, he should be easy to find.” He said. “Post guards near the Aurora city gates, and tell them to look for Ren.” Tristan stood up and tossed a gold coin to each hooded figure. “Better yet, give a silver coin for any information about where he is.”
+
+*
+
+During the next hour, Ren had a great supper, and told Nathalia and her mother about the Library, and how well the Main House was coming along. They were surprised at how fast he was making it, and even more surprised that he'd have the second floor walls and ceiling finished the next night. After spending that quality time with the both of them, Ren told them he had some Adventurer's business to take care of. He said his goodnight's to them both and went to bed.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Denise took it from him.
+
+“It seems things have settled down for you.” Denise said with a smirk.
+
+Ren snorted a laugh. “Yeah, it's settled all right. The Dwarf Council, or House Lodur actually, is trying to railroad me.”
+
+“Well, you are shaking things up a lot for them.” She said. “You've been throwing money around like it's water from a fountain.”
+
+Ren chuckled. “I know.” He said, then shook his head. “They had this great and powerful society, with all these rules and rituals, and now it's devolved into businesses trying to screw the little guy out of their money, and for no reason.” Ren sighed. “There's so much money available for those that go out and find it, but the Houses have strangled any desire for them to even try to do it.”
+
+“This is really bothering you, isn't it?” Denise asked as she sat down.
+
+Ren nodded. “They have so much potential as a people, Denise. Expert craftsmen are working at jobs they shouldn't even think about, let alone do.” He sat up in the bed. “I found a gemcutter that was bitter and reclusive because he didn't want to work just to have his money taken by a House that had treated his family unfairly for years.” Ren rubbed his head with his good hand for a moment, then stopped and smiled. “You saw him in the workshop. He didn't even ask me to pay him for the gems he cut, because he was having too much fun!”
+
+Denise nodded.
+
+“All the craftsmen should be like that.” Ren said. “Look at Barnar. He was content with making fireplaces, but he wasn't passionate about it. When I gave him a few ideas, his face lit up, and he started thinking of what he could do with it.”
+
+She nodded again and smiled.
+
+“They've been stuck in drudgery, wallowing in paying debts they can't pay, and working jobs for no money. If they want to leave or change jobs, they have to pay a year's wages to do it.” Ren shook his head. “Nearly all the money in the entire city is going to House Lodur... and since they own the mines where nearly everyone works... for free... no one thought about changing things.” He grinned. “Until now.”
+
+“I guess that means you're going to keep ignoring the order?” Denise asked.
+
+“Saw that, did you?” Ren smiled.
+
+She nodded. “That's going to stir up a lot of trouble.”
+
+Ren nodded and got out of bed. “It sure is.” He said and walked into the bathroom. “I figure if I have a recipe for Trouble, I should use it against people that deserve it.” Ren used the bathroom and came back out. “Let them feel what it's like for once.”
+
+Denise chuckled. “You just don't want it to happen to you, you little frigger.”
+
+Ren climbed into bed. “That might have a bit of truth to it.” He said and grinned.
+
+“I'll go and get supper ready.” Denise said and stood up. “I wasn't sure if you'd be out right away or not.”
+
+Ren nodded. “I was tempted to keep working for a little longer; but, I didn't want to mess up that badly again.”
+
+“I might be a little while.” She said and walked over to open the room's door.
+
+“I'm not going anywhere.” Ren chuckled.
+
+Denise rolled her eyes. “I meant, are you going to be alright?”
+
+“Sure I am.” Ren said. “Who's going to hurt me in here?”
+
+She nodded and left the room. Ren changed the television to another channel to find something to watch. A few minutes later, the door to his room opened and then shut again.
+
+“Well, that was quick.” Ren said and turned his head towards the door, then froze. A woman he'd never met before stood there. She had bubblegum pink hair with blue streaks, partially shaved off on the left side. Her nose was pierced, as well as a half-dozen piercings in the ear he could see. She wore tight blue jeans that were covered in rips, and a loose black t-shirt that hung only on one shoulder. It revealed a red lacy bra, and Ren squinted at her.
+
+“Elerlyth?!?” Ren said, surprised.
+
+Gloria stood there in shock. How... how... She thought. Oh my god! How?
+
+“What are you doing here?” Ren asked. “No, wait...how did you find me?”
+
+Gloria shook her head and came close to the bed. She reached behind her back to grab something, but Ren didn't cringe away from her, like she thought he would. When she brought her hand back out front, her hand held several crumpled flowers. Ren's eyes widened in surprise as she handed the flowers to him.
+
+“They got a bit squished when I snuck into the ward.” Gloria, said and sat down in the chair beside the bed. “I looked you up online.”
+
+“Elerlyth...”
+
+“How do you know that's me?” Gloria asked. “I look completely different.”
+
+Ren reached a hand for her face. “May I?”
+
+She nodded and Ren traced a finger across her eyebrow, then down the bridge of her nose. He moved his hand to the side of her face, and gently traced her jawline from her earlobe to her chin. Gloria closed her eyes at his soft touch, and took a deep breath.
+
+“I'd recognize that face anywhere.” Ren said and pulled his hand back.
+
+Gloria opened her eyes at the loss of his touch.
+
+“Why are you here?” He asked.
+
+She sighed. “I came to warn you.”
+
+Ren raised an eyebrow and Gloria smiled. “So, that's not just a game feature.”
+
+Ren chuckled. “No, it's all me... if I wasn't like this.” He said and waved to the sling and the bed.
+
+“I saw some of the things that happened to you.” Gloria said, then a tear came to her eye. “I'm really sorry for what I did to you in the game.”
+
+“Yeah, it was pretty bad.” Ren said. “Once I'd logged out, I could clearly see what was happening, but in the game, I was under your spell.”
+
+Gloria laughed.
+
+“What?”
+
+“That's not how my venom was supposed to work.” She said.
+
+“I-i-it's not?” Ren asked, surprised. “But... I thought...”
+
+“People are afraid of me in real life, almost immediately. They almost never give me a chance before judging me.” Gloria sighed. “Except for those that want a freak to date, or are just humoring me like I'm in a phase or something.” She looked Ren in the eyes. “When I logged into F.L.O.W. for the first time, it gave me a special class, and a special ability. Like you already know, I can feed off of fear. The venom I inject just makes more of what I need faster, and I feed on it.”
+
+“Oh.”
+
+Gloria nodded. “You were the first person I've ever met in the game, that didn't either fear or hate me immediately. Then I felt your Fear Aura. It was...” She shuddered. “I'm going to be honest with you, Ren. It was delicious.”
+
+Ren tried not to smile, but he couldn't help himself and let it show. I was delicious!
+
+Gloria smiled, too. “Then you... pumped it up somehow? I don't know...” She shook her head. “You were right when you said I looked full the next day. My ability was satisfied for the first time.”
+
+Ren put a hand out for her to hold, and she took it.
+
+“It wasn't just the fear, either. I could feel nearly everything that you felt. Surprise, curiosity, worry. All of it.”
+
+“Oh, crap.” Ren said. “Then that means...”
+
+“Yeah. All it does is amplify feelings. It doesn't create them.” Gloria said. “What you were feeling was real. It was just pumped up so I could feed on it.”
+
+“So...” Ren said. “Noticing how beautiful you are, and being turned on by you, was all me.” He said. “Damn.”
+
+“It's okay.” Gloria said. “What happens in the game, stays in-”
+
+“No, it doesn't.” Ren said.
+
+“But...”
+
+“You're sitting in my hospital room, trying to warn me about something happening in the game.”
+
+She opened her mouth to protest, then shut it. “You're right.”
+
+“What happened then caused me a few problems...” Ren said. “...but, it doesn't matter much now.”
+
+“Why's that?” Gloria asked.
+
+“My girlfriend and I broke up.”
+
+“I'm sorry to hear that.” She said. “I hope it wasn't...”
+
+Ren shook his head. “No, we got through that; then something else happened.” Ren lifted his arm in the sling. “She couldn't deal with it.”
+
+“I'd ask what happened, but I don't want you to relive it.”
+
+“Thanks.” He said.
+
+“Speaking of bad things happening, I've done some bad things...” Gloria said. “...I've even told you a lot of them.”
+
+He nodded for her to continue.
+
+“This last thing, I didn't know it had anything to do with you until it was too late.”
+
+“Tell me what happened.” Ren commanded, and Gloria told him the whole story. Ren gripped her hand harder and harder as her story continued, and she winced when she got to Tristan punching her in the chest.
+
+“Sorry.” Ren said, and loosened his grip. “I work out when I can.” He said to her surprise, then rubbed his thumb over the top of her hand. “Keep going.”
+
+Gloria stared at their clasped hands, and finished the story about Tristan wanting him because of the marker, tossing the venomous spider on Tristan's face, and Emanon helping her escape at the end. Ren didn't try to hide the grin on his face when Gloria looked up at him.
+
+“Elerlyth...”
+
+“It's Gloria, actually.” She said and then covered her mouth with her free hand. “I did not just tell you my real name.” Gloria shook her head. “That was a fake name. My real name is Samantha. Yes, it's Samantha.”
+
+Ren snorted a laugh. “Okay, 'Samantha'.” He said and smiled. “Thank you.”
+
+“What are you thanking me for?” Gloria asked. “Because of me, he's on a rampage to find you.”
+
+“For three things, actually.” Ren said. “One: You defended me at great risk to yourself, nearly costing you your life.” He kept rubbing his thumb over her held hand. “Second: You wiped the smug look off that twit's face with your attack, and probably killed him.”
+
+“Oh, he definitely died.” Gloria said, her eyes twinkling. “One of the guys there tried to grab the spider and take it from his face.”
+
+“How stupid can they be?” Ren said and grinned. “That's the last thing you want to do to any spider, let alone venomous ones.”
+
+Gloria nodded. “It clamped it's jaws down immediately, and he screamed like a little girl.”
+
+Ren laughed. “Please, please tell me you have it on video!”
+
+She grinned. “Of course I do.” Gloria let his hand go to take out her cell phone. Ren motioned for the rollaway table, and they exchanged contact info. Gloria forwarded him the video, and they started watching it together. She turned to him as she dragged Mitchell down the stairs, and smiled as Ren chuckled at each thump Mitchell's head made on every step.
+
+“What was the third reason you're thanking me?” She asked as she watched his reactions.
+
+“You told me why that dirtbag is still after me.” Ren said and winced at Mitchell's death. “I told you about him before, about how he's been trying his best to 'get back at me'.” His eyes widened at Elerlyth's assault and then he grinned at the spider.
+
+He... he's not revolted by it. Gloria thought, as Ren kept talking.
+
+“Now I know he has a legitimate reason.” He said as the clip ended with her getting away. “I have to wonder if he knows why it's so important.”
+
+“And you do?”
+
+“Of course I do.” Ren said. “If he knew, though... he'd have a lot more people after me.”
+
+“Then what is it?”
+
+Ren shook his head. “I'm sorry, Gloria. There's no need for you to know; unless you have one.”
+
+Gloria shook her head. “I don't; but, I did come here...”
+
+“This information could be worth a lot of money to the right person.”
+
+Gloria's eyes widened at Ren's admission.
+
+“How much?”
+
+“Well, I guess I could tell you.” Ren said, and Gloria leaned in close to him. He leaned in as well and whispered. “About a hundred platinum coins worth.”
+
+She turned her head quickly. “Wh-”
+
+Then their lips met by accident.
+
+Gloria's lips were puckered from speaking, and Ren's mouth was in a little 'o' shape from her sudden movement. Their lips fit together perfectly, and they stared at each other for several moments. Gloria broke the kiss, then leaned back in the chair. Ren's heart was beating faster than normal, and Gloria's face flushed a little red.
+
+“Sorry.” Gloria said. “I didn't mean to... I mean, I meant to turn and speak, but...” She looked at Ren, who was sitting there in shock. So, he is like them, after all. Gloria thought. Shocked that he kissed the freak.
+
+“Well, say something!” Gloria snapped.
+
+“Wow.” Ren said. “I really do like you for real.”
+
+“W-what?” She asked, surprised.
+
+“I was kind of in denial about liking you in the game.” Ren said. “It was a while ago, and you know how people can forget some things after a bit of time has passed.”
+
+Gloria nodded.
+
+“You just reminded me of how much I enjoyed your company.” Ren said.
+
+She frowned. “Only from a kiss?”
+
+Ren shook his head and moved his hand to reveal a significant bulge under the blanket. Gloria blinked her eyes a few times as she stared at it.
+
+“So that's not just a game feature, either.” Gloria said then looked back up at Ren. “You... you're like that... just from a kiss?”
+
+“Beautiful women seem to affect me the most.” He said and smiled. “I hope you won't be insulted if I tell you that you're more beautiful in real life.”
+
+Gloria took in a deep breath. “You're just saying that.” She said and put a hand over her heart. “Have you seen my hair? My piercings? My clothes?”
+
+“Gloria... Samantha... Elerlyth...” Ren reached out and took her other hand. “Paying a woman an honest compliment isn't something I'd lie about.” He said and smiled. “The fallout from lying is always worse than the lie itself.”
+
+“So you really...” Gloria caught her breath. “...you think I'm beautiful?”
+
+Ren chuckled. “A good friend once told me that I shouldn't hide how I feel about people.” He looked at her seriously. “I was angry about you injecting me so many times with your venom.”
+
+Gloria blushed. “It wasn't working, and I thought you might have had a natural resistance to it or something.” She explained. “Each time I injected you, I kept expecting that instant rush of fear that I get from everyone else... and it never came.” Gloria looked back at him seriously, too. “All I felt was caring, concern, and... ah...” She glanced down at his bulge. “...excitement.”
+
+Ren smirked. “I now know it's because you're pretty irresistable.”
+
+“You resisted well enough.” She said.
+
+Ren snorted a laugh. “Yeah, my lips resisted... all over yours, if I recall... a lot.”
+
+Gloria grinned. “Okay, you got me there.” She noticed the time on Ren's watch. “Dammit! I gotta go. Your supper is going to be done soon.”
+
+“How do you know that?” Ren asked.
+
+“I... might have... arranged for the stove to be unplugged in the breakroom.”
+
+“Gloria!” Ren shook his head.
+
+“I needed to make sure I had the time to see you.” Gloria said and stood. “See you around, short stuff.”
+
+“Wait.” Ren said, and Gloria looked at him. “I'd warn you that Tristan will be after you, but I'm pretty sure he's too focused on me to bother with you.” He said. “What are you going to do now?”
+
+“I don't know.” Gloria said and shrugged. “I've always been a mercenary; but, now that I've retired...”
+
+“You retired?” Ren asked, surprised.
+
+Gloria nodded. “I don't want to meet another Tristan for as long as I live.” She said. “Once was enough.”
+
+“Well, I can't guarantee you'll never see him again; but if you need a job, I need someone to watch my building in Aurora while I'm gone.”
+
+Gloria snorted a laugh. “From pay-for-hire mercenary to security guard, all in one day.”
+
+“You don't have to do it.” Ren shrugged. “It's just an offer.”
+
+“How much is the salary?” Gloria asked.
+
+“How much do you want?”
+
+“A gold a day.”
+
+“That's all?” Ren asked.
+
+“W-what?”
+
+“You're not going to be able to do much with only a single gold coin a day.” Ren said. “A couple good meals, maybe a few potions, and then a bed for the night at a good inn.”
+
+“Fine, then.” Gloria said. “Make it 10 gold a day.”
+
+“10 gold sounds more reasonable.” Ren said and held a hand out to her.
+
+She shook it and grinned. “Sucker! I would have gone down to 5.”
+
+“I should say that to you, then.” Ren said and grinned back. “I would have gone as high as 50.”
+
+“You WHAT?!?” Gloria said, just as the door to Ren's room opened.
+
+“Who the hell are you?” Denise asked with scorn in her voice. She carried a tray of food in her hands.
+
+“Me?” Gloria said as she let Ren's hand go. “I was just leaving.”
+
+“Now wait just a minute!” Denise said, but Gloria slipped out past her and ran down the corridor. It was in the opposite direction from the nurse's station, so Denise couldn't holler for help. She turned back into the room and glared at Ren. “Ren! Who was that?”
+
+“No idea.” He said and smiled. “She gave me several different names.”
+
+Denise huffed. “Well, she's easily identified, anyways.”
+
+“That's good.” Ren said. “I want her put on my visitors list.”
+
+“You WHAT?!?”
+
+“I think she liked 'Samantha' the best of the names she said.” Ren smiled. “You can put that down as her name for now.”
+
+“You can't have visitors yet...”
+
+Ren looked at the tray. “Is that my supper? It smells good.”
+
+“But...”
+
+He moved the laptop aside and motioned for the tray to be put down. “Thank you.” Ren started eating and ignored the indignant stare Denise was giving him.
+
+*
+
+That was close! Gloria thought, as she ran down the emergency stairs. When she got to the bottom, she used the key and opened the door without setting off the alarm. She calmly walked down the hallway, then into the rear storage area of the basement and to an old man that sat there in a small folding chair.
+
+“Thanks, Billy.” Gloria said, and handed him the key and a 10 dollar bill.
+
+“Anytime.” The old man said and smiled. “I'm always happy to help young love blossom.”
+
+“We're not...” Gloria started to respond, then smiled. “...yeah, thanks.”
+
+The old man waved to her as she went out the loading bay door.
+
+I can't believe I kissed him! Gloria thought as she crossed the parking lot to her car. It started out innocently as an accident... She hopped in her car and peeled rubber out of the parking lot. ...but, screw me if that kiss didn't feel just like it did in the game!
+
+*
+
+Ren ate in complete silence, and he thought it was quite peaceful. Denise on the other hand, was almost livid by the time he was finished.
+
+“Are you all done?” She asked, almost with as much scorn in her voice as she had while talking to Gloria.
+
+“I am.” Ren said. “It was great. Thank you.”
+
+Denise took the tray and kept glaring at him.
+
+“Yes?” Ren asked.
+
+“Are you going to explain...”
+
+“What's there to explain?” Ren asked. “She was here, you came in, she left.” He smiled. “You saw what I saw. There wasn't much else.”
+
+Denise opened her mouth, scowled, and then left to take the tray back. Ren pulled the laptop over and opened an email. He typed up something and sent it off.
+
+*
+
+Gloria had just pulled into her parking spot at home when her cell phone beeped. She turned the car off and checked the message.
+
+Samantha, (LOL)
+
+It was nice to meet you again for the first time. Thanks for giving me a fourth reason to thank you for your visit. (KISS, KISS) (BIG GRIN)
+
+“You little shit!” Gloria said and laughed. She typed up a response and sent it.
+
+*
+
+Ren's instant messenger beeped and he looked at Gloria's response.
+
+Hey, short stuff.
+
+I hope you don't think that meant anything. It was an accident! It wasn't a real kiss!
+
+Ren grinned and typed another message.
+
+*
+
+Gloria was still looking at her phone when another message popped up.
+
+Hi, sweet cheeks!
+
+It had to be real. Little Ren doesn't make an appearance otherwise. If he says it's real, and I say it's real, you're outvoted 2 to 1. (LOL)
+
+“Okay. Time to rumble.” She said and typed furiously.
+
+*
+
+Ren waited for her response, and wasn't disappointed.
+
+Look here, squirt!
+
+I am the woman, and whatever I say, goes! If we're counting body parts, I've got you outvoted 3 to 1, mister!
+
+*
+
+I looked, Boobilicious!
+
+You brought it up, and since we're counting them, then I've got YOU outvoted 4 to 1. If you hadn't noticed, there were 3 things standing at attention tonight, and only one of them was on me. BTW, red looks really good on you. (GRIN)
+
+Gloria looked down and saw her t-shirt was hanging a little lower than she had intended, and it showed off the top of her bra. She looked a little lower, and sure enough, her t-shirt was popping out a little. “You cocky little shit.” She grinned. “He got me again.”
+
+*
+
+Okay, mister smart aleck!
+
+You got a visit from me and a little show. I hope you're happy, because that'll be the last.
+
+*
+
+Don't be hatin', baby! (LOL)
+
+I'm having the nurses put Samantha on my visitor's list, so I hope that won't be the last time I see you.
+
+*
+
+Hey,
+
+Are you serious?
+
+*
+
+Yes,
+
+It was nice to have someone, besides no one, come and see me... despite my restrictions of no visitors for a while, and your illegal entry.
+
+*
+
+Ha!
+
+How would you know if it was illegal?
+
+*
+
+Please,
+
+I've been all over this floor. I know the only exit down there is the emergency exit. I'm not going to ask how you did it, because I honestly don't want to know. All I care about, is that you took the time out of your day to come and see me. That means a lot to me, despite how we met the first time.
+
+*
+
+Short Stuff,
+
+I didn't think you'd even look at a message if I sent it, and I thought it was too important to not tell you about it.
+
+*
+
+Samantha,
+
+What you told me was really important. That's why I thanked you, and offered you a job. An easy, well paid job. I'm still mad about the venom, though... so, it's also a job that you're going to hate by the end of the week. (LOL)
+
+Gloria snorted a laugh.
+
+*
+
+You little shit!
+
+You're right. Standing guard on an empty building is going to suck balls.
+
+*
+
+LOL
+
+Who said it was empty?
+
+*
+
+Hold on,
+
+It's not empty? I just assumed since you weren't there, you took everything with you.
+
+*
+
+Well,
+
+I took what I could; but, I couldn't take everything.
+
+*
+
+So,
+
+What's in it?
+
+*
+
+(WINK)
+
+You'll find out.
+
+Gloria rolled her eyes.
+
+*
+
+Ugh...
+
+It's not porn or anything, is it?
+
+Ren snorted a laugh.
+
+*
+
+No,
+
+It's not really something that you can sell.
+
+*
+
+Okay,
+
+Now I really have to know.
+
+*
+
+Sure,
+
+Just log in and I'll send you the info. I'm logging in myself in a few minutes.
+
+*
+
+Dammit!
+
+Why didn't you say so! We just wasted... over an hour of gametime!
+
+*
+
+LOL
+
+A woman after my own heart. 'See' you inside.
+
+Gloria hopped out of the car, locked it, and went up to her apartment. The weekends were always the best time for her to relax. Frank hated weekends with a passion, but she sometimes convinced him to let her work Saturdays at the garage. Not this weekend though. She locked her front door and went into her bedroom.
+
+*
+
+Ren logged out of the instant messenger program and pushed the laptop aside to reach for the VR headset. He was tempted to wait for Denise to come back; but settled into the bed instead, and slipped the headset on with a bit of difficulty. He managed to do it, like he always does, and relaxed.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the bed alone again, and got up to sit at the big workbench in the old bedroom. He opened the messaging system and the business owner system, then waited.
+
+********
+
+Gloria changed from her street clothes into a set of cammo print pyjamas and slid onto her recliner. She picked up her VR headset and relaxed.
+
+“Flow Login Start.”
+
+********
+
+Elerlyth woke up in the bed of her one room house and sighed. She always felt so much better in the game, and at the same time, so much worse. Her hunger continued to gnaw at her constantly. She rolled out of bed and stood up, then slouched slightly to stop her armor from digging in too much. Elerlyth walked over to the table and sat down, and opened the messaging system.
+
+Elerlyth: Hey, I'm in.
+
+Ren: Hey, Gorgeous.
+
+Elerlyth: Don't be a dick.
+
+Ren: LOL Sorry, I thought we were continuing our conversation.
+
+Elerlyth: We are, just don't patronize me.
+
+Ren: Elerlyth, I'm not... nevermind.
+
+Elerlyth: Let's get to it, shall we?
+
+Ren: (Sigh) If I was there, this would be a lot easier.
+
+Elerlyth: But you're not here. Which reminds me, when are you coming back?
+
+Ren: Officially? I'm not planning on hopping on a boat anytime soon.
+
+Elerlyth: Why is that?
+
+Ren: I'm engaged to be married.
+
+Elerlyth: Hey, what did I say about not being a dick?
+
+Ren: I'm not being a dick, I'm telling you the truth.
+
+Elerlyth: ...
+
+Ren: A woman I know proposed, and I said yes.
+
+Elerlyth: You're serious?
+
+Ren: Yeah. A year of courting, then a year of engagement, then the wedding ceremony.
+
+Elerlyth: Wait, wait. What are you talking about?
+
+Ren: It's the dwarf marriage ritual.
+
+Elerlyth: You're getting married. To a dwarf.
+
+Ren: Yeah.
+
+Elerlyth: Is she real?
+
+Ren: What do you mean?
+
+Elerlyth: Is she like me, a person in real life, or just part of the game?
+
+Ren: She's a part of the game.
+
+Elerlyth: Hahahahaha!
+
+Ren: What?
+
+Elerlyth: They sucked you in good, didn't they?
+
+Ren: Who?
+
+Elerlyth: The system programmers, of course.
+
+Ren: What are you talking about?
+
+Elerlyth: Come on! You don't think that you just happened to meet this great dwarf out of the blue?
+
+Ren: But I did.
+
+Elerlyth: Don't be an ignorant dick.
+
+Ren: Hey! That's uncalled for.
+
+Elerlyth: (Sigh) Ren, they've caught you in a logic loop.
+
+Ren: What are you talking about?
+
+Elerlyth: (Shakes Head) Nevermind. You'll figure it out yourself.
+
+Ren: ...
+
+Elerlyth: So, is the job still up for grabs?
+
+Ren: Yes, I gave my word.
+
+Elerlyth: I'm sorry I'm spraying your fantasy with a bit of harsh reality.
+
+Ren: You've seen what my reality is like.
+
+Elerlyth: Yeah, you've got it pretty sweet.
+
+Ren: WHAT?!?
+
+Elerlyth: You don't have to shout, I'm right here.
+
+Ren: Why do you think I have it 'sweet'?
+
+Elerlyth: You can stay in bed all day and not work.
+
+Ren: You... you think I'd choose this life?
+
+Elerlyth: Wouldn't you?
+
+Ren: ...... that you could ask me that, means you didn't read enough about what happened to me.
+
+Elerlyth: Oh, boo hoo. Poor you.
+
+Ren: Hey, why are you acting like this?
+
+Elerlyth: I'm supposed to be your in-game girlfriend, remember?
+
+Ren: Ha... hahaha. Oh, you're a barrel of laughs.
+
+Elerlyth: Don't be a total dick.
+
+Ren: When was the last time I saw you in the game?
+
+Elerlyth: ...
+
+Ren: Exactly. We definitely have chemistry, but nothing happens when the ingredients never mix.
+
+Elerlyth: (Sigh) Okay, I wasn't around. I had stuff to do.
+
+Ren: I know, so did I. So much has happened since then.
+
+Elerlyth: You have no idea.
+
+Ren: Things might have turned out differently if you hadn't left.
+
+Elerlyth: That's for sure.
+
+Ren: I'm sorry things aren't turning out well for you.
+
+Elerlyth: You win the prize for the understatement of the year.
+
+Ren: Do you still want the job?
+
+Elerlyth: Yes. I definitely need the money.
+
+Ren: Okay, just a second.
+
+Ren switched to the business owner menu and selected 'Hire Security', then selected 'Head', and sent the request to Elerlyth.
+
+*
+
+Elerlyth saw the popup, and her eyes widened at the job offer. She really did need the money, so she clicked accept. She got a new title of 'Head Security: MoAJoN' added to her status window, and it gave her the right to patrol around and inside the building. A small key appeared around her neck, beside her own house key.
+
+Ren: There, it's done.
+
+Elerlyth: Thanks.
+
+Ren: You're welcome.
+
+Elerlyth: Ren... how are you going to pay me? You're... well, I don't know where you are.
+
+Ren: Business owners have access to electronic transfers.
+
+Elerlyth: Really? I didn't know that.
+
+Ren: Uh huh. I guess you want to get an advance.
+
+Elerlyth: Hey, I don't want your charity!
+
+Ren: LOL You're kidding, right? I want you to work and earn the money.
+
+Elerlyth: So, I'm not trustworthy enough to get an advance?
+
+Ren: Elerlyth! Goddammit! Stop it!
+
+Elerlyth: Make me, asshat!
+
+Ren: Your wish is my command.
+
+Elerlyth: What do you mean? How are you-
+
+Elerlyth gasped when she got a popup.
+
+Notice!
+
+You have received an electronic transfer of 3 platinum coins.
+
+Elerlyth: Ren! What are you doing?
+
+Ren: You wanted an advance. Is a month's pay not enough? How about 2 months?
+
+*
+
+Ren typed up another transfer, and saw he was getting low on platinum. He took out the crate of diamonds and picked out 3 dozen of the oddest-shaped ones that he wouldn't use, even if he knew what to do with them, and sold them for 1250 platinum.
+
+*
+
+Elerlyth started to cry when she got another popup.
+
+Notice!
+
+You have received an electronic transfer of 6 platinum coins.
+
+Elerlyth: Please, Ren. Please stop!
+
+Ren: Elerlyth, do you really think I care about money so much, that I'd hurt my friends by not giving it to them if they need it?
+
+Elerlyth: I'm... I'm sorry, Ren.
+
+Ren: Is that enough? Will this make you stop hating me for whatever you think I've done to you?
+
+Elerlyth wiped her eyes and kept typing.
+
+Elerlyth: It's not what you've done... it's... it's what you haven't done.
+
+Ren: What are you talking about?
+
+Elerlyth: Ren... I.... I'm starving.
+
+Ren: You're WHAT?
+
+Elerlyth: It's my ability! Nothing does any good. I've tried everything. Everything, Ren! I'm hungry all the time! It's... I think it's eating me up inside.
+
+Ren: Elerlyth, get to my shop and wait for me there.
+
+Elerlyth: W-what? Why would that help me?
+
+Ren: Because I'll be there as soon as I can.
+
+Elerlyth: How far away are you?
+
+Ren: I'm about 2 weeks away by boat.
+
+Elerlyth: I... I think... I can go that long.
+
+Ren: Don't worry, Elerlyth. I'll be there much sooner than that.
+
+Elerlyth: How? Why?
+
+Ren: You need my help!
+
+Elerlyth: After everything I've done...
+
+Ren: If I'd actually cared about any of that, I would have called for the nurse right away when you showed up.
+
+Elerlyth: Okay, I can be there by the morning.
+
+Ren: I'll try my best to be there by tomorrow night, or the next morning.
+
+Elerlyth: Ren... I... thank you.
+
+Ren: Don't thank me until I get there. I have to go now. I've got a lot of work to do.
+
+Ren: Message me when you get there, okay? Goodbye, Elerlyth.
+
+Elerlyth: Goodbye, Ren.
+
+*
+
+Ren closed the opened menus and left the bedroom. Sneak was still on, so he crept up the hallway and saw that both Nathalia and Narhilda had gone to bed already. Ren frowned. Nathalia had spent every night with him for the last several nights, and tonight she wasn't there. He crept back down the hallway and opened her door. She was sleep on the bed and Ren closed the door. He went to his bedroom door and wrote a note that explained where he'd gone. He left the house and went up to his workshop. He gathered up enough wood for what he wanted, 4x4s and timber planks, some 4 inch wide lumber, enough paving stones, and then stopped.
+
+“Dammit, I need windows!” Ren said, then thought about it. He hoped the glassworks had them, and would get Nathalia to order them for him. He examined his inventory, then examined the plans. “Yeah, it's enough.” He stepped into the workshop and saw all of the bags of cement there, then looked at his inventory. “Not enough room to hold them.” He gathered up enough to clear the way to the wall, then stacked them on top of each other in a square of 5 x 5 bags, then put them up as far as he could reach. It cleared a good portion of the floor, so he did it again several times. He cleared the whole floor, except for the 15 feet x 5 feet section the stacks took up.
+
+Ren nodded and then left the workshop to go to the stable. He knocked gently and Ruck came out. “I need your help again, but it's a lot harder this time.” He turned around and Ruck climbed up after giving the 'okay' gesture. “Princess?”
+
+She stirred and looked at him.
+
+“Feel like going for a run back to the mountain?” Ren asked. “I'd like your company, if you want to come.”
+
+Princess huffed and stood. Ren stored her crate and smiled.
+
+“Don't worry, no saddle or harness. It's just us running.”
+
+She huffed and nodded. They walked out of the stable and Princess' hoof clacked on the paving stone.
+
+“Dammit.” Ren whispered. “Princess, just a second.” He whipped out some fabric and sewed up 4 booties for her to wear. She looked at them and shook her head.
+
+“It's just until we get out of the yard.” Ren said, and she shook her head again.
+
+“I'll have to carry you, then.” He said and grinned. Princess saw it, then held a hoof out. “Thank you.” Ren put them on her and she was a little unsteady, but they made it outside and he took them off of her. “Let's go!” He said and they took off running.
+
+Ren set a good jogging pace so that they would make good time going all the way out to the diamond mine, and not drain his Stamina too fast. With that Vitality boost, his Stamina Bar had increased as well, so he could run that much farther by pacing himself. It had taken 10 hours by cart, but they had made it in just under 6 hours. If Ren had pushed it, they might have done 5, or even 4, but then he'd have to wait for his Stamina Bar to replenish, and the time lost there wasn't worth the extra effort.
+
+They made it back to the spot where the tent was, and saw it was still a relatively flat area. Ren took out the hammerpick and cleared the 40 feet by 20 feet he needed, then got to building. With Ruck's help holding things to nail, Ren had the basic frame structure up by morning.
+
+“At least we got the hard part done.” Ren said to Ruck, and shook his hand. “Let's get the walls up.”
+
+Ruck gave the 'thumbs up' gesture and Ren handed him a hammer and a pile of nails to put in inventory. “Just a second, Ruck. Nathalia should be up by...” The Sending Ring started to glow and Ren smiled.
+
+“By the gods, Ren! What's all of this in the note?”
+
+“Just something that I have to do.”
+
+“You've told me about Elerlyth, Ren. She's not a good person.”
+
+“Just because you do bad things, doesn't make you a bad person.”
+
+Nathalia laughed. “Yes, it does.”
+
+“I can't let her starve.”
+
+“Ren...”
+
+“Don't worry, Nathalia. I'll be back.” Ren said. “Only I can do this.”
+
+Nathalia sighed. “Okay, what do you need?”
+
+Ren gave her the description for the windows and had her go into town, under escort, to get them. In the meantime, Ren and Ruck got to work attaching the timber planks to the framework to make the outer walls. It took about half the day; but they got the outside walls, minus the windows, finished. They even had the stairs up to the third floor, and the apartment walls finished by the time the cart came with the windows. With Teepo's Spot ability, Ren ran out to the road and waited for the cart to come to a stop. Nathalia was there in the cart with the windows, and so was the guard, Golir.
+
+“You didn't have to come, Nathalia.”
+
+“My future husband is about to go and meet an old girlfriend, to feed her emotions. By the gods, I had to come!”
+
+Ren grinned and helped her down from the cart, then the guard passed him the windows to store. “Is the cart staying?”
+
+The driver nodded. “I was hired for the day, so I'll wait here.”
+
+“The terrain isn't good for a cart and pony, so waiting here would be better.”
+
+She nodded and got off the cart to unhook the pony and let it graze in the sparce grass. Ren took Nathalia's hand and the guard followed them into the underbrush and along the path they'd taken before, right up to the clearing the tent used to be in.
+
+“By the GODS!” Nathalia exclaimed. “Ren! You did all of this in so short a time?”
+
+“We do good work. Don't we, Ruck?” Ren said and grinned as Ruck did the 'so so' gesture. “Come on, we've got windows to attach.” Ren handed Ruck the three small windows to put in the upstairs, and Ren handled the two on the bottom floor. Once that was done, Ren made the door, and shut it.
+
+Notice!
+
+As the land owner, you now have a permanent structure (Warehouse - 2 Storey w/Addition) built on your land.
+
+Ren smiled, and added in the business name, and when asked to activate the storefront, he selected no.
+
+“Wait here.” He said to Nathalia, Golir, Princess, and Ruck.
+
+Ren went inside and up to the third floor, and used his business owner ability to make a spawn point. When that was done, he was tempted to select it as a spawn point, just to see what the system would do with 2 identical buildings and 2 identical spawn points. Ren shook his head and opened the business menu. He went into the new sub-menu he now had access to, and selected 'Transfer Portal'.
+
+Notice!
+
+You have selected to create a Transfer Portal between your 2 businesses. Requires - Fame Status: Renown
+
+Total cost to build portal: 100 platinum coins, 2000 Mana.
+
+Confirm portal creation? Yes / No
+
+“Yes.” Ren said and heard a rumbling in the living room of the apartment. He went out to see what it was. A bright yellow sphere appeared there. Ren stepped close and got the popup for inserting the money. He did that, then another popup asked him to put his hand inside. When he did, it nearly drained his Mana Pool completely and closed.
+
+Notice!
+
+You have met the Fame requirement. Please input the name of the Transfer Portal user.
+
+Ren put in his name and the system closed, and then the portal disappeared. He looked around and nothing else appeared.
+
+“Crap! Don't tell me it didn't-” His words were interrupted as a popup appeared.
+
+Portal format complete!
+
+You can now use the portal as if it were an actual doorway.
+
+Warning: Only the registered portal user can enter. All others will be immediately destroyed.
+
+Ren looked down at his ring. “Teepo... you better go back inside... just in case.”
+
+“Sure thing.” Teepo said. “See you on the other side.”
+
+Ren chuckled and Teepo dissolved and entered the ring. Ren ran downstairs and told Nathalia that it had worked and that he was leaving, and would be back as soon as possible. She kissed him goodbye and Ren went back up to the portal, and got a message notification. He read it and nodded. Elerlyth had arrived late at the other shop and he had finished early.
+
+“Here goes everything.” Ren said and stepped through the portal.

@@ -1,0 +1,251 @@
+---
+id: d9439904-3ff4-5d9b-8641-22a8b997a836
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 Probe"
+slug: 0018-chapter-17-probe
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 18
+ownLength: 2046
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3220837/chapter-17-probe"
+royalRoadId: "3220837"
+---
+
+The horn sounded before the break of dawn.
+
+It was a single sustained blast, distinct from the long rolling call used for assembly and the sharp double note of drill correction.
+
+Lucien’s eyes snapped open.
+
+For a fleeting moment, there was only darkness and the fading echo of the call. Then the weight of it settled.
+
+He did not move at once, counting the breaths between the first note and the second.
+
+Lucien did not hear it.
+
+He was already sitting upright when the second sound came. This time from the yard below instead of the horn. Boots striking packed earth. A door thrown open. Voices, sharpened but controlled. The rhythm of routine had fractured into urgency.
+
+The corridor outside his chamber was no longer still by the time he stepped into it. A pair of household guards were already descending the stairwell at a brisk but disciplined pace.
+
+A door farther down the corridor opened.
+
+Alicia stepped out, hastily dressed, her hair loosely gathered rather than properly tied. Her eyes were wide, sleep not yet fully shaken from them.
+
+“My Lord-” she began.
+
+“Inside,” Lucien said gently but without slowing. “Remain within the manor.”
+
+She faltered only a step before following him anyway, trying to keep pace.
+
+“I can help,” she insisted, voice soft but determined. “I can-”
+
+“You will help by staying,” he replied, tone steady. He paused just long enough to meet her eyes. “Keep the household calm. No one leaves the manor unless you send word.”
+
+Her lips pressed together, worry flickered in her eyes. “Yes, My Lord.”
+
+She stopped then, though her gaze lingered on him a moment longer before she turned toward the interior hall.
+
+Lucien continued down the stairwell.
+
+Elias stood near the base of the steps, fully composed despite the hour. “It is the southern forest,” the steward said as Lucien approached. “Movement at the treeline. Closing.”
+
+“How far?” Lucien asked, tone low.
+
+“Within bow range if they press.” A faint bead of sweat marked Elias’s brow, a rare crack in the steward’s otherwise implacable bearing.
+
+For both Elias and himself, this would be their first Tithe from within the frontier.
+
+Lucien nodded once. “Coordinate the runners,” he said. “Move the villagers to the interior shelter points. I want the lanes kept clear and the gates unobstructed.”
+
+“Yes, My Lord.”
+
+“Keep the infirmary prepared,” Lucien added, moving towards the door, his pace brisk but moderated. A lord did not run, even during moments of urgency.
+
+“My Lord.”
+
+Lucien slowed half a step, his eyes shifted briefly to the steward.
+
+Elias’s voice remained measured, though something beneath it had tightened. “If the situation escalates,” the steward said, choosing his words with care, “and you are struck, command fractures.”
+
+Lucien regarded him and waited. He forced himself to listen, especially now.
+
+“The guards are capable,” Elias continued. “They can hold the wall.”
+
+“I know,” Lucien replied. “That is precisely why I will stand with them.”
+
+A brief silence passed between them.
+
+“If the wall fails,” Lucien added, his tone low, “I would rather see it with my own eyes.”
+
+Something unreadable flickered across Elias’s features, then vanished. “As you wish,” Elias replied at last.
+
+He inclined his head and turned at once, already issuing quiet directives to a waiting servant.
+
+Lucien did not look back.
+
+He crossed the courtyard alone, household guards falling in behind him.
+
+The earthen ramp rose along the inner wall, packed hard from years of use. Frost clung to its edges where boots had not yet disturbed it.
+
+Militia were already ascending in ordered lines. Shields were lifted into place with fewer shouted corrections than in the first rotations. Spears angled outward between the sharpened logs. The movement was not smooth, but it was steady.
+
+Dorian stood upon the wall walk, gaze fixed southward.
+
+“My Lord,” he acknowledged without turning.
+
+“Report.”
+
+“First movement spotted three minutes past the horn,” Dorian recounted. “Light numbers at the front. More behind the treeline.”
+
+Lucien stepped onto the narrow platform. The wood beneath his boots creaked faintly but held firm.
+
+Beyond the palisade, a shallow ditch ran the length of the southern wall, its base lined with angled stakes meant to break a charge rather than stop it outright.
+
+Twenty paces farther, crude alarm lines and concealed snares had been set along the edge of the treeline, thin cords strung low between roots and brush to foul careless movement.
+
+From this height, the southern forest stretched in muted grey beneath the thinning dark. Frost silvered the undergrowth.
+
+Beyond the treeline, the trunks stood thick and closely packed, dense enough to obscure numbers until something chose to step clear.
+
+Dark contours shifted between the trunks.
+
+Lucien’s eyes sharpened as he focused on the silhouettes. From the shadows he could barely tell, but they seemed low in height, small in stature, moving just beyond the treeline.
+
+The first creature stepped clear of the trees.
+
+Lucien could not help but feel a faint dissonance when he first caught sight of what constituted a goblin in this world.
+
+It was shorter than he had imagined. Its head barely reached the waist of a grown man. Its limbs were thin, almost fragile, yet the way it moved suggested sudden bursts of speed rather than weakness. Its skin was green beneath the dim light, stretched unevenly over a misshapen skull.
+
+The creature's eyes caught the light of dawn, a bright yellow mustard in color. They were far too large for its malformed head and reflected the sunlight, reminiscent of a cat’s eyes.
+
+Another emerged beside it, jaw darkened and slick with rancid waste.
+
+Then the wind shifted and the smell drifted to the wall a single breath later.
+
+The putrid scent of decay nearly made him gag despite how much he had prepared himself after learning of the beasts’ defining feature. There was no frame of reference in his own lived experience, but he imagined it might resemble the stench of a corpse left to rot for days.
+
+Lucien did not require further confirmation.
+
+Goblins.
+
+They were feral, hungry-looking beasts, far removed from the clever tricksters or armored raiders often depicted in fantasy.
+
+More shapes slipped between the trunks behind them.
+
+Similar in size but clearly different in outline beneath the brightening light of the rising sun.
+
+Lucien had expected scales. Wings perhaps. Something draconic drawn from the stories he had once read.
+
+Instead, the creature that emerged stood hunched, its lean body covered in coarse brown fur. Its ears were rounded like a dog’s, but its tail was long and hairless, almost rat-like as it flicked behind it. The dog-rat hybrid moved low even when upright, head twitching in quick, assessing motions.
+
+Kobolds.
+
+The physical differences were greater than he had expected. He wondered if that alone unsettled him more.
+
+The goblins drifted forward in loose clusters rather than a single rush.
+
+One of them crouched low near the treeline, its thin arm drawing back with a jerking motion before hurling a short spear toward the wall.
+
+The weapon spun unevenly through the air. It struck the outer face of the palisade several feet below the parapet with a dull crack and dropped into the shallow ditch at the base.
+
+Another followed from farther right. This one angled higher, glancing off the upper logs before falling back among the frost-stiffened weeds.
+
+The throws came spaced and uneven, each landing marking the wall in a widening pattern.
+
+No arrow answered the second throw as the militia held their elevated position.
+
+“Shields,” Dorian called evenly.
+
+The order moved down the wall in controlled repetition.
+
+Wood rose in sequence, each shield lifting to overlap the rim of the next, forming a shallow curve along the parapet. Spear shafts angled forward between the logs, held in readiness.
+
+The third spear struck harder.
+
+It struck the edge of a shield with a sharp wooden crack and skidded aside. The man behind it shifted half a step, closing the overlap and sealing the seam.
+
+Lucien’s gaze moved along the line.
+
+The men had their feet planted, shoulders squared in a shield wall. Countless hours of practice ensured that not one of them leaned beyond the parapet.
+
+A goblin pushed several strides ahead of the others, emboldened by the lack of response. It loosed another spear. This one struck a shield rim and glanced aside.
+
+An arrow answered at last, punishing the varmint for its hubris as it let out a high-pitched shriek, falling to the ground, spindly digits clutching its shoulder.
+
+Before it could drag itself back, a kobold darted forward, cutting past the wall and straight toward the fallen goblin. Its brown fur flashed as it lunged, teeth bared.
+
+The other goblins drifted sideways, leaving the fallen one where it lay.
+
+Lucien watched the brief scuffle at the edge of the clearing. The kobold tugged once at the wounded creature before a larger goblin struck it aside with the flat of a crude blade.
+
+The kobold hissed and withdrew, fleeing back to its own group.
+
+None of the beasts pressed the wall during the exchange.
+
+“They lack cohesion,” Lucien observed quietly. It was more than that. The two different groups looked just as likely to consume each other as to attack the wall before them.
+
+Dorian's jaw tightened. "They are beasts, My Lord."
+
+More goblins pressed toward the left edge of the palisade, probing it with thrown stones and short spears. Kobolds spread along the treeline, moving laterally in search of a thinner defense.
+
+Lucien’s eyes narrowed as he examined their behavior, trying to discern patterns to develop countermeasures.
+
+“Left flank,” Dorian ordered.
+
+The line adjusted without scramble.
+
+A thrown spear struck Tomas’s shield. He did not step forward in retaliation. Dalen shifted half a step, sealing the overlap without instruction.
+
+The goblins attempted one shallow rush toward the ditch before the wall. Arrows met them halfway. Two fell. The rest scattered back into cover, screeching among themselves.
+
+The kobolds lingered a heartbeat longer than the goblins, their clouded, pale grey eyes scanning the wall.
+
+One amongst them stood slightly apart.
+
+Its fur was not brown but a muted rust-colored hue that caught the faint light beneath the trees.
+
+The others of its kind gave it space. Lucien realized there was a noticeable distance between the distinct kobold and its brethren.
+
+“Variant?” he asked quietly, gaze fixed upon the slightly larger kobold.
+
+Dorian's gaze followed the direction of his own. “Not yet, but they follow strength. The fur is enough for them.”
+
+As if in answer, the brighter-furred kobold turned away first, the rest of its brethren scampering after it.
+
+The goblins continued to snarl and growl among themselves for a moment, but they withdrew soon after when they noticed the kobolds had already left.
+
+Silence returned in uneven waves.
+
+The clearing before the palisade emptied, yet the forest beyond remained in motion. Shapes slipped between the trees, moving deeper through the woods in loose, unformed lines.
+
+The horde shifted laterally through the southern forest, carried along by a steady, unseen pressure.
+
+Lucien kept his gaze fixed on the treeline. “They are testing us. If they cannot break through quickly, they redirect.”
+
+Dorian did not contradict him. “They follow weakness, My Lord. That is how a breach happens.”
+
+Lucien nodded once. “Then we show none.”
+
+The wounded were carried down the ramp before dawn fully broke. Blood marked the frost where they had stood, darker than it should have been in the thin light.
+
+Two cuts and one puncture with no loss of life. It should have felt like success.
+
+It didn’t.
+
+Lucien remained where he stood, aware of the faint metallic scent lingering in the air. He had read of battle, prepared himself for it.
+
+He had never imagined how close it would feel.
+
+A young runner from the southern ditch line scrambled up the ramp, bow slung across his back.
+
+“More movement beyond the second line,” the boy reported, breath misting in the cold. “They aren’t gathering. They just keep moving. Past the traps.”
+
+Lucien held his gaze on the treeline. “If they redirect, then we hold position.”
+
+The forest did not answer.
+
+But deeper within the southern trees, something heavier displaced frost from the undergrowth.
+
+It passed beyond the treeline, its movement carrying on through the forest.

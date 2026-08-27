@@ -1,0 +1,329 @@
+---
+id: d85a420f-b2bb-5ab5-8971-fdd3a9dc25d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 365 - No Holds Barred"
+slug: 0358-chapter-365-no-holds-barred
+partOf: mythrans-master-of-all-continued-completed
+position: 358
+ownLength: 3348
+unit: words
+publishedAt: 2017-09-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163570/chapter-365-no-holds-barred"
+royalRoadId: "163570"
+---
+
+Ren came out of the back of the shop, and saw Holly was hanging all over the ex-delivery man, and Katie only had eyes for him.
+
+I wonder if he has the Prince Charming title, too. Ren asked himself.
+
+“Let's do this.” The man said and used both of his hands to crack his knuckles menacingly. Holly giggled at the sound, and she looked at Ren expectantly. Unable to resist a little showing off, he concentrated on his Fear Aura. Holly gasped and her eyes widened as Ren held out a single hand and used Iron Grip to make a fist. It made a much louder knuckle cracking sound, and she stared at Ren as he did the other hand.
+
+“In the street.” The man said a bit angrily because he had been shown up so easily, and Ren shook his head.
+
+“No way.” Ren said. “I paid to have everything repaired already. I'm not going to wreck it.”
+
+“Like I care about that.” The man said.
+
+“Let's just go outside the North Gate of the city.” Ren said. “There's lots of open space there for a fight.”
+
+“Fine.” The man said. “But this isn't going to take long.” He smiled. “I'm going to chew you up and spit you out.”
+
+“I certainly hope not.” Ren said and handed Anabelle the crate of his valuables and she stored it. The group left the shop and Ren stopped beside Princess and Janice. “I've got nothing against alternate lifestyles, but I love women. The thought of having a man chew on me is disgusting.”
+
+The man looked like he was going to attack, then changed his mind. Holly on the other hand, had laughed out loud and leaned down to whisper.
+
+“Make sure you give me a good show.” Holly said in his ear. “Even if you lose, I'll 'chew' on you as much as you want.”
+
+Ren didn't turn to say that he didn't want her to do that, because he knew that she would just laugh at him and say that all men would want it. What he did was tell Janice and Princess what was going on, and Janice looked at the man. He was almost a foot taller than her, and had a nice body; but, she could tell right away that he would be one of the customers at the Pink Pearl that the girls would avoid. There was just something off about him.
+
+The group of people walked through the streets and out through the North Gate to the relatively open area beyond it. They had picked up quite a few townspeople that wanted to see what was going on and had followed them out of curiosity. Ren asked them all to stay by the wall, so if anything happened, they could duck inside the city for protection. Holly protested at first, because she wanted to be right next to the action; then Ren built her a platform to sit on, and she could see over the top of everyone's heads.
+
+“Get ready!” The man said.
+
+“Just a minute.” Ren said and took out the Staff of Earth. He used it to flatten out a 100 foot by 100 foot area and raised it up slightly. The man stared at the staff with envious eyes while Ren worked. When the flat area was done, Ren stored the staff and equipped his full set of gold-colored armor, his hammerpick, and his Golden Shield of Sundering.
+
+“This is going to be fun.” The man said and equipped his own armor and drew both swords from his belt. The armor was a dull silver with etchings on it, and Ren didn't recognize the markings. He activated Enchanted Eyes, Decipher, and Read Rune. The armor glowed, and he picked out Protection runes in the unknown glyphs, and found a new rune.
+
+Notice!
+
+You have discovered a new rune: Spell Absorption. This rune gives a percentage chance of having a spell not affect you, and provide Defense instead.
+
+Spell Absorption: +5% Chance to +5% Defense
+
+Ren counted the number of runes, and saw it was 20. So, he has a 100% chance to absorb a spell shot at him, and he'll get 100% Defense from it.
+
+“Oh, boy.” Teepo said. “Yeah, this is going to be tough.”
+
+Ren chuckled. Not really.
+
+“Why?” Teepo asked.
+
+Watch. Ren thought and switched the Energize wand that hung around his neck on the Hand of Glory, with his Phantom Steed wand as he walked to take his place 30 feet away from his opponent.
+
+“Oh, that's nasty.” Teepo said and chittered in laughter.
+
+“Are you ready?” The man asked. “Holly! Give the word!”
+
+“Okay, men!” Holly said and stood up on the small platform Ren had made for her. “Get ready to fight for me! Show me everything you have!”
+
+Notice!
+
+You have entered PVP Mode.
+
+“Geez, get on with it.” One of the townspeople said.
+
+“FIGHT!” Holly said, and then a Phantom horse appeared on the field and ran over to the man.
+
+“What the hell is this?” He asked as the Phantom horse stopped beside him.
+
+“It's a distraction , you idiot.” Ren said as a thick red laser beam shot across the distance between the two fighters and hit the ex-deliveryman in the face.
+
+“WALTER!” Holly screamed.
+
+“AGGGHHHH!!” Walter dropped both swords and covered his face as he dropped to his knees. Ren turned off the beam and waited. Walter moved his hands out of the way, and everyone saw his face was burned almost to a crisp and most of his hair was gone. The burns started to fade away and his hair started to grow back almost immediately.
+
+“I figured you'd have Regeneration.” Ren said and stored his hammerpick and took out his gold-colored Automatic Ballista, set it for single shot, then shot it once and hit Walter in the chest. Since they were pretty close, all of the force of the 6 foot long bolt hit his chest plate and crushed the etching; which made the Spell Absorption ability go away. The bolt didn't stop, though. It continued on through the chest plate, the man's chest, and broke off the back of his armor as it exited.
+
+“Oh, look.” Ren said as he stored the Ballista. “Spells will work against you, now.”
+
+Walter stared at him as he took out a wand. “Wa-wait.” He managed to get out, even though his lungs were damaged. He was starting to regenerate, and the hole the bolt made started to close.
+
+“I can't let you regenerate.” Ren said and used his red laser to widen the hole in Walter's chest. “I'll never win if you keep regenerating.”
+
+“That... was... point...” Walter said.
+
+“You failed to realize that there is always someone stronger, faster, and smarter than you.”
+
+“You...”
+
+“Oh, I know I'm in Trouble.” Ren said. “I actually thought that you were the one that was finally going to kick my ass.” He said and chuckled. “When I saw your armor, I knew you were only a paper dragon.”
+
+“A... a what?”
+
+Ren used his Wand of Iron Barrier to make two 40 foot tall walls, 5 feet wide, and an a inch thick, then made a 10 foot square one that was 5 inches thick to lay across the top of them, then cast 5 more walls on top of that.
+
+“A paper dragon.” Ren said and looked at the guy. “On paper, you're a dragon. Invulnerable to spells, massive defense, and probably have all your points piled into Strength.”
+
+“How did... you know...”
+
+“In reality? A solid spell defense is vulnerable to a basic physical attack.” Ren said and smiled. “Once that's done, though...” He pointed up and Walter looked up.
+
+“N-n-no!”
+
+Ren dismissed the two 40 foot tall walls, and the iron walls stacked on top of them fell down the 40 feet to crush Walter into the ground.
+
+Notice!
+
+You have defeated your opponent in one-on-one combat.
+
+Rewards: 3,245 XP
+
+Fame Bonus: 75% (100% - Slow and Steady 25%)
+
+Fame: 1250
+
+Notice!
+
+Excess Fame has been converted to XP.
+
+Fame 1,250 x 10 XP = 12,500 XP
+
+Notice!
+
+PVP Mode has ended.
+
+Holly ran over to the pile of Iron Walls and knelt. “Oh, Walter.” She said and touched the cool metal. “You broke your promise to me.”
+
+“What did he promise?” Ren asked as Anabelle and everyone else came over to him.
+
+“He promised me that he was unbeatable.” Holly said as Anabelle wrapped her arms around Ren. “He said his Regeneration would keep him alive, no matter what.”
+
+“I'm sorry, Holly.” Ren said, and Anabelle let him go after giving him a quick hug.
+
+“Don't be.” Holly said and stood up. “It's nice to know the truth.” She said and smiled. “Now we need another delivery man.”
+
+“If we get one, you need to keep your hands off.” Anabelle said and gave Ren back his crate of valuables.
+
+“Aw, you're no fun!” Holly said.
+
+“I better get going.” Ren said. “I have to get back to the county to keep working.”
+
+“What about that?” Anabelle asked and pointed to the stack of Iron Walls. Ren walked over to the stack and dismissed them. Underneath was a significant pile of gold, a broken sword, and a shadow marker.
+
+I should ask him about this when he comes back. Ren thought, stored the items, and walked over to Princess and Janice. He took the straps out of Princess' saddlebag and tied them up around Princess for Janice to hold on.
+
+“Janice, you can ride Princess.” Ren said and helped her climb up, then handed her the Giant Strength and Haste wands.
+
+“What about you?”
+
+“I'm getting in the back with Zetaya.” Ren said. “Don't use the wands until we're clear of the traffic.”
+
+Janice nodded and Ren kissed Anabelle goodbye, then he went to climb into the cart.
+
+“I'll stay out and scout.” Teepo said and hopped onto the top of the cart. “Just in case.”
+
+Ren nodded and climbed into the stone cart and closed the cover.
+
+*
+
+Ren didn't notice that one of the townspeople that had come along to watch the fight was actually the woman he had met the day before in his shop.
+
+Officer Holly Stonewall had been stunned at the spectacle Ren had shown her. Not only did he have the guts to face off against someone close to 2 feet taller than him; but, he won so easily. She thought and followed the other townspeople back into the city. She was tempted to follow Ren out to where he was that morning; but, it was a long cart ride both ways and she knew he would be back that evening.
+
+Officer Holly walked down the street and over to the Artesian District, and saw the crowd around one of the stalls. She had seen it earlier, but had paid it no mind. This time, the crowd started to dissipate and when she had walked past, she distinctly overheard one of the short women behind the counter mention Ren.
+
+“Ren is going to be so happy!” Lusinia said and hugged Verwynn. “We've almost sold everything, and it's only just past noon!”
+
+Verwynn chuckled. “I don't think even he realized that people would scramble for new glassware.”
+
+“I can't wait until he comes back tonight.” Frikara said, and she felt Verwynn's reaction. “Okay, what happened?”
+
+“N-nothing.” Verwynn said, and Lusinia pinched her cheek. “Ow!”
+
+Lusinia laughed. “We can feel you're turned on! Tell us!”
+
+“Okay, fine!” Verwynn said. “He said to remind him that my turn was next!”
+
+“Oho!” Frikara said, and took Verwynn into a hug. “You lucky girl!”
+
+“Excuse me.” Officer Holly said, and the maids all turned to her. “I'm sorry for overhearing, but... did you just say that it would be your turn with Ren next?”
+
+“I don't see how that's any of your business.” Frikara said, on the defensive.
+
+“Oh, it's not.” Officer Holly said and waved both hands in apology. “I'm just a big fan of his.” She said and smiled. “In fact, I just saw him fight outside the North Gate.”
+
+“WHAT?!?” Frikara yelled, and then took a breath. “I'm sorry, could you repeat that?”
+
+“I don't know how it started, but I saw him fight a really tall guy with silver armor.”
+
+“He didn't even come and get us.” Frikara said.
+
+“He was here earlier, remember? He knew we were busy.” Navruth said.
+
+“But still... some of us could have gone to watch.”
+
+“When?” Verwynn said and laughed. “We've been run ragged since the stall opened!”
+
+“I... oh, all right.” Frikara said and smiled. “I can't stay angry at him anyways.”
+
+“That's because he likes your breasts the most.”
+
+“That's not... well, he did say they looked good...” Frikara's face flushed a little red.
+
+Officer Holly stood there in silence as the maids talked among themselves and discussed which parts of each of them they thought he preferred.
+
+Are these women for real? Officer Holly asked herself. They can't possibly be discussing which one has the better... She closed her eyes and took a deep breath. “If he is any kind of man, he would say you're all perfect just the way you are.”
+
+“Then he's a great man.” One of the maids said. “That's exactly what Ren would say.”
+
+Officer Holly opened her eyes and saw the 5 maids as they stared at her. “I'm sorry, I didn't mean to say that out loud.”
+
+Frikara chuckled. “It's all right.” She said. “You were being honest at least.”
+
+“What do you mean?”
+
+“You're not a big fan of his.” Frikara said. “Are you?”
+
+“I've heard of a few things that he's done.” Officer Holly said, and remembered some of the things Ren went through. “He's remarkable.”
+
+Frikara smiled and several of the maids nodded. “Yes, he is.”
+
+*
+
+“Hi, Zetaya.” Ren said, and the fire elemental stood up on it's hind legs, and he saw it was almost as tall as him. “Wow, you're getting so big!” He said and hugged it. “Do you want more Spider Silk cloth?”
+
+Zetaya's color changed slightly, and he took out more scrap pieces. It sucked them inside of itself, and Ren sat down at the back of the cart. It walked over to him and climbed onto his lap and laid down. Or at least it tried to. Ren chuckled as it couldn't find a good position to cuddle, and he opened his arms. It took the hint and laid down with it's head on his shoulder and curled it's body in so Ren could cradle it.
+
+“There, that's much better.” Ren said and hugged it closely.
+
+The cart started to move and Zetaya took no notice of it. It wasn't long before the cart reached the West Gate and Princess ran faster. When they were far enough out from the main flow of traffic, Janice used both wands on her, then held on for dear life.
+
+*
+
+“He has defeated another opponent.” The healer said, and took her hand from Lylyth's forehead. “He is quite formidable.”
+
+“He was worried at first.” Lylyth said. “I felt it.” She said. “He isn't the rock of emotional stability you claim he is.”
+
+“My Queen.” The healer chuckled. “He wasn't scared, was he? Or wavered in his decision?”
+
+Lylyth didn't respond, and the healer nodded.
+
+“Even though he thought he might lose, he didn't balk at it. He prepared for the eventuality and faced it without hesitation.”
+
+“So, you think he can...”
+
+“Bring you balance? Possibly.” The healer said, then pointed. “We won't know until that is done.”
+
+Lylyth looked at the almost complete spider image over her heart. “It's been like that for a while.”
+
+The healer nodded. “I had hoped it would have finished already.”
+
+“Me, too.” Lylyth said and strained against the chains that still held her arms immobile. “All this waiting is unnerving.”
+
+“For all of us.” The healer said, and the wall of spiders shifted slightly and opened up.
+
+“So, they finally chained you up.” Grimlow said and laughed. He was nearly 9 feet tall, only a few inches shorter than Lylyth, and his hair was just as white and his skin just as dark.
+
+“You have not been invited into my throne room.” Lylyth said and stood. “Leave. Now.”
+
+“My Queen.” Grimlow said and bowed deeply; but he did it mockingly, and Lylyth scowled at him. “I merely request an audience.”
+
+“Denied.” Lylyth said. “Get out.”
+
+Grimlow laughed. “Your Command ability seems to have weakened somewhat.” He said. “I didn't even feel a twinge of obedience to you.”
+
+Lylyth took a step towards him and the slack in the chain disappeared and it stopped her. “I will rip off your head and spit down your neck!”
+
+“Ooo, scary.” Grimlow said. “Your threat is hollow, My Queen.”
+
+“You dare!”
+
+“I cannot be touched by you, or anyone else, until my rival appears.” Grimlow said and grinned evilly. “At least, according to your own rules.”
+
+“Bah!” Lylyth said and sat down on the floor again. “Why did I ever agree to that?”
+
+“Your people agreed and you had to go along with it.” Grimlow said. “They would have deserted you all those years ago if you hadn't.”
+
+“Oh, right.” Lylyth said.
+
+“It's taken me decades to earn enough Influence to reach the rarefied heights of Dark Elven Society.” Grimlow said. “I had thought when I maxed it recently, that I would earn the spot by your side.”
+
+“It's not that easy to win the Queen.” The healer said. “She would have had several men like you before now if she was.”
+
+Grimlow scowled. “There's no other men like me.”
+
+“Oh, please.” Lylyth said. “Arrogant? Self-centered? Full of himself? Believes everyone else is below him, even his peers?” She laughed. “You're just like every single elf I've ever met.”
+
+“That doesn't matter.” Grimlow said, because he couldn't argue her point. He actually was all those things. “I've gained the Influence, and you will accept me.”
+
+“You didn't do it first.” The healer said. “You also don't have a connection to the Queen.”
+
+“Ha, like that matters.” Grimlow said. “She can feed from me only when I allow her to.”
+
+Lylyth looked at her attendant. “Why didn't you have him killed before he gained enough Influence like I asked?”
+
+“I tried, My Queen.” The attendant said. “He killed both assassins.”
+
+Lylyth sighed. “I wish it had worked.”
+
+“I know you do.” Grimlow said and grinned. “Your feelings of despair are so delicious.”
+
+“That's not despair, you ignorant fool.” Lylyth said. “It's resignation. He is not going to be happy that he has to fight for me, especially after my message reminding him of his promise.”
+
+“Ah, a reluctant champion.” Grimlow said. “His emotions will be sweet and tasty.”
+
+“You can't feed from him!” Lylyth said and stood up again. “He is mine to feast upon!”
+
+Grimlow smiled. “Hit a sore spot, have I?” He said. “I will use my ability to it's fullest extent when we battle, to suck every bit of emotion from him!” He chuckled. “I will leave him an empty husk!”
+
+“RAAHHH!” Lylyth yelled and swung her arms. It lifted the heavy chunk of floor that her chain was attached to, and she swung it at him.
+
+“AhhHH!” Grimlow hollered and jumped back out of the way as the 5 foot wide and 3 foot thick chunk of stone turned in an arc and passed mere inches in front of his face.
+
+Lylyth's temper eased away as she felt fear from Grimlow, and she let the chunk of stone fall to the floor.
+
+“Mmm, fear from someone with such high Influence.” Lylyth said and drank it down. “Tasty.”
+
+Grimlow pushed his fear away and replaced it with anger. “I'll come back when you are more reasonable.” He said and turned towards the wall of spiders.
+
+“I'm so glad I'll never have to see you again, then.” Lylyth laughed, and the wall of spiders parted to let Grimlow leave the throne room and Lylyth's sight.

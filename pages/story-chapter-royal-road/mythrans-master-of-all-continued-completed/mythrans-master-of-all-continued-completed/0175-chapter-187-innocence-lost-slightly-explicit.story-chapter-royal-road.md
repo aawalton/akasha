@@ -1,0 +1,393 @@
+---
+id: 8a9ed17c-75b0-5279-a6e8-192693c4d2bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 187 - Innocence Lost (Slightly Explicit)"
+slug: 0175-chapter-187-innocence-lost-slightly-explicit
+partOf: mythrans-master-of-all-continued-completed
+position: 175
+ownLength: 5067
+unit: words
+publishedAt: 2017-03-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121941/chapter-187-innocence-lost-slightly-expl"
+royalRoadId: "121941"
+---
+
+Ren ran 2 blocks to get to the street that led to his business, and when he took the corner, he saw that there was a horse and cart in the street with several people around it. They were unloading wood from the cart, and workers carried the wood into one of the houses. He slowed down and equipped his Travelling Clothes so they wouldn't think he was one of the soldiers; then he heard a shout and stopped.
+
+“Ren!” Jhulune exclaimed as she came out of the house to get more planks. She wore work pants and a loose-fitting t-shirt. Her hair was just as bright red and short as it ever was, and he smiled as it was still styled just like his.
+
+“Hi, Jhulune.” Ren said, as she came over to him. “Are you working hard, or hardly working?”
+
+“I'm exhausted!” She laughed. “We've been going since breakfast.”
+
+“You're such a slacker.” Ren chuckled. “How are you?”
+
+“I'm...” Jhulune started to say, and Brian passed her to grab a couple of planks. She took in a sharp breath and continued. “I'm fine.”
+
+Ren looked at her with concern. “I know I don't have any right to ask...”
+
+“We broke up.” Jhulune said.
+
+“I'm sorry.” Ren said. “What happened?”
+
+“Can we take a walk?” She asked.
+
+“Of course.” Ren said.
+
+Jhulune stopped the guy that had just picked up some wood, and asked him to tell her boss that she was taking her break.
+
+“Sure, Jhulune.” The guy said and went back into the house. Jhulune started walking down the street, and Ren kept pace with her. She took a corner and went down an alleyway, and stopped when she was well out of view of the house the workers were fixing. Jhulune leaned against the wall and folded her hands behind her back, and Ren stood in front of her about a foot away.
+
+“I'll tell you...” She said, and blushed slightly. “...if you promise you won't do anything about it.”
+
+Ren frowned. “I probably shouldn't; but...” He sighed. “...all right. I promise.”
+
+Jhulune sighed in relief and relayed the events of the night before. Ren took several deep breaths and closed his eyes as she described having her finger straightened and healed. He opened his eyes as she got to the part about her father's reaction, and it hurt his heart when she described the scene Brian had made at work that morning. It had happened in front of everyone; and now everyone knew all of the sordid details.
+
+“I am so sorry that happened, Jhulune.” Ren said, and put a hand on her shoulder. “I know this is a stupid question; but, are you going to be okay?”
+
+She nodded slightly. “I... I'm handling it.”
+
+Ren smiled. “I'm glad you made me promise.” His smile turned a bit evil. “I'd have gone over there and broken his jaw... among other things.”
+
+“Ren!” Jhulune exclaimed.
+
+“I'm sorry.” Ren said a bit sheepishly, and took his hand off her shoulder. “I've had my finger broken, and had it set again; so, I kind of know what you went through for that part.”
+
+“And the other part?”
+
+Ren closed his eyes and took another deep breath as he imagined what it was like. He opened his eyes and showed her calmness, and not the anger he had suppressed. “I'm not a girl, so I don't really know what that felt like; but...” He sighed. “...all I know for sure is that I would never have treated you like that.”
+
+“I knew it.” Jhulune whispered, barely above a breath.
+
+“You did?” Ren asked, because he was surprised by her words and had forgotten that he was supposed to ignore whispers; so people wouldn't know how good his hearing actually was.
+
+“I... you heard that?” She looked at him with wide eyes. “I barely whispered it!”
+
+Ren smiled and tapped one of his ears. “These aren't just for show.”
+
+Jhulune nodded. “Last night... after it happened... I...” She breathed deeply. “The first thing I thought about was... was that I knew you wouldn't have treated me like that.”
+
+Ren wasn't sure what to say to that, so he stayed quiet.
+
+“You've always treated me with respect, even though I was just a silly little girl with...” She blushed slightly. “...with a crush on you.”
+
+Ren wasn't sure what to say to that, either.
+
+“I know you're still with someone.” Jhulune said. “And even if you somehow weren't, I...” She shook her head. “...there's no way that someone like you would...” She sighed. “You wouldn't want to spend time with me.”
+
+Ren smiled, as he knew how to respond to that. “We spent several hours together during the deliveries that day the horse was sick.”
+
+“That was for work, though.” Jhulune said. “I meant... that is...”
+
+“I'm spending time with you right now.” Ren said. “Listening to your problems and offering to smash Brian's face in.”
+
+Jhulune smiled. “I did that already.”
+
+“Yes, you did.” Ren smiled. “And I'm very proud of you.”
+
+“Thank you.” She said, then had a wicked thought, and blushed slightly again.
+
+“What is it?” Ren asked. “Are you okay?”
+
+Jhulune blushed a little more, because of the concern she had heard in his voice. “It's just that... ah...” She blushed as she brought her hands out from behind her back. “Now that you're here... I... I can't help but wonder... what would you have done...” She crossed her arms in front of herself and grabbed the bottom of her t-shirt. “...if I did this in front of you.” She pulled up and slid the t-shirt off over her head in one swift motion.
+
+“Jhulune!” Ren said, and stepped close to her, to block her from being seen by anyone that might pass by. “What are you doing?”
+
+“Ren, please.” Jhulune said. “I... I don't want what Brian did to be the way...” Tears came to her eyes. “I don't want to remember that as the first time that... that I was...”
+
+Ren took out a piece of cloth and wiped her face with it. “Jhulune...”
+
+“Please.” She pleaded. “Make me forget how rough he was.”
+
+Ren nodded, took out a bolt of fabric, and nailed it to the building she stood beside. He draped it out and over them, and put a stone brick on the ground to hold it. He enchanted the brick with an illumination rune to light the space up, and he looked at her as he stood. She had surprise on her face, as she marveled at how fast he'd covered them.
+
+“Are you sure about this?” Ren asked her. “I don't want you to expect us to date, or be a couple, or-”
+
+Jhulune kissed him to cut off his words. He kissed her back, and she started to moan in appreciation. They made out for a few minutes, and Ren broke the kiss. Jhulune was breathing heavy, and the tips of her breasts were quite pronounced and as pink as cotton candy.
+
+“They're beautiful.” Ren said, and gently caressed the sides of her breasts. She caught her breath as he cupped them with both hands. They fit in his hands exactly, as if they were made specifically for him to hold, and he massaged them. Jhulune moaned continuously as Ren teased and caressed them.
+
+“Oh, god!” Jhulune exclaimed as Ren knelt and started using his mouth. She ran her hands through his hair, over and over, as he kept playing, licking, and sucking on her. This continued for several minutes, and Jhulune couldn't take it anymore. She let Ren's head go, undid her pants, and slid them down with her underwear. Ren was caught up in her enthusiasm at this point, stayed kneeling, and picked her up to use his mouth on her other area.
+
+“Oh MY G-” Jhulune clamped both of her hands over her mouth to stop her shout, as Ren worked her over. It only took another couple of minutes and Jhulune went. She bucked and shook and screamed into her hands, and Ren stopped kissing her there.
+
+“Don't... don't stop!” She said, shoved his head back between her legs, then she covered her mouth with her hands again. After another 10 minutes, and more orgasms than she could count, Jhulune unwrapped her legs from around Ren, and he set her down to sit beside him. She trembled from head to foot in after-pleasure shocks, and she tried her best to not laugh hysterically. She did let out a long-winded giggle, though.
+
+“Is... is it always...” Jhulune asked.
+
+“Not always.” Ren said, and wiped his face off with a piece of cloth, and offered to clean her off, too.
+
+“I don't think either of us should touch me there right now.” Jhulune laughed. “It might go off again.”
+
+“That happens more often than not.” Ren said.
+
+“Really?” She asked. “How often do you...” Jhulune shook her head. “No, I don't want to know.”
+
+Ren grinned. “I couldn't really tell you anyways.” He said, took her into a one armed hug, and she laid her head on his shoulder.
+
+“Ren... I...” Jhulune tried to say something, then sighed. “Thank you.” She took his hand and squeezed it. “Thank you so much.”
+
+“I'm glad I could help.” Ren said.
+
+“So...” Jhulune said, and blushed a deep red. “Is... is it... your turn next?”
+
+Ren shook his head. “As much as I'd like that, I've got to go.”
+
+Jhulune sighed. “I was kind of hoping... you know... that... ah...”
+
+He cupped the side of her face. “I'd be honored to sleep with you; but, I really don't have the time.” He said and kissed her. “Neither do you.”
+
+Jhulune's eyes widened as she remembered she was supposed to be back at work. “Oh, no!” She said and stood up, then scrambled to put on her clothes. “I am so late!”
+
+Ren stood up and took her into a hug. “Shh. Relax. It takes longer to rush, than it does to calmly get dressed.”
+
+Jhulune took in a deep breath, and let it out. “Okay. I'm okay.”
+
+Ren picked up her underwear and looked at them. They had been stepped on and were crumpled. She looked at them, and her face started to crumble.
+
+“It's fine!” Ren said, and stored them for an instant, then took them back out. They were cleaned, but were still rumpled and he saw a small tear, so he took out his Master Tailor Sewing Needle and repaired them.
+
+“Wow.” Jhulune said as Ren handed them to her, and she put them on. “They're just like new!”
+
+Ren stored and repaired her pants, and handed them to her. She put them on, and sighed in pleasure as all the worn spots she'd had in them had disappeared, and they were comfortable to wear once again.
+
+“I should get you to come by the house and repair everything I own.” Jhulune said as Ren picked up her t-shirt. He stored it and repaired it, just like he did for her other pieces of clothing. She held her hand out for it, and Ren smiled as he laid the t-shirt over his shoulder and looked at her.
+
+“I just want to make something perfectly clear.” Ren said, and gently cupped her breasts. “They are beautiful, and should always be treated as precious things.” He said, and kissed the tip of each one lightly, then looked at her face. Jhulune was blushing hard, and he let her breasts go; then he cupped the sides of her face and kissed her lips just as lightly. “If anyone disrespects you again, let me know. They'll learn their mistake, or they won't see another day.” He handed her the t-shirt, and she put it on as Ren took down the cloth he'd put up to cover their antics, then he stored everything.
+
+“Thank you.” Jhulune said.
+
+Ren smiled as he looked at her, then noticed the tips of her breasts poked out enough that you could clearly see their shapes through the t-shirt.
+
+“I think I have something you might like.” Ren said, and looked in his inventory. “What's your favorite color?”
+
+“Black.” Jhulune said, and Ren smiled.
+
+I thought so; but, it was better to ask, just in case I was wrong.
+
+He took out a nice black bra, that was strapless and mostly lace, and she stared at it.
+
+“What is that?!?”
+
+“It's something that should be in high demand, once people discover that I have it for sale.” Ren said. “Do you want to try it on?”
+
+“Sure!” Jhulune said, and whipped off her t-shirt in one swift motion. Ren slipped the bra on her before anyone came by, and showed her how the front clasp worked. She slid herself into it and hooked it, and the bra re-sized itself to fit her. She unhooked it, and hooked it again, just so she knew how to work it properly, and grinned.
+
+“It's wonderful!” Jhulune exclaimed. “It's both soft and firm, and my clothes won't rub against me anymore!”
+
+Ren smiled. “That's definitely a benefit.”
+
+She felt the fabric, and got a sad look on her face. She sighed, unhooked it, and passed it back.
+
+“What are you doing?” Ren said, and put it back around her. He hooked it, and she looked at him with surprise on her face.
+
+“I can't afford something like that!” Jhulune said.
+
+“You can't afford 'free'?” Ren chuckled. “I wasn't trying to sell it to you. I was giving it to you.”
+
+“Wh-what?”
+
+“Well, it should discourage any overly-enthusiastic new boyfriends from pawing at you.”
+
+“Oh, Ren!” Jhulune said and hugged him. “Thank you!”
+
+“It's the least I can do for you, since you won't let me pummel him into the ground.”
+
+Jhulune laughed and put on her t-shirt. It slid over the new bra easily, and you couldn't see her through the t-shirt anymore.
+
+“It works!” She said, and did a little twirl. When she stopped spinning, she looked at Ren expectantly. “Um... is there... ah... matching underwear?”
+
+Ren laughed and handed her a pair of black lace panties. She took them and squealed, as she held them close.
+
+“You can put them in your pocket for now.” Ren said. “You have to get back to work.”
+
+Jhulune tucked them into her pants pocket, and stepped close to Ren to give him a hug. “I... I hope you'll be able to see me in them.” She said, and blushed.
+
+“I'd like that.” Ren said, and gave her a quick kiss on the cheek. “Now go on.” He said, and shooed her away. “I'm sure they're wondering where you ran off to.”
+
+“They'll have to keep wondering.” She said, and looked at Ren seductively. “I'm not telling anyone about how much you've helped me.”
+
+Ren ran his hand through her hair, and she sighed. “So that's what it feels like.” He said, and ran his other hand through her hair. “No wonder everyone tries to do this to me.”
+
+Jhulune chuckled. “I work hard every day to get it this fluffy.”
+
+“It's just natural for mine.” Ren said, then smiled. “I'll see you around, Jhulune.”
+
+“Bye, Ren.” Jhulune smiled and turned around to walk out of the alley. When she got to the street, she turned around and blew him a kiss. He pretended to catch it, and pressed it against his mouth. She laughed and took off running down the street, to go back to the house the crew was working on.
+
+I think Elerlyth was right. Ren thought. I keep encountering things that try to keep me involved with the local people.
+
+“That is definitely true.” Teepo said. “You're being kicked out of the Dwarven Kingdom; but, you're also charged with defending that realm from attack.”
+
+Yeah. Ren smiled, ran out of the alleyway, then went up the street to his business. He went inside and then up the stairs to the apartment.
+
+“Ren!” Anabelle exclaimed, and threw herself at him. She still wore just the maid apron and socks.
+
+“You can stop that now.” Ren said. “You aren't under Lord Eric's orders anymore.”
+
+“What are you taking about?” She asked. “I love you!”
+
+Ren chuckled as he walked over to the basic fireplace he'd made in the living room, and activated the fire stones inside. She stumbled behind him, trying her best to hold him still. Ren took out the first scroll, and tossed it into the flames. It burned up instantly, and he took out the next one.
+
+“How do you feel?” Ren asked, and tossed the next scroll into the fire. “Any better?”
+
+Anabelle shook her head and he threw in the third scroll. Anabelle's ankle burned slightly, and she slipped her sock off of it.
+
+“What are you doing?!?” Anabelle asked as she tried to stop Ren from throwing her main contract into the fire.
+
+“I'm tempted to order you to stop fighting me...” He smiled. “...but, I'd rather just have you back to normal.” He tossed the last scroll into the fire.
+
+“Nooo!” Anabelle yelled, and tried to go into the fireplace to get the scroll back. Ren caught her before she could hurt herself, and she collapsed onto the floor in front of the fire. “What did you do?!?”
+
+“I'd say that I freed you, but you aren't going to agree to that view, are you?”
+
+Anabelle shook her head. “Everything... everything was so much easier while I...” She sighed. “I didn't have to think about anything.”
+
+“I'm sorry.” Ren said. “Despite your willingness to do anything that the contract said you would do, I still want you to do things with your will, and mind, intact.”
+
+Tears came to her eyes. “But, I can't!” Anabelle said loudly. “Ever since I was a young girl, I couldn't think straight.” She said and cried. “I couldn't even find a job when I lost my family.” She sighed and wiped her eyes, and the fire burned her contracts to ashes as her ankle bracelet faded. “If Lord Eric hadn't found me, or told me about the contracts and how they could help me...”
+
+Ren put a hand on her shoulder. “You really need the extra guidance?”
+
+Anabelle nodded. “Without... without the compulsion to do things, I... I'll lose my... um... I can't... I don't know what...” She shook her head. “It's going away already!”
+
+Ren took out a piece of parchment, and wrote out a contract for her. He added in a few things that were in the other contracts; but not everything, as some of it was pretty nasty. He also added in that she didn't have to give Ren any money, or have sex with people for money. He passed it to her to read, and she signed it without even looking at it.
+
+“You should have read that.” Ren said, and Anabelle sighed as she hugged herself, then cried. He took her into a hug, and let her cry. After several minutes, the tears eased and she sniffled. He passed her a scrap piece of cloth, and she wiped her face off with it.
+
+“Thank you.” Anabelle said. “I knew when I first met you, that you were a good man.”
+
+“How could you tell?” Ren smiled. “You were a little busy trying to stick your tongue down my throat.”
+
+“I wanted you so bad!” She grinned. “You'd given me so much money that I didn't know what to do with it all.”
+
+“You gave most of it to Lord Eric.”
+
+Anabelle nodded. “It was our agreement.” She said. “Free room and board, and I got to keep just enough for spending money.”
+
+Ren sighed. “I didn't believe him when he said you had agreed to it all beforehand.”
+
+She smiled. “It saved me from... well, from dying on the streets like the trash that I am.”
+
+Ren stood up, and helped her stand as well. “You are not trash, Anabelle.”
+
+“No?” She asked. “I just need a piece of paper, and this...” She held up her arm, and showed Ren the Bracelet of Enforcement that had appeared there. “...to help me keep my marbles, and from wandering off somewhere.”
+
+Ren took her hand and kissed the fingers, as if he was greeting one of the Minister's wives. Her eyes widened at the gesture, because she knew exactly what it was used for.
+
+“Wh-what are you doing?”
+
+“I'm greeting a lady.” Ren said. “And my new store clerk.”
+
+“Your what?!?”
+
+“I'm opening my business today, and I need a smart and capable woman to run the place when I'm not here.”
+
+Anabelle's mouth dropped open. “You... you're going to trust someone like me with that?”
+
+“Sure.” Ren said. “I've got you under contract to do it, too.”
+
+She looked at the rolled up parchment in his hand, and laughed.
+
+“You sneaky bugger!”
+
+“I told you that you should have read it.” Ren said and grinned. “Now you'll have to do actual work for me, and not try to seduce me every time you see me.”
+
+Anabelle wrapped her arms around his neck and much to his surprise, pressed her nearly naked body against him.
+
+“Why can't I do both?” She asked, and kissed him.
+
+Ren pulled back and broke the kiss. “Because the contract specifically states that you don't have to do that kind of thing anymore.”
+
+Anabelle ran a hand through his hair. “I don't have to?” She said and smiled. “Not shouldn't or can't?”
+
+Ren's eyes widened as he discovered the loophole that she so easily found.
+
+“Anabelle...” Ren tried to say, and she kissed him again. He tried to back up, and hit the wall. She grabbed his hands and pulled them inside her apron to cup her breasts. She moaned into his mouth as she moved his hands around. Ren turned his head to the side, so she couldn't kiss him, and she kissed his ear instead. She licked along his ear to the tip, and Ren shivered as he couldn't stop his body from reacting automatically from a sensation that was eerily similar to another part of his anatomy. His ear twitched, and Anabelle opened her mouth and sucked on the pointed tip like a lollipop.
+
+“By the gods...” Ren said, and closed his eyes. I've never felt anything like this before!
+
+Anabelle stopped sucking for a moment. “You'd better take those pants off, or you'll make a mess in them.” She said, then sucked on his ear harder, moving it in and out. Ren opened his eyes and turned his head towards her, and his ear popped out of her mouth. Anabelle grinned as she kissed him on the lips, and reached down between his legs. At some point she had let Ren's hands go; but, he had kept massaging her breasts without her urging or prompting.
+
+I guess I was more turned on by Jhulune than I thought I was. Ren thought.
+
+“I think it's more because Anabelle is an expert, and has had years of practice.” Teepo chittered in laughter.
+
+Wh-what do I do? Ren thought as Anabelle knelt in front of him and worked him through the thin fabric of his pants.
+
+“Either stop her, or have fun.” Teepo said. “There's not really any other choice.”
+
+Ren nodded. “Anabelle, please s-”
+
+His words were cut off as she slid his pants down and tasted him directly. She worked him over expertly, just as Teepo had said. After only a minute of direct stimulation, and because it felt so good, he went. Anabelle held him close and stared up at him, then her eyes widened as he kept going. She took as much as she could; but, she had passed her limit a moment before and tried to pull away. Ren grabbed her head and held her there.
+
+“You started it.” He said. “You better finish it.”
+
+He felt her smile around him and she relaxed. He stopped going a minute later; she stopped pleasing him, then she stood up.
+
+“This way, My Lord.” Anabelle took his hand and put it between her legs. She was soaked, and she used his hand to please herself. She bit her lip as she went, then she turned around and got on her hands and knees.
+
+“Please, My Lord.” Anabelle pleaded, desperation in her voice. “I've lost count of how many months it's been since we met at the party in your honor.” She said. “When you paid for me... I... I haven't... since then I... I've been a good girl...”
+
+Ren could see the tears were back in her eyes.
+
+“P-p-please...”
+
+Ren joined with her, and she cried.
+
+“Thank you, My Lord!” Anabelle said. “Oh, god! Thank you!”
+
+What did I get myself into? Ren thought, as he pleased her.
+
+Half an hour later, Ren left Anabelle exhausted on the couch, and tucked her under the blanket. He went downstairs and started up the forge. He threw a few high quality iron ingots into the smelter and let them simmer as he built shelves, and racks, and partition walls. He checked the smelter, added more ore, and stirred it. Ren made a dozen comfy chairs, and three couches. He built a display for one of the windows, with a couch, two comfy chairs, and two training dummies made of wood, in it.
+
+He hung several swords and shields on the wall, and took out one of the crates that had the armor suit Tee-one had made. Ren used his portable dye station to make it a white color, instead of the mottled gray used in the dwarf army, then set the crate to be easily seen. After being tempted to put a set of bra and panties on one of the training dummies, he hung it on the wall instead. He went back to the forge, then used the molten metal to make two of each bladed weapon, tool, and item that he had the pattern for. They were hung on the walls and placed on shelves. Once that was done, he hung various types of bows on the racks. He made a couple more training dummies, and did use them as mannequins and made several outfits he had adapted from Lord Neram's designs.
+
+Ren went behind a partition wall and set out a couple of each lingerie outfit, bra, and panties, and hung them on the walls. He made a couple of crossbows, and hung them on the wall beside where the bows were hung, then realized he would need a counter for Anabelle to stand behind and take orders. He made her a counter and a nice chair to sit in, and placed it in the best position to see all of the wares in the shop. Ren was tempted to close off the forge area, but decided against it. If he was going to be spending time working here, people will want to see him actually working.
+
+Ren smiled as he made several small shelves behind the counter, and put a couple of every potion he had on him, and added a list of the potions he could make. Then he took out several stone bricks, and enchanted them with single runes and concentrated on Anabelle. He made another list, stating what could be enchanted, then decided to make a tiny icebox for the display. Once that was done, he made a coffee table, a sitting desk with a mirror, a cabinet, and a bed. He put them in their own area, and went back to the counter and looked around.
+
+“I think that's everything.” Ren said. I won't offer the wands yet. He thought. I don't want to overwhelm the market.
+
+“You should probably make a sign for out front, once you get the windows in.” Teepo suggested.
+
+“Ha!” Ren said. “I knew I forgot something.” He made a sign out of wood, and added the House Neram crest behind it. He went outside and cut the holes for the two large storefront windows, then mounted them into place. One showed his living room display nicely, and the other showed off the forge and weapons. Ren took out a ladder and climbed up to hang the sign above the door.
+
+“There, it's done.” Ren said, as he looked at the sign that said the name of his business.
+
+Master Of All, Jack Of None
+
+Ren walked inside and went to a workbench, and took out the pattern for a woman's conservative suit and skirt combo, and made one in red for Anabelle to wear. He stored it and ran up the stairs to the apartment. He found Anabelle getting dressed in her maid outfit.
+
+“You're not going to need that.” Ren said.
+
+She turned around and beamed a smile at him. “Would you prefer I only wear the apron to serve the customers?”
+
+“Despite the fact that a lot of them would appreciate it; no, not the apron.” Ren chuckled. “I want you to wear this.” He took out the business suit, and she stared at it.
+
+“It's beautiful.” Anabelle said and took it. She put it on, and it shrank to fit her perfectly. “Thank you, My Lord.”
+
+“You can call me Ren.” He said, and she shook her head.
+
+“I can probably drop to 'sir' when we are in public; but you are, and always will be, 'My Lord' to me.”
+
+“Anabelle...”
+
+“The contract states that I can call you anything I wish.” Anabelle smiled. “My Stallion.”
+
+Ren shook his head. “Okay, 'My Lord' is much better than that.”
+
+Anabelle chuckled. “I knew you would see things my way.”
+
+“Come with me, please. I want to show you the storefront, where you'll be taking orders, and what's for sale right away.”
+
+“Of course, My Lord.” Anabelle said and walked over to him. She swung her hips seductively, and Ren raised a single eyebrow at her. She chuckled and put her hands on her hips. “I'll tone down the sexiness if there's women in the store.”
+
+“Thanks.” Ren said and smiled. “I'm sure they'll appreciate your efforts.”
+
+“I don't care if they do or not.” Anabelle said. “I only care if you appreciate it.”
+
+“I do.” He said, and she hooked her arm in his.
+
+“Then show me the domain I can rule with an iron fist.” Anabelle said, and laughed as they left the apartment and walked down the stairs.

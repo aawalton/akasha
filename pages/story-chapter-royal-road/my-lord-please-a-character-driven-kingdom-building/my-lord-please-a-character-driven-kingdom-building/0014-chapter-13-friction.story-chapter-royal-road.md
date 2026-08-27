@@ -1,0 +1,267 @@
+---
+id: 26500f49-764d-5c68-9c33-ff1f68b594b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 Friction"
+slug: 0014-chapter-13-friction
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 14
+ownLength: 2484
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3205519/chapter-13-friction"
+royalRoadId: "3205519"
+---
+
+A week after the parchment had first been nailed to the notice board in front of the tavern, a small crowd gathered before it once more.
+
+The board itself had been there long before his arrival in Ashridge. It was a simple thing, a wide plank of smoothed timber fixed upon two logs driven into the ground beside the tavern’s entrance.
+
+Before, it had been used by villagers for barter requests or, on rare occasions, announcements and decrees. Now, it had become something else. A gathering point in the mornings. Men lingered there before drills, boots grinding frost into the dirt as they waited.
+
+From the window of his study, Lucien observed the scene below.
+
+A moment later, Alicia’s petite figure approached. Her gait had grown slightly more confident compared to the first time she had updated the notice. From this distance he could not see her expression, but he could imagine the familiar mixture of determination and careful composure as she neared the gathering of burly men.
+
+‘I had wanted to assign a guard. At least one to escort her.’ Lucien exhaled quietly.
+
+When Alicia had first offered to take up the task, she had mentioned liking to draw. It seemed he had underestimated her talent. The marks she created were intricate enough that none of the guards had been able to imitate them convincingly.
+
+Before he could reconsider assigning an escort, she had already posted the first update as soon as Elias provided the names of the top performers. To suddenly assign guards from the second rotation onward would invite questions.
+
+So he had chosen to observe.
+
+Alicia exchanged small greetings as she approached. A handful of women gathered near her, subtle but unmistakable in their presence. One of the men placed a small stool before the board, as though it had become part of a small ritual. Bran stood beside it, arms crossed, facing the crowd rather than the board. A father’s stance, more concerned with his daughter than the notice.
+
+The air tightened as Alicia climbed onto the stool, charcoal held between her fingers. The previous markings had already been wiped clean, as Elias had instructed and Lucien approved. It would not do to leave names lingering long enough for resentment to deepen.
+
+She worked with quiet concentration, writing shortened letters before marking a symbol beside each one. The idea had been hers, brought to him the evening before the first posting. He had approved it without hesitation.
+
+The first two letters and the final letter of a name were written, followed by a symbol beside it. A practical compromise. Those who could not read fully often still recognized the shape of their own name, and the symbol removed doubt where letters failed.
+
+It was a simple solution for a village where more than one man might answer to the same name.
+
+With each new entry, shoulders shifted and men leaned forward. When the fifth was written, Lucien tensed as the crowd pressed closer, nearly engulfing the shy girl.
+
+They were checked by sharp words from the women at her side. Wives, perhaps sisters. The men retreated a half step, sheepish under familiar scrutiny.
+
+When she finished, Alicia stepped down carefully and gave a small bow before withdrawing. She exchanged only a brief nod with Bran, who remained in place until she had cleared the space.
+
+Only then did he turn toward the board.
+
+From his vantage point, Lucien could not hear the words exchanged below, but posture spoke clearly enough. The men at the centre jostled and jeered good naturedly at the top five. Bran’s name was among them again, marked for the forge.
+
+At the edges of the crowd, however, a few stood stiffer. Their expressions were less amused, their shoulders set harder.
+
+‘More of them now. But not clustered together...not yet.’ Lucien grimly noted to himself, committing their faces to memory.
+
+There had been bruised egos and quiet complaints over the two completed rotations. Yet there had also been coin. And according to Dorian’s reports, a sharper intensity in the drills.
+
+The system was not smooth.
+
+But it was moving.
+
+And frost now lingered on the ground where bare dirt had stood a week before.
+
+Lucien stood a distance away from the training ground, the same spot he had chosen during his first visit. It was the first time he had come to observe since the rotational duties had been implemented. He had avoided being seen too frequently, unwilling to hover over them, but after two rotations had passed and things had settled somewhat, he judged it time.
+
+The ground itself had hardened with the first touch of frost, and the air was filled with the breaths of the militia, hanging faintly as they formed lines with blunted spears angled forward and boards that acted as facsimiles of their future shields raised in staggered rows.
+
+Even now, to Lucien’s inexperienced eyes, he could see that the movements of the men had grown a touch sharper compared to his first visit. Spears rose with disciplined repetition as Dorian’s command rang out in a single word.
+
+“Forward.”
+
+The formation advanced three steps.
+
+“Set.”
+
+The wooden spear tips levelled in near unison. There were still slight deviations, a misstep here and there when one of the men moved too quickly or too slowly, but it was far from what he had observed before.
+
+Dorian walked along the flank, his pace steady, boots crunching lightly against the pale crust of frost. His eyes moved from grip to stance to foot placement without comment.
+
+“Again,” he ordered, tone flat, giving no indication of whether he was pleased or dissatisfied.
+
+The formation reset to its prior position. Where before the militia would have grouched and grumbled quietly, there was now a hint of intensity to them. The promise of coin, and the intangible weight of having one’s name drawn and displayed for the village to witness, had seen to that.
+
+After several repetitions, Dorian, standing at the front of the formation, barked another command.
+
+“Pair off.”
+
+The men immediately dissolved into prearranged pairs.
+
+Lucien’s eyes tracked one of the men who had stood near the edge of the group that morning. Tomas, he noted, had edged close to taking the fifth position twice in a row now.
+
+Dalen was the current holder of the fifth slot, having defended it by what Dorian had described as “a step nearly too slow, but just enough.”
+
+The two men stood across from one another, their gazes tight as they prepared for the next portion of the drill. They offered stiff salutes, movements still taut from exertion.
+
+At Dorian’s command of “Begin,” wooden shafts snapped forward in quick succession, one man blocking and deflecting while the other thrust and pressed.
+
+Their first exchange was smooth, measured.
+
+Dalen moved with deliberate economy, his stance compact, shield angled correctly as he absorbed Tomas’s initial thrust and answered with a controlled jab that stopped short of full contact.
+
+Tomas grinned despite the cold, breath misting as he pressed again, faster this time.
+
+The second exchange came sharper.
+
+Tomas drove forward with more force than required, the wooden shaft of his spear striking Dalen’s shield with a crack that drew several glances from nearby pairs.
+
+Dalen yielded half a step as trained, absorbing the momentum before rotating his shoulder and guiding the thrust aside rather than meeting it head-on.
+
+“Switch. Guard.”
+
+Dorian’s voice cut across the field as he paced between the sparring pairs.
+
+Dalen disengaged at once, lowering his spear fractionally.
+
+Tomas did not.
+
+Instead, he stepped forward again, trying to press the advantage he believed he had created, causing the distance to collapse.
+
+Dalen reacted instinctively, bringing the shaft of his spear up in a short checking motion meant to halt the advance rather than strike.
+
+It connected with Tomas’s cheekbone with a sharp crack that echoed across the ground.
+
+There was a moment of stillness as the other men paused in their drills.
+
+Tomas stumbled back half a step, one hand rising to his face. A reddish welt was already forming where he had been struck, and when he lowered his hand, blood streaked across it, mixed with grime and sweat.
+
+Dalen did not pursue. He stepped back immediately, lowering his weapon, jaw tightening in realization.
+
+The silence was broken by the steady crunch of boots over hardened dirt as Dorian stepped between them.
+
+“What was my last command?” he asked evenly, his tone unchanged.
+
+Neither man answered. Tomas stood with his jaw clenched and blood bright against his knuckles, while Dalen had already lowered his spear and fixed his gaze forward, waiting.
+
+“I gave the order to switch,” Dorian continued, his gaze settling on Tomas. “You ignored it.”
+
+He did not reply at first but when Dorian continued to wait, staring at him without expression, Tomas drew a sharp breath and began, “I thought I could press—”
+
+“That is not the purpose of this exercise,” Dorian interrupted. “And you know it.”
+
+Dorian did not look at Dalen yet. His gaze remained fixed on Tomas.
+
+“You are not here to win a duel. You are here to hold a line.”
+
+Only then did his eyes shift briefly to Dalen. “You disengaged.”
+
+“Yes, Captain,” Dalen replied without defensiveness.
+
+“You reacted cleanly.” It was a measured assessment.
+
+For a moment, the captain simply looked between the two men. Before his gaze settled on Tomas, he extended his hand.
+
+“Spear.”
+
+Tomas hesitated, but years under rigid authority compelled him to obey. He surrendered his practice spear.
+
+“You will not be ranked this rotation,” Dorian stated. “Nor the next.”
+
+A low murmur moved through the watching men.
+
+Tomas’s head snapped up as he began, “Captain—”
+
+Dorian glanced at him.
+
+There was no raised voice, no visible anger, but the coldness in his gaze was enough. The protest died.
+
+“You will report to the carpenter’s yard tomorrow,” Dorian ordered. “Hauling and shaping timber. You will attend formation drills only.”
+
+“Yes, Captain,” he answered stiffly.
+
+“You are eager to prove yourself,” Dorian continued. “You have.”
+
+His reprimand concluded, the captain turned slightly to address the wider group. “The goal of this exercise is neither speed nor strength,” he stated flatly.
+
+“It is discipline,” he continued. “When the order comes to hold, you hold. When it comes to yield, you yield. Not because you think you can win. Because the man beside you depend on it.”
+
+His gaze flicked once more between Tomas and Dalen.
+
+“You do not fight alone.”
+
+His gaze moved slowly across the assembled militia. He did not raise his voice, the captain rarely needed to.
+
+After a brief pause, he barked a single command.
+
+“Reset.”
+
+The drills resumed promptly. The intensity remained, but it was more measured now. Distances were respected. Thrusts controlled. As they reset positions, Tomas gave Dalen a brief nod, as if to say the matter was finished.
+
+Lucien watched without moving from his position. Only when the sequence ended and the men prepared to break for water did he step forward.
+
+“The captain has spoken,” he said calmly, his gaze sweeping across faces streaked with sweat and dirt.
+
+“Coin is earned through discipline. Not misplaced bravado.”
+
+His expression remained placid. “If you fracture your own shield wall for the sake of ranking, gold will not save your families when that line breaks.”
+
+He did not lecture further nor did he not alter Dorian’s punishment. His authority reinforcing the captain's words without overshadowing them was more than enough.
+
+Lucien turned and walked back toward the village.
+
+Behind him, the sound of wood striking wood resumed, sharper but quieter.
+
+By the time Dorian entered his study that evening, the sky beyond the narrow windows had long since darkened. A single lamp burned steadily upon Lucien’s desk, its light casting a warm circle over ledgers and scattered parchment while the rest of the study remained in quiet shadow.
+
+Dorian halted several paces before the desk.
+
+“My Lord.”
+
+Lucien finished marking a figure along the margin of the ledger before setting the charcoal aside. Only then did he lift his gaze.
+
+“Report.”
+
+“The men are improving,” Dorian began without flourish. “Their formations hold longer. Fewer overextensions. Shield positions are steadier.” His tone carried only professional assessment.
+
+Lucien inclined his head slightly. “But problems have begun to surface,” he stated, moving to what they both knew lingered beneath the surface.
+
+Dorian’s expression did not change, though his eyes sharpened a fraction. “They watch one another more closely now,” he agreed. “The rankings have weight.”
+
+He paused only briefly before continuing, knowing Lucien preferred directness in private by now.
+
+“They push harder. A few have taken minor injuries from moving too fast, pressing too much.”
+
+“That was the intent of the rotation when I proposed it,” Lucien replied calmly.
+
+“But harder is not the same as steadier,” Dorian returned, stating a fact rather than casting blame.
+
+Lucien did not react defensively. He accepted the point with a small nod. “Harden them first. We will build steadiness as we proceed.”
+
+That earned him a measured look from Dorian, the same scrutiny he reserved for men under formation.
+
+Lucien steepled his fingers. “This morning’s incident will not be the last.”
+
+“No,” Dorian agreed without hesitation. “Close margins make men impatient. For most, it will sharpen them.” He did not voice the rest, that some would require harsher correction.
+
+Lucien considered that briefly before speaking. “If the next incident occurs, remove those involved from the rankings. Permanently.”
+
+Dorian’s brow lifted slightly, faint surprise breaking through his composure. He had expected to defend his own severity from the morning. Instead, the escalation came from above.
+
+After a moment, he nodded once.
+
+A faint shift in the lamp flame cast shadow across his face. “They fear losing the coin,” he added. “And the standing that comes with it.”
+
+“That was also the intent,” Lucien replied evenly.
+
+Dorian regarded him for a long breath. “You understand,” the captain said slowly, “that when the Tithe comes, ranking will not hold the line.”
+
+“No,” Lucien agreed. “But while their focus is fixed upon it, we can temper their discipline.”
+
+Dorian inclined his head slightly. “Shield production begins tomorrow?”
+
+“Yes. I will confirm the final measures with Joren, but the latest figures suggest we can begin without straining the iron supply.”
+
+“We will adjust as needed,” Lucien continued, reaching for the ledger once more. “But the shields should go first to those who can hold formation.”
+
+Dorian took that as dismissal. “Yes, My Lord.”
+
+He turned toward the door but paused just before stepping through.
+
+“The system works,” he said without looking back. “But it must be watched. Closely.”
+
+“It will be,” Lucien replied, his attention already returning to the ledger.
+
+The door closed with a soft click, and the study fell quiet once more.
+
+Outside the manor walls, beyond timber and frost and sharpened stakes, the night lay stretched and silent.

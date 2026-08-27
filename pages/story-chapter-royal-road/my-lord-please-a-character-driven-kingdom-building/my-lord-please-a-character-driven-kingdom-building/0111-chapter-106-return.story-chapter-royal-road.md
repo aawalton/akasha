@@ -1,0 +1,283 @@
+---
+id: 0df82994-d863-50d7-b833-8a56c8e9f260
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106 Return"
+slug: 0111-chapter-106-return
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 111
+ownLength: 3002
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3752153/chapter-106-return"
+royalRoadId: "3752153"
+---
+
+After yesterday's hard-fought battle with Lord Rathenfell over a matter of great importance, he had only returned to his room when the moon was already high in the sky.
+
+He had made sure Dorian did not remain outside the planning room for too long. Knowing the captain, Dorian would have likely stayed there if Lucien had not sent word ahead of time.
+
+Though he would have preferred to sleep a little longer, he knew today would likely be just as busy arranging the transportation of the refugees.
+
+Putting on his cloak and gloves, Lucien left the room only to find Dorian already waiting for him.
+
+He dipped his head. "My Lord. I trust yesterday's meeting went well?"
+
+Lucien returned the gesture. "Yes. But let us find Henric and Tomas first. They will need to hear this as well."
+
+"They will likely be at the yard practicing, My Lord."
+
+Cupping his chin, he looked around. "I trust you know where that is, Dorian?"
+
+At the captain's nod, Lucien gestured.
+
+"Lead the way then."
+
+The layout of Lord Rathenfell's manor was somewhat similar to his own. Although considering this manor was older, perhaps it was Ashridge's manor that had taken inspiration from it.
+
+There were a few differences, like how the practice yard was built at the back. It was far larger compared to the one back in Ashridge, though if one accounted for the number of guards, the size made sense
+
+Considering the current strain of Helvarn, there weren't many people using it at the moment.
+
+He could already see Henric standing with his arms crossed while Tomas was practicing his sword forms diligently, sweat dripping down his face.
+
+"Always maintain your grip on your sword, Tomas! Even when you feel like dying!" Henric barked, face set in a similar expression that Dorian typically wore during militia drills.
+
+Lucien gave a small nod to himself. Regardless of how eccentric the zealous guard was, at least he was serious about his work.
+
+"Your grip on the blade must be as strong as Lord Lucien's popularity with women! Remember this well, Tomas! That you shall ensure our lord's future endeavors end well!"
+
+He took that back. The man was ridiculous in everything he did.
+
+Lucien cleared his throat.
+
+Both guards froze before turning toward him.
+
+They quickly saluted as Lucien and Dorian approached.
+
+Waving them off, Lucien gestured toward the side of the yard. "At ease, you two. Come. We have much to discuss, and I would rather we talk in the shade."
+
+The four of them moved toward the edge of the practice yard where the manor wall cast a long shadow across the ground.
+
+Looking between the three men, Lucien clasped his hands behind his back. "As you have likely guessed, the meeting is over, and we have a great deal of work ahead of us."
+
+"I have agreed to take in seven hundred refugees."
+
+While Dorian and Henric showed no outward reaction aside from a slight shift in their posture, a light cough escaped Tomas, who quickly covered his mouth when Henric shot him a look.
+
+Lucien shook his head at the sight. "It is fine, Henric. I have essentially agreed to take in more people than there are in Ashridge, the very village Tomas grew up in."
+
+He allowed the news to sink in for a brief moment. "Lord Rathenfell has offered to support their needs for a number of them but even with that, it would still strain our village's own reserves."
+
+"But that is something I will handle with Bran and Elias later. For now, our priority is arranging the journey. Dorian, send word back to Ashridge that we will need a significant number of guards to escort the refugees."
+
+Slowly, Dorian inclined his head. "My Lord. Will we be transporting half of them first?"
+
+"Yes. Ashridge would not be able to build enough homes for all of them. We will prioritize the able-bodied men first, along with women who have children."
+
+Dorian's eyes narrowed slightly in thought. "To speed construction and reduce the risk of illness."
+
+Lucien rested a hand against his chin. "The longer they remain crowded together, the greater the chance of problems. Lord Vaelric will likely begin taking his people to resettle Cragwatch soon as well."
+
+Tomas's hands slowly raised even as he avoided the disapproving look from Henric. "My Lord. We will need to secure supplies for the caravan. There might not be enough if Lord Vaelric..."
+
+"Hmph. You have no need to worry about that. I have already made arrangements with some of the merchants."
+
+Tomas jumped before turning toward the voice, only to still when he saw Lord Vaelric approaching across the courtyard.
+
+The younger man seemed to hesitate between bowing or saluting though when Henric gave a slight bow, he immediately followed suit.
+
+Examining Tomas closely, Lord Vaelric inclined his head. "A new guard, Lord Varentis?"
+
+Returning the greeting, Lucien gestured toward Tomas. "Yes. He recently joined Ashridge's guard this year."
+
+"A prospective household guard then. You would not bring a normal guard to a noble's meeting."Lord Vaelric's eyes narrowed slightly at Tomas for a brief moment before he gave a slow nod. "Train well. One who serves House Varentis must not be lacking in any way."
+
+Henric was already nodding before the noble finished his words. It seemed he would have to ensure these two didn't interact at all or who knows what sort of nonsense they might come up with.
+
+Lord Vaelric shifted his gaze to Lucien. "Regardless of the results of the meeting, I had always intended to resettle Cragwatch. Thus, I have already made prior arrangements."
+
+"Would you like me to introduce some of them to you?"
+
+Lucien regarded the man, brow raised. "They have enough for that many people?"
+
+The noble shook his head. "Likely not. But they will know those who do. Merchants always have connections of that sort."
+
+"And it would be better if we are seen together. It will remove any doubt about the rift between us so the last...incident wouldn't repeat itself."
+
+Lucien gave a nod. "That makes sense. Better to present a united front now while we are here."
+
+"Yes. There likely won't be many opportunities for us to meet in the coming months." Lord Vaelric looked away from him. "But once we have settled our affairs...I expect an invitation to Ashridge later in the summer, Lord Varentis. My own manor would not be suitable to receive guests."
+
+He let out a rough breath. "My mother has asked to come along as well. She will want to see...my brother and check that he is well."
+
+The way Lord Vaelric looked away reminded him faintly of Garrick.
+
+A corner of Lucien's mouth twitched. "I will look forward to your visit then, Lord Vaelric."
+
+The next few days flew by as Lucien found himself moving from one task to the next without a chance to rest.
+
+As a way to confirm his suspicions, and because he had found himself more tired than usual, he returned to the cathedral to undergo the ritual once more. The result was the same as before.
+
+He took Henric and Tomas with him partially to act as escorts but also to see if they would have a different effect.
+
+Both of them claimed to feel better afterward, which only strengthened his suspicion that transmigrators like Talia and himself were the exception.
+
+Lucien shook his head as he followed the servant leading him to Lord Rathenfell's study. It was important information but ultimately something he could not act upon yet.
+
+There was something else he could learn more about now.
+
+The servant knocked lightly. "My Lord, your guest, Lord Varentis is here to see you."
+
+A voice called from inside. "Come."
+
+Opening the door, the servant stepped aside and bowed.
+
+Lucien gave a nod in thanks before he entered.
+
+The study was much larger than his own though he noted that the decorations were even more sparse compared to the rest of the manor. The heraldry of House Rathenfell hung behind the desk, framed by a broad window overlooking Helvarn.
+
+Sitting behind it, Lord Rathenfell smiled faintly as he approached. The older noble gestured to the chair across from him.
+
+"Ah, Lord Varentis. Come, please sit and have a drink. It's good that we can talk for a little before you leave tomorrow."
+
+As Lucien sat, a soft breath left him, causing the man to chuckle.
+
+"It's been a busy few days for you both. I had seen off Lord Vaelric already when he left this morning with his people."
+
+Lucien leaned back in his seat. "I said my farewells last night as well. We decided to stagger our departures to avoid the confusion with so many people moving."
+
+Resting his arms on the chair, he let out a breath. "Logistics was one thing but filling out the details of the refugees was what took us so long."
+
+Some of the people from the heartlands attempted to sneak into the group of seven hundred he was bringing to Ashridge. It was only because other refugees had pointed them out quickly that they were stopped.
+
+Lord Rathenfell had expelled those responsible from Helvarn. It was a harsh punishment, but it quickly stopped any further attempts.
+
+The older man shook his head. "The skirmishes at our eastern borders have gotten worse as of late. I am afraid more from the inner regions might come soon if the fighting continues, Lord Varentis."
+
+Lucien kept his face carefully neutral as he spoke. "Would the current conflict affect us?"
+
+Lord Rathenfell's brow furrowed. "It's not uncommon for there to be small incursions by both elves and beastmen and with the eastern frontier facing its troubles..."
+
+He exhaled through his nose. "At least no mages were fielded yet."
+
+'...So fielding mages is considered a sign of escalation. They are that rare?'
+
+The older man clapped his hands lightly. "But enough of that! What brings you here today? I doubt you've come to listen to an old man's worries instead of spending your last day relaxing before the journey back."
+
+Lucien inclined his head. "I would like to visit your library, Lord Rathenfell. I've been meaning to do so for some time now."
+
+To his mild surprise, a loud bark of laughter escaped the older man at his words.
+
+Lord Rathenfell raised a hand at his questioning look. "Apologies. That brought back an old memory."
+
+The corner of his mouth lifted. "Your father spoke those very same words when he visited me years ago."
+
+At the unexpected mention of his "father", Lucien attempted to keep his expression unchanged. It seemed Lord Rathenfell had noticed regardless, judging by the sympathy in the older man's eyes.
+
+He was thankful for the misunderstanding but Lord Rathenfell's next words caused him to freeze.
+
+"It's a shame what happened to him...he must've touched something he shouldn't have."
+
+Lucien leaned forward in his chair. "...What do you mean by that?"
+
+The older noble gave him a strange look, and Lucien wondered if he had made a mistake.
+
+Finally, Lord Rathenfell gave a slow nod. "I don't know what game they were playing back in the capital, but...Lord Varentis, I only met your father once, and he did not strike me as a man who would throw away his house for coin."
+
+"Stealing from the Crown? Everyone who's ever met the man would know that's utter nonsense."
+
+Neither of them spoke for a moment.
+
+Lucien lowered his gaze briefly, then shook his head.
+
+"For now, I will focus on Ashridge, Lord Rathenfell. What happened to my father...it is not something that I can do much about yet."
+
+Lord Rathenfell nodded in response, but as Lucien made to rise from his seat, the older man spoke again, his tone slightly lower than before.
+
+"Be careful of your actions, Lord Varentis. The cloak you wear gives them far more weight than you realize."
+
+In the midst of standing up, Lucien glanced toward him, though the older man merely shook his head.
+
+"I believe you've seen that for yourself, these past few days."
+
+Lucien straightened, a hand coming up to adjust his cloak before he gave a faint nod.
+
+It was unfortunate that he didn't have as much time as he would've liked to spend here.
+
+House Rathenfell's collection of books was far more extensive than his own, and perhaps that was a problem in and of itself. At least there was a scribe assigned to it, which made things slightly more convenient.
+
+With only a day to spare, he decided to focus on matters pertinent to his current situation.
+
+His conversation with Lord Rathenfell lingered in his mind, particularly the mention of House Varentis and the skirmishes along the eastern borders.
+
+The books regarding the other races were something he was interested in, but when he looked through some of them, the same biased accounts he had seen in his own library ultimately made him decide to only skim through them.
+
+Elves and beastmen were often depicted as the aggressors in most conflicts. Considering what he had overheard during his stay in Helvarn there appeared to be some truth to at least part of those accounts.
+
+In more recent times, the elves were reportedly raiding Arcencia's eastern borders, a situation that had contributed directly to the current refugee crisis.
+
+Unfortunately, he couldn't find much about the significance of the cloak he wore. There were a few snippets of information, however, such as how a full red cloak was something only the king may don upon his shoulders.
+
+There were...harsh punishments for anyone caught doing otherwise, whether noble or commoner.
+
+Though he suspected that rule was only known and enforced when in front of nobility, considering he had been wearing his own half-cloak around Ashridge for so long without anyone batting an eye.
+
+The last few books concerned the more mystical side of the world.
+
+Mages...or the more official term, "Practitioners of the Higher Arts," were exceedingly rare and those who had the gift for magic were often sequestered away in the capital. How that was determined wasn't stated but there was likely a method to it that involved magic.
+
+As for the Goddess's blessing, that was where things began to drift into folklore and hearsay. It reminded him of ancient myths from his own world, where exceptional people became known for their strength and valor.
+
+But this world's version of it was more obscure, which in hindsight wasn't that surprising. While Sera's blessing seemed obvious at first glance, he had only found out about Alicia's due to Talia and his own modern perspective.
+
+The light beyond the library windows had already begun to dim by the time he finished. Realizing he would have to leave soon if he wished to make the final preparations for tomorrow's departure, Lucien returned the book to its shelf.
+
+His gaze drifted across the nearby volumes before settling on a thinner record chronicling past Tithes and frontier incidents. With little time remaining, he decided to skim through a few final entries.
+
+A handful of older records mentioned orc incursions during periods where a bad Tithe had passed. It was as though that particular species of beasts were scavengers that had smelled weakness from settlements and chose that moment to pounce.
+
+Lucien's fingers paused upon the page.
+
+The reports were brief. Most had been little more than notes attached to larger accounts concerning failed harvests, refugee movements, and border skirmishes. Yet the pattern appeared often enough that it was difficult to dismiss as coincidence.
+
+In one of the older records, an entry from someone named a Jasius Rathenfell caught his eye.
+
+I cannot understand why the Goddess would consign us to this fate. The elves and beastmen press upon our eastern and western borders without end, while each year the beasts come forth from the south. At times, it feels as though our existence is rejected by the world itself.
+
+Why is it that only a portion of the horde turns against our settlements? The greater the village or town, the greater the number drawn to its walls.
+
+The mages of the capital claim there is measure in this madness, that the beasts do not come blindly, but according to some reckoning hidden from us. If so, by what devilry do they reckon the souls that dwell within our walls?
+
+If we must pay a Tithe every winter, then I shall build a stone wall around Helvarn.
+
+It is all that I can leave behind.
+
+To my descendants, and to all who struggle against the fate of our kind.
+
+He closed the book after a moment.
+
+There would be much to discuss with Talia.
+
+Tomorrow, he would be returning to Ashridge with seven hundred refugees under his care. Whatever answers remained hidden within House Rathenfell's library would have to wait for another day.
+
+He adjusted his cloak before rising from his chair and sliding the book back onto the shelf.
+
+Lucien mounted on his horse before turning to glance at Dorian beside him.
+
+"Are we ready to set off, Dorian?"
+
+Dorian gave a firm nod. "The convoy is ready, My Lord. Henric is handling the other guard's rotation while Tomas is in charge of the group guarding the supplies."
+
+The mood among the refugees was noticeably different from when they had first gathered outside Helvarn's walls.
+
+Conversations carried more easily between the wagons, and more than a few people looked toward the road ahead instead of back toward the city behind them.
+
+Lucien's gaze shifted to the carts carrying both refugees and supplies.
+
+He spotted Tomas lifting a familiar girl onto one of the wagons, a faint smile on the young guard's face. Her mother was repeatedly bowing her head, though Tomas merely shook his head and gestured toward Lucien.
+
+The girl's eyes met his briefly before quickly turning away again.
+
+Shaking his head lightly, he turned his gaze forward in the direction of Ashridge.
+
+"Then let us return home, Dorian."

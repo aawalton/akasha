@@ -1,0 +1,163 @@
+---
+id: 0c65424d-a7a1-552e-ac35-1bd1216ac2c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 Survival"
+slug: 0008-chapter-7-survival
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 8
+ownLength: 2344
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3196989/chapter-7-survival"
+royalRoadId: "3196989"
+---
+
+The drilling ground just outside of Ashridge was not a very pleasant place. Lucien noted to himself. He stood just outside the edge of the grounds, where dozens of men were drilling while Dorian observed with his arms crossed, a stoic, calm look on his face.
+
+The scent of fear and sweat intermixed with the exhalations of the men’s drilling formations, was like a physical thing; it was not something he had any experience with.
+
+Despite the competent demeanor he tried to portray, he felt out of his depth in a scene like this.
+
+Lucien knew he would never be a military man. It was not a life he had lived in his former world, and he had no inclination toward being involved in the military either. But as a Lord who would be responsible for the lives of these men, he had the responsibility to at least have some level of knowledge of his men and what they had to go through.
+
+Even to his own inexperienced eyes, however, Lucien could still observe the differences between three distinct groups of men in the drilling ground.
+
+The smallest group, he assumed, were his own men, or rather, the men attached directly under his own household. These were undoubtedly the men commanded by Dorian. It showed by the way they conducted themselves.
+
+Professional and efficient in their motions, his household guards drilled in a disciplined manner that spoke of time spent constantly practicing the art of war. The men were uniform not only in their drills and bearing, but in their attire as well.
+
+They might not be as well armoured as Dorian’s plate armour, but considering how expensive such things were and how rare metalworking must be in this age, their equipment was actually quite decent. Equipped with similar reinforced brigandine and mail shirts along with steel helmets, they were an imposing sight, Lucien admitted to himself.
+
+The second largest group of men were the standing guards attached to Ashridge itself. These men were clearly not as well trained. Their gazes constantly shifted toward Dorian’s calm figure, as if checking to see whether they had made any mistakes.
+
+It was clear even to him that these men, while disciplined, were so not because of how they were trained, but because they were being watched instead. He had a feeling that if either Dorian or himself were not around, they would not be nearly as strict with their forms.
+
+It was a difference in mindset, he realized. These men were working as guards as a job rather than as a way of being, which his own household guards embodied naturally.
+
+Despite that difference between the two groups of guardsmen, Lucien was a little relieved to see that, at the very least, in terms of equipment, it was not as shoddy as he had feared, considering that these were guards from a frontier village.
+
+Of course, comparing his household guards to Ashridge’s, there were definitely differences in the equipment they were wearing and in its quality, but it was not as bad as he had first assumed.
+
+The group of twenty-five men were all at least equipped with padded gambesons and even some brigandine pieces fixed in vital areas of their bodies. The maintenance of said equipment was not pristine or anywhere near that level, but he could see that it was at least maintained properly.
+
+Perhaps Lucien had made a mistake in his own assumptions. It made sense that the guards here would be at a minimum professional level of training, considering that this place had to contend with yearly attacks during winter. To neglect their equipment and training spelled death, after all, and necessity was a powerful motivation.
+
+Despite that, Lucien could not help but wrongfully make comparisons between the soldiers of this world and those of his own. It was an irrational thing for him to do, but the differences between the two were a stark contrast that even someone like him could tell.
+
+Still, one could not expect the same level of uniform precision in maintenance compared to his former world, where factories and machines manufactured equipment for soldiers. Taking that into consideration, Ashridge’s guardsmen were not that bad.
+
+It was the largest group of men, however, that concerned him the most, and for good reason. If the professionally trained guards were the bones of the force, then the militia of Ashridge were undoubtedly the meat of it, responsible for the defense of this place.
+
+And for being the main body and meat, the militia were, quite frankly, rather lacking in everything.
+
+It was clear to see that the group was not well versed in combat at all. Their timing in drills was all over the place, and their composure spoke more of men playing at war rather than actually preparing for one.
+
+Perhaps he was being a little unfair in his criticism of them. These men were not soldiers; they were farmers, and tilling the land was their trade. The muscles and strength needed to swing a hoe to plough the land were not the same as a soldier’s swing of the blade, nor the endurance required to carry heavy equipment while performing exhausting drills to perfection.
+
+Ah, yes, their “equipment.” That was another problem Lucien could see, and quite clearly at that.
+
+Whatever constituted equipment for the militia seemed to be anything from padded vests or thick coats to specks of leather guards here and there. Not a trace of uniformity could be found in the entire group, and it was clear that this equipment had been salvaged and assembled in a hurry.
+
+‘Some of it might even have been older than the very men who bore it now,’ Lucien grimly noted to himself. Perhaps remnants from the many deaths over years of the Tithes.
+
+The less said about their weapons, the better, if one could even call what the militia wielded weapons at all. They were more akin to farming tools repurposed for desperate defense than anything else.
+
+Lucien had hoped they would at least have spears, but he realized there was no way a frontier farmer could afford such things when surviving daily life was already difficult. Iron could not have been cheap in these times, let alone in a village focused primarily on grain, without easy access to iron ore.
+
+He felt the back of his neck prickled as a gaze seemed to hone in on him. When he turned toward where he felt it from, he realized one of the militia men was watching him rather closely.
+
+It took a moment for him to place a name to the face, so focused had he been on observing the soldiers.
+
+It was Bran, the farmer who had stormed the manor and was slated to be executed when Lucien had “awakened” and found himself trapped in this world.
+
+Perhaps fate was teasing him, but Lucien found it rather ironic that it was the very farmer he had spared on his first day here who was slightly better equipped than the rest.
+
+The man at least wielded a spear and wore a leather jerkin with proper gloves of decent material. He also appeared to be drilling properly, despite the rather obvious glances he continued to steal toward Lucien.
+
+‘Not that I can blame him. I am practically holding his daughter and his life hostage, after all,’ Lucien noted sardonically to himself.
+
+His self-recrimination was interrupted when Dorian appeared to be calling one of his guardsmen over.
+
+Before coming to the drilling grounds, Lucien had decided that he would test the social rigidity of this world with another small act of his own. It was not anything dramatic, nor was it some grand statement. Rather, it was a quiet experiment, born from his growing discomfort with simply acting as the former Lucien might have.
+
+He did not want to merely imitate the man who had once occupied this body. He wanted to see, even in small ways, whether he could act as himself instead.
+
+So as Dorian was walking towards him after assigning one of his guardsmen to take over the overseeing of the drills. Lucien interrupted him when his guard captain had made the motion to kneel.
+
+"Enough, Dorian. There is no need to kneel all the time in less official settings." Lucien ordered waving his hand to stop the stoic man.
+
+Lucien immediately realized that the gesture was not meant solely for him. The nearby men, despite being in the midst of their drills, were watching. Their eyes wandered often, drawn by any interaction involving their lord and the man who commanded them.
+
+‘A practical man, this one,’ Lucien noted inwardly, a trace of wry amusement slipping through his thoughts.
+
+“How are the men, Dorian?” he asked instead, keeping his tone curious rather than demanding.
+
+“As well as could be expected, My Lord,” Dorian replied bluntly.
+
+“And are they up to it?” Lucien pressed, leaving the question deliberately vague. The implication was clear enough. ‘Are these men prepared for what is coming.’
+
+The silence was all he needed to know when Dorian didn't reply, his mouth tightened, and a faint frown creased his features as he watched the drilling continue.
+
+He resisted the urge to sigh, he had eyes watching him now and it wouldn't do for the lord to be seen doing that in front of his men. Instead, he went to stand beside his guard captain both to prevent anyone from eavesdropping and to watch the drills from a closer distance.
+
+"How long do they drill like this?" Lucien asked as he watched one of the militia stumble slightly after a particularly poorly executed stab with his pitchfork.
+
+"Not long enough but we still have some time to get their stamina up to an acceptable standard." Dorian replied flatly, as he noted the poor militia who made the mistake. He had a feeling that one would be facing additional scrutiny in the future.
+
+Lucien noted that Dorian did not say they would reach his standards. Only that they might reach something acceptable.
+
+"The guards are not as good as I had expected as well. Especially for ones that are supposed to be stationed here in the frontier." he continued then seemed to pause as if weighing how much to say.
+
+Lucien caught it immediately. It was the same guarded hesitation he had seen in the study before, the subtle restraint Dorian adopted whenever blunt truths were involved.
+
+“Speak plainly, Dorian,” Lucien ordered quietly. “I would rather know what my guard captain thinks when it comes to matters of war.”
+
+Dorian exhaled through his nose before answering. “Your predecessor took several of the more experienced guards with him when he left,” he said at last. “Including the man who was originally in charge here.”
+
+"...Again huh?" Lucien muttered, though he showed no outward reaction.
+
+It seemed like the former lord of Ashridge was quite the opportunist, first taking a certain amount of gold and now even taking the better trained guards. The man was rather cunning too, he took just enough gold and men that it wouldn't cause a scandal with the Crown if Lucien were to file a complaint after taking over.
+
+"How soon can we get the remaining guards trained, Dorian?" Lucien asked.
+
+“Not soon enough to prepare them for the coming Tithe,” Dorian replied without hesitation. “My greater concern is the militia.” His gaze shifted toward the largest group of men on the field.
+
+"They aren't ready, My Lord." He finished, voice sharpened slightly as he glared at one lagging behind. The man hastily corrected his pace.
+
+Lucien folded his hands behind his back, eyeing the group of men drilling. He slowly started to speak, carefully keeping his question low. "...How bad is it?" He asked, "In your honest opinion."
+
+Dorian did not answer immediately, trying to decide if what he had to say would cause his lord any offense.
+
+After a moment, he turned fully to him "If the Tithe comes earlier this year, we will lose some people." His gaze went back to the Militia, "If it comes hard, we will lose many." He finished stoically.
+
+Lucien swallowed, suppressing the instinctive sigh rising in his chest. “And if it comes later in the winter?”
+
+“We will have time to give them a chance,” Dorian replied immediately.
+
+‘A chance, just that. Not a confirmation but just a chance to survive.’ Lucien grimly noted to himself.
+
+"A chance..." He hummed, frowning. It didn't sit well with him that even in the best case scenario, there would be casualties, perhaps even failure. Lucien preferred to stack the deck high in his favour before engaging in any course of action but there wasn't an alternative he could choose here.
+
+Dorian met his gaze directly. “We don’t win the Beast Tithes, My Lord,” he said evenly. “We survive them.”
+
+He let out a breath he hadn’t realized he was holding. “What do you need, Dorian?”
+
+"Time," Dorian answered slowly. "And better equipment for the Militia. Spears instead of the tools they are wielding now. Proper shields, so they can form a uniformed shield wall. Those are the most immediate deficiencies."
+
+“I will see what can be done,” Lucien said. “I intend to speak with the blacksmith and the carpenter soon.”
+
+Dorian inclined his head once.
+
+For a time, they stood in silence, watching the drills continue. The militia struggled on, sweat-soaked and weary, while the guards stood straighter beneath Dorian’s watchful presence.
+
+“I know you will prepare them as best you can,” he said at last.
+
+Dorian studied him for a long moment, searching for something Lucien could not quite name.
+
+He gave a slow nod. "I will, My Lord."
+
+Taking that as his dismissal, his guard captain turned back toward the field, barking new orders as he resumed control of the drills.
+
+As Lucien remained behind, watching the men move under the afternoon light, one ironic thought settled in his mind.
+
+It seemed every meeting with his subordinates always ended with more work instead of less.

@@ -1,0 +1,261 @@
+---
+id: 26eaaba3-3f5a-5174-b7bf-4a4d25ea20dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91 - The Date"
+slug: 0075-chapter-91-the-date
+partOf: mythrans-master-of-all-continued-completed
+position: 75
+ownLength: 3305
+unit: words
+publishedAt: 2016-11-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104029/chapter-91-the-date"
+royalRoadId: "104029"
+---
+
+Ren and Nathalia went back to House Neram to get something to eat. Her mother was waiting for them with a large meal set out on the kitchen table. Nathalia was surprised by everything that her mother had prepared in the time they had been gone from the house. Teepo took this opportunity to go back down into the Keep. He would have plenty of time to explore everything during the night and wanted to get back to it.
+
+I'll be asleep soon, though... so I won't be able to summon you back until the morning. Be careful, buddy. Ren thought to his friend.
+
+“I will.” Teepo said.
+
+Have fun.
+
+The trio sat down to eat and enjoyed sharing stories of their adventures. Ren had been so busy learning dwarf culture, he never had a chance to actually talk with Nathalia about normal things. Her mother, Narhilda, also enjoyed the stories, as she hadn't seen her daughter in several weeks and was always up for some good gossip. They all laughed and talked, and just enjoyed each other's company. The time came, however, when Ren had to log out. He hoped that since he was now an employee of House Neram, that it would be a safe zone. It was his biggest worry at the moment. The last thing he needed was to log out and leave his body unguarded, especially in a land far and away from his spawn point.
+
+“Thank you for the fantastic meal, My Lady.” Ren said and stood. “I better get downstairs.”
+
+“Oh, nonsense!” Narhilda said. “You said it yourself. You don't want to touch anything down there without talking to a stonemason first.”
+
+“Then I'll be outside in the stable.” Ren said.
+
+“Nathalia, is he always this stubborn?” She asked her daughter.
+
+“Well, rather than stay in his cabin, he slept in the hold of the ship for the whole trip.” Nathalia said. “So, yes... he's that stubborn.”
+
+“What?” Her mother said and looked at Ren. “You slept in the hold?”
+
+Ren nodded. “When I boarded the ship, I was told if I was worried about my mount, I could just stay in the hold with her.”
+
+Narhilda looked at him like he was crazy, and Ren laughed. “I just got her, so I didn't want to leave her alone for too long.”
+
+She shook her head. “I won't have it. We have 3 bedrooms. Nathalia has hers, and I've been staying in the spare room. You are more than welcome to stay in my old bedroom.”
+
+Ren was about to protest, but Narhilda held up a hand. “I will not have a retainer of mine stay in the stable with an animal, no matter how much they may care about it.” She said. “You will stay in the house. For tonight, at least.”
+
+Ren closed his mouth and nodded.
+
+“Excellent! I've also thought of a stonemason that you can consult with. I'll write up a proper letter of introduction for you in the morning.” Narhilda said and stood. “Please, make yourself at home. You know where the bedroom is.” She waved down the hallway. “I'm going to bed myself.” She smiled. “Goodnight.”
+
+Ren gave a slight bow. “Goodnight, My Lady.”
+
+Narhilda's face flushed slightly red at Ren's use of her title, and at the thought of having a man under her roof after so long. She walked down the hall towards the last door and closed it behind her. Ren turned to Nathalia to see her slightly blushing as well.
+
+“Nathalia, what...”
+
+“I'd better get to bed, too.” She said and abrupty stood. “Goodnight.”
+
+“Goodnight.” Ren said and watched as Nathalia walked quickly past where he stood and then down the hall to the door opposite where he would be sleeping. Ren waited until she entered her room and then activated Sneak to go outside to the stable. He took out the food he had easily stored during the meal and served it to Princess. Ren cleaned up the stable as best as he could to make room for Princess' crate. He put the crate in the back corner, so she could see out if she wanted, but would also have privacy from prying eyes.
+
+“Ruck, do you want to come in the house, or do you want a cabinet put up out here?”
+
+Ruck pointed to the wall next to Princess' crate and Ren smiled. He made another nice sized cabinet, rather than sticking Ruck back into the little one Ren had made for use on the ship. Once it was done and nailed into place, Ruck hopped off of Princess' saddle and came over. He opened the door, gave Ren a 'thumbs up' gesture and closed the door.
+
+“I'm glad you like it.” Ren said and smiled. He fluffed up the mattress in Princess' crate and went over to untie her reins. Ren made a dramatic wave to the crate. “Princess, your abode is ready.”
+
+She took 2 steps and then stopped.
+
+“Oh right! Sorry.” Ren took off her saddle and the rein harness from her face, and stored them. She walked past him and into the stable, turned around inside her crate, and plunked down. “Goodnight.” Ren said and closed the stable door.
+
+Now that the essentials were done, he went back inside the house. Ren crept as quietly as he could down the hallway and into the old bedroom. He shut the door and went over to the bed. Everything inside the house was well maintained, unlike the outside. Even in this old bedroom that wasn't being used anymore, things seemed to be in good condition. Unable to restrain his curiosity, Ren looked around the room to see what he could find. He didn't rummage or search it; that would have been bad behavior for a guest. He did look at things on the surface, however. Nothing of note could be found, until his gaze found the large workbench. The top was still cleared of everything except for the Sending Stone; but the shelf underneath could clearly be seen. It was full of parchment papers, stacked haphazardly. Some of them were folded, and some of them were rolled. Most were just laid out flat and had slid and mixed together.
+
+It irked Ren that someone could do all that work and then not put them away properly. He sighed and pulled out everything from the shelf. The least he could do was organize the thing. Ren assumed that they were all documents used for the filing and billing of contracts, since he knew that Nathalia's father had worked for years making clothes for everyone that could pay the fees. Once he started sorting, though... he found out what the papers actually were.
+
+Patterns! Ren thought in astonishment. Hundreds of patterns! Ren went through them, drinking them all in. Dresses! Pants! Shirts! Outfits of every kind!
+
+There were commoner's clothes, priest and monk robes, barmaid outfits, maid outfits, Royal Court clothing, durable miner's clothes... the list went on and on. They were all styled for dwarves, but that didn't really matter. Only a slight alteration would make them adaptable for anyone to wear. Ren organized them as he went along, absorbing and copying the patterns. When he was nearly done, he started in on the rolled up ones. Carefully opening them, he copied their patterns as well and stored them back in the workbench properly. When he got to the last one, he opened it and gasped. It just happened to be the last thing Nathalia's father had made for her. The fancy party dress that she never took off.
+
+Ren studied it carefully and took his time, admiring the detail and finesse needed to craft such a fantastic piece of clothing. Her father wasn't just a great tailor. He was a Master Tailor! Ren thought. If I'm reading these right... everyone from a King to a Commoner has worn his clothes. Ren rolled the last pattern back up gently and placed it on the shelf, seperate from the other patterns. It was too special to just mix it with the others.
+
+Notice!
+
+You have observed the complete works of a Master Tailor. Despite the fact that you didn't learn them under his tutelage, his talent to convey his teachings through his work will last throughout the ages. Your understanding of the importance of his impact on society has accelerated your Tailoring Skill well beyond your physical works up to this point.
+
+Tailoring Level 1 (Advanced 0%)
+
+Ren sat on the floor and stared at the popup. Holy crap!
+
+“What is it?” Teepo asked, concerned.
+
+Oh, sorry Teepo. I just... I found all of Nathalia's father's tailoring patterns.
+
+“I guess there must have been a lot.” Teepo said.
+
+Ren chuckled. Only a few hundred.
+
+“No wonder you're so shocked.” Teepo chittered in laughter. “You love patterns!”
+
+Ren smiled and stepped away from the work bench. It definitely looked well organized now. I'm heading to bed now, Teepo. Goodnight.
+
+“Goodnight, Ren.”
+
+Ren went to the bed and sat down on it. It felt kind of odd that he hadn't had to climb up onto a bed since he boarded the dwarf ship back in Aurora. Ren laid back on the bed and got comfortable. “I'm actually normal-sized here.” He said and smiled.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and set it aside, then couldn't believe his eyes. He blinked a few times and rubbed his eyes. “I died and went to heaven, didn't I?” Ren said and smiled. “I can see an angel!”
+
+Lucy laughed. “You sure have! Look at my wings.” She said and turned around.
+
+Ren saw that she was wearing his favorite pair of jeans and grinned. “They're beautiful.”
+
+Lucy turned back around and saw his grin, and grinned herself. “Hurry up, lazy butt! Get your ass out of bed.”
+
+Ren laughed and did as she said. He got a quick shower, then dressed in the best clothing for an outing to the mall. Loose pants and a nice shirt that Lucy liked. When Lucy left to get the wheelchair, Ren grabbed a small box from his cubbyhole in the rollaway table and stashed it in his coat pocket. Lucy came into the room and Ren sat in the wheelchair.
+
+“I can't believe it's our monthly date again.” Ren said and smiled.
+
+Lucy pushed the chair down the hall and into the elevator. “That's because when I picked you up for your birthday, it was a special occasion. It didn't count as our real outing.”
+
+“Lucky me!” Ren said as the elevator stopped at the bottom floor. They went over to the main desk and Ren signed out. They left the hospital and waited for a taxi.
+
+“That note you left for me in the game was a long one.” Lucy said.
+
+“I had a lot to explain.” Ren said and smiled. “I'm just sorry you didn't get to come with me.”
+
+“Me, too.” Lucy nodded. “Stella has been keeping me 'updated'.” She said and laughed. “That's the polite version, by the way.”
+
+Ren laughed. “Oh, I know. You should have seen her while it was happening.” Ren shook his head. “I swear, she feeds on our embarrassment or something!”
+
+Lucy laughed, too. “She's terrible.”
+
+“Are my ears burning?” Stella said as she stepped up beside them.
+
+“We were just discussing your incredible tact and discretion.” Lucy said and Ren snorted a laugh.
+
+“Ha. Ha.” Stella said and smiled. “I'm glad you two are still getting along.”
+
+“It's all thanks to your constant pestering, Stella.” Lucy said and smiled. “We might have drifted apart if you hadn't been keeping us constantly thinking of each other.”
+
+Stella laughed. “I'm glad I could help.”
+
+A taxi pulled up to the curb in front of where they stood.
+
+“I'd offer to let you take this one, but it has room for the wheelchair.” Ren said.
+
+“That's alright. I don't want you waiting outside for any longer than you have to be.”
+
+Ren stood so Lucy could fold the chair up to put it in the trunk. Stella held onto him while he waited.
+
+“Thanks.” Ren said, and Stella bent down and gave him a quick kiss on the cheek. “What was that for?” Ren asked and put a hand over the spot.
+
+“Just because.” Stella said and winked. “You lucky dog.”
+
+Ren smiled. “I know! It's my second time seeing Lucy this month.”
+
+Stella laughed and shook her head a little. “Sweetie, you're going to have fun today.”
+
+Ren nodded. “I always enjoy spending time with her.”
+
+Lucy came over and took Ren's arm. “We're ready.”
+
+“Bye, Stella.” Ren and Lucy said.
+
+Stella waved to them as the taxi pulled away from the curb. They passed another taxi as they left the hospital's driveway, and Ren was glad that Stella didn't have to wait any longer for her taxi. Lucy took Ren's hand and he smiled. He didn't have long to enjoy the feeling however; barely 10 minutes later, the taxi stopped at the curb in front of a nice little one storey house. It was white and had yellow trim and shutters, a small white picket fence, and a small yard. It was in a nice neighborhood, too. Ren looked around, but he didn't recognize anything. They'd driven to the mall so many times in a taxi, that Ren hadn't been paying attention to where they were actually going.
+
+“Lucy?” Ren asked.
+
+“Shh.” She said and got out. Lucy had the wheelchair ready a minute later, and Ren climbed out of the taxi and sat in the chair. She paid the driver and the taxi pulled away. Lucy pushed the chair up to the small front step and then unlocked the door.
+
+“Welcome to my home, Ren.”
+
+Ren had a shocked look on his face. “Lucy, you... you brought me to your home?”
+
+Lucy nodded.
+
+“But... but...” Ren stammered and then shook his head. “I don't know what to say.”
+
+Lucy smiled. “You don't have to say anything. Just come in.”
+
+Ren smiled and stood up. He walked inside and Lucy pulled in the empty chair. She motioned for him to sit again and he shook his head. “I'd rather see this on my feet, if that's okay.”
+
+Lucy put the chair in the living room and Ren slowly walked around the house. 2 bedrooms, a small kitchen, living room and one bathroom for the whole house. It was decorated well, at least in Ren's opinion anyways. Once he saw how everything was set up, he started to laugh.
+
+“What is it?” Lucy asked.
+
+“This looks like my apartment in the game.” Ren said.
+
+“What?”
+
+“Look, the couch and 2 chairs. The table in the kitchen, the bedroom with end tables and dresser. I have a cabinet instead of a closet, though... and your second bedroom is my bathroom; but other than that, it's pretty damn close.” Ren said and sat on the couch.
+
+Lucy looked around and then sat down next to him. “You know what? You're right.” She said and laughed.
+
+Ren smiled and took her hand. “Thank you for bringing me here.”
+
+Lucy squeezed his hand. “This isn't all. I've got dinner ready.”
+
+Ren widened his eyes. “You cooked me dinner?”
+
+Lucy nodded. “It's nothing fancy...”
+
+“Like that would matter!” Ren said and grinned. “Fancy shmancy! Bring on the food!”
+
+“Come into the kitchen.”
+
+Ren went into the kitchen and sat where Lucy told him to. She served a delicious meal of baked chicken legs, and potatoes made just as Ren liked them. Nice and fluffy with milk and butter whipped in. They ate and talked about how things have been going for both of them. Lucy learned to not overdo her lab work, and slowed her pace. Ren had learned that being himself in a different culture could have long lasting consequences, almost far beyond his control.
+
+“You really are too good, you know!” Lucy said and laughed. “Imagine... enchanting a stove got you engaged!”
+
+Ren laughed, too. “I know, right? Who would have thought that just being nice would cause so much trouble.”
+
+Lucy nodded. “I can only imagine what would have happened if I'd been able to come along.”
+
+Ren smiled. “I'm sure some of it might have been different; but based on how they treat women, they might have just ignored everything you would have done.”
+
+Lucy smiled. “That would have been nice. I could lay one on that little hussy, trying to muscle in on my man!” She said and shook her fist.
+
+Ren snorted a laugh. “I don't know. She might be small, but she could have given you a good fight.”
+
+“Ren Haddon! Are you doubting my protection skills?” Lucy said in mock anger.
+
+“Of course not! I'm just doubting you can swing that low. She's almost 2 feet shorter than you!” Ren said and laughed. Lucy laughed, too.
+
+Ren ate a lot during the meal, but he didn't fill himself up. He was a little worried that he'd get too tired to spend time with Lucy, if his stomach was full. Lucy started to clean up the dishes and wrapped up the leftovers. When she was done, they went into the living room and sat on the couch. Ren sat back and rubbed his belly.
+
+“That was great, Lucy.” Ren said. “I really miss your meals at the hospital.”
+
+“I miss getting to cook for you, too.” Lucy said. “When it's just me, it doesn't feel right, you know?”
+
+Ren nodded.
+
+“But... is that all you miss?” Lucy asked, with a bit of pleading in her eyes.
+
+Ren shook his head. “You know I miss seeing your smile every day.” Ren said. “I tell you that every time I see you.” He said and smiled. “I... I miss hearing you laugh.” Ren reached up and undid the bow in her ponytail, then ran his hand through her hair. “I miss the color of your hair when the sunlight hits it at just the right angle... and it makes you look like you have a halo.”
+
+Lucy closed her eyes and leaned into his hand.
+
+“I miss having your beautiful face be the first thing that I see in the morning, when I wake up.” Ren said and kissed her cheek. He tasted a bit of salt, as he'd caught a tear as it escaped the corner of Lucy's eye.
+
+“Honestly, it's all the little things that I miss the most.” Ren said and leaned his head against Lucy's. “I miss you.”
+
+Lucy turned her head and gave Ren a kiss on the lips. “I miss being the one you see first thing every morning when you wake up.” She said. “I miss how you can make me smile. I miss how you can make me laugh. I miss making meals for you.” She said and sighed. “You were so much of my life, Ren... and now... now it just seems so... empty.” She smiled. “I miss you.”
+
+Ren put his arms around her and Lucy snuggled into him.
+
+“I work and come home. I eat. I sleep. I go back to work.” Lucy said. “Rinse, and repeat.”
+
+Ren chuckled and Lucy felt his amusement and pulled away to look him in the eyes.
+
+“That sounds exactly like me.” Ren said to her surprised expression. “I play the game. I eat. I sleep. I log back in.” He said. “Rinse, and repeat.”
+
+“You enjoy playing that game.” Lucy said.
+
+“I've only been logging out to eat and do therapy.” Ren said. “I... I don't have any other reasons to log out.”
+
+“What are you saying?”
+
+Ren smiled and stroked her hair again. “What I'm saying is... I'm using the game to distract myself... from you.”
+
+“Oh, Ren!” Lucy said and kissed him passionately.

@@ -1,0 +1,317 @@
+---
+id: 71ebea05-578e-5a6d-aaad-728f8c8241c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 330 - Take Me Home"
+slug: 0322-chapter-330-take-me-home
+partOf: mythrans-master-of-all-continued-completed
+position: 322
+ownLength: 3285
+unit: words
+publishedAt: 2017-08-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155136/chapter-330-take-me-home"
+royalRoadId: "155136"
+---
+
+“Ren.” Janice said after a few minutes of walking in silence.
+
+“Yeah?”
+
+“Why are you still holding my hand?” Janice asked, and he chuckled.
+
+“It started out when you grabbed it to take me to the private area, and then into the manager's office.” Ren said. “At that point it changed from me needing you to guide me, to you needing me to reassure you.” He smiled. “When we left the change room after you packed your things, I had a feeling that if I let go, you'd run away and I'd never see you again.”
+
+Janice's face flushed red at the last comment, because that was exactly what she had been thinking about doing.
+
+“And... and now?” She asked.
+
+“This is only the second time I've gone for a walk and held someone's hand.” Ren said. “I liked it the first time it happened, so I thought I'd try it again.”
+
+Janice looked at him a little strangely, and he chuckled.
+
+“I don't get out a lot in the real world.” Ren said. “This place is like a dream come true.”
+
+Janice nodded. “Same here.” She said. “Every night I come in for two straight days to earn enough coins to exchange for currency in the real world.” She explained. “That job at the Pink Pearl was the easiest one I could find. I didn't have to risk my life fighting monsters, or have to do all the things that's needed to complete all those blasted quests.”
+
+Ren chuckled. “What class did you take when you signed in?”
+
+“A crafting class called Glassworker.” Janice said. “I read up on what to do before taking it, and I thought it was the most fantastic thing to do.” She said. “I've always been interested in it, and I have some artistic talent. When I started playing the game, it was great at first. I made a deal with a local blacksmith to let me use his forge once a week, and then I found out you needed to meet certain requirements before you were allowed to even enter a blacksmith's shop.”
+
+“I've been there.” Ren said and smiled as he remembered the first time he tried to talk to a blacksmith in his own starter town.
+
+“Good god, it was torture.” Janice said. “The things he had me try to do, just so my reputation would be high enough to use his forge.” She shook her head. “I finally passed his trials, and got access to what I needed.” She sighed. “I did pretty well at first; but, then I needed more wood for the forge, more sand for smelting, and more money to pay for renting the forge.”
+
+“Oh, no.” Ren said, and squeezed her hand slightly.
+
+Janice chuckled. “It's all right.” She said and squeezed his hand back. “I went broke after about two months, then looked for another job to try and save up to keep working.”
+
+“You couldn't get a job at a glassworks or something?” Ren asked.
+
+“Not for a low level like me.” Janice said. “I can't remember the requirement needed to be hired as an official glassworker, but I'm pretty sure I need at least Advanced in the skills.”
+
+“That was when you started working in the Pink Pearl.” Ren said, and she nodded.
+
+“It was great!” Janice said. “It was just getting established, so everyone that heard about it came in and squandered their money like pouring water down the drain.” She said and smiled. “I saved up so much that first month that I almost quit and went back to glassworking.”
+
+“But...”
+
+“A customer came in one day and saw the amount of tips I picked up.” Janice said. “He said he knew a way to change it into real money.”
+
+“Oh, Janice.” Ren said, and knew she was going to tell him about getting scammed somehow.
+
+“Hey, it worked.” Janice said. “A penny in real life for a silver coin in the game.” She said. “I made enough to pay my rent that month.”
+
+“So every gold coin gets you a dollar in real life.” Ren said, and she nodded.
+
+“I had fun for a while. I was making real money by playing a virtual game.” Janice said. “You wouldn't believe the people that will pay real money for game currency.”
+
+“You went and cut out the middle-man.” Ren said, and Janice looked at him with wide eyes.
+
+“How did you know that?”
+
+Ren chuckled. “Because that's usually how things work.” He said. “Once someone gets an idea and shares it, someone else thinks about it and improves it.”
+
+Janice nodded. “When I went solo, I found out how much people really paid for it.”
+
+“How much?”
+
+“Five dollars a gold coin.” Janice said and her hand squeezed his as hard as it could. “I was so mad that he had milked me for so much money!”
+
+Ren didn't say anything about what she had to do to get that gold in the first place; but, he figured that was why she was so angry about it.
+
+“Oh! I'm sorry!” Janice said when she noticed her hand and eased up on the pressure. “I didn't mean to-”
+
+“It's fine.” Ren said. “I'm not hurt.”
+
+“Really?” Janice looked at the hand, and didn't see any damage. “You must be tough.”
+
+“I am.” Ren said and smiled. “It's also one of the skills I can't level.”
+
+“I don't know if everyone gets them, but I've got a couple myself.” Janice said, but didn't elaborate. They kept walking along the road and Janice would occasionally laugh when Princess whipped by them almost faster than she could see.
+
+“If she can run so fast, why does it take her so long to come back?” Janice asked.
+
+“It's probably because she has to slow down and turn around.” Ren said. “Or there's a lot of traffic along the way.” He said. “Or both.”
+
+Janice nodded and they kept walking. They didn't say much more than small talk, until they came across a small settlement. It was in a large clearing, and the tiny houses were arranged in circles around a large fire pit. There were 8 houses in each circle, and 8 circles around the fire pit.
+
+“My place is over on the other side of the crater.” Janice said.
+
+“Did you say a crater?” Ren asked, surprised. “I thought it was a giant fire pit.”
+
+“That's what they use it for.” Janice said and led him into the middle of the circles of houses to the edge of the crater. “It was like this when the first squatters moved in.” She said. “Or so they tell me.”
+
+“Squatters?” Ren asked as he looked into the crater. He activated Enchanted Eyes and Metal Detection, and concentrated on the center of the crater. The bottom was only about 10 feet down, and the crater was about a hundred feet across. He could see that several large bonfires had been made inside, and the remains of those fires were scattered over the bottom.
+
+“Yeah.” Janice said. “I don't think anyone actually owns the land; but, none of us do, either.”
+
+Ren nodded his understanding, and then he felt a pulse. It was weak, probably because he was so far away; but the pulse did come from the very center of the crater. It was about 40 feet down, and Ren wondered what it was.
+
+“We should walk around.” Janice said and started to walk along the small road around the crater to go to her place.
+
+Ren went with her because they still held hands; and he couldn't very well start to dig with one hand occupied. He smiled because he actually could dig with only one hand, but Janice would get covered in dirt if he did.
+
+“It's a little dangerous to climb down without using the stairs.” Janice said and pointed with her free hand. Four sets of stairs had been built to go down into the crater. They were positioned opposite of each other and spaced an equal distance apart.
+
+“How long have you lived here?” Ren asked.
+
+“Almost the whole time I've been playing.” Janice said. “I'd never be able to afford a house in the city, and was pretty fortunate to find a safe place to log out at night.”
+
+Ren looked at the houses as they walked past and examined them. He shook his head when several of the plans he acquired were incomplete. It wasn't his ability that was lacking; it was because the houses themselves were missing pieces. He nearly gasped when they arrived at the circle with Janice's place in it. They were the most run-down, dilapidated, and pieced-together bunches of junk he'd ever seen.
+
+“You live here?” Ren asked Janice as she brought him to her front door.
+
+Janice laughed. “I told you it wasn't much.” She let his hand go and unlocked the door. “Come on in.”
+
+Ren went inside behind her, and then he did gasp at the sight. “Wow!”
+
+The room they stood in was covered in shelves from floor to ceiling, and those shelves were filled with glasswork. There were bottles of all shapes and sizes, vases of different heights and widths, countless bowls and glasses, and a bunch of other things made out of glass.
+
+Janice chuckled. “This is what I had left in my inventory when I had to close my market stall.”
+
+“What you had left!?!” Ren said, and looked around. He used Identify on everything he could see, and dismissed the popups without reading them. Since he had mastered it, it required almost no time to use, and he realized that there were still lots of things that he didn't know how to do, and he desperately wanted to know how to do them.
+
+“You really like them that much?” Janice asked, and Ren nodded. “Then... you can have this one.” She said, and picked up a small and slightly mangled potion bottle and handed it to him. The cork didn't quite fit and the glass was a little murky; but, it had a good weight and seemed sturdy. When Ren identified it, he blinked several times at the popup.
+
+Distorted Potion Bottle (Unique)
+
+A Beginner level Glassworker with no experience or practice, attempted this difficult piece for the first attempt at their craft. The attempt was almost completely successful. Because of the care and time spent making it, any potion drunk from this bottle is 50% more effective.
+
+Caution: Due to the distorted nature of the container, potions stored inside have a strong tendency to leak.
+
+“Janice... you...” Ren looked at her. “Why?”
+
+“Because of the way you looked at my work.” Janice said. “Even that crooked thing.” She motioned to the mangled bottle and chuckled.
+
+“I... I can't accept this.” Ren said.
+
+“I have lots more.” Janice said.
+
+“It's your first work!” Ren exclaimed.
+
+“Ren, I want you to have it.” Jen said. “I know you'll give it a good home.” She took the large sack she'd packed out of inventory. “I don't know where I'm going to put all this stuff.” She said. “I was kind of storing it at the Pink Pearl.”
+
+“I'm sorry I got you fired.” Ren said and stored the invaluable potion bottle.
+
+“You didn't get me fired.” Janice said. “I got me fired. What I should have done was tell the other girls everything before I ever went to the manager about it.”
+
+“Oh, you don't have to worry about that.” Ren said and smiled evilly. “I sent a message to the other guys about the private rooms and what to do about them.”
+
+Janice looked at him with wide eyes, and then she started to laugh.
+
+*
+
+“Woodja lookit tha'!” Clint said, after pretending to fall into the mirror and breaking it. “It's ah whole nothar room!” He said and then scowled at the man who sat in the chair, and he equipped his bow bracers. “Ah don' take kindly ta people tryin' ta watch me lovin' tha ladies.”
+
+The man screamed and ran away down the hallway behind the walls.
+
+“Oh, my god!” The girl with Clint said. “They... they've been watching us this whole time?”
+
+“It shore looks like it, Ma'am.” Clint said. “Ah'm rightly sorry abou' this.”
+
+She walked over to him and wrapped her arms around his neck. “You don't have to be sorry.” She said. “Connor is the one that's going to be sorry.”
+
+“Ah'm glad.” Clint said, then heard breaking glass from 4 of the other rooms. “Shall we join tha others? It sounds like they're gonna cause ah commoshun.”
+
+“Can we still do it later?” She purred and rubbed herself up against him.
+
+“As many times as ya want, darlin'.” Clint said. She gave him a kiss and stepped back to look down. She could see a clear and decisive reaction from him, and she grinned as she took his hand and led him out into the hallway to the sound of various men as they yelled, and women as they screamed accusations.
+
+“Jus' anothar day in tha game.” Clint said when he saw the pandemonium Ren's revelation had caused, and the girl he was with laughed.
+
+*
+
+Janice's house was only two rooms; a bedroom and a living room that was currently filled with hundreds of glassware items. She sat down on her bed, because there wasn't anywhere else to sit.
+
+“May I?” Ren asked and motioned to the bed, and Janice shrugged. He sat down next to her, and heard her sigh.
+
+“So, do you want to do it?” Janice asked, and Ren looked at her.
+
+“Janice...”
+
+“You gave me a gold coin. I might as well have one last hurrah before I log off for good.”
+
+“Wait, what?” Ren said, surprised.
+
+“This is... was... my primary source of income.” Janice said.
+
+“That doesn't mean you should stop...”
+
+“It's going to take time to find another job.” Janice said. “The real life night is almost over, and if I can't work at night tomorrow, then... then I...” She sighed. “I'm barely staying afloat as it is.”
+
+“I told you that I'd take responsibility for costing you your job.”
+
+Janice shook her head. “It wasn't your fault.”
+
+“Yes, it was.” Ren said. “So, I have a proposition for you.”
+
+Janice snorted a laugh. “So, you do want some of this out-of-practice hotness.”
+
+Ren smiled at her, then took her hand. “Is it okay if I just want to be friends?”
+
+“Oh, god!” Janice said and laughed. “The reversed friend speech!”
+
+Ren laughed, too. “Yeah, I know it's usually the girl that says it.” He said. “In fact, I've heard it from a couple of girls myself.”
+
+Janice looked down at their clasped hands. “So, you really don't want to have sex with me.” She said. “Was all that back in the party booth just an act?”
+
+Ren squeezed her hand a little. “I really do think you're pretty, and I do like to cuddle.”
+
+“Nothing more than that?” Jen asked, and Ren shook his head.
+
+“I'm no saint.” Ren said. “But, I also won't sleep around on the women I'm with.”
+
+Janice laughed. “That sounds so hypocritical.”
+
+Ren nodded. “I'm not really sure how I've gotten to this point, where several women don't seem to mind sharing me with the others.” He said. “But I am at that point now, and I won't mess it up by adding someone new.”
+
+Janice nodded. “I understand... I think.” she said. “So, what do I do now?”
+
+“Do you have anything that's tying you to this place?” Ren asked her, and motioned towards the walls.
+
+“Not really.” Janice said. “Maybe some friends and a few acquaintances.”
+
+“Good.” Ren said and stood up. “I'll offer you a temporary job until you can find one on your own.” He said and pulled on her hand to get her to stand up, too.
+
+“How much did you make in tips a night?”
+
+“Anywhere from 5 to 10 gold coins.” Janice said. “Depending on the day. Weekends are the best. I had almost 25 gold in tips last Saturday.”
+
+“Okay, then.” Ren said. “Thank you.”
+
+“For what?” Janice asked.
+
+“For not lying.” Ren said. “You could have padded that total up a lot, and I wouldn't have had a clue that you did.”
+
+Janice looked at him with her mouth open and shock on her face. Ren laughed and let her hand go.
+
+“I'm also glad the thought never crossed your mind.” Ren said. “Now grab your stuff and lets go.”
+
+“Go where?” Janice asked and picked up her large sack and stored it.
+
+“Aurora first, then to Walin County a few hours away from there to the west.” Ren said.
+
+“Why do we have to go so far?” Janice asked, and stored her bed and the nightstand.
+
+“I own it.” Ren said, and Janice dropped the box she had kept under the bed.
+
+“You... you own a whole county?!?” Janice asked, shocked.
+
+“It's only 50 square miles, though.” Ren said, and her mouth dropped open.
+
+“Fifty... fifty square miles!” Janice exclaimed. “That's 2500 miles in area!”
+
+“Hey, you're right.” Ren said. “I never thought about it like that.” He smiled. “I guess it's a big place after all.”
+
+Janice shook her head and stored the box she'd dropped, then went out to the living room and it's multitude of shelves filled with glassware.
+
+“I wish they had a bulk pick-up option.” Janice commented as she started to store the items on the closest shelf.
+
+“Wait.” Ren said.
+
+“What?” Janice asked.
+
+“Is the house attached to the ground?”
+
+“How would you do that?” Janice asked.
+
+“That's a no then.” Ren said and took her hand to lead her out of the house.
+
+“Hey! How can I pack if you drag me away?” Janice asked.
+
+“You don't have to pack.” Ren said, shut her front door, then selected the house and stored it.
+
+“AhhHH!” Janice yelled. “My house!”
+
+“It's fine.” Ren said and took it out of inventory and put it back where it came from.
+
+“But... how can you... how is this possible?” Janice asked, surprised beyond belief.
+
+“I have the Atlas title, and your house isn't that big.” Ren said and stored the small house again. When he looked at her, Janice had the help screen open, and typed several things on an invisible keyboard. Rather than tell her what it did, he let her try and find the info for herself since she was already looking for it.
+
+“Atlas... Atlas... there it is.” Janice said, then frowned. “It only gives you +20 Strength and +20 Vitality?”
+
+“I was much, much weaker back then.” Ren said. “The best part is the modified inventory.”
+
+“I saw that.” Janice said and closed the help screen. “What did it do?”
+
+“It gave me an extra 100 capacity per storage slot.” Ren said.
+
+“No way!” Janice said, and thought about her glassware. “Yeah, that would definitely come in handy.”
+
+“Not as handy as having large items only take up a single slot.”
+
+“WHAT?!?” Janice yelled, and several people looked out of their houses that were next to Janice's empty lot.
+
+“Janice? Are you all right?” One woman asked.
+
+“I'm fine!” Janice said.
+
+“You seem to be yelling a lot for someone who's fine.” The woman said.
+
+“They're yells of shock over things that I didn't think were possible.”
+
+The woman nodded and went to go back into her house, then she noticed the empty lot Janice and Ren stood in front of. “Janice, where's your house?”
+
+Janice pointed to Ren, the elfling beside her. “He stored it into inventory.”
+
+“WHAT?!?” The woman exclaimed, and Janice and Ren laughed.

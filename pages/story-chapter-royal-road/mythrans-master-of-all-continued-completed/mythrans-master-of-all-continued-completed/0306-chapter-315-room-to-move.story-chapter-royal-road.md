@@ -1,0 +1,343 @@
+---
+id: 7e060bc5-53ec-5346-aa6a-16e65afe1ce1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 315 - Room To Move"
+slug: 0306-chapter-315-room-to-move
+partOf: mythrans-master-of-all-continued-completed
+position: 306
+ownLength: 3291
+unit: words
+publishedAt: 2017-07-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150249/chapter-315-room-to-move"
+royalRoadId: "150249"
+---
+
+It took about an hour for Ren to tell Elise and Stella about all of the things that had happened during his time in the Water Realm, and they just stared at him and didn't say anything when he stopped speaking.
+
+“I know that sounds crazy.” Ren said. “I left out a lot of the little things that happened along the way.”
+
+“Ren... god... you're talking about all of that like... like it was all just normal things!” Elise said.
+
+“It was all normal things.” Ren chuckled. “The mollusk migration that covered the castle for nearly a month, the Barnacle Debacle that the Queen's consort is never going to forget, and even the Annual Seahorse Race.” He grinned at them. “Because I was an outsider, I wasn't allowed to win; but, I sure raced the hell out of them.” He laughed. “When I crossed the finish line nearly a full minute before everyone else, the look on the Queen's face was priceless!”
+
+“How can you sound so happy about going through all of that?” Elise said. “Your mind was... essentially trapped... for all that time.”
+
+“I've been trapped in the game before.” Ren said. “It honestly didn't bother me.”
+
+“We... we really should get you checked out.” Elise said. “Professionally.”
+
+Ren smiled at her. “No, thank you.”
+
+“But, Ren...”
+
+“No.” Ren said, quite firmly. “I've had enough of going through that kind of examination.”
+
+“You really should see someone...”
+
+“I'm seeing the both of you right now.” Ren said. “What do you think of my mental state?”
+
+“I... I don't know.” Stella said. “We haven't been around you long enough to see any major differences.”
+
+“That's fine.” Ren said. “I can kind of solve that problem right now.” He smiled and looked at Elise. “So, are we heading to my place now?”
+
+Elise felt unsure of what to do, then glanced at Stella. “Ren, I...”
+
+“Elise.” Ren touched the side of her face and she looked at him. “I've been waiting for a year and a half to see you. I want to make love to you... to the best of my ability, anyways.” He said and smiled. “Will you allow me to pleasure you?”
+
+Elise's eyes went wide at his stark admission. “Ren, you... you're being quite forward.”
+
+Ren gave her a chaste kiss. “That's because you said you wanted to be first.” He said. “I could have ravaged my personal maids when I came back to the ship; but, I didn't.” He smiled. “When I logged out and had Stella in the shower with me, I could have asked her to ravage me; but, I didn't.”
+
+Stella took in a quick breath, because she realized that she would have done it without a second thought if he had asked her before they had played with each other.
+
+“Ren...” Elise started to say.
+
+“You can say no, and we can spend a bit of time together here.” Ren said. “I can't fault you for not being excited, especially now that you know what happened to me.” He said and leaned in close to put his lips by her ear. “I've been fighting the urge to have sex for a year and a half because I love you, Elise.” He whispered. “I want to become one with you.”
+
+Elise caught her breath and her heart raced, because she really wanted to be with him. “Ren...”
+
+Ren leaned back and smiled at her. “We can watch television for a bit, until you decide what you want to do.” He said and picked up the remote and changed the channel. He turned it to a random channel and let the noise fill the room.
+
+“I'll... be right back.” Elise said, stood up and left the room.
+
+*
+
+Elise took out her cell phone and called her boss, and told him what Ren had said about the portal access for the pocket realms.
+
+“That's great news!” Edward said. “No one besides Ren has even come close to knowing actual deities for the elements even exist.” He said and smiled. “Thank you for telling me. I'll pass it along to Max right away.”
+
+“He's still there?” Elise asked.
+
+“He said he wasn't leaving until this leak was plugged.” Edward said. “Now that we know it's not the code associated with the players, it'll be so much easier to stop these instances from happening.”
+
+“I hope so.” Elise said. “Ren is...” She stopped talking and let her words drift off.
+
+“What is it?” Edward asked. “Is he all right?”
+
+“I don't know.” Elise said. “One second he seems fine, and then he'll say something a little off.”
+
+“Can you give me a specific example?”
+
+“Not really.” Elise said. “It's more like... the tone of what he said, and not the actual words.”
+
+“I understand.” Edward said. “Stay around him for a while, and see if his behavior changes at all. Ren has been subjected to something that changed his actual perception of time itself.” He said. “Did you suggest that...”
+
+“He flatly refused.” Elise said. “Since he's legally an adult, we can't force him.”
+
+“Well...” Edward started to say.
+
+“Absolutely not.” Elise said. “We will not do anything that will take his rights away, whether it's in his best interests or not!”
+
+“He really should be examined by...”
+
+“He said no, and so do I.” Elise said. “This discussion is closed.”
+
+“All right.” Edward said. “But, if anything comes up...”
+
+“It'll be handled with care and compassion.” Elise said. “Goodbye.”
+
+*
+
+“Stella? You're coming with us to my place, right?” Ren asked her.
+
+“Of course.” Stella said. “I won't let you go anywhere without at least some kind of professional help.”
+
+“Elise is a professional receptionist.” Ren said and grinned.
+
+“I meant professional medical help.” Stella said and rolled her eyes. “I can only imagine what she would do if you slipped and fell.”
+
+“Probably fawn over me, apologize profusely, and bury me in her massive cleavage.” Ren chuckled. “I can think of worse ways to be treated.”
+
+“To be honest...” Stella said and smiled. “...I can, too.”
+
+Elise came back into the room and looked at Ren, who still sat on the edge of the bed. “Ren...”
+
+“I'm all ready to go, and Stella's already agreed to come with us.” Ren said. “It's all on you.”
+
+“I... we... we really shouldn't...”
+
+“I can only tell you so many times that I'm fine, before you start to question if I'm lying.” Ren said and smiled. “It's too bad I can't make an Amulet of Truth in the real world to prove to you that I'm being honest.”
+
+“An amulet of what?” Elise asked.
+
+“Amulet of Truth.” Ren said. “You can't speak a deliberate lie within its area of effect.”
+
+“You're kidding!” Elise said.
+
+“Nope.” Ren said. “There were a few times that things got really dicey in the throne room because of it.” He smiled. “It's one of the reasons the Barnacle Debacle became a debacle in the first place.”
+
+“That would be a good thing to have.” Elise said.
+
+“Most times.” Ren said. “You have to be careful, though. Sometimes too much honesty can be bad; either for you or the other person.”
+
+“Like when?” Stella asked.
+
+Ren raised a single eyebrow at her, and she smiled at him.
+
+“Like... if I asked Elise how many men she's dated.” Ren said and looked at Elise. “Or how many of their hearts she's broken.”
+
+Elise looked at him, and didn't say anything.
+
+Ren smiled and pointed at her. “There! Did you see that?”
+
+“What?” Stella asked.
+
+“Elise just demonstrated the fatal flaw in the Amulet of Truth.” Ren said. “It might compel you to tell the truth... only if you speak.” He smiled. “If you don't answer the questions, you can tell no lies.”
+
+“That's... brilliant.” Elise said.
+
+“Even the Truth spell in the game does the same thing.” Ren said. “It says, 'when you speak'.” He shook his head. “Stay quiet until the spell ends, or leave the area of effect for the amulet, and you can lie all you want.”
+
+“Ren, do you really want to know-”
+
+“No.” Ren said. “You're with me now, and that's all that matters.” He smiled. “I still don't know why you chose me; but, you did and I can feel nothing but grateful for that.”
+
+“Oh, Ren.” Elise said, then thought about what she wanted to happen between them. “All right. Let's go to your place.”
+
+“Stella, let's gather up what we need to spend the night.” Ren said as a large grin spread across his face.
+
+“I'll help.” Elise said, and they gathered up everything they would need, and quite a few things they could leave there, since they would be moving it all over the next day. Stella and Elise packed up the Hummer H2, got Ren into the front seat, and headed over to Ren's house in Emerald Estates.
+
+“Goodness gracious!” Stella exclaimed when the Hummer H2 pulled into the driveway and she saw the place with her own eyes.
+
+“I can't remember the last time I heard that.” Ren said and chuckled. “Although, usually I'm the one that says old-time movie stuff.”
+
+Stella grinned. “I thought it was appropriate.” She said. “The pictures don't do it justice.”
+
+“I can't remember if I said that or not.” Ren said. “I've had so much other stuff go through my head since then.”
+
+Stella and Elise exchanged glances at Ren's admission.
+
+“Well, let's get everything inside.” Ren said, and unbuckled his seat belt.
+
+“Wait!” Stella and Elise exclaimed as Ren reached for the door handle.
+
+“What?” Ren asked them.
+
+“Wait until we get there to help.” Stella said and got out and ran around to Ren's door.
+
+“You're supposed to be careful.” Elise said as Stella opened the passenger door.
+
+“I was being careful.” Ren said.
+
+“Ren.” Stella said, and held a hand out for him to hold.
+
+“I wasn't going to try and get out on my own.” Ren said. “I'm not that stupid.”
+
+“You're not stupid at all.” Stella said. “You are being a bit reckless, though.”
+
+Ren smiled as he climbed down and stood on the pavement. “What's life without a little risk?”
+
+“Safer.” Elise said as she brought over his wheelchair, and Ren chuckled as he sat down in it.
+
+“Okay, I'll have to agree with you there.” Ren said. “Load me up with stuff to carry in.”
+
+They did so, and Stella pushed the wheelchair and Elise got the door.
+
+“Wow.” Stella said when they entered the main lobby with the large sweeping staircases on both sides. “My whole house could fit in here.”
+
+“It sure can.” Ren said. “The elevator is over there.”
+
+“Great.” Stella said and pushed the wheelchair over to it. “If we had to go through the house every time you wanted to change floors, the elevator would be more of a hindrance than anything else.”
+
+“I don't think I'd want you to carry me up the stairs all the time.” Ren said. “Once, maybe.”
+
+Stella snorted a laugh. “I saw the stairs. Once would be once too many.”
+
+“That's true.” Elise said and stepped into the elevator and hit the button for the second floor. “Like Barbara, I'd like to walk up them at least once.” She said and smiled. “Then never again.”
+
+Ren laughed. “When I've built up my strength a little more, I'd be happy to escort you.”
+
+“I would be honored.” Elise said, then the doors opened.
+
+“The bowling alley is there.” Ren said and pointed. “The theatre is in there.”
+
+“I can't believe this.” Stella said. “You're actually going to live here.”
+
+“I kinda have to now.” Ren said and smiled. “I already signed the papers. This place is all mine.”
+
+Stella nodded and pushed the wheelchair down the hallway.
+
+“A bedroom suite with mini-kitchen and attached bathroom there, and the same there.” Ren said and pointed to the doors on either side. “The master bedroom is straight ahead.”
+
+Elise got the door for them and they went inside.
+
+“You're going to need a ladder to get on that bed!” Stella said and laughed.
+
+“A step stool would be good.” Ren said. “In fact, we should grab enough to put one in every room and bathroom.”
+
+“Wait, what?”
+
+“They're always good to have around.” Ren said. “And they're useful.”
+
+“I suppose it would be nice to have one handy at all times.” Stella said.
+
+“It would save us from having to carry one around, or go to where one is and bring it over.” Ren said. “But, we can worry about that later.” He smiled. “Unpack me.”
+
+“You said to load you up.” Elise said and started to take the things off of him. Stella helped to put the things away, and Elise went back out to the Hummer H2 to get the rest of it.
+
+“Do you think she'll want to sleep with me tonight?” Ren asked Stella after Elise left the room.
+
+“I think that once she makes up her mind, you're going to have a hard time stopping her from sleeping with you.” Stella said. “But, you have to be careful.” She warned him. “No over-exertion, and make sure she doesn't...”
+
+Ren put a hand on Stella's arm. “I'm sure you've made it perfectly clear what she can and can't do.” He said. “I'll remind her if it's necessary.”
+
+Stella nodded, and Ren took her hand and kissed the fingers.
+
+“Thank you for worrying about me so much.” Ren said. “You don't know how much I missed that.”
+
+“For me, it's only been a few hours since the last time we talked.” Stella said. “But, I can understand where you're coming from. If I hadn't seen you after a year and a half, I...” She sighed. “You don't have to thank me for it.”
+
+Ren nodded and let her hand go. “So, do you want the room on the left of mine, or the room on the right?”
+
+“Wh-what?”
+
+“I've pretty much got a mansion here, and I'd like for you to pick a room to call yours.” Ren said. “You can put your extra uniforms, clothes, and things in it; or leave it empty.” He said. “I know you won't give up your place to move in here, so I thought you'd need somewhere to store your things.”
+
+“Hold on.” Stella said. “Would you ask me to move in if you thought I wanted to?”
+
+“In a heartbeat.” Ren said. “You've got your own house, though. You worked hard for years to get it, and I'd never ask you to give it up.” He said. “So, offering you a place to keep your extra stuff seemed like a good idea. Plus, others won't be able to go through it, if it's in your room.”
+
+“Does that mean you're going through my things when I'm not taking care of you?” Stella asked with a teasing tone, and Ren laughed.
+
+“What's the point of looking through your clothes if you're not wearing them at the time?” Ren asked her, and she didn't know how to respond to that. “There is no point, because they lose that special something when you're not in them.”
+
+“I've got the last bundle here.” Elise said as she came into the room. She handed the bag of medical supplies to Stella, and she took them into the bathroom.
+
+“Good god!” Stella said, and it echoed back to her. “This place is huge!”
+
+Ren laughed. “Denise said I need a bell around my neck when I go in there.”
+
+“She's right.” Stella said after putting away the items in the drawers under the large counter that had double sinks. “We'll definitely need to get towels and everything.”
+
+Ren nodded. “Thanks for bringing some for us.”
+
+“No problem.” Stella said and put a hand on his shoulder. “I think I'll take the left one.” She said and smiled. “If you need anything, I'll be right next door.”
+
+“Thanks, Stella.” Elise said.
+
+“Goodnight.” Stella said and left them alone in the room. Ren got up out of the wheelchair and went over to the dresser by the bed. He opened the drawer and looked at the only thing in it; a set of red silky pyjamas. He thought about changing right there, but when he looked at Elise, he couldn't quite read her expression. He closed the drawer, climbed up onto the bed, and moved the pillows around so that both he and Elise could prop themselves up on them.
+
+“Elise?” Ren said, and she kind of jumped a little. “Can you come here?”
+
+Elise looked around and couldn't think of a reason not to get on the bed. She wasn't sure why she was reluctant to do it, though. Ren pat the pillows beside him where he had propped himself up, and she laid down beside him and propped herself up, too.
+
+“Tell me about your day.” Ren said to her, and she blinked her eyes at him a few times.
+
+“What?”
+
+“I haven't heard your voice in so long, that I want to savour it.” Ren said. “Please.”
+
+“I... okay.” Elise said. “Well, my day started like it always does.” She said. “I thought about you.”
+
+“Me, too.” Ren said. “I mean, there's lots of things that normally go through my mind; but, you told me we were going to break in the new bed tonight and I... well, that's what's kept me going.” He smiled. “I can't wait to hear you moan with pleasure.”
+
+“Ren, I...”
+
+“What did you do next?” Ren asked her. “Did you have breakfast?”
+
+“I did, technically.” Elise said. “It was only a cup of coffee and 2 pieces of toast.”
+
+Ren closed his eyes. “What next? Did you take a shower?”
+
+Elise looked at him to see if he leered at her and imagined her naked; but, she saw that his eyes were closed and she couldn't tell what he was thinking.
+
+“Yes, I scrubbed myself all over.” Elise said. “But that was this morning. I've been sweating a little since then, especially after hearing about what happened to you.”
+
+Ren took in a deep breath through his nose. “You smell wonderful, Elise.”
+
+Elise lifted her arm and checked as she watched him. He didn't open his eyes and she sniffed herself. It was a little strong, but her deodorant was keeping it at bay and it wasn't too bad.
+
+“The traffic was thick today, so it took longer than usual to get to work.” Elise said. “Some idiot cut me off to take the same exit I was, and I nearly ran into him.”
+
+Ren kept his eyes closed and reached a hand out to touch her arm. “Are you okay?”
+
+“I'm fine.” Elise said. “It pissed me off more than it scared me.”
+
+Ren chuckled. “I wish I was there to see you lay on your horn and curse the guy.”
+
+“How did you know I did that?” Elise asked, surprised.
+
+“It was just an educated guess.” Ren said. “Tell me about work.”
+
+“Ren.” Elise said. “Why are you...”
+
+Ren opened his eyes. “I told you.” He said and looked at her. “I want to listen to you talk.”
+
+“I thought... well, you... I mean...”
+
+“We're on the bed, aren't we?” Ren asked her.
+
+“Yes.”
+
+“Together.”
+
+“Yes.”
+
+“Then even if nothing happens, and all we do is fall asleep... we can still tell everyone we slept together.” Ren said and smiled at her.
+
+“So cheeky.” Elise chuckled. “What am I going to do with you?”
+
+“Well.” Ren said and grinned. “We could do all of the things that I'm going to tell everyone we did anyways.”
+
+Elise snorted a laugh, gave in to her suppressed urges, and kissed him.

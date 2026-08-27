@@ -1,0 +1,265 @@
+---
+id: ec02861b-ef90-5959-a7b9-add5f045d0ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75 - It's Almost Done"
+slug: 0059-chapter-75-its-almost-done
+partOf: mythrans-master-of-all-continued-completed
+position: 59
+ownLength: 2853
+unit: words
+publishedAt: 2016-11-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101739/chapter-75-its-almost-done"
+royalRoadId: "101739"
+---
+
+Ren worked hard for the next 2 in game days, while Teepo crawled all over the exterior to point out all the damage that needed to be repaired. Jen and her workers eventually stopped asking why he knew what to replace and just moved to the next section when Ren pointed them to it. He learned several tricks of Jen's woodworking trade and she let it slip where to get the best trees for making lumber planks. Ren tried to pry more details from her but she just shook her head. The building's outside was finally finished at the end of the second day, and part of the inside was done as well. The stairs weren't installed yet; but the main floor was made with thick timber planks, and felt solid when walked on. The empty section for the stone inlay was on the right-hand side, and 2 work benches were made along the walls next to it. Ren looked around the place and smiled.
+
+This is mine. Ren thought. All mine.
+
+Ren waited for everyone to go home and locked the place up when he left. He hung the small golden key around his neck and walked down the street to Donan's shop and to the building right beside it, where Lucy's phantom form still sat. Ren sat down next to her and smiled.
+
+It'll be ready soon, and you won't have to sit out in the open anymore.
+
+“There's nothing wrong with being out in the open.” Teepo said from Ren's shoulder. Ren hadn't been able to wear the cloak around all the sawdust the last few days.
+
+Ren chuckled. Not normally, but sometimes people feel better when we have a roof over our heads and 4 walls to hold it up.
+
+“People are a bit strange. If you lived in a cave, you wouldn't have to worry about walls and a roof.” Teepo said.
+
+We used to live in caves a long time ago; now, we live in houses. Ren thought.
+
+“Is it better?” Teepo asked.
+
+To some extent, yes. Ren said. Anyways, I have to go for the night. I'll see you in the morning. Teepo. Ren thought and leaned back against the building.
+
+“Goodnight, Ren.”
+
+Goodnight. “Logout.”
+
+********
+
+Ren did his usual morning routine of breakfast, therapy, and shower. Denise was on shift today and they made small talk, but Denise kept herself at a distance. Ren wasn't sure why, but he never questioned Denise about it. It was her business, and Ren didn't want to intrude. Ren looked up modern table saw tables, and how to guide the wood properly across it without it slipping or cutting crookedly. When the 3 hours of 'night' was over in the game, Ren logged back in.
+
+********
+
+Hi, Teepo.
+
+“Good morning, Ren.”
+
+Ready to do some more work?
+
+“Of course. What's on the schedule for today?” Teepo asked.
+
+Making stairs! Ren thought and stood up. He gave a look of longing to Lucy. I better check in with Donan first. He stepped into Donan's shop and there wasn't anything that needed to be done. Ren told Donan he'd be right there behind Sally's if he was needed, and Donan nodded. Ren looked at him and thought he looked a little sad.
+
+“Donan, is everything alright?” Ren asked.
+
+Donan nodded but tried to turn away from Ren, who put out a hand to stop him.
+
+“A-a-are you crying?”
+
+Donan shook his head. “These are tears of joy!” He said and grabbed Ren into a back-breaking hug. “My apprentice! Striking out on his own in the big harsh world!” Donan said and tears rolled down his face and let Ren go.
+
+“Donan! I'm right there, in the next lot behind Sally's!”
+
+“Yes, the big harsh world!” Donan said and cried.
+
+Ren consoled Donan as he pat him on the back. Who'd have thought the big guy had such a soft side to him? Then Ren got a popup he didn't expect, and his eyes widened.
+
+Notice!
+
+You have lost the title: Donan's Apprentice.
+
+“Don't forget that I'm your mentor now.” Donan said and wiped the tears away. “I get 1% of your sales in metalworks.”
+
+“I won't forget, Donan.” Ren said. “No matter what... I'll... I'll always be your apprentice.” Ren said, starting to tear up himself.
+
+Donan took Ren into a one armed hug. “You'll always have a forge here, son.”
+
+Ren let the tears flow at that last word. Not even his own father had said that word, or any word in fact, with such feeling.
+
+“T-thank you.” Ren said. “I'll never forget the things you taught me.”
+
+Donan waved the thanks away. “You are your own man now, Ren.”
+
+Notice!
+
+You have gained the title: Blacksmith
+
+Notice!
+
+The title 'Blacksmith' grants you a 5 level bonus to your blacksmith skills.
+
+Smithing Level 4 (Advanced 65%), Hammering Level 2 (Advanced 64%), Smelting Level 2 (Advanced 95%), Blade Forging Level 1 (Advanced 60%), Sharpening Level 4 (Advanced 33%), Polishing Level 1 (Advanced 59%).
+
+XP Bonus: 5,000 XP
+
+Fame Bonus: 14%
+
+“You've taken what I taught you and have made things I've never seen before.” Donan grabbed Ren by the shoulders and looked him in the eye. “Show them, Ren! Show all of them what you can do!”
+
+Ren nodded and wiped the tears away. “I will.”
+
+New Quest!
+
+You have been tasked by your mentor to show the world what you can do.
+
+No time limit has been set to finish this quest.
+
+Difficulty: ????
+
+Rewards: ????
+
+Ren gathered up all of the iron bars that were stacked in Donan's shop and left with the promise that when any big orders came in, Ren would be there to help. He walked down the street and around the corner. All the woodworkers were there and Jen was telling them what needed to be done. Ren approached her as she finished giving orders.
+
+“There you are! I was just... Ren, are you okay?” Jen said.
+
+Ren nodded and told her what had just happened. Jen gave him a one arm hug herself.
+
+“You were going to have to leave the nest sometime.”
+
+Ren nodded again.
+
+“Look, we've got things covered here. Why don't you just supervise, okay?”
+
+“Okay.” Ren said and walked inside the building, and got a popup.
+
+Notice!
+
+As a blacksmith, you may order appropriate items directly and they will be delivered to your business.
+
+Ren stared at the popup. I can do that?
+
+“Show Orders”
+
+Current Orders: None
+
+Items available to be ordered:
+
+ItemAmount OrderedItemAmount Ordered
+
+Paving Stones (1 foot square): 1 S0Stone Bricks: 10 C0
+
+Small Crucible: 1 S 0 Large Crucible: 10 S0
+
+Axe Handle: 5 C 0 Hammer Handle: 3 C 0
+
+Pick Handle: 5 C 0 Hatchet Handle: 3 C 0
+
+Knife Handle: 1 C 0 Mallet Handle: 5 C 0
+
+Large Tongs: 5 C 0 Small Tongs: 3 C 0
+
+Smelting Apparatus: 1 G 0 Parchment Paper: 3 C 0
+
+Ren stopped looking at the list, because it just went on and on. It never occured to him to wonder why Donan never left the shop, except to go home. Apparently, you never have to leave the shop to do anything else. You just had to order things and they were delivered right to the doorstep.
+
+You can even order things from the other shop owners at a discount! Ren thought, surprised. I guess... once you're in, you're in all the way.
+
+Ren glanced through the list again and ordered 300 paving stones, to cover the 15x20 foot space where he'd marked off the spot for his forge, 100 stone bricks to construct the forge, both small and large crucibles, 10 parchment paper, and a smelting apparatus. It was the basics of what he needed to get started. Once he had those, he could make larger items of each because he'd learned the plans already. Ren also ordered 2 blank stone molds. One in a long rectangular shape, the other a square. With those as a base, he can make almost anything he knew the recipe for. Ren hit the order button and a countdown appeared beside each item.
+
+“I thought it would all come together.” Ren said.
+
+“What's that?” Jen asked as she stepped into the building.
+
+“I just ordered a bunch of stuff for delivery, but it's all coming in seperately.”
+
+Jen nodded. “Yeah, it's hard to coordinate them and have the different things arrive at the same time.”
+
+“Apparently.” Ren said and smiled. “At least most of it will arrive sometime tomorrow. By the way, I'll need 7 planks and 5 lengths of 4x4.”
+
+“Why?” Jen asked.
+
+“I'm making a big table.” Ren said.
+
+Jen shrugged and called over one of the workers. He left and Ren asked how much for it all, and Jen shook her head. “I want to see you build this table of yours.”
+
+Using the tricks he'd learned from watching her workers, Ren trimmed parts of the wood to fit together. He them made a 4x4 rectangular frame, with two 8 foot long pieces, and two 4 foot long ones, with four 4 foot long legs and nailed it together. He attached 4 of the planks across the top, leaving a small space in between each of the planks down the length of the table. Ren pulled out his failed tree cutting saw and Jen nearly shouted in shock.
+
+“What in blue blazes is that?!?” Jen exclaimed.
+
+Ren laughed. “A failed attempt at cutting down trees.”
+
+Jen looked at it and saw the blue streak where it had jammed in the tree and the heat had discolored the metal. “What... what kind of iron does this?” She said and pointed to the blue streak.
+
+“The kind I'll be making for you, hopefully.” Ren said and smiled.
+
+Jen stared at him as he unhooked the blade from the end and said he'd be right back. Ren went to Donan's and used the forge to heat up the metal supports and bent them at a 45 degree angle, let the system add the small pulley on the end to the blade, and reattached it. Using some of his Spider Silk String, he wrapped it around the pulley and the second wheel he had the system cut a groove into. Ren would have done it all himself, but he needed it done right away and couldn't play with it. Ren extended the handle down into a foot pedal and went back over to his place.
+
+Jen was still standing there and staring as Ren mounted the re-purposed saw blade under the table with planks and nails, drilling holes for the handles to stick through to hold it secure. Most of the saw blade was sticking up above the table top and Ren grinned at Jen's shocked expression.
+
+“It's still a 2 person job at the moment; at least, until I can figure out how to power the thing without smashing it to pieces.” Ren said. “I'll need a log... with bark on it, of course.”
+
+“Of... of course.” Jen said and sent for one.
+
+A few minutes later, Ren had the guides made and put on the table saw. The log was brought in and Ren started pumping the saw's new foot pedal. The blade spun crazily fast and Jen nearly fainted.
+
+“Don't pass out on me now. I've seen a smaller one of these work.” Ren kind of shouted over the sound of the spinning blade. “Come on, push the log through.”
+
+Jen and one of the guys that carried the log in, set it on the table and pushed it through the guide and the saw cut through the log like it wasn't there. Ren grinned and told them to put it on the flat side and to push it through again. They repeated this until it was square. Ren stopped pumping and moved the guide over to only leave room for a thick plank to be cut.
+
+“Okay, keep going!” Ren shouted and started pumping again.
+
+Jen and the guy pushed the log through and a perfect plank was produced when the log went through. They did it again and again, and had 5 planks of the exact same size and 1 slightly thinner one. Ren stopped pumping the pedal, and all the workers that had seen the demonstration came over to marvel at the planks Ren and Jen had made.
+
+“It's dangerous as hell, so you have to be careful of the blade at all times. That's what the guides are for. The last time I did something like this, it was by hand... and there were some close calls.” Ren explained.
+
+Jen shook her head at Ren. “Where do you come up with these ideas?”
+
+“I see a lot of things as an Adventurer. They just have to be adapted to the conditions and limitations here.”
+
+“You're going to undermine my business in under a month with this, Ren.” Jen said, sadly.
+
+“What are you talking about?” Ren asked, perplexed.
+
+“This!” Jen said, waving at the table saw. “All you need to do is process a dozen trees to make perfect planks, and everyone will come to you for wood from now on.”
+
+Ren tried to not be amused, but couldn't help himself and laughed. “Jen, does this place look like I can run a lumbermill?”
+
+Jen blinked a few times and looked around. The place was big, 40 feet by 20 feet, but 15 of that 40 was open floor for the forge. “If... when... you add the second floor...”
+
+Ren shook his head. “Nope, still no room. If I thought that's what I'd be doing with my time, I'd have tried to buy a property like yours, with lots of outdoor space to store everything.” Ren smiled. “This table saw is for you.”
+
+Jen's jaw dropped and the workers all stared at Ren like he was crazy. “You... you're selling me this thing?!?”
+
+Ren chuckled. “Sell? Of course not. I'm giving it to you; but, I'll expect some good deals on lumber when I need it.”
+
+Jen started to laugh. “Ren, I'll give you lumber whenever you need it, if this thing can keep cutting like this.”
+
+Ren smiled. “I'll pop by to repair it every so often, and to sharpen it if needed.”
+
+Jen squinted her eyes. “How much will it cost to have you keep doing that?” She asked. “It's not like I can have just anyone come over and repair this contraption.”
+
+Ren chuckled. “No cost at all. I'll maintain it for free.”
+
+“Maybe you really are crazy.” Jen commented and then smiled. “Okay, fine. Free lumber until it looks like I'm losing money, then I'll charge you for the cost only. Deal?”
+
+“Deal.” Ren said and they shook on it.
+
+After the little show, work continued and Ren told Jen she could run her odd sized planks through it to make them all the same size, rather than trying to rebuild her existing stock with new trees. She was surprised you could do that, and then Ren showed her how to make any thickness of plank that she wanted, telling her that she would save a lot of money on making thinner wood for the roofs and interior walls, while leaving the heavy stuff for the actual construction.
+
+By the end of the day, Jen had Ren in an almost constant headlock, trying her best to pick his brain for information. The stairs were installed and made with planks re-cut on the table saw. They couldn't use the ones cut during the demonstration because those needed to dry for a few days. Storage space and cabinets were built underneath the stairs and they finally had access to the third floor again. The floor supports were fixed and replaced with Teepo's help and direction, and when night came work was ended for the day. The rest of the third floor would have to be completed the next day, and Ren waved as everyone left for the night.
+
+It's almost done, Teepo.
+
+“It's coming out nicely.” Teepo said.
+
+Thanks to you and your close up view. This would have taken a lot longer if you hadn't been so good at pointing out everything that was wrong. Ren thought with gratitude to his friend.
+
+“It's what friends do.” Teepo said. “We help each other when we can.”
+
+Ren nodded and picked Teepo up to put on his shoulder. Ren locked up and walked around the corner and up the short side street. Around the building by Donan's place was where Lucy's phantom form still sat. Ren croutched beside her and sighed.
+
+“I'm sure she'll come back to see you, Ren.” Teepo said.
+
+I hope so. Ren thought. I miss her smile.
+
+Ren took out his bedroll and set it beside Lucy. He then took out the 5 rocks of concealment and placed them around where they were. He'd never seen anyone come through this way and that's why he always logged out here, but it didn't hurt to be extra careful.
+
+I'll see you in the morning, Teepo.
+
+“Goodnight, Ren.”
+
+“Logout.”
+
+********

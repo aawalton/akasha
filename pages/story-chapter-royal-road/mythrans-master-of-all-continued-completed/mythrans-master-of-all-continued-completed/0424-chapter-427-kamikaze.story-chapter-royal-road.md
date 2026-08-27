@@ -1,0 +1,335 @@
+---
+id: b928fe37-06e3-500c-a75b-6678e07e97d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 427 - Kamikaze?"
+slug: 0424-chapter-427-kamikaze
+partOf: mythrans-master-of-all-continued-completed
+position: 424
+ownLength: 3228
+unit: words
+publishedAt: 2017-11-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175401/chapter-427-kamikaze"
+royalRoadId: "175401"
+---
+
+Ren slipped off the VR headset and was greeted by Denise and a frantic Lisa.
+
+“I'm so glad you came out early!” Lisa said before Ren could even say hello to her. “Ren, you can't keep the succubi!”
+
+“I'm not going to.” Ren said and handed the headset to Denise. “Well, I won't be having sex with them at least.”
+
+“That's not what I mean.” Lisa said. “You can't stay around them for extended periods of time.”
+
+“Why not?”
+
+“It's their corruption.” Lisa said. “It will seep into you more and more.”
+
+Ren sat up so he could talk easier. “Hm.” He thought about it. “I did gain a point of corruption when I kissed Zunala to feed her stronger emotions.”
+
+“You can't be doing things like that!” Lisa said. “Unlike poison or anything else that you can build up a resistance to, the corruption is inside.”
+
+“Yeah, and?”
+
+“Ren, you died from it! Remember what that felt like? How awful it was?”
+
+Ren nodded.
+
+“If you keep gaining corruption, that feeling will be permanent.” Lisa said. “Every time you die, your insides will liquefy.”
+
+“But corruption resets after death.” Ren said.
+
+“Yes, the level resets.” Lisa said. “It doesn't say anything about the effects it causes!”
+
+“Are you sure?” Ren asked. He was a little doubtful that it would be that encompassing.
+
+“Ren.” Lisa frowned. “You know my skills in the game. I... I saw...” She closed her eyes for a moment, then opened them and stared daggers at him. “You kept dying from it, over and over. Each death just as horrible as the first, and it didn't matter if you only had 1% or 100% corruption!”
+
+“Lisa, I can't just abandon...”
+
+“Ren!” Lisa exclaimed. “You listen to me, and you listen good!” She said. “I will not let you die horribly from something that can be so easily avoided!”
+
+“Lisa...”
+
+“Ren, fulfill their contracts.” Lisa said, a little angrily. “It will set them free and you can get away from them.”
+
+“No.”
+
+“Ren!”
+
+“I gave my word that I would take them out of Shargon Caverns, and I'm not going to abandon them.”
+
+“How can you be so nonchalant about throwing your life away like this?” Lisa asked.
+
+“It's not nonchalant.” Ren said. “I promised I'd make them a happy home.”
+
+“They expect to have that happy home with you!”
+
+“I said I'd make them one. I never said it would be with me.”
+
+“Ren! You can't split hairs with demons like that!” Lisa said. “They'll tear you apart!”
+
+“If I fulfill their contracts, they'll tear me apart.” Ren countered.
+
+“Ren, please!” Lisa said. “Don't ignore my warning!”
+
+“I'm not ignoring it.” Ren said. “I heard you.”
+
+Lisa stood up and glared at him. “Listen, mister.” She said. “You have to get rid of them before it's too late.”
+
+“I'm sorry, but I can't do what you want.” Ren said. “Not right now, anyways.”
+
+“You... pigheaded...” Lisa huffed loudly, then turned on her heel and stormed out of the bedroom.
+
+“You really should listen to her advice.” Denise said and sat on the bed beside him.
+
+“Geez, not you, too.” Ren said and sighed.
+
+“No, 'not me' too.” Denise said and smiled as she took his hand. “If you want to spend time playing a game with demonic sex beasts that you don't want to have sex with, that's your business.”
+
+Ren blinked his eyes a few times, then smiled. “So, you believe me that I don't want to have sex with them.”
+
+“I saw you looking at one of the contracts.” Denise said. “Lisa doesn't understand what it means to fulfill it.”
+
+“I know.” Ren said. “I kind of told her during the argument; but, she's kind of blinded by her... well, righteousness... and she might think I was trying to justify myself if I explained it completely.”
+
+Denise chuckled. “She really does have your best interests at heart.”
+
+“I know she does.” Ren said. “She's just worried about what might happen, and not about what's happening now.”
+
+“Ren... I... I'm a little guilty of that, too.” Denise said as she leaned in close.
+
+“If I had to take a guess, I think every woman is guilty of it.” Ren said and gave her a very gentle kiss. “That's okay, though. I know it's difficult for them to decide what they want, when all they can think about is where things could possibly go.”
+
+“Ren.” Denise gave him a gentle kiss back. “How can you be so understanding?”
+
+Ren reached up and ran a hand through her short blonde hair. “I told you why.” He said and smiled crookedly. “I'm awesome.”
+
+Denise chuckled. “What did I say about being full of yourself?”
+
+Ren moved the hand down past her ear and caressed the side of her neck. “That I should never pretend to be what I'm not, and always be myself instead.”
+
+Denise's smile faded when he didn't make a joke. “That wasn't a wisecrack.”
+
+“I can't joke when what you want is a serious answer.” Ren said.
+
+“Wh-what?”
+
+“Denise.” Ren said, and gave her another very gentle kiss. “Relationships can start with joking around, or have joking around in them; but, they can't always be that.” He said. “A touch here.” He touched the side of her face. “A kiss there.” He said and kissed her again. “It's the little things that matter.”
+
+“R-Ren.”
+
+“I know it's hard to face feelings.” Ren said. “Just look at the disaster that happened between me and... and Lucy.”
+
+Denise took his hand again and lifted it to put it back on her face.
+
+“I won't just blurt things out and expect things to go a certain way anymore.” Ren said and rubbed a thumb on her cheek. “I won't say that I wish I was strong enough to hold you like you want me to.”
+
+Denise's breathing sped up.
+
+“I won't say that I regret that I can't make love to you as passionately as you deserve.”
+
+Denise closed her eyes and concentrated on the feeling of his hand on her skin, and he traced her chin up to her ear, then ran his fingers down the front of her neck.
+
+“What I will say is that I'm really, really good at foreplay.”
+
+Denise snorted a laugh and opened her eyes to look at him. “I thought you said you were going to give me... serious... answers.” She blinked her eyes and saw that Ren wasn't smiling or had any kind of twinkle in his eyes like when he was joking. “You're serious.”
+
+Ren nodded. “My endurance for... you know... is limited unless you're doing most of the work.” He said, and then smiled. “Just playing around? If I'm careful, I can do that all day.”
+
+Denise stared at him. “A-a-all d-day?”
+
+Ren nodded, and Denise kissed him. He responded to her passion and put his arms around her, and she held onto him. They kissed for several minutes, and then Denise came back to her senses and broke the kiss.
+
+“I... um... you need to eat supper.” Denise said, quite flustered.
+
+“I'll wait here patiently for it to be ready.” Ren said, gave her another gentle kiss, then eased her out of the embrace. “Right after a bathroom break.”
+
+Denise nodded and went to get the wheelchair, and helped him into it. She brought him over to the bathroom and helped him stand up.
+
+“This is going to be a little awkward.” Ren said and pulled his pyjamas and underwear down. “It always is when I'm this excited.”
+
+“Shouldn't you wait until it goes down?” Denise asked.
+
+“I need to go now.” Ren said and tried to aim properly. “I can't wait for another half an hour or so.”
+
+Denise stared at him as he went to the bathroom, and she saw he was right. It really was awkward for him in this condition. He used a baby wipe to clean up, then pulled up his underwear and pyjamas and asked for the sink. She helped him waddle over and he washed his hands.
+
+“Thanks.” Ren said and she helped him sit down. “My leg is killing me.”
+
+“Do you want...”
+
+“No, that knocks me out.” Ren said. “I'll sleep when I go back into the game.”
+
+Denise took him back out to the bedroom and helped him get back into bed. “I'll be back soon with your meal.”
+
+Ren nodded, and Denise quickly left. He watched television for about 10 minutes, and Denise came back in with his food. He ate it at a good pace instead of gobbling it down, and he thanked her for having it ready so quickly.
+
+“I've had it ready for an hour, in case you had come out early.” Denise said. “I just had to reheat it.”
+
+“Smart.” Ren said and smiled. “Thank you.”
+
+“You're welcome.” Denise said and her face went a little red at the compliment. “Now go in the game and get some sleep.” She said. “You've got a long day ahead if that pixie is right.”
+
+Ren nodded and laid back on the bed. “I'm really glad I have the All-Seeing Mirror.” He said. “I'd be going in blind to each cavern and without a plan without it.”
+
+“You're pretty quick thinking on your feet, Ren.” Denise said. “You even have that skill that let's you react first.”
+
+“You mean Lightning Reflexes?”
+
+Denise nodded. “Always getting the first action is a big advantage.”
+
+“As long as I know there's an opponent to fight.” Ren said and chuckled. “It doesn't do diddly-squat if something comes out of nowhere.”
+
+“Are you sure?” Denise asked. “I haven't seen any kind of limitation on your reactions yet.”
+
+“Did you see the blue screen before I stood up?”
+
+Denise nodded.
+
+“A pixie pulled her dress off to clean up a mess she made.” Ren said. “I was so dumbfounded that I didn't do anything except watch her do it.”
+
+Denise laughed. “So, even tiny little breasts can get you all hot and bothered?”
+
+“It was when she bent over in front of my face to take the dress off, actually.” Ren said and grinned. “Her little panties barely covered anything.”
+
+“You... little... pervert!” Denise said and tickled him.
+
+“Aha ha!” Ren laughed.
+
+“Objectifying that poor pixie!”
+
+“She was... flattered!” Ren said between laughs. “She... liked that... I liked it!”
+
+“Of course she did.” Denise said and stopped tickling him. “A woman enjoys it when a man appreciates her.”
+
+“Ha... ha... hooo.” Ren breathed several times to calm down. “I appreciate you, too.” He said and took Denise's hand. She gave it a squeeze, then let it go and stepped back from the bed. “What are you... oh.”
+
+Denise started to undo her pants, and Ren watched in fascination as she pulled the front down just enough to show that she only had on a small little triangle of cloth to cover herself.
+
+“Good god.” Ren said, surprised; then looked at her slightly red face. “That can't be comfortable.”
+
+“It's worth it to see that look on your face.” Denise said and pulled her pants back up.
+
+“You wore them for me?” Ren asked, and his voice held wonder.
+
+“Everything I do, I do it for you.” Denise said and stepped back close to the bed.
+
+“I like that song.” Ren said and sang a little. “Look into my eyes... you will see... what... you mean... to me.”
+
+“Search your heart.” Denise sang and touched his chest. “Search your soul.”
+
+“When you find me there...” Ren said and put his hand over hers. “...you'll search no more.”
+
+Denise leaned down and kissed him, and he put a hand behind her neck to keep her there for several moments. He broke the kiss and let her go, and she put her head beside his and whispered in his ear.
+
+“What you said before about playing all day.” Denise breathed in his ear. “I really, really want you to prove it.”
+
+“Stella's on shift tomorrow, Elise will be at work, and Lisa is angry as hell at me right now.” Ren whispered back in her ear. “I'll take a break from game training, and we can spend the whole day in bed together.”
+
+Denise shivered at the thought. “Ren...”
+
+“I'll be all yours, except when we break for food.” Ren said and kissed her cheek. “I can't skip meals, apparently.”
+
+Denise chuckled and stood up. “Okay.”
+
+She looks so happy. Ren thought and grinned at her.
+
+He looks so happy. Denise thought and beamed a smile at him.
+
+“Hand me the VR headset, please.” Ren said. “Sleep calls to me.”
+
+“You better just sleep.” Denise said and picked it up. “No succubi cuddling.”
+
+“Are you sure?” Ren asked. “The blonde one, Zunala, is really coming around from hating me on sight.”
+
+Denise snorted a laugh and handed it to him. “If you think one night of cuddling is going to make her into an angel, you've got a couple of screws loose.”
+
+Ren grinned. “Hey, you never know.”
+
+“Go ahead and try; but, you can't say Lisa and I didn't warn you.” Denise said.
+
+“I got some corruption just from a kiss; so, I promised myself I wouldn't sleep with them.” Ren said. “Can you imagine how corrupted I would be if I had sex with them?” He chuckled. “I'd rather do it with someone that actually cares about me... and without dying horribly, thanks.”
+
+Denise laughed and leaned down to give him a kiss. “Hurry up and go to sleep.”
+
+“That sounds so weird.” Ren said and put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed on the second floor of his shop tower. Hey, Teepo.
+
+“Hi, Ren.” Teepo said. “The night's barely started, so you've got a lot of time to rest.”
+
+How are the succubi?
+
+“Agitated.” Teepo said. “I don't know why.”
+
+Let's find out. Ren thought and hopped out of bed and ran down the stairs and out through the door. He was surprised to see the 20 succubi were scattered all over the inside of the walls he had made to protect them. They had their ears pressed against it and constantly moved around to find a better listening spot.
+
+“What's going on?” Ren asked.
+
+“Ren!” Zunala almost yelled and flew over to him. “Something is hunting around the walls.” She said. “We've been getting feelings of hunger and something else... it's hard to describe.” She sighed. “It's... like a deep need, or greed, or want...”
+
+Ren nodded and took out the All-Seeing Mirror. “Show me what's outside the walls but inside this safe zone.”
+
+The All-Seeing Mirror shifted from a reflection of his face to a twisted view of the wall outside. Something flew by the view, and then it landed on the wall and dug it's claws into the packed dirt. It had the legs, body, and wings of a vulture; and it also had the naked torso, arms and head of a woman. A very wrinkly and stringy-haired woman.
+
+“HARPIES!” Zunala hollered, and her red skin started to glow.
+
+“Zunala?”
+
+“OPEN THE WALL!” Zunala yelled in his face.
+
+Ren took out the Staff of Earth and pointed it to the closest wall, then used it to make a single 20 foot wide opening.
+
+“KILL THEM!” Zunala said and took off at her fasted speed through the opening. “KILL THEM ALL!”
+
+Ren saw every other succubi glow red and fly out through the hole. He saw fireballs and acid arrows pass by the opening, heard screams and yells, and watched as a ferocious battle raged.
+
+“This is actually happening, right?” Teepo asked. “We're actually seeing succubi fighting harpies?”
+
+Yeah. Ren thought. What the hell is going on?
+
+“I have no clue.” Teepo said. “Look at them go!”
+
+Ren and Teepo didn't speak any more and just watched wordlessly. They could only see what was in front of the opening; but that was enough. After several minutes, a harpy started to fly towards the opening when it noticed it, and just as it was about to pass through, a succubus smashed her feet into the harpy's back and squished her in a splash of blood at the entrance. She reached down and dug her hands into the harpy's neck, then ripped and tore the flesh apart.
+
+“AAAAHHHH!” The succubus screamed as it finally managed to snap the neck and tore off the head of the harpy. “AHAHA!” She laughed as the severed head splashed blood over her. She tossed the head back out of the hole and took flight with her feet still dug into the dead harpy's back, and carried the body away.
+
+“Whoa.” Teepo said. “Maybe you should cover the hole.”
+
+“I don't think that's going to be necessary.” Ren said as the sounds of battle became fainter. When Ren couldn't hear anything else, he thought the succubi would be done and come back inside. They didn't. He thought about going out after them; but, he had told Denise that he would sleep for the night. So, he waited for almost half an hour, and then he heard sounds of laughter. The succubi flew in through the opening and landed just inside, and Ren felt how happy they were.
+
+“What the hell was that?” Ren asked, and he felt a ripple of surprise go through them, then apprehension. “Where did you go?” He asked. “You're all covered from head to toe in blood, and I've been standing here, worried sick that some of you, or even all of you, were dead or dying somewhere!”
+
+“We're sor-”
+
+“You can save the halfhearted apology.” Ren said and cut her off. “I know you're not sorry, so don't bother trying to lie.”
+
+The succubi that spoke ducked her head.
+
+“I want to know what just happened.” Ren said, and no one spoke. “Zunala! Front and center.”
+
+The other succubi stepped out of the way and Zunala came forward. She walked over to stand in front of Ren, and she was full of confidence as she put her hands on her hips and stood with her feet 2 feet apart. Her wings were partially unfurled, and now that he could see her up close, he saw that she was completely naked and that blood dripped off of her from everywhere.
+
+“What happened?” Ren asked.
+
+“The harpies have hunted and killed our kind for centuries.” Zunala said. “This was the first time that we had the upper hand on them, so I used it.” She said, and Ren felt a Command Aura pop into existence around her. “We took control and we wiped them out.”
+
+“Was there that many outside?” Ren asked.
+
+“Only a few dozen.” Zunala said. “That didn't take us long.”
+
+“Then what took you so long to come back?” Ren asked.
+
+“I told you.” Zunala smiled. “We wiped them out.”
+
+“But...”
+
+“We killed all of them.” Zunala said. “We followed the stragglers back to their Aerie on this level and destroyed them.”
+
+“All of them.” Ren said, and she nodded.
+
+“Eggs, hatchlings, chicks, younglings, molters, and every single nester.” Zunala said. “We used acid arrows to scour the cliffs of their remains, then set fire to the nests.” She bared all her teeth in a huge grin. “Harpies will no longer be a plague on the succubi... or anyone else.”

@@ -1,0 +1,331 @@
+---
+id: 770e90de-5538-5c09-b0dc-6f5d1cb58099
+page-type-slug: story-chapter-royal-road
+title: "Chapter 261 - Something New"
+slug: 0251-chapter-261-something-new
+partOf: mythrans-master-of-all-continued-completed
+position: 251
+ownLength: 3790
+unit: words
+publishedAt: 2017-05-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138135/chapter-261-something-new"
+royalRoadId: "138135"
+---
+
+Notice!
+
+You have successfully defeated an opponent (SPECIAL) in combat.
+
+Rewards: 5,432 XP
+
+Fame: +2,000
+
+Due to the nature of the participant, no loot can be gained.
+
+“Son of a bi-”
+
+Notice!
+
+You have been granted a Temporary Boost: SPECIAL!
+
+All gains, bonuses, effects, and abilities will be doubled for the next 24 in-game hours.
+
+“Holy crap!”
+
+Notice!
+
+Excess Fame has been converted to XP.
+
+2,000 Fame x 10 XP = 20,000 XP
+
+SPECIAL x2: +20,000 XP
+
+Notice!
+
+You have gained a level! 10 stat points have been automatically allocated, and you are now Level 33. Craft Construct limit has been increased from 2 to 3.
+
+SPECIAL x2: You have gained another level! 10 more skill points have been automatically allocated, and you are now Level 34. Craft Wondrous Item recipe: Amulet of the Spider has been unlocked.
+
+Notice!
+
+PVP Mode has ended.
+
+I was going to be pissed that he didn't drop anything. Ren thought in amusement as he used a Major Healing wand to restore all the Health he'd lost, and then the Mana he'd used to change the spells in the wands. What I got was definitely much better!
+
+Notice!
+
+You stayed calm in battle, and used your head to defeat your opponent. For living up to your title, Strong and Wise, you have been granted a bonus.
+
+Wisdom: +5
+
+SPECIAL x2: +5 Wisdom
+
+Whoa! Ren thought, amazed.
+
+“We better go.” Teepo said as he landed on Ren's shoulder, and the spider crawled up and tucked itself into the cloak. “That idiot used up a lot of your spare time. You're going to be late.”
+
+Right. Ren thought, stored his armor, and equipped his Travelling Clothes. He walked the 20 feet to the corner of the street beside Sally's Shop. He was tempted to run, but he'd barely start to run and would have to stop; so, he walked by Sally's to the back of his business and went up the stairs to the back door. He went inside and up to the apartment without making a sound. When he opened the door, he saw Anabelle. She sat on the end of her bed, and she wore the new nightgown he'd made for her.
+
+“Thank you for this.” Anabelle said, and rubbed her hands over the soft cloth. “I've been wearing that other old thing for years.”
+
+“I know.” Ren said. “When I realized you still had it, I had to make you something else.”
+
+Anabelle stood up and swayed her hips as she walked over to him. The nightgown seemed to fit her quite nicely, and clung to her in all the right places.
+
+“I appreciate your concern.” She purred, and ran her hands through his hair. She leaned down and smelled his hair. “I miss this smell.”
+
+“I... um... I need to get back to the dwarf lands.”
+
+“You always need to.” Anabelle said, sadly. “I've barely seen you since you've been back.”
+
+“I'm sorry about that.” Ren said. “I'll be spending a lot more time here in a couple of months, though.”
+
+Anabelle sighed dramatically. “I have to wait for a couple more months?”
+
+Ren ran his hands up her sides, and lightly caressed her breasts. Anabelle gasped and shivered as he moved his hands and massaged her chest.
+
+“I meant that I won't have to go there anymore by then.” He said, and squeezed her chest. “I didn't mean that I'd deny your needs until then.”
+
+“But... you still need to... go...” Anabelle said, and bit her lip so she wouldn't moan out loud.
+
+“I do... but, I promise that when I come back next time, I'll give you what you want.”
+
+“No arguing? No saying no?” Anabelle asked, and he could hear the hope in her voice.
+
+“I accepted responsibility for you when I destroyed your old contracts with Lord Eric, and again when I made the new one.” Ren said. “I can't bitch and moan now that I didn't know what I was doing.”
+
+Anabelle laughed, grabbed the back of his head, and bent down to kiss him. “You're so sweet, I just want to eat you all up.” She said, and kissed him. When she broke the kiss a moment later, she bit his bottom lip. She didn't do it hard or maliciously; it was only enough to pull on his lip a little, and teased of the things to come.
+
+“See you soon.” Anabelle said, and let him go. Ren nodded, opened the cabinet, and stepped inside. Teepo dissolved into the ring, and Ren stepped through the portal. He summoned Teepo on the other side after he felt the familiar pain on his hand, and went downstairs as the tarantula crawled back into the cloak.
+
+That was fast. Princess thought to him, and stood up. I do not need food yet.
+
+Ren smiled at her, and scratched her chin. He opened up her stat menu and saw she had leveled up a couple of times, just like he did.
+
+“Let's divide up your skill points.” Ren said, and she told him where to put them.
+
+Thank you. Princess thought. I'm sorry I missed the fight.
+
+“So am I.” Ren said. “I can just imagine the look on his face if you'd rammed him in the chest!” He sent her the mental image he'd thought of, and Princess brayed in amusement. He led her outside and made sure the door was locked, then climbed up into the saddle. Princess took off and ran for all she was worth. Teepo chittered in delight, and Ren laughed as he felt how happy Princess was that she could be his mount for real, and not just in name only.
+
+They got back to House Neram Keep 50 minutes later, and Ren got her settled into the stable. He glanced at Ruck's door, and made a decision. He stepped to the door and knocked loudly.
+
+“Ruck! I haven't seen you in forever! Are you okay?”
+
+There was no answer, and Ren frowned.
+
+“That's it! I'm tired of you not coming out to see me or anyone else! I'm coming in!”
+
+There was still no answer, so Ren tried to open the door. It wouldn't budge.
+
+“Looks like I'm doing this the hard way.” Ren said, and took out a hammer and chisel. Since the hinges for the door were on the inside, and the door swung inwards, Ren put the chisel where he'd mounted the hinges, and hammered them out. Ren heard the wood groan and the door loosened. He stored the door and was surprised by what was inside. It was Ruck, except he filled all of the available space.
+
+“Ruck!” Ren exclaimed, and grabbed the wall the door was mounted in. He used Iron Grip with both hands, and pulled. The wall broke apart and splintered, and Ruck's trapped arms and legs were now free. Ren stepped back, and Ruck leaned forward to stand on his legs. He was nearly 10 feet long, and 5 feet wide, and his hand reached out and pat Ren on the head.
+
+“I'm so sorry, Ruck.” Ren said, and hugged Ruck's head. “I thought you were mad at me for being gone so long.” He said. “I had no idea that you were trapped!”
+
+Ruck hugged him back, and then tapped him on the back.
+
+“What is it?” Ren let the hug go, and stepped back.
+
+Ruck pulled 100 Health potions out of his inventory and held them out. Ren stored them, and Ruck passed him 100 Mana potions.
+
+“You taught yourself to make potions!” Ren said.
+
+Ruck used a finger and poked Ren in the forehead, then made a 'T' shape, and a number '1'.
+
+Ren chuckled. “Tee-one taught you.” He said and pat Ruck. “Thanks for all your hard work.”
+
+Ruck made the 'okay' gesture.
+
+“You're just as big as Lylyth's spider familiar.” Ren said, and Ruck gave him a 'thumbs up' gesture. “I think I need to make you a better place to live.”
+
+Ruck shook his head from side to side, and Ren looked at the remnants of the space he'd made for Ruck.
+
+“You're not going to fit back in there.” Ren said, and Ruck motioned to the rest of the stable. “I... oh, all right. I'll make sure you have a nice place when we get back to Aurora, okay?”
+
+Ruck pat Ren on the head again, and Ren laughed. He gathered up the wood pieces and splinters, and went outside to the fire elemental's pen.
+
+“Hi, there!” Ren said, and tossed the wood into the pen, and took out the door as well. He used a web wand a few times on the pile of splintered and damaged wood, and the fire elemental came out of the fire and wind enchantments and jumped onto the pile. Ren couldn't resist the temptation and hopped into the pen. He picked up the fire elemental and cuddled it. It's head stub rubbed on the side of his face, and he laughed.
+
+“Yes, I know I should spend more time with you.” Ren said. “For now, how about I give you one of the last strips of Spider Silk Cloth that I have?”
+
+The fire elemental's color changed slightly, and Ren took out a long strip of it. He held it out for the fire elemental, and it started to pull it into itself. It was a long strip, about twice the length of the elemental, but by the time the last of it entered the fire elemental's head stub, it could no longer be seen.
+
+“Oh, you definitely have a big appetite!” Ren said, and tickled it's belly. He heard a loud crackling fire, and hugged the elemental close. “I just love that sound.” He said, and kissed the head stub.
+
+The fire elemental's color changed to a bright yellow, then it went almost white for an instant.
+
+“I love you, too.” Ren said, gave it one more squeeze, and put it down on the web-covered pile of wood. The fire elemental danced around the pile, and lit several places on fire. It was being smart about how it consumed things, and once the wood from underneath was exposed, it burrowed inside.
+
+“Be careful.” Ren said, and it poked it's head stub out through the hole it had made. “Make sure you have air holes.”
+
+It bobbed it's head stub, and disappeared. Ren got out of the pen and went into the house.
+
+“You're back!” Nathalia said, and hopped into his arms. Ren chuckled as he caught her, and she nuzzled his neck.
+
+“So this is okay, but I can't hug you in public?” He laughed as she grabbed his beard and pulled on it a little.
+
+“Can you imagine what would happen if she did that in public?” Ereka said and laughed. “You're lucky there's no precedent for kicking a Head of House out of their own House!”
+
+Ren and Nathalia laughed, and he put her down.
+
+“I've caused enough scandals in the Dwarven Kingdom by this point.” Ren said. “I honestly don't need to cause another one right now.”
+
+“Definitely not.” Nathalia said. “Now sit down and tell me what happened.”
+
+“What do you mean?” Ren asked.
+
+“Please.” Nathalia said and tapped his heart. “I can feel that something is bothering you.”
+
+Ren sighed, and sat down to eat. The two women joined him at the table and he told them about the Adventurer that wanted to kill him so the refugee giants would be wiped out, and the Garrison would be destroyed.
+
+“By the gods.” Ereka whispered. “How could they be so stupid?”
+
+Ren smiled. “That's what I said to him.”
+
+“What are you going to do?” Nathalia asked.
+
+“I'll have to deal with Adventurer's business for a while.” Ren said. “I don't think anything will happen with it right away, but if I wait too long to bring it to someone else's attention, they might get rid of all the evidence.”
+
+“Then what are you still sitting there for?” Nathalia said and stood up. “Get in there on the couch and deal with it.” She pointed to the main room. “Right now.”
+
+Ren stood, and gave her a kiss. “Yes, Ma'am.” He said, and went to the couch. He took off the Dire Wolf Hooded Cloak, laid it on the small table, and sat down. Teepo flew up to the ceiling, and Ren leaned back on the couch.
+
+“Logout.”
+
+********
+
+Ren slipped off the VR headset and saw that Barbara was on the cell phone.
+
+“That's right.” “Yes.” “He's fine.” “Yes, really.” “I've sent the footage like you asked.” “Yes.” “Okay, I'll tell him when he... oh, there he is. Just a second.”
+
+Barbara held the phone out to him, and Ren took it.
+
+“Hi, Elise.”
+
+“Ren! You're okay!” Elise said.
+
+“Like Barbara said, I'm fine.” Ren said. “Did she tell you it was Charles from the tech department?”
+
+“Yes.” Elise said, and Ren could hear the anger in her voice. “That little pip-squeak is going to have his neck wrung when I see him tomorrow morning!”
+
+“I don't know if you want to finish him off so quickly.” Ren said.
+
+“Finish him?” Elise chuckled, menacingly. “That's just the start of what I'm going to do to him!”
+
+“Elise.” Ren said.
+
+“Yes?” Elise responded, fully prepared for him to get angry about it.
+
+“Thank you.” Ren said. “That makes me really happy.”
+
+“Wh-what?” Elise said, surprised. “You... you're happy?”
+
+“You're willing to defend me like that, even though he only attacked me in the game.”
+
+“Ren, I told you before.” Elise said, seriously. “No one is more important than you.”
+
+“Elise...”
+
+“I've already relayed the footage to my boss, the CEO of Sid Tec.” Elise said. “I can't do anything else right now; but, you can bet your cute little ass that I'll deal with it first thing in the morning.”
+
+Ren laughed. “I think you're confusing us.” He said. “You're the one with the cute ass.”
+
+“I don't think so.” Elise said. “Between the two of us, you're definitely cuter.”
+
+“Have you seen yourself in a pair of jeans?” Ren asked, and she laughed.
+
+“Let's just agree we're at an impasse.” Elise said, and then went quiet for a minute.
+
+“I really am fine, Elise.” Ren said, reading the silence correctly. “Watch the footage and you'll understand.”
+
+“I... all right.” She said. “I'm glad you're okay.”
+
+“So am I.” Ren said. “I'm sorry for waking you up.”
+
+“Oh, don't worry about that.” Elise said. “I'm going to sleep much better, now that I've heard your voice and know you're okay.”
+
+“Goodnight, Elise.”
+
+“Goodnight, Ren.” Elise said, and hung up.
+
+Ren handed the cell phone back to Barbara. “Thanks, Barbara.”
+
+Barbara put the cell phone on the dresser and looked at him. “You're not going to yell at me for calling her so late?”
+
+“Of course not.” Ren said. “I was going to call her myself.” He smiled. “You were just a step ahead of me.”
+
+Barbara smiled and nodded. “I thought that's what you were going to do.”
+
+“She's like a direct connection to the game company. If we didn't call her after something like this happened, I think she'd be pretty mad.” Ren smiled. “Heck, we called her and she's still pretty mad!”
+
+Barbara chuckled. “Is she ever!” She said. “You've got a fervent defender there, I'd say.”
+
+Ren nodded. “She's also smart, sexy, nearly 2 feet taller than me, and doesn't mind that my body's like this.” He grinned. “She's pretty great.”
+
+Barbara nodded. “I assume you're going back in right away?”
+
+“Um... actually, now that I'm out...” Ren raised the bed up to put him into a sitting position. “I need a number 2.”
+
+Barbara helped him down off the bed and into the bathroom. When he was done, she helped him get back into bed and get settled, then he put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, and Teepo told him he'd been gone for nearly 2 hours. He landed on Ren's shoulder as Ren snuck out of the house and went up to the workshop. He enchanted the pieces of the Automatic Ballistas and helped Tee-one assemble them. Once the cartridges were attached, Ren stored them with the others. He now had 8 of them, and each had a hundred shots. He figured that should be more than enough to deal with 30 giants, no matter how well they were trained.
+
+Ren thanked Tee-one for all of his help, and asked if he wanted to fight the giants. Tee-one said he would do whatever Ren wanted him to do.
+
+“That's not usually how asking works.” Ren said and chuckled. “I ask, you answer. I'm not going to make it an order.”
+
+“Would you rather I stayed here and worked?”
+
+Ren took a breath and let it out. “You're deliberately not answering until I give an opinion, aren't you?”
+
+Tee-one smiled.
+
+“I'd rather you keep working.” Ren said and smiled back.
+
+“Then I decline your offer to fight.” Tee-one said. “If you're getting the dwarves to help, I'll only be in the way, anyways.”
+
+Ren looked at the smelters. “I've got a plan I need to make, but...”
+
+“There's an empty workbench right over there.” Tee-one said. “Have fun.”
+
+Ren smiled and went over to the workbench. He took out the small wind-up toy boat that he'd found, and then his tools. He carefully pried off everything that could be pried off, and he was left with just the main part of the boat.
+
+“Here goes nothing.” Ren said, and gently used the edge of a tiny saw to cut into the top of the boat. He went slowly, because he didn't know what was inside, and didn't want to damage anything. He made it all around the edge, and successfully cut the top off. He lifted the top off to see the inner workings, and examined them. He turned the key to see how the mechanism worked, and the large metal coil compressed slightly.
+
+“No way.” Ren said, and watched as the coil spring kept getting smaller the more he turned the key. When it was as far as it could go, he let the key go. Nothing happened, and he frowned. He picked the toy up and looked at anything that might be sticking out a little. He didn't see anything, and put the toy down.
+
+“Something needs to release the coiled spring.” Ren said to himself, then noticed the top he'd cut off didn't sit flat on the workbench. He picked it up, and there it was. A small protrusion that he assumed hit the mechanism. He flipped it over, and realized that the top cabin needed to be pushed down to start the boat.
+
+Once he knew that, he picked up the bottom of the boat and used the tip of a small tool to simulate the cabin being pushed down. He saw a small gear move in, and a little lever released the coiled spring. A loud whir accompanied this, and the wheels on the bottom of the boat spun furiously. The spring uncoiled in only a couple of seconds and the wheels rolled on by themselves.
+
+Ren wound it up only a couple of times, set the boat on the workbench, and hit the spot where the protrusion would hit it. The boat moved about a foot, and stopped.
+
+“So, it needs some kind of resistance, or the spring tranfers all of it's energy right away.” Ren said, picked the toy up and wound it a couple of times. He examined it as he hit the switch to see what parts moved where, what stayed still, and how the gears transfered the energy to the wheels. He repeated this a few times, just to make sure he understood how it all worked, what size the gears needed to be, and how they should all be attached. Ren grinned when he received a popup.
+
+Notice!
+
+You have learned a new recipe: Wind-Up Toy Boat
+
+Ren moved the toy boat aside, and took out a piece of wood. Since the original was made of wood, he needed to see if he could reproduce it and still have it work. With the system's help and guide outlines for the parts, it took Ren about half an hour to fashion all of the pieces needed to make the toy. All he needed now was the coil spring.
+
+Ren went into the forge room and took out a 2 foot by 2 foot paving stone. He used a small chisel to dig out a very thin channel from corner to corner, two and a half feet long. Ren poured a small amount of molten metal out and let it fill the channel. He absorbed some of the heat from it, folded it over, and stuck it in the forge. When it was hot enough, he hammered it out to the same length it was and folded it again. Ren repeated this several times, and when he thought it was enough, he stuck it back into the forge.
+
+When it softened, he took it out and started to wrap it around his finger. He knew the right size and shape it had to be, so he absorbed the heat as he made looser and looser coils, until he got to the end and bent it to hook into the main gear. He polished it to increase the Durability, and went back out to the workbench. He assembled all of the pieces in the proper order, and he didn't have any problems. Surprisingly, the pieces snapped together easily, and didn't need to be nailed or secured in any way.
+
+I guess they'd have to introduce glue or something otherwise. Ren thought, and put the new toy boat on the workbench. He'd even made all of the external parts; a sail, a rudder, and even a little figure to sit in it. He took a deep breath, reached out, and turned the key several times. The boat sat there, and he tapped the cabin. It released the coiled spring, and the boat took off across the workbench and flew off the end.
+
+“Oops.” Ren said as it clattered to the floor. He went over to it, and saw that it had survived its fall unscathed.
+
+Notice!
+
+You have unlocked a new skill: Craft Toy Level 1 (Beginner 0%)
+
+This skill allows you to make various toys. Recipes known: Wind-Up Toy Boat. Higher levels will allow greater speed and ease making new toys, and unlocks new recipes if you are unable to find them on your own.
+
+“Cool.” Ren picked it up and grinned. “I can make toys!”

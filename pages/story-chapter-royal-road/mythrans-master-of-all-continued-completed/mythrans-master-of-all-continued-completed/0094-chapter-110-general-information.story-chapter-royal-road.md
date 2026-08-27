@@ -1,0 +1,509 @@
+---
+id: 5106d6a4-7f52-5008-94d3-5a10d5ca2319
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110 - General Information"
+slug: 0094-chapter-110-general-information
+partOf: mythrans-master-of-all-continued-completed
+position: 94
+ownLength: 4961
+unit: words
+publishedAt: 2016-12-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106922/chapter-110-general-information"
+royalRoadId: "106922"
+---
+
+Ren switched his Command Aura back to Camaraderie, and ran back to the main city area. When he went to take the turn onto the main road to House Neram, he had a thought.
+
+You know what, Teepo?
+
+“What, Ren?”
+
+I'm getting tired of having to ask people where everything is. Ren turned towards the Main Keep. It's time I got some answers. Ren ran to the keep and then stood in line, and found it wasn't as long as before. They're probably getting ready to go home for supper.
+
+“I'd say so.” Teepo said. “In their rush, the guards are barely checking people.”
+
+Ren looked around, and he was the last in line. I'm either just going to make it, or just miss it. He stepped up to the guard, who barely pat him, and then shut the gate with a clang. Whew, that was close.
+
+It didn't take long for Ren to get to the reception desk, and when he got there, he spoke before the female dwarf could start her rundown of the departments.
+
+“General Information, please.”
+
+She smiled, and pointed to the right. “First door on the left.”
+
+“Thank you.” Ren said and went to the indicated door. Teepo, you're up.
+
+Teepo hopped out of the hood and slipped under the door. A moment later, he sighed. “Crap.”
+
+What is it?
+
+“Do you remember what the back room of the Library looked like?”
+
+Ren thought about it. Yeah, why?
+
+“That's what this looks like.” Teepo said. “There's a short hallway, I assume to get past the other offices, but the room at the end has to be a good portion of this side of the Main Keep.”
+
+I'm surprised this isn't Records, then.
+
+“It probably is.” Teepo said. “General Information would need access to the records, I think.”
+
+That makes sense. Ren thought, opened the door, and stepped into the hallway. Is there a desk or anything?
+
+“Not that I can see. Just a minute.” Teepo said and climbed up the wall to get a better look. “Okay, I see one. It's about 30 feet in, surrounded by shelves.”
+
+Get to the ceiling if you can, then you can see down into the rows of shelves, rather than trying to look in each row.
+
+“Got it.” Teepo said, and skittered up the wall to the ceiling. He ran as fast as his little legs could carry him, and chittered in laughter as he made it to the desk a minute later. Teepo positioned himself on one of the lights and hung above the dwarf's head, about 50 feet up. “I'm here. All clear so far.”
+
+Thanks, Teepo. Ren thought then opened the door at the end of the hallway and entered the General Information / Records room. He walked the 30 feet to the desk and saw a female dwarf sitting there, about halfway through reading a book. She wore glasses, had short brown hair, and surprisingly, wore a set of Traveller's Clothes (without the cape).
+
+“Pardon me, Ma'am.” Ren said in a soft voice, and startled her out of her book.
+
+“Ahh!” She squealed, and dropped the book. It hit the desk and flopped closed. She looked at it and sighed. “I lost my place.”
+
+“Sorry about that.” Ren smiled and reached for the book. “May I?”
+
+She nodded slightly and Ren picked it up. A hard cover romance novel. He thought and flipped through the pages to where he thought she'd read to, and handed it back. “I think that's pretty close to where you were.”
+
+She took it and read a little, then flipped forward about 10 pages. “That was close, thank you.” She looked on her desk, lifting things. Ren guessed what it was she was looking for and took out a scrap piece of cloth. He folded it and stitched it into a long strip and handed it to her.
+
+“You can use this until you find your actual bookmark.” Ren said. “It's just a scrap piece of cloth, but it should work.”
+
+She looked at him in surprise. “T-thank you.” She took it and placed it in the book and closed it. “What can I do for you?”
+
+“Well, I came here for General Information; but considering the look of the place, I assume it's Records, too.”
+
+She nodded. “You're right, it's both.”
+
+Good guess, Teepo!
+
+“Thanks.”
+
+“So what do you want to know?” She asked, and waved to a chair.
+
+“Everything.” Ren said and sat.
+
+“E-e-everything?”
+
+Ren grinned. “Sorry, personal joke. I need to know where I can rent a horse and cart, where to file a land claim, if there is a Library of some kind, where to buy lots of wood...”
+
+“Wait, wait!” She said and chuckled. “You weren't kidding.”
+
+Ren shook his head.
+
+“Okay, just a minute.” She opened a drawer and took out a directory. Ren stared at it as she put it on the desk. She saw his reaction and laughed. “I can't give you this, you know.”
+
+Ren smiled. “Not even a copy?”
+
+She shook her head. “I'd lose my job, assuming they didn't charge me with giving away dwarf secrets.”
+
+Ren's eyes widened. “Why would they do that? It's just general knowledge, isn't it? A list of local businesses and Houses, and what they sell?”
+
+She nodded slightly. “It is, but you have to ask for it. To ask for it, you have to come here to the Main Keep.”
+
+“That's a little odd, but it explains why there isn't a map by the docks telling everyone where everything is.”
+
+“A map?” She asked. “I have that, too.” She said and turned around to take out a roll of parchment from a nearby shelf.
+
+“Whoa.” Ren said as she unrolled a huge map of the city, with everything marked. Teepo! Ren thought, and as the female dwarf bent over the map, Teepo dropped from the ceiling and Ren reached out to catch him. Can you help me memorize it?
+
+“I sure can.”
+
+They studied it closely for about 10 minutes. Ren ran his hand over the surface and traced his route from the docks to House Neram. The land boundaries were clearly marked and Ren smiled. There were no other Houses anywhere near House Neram and the land itself was actually 2 square miles in size. He had plenty of space for all that silt, and for his idea.
+
+“You wouldn't happen to have the plans for House Neram, and House Neram Keep, do you?”
+
+“Every plan for every House is here. Why?”
+
+“It's my House, and I have to fix it up. Frankly, its a mess. Walls and ceilings collapsed, probably floors, too. I need to know what it looks like.”
+
+She walked down an aisle and disappeared around a corner. She came back a few minutes later with a bundle of parchment rolls.
+
+“Here you go.”
+
+“Can I make copies of these?”
+
+“Those are the copies. We keep multiples on file at all times.”
+
+“Well, that's great. How much do I owe you for these?”
+
+“Nothing. It's covered in House Neram's taxes.”
+
+“Oh. Well, thank you.” Ren said and stored them in the slot where the sandwiches were, and returned to examining the map. “Library... Library...” Ren said, scanning the city. He found the lumber yard and stables, but the Library escaped his eye.
+
+“Here.” The female dwarf pointed to a tiny little building, completely surrounded by Houses.
+
+You were right again, Teepo. Ren thought. No wonder I couldn't see it!
+
+Teepo chittered in delight.
+
+I think I've got a good handle on where everything is now. Ren thought. How about you, Teepo?
+
+“I can guide you when you need it.”
+
+Awesome. Ren thought, then looked at the female dwarf. “Thank you for showing me this.” He said. “Now, where can I file a land claim? Or do I have to?”
+
+“Where is this land?”
+
+Ren smiled. “I know this is a stupid question to ask; but, do you have a bigger map of the countryside?”
+
+She grinned. “Yep, that's a stupid question.” She said and grabbed another roll of parchment from the shelf behind her. She unfurled it, and Ren followed the road out of the city towards the convent. With Teepo's help, he estimated where the mountain was.
+
+“Right about here.”
+
+“Well, you're lucky. That's out past where anyone else has any kind of claims.”
+
+“That's good.”
+
+“Why do you want it?”
+
+“Well, if I have to give you a reason, it's where my fiance and I fought a giant boar together.”
+
+The female dwarf's eyes widened. “You... you... did you really fight... the Deathgore?”
+
+“The what?”
+
+“The Deathgore.” She said and sat down, shocked. “You fought the Deathgore... and lived.”
+
+“Is that it's name, or it's type?”
+
+“It's the name. There's only the one.”
+
+“Oh...” Ren said, a little sad. “I feel a little bad about killing it, then.”
+
+“YOU KILLED IT?!?” The female dwarf yelled, and her voice echoed through the room.
+
+“With my party's help.” Ren said.
+
+“By the gods!” She said and fanned her face with her hand. “You killed it.” After a few minutes, the shock wore off and she stood up. “Everyone will know what you've done, sir.” She took out a form from her desk and filled some of it out. “Please tell me how it happened.”
+
+Ren shrugged and told her how they had camped for the night, far enough away from the road to be safe, but not too far to get back quickly, and during the night, something found them. He went out to investigate, and was attacked by a giant boar. It broke a tree in half, then he attacked it back. He told the female dwarf about how his fiance Nathalia, came riding in on his Bighorn Ram mount, to headbutt the boar and stunned it.
+
+“You have a giant ram as a mount?!?” She said, surprised. “How?”
+
+“It was a gift from a friend.” Ren said, then finished the story with the following attacks and the crushing of the boar's head. She filled in the rest of the form, and handed it to Ren.
+
+“Sign here, please.” She said. “This is your sworn account of what happened, and it will be logged into the archives for all to see.”
+
+Ren signed it and handed it back. “You don't need proof or anything?”
+
+“I can tell if you're lying.” She said. “But, an eyewitness would be... BY THE GODS!” She screamed as Ren pulled out the giant boar's body from inventory and put in on the floor.
+
+“Is this proof enough?” Ren said and grinned.
+
+“You really did it! I'm seeing it, but I don't believe it...” She said and came around the desk. “Can I touch it?”
+
+“Sure.” Ren said. “Just watch the head. It's a little... squishy.”
+
+She snorted a laugh and pet the fur of the boar. “Oh, my...” She almost purred. After a minute she stopped petting it and looked at Ren. “You're already engaged, too.” She said and sighed.
+
+Ren chuckled. “I'm already taken, yes.”
+
+“Oh, well.” She walked back around the desk, and Ren stored the giant boar's body again. She filled out a second form, Ren assumed was a witness statement, and rolled them up together. She walked over to a huge filing cabinet and opened a drawer. After checking the forms over again, she smiled.
+
+“Well, Mr. Ren...”
+
+“It's just Ren, Ma'am.”
+
+“Well, just Ren.” She said and grinned. “Welcome to the Hall Of Records.” She dropped the rolls of parchment into the drawer and shut it.
+
+Notice!
+
+You have registered your account of killing the Deathgore of Legend. Witness verified. The tale of your party's feat will be told to children for years to come.
+
+Influence: +1000
+
+Honor: +500
+
+Fame: +1000
+
+“Ma'am... I...” Ren stammered. “Thank you.”
+
+“It's everyone else that should thank you.” She said and came back to the desk. “That thing has killed so many of us...” She shook her head, then bowed slightly to Ren.
+
+Notice!
+
+You have gained Honor: +10
+
+“I'm going to tell your story to every person I know.” She sat down at the desk, then looked at the map again. “You indicated this area?” She said and pointed. Ren nodded slightly and she took out another form. She filled some of it out, then looked back at the map.
+
+“The standard registration fee is 10 gold for a square mile of open terrain.” She said. “You're not getting much usable land there, though.”
+
+Ren looked at the map, and the mountain was about twice that, and about half a mile from the road. He measured out 5 miles, covering the mountain he wanted, a mountain on each side, and the land up to the road. It was all water on the other side of the mountain range, so he'd own some of that as well.
+
+“You'd better give me these 10 square miles, then.” Ren said. “From the road there and out over the water. I don't want to get out there and discover that I missed the spot that I want.”
+
+The female dwarf's mouth fell open. “Are... are you kidding? That's a month and a half of working in the mines!”
+
+“You're right.” Ren said. “I better take the 5 square miles on the other side of the road, too.” Ren pulled out a platinum coin and 50 gold coins, and placed them on the desk.
+
+“By the GODS!” She exclaimed and looked at the coins, then at Ren, then back at the coins. “I... I've never seen...” She said, and picked the platinum coin up like it was made of glass and would break if she breathed on it. Ren didn't say anything and let her just sit there and enjoy it. After about 10 minutes, she put the coin down and finished filling out the form. Ren signed it and she rolled the form up, put the coins into a sack after counting them, and tied the sack and parchment roll together. She went to the same filing cabinet and dropped the rolled parchment and money inside.
+
+Notice!
+
+You have registered a land claim in the Main Keep. You now own 15 square miles of open terrain, far outside the city.
+
+The female dwarf opened the drawer underneath the one she put the form in, and took out a piece of rolled parchment. She came back to the desk and handed it to Ren. He opened it and read it.
+
+Land Deed
+
+This Deed indicates ownership of 15 square miles of land (Map Included). Copies can be purchased at the Hall Of Records for 1 gold coin.
+
+Note: A permanent structure must be built on it within 1 year.
+
+Notice!
+
+Your aquisition of such a large plot of land has gained you Influence.
+
+Influence: +1500
+
+“Wow.” Ren said. “Can I register another land claim?”
+
+The female dwarf shook her head. “You'll have to wait until next year.”
+
+Ren raised a single eyebrow and she chuckled.
+
+“Only one claim each year.” She said. “Usually it takes that long to pay it off, so it's never been changed.”
+
+“Oh.” Ren said. “I guess I should have asked about it first.”
+
+“I'd have thrown you out of here if you'd asked me first.” She laughed. “I think you're crazy already. That would have been completely outrageous.”
+
+Ren smiled. “I'll have to wait, then.” He took out the bundle of House Neram plans, put the deed inside, then stored them again.
+
+“You only have to wait for a few months.” She said. “Just until the Council goes back into session.”
+
+Ren stood up. “Thank you for all of your help, today.” He said and bowed slightly to her. She had a surprised look on her face for a moment, then she smiled.
+
+“You're welcome.” She said. “It was a pleasure meeting you.”
+
+Ren took out another gold coin. He put it on her desk, holding it on it's edge, then flicked it with his finger. It spun in place for several seconds and then fell over. He did it again, but hit it a little harder and the coin slid across the desk towards the female dwarf, spinning the whole time. It came to a stop in front of her and she picked it up.
+
+“What's this?” She said, with a slight frown, looking like she might get angry. “We're not allowed to...”
+
+“It's just a nice toy for you to play with, if you want.” Ren said and smiled as he turned away. “It spins nicely, doesn't it?” He said and walked away from the desk towards the door.
+
+*
+
+She watched him go out the door, and didn't call him back to take his 'toy'. She chuckled and spun the coin on her desk. “Who would have thought?” She said and spun the coin again. “To come up with such a simple way to tip someone, without actually tipping them, or insulting them...” She shook her head and sighed. “...and he's taken.”
+
+*
+
+Ren left the Main Keep, quite happy with how things were turning out. He walked down the street and took the turn to go to the lumber yard. 5 minutes later, he was at the main desk. The receptionist looked at Ren and smiled.
+
+“How can I help you?”
+
+“I'd like to order some planks, a few 4x4s, and nails.” Ren said.
+
+“That's no problem.” She said. “How many would you like?”
+
+Ren thought about it. “It would depend on how thick and wide the planks are.”
+
+“We have several widths and thicknesses.” She said. “Would you like to see?”
+
+“I would, thank you.”
+
+“This way.”
+
+Ren followed her and she took him into the main warehouse. “Here we have the 1 foot wide, the 8 inch, the 4 inch, and the 2 inch.” She said, and pointed to each stack. “Everything is 8 feet long.”
+
+Ren looked at them and saw they were all 1 inch thick. “Can I ask the price?”
+
+“The foot wides are a copper each. The others are multiples per copper. Three 8's for 2 copper, Three 4's for 1 copper, and five 2's per copper.”
+
+“I don't know how big the rooms I'm trying to fix are, or how wide the floors are.” Ren said. “I think I better play it safe and order 10,000 of the foot wides.”
+
+She gasped. “Are you serious? You want 10,000 foot wide planks?”
+
+“At a copper each, that's only 1 gold coin; but, you're right. I'll need something for the edges. Better add in 900 of the 4's for a silver coin.”
+
+She stared at him and blinked a couple of times. “I... I think we only have about 5,000 of the foot wides in stock.”
+
+“That's fine. I won't need them all at once, anyways. Why don't you just deliver 1,000 to House Neram tomorrow, with a half dozen or so 4x4s and a crate of nails. I doubt I'll go through them before the end of the week, so you can deliver another 1,000 planks then, and each week afterwards.” Ren said. “I wouldn't want you to go through all of your stock, and have nothing to sell when someone else comes in.”
+
+“That's very kind of you, sir.”
+
+“I've got other things going on, so I won't need them all right away.” Ren said, then looked at her. “Does the cost go up because you have to get workers out to harvest more trees?”
+
+“It does a little, but we've never had an order of your size before.”
+
+Ren smiled. “Would another gold or two cover that?”
+
+She looked at him in shock. “You want to pay more?”
+
+“If it'll help you get the work done.” Ren said.
+
+“You're crazy.”
+
+Ren chuckled. “That's what everyone says.”
+
+She smiled. “Alright, let's go back to the main desk and fill out the forms.” Ren followed her to the desk. She sat down and took out 2 forms, as Ren walked around to the front of the desk and put 3 gold coins on the top.
+
+“You're paying for it?” She said, surprised.
+
+I think everyone will be shocked that I want to pay for things. It's so ingrained into their society to work off their debt, that no one even questions the logic anymore. Ren thought and smiled as she put one of the forms away then filled out the other. Ren signed it and she took the 3 gold coins.
+
+“Thank you for your order, sir.” She said and beamed a smile at him.
+
+“You're welcome.” Ren said and smiled back. “I might need more than that, but I'll wait until I go through what I've ordered first before ordering anything else.”
+
+She had a surprised look on her face, as Ren left the office. He walked down the street, and over 2 blocks to the stable. He knocked on the office door and was surprised to see it had a window. A hand waved him inside and he entered.
+
+“Be with you in just a minute.” A female voice said. Ren looked at her and admired her clothing. It was a classic riding outfit, with the beige pants, red overcoat, and black hat.
+
+Is it just me, or does the majority of these businesses have women running things?
+
+“It's not just you.” Teepo said. “They either have a better head for business, or can deal with customers easier.”
+
+I'd agree with both of those. Ren thought as the female in question tried her best to pull a nail out of the top of her desk.
+
+“Ugh!” She exclaimed.
+
+“Can I offer to help, without you taking it as an advance?” Ren asked.
+
+She snorted a laugh and waggled a hand out for him to see the iron ring on her hand. “Married.”
+
+Ren chuckled. “Then please, allow me to help.”
+
+She let the hammer go and stepped aside. Ren looked at the mess she'd made of her desk. “Were you trying to fix it, or break it?” He asked and grinned at her.
+
+“Fix it.” She said. “My hand keeps slipping, and the wood is thick and hard.”
+
+It was Ren's turn to snort a laugh and he clamped his mouth shut, so he wouldn't laugh out loud. Teepo had no such problem; he chittered in laughter, and rolled around in the hood.
+
+“Is everything all right?” She asked as she saw Ren's expression. He took a deep breath and smiled.
+
+“Yes, I'm fine.” Ren said, and easily popped the bent nail out of the desk's top. He turned the nail on it's side, and hit it with the hammer twice to straighten it out, then nailed it into the hole he'd just pried it out of. She marveled at Ren's skill, and handed over a few more nails.
+
+“You might as well do the rest.” She said. “Please.”
+
+Ren examined the desk and saw where the nails needed to be, and nailed the desk's top down in seconds.
+
+“Where were you 10 minutes ago?” She said in surprise.
+
+“Ordering wood and nails, actually.” Ren said, then smiled as he saw she was only 2 inches shorter than him.
+
+“That's oddly appropriate.” She chuckled. “Now that you've fixed my desk, what can I do for you?”
+
+“I'd like to rent a cart, or several carts, and horses to pull them... and maybe workers to drive them, and do basic labor. Shoveling dirt in and out of the carts.” Ren said.
+
+“You don't want much, do you?” She said and laughed.
+
+Ren shrugged. “I figure you'd know people that can drive the carts safely, and can handle the horses properly. The work would last a few weeks, depending on the number of carts, trips to the mine, how many hours they work per day...”
+
+“Okay, okay!” She said and laughed again. “You've obviously thought about it. How many carts and drivers do you want?”
+
+“How much is the rental?”
+
+“It's a gold a day for each cart and pony. That includes feed and a driver.” She said.
+
+“How many carts do you have?”
+
+“At the moment, 6 of them.”
+
+“Can you spare them all?”
+
+“All!” She exclaimed.
+
+“Sure. If I have 6 carts, and they only did 2 trips an hour for 8 hours, that's almost a hundred cartloads of dirt a day.”
+
+“But...”
+
+“Will the driver be willing to shovel? What about an extra worker?”
+
+“But...”
+
+“With 2 people working, I might get 3 loads an hour per cart...”
+
+“WAIT!” She shouted. Ren looked at her with a raised eyebrow and she smiled. “You're serious? You want to rent 6 carts a day at a gold each?”
+
+Ren nodded slightly and she stared at him.
+
+“I can get another worker for each cart, as long as you don't mind women working for you.”
+
+“Of course I don't mind.” Ren said. “Do I pay you the gold each day, or the driver?”
+
+“You pay me for the cart and driver, but for the extra labor, you pay them.” She said.
+
+“When can they start?” Ren asked. “Is tomorrow too soon?”
+
+Her mouth dropped open. “Ah...”
+
+“It's okay if tomorrow's no good.” Ren said. “I want them to start as soon as possible, though.”
+
+“I... I think I can get everything ready for tomorrow.”
+
+“That would be great!” Ren said and grinned. “Send them to House Neram. I assume it'll be after breakfast?”
+
+She nodded slightly. “They have families to take care of before going to work.”
+
+“That's not a problem.” Ren said. “They can even leave early to go home and make supper for their families, too.”
+
+She looked at him like he was crazy, and Ren chuckled.
+
+“I'm not trying to work them to death, Ma'am. I just want as much as I can get from them in the limited time available.” Ren said.
+
+She took out 2 forms and Ren smiled. “Just the contract is fine, Ma'am. I'll pay for a month upfront.”
+
+“A-a-a month?”
+
+Ren nodded slightly. “Is a day off each week, okay? I don't want them to get overworked.”
+
+“A... a day off a week is reasonable.”
+
+“Good!” Ren smiled as she filled out the single form. He signed it and handed her 2 platinum coins. She stared at them and looked back at Ren.
+
+“Oh, sorry!” Ren said and took 1 platinum coin back, then handed her 100 gold coins. “I keep forgetting that people might not have change.” He said and smiled. “That's enough for 3 extra days, just in case I need them longer.”
+
+She stared in shock at the pile of money on her desk.
+
+“Make sure you tell the drivers and extra workers that I pay well for a good day's work.” Ren said.
+
+“I... I will.” She said as Ren left her office.
+
+That went well. Ren thought as he walked out to the street. It's all coming together, Teepo!
+
+“It sure is, Ren.” Teepo said as Ren started to run.
+
+I better get back to House Neram for supper. Ren thought. I need to fill Nathalia and Narhilda in on everything I did today.
+
+“Do you think they're going to like what you have planned?” Teepo asked.
+
+With the silt from the mines?
+
+“Yeah.” Teepo said.
+
+I'll have it far enough away from the house that they won't even notice. Ren thought then ran all the way back to House Neram, and went inside to have a great meal with his fiance and her mother. Ren told them all about what had happened since he'd left that afternoon. His deal with the mine, hiring the carts, buying the wood, and visiting the Main Keep for information and buying the land around the mountain.
+
+“You did all that this afternoon?” Nathalia said, surprised.
+
+“I might have done a bit more, but I wanted to get back here to enjoy a wonderful meal with 2 beautiful women.” Ren said and grinned. “I definitely didn't want to miss spending this time with you.”
+
+Both Nathalia and her mother blushed a little at Ren's truthful admission.
+
+“Things are going to be hectic around here for a while, with all the things I have planned....” Ren said. “...but I won't sacrifice time with you to do it.” He said and stood. “Of course, now that I've said that... I have to get to bed.”
+
+Narhilda laughed. “Sleep needs some of your time, too.”
+
+“Only enough to keep me going.” Ren said. “Any more than that is a waste.”
+
+Nathalia stood up and held out a hand to Ren. “Goodnight, Ma.”
+
+“Goodnight, dear.”
+
+Ren took Nathalia's hand and bowed slightly to her mother. “Goodnight, My Lady.”
+
+“Goodnight, dear.” Narhilda said and smiled.
+
+They walked through the main room and down the hall to the old bedroom. Nathalia led Ren inside and to the bed, then went back and shut the door.
+
+“I really do need to sleep for about 4 hours, then I need to take care of some Adventurer's business, probably for the rest of the night.” Ren said to Nathalia as she came over to the bed.
+
+“I know.” She said and crawled onto the bed and laid down almost in the same spot as before. Ren smiled and crawled over beside her and laid down himself. Nathalia cuddled into his chest and Ren gave her a half-hug and let his hand rest on her hip. They both took a deep breath and exhaled together.
+
+Teepo, wake me in 4 hours if I'm not up.
+
+“Sure thing, Ren.”
+
+“Goodnight.” Ren said, and Nathalia lifted her head to look at him, and he kissed her. She reached up and stroked the side of his face for a moment, and then broke the kiss.
+
+“Goodnight, Ren.” She said and cuddled into his chest again.

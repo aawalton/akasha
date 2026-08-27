@@ -1,0 +1,369 @@
+---
+id: 54cb246f-2fce-5891-a44a-39d1281e0623
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83 - A New Mount"
+slug: 0067-chapter-83-a-new-mount
+partOf: mythrans-master-of-all-continued-completed
+position: 67
+ownLength: 5682
+unit: words
+publishedAt: 2016-11-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102929/chapter-83-a-new-mount"
+royalRoadId: "102929"
+---
+
+Ren woke up and got out of bed. “Ah! Another day and more to do.” He said and stretched. He left the apartment, went downstairs, saw the remains of his work from the night before and shook his head. “I should have pulled them apart last night when I took them out and examined them.” Ren sat down on the stool and pulled out each lamp, taking them apart and pulling out the wick. He was surprised the wick went all the way down the spout and then coiled around at the bottom of the lamp.
+
+“No wonder they burn for so long. It takes a long time for the oil to travel all the way up the wick to burn.” Ren noticed that the rivets holding on the handle were iron, and used his blacksmith's tools to pop them out, leaving only the copper and traces of gold for smelting.
+
+Ren turned on the forge and waited for the smelting apparatus to heat up. Once it was hot enough, Ren broke up the lamps one by one and put them into the smelter. The lamps were pretty thin, but after about 50 of them, the smelter was nearly full. Ren didn't stir the mixture, as he knew that the slight gold impurities would sink to the bottom. The molten copper simmered for a while and when some impurities came to the surface, they were skimmed off and put in the stone receptical by the forge. Ren looked into it and saw that the bottom was barely covered, and smiled. “It's going to take a while to fill that up.”
+
+Ren watched the smelter, and then wondered what he was going to do with the copper when it was ready. The 2 blank molds I have are too thick to be practical to use for copper. What can I use... He thought and then kicked one of the stone bricks he still had set out for making the sinks. That's a great idea! Ren stored all of the bricks that were still out, then set them into a 1 foot square, the exact size of a paving stone. I'll have to watch the thickness. Too thin and I'll have the same problem as the lamps, too thick and it'll be difficult to work with.
+
+Ren poured out some of the copper and let it fill the improvised mold, but only to about a quarter of an inch. He let it cool and took out a piece of charcoal to mark how high to fill the space. As it was so thin, the copper cooled quickly and Ren popped it out and set it aside. It came out to be just the right thickness. He repeated this process, filling the mold up to the line he'd made and kept making 1 foot by 1 foot squares of copper. When the smelter was about half empty, he added more of the lamps and let them melt, skimmed off any impurities if they appeared, then kept pouring squares of copper.
+
+Ren eventually used up all of the lamps and waited for them to melt. He equipped his blacksmith's belt and decided that with these squares of copper, he was going to make that lamp recipe. No impurities came to the surface and he smiled. Ren poured the next square and waited for it to almost completely cool, took it to the anvil and hammered out a lamp. He wasn't used to working with metal that was so soft, so the first one was pretty much mashed into shape, and Ren laughed.
+
+“This is definitely going to take some practice to get right.” Ren said and poured another square, then tossed the mangled lamp into the smelter. He worked for another half hour, just pouring and trying to make lamps. After the tenth one, he successfully had the technique down and the eleventh lamp came out perfect.
+
+“Ha! I did it!” Ren said and held up the lamp and his Vision of Impurity couldn't detect any flaws. He took out one of the 10 flasks of oil that he had purchased a while ago, rather than open one of the 5 crates he picked up yesterday. He poured just under half of a flask of oil into the lamp and that almost filled it. Ren dipped the whole wick into the oil, let it absorb as much as it could, then slid the wick up the spout of the lamp. He put the cover on top and took out one of the Ice glyph stones, absorbed the enchantment, and put a single Fire rune on it.
+
+“Here goes nothing.” Ren said, activated the Fire rune for an instant, and lit the lamp. It caught immediately and stayed lit. He set it on the stool he had sat on before and waited. It didn't flicker or go out. “Yes!” Ren exclaimed. He made another one, and then looked at the design. “You know, this could be easily adapted to hang on a wall or from a ceiling.”
+
+Ren took out a piece of parchment and played with the lamp's design, moved the opening from the top to the front of the lamp, under the spout, then straightened out the spout. He added two pieces on each side so that it could be nailed to the wall.
+
+“There. One wall mounted top loading lamp.” Ren said, then made 6 of them. He took one, loaded it with oil, and soaked the wick. It was a little harder to slip the wick up the spout because of the position of the opening, but Ren managed to get it settled. He nailed it to the wall next to the stairs and lit it. The spout was far enough away from the wall that there was no danger of fire catching, and the lamp itself didn't get hot because the spout was well away from the base and the oil inside. The only thing burning was the oil at the tip of the wick.
+
+Ren nodded and went up to the apartment and mounted 2 of the wall lamps in the bedroom, 1 in the bathroom, and 2 in the living room. He sat down on the couch and noticed that there was literally nothing to look at but a blank wall. Ren laughed and took out a bunch of the stone bricks that he'd used as a mold for the tub and built a small fireplace. It was just a stack of bricks at the back, then a row in front and up the sides, then he turned the top row of bricks so that half stuck out and added another row across top to hold them in place. Once it was braced properly, he put a single brick on the bottom and enchanted it with a double Fire glyph, thinking about Lucy using it. Ren activated it to see if the flame was big enough, and smiled. It was perfect and he deactivated it. He'd build a mantle for it later.
+
+Ren went back downstairs and poured out the last of the copper from the smelter, making several more copper squares. He stopped pouring when his Vision of Impurity let him see there was only gold left in the smelter. Ren took out a gold coin and examined it. He saw that it wasn't just gold. There was a bit of iron in it to make it stronger, and it was stamped with where it was from and who made it. Ren didn't get a recipe to make it, either.
+
+“No copying coins, then. Should I make my own?” Ren asked himself, then shook his head. “No, I'm better off just making square slivers of it, I think.” He took out a stone brick and a chisel, then gouged out a half inch deep grove in the stone's surface, about an inch wide and 2 inches long. Using the small crucible, Ren poured small amounts of molten gold into the small space, and used a Wind stone to cool the metal and popped it out by hitting the stone lightly with a hammer. Ren repeated this until all the molten gold was used up. Ren scraped the inside of the smelter with the skimming tool to make sure all the gold was out of it. The last thing he needed was more contaminates while he smelted things.
+
+Ren turned off the forge and looked around. He had 15 slivers of unmarked gold, 60 one foot squares of copper, and enough lamps to light the building... until the second floor is done. Ren took the box he used to move dirt and filled it with the dirt that he'd used to make the molds for the tub and sinks. Once that was all dumped back outside, Ren went inside and didn't know what to do with all the dirt bits left on the paving stones.
+
+“Do they even have brooms in the game?” Ren asked out loud, then opened the Order menu. He searched for a while but couldn't find anything. “You'd think the general store would have a broom, but it doesn't.” Ren shrugged. “I'll try to remember to make one later, but for now... Wind power it is.” He took out 2 stones he'd already had enchanted with Wind, but they weren't anywhere near strong enough, so he absorbed them and enchanted a quadruple Wind glyph on each and activated them. He blew the dirt across the floor and guided it to the entrance to Teepo's place. Once it was off the paving stones, it could be shoveled. Ren moved one of the 4 paving stones out of the holder he'd made for them and blew the dirt into the hole. Teepo came over to see what Ren was doing. The small amount of extra dirt made no difference to the entrance, as it was only dirt anyways, so Ren didn't bother shoveling it away. Teepo crawled out of the hole and asked what was going on. Ren filled him in on what he'd been doing as Teepo crawled up onto his shoulder. Ren put the paving stone back, then he stood up to look at the floor.
+
+“Yep. Nice and clean.” Ren said and then there was a knock on the front door. He walked over to the door and opened it. A dwarf stood there and nodded to Ren, and Ren nodded back. The dwarf stood there and looked at Ren from head to toe. He scowled a little, as if he didn't like what he was seeing. Ren stared back, and saw that he was about 4 feet tall with a full head of long brown hair, mustache, and beard. He wore heavy plate armor covered in a kind of poncho, had a shield strapped to his back, and a large double-headed battleaxe hanging from a belt tied around the poncho.
+
+“Can I help you?” Ren asked.
+
+“I have your anvil.” The dwarf said.
+
+“Oh! That's great!” Ren said and stepped back. “Please bring it in.”
+
+The dwarf picked up his dufflebag and came inside. Ren looked around outside, but didn't see anyone else or any kind of cart, then shrugged and shut the door. He turned around and went to where he had the borrowed anvil and stored it.
+
+“You can put it here.” Ren said and pointed to the spot he'd just cleared.
+
+The dwarf opened up his dufflebag and took out an anvil that was only a foot long and didn't have a stand.
+
+“What is that?” Ren asked.
+
+“It's the anvil you ordered.” The dwarf said and put it down in the designated spot.
+
+“No... it isn't.”
+
+“Yes it is. You ordered the small anvil.”
+
+“No, I did not.” Ren said and opened his Order menu. “I clearly ordered the medium anvil. It comes with a stand. That is not a medium sized anvil.” Ren closed the menu and frowned. “What am I supposed to use that for?”
+
+The dwarf shrugged. “This is your anvil. You can do what you want with it.”
+
+Ren shook his head. “I'm sorry. That is not the anvil I ordered, and I won't accept it.”
+
+“So... you are denying payment for the goods delivered.” The dwarf said, getting mad.
+
+Ren started to get mad himself. “You aren't listening. You haven't delivered what I ordered. I'm not going to pay you for something that isn't mine.”
+
+The dwarf inched his hand towards his batteaxe.
+
+“I wouldn't do that if I were you.” Ren said. “This is my shop, and I won't have any unruly behavior in it.”
+
+“Then pay me what I am due.” The dwarf said.
+
+“I might have paid you a compliment if you'd had my anvil, or even an excuse that it's delivery was delayed... but as it stands right now, I don't owe you anything.” Ren said.
+
+The dwarf pulled his battle axe out of it's holder.
+
+“Don't make me do this.” Ren said.
+
+The dwarf gripped the batteaxe in both hands and readied himself. Ren sighed as the dwarf charged.
+
+“You're BARRED!” Ren said and opened the door. A wave of magic picked up the dwarf and ushered him out the door and tossed him into the street. A few people were walking by and stared at the dwarf as he picked himself up and dusted off his poncho. Ren gathered up the dwarf's dufflebag and the small anvil and went back to the open door.
+
+“So you are too cowardly and weak to fight for yourself.” The dwarf said.
+
+“Ha...hahaha!” Ren laughed at the dwarf. “Fight you? What for? Because you're being stupid and not listening?” Ren said and stepped up to the edge of the protection barrier. “It's like you're intentionally trying to provoke me. Are you doing this on purpose?” Ren asked, and the dwarf's eyes widened. “That would be the best explanation for your behavior.”
+
+The dwarf clamped his mouth shut, and Ren nodded. “I thought so.” He tossed the small anvil to the dwarf, who caught it easily because he was barely 10 feet away. Ren tossed the dufflebag the same distance to land beside the dwarf, who's eyes widened in surprise.
+
+“You can just take yourself back to wherever you came from.” Ren said and turned around. “I'm cancelling my order.” Ren walked back to the doorway of his building. “I'd rather try to buy an old anvil from a friend, than buy one from you.”
+
+The dwarf looked around at the people staring at him and frowned. It wasn't supposed to happen like this! The dwarf thought as Ren went inside and closed the door. The dwarf walked over to the building, or at least tried to. He hit the edge of the protective barrier that surrounded the place, and bounced back. What am I supposed to do now?
+
+Ren sighed as he closed the door, and then put the borrowed anvil back in its place. “Maybe Donan really will sell me this old anvil.” Ren thought. I'll worry about that when I get back. He stood there for several minutes, thinking about what to do next. There was another knock on the door and Ren wondered who it was. He knew it wasn't the dwarf again, because being barred meant staying about 5 feet away from the building, so he walked over to the door and opened it.
+
+“Clint!” Ren exclaimed.
+
+“Howya doin'?” Clint asked.
+
+“I just had an unruly dwarf in here, trying to pawn off a tiny anvil on me.”
+
+Clint laughed. “Ah reckon ya gave'im th' boot, righ' quick.”
+
+“Darn tootin'.” Ren said and grinned.
+
+Clint slapped a hand on Ren's shoulder and guffawed. “Tha's good. If'n you let'em git away wit anythin', they'd be all over ya b'fore ya knew it.”
+
+Ren nodded. “So, does this mean you brought me something?”
+
+Clint chuckled. “Ah'm tempted ta let ya stew fer a while, like ya did ta me... but ah gotta get back to th' ranch.”
+
+Ren laughed, too. “Normally I wouldn't mind waiting, but I'm trying to get everything done before I leave.”
+
+Clint nodded. “Ah remember ya sayin' somethin' abou' tha'.” He said and pulled Ren outside. “Ah got yer surprise righ' here.”
+
+Ren stepped out and saw a horse coming down the street, pulling a large cart. “Hi, Izabeal.” Ren said to Clint's mount standing by the building, and the warhorse nodded. They waited for a few minutes, while the cart driver turned around in the street and then backed up to stop near where they stood.
+
+“What is that?” Ren said, as he heard an impact from the inside of the large crate on the back of the cart, which rocked.
+
+“Yer gonna lov'it!” Clint exclaimed. “She's all trained up an everythin'.”
+
+There was another impact and the crate rocked harder.
+
+“You trained her like this?” Ren asked, perplexed.
+
+Clint laughed. “Nah, ah did it all in a big pen. She's jus' mad about bein' in tha cage fer so long.” He walked Ren over to the back of the cart and Ren looked inside through one of the airholes.
+
+“You have got to be kidding me!” Ren said and looked again. “Are you serious, Clint?”
+
+“Ah shore am.” He said to Ren. “Boys!”
+
+2 men hopped off from the front of the cart and came around to the back. With Clint and Ren's help, they got the crate off the cart and onto the ground.
+
+“Ya better step back a bit. She's a might territorial.”
+
+Ren stepped back about 6 feet from the end of the crate and Clint nodded. The 2 men pried off the side of the crate that was facing Ren. It fell open, landed a foot from Ren, and the creature stepped halfway out.
+
+“What is that?!?” Teepo asked, surprised.
+
+It was the largest Bighorn Ram that Ren had ever seen. It was nearly 5 feet tall, was quite muscular in the legs. The huge horns protruded from the sides of the head, came forward at least 6 inches, then wrapped around in nearly a full circle. The ram looked around at it's surroundings and noticed Ren staring at it. The ram pawed the ground and huffed.
+
+It's a bighorn ram, Teepo.
+
+“Back away!” One of the men said.
+
+“No.” Ren said and stood his ground. “I've run from lots of things before; but lately I've been learning that I can choose what to do... and right now, I choose to stand my ground.”
+
+“Don't challenge her!” The other man said, but it was too late.
+
+The ram dropped her head and charged. As she was only 3 feet away, she didn't have much room to get a good run and Ren caught her by the horns and stopped her. She tried to push, but Ren's dwarf ability Rock Steady kept him planted and Ren leaned into her and pushed her back. There was silence on the street as everyone saw Ren move the bighorn ram back a few inches. The ram was just as surprised as the spectators were and stopped trying to push. Ren let her go and she stepped back and lifted her head. She eyed Ren and huffed.
+
+“Git outta there! She's gonna ram!” Clint said.
+
+Ren smiled and shook his head. The ram reared up and tilted it's head forward. It took a moment to get all that weight moving towards Ren, but then she pivoted and dove for Ren's head, trying to smash with her horns. Ren's hammerpick appeared in front of his face and her head hit that instead. A gong sounded and a small shockwave emanated from the hammerpick. The ram stepped back, dazed and a little confused. Clint started laughing and the 2 men with him wondered what was happening.
+
+“Ren...” Clint said between guffaws. “Ah was a little worried ya weren' gonna be able ta handle 'er.”
+
+Ren smiled. “So was I at first, but then I remembered what I could do.”
+
+The ram looked at Ren and huffed again.
+
+“Stop.” Ren said in a commanding voice. The ram hesitated for a moment, shook it's head and reared up again. Ren sighed. “I don't want to hurt you!” Ren said as the ram tried to slam into his head again with her horns. Ren held up the hammerpick and another gong sounded as she bounced off of it and then nearly collapsed.
+
+“Stop!” Ren commanded again. The ram stumbled a bit, then knelt at his feet. Ren reached out a hand and ruffled the fur between her horns.
+
+Notice!
+
+Word of your encounter today will be spread quickly, and will be added to the tale of your accomplishments.
+
+Fame: +50
+
+“Ah knew ya'd love 'er!” Clint said and came over to pat Ren on the back. “She's jus' righ' fer ya.”
+
+“Where did you find her?”
+
+“Now tha's a good story. Ah heard o' this odd female ram tha' had horns like a male, was bigger'n 'em, and she took over a herd.”
+
+Ren widened his eyes. “Females can do that?”
+
+Clint laughed. “They ain' supposed ta, but ah guess this one 'ere is special.”
+
+Ren looked her over and saw she already had a saddle on, and had the bit in her mouth that the reins were attached to. “What's her name?” Ren asked.
+
+“Ya can name 'er yerself.”
+
+Ren thought about it for a minute as the Ram regained it's senses. It tensed up as it noticed Ren was stroking its head between it's horns. Ren felt the change and stopped petting her.
+
+“I'm supposed to name you, but all I can come up with are girl's names.” Ren said, then told the ram the names he came up with, and it shook it's head after each one. Ren smiled. “Well, we'll just have to go for the only one I haven't tried yet, and you've definitely shown the right characteristics for it.”
+
+The ram looked at him right in the eye, and he thought she would shake her head no again.
+
+“Princess.”
+
+The ram kept looking at him and Ren smiled. “Princess it is.”
+
+Clint said he had just as much trouble naming his mount, and Ren laughed. “I'm not going to ask how long it took you to come up with 'Izabeal'.”
+
+The warhorse neighed behind them and Clint laughed. “Ah long while.”
+
+Ren turned to the ram. “Hi, Princess. I'm Ren.” The ram tilted her head a bit but didn't react. Ren smiled again and turned back to Clint. “Now, what do I do? I don't have a stall or anything ready for her.”
+
+Clint slapped the side of the crate. “Tha's wha' this is fer.”
+
+Ren widened his eyes.
+
+“Jus' take tha top off, put a couple hinges on tha'...” Clint said and pointed to the side of the crate on the ground. “...and take off a few of th' boards from th' sides.”
+
+Ren looked at it, and then nodded. “Thanks, Clint. That should work really well.”
+
+Clint nodded and told the 2 men they could head out with the horse and cart, then went over to Izabeal and climbed up on her back. “Have fun!”
+
+Ren laughed and waved goodbye to them as they sauntered down the street. “Well, Princess.” Ren said and looked at the bighorn ram. “Why don't we go inside and I can get you settled in.”
+
+The ram looked like it widened it's eyes at Ren's statement, and Ren stored the side of the crate into inventory and then the crate itself.
+
+“Come on. I'm not leaving you outside.” Ren said and tugged on the reins. The ram looked around and then followed Ren into the building. Everyone on the street continued to stare at Ren as he led the large creature into his building. Ren shut the door and led the ram across the floor and to the back corner, beside Ruck's cabinet.
+
+“Please wait a moment.” Ren told the ram and he took out the crate. Using his hammer, he took off the top of the crate and every second board on the sides. Ren pushed the crate into the corner and looked at the floor of the crate. There was some straw and a few leaves, but after the trip there was hardly anything left that was suitable for the ram to sleep on.
+
+“That's all you have to rest on?” Ren said and shook his head. “I'll be right back.” He wrapped the end of the reins around one of the boards in the side of the crate and walked over to the anvil. Ren stored it and then left his building and went to Sally's shop. After buying nearly half of her stock of cotton batting, Sally was so surprised that she didn't even ask what he wanted it for. Ren left her shop and went to Donan's. He gave back the anvil and thanked Donan profusely for it's use. Donan asked if he got the new one and Ren shook his head, then told Donan what had happened.
+
+“A dwarf?!?” Donan said. “Did they change delivery men, I wonder?”
+
+“What?”
+
+“It's supposed to be a human delivery man. I know the guy. I've bought his anvils for years, and he is not a dwarf. He also wouldn't send one, as he hates them with a passion.” Donan said.
+
+“Oh... then I don't know what's going on.” Ren said. “I hope the real delivery man shows up soon.”
+
+Donan offered to send the guy a personal message, and Ren said that it could wait. He'd be leaving for the dwarven city soon. Ren said goodbye to Donan and walked back to his building. Out of habit, he walked through the alleyway that he and Lucy used to use to log out.
+
+“Ren! There's someone on the roof!” Teepo said. Ren jumped forward and turned around. The dwarf was there and saw that Ren had detected him somehow.
+
+Notice!
+
+You have entered PvNPC mode!
+
+The dwarf took the battleaxe in his hands and then jumped. Ren pulled out the metal shield he'd taken from the old temple and as the battleaxe struck it, the Grip of Earth enchantment generated a rock hand. It reached out, grabbed the battle axe, and tried to crush it. The dwarf's full weight landed on the shield and Ren shoved him off. The dwarf lost his grip on the axe, as the rock hand still held onto it and had the axe handle slightly bent.
+
+The dwarf stood about 3 feet away, unarmed. He had a shocked look on his face, and Ren stood up.
+
+“What. Do. You. Want.” Ren said in a deep voice. The dwarf shook himself out of the shock he felt and took out his own shield. Ren smiled, lifted the arm with the shield on it, thought Deactivate and then caught the handle of the falling battle axe, letting it slip down until his hand hit the end of the handle right under double blades. He shifted his grip to hold the center piece that connected the 2 blades to each other and to the handle.
+
+“This looks ruined.” Ren said.
+
+“It can be fix-” The dwarf tried to say, then Ren used Iron Grip on it and crushed the center piece he was holding. The battleaxe broke apart into pieces as the 2 blades and the handle fell seperately to the ground.
+
+“What. Do. You. Want.” Ren said and took out his hammerpick. The dwarf pulled out a dagger and hunkered down behind his shield and Ren sighed. “I hope there's no bad consequences when I finish this.” Ren stepped forward, guarding his flank with the shield, and swung the hammerpick down onto the dwarf's shield. The hammerpick still had the Dark (or Gravity) glyph, and it knocked the shield to the ground and left a hammerpick-sized dent in it. The impact generated a small shockwave, but the dwarf's body only moved back and forth slightly. He wasn't knocked back or moved his feet at all. His face however, still had a shocked look as he stared at the practically ruined shield on the ground.
+
+“I won't ask again.” Ren said, and the dwarf dropped his dagger and knelt.
+
+“I was sent to test you.” The dwarf said.
+
+“Why?”
+
+“To see if you were worthy to learn our ways.”
+
+Ren tilted his head slightly. “And what ways are those? Useless taunting? Starting fights for no reason? Ambushing?”
+
+The dwarf nodded. “The ways of war.”
+
+Ren looked at him with a frown. “So... you did all this for nothing.”
+
+“W-what?”
+
+“Obviously, I didn't pass your tests. You didn't succeed at all.”
+
+The dwarf smiled. “You passed, with flying colors. You'll make a fine dwarf.”
+
+Ren shook his head. “Not if I have to do stuff like this.”
+
+“What do you mean?”
+
+“Fight stupid fights.” Ren said. “I have to finish this, and it seems like such a waste.” He sighed. “How will you tell them I passed if you're dead?”
+
+“D-dead?”
+
+Ren nodded. “This fight doesn't end until one of us is dead.”
+
+The dwarf held up his hands in surrender. “I surrender! I surrender!”
+
+Ren didn't get a popup, shrugged, and lifted the hammerpick.
+
+“You have to accept it!” The dwarf exclaimed.
+
+Ren lowered the hammerpick. “And if I do?”
+
+“You win.”
+
+“I want a promise first.” Ren said.
+
+“A-a what?”
+
+“A promise. If I accept your surrender, I never want to do another useless fight like this with you.”
+
+The dwarf nodded.
+
+“Then, I accept your surrender.”
+
+Notice!
+
+PvNPC mode has ended.
+
+Notice!
+
+Congratulations! You have defeated your opponent in One-on-One combat.
+
+Rewards: 1000 XP
+
+Fame Bonus: 16%
+
+Notice!
+
+You have defeated an opponent 30 levels higher than you.
+
+Fame: +50
+
+“Huh... would you look at that. It worked.” Ren said, surprised. “I thought I had to kill you to end the fight.”
+
+The dwarf stood. “I'm glad you didn't have to.” He said and sighed. “That was a close one. They said you were only a low level!”
+
+Ren looked at him and squinted his eyes. “So you thought you'd have an easy time beating me and making me surrender?” Ren asked.
+
+The dwarf's eyes widened and stepped back. “Hey, I surrendered, didn't I?”
+
+“Only because you had to.”
+
+The dwarf nodded.
+
+“Now what?” Ren asked.
+
+“Now we can go to the dwarf city.”
+
+“What? Right now?”
+
+The dwarf nodded and bent down to pick up the pieces of his battleaxe. He carried them down the alleyway and dropped them next to the building he'd jumped from. Ren followed him with the shield and hammerpick still equipped. The dwarf climbed up the building and a moment later, tossed down his duffelbag. It landed with a heavy thud and the dwarf jumped down. He put the battleaxe pieces inside the bag and looked at Ren.
+
+“You're going to want to pack or something, right?” The dwarf asked.
+
+Ren nodded and told the dwarf to walk in front of him back to Ren's building. They walked there and Ren went inside. He stored the shield and hammerpick and knocked on Ruck's cabinet.
+
+“It's time to go.”
+
+Ruck came out and shut the door. Ren pat him on the head and then looked at his mount. Ren ran to the door and looked outside. “Hey! Can I bring a mount?”
+
+The dwarf was a bit surprised by the request, but he was told to let Ren bring what he wanted, and nodded.
+
+“Sweet.” Ren went back inside and went to Princess. “Hey, I'm leaving for a while, and I'll need your help.” Ren said and untied her reins from the crate. “I'm allowed to take a mount, and I want you to come with me.”
+
+The ram looked at him with wide eyes and Ren chuckled. “Yes, I'm asking. I'm not going to order you. That wouldn't be fair to either of us.” Ren turned around and stored the crate, the unattached gate, and the top he'd removed. He didn't know what kind of situations he'd be getting into while traveling, so he figured he better take as much with him as he could. “Like I said, I need your help. I'll have to get you something to eat for the journey, too.” Ren shook his head. “Damn, I thought I'd have more time to deal with everything!”
+
+Ren looked around to see if there was anything he was forgetting, and didn't notice anything that he needed to take, except for the wood. He stored that, and saw he had enough stones in inventory to make a forge, he still had 2 dozen springy trees (and tons of branches) so he could work on making bows, he had money, and Ruck had all of his potion ingredients. Ren dropped off the 5 crates of oil and left them beside the 5 empty crates that the lanterns had come in.
+
+“Hm... anything else?” Ren took one more look around and then he thought of something he had almost forgotten. Ren ran upstairs and into the apartment, then the bedroom. Lucy's phantom form still lay there and Ren sat beside her. He took out a piece of parchment paper and wrote out a note, saying what was going on and where he was going, that he had wanted to see her and tell her it all in person, but he had to leave suddenly. He wrote that he would miss her, and that he would leave the building key for her so she could always return, not to lose it, and he would get the key back from her when he returned. He signed the note and left it on the end table, folding it so that it was prominent and would be easily seen, and left the key on it. Ren pretended to stroke her face and then left the apartment.
+
+He went downstairs, took the bighorn ram's reins, and asked Ruck to climb up onto his back. Ren led his mount to the door and then stepped outside.
+
+A new adventure was about to begin.

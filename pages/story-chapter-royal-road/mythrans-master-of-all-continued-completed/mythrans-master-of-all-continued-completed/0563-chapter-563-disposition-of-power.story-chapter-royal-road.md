@@ -1,0 +1,235 @@
+---
+id: 409b84d7-d4cf-5644-92eb-0ce591cf50e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 563 - Disposition Of Power"
+slug: 0563-chapter-563-disposition-of-power
+partOf: mythrans-master-of-all-continued-completed
+position: 563
+ownLength: 3126
+unit: words
+publishedAt: 2018-04-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209777/chapter-563-disposition-of-power"
+royalRoadId: "209777"
+---
+
+Ren was cleaned in record time and dressed in his best clothing. Elise grabbed a quick shower while Barbara left the room and told Stella what was going on.
+
+“Can you check on Lisa?” Ren asked Denise. “She wasn't in the game, and I don't want to leave the house without letting her know what's going on.”
+
+“I'll be right back.” Denise said and went to check on her.
+
+Ren realized he was left all alone, and he looked around the bedroom. He thought about everything he had been through, and where he was now, and he decided that he was glad that his old doctor had robbed him. He had earned this place because of who he was, and not because of what his parents had done to him. None of their corrupted money had helped him get to where he was now, and he could feel nothing but grateful for it.
+
+Elise came out of the bathroom and he saw a vision of loveliness as she walked across the room to the bed. “God, the look on your face.” She said and leaned over the bed and gave him a kiss. “I love you, too.”
+
+Ren smiled, because she had understood what he was feeling and he hadn't said a word. “Give me a hand getting into the wheelchair.”
+
+“I think we should wait for Denise or Barbara.” Elise said. “If anything happens, I... I wouldn't forgive myself.”
+
+“At least help me sit up.” Ren held a hand out, and Elise eased him over to the edge of the bed and sat him up, then sat beside him and held him tenderly.
+
+“How's that?” Elise asked.
+
+“That's not a fair question.” Ren said and looked up at her. “I can't think of a word that's better than 'amazing'.”
+
+Elise chuckled, and Ren felt her breast jiggle, so he rested the side of his face on it.
+
+“I want to just stay here like this.” Ren said. “Held gently in the arms of a beautiful woman that loves me.”
+
+“Ever since the first time we met, I've always wanted to do this with you.” Elise said. “Imagine the luck I've had to get me to this point.”
+
+“Your luck?” Ren chuckled. “Look at mine!” He said. “All the things that had to happen for me to get to this point in my life, and here I am with you.” He lifted his head and looked at her eyes. “Was it divine intervention? Did the hand of some all-powerful being bring us together?”
+
+“Yes.” Elise leaned down and kissed him. “You.”
+
+“Okay, I've got your Hummer H2 ready and cleaned out for extra passengers.” Barbi said as she came into the bedroom. “The mobile security guards are in a sedan out front, and they'll lead you to the meeting.”
+
+Ren saw that she was dressed up for a power meeting in a sharp business suit similar to Elise; but because her waist was so much smaller, her top seemed like it was trying to bust out through her suit coat.
+
+Elise noticed Ren's gaze, and she smiled. “Women with large chests always have that problem.”
+
+“Wh-what?” Barbi blinked her eyes at them.
+
+“Ren was wondering why your suit top doesn't fit so well.”
+
+“What? Oh!” Barbi looked down at herself. “I thought I unbuttoned it.” She unhooked the button and the coat flopped out to hang pretty far away from her body.
+
+“You see?” Elise said, and Ren nodded.
+
+“Making them custom fit wouldn't help, either.” Ren said. “If you adjust for the cut on the sides, all that will do is make you look overweight.”
+
+“It really does.” Elise said, a little surprised. “How did you know that?”
+
+“I'm a Master Tailor in the game.” Ren smiled. “I've had lots of experience with how fabric is supposed to flow and how clothing designed properly is supposed to fit.”
+
+“What would you suggest here?” Elise asked, curious.
+
+“I'd try a triangle shape for the suit coat, so that it starts wide at the shoulders and chest, then angle it down towards the hips rather than just let it hang straight down. I would duplicate the same design for the skirt to make it match.”
+
+Barbi and Elise looked at Ren with wide eyes, and he smiled at them.
+
+“You asked.”
+
+Denise came into the bedroom and had a blank look on her face. “Lisa isn't in her room, and I couldn't find her in the den reading a book or downstairs in either living room or the kitchen.”
+
+“Elise? Can you text her?” Ren asked.
+
+Elise took out her cell phone from her suit coat and used one hand to text while she kept the other around Ren. After a moment, her phone beeped and she read it.
+
+“She had to go visit her mother this morning.” Elise said and typed another message, then got another beep. “Just stupid family stuff. Her words.”
+
+“Let her know where we're going, that we won't know when we'll be back, and not to be too worried if we're not here when she gets here.” Ren said.
+
+Elise chuckled. “I'm only using one thumb, Ren.”
+
+Ren smiled and waved to Denise, and she helped him transfer from the bed to the chair. Elise used both hands this time to text, and a few moments later the phone beeped again.
+
+“She said to try and not blow their minds with what you know, and she will eagerly await your triumphant return.”
+
+“Tell her I love her and that she better be naked in my bed by tonight.”
+
+“I am not texting her the second part.” Elise chuckled and typed a quick message. “She'll be back and see you tonight.”
+
+Barbara and Stella came into the bedroom a moment later.
+
+“Is everyone ready to go?” Stella asked.
+
+A chorus of 'yes' responded, and she nodded. “Denise, grab the emergency kit.”
+
+“There's one in the Hummer already.” Elise said, and they looked at her. “I wasn't taking Ren anywhere without having an emergency kit available.”
+
+Stella smiled. “Then let's get going.”
+
+Stella, Barbara, Elise, and Barbi walked to the bedroom door while Denise pushed Ren's wheelchair. They went down in the elevator and outside, and piled into the Hummer H2. The sedan with the guards drove down the driveway and Elise followed them, and they made their way through the city to the law firm that was handling Ren's cases.
+
+The sedan with the guards in it stopped abruptly near the corner of the building and 5 men hopped out, then 4 of them ran forward and cleared the practically empty street. The guard by the sedan waved Elise forward, and she parked the Hummer in the spot in front of the sedan.
+
+“What are they doing?” Ren asked.
+
+“Their job.” Barbi said. “Since you can name names today, this... well, we're showing you that we can deal with anything that happens because of it.”
+
+Ren nodded, and they all got out of the Hummer while Stella put Ren into the wheelchair. Two more guards came out of the sedan and went with them into the building, and they went up to the floor that the meeting was on. It was one of the biggest meeting rooms available, and if Ren had to guess, most of the firm's members were present.
+
+“Mr. Haddon, thank you for coming down on such short notice.” An elderly man reached a hand out for him to shake. Ren reached a trembling hand up and shook the offered hand.
+
+“There's nothing to be afraid of, Mr. Haddon.” The man said. “We are all here to help you.”
+
+“I'm not afraid. It's muscle weakness from the Grand Mal seizure I had last night.”
+
+The man's eyes widened and he glanced at the table with his associates. Several of them nodded, and he looked back at Ren.
+
+“Then I need to doubly thank you for coming in.” The man said. “If I'd known, I might have put this off.”
+
+“I wanted to come in last night to give a statement; but on the advice of my nurse, I rested until this morning.” Ren said, and he saw the surprise on their faces. “Gentlemen and ladies, I want to get this out into the open as quickly as I can, just in case I have another seizure and I forget everything... or heaven forbid, I don't survive the next one.”
+
+The women at the table gasped at his frankness, as did Barbi and Elise. Ren took Elise's hand for a moment and gave it a squeeze, then let it go. He saw respect in several of the men's faces, and he smiled.
+
+“I hope you've got several cameras and voice recorders ready, because this is going to be quite a lot to keep track of.”
+
+The elderly man nodded to someone on the side, and they opened a doorway to another hall and brought in several cameras, recorders, and microphones. Several of the lawyers across the table had their cell phones out and were already recording him.
+
+“Please, everyone. Have a seat.” The elderly man said, and everyone with Ren sat down on the available chairs. “We were a little worried about asking to record the proceedings.”
+
+“Well, considering I'm pretty much at my weakest physically, just above being bedridden, now is as good a time as any to have video evidence of my debilitation.” Ren said, and he felt Elise's hand on his left knee.
+
+“That's... very...” The elderly man didn't know how to respond to that.
+
+“Don't misunderstand.” Ren said. “I'm not trying to garner sympathy and pull people's heartstrings. I'm showing what my life can become in an instant, even with the best around-the-clock medical care money can provide, and it's all because of the things that were done to me.”
+
+Ren could see that several of the women and a few of the men were a bit uncomfortable being told this. “I'd like to apologize for the information I am about to convey.” He said, and he felt someone's hand take his right one. He glanced over and saw Barbara smile at him, and he smiled back. “It's going to be difficult for me to talk about, so I can't imagine how hard it's going to be for some of you to hear.”
+
+“I'm sure that we can handle anything you tell us.” The elderly man said. “We've run this firm for over 80 years, and out of all the cases we've had, yours was the worst.”
+
+Ren saw most of the people on the other side of the table nod their heads.
+
+“We are very familiar with your case and what came up in trial.”
+
+“Then grab a seat and take notes.” Ren said, and then smiled. “I hope you didn't have a big breakfast.”
+
+“Just coffee.” The eldery man said.
+
+Ren nodded. “I'll start with the easy stuff first.” He said. “Names and dates.”
+
+“The names won't do much for us, even if they match some of the people in the files Ms. Stanford already gave us.” One of the women said.
+
+“In about a week I can draw you a picture of them if you want.” Ren said. “I'm too weak to hold a pencil for long right now.” He chuckled. “I had a hard time just cutting up my banana pancakes for breakfast.”
+
+“We can have an array of photos brought in, or even a sketch artist if it's necessary.” The elderly man said, then turned and looked at the man that had retrieved the video equipment. “Is everything ready?”
+
+“Just about.” The man said and put on a set of headphones, then slid three different microphones onto the table in front of Ren, who leaned forward slightly.
+
+“Test, test.” Ren said. “This is a test. Rubber baby buggy bumpers.”
+
+Everyone at the table stared at him in surprise, and the man with the headphones gave Ren a 'thumbs up' gesture.
+
+“I've done some voice-over work for my animated show.” Ren said, and he saw understanding on their faces. “Whew, okay.” He said and took a deep breath and let it out. “I'm trying to decide where to start.”
+
+“Try right from the beginning.” Barbara said, and Ren nodded.
+
+“My name is Ren Haddon, and I am of sound mind and questionable body.” Ren said and he saw a few sad smiles at his joke. “Let me tell you who is responsible for my condition, and then I'll tell you how.”
+
+*
+
+The lawyers had been ecstatic when Ren had list everyone that had been involved, people that knew his parents and had visited him, and the ones who had participated in either the acts themselves or the conspiracy to commit them or cover them up. When he told them who had benefited from what happened to him... which included the heads of several tech companies, a senator, the governor, the Chief of Police, and the Mayor... the lawyers weren't as happy.
+
+When Ren moved on from the list and started to describe the initial experiments that happened when he was only a young child, the room fell silent. He relayed the conditions he had to be kept in to remain untouched by the outside world, and his eyes started to let tears escape. He didn't try to wipe them off, and neither did Barbara. When he moved on and gave details of what happened when he was a little older, several women on both sides of the table were openly crying as well.
+
+Two hours had passed by the time Ren reached the point where he had achieved the ripe old age of 8, and the spinal taps and bone marrow extractions began. One of the men had already thrown up twice in the trashcan and had to leave with it. After explaining that this was when he realized they had been feeding him opiates in his food to dull his senses, and that his recall of some events wasn't quite as clear, they relaxed.
+
+They shouldn't have.
+
+When Ren described the experiments he could remember and reminded them that his parents never used anaesthetics, and had progressed the timeline to when he was 10 and the extensive brain surgery began, half of the lawyers in the room had already left. They just couldn't handle listening to his calm voice say such things.
+
+The elderly man's face had turned white a long time ago; but, he sat there for as long as Ren kept talking. If Ren could take saying it all, then he could take listening to it.
+
+*
+
+Ren stopped when he reached the point that the police had raided his parents home and rescued him. “At the time, I didn't realize what was going on. When I was out of the house and safe, there was no point in hurting them and telling them the truth.”
+
+“What... what truth was that?” The elderly man asked, visibly afraid of the answer.
+
+“The police didn't realize that they were just a little too late to actually rescue me.” Ren said. “You see, my parents were already done with me.”
+
+“Oh, god!” Someone exclaimed and burst out crying, and Ren couldn't tell who it was. There were too many other people crying and sobbing openly for him to figure out who it was.
+
+“W-well, th-then.” The elderly man said. “Mr. Haddon, I...” He took a deep breath and let it out. “I'm sorry that I must play devil's advocate here.”
+
+“Go ahead.” Ren said.
+
+“What you've told us, is... it's a good story.” The elderly man said, and there were immediate outcries from both sides of the table. The man held his hands up to quiet them, and a minute later, they fell silent. “I'm only saying what any defence attorney would say after hearing this.” He said and looked at Ren. “How do we know this isn't just something you made up?”
+
+“That's quite simple to prove.” Ren said. “Ms. Stanford has already forwarded you my extensive medical files from when I was first admitted to the hospital. If you cross-reference my testimony with those records, you'll find they contain descriptions and pictures of all the corroborating scars and scar tissue, bone damage, and wounds... both partially and fully healed. It's all the physical evidence you will ever need.”
+
+The elderly man nodded and looked over at the man that controlled the video equipment, and didn't see him. “Someone get Jensen, please.”
+
+A woman stood up and her legs were weak, so she stumbled to the door and hollered for Jensen. He came back in and helped the woman sit back down.
+
+“I'm sorry, sir.” Jensen said to the elderly man. “I... I just couldn't...”
+
+“It's all right.” The elderly man said. “Finish your work.”
+
+“Yes, sir.” Jensen checked everything and shut it all off, then removed the microphones from in front of Ren.
+
+“Make... make copies for...” The woman tried to speak, and she shook her head.
+
+“I'll have copies for all the departments, and everyone that has an open case pending.” Jensen said. “Send me your cell phone recording, too.” He said and took a shallow breath, then rubbed his face with a hand. “Even though I want to destroy it and burn it all.”
+
+“Me, too.” The woman said. “Such... horrible things...” She looked at Ren. “I... I am... so very sorry that...”
+
+“I want you to use what I've said as judiciously as you can.” Ren said. “When you transcribe it, I'll sign it if necessary.”
+
+The elderly man slid a folder in front of him. “Standard affidavit form. You claim what you said was the truth... to the best of your knowledge.”
+
+“Considering I can remember what I had for breakfast every morning growing up, I'd say the best of my knowledge is the best that anyone is ever going to get.” Ren said as he opened the folder, then read the form quickly. Someone handed him a pen, so he signed the form and passed both things back.
+
+“Good luck.” Ren said.
+
+“Luck?” The elderly man shook his head. “Young man, this is going to destroy everyone that has ever harmed you.”
+
+“Now you know why I wanted this on record.” Ren said, and let a smile appear on his tear-soaked face.
+
+“Let's get you home.” Barbara said in a normal voice, but her face was just as wet as Ren's was. Ren nodded, and everyone on his side of the table got up and prepared to leave the room.
+
+“J-just a second.” A woman's voice said, and everyone looked at her. “What... what did you have for breakfast every morning growing up?”
+
+“The same thing I've had every morning since then.” Ren said. “Hope.”

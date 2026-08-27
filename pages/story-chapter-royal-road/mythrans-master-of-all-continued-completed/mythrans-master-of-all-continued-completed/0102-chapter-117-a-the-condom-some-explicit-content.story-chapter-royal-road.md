@@ -1,0 +1,211 @@
+---
+id: 6b7b8c8d-8c0f-5901-abb4-8494cb581fb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117 A - The Condom (Some Explicit Content)"
+slug: 0102-chapter-117-a-the-condom-some-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 102
+ownLength: 1670
+unit: words
+publishedAt: 2016-12-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108000/chapter-117-a-the-condom-some-explicit-c"
+royalRoadId: "108000"
+---
+
+Stella walked over to the bed and handed him 2 foil wrapped packs. “You should use the bathroom first.”
+
+Ren took the packs and slid out of the bed. “Good idea.” He went into the bathroom and pushed the door until it was almost closed and Stella stood beside the opening. Ren opened the XL one and started to slide it on. It went down about 2 inches, but then he became fully erect and it got stuck. It wouldn't move down further or move off.
+
+“Dammit.” Ren said and sighed.
+
+“What is it?” Stella asked.
+
+“I started to put the XL on, and when I... ah... stood at attention...” Ren sighed again. “It's stuck.”
+
+Stella took in a deep breath and exhaled. I'm a professional. I can do this. “Ren, I'm going to have to come in to see it.”
+
+“O-okay.” Ren said. “Just... don't laugh.”
+
+“Ren, I won't laugh.” Stella said and opened the door, then closed it and set the lock. “I'm more concerned than anything else.” She said. “You can turn around.”
+
+Ren turned to face her, and she saw the size of him.
+
+“Good lord.” Stella said and knelt. “Does it hurt?”
+
+Ren shook his head. “I should have waited until it was... full... before trying it.” He said. “At least the tip isn't changing color, like it did with the last one.”
+
+Stella put a hand on his arm. “I'm going to have to touch it. Is that okay?”
+
+Ren got a worried expression on his face. “Um... I... ah... don't know what will happen if you touch it now.”
+
+“What do you mean?” Stella asked.
+
+Ren sighed again. “It's... really sensitive.”
+
+Stella's eyes widened. “Oh.” She said. “You could 'go' if I do.”
+
+Ren nodded.
+
+“That might help, actually.” Stella said.
+
+Ren shook his head. “No, it won't.”
+
+Stella stared at him. “You're a repeater?”
+
+“A what?”
+
+“You can keep going, even after you 'go', without... loss of function.” Stella explained.
+
+“Is that what it's called?” Ren asked.
+
+“That's what I call it.”
+
+“You've seen it before?”
+
+Stella nodded. “I have.” She said and smiled. “I shouldn't be telling you this, but... he was the best boyfriend I ever had.”
+
+“R-really?” Ren said, surprised.
+
+“He was like a machine.” She said. “He kept going and going, on and on, until I was done.”
+
+“No way.”
+
+Stella sighed. “If he hadn't moved away for another job, I'd have married him.”
+
+“Stella... I didn't know.” Ren said. “I'm sorry.”
+
+“What are you sorry for?”
+
+“I've brought up bad memories for you.”
+
+“Bad memories? Not on your life.” She said and smiled. “It always brings a warm feeling to my heart when I think about him.”
+
+“I'm glad.” Ren said and looked down at himself. He was still hard, and he sighed. “Stella, don't hate me if I do go, okay?”
+
+“Ren, I could never hate you.” Stella smiled. “I might not have taken care of you every day like Lucy, but I've seen what you went through.” She let his arm go. “I don't know everything that your parents did to you, but I've seen some of the results.” She said. “Even if something does happen, it's just a body's normal reaction to being touched there.”
+
+Ren took in a deep breath. “The death of the universe, asteroids hitting the Earth, the moon explodes.”
+
+Stella chuckled. “What was that?”
+
+“I'm trying to distract myself.” Ren said. “I'm going to have a pretty woman pull a condom off of me. I need to be distracted.”
+
+Stella laughed. “I'd tell you to close your eyes, but that might make it worse.”
+
+Ren nodded and grit his teeth. “Go ahead.”
+
+It was Stella's turn to take a deep breath. She gently reached out and touched the condom on the side of his member and there was no reaction. She smiled and pinched the edge of the condom and gave it a little tug. Ren took in a breath, but the condom didn't move.
+
+“The long way, then.” Stella said and looked at Ren. “I have to touch the skin.”
+
+Ren nodded and held his breath as Stella put a hand on each side of him and her soft fingertips were placed around his member and on the end of the condom. She pulled her fingertips towards her and hooked the condom's edge. Ren let his breath out and took another. She did it again and the edge of the condom rolled over. She did the same motion again and Ren hissed.
+
+“It's coming.” Stella said.
+
+“I'm trying not to.” Ren responded.
+
+Stella chuckled and rolled the condom up a bit more. “Only another inch.”
+
+“Stella... I don't know if I can...”
+
+“It's okay, Ren.” She said. “Go ahead.”
+
+“But...”
+
+“We're playing with a ticking time bomb here.” Stella chuckled, and waved at him. “It's going to go off. We're just counting down to when it happens.”
+
+Ren chuckled, too. “All right.” He said. “Run your fingers down the side.”
+
+“Are you sure?” Stella asked.
+
+“Believe me, it's the quickest way.” Ren said. “I almost went when your fingertips touched it the first time.”
+
+“No way.”
+
+Ren nodded. “It'll take me a minute or two if I do it myself, instead of a few seconds if you do.”
+
+“Ren, I...”
+
+“Please, I need your help.” Ren said. “Once I finish going, I won't be able to do anything for a few seconds, and then you can get it off.”
+
+Stella nodded. “Alright.”
+
+“It's going to be a lot, so don't take it off too soon.” Ren said and braced himself against the sink. Stella's eyes widened, and she nodded as she moved to the side.
+
+“You know I'm going to tease you about this for the rest of your life, right?”
+
+Ren laughed. “Stella, I wouldn't have it any other way.”
+
+She smiled. “Are you ready?”
+
+Ren looked at her in surprise. “I think you could blow on it and I'd go.”
+
+Stella chuckled. “Don't tempt me.”
+
+Ren's eyes widened. “What?”
+
+“Ren, you've got one of the best ones I've ever seen.” Stella said. “And you're a repeater.”
+
+“But... you work here... we can't...”
+
+“Date?” Stella laughed. “I wouldn't want to have a relationship, Ren.” She said. “I told you. This is just a body's normal function. There's nothing wrong with that. If it ever did happen, a little playing between friends is okay.”
+
+“But...”
+
+“I can see how much being like this bothers you.” Stella said, motioning at his throbbing member. “You're embarrassed and self-conscious about it, and you shouldn't be. All I'm doing is offering to help again, if you ever need it.” She didn't gently stroke the side like Ren thought she would. Stella gripped his member tightly with her hand, and gave it 2 little squeezes.
+
+“Good lord!” Ren said and gripped the sink with his good hand. He started ejaculating, then kept spasming, and the condom started to fill up.
+
+“You weren't kidding, were you?” Stella said as Ren kept going. About 20 seconds later, she let him go and Ren relaxed. She watched the spasms as they died out, and she rolled the condom off the rest of the way, being careful to keep the contents from spilling out. “It came off.”
+
+“It certainly felt like it!” Ren said after catching his breath, then looked at her. “Where did you learn to do that?”
+
+“I told you.” Stella said as she emptied the nearly full condom in the toilet and flushed it. “Best boyfriend ever.”
+
+Ren put a hand on her arm. “He was a lucky man.”
+
+“It's too bad he didn't know that.” She said as she wrapped the condom in toilet paper and stuffed it in her pocket.
+
+“Then he was a fool.” Ren said and turned to her. “Thank you.”
+
+“Don't thank me yet.” Stella said. “You've got to try the XXL.”
+
+“Give me a few minutes.” Ren said.
+
+“I thought you said...”
+
+“Yeah, I can go again. Right now.”
+
+“Oh.” Stella said. “And just as much?”
+
+Ren nodded.
+
+“Then Lucy was a fool, too.”
+
+Ren smiled crookedly. “It's not like I could have forced her to stay.” He said. “She'd hate me if I tried.”
+
+Stella put a hand on his arm. “That's why I didn't beg my boyfriend to stay.”
+
+Ren nodded. “Are our love lives messed up, or what?” He asked, then looked down at himself. It was a little softer and he smiled.
+
+“I guess I could have just talked about Lucy.” Ren said and grinned.
+
+“Keep talking, mister.” Stella said and handed him the XXL foil pack. “We've only got one more to try.” She said. “I didn't see a XXXL.”
+
+Ren sighed and opened the pack. He slid it on and he became erect again. It was a little tight, but Stella checked it and smiled.
+
+“It's supposed to be a little tight, to desensitize you a little bit.” Stella said. “It's a perfect fit.”
+
+“Stella... I... to do all of this for me...” Ren tried to explain, then shook his head. “Thank you.”
+
+“I'm happy to help.” Stella said and took him into a hug. “It's what friends do.”
+
+“Don't hug so...” Ren stood still as his body spasmed half a dozen times. He took a deep breath and blushed when he looked at Stella. “Sorry.”
+
+“It's okay, Ren. That was my fault.” She said and let him out of the hug. “Sometimes, I don't know my own strength.” Stella laughed, and Ren shook his head again and laughed, too. They cleaned everything up in the bathroom, and Ren went back to bed.
+
+“I've got the rest of the pack in my coat. I'll be right back.” Stella said and left. She came back a few minutes later and handed Ren the box. “Now you can have fun in the game, and you won't have to worry about making a mess out here.”
+
+Ren slipped another condom on, leaving extra room at the end, just in case. “Thanks again, Stella.”
+
+“Anytime, little stud.”

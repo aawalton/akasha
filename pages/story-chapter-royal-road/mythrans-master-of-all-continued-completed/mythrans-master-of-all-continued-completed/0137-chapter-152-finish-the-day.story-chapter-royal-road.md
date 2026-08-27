@@ -1,0 +1,325 @@
+---
+id: 36aeaecf-1658-5993-a61c-21e7d70233c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 152 - Finish The Day"
+slug: 0137-chapter-152-finish-the-day
+partOf: mythrans-master-of-all-continued-completed
+position: 137
+ownLength: 3261
+unit: words
+publishedAt: 2017-01-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115123/chapter-152-finish-the-day"
+royalRoadId: "115123"
+---
+
+Ren ran as hard and as fast as he could. It was a good flat area mostly, until he came to an outcropping of rocks. He came to a stop and looked at them.
+
+“I'd say they'd make a good obstacle course.” It took about 15 minutes for him to dig a few of the large ones up and move them around. He liked it, because he could move them around every day, so Princess would have to learn new ways to avoid them, and not just get bored running on the same track all the time. Once that was done, he dug a track through the area. Princess' hooves when she ran only spread out 2 feet, so he only needed 4 runs with the hammerpick to make it a good width. She'd have to jump one large rock, run around 2 others, and for fun, Ren put a sharp corner in the track. If she was careful, she could get around the corner if she slowed down enough. Ren moved on from there and ran for another mile, adding twists and turns, and he came to a hill.
+
+“Oh, that's just mean.” Ren said, and took out his mining pick and dug down and through the hill. He'd had to make the hole quite a bit larger than he normally would, as Princess was 5 feet tall and he didn't want her to feel crowded when she ran through the tunnel. Ren put a hinged door in the middle, so she could smash it and not worry about the impact; but as it was in the middle of the hill, she had to go through it and didn't know it wasn't solid. He came out the other side of the hill, and added a gradual turn to go back parallel to the main road. He found more large rocks and made several wooden barriers for her to smash through, some solid, some hinged, so Princess wouldn't know which ones were which.
+
+Ren kept going and saw there wasn't much for him to use as an obstacle, as the land was flat again, so he made a few. He dug a crater and used his Water Spray ring to fill it with water. It was only a foot deep, but Princess should either run through it or jump. Ren moved on and dug several trenches a couple feet across. If she was careful and slowed down, she could step over them without having to stop. He used the dirt from the holes to make small ramps and added wood barriers between them. Ren added a long gradual turn and headed back to House Neram. When he was half-way back, he dug a long trench for her to run through, and added short hinged barriers along the way. She could jump them or smash them; it was her choice. With the added turns, you didn't know what was coming next.
+
+Ren ran the rest of the way flat out, straight as an arrow, to give Princess a good long run, and ended the track back where he had started, about 300 feet from the back of his workshop. He had to run it himself 3 more times to make the track between the obstacles a good width for her, then he was done.
+
+“That's got it.” Ren said, and went into the workshop. He turned off the oven and went into the forge room. “Hi, Tee-one. How's it going?”
+
+“I'm nearly done, Ren.”
+
+“Excellent.” Ren said. “I'm tempted to make a crate for each armor set, just so they'd be kept together.”
+
+“That would be a good idea.” Tee-one said. “As it is now, I have similar pieces in the same slots.”
+
+Ren nodded and went out to the main workshop to make 10 long crates, just like the one he'd made for Nathalia's armor, and added a cloth lining. He went back into the forge room and watched Tee-one hammer the last piece. He set it aside, and Ren absorbed the heat from it, then used the dye station to make it a mottled gray.
+
+“Let's get them loaded into the crates.” Ren said, and Tee-one stored the piece. They went out to the main room of the workshop, and Tee-one took out the chest pieces to put one in each of the crates. Ren went behind him and enchanted the chest pieces with a glyph of 4 runes of Protection, granting a 40% bonus to Defense.
+
+“Suppertime.” Teepo said, and then Ren's Sending Ring glowed.
+
+“Supper's ready, Darling.” Nathalia said.
+
+“I'm just finishing up at the workshop.” Ren said. “I'll be there in a couple of minutes.”
+
+The ring's glow faded, and Ren watched as Tee-one placed each piece into the crates.
+
+“It'll go faster if you put every piece of a set of armor into one crate, then move on to the next.” Ren suggested. “You're using up more time by doing just the one piece and going to each crate every time.”
+
+Tee-one frowned. “I was emptying each slot by priority. Chest, back, arms, legs, gauntlets, boots.”
+
+Ren nodded slightly. “I know what you were doing.” He said. “If you were only doing one or 2 sets, that would be more efficient; but with 10, and having to walk around all the crates?” Ren shook his head. “Taking one piece from each slot and putting it together is much faster.”
+
+Tee-one looked at him. “You seem to want things done quickly.”
+
+Ren chuckled. “Normally, it wouldn't bother me; but, I've come to learn where to cut corners and make more efficient use of my time.”
+
+“I'm sorry if I'm wasting your time.” Tee-one said.
+
+Ren walked over to him and put a hand on his shoulder. “You're not wasting my time, Tee-one.” Ren smiled. “You're wasting your own.”
+
+“Oh.”
+
+Ren laughed. “It's okay, my friend.” He said. “You only just came to exist today. You've got a lot to learn.”
+
+Tee-one nodded. “What should I make next?”
+
+“I need 4 sets of House Neram Guard armor, dyed red. I'll set the gems of protection myself later.”
+
+“That won't take all night.” Tee-one said. “What else?”
+
+“You can make the 1 foot long, 1 inch wide rebar I need to keep fixing the Keep.” Ren said. “And a few dozen 10 feet long, 1 inch wide ones for the openings in the walls.” Ren thought for a moment. “I'm not sure how big the holes in some of the floors are, though.”
+
+“You're thinking of making a grid of rebar for them?”
+
+Ren nodded slightly. “It would be the easiest way. Lay the grid down an inch or so above the floor, with rebar pieces through the floor just like I'm doing with the walls, brace the underside of the floor with wood, and remove certain stones from the floor to help fill it with cement.” He said. “Assuming there's not a hole there for me to use already.”
+
+“How would you be adding the wood underneath the floor?” Tee-one asked. “You can't be in two places at once.”
+
+“I kind of can.” Ren chuckled. “I'd planned on Ruck helping me, actually. He can crawl up walls and ceilings, and is pretty strong now.”
+
+“I see.”
+
+“I'll worry about the inside of the Keep, once the outside is finished.” Ren said. “I'll see you in the morning.”
+
+“Goodnight, Ren.”
+
+“Goodnight.” Ren said and left the workshop. He ran down to the house and greeted Broxor, closed the gate, and locked it. He stored his clothing for a moment and equipped them again to clean up, and went inside to enjoy some conversation and good food.
+
+*
+
+“I can't believe he did that to me!” Ogshorn said.
+
+“You idiot.” His friend said. “Not only did you lose a great job, but you got banned from all of his lands.”
+
+“He had it coming!” His wife said, and smacked Ogshorn on the head. “You stupid...” *smack* “...foolish...” *smack* “...nincompoop!”
+
+“Hey. Hey!” Ogshorn covered his head, to no avail. His wife had always been a good shot. “I had to say something to him! Look at what he did to my brother!”
+
+His wife rolled her eyes. “I've heard the story more times than you have.” She said, and swung again. “But now I've heard the real one.”
+
+“Bah!” Ogshorn said. “He's lying.”
+
+“No, he wasn't.” His friend said. “We were all there. We heard it with our own ears.”
+
+“Just because he believes that...”
+
+“Shut your stupid mouth hole!” His wife said. “This was supposed to be our chance of getting out of debt!”
+
+Ogshorn sighed. “I know.”
+
+“With only me working, we're going to fall behind. Again.” She said.
+
+“I hate working the mines.” Ogshorn said.
+
+“You should have been thinking of that before!”
+
+“I know I messed up!” He said. “Stop hitting me!”
+
+His wife stopped mid-swing, and let her hand drop. “You could just sign up for the mines instead.”
+
+“What?!?”
+
+“It's better than nothing; and you're going to have to work there anyways.” His wife said. “You're better off getting a head start.”
+
+Ogshorn sighed again. “If I don't find anything else in a few days, I'll go to the mines.”
+
+His wife nodded slightly. “I'll see if I can get an advance at work.”
+
+“Ha!” Ogshorn said. “From him? I don't think so.”
+
+“He's not mean to people that don't provoke him.” His friend said. “You should see the statue of him up the road a ways.”
+
+“He has a statue of himself?!?” Ogshorn exclaimed. “Ha! I knew he was full of himself.”
+
+“You are a fool.” His wife said. “The statue was in dedication to his efforts for carrying a worker's house 8 miles, so they would have somewhere to live! A whole HOUSE! By HIMSELF!”
+
+“Okay, now that's the biggest lie I've heard toda-” *SLAP*
+
+His wife clipped him across the face with her open hand. “I've had enough of you trying to justify your actions.” She said. “If you say one more word about it, you'll be sleeping on the couch for the rest of the week.”
+
+Ogshorn looked at her in surprise. “You're taking his side? You're my wife! You should always be on my side!”
+
+She didn't say anything, and went to the bedroom. A minute later, she came out and put a blanket and a pillow on the couch.
+
+“Yes, I am your wife. I am on your side. But you have acted in a way that will hurt this family.” She said. “If you had listened to me when I said to be quiet, or when Hanholm told you to shut up...” She sighed. “We can make do for a while, but you know the taxes are coming up next month.”
+
+Ogshorn frowned. He had forgotten about the taxes; and they were behind several years. “I'm sorry.”
+
+“I know you are.” She said and walked to the bedroom door. “Goodnight.” She shut it, and Hanholm waited a minute before speaking.
+
+“You really don't know when to be quiet, do you?”
+
+“You be quiet.” Ogshorn said. “You should have defended me!”
+
+Hanholm snorted a laugh. “I wouldn't have defended you, even if I thought you had a leg to stand on.”
+
+“Some friend you are!”
+
+“You felt what he did!” Hanholm said. “That was some scary stuff right there!”
+
+“I wasn't scared!”
+
+“Liar.” Hanholm smiled. “I was scared out of my wits... and when he lifted his fist like that...” He shook his head. “...I thought you were dead.” He chuckled. “Then he called you 'darling'.”
+
+Ogshorn smiled. “Yeah, that was a shock.”
+
+“It wasn't as shocking as seeing his Sending Ring!”
+
+“Where do you think he got it?”
+
+“How would I know?” Hanholm asked. “I've only seen a Sending Stone twice in my life... and both times it was at the Main Keep.”
+
+“It could be worth a fortune.” Ogshorn said.
+
+“No.” Hanholm said. “No, no, no.”
+
+“Come on, he's got a ring on every finger! Is he going to miss just one?”
+
+“Yes.” Hanholm said. “He'll miss it, and he'll come right for us.”
+
+Ogshorn snorted a laugh. “He won't know it's us.”
+
+“We'll never get close enough to touch it.”
+
+“Ha!” Ogshorn said. “You saw how he treated the manager.”
+
+“Oh, no! No, no, no, no, no! You can't mean...”
+
+Ogshorn nodded. “Get a hold of Delilah.”
+
+“I'm not going to that part of the city.” Hanholm shook his head. “No way.”
+
+“Don't make me call on our oath.” Ogshorn looked at Hanholm sternly.
+
+“Fine.” Hanholm sighed. “I'll see if I can find her.”
+
+*
+
+Ren had just finished eating, when he finally got around to telling Nathalia and her mother about some of the things he'd made that day.
+
+“You made wands?” Narhilda asked. “Actual wands? Wands that cast spells?”
+
+Ren nodded. “I only know Minor Healing and Fireball spells, though.”
+
+“How many did you make?”
+
+“Only 40.” Ren said and picked up his plate to take to the sink. “20 Minor Healing, and 20 Fireball.”
+
+Narhilda stared at him as he took her plate, and then Nathalia's to the sink.
+
+“Can you show us one?” Nathalia asked.
+
+“Show you?” Ren asked, and took out two of each to give to her. “I made these for you.”
+
+“By the gods, Ren!” Narhilda said. “You used DIAMONDS for the focus head!”
+
+“Yeah.” Ren said. “They work, too.” He held up his healed hand. “Healed me right up.”
+
+“How... how much?” Nathalia asked, as she put the wands on the table and stared at them.
+
+“If you include the spells, and the materials...” Ren pondered, then he remembered the diamonds he'd used. “I'd say they're worth 3 to 8 platinum each.”
+
+“You'll never sell them for that!” Narhilda exclaimed. “How could you waste such valuable diamonds on making wands?”
+
+“Would they be worth the price if they're rechargeable?” Ren asked. Her mouth dropped open, and she didn't speak.
+
+“You can recharge them?” Nathalia asked, and Ren nodded.
+
+“I already recharged the one I used earlier.”
+
+“By the gods.” She said, amazed. “Reusable wands.”
+
+“You didn't examine it.” He said. “They also have 50 charges.”
+
+Nathalia's mouth dropped open, and matched her mothers. Ren chuckled and gave Nathalia a kiss on the cheek.
+
+“I've got some Adventurer's business to take care of.” Ren said, and went into the main room to sit on the couch. “I'll be back in a few hours.” He sat back and Teepo took off to land on the ceiling. See you in a bit, Teepo.
+
+“Bye, Ren.”
+
+“Logout.”
+
+********
+
+Ren ate a good meal; and that was saying something, when you consider it was hospital food. He checked himself in the bathroom, and everything was fine; so he got back into bed.
+
+I should ask Stella for another pack. Ren thought. I've burned through most of this box already. Ren chuckled mentally. It's hard to believe that I was celibate my whole life, then I had sex just once; and now I have it all the time. He smiled. It's only virtual, so I don't think regular people count it; but I do. Ren waited for Denise to come back in and smiled again. Then again, some normal people do count it.
+
+“Am I going to see another blue screen?” Denise asked, and helped him put on the VR headset.
+
+“Probably.” Ren said. “I found a way to share feelings with the one I sleep with, so we can feel what the other person feels.”
+
+Denise didn't respond as he settled into the bed and relaxed.
+
+“Flow Login Start.”
+
+*
+
+Oh...my... god! Denise thought. Did he just... no, he didn't just say... I can't believe... he couldn't have... oh my god! She sat down next to the bed in shock. Every woman's dream!
+
+*
+
+Ren woke up on the couch, and saw that the two women had gone to bed. He hadn't expected them to stay up to wait for him, since it was really late.
+
+I'm back, Teepo.
+
+“Hi, Ren.”
+
+Teepo. Ren thought. I hope you're not jealous of Tee-one.
+
+“I was at first.” Teepo said. “Then I thought you were naming him as a better version of me.”
+
+I wouldn't do that! Ren thought, surprised. You would be so hurt if I did that!
+
+“I know.” Teepo said. “When I saw you cast Tristan's face onto it, I was skeptical; but then you called it Tee-one.”
+
+Ren shook his head. I was going to call it 'Jerkface'. Ren chuckled mentally. So that every time I called to him, or asked him for something, I'd be calling Tristan 'Jerkface'.
+
+Teepo chittered in laughter. “Oh, that would have been funny!”
+
+I know. Ren smiled. But when it came out so well, I changed it to T1; Tristan1 or Tee-one. A much better version of that jerkface.
+
+“I agree. Tee-one is a much better Tristan than Tristan is.”
+
+Ren nodded slightly. He could never replace you, though.
+
+“Thanks, Ren.”
+
+Ren looked at the baby fire elemental's pen, and smiled. “Well, look at you.” He whispered, and tickled it's back. “You've gotten bigger.”
+
+It was now 4 inches across, and Ren smiled when he heard a crackling fire as he tickled it. He took out more Spider Silk Cloth scraps, cut them up, and crumpled them to put in the pen.
+
+“I'll need to make you a bigger pen, soon.” Ren said and stood up. He stretched and yawned, and went down to the old bedroom.
+
+My body seems to be adjusting to day and night here. Ren thought. I actually do feel tired.
+
+“After what you did today, you should be.” Teepo said. “You made an entire stable, by yourself, in 3 hours.”
+
+I wasn't happy doing it, like I usually am. Ren sighed. Not after seeing Barnar like that.
+
+“Don't worry, Ren.” Teepo consoled him. “He just needs time to deal with it.”
+
+Ren opened the door and crept into the room. There was a lump on either side of the bed, and Ren stored his clothing. He had forgotten to equip his armor's bodysuit, and it left him with just his underwear on. He slid in under the blanket and settled down between the two women. He felt a woman's hand touch his chest from both sides, and he lifted his arms. Nathalia snuggled in on one side, and Narhilda snuggled in on the other.
+
+“I'm sorry for the way I acted after supper.” Narhilda said sheepishly, and looked up at him. “I have no right to question your decisions about making things like that.”
+
+Ren kissed her forehead. “This is your House, Narhilda. You can question anything you want.”
+
+“You're not mad?” She asked.
+
+“Why would I be?”
+
+“I.. I raised my voice... to the man of the House.” She ducked her head. “Over material things.”
+
+Ren hugged her close. “If you didn't raise your voice every so often, I'd be worried there was something wrong with you.”
+
+She snorted a laugh and then kept laughing. “Okay, I deserved that.”
+
+“See? I told you.” Nathalia said, and Ren turned his head to face her. “She was so worried you were angry at her, that she practically begged to stay in here tonight to apologize to you.”
+
+“I did not!” Narhilda exclaimed. “I merely asked repeatedly until you gave in.”
+
+Ren chuckled, and it shook the two women slightly. “I think we all need a good night's sleep.”
+
+“So do I.” Nathalia said, gave Ren a kiss on the lips, and ducked her head down on his chest. “Goodnight.”
+
+“Goodnight.” Ren responded.

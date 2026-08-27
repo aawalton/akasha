@@ -1,0 +1,203 @@
+---
+id: d732eca7-60cb-5540-8191-e10e39d44455
+page-type-slug: story-chapter-royal-road
+title: "Interlude 02 Sera"
+slug: 0045-interlude-02-sera
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 45
+ownLength: 2040
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3318297/interlude-02-sera"
+royalRoadId: "3318297"
+---
+
+Her father had once told her the forest always spoke first, most people simply did not know how to listen.
+
+There were always other sounds beneath the wind. The shifting of leaves where something small moved through the undergrowth, the faint creak of branches high above where the trees leaned against one another, and the distant rhythm of water running somewhere beyond the hills.
+
+Sera had learned that lesson early, following her father through the woods as a child. His steps were always deliberate, each movement placed with care so that the land around him remained undisturbed.
+
+At first she tried only to imitate him, matching his pace and following the careful paths he chose through the brush. It did not work, her stride was shorter and her weight lighter. The cadence that guided his movements could not belong to her.
+
+It was a lesson her father had been teaching all along, though he had never said it outright.
+
+You must make it your own, he told her when she finally asked.
+
+In those days she had moved too quickly. Understanding that took time, and patience did not come easily to her then.
+
+Not long after, she hunted alone for the first time.
+
+The forest had been quiet that morning, frost clung to the fallen leaves while the wind moved slowly through the upper branches. Somewhere ahead, the brush shifted through the undergrowth, careless in the way prey often was.
+
+Sera had crouched among the trees and listened.
+
+The rhythm of the woods settled slowly around her. The wind in the branches, the faint rustle of dry leaves, the distant cry of a bird somewhere beyond the treelines. Amid the sounds of the forest, another movement carried through the brush ahead.
+
+Her prey was small, its movements were irregular.
+
+She had followed it carefully, moving between the trees with the quiet patience her father had always demanded of her. This time, she did not follow his cadence.
+
+It appeared only briefly between the trunks of two birch trees, pausing beside a patch of frozen moss as it lifted its head toward the wind.
+
+Sera drew the bowstring slowly, the motion disappearing beneath the quiet of the forest. The tension settled into her shoulders as she watched her prey between the birch trunks, waiting for the moment it lifted its head toward the wind.
+
+The moment came without warning, and her fingers released the string. The arrow struck before the animal could startle.
+
+She remained where she was for several breaths afterward, listening as the forest settled once more.
+
+Only then did she rise and walk forward to claim the result of her hunt.
+
+Her father said nothing when she returned that evening, but the faint nod he gave her was enough.
+
+For a long time afterward, the forest continued to speak in the same familiar ways. Wind moved through the branches above while small animals stirred among the fallen leaves, their quiet movements threading through the rhythm of the woods.
+
+For a time, nothing disturbed it.
+
+The Tithe came every winter, and the villages knew its signs well enough. Doors were barred before nightfall, hearths were dimmed, and hunters remained close to the palisades while the beasts passed through the forests beyond.
+
+Most years the beasts passed deeper in the forest, that night they came closer.
+
+Sera woke to the forest falling silent. No wind stirred the branches and no birds moved in the canopy above, while even the small animals that lived beneath the roots and fallen logs had vanished into the earth.
+
+For a moment, she thought the Tithe had already passed, then the movement began.
+
+They rushed through the forest in uneven bursts. Too close and too many, it broke the quiet in ways that did not belong to the slow passing of beasts through the hills. The rhythm of the hunt had changed, and by the time the forest spoke again the world she had known was already gone.
+
+Sera followed the eastern roads for many days after that, keeping to the edges of the narrow tracks where the refugees passed between the hills. Villagers moved west in uneven groups, their carts creaking beneath the weight of what little they had managed to carry while low voices drifted constantly along the road.
+
+For a long time, she found it difficult to listen at all.
+
+So she kept to the edges of the road where the wind moved more freely through the trees, letting the quieter rhythms of the hills guide her steps while the refugees continued west toward the villages that still stood beyond the forest.
+
+The road eventually carried them to Ashridge.
+
+The village reached her before the palisade came into view. The steady ring of tools striking wood carried across the fields, followed by the murmur of voices moving through the streets and the constant tread of footsteps across packed earth. It was louder than any settlement she had known before.
+
+Too many people.
+
+The noise pressed constantly against her senses as the militia led the refugees through the gate and into the village yard. Voices overlapped everywhere around her while wagons creaked past the well and children moved between the buildings with careless steps that carried farther than they realized.
+
+Sera endured it only long enough to understand the place before she began to move.
+
+The outer edges of the village were quieter, and she spent much of that first day drifting between the palisade and the nearby sheds where the settlement’s presence thinned beneath the open sky. Even there the village never truly quieted, too many people remained within the walls, their constant movement carrying through the air.
+
+By evening she had begun to consider leaving with the morning light, yet as the village settled into the slower rhythm of night another place drew her attention.
+
+The manor stood apart from the rest of the village, its stone walls held the noise of the settlement at a distance in a way the timber houses along the lane could not.
+
+Inside, the air was different from the rest of the village, quieter and more contained. When Sera slipped through the doorway the corridors lay nearly empty, the restless noise of the village reduced to a distant murmur somewhere beyond the walls.
+
+Near the upper hall she discovered a small room and paused in the doorway.
+
+The quiet inside the chamber was deeper than anywhere else in the manor. The stone walls softened the restless movement of the village beyond them until only the wind brushing faintly against the windowpanes remained.
+
+She stepped inside and moved at once toward the window, where the village carried faintly through the glass while the room itself remained still.
+
+After a time, light footsteps approached along the corridor outside, slowing as they reached the door. The latch turned a moment later and the door opened.
+
+A girl stepped into the room carrying a small bundle of folded cloth, she paused just inside the threshold when she noticed the figure by the window.
+
+Her gaze passed over Sera’s travel-worn leathers and the bow at her back before lifting to meet her eyes. She did not cry out or retreat toward the door.
+
+Instead she simply stood there, the quiet of the room settling around her. After a moment, she moved slowly toward the table and set the folded cloth beside the window.
+
+Only then did Sera notice it.
+
+The rhythm of the room did not change, it remained gentle in a way that carried the same distant memory of the woods.
+
+Since leaving the forest, the world no longer pressed against her senses.
+
+She had found someone who shared her quiet, yet moved through the world in a rhythm entirely her own.
+
+Sera decided she would remain a little longer.
+
+She heard the movement before she saw him, the faint shift of wood against its frame followed by the measured sound of footsteps crossing the threshold. She did not move from where she stood near the window, her eyes remaining fixed upon the figure who had just entered the room.
+
+The man did not look at her immediately.
+
+Sera watched him in silence.
+
+Most people reacted the moment they noticed the bow or the road-worn leathers she carried from the hills. Their steps faltered or their bodies shifted, some moved away without realizing it.
+
+This man did none of those things.
+
+His gaze passed briefly across the room before settling on the bow slung across her back. He studied it for a moment, the slight shift of his stance telling her he had noticed the weapon already.
+
+Neither of them moved.
+
+Wind brushed the windowpanes while distant voices drifted up from the yard below, parchment stirred faintly on the desk behind him.
+
+Beneath it all, another rhythm reached her.
+
+Slow.
+
+Even.
+
+It came from the man standing before her.
+
+Sera’s eyes never left him.
+
+It carried the same unhurried certainty that reminded her faintly of the forest before the world had grown louder.
+
+The man had studied the room first.
+
+Her father had done the same.
+
+Since the night the forest had changed, she had thought she was the only one who listened that way.
+
+The courtyard had begun to quiet.
+
+Most of the riders had already taken their places along the line of horses near the manor gate while the last sounds of tightening straps and shifting leather faded slowly into the cold night air. Lantern light flickered along the stable walls and the packed earth beneath the riders’ boots carried the low rhythm of movement that came before departure.
+
+Sera remained beside the well, where the sounds of the entire yard carried easily across the stone ring.
+
+The horses shifted restlessly near the courtyard entrance while the guards moved among them, their steps steady against the frozen ground. The wind carried faint sounds from beyond the palisade as well, brushing across the empty road that stretched west between the sleeping fields.
+
+Yet her attention lingered upon the man moving through the courtyard.
+
+Lucien walked past the line of riders, speaking only briefly to a few before stopping near the manor gate. There he paused, standing for several moments without moving, his eyes fixed upon the road beyond the village.
+
+From across the yard, Sera watched him.
+
+The lantern light did not reach that far, leaving only the faint line of the road beneath the moon as it disappeared west toward the distant hills.
+
+Lucien studied it longer than anyone else.
+
+The riders waited beside their horses while quiet voices drifted between them. Even the guards at the manor gate had turned their attention back inwards.
+
+After a time, he turned back toward the yard.
+
+Sera had not moved.
+
+His gaze found her almost immediately and he paused for a heartbeat. Then his eyes moved first to the bow resting in her hands, settling there briefly before rising once more to meet her own.
+
+“You intend to come,” he said.
+
+The words carried across the yard, calm and even.
+
+She reached toward the wrapped cloth she had carried ever since her world changed.
+
+The bow felt no different than it had years ago.
+
+Then she gave a firm nod.
+
+His gaze lingered upon her hunting bow once more before returning to her face, and for a moment, Sera listened to the steady rhythm beneath the noise of the yard.
+
+It had not changed.
+
+The man glanced briefly toward the riders waiting near the gate. “Keep to the column,” he told her.
+
+She inclined her head once and their exchange ended there.
+
+Around them, the last of the riders settled into position while the courtyard fell into the brief stillness that always came just before movement. Beyond the village, the road west waited beneath the moonlit sky, stretching into the darkness between the fields.
+
+Sera watched Lucien return to the riders. Even as he did, his eyes drifted once more toward the road before the column finally began to move.
+
+She did not yet know what waited beyond the hills.
+
+But she knew the man who led them was not searching for survivors.
+
+He was watching the trail of something that had already passed through.
+
+Sera knew the difference.

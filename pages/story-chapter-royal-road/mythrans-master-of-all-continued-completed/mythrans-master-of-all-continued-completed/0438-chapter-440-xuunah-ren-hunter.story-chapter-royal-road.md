@@ -1,0 +1,329 @@
+---
+id: e9b95bcb-229c-5648-ae04-45d7e9e8d6cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 440 - Xuunah, Ren Hunter"
+slug: 0438-chapter-440-xuunah-ren-hunter
+partOf: mythrans-master-of-all-continued-completed
+position: 438
+ownLength: 3591
+unit: words
+publishedAt: 2017-12-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177947/chapter-440-xuunah-ren-hunter"
+royalRoadId: "177947"
+---
+
+Xuunah had finished her preparations even sooner than she had promised, and had already made arrangements with friends for the care of her space over the next few hundred years. She wasn't sure if she would be that long or if her assignment would keep her away for a lot longer. She knew her friends would keep her spot ready for her return, no matter how long it took, and left it in their capable care.
+
+Xuunah floated out of her space and down the access way, and went across to the main Collective building. She met her mentor Zagatro, a Greater Light elemental, in the hallway to the official portal room.
+
+“Oho! So eager!” Zagatro said when he saw her, and she laughed.
+
+“I wouldn't say eager.” Xuunah said. “It's more like ecstatic.”
+
+Zagatro laughed with her, and floated close. “Do you think she will enjoy seeing you?”
+
+“I hope so.” Xuunah said. “It's been so long for me, but it's only been...” She chuckled. “It's just too bad I couldn't transfer into the dwarf lands to spend more time with her.”
+
+“Even I couldn't convince the Collective to be quite that ignorant in where you were sent for your deployment.”
+
+“You underestimate your intellect, Zagatro.” Xuunah said, and he laughed.
+
+“Perhaps.” Zagatro said, and they floated down the hallway together. “This will be a long assignment.” He warned her. “Find and discover the one who caused the disturbance in the Void, and observe them to find out how they did what they did.”
+
+“Should I even ask why the Collective wants that information?” Xuunah asked.
+
+“You can ask.” Zagatro said. “The person's identity is irrelevant. What needs to be known is what happened, and if there is some way to prevent it from happening again... or to make it happen again.”
+
+“You aren't just talking about the Void realm, are you?”
+
+“Unfortunately, no.” Zagatro said. “I'm not sure where the thought came from; but, it was quite disturbing in it's implications as it flowed through the Collective.” He sighed. “If it can happen there, where most of the Void and it's inhabitants were wiped out by channelling our realm into it... what if the reverse was true?”
+
+If Xuunah had a mouth at the time, it would have dropped open in shock.
+
+“That was my reaction as well.” Zagatro said and chuckled. “Imagine the damage and destruction a drop of Void blackness would do here in the realm of Light.”
+
+“I will find the person as soon as I transition.” Xuunah said. “After causing such destruction, they will be easy to track.”
+
+“I hope so.” Zagatro said. “If they use this... whatever it is... in another realm, the consequences for us all will be very grave, indeed.”
+
+“Don't worry.” Xuunah said. “When I do find them, I will discover the secret and order them... no compel them... to tell me all about it.”
+
+“You will need this on your journey.” Zagatro said, and a ball of energy separated from him and floated over to her.
+
+“But... this...”
+
+“It has been authorized; but once it is placed, it can never be removed.”
+
+“Zagatro, I...” Xuunah accepted the ball of energy into herself. “Thank you.”
+
+“You will need it.” Zagatro said. “Use it when you have to.”
+
+“I will.” Xuunah said and the door to the portal room opened. “This feels really weird.”
+
+“That's because despite how many times you've been here, this is the first time you've been here officially.” Zagatro said, and that made her laugh.
+
+“I can feel how glad you are that's true.”
+
+“I am.” Zagatro said. “Use your skills well.”
+
+“I will, old friend.” Xuunah said as she floated into the room and the door shut behind her. She eased over to the large platform and waited.
+
+“Prepare for transition.” A disembodied voice said, and Xuunah gathered her Mana for the exhausting Polymorph ability that only a select few of her people had as an innate ability. She wasn't allowed to use the ability within the Light Realm, as it was a disrupting sight for the general population to see a mortal body; which was what made her, and those select others like her, the perfect beings to send out to the other realms when it was necessary.
+
+“Creating portal.” The voice said.
+
+Xuunah knew they had chosen a spot that wouldn't allow her presence to be seen, and she floated through the portal and activated her Polymorph ability. Since she was in the Human Kingdom, she morphed into a human female of average height. Clothing formed around her as she used the last of her Mana to cast 'Create Clothing', and her mortal form dropped to it's knees.
+
+“Great Vasalor.” Xuunah said and sat down. “You would think I'd be used to this by now.”
+
+Xuunah waited for several minutes to let her Stamina recover, and looked around at where she was. She was in a warehouse of some kind, and it was filled with so many things that she was surprised the portal didn't intersect with something. She stood up and wandered around, marvelled at everything, then found the door. She had recovered some of her Mana as well, and used the Knock spell to open the door. When she stepped outside, she saw that she was beside a large dock by the sea; with a stable of horses off to the side, and a nice house off to the other side.
+
+This looks like a nice place. Xuunah thought, then ignored her own impulse to enjoy the scenery. I need to get to work. She concentrated on her Track ability as she thought about her mission to find someone marked by the Void's destruction, and a dim white arrow appeared in front of her. Yes! She thought happily as it picked up something and she saw it pointed towards the city wall she could see. She walked at a moderate pace so her Stamina could recover fully, and made it to the North Gate of the city of Aurora.
+
+*
+
+Ren brought Anabelle over to the house and brought the Phantom Steed to a stop. He hopped off and helped Anabelle down, then tied the steed to the available post.
+
+“I have someone I want you to meet.” Ren said to the steed, and it huffed at him. He took Anabelle's hand and brought her inside the house, and told her to wait for a few minutes. She nodded and Ren opened the door to the back bedroom. “Princess.” He said and knelt on one knee. “I ask forgiveness for using another mount.”
+
+You have it. Princess thought to him. I can... feel that it was a worthy replacement for me, even though it is inferior.
+
+Ren smiled and nodded. “Would you like to meet him?”
+
+I would. Princess got up off of her bed and trotted out past Ren. He ran past and opened the front door for her, and she stopped when she saw it. It is the same, but different.
+
+“It saved me by sacrificing itself.” Ren said, and heard Anabelle gasp. “When I cast it again, I made sure it knew what it did for me.”
+
+Princess approached the Phantom Steed cautiously. It huffed at her, then bowed it's head. She darted forward and slammed her head into it's extra wide head, and it matched her movement. It pushed him back slightly and snapped the post he was tied to; but other than that, he didn't show any signs it had affected him.
+
+Ren felt Princess' pleasure at the confrontation. “I know you've met before, but that was so brief that it wasn't really an introduction.”
+
+Thank you for taking care of him in my stead. Princess thought, and the Phantom Steed huffed at her. Ren smiled and stepped forward. “I'll remember this as well, the next time I cast you.” He said and pat the steed's neck, then dismissed the spell. It faded away, and Princess went back into the house. Ren picked up the broken post and stored it, took out the Staff of Earth, and used it to move the dirt away from the part of the broken post in the ground. He pulled it out and stored it, then shoved another post in it's place and used the staff to fill the dirt back in.
+
+Ren went inside and saw Princess was already back in her room, and he greeted his two dogs, Riley and Stacy. He went over to Railyse's room and knocked, and it opened right away.
+
+“Ren.”
+
+“I'm so sorry that I've been away so long.”
+
+“I'm fine.” Railyse said.
+
+“Do you want to bite, or do you want another massive feeding?”
+
+“I... I don't know.” Railyse said. “Now that you're here in front of me, I...”
+
+Ren could feel her indecision was causing her pain, so he made the choice for her. He eased her back into her room and shut the door, then took out his hammerpick and absorbed the enchantment.
+
+“Ren, you-”
+
+“Kneel, Future Queen.” Ren commanded.
+
+Railyse knelt without protest and opened her mouth all the way. It still bothered her a little that he was seeing her like that; but then, he tore open his wrist with the hammerpick and his blood poured out and down her throat. She couldn't think of anything except how wonderful it tasted, and Ren could feel how much she liked it.
+
+Ren took out a Major Healing wand and kept using it on himself to refill his Health, and unlike the last time where she had to stop at just over 7 minutes, she actually made it to 10 minutes before she started to choke. He healed the wound and the blood stopped flowing, and Railyse closed her mouth.
+
+“You are magnificent.” Railyse said, and stood up.
+
+“So, did you cover the whole city with rain this time?” Ren asked, and she laughed.
+
+“No. Once I realized that was happening, I turned the energy into something more useful.”
+
+“What do you... oh, hello.” Ren said as a 1 foot long water elemental came out of the water with a 6 inch one right behind it. “You're getting better at creating them.” He said and knelt to greet the younger one in Sea Dweller language. It spoke back in one word sentences, and Ren reached out a hand. It slapped it's arm stub on his hand, and bubbled at him.
+
+“You want a feeding, too?” Ren asked, and looked up at Railyse. “Can it take it?”
+
+“A small amount.” Railyse said. “You don't want to make it sick.”
+
+Ren touched the tip of his finger on the edge of the plow end of the hammerpick and pierced his skin, then held out the drop of blood. The baby water elemental put it's head stub on his fingertip and sucked up the blood. He saw the red liquid go inside and swirl around to touch every part of it, then the blood faded away.
+
+Ren watched as it lifted it's head stub, waited for the next drop of blood to form, then did it again. This happened 3 times, and the last time, the red color didn't quite fade as fast.
+
+“That's enough.” Railyse said and Ren healed the wound. The baby elemental thanked him and splashed into the water. Ren could feel how much the other elemental wanted a taste, and used the hammerpick to make a small cut. The blood welled up quickly, and Ren held his finger out. The elemental bubbled and gurgled at him, and he chuckled.
+
+“No, I'm not teasing you.” Ren said. “I offer it freely and without need of reciprocation.”
+
+The water elemental responded to the formal declaration, and it's head stub touched the cut and sucked up the offered blood. When it got to the point that it wasn't dissipating quickly, it stopped itself and gurgled at Ren.
+
+“You're welcome, and I'm sorry I overreacted the last time, too.”
+
+The elemental bobbed it's head stub and splashed back into the water.
+
+“My mother would have definitely kept you, if she knew you would feed her subjects as well.” Railyse said.
+
+“She almost kept me anyways.” Ren said and stood up. “The other prisoners and I had rebuilt half of the city by the time our sentence was up.”
+
+“I won't speak ill of her for letting such a prize go.” Railyse chuckled and touched his cheek. “Thank you, Ren.”
+
+“Thanks for not being angry at me.” Ren said.
+
+“It wasn't your fault that you weren't here.” Railyse said. “I've heard of your adventures, but I would enjoy a first person account.”
+
+“When I have time.” Ren said and grinned, and she laughed.
+
+“Go and tend to your maids.” Railyse said. “They eagerly await you.”
+
+“I know.” Ren said, because he had felt them down the street when their Auras had merged. “See you later.”
+
+Railyse nodded and he left her room. Ren took Anabelle's hand and brought her up the stairs, and opened the bedroom door.
+
+“Ren... what...” Anabelle started to say, and the other maids looked at her with wide eyes.
+
+“Just wait here.” Ren said and left the room at a run. He went downstairs and outside and over to the tower next door. He knocked, and the door opened, and he was greeted by a black haired beauty.
+
+“My Lord.”
+
+“May I come inside?”
+
+“I thought you would never ask.” The woman purred, and Ren chuckled.
+
+“I meant... never mind.” Ren said. “Please tell everyone to get ready for Aura absorption through me, if they want.”
+
+“You are going to share...”
+
+“There's no point in wasting an opportunity.” Ren said. “I promised to keep you all well fed.”
+
+“Thank you.” She said. “I'll tell them.”
+
+“Try not to go overboard, Seldanna.” Ren said. “There's going to be some emotions you won't be able to handle.”
+
+“How did you know it was me?”
+
+“You only changed your skin color.” Ren said.
+
+“But... we're all nearly identical.” Seldanna said.
+
+“I can feel you, remember?” Ren said and let his Emotion Siphon ability touch her.
+
+Seldanna gasped as it caressed her from the inside, and he absorbed some of how much it surprised and excited her that he could do that.
+
+“I mastered the ability.” Ren said and smiled, then ran back over to the house and went inside.
+
+*
+
+“What did he want?” One of the others asked as Seldanna shut the door.
+
+“He's going to share his encounters with his maids through his Aura.” Seldanna said. “To those that want it.”
+
+“Oh, my.” She said and ran over to the stairs. “Hey! He's going to share through the Aura!”
+
+“Share what?”
+
+“He's got his maids next door!”
+
+“Ooo!” One of the women looked down the stairs. “He only played with the Marilith demon, what this going to feel like?”
+
+“Hopefully like the best thing in the world!”
+
+*
+
+Xuunah had just come around the corner of the street and saw a short man run inside a house in the middle of the Housing District, with 2 men standing in front of it. Her Locate Arrow had led her through the city streets to this point, and she walked down the street. When she was 300 feet away from the house, she passed through the outer edge of a very powerful Aura.
+
+“Void Bane.” Xuunah said in awe, and ran the rest of the way down the street to the house with the guards. Her arrow pointed inside and up, and she looked at the two men. “May I approach? I need to speak to someone inside.”
+
+One of the men tapped the end of his sword on the door, and when it opened, a Water Realm being stood in front of her. Xuunah stepped back automatically, because she could feel how powerful the being was.
+
+I didn't expect this. Xuunah thought in surprise. Why is a Sea Dweller living on the land?
+
+“Can I help you?” Railyse asked, and smiled at the reaction she had received.
+
+“I need to see the Void Bane.” Xuunah said.
+
+“He is about to become very busy.” Railyse said. “You should come back later.”
+
+“Please.” Xuunah said. “It's urgent.”
+
+Railyse tilted her head slightly to the side. “You are a-”
+
+“SHH!” Xuunah reached out and covered Railyse's mouth with her hand, and the two men beside the door grabbed her by the arms. They yelled and let her go, and smoke rose from their hands. Railyse didn't like that a strange woman was touching her without her permission, so she bit the offered hand.
+
+“AGH!” Xuunah yelled and pulled her hand back, and the multiple sets of teeth marks that were there oozed blood.
+
+“Mmm.” Railyse said and licked her lips. “Weak, but tasty.”
+
+“WEAK!?!” Xuunah yelled, and then her Locate Arrow shifted down to point right at the Water Realm being. She watched as a human hand gently moved Railyse aside, and then Xuunah gasped.
+
+“Can I help you?” Ren asked, then got a good look at her face.
+
+“It's you!” Xuunah and Ren said at the same time, and then the disguises on the skeleton knights dissolved.
+
+“Just a second.” Ren said and used the disguise wand on the skeletons to cover them again, and he called over the others. He cast it on them as well, and they went back to their duties of guarding, scouting, and patrolling.
+
+“You have the undead working for you?” Xuunah asked, surprised.
+
+“They were a gift from the Lost Knights.” Ren said, and Xuunah gasped.
+
+“You found them?!?”
+
+Ren smiled. “Well, I found a few of them.” He said. “I recovered most of them from the piles of skulls I got from the Marilith demon.”
+
+Xuunah's mouth dropped open, and he felt her shock.
+
+“I'd like to explain it all, since it's a great story; but, I'm going to be busy for a while.” Ren said. “What is it that you want?”
+
+“Oh, right!” Xuunah said. “You did something to the Void Realm recently.”
+
+“Oh, damn.” Ren said. “I was afraid something like this would happen.” He sighed. “What's going to happen to me?”
+
+“Wh-what?” Xuunah blinked her eyes several times. “What do you mean?”
+
+“You're here to arrest me or something, right?” Ren asked. “I detonated an Anti-void bomb inside the Void Realm.” He said. “I knew there would be consequences.”
+
+“You... did you say an Anti-void b-b-bomb?”
+
+Ren nodded. “I made them an offer to let me pass, and they refused.” He explained. “I didn't want a fight; so, I figured I'd show them that I didn't have to fight them at all.”
+
+“You certainly did that.” Xuunah said. “My realm noticed right away, and then I was sent here to find you.”
+
+“So, what happens now?” Ren asked.
+
+“For now, I... I should... visit my daughter.” Xuunah said, to Ren's surprise. “I will be back to discuss this with you later.”
+
+“Okay.” Ren said with relief. “If you don't have a place to stay, I have a spare room upstairs.”
+
+“Wh-what?”
+
+“You've come a long way, and I'm sure you need a nice bed to sleep in.” Ren said and smiled. “You're welcome to stay here.”
+
+“But...”
+
+“I'm sure Nathalia will be delighted that you'll be so close by.” Ren said. “Her restaurant is over there, around the corner and down the street, right on the end of the Artesian District.” He said. “It should be open for supper soon, and she usually shows up not long after that.”
+
+Xuunah looked at Ren with wide eyes. “You are worried that I've come here to punish you for what you did, and yet you invited me into your home and then told me where my daughter will be.” She shook her head. “Are you crazy?”
+
+Ren chuckled. “I wasn't going to let you just walk around and hope you found her.” He said. “Plus, it wouldn't be polite to not offer you a place to sleep.”
+
+Xuunah opened her mouth to refuse, but she could see the sincerity on his face. “All right. I will be back in a few hours.”
+
+“Here.” Ren said and gave her a coin pouch and a platinum coin. “Buy dinner while you're there.”
+
+“Thank you.” Xuunah said and equipped the coin pouch and put the platinum coin in it. “Goodbye.”
+
+“Goodbye.” Ren said and handed the disguise wand to the skeleton knight. “Keep replacing the spell every hour on yourself and the others when it's up, and let that woman in when she comes back.”
+
+“Yes, sir.” The skeleton knight disguised as a generic male said without opening his mouth, and it stored the wand. Ren stepped back into the house and closed the door.
+
+“You know what she is.” Railyse said.
+
+“I sure do.” Ren said. “I also know not to say it out loud.”
+
+“Is that forbidden?”
+
+“Not really.” Ren smiled. “It's just not a good idea to... attract that kind of attention.”
+
+Railyse smiled back. “At least she's tasty.”
+
+“I've been replaced so easily.” Ren said sadly, and Railyse hugged him.
+
+“Never, (bubble) (gurgle).”
+
+“Fish stick?” Ren asked, and she laughed.
+
+“No.” Railyse said and leaned down to whisper in his ear.
+
+“What... oh.” Ren said as she explained. “I'm definitely going to take that as a compliment.”
+
+“As it was intended.” Railyse kissed his cheek and let him go. “Your maids await you.”
+
+“Right!” Ren said and kissed her cheek back. “Bye!”
+
+Ren ran up the stairs quick as a flash and went into the main bedroom.

@@ -1,0 +1,301 @@
+---
+id: cbb0a61f-0452-545c-a544-91b1005b8c6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 301 - Cast Off"
+slug: 0292-chapter-301-cast-off
+partOf: mythrans-master-of-all-continued-completed
+position: 292
+ownLength: 3355
+unit: words
+publishedAt: 2017-07-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146922/chapter-301-cast-off"
+royalRoadId: "146922"
+---
+
+Quest Update!
+
+Delthid Kulduhr is the name of the blacksmith that can forge a legendary blade in only 5 forgings. Orimihr Juldor has claimed he was imprisoned wrongly for the last 5 years, and that Delthid is the true criminal. Your quest to discover his secrets now includes the details of the alleged crime. Find him, and learn what you can from him.
+
+No time limit has been set for this quest.
+
+“So that's what was in the scroll.” Ren said. “If I'd known what it was, I wouldn't have put it off for so long.”
+
+“What?” Orimihr said, surprised. “How long have you had it?”
+
+“About a month or so.” Ren said. “I've been busy.”
+
+“So busy that you would let a man rot in jail?!?” Orimihr asked angrily.
+
+“Yes.” Ren said. “I just said that.” He smiled. “I've got a couple of books for you to read if you want to get caught up on some things.”
+
+Orimihr closed his mouth on his response, because Ren wasn't trying to deny anything, then changed what he was going to say. “I would like to know what's been happening.”
+
+“I haven't had the chance to write a book about the last few things that have happened to me; but, I'm sure I can fill you in over the next two weeks.”
+
+“Two weeks?” Orimihr asked. “Why a set time?”
+
+“That's how long the ship will take to get to Aurora.” Ren said. “It's kind of slow.”
+
+“Aurora?” Orimihr shook his head. “I can't leave! We have to find Delthid!”
+
+“He's not in the dwarf lands.” Ren said. “In fact, he's a good ways away from here. The last time I checked, he was a few thousand miles from the dwarf lands and well inside the Giant Kingdom.”
+
+“Oh, no!” Orimihr exclaimed. “All is lost!” He said, then sat down on the barge. “I'll be branded a criminal for all my days.” Tears came to his eyes and he wiped them away. “I've spent the last 5 years in the deepest parts of House Lodur's mines for a crime I didn't do.” He shook his head. “I always knew he was a little crazy; but, I can't believe he went to the giant lands.”
+
+“Don't worry.” Ren said. “We'll come back with an expedition to the continent eventually, much farther down the coastline.” He said. “It has to be well outside the dwarf lands, though.”
+
+“But... but I've never been outside the dwarf lands before!” Orimihr said. “How will I survive? How will I eat? What will I do?”
+
+Ren chuckled. “I'm sure I can find something to keep you busy.”
+
+Orimihr nodded slightly, and Ren turned back to Nathalia. He cupped the sides of her face with his hands.
+
+“I'll see you soon, My Love.” Ren said, and gave her a gentle kiss.
+
+“Bye, Ren.” Nathalia said, and stepped off the barge. She gave him a little wave, and the barge moved away from shore.
+
+Notice!
+
+Nathalia Neram has voluntarily left your party, Virtual Survivors.
+
+“What?!? No!” Ren said. “Nathalia, don't!” He sent her another party invite, but it was declined. “Please! I want you in my party! If I gain anything, I want to share it with you!” Ren yelled over the growing distance between the barge and the dock.
+
+“You've given me more than I could have ever asked for, My Love.” Nathalia said. “If I can't be by your side when you need me, then I don't deserve to share your spoils.”
+
+“Tee-one, turn back! Let me convince her!”
+
+“She asked me not to.” Tee-one said. “She wants what's best for you. Having someone in your party that only takes and never gives, would only hurt you in the long run.”
+
+“I don't care about that!” Ren hollered to her. “It let's me know you're okay!” He looked down at his Sending Ring. “Nathalia, I love you. I check the party status more than I check my own, just to make sure you're okay.”
+
+“I did, too.” Nathalia said. “It's definitely a comfort.”
+
+“Then let me keep that comfort.” Ren said and sent another party invite, which was declined.
+
+“Ren, you need someone that can go on quests with you. Someone that can have your back all the time, and not only for a few hours at a time on the days they aren't busy.”
+
+“But, Nathalia!”
+
+“No, Ren.” Nathalia said. “I love you, and I won't hinder you like that.” She said, and Ren looked at her on the dock. She waved again, and Ren waved back.
+
+“You'll find someone to replace me soon enough.” Nathalia said, sadly.
+
+“I told you a long time ago that I wouldn't!” Ren said. “Don't you remember? I told you that there would be other women, but that I would never look for another wife.” He said. “I told you then, and I'm telling you now. You are it, Nathalia. No one can ever replace you.”
+
+“Oh, Ren!” Nathalia said, and he could hear the tears in her voice. “I know we'll see each other again soon, but... this still hurts so much!”
+
+“I know!” Ren said. “You leaving the party isn't helping, either!”
+
+“I have to.” Nathalia said. “You're a great Adventurer, Ren. You need active party members, or you aren't going to survive for long.”
+
+“I know you're right; but, I don't want to do any of this without you.” Ren said.
+
+“I'm sorry, Ren.” Nathalia said. “You have to.”
+
+Ren saw her turn and walk away from the dock.
+
+“You've done all that you can for this kingdom.” Nathalia said. “And for me.”
+
+“Nathalia...”
+
+“I won't keep you from living your life, despite how much I want to keep you all to myself.” Nathalia said. “I'll see you again in two weeks. Come to the restaurant for supper, and we'll enjoy a nice meal together.”
+
+Ren couldn't make up his mind about what he wanted to say to her, so he responded to her request instead.
+
+“I look forward to it.” Ren said. “I'll see you then.”
+
+The Sending Ring stopped glowing and Ren sighed. He turned around and looked at Orimihr, who stared back at him with wide eyes.
+
+“You have a continuous Sending Stone?”
+
+“Yes.” Ren said.
+
+“How much was it?”
+
+“I made it.” Ren said. “So, nothing.” He smiled. “Not counting the cost of materials, time, effort, or Mana consumption at the time.”
+
+“You must be making a fortune.” Orimihr said.
+
+“I am, but not from them.” Ren said as the barge approached the ship. “I own a business that sells a bunch of different things that everyone needs or wants.”
+
+Orimihr nodded slightly. “That would make you a lot of money.”
+
+“Not as much as a restaurant does.” Ren said. “Let's get on board.” He said as the barge came to a stop beside the open cargo hatch. “I'll introduce you to the captain.”
+
+“You know the captain of this gigantic vessel?” Orimihr asked as he stepped into the cargo hold.
+
+“Of course I do.” Ren said and smiled. “I own this gigantic vessel.”
+
+“You own... no, I'll wait until I've seen everything before I start acting like a buffoon.” Orimihr said and smiled. “Then I'll pepper you with questions about everything.”
+
+“Fair enough.” Ren said and stepped onto the cargo hatch. “I'm going to pepper you with questions, too.”
+
+Tee-one and Ruck climbed on board the ship, and Ren stored the barge. Orimihr didn't gasp, but Ren felt like that was going to be his reaction, and he smiled as he walked over to the only clear spot left and took the barge out of inventory and stood it on it's side.
+
+“Have you picked a good spot, Ruck?” Ren asked and turned to look at his enormous backpack familiar.
+
+Ruck pointed straight up and Ren saw which one he wanted to use.
+
+“Deck hand!” Ren said, and one of the dwarves ran over to him. “I need a length of rope.”
+
+“Far corner, sir.” The deck hand said. “I'll get it.”
+
+He came back a minute later with it.
+
+“Thank you.” Ren said. “Ruck? Let's go.”
+
+Ruck picked Ren up and walked over to the wall of the cargo hold, then walked up that wall, and over the ceiling to the right pulley.
+
+“By the gods.” The deck hand said. “How is it doing that? Hey! He's doing it, too!”
+
+Ruck had put Ren's feet onto the ceiling so the Amulet of the Spider would take effect, and Ren ran the rope through the pulley several times to make loops, then tied a few knots in it to keep the loops the same size. Ren could have walked up the wall himself, but Ruck had 6 long legs and could walk much faster than him. When Ren was done, Ruck had a choice. He could hook himself onto one of the ropes and hang there, or he could use the loops of rope like a hammock.
+
+“There you go, Ruck.” Ren said and smiled. “You have your own lounge area.”
+
+Ruck pat Ren on the head, then climbed into the improvised hammock.
+
+“You won't be alone all the time.” Ren said and started to walk over to the wall. “I should be down to work in the forge during the day.” He said. “I've got a ton of things unlocked, and I want to explore what they are and what I can do with them.”
+
+Ruck waved to Ren, who walked down the wall as if he was walking casually along the floor. He walked slowly, so that there was always two points of contact. He could have gone a lot faster if he crawled, but it was much more impressive to walk standing up. Several deck hands had stopped working to watch the spectacle, and Orimihr was left speechless.
+
+“Let's go topside and find the captain.” Ren said to him, then looked at Tee-one. “You can take the cabin on the left of mine. Princess, the dogs, and the fire elemental are in the one on the right.”
+
+“I don't need a space to sleep.” Tee-one said. “You should give Orimihr the cabin.”
+
+Ren sighed. “I don't think there's a lot of work for you to keep busy for 24 hours a day over the next 2 weeks.”
+
+“I already had Nathalia tell Anabelle that no orders are possible for the next two weeks.” Tee-one said. “That doesn't mean we shouldn't build up a stock for when we get there.”
+
+Ren chuckled. “All right. Stay here and use the large workbench. The smelter is full and the stocks of wood and supplies are close at hand.”
+
+Tee-one nodded and walked over to the workbench as Ren led Orimihr over to one of the ways up to the deck of the ship. They went up the stairs and went into the main cabin. Ren checked the dining hall, and saw the captain sitting at the front table. Ren walked over to him and introduced Orimihr.
+
+“I thought you said you weren't bringing anyone else on board?” The short captain said.
+
+“I didn't know I was until a few minutes ago.” Ren said, then looked around. “I thought you said there wouldn't be House politics on this ship.”
+
+“There isn't.”
+
+“Then why are you all sitting like they do on every other ship?” Ren asked, and everyone stopped eating and looked at him.
+
+“What?”
+
+“This is exactly how everyone sat when I was on the other ship.” Ren said. “I sat at this table by mistake, and it started a whole thing... that I won't get into. It wasn't until later that I found out I had declared myself senior to everyone else in the room because I sat at the head table.” He pointed at the senior officers. “The senior officers sat there.” He pointed at the next table. “Their first mates sat there.” He pointed to the next table. “The senior deck hands sat there.” He pointed to the next table, and so on, and described exactly who sat where, and got everything right.
+
+When Ren finished with describing the grunts that sat at the last table, no one spoke.
+
+“You can argue that it's ship rules, but we all know it's not. It's House rules.”
+
+The short captain just stared at him.
+
+“I'm not going to tell you how to run the ship.” Ren said. “That's your job, and you get paid well to do it.” He looked at the cook. “Before you start complaining that you have another mouth to feed, you actually don't have another mouth to feed. I brought enough food on board to handle it, so he won't be eating here... that is, unless he wants to.”
+
+“No, I've had enough of eating commonly.” Orimihr said. “A nice solitary meal sounds great.”
+
+“I wanted to make sure that you didn't mistake Orimihr for a stowaway or something.” Ren said. “I also came here to tell you that the cargo hold is full and to take the ship to Aurora.”
+
+The short captain nodded slightly, and Ren left the dining room to complete silence. He led Orimihr down the hallway to the end and pointed to the left cabin.
+
+“Tee-one said you can have his cabin, so this is it.” Ren said and opened it. It was just as nice as the one Princess was in, and Orimihr shook his head.
+
+“I can't believe I've gone from sleeping in a hole in the ground to sleeping in a real bed.” Orimihr said. “I don't know if I'll be able to do it.”
+
+Ren smiled. “You'll adjust fast.” He pointed to the other door. “Don't go in there without me.” He said. “My mount, 2 dogs, and a fire elemental are in there.”
+
+“A WHAT?!?” Orimihr exclaimed, then shut his mouth. “I heard you mention it before, but I thought you were joking.” He shook his head. “I said I'd wait until I saw it all before I freaked out, so I will.”
+
+Ren laughed, then knocked on his room door and spoke. “I have someone with me.” He waited for a full minute, and then opened the door. Everyone was fully dressed, but Frikara had a huge smile on her face. “These are my personal maids.”
+
+“You have personal maids?!?” Orimihr asked, surprise clearly on his face and in his voice. Every maid's face turned from a smile to a frown when he stepped into the room. “Can I borrow one for a-hurk!”
+
+Ren had grabbed him around the throat and leaned in. “I am only going to tell you this once. You will treat them with the same respect as you'd treat a Lady. They obviously don't like you, so you will not enter this room without their permission.” He pulled Orimihr back into the hallway. “Do you understand?”
+
+Orimihr nodded slightly, and Ren let his throat go and turned back to the room.
+
+“Please accept my sincere apologies.” Ren said and bowed. “I will be more careful in the future.” He said and shut the door.
+
+“Hey, I didn't mean anything by it.” Orimihr said as he rubbed his neck. “You did say they were personal maids.”
+
+“Yes, my personal maids.” Ren said. “I didn't say that you could proposition them.” He said. “I know you've been in the mines for a long time...”
+
+“A really long time.” Orimihr said. “Do you think if I approach them normally...”
+
+“No.” Ren said. “I just told you that you can't enter the room without their permission.”
+
+Orimihr looked at him. “How can I ask permission if I can't approach them?”
+
+“You can't.” Ren smiled and motioned to the cabin on the left. “I'll bring you a plate of food in a few minutes.”
+
+“You seem to be really strict.” Orimihr said and stepped into the cabin. “You're not going to lock me in here, are you?”
+
+“Can you swim?” Ren asked.
+
+“No.”
+
+“Then what's the point of locking the door?” Ren asked, then shut it. He went back into his cabin, and shut the door. “I really am sorry about that.”
+
+“I'd like to say that we're used to it, but we aren't.” Frikara said. “Once we signed the contract, we were segregated.” She said. “Throgg brought other people in to be entertained, though.”
+
+Ren's eyes widened and walked over to them. “Please tell me that-”
+
+“What if they did?” Frikara asked. “Would you treat us differently?”
+
+“Of course not.” Ren said. “You're still women, no matter what happened to you in the past.”
+
+Frikara nodded slightly. “They only made us dance for their amusement.”
+
+Ren took a deep breath and sighed. “I'm glad.” He looked at each maid in turn. “You have my word I won't ask you to entertain my 'friends'.”
+
+“What about him?” Frikara asked.
+
+“I told him not to approach you again.” Ren said and prepared another plate of food. “I'll keep an eye on him to make sure he doesn't bother you.”
+
+Teepo took off from his shoulder and flew out of the room to stand watch in the hallway. Ren stored the plate of food, then took out 2 steel squares and enchanted them with the Sending Glyph.
+
+“Keep this with you at all times.” Ren said. “I'll have the matching one with me at all times, too.”
+
+“Thank you.” Frikara said. “So, we can call you at any time with this?”
+
+“Just think about me and speak.” Ren said. “I'll hear your voice as if you were standing right beside me.”
+
+“We'll try not to abuse it too much.” Frikara said.
+
+“I'm only in the cargo hold or on the deck of the ship when I'm not here.” Ren said. “I won't have far to go to get back here.”
+
+The personal maids nodded slightly, and Ren left the room to give Orimihr the meal and copies of his books, then came back into the room. He took off the Dire Wolf Hooded Cloak and folded it up on one of the tables, then took out a small plate and filled it with Health potion.
+
+“There's something you should know.” Ren said and took out the tarantula from inside the cloak. “I've got a pet spider.”
+
+Andrela came over to him and looked at it. “Is it special?”
+
+“It can't die, so yes.” Ren said. “It was a gift from the Queen of the Dark Elves.”
+
+“By the gods.” Navruth said. “You know the Queen of the Dark Elves!”
+
+Ren chuckled and put the spider back inside the cloak. “It's a long story.”
+
+“Can you tell us about it?” Lusinia asked.
+
+“When I come back.” Ren said, and took out the icebox Tee-one had given him. “There's still enough food for a couple of days in here.”
+
+“You're leaving for a couple of days?” Frikara asked, surprised.
+
+“Possibly.” Ren said and locked the door, and pulled a dresser over in front of it. “It all depends on how long my Adventurer's business takes to finish.”
+
+“So we won't get to cuddle with you for another couple of days.” Verwynn said.
+
+“About that.” Ren said and walked over to the bed. “I won't have you all uncomfortable like you were when I sat on the couch, in case you do want to cuddle while I'm gone.” He said and laid down on it, then put his arms out to the sides, and moved his legs apart a little. “I normally wouldn't do this, especially since it's not a safe zone; but, I don't have any choice. I have to go.” He smiled at them. “Keep the door locked and barricaded. No one is to hurt you while I'm gone.”
+
+“So you do care.” Frikara said, and Ren smiled as he nodded.
+
+“Logout.”
+
+*
+
+“So, do we take turns using him like a blanket, or do we all pile on like we did the first night?”
+
+“Pile.” Lusinia said. “I want a leg this time.”
+
+“Pile.” Verwynn said. “I'll stay with an arm.”
+
+The other maids agreed to a pile, and laid down at their chosen spots. They let out a collective sigh, and fell asleep.

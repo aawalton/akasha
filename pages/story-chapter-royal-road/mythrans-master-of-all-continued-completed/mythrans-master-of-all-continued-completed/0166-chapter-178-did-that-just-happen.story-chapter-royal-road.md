@@ -1,0 +1,341 @@
+---
+id: 62f91aa6-99ea-52c6-ad93-bab30c53deaf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 178 - Did That Just Happen?"
+slug: 0166-chapter-178-did-that-just-happen
+partOf: mythrans-master-of-all-continued-completed
+position: 166
+ownLength: 3722
+unit: words
+publishedAt: 2017-02-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120175/chapter-178-did-that-just-happen"
+royalRoadId: "120175"
+---
+
+Ren worked hard for the next 4 hours. He dug where he was told, helped build supports, installed cart tracks, and even went so far as to enchant the lanterns with glyphs of the Illuminate rune. When Teepo told him the first 4 hours were up, Ren told the miners that he was going for lunch and left the main tunnel. He went to his workshop beside the blacksmith shop and took out the large icebox he'd taken from House Neram Keep. It was nearly full of food; so he helped himself to some of it, then stored it again.
+
+When he was done eating, he made a chair and a workbench for himself and sat down. Ren looked through his inventory and saw he had over 400 bundles of spider silk, 200 poison glands, and 150 venomous fangs from the spiders. He used Identify and Appraisal on them all, and leveled both skills up. Identify was now Intermediate Level 3, and Appraisal was at Intermediate Level 6. He didn't even bother counting the money, and just shoved it into his coin vault without looking at it.
+
+“That's half an hour, Ren.” Teepo said.
+
+Thanks, Teepo. Ren thought, and left the workshop. He worked for another 4 hours straight, doing everything the work crew needed him to do, and when Teepo told him the time was up, Ren had a feeling of relief and happiness spread through his body.
+
+Wow, that's weird. Ren thought. I just felt happy and relieved for no reason.
+
+“Maybe that's your reward for finishing the day's work.” Teepo said, wisely. “After a while, I'll bet you're going to start looking forward to it.”
+
+Yeah. Ren thought. Positive reinforcement is always a good motivator; but, I didn't think a bracelet could provide it.
+
+“I guess if you don't fight it, it's not so bad.” Teepo said.
+
+It shouldn't be needed at all. Ren thought. Not for normal workers, anyways.
+
+“You're already changing things.” Teepo said. “You can't expect it all to be fixed overnight.”
+
+Ren sighed as he walked to the mine entrance. I don't want the feelings to be produced artificially. I should feel them myself. He went to the medical tent and went inside.
+
+The healer's eyes widened as she saw him, and he held a hand up in a surrender gesture.
+
+“I just wanted to apologize for what happened earlier.” Ren said. “I should have told you a complete physical examination wasn't necessary in my case.”
+
+“It was more complete than I thought it was going to be, that's true.” The healer said. “I... I never imagined...” She shook her head. “You must have quite the sex life, if you can react that quickly from a woman's touch.”
+
+“I definitely have a lot of adventures in that regard.” Ren said. “Much to my own surprise.”
+
+“And theirs, too.” The healer smiled crookedly. “I know I was surprised beyond belief.”
+
+“I really am sorry that it happened.” Ren said.
+
+“You don't have to apologize.” She said. “It was my fault for putting the both of us in that situation.”
+
+“I'd say we both contributed to it.” Ren sighed. “I hope we can get past it.”
+
+“I'm a professional.” The healer said. “I can move past it.” Once I get the feeling of having it pressed against my skin out of my head. She thought.
+
+“I'm glad.” Ren said. “Goodnight.”
+
+“Goodnight.” The healer said.
+
+Ren left the tent and ran down to the guard at the gate, who opened it as Ren approached. Ren ran through it and down the road, and was back in the city a few minutes later. He concentrated on his personal Aura and the House Neram pendant, then ran over to the Main Keep. The guards let him pass the short line of dwarfs still waiting to go inside. Ren walked through the lobby and down the hallway to the hidden passage, went through it, and then made his way back to the royal apartments. No one questioned or stopped him, and he made it to the apartment without incident. He went inside and Teepo scouted for a minute, then told Ren that no one was there.
+
+“I've got to go for a bit, anyways.” Ren said, and sat down on a couch. “See you when I get back.”
+
+“Bye, Ren.” Teepo said and flew out to the hallway to keep watch.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Stella was there with a grin on her face.
+
+“Okay, tell me what happened.” She said. “I saw the blue screen, and her face afterwards.”
+
+Ren sighed, and relayed what had happened.
+
+“How stupid can she be?” Stella laughed. “You're supposed to stand up and away from the area when you do a check like that.” She said. “And that's mainly because of your reaction.”
+
+“Really?”
+
+Stella nodded. “If you'd made a mess like you said you almost did, she would have been well out of the target zone.”
+
+Ren sighed in relief. “Thanks, Stella.”
+
+“You don't have to thank me.” She said. “If the healer wasn't prepared to accept the consequences of her actions, then she shouldn't have inspected you so closely.” She grinned. “Of course, she had no idea about the time bomb she might have set off from all of that poking and prodding.”
+
+Ren chuckled. “I'm just glad I don't have to do it again.”
+
+“Did she tell you that?” Stella asked, and Ren shook his head.
+
+“I just assumed that once I passed the physical, I would be allowed to work.” Ren said.
+
+“She might need to check you every day.”
+
+Ren's eyes widened at her, and Stella laughed.
+
+“Sorry.” She said. “I couldn't resist teasing you.”
+
+Ren rolled his eyes. “So she won't want to see me like that again?”
+
+“She should let you keep your underwear on if she does.” Stella said and grinned. “She won't make the same mistake twice.”
+
+Ren nodded. “What's for supper?”
+
+“What else?” Stella said, and put a tray with a bowl of plain white rice and a glass of supplement in front of him. Ren laughed, and sat up in bed to eat.
+
+“It was still worth it.” Ren said, and ate the rice. When he was done, he looked at Stella. “Stella... I know an engineering student that might be able to help us with the technical side of the medical experiments.”
+
+“You do?” Stella asked, and sat down. “How do you know...” She looked at the VR headset. “Stupid question.” She smiled. “What makes you think whoever it is can help us?”
+
+“She's modded the old headsets well beyond their technical specs.”
+
+Stella's eyes widened. “Really?” She asked. “I wonder...”
+
+“What?”
+
+“Nothing.” Stella said. “When can I meet her?”
+
+“Hopefully on the weekend; but, I won't know for sure until I send her a message.”
+
+“We can't work out the details of her salary and things until I meet her.” Stella said. “See if she can come over here on Saturday.”
+
+Stella took the tray and Ren opened the laptop. He typed up a message to Gloria and sent it off.
+
+“Hold on.” Ren said as he thought about Stella's schedule. “You're not working on Saturday.”
+
+“I'll come in to meet her, so we can discuss what we need from her; and what she can expect from us.”
+
+Ren nodded, and his laptop beeped. He checked the message and grinned. “She says she can be here bright and early at noon.”
+
+Stella laughed. “Tell her that's fine, and to bring anything she thinks she might need to work on a headset.”
+
+Ren typed up the response, and sent it. A moment later, he got her confirmation. “She'll be here.”
+
+“Great.” Stella said. “You might want to use the bathroom before logging back in, too.”
+
+Ren reached into his cubby hole, grabbed a foil packet, and went to the bathroom. He did his business and came back to bed.
+
+“I don't know if I'll log out tonight or not.” Ren said. “If not, I'll see you on Saturday.”
+
+“See you later.” Stella said and grinned. “Have fun.”
+
+“That's the plan.” Ren said.
+
+Stella helped him put on the VR headset, and he relaxed in the bed.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, and looked around. Teepo?
+
+“Hi, Ren.” Teepo said. “Nathalia is waiting for you in the bedroom.”
+
+Thanks. Ren thought, stood up to stretch, and went into the bedroom. Nathalia was sitting on the edge of the bed, looking at the door. Her eyes brightened as she caught a glimpse of Ren, and she ran to him. He caught her in a hug, and she kissed him desperately. They stayed embraced for several minutes, then Ren broke the kiss.
+
+“I'm not complaining about it, but... what's with the urgency?”
+
+“Narhilda is still in a meeting, and we don't have a lot of time.” Nathalia said. “I was worried you wouldn't be back before she was.”
+
+Ren cupped the side of her face. “We haven't had any alone time in a while, have we?”
+
+Nathalia shook her head. “Now that your days here are numbered, we're going to have less and less.”
+
+“I know.” Ren sighed. “I don't know how I'm going to deal with not being able to share a bed with you after that.” He smiled sadly. “I've gotten used to having you by my side.”
+
+“Me, too.” Nathalia said. “I love you.”
+
+“I love you, too.” Ren said. “There's also something I need to ask you about.” He told her about Donna, the cook at the mansion, about her infatuation with strong military men, and about her asking him to visit with her occasionally when he was in Aurora.
+
+Nathalia chuckled, but Ren could hear the sadness in her voice. “With you having to leave, you can't fulfill the marriage contract. Why are you still asking for my permission?”
+
+“Just because I won't be able to complete our agreement, doesn't mean I should ignore it, or you, before it's nullified.”
+
+“Even if we were still going to be together, I wouldn't object to it.” Nathalia said. “I wouldn't like it much... knowing you were filling another woman's idea of a dream man; but...” She sighed. “You can do what you want.”
+
+Ren chuckled. “I know what that phrase means.” He said and kissed her. “It means you're not happy; but, you'll forgive me for it eventually.”
+
+Nathalia laughed. “Yes, Ren. That's exactly what it means.”
+
+Ren picked her up and laid her on the bed. She looked at him expectantly, and he smiled.
+
+“Do you remember what I said, that very first time we admitted our feelings for each other?”
+
+Nathalia shook her head.
+
+“I said that I had a hard time stopping myself from kissing every inch of you, every time we touched.” Ren said, as Nathalia's eyes widened. “Can you guess what I'm going to do to you right now?” He asked her as he stored his clothing. Nathalia grinned as she stored her clothing, too.
+
+It took Ren about half an hour to do what he said he was going to do. There was much giggling and laughing from her as he did kiss every inch. Nathalia kind of thought he was joking, and it would eventually turn into sex, once he got to certain spots. He didn't do that, though. Ren kept his word to kiss every single inch, then finished the task by kissing each of her toes. He held her ankles, and because it was tickling her so much, she tried to squirm and pull free. He held her firmly but gently, then kissed the pinky toe on each foot and let her go.
+
+“I... I can't believe... you actually did it!” Nathalia said, trying hard not to keep laughing.
+
+“I've wanted to do that for a long time.” Ren said. “It was about time that I finally got to do it.”
+
+She looked at him, and sighed. “You're not even gone yet, and I already miss being with you.”
+
+Ren lay on top of her. “Then let me ease your suffering for a while.” He said as they joined together, and he proceeded to please her as many times as he could in the time he had available. Nathalia kept saying that she loved him, and cried a little bit after each time he made her go. He asked her to concentrate on her House Neram pendant, and he let the tears flow as well when their Aura's merged. They made sweet, sad, and passionate love for nearly two hours. By the time they were done, both of them had cried themselves out, and they held each other in a tight hug.
+
+“Thank you.” Nathalia said, and stared at him. “For loving me so much.”
+
+Ren stroked the side of her face. “We've gone for longer than that before.” He chuckled at the indignation he felt from her. “I'm teasing you.” He said. “You've been the best thing that's ever happened to me.”
+
+“That part I remember telling you.” Nathalia said as she felt his sincerity. “That this would be the best thing that either of us had ever had, marriage or no marriage.”
+
+Ren nodded slightly and kissed her forehead, the tip of her nose, then her lips.
+
+“Narhilda's coming down the hall.” Teepo said. “She'll be here in a minute.”
+
+“Teepo says Narhilda's almost at the apartment.”
+
+Nathalia nodded slightly as their Aura connection faded. They got out of bed, equipped their clothing, and went out to meet her. The apartment door opened and Narhilda came in, wearing the dress Ren had made for her. Riley and Stacy were on her heels as she strode over to stand in front of Ren.
+
+“I'm sorry I'm late.” Narhilda said. “These meetings are taking up more and more of my time.”
+
+Ren smiled. “I told you.”
+
+“Sometimes, I hate it when you're right.” She said, then took in a sharp breath. “I didn't mean... I shouldn't have said that.”
+
+“It's how you feel.” He laughed. “Just so you know... I hate it sometimes, too.”
+
+Narhilda sighed. “Ren, I... I don't feel like... um...”
+
+“I assumed you didn't.” He smiled. “Especially since you didn't hug me when you came into the room.”
+
+She had a surprised look on her face for a moment, then sighed again. “I guess I really am too tired, if I don't want you to hold me.”
+
+“Going to bed and getting some rest, sounds good right now.” Ren said. “Am I staying on the couch?”
+
+“Of course not!” Narhilda said. “There's a perfectly good bed in the other room.”
+
+“Then I will see you in the morning, My Lady.” Ren said. He bowed slightly, walked across the room, and entered the small second bedroom.
+
+*
+
+“What was that all about?” Nathalia asked.
+
+Narhilda covered her face with her hands. “I have to start fighting my feelings for him.” She said. “If I don't start cutting him off right now, when he leaves I'll... I'll never get over him.”
+
+Nathalia shook her head. “All you're going to achieve by doing that is hurting yourself, and him, long before it's necessary.”
+
+Narhilda sighed. “What can I do?” She asked. “He's done so much, changed everything so much. I don't know how to handle all of it, and him, at the same time.”
+
+“Handle him?” Nathalia laughed. “You don't have to handle anything with him.”
+
+“Wh-what?” Narhilda asked, surprised.
+
+“I just spent the last 2 hours sharing all of my feelings with him, and he shared his with me.” Nathalia said. “His heart is so filled with love and longing, that it's nearly busting at the seams.”
+
+Narhilda stared at her.
+
+“You don't 'handle' him.” Nathalia shook her head. “You love him; and that's all that needs to be done.” She turned away from the woman she'd vowed to take care of when she was 10 years old, and went to the small bedroom to spend the night with the man she loved.
+
+*
+
+Ren had just settled down in the bed, when Nathalia came in and asked him to move over.
+
+“I don't think so.” Ren said and smiled. “If I move over, I'll fall out. This bed is barely big enough for me to lay on. You'll have to make other arrangements.”
+
+Nathalia stored her clothing, which left her with just the thin slip on, and slid under the blanket to lay down on top of him.
+
+“How's this arrangement?” She asked, as Ren wrapped his arms around her to hold her steady.
+
+“I think that's just perfect, My Love.” He said and kissed her. Nathalia snuggled down onto his chest and they drifted off to sleep.
+
+*
+
+Narhilda went into the large bedroom, got undressed and laid down on the bed. Riley and Stacy took up their positions on either side of it, like end tables. Narhilda hugged herself with her arms and rolled over onto her side. Tears formed in her eyes, and she wiped them away.
+
+“This is for the best.” She said softly. “Even if he earns another invitation to come back, we... we still can't be together.” Narhilda tried to convince herself. By the time she had cried herself to sleep nearly an hour later, she believed that distancing herself from him was for the best.
+
+*
+
+Ren woke up early the next morning, and his body was quite ready for some friskiness.
+
+“Mmm.” Nathalia said as she felt Ren stir. “I think someone is 'up' early.”
+
+He still didn't know how Nathalia had managed to have her slip ride up and got it tangled over and around her chest again; but today he didn't worry about it, as it gave him easy access to her. He took full advantage of the opportunity, and Nathalia appreciated his attention as they had fun for almost an hour. They played and teased, and tried their best to not fall out of the tiny bed as they got down to business. When they were finished, they got dressed and went out to the main room. Ren took out the icebox so they could eat breakfast.
+
+“I can't believe you've been carrying that around.” Nathalia said as she took out some food and set it on the table. “Thank you.” She said. “The cooks here have no passion. They just make the meals and serve them.”
+
+Ren nodded slightly. “If I had more time, I'd ask you to teach me everything you know.”
+
+“I really want to teach you, too.” Nathalia sighed. “But after your 3 month sentence, you only have a month to finish everything you've started. It would take a lot longer than that to teach you.”
+
+“I know.” Ren said. “I just have to prove my value to the dwarves again, and try to earn another invitation back.”
+
+“After everything you've done here, do you really think there's something else you can do to prove your worth to us?”
+
+“I'm sure I'll think of something.” He grinned as he ate.
+
+“If you can top saving the people from Lord Lodur's strangle-hold, I'd like to see it.”
+
+Ren chuckled. “You'll be the first person I'll come to see when I get back.”
+
+“I'm sorry, but that won't be possible for a while.” Narhilda said as she came out of the bedroom. “I think Fritz was right. We need to fix everything here before opening our borders to other people that don't understand our ways.”
+
+“What are you wearing?” Nathalia asked her. “Where's the dress Ren made for you?”
+
+“In the closet.” Narhilda said. “I need to start wearing more appropriate clothing for receiving visitors to the castle.”
+
+Nathalia frowned. “You shouldn't do that.” She said, and noticed something missing from Narhilda's neck. “Where's your pendant?”
+
+“With the dress.” Narhilda said. “That's what the meeting was about last night. My Advisor said I should adjust to living in the castle, and not keep living in the past.”
+
+“That doesn't mean abandoning everything Ren made for you!”
+
+“It's all right, Nathalia.” Ren said. “If she's decided that her own House doesn't mean as much to her as it does to me, then that's her choice.”
+
+“Ren!” Nathalia exclaimed. “She can't do that! Not after everything you've done to make House Neram mean something again!”
+
+“She can do whatever she wants.” Ren said. “She's running the Kingdom now, after all.”
+
+“Only because of you!”
+
+He nodded slightly. “Yes, and now that I have, apparently I'm not needed anymore.”
+
+Narhilda took in a deep breath to speak, and Ren raised a hand to stop her.
+
+“I don't need your excuses or explanations.” He said. “I get it. I understand.” Ren stored the icebox, then looked at Nathalia. “I won't be coming here to sleep at night anymore.”
+
+“REN!” Nathalia yelled. He stepped close to her and gave her a quick kiss on the lips.
+
+“Just call if you need me.” Ren said. “I'll get to you as fast as I can.” He looked at Riley and Stacy. “Come.”
+
+The two dogs went to him and took up positions at his side. Narhilda looked at him with surprise clearly on her face.
+
+“I won't leave parts of myself around you, when you don't want me around.” Ren said. “You'll have to use your own guards from now on.” He said, turned away, and left the apartment with the dogs following him. Teepo was tempted to hang around and listen; but, he didn't want Ren to get too far ahead of him. He flew out of the apartment and down the hallway, to continue his scouting job.
+
+*
+
+“What, by the gods, are you thinking?!?” Nathalia nearly yelled.
+
+“I told you last night.” Narhilda said. “I need to distance myself from him.”
+
+“That's not what you just did!” She said. “What you did was cut him off! Not only from you; but from me, too!”
+
+Narhilda's eyes widened at Nathalia's tone, then she frowned. “I don't think I like the way you are speaking to me.”
+
+Nathalia laughed. “I don't like the way you're acting, so I guess that makes us even.”
+
+“Nathalia.” Narhilda said, sternly. “You swore an oath...”
+
+“Yes I did.” Nathalia said. “20 years ago. After all that time with you, this is the first time I've ever regretted it.”

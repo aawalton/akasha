@@ -1,0 +1,357 @@
+---
+id: 0b212dd9-ab23-5d20-a9b0-a9e3f3ebc795
+page-type-slug: story-chapter-royal-road
+title: "Chapter 255 - I Want That"
+slug: 0244-chapter-255-i-want-that
+partOf: mythrans-master-of-all-continued-completed
+position: 244
+ownLength: 3475
+unit: words
+publishedAt: 2017-05-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136982/chapter-255-i-want-that"
+royalRoadId: "136982"
+---
+
+“Ren!” Teepo nearly shouted. “He’s going in a secret door!”
+
+Ren poured on the speed, ran around the corner, and caught the door just before it closed. It looked like it was part of the wall, and no one would be able to see it. In behind was a walkway within the stone walls of the Garrison. Ren pushed the door open, and waited for the guard.
+
+“Here!” Ren said, once the guard came into the section. “Prop this open with something.”
+
+“With what?”
+
+“Either yourself or use your sword.” Ren said, let the door go, and went inside. He heard a loud scrape, and assumed that the guard used his sword rather than just stand there and hold the door himself.
+
+Teepo?
+
+“Left, left, right, straight, and straight so far.” Teepo said.
+
+Got it. Ren thought and followed Teepo’s directions through the walls. It didn’t take him long to catch up to the dwarf. He was in a small room, barely ten feet square, and it was full of weapons and tools. The dwarf grabbed a handful of things from the small workbench, and reached for a sword.
+
+“Hold on.” Ren said, and the dwarf froze. “I don’t know what’s going on here, but maybe I can help.”
+
+“I have to save her.” The dwarf said. “I’ve… I’ve been paying ransom for months.”
+
+“Is that her?” Ren asked, and pointed to a picture above the workbench. It was a painting of the dwarf and his daughter. She was a cute little thing, with her brown hair done up in twin braids, and she had a big smile on her face. The painting was in the middle of several building plans and directions on what to do to bypass the guards. It also showed how to disable the enchantments that were protecting the buildings and the approaches to those buildings.
+
+“Yes.”
+
+“I’m sorry.” Ren said. “Why didn’t you say anything?”
+
+“I can’t.” The dwarf said. “If I told anyone about it, they said… they said…”
+
+“I understand.” Ren said. “You’ve been planning this for a while.”
+
+“Ever since she was taken.” The dwarf said.
+
+“How did you find out where they were holding her?”
+
+“With this.” He said, and showed Ren a mirror he had taken from a drawer.
+
+“How does it work?”
+
+“You concentrate on what you want to see, and it shows it to you.”
+
+“You’re kidding.”
+
+“No.” The dwarf said. “It took years of research and more money than I can say, to find this little gem.”
+
+“Wait, find?” Ren asked. “You didn’t make it?”
+
+The dwarf shook his head. “There’s no way our current level of technology can make anything like this.”
+
+“Can I try it?”
+
+“NO!” The dwarf said and stuffed the mirror into his clothing. “This is the key to rescuing her.”
+
+“What if I give you my word that I’ll do everything that I can to save her?” Ren asked. “Will you let me use the mirror then?”
+
+The dwarf stopped gathering things, and looked at him. “You were just kicking me out of the crafting section, and now you want to help me?” He said, surprised. “Are you crazy or something?”
+
+“Yes.” Ren said. “I was trying to convince you that telling me what was going on was better than losing your job; but, I can see now that wasn’t going to work.”
+
+The dwarf shook his head in disbelief. “You aren’t going to take the mirror, are you?”
+
+“Actually, I won’t ask for it until after we rescue your daughter.”
+
+“What?”
+
+“I’d like to use it right now, but only so I can see where the giants are.” Ren said. “There’s an imminent attack coming, and I want to know if I can get a better estimate than a few hours to a couple of days away.”
+
+The dwarf nodded slightly, and took out the mirror.
+
+“You give your word to help rescue my daughter?”
+
+“I do.”
+
+New Quest!
+
+You have been tasked to rescue an employee’s daughter from her captors.
+
+Rewards: All-Seeing Mirror, Influence +10,000
+
+Time Limit to complete: One week
+
+Penalty for Failure: ????
+
+The dwarf handed Ren the mirror, and he examined it.
+
+All Seeing Mirror (Legendary Item)
+
+This mirror has had several enchantments and spells applied to allow it to see distant objects. The user should concentrate on the object they want to see, and it will appear in the mirror.
+
+Ren tried to use Appraisal on it, but didn’t get anything. Either it’s invaluable, or my skill isn’t high enough to value it yet. He thought, and concentrated on the Guardians of the Land that were coming to attack the refugee giants. The mirror’s surface shimmered for a moment, then changed from showing a reflection of Ren’s face, to a wide angle shot of 30 fully-armored giants that marched across the land. At that moment, Ren was struck with inspiration. He concentrated on the blank map Lara had shown him when she told him where the legendary smith was located, and thought about where the giants would be. Much to his surprise, two dots appeared on the map. One was the advancing force of Guardians of the Land, and the other was the refugees.
+
+“The Guardians of the Land are about a day and a half out.” Teepo said, when he looked at the map. “The refugees are a day out.”
+
+Ren watched the dots move, and he sighed. “They’re going to meet long before I can get out there.”
+
+“Who is?” The dwarf asked.
+
+“The giants coming to attack, and the giants trying to go home.” Ren said, and thought about Lara. The mirror shimmered and showed her as she sat at her desk in Aurora. He thought about Nathalia, and saw her at work in the kitchen of her restaurant. Ren smiled, thought about his own reflection, and handed the mirror back.
+
+“Thanks.” Ren said. “I’ll rescind your expulsion from the Garrison; but, don’t go off on your own.” He said. “How much is the ransom?”
+
+“It keeps going up.” The dwarf said. “Each time I pay to have her released, they think they can get more from me and raise the amount.” He sighed. “It’s up to 5 platinum now.”
+
+“How much do you have, and when is it due?”
+
+“Three platinum, and 2 days.”
+
+Ren pulled out 2 platinum and gave it to the dwarf. “If they contact you before then, tell them you have the ransom and will pay on time.”
+
+“How do I explain where it came from, without telling them how I got it?”
+
+“Don’t.” Ren said. “If they want to know, tell them that all that matters is you have the money, and it doesn’t matter where it came from.”
+
+“If they keep pressing me for an answer?”
+
+“They’ll know if you lie.” Ren said and smiled. “Tell them the truth. You’ve done a lot of bad things to get the money up until now.”
+
+The dwarf opened his mouth to argue, then shrugged. “Okay, I admit it was bad to swindle customers and also keeping some of my budget for this.”
+
+“There you go.” Ren said. “Keep that tone in your voice if you’re talking to them, too.” He grinned. “There’s nothing like self-deprecation to make them think they have you under their thumb.”
+
+The dwarf nodded slightly, and Ren turned to leave.
+
+“Thank you.” The dwarf said.
+
+“You can thank me when we get your daughter back.” Ren said, and left the small room. He followed the directions back to the door into the hidden wall maze. The door was shut, and there was a broken blade on the ground. Ren smiled as he examined the door and saw the mechanism and counter-weight balance; he got the plans for it and pulled the little piece of rope. The door swung open easily, and the guard stood on the other side.
+
+“I’m sorry, sir.” The guard said and held up the sword handle. “It broke my blade.”
+
+“It was a good try.” Ren said and took out one of the dozen swords he’d made for the giants. “It’s a little big, but it’s a lot better than that one.”
+
+The guard stared at the steel blade, and hefted it. “It’s heavy.”
+
+“You’ll get stronger.” Ren said. “I’m canceling my order to have the dwarf escorted out of the Garrison.”
+
+“Of course, sir.” The guard said. “I’ll let the others know that you changed your mind.” He said, and went back to his post in the crafting section.
+
+Ren went back to pick up Princess, and went to the gate that led out to the wilderness. Once outside, he took out the steel square connected to the Commander of the Garrison.
+
+“Sorry to bother you, but I have a better estimate for when the attack will come.” Ren said. “The giants are about a day and a half away. So, if nothing stops or delays them, they’ll get to the giant’s camp the day after tomorrow. Probably around noon.”
+
+“Understood.” The Commander said. “We’ll be ready.”
+
+“So will I.” Ren said, and rode Princess out to the giant camp. He told Laurelia that the attack wasn’t going to happen for another day and a half. He was tempted to tell her about the refugees, but since he didn’t know if they would meet the oncoming Guardians of the Land for sure, there was no point in worrying her about it. He could worry enough for them both.
+
+Ren left the camp and rode around the circumference of the trench. Once all of the Water Spray enchantments had been deactivated because the 20 foot wide by 20 foot deep trench was nearly filled up, he was tempted to dive in and gather the Water Spray steel squares up. Anyone that went into it would have quite a hard time getting back out, though; so he changed his mind. Ren rode Princess back through the Garrison, through the city of Dornrach, and to House Neram Keep. He had made it just in time. Princess settled into her crate and was fed, and Ren went inside the house to eat supper.
+
+Ren, Nathalia, and Ereka enjoyed a quick meal, and he told them about the giants and their approaching attack. They discussed the best ways to fight them, and then Ren had to log out. He kissed Nathalia goodnight, and sat on the couch after taking off the Dire Wolf Hooded Cloak. He folded it up and set it on the small table in front of him, and refilled the nearly empty small plate with Health potion.
+
+“I’ll be back soon.” Ren said to everyone.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Denise already had lunch ready on the tray in front of him.
+
+“Hey, thanks!” Ren said, and he ate his lunch quickly.
+
+“I saw what was going on.” Denise said. “You’ve been neglecting your girlfriend a little.”
+
+“Yeah.” Ren said. “That’s why I want to get back in as soon as possible. I want to make it up to her, and I think I can still get about 8 hours of sleep afterwards.”
+
+Denise chuckled and handed him the VR headset before she picked up the tray. “Good luck.”
+
+“Thanks.” Ren said and put the VR headset on. “See you at supper.”
+
+“Flow Login Start.”
+
+********
+
+Ren got up off the couch and went into Nathalia’s room. He had only been gone for an hour game-time, and she couldn’t contain her enthusiasm at getting to spend some alone time with him. Ren made sure that she enjoyed it, too. They joked, and talked, and made love several times. Ren had over-estimated how much sleep he was going to get that night, though.
+
+By the morning, he’d only slept for about 5 hours.
+
+Ren got out of bed early and kissed Nathalia goodbye. She mumbled something, and he didn't know what she said; so, he kissed her passionately.
+
+“What did you say?” Ren asked her, now that she was awake.
+
+“I said 'have a good day'.” Nathalia smiled at him.
+
+“I will.” Ren said, gave her another kiss, and tucked her back under the still warm blanket. He left the bedroom and Teepo dropped onto his shoulder. They left the house and went out through the gate. The guard wasn't startled this time, and Ren went up to the workshop.
+
+“Hey, Tee-one.” Ren said. “I had an idea.”
+
+“I'll make the parts, and we can assemble it tonight.” Tee-one said, and tossed several chunks of gold ore into one of the smelters. Ren handed him several springy trees, pat him on the shoulder, and left the forge room. Ren went to the large workbench and quickly soldered the other side of the two panes of stained glass for the Wind Deity and assembled them into the frames. With that done, he was tempted to put them in the church; but, he didn't want to anger the other deities by not giving them their tributes as well. So, he left them there until he finished all of the windows.
+
+Ren left the workshop and ran down the road, through the city, and to the mines. The guard opened the gate, and Ren waved as he ran by, then went up to the medical tent.
+
+“Ren!” Deresdra said. “Go right in!”
+
+Ren walked by her and went into the curtained-off area. She came in a moment later and shut the curtain. Ren stored his clothes, and Deresdra started the examination.
+
+“You're in a good mood today.” Ren said, and she chuckled.
+
+“Of course I am.” Deresdra said. “Do you realize how much time it takes to recharge a Mana reserve to use a Major Healing ability?” She chuckled. “Now all I have to do is point and cast, and it doesn't take any of my Mana at all.”
+
+“I'm glad it's made you so happy.”
+
+Deresdra finished examining his back and came around the front. “The Minor Healing wand is worth it's weight in gold.” She said and started checking his muscles for pulls and strains. “I've used up half of the charges already.”
+
+“Actually, it's worth a lot more than that.” Ren said. “About 4 platinum, give or take a few gold.”
+
+“It's WHAT?!?” Deresdra said, shocked.
+
+“The Major Healing one is worth the same.” Ren said. “I had an expert cut the gems to be the same size, so they're the same value.” He smiled. “I think he really hated cutting the same cuts by the time he was done.”
+
+Deresdra stood there, with her hands firmly gripped onto his chest muscles. “Eight... eight platinum...”
+
+Imagine if I told her I had another 85 wands. Ren thought, and realized she wasn't moving her hands. “You can finish the examination anytime.” He said, and grinned because he startled her.
+
+“Right!” Deresdra said, and finished checking his abs, arms, and legs quickly. “There, all set.” She said. “You're cleared for work.”
+
+“Thanks.” Ren said, equipped his clothing, and left the medical tent.
+
+*
+
+He gave me not one, but two wands! They're worth 8 platinum! A gift worth more than everyting I've ever made in my entire life... and he still doesn't want to sleep with me. Deresdra thought as Ren walked away. I wonder why? She asked herself, then went back to work.
+
+*
+
+Ren worked for the 8 hours required as he dug and smashed rocks, then went to the blacksmith shop to help the backlog of repairs on equipment and pickaxes. It only took an hour for him and the blacksmith on shift to finish, especially with Ren's Metal Repair skill up so high. He smiled when he stopped and got the popup for it.
+
+Stat Change!
+
+Metal Repair Level 6 (Intermediate 0%)
+
+Ren looked at his clothing, and saw it was getting a little worn and tattered. He equipped his armor bodysuit and that stored his Travelling Clothes into his inventory, so he took them out and repaired them with the Master Tailor Sewing Needle.
+
+Stat Change!
+
+Cloth Repair Level 3 (Intermediate 0%)
+
+Repair Level 6 (Intermediate 0%)
+
+Nice. Ren equipped the Travelling Clothes again, which put the bodysuit back into inventory, and left the mines. He ran back to House Neram Keep and went up to his workshop. He and Tee-one assembled a second Ballista, after Ren enchanted the pieces with the appropriate enchantments, and Ren stored it with the first one.
+
+“I guess this means I'll be coming along next time.” Tee-one said, and Ren nodded.
+
+“Only if you want to.” Ren said.
+
+“Can you make me two of those wand arrays?” Tee-one asked, and Ren grinned.
+
+“I'm not sure you can wear another chest plate.” Ren said and tapped his friend's armored chest. “But, I'll see what I can come up with.”
+
+They worked out a sparse metal harness that would fit over Tee-one's armored body, and Ren made two more 6 inch by 12 inch metal rectangles with 12 holes in each that could hold the wands. Ren made another 40 wands, 20 with Web, and 20 with Fireball, and mounted 12 of each in the array.
+
+“That should do it.” Ren said, and passed it to Tee-one.
+
+When Tee-one equipped it, it popped out and sat perfectly on his shoulders.
+
+“They aim where your body is facing.” Ren explained. “Don't only look where you want them to go; you have to face that way.”
+
+“That's going to take a bit of getting used to.” Tee-one said.
+
+Ren nodded, then looked at the forge with the gold in it. “Well, while I'm here.” He remembered the design he'd thought up to make for Lara, and poured out a very thin layer of molten metal, a couple of inches wide and 12 inches long.
+
+Using his fingers, Ren gently molded curves and holes into a neat design, picked it up, and curved it to fit onto someone's head. Ren took out one of the several sacks of 1 gold coin diamonds, and started to set them into the surface of the still nearly molten metal. He used his Gem Setting skill to burnish them. That put them flush with the surface of the metal, and he covered the entire outer surface of the gold metal with them, except for a space in the very center. He took out one of the wand-sized 1 inch wide oval diamonds, and set that into place. When he was done, he received a popup.
+
+Notice!
+
+You have unlocked a new skill: Craft Jewelry Level 1 (Beginner 0%).
+
+All gemstone related skills have been reclassified as sub skills under this heading.
+
+Cross-linked Skills: Soldering, Polishing
+
+That's neat. Ren smiled as he picked up the gold diamond-covered tiara. Who would have thought that making something like this free-hand and without a pattern, would grant me a skill?
+
+“Supper time.” Teepo said, and Ren stored the tiara. He left the workshop and ran down to the Keep and had another meal with Ereka and Nathalia. He kissed Nathalia goodnight, and told her he'd be gone for all of it; then went to sit on the couch. Ren looked at his Dire Wolf Hooded Cloak and smiled.
+
+I completely forgot to wear that today. He thought and sat back. I haven't checked my status in a while, either.
+
+“Show Status.” Ren said, and looked at the popup.
+
+Status
+
+Name  Ren (Neram) Level  32
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  525,010 (Lord)  Honor  87,820 (Prestigious)
+
+Giant Kingdom:
+
+Respect  5,000
+
+Titles
+
+Blacksmith  Grants 5 level bonus to Blacksmithing Skills
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+Health  1048  Mana  1337
+
+Strength  175  Dexterity  97
+
+Vitality  105  Agility  93
+
+Endurance  101  Intelligence  147
+
+Luck  39  Wisdom  150
+
+Just as I thought. Nothing new. Ren closed the popup and looked at Teepo as he flew up and landed on the ceiling. See you in the morning, Teepo.
+
+“Bye, Ren.” Teepo said.
+
+“Logout.”
+
+********

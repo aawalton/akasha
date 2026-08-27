@@ -1,0 +1,459 @@
+---
+id: a175e06c-7bf2-540e-a688-6325ee5dc3f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 195 - Making Plans"
+slug: 0183-chapter-195-making-plans
+partOf: mythrans-master-of-all-continued-completed
+position: 183
+ownLength: 4168
+unit: words
+publishedAt: 2017-03-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123495/chapter-195-making-plans"
+royalRoadId: "123495"
+---
+
+Ren woke up on the bed and saw Elerlyth's phantom form beside him. He sighed, equipped his clothing and got out of the bed. He snuck out of the bedroom and towards the cabinet in the living room. Teepo saw him going for the portal, and dissolved back into the ring.
+
+“Are you going to tell her you love her?”
+
+Ren stopped moving and looked at the bed he'd made for Anabelle. She hadn't moved or shown that she was awake at all, so Ren had thought she was asleep.
+
+“No.”
+
+“Why not?” Anabelle asked, and sat up in the bed. She was wearing her thin nightgown, but it didn't leave anything to the imagination. “It would solve a lot of problems for her.”
+
+“I gave my word to Nathalia that I wouldn't go back to her and tell her that I loved Elerlyth.”
+
+“Even if you do?”
+
+Ren sighed.
+
+“I saw the way you hugged her, even looking like she did.” Anabelle shivered. “You cried when you saw what happened to her.”
+
+Ren stared at Anabelle, because he thought he had hidden it so well. “I care a lot about her, that's true.”
+
+Anabelle chuckled. “You're afraid to admit it.”
+
+“That doesn't matter.” Ren said.
+
+“Apparently, it does to Elerlyth.”
+
+“She doesn't love me, though.”
+
+“I think she does.”
+
+“But, she said...”
+
+Anabelle laughed. “How long did it take for you and Nathalia to admit you had feelings for each other?”
+
+Ren closed his mouth and didn't respond.
+
+Anabelle nodded. “Months.” She said. “How long have you been sleeping with Elerlyth?”
+
+He didn't say anything, and she smiled.
+
+“Sharing so much with someone for so long, feelings for each other are going to develop.”
+
+Ren sighed again.
+
+“I'm not going to tell you to talk to her.” Anabelle said. “It's not my place to do so, nor my job.” She smiled again. “I do want you to be happy, though.”
+
+He rubbed his face. “What do you want me to do?”
+
+“I want you to drop off another couple of sets of armor, and anything else you still have on you for the store.”Ren's eyes widened in surprise, as he had completely forgotten to unload everything else besides the customer orders.
+
+“I'll do that right now.” He said, then left the apartment. He ran down the stairs, put 3 more sets of armor into the storage space, and filled the rest of the drawers with lingerie. He added a few more to the wall displays, then took out the pile of basic furniture Tee-one had made, as well as the 2 extra sitting tables and larger pieces of furniture. Ren ran back up to the apartment, and went into the living room.
+
+“Thanks for reminding me.” Ren said to Anabelle, who was now sitting on the edge of the bed.
+
+“You don't have to thank me for doing my job.” Anabelle said. “What you do have to do, is reward me.”
+
+“Reward you?”
+
+“Yes, My Lord.” Anabelle purred. “I've been good, sooo good.” She said. “I've made you more money in two days than every other business here combined.”
+
+“Wh-what?!?”
+
+“I have to admit that some of the things you have are easy to sell; but I've worked hard for you.” Anabelle said. “I've even had several... inquiries... about after-party activities.”
+
+“What did you tell them?”
+
+“No, of course.” Anabelle said. “You were very firm on that.”
+
+Ren nodded. “I didn't want you involved in any way with your old life, once you started working for me.”
+
+Anabelle nodded. “I appreciated your concern for my welfare, but...” She sighed. “...I miss being held.”
+
+“Even by strangers?”
+
+“I... took comfort where I could, My Lord.” Anabelle blushed slightly. “Even fleeting moments of it were blessings.”
+
+Ren walked over to her. “I'm sorry.” He said. “I meant to come and talk to you about all of this.”
+
+Anabelle smiled sadly. “And when exactly have you had the time to listen to my problems?”
+
+He looked at her and sighed. “I'm sorry that I...”
+
+Anabelle shook her head. “Now isn't the time, either.” She said. “You need to get back to the Dwarven Kingdom.”
+
+Ren nodded. “I do.”
+
+“Then give me a kiss. Make me believe that you are all mine... even for only this moment.”
+
+“Anabelle...”
+
+“I want to say that 'it's just a kiss'; but I want it so badly, that I'm trembling.”
+
+Ren looked at her arms and legs, and she did seem to be shaking slightly. He sighed, stepped close, and leaned in to kiss her on the lips. She put a hand on his chest and leaned away from him.
+
+“Not there, My Lord.” Anabelle said, grabbed the bottom of her nightgown, and laid back on the bed to expose the space between her legs. “I need you to kiss me here.”
+
+“Anabelle...”
+
+“Please, My Lord.” Anabelle squirmed around a little. “Give me a brief glimpse of happiness.”
+
+Ren shook his head. “I can't.”
+
+“I saw everything you did with Elerlyth, My Lord.” Anabelle said, and he could see the tears on her face. “I didn't even please myself, because I knew you wouldn't like that.” She sighed. “I could beg and plead for you to do what you did with her, and so much more, to me... but... I won't.” She said and looked at him with desperation on her face. “All I want... all I need...”
+
+Ren saw her body shake, and he remembered Nathalia's words. She had told him that Anabelle was addicted and couldn't help herself; and that Ren helping her was okay. He knelt in front of her, and Anabelle felt his breath on her skin. She trembled in anticipation, and waited for the moment. Ren looked at her, then barely touched the skin as he kissed her lightly. Anabelle gasped, and tried to wipe the tears away; but they came out of their own accord, and Ren kissed her harder. She threw her head back as he kept kissing and pleasing her for several minutes; then between one heavy breath from her and the next, she went.
+
+Anabelle gripped the blanket with both of her hands and yanked on it hard. She pulled it close to herself, holding it tightly as she fought to not scream out her pleasure. Anabelle gritted her teeth and grunted a few times, and she stared at Ren and he kept going. He looked up and they locked eyes, and after another couple of minutes, and a lot more pleasure for her, Anabelle nodded slightly, and Ren stopped. She let out a long slow breath and let her head drop to the bed.
+
+“Oh... oh god...” Anabelle said, then she started to laugh. Ren cleaned himself off, and laid the cloth between her legs.
+
+“My Lord?” Anabelle asked, when she thought she could speak. “I... I have another request...”
+
+“I'm late as it is.” He said. “I can't do any more than this.”
+
+“No... I... I couldn't take any more of that...” Anabelle said. “What I want...” She looked at him with a deep blush. “Can you pay me with kisses instead of gold?”
+
+Ren chuckled. “You can't buy food with kisses like that.”
+
+“You might be surprised what you can get with kisses like that.” Anabelle said.
+
+“I'm sure I would.” He said. “I hope that was enough of a reward.”
+
+Anabelle put her hands between her legs, and found the cloth Ren had left there. She cleaned herself up with it, neatly folded the cloth up, and tucked it into the pocket of her suit jacket that was beside the bed.
+
+“I'll definitely remember this for a while.” She said, and smiled demurely.
+
+“See you later, Anabelle.”
+
+“I eagerly await the next time you can grace me with your presence, My Lord.”
+
+“You really aren't going to stop calling me that, are you?”
+
+Anabelle shook her head. “No, My Lord.”
+
+“Did you call Lord Eric that?”
+
+She shook her head again. “Only 'Lord' or 'Lord Eric', like you just did.”
+
+“Why?”
+
+“He didn't earn the title.” Anabelle said. “You did.”
+
+“I just own enough land to get it.” Ren said, and she chuckled.
+
+“There's a distinct difference between someone who was appointed a Lord of an area, and a man who earns the love and respect of the people, and becomes a Lord in his own right.”
+
+Ren wasn't sure how to respond to that, so he only nodded to her, and opened the cabinet. He stepped inside and secured it, then stepped through the portal. He opened the other cabinet and nailed it shut, summoned Teepo, and ran downstairs. He fed Princess, pat the two dogs, and led them out to the cart. After hooking her up and another hour-long ride back to House Neram, Ren was finally back home.
+
+The guards opened the gate for him, then locked it behind him as he took Princess, Riley and Stacy inside. He settled them in the stable, then went into the house. It was dark and quiet, so he crept down the hallway and into Nathalia's room. He stored his clothing and climbed into bed. When Nathalia didn't move or say anything, he leaned over her and gave her a light kiss on the cheek. She still didn't stir, so he laid back and relaxed, then fell asleep before he even realized he was tired.
+
+********
+
+Max, the head programmer at Sid Tec, woke up when his phone rang. He blindly reached for his cell phone and knocked it off of the nightstand. He sighed and rolled out of bed to retrieve it from the floor, and was glad he'd went through the extra expense to put carpet in the bedroom. He'd already broken two phones, and figured the carpet was a heck of a lot cheaper than replacing another one.
+
+“This better be life altering or the end of the world, or I'm going to kill you.” Max said, then he looked at the clock and saw that it was only 1 a.m., and he'd only been asleep for an hour.
+
+“Sir, you wanted someone here to notify you when...”
+
+“Get on with it.” Max snapped, then sighed. “Sorry, I just got to sleep.”
+
+“That's okay.” The voice on the phone said. “It's the witching hour and everyone is grumpy.” The voice sighed. “You're probably not going to sleep after you hear this.”
+
+“Stop beating around the bush and tell me, for god's sake.”
+
+“The primary has discovered another one of the hidden races.”
+
+Max sat bolt upright in bed. “Which one?”
+
+“The Dark Elves, sir.”
+
+“Goddammit.” Max said. “He already found the Giants, and they weren't supposed to be revealed for another year, game-time. How the hell did he find the Dark Elves?”
+
+“Actually, it was one of his listed associates... Elerlyth. She came across one of their scouting parties during one of her quests, and tried to talk to them.”
+
+Max snorted a laugh. “Did they kill her?”
+
+“They tried, and came very close.” The voice said. “She slipped away when another raiding party attacked.”
+
+“Who was it?”
+
+“The High Elves, sir.”
+
+“Oh, shit!”
+
+“Exactly.”
+
+“Send me the video.” Max said. “Both for the initial contact, and when he discovered it.”
+
+The videos were sent to his phone and he watched them.
+
+“Please tell me the criteria for The Cleansing haven't been met.”
+
+“They haven't.” The voice said in relief. “Also, the Dark Elves and High Elves skirmished; but, neither of them were wiped out.”
+
+“Thank god.” Max said. “Start the delay protocols for the event. Give it... say, 3 months. The last thing we need is for it to trigger early, and just when we're expecting a huge influx of new players.”
+
+“Is that because of the show?”
+
+“Yes.”
+
+“It was quite good.”
+
+“I didn't see it.”
+
+“It's streaming 24/7 for free on Channel 8's website.”
+
+“You're kidding!” Max said. “They really are pushing it for all it's worth.”
+
+“Yes, sir.”
+
+“Thanks for calling and letting me know.”
+
+“Do you want us to send a system message to the primary, and make sure he doesn't do anything about the incident with his associate?”
+
+Max thought about it for a full minute, then shook his head. “No, if we tell him something like that, he's guaranteed to go looking for them.” He sighed. “If he's lucky, he'll only find the Dark Elves.”
+
+“Lucky?” The voice on the phone said. “It would be a miracle.”
+
+********
+
+Ren woke up with the press of a warm body snuggled up to him, and her warm breath on his neck. He opened his eyes, and saw Nathalia's arm was draped over his chest, and she once again had gotten her slip tangled up around her breasts. He stroke the side of them gently, and tried to untangle the slip.
+
+“Mmm. Just... just leave it.” Nathalia whispered to him.
+
+“It has to be uncomfortable.” Ren whispered back. “I mean, I'm getting sore just from looking at it.”
+
+Nathalia chuckled, and her breasts jiggled. She stored the slip, and his hands were now touching the warm bare skin.
+
+“Mmm.” Nathalia moaned, and snuggled closer.
+
+Teepo? How's my time? Ren thought to his friend.
+
+“You've got about an hour before breakfast; or an hour and a half before you have to be at the mines.” Teepo said.
+
+Thanks. Ren massaged her breasts, and Nathalia rolled onto her back so he could get the full impact of her. “By the gods, you're wonderful.” He said, as she kept her eyes closed and smiled. “I need to tell you about what happened, and why I was late getting back.”
+
+Nathalia shook her head. “With the way things have been going, you must have slept with someone else.”
+
+“Actually, no.” Ren sighed. “It was Elerlyth.”
+
+Nathalia opened her eyes when Ren's hands stopped moving. “What happened?”
+
+He told her about Elerlyth, and the state she was in, and Nathalia's eyes widened as he described how he got her back to normal.
+
+“That poor woman.” Nathalia said. “She's spent all this time draining you, and never thought she could be drained herself.”
+
+“She thought she was the only one of her kind.” Ren said. “Apparently, she was wrong.”
+
+“What are you going to do?”
+
+Ren looked at Nathalia. “What do you mean?”
+
+“I heard the tone of your voice. You're genuinely angry that she had to go through that experience.”
+
+“I am.”
+
+“Then you know what you have to do.”
+
+Ren stroked the side of her face. “Just when I think I can't possibly love you more.” He said and kissed her. “You go and say something like that.”
+
+Nathalia smiled. “I'd like to go with you; but by the time I got there by ship, you'll have already found them.”
+
+“Ship?” Ren grinned and tapped his temple. “I'll have the restaurant built by tonight.”
+
+“Wh-what?!?” Nathalia exclaimed.
+
+He told her about buying Mitchell's old business, and getting the plans for it.
+
+“But the things I need for the kitchen, won't be ready for another week.”
+
+“That's okay.” Ren said. “As long as the structures match, it doesn't really matter what's inside.”
+
+“Oh, Ren!” Nathalia kissed him. “I can finally go and see your homeland.”
+
+“You were there before.” Ren said, and Nathalia shook her head.
+
+“I never left the ship.” She said. “No one ever offered to escort me.”
+
+Ren blinked his eyes at her. “You've been to how many ports, and you've never once gotten off the ship?”
+
+Nathalia shook her head again. “A woman can't go into another land without some kind of escort.” She said. “It's why the purser and cargo gatherers are always men.”
+
+“Wow.” Ren said. “I thought the dwarves were isolationist before.”
+
+Nathalia chuckled. “This from a man who's literally being thrown out of the country he saved, and can't come back to it for a year.”
+
+Ren hugged her. “At least when I go, I can take my home with me.” He said and kissed her. It turned into something more, and the hour he had before breakfast evaporated, while he and Nathalia were wrapped in each other's arms. They got up and went into the kitchen after getting dressed, then saw Ereka sitting at the table. She looked like she hadn't gotten any sleep.
+
+“I'm sorry if we kept you awake.” Ren said as he served the food to her and Nathalia.
+
+“I couldn't sleep, so don't worry about it.” Ereka said.
+
+“It pains me to say this; but, you look terrible.” He said as he sat down to eat.
+
+Ereka snorted a laugh. “If you say I look terrible, then I must look like a disaster.”
+
+Ren smiled. “It's not quite at that level.”
+
+Ereka turned to look at Nathalia. “He must have seen you at your worst.”
+
+Nathalia nodded.
+
+“Did he ever say that you looked terrible?”
+
+She shook her head, and Ereka turned back to Ren and raised her hands in a 'I surrender' gesture.
+
+Ren finished eating and chuckled. “I'm deeply and madly in love with Nathalia.” He said and took his dirty plate over to the sink. “So, all I really see when I look at her is that love.”
+
+Nathalia froze at those words, and Ereka saw her reaction.
+
+“Are you saying that you don't actually see her?” Ereka asked.
+
+“I can see her just fine.” Ren laughed and looked at Nathalia. “I can even describe you with my eyes closed.” He closed his eyes and smiled as he spoke. “The slightly pale and flawless skin, the straightness of your nose, the curves of your cheeks, the softness and tenderness in your eyes, and hair that goes on and on.”
+
+Nathalia blushed a little as Ren described every other feature that she had, with his eyes closed the entire time.
+
+“I also love her too much to point out any flaws that she might have.”
+
+“Like what?”
+
+Ren kept his eyes closed and thought about it. “The only real flaw I think she might have, is that she forgives me for everything that I've put her through.”
+
+Nathalia took in a sharp breath, and Ren opened his eyes. He walked over to her, knelt by her chair, and took her hand.
+
+“Even though you say you're okay with the things I've done, I don't feel like I deserve to be forgiven for it so easily.”
+
+“Ren...” Nathalia started to say, and he shook his head.
+
+“You make me love you all the more, with how accepting about all of this you are.” He cupped the side of her face, and she leaned into his hand. “If I didn't think it would break the contract right away, I'd petition to move the marriage ceremony, so it could happen in 3 months instead.”
+
+Nathalia gasped, and Ereka's eyes widened.
+
+“You... you don't know what you're saying!” Nathalia said. “You can't possibly complete the requirements by then!”
+
+“I know.” Ren said. “That's why I said it would break the contract immediately.”
+
+“But...”
+
+“That doesn't mean I'm not going to try, though.”
+
+“Oh, Ren!” Nathalia exclaimed, and kissed him deeply. After a few minutes, he left the kitchen and then the house. Ren nodded slightly to the guards as Teepo landed on his shoulder, and ran up to the workshop. He told Tee-one what needed to be done for the day, gave him the restaurant plans, and told him to build it between the house sub-divisions and the Main House.
+
+Ren left the workshop, concentrated on his personal Aura and House Neram pendant, and ran to the mines. The guard at the gate opened it for him, and he ran past and up to the medical tent.
+
+“Come in, come in!” Deresdra the healer said. “How was your night?”
+
+Ren looked at her with a single raised eyebrow.
+
+“Are you that surprised that I want to share some polite conversation with you?”
+
+“Actually, yes.” Ren said, and she led him to the curtained off area to give him an examination.
+
+“It shouldn't be that surprising.” Deresdra chuckled. “You did buy my contract, and then freed me.”
+
+“That was days ago.” Ren said. “Why is today different?”
+
+“Can't I just be in a good mood?”
+
+“Are you?”
+
+“Yes.” She said. “I took your advice.”
+
+“You did?” Ren asked. “What did you buy?”
+
+Deresdra shook her head, and gave him the examination. When she was done, she told him to wait for a few minutes. She came into the curtained-off area with a small tray. On it was a small jar of some kind of creme, and a large paintbrush.
+
+“What's that?”
+
+Deresdra put the tray down on the chair, and turned away from him. “I've had complaints from several of the miners.” She said. “They've had some unexplained itching in their beards. It seems that something in the dust of the mine is causing a rash on their chins.”
+
+Since she was turned away, Ren didn't see the slight wince she couldn't help let out when she lied.
+
+“This creme will help with that.”
+
+“Do you have to cover all of the exposed skin?” Ren asked.
+
+“No.” Deresdra said and turned around with the open jar and some of the creme on the paintbrush. “I only have to put it on your chin, above your mouth, and up to your ears.” She smiled. “And a little bit on your neck.”
+
+“That's oddly specific.” Ren said.
+
+“Not really. It's the shape of a beard.” Deresdra chuckled. “Close your eyes.”
+
+Ren closed his eyes and felt her paint the creme onto his skin.
+
+“It may tingle a little; but, that just to show you that it's working.” She said. “It should stop after a few minutes, once I get the area covered.”
+
+“Okay.” Ren said.
+
+“Don't touch the covered area for several hours, at least.” Deresdra cautioned him as she put the creme exactly where she said she would. It was put on his chin, above his mouth, along his jaw with some on the cheeks, and up to the front of his ears. It did start to tingle a little; but since it wasn't a bad tingle, he didn't mention it.
+
+“Tilt your head back, please.”
+
+Ren did so, and she covered the underside of his chin to the top of his neck.
+
+“There we go.” Deresdra said. “We should let that sit for a few minutes.”
+
+“Do you have to wipe it off or anything?”
+
+“No, it should absorb into your skin.” She said. “I'm pretty sure I got enough coverage, too.” She smiled. “You're going to look just fine afterwards.”
+
+“Thanks.” Ren said, opened his eyes and watched her close the empty jar. “You used it all up?”
+
+Deresdra nodded. “It's only a small jar.”
+
+“What about everyone else?”
+
+“Everyone else is fine.” She said. “You were the only one with a bare face that needed to be treated.”
+
+“Oh.” Ren said. “Okay.”
+
+Deresdra left him alone, and he stood in the curtained-off area in just his underwear, while he waited for the tingling on his face to stop. It took about 10 minutes, and when the feeling faded, he called out to her. She came back inside the curtained-off area, and Ren thought he saw her swoon a little bit.
+
+“Are you all right?” He asked.
+
+“I... I'm fine.” Deresdra said. “I probably shouldn't have stood up so fast.”
+
+Ren nodded slightly. He had felt that sensation a lot, and knew that it made you a little dizzy.
+
+“Am I cleared for work?”
+
+“O-of course.” Deresdra said. “You can get dressed.”
+
+“Thanks.” Ren said, and equipped his Travelling Clothes. When he tried to walk by her, she put a hand on his arm.
+
+“Before you go...” Deresdra said, and ducked her head slightly. “...I never did thank you properly for everything that you've done for me.”
+
+“That's all right.” Ren said as he turned to her. Since she was only an inch shorter than him, when she lifted her head to look at him, their eyes locked.
+
+“No, it isn't.” Deresdra barely whispered. “Even after I had my training, I've never had any man do anything like this for me.” She blinked slowly, and Ren could see her eyelashes, she was that close. “You treated me fairly, even though I didn't treat you that way. You built me a house to live in, then paid all of my debt, and released me from bondage.”
+
+“Ma'am...”
+
+“Please, let me finish.”
+
+Ren nodded slightly, and she smiled.
+
+“Even though you've never spoken it, you know my given name.” She said. “If you weren't already engaged, you would only have to say my name and I would be your fiance.”
+
+Ren's eyes widened as he thought about everything that she said he'd done. Oh, crap!
+
+“But... but...”
+
+“You are engaged, though; so all of what you've done for me doesn't really count legally.” Deresdra smiled. “But... it does count to me.” She ran her hands up his chest and gripped his shirt.
+
+“Wait-mwuh!” Ren tried to say as Deresdra kissed him.

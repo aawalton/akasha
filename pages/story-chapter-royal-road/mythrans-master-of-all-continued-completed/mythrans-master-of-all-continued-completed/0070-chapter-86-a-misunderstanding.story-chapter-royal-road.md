@@ -1,0 +1,391 @@
+---
+id: 06d374ed-c2ec-5484-bdc9-d3099d664ab4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86 - A Misunderstanding"
+slug: 0070-chapter-86-a-misunderstanding
+partOf: mythrans-master-of-all-continued-completed
+position: 70
+ownLength: 4147
+unit: words
+publishedAt: 2016-11-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103404/chapter-86-a-misunderstanding"
+royalRoadId: "103404"
+---
+
+Ren watched television with Barbara for another hour and a half then his watched beeped.
+
+“I better get back in before they think I'm passed out drunk.” Ren said then laughed at Barbara's shocked expression. “I didn't actually get drunk, Barbara.” He said and set up the video of the meal and the party. “You can watch it yourself if you want proof.”
+
+Barbara shook her head, but eyed the laptop.
+
+Ren smiled. “Goodnight, Barbara.”
+
+“Night, Ren.” She said and slid the laptop over to watch the video. Ren put on the VR headset and got comfortable in the bed.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the hold of the ship. Princess was still in her crate, Ruck was still on the wall, and Teepo was on his chest.
+
+“Good morning, everyone.” Ren said and Teepo held on as Ren sat up, then crawled up onto his shoulder.
+
+“Morning!” Teepo said.
+
+Ruck waved, and Princess huffed. Ren stood up and stretched. The hold was dark but at least it wasn't damp. “I should probably let you stretch your legs, Princess.” Ren said. “Feel like a short walk?”
+
+Princess looked at him, stepped out of her crate, took 3 steps, turned around and went right back into the crate.
+
+“Are you okay?” Ren asked her.
+
+She shook a little and he noticed the saddle.
+
+“Oh! I'm so sorry, Princess!” Ren said and stepped forward. “Let me take that off of you.”
+
+She stood there and Ren undid the saddle and stored it into inventory. He undid the harness around her face that held the reins and stored it as well. Ren rubbed the spots where the straps were, and Princess stared at him like he was crazy.
+
+“I'm getting that look a lot on this trip.” Ren said and laughed. “I'm going to go and try to find something for breakfast.”
+
+Princess huffed and Ruck gave the 'okay' gesture. If Ren didn't know any better, he would say that Ruck looked like he was sick.
+
+“Are you feeling alright, Ruck?” Ren asked.
+
+Ruck held out a hand and did the 'so/so' gesture.
+
+“I'm sorry, Ruck.” Ren said. “I'm not sure what I can do to help.”
+
+Ruck held out both hands and shrugged. Ren went over to him and pat his side.
+
+“You'll just have to tough it out... and if I think of anything, I'll let you know.”
+
+Ruck gave the 'thumbs up' gesture and Ren stepped over the guarding stones he had put out the night before. He went to the closest hidden opening and went up on deck. It was still dark out and he went into the main cabin area, down the hall, and into the dining room. He saw Nathalia working in the kitchen and walked over to the serving window.
+
+“Good morning.” Ren said and Nathalia ignored him. “Um... what's for breakfast?”
+
+She glanced at him and huffed. Ren smiled. She really did sound like Princess when she did that.
+
+“Can I come into the kitchen? I can help you make breakfast.” Ren said, and Nathalia dropped her knife onto the table and looked at him. She looks mad.
+
+“You have some nerve showing up here.” Nathalia said.
+
+Ren looked at her in surprise. “If this is about me saying your name last night...”
+
+Nathalia huffed loudly. “No! I accepted that!”
+
+“Then what's wrong?” Ren asked, curious.
+
+“What's wrong? What's wrong?!?” She said, building up a head of steam to start a good rant. Ren braced himself for the onslaught. “I showed up at your cabin last night and knocked on the door. When you didn't answer, I thought you were being shy.” She said and glared at him. “I poured my heart out, telling you how this was all so sudden, and how I didn't expect a man to show interest in me for at least another 10 years, and how great you are, and strong, and handsome, and smart, and a good cook.”
+
+Ren was impressed she could say so much in a single breath.
+
+“But then you didn't say a word! I was so embarrassed!” Nathalia said and covered her face with her hands. “I stood there for an hour trying to get you to talk to me, and you never did!” She said, and tears came to her eyes. She wiped them away, but they were quickly replaced with several more. “How you could do that to me!” Nathalia cried. “Then you show up here like nothing happened!” She sobbed. “How can you do this to me!”
+
+Ren was so shocked to hear what she went through, that he didn't say anything for a minute as Nathalia cried. He shook himself out of the shock and tried to console her.
+
+“Nathalia.” Ren said. “Nathalia, please listen.”
+
+“Don't say my name so casually like that! Not after last night!”
+
+Ren sighed. “Please, Na... ah...” Ren stumbled. Better go with the tried and true method. Ren thought and continued. “My Lady... please listen.”
+
+Nathalia caught her breath at Ren's last words. He... he... he's given me a title in his House! She thought in shock.
+
+“I wasn't in my cabin last night.”
+
+Nathalia's eyes widened at his words. “B-b-but... I thought... you...” Then she squinted her eyes. “You mean you... you were... with someone else?”
+
+Ren looked at her in shock. “Of course I wasn't!” Ren vehemently denied her accusation.
+
+“Then what...” She started to say.
+
+“I spent the night in the hold.” Ren said.
+
+“In the HOLD?!?”
+
+Ren nodded. “I was told when I boarded the ship, that if I was so worried about my mount, I should stay in the hold with her.”
+
+Nathalia had a shocked look on her face. “You... you...”
+
+“I've been sleeping in the hold, and not in my cabin.” Ren said. “Actually, I don't even know where my cabin is.”
+
+Nathalia looked like she was going to start crying again. “Come into the kitchen.” She said in a soft voice. Ren nodded and went out into the hall and saw that the kitchen door was already opened. He stepped inside the kitchen and shut the door. He was immediately taken into a bone crushing hug; and since Ren loved hugs, he automatically hugged her back.
+
+“I thought... I thought you were spurning me.” Nathalia said and the tears flowed down her face and onto Ren's shirt. “And right after your declaration!” She said and sobbed.
+
+“About that, I'm actually seeing someone...” Ren said.
+
+Nathalia continued to hiccup and cry, and continued to talk, ignoring what he'd said.
+
+“I thought... I thought I'd lost all of my Honor!”
+
+“I'm really sorry you had to go through all of that.” Ren said and pat her on the back. “I didn't mean to embarrass you.”
+
+“You are a good man after all!” Nathalia said and buried her head on his chest and cried. “I called you so many nasty names!”
+
+Ren laughed. “I'd have deserved every single one of those if I'd done what you thought I did.”
+
+Since they were hugging so close, Ren felt it when Nathalia froze. She lifted her head and looked him right in the eyes. “You're not mad?”
+
+“Why would I be?” Ren asked.
+
+Nathalia got a worried look on her face. “Some... some people might have heard me last night.”
+
+Ren clamped his mouth closed, but he couldn't hold it in and laughed out loud. She looked at him like he was crazy and Ren laughed harder. Nathalia started to smile and her tears stopped.
+
+“That must have been a sight to see!” Ren said, wiping away tears from laughing so hard. “You standing in front of my door, calling be down to the lowest for ignoring you... and I wasn't even there to stop you!”
+
+Nathalia started to laugh as well. It made her feel happy that he didn't hate her for that. They laughed together for a few minutes and then Ren broke the hug. He stepped back from her and smiled.
+
+“Natha... ah... My Lady, please accept my sincere apology for last night.” Ren said and bowed to her.
+
+He... he's doing it again! Nathalia thought. I'm so blessed to have so much Honor!
+
+“I think you've fallen a bit behind in making breakfast.” Ren said and smiled. “May I offer you a hand?”
+
+Nathalia nodded and they got to work cracking open eggs and slicing the loaves of bread. Ren was a bit surprised that it was only scrambled eggs and toast.
+
+“Na... My Lady, is there no bacon?”
+
+“Bacon? Where would I get that?” She said and laughed. “We're on a ship!”
+
+Ren smiled. “If I remember correctly, you cooked a side of boar last night.”
+
+Nathalia nodded and told him it was in the pantry. Ren looked inside and there was clumps of half-fatty uncooked meat and smiled. He took it out and put it on the table.
+
+“That's just the fat I cut off before I cooked the meat.” She said. “It's not bacon.”
+
+Ren grinned at her and took a sharp knife, sliced the meat into appropriately sized chunks and then into thin strips. Nathalia stared at him as he threw the improvised bacon on the grill-like surface and it started to sizzle.
+
+“You really are crazy.” She said and smiled.
+
+Ren winked at her and she blushed. He whipped the eggs for her and she marveled at his speed. He added milk and butter; just like he did with the potatoes, and it nearly doubled the amount of scrambled eggs they could make.
+
+“You're amazing!” Nathalia said as he cooked up the scrambled eggs.
+
+“You shouldn't have said that.” Ren said and grinned at her surprised expression. “You should have saved it... because I'm going to show you a sandwich I make sometimes.” He said. “You're gonna love it.”
+
+Nathalia did love the sandwich, and agreed that she should have saved her 'amazing' comment for it.
+
+“I told you so.” Ren said and laughed.
+
+Unlike the supper the night before, breakfast was a lot less formal and dwarves ate when they came in, instead of waiting for the captain. Ren found out it was like that because the captain didn't usually attend breakfast. Nathalia made up a special tray for the waitress to take to the captain's cabin and Ren made up a couple of sandwiches to put with it. Ren stayed in the kitchen for the whole meal and helped Nathalia clean everything up afterwards.
+
+“I've been meaning to ask you something...” Nathalia said when they were all done.
+
+Ren looked at her and took off his apron to store into inventory.
+
+“The first time you were in here... when you... fondled almost everything I own...” Nathalia said and blushed slightly. “...did... did you do something to my things?”
+
+Ren smiled. “If your asking me if I fixed everything I could get my hands on, then yes.”
+
+Nathalia's eyes widened at Ren's words. “So it really was you!” She exclaimed. “As I was using my pots and pans, they all gleamed like they were brand new.” She said, her voice full of surprise. “I wasn't sure what was going on... but it was you.”
+
+Ren nodded. “When I filled the big pot with water, I noticed it was weak and about to break, then fixed it.” He said. “Of course, that made me wonder what else you might have that needed repairs, so I checked everything I could find.”
+
+Nathalia reached out a hand and put it on Ren's arm. “You've saved me a fortune in replacements. I was so worried that what I had wasn't going to last another trip.” She sighed. “There's a few blacksmiths on board, but they charge a lot of money to fix even the smallest things.” She placed a hand on her chest and Ren saw a small bump under the cloth of her dress, between her breasts.
+
+“May I see it?”
+
+Nathalia caught her breath for a moment and then relaxed. He has the right to know of my family. She reached behind her neck, undid the clasp, and pulled out a tarnished locket from around her neck. She passed it to him and Ren held it in his hand to examine it, and his face flushed a little red.
+
+It's... quite warm. Ren thought, and carefully opened it. Inside the locket was two old and faded pictures, one on each side. A man on one side, and a woman on the other.
+
+Nathalia pointed to the man. “That's my Da.” She said with warmth in her voice, and unconciously stroked her dress. “He was a great man.”
+
+“He made that for you?” Ren asked and touched the cloth. It was frayed at the seams and the cloth was worn in spots, probably from excessive wearing.
+
+Nathalia smiled and nodded. “People came from all over to have him make something for them.” Then her face turned from happiness to sadness. “He passed away not long after making this for me.”
+
+Ren put a hand on her arm. “I'm sorry to hear that.” Ren said with sympathy in his voice. “I wondered why you wore such a fancy dress all the time... it was his final gift.”
+
+Nathalia nodded again and pointed to the other picture. “That's my Ma.”
+
+“She's a striking woman.” Ren commented and let Nathalia's arm go to hold the locket in both hands.
+
+Nathalia chuckled. “It's an old picture. Her hair has a bit of gray in it now.” She said and smiled.
+
+“You look just like her.” Ren said innocently, and she blushed a little at his implied compliment. “You said before that someone charged you a lot to repair this?” Ren asked.
+
+Nathalia nodded. Ren opened and closed the locket carefully, and felt that the hinge was loose, and his Vision of Impurity picked out small cracks in the finish.
+
+Notice!
+
+You have learned the plans for: Locket (Hinged)
+
+“When did you have it repaired?” He asked.
+
+“Last week.” She said.
+
+Ren widened his eyes. “Just last week?”
+
+Nathalia nodded.
+
+“If you'd said a few months ago, or a year, I'd understand it's condition... but last week?” Ren shook his head. “How much did he charge you?”
+
+Nathalia was a bit surprised at Ren's sudden interest in her finances, but she accepted that they'd be sharing a lot more than that soon. “Tegwen charged me 15 gold.”
+
+Ren's mouth dropped open. “You have got to be kidding me!” He said and closed the locket. “To charge so much and not even fix it properly!” Ren took out his blacksmith hammer.
+
+“What are you doing?!?” Nathalia asked and tried to take the locket back. She didn't want him to damage her family heirloom by using such a large hammer on it. Tegwen had only used a tiny hammer! She thought.
+
+Ren held it above her reach and held the hammer to it. “REPAIR!” Ren exclaimed loudly and poured Mana into his hammer. He hadn't done that before, but it had felt like the right thing to do at the moment. The locket, and the gold chain that it was attached to, were encompassed in a bright glow. Nathalia turned her face away until the glow faded. When she turned back, Ren handed her a gleaming golden locket, and her mouth formed a little 'o' in surprise. She opened it and felt how much stronger it was, then gasped at the faded pictures... only they weren't faded anymore. The pictures looked like they'd been taken yesterday, and Nathalia stared at Ren in shock.
+
+“People who scam others makes me so mad.” Ren said and put his hammer away. “As if people haven't worked hard enough for their money in the first place, and then thieves steal it from you by claiming to fix things.” He shook his head. “I'm sorry I wasn't here to do this for you, before you wasted your money.”
+
+Nathalia blinked a few times, then responded. “I... I didn't know I was wasting my money by having something I loved fixed.”
+
+Ren had a surprised look on his face, then put his hands on both of Nathalia's shoulders. “Nathalia! That's not what I meant!”
+
+Nathalia trembled a little, in both pleasure and shock from the use of her name in such a tone, and also from the emotion in Ren's voice.
+
+“It was a waste for a bad repair job, not that it wasn't worth fixing!” Ren shook his head. “In fact, here.” Ren let her shoulders go, grabbed both of her hands to cup them together, then gave her 15 gold. “I'm sorry if you took what I said the wrong way, Nathalia. I hope you can forgive me.”
+
+Nathalia stared at the gold in her cupped hands and didn't know what to say.
+
+“I... I'll be going now.” Ren said, and picked up Princess' bowl filled with scrambled eggs and bacon. He opened the kitchen door and stepped out into the hallway.
+
+“W-wait...” Nathalia said, but Ren was already gone.
+
+I really have to watch what I say from now on. Ren thought as he walked out of the main cabin area and onto the deck. He went into the hold and ignored the slight terror feeling as he stepped over his improvised protection, and gave Princess the big bowl of eggs and bacon. She dug into it with abandon and Ren chuckled. He was tempted to warn her again, but shook his head and went back up on the deck of the ship. Ren walked all around the ship this time, and didn't see a trace of land anywhere.
+
+We're really out to sea, Teepo. Ren thought. I don't even know which way to go to get back.
+
+Teepo chittered in laughter. “You could always ask the captain. I'm sure he'd tell you.”
+
+Ren nodded. Actually, now that you mention the captain... I forgot to ask him about showing me the engine room.
+
+“Now's a good a time as any.” Teepo said and Ren nodded again.
+
+They went inside and went to the captain's cabin, and Ren knocked. He waited for a while, and then the blonde answered the door.
+
+“My apologies for disturbing you.” Ren said and bowed slightly. “Is the captain available?”
+
+The blonde had a slightly shocked look on her face, bowed back, and then promptly shut the door.
+
+Okay, Teepo... what did I do wrong this time?
+
+Teepo chittered in laughter. “You gave Honor to the captain's companion, even though she wasn't with him.”
+
+I wasn't supposed to? Ren thought.
+
+“It's not expected to even acknowledge her presence if he's not around.” Teepo said. “You've given her quite a shock, I think.”
+
+A minute later, the door opened and the captain looked at Ren. “That explains it.”
+
+Ren widened his eyes and the captain laughed.
+
+“Lily could barely tell me someone was at the door.” The captain waved into the cabin and Ren looked inside. Lily sat on the side of the bed and stared at the wall.
+
+“I'm sorry. I didn't mean to cause any trouble.” Ren said. “Miss, please accept my apology.”
+
+Lily's mouth opened and closed a few times, but she didn't say anything. The captain stepped out of his cabin and shut the door behind him.
+
+“Yes, that definitely explains it.” He said and laughed. “What can I do for you?”
+
+“I was wondering if I could get a tour of the engine room.” Ren said.
+
+“Wh-wh-what?”
+
+“The engine room. I'd like to see how the ship is moving, if I could.”
+
+“We row.” The captain said in an even monotone.
+
+Ren chuckled. “If you'd told me that before we left shore, I'd have believed you.” Ren said. “Now that I've seen how many people are actually on the ship, I know there's not a single soul on the rowing deck.”
+
+The captain looked at Ren with an appraising eye, then shook his head. “I'm sorry, but no.”
+
+“Okay. Thanks for your time.” Ren said and started to walk away.
+
+“Wait!” The captain said and Ren turned around. “You're not going to protest about my unfairness? Or claim how I'm keeping secrets from you? Or challenge me to a fight?”
+
+Ren laughed and shook his head. “I don't need to see it that badly. I was just curious as to how it worked.” Ren said and waved. “Sorry to have bothered you.”
+
+“He really is crazy.” The captain said and went back into his cabin to try and convince his wife that Ren wasn't interested in her.
+
+Ren walked down the hallway and a door across the hall from the dining room opened. Several dwarves stepped out into the hallway and blocked his path.
+
+“In here, please.” The tall one said.
+
+Teepo.
+
+“On it, Ren!” Teepo said and hopped off his shoulder and crawled into the room.
+
+“Why?” Ren asked the men.
+
+“Someone has a quarrel with you that needs to be settled.” The tall one waved to the room.
+
+“There's 3 other dwarves in here, and they all have weapons.” Teepo said.
+
+Thanks, Teepo.
+
+“And if I refuse your generous invitation?” Ren asked.
+
+The dwarves had surprised looks on their faces and then turned to each other.
+
+“No one's ever refused a challenge before.”
+
+“What do we do?”
+
+“Should we call the captain?”
+
+Ren stood there with his arms crossed and let them bicker. A dwarf stuck a head out of the room. “What's taking so long?” He said and the others filled him in. He looked at Ren. “Are you refusing a challenge?”
+
+Ren uncrossed his arms. “What challenge?”
+
+The dwarf looked at the other three. “You didn't issue the challenge?”
+
+“I told him someone had a quarrel with him and it needed to be settled.” The tall one said.
+
+“That's not a challenge.” Ren said. “That's telling me someone wants to challenge me.”
+
+The dwarves all had surprised looks on their faces.
+
+“You know what? He's right.” One of them said.
+
+“Yeah, we've been doing this so long, it never occurred to us we might be doing it wrong.” The other one said.
+
+The new dwarf laughed. “Tegwen, get out here and issue your challenge.”
+
+Ren perked up at hearing that name. Another dwarf came out of the room. He had light brown hair, a full beard and mustache, and a perpetual scowl on his face that made him look like he was mad all the time. He wore thick brown leather armor, and carried what looked like a giant meat tenderizer in his right hand. It was a maul, but had a bunch of short spikes on the flat ends.
+
+That looks pretty cool. Ren thought, admiring the hammer.
+
+Tegwen also had a large slab of stone strapped to his left arm as a shield, and it had a big spike sticking out of it's center.
+
+“I challenge you to a trial by combat! You've stolen my intended woman!”
+
+Ren looked at him with a raised eyebrow. That wasn't what I had expected as a reason. He thought.
+
+“What is your answer?” One of the other dwarves said.
+
+Ren looked around. “What are the rules?”
+
+They all looked at each other, then back at Ren.
+
+“You fight.” One said.
+
+“Weapons and armor are allowed.” The other said.
+
+“No killing.” The tall one said.
+
+“What about interference? You aren't going to jump on me when I crush this guy, are you?”
+
+They all had shocked looks on their faces. “We'd never do that! We'd lose our Honor.” They all said together.
+
+Ren nodded. “Then I accept your challenge.”
+
+Notice!
+
+You have entered PvNPC Special Mode: Duel
+
+A bell rang throughout the ship 3 times quickly, a moment later 2 more times, then once more. The ship was filled with the clamor of booted feet and shouts as every dwarf on the ship came together to enter the room. Tegwen and the other dwarves went into the room and Ren stepped close to the wall to let everyone else pass. Nathalia came out of the kitchen, saw him, and came over. “C-c-come and sit with me.” She asked and blushed a little. She'd never asked a man to sit with her before, but he'd done such a wonderful job on her family heirloom that she felt a little bold where he was concerned. “We haven't had a duel on the ship before.”
+
+Ren smiled. “You go on ahead. I'll be right in.”
+
+Nathalia reached out and squeezed Ren's hand for a second and then went inside the room.
+
+I'm glad she's forgiven me. Ren thought as the captain and his companion were the last to pass him in the hallway. Well, it's official. I'm the tallest person on the ship. Ren chuckled, waited for another minute, then Teepo spoke.
+
+“They're all seated, Ren... except for one dwarf that's wearing leather armor.”
+
+Thanks, Teepo. Ren thought, then entered the room himself.

@@ -1,0 +1,427 @@
+---
+id: 5eca7f79-d14f-5c7d-bd09-fe49d2317f9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72 - Sweet Freedom"
+slug: 0056-chapter-72-sweet-freedom
+partOf: mythrans-master-of-all-continued-completed
+position: 56
+ownLength: 4707
+unit: words
+publishedAt: 2016-11-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101227/chapter-72-sweet-freedom"
+royalRoadId: "101227"
+---
+
+Ren was escorted back to the cell and deposited with the other 3 criminals. Elerlyth still had the sad smile on her face but Ren smiled and sat down next to her again.
+
+“How long did they give you?” She asked.
+
+“For the murder? Nothing. They let me go because I was telling the truth.” Ren said.
+
+The 3 of them had shocked looks on their faces.
+
+“What are you doing back here, then?” Emanon said.
+
+“I argued with them and I was sentenced to a night in jail for breaking and entering.”
+
+“You... you argued over not being convicted?” Betrach asked.
+
+Ren chuckled. “Of course not... I argued about how the system worked.” Ren took Elerlyth's hand again and smiled. “Thanks to you. If you hadn't pointed out how unbalanced it was, I couldn't have argued about it.”
+
+Elerlyth's face lit up, from both the compliment to her intelligence and Ren's Aura, then she frowned. “Wait. You're happy about getting sentenced to a night in jail?” She said. “Are you feverish or something?” Elerlyth reached for Ren's head with her other hand and pressed it against his forehead. “No, it feels okay.”
+
+Ren laughed. “I am kinda happy about it, actually. I mean, I can spend the rest of the night in here with you.” Ren thought that Elerlyth had blushed a little, but couldn't really tell. Her skin seemed to get a little darker around the cheeks, but that was it. Ren looked at Emanon and Betrach.
+
+“Despite how we all got here, I'm glad I got to meet you.” Ren said. “I've been kinda on my own up until a little while ago and I had no idea that stuff like this happened.” Ren smiled. “I learned a lot tonight.”
+
+Betrach snorted and Emanon laughed. Elerlyth shook her head. “You're actually glad to learn about this?” She said and waved her free hand around. “We're in jail! You might be getting out in the morning, but the rest of us...”
+
+Ren nodded. “I know. You've all been kinda shafted by the system.” Ren stood up but didn't let Elerlyth's hand go. He activated Enchanted Eyes and looked at the window above their heads. There's the Protection rune... the Glyph of Hiding in Aimus' barn... wait, the Terror rune? No way!
+
+Elerlyth could feel the rush of emotions coming from Ren, wonder, shock, and then anger.
+
+No wonder I've never heard of any kind of jail break. When people do somehow discover there's a jail here, when they try to do anything, they're immediately terrified. There's another rune there... damn, I can't make it out. Ren activated Read Rune and Decipher. Okay, I can see the shape, but I don't recognize it. Ren looked around the cell, didn't see any other enchantments, and deactivated his activated enchantment abilities. I'm surprised they don't have some kind of barrier in here, though. Ren shrugged and sat back down.
+
+“What is it?” Elerlyth asked.
+
+“Nothing really. I'm just surprised at how this is all set up.” Ren said.
+
+He didn't even try to hide what he was thinking. I felt his surprise just before he sat down and thought he wouldn't admit it. That's... refreshing. Elerlyth thought. “You look a little tired, Ren.” She said. “Why don't you lay your head down and take a nap.” Elerlyth patted her lap.
+
+Ren looked at her in wonder. He'd watched anime where girls let guys do that, but he'd assumed it was something that boyfriends and girlfriends shared, then remembered he had seen other shows where friends did it as well.
+
+“Are you sure?” Ren asked. “I've never done that before, but I've always wanted to try it.”
+
+Elerlyth smiled and nodded. Ren scooted around to lay on his back on the bench and used Elerlyth's lap as a pillow.
+
+“Oh, wow... that's comfy.” Ren said and looked up at Elerlyth's face. “Thank you.”
+
+Elerlyth chuckled and Ren felt it through her legs. It was a neat feeling. Elerlyth stroked Ren's hair like she'd stroked the dire wolf cloak and Ren closed his eyes.
+
+That feels really nice. Ren thought, took a deep breath, and fell asleep.
+
+*
+
+Several minutes later, Emanon approached Ren and knelt by his money pouch. Elerlyth kept stroking Ren's hair and shook her head.
+
+“Don't.” She whispered. “He really is as innocent as he looks.”
+
+“But... but it's right there!” Emanon whispered back. “He's got to have at least a hundred gold. Look at his clothing.”
+
+“That doesn't matter. He's the only one I've ever met that didn't hate me on sight or shy away from me.” Elerlyth said. “I won't have him robbed after giving me such a gift.”
+
+Emanon shrugged and walked back to his side of the cell.
+
+“You really like the kid, huh?”
+
+Elerlyth nodded. “I don't know if it's because of the way he makes me feel, or for treating us like we were normal.” She said. “He sat here half the night and just listened. He didn't judge us, or even say, 'how could you do those things'.” Elerlyth continued to stroke Ren's hair and listened to him breathe. “I think... I think he's pretty special.”
+
+Bertach started to laugh and caught himself at Elerlyth's glare. “Not that kind of special... what special meant years ago. Exceptional. Unique.” She looked down at Ren and sighed. “I don't know who he is in real life; but in here, he's definitely someone to keep an eye on.”
+
+*
+
+Ren opened his eyes and looked up at Elerlyth's charming smile and smiled back. He sat up and rubbed his eyes. “How long was I out?”
+
+“A few hours.” Elerlyth said.
+
+Ren looked at her in awe. “And you sat here and held onto me the whole time?”
+
+Elerlyth nodded.
+
+Ren reached for her hand and held it. “You didn't have to do that.” He said and smiled. “Thank you for taking care of me.”
+
+In the light, it really did look like Elerlyth blushed, even though her skin didn't turn red and just went slightly darker.
+
+“There's a soldier coming down the stairs, Ren.” Teepo said.
+
+Thanks, Teepo.
+
+Ren let Elerlyth's hand go and stood up. He adjusted his cloak and ran his hands through his hair. “How do I look?” He asked her.
+
+“Like the dashing hero that you are.” Elerlyth said and laughed.
+
+Ren grinned. “Thanks. That's exactly the look I was going for.” Ren walked over to stand close to the cell door.
+
+“What are you doing?” Elerlyth asked.
+
+“Getting ready to leave.”
+
+Elerlyth looked a bit forelorn, then realized what Ren had said.
+
+“But-” She started to say and the room's door opened. “How?”
+
+Ren tapped his ear, indicating that he heard it, but he meant that Teepo had told him. Ren had kept Teepo out of all the stories he'd told, too. That was a secret Ren intended to keep. Aimus had been an exception to that, and Lucy already knew about it. No one else needed to know. The soldier came over to the cell and opened the door. Teepo was on his shoulder.
+
+Ren stepped out and turned around. “Well... don't just sit there. Are you coming, or what?”
+
+The 3 of them had shocked looks on their faces, stared at each other, and then stared at Ren.
+
+“Come on, you lot.” The soldier said. “I'm not holding this door open all day.”
+
+The 3 of them jumped up and practically ran out of the cell. They stood near the wall, farthest away from the cell door as they could get without looking like they were doing it. Ren chuckled.
+
+The room's door opened again and a different soldier brought in a well dressed man, still in his nightclothes. Emanon stared at the man as he was placed in the cell and the soldier holding the cell door closed it.
+
+“Say... isn't that...” Emanon started to say and Ren smiled.
+
+“Follow me.” The soldier said and the 4 of them did as they were told. Teepo hopped off the soldier's back and onto Ren's chest, then crawled up into the hood of the cloak. The soldier went up the stairs, out the back door, and around the guardhouse to the Armory. The captain of the guard stood there.
+
+“Good morning!” Ren said to the captain, who nodded in response. Ren couldn't see the stares that Bertach, Emanon, and Elerlyth were giving him; but he could certainly feel them, and smiled again.
+
+The captain of the guard opened the Armory and pointed to Ren. “You first.”
+
+Ren nodded and followed the captain into the Armory and to the cabinet that held his things. Everything was returned, even the low quality short sword that he'd taken from the fake Mitchell.
+
+“I still can't believe you're doing this.” The captain said, and indicated the others waiting outside.
+
+Ren shrugged. “It would have bothered me to just leave them rot in jail.”
+
+The captain shook his head. “You're really soft at heart, aren't you?” Ren grinned.
+
+“I thought you were a magnet for trouble before... but now?” The captain said. “It's like you have a recipe for it or something.”
+
+Ren laughed. That's because I do.
+
+The captain led the way out and Ren stood there as Emanon went next. He came out with a few more rags to his clothes and several bulges that weren't there before. Elerlyth went next and when she came out, she had a low quality bow and 2 small daggers on her hips. A thin armor plate was hooked around her bustier and 2 small plates were secured at the top of her boots. Ren's Vision of Impurity could see how weak the iron was and that it had several small cracks around the edges. Elerlyth stood next to Ren and he turned to her as Betrach went into the armory with the captain.
+
+“May I?” Ren asked Elerlyth and pointed to her chestpiece. Her eyes widened and she looked around. The soldier was watching them as they stood there, but wasn't looking at them. Emanon was looking longingly at the trees and bushes nearby. You could almost feel his need to go and hide in them.
+
+Elerlyth nodded, thinking that Ren was quite bold to ask to touch her breasts in public like this, and she blushed when Ren put a hand behind her back to steady her. When Ren reached for her chest, Elerlyth caught her breath. He's really going to do it!
+
+Ren ran his hand over the metal and felt all the bumps and scratches on the surface and shook his head mentally. Such shoddy work! How could anyone be happy with producing this garbage? Ren thought then ran his hand across the metal part of the bustier, right at the edge of Elerlyth's breasts. Her face turned an even darker shade that almost matched her lip color and she could feel how intensely Ren was concentrating on her. Ren didn't touch Elerlyth's skin, however. He massaged the metal and felt the imperfections and stress fractures. His eyes widened when he found a fatal flaw in the metal, right at the center of one of the breast pieces. Ren let Elerlyth go and got a popup.
+
+Notice!
+
+You have learned the pattern: Female Light Armor (Breastplate)
+
+“Take that off, please.” Ren said and pointed to the bustier.
+
+“Ren... I'd be happy to... but I can't do it here.” Elerlyth said and blushed harder. Her skin color did match her lip color then.
+
+Ren blinked his eyes a few times when he understood what she'd said. Oh... oh my.
+
+Silence filled the area they stood in and Emanon and the soldier gaped at Ren and Elerlyth in disbelief. A grin spread across Ren's face before he could stop it and Elerlyth smiled in return.
+
+The captain and Betrach returned and Ren turned to see that he wore a longsword, a short sword, and a cape that was weighed down with something.
+
+“Sorry, it took a while to load up the cape.” Betrach glanced at the captain, who shrugged.
+
+“We had to count them to make sure you didn't have any stashed anywhere.” The captain said, then looked at the soldier staring at Elerlyth and Ren. “What's going on?”
+
+Ren turned back and winked at Elerlyth. “I was just asking Elerlyth for her breastplate.”
+
+Elerlyth's blush had receded by that point and nodded. After unhooking the leather strap on her back, she handed it to Ren. Ren turned back to the captain and held out the breastplate.
+
+“Captain, if you would be so kind. Poke your finger right here.” Ren said and pointed to the front of the right breast shape.
+
+It was the captain's turn to blush a little.
+
+“Please.” Ren urged and the captain reached out a hand, used his index finger, and poked a finger right through the metal.
+
+“Holy fuck!” Betrach said as the metal crumpled. Everyone had shocked looks on their faces, except Ren.
+
+“I thought so.” Ren said and handed the ruined breastplate back to Elerlyth. She stared at it and then at Ren.
+
+“How... how did you know?” Elerlyth asked and put the broken breastplate into inventory.
+
+“It's a talent that I have. I can see, and find, the weaknesses in metal.” Ren explained. “Whoever sold you that garbage as a piece of armor, that's supposed to protect you, was a cheat and a liar!”
+
+Ren's Aura flared and Elerlyth felt Ren's vehemence in her defence. She reached out and touched his face. “Thank you.” She said and drank in how he felt. It made her feel all warm and tingly inside.
+
+“If the one who sold you that is anywhere near here, you should report them for selling such things.” The captain said.
+
+Elerlyth shook her head. “He's far away from here.”
+
+The captain nodded and turned to Emanon. “You.” He said. “...were telling the truth. We took it upon ourselves to question the person you robbed. They lied about how much you stole.”
+
+Emanon's eyes widened and looked at Ren.
+
+“Yes, it was Ren who told us to ask the victim.” The captain said.
+
+“How much is the fine?” Emanon asked.
+
+“It's already paid... and you were sentenced to a night in the cell.”
+
+Emanon stood there in shock as the captan turned to Betrach.
+
+“You.” He said. “...had better keep your pants on around the minister of finance's wife. In fact, you should keep your pants on whenever you're in this city, just so we don't have to worry about any of the other minister's wives.”
+
+“But... 30 days minimum...” Betrach said. “Is there a fine instead?”
+
+The captain nodded. “It's taken care of.” The captain turned to Elerlyth. “As for you... I wanted to keep you here indefinitely.”
+
+Elerlyth gasped and clutched onto Ren as if her life depended on it. In a sense, it had.
+
+“A wiser head prevailed, instead. This was your third time... but as we did overlook some of the circumstances before...” The captain said.
+
+Elerlyth relaxed but still clung to Ren.
+
+“A fine was paid on your behalf and you were sentenced to a night in the cell.”
+
+Elerlyth's mouth gaped open and she stared at the captain. “W-w-who would do such a thing?” I don't know anyone here that would bail me out like that!
+
+The captain looked at Ren and then so did everyone else. Ren's face flushed red but he didn't try to hide or deny it.
+
+“R-R-Ren!” Elerlyth said and walked around Ren to face him. “How much?!?” She said and tried to shake him, but he didn't move. “How much?!?”
+
+Ren looked her in the eyes. “I paid 5 gold for Emanon.”
+
+“I only took three.” Emanon said and Betrach slapped him in the back of the head. “Ow!”
+
+Ren didn't take his eyes off of Elerlyth. “Like the captain said... you were going to be kept in there, and possibly sentenced to hard labor. I couldn't allow that. He said a fine of 50 gold would cover it.”
+
+Elerlyth dropped to her knees, put a hand on the side of Ren's neck, and stared at him.
+
+“I offered the same amount to get Betrach out of the 30 day sentence.”
+
+Silence filled the space around them for a moment.
+
+“A platinum.” Elerlyth had wonder in her voice. “You paid a platinum to get us out.”
+
+Ren nodded.
+
+“Why?” She asked. “Why do such a thing for us? People you barely know?”
+
+“I like you.” Ren said. “I really did learn a lot. If I'd never met you, I wouldn't have known about all of this.” Ren shrugged. “The way you were being treated didn't seem fair at all. I had to do something about it.”
+
+Elerlyth leaned in and kissed Ren. She wrapped her arms around him and squeezed tightly. Ren reacted automatically to such an empassioned kiss and hugged her back. Elerlyth could feel Ren's reaction to her and it fed her ability... which in turn made her more enthusiastic in her kissing, which in turn made Ren react even more. This went on for several minutes and didn't look like it was going to stop.
+
+“AHEM!” The captain of the guard said.
+
+Elerlyth and Ren broke the kiss at the same time and then started at each other.
+
+“That...” Elerlyth started to say.
+
+“Was...” Ren added.
+
+“Amazing!” The soldier said and everyone looked at him. “What? You couldn't feel that?”
+
+Ren looked around and they were all within the 10 foot radius of his Aura. Only the soldier seemed to be affected by it, however.
+
+“Sorry, Ren.” Elerlyth said and let go of him. “I just... I wanted to thank you properly.”
+
+Ren smiled. “I think I should thank you... and so should he.” Ren said and motioned to the soldier. Everyone laughed.
+
+“Okay, break it up.” The captain said, but he had a smile on his face. “You better get out of here, before I find something else to charge you with.”
+
+Elerlyth stood and they all nodded.
+
+“Ren, you be careful.” The captain said.
+
+Ren smiled. “Like a virgin on her wedding night.”
+
+Elerlyth snorted a laugh and everyone joined in again.
+
+“Come on, come on. Shooo!” The captain waved his arms in a 'go away' motion and the 4 non-soldiers left the mansion's back courtyard. Ren started walking up the street to Donan's shop and asked the others to follow. Elerlyth walked beside him and Betrach and Emanon followed close behind.
+
+“How? How did you do it?” Emanon asked. “How did you get them to listen?”
+
+“I'm just a good talker, I guess.” Ren shrugged and looked at Elerlyth as they walked. “I can't let you go on your way without replacing that thing you wore.” He said and motioned to her chest. “Will you let me make you something to replace it?”
+
+Elerlyth stared at him. “You want to replace it?”
+
+Ren nodded. “I told you. That someone would give you that and tell you it would protect you... Ugh!” Ren said in disgust. “I want to wring his neck, whoever it was.” Ren clenched his hands together, pretending it was someone's neck. “He's a disgrace to the blacksmith's profession.”
+
+Elerlyth reached out and touched Ren's cheek. “You really do care about that, don't you?” She said and Ren nodded. “It's not like there's a vow or anything that you take, but if you are supposed to make things to protect people... the least you can do is do it right.”
+
+Elerlyth nodded and Ren smiled. He was looking forward to making something new.
+
+They got to Donan's shop a few minutes later and Ren turned to them. “This shouldn't take too long. Maybe half an hour to an hour.” Ren said and handed Elerlyth 5 gold. “Why don't you go and get something to eat while you wait, and take these mooches with you.” Ren grinned at them.
+
+“Hey! I resemble that comment!” Emanon said.
+
+Betrach chuckled. “Yeah, food sounds good. I need to get my Health back up for some reason.”
+
+Elerlyth smiled. “We'll be back in an hour, then.”
+
+Teepo. Ren thought and took Elerlyth's hand in his, bent down and kissed it.
+
+“On it, Ren. They won't leave my sight.” Teepo said and crawled over the held hands and onto Elerlyth's shoulder. Ren waved to the trio and went into the shop.
+
+*
+
+Once they were far enough down the street, Emanon spoke.
+
+“We're not going back, are we?”
+
+Betrach shook his head. Elerlyth didn't say anything and kept walking.
+
+*
+
+Ren smelted some of his high quality iron bars and let it simmer. He stirred it fast to get extra air into it and skimmed off some of the impurities that were left. In between, he worked on the breastplate pattern he'd received from examining the old one. Ren modified it a bit, reinforcing the edges to stop wear and tear, added an armored back and a filagree and leaf pattern to the front with the help of the system (adapted from his High Elven Court Uniform).
+
+Teepo had kept Ren appraised of the trio's whereabouts. They'd even gone to eat.
+
+Ren poured out the blank big enough for the shape he needed and started hammering. It didn't take long to get it to the right shape with the system's help. When he was done shaping it, he used the dying station to make it the same dark blue color of Elerlyth's leather pieces. After smelting a single gold coin in a small crucible and adding a bit of steel, he stirred it and then slowly poured it onto the filagree leaf pattern. When Ren was done, he polished it to a shine.
+
+“Ah... now there's a nice piece of work.” Donan said and clapped Ren on the shoulder.
+
+“Thanks, Donan.”
+
+Donan waved the thanks away and went back to his own work. Ren took the new breastplate and stored it into inventory.
+
+Teepo.
+
+“We're in the Market District. It looks like we're heading to the South Gate.”
+
+Thanks, buddy. I'll be right there. Ren thought and then took off running. Ren ran down the street to the main road between the North and South gates and took the corner to go south. 10 minutes later, Ren reached the South Gate just as the trio were passing through it.
+
+“Hey! Wait!” Ren shouted and the trio turned around. “I told you I couldn't let you leave without a new breastplate.” Ren said as he caught up with them and stood still to let his Stamina recover.
+
+“How did you find us?” Betrach asked, stunned.
+
+“Did you enchant us or something?” Emanon said, equally stunned.
+
+Ren shook his head. “I just figured if you were leaving for good, this would be the way you'd go.”
+
+Elerlyth looked at Ren like she knew he was lying, and Ren smiled then winked at her.
+
+He knows I can tell? Elerlyth thought as Ren approached her.
+
+“Elerlyth, please accept this gift as a token of my thanks.” Ren said and took out the steel and gold breastplate. Emanon whistled at the high quality workmanship.
+
+“What are you thanking me for?” Elerlyth asked, perplexed.
+
+“Making me feel alive.” Ren laughed then grinned. “That kiss was amazing.”
+
+Elerlyth's face flushed darker and Ren continued. “My girlfriend is going to kill me for it, though.”
+
+“Girlfriend?” Emanon said.
+
+Ren nodded. “We just recently got together... but she doesn't like how things feel in here. She says it's too fake for her.”
+
+“Maybe she has a cheap VR headset, or her settings are off.” Betrach suggested.
+
+“That's what I thought, too.” Ren said.
+
+“You have a real life girlfriend, then.” Elerlyth took the breastplate from Ren.
+
+Ren nodded. “At least, I hope I do.” Ren said. “She only just found out that I thought of her as my girlfriend.”
+
+“So... you're not really together in the game?” Elerlyth asked as she equipped the new breastplate and the gold filagree stood out like a hologram floating above a dark background.
+
+Ren shook his head. “No, when she said she didn't like the feel of things, I put a stop to it. I don't want her feelings in here to affect her feelings out there.”
+
+“Good.” Elerlyth said. Ren looked at her in surprise as she took him into a hug.
+
+“Because being in an electronic relationship is just fine by me.” Elerlyth leaned down and kissed Ren on the lips. Of course, Ren reacted accordingly and got excited that a woman had accepted him for who he was and was kissing him, Elerlyth could feel that Ren felt that way and it matched her feelings exactly, that a man accepted her without judgment and she became more excited and fed on Ren's feelings.
+
+Teepo took their closeness as an opportunity to crawl down Elerlyth's arm and onto Ren's shoulder.
+
+A few minutes later, Elerlyth felt doubt enter Ren's thoughts and his excitement ebbed. She kissed him until he broke away and looked at her.
+
+“Are you serious?” Ren asked.
+
+Elerlyth nodded. “Sure, why not?”
+
+“But... don't you think...” Ren started to say.
+
+“That's it's cheating?” She finished the thought for him. Ren nodded.
+
+“There's a saying some of us live by. What happens in the game...”
+
+“Stays in the game.” Betrach and Emanon said together.
+
+“So, what you're saying is, that no matter what happens in here it doesn't affect what happens out there.” Ren said.
+
+“Right. In here, we can do whatever we want. Good, bad, nice, nasty... but it doesn't change how things are in the real world.” Elerlyth replied.
+
+“And you were trying to leave without saying goodbye because...” Ren added.
+
+“We don't want to owe anyone anything.” Betrach said.
+
+“You don't owe me anything.”
+
+“You bailed us out of jail, man!” Emanon said. “Of course we owe you!”
+
+Ren shook his head. “I told you before. Once I knew how you were all getting shafted, I couldn't just let you stay in that cell. That's all on me, Emanon.”
+
+He really believes we owe him nothing. Elerlyth thought. We were sneaking away for no reason.
+
+“Like you said... it's just a game. It's hard to have fun if you're stuck in a cell most of the time.” Ren said. “What's a platinum coin between friends?”
+
+Betrach and Emanon shook their heads in disbelief. Is this guy for real? They both thought.
+
+“Come over here for a minute.” Elerlyth said and led Ren off the road and walked about 20 feet away from where the 2 men stood. “There's something I should tell you.” Elerlyth said. “I've... I've been...”
+
+“Feeding off my Aura.” Ren said and smiled.
+
+Elerlyth looked at him in surprise. “So you did know!”
+
+Ren nodded. “I figured it out when we were talking last night. When I first saw your reaction after I entered the cell, I had no idea what was going on and I thought you were making fun of me or something.”
+
+Elerlyth tried to respond and Ren shook his head. “Let me finish. Once I sat by you and took your hand, I could almost feel you taking it in. After a while, you looked so much... happier? Pleased?” Ren said and shrugged. “Anyways, I knew then that whatever was happening, I was helping you feel better. That was good enough for me.”
+
+Elerlyth leaned into Ren and put a hand on his face. “I thought I was getting away with stealing from you all night, feeding on you even while you were asleep, but you held my hand for most of the night. On purpose.”
+
+Ren nodded.
+
+“Thank you, Ren.” Elerlyth said as a tear formed at the corner of her eye and she kissed Ren slowly and tenderly. It was only a brief kiss, but the feelings being shared then were 10 times more intense.
+
+“Wow.” Ren and Elerlyth said together when the kiss ended, and they both laughed.
+
+A moment later, she took a deep breath. “Okay, Ren. Now that I've come clean, it's time for you to come clean, too.”
+
+Ren looked at Elerlyth in surprise. “What do you mean?”
+
+“What the hell is that?” Elerlyth asked and pointed right at Teepo.

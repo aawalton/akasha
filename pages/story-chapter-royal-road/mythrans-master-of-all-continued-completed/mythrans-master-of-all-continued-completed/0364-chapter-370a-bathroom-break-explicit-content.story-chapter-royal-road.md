@@ -1,0 +1,535 @@
+---
+id: 5c997070-c9c7-5ab0-af0a-32a6ad2931d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 370A - Bathroom Break (Explicit Content)"
+slug: 0364-chapter-370a-bathroom-break-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 364
+ownLength: 6127
+unit: words
+publishedAt: 2017-09-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164611/chapter-370a-bathroom-break-explicit-content"
+royalRoadId: "164611"
+---
+
+After nearly half an hour of watching Lisa and Stella tease him, Ren couldn't take it anymore.
+
+“S-Stella? I... I need to use... the bathroom.” Ren managed to say. Stella nodded and held the wheelchair for him. He transferred over to it from his seat, and Stella rolled him over to the half-bathroom at the side of the room. She took him inside and Ren moved from the chair to sit on the toilet without flipping it up.
+
+“Ren, I thought you said...”
+
+“I don't need to... not that, I... by the gods, it hurts!” Ren said.
+
+“Ren?” Stella was worried, because if he was complaining about pain, it must be very painful, whatever it was. Ren eased his pyjama pants down, and Stella saw the prominent bulge in his underwear. When he pulled those down, she gasped.
+
+“Oh, Ren.” Stella said. “I'm so sorry.”
+
+His member was quite swollen, even more than it usually was when he was excited. Ren tried to touch it himself and he winced.
+
+“I don't know why it's like this.” Ren said. “Can you...”
+
+Stella tried to touch it with her hand and Ren winced again.
+
+“Why does it hurt so much?” Ren asked.
+
+“If I had to take a guess, there's more blood in it than there should be.” Stella said. “The darker red color, the thicker veins, the engorged head...” She sighed. “Ren, I never thought that teasing you would... would do this to you.”
+
+“Me, either.” Ren said. “I've admired you while you moved around and did things before, but...”
+
+“You've never had a woman flaunt herself in front of you for so long and not done anything about it.” Stella said and sighed.
+
+Ren looked at her. “Is... is that it? I held it in too long?”
+
+“I hope so.” Stella said. “I don't know how we can fix it if we can't touch it, though.”
+
+“Maybe if you licked it.” Ren said.
+
+“Are you sure? You're really sensitive right now.”
+
+Ren nodded and braced his hands on her shoulders. “Try it.”
+
+Stella watched his face and stuck out her tongue. She very carefully licked the shaft and saw Ren wince only a little bit.
+
+“That... wasn't too bad.” Ren said. “Keep going.”
+
+Stella flicked her tongue out again and licked him, then again and again. Ren started to breath heavy; but, at least he had stopped wincing. She knew it was still painful for him, but he was fighting it. She decided to just lay her tongue against him instead of licking, and the flesh was so hot that it almost burned her tongue. He didn't wince, though.
+
+“Ren, I'm going to...”
+
+“Please... if it'll help, just do it.” Ren said, and Stella slipped her mouth over the tip. “AHH!” He yelled and clamped his mouth shut and grit his teeth together. His hands dug into her shoulders, but not enough to hurt or bruise her. Stella didn't move at all, and just held him in her mouth until he relaxed. After several deep breaths, Ren nodded to her.
+
+Stella carefully slid him further into her mouth and stopped. She kept her eyes on his, and he nodded again. She slid back slightly and sucked, and he closed his eyes.
+
+“HM!” Stella grunted.
+
+Ren opened his eyes and Stella had a hand up and pointed at her own eyes. He sighed and nodded, and she moved him further into her mouth. He fought to not wince at the pain, and kept his eyes on hers. She moved him in and out and sucked as she watched his reactions, and when she thought he had adjusted to her, she tried to take him deeper.
+
+Ren caught his breath as Stella's top lip touched his abdomen, but it was because of what she was doing, not from pain. She felt the difference in his reaction and flicked her tongue against him, to let him know she knew the difference. She eased herself back away from him and almost took him out of her mouth completely; then she went all the way back to his abdomen again. Stella felt him throb in her throat, and she knew he was now getting more pleasure than pain from it.
+
+“Ren are you okay?” Lisa asked when she opened the bathroom door. “What the hell?”
+
+Stella leaned back and slipped Ren out of her mouth. “Lisa, I...”
+
+“You asked me over, and you're letting Stella do that to you?” Lisa asked Ren.
+
+“Lisa.” Stella said, and she looked at her. “Our teasing had a... side effect.”
+
+“He got hard and wanted a blow job.” Lisa said. “I can see that.”
+
+“Come here.” Stella said.
+
+“Wh-what?”
+
+“Please, Lisa.” Stella said. “Just saying what's going on isn't going to work. Come here and see what's wrong with him.”
+
+“Wrong?” Lisa looked at Ren and then at his member. “What's wrong?”
+
+Stella held a hand out and waved her closer, and Lisa waked into the bathroom. “Give me your hand.”
+
+Lisa wasn't sure what was going on; but she held a hand out to Stella, who took it.
+
+“Watch Ren's face.” Stella said, and Lisa looked at Ren.
+
+Stella put Lisa's hand on his member and Ren hissed and closed his eyes.
+
+“Oh, my god.” Lisa said and pulled her hand back. “That really hurt you!”
+
+Ren opened his eyes and looked at her. “Apparently teasing me like that caused me to... well...”
+
+“He's backed up.” Stella said. “As far as I can tell, anyways.”
+
+“B-b-backed up?” Lisa asked and knelt to get a closer look. “Oh, no.” She said. “It's so red and swollen!”
+
+Stella nodded. “I guess normally when a woman is playing with him, he gets excited, he has sex, and then that's it.”
+
+“Hey.” Ren said. “I last longer than-”
+
+“You know what I meant.” Stella cut him off and smiled, then looked at Lisa. “This time, with excitement after excitement from us, he held himself back too much when his body didn't want him to.”
+
+“Oh, Ren.” Lisa said and looked up at him. “We did this to you.”
+
+“I'd say it wasn't your fault; but, damn.” Ren said and smiled. “You definitely proved that you can be so sexy it hurts.”
+
+Lisa chuckled and a tear came to her eye. “You shouldn't joke.” She said and looked at Stella. “You've been trying to help him, and I-”
+
+“It's all right.” Stella said. “I know what this looks like.”
+
+“I... I thought you were... with me right there, too.” Lisa said and looked up at Ren. “Why didn't you ask me to help?”
+
+“Stella's the medical professional and there's something medically wrong, and you know her view on physical interactions.” Ren said. “Plus, I didn't want you to think that I invited you over to only have sex.”
+
+Lisa snorted a laugh. “I would have come anyways.”
+
+“I certainly hope so.” Ren said, and she chuckled.
+
+“I said not to joke about it.” Lisa said.
+
+“I can scream in pain if you want.”
+
+“Good god, no.” Lisa said. “I... I can't take that, especially since I... since we did this to you.”
+
+“You can help.” Stella said and Lisa did that slow turn of her head to stare at her.
+
+“Excuse me?”
+
+“I've tried to get him excited, and I was pretty close.” Stella said. “I think you need to try it.”
+
+“But...”
+
+“Ren's right. I see this more as treatment than anything else.” Stella said. “But the two of you don't have a lot of experience with each other.”
+
+Lisa looked up at Ren and they exchanged knowing looks. Neither of them had told anyone else that they knew a lot about each other because of the flash-forward 'memories' the game had shown them.
+
+“Just that newness might be enough to... well, dislodge... whatever is stuck.”
+
+“I don't know.” Lisa said. “I mean, you're right. We've only... I mean, I did do it in the hot tub...” Her face flushed red.
+
+“Then think of that.” Stella said. “Remember how you felt that day.”
+
+“I felt... naughty.” Lisa said and her face burned.
+
+“You were sexy as hell in that micro-bikini.” Ren said and his member throbbed. “I can still feel your-Ah!”
+
+Lisa slipped her mouth over the tip of him and sucked a little.
+
+“Easy, there.” Stella coached. “Move slow. He's really sensitive.”
+
+“Mm.” Lisa moaned and eased the pressure on him. Ren took a shallow breath and remembered Stella's advice and kept his eyes on Lisa as she moved in and out. At Stella's urging, she moved more and more of him into her mouth, and eventually worked all of him in.
+
+“Good god, that's... Lisa, I don't know how you can... you're amazing!” Ren said.
+
+“Hm mm.” Lisa moaned.
+
+“You shouldn't talk with your mouth full.” Stella said, and Lisa laughed; which felt really weird for Ren. Lisa started to gag and slipped him out of her mouth, then she started to cough. “I'm sorry, Lisa.” Stella said and rubbed her back to help her. “Sometimes I don't know when to keep my mouth shut.”
+
+“Then put it to good use.” Ren said and touched her hair. Stella nodded and licked him from the base to the tip, then slipped her mouth over him again. She didn't have to work him down this time, since she had already loosened her throat up; so she plunged onto him while her hand continued to rub Lisa's back.
+
+Lisa took several breaths to calm down, and noticed how well Stella was doing. “Okay, I'm a little jealous.”
+
+Stella slid off and sucked at the same time, and it made a kissing sound. “You don't need to be jealous, Lisa. I'm amazed you can take it at all, let alone get him all the way in.”
+
+“But you just... it's like you're not even struggling.”
+
+“I'm not.” Stella said. “Once I decided that it was easy, I relaxed.”
+
+“Is... is it that simple?”
+
+“Try it.” Stella said. “Don't think about what you're doing. Just do it.”
+
+Lisa nodded and did the same thing Stella did. She licked Ren from the base to the tip, slipped him into her mouth, then plunged down on him and he slid all the way in.
+
+“That's it.” Stella said. “Let the feeling of all that hardness become a part of you.”
+
+Lisa moved Ren in and out, and she didn't think about what she was doing. All she thought about was the feel of him inside her mouth, and realized Stella was right. All she wanted was to keep that feeling for as long as she could.
+
+“I... I think...” Ren tried to say.
+
+“I have to see this.” Stella tapped Lisa's shoulder and Lisa pulled off of him. Stella turned her head and kissed the side of the shaft just beside the tip, then licked and sucked it to try and get Ren to finish. Stella felt him calm down a little, and she pulled Lisa in to do the same thing to the other side of his shaft. When Lisa's lips touched him, he throbbed several times.
+
+“Oh... oh my god...” Ren stared at the two women as they licked and sucked on him, and then Lisa's tongue grazed the edge of the tip. Ren put a hand on both of their heads and they took the cue. Both women licked and sucked on their side of the tip, and his hands gripped their hair.
+
+“AHHH!” Ren screamed as he went. It shot out in a straight stream across the bathroom and splashed against the mirror. Stella and Lisa watched with wide eyes as the stream lasted for a couple of seconds, then it lost power and eased down. They kept licking and sucking, because Ren still had a hold of their hair, and another spurt came out, it was at about half the strength of the last one, and then Ren's grip on them eased.
+
+“Fuck, that hurt!” Ren said, and both women looked up at him. “Sorry for cursing.”
+
+“It's okay.” Stella said. “I could tell it hurt.”
+
+“Me, too.” Lisa said. “You didn't really enjoy that, did you?”
+
+Ren cupped the side of her face. “It was the best feeling in the world to have a woman that cares about me, do what you just did.” He said, and Lisa's face turned dark red. He looked at Stella and cupped her face, too. “I need to ask...” He looked down at himself, and he was still rock hard. “Can you... please, I need you to keep going.”
+
+Stella tried touching it with her hand, and he winced a little. “Just mouths again, then.” She said and looked at Lisa. “Tag team or double team?”
+
+“We tried tag team already; but, double team helped him finish.” Lisa said. “We should start with that this time.”
+
+“Shaft or tip?”
+
+“Tip, please.” Lisa said. “It...” Her face flushed even redder. “I like that part more.”
+
+Stella put a hand on her arm. “You don't have to be embarrassed for admitting what you like.” She said. “I like it when he goes down on me.”
+
+“You do?” Lisa asked. “I like it fine, but... it makes me a little uncomfortable.” She said. “I feel... vulnerable.”
+
+Stella moved her hand to her face. “You don't have to feel that way with Ren.” She said. “He loves doing it.”
+
+“I really do.” Ren said and Lisa looked at him. “In fact... Stella? Can you...”
+
+“I'll be right back.” Stella said and stood up. “I'll get the towels.” She said and left the bathroom at a fast walk.
+
+“What are the towels for?” Lisa asked.
+
+“For me to lay down on.” Ren said. “I'm starting to get sore just sitting here.”
+
+“Oh! I'm sorry.” Lisa said. “I didn't think... well, you're sitting down, so I thought...”
+
+“It's easier than standing, sure.” Ren smiled. “But everyone will have a sore backside after sitting for too long.”
+
+Lisa nodded, and then Stella came in with a handful of towels, a bathrobe, and a pillow. She spread the towels out on the floor and put the bathrobe down on top to make a nice place for Ren to lay down on, then added the pillow for his head. He started to stand up, then stopped.
+
+“Yeah, I definitely sat still for too long.” Ren said. “I need a hand, please.”
+
+Stella and Lisa each took one and braced him as he slid off the toilet and knelt on the floor. He turned and sat down, then laid back.
+
+“Oh, Ren.” Stella said when she saw his member almost stuck straight up. “It's kind of like you're suffering the side effects from a sexual enhancement drug.”
+
+“Really?” Ren looked down at himself. “Is this what can happen?”
+
+“In some rare cases.” Stella said and took off her top, then unhooked her bra. “I haven't heard about severe sensitivity, though. Usually it's just pain.”
+
+“What do we do to help?” Lisa asked. She thought about taking her top off, too; but, there was no way she could compete with Stella in that department. When she remembered what department she could compete in, she stood up and undid her pants and slipped them off.
+
+“We'll do what we can to relieve the tension.” Stella said. “If that doesn't work...”
+
+“It's going to work.” Ren said and looked at Stella's breasts, then looked at the tiny little blue panties Lisa wore. “Good god, its going to work!”
+
+Stella nodded and took her own pants off and laid on the floor by his legs, put her chest on Ren's thigh, and started to kiss and lick the shaft of his member. Ren throbbed for her, and she looked at Lisa. Lisa nodded and turned around to let Ren see her backside as she knelt by his chest, then started to suck on the tip of him.
+
+“God!” Ren said as the two women sucked and licked him, and he became more excited. They felt the difference in him and worked harder. If they didn't finish him quickly, he could possibly suffer even more pain. Ren put a hand on Lisa's thigh and she stopped sucking on him.
+
+“What...”
+
+“Straddle me, please.” Ren said. “I can't be so close to heaven and not feast my eyes upon it.”
+
+Lisa's face burned a deep red, hesitated for only a moment, then nodded and carefully put her leg over his chest. She was already wet, and Ren lightly ran his hands up her thighs, across her backside, and hooked a finger under the edge of the thin cloth of her panties. He eased it aside to see her, and he appreciated the sight.
+
+“Thank you.” Ren said and kissed her there. Lisa caught her breath and tensed up; but, it was only a brief kiss and she relaxed. She slid the tip of his member back into her mouth and continued to suck, then she spread her legs a bit more and it brought her womanhood much closer to Ren's mouth.
+
+“Lisa, you look so good.” Ren said. “I have to.”
+
+“Go... go ahead.” Lisa said, and Ren gave her one long lick. She shivered, and he licked her again.
+
+“Thank you.” Ren said and licked her. “Thank you!” He said and started to work over her tip just as much as she was working over his tip. Lisa stopped sucking on him and looked at Stella.
+
+“He... he really does like... mmm, god!”
+
+Stella moved down to his scrotum. “I told you.” She said and licked him very, very gently. “He's really good at it, too.”
+
+“I... god, yes!” Lisa said and she went. She slid him into her mouth to stop herself from moaning out loud. “MmmMMmmM!”
+
+That just happened to feel really good for Ren, and he throbbed in Lisa's mouth. She took the cue and kept moaning around him as she sucked. They stayed that way for several minutes, and then Ren tensed up.
+
+“I... I'm gonna...”
+
+Lisa slid her mouth off of him so Stella could see how far it was going to go, and they watched as Ren finished and it shot almost 4 feet straight up.
+
+“Gah!” Ren said, and he spurted again at about 3 feet; then it calmed down and a steady flow came out.
+
+“That's...” Lisa looked at the mess and didn't know what to say, then Ren started to work her with his mouth again.
+
+“It's amazing.” Stella said. “It's like... like he was...”
+
+“Wh-what?” Lisa asked and tried to concentrate on what Stella was saying, and not on what Ren was doing to her.
+
+“It's like he was designed to please women.” Stella said, and finally gave words to her scattered thoughts. She licked the side of his member to gather up some of what he'd expelled, swirled it around her lips, and swallowed it. “That's so good.”
+
+Lisa looked at Stella, then at Ren's member. Her tongue darted out and licked some of it up, and she tasted it. Her eyes widened, and she took a bigger lick.
+
+“You're right. It really does taste good.” Lisa said, then slipped her mouth over the tip to suck more of it into her mouth.
+
+Stella licked the shaft and cleaned up the rest of it, and Lisa felt another orgasm building. She stopped sucking and laid her head on Ren's thigh when she knew she was about to have a big one, and Stella took over and worked the tip of his member. Lisa grit her teeth together as she went again, and her whole body tensed up as she squirted into his mouth.
+
+“God, Ren!” Lisa said when he kept sucking on her. “S-s-stop.” She panted. “Give... give me... a minute.”
+
+Ren gave her another lick, and her whole body twitched. “That's so awesome.” He said and licked her again. She twitched and shook, and he chuckled. “I just love your reactions!”
+
+Stella stopped sucking on him and looked at Lisa. “Ren, ease off for a bit.”
+
+“Yes, ma'am.” Ren said and stopped licking Lisa. “I really, really want to keep going, though!”
+
+“We know.” Stella said.
+
+Lisa was quite overwhelmed by Ren's constantly pleasing her, and she sighed as Stella rolled her off of him. She couldn't tell if it was a sigh of relief or a sigh of sadness, though.
+
+“I'll distract him for you.” Stella said and slipped off her underwear. She moved to take Lisa's place and straddled Ren's face.
+
+“Thank you!” Ren said, and started to please Stella.
+
+“You... aren't supposed to... ah!” Stella caught her breath as Ren found a good stimulation spot. “Don't... don't thank a woman... before... before... god!” She said and braced her hands on the floor as she went. Lisa watched as Stella was just as vulnerable as she was to Ren's relentless attack, and she smiled.
+
+“I'm so glad that you can't take it, either.” Lisa said and sat up.
+
+“What... what are you... HM!” Stella tried to talk, but Ren grabbed onto her hips and dug his tongue inside of her.
+
+“I thought, as his nurse, you can see him whenever you want.” Lisa said and slipped off her shirt. “When I found you in here, I thought... does she do this for him all the time?” She smiled. “Now I know you don't.”
+
+“I... don't know... what you mean.” Stella said and tried to keep a level head as Ren kept pleasing her.
+
+“If you were having sex with him all the time, you wouldn't be turned on so much.” Lisa said, wisely. She looked down at Ren's throbbing member, slipped it into her mouth for a second, then slid it out and looked at Stella. “You aren't completely clinically detached.”
+
+“I... never said... Ren!” Stella said and went again. She squirted out, and it covered his mouth, his chin and his neck.
+
+“I was scared at first.” Lisa said. “I mean, I've barely had sex at all in real life.” She said and straddled Ren's waist. “But I think you're right. Ren needs me.”
+
+“Oh, FUCK!” Ren said as Lisa sat down on top of him. He slid inside easily; but once inside, Lisa's body clamped down onto him and squeezed him tightly.
+
+“Ren, I'm sorry!” Lisa said and started to get up. “I didn't...”
+
+Ren grabbed her hips and pulled her back down. “Don't stop!” He said. “It hurts... god it hurts! But... but you feel really good, too!”
+
+Stella reached out and moved Lisa up a little. “Don't go all the way down and sit on him. He can't take your weight like that.”
+
+“S-Stella!” Ren said.
+
+“No, Ren.” Stella said. “Lisa, brace your knees and let them take your weight. We don't want to hurt him, okay?”
+
+Lisa nodded and did as she was told, braced her knees and held her own weight.
+
+“Now rock your hips.” Stella said, and Lisa did it. “A little more... not so mechanical, you need to feel it, it's not just the motion.”
+
+Lisa took her advice and her rhythm changed to one that would be beneficial to both her and Ren.
+
+“That's it.” Stella said. “Just like that.” She said. “Ren, you're not licking.”
+
+“I'm... a little busy...” Ren said and held onto Lisa's hips.
+
+“Lisa's doing all the work.” Stella said and moved his hands from Lisa's hips to her own. “Stop stalling.”
+
+“Yes, ma'am.” Ren said and started pleasing her again. Stella waited until Ren matched his mouth movements to Lisa's hip movements, and she looked at Lisa. She was concentrating on keeping her technique going, and Stella smiled.
+
+“You're right, Lisa.” Stella said. “I do like that you're here.” She said. “You didn't immediately run away when you saw me on my knees with Ren in my mouth, and that intrigued me.” She closed her eyes as Ren found that spot for her again. “You... you let us explain what was happening, and then you agreed to help.” She said. “That was...” She grit her teeth for a moment as she went a little, then she opened her eyes and looked at Lisa. “I admired that.”
+
+Lisa kept moving, but Stella had half of her attention now.
+
+“Plus, you really are cute. You're almost as cute as Ren.” Stella said. “I've never gone that route, since I like men so much; but, when it comes to you...” She smiled and reached out and cupped the side of her face. “I feel envious of Ren.”
+
+Lisa's rhythm faltered and she looked at Stella with wide eyes. “Did... did you just say...”
+
+“I'd like to kiss you.” Stella said and her face flushed a little red.
+
+“You...” Lisa stopped moving her hips. Stella leaned forward and kissed her. It was just a light peck and lasted for only a second; but, the both of them felt the thrill. They stared at each other from only an inch away when it was done.
+
+“That was my first kiss.” Stella said. “Thank you.”
+
+“Mine, too.” Lisa said, leaned forward, and kissed Stella back. Both women gasped as Ren jammed himself up inside of Lisa and plunged his tongue inside of Stella. He'd watched their first kiss and couldn't hold back anymore. He wanted them both to finish again for giving him such a great gift; and after only three thrusts, he finished.
+
+Lisa broke the kiss and held onto Stella as Ren unloaded himself inside of her, and that made her go as well. Her body clamped down on him tighter than before; but, he didn't scream in pain this time. Stella finished, too; then both she and Lisa relaxed after their orgasms. Stella moved off of Ren's face and looked down at where he and Lisa were still joined.
+
+“I wanted to see how far...”
+
+“Pretty far.” Ren said. “At least 10 feet!”
+
+Stella chuckled and looked at Lisa.
+
+“At least that far.” Lisa smiled. “I feel full, and I haven't even eaten anything.”
+
+Stella laughed. “Okay, all joking aside... Lisa, ease up and off. Slowly.”
+
+Lisa nodded and slid herself up and off of Ren, and she saw Stella's huge smile.
+
+“Ren! The swelling's gone down!”
+
+“Thank god.” Ren said. “I was scared that...” He shook his head, then looked at Lisa. “Thank you.” He said and looked at Stella. “Thank you both.”
+
+“You're still really hard, though.” Stella said and watched his face as she used a hand to touch him. Ren didn't wince, and she wrapped her hand around him. “Anything?”
+
+“Just... your hand.” Ren said. “No pain.”
+
+“I'm so glad.” Stella said and let him go.
+
+“Please... don't stop.” Ren said.
+
+“I'm not going to.” Stella said. “I can't let Lisa have all the fun.”
+
+Lisa chuckled. “I'm pretty sure we all had fun at the end.”
+
+Stella grinned at her. “Switch places with me.”
+
+“But...” Lisa looked down at herself and at Ren. He had made quite a mess.
+
+“I can clean some of it up.” Stella said and bent down.
+
+“W-wait!” Lisa said, and Stella stopped. “I... kissing you was... well, it was nice and all, but...”
+
+“You only want Ren to touch you there.” Stella said.
+
+Lisa nodded and Stella handed her one of the spare towels.
+
+“Wipe off what you can, then rinse yourself off in the sink.” Stella said. “Then you can sit on Ren's face while I have fun.”
+
+Lisa wiped between her legs to clean off as much as she could, then she stood up. Some of it dripped out and ran down her leg, and she wiped that up, too. Stella bent over and started to lick Ren clean while Lisa splashed water on herself.
+
+“This isn't really working.” Lisa said, and Stella stopped sucking on him to look at her.
+
+“That's because you have to use your fingers to dig it out.” Stella said, gave Ren another lick, and stood up. Ren watched as Stella walked over to Lisa, who had one leg propped over the sink, and then scoop up some water. She splashed it between Lisa's legs and made her gasp, and then she took Lisa's hand and extended her index and middle fingers.
+
+“Wh-what are you...” Lisa started to ask, and then Stella slid Lisa's fingers inside her opening. Lisa gasped at the suddenness of it, then Stella slid them back out.
+
+“Dig your fingers in there.” Stella said. “Gravity can get a lot of it out eventually, but you want as much out now as possible.” She said and slid Lisa's own fingers back inside her. “Scoop.”
+
+Lisa bent her fingers and her body twitched a little, and Stella pulled Lisa's hand out. A large glob of Ren's expulsions came out with her fingers.
+
+“That's got it.” Stella said and splashed more water on her. “Again.”
+
+Lisa did it herself this time, and scooped out more. After the third time, there was almost nothing on her fingers.
+
+“You've got most of it out, now.” Stella said. “How do you feel?”
+
+“Really weird.” Lisa said. “My leg is starting to cramp, too.”
+
+“I know just the thing for that.” Stella said and helped Lisa off of the sink. “Ren's magic tongue!”
+
+Ren chuckled. “I don't think it's magic.”
+
+“You're not a woman that's felt your tongue between her legs.” Stella said and led Lisa back over to Ren. He'd stayed on the floor and hadn't moved, not even to get a closer look at what Stella was doing to help Lisa, because he wanted to save his strength for something more important. Stella positioned herself over his groin, and she helped Lisa straddle Ren's face.
+
+“I can't believe I'm doing this.” Lisa said. “I figured on the sex part, but...”
+
+Stella eased herself down onto Ren, and she told Lisa to sit back a little. It brought Lisa's womanhood close enough to Ren's mouth for him to start on her, and she caught her breath. Stella rocked her hips and barely moved any of her body, and Lisa admired the sight.
+
+“How... are you... doing that?” Lisa asked between panted breaths.
+
+“P-p-practice.” Stella stuttered. “Ren... oh, god! You're so hard!”
+
+Ren nodded, which rubbed his chin against Lisa's opening, and she grit her teeth to stop from moaning.
+
+“Go... go ahead.” Stella said to her. “M-moan... moan for him!”
+
+“I... I don't... OH!” Lisa yelled as Ren found a sensitive spot on her and used it. Lisa reached out and took Stella's hands to brace herself, so she wouldn't accidentally sit down and possibly hurt Ren.
+
+“Let... let yourself... feel it!” Stella said. “Lisa! Let... let it out!”
+
+Lisa looked like she was in pain for several moments, and then she screamed. “AAHHHHHHHH!!!!” She had one of the strongest orgasms she's ever had, and it sprayed out over Ren's chest. “OH, GOD!” She yelled as he sucked on her most sensitive part and went again.
+
+Stella, urged on by Lisa's finally letting herself go, leaned back and doubled her hip-rocking motions. Lisa, quite spent now, slowly lowered herself down to rest her head on Ren's thigh. It took her a moment to realize it was Stella's thigh, and her eyes fixated on Ren going in and out of her. Lisa knew it wasn't happening that way, that it was Stella that was moving; but, with such a close vantage point, the illusion that it was Ren moving made her remember what they did in the game.
+
+Ren, unperturbed that Lisa was no longer responding to his licks and kisses, kept licking and kissing her. He really did enjoy the feeling of her in his mouth and on his tongue, and with her opening still right by his mouth, he wasn't going to stop if he didn't have to.
+
+Lisa could feel Ren was still going at her, but she was almost beyond that now. Her entire being was concentrating on his member going in and out of another woman, and against her reasoning, her tongue darted out and licked him. Ren throbbed hard at the feeling and both Lisa and Stella felt the change. Stella looked down at Lisa and saw her tongue dart out again, and Stella was about to warn her that she might touch her, and then Lisa leaned in closer and licked them both.
+
+“GOD!” Stella said and went unexpectedly. It wasn't the biggest one she'd ever had; but, it was right up there. Liquid poured out of her, over Lisa's tongue, and over Ren's member.
+
+“Oh, god!” Ren said and he went. His liquid poured out and into Stella, mixed with her liquid, and came out over Lisa's still licking tongue and dripped down to pool on the towel below him. Lisa had witnessed what she'd done, and knew it had been something really special. She'd never had anyone react to her like that before, and she liked it. She liked it a lot.
+
+Lisa used her tongue to lick Ren's member and Stella at the same time, and they both gasped. She smiled and kissed where they were still joined, just to give them one more thrill, then flicked her tongue out to touch the two of them. When they both sighed, Lisa knew the special moment was over. She moved back out of the way, lifted her leg over Ren, and sat up. She almost laughed at their shocked faces, but she held it in.
+
+“That was delicious.” Lisa said and licked her lips. Ren and Stella exchanged glances, then looked back at Lisa.
+
+“Yes.” Ren said. “Yes, it was.”
+
+Stella waited a few moments to relax her pelvic muscles, then slid up and off of Ren. “I think we all need a shower.”
+
+“I definitely need one.” Ren said. “Probably a cold one.” He glanced at himself and smiled. “A really, really cold one.”
+
+Stella and Lisa looked at his member, then looked at each other.
+
+“He can keep going in real life, too?” Lisa asked, and Stella nodded.
+
+“He's the gift that keeps on giving.” Stella said, and Lisa smiled.
+
+“So it wasn't just because we teased him so much, then.”
+
+Stella shook her head. “He can go as many times as us, but it takes a lot longer.”
+
+“I'm right here, you know.” Ren said. “You don't have to talk like I'm not here.”
+
+“Hand job?” Lisa asked Stella.
+
+“He's still quite hard.” Stella said. “It might be enough.”
+
+“Ladies?” Ren asked.
+
+“Rock Paper Scissors to see who goes first?” Lisa asked, and Stella shook her head.
+
+“We can both get our hands on it.” Stella said. “There's no need to fight.”
+
+“Geez, it's not...” Ren closed his eyes as both women grabbed him with a hand. “...a toy.”
+
+Lisa and Stella started to work him up and down at a good pace.
+
+“Never mind.” Ren said. “You can play with it all you want.”
+
+They did.
+
+When they were done, Ren had finished 4 more times and the volume he produced was back to the normal amount.
+
+“That's good work.” Stella said to Lisa. “You're really getting a knack for this.”
+
+Lisa chuckled. “Only for Ren.” She said. “The thought of touching another man like this...” She shivered. “Yeah, no thanks.”
+
+Stella gave her a hug.
+
+“Now what are we going to do?” Ren asked.
+
+“Shower.” The two women said at the same time and laughed. Stella got the wheelchair and put a towel on it, and helped Ren stand up. He sat down and looked at the bathrobe.
+
+“Should we even wash that?” Ren asked, and Stella laughed.
+
+“I'll soak it and the towels in the tub before throwing it in the washer.”
+
+“Are you sure?” Ren said and grinned. “It's pretty wet already.”
+
+Stella snorted a laugh. “You made that sound so dirty.”
+
+“It's a talent.” Ren said.
+
+“Let's get you to your room.” Stella said and picked a relatively clean towel to wrap around Lisa, and one to wrap around herself, then they gathered up their clothes and left the bathroom in the bowling alley to go and take a shower in Ren's room. They took turns cleaning up, and when they were done, got dressed again.
+
+“Now what do we do?” Ren asked as he sat in the wheelchair again.
+
+“We still have to finish that game of bowling.” Lisa said, and Ren groaned. She ran a hand through his hair and then gave him a kiss. “Don't worry, we won't tease you like that anymore.”
+
+“Hey, a little teasing is okay.” Ren said. “Just don't overload me with your sexiness, okay?”
+
+“No promises.” Lisa said and grinned, and Stella laughed.
+
+“Let's go back and finish that game, then we can do the rest of the tour and break for lunch.” Stella said, and they went back to the bowling alley.

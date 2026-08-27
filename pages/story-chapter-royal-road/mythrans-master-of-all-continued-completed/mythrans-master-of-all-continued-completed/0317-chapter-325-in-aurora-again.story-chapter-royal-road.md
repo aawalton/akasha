@@ -1,0 +1,315 @@
+---
+id: c93b1654-a95c-5d7f-8e24-d26e029584a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 325 - In Aurora Again"
+slug: 0317-chapter-325-in-aurora-again
+partOf: mythrans-master-of-all-continued-completed
+position: 317
+ownLength: 3789
+unit: words
+publishedAt: 2017-08-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153976/chapter-325-in-aurora-again"
+royalRoadId: "153976"
+---
+
+Ren stopped walking and went back into the cabin that he and the maids used, then stored their dressers, cabinets, and his icebox. He wasn't sure what he was going to do with the cabinets and dressers, since there wasn't that much room in the shop's third floor apartment. He led the group out to the main deck, gathered the maids, and they went down into the hold and out through the cargo hatch with Ruck right behind them.
+
+All the workers stopped and stared at the entourage as they walked around the carts that were already half-loaded. The group walked off the dock to the shore, and Ren took out the cart Princess always pulled. It was plush in the back where passengers sat and it had modified handholds everywhere for people to hold on to for the ride.
+
+Tee-one had followed them out and helped attach the cart to Princess, since Ren had one of his arms occupied because he held the fire elemental. It was just over 2 feet long now, and looked like it was getting a bit too big for him to hold in his arms anymore. Tee-one didn't say anything, because he knew that Ren was thinking the same thing.
+
+Ren had one free hand and helped his maids and Railyse climb into the back of the cart, and they got settled and held on. He smiled because he wouldn't have Princess run full out, since the city was right there and the North Gate was not that far away. Riley and Stacy, his two dogs, hopped up into the cart with the maids, and Ruck climbed up and stood with his legs on the top edge of the cart and acted kind of like a roof. Since he also had an Amulet of the Spider, he didn't need to tuck himself down into the cart for fear of falling out. Ren went around to the front, thanked Tee-one for his help and accepted all of the stock for the store, then climbed into the driver's seat.
+
+“Princess, easy does it. Let's stop at the warehouse first.” Ren said, and Princess nodded and trotted up the short road to the warehouse. When they got there, Ren could clearly hear a woman giving orders.
+
+“We'll put the ore in the front corner.” Catalina said. “It needs to be easily accessed.” She said. “The other crafting supplies can be stored beside that.”
+
+“Sorry to interrupt.” Ren said, and Catalina turned around to look at him, then gasped when she saw Princess.
+
+“Oh, my god.” Catalina said. “You really did it.” She said and stepped forward to stare at Princess. “May I touch you?” She asked, reverently. Princess nodded, and Catalina ran a hand over her muzzle and scratched her chin. “How in the world did you make full plate armor for her?”
+
+“She very kindly let me take accurate hand measurements.” Ren said.
+
+“You measured her entire body with just your hands, then made armor just from that?” Catalina asked, astonished. “You must be a fantastic blacksmith!”
+
+“He's a Master Blacksmith, actually.” Frikara said from the back of the cart. “There's not much that Ren can't do.”
+
+“Oh, I know that.” Catalina said and looked seductively at Ren.
+
+“We have to be off.” Ren said, and successfully ignored the look from her. “I'm not sure I'll be back or not.”
+
+“That's fine.” Catalina said and stepped back from Princess. “We'll take care of everything on this end.”
+
+“Thank you.” Ren said. “Princess? The North Gate, please.”
+
+*
+
+Princess? Catalina thought. He named his mount Princess?
+
+Princess huffed and pulled the cart down the road, and Ruck waved at the nice lady. Catalina grabbed a nearby worker and shook him almost violently.
+
+“Bob! Did the top of that cart just wave at me?” Catalina asked the startled worker.
+
+“Y-y-yes, Ms. Abernathy.”
+
+“Whew. I thought I was going crazy.” Catalina said and let him go. Ren's cart waved at me! She thought in amazement. “I'm a little sad that I had to let such a fine specimen go.”
+
+“It was definitely a nice looking ram, Ms. Abernathy.” Bob said and got back to work.
+
+The ram, too. Catalina thought and smiled as she thought about her and Ren in her office, then froze when she remembered what she had seen in Ren's arms while he drove the cart. Was he holding a bundle of fire?
+
+*
+
+Clint saw a glimmer of sunlight reflect off of something gold to his left, and he slowed Izabeal down to look. Much to his surprise, a large gold-colored... something... was coming up the small road near the wall of the city, and it hauled something even larger behind it.
+
+“Wha' the hell is tha'?” Clint asked out loud when he got a good look at Princess, then he heard a kind of familiar laugh.
+
+*
+
+Princess went fast up the road, since she had a good feel for the cart at this point; but she knew not to go all out because the North Gate was so close. She saw a man on a large black warhorse come up the road to the city gate, and watched them as they stopped. She remembered the man as the one who had captured her, and she was tempted to ram him to thank him for that. She didn't, because her life had changed so much for the better afterwards. Princess huffed loudly, and Ren felt her amusement.
+
+“What is it, Princess?” Ren asked her, and looked up from the fire elemental in his arms. He saw Clint and his warhorse Izabeal stopped on the road to the North Gate.
+
+“Wha' the hell is tha'?” Clint asked out loud, and Ren laughed.
+
+“CLINT!” Ren yelled and waved. “Princess, stop by him, please.”
+
+Princess huffed again and pulled the cart onto the road and stopped beside Clint.
+
+“What are you doing here?” Ren asked him.
+
+“Ah'm apparently greetin' ya returnin'.” Clint said. “Ah can' believe ah saw ya off, an' now ah'm seein' ya back.”
+
+“What are the odds of that happening?” Ren asked and laughed again. “I'm just going to my shop.”
+
+“Tha's mah desteenashun, too.” Clint said and waved his arm towards the North Gate. “After ya'll.”
+
+“I'd challenge you to a race, but we're fully loaded.” Ren said. “It wouldn't be fair.”
+
+“Ah see.” Clint said. He looked in the back of the cart and admired it's contents. “That's a lot to haul and race at the same time.”
+
+“It's not that.” Ren snorted a laugh. “I don't want anyone to get hurt if Princess runs full out.”
+
+Clint looked at Ren to see if he was joking, and he didn't think he was. How fast can she run with this much attached to her?
+
+“Let's go, Princess.” Ren said. “Sedate pace, please.”
+
+Clint didn't see Ren flick the reins, but Princess trotted off just the same. Clint flicked Izabeal's reins to follow Ren into the city, and she trotted behind the cart. Princess followed the main street to the turn off to the right street, then followed the curving street to almost it's end and came to a stop in front of the business. Ren hopped down and went around to the back of the cart and gave the women a hand out of the cart.
+
+“Ya'll have ta introduce me to yer pretty friends.” Clint said as he came to a stop behind the cart.
+
+“This is Frikara.” Ren said and helped her out of the cart. “Lusinia, Navruth, Verwynn, and Andrela.” He said and looked at Clint. “They're my personal maids, and will be treated with respect.”
+
+Clint slid off of Izabeal's back and tied her to a nearby pole. “Ah always treat 'em with respec'.” He said and shook each of the women's hands.
+
+“This is the Ambassador of the Sea Dwellers, Railyse.” Ren said and helped the last woman out. Railyse stepped onto the ground and Ren put an arm around her waist.
+
+“Pleasure.” Clint said and shook her hand. “Ah ain't nevah met no one like ya before.” He said and looked at the currents of the water under her translucent skin. “Yep. Nevah seen nothin' like tha' before.”
+
+Railyse chuckled and it sounded like pouring rain. “I hope everyone is as receptive to my appearance as you are.”
+
+“Whaddaya mean?” Clint asked her.
+
+“You're curious and not scared or repulsed.” Railyse said. “I expect a lot of the second, and at least some of the third.”
+
+“Ah hope not.” Clint said.
+
+“I hope not, too.” Ren said. “I was tempted to disguise her so she could blend in more; but, we both agreed that if we started off hiding who she was, it would only turn out bad in the end and everyone would think we'd been lying the whole time.”
+
+Clint nodded. “Ah recon tha'd be wha' people would think if'n ya hid her.” He said. “But... ya know people are gonna...”
+
+“Yes, we know.” Railyse said. “We'll handle it if it happens.”
+
+“We sure will.” Ren said. “Let's get everyone inside.”
+
+Ren felt a hand on his shoulder and looked up at Ruck. “You'll have to go around to the back door, Ruck. You're not going to fit between the store shelves.”
+
+Ruck gave a 'thumbs up' gesture and climbed down from the cart, then climbed up and over the building very quickly.
+
+“Good god almighty!” Clint exclaimed as Ruck disappeared over the top of the building. “Now tha' was a sight!”
+
+Ren laughed. “Riley, Stacy? Stay here and watch Princess.” He said and looked at Princess. “I'll be back in a few minutes.”
+
+Princess nodded and Ren left her and the dogs there. He took the group inside the business and was greeted by a pleasantly surprised Anabelle.
+
+“Hello, My Lord.” Anabelle said and came around the desk. “If I'd known you'd be here a week early, I would have prepared a proper greeting for you.”
+
+“That'll have to wait until I make a pen for Zetaya.” Ren said, and motioned to the fire elemental in his arms.
+
+“I don't know if we have a place big enough for that in here.” Anabelle said, correctly appraising Zetaya's size requirements.
+
+“I'll use the kitchen upstairs for now.” Ren said. “It's only for about a week, until I move out to my county.”
+
+“So you are going to move out there officially.” Anabelle said, a little sadly. Ren reached a hand up and cupped her face. “Don't worry. It's really just somewhere to put all of my stuff.”
+
+Anabelle put a hand on his and nodded slightly, then she saw several customers come into the store. “The introductions will have to wait until later, unfortunately.” She said. “Customers.”
+
+“Including this one.” Ren said and took his hand back to point to Clint. “I'll be right back to help.”
+
+“Thank you.” Anabelle said, and walked over to deal with the other customers.
+
+“Right this way.” Ren said to Railyse and his personal maids, then motioned to the door at the back of the store. They walked over to it, and Ren walked over to Anabelle. “Sorry to interrupt.” He said to the customers, and looked at Anabelle. “I've got a bunch of back stock and some new items for sale, too.”
+
+“Oh, that's wonderful!” Anabelle exclaimed. “Our customers will be so happy!”
+
+Ren smiled. “Hopefully.” He said and went back to the door and opened it. “Please come in.” He said to them, and they all went through the door and up two flights of stairs. He opened the door to the apartment on the third floor and let them inside. “Don't open the cabinet! It's a non-functioning portal, but it could still kill you if you touch it.” He said and went back down to the second floor landing and opened the back door for Ruck.
+
+“Pick a good spot here on the second floor, and I'll build you a section around it.” Ren said, and Ruck pat his shoulder as he passed by. Ren ran back up the stairs and told the maids the bedroom was through the bedroom door, but it was occupied at the moment and the bed in the living room was Anabelle's. He went into the kitchen and covered half of the room with paving stones, and put the fire elemental down and enchanted several paving stones with Wind and Fire runes.
+
+“Sorry it's so small, but at least it's somewhere to sleep.” Ren said and pet the head stub. “I might make a pen down below, but that's a little risky because I don't want you too far away from me.”
+
+Zetaya laid down in the Fire and Wind enchantments, and Ren used a Level 5 Web wand and some scraps of wood to make a new pile for the fire elemental to feed on. He went back into the living room, then went into the bathroom and filled the bathtub with water.
+
+“I'll make something a lot bigger soon.” Ren said to Railyse, and she put a hand on his arm.
+
+“Take it easy. There's no rush.” Railyse said and he chuckled.
+
+“There's too much to do for me not to rush.” Ren said and pat her hand. “I'll ease off and take a break later.”
+
+Railyse chuckled. “You always say that.”
+
+“I say a lot of things.” Ren said and left her in the bathroom to talk to the maids. “I don't know if Elerlyth knows about you or not.” He said to them. “Have a seat if you want and I'll be back after dropping off the stock for the store and we can go on that tour.”
+
+“Take your time.” Frikara said. “We're not going anywhere without you.”
+
+Ren nodded slightly, left the apartment, and went downstairs to help Anabelle with the customers; and he started with Clint.
+
+“So, what can I do for you?” Ren asked him.
+
+“Ah looked around an' ah didn' see wha' ah wanted.” Clint said. “Ah need tools fer skinnin'.”
+
+Ren frowned. “Hm.”
+
+“Wha' is it?” Clint asked.
+
+“I don't know if I'm allowed to make the tools to sell to you.” Ren said. “Skinning and treating pelts are skills under Leatherworking.” He explained. “I learned them under an expert and he gave me a special portable crafting station for it.” He smiled. “I said expert, but I didn't mean the scale for skills. I'm pretty sure he's a Master at it, considering he skinned a Dire Wolf in only a couple of minutes and made this cloak for me.”
+
+Clint nodded “Tha's why ah thought of ya when mah party killed one and the wolf pack protectin' it.”
+
+“No way!” Ren said. “How did it go?”
+
+“It was hard.” Clint said. “Ah used Ice to attack it, an' it didn' work.”
+
+“What?!?” Ren exclaimed. “Why?”
+
+“It had an affinity fer Ice.”
+
+“You're kidding!” Ren said. “I didn't know there could be different kinds.” He sighed. “I'm so sorry.”
+
+“Tha's ahlright.” Clint said and pat Ren's shoulder. “We made it anyways, thanks ta a great combo by two of mah crew.”
+
+“I'm glad.” Ren said. “Look, I can't just sell any tools I come across in my travels, especially if they're trade secrets.” He said. “Did you bring one of the wolves' carcasses?”
+
+Clint shook his head. “Ah left so fast ah didn' think of it.”
+
+Ren looked around conspiratorially. “Can you catch a fox or a rabbit and bring it back? I'll let you use a special knife and we'll see if you can acquire the right skill. If you can't, I'll skin and treat the pelts for you.”
+
+“Ya need ta treat tha pelts, too?” Clint asked. “Ya don' jus' skin'em and get it?”
+
+Ren shook his head. “I'm sure the guy who wrote the skill was a big 'make it real' fan. After skinning, it takes a day to treat then with a special concentrated solution, or several days if it's diluted slightly. Then it takes a day to dry...”
+
+Clint held a hand up to stop Ren before he gave him a complete rundown of the whole process. “Ah migh' jus' bring'em here ta you, rather than tryin' ta do'em mahself.”
+
+Ren chuckled. “Have you got a buyer for the pelts yet?”
+
+“Nah, it was jus' an idea Billy had abou' makin' more money on tha job before we looted 'em.”
+
+Ren nodded. “You'll lose a bit of value from the loot when you remove the pelt; but, you'll make more from selling the pelt than leaving it on... especially if it's a high value pelt.”
+
+“Like tha Dire Wolf.”
+
+Ren nodded again. “How long will it take you to bring them here?”
+
+“Ah day, maybe two.” Clint said. “Tha only reason me an' Izabeal got here so fast, was cuz we ran tha entire time.”
+
+Ren nodded. “Okay, if you can stick around for an hour or so, I'll go with you to your ranch to skin them.”
+
+“Ah can' ask ya ta do tha'.” Clint said. “Ya got so much ta do as it is.”
+
+“Don't worry about that.” Ren said. “It's going to take a day to unload the ship anyways.”
+
+“Ah day?!? Clint exclaimed. “Wha' didja bring?”
+
+“Everything.” Ren smiled, and Clint laughed.
+
+“Ahlright. Ah'll stick around fer an hour or so.” He said and smiled. “We can have tha' race ya want, too.”
+
+Ren laughed. “I can't believe you're so eager to eat my dust.”
+
+“Izabeal's no slouch.” Clint warned his friend. “Ya'll gonna have a hard time keepin' up wit her.”
+
+“You wish.” Ren said. “See you in a little while.” He said and went to help Anabelle with the other customers.
+
+*
+
+He almos' seems like ah differen' person. Clint thought. He's confiden' an' sure of himself, an'... an'... ah don't know wha's up wit him. He thought about it as he left the shop. Regal, maybe? Ah don' know.
+
+Clint went out the door, untied Izabeal, and climbed up to sit on her saddle. He looked at Ren's completely untended cart, and at the mount that stood there just as confidently as if her owner was by her side. It was then that Clint realized she was wearing full plate armor, and it wasn't just a facade like he thought it was.
+
+How tha hell did he make tha'? Clint asked himself. Ah ain' nevah seen full plate on a mount before! He thought in amazement and slowly rode Izabeal away to do a few errands while he waited for Ren.
+
+*
+
+Ren restocked the store with the things Tee-one made during the week's voyage on the ship, and when the customers left and he and Anabelle were alone, he brought out one of each of the rings to show her what he had for sale.
+
+“This is a Ring of Water Walking.” Ren said, and explained what it did.
+
+“You're right.” Anabelle said. “It is only a novelty item.”
+
+“I thought that, too; at least, until I jumped off the ship and ran across the harbour to get to the shore.”
+
+“You did?” Anabelle said. “So... we should...”
+
+“Sell them as life preservers.” Ren said. “If you're underwater and put it on, you'll shoot up to stop on the surface of the water.”
+
+“Oh, that's brilliant.” Anabelle said. “Customers will be willing to risk travelling over water if they know they can save themselves if they fall overboard.”
+
+Ren nodded. “Exactly.” He said. “This one...”
+
+“A Ring of Storage?” Anabelle asked and took it. “Ren, do you realize what this means?”
+
+“Anyone can have a small inventory, and have enough extra Strength to carry it.”
+
+“Yes!” Anabelle said. “Ren, this is fantastic!” She said, enthusiastically. “Everyone will want one of these!”
+
+“Well, I don't think everyone will want...”
+
+“How many of them do you have?” Anabelle asked and interrupted him.
+
+“A hundred of each.” Ren said. “I didn't want to make too many because I wasn't sure if they would sell or not.”
+
+“Ren.” Anabelle said and put a hand on his shoulder and gave him the ring back. “You put me in charge of your very lucrative store. Trust me. You are going to need a lot more than a hundred of these storage rings.”
+
+Ren smiled. “Is this you using your iron fist to rule over your domain?”
+
+Anabelle smiled and nodded, because that was what she said when Ren had made her the manager of the store.
+
+“Then you'll need a bit of a boost, in case someone gives you trouble.” Ren said and gave her one of the Bracelets of Magical Balance, that boosted all of her stats by +75.
+
+“Oh... oh, my.” Anabelle said as she identified the bracelet. “Ren, I can't accept this!” She said. “It's... it's worth a fortune!”
+
+“Only a small one.” Ren said. “The 6 diamonds alone are 3 platinum each, and the Magic Bracelet is probably 75 gold.” He smiled. “I don't know how much it is with all the enchantments, since I didn't bother appraising it.”
+
+“It's...” Anabelle used Appraisal on it. “...no, it can't be...” She shook her head, then stared at it. “It's 35 platinum coins!”
+
+“I hope you'll still keep it.” Ren said.
+
+“Ren, I... I can't afford this, even with the salary you pay me.” Anabelle said.
+
+“I'm not even going to ask how much I'm paying you.” Ren said. “So, I'm giving it to you.” He smiled. “Do you like it?”
+
+“You know I do.” Anabelle said and put it on. “Oh, god.” She said and took several deep breaths. “Ren, you're wonderful.”
+
+“Not yet I'm not.” Ren said and gave her one of the Bracelets of Unbelievable Magic.
+
+“Ren!”
+
+“I'm not done.” Ren said and gave her one of the Rings of Boosted Sustenance, then one of the storage rings. Anabelle couldn't speak and just put on everything. “Now for the presents.” He said and gave her one of the large cabinets filled with clothing, a necklace, a tiara, and a brooch.
+
+“Ren.” Anabelle said softly, barely above a whisper, as she stored everything in the ring. “I don't know what to say.”
+
+“You don't have to say anything.” Ren said and took out a step stool from inventory. “I discovered this while out on Adventurer's business.” He said and climbed it to stand on the top step. It put his face at the same height as hers, and she looked at him with wide eyes. “Thank you so much for taking care of everything.”
+
+“Ren... I... I'd do anything for you.” Anabelle said, and it echoed what his other personal maids had said.
+
+“I know you would.” Ren said, cupped the sides of her face, and kissed her.

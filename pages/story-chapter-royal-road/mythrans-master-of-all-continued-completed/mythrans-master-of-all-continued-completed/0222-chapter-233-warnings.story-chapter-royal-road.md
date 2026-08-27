@@ -1,0 +1,375 @@
+---
+id: dc907e5e-1e07-5138-af56-98ef79584b58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 233 - Warnings"
+slug: 0222-chapter-233-warnings
+partOf: mythrans-master-of-all-continued-completed
+position: 222
+ownLength: 3174
+unit: words
+publishedAt: 2017-04-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131707/chapter-233-warnings"
+royalRoadId: "131707"
+---
+
+Lara, the Sage of Ages, came back to the Aurora Library after she delivered the books for Ren. She opened her closet, walked down the aisle and around the corner, to see Ren as he sat on the other side of her desk.
+
+“Okay, I've delivered your book to the other libraries.” Lara said, and Ren stood up.
+
+“Thanks a lot, Lara.” Ren said. “What do I owe you?”
+
+“A diamond ring.” Lara said without missing a beat. “About 5 carats.” She said. “Anything bigger than that, and I won't be able to wear it.”
+
+Ren looked at her with wide eyes. “Um... are you asking me to propose?”
+
+“Of course not.” Lara said, and laughed. “I just want to see what it would look like.”
+
+“Oh.” Ren said. “I... don't know how to make jewelry.”
+
+“I see a nice pendant hanging there around your neck.” She said. “I've also seen the brooches you've made.”
+
+“I have the recipes for them.” Ren said. “But I don't know how to properly set gemstones or anything.”
+
+Lara smiled, opened another drawer in the desk and handed Ren a small book. He took it, and read the title.
+
+Generic Jewel Mounts and Settings
+
+Everything you need to know to get started with working with gems and jewels, how to set them properly, and how to shape them to fit.
+
+Rank: C
+
+“Where did you get that?!?” Ren asked.
+
+“I have access to 8 Libraries that span the entire game world.” Lara said and smiled. “If there's a book that exists anywhere, I can get it.”
+
+“That's good to hear.” Ren said. “I want a copy of every book you can get.”
+
+Lara's mouth dropped open in shock. “E-e-excuse me?”
+
+“I honestly don't know what I'm going to need next, and rather than wait for something to come up, I want to have my own Library to handle things.”
+
+“You... that's...”
+
+“Money's not an object.” Ren said. “You know that.”
+
+“I... that's...”
+
+“Yeah, I think you're right.” He said. “Getting one of everything might be a bit too much.”
+
+“Whew.” Lara said.
+
+“I think I should focus on construction techniques, crafting, spells, runes, and enchantments.”
+
+Lara took a deep breath, then shook her head. “I'm sorry, Ren.”
+
+“What?”
+
+“I... I just got a popup.” She said and sighed. “Your access to things like that is restricted.”
+
+“Wait, what?!?”
+
+Lara copied the notice and sent it to him. “Have a look for yourself.”
+
+System Notice!
+
+Information on undiscovered / undisclosed races cannot be shared with other players. Unless they discover it for themselves, you cannot tell them anything. This is your second warning.
+
+“Second warning?” Ren asked her, but she shook her head. “Dammit.”
+
+“It was a great idea, though.” Lara smiled. “If I did what you asked... even just the few books it would be from each Library...”
+
+Ren nodded. “I'd have restricted information about all of the different kingdoms in the game.”
+
+“And the other races.” Lara said. “And apparently that's a big no-no right now.”
+
+********
+
+“You can't do this!” Detective Ramirez said as the FBI agent took the bagged photo with the fingerprint on it.
+
+“We can, and we are.” Agent Smith said. “You've done excellent work so far.” He commended the detective. “I hope you can continue to do so for the department in charge.”
+
+“SCREW YOU!” Detective Ramirez shouted as loud as he could, and everyone looked at him. His face flushed a deep red, but he didn't back down. “We discovered that evidence!” He said. “The police department! Not you!”
+
+“That will be reflected in our report.” The other Agent Smith said. “There's enough to this case that everyone can...”
+
+“I don't care about that, you smug bastard!” Detective Ramirez said, and Officer Stonewall put a hand on his arm to try and calm him down. “I'm fine, Officer Stonewall.” He said and glared at the FBI agents. “That poor boy was strapped to the bed because someone drugged him so much that he was unconscious for a whole goddamn week! If we don't catch these sickos, who knows what they'll do to him next!”
+
+“That's our...”
+
+“No, it isn't!” Detective Ramirez said. “All you care about is solving the case, having another notch on your belt, and patting yourselves on the back.” He fumed. “You couldn't give two shits about that boy!”
+
+“Now see here.” Agent Smith said. “We may look like we don't care...”
+
+“It's all right, Agent Smith.” The other Agent Smith said, and turned to look at Officer Stonewall. “I don't think we can reason with your partner while he's in this state.”
+
+“I'm standing right HERE!” Detective Ramirez said, but the agent ignored him.
+
+“We'll send it off immediately, and will have something for you in about 10 minutes.”
+
+Officer Stonewall nodded slightly, the FBI agents left the room, and were followed by the stares of everyone that was there.
+
+“Goddammit!” Detective Ramirez exclaimed.
+
+The agent was right. Officer Stonewall sighed. No one can talk to him when he gets going like this.
+
+********
+
+Ren read the small book quickly, and absorbed the information inside. Since he was in a Library, his Intense Student ability kicked in, and all of his Knowledge skills were doubled; including his Speed Reading and Hidden Knowledge skills. He closed the book, and got a popup.
+
+Notice!
+
+You have gained basic knowledge of preparing gems to be set into metal.
+
+Gemstone Cutting Level 1 (Beginner 0%)  The process of shaping faceted gemstones
+
+Sub Skills:
+
+Gemstone Lapping (Grinding) Level 1 (Beginner 0%)  Allows the use of diamond encrusted files (or diamond dust on a cloth) to smooth surfaces of gemstones.
+
+Gemstone Setting Level 1 (Beginner 0%)  Able to use techniques to set gems into metal. Bezel (solder metal onto gem, then to jewelry), Prong (metal wire or claws to hold the gem in place), Channel (two strips of metal, and the gems mounted between), Bead (set into metal, then the metal is dragged over the lip of the gem in bead shapes), Burnish (set gem flush with the surface of the metal).
+
+Polishing Level 1 (Advanced 65%)  Adds shine and durability to objects
+
+Soldering Level 1 (Beginner 0%)  Allows various metals to be attached to each other using molten metal.
+
+Polishing is cross-linked with Polishing under my Smithing skill. Ren thought. Cool.
+
+Notice!
+
+Your Hidden Knowledge skill has let you discern something, that others usually miss. You recognize the techniques as those discovered by Orimihr Juldor, the good friend of the legendary blacksmith Delthid Kulduhr.
+
+“Whoa. This book uses Orimihr Juldor's techniques.” Ren said surprised, then handed the book back to Lara. “The same jeweler that the legendary smith had framed for the theft of the Dwarven Kingdom's crown jewels.”
+
+Lara looked at him for a moment, then closed her eyes. She opened them, and took out a piece of parchment. She wrote a few things down on it, folded it up, and pressed her thumb over the closure. A wax seal magically appeared, and she handed it to Ren.
+
+“Have that delivered to House Lodur's mines.” Lara said. “You can thank me later.”
+
+“Do I even want to ask how I do that?” Ren asked her, and she laughed.
+
+“Send a messenger.” Lara said, and he snorted a laugh.
+
+“I meant how to thank you.”
+
+“I'm sure you'll think of something.” She said.
+
+Ren nodded, and stood. “Thank you.” He said, and took out a handful of platinum to put on her desk.
+
+“What's that for?” Lara asked.
+
+“You delivered the books to all those Libraries.” Ren said. “I'm sure you had to pay for copies to be available.”
+
+Lara looked at the stack of coins and shook her head. “You really shouldn't be giving it away like that.”
+
+Ren shrugged. “If it comes down to it, I'll stop my over-spending ways.” He said. “Until then, when it rains, it pours.”
+
+Lara smiled, stood up, and came around the desk. “Now that we've got all the work stuff out of the way.” She said, and held out her hand.
+
+“What... what are you doing?” Ren looked at her hand, then at her face.
+
+“I just want to confirm something.” She said.
+
+“Can you turn off your ability?”
+
+Lara took in a breath through her nose, and let it out through her mouth. “No, but I can control it a lot more now.” She said and smiled. “Thanks to you, and all that XP you keep sending my way.”
+
+Ren smiled crookedly. “It doesn't make you feel bad that you're pretty much just leeching XP from me?”
+
+Lara snorted a laugh. “How else am I going to get it?” She asked. “I can't fight worth a damn.”
+
+Ren looked at her with concern on his face.
+
+“Hey, I don't want your sympathy!”
+
+He grinned. “Like I didn't know that.”
+
+Lara sighed. “Sorry.” She said. “What was with the concerned look?”
+
+“I just remember your interview when they had that press conference after we won the contest.” Ren said. “You mentioned being able to use kinds of magic that no one else can.”
+
+“Yeah, and?”
+
+“I was wondering what they are.”
+
+Lara shook her head. “I can't tell you, remember?”
+
+Ren blinked his eyes. “Ah, gotcha.” He said. “I understand.”
+
+“Was that all?”
+
+“Nope.” Ren said, and grinned as Lara groaned. “Come on, Lara; don't be like that.” He said. “I'm going to help you this time.”
+
+“What do you mean?” She asked.
+
+“How would you like a couple of Fireball wands?”
+
+“Wh-what?”
+
+“If you can't fight worth a damn, like you say, but you can use magic; so, wands should be right up your alley.”
+
+“Ren, I...” Lara sighed. “I don't think I'd be good out in the field with you.”
+
+Ren shrugged. “You don't have to come along when I go out after the Dark Elves that hurt Elerlyth.” He said. “But I don't want you defenseless, either.”
+
+“Alright, I'll take one.” Lara said. “One! It couldn't hurt to have some offensive punch if I ever need it.”
+
+“It has 50 charges, and you can refill them with Mana.” Ren said and took out a Minor Healing wand. He absorbed the charges from it, replaced the spell with Fireball, and handed it to her. She didn't even close her eyes as she took it, then stored it. “You are getting better at it.” He said, and took out another Minor Healing wand and absorbed the charges from that one, and replaced the spell with Major Healing. Lara took that one without a word, and Ren took out one more wand, and replaced the spell with Web.
+
+“You're crazy for giving me all of this.” Lara said. “What, exactly, do you think I do when you're not around?”
+
+Ren grinned as he took out one more wand, replaced the spell with Grease, and handed it to her. Lara looked at the popup, and blushed slightly.
+
+“No, I haven't...”
+
+“...been doing anything that needs lubrication?” Ren asked, and laughed as her blush deepened. “Don't worry, I won't tell anyone.”
+
+“You better not!” Lara said heatedly, and stepped close. “Now take my hand like I wanted you to before!”
+
+Ren took her hand, and she closed her eyes. She stayed that way for nearly a full minute, then opened her eyes.
+
+“Oh, Ren.” She said in a low voice, stepped close, and took him into a hug. She leaned her face against his, and her cheek was warm as it touched his. He hugged her back, and he felt her tears as they ran down his cheek.
+
+“Do I have to say that I don't mind if you give me your sympathy?” Ren asked her jokingly, and she laughed.
+
+“No.” She said as she turned her head, kissed his cheek, and leaned back. “You know I saw what happened with Nathalia and her biological mother.”
+
+Ren nodded. “I figured the tears were from the little episode I had from her mist-covered dagger.”
+
+“Little episode, he says.” Lara shook her head, but still held him close. “You died so many times!”
+
+“Yeah.”
+
+“Not game deaths, either.”
+
+“No.”
+
+“Although, you've done that twice, too.”
+
+Ren smiled. “How did you like the view of that giant foot at the end?”
+
+“A hell of a lot better than I liked that fucking needle from the first one!”
+
+“Such language from a lady.” Ren said, and smiled as she laughed.
+
+“Is my line supposed to be, 'I ain't no lady'?”
+
+Ren nodded. “A double negative cancels each other out.” He kissed her cheek, just like she had kissed his only a few moments before, then let her out of the hug. “I have to go.”
+
+“I know.” Lara said, and sat on the edge of her desk. “Your idea was right, by the way. Head out and around the Library, and they have to move to get to you.”
+
+Ren blinked his eyes once, then smiled. “I don't suppose you can tell me who 'they' are?”
+
+“You already know who they are.” Lara said. “But, I will give you a hint. It's related to who you kissed before coming in here.”
+
+Ren thought about it, and wondered who it was that was connected to Rosie somehow. Lara laughed as she saw his confusion.
+
+“I meant before coming into the Library, not this room.”
+
+“Ooooh.” Ren said, and then remembered he had kissed Elerlyth before he came to the Library. “Well, crap.”
+
+Lara nodded. “I can't tell you how it turns out; only that it's going to happen.”
+
+“And you won't know more until afterwards.”
+
+“I might, but coming back to see me all the time to see what's going to happen, will itself change how things happen.” She said.
+
+Ren chuckled. “Yeah, you've gotta love probabilities.”
+
+“Isn't sarcasm wonderful?” Lara said and grinned at him.
+
+“Thanks, Lara.” Ren said. “For everything.”
+
+“It's Lisa, actually. Lara is my Player ID.” She said.
+
+Ren's eyes widened slightly, then smiled. “It's a pleasure to meet you, Lisa.” He said. “My name's Ren.”
+
+Lara, aka Lisa, snorted a laugh. “Like I didn't know that already.”
+
+He grinned at her, gave her a slight bow, then left the storage area.
+
+*
+
+Well, our relationship is still on track. Lara thought as she picked up the handful of platinum coins. I was worried that incident with Nathalia would have messed everything up. She sighed. He's not going to like what's going to happen to her next, though. A tear came to her eye. I really wish I could have told him!
+
+********
+
+Agent Smith had used his phone to take a clear picture of the fingerprint, and sent it to the home office. That was 8 minutes ago, and the data was just coming in. Who it belonged to was quite a surprise.
+
+“You have got to be kidding me.” Agent Smith sighed and showed it to his partner. “Look at this.”
+
+“Damn.” The other Agent Smith said. “Hey, are you really going to send this info to Officer Stonewall?”
+
+Agent Smith nodded. “She's going to be just about as happy with it as we are.” He said, typed up a text message, and sent it.
+
+“Now what do we do?” The other Agent Smith asked.
+
+“What we always do when the crap hits the fan this spectacularly.” Agent Smith said. “Call the boss.”
+
+*
+
+Officer Stonewall's cell phone beeped, and she took it out. Who would be sending me a text this late in the... “Oh, no.”
+
+“What is it?” Detective Ramirez asked.
+
+“The print came back.”
+
+“He actually sent the info to you?”
+
+Officer Stonewall nodded. “I'm just as surprised as you, John.” She said. “But it gets better.”
+
+“Stop beating around the bush, and tell me who it is!”
+
+“You're not going to believe it.” Officer Stonewall sighed. “I don't believe it either.”
+
+“Holly!”
+
+“The fingerprint.” She looked at her partner. “It belongs to Mayor Danicot.”
+
+Detective Ramirez was too shocked to swear this time.
+
+********
+
+Ren walked out through the door at the end of the hallway, and saw Rosie was still helping the same man from before. He felt a bit jealous, and stopped walking. She saw this, excused herself from the man, and came over to him. Rosie took his hand, and led him down the closest aisle.
+
+“What is it?” Rosie asked him.
+
+“I...” Ren remembered that he shouldn't hide what he was feeling, and told her. “I'm jealous of the guy you're helping.”
+
+Rosie had a slight surprised look on her face for a second, then she beamed a smile at him. “You're such a flatterer.” She ran a hand though his hair, batted her eyelashes at him several times, then leaned in close. “You don't have to be jealous.” She whispered in his ear, then walked away with a lot more sway in her hips than she ever had before.
+
+Ren shook his head in disbelief, because he had watched Rosie walk all the way back to the table that the man sat at, and she stood a slight bit away from him. Ren walked out of the aisle and towards the front door, and glanced over at her. She gave him a little wave, and used the hand to point at something in a book that the man wasn't paying any attention to. It had been such a smooth movement, that if you hadn't watched closely, it didn't look like she had waved at all.
+
+Ren left the Library, and Teepo took off from his shoulder as he ran down the street and around the Library, to come up the back street. He was now 2 streets over from where he had come down, and if anyone was trying to track him, they would have to move. He slowed to a walk, to avoid looking like he was trying to run away or something.
+
+“I got them!” Teepo said, from about 60 feet up. “The next alley has two somethings moving in it.”
+
+Somethings?
+
+Teepo chittered in laughter. “They're still obscured, or camouflaged, or something.” He said. “I only caught the movement.”
+
+Anything else?
+
+“Not that I can... wait!” Teepo exclaimed. “On the roof of the next building. They are definitely trying to get ahead of you.”
+
+Should I slow down?
+
+“No. There's two more up ahead on the fourth building.” Teepo said. “If I had to take a guess, it looks like... yeah, it's definitely a net.”
+
+A net?
+
+“They're going to try to capture you.” Teepo said. “The other two on the roof are with them now, and the somethings from the alley are behind you.”
+
+Any suggestions?
+
+“Go all out and make minced meat out of them.” Teepo said.
+
+Ren glanced around, and saw several townspeople. I can't. He thought. I'd scare too many people if I did that.
+
+“You could equip your armor at least.” Teepo said.
+
+I can't do that, either. Ren thought. They'll know that I know they're tracking me.
+
+“Well, then.” Teepo said. “I only have one more suggestion.”
+
+What's that?
+
+“Get caught.” Teepo said and chittered in laughter.

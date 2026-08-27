@@ -1,0 +1,455 @@
+---
+id: d78c9e21-35c0-58b1-951e-2344f90412f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 166 - Castle Panic"
+slug: 0153-chapter-166-castle-panic
+partOf: mythrans-master-of-all-continued-completed
+position: 153
+ownLength: 3866
+unit: words
+publishedAt: 2017-02-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117991/chapter-166-castle-panic"
+royalRoadId: "117991"
+---
+
+Donna broke the kiss and looked at Ren. “Well, what do you think?”
+
+“I think I better get out of here before this keeps going.” He said and slid off the desk.
+
+“I'm tempted to just keep you here...” Donna said. “...but, I know Adventurers need their space. All right, I'll let you off the hook this time.” She said, and smiled coyly. “The next time you are in Aurora, though...” She handed him a small piece of parchment with her address on it. “You had better come and see me.”
+
+“I don't think my fiance would like that very much.” Ren said.
+
+“She's a dwarf, Ren.” Donna said. “She honestly won't care what you do until you're married.”
+
+Ren opened his mouth to protest, and Donna shook her head.
+
+“It doesn't matter what she may have told you.” She said. “Their culture expects men to 'have fun' with anything, and everything, they can get their hands on.”
+
+“What about you?” Ren asked. “You don't mind being used like that?”
+
+“Ren, you don't realize how long I've waited to find a man like you.”
+
+“There's hundreds of soldiers...”
+
+“Those little panzies?” Donna snorted a laugh. “I doubt a whole squad of them could measure up to you.”
+
+“The captain of the-”
+
+“He's the worst.” Donna said. “Despite the fact that he's been married to a wonderful woman for years, all of his strength is in brute fighting, and only for short periods of time.” She shook her head. “You try and have him empty a cart full of sacks of potatoes, or mix a hundred pounds of flour and sugar together, and he can't do it.”
+
+Ren's eyes widened, and she continued.
+
+“You can.” Donna said. “I watched you do that several times during the time you worked here. You did everything so easily.” She smiled again. “I liked you right away... and not just because of that. You didn't complain once. Not once. No matter what kind of job I gave you, you were enthusiastic about it.”
+
+“I like to work.”
+
+“Yes, you do. You did your duty.” Donna said. “Even then, I thought you would make an excellent soldier. You followed orders quickly and efficiently, and did your best no matter what.” She smiled. “Now I want you to do that for me.”
+
+“Donna, I...”
+
+“Please, Ren.” Donna said, and knelt in front of him. “Fulfill the duty a lonely woman needs you to fill.”
+
+“Donna.” Ren said. He was several inches taller than her now. “You know I can't be there for you when you need...”
+
+“Even if it's just once a month.” Donna said. “You'll be like a soldier on long deployments in foreign lands, returning every so often to a woman that waits deperately for you.”
+
+“I...” Ren took in a deep breath. “I'll talk to Nathalia. If she says it's okay...”
+
+“Thank you.” Donna said. A tear came to her eye and she hugged him. “Thank you.”
+
+Ren wiped the tear away. “You're already happy, but I haven't even...”
+
+“She'll say yes.” Donna grinned. “I guarantee it.”
+
+“What if I come back and tell you that she said no?”
+
+“Then I'll know you're lying.” Donna laughed. “I'm serious. She really won't care.”
+
+Ren cupped the sides of her face and leaned in close. “I won't promise anything.” He said, then gave her a gentle kiss on the lips. He felt her shiver slightly, and he leaned back.
+
+“That... that was...” Donna licked her lips and sighed as she let him out of the hug. “I... I'll see you when you get back.”
+
+Ren nodded and stepped away.
+
+“Don't... don't forget to wear the uniform.” Donna said, and smiled.
+
+“I won't.” Ren said, equipped his Travelling Clothes to replace the dwarf recruit uniform he wore, and left the office.
+
+“Holy crap!” Teepo said as Ren came into the hallway, and equipped the Dire Wolf Hooded Cloak. “I heard all of that.”
+
+What do you think?
+
+“I think Donna is right, and that Nathalia won't care. I also think we need to find some way to stop your Aura from affecting more people.”
+
+Ren nodded. By itself, it just creates awe in those around me... with my Prince Charming title, though...
+
+“Women are revealing their hidden desires.”
+
+Yeah. Ren thought. I don't know how to stop it.
+
+“You should check into that when you have to leave for the night.” Teepo said.
+
+Holy crap! Ren thought. I have to leave for the night! He ran out through the front doors of the mansion and up the street. Several people waved to him, and he waved back as he passed. He made it back to his business a minute later, and as he went inside, he saw a small piece of wood outside the door that he hadn't seen there before. He ran up the stairs, and saw Anabelle sitting on the couch.
+
+“Hi, Anabelle.” Ren said. “I'm sorry I left you here all alone for most of the day.”
+
+“That's all right.” Anabelle said. “I was asleep for most of it, anyways.”
+
+“You were up all night with the townspeople, weren't you?”
+
+Anabelle nodded. “There was a lot of them to be fed and taken care of.”
+
+“The Refugee Center is finished, and I sent the townspeople from the mansion there. You can head over there if you want to.”
+
+Anabelle shook her head. “No, thank you.” She said. “I'll just... sit here for the night.”
+
+Ren walked over to her. “I have to go, so I won't be able to keep you company.”
+
+“That's okay.” She said. “I'm pretty much always alone anyways.”
+
+“I'm sorry to hear that.” Ren said. “I... I'd like to talk to you more about it, but I really do have to go.” He took out her 6 boxes of things and stacked them beside the couch. “You can stay on the couch, since I won't be here.” He said. “I'll have a nice place ready in my County in about a week.”
+
+“That's nice.” Anabelle said. “Will that be where I'll be staying?”
+
+Ren nodded. “I'll need someone there to take care of everything.”
+
+“Wh-what?”
+
+“You don't think I'd let you stay as a maid, pretending to clean everything, do you?”
+
+Anabelle's mouth dropped open in surprise, and Ren chuckled.
+
+“I know it comes as a bit of a shock, but I'm not going to be paying you to sit on your butt and look pretty.”
+
+“You... you're going to... pay me?”
+
+Ren snorted a laugh. “I wasn't planning on you surviving on air and good intentions.”
+
+Anabelle opened her mouth to respond, and he shook his head.
+
+“No.” Ren said. “Your old way of life is over.”
+
+She closed her mouth, and frowned a little.
+
+“Before you say anything; what I mean is, you won't be selling your companionship for a few coins.”
+
+“I'll be completely dependent on you, then.”
+
+Ren shook his head. “Of course not. You'll be completely dependent on yourself.” He said. “Do you have a coin purse?”
+
+Anabelle shook her head, Ren took out a pile of them, and she picked a blue one. He slipped a platinum coin in it and gave it to her. She equipped it, looked inside, and gasped loudly.
+
+“There.” Ren said. “Now you're dependent only upon yourself.”
+
+“But... but you gave it to me...”
+
+“That's right. Gave. Not paid. Not loaned. Gave.” Ren said. “Now I have to leave.” He walked over to the cabinet and opened it, revealing the portal inside. “Do not enter the portal, under any circumstances, as it will kill anyone but me instantly.”
+
+Teepo dissolved into the ring and Ren smiled.
+
+“Also, the next time you leave the building, do not prop the door open so you can get back in.”
+
+Anabelle's mouth dropped open in shock. How did he know?
+
+“It's not a good idea; because then anyone can get in, not just you.”
+
+She nodded, and Ren smiled.
+
+“If you leave, stay at the Refugee Center, or at an Inn. The coin pouch converts to any currency you need. I might be back tomorrow, or a few days from now. There's still food downstairs, or you can call a messenger. Do not bring any 'companions' here, or invite them over. See you later, Anabelle.”
+
+She gave him a little wave and Ren closed the cabinet door and nailed it shut. He stepped through the portal and closed the cabinet and nailed that shut as well. Ren thought about Nathalia and his Sending Ring glowed.
+
+“Nathalia?” Ren whispered.
+
+“Ren! Finally!” Nathalia whispered back. “I've been trying to get you for over an hour.”
+
+“I got held up in Aurora.” Ren said. “I'll explain in person when I get home.”
+
+“I... I'm not there.” Nathalia whispered. “I'm at the castle.”
+
+“There's a castle?”
+
+Nathalia snorted a laugh. “Where else would a ruler live?”
+
+“Where is it?”
+
+“It's behind the Main Keep.”
+
+“Nathalia.” Ren said. “I've been to the Main Keep several times now. I would have remembered seeing a castle.”
+
+“Not if it's behind an enchanted wall.”
+
+“You have got to be kidding me!” Ren exclaimed.
+
+“Shhh!” Nathalia said. “Keep it down.”
+
+“Sorry.” Ren whispered. “How do I get in?”
+
+“W-what? Get in?”
+
+“Yeah. I want to see you.”
+
+“I don't know, Ren.” Nathalia said. “There's certain things going on that...” She sighed. “...I can't tell you about.”
+
+“When I get back to the house, I'll see if Narhilda can fill me in.”
+
+“She's here, too.”
+
+Ren didn't say anything.
+
+“Ren? Are you still there?” Nathalia asked.
+
+“Yes, I'm here.” Ren said. “I'll be there in an hour.”
+
+“Ren, you... you can't just barge into the Royal Castle.”
+
+“Watch me.” He said. “My fiance is in there for some reason, and can't tell me what's going on.”
+
+“You won't get by the barrier.”
+
+“Don't worry about that part.” Ren chuckled. “I haven't met an invisible wall yet that can defeat me.”
+
+Nathalia sighed. “Okay, I'll see if I can get a guard to go out and wait for you.”
+
+“I'll be there as fast as Princess' legs can carry me.”
+
+“See you then.” She whispered, and the ring stopped glowing. Ren summoned Teepo, and went downstairs to Princess.
+
+“Hi, Princess.” Ren said.
+
+...hello... lord...
+
+“You can tell, too.” He said and put some food in her dish. “I need a ride back to House Neram.”
+
+...very... well... She thought, sucked the food into her mouth, and swallowed it without chewing. ...let... us... depart...
+
+“You could have eaten...”
+
+...feel... urgent...
+
+Ren sighed and scratched her neck. “Okay. Let's go.” He stored her bowl and crate, then led her outside to attach her to the cart. “I haven't got much food left, but I do have a Health potion left.”
+
+...add... to food...
+
+“That's a good idea.” Ren said, and took her to the road. “I'll do that when we stop.” He climbed into the driver's seat and took the reins. “Okay.”
+
+Princess started to trot, then ran at a good pace. After several stops with food and potion, they made it to House Neram just over an hour and a half later.
+
+“I'm sorry, sir!” Golir said as the cart came to a stop, and saluted. “When the Royal Carriage came for them, we...”
+
+“Quiet!” Ren said, then led Princess into the courtyard, unhooked the cart, and brought her into the stable. He put the crate back where it came from, and Princess got in it. He took out her bowl and put in the last of the pastries he had in inventory.
+
+“Thank you, Princess.”
+
+...welcome...
+
+Ren went back out to the courtyard and frowned. He ran to the gate. “Where's Riley and Stacy?”
+
+“Sir! They fought the guards, and they... they were taken, sir.”
+
+Ren scowled, and concentrated on his Command Aura. “What happened to my orders?” He asked, irate. “No one goes in! No one goes out!” Ren took a deep breath and let it out. “Who was on duty?”
+
+“Broxor, sir.”
+
+“Tell him he can finish the rest of the week he was paid for; but, he will no longer be a guard after that. Confiscate his armor, sword and shield.”
+
+“But sir! You can't fight the Royal-”
+
+“Do you want to join him?” Ren asked, concentrated on his Fear Aura and connected his Screaming Terror ring. “You don't work for them! You work for me!” He nearly shouted. “Broxor didn't even activate the defenses, did he?”
+
+Golir didn't say anything, as he trembled slightly.
+
+“Get this straight right now.” Ren said. “When I give an order, there are NO EXCEPTIONS unless I give them! None! DO YOU GET ME?!?”
+
+“Sir! Yes, sir!”
+
+“When I say no one goes in, I mean NO ONE. I don't care if it's the Royal Guard, a Battalion of troops, or even the King himself.” Ren poked Golir in the chest with a finger, and it pushed Golir back slightly. “You were hired to protect Lady Neram and Nathalia. You aren't supposed to be here to step aside when someone shows up.” He took another deep breath and tried to calm down. “Do. Your. JOB.” Ren turned around and walked towards the house. “By the gods, do I have to do EVERYTHING MYSELF?!?”
+
+Ren went inside and checked on the baby fire elemental. “Hey, there.” Ren said, happily. “What a life you have right now.” He said and sat down, took out some more spider silk cloth scraps, and cut them up. He crumpled a few pieces only slightly, and put them in the pen, then added a few pieces that weren't crumpled. Ren reached in and rubbed it's back, and he heard a crackling fire. He sighed, and stood. “I'll be back as soon as I can.”
+
+Ren left the house and out through the gate, shut and locked it, and turned to Golir.
+
+“I was going to repeat my orders, just to make them perfectly clear; but since the people you were supposed to be protecting aren't here, don't worry about it.” Ren said, and placed a hand on the gate. “You can go home and spend some quality time with your wife.”
+
+Golir nodded slightly, backed away, and started to walk down the road. Ren imagined the Screaming Terror glyph covering the entire front of the gate and poured Mana into it. It took the same amount as it did when he enchanted something small, and he smiled. He took out a piece of wood, and used a Fireball wand on it. He used his Fire Manipulation and Absorb Fire abilities and refilled his Mana Pool, then filled the charge on the wand, since Fire based use of Mana didn't cost him anything. Ren ran up to the workshop and went inside.
+
+“Hi, Tee-one.”
+
+“Hi, Ren.”
+
+“Did you finish the books?”
+
+“Yes. You've had some interesting adventures.” Tee-one said. “I hope you can tell me more.”
+
+“I will.” Ren said. “For now, why don't you make some bows for me.” He took out 398 springy trees and gave them to Tee-one. “Use a hundred for longbows, 200 for bows, and the rest for short bows.”
+
+“That's a lot of bows.”
+
+“I'd do it myself, but I've got to get to the Royal Castle.”
+
+“Understood.”
+
+“I see you still have some molten metal left.”
+
+“I took the lump you left in the glass forge and put it back in the smelter.”
+
+“I forgot about that.” Ren said. “We better just let it simmer. I don't know when we'll get... any... more...” He slapped himself in the forehead. “Ugh. I've got a huge pile of smelted high quality iron bricks just sitting back at my other business.” He shook his head. “I'll grab them the next time I go.”
+
+“That would be a good idea.”
+
+“I'll be back as soon as I can.”
+
+“Bye, Ren.”
+
+“Bye, Tee-one.” Ren said and left the workshop. He ran down the road and then activated the gate's Screaming Terror enchantment.
+
+I'm tempted to go all the way around the Keep and place stone bricks with Terror runes, but I don't have time. Ren thought, and ran down the road. 10 minutes later, he stood on the road just outside the Main Keep and looked around. He didn't see anything, then activated Enchanted Eyes and his mouth dropped open. An invisible wall over 300 feet high and 600 feet wide, was behind the Main Keep. Ren looked at the ground, and didn't see any kind of road to get there.
+
+Do I go through the Main Keep or what?
+
+“I'd say so.” Teepo said. “I can't Spot a way in at all.”
+
+I'll get in line, then. Ren thought as he concentrated on his House Neram Aura, and his Aura jumped from 90 feet out to 115 feet. He still had an hour before supper, so there was still a line to get in. Ren started to walk over to it, and everyone turned to look at him as his Aura passed over them.
+
+Huh. It works here, too. Ren thought. They all recognize me as a Lord.
+
+“Right this way, sir.” One of the guards said, and Ren walked around the line and through the gate. No one said anything, or objected, and Ren walked by them all. It was eerily silent, though.
+
+I wonder what's going on? Ren thought, as the door to the Main Keep was opened for him. He stepped into the lobby and no one was talking, not even the receptionist. A guard stepped away from the wall and approached Ren.
+
+“Right this way, sir.” The guard said to Ren, and then started to walk away. Ren followed the guard down the right side hallway where the General Information and Fine rooms were, and Teepo took off flying ahead. They walked all the way down to the end of the hallway, and Ren saw a glowing door in the wall.
+
+You'll have to wait until the door opens, Teepo.
+
+“What door?”
+
+The guard stopped by the wall and a moment later, a door appeared.
+
+It was hidden like the doors in the hold of the ship. Ren thought.
+
+“They do that on land?” Teepo asked. “That's a good way to hide something.”
+
+Ren nodded slightly as the door opened. Teepo flew in right away and the guard stepped through and held the door.
+
+“It's just a hallway so far.” Teepo said.
+
+Ren stepped through the doorway, and the guard shut the door. Ren looked back, and the door disappeared on this side.
+
+That's kind of pointless. If you're on this side, you'd know there's a door here.
+
+“Not if you got into the castle by some other means.”
+
+Like I was going to do, you mean. Ren thought in amusement. Yeah, I'd have no clue there would be a door down this hallway.
+
+The guard walked down the hallway, and it went on for a while.
+
+“Uh oh.” Teepo said.
+
+What is it?
+
+“Nothing.” Teepo said. “Just a gigantic lobby with 2 huge staircases, and about 30 doors.”
+
+It might be better to wait until we know where we're going.
+
+“Okay.” Teepo said and flew back over to the hallway. The guard walked out of the hallway and into the lobby, and Ren saw what Teepo was talking about. He let out a low whistle, as the lobby alone was bigger than anything Ren had ever seen before.
+
+I think their Hall Of Records would fit in here. He thought.
+
+“And then some.” Teepo said as he landed on Ren's shoulder.
+
+The guard ignored everyone in the lobby and walked across the open area and started to ascend the stairs. Ren followed closely behind him, and when they got to the top of the stairs the guard turned to the left and walked down to the end of the balcony.
+
+Teepo, you're up. Ren thought, and Teepo took off and flew under the door. The guard opened the door, and Ren glanced down into the lobby.
+
+“How many people are here?” Ren asked.
+
+“All of them.” The guard said. “Through here, please.”
+
+Ren waited for a moment, and Teepo said it was all clear; so he walked through the doorway into another hallway loaded with doors.
+
+Crap. Ren thought, and looked at the guard. “Which one?”
+
+“Last one on the left, sir.” The guard said and closed the door. Ren heard the lock click and sighed.
+
+“She's in here.” Teepo said.
+
+Can you check the other rooms for Narhilda?
+
+“Sure.” Teepo said, came out from under Nathalia's door and slipped into the next room. “No.”
+
+Who is it?
+
+“I don't know. It's a female dwarf.” Teepo said. “She's quietly crying.”
+
+Keep looking, Teepo.
+
+“Okay.” Teepo said, and Ren walked down the hallway and to Nathalia's door. He knocked lightly, and she opened it.
+
+“Ren!” Nathalia exclaimed, then covered her mouth. “Get in here.” She whispered.
+
+“What's going on?” Ren asked when she shut the door.
+
+“The King was notified about Gellian's death.” Nathalia whispered. “He... he wasn't happy.”
+
+“Neither was I when I found out.”
+
+“Ren.” Nathalia said. “She was his niece...” She sighed. “...and heir.”
+
+“She wasn't just a member of the royal family, then.” Ren said. “She was the next in line for the throne.”
+
+Nathalia nodded. “It's quite the mess.”
+
+“So why is everyone here?” Ren asked, then held up a hand. “Ignore that.” He said. “I'd rather know why you and Narhilda are here.”
+
+“The King ordered an immediate trial for her killers.”
+
+“They took you to get to me?” Ren asked. “That's stupid. I'd have come if they'd asked.”
+
+“I... I can't tell you why I'm here.” Nathalia said. “I'm sorry.”
+
+Ren took her into a hug. “It's okay. I'm here now.” He said. “Can I at least ask why we're locked up?”
+
+“It's to stop us from escaping.”
+
+Ren smiled. “I don't think so.”
+
+Nathalia looked at him in surprise. “You can't leave.”
+
+“I'm not leaving.” Ren said. “I'm going to go look for my dogs.”
+
+“Those things!” Nathalia exclaimed. “They attacked the Royal Guard!”
+
+“That's what I told them to do.” Ren said. “Defend the house.”
+
+“What!?!”
+
+“They were doing their jobs and protecting you.” He said. “And they were taken for it.”
+
+“You'll never find them.” Nathalia said. “This place is huge.”
+
+“Just watch me.” Ren said and opened the door to her room. “If you need me...” Ren held up the hand with the Sending Ring.
+
+“Get back here!” Nathalia said. “You can't just go wandering around! If the guards catch you...”
+
+“What are they going to do? Lock me up?”
+
+“Yes!”
+
+“Don't worry. I'm good at sneaking around.”
+
+“Ren! What about your Aura?”
+
+He shrugged. “It's not like I can hide it now. It's over a hundred feet now.”
+
+“I... I thought you were just standing in the hallway, waiting to knock.” Nathalia said.
+
+Ren shook his head. “I came right to the door and knocked.”
+
+“Then don't bother sneaking around.” She sighed. “Someone will know you're coming.”
+
+“That's fine.” Ren said, and clenched his fist. “They've made the same mistake that the Council did.”
+
+“What mistake was that?” Nathalia asked.
+
+“Underestimating me.” Ren said, and shut her room door.

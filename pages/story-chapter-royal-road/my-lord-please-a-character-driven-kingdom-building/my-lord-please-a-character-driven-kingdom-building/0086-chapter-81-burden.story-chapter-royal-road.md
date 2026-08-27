@@ -1,0 +1,189 @@
+---
+id: bb3d0aaf-95fa-54f8-a76a-fc7627ee93d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81 Burden"
+slug: 0086-chapter-81-burden
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 86
+ownLength: 1867
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3562722/chapter-81-burden"
+royalRoadId: "3562722"
+---
+
+“There was something I wanted to ask you, My Lord.”
+
+Garrick remained silent for a long moment after he spoke, his gaze shifting back toward the quarry face. It lingered on the exposed stone as though the ridge itself might offer him a better way to begin, while one hand rubbed slowly at the stubble along his jaw before dropping again.
+
+In the lingering silence, men moved timber near the work shelter while someone called for a cart along the lower path.
+
+Lucien studied him for a moment before deciding to break the silence.
+
+"You can speak plainly, Garrick. I am not the sort of noble that would take offense so easily."
+
+He almost missed it, but at the word noble, the older man's shoulders seemed to stiffen.
+
+Before he could ask, Garrick let out a huff, something between amusement and another feeling Lucien could not quite place. The miner gave a small nod, as though deciding not to avoid it any longer, before finally turning to face him fully.
+
+“Did...Lord Rathenfell happen to mention anything about me in his letter?”
+
+Lucien’s brow creased faintly at the unexpected name and that Garrick even knew about the letter from the Lord of Helvarn.
+
+“How did you know Lord Rathenfell sent a letter?”
+
+Garrick looked back toward the road below the ridge. “I heard about it from Harlon, and enough people know you're heading to Helvarn in late spring that they've already started wondering what'll become of the Cragwatch folk."
+
+His gaze shifted back to meet Lucien’s. “Didn’t take much to guess Lord Rathenfell had sent word ahead.”
+
+That made sense for a place like Ashridge. News would have traveled even if he had made an effort to keep it quiet.
+
+Lucien gave a small nod. “He made no mention of you. I didn't even know the two of you had that kind of connection.”
+
+He had expected the answer to bring some relief, but instead, Garrick looked more resigned.
+
+Silence settled between them again. Lucien let it sit for a moment before speaking.
+
+“Did you want him to remember you?”
+
+For a time, it seemed Garrick would leave the question unanswered, his expression shifting into something unreadable as his attention drifted back to the ridge.
+
+“Maybe...” A brief pause followed before he continued. “Maybe it’s better if he didn’t.”
+
+Garrick took a slow breath before speaking again. “I’m a bastard.”
+
+His gaze remained on the ridge when he said the next part.
+
+“Lord Vaelric is my half brother.”
+
+Lucien’s eyes widened at the unexpected words, though the reaction faded as he looked at Garrick more closely.
+
+The man before him always gave off a different impression compared to what he had expected of a miner.
+
+Perhaps that was why Lucien couldn't help but speak almost immediately afterward.
+
+"Helvarn...you mentioned that you had been there a long time ago."
+
+A rough breath escaped the miner before he gave a slow nod. It was as though a dam had broken loose after those first words, because Garrick continued speaking without any prompting from him.
+
+“My father took my mother as a mistress in the capital.” He paused briefly before looking up. “It’s common enough among noble houses. He already had an older heir when I was born, and my younger brother came a few years later.”
+
+Lucien’s brow creased faintly at the phrasing. “Had? I assume something happened to him?”
+
+Garrick exhaled through his nose at that. “My older half brother died during a trip to Helvarn. Bad luck, mostly. His group came across a wandering orc band, and the entire party was wiped out.”
+
+Lucien’s eyes sharpened at the mention of orcs again. “Is it common for them to be wandering around near Ashridge?”
+
+The miner shook his head faintly. “Not really. That's why I said it was bad luck. Most times, orcs go straight for villages instead of travelers. They just happened to cross paths with my older brother while he was on the road.”
+
+That aligned with what Dorian had said, though Lucien still disliked how uncertain the information was.
+
+If such knowledge existed in writing, Ashridge was hardly the place to find it. For now, he had little choice but to rely on the experience of those who had encountered them.
+
+Garrick continued after a moment, turning to look out over the open stretch between the ridge and Ashridge.
+
+“When my father was appointed to rule Cragwatch, my younger brother, the current Lord Vaelric, was inconsolable. As a child, being separated from the friends he had made in the capital and sent to a frontier village was harsh for him.”
+
+The miner let out another breath. “I was treated well in my family despite being a bastard. The line of succession was secure, and my mother had a good relationship with my father’s wife.”
+
+Lucien's brows furrowed faintly. “That does not seem...common among the nobility.”
+
+The words were chosen with care, enough to avoid inviting questions about his own origins.
+
+Garrick gave a light shrug before he answered. "I cannot speak for other noble families, My Lord, but I have heard it is common for nobles to keep multiple lovers."
+
+Meeting Lucien's eyes once more, he added,
+
+“I imagine it is much like your own growing household.”
+
+Lucien’s brow twitched at the implication, though Garrick had said it plainly, as if it were the most ordinary thing in the world.
+
+'I very much doubt other nobles have a...'household' like mine.'
+
+Rather than respond to that, he let the comment pass and asked the question that mattered.
+
+“What changed then?” Lucien paused, considering his words before continuing.
+
+“Was it your older brother’s death?”
+
+At the shift in topic, Garrick let out a rough breath through his nose.
+
+“When Lord Vaelric was younger and we had to move to Cragwatch, I took it upon myself to spend more time with him.”
+
+His eyes drifted to the side as he spoke. “My older brother was too old to be playing knights while I was closer to his age.”
+
+“We were close, the two of us.”
+
+Leaning against the ridge wall, he let his head rest back as he looked up into the midday sky.
+
+“Back then, it felt like life would go on like that forever. I would grow older and work for House Vaelric, perhaps as a steward, or simply remain in their service.”
+
+For a long moment, he simply watched the sky above the ridge.
+
+“Then everything went wrong.”
+
+Garrick's voice lowered. “My older brother died, and not long after that, my father and mother died from the same illness.”
+
+Lucien followed the miner’s gaze before he asked carefully, “I take it your stepmother did not take their deaths well?”
+
+The miner shook his head firmly. “If you are asking whether she took their deaths out on me, then no, My Lord. She was grieving, yes, but she never blamed me for it.”
+
+His eyes lowered, lingering on the ground between them.
+
+“Perhaps it would have been easier for her if she did.”
+
+Lucien’s gaze shifted back to him, one brow raised. “Why would you want that?”
+
+“Then she would not have to keep all of it buried inside her heart.”
+
+Garrick's brow creased faintly. “It broke her in the end, seeing how much her youngest son changed after he had to take up the lordship so young.”
+
+Lucien could not help but understand that. When he had been thrust into this world, he had the advantage of being older than this body suggested, and even that had barely been enough to carry him through those winter months.
+
+“Lord Vaelric grew distant with me after that. With all of us, really.” Garrick exhaled softly through his nose. “I think...he was trying to be the perfect lord. To make sure House Vaelric would not end with him.”
+
+The miner’s gaze lifted toward the sky again as he spoke. “When I saw how those changes were affecting his mother, I...we exchanged some harsh words with each other. Words neither of us could ever take back.”
+
+“That was how I was banished from the household. It was only because of Lord Vaelric’s mother that I was given work as a miner in Cragwatch instead of being expelled from the village altogether.”
+
+For a time, neither man spoke as they let the sounds from the work camp carry the silence.
+
+Lucien leaned back against the ridge wall beside Garrick. “I suppose it must have been a big change for you. From a noble’s household to the life of a miner.”
+
+Surprisingly, the man did not answer immediately. Instead, he rubbed at his stubble briefly before he spoke. “At the start? Yes, it was hard. The villagers of Cragwatch didn't know how to deal with a noble’s bastard.”
+
+Garrick brought his leather-clad hands up, clenching and unclenching them. “The work was harsh as well. I had bleeding callouses for days during my first few months.”
+
+Lowering his hands again, he looked out over the open lands to the north. “But in a way...I was more free out here in the ridges than I ever was in House Vaelric.”
+
+After considering his words for a moment, the miner glanced at Lucien.
+
+“Forgive my bluntness, My Lord. But I do not envy a noble's burden.”
+
+Lucien met the miner's eyes, his brow lifting for a brief moment before understanding settled in. “I should have expected you to see it that way.”
+
+He looked toward Ashridge. “But a noble doesn't have to take up those burdens. Would it not be better to have the choice to live in relative comfort and simply choose a quieter life?”
+
+Garrick shook his head faintly at that. “There might be those who would choose that, but a gilded cage is still a cage, My Lord.”
+
+He followed the direction of Lucien’s gaze. “And nobles can never escape the burden of living up to their house. It comes for them, one way or another.”
+
+Lucien remained silent at the miner’s words, his eyes fixed on Ashridge, on the palisade walls and the distant smoke rising above the rooftops.
+
+Responsibility always had a way of finding him, and he had never been able to turn away from it.
+
+Garrick rubbed at his stubble as he spoke. “I shared this with you to give you another perspective on Lord Vaelric.”
+
+He pushed himself off the ridge wall and turned toward Lucien. “The other villagers of Cragwatch likely do not think highly of him. It is only natural for them...when they compare him to a lord like you.”
+
+The miner ruffled a hand through his hair, leaving his already messy locks even worse. “At the meeting in Helvarn...don’t blame him too much.”
+
+His words were as clumsy as they were careful.
+
+Garrick dipped his head. “By your leave, My Lord?”
+
+Lucien returned the gesture as he spoke. “Don’t stay out in the ridges for too long, Garrick.”
+
+The older man let out a huff as he turned to walk back toward the work shelter. “I will make sure the limestone kilns are properly built where Lady Talia wants them, Lord.”
+
+They were his parting words as he raised his hand without turning back.

@@ -1,0 +1,279 @@
+---
+id: 00c0b402-4ade-5a5a-be2b-b6a94ac80b5e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 573 - The Water Realm Version 2"
+slug: 0573-chapter-573-the-water-realm-version-2
+partOf: mythrans-master-of-all-continued-completed
+position: 573
+ownLength: 2769
+unit: words
+publishedAt: 2018-05-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212366/chapter-573-the-water-realm-version-2"
+royalRoadId: "212366"
+---
+
+“Okay, Ren.” Teepo said. “You can stop pretending now.”
+
+Ren slowly opened his eyes and saw that he was on the seaweed bed in Railyse's bedroom and that the bedroom was no longer in the throne room.
+
+Are you sure it's clear? Ren asked his friend through their mental connection.
+
+“The guard left a few minutes ago.” Teepo said. “If you hadn't turned off your Auras, you would know that.”
+
+I had to make it convincing. Ren thought and sat up.
+
+“You almost died, so it was already pretty convincing.” Teepo chittered in laughter.
+
+Hey, how was I supposed to know that Railyse would try to literally bite my head off by chewing through my neck?
+
+“With experience.” Teepo said. “She's done it to how many fish?”
+
+“Fish don't have necks.” Artemis sat down on the bed next to Ren and put an arm around his shoulders. “Ren almost didn't have his neck, either.”
+
+“You should have seen it, Ren.” Teepo said. “I was right there on your shoulder, and I still can't believe it.”
+
+Ren put his arm around Artemis and rubbed the middle of her back. “Thanks for not interfering.”
+
+“I didn't really want to.” Artemis said and smiled. “She had a right to be angry over being kidnapped.”
+
+Ren chuckled. “I had to take her home, or her mother was going to send an expedition force to retrieve her.” He said and used his free hand to reach up to his other shoulder and scratched his pet spider's head. “Of course, that was before I found out she had been deposed and wasn't in control anymore.”
+
+“She probably still would have sent someone, except that they would have warned Railyse to stay away instead of returning home.” Artemis said.
+
+“Which means I would have come with her anyway.” Ren said. “Only the circumstances for getting here would have changed.”
+
+“Yeah, you wouldn't have had your face beat in.” Teepo chittered in laughter. “She totally wrecked you, Ren!”
+
+Ren chuckled. “I've gotten so used to standing on solid ground during a fight that floating in the water messed me up completely.”
+
+“I could tell that you didn't know up from down when she flipped you around.” Artemis said. “That was a great tactic to use.”
+
+“It sure was.” Ren smiled. “She can be vicious; but, she can fight when she wants to.”
+
+“At least you don't have to worry about her wanting you to sire her spawn.” Artemis said.
+
+“Did she get a mate already?” Ren asked.
+
+“They have to hold a tournament to sort out all the potential candidates.” Artemis said. “Wait, don't you know that? You were right there when they talked about it.”
+
+“I had to turn off my hearing so I wouldn't react to what was being said.” Ren said.
+
+Artemis chuckled. “You really wanted to sell playing dead, didn't you?”
+
+“Hey, it worked.”
+
+“That it did.” Artemis said. “If I hadn't felt your feelings at the time, I would have come to your defense.”
+
+“Thanks.” Ren said and moved his hand down to rest on her hip.
+
+“So, how long should we sit here and wait to see if someone will check on us?” Teepo asked. “I'm betting on another hour.”
+
+“How much are you betting?” Ren asked.
+
+“20 gold.” Teepo said. “Are you in or what?”
+
+“You don't have 20 gold.” Artemis said.
+
+“Hey, Ren. Can I have a platinum coin?” Teepo asked.
+
+“Sure, buddy.” Ren said and put it on the shoulder Teepo was on.
+
+“Thanks.” Teepo said. “Okay, who's in and how long do you think it will take?”
+
+“I'm in.” Ren said. “I'm going to guess 45 minutes.”
+
+“I'm in, too.” Artemis said. “ An hour and 30 minutes.”
+
+“Hold on. You don't have any gold.” Teepo said. “Do you want some?”
+
+“I'll be getting 40 gold in an hour and a half.” Artemis said and smiled. “I'll take your gold then.”
+
+Teepo chittered in laughter. “What do we want to do until then?”
+
+“I'd like to make some clothes for the Queen, but I'm pretty sure she'll already have everything replaced.” Ren said. “So, maybe an upgraded Truth amulet with Unnatural Armor and Regeneration.”
+
+“Lylyth's familiar was pretty happy with the one you gave it.” Teepo said.
+
+“I was going to leave the Necklace of Air as it was, then figured since I could add a bunch of stuff to it, I should.” Ren said. “Actually, that reminds me.” He said and took out the All-Seeing Mirror. “I should check and see if it went home or stayed at the pool.”
+
+“Ah, ah, ah!” Artemis said and blocked the mirror's surface. “No cheating and looking at who's coming.”
+
+“I wasn't going to.” Ren said in a slightly higher pitched voice.
+
+Artemis laughed. “I didn't need to feel your emotions to tell that was a lie.”
+
+“I wasn't going to...” Ren sighed. “Okay, I would probably do it automatically.”
+
+“Like I didn't know that.” Artemis smiled.
+
+Ren stored the mirror and made the amulet for the old Queen, then made one for Railyse. He added the Amulet of Interrogation enchantment to them as well. While they waited to see who would win the bet, they talked about what Ren needed to do over the next few days. What they discovered was, he didn't have to do anything.
+
+Everything was being handled. The ghoul infected that wanted to move would be travelling for a week to get to the county, the Dark Elves were in the middle of fighting a centuries long war to try and end their conflict, and the Sea Dwellers would be interrupting the shipping for the Human Kingdom and word wouldn't get back about that for about a week or so.
+
+“By the gods, I'm not going to be busy!” Ren said, surprised. “I actually don't remember the last time that I had nothing that needed to be done, and no pressing matters that I had to attend to.”
+
+“I don't remember, either.” Teepo said. “You've always been busy and had something to do.”
+
+“This is amazing.” Ren said and smiled. “I feel kind of lighter.”
+
+Teepo chittered in laughter and Artemis tightened her grip on Ren's shoulder. They kept talking about the things that he could possibly do, now that he had the free time that he had always said he wanted.
+
+“You could get the Earth being to convert the ground under the starter city.” Teepo suggested.
+
+“You could take more cooking lessons from Nathalia.” Artemis chimed in.
+
+“I haven't had a glass making lesson in a while.” Ren said. “Oh, I almost forgot! I have a date with an Adventurer tomorrow!”
+
+“And that's why we should always discuss things.” Artemis said. “You never know what can crop up.”
+
+Ren chuckled. “I've got to leave on Adventurer's business when we get back to the Earth Realm, so I would have remembered then.”
+
+“You would have been reminded of it then.” Teepo corrected and chittered in laughter.
+
+“Same thing.” Ren smiled.
+
+“Ren, it's kind of hard to tell through the water, but I'm pretty sure there's someone coming down the hallway.” Teepo said.
+
+“How long has it been?” Ren asked.
+
+“An hour and 25 minutes.” Teepo said automatically. “Aw, dammit. I forgot to lie.”
+
+Ren and Artemis laughed, and Ren exchanged Teepo's platinum coin in for gold coins and gave 20 of them to Artemis, then added 20 more. He had just finished paying off the bet when the door to the room opened.
+
+“Good, you're awake.” One of the two guards said. “Please come with us.”
+
+“At least they don't have their weapons drawn and pointed at us.” Teepo said.
+
+Ren and Artemis let each other out of the half-hug they were in as they stood up, and they both noticed the guards exchange glances.
+
+I wonder what that's about? Ren asked himself, then activated all of his Auras except the bad ones.
+
+The two guards floated back out of the room and waited, so Ren and Artemis swam out as well. One of the guards went first to guide them, and the other guard motioned for them to follow. They did and he floated behind them, and they were escorted through several hallways back to the throne room.
+
+When they arrived there, Ren saw that he had been right. The old Queen had replaced her clothing and looked much healthier as she stood beside the current Queen, and Railyse looked regal in a similar outfit. Her face was in an almost scowl as Ren and Artemis were brought into the room; but, Ren could feel her happiness that he was all right. The rest of the old Royal Family and their families were spread around the room.
+
+“Here are the 'guests', Your Highness.” The guard in front said and moved to the side to reveal Ren and Artemis, and he swam around to the other guard and waited.
+
+“Thank you.” Railyse said and looked at Ren. “First of all, I need to thank you for bringing me back, even though it had been against my wishes.” She said. “Otherwise, I never would have discovered the fate of my family.”
+
+Ren knew that wasn't a statement that he had to respond to verbally, so he only nodded.
+
+“Secondly, you are charged with abducting a member of the Royal Family.” Railyse said. “No matter the circumstances, what you did was a crime in the eyes of both Sea Dwellers and Land Dwellers.” She sighed. “How do you plead?”
+
+“Guilty, Your Highness.” Ren said.
+
+Railyse knew he wouldn't try to deny it. “At this point, you may speak on your own behalf to try and justify your actions.”
+
+“I have no defense, nor do I want to justify my actions, Your Highness. I was fully aware of what I was doing and did it anyway.” Ren said. “I knew you would be angry with me for disobeying your orders, and I accepted the damage to my heart that keeping you safe against your will would cause me.”
+
+Everyone shifted uncomfortably at his admission, even the old Queen and Railyse herself. They knew that he wasn't repentant, and that he would do it again if given the choice.
+
+“Then you leave me no choice but to accept your plea for what it is, and sentence you accordingly.” Railyse said as she stared at his face and didn't feel any regret or impending doom from him. “The crime carries a long prison term, or a shorter hard labour term.” She said. “Since I am not without mercy, I leave it to you to decide which you would like.”
+
+“Heavy labour, please.” Ren said.
+
+Everyone gasped, except for the old Queen and Railyse. They knew he would choose the shorter time limit.
+
+“Very well.” Railyse said. “I hereby sentence you to 6 months of the heaviest labour my people can devise for you.”
+
+Ren nodded his acceptance and didn't protest the wording.
+
+“As for your associate, she is free to go.” Railyse said, and was happy to grant Ren at least some leniency.
+
+“I have to stay.” Artemis said. “Ren and I can't be separated by a portal, or I suffer excruciating agony.”
+
+Railyse closed her eyes and sighed, because her grand gesture to let Artemis go was wasted.
+
+“Accommodations will be prepared for the both of you.”
+
+“Together.” Artemis said. “I can't let Ren be out of my sight.”
+
+Railyse's eyes roamed from Ren to Artemis and back again, then she slowly nodded. “It will be so.”
+
+The guards behind them swam around and drew their spears.
+
+“That won't be necessary.” Railyse said. “Ren is honorable and won't need to be guarded.”
+
+The guards looked at her like she was crazy.
+
+“He can cast a portal to leave whenever he wants.” Railyse explained to them. “He's volunteering to stay here to serve the sentence.”
+
+“I've never shirked my duties.” Ren said.
+
+“No, you haven't.” Railyse said and was quiet for a moment. “If your friend hasn't told you already, there is to be a tournament to decide who will be the best candidate to be my mate and sire my spawn.”
+
+“She told me.” Ren said.
+
+“What do you think of the idea?”
+
+“That depends.”
+
+“On what?”
+
+“Can you explain why the previous Queen lost her kingdom so easily?”
+
+“No one had challenged the rule of my family for untold generations. We all lived and died for each other; but, as the Royal Family, we always strove to give the best of everything to our people.” The old Queen said. “We were beloved and respected, and always gave the people priority in both happiness and protection.”
+
+“But.” Ren said, and she smiled.
+
+“I made a controversial ruling and angered a woman to the point that she ignored centuries of established protocol and fought me directly.” The old Queen said. “I hadn't been in a personal fight since I was a young woman, so my skills were lacking.”
+
+“I still can't believe it was so easy to defeat you.” A woman's voice said, and Ren turned to look where it came from. The crowd parted to show the usurper chained to the wall, and he could see that she was quite happy, despite being locked up and put on display.
+
+“A dark prison cell wasn't good enough? You had to ask for a room with a view?” Ren asked her, and she laughed.
+
+“I'm an example for anyone that thinks of trying to do it again.” She said, and her eyes darted to the throne. “Not that anyone would with the new Queen.”
+
+“So, it's always been this way, only no one had tried before?” Ren asked, and Railyse nodded. “Wow, your family must have been really lucky.”
+
+Railyse chuckled. “They still are.”
+
+“What do you mean?”
+
+“I'm the last of my mother's children, so it's still our family that's in control.” Railyse said. “Except that the rest of my siblings didn't have to die for me to get here.”
+
+“Oh! That's what you meant when you said there was no chance that they would all be gone and you could ascend to the throne.” Ren said. “You would have had to fight them all to do it.”
+
+“Or fight the first one and survive all the others.” Railyse said, and her mother put a hand on her shoulder.
+
+“After the show of prowess Railyse displayed and what she did to you...” The old Queen said.
+
+“...no one will try to fight for the throne for another thousand years or so.” Ren guessed, and she nodded.
+
+“So.” Railyse said. “What do you think of the tournament idea?”
+
+“Is it to the death?” Ren asked.
+
+“No, we don't cull potential mates.”
+
+“Then I think finding the strongest or best fighter would be in the best interest of your spawn.”
+
+“Yes, it would.” Railyse said. “It is also an open competition.”
+
+Ren felt the surprise go through the Sea Dwellers that were gathered in the throne room. “Please accept my apologies, Your Highness.” He said. “I must decline.”
+
+Railyse took in a deep breath and let it out. “May I ask why?”
+
+“I'd rather not point out the obvious.” Ren said.
+
+“As ruler, I can remove any restrictions that exist on the participants.” Railyse said, and bubbles and gurgles erupted from everyone, except for the old Queen. All she did was smile at Ren.
+
+“You can remove all but one, Your Highness.” Ren said. “Prisoners and convicted felons are not eligible for participation, until all other suitable mates are deemed unfit.”
+
+Railyse closed her eyes for several moments, then she sighed and opened them. “You do have an answer for everything, don't you?”
+
+“It's a curse, Your Highness.” Ren said and smiled.
+
+“Very well. You have successfully dodged becoming the sire for my eager spawn.” Railyse said. “There is one thing you cannot avoid, however.”
+
+“May I ask what that is?”
+
+“As the cause of my current condition, I charge you with the solemn duty to be present at the spawning ceremony to be held in one month.” Railyse said. “As it will be a state occasion, I will suspend your hard labour sentence for that day.”
+
+“I would be more than happy to attend.” Ren said and smiled. “Thank you for inviting me, Your Highness.”
+
+“You're welcome.” Railyse said and looked at a male Sea Dweller not far away. “What will his first heavy labour task be?”
+
+“I believe we are having trouble in the mines.” The Sea Dweller said. “We could use a hand there.”
+
+Ren let a grin spread across his face and Teepo chittered in laughter.

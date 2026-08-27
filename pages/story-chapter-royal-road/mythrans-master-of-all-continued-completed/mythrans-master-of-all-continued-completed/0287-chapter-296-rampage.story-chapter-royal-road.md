@@ -1,0 +1,255 @@
+---
+id: df086476-bc0a-5b17-90a0-fda3a08600a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 296 - Rampage"
+slug: 0287-chapter-296-rampage
+partOf: mythrans-master-of-all-continued-completed
+position: 287
+ownLength: 3328
+unit: words
+publishedAt: 2017-07-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145902/chapter-296-rampage"
+royalRoadId: "145902"
+---
+
+On the way back from the docks, Nathalia let out everything that she was feeling. She covered her face with her hands and sobbed her heart out. Since she wasn't sharing her Aura, all Ereka could do was hold her shoulders as she cried. Ereka's tears joined Nathalia's when she finally realized that she wouldn't get to be with Ren, either. They wouldn't have their second time, and she wouldn't be able to tease him with her perfect chest. That, above everything else, bothered her the most. Ren wouldn't be able to enjoy them like he wanted to.
+
+They arrived back at the Keep about 30 minutes later, and Deliliah pulled the carriage around to face the other way. She had clearly heard the two women crying inside, and it made her think about not being able to see what else Ren could do.
+
+Leaving when you have to is one thing. Deliliah thought as she locked the brakes and climbed down to open the door of the carriage. Getting thrown out before you finished your tasks? That's just... it's not fair!
+
+Nathalia and Ereka climbed out, their faces streaked with tears; and they saw the expression on Deliliah's face. They put a hand on her shoulder as they walked past, and she nodded to them. The guard at the gate opened it for the approaching women, and then they all heard a loud crash. It was the sound of wood being smashed to splinters. The guard jumped aside as he caught a glimpse of what was happening, and managed to stop Nathalia and Ereka before they got in the way.
+
+Princess barrelled through the now open gate, ran around them and the carriage, and poured on the speed.
+
+“PRINCESS!” Nathalia yelled, but she was already long gone. A moment later, Riley and Stacy came out through the gate and ran after her.
+
+“What do we do?” Ereka asked.
+
+“Hope.” Nathalia said, and looked down at her Sending Ring.
+
+*
+
+“Ren? We have a problem.” Nathalia's voice said.
+
+Ren's eyes opened immediately and he thought of Nathalia. “What is it?”
+
+“Princess... she's...”
+
+“Oh, crap.” Ren said.
+
+“I know there's nothing you can do, but I thought I'd let you know.”
+
+“There is something I can do.” Ren said. “I can warn the soldiers to not get in her way.”
+
+“But...”
+
+“Thanks for letting me know.” Ren said. “Goodnight.”
+
+“Goodnight.”
+
+Ren took out the Sending Square and thought of the Commander. “Sir, there's something you should know.”
+
+*
+
+The crowds had started to disperse from the castle and Main Keep after Ren and the carriage had left. The event seemed to be over, even though they had thought it was going to be an all night celebration. That had been half an hour ago, so the density of people was a lot less than it had been. It still took a long time for over 6,000 people to leave an area in a casual fashion.
+
+Several screams of terror pierced the night as Princess approached the Main Keep. She hadn't hit the group of female dwarves; but, they hadn't even seen her until she was almost on top of them. Princess jumped over them easily, and saw her way was blocked by more people. She noticed the unused main gate mid-stride and huffed her satisfaction as she found an unimpeded way in.
+
+Princess dropped her head and stiffened her neck, then smashed her way through the main gate. It had been a lot thicker than the stable door, and she didn't have boosted Strength; so, the impact staggered her a little bit. She recovered instantly, then ran towards the Main Keep. There were too many people on the grounds for her to assault the castle directly, so she would take an alternate route.
+
+*
+
+“I'll never see him again.” Dorhaline, the dwarf Librarian said as she walked in a daze back to the Library. “My sweet Lord. My cute shelf-builder. My handsome fellow reader.” She mumbled as she cried. “I knew he had to leave eventually... but... for him to be torn away like this...”
+
+*
+
+“I only just got back into his good graces.” Deresdra, the healer from the mines said as she walked back to her house. “I haven't even tricked him into sleeping with me again.” She shook her head. “Now I won't get the chance, because I'll never see him again.”
+
+A single tear came out of the corner of her eye, and she reached up and touched her face.
+
+“Why am I crying?”
+
+*
+
+There were no guards at the Main Keep, and Princess rejoiced as she dropped her head again and smashed through the front doors. Glass and wood flew across the smooth floor as she continued to run. On her way by, she hooked a single horn into the large reception counter and flicked her head. That action ripped the top off of the counter and threw it across the room; then it broke apart when it hit the wall.
+
+Princess ran down the right side hallway and saw a blank wall. Thanks to her high Intelligence and a recently acquired special ability to see hidden objects, she could clearly see the enchanted door. She wasn't stupid enough to attack it unprotected, though; and activated her version of Ren's Controlled Berserk Rage.
+
+Her eyes turned blood red as her Strength, Endurance, and Attack Speed doubled. Unfortunately, it also halved her Intelligence. She didn't even bother with the door and rammed her head into the stone wall beside it.
+
+*
+
+The castle wall shook as something strong and metallic hit it with a resounding clang. Several stone bricks were moved, and a lot of the mortar broke away.
+
+“What the hell was that?” One of the guards asked as he looked at the wall beside him. “You don't think...”
+
+“Yes.” The soldier in heavy armor beside him said. “GET BACK!” He yelled, and waved to the platoon of soldiers and guards behind him. “She not coming in the front! She's on our flank!”
+
+Another loud bang sent several broken stone bricks flying out. Some pieces hit the waiting soldiers, and they shifted their focus to face the threat.
+
+“Don't attack!” The Commander said. “Block only! She's just as angry as we are that Ren's been banished, but we can't let her run rampant! She will not be allowed to kill the future ruler!”
+
+“Why do you think she's here for the Queen and not for Ren?” One of the guards asked.
+
+“Ren left a while ago. She'd be wherever he was, not here.”
+
+A loud bang pushed several bricks out of the way, and the soldiers and castle guards could clearly see Princess' enraged face through the hole. She brayed at them loudly, almost like a scream, then disappeared from sight.
+
+“By the gods!” One of the castle guards said as he broke formation. “She's going to kill us!” He threw down his sword and ran.
+
+“You know, that looks like a good idea.” One of the soldiers said, and his fellow soldiers laughed.
+
+“Shields!” The Commander said. “Aim for deflection!”
+
+The soldiers put the shields in front of their bodies, then angled them up.
+
+A moment later, an enraged giant ram crashed through the wall as if it wasn't there, then waded into the soldiers.
+
+*
+
+“By the gods!” Barnar said from the balcony above the main lobby as he watched Ren's mount toss soldiers aside and into the air. “We have to get out of here!”
+
+“And go where?” Narhilda asked. “She broke through the castle wall. A 5 foot thick enchanted castle wall.” She took a deep breath. “Running away won't get us anywhere.”
+
+“Form a defensive block!” The Knight said to the 24 guards and soldiers under his command as he pointed to the top of the stairs. “That thing will not reach the Queen!”
+
+********
+
+“That little stinker!” Barbara, Ren's night nurse, said as she arrived at work; but, she had a huge smile on her face. “He knew I wanted to talk to him before he went back in.”
+
+“That's why he went in early.” Denise said. “He didn't want a birds and the bees talk from you.”
+
+“I wasn't...” Barbara snorted a laugh. “Well, okay. I was.”
+
+“He's all showered and cleaned after being in the pool.” Denise said. “But...”
+
+“But what?” Barbara asked, and saw the concern on her face.
+
+“Ren's been banished from the dwarf lands.”
+
+“Oh, no.” Barbara said. “He must be devastated!”
+
+“Yes.” Denise said. “He was devastated right into bed with his 'maids'.”
+
+“WHAT?”
+
+Denise motioned to the television, and all that could be seen was a blue screen.
+
+********
+
+The shields the soldiers used were having some effect, and deflected some of her shots. They didn't know that Princess was trying not to hurt them. All she wanted was to get to the source of Ren's pain and deal with it.
+
+Princess was getting frustrated, however; the soldiers she tossed aside were getting up and joined back into the fray. She stopped moving for a moment, and the soldiers thought for a second that she had given up. They were keeping her at bay, much to their own surprise, when she should have run them over and trampled them to death.
+
+Princess caught sight of Narhilda on the balcony three stories up and let out a loud bray. She was clearly upset, then she turned around and started to run. The soldiers and the castle guards yelled their happiness at their success, and then Princess jumped towards the wall... but not towards the hole she had made.
+
+“What is she-BY THE GODS!” One of the soldiers yelled as Princess landed on the wall and started to run up it. The soldiers watched in amazement as Princess trotted at a good pace up the wall about three stories, then she turned and ran as fast as the Amulet of the Spider would let her.
+
+“Nooo!” Barnar exclaimed, grabbed a sword from the closest guard, and stood in front of Narhilda. “You won't hurt her, you beast!”
+
+Princess huffed her amusement, then jumped from the wall and landed on the balcony. Her hooves slid and tore up the smooth floor, and she came to a stop about 10 feet in front of him.
+
+“RAHH!” Barnar yelled and charged with the sword. Princess might have been at half of her Intelligence, but she still knew how to fight. She shot the floor with 6 Web wands, and it covered Barnar's legs.
+
+“AHH!” Barnar yelled as he was caught in the web trap so easily.
+
+“Charge!” The Knight said, and Princess thought he meant her; so she charged them and knocked them all down. They had broken arms and legs; but, she hadn't killed anyone and figured her Lord would forgive her. She turned to the only person left standing, and huffed out two puffs of air from her nostrils.
+
+“Well, then.” Narhilda said. “It's come to this.”
+
+Princess scraped her hooves on the smooth floor to rough it up enough so she could push off without slipping.
+
+“Go ahead.” Narhilda said. “You think I deserve it! Go ahead! DO IT!”
+
+Princess growled at her, then lunged. Narhilda's brave act crumbled when Princess came towards her and she closed her eyes to wait for the second until she met her end. She heard a loud scraping sound, and then several huffs and sniffs; but no pain or impact.
+
+Narhilda opened her eyes, and they locked onto Princess' blood red eyes. They stared at each other as Princess nudged Narhilda's belly with her muzzle and sniffed again.
+
+“Yes, I'm pregnant.” Narhilda said. “If you kill me, you kill the baby, too.”
+
+Princess huffed loudly, then stood up at her full height. She was a foot taller than Narhilda, and looked like she was tempted to take a huge bite out of her. Princess bared her teeth in a horrific smile, then quickly darted forward and snapped her teeth right in front of Narhilda's face.
+
+“AhhHHH!” Narhilda screamed and covered her face with her hands.
+
+Princess huffed, threw her head skyward and brayed loudly. Everyone knew that she was declaring her superiority to them, and they watched in awe as she turned away from Narhilda, then slowly trotted down the staircase. Princess sauntered across the floor, huffed derisively at the soldiers that moved out of her way, and disappeared through the impressive hole in the castle wall that she had made.
+
+*
+
+“By... by the gods...” Barnar said, and wept. “How could Ren send something like that...”
+
+“Ren didn't send her.” The Commander said as he came up the stairs. “He warned us that she was coming.”
+
+“She's his mount. He must have ordered...”
+
+“No, Ren left. He didn't even try to pack anything.” The Commander said as he looked at Narhilda with displeasure. “Right now he's on a boat out in the middle of the harbour, with only the clothes on his back.” He shook his head. “No food, provisions, or supplies for a two week journey.” He said. “Nathalia called him when Princess broke out of House Neram Keep.”
+
+“Send out the troops!” Narhilda said. “I want-”
+
+“No.” The Commander said.
+
+“I order you to-”
+
+“No.” The Commander said. “You saw what his mount did to us.” He sighed. “I can't imagine what would have happened if she was trying to hurt us.”
+
+“WHAT?!” Narhilda exclaimed. “Look around! How many of your men are down? How many castle guards?”
+
+“How many are dead?” The Commander asked her and smiled. Narhilda looked around and saw lots of injuries; but, they were all moving. Princess hadn't killed a single dwarf.
+
+*
+
+Ren had closed his eyes after talking to the Commander and focused on his mental connection with Princess. He had finally sorted through all the things in his head and found her. He was about to ask her what she was doing, then she activated her Controlled Berserk Rage. Ren's body froze solid as he felt what she felt. She was so angry at Narhilda and would do anything to get to her.
+
+After a few minutes doing his best to push through Princess' blinding rage, Ren managed to calm her down a little. He felt her satisfaction at a job well done and that she hadn't killed anyone; then he felt her rage drain away.
+
+I'm at the docks. Ren thought to her. The docks. The docks. The docks. He felt her recognition and how tired she was. Hurry. He thought, and Princess started to run. He slid out of the bed, and his personal maids mumbled in their sleep. Ren wasn't sure if they were exhausted themselves, or if they had taken his tiredness; but, he didn't care as he equipped his Travelling Clothes and ran from the cabin. He was out the main cabin door a moment later and looked around.
+
+“Rowboat!” Ren yelled, and one of the deckhands pointed behind him. He looked back and saw a rowboat tied to the side of the deck. It was on a set of pulleys for easy deployment, but Ren didn't have time to do that. He ran over, grabbed one of the ropes, and pulled. It snapped easily, and he did the same to the other rope and stored the boat. He ran over to the side of the ship that was towards the land, and he jumped over the side.
+
+“Man overboard!” The deckhand said and watched how far Ren had jumped. “Is he part rabbit or something?” He asked absently as Ren arced through the air, and just before he hit the water, pulled the rowboat out of inventory and landed in it. “How the hell did he do that?”
+
+Ren's momentum had carried him a good 40 feet through the air, and just before he hit the water, he took out the boat and positioned it below him. He hit the water with a splash, and slid through the water another 30 feet by the time he had grabbed the oars and started to row as fast as he could.
+
+*
+
+Princess felt really tired. Her berserk rage had worn off while she ran, and she stumbled and bounced off of a building. She had the distinct impression to go towards the docks, and felt like she needed to go there. She came to the road that led to the docks, and fell to her knees. She skidded to a stop and breathed heavily.
+
+Must... get to... My Lord. Princess thought and forced herself to stand up. It was difficult, and she felt a small nudge on each of her sides. She took several deep breaths, pointed herself towards the docks, and started to run.
+
+*
+
+Ren could feel Princess as she struggled; but their mental connection was intermittent. I hope she's okay! He thought as he continued to row.
+
+*
+
+“The rowboats don't have engines, right?” One of the deckhands asked.
+
+“Right.” The one holding the tow rope said.
+
+“Then how is that thing going so fast?” The deckhand asked and pointed to Ren.
+
+*
+
+Princess' vision became blurry as she finally made it to the docks. She stumbled and almost fell when she came to the wood part, but she kept going.
+
+He's near... I feel him... Princess thought, then she heard a shout and perked up.
+
+*
+
+“I'm right here!” Ren shouted to Princess as he arrived at the dock and turned the boat around to come to a stop. He saw her react to his voice, and then she put on a burst of speed. “You're almost there!” He said as she ran over the planks of wood towards the water. “Get ready.... JUMP!”
+
+Princess jumped when her Lord had asked her to, but she couldn't see anything anymore and had no idea where she was as she flew through the air.
+
+Ren felt her lose consciousness and saw her form falter, but she had jumped far enough and he stood up in the boat and braced himself to catch her. Her weight hit him and he felt the impact in his bones as his Health dropped down to almost a third of the total and he took nearly a thousand points in damage. Ren was grateful he was in a boat, because the water had helped him absorb the hit when it combined with his Shock Absorption ability. He had succeeded in his attempt to catch her, and sat down in the boat.
+
+“You made it.” Ren said, and pat her neck. Princess was fast asleep, and now that he had the opportunity to see her up close, he examined her to see if the soldiers had hurt her. He could see her helm was bent and damaged in places, but the Intelligence and Protection enchantments had held. He unequipped it from her head, and saw the blood underneath it. One of her horns was cracked down to the core, and Ren tried not to let the damage she'd taken distract him from helping her.
+
+“Oh, you poor thing.” Ren said, and took out a Major Healing wand. “Let me take care of that for you.”
+
+Ren held the horn in place and used the wand to heal her. He then felt her forehead and traced a fracture along her eye socket and down to her nose.
+
+“I can't believe you made it here with this much damage.” Ren said and healed it. “There you go.”
+
+Princess stirred a little bit, but Ren knew she would be out for at least an hour. He checked her over thoroughly, and stored then repaired her armor as he went along. He found several bruises on her body and legs, and little dents in the armor.
+
+Ren finished healing her and put her armor back on, then moved her to the back of the boat. With her condition stabilized, he sat down and rowed back towards the ship.

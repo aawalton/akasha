@@ -1,0 +1,461 @@
+---
+id: ba94f50f-b8f2-5f76-a260-6bb29e955794
+page-type-slug: story-chapter-royal-road
+title: "Chapter 211 - I Just Want To Talk"
+slug: 0199-chapter-211-i-just-want-to-talk
+partOf: mythrans-master-of-all-continued-completed
+position: 199
+ownLength: 5185
+unit: words
+publishedAt: 2017-04-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127350/chapter-211-i-just-want-to-talk"
+royalRoadId: "127350"
+---
+
+As the large group of giants ran towards the beleaguered travelers, Ren lifted the end of the Ballista and let several shots go. They flew across the distance, and hit the ground in front of the advancing giants. Several of them stumbled and fell from the impacts in the ground in front of them; but, it was only because they had been startled. Most of them continued on as if Ren hadn't done anything. He stored the Ballista and took out the Wand of Distraction, and concentrated on the sound of screaming children. He used the wand several times on trees, rocks, and even tried it on the giants themselves. Everyone was surprised as the loud sounds of screaming children, from each object that had the spell cast on it, erupted as the giants passed. It was enough to cause confusion, and that's what Ren had hoped for.
+
+While they were distracted, Ren took out the Wand of Slickness and shot the ground in front of the group of giants several times, and covered a large area in grease. It was only going to last two minutes; but, that was plenty of time for the battle to be decided. Once the giants realized none of them were actually causing children to scream, they started to run towards the intruders on their land again.
+
+“Get behind the armored giant!” Ren said and ran around the giant they had already taken down. The others followed him, and Rubella only had to step over the fallen giant to join them, then knelt. The armored giant didn't provide her with any cover, but that wasn't what Ren intended anyways. He stored the other wands and took out a Fireball wand to absorb the charges from it, then filled it with Magic Mouth spells. His Mana Pool emptied after being used so many times, and he got a popup.
+
+Stat Change!
+
+Craft Wand Level 2 (Beginner 0%)
+
+So loading new spells into the wands counts as crafting them. Ren thought. That's good to know. He examined the new wand and smiled.
+
+Wand Of Ventriloquism
+
+A Magic Mouth spell imbues the chosen object or creature with an enchanted mouth that suddenly appears and speaks its message the next time a specified event occurs. The message, which must be 10 or fewer words long, can be in any language known by you, and can be delivered over a period of 2 minutes. The mouth cannot utter verbal components, use command words, or activate magical effects. It does, however, move according to the words articulated; if it were placed upon a statue, the mouth of the statue would move and appear to speak. Of course, magic mouth can be placed upon a tree, rock, or any other object or creature.
+
+The spell functions when specific conditions are fulfilled according to your command as set in the spell. Commands can be as general or as detailed as desired, although only visual and audible triggers can be used. Actions can serve as triggers if they are visible or audible.
+
+The range limit of a trigger is 20 feet per wand level or ability status, so a 5th-level wand or Master spell caster can command a magic mouth to respond to triggers as far as 100 feet away. Regardless of range, the mouth can respond only to visible or audible triggers and actions in line of sight or within hearing distance.
+
+Magic mouth can be made permanent with a Permanency (Level 5) spell.
+
+Higher level wands or abilities increase the number of words spoken, and time needed to say those words.
+
+Warning: Multiple Magic Mouth spells do not stack. The first must expire before another will work on the same object.
+
+Cast Distance: Within 100 feet (Medium). Area of Effect: Object only.
+
+Time Limit: Permanent until triggered.
+
+Ren read the description quickly, then dismissed the popup and took out the Wand of Entanglement. The first dozen giants that approached at a run, hit the grease-covered ground and slipped. They lost their footing, fell to the ground with a crash, and slid into their fallen comrade. Their armor rattled and clanged with the sounds of metal-on-metal hits; so Ren jumped up on top of the one he had used as a barricade and shot the Wand of Entanglement at the newly fallen giants to attach them to each other. Each spell covered a circle 20 feet in area, so it didn't take much to cover them all. Ren made sure he didn't cover their faces, however; because he wanted them immobilized, not dead.
+
+The other 24 giants tried to stop just outside the grease-covered area, and most of them succeeded; but, a few more were added to Ren's trap and the giants looked at him warily as he secured the new additions.
+
+“I'm not here to fight!” Ren shouted. It didn't look like they could hear him, so he used the Wand of Ventriloquism and shot a boulder next to them. It repeated his phrase, much to their surprise. The closest giant picked the boulder up, and looked at it. Ren shook his head, then thought about what to have the rock say, then used another Magic Mouth spell.
+
+“It's not the rock talking. It's the little person.” Ren used another spell. “On top of the webbed-up pile of giants.”
+
+The giant looked over to him, and Ren waved. The giant looked back at the rock, then at Ren, then back at the rock. Ren could see his mouth moving, but couldn't hear what was being said.
+
+Get over there, Teepo.
+
+“Right!” Teepo said, and flew over to the giant and landed on his shoulder. “He's asking the rock why it's not answering his questions.”
+
+Ren sighed and used another spell. “I can't hear you. I don't have ears.” The rock said, and several giants laughed.
+
+“He wants to know what's going on.” Teepo said, and Ren used another spell.
+
+“Little people brought giant back home.”
+
+The giant turned and looked at Rubella. She waved, and there was no response.
+
+“They said she was exiled over a month ago, because she caught the brain infection that makes people go mad.” Teepo said.
+
+“It's a worm, not an infection.” The rock said. “Little people have proof.”
+
+Ren stored the Wand of Entanglement and took out the Wand of Slickness. He covered the ground in grease again, and the giants watched him. They talked among themselves for a minute.
+
+“They're getting the archers.” Teepo said.
+
+“Wait!” The rock exclaimed. “No fight! Peace! We come in peace!”
+
+Ren recharged the Wand of Ventriloquism while the giants moved aside and let two archers come to the front.
+
+“Don't make me fight!” The rock said, and the archers pulled arrows from their quivers.
+
+Ren sighed, shook his head, and switched the Wand of Slickness with the Wand of Distraction, then used the Ghost Sound spell once more; only this time he repeated Rubella's scream of pain that he had heard when he'd forced the grub-like thing from her head. The ear-splitting scream came from the rock, amplified to 4 times it's normal volume, and it startled the giants so much that they jumped.
+
+The giant that held the rock dropped it. Ren stored the Wand of Distraction and took out the Ballista from inventory, then balanced it on the giant's chest. He angled it up and aimed for one of the archers, then enchanted the tip of the bolt with a double glyph (8 runes total) of Fire. The bows the giants carried were gigantic; but Ren aimed carefully anyways, then shot a single bolt at it. The giant's bow burst into flames immediately, and the giant dropped it before the fire engulfed his hand. Ren did the same with the second bow, before the archer could load an arrow into it. The second giant dropped the bow and tried to stamp the flames out; but, he broke the bow instead.
+
+Ren aimed the Ballista with one hand and used the Wand of Ventriloquism with the other.
+
+“Could have shot you instead.” The rock at the giant's feet said. “Can still shoot you.”
+
+“They're wondering how many shots you have left.” Teepo said.
+
+“About 80.” The rock said, and all of the giants stood still.
+
+“Some of them don't believe you.” Teepo said. “Maybe a little demonstration might be needed?”
+
+Ren switched the Ballista to full auto, aimed high, and let a dozen arrows go in quick succession as he traversed the shots over their heads. Most of the giants ducked; but several of them stared at Ren as he finished. He used the Magic Mouth spell again.
+
+“About 70 left.” The rock said, and Ren could see the giant sigh as he slipped his sword into it's sheath on his hip.
+
+“Are... are they surrendering?” Groggot asked as he came around the giant he was hiding behind, and saw the other giants sheath their swords.
+
+“Yeah.” Ren said as the head giant came over to him. “If they don't want to die a flaming death today.”
+
+“I can't believe I'm doing this.” The giant took off his helm and knelt. “First I'm talking to a rock, and now to a little person.” He shook his head and sighed. “I surrender.”
+
+“As the overall commander of the Garrison, charged with the defense of the Dwarven Kingdom, I accept.” Ren said.
+
+Notice!
+
+You have defeated (and partially subdued) a platoon of the Guardians of the Land. They have reluctantly surrendered to your show of might.
+
+Rewards: 37,000 XP (1,000 XP per giant)
+
+Influence: + 20,000
+
+“What are the rules for this?” Ren asked the giant, who looked at Ren with surprise on his face.
+
+“Everyone knows the Rules of Surrender.”
+
+“Everyone in your kingdom probably does.” Ren said. “I'm not from your kingdom, though.”
+
+The giant sighed again. “This is a disgrace to be at the mercy of someone who doesn't even know the rules.”
+
+“I would know them if you tell me.”
+
+“You've captured a third of my platoon and made me surrender.” He said. “We owe you a week of wages, or the work equivalent, and a life.”
+
+“A WHAT?!?”
+
+“One of our lives is forfeit. It is the cost of this disgrace.”
+
+It was Ren's turn to sigh. “I'm getting tired of having to deal with new cultures and their stupid traditions.”
+
+The giant frowned at him. “Are you insulting our way of life?”
+
+“I didn't mean for it to be an insult.” Ren said. “It's just the truth as I see it.”
+
+“You should keep your opinions to yourself, then.” The giant said angrily. “If I'd heard you speak in such a way before, I wouldn't have surrendered.”
+
+Ren looked at him. “So, instead of only letting one man die when you surrendered, you'd rather have lots of them, or all of them, die instead?”
+
+The giant took in a breath and let it out. “Let's just get this over with.”
+
+“Very well.” Ren said, and the giant stood up. He went around and gathered the money from his troops while Ren stored the Ballista and climbed down from the giant he was standing on. Barely a minute later, the web he'd shot at the first giant dissolved. The giant sat up and put a hand on his face.
+
+“Ow!” He said. “I thing my dose is bwoken.”
+
+“Sorry about that.” Ren said. “I was aiming for your chest, and jumped too high.”
+
+“Medic!” The head giant said, and one of the giants stepped over the other webbed up giants to reach the hurt one. The medic put one hand on the giant's forehead, shoved the first two fingers of the other hand up his nostrils, and yanked hard.
+
+“OW!” The giant yelled, there was a snap, and the giant's eyes welled up with tears. The Medic put a hand over the nose, it glowed yellow for a moment, and then the medic walked away without saying a word.
+
+“That was neat.” Ren said as the giant that used to have a broken nose, stood up and joined his fellows. “Painful as hell, but neat.”
+
+It only took another 6 minutes for the rest of the webs to dissolve and the rest of the money was gathered. The head giant put the money on the ground in front of Ren, and it ended up being several 4 foot high stacks of gold coins. Ren wasn't sure what to do with it at first; but, since it was supposed to be money, he took one and put it near his coin vault. It shrank to fit, and Ren added the rest of it. He looked at the giant.
+
+“I assume everyone paid, and they don't have to work for me for the week?”
+
+“Yes, everyone paid.” The giant said, and Groggot and Croggart winced.
+
+“You shouldn't lie.” Ren said. “Especially in this situation.” He looked at the gathered giants. “Who didn't pay?”
+
+One of the giants raised a hand. “I need the money to feed my family.”
+
+Ren walked over to him and took out 5 gold coins, thought 'giant' and they popped out the same size as the ones the head giant had given him.
+
+“I'll loan you a week's pay, and you can pay me back 1 gold coin a month for 5 months.” Ren said and handed the giant the money.
+
+“Are you serious?” He asked, then handed Ren back the 5 gold coins. “How are you going to get it?”
+
+“You can leave the money at the Library for the Sage of Ages.” Ren said. “I'll have her go by and pick it up.”
+
+The giant shook his head. “You're crazy.”
+
+“Yeah.” Ren said and walked back to where Groggot and Croggart stood. “Now, how do you decide who's life is mine to take?”
+
+The giants turned away from them and formed a circle. Ren saw their arms moving, and about 10 minutes later, heard a loud curse. The group broke up and turned back to face him, and the giant he'd tackled at the beginning stepped forward.
+
+“I lost.” The giant said.
+
+“What did you lose?” Ren asked, curious.
+
+“The ancient deciding ritual.” The giant said. “Boulder, Parchment, and Shears.”
+
+“Hold on.” Ren said. “You were picked to forfeit your life because you lost at Rock, Paper, Scissors?”
+
+“I'm not sure what paper and scissors are, but yes. It has always been so.”
+
+“Now what?” Ren asked.
+
+“Usually it would be a quick beheading, but you are too small to wield a sword properly.” The giant said. “Hopefully, you can use something to cut my jugular.” The giant made a cutting motion on the side of his neck. “That would be quickest.”
+
+“Your life is mine to do with as I wish, correct?” Ren asked him.
+
+“Yes.” The giant said, and laid down on the ground in front of Ren. “Please grant me a swift death.”
+
+“I don't think that will be necessary.” Ren said, and several giants gasped.
+
+“He's going to make it slow and painful!”
+
+“The little people are so ruthless!”
+
+“I think we should just step on them. They're right there.”
+
+Ren looked at them. “I meant that I was going to spare his life.”
+
+More gasps were heard.
+
+“The life offered isn't worthy!”
+
+“Oh, no! We'll be publicly shamed.”
+
+“My wife and kids won't take that money now.”
+
+“Should we pick another?”
+
+Ren sighed. “Every life is worthy.”
+
+“He wants all of our lives!”
+
+“Boy, he's greedy. Why isn't one enough?”
+
+“My wife definitely won't need the money if I'm dead.”
+
+Ren waved his arms emphatically. “To be saved! Worthy to be saved! Not taken!”
+
+“He's over-reacting a lot, isn't he?”
+
+“Just kill him and be done with it.”
+
+“I'm hungry.”
+
+“Get up.” Ren said to the giant that had laid down in front of him. “You offered your life to me, and I have spared it. Your life is your own again.”
+
+The giant didn't move.
+
+“What is it?” Ren asked.
+
+“I don't know what to do now.” The giant said. “The life offered was always taken.” He sighed. “What should I do with my life now?”
+
+“Keep being a guard. It's not like they filled your position while you laid here.”
+
+“Actually, they did.” The giant said. “My old position now belongs to the next in line, and so on and so forth.”
+
+“Can you join the guards again?” Ren asked.
+
+“And do another three years of training?” The giant shook his head. “I don't think so.”
+
+Ren sighed again. “Then go find something else to do. Geez, I'm not your mother.” He said. “Go on! Get!”
+
+The giant nodded and got up from the ground and walked away.
+
+“That was mean.”
+
+“It's not his fault you didn't want to kill him.”
+
+“If someone doesn't want to kill, you can't make them.”
+
+Ren ignored the voices and waved to the head giant.
+
+“What is it now?”
+
+“Aren't you going to ask about Rubella?” Ren asked and pointed to her.
+
+“She was exiled. She's not my concern.”
+
+“What does exiled mean?”
+
+“She was forcibly removed from giant lands, and isn't allowed back.”
+
+“WHAT?!?” Rubella shouted. “I'm all better! Look at me!” She did a twirl. “I'm not crazy anymore!”
+
+“That doesn't matter.” The head giant said. “You are outcast, and that's final.”
+
+“But... but my baby!” Rubella cried. “I have to get back to my baby!”
+
+“You were infected and attacked people. We removed you. End of story.”
+
+“What about a medical representative, or government official, or something?” Ren asked. “Surely there's someone we can talk to?”
+
+The giant shook his head. “I won't risk one of our people coming out here, just to tell you no.”
+
+Ren looked at him sternly. “You mean to tell me, that even though we helped get that grub-like thing out of her head, and know how to get rid of the others to save everyone, you aren't going to let Rubella inside giant lands?”
+
+The giant didn't say anything, but he did cross his arms.
+
+“You aren't going to let us inside, either.” Ren sighed. “Are you?”
+
+“No.” The head giant said. “The general population will panic if they discover that the little people in our fairy-tale stories are actually real.”
+
+Ren looked at him. “Even though I defeated you, and you surrendered, you'd still fight to stop me from entering your lands?”
+
+“Yes.”
+
+“Well, that's just great.” Ren said. “I came all this way to help your people, and to return one of your own, and all you can do is tell me that you want me to stay away, knowing full well that the problem can be fixed.” He turned and walked away. “I hope you have fun exiling the rest of your population, you ignorant fool.”
+
+Ren gathered up the people he'd brought to the giant lands, had Rubella pick up the pieces of the large cart, and he repaired and replaced the damaged parts of it. Once it was attached to the cart that Princess was still fastened to, he had everyone climb in.
+
+“Just trot.” Ren said to Princess, and she trotted away from the giant lands. They traveled for about an hour that way, and Teepo told Ren that the two giants that had been following them had turned around. Ren waited another half an hour, and took a right turn.
+
+“Hey! What are you doing?” Croggart asked. “We're supposed to be heading home!”
+
+“We are.” Ren said. “We all are.”
+
+They traveled for another hour, and came to a stop.
+
+“I'm not going to like what happens next, am I?” Croggart asked him. Ren shook his head and got down from the driver's seat, then walked to the large cart that Rubella and Groggot sat in.
+
+“This is where we part ways.” Ren said to Rubella.
+
+“No!” Groggot exclaimed. “Ren, you can't leave her here all alone!”
+
+“It's all right, Groggot.” Rubella said, and climbed out of the large cart, with Groggot close behind. “I'm a grown woman. I can't expect him to assume responsibility for me.”
+
+“After spending so much time with you, I can't just leave you out here alone.” Groggot said to her, then turned to Ren. “Please, Ren! Don't abandon her!”
+
+“I'm not.” Ren said. “As the overall commander of the Garrison, I order you to escort Rubella back to her home and see what the situation is like. If it's not the home she thought it was, or there's no home for her to go back to, or if it is her home and your job is done; leave a note at the Library for the Sage of Ages, and I'll come back here to pick you up.” Ren said. “That goes for the both of you, if necessary.”
+
+Groggot stood there and stared at Ren in shock.
+
+“What do you think, Rubella?” Ren asked her. “Does that sound like a good plan?”
+
+She knelt and held out a finger for Ren, and he shook it.
+
+“You don't have to do this, you know.” Rubella said. “I can make it on my own.”
+
+“If it turns out that you can't stay there, gather some supplies. Pick up seeds, plants, or anything that you would need to grow your own food.”
+
+“I... I don't have any money...”
+
+Ren smiled and put several platinum into a coin pouch and had her equip it. It re-sized to fit her, then she looked at the contents and gasped.
+
+“You... you...”
+
+“I hope you do find what you're looking for.” Ren said. “Good luck, both of you.”
+
+“It was nice meeting you, even under these circumstances.” Rubella said and smiled.
+
+“I feel the same way.” Ren said, and then Groggot took Ren into a hug.
+
+“I can't thank you enough.” Groggot said.
+
+“You shouldn't have said that.” Ren said. “Now you won't have anything to say when I equip you for the journey.”
+
+“Wh-what?”
+
+“I'm not going to let you just go traipsing off into the giant lands without at least something to defend yourself.”
+
+“But... but...”
+
+Ren took out one of the crates that had a suit of armor in it. His Mana bar had refilled, so he enchanted the pieces of armor with glyphs of Warding, that reduced the chance that the armor would be seen when looked at, and dyed the pieces black.
+
+“I've never done anything like this before, but if you wear all of the pieces, it should... should, mind you... give you a high chance of not being discovered.” Ren said and handed them to Groggot.
+
+“Ren... you don't have to do this.” Groggot said. “I'm sure I can...”
+
+“...take what I'm giving you.” Ren said. “Right?”
+
+Groggot reluctantly nodded and equipped the armor.
+
+“I can give Rubella a set of armor, too. It's for a man, so it will be uncomfortable to wear for long periods; but, it'll come in handy if you need it. Plus, it'll stay this size until you put it on.” Ren said and motioned to the empty crate.
+
+“I... I don't know what to say.” Rubella said. “Thank you.”
+
+Ren took out another set of armor and enchanted it as well. He drank 2 Mana potions to partially fill his practically empty Mana bar, then took out several bolts of fabric. Using Ruck's pattern as a base, Ren doubled up on the thickness of the backpack, since he couldn't use reinforced metal for the frame. He made the backpack with extra pockets and openings to the inside, then added extra padding where it would rest against Rubella's back.
+
+“Equip this and hand it back to me, please.” Ren said to Rubella, and she did so. It re-sized to fit her, and went from 2 feet wide by 3 feet high to 5 feet wide and 7 feet high. She passed it back, and Ren added a thin wood floor and wood braces around the inside of the backpack, to hold the shape. Handholds were next, and then a small ladder.
+
+“What are you doing?” Rubella asked.
+
+“Making somewhere for Groggot to stay.” Ren said and added a chair, which he nailed to the floor. “I think that's everything for this.” He said, then made a thick and long hooded cloak for Rubella. He dyed it black and handed it to her. She equipped it, and it re-sized to fit. She was covered from her head to her ankles, and she pulled the hood down and smiled.
+
+“You're amazing.” Rubella said, as she put the crate of armor he'd given her inside the backpack. “I can never repay you for all of this.”
+
+“Don't worry about that.” Ren said. “Just get home to your family.”
+
+“Thank you.” She said, and looked at Groggot. “Ready?”
+
+“Just a second.” Ren said. He sewed up a small harness, hung nearly all of the special wands from it, then handed it to Groggot. They were the wands of Entanglement, Distraction, Grease, Sleep, Fireball and a Major Healing wand. “Don't use the Fireball unless it's really necessary.” He said. “Like, a last ditch 'we have to get out of here' necessary.” He smiled. “The others you know how to use.”
+
+“You were right.” Groggot said as he put the wand harness on over the armor. “I don't know what to say now.”
+
+“That you'll be careful, won't take too many risks, and that I'll hear from you soon.” Ren said.
+
+“The same goes for me.” Croggart said. “I think you're an idiot for doing this.”
+
+“Yeah, I know you do.”
+
+“She tried to kill you.”
+
+“Yeah.”
+
+“She held you captive for weeks.”
+
+“Yeah.”
+
+“So explain it to me.” Croggart said. “Why are you doing this?”
+
+“Even though she was crazy, and nearly completely out of her mind, she was still nice to me.” Groggot said and looked at Rubella. “Despite everything she was going through, she took care of me first.” He smiled at her. “I want... I need to return the favor.”
+
+Croggart hugged his brother for a brief moment, then let him go. Rubella smiled and held open the top of the backpack. Groggot climbed in, she closed it, then put it on. Groggot opened one of the compartments inside and looked out over Rubella's shoulder.
+
+“Let's go.” Groggot said.
+
+The giant woman walked off into the night, with her lone dwarf escort on her back.
+
+*
+
+“You really don't have to do this.” Rubella said. “I can make it back on my own.”
+
+“I know you can.” Groggot said. “I'm just going along for the ride.”
+
+“You do realize it could take days, or even weeks for me to find out where I am, and how to get back home.”
+
+“Yeah, and I'll be right here the whole time. A little voice on your shoulder that will encourage you to keep going, no matter what.”
+
+A tear came to Rubella's eye, and she used the sleeve of the cloak to dry it.
+
+“Thank you.” She said, took a deep breath, and walked a little faster towards the border of the giant lands.
+
+*
+
+“Yeah, I definitely don't like this.” Croggart said. “We came all this way to rescue him, and now he's going off into an even more dangerous place.” He shook his head. “How could you let him go like that?”
+
+They climbed into the cart and Princess took off towards the dwarf lands.
+
+“You heard what Groggot said.” Ren smiled. “Even if she had been allowed in and we weren't, he was going in with her anyways. I just did my best to help hide and protect him.”
+
+Croggart huffed and sat in the back of the cart. He wasn't happy, but Ren was right. Once Groggot got an idea in his head, he was going to go through with it until it was done.
+
+I don't have to like it, though. Croggart thought.
+
+They traveled through the rest of the night, and stopped for food and rest occasionally. It didn't take as long this time, because they didn't have to detour to the cave to go back to the Garrison. They didn't go in a straight line by any means; since the terrain changed from sparce forests to barren areas, to rivers and hills, to tons of underbrush, and then back again.
+
+You know, with a regular water source, those large barren areas would be just as nice as the rest of the place. Ren thought as they passed yet another gully that should have had water in it. You're keeping a good eye out for rogue giants, aren't you, Teepo?
+
+“Nope.” Teepo chittered in laughter. “I'm just sitting here twiddling my antennae.”
+
+Ren smiled, and nodded slightly. “Here should be good.” He said, and Princess came to a stop. He unhooked the large cart from the back, moved it away a little, then lit it on fire. Teepo flew over to land on Ren's shoulder, so he could enjoy the view of the flames up close.
+
+“What the hell are you doing?” Croggart asked him.
+
+“Recharging my Mana Pool.” Ren said, and started using his Absorb Fire ability to change the energy into Mana. It didn't take long for it to happen, and the cart was reduced to nearly half of it's size. Ren stored it, fed Princess some food, and he and Croggart ate breakfast themselves.
+
+“We should be back home in a couple of hours.” Ren said, and yawned. “I need to get some sleep.”
+
+“Me, too.” Croggart said. “We've been up since yesterday morning.”
+
+Ren nodded slightly. “Well, it's almost over.” He said and stood up, then stretched. “I can't wait to tell Nathalia all about this.”
+
+“It's quite the story.” Croggart said. “Why don't you let me ride up front? You can catch a bit of sleep in the back, before we hit the Garrison.”
+
+“No, that's okay.” Ren said. “I just need to keep my mind focus-”
+
+Croggart shot him with the Wand of Slumber, and Ren's words were cut off as he fell to the ground unconscious. Croggart had taken the wand from the harness his brother wore when they hugged. He felt bad that his brother wouldn't have access to the sleep spell; but when a giant was awake, it didn't work well on them, anyways. It worked great on normal people, though. Croggart picked Ren up and put him near the back of the cart with Stacy and Riley. The two dogs looked at him, and he smiled.
+
+“He's really tired.” Croggart said, and went to the front of the cart. “Half-speed.” He said. “Let's go.”
+
+Princess took off as asked, and Croggart grinned. I just have to keep shooting him with the wand every couple of minutes if he wakes up.
+
+Little did Croggart realize that Teepo had been on Ren's shoulder, and had been caught in the Sleep spell as well. His small astral body had fallen to the ground when Croggart had picked Ren up. As the cart sped away from the spot where Teepo lay unconscious, Ren's Trouble recipe gathered the essential ingredients that it needed to make something awesome happen.

@@ -1,0 +1,231 @@
+---
+id: e2297902-d87d-5098-8304-91f05aff5168
+page-type-slug: story-chapter-royal-road
+title: "Chapter 542 - The Light Realm"
+slug: 0542-chapter-542-the-light-realm
+partOf: mythrans-master-of-all-continued-completed
+position: 542
+ownLength: 2760
+unit: words
+publishedAt: 2018-03-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204773/chapter-542-the-light-realm"
+royalRoadId: "204773"
+---
+
+Ren, Xuunah and Artemis stepped out of the portal and were met by several dozen Light beings and one Greater Light Elemental, whom Ren assumed was Zagatro. The Mana potential in the main portal room was off the charts, and Ren smiled at them as he silently summoned Teepo and then took a deep breath.
+
+“I. Come. In. Peace.” Ren's voice boomed out thanks to a quick Magic Mouth spell that he used to amplify his voice. He had debated raising his hands theatrically, then decided he didn't want to let go of Artemis' or Xuunah's hands.
+
+“You have no right to be here!” Zagatro yelled from behind the Light being magic users.
+
+“You have no right to judge Xuunah unfairly for sharing herself with another Light being.” Ren responded, and several of the Light beings floated from side to side as if agitated. He could feel their Fear quite clearly, so he activated his Controlled Berserk Rage ability for a second to turn his eyes red, then leaned forward slightly.
+
+“Boo!”
+
+“AHHHH!” Several of the Light beings screamed as they broke formation and floated around erratically. They bumped into each other comically, which looked weird considering they were made of light and should just partially pass through one another instead of bounce, and the entire line of mages was disrupted after only a few seconds.
+
+“Great Vasalor.” Zagatro said, and Ren felt his disappointment.
+
+“It's okay, Zagatro.” Ren said in his normal voice. “I'm here to help with that.”
+
+“Wh-what?”
+
+“The people here see us... physical beings... as aberrations and fear us.” Ren smiled. “They don't have to fear most of us.”
+
+“Only most?”
+
+“You would be fools to class all physical beings as 'not dangerous'.”
+
+Zagatro's body didn't move, but Ren almost felt his nod. “We try to warn them of the potential dangers of being around mortals.”
+
+Ren observed his scattered guards as they tried to compose themselves after the scare he gave them. “You did your job too well.” He said. “Your people will be useless if an actual crisis with the mortal world happened.”
+
+“Apparently.” Zagatro said and sighed. “Why are you here?”
+
+“To tell you your recall order is unjustified.”
+
+“Tell me? Don't you mean to appeal to my sense of right and wrong and implore me to change my mind?” Zagatro asked.
+
+“No, I'm telling you that you are wrong and the decision you made is based on your people's bias and not on the physical evidence.”
+
+“It doesn't matter what you made yourself look like...”
+
+“Ha. Your wrongness appears immediately.” Ren said. “I polymorphed, just the same as your own people do, and I became a Light being.”
+
+“They are deviants!” One of the Light beings said, and Ren felt her regain some courage and composure. “Willingly taking on the physical form just so they can interact with mortals is abhorrent behavior!”
+
+Ren chuckled. “I won't make a joke about not knocking it until you try it, but I don't want to shock you so much that you lose consciousness.” He said. “What I will say is that those individuals you have among you that have the polymorph ability, were specifically designed by Vasalor himself to fulfill the function you berate them for.”
+
+Everyone stopped moving at his words and Ren felt their intense scrutiny.
+
+“Not only am I one of his chosen, I've actually met him.” Ren said, and he felt their instant denial. “Before you start calling me a heretic or a blasphemer, I know most of you can tell if I'm lying or not.” He said. “Let them speak now to call me a liar.”
+
+No one said anything, and Ren smiled at them.
+
+“You have no mandate against someone changing into a Light being and sharing themselves with another Light being. You only have a mandate against a Light being polymorphing into a physical body then having sex with a mortal.”
+
+Zagatro couldn't argue against Ren's reasoning, and that was his job in the Collective. “Very well. We will take this under review and let you know of our decision.”
+
+“That's good and all, but I don't care what you decide.” Ren said, honestly. “I only came here to tell you that you were wrong in your judgment and to teach you a lesson.”
+
+Several of the Light beings let out a gasp at the truth in his words.
+
+“What lesson is that?” Zagatro asked, despite his desire not to.
+
+“Artemis? Take Xuunah's hand.” Ren said and activated his Etiquette skill.
+
+Artemis took Xuunah's other hand and let Ren's hand go, and Ren motioned to the Light being that had called Xuunah a deviant.
+
+“Ma'am, if you would come closer?” Ren asked. He felt her apprehension and her fear, and he smiled warmly at her. “I give you my word that I won't hurt you, and my promise that if I do hurt you, I'll stay here for an entire mortal day the day after tomorrow.”
+
+More gasps were heard at his offer to stay almost 14 years on her whim, and Ren felt her fill with confidence and a bit of vengefulness. She floated over to him arrogantly with her perceived power over him, which was exactly what Ren had intended.
+
+“Well? Show me this lesson.” She said.
+
+“Please stay still.” Ren said and held a hand up into the air dramatically. “I call upon he who created everything! Grant me the power to touch this lovely creature, even though I am solid and she is not!”
+
+Every one of the Light beings watched in fascination as Light burst out of Ren's hand and surrounded it. Ren had activated his Hands of the Gods ability and chose Restoring Hands, but they didn't know that, thanks to his little show. He moved the hand down and held it out to the Light being in front of him.
+
+“I've never done this before with a Light being.” Ren said. “Please forgive me if I touch you somewhere sensitive or inappropriately.”
+
+“It won't work.” She said confidently, but Ren felt her confidence start to waver. “Reach out and you will see.”
+
+“Thank you.” Ren reached out to where he thought her head would be if she were mortal, and very carefully laid his hand against the Light being. She gasped as his Light-covered hand touched her, and she actually felt it. Ren increased the Light his hand produced and slowly ran his hand down her side and traced the Light being's outline.
+
+Even though the Light being didn't move, he felt her shiver from his touch and the feel of his Light on her. After a few moments, her light started to shift color towards yellow, much to her and everyone's surprise, because it signified that she wanted to engage in a much deeper sharing. Ren eased the flow of Light he made as he slowly moved his hand away from her, and her color shifted back to pure white.
+
+“Thank you very much.” Ren said to her, then held his hand up to show everyone. “As you just saw, a physical being just touched a Light being! Neither of us had done that before, and the result was... well, surprising to say the least.” He said and smiled. “I must emphasize that my Light affinity is maxed, thanks in part to my bond with Xuunah, and doing something like this with just any mortal won't work.”
+
+“Then why is it a lesson you had to teach us?” One of the others asked.
+
+“It's the potential, isn't it?” The Light being Ren had just touched asked, and everyone focused on her. “If we ignore the possibility for compatibility, then we lose the chance that there might be something more.”
+
+Ren nodded. “I can't tell you that there will be others that will gain as high of an affinity, or that they will treat you the same.” He cautioned. “As with all things, you can't judge all of us by my example. Some of us are good and some of us are great; but, others are... well, they are not nice people.”
+
+Amusement came to him from everyone in the room.
+
+“Look, what I'm trying to say is... you can't judge a book by it's cover.” Ren said. “We are all different, you, me, everyone.” He said and looked at them. “You looking at mortals and saying they're all bad is like me looking at you and saying you all look the same.”
+
+Some of them felt offended at him saying that, and he raised his hands in surrender.
+
+“I don't believe that, it's just an example.” Ren said. “I can clearly see the differences in size and shape of you all.”
+
+They relaxed and he smiled at them once more.
+
+“Now, if you will excuse me, I need to get back to my own realm. I might have enough time to hang out with Zetaya.”
+
+“Don't you want to wait and see what the Collective decides?” The Light being Ren had touched asked. “They could decide against you.”
+
+“It doesn't matter.” Ren said. “You made your choice to send Xuunah to me to keep an eye on me, so I'm keeping her.” He said, and he felt their surprise. “You can have her back when she decides for herself to come back, and not a second before.”
+
+“Ren...” Xuunah tried to tell him that she would follow the directive her peers set out for her, and he turned and kissed her right on the lips to keep her quiet. Her chest glowed brightly as she kissed him back enthusiastically, despite having a huge audience, and his glowed to match.
+
+The Light beings watched in fascination at the exchange, since they had only ever seen viewings of those kinds of things and not in person. Ren felt their curiosity, especially from the Light being he had touched, and he slowed the kiss down and came to a stop. Xuunah panted a little, and then she remembered where she was and her face flushed to a bright red.
+
+“Even in physical form she can change her coloring!” The Light being close to him said, then ooo's and ahh's came from the others. Ren smiled at her and turned back to their audience.
+
+“Thank you for allowing me visit you, and I hope I never have to impose upon your good will again.” Ren said, and several of the Light beings chuckled.
+
+“Go... and be well, mortal.” Zagatro said, to try and distance himself from what just happened.
+
+“Zagatro, you know my name is Ren.” Ren said to counter his attempt, then smiled at everyone because he now had a hand to wave enthusiastically, which he did. “Goodbye!”
+
+“Goodbye.” The Light being that he had touched said.
+
+Ren gave her a slight nod as Teepo dissolved back into the ring. “Ma'am.” He said, then turned around and pulled Xuunah and Artemis through the portal and dismissed it.
+
+Stat Change!
+
+Etiquette (Mastered)  Allows proper behavior around nobility and those that hold high opinions of themselves. Your composure is so strong that you can activate this skill to influence the opinion of beings in all situations.
+
+Sweet. Ren thought as he dismissed the popup, then he summoned Teepo again and cast the spells to make him solid.
+
+Teepo landed on Ren's shoulder. “What an experience!” He chittered in laughter. “For a second there I thought they were going to try and roast us with magic spells!”
+
+“They were going to.” Xuunah said. “Even in this form I could hear the Collective and their urgent need to remove the contaminants.”
+
+Ren chuckled. “I guess that's what we were.” He said. “I'm glad talking to them worked.”
+
+“I don't know if it did.” Xuunah said as she dismissed her Barrier spell. “I should go back into my Sanctuary and see what happened.”
+
+“Is a few days enough time for them to reach a decision?” Ren asked.
+
+“It's possible, unless they called for a full meeting.” Xuunah said. “That could take a week or so.”
+
+“Then you should wait a few more minutes and then check, just to be sure.”
+
+“I thought you didn't care what they decided.”
+
+“I don't; but, you do.” Ren said.
+
+Xuunah nodded, and then her hand gripped his firmly. “Ren, I can't believe you did that for me.”
+
+“Me, either.” Ren said, and he felt her surprise. “Imagine that! Me trying to talk to people on your behalf!” He grinned at her. “I'm amazing!”
+
+Xuunah laughed. “You know what I meant.”
+
+“Yes, I do.” Ren turned and stepped up into the air, then gave her a hug to put his mouth by her ear to whisper. “I'm glad that I didn't have to threaten to kill them all if they didn't leave you alone.”
+
+Xuunah's face flushed red, and he kissed her cheek and let her go.
+
+“Teepo? How much time before breakfast?” Ren asked.
+
+“You've got about 5 hours or so before the night is over.” Teepo said.
+
+“I think I'll go and visit Zetaya until morning.” Ren said. “Xuunah, thanks for a great evening.”
+
+“You're thanking me?!?”
+
+“Of course I am. You let me be your first.” Ren said and kissed her on the lips, stepped down to the ground, and looked at Artemis. “Let's go over to the warehouse.”
+
+Artemis nodded and she and Ren went to the apartment door.
+
+“Ren.” Xuunah said softly, and he turned to look at her. “You really would have killed them all, wouldn't you?”
+
+“Like I said, I'm glad it didn't come down to me making that threat.” Ren said. “It leaves me a few other options before that final step.”
+
+“You... you know I... I would need to stop you if you did try that.” Xuunah said, and he felt her sadness. Ren walked back over to her and gave her a hug.
+
+“Yes, I know all about you being ordered to 'deal with me' when the time came.” Ren said. “Thank you for feeling so reluctant to do so.”
+
+“R-Ren...”
+
+“It's okay.” Ren said and looked up at her. “Sometimes angels need to become Avenging Angels. Why would I expect My Angel to be any different?”
+
+Xuunah put her hands into his hair and massaged his scalp. “How can you be ruthless and loving while using the same words?”
+
+“Oh, no! You've found me out!” Ren chuckled and gave her a big smile. “The intent underlying the act is what matters.”
+
+Xuunah bent down slightly and gave him a kiss. “I'll see you in the morning, Dearest.”
+
+“Goodnight, My Angel.” Ren said, and left her apartment. He and Artemis walked across the street to the warehouse and went inside. He saw the constructs Tee-one and Symmetra had made, and they were all variations of the different creatures Ren had met during his adventures. Most had extra arms and prehensile tails for balance, and they were all armed to the teeth.
+
+“I assume you all have the inherent Permanent Enlarge and Reduce Anything spell.” Ren said to the 20 constructs, and they all nodded. “Built in wands, too?”
+
+“The built in wands have Major Healing spells, and we gave them multiple attack wands as well as traditional weaponry.” Tee-one said.
+
+“What about Babylon?”
+
+Tee-one chuckled. “His wands are the size of the Spell Ballista.” He said. “They resized when he took possession of them.”
+
+“Nice.” Ren said and smiled. “Did you give him an even distribution of them?”
+
+“Better.” Tee-one said. “He's keeping them in inventory and can pull them out to any hand he has anywhere along the outside of the wall.”
+
+“Ha!” Ren barked a laugh. “He must be overjoyed!”
+
+“He is.” Tee-one said. “Once he realized the versatility...”
+
+“...he knew nothing could ever approach him and he could be ready to fight wherever the threat was instantly.” Ren said.
+
+“Do you still want the constructs deployed along key parts of the wall?”
+
+“No, that won't be necessary.” Ren said and looked at them. “They can be our skirmish team. Someone we call when the crap hits the fan and we need some heavy hitters.”
+
+Ren felt their acceptance of this idea and their enthusiasm.
+
+“I assume you...”
+
+“Regeneration, Speed runes, and Permanent Widen Effect.” Tee-one said. “When they are needed, they are going to kick ass.”
+
+“Awesome.” Ren said. “Thank you all for your hard work.” He said. “Now, I've got a date with Zetaya I need to keep.” He walked over to the giant forge and opened the walk-in door there, then stepped inside and shut it behind him.

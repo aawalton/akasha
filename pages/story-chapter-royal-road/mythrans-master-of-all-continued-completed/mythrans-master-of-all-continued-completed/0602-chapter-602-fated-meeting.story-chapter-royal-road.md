@@ -1,0 +1,303 @@
+---
+id: 8c17315e-56db-5fa8-ac89-6cfeaf3b61a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 602 - Fated Meeting"
+slug: 0602-chapter-602-fated-meeting
+partOf: mythrans-master-of-all-continued-completed
+position: 602
+ownLength: 2887
+unit: words
+publishedAt: 2018-05-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219840/chapter-602-fated-meeting"
+royalRoadId: "219840"
+---
+
+Lara struggled against her own character's nature to answer questions as a Sage. She could normally do that without any trouble and could even give an evasive answer; but, whatever the Amulet of Truth the man wore was imbued with, it made her feel really bad for refusing to answer. Her skin also felt like it was covered with bugs and creepy crawly things, and she resisted the urge to scratch at her skin.
+
+“Wh-why do you want to know?” Lara asked and tried to hold herself still.
+
+“I've read all of his books, even the stupid children's one, and it doesn't take a genius to see he's died several times already.” Glastor said. “I've seen his name at the top of the leader boards for a while now, and nearly every time it appears, it's a higher total.”
+
+“But...”
+
+“I've travelled a long way on foot to get here, Sage of Ages.” Glastor said. “It's taken me a long time to do it, too.”
+
+That explains the World Walker title. Lara thought.
+
+“I've made a name for myself by hunting down those that are worthy, so I've come to make an even bigger name for myself by defeating a five-time top leader board holder.”
+
+“I don't see... how you can do that...” Lara took a quick breath. “Logout.”
+
+System Notice!
+
+You cannot log out because you are currently locked into an XP gain for your class.
+
+“Pause Quest.” Lara said next.
+
+System Notice!
+
+The current Quest cannot be paused at this time. Please try again later.
+
+“Dammit!” Lara exclaimed and Glastor laughed.
+
+“Now you know why I have the amulet.” Glastor said. “The feelings are only going to get worse, and you can't escape.”
+
+“Watch me!” Lara said and cast another spell that only the Sage of Ages had access to. The world slowed down to a crawl, and she tried to stand up. The feeling of bugs crawling on her skin intensified and she stumbled to a nearby table. She took several deep breaths and looked back at where the man stood, and instead of looking at the floor where she had been, she saw that he was looking right at her.
+
+Lara opened the messaging system and sent a message to Ren and warned him about the guy. She tried to enter the man's information, and a warning popup appeared about sharing information not easily accessible.
+
+“Dammit!” Lara said and sent the message, then brought up her spell list to try and find something she could use to get herself out of there. “It's really dangerous, but I can use a Portal spell.” She said and did the required motions and thought about her destination. She poured out the Mana cost required and a portal formed in front of her.
+
+System Notice!
+
+You cannot leave the vicinity of the current Quest at this time. Please try again later.
+
+“No!” Lara almost yelled as the portal disappeared. She gave up trying to magic her way out and started to walk towards the Library's front door. When she was about 10 feet away from it, she received the same popup.
+
+System Notice!
+
+You cannot leave the vicinity of the current Quest at this time. Please try again later.
+
+Lara sighed loudly and sat down at the closest table, right at the edge of the area she couldn't leave. Now what do I do? She asked herself as she looked at the man and saw his head was still turned towards her, even though she had moved across the Library.
+
+*
+
+Ren woke up immediately when he received a message popup and he opened it. “LARA!” He said and Artemis hopped up off of him. He stood up quickly and took out the All-Seeing Mirror to check the destination, then cast the Portal spell. Artemis took his hand as he equipped his full set of platinum armor and they stepped through the portal into the Library's back room. His Aura covered everyone in the building and he felt Lara out in the main room. He also felt a huge Void Presence nearby.
+
+Ren and Artemis ran from the back room at about half their full speed, down the hallway, and out into the main library. He saw the large man right away, and his Aura Sense detected an Aura called Degeneration, which was the opposite of Regeneration. It was only 10 feet out from the man, so he and Artemis easily avoided it and ran around him.
+
+Despite their great speed, Ren noticed that the man was looking right at him. Ren looked around and couldn't see Lara; but, he could feel where she was so he ran over to her. When he and Artemis entered her small Aura, she touched them and the spell she had cast enveloped them as well.
+
+“Ren!” Lara said and hugged him. “He's here to k-kill you.”
+
+“You said that in the message.” Ren said. “Did he say why?”
+
+“H-he's making a n-name for himself.” Lara said. “He... he asked me how to k-kill you.”
+
+“What did you tell him?” Ren asked and saw her trembling body.
+
+“N-nothing!” Lara said.
+
+“Lara, I identified his Amulet of Truth. Unlike mine, the longer you don't answer, the more it will affect you.”
+
+Lara winced as the feeling of bugs started to bite her. “I... I can't tell h-him that!”
+
+“Then I will.” Ren said and turned to walk away.
+
+“Stop!” Lara said. “Wh-why are you doing this?”
+
+“Look at you.” Ren said. “If he gets the answer, he might turn the effect off.”
+
+“C-can't you... destroy it?”
+
+“I can; but, it might not work because you're already being affected by the enchantment.” Ren said and looked around. “This is neat.”
+
+“It's a s-spell.” Lara said. “I c-can't tell you wh-what it is.”
+
+“I didn't ask.” Ren said and smiled. “Now, dismiss the spell and tell him.”
+
+“Ren, I love you.” Lara said and tears came to her eyes. “I'm so sorry about this.”
+
+Ren wiped her tears away. “I know you are, beloved.”
+
+Lara took in a breath and let it out, then dismissed the spell.
+
+“Ren! How did you get here?” Rosie asked as she walked over to him.
+
+“Magic.” Ren said and helped Lara walk over to the man that came there to kill him, and stopped 15 feet away. “The Sage of Ages has something she wants to tell you.”
+
+The man looked at Ren with a thoughtful expression. “You are Ren the First.”
+
+“I have that title.”
+
+“My name is Glastor Killdane and I'm here to kill you.”
+
+“I know.” Ren said. “The Sage of Ages is about to tell you how.”
+
+Lara sighed and then opened her mouth. “There are several ways to kill Ren the First.” She said. “All of which reduce his Health to zero and he dies.”
+
+“Yes, I know. Get on with it.” Glastor said.
+
+“You need to bypass his protective enchantments, cancel his Regeneration, and then cause enough damage to either give him the Bleeding Profusely condition or sever a limb.” Lara held back a sob as the feeling of bugs crawling on her and biting her stopped. “Then you can take his head.”
+
+“Is that all?” Glastor asked and smiled.
+
+Ren saw the man's smile expand and the mouth distorted to show a hundred sharp teeth. Teeth he remembered seeing before. “You've been through Shargon Caverns, haven't you?”
+
+“I have had that experience.” Glastor said.
+
+“How did you get by the final boss?”
+
+“I slew the pig demon by summoning another demon inside of it, which made it explode, then walked out through the opening that appeared.”
+
+Ren let a big smile spread across his face. “I just remembered where I saw those teeth.”
+
+“Excuse me?” Glastor asked.
+
+Ren cast Full Illusion and recreated the Vampiric Blood Sword and held it up, and Glastor hissed and jumped back 20 feet. Unfortunately, the wall was only 15 feet away and he hit it and crashed through it as if it wasn't there.
+
+“Hello there, Minor Demon.” Ren said and pretended to store the blade as he dismissed the spell, so the demon would think he still had the sword. “I'm glad to see you've recovered from your wounds.”
+
+Glastor waved a hand and was covered in a shadow blacker than night, so Ren activated his Light and Anti-Void runes in his armor. Since the man was well within Ren's Aura, it hit him right away.
+
+“AGGHHHH!” The demon screamed, and then Glastor glowed red. The demon quieted down and then his eyes bled.
+
+“So, it's not a true possession.” Ren said. “I'm glad.”
+
+“How can you affect him like that?”
+
+“I've beaten him in hand-to-hand combat and nearly killed him.” Ren said. “I think he figured if he merged with someone, he'd have a good chance at revenge.”
+
+“He does.” The man said and tried to step back into the Library.
+
+“You're barred!” Rosie said, and a magical barrier appeared in front of him. “You've caused a lot of damage to my precious Library, and you will no longer be allowed on the premises!”
+
+The man sighed. “It was unintentional.” He said. “I will pay for the damages.”
+
+“That's okay.” Ren said and knelt on one knee. “I'll be out to talk to you in a minute.”
+
+“Wait!” Glastor said. “What are you doing?”
+
+“Watch.” Ren said and smiled at the man's shocked expression and feelings as the wall he had destroyed knitted together and reformed as if it hadn't been damaged at all.
+
+“Wow.” Rosie said. “How did you do that?”
+
+“Do I have to keep saying 'magic' every time I do something?” Ren asked and chuckled, and Rosie shook her head.
+
+“That was amazing, like always.” Rosie said and went to step close, then she stopped. “Ren, you... why can't I...” She reached a hand out to touch him, then pulled it back. “Something's wrong, isn't it?”
+
+“Yes, and it's going to stay that way until I decide I've had enough of it.” Ren said.
+
+“Please decide soon.” Rosie said and tears formed in her eyes as she walked back to her desk.
+
+“Ren, he's going to kill you.” Lara said.
+
+“I haven't even fought him yet and I've already lost?” Ren asked, and she sighed.
+
+“You know what my abilities are like.”
+
+“Then look for a chance where I don't die.” Ren said.
+
+“Ren...”
+
+Ren gave her a hug and a kiss. “I'll be okay.”
+
+“Can you ever forgive me?” Lara asked.
+
+“For what? Telling him the truth?”
+
+Lara nodded.
+
+“Lara... Lisa...” Ren kissed her cheek. “Killing this body means almost nothing to me.” He said, then leaned in and whispered in her ear. “I'm really glad he didn't ask how to kill my heart.”
+
+Lara caught her breath when she saw what Ren meant for an instant, then he kissed her on the lips once more.
+
+“I'll see you later.” Ren said and walked over to the wall and cast Pass Wall on it, then he and Artemis stepped through. Glastor Killdane was actually surprised to see Ren actually come out to see him so soon, and also through the wall.
+
+“Well, aren't you the little show off.” Glastor said, and Ren chuckled. “What's so funny? I'm trying to insult you.”
+
+“Calling me short is just the truth and not an insult.” Ren said. “Want to try again?”
+
+Glastor opened his mouth to respond, then shook his head.
+
+“So, is this it? You want to kill me right here, right now?” Ren asked.
+
+“I wouldn't be here otherwise.” Glastor said.
+
+“But... who would know?” Ren smiled slightly. “Just you and me, right?”
+
+“Only I need to know it happened.”
+
+“Then go tell everyone you killed me.” Ren said. “It doesn't require any proof.”
+
+“I want proof.” Glastor said and smiled. “Like the Sage of Ages said, I'll be taking your head.”
+
+Ren chuckled. “That can't happen.” He said. “Even if you don't loot me right away, the game will fade me out anyways.”
+
+Glastor frowned. “How am I supposed to prove I've killed you if I can't have your body?”
+
+“Well, two ways, actually.” Ren said. “One, we send out a blanket message to anyone that wants to come and see an epic fight between us during the next real life weekend.” He said. “I'm sure there's someone you want to see it.”
+
+Glastor didn't say anything, but Ren could feel that it was true. He then gave the man the hope of what he wanted.
+
+“Did you know there's a way to record an event and make a Full Illusion out of it?” Ren asked, and that did it.
+
+“Very well.” Glastor said. “I will come back on the weekend and we shall give the people a show they will never forget.” He said. “You will record it for me and give it to me, so I can put it on display for everyone to see.”
+
+“What do I get if I win?”
+
+“The same thing, obviously.” Glastor said. “A recording of my defeat that you can show to everyone.”
+
+“No, thanks.” Ren said. “I'd rather have something that I could use.”
+
+“Then what do you want?”
+
+“I'd ask you to summon a demon of my choice, for me to use as I see fit, without repercussions.” Ren said.
+
+Glastor couldn't see what he would want with a demon, so he nodded. “Agreed.”
+
+“Great!” Ren said. “I'll start sending around the messages and letting everyone know to come, and I'll see you on the weekend.”
+
+“Hold on. How do I know you're not going to discover everything about me before then and figure out how to beat me?”
+
+“I can joke and say you won't know what hit you, but instead I will give you my word, under your amulet, that I won't research you at all.”
+
+“Ren!” Artemis exclaimed, and Ren looked at her. “Why did you say that?”
+
+“I'm just telling him the truth.” Ren said and looked back at Glastor Killdane. “What do you say?”
+
+“I'd say you're a fool to give up such opportunities; but, it pleases me that you will remain ignorant for a little while longer.”
+
+“Until then, I must ban you from my domain.” Ren said. “I will lift it once the arena is built and it's close to the time of the fight.”
+
+“Arena?” Glastor asked.
+
+“What? Did you think we would fight in the street or something?” Ren laughed. “I don't think so.” He said. “People are going to want ringside seats to see this thing.”
+
+Glastor nodded. “I will leave until then.” He said and tried to summon a shadow. It wouldn't form, and he looked at Ren.
+
+“Oh, right.” Ren said and turned off his Anti-void and Light runes. A pitch black shadow appeared and covered Glastor, then Ren felt his presence disappear from his Aura. “I ban Glastor Killdane from my domain.”
+
+Ren chose okay when the confirmation popup appeared, then he received another popup.
+
+New Quest!
+
+You must face a new rival who has powers you know very little about. If you win, you will prove beyond a doubt that you can defeat all comers. If you lose, you will lose something precious to you as well.
+
+Rewards: ????
+
+Penalty for Failure: Death, ????
+
+“Let's go.” Ren said to Artemis and used the All-Seeing Mirror to see that the spot he wanted was clear, then cast the Portal spell. He took Artemis' hand and they stepped through the portal and back into the bedroom.
+
+“That was a little scary.” Teepo commented. “He's really strong.”
+
+“I know, and the Minor Demon is pretty angry.” Ren said.
+
+“It's too bad you don't have that Vampiric Blood Sword anymore.” Teepo said, sadly.
+
+“I'll just have to deal with him another way.” Ren said.
+
+“What's going on?” Seldanna asked and sat up.
+
+Ren explained what just happened, and she stood up.
+
+“We will fight by your side.” Seldanna said. “We know what he is capable of, Ren.”
+
+“Even joined to a human?” Ren asked, and she shrugged.
+
+“I feel your reluctance to hear what I know, so you will have to settle for my constant presence until he returns.”
+
+“Mine as well.” Ellaria said.
+
+“Us, too.” Katori and Chenoa said together.
+
+Suniva stood up on the pillow. “We're all going with you.”
+
+“Then let's get my errands done.” Ren said, and they looked at him like he was crazy. “I've got enchantment deliveries to make.” He said and took out the piece of parchment paper Anabelle had given him yesterday to visit customers that needed their armor enchantments altered.
+
+“It shouldn't take long to do them.” Artemis said as she looked at the short list.
+
+Ren nodded. “When we're done of these, we can go and pick up the Image Recording Device from the capital.” He said. “I'm going to need it sooner rather than later.”
+
+Ren picked Suniva up and she sat on his shoulder, and they left the bedroom and then the house. They went to the various addresses around the city so Ren could do his work. He finished up quickly and they all went back to the house to get Princess, then Ren rode her towards the capital city of the Human Kingdom and to a date he hadn't realized he was really late for.

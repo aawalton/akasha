@@ -1,0 +1,459 @@
+---
+id: f1598536-6952-5557-829b-b5b4b7b87353
+page-type-slug: story-chapter-royal-road
+title: "Chapter 369 - Teaser"
+slug: 0362-chapter-369-teaser
+partOf: mythrans-master-of-all-continued-completed
+position: 362
+ownLength: 4567
+unit: words
+publishedAt: 2017-09-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164247/chapter-369-teaser"
+royalRoadId: "164247"
+---
+
+Lara walked into Nathalia's Nourishment and then right by the woman that sat people.
+
+“Excuse me, miss.” The woman said. “Do you need a table?”
+
+“No, I'm here to meet someone.” Lara said and walked towards the back.
+
+“You can't just...”
+
+“Sure I can.” Lara said. “I'm the Sage of Ages. He just doesn't know he's waiting for me yet.”
+
+The woman stopped following Lara and went back to the front. She must be crazy. The woman thought and seated the next customers while Lara walked around the partition and through the curtain.
+
+“Lara!” Ren said and stood up. “It's nice to see you.”
+
+“I caught you at the right time, I see.” Lara said and winked, then glanced at Anabelle. “Hi, Anabelle.”
+
+“Hi, Lara.” Anabelle said. “Are you eating, too?”
+
+“Definitely.” Lara said. “All I need is a chair and a plate of food.”
+
+“Coming right up.” Ren said and took out a chair for her to sit on. Next to come out was an icebox and he gave her a plate of food and stored the icebox again. “Do you want me to...”
+
+“Cold is fine.” Lara said and started to eat. “Even cold, the food here is delicious.”
+
+“I know.” Anabelle said. “I eat here all the time when I'm not too busy.”
+
+Ren sat down and kept eating himself. “I'm glad you showed up.” He said. “I was about to send you a message.”
+
+“About what?” Lara asked.
+
+“I've got Adventurer's business for a few days, and wondered if you'd like to come along.”
+
+“I can visit you again?” Lara asked.
+
+“You don't really need my permission, but yes.” Ren said. “I've asked a couple of people over so you can all meet.” He said. “I also want to discuss a few things.”
+
+“First thing in the morning?”
+
+“If you're okay with that.” Ren said.
+
+“I am.” Lara said and took another bite. “Ren, we have to talk.”
+
+Ren nodded. “Let's eat first, then walk Anabelle home.”
+
+The three of them ate in silence, and when they were done, Ren stored the extra plate and the chair. They got up to leave and the server came through the curtain.
+
+“Oh! You're leaving already?”
+
+“Urgent Adventurer business.” Ren said. “Do I pay you, or out at the front?”
+
+“I can take it.” The server said. “It's 3 gold for the two meals, and 10 silver for the table.”
+
+Ren gave her 4 gold coins and she slipped them into her coin pouch.
+
+“Thank you, My Lord.”
+
+“No, thank you.” Ren said and took her hand. “Your prompt service allowed me to leave without wasting the meal or my time.” He said and kissed her hand. He held it slightly longer than he normally would because he knew that she liked having her hand kissed, then stopped and let her hand go. “Until the next time.”
+
+“Y-yes, M-my L-lord.” The server stuttered and stepped out of the way, and Ren left the back area with Anabelle and Lara on his arms.
+
+Nathalia, I need to go. I'll be back when supper is over.
+
+Okay, Ren. Nathalia thought. I love you.
+
+I love you, too. Ren thought, and when he left the restaurant, the collective he had with Nathalia faded. Ren and Lara escorted Anabelle back to the shop, and Ren kissed her goodnight.
+
+“Thank you for the date, My Lord.” Anabelle said. She went inside, and Ren and Lara walked down the street and around the corner.
+
+“You've done wonderfully by her, Ren.” Lara said. “You wouldn't believe what she's been through.”
+
+“I know.” Ren said. “Of course, I'm kind of in the same boat, right?”
+
+Lara nodded and held a hand out. Ren took it without hesitation, and Lara closed her eyes for a second. She opened them, but her eyes were blank. Ren wasn't sure how she could keep walking like that; but she was, so he kept an eye out for any hazards.
+
+“Your mission is going to be dangerous.” Lara said. “Bringing Elerlyth into the group was smart. She's going to be a real asset.”
+
+“What about...”
+
+“You need to build them up more before you ask.” Lara said and her eyes weren't blank anymore. “If you push, it'll fall apart before you start.”
+
+Ren nodded. “That's what I've been worried about.”
+
+Lara squeezed his hand and a couple of minutes later, they arrived at the Library. They went inside and nodded at the Head Librarian, then went to the back storage room. Lara opened her closet and Teepo jumped off to land on the wall as she led Ren inside and shut the door.
+
+Lara turned around and her eyes smouldered with pent up passion. “I know it doesn't seem like a long time since... since we... ”
+
+“I promised not to bug you, remember?” Ren said, and she laughed at their old joke as he reached out to touch her face. “You know I'd be in here all the time with you, if I thought my body in real life could survive it.”
+
+Lara chuckled and wrapped her arms around his neck. “You know, I wanted to sneak under the table at the restaurant and give you the same treatment that Anabelle did.”
+
+“Hey, we can always go back.” Ren grinned, and Lara kissed him. She gripped him tightly and her body burned to feel his skin on hers. She stored her clothing, and Ren felt the change under his hands and stored his clothing, too. He left on the Dire Wolf Hooded Cloak because he didn't know if the spider would survive in the inventory, and he didn't want to take the chance of losing it.
+
+Lara discovered that Ren was quite ready for her, and it pressed against her stomach. “Don't make me wait anymore.” She said, and Ren picked her up. She gasped as they joined together, and she kissed him hard as he pressed her up against the wall and made love to her.
+
+*
+
+“I'm going to kill him.” The attendant said as she watched her Queen, the Queen of the Dark Elves, as she writhed on the stone floor. “He needs to die for putting her through this!”
+
+“But, he doesn't... oh, never mind.” The healer said. She was tempted to touch her Queen's forehead and see what Ren was doing; but, she was pretty sure she knew what was happening.
+
+*
+
+Ren and Lara enjoyed each other a few times, but they knew if they stayed much longer, too much real time would pass in the game. Lara gave him one last kiss and took his hand, chose the Aurora Library and opened her door. She led him out into the storage room and shut the door.
+
+“I'll see you soon.” They said at the same time and laughed, gave each other a quick kiss, and let their hands go. Teepo dropped onto Ren's shoulder and he left the back room only a minute after going in. He left the Library and ran up the street and back to Nathalia's restaurant. He still had a few minutes to wait; but he knew if he didn't go in, she wouldn't know that he was back. He went inside and felt the collective form between them.
+
+“My Lord, you're back.” The woman who sat people said. “What can I do for you now?”
+
+“I'm just waiting for the owner to deliver a message for me.” Ren said. “Can I just stand over there and look handsome?”
+
+The woman chuckled. “Normally you'd have to be a paying customer; but, since you ate here tonight already... go ahead.”
+
+“Thank you.” Ren said and walked over to stand by the wall and waited patiently. He didn't try to push anything into the collective, or try to distract Nathalia while she was working. He kept his mind as blank as he could, and he felt her appreciation for his efforts. Nathalia came out of the kitchen a couple of minutes later, waved to him, then went into the storage area and the portal there. It was a few minutes later when she came out of the storage area, and she had a piece of parchment in her hand.
+
+“Here you go, My Lord.” Nathalia said and handed it to him.
+
+“Thank you very much, M'lady.” Ren said and took it from her. He looked at the list for a moment and then stored it. “Tell Ereka thank you as well.”
+
+“I'll let her know.” Nathalia said. “If that's all, My Lord?”
+
+“Yes, M'lady.” Ren said and gave her a slight bow. “I look forward to the next time we meet.”
+
+“As do I.” Nathalia said, and she went back into the storage room. Your Etiquette skill is really high, isn't it?
+
+There's only a couple of levels until it's mastered. Ren thought to her.
+
+I almost couldn't tell that you've had sex. Nathalia thought to him, but she wasn't sure why she was thinking it.
+
+I wasn't hiding it, my dearest love. Ren thought. I can share it with you, if you want.
+
+No... no... not yet. Nathalia thought. I... I still need time to adjust, Ren.
+
+Take all the time that you need. Ren thought. I'm still going to give you my love, though.
+
+W-wait! Nathalia thought, then Ren poured all of his love for her into their collective. Her heart and mind were overrun with it; but, it didn't drown or suffocate her like she thought it would. It was like a warm blanket that held her and comforted her, and she didn't fight the feelings. She took them and hugged them, then held them tight.
+
+Oh, Ren. Nathalia thought.
+
+I'll always be yours, my deepest love. Ren thought. No matter where I am or who I am with.
+
+Nathalia nodded, even though he couldn't see her, and she stepped through the portal back to the dwarf lands.
+
+Ren felt Nathalia leave the collective and stopped sharing his love for her. He said goodnight to the woman that sat people, and left the restaurant. He stepped around the corner and took out the list, opened the Land Owner menu, and ordered all of the things on the list. He used the county's budget, just so he would know how much it would cost, and he saw it was almost 10 platinum coins.
+
+Ren set the medical supplies to be delivered to the Main House, then looked to see if sand could be delivered as well. It could, so he chose a hundred tons for himself and a hundred tons for Janice, set it to be delivered to both addresses, then used his own money for those. They were personal purchases, and weren't actually for the county at all.
+
+With those tasks done, he ran down the street and back to the Housing District. When his Aura merged with the shared Aura, all he felt was contentment and happiness. He went inside, up the stairs, and into the bedroom. The maids had laid down in the middle of the bed and kind of cuddled each other, and he took off the Dire Wolf Hooded Cloak and refilled the saucer of Health potion for the tarantula.
+
+“I'm going to be gone for a couple of days, then I've got a quest with my new party.” Ren reminded them. “I'm not going to see you for a while.”
+
+“After what you just did for me...” Verwynn smiled when she felt what the other maids felt. “...for us... we can stand a couple of days with out you.”
+
+“Somehow.” Frikara said.
+
+Ren took out an icebox so they could eat while he was gone, then except for his underwear, stored his clothing. He climbed onto the left side of the bed and laid down.
+
+“Hey, where did the money go?” Ren asked.
+
+“It's stuck to Verwynn's back.” Navruth joked, and they all laughed.
+
+“That reminds me... I don't have to leave for...”
+
+“Half an hour.” Teepo offered.
+
+“...half an hour.” Ren said. “If I'm not mistaken, it's Navruth's turn.”
+
+“Are... are you serious?” Navruth asked, and Ren smiled.
+
+“If you're up to it.”
+
+“But... I mean...” Navruth blushed. “We can feel that you...”
+
+“Anabelle was kind enough to help me deal with how I felt after pleasing Verwynn.” Ren said. “Then Lara showed up...”
+
+“That was nice of them.” Frikara said. “But, Ren... we could have helped you with that.”
+
+Ren shook his head. “I've been very careful with all of you so far, and until I talk to Lara, Elerlyth and a couple of others, I can't do anything but play with you.”
+
+“But...”
+
+“That might be all I can do.” Ren said. “So, just be prepared if that happens.”
+
+“I... okay.” Frikara said. “Thank you for being honest.”
+
+“I've thought about doing a lot of things, but lying to you wasn't one of them.” Ren said and looked at the maids. “That goes for all of you.”
+
+Navruth sat up and crawled over to him. “Are you going to do what you did with Verwynn?”
+
+Ren shook his head. “I had another idea.” He said. “Spoon, please.”
+
+Ren turned onto his side and Navruth laid down in front of him. He pulled her in close, and she took in a deep breath as he put his arms around her and started to massage her breasts. She thought it was a little awkward doing it on the side like that, but then Ren started to nuzzle her ear and she started to shiver.
+
+“Already?” Ren whispered in her ear.
+
+“My... my ears are...”
+
+“Let me take care of that.” Ren said, then sucked, licked, and kissed her ear as he kept massaging her breasts.
+
+“Oh... OH!” Navruth said as she finished. It was just a normal one, though... and the maids hadn't come closer to touch her so they could go along for the ride.
+
+“Now that the easy one is out of the way.” Ren whispered to her. “Now it's your real turn.”
+
+The other maids slid across the bed to take her hands and they held onto her. Ren nuzzled her neck and moved one of his hands from her breasts and slid it down the side of her almost athletic body and stopped at her hip. He felt anticipation from her and the maids, and he inched his way down. He stopped just above her private area and started to massage her there.
+
+Ren felt the reactions from all of them as he stimulated Navruth, and they all shared in her feelings. He moved both hands in circles; one on her breast and one on her pelvis, and all 5 maids breathing were in sync with the motions. Once he had them locked into it, he sucked Navruth's earlobe into his mouth and bit it lightly, then plunged his hand between her legs.
+
+They all gasped at the same time as Ren had aimed perfectly and his hand slid inside her underwear and stimulated Navruth directly. They all moaned together as he massaged her, and it wasn't long before her legs clamped on his hand and Navruth finished for real. The other maids went along for the ride this time and finished as well, and they all sighed as they rode the flood of bliss through the shared Aura.
+
+They stayed like that for several minutes, and then Navruth's legs loosened up and let his hand go. Ren slid his hand out and another hand took it. He watched as Navruth brought his hand to her lips and licked it clean, then she turned to face him.
+
+“I was going to do that.” Ren said, and she smiled at him.
+
+“I know you were.” Navruth said. “But you can't, not until...”
+
+Ren opened his mouth to argue, then nodded. “You're right.”
+
+Navruth leaned in and kissed him.
+
+“You need to go.” Teepo said.
+
+Ren broke the kiss. “I have to go.”
+
+“You sure do.” Navruth said and looked down at him.
+
+Ren chuckled. “I meant I have to leave.”
+
+“I know.” Navruth said and smiled demurely. She and the other maids moved over on the bed a little, then laid down. “Goodbye, Ren.”
+
+“I'll see you all when I get back.” Ren said and laid back on the bed. “Logout.”
+
+*
+
+“By the gods!” Navruth said. “I almost grabbed him!”
+
+Frikara chuckled. “That was my thought.”
+
+“Mine, too.” Lusinia said.
+
+“I thought it was just me.” Verwynn said.
+
+“He deserves it.” Andrela said. “He's done so much for us, and we...”
+
+“...we haven't done anything except tempt him.”
+
+“We sold all that glassware.” Verwynn said.
+
+“You sold all that glassware.” Frikara said. “Who would have thought we'd have a natural peddler among us?”
+
+Verwynn laughed. “The people here love striking a good deal just as much as dwarves do!”
+
+Frikara nodded. “That was surprising to discover.”
+
+“So...” Navruth said to get the subject back on their problem. “If it does turn out that he can only play with us...”
+
+“...then we can only play with him.” Frikara said. “We can't even imply that we want sex.”
+
+“How in the world are you going to manage that, Frikara?” Lusinia asked. “You've always told him you wanted it.”
+
+“With your help I can do it.” Frikara said. “Keep me restrained. Bottle me up. Hold me back.”
+
+“I hope we can do that.” Andrela said. “You're the strongest of us.”
+
+Frikara hugged her. “We're all strong, Andrela.” She said and looked at her fellow maids. “You can all feel how strong we are now.”
+
+They all nodded.
+
+“If he can only satisfy us and never himself, then we will become the best maids a Lord could ever have.” Frikara said. “He will want for nothing, and we will give him everything that we are.”
+
+“Agreed.” The other maids said, then they laid down in the bed together.
+
+“I'm still surprised he never asked for the money from the market stall.” Verwynn said a few minutes later, and they all laughed.
+
+********
+
+Ren slipped off the VR headset, and saw Barbara and Stella as they stood by the bed. “Good morning.” He said and held the headset out to Stella. She took it and set it on the dresser by the bed.
+
+“Ren...”
+
+“We should talk.” Ren said and got out of bed. “But first? A bathroom break.”
+
+Stella nodded and Ren went to the bathroom to take care of business. He came back out a few minutes later and sat on the bed.
+
+“Ren...”
+
+“I've invited a couple of people over.” Ren said.
+
+“I know.” Stella said. “That's what I want to talk about.”
+
+“You think having Lisa and Gloria here with Elise is a bad idea.”
+
+“The worst.” Stella said.
+
+“Why?”
+
+“Why, he asks.” Stella said and shook her head. “Ren, the reason you can see multiple women is because they don't see each other.”
+
+“What?” Ren looked at her with wide eyes. “I don't want them to date!”
+
+Stella sighed. “That's not what I...”
+
+“Let me.” Barbara said. “Ren, each of them believes they are your girlfriend.”
+
+“No, they don't.” Ren said.
+
+“Ren...”
+
+“Gloria doesn't want anything in real life, so it's only game time for her. Although, she was upset for some reason when she found me in bed with the maids...”
+
+“It's because she thinks you're hers.”
+
+Ren chuckled. “Not only has she never claimed me like that, she's never even mentioned taking our relationship past the 'sex for food' stage in the game.”
+
+Barbara couldn't argue that. “Well, Lisa...”
+
+“We just started seeing each other. She knows all about... well, everything. Both in the game and out. She knows Elise is my girlfriend.”
+
+“Then, about Elise...”
+
+“I've told her, and I'm sure either you or Stella have also told her, all about Lisa.” Ren said. “I've hidden nothing at all from anyone.”
+
+“But, still...”
+
+“I've even asked Denise about this.” Ren said. “She hasn't given me a response, though.”
+
+“You have?” Stella asked.
+
+“You sound surprised.” Ren said. “Like I said. I'm not going behind people's backs, or starting things without telling everyone exactly what's going on.”
+
+“I think that you should just...”
+
+“Look, we'll see what happens when Lisa gets here later this morning... and when Gloria gets here.” Ren said. “I'm pretty sure she won't be here until tonight, though.”
+
+Unable to come up with any real counter-arguments for Ren's statements, Stella gave him his breakfast and he ate it in relative silence. When he was done, he got up off the bed and changed into his jogging pants and a t-shirt. “I feel like going for a walk in the workout room.”
+
+Stella and Barbara exchanged glances, and Stella shrugged.
+
+“Well, get in the wheelchair and I'll take you down.” Barbara said. “Donald is already there.”
+
+Ren smiled. “Thanks.” He said and sat down in the wheelchair, and Barbara pushed him out of the room, down the hall, and over to the elevator.
+
+*
+
+Officer Holly Stonewall had logged out that morning, had a shower and got dressed, ate breakfast, then waited for her partner to pick her up. She heard a familiar car horn and left her house at a jog. She opened the passenger door of her partner's car, sat down and put on the seatbelt, and the car sped down the street.
+
+“Nothing new last night after finding him?” Detective John Ramirez asked.
+
+“He ran around the city to a few places, but he was in...” Holly took out her notebook and looked at the recent page. “Walin County.” She shook her head. “I still haven't figured out how he's moving so fast between the city and there.”
+
+“No clues from the stable or blacksmith?”
+
+Holly shook her head. “They can't explain it, either. They've never heard of anything that could move that fast.”
+
+John chuckled. “Leave it to him to find a way to do something weird or funky.”
+
+“Like his personal maids.” Holly said.
+
+“His what?” John asked and glanced at her, then back at the road.
+
+“Personal maids.” Holly said. “He apparently rescued them from...” She looked at her notes. “...a thieves guild, and they're under contract to him now.”
+
+“Under contract?”
+
+Holly nodded. “It took some digging, but when I finally managed to bribe one of the mansion's guards, he filled me in on what personal maids are for.”
+
+“That doesn't sound good.” John said.
+
+“It's not.” Holly said and let some of her anger show. “They... they're... legal prostitutes.”
+
+“WHAT?” John yelled and looked at her, then almost lost control of the car. He slowed down and pulled over, put the car in park, and turned to his partner. “Explain.”
+
+“Sometimes women, if in dire straights or some other nonsense, will sign a contract with a man. He provides them with food, shelter, and clothing... and they provide him with... anything... he desires.”
+
+“Oh, god.” John said.
+
+“It gets better.” Holly said. “They have parties at the mansion, and the guests can bid on which personal maid they can spend some 'quality time' with at the end of the night.”
+
+“You're kidding!”
+
+“I wish I was.” Holly said. “I was tempted to punch the guard in the face right there.” She sighed. “I know it wasn't his fault and that he isn't responsible; but, he knows it's going on and doesn't say anything.”
+
+“He probably bids himself when he can.” John said, and Holly looked at him. “They don't have parties all the time, right? What do the maids do during their off time?”
+
+Holly blinked her eyes at him for a few moments, then she scowled. “Dammit, I should have punched him!”
+
+John laughed. “You'd have been tossed in jail before your punch landed.”
+
+Holly opened her mouth to say that she could have gotten away; but, then she remembered she was only level 1 in the game and reluctantly nodded.
+
+“I can't believe Ren has personal maids.”
+
+“Yeah, six of them.” Holly said.
+
+“Did you say six? He has six personal maids?”
+
+Holly nodded. “He was rewarded one of the mansion's maids when he received his knighthood and land grant.” She said. “He's got quite the collection of them now.”
+
+“How does he satisfy them all?” John asked. “It's difficult for a man to satisfy one woman, but 6? Is that even possible?”
+
+“They take turns.” Holly said, a little disgusted.
+
+John sat back in his seat. “Yeah, that could work.”
+
+“John!” Holly exclaimed.
+
+“What? It would.” John said. “Taking turns with them would give them all personal time with him, and they'd all be happy they were all getting attention.”
+
+“You're supposed to be outraged at this!” Holly said.
+
+John reached out and put a hand on her arm. “Holly, it's a game. You said it yourself, it's legal prostitution. Even if we could somehow police a virtual world game, we still couldn't interfere with it.”
+
+Holly squinted her eyes and stared daggers at him.
+
+“Don't be mad at me, Holly.” John said. “You know I've got your back.” He squeezed her arm. “If it was real life, I'd be the first one in there to kick the mansion's door down.”
+
+“I... yes, I know.” Holly said and let her anger subside. “It just burns me up that it's happening!”
+
+John nodded. “I'm with you.” He said. “But for now, we've got to check the temporary care facility and see if anyone has tried to visit Ren.”
+
+Holly sighed and nodded, and John put the car in gear and drove to the building. He parked and they went inside to talk to the worker at the desk. They were quite surprised when they heard what she had to say.
+
+“What do you mean he's not here anymore?” Officer Holly Stonewall asked.
+
+“I mean he's not here.” The woman said. “He moved out last week.”
+
+“Where did he go?” Detective John Ramirez asked.
+
+“I'm sorry, but I can't give you that information.” The woman said.
+
+John pointed to the badge on his hip. “We're the police, and we need to know where he went.”
+
+The woman glanced at his waist, and for some reason John didn't think she was looking at his badge. “We've all seen how that nurse, Cheryl, was vilified for violating his rights and telling everyone about him.” The woman said. “She's already settled 2 lawsuits out of court and declared bankruptcy so they couldn't take her house. She even lost her job after that.” The woman said. “I'm not going to do the same thing to him and suffer the same fate.”
+
+“His life is in danger!” Holly said, and the woman chuckled.
+
+“You need to play another tune on that pity violin.” She said. “Just getting out of bed without help puts his life in danger.”
+
+Holly opened her mouth to respond, then the woman's statement registered and she closed her mouth.
+
+“We can come back with a warrant.” John said.
+
+“There's not a judge in this city that will give you a warrant against Ren.” The woman said. “Have you seen his show? It's the best show on television right now, especially since everyone knows what his real physical condition is like.”
+
+John put a hand on Holly's lower back and eased her away from the counter towards the front door.
+
+“I'll just sit here and wait patiently for you to never come back with that warrant you'll never get.” The woman said and laughed.

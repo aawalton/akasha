@@ -1,0 +1,213 @@
+---
+id: 1c36d44d-2861-589f-91a2-58bdd0a303fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 583 - Serving My Time"
+slug: 0583-chapter-583-serving-my-time
+partOf: mythrans-master-of-all-continued-completed
+position: 583
+ownLength: 2969
+unit: words
+publishedAt: 2018-05-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214830/chapter-583-serving-my-time"
+royalRoadId: "214830"
+---
+
+Ren and Artemis saw Railyse the next day when she had requested that they come and see her. She reassured them that she would be fine in a few days, and Ren offered another feeding. Railyse politely declined and said she was still feeling the last one and didn't need any more.
+
+Ren and Artemis left there and went back to the mines to do the day's work, then came back to the castle. Instead of going right to their room like usual, they took a detour and went to the coral gardens in the back of the castle. They both enjoyed the sights and sounds that they found there, even after they greeted several Sea Dweller fans, and they went back to their room.
+
+Two days later, Railyse was up and about and felt fine, and gathered the Sea Dwellers together for the official announcement. She told them about how many nests of eggs she had spawned, which brought everyone to silence, and then she commended her king for managing to fertilize them all. The crowd cheered at that, and the king tried to explain that he had assistance; but, they didn't want to hear it.
+
+The next 5 months in the Water Realm passed by fairly quickly, and every week Ren had travelled out to the giant octopus and gave her food. During the last visit, she refused any food offering and only acknowledged him if he tried to come near the eggs.
+
+“I think the eggs are almost ready to hatch.” Teepo suggested, and then they saw the giant octopus shiver slightly. She moved off the perch she had maintained for 5 months, and looked at her eggs expectantly. Three of them trembled as the contents tried to break free. Then three more, and then a dozen trembled.
+
+Ren could feel how happy she was that it was finally happening. The first egg broke open and the tiny little tentacles pushed and pulled the shell away. The octopus popped out and inflated its mantle, the sack on top of its head, several times. More eggs broke open and they did the same thing, and Ren felt the giant octopus as she resigned herself to her fate.
+
+“No.” Ren said and tried to go near her, and she held him off with a tentacle. “Please, don't give up! Look at what you did!”
+
+The giant octopus looked upon her children and felt proud that she had accomplished her life's work, then she sighed and laid down beside the nest.
+
+“Please, don't!” Ren said, and tears came to his eyes. “Don't do this!”
+
+The tentacle holding him at bay reached up and stuck to his face for a moment. Ren felt her gratitude for him, and then the tentacle pulled away as it lost motor function.
+
+“N-no!” Ren said and grabbed the tentacle, but it was limp and unresponsive. He felt her feelings start to fade away as she died, and he held the tentacle up to his face. “Stay just a little while longer! Watch them swim, at least! Please!”
+
+Ren felt a feeling from her that was akin to 'it doesn't matter', and then the giant octopus was no more. In the next moment, the first baby octopus pushed off from it's egg and floated in the water, then the current pushed it. It swam against it for a moment, then swam with it. It propelled itself quite fast, and Ren was about to shout at it to watch out, then it slammed into the side of the nest and squished itself.
+
+“By the gods, no!” Ren exclaimed as ten more lifted off, and he used his Water Manipulation ability to change where the water current pushed them.
+
+“Ren, you can't interfere like that.” Teepo said.
+
+“But...”
+
+“If they don't learn to do it for themselves, then they won't survive once they leave the nest. If there's something I've learned about sea life, it's that it's harsh. Much harsher than anything else.” Teepo said. “Plus, I don't think there's enough resources to support a hundred giant octopuses.”
+
+Ren opened his mouth to refute it, but he knew his friend was telling the truth, so he eased the use of his Water Manipulation ability and let the babies try their best to swim in the current. Out of the ten of them, only 3 of them managed to make it over to their mother's dead body and tucked themselves inside, while the other seven met the same fate as the first one and squished themselves on the side of the nest.
+
+“It's such a waste.” Ren said. “She did all that work to keep them all safe, and most of them will die.”
+
+“It's not a waste, even if only one survives.” Artemis said. “That's life. You can only do so much for your children, then you have to let them take their chances.”
+
+“But... but, I... I don't want them to die.” Ren said, sadly.
+
+Another group floated up into the current and several of them were lost right away, one made it over to the mother, and one managed to swim right over to Ren, even though he was quite a bit farther away than the giant octopus' corpse.
+
+“Hey, you.” Ren said, and the baby octopus swam up and landed on his face. It splayed out its tentacles so that it could press its beak to his cheek, and then it tried to bite him several times.
+
+“Aww, it must think you're the corpse of its mother.” Teepo said, because he had seen the others do that motion to her.
+
+“That... that means she chose to die... so she could feed them without leaving the nest.” Ren said, then very carefully plucked the baby octopus from his cheek and went over to the giant octopus. He placed the baby on her limp body where the other babies had gone. The baby assumed the same position with the splayed tentacles, and Ren saw it bob up and down slightly as it ate.
+
+“We better get back before we're missed.” Artemis said, and Ren nodded. They travelled back to the castle and Ren finished out the last few days of his sentence in the mines. When he was done of his last day and had slept for the night, he was called before the Queen to the throne room.
+
+The courtyard outside was filled with Sea Dwellers that cheered and hollered to him, and he waved as he passed. When he and Artemis entered the throne room, he saw that Railyse sat on the bench that was the throne, and her king sat beside her. She wore a large dress that seemed a bit too big on her, and held a 3 pronged trident. The room was filled to overflowing with Sea Dwellers, just like the courtyard outside had been, except they were completely quiet.
+
+“King Ren, I and my kingdom thank you for your service, to both the kingdom as a whole and to the king and myself personally.” Railyse said, regally. “You served your time with us without complaint and even improved our mining techniques a thousandfold.” She said. “Your aid in the royal chambers on my spawn day, was far above and beyond what you were required to do, and we are all grateful.”
+
+A low cheer came from the gathered Sea Dwellers, and she raised her hands to quiet them.
+
+“I hereby declare your sentence complete.” Railyse said. “You may leave this realm when you wish, and you will take our thanks with you.”
+
+Ren gave her a regal bow, and the crowd erupted with cheers. Railyse and the king stood up and floated over to him. This was the cue for everyone to mingle if they wanted, and talk immediately began between Sea Dwellers about the future of the kingdom.
+
+“It seems your popularity has grown since the tournament.” The king said.
+
+“I don't know why.” Ren said. “I haven't done anything since then.”
+
+Railyse smiled. “I believe it's the constant reminder of your abilities that (gurgle bubble) provides.”
+
+“Is that what you called it?” Ren chuckled. “Megapus?”
+
+“It's a mechanical octopus that can change it's size at will.” The king said. “The Queen chose an appropriate name.”
+
+“I laughed because the translation to Adventurer language... never mind.” Ren said. “How are the younglings?”
+
+“Why don't you ask them yourself.” Railyse said. “Little ones, you can come out now.”
+
+Ren was surprised when he heard hundreds of bubbles and gurgles from Railyse, then her dress opened up to reveal all of her children as they floated around her legs.
+
+No wonder her dress is oversized. Ren thought.
+
+“Ren! It's all of them!” Teepo exclaimed. “Unlike the octopus, all of the eggs hatched and all of the children survived!”
+
+Ren knelt on one knee to get a closer look at them. The children were almost like a tadpole; with a normal head, a big tail, and stubby arms. He blinked his eyes at the sight and looked up at Railyse, and she smiled as she felt his awe.
+
+“It's just the first stage.” Railyse said. “It will be another month before the tail drops off and legs start to grow.” She rubbed a hand from her chest to her navel. “My extra mammary glands will have fully developed by then and I can start giving them proper feedings.”
+
+“E-extra m-mammary g-glands?” Ren asked with a studder.
+
+Railyse laughed as she felt his strong desire for her. “If I had mentioned this beforehand, would it have changed your mind?” She asked and cupped the side of his face.
+
+“Maybe.” Ren said and grinned, then sweat beaded on his forehead. “Okay, no. I can't even joke about that.”
+
+Railyse laughed again and let his face go. “It's quite the sight, having so many feedings at once.”
+
+“I can imagine.” Ren said and looked at the king. “You did a great job bringing them all into the world. Congratulations.”
+
+“It wouldn't have been possible without you, my friend.” The king admitted and put a hand on Railyse's shoulder, to show that she shared his opinion. “You were an integral part in the whole thing, and I don't believe that either I or the Queen would have fared nearly as well without you there to support us.”
+
+“I'm just glad that I could help.” Ren said as he stood up. “I would like nothing more than to stick around and see your children grow, but I have Adventurer business I need to attend to.”
+
+Railyse felt disappointment that he wouldn't be there for the first feeding, and Ren took her hand.
+
+“You understand now, don't you? You would feel this all the time.” Ren said. “I have no choice in leaving, and you would hate me for missing out on everything.”
+
+Railyse sighed. “Yes, I understand.”
+
+“As long as you know that I regret I won't be here for all of their firsts, too.” Ren said, gave her hand a kiss and let it go, then held a hand out to the king. “Your Highness, be good to them and raise them to the best of your ability. Not only is that your job, it's your responsibility.”
+
+The king took his hand and shook it. “It's also a privilege.”
+
+“That goes without saying.” Ren smiled. “Good luck to the both of you, and to the kingdom.”
+
+“Thank you, King Ren.” Railyse said.
+
+“It's just Ren.” Ren said. “You only have to call me king when I'm angry at you.”
+
+Railyse smiled and nodded slightly. “Safe journey, Ren.”
+
+“Safe everything, Your Highness.” Ren said. He gave her and the king another regal bow, then he and Artemis floated out of the castle. They were greeted with cheers and hollers, and Ren noticed the group of protesters that had been at the tournament. He floated over to them, and they quieted down.
+
+“I hope you aren't still protesting.” Ren said to the female Sea Dweller he had given the bracer to. “It's been 5 months.”
+
+She chuckled. “No, we aren't protesting anything. We just... well, once we got to talking we discovered we all had a lot in common, so we stayed together.”
+
+“That's great.” Ren said and smiled. “I'm glad I was the reason you all became friends.”
+
+“As are we.” She said. “Before you go, there's something... well...”
+
+“What is it?”
+
+“There's been stories about a Land Dweller being here a thousand years ago. He met and stayed with a Sea Dweller and lived his life with her. I didn't understand how that was possible, until I met you.”
+
+“You don't know if they had children, do you?” Ren asked, and she shook her head. “That's too bad. I would have liked to meet his descendants.”
+
+“You... knew him?” She asked, surprised.
+
+“I was here when he chose to stay behind.” Ren said. “He was the head engineer on my ship at the time. I won't go into the details of why we came here that first time, though.”
+
+Her hand reached out and touched his face. “You were so sad.”
+
+Ren nodded. “I can relive it like it just happened, and I don't want to right now.”
+
+“Then let me distract you.” She said and leaned forward and opened her mouth, then pressed her teeth into his cheek. Ren deactivated his Regeneration for a few moments so that she could get a good taste of his blood. She kissed and licked the wound for a moment, then leaned back and smiled at her mark.
+
+“Thank you.” Ren said.
+
+“I wanted to show you that you would be a fine mate, even if spawning isn't possible.”
+
+Ren reactivated his Regeneration and her teeth marks faded away, and he gave her cheek a kiss in return. “Be safe and take care.”
+
+“And you, King Ren.”
+
+Ren and Artemis floated up above the courtyard where the crowd had gathered, and Ren used the All-Seeing Mirror as he checked the pool in the county. He saw that Lylyth's giant spider familiar was still there waiting for them, and he smiled.
+
+“Time to go.” Ren said and cast the portal spell.
+
+“Goodbye!” “Bye!” “Hey! You didn't give me a kiss goodbye!”
+
+Ren chuckled at the last comment and waved to the Sea Dwellers. He took Artemis' hand as Teepo dissolved into the Beetle Crown ring, then they went through the portal together. They appeared on the other side and Ren received several popups. He dismissed them without reading them, because they blocked his field of view, and saw Lylyth's familiar. Ren dismissed the portal they had come through and pointed up, and they all left the water. Once they were beside the pool, Ren summoned Teepo again and stepped close to the giant spider.
+
+“Thank you for sticking around for so long.” Ren said. “I would have been back a lot sooner; but, I ended up having to serve a 6 month sentence for kidnapping.”
+
+The giant spider clicked it's mandibles, and Ren nodded.
+
+“Yes, that always seems to happen when I go somewhere.” Ren said. “Do you need me to cast a portal for you?”
+
+A moment later a portal appeared beside the spider, and it used it's front four limbs to expand it out to a big enough size for it to fit through.
+
+“Thank you very much for your help.” Ren said.
+
+The spider used a leg to pat him on the shoulder, stepped through the portal, and it disappeared. Ren picked up his pet spider from his shoulder and spoke to it.
+
+“My Queen, thank you for lending me your familiar. It was invaluable in helping me, and I will make you something soon to show my appreciation.”
+
+The tarantula reached up and pet his cheek, and Ren smiled and put it back on his shoulder, then Ren and Artemis ran over to the warehouse and came to a stop just outside of it. He took two steps up into the air and gave her a kiss right on the lips, much to her surprise. Artemis had expected him to go back to keeping his distance, and she was quite happy that wasn't going to be the case.
+
+“I'll see you when I get back.” Ren said.
+
+“Is this where I joke and say, 'not if I see you first?'.” Artemis asked.
+
+“That's not a fair comparison. You can just come into the room and see me whenever you want.”
+
+“I wouldn't do thaaaat.” Artemis said and rolled her eyes, then gave him a wink.
+
+Ren chuckled and gave her a hug and another quick kiss, then he ran across the road to the Main House and went inside. He went up the stairs and into the apartment, and the maids were there waiting for him.
+
+“Hey, you didn't have to wait up.” Ren said.
+
+“Of course we did.” Frikara said. “You always come home to us, so we will always be here waiting for you when you do.”
+
+“Unless we go with you.” Andrela said. “Then we won't have to wait. We'll already be with you.”
+
+Ren smiled and gave her a kiss, and let her feel how much he missed seeing her face every night. She gasped at the strong emotion, and wrapped her arms around him. She let him go a moment later, then gave him a kiss on the cheek.
+
+“You can tell us all about it when you get back.” Andrela said, and he felt agreement from the others.
+
+“I will.” Ren said and gave each of them an appropriate kiss, then equipped his special bodysuit and laid down on the side of the large bed. “See you in the morning.”
+
+“Not if we see you first.” Frikara said and laughed.
+
+Ren chuckled because Artemis just made the same joke. “Logout.”

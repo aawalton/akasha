@@ -1,0 +1,483 @@
+---
+id: 9c08a897-04de-542b-9d37-3939ecb30991
+page-type-slug: story-chapter-royal-road
+title: "Chapter 174 - It's So Fluffy"
+slug: 0162-chapter-174-its-so-fluffy
+partOf: mythrans-master-of-all-continued-completed
+position: 162
+ownLength: 5407
+unit: words
+publishedAt: 2017-02-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119431/chapter-174-its-so-fluffy"
+royalRoadId: "119431"
+---
+
+“I thought you were going to have a hamburger?” Stella asked.
+
+“Why would I fill up on healthy protein and bread, when I can suck down grease and salt like there's no tomorrow?” Ren said as he pulled a gravy-coated french fry from the pile and shoved it into his mouth.
+
+“Because you'll want to live until tomorrow?” Stella asked, then laughed as Ren picked up another fry, stuck the end in his mouth, and sucked it in with a loud slurping sound.
+
+“I hope you realize that you're going to have plain white rice and water for supper.”
+
+Ren picked up another french fry, tilted his head back, and dropped it in his mouth. “Totally worth it.”
+
+Elise smiled as she leaned closer to Stella. “Is he always like this to be around?”
+
+“No.” Stella said and grinned. “Sometimes he's happy.”
+
+Ren snorted a laugh. It was lucky for Stella that he had been between eating fries; or there would have been bits of fries strewn all across the table.
+
+Elise chuckled for a few moments, then looked at Stella. “How's the testing coming along?”
+
+“I've already got my baseline stats recorded and indexed.” She said. “It took a while to get things set up at my place, but everything is ready to go now.”
+
+“What about Ren?” Elise asked.
+
+“This is my first day back with Ren since I got the headsets, so I haven't gotten his baseline done yet.” Stella looked at him. “He's already had a full day of excitement, and it's only just past noon.” She said. “I might have to wait until we have a normal day before getting his stats.”
+
+Elise nodded. “His levels will definitely be skewed today.” She said. “What preliminary tests are you using to-”
+
+“No work at the dinner table, young lady.” Ren said, and pointed a french fry at Elise. “You are to sit there, look pretty, and enjoy our company like a good girl.” He saw the gravy was about to slide off of the french fry and ate it. “You can worry about work when the meal is done.”
+
+“Yes, sir!” Elise beamed a smile at him.
+
+“You better not try to tell me that.” Stella said, while trying to stop herself from laughing.
+
+“Like you'd listen to what I say.” Ren rolled his eyes, then grinned after he ate another french fry. “I know the limits of my awesome cuteness powers.”
+
+Elise laughed and Stella joined her. They enjoyed the rest of the meal while they shared small talk. When they were done, they left the restaurant and climbed back into the Hummer H2.
+
+“Oh, that was delicious! Thanks, Ren!” Ren said, and rubbed his slightly bulged stomach. “You're welcome, stomach. But don't expect this treat every day!” He said and pat it. “Maybe once a week. You can't be greedy.”
+
+“Once a week, he says.” Stella shook her head and smiled. “You'll be lucky to get that once a month. If that.”
+
+“Aww.” Ren said. He covered his mouth with a hand, turned towards the window, then burped. “Excuse me.” He said, then turned back to look at Stella. “My stomach just protested your unfair terms of feeding it.”
+
+Elise snorted a laugh. “I think someone is suffering from gravy shock.” She said. “What's your professional opinion, Stella?”
+
+“In my professional opinion, he will be spending more time in the bathroom this evening than he thinks he will.”
+
+“I didn't really need that image in my head.” Elise laughed. “Thanks a lot!”
+
+“I'm always glad to help.” Stella said and grinned.
+
+Elise drove through the city, and back to the hospital. She pulled into the parking lot and came to a stop in the same spot she'd had when she'd been there before.
+
+“It was really nice spending this time with the both of you.” Elise said, as she turned to look at Ren, then at Stella. “I don't remember the last time I had this much fun, without loud music and free drinks being involved.”
+
+“Same here.” Ren said as he took off his seat belt, and the two women laughed. Elise got out and went around to the back of the H2, and Stella was quick to follow. They got the wheelchair out and went to Ren's door.
+
+“Come on, you lush.” Stella said, after Elise opened the passenger door. “We've used up enough of Elise's time today.”
+
+“It's really all right.” Elise said as Ren climbed down out of the seat. “I'm actually tempted to keep chauffeuring you around town...” She looked at Ren. “...but I think we've pretty much worn you out for today.”
+
+Ren sighed as he sat in the wheelchair. “I'm not sure if it was the company, or the gravy fries.”
+
+“Gravy fries.” Elise and Stella said at the same time, then laughed again.
+
+“Four helpings of gravy fries, to be exact.” Ren said, and grinned as Stella shook her head.
+
+“I take care of you, and I have no idea where you put it all.”
+
+“Match called for time. Endless stomach, one; endless gravy fries, zero.” Ren said. “Tune in next time for the rematch. Will the stomach prevail again, or will the gravy fries finally get it's tasty revenge?”
+
+“I know you can't be this funny all the time.” Elise smiled. “But if I didn't have to work for a living, I swear I could just hang around and listen to you talk all day.”
+
+“I spend most of the day playing F.L.O.W., so you're not missing much witty banter.” Ren said. “I do have my moments to shine, though.”
+
+“I can imagine.” Elise grinned and turned to Stella. “Thanks for letting me come along.”
+
+“Come along?” Stella shook her head. “You practically hijacked us.” She smiled. “We'd have gone straight to the bank and come right back hours ago.”
+
+“Thanks for not complaining, then.” Elise said. “Don't forget the bags.”
+
+“Right.” Stella said, and went to the back storage area to get Ren's things. Elise crouched down to an almost kneeling position to look Ren in the eyes. “And thank you, Ren.” She held out a hand for him to shake. “I had a great time.”
+
+Ren took her hand; but instead of shaking her hand like normal, he automatically did what he would do when he greeted a woman in the dwarf kingdom. Since he knew his place in her social standing, he turned her hand to the side to have it face him, and placed a light kiss on her fingers.
+
+“It was nice spending time with you, too.” Ren said, and let her hand go. “I hope we can do it again sometime.”
+
+“S-s-so do I.” Elise said, completely flustered. Her face flushed a little red as she stood up.
+
+“I better get him inside.” Stella said, as she came back with the bags. “See you later.”
+
+“B-bye.” Elise said as Stella rolled Ren across the parking lot and into the hospital.
+
+*
+
+Elise watched the hospital doors close, walked around to the driver's side of the H2 in kind of a daze, then climbed in.
+
+Oh, my GOD! She thought, as she cupped the hand Ren had kissed to her large chest. She closed her eyes and took several deep breaths.  I will not geek out. I will not geek out. I will not... oh, god... I'm geeking out!  She started to shake with giddiness, and let out a chuckle of laughter.
+
+“He kissed my hand!”
+
+*
+
+Ren signed back in at the main desk, and Stella took him up the elevator and to his room. He got out of the wheelchair and she handed him one of the bags.
+
+“I assume you want to wear the red one first.” Stella said.
+
+“Yeah.” Ren said and put the bag on the bed. He unbuttoned his shirt and slid it off, then tried to fold it.
+
+“I'll do that in a minute.” Stella said and took the shirt from him. She then took out the red pajama top and held it out for him to slide into.
+
+“Thanks.” Ren said and buttoned it up. He picked up the bag and went into the bathroom. He came out a couple of minutes later wearing the full set. “I feel a lot more grown up wearing something like this.” He handed her his pants and she folded them up.
+
+“You look a lot more grown up wearing that.” Stella said, and put his clothes away. “You made a good choice.”
+
+“Thanks.” Ren said, then put a hand on her arm. “Thank you for today.”
+
+Stella smiled. “It's my job.”
+
+Ren shook his head. “No, it isn't.” He said. “You got yourself certified to take me outside all on your own.” He smiled. “I'd be stuck in here, with my only way out being the virtual world.”
+
+“I couldn't let that happen.” Stella said. “You'd wither away if you didn't go out every so often.”
+
+“You see? Caring about me like that is not your job.” Ren said. “So, thank you.”
+
+“Get in bed before you make me blush, you rascal.” Stella said, put away the papers from the bank and the television series contract, and locked the cabinet. “You need to rest after all of this excitement.”
+
+“You don't have to tell me twice.” Ren said, and climbed into bed. When he got settled, he grinned. “Ohhhh, yeahhhhh. That's comfy.”
+
+Stella chuckled. “Your other pajamas were comfy, too.”
+
+“These have matching underwear, though.”
+
+“Is that a challenge?” Stella asked and grinned. “I'll go out tomorrow and find a nice pair of comfy Cookie Monster underwear for you.”
+
+“No, that's okay.” Ren laughed. “These new jockey shorts are just fine, thanks.”
+
+“Are you sure?” Stella asked. “I'm sure Elise wouldn't mind seeing you in them.”
+
+“You saw how she reacted when I came out wearing these.” Ren chuckled as he plucked at the new pajamas. “I think she'd enjoy seeing me wear pretty much anything.”
+
+Stella grinned. “You caught that, did you?”
+
+Ren nodded. “I'm sure if I decided to buy a whole new wardrobe, she'd practically hold me hostage as I tried everything on for her.”
+
+“I think you'd be the one holding her hostage.” Stella said. “She's got it for you pretty bad.”
+
+“No way.” Ren said. “There's no doubt that she likes me...” He saw Stella's glare, and smiled. “Okay, she likes me a lot.” He said. “But, there's no way she'd... ah...”
+
+“...want to take a ride on the Ren Train?” Stella suggested.
+
+“Yeah, that.” Ren laughed.
+
+“She seemed pretty receptive to your charms.” Stella said. “You aren't that funny all the time, you know.” She grinned again, and Ren nodded.
+
+“Okay, point taken.”
+
+Stella pulled the rollaway table over when he asked, and Ren checked his emails. There was nothing new except spam, so he closed his email program and then thought about what he needed to do before he had to leave the Dwarven Kingdom. He looked up a building pattern for a nice-sized mansion, then practiced drawing it out so he could duplicate it in the game. Once he had that done, he looked up some lingerie patterns. The game seemed to be severely lacking in undergarments for women, so Ren decided that it was something that he would have to include; either in his own business, or he'd make another one. Once he had a dozen outfit patterns memorized, he moved the laptop out of the way and looked at his watch.
+
+“I've got about 4 hours of night left.” Ren said. “I think I'll log in and grab a few hours sleep before I start work.”
+
+“Yes, only sleep.” Stella said, and glanced down at him. “I'll have the replacements stashed in your cubby hole before you log out for supper.”
+
+“Thanks, Stella.” Ren said, and she helped him put on the VR headset. “I'll try to keep myself restrained until then.”
+
+“You'd better keep your hands off those cute dwarves if you're not wearing protection, little stud!” She tickled his underarms and he laughed. “Or you'll mess up these great new pajamas.”
+
+“Okay, okay!” Ren said. “I promise!”
+
+“Good.” Stella said, and straightened his clothing. “See you later.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch and didn't see anyone. Teepo?
+
+“Ren!” Teepo said, and flew over to the couch. “You're back early.”
+
+Yeah, it didn't take as long as I thought it would. Ren thought and stood up. What's the situation like?
+
+“Narhilda was in meetings nearly all day after you left. She had to sign a bunch of papers and scrolls, and so did Fritz.” Teepo said. “They finished transferring power to her about 6 hours ago.”
+
+I'm glad. Ren thought as he walked over to the nearest table, and took out several sheets of parchment. I was a little worried there would be protests over Fritz giving up all that power so easily.
+
+Ren started to draw out the plans for the mansion.
+
+“No one said a word, not even the Council.” Teepo said. “When one of them tried, Riley growled at them.”
+
+Who was it?
+
+“Thanyur Faldihr of course.”
+
+Thanks, Teepo. Ren nodded absently, and finished the plans for the mansion. He stored it, then did a pile of quick sketches for the lingerie he had memorized, and stored them as well. He could finish adding in the details later.
+
+Are Nathalia and Narhilda here?
+
+“Yeah, they're in the bedroom.” Teepo said.
+
+See you in the morning. Ren thought, and went to the bedroom. Goodnight.
+
+“Goodnight, Ren.”
+
+Ren opened the door and crept into the bedroom, and over to the bed. He saw Riley and Stacy sitting beside the bed as if they were end tables, and he concentrated on his mental link to them, and sent them his gratitude. He stored his red House Neram outfit, equipped his armor's bodysuit, and slid into bed behind the closest woman. They were spooning each other, so he cuddled in close and took them into a hug. Nathalia was the the one in front, and she stirred slightly, looked at him briefly, then hugged his arm. Ren felt both happy and sad, as this was probably the last time he would get to do this; then drifted off to sleep while holding them both.
+
+Ren woke up the next morning, just over 3 hours later, and sighed. That was not enough sleep. He thought.
+
+“I'll wake you in an hour.” Teepo said. “Narhilda's first meeting isn't for another hour and a half.”
+
+Thanks, buddy. Ren thought, and closed his eyes. I'm a lot more tired than I thought I was.
+
+The hour passed by in the blink of an eye, and Teepo woke Ren up.
+
+Yeah, I'm definitely tired. Ren said and tried to pull his arm out of Nathalia's grasp. It feels like I just closed my eyes.
+
+She wouldn't let go, and murmured that she didn't want to wake up.
+
+“Come on, sleeping beauties.” Ren said in a normal voice, instead of a whisper. “Narhilda has to get ready for her first meeting.”
+
+Both women sighed, and tried to hold onto his arm instead of letting it go.
+
+“Believe me, I'd much rather spend a few more hours cuddled together.” Ren said. “You can't disappoint the Kingdom by being late, though.”
+
+“It's just an agriculture meeting.” Narhilda said. “We can be late for that.”
+
+“How late is late?” Ren asked. “If the meeting is only an hour, and we stay in bed another hour or so...”
+
+Nathalia sighed and let his arm go, and Narhilda did the same. Ren sat up in the bed and looked at them.
+
+“I assume you've got to get dressed.” Ren said. “So you've only got a half an hour to get ready.”
+
+“Yes, yes.” Narhilda said, and sat up as well. “We can't pretend to be asleep anymore, Nathalia.”
+
+“Yes, we can.” Nathalia said, and didn't move. “The world doesn't need us yet. Ren does.”
+
+Ren got up and walked around the bed to her and knelt down. “I'm always going to need you, Nathalia.” He said and kissed her. “The entire population of the Kingdom is depending on you making their new monarch look so pretty they can't breathe.”
+
+Nathalia chuckled and opened her eyes. “Okay, fine.” She sat up and looked at Narhilda with a huge grin on her face. “I've got a lot of work ahead of me.”
+
+Narhilda fake gasped. “You shouldn't insult the ruler of your land like that!”
+
+“Ladies, please.” Ren said, and they both turned to him. He stood up and held a hand out to both of them. “It's hard enough for me not being able to stay here all day with you; stalling is not helping the situation.”
+
+They took his extended hands, and he helped them stand up. They only wore their dress slips, and Ren hugged them close. He gave Narhilda a quick kiss.
+
+“Go out there and make this Kingdom a better place, just like it should be.” Ren said. “Show them how great you are, and what you can do.” He turned his head to Nathalia and gave her a quick kiss, too. “Your job is to take care of her every need before she knows she needs it.”
+
+Nathalia smiled. “I know that.”
+
+“Well, she needs to get dressed and ready for the meeting.” Ren said. “What should you be doing right now?”
+
+“Making love to you.” Nathalia said without missing a beat, and he chuckled.
+
+“If we had the time, not only would it have happened already, we'd all still be in the bed.” Ren said and grinned.
+
+Nathalia rolled her eyes at him, and sighed as she hugged him close.
+
+“Don't worry.” Ren said. “I'll come back tonight and make sure I keep you awake for a few hours. At least.”
+
+“You'd better!” Nathalia said and kissed him. When they broke the kiss, he looked at Narhilda.
+
+“You'll get the same amount of attention, I assure you.”
+
+“I have no doubt.” Narhilda smiled and kissed him, too.
+
+Ren let them out of the hug. “Now get going.” He said, and lightly slapped them on their butts at the same time. “You've got work to do.”
+
+Both women's mouths dropped open in surprise and jumped slightly. Ren smiled crookedly and admired their chests as they jiggled. The two women stared at him as he held his hands in front of his own chest, and did pincer movements with the index finger and thumb of both hands.
+
+“Don't make me use the key!” Ren said, and reached for their butts to pinch them.
+
+“Aahhh!” They said together in mock horror, covered their butt cheeks with their hands, and Ren chased them around the bedroom for a few minutes. Riley and Stacy were up for a bit of chase the prey, and joined in. They hopped onto the bed, and barked a few times, then helped Ren chase them down. He caught them easily, flipped up their slips, and kissed their cheek instead of pinching them. After a bit of laughter and some giggling, he helped Nathalia get Narhilda ready for the first meeting, and equipped his Travelling Clothes and Dire Wolf Hooded Cloak.
+
+“I'll see you tonight.” Ren said. “The mines are only half an hour outside of the city. I can run that far practically asleep.”
+
+They nodded slightly to him, then there was a knock on the door.
+
+“One moment.” Narhilda said, and turned to Ren. “Do you remember what you said to me after you told me you loved me?”
+
+“Of course I do.” Ren said. “That was an important moment in my life.”
+
+“It has to apply in this case as well.” She said, a little sadly.
+
+“Of course, My Lady.” Ren said, and bowed slightly to her. “No public signs of affection can be seen; but while in the bedroom, there's no holds barred.”
+
+She bit her lip slightly, and looked at him expectantly. He grinned and kissed her passionately. She hugged him closely and kissed him back. He broke the kiss a moment later, and stepped back. Narhilda's face was flushed slightly red, and he smiled.
+
+“Come.” Ren said, and the door opened to show Dural standing there, with a group of dwarves behind him.
+
+“Ah! I see you're ready for the meeting. Excellent.” He said and stepped aside. “Shall we go?”
+
+“Of course.” Narhilda said and Riley and Stacy took up their positions on either side of her. Ren hooked Nathalia's arm and pulled her close. He kissed her just as passionately as he'd kissed Narhilda. She ran a hand through his hair and when he broke the kiss, she was a little breathless. Several of the dwarves in the hall chuckled.
+
+“Wh-what was that for?” Nathalia asked, and blinked at him.
+
+“I love you.” Ren said. “Have a good day at work.”
+
+“Th-thank you.” Nathalia said, and followed Narhilda and the dogs out of the apartment. Ren waited for a couple of minutes to give them time to get to where they were going, then left the apartment himself with Teepo flying ahead of him. It didn't take long to get back to the lobby, now that he knew where to go, and he walked down the hallway to the passage into the Main Keep. Ren approached the hidden door, concentrated on it, and thought Deactivate. The door appeared and he opened it, stepped through, and closed it. The door disappeared again, and Ren shook his head.
+
+I have got to learn how to do that. Ren thought and walked down the hallway.
+
+“It's probably a spell.” Teepo said. “I don't remember you saying you saw any runes.”
+
+They might be hidden. Ren thought. I wonder who I could ask about it?
+
+“Probably the Enchanter's Guild, but I don't know if they'd tell you anything.”
+
+Yeah, enchanters guard their secrets even harder than dwarves do. Ren chuckled. Can you imagine how secretive a dwarf enchanter is?
+
+“I think the word 'hermit' comes to mind.”
+
+Ren smiled as he turned into the General Records room and walked over to the desk with the female dwarf sitting there.
+
+“Hey, you.” She said.
+
+“No 'your highness', 'your majesty', 'your grace', or anything?” Ren said and smiled.
+
+“I think we know each other enough to get by all of that.” She chuckled. “What can I do for you today?”
+
+“I need a copy of a standard indentured servitude form.” Ren said. “And I'd like to know how to make doors invisible.”
+
+She raised her eyebrows at him. “Here's the form.” She grabbed it from a pile without looking at it. “You don't have the qualifications for the other knowledge.”
+
+“What qualifications?”
+
+“You need to be a magic user to cast the spell.”
+
+You were right, Teepo. It is a spell. Ren thought, and felt Teepo's amusement.
+
+“I can use a wand.” Ren said, and the female dwarf looked at him with wide eyes.
+
+“You have a wand.” She asked. “A blank wand.”
+
+Ren nodded slightly and took out one of the fireball wands and absorbed the charges in it. He held it out to her, and she examined it.
+
+“Well, damn.” She said and looked at him. “You do realize what this means.”
+
+Ren nodded. “I can put any spell in it, assuming I have the Mana available for it.”
+
+“It's only a level 1 wand, though.”
+
+“A what?”
+
+She smiled. “It would need to be at least a level 3 wand to hold the spell.”
+
+Ren looked at the skill and frowned because it didn't say anything about a wand level. “How many levels of wand are there?”
+
+“Five.” She said, and Ren nodded slightly.
+
+It's a level for each stage of advancement. Ren thought. Beginner, Intermediate, Advanced, Expert, and Master.
+
+“Hold on.” Ren said. “Major Healing is a level 1 wand spell?”
+
+She nodded. “Anything a basic magic user can use is level 1. As they advance in levels, new spells are unlocked.”
+
+“Can you give me the spell anyway?” Ren asked. “I'll get a level 3 wand eventually.”
+
+She shook her head. “I don't have the spells here, all I could have done was given you a recommendation for the Mage Guild.”
+
+“Oh. Well, thanks for the information.” Ren said, and read the indentured servitude form. “Wow, this thing sucks.”
+
+The female dwarf laughed. “Indentured servitude isn't supposed to be a picnic lunch.”
+
+Ren shook his head. “No, I mean this literally states that you have to do whatever the holder of the contract says.”
+
+“Uh huh.”
+
+Ren sighed. “Why is this thing even legal?”
+
+“The Council voted it in years ago.”
+
+Ren snorted a laugh. “Yeah, and people stopped reading it soon after that.”
+
+She looked at him like he was crazy, and he laughed.
+
+“Is there any chance I can modify this, submit it as an alteration, and use it until the Council votes on it in a month and a half?”
+
+She smiled at him, and nodded slightly. “There's precedent for that, sure.”
+
+“Great!” Ren said and took out a piece of parchment, and copied the form nearly word for word, but changed the wording slightly in one section, so that someone could only be ordered to do the job they were hired for, and nothing else. It wouldn't stop people from being hired specifically to be used as sex objects; but, at least someone hired to mine wouldn't be contractually obligated to do everything the boss asked for. He handed it to the female dwarf, and she read it. Her eyes widened at the implications of that one changed sentence, and she stared at Ren.
+
+“Why hasn't anyone caught this before?” She asked.
+
+“You're all so caught up in how things are done, no one is thinking about how things 'should' be done.” Ren said. “Plus, I'm a fresh set of eyes. I've gotten really good at finding loopholes in things.”
+
+She smiled. “You know what?” She asked as she stamped the new contract form with something. “I'm not even going to put this in the 'Pending for Review' file.” She got up and went to another file cabinet and opened the drawer. “This is going right into the 'Confirmed and Waiting for Approval' file.” She slipped the new form in, and closed the drawer. She came back over to the desk and sat down. “It should slip right through, and no one is even going to look at it twice before approving it.”
+
+“Oh, you're sneaky.” Ren said and grinned.
+
+“You flatterer.” She laughed as she handed him a copy of the new form. “Is there anything else?”
+
+“Yes.” Ren said. “I assume you've heard that I'll be leaving soon.”
+
+She nodded slightly and sighed. “I had the morning off for the execution.”
+
+“Then I need to give you a new toy before I leave.”
+
+She chuckled. “I've still got the one you gave me.”
+
+“That old thing?” Ren said, and walked around to her side of the desk. He took her hand, and she waited in anticipation for what came next. He didn't let her down, and kissed her cheek. She blushed slightly, and put a hand up to cover the spot. Ren took out a platinum coin after distracting her. “This one spins much better.”
+
+Her eyes nearly bulged out of her head as Ren spun the dragon-faced coin on her desk.
+
+“Thank you so much for all of your help.” He said and walked away.
+
+*
+
+He... he did not... he didn't... She thought, as the coin came to a stop and fell onto it's side and the dragon's face stared up at her.
+
+*
+
+Ren left the Main Keep and everyone stared at him as he passed. I'm not even concentrating on my Aura, and they still stare.
+
+“It's not your Aura, Ren.” Teepo said. “Haven't you noticed that they are all smiling at you?”
+
+Ren looked a little more closely at some of the people, then smiled himself and started to run. He ran all the way back to House Neram Keep and was greeted by Wohrum and Golir. He nodded slightly to them, and went inside the stable to check on Princess. She'd been well fed, and greeted him as if he'd been there the whole time. He told her to run on her track if she wanted, and she huffed at him. Ren went into the house and checked on the baby fire elemental, and saw it was nearly 6 inches across. There were still a few squares of fabric left in the pen, too.
+
+“You're getting big.” Ren said and picked it up. “Yes, you are!” He tickled it, and heard a crackling fire. “I can't leave you here, since I don't know when I'll be back.” Ren said and stored the pen he'd made and put the baby fire elemental in the hood of his cloak.
+
+He went into the kitchen and looked in the icebox. It was still nearly full of food, so he stored the icebox and locked the house when he left. He went out to the guards and told them to let Princess out to run on her track if she wanted, and he'd be back in a few days to get her to go for a long run. Ren ran up to the workshop and saw several women there working.
+
+“How's everything coming along?” Ren asked them, and they smiled.
+
+“We'll have this all gone by the end of next week.” One of them said. “We're up to 800 bags a day now!”
+
+Ren chuckled as he remembered her. “Come inside for a minute, please.”
+
+The women stopped shoveling and went inside as Ren held the door for them. He went inside and only saw a few sacks of cement.
+
+“Tee-one takes them every hour or so.” Dorathy said as she sewed up another sack. “Ruck's really good at sewing, too!”
+
+“I'm sure you've taught him well.” Ren said, then repaired the women's clothing and equipment. “I assume you've heard that I'll have to leave in a few months.”
+
+The women became sad and nodded slightly.
+
+“We feel really bad about that.” One of them said. “You've done so much for everyone, and they're making you leave.”
+
+Ren nodded slightly. “At least they didn't say, 'right away'.”
+
+Some of them gasped, because they hadn't thought of that possibility.
+
+“That's why I came here today, before I go to start my sentence.”
+
+“Hard labor in the mines!” Another woman said. “I can't believe it.”
+
+Ren chuckled. “Don't worry.” He said. “Hard labor for me is just labor.”
+
+She smiled at him. “I'm really glad to hear that.”
+
+“Me, too.” “I'm happy about that, too.” “Can I pet your hair?”
+
+Several women laughed, and the woman blushed from embarrassment. Ren went to her and knelt in front of her.
+
+“Go ahead.” He said. “You're not going to get another chance.”
+
+“Th-th-thank you!” She said, and blushed deeply as she put a hand on his head and ruffled his hair. “By the gods, that's...” She put her other hand in and grinned. “...it's so FLUFFY!”
+
+“Now I have to touch it, too!” One of the others said, then Ren was swamped with women's hands ruffling his hair before he could say 'one at a time'. A few minutes later, he stood up and his hair was a mass of fluff. The women laughed as he tried to fix it; but, it was well and truly messed up.
+
+“I'm sor... okay, I'm not sorry.” The one who'd asked first, said. “I've wanted to do that since the first time I saw that mass of hair.”
+
+Ren chuckled. “I get that reaction a lot.”
+
+“I hope... I hope you'll be happy wherever you go.”
+
+“I'm sure I will be.” Ren took her hand and bent over it. “Thank you.”
+
+Her blush returned at the Honor gain, and Ren looked at the women.
+
+“I promised you all a shiny new toy a while ago; and since I don't know when I can get back here to give it to you, it will have to be now.” He took out a platinum coin and gave one to each of them. They all stared at it, and he smiled. “It spins like crazy.” He said, then showed them how to do it. “When you get bored of playing with it, just toss it in your coin pouch.”

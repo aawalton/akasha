@@ -1,0 +1,343 @@
+---
+id: 2749002a-5f91-57f9-b59e-5b1fcb709e2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 378 - Deep Learning"
+slug: 0372-chapter-378-deep-learning
+partOf: mythrans-master-of-all-continued-completed
+position: 372
+ownLength: 3164
+unit: words
+publishedAt: 2017-10-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/166089/chapter-378-deep-learning"
+royalRoadId: "166089"
+---
+
+Ren went out the back door of the business and ran up the street. He went into Issac's Shop, and it looked the same as it did the first time Ren had gone in there. Old furniture, clothing, and various pieces of armor and trinkets covered the shelves Ren could see. They were all normal and didn't have any enchantments. Issac was once again, like he always was, bent over something on a workbench.
+
+“It's really weird being back here.” Ren said out loud to get Issac's attention.
+
+“Ah, Ren.” Issac said and looked up from his work. “It's nice to see my novice again.” He smiled and walked over to Ren and held a hand out to shake. Ren took the offered hand and felt a tingle go up his arm. He looked at Issac's hand and saw a ring there. He received the Wondrous Item recipe for it, and a popup.
+
+Ring Of Rune Attunement
+
+This ring allows the wearer to determine the Enchanting skill of the person it touches.
+
+Requires: Enchanting skill (Master), Special Skill - (LOCKED)
+
+Even with Identify mastered, it can't tell me the skill needed. Ren thought.
+
+“Ah, you felt that.” Issac said. “I'm glad.”
+
+“Why?” Ren asked as Issac let his hand go.
+
+“Because it means you didn't cheat to get your Enchanting skill mastered.”
+
+“Wait, you can cheat to do that?” Ren asked, surprised.
+
+Issac laughed and clapped Ren on the shoulder. “Yes, like with everything, there are ways around having to spend years constantly enchanting things to level the skill.” He said. “I'm surprised you've done it this soon, though.”
+
+“I spent a year and a half in another realm.” Ren said, without even trying to lie about it. “All I did was enchant things after I built them.”
+
+Issac nodded. “You weren't struck by a lightning bolt, so I know you're telling the truth.”
+
+“Wait, what?”
+
+Issac pointed to the ceiling and Ren looked up. He didn't see anything, so he activated the Revealing Light enchantment on his bracelet. Everything within 25 feet became visible, and Ren saw an Amulet of Truth was secured to the ceiling. Only, it wasn't just an Amulet of Truth.
+
+Amulet of Punishment (Compulsion - Truth)
+
+Beings (creatures or persons) within the area of effect can't speak any deliberate or intentional lies. Anyone within the Aura cannot avoid speaking the truth when asked a direct question, or they will suffer one Level 1 Lightning bolt for each infraction.
+
+Any creatures or persons with no will of their own are unaffected by any truth-based spell or enchantment.
+
+Area of Effect: 25 foot radius
+
+“Okay, that's a bit cruel.” Ren said as he got the plans for it.
+
+“It''s only 1 to 4 damage, depending on the offender's Defense.” Issac said. “Barely a tickle, really.”
+
+“How did you remove the 'people always know they are in it' requirement?”
+
+“That my novice, is why you are here.” Issac said. “Despite mastering Enchanting, you have yet to learn everything.” He said. “Come, sit for a minute.”
+
+“Okay.” Ren said and went to the workbench and sat down.
+
+“Most people take weeks to learn this skill.” Issac said and sat down beside Ren. “Make me an Amulet of Truth, please.”
+
+Ren took out a blank disc and activated his Craft Wondrous Item ability and the 1 foot square platform appeared. He put the disc on it, and after it glowed for a few seconds, the amulet was done.
+
+“Good, now absorb the enchantment.” Issac said.
+
+Ren used his Retain Essence ability and absorbed the enchantment.
+
+“Altering an item's enchantment once it's done, isn't normally possible.” Issac said, and Ren mentioned his Double Infusion skill. “That's just doubling up on an enchantment.” He said. “You've been experimenting with it, I hope?”
+
+Ren nodded. “If I make the initial item myself, I can't Double Infuse it.”
+
+“That's the Rule of One.” Issac said. “If you try to do it yourself, it just replaces the original enchantment.”
+
+“Yeah, but if I get someone else to make it...”
+
+“You can Double Infuse it while enchanting it yourself.” Issac said. “That's the Rule of Two.” He said and smiled. “If you're careful, you can even stack things.”
+
+“You mean like enchanting pieces of metal and attaching it to the original?” Ren asked, and Issac nodded.
+
+“They can be Double Infused as well.”
+
+“So, now that I have a blank disc and a disembodied enchantment, what do you want me to do?”
+
+“I want you to open the recipe for the Amulet of Truth.”
+
+Ren did so, and told him what it said.
+
+“Now, I have a very important question for you.” Issac said, and Ren looked at him. “Do you have the Ingredient Substitute skill?”
+
+“I do.” Ren said. “But, that's for-”
+
+“You have the skill.” Issac said. “Who told you that you could only use it for making potions?”
+
+“I...” Ren blinked his eyes a few times. “Actually, I've substituted a few different things when making Wondrous items.” He said. “Instead of cloth boots for the Boots of Striding and Leaping, I used my armor boots instead and it made them that much... more... powerful.”
+
+Issac smiled. “Ah, I see you are finally getting it.” He said. “You've been using the skill without even realizing it.”
+
+“It hasn't cross-linked, though.” Ren said. “Like Soldering has with Glassworking and Smithing.”
+
+Issac chuckled. “That's because if people knew when your skill was high enough, that they could pretty much change what they wanted and get the same or better results...”
+
+Ren smiled. “They'd never come back to learn anything.”
+
+“Right you are.” Issac said. “Now, look at that recipe. That 'people knowing' thing is annoying, isn't it?”
+
+Ren chuckled.
+
+“Why not add a Lightning rune in it's place.” Issac said, and Ren shook his head. “What would you like it to have instead?”
+
+Ren thought about it for a moment. “I'd like for the lying person to get warm and start to sweat, that way, it's visible without hurting them.” He said. “I don't want to add the Fire rune, though. That would just burn them.”
+
+Issac smiled. “I'm glad to hear you understand the difference between producing Fire and producing Heat.”
+
+“I've been absorbing Fire for a long time now, and have been converting it to heat.” Ren said. “It makes warming up meals so much better.”
+
+“Well, then.” Issac said. “Just drop a Wind rune into it to replace that requirement.”
+
+Ren did that and closed the recipe.
+
+“Check the enchantment you have stored.” Issac said. “Is it the same?”
+
+Ren nodded.
+
+“Okay, keep the new recipe in mind and put enough Mana into the transfer to make the change.”
+
+Ren took a deep breath, held onto the blank disc, and used his Retain Essence skill to put the enchantment back with the modification. The amulet glowed for a second, and then he received a popup.
+
+Amulet of Annoyance (Compulsion - Truth)
+
+Beings (creatures or persons) within the area of effect can't speak any deliberate or intentional lies. Anyone within the Aura cannot avoid speaking the truth when asked a direct question, or they will suffer through a burst of air to the face for each infraction.
+
+Any creatures or persons with no will of their own are unaffected by any truth-based spell or enchantment.
+
+Area of Effect: 25 foot radius
+
+Notice!
+
+You have unlocked a Special Skill: Enchantment Alteration. This skill allows you to change and alter the ingredients in an already existing enchantment to have the effects that you want.
+
+“Okay, that was cool.” Ren said and looked at Issac. “I'm sorry that I didn't come back before now. Thank you so much for teaching me something this important.”
+
+Issac put his left hand on Ren's left shoulder. “I couldn't have taught you this until you were mastered in the skill anyway.” He said. “You wouldn't have understood the significance of it until then.”
+
+Ren nodded. “I'm tempted to just stay here and play with it, but I'm already late for a party quest.” He said and stood up. “Thanks again, sir.”
+
+“You're welcome.” Issac said. “Before you go, you need something that you've earned, through both hard work and perseverance.” He put his right hand on Ren's right shoulder and looked down at him. “You have learned what you can from me, so you are no longer my novice.”
+
+Notice!
+
+You have lost the title: Issac's Novice and all related bonuses.
+
+“I declare you a Master Enchanter, and I hope it opens your eyes to a whole new world to explore.”
+
+Notice!
+
+You have been declared a Master by Issac, Head of the Enchanter's Guild, and have gained the title: Master Enchanter.
+
+This title grants you: Membership in the Enchanter's Guild (Provisional for 6 months), the Rule of Two, and a new skill - Rune Creation.
+
+Ren stared at the popup in surprise. “Issac, there... there's an Enchanter's Guild? And you're the head of it?!?”
+
+Issac laughed. “It's not what you think.” He said. “I'm the head because no one else wanted the job. We never meet outside of social functions that we just happened to show up together at, and there's no membership fees.”
+
+“But...”
+
+“All it really does is let the other members know who you are, and if they feel like talking to you, they'll know it will at least be an interesting conversation for them.”
+
+Ren's mouth dropped open a little, and that made Issac laugh again.
+
+“Any other questions?”
+
+“Um... just...” Ren looked at the popup again. “I gained the Rule of Two.”
+
+Issac nodded. “And?”
+
+“What does it mean?”
+
+“What did we just discuss?”
+
+Ren thought back. “I can't use Double Infusion if I made the original object.”
+
+“That's the Rule of One.” Issac said and smiled. “Then what?”
+
+“If I have someone else do it...” Ren's eyes widened. “No way!”
+
+“That's the Rule of Two.” Issac said. “It lets you bypass the Double Infusion limitation.”
+
+“Oh, wow.” Ren said and put a hand on the workbench to steady himself. “I can Double Infuse by myself.”
+
+Issac nodded. “You have to be very careful with it, though.” He said. “Most materials can't handle a Double Infusion with a full enchantment of glyphs and runes.”
+
+“Oh, I know.” Ren said and chuckled. “I learned that lesson a few times since I started Enchanting.”
+
+“A few times?” Issac asked, and grinned.
+
+“You know... melting a copper ring... blowing up a wooden buckler... shattering a small diamond.”
+
+Issac laughed at the last one. “That must have been a sight!”
+
+“I was underwater at the time, so it wasn't too bad.” Ren said. “I was still lucky, though.”
+
+“When you come back to the city after your quest, you can look around my shop and see what you can learn.”
+
+“I have your permission to steal your things?” Ren asked, shocked.
+
+“You don't really need them, do you?” Issac asked back. “You can make your own runes to do things, now.”
+
+“Oh, right.” Ren said. “Show info for skill: Rune Creation.”
+
+Rune Creation
+
+This skill allows you to make runes of your own design, with effects of your own design, for an appropriate Mana cost.
+
+Ren stared at the popup. “You're kidding right? There's no hidden trick? No downside to making up my own things?”
+
+“Just the Mana cost.” Issac said. “Of course, a normal rune costs only a small amount now that you've mastered the skill. A rune of your own making will be almost 10 times that.”
+
+“Like that matters!” Ren said and hugged Issac. “This is so great!” He said and let Issac go. “I can't wait to play with it!”
+
+Issac watched as Ren ran across the shop to the door and thought he would plow right through it in his excitement, then he was surprised when Ren stopped just in front of the door. Ren had stopped because he had remembered what he wanted to talk to Issac about.
+
+“I almost forgot.” Ren said and walked back to Issac. “Do you remember that gauntlet you enchanted a while back? The one where I told you to use some of the runes to reinforce the metal so it wouldn't collapse under it's enchantment?”
+
+Issac nodded.
+
+“It was used to kill, and then to hurt one of my friends.”
+
+Issac sighed. “That's one of the things we have to live with.” He said. “It's all well and good to think people will use what you create to kill monsters and help people; but, the reality is, not everyone is nice. Not everyone wants to help people.”
+
+“No, some just do what they want, no matter who gets hurt and dies.” Ren said. “I'm not innocent in that regard, either. Things I've made have hurt and killed people, too.”
+
+“It's not a burden that people can, or should, take on lightly.”
+
+“No, you have to be strong.” Ren said. “You have to believe that the good that comes out of it can far outweigh the bad.”
+
+Issac smiled. “You're very wise for someone so young.”
+
+“That's because I've been through it.” Ren said. “Goodbye, sir.”
+
+“You can just call me Issac now.” Issac said.
+
+“No, I can't.” Ren said, and Issac nodded.
+
+“Now I have a request for you.” Issac said and smiled. “Make sure you show everyone what you can do.”
+
+Running Quest Update!
+
+Your old Enchanting teacher has told you to do the same thing as your blacksmith mentor. When you show people what you can do, you will gain an additional 50% XP bonus.
+
+“I will, sir.” Ren said. “Thank you.”
+
+“I want to hear more tales of The Hero of Aurora.” Issac said. “Your books were quite good reads.”
+
+Ren smiled.
+
+“By the way, you have a beetle on your shoulder.” Issac said.
+
+“Oh, that's Teepo.” Ren said, and Teepo waved his front leg at Issac. “He's been my constant companion and best friend for a long time.”
+
+Isaac waved back to Teepo before he realized he was waving at a bug, and then he looked at his own hand. Ren chuckled as deactivated the Revealing Light enchantment on his Major Displacement bracelet, which made Teepo disappear, and he left the shop at a run.
+
+*
+
+I know he's around here somewhere. Officer Holly said, just down the street from Issac's shop. I saw him run by. I know I did! Her eyes widened as Ren came out of a nearby shop and ran by her before she could react at all. She turned to see where he went, and he disappeared around the corner. I bet he's going to his shop. She thought and sighed. I should have just gone there and waited, instead of trying to look for him.
+
+*
+
+Ren went into the back of the shop and up to the apartment to get Elerlyth.
+
+“That was quite an errand.” Elerlyth said. “We're going to be really late.”
+
+“Oh, no we aren't.” Ren said and grinned. “In fact, we should get there just in time.”
+
+“Really?” Elerlyth asked as she equipped her now outdated armor and they went downstairs to the shop. “How is that possible?”
+
+Ren chuckled. “It's actually because of my errand.” He said and took out a large crucible, filled it with molten metal, and stored it again. “Princess is about to go a lot faster.”
+
+“Then let's go.” Elerlyth said.
+
+“Just a second.” Ren said, deactivated the forge, and walked over to Anabelle. No customers were around, so he took out a step ladder and climbed it. “I'm going to be gone for a few days on a dangerous quest.”
+
+“Be careful, and come back to me.” Anabelle said and hugged him.
+
+Ren leaned into her and whispered. “Even if I die, I'll still come back to you.”
+
+Anabelle's heart beat faster at the words. She knew he meant because he was an Adventurer, but she felt like it was much more of a promise to her personally.
+
+“You're so sweet.” Anabelle whispered back. “I just want to eat you all up.”
+
+“I don't have time for that right now.” Ren said and kissed her. “Maybe when I get back.”
+
+“Maybe?” Anabelle kissed his ear.
+
+“I can't let you have all the fun, can I?” Ren asked her, and she smiled.
+
+“Yes, that would be too much to ask.” Anabelle said, kissed him again, and let him out of the hug. “Have fun with your friends.”
+
+“Thanks.” Ren said and stepped off the step ladder and stored it. “See you when I get back.”
+
+Anabelle nodded, then Ren and Elelryth left the shop.
+
+“You really like her, don't you?” Elerlyth asked.
+
+“Of course I do.” Ren said and stopped beside Princess. “She runs a successful business all by herself.” He pat Princess' neck. “I pretty much dropped it on her, and she rose to the task admirably.” He smiled. “She's doing a much better job of it than I would.”
+
+“That's not true.” Elerlyth said.
+
+“Yes, it is.” Ren said and bent down. “Princess, I need to take your Hooves of Speed off for a minute.”
+
+Very well, My Lord. Princess thought. Ren opened her inventory and stored the Legendary Hooves of Speed. They still had the Horseshoes of Speed attached, and Ren thought about what he needed to do.
+
+“I think an Augment rune for Speed should work.” Ren said and took out his Book of Runes. “Now, what would a Speed Rune look like?”
+
+“What about dash lines?” Elerlyth asked. “You know, like they draw in comic books.”
+
+“Actually, that's not bad.” Ren said, and took out a writing instrument. He flipped to a blank page and drew 4 parallel angled lines, slightly staggered. “They need to be connected, too.” He said and drew a line through the ends. “Ha... it looks like a wing without feathers.”
+
+“Like Hermes!” Elerlyth said. “The greek god of Speed.”
+
+“He did have little wings on his ankles.” Ren said and smiled as he finished drawing the new Rune. He put his hand on it and poured a bit of Mana into it, and the rune disappeared. “Hey, what...”
+
+The rune reappeared at the top of the page, in the same color ink as the other 'official' runes, and Ren grinned at the popup he received.
+
+Notice!
+
+You have created a new Augment rune: Speed. This rune grants the user a +5% increase in their speed, and an appropriate increase in speed related abilities (running, jumping, etc.).
+
+“I wonder if 5% is the cap per rune.” Ren said. “That seems to come up a lot.”
+
+“You can always message the tech guys and-”
+
+“Not a chance.” Ren said and cut Elerlyth off. “I'm sure if I did, they'd try their best to change it, and might drop it down to 1% or something.”
+
+“I don't think they're vindictive like that.” Elerlyth said.
+
+“Excuse me?” Ren frowned at her.
+
+“Ah, never mind.” Elerlyth said and her skin grew slightly darker from her blush.

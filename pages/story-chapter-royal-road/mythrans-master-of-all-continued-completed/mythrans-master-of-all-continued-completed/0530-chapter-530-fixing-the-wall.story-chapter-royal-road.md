@@ -1,0 +1,169 @@
+---
+id: f4c0c165-87ba-5f36-a30e-544db7199138
+page-type-slug: story-chapter-royal-road
+title: "Chapter 530 - Fixing The Wall"
+slug: 0530-chapter-530-fixing-the-wall
+partOf: mythrans-master-of-all-continued-completed
+position: 530
+ownLength: 2360
+unit: words
+publishedAt: 2018-03-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199691/chapter-530-fixing-the-wall"
+royalRoadId: "199691"
+---
+
+Ren and his group travelled to the breach in the wall, and for some reason it looked a lot worse than it did in the All-Seeing Mirror.
+
+I guess it's because I can see it full scale. Ren thought as he hopped off of Princess and stood inside the 80 foot gap in what he thought was an imposing and possibly impassable barrier. I'm going to have to change that opinion, or at least what the barrier does.
+
+Xuunah could feel his disappointment and walked over to him. “It's not your fault that someone thought of a way around your ideas.” She said and put a hand on the back of his neck again. She could feel Ren relax at her touch, and that made her happy. “You've already thought of how to fix that, haven't you?”
+
+Ren nodded. “My animated statues didn't perform like I thought they should have. Once again, it's because I forgot that Dispel Magic would be devastating to them, no matter what their size was.” He said. “I could go through them and make them enchantments instead; but, I have a better idea.” He chuckled. “Well, I hope it's a better idea.”
+
+“Show me.” Xuunah said and let his neck go, then walked back over to the group. Ren walked over a part of the undamaged wall and put his hand on it. He concentrated on his recently gained Possession Restoration ability and poured Mana into the wall. It took a lot, and the dirt wall reformed and filled the space the Disintegrate Spell had left, then the Iron Wall grew over it and reformed into the proper shape, even with the battlement on top and the 10 foot wide walkway.
+
+“That was neat.” Teepo said.
+
+“Just wait.” Ren said and took out the Staff of Earth and the Permanent Iron Wall wand. “I'm not done.”
+
+Ren used the staff to lift up the dirt inside the wall slightly and formed a small space underneath, then cast Iron Wall under it to join the bottom like the top. The wall was now surrounded by the Iron Wall spell completely and dirt filled the space inside.
+
+“Won't that make it weaker to detach it from the ground?” Xuunah asked.
+
+“If I was leaving it that way.” Ren said and smiled. “Symmetra? Give me a hand.”
+
+Symmetra came over and took out her own Permanent Iron Wall wand. She and Ren cast the spell and made iron pylons that sat at a 45 degree angle to the wall and extended down into the ground Ren moved out of the way.
+
+“Why are you doing that?” Officer Holly asked. “You're removing one solid brace and replacing it with a magical one.” She said. “Isn't that going to be vulnerable to Dispel Magic as well?”
+
+“Not when I'm done.” Ren said and climbed onto Princess's saddle. “Everyone, you can wait here while I do this, or you can come along.”
+
+Symmetra took the covered cart out of Princess' saddlebag and attached it, then climbed into it and held her wand at the ready.
+
+“We're coming.” Zunala, the tall blonde succubus said and hovered in the air. “There's no way we're leaving you go off on your own with enemy troops potentially waiting somewhere along the wall.”
+
+Xuunah and Officer Holly agreed to that statement and mounted their steeds, and the 6 constructs shrunk themselves down and climbed into the cart with Symmetra. Ren looked at the fire elemental and thought about what to do.
+
+“I'll have to shrink you down to get you in the cart, since I can't carry you on my back while I work.”
+
+Zetaya nodded and Ren used the spell twice and reduced the fire elemental in size back to 10 feet. Zetaya climbed into the cart and ducked down to stay out of the way, and when everyone was ready, Ren had Princess run along the wall. He lifted the dirt and cast Iron Wall, and Symmetra cast the iron pylons to act as bracers. They did the entire county circumference in just under an hour and arrived back at the spot where the breech had occurred.
+
+They hadn't met or seen anyone along the outside of the wall, and Ren felt disappointment from the succubi. He thought about reassuring them, then shrugged because he would be needing their skills again soon. Ren rode Princess up and over the wall, and looked at the large empty space that had been left because the animated soldiers on that side had their magic removed. There was also a pile of stone statues, and Ren cast Permanency on them as a reminder of his mistake.
+
+“What now?” Symmetra asked.
+
+“Were going to replace the animated soldiers, then use Shaper to change them into something much more useful.” Ren said and took out enough of them to fill the empty space along the wall. They enlarged them to the right size, and then used the Shaper spell to make them into what Ren wanted. They also added things that would be useful to the new shapes, and then they went along the entire outside of the wall and changed all the animated soldiers into the new things.
+
+It took another hour for them to get back to the spot where the breach happened, and Ren felt everyone's eagerness for him to stop wasting time and to continue with his revenge plan. Even Xuunah was getting restless, and she was supposed to be a calming influence for him.
+
+“I've only got one last thing to do.” Ren said.
+
+“Ren, you... you can't...” Symmetra started to say, because she realized what he was going to do.
+
+“It's okay.” Ren said. “Believe me.”
+
+“I do; but, it's just...”
+
+“Don't worry.” Ren said and walked over to the now heavily modified wall. “You'll see.”
+
+“What is he doing?” Officer Holly asked.
+
+“Wait and see.” Symmetra said. “It's going to be both amazing and scary.”
+
+“Then why let him do it?”
+
+“I can hear you, you know.” Ren said, then ignored their response. He reached out and laid a hand on the wall in front of him, then enchanted it with Protection and cast Regeneration on it. With that done, he could do something that he thought would be quite a twist for the skill he wanted to use. He activated his special skill and concentrated on what he wanted to do, then poured Mana into the wall when prompted. He emptied his Mana Pool and had to use Major Healing on himself to refill it, then poured that into the wall as well.
+
+When the Mana requirement was met, Ren had refilled his Mana Pool again and reached an unprecedented 365,000 Mana; which was much more than he had ever added to anything before. He was then asked to add 1,250 platinum coins for the inherent value of what he wanted to make. He then had the option to add an inherent spell, and chose Spell Immunity.
+
+The wall glowed as the requirements were met, and Ren stood there for almost 10 minutes with his hand on the wall until he received the popup that told him the task was finished. He took his hand off the wall and looked up at his latest creation.
+
+“I hereby charge you with protecting this land you surround and it's citizens.” Ren said. “Do you accept, Babylon?”
+
+“Yes, My Lord.” A booming voice said. “You may all sleep safe, now that I am watching over you.”
+
+“Thank you.” Ren said. “I'll have Tee-one make you enough wands with the proper spells to fulfill your purpose.” He said and turned to look at the group with him. He had felt their surprise, and now he addressed it. “Everyone, I'd like to introduce my newest familiar, Babylon. He will make sure no one else will try to invade the county again.”
+
+Several of the things Ren and Symmetra had made and put on the outside walls, folded out. The shapes that they had changed the animated soldiers into were actually large arms, and each had a sword in the hand. They swiped through the air, and each arm had a 30 foot reach, not counting the 10 foot long blades. Since each arm was only about 10 feet apart, the entire outside area of the walls was a kill zone for anyone that dared to approach with evil intent.
+
+“Great Vasalor.” Xuunah said. “Ren, you...” She shook her head. “No one will ever succeed in an attack on the county again.”
+
+“That was my intent.” Ren smiled and pat the wall beside him. “Babylon won't let an attack like this happen ever again.” He said. “Plus, Disintegrate won't work on him, either.”
+
+“He can also warn us if anything happens.” Xuunah said. “Babylon, it's nice to meet you.”
+
+“It is a pleasure to meet you as well, My Lady.” Babylon said. “You may pass through my gate at any time.”
+
+“Now that I've got my land guardian in place, let's pay a visit to Lord Grasham.” Ren said.
+
+“Don't you think we should go to King Alamast first?” Teepo asked. “I mean, this happened inside his own kingdom.”
+
+“I probably should; but, I don't want him to say that I defeated the army and that there's no need to retaliate.” Ren said. “What's the old saying? It's better to ask for forgiveness than to ask for permission.”
+
+“What if that's what Lord Grasham believes?” Xuunah asked. “Wouldn't he have been justified in doing this if he did?”
+
+Ren opened his mouth to respond, then sighed. “I'll put it to a vote.” He said. “Who wants to go to the capital and report Lord Grasham?”
+
+Xuunah, Officer Holly, Symmetra, and 3 of the Succubi raised their hands.
+
+“Who wants to go to the next county and remove all future threats to us by the soldiers?”
+
+Everyone else raised their hands, including the 5 constructs and the fire elemental, Zetaya.
+
+“Should I bother to complain that it wasn't a fair vote?” Officer Holly asked.
+
+“How wasn't it fair?” Ren asked.
+
+“Obviously the succubi want to kill more men.”
+
+“Only with Ren's permission.” Zunala, the oldest succubus said. “None of us will do anything without that.”
+
+Ren looked at her and raised a single eyebrow, and she smiled at him.
+
+“I told you I was wrong for trying to undermine you, remember?” Zunala said. “I never imagined you would even think of letting us help you like this.” She said, and the other succubi nodded. Ren felt how much they appreciated his trust in them, and for letting them use their talents.
+
+“So you aren't going to complain when this is over and you have to go back to just patrols and keeping watch?”
+
+Zunala chuckled. “Considering we were scheduled for hundreds of years with back-breaking toil and submissiveness, while providing emotional meals for our previous owner... getting to live an almost normal human life seems like a dream come true.”
+
+“Even though you loved him?” Ren asked, and she nodded.
+
+“I believe that you are a proponent for different kinds of love.” Zunala said. “What I have for Murdrasu was not good or healthy, for either of us.” She said. “It still pains me that he's gone; but, as I've said before, I no longer hold his death against you.”
+
+“And that's not biased in your favor?” Officer Holly asked.
+
+“Are you saying I should limit the vote to Adventurers or something?” Ren asked.
+
+Officer Holly shook her head. “That wouldn't work with only you and I here.”
+
+“Then there's nothing to complain about.” Ren said. “I'm not going to restrict some of the people here and tell them they can't vote in something that they will have a part in.”
+
+Officer Holly opened her mouth to refute that when Xuunah put a hand on her shoulder.
+
+“He's right. There's no actual solution that will satisfy you.”
+
+Officer Holly sighed. “Okay, I'll stay quiet... right after I say one thing.”
+
+“Go ahead.” Ren said.
+
+“Aren't you just as bad as Lord Grasham if you invade his lands?”
+
+“No, because I'm not going there to pilfer their goods or technology.” Ren said. “I'm going to remove the soldiers that have no compunction about...” He shook his head. “These NPCs don't deserve to stay around if they won't think twice about doing things like this to their own citizens.”
+
+“I guess I can't argue that they won't all do that, can I?” Officer Holly asked.
+
+“No, because you felt their emotions just like Xuunah did.” Ren said. “They were going to enjoy ransacking the place, even though they know the people here don't really have anything for them to take.”
+
+“Except their lives.” Xuunah said.
+
+Officer Holly had no choice but to nod, because she could remember everything she had experienced while her new Righteous Fury Aura had been active during the battle. It was intoxicating for her to feel a criminal's emotions and to know for a fact that she was stopping a crime from happening. She wasn't used to killing criminals for their crimes, though. That was a new experience for her.
+
+“You don't have to come along for this.” Ren said, and Officer Holly held a hand up to stop him.
+
+“You're not leaving my sight, now that I can do my job effectively.”
+
+“I will stay by your side as well.” Xuunah said. “I'll even refrain from saying 'I told you so' when King Alamast hears about this and tells you that you should have gone to him first.”
+
+Ren chuckled. “I'll hold you to that.” He said. “Is everyone ready?” He asked and looked at them all, and everyone nodded. “Then we can go and see what evil we can smite in the hearts of evil men.” He said and looked at Zunala. “Lead us to the closest soldiers, please.”
+
+“With pleasure, My Lord.” Zunala said and took off, then the other succubi followed her into the air. Ren climbed onto Princess' saddle and she and the cart she pulled with Symmetra, her 6 constructs, and Zetaya, went up into the air to follow as well.

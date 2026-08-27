@@ -1,0 +1,375 @@
+---
+id: e0d536e6-33d6-5c1e-9b5d-76f46f8ab511
+page-type-slug: story-chapter-royal-road
+title: "Chapter 395 - Take A Nap"
+slug: 0391-chapter-395-take-a-nap
+partOf: mythrans-master-of-all-continued-completed
+position: 391
+ownLength: 3373
+unit: words
+publishedAt: 2017-10-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169419/chapter-395-take-a-nap"
+royalRoadId: "169419"
+---
+
+Ren walked down the road towards the Main House. Several people stood in front of the Refugee Center and waved to him, and he waved back. He stopped in front of the Main House and made a huge wood and stone basin 10 feet long, 10 feet wide, and 2 feet deep. He lined it like a barrel to make it waterproof, then dumped in the two barrels of pelt treatment solution.
+
+Ren laughed when several people over at the Refugee Center started to complain about the smell, and he added the 30 wolf pelts to it. He used the top of the barrel to push the pelts down into the solution, and then stored the whole thing and the empty barrels. He waved to the people who complained and went around to the back of the Main House and used the Staff of Earth to make a depression to fit the wood and stone basin inside. He added it, and made a wood cover for it, then went back around to the front of the Main House. He went inside and greeted Princess, then went up the stairs.
+
+Elerlyth sat by the door to his apartment. “I don't have a key for this place.”
+
+“That's because you have your own place.” Ren said. “Which reminds me. Where is your place exactly?”
+
+“Ren, I...”
+
+“I don't want to know for personal reasons.” Ren said. “I've added an exclusive zone around it, and want to make sure it's in the right spot.”
+
+“An... exclusive zone?”
+
+“Yeah, as in 'Restricted'. Anyone besides you that enters it gets a popup warning, and NPCs won't even go near it.”
+
+“Oh, Ren.” Elerlyth said and stood up, and he felt how much she appreciated him. “Why are you always so good to me?”
+
+“It's a bad habit.” Ren said and grinned, and she smacked his shoulder. The clang of armor on armor was twice as loud inside, and they both winced.
+
+“I'm sorry.” Elerlyth said and stored her armor. “Now my ears are ringing.”
+
+Ren chuckled and opened the door to the apartment. “You deserved that.” He said and stored his own armor as he walked inside. He opened the Land Owner menu and Elerlyth described where her cabin was, and he had to move the zone only a short distance.
+
+“I was pretty close.” Ren said and yawned as he closed the menu. “I want to go to sleep, but I have to log out and eat first.”
+
+“Me, too.” Elerlyth said and yawned herself. “We haven't slept in...” She shook her head. “I always mess up the game and real time when I cross them.”
+
+“I know exactly how long it's been.” Ren smiled. “It's been a while.”
+
+“Very funny.” Eleryth said and climbed onto the bed and laid down. “Get over here and cuddle with me.”
+
+“What if I don't want to?” Ren asked and climbed onto the bed.
+
+“Then I'd have to question what universe I was in.” Elerlyth said and opened her arms for him. Ren chuckled as he snuggled into her. They held onto each other for a minute, then they logged out.
+
+********
+
+“I'm exhausted.” Ren said and slid the VR headset off.
+
+“You stayed in late, so I have lunch done already.” Denise said and pulled over the rollaway table with two bowls of chicken noodle soup, 4 slices of bread and butter, 2 glasses of soda pop, and Ren's supplement drink.
+
+“Oh, that's great!” Ren said and sat up. “We can eat and get back into the game, then catch up on some sleep.”
+
+Gloria sat up and slid over to Ren's side of the bed. “Thanks, Denise.” She said. “I appreciate this.”
+
+“I wasn't going to make Ren something and not feed you, too.” Denise smiled. “I assume you're staying for supper, too?”
+
+Gloria looked at Ren. “I might head out instead, if that's okay.”
+
+“I'm not your keeper, Gloria.” Ren chuckled. “We don't have any pressing matters to attend to in the game, now that the quest was finished so soon.”
+
+“I expected it to take up to 3 game days, and then even longer when we found out it was ghouls.” Gloria said. “Who would have thought that bringing down the main cavern on top of them would kill nearly every one of them?”
+
+“Especially considering I only intended to light them on fire.” Ren said and laughed. “Containers of oil explode when they get hot. Go figure!”
+
+Gloria laughed and they ate the food Denise made for them.
+
+“Thank you.” Ren and Gloria said at the same time when they were done, and then pointed at each other. “Jinx!” They said together, and that made them laugh again.
+
+“You might want to use the bathroom before going back in.” Denise said and moved the rollaway table out of the way.
+
+“I think...” Ren started to say when his belly rumbled oddly. “...that's a good idea.” He slid off of the bed and walked towards the bathroom. “I'm going to be a few minutes.”
+
+It was almost 10 minutes later before he came back out.
+
+“Do I need to spray air freshener in there?” Denise asked.
+
+“I was going to warn you about lighting a match, so probably.” Ren said and laughed as he climbed onto the bed.
+
+“I didn't want to hear that.” Gloria said and covered her ears.
+
+“You're covering the wrong part.” Ren said and tapped her nose with a fingertip.
+
+“Ew.” Gloria said and Ren laughed again.
+
+“Do you need to...”
+
+“Absolutely not.” Gloria said. “Girls don't do that kind of thing.”
+
+“Oh... my... god. The rumours are true!”
+
+“What rumours?”
+
+“Girls poop sprinkles and fart rainbows!” Ren said, and held his sides as he laughed and laughed at the expression on Gloria's face.
+
+“That's not funny.” Gloria said.
+
+“N-n-no, it's hilarious!” Ren said and rolled around on the bed. “Fart r-r-rainbows! Ha ha!”
+
+“We. Don't. Fart.” Gloria denied sternly, which just made Ren laugh more. “We don't!” She said. “We hold it in!”
+
+“Bwahahaha!” Ren guffawed. “Oh... oh... you're killing me! Hahaha!”
+
+“It's not funny!” Gloria said. “You've held a fart in before, haven't you? How did that feel? Did you enjoy it?” She asked and made a fist. “It's one of the things women put themselves through to be around a man that they care about!”
+
+Ren's laughter died away and he sat up. “Gloria, I was joking.” He said. “I know women fart.”
+
+“Ren...”
+
+“They have to.” Ren said. “If they don't let it out, then they'd probably be bitchy and complain all... the... time...” His eyes widened. “Oh, my god! You actually don't fart!” He exclaimed and started laughing again. Denise couldn't help it and started to laugh, too.
+
+“Not you, too!” Gloria looked at the nurse. “You're destroying the illusion of our mystique!”
+
+“Bwahahaha!” Denise guffawed just as loudly as Ren had, and Gloria stared at the two of them.
+
+“What is wrong with you?” Gloria asked.
+
+Denise calmed down first and wiped the tears from her eyes. “Ren's been around nurses for years, day in and day out.” She explained. “He's seen us at our worst, heard us expelling gases on both ends, and smelled everything our bodies can produce.”
+
+Gloria blinked her eyes at Denise, then looked at Ren. He was laying still and looking up at her. “That doesn't bother you?”
+
+Ren shrugged. “I'm not one to throw stones.” He said. “Glass houses and all that.”
+
+Gloria shook her head. “Are you for real?”
+
+“Nope.” Ren chuckled. “I'm just a figment of some poor fool's imagination.”
+
+“You must be.” Gloria said and caressed the side of his face. “You're almost too good to be true.”
+
+“You know I require constant nursing care, right?” Ren asked and put a hand on her hand.
+
+“That's where the almost part comes in.” Gloria leaned down and gave him a chaste kiss, then sat up and smiled. “If you were in full health, I'd know someone was trying to play a practical joke on me.”
+
+Ren chuckled. “Okay, I'll give you that.”
+
+“Are you ready to get some sleep?” Gloria asked, and Ren nodded. She moved over to her side of the bed where she had left her headset, then laid down on the bed. She put her VR rig on and relaxed.
+
+“Flow Login Start.”
+
+Denise passed Ren his headset, and he took her hand.
+
+“I know I don't say this enough.” Ren said and squeezed her hand slightly. “I appreciate everything that you do.”
+
+“Ren, you can say that to pretty much everyone that takes care of you.”
+
+Ren smiled. “Yes, because you're all so good to me.” He said. “That doesn't mean I don't appreciate you any less.”
+
+“But...”
+
+Ren saw her hesitation. “Go ahead and say it.”
+
+“If I was any other woman, you'd be saying the same thing.”
+
+“Possibly; but, I don't offer myself to every woman.” Ren said. “Like Bonnie. I wouldn't offer her a room if she was still able to take care of me.”
+
+“You... you wouldn't?” Denise asked, surprised.
+
+Ren shook his head. “She's nice and I like her, but...” He sighed. “It's like... she was trying too hard. I didn't need freshly squeezed orange juice every time I wanted something to drink, or gourmet oatmeal with maple syrup and hand ground walnuts and brown sugar when all I wanted was a bowl of porridge.”
+
+“Why didn't you say anything?” Denise asked.
+
+“I did.” Ren said. “For months, almost every day.”
+
+“I meant to one of us, not Bonnie.”
+
+“I know what you meant.” Ren said and smiled. “If Barbara and Stella couldn't get her to change her ways, then there was no chance at all that you were going to convince her.”
+
+Denise chuckled. “All right, I have to agree with you there.”
+
+Ren put on his VR headset. “See you at supper.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in Elerlyth's arms, and sighed.
+
+“What took you so long?” Elerlyth asked.
+
+“I wanted to see what it was like to make out with you while you were unconscious.” Ren laughed, and then he felt some guilt from her and looked at her face. “Hey, I was joking.”
+
+“I know you are.” Elerlyth said.
+
+“Then what was the guilt for?”
+
+“I... ah... kissed you once when you were like that.”
+
+“You did?” Ren asked, and thought about it. “How was it?”
+
+“It was empty.” Elerlyth said. “I was a little excited to steal a kiss from you; but, then I did and-” She stopped talking and smiled. “If you're not there, it just seemed meaningless.”
+
+Ren sat up a little and leaned over her, then kissed her. Elerlyth moaned as he fed her how much he liked kissing her, then he stopped kissing her and laid back down.
+
+“Go to sleep.” Ren said.
+
+“But, you're still feeding me.” Elerlyth said.
+
+“Do you want me to stop?”
+
+Elerlyth sighed and held him close. “I never want you to stop.”
+
+Ren felt the truth in her words and nuzzled her neck. “Goodnight.”
+
+“Goodnight.” Elerlyth said.
+
+The two of them drifted off to sleep floating on feelings of happiness and contentment.
+
+*
+
+“My Queen, you are going to break her.” The healer said as she used her Major Healing ability to regrow the large chunk of flesh that Lylyth had cut out of her attendant's thigh.
+
+“I am almost at the point that I don't care.” Lylyth said. “These names she has given me are insufficient. Ren has already given me their heads!”
+
+“My... My Queen... I... I've told you... everything...” The attendant said, and Lylyth sighed.
+
+“I do not understand why you are so blatantly lying.” Lylyth said. “It's like you... you want me... to kill you.”
+
+The attendant tried to hide how much she wanted that; but, she couldn't hide anything from her Queen.
+
+“Why?” Lylyth asked.
+
+The attendant let tears come to her eyes finally, after a day of interrogation. “The Royal Consort killed my love, Arcturis. I must join him.”
+
+“If that is what you want, then I will send you to him.” Lylyth said. “As soon as you tell me what you know.”
+
+“My... My Queen... I... have...”
+
+“Healer? Is she under a compulsion spell?” Lylyth asked when she felt yet another lie from the attendant.
+
+“No, My Queen.” The healer said. “But, perhaps... it is a bonding condition.”
+
+“A bonding... oh, that fool.” Lylyth closed her eyes. “Even now, he attempts to keep his sheep from the wolf.”
+
+The healer nodded, even though Lylyth couldn't see her.
+
+“You will not join your love upon your death because of the bonding.” Lylyth said and opened her eyes. “Do you still wish to try?”
+
+“I do, My Queen.” The attendant said.
+
+A giant spider leg formed beside Lylyth, and she could feel the peace that her attendant felt. The spider leg darted out and pierced through the attendant's chest, her heart, and out her back. She gasped once, smiled, and died.
+
+Lylyth waved a hand at the wall of spiders. “Bring me the ones that clapped for Grimlow during his duel with Ren...” She paused for a moment, then made a decision. “...and at least one member of their families.”
+
+*
+
+Clint and the guys sat around a table at his ranch in the game, and drank the normal ale he had bought the last time he had been in Aurora.
+
+“I can't believe that last quest.” Hank said and raised his tankard. “Can you believe it? We made the leader board with only one quest!”
+
+Billy clanked his tankard against Hanks, then held it out to Clint. “Your 100% XP Fame boost, with that 25% new quest bonus was awesome!”
+
+Clint lifted his tankard to clank. “It shore was nice ta git so much XP.”
+
+“I went up 2 levels, man!” Tommy said. “I haven't gone up 2 levels since I was below level 50!”
+
+Dillon laughed. “Me, either.”
+
+“None of us have.” Hank said, and motioned with his tankard to Clint. “And it's all thanks to that man right there.”
+
+“Ah'm thinkin' yer thankin' tha wrong man.” Clint said and took a drink. “Ren pretty much did it ahl by hisself.”
+
+“Hey, man... we did a lot.” Tommy said.
+
+“Did we?” Clint asked. “Ah'm pretty shore ahl ah did was walk behin' Ren an' watched wha' he was doin'.”
+
+“We dug those holes and ran the sprinklers.” Billy said.
+
+“We fought in the tunnels.” Hank said.
+
+“An' we drank his ale and let 'im go inta tha ghoul factory wit only 'Lith as backup.” Clint said. “Ah knew ah was outta mah depth a little with tha quest when Ren was tha one ta correc' mah mistakes accep'in it; but, dammit.” He smiled. “We was jus' extra hands.”
+
+The guys looked at each other for a moment, and then Hank raised his tankard.
+
+“To Ren.”
+
+They clanked their tankards together and drained them.
+
+*
+
+Ren woke up in Elerlyth's warm embrace, and he felt her breath on the top of his head. His face was nestled between her breasts, but since they were both still wearing their armor bodysuits, he could only feel her warm skin through the web cutout pattern.
+
+Hi, Teepo. Ren thought. How's the time?
+
+“You've got a good 10 minutes before breakfast.” Teepo said.
+
+Wow, that long? Ren asked and chuckled.
+
+“Hm?” Elerlyth took a deep breath, which pressed his face into her chest. “G'morning.”
+
+“Morning.” Ren lifted his head and kissed her. “Teepo says we have a full 10 minutes before breakfast.”
+
+Elerlyth chuckled, just like Ren did, and he felt her amusement. “Do we have to get up?”
+
+“Nope.” Ren said, and she looked at him.
+
+“We don't?”
+
+“There's a few things I should get done.” Ren said and smiled. “Most of them can wait.”
+
+“Only most?”
+
+“Princess being fed is always a priority.” Ren said and slid out of her arms. “I'll be right back.”
+
+Elerlyth nodded, and Ren left the Main House apartment at a run. He was downstairs a few seconds later, and left a sleeping Princess 2 plates of food. On a whim, he left one on the desk in the Mayor's office, then ran back upstairs.
+
+“That was fast.” Elerlyth said.
+
+“I left food and came back.” Ren said and climbed onto the bed. “I'm already a little chilly from being out of your arms.”
+
+Elerlyth chuckled and took him into her arms. “So am I.”
+
+Ren snuggled into her again, and Elerlyth sighed into his hair.
+
+“Ren, why are you so cuddly?”
+
+“It's a gift.” Ren said, and she chuckled. “Seriously, though... I think it's because I like hugging so much.” He said. “I mean, hugs are great. I get to show you that I care, and you get to hold me and don't have to worry that it might turn sexual.”
+
+Elerlyth thought about it. “I think you're right.” She said, and he felt that she was a bit surprised about it. “I can hug you as much as I want and you will never say no, will you?”
+
+“Darn right I won't.” Ren said. “I am a hugging machine that runs on hugs.” He said and smiled at her. “Please deposit hugs here.”
+
+Elerlyth laughed. “I'd say you should wear a 'free hugs' sign, but you won't hug just anyone.”
+
+Ren shook his head. “I've made a few exceptions over the years; but, I usually save the good hugs for those that deserve them.”
+
+Elerlyth nodded slightly, and realized she'd received quite a few hugs from him over the last day and a half. It made her face flush a darker grey, and she squeezed him tightly.
+
+“We should get some more sleep.” Elerlyth said, and Ren nodded. It rubbed her chest and it made her tingle a little; but, Ren was right. He wouldn't push it to something sexual unless she wanted him to. She kissed the top of his head and rested her cheek against it. They drifted off to sleep together once again, and they were both quite happy about being in each other's arms.
+
+*
+
+“I really miss him.” Frikara said and rubbed her arms like she was cold.
+
+“I do, too.” Andrela said. “I know he usually isn't even here at times like this; but, we usually see him once a day at least.”
+
+“I want to feel his warmth.” Frikara said, and the maids looked at her. “You know what I mean.” She said. “How he feels about us.”
+
+“We've already mastered the Contact Auras he gave us.” Lusinia said. “Having them on all the time is great; but...”
+
+“...without him here, even sharing full emotions with each other seems...” Navruth continued.
+
+“...like having an empty stomach.” Verwynn said. Her stomach rumbled a moment later and the other maids laughed.
+
+“Go ahead and eat, Verwynn.” Frikara said. “It's breakfast time, anyway.”
+
+“Yes!” Verwynn said and they all felt her joy as she climbed off the bed and opened the icebox. “Plates of food for everyone!”
+
+The plates were passed to the others, and they all sat up to eat.
+
+“I wish he was here to eat this with us.” Andrela said, and the other maids nodded.
+
+“He said it was only for a few days, so he might be back tomorrow.” Lusinia said.
+
+“I hope so.” Frikara said, and then had a great idea. “Let's throw him a welcome home party!”
+
+“That... that is a great idea!” Andrela said. “We can get different food from the restaurant, and we can invite the people he knows.”
+
+“Where should we hold it?” Navruth asked.
+
+“The Refugee Center.” Andrela said. “It's been empty for a few weeks now, and it can easily be used for a big gathering!”
+
+“Then it's settled.” Frikara said. “I will get the decorations from the tailor shop. Verwynn and Navruth can get the food.”
+
+“What about us?” Lusinia and Andrela asked.
+
+“You have the most important job.” Frikara said. “You get to invite his friends.”
+
+“Consider it done.” Lusinia said. “Andrela will hunt them down and I will tell if they are friends or not.”
+
+Frikara nodded. “Then let's eat and get a move on.” She said. “He's going to be so surprised!”

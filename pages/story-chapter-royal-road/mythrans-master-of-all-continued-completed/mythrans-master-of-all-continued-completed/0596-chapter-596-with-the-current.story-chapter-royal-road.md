@@ -1,0 +1,221 @@
+---
+id: dbfcba04-1e06-5258-9e9b-fd8f710b14ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 596 - With The Current"
+slug: 0596-chapter-596-with-the-current
+partOf: mythrans-master-of-all-continued-completed
+position: 596
+ownLength: 2831
+unit: words
+publishedAt: 2018-05-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218237/chapter-596-with-the-current"
+royalRoadId: "218237"
+---
+
+Princess, being the ham that she was, made the difficulty of trying to pull the ship so convincing that Ren almost thought she was actually struggling with the weight. He could feel her emotions and knew she was just playing around; but, he could also hear the comments from the crew about cruelty to animals.
+
+Ren almost laughed at that, and then Princess started to walk. The crew of the ship cheered for her, and she let those feelings bolster her, even though she knew they were gained under a false pretense because she pretended to struggle. She started to walk faster, and then trot, and Ren could barely hear himself think over the roars from the crew. Princess eventually got up to a full trot and they travelled at a significant speed, and Ren felt the disbelief from the crewmen.
+
+“How in the world are we moving so fast?” One of the crew asked of no one in particular, because he didn't know that Ren could hear him. “I don't think we've ever gone this fast in the ship before.”
+
+“We were close once.” The captain said. “When we were on the edge of that hurricane.”
+
+“Ha!” The crewman barked a laugh. “We lost the mainsail from that!”
+
+“Aye, and we still went nearly this fast.” The captain said. “Now imagine if the sail had held.”
+
+The crew grew silent as their gazes fell upon Princess once more.
+
+Princess had been right in her estimation for how long it would take to bring the ship at that speed to Aurora, and Ren had her slow down as they approached the dock. He didn't want to alarm the dock workers with what looked like a runaway ship, and he used the All-Seeing Mirror to direct Princess to an appropriate docking berth for the ship.
+
+“Get ready, men!” The captain said as Princess pulled them up to the dock. She came to a stop at just the right spot, and a bunch of crewmen jumped across to the dock and secured a dozen tow lines to the braces there. The men pulled the ropes tight using winches and pulleys, then tied them off when they had all of the slack out of them.
+
+The crew waved to the captain, and he nodded to Ren, who hopped off of Princess and unhooked the cart, then dismissed both Water Walking and Air Walking spells from it. It dropped several inches into the water and he stored the cart, now that it was free of its burden. The ropes secured to the dock held the ship upright, and the crew cheered when the ropes only creaked once and didn't move. Ren and Princess went up to the dock while Artemis and the 4 succubi flew overhead.
+
+“Thank you very much for helping us finish our journey.” The captain said and shook Ren's hand. “I fully expected to stay out there until our supplies ran out.”
+
+“I hope you've realized you should adjust your course to avoid that area.” Ren said and let his hand go. “If you don't, this is going to happen again.”
+
+The captain sighed. “We'll have to reduce our carrying capacity by almost 20% in order to carry the supplies needed for the crew to be at sea for the extra time.”
+
+“It's better than losing 100% of your cargo... and your ship.” Ren said.
+
+The captain nodded. “I'll send for one of the mages and see if they can remove the spell from the hull.”
+
+“You did great!” One of the crew said to Princess and pat her armored side. “I can't believe you hauled that whole thing all by yourself!”
+
+Princess huffed and rolled her eyes, which indicated that she just did haul it by herself, and the crew gathered around her laughed.
+
+“Ha! She told you!” His friend said and slapped him on the shoulder.
+
+“Gentlemen, we have to go.” Ren said and took Princess' reins.
+
+“Thanks a lot for saving us, sir.” One of them said.
+
+“Thank you.” Another said and saluted.
+
+“For a Sea Dweller, you're not so bad.” One man said and grinned at Ren.
+
+Ren and Princess walked down the dock to the main area and found the woman who had given him the quest as she sat in front of the fish stand. “Ma'am? I found your husband, Galen.”
+
+She stared at him blankly for a few minutes, then what he said registered. “You WHAT?!?”
+
+Ren pointed to the ship that was currently unloading it's cargo farther down the dock. “I went to where it happened, and got him back from the Sea Dwellers.” He said. “Since I was there, I couldn't just leave them there.”
+
+The woman dropped her sword and stood up, then she bent over slightly to give him a hug. “Th-thank you.” She said as she started to cry. “You don't know what this means to me.”
+
+“I do, ma'am.” Ren said, and she let him go. “He needs you just as much as you need him.”
+
+The woman nodded and wiped at her tears. “For a Sea Dweller, you're not so bad.”
+
+Ren smiled because one of the crewmen had just said that to him. They might not have had this kind of situation in mind when writing the dialogue. He thought as she pat his shoulder, then he watched her walk away down the dock. I wonder if anyone else will bring the whole ship back.
+
+“I doubt it.” Teepo said as Artemis and the succubi landed beside Ren and Princess. “Who else do you know that could manage to bring the whole ship back, and not just the crew?”
+
+Ren opened his mouth to reply, then he had to think about it. “Huh.” He said. “No one.”
+
+Quest complete!
+
+You have investigated the case of the missing crewmen and found out what really happened.
+
+Rewards: 875 XP; 1,000 gold coins
+
+Fame: +500
+
+Notice!
+
+Your Fame is currently maxed. The excess Fame will be converted to XP.
+
+Fame (500) x 10 XP = 5,000 XP
+
+Hidden Quest complete!
+
+You discovered the truth about the missing crewmen and took it upon yourself to free the captives at great risk to yourself.
+
+Rewards: 8,245 XP; 5,000 gold coins
+
+Fame: +1,000
+
+Notice!
+
+Your Fame is currently maxed. The excess Fame will be converted to XP.
+
+Fame (1000) x 10 XP = 10,000 XP
+
+Optional Quest complete!
+
+You have safely returned all of the stranded crew to port. That was unnecessary, since another ship was nearby and would have rescued them.
+
+Rewards: 25,000 XP; 15,000 gold coins
+
+Bonus (for bringing the captain back to port): 10,000 XP; 1,000 gold coins
+
+Recovery Bonus (for getting the expensive cargo back to port): 25,000 XP; 5,000 gold coins
+
+Fame: +1,000
+
+Notice!
+
+Your Fame is currently maxed. The excess Fame will be converted to XP.
+
+Fame (1000) x 10 XP = 10,000 XP
+
+Notice!
+
+You have gained a level! You are now level 148 and 10 stat points have been automatically allocated.
+
+“I just gained a level and didn't get anything new.” Ren said.
+
+“It's happened before.” Teepo said. “Before you got stuck with that hidden recipe I mean.”
+
+“Yeah.” Ren said and looked around. He saw the woman find her husband and they embraced each other. “I guess we're done here.” He said, then he, Princess, and Artemis walked down the dock and entered the city through the East Gate.
+
+*
+
+A mage walked over to the captain of the ship that Ren just rescued and talked for a moment, then waved his hands in an elaborate gesture. A moment later, he did the same gesture again and the ship's keel broke the surface of the water and all the ropes creaked and groaned as they took the full weight of the ship.
+
+When Ren was far enough away that his Aura no longer covered the dock, the woman let her husband out of the embrace and gave him one last kiss. The crewmen climbed back aboard and untied the ropes holding the ship, then used the winches and pulleys to lower the ship into the water. The woman walked back across the dock to sit in front of the fish stall.
+
+The ship quickly cast off and unfurled all of it's sails, then a strong wind appeared and pushed the ship at its top speed out of the harbour. The woman looked down at her dropped sword and picked it up, then she started to visibly shake and cried for her missing husband.
+
+*
+
+Ren went back to the business to see what was going on, and it was just as busy as it was earlier. Tee-one worked at the forge while Anabelle and her three helpers dealt with the customers. With nothing requiring his attention, Ren left there and went back to the Housing District. He put Princess into her old room and went up the stairs to the big bedroom. Artemis and the succubi went with him, and when he opened the door, he saw that the room had two more beds added to make one large bed.
+
+“What's this?” Ren asked.
+
+“You said to make ourselves at home.” Seldanna said. “There's no room for individual beds, so we made one large one.” She said and crawled up onto it. He couldn't help but admire her backside as she did so, then she folded her wings in and laid down on her side. “Even with most of the room filled with the bed, it's still going to be a tight fit with all 6 of us on it.”
+
+Ren was about to nod, then stopped. “Wait, what do you mean 6?”
+
+“Well, the 4 of us.” Seldanna said as the other three succubi crawled onto the bed. “Then you and Artemis makes 6.”
+
+Ren was going to protest, then he felt a hand on his arm.
+
+“You can feel their emotions, Ren.” Artemis said. “They aren't trying to seduce you.”
+
+Ren sorted through the emotions he could feel from them and had to agree.
+
+“You need to rest if you are going to spend this evening with Anabelle.” Seldanna said and pat the bed beside her. Ren was still going to say no, then Artemis crawled up onto the bed and laid down close to Seldanna. She left just enough room for him to lay down between them, and he sighed.
+
+“Suniva, you haven't said much the last little while.” Ren said.
+
+“Ren, I... I was right next to a Water being. Right next to her!” Suniva said, her voice and emotions full of wonder. “I wasn't afraid at all, even though I knew she could have killed me in an instant if she wanted to.”
+
+“I wouldn't let that happen.” Ren said.
+
+“I know you wouldn't, but... thanks to this necklace, I wasn't afraid of being captured or engulfed in water, because I would always have a layer of air around me that I can burn in.” Suniva said. “As long as I burn, I live.” She leaned in and kissed his cheek. “You did this for me.” She said. “You made me whole.”
+
+Ren smiled. “When your wings finish growing back, then you'll be whole.”
+
+“No, Ren.” Suniva said. “I feel whole right now.” She hopped off his shoulder and ran over to the bed, then stood on the pillow. “My wings will grow back in time, also thanks to you.” She said, then her 1 foot tall form sat down and she pat the pillow. “Rest your head for an hour, My King.”
+
+Ren knew they were ganging up on him to try and get him to relax, so he relented and walked over to the bed. He stored his platinum armor and left himself in just his underwear, then climbed onto the bed and laid down between Artemis and Seldanna. The bed shifted slightly as the succubi moved in closer, and their wings unfolded and covered him and Artemis.
+
+Suniva walked around to stand on his chest, then leaned close and kissed his top lip. “Sweet Dreams.” She said and laid down on his chest. She sighed contentedly and closed her eyes, then Ren and the others did the same.
+
+********
+
+Barbara had re-watched Ren's interactions with the maids on the laptop while Ren had travelled back to the dock with the rescued ship, and she heard the extent to which their programming had been changed.
+
+It really is tearing them apart to have Ren near them. Barbara thought and looked at Elise as she slept in the bed next to Ren. I'll tell her about this as soon as she wakes up. She thought and sighed. Maybe she can do something to help, or put in a good word or something.
+
+Barbara closed the laptop and sat back as she watched the current game Ren was playing, then she saw him climb into bed with the succubi.
+
+Oh, Ren. Barbara thought. You already feel the need to replace them with surrogates, and it only just happened. She was quite tempted to wake Elise right away and fill her in on the situation, then she realized that nothing could happen during the night, even if Elise was awake. She would have to wait until morning before she could do anything.
+
+Don't worry, Ren. We'll get this sorted out as quickly as possible. Barbara thought and watched Ren go to sleep. She felt relief that he wasn't doing anything else besides that, and she sighed at the thought of protecting his virtue, even after he had been with several women. To her and to him, they were still sexual experiences that he had and it didn't matter if they were virtual or not.
+
+*
+
+Gloria had thought about what Ren had said, and it made her angry enough that she had logged out of the game to cool off. She thought about how he should have reacted, and her body responded to what should have happened between them.
+
+It started out how I had thought it would go. Gloria thought to herself as she got up and went to the counter to grab the job portfolio. Boy, did it go completely in a different direction, or what?
+
+Gloria looked through the information yet again, and she knew this job was too good to be true. Just the perks alone seemed to be designed for someone that had been at the company for a while.
+
+“Goddammit!” Gloria exclaimed and slammed the portfolio back onto the counter. It burst open and all the pages and photographs slid out of it and onto the counter. She sighed and gathered them back up and put them in order, then closed the portfolio again.
+
+“Ren's right. I really need to talk to Stella and Elise about this in the morning.” Gloria said, then she sat down and stared at the company's name on the front of the folder. “I just have to figure out how the hell am I going to sleep until then.”
+
+********
+
+Ren slept for the whole hour, as did everyone else, and he woke up fully rested. He opened his eyes and looked at the pixie that laid on his chest. She had kept her clothes on, and he was a bit surprised by that.
+
+“She's not trying to seduce you, either.” Artemis whispered, and Ren looked at her. She felt his emotions and she reached over to cup the side of his face. “You expected it, even knowing they weren't going to do it.”
+
+Ren nodded. “With the way things have been going, I thought I'd have 6 naked women near me when I woke up.”
+
+“We can be.” Seldanna said, and he turned his head to look at her. “Despite what you may think, we don't try to seduce everyone we meet.”
+
+“We do try to sample their emotions without actually feeding, though.” One of the others said. “I mean, come on. They're right there for the tasting!”
+
+Ren chuckled. “I know. It's really hard to keep from just sucking it all in when they offer up so much all the time.”
+
+“That's it exactly.” She said and sat up, and Ren saw it was Ellaria, the succubus he had healed the molten metal scar on. “I'm so glad you understand what we go through all the time.”
+
+“I go through it all the time, too.” Ren said, and then he remembered being like this with the maids as they laid in bed together with him and just talked, then the sorrow welled up from inside him.
+
+“Oh, god.” Seldanna said and kissed his cheek and started consuming it. She broke the kiss and looked at the other succubi. “Help me!”
+
+The other three moved over on the bed and Artemis slid out of the way, then 2 of the succubi kissed his cheeks as the other two kissed his chest at the same time. They all started to feed from him, and their eyes and bodies glowed.

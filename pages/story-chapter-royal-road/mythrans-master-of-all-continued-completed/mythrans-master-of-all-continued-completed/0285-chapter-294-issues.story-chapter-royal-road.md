@@ -1,0 +1,253 @@
+---
+id: 6171a8b1-c5eb-56d1-aeb0-bd05d1639e76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 294 - Issues"
+slug: 0285-chapter-294-issues
+partOf: mythrans-master-of-all-continued-completed
+position: 285
+ownLength: 3007
+unit: words
+publishedAt: 2017-06-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145469/chapter-294-issues"
+royalRoadId: "145469"
+---
+
+The crowd burst out in cheers and hollers, then they started to applaud. After a minute, the sound of laughter grew. The applause and cheers died down, and all that was left was the laughter. Everyone turned to look at where it was coming from, and they were surprised at the source.
+
+It was Ren. He had tears streaming down his face, and he didn't bother trying to wipe them away. When he noticed everyone looking at him, he calmed down. They all thought he was extremely happy, but if people had been paying attention and looked over at his personal maids and Ereka, they weren't laughing at all; but, the tears on their faces matched his.
+
+“What's so funny about being pregnant?” Narhilda asked Ren. “Is it because I'm older than the average mother?”
+
+No one was sure if it was a spell or not, but her voice was loud enough that everyone heard her. Ren took a deep breath and stepped forward into what he hoped was the area of effect to boost his voice.
+
+“No, Your Highness.” Ren said, and the tears stopped flowing. “You know I don't think of you like that at all.”
+
+“Then why...”
+
+“If I may speak frankly?” Ren asked, and she nodded. “When I received the invitation for tonight, I thought... in my infinite stupidity... that this event was in celebration of my successful defense of the kingdom.”
+
+“It is.” Narhilda said, then motioned to the others on the stage. “You've all helped this kingdom...”
+
+“No, Your Highness.” Ren said. “I thought this event was for me only.” He said. “I had assumed, quite wrongly, that you had gathered everyone together to praise my accomplishments.”
+
+Narhilda blinked her eyes for a moment. “But... that's what we did.” She said. “We gave you the Medal of Valor.”
+
+Ren chuckled, and no one needed to feel his feelings to see how much it was hurting him. “This thing?” He said and held it up. “You could give this to one of, or all of, the soldiers that helped dig the giant pit trap that I used to capture all of the crazy giants.” He said. “You could give it to the dwarf that helped me plan and carry out the rescue of 7 girls from the Thieves Guild, and returned them to their families.”
+
+There were several shouts, and Ren looked out over the crowd to see those families wave to him. He waved back and looked at Narhilda.
+
+“What you shouldn't do, is insult someone that put their life on the line for this kingdom.” Ren said. “If you had tried to give this to the dwarves that stood by my side when we battled the platoon of giants from the Guardians of the Land, I'm sure they wouldn't have accepted it at all.”
+
+Silence fell as Ren's words rang true.
+
+“Of all the things I've done after coming here to the dwarf lands, I thought... I mean, when I saved the kingdom yet again...” He shook his head. “I had hoped you would at least acknowledge it.” He sighed. “Then you shuffle me off to stand in a line, and make me wait for an award that you could easily give to the guard at the gate for doing his job well.” He chuckled. “Any man worth his Honor would be insulted if he put his life on the line for the kingdom, and this was the only thing you deemed him worthy of receiving.”
+
+Ren saw the surprise on Narhilda's face, and looked around. He saw the same look of surprise on everyone's face.
+
+“I didn't even get a thank you.” Ren said. “I even died for this kingdom. Quite brutally, actually. Did I get anything then? No. No notice from the castle. No thanks for protecting us. Nothing.” He kept looking at the crowd, because he didn't want to look at Narhilda anymore.
+
+“I saved this kingdom from being ruled over by a corrupted Council, from a man who had close ties to the head of the Thieves Guild.” Ren said. “You don't have to worry about that anymore, by the way. I took care of it. I killed him, along with the rest of the guild, when I rescued the kidnapped girls.”
+
+No one spoke, and Ren could barely hear anyone breathing.
+
+“That's when I became the illustrious owner of 5 personal maids. I brought them as my dates tonight because they were the only women I knew that I wouldn't automatically get married to, if I showed up with them.” Ren smiled. “Not that the contract would last anyways. I'll be forced to leave in about 2 months when my invitation is revoked.” He looked at Narhilda. “I also won't be able to be invited back, thanks to your proclamation.”
+
+“You know why I did that.” Narhilda said. “We need to get things back in order before...”
+
+“I already did that!” Ren said. “I put you in as ruler of the kingdom over a new Council, and I've removed several of the largest threats this kingdom has ever faced.”
+
+“You didn't have to do all of that!” Narhilda said. “The owner of the Garrison at House Lodur would have taken care of it.” She said and smiled smugly. “They would have handled it without you!”
+
+“That's a lie.” Ren said, and Narhilda looked at him with wide eyes.
+
+“Wh-what?”
+
+“You said the owner of the Garrison would handle it.” Ren said. “I did.” He smiled. “House Lodur doesn't own the Garrison; I do.”
+
+“WHAT?!?” She yelled, and looked back at the Advisor to the Throne. He nodded slightly and left the stage.
+
+“You can tell if I'm lying.” Ren said.
+
+“But...”
+
+“I've been the owner since Lord Lodur was hung.” Ren said. “It's been a huge responsibility to have on my shoulders.”
+
+“You... you've been...”
+
+“I've been tasked with the defense of the realm.” Ren said. “I've also done that several times.”
+
+“Then, it was you that paid the 5 years of taxes on the Garrison.”
+
+Nearly the whole room started talking at once as Ren nodded slightly. Dural, the Advisor to the Throne came back with the female dwarf that controlled the Hall of Records.
+
+“Hello, my Lord.” Beryl said and bowed slightly.
+
+“Ma'am.” Ren said, and could almost feel the sigh of relief from everyone, because he hadn't said her name in public. He took her hand and gave her a kiss on the cheek, and she giggled.
+
+“Is Ren telling the truth? Does he have the deed to the Garrison?”
+
+“He does.” Beryl said, and produced a copy of it with a large VOID across it. Ren's name was clearly on it.
+
+“What do we do?” Someone in the crowd shouted. “If he's forced to leave in 2 months, we'll be completely defenseless!”
+
+Ren turned to the crowd and held his hands up for quiet when the talking was too loud for people to hear.
+
+“I had planned on dealing with the situation when the time was right.” Ren said. “I thought that would be tonight. I was going to hand the deed over to the Queen and the Council.”
+
+“W-was?” Narhilda asked, and Ren turned back to her.
+
+“Even though you know of the things I've done for the kingdom, for some reason you obviously don't want anyone to know what's going on; despite the fact that's exactly what went wrong with the Council before.” Ren said. “I can't in good conscience hand you a document that could let you suppress all knowledge in the kingdom.”
+
+“Now wait a minute.” Barnar said and stepped over. “You can't talk to her like that.” He said. “Who are you to question her integrity?”
+
+“I know a lot more about her integrity than you do.” Ren said. “In fact, I-”
+
+Ren's words were interrupted by Narhilda's hand as she slapped him. The sound was amplified through the room and to outside, and everyone froze.
+
+Notice!
+
+You have lost Honor. Due to the nature of the situation, and with thousands of witnesses, being slapped by a woman would be bad enough. Unfortunately, you were slapped by the current ruler of the Dwarven Kingdom.
+
+Honor Loss: -10,000
+
+“Ha.” Ren said as he dismissed the popup. “Thank you, Your Highness.”
+
+“Wh-what?” Narhilda said, surprised. Her embarrassment for striking him publicly was quite apparent.
+
+“You've just helped me make my decision.” Ren said.
+
+“A... about what?” Narhilda asked as her embarrassment grew.
+
+“About what to do with the Garrison.” Ren said, and turned to the crowd. “As the current owner of the Garrison, and overall commander, I have paid 5 years of the taxes; but, I have yet to pay the budget for running it.” He motioned to the Commander. “I'll do so now.”
+
+The Commander stepped forward and stopped beside Ren, who took out some fabric and sewed up a sack to hold the money.
+
+“Hold this, please.” Ren said to the Commander and passed him the sack. Ren then dumped 1,850 platinum coins into it. “That's 1,850 platinum coins for this coming year.” He said. “But, for anyone who knows me, they know that I hate having to try and keep track of what's paid and what's not.” He smiled. “Since I won't be here in a couple months, before that last battle, I decided that I wanted to ensure that the Garrison would be funded for the next 5 years.”
+
+Ren dumped out 4 more years worth of platinum coins, and everyone gasped. Their eyes were fixated on him; including Narhilda and everyone on the stage.
+
+“Thanks to a special quirk of fate, though...” Ren looked around at all the staring faces. “...I'm in the position to add 5 more years to that budget.”
+
+Ren dumped 5 more years worth of platinum coins into the sack, which was now almost overflowing with platinum coins; it left everyone speechless, including the Commander.
+
+“Of course, since I can now cover 10 years of the budget, for a total of 18,500 platinum coins; I can't let the next 5 years of taxes go unpaid.” Ren sewed up a small sack and handed it to Beryl, the female dwarf that controlled the Hall of Records, and dumped in 500 platinum coins.
+
+“So, there.” Ren said. “The entire Garrison has been paid for entirely for the next 10 years, along with the taxes.”
+
+“Ren... you...” Narhilda tried to speak, but she didn't know what to say.
+
+“It's all right, Your Highness.” Ren said. “You don't have to change your mind and decide that you want to thank me.” He took a deep breath and let it out. Everyone heard him sigh, and he smiled sadly. “I shouldn't have expected it from you in the first place.”
+
+Several women in the audience cried.
+
+“Now, what to do with the deed.” Ren said. “Oh, I know.” He turned to the Commander, and equipped his overall command uniform and concentrated on his Command Aura, and it pushed his Aura out from 260 feet to 300 feet. Everyone gasped as the proof of his position was presented to them. They hadn't quite believed it was real until the uniform had appeared.
+
+“As overall commander, I hereby order you to register as a Supplementary House.”
+
+“WHAT?!?” The Commander and Narhilda exclaimed, along with several Major Houses.
+
+Ren turned to Beryl. “Please file the proper paperwork as soon as you return to the Hall of Records.”
+
+“Consider it done.” Beryl said and grinned at him.
+
+Ren turned back to the Commander. “You'll be the Head of the House, obviously; and because you'll be a House, you won't be subject to unscrupulous Royal Family or Council members and their unlawful orders.”
+
+“But...”
+
+“You'll be an independent force for good; and since you'll be a Supplementary House, the soldiers won't lose their main House affiliations.” Ren smiled. “It might be weird being a member of two different Houses for them, but they'll adjust quickly.”
+
+“You're crazy!” Narhilda said. “You can't change the military into a House!”
+
+“I can, and I will.” Ren said. “This also means they get a seat on the Council, and they can choose what they get involved in, and what direction the kingdom goes.”
+
+“You... you...”
+
+“Yes, my role as overall commander will end, and the deed will dissolve; but, all of the people that live in the Dwarven Kingdom can sleep easy at night because they now have fully paid protectors for the next 10 years.”
+
+“Ren!” Narhilda said.
+
+“I'm not finished.” Ren said. “I've been nice. I've been good. I've done everything within my power to help you, and then the kingdom.” He said. “When I thought you were going to thank me for the latest thing I've done, I was so happy. I was excited to see you after so long, and then... then you crushed my hopes.”
+
+“I... I didn't...” Narhilda said, as a tear came to her eye. “I... I mean... I...”
+
+“You just took 10,000 Honor away from me with that slap.” Ren said.
+
+Gasps spread over the crowd, because most of them took years to get their Honor up so high, and he had lost it in an instant.
+
+“I didn't say anything to deserve that, and everyone here knows it.” Ren said. “You wouldn't even let me finish what I was going to say, and all I wanted... I wanted to... to tell you...”
+
+“What were you going to say?” Barnar asked.
+
+“It doesn't matter.” Ren said and looked at Narhilda. “Not now.”
+
+“Ren...”
+
+“Congratulations on having an heir for the Royal Family.” Ren said to Barnar and Narhilda. “But, I think I'm done with you.” He said and turned to the crowd. “I've enjoyed my time here, even with all of the slights against me, the unintended insults, blatant and unnecessary accusations, and impossible tasks.” He smiled. “But at this point? I'm done. I'm done with your customs and your ignorance of how to properly treat people.”
+
+Ren took out the Bracelet of Importance he had received as loot from Lord Lodur and examined it.
+
+Bracelet of Importance
+
+This bracelet grants the wearer an Aura (Importance). Artificially boosts Influence and Honor by 100,000. Distance: 50 foot radius.
+
+Warning: Binds to the user when equipped (cannot be removed, traded, sold, or given away). It unbinds and drops when killed.
+
+“If your ruler won't recognize the things that I've done for this kingdom, then by the gods, for the remainder of my time here, the rest of you will.” Ren said, then equipped the bracelet.
+
+Notice!
+
+You have gained a new Aura: Importance Level 1 (Beginner 0%)
+
+This Aura lets people within it know that you are an influential person, and they should treat you with the proper respect. Current distance: 50 feet
+
+Notice!
+
+You have artificially boosted your Influence and Honor.
+
+Influence: +100,000
+
+Honor: +100,000
+
+Notice!
+
+You have maxed both Influence (1,000,000) and Honor (250,000). You have gained a new title: The Unnamed King. Anyone within your Aura must bow or acknowledge you in some way. This title grants +10 levels to all Auras, and awards you a Special Ability: This is Mine!
+
+Ren's Aura jumped out to 385 feet, thanks to his Command Aura increasing by 10 feet and the Importance Aura, now that it was at Intermediate and had increased from 50 to 75 feet. His Aura now covered most of the crowd that he could see; then every single one of the dwarves within his Aura's radius knelt on one knee. The ones that it didn't cover saw the others kneel, and knelt as well. The kneeling continued out into the crowd and to the commoners at the back of the room, then out into the courtyard.
+
+“No!” Narhilda said as she struggled against Ren's new powerful Aura. “I... I won't...” She said. “He's supposed to... to... defer to me! I used him! He can't... can't use me... like... like this!” She looked around the stage and saw that everyone else had already knelt, including Barnar. She reached for him and tried to make him stand, and he shook his head.
+
+“No, My Honeysuckle.” Barnar smiled sadly. “Unfortunately, he's right. We have wronged him.”
+
+“I... won't... ah, dammit!” Narhilda said, then knelt on one knee.
+
+Notice!
+
+You have gained 331,200 Honor (6,624 dwarves x 50 Honor for kneeling)
+
+Notice!
+
+Your Honor stat has been maxed. Excess Honor will be converted to XP.
+
+331,200 Honor x 10 XP = ERROR: #643923019
+
+System Notice!
+
+There has been an error in the game's Honor Gains mechanic. Please report the issue and the error number to the Tech Department at Sid Tec. We apologize for any inconvenience this may cause.
+
+Goddammit. Ren thought and dismissed the popup, then looked around. “Everyone, please stand.” He said. “I didn't intend for that to be the result.”
+
+“What did you want?” Beryl asked as she stood up.
+
+“I wanted...” Ren looked at Narhilda as she and Barnar stood up.
+
+“...to be treated like a King!” Narhilda said and looked at Ren with angry eyes.
+
+“No, I didn't!” Ren said. “All I wanted was for someone that I cared about to... to...” He shook his head. “No, I said that I was done with this whole thing, and I meant it.” He said and equipped his royal purple suit. “Thanks for the party that you didn't throw for me. I've had enough excitement for tonight, so I'll be heading home.”
+
+“No, you won't.” Narhilda said. “No one makes me kneel! No one!” She said, viciously. “I can't have you arrested for it, but I can do something else.”
+
+“My Queen!” Dural exclaimed. “Don't do this! It's not wise to...”
+
+“Quiet!” Narhilda said to him and looked at Ren. “As the ruler of this Kingdom, I hereby commute your sentence for time served.” She said, then the Bracelet of Enforcement dissolved from Ren's wrist. “I also banish you from dwarven lands.” She smiled wickedly. “Effective immediately.”
+
+“NOOOO!” Nathalia yelled and started to run over to the stage, then the entire crowd erupted.

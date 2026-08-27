@@ -1,0 +1,257 @@
+---
+id: 8f4ed87c-a058-53a0-a8f3-31944ea3db14
+page-type-slug: story-chapter-royal-road
+title: "Chapter 480 - Give And Take"
+slug: 0480-chapter-480-give-and-take
+partOf: mythrans-master-of-all-continued-completed
+position: 480
+ownLength: 3356
+unit: words
+publishedAt: 2018-01-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186177/chapter-480-give-and-take"
+royalRoadId: "186177"
+---
+
+Ren walked over to the workbench and Lord Tathalyn pulled out several large parchment sheets.
+
+“I've thought about doing something like this.” Lord Tathalyn said and quickly sketched out a tall pointed tower that went almost straight up from the ground to the top, with barely any deviation in the angle of the sides at all.
+
+“That... I think... would be really dangerous.” Ren said. “A stray bird could fly into that thing and cause it to sway.”
+
+Lord Tathalyn chuckled. “Yes, even with a counter balance deep in the ground, a sway factor does exist.”
+
+“A triangle or a pyramid would be much too big on the base.” Ren said and thought about it. “The same with a cone.” He sighed. “Can I see what else you've designed? Maybe something there can give us inspiration.”
+
+“Yes, Lord Tathalyn.” Yllana said. “Give him everything.”
+
+“Right, right!” Lord Tathalyn said and opened the side of the workbench and handed Ren a huge stack of completed parchment papers. “Once you agreed to my conditions, handing these over is a requirement.” He said. “You'll need them to build the city, and I suggest a 5 pointed star pattern for the spires on the outer rim.”
+
+“Is that what the spires make?” Ren asked.
+
+“Yes, it represents the Central Council and the ruling families.”
+
+“I won't do that, then.” Ren said, and Lord Tathalyn's mouth dropped open.
+
+“Wh-what?”
+
+“I'll make a double star pattern, a 5 star in one direction, and a 5 star in the other. The entire city will be surrounded by spires, and it will show that the Central Council holds no sway in the city over its inhabitants.”
+
+“B-but...”
+
+“Give me a few minutes to look these over.” Ren said and sat down on the chair the High Elf had vacated. He stared at the first pattern for a High Elf house. It was simple in its construction, but it was also significantly different than a human house. It had curves in the wood, rounded and moulded pieces, the windows were round or dome-like, and even the ceilings were arched and bulbous.
+
+“This is so different from what I'm used to.” Ren said and it took another minute for him to gain the pattern. He looked at the next one and it was a two storey house, both similar and different from the single house. Once he had wrapped his mind around the fact that High Elves apparently hated corners on anything, it became easier to read the plans and gain them. Ren flipped through short spires, buildings, the Grand Meeting Hall, defensive towers, street layouts, an administrative building that looked like a large aviary, two and three family houses, elfling houses, medium towers, the tall spires for the outer rim of the city, and the last plan was for the wall.
+
+“Are you kidding me?” Ren asked and looked at Lord Tathalyn. “Is this for real?”
+
+“Of course it is.” Lord Tathalyn said. “Where else would all the elflings live?”
+
+“But...” Ren looked at Yllana.
+
+“Some of us have earned enough Honor to move out of the walls, or were accepted into prominent families.”
+
+“But...”
+
+“Most times we are shunned by our birth families.” Yllana said. “Cast out without any Honor, we are to fend for ourselves and work hard to-”
+
+“No.” Ren said. “I refuse to build living quarters for elflings in a defensive wall that will be the first thing hit when the city is under attack.”
+
+“You agreed to build everything I designed.” Lord Tathalyn said.
+
+“Yes, I agreed to build at least one of everything, and you said I had to put the buildings inside the city.” Ren said. “This is not a building. I will build this wall as I promised; but, it will not be the outside defensive wall.”
+
+“I suppose that is a choice you can make.” Lord Tathalyn said.
+
+“Where are all the other plans?” Ren asked.
+
+“What do you mean?” Lord Tathalyn asked.
+
+Ren pointed to three different plans scattered throughout the apartment. “I don't have that one, that one, or that one.” He said. “Those are the ones I've only glanced at, and know they are different than these.” He shook the stack of parchment papers. “You gave your word that you would give me everything you've designed in your lifetime.”
+
+“That is everything you need.” Lord Tathalyn said, and his face was instantly covered in sweat. “Let's get the design of the tower finished, and you can get back to your ghoul task.”
+
+Ren put the stack of parchment papers on the workbench. “Are you willing to keep losing Honor like this?”
+
+Lord Tathalyn looked away, and Ren looked down at the drawing.
+
+“Your other designs are good; but, nothing even comes close to giving me any clue what to do.” Ren said. “This is not the first time you've drawn this.” He lightly tapped the parchment paper. “Give me the other drawings, Lord Tathalyn.”
+
+“I don't know what you mean.” Lord Tathalyn said, and sweat poured down his face.
+
+“Then I'll look for them myself.” Ren said, and activated Enchanted Eyes. He looked around the room and saw one plan on the wall glow. He started to walk over to it, and felt Lord Tathalyn's emotions turn from meekness to anger.
+
+“NO!” Lord Tathalyn yelled and lunged forward.
+
+Ren equipped his platinum armor and turned to face the threat, and when Lord Tathalyn swung a fist towards him, a gleaming blade appeared in that fist and tried to strike. Ren's armor enchantment formed a magical shield to block the blow, and the enraged High Elf was thrown back across the room as his own attack rebounded against him.
+
+Lord Tathalyn slammed into the workbench and flipped over it, hit the wall behind it, then fell to the floor. Yllana stood there in shock, as she had never seen her friend act that way before.
+
+“I'm sorry, Yllana.” Ren said. “I accepted his quest, and I must complete it.”
+
+“Ren, you... he...”
+
+“I'll lose 100,000 Honor, be hated by all the High Elves, and something it won't tell me if I don't make this tower.” Ren said and walked over to the wall. He felt Yllana's swirling emotions, and he pushed them aside and concentrated on the glowing plan. He took out his Detect Magic and Detect Traps wands and used them, and received a popup.
+
+Flesh To Stone Trap
+
+This permanent magical trap will petrify you.
+
+“Hm, that's a pickle.” Ren said. “I have a few spells I could try. Break Enchantment, Disenchant, and even Knock.” He sighed. “I have spells to remove effects and paralysis; but, I wouldn't be able to cast them afterwards, or know if they would even work.”
+
+“Try brute force.” Teepo said. “Carve that thing out of the wall and see if the trap is all the way around.”
+
+Ren chuckled. “It's worth a shot.” He said and took out the hammerpick that was still triple in size. “Ha, I forgot to reduce this thing.” He said and poked the wall a foot away from the trap with the plow end, then dragged it around the trap in a circle, then used the plow end to pop it out like a cork. The wall piece slid out and fell to the floor, and the papers it hit turned to stone. There was no glow on the back of the wall, though.
+
+Ren stored the hammerpick and carefully poked the back of the wall piece with his finger until he hit metal, then tore the wall apart to expose the back of an iron box. He carefully grabbed the corner of the box and peeled back the iron to open it. Inside were scrolls and bags of platinum coins, and a box of shadow coins.
+
+“Hello.” Ren said and picked up the box of shadow coins. “What's this?”
+
+Yllana gasped as she identified the contents. “N-no, h-he... he wouldn't...”
+
+“Now I wonder who it was he made the deal with, and what he had to do to become prosperous and successful.” Ren opened the box and counted the markers inside. “41 shadow markers, used for evil deeds.”
+
+Lord Tathalyn sat up, and he had tears in his eyes.
+
+“Luberos, how could you?” Yllana asked.
+
+“I did what I had to do.” He said and wiped at the tears. “I didn't want you to know.”
+
+“You knew we both would have identified the box as soon as you opened your hiding place.” Ren said, and he nodded.
+
+“Both of you are too astute to keep something like that hidden when in plain sight.”
+
+“There are 4 missing.” Ren said and pointed to the empty slots. “What happened to them?”
+
+Lord Tathalyn sighed. “I gave them out, and they never came back.” He said. “That was decades ago.”
+
+“M'lord.” Yllana said to get Ren's attention. “I will talk with him and find out what he wanted done, and who he gave those markers to.”
+
+“No, M'lady.” Ren said. “If anything, I don't want you associating with him at all, let alone talk with him at length.”
+
+Lord Tathalyn frowned. “I'm still the same man I was 10 minutes ago.”
+
+“Yes, you are.” Ren said and closed the box and stored it. “I won't comment on how that reflects on your actions for all these years, either.” He said. “I usually offer to buy these things for 30 gold each when someone shows them to me.” He took out 12 platinum and 30 gold and put it on the workbench. “The last thing I want is for someone to try and cash these things in for whatever reward was promised.”
+
+“I haven't given any out in years.” Lord Tathalyn said. “Once I discovered I couldn't buy enough resources to make my tower, I hid them away.”
+
+“Yet, you've tasked me with it.” Ren said.
+
+“I'm sorry, M'lord.” Yllana sighed. “This is my fault.”
+
+“No, it's not.” Ren said and picked up one of the scrolls and opened it. Inside was a plan for a spire that went straight up with only a single room at the top. “I would have asked for all the plans from someone else, and they would have directed me here, anyway.” He said and picked up the next scroll, which had a tower design that was wider, and had rooms along the inside, up to the top that came to a point. The next scroll had 4 connected towers, but they were only 1000 feet high and nowhere near the height that Lord Tathalyn had asked for.
+
+“That was just a flight of fancy.” Lord Tathalyn said. “Merely a doodle when I was bored.”
+
+Ren compared the plans to the three incomplete ones he had seen, and they matched. He picked up the final scroll and Lord Tathalyn waved his hands and spoke a quick chant. The scroll disappeared from Ren's hand and reappeared in Lord Tathalyn's hand.
+
+“That is not a building plan.” Lord Tathalyn said, and no more sweat appeared on his face. Ren nodded, and looked down at the iron box. He took out his blacksmith hammer and used Repair on it. The metal folded back into place as if he hadn't torn it open.
+
+“I can't do much about the wall.” Ren said.
+
+Lord Tathalyn reached out and touched the wall, and Ren felt the Mana buildup. The chunk of wall he had cut out, rose into the air and slid back into place, and the wall grew around it to encase it again as if it hadn't been removed.
+
+“Okay, that was cool.” Ren said. “Was that a spell?”
+
+“No, it's my innate ability.” Lord Tathalyn said. “For a high Mana cost, I can repair damage to structures I've built.”
+
+“That is definitely a nice ability.” Ren said, and took a deep breath and let it out. “Okay, with these new designs, I can see the problem you have.” He pushed the drawing Lord Tathalyn had made aside, and picked up the drawing instrument. “Just because of the sheer height alone, a straight tower is not going to work.”
+
+“Then what do you suggest?” Lord Tathalyn asked.
+
+“I'd say it's an easy fix, especially if we adapt this spire's design.” Ren said and rifled through the stack of plans, and found the one for the tower they were currently inside. “If we use this one... and this one... and this one...” He put the tower that went up to a point that had rooms inside it, then put the one with the 4 towers on top of it. “It should work.”
+
+“No, this tower would be too top heavy.” Lord Tathalyn said. “Even if we extended the 4 towers to twice their height, and used the connecting bridges to brace the center tower, there's no way this tower can stand in the middle.”
+
+Ren looked at the bottom piece of parchment, then smiled. “What if we do this?” He asked and turned the parchment upside down. It put the large room at the bottom of the design, and the curves that spread out from the base up to the room, now spread inwards and up to the base instead. It looked like an upside down flower with the petals spread out, and the stem stuck up.
+
+“That... that's brilliant.” Lord Tathalyn said. “I... I didn't think...” He shook his head. “It never occurred to me to integrate balance into the base structure, rather than relying on the internal strength of the materials and the tower itself.”
+
+Ren moved a blank sheet of parchment to the top and traced out the design. “If we add the underground component...” He drew stabilizing underground struts. “...and with the added towers between the flower petals...” He drew them in and the connecting bridges. “...this structure will never sway.”
+
+Lord Tathalyn asked for the writing instrument and Ren gave it to him. The High Elf bent over the parchment and added interconnected braces, reinforcement curves and brackets, then added an overall Elven look to it. Once that was done, he quickly did the internal plan on another sheet, with descriptions of the work, the Mana points that needed to be added, and the lifts required.
+
+“Double the lifts.” Ren said. “This thing is going to be huge.” He said. “If anyone is going to be using it or living there, they are going to need the lift capacity.”
+
+Lord Tathalyn nodded and added the extra lifts and Mana points, signed his name to both sheets, and handed the writing instrument back. “Sign them.”
+
+“But...”
+
+“It's as much yours as it is mine, especially when you build it.” Lord Tathalyn said. “Sign it.”
+
+Ren nodded slightly and signed his name to both sheets as well. Lord Tathalyn touched them briefly and poured Mana into them. The parchment papers changed from fresh ink to a dull and well worn sheen, and Ren gained the plans for the structure.
+
+“There.” Lord Tathalyn said. “These plans are officially logged with the Central Council.”
+
+“Oh, no.” Yllana said.
+
+“What is it?” Ren asked.
+
+“Now it's going to be subject to review.” Yllana said. “You won't be allowed to build it until it passes inspection.”
+
+“Ha.” Ren said and smiled. “Where I'm building it, isn't under their jurisdiction.”
+
+“It doesn't matter.” Yllana sighed. “They get final approval of all submitted plans.”
+
+“How long does that usually take?” Ren asked.
+
+“Probably a month, maybe two.” Lord Tathalyn said. “Don't worry about it.” He said with a happy smile. “It's going to take a lot longer than that to lay out the foundation markings.”
+
+“I'm not waiting for approval.” Ren said.
+
+“But... you can't defy the council.” Yllana said. “They'll come after you if you...”
+
+“I am not going to let all those High Elves, and a few elflings, sit and wait for a couple of months just for a council that doesn't have any say in the matter, to approve building a building they didn't even know could be built.”
+
+“B-but...”
+
+“M'lady, may I escort you back to your home?” Ren asked and stored the Amulet of Interrogation. Yllana looked at him for only a moment before she spoke.
+
+“I would like that very much.” Yllana said.
+
+Ren equipped his High Elven Court Uniform and Yllana took his offered arm. They walked over to the door of Lord Tathalyn's apartment and Ren opened it. He led her out through the door and turned around.
+
+“Will you get a notification when I build the tower?” Ren asked.
+
+“I don't know.” Lord Tathalyn said. “I've never farmed out my work like this before.”
+
+Ren chuckled. “Well, we'll find out.” He said. “M'lady Arthion won't be calling on you again.”
+
+Yllana looked at Ren with wide eyes, and he felt her surprise.
+
+“Yes, I expected as much.” Lord Tathalyn said, and Ren felt his resignation. “I have lied to her all these years.”
+
+“That isn't why; but, it's as good a reason as any.” Ren said and smiled. “Good day.”
+
+“Good day.” Lord Tathalyn said, and Ren shut the door.
+
+“You presumed to speak for me.” Yllana said as they entered the lift.
+
+“I did.” Ren said, and pat her hand that rested on the back of his. “I know he must have been a good friend all these years.”
+
+“He was.” Yllana said when they reached the bottom. “I've lost count of how many times he used Illusion to make himself into an elfling just to spend time with me and not make me or my family uncomfortable.”
+
+Ren chuckled and led her outside and down the street. “That alone would have made me uncomfortable.”
+
+“What? Why?”
+
+“He's been lying to you all these years, in both words and appearance. What else has he been lying about? What deeds or actions did he do for you, that weren't-” Ren stopped talking and brought Yllana to a stop. “M'lady, please forgive my rambling.” He said. “It's not my place to doubt your relationship with him, nor should I make you doubt it as well.”
+
+Yllana sighed. “You are only speaking what's going through my mind as well, M'lord.” She said and motioned forward. Ren started walking again, and she kept pace with him. “I thought I knew him well, and in most respects I do.” She said. “This is an aspect of him I never even suspected.”
+
+“Some people will do a lot of bad things for what they want, and believe they can justify it all in the end.” Ren sighed as well. “I'm sorry that I led you to this knowledge about Lord Tathalyn.”
+
+“I believe you yourself said it wasn't my fault for bringing you to him.” Yllana smiled. “You can't blame yourself for revealing part of his nature.”
+
+Ren pat her hand again. “Your understanding and wisdom is beyond compare, M'lady.” He said. “I can only hope that this incident doesn't change how you see me.”
+
+Yllana smiled as they entered her two storey apartment building and went up the stairs. “M'lord, everything you do changes how I see you.”
+
+“Should I ask if it's for the better or for the worse?” Ren asked and stopped in front of her door. “Do I even want to know that answer?”
+
+Yllana chuckled. “M'lord, you seem to reveal things about people, just from your very presence.” She said and opened her door with her free hand, and then let go of his arm. “You have learned one of my secrets today as well.”
+
+“I will keep my word to you, M'lady.” Ren said and stepped close to give her a hug, then put his mouth by her ear. “You will never know when I might peek in on you.” He whispered. “Will you be alone? Will you be at home? Will you be out and having a meal with friends?”
+
+Yllana started to shake with anticipated pleasure as Ren mentioned several more different situations she could possibly be in when he looked in on her at random times.
+
+“Goodnight, M'lady.” Ren said and kissed her cheek, then walked down the stairs and left the building.

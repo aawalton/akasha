@@ -1,0 +1,131 @@
+---
+id: 8c3d30df-81d2-5e07-9d8e-5ad2c42eea49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 392-B - Sexy But Not Too Sexy"
+slug: 0388-chapter-392-b-sexy-but-not-too-sexy
+partOf: mythrans-master-of-all-continued-completed
+position: 388
+ownLength: 1663
+unit: words
+publishedAt: 2017-10-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168838/chapter-392-b-sexy-but-not-too-sexy"
+royalRoadId: "168838"
+---
+
+Ren turned and walked back over to step into the shower, then sat down on the step stool. Gloria took off her clothes and piercings and put them on the counter, then stepped into the shower herself. She covered her private area with a hand when she stepped in front of Ren to turn on the water, and when she looked at his face, she was surprised to see that he was looking right back at her.
+
+Ren had stared at her face the whole time. “I still can't believe how naked you look without your piercings.”
+
+Gloria's face flushed red. “I'm standing naked in front of you, and you're looking at my missing jewelry.”
+
+“That's because it's the most surprising thing.” Ren chuckled when he saw her angry face. “You're gorgeous, and this is the first time I've seen you without clothes in real life; but, I still can't stop looking at your face.”
+
+Gloria's face flushed even redder and she moved her hand from covering herself. Ren noticed the movement in his peripheral vision, and kept his eyes trained on her face. He stood and reached up, then caressed her ear where all the piercings should have been. It was as light of a touch as he could manage, and then he caressed the back of her ear.
+
+Gloria took in a deep breath and let it out. “Is it really that fascinating?”
+
+“Gloria, it's you that's fascinating.” Ren said. “I'm trying my best to ignore your naked body, and I'm fighting so hard to not do what we did in the game this morning.”
+
+“Why?”
+
+“Because I'll hurt myself if I tried anything like that.” Ren said and sighed as he let his hand trace her neck and her collarbone, then used both hands to caress the skin just under her breasts. “In the real world, you're the one that has to be in control. You have to be responsible. You have to take care of me.”
+
+“Ren, I...”
+
+“We need to have a good long talk, or you can talk with Stella if it will make you more comfortable. She'll fill you in on what we can do safely and what we can't do.” Ren said. “I want to feel you so badly right now; but, I know if we do anything without the proper prep work...”
+
+“I could hurt you.” Gloria said.
+
+Ren nodded.
+
+“Then sit down and relax, and I'll give you a proper washing.” Gloria said. “I want to feel you, too... but it's not worth hurting you to do it.”
+
+Ren sat down and Gloria started to wash his chest.
+
+“I'll talk to Stella about this when I go over to her place for work tomorrow.”
+
+Ren nodded again. “I'm going to close my eyes, so don't be insulted, okay?” He asked and closed his eyes. “I can't sit here with paradise in front of me and not react to it.”
+
+Gloria chuckled and did his arms. “How many times have you seen it now?”
+
+“Every time is just as wonderful as the first time.” Ren said with his eyes held firmly closed. “Of course, that was all virtual. This is actually the first time I've really seen you.”
+
+“And you're not looking.”
+
+“Remember what I said. We have to be careful about how we tease each other.” Ren said.
+
+“I thought you meant in the game.” Gloria said and moved onto his legs.
+
+“I'm pretty sure it applies no matter where we are.” Ren said. “I'm trying so hard to ignore how good you smell, and how gentle you're being right now, even though I didn't tell you to be.”
+
+“I know how easily you can be hurt with just simple things, and by accidents that normal people can just shrug off.” Gloria smiled. “I don't need to be told that I shouldn't scrub you like I'm washing a dirty pot.”
+
+“Can you imagine?” Ren chuckled. “Hey, pass me the bundle of steel wool. This stuff on the bottom is baked on.”
+
+“You'd be surprised who would like that kind of stuff.”
+
+“Not you, surely?” Ren asked.
+
+“Of course not...” Gloria laughed. “...and don't call me Shirley.”
+
+“Oh, god.” Ren groaned, and that just made Gloria laugh harder. She washed his mid-section without incident and rinsed him off.
+
+“Okay, you're all done.” Gloria said.
+
+“I want to offer to wash you, but I can't do that with my eyes closed.”
+
+“Then open them.”
+
+“Gloria... I...”
+
+“Ren, it's okay.” Gloria put a soapy cloth in his hand. “You kept your eyes closed the entire time I washed you, and I know how much you wanted to look.” She said. “I'm not sure why that makes you more desirable, though.”
+
+Ren opened his eyes and looked at her face to see that she had a distinctive look of want there. He used the cloth and started to rub her thigh. Since she stood in front of him and he sat in front of her, his nose was in perfect line with her navel. He switched hands and did her other thigh, and he could hear her breath speed up a little. He ran the cloth across her pelvic bone and she caught her breath, but he didn't go any further than that.
+
+Ren gave her a thorough scrubbing from the waist down, except for her special place. “Gloria... I...”
+
+Gloria took his hand with the soapy cloth and placed it between her legs. Ren didn't need any more encouragement and washed her there. Gloria had to brace herself on the wall of the shower so her legs wouldn't give out on her, and she wondered why just having someone else wash her was turning her on so much.
+
+He's not even taking advantage of me, but... this is so hot that it doesn't matter!
+
+Ren saw her reactions, stopped washing her there, then moved back on the step stool. “Sit.”
+
+Gloria sat down a moment later with her back to him. Ren scrubbed her back first, then lathered up her chest from behind. She could feel him pressed against her back, and how much he liked being there.
+
+“Ren... god...” Gloria couldn't help her moan as he cupped her breasts with both hands to wash them properly, even though he had lost the cloth somewhere. He lathered up his hands again and moved on to her arms, shoulders, and neck.
+
+“S-sh-shampoo.” Gloria stuttered and fumbled with the bottle. She squeezed out a little too much into his waiting hand, and he divided it in two. He put one palm full into her hair, and the other into his. He scrubbed her hair and discovered she didn't need that much shampoo. With part of her head shaved, it didn't take much to wash her hair.
+
+“Can you do my hair?” Ren asked, and Gloria looked back at him. His hair was slicked down and she could see the glob of shampoo on the top of his head. She snorted a laugh and stood up, a little wobbly, then went behind him and knelt. She lathered up his hair, and when she leaned forward to see if any of the shampoo had run down his face and into his eyes, she saw what had pressed against her back.
+
+“Oh, Little Ren is dirty again.” Gloria said and surprised herself, then gave in to her desire a little bit. She reached around him and Ren caught his breath as she pressed her chest to his back and proceeded to clean him again.
+
+“G-Gloria!” Ren said as he finished. Gloria's eyes widened at the display, and she was quite happy that she had been behind him at the time. The water washed the mess away, and she stood up to rinse his hair out as well. She walked around him, and stopped when his hand touched her hip.
+
+“I don't know why I did that.” Gloria said. “I mean, I know we've... but... we just agreed not to...”
+
+“What about your turn?” Ren asked.
+
+Gloria turned her head to look down at him. “Ren...”
+
+“It's only fair.” Ren slid his hand from her hip across the top of her backside.
+
+“It's... we...” Gloria closed her eyes as his fingers traced the little divot at the bottom of her spine. “Why do I like this so much?”
+
+“I warned you that we had to be careful about teasing each other.” Ren said. “May I?”
+
+Gloria didn't say anything as she leaned forward slightly and laid her face against the side of the shower. The movement gave Ren a much better view than he had only a second ago.
+
+“You see? Paradise.” Ren said and only used his hand on the surface, despite wanting to use a couple of other things. He really did need to be careful if Gloria didn't know his limitations. He caressed her special place and her breath sped up, almost enough to hyperventilate; and it didn't take long before she finished. He stopped touching her and didn't push things, and he watched as she tried to even her breathing out again.
+
+Gloria calmed down and realized she was still standing there in a slightly unladylike pose, and stood up straight. She took a deep breath and looked at Ren to see if he knew how much power he had over her, and he gave her a calm and innocent smile.
+
+“We better dry off.” Ren told her. “Denise isn't going to stand there all day.”
+
+Gloria nodded and turned off the water, stepped out of the shower, and grabbed a towel for each of them. She stepped back in and dried Ren, then herself, and they both stepped out. Once there, Ren started to laugh.
+
+“What is it?” Gloria asked.
+
+“I was so excited about taking a shower with you that I forgot to get a change of clothes.”
+
+Gloria looked around and started to laugh as well. She hadn't brought her change of clothes in, either.

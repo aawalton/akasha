@@ -1,0 +1,413 @@
+---
+id: 11757a3a-a165-564a-ab61-f17f45c53190
+page-type-slug: story-chapter-royal-road
+title: "Chapter 185 - Lord Eric"
+slug: 0173-chapter-185-lord-eric
+partOf: mythrans-master-of-all-continued-completed
+position: 173
+ownLength: 4100
+unit: words
+publishedAt: 2017-03-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121553/chapter-185-lord-eric"
+royalRoadId: "121553"
+---
+
+Ren tried to open the cabinet door on the Aurora side of the portal, but it wouldn't move. He frowned, as there shouldn't be anything blocking the door, and he took off the hinges. He stored the door, and found Anabelle asleep in front of the cabinet.
+
+I'm glad I didn't try to force the door open. He thought. I might have hurt her.
+
+Ren picked her up and brought her over to the couch. She still wore just the maid apron and socks, so he grabbed the blanket from the bed, and covered her with it. After reattaching the cabinet door, he summoned Teepo and left the warehouse. Ren ran as fast as he could to the Market District and to the glass shop. It was still quite early, but he was relieved to see someone moving around inside. He knocked on the door, and the man who had delivered the large mirror to him so long ago, answered.
+
+“Hi, Medius.” Ren said. “Sorry to bother you so early.”
+
+“That's all right.” Medius said. “What can I do for you?”
+
+“I need a dozen standard-sized windows.” Ren said. “Do you have that many in stock?”
+
+“With all of the repairs to the city going on, we've had to keep production going 24 hours a day.”
+
+“Oh, right. I forgot about that.” Ren said. “I'll just board the holes up for now.”
+
+Medius laughed. “That won't be necessary. We've got plenty of them.” He stepped back from the doorway. “Come on in.”
+
+“Thanks.” Ren said, and when he went inside, he saw stacks upon stacks of standard windows that went from the floor to the ceiling. “You weren't kidding!”
+
+“This is the most money we've made since we started this business.” Medius grinned. “I'm going to be a little sad when all the repairs are done and we have to go back to normal sales again.”
+
+Ren nodded. “It's always nice to keep busy.”
+
+“Ain't that the truth.” Medius said as he went behind a desk. “So, a dozen standard windows.” He said. “What are they for?”
+
+“To look through.” Ren said as he grinned, and Medius laughed. “I'm building a large 2 storey house in my County, and I need the windows for the upstairs and downstairs.”
+
+“Ah.” Medius said. “Anything else?”
+
+“Now that I think about it, I should pick up 2 large storefront windows for my warehouse.” Ren said. “I'm opening my shop today.”
+
+“Really?” Medius asked. “What kind of products will you carry?”
+
+“Pretty much anything you could think of.” Ren smiled. “And probably a few things that you wouldn't.”
+
+“Sounds interesting.”
+
+“I hope so.” Ren said. “I'll probably have lots of customers by tomorrow.”
+
+“Well, I hope things work out for you.”
+
+“Me, too.”
+
+Medius checked his paperwork, and nodded. “We've still got a few of the big storefront windows out back.” He said. “When would you like to have them delivered?”
+
+“I'll just take them now.” Ren said.
+
+Medius looked at him for a moment, then shrugged. “That'll be 20 gold coins.” He said. “1 gold for each of the standard windows, and 4 gold for each of the storefront ones.”
+
+Ren put 20 gold on the counter, then put 2 gold next to the stack. “Thanks for opening early to let me buy the windows.”
+
+“Anytime!” Medius said, and pocketed the 2 gold and put the 20 gold into the lock-box behind the counter. “There's a dozen standard windows in this stack here.” He said and pointed to the stack next to the desk. Ren stored them and Medius led him out to the back room. There were a dozen glass forges going, and men were pouring several of them out onto the floor into small molds.
+
+“As you can see, we've got all of our forges going at the same time.” Medius smiled. “We usually only have two or three of them operating, but I called in some favors and got some more workers.”
+
+“Nice.” Ren said. “I hope you can keep up with the current demand.”
+
+Medius nodded and led Ren over to a storage room. “Most of the windows out front will be taken for the next row of houses today.” He said. “Overnight is the only time we can get a good stock of them built up.”
+
+“I hear that.” Ren said. “I've lost count of how many times I was up all night making things.”
+
+Medius nodded and pointed to two large storefront windows. Ren stored them and followed Medius back out to the front of the shop.
+
+“There's so many windows here, I can't even see what else you have for sale.” Ren said.
+
+“You'll have to come back and take a look when the city is done.” Medius said. “You're not getting anywhere near the displays until then.”
+
+“What about mirrors?” Ren asked. “I'd like at least 6 of the large ones that were 10 gold each.”
+
+Medius pointed towards the wall that had several stacks of windows in front of it. Ren walked over to the stacks of windows and stored them, then looked at the mirrors. They were different shapes, so he picked 6 of them; 2 that were rectangular, 2 oval, 1 square, and 1 round. Ren pointed to each one, made sure Medius saw them, then stored each one. He put the stacks of windows back where they were, and went to the desk to pay the 60 gold, plus 3 gold for the tip.
+
+“You could do that for each shelf.” Medius suggested, and Ren smiled.
+
+“If I had the time to spare.” Ren said. “I'll be back next week after the city is done.” He said and waved to Medius, then left the store. He ran back to his business and put the two windows inside, then locked the door. He ran down the street, and out through the West Gate.
+
+I really love these boots! Ren thought, as he ran at double his normal pace and his Stamina slowly drained as if he was running normally. Teepo came in for a landing and hung on to Ren's shoulder.
+
+“I'm taking a break for a while.” Teepo said. “My wings are getting sore.”
+
+Ren chuckled. That means you're getting stronger, apparently. At least, that's what I was told.
+
+“And you don't think they're lying through their teeth?” Teepo asked, and chittered in laughter. Ren joined him and laughed, then kept running. An hour and a half later, they arrived at the Main House he'd built for the County, and climbed up to the top to check to see if leaving it overnight was long enough.
+
+“Yes!” Ren said. “It's dry!”
+
+Ren was tempted to pull apart the mold, but decided that installing the windows on the second floor first, would be a good idea. He did so, then took apart the mold, and installed the windows on the first floor. He went inside and picked up the rafters, built the two sets of stairs to get to the second floor, and added the rafters to make the roof. Ren covered it in wood, and sighed as he climbed down.
+
+“Whew.” He said. “Even though I had the parts ready, it was still a lot of work.” He went inside and changed the layout slightly. He didn't really need a large lobby, so he cut that in half with a dividing wall, and made a single small office in the new space. He build the reception desk and chair, then added walls in the back for records and storage under the stairs. Ren made a hallway, then a two room apartment where Ereka's office would have been. He made a bed, table and chairs, and a comfy couch.
+
+“I have to remember to make a stove.” Ren said, then remembered he should make a forge as well. Since the floor in both the upstairs and downstairs was cement, he went upstairs to make himself a closed off living space, with a work area outside of that. He built a forge with the stone bricks he still had in inventory; but, he didn't have a smelting apparatus with him, so it wasn't complete. He closed that area off, and made the rest of the space upstairs into a large meeting area.
+
+“That's 2 hours.” Teepo said, Ren nodded.
+
+Thanks, Teepo. Ren thought, then made a dozen simple chairs and lined them around the room. He went downstairs and then outside. He got the popup to assign the occupant, and put his own name on the dwelling. Another small key appeared around his neck and joined the others. He was tempted to add Anabelle as an occupant, since she would be living there in her own apartment; but, he didn't want to do that until he dealt with her whole situation.
+
+Let's get back to Aurora. Ren thought, then ran down the road. A few minutes later he past the path to the old farmhouse, and thought about stopping in to tell Patty that the Main House was finished. He shook his head and kept running. I'm sure she'll find out on her own anyways.
+
+“Ha!” Teepo said. “You're just avoiding her.”
+
+Of course I am. Ren said. The last thing I need right now is some drama from my 'ideal' Lucy, as Elerlyth described her.
+
+“I think there's going to be drama, no matter when you go to talk to her.”
+
+Ren nodded as he kept running. You're right. I'm going to have to deal with her. He thought, then smiled. But not today!
+
+Teepo chittered in laughter and held on to Ren's shoulder as Ren poured on the speed.
+
+*
+
+“It's finished!” The boy said, as he burst into the farmhouse.
+
+“Russell!” Patty exclaimed.
+
+“Sorry, Miss Patty.” He said, and hung his head. “I was excited and forgot my manners.”
+
+“That's all right.” Patty said. “Now, what's finished?”
+
+“The house!” He said, just as excitedly as when he arrived. “The big one Lord Ren was making! It's done!”
+
+“You're joking.” She said. “There's no way that he could have finished it in only 2 days!”
+
+“I watched him, Miss Patty! He climbed all over that place, like a squirrel in a tree!”
+
+“Alright, I have to see this for myself.” Patty said, and followed the boy back to the Main House. “Well, I'll be!” She said, her voice full of surprise as she walked around the finished building. “Did you go inside again?”
+
+“I can't.” The boy said. “The door's locked.”
+
+The two of them went around to the windows and looked inside, and were surprised to see it was completely different than what they had seen, only the day before.
+
+“He did so much today!” The boy said, and Patty nodded. “Look at the stairs!”
+
+She looked through the window the boy was looking through, and saw the two sets of 8 foot wide stairs. Patty shook her head. “What a waste of space.” She said. “He should have just used a ladder.”
+
+“But it's not a waste, Miss Patty. There's a door under them!”
+
+“Wh-what?” She knelt to press her face against the window where the boy was looking in, and sure enough, there was a doorway under each set of stairs. Who is this man? Patty thought. He built a room under the stairs!
+
+*
+
+Ren made it back to the West Gate of Aurora an hour and a half later, and went inside. He ran down the street, and all the way to the mansion. He concentrated on his personal Aura, and climbed the steps. The guards watched him as he approached; but neither of them greeted him, or even moved to open the front door.
+
+Teepo.
+
+“On it!” Teepo said, and flew under the door into the mansion. “There's no one in the lobby. Want me to check the nearby doors?”
+
+No. Ren thought as he opened the door. See if Donna is in her office.
+
+“Right.” Teepo said, and a few seconds later said that she wasn't.
+
+Try the kitchen.
+
+Teepo flew into the kitchen, and said that she was in there. Ren concentrated on his Command Aura, and started to walk down the left hallway, which led to the kitchen.
+
+“She's noticed you.” Teepo said. “She's coming out.”
+
+Ren equipped his Dwarf Recruit uniform, and waited in the hallway. The kitchen door opened, and Donna stared at him.
+
+“You're back!” She said, shut the door to the kitchen, and ran to him.
+
+Oh, crap! Ren thought. She's going to jump!
+
+He braced himself to catch her, and Donna smiled as she leaped in the air with her arms spread wide. Ren caught her and swung her around to stop her momentum from taking them both to the floor. Donna laughed as she ended up with her arms around Ren's neck, one of his arms under her back, and the other wrapped around her legs as he knelt and rested her butt gently onto his knee.
+
+“My hero!” Donna said, and kissed him.
+
+Since his arms were literally full of her, he couldn't protest or give any kind of reasonable resistance to her efforts, and kissed her back. She broke the kiss a minute later, and Ren let her legs go so she could stand up. Donna smiled at him as she stood.
+
+“How in the world did you catch me?” She asked. “I've never had anyone do that before!”
+
+Ren chuckled. “Surprisingly enough, I've had some practice with catching women who jump on me.”
+
+“Well, your practice worked.” Donna laughed. “A 4 foot 7 inch tall man just caught a 6 foot tall woman in his arms like it was nothing.” She said. “I'm nearly twice your size!”
+
+Ren smiled. “I could say that there was a lot of you to catch, but...”
+
+“...you better not insult me like that!” Donna said and grinned. “The last thing you want to do, is make a woman think she might be fat!”
+
+“Fat!” Ren exclaimed. “There's not a lick of fat on you. You're all muscle.”
+
+She took him into a hug and squeezed his face between her breasts. Even with the apron on, it barely provided any resistance to the movement.
+
+“Donna...” Ren started to say.
+
+“No, you're right. We can't do anything at work.” She said. “I've got a lunch break coming up, and we can go to my place.”
+
+“I have an urgent mission I need to take care of first.” Ren said. “I need to speak to Lord Eric, and then the Finance Minister.” He explained. “I don't know how to make an appointment with either of them.”
+
+“That's no problem.” She said. “We'll be serving them lunch in about half an hour.”
+
+“I'd like to speak to Lord Eric privately, actually.” Ren said. “It really is important.”
+
+Donna nodded and let him go. “This way.” She said, and walked back towards the lobby, then knocked on the first door.
+
+“Enter.”
+
+Inside was a brown-haired woman behind a desk. She wore large thick glasses, and was dressed conservatively.
+
+“What can I help you wi-oh. Hi, Donna.”
+
+“Hi, Rebekka.” Donna said. “Ren needs to see Lord Eric right away.”
+
+“He's in the drawing room waiting for lunch.”
+
+“Great.” Donna said. “Ren needs to see the Finance Minister after that.”
+
+“You're in luck. Lord Eric is with the Finance, Trade, and Defense Ministers.”
+
+“Thanks, Rebekka.” Donna said. “See you at lunch.”
+
+“Bye, Donna.”
+
+Ren had barely looked at the woman, and the door was shut to block her from view.
+
+“Well, that was easy.” Ren said, and Donna chuckled.
+
+“She knows I wouldn't bother Lord Eric if it wasn't important.” Donna said. “If you'd gone in there yourself, you might have gotten an appointment for next week.” She smiled. “Maybe.”
+
+“Thanks, Donna.” Ren said, and followed her to the drawing room; which was just a room in a large private house in which guests can be received and entertained.
+
+“Don't thank me yet.” Donna said as she stopped in front of the fourth door in the hallway, that was identical to all of the other doors. “When lunch is served, then you can thank me.” She said, picked him up to hold him at head height, and gave him a quick kiss. “And you better thank me properly.” She said and put him down.
+
+“I'll do my best.” Ren said as she opened the door, and he stepped into the drawing room.
+
+“Well, well.” Lord Eric said. “I didn't think I'd be seeing you again for a while.”
+
+Ren gave him a slight nod, and he returned it. “I've definitely been busy.”
+
+“Running a county is no small matter.” The Finance Minister said. “The overhead for such a large area is quite the amount.”
+
+“I'd like to talk to you about that.” Ren said. “Right after Lord Eric and I discuss something.” He turned to Lord Eric. “Can I borrow you for a quick private meeting?”
+
+“Of course.” Lord Eric said. “I can always spare a few minutes for the Hero of Aurora.”
+
+“Thank you.” Ren said. “I appreciate it.”
+
+“Not as much as the people appreciated you paying to repair all of their houses.” Lord Eric said.
+
+“That was you?!?” The Finance Minister exclaimed.
+
+Ren nodded. “I couldn't let the townspeople suffer twice from a such an act of violence.”
+
+“That was quite noble of you.” The Trade Minister said. “But you've put us into quite a pickle.”
+
+“Why is that?” Ren asked.
+
+“The taxes, of course!” The Finance Minister said. “We've been trying to raise taxes for years, and this would have been the best opportunity to do that.” He sighed. “Now, though...”
+
+“What would you use the taxes for?” Ren asked.
+
+“The same as they've always been used. Maintenance of the roads, wages for the soldiers... the usual things for running a Principality.”
+
+Ren frowned. “Did the prices of things go up?”
+
+“No.”
+
+“Did you hire more soldiers because of the fire?”
+
+“No.”
+
+“Then what would all the extra money from higher taxes be used for?”
+
+The Finance Minister was about to say, when the Defense Minister elbowed him in the ribs.
+
+“Defense.”
+
+Ren smiled, because he knew the Finance Minister was about to say 'for us', and he turned to Lord Eric. “Do you have a private room close by?”
+
+“Right this way.” Lord Eric said, and led Ren to a door in the side of the room. “Gentlemen, I will be back momentarily.” He said and opened the door.
+
+Ren went into the room and Lord Eric shut the door.
+
+“What is this little meeting about?”
+
+“Anabelle.”
+
+Lord Eric smiled. “How is she working out for you?”
+
+“All she does is sit on the couch and try to seduce me whenever she gets the chance.” Ren said.
+
+“Isn't that great?” Lord Eric said. “It's nice to have a woman tend to your every need.”
+
+“It would be.” Ren said. “If she wasn't ordered to do that by someone else.”
+
+“She wasn't ordered to do any such thing.” Lord Eric said. “She agreed to do it and signed the contract, then had free room and board for years; in exchange for her services, of course.”
+
+Ren looked at him with his head tilted slightly to the side. “I thought you gave her to me when you gave me the County.”
+
+“I did.”
+
+“I thought you did, too.” Ren said. “Until I found out that you still had her under contract.”
+
+Lord Eric chuckled. “I didn't expect you to realize that.”
+
+“Normally, I don't think I would have.” Ren smiled. “But when I gave her a platinum coin, and a couple of days later, she only had a few silver left and claimed she bought food with it...” Ren stopped smiling. “...even though you ordered that she was only allowed one meal a day.”
+
+“We can't have her getting fat.” Lord Eric said, then sighed. “I knew I should have changed her orders about tithing 95% of her money.”
+
+“Why?”
+
+“She always made more money.” Lord Eric said. “I don't know why she was more popular than the other maids.”
+
+“So, she didn't volunteer to serve me.” Ren said.
+
+“No, she did.” Lord Eric said. “She jumped at the chance, for some reason.”
+
+Ren nodded. “I'm glad.” He said. “You can give me her contract now.”
+
+Lord Eric chuckled. “I don't think so.”
+
+“Why not?”
+
+“According to her, you're going to be paying her for actual work.” He said. “Why would I give that up?”
+
+It was Ren's turn to chuckle. “Did you really think I'd be giving her any more money, after you stole 95 gold from me?”
+
+“It was almost the amount of the prize I gave you after that quest.”
+
+Ren stared at him. “You wanted me to pay that back?!?”
+
+Lord Eric chuckled. “No, it was more of an investment.” He said. “Usually, it's an Adventurer that we can actually use; but, you surprised me with how much you actually did to help the quest.”
+
+Ren shook his head. “You thought you were buying me.”
+
+“He finally understands.” Lord Eric smiled. “We buy Adventurers nearly every day.” He said. “We send them out on ridiculous quests for a while, then we'll throw in one we actually need taken care of.” He said. “Like the quest you won.” He said. “We couldn't have that growing evil presence disrupting everything.”
+
+Ren sighed. “So it's all a lie?”
+
+Lord Eric laughed. “Of course not!” He said. “Do you know what this world would be like, if there wasn't any Adventurers around?”
+
+Ren shook his head.
+
+“A desolate wasteland. Everyone dead or dying. Evil run rampant.” Lord Eric sighed. “It's not wrong to make money while helping the people.”
+
+“It is when you step on their backs to do it.”
+
+“Come on, now!” Lord Eric chuckled. “It's not like that.”
+
+“It seems like it.” Ren said. “You profit from their misery.”
+
+“Not always.” Lord Eric said. “Between poverty and prosperity, is a fine line to walk.”
+
+“So you won't give me Anabelle's contract?” Ren asked
+
+Lord Eric shook his head.
+
+“Can I buy it from you, then?”
+
+Lord Eric smiled. “50 platinum coins.”
+
+“Deal!” Ren said, grabbed Lord Eric's hand and shook it.
+
+“What are you doing?” He asked. “I don't think so.” Lord Eric said. “It's 100 platinum now.”
+
+“No, it's 50 platinum. You agreed to it.”
+
+“No, I didn't.”
+
+Ren grinned at him. “Are you breaking the deal?”
+
+“There was no deal!”
+
+“I asked to buy an item, you gave me the price, and I agreed. That, sir, is the definition of a deal.”
+
+“No, I refuse.”
+
+“I wouldn't if I were you.” Ren said. “Do you know what happens to deal-breakers?”
+
+“You... you wouldn't!”
+
+Ren laughed. “I was only going to publicly shame you for giving me a maid to use for sex and keeping all of her money for yourself; but if you don't complete this deal, you'll be spending a lot of time in your own jail cell, and everyone will know you don't honor deals.”
+
+Lord Eric glared at Ren.
+
+“What will King Alamast do, when he finds out?” Ren smiled. “Who do you think he'll appoint to run the Principality of Aurora while you sit in jail?”
+
+Lord Eric walked over to the desk in the corner and opened one of the drawers. He searched for the scroll he wanted and closed the drawer.
+
+“Very well.” He said and came over to hand Ren the scroll, who opened it and saw it actually was Anabelle's contract.
+
+“Now, there's no other ones, is there?” Ren asked. “Did you have her sign anything else while under this one?”
+
+Lord Eric took in a sharp breath through his nose, then let it out. “Damn you.” He said, and went back to the desk. He took out three more scrolls, and brought them over to Ren, who opened them and smiled.
+
+“Oh, that's sneaky.” Ren said. “Because she agreed to the original contract, these other ones are perfectly legal.” He shook his head. “You should be ashamed of yourself.”
+
+“You have no right to judge me!”
+
+Ren laughed. “Of course I do.” He said. “I'm a Lord, remember? Who better to judge you than one of your peers?”
+
+Lord Eric growled. “Hand over the money and get out.”
+
+“Sure.” Ren said. “This might take a few minutes.”
+
+He opened his coin vault and started dumping out copper coins.
+
+“Wh-what are you doing?!?” Lord Eric asked as the copper coins flowed over the floor.
+
+“I'm paying you.” Ren laughed and laughed as 50 million copper coins filled the room.

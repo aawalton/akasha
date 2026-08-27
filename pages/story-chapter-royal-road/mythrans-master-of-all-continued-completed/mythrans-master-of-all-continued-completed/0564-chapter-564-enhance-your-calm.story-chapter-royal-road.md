@@ -1,0 +1,225 @@
+---
+id: af9dbe9d-7e63-5006-a09b-0397bd062ca7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 564 - Enhance Your Calm"
+slug: 0564-chapter-564-enhance-your-calm
+partOf: mythrans-master-of-all-continued-completed
+position: 564
+ownLength: 2747
+unit: words
+publishedAt: 2018-04-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210049/chapter-564-enhance-your-calm"
+royalRoadId: "210049"
+---
+
+Barbara pushed Ren's wheelchair out of the meeting room. Stella, Denise, Barbi, and Elise followed them, and the two security guards went with them. They all went down the elevator and out through the lobby of the building to meet the rest of the guards. They pulled back from their observation positions and ensured Ren and the others had safely loaded into Elise's Hummer H2, then they piled back into the sedan and led the way back to Ren's house.
+
+No one in the Hummer spoke at all as they travelled, and they remained silent even after Elise had parked in the driveway. It was a bit eerie to only hear the car doors and rustling cloth as they exited the vehicle, and Denise put Ren into his wheelchair. The security guards at the house didn't bother checking their identification this time, mainly because their own men were with their client, so Ren and the women with him entered the house unimpeded.
+
+Once inside, they came to a stop in the lobby and just stood there. No one knew what to do with themselves after going through listening to what Ren had been through, and they didn't say anything for several minutes. All you could hear was low breathing and an occasional sigh, and they all avoided each other's gazes in case it set them all to crying again.
+
+Having to sit through that was the worst thing that any of them had ever experienced. It hit Elise the hardest, because of how much she loved him, and she had fought hard not to run from the room screaming bloody murder. Now that she had Ren safely home, her body trembled because she wanted to wring the necks of the people that had done those things to Ren. They didn't deserve to live after what they did and she wanted to end them.
+
+Elise felt a hand take hers, and she looked down at Ren. “Wh-what is it, sweetheart?”
+
+“I know you're angry, but...” Ren took a breath and let it out. “...I need you to hold me.”
+
+“Oh, Ren.” Elise let more tears escape and she knelt beside his wheelchair. “I'm not angry at you.”
+
+“I made you sit through that.” Ren said and looked at the others. “I made you all sit through it.” He said. “I know at least some of you hate me for that.”
+
+“Ren.” Stella said and made fists with her hands. “What we hate is that you went through it, and that you remember going through it.” She said and opened her hands. “We also hate that we can't do anything about it.”
+
+Ren looked at Denise and Barbara, and they nodded. He looked at Barbi, and she looked kind of scared. “Barbi? What is it?”
+
+“One... one of the names...” Barbi wiped some tears away. “He... he was my professor at college.”
+
+“Oh, no.” Denise said.
+
+“I never imagined that... that I could know someone that... that would do something like...” Barbi sobbed. “How could he do that?!?” She asked and wiped away more tears. “What is wrong with people?”
+
+“You had a thing for him?” Denise asked, and Barbi nodded.
+
+“I feel so... dirty.” Barbi said and rubbed her arms. “How can I care about someone that...” She shook her head. “No, I... I won't... oh, god!”
+
+Ren recognized that was the same exclamation he had heard in the meeting room.
+
+“Easy, now.” Stella said and put an arm around Barbi's shoulders. “You're going into shock.”
+
+“I think we all are.” Barbara said and held her hand out, and it trembled just as much as Ren's did. “We all need to sit down and take a breath.”
+
+“A breath!” Barbi almost yelled. “The ones who did that to him should never take another breath again!”
+
+“Come on.” Stella said and led Barbi across the lobby and into the first living room, and the others followed her. “Everyone sit.” She said. “Nurse's orders.”
+
+Barbi flopped down onto the big couch, almost bonelessly. Stella helped her take off her suit coat, then sat beside her and put her arm back around her shoulders. Elise let Ren's hand go and took off her own suit coat to be more comfortable, then sat beside Stella. Ren pointed between them, and Barbara pushed Ren's chair over. Denise helped him transfer to the couch, and Elise made just enough room for him between her and Stella. Ren sat down and leaned back, and his head rested against both women's shoulders. He wasn't sure what to do with his hands, so he put one on Elise's thigh, and the other on Stella's. Since they both had on skirts, the tips of his fingers rested against bare skin.
+
+Neither woman said anything, and Elise's free hand took Ren's. He smiled at her, and then he felt his other hand being held. Stella smiled at him, and he held both hands tightly, then lifted them and hugged their arms to his chest.
+
+Donald came into the living room almost at a run and took Barbara into his arms. “I got your text.” He said and eased her over to the armchair and sat down, and sat her down on his lap. Barbara let the tears flow again as her husband gently held her and they cuddled together.
+
+Denise sat down beside Elise and everyone sat in silence as they tried to deal with what they were feeling. They stayed that way for a little while, and then a low rumble broke the silence.
+
+“My stomach says it's hungry.” Ren said. “The insensitive bastard.”
+
+Stella chuckled and Denise snorted a laugh.
+
+“I'm on shift, so I'll get you something to eat.” Denise said. “Are sandwiches okay?”
+
+Ren nodded. “Thanks, Denise.”
+
+“I'll make enough for everyone.” Denise said and went to the kitchen. Another low rumble came out of Ren, and Elise let his hand go to rub his belly.
+
+“The poor thing is really hungry.” Elise said.
+
+“I don't feel like eating at all; but, I apparently don't have a choice in the matter.” Ren said.
+
+“It's because you missed lunch.” Barbara said. “Check your watch.”
+
+Ren looked at it and saw it was 2 pm. “Oh, damn.”
+
+“What is it?” Stella asked.
+
+“We left this morning around 7 am.” Ren said. “I missed a night, a day, and most of another night in the game.”
+
+“At least you didn't have anything really important that you needed to do.” Elise said. “You've got another day before the Sea Dweller deadline.”
+
+“Yeah, but I had planned on clearing out the ghoul infected in the hospitals.” Ren said. “Now I'm a day behind.”
+
+Elise smiled. “You can just run through them and touch everyone in an instant.”
+
+Ren looked up at her face with wide eyes. “Would that work?”
+
+Elise nodded. “You wished to heal them with your touch. You don't need to keep touching them for it to take effect.”
+
+“Huh.” Ren said. “I guess I wasted a lot of time healing the others, didn't I?”
+
+“It wasn't a waste, sweetheart.” Elise said. “I've watched the footage. You needed to make personal contact with them, or they wouldn't have believed you.”
+
+“Which I don't have to do with the masses.” Ren said and smiled. “They'll still be under my domain; but, I won't have to learn about their personal lives... even if they move to my county.”
+
+Elise nodded. “You can't get personally involved with everyone you meet.” She said. “You'll be so inundated with personal quests that you won't be able to move without failing one and activating another.”
+
+“Thanks, Elise.” Ren said. “That's going to be a big help.”
+
+“H-how can you talk about stuff like that?” Barbi asked. “After... after...”
+
+Ren let Stella's hand go and tapped her thigh, and Stella moved out of the way. Ren motioned to Barbi to move closer, and she slid over to sit next to him.
+
+“I apologized to the lawyers for what I said, but I should have apologized to everyone.” Ren said and reached up and touched the side of her face. He wiped at the tears there and smiled at her. “What I went though was horrible. We all know this. The people responsible will be held accountable in some form or another.”
+
+“But... you... you...”
+
+“Shh. It's okay.” Ren said and caressed her cheek. “I'm okay.”
+
+Another tear joined the others Barbi had shed, and he wiped it off.
+
+“I... I don't understand.” Barbi said. “How can you be trying to calm me down, when it's you that should be looked after?”
+
+“I am being looked after. Elise is holding me just like I asked. I can spare a hand for someone else in distress.”
+
+Barbi took in a breath, which pushed her chest up against his arm, and she sighed as she let the air out. “Th-thank you.”
+
+“You're welcome.” Ren said. “Now I have to ask you a question.”
+
+“What's that?”
+
+“Can I let your face go without you thinking I'm trying to rub your breasts with my arm?” Ren asked and gave her a big smile. Barbi laughed, which made her chest jiggle and rub against his arm. Ren intentionally shifted his gaze from her face to her chest and back again while he exaggerated the movement to make it obvious, and she laughed even more.
+
+After a few moments of this, Barbi reached up and took his hand. She very carefully slid it down her neck, across her shirt collar, and over the mounds of her breasts. Ren felt the heat of her flesh when he discovered how thin the shirt actually was, and his eyes widened as she hugged his hand briefly. She moved the hand down past her warm mounds until it hit the edge of her bra, then she let his hand go.
+
+“There.” Barbi said and smiled. “Now I know you weren't trying to grope me.”
+
+Ren blinked his eyes at her, and he didn't know what to say.
+
+“After what you said today at the lawyer firm, just letting you touch my chest through my shirt has left you speechless?” Barbi asked, surprised.
+
+“Ren's a bit of a breast man.” Stella said from the other side of Barbi. “Just seeing them in a t-shirt without a bra drives him crazy.”
+
+“Oh! Remember that time I tried to wear one of his t-shirts?” Elise asked.
+
+“Uni-boob!” Stella said and laughed. “God, what a sight that was!”
+
+“It sure was.” Ren said and remembered what she had looked like. “They're magic normally, but that...” He chuckled. “She had stuffed them in so much it looked like it hurt.”
+
+Elise cuddled him and kissed the top of his head. “It was getting there.” She said and held a hand up with her finger and thumb an inch apart. “I was this close to just cutting the thing off.”
+
+“Wait, you didn't?” Ren asked, and looked at Stella. “What happened to the t-shirt?”
+
+“Elise left a lasting impression on it.” Stella said and grinned. “It died a glorious death from being boob-stretched.”
+
+Ren and Elise laughed, and the others joined in.
+
+“What's funny?” Denise asked as she came in with a tray of sandwiches.
+
+“Uni-boob!” Ren said, and she laughed, too.
+
+They filled the time with idle talk as they ate their sandwiches, and their sombre moods slowly lifted. By the time 3 pm came around and it was time for him to log back into the game, Ren had raised their spirits enough and had successfully reassured everyone that he was fine. They were still reluctant to let him go; but after several promises to log out again for supper and in the middle of the night, no one protested his desire to play the game.
+
+Barbara and Donald left so she could get some sleep before her night shift, and Elise and Barbi went to their office to see if the recordings made that day were available yet. Stella, who was supposed to be off today and working, had texted Gloria that morning and told her where she was going and couldn't make it. She hadn't heard from Gloria since, and she left to try and get as much work done as she could.
+
+Denise brought him up to his room and got him ready for another sponge bath. “Well, this was quite a day for you.” She helped Ren get undressed and then laid him on the bed with fresh towels under him.
+
+“Yeah, and now I'm getting the second sponge bath that you said I couldn't have when I asked for it this morning.”
+
+Denise opened her mouth to respond, then sighed. “Well, damn.”
+
+Ren laughed, and she started to wash him. He stayed passive most of the time, because he didn't want to get in her way by trying to help too much. Denise had smiled the entire time because she knew that was what he was trying to do.
+
+“You're a good patient.” Denise said and started to dry him off.
+
+“Am I?” Ren asked. “All I can think about is taking off your clothes.”
+
+Denise chuckled and kept drying him. “I don't think you can take any physical intimacy right now.”
+
+“Hey, as long as I don't have to do anything...”
+
+Denise laughed. “That's not a very enticing way to invite someone to sleep with you.”
+
+“What if all I wanted was to see that beautiful piece of paradise?” Ren asked, and her face went red.
+
+“Ren...”
+
+“Yeah, I know.” Ren said and held in his sigh. “It's going to take time for you to get those images out of your head.”
+
+“You... described everything very well.” Denise said and finished drying his legs, then rolled him over and took the towels he was on and dried his back. “I didn't realize you could invoke such strong imagery just with words.”
+
+“I couldn't keep everyone captivated, could I?” Ren asked. “A lot of people had to leave.”
+
+“Ren, I wanted to leave.” Denise said and rolled him back over, then helped him get dressed in another pyjama set. “So did Barbi.”
+
+“Then why did you stay?”
+
+“For you, obviously.” Denise said. “I won't say it was torture to sit there, but...”
+
+Ren reached up and touched her face. “I'm sorry, Denise.”
+
+“You don't have to apologize.”
+
+“Yes, I do.” Ren said. “Not once did I consider your feelings, or anyone else's for that matter, while I talked. I just wanted it all out in the open.”
+
+“Ren, you...” Denise took his hand from her face, then leaned over and gave him a kiss on the lips. “...you are an unnaturally strong man.”
+
+“This strong man has strong women to hold him up and keep him safe.” Ren said. “I couldn't do anything if I didn't have you behind me.”
+
+Denise leaned back in and gave him another kiss. “I can't... I won't... use your body in the condition it's in right now.” She said. “So, I... I guess it's time I surprised you.”
+
+“With what?”
+
+“I'll be right back.” Denise said and Ren watched her walk away as she left the bedroom.
+
+I wonder what she's going to do? Ren asked himself, and then a minute later, his eyes widened. “No way!”
+
+Denise had come into the room with a VR headset, and she came over to the bed and set it up. “I can't log in until Barbara comes in for her official shift and takes over from me.” She said and put the headset aside. “Which means I can join you in the game tonight after 9 pm.”
+
+“I thought you didn't like this kind of stuff.” Ren said.
+
+“I don't.” Denise said and smiled. “But you do, and I want to give it a try.”
+
+“I don't know.” Ren said and looked up at the ceiling to avoid her gaze. “I might be a little too busy to have you hanging all over me...”
+
+“Why you little...!” Denise reached for his underarms and tickled him, and he laughed. She didn't go overboard with it, because she knew he was still weak. She did manage to get her point across, though.
+
+“Okay, okay! You can hang on me all you want!” Ren said, and laughed at her expression. He let the funny moment pass and took her hand to kiss the back of it. “Thank you.”
+
+Denise helped him put on his VR headset so he could get back into the game.

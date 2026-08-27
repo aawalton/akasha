@@ -1,0 +1,259 @@
+---
+id: 41bc4685-5b0f-502d-9a32-1d821e0e1155
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 Fracture"
+slug: 0016-chapter-15-fracture
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 16
+ownLength: 2509
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3212908/chapter-15-fracture"
+royalRoadId: "3212908"
+---
+
+The morning air carried a sharper bite than the day before, seeping through the manor’s stone despite the hearth’s fading warmth. Lucien stood by the window, the village beyond quieter than it had any right to be.
+
+But the night prior had been anything but calm, a flurry of orders issued in clipped succession, preparations accelerated, and adjustments made in the dark while Ashridge slept.
+
+Lucien had received a more thorough briefing from Dorian regarding the sightings. As the runner had reported, tracks had been discovered near the treeline. More importantly, he now had confirmation of something he had suspected, yet quietly hoped would not prove true.
+
+There were monsters in this world.
+
+Goblins. Kobolds. Orcs. Trolls. Creatures that belonged in the pages of fantasy, not reality. He had allowed himself the small hope that this world, despite its feudal rigidity and harsh winters, might at least be free of such things. According to Dorian’s assessment, however, the tracks were consistent with Goblins and Kobolds.
+
+He had assumed that because the phenomenon was called Beast Tithes, it would involve animals. In hindsight, that assumption had been naive. To the people of this world, Goblins and Kobolds likely fell comfortably within the category of beasts. The word monster implied something aberrant. Here, these creatures were natural enough to be classified as a natural thing of this world
+
+At least the worst had not yet come to pass. Dorian’s report indicated that the movements were not concentrated. There was no sign of encirclement or probing pressure against the palisade. Instead, the tracks suggested motion through the treeline, passing along the forest edge and around Ashridge rather than toward it.
+
+The hunters of Ashridge were rather misleading if one were to take their name as it is. In truth, they were more akin to farmers who did hunting as supplementary work in their free time. They also served as both foragers in ordinary months and scouts during the Tithes. But most days, they were still farmers like most men in the village.
+
+Despite that, Lucien had little choice but to rely on their judgment when they stated that this behavior was normal. There were, fortunately, no confirmed signs of the more dangerous variants.
+
+Even so, he could not fully quiet the unease beneath his thoughts. There was something discordant in the description of the movement, it did not align neatly with the defensive model he had been constructing in his mind.
+
+In the end, he dismissed the feeling. It was unreasonable to assume that he would perceive what seasoned frontier hunters could not. He was the foreign element here, not them.
+
+Shaking his head lightly, Lucien reached for the bell to summon Elias. Speculation without data was futile in the end. There were tangible actions he could take, and those would demand his attention.
+
+Elias’s formal entry into the study had already become routine. He approached with measured steps and stopped at the proper distance.
+
+“Elias, has the runner been sent to Cragwatch yet?” Lucien asked after the customary greeting.
+
+“Yes, My Lord. The instructions you provided have been conveyed in full. We should expect a reply within several days,” Elias replied politely.
+
+Lucien nodded once. “You reviewed the contents before it was sealed.”
+
+“I did.”
+
+Lucien regarded him evenly. “And?”
+
+Elias allowed the smallest pause. “The request is formally structured. Respectful. It acknowledges Cragwatch’s position as the stronger mining settlement in this region.” His gaze remained level. “You were explicit in requesting priority allocation of iron stock.”
+
+Lucien steepled his fingers. “We possess the larger pool of manpower. Timber labour may be of interest to them, particularly if their own reinforcements remain unfinished.”
+
+“And the alternative offer,” Elias continued, his tone carefully neutral, “was a secured portion of our next harvest.”
+
+Lucien tilted his head slightly. “You have concerns.” It was not phrased as a question.
+
+The steward took a breath before answering. “My Lord, pledging grain before winter has concluded carries risk. Should the Tithes prove harsher than anticipated, Ashridge’s reserves may narrow.” A brief pause followed before he continued. “It also places us in visible reliance upon their goodwill.”
+
+Lucien’s eyes sharpened slightly at that phrasing. “All trade is reliance,” he said evenly.
+
+“Yes, my Lord,” Elias’s expression did not shift. “Though reliance is sometimes interpreted beyond its material form.”
+
+Silence lingered for a breath.
+
+Lucien frowned inwardly. Elias was rarely careless with his words, the phrasing had been deliberate. It felt as though something had just been conveyed to him, yet he could not quite grasp what it was. Either he lacked the acuity to catch it, or he was overthinking a simple remark.
+
+He had never been particularly adept at reading subtle social cues.
+
+“That is precisely why the offer must exist,” Lucien said at last. “If we wait until scarcity is evident, we negotiate from weakness. If we move now, we negotiate from preparation.”
+
+Elias gave a small nod. “You believe signalling readiness strengthens perception.”
+
+“I believe reinforced gates and standardized arms signal intent,” Lucien corrected. “If Cragwatch sees that we are investing in our survival, they are more likely to invest alongside us.”
+
+“And if they interpret the request as strain?” Elias asked quietly.
+
+“Then we are strained,” Lucien said without hesitation. “But disciplined.”
+
+Elias held his gaze a moment longer than usual. “Very well, My Lord. We shall await their reply.”
+
+Lucien gave a faint nod. “If they respond favourably, we increase shield production. If not, we stretch our current stock further.”
+
+Before the discussion could continue, hurried footsteps echoed down the corridor. The door opened abruptly, lacking the usual restraint. Lucien straightened at once, tension rising through him as the expression on Alicia’s face told him something was wrong before she spoke.
+
+The petite girl was even paler than usual, breath unsteady, fingers clenched tightly in her apron.
+
+“M-my Lord,” she began, trying to steady herself, “there has been an accident at the drills.”
+
+Elias stiffened, clearly prepared to reprimand the maid for her breach of decorum, but Lucien was already on his feet, reaching for his cloak.
+
+“Come,” he said, pulling it over his shoulders. “You will brief me on the way.”
+
+He adjusted his gloves with quick, practiced motions before stepping out of the study. Alicia hurried after him.
+
+They moved through the manor corridor and into the courtyard beyond. The air bit sharper outside, frost still clinging to the packed earth. Servants paused in their tasks as he passed, lowering their gazes.
+
+“He moved too soon,” Alicia said quietly, keeping a careful step behind him. “During the turning drill. The spear went through when the shields were changing.”
+
+“Is he conscious?” Lucien asked as they crossed the yard toward the palisade path.
+
+“Yes, My Lord. Captain Dorian said the bleeding has slowed.”
+
+Lucien slowed slightly and glanced toward her. “Return to your duties.”
+
+She hesitated only a moment before bowing. “Yes, My Lord.”
+
+He continued on alone.
+
+By the time Lucien reached the palisade yard, the initial disorder had already been contained.
+
+The formation had been halted, though the men had not dispersed. They stood in uneven clusters, speaking in low voices that quieted as he approached.
+
+At the center of the yard, space had been cleared.
+
+The injured militia member lay upon a folded cloak rather than bare frost, a thick strip of cloth that had been bound firmly around his upper thigh. Two men knelt beside him, maintaining steady pressure where darker stains had already seeped through the linen.
+
+Dorian stood over them. “My Lord,” the captain greeted, inclining his head once.
+
+Lucien’s gaze went first to the wounded man. His breathing was shallow but measured while his jaw clenched hard enough for the muscle to tremble.
+
+He crouched and examined the placement of the cloth without disturbing it. From his own inexperienced eyes, the compression was tight and correctly positioned.
+
+Still crouched, he asked in a low tone, “This happened during rotation practice?”
+
+Dorian nodded. “Yes.”
+
+Lucien glanced toward the training space. The frost still showed where boots had shifted and dragged.
+
+They had been practicing shield rotation. The front line turned back while the second stepped forward to take the weight. A simple exchange meant to keep arms from tiring too quickly.
+
+One of them had moved before the other was ready.
+
+Lucien stepped closer to the scuffed frost, studying the marks left behind. A boot print had cut slightly ahead of the rest. The difference wasn't much, just enough for the line to loosen for a breath.
+
+“The rear had not closed?” He asked, his tone sharper now.
+
+“No,” Dorian replied, jaw tightening. “The space was still open.”
+
+Lucien pictured it clearly.
+
+The first man withdrawing, eager to reclaim position sooner than the rhythm allowed. His shield sliding away before the second had fully stepped in. That would inevitably cause a thinning of the overlap between the shields. Across from him, the opposing line would have seen the motion and answered it as trained.
+
+A spear thrust forward into what should have been solid wood.
+
+Instead, it found wool and flesh.
+
+The injured man shifted weakly on the cloak, as if reliving the moment in his body. One of the kneeling militia tightened the binding again.
+
+Lucien’s gaze lifted, shifting toward where the men had gathered.
+
+Two stood apart from the rest of the militia.
+
+Tomas’s shoulders were drawn tight, his gaze fixed on the frost as though he could will the scuffed marks to rearrange themselves. His hands flexed once at his sides before locking still.
+
+Dalen stood straighter, chin lowered but not bowed, his expression composed in a way that suggested he had already accepted whatever would follow.
+
+Lucien did not summon them yet, instead, his thoughts drifted briefly to the board outside the tavern, where Alicia had marked the latest standings that morning. Fresh chalk had left narrow margins between several names. The difference between one man and the next had been scarcely visible.
+
+He looked back to the two standing apart from the rest. It was not an act of malice, Lucien realized. His proposal for the ranking system, meant to sharpen the drills and drive improvement in men who would otherwise have little interest in such rigor, had become the root cause of this incident.
+
+Tomas had moved a half step too early. Likely driven by an eagerness to reclaim position before the rhythm demanded it.
+
+Dalen had answered the movement without hesitation, sealing what he believed was a thinning overlap.
+
+The fracture had lasted less than a breath.
+
+Lucien turned back to Dorian, keeping his expression carefully neutral. “The drill will resume at midday,” he ordered evenly. “Basic formation only.”
+
+A murmur passed through the gathered men and faded just as quickly.
+
+“No ranking adjustments from this morning,” Lucien added after waiting for the murmurs to pass. This time the silence carried weight. Some of the men's faces eased while others hardened though they were clearly making the attempt not to show it too openly.
+
+‘Even now, they care more about the ranking than the blood.’ The thought trailed off. He was still not accustomed to how quickly violence settled into the background here.
+
+“Once he is secured inside,” he continued, “those involved will report to the manor.”
+
+Tomas lifted his head at that, jaw tightening while Dalen inclined his once in acknowledgment.
+
+“Yes, My Lord.”
+
+The injured man was lifted carefully and carried toward the infirmary within the palisade. The frost beneath him was darkened, but no longer spreading.
+
+The yard remained still nor did formation drills resume that morning. Orders were given quietly and the injured man was seen to.
+
+By afternoon, word had already travelled through the village.
+
+The two militia members stood before Lucien in the central hall of the manor later that afternoon. The injured man had been stabilized and the bleeding had slowed. Whether he would retain full use of his leg remained uncertain.
+
+Dorian stood to one side, shoulders squared, stance firm as though still upon the drill yard. His gaze remained forward, unreadable.
+
+Lucien chose not to sit at the head of the long table. He stood with his hands clasped behind his back, expression carefully kept composed as he regarded the two men in silence.
+
+“You advanced before the line settled,” he stated at last, looking to the younger of the two. “Tomas.”
+
+The militia member shifted his weight, jaw tightening before he answered. “Yes, My Lord.”
+
+“You believed you saw an opening.” It was not phrased as a question.
+
+A brief hesitation. His fingers curled at his sides. “Yes.”
+
+Lucien shifted his gaze. “And you answered the movement, Dalen.”
+
+“I did, My Lord,” Dalen replied without pause. “I thought it was clean.” His tone carried acceptance of what was to come.
+
+Lucien let the silence stretch. Neither man lifted his head. “The drill was not called for speed,” he said at last. “It was called for cohesion.”
+
+Tomas’s breathing remained shallow, a restrained edge beneath it, while Dalen stood motionless, as though already accepting the correction.
+
+“The ranking system exists to encourage effort. It does not replace discipline.”
+
+Tomas’s jaw tightened again, frustration settling into place.
+
+“A half step taken early creates a gap,” Lucien continued evenly. “A gap invites consequence. You endangered the line.”
+
+“Yes, My Lord,” came the reply, firmer now.
+
+Lucien did not raise his voice. “Effective immediately, you are both removed from ranking eligibility until the Tithe concludes.”
+
+The words settled heavily in the hall.
+
+Tomas went rigid, shoulders locking as though bracing against something unseen. Dalen did not look at him, but his shoulder shifted half an inch closer.
+
+“You will continue to drill and stand in formation but you will not compete for position. You will not receive rotation labor privileges for coin.”
+
+Silence lingered in the large empty hall for the span of a heartbeat.
+
+“This is not punishment for injury,” Lucien added. “It is correction for instability.”
+
+He allowed that distinction to stand between them.
+
+Dorian spoke then, his tone as steady as it was in drill. “Ranking is earned through cohesion,” he said. “Individual ability comes after.”
+
+“Do you understand?” Lucien asked.
+
+“Yes, My Lord,” they answered together.
+
+Lucien inclined his head once. “You are dismissed.”
+
+They withdrew without protest. Tomas walked with stiffness that bordered on anger at himself. Dalen’s steps were slower, measured, as though committing the mistake to memory. He did not let Tomas fall behind him.
+
+When the door closed, the hall felt larger and emptier.
+
+Dorian remained where he stood. “You are tightening the reins,” the captain observed.
+
+Lucien kept his hands clasped behind his back. “I introduced acceleration,” he said. “I will not allow it to erode discipline.”
+
+Dorian regarded him for a moment. There was no disagreement in his expression. “They will feel it,” he warned.
+
+“They should.”
+
+Lucien’s gaze drifted toward the window and the distant treeline beyond the palisade.
+
+“The line must hold.”
+
+Outside the tavern, the ranking board stood beneath the eaves.
+
+Two names were gone, scraped from the wood.

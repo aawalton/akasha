@@ -1,0 +1,217 @@
+---
+id: 40f15103-328c-5832-87c4-63a92962a5b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 129 - Back To The House"
+slug: 0114-chapter-129-back-to-the-house
+partOf: mythrans-master-of-all-continued-completed
+position: 114
+ownLength: 2766
+unit: words
+publishedAt: 2016-12-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109821/chapter-129-back-to-the-house"
+royalRoadId: "109821"
+---
+
+After spending an hour and a half satisfying Nathalia, and the rest of the night feeding Elerlyth, Ren was feeling pretty good.
+
+“Show info on new title: Prince Charming.”
+
+Prince Charming
+
+You personify the vision of a woman's ideal man, both romantically and physically. You will automatically draw the attention of impressionable women within your Aura's radius.
+
+Aura (Personal) Bonus: +5 levels
+
+“My personal Aura is now out to 15 feet; but with my Dire Wolf Hooded Cloak equipped, it's at 25 feet.” Ren said and smiled. He went through the portal back to the Dwarven Kingdom and went into the bedroom. Nathalia was there asleep.
+
+Summon Teepo! Ren thought, and Teepo appeared at his feet. Hi, Teepo.
+
+“Hi, Ren.” Teepo said. “Are we back in Aurora?”
+
+No, it's still the Dwarven Kingdom. Ren thought. I fed Elerlyth the whole time and forgot to summon you, actually.
+
+Teepo chittered in laughter. “It must have been some feeding for you to forget me!”
+
+It sure was. Ren smiled. Nearly 10 hours of it.
+
+“Wow.” Teepo said. “Is she still hungry?”
+
+No, and she won't be for a while. Ren thought. I told her to message me when she needs another feeding, though.
+
+“That's good.” Teepo said. “You're a good man, Ren.”
+
+That's what she said, too. Ren thought and picked Teepo up. He walked out of the living room and looked into the bedroom. He saw Nathalia asleep on the bed, and tilted his head. You know, since I'm here at the mountain, I should gather up a few more crates worth of crystals.
+
+Ren walked over to the bed and knelt. “Nathalia?” He said. “Are you awake?”
+
+Nathalia stirred and rolled over to look at him. “Muh... I... I am now.” She said and rubbed her eyes.
+
+“You can go back to sleep if you want.” Ren said. “I'm thinking I should gather some more diamond crystals.”
+
+Nathalia lay back down on her side. “M'kay.”
+
+Ren leaned in and kissed her cheek. She cupped the side of his face and then she fell asleep. Ren stood and crept out of the apartment and went downstairs. He walked over to where Ruck hung on the wall.
+
+“Hey, Ruck.” Ren said. “I'm heading to the mountain to gather more diamond crystals. Want to come along?”
+
+Ruck hopped off the wall and climbed up onto Ren's back. Ren left the building and made sure the door was locked. He took out the several stone bricks he had enchanted with concealment and terror, and set them around the building. Ren took off running towards the mountain and was there in about 10 minutes.
+
+“It's definitely a lot faster running full out.” Ren said and went to the spot he had covered in fabric. He popped the nails out and slid inside, putting a brick down to hold the flap closed. Ren went inside and down to the floor of the giant cave. He took out the lantern and only filled it a quarter of the way.
+
+“Only an hour and a bit for gathering crystals.” Ren said, took out his hammerpick, and looked at the large open area. “I hope this works.” He said and stuck the hammerpick's plow end into the ground. He walked slowly and watched as the pick cut through the ground easily, and stirred up the diamond crystals, but didn't break them. Ren grinned and looked at Ruck.
+
+“Feel like doing some gathering?”
+
+Ruck climbed down and Ren nodded to him, then made several crates.
+
+“Just toss them in, Ruck. They're pretty durable.”
+
+Ruck gave a 'thumbs up' gesture and Ren took off running and dragged the hammerpick behind him. Ruck moved along behind and gathered up as many crystals as he could and tossed them in the available crates. He didn't sort them at all, so they were all mixed together. Ren limited himself to a small area at first, cleared the crystals, then moved to a new area. He'd had to make a few more crates to hold everything he'd dug up, and then the lantern's light went out.
+
+“Okay, time's up!” Ren said and tossed the last few crystals into the crate. He closed all the crates and stored them. He now had 18 crates full and Ren smiled. He looked around, and all that could be seen was dug up dirt. “Perfect.” He said and Ruck climbed up onto his back. Ren ran over to the opening, and slipped out through the fabric and nailed it shut again. He took off running and made it back to the warehouse 10 minutes later and went inside. He went upstairs and Nathalia was sitting there, looking pretty.
+
+“Hi, beautiful.” Ren said and held a hand out to her. “Let's go home.”
+
+Her eyes widened, but she took his hand and he helped her stand. “Okay, but it'll be slow.”
+
+“Why's that?” Ren asked, then he shook his head. “Never mind. I didn't see Princess outside.”
+
+“She went back to the house in the back of the cart.” Nathalia said.
+
+“You're kidding!” Ren exclaimed.
+
+Nathalia laughed. “You should have seen her face light up when I told her to get in! She hopped up into the back and stood there like a queen on a throne.” She said. “The cart pulled away and she didn't shake or move at all, even though the cart rocked back and forth.”
+
+“She was supposed to be your mount for going back.”
+
+Nathalia frowned.”You didn't know I was coming, how could she have been meant for me?”
+
+He smiled. “I took her here for a run; but when you showed up, she should have stayed for you.”
+
+Nathalia shrugged. “We'll make due without her.”
+
+“Yes, we will.” Ren said, took her hand, and led her out of the apartment and down the stairs. They went outside, Ren made sure the door was locked, and they walked through the woods and to the road. Nathalia started to walk and Ren held her hand. She turned around and looked at him.
+
+“I thought we were walking.”
+
+Ren shook his head and took out enough wood to make a cart. He built it fast, but changed the horse hookup into just a bar across for him to hold, like a rickshaw. Nathalia looked at him like he was crazy.
+
+“Ren, we don't have a pony, or your mount.” She said, then smiled. “What are we going to do? Wish it forward?”
+
+“My Lady.” Ren said and took her hand to help her up onto the driver's seat, only it was lower and more comfortable, with a plush seat. “Ruck, I'll need room to move. Climb into the back and hold on, please.”
+
+Ruck did so and Ren walked to the front of the cart.
+
+“What are you... no... no you aren't!” Nathalia said in surprise.
+
+Ren slid into the spot for the horse and put his hands on the bar. “You might want to hold on, My Lady.”
+
+Nathalia's eyes widened as she gripped the handholds, and Ren turned around.
+
+“Here we go!” Ren started off slowly, so it wouldn't be such a shock to Nathalia, and then he poured on the speed. He had to pace himself, since he had a long way to go, but he pushed himself to try and get his Endurance up without draining his Stamina too much. They made it back to Dornrach just over 5 hours later, and Ren gained 3 points in Endurance. He dragged the cart up to House Neram, despite Nathalia's protests about having a proper entrance.
+
+“The mine carts have seen me already.” Ren chuckled. “Who's left? The guards? They've seen me do a lot more than this.”
+
+The guard opened the gate for Ren, and he nodded slightly at Wohrum as he passed. Ren stopped in the courtyard and helped Nathalia get down.
+
+“I can't believe you did that.” She said and gave him a kiss. “I'd tell you that was amazing, but you won't believe me.”
+
+Ren grinned. “You know me pretty well.”
+
+Nathalia snorted and walked into the house, and Ren followed. They ate breakfast and Ren went out to give Princess her food. He was tempted to get mad at her, but it was the first time she'd gotten to ride in a cart. He pat her neck and went back inside to tell Nathalia and her mother that he was going to pour the second story of the Main House. Ren ran up to the workshop and opened the door. He was greeted with an entire floor covered in cement bags.
+
+“You... are... awesome!” Ren said to the women working. They turned to him and a couple of them blushed. He leaned out the opening and said it to the ones outside. He went around to them and repaired their clothing, then their equipment. He gathered a couple hundred sacks and walked over to Dorcot's area.
+
+“Hello, my friend.” Ren said.
+
+“Ren!” He said and stood. “You were gone all day yesterday. Is everything all right?”
+
+“Everything's great.” Ren said. “A friend just needed my help.”
+
+“You're always good to your friends.” Dorcot said. “I've got another crate done for you.”
+
+Ren grasped Dorcot's shoulder. “I hope you're not just doing them just to do them.”
+
+“What do you mean?”
+
+“This isn't a job for you anymore.” Ren said. “You don't need the money. Have fun. Relax. Do what you want.”
+
+“When I get tired of Gemcutting, I'll take a break.” Dorcot said and grinned. “In a year or two.”
+
+Ren laughed. “Okay, then this should keep you busy.” He took out one of the unsorted crates of diamond crystals. “I have no idea what's in this. It could be anything, and any size.”
+
+Dorcot's eyes widened. “You're kidding!”
+
+Ren could see that Dorcot was practically drooling to get into it and Ren opened it.
+
+“Ha ha hahaha!” Dorcot said and started picking through the crate. He selected several odd-sized ones and went back to his workbench. Ren took the pile of 1 gold coin diamonds from the middle drawer and passed Dorcot 10 platinum coins for them and for the ones he'd taken before. Dorcot didn't even look at the money and Ren smiled.
+
+That's right, my friend. Ren thought as he left Dorcot alone to play. Have fun. It's the best feeling in the world.
+
+Ren asked the women if they were getting paid and they nodded. “You're not telling the Lady of the House it's a lower amount, are you?”
+
+Several of them blushed slightly and Ren sighed. “You know how much I value your hard work.” He looked at them. “Why won't you take your due?”
+
+“It's too much, sir.” One woman said. “We... we don't know what to do with it all!”
+
+Ren chuckled. “I won't force you to take money you deserve.”
+
+The women relaxed at Ren's admission.
+
+“Remind me to give you all a nice shiny toy later, okay?”
+
+“Of course, sir.”
+
+Ren nodded slightly and left the workshop. He ran down the road he made, then down the main road to the Main House mold. He mixed up more and more cement and filled the walls for the second floor. Ren was tempted to build the roof out of cement and rebar, but he wanted the roof to have a distinctive triangle shape. It would take another day for the mold to set, so Ren left there and dropped off the empty sacks at the workshop. He picked up several hundred paving stones and ran back to the Main House, and filled in the parts of the courtyard that carts would be traveling on, or would be parked. Once that was done, he went back to the workshop and picked up the 200 stone bricks, then ran back to the Main House and built several square pots, and the border for hedges. He used the bricks up and then ran back to House Neram. He told Nathalia that he was going to the library for a few hours, and would be back later.
+
+“You can stay until supper if you want.” She said, and Ren shook his head. “I'd rather spend some time with you.”
+
+“I can't monopolize your time like that, Ren.” Nathalia said. “You've got too much to do.”
+
+He walked over to her. “I'll never be too busy to spend time with you.” Ren said. “I made that mistake when I first got here. I'm never going to do that again.”
+
+Nathalia kissed him. “Then I'll be right here waiting for you.”
+
+Ren grinned at her, and left the house. He walked to the gate and turned to Wohrum. “Do you know any other people that are trustworthy, not tied to any House, and either have, or want Guard training?”
+
+“I may know a few people, sir.”
+
+“Then put out the word.” Ren said and smiled. “House Neram is looking for a few good people.”
+
+Wohrum nodded slightly. “I will, sir.”
+
+Ren ran down the road as fast as he could, made it to the city 5 minutes later, and Teepo had chittered in delight the whole way. Ren went to the Library, and continued his work. The Librarian didn't ask him why he'd missed a day, but he offered the explanation anyways. Her slightly cold expression warmed and she was more friendly towards him after that. He worked for 3 hours and Teepo told him it was time to go. Ren had gotten E, F, and G done. He would have had more, but it took longer to shift everything around to make the room he needed to add the new letters. He bid the Librarian good day, and ran over to Barnar's place to order another 1000 stone bricks. Ren was tempted to order more, but he didn't want a lot of extra stuff hanging around and not be used.
+
+Ren ran back to House Neram and slowed down when he came to the gate. He walked inside and into the house. It was time to spend some quality time with his fiance, and he took her into the main room and they sat down to wait for supper to be ready. Ren discussed with Nathalia what kind of outfits that she wanted for her new wardrobe. Once he started drawing out some different patterns on parchment, she was completely engrossed in telling Ren what she wanted. They stayed there for several hours, and Ren made nearly a dozen plans for outfits. Her mother Narhilda called them for supper and Ren gathered everything up and stored it. They went into the kitchen and sat down to enjoy a nice meal.
+
+The meal ended and Ren was about to go and take care of some Adventurer's business, when there was a knock on the door, and Ren went to answer it.
+
+Teepo.
+
+Teepo hopped onto the wall and slipped outside through the opening in the door frame. “It's the guard from the mines.”
+
+Thanks. Ren thought, opened the door, and smiled. “Perfect timing.”
+
+The guard looked at Ren in surprise, his hand still held up to knock again.
+
+“I was just thinking it was time for your salary.” Ren said. “Sorry I haven't been out to pay you before now. I've been really busy.”
+
+The guard smiled. “I can see that.”
+
+Ren pulled out a coin pouch. “Do you need one of these?”
+
+The guard moved his tunic to the side and Ren saw he already had one. Ren stored the pouch and passed the guard a platinum coin. “Here's 10 weeks pay, at 10 gold per week.”
+
+The guard stared at Ren and then at the coin. “T-thank you, sir.” The guard said and put the coin into his pouch. “It... it was real?” The guard said, then turned and walked away without saying goodbye.
+
+Ren shrugged and closed the door. He went back into the kitchen and told Nathalia and her mother that he had some Adventurer's business to take care off for a while, and would be back in about 4 hours or so. Nathalia kissed him and Ren went to the old bedroom.
+
+“Logout.”
+
+********
+
+Ren ate breakfast, did his physical therapy session, took a shower and used the bathroom. He was tempted to stay out for a while, but he wanted to catch up on his sleep, and logged back into the game.
+
+********
+
+Ren woke up and Nathalia was there beside him. He unequipped his clothes and climbed into bed under the blankets. Teepo slipped out of the room under the door, and he heard giggling soon after.

@@ -1,0 +1,209 @@
+---
+id: c58b8174-b70c-58c8-b40a-a4732860cb8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53 Helvarn"
+slug: 0057-chapter-53-helvarn
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 57
+ownLength: 1877
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3363462/chapter-53-helvarn"
+royalRoadId: "3363462"
+---
+
+In their last stretch to Helvarn, the road had curved along the last of the low ridges.
+
+At first, nothing seemed to mark the presence of the fortress town. The path wound between them, the higher ground obscuring what lay beyond.
+
+It was only as they climbed that the first signs appeared. A section of stone rose briefly beyond the ridge line before slipping from view again as the road turned.
+
+A tower emerged above the slope, then another stretch of wall came into view.
+
+Then the ridge fell away.
+
+Stone crowned the higher ground beyond the slope, its walls forming a continuous line along the contours of the land.
+
+Towers broke the line at measured intervals, their silhouettes clean against the sky.
+
+From this distance, the difference between a frontier village and the fortress town became all the more apparent. Helvarn resembled a boundary between civilization and the frontier proper.
+
+Off to the side of the road, where the slope leveled briefly before the final ascent, the ground bore darker marks.
+
+A pyre had been raised there.
+
+The timbers had collapsed inward, leaving blackened wood and pale ash where the fire had burned through the night. Thin strands of smoke still curled faintly from the remains.
+
+Lucien studied it for a moment. 'Even here, the Tithe left its mark.'
+
+The road widened near the base of the ridge. Wagon ruts cut deep into the surface where the frost had begun to soften, overlapped by the prints of hooves and boots from constant passage.
+
+The closer they drew to Helvarn, the thicker the flow of travelers became.
+
+Some walked along the main road while others drifted toward the outer edge of the slope, where makeshift shelters had been erected in a disordered layout, their frames reinforced with patched cloth and canvas.
+
+The people there watched the road listlessly or busied themselves with small tasks. Others simply sat upon the ground, heads lowered though their eyes remained open.
+
+'The shanty camp in Helvarn that I have heard about...'
+
+Lucien’s gaze lingered on the shelters for a moment longer before he nudged his horse forward, his guards moving with him toward the ascent.
+
+A cart passed them on the descent, its wheels creaking beneath a canvas-covered load. The driver spared them only a brief glance before urging the mule onward.
+
+Up close, the scale shifted. What had seemed distant now pressed outward with weight. The stone blocks were larger than any timber used in Ashridge.
+
+Helvarn’s western gate stood open. Its frame sat deep within the wall, the passage wide enough for two wagons to pass abreast. Heavy wooden doors banded with iron rested against the inner sides of the gatehouse, their surfaces marked by wear rather than neglect.
+
+Two guards stood at the entrance.
+
+They wore mail beneath reinforced leather, their helmets differing from those of Ashridge’s guards, forged from darker, better-fitted metal. Spears rested in their hands with the ease of men accustomed to bearing them for long hours.
+
+Their attention shifted as the riders from Ashridge approached.
+
+One stepped forward. “State your purpose.”
+
+Lucien brought his horse to a halt a few paces from the gate. “Trade. From Ashridge.”
+
+The guard’s gaze moved across the small group, noting the number of riders, the condition of their gear, and the absence of cargo.
+
+“Ashridge,” the man repeated, exchanging a brief glance with the other guard before looking back to Lucien.
+
+“Proceed.”
+
+The second guard remained where he was, his eyes following the riders beneath the gatehouse.
+
+The sound around them changed as they entered Helvarn proper. Noise gathered differently within its walls.
+
+Where the open road had allowed it to disperse, here it layered together into a steady hum. The passage of people, the creak of wheels, and the distant ring of metal against metal filled the space between the stone.
+
+The crowd moved along the road, a few sparing brief glances toward the riders before returning to their own tasks. Others did not look at all.
+
+Lucien’s gaze remained forward.
+
+Helvarn did not pause for arrivals. It continued around them as though their presence had already been accounted for.
+
+Beyond the gate, the road continued deeper into the town rather than opening into a square as Ashridge did. Buildings rose closer together here, their upper floors leaning over the street where space had been fully used rather than left open.
+
+Stone was more common here than in Ashridge. Lower walls were often built from fitted blocks with timber framing above, the construction heavier and more deliberate than anything in the frontier village.
+
+Lucien observed the activity around them as they rode through Helvarn’s crowded streets.
+
+Near the inner wall, a line of carts stood waiting while men unloaded bundled goods into a long warehouse built from stone and reinforced beams. The doors had been left open, revealing rows of stacked crates arranged with careful spacing between them.
+
+Further along, the sharp ring of hammer against metal carried from a cluster of smithies set back from the road. Unlike the solitary sound of Joren’s forge in Ashridge, here the noise came in overlapping rhythm that spoke of forges that rarely fell silent.
+
+Coal smoke and heated iron drifted faintly through the air, mingling with the colder scent of stone beneath it all.
+
+Men passed carrying tools while others led pack animals through the street, weaving between carts and pedestrians without breaking stride.
+
+His attention shifted as the street widened ahead and the buildings opened just enough to reveal a broader space where several roads met.
+
+It was not quite a square, but close enough to serve the same purpose. Stalls lined the edges, their awnings stretched beneath the pale light while wares were arranged in careful displays across wooden tables.
+
+Yet the market lacked the noise he might have expected. There were no shouted sales or criers calling people to their merchandise. Most transactions were brief, and voices remained low as coin passed from hand to hand with little interruption to the flow around them.
+
+Beyond the market, the buildings rose again, and it was there that he saw it.
+
+A bell tower rose above the surrounding roofs, built from carefully worked stone that set it apart from the structures around it.
+
+The rest of the building stretched beneath it, broad and reinforced with thick outer braces of stone. Narrow windows lined its sides, their placement too deliberate to serve lighting alone.
+
+'A cathedral...or something resembling one?'
+
+Lucien had seen no sign of organized religion since arriving in this world, not in Ashridge nor among the smaller frontier settlements. Yet here, within Helvarn’s walls, its presence stood plainly in view.
+
+He studied the structure briefly as they rode past.
+
+Near the cathedral steps, two women were speaking in low voices. One rubbed at her eyes as she gestured toward one of the building nearby.
+
+“...three nights in a row now...”
+
+“...then go see the priestess again...”
+
+“...I already did...”
+
+“...then go back. You look half dead.”
+
+Whatever influence it held, it was not something he could ignore. Faith shaped people as surely as law or power. Even if he held no personal interest in it, understanding its place would be necessary.
+
+The street narrowed as it continued inward, the density of buildings increasing as they moved deeper into the town. Signs hung from several doorways, their markings simple but distinct enough to separate one establishment from another.
+
+One near the outer road had been louder.
+
+Voices carried from within, rough and unrestrained, accompanied by uneven movement that suggested that the rooms were shared.
+
+Several men were standing just outside the entrance, their posture loose while they glanced briefly toward the riders before returning to their own conversations.
+
+“…I can’t stand it any longer…”
+
+“…Just don’t start trouble. Guards’ll throw you out before they touch them…”
+
+One of the men rubbed at his face. “…It’s the smell. Might as well camp outside with them…”
+
+“…You haven’t heard? Fight broke out yesterday. Some bastard pulled a knife and—”
+
+The man nearest the doorway spat to the side. “Should’ve chased them back to their burnt villages then.”
+
+Further along the street, another establishment stood in clear contrast to the one they had just passed.
+
+Its frontage was cleaner, the wood better maintained and the sign above its door carved with greater care. The windows were shuttered, though a faint glow of light remained visible within even during the day.
+
+A pair of men stood near the entrance, their clothing finer than most in the street, their exchange low enough that it did not carry beyond a few paces.
+
+Lucien slowed as he approached, his steward’s words from days earlier returning unbidden.
+
+How others viewed you in Helvarn mattered. It signaled something to those who watched.
+
+He guided his horse toward the more lavish establishment.
+
+Behind him, the guards followed without question. As they passed, fragments of conversation drifted briefly from the two finely dressed men.
+
+“…strange pricing, I’m telling you…”
+
+“…doesn’t make sense, yet people keep going back…”
+
+“…some kind of trick…”
+
+Their voices faded as the distance widened between them.
+
+Lucien didn't turn his head as he noted it. Information had been another reason he had come to Helvarn. For now, there were other matters requiring his attention.
+
+They arranged their lodgings within the inn without incident.
+
+The horses were handed over at the rear stables, their tack removed and checked under the watch of a stablehand. Rooms were secured without difficulty as coin changed hands and names were noted.
+
+The guards settled quickly while Tomas looked around with poorly concealed excitement.
+
+No eyes lingered upon them longer than necessary.
+
+Helvarn received them as it did everything else, briefly, then moved on.
+
+Lucien stood near the narrow window of his room.
+
+From this height, the street below appeared smaller, pedestrians passing beneath as the hum of the town carried faintly through the glass.
+
+After a moment, he turned away.
+
+The table beside him held the items Elias had prepared. Ledgers bound neatly alongside carefully arranged notes, the figures already calculated to reflect what Ashridge could offer and what it required in return.
+
+Grain seeds and iron ore remained the most urgent concerns. One for the village’s future growth, the other to replenish long-depleted stock.
+
+Lucien untied the top ledger, reviewing supply projections and trade estimates prepared with enough margin to allow negotiation without unnecessary loss.
+
+He could not afford delay. The longer Ashridge remained without stable supply, the greater the uncertainty would become.
+
+Helvarn was not Ashridge.
+
+Trade flowed constantly through the town, and where people gathered, opportunity followed.
+
+Lucien closed the ledger as he considered his next course of action. He would establish contact with the relevant merchants first, secure smaller transactions, then expand once terms proved stable.
+
+It was a clean and efficient approach.
+
+He reached for his gloves, pulling them on with slow practiced motions before stepping toward the door.
+
+The town had not waited for his arrival. It had already been moving long before he reached its gates. And in ways he had not anticipated, it had already begun shifting around him.
+
+Lucien did not know it then, but the moment he chose to act immediately,
+
+he had already made his first mistake in Helvarn.

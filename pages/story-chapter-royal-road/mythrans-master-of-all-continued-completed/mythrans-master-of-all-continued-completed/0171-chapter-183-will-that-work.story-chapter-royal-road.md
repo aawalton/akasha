@@ -1,0 +1,433 @@
+---
+id: 8d795442-4aaf-5e87-9729-82bdf6abdf6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 183 - Will That Work?"
+slug: 0171-chapter-183-will-that-work
+partOf: mythrans-master-of-all-continued-completed
+position: 171
+ownLength: 4085
+unit: words
+publishedAt: 2017-02-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121196/chapter-183-will-that-work"
+royalRoadId: "121196"
+---
+
+“I'd like to register another ritual.” Ren said.
+
+“What else would you like to do to thank women?” The female dwarf grinned.
+
+“Now I'm tempted to do that.” He said, and laughed. “What I want to do, is this...” He explained what he wanted, and she stared at him.
+
+“You're joking!” She said. “You want it to be a ritual that you can give someone a gift, and not have it mean anything besides just a gift?”
+
+Ren nodded slightly, and she shook her head.
+
+“I'll file it, but you're going to cause an uproar the first time you use it.”
+
+Ren smiled, filled out the form and handed it to her. She filed it, and came back to the desk.
+
+“Is there anything else I can help you mess everything up with?” She said, and laughed.
+
+“I know there's no way to stop myself from being kicked out of the Dwarven Kingdom.” Ren said, and the female dwarf nodded slightly. “But I was wondering... since I own land, and I'm a Lord... do I need an invitation to come back to visit or tend to my own land?”
+
+The female dwarf's mouth dropped open. “I... I don't know.”
+
+“Wait.” Ren said. “You're the General Information clerk, and you don't know?”
+
+“Something like this hasn't come up before.” She said, and stood up. “Hold on. I'll check a few things.”
+
+Ren stood there and looked around. I'm tempted to just rummage through all of this stuff, just to see what's here.
+
+“She wouldn't be too happy about that, I don't think.” Teepo said.
+
+Agreed.
+
+A few minutes later, she came back with a giant book in her hands. It was nearly 2 feet square, and nearly a foot thick. She plunked it down on her desk, and Ren felt the vibrations through the floor.
+
+“I could have carried that for you.” Ren said.
+
+“Go ahead.” She said and grinned. Ren tried to grab it, and his hand slipped through it as if it wasn't there.
+
+“No way!” He exclaimed.
+
+The female dwarf laughed. “Only I am allowed to touch the records in here.”
+
+“That's pretty cool.” Ren said. “You don't have to worry about anyone stealing anything from you.”
+
+She nodded, opened the book, and started flipping pages. She got about two-thirds of the way through, and Ren was a bit surprised that she could read so fast.
+
+“Here we go.” She said, and read the passage out loud. “Any and all lands contained within the Dwarven Kingdom, despite the claimed owner of said land, are to be considered Dwarven Kingdom land in all regards, intents, and purposes.”
+
+“Damn.” Ren said. “I'd hoped that having my own portal on my own land would let me come back without an invitation.”
+
+“You're out of luck on both counts, unfortunately.” The female dwarf picked up a piece of parchment and handed it to him. “This was delivered here this morning.”
+
+Ren read it, and sighed.
+
+Royal Decree: U-571
+
+No invitations may be given to any foreigners for the period of one (1) year, no matter the circumstances. By order of the Queen, Steward of the Kingdom, Lady Neram.
+
+“She didn't waste any time making that official.” Ren said, and handed it back.
+
+“You've got 4 months left to do everything that you can before you have to leave.” She said. “I assume you have a lot to do?”
+
+Ren laughed. “You have no idea.” He said, then looked at the decree. “Say...” He smiled. “...can a monarch, or Steward, still be the Head of a House if they are running a country instead?”
+
+“What are you thinking?”
+
+“Would making me a Head of a House bypass the laws?” He asked. “They can't kick out a Head of a House, right?”
+
+The female dwarf shook her head. “You'd have to be a part of her family to take over like that, and you didn't marry Nathalia.”
+
+“Then make Nathalia the Head of House Neram.” Ren smiled. “She's there, and Ereka as the Head Assistant can only do so much on her own. She needs proper guidance.”
+
+The female dwarf took out the proper form for Absentee Head, and filled it out. “This is only temporary.” She said. “It's provisional until the actual Head of the House can resume her duties.”
+
+“That's fine.” Ren said. “I assume the Stewardship is going to take years to complete, assuming they find someone to become the next monarch.”
+
+She grinned. “Yes, that's true.” She filed the paperwork in the filing cabinet, and a moment later, Ren's Sending Ring glowed.
+
+“Ren!” Nathalia exclaimed. “You're not going to believe what just happened!”
+
+The female dwarf stared at Ren's hand as he spoke.
+
+“I'd say you got the notice for becoming the Head Of House Neram.” Ren said smugly. The female dwarf gasped in shock and sat down in her chair, as she heard Nathalia speak again.
+
+“Wh-what?” Nathalia said. “How... how did you know that?”
+
+“I just had the paperwork filed at the Hall of Records.”
+
+“What made you do that?!?”
+
+“I was trying to figure out a way to stay here with you; but, I found a neat way to repay you for everything instead.”
+
+“By the gods, Ren! You... you...” Nathalia was quiet for a moment. “Get your ass back here, right now!”
+
+“I'll be there in about 5 minutes.” Ren said, and the Sending Ring stopped glowing. “I have to go.” He said to the female dwarf.
+
+“Where did you get that ring?!?” She asked, and Ren smiled.
+
+“I made it, of course.” He bowed to her. “If I think of anything else that I need your help with, I'll come by again.” He turned to leave, and she stood up.
+
+“Wait!”
+
+He turned back to her. “Yes?”
+
+“Can you make me one?”
+
+“Don't you have Sending Stones?” Ren asked.
+
+“I do.” She said. “But I... I want to have an actual conversation with... ah...”
+
+“Say no more.” Ren said, and turned away from her to take out 2 of his steel squares. He enchanted them with the Sending Glyphs, and walked over to her desk. “They work just like Sending Stones.” He said. “Touch it, and think of who you want to talk to. They'll be able to talk back.” Ren handed them to her, and she took them gingerly. “They aren't going to break.” He said. “They're only good for a 10 hour cart ride distance between them, though.”
+
+“T-t-ten hours?!?”
+
+Ren nodded slightly. “As long as you're both within that distance, you can talk as if you were standing next to each other.”
+
+“I... I...” She looked at Ren. “Thank you.” She said. “I can never repay you for this.”
+
+“Saying 'thank you' was repayment enough.” Ren said. “Have a good day, Ma'am.”
+
+“It... it's Beryl.” She said, and blushed slightly. “After giving me such a gift... you... you deserve to know my name at least.”
+
+“I'm honored to finally meet you officially.” Ren said and bowed to her. She nodded to him, and he left the room and walked down the hallway; then entered the lobby of the Main Keep. He walked quickly to the front door and then out of the Main Keep. The guard at the gate opened it for him, and he nodded slightly and took off running. Ren ran as fast as he could, and was back at House Neram Keep a few minutes later. He didn't even look at the guards as he ran through the open gate and into the house.
+
+“Honey! I'm ho-” Ren's words were cut off as Nathalia lunged and kissed him. He picked her up while she kissed him, carried her into her bedroom, then tossed her onto the bed. She laughed as she stored her clothing, and Ren did the same. She grabbed his arm and pulled him into the bed, then rolled over on top of him.
+
+“You've had this coming for a while.” Nathalia said and positioned herself above him.
+
+“Oh, no.” Ren said and grabbed her hips. “You've had this coming for a while!” He said and shoved her down as he jammed himself up at the same time. She gasped as she felt his full thrust for the first time, and shuddered as she went from that one single action. Ren grinned at her, and rolled her over to lay on the bed. He made her moan for over an hour, and she eventually collapsed from going so much. He eased her down onto the bed, and she giggled as he gently kissed the side of her neck.
+
+“Oh, by the gods, don't.” She said, and turned her face to him. “Let me savor this feeling without you tickling me.”
+
+Ren looked at her with a serious look on his face. “I thought you were joking when you said you didn't like it.”
+
+Nathalia shook her head. “I hate that I have such a vulnerable spot so close to a vital area.”
+
+“Then there's only one thing to do.” He said, and clamped his lips onto her neck.
+
+“What are you... Ahahahaha!” Nathalia squirmed and rolled around on the bed as Ren licked, tickled, sucked, kissed, poked, pinched, and anything else he could think of, to stimulate the area. It took about half an hour or so; but, eventually Nathalia stopped laughing when he kissed her neck.
+
+“Wh-what did... what did you do?”
+
+“It's called desensitizing.” Ren said. “Over-stimulation can make you less likely to feel the sensations the same way, and to a lesser degree.”
+
+“So I'm still ticklish there, but I won't feel it as much?”
+
+Ren nodded slightly. “I'll have to keep doing it at regular intervals, though.”
+
+Nathalia looked at him with wide eyes. “Once wasn't enough?”
+
+He shook his head. “It needs to happen over a long period to be permanent.”
+
+“I... I don't think I can take another session today.”
+
+Ren smiled. “No, not today.” He said. “Or tomorrow. I have to go to Aurora and work on my other building.” He kissed her. “Actually, I better go now. If I can get there in a few hours after going through the portal, I can get the second floor finished and the roof put on in the morning.”
+
+“W-wait!” Nathalia said as Ren stood up. “You're leaving for the whole day?”
+
+“I am.” He said. “You can come along to the warehouse at the diamond mine and wait for me there, if you want.”
+
+Nathalia thought about it. “No, I better stay here.” She said, a little sadly. “In case anyone needs me.”
+
+Ren picked her up from the bed and hugged her tightly. “I will always need you, especially when I'm not here.” He said, and kissed her as she wrapped her legs around him. “I've got 4 months left to love you as much as I can, so I'm going to try my best to give you a lifetime's worth.”
+
+“Ren, my body can't take a lifetime of love from you.” Nathalia said, and he laughed.
+
+“I meant the love in my heart for yours, not sex.” He smiled. “Well, not just sex.”
+
+She laughed. “All right.” She said. “You can put me down now.”
+
+“In a minute.” Ren said, and pleased her again. He left Nathalia asleep in her bed, and ran outside and up to the workshop. He greeted the women there, then went in to talk to Tee-one.
+
+“How is everything going?” Ren asked.
+
+“Fine.” Tee-one said. “I've finished the bows and half of the lingerie.”
+
+“Excellent!” Ren said. “I'll take them from you.”
+
+Tee-one handed over everything he had made, and Ren stored it all.
+
+“I assume you are opening the storefront?”
+
+Ren nodded. “I need to have it up and running before the public finds out, though.”
+
+“Good luck.”
+
+“I'll need it.” Ren chuckled. “I'll bring back some iron ore, too” He said. “See you later.”
+
+“Bye, Ren.”
+
+Ren ran back to the house and then into the stable. “Princess, it's time.”
+
+...Of course...
+
+He led her out to the courtyard and hooked up the cart. “Soon I'll be able to just ride you, instead of having you pull the cart.”
+
+...Can try now...
+
+Ren shook his head. “I can't take the chance it will be too much for you.” He said. “The last thing I want is to cause you pain.”
+
+...Good point...
+
+Ren took her out to the road, and climbed into the driver's seat. “Let's go.”
+
+Princess took off running and they made it to the warehouse an hour later. He took her inside and made another crate and mattress for her, since he forgot to take the other one. She plunked down on it, but didn't look comfortable.
+
+“It might take a little while to break it in.” Ren said, gave her some food, and ran upstairs. Teepo dissolved into the ring and Ren went through the portal. He stepped out of the cabinet and nailed it shut. He summoned Teepo, and turned around to see Anabelle laying down on the couch with her back to the room.
+
+“Hi.” Ren said, and she turned to look at him.
+
+“You were gone for a while.” She said and sat up.
+
+“I'm sorry about that.” Ren said. “I told you it might be a few days.”
+
+Anabelle nodded. “It's been... really boring just sitting here and waiting.”
+
+Ren smiled. “I told you that you could leave and stay at the Refugee Center, or at an inn.”
+
+“I didn't want to leave this place empty for however long you were going to be gone.”
+
+He walked over and knelt in front of her. “Thank you.”
+
+Anabelle shook her head. “You don't have to thank me for sitting here.”
+
+“Have you been ordering food in?”
+
+She nodded. “One meal a day.”
+
+“One a day?” Ren frowned. “Why only one?”
+
+“That's all I'm allowed.”
+
+“Who told you that?”
+
+She opened her mouth to say something, but nothing came out.
+
+Dammit. Ren thought. Is she under some kind of contract? He looked at her wrists, but didn't see an iron band like his. He leaned back, saw that she wore socks, but one of them bulged slightly. Ren sighed and shook his head. How much do you want to bet she has something on her ankle?”
+
+“That's a sucker bet.” Teepo said. “You can see it right there.”
+
+“I thought you were a gift when I got my title.” Ren said to her. “Aren't you supposed to be my servant?”
+
+She looked at him with a bit of confusion on her face. He lifted her foot and slid down her sock to expose the iron band around her ankle.
+
+“I didn't give you that.” He said. “I suppose you can't tell me who did.”
+
+Anabelle blinked her eyes a couple of times, and smiled at him blankly.
+
+“Dammit, I don't have time to go to the mansion today.” Ren said, as he pulled her sock up and put her foot back on the floor. “I'll do it in the morning.”
+
+“Are you staying here tonight?” Anabelle said, with hope on her face and in her voice.
+
+“Possibly.” Ren said. “I have to go to my County and work on the main building.”
+
+“I'll eagerly await your return.”
+
+“You're not supposed to.” Ren said. “But it seems you have little choice.”
+
+“What do you mean?” She asked.
+
+“How much money do you have left?”
+
+“A few silver.” Anabelle said. “Food's expensive.”
+
+“No, it isn't.” Ren said. “Did you give the money to your family?”
+
+“Yes. I gave it to the family.”
+
+“Do you even have a family?”
+
+“No.”
+
+Ren sighed. “I'll be back in about 5 hours, I think.” Ren said. “Hopefully, just in time for lunch.”
+
+“Don't be silly.” Anabelle said. “You already missed lunch.”
+
+He pat her hand. “I'll see you when I get back.”
+
+She took his hand and squeezed it. “Hurry back.”
+
+Ren nodded, and she let his hand go. He went downstairs and out of the shop, then ran down the street and out through the West Gate. Thanks to his new boots that let him run twice as fast, it only took him an hour and a half to get to his County. Once there, he went into the main building and saw that the cement has set well, and he made a new container out of wood to mix cement for the second floor. It didn't work as smoothly as the metal-lined one he had used before; but, it worked well enough because he wasn't making much anyways. Ren filled the second floor walls with cement, then went downstairs to build the rafters. When he finished the last one and stacked it with the others, Teepo told him it had been just over an hour.
+
+“Nice.” Ren said. “I'll be able to finish this tomorrow.” He took off running, and neither of them noticed the young boy that had been sitting in the tall grass, and had watched Ren work.
+
+*
+
+“He was there today.” The boy said when he arrived at the farm house, and interrupted the village meeting. “He made this stuff and poured it into the walls of that big thing he built.”
+
+“What is it?”
+
+“I don't know what the stuff is, but the thing he put it in has holes for windows and a door.” The boy said. “I think it's a house.”
+
+“I've never seen a house like that before.” Patty said, and shook her head. “And I've been to Aurora.”
+
+“Maybe it's a new kind of house?” One of the other people there said.
+
+“It doesn't matter what it is.” Patty said. “It's far enough away from everything that we can keep ignoring it.”
+
+“Should we, though?” Someone asked.
+
+“What do you mean?” Another asked.
+
+“Well, he's the new Lord, right?”
+
+“Yes.” Patty said.
+
+“Shouldn't we help him or something?”
+
+“He hasn't asked us to.” Someone else said.
+
+“Does he even know he can ask us?” One of the old ladies asked the group.
+
+Everyone was quiet, because they all knew that none of them had told the new Lord that they were available to work.
+
+*
+
+Ren was tempted to stop in and visit Elerlyth at her place, but he ignored the urge and ran all the way back to Aurora. He went to the Library, and went inside to see Rosie sitting at the reception desk.
+
+“Hello, Ren.” Rosie said, and giggled.
+
+“Hi, Rosie.” Ren said. “I was wondering if you have a book on farm equipment.”
+
+“Of course.” She said. “Let me see your Library card.”
+
+Ren handed it over, and she stared at the 'C' rating.
+
+“You've been cheating on me, you rascal.” Rosie said, and grinned.
+
+Ren chuckled. “I have read a couple of books, but what happened there was...” He explained about proving his knowledge of the Dwarf Civil War to another Librarian, and Rosie nodded.
+
+“Yes, acquired knowledge can count if it is extensive enough.” She said. “This is the first time I've heard of someone doing it, though.”
+
+“I was surprised by it, that's for sure.” Ren said. “So, what kind of book can I get?”
+
+“I'll surprise you.” Rosie said. “You can go and have a seat while you wait.”
+
+“Thanks.” Ren said and walked over to a nearby table. He sat down and looked around. Since it was the end of the day, there was only a couple of people reading things. While he waited, Ren finally got a chance to look at the sack of loot he had received from Lord Lodur. He took it out and looked at the contents. There was a coin pouch, a House Lodur signet ring with what Ren assumed was Lord Lodur's initials on it, a bracelet, a small wooden box, and a scroll.
+
+He started with the coin pouch, and saw there was 235 platinum coins in it, and dumped them into his own coin vault and put the empty coin pouch back into the sack. Ren examined the ring next and was disappointed by the lack of information in the popup.
+
+House Lodur Signet Ring
+
+This ring was made specifically for the Lord of House Lodur, and bears his initials.
+
+Ren used Enchanted Eyes, and the House Lodur signet ring didn't glow. He was tempted to put on the ring, but he didn't know what that would mean; so he took off his House Neram pendant instead, and slid the ring onto the chain. He put the pendant back around his neck, then picked up the bracelet and examined it.
+
+Bracelet Of Importance
+
+This bracelet grants the wearer an Aura (Importance). Artificially boosts Influence and Honor by 100,000. Distance: 50 foot radius.
+
+Warning: Binds to the user when equipped, but unbinds and drops when killed.
+
+Wow. Ren thought. I had no idea something like this existed.
+
+“Like they would tell you if it did.” Teepo chittered in laughter. “You know dwarves like to keep their secrets.”
+
+Ren tried to use Appraisal on it, and got the N/A result. Either it's priceless, or my skill isn't high enough yet.
+
+“A hundred thousand Influence and Honor?” Teepo asked. “I'd say priceless.”
+
+Ren nodded and looked at his wrist. Should I put it on?
+
+“I don't see why not.” Teepo said. “Except that it increases your Aura by another 50 feet.”
+
+Yeah, that's the downside. Ren thought. 100,000 Influence and Honor, though...
+
+“Maybe you should wait until the right time to use it.” Teepo said. “It's not like you need the Honor and Influence right now.”
+
+Ren nodded and stored it, then picked up the small wooden box. He identified it, and smiled at the popup.
+
+Small Wooden Box
+
+This is a box for holding small things.
+
+He opened it, and nearly dropped it as he gasped. Inside the box was two rows of shadow coins. He counted them, then counted them again.
+
+Thirty! Ren thought in astonishment. There's 30 shadow coins in here!
+
+“If each one is worth 100 platinum coins...” Teepo said. “...then Lord Lodur had 3,000 platinum on him, and didn't know it.”
+
+Ren shook his head. The worst part of this, is that there's room for another 15 markers. He thought. Either he didn't have enough to fill it, or...
+
+“... or he already used 15 of them.” Teepo said.
+
+Ren sighed, and was tempted to dump the coins into his coin vault; but, then he thought better of that decision. He picked up one of the coins, and identified it.
+
+Shadow Marker
+
+This is a Shadow Marker.
+
+Ren used Appraisal on it, and surprisingly, got the same popup.
+
+Shadow Marker
+
+This is a Shadow Marker.
+
+Ren closed the box and stored it, then looked at the last item. A scroll. He picked the scroll up, and Rosie came over to his table with a book in her hand.
+
+“Here you go.” She said, and handed him the book on farm equipment. “Are you going to do some farming?”
+
+“Not really.” Ren said. “There's a farmer on my land that's having a hard time using the land that he has, and I wanted to find something to help him.”
+
+Rosie put a hand on his shoulder. “You're a good man, Ren.”
+
+“I am?” He smiled up at her. “I wonder what happened to the cute boy you thought I was.”
+
+“I got to know him a little better.” She giggled, and squeezed his shoulder slightly. “If you need anything else, I'll be at my desk.”
+
+“Thanks, Rosie.” Ren said, and she walked back to her desk. He looked at the scroll in his hand, then at the book. Decisions, decisions. He thought, and Teepo chittered in laughter.
+
+“The book.” Teepo said. “You want to know what you can make before seeing if that's a spell or not.”
+
+Right. Ren put the scroll aside and flipped through the book. He saw pretty much every farming tool he already knew how to make, and then near the back of the book was the large plowshare, then a wheeled contraption for gathering wheat, one for making the holes for seeds, and a couple of other things. Ren smiled as he memorized the contents and closed the book. He got up and brought the book over to Rosie.
+
+“That was fast.” She said. “Did you find what you were looking for?”
+
+“I hope so.” Ren said. “I should be able to come up with something for the farmer.”
+
+“That's great!” Rosie said. “Is there anything else?”
+
+Ren grinned. “Well, there is something...”

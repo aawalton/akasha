@@ -1,0 +1,281 @@
+---
+id: b36a4b6f-e114-556c-a68e-b14f1c1b5503
+page-type-slug: story-chapter-royal-road
+title: "Chapter 237 - Home?"
+slug: 0226-chapter-237-home
+partOf: mythrans-master-of-all-continued-completed
+position: 226
+ownLength: 2972
+unit: words
+publishedAt: 2017-04-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132532/chapter-237-home"
+royalRoadId: "132532"
+---
+
+Ren came through the portal to the Dwarven Kingdom and sighed. He wasn't looking forward to how Nathalia was going to treat him, but the only thing he could do was face her. Running away or avoiding her was not a solution to the problem. He summoned Teepo, who flew up to land on his shoulder. Ren went downstairs and fed Princess the last of the french toast and syrup from the stack he had in inventory. When she was done eating, she looked at him with sad eyes.
+
+You shouldn't be sad... Princess thought to him, licked his face, and nudged the side of his head with one of her horns.
+
+“I have reason to be.” Ren said and sighed. “My fiance killed Elerlyth, and I'm forcing Elerlyth to not take revenge on her.”
+
+Humans can be so stupid... Princess huffed. They should be honored to be chosen by you...
+
+“Wh-what?” He looked at her with wide eyes.
+
+When a strong male ram chooses to mate... Ewes are privileged to serve... Strong children ensure survival...
+
+“Um... that's not...” Ren smiled. “Humans do it for fun most of the time.”
+
+Princess blew a raspberry. You joke...
+
+“No.” Ren smiled, and scratched her chin. “It usually takes years for them to decide to have children, and even then, it takes a lot of tries to do it.”
+
+Princess shook her head. You humans are crazy...
+
+Ren chuckled. “Come on, let's get me home.” He said. “I've got to see what the situation with Nathalia is now.”
+
+Very well...
+
+Ren led her outside and locked up, then climbed up into the saddle. “Okay.”
+
+Princess trotted through the woods until she came to the road, then unleashed her speed. Teepo chittered in delight as he hung on to Ren's shoulder, and Ren felt the wind bite into his chest. He shook his head when he glanced down at his chest. He'd completely forgotten to repair his clothing.
+
+What did Anabelle think of me, while I worked in the shop like this? Ren thought.
+
+“Forget what she thinks.” Teepo said, then chittered in laughter. “Just imagine what the customers thought!”
+
+Ren snorted a laugh, and he felt Princess' amusement. He equipped his Travelling Clothes to replace the House Neram red suit.
+
+I have to remember to fix the suit and my armor.
+
+It took just under an hour to get back to House Neram Keep. The guard opened the gate without a word, and Ren took Princess into the stable. They greeted Riley and Stacy, and Ren gave Princess some normal food. She accepted it, but she wasn't happy that there wasn't any more french toast.
+
+“I'll see if the restaurant has french fries for supper.” Ren said, and she huffed. “If they don't... yes, I'll make some.”
+
+He felt her gratitude, pat her, then the dogs, and went into the house.
+
+“I'm home.” Ren said, then sighed as he heard Ereka's voice.
+
+“In the kitchen.” Ereka said.
+
+If she's here and not at work, then this can't be good. Ren thought as he walked through the main room and into the kitchen. He could clearly see that Nathalia was crying again, or still crying, while she sat at the table. Ereka stood beside her, with a sad face.
+
+“Hello, Ren.”
+
+“Ereka.” He said, and looked at Nathalia. “Hello, My Lo-”
+
+“Don't!” Nathalia exclaimed, and cut off his words. “I... I can't hear those words right now.”
+
+“Why not?” Ren asked, then looked at Ereka. “What's going on?”
+
+“This.” Ereka said, and came around the table to hand something to Ren. He took it, read it, and got a popup.
+
+Notice!
+
+Your marriage contract to Nathalia Neram has been canceled. All lands (co-owned by her) acquired for the marriage (and assets from those lands) are now solely the property of Nathalia Neram.
+
+“By the gods, Nathalia.” Ren said. “I know you're upset, but...” He shook his head. “Don't do this.”
+
+“She doesn't have a choice in this.” Ereka said. “You see, you were supposed to die, too.”
+
+“She wouldn't finish me off, even though I tried to get her to.” Ren said, and looked at Nathalia when she sobbed. “That wasn't enough?”
+
+“You don't understand.” Ereka said. “When you die by her hand, it automatically cancels the marriage contract.”
+
+“Wait, what?” Ren said. “That doesn't make sense.” He looked back at Ereka. “Even if I died, I'd be right back.”
+
+“That's because this has never happened with Adventurers before.” Ereka said. “The instruments of breaking the vow aren't supposed to come back after they die.”
+
+Ren blinked his eyes a few times, then sighed. “Should I even ask what that means for me now?”
+
+“Since you've become Lord Neram, you'll always be a member of the House, no matter what happens.” Ereka said. “Unfortunately, men and women of the same House can't marry, or start relationships that lead to marriage.”
+
+Notice!
+
+Trouble Recipe ingredient: 'House Neram' has been completed.
+
+“You have got to be kidding me!” Ren said.
+
+“I'm so sorry!” Nathalia cried. “I didn't... I didn't think that...” She shook her head, and tears flew off of her face to splatter on the table. “I knew fulfilling the law had to be done, but...”
+
+Ren stared at her as she looked at him with her face full of pain.
+
+“I thought... I thought you'd be kicked out of the House because the contract wasn't holding you here.” Nathalia wiped her face off; but, the erased tears were replaced before she had finished wiping the others away. She crossed her arms on the table, then laid her head on them and faced the table's surface. “I never thought that you'd keep your title... and it would... it would...” She sobbed hard. “By the gods, how can this be?”
+
+Ren walked over to her, and put a hand on her back. Nathalia felt it, and cried harder.
+
+“I wanted you to hurt, Ren.” Nathalia sobbed. “All because you broke your vow to me.” Her sob became a soft laugh. “What I ended up doing, though... was hurt myself.”
+
+Ren rubbed her back, and she sighed.
+
+“Are you going to say anything?” Nathalia asked.
+
+“Yes.” Ren said. “Please stand.”
+
+“Wh-what?”
+
+Ren pulled out her chair, took both of her hands, and lifted her to a standing position. Once she was up and standing under her own power, he knelt.
+
+“As the current temporary head of House Neram, please grant my request to transfer to House Longore.”
+
+Ereka gasped, and Nathalia stared at Ren.
+
+“You... you want to...”
+
+“If I can't be with the woman that I love because I'm in the same House as her, then I don't want to be in the same house as her.”
+
+“But... but Ren...”
+
+“I know I still have to petition House Longore to join; but, I'm sure Angeilin can put a good word in her ear for me.”
+
+“But...”
+
+“Do you want me to stay in House Neram?”
+
+“Yes!” Ereka exclaimed, then covered her mouth with a hand.
+
+“Ren, I...” Nathalia wiped her face. “I...”
+
+“I've made a petition to the head of House, so she has to think about it for a while, to consider any ramifications that might happen, so I'll leave your presence and go help the giants for a few hours.”
+
+Ren stood up and cupped the side of her face. “I am not going to give you up, just because a law says I can't be with you.”
+
+“Ren, I... I killed Elerlyth.”
+
+“I saw.” Ren said. “But, I don't want you to worry about that.” He smiled. “I convinced her to leave you alone.”
+
+Nathalia's mouth dropped open. “How did you do that?”
+
+“I used the biggest bargaining chip I have.” Ren said.
+
+“You... you didn't!”
+
+Ren nodded slightly. “I told her I wouldn't feed her anymore.”
+
+“By the gods.” Nathalia whispered.
+
+“That reminds me.” Ren said. “As payment, I'm taking the day off work tomorrow, so I can feed her all day.”
+
+“NO!”
+
+“I'd much rather do that, than see you killed.” Ren said. “I can't bear to never see you again, My L... Nathalia.”
+
+“Ren don't!” Nathalia said. “There... there's something that...”
+
+“It's okay.” Ren said. “She's going to do her best to eat as much of my emotions as she can.”
+
+Nathalia shook her head. “I can't let her do that.”
+
+“I have to go.” Ren said. “I've only got about 6 hours of the day left.” He kissed her, and she started crying again. “See you at supper.” He said, then ran for the front door.
+
+*
+
+Nathalia watched as Ren ran out of the house. He had left before she could explain things.
+
+“Are you going to grant his request?”
+
+“I... I don't know.” Nathalia said. “He's got the basics right, but he... he doesn't realize that...” She sighed.
+
+“You can tell him when he comes back for supper.” Ereka said. “You can't let him think switching Houses is going to solve anything.”
+
+“I know.” Nathalia said, and wiped her tears away. “I don't think he's thinking clearly.”
+
+*
+
+Ren ran out of the house and took off down the road.
+
+“You do realize that's not going to work, right?” Teepo asked him.
+
+What do you mean?
+
+“If you change Houses, all that will do is open up a round of potential suitors.”
+
+What?
+
+“Your simple solution would only cause a huge series of events to come into play.” Teepo said. “You shouldn't leave House Neram.”
+
+But I can't be with Nathalia if I don't.
+
+“You're not going to be with her if you do.” Teepo said. “Remember the courting rituals? It takes a year for potential suitors to train to handle marriage, then they are given an audience with the potential mate from another house.”
+
+Ah, dammit!
+
+“Right.” Teepo said. “You're not going to be around for it, if you start this.”
+
+What... what do I do?
+
+“There's nothing you can do.” Teepo said. “Once the vow was broken...”
+
+Everything else broke, too. Ren thought and sighed. He didn't think about anything else until he came to the Garrison. By the gods, I forgot to give Rosie one of the books!
+
+Teepo chittered in laughter. “Well, you were kind of distracted.”
+
+Ren sighed. I'll give her a copy tomorrow.
+
+The front gate opened, and Ren ran through the entire Garrison in about 6 minutes. It seemed a lot longer than that before. He thought as the last gate opened and he ran out into the wilderness. It didn't take long for him to come to the giant settlement, and he saw that the giants were still digging the trench around the settlement. He waved to the giants that were digging, but none of them paid him any attention.
+
+How fleeting fame. Ren thought, and ran towards the center of the giant camp. Several giants were there preparing food, and he went to stand behind his workbench. Over the next few hours, he made one outfit for everyone that didn't have one. Several giants asked if he could fix their clothing, like he did for the child; but Ren said that it was much easier to make new clothing than it was to try and repair all of the old things.
+
+A lot of the giants agreed, but some thought that if he was so magical, he should be able to fix all of their clothing, and not just a child's outfit. Ren didn't comment that it had been a show only for the child's benefit, to give him something to believe in; and not for anyone to take advantage of Ren's generosity.
+
+He worked for several hours, and finally had one outfit made for each of the giants. Once that was done, Ren had expected Laurelia to come over to him, but she didn't. He hadn't seen her the whole time he was there, either. He was tempted to go search for her, then thought that he should at least make sure that she was okay. It didn't take long for him to find her tent, as it was one of the only ones that were still occupied, and he peeked inside.
+
+Laurelia was cuddled up inside her bedroll, and looked like she was having a good dream. The smile on her face made Ren feel good inside, and he left her tent without waking her up. After a quick look around to see if anything needed to be done that he could help with, Ren left the giant camp and ran back to the Garrison.
+
+No one said anything as he passed through the gate, then ran through to the other gate. Ren thought about calling the Commander to tell him he'd been by, but thought better about disturbing the Commander over something so trivial. He smiled and ran hard down the road, then all the way back to House Neram Keep. The guard stayed quiet, even when Ren greeted him.
+
+“Is there anything wrong, Golir?” Ren asked him.
+
+“No, sir.”
+
+“You've been awfully quiet.”
+
+“I haven't been feeling well, sir.”
+
+“Well, get a replacement guard over here and go see the healers.” Ren said. “If you're not feeling well, you need to get better.”
+
+“Thank you, sir.” Golir said, and shut the gate.
+
+Ren went to the fire elemental's pen, and played with it for a while. He didn't use the web wand on it directly, but shot it several times into the corner of the pen, so the fire elemental could feed on it, if it wanted to. He left the pen and went inside to see how things might have changed, only to find the house was empty.
+
+“She's probably cooking supper at the restaurant.” Teepo said, and Ren nodded.
+
+Ereka's probably back at the Main House, finishing up anything she needs to do as well. Ren thought. He put 2 copies of his new book on the kitchen table, then went to Nathalia's room. He stopped when he got to the bed, when he remembered if he was still in the same house as her, he couldn't sleep there anymore. He closed the door and walked down the hallway, then stopped.
+
+I can't use the old bedroom, either. Ren thought, then looked at the last door. No, I shouldn't sleep there, either. He sighed, turned around and went to the living room. He took out some fabric, made a quick blanket, and laid down on the couch. He was surprisingly tired, and drifted off to sleep before he knew it.
+
+*
+
+Nathalia had a quick shift at both restaurants, making specialty meals when they were ordered, but mostly she just supervised the other cooks. They had picked up on her techniques quickly, and were pumping out the meals faster and faster. Soon, she wouldn't even need to come in to do the specialty meals. She smiled as she left the restaurant, and walked back to House Neram Keep.
+
+“I'm so glad that Ren made them for me.” Nathalia said, then a tear came to her eye. “He's had everything made for me.” She walked through the gate, greeted the guard and the fire elemental, then went inside the house. “It's so nice to be hom-”
+
+Nathalia's words cut off when she saw Ren asleep on the couch. Oh, Ren. She thought. I didn't even think about where you were going to sleep!
+
+She walked over to the couch, and knelt in front of it. Ren was sound asleep, and she cried silently as she stared at him.
+
+My Love, what are we going to do? Nathalia thought, and placed a gentle kiss on his forehead.
+
+********
+
+“At least he's finally getting some sleep.” Barbara commented as she saw Ren go to sleep on the couch. “I wonder how things are going to work out between them?” She asked herself, because no one else was in the room. She ate her popcorn and drank some soda pop, then reclined in the chair to relax. Barbara never thought of the night shift as long, because she'd always been what people called a night owl.
+
+Her husband on the other hand, had become a day-only person. Once the sun had set, he was in bed, and didn't get up again until the sun was well and truly up in the sky. She smiled, because it was funny that both of their lives had turned into something that neither of them had planned. She was supposed to be a stay at home mom, like she'd always dreamed, and he had wanted to play professional football.
+
+His dreams had been shattered that day on the field, when the opposing team's quarterback made sure to have him tackled extra hard. They couldn't prove that he had her husband's knee broken on purpose, but both Barbara and her husband knew the truth. The guy was a vindictive s-o-b and hated to lose, and he made sure that her husband's team had lost.
+
+Barbara had enrolled in nursing school right after that, and had been an excellent nurse ever since. She looked over at Ren and smiled.
+
+I even found a child to take care of, as if he were my own. Barbara thought. Don't worry Ren. Everything is going to be fine.
+
+********
+
+Ren felt a soft hand touch his face, and he opened his eyes. He saw Nathalia there, with her face covered in tears.
+
+“I wont tell anyone, if you don't.” He said, and lifted the blanket. She smiled, wiped her tears, and climbed onto the couch beside him. It was a tight fit, but they managed to snuggle into each other.
+
+“I don't know what to do.” Nathalia said.
+
+“Me, either.” Ren said. “My brilliant idea about switching Houses sucks ass.”
+
+Nathalia burst out laughing, and he smiled. A few minutes later, they both drifted off to sleep.

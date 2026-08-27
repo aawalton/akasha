@@ -1,0 +1,277 @@
+---
+id: b5b86b79-30bd-511a-9139-7002a407390e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 375 - Discussion"
+slug: 0369-chapter-375-discussion
+partOf: mythrans-master-of-all-continued-completed
+position: 369
+ownLength: 3137
+unit: words
+publishedAt: 2017-10-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165480/chapter-375-discussion"
+royalRoadId: "165480"
+---
+
+After the meal and everyone helped clean up the mess and put the spare food in the refrigerator, Ren took out the folder that Detective Ramirez had given him.
+
+“Oh, my god.” Elise said as she looked through everything, and when she spoke, the volume of each word got higher and higher. “The mayor? Your doctor? Your old psychiatrist? Senator Eddlemere? The Chief of Police? The director at the FBI?!?”
+
+“I know, right?” Ren said and showed her the picture he had drawn as a kid. “I apparently drew this years ago, and there they are.” He said. “Even the police and the FBI can't identify the remaining people. Either that, or they just haven't told the police who they are.”
+
+Gloria filled Elise in on the tech connection, and Elise sighed.
+
+“How can a conspiracy like this even exist?” Elise asked. “How many people are involved? How are they keeping quiet?” She looked at the others. “There's an old saying, 'the best way to keep a secret between two people is if one of them is dead'.”
+
+“That's kind of morbid.” Lisa said.
+
+“It's the truth, though.” Gloria said. “It's not just these people, either. You know others must be involved. They would have to be, especially since these people are so high up on the scale.”
+
+Elise nodded. “Right. There can't be complete silence here. Someone had to have talked.”
+
+“Or they've got something so damning on them, that no one is willing to talk.” Stella said, and they looked at her. “It makes sense then, right? No one would want to spill the beans.”
+
+Elise nodded. “That must be it.” She said. “Just the connections between your doctor, this idiot on the hospital board, your psychiatrist, and the experiments on you...” She shook her head. “Ren, I want to make copies of all of this.”
+
+“I'm glad, because that's what I want you to do.” Ren said. “I'm actually going to take the detective's advice. This is barely circumstantial in a criminal case, but in a civil suit?”
+
+“It'll be a landslide!” Elise said hugged him. “They might not see a courtroom to face charges, but public opinion will crucify them when it all gets out!”
+
+“Add in my sealed medical records, too.” Ren said. “It's the best way for people to see what happened.”
+
+“Ren... are you sure?” Elise looked a little worried. “That... there are things...”
+
+Ren put a hand on her arm. “Giving only half of the story is just like lying.” He said. “If it's going to come to light eventually anyway, let's give them something to really look at.”
+
+Elise looked like she wanted to argue, but she nodded instead.
+
+“You're really brave.” Lisa said. “I... I don't think that...” She shook her head. “No, I wouldn't want anyone to know what I went through.” She said. “I'd be so embarrassed, and I wouldn't show my face in public ever again.”
+
+Ren stood up and walked over to her, bent down slightly and gave her a quick kiss. “I completely understand.” He said. “As long as you know that you can tell me anything, anything at all, and I won't judge you for it.” He smiled. “I also won't let whatever you say make me think any less of you.”
+
+Lisa took a deep breath and let it out. “That's very sweet of you to say.”
+
+“..and on that note, let's head upstairs to wait for the show to start.” Stella said, and helped Elise gather up the contents of the folder. After that, they all went upstairs to the theatre room and the 20 recliners inside. They were in 4 rows of 5, and Ren claimed the center one in the front row. Elise took the one on the right of him, and Lisa claimed the one on his left. Gloria sat beside her on one end, and Stella sat beside Elise.
+
+“We forgot the candy.” Lisa said and left to go to the kitchen to pick up the bowls and candy bars that she and Gloria had gathered earlier that day. Everyone got settled while she was gone, and Lisa came in and handed out the bowls and candy bars. Before she gave anything to Ren, she looked at Stella.
+
+“What can he have?” Lisa asked and held out a few bars and a bowl of various candy. Stella looked at the contents of the bowl, and then at the bars.
+
+“He can have one bar, and a handful of candy.” Stella said. “Just make sure he sips the supplement drink, too.”
+
+“Thanks, Stella.” Ren said.
+
+“I'm trusting you to limit yourself.”
+
+“One handful. I got it.” Ren said as Lisa handed him the bowl. He looked at Elise and grinned. “Elise? Grab a handful for me.”
+
+“Oh, you cheater!” Stella said, and Ren laughed.
+
+“Ha ha! You didn't say whose handful I could use!”
+
+“That's so sneaky.” Elise said and estimated how much Ren could hold, and only filled her palm with candy.
+
+“Aw, dammit.” Ren said and looked at her hand. “I've been outsmarted!”
+
+Elise laughed and put the candy back into the bowl, then leaned over and kissed him. “I'll indulge you in most things, but not your health.” She said and sat back.
+
+“Thank you, Elise.” Stella said.
+
+“Hi, everyone!” Barbara said as she came into the theatre room. “I see you're all here, ready and waiting.”
+
+“We've got a bit of time before it starts, though.” Ren said.
+
+“Did anyone go into the booth and turn everything on?” Barbara asked, and everyone looked at her with blank faces, and she laughed. “I'm glad I showed up early, then. You'd have been sitting here and wondering why you couldn't see anything.”
+
+Ren laughed. “I never even thought of it.” He said. “Thanks, Barbara.”
+
+“That's what I'm here for.” Barbara said. “I'll be right back.”
+
+Ren looked at the short railing in front of him, stood up and turned around, and leaned against it to hold himself up.
+
+“Now that I've got you here, there's something we need to discuss.” Ren said, and put on his 'serious' face. “I've talked about this with Lisa and Stella a little bit; but, I didn't want to have a full discussion until I had everyone together.”
+
+“What is it?” Elise asked.
+
+“It's about my personal maids.” Ren said. “Like I told the police, I've been keeping them happy and placated by playing with them and pleasing them.” He said. “That's not going to work for much longer, now that I've done that with each of them.”
+
+“What are you saying?” Elise asked.
+
+“Did you look over their contracts?”
+
+“I paused the footage when you looked at them.” Elise said. “Then I sent Max a scathing email about it.”
+
+Ren chuckled. “It's a real piece of work, isn't it?”
+
+“Unfortunately.” Elise sighed. “You literally own them. You can do anything you want with them, even kill them, and you can't be held legally responsible for it... except to pay reparations to their families.”
+
+“You have got to be kidding!” Gloria said. “Ren, you... you can't...”
+
+“I know.” Ren said. “That's why I'm talking to all of you.” He said and sighed. “I used to have to order them to just go outside.”
+
+“WHAT?!?” Gloria yelled.
+
+“They were kept in a hidden room inside the Thieves Guild for years.” Ren said. “They're as agoraphobic as I am in real life when there's lots of people I don't know around.”
+
+“Oh, wow.” Elise said. “That's quite bad.”
+
+“I've been treating them properly, and I even managed to get them out of the house and take care of a market stall recently.” Ren smiled. “They met a lot of people, and haven't been traumatized by it.”
+
+“That's a relief.” Stella said. “Sometimes overexposure can backfire.”
+
+Ren nodded. “I left Verwynn with specific orders that if she felt uncomfortable at all, she was to close up and head home.” He said. “I also had Riley and Stacy guard her and the stall.”
+
+“She stayed the whole time, didn't she?” Elise asked, and Ren nodded.
+
+“Not only that, the other maids that were supposed to walk around and keep an eye on her, actually joined her in the stall.” He chuckled. “They said they were pretty much swamped after that.”
+
+“I can imagine.” Gloria said. “Especially if they had new things for sale.”
+
+“At a discount.” Ren said, and she looked at him.
+
+“They can Haggle, too?” Gloria asked, surprised.
+
+“Can they ever.” Ren chuckled. “I paid 85 gold for the glassware that was worth almost double that, and Verwynn got 120 gold and some silver from it.”
+
+“That really is good.” Gloria said. “Are you going to keep the market stall?”
+
+Ren shook his head. “I paid for three days, but they sold everything before half of the first day was even over.”
+
+Gloria chuckled. “New things don't last long, even in a starter city.”
+
+“So, you're going to sleep with them.” Elise said.
+
+“Only with your permission.” Ren said and looked at all 4 women. “I've got a good thing going here, and I won't mess that up by adding another woman if it's going to upset any of you.” He said and looked at Gloria.
+
+Gloria's face flushed red. “I said I was sorry for overreacting.”
+
+“I know, but you were a lot more upset about it than I thought you had any right to be.” Ren said. “Busy or no, we have barely talked at all in the game.”
+
+Gloria sighed. “It's just... I don't really know... I mean, what's going on between us?”
+
+“That's what I want to know.” Ren said. “We've shared a lot with each other, and I've been your emotional food for a long time.” He said. “Now that you're done with that and can keep yourself sated on your own, I feel like I'm not quite needed anymore.”
+
+“But we discovered that I can level up with you, now.” Gloria said.
+
+“Is that all I am, though?” Ren asked. “Don't get me wrong, being with you has helped me just as much as it's helped you.” He said. “You helped me through a hard time in my life, and I used you just as much as you used me.”
+
+“We both got something out of it, that's true.”
+
+“So we have to evolve and change as your ability did.” Ren said. “The way we were won't quite work anymore.”
+
+“I know.” Gloria sighed. “When I'm in the game now, I... I don't feel like I have a desperate need for you to fill anymore.” She said. “Then... when I saw you in bed with 5 women...”
+
+“You thought I'd already shoved you aside.”
+
+Gloria opened her mouth to deny it, then sighed. “Yes.”
+
+“Do you want me to?” Ren asked. “Shove you aside, I mean.”
+
+“No!” Gloria said, then glanced at the other women that hadn't said a word. “I like having you in the game.” She said. “You're so free and willing to feed me, and you never judge me no matter what.” She looked at Ren. “I don't want to lose that.”
+
+Ren looked at Lisa. “Lisa, what about you?”
+
+“As long as you can spare me a minute or two in the game, I'm more than happy.” Lisa said. “I like having you in the game, too.” She said. “You're also willing to let me use my ability without restrictions, and you never ask me anything about how it works.” She smiled. “I don't want to lose that, either.”
+
+Ren looked at Elise. “Elise, we've never done it in the game, so this isn't really a fair question for you.” He said. “I'd like for you to hold your judgment until we can make love in the game, if that's okay.”
+
+“I don't need to wait until then.” Elise said. “You've always been open and honest, and you've never hidden anything...” She looked at the other three women. “...from any of us.” She said. “I've had you in real life, and if it's anything even close to that in the game, then I don't want to lose it, either.”
+
+Ren looked at Stella. “The same goes for you. It's not really a fair question.”
+
+“I think I'm going to have to start playing the game now.” Stella chuckled, and the others laughed.
+
+“Normally, I would avoid personal maids just on principle.” Ren said. “In fact, I did the first time I met one.”
+
+“Anabelle.” Lisa said, and Ren nodded.
+
+“It was almost scary how she acted over being given a silver coin over the few copper coins she had gotten before she met me.” Ren said. “I'm sure Elise has seen it, and Barbara probably... and it might even be in the show.” He said. “But I didn't know what she was at the time, and what she needed from me.”
+
+“And now?” Elise asked.
+
+“I have some idea, especially after buying her contract from Lord Eric for 50 platinum, then I destroyed it.”
+
+“You WHAT?” Gloria looked at him in shock.
+
+Ren chuckled. “I could have bought another business in the Artesian District for that, I know; but, when she became my responsibility, I wanted to take care of her.”
+
+“Now you want to do the same for the other maids you rescued.” Stella said.
+
+Ren nodded and pointed to Elise.
+
+“He can't sell, give away, trade, alter, destroy, or otherwise subvert the intention of the contract.” Elise said. “God, I hate Max so much for the wording of that!”
+
+Ren chuckled. “It's air-tight phrasing, isn't it?”
+
+Elise nodded. “Unfortunately.”
+
+“There's just one thing Max didn't plan on, though.” Ren said.
+
+“And what's that?” Elise asked.
+
+“Actually fulfilling the contract's requirements.”
+
+“Wh-what are... are you... oh, then that...” Elise looked like she was chewing on something sour for a few moments, and then she started to smile. “Oh... oh, that's brilliant!”
+
+Ren grinned at her.
+
+“You don't have to complete the contract at all!” Elise said. “You only have to meet the requirements and then you can dissolve it!”
+
+“Bingo.” Ren said. “This is why I needed all of you together.” He said. “You all need to know what was going on, and what I planned to do about it.” He looked at each of their faces. “I don't want any misunderstandings between any of us about this.”
+
+“I'm behind you all the way.” Elise said. “I'll make sure Max doesn't realize what you're doing.”
+
+Ren smiled. “You don't have to do that, since it's behind the blue screen protection anyway.”
+
+“So you are going to sleep with them.” Gloria asked.
+
+“Yes.” Ren said. “Almost constantly, in fact.” He smiled. “Of course, thanks to the police, now I know it's completely legal and I don't have to feel guilty about doing it. Plus, since I've given them a shared Aura, sleeping with one of them is like sleeping with all of them.”
+
+“Wait, what?” Gloria asked. “You mean... that thing I felt...”
+
+“It's there all the time.” Ren said. “When I touch one of them, they can all feel it.”
+
+Elise gave a quick glance to Stella, and then to Lisa. That would be kind of nice, actually. She thought and tried to hide her excitement at the thought of Ren touching the other women and feeling it herself.
+
+Barbara had stayed in the little booth at the back of the room and waited until Ren was done of the important part of his discussion, then hit the button to turn on the screen. It flickered a few times and came on, and then she changed the signal to Channel 8.
+
+“I figured it out!” Barbara said from the little booth at the back, and came out with a big smile on her face.
+
+“Thanks a lot, Barbara.” Ren said and sat down in the middle recliner. “Can you turn down the lights, too?”
+
+“Sure.” Barbara said and pulled the dimmer switch by the door. The room's lights faded down into semi-darkness, and Ren reached out and pushed the button to move the chair back into the reclined position, and sat there to wait for the show to start. He felt a delicate touch on his left hand and turned it to hold onto Lisa's offered hand. A moment later he felt Elise take his other hand, and the three of them sat there as they held hands, then watch the commercials that they had to sit through to see the next episode of his show.
+
+*
+
+Detective John Ramirez drove his partner home after they had driven to a bunch of random spots in the city to try and cover their tracks. They had even stopped to get something to eat, but neither of them had spoken a word until John pulled to the curb at Officer Holly Stonewall's place.
+
+“Holly, please let it go.” John said.
+
+“We don't have any proof that he was telling the truth.” Holly said.
+
+“Is this where I'm supposed to say there's no proof he isn't?” John asked. “He's got no reason to lie, and he was pretty mad at us.”
+
+“At me, you mean.” Holly said.
+
+“No, he was mad at me, too.” John said. “He might be able to tolerate me more, but he was right. Anyone that's keeping tabs on us is going to know where we went today.”
+
+Holly sighed. “How did he guess that it was Elise that I had called?”
+
+“I don't know.” John said. “Process of elimination, maybe.” He said. “He's a pretty smart kid.”
+
+“I can't believe you gave him a copy of everything we had so far.”
+
+“I can't believe we haven't found anything else out.” John said. “He needed to know a few things from that anyways... like his psychiatrist being involved right from the start.”
+
+Holly nodded. “I do feel bad that they can't be charged criminally with only circumstantial evidence.”
+
+“I'm sure once he shares that folder with Elise, things are going to change.”
+
+“I certainly hope so.” Holly said. “Maybe one of these bastards will make a mistake and we can catch them at it.”
+
+“I do, too.” John said. “Goodnight, Holly.”
+
+“Goodnight, John.” Holly said and got out of the car, then walked to her front door and went inside. She hopped in the shower to quickly freshen up, dressed in a t-shirt and jogging pants that were eerily similar to the ones John had loaned her earlier that day, and she sat down at her improvised work station and looked at the monitor.
+
+“He won't go in until the evening is over, so I've got a bit of time to relax.” Holly said, and slipped on her VR headset. “Getting to sleep for 4 hours every real life hour is great.” She said and relaxed.
+
+“Flow Login Start.”

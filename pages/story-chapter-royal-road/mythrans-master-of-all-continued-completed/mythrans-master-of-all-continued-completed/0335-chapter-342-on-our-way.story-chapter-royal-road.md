@@ -1,0 +1,361 @@
+---
+id: 867139ea-41e6-50b0-802a-8544ee71e4c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 342 - On Our Way"
+slug: 0335-chapter-342-on-our-way
+partOf: mythrans-master-of-all-continued-completed
+position: 335
+ownLength: 3466
+unit: words
+publishedAt: 2017-08-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157783/chapter-342-on-our-way"
+royalRoadId: "157783"
+---
+
+Ren watched the portal close and looked at his maids. “That kind of killed the mood.” He said, and he felt their whole-hearted agreement. “I'll start breakfast.” He said and stepped off of the bed.
+
+“Ren.” Frikara said, and walked over to him.
+
+“Yes?”
+
+“About what you did for me this morning.” Frikara said and hugged him. “Thank you.”
+
+Ren put his arms around her and hugged her back. “I know it's frustrating for you... for all of you.” He said and let her out of the hug. “I can't promise anything past what we've already done; but, I'm going to try my best to keep you happy.”
+
+“You've already done more for us than we ever could have expected.” Frikara said.
+
+Ren felt both gratitude and agreement flood into the shared Aura, and she ran a hand through his hair and gave him a light kiss.
+
+“Are we going with you today?”
+
+“No.” Ren said. “I was tempted to take you along so that it would distract from her appearance, but it's better to get things like this out in the open without causing a scene.”
+
+“Oh, we would definitely cause a scene.” Frikara smiled and looked at the other maids. “Wouldn't we, girls?”
+
+“We sure would!” Lusinia said. “We'd even keep our clothes on!”
+
+Ren laughed and waved the maids over. He kissed and hugged each of them, then left the room to go to the kitchen to get breakfast. While he made eggs and toast, he thought about the popups he'd missed and brought up the last ship update he received.
+
+Notice!
+
+Your ship (UNNAMED) has been stationary for another 24 hours. The following information has changed since it has been docked:
+
+Ship's Hull  15000 / 15000
+
+Food/Consumables  3000 / 3000
+
+Ropes  300 / 300
+
+Cleaning Supplies  1650 / 1650
+
+Passengers  1
+
+The following information hasn't changed since it has been docked:
+
+Captain  1
+
+Cook  1
+
+Waitresses  2
+
+Crew  49
+
+I really should go and check on the ship. Ren thought. It should be completely unloaded by now. Since he was checking anyways, he brought up the last Church popup as well.
+
+Notice!
+
+The Church you had constructed on House Neram land has been open for another day. Word continues to spread of it's opalescence, and dwarves from all around come to pray and worship their gods. You have gained bonuses appropriate for encouraging the active worshipping of these gods. 10 visitors = 1% Knowledge bonus to level.
+
+Dark (Gravity) - 202 visitors; Knowledge Of Dark (Gravity) Level 3 (Beginner 58%) +20% = 78%
+
+Earth - 332 visitors; Knowledge Of Earth Level 2 (Intermediate 75%) +33% = (Level 3) 8%
+
+Fire - 691 visitors; Knowledge Of Fire (Mastered) = No gains possible
+
+Ice - 131 visitors; Knowledge Of Ice Level 1 (Beginner 67%) +13% = 80%
+
+Light (Holy) - 352 visitors; Knowledge Of Light (Holy) Level 3 (Beginner 49%) +35% = 84%
+
+Lightning - 161 visitors; Knowledge Of Lightning Level 5 (Beginner 76%) +16% = 92%
+
+Void (Arcane) - 11 visitors; Knowledge Of Void (Arcane) Level 1 (Beginner 7%) +1% = 8%
+
+Water - 169 visitors; Knowledge Of Water (Mastered) = No gains possible
+
+Wind - 132 visitors; Knowledge Of Wind Level 2 (Beginner 24%) +13% = 37%
+
+When I made that Mana offering before supper at Jhulune's place last night, it gave me another 5% for Earth Knowledge, so that's at 13% right now. Ren thought and finished making breakfast and went into Railyse's room. He tossed in another large fish, took breakfast in to Princess, then went upstairs to the maids and ate breakfast with them.
+
+“I'll be gone for most of the day.” Ren told them when they had finished eating. “That's with Haste cast on the horses, too.”
+
+“You're not taking Princess?” Frikara asked.
+
+“No, she can't handle a carriage that big.”
+
+“I thought she was really strong.”
+
+“She is, but it takes a different skill set to haul people comfortably on a long voyage.” Ren said. “That's why it usually takes a team of horses to keep the thing stable and stop it from toppling over.”
+
+“Is the carriage ready?”
+
+“It should be.” Ren said. “Tee-one should have finished building it yesterday and arranged for the driver and horses.”
+
+“He can do all that by himself?”
+
+“He can do everything by himself.” Ren said and chuckled. “All he needs is for me to tell him.”
+
+“But, you didn't...”
+
+Ren tapped his temple, and Frikara nodded slightly.
+
+“You're getting all fancied up, too. Aren't you?”
+
+“Yes.” Ren said. “Which reminds me.” He took out his damaged armor and used his mastered Repair skill. It reformed into it's proper shape and there was no trace of the claw and scratch marks. He was glad that the enchantments were in the jewels mounted on the armor, and not on the armor itself. Now that he had the opportunity, he used his Polishing skill and made the gold armor gleam and added another 100 points to it's Durability. He took out his armor bodysuit next and used his Master Tailor Sewing Needle to repair it.
+
+“Ren.” Andrela said. “How did you get that kind of damage?”
+
+Ren looked at her, and then at the other maids. “I didn't tell you yet, did I?”
+
+They shook their heads, and Ren gave them a quick rundown of what happened while he equipped the armor bodysuit.
+
+“You... you almost died?” Andrela asked, and he could feel her emotions starting to turn sad and a tear appeared at the corner of her eyes.
+
+“It's okay.” Ren said and took her into a tight embrace. “Princess intervened and Janice got the rock claws out before I bled to death.”
+
+“REN!” Andrela yelled, and started to cry.
+
+“It's okay.” Ren said again and rubbed her back. “I'm an Adventurer. I'm going to die occasionally.” He explained and looked at her. “I'll always come back afterwards.”
+
+Andrela hiccuped and tried to even out her breathing. “I... I don't know why that... hit me so hard.”
+
+Ren smiled. “I won't be more than 10 hours away.” He gave her a little kiss. “I'll call when I get there, okay?”
+
+Andrela nodded slightly and let him go. “Bye, Ren.”
+
+“Bye, Andrela.” Ren said and looked at the other maids. “I'll see you all tonight.”
+
+“Don't have too much fun without us.” Frikara said and waved.
+
+“I won't.” Ren said, equipped his shiny gold armor, then left the bedroom and went downstairs to Railyse's room. He saw a dark shape moving around under the surface of the water, and stuck his face into it. A stream of bubbles escaped his mouth as he spoke to her, and she swam over and splashed out of the pool to land beside him.
+
+“I'm ready.” Railyse said. She still wore the Spider Silk dress he had made for her, and she looked very regal in it. He took out a Bracelet of Magical Balance and a Bracelet of Unbelievable Magic.
+
+“Please accept these tokens of affection, as proof of your value to me.” Ren said and held them out to her.
+
+“Ren, I already told you...”
+
+“...and I said I'll play the part as much as you need me to.” Ren said. “I was going to give them to you anyways, so I might as well make it formal.”
+
+Railyse sighed as she took the offered items, then equipped them. “By Mother's Trident!” She said when they took effect. “How... how...”
+
+“Tee-one and I can do great things when we're together.” Ren said.
+
+“This isn't great, it's phenomenal!” Railyse said and waved a hand over the water's surface. A large chunk of it popped out and hovered in front of her, then it formed itself into the proper shape of a small water elemental. She closed her eyes as her hand touched the inert shape, and she glowed for about 10 seconds. She gasped, let go of the water elemental, and dropped to her knees on the floor. She looked like she was exhausted.
+
+The water elemental wiggled as it came to itself and was shocked to discover it was suspended in the air. It bubbled and gurgled in a panic as it flailed it's limbs around, and Ren reached out and pet it's head stub. It was no longer panicked with one of it's own close by, so it calmed down. Ren bubbled and gurgled at it for a minute, and one of it's limbs pat his hand.
+
+“Railyse?”
+
+“Y-yes.” Railyse said, let the suspension spell end, and Ren caught the small elemental before it fell to the floor.
+
+“There you go, little one.” Ren said and slipped it into the water. “Be careful of the undertow.”
+
+It bubbled at him, squirt out a bit of water in his direction, then dove into the water and disappeared.
+
+“Oh... oh, my.” Railyse said and struggled to catch her breath. “I... I've never done... done anything like that before.”
+
+“How much Mana did it take?”
+
+“All... all of it.” Railyse said and tried to stand, then sat down again. “By Mother's Trident, I... I never thought I'd ever have enough Mana to use that ability!”
+
+“Seeing this reminds me of my own elemental.” Ren said. “Just sit there and recover for a few minutes. I'll be right back.”
+
+Railyse nodded and Ren left the house and ran over to his business.
+
+“Good morning.” Anabelle said, and Ren stopped at the front door and looked at her.
+
+“Where were you this early?” Ren asked, then held up a hand. “I'm just curious. That wasn't an order or anything.”
+
+Anabelle laughed as she came over to him. “I was getting breakfast at Nathalia's Nourishment.” She said and draped her forearm over his shoulders. “I usually talk to Nathalia during her break.”
+
+Ren sighed and opened the door to the business. “So you know.”
+
+Anabelle smiled at him and stepped inside as she slid her hand across the back of his neck. He followed her inside and she shut the door and locked it.
+
+“What-” Ren's words were cut off because he received a kiss from Anabelle, who had quickly bent over to give it to him.
+
+“I'm sorry it didn't work out between you.” Anabelle said. “She's a really nice woman.”
+
+“Do you think it's going to change my relationships with everyone?” Ren asked. “I mean, it's because of my relationship with Nathalia that made the others possible.”
+
+“You mean, because you were attached in a dwarf relationship that was open, women were receptive to that... and now that you aren't...”
+
+Ren nodded.
+
+“If they are anything like me.” Anabelle said and smiled. “They'll still love you just as much; if not more so.”
+
+“Thanks, Anabelle.” Ren smiled. “I came over to check on Zetaya.”
+
+“She's fine.” Anabelle said. “I had to toss the kitchen curtains into the pen, though.”
+
+“I thought I left enough food.”
+
+“You did, but she's curious and roamed a bit.” Anabelle said. “I tossed in my old clothes, too.”
+
+Ren laughed. “I bet Zetaya liked that.”
+
+Anabelle nodded. “You'd better get up there and see her.” She said. “I'm sure she heard your voice already, and will be just as glad to see you as I am.”
+
+Ren took out the step ladder, climbed up it, and kissed her.
+
+“I think I'm starting to like that step ladder.” Anabelle said a minute later when Ren broke the kiss. He laughed, climbed down, and stored it. He went out the back of the shop and up the stairs, then stopped at the landing of the second floor.
+
+Hold on... did Anabelle say 'her' and 'she' when she talked about Zetaya? Ren asked himself, then ran up the stairs to the third floor and went into the apartment. He looked into the kitchen and saw Zetaya basking in the flames, and the fire elemental didn't look any different.
+
+“Hi, there.” Ren said, and the fire elemental rolled over in the flames to face away from him. “Hey, don't be mad.” He said and took apart one side of the pen and filled in the rest of the kitchen with paving stones so the whole area was available for the fire elemental to roam in. “I can't take you to the new house because of Railyse and her large pool.”
+
+There was a distinct sound of snapping twigs, and Ren knew that wasn't a happy sound. He stepped into the pen, went over to where the fire elemental was, and laid down beside it.
+
+“I have plans for a giant forge.” Ren said and rubbed it's head stub. “It's going to be so hot inside that metal will melt as soon as it gets near it.”
+
+The fire elemental lifted it's head stub and looked at him with the sound of burning leaves.
+
+“That's right.” Ren said. “If it works like I think it will, you'll have a spot that will be so close to the Fire Realm, that you can call it home.” He heard a crackling fire, and he smiled. “I'm picking up the parts I need today in the capital, and I'm going out to Walin County tomorrow.”
+
+The fire elemental got up and crawled on top of him. It was almost 3 feet long now, and covered a good portion of his torso and part of his legs.
+
+“Soon you'll be a little too big for me to hold you properly.” Ren said and it's limbs wrapped around him as much as they could, and it rubbed it's head stub over his face and neck. He heard the sound of a fire dying out, and he sighed as he hugged it. “I'll miss it, too.”
+
+After a few minutes, Ren said he had to go; and the fire elemental slid off of him. He put out more food for it to consume, kissed it's head stub, and left the apartment at a run. He was down the stairs and into the shop an instant later.
+
+“Bye, Anabelle!” Ren said as he ran by her desk.
+
+“Ren!”
+
+Ren came to a stop at the front door.
+
+“I've got piles of money here for you.” Anabelle said as she came over to him.
+
+“It must be a lot for you to call it a pile.” Ren said and she handed him a coin pouch. “Holy crap.” He said when he examined the contents and it had several hundred platinum in it. “Yep, that's a pile.”
+
+Anabelle chuckled as he dumped it into his own coin pouch and handed the empty one back to her.
+
+“Keep up the good work.” Ren said and took out 8 platinum coins.
+
+“What's this for?”
+
+“Bonuses for you and the other girls.” Ren said. “2 platinum each. Have fun.”
+
+“Ren...”
+
+“I'd tell you not to spend it all in one place, but I'm pretty sure you can do whatever you want with your own money.” Ren folded her hand over the money, then kissed her fingers.
+
+Anabelle didn't react until he held onto her hand and licked her wrist. She caught her breath as his tongue touched her skin, and it sent a shiver through her.
+
+“See you later.” Ren said, happy that his distraction had worked, and he left the shop. He ran back to the Housing District and into the house to pick up Railyse, who had recovered enough from her creation of a water elemental, and they walked down the street hand-in-hand.
+
+“Ren!” The guy who sold ale from a makeshift market stall said when he saw Ren. “I expected to see you yesterday.”
+
+“I was here twice.” Ren said. “You weren't.”
+
+“Early and late, right?”
+
+Ren nodded.
+
+“So, did you like the ale?”
+
+“It was really good.” Ren said. “How many kegs of it do you have?”
+
+“How many do you need?”
+
+“A few dozen.” Ren said.
+
+“Ha!” The guy said. “That's almost my whole stock!”
+
+“Well, I can't take your whole stock.” Ren said. “I'll just take a dozen, then.”
+
+The guy laughed. “No, no. A few dozen is fine.” He said and whistled two short barks. “I can make more.”
+
+A man drove a large cart out from the nearby alleyway at the noise. Ren and the market stall guy engaged in deep negotiations for several minutes, and then decided on a price of 1 platinum coin and 20 gold coins. It was a steal, considering Ren had paid 4 gold for one barrel and he just got 36 barrels for only 120 gold, then gave the guy 10 gold as a tip. Even with that big of a tip, he still saved money on the deal.
+
+“Where do you want them delivered?” The guy asked.
+
+“I'll take them now.” Ren said and handed over the money.
+
+“Wh-what?” The guy said as he took the money.
+
+“I can just store them until I get to my warehouse.” Ren said and stored the barrels into inventory. “Thanks.”
+
+“You... you're welcome.” The guy said surprised, and looked at his partner. “I guess we can close up for the day.”
+
+“You mean for the week!” His partner said and laughed.
+
+Ren left them to pack up their stall and led Railyse out the North Gate to the small road by the city wall, then down to the dock where his ship was. It was a nice walk to take, and they enjoyed it together.
+
+*
+
+“Here they come.” One of the workers said when he saw Ren and Railyse walking down the road towards the dock.
+
+“Are you sure this thing is reliable?” Catalina asked Tee-one.
+
+“I assure you it's perfectly safe, Ma'am.” Tee-one said. “The one we made in the dwarf lands worked well.”
+
+“We'll see.” Catalina said. “4 horses is a lot for a normal driver to handle.”
+
+“Then it's good that you're not a normal driver, Ma'am.” Tee-one said and smiled.
+
+“I'm not a normal anything.” Catalina said and laughed.
+
+*
+
+“Hi, everyone.” Ren said as he and Railyse came to a stop by the stable.
+
+“Hi, Ren.” Tee-one and Catalina said.
+
+“I'm glad it's finished and turned out so well.” Ren said. The carriage was a good size, and could hold a large group of people. It was made with a definite sea theme, with waves etched into the wood and real seashells covered the lower half.
+
+“I'm tempted to joke and say that it was close; but, I've had it done since yesterday.” Tee-one said.
+
+Ren smiled as he looked to see Tee-one was wearing the Bracelets of Magical Balance. “I assume you got to use my abilities much more efficiently.”
+
+Tee-one nodded.
+
+“Are we ready to go?” Catalina asked, and Ren looked at her.
+
+“We?”
+
+“I've never driven one of these things, so I'm not going to let anyone else handle these horses in this configuration until I learn how to do it myself.”
+
+“This wasn't supposed to be a learning trip.” Ren said. “If this is too much...”
+
+“Nonsense.” Catalina said. “I'll pick it up quickly, and then I'll pass that knowledge to my students.”
+
+“All right.” Ren said and held open the door of the carriage for Railyse.
+
+“Just a moment.” Railyse said and walked over to the dock, took out the two large fish Ren had given her, and tossed them into the water. “From where you come, to where you return.” She said. The water shifted a little bit, then the fish carcasses were sucked out into deep water and disappeared.
+
+“That was weird.” One of the workers said. “She just threw away two perfectly good fish.”
+
+Ren chuckled, and Railyse came back over to them and got into the carriage, then he got in himself.
+
+“Tee-one?”
+
+“Orimihr says he's staying on the ship.” Tee-one said. “He also said something about blasphemous humans not being interesting to him in the least.”
+
+Ren chuckled again. “He's never leaving the ship, then?”
+
+“He signed on as one of the crew this morning.” Tee-one said. “They needed the extra hand, and he said he was bored.”
+
+“It'll definitely keep him busy.”
+
+“The ship is pretty much empty.” Tee-one said. “We just have to move the things I'm using, and finish taking off the ore and clean it out.”
+
+“Thanks, Tee-one.” Ren said.
+
+“You're welcome.” Tee-one said, and Catalina climbed up into the driver's seat. “Have fun talking to the big heads about crazy stuff.”
+
+Ren smiled and waved as the carriage left the dock. “Yes, it's definitely crazy.” He said as they got on the road.
+
+“It's the perfect mission for you, then.” Teepo said and chittered in laughter.
+
+Rather than take the road through the city to get to the West Gate, Catalina took the carriage along the outside of the city wall and over the rough ground to get to the road they needed to get to.

@@ -1,0 +1,215 @@
+---
+id: 638af1ca-6a05-5fc9-96de-91b267b1bb40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 - Ren... The Hero?"
+slug: 0003-chapter-19-ren-the-hero
+partOf: mythrans-master-of-all-continued-completed
+position: 3
+ownLength: 2570
+unit: words
+publishedAt: 2016-09-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91472/chapter-19-ren-the-hero"
+royalRoadId: "91472"
+---
+
+Once again, Ren was at the back of the group and couldn't see what was going on. He had to rely on his other team members to keep watch. It still urked him; but, until he could figure out how to participate... or at least defend himself properly... it really was safer for him to just let his teammates take care of him. Ren kept up with everyone without any difficulty whatsoever since they were only moving at a jogging pace. All that running he did when he mined the ore really helped him out a lot more than he'd thought. The only thing he lacked was overall speed, but that was more because his legs were so short and he literally had to take more steps than anyone else. Little did he realize that if he'd been the same size as the average player, it would almost double his leg length. He'd by far surpass them all and leave them in the dust.
+
+The expedition jogged across the last bit of distance to the city gates, all the time wondering what was going on inside. The captain picked up speed and was about to ram his way through the gates when they were flung open and a mob of people engulfed him. The soldiers, so close on his heels, were soon engulfed as well. The shouts and hollering continued unhindered by the introduction of the soldiers.
+
+“What do we do?” Someone exclaimed as the players came to a halt.
+
+“I dunno. He told us to check for bandits, but all I can see is townspeople.”
+
+“Yeah, what's going on? I dont think I've ever seen this many in one place before.”
+
+Ren turned to Clint. “What was that you said before? We're going to get lynched?”
+
+“Yep. When Tristan tripped ya, the cap'n said tha' you was the e-ssential member of the party an' we couldn' go on withoucha. He said we had to call off the expedition an' go back to Aurora an' get someone else to replace ya. Seein' as how ya was supposta be dead.” Clint winked at Ren.
+
+“Oh.”
+
+“After Tristan disappeared, we set up camp an' worked to try an' get back across the cavern. Then that there rumblin' happen'd and we got the notice to return to Aurora to complete the quest. If it wasn' fer tha' idiot, we'd at least have had a chance... but because of him, we failed.”
+
+Ren started to talk, but while Clint spoke, the mob had surged forward and engulfed the players. They were completely surrounded. Neither Clint, nor Ren, had seen anything until it was too late.
+
+“But Clint...” Ren shouted over the mob as they were pushed, pulled, and dragged into the city. “...we didn't fail!”
+
+Clint got a bewildered look on his face, like he was trying to decide if Ren really had gone crazy after he'd fallen off the bridge and hit his head or something. The other players were freaking out a little, too. They were being forced into the city but couldn't fight back because the captain of the soldiers had ordered them not to. They reluctantly let themselves be herded along until the mob deposited them in the city's square. Ren didn't see anything that was going on because he was so short... until the crowd around him cleared away. What he saw stunned him a little; but, the rest of the party was in complete and utter shock.
+
+It had been a parade.
+
+For them.
+
+It wasn't a riot at all, but a celebration! Revelers and jugglers and all kinds of people were laughing and hugging each other. Ren had never seen anything like it before. He got lost in his wonderment until someone on the stage cleared their throat. The expedition turned as one to see the speaker. It was Eric, Lord Of Aurora, who stood at the same podium he'd been at to start their quest.
+
+“Congratulations, everyone! Welcome back, and thank you! Your hard work and perserverance has defeated the evil presence that's been building up and tormenting us for months.”
+
+All the players and soldiers were dumbfounded. They wondered if it was all a joke being played on them, but Ren had a huge smile plastered on his face. Clint looked at him and knew that Ren wasn't crazy and what he'd said before had been true. But... how did he know? According to his own story, he was unconscious for most of it!
+
+“It's with great pleasure that I declare this quest completed.”
+
+Ren got a popup. He assumed every other player got it as well, as they all stopped to read something in mid-air.
+
+The Aurora Expedition
+
+Congratulations!
+
+Lord Eric of Aurora praises you.
+
+Your party has successfully completed their assigned task.
+
+Rewards:You have gained: 5000 XP
+
+Level Up!
+
+You have gained an additional level
+
+You are now Level 3
+
+10 stat points automatically allocated
+
+Ability change!
+
+Slow And Steady (Passive)
+
+Increases XP required to level by 101 %, and reduces XP gained by 21%
+
+Skills gain XP 51% faster
+
+Ren smiled after he closed the info windows and looked around. No one else could believe their eyes. Even the captain and soldiers shuffled their feet and glanced around in a slight panic. They all still thought they'd failed.
+
+“Now, as per the conditions set before you left... rewards for contribution points. Since there are too many variables to impart to you I won't give you the full run down; but, my mage accountants have assured me that the numbers are completely accurate.”
+
+Ren got another popup.
+
+Contribution Award
+
+Congratulations!
+
+You have gained an additional: 5000 XP
+
+Ren's jaw dropped open. What? What the heck is this? I got double the XP? How? I didn't contribute at all to the fighting!
+
+Ren closed the window and looked around. Some of the players were high-fiving each other. If he recalled correctly, they were on Selene's team. They were always out in front. It only made Ren wonder harder as to why he got so much. He tugged on Clint's cloak to get his attention.
+
+“Psst. How much XP did you get from that?” Ren whispered.
+
+“I got me anotha 1000 XP on toppa the 5000.” Clint said and smiled. “Keepin' an eye on ya an' the soldiers seems ta have been the best thing fer me this time.”
+
+Ren just nodded his head and kept quiet. They both looked up when Eric continued to speak.
+
+“Ah, and there we go. You've all been awarded in accordance to how much you helped the expedition. Now, for the extra bonus award for the most contribution points! I know you've all been waiting for this!”
+
+Eric reached over to one of his staff who passed him three bags. One small, one medium, and one large.
+
+“In third place, with 243 points... Healer Montegue!” Eric announced. “Come, come! Don't be shy. It's just gold.”
+
+The crowd gasped. A figure wearing traditional healers robes, separated from the players and got up onto the stage. Eric picked up the smallest bag.
+
+“There you go. 10 gold for your efforts on the city's behalf. Spend it well!”
+
+Healer Montegue took the bag without a word and left the stage.
+
+I guess 10 gold isn't that much for a higher level mage... Ren thought. Can you imagine? 10 gold!
+
+“Hmm. You're welcome.” Eric said under his breath, but everyone could clearly hear him and some people laughed. “Well... now on to the second highest contribution point total. In second place, with an astounding 798 points... Selene, The Mistress Of Dance!”
+
+Selene had stood near the stage the whole time. She haughtily leaped up onto it, did a little pirouette, two skips, and a half twirl to end up right next to Lord Eric with a dazzling display of sparkles behind her. Eric lifted his eyebrows briefly, but didn't comment about her entrance. He picked up the mid-sized bag and handed it to her with a bit of flourish.
+
+“For you, dear lady. 25 gold coins. Both the city, and I, thank you.”
+
+Selene graciously accepted the bag and bowed to Lord Eric. She spun on her heels, flipped off the stage in a cartwheel and landed right back to where she had stood before, as if she'd never left the spot. Eric lifted his eyebrows again brielfy and turned back to his waiting audience. That's what they were... an audience... and they were witnessing quite a spectacle so far. People in the crowd whispered about how she must have killed a lot of monsters to get so many points.
+
+“Last, but not least... the holder of the highest contribution point total. In first place, with a total of... wait, is this right? Hold on...” Eric turned away from the podium and walked over to the other three people on the stage. They conferred with each other while Eric pointed at one of them. The person held out a scroll of parchment that Eric read intently. The crowd's noise level picked up as people talked among themselves. Something weird was going on. Eric chopped his hand sideways to cut off the people he was talking to. He handed back the scroll, then walked back to the podium. He stood there a moment and took a deep breath before he spoke.
+
+“I'm not sure how it was possible for someone to get contribution points of such a high amount on so short a quest, but my mages have assured me again that the numbers are correct. I've seen the actual numbers myself now.” Eric shook his head in disbelief.
+
+“Well... without further ado... the first place winner, with a surprisingly high grand total of 6,451 points... Ren.”
+
+( *Authors Note: I was really tempted to end it here on a kind of high note, but then it would have been a bit of a short chapter (just over 1600 words). I don't want to disappoint you guys like that... so, I'm gonna keep going!  *)
+
+The various noises from the crowd stopped immediately and there was complete silence.
+
+“WWWHHHHHAAAAAAAAAATTTTTT!?!” Ren shrieked.
+
+Everyone turned and looked at him as his voice echoed around the square. Shock and surprise was on all of their faces. Ren just stood there as his whole body went numb.
+
+It's not true. It can't be! He thought to himself as the crowd around him came back to life.
+
+Lord Eric chuckled. “It seems Ren is even more shocked than the rest of us. This time I'll have to explain how the numbers came about, I think. Come on up here, Ren.”
+
+Ren just stood there, dumbfounded. People started waving him forward. Clint grabbed his shoulder and shook him a bit.
+
+“C'mon you. You've gotta get yerself up on stage, pronto! They ain't gonna wait ferever, ya know!” Clint pushed him and Ren started to walk.
+
+The crowd chimed in and started chanting.
+
+“Ren!”
+
+“Ren!”
+
+“REN!”
+
+It got louder each time he heard his name. He could have sworn he could even hear the nurses at his bedside chanting, too. It became almost deafening when the soldiers joined in, at the captain's urging.
+
+“Since he's coming up now, let me explain how the contribution points worked for this quest. There were various levels, in fact. You got points for killing monsters, healing party members, repairing weapons and armor, dealing the most damage, shielding party members, for assisting outside of battles, for assistance in each kill, for not letting any soldiers die - thank you all very much for that by the way, if you help soldiers level up, keeping the morale of the expedition up, and inspiring others.”
+
+Everyone got really quiet when the long list of requirements was finally revealed for them all to hear. Ren's pace slowed down and he looked around. They all had a contemplative look on their faces. Ren thought about the list, too. It still didn't add up. Sure, he repaired the weapons and armor of the whole party... but only a few times. That still wasn't close to being as high as it actually was.
+
+Eric called over the captain of the soldiers and knelt to talk to him. He nodded his head several times, smiled, pat the captain on the shoulder and stood.
+
+“A tidbit of info has come to my attention that will shed some light on this amazing contribution total that Ren has.”
+
+Ren got to the stage and climbed up. Eric waved him over to stand close by.
+
+“Ren, it was your job to repair the weapons and armor of the soldiers, correct?”
+
+Ren nodded but didn't say anything.
+
+“And how many times did you perform that function over the course of the quest?” Eric asked.
+
+“I'm not really sure, sir. Maybe 5 or 6 times?”
+
+Eric smiled. “It wasn't just the soldiers, was it? You did all the party members as well, correct? Also the same number of times?”
+
+Ren nodded again. Except for Tristan. He never asked.
+
+“I see. Since there's 100 people in the expedition, and you did that 5 or 6 times with both weapons and armor, then that's anywhere from 1000 to 1200 repairs.”
+
+The crowd gasped. That little elfling had made that many repairs in such a short time? How was that even possible?
+
+“The captain of the guard just told me you also enchanted everything as well. Is that true?” Eric said.
+
+Ren blushed and his eyes shifted around to see everyone still had their eyes on him. He nodded. “T-t-twice.” He stuttered and then mumbled something that Lord Eric didn't hear.
+
+“What was that?” He asked.
+
+Ren sighed. “I gave them all repaired and enchanted daggers, too.”
+
+The crowd gasped again.
+
+“Do you see it now everyone? If you include all that, the total makes a lot more sense, doesn't it? His enchanted armor shielded all of his allies, his enchanted weapons hit every single monster that everyone in the expedition either wounded or killed. He single-handedly dealt the most damage! Nearly every attack had his hand in it. He kept morale up because he worked so hard and fixed everyone's equipment... and he only took their junk as payment!” Eric shook his head.
+
+“The best part, as far as I am concerned... and I'm sure you'll all agree... was that it was his fault the quest ended so abruptly.”
+
+Voices around the square chimed up when they heard that.
+
+“His fault?” “How did he...” “No way!”
+
+Eric raised his hands to the crowd to quiet them. “I haven't gotten all the details yet...” He glared at Ren to make sure he knew he'd be retelling his story very soon. “...but because of his actions, the evil was stopped and the goal of the quest was completed.”
+
+“So... for coming in first place in contribution points, I present to you, Ren...” He took the large bag from the podium and passed it to Ren. “...my eternal gratitude, a party at my mansion tomorrow night, in your honor of course... and 100 gold coins.”
+
+Notice!
+
+Fame Increase!
+
+You have gained 1000 fame.
+
+Fame XP and bonuses Unlocked!
+
+While your Fame is above a certain level, additional XP and special bonuses can be gained from doing quests for those that know of your exploits.
+
+“Guh... gad!” Ren's eyes bulged out of his head and he collapsed right there on the stage.
+
+He had fainted.

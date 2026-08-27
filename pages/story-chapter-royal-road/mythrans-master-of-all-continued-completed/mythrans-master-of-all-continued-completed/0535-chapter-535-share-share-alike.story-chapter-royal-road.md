@@ -1,0 +1,253 @@
+---
+id: 57867e3c-43d8-5488-a155-677ba3efd80e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 535 - Share, Share Alike"
+slug: 0535-chapter-535-share-share-alike
+partOf: mythrans-master-of-all-continued-completed
+position: 535
+ownLength: 2863
+unit: words
+publishedAt: 2018-03-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203153/chapter-535-share-share-alike"
+royalRoadId: "203153"
+---
+
+Ren explained to her what 'fine' really meant, and Officer Holly had to laugh because she tells people she's fine all the time, too. Ren dismissed the Full Illusion spell and the room they were in disappeared, and he saw and felt that the succubi had enjoyed Officer Holly's reward almost as much as she did.
+
+“Please fill me in on what happened when I left so abruptly.” Ren said.
+
+Xuunah and the others told him about securing the mansion and killing the other inhabitants, and that they pretty much just waited for him to come back. No one ventured out, and no one tried to enter the mansion.
+
+“Thank you all for that.” Ren said and looked around the throne room that was conspicuously bare with all the bodies gone. “You know, it's a shame she won't be back.”
+
+“It must have taken a long time to build all this up.” Officer Holly said. “Would she give it up so easily?”
+
+“In a heartbeat.” Ren said. “Just like in our world, it's only a game for her.”
+
+“What are you going to do now?” Xuunah asked.
+
+“I'll tell King Alamast to appoint a new Lord to take over these lands.”
+
+“Why don't you do it?” Artemis said. “We're already here and we cut off the head of the snake.”
+
+Ren chuckled at her analogy. “No, I like my little county. If I add all these people to it, it'll lose it's charm.”
+
+“If we can't destroy it or claim it, then we should leave.” Princess said. “There's no other choice.”
+
+“You heard the lady.” Ren walked over to her and scratched her chin. “Let's load up and go.”
+
+Symmetra and her constructs climbed back into the cart with Zetaya, Xuunah and Officer Holly mounted their steeds, and Artemis took flight with the succubi and hovered around them. Ren climbed onto Princess' saddle and pointed to the large doors.
+
+“Ramming speed.” Ren said, and Princess took off at a fast trot and smashed through the large double doors, then smashed through the front door of the mansion and rode up into the sky. The succubi were still disguised as angels, so the citizens of the city saw them leave and said 'ooh' and 'ahh' at the sight, and didn't realize the carnage that had been unleashed by them.
+
+Ren and the group with him went back to his county and landed on the road outside the Main House. The succubi thanked him for letting them come along and he shook their hands and thanked them for doing a great job, and gave them each an emotion they desired. They flew back to their roost, happy and content, and Symmetra climbed out of the cart with her constructs.
+
+“You all did very well.” Ren said and shook all of the multiple hands of the constructs, which made them laugh, and Symmetra led the 3 foot tall constructs across the street to the warehouse. Zetaya climbed out of the cart and stood in front of Ren, and he took the fire elemental into a hug. Zetaya hugged him back, and he looked up at the 10 foot tall fire elemental.
+
+“I'll be by to see you later.” Ren said. “We can hang out and talk.”
+
+Zetaya made a crackling fire sound, and Ren grinned. He had always liked that sound. Zetaya went across the street to climb back into the giant forge, and Ren turned to Officer Holly.
+
+“I'm going into Aurora later tonight to visit Elise at her place for some alone time.” Ren said. “Are you coming along?”
+
+“E-excuse me?” Officer Holly blinked her eyes.
+
+Ren chuckled. “I meant, are you going to escort me, not participate.”
+
+“Oh! Well, I... I probably should. You know, just in case.” Officer Holly said. “Especially if Suzie thinks of sending anyone to retaliate.”
+
+“Good idea.” Ren said. “I'll be back here an hour or so after dark.”
+
+“Why so late?”
+
+“I've got a date at the strip club.” Ren said to her surprised face, then looked at Xuunah. “We can have supper at Nathalia's then, too.” He said. “We can talk to her about us.”
+
+Xuunah only nodded and didn't say anything.
+
+“You're scared?” Ren asked as he felt her emotions. “Why?”
+
+“You've torn away all my defenses against you.” Xuunah said. “I... I'm bare before you... and I don't know how to go from here.”
+
+Ren smiled and ran his hand through her hair. “We take one step at a time, of course.”
+
+Xuunah opened her mouth to respond, then sighed. “You've made me a mess.”
+
+Ren chuckled. “Don't worry, I'll make things right.”
+
+“I'll meet you here as well, then.” Xuunah said, and looked at her mount. “Now, what do I do with this wonderful beast?”
+
+“I'll make a stable in back for him.” Ren said and disappeared, then was back a moment later. “Done.”
+
+“Wh-what?”
+
+Ren smiled at her and glanced at Officer Holly. “There's enough room for the both of them inside, and room for expanding when necessary.”
+
+“Expanding?” Xuunah asked.
+
+“I'll be making mounts for Frikara and the others as well.” Ren said. He had felt the maids shared Aura merge into his own when he was close enough to the Main House, and he could feel their immense curiosity over the change in him. He was holding back on sharing like he did with Xuunah, until he could be alone with them.
+
+“I think they would like that.”
+
+“Tell them I'm just popping over to meet with Lara for a few minutes, then I'll be back to see them.” Ren said and touched Xuunah's cheek tenderly, then stepped back.
+
+“I will.” Xuunah said.
+
+Ren gave her and Officer Holly a slight nod, took Artemis by the hand, and quickly walked down the street. Lara was waiting in front of the small building beside the Library, and she had a smile on her face.
+
+“You were right.” Lara said and rubbed her arms. “I did feel you coming.”
+
+Ren chuckled. “I've got my Prince Charming title fully active, too.”
+
+“I thought so.” Lara said. “Are you sure you want to do this accelerated time thing so soon after... well...”
+
+Ren held his hand out for her to take. “Are you doubting my decision to sleep with you first?”
+
+“What? No!” Lara said and gripped his hand tightly. “You know how flattered I was!”
+
+Ren smiled slyly. “Stella thought I was short-changing you on time.”
+
+Lara laughed and opened the Sanctuary door.
+
+“I was tempted to tell her that if you and I stayed in here all day, we would spend a lifetime together.” Ren said.
+
+“Oh, god.” Lara shivered as she had a small orgasm, because that was her secret desire, and she pulled on Ren's hand to try and get him inside faster. “H-hurry!”
+
+Ren chuckled and stepped inside with Lara and Artemis, and Lara slammed the door shut to activate the Sanctuary enchantment. They stayed inside the building for just over 2 minutes, which turned out to be a month inside the modified Sanctuary, and when the door opened, Lara stepped out wearing what looked like sleek black armor from head to toe.
+
+“I can't believe this isn't armor.” Lara said and ran a hand across it's surface, while her other hand held Ren's.
+
+“It's just heavily modified clothing.” Ren said and stepped out of the Sanctuary wearing his Travelling Clothes, and had Artemis hanging on his other arm. “You should wear your jeans and shirt over it.” He said. “Maybe the robes, too.”
+
+“But this looks so pretty!” Lara said and let his hand go, then did a little twirl. “Why should I cover it up?”
+
+“Modesty?” Ren laughed. “It's completely form-fitting.”
+
+Lara stopped turning and faced away from him, then bent over a little to stick her butt out. “Is it?” She asked and shook her hips a little.
+
+“Good god.” Ren said as his body reacted, and Lara laughed. She really liked that even after spending so much time together, she could still turn him on with such a simple action.
+
+“All right, fine.” Lara said and equipped the clothing on top of it. “Is that better?”
+
+“Technically.” Ren said and rubbed her butt through the jeans. “You know I'm a sucker for denim.”
+
+Lara smiled and turned to embrace him. “Just denim?”
+
+“I'm a sucker for your sweet ass in denim.” Ren whispered, and kissed her.
+
+Lara sighed into his mouth, broke the kiss, and let him go. “You spoil me.”
+
+“You put up with me.” Ren said. “It seems like a fair trade.”
+
+Lara grinned, gave him a quick kiss, and walked over to the Library. “See you later.”
+
+Ren waved to her and she went inside, and he turned and looked at Artemis. “So, are you sick of being around me yet?”
+
+Artemis ran her hand through his hair. “I'm a part of you, so I'll always be sick of it.” She joked, and Ren laughed.
+
+“Are you coming into the Main House or going to the warehouse?”
+
+“Warehouse.” Artemis said. “You need to meet with Frikara and the others to let them know what happened.”
+
+Ren nodded his agreement and unhooked the cart from Princess and stored it in her saddle bag while Artemis went across the road to the warehouse to meet with the other familiars. Princess went into her house to lay down and Ren went into the Main House and up the stairs to his apartment. He felt Xuunah was there with the maids, and he opened the door to see them as they sat on the bed and talked. Frikara and Andrela had their hands on Xuunah's upper chest and touched the soft glow there.
+
+“It's so strong!” Andrela said. “You say this happened right after he came back?”
+
+Xuunah nodded. “His mind... his being...” She shook her head slightly and looked at Ren. “He's complete.”
+
+“I'm whole again, I'm not complete.” Ren said. “I know that's a slight distinction; but it's there, nonetheless.”
+
+“What will complete you?” Frikara asked, and Ren felt her try to restrain her hope.
+
+“Becoming one with my Ladies is a good part of it.” Ren said, and 4 of them caught their breath.
+
+Verwynn didn't, however. He felt her need and desire, and he walked over to the bed.
+
+“Verwynn, I can't do what you want.” Ren said. “Especially now with all of my memories back.”
+
+Tears formed in her eyes. “I... I know that it wasn't fair of me to ask you to do such a thing.” Verwynn said. “I know you aren't like that, and to believe you would... even though I...”
+
+“Shh.” Ren said. “I won't do it to you, but I will share my own experience with it.” He said. “Maybe that will give you what you need.”
+
+“If you think that's best.”
+
+Ren looked at Frikara. “I'm going to close you all off for this part.” He said.
+
+“No! Don't!” Frikara said. “If we're going to be together, we want to share all of you, and not just the parts you think we can handle.”
+
+“Frikara...”
+
+“Ren, we can feel everything through Verwynn anyway.” Frikara said. “Cutting us off from feeling it directly from you is only going to diminish our bonds, not strengthen them.”
+
+Ren opened his mouth to say that he didn't want them all to feel it, then sighed. “Please, don't hate me after this.”
+
+Xuunah reached out and touched his cheek. “I can help you, if you wish.”
+
+Ren nodded, and Xuunah stood up from the bed.
+
+“Lay down here on your side, Ren.” Xuunah said and pointed to the edge of the bed. “Verwynn, face him and hold him tightly.”
+
+Verwynn did so, and ducked her head onto his shoulder.
+
+“Everyone else, gather into a line behind Verwynn, as tightly as possible.”
+
+The other 4 women climbed onto the bed and cuddled in as tightly as they could.
+
+“This will hurt a lot; but, it's only mental pain and not physical.” Xuunah said and formed her special mist sword as she knelt beside the bed behind Ren. “Are you ready?”
+
+“As I'll ever be.” Ren said. “Do it.”
+
+Xuunah drove her sword into Ren's back and clipped his heart with it, and her blade extended through all 5 of the women cuddled close and pierced their chests, too. They all screamed as one, then fell silent as they all lived through one of Ren's more prolific experiences under his mother's care. Xuunah chose not to live that moment with them, and the glow in her chest dimmed as she sat down to wait.
+
+*
+
+Nathalia was glad that she was only waiting around for her latest creation to come out of the oven when she felt her connection with Ren intensify almost to the point of pain. She covered her heart with a hand to try and stop the bright glow, and fell to her knees at the intensity she felt from him.
+
+“B-by the gods!” Nathalia exclaimed, and then the glow dimmed down. “I need to go to... no, he's not ready for me yet.” She stood up, steady on her feet. “He'll meet me for supper.” She said confidently, and knew that was his intention. She pulled the dish out of the oven and the smells alone made her feel happy. “He's really going to like this.”
+
+Nathalia stored the dish into her inventory and washed up, then went to her room to change. She could have held everything in her inventory, but that wasn't what she was used to. She opened the large closet Ren had made for her and rummaged through everything to pick out the best outfit to meet him with. She stored the proper undergarments and the dress, and then she looked at herself in the mirror. Her chest glowed softly and she rubbed it with her hand.
+
+“I love you, too.” Nathalia said. The glow flared momentarily, and she felt Ren trying to share an experience with someone else; or rather, multiple people. She closed her eyes and concentrated on their connection, and she experienced what Ren and the maids were experiencing. She went along for the whole ride, and when it was over, her love for him knew no bounds.
+
+“I'll see you soon, My Love.” Nathalia said, and left her bedroom to go to the restaurant and to work.
+
+*
+
+Xuunah felt the shared experience end, and she withdrew her sword as she activated her Reassurance Aura.
+
+“By... by the gods.” Verwynn whispered, her face covered in tears. “R-Ren, I...”
+
+“Now you know what it's like to be truly dominated and why I didn't want to do it to you.” Ren said.
+
+“I'm sor-” Verwynn tried to apologize, and Ren covered her mouth.
+
+“Shh. It's okay.” Ren said, then moved his hand and kissed her.
+
+Verwynn kissed him back hard, as hard as she had ever kissed anyone before, and she poured out all of her unreasonable desires into him. He took that as the cue it was meant to be and opened his Emotion Siphon ability. He absorbed everything she offered up, and she gave him all of her need to be dominated because she didn't need it anymore.
+
+Verwynn had thought that was the kind of relationship she wanted, to be completely and truly owned; until she experienced the real thing from Ren's perspective. She knew their relationship would never be that way... could never be that way... and that was fine by her. His experience dissuaded her from ever wanting to be treated like that by anyone.
+
+“That... that was...” Lusinia started to say as she sat up.
+
+“...the most revolting thing I've ever seen.” Navruth continued as she sat up.
+
+“She didn't break you, though.” Andrela said reverently, and she sat up, too.
+
+“I didn't think we could love you more.” Frikara said and sat up as well. They all had tear-soaked faces, but they also all had smiles.
+
+“I love you all, too.” Ren said. “Would you like to hear about what happened today?”
+
+“I'd rather you bed us and tell the story later.” Frikara said, and they all laughed.
+
+“I have an hour and a half before I need to get to the club.” Ren said. “That's going to cut down on the foreplay.”
+
+“Raise your hands! Who needs foreplay right now?” Frikara asked, and no one raised their hands. “I think we're good to go already.”
+
+Ren smiled and stood up. “Then prepare yourselves.” He said and held a hand out to Xuunah. “I'll be right back.” He helped Xuunah stand up and led her to the apartment door, then down the stairs and to her apartment. “I suggest going into your Sanctuary for a short visit, while I deal with this.”
+
+“Ren, I... I can...”
+
+“No, don't do anything rash. We have to talk to Nathalia first.” Ren said. “Please, trust me.”
+
+Xuunah nodded, and he gave her a kiss.
+
+“I'll meet you out front when it's time to go to Aurora.” Ren said and left her in her apartment, and went up the stairs to please the 5 women that waited anxiously for him.

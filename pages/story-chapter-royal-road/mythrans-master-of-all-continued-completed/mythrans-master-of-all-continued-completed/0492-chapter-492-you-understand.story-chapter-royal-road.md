@@ -1,0 +1,297 @@
+---
+id: eb7db201-b788-568a-95b8-69bb92a4db59
+page-type-slug: story-chapter-royal-road
+title: "Chapter 492 - You Understand"
+slug: 0492-chapter-492-you-understand
+partOf: mythrans-master-of-all-continued-completed
+position: 492
+ownLength: 3272
+unit: words
+publishedAt: 2018-01-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189676/chapter-492-you-understand"
+royalRoadId: "189676"
+---
+
+The 45 minutes in bed with the Queen of the Dark Elves and the Dark Elf healer went by faster than any of them had expected.
+
+“I really must go.” A double-sized Ren said and stood up on the bed.
+
+“Mm hm.” Lylyth moaned as she looked up at him.
+
+“I'm sorry this time was so short, so I give you my word that I won't wait so long until my next visit.” Ren said and used the Permanent Enlarge and Reduce Anything wand on himself.
+
+“Even if I am busy when you visit, you have my word that I will drop whatever I am doing to accommodate you.” Lylyth said, confidently.
+
+Ren chuckled. “I'll make sure it's at night, so it won't disrupt you too badly.”
+
+“Anytime is fine, dearest.” Lylyth said, and then a soft moan beside her got both of their attention.
+
+“Do you think I overdid it?” Ren asked, and he could feel the soft glow of extended pleasure from the healer, as she looked up at him with a dreamy expression on her face.
+
+“Obviously.” Lylyth chuckled and sat up. “She should be fine in a few hours.”
+
+Ren laughed and knelt beside the healer. He leaned in and gave her a long slow kiss, and she moaned into his mouth. “I'll see you later, Tiatha.” He said in a seductive voice, and he felt a thrill go through her. He wasn't sure if it was because he had said her name so intimately, or for anticipation of the next time.
+
+“Make that a few days for her to calm down.” Lylyth laughed and waved her hand to call forth a portal. “I don't know where anyone is in your bedroom this time, so I've only put it close by.”
+
+“Close by?” Ren asked and equipped his platinum armor.
+
+“Within half a mile or so.”
+
+“That's not normally close, but that's okay.” Ren said and touched her face. “I can run that in no time at all.”
+
+“Why do I like it so much that you touch me so tenderly?” Lylyth whispered.
+
+“Is that a rhetorical question, or do you actually want an answer?” Ren whispered back and kissed her upper lip.
+
+“I don't know.” Lylyth admitted.
+
+Ren smiled and cupped both sides of her face. “Well, if I had to take a guess, it's because everyone treats you like the Queen you are.” He said, and he felt a touch of surprise from her. “They are reverent, respectful, and always keep you at a distance.” He said. “You're strong, powerful, and can destroy anyone and anything that comes up against you.”
+
+Lylyth thought about that. “Does that mean you don't think those things?”
+
+“Just the opposite.” Ren said and kissed her top lip again. “I see you as all those things... and I also see you as a woman.” He felt a thrill go through her, and he smiled. “That's right, even someone as important as you, the leader of your people, the Dark Elves... sometimes... you just like to have someone treat you normally.”
+
+Lylyth closed her eyes as Ren moved his hands from her face to her ears and caressed along the ends and the lobes. He moved his hands down her neck and rubbed his fingers along her collarbone.
+
+“You let me touch you like this without resistance or protest, and that's all the proof you need.” Ren said and kissed her top lip again. “Until next time, My Queen.”
+
+“C-call me L-Lylyth.” Lylyth said as she opened her eyes, and the healer caught her breath.
+
+“As you like, Lylyth.” Ren said and smiled. “Goodbye.”
+
+“Goodbye, dearest.”
+
+Teepo dissolved into the ring and Ren led Artemis through the portal, then started to fall.
+
+“Whoa.” Ren said and came to a stop. Artemis floated next to him, and he summoned Teepo. “How high up are we?”
+
+“About quarter of a mile.” Teepo said and flew around to the right. “The main house is over that way.”
+
+“If I didn't have Permanent Air Walk, I'd be falling to my death right now.”
+
+“No, you wouldn't.” Artemis said. “I would have caught you the second you were in free fall.”
+
+“Thanks.” Ren said and smiled at her. “Let's go.”
+
+Ren ran through the air over to the Main House and Artemis flew beside him. This high up he got a good look at the city, and there was quite a lot to it now.
+
+“This place is really shaping up.” Ren said. “I wonder what else I can add for attractions?”
+
+“It depends on who you want to attract.” Teepo said and landed on his shoulder.
+
+“Just more people.” Ren said. “I wonder if I should advertise free housing?”
+
+“No, you'll just get a bunch of freeloaders.” Teepo said. “You know that.”
+
+“Yeah.” Ren said and they arrived at the Main House. He stopped beside the front door and looked at Artemis. “Thank you for coming along.”
+
+“I'm your ranged combat specialist.” Artemis said. “I'd be negligent in my duties if I let you go alone.”
+
+Ren smiled. “Besides that, you kept watch over me while I was with the Queen of the Dark Elves.”
+
+“I did that with the maids as well.” Artemis said.
+
+Ren blinked his eyes for a moment, then he took her hand. “I'm sorry.” He said. “I didn't mean to make you watch while I...”
+
+“It's all right, Ren.” Artemis said and pat his hand. “Just like Teepo, it's my job to watch over you, no matter what you're doing.”
+
+“I'll try not to-” Ren started to say, and Artemis put a soft metal fingertip on his lips.
+
+“Don't make promises you can't keep.” Artemis said and smiled. “I've handled it so far, haven't I?”
+
+“That's true.” Ren said. “Okay, I'll at least try to not do things directly in front of you.”
+
+Artemis chuckled. “Let's get upstairs so you can get to sleep.”
+
+They went inside and up the stairs and into the apartment, and Ren saw the maids were a little spread out. Artemis stood just inside the door to the side, and Teepo flew up to land on the ceiling.
+
+“They left a Ren-sized hole.” Teepo observed, and Ren chuckled.
+
+I think you're right, Teepo. Ren thought and took off his cloak and folded it up on the chair beside the bed, stored his clothing, and very carefully put himself into the empty space. The maids stirred slightly, and Ren adjusted himself to touch each of them with some part of his body. The maids relaxed when he did that, as did Ren because he shared their feelings, and he fell asleep almost right away.
+
+*
+
+Officer Holly had flown her white and gold mount for over an hour, and then her mind crept in the knowledge that if she didn't get some sleep, she would be next to useless the next day. She brought her mount in for a landing at her place and tied it up just outside her front door. She gave it a quick hug, despite wanting to hold onto it for much longer, and went inside her house to go to bed.
+
+I can't believe he did all of that for me. Officer Holly thought as she stored her armor and equipped a nightgown she had bought at Ren's store. He can do so many amazing things. She got into her comfy bed and tucked herself under the blanket. Of course, that made her think of him in the real world, and she drifted off to sleep with images of what Ren would be doing if he didn't have such a weak body. She slept the rest of the night, despite only needing to sleep for an hour, because her body wasn't used to the change yet.
+
+*
+
+Xuunah just couldn't get Ren out of her head. She needed a break from what he had shared with her and entered her closet Sanctuary. She didn't invoke the connection to the Light Realm, though. All she did was sit down, relaxed, and did her best to put the feelings he had stirred up inside of her aside. That was the trap of being a physical being, and it had been drilled into her since the last time she had been a physical being to segregate herself from those feelings, or they would consume her.
+
+It took her years to divorce herself from what had happened and to firmly put her feelings behind her. She slept and meditated constantly, and by the time she was done, she stepped out of her closet Sanctuary and felt refreshed and ready to face the next challenge with Ren. She had been in the closet all night, and it was now the next morning.
+
+That... took a lot longer than I thought it would. Xuunah thought to herself and sat down to wait for Ren to wake up.
+
+*
+
+Ren woke up and felt ready to face the day, and the maids woke up with him. “Good morning.” He said to them, and gave each one a kiss.
+
+“It is now.” Frikara said, and Ren chuckled. “What did you talk about?”
+
+“This.” Ren said and held up his arm and showed the web markings. “They think I'm one of Great Vasalor's chosen.”
+
+“Who's that?”
+
+“No idea.” Ren said and sat up. “I probably should have asked that.”
+
+Frikara chuckled as she sat up, then gave him a hug. “You could contact them again.”
+
+“After I get some work done.” Ren said and got out of bed. “I need to start working on the High Elven city I need to build.”
+
+“Good luck.” Frikara said and stood up with him, and the other maids sat up.
+
+“Don't activate your Aura.” Ren said and equipped his platinum armor.
+
+“I wasn't going to.” Frikara said and smiled crookedly.
+
+“Save it for later.” Ren said and looked at her from her head to her feet, and let her feel how much he desired her. Frikara took in a deep breath and nodded, and Ren looked at the other maids and let them feel how much he desired them as well.
+
+“Thank you.” Andrela whispered when his eyes lingered on her face.
+
+“Is it okay to say that you're the cutest?” Ren asked, and she nodded her head slightly as her face flushed red.
+
+“We can all agree to that.” Frikara said, and the other maids nodded their heads slightly. Andrela's face flushed to an even deeper red; but, she wasn't too embarrassed by the compliments because she could feel they were genuine in their feelings.
+
+“On that note, I better leave before I decide to hop back into bed with you all.” Ren said.
+
+“Would that be so bad?” Navruth asked.
+
+Ren smiled at her. “Only for about 4,000 or so High Elves and elflings.”
+
+That made her laugh, and the others joined in.
+
+“Go on, then.” Frikara said and ran her hand through his hair. “We'll miss you.”
+
+“Not too much.” Ren said. “I'm just going across the road to work with Tee-one for a while. You should be well within my Aura until I head out to no man's land to set things up.”
+
+“We'll miss you then, how's that?” Frikara asked.
+
+“That'll do.” Ren said and grinned. “See you later.”
+
+Artemis opened the apartment door and Ren picked up his cloak as Teepo landed on his shoulder, then walked out of the apartment as he swished the cloak around his shoulders and it settled into place.
+
+“That looked so cool.” Teepo said. “When did you practice that move?”
+
+Ren laughed as Artemis shut the door and followed him down the stairs. Xuunah waited for him at the bottom, and he stopped in front of her.
+
+“Xuunah, please accept my apologies for my antics last night.” Ren said. “I hadn't realized I was broadcasting so much until afterwards.”
+
+“I could say that no apologies are necessary, but you wouldn't believe that.” Xuunah smiled. “So, I accept your apology.”
+
+Ren took her hand and bent over it, then gave it a gentle kiss. “I'll be working in my warehouse for a while before heading out to the no man's land.” He said. “Do you want to observe until then, or do you want me to come and get you when I leave?”
+
+“I'll observe, assuming your familiar doesn't mind some company.” Xuunah said.
+
+“It might be nice to have someone to talk to.” Artemis said.
+
+“Then please, accompany us across the road.” Ren said and Artemis opened the front door of the Main House.
+
+“Oh! Hello!” Officer Holly said as she almost ran into Ren and Xuunah. “Good morning.”
+
+“Good morning.” Ren said. “Did you have fun last night?”
+
+“Only for an hour.” Officer Holly said. “I had to get some sleep, so I gave Cobalt the night off.”
+
+“Cobalt is a good name.” Ren said. “Has he bossed you around yet?”
+
+“What? No.” Officer Holly said. “Why would he do that?”
+
+“That's what Elerlyth's mount does.” Ren laughed. “He wants to keep her safe.”
+
+“We haven't done anything even close to dangerous, so I don't know if he'll act like that or not.” Officer Holly said. “I'll keep an eye out for any tendency to treat me like a girl and nip it in the bud.”
+
+Ren chuckled. “I don't think you'll have to go quite that far.” He said. “The mount is created for you, and fits your needs. If you don't believe you need that, then he won't do that.”
+
+“Then why ask?”
+
+“Personal curiosity.” Ren said. “I just finished telling Xuunah I was working in the warehouse for a while before going to the no man's land, and she's going to observe me until then.” He said. “Will you be joining her and Artemis?”
+
+“It's about time I get to do some of my assigned task.” Officer Holly said and stepped out of the way. “Lead the way.”
+
+Ren walked out through the door with Xuunah's hand, and guided her across the street.
+
+“You don't have to be so gallant, Ren.” Xuunah said.
+
+“I want to be.” Ren said. “What kind of man would I be if I didn't treat someone like you with the proper respect?”
+
+“Someone like me?” Xuunah asked as Artemis opened the warehouse door. Ren motioned for the other two women to go inside, and let the door shut.
+
+“You are a Light being.” Ren whispered. “I know you're not very high in the structure of things, but that doesn't mean you're not important.”
+
+“Ren...”
+
+“I know, I know.” Ren said. “I shouldn't use the knowledge about you that I gained when we formed our connection; but, I've seen the centuries you've lived through.” He said. “The hardships, the hard work, tending to mortals when you visit, and being ostracized for enjoying being in a physical body.”
+
+Xuunah took a deep breath and let it out. “Ren, I...”
+
+“That's the main reason why I wanted to apologize for last night.” Ren said. “I know how difficult it is for you.”
+
+Xuunah sighed. “You really do, don't you?”
+
+“Even if I hadn't experienced it from your perspective, I have a vivid imagination and would have experienced it anyway.”
+
+“I went into my Sanctuary last night and stayed there until this morning.” Xuunah said. “It took me that long to push what happened last night aside and get myself back to normal.”
+
+Xuunah held in her gasp as she felt Ren's deep regret to have put her through such an ordeal.
+
+“I am so sorry.” Ren said and equipped his Travelling Clothes as he stepped up into the air two steps, then he put his arms around her. He called forth his Restoring Hands and poured as much good feelings into her as he could.
+
+“R-Ren!” Xuunah gasped as those feelings hit her and filled her up, and the small light of connection to him in her chest lit up brightly. His lit up as well, and he pressed his chest to hers.
+
+“I don't want you to regret making this connection.” Ren said. He took a deep breath and concentrated on it, and he felt it open up a little more. “Don't let this physical form fool your heart.”
+
+Xuunah looked down as Ren eased his hug and leaned back, and she saw how wide their connection was. “H-how...”
+
+“Sharing so much with you last night might have been an oversight on my part, but it won't be anymore.” Ren touched her face, and she looked up from the light to stare at him in the eyes. “I'll give you as much as you want, and you don't have to feel guilty about it.”
+
+“B-but...”
+
+“You're going to be spending a lot of time with me, and I don't want you to hide in your closet every time I have sex.”
+
+“Ren, I...”
+
+“I know you can't copulate without breaking your solemn vow.” Ren said. “That was why you had such a hard sentence when you returned to the Light Realm.” He smiled. “However, I've become quite good at finding loopholes in things.”
+
+“Wh-what do you mean?” Xuunah asked.
+
+“Well, like I told the Dark Elf healer, I've recently learned there are a few things people can do without actually having sex.” Ren said, and he felt her shock.
+
+“R-Ren, I...”
+
+“No, you don't have to participate at all.” Ren said. “But, you also don't have to stop yourself from enjoying the feelings, either.”
+
+“Wh-what?”
+
+“You just spent years in a pocket realm to atone for something you didn't have to atone for.” Ren said. “Nowhere in your vows does it say you can't experience, or keep, those feelings.”
+
+Xuunah looked at him with wide eyes as she thought about her solemn vow. It took her several minutes to sort through everything, and then she realized that he was right.
+
+“I've been acting foolishly, haven't I?”
+
+“Of course not.” Ren said and gave her a quick kiss on the lips. He felt her tremble at the sensation, and she sighed at the emotions and feelings he still poured into her. “You only acted the way you thought was appropriate.” He let her out of the hug and deactivated his Restoring Hands. “Now you know you don't have to do things that way if you don't want to.”
+
+Xuunah took another deep breath and let it out. “You've made your point.”
+
+“You've been doing things that way for thousands of years, so I'm a little surprised one revelation was enough to convince you.” Ren chuckled. “Plus, if I wanted to really make a point, I would have kissed you like you deserved for putting up with my antics.”
+
+Xuunah smiled. “I don't think Nathalia would be too happy about that.”
+
+“I love her so much, and you are a part of that now.” Ren said and a pulse of light went from his chest and into Xuunah, which made her gasp.
+
+“G-Great V-Vasalor.” Xuunah whispered as she felt how much love he had for Nathalia, and she really was a part of it now.
+
+“Oh! That reminds me.” Ren said. “Who is he?”
+
+“What?”
+
+“Who's Vasalor?”
+
+Xuunah opened her mouth to start explaining, then closed it. “It's a long story.”
+
+“I guess it can wait, then.” Ren said and took two steps down to the ground. “I've got to get to work.”
+
+“I'll try and tell you some of the tale the next time you take a break.” Xuunah said.
+
+“Take a break? What's that mean?” Ren laughed as he opened the warehouse door, and Xuunah laughed at her unintentional joke as they both went inside.

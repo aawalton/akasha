@@ -1,0 +1,765 @@
+---
+id: 3766da37-c89c-55b0-b243-1618aa9d3a8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 140 - The Fire Realm"
+slug: 0125-chapter-140-the-fire-realm
+partOf: mythrans-master-of-all-continued-completed
+position: 125
+ownLength: 6516
+unit: words
+publishedAt: 2017-01-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111696/chapter-140-the-fire-realm"
+royalRoadId: "111696"
+---
+
+Four hooded figures came into the library and fanned out.
+
+“I'm tired of waiting.” The lead figure said. “Find him.”
+
+They looked through all the areas they could see, but there was no sign of him. The lead figure went to the reception desk and stood in front of Rosie.
+
+“Where is he?”
+
+“Who?”
+
+“The little pip-squeak that came in here 2 hours ago.”
+
+Rosie shook her head. “I'm sorry, I can't help you.”
+
+The figure turned to the other three. “Go in the back and search.”
+
+“You aren't allowed to do that.” Rosie said. “That's a restricted area.”
+
+“Like I care about your restrictions.” The figure said and pulled out a sword. “I have her covered. Go!”
+
+Rosie stood up. “Did you just pull a weapon out while INSIDE THE LIBRARY?!?”
+
+The hooded figures stopped moving at Rosie's bellow.
+
+“This is a place of LEARNING!” Her face turned beet red from anger. “Leave now, or I'll MAKE you leave!”
+
+The hooded figures laughed, then started moving towards the hallway.
+
+“You're BARRED!” Rosie shouted.
+
+The front door of the Library flew open, and the hooded figures were grabbed by an invisible force. They were unceremoniously dragged to the door across tables and chairs, then tossed out into the street. The 4 figures landed in a pile, battered and bruised. Rosie came over to the doorway, stood with her hands on her hips, and glared at them.
+
+“If you can't behave like civilized people, then you won't be treated like civilized people.” Rosie said. “The soldiers have been notified of your transgression, so I suggest you don't stick around. Unless you want to see what happens next.”
+
+The figures sorted themselves out of the pile and stood. The sound of rattling armor could be heard approaching from just up the street, and the 4 figures ran the other way.
+
+*
+
+Ren and Teepo appeared in an area neither of them had ever seen before. Everything was fire. The land, the trees, the bushes... everything was made of fire. Ren turned around and the portal had closed.
+
+“Well, I guess we won't be going back that way.”
+
+“Don't worry, Ren.” Teepo said. “Fire Dancer is really happy!”
+
+“I'd ask you were we should go, but since neither of us have been here before...”
+
+“Just walk straight ahead...” Teepo chittered in laughter. “...and follow the yellow fire road.”
+
+Ren looked down and sure enough, he was standing on a yellow fire road. He knelt down and ran his hands in the fire.
+
+“It kinda feels like liquid jello.”
+
+“What's that?” Teepo asked.
+
+“It's a type of dessert Adventurers eat sometimes.”
+
+“They eat fire?”
+
+Ren chuckled. “No, the fire just feels like the melting dessert.” He thought about it. “Actually, there are fire-eaters, but it's just a trick.”
+
+“Whew! I'm glad.” Teepo relaxed. “Fire Dancer wouldn't be happy to hear about Adventurers eating her creations.”
+
+“No, I wouldn't.” A loud disembodied voice said. “I would be displeased if they did.”
+
+Ren started walking down the road and saw various creatures through the trees. Rabbits and foxes mostly, but the odd thing was, they were made of fire. They still moved and acted like real creatures, but their bodies were fire instead of meat and bone.
+
+“Neat.” Ren said.
+
+“I'm glad you like them.” Fire Dancer said.
+
+“You made them all?” Ren asked.
+
+“I did.”
+
+“Did you make this realm for yourself?”
+
+“Of course.”
+
+Ren came to the end of the road, and about a football field away, was a mountain of fire. It shifted slightly, and Ren saw a good portion of it move, then a humanoid shape stood up. It took a step and the ground shook. It crushed trees and bushes and animals alike as it walked the short distance to where Ren stood. When it was close enough, he guessed it was about 200 feet tall.
+
+“That is so cool!” Ren said.
+
+“You... aren't afraid?” Fire Dancer asked, surprised. “I'm the Deity of Fire, and you're not afraid.”
+
+Ren shook his head. “I'm immune to fire.”
+
+“I could still crush you.”
+
+“I have no doubt that you could kill me at any time that you want.” Ren chuckled. “That's not why you brought me here, though. Is it?”
+
+The behemoth fire being bellowed a laugh. “No. Like I told your little companion, I'm dying.”
+
+Ren took in a deep breath, then sighed. “I felt really sad when he told me that.”
+
+“You did, didn't you?” Fire Dancer said. “Why?”
+
+“Teepo told me how you came here, and what happened to you... and now, after all this time being trapped and not able to go home, you're dying.” Ren said. “I can't help but feel sad.”
+
+Pieces of the fire being's body started to fall off. When a piece would hit the ground, it would become a bunny rabbit or a fox that would run away, a bush, a tree, then one big piece became a wolf that stood there and growled at Ren. He didn't pay it any attention, however. A boar was next, and when it took off, the wolf chased it. Large boulders appeared then rolled away, pushed by some unseen force. A bear and 2 cubs were next.
+
+Ren stared in awe as nearly an entire forest and part of a mountain was born from the fire being's crumbling body. When all of the pieces had finally fallen off, what was revealed was a woman. Unlike all of her creations, the fire she was made of was under translucent skin and burned a bright orange. Her eyes glowed brightly as she smiled at him. She was 5 foot 5, perfectly proportioned, and was also completely naked. Ren dropped to one knee and bowed his head.
+
+“I didn't realize you weren't wearing clothing.” He said and blushed a little.
+
+Fire Dancer laughed. “I couldn't wear clothing if I tried.” She said, in a pleasantly female voice. “They would burn up instantly.”
+
+“I could try to make you something...” Ren offered.
+
+“It's quite alright.” Fire Dancer said. “Please stand and look at me.”
+
+“But... I'll look and... I don't want to offend you.”
+
+She put a hand on his face. “You could never offend me, dear one.” Fire Dancer said. “I brought you here to thank you.” She said and lifted his face to her. “That was an ingenious idea to spread the knowledge of me so quickly.” She kept lifting, and Ren had no choice but to stand before her. “I only wish it had happened years ago, when it might have saved me.”
+
+Now that he was close enough to examine her, Ren saw that pieces of her were missing. A small chunk from her arm, a finger from the hand touching his face, one of her ears, and a piece of her shoulder. Ren couldn't help himself as he touched those parts of her.
+
+“You're not dying.” Ren said, and a tear came to his eye. “You're being eaten away.”
+
+Fire Dancer had a surprised look on her face for a moment, then she smiled. “Yes, dear one. That's exactly right. The longer I've been trapped here, the more I wasted away.” She sighed. “I tried to make a place for myself, and it worked for a little while; but, time has not been kind to me.”
+
+“Goddess?” Teepo whispered.
+
+“Yes, little Disciple?”
+
+“Is there nothing we can do?” Teepo said. “Ren is a great Adventurer, and he's done so many amazing things!”
+
+“Your devotion to me has kept my flame burning for many years.” Fire Dancer smiled. “Your use of the friendship you have with this man to help me, was more than I could have asked of you.” She shook her head. “To achieve so much in so short a time...”
+
+“Is there nothing I can do?” Ren asked. “I'll do anything in my power to help, if I can.”
+
+Fire dancer looked at Ren, tilted her head, and smiled coyly. “I believe you just had a similar deal with the Sage of Ages.”
+
+Ren thought about it for a moment, then his eyes widened. “Oh.”
+
+“I've been waiting centuries for someone to achieve Affinity with me.” Fire Dancer said. “Even someone at 99% would burn up instantly when they stepped into this realm.”
+
+“That's happened before.” Ren said.
+
+She nodded. “He was so close; but, he was impatient and getting on in years. He decided he couldn't wait any longer, and opened a portal himself.”
+
+Ren took her into a hug. “I'm so sorry.”
+
+Since he was 4 foot 7, and she was 5 foot 5, his head fit right under her chin. Fire Dancer was surprised at first, then she hugged him back. “You mortals and your customs.”
+
+“I can't help myself sometimes.” Ren chuckled. “I'm a hugger.”
+
+She laughed, and ran a hand through his hair. His eyes widened as she played with it a little, then ran her hand back over it to settle it down.
+
+“It's so soft and fluffy.” Fire Dancer said in wonder. “I've never touched hair before.”
+
+“You haven-” Ren stopped mid-word, and he grinned. “Right. Fire Goddess. Burns everything.”
+
+Fire Dancer laughed. “Teepo, is he always like this?”
+
+“Yes, Goddess.” Teepo said. “He treats everyone the same.”
+
+She cupped the side of Ren's face. “If only I'd found you years ago.” She said. “Having someone like you by my side would have made all these years more bearable.”
+
+Ren sighed. “I'm sorry, but I'm engaged to be married.”
+
+“I know. Teepo has told me all about it.”
+
+“Then what...”
+
+“A new Fire Dancer must be made. One that can survive here.” She said. “I will not allow everything that I have created to die with me.” Fire Dancer looked at Ren, pleadingly. “Please, Ren. Save them. Save them all.”
+
+“Oh... oh my...”
+
+“I'm not asking for a commitment, dear one.” She chuckled. “Only for a share of your affections.”
+
+“But...”
+
+“Ren! Say yes!” Teepo urged. “She's a Goddess! Save her!”
+
+“Teepo.” Fire Dancer said, and Teepo quieted. She reached into Ren's hood and picked Teepo up. “This is not a decision to be made lightly.” She looked at Ren. “If you wish, you may discuss it with Nathalia.”
+
+“But...”
+
+Fire Dancer let Ren out of the hug and waved an arm. A portal appeared 30 feet away. “Go to her. Talk about it.” She said and put Teepo back in the hood. “I've waited centuries for you. A little while longer won't hurt too much.”
+
+Ren stared at her, as she put a hand on her thigh. He moved the hand aside gently, and watched as another small piece of fire within her shrank away, and left a space under her skin empty. He nodded and walked over to the portal and stepped through it. He was in pitch blackness again, and when it vanished, he was in the old bedroom in House Neram. Nathalia was there, asleep in the bed. Ren walked over to her and knelt.
+
+How in the world am I going to explain this?
+
+“Tell the truth, of course.” Teepo said. “You told her you wouldn't ever lie to her.”
+
+Ren sighed and woke Nathalia up. He explained what was happening, and what the Goddess of Fire was asking of him, and Nathalia's eyes nearly bulged out of her head.
+
+“You... you've been asked.... by a Deity... to... to...”
+
+Ren nodded.
+
+“Do you love her?”
+
+“No.”
+
+“Then you have my permission.”
+
+“But...”
+
+“Ren.” Nathalia said. “A Goddess... an ACTUAL Goddess... wants you to save as much of her as you can. I wouldn't be able to live with myself if I let all of the Fire die in this world.”
+
+Ren took in a deep breath. “Nathalia...”
+
+She kissed him deeply, and Ren's body reacted almost instantly.
+
+“There.” Nathalia said. “You're ready.”
+
+“But...”
+
+“You better be thinking of me the whole time.”
+
+Ren smiled. “I'd rather keep my experiences with you, my own personal Goddess, separate.”
+
+Nathalia caught her breath. “Ren! I just got a...”
+
+He kissed her, and she wrapped her arms around him. A minute later, he broke the kiss and stood. “I'll be back tomorrow, My Love.”
+
+“I'll always be here waiting for you, My Love.”
+
+Ren turned around and the room blacked out again.
+
+“Ahhh!” Nathalia let out a startled scream.
+
+“It's just the portal, Nathalia.” Ren said. “The light will return when it's closed.”
+
+“O-okay.”
+
+The portal appeared and Ren stepped through it.
+
+*
+
+A moment later, the darkness dissipated and Nathalia sighed.
+
+“The things he gets wrapped up in.” She said, and shook her head. “I swear, trouble finds him wherever he goes.”
+
+*
+
+Ren appeared in the fire realm, and he walked over to Fire Dancer. “My future wife is fine with me 'rescuing' a Goddess of Fire.”
+
+Fire Dancer smiled. “I'm glad that she's a practical woman.”
+
+“Nathalia is definitely more than I deserve.” Ren said. “I'm really lucky I have her.”
+
+“Almost as lucky as I was in finding you.” She said. “To think you achieved what so many others have tried and failed at.” She looked at him. “You're amazing.”
+
+“You shouldn't have said that.” Ren said. “Now you aren't going to know what to say when we're finished.”
+
+“When we're finished?” She asked, perplexed.
+
+“Can you make a bed please?” Ren asked. Fire Dancer made one, and Ren asked for a small building around it.
+
+“Are you trying to make a private space?”
+
+Ren nodded.
+
+Fire Dancer smiled. “This is all me, you know. Parts of me. I created it all.”
+
+“I know.” Ren said. “I'd like a bit of privacy anyway.”
+
+She shrugged and made a room around the bed.
+
+Teepo
+
+“Standing guard.” Teepo said and flew to the roof of the building and landed. Ren picked Fire Dancer up in a 'princess carry', with one arm behind her back and one under her knees.
+
+“What are you doing?!?” She exclaimed as she wrapped her arms around his neck.
+
+“I'm going to rock your world.” Ren said, carried her into the room, and shut the door.
+
+10 hours later, Fire Dancer didn't know what to say.
+
+“I can't... you... how...”
+
+Ren laughed. “See? You should have saved the 'amazing' comment.”
+
+Fire Dancer laughed. “Yes, you're right.” She said, then looked down at him. “You can keep going, can't you?”
+
+“If you want me to, yes.”
+
+She put a hand on her abdomen. “I'm sure you've achieved what I had intended, dear one.”
+
+Ren raised a single eyebrow and Fire Dancer chuckled. “That's so cute!” She said and kissed his eyebrow. “Now that the work is done, though...”
+
+“There's a saying where I come from.” Ren said. “All work and no play...”
+
+Fire Dancer grinned. “Oh, I like that thought!”
+
+After another 5 hours, Fire Dancer asked him to stop.
+
+“I... I think...” She gripped her stomach. “...yes, it's time.”
+
+Ren looked at her with concern, and she gave him a kiss on the lips.
+
+“Thank you very much, Father of Fire.” She said, and Ren dismissed the popup without reading it. Fire Dancer screamed as the fire under her skin burned hotter, and swirled around like a firestorm. It turned a deep red color from the bright orange it was, then slowly collapsed down into her abdomen. She stopped moving and her eyes stopped glowing. The fire inside of her kept getting smaller and smaller quickly, and Ren stared at it because he realized what it was.
+
+“Oh, crap!” He pulled out the shield he'd gotten from the temple, rolled out of bed and ducked behind it. Fly, Teepo! Fly!
+
+A few seconds later, the swirling fire collapsed to a single point of light, then exploded. The bed, building, 30 feet of ground, trees, road and bushes disappeared in a flash of light and Ren was thrown a hundred feet into the air. Thankfully, the shield combined with his Shock Absorption and Block abilities allowed him to survive the blast, but he lost half of his Health in the process. He equipped his armor while flying through the air, and twisted himself around almost enough to get the shield under him. Ren impacted the ground nearly 150 feet away and lost another quarter of his Health.
+
+T-T-Teepo? Are you okay? Ren thought, and rubbed his head. “Ow.”
+
+“Y-yeah.” Teepo said, and flew down to land on Ren's shoulder. “I was far enough away that I only got the shock wave.”
+
+Ren stood up and staggered. “Damn.” He said, and sat back down.
+
+“Ren! Look!”
+
+He looked to where the room used to be, and a 30 foot ball of fire was there. Ren stood up and ran, and ignored the pain he was in. He got to the ball of fire, and couldn't see inside. He took a deep breath and stepped into the swirling mass of flames.
+
+“It really is like liquid jello.” Ren said and pushed his way to the center. “Teepo can you see in here?”
+
+“A little.” Teepo said. “To the left. A little more. Okay, we're in the middle.”
+
+Ren knelt down, felt around, and found a small form. He picked it up and carried it back out of the flames, guided by Teepo. Once outside, Ren looked down to see a baby.
+
+“Whoa.” Ren said, then the baby's color turned from yellow to orange, then started to go to red. “No!” Ren turned back towards the ball of fire and held the baby in his arms, then stepped halfway into it, covering the lower half of the baby with fire, but leaving it's face out in the air. The baby's color changed back to orange, then slowly flickered yellow.
+
+“It's not enough.” Ren said. “What does fire need to eat?” His eyes widened and he took out a piece of lumber. It burned up instantly, and he scowled. “Dammit, now what?” He thought. “Air! Fire needs air to breathe!”
+
+Ren put his finger in the baby's mouth to check for any obstructions, then performed CPR. A few seconds passed, and the baby started crying.
+
+“That's it! Cry!” Ren said and held the baby up. “Daddy's proud of you!” He froze at his words and then he looked at the baby. She had the same color eyes as him.
+
+“I'm... I'm a father.”
+
+“Wwwaaaa!” The baby cried, and Ren saw her color had become a little more yellow.
+
+“Now what... oh! Oil!” Ren held the baby in one arm and took out a flask of oil. It immediately burst into flames and the flask broke apart. “Goddammit!”
+
+The baby stopped crying and giggled. Ren looked at her and smiled.
+
+“Was it the flask you found funny, or me cursing?”
+
+The baby grabbed a finger on his hand.
+
+“Me, huh?” Ren said. “Okay.”
+
+He took out another flask of oil, it burst as well, and Ren let a string of curses out that the baby found absolutely hilarious. He held her out with both hands and smiled.
+
+“Daddy's little girl likes a potty mouth!” He said, and did a raspberry on her tummy. She laughed and laughed as he did it over and over. The ball of fire shrank slightly and Ren kept the baby half in it. Once he had a moment to think about food, he smacked himself in the forehead and the baby laughed again. Ren turned the shield around and absorbed the Grip of Earth enchantment from it, then enchanted it with a double Wind glyph (8 runes total). The baby's color went instantly to bright yellow and Ren laughed.
+
+“Yes! There we go.” He said, then watched as the baby grew into a toddler, and the ball of fire shrank a little more. It was down to 28 feet across, and Ren didn't know what to do when it was gone. Over the next 2 hours, the fireball continued to shrink as the toddler grew into a child. Ren told her stories to pass the time, and Teepo helped with stories about her mother. 6 hours later when the child grew into a teenager, Ren had his hands full as he tried to keep her in the fireball. It was now down to 25 feet across.
+
+“Honey, please.” Ren said, trying to convince her to stay in the fire. “I don't want you to starve.”
+
+“Daaaaaaad.” She rolled her eyes. “You don't need to babysit me. I'm almost as old as you are.”
+
+Ren concentrated on his Command Aura. “Get back in here, or I'll turn off the shield.”
+
+She huffed. “Fine.” She walked back into the flames. “There, happy?”
+
+Ren walked to her and gave her a hug. She was almost as tall as him now. “Your mother didn't say anything at the time because you came along so fast; but, I promised myself that I'd take care of you until you could take care of yourself.”
+
+“I can take care of myself.” She said, indignantly.
+
+“Not yet you can't.” Ren said. “Let me show you some things.”
+
+Over the next week, she grew into a fine young woman. Ren was surprised his Health bar didn't drop, even though he hadn't eaten the whole time he was there. He'd taught her the basics of everything he knew about fighting, construction, blacksmithing, and everything else she wanted to learn. She couldn't enchant, though; however much she tried. She was now slightly taller than her mother, and the fireball was down to only 5 feet across.
+
+“Dad, why are we staying in the fire?” She asked. “I know it's to feed me, but I can eat when I want now.”
+
+Ren smiled. “If you want the truth, I don't know.”
+
+She looked at him with surprise on her face. “You... you really don't know?”
+
+Ren shook his head. “I've told you the story. Your mother and I never got to talk about what would happen afterwards.”
+
+“Then why...”
+
+Ren took her hand. “If you want to know what I believe... I think this is the last gift your mother could give you.” He said. “Teepo and I found you in the center of it.”
+
+“You called?” Teepo said and flew over.
+
+“Uncle Teepo!” She said and held her hands out for him to land. “What did you see this time?”
+
+“You wouldn't believe it!” Teepo chittered in laughter. “I saw fire!”
+
+She snorted a laugh, scratched his carapace, and Teepo's back leg twitched back and forth.
+
+“I'm not doing that for you, Teepo.” Ren said and laughed. “You're enjoying it way too much.”
+
+Teepo chittered in delight. “Guilty.”
+
+She chuckled and held Teepo out to Ren, who put Teepo into the hood. Ren looked at the fireball and sighed.
+
+“What is it, dad?”
+
+“Your mother... her gift is almost gone.”
+
+“Dad.” She got a serious look on her face. “I never asked you this before; but, did you love mom?”
+
+“I'll tell you the same thing she told me.” Ren cupped her face. “If she'd found me years ago, everything I've done would have made a difference for her, possibly saved her, and made her time here more bearable.” He said. “If that had happened, I'm sure I'd have loved her just as much as I love you.”
+
+“Oh, dad!” She said, and hugged him. “I'm sure she'd have loved you, too.”
+
+“I know she would have.” Ren said as he was engulfed in her arms, then chuckled because his head fit under her chin. “You're getting too tall for me to hug you properly.”
+
+She laughed as she let him go. “Would you rather I knelt?” She asked and went down on one knee. “How's that?”
+
+Ren took her into a hug and kissed her forehead. “Yes, honey. That's perfect.”
+
+“You're going to have to leave soon, aren't you?” She asked, and looked up at him.
+
+“I'm sure something is going to happen when the fireball is gone.” Ren said. “I don't know what, though.”
+
+“Should I be scared?” She asked.
+
+Ren laughed. “You're the daughter of the Goddess of Fire. You don't have to be afraid of anything.”
+
+“But... but what about... water?” She asked, then shivered.
+
+He stroked her face. “I told you how to handle that.” Ren said. “Go hot. Burn for all you're worth! Water is only wet because you let it be. When you're hot enough, it can never touch you.”
+
+“But...”
+
+Ren grinned. “Watch.” He let her out of the hug, stepped out of the fireball, and walked several feet away. He pointed his Water Spray ring down the road and activated it for a second. Water gushed out for a moment, then instantly evaporated.
+
+Her mouth fell open. “DAD!”
+
+“What?”
+
+“You... you...” She swallowed. “You had that on you this whole time?”
+
+Ren walked back over to her. “I don't need to keep it, but it's come in handy a few times.”
+
+“You could have killed mother... or me... at any time.” She said in shock.
+
+He took her into a hug. “I'd never do that.” Ren said. “If I could have found a way for her to return to where she came from, I'd have done that.”
+
+“But... if you did that, then I...”
+
+Ren shook his head. “Don't second guess things that have already happened, or things you can't change.” He said and smiled. “Look to what you can do, and what can be done.”
+
+“But...”
+
+“I met your mother, we shared a wonderful time together, and here you are.” Ren said. “A fine young woman. Strong, independent, and willful.”
+
+She shook her head. “You can still tell me what to do.”
+
+“Only because I care about you and you care about me.” He said. “Just remember that no matter what happens, I'll always be ready to help you if you need it.”
+
+She smiled at him. “Thanks, dad.”
+
+“And you're not allowed to date until you're at least 200.”
+
+“Daaaaad!”
+
+Ren laughed. “I'm joking; but, you know how it is. You can't invite people here without them being immune to fire, and you can't go visit the other realm without everyone trying to kill you.”
+
+She sighed. “I know, dad.”
+
+He stroked her face. “Don't worry, I'll think of something.”
+
+“He always does.” Teepo offered. “It's not always good, though.”
+
+Ren chuckled. “Yeah, wood and oil burns when engulfed in fire. Go figure.”
+
+She laughed as she remembered him doing that several times as she grew up. “I can't believe you used to curse like a sailor at me.”
+
+“I distinctly remember a particular young lady that loved a potty mouth and couldn't stop laughing.” Ren said and smiled.
+
+“I've matured a little since then.”
+
+Ren nodded. “My little girl is growing u-.” His words were interrupted when the fireball shrank quickly. “Stay in it!” He said to her and she walked to the center. The fireball shrank down slowly, until it came to a point of light about an inch across. When it stopped shrinking, Ren sighed in relief.
+
+“Now what?” She asked.
+
+“Take it.” Ren said.
+
+“W-what?”
+
+“If I'm right, that's the gift your mother left you. Take it in your hand.”
+
+She looked at Ren for a moment, sighed and gently put a hand under the point of light. When she touched it, it glowed for a moment, then entered her chest.
+
+“D-d-dad. I feel funny.”
+
+“It's okay, honey. Don't fight it.” Ren said.
+
+She closed her eyes and took a deep breath, exhaled, and was engulfed in a bright glow. A moment later, the glow faded and she opened her eyes. They were no longer a copy of his own, and glowed just like her mother's did. The fire under her skin turned from a bright yellow to a bit of orange and yellow tips. She was also nearly 6 feet tall.
+
+“Oh... oh, my.” She said. “Mother... she loved me...”
+
+“Of course she did. You're a part of her.” Ren said. “A part of both of us.”
+
+“I know.” She said, and looked around with her new eyes. A few foxes and bunnies came over to her, and she held a hand out to them. They changed to liquid fire and slid up her arm. The flame flowed over her body and formed itself into a blouse and pants.
+
+“Is that better, dad?”
+
+“What?”
+
+“I was naked in front of you all this time, and you never said anything.”
+
+“I guess she left you her memories.” Ren came over to her, and gave her a hug. “I honestly didn't notice.”
+
+“She really regretted not getting to spend more time with you.”
+
+Ren smiled. “It was enough to make you, so she was happy at the end.”
+
+His daughter smiled. “She really was.”
+
+She let the hug go and held a hand out. Ren took it and she led him down the yellow fire road to the point he'd first entered the realm.
+
+“Thank you so much, Dad.” She let his hand go, and gave Ren a kiss on the cheek. “Thanks, Uncle Teepo.” She kissed his carapace, then smiled as Teepo chittered in delight. She waved her arm and a portal appeared.
+
+Ren motioned for her to bend close and he kissed her forehead. “If you ever need my help, or want to talk, or just want to scratch Teepo's back...”
+
+She laughed and stood up straight. “I'll send a portal right away.”
+
+Ren smiled, and bowed to her.
+
+“Dad!”
+
+“What?”
+
+You're my father! You don't have to bow!”
+
+Ren grinned. “I have to pay the proper respect to the Deity of Fire, honey.”
+
+She grinned and took him into a hug. With her hand behind his back, she formed a small bundle of fire and tucked it into his cloak.
+
+“Bye, Dad. Bye, Teepo.” She let Ren out of the hug.
+
+“Bye, Fire Dancer.” Ren said, walked through the portal.
+
+*
+
+“Hey! Who turned out the lights?” Lara asked.
+
+A portal made of fire appeared in front of her in the darkness, and Ren stepped out of it.
+
+“Ren! Where were you?”
+
+“Sorry, Lara... ah... Sage of Ages.” Ren said. “I didn't realize I'd be gone that long.”
+
+“What are you talking about?” Lara asked. “I just got back from delivering your books, and you weren't here.”
+
+Ren stared at her. Teepo! Then that means...
+
+“The last week and a half was only a few minutes here.”
+
+Ren sat down in his chair in shock. No wonder time wasn't kind to Fire Dancer!
+
+“Are you all right?” Lara asked.
+
+Ren nodded. “Yeah, I'm fine.” He said and sat there for a few minutes.
+
+“It's already been 2 weeks since we left there, Ren.” Teepo said, sadly.
+
+I know, Teepo. Ren thought. I know. He took a deep breath, sighed, and looked at Lara. “Thank you for all of your help, Lara.”
+
+She snorted a laugh. “I kind of don't have a choice now.”
+
+“What do you... oh, right.” Ren said and smiled. “I'll try to not bug you too much.”
+
+Lara sat down and grinned. “Yeah, that's not going to happen.”
+
+“What do you mean?” He asked.
+
+“Sage of Ages, remember?” She said and laughed. “Every little bit of info you want, you're going to bother me with it.”
+
+Ren chuckled. “Okay, I promise to limit myself in that regard. Is that better?”
+
+Lara closed her eyes. “Yeah, that's more reasonable.”
+
+He looked at her. “Can you tell the future?”
+
+She pointed a finger at him and opened her eyes. “Ha!”
+
+Ren rolled his eyes. “Sorry.”
+
+“That's okay.” Lara said. “It was a logical question; and no, I can't see the future.”
+
+“Then what...”
+
+“I can see possibilities.” She said. “If I saw the future, then everything that's happening now is set in stone and nothing can change it.”
+
+Ren nodded.
+
+“So. Are you going to tell me what happened?” Lara asked. “When I smelled sulfur and ash, I saw where it came from.”
+
+“You know those books I had you deliver?” Ren asked, and Lara nodded. “The Deity of Fire liked them so much she wanted to see me.”
+
+Lara's mouth dropped open. “Oh... my... god!” She closed her eyes. “Fire... fire everywhere. Why aren't you burning? There's a... a mountain of fire... it... oh my god!”
+
+She opened her eyes. “Don't say anything else!” Lara said. “I don't want to know what happened after it stood up.”
+
+“Okay.”
+
+Lara sighed. “How all of that happened in only a minute...” She shook her head. “Is there anything else I can help you with?”
+
+“Sure.” Ren said, and she chuckled.
+
+“Let's hear it.”
+
+“Tell me where Delthid Kulduhr, the Legendary Smith is.”
+
+Lara opened her mouth to speak, then unrolled the map with only water and land on it. She ran her finger from the water, through the city, and by Ren's estimation, to the Garrison. She went past that and into the wilderness about a thousand miles.
+
+“He's right there.”
+
+“Ren, that's the Land of Giants.” Teepo said.
+
+“Thanks.” Ren said. “I appreciate your help, Lara.”
+
+“Sure, Ren. No problem.” She said. “I hope you can find him.”
+
+“I should, eventually.” He said and smiled. “I'm too busy to chase down a thief right now, though.”
+
+Lara's eyes widened. “He has the Legendary Armor and Sword.”
+
+Ren nodded. “Bye, Lara.”
+
+She waved at him and he left the room.
+
+*
+
+“How is he finding all of this stuff?” Lara asked herself, then tapped her forehead a few times. “If I could fight, I'd level up and get better at this class.” She sighed. “No one wants a low level know-it-all-later magic user in their... party...”
+
+She jumped up and ran out of the room.
+
+*
+
+“Hi, Rosie.” Ren said as he left the hallway.
+
+“REN!” Rosie hollered, and her grandmother hissed at her. “No one's here, Grandma.”
+
+He walked over to her. “What's up?”
+
+“4 hooded figures were here looking for you.” Rosie said. “One of them pulled a sword out!”
+
+“No way!”
+
+Rosie nodded. “Of course, I kicked them out after that.”
+
+Ren nodded. “I'm glad.” He said. “You can't have people like that in a Library.”
+
+She grinned. “Thank you.”
+
+“For what?”
+
+“You understand how important these books are.”
+
+“Of course I do.” Ren said. “I'm just sorry I've been too busy to read anything lately.”
+
+Rosie nodded. “I get that way sometimes, too.” She said, then put a serious look on her face. “You be careful when you go outside, okay?”
+
+Ren grinned. “I didn't know you cared.”
+
+“Ren!” Rosie said, surprised.
+
+“I'm just kidding. I know you do.” He took her into a hug. “Thank you.”
+
+Rosie hugged him back and sighed. “You seem different.”
+
+“Really?” Ren asked, and let the hug go. “How?”
+
+“You're happier.”
+
+Ren was surprised for a moment, then he smiled. “I am.”
+
+“Can you tell me what happened in there?” Rosie asked.
+
+Ren shook his head as he understood what she meant. “Nothing happened between me and the Sage of Ages.”
+
+Rosie beamed a smile. “I knew you had better taste than that!”
+
+Ren grinned. “Yes, I do.” He said and gave her a kiss on the cheek. “Bye, Rosie.”
+
+She put a hand on her cheek, and blushed. “Bye, Ren.”
+
+He left the library and walked up the street. Feel like scouting a bit, Teepo?
+
+“Always.” Teepo took off and flew up the next street and hovered there. “Yeah, they're hiding between the buildings on either side of the street.”
+
+Should I avoid them or have some fun? Ren asked his friend.
+
+“I'd say fun.” Teepo said and landed on the corner of a building. “I see 2 swords, a knife, and a whip.”
+
+Armor it is. Ren thought and equipped his gold full plate armor, took out a bolt of cloth, dyed it back, and cut off a piece to make a poncho. It covered him from neck to foot, and he grinned as he walked around the corner and down the street.
+
+“Third building.” Teepo said. “They see you. Almost... almost... duck!”
+
+Ren ducked and rolled to the right as the whip snapped where his head used to be. He ended up kneeling next to one of the hooded figures and Ren punched him in the privates. The hooded figure gave a squeak, grabbed himself and dropped his sword, then bent over. Ren stood and gave him a knee to the face, then turned to the other hooded figure.
+
+The guy lunged with the knife to stab, and Ren let him come close. The knife hit the armor and broke off at the handle. Ren smiled and grabbed the guy's hand, twisted it around and put the arm in a lock behind the guy's back.
+
+“Ah... ah... ah!” The guy said.
+
+Ren recognized the voice, and leaned in close. “Hello there, Emanon.”
+
+“No, it's not me.” He said, then shook his head at what he just said.
+
+“Sorry for the nut-punch, Beltach.” Ren said and he pulled both of their hoods down.
+
+“S'okay” Beltach said when he caught his breath. “S'good shot.”
+
+Ren chuckled and the other two came across the street.
+
+“This is just business, Ren.” Emanon said, slipped another knife into his hand, and stabbed backwards. Ren pushed him towards the two new people and Beltach rolled out of the way.
+
+“Now!”
+
+The guy with the whip tossed a potion at Ren and he held an arm over his face. The bottle smashed and Ren was covered in fire.
+
+“Oh, no!” Ren exclaimed. “Fire! My... only... weakness!” He said, and fell to his knees dramatically. “Goodbye, cruel world!” He said and shook his fists in the air as Teepo chittered in laughter.
+
+“Geezus, get a load of this guy.” The whip guy said. “Over-act much?”
+
+The hooded figure with the sword laughed. “It's just an immolation potion. It covers you in fire and sucks all the air out of your lungs. It's not an incinerate potion that could burn you to death.”
+
+Ren stopped acting and looked at him. “Ooo, where can I buy them?”
+
+“I know a guy.”
+
+“How much?”
+
+“That one was 10 gold.”
+
+“That's not too bad. I want a couple of bottles.” Ren said and stood. “Better yet, I'd like to meet the one who made it.”
+
+“That'll cost ya.”
+
+Ren chuckled. “Yeah, I'll give you a finder's fee.”
+
+“Sweet.”
+
+“Hey!” The whip guy said. “We're supposed to be kidnapping him, not making deals with him!”
+
+“Who said I couldn't make deals with him?”
+
+Beltach shook his head. “Have any of you noticed that the potion isn't doing what it's supposed to do?”
+
+The fire was sucked away and Ren smiled as he knocked on his own armor.
+
+“Protection.”
+
+“Well, shit.” The sword guy said.
+
+“Do we have anything else?” The whip guy asked.
+
+“We shouldn't have needed anything else.” Emanon said, and sighed as he took out another dagger. “We'll have to do this the hard way.”
+
+“Wait.” Ren said as the group got ready to fight. “You're taking me to Tristan, right?”
+
+The 4 guys looked at each other in surprise, and Emanon turned to Ren.
+
+“Yeah.”
+
+“Okay.” Ren said, as Teepo landed on his shoulder. “I'll come along peacefully.”

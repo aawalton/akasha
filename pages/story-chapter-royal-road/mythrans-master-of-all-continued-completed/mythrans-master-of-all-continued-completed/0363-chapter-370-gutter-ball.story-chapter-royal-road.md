@@ -1,0 +1,385 @@
+---
+id: a394338d-c38b-5115-a6b0-f22372f395f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 370 - Gutter Ball"
+slug: 0363-chapter-370-gutter-ball
+partOf: mythrans-master-of-all-continued-completed
+position: 363
+ownLength: 4042
+unit: words
+publishedAt: 2017-09-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164429/chapter-370-gutter-ball"
+royalRoadId: "164429"
+---
+
+Barbara took Ren to the workout room and they saw Donald working over the heavy punching bag. Ren stood up and thought about what Donald said about walking like a duck, and he was determined not to do that anymore. He took several deep breaths, clenched his butt cheeks, and started walking. It was slow going, because he had to concentrate on what parts of his foot were hitting the floor; but, even with having to expend more energy to do it, it was actually easier to walk.
+
+Ren let that feeling fill him up as he walked. He didn't let anything distract him as he kept going, and he made it to almost 50 feet before his pace started to falter. Despite his determination, his energy reserves were just too low to walk very far without some kind of support. He pushed on, and spent the last of his energy to touch the 75 foot mark on the floor, then he eased himself to the floor and sat down. When sitting up seemed to be too hard, he laid back on the floor and stared up at the ceiling as he tried to calm his heavy breathing.
+
+Both Barbara and Donald had watched Ren as he struggled that last little bit, but neither of them had tried to help him. They knew he had to reach that goal by himself, and they let him. Now that he was finished and laid on the floor, they moved in to offer their support.
+
+“You did really well.” Barbara said and handed Ren a supplement drink. Ren took a drink and looked at her.
+
+“That's... not water.”
+
+Barbara smiled. “Donald reminded me that you tend to guzzle plain water.”
+
+Donald nodded. “You did good, kid... but next time, quit at the 50 foot mark.”
+
+“Wh-what?”
+
+“I was watching you closely. You started to lose it there.”
+
+Ren sighed and nodded.
+
+“Then that's where you need to stop.” Donald said. “Pushing yourself can be good in some cases, which is why we let you do it this time.” He said. “You needed to know how far you could go on your own, and this is the extent of your ability... for now.” He smiled. “You keep doing 50 feet for a while. Get a consistent record under your belt, then try to go to 55 feet. If you can do that, then...”
+
+Ren nodded. “Slow... and steady... wins the race.”
+
+Both Donald and Barbara nodded. They let Ren rest for a while, then Barbara brought over the wheelchair and helped him get in it. Ren reached into the side pocket on the chair and took out his hand exercisers to squeeze them for a while, and watched Donald take a turn on the walking track.
+
+“Barbara, go and join him.” Ren said.
+
+“But...”
+
+“I'm not going anywhere.” Ren said and smiled at her.
+
+“All right.” Barbara said and walked over to wait for Donald to pass her on his next lap, and joined in. “Do I have to give you the same advice?” She asked her husband.
+
+“What's... that?” Donald breathed.
+
+“Pace yourself and don't rush. Do what you can, not what you think you can.” Barbara said and smiled.
+
+Donald laughed. “I love you, too.”
+
+Barbara held a hand out for him, and he took it and slowed his pace. After that, it became a leisurely walk that the both of them enjoyed. When they were done 10 minutes later, they were only a little sweaty and had a good exercise.
+
+“How are things going?” Stella asked when she came into the room.
+
+“We were just finishing up.” Ren said and put his hand exercisers away. “I really need a shower, too.”
+
+“Then I'll take you back to your room and you can use that enormous bathroom to clean up.” Stella said.
+
+“That's a great idea.” Ren said and looked at Donald. “It usually takes me a while to get a shower, then I usually stay in bed to recover.” He said. “You've got this place all to yourselves.”
+
+Donald looked at him with raised eyebrows, and was pretty sure he was suggesting what he thought he was suggesting.
+
+“Let's go, Stella. I'm starting to stink up the place.” Ren said and grinned. Stella chuckled and pushed his wheelchair to the door.
+
+“Don't worry, I'll get you all cleaned up before Lisa gets here.”
+
+“Great!” Ren said and the two of them left Donald and Barbara alone in the large workout room.
+
+*
+
+Donald watched through the glass wall as Stella pushed Ren out of sight, then he turned to his wife.
+
+“You know, they've got a huge shower here.”
+
+“Excuse me?” Barbara said and looked at her husband with surprise on her face.
+
+“They even have soap dispensers.” Donald said and grinned at her.
+
+“Donald... you know it's going to be awkward...”
+
+“And sexy.” Donald said.
+
+“More like flabby.” Barbara said and chuckled. “I don't think we've ever...”
+
+“Then there's no time like the present.” Donald said and started to walk backwards towards the locker room, and dragged her by the hand.
+
+“Donald...”
+
+“If you don't like it, we can always keep our hands to ourselves.”
+
+“You should keep your hands to yourself anyways.” Barbara said, but she couldn't hide her smile. Donald led her to a locker, and he stripped off his sweaty clothes. She watched him as he did it, and when he pulled off his underwear, she saw he was quite excited.
+
+“D-Donald!”
+
+“You're falling behind.” Donald said and unzipped her top. Barbara stood there, kind of stunned, and let him undress her. He slipped off her top and hung it in a locker, then reached around her back to unhook her bra. When he fumbled it a couple of times, she took pity on him.
+
+“You never could work them right.” Barbara said and reached back to unhook it in one motion.
+
+“Damn blasted things getting in the way.” Donald said and kissed her. They wrapped their arms around each other, and made love right there.
+
+*
+
+“So, do you think they took the hint?” Ren asked Stella as she pushed his wheelchair into the bathroom.
+
+“That wasn't much of a hint.” Stella snorted a laugh. “You pretty much just told them to go have sex.”
+
+“But did it work?” Ren asked and stood up. He was still a little shaky after exhausting himself, but he managed to get undressed by himself.
+
+“I'm sure they're in the throes of passion right now.” Stella chuckled. “Now get your butt on the step stool.”
+
+Ren nodded and stepped into the shower, then sat down with a sigh. “I really pushed myself today.”
+
+“How far did you get?” Stella asked as she got undressed.
+
+“75 feet!” Ren said. “All by myself, too!”
+
+“You're going to be weak for a while, then.” Stella said and stepped into the shower with him. “You're not going to be very good company for Lisa when she gets here.”
+
+“Well, considering I only planned to take her on a tour of the place and not screw her brains out... I should be okay.”
+
+Stella laughed. “You shouldn't say things like that.”
+
+“To you?” Ren asked as she scrubbed him. “Stella, you're the only one I can literally say anything to, and you won't judge me.”
+
+“Really?” Stella asked. “I thought I was pretty judgmental when you logged out this morning.”
+
+Ren chuckled and put a hand on her face. “You were just trying to make a point.”
+
+“And did you get my point?” Stella asked.
+
+“I did.” Ren said. “Not only do I have to be careful of how I interact with people, I have to think of their feelings and how they interact with each other, too.”
+
+Stella made that little 'o' of surprise because he actually got it, and Ren gave her a quick kiss.
+
+“What was that for?”
+
+“Your only concern is still for my welfare, even when you think I'm acting stupidly.” Ren said. “You deserve a lot more than a kiss for that, but I'm too tired right now to go down on you.”
+
+“Oh, Ren.” Stella said and laughed. “Is that all you think about?”
+
+“Are you kidding?” Ren asked her. “You're delicious, and I can't get enough of seeing you like that.” He said and closed his eyes. “The curve of your hips, the shape of your thighs, that little bump of your pelvic bone that I can only see when I look up at you from that vantage point.” He sighed and opened his eyes to look at her. “I know you're not going to believe me when I say this; but, I've never seen a more desirable sight.”
+
+Stella didn't know what to say to such an admission, because no one had ever said anything like that to her before.
+
+“That's saying something, especially since I've seen Elise naked.” Ren said, and Stella knew what to do then. She laughed.
+
+“Ren...”
+
+“Nurse! Help! I'm swollen again!” Ren said and grinned. He had scrubbed himself while Stella had washed him everywhere else. Stella glanced down and then back up at him.
+
+“I think I better leave that for a certain someone that will be here soon.”
+
+“But it misses you.” Ren said and she laughed again.
+
+“If it still needs some attention later, let me know.” Stella said and rinsed him off. “You need to relax for now, not have fun.”
+
+“I know.” Ren said and stood up. “I just wanted to make you laugh.”
+
+“Oh, yeah? What if I'd taken you up on your offer?” Stella asked as they stepped out of the shower, and she put a towel on the edge of the tub for him to sit on.
+
+“I'd probably be asleep by the time Lisa got here.” Ren said and chuckled. “She'd be angry if I was, I think.”
+
+“No doubt.” Stella said and dried him off. “Are you really going to have a talk with all of us about... well, all of us?”
+
+Ren nodded. “I don't want to do anything without having you all know about it.”
+
+“And what is it that you want to do?”
+
+“My personal maids in the game.” Ren said.
+
+“Really?” Stella looked at him. “I talked to Elise, and they're pretty much indentured servants to you.”
+
+“I know.” Ren said. “I've never treated them like that, though.”
+
+Stella handed him a bath robe. “That doesn't matter, Ren.” She said and he sat in the wheelchair. She pushed him out to his bedroom and to the dresser. “If you sleep with them without their consent...”
+
+Ren laughed. “You're joking, right?” He asked her. “They've wanted me to sleep with them since we met.”
+
+“They have?”
+
+Ren nodded. “They've been very vocal about it.” He said. “In fact, I think I'll have to do up a video of how many times they've said so.”
+
+“That many times?”
+
+“That the footage captured.” Ren said and smiled. “A lot of times they were topless and the blue screen blocked everything.”
+
+Stella chuckled. “I can't believe you sleep in a bed with 5 topless women.”
+
+“They're only topless because I made them wear underwear.” Ren said and grinned at her.
+
+“You don't mean... really?”
+
+Ren nodded. “They don't normally wear clothes when they go to bed.”
+
+“You'd think that would be uncomfortable.”
+
+Ren shrugged and stood up to dig through his dresser. “I've always had my underwear on, so I wouldn't know.”
+
+Stella watched as Ren took off the bathrobe and slipped on the silver-blue underwear, then he opened the cabinet and took out the same color pyjama set.
+
+“Shouldn't you wear something more appropriate... like actual clothes?”
+
+Ren chuckled. “I look good in this, though.” He said. “Plus, it matches my eyes.”
+
+“Are you sure?”
+
+“Trust me. Lisa is going to drool all over me when she sees it.” Ren said and slipped the pants on.
+
+“Is that what you want?” Stella asked. “For her to drool all over you?”
+
+“Actually, what I want is for her to let herself drool all over me.” Ren put on the top and turned to let Stella button it for him.
+
+“What do you mean?”
+
+“She has a lot more confidence in herself when she's playing the game.” Ren said. “I want her to have some of that in real life.”
+
+“She's pretty confident to come all the way here to visit a guy she only met online.”
+
+Ren smiled. “That's bravery, not confidence.”
+
+Stella blinked her eyes at him, because once again he had surprised her. The phone by the bed rang and Ren picked it up.
+
+“Thanks.” Ren said a moment later and hung up. “Lisa's here.”
+
+“Then we better get down to the front door.” Stella said.
+
+Ren sat in the wheelchair and Stella pushed him out of the room, down the hall, and to the elevator. It was a quick ride to the ground floor, and they made it to the door just in time. The doorbell rang, and Ren stood up to open the door.
+
+When the door opened, Lisa saw Ren wearing silver-blue pyjamas that matched his eyes. Her face lit up with a big smile, because she knew he must have worn them just for her. She had timed her arrival for after his normal physical therapy session, and he looked freshly showered. She stepped inside, put her backpack down, and took him into a hug.
+
+“Hi, Lisa.” Ren said and held onto her.
+
+“Hi, Ren.” Lisa said and leaned back in their embrace. “You look handsome.”
+
+“Too handsome to kiss?” Ren asked, and she laughed.
+
+“Are you that eager to lock lips with me?” Lisa asked and looked him in the eyes.
+
+“If you can stand it.” Ren said and grinned.
+
+“I think I can endure it.” Lisa said and pressed her lips to his. It wasn't like the kiss they had in the game before they had logged out, since that one was more rushed and urgent. This one was a slow burning one, and Ren caressed her back as they kissed. Lisa warmed up to his touch and added a little tongue, and they both started to get into it.
+
+Stella waited for a few moments, so they could greet each other; then she coughed to get their attention. Lisa sighed and stopped kissing Ren, then let him go.
+
+“I just need to close the door.” Stella said, and Ren chuckled.
+
+“Sorry, Stella.” Ren said and sat down in the wheelchair. “I guess I could have waited until Lisa actually came into the house before I assaulted her tonsils.”
+
+Lisa laughed and stepped out of the way. “I'm sorry, too.” She said. “It hasn't been that long since I kissed him in the game, and yet...”
+
+“Was it any different?” Stella asked as she shut the door.
+
+“Now you've done it!” Ren said and grinned. “You've piqued Stella's interest!”
+
+Stella snorted a laugh. “I'm not that bad.” She said and went behind the wheelchair. “I would like your thoughts on a physical relationship compared to the virtual one, though.”
+
+“Really?” Lisa asked.
+
+Stella nodded and started to push Ren across the lobby. Lisa picked up her backpack to hang on the coat rack, then walked fast to catch up with them.
+
+“It's definitely a thrill doing things in the game.” Lisa said. “I mean, we can all do things that...” She looked at Ren. “...no offence, but... you can do a lot in the game.”
+
+Ren winked at her, and she blushed.
+
+“I meant the physical sensations.” Stella said and stopped at the elevator. “When you kissed in the game, did it feel a certain way? Then when you just did it here, did it feel different?”
+
+“Yes, but...” Lisa stopped talking to think about it. “Um... the kisses themselves were different.”
+
+“That's what I was thinking.” Ren said and the elevator arrived. “The one we did in the game was... I don't know... more urgent, maybe?”
+
+“Yes!” Lisa said and they stepped into the elevator and she hit 2. “We were kind of rushed, and we'd just...” Lisa's face flushed even more red.
+
+“For me, that last kiss was like stepping into a warm bath.” Ren said. “I felt like I just wanted to bask in it all day.”
+
+Lisa's face went dark red as the elevator went up to the second floor.
+
+“We could do an experiment with two identical kisses, one in VR and one out; but, I think you're right. Each kiss is different, especially in different environments.” Stella said a little sadly.
+
+“Lisa? Would you like an actual tour of the place?” Ren asked and pointed. “How about a bit of bowling to start?”
+
+“Wait, you weren't joking about that?” Lisa asked, and Ren shook his head. She opened the door and saw the 4 lane bowling alley, a counter with racks of shoes behind it, a small canteen full of candy, candy bars, and fountain pop.
+
+“This is unreal!” Lisa said. “Do you really want to play?”
+
+“I'll have to sit this one out.” Ren said. “I pushed myself a little too hard this morning.”
+
+Lisa put a hand on his shoulder. “You just want to watch my butt when I bend over to throw the ball.”
+
+“I can't believe you found me out so easily.” Ren said and she laughed.
+
+“You're lucky I wore pants, then.” Lisa said. “I wouldn't even think about doing this with a skirt on.”
+
+“Me, either.” Ren said. “I don't have the legs for it.”
+
+Lisa and Stella laughed, and they went over to the counter.
+
+“Everything is brand new.” Lisa said and went behind the counter. She found a pair of bowling shoes for herself and left her own sneakers in it's spot, then she looked at Stella.
+
+“Size 9.” Stella said and passed over her own sneakers.
+
+“I never realized you has such big feet, Stella.” Ren said. “Geez, you think you know a person.”
+
+“Quiet, you!” Stella said and shook her fist at him. “They're women's 9.”
+
+“There's a difference?” Ren asked.
+
+“There sure is.” Lisa said and took the sneakers. “You don't think women buy men-sized clothes, do you?”
+
+“I... ah... never really thought about it.” Ren said. “You show up looking pretty like you do, and I'm too busy staring at you to wonder where you bought your clothes.”
+
+Lisa turned around so he wouldn't see her face as she blushed again, and exchanged Stella's shoes with bowling ones. She took a quick breath to calm down, and turned back around to give the shoes to Stella.
+
+I don't know why Ren saying stuff like that makes me embarrassed. Lisa thought while she put on the bowling shoes she had picked for herself. Maybe... maybe it's because... he wasn't actually complimenting me. She thought and walked around the counter towards the lanes, then her face went red again. He thought he was just stating facts.
+
+Stella pushed Ren over to sit at the score-keeping table, and Ren moved from the wheelchair to the seat. He looked over the thing in front of him, and it was a big pad with several pencils, and a control panel at the top. Ren hit the 'START' button, and television screens lit up at the ends of the lanes and showed the pins from above, and he could hear the machines in the back.
+
+“Cool.” Ren said and wrote down the names of the two competitors on the sheet. “All right! This is it!” He said in a deep announcer voice. “It's time, once and for all, to decide who will be the ultimate victor!”
+
+Stella and Lisa looked at him with wide eyes.
+
+“Will it be the supreme cuteness of Lisa that wins the day, or will it be the smouldering sexiness of Stella that will prevail?”
+
+“Are you saying I'm not sexy?” Lisa asked him.
+
+“Of course not.” Ren said. “But... look at Stella. Tell me she isn't sexy.”
+
+Lisa looked at the taller woman. “Okay, I have to grudgingly admit that you're right.”
+
+“Ren...” Stella started to say.
+
+“Stella, you yourself said Lisa was really cute, correct?”
+
+Stella smiled and looked at Lisa. “I did.”
+
+“You did?” Lisa asked, and Stella nodded.
+
+“Play to your strength's ladies!” Ren said. “You can both be cute and sexy, but you're competing now! It's an epic fight! Tooth and nail! A battle for the ages!”
+
+“You're really milking this, you know.” Stella said, and Lisa chuckled.
+
+“I know!” Ren said and grinned. “Leave no skill unused! No trick is taboo!”
+
+“Oh, geez.” Lisa said and tried not to laugh as Ren raised both hands in the air and shook them.
+
+“LET IT BEGIN!” Ren yelled and cupped his hands over his mouth and made crowd noises and screaming fans. “LET IT BEGIN!”
+
+“I think he's losing it.” Stella said and laughed.
+
+“Oh, definitely.” Lisa said and pulled her pants up even tighter than they were. “If he's losing his mind anyways, we might as well give him a show he'll never forget.”
+
+“I knew I liked you.” Stella said and unzipped her top halfway. “Let's do this.”
+
+Both women walked over to the farthest lanes, which were candle pin bowling lanes and only had bowling balls the size of softballs. They didn't have holes for fingers and were just solid weights.
+
+“Oh, these balls might be too heavy for me.” Stella said and bent over to pick one up from the ball return trough. Her top bulged open to show off her chest and her bra. Ren stared at her chest because it almost fell out of her top, and it was a quite unexpected treat.
+
+“Oh, Stella!” Lisa gasped and knelt on the other side of the ball return. “Let me get that for you!”
+
+Lisa's gasp had caught Ren's attention and he stared as she kept her hands on one of the balls, then she straightened her legs. It raised her backside up into the air, and she swayed her butt from side to side, almost hypnotically.
+
+“You're right, they might just be too heavy!” Lisa said and looked over her shoulder to see Ren's reaction. She almost laughed at his shocked expression. His eyes flitted from one sight to the other, and the pencil he was using rolled off the table and fell to the floor. He had involuntarily let it go because a lot of his brain processing power had suddenly disappeared and it left him dumbfounded.
+
+“I'll go first.” Stella said, lifted the bowling ball easily, and threw it down the lane. It knocked down 9 pins, so she picked up another ball and knocked down the last one. She walked back to the ball return and put her hands on her hips, which pulled her top open even more.
+
+“Did you get that, Ren?” Stella asked.
+
+“Wh-what?” Ren looked at her face. “Get what?”
+
+“I knocked 9 pins down, then picked up a spare.” Stella said.
+
+“Um... right.” Ren said and tried to mark the sheet with an empty hand. “Oh. I think I dropped my pencil.”
+
+“I'll get it.” Stella chuckled and knelt down beside him to pick it up. She looked at Ren's face to try and catch him staring at her chest, and she saw that he was staring at her face instead. She handed him the pencil and stood up.
+
+“Thank you.” Ren said to her, and Stella knew he wasn't just thanking her for the pencil. She nodded and went back to stand beside Lisa.
+
+“My turn.” Lisa said and picked up a ball. She wiggled her butt a little to show off, took two long strides, and whipped the ball right down the middle of the lane. It smashed into the pins barely 2 seconds later and scattered them all. “Yes!” She said and jumped up and down several times, and her tight pants highlighted her backside wonderfully. When she turned around, Ren saw that her pants were quite tight on the front, too.
+
+“Oh... oh my.” Ren whispered.
+
+“I got a strike!” Lisa said excitedly, and Stella took the cue and gave her a hug. When they both started to jump up and down, Ren dropped the pencil again.

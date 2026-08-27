@@ -1,0 +1,275 @@
+---
+id: 760f7d55-5433-5e00-82c5-c6cf5eab082c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 299 - Almost Done"
+slug: 0290-chapter-299-almost-done
+partOf: mythrans-master-of-all-continued-completed
+position: 290
+ownLength: 3148
+unit: words
+publishedAt: 2017-07-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146470/chapter-299-almost-done"
+royalRoadId: "146470"
+---
+
+Frikara walked over to Ren's avatar and snapped her fingers in front of his face.
+
+“I thought he said he was leaving.” Lusinia said. “He's just sitting there.”
+
+“Yeah, some Adventurer's business.” Navruth said. “It looks like he's just sleeping sitting up.”
+
+Frikara looked at the other maids for a moment, then lightly touched Ren's face. He didn't react, so she leaned in and kissed him.
+
+“Nothing.” Frikara said. “He actually is 'gone'.”
+
+“He could just be ignoring you.” Andrela suggested.
+
+“I don't think he is.” Verwynn said and sat beside him. She wrapped both of her arms around one of Ren's, then laid her head on his shoulder. “No man can resist the Girlfriend Arm Hug.”
+
+“Let me try.” Lusinia said and did the same thing with Ren's other arm. “You're right, Frikara. There's no reaction.”
+
+“There's no point in trying to tease him if there's no effect.” Frikara said. “You can let him go.”
+
+“Actually, this is kind of comfortable.” Verwynn said. “He might not feel anything right now, but I can.” She smiled. “I'm staying right here.”
+
+“If Verwynn can stay; then I am, too.” Lusinia said. “He's still warm.”
+
+“I'm not letting you two have him all to yourselves.” Frikara smiled. “Move over a bit.”
+
+********
+
+Ren woke up and slipped off the VR headset. “Hi, Barbara.”
+
+“Hi, Ren.” Barbara said. “So, are you going to apologize for hiding on me in the game?”
+
+“Nope.” Ren chuckled. “And before you start to lecture me about it, the blue screen was only because the maids were topless. We weren't actually doing anything... besides trying to sleep.”
+
+“Well, you did end up staying with your ram all night after you rescued her.” Barbara said. “Can I ask why you did that?”
+
+“I didn't want Princess to wake up in a strange place with no one around her.” Ren said. “Plus, it kept me out of the bed with the maids.”
+
+Barbara chuckled. “Are they a little too much for you to handle?”
+
+“No, but I don't want to encourage them, either.” Ren said. “It's best if they get used to me not being there at night.”
+
+Barbara nodded. “That's good.” She said. “Everyone will be happy about that.”
+
+“As long as I can keep it up, everyone will be happy.” Ren said, then his face flushed a deep red. “That sounded really bad out loud.”
+
+Barbara laughed. “I knew what you meant.”
+
+“How did Donald like the house?” Ren asked. “You two spent a lot of time in there.”
+
+Barbara's face flushed almost as deep a red as Ren's, and she smiled shyly. “He... likes it a lot.”
+
+“I'm so glad.” Ren said. “If he had said no... I... I wouldn't know what...”
+
+“He said yes, though.” Barbara said. “We'll be moving with you in a few days.”
+
+“That soon?” Ren asked. “I thought... I mean, it's great that you can; but, what about selling the old place?”
+
+“My sister has it listed already.” Barbara said. “I called her right before coming here.”
+
+“You're kidding!” Ren said. “She works fast.”
+
+“She'll be making a huge commission tomorrow when you sign the papers.” Barbara chuckled. “She's doing the listing of my house pretty much as a thank you.”
+
+“I hope you get a good offer.” Ren said and climbed out of bed. “Bathroom break.”
+
+Barbara stood by the bathroom door in case he needed help, and Ren did his business and came back out. He climbed into bed and used the laptop to send an impassioned email to the tech department about the error on his Honor gains in the dwarf kingdom, then looked at Barbara.
+
+“So, what are we watching?” Ren asked her.
+
+“Anything you want.”
+
+“We always do that.” Ren said. “What do you want to watch?”
+
+“Well, there's this show...”
+
+For the next hour, Ren tried to wrap his brain around a television show that could take an old fairy tale and change everything about the characters. The history, circumstances, looks, and even how the characters acted was different, and he couldn't understand why it was still allowed to be called the same name.
+
+“Okay, that was weird.” Ren said. “I mean, I get the premise. I understand what's happening; but, that was nothing like what it's supposed to be.”
+
+Barbara laughed. “It's supposed to be a modernization of the story.”
+
+Ren shook his head. “It's more like an alternate history.” He said. “The pivotal point that made the original story happen, didn't happen in this one; and we're seeing what happens afterwards.”
+
+“That's a neat way to look at it.” Barbara said. “I just enjoyed the drama.”
+
+Ren smiled. “You must love watching me sometimes.”
+
+“I do!” Barbara said. “It's the best show on television that's not on television.” She said. “Only, it's on television now, so I can't say that anymore.”
+
+Ren nodded. “What else do you want to rot my brain with?” He said and chuckled. Barbara changed the channel to another of her guilty pleasures, and Ren shook his head as a pile of inventors competed against each other in a game show like gauntlet. At the end was a contract for $100,000 to help them launch their product. For the remainder of the time he had, he and Barbara explored the wonders and horrors of late-night television. When 3 o'clock in the morning rolled around, it was time for Ren to go back in.
+
+“I'll see you in the morning.” Ren said as Barbara passed him the VR headset.
+
+“You don't have to.” Barbara said. “You need to get some sleep.”
+
+Ren smiled. “I'll sneak a few hours in later today, but I have to log out in the morning.” He said. “The house papers could be here at any time, and Lisa is coming to visit.”
+
+“Ren, I thought I didn't need to have a talk with you about having relationships with even more women.”
+
+“You don't.” Ren said. “It's already happened. She's just coming to see if she feels the same way in real life.”
+
+“Really?” Barbara asked. “That's a little odd, don't you think?”
+
+“Kind of.” Ren said. “But, I think... no, I'm sure... that she just wants to come and visit.” He smiled. “If anything sparks between us, it would just be icing on the cake.” His mouth watered. “Mmm, black forest cake.”
+
+Barbara laughed. “See you in the morning.”
+
+Ren slipped the headset on.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch and the 5 maids were gathered around him. They were almost in the same positions as they were on the bed. He had one maid on each arm, with their arms wrapped around his, and they sat on the couch. He had one maid on each leg, with their arms wrapped around, and they sat on the floor to either side on him, and the last had wrapped herself partially around his waist and rested her head on his stomach.
+
+I guess they wanted to make sure that I was cuddling them when I got back. Ren thought with amusement.
+
+“Good morning, Ren.” Teepo said from the hallway. “Nothing happened during the night.”
+
+Good morning. Ren thought. Thanks for keeping up the patrols to make sure I'm safe, even though we're on a ship now.
+
+“I like staying busy.” Teepo said. “The ship was pretty quiet all night.”
+
+I'm glad. Ren thought to his friend. How much time before breakfast?
+
+“You've got about half an hour before early breakfast, or an hour and a half before actual breakfast.” Teepo said. “Either way, you can relax a little.”
+
+I think I'll go for the normal breakfast time. Ren smiled. I don't think I could move just yet, not without causing a maid avalanche.
+
+Teepo chittered in laughter. “I'll wake you up if it's necessary.”
+
+Thanks. Ren closed his eyes and went to sleep.
+
+*
+
+“We've got a third of the miners on each shift working on that gold ore vein.” The mine foreman said to the supervisor. “We can't spare anyone for this thing.” He motioned to the large deposit of copper. “If you can believe it, we'd actually lose money trying to mine it.”
+
+“What?” The supervisor said. “How?”
+
+“We can mine copper ore, iron ore, or gold ore now.” The mine foreman said. “We make a fortune with the iron ore, even with House Neram taking a third of the daily ore for personal use.” He explained. “We're mining the gold mainly for capital, and stockpiling what we don't sell to the government to convert to actual currency.” He grinned. “We're making a fortune on that, too.”
+
+“And copper is too cheap to bother with, because there's almost no demand and the time can be used to make actual money.”
+
+“Right.” The mine foreman said. “The miner who found this actually gave up his right to mine it exclusively.” He smiled. “He told me that he can make more on his break from mining gold than he could mining copper ore.”
+
+The supervisor laughed. “Okay, I'll mark the deposit and add it to the pending column.”
+
+“I really wish Ren was here.” The mine foreman said. “He'd dig it all up himself.”
+
+“But you just said...”
+
+“He might have been working off his sentence officially; but, he didn't care about the money.” The mine foreman said. “He just enjoyed mining.”
+
+“He's an odd fellow.” The supervisor said and then grinned. “Just like us.”
+
+The mine foreman laughed.
+
+*
+
+An hour and twenty minutes later, the personal maids woke up.
+
+“Ugh.” Andrela said. “My neck is a little stiff.”
+
+“My leg is stiff, too.” Frikara said. “I thought it was a good idea at first.” She stood up and stretched. “We're going to be a little sore all day because of this.”
+
+“It was worth it.” Lusinia said as the rest of the maids stood up and stretched with Frikara, so she stood up as well. “We finally got to wake up beside him.”
+
+“Yeah.” Verwynn said. “It's just too bad he'll never know that we did.”
+
+“But I do know.” Ren said as he opened his eyes.
+
+“Ahh!” Navruth exclaimed and hopped a little. “Geez, warn us before you speak!” She said. “That scared me!”
+
+Ren chuckled. “How would I warn you without scaring you?” He asked her, and she scowled at him.
+
+“How long have you been here?” Frikara asked.
+
+“Over an hour.” Ren said and stood up. “When I got back, everyone was already cuddling me.” He said and smiled. “I didn't even have to do anything except sit there.”
+
+“You denied me again!” Frikara said. “We wanted to cuddle, and you let us think that you... you...”
+
+“I didn't want to wake you up, just so you could fall asleep again.” Ren said. “It's bad enough I only had about an hour of sleep.”
+
+Frikara sighed. “Next time, you better wake us up.” She said. “We want you to cuddle us back, okay?”
+
+Ren nodded slightly. “I would have done that this morning; but for some reason, I couldn't move my arms.” He grinned at Lusinia and Verwynn. “That's just an observation, though. I'm not complaining about it.”
+
+“You see! He can't resist the Girlfriend Arm Hug!”
+
+“Is that what it was?” Ren asked her. “I've never had that done to me like that before.”
+
+“We were the first!” Lusinia and Verwynn looked at each other and smiled.
+
+“I'm glad you're happy.” Ren said. “Now, who wants breakfast?”
+
+All 5 personal maids raised their hands, and Ren got to work. He made french toast for everyone, with a helping for himself and a huge helping for Princess. He even made a few slices for the fire elemental and for the short captain, to make up for what happened for the day before.
+
+Ren left the maids in his cabin and went to the cabin beside it, where Princess was. He gave her a plate of french toast, and she took her time with each and every piece.
+
+“I'd comment on how demure you're eating, but you're doing it to make fun of me complaining that you eat too fast, aren't you?”
+
+You know me well. Princess thought, then sucked up the last piece and swallowed it whole. Ren laughed and gave her the second plate of french toast, and fed 2 pieces to the fire elemental. It sucked them into it's body, burned brightly for a second, then the french toast was gone. The room was filled with the smell of them, though.
+
+I have to remember that trick. Ren thought, and left the room to find the short captain. He was actually in his cabin, even though it was during breakfast time. Ren gave him the french toast, then went down into the cargo hold to work.
+
+*
+
+“Look at this!” The short captain said as he walked back over to the cook, who was naked in his bed. “I've never seen food like this before.”
+
+“Give it here.” She said, and examined it. “Well, that's interesting.”
+
+“What's in it?”
+
+“Only a few simple ingredients.” The cook said. “Why hasn't anyone else thought about making toast like this?”
+
+“There always has to be a first one.” The short captain said. “Are you going to taste it?”
+
+“No.” She said. “He made it in his room, so you know it's going to be awful.”
+
+The short captain shook his head and took a small bite out of one of the slices. “By the gods.” He said and took several huge bites, chewed them up, and shoved the rest of the piece into his mouth. “Oh, that's delicious!”
+
+The cook laughed. “You're just teasing me, now.”
+
+“I'm not!” He said and tore off the corner of the next piece. “Eat!”
+
+The cook shook her head. “It's not clea-glum!”
+
+The short captain shoved the corner of the piece into her mouth, and she had no choice but to eat it.
+
+“Godsdammit.” The cook said. It is delicious. She thought, then took the rest of the piece of french toast to eat it.
+
+*
+
+Now that Ren had access to a forge again, it was time he solved the farmer's problem. Using the cart pattern as a base, Ren designed a farm vehicle with 4 wheels. It had several of the large farming attachments that he'd seen in that farming book that Rosie had loaned him. One for plowing, one for poking holes in the ground for seeds, and one for dropping the seeds. Ren added levers to raise and lower the different attachments.
+
+Next was the gathering turnstile for the front. It was essentially a large comb that lifted the plants, and several turning blades could shear, trim, or pluck vegetables. He put that on a lever, too; just so they could harvest vegetables under the ground if they wanted. It wasn't a perfect design, but Ren didn't have the time to play with it and see what needed to be changed.
+
+Ren adapted Teepo's design for it; and added 8 large spring coils. The wheels each took a coil, then he put the other 4 coils into the 'engine'. With gears set up to give lots of power and torque, Ren changed the key mechanism that was used for winding it up, into a pedal and gear system instead. He added small spring coils for each attachment that needed to turn or rotate, then tied them all together. When you used the pedals, it turned the gears, which turned other gears, that coiled the springs in the 'engine', then those coils coiled the coils for the wheels and the attachments. It wouldn't take long to get them all tight and full of potential energy; then with the push of a button, the farm machine would go.
+
+Ren added levers to control the left and right side wheels, just like a tank. To go right, you slow the right side and increase the speed of the left; to go left, you did the opposite and slowed the left side and increased the speed of the right.
+
+With the plans finalized, Ren got to work. The first delivery that morning was a huge shipment of ore, so Ren had lots of ore to work with. He used some of what was in the smelter already to make the frame of the vehicle, then filled the smelter with ore again. While he waited for it to simmer, he made parts of the farm vehicle out of wood; like the sides, seat, and anything else that didn't have to be metal. For several hours, Ren made large molds for the big gears that would be needed, and he filled them. Axles, braces, brakes, tips of the levers, hinges, and everything else that was needed to be made.
+
+The first one always took the longest to make, because you had to make the tools you needed to make the pieces to make the machine. Once the tools were done, however; all you needed to do after that, was use them. The hardest part was making the large spring coils. It took a lot of steel to make them, and then they had to be folded over several times. When he had finished the last one 2 hours later, he sat down and sighed.
+
+“I really, really hope this works.” Ren said as he took a break for the first time that day. He waited several minutes, and thought about the best way to assemble it; then decided that an 'inside to out' policy was the best. He started on the inside and assembled the engine first, then worked his way out. The last things he added were the wheels and the attachments. The barge arrived at the side of the ship with the last of the cement bags and ore that were to be delivered. The hold was nearly full, and the deck hands unloaded the barge quickly.
+
+“There you are, Tee-one.” Ren said as he stored the last of the molds. “I have two more tasks for you.”
+
+“I can't store the farm vehicle.” Tee-one said. “It'll have to be brought to the farm out in the open.”
+
+“Just cover it in cloth.” Ren said. “Everyone will wonder what it is, but they won't actually know.”
+
+“Good idea.” Tee-one said.
+
+Ren took out the scroll that Lara had given him a while ago. “I could never deliver this myself to House Lodur mines after they changed the mine foreman; but, I couldn't trust anyone else with it either.”
+
+“I'll deliver it right after the tractor.” Tee-one said. “I can't believe you haven't read it.”
+
+Ren smiled. “It's not for me to look at.”
+
+“I should be back just before supper.” Tee-one said and left on the barge again. Ren waved to him and went back up to the top deck and to his cabin, to start preparing the food for supper.

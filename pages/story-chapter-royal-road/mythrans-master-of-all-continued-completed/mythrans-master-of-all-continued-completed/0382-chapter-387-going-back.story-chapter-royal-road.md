@@ -1,0 +1,267 @@
+---
+id: c7f6acb4-1c20-5e46-93a1-85d85097624b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 387 - Going Back"
+slug: 0382-chapter-387-going-back
+partOf: mythrans-master-of-all-continued-completed
+position: 382
+ownLength: 3218
+unit: words
+publishedAt: 2017-10-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167677/chapter-387-going-back"
+royalRoadId: "167677"
+---
+
+After a very successful evening with the Queen of the Dark Elves, Ren accompanied her to the throne room. It was already full of witnesses, and Ren did a quick head count.
+
+There's a lot more here today than there was yesterday. Ren thought. I don't see, or feel Grimlow, though.
+
+“My Queen!” The attendant said from beside the throne when they entered the room, and everyone gave the Queen a bow. Lylyth had expected Ren to feel envy for her getting all of the recognition; but, she could feel that he was just happy to be there with her and didn't mind being ignored at all.
+
+You're a strange one. Lylyth thought, and Ren looked at her and smiled. You didn't hear that, did you?
+
+Ren's expression didn't change, and she realized he had just felt the change in her emotions.
+
+I'm so glad you can't hear my thoughts. Lylyth sighed. They are not a place for someone like you to be lost in.
+
+“My Queen, how did it go?” One of the people in the audience asked. Lylyth stopped in front of them, with Ren beside her, but one step back.
+
+I didn't tell him to do that. Lylyth thought and smiled at the people in front of her. “You will all be happy to know that I am well and truly sated.” She said with confidence. “Not only did he feed me the best meal I have ever had, but he was also the best bed partner I have ever had.”
+
+“She must enjoy them small.” Someone whispered, and a giant spider leg formed beside Lylyth and it darted into the crowd. It's tip speared a woman's throat, and Ren heard her gag. It had been the woman that had spoken the day before, and he thought the punishment was appropriate.
+
+“The next time someone disrespects me or the Royal Consort, I'll take their head instead of just their voice.” Lylyth warned them, and she glanced at Ren when she felt his approval. Why isn't he shocked? She asked herself, and brought the large spider leg close to him to see what he would do at the sight of the blood.
+
+Ren saw the leg approach him; but, he knew it wasn't going to harm him and remained calm. I wonder if they are attached to her in the same way as when she fully manifests, or if it's just a phantom limb that can appear wherever she wants it to? He asked himself and watched in fascination as the giant spider leg passed close by his face and then disappeared.
+
+He's not horrified, or even worried about it. Lylyth thought. Who is he that he can stay calm like this?
+
+“Do you have emotional proof, My Queen?” Someone asked, and Ren found the man. He had been concealed before within the throng of people, and now was prominently out in front and close to the action.
+
+“I do.” Lylyth said and sent out a very small sample of the pleasure she had received the night before.
+
+“That's... not very reassuring.” The man said.
+
+“My Queen.” Ren said to get Lylyth to look at him, and held a hand out to her. “If I may?”
+
+Lylyth blinked her eyes for a moment, then took his hand.
+
+“I can't share with everyone, so please relay this.” Ren said. He thought back to the night before and the pleasure Lylyth had experienced, and he compressed a good portion of it into a single burst and shared it with her. Lylyth caught her breath as her very own feelings were shoved back into her and were relayed to everyone within her Aura.
+
+Every single woman gasped as they experienced Lylyth's pleasure second-hand, and the men all had odd looks on their faces. It had lasted for only a moment, since Ren didn't think they would all sit through the entire experience, so he only shared the highlights of the evening with them.
+
+“That... was unexpected.” The man said. “It is proof she was sated in bed.”
+
+Lylyth nodded.
+
+“What of the meal? Was it satisfactory?”
+
+“It was... divine.” Lylyth said, and let some of it out. She had consumed a lot more than she had intended, and Ren hadn't been sucked dry; or even showed the telltale weariness or emotional detachment that everyone else had.
+
+“He seems unharmed.” The man said.
+
+“He is quite resilient.” Lylyth said.
+
+“Was his Terror that fulfilling, with him unbroken?”
+
+Lylyth stopped breathing and didn't respond, and Ren felt her reaction.
+
+Why is she worried? Ren asked himself. I fed her well.
+
+“Was it a true feeding if you didn't even taste his Terror?”
+
+“I...” Lylyth looked at Ren. “I didn't have to scare him to feed.”
+
+“I'm sorry, My Queen.” The man said. “Unless you feed fully, his attempt has failed.”
+
+“I did feed fully.” Lylyth looked at the man and at everyone gathered. “I even regained my Mana weapon ability.”
+
+Everyone gasped, even the men, and they stared at her as she formed a large bow out of Mana and generated an arrow, then shot it across the room and it slammed into the wall and exploded.
+
+That would have been a neat ability to gain. Ren thought. That's definitely not a standard weapon.
+
+“It's impressive, that's true.” The man said. “But, according to your own precedents, unless he's been terrified it cannot be a true feeding.”
+
+Lylyth sighed.
+
+“I'll take the 10 lashes, then.” Ren said.
+
+“No.” Lylyth said and turned to face him. “You didn't break your word, and I was fed quite well.”
+
+“Not according to whoever that guy is.” Ren said.
+
+“Then give me your terror.” Lylyth said, and Ren shook his head. “Ren, let me at least taste it.”
+
+“No.” Ren said. “I experienced it myself, and I don't want to share that with anyone.”
+
+“I can... make you... experience terror.”
+
+“No, you can't.” Ren said. “Nothing you can do can even compare to...” He shook his head. “No, I won't even speak of it.”
+
+“Ren...”
+
+“I'd rather take the lashes than let you experience what I went through.”
+
+“You don't have a choice.” The man said. “She's the Queen, and this is her realm. You agreed to feed her, and she must feed on Terror.”
+
+“What I did yesterday with you here in the throne room didn't count?” Ren asked and looked at all of their faces. “A lot of you fed very well, including the Queen.”
+
+Spiders all along the walls tapped their front legs on the stone, and it sounded like Teepo's chitters. They hadn't reformed the wall of spiders like he thought they would. After several moments, the man sighed.
+
+“Unfortunately, you made your deal after that.” The man said.
+
+“I can do it again.” Ren said, and he felt a ripple of remembered Terror go through the audience.
+
+“Ah, no... that's... it has to be your Terror for the Queen.”
+
+“You're not going to let this go and let me take the lashes, are you?” Ren asked Lylyth.
+
+“No, dearest.” Lylyth said and knelt. “It would undo everything that's happened, including your defeat of Grimlow.”
+
+“Where is he, by the way?” Ren asked. “I don't see him.”
+
+“He lost too much Influence yesterday to appear in the throne room.” Lylyth said.
+
+“I didn't take it, did I?” Ren asked.
+
+“No, his boasts and posturing came to naught, and his Influence suffered for it.”
+
+Ren nodded, and then sighed. “Do you really want my Terror?”
+
+“No, you and I both know that I don't need to feed from you like that.”
+
+“Then...”
+
+“I will have things changed; but until then, please... give me at least a little.”
+
+“I can't.” Ren said. “If I open that up...” He sighed. “If I let it out...”
+
+“I'll be gentle.” Lylyth said.
+
+Ren shook his head. “I'm the one that won't be.” He said and glanced at the others in the room. “Are you going to relay, or are you going to keep it all to yourself?”
+
+“A bit of both.” Lylyth said.
+
+Ren closed his eyes and sighed. “I really don't want you to feel this.”
+
+Lylyth leaned down and gently kissed him. It was odd, since he was so much smaller than her, and she was careful to only touch her top lip to his mouth and her bottom lip touched his chin. Ren opened his eyes to look at her when he felt surprise from the audience, and he caressed Lylyth's face. She pulled back and smiled at him, and he nodded.
+
+Lylyth had kissed him publicly, which was something she never would have done if he didn't mean a lot to her.
+
+“I hope you're ready for this.” Ren said and took several deep breaths, then put both of his hands on Lylyth's face. “I know you normally feed on things like this, but you are not going to like it.”
+
+“Let me worry about that.” Lylyth said. “I'm ready.”
+
+Ren shook his head. “No, you aren't.” He said and touched his forehead to hers, then thought back to his earliest memory. He had believed it was a dream for years; but, once he had experienced his memories in the game, he realized his dreams were just repressed memories themselves and that was why his dreams scared him so much.
+
+“Here it comes.” Ren said and closed his eyes as he replayed his first dream memory for her.
+
+It was the one where he was only 6 years old and had been hiding in the corner of the room, between two pieces of equipment, and a spider crawled onto his neck. He was hiding because he didn't want to be experimented on again, and then he had heard his father's voice.
+
+A burst of terror came from Ren, and everyone in the throne room gasped. There were no emotions as pure as that of a child, and Young Ren was so scared of his father. When the man entered the room, Young Ren froze and stopped breathing.
+
+“I know you're here.” His father said, and another burst of terror went out. “It's okay, Ren. I won't hurt you.”
+
+Young Ren knew it was lie, because every time he saw his father, that was all he ever did.
+
+“I know where you are.” His father said, and another burst of terror went out. “There's only one spot to hide in this room.”
+
+Young Ren looked up and saw his father's evil grin, and then the man's hand reached for him.
+
+“NOOOOOOOOO!!!!” Young Ren screamed, and an ocean of pure Terror filled the throne room.
+
+Because Ren was funnelling everything through Lylyth, and she was sharing it with her subjects, something inside of her clicked. The ocean of Terror went to the next room, then the several rooms after that, then through the tunnels, and eventually the entire realm felt it. All of her subjects fell to their knees and cried as they felt the pure and unfiltered emotions of a terrified child.
+
+“G-Great V-Vasalor.” Lylyth whispered as the ocean of Terror receded, and tears streamed down her face. “H-how... how can you...”
+
+“I told you.” Ren said and opened his eyes, then leaned back slightly. “There's literally nothing you can do to me to cause enough Terror to ever match what I've already experienced.”
+
+Ren looked around, and saw that he and Lylyth were surrounded by spiders of all sizes. They all had a limb touching either him or Lylyth, and had all shared in the terror. Ren's own spider had come out of the cloak and was on his neck. It pat Ren's cheek with one of it's front legs, then crawled back inside the cloak.
+
+With the Terror gone, the group of spiders dispersed back to the spots they had been before Ren's trip down memory lane, and Ren saw the audience was on their knees.
+
+“I... I believe that... that will do.” The man who had spoken before said. His face matched Lylyth's, and was the same as everyone else. They were all streaked with tears, and no one even tried to wipe them off. “All in favor of naming him the Royal Consort, say 'aye'.”
+
+“Aye.” Everyone said together.
+
+“Those against, say 'nay'.” The man said, and no one spoke. “Confirmed.” He said. “Ren, you have proven yourself worthy of being in the Queen's presence, and have earned the title of Royal Consort.”
+
+Notice!
+
+You have gained a new title: Royal Consort (Dark Elf Queen). This title grants you membership in the Dark Elf Court and unlimited access to the Dark Elf Underworld. Hidden access points will be revealed to you when you are near them. Dark Elves, even when in disguise (magical or otherwise) will be known to you.
+
+Because of the overwhelming nature of your ascendancy, you have been granted a bonus.
+
+Tithe: Once a month you may choose to receive either a silver coin or one emotion from your loyal subjects.
+
+Notice!
+
+Your connection to the Queen of the Dark Elves has grown stronger. She can consume full emotions directly from you, instead of only sampling. You may choose how much you wish to share with her.
+
+“I'm a member of the court now?” Ren asked and looked back at Lylyth.
+
+“A non-voting member.” Lylyth said. “You're a little biased in my favor.”
+
+“What gave you that idea?” Ren asked her, and he felt her surprise, then he laughed. “Just kidding.”
+
+Lylyth shook her head and stood up, and Ren felt her change into regal mode. “You have served me well, Royal Consort.” She said and smiled. “With your task done, I will send you back.”
+
+“Wait!” A woman's voice said, and the healer ran over to him. “Please, accept my Tithe.”
+
+“You don't have to do that.” Ren said.
+
+“What would you like?” The healer asked, and ignored his statement. “I've been saving up in case the Queen decided that-”
+
+“I don't need money.” Ren shook his head. “I would rather an emotion if you're going to give me something.”
+
+The healer nodded. “I'll give you back what you made me feel.”
+
+“Thank you.” Ren said and prepared his ability.
+
+The healer took his hand so he would get the whole thing, and sent him an emotional tornado. Ren chuckled as he felt happiness, sorrow, terror, sexual satisfaction, giddiness, worry, desire, and a deep sense of anticipation. His eyes widened at the last feeling, and he leaned in close to whisper in her ear. Since she was about his height, she was quite short for an elf.
+
+“It was only supposed to be one emotion.” Ren whispered softly, so only she would hear. “What was the anticipation for?”
+
+The healer put her mouth by his ear and whispered, too. “The Queen gave me permission to make myself available to you, but only after she had fed.” She breathed. “I was worried she would have drained you completely and I would be left with nothing but a husk; but, you are versatile and much stronger than I or anyone else could have imagined.”
+
+“But...”
+
+“I am available to you, Royal Consort.” The healer said and gently kissed his ear. “If you so desire.”
+
+Ren wasn't sure why he was quite turned on by the prospect. He'd had women offer themselves to him before; but, this time he could feel what the healer felt. Her desire and a little bit of unrequited love was a potent proposal, even to someone that had slept with more women than he ever thought possible. He knew that she could feel what he felt, so he held onto her hand and used his other hand to cup the side of her face.
+
+“I do desire you, and I am tempted.” Ren said and kissed her cheek. “I don't know if it can ever happen, though.”
+
+“My Lord, that someone as low as myself is even noticed by you, is more than I could ever have hoped for.”
+
+Ren felt that she was telling the truth, and her happiness because of it tasted so good. The healer knew she was giving him a lot more than just her Tithe, and then her face lit up as Ren kissed her. He wasn't sure what had happened; but when their lips met, some kind of dam opened inside of the healer. She offered up everything she was feeling, and Ren took it.
+
+Unlike every other time someone used their ability, Ren wasn't greedy. He brought up all the times he'd made out with other women and how much he enjoyed it, and gave it to the healer. She moaned as they kissed and shared emotions, and then her ability leveled up.
+
+The healer broke the kiss with a gasp. “Hah... ha... My Lord!” She said and kissed him again as she wrapped her arms around him tightly. Ren could feel how happy he was making her; and since that was one of the things that made him happy, their make-out session went on for several minutes.
+
+Lylyth watched with fascination as Ren and the healer continued to make out and share feelings with each other, and it didn't look like it was going to stop anytime soon. She was surprised that she could feel the emotions Ren was feeling twofold. She felt them physically since he was standing right in front of her, and she could feel the full emotions through her connection to him.
+
+Lylyth knew he needed to get back, so she had to intervene. Ren and the healer felt Lylyth's presence suddenly, and it snapped them out of the emotion loop they had become caught in. They broke the kiss at the same time and looked at each other with similar surprised expressions, and then Ren chuckled. Of course, the healer felt his amusement and started to laugh as well, and then they both laughed out loud for almost a full minute.
+
+“I'm... I'm sorry.” The healer said between laughs. “I.. I just...”
+
+“Me, too.” Ren said. “You're a great kisser.”
+
+“You are, too.” The healer said and her dark grey skin flushed darker. “Thank you for...”
+
+“Oh, no. Thank you.” Ren said when he felt her embarrassment, and gave her a quick kiss. “That felt really good, especially after... that.”
+
+The healer nodded, and she ducked her head slightly. “You're welcome.”
+
+They let each other out of the embrace they had, and the healer stepped back.
+
+“If you're done, shall I open the portal now?” Lylyth asked, and Ren took out another step ladder and climbed to the top of it.
+
+“Not without giving you a goodbye kiss first.” Ren said. He kissed her several times on the lips, and since her lips were twice as big as his, he made sure to cover as much of them as he could. He felt her amusement at his attempt to kiss all of her lips, and looked at her.
+
+“You know, you could have...”
+
+“Let's just keep that a secret.” Ren said and gave her one more kiss, then climbed down and stored the ladder. He gave her a regal bow. “Until the next time, My Queen.”
+
+Lylyth nodded to Ren and created a portal, and the healer gave him a little wave. He waved back and stepped through the portal.

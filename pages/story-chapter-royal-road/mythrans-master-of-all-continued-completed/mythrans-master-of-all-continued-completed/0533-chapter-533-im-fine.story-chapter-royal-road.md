@@ -1,0 +1,327 @@
+---
+id: 22092ddd-febe-518d-9c75-13e38023e804
+page-type-slug: story-chapter-royal-road
+title: "Chapter 533 - I'm FINE"
+slug: 0533-chapter-533-im-fine
+partOf: mythrans-master-of-all-continued-completed
+position: 533
+ownLength: 2841
+unit: words
+publishedAt: 2018-03-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/202755/chapter-533-im-fine"
+royalRoadId: "202755"
+---
+
+Stella knew exactly what to do, and she always kept the proper supplies nearby in case of emergencies. She had everything at hand to deal with the situation properly and did her best to stop Ren from choking on his own tongue while he was having the worst seizure of his life. She started to worry as the seizure went on and on, much longer than even a Grand Mal seizure would have.
+
+Good god, I... I hope this isn't my fault for logging him out like that. Stella thought as she cradled Ren in her lap. His shaking and tremors had eased down some when she had touched him, so she had climbed onto the bed and held him like Xuunah had in the game. Little did she realize that it was her choice in phrasing that had led to Ren's horrendous reaction and not being forcefully logged out.
+
+When Stella told him to remember everything that happened to him, all of the mental blocks that were in place inside Ren's head were removed. The ones his psychiatrist had placed there to protect her clients, which included his parents, from being implicated in his case and being prosecuted, disappeared. Those weren't the ones to cause the seizure, though.
+
+It was the ones that Ren had placed in his own mind himself to protect his fragile young mind at the time of the experiments. When those barriers dropped, all of his memories came flooding back. Pathways inside his mind opened up, and every neuron in his brain was on fire from the flood of memories.
+
+********
+
+“I'll go and check on him to see if he's okay.” Officer Holly said, and knelt by Suzie's body. She looted it and stored the items, then she sat down and logged out.
+
+********
+
+Officer Holly slid off the VR headset and put it aside as she sat up. “I hope he's okay.” She said and picked up her cell phone. It was Saturday, and she was glad that she had booked the whole weekend off instead of taking the single day that she normally would have. She dialed the number for Ren's place and waited.
+
+*
+
+The phone rang beside Ren's bed and Stella picked it up without thinking.
+
+“Hello?” Stella said into the phone, absently.
+
+“Stella, this is Holly.”
+
+“Holly?” Stella looked at the now blank television screen. “Thanks for protecting him.”
+
+“Forget about that.” Officer Holly said. “How is he?”
+
+“Recovering from a major seizure.” Stella said.
+
+“Oh, god.” Officer Holly said. “Was it the forced logout?”
+
+“I hope not, but with the hypnotic state Ren was in...”
+
+“Is he going to be okay?”
+
+“I don't know.” Stella said. “I won't know anything until he wakes up.”
+
+“I'm going back in to stay with his avatar; but, I'll pop out every hour to see if his condition changes.”
+
+“I'll send a message when he wakes up.” Stella said. “Thanks, Holly.”
+
+“I'll send over my copy of the footage, just in case Ren's is altered or corrupted in some way.” Officer Holly said. “It's good to have corroborating evidence anyway.”
+
+“Thanks.” Stella said. “Bye, Holly.”
+
+“Bye.” Officer Holly said and hung up.
+
+“Intercom!” Stella said as she went to hang up the phone, and hit the button. All the phones in the house rang as one, and Elise, Denise, Lisa, and Barbi picked them up at the same time and spoke together.
+
+“Hello?”
+
+“It's Stella on the intercom.” Stella said. “Ren's had a seizure.”
+
+They all hung up the phone in the parts of the house they were in, and ran to either the stairs or the elevator on the floor they were on. They rushed to Ren's room and arrived to see him cradled in Stella's lap.
+
+“What happened?” Elise asked as she approached the bed cautiously.
+
+Stella told them what had happened, and Elise brought up the footage on the laptop.
+
+“No, she... why would she...” Denise shook her head. “How could she do that to him?”
+
+“It kind of tips her hand, doesn't it?” Elise said. “Whatever this next case is, it must be very important for her to risk so much by getting to Ren this way.”
+
+“It's not important at all.” Barbi said, and everyone looked at her. “I've been going over everything Elise gave me and consolidating Ren's schedule, and the next court case isn't for another month and it's only for a patent dispute.”
+
+“A what?”
+
+“I don't have all the details.” Barbi said. “I'm not that deep into prepping for my job yet, since it's a month away.”
+
+“Forget about that!” Stella said. “Just give us the basic info you do know.”
+
+“It's between two rival tech companies, and their rights over a microchip that was developed by the two men who run those companies.”
+
+“If Gloria was here, she'd know them off by heart.” Lisa said. “She knows all about that stuff.”
+
+Stella nodded. “She would... but... why is Ren on the witness list?”
+
+“We gave the lawyers that folder full of information.” Elise said, making the connection. “It had several people inside related to tech development...”
+
+“...which included people involved in Ren's experiments.” Stella finished the statement. “They're probably calling on Suzie to vouch for Ren's state of mind.”
+
+“Either then when it happened, or now with all the evidence coming to light.” Elise said. She sat down next to the bed and touched Ren's hand, and his hand gripped hers tightly. “Ow!”
+
+“Ren! Let her go!” Stella said.
+
+“N-n-no.” Ren mumbled, and everyone froze. “L-love... h-her.”
+
+“Ren, please.” Stella pleaded. “You're hurting her.”
+
+“Pain... makes you... feel alive.” Ren said and opened his eyes. “Paper.”
+
+Denise passed over a piece of paper and a pen from the dresser. Ren let Elise's hand go to take them, and scribbled something down. Stella watched as he made a short list of 5 medical ingredients, and then he handed it to her.
+
+“Make.”
+
+“Ren, those things don't go together.” Stella said.
+
+“My... head... hurts.”
+
+“I know it does, sweetie.”
+
+“Fix it.” Ren said and held up the note.
+
+Stella shook her head. “That won't do it.”
+
+“Trust.”
+
+“Ren, I trust you.” Stella said. “It's not going to do anything.”
+
+Ren frowned at her, then looked at Denise and held the list out. “Make!”
+
+Denise took the list and read it, and she sighed. “Stella's right, Ren. This doesn't make sense.”
+
+“MAKE! TRUST!” Ren yelled.
+
+“Okay, okay! Calm down.” Stella said. “Denise, go in my room and look in the refrigerator. Check and see if I have all of that. If I do, go ahead and make it.”
+
+“Cy... cy... s-spinny thing.” Ren said.
+
+Denise nodded and left the room at a quick walk, and Ren looked at Elise.
+
+“S-sorry.” Ren said and held a hand out, and she took it. He sighed heavily and closed his eyes.
+
+“Elise, call Barbara and let her know what's going on.” Stella said. “She should be up by now.”
+
+Elise called and explained what happened, and no one spoke as they waited for Barbara to show up and for Denise to come back.
+
+*
+
+“I'm going to kill whoever that was!” Suzie said as she pulled off her VR headset. “I was so close to having Ren stay away from court!”
+
+“Is dying supposed to hurt so much?” A man asked, and Suzie looked at him.
+
+“Thanks for guarding me.” Suzie said. “If you hadn't taken that first hit...”
+
+“I'm sorry it didn't stop them from killing you.” He said and took her hand. “What are we going to do now?”
+
+“It won't take much to discredit him in court, considering the state his mind is in.” Suzie said. “Both then and now.”
+
+“Why didn't you just leave it at that?” The man asked. “Why risk what you did today?”
+
+“It was worth a shot. If I had gotten him under my control again...”
+
+“You're so greedy.” The man said. “You just wanted a mind that you can manipulate at will.”
+
+“It's such a wonderful playground!” Suzie said excitedly. “All the experiments, all the pain he went through...” She smiled. “It's a joy to travel through his mind each and every time I enter it.”
+
+“You're a really sadistic bitch, aren't you?” He asked and smiled.
+
+“Only when I'm around such delicious minds.” Suzie said and got up from the recliner. “Have the tech people delete the records and destroy my headset.”
+
+“Why?” The man asked. “They know it's you.”
+
+“Do they?” Suzie grinned. “All they saw was a man change into me and speak in my voice.” She said. “Who's to say it's not just an elaborate ruse on some nefarious person's part?”
+
+“But... it's your headset.” He said.
+
+“Registered under a man's name and played as a man the entire time.” Suzie said and chuckled. “God, I love psychological games!”
+
+*
+
+Barbara came into Ren's room at a run, and stopped when she saw him on the bed. “Oh, Ren.”
+
+“M'okay.” Ren mumbled without opening his eyes. “Help... soon.”
+
+“What do you need me to do?” Barbara asked.
+
+“Denise...”
+
+It was then that Denise came into the room with a small vial of clear liquid, and she walked over to the bed and held it out.
+
+“It's done.” Denise said, and Ren opened his eyes.
+
+“Barbara... give me... needle.”
+
+Everyone gasped.
+
+“Ren! I can't do that!” Barbara said. “You hate needles!”
+
+“Please... need.”
+
+Barbara quickly walked over to the bathroom and came out with a packaged needle. “What's in the solution?”
+
+Denise gave Barbara the list of 5 items and she read them quickly.
+
+“Ren, this...” Barbara shook her head. “Where do you want it?”
+
+“Neck.” Ren said and touched a spot near the corner of his jaw. “Ten... cee cees.”
+
+Barbara opened the needle package and plunged the tip of the needle into the vial. She pulled out 12cc of the clear liquid and handed the vial back to Denise. She went to the bed and grabbed a tissue, then squeezed out 2cc to leave the proper amount inside and to get any excess air that might be trapped inside the tip of the needle.
+
+“Close your eyes, Ren.” Barbara said as she felt around Ren's neck to find the large blood vessel there. “I don't want you to see me doing this.”
+
+Ren closed his eyes and Barbara took a steadying breath as Denise used an alcohol wipe to clean the area. Barbara gently inserted the needle into his neck and emptied it, and Denise handed her another cleaning pad and a piece of gauze. Barbara held it in place to stop any blood from coming out, then applied the small bandage Denise handed her.
+
+“Barbara, you know that cocktail is meaningless.” Stella said. “The ingredients don't make sense.”
+
+“Not to us.” Barbara said. “But to Ren? It might mean everything.”
+
+“What do you mean?”
+
+“You missed it, didn't you? You didn't understand what it means.”
+
+“Understand what?”
+
+“Ren shouldn't know what those ingredients are, let alone be able to spell them and then tell us to combine them.” Barbara said, and everyone fell silent again. “He's seen it before.”
+
+“How?” Denise asked. “We've never mentioned anything like those in front of him before.”
+
+“No, you haven't.” Ren said in his normal voice. “It's a special recipe my mother invented for me, to ease the effects after I have one of my seizures.”
+
+Everyone stared at him with wide eyes.
+
+“It doesn't do anything for the pain, however.” Ren said as he looked back at everyone.
+
+“I can get you...” Stella started to say.
+
+“No, I don't want to be unconscious for the next few hours.” Ren said to cut off her offer. “I have to think about what I need to do first.” He took in a sharp breath and hissed as his whole body tensed up, then a moment later he relaxed.
+
+“What do you mean?” Elise asked.
+
+“Thanks to Stella's poorly worded wake up phrase, I've got my memory back.” Ren said. “All of it.”
+
+Stella gasped and tears flowed down her cheeks as she started to cry. “Your seizure was my fault!”
+
+“It was.” Ren said, and pat Stella's hand to console her. “It's also given me back my faculties, because I can remember everything that's happened to me.” He said. “I'm trying to decide if I want to make an official deposition right away while it's all still fresh in my mind, or get something to eat first and go back into the game to sort through all of my memories before I do.”
+
+“Eat.” Barbara said. “If you do an official deposition, we'll have to take you down to either the police station or to the courthouse, and that could take several hours.” She said. “Since I don't want you to move after that large of a seizure, you are staying right where you are.”
+
+Ren looked up at Stella, because his head was cradled in her lap, held Elise's hand, and looked around at everyone. “Yes, ma'am.”
+
+“Supper is in the oven.” Stella said. “The roast should be done by now.”
+
+“I'll get it.” Denise said and put the vial of clear liquid on the dresser by the bed. “I'll make the gravy, too.”
+
+“I'll cut the potatoes into fries.” Barbara said and put the cap on the needle, then slipped it into her coat pocket.
+
+“Mmm. Gravy fries.” Ren said and started to drool. Barbara and Denise left the room, and Lisa sat down on the side of the bed.
+
+“Are you okay?” Lisa asked.
+
+“No.” Ren said. “I'm in quite a lot of pain.”
+
+“You should take something for it.”
+
+Ren shook his head. “I'll be able to ignore it when I log back in.”
+
+“Can you log back in?” Lisa asked. “If you've got your memories back, your brain might not register as it did before.”
+
+“I'll probably have to do a... calibration test.” Ren paused and winced as his arm twitched. “Barbara was right. I can't go anywhere like this.”
+
+“I guess that means no sex for you tonight.” Elise said, and Ren smiled.
+
+“Not in real life.” Ren said. “Why don't you come into the game and we can have some fun?”
+
+“Right now?”
+
+Ren chuckled. “No, not right now.” He said. “I've got a few things to deal with first to finish out this game day, and then something that evening.”
+
+“So after that, then.” Elise said.
+
+Ren nodded. “I'll meet you at your place in Aurora.”
+
+“Okay.” Elise said. “As long as you're up for it.”
+
+“Believe me, I'll be up for it.” Ren waggled his eyebrows up and down. “Pun intended.”
+
+Elise chuckled.
+
+“I'll go and give Barbara a hand.” Lisa said and stood up.
+
+“I'm logging back in after supper, and I can spare a few minutes when I get back to my county.” Ren said. “If you want to meet.”
+
+“Sure, I'd like that.” Lisa said and left the room.
+
+“Only a few minutes?” Stella asked. “You're kind of short-changing her, aren't you?”
+
+“Not at all.” Ren said. “She knows what a few minutes in the Sanctuary means.”
+
+“Are you sure you don't want anything?” Stella asked.
+
+“Pain and I are old acquaintances.” Ren said. “I can't say friends, even though we've known each other for so long.”
+
+Elise shook her head. “How can you joke like this?”
+
+There was a beep from the laptop and Elise checked it.
+
+“That should be the corroborating video from Officer Holly.” Stella said, and Elise nodded.
+
+“I can't believe Suzie would manipulate Ren like that.” Elise said. “It's a bit blatant, isn't it?”
+
+“She probably thinks she can explain it away by saying it was someone else.” Stella said. “She probably doesn't realize that I was there during her last session with Ren and I just heard her use the exact same phrases to put him under hypnosis.”
+
+“It's always the same phrases.” Ren said. “Why try to drill into my head with multiple ways when just one works so well?”
+
+“Can we undo it?” Elise asked, and both Stella and Ren sighed.
+
+“I don't want to have yet another person rummaging around in my head.” Ren said and looked up at Stella. “Stella did great by copying Suzie's voice like she did to snap me out of it; but, she's not a trained psychiatrist.”
+
+“As my bumbling phrase clearly showed.” Stella said and wiped her wet face with a tissue. “I'm sorry, Ren.”
+
+“It's okay.” Ren said. “I'm still going to suffer physically for a few weeks from the seizure, then I'll be fine.”
+
+“You know I know what that really means.” Stella said and smiled.
+
+“Yeah, I'm a terrible liar.” Ren said and chuckled. “I really should keep my mouth shut when I try.”
+
+“Really?” Elise looked at Ren. “I always thought 'FINE' meant you were F'ed up, Insecure, Neurotic and Emotional.”
+
+Stella snorted a laugh. “How many times have we heard 'fine' as a response around here?”
+
+“All the time.” Ren said, and the three of them laughed.

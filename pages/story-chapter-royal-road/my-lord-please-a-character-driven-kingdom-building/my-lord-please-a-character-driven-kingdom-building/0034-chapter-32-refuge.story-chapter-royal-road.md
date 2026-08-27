@@ -1,0 +1,193 @@
+---
+id: aa51554c-8b91-5cd0-9a0f-abf37fb52773
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 Refuge"
+slug: 0034-chapter-32-refuge
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 34
+ownLength: 2177
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3282262/chapter-32-refuge"
+royalRoadId: "3282262"
+---
+
+Word had spread quickly through Ashridge once it became known that the lord intended to speak.
+
+No formal summons had been issued, yet the news had traveled across the village in the same manner most things did along the frontier.
+
+Bran had mentioned it to the farmers returning from the fields while Harlon had spoken of it among the laborers working near the southern palisade. At Joren’s forge, the matter had passed easily from one pair of hands to another, carried outward by men who paused only briefly at the warmth of the fire before continuing along the road.
+
+Before long, people began drifting toward the open space before the tavern.
+
+The gathering formed slowly at first, little more than small clusters of villagers standing along the roadside or near the wooden fence that bordered the square.
+
+Farmers arrived in their work coats still dusted with frost from the fields while laborers came from the timber yards and workshops. A few of the militia lingered near the edges of the space, their spears resting loosely against their shoulders. Their watchful posture suggested they had been asked to remain nearby should the growing crowd require order.
+
+At the center of the square stood the wide wooden plank that had recently become a familiar sight to everyone in Ashridge.
+
+The ranking board had been erected beside the tavern only weeks earlier, its surface darkened with lines of charcoal where Alicia had carefully written the names of the militia and their shifting positions. Even now, several of the younger men stood near it, their eyes drifting between the board and the slowly growing crowd as they waited for whatever announcement had drawn the village together.
+
+Beyond them, near the far side of the open space, the refugees gathered quietly.
+
+They stood somewhat apart from the villagers, their worn cloaks and travel stained bundles marking them as strangers within Ashridge despite the temporary shelter they had been granted.
+
+Some watched the gathering with cautious curiosity while others kept their eyes lowered, their posture tense with the uncertainty of people who knew their fate rested entirely in the hands of someone they barely understood.
+
+The murmur of conversation drifted through the cold air as the two groups observed one another from a respectful distance.
+
+Everyone present already knew why they had gathered.
+
+What remained uncertain was the decision that would soon be spoken aloud.
+
+The low hum of voices drifting across the square began to fade as movement appeared along the road leading from the manor.
+
+Several villagers near the edge of the gathering were the first to notice, heads turned one after another and a subtle shift had spread through the crowd until eyes gradually shifted toward the approaching figures.
+
+Lucien approached from the direction of the manor with an unhurried stride, his dark cloak drawn close against the winter air.
+
+Dorian walked a short distance behind him, the captain’s posture straight and watchful as his gaze moved briefly across the assembled villagers and refugees alike. Elias followed beside him, a small bundle of parchments tucked beneath one arm out of long habit, though the steward’s gaze remained fixed upon the scene unfolding before him.
+
+Their arrival brought the last of the conversations to an end.
+
+Villagers straightened where they stood, some lowering their voices while others stepped aside to allow the three men to pass toward the open space before the tavern. Even the refugees seemed to sense the shift in the crowd’s mood, their uncertain murmurs fading as they turned to watch the approaching noble with wary attention.
+
+Lucien slowed as he reached the center of the gathering.
+
+For a brief moment his gaze moved across the square, taking in the faces gathered before him. The villagers stood closest to the tavern and the ranking board, their expressions carrying the mixture of curiosity and concern that had lingered throughout the village since the refugees had first appeared at the gate.
+
+Further back stood the refugees themselves.
+
+Their travel worn cloaks and weary faces set them apart from the villagers even now, though the distance between the two groups had grown smaller since the day they had first arrived. Some watched him with restrained hope while others kept their eyes lowered, uncertain of how the decision about their future would be delivered.
+
+Lucien allowed the silence to settle fully before he spoke, the cold air carried his voice easily across the square. “It seems word has already spread.” He paused briefly, his gaze moving across both villagers and refugees alike. “So I will not delay the matter further.”
+
+The square grew still as every ear turned toward him.
+
+“I have reached a decision regarding those who arrived from the eastern settlements.”
+
+For a time, Lucien remained silent as the gathered villagers and refugees watched him in tense anticipation.
+
+Then he spoke.
+
+“The people who arrived from the eastern settlements will be permitted to remain in Ashridge.”
+
+The words carried clearly through the cold air, and the square fell completely still.
+
+Behind Lucien, Dorian remained motionless, his watchful gaze moving across both villagers and refugees as he silently gauged the mood of the gathering, while Elias stood beside him with his usual composed posture, observing the reactions unfolding throughout the square.
+
+It was as though the meaning took a breath longer to reach those at the far edges of the gathering.
+
+Then the murmurs began.
+
+They spread quietly at first among the villagers nearest the tavern, low voices passing from one person to another as the weight of the decision settled over the square. Some exchanged thoughtful looks while others simply nodded to themselves, their expressions carrying the practical acceptance of people who had expected the outcome even if they had worried about its consequences.
+
+Near the ranking board a pair of young militia men glanced toward one another before one of them let out a breath he had apparently been holding.
+
+A short distance away, Dorian’s gaze continued to move slowly through the crowd, the captain’s gaze lingering briefly on the refugees as though committing their faces to memory.
+
+Across the open space, the reaction among the refugees unfolded more slowly.
+
+Many of them had been standing with their shoulders drawn tight, their eyes fixed upon the young noble at the center of the square as though bracing themselves for disappointment. Now that uncertainty gave way to visible relief.
+
+Some lowered their heads, murmuring quiet words of thanks, others remained where they stood, their expressions dazed as the strain of the long road from the east finally began to loosen its hold.
+
+The older man who had first spoken with Lucien stepped forward from among them, his movements hesitant but purposeful.
+
+“My Lord...” he said, bowing his head deeply. “You have our gratitude.”
+
+Lucien inclined his head in acknowledgment. “You will be given shelter within the village,” he continued, “Work will be arranged in the coming days so that those who remain here may contribute to Ashridge in turn.”
+
+The statement stirred fresh reactions among those gathered in the square.
+
+A few villagers exchanged thoughtful looks at the mention of work, already weighing what the arrival of so many new hands might mean once spring returned to the fields.
+
+One man near the edge of the crowd spoke first. “What sort of work, Milord?” he called out.
+
+Another voice followed before Lucien could answer. “Will they be helping in the fields?”
+
+A third, standing near the tavern door with his arms folded across his chest, added bluntly, “And where will they be staying? The southern side?”
+
+The questions were asked without ceremony, their tone direct in the manner common to the frontier.
+
+Lucien did not appear troubled by it. Instead, his gaze moved calmly across the gathered villagers as he answered. “The arrangements will be made in the coming days,” he said evenly. “Some will assist in the fields while others may be assigned to timber cutting or construction as needed.”
+
+The practical nature of the reply seemed to satisfy most of those who had spoken. Several nodded quietly, already turning the matter over in their thoughts.
+
+Across the square, however, the refugees watched the exchange with visible uncertainty. A few glanced toward one another, their expressions faintly puzzled. They had expected distance from a noble, commands delivered without question, perhaps even impatience.
+
+Yet they had watched the locals speak openly before him, their questions blunt and unguarded, while the young lord answered them without taking offense.
+
+Several of the refugees straightened where they stood, trying to understand the unfamiliar rhythm of the place that had just offered them shelter.
+
+For the first time since their arrival, the space between the two groups no longer felt quite as wide.
+
+Lucien allowed the moment to pass before adding one final sentence.
+
+“Ashridge will endure only through the effort of those who live within it.”
+
+This time the response that passed through the crowd carried a different tone. For many in Ashridge, it was a simple truth they had lived by for years, but to the refugees standing at the edge of the square it was the first sign that their presence here might one day become something more than temporary refuge.
+
+As the gathering slowly began to loosen and voices rose again across the square, once again it was the children who crossed the distance.
+
+The boy with the wooden hoop appeared near the edge of the refugee group with the careful boldness of someone approaching a newly discovered species. He studied the newcomers with intense concentration, the hoop hanging loosely from one hand as though temporarily forgotten.
+
+Behind him came the girl clutching a rag doll to her chest, peering around his shoulder with unconcealed curiosity.
+
+“They look tired,” she whispered, not nearly as quietly as she believed.
+
+“They walked a long way,” the hoop boy replied with the grave authority of a self appointed expert.
+
+The smallest girl stepped forward without hesitation. “Did you come from the east?” she asked one of the refugees directly.
+
+The startled man blinked down at her before nodding slowly. “We did.”
+
+“That’s far,” she declared with solemn certainty.
+
+Nearby, the boy carrying the crudely carved wooden sword planted it against the frozen ground and puffed out his chest.
+
+“If beasts chased you,” he announced with theatrical confidence, “Ashridge has a wall.”
+
+The refugees exchanged uncertain glances, a few of them even managing faint smiles, while others glanced toward him as though expecting the noble to object to the children’s boldness.
+
+Yet Lucien did not rebuke them, he continued speaking calmly with several villagers as though the children’s boldness required no correction. The gathering began to slowly dissolve into smaller conversations around him.
+
+Around them, the locals had begun interacting with the newcomers more openly now, their first exchanges awkward but sincere, the careful beginnings of strangers learning how to share the same ground.
+
+“Which settlement did you come from?” one man asked.
+
+Another gestured toward the southern road. “If any of you know timber work, Harlon will have need of hands to build your homes.”
+
+The pair of militia men beside the board had gathered around several curious refugees who had wandered closer to examine it.
+
+One of them tapped the surface lightly with a knuckle. “That there’s the militia ranking board,” he explained with easy pride. “Shows who performs best during drills.”
+
+A refugee studied the rows of charcoal marks with curiosity. “And who writes the names?”
+
+The militia man grinned. “Our lord’s maid.”
+
+His companion snorted. “Aye, and mind you behave if you end up on that board.”
+
+The first man nodded solemnly toward the board. “She’s the one who keeps the charcoal and draws the marks.” Then he added with a conspiratorial tone, “And she happens to be the prettiest lass in Ashridge, so half the fools here train twice as hard just to make sure their names look respectable.”
+
+A few of the nearby villagers chuckled softly, drawing interested glances from several of the refugees toward the board.
+
+Elias had stepped aside during the conversations that followed, speaking with one of the older villagers while making a small note upon the parchment he carried, already beginning the careful work of accounting for the changes the day had brought.
+
+Amid the shifting crowd, Tomas approached with the cautious posture of someone unsure whether he should interrupt.
+
+“My Lord,” he murmured, clearly trying to keep his voice low.
+
+Lucien turned toward the young militia. “What is it?”
+
+He hesitated before answering. “I believe...one of the refugees may be missing.”
+
+The statement immediately drew Lucien’s full attention. “Explain,” he said, lowering his voice to match the young militia’s.
+
+Tomas glanced briefly toward the refugees gathered across the square before continuing. “When we brought the last group in yesterday, I counted them as they entered the gate,” he reported. “But today...the numbers don't match.”
+
+Lucien’s gaze sharpened at the younger man’s words. “How many?”
+
+“One,” Tomas replied, a faint hesitation catching in his voice.
+
+Then, after a short pause, he added, “A girl.”

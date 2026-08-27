@@ -1,0 +1,205 @@
+---
+id: bbdf87d9-19f8-5936-8eaf-12820970dab8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 Compression"
+slug: 0020-chapter-19-compression
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 20
+ownLength: 2107
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3226796/chapter-19-compression"
+royalRoadId: "3226796"
+---
+
+Dawn brought no relief to Ashridge.
+
+The forest continued to show signs for stirring, silhouettes of the beasts threading between trunks even as the sun rose.
+
+The militia held throughout the night with shortened rotations. Shields lowered only long enough for numb fingers to flex before lifting again.
+
+Lucien remained upon the eastern wall as the sky began to pale.
+
+Below, broken shafts lay scattered in the ditch. Frost crusted over disturbed soil where beasts had fallen and been dragged away by their own. The memory of crunching in the dark would follow him, if he survived this.
+
+No massed charge came with the morning, yet it left him with a sense of unease rather than relief.
+
+A defense line held against pressure until the enemy committed, that was the pattern in any sustained assault. After testing their defenses, they would then precede with a full offensive.
+
+Lucien let out a quiet breath, careful not to let any of the men see. “How many arrows remain on this section?”
+
+The captain shook his head slowly. “Less than half, My Lord. And we can't recover them from the ditch because of the constant skirmishes.”
+
+As if to answer him, a goblin stepped briefly into open ground, shoulders hunched, head twitching as it scanned the wall.
+
+Near the inner ramp, several clay vessels sat wrapped in waxed cloth, untouched despite the growing strain along the line.
+
+A ripple stirred near the riverbank, kobolds once again moving parallel to the wall, slipping between reeds and frost-stiff brush. One darted forward abruptly, forcing shields to rise, then slipped back out of reach.
+
+The dog rat hybrids tested the militia's reaction time and drew the eye where they wanted it. Even a minor nuisance became a problem when repeated often enough.
+
+Lucien watched the line rather than the beasts, men adjusted more slowly now, fatigue building with each minor engagement.
+
+When a militia shield sagged, an Ashridge guard stepped in behind it, bracing the rim long enough for the man to reset his grip.
+
+The first true rush of the morning came without signal.
+
+Ten goblins burst from the brush near the shallows, their approach scattered as each chose a slightly different line toward the ditch
+
+This time, arrows fell at once, dropping four immediately while two more tumbled into the angled stakes. Three reached the muddy incline before spears drove them back, and one managed to claw halfway up before a shield struck down and sent it sliding.
+
+He expected escalation, it would be the logical progression.
+
+A shape stood between two trunks farther south, lean and unmoving, rust colored fur catching the morning light. It held its ground, watching, just as it had yesterday.
+
+A goblin strayed too near and the larger shape struck without turning its head, as it had earlier. The smaller creature flew and slammed into a tree before falling still, the figure stepped back into shadow.
+
+Lucien looked away a beat later, if there was a dominant beast amongst them, then that beast would eventually commit them to a full assault.
+
+The pressure built along a different path than he had expected.
+
+It persisted, and the men had begun to feel it.
+
+By midmorning, the attacks continued without truly stopping.
+
+The eastern treeline remained restless, shapes threading through the brush more frequently than before. Goblins held their ground through the first answered volley, hesitating as they tested the space between arrows before withdrawing. Kobolds edged closer to the river bend, their paths tightening, their pauses lengthening.
+
+“Southwest sighting, Milord!” a runner called from the lower ramp, breath sharp with urgency. “Movement beyond the grazing rise.”
+
+Lucien turned toward the direction indicated. The southwest edge of the village was less reinforced than the southern palisade. Beyond it lay a deeper stretch of forest bending toward Cragwatch’s distant territory.
+
+Dorian was already descending the ramp. “I will confirm."
+
+He followed at a measured pace.
+
+Below the southwest palisade, the ground had been churned by repeated surges. Loam and frost were pressed together where goblins had struck the ditch and been driven back. Smaller tracks crossed in chaotic layers, but among them, deeper impressions cut into the disturbed soil near the angled stakes, wide enough to distort the edges around them.
+
+Dorian crouched along the interior slope of the wall walk, studying the marks below without exposing himself beyond the parapet. His gloved fingers hovered over the rough timber as he traced the outline with his eyes.
+
+Lucien eyed the deeper tracks. “It looks larger than a goblin."
+
+"Yes", the captain growled, his tone darkening.
+
+“Kobold?”
+
+Dorian shook his head. “Too deep. It might be a goblin variant," the uncertainty in his tone seemed to cause his captain's jaw to clench.
+
+The impressions were broader than the others, less scattered. Where goblin tracks tore at the earth in frantic gouges, these pressed downward with weight, the soil compacted rather than churned.
+
+Lucien's attention remained fixed upon the tracks. “It didn't rush. Almost like it is...” he paused briefly to search for the words until Dorian spoke first.
+
+"It chose its own pace."
+
+A horn sounded from the southern palisade.
+
+Lucien and Dorian exchanged a brief look and moved along the wall walk toward the southern section.
+
+A surge had broken from the wood, larger than the morning’s scattered rushes. Goblins poured forward, tripping over one another as they hit the ditch in chaotic force. Bodies crashed into the angled stakes and clawing at the incline as if driven by something that allowed no pause.
+
+“Hold!” Dorian’s voice cut across the ramparts.
+
+The archers had adjusted to conserve their arrows, but the surge forced their hand. Several goblins dropped before reaching the ditch, yet enough tumbled forward to force shield contact.
+
+The impact rattled the southern section hard enough that Lucien felt it beneath his boots.
+
+The first rank absorbed the collision with a collective strain. Goblins clawed over the angled stakes and each other, fingers hooking into wood and leather as they tried to drag themselves up the incline. Spears drove downward in tight rhythm, but the bodies kept coming, piling into the ditch until the stakes were half obscured beneath green limbs.
+
+“Lock!” Dorian barked.
+
+A goblin slipped between two shields where the overlap faltered for a fraction too long. Tomas twisted to meet it and took the blade across his forearm instead.
+
+Dalen moved without waiting for any orders, stepping hard into Tomas’ space and bracing his shoulder against the rim to seal the gap before it widened.
+
+“Back,” Dalen ordered, voice taut with strain.
+
+Another militiaman hauled Tomas two paces clear while Dalen absorbed the next impact. A heartbeat later, another larger goblin struck where the younger militia had stood.
+
+Bran met it.
+
+His shield caught the collision with a solid crack. He drove forward, forcing it off balance as a spear thrust past his shoulder and sent it tumbling back into the churn below.
+
+The surge continued for several breaths more, then began to lose momentum. As the horde thinned, the forward momentum fractured into a scrambling retreat. Goblins slipped sideways along the base of the wall rather than breaking cleanly into the forest.
+
+Tomas returned to the rear of the formation, his arm bound tight, jaw clenched as he raised his shield again. Dalen adjusted half a step to maintain alignment while Bran remained in the front rank, stance wide, absorbing another glancing impact before it faded.
+
+A horn answered from the eastern curve.
+
+Lucien tracked the timing of the note as the southern line engaged and thinned, and moments later the eastern treeline stirred in answer.
+
+A smaller cluster appeared near a segment that had just rotated, striking before the new line had fully locked into place.
+
+“They know,” one militiaman muttered under his breath.
+
+Lucien heard it. “They react, that is all. Do not mistake that for intelligence.”
+
+No one argued, but the militia’s grips tightened all the same. Behind them, the guards adjusted their spacing in silence, their spearpoints steady as if fear was a thing to be managed like weight.
+
+Another runner reached the wall from the southwest rise, mud streaked to his knees and breath coming hard. “Movement parallel to the wall, Millord! More of them than before.”
+
+Lucien’s gaze shifted past the immediate treeline toward the deeper wood where the forest thickened toward Cragwatch’s distant ridge. The canopy stirred in slow intervals, branches shifting without the frantic scatter of goblins driven by arrows.
+
+The eastern line stirred soon after, kobolds slipping through reeds in staggered motion as though testing whether the southern surge had drawn enough men to thin the river approach.
+
+The fronts had begun to overlap, each engagement bled into the next before the men could rest between them.
+
+Bran remained in the front rank, Dalen kept the overlap sealed while Tomas stood in the second line with his arm bound tight, shield raised despite the tremor in his grip.
+
+The southern palisade held but it no longer felt as though they were resisting isolated rushes. Something beyond the treeline weighed against them, pressing from different angles.
+
+Late afternoon settled over Ashridge and the light from the sun had shifted from pale to muted gold, catching on broken shafts and the slick surface of the ditch below.
+
+The beasts lingered just beyond bow range, visible in fragments between trunks and brush. Goblins moved in uneasy clusters, holding longer under pressure before slipping back. Some remained at the treeline, as though listening for something deeper within.
+
+A murmur moved along the southern section.
+
+He followed the direction of several lifted chins toward the deeper wood beyond the immediate treeline.
+
+Goblins gathered at its edge, shoving one another while they snapped and shrieked with frayed tension. Then the forest behind them shifted, a larger shape that pushed branches aside and rolled through the undergrowth. The goblins broke before it reached them.
+
+They spilled forward in a sudden chaotic charge, far larger than the previous surge. Forty, perhaps more, tumbling over one another as they crashed toward the ditch, driven by an unseen force.
+
+“Shields!” Dorian roared.
+
+Several goblins reached the ditch and flung themselves against the angled stakes, scrambling upward over those impaled beneath them.
+
+The impact struck harder this time.
+
+Along the inner walk, two of his household guards moved with deliberate restraint, stepping into places where the line bowed too far before withdrawing again.
+
+Bran braced and absorbed a collision that would have staggered a smaller man while Dalen drove his shoulder into a widening seam as two goblins clawed at the same shield rim.
+
+Tomas, pale but upright, thrust downward from the second rank, jaw clenched against the strain in his wounded arm.
+
+The surge lingered at the ditch, bodies piling, claws hooking into gaps.
+
+And behind them—
+
+Lucien saw it.
+
+Between two trunks deeper in the southern wood stood a shape taller than the goblins and broader through the shoulders, brown orange skin stretched taut across scarred muscle.
+
+Its proportions stretched wrong, elongated where they should have been compact, and the eyes that caught the failing light burned red, steady and unnatural beneath the canopy.
+
+The goblins at the front pressed harder, driven by a force behind them.
+
+The rust furred kobold emerged from brush near the southern flank, head lowered toward the deeper forest. It paused, ears flattened, and dipped its posture in a brief, instinctive bow before veering sideways to rejoin the chaotic press.
+
+Lucien’s breath slowed as his eyes remained fixed on the larger beast.
+
+The surge at the ditch faltered only when enough bodies had fallen to choke its own advance. As the pressure eased, the goblins broke apart, retreating in fractured paths along the base of the wall.
+
+The red eyes vanished between the trunks, and the heavier shape receded deeper into shadow, its presence withdrawing.
+
+Lucien remained still atop the wall walk, keeping his focus on the deeper wood where he had last seen the larger beast. Until now, he had assumed resistance caused redirection, that pressure against the wall would force the beasts to spill outward and seek softer ground.
+
+This was compression.
+
+The fronts had not been independent of one another, they had moved in response to something behind them, something that pushed others into the wall.
+
+As if in answer to his thoughts, the eastern treeline stirred again, and the southwest wood shifted in turn.
+
+Three fronts remained active.Arrows ran thinner with every engagement.Men trembled beneath raised shields.
+
+And somewhere within the forest, a presence pressed forward, unyielding in its advance.
+
+The forest pressed forward, as though something within it was forcing its way through.

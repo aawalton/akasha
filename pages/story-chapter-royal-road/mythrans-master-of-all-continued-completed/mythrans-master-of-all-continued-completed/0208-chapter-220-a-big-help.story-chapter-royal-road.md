@@ -1,0 +1,389 @@
+---
+id: 42106b9f-1f6d-5be4-965f-c1856fd946f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 220 - A Big Help"
+slug: 0208-chapter-220-a-big-help
+partOf: mythrans-master-of-all-continued-completed
+position: 208
+ownLength: 3890
+unit: words
+publishedAt: 2017-04-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129004/chapter-220-a-big-help"
+royalRoadId: "129004"
+---
+
+As Ren slid down the rope, he concentrated on his Camaraderie Aura. The Giants had moved away from the side of the pit where he was descending, and Ren stopped when he got to just above their heads. He was about 30 feet from the pit floor, used Iron Grip on the rope so he wouldn't slip, and turned around to face them. He quickly found the female giant that had waved back to him, and he motioned for her to come closer.
+
+Just like all of the giants gathered there, her clothes were in tatters; but she had figured out that if she tied her clothing up, she could successfully cover herself and not have to worry about exposing anything. She had shoulder-length brown hair that was kind of wavy; or at least would be if it wasn't all dirty and disheveled. She looked at him with surprise on her face for a moment, and then she made her way over to him.
+
+“Hi.” Ren said. “Can I ask you your name?”
+
+She blinked her eyes at him for a moment, them smiled. “You really are a little person.” She said. “I've read stories about you when I was a child; but when I was old enough, my parents told me you weren't real.”
+
+“I can't say if the stories you've read are true or not, but I'm real.” Ren said and held a hand out to her. “My name is Ren.”
+
+She put a hand up, looked at the size difference, and didn't know what to do. She put it close to him and he shook her finger.
+
+“I'm Laurelia.” The female giant said.
+
+“It's nice to meet you, Laurelia.” Ren said. “Could I ask you for a favor?”
+
+“M-me?” Laurelia looked around at the other giants close to her, and some of them avoided looking at her and Ren. “What could I possibly do for a little person?”
+
+“I'd like for you to carry me out to the middle of the pit.”
+
+“Wh-wh-what?!?”
+
+“I can't possibly get there myself, with so many of you here.” Ren said. “I'm an Adventurer, and I've already died by being stepped on.” He said to her shocked expression. “I don't want that to happen again.”
+
+“I... I don't know...”
+
+“I'd really appreciate your help.” Ren said. “I can sit on your shoulder, if it's not too much trouble.”
+
+“I...”
+
+“I'd like to explain to everyone what's been going on, and what has to happen next.”
+
+“Oh.” Laurelia said. “Um... I think...” She looked around, and even the ones that had avoided her gaze before, looked back at her expectantly. “All right.” She started to reach for him, then paused, then sighed. “What do I do?”
+
+Ren chuckled. “Step close, and I can climb on.”
+
+Laurelia nodded and turned to put her shoulder next to where Ren hung on the rope. There were several strips of cloth over her shoulder to hold her top in place, and he pushed off from the side of the pit and let his Iron Grip on the rope go. He managed to sit on her shoulder without incident, and grabbed onto the cloth.
+
+“This cloth isn't very secure.” Ren said softly, since he was right beside her ear. “Would it be okay if I braced myself with a hand on your neck for balance? When you start to walk, I really, really don't want to fall off.”
+
+Laurelia nodded, and Ren put a hand out and touched her neck. When she didn't say anything, he put his arm around behind her neck and under her hair. His hand just reached the other side of her neck, and he held on. She blushed a little at the intimate contact, and since Ren was so close, he saw the change in her skin, and felt the warmth under his hand increase.
+
+“Are you sure this is okay?” Ren asked her softly. “If you're uncomfortable with this...”
+
+“No, it's fine.” Laurelia said. “I just haven't had anyone touch me there in a while.”
+
+“I can move my hand...”
+
+“To where?” She asked. “There's not a lot for you to hold on to there.” She didn't turn her head to talk to him, in the fear she would knock him off. “Grabbing my hair is not an option.”
+
+Ren chuckled. “Understood.” He said. “Let's go.”
+
+She nodded, and started to walk towards the center of the pit. Ren rocked from side to side as her shoulder moved, and he held on tightly to stop himself from slipping off. A lot of the giants watched Laurelia as she passed, and more than a few stared at Ren like he was a ghost or some kind of demon.
+
+I think some of them are remembering the fight. Ren thought, and Teepo chittered in laughter.
+
+“Why would they remember that?” Teepo said. “You didn't do anything special... except defeat them all.”
+
+Ren smiled as he remembered it. The ending sucked, but the rest of it was...
+
+“Go ahead and say it.” Teepo urged.
+
+Fun.
+
+“There you go.” Teepo chittered in laughter again.
+
+Laurelia came to the spot that was approximately at the center and came to a stop. “This is close enough, right?”
+
+“It's perfect.” Ren said. “Thank you.”
+
+“Do you want me to put you down, or...”
+
+“I'd like for you to help me for a few more minutes, at least.” Ren said. “Can I stand up on your shoulder, so I can talk to everyone?”
+
+“Um...”
+
+“I know it's going to be a little embarrassing, but I'll be quick.”
+
+“O-okay.”
+
+“Thank you very much.” Ren said softly in her ear, his voice full of appreciation, and Laurelia blushed slightly. He very carefully took his arm away from holding her neck and stood up on her shoulder. It was a precarious position, so he put a hand on top of her head for balance.
+
+“Can I have everyone's attention, please?” Ren said, unnecessarily.
+
+All the giants were already looking at him.
+
+“I'd like to explain what happened to you, and how you ended up here.” Ren said, and told them about the Brain Arthropod Grubs, and what they did to giants when they burrowed inside their heads.
+
+“So that's why people have been going crazy!” One of the male giants said. “My uncle beat up my father, then disappeared over two months ago.”
+
+“Brother.” “Sister.” “Son.” A few of the other giants said. Most of them knew of cases, but didn't know anyone that had it.
+
+“Mom.” The child giant said with tears in his eyes, and the woman standing next to him hugged him.
+
+“I'm sorry for your loss.” Ren said, and he really was. “But now, you are the ones that are lost.”
+
+There was a few minutes of disbelief and denial, and Ren waited for them to realize it was true.
+
+“I helped one of you before. Her name was Rubella.”
+
+“WHAT?!?” One of the male giants said, and stepped forward. “What did you say?”
+
+“Her name was Rubella.” Ren said to the giant. “When I tried to take her back home, we were attacked by the Guardians of the Land.”
+
+“Those bastards!” The male giant said, then looked at Ren. “How are you still alive?”
+
+“That doesn't matter.” Ren said. “They said she was exiled, and wasn't allowed back.”
+
+Silence filled the pit as the words cut them to the bone. They weren't allowed back.
+
+“What... what about our families?” Laurelia asked, as a tear formed in the corner of her eye.
+
+“I don't know what's happened to them.” Ren said to her, and turned back to the giants. “But, the Guardians said that it didn't matter if you were cured or not.”
+
+“Where is she now?” The male giant asked.
+
+“I gave Rubella clothes, money, and a companion to help her find her way home.”
+
+The male giant looked like he'd been punched in the stomach. “No.”
+
+“What is it?” Ren asked.
+
+The male giant shook his head. “She... she's not going to find anything when she gets home.”
+
+“That's fine.” Ren said, and the male giant looked surprised. “I told her to leave a message for me at the Library, and I'd come and pick them up as soon as I could.”
+
+“You... why would you do that?” He asked, perplexed.
+
+“I like helping people.” Ren said. “And if there's anyone that needs my help right now, it's you people.”
+
+No one spoke for a few minutes, and Ren sighed.
+
+“Now, let me explain how you got here.” He said, and told them a condensed version of what had happened.
+
+“No, I wouldn't do that!” Laurelia said in protest, and turned her head to look at Ren.
+
+“Whoa!” Ren exclaimed as her face hit his leg. He slipped and would have fallen, if he hadn't grabbed onto her head with both hands.
+
+“I'm sorry!” Laurelia said, and looked back to the front again. “I forgot how close you were.”
+
+Ren got his feet under him, and stood up again. “That's alright.” He said. “I'm just glad I didn't pull on your hair.”
+
+Laurelia smiled, and Ren continued.
+
+“Now, you weren't supposed to be left in the pit.” Ren said. “At least, I hadn't intended it.” He smiled. “I'd like to get you all out of here, clothed, and possibly try to make some food for you.”
+
+“That's great!” One of the giants said. “I'm starving!”
+
+“Me, too.” “And me.” “Yeah, food!” Various voices sounded off, then a female giant nearly shouted.
+
+“Did you say clothes?!?”
+
+Ren chuckled. “I don't have anywhere near enough cloth on me right now to make something for everyone; but, I should have enough for the women at least.” He said. “I'll send for more cloth once I'm topside.”
+
+There were mutters of agreement, and Ren took a deep breath. This was the part that might make or break his food idea.
+
+“Now, I need to know something. This is very important.” Ren said seriously, and the chatter quieted down. “Does anyone here have access to an inventory?”
+
+Two of the 135 giants raised their hands slightly, and Ren sighed in relief.
+
+“Please, step forward.” Ren asked them, and they came over. One was a male about 24 feet tall, and the other was a female 23 feet tall. “I'd appreciate your help for the next part.”
+
+“How can we help?” The female asked.
+
+“I had a crazy idea.” Ren said, and explained what he needed the male to do.
+
+“You want me to resize a shovel in my inventory, then dig a ramp up to ground level?” The male shook his head. “Yeah, that's pretty crazy.”
+
+“I've been called crazy a lot.” Ren smiled. “I don't take it as the insult it's meant to be, though.” He chuckled. “It throws people off.”
+
+The female snorted a laugh. “I think we're the ones that are still crazy.” She said. “We're standing in the middle of a giant pit trap, and talking to a little person!”
+
+Ren grinned at her. “Once we get the ramp made, and get some of you up on the ground, I'll need your help for something else.”
+
+“Are you going to make me wait until then to tell me?” She asked.
+
+“Only until we test my theory with the shovel.” Ren said. “If that works, then what I had in mind for you should work, too.”
+
+The female nodded, and Ren carefully sat down on Laurelia's shoulder. “If the three of you would be so kind as to go to the rope I climbed down, we can get started.”
+
+Ren put an arm around Laurelia's neck to hold on, as she and the other two giants walked across the pit to the spot where the rope still hung. He stood up on Laurelia's shoulder again, and grabbed the rope.
+
+“Please wait here. I'll be right back.” Ren said and climbed up the rope.
+
+*
+
+“Can you believe that?” The female giant asked, as Ren climbed out of sight. “An actual little person!”
+
+“I know!” Laurelia said. “Even though my parents told me they weren't real, I... I still kind of believed.”
+
+“Kind of?” The male asked. “Either you do, or you don't.”
+
+“I was hoping, okay?” Laurelia said to defend herself. “We've all read the tales, right? About all the adventures the little people had?”
+
+Several of the giants nearby nodded their heads.
+
+“He said he couldn't tell me if the tales were true or not, but that he was real.” Laurelia said. “At least some parts of the tales must be true!”
+
+Several more giants nodded their heads, and the male shook his head in response.
+
+“Don't get your hopes up.” He said. “You're just setting yourselves up for disappointment.”
+
+“I don't think so.” Laurelia said. “This little person... this 'Ren'...” She smiled. “He really wants to help us.”
+
+*
+
+Ren got to the top of the pit and went to the closest Warrior after switching his concentration from his Camaraderie Aura to his Command Aura.
+
+“I need 4 shovels, and a couple of pickaxes.” Ren said. “How long will it take to get them?”
+
+“Maybe 10 minutes, sir.” The Warrior said. “The closest supply depot is only 5 sections in.”
+
+“Great.” Ren said. “Do they have tents, bedrolls, and other supplies for camping out?”
+
+“Yes, sir.”
+
+“Bring me the shovels and pickaxes first. If my idea doesn't work, I won't need the other things.” Ren said. “But if it does work, I want you to bring me everything they have for camping.”
+
+“But, sir...”
+
+“I'll replace it as soon as I get the chance; either by making it myself, or buying it.”
+
+“Yes, sir.” The Warrior said, and took off running.
+
+“Funny meeting you here.” The healer said as she came over to him. Ren opened his arms and gave her a hug. “Wh-what was that for?” She asked in surprise.
+
+“To thank you.” Ren said. “I see you're the only healer here willing to help a giant.”
+
+“Well... I'm not really willing, but...” She looked at Ren and smiled. “I got this nifty wand recently...”
+
+Ren laughed and nodded slightly. “I'm glad.” He said. “Can I see it?”
+
+“Sure.” The healer said and took it out of the little satchel at her side, and handed it to him.
+
+“You used it a few times already?” Ren asked, because the wand was down to 32 charges.
+
+“I sure did!” The healer said. “You wouldn't believe the amount of people I can help now.”
+
+“It gets better.” Ren said, and put a hand on the diamond tip. He poured Mana into it, refilled the charges, and passed it back to her. Her eyes widened and she looked at the wand, then at Ren.
+
+“You... you did not just... you...” She shook her head. “By the gods, how?”
+
+“They're really expensive.” Ren said. “That one is over 4 platinum coins.”
+
+She held it to her chest and grinned at him. “It's worth every copper coin!”
+
+Ren smiled at her, then gave her a Minor Healing Wand, too.
+
+“What are you... no!” She shook her head and tried to pass it back. “You can't just give these things away!”
+
+“I made them.” Ren said. “I can give them away if I want to.”
+
+“YOU MADE THEM?!?” She yelled in surprise.
+
+“Shhh!” Ren said. “It's a secret!”
+
+The healer winced a little, and Ren laughed.
+
+“Okay, it's kind of a secret.” He said. “People know, but I'm not selling them or telling everyone that I have them.”
+
+“Oh.” The healer said. “That makes sense.” She looked at the pit. “Do you want me to go down there and start examining them?”
+
+“No.” Ren said. “You've spent enough time in there.”
+
+“Good.” She said, and shook as she remembered what she had been through. “You're right. Once was enough.”
+
+“I plan on bringing them up here, one by one for you to examine, and then I'm going to lead them all away, for about an hour, towards the giant lands.”
+
+“Why so far?” The healer asked curiously.
+
+“I want them far enough away from the Garrison that it doesn't cause any problems; but not too far that they can't ask for help if they need it.”
+
+“What are you going to do with them then?”
+
+“I don't know.” Ren said. “I have ideas, but it's really up to them what happens next.”
+
+The Warrior was back a few minutes later with a large sack that had the shovels and pickaxes inside.
+
+“Thanks.” Ren said and stored them. “If this works, I'll be back up eventually to tell you to get me those camping supplies.”
+
+The Warrior nodded slightly, and Ren walked over to the pit and the rope.
+
+“Good luck.” The healer said. Ren waved to her, then climbed down the rope to the waiting giants. When he got to the same height he had been at before, he waved to Laurelia.
+
+“Can I get your help again?” Ren asked her, and she nodded as she stepped close. “Thank you.”
+
+He climbed onto her shoulder, and she slowly turned to face the other two giants.
+
+“Sir, if you could hold out your hand?” Ren asked the male giant, and took out the sack of tools. He put a pickaxe in the giant's hand. “I am giving you this pickaxe.” Ren said. “Put it into your inventory, then take it back out.”
+
+The giant did so, then took it back out. It had scaled appropriately, and was now nearly twice as tall as Ren.
+
+“Yes!” Ren said. “I'm giving you this sack, with more tools inside.” This is the real test. He thought. Otherwise I'll have to give each single item to him to resize it.
+
+The giant took the sack carefully, and stored it. He waited for a moment, the took the sack back out, and it scaled up to giant size. The male opened the sack and took out the other pick, and 4 shovels. All of them were giant size.
+
+“What a relief!” Ren said, and the giants looked at him. “If that didn't work, it was going to take a long time to make you enough to eat.”
+
+“What did you say?” Laurelia asked.
+
+“Don't you see?” Ren asked. “Thanks to this gentleman and this woman, I'll be able to scale things up for you and your people.” He smiled. “We won't have to use up a ton of normal food to make enough for a single giant to eat. We only have to give you the ingredients first, and then you can make the food yourselves!”
+
+The giants looked around at each other for a moment, then some of them smiled.
+
+“How did you come up with that idea?” Laurelia asked.
+
+“When I make clothing, the outfits are all one size. When people put them on, they resize to fit.” Ren smiled. “When I made a backpack for Rubella, she equipped it and it resized to fit her. It got me thinking. If I found a giant that had an inventory, then I could give them items that can't be equipped, and they'd resize, too. Hopefully.”
+
+“You're really smart.” The female giant with the inventory said. “I don't think any of us would have thought of that.”
+
+“Normally, I wouldn't either.” Ren said. “But... once I knew giants existed, well...”
+
+“Hold on.” The male giant said. “You didn't know we existed?”
+
+Ren shook his head. “There's not a lot of people around that know about you and your race.” He said. “They will soon, though.”
+
+“What do you mean?” The male giant asked.
+
+“I have a friend that has access to all of the libraries in the world.” Ren said, and grinned as the giants gasped.
+
+“You... you have...”
+
+“I don't usually ask her for much; but I'm sure once I tell her about you, and the things you've gone through... she'll spread the word.”
+
+“You'd do that for us?”
+
+“Sure.” Ren said. “I'm here to help you.”
+
+“I told you!” Laurelia said. Ren pat the top of her head, and she grinned.
+
+“If we could get a few volunteers to help dig with the pickaxes and shovels, we can get you up to the surface and out of the pit.”
+
+One of the other male giants stepped forward and picked up a shovel. “And what's to stop us from running away once we get to the surface?”
+
+“Nothing.” Ren said, and the giants looked at each other with doubt on their faces. “You aren't prisoners. I'm not keeping you here. Once we're out of the pit, you are free to leave and go wherever you want... as long as it's away from the Garrison and the little people's lands.”
+
+“You're not going to try and stop us?” Another male said and took one of the shovels, too.
+
+“Only if you attack the Garrison again.” Ren said. “I'm planning on making a temporary spot for you to live in, about an hour away from here. Tents, bedrolls, the whole thing.”
+
+“Why?”
+
+“You're almost a week's travel away from the edge of the giant lands where you came from.” Ren said. “And if my encounter with the Guardians of the Land is any indication, you'll be attacked as soon as they see you.” He looked at their faces. “There wasn't any mercy in them.”
+
+“We... we're really exiled.” One of the female giants said, and started to cry.
+
+“Only for now.” Ren said.
+
+She looked at him with surprise on her face, and she wiped at her tears.
+
+“I'm going to do my best to change that.” He said.
+
+“You... you are?” She asked with hope in her eyes. “Why?”
+
+“Because it's worth a try.” Ren said, and looked at the volunteers. The 2 pickaxes and 4 shovels had been picked up, and he pointed to a wall directly opposite of the Garrison. “That's the way out.” He said and smiled. “The path is already there. You just have to dig to find it.”
+
+Some of the giants laughed, and the rest made room for the volunteers, Laurelia, and the male and female giant with the inventory, to pass by. Ren sat down on Laurelia's shoulder and hugged her neck with an arm to hold on.
+
+“Let's go.” Ren said, and the group moved over to the wall then started to dig. He directed them in the proper way to do it, and how to angle up to get to the surface. He cautioned them that it was dangerous, and to be careful, then told the other giants in the pit to wait until the tunnel ramp was finished.
+
+“Stay back a little, Laurelia.” Ren said. “I don't want you getting hurt.”
+
+“Thanks, but I'm tougher than you think.”
+
+“I know you are.” Ren said. “You were the only one to wave to me.”
+
+“You're like something right out of my dreams.” Laurelia said. “If you were only 20 feet taller...”
+
+“I'd make a joke about how size doesn't matter, but I'm engaged.” Ren said, and she laughed.
+
+“I think my mother would faint if I came home with you on my shoulder.” Laurelia said. “Then she'd probably die of shock if I said we were together.”
+
+“More than likely.” Ren said. “I'm just too awesome for women to handle sometimes.”
+
+Laurelia's laughter echoed in the growing tunnel.

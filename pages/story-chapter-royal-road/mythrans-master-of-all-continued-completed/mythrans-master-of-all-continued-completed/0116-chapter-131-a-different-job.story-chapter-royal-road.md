@@ -1,0 +1,395 @@
+---
+id: 7294af4a-6431-5dfa-808d-35165eb02c68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 131 - A Different Job"
+slug: 0116-chapter-131-a-different-job
+partOf: mythrans-master-of-all-continued-completed
+position: 116
+ownLength: 4406
+unit: words
+publishedAt: 2016-12-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110170/chapter-131-a-different-job"
+royalRoadId: "110170"
+---
+
+Elise Stanford sat at her desk, sorting through all of the spam emails, complaints, solicitations, account updates, and everything else that was sent in electronic form to Sid Tec on a daily basis. She'd gotten to the point that sorting was almost automatic, and she barely paid it any attention at all. Everything was going smoothly until a particular email caught her eye. She'd clicked it and sorted it into 'personal' without reading the subject, but now her eyes widened as she saw who the sender was.
+
+Ren! Why are you contacting us? Elise thought as she read the header, then clicked on it to read. Her eyes widened as she read what Ren proposed, and then she smiled. It's very crude and not worded well, but I understand what you want. She moved the message window aside and typed up a proper proposal, referring to Ren's email to get the details. She expanded on it slightly, giving more details, like filming Ren's physical therapy sessions, and footage of his bed-ridden state.
+
+The little darling even offered his own personal recordings of him in the game! Elise thought with joy. I'll have access to thousands of hours of him! She took several deep breaths to calm down. Get a hold of yourself, Elise! She admonished herself. Finish the proposal first.
+
+She finished it, read it over twice to make sure it was professional enough, and printed it off. She put it into a folder and stood up. Okay, girl! This is it! She took another deep breath and smiled. Now sell this idea like your life depended on it!
+
+Elise walked over to the office door and knocked.
+
+“Come in.” Edward said.
+
+“Hello, sir.” Elise said and walked slowly into his office. “Sorry to bother you, but I just received an interesting proposal from one of the contest winners.”
+
+Edward sighed. “Please tell me it's not another petition from that dancing swordswoman for her own show.”
+
+“It's Mistress of Dance, and it's not sir.” Elise said. “It's from Mr. Haddon.”
+
+Edward's eyes widened. “Really?” He said surprised. “What is it?”
+
+“I think it's better if you read about it, sir.” Elise said and handed Edward the folder. He took the couple of pages out of the folder and read. He scowled, smiled, raised his eyebrows, frowned, then grinned.
+
+“The little bugger is a genius!” Edward said when he was done reading. “Using the VR as a medical device to test motor responses, then using the recordings to stimulate the brain in real life!” He stood up and stared at his secretary. “The implications are phenomenal!”
+
+“I thought so too, sir.” Elise said. “That's why I brought it to you right away.”
+
+“You've done this company a great service, Ms. Stanford!” Edward said and walked around his desk to take Elise into a hug. “A great service!”
+
+“T-thank you, sir.” Elise said, surprised at the familiarity.
+
+Edward let her go and walked behind his desk. “How many units did he... hmm... only the one?” He shook his head. “You'd better send a crate. They've got several nurses there, as well as the doctor.” Edward sat down in his chair. “There's only Ren and one nurse that's agreed to do it so far, but if they can get me some good results...”
+
+Elise nodded. “What about the film equipment?”
+
+“Yes, take a crew over to set everything up, and use the automated cameras.” Edward said, then stopped. “Elise, are you going to be okay going over there again?”
+
+She smiled. “Sir, I've been there several times already.”
+
+“Not since that incident.” He said.
+
+“I was forgiven for that, and you'll note I've only logged into the game a few times since then.”
+
+“Yes, you've been restraining yourself quite well.” Edward smiled. “But now you're going back into the lion's den.”
+
+Elise laughed. “I could have done without the fight to the death reference, sir.”
+
+“Sorry.” Edward grinned. “Gather everything up and head over there.”
+
+“Yes, sir.” Elise said and left Edward's office. She printed off a copy of the proposal for Ren and called the tech department. I get to see him again! In person! Elise thought excitedly, as she arranged for everything that would be needed at the hospital.
+
+********
+
+Ren actually had a good night's sleep this time. He woke up about 4 hours before sunrise, and slid out of bed. Nathalia stirred and opened her eyes, because his pervasive warmth was now missing.
+
+“Where do you think you're going?” She said sleepily, and rubbed her eyes.
+
+Ren tucked the blanket back over her. “It's time I started working on the Keep.”
+
+“You've got a year to do it.” She said. “You can let it go another day.”
+
+Ren chuckled. “I've only let it go this long because I needed to get the techniques down.” He stroked the side of her face. “Go back to sleep, My Love. I'll see you at breakfast.”
+
+“Okay.” Nathalia said. “Give me a kiss before you go.”
+
+Ren gave her a kiss on the lips.
+
+“Not there.” Nathalia said and grinned. Ren chuckled and climbed back into bed. An hour later, Ren got dressed and crept out of the house and through the front gate. No one was around, so he had the entire place to himself.
+
+Just like the old days! Ren thought as he ran to the workshop. It's getting downright crowded here now.
+
+“That's because there's usually so many workers and carts moving around.” Teepo said. “You can barely move along this road, there's so many.”
+
+Ren chuckled. Yeah, who would have thought a side project would turn into a huge operation like this. Ren chuckled. I thought I'd made the oven too big to handle it all when I started. He shook his head and went inside the workshop. I'm tempted to make another oven, just to handle the load!
+
+“I'd tell you to pace yourself with starting more projects, but that's not you at all.” Teepo said. “All I'll do is encourage you as much as I can.”
+
+Thanks, buddy. Ren thought, and went over to the forge. He started it up and smelted some ore, then picked up 4 of the paving tiles a few steps away, next to the wall and away from any prying eyes. Ren dug up the dirt underneath, like he did back in Aurora to make Teepo's living area, then used the smelter to make the same metal braces to hold the stones in place. He put it together and placed it over the hole, and you couldn't tell it was there at all.
+
+Perfect. Ren thought and deactivated the forge.
+
+“Why are you hiding the entrance?” Teepo asked.
+
+I don't want everyone to know I'm repairing the Keep.
+
+“Why not?”
+
+Because they may try to stop me. Ren thought. If I don't finish fixing it before the year is up, I won't complete the promise made to Nathalia, or meet the requirements for the contract.
+
+“Oh right.” Teepo said. “If you don't meet it...”
+
+It would be bad for me, and could be bad for her.
+
+“Then get your lazy butt to work!” Teepo chittered in laughter.
+
+Sir! Yes, sir! Ren thought and built half a dozen large wooden crates to gather the dirt in. He lifted the paving stone entryway, and got inside. Ren dug down on an angle, until he was down about 20 feet, then dug out an area about 10 feet square and 7 feet high. He'd filled one of the crates with dirt already, and went back to the surface to dump it behind the gigantic pile of silt that was there. He went back underground and closed the entryway behind him. Ren went back to the open area he'd cleared and started to dig back towards House Neram, and put the dirt into the crates. He dug a path through the ground all the way back to House Neram Keep.
+
+I think we're getting close, Teepo.
+
+“I'd say so.” Teepo said. “The dirt's well packed here.”
+
+Ren dug a little more, and then stopped when the mining pick hit stone. He cleared away as much dirt as he could, and revealed about 20 feet of wall and crumbling stone.
+
+Damn, it's a lot worse than I thought.
+
+“You're clearing away the dirt that's probably holding it together.” Teepo said. “I assume you're going to dig down?”
+
+Ren nodded. It's the best way. Ren responded. Then I can do the entire bottom floor first, let it set, then build up from there. I can worry about the inside once it's all done.
+
+He took out the plans for House Neram Keep and examined them. Yeah, if I dig along here, like a set of staircases, except instead of stairs it'll be ramps... Ren made a square motion with his finger and moved it downwards. I'll get to the bottom in... about 8 hours.
+
+“You're not going to get there by just standing here.” Teepo said. “Hop to it!”
+
+Ren laughed and started digging the staircase ramps, and each fourth landing brought him back in contact with the wall. He had to stop several times to build temporary walls to cover breaches and collapses in the stonework. The last thing he wanted right now was any unexpected visitors. After about 2 hours of digging, Teepo told him he'd have to empty the crates one last time before the workers started to show up. Ren nodded and ran all the way back up to the top of the dirt staircase ramp, went down the tunnel to the workshop, and climbed out of the hidden entryway. He went out back and dumped the 6 large crates of dirt, then went back inside and built a wall across the room to Dorcot's section, cutting the forge off from view completely. Ren had just added the door when someone came into the workshop.
+
+“Hi, Dorcot.” Ren said. “How's your wife?”
+
+“Still cute.” Dorcot said and chuckled. “She's also really happy.”
+
+“It couldn't be because you're happy, is it?” Ren asked.
+
+“Nope.” He said and laughed. “It's probably because we've been spending more of our time together... in the bedroom.”
+
+“I hear that.” Ren said and grinned. “A happy wife is a happy life.”
+
+“Ha!” Dorcot said and clapped Ren on the shoulder. “I'll have to remember to tell Angeilin that!” He said and pulled Ren over to his workbench. “Now that I have you here, I've found something neat in that crate you let me poke through.”
+
+“Oh? What is it?” Ren asked.
+
+“This.” Dorgot opened one of the drawers and Ren stared at the giant oval ruby sitting there. “It was near the bottom, hidden under piles of smaller crystals.”
+
+Ren picked it up and marveled at it's deep red color. “I see you already cut it.”
+
+Dorcot nodded. “Finding these is really rare.” He said. “I spent nearly all day yesterday working on it.”
+
+Ren used Appraisal on it, and it came back as 'N/A'. “Holy crap!” Ren exclaimed. “It's priceless!”
+
+“That's what I thought when I finished cutting it.” Dorcot said.
+
+Ren shook his head. “I mean, I appraised it and there's no price.”
+
+“Maybe you need to practice that more.” Dorcot chuckled. “It's worth about 150 platinum.”
+
+Ren nodded slightly. “Yeah, I do need to practice that more.” He said and stored the gem. “I assume you're going to keep the pieces you cut off and not sell them to me?”
+
+Dorcot nodded. “I've got an idea for Angeilin's wedding anniversary, and they'd make a nice addition to it.”
+
+“When is it?” Ren asked.
+
+“Next month.”
+
+“If you need any blacksmithing done, let me know.” Ren offered.
+
+“Thanks.”
+
+“I have to go and eat breakfast.” Ren said at Teepo's prompting. “Talk to you later.”
+
+“See ya.” Dorcot said and sat down at his workbench. Ren left the workshop and went into the house. He had another great breakfast with two of his favorite people and rubbed his belly afterwards. He looked at Nathalia, and then her mother.
+
+“I sometimes can't believe how lucky I am to have ended up here with you.” Ren said. “The both of you.”
+
+Nathalia chuckled. “We were just talking about that before you came in here.” She said. “About how lucky we were that you ended up here with us.”
+
+Ren leaned close and gave her a kiss. “I could argue over who's luckier in this relationship.” He said and smiled. “But, we're all just lucky and I'll leave it at that.”
+
+“That's good, because you'd lose that argument.” Nathalia said and grinned.
+
+“Yeah, I know.” Ren said. “When there's two people in a relationship, there's the one who's always right, and the other is the man.”
+
+Nathalia and her mother had surprised looks on their faces for a moment, and then they started to laugh. Ren laughed, too.
+
+*
+
+The guard from the mines entered the plush and ornate office. He glanced around with his eyes to try and drink in all of the gold detailing. There's literally a fortune in here! He thought as he approached the over-sized desk in the center of the room.
+
+“You may speak.” The Lord of House Lodur commanded his guard. The guard looked at the other 4 faces around the desk. All the highest members of the House were there.
+
+“It... it's true.” The guard held up the platinum coin Ren had given him. “Not only is he paying higher wages, he's also ignoring your work stoppage order.” The guard said, then sighed mentally. He felt a little guilty about informing his Lord about what was going on, but he was still a retainer for House Lodur, no matter who else paid his wages.
+
+One of the 4 faces scowled and turned to the Lord of the House. “I thought you said he was a good law abiding citizen?”
+
+The Lord chuckled. “He is, but this tactic didn't seem to work.” He turned to look at the men gathered around him. “Send the same notice to every Major and Minor House. House Neram is to get nothing else from them.” He sat back in the chair. “They don't have to give any money back, since we're only reviewing the purchases, not canceling them.” He turned to the dwarf on the end. “Get me a messenger.” The group dispersed and the Lord dismissed the guard.
+
+Such rabble. He thought. So easily swayed by money. The Lord of House Lodur wrote out a note on a piece of parchment. The messenger came in and waited until the Lord was done. The parchment was rolled up, and a wax seal was placed on it.
+
+“Deliver that to the Commander of the Garrison.” The Lord told the messenger. “Immediately.”
+
+The messenger bowed deeply and ran out of the office.
+
+*
+
+After feeding Princess, Ren was back underground and kept digging the staircase ramp. He dug for another hour, and filled the crates that he had.
+
+“Damn, now what?” Ren asked.
+
+“If you want to hide the extra dirt, maybe you could dig out the moat around the Keep.” Teepo suggested.
+
+“Teepo! That's a fantastic idea!” Ren exclaimed. “Once the pile is high enough, no one will notice!”
+
+Teepo chittered in laughter. “That's what I'm here for. Brilliant ideas.”
+
+Ren laughed and ran back up to the surface. He left the workshop and walked over to the back of the Keep. I can only go down about 5 or 6 feet, but I can make it 8 feet wide, the same width as the drawbridge. Ren used his hammerpick to dredge up the 8 feet of moat, then shoveled it out to pile the dirt on the other side, away from the 200 feet of stone wall. He repeated this several times and got the pile of dirt up to about 5 feet high. Ren only dug the moat out at the back of the keep, and not all the way around. He took out the large crates of dirt and dumped them onto the piles of dirt and it didn't make any difference.
+
+Awesome! Ren thought then went back into the workshop and started the forge. He smelted up some ore and let it simmer, then slipped into the hidden passageway. He ran down the path and then down the staircase ramps to keep digging. Once the crates were full again, he went back out to dump them, in plain view. No one paid him any attention and he went back and repeated this, over and over. During the day, he used the smelted ore to make 6 sets of full plate armor, dyed red. Ren mounted a 3 inch diamond oval in the center of each chest piece and enchanted it with Protection. He was tempted to enchant every piece of the armor; but his Mana Pool had emptied after he'd enchanted Elerlyth's armor, and he kept forgetting to get Nathalia to recharge it for him. Ren continued to dig and eventually reached the bottom of the Keep, nearly half a mile down. With the extra running around it had taken him 12 hours and not 8, but Ren accepted that as the price to pay for trying to hide what he was doing.
+
+“Things are going to go faster now.” Ren said and ran back to the surface, and saw people were packing up to leave. He ran to the end of the road, and had each cart stop. He repaired their clothing and equipment, and they all thanked him profusely.
+
+“It's the least I can do for all your hard work.” Ren said to each of the workers. “Have a good night.”
+
+When they were all gone, he dumped out the large crates of dirt onto the pile and went inside the house to enjoy another meal. After he fed Princess, he went back inside to talk to Nathalia.
+
+“I've got some Adventurer's business to take care of.” Ren said.
+
+“I know.” Nathalia smiled. “I'll see you in a few hours.”
+
+“Actually, I was going to delay going.” He said. “Maybe for about an hour.”
+
+“Well! Don't just sit there, mister!” She stood up and grinned. “We've only got an hour!”
+
+Ren took her hand and they went to the bedroom. 50 minutes later, Ren tucked Nathalia under the blanket and lay down beside her.
+
+“Logout.”
+
+********
+
+Ren slipped off the VR headset and was met by a sight he didn't expect.
+
+“Ms. Stanford!” Ren said, surprised. “What are you doing here?” He looked at his watch. “It's after 6pm!”
+
+Elise smiled at him. “The boss loved your proposal.” She said and handed him a copy of it. Ren took the proposal and read it. His eyes got wider and wider as he read all of it, then he looked at Elise in surprise.
+
+“Where did this come from?” Ren asked. “What I sent...”
+
+“...would have been rejected without being looked at.” Elise said. “I took the liberty to pad what you wrote, and made it presentable.”
+
+“But...”
+
+“It worked.” Elise said and smiled. “He thought it was a great idea.”
+
+“But...”
+
+“Don't worry, everything is being taken care of.”
+
+“But...”
+
+“What is it?” Elise asked.
+
+“Who are all these people?” Ren waved at the crew setting things up, and Stella watched them closely.
+
+“They're just the setup crew.” She said. “Voice controlled automated cameras, recorders, and storage devices.”
+
+“C-c-cameras?”
+
+“Voice controlled automated cameras.” Elise smiled. “No one will be sitting here watching you.” She said. “They only record when you, Mr. Haddon, speak the command.” She said. “We're installing a microframe to store it all, too. Your laptop will be a terminal access point for it.”
+
+“But...”
+
+“We're doing the physical therapy room next.” Elise said excitedly. “New footage every day of how you improve while using the VR headset!”
+
+“But...”
+
+Elise turned and waved a worker over. He carried a crate of something in his hands.
+
+“The boss liked your idea so much, he sent over 6 VR headsets.” Elise smiled as Ren's mouth dropped open.
+
+“No way!”
+
+“You were right about the medical aspect, and you're going to be our main data point.” Elise chuckled. “The VR recordings, analytics, and real life footage is going to be a treasure trove of data for the tech team.”
+
+Ren looked at her, then sighed. “I guess... I guess it's okay.”
+
+“That's great!” Elise grinned. “You just have to say 'camera record' to turn everything on, and 'camera off' to stop it. You'll see a red light when it's on.”
+
+Ren nodded. “Thanks for coming over so quickly.” He said. “I expected a response after a few days, at least... not after a few hours.”
+
+She chuckled. “The boss doesn't want to wait on this. When someone gives him a great idea, he jumps on it.”
+
+Ren smiled. “Yeah, I know a few people like that.”
+
+“Do you mind if I sit down?” Elise asked.
+
+“Of course not.” Ren said. “Please, sit.”
+
+“Thank you.” She said and sat regally in the chair. Her business jacket popped open and her large breasts jiggled, then shook side to side. Ren could clearly see her white bra through the white fabric of her blouse. He didn't stare at her chest, however.
+
+“Excuse me for a moment.” Ren said. “Bathroom break.”
+
+She nodded and Ren slid out of the bed and went into the bathroom. He cleaned himself up and went back into the room.
+
+“W-what happened to your arm?” Elise asked as she finally noticed the white sling.
+
+“Oh, this?” Ren said and lifted the arm in a sling. “It was just a dislocated elbow.”
+
+She winced as Ren climbed back into bed with a little difficulty.
+
+“I'm sorry to hear you were hurt.” Elise said, and Ren saw she really was sorry.
+
+“It's okay.” He said. “It'll be better in a couple of weeks.”
+
+“You're so brave.”
+
+“It's more like battle fatigue.” Ren chuckled. “So much happens to me all the time, that this is just another little thing I have to deal with.”
+
+“That kind of sounds like me at my job.” Elise smiled. “I do so many things during the run of a day, that I don't even really pay attention to them anymore.”
+
+Ren smiled. “Yeah, that's what it's like!” He said. “When I broke my finger a month or so ago, I pretty much just ignored it.”
+
+“You broke your finger?” Elise asked, surprised. “How?”
+
+Ren went into the story of how it happened, and he watched Elise's reactions.
+
+If I had Elerlyth's ability, I'd be able to feel what she's feeling. Ren thought, then smiled when he got to the part about the guy being arrested and Elise's face broke into a huge grin. She put a hand gently on his arm.
+
+“At least he should think twice about approaching someone like that.” Elise said. “What happened with your finger after that?”
+
+“Lucy had to set it back into place, of course.”
+
+Elise cringed and tightened her hand on his arm for a moment, then relaxed. “I'm glad you're okay after all of that.”
+
+“Me, too.” Ren said, then saw the crew packing up. “I think your workers are done.”
+
+Elise nodded, pat his arm, and stood up. “None of the cameras will work until we get the tech guys back to the lab tomorrow.” She said. “It should all be up and running tomorrow around noon, though. I hope.”
+
+Ren chuckled. “Yeah, trying to get stuff done by a certain time is all I've been doing in the game.”
+
+Elise grinned. “Well, on the plus side the VR headsets will work just fine.”
+
+“That's great!” Ren said, then looked at the crate. “Can the nurses take them home, or are they locked to here?”
+
+“They're just standard units, so they can be used anywhere.” Elise said.
+
+“Nice.”
+
+“What about the software?” Stella asked. “Are you developing something exclusively for the medical aspect?”
+
+Elise turned to her, a little surprised. “We are, actually.” She said. “Can I assume you're Stella?”
+
+Stella's eyes widened. “How did you know that?”
+
+Elise nodded towards Ren. “You were part of the proposal for the medical research.”
+
+“W-w-what?!?”
+
+Elise chuckled. “Apparently, he didn't discuss it with you yet.”
+
+Ren laughed. “I was about to, but when I took off the VR headset, there you were.”
+
+“Ren, what did you do?” Stella asked, and Ren handed her the proposal. She read it, and flipped the page, and read that. She flipped the page back and read the whole thing through again.
+
+“That's brilliant.” Stella said with admiration to Ren.
+
+“I got the idea from you, Stella.” Ren said. “Elise ran with it, though.”
+
+Elise blushed a little. He called me by my first name!
+
+“Okay, then. You're both brilliant.” Stella said. “I hope I'm granted access to the data.”
+
+“Access?” Elise laughed. “It's your data.”
+
+Stella's eyes widened. “You mean...”
+
+“This project is yours. And Ren's, of course.” Elise said. “We're just setting up the tech for you.”
+
+Stella stood there in shock, with her mouth hanging open.
+
+“We hope you can give us some good results soon.” Elise said and turned to Ren. “Thank you for bringing this aspect of the technology to our attention.”
+
+Ren reached a hand out to her, and she took it. “That's me.” He said and shook her hand. “I'm just full of ideas.”
+
+Elise grinned. “Well, keep them coming!” She said and let his hand go. “I'll send a message when the mainframe is tied in for the cameras.” Elise waved as she left the room.
+
+Ren and Stella waited and stared at each other for a minute, then started laughing. “Keep them coming!” They said at the same time and then laughed harder. After a few minutes, and a few wiped away tears, Stella sat down next to the bed.
+
+“Ren, thank you.” Stella said, sincerely.
+
+“You don't have to-” Ren started, but Stella cut him off.
+
+“I've dreamed about something like this my whole life.” Stella said. “Being involved with a project like this... it could have medical ramifications that could help thousands of people...” She shook her head. “Ren.” Stella said and took his hand. “Thank you very much.”
+
+“You're welcome.” Ren said, then grinned. “I thought you might have been joking before about me being your guinea pig; but, now I have to be.”
+
+“Yeah, you're stuck with me now!” Stella said and grinned.

@@ -1,0 +1,217 @@
+---
+id: c876c927-ed03-58a8-9c77-e1cf6df6598a
+page-type-slug: story-chapter-royal-road
+title: "Interlude 01 Alicia"
+slug: 0024-interlude-01-alicia
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 24
+ownLength: 2607
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3240053/interlude-01-alicia"
+royalRoadId: "3240053"
+---
+
+Alicia was a girl that grew too slowly.
+
+That was what her mother would say, not unkindly, whenever someone asked about her beautiful daughter. It was also something Alicia herself would reluctantly admit.
+
+She had always been delicate. It had caused problems for her family, especially when she was younger. A body that was ill more often than not kept her indoors while other children ran beneath the sun.
+
+So she learned to draw instead.
+
+If she could not go out and experience the world, she would imagine it. She sketched hills she had never climbed, markets she had never seen, and cities travelers spoke about in passing. When people praised her drawings, she glowed softly. If she could not be strong, she could at least be good at something!
+
+As she grew older, her health improved. Not enough to run freely like other girls, but enough that she no longer lost her breath walking through the village. Her mother called it a blessing from the Goddess.
+
+It had come just in time as well because when their village was destroyed and they were forced to flee, she had managed to survive the journey.
+
+Alicia was a girl who frightened easily.
+
+When they arrived in Ashridge, she was overwhelmed by everything. For someone who had only known a small settlement, Ashridge felt enormous in her eyes.
+
+Walls so tall, and even a carpenter’s workshop too! It was both frightening and exciting at the same time, and she had been eager to take advantage of her improved health to explore the village properly for the first time. The children were kind too, none of them mean, and most of them were happy to include her.
+
+Though they might be a little too mischievous at times. Once, they dared each other to sneak into Master Harlon’s workshop.
+
+Alicia had never had so many friends before. Caught up in the moment, she volunteered to go first. It was something she would normally never do.
+
+When the big scary looking man with the strange pipe grabbed her shoulder from behind, she burst into tears and stumbled out of the workshop!
+
+Father had laughed but mother was furious and worried she might have hurt herself on the tools.
+
+Master Harlon turned out not to be as frightening as he looked. He even gave her spare charcoal for her drawings.
+
+That was when she learned not to judge someone by their appearance.
+
+Uncle Joren looked scary too, but he was always kind to her, slipping her extra nails when she ran errands. But he teased her often...that was a little mean of him.
+
+Alicia was a girl who hated being a burden.
+
+She preferred to be quiet most of the time. Speaking her mind had never come easily to her, even when she should have done so. Yet if someone asked her what she thought of nobles, she would answer softly that she did not like them very much.
+
+The former Lord of Ashridge was terrifying.
+
+He watched her too closely as she grew older. His eyes made her skin crawl. When her father noticed, his face had taken on a look she had never seen before.
+
+Life became smaller after that. She could not play with the other children as freely. The boys were warned not to approach her. The girls reluctantly stayed away so they would not attract attention. They tried to talk to her often but it was hard when she couldn't leave her room.
+
+It was her fault again.
+
+She told herself that often as she sighed, staring out of the small window of her room. Her family had struggled because of her health. Now they struggled because of her appearance.
+
+She did not even understand why people cared so much. She was small. Her chest was not as full as her mother’s. Her skin was pale enough that she looked like a ghost!
+
+When the former lord left, she felt relief so strong it made her knees weak. She was too old to play like a child anymore but at least she could walk through the village without fear!
+
+She could help her family with errands again too!
+
+Then the new lord arrived only weeks later, and her world shattered again.
+
+He looked even more frightening. Younger. Sharper. His temper reminded her of boys who fought over the silliest things but darker.
+
+She had been running an errand for her mother when she first heard his voice.
+
+“Bring me that girl.”
+
+Men in armor seized her before she could think. She found herself inside the manor, a place she had only imagined yet always feared at the same time.
+
+That first night was terrifying.
+
+Master Elias ordered her to remain in her chambers. The room was so large it could fit several of her old room inside it. The steward looked at her with something like sympathy, but his instructions were firm. She was to prepare herself.
+
+She sat on the unfamiliar bed and cried. The bed was softer than anything she had ever touched, but she would have traded it gladly to return to her tiny room.
+
+After shedding what must have been all her tears, she forced herself to prepare as best she could. If she offended the lord, her family would suffer again, and the thought of being the cause of that pain made her hands tremble.
+
+But before anything could happen, shouting erupted outside the manor. Her window faced the gates, and when she saw her father arguing with the guards, her heart dropped and her breath caught painfully in her throat.
+
+It nearly shattered when her father was taken away and she learned that the Lord had ordered his execution.
+
+For the second time that night, she cried even harder, sobbing without restraint as she waited for the Lord to summon her.
+
+But no one came to her room that night. She had cried herself into a restless sleep filled with dreadful images of what might happen to her father at dawn.
+
+Her gift for imagination, which had once brought her comfort, became a merciless curse, painting scenes so vivid and terrifying that she wished, for the first time, that she did not possess it at all.
+
+And then there was the execution. She had stood at her window that day, watching in silent terror as Captain Dorian’s sword was placed at her father’s neck.
+
+‘I need to say something…’ she whispered to herself as she watched from above. She despised her silence in that moment, despised the way her throat tightened and no sound would come, even as her father was about to be killed before her eyes.
+
+Even keeping her eyes open felt unbearable, yet she forced herself to endure it, a fragile act of defiance, refusing to turn away from a sight that did not belong in the small and gentle world she had known.
+
+When the Lord ordered her father to be spared, the relief was so powerful that she nearly collapsed in tears once more. She held herself together with effort and watched the new Lord of Ashridge closely as he returned to the manor, her heart still racing.
+
+‘I need to do something.’ she whispered after forcing her breathing to steady. She looked around the unfamiliar room carefully, unsure of what she could possibly offer but determined to try.
+
+Her eyes were drawn to a dress, a beautiful uniform like those worn by the maids in the manor. It appeared similar at first glance, yet it carried more frills than the others and the skirt was so short it barely reached her knees, leaving her suddenly aware of how small and exposed she might look in it.
+
+‘I...I have to wear this and...serve him!’The thought repeated over and over in her mind as she gazed at the dress, something so beautiful and delicate, yet so frightening in what it seemed to imply.
+
+The new Lord of Ashridge was strange.
+
+Alicia had never been involved with nobility in her life before. There had never been any reason for it, as the only thing people ever called special about her was her appearance, and even that was something others insisted upon rather than something she truly noticed herself.
+
+And yet, she now had to serve a noble, as a personal maid no less. It was such a drastic change to her daily life that she could not help but feel anxious over every small task she was assigned.
+
+When Lord Lucien’s lunch had to be served, it was she who stepped forward as his maid. When he was thirsty or hungry, anything that concerned him became her responsibility, and she felt constantly aware of it.
+
+Even serving food became an ordeal, filled with small but unyielding rules of etiquette, the precise place she was meant to stand, the careful way the door must be opened and closed, even the expression she needed to maintain.
+
+Alicia had never known how demanding a maid’s life truly was. She had once admired their uniforms, but now she could only marvel at the control they possessed.
+
+Then there was Lord Lucien himself.
+
+The servants from the manor did not know him well. They only knew the former lord, who was rarely present in the village.
+
+Lord Lucien, however, was always in the manor. And he had the strangest requests sometimes!
+
+For instance, he asked her to bring him books about farming, and she accepted at once, eager and hopeful that a good impression might mean something for her father, only to realize later what she had forgotten.
+
+She did not know how to read.
+
+It was strangely mortifying, even though there was nothing odd about her not being able to read. She did not want to fail Lord Lucien’s first request for her, so she did her very best to choose what she thought he might want.
+
+How lucky it was that at least one of the books she picked, despite her poor literacy, had been the right one! She had been a little proud of herself for that.
+
+...That was until Alicia learned a small secret, and her simple pride shifted into something that made her face grow warm whenever she thought about it.
+
+She had not wanted to fail again, so she forced herself to ask Master Elias to teach her how to read. It had been frightening to approach the composed and capable elderly steward, but he had agreed without hesitation!
+
+When she had learned her letters well enough, she discovered it while cleaning the study one day.
+
+Inside the drawer of Lord Lucien’s desk she found the book again. Its cover was wrapped in deep red leather that looked almost too pretty to touch, the surface smooth beneath her fingers while faint gold letters pressed into the cover caught the light softly.
+
+Alicia remembered choosing it simply because it had looked...important.
+
+At the time she had thought it must surely contain something serious.
+
+The “farming book” Lord Lucien had taken that day...it was a novel.
+
+It had nothing to do with farming at all.
+
+And it was...she shook her head slightly, her cheeks turning pink. The contents had been...strange in a way she had never encountered before. Not terrible! Just...a bit embarrassing...that was all.
+
+She had only meant to read a few lines to confirm what kind of book it was.
+
+Unfortunately, that had been enough for her imagination to supply the rest, which had only made everything worse.
+
+She had quietly returned the red leather book to the drawer afterward and decided, with great determination, that she would pretend she had never seen it at all.
+
+‘W-why would Lord Lucien be reading a book like this!?’ she exclaimed inwardly, her thoughts stumbling over themselves as she tried to imagine why her lord would choose such a...book.
+
+Before she could stop herself, she began imagining all sorts of strange possibilities. The girls in the village had always whispered stories about nobles, and so her mind wandered in directions that made it very difficult to look at Lord Lucien properly over the next few days.
+
+But as the days passed and the Tithe began to draw closer, Alicia realized something about the new Lord of Ashridge.
+
+He...was staying.
+
+No...he had never intended to leave.
+
+It was strange! Nobles did not remain during the Tithes. So why was Lord Lucien doing so!
+
+The thought of it simply could not untangle, and because she could not understand it, she found herself watching the Lord she served more and more carefully.
+
+He did not request “service” from her or any of the maids. She would have known if he did, for her room was closest to his.
+
+Lord Lucien never raised his voice, even when Uncle Joren spoke rudely or when Master Harlon addressed him without courtesy.
+
+He watched the villagers not with cold calculation, but with concern, as though their wellbeing weighed on him personally.
+
+When the drills began, she noticed how his expression darkened each time someone was hurt. He made sure everyone had enough to eat, even when he himself skipped meals without realizing it.
+
+Alicia’s brows creased as she thought about how she had needed to remind him to eat dinner again only yesterday. The Lord cared so much for the wellbeing of others that he seemed to forget his own entirely, and that simple fact made her worry for him.
+
+It was then that she realized why Lord Lucien had lied about the book that day.
+
+‘He was being kind to me.’
+
+It was such a small and quiet kindness. Not something done to appear virtuous or noble. Not something announced or displayed for others to admire.
+
+He had simply chosen to shield her, without drawing attention to himself, protecting her from embarrassment without ever letting her realize it at the time.
+
+She had felt something break loose inside her when she heard Master Harlon’s words. A hot and insistent feeling churned in her chest as he spoke, growing louder than her fear, louder than her hesitation.
+
+‘T-this time… I won’t just stay silent!’ she thought, the memory of the window flashing painfully through her mind. She would not be a burden again, not to her family, and not to the kind lord who watched over everyone while no one truly watched over him.
+
+So she spoke.
+
+She tried her best. There were so many things she had wanted to say, t-to scold Master Harlon and to tell everyone how hard her lord worked.
+
+It was so scary.
+
+But she had done it. Not as well as she wished. The words had stumbled, and she had not managed to speak of all the little things he did when no one was watching.
+
+She had not remained silent. Not this time. She could still remember how violently her heart had been beating that day, her voice trembling as she spoke before people far more important than herself.
+
+Alicia decided that she would watch over Lord Lucien and care for him in return.
+
+Quietly, just as he cared for others when no one noticed. Because no one seemed to look after him, she would. She would make sure the quiet and kind lord did not forget himself in his concern for everyone else.
+
+She would take care of him not just because she was his maid.
+
+Not because of her father’s punishment, even though she suspected he had no real intention of punishing him severely.
+
+But because her lord would not care for himself the way he cared for others.
+
+It was then that Alicia became Lord Lucien’s personal maid.

@@ -1,0 +1,245 @@
+---
+id: 1063299a-30cd-50aa-96fe-9e7bdb5962fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 599 - Working Out"
+slug: 0599-chapter-599-working-out
+partOf: mythrans-master-of-all-continued-completed
+position: 599
+ownLength: 2989
+unit: words
+publishedAt: 2018-05-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218997/chapter-599-working-out"
+royalRoadId: "218997"
+---
+
+Ren spent the remainder of the day with Anabelle, almost 3 full hours. When they were done, Anabelle was well and truly sated and Ren was reassured that she wasn't as affected by the changes to the game as Frikara and the others were. He kissed her goodnight and equipped his special armor bodysuit, then went down to the second floor and saw Seldanna as she writhed on the floor.
+
+Artemis walked over to him and leaned in close. “She's never been near you when... you know.”
+
+“How bad is it?” Ren asked.
+
+“She's caught in a fantasy, I think.” Artemis said. “She felt everything you and Anabelle felt, for as long as you felt it, and she... well...”
+
+“She's blocking off her emotions as hard as she can, too.” Ren said and walked over to her. “Seldanna? Can you hear me?”
+
+Seldanna didn't respond and kept squirming around on the floor. Ren reached out and touched her arm, and she froze solid as a statue. Now that he was touching her, he felt her deep seeded need to be treated exactly like Anabelle had just been treated, and that was why she was reacting the way she was. Seldanna was afraid that if she let the feelings go now, she would never find them again.
+
+Ren let her arm go, but she didn't move. He touched one of the wings on her back and traced a particularly large vein in the membrane of her bat-like wing. Her whole body trembled as his hand slid down her wing and he ended right beside her lower back. The tension in her body was so high that he wondered why she wasn't crying in pain with the strain. He could feel her desire for him to go that last little bit, and Ren slid is hand over the cheek of her ass.
+
+“GAH!!!” Seldanna yelled and finished, then she rested her forehead on the floor. “P-p-please...”
+
+Ren moved back slightly and sat down on the back of her thighs. He let her feel some of his weight, and she caught her breath. He used one hand and lifted one of her folded wings, then gripped it by the top. He lifted the other wing and put it in the same hand, so now he had both of her wings caught.
+
+Seldanna's breath sped up and she started to panic slightly, because she was caught. She couldn't move without hurting herself, and she fought her own body's urge to try and flee. She hadn't realized that Ren knew if he immobilized her wings, she was immobilized, too.
+
+Ren could feel what she felt and even after being with Anabelle all this time, he still didn't understand the fascination some women had with being restrained. It didn't make sense to him, mainly because he had been restrained for most of his childhood and he hadn't felt any kind of sexual satisfaction out of it; but, since he could feel what they felt, he also knew what they wanted and in most cases what they needed.
+
+Ren reached down and used a single finger to find her special place and touched her. Seldanna finished again and he felt her wings and body tremble and strain against his grip. She didn't try and fight him, however. He wiggled his fingertip against her, and her hands grew into claws and dug into the wood floor as she finished yet again. He eased his weight off of her thighs and her breathing slowed down, because she thought he was done.
+
+Ren smiled as he used two fingers to touch her special place through her bikini bottoms. “Seldanna, you can let Anabelle's feelings go.” He said and tickled her there.
+
+“Oh! OH!” Seldanna yelled and finished again.
+
+“I can tease you as much as you want.” Ren said. “All you had to do was ask.”
+
+“Too... afraid.” Seldanna managed to get out. She ground her teeth together to stop herself from screaming in pleasure. “You... say no.”
+
+“I won't say no to any reasonable request, or we can try to see if there's some kind of compromise we can reach.” Ren said as he removed his hand from between her legs. “Like this.” He said and slapped her butt.
+
+“GOD!” Seldanna said and finished again. That last must have been some kind of threshold for her, because her whole body relaxed. All the tension melted away, and she turned her head to rest her ear against the floor and looked at him. “M-my K-king.”
+
+Ren let her wings go, and kissed the spots he had held them. Seldanna shivered at the gentle press of his lips on her skin, and he stood up.
+
+“I'll give you a few minutes to recover.” Ren said, and he felt her emotional exhaustion.
+
+“N-no.” Seldanna said and pushed herself up into a sitting position, then rested against a nearby couch. “I can... go right now.”
+
+Ren knelt beside her and looked her in the eyes. “Rest for a moment. Let these feelings become a part of you. Remember how this felt. Remember that all you had to do was ask.”
+
+“R-Ren...”
+
+“You know what? I think we should go right now.” Ren said and stood up.
+
+Seldanna looked at him with wide eyes, and he smiled warmly at her and picked her up in a princess carry. He was very careful of her wings, and he had to step up into the air.
+
+“We... won't fit through... the door.” Seldanna said.
+
+“Who needs doors?” Ren asked and cast Pass Wall on the wall in front of them. He casually walked through the opening and Artemis floated out beside him. He dismissed the spell and walked through the air over to the Housing District. The 2 succubi on patrol saw them and flew right over.
+
+“What happened?” Ellaria asked, and then she felt her friend's emotions. “Oh.”
+
+Seldanna's face flushed red and Ren gave her cheek a kiss. The 2 succubi floated beside them as they went to the house, and Ren cast Pass Wall to enter the large bedroom.
+
+“Everyone come inside.” Ren said to the succubi, and they all gathered together in the bedroom. “I have Adventurer's business to take care of and I should be back by morning.” He said. “But if I'm not, go on regular patrols and ensure the safety of the house and it's occupants during the day.”
+
+“You can count on us.” Ellaria said.
+
+“Thank you.” Ren said and put Seldanna down on the bed near him. “You rest, okay? I don't want you exerting yourself right now.”
+
+Seldanna nodded and Ren laid down on the edge of the bed beside her.
+
+“Artemis, you know the drill.”
+
+Artemis nodded and Teepo flew up to land on the ceiling.
+
+“See you when you get back.” Teepo said.
+
+“Logout.”
+
+********
+
+Ren didn't move and let Stella take off his VR headset.
+
+“You don't have to say anything.” Stella said and motioned to Barbara sitting by the bed. “She showed us what happened.”
+
+Ren turned his head to the side and saw that Elise was gone.
+
+“She left to go visit the company personally.” Barbara said. “We also told Lisa, and she's doing what she can to investigate.”
+
+“Wow.” Ren said and looked at both women. “You're all really great!” He said and smiled. “You know that, right?”
+
+Stella chuckled. “We had no clue until you just told us.” She said and pat Barbara's shoulder. “Did you hear that? We're grrrrrreat!”
+
+Barbara laughed. “You sounded just like that tiger mascot selling cereal on television.”
+
+“That's because I am!” Stella said and pulled over the rollaway table with a food tray on it. She lifted the plastic cover and under it was a bowl of cereal. “Ta-daaa!”
+
+“And you say I'm the one that over-acts.” Ren said, and she laughed.
+
+“Eat up, and we'll go for a little walk.”
+
+Ren nodded and ate his cereal and drank his supplement drink. Stella helped Ren get changed into his workout clothes and sat him in the wheelchair. Barbara followed them to the elevator and they went downstairs to the workout room to meet Donald there.
+
+“Now don't push yourself.” Donald cautioned Ren. “You were up to doing 50 feet consistently before; but after that last setback, you've got to build up your strength again.”
+
+Ren stood up and slowly took several steps, then a few more. He stopped and waited to make sure he wasn't going to get dizzy or anything, then kept going. He reached 20 feet and turned around, then made it 10 feet back before his legs started to become weak. He stopped and waved to Stella, and she came over with the wheelchair.
+
+“Good job.” Donald said.
+
+“I... didn't go far.” Ren panted. “Damn, I hate being so weak.”
+
+Donald chuckled. “I meant you called for help before you became too exhausted to stand up on your own.”
+
+“Oh.”
+
+“It takes more courage to ask for help when you need it, than it does to try and push on and do it all by yourself, son.” Donald said and glanced at his wife, Barbara. “Trust me.”
+
+Barbara put her arm around her husband and kissed his cheek.
+
+“It almost never works out the way you want if you go it alone.” Barbara said.
+
+“With you by my side, I'll never be alone.” Donald said and turned to her. She put her other arm around him and they stared at each other.
+
+“I'd tell you to get a room, but you've got a whole house out back.” Ren said.
+
+Stella snorted a laugh. “Ren...”
+
+“I'm trying to be subtle here, Stella.” Ren said and grinned.
+
+“All right, we get the hint.” Barbara said and let her husband go.
+
+“I didn't say stop, Barbara.” Ren said and motioned to the door. “I was just reminding you that you have lots of room to do that kind of thing, and no one will disturb you there.”
+
+“You just want us out of your sight.”
+
+“Actually, I'm pretty sure your husband wants you out of sight so he doesn't have to stop.” Ren looked at Donald's face and saw him wink. “Or I could be reading him completely wrong.”
+
+Barbara chuckled and took her husband's hand. “Just this once, I'll listen to your advice and take this somewhere else.”
+
+“Thanks.” Ren said. “Stella, I think I really need a shower.”
+
+“By the smell, I'd say you might be right.” Stella joked. “Let's get you back to the room and we can deal with it.”
+
+They left the workout room and Stella took Ren up the elevator and back to his bedroom. She didn't stop at the bed or get him clothes to change into, and instead pushed him right into the bathroom. She got him undressed and sat him on the step stool in the middle of the shower.
+
+Ren was too weak to even make jokes about playing with Stella, and she noticed his demeanor was different than usual. She didn't mention it until she had him washed and dried, and had him in his bathrobe and back on the bed.
+
+“Ren, you were really reserved in the bathroom.” Stella said. “What's wrong?”
+
+Ren sighed. “I'm...” He looked at her with longing. “I've gotten used to having the maids with me in the mornings when I wake up.”
+
+Stella blinked her eyes at him and thought about what he was saying. “Ren, what are you...” She stopped talking when she finally understood. “How many times?”
+
+“At least once each.” Ren said. “I spent about 3 hours with Anabelle before logging out, but...”
+
+Stella nodded and went to the bedroom door, then left for a couple of minutes. When she came back, she had Lisa with her and she locked the door. Ren looked at them as they approached the bed and saw anticipation on Lisa's face and caring on Stella's. They took off their clothes and climbed onto the bed, and Stella untied Ren's robe.
+
+“Stella... Lisa...”
+
+“Shh.” Stella said. “You're too weak to do much, so you just lay there and let us take care of your needs.”
+
+Ren took a deep breath and let it out, then touched Stella's hand and Lisa's. “I love you both so much.”
+
+“We love you, too.” Lisa said and looked down at him. “You're getting close to it hurting again, aren't you?”
+
+Ren nodded. “It seems the more I use it, the more it has to be used.”
+
+Stella and Lisa exchanged glances, then looked back at Ren.
+
+“We'll do what we can to help you with that.” Stella said as she undid her long dark hair and let it fall down her back as she climbed on top of him, then both women proceeded to please him as many times as they could. They both used their very different bodies to make him finish over and over.
+
+Stella's tall and athletic body was perfect for giving him a 'massage' while Lisa's smaller, but just as nice body, kept him occupied with other things. It was a while later when Lisa's shoulder length blonde hair replaced Stella's dark hair in his sight and Ren stared at Lisa as she climbed on top of him.
+
+“I love that look in your eyes.” Lisa said and braced herself for him. “I could stare at you for the rest of my life.”
+
+“That's my line.” Ren said, then she eased down onto him and he couldn't talk anymore. With Stella's and Lisa's assistance, Ren had the best morning workout he had ever had, and he didn't have to move an inch.
+
+*
+
+“What do you mean you can't do anything about it?” Elise asked Max. She fought hard not to punch the smug tech programmer the entire time they had been talking. They sat across from Edward Torren in his office, and Elise was not happy about what she was hearing.
+
+“I'm under direct orders from the boss to not interfere with anything to do with Ren.” Max said smugly.
+
+“It's true, Elise.” Edward said. “The whole tech department are under the same restriction.”
+
+“Sir, they have interfered with him!” Elise said. “You read his email!”
+
+“That wasn't direct interference, though.” Max said. “The game code for the world event adds new content for all NPCs, including dialogue and feelings towards the Sea Dwellers.” He explained. “At the time we wrote it all and set the update, he wasn't considered a Sea Dweller.”
+
+“But...”
+
+“He got around each of the restrictions I painstakingly put into place to stop players from going into the pocket realms, Elise.” Max said. “You can't blame me for him causing these consequences to himself from his own actions!”
+
+Elise opened her mouth to argue that she did, and Edward raised a hand to stop her.
+
+“Elise, I've already discussed this with Max and a few of the people that worked on the main update.” Edward said. “Unfortunately, this update was a blanket change and wasn't designed for individual NPCs. All of them were updated, not just the ones he interacts with on a... personal level.”
+
+“Can you undo the update on them?” Elise asked. “Just those near Ren?”
+
+“How do we determine the ones near him?” Max asked. “Just who lives with him? His friends? His friends friends? The shop owners he visits? The townspeople he walks by?” He took a breath and let it out. “Where would we stop, Elise? Where?”
+
+Else hated it when he beat her arguments with logic, because she knew he was right. “Dammit, what am I going to tell him?”
+
+“Just ask him where would he draw the line of who he wants reset back to what they were like before the update.” Max said. “Believe me, he's a smart kid. He'll understand.”
+
+Elise was about to argue that he wasn't a kid, but changed her mind. “Can't you make an exception for just the maids? A quick patch to remove the alterations?”
+
+“It wouldn't work.” Max said. “Oh, they'd change and be back to normal, right up until one of the conditions for the world event is met.”
+
+“You mean Ren's Sea Dweller title.” Elise asked.
+
+Max nodded. “As soon as they see him, they access the database for their dialogue...”
+
+“Which is set up for the world event.” Elise said and sighed. “Why did you do it that way?”
+
+“It was easy, and it saved the servers from having to generate dialogue for hundreds of thousands of NPCs.” Max said.
+
+“It also saved the writers hundreds of hours of work, and saved the company a lot of money.” Edward added.
+
+Elise had to agree, despite her hatred at herself for doing so. “I'll... this is going to...” She stood up. “Mr. Torren, did you listen to my advice?”
+
+“I did, and I've already taken the steps you recommended to ensure the integrity of this company.”
+
+“I guess I should be glad of that, but it seems bittersweet with what's happening.” Elise said. “Thank you for seeing me on such short notice.”
+
+“You're always welcome to come over and see me, Elise.” Edward said. “My door is always open for you.”
+
+“Thank you, sir.” Elise said and left the office. She shut the door and looked at her replacement, who hit a key on her keyboard to block the security cameras with a screen capture of the current room. “Please tell me you have it.”
+
+“I couldn't check it, obviously.” The secretary said as she opened her purse and handed Elise a large portable drive. “I hope it works.”
+
+“So do I.” Elise said and handed her an envelope in exchange. “Thank you.”
+
+They both tucked away their acquisitions into their purses and returned to where they were, then the secretary hit the key again to return the camera to a live feed.
+
+“Have a good day, ma'am.” The secretary said, and Elise left.

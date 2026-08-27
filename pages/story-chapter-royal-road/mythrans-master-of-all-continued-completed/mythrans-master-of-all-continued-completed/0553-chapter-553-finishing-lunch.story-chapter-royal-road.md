@@ -1,0 +1,237 @@
+---
+id: 5b6a683c-ca03-5458-871f-a96ea40fc7e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 553 - Finishing Lunch"
+slug: 0553-chapter-553-finishing-lunch
+partOf: mythrans-master-of-all-continued-completed
+position: 553
+ownLength: 2547
+unit: words
+publishedAt: 2018-04-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207426/chapter-553-finishing-lunch"
+royalRoadId: "207426"
+---
+
+“What in heaven's name was that?!?” Blair asked when the front door shut.
+
+“It's a construct imbued with Jashun's thoughts of his imaginary friend.” Ren said.
+
+“But... but...”
+
+“She'll stay with him for the rest of his life, and will protect him for as long as he needs her.”
+
+“My Lord! How?” Blair's wife asked.
+
+“Do you really want me to explain the magic that just happened?” Ren asked her, and she smiled and shook her head.
+
+“I never thought something like that was possible.” Blair said.
+
+“I didn't know it would work until I touched your son.” Ren said. “Once I felt his emotions directly, I knew I could make her be everything he would ever need.”
+
+“Everything... he would... need...” Blair's wife muttered.
+
+Ren walked over to her and put a hand on her shoulder. “No, don't think like that.” He said. “That's not the kind of love he has for her.”
+
+“But...”
+
+“She's not anatomically correct.” Ren said, and they looked at him funny. “It means that she doesn't have any working girl parts.”
+
+“Ohhhh.” Blair and his wife said together, and Ren smiled as he took his hand back.
+
+“He sees her as a little sister anyway, so don't worry about it.” Ren said.
+
+Blair took a deep breath and let it out. “Now through your magic, we have a third child.” He shook his head. “I can't believe it.”
+
+“I know two children must have been a handful, so Celeste should ease that burden a little. She'll be a constant companion and will watch out for him, just as much as your other son's warhorse will watch out for him.” Ren said, and he felt some apprehension from them. “Do you want me to ease the financial burden on you?”
+
+“What? No.” Blair said. “This is an older county and it has lots of citizens that tithe to us once a month.” He said. “It's only a pittance from them; but when added all together, it's a significant amount of money.”
+
+“Then why are you apprehensive?”
+
+“This thing that happened... and then you...” The woman said. “You've changed our lives.”
+
+“Ma'am, I...”
+
+“Don't try and tell me that our lives won't change after this.” She said. “After I saw what my husband had become... and the children saw... we thought our lives were over.” She put her arms around her husband and hugged him. “You gave him back to us, and we can never thank you enough for that.”
+
+“If you ever need help, I will come running.” Blair said. “You have my pledge.”
+
+Notice!
+
+One of King Alamast's knights has pledged his help to you. Since he controls an entire county full of citizens, they will be willing to heed your call as well.
+
+Fame: +100
+
+“That wasn't necessary, but thank you.” Ren said. “Now I have to go.”
+
+“Thank you, and good luck!” Blair's wife said and waved.
+
+Ren nodded to her and led Artemis out of the small house, and took out the All-Seeing Mirror. “Show me who else Blair has infected.”
+
+The mirror didn't show anyone, and Ren sighed in relief.
+
+“Show me Sharlee's castle apartment.” Ren said and saw the apartment. Princess Diana, Narshan, and Sharlee stood almost in the same spots where he had left them. He cast the Portal spell and it appeared beside him and in the mirror. Teepo dissolved back into the ring and Ren took Artemis' hand and stepped through the portal with her.
+
+“There you are!” Diana nearly yelled. “Where have you been?”
+
+“Blair and his family are fine, thanks for asking.” Ren said to head off her argument for leaving her behind, and she blushed as he dismissed the portal and summoned Teepo.
+
+“That's not what...” Diana sighed. “I was worried about you.”
+
+“I know.” Ren said and smiled at her. “I just didn't want to argue about it.”
+
+Diana opened her mouth to respond hotly, and then felt a hand on her arm.
+
+“Your Highness, I think we can go now.” Sharlee said. “You've done your good deeds for the day.” She smiled. “How many deeds do you normally do?”
+
+Diana smiled back. “Not nearly enough.”
+
+“This is enough.” Sharlee said, then realized she had touched the Crown Princess without her permission and snatched her hand back. “I'm so sorry, Princess! Please forgive me!”
+
+Diana put a hand on her arm. “You've done your 'showing respect' actions for the day.” She said. “How many of them do you normally do?”
+
+Sharlee chuckled at having her own words repeated to her. “Too much, apparently.”
+
+Ren asked the All-Seeing Mirror to show him everyone Sharlee could have infected, and nothing popped up. “Well, it looks like we've rescued everyone Sir Spoon put in danger.” He said.
+
+“We should head back to the dining room.” Diana said and looked at Narshan and Sharlee. “You'll have to wait outside.” She said, a bit sadly. “I'm sorry.”
+
+“I'm not.” Sharlee laughed. “I'm having enough trouble being in the same room with you. I couldn't handle being in the same room with the king and his wife, too.”
+
+“I'm with Sharlee, here.” Narshan said. “I won't take the chance that I'll disrespect the king and your mother.”
+
+The 5 of them left Sharlee's room and went down the stairs to the floor the dining room was on. When they approached the door to the room, Narshan and Sharlee stood by the wall to wait, and Ren nodded to Artemis. She changed her direction and walked over to stand beside them, while Diana and Ren entered the dining room.
+
+“You've been gone a while.” King Alamast said as soon as he saw them. “How did it go?”
+
+“Ren rescued them.” Diana said, and her face went a little red. “Lord Ren, I mean.”
+
+“Ren is fine, Your Highness.” Ren said and walked over to her chair and held it for her. Diana glanced at her father for a second and took the offered seat, and Ren quickly walked around to sit on his side of the table. “Shall I tell you about it while we eat dessert?”
+
+“D-d-dessert?!?” Belinda the serving maid exclaimed from the side of the room. “I... I was supposed to get dessert?”
+
+Ren turned to her and smiled. “I'm sorry, I didn't mean to scare you.” He said. “I'm the one who brought dessert.”
+
+“Oh!” Belinda said and put a hand over her heart. “I thought I messed up.”
+
+Xuunah's hand reached out and rubbed her back, and Belinda relaxed as good feelings filled her.
+
+“What is this dessert?” King Alamast asked.
+
+“Give me a second.” Ren said and put his hands under the table's edge and took out a plate of the fried dough pieces. He used his Hands of the Gods ability and chose Burning Hands, then warmed up the plate.
+
+“What is that delicious smell?” Lady Eleanor asked as the dough warmed up, then she, the king, and Diana all took in deep breaths through their noses.
+
+“I've never smelled anything like it before.” King Alamast said, and Ren deactivated his ability and put the plate on the table.
+
+“It's a specialty from the bakers in my county.” Ren said. “It and the recipe would have been lost forever if Lord Grasham had succeeded.”
+
+Lady Eleanor's smile faded. “Is that why you brought it? To make a point?”
+
+“Of course not, Your Highness.” Ren said, honestly. He could feel that she was perturbed and took out two more plates and warmed them. “I brought them because I wanted you and your family to enjoy them. It's a gift, nothing more.”
+
+Lady Eleanor didn't see any sweat appear on his face, and she nodded. “Then we accept your gift, Lord Ren.”
+
+“Then enjoy.” Ren said and put all three plates on the table. “I brought a lot.”
+
+King Alamast picked one up and smelled it, then took a small bite. He chewed it slowly, and his wife and daughter waited for him to swallow.
+
+“It's delicious.” King Alamast said, and then Lady Eleanor and Princess Diana picked up their own and did the same thing. They took a small bite, chewed it up, and swallowed.
+
+“It is delicious.” Lady Eleanor said, and Diana nodded.
+
+Ren felt how much they actually liked it, so he leaned forward and looked down his side of the table. “Ladies.” He said, and Frikara and the others blushed. He looked the other way to Patty. “Shall we show the Royal Family how us country folk eat them?”
+
+The women nodded, and the 7 people on that side of the table took one piece of fried dough each and bit into them as if they were the best thing they had ever eaten.
+
+“That is so good!” Ren said and took another big bite, then shoved the rest into his mouth. The women had done almost the same thing, and then there was a chuckle from the other side of the table. Diana had a hand over her mouth and wide eyes, because she had tried to do the same thing. She burst out laughing because she had thrown out her mother's lessons of decorum, and everyone joined in and laughed with her.
+
+Ren told them what had happened with Sir Spoon's victims while everyone enjoyed the fried dough pieces, and by the time they had finished, he had finished the part he and Artemis had done alone with Blair and his family.
+
+“The crown thanks you for your work on its behalf.” King Alamast said.
+
+“I should have checked when I heard someone was sick in the castle.” Ren said. “I'm just glad my mistake didn't result in any deaths.”
+
+“As are we all.” King Alamast said. “Now tell me, Lord Ren. How many of my people are you taking from me?”
+
+Ren sighed. “It's not like that, Your Highness.” He said. “One was more than happy to leave his job and he will bring his mother and sister to my county for a better job and free housing. Another discovered her cheating husband and is fleeing that. The knight and his family are remaining, because they are happy with their lives.”
+
+The king sighed. “So, 50% of the people you've helped are going with you.” He said. “What am I supposed to do when you visit the hospitals and heal the other infected?”
+
+“The other infected?” Ren asked. “What about the healer and her assistant?”
+
+“They are doing quite well and are handling the situation.” King Alamast said. “Unfortunately, when people hear of what you did today, even for the ones who had been already healed...” He glanced at his wife, and looked back at Ren. “...they will want you to do the same for them.”
+
+“But...”
+
+“You've come here and you have saved lives.” The king said. “But, at what price?”
+
+“I'm not doing it for monetary gain.” Ren said.
+
+“We know that.” King Alamast said. “That's what makes you so dangerous.”
+
+“Wh-what?” Patty gasped. “Dangerous how?”
+
+“No one can predict the outcome of such things.” The king said.
+
+Ren was going to respond that he knew someone that could, until Frikara took his hand and very slightly shook her head no.
+
+“Then what would you have me do?” Ren asked.
+
+“Would you do what I asked, or would you just humor me and go do what you want anyway?” King Alamast asked.
+
+“I would listen to what you had to say, then I would make my own decision.” Ren responded, and the king nodded.
+
+“I would expect nothing less from you, and that's the problem.” King Alamast said. “You see, I don't want you to go and visit the sick at all.”
+
+“What?” All the women in the room said at the same time.
+
+After a moment, Lady Eleanor took her husband's hand. “Please explain.”
+
+“If they believe they will get a better life from you, most will choose to take it. On the bright side, you will get thousands of new citizens. On the downside, you will get thousands of new citizens.” The king smiled. “This is assuming that once word of you granting outrageous favors if they don't go with you... well...”
+
+Ren sighed. “Some might intentionally infect themselves just to get something they want.”
+
+“Exactly. There are just as many unscrupulous people as there are honest ones, and even those will get a little crazy for whatever it is you can offer them.”
+
+“So you want me to stay away from them, and from doing anything publicly.” Ren said, and the king nodded.
+
+“The less that know of your outlandish generosity, the better.”
+
+“But, I...” Ren sighed again. “If I do stay away, if I walk away knowing I could help these people... it... it goes against what I've done since I became prosperous.”
+
+“I assume it does.” King Alamast said. “Now ask yourself something.”
+
+“What?”
+
+“Would you have done this... any of this... had you not become rich and famous?”
+
+“Your Highness, I seem to be repeating a certain word lately, and it applies here as well.” Ren smiled. “Invalid. Your question is invalid.”
+
+“Excuse me?”
+
+“If I had not become prosperous, if I didn't gain my Lord title, if I didn't defeat Lord Grasham... all of those questions are invalid. I did become prosperous. I became a Lord. I defeated Lord Grasham.” Ren said. “I've done lots of things as an Adventurer, Your Highness. Things that would have changed my life significantly if I had done them differently; but, I didn't. I am where I am because of everything that has happened up to this point.”
+
+King Alamast exchanged glances with his wife, Lady Eleanor.
+
+“I've done good things... and I've done bad things. I don't shy away from the hard choices, and I don't hide from my problems.” Ren said. “That's why I'm here. I made hard choices, and I'm here to see what can be done about them.”
+
+“We don't discuss important things at mealtimes.” Lady Eleanor said.
+
+“I'm not, Your Highness.” Ren said, and he didn't sweat at all, much to her surprise. “I would like to ask when the bureaucratic meetings will end and when we can discuss important things.”
+
+“It's going to be anywhere from an hour to 5 hours.” King Alamast said. “Depending on the speed at which some of the government officials plead their positions on certain issues.”
+
+“Then I'll come back in an hour and a half.” Ren said and stood.
+
+“You're leaving?” Diana asked. “Ren... Lord Ren... if we finish early and if you are not here...”
+
+“Then don't finish early.” Ren said, and the maids and Patty stood up. “It's in the best interest of the Human Kingdom to still be in session when I get back.”
+
+“Is this about-”
+
+Ren held a hand up to cut Princess Diana off. “I can't discuss it here.” He said and motioned for the women to walk towards the dining room door. “I'll be more than happy to talk when I get back from the High Elven Kingdom.”
+
+“The High Elven Kingdom? Why are you going there?” King Alamast asked.
+
+Ren shook his head at the king, then nodded to Lady Eleanor. “I'll fill you in when I return.” He said, and then left the dining room with his entourage.

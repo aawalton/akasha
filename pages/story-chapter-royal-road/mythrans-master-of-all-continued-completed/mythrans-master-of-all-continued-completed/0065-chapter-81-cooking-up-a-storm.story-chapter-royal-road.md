@@ -1,0 +1,377 @@
+---
+id: cdaf0e42-1f18-53b5-bf1a-5c817393db52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81 - Cooking Up A Storm"
+slug: 0065-chapter-81-cooking-up-a-storm
+partOf: mythrans-master-of-all-continued-completed
+position: 65
+ownLength: 4587
+unit: words
+publishedAt: 2016-11-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102628/chapter-81-cooking-up-a-storm"
+royalRoadId: "102628"
+---
+
+Ren ran to the front of the mansion and a single guard was at the front door. Teepo hopped onto Ren's head as the cloak was unequipped and Ren put on the apron. “Kitchen staff.” Ren said and the guard nodded. Ren entered the mansion and went down the left hall and knocked on Donna's office door. There was no answer, so Ren entered the kitchen to the hustle and bustle of making a meal. By the smell, it was eggs and bacon. Ren slapped his hands together lightly and then dove in to help where he could.
+
+Donna came into the kitchen about an hour later, disappointed that Ren hadn't shown up to tell her he could start work, and was surprised to see that Ren was flipping bacon and cooking toast at the same time. Donna walked over to Tait, who was finishing up making a tray of rolls.
+
+“What's going on?” She asked him.
+
+“He showed up over an hour ago and started helping Sandra with the eggs. He had a hard time judging when to flip them, but once he saw how we made them scrambled, he pretty much took over.”
+
+Donna's eyes widened at that. “Took over?”
+
+Tait nodded. “He can whip those eggs like they were nothing. I don't know how he does it! My arm kills me after a single bowl. He's already finished the scrambled eggs for the garrison and now he's moved on to do the fried eggs and bacon.”
+
+“Where's Sandra and Alina?” Donna asked.
+
+“Ren's handling everything really well, so they took a break.”
+
+Donna shook her head and walked over to Ren. “Having fun?”
+
+Ren looked at her and flipped the bacon without looking. “Am I! This is great!” He said and flipped the toast over.
+
+“What are you doing?”
+
+“Making a sandwich.”
+
+Donna stood back and watched as Ren used the butter brush to coat one side of the toast, dropped a few pieces of bacon on it, then a fried egg, and another buttered piece of toast. He put it on a plate, cut it into 4 pieces almost before Donna could see him move the knife, and he put it on the food service window into the main dining room. One of the maids took the sandwich right away and another maid took her place.
+
+“What's going on?” Donna asked.
+
+“I can't make them fast enough.” Ren said, finished another sandwich, and passed it out. “Everyone loves them.”
+
+“I don't understand. How do they even know you can make them?”
+
+Ren's face flushed a little red. “That was my fault.” He said. “I took a break and made one for myself. I cut it in 4 and ate a piece, then so did Alina.” Ren chuckled. “Then Anabelle saw it and wanted to try it...”
+
+“Anabelle?” Donna asked.
+
+Ren finished another sandwich and handed it to the waiting maid, who waved to Donna and blushed slightly at Ren.
+
+“Oh.” Donna said.
+
+“Once someone saw what she had... well, you know the rest.” Ren said.
+
+Donna nodded. She knew full well that news of something new on the menu would travel fast through the mansion. Ren finished another sandwich and passed it out.
+
+“Only one more, Ren.” Anabelle said when she came back to the window. Ren nodded and did the sandwich up.
+
+“There you go.” Ren said and smiled as he handed it to Anabelle, who blushed again as she took the sandwich. Ren scraped off the bacon residue and toast crumbs from the grill-like surface and wiped it down with a damp cloth.
+
+“Is there something going on between you two?” Donna asked as she looked at Ren.
+
+Ren shook his head. “Not really. We had a slight misunderstanding at a party once, and an awkward situation afterwards.”
+
+Donna raised her eyebrows.
+
+“Don't worry. I handled it properly...” Ren smiled. “...at least, I hope I did.”
+
+Donna nodded. It wasn't her business what people working for her did in their personal lives, unless it interferes with work. “As long as it won't disrupt my kitchen.”
+
+“It won't.”
+
+“Where did you learn to make that?” Donna asked.
+
+“Someone I care about used to make it for me once a week. When I saw what was for breakfast, I remembered it and thought, why not?” Ren said.
+
+A maid came to the window. “More rolls, please.” Tait handed out a basket of freshly buttered rolls to her. “Thanks.” She said and smiled at him. Tait smiled back and watched her cross the room to deliver the rolls to a table near the window.
+
+“I think someone's got a major crush going.” Alina said as she came back into the kitchen with Sandra right behind her. It was Tait's turn for his face to flush a little red, and they giggled at him.
+
+“That's enough teasing of the poor man.” Donna said and pat Tait on the shoulder. “Let's all get to work, shall we?” She said. “Lunch isn't going to make itself.” Everyone nodded and got to work.
+
+The day passed quickly and Ren learned that the basic meals were always the same. Eggs for breakfast, soup for lunch, and meat of some kind for supper. The side dishes and desserts on the other hand, constantly changed. Fresh food was delivered every day, and there was no storage options at all. The food was mostly eaten during meals, but any leftovers were mulched for the local farmers, taken by the staff, given to the soldiers, or just tossed out. Ren was glad that there wasn't much wasted. The evening came and he helped clean up the kitchen and set up the ingredients needed for the next day's meals.
+
+Ren gathered Teepo up from the main hall and left the mansion. After a quick run to his building, he dropped off Teepo, said goodnight to him and Ruck, and went upstairs to the apartment. Ren went into the bedroom and saw that the sweet pastry was still there, along with the note. Ren smiled. “I'm sure she'll come back in eventually.” He settled down on the bed.
+
+“Logout.”
+
+********
+
+Ren ate an actual breakfast of porridge and milk, did his physical therapy session, had a shower, and half-enjoyed some teasing from Stella. Sometimes she could push it a little too far, but she had restrained herself today. Ren settled into bed and put on the VR headset. “See you at lunch.” He said.
+
+“Flow Login Start.”
+
+********
+
+Ren went back to work at the kitchen for 3 more days, coming back to the building each night to make furniture before logging off to eat in the real world and to take care of business. Ren made an 8 foot high by 8 foot wide cabinet for Ruck, stools and chairs for the first floor, and at the end of the fourth day, Ren's Cooking skill had increased to Level 5, and Chop went to Level 8.
+
+Doing different cooking tasks has really pumped my skills up. Ren thought. Of course, chopping up 250 pounds of potatoes, 100 pounds of carrots, and 50 pounds of turnips, might have helped a little bit. Ren chuckled.
+
+After clean up and prepping for the next day, Ren said goodbye to everyone as they left the kitchen. They said goodbye and that it was nice meeting him. When everyone was gone, Donna asked Ren to come into her office and sat him down in the visitor's chair. She sat behind her desk and folded her hands on top.
+
+“Ren.” Donna said. “Once again, you did a great job.”
+
+“Thanks.”
+
+“Is your head getting all jumbled with recipes yet?”
+
+Ren laughed. “Is it ever! You do so many different things every day. It's almost a bit too much to keep track of.”
+
+“I can make it easier for you.” Donna reached into a drawer and put a thick book on her desk. She crossed her hands over it and leaned towards Ren. “This is a special Cook Book.”
+
+Ren's eyes widened and she nodded.
+
+“It'll organize and store any recipes you learn, or that someone tells you about.” Donna said. “I only have the one, though. I intended to give it to Sandra, as she's the senior assistant in the kitchen.”
+
+“You should give it to her, then.” Ren said and Donna had a surprised look on her face. “I'm not here to steal anyone's else's hard work.” Ren said and let a slightly crooked smile appear on his face. The fake Mitchell's words still stung, even though they weren't true. Ren thought. “I'm only here to learn how to cook.”
+
+Donna stood up and came around the desk to sit on the edge of it, right in front of Ren. She put a hand on his shoulder. “Are you sure? This will make it so much easier for you.” Donna said and picked up the book.
+
+Ren snorted a laugh. “If it was so easy to learn, wouldn't everyone be doing it?” Ren said and grinned. “Where's the fun in that?”
+
+Donna nodded and walked back around the desk to put the book back into the drawer it came from. “Donan was right about you.” She said and took a big wooden box off the shelf behind where she stood. “He said that you were determined to learn as much as you could, no matter how difficult the task.” Donna put the wooden box on the desk. “I had my doubts, but after watching you work these last few days, you almost had me convinced... and then you turned down the book.”
+
+Ren stared at her with wide eyes.
+
+“Yes, it was a test.” Donna chuckled. “If you'd taken the book, you'd have had access to a very limited list of recipes. You would have been very happy with that, then never learned another thing about cooking, or try to pass it on to someone else.”
+
+“Y-you're kidding!” Ren said, surprised.
+
+Donna shook her head. “It's the only way for cooks in this profession to ensure that the people they teach won't try to teach others what they learn, once they know a couple of recipes.”
+
+Ren thought about it for a minute. “So, what you're saying is... you don't want people to just dabble with it; you want to make real cooks, that can actually cook.”
+
+She smiled and nodded.
+
+“Does... does that mean I qualify for the real cook part?” Ren asked.
+
+Donna slid the large wooden box over to Ren. “Normally, I'd wait a month or so before giving this to a worthy student, but you've proven to me that you're not just dabbling. You've introduced some innovative meals here that everyone likes.” Donna said. “The 'pancakes' alone were a huge success.”
+
+Ren smiled. He'd looked up the recipe on the internet and was surprised that it was so simple. They didn't have anything like maple syrup, but the recipe said that butter and strawberries were good, too.
+
+Ren opened the wooden box and it was full of cooking items. 1 large pot, 1 small pot, a frying pan, utencils for cooking, silverware, 1 place setting of dishes (a plate, a bowl, a cup, and a saucer), various spices, a small grate to put over a fire, and a fire starting kit. It had pretty much everything needed to cook outdoors.
+
+“Donna... this...” Ren said, kind of at a loss for words. “It's too early for me to take this, isn't it?”
+
+Donna widened her eyes.
+
+“I mean... I barely learned how to cook in a fully decked out kitchen. I don't have any experience with this.” Ren said and waved at the box.
+
+“That's the whole point of it, Ren.” Donna laughed. “So you can learn!”
+
+Ren smiled. “All right. I understand.” He said. “Thank you, Donna.” Ren said and stored it into inventory.
+
+“Don't forget this.” Donna said and tossed Ren a book that was the same size as the Book of Runes he had.
+
+“What...” Ren said and examined it.
+
+The Traveller's Cook Book
+
+This book will automatically save any food recipes you learn.
+
+“Donna, no!” Ren exclaimed, but when he didn't feel any different, he relaxed. “Oh, I thought...”
+
+Donna laughed for a full minute before she could calm down. “The look on your face... oh, that was priceless.” She said and put a gentle hand on Ren's shoulder. “You were really shocked when you thought you wouldn't learn anything else about cooking, weren't you?”
+
+Ren nodded and stored the book in his inventory.
+
+“That's all the proof you'll ever need that you're the right person to have this, Ren.” Donna said.
+
+Ren smiled. “You could have just hugged me or something, instead of scaring me like that!”
+
+Donna laughed again and gave him a huge hug. Despite wearing an apron and a slightly stiff white shirt, she succeeded in half-burying Ren's face between her breasts, and then let him go. “There, is that better?”
+
+Ren nodded, and then his face flushed a little red. Donna wasn't wearing a bra.
+
+“T-thank you, Donna.” Ren said. “For everything.”
+
+“You just worked for 4 and a half days straight, in a boiling hot kitchen, for no pay.” Donna said and shook her head. “I'm the one who should be thanking you, Ren.”
+
+It was Ren's turn to shake his head. “You put up with me for 4 and a half days, trying to learn everything that I could. I'm the one who has to thank you.”
+
+They both stared at each other for a moment and then laughed together.
+
+“All right, let's just say we both got something out of this and call it a day.” Donna said an put out a hand for Ren to shake.
+
+Ren took it and smiled. “Agreed.”
+
+Quest Complete!
+
+You have successfully learned all that you could from Donna in such a short a time.
+
+Difficulty: B
+
+Rewards: 3000 XP, Portable Cooking Kit
+
+Fame Bonus: 15%
+
+“I really do wish I could stay longer, Donna.” Ren said after dismissing the popup.
+
+“I know you do, Ren.” Donna said and smiled. “You can come back whenever you want.”
+
+Ren nodded. “Thanks.” He said, then tilted his head. “You just want a free worker whenever I'm in town, don't you?”
+
+Donna laughed. “Guilty!”
+
+Ren grinned. “Goodbye, Donna.”
+
+“Bye, Ren. Take care.”
+
+Ren nodded and left the office, equipping his cloak on the way to the front door. He met Teepo at the lobby entrance. All done exploring, Teepo?
+
+“Yep! I left no cranny uncrannied.” Teepo said and hopped in the hood of Ren's cloak. Ren chuckled as he stepped out into the street and then ran back to his building. He went inside and shut the door behind him.
+
+“Home sweet home.” Ren said and knocked on Ruck's cabinet. “I'm back. Thanks for waiting up. Goodnight.” Ruck knocked back twice in confirmation and Ren went over to Teepo's place. Goodnight, Teepo. See you in the morning.
+
+“Goodnight, Ren.” Teepo said as he hopped off and went through the opening in the paving stone.
+
+Ren went upstairs and the sweet pastry was still on the end table with the note. He got into bed and relaxed.
+
+********
+
+Ren logged out to eat breakfast, do his physical therapy, and to spend some time visiting with the nurses. He had 3 hours or so to go before he would log back in, but he didn't waste it. Ren looked up how tubs were made and was surprised when he found out there were cast iron ones. He started to laugh as he read up on how to make one. It's so easy! Ren thought. I don't even have to do it the way they show. He looked up cast iron stoves and shook his head. How could I have been so stupid? I should have looked this up ages ago. Ren settled into bed and logged back into the game.
+
+********
+
+Ren ran downstairs, put the smelter on the forge, and started it up. Ren put in a few normal bars and waited for them to melt. Once they were molten, he threw in the last of the normal iron bars that he had and filled the smelter almost to the brim.
+
+“Maybe I should have made the bigger forge.” Ren said and chuckled. “I'm glad I went with the paving stone floor, otherwise I wouldn't be able to do this.” Ren set out the stone bricks that he had into a 6 foot by 9 foot rectangle in front of the forge, then stirred up the molten metal. He let the smelter simmer for a while and went outside to gather up some of the dirt that he'd dug up while making Teepo's cave. Ren went back and forth, making quite a large pile inside.
+
+“What are you doing?” Teepo asked when he came out and saw Ren making a big mound of dirt near his place.
+
+“I'm making a tub... and a sink... no, 2 sinks... and then possibly a stove.” Ren said and slapped the mound of dirt quite hard to pack it tightly together. Ren didn't have an actual recipe for a tub, so he hoped that the system would let him use a heavily modified 'shovel' recipe instead. Teepo crawled over the mound and pointed out parts that needed to be packed better.
+
+There was a knock on the door and Ren went to see who it was. A delivery man brought in a large, thin wooden crate, and set it on the floor next to the door.
+
+“Your mirror, sir.” The man said.
+
+“That's great!” Ren said and handed the man 11 gold. 10 for the mirror, and 1 for the tip.
+
+“Thank you, sir!” The man said. “If you need any other glass work done, just let me know.”
+
+“I'll do that.” Ren said. “What's your name?”
+
+“Medius, sir.”
+
+“You can call me Ren.”
+
+“Yes, sir.” Medius said.
+
+Ren chuckled. “Thanks for the prompt delivery.”
+
+“You're welcome, sir. Have a good day.”
+
+“You, too.” Ren said as Medius left.
+
+Notice!
+
+You have made a contact at the glassworks factory. Extra options are now available in the Business and Order menus.
+
+Ren smiled and went back to packing the mound of dirt into a tub like shape, only it was upside down. Once that was done, Ren made a small one in the shape of a bathroom sink and one for a kitchen sink, both upside down as well. Teepo crawled up Ren's leg and perched on his shoulder. If this idea works, the metal will form on the outside of the mounds to make the right shape. Ren thought as he skimmed off a few impurities from the molten metal and stirred it slowly. It won't be long, now.
+
+Ren walked around the mound of dirt that the tub would be made on and cleaned up the edges. There. The metal should sit right down onto the paving stones. Ren thought and smiled. Of course, that's assuming I can lift the partially molten cast over the top of it.
+
+There was another knock on his door and Ren went to see who it was. The young boy that had delivered some parchment paper over a week ago, was back and had 10 more sheets and 10 pieces of charcoal for drawing. Ren looked at the boy, who seemed to be out of breath. “I ordered those last week. They were supposed to be delivered the next day.”
+
+The boy nodded. “Sorry, sir.”
+
+“You're not going to give me a reason why?” Ren asked.
+
+The boy opened his mouth and then shook his head.
+
+“It must have been important if you don't want to tell me.”
+
+The boy's eyes widened at Ren's statement.
+
+“I'll take those.” Ren said, took the roll of parchment papers and charcoal, then stored them into inventory. He handed over 44 copper in payment. 30 for the paper, 10 for the charcoal, and 4 for the tip.
+
+The boy stared at the money in his hand. “M-mister... it's a week late! You shouldn't tip me for that!” He said and tried to hand the 4 copper back. Ren shook his head.
+
+“I'm sure a lot of your customers might be mad about the delay, but I'm not. I wasn't home anyways, so it worked out well.” Ren said. “I also noticed that you ran all the way here. You're not wasting any more time, are you?”
+
+The boy shook his head.
+
+“Good! Now get out of here and go make your other deliveries.”
+
+“Thanks, mister! See ya!” The boy took off running down the street with the pack on his back shaking back and forth.
+
+There goes a boy after my own heart. Ren thought and Teepo chittered in laughter.
+
+“Mine, too!”
+
+Ren closed the door and went back to the forge. I think it's time, Teepo. Ren poured the molten metal into the 6 foot by 9 foot area he'd surrounded with stone bricks in front of the forge. Using the skimming tool, he tried to push the molten metal into the rectangular shape. “Damn. I need another pair of hands.” Ren said.
+
+Ruck came out of his cabinet, crawled across the floor right after Ren spoke, and gave Ren a 'thumbs up' signal. Ren chuckled. “Ruck, you're just in time. Can you pour the smelter for me, please?”
+
+Ruck nodded and climbed around the back of the forge and used his arms to tip the smelter forward. Now that Ren had both arms free, he spread the molten metal and it filled the space up to about an inch.
+
+“That's enough, Ruck.” Ren said and Ruck tipped the smelter back to stop the flow of metal. Ren waited only a minute and moved one of the bricks away from the metal cast. It was starting to cool and Ren grinned. “Perfect!” He moved another brick, took out his spare tongs and grabbed the slightly molten slab and lifted it up.
+
+It started to warp and bend and Ren flicked it, just like it was a sheet he wanted to cover a bed with, and the metal flopped onto the mound of dirt. Since the underside was cooling and the outside was still mostly molten, it slowly eased down into the shape that Ren wanted. Using the tongs and the skimming tool, Ren pushed the corners down to the floor. In a moment of inspiration, Ren took out one of the wind stones he'd made and used it on the metal to help it cool in the proper shape. It eventually turned from the red molten color to a dull grey.
+
+“Ha ha! Sweet!” Ren shouted and Ruck clapped. “I couldn't have done that without your help. Thanks, Ruck.”
+
+Ruck gave the 'okay' signal and then climbed down off the forge. Ren rubbed Ruck on the head and went to the workbench with the high quality iron bars under it. Ren grabbed a handful and tossed them in the almost empty smelter.
+
+“I won't need as much metal for the sinks.” Ren said and moved the stone bricks to make a smaller rectangle, only 3 feet by 4 feet. He had some time while the metal simmered, so he went over to the crate and opened it. The mirror was a 3 foot square and Ren smiled. “It's just the right size.” Ren closed the crate and went to one of the work benches, and pulled up a stool to sit on. He opened up the table design, thinned the legs and made them longer, and added a drawer from the dresser across the middle. Ren then shrunk the same drawer and added three of them on each side, then put a piece of plank on the back to hold the mirror. “Nice.”
+
+Ren looked at what wood he had left, and there was only 2 planks. “A quick run to the lumber mill, I think.” He said and Teepo chittered in delight. Ren chuckled and turned around. “Hey, Ruck. Want to come along?”
+
+Ruck gave the 'thumbs up' gesture and crawled over to the door.
+
+“Climb aboard.” Ren said and thumb-pointed to his back.
+
+Ruck crawled up and tucked his back legs around Ren's waist, his middle legs around Ren's chest, and then his front legs over Ren's shoulders.
+
+Ren glanced back and saw that Ruck was a little too low to see properly and would probably be kicked when Ren ran. “Can you shimmy up a little bit, Ruck? I don't want to kick you when I run.”
+
+Ruck moved up about 6 inches and Ren smiled.
+
+“Even the balance feels better. Can you see okay?”
+
+Ruck gave another 'thumbs up' gesture.
+
+“Great. Let's go.” Ren said and opened the door. Ren took a deep breath, closed the door behind him, and took off running. He ran the other way this time, as it was Ruck's first journey out of the building. He ran down 2 blocks, around the corner, up 2 blocks, around that corner and past the Housing District. They arrived at the lumber mill and Ren got a popup.
+
+Stat Change!
+
+Running Level 2 (Intermediate 0%)
+
+Ren bought 2 dozen more planks, even though he was supposed to get the wood for free, and tipped appropriately. Ren passed the planks to Ruck, who stored them easily. He waved to Jhulune, who waved back enthusiastically and came over to talk, and Ren asked how the horse was. Jhulune said the horse was doing fine and that the healer said that giving the horse an antidote potion was the best thing to do, because it might not have lived otherwise.
+
+“I'm glad to hear that.” Ren said.
+
+“You saved our horse, Ren.”
+
+Ren smiled. “Anyone could have done it. I'm just glad I was there to help.”
+
+“Me, too.” Jhulune said. “Say, I like your backpack.”
+
+“Thanks. This is Ruck. Ruck, this is Jhulune.”
+
+Ruck reached out to shake hands, and Jhulune's mouth dropped open in shock.
+
+“R-R-Ren! Your... your backpack has hands!”
+
+Ren laughed. “Of course it does. How else is Ruck supposed to pass me stuff?”
+
+Jhulune still looked a little shocked but she reached a hand out slowly and Ruck shook her hand.
+
+“It... it's nice to meet you.” Jhulune said, and Ruck gave her a 'thumbs up' gesture.
+
+“Wow.”
+
+“Yeah, Ruck impresses me, too.”
+
+A few other workers came over and Ren introduced Ruck to them and they all had pretty much the same reactions as Jhulune. After a few minutes of chatting, Ren spoke.
+
+“I have to go.” Ren said. “I've got my forge going and I don't want to leave it for too long. I'll see you later!”
+
+“See you.” Jhulune said and waved. Ren and Ruck waved back and Jhulune laughed. “I won't be getting used to that anytime soon.”
+
+Ren laughed and started running. He went back and checked the forge, skimmed off some impurities and stirred the metal. “It's still going to be a little while. How about a quick trip around the city?”
+
+Ruck gave the 'okay' gesture and the three friends went for a run around the main streets of Aurora.
+
+It's just another day in the game. Ren thought and smiled at all the people staring at him as he ran by.
+
+Fame Increase!
+
+The citizens of Aurora have seen you running and carrying a backpack. They assume you are training for an important mission.
+
+Fame: +100
+
+Ha! I think they're right. Ren thought and kept running.

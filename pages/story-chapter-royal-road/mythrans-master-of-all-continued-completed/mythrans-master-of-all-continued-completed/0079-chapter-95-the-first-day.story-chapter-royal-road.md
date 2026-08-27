@@ -1,0 +1,377 @@
+---
+id: d435fb9b-3501-51b8-81ff-58202a789c15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95 - The First Day"
+slug: 0079-chapter-95-the-first-day
+partOf: mythrans-master-of-all-continued-completed
+position: 79
+ownLength: 3590
+unit: words
+publishedAt: 2016-11-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104490/chapter-95-the-first-day"
+royalRoadId: "104490"
+---
+
+Ren was led out of that area and into another on the right side, making his position 3 areas in and 3 areas right. He had to remember that, otherwise he'd be hopelessly lost. Inside the new area was a group of Recruits, 11 in all, standing in a row. A Knight stood in front of the row and was berating one unfortunate soul with how untidy he was. Ren didn't smile, as that would have been disrespectful to both the Knight and the dwarf being berated. He did switch his concentration from his Command Aura ability to his Camaraderie Aura, though.
+
+“Here's the latest Recruit, Ghomhan.” Maldir said to the Knight.
+
+“Great. Just great!” He said, waving his arms at the others. “Like I don't have enough problems with this many!”
+
+Maldir chuckled. “Hey, you can take it up with the Commander. He said A-113.”
+
+Ghomhan sighed. “Fine. It's not like I can refuse.” He turned to Ren. “Recruit! Fall in!”
+
+Notice!
+
+You have been given the temporary title: Recruit.
+
+This title will allow passage in and out of select areas of the Garrison.
+
+“Sir, yes sir!” Ren said, walked to the end of the line of dwarves, and stood at attention. He thought one of the dwarfs had a familiar hunch, but he didn't want to take the chance of looking to make sure.
+
+Ghomhan leaned in close to Maldir. “What's with the cloak? Is he trying to show off?”
+
+Maldir shook his head. “No idea, but the Commander said it was okay... and that he can leave at sunset, but has to be back by daybreak.”
+
+“He what?!?” Ghomhan said in surprise.
+
+“You heard me. He can go home at night.”
+
+Ghomhan shook his head. “The other Recruits are gonna love that!”
+
+“I'm sure they will.” Maldir said and grinned. “Have fun.”
+
+Maldir left through the gate and Ghomhan turned to the Recruits. “As I was saying, before I was interrupted...” He said and glanced at Ren, who didn't react in the least. “For the next 3 weeks, we'll be doing training in various weapons, hand-to-hand combat, strength training, endurance training, and finally, the obstacle course.” He walked from one end of the line to the other. “You will do your best! If that's not good enough, you will do better!” He said and walked to the center of the line. “Do you get me?!?”
+
+“Sir, yes sir!” Most of the Recruits shouted. Ren's shout was the loudest. Two of the dwarfs only said 'Yes, sir' and weren't enthusiastic about it.
+
+Ren shook his head mentally. They are just asking for this. Ren thought as Ghomhan pulled both Recruits out of line and stood them next to each other, then hollered into their shocked faces.
+
+“The first word and the last word I want to hear out of your stinking pie holes, will be SIR!”
+
+“Yes, sir!” They said together, and Ghomhan sighed. “Didn't you just hear me? First word SIR, last word SIR. Repeat it!”
+
+“Sir. Yes, sir!”
+
+“That's better, Recruits! Get back in line!” The two dwarfs did and Ghomhan continued. “Now that I've gotten that out of the way, do any of you have any kind of combat training?”
+
+Ren put his hand up and Ghoman looked at him. “This isn't a school classroom, Recruit! Put your hand down! Speak up!”
+
+“Sir! Does knowing some moves, but not practicing them count? Sir!”
+
+“Not really, no.”
+
+“Sir! Then no, sir!”
+
+Ghomhan sighed again. “Basics it is.” He said. “Hit the dirt! Give me 10 push-ups!”
+
+Ren half-hopped and fell forward.
+
+“Whee!” Teepo said as the hood flipped up and then back.
+
+Ren did the 10 push-ups and stood up again. He glanced around and saw several dwarves were still trying to get to the ground. He noticed only one dwarf had finished almost as fast as he did. Ren looked at him and smiled. He thought he'd recognized that hunch. Ren grunted a low grunt and Groggot turned and grunted back.
+
+“That's pathetic!” Ghomhan said as everyone eventually did the 10 push-ups and stood again. “Spread out! Arm's width! 10 Jumping Jacks!”
+
+Both Ren and Groggot finished quickly, almost shaking the ground as they jumped. Groggot was a big muscular dwarf and Ren carried a lot of weight. Ren tried his best to keep the smile from his face, but as he lost that battle, Ghomhan noticed it and came over to him and got in his face.
+
+“Are you having fun, Recruit?”
+
+“Sir, yes sir!”
+
+Ghomhan had a surprised look on his face, then squinted his eyes. “If you're having so much fun, why don't you run laps around the training area.” He said and pointed. “There's a track. Follow it.”
+
+“Sir! How many laps? Sir!” Ren asked.
+
+“Just run until I tell you to stop.” That should wipe the smile off his face.
+
+“Sir! Yes, sir!” Ren said, stepped around the Knight, and took off running.
+
+Ren figured the Knight wanted to make an example of him, so he didn't run full out like he wanted to. He'd only last about 15 minutes that way; so he jogged at a fast pace, and his stamina bar started to drop very slowly. Ren's smile became a grin as he finished a lap around the training area, then another, then another. Ghomhan stared as Ren ran around the training area like it was nothing. All the other Recruits stared as well, and watched Ren run for about 10 minutes.
+
+“How is he doing that?” One said.
+
+“I'd be winded just walking over there.” Another said.
+
+“Is he someone special, maybe?”
+
+“He's an Adventurer.” Groggot grumbled and everyone shifted their stares to him.
+
+“You can talk?!” Someone said, and several dwarves laughed.
+
+“That's enough, Recruits.” Ghomhan said and hollered to Ren. “Fall in!”
+
+Ren sprinted to finish the last lap and joined the other Recruits at the line. I could have run full out the whole time after all. Ren thought and felt Teepo's slight disappointment that he hadn't. Don't worry, little buddy. I'll be running back to House Neram tonight.
+
+“Yay!” Teepo chittered in delight and Ren kept the smile on his face.
+
+Well, that didn't work. Ghomhan thought. I think he actually enjoyed it! He shook his head. “Okay... has anyone held a weapon before?”
+
+“Sir, yes sir!” Ren and Groggot said. Everyone else was silent.
+
+Ghomhan pointed to Groggot. “What were they?”
+
+Groggot thought for a minute. “Sir. Sword. Shield. Axe. Pike. Sir.”
+
+Ghomhan smiled. “Excellent! A shield isn't a weapon, though.”
+
+“Sir! It depends on how you use it, sir!” Ren and Groggot said together, and they both smiled as the other dwarves tried not to laugh.
+
+Ghomhan nodded. “Good! You're thinking beyond an item's intended usage!” He said and looked at Ren. “You! Which weapons have you held?”
+
+“Sir! All of them, sir!”
+
+Everyone turned to stare at Ren, and he fought hard to not smile again.
+
+“Excuse me?” Ghomhan said. “You've held every weapon?”
+
+“Sir! Yes, sir.”
+
+“How?”
+
+“Sir! With my hands, sir!” Ren said, completely serious.
+
+The dwarves couldn't help themselves and did chuckle out loud. Ghomhan stared them into silence and turned to Ren.
+
+“Are you making fun of me?”
+
+“Sir! No, sir! I answered both honestly and truthfully, sir!” Ren said.
+
+Ghomhan took a deep breath. “Then... while using your hands, how did you hold every weapon?”
+
+“Sir! I'm a Blacksmith, sir!” Ren said and several dwarves gasped.
+
+“What!?!” Ghomhan nearly shouted. “Why the hell are you here? You should be in the crafter's section!”
+
+“Sir! I was drafted, sir!” Ren answered. Everyone went quiet after hearing that.
+
+“Drafted.” Ghomhan said after a moment. “There hasn't been a drafted member since... damn, I can't remember the last time someone was drafted.” He took another breath. “I assume the Commander knows?”
+
+“Sir! Yes, sir!”
+
+“Then there's nothing I can do about it.” Ghomhan said. “I assume that's why you can leave at night?”
+
+“Sir! Yes, sir! I have to go to work, sir!”
+
+Mutters escaped the mouths of the dwarves, but Ghomhan ignored them.
+
+“You're leaving here to go and work, then coming back here in the morning for training?”
+
+“Sir! Yes, sir!”
+
+Ghomhan shook his head. “I don't envy you, Recruit. Let me know when you can find the time to sleep.”
+
+“Sir! When we break for supper, sir!” Ren responded.
+
+“Ha.. hahaha!” Ghomhan laughed, and several dwarves joined him, then Ghomhan turned his laugh off like a switch and was deadly serious. “That's enough fun and games, Recruits! We've wasted a good portion of the day already!” He said and smiled wickedly. “Get your sorry asses in gear! I want a hundred laps around the track before supper! Move it! Move it! Move it!”
+
+Ren took off like a shot after the word 'hundred' and Teepo chittered in delight. Ren was already around the track once before Groggot joined him and Ren slowed his pace down to stay together. They fell into a steady pattern of pumping arms and legs, then kept going.
+
+“Blacksmith, huh?” Groggot said.
+
+Ren grunted.
+
+“Thought you were a cook.”
+
+“I am.”
+
+Groggot glanced at him.
+
+“I like learning new things.”
+
+Groggot grunted.
+
+“You know why I'm here.” Ren said. “Why are you here, and not on the ship?”
+
+“Bored.” Groggot said.
+
+“I hear ya.” Ren said and smiled. “This place must seem like a piece of cake compared to the ship.”
+
+Groggot grunted.
+
+“I hate being bored, too.” Ren said and kept running. They lapped all the other dwarves a dozen times over, and Ren shouted encouragement to them each time, and the dwarves groaned each time as he passed.
+
+“Don't think about it, just do it!”
+
+“Don't go for speed, go for distance!”
+
+“Match your run to your breath, not your breath to your run!”
+
+“A steady pace, wins the race!”
+
+Ren changed tactics halfway through and they started to laugh instead.
+
+“I think we all have the runs!”
+
+“If running was easy, they'd call it mining!”
+
+“Pretend your wife is chasing you!”
+
+“Running won't kill you! You'll pass out first!”
+
+Ren had saved the best for last, and had Groggot in stitches from laughing so hard.
+
+“Why is everyone chasing me?!?” Ren said and Teepo chittered in delight.
+
+Ren and Groggot finished their laps and stepped off the track to keep shouting encouragement to the others. Ren had run the extra lap, just so he would finish at the same time as Groggot. Some dwarfs, as they passed the pair, yelled that laughing was making it harder for them.
+
+“We know!” They said at the same time and laughed.
+
+“Don't stop! Keep going!” Ren said and waved them on. “We can't make fun of you all day!”
+
+Ghomhan had stayed off to the side to watch it all play out. I think he might be better off here than in the crafting section after all. He thought and let the running laps exercise go for another half an hour and called it. “All right, Recruits! Fall in!”
+
+One dwarf had only run about 15 laps so far, but he was really overweight and his legs were a lot shorter than everyone else's. He nearly collapsed at Ghomhan's call and Ren rushed over to catch him.
+
+“I got you.” Ren said and helped the dwarf over to stand in the line and held him in place.
+
+“Suppertime.” Ghomhan said and then the bell rang.
+
+All the dwarves, except for Groggot, Ren, and the one he held up, dropped exhaused to the ground. Ghomhan laughed. “You've only got an hour for supper. Don't waste it by just laying around.” He said and walked across the area and to a gate on the right. It opened and the smell of food filled the area and several dwarf's stomachs rumbled.
+
+Mess Hall is 3 in, 4 right. Ren thought. “Hey, are you all right?” Ren asked the dwarf he held, and the dwarf shook his head. “Groggot, hold him for me, please.”
+
+Groggot stepped over and held the dwarf easily. Ren took out a Health potion.
+
+“Drink some of this.” Ren said and poured a good portion of the potion into the dwarf's mouth. He swallowed it gratefully and Ren nodded to Groggot, who let go. The dwarf stood on his own, but was still a little shaky.
+
+“You can make it to the Mess Hall. Ease off the meat a little, and go for more vegetables. You'll feel better, trust me.” Ren said and the dwarf nodded and hobbled away. Ren looked at the half-gone potion and shrugged. He gave a mouthfull of it to each of the other dwarves and when it was empty, stored it.
+
+Thankfully it was enough to get them on their feet and Ren ushered them to the Mess Hall.
+
+“Are you really going to sleep?” Groggot asked.
+
+“I am. I could use a guard, too. The job's yours if you want it... after you eat, of course.”
+
+Groggot grunted and went to the Mess Hall. Ren sat down near one of the several sand pits and leaned back to wait. He didn't have to wait long, as Groggot brought out a tray of food and sat beside him. Ren smiled and closed his eyes. He hoped a quick nap would be enough. If his guess was right, something will be waiting for him back at House Neram, and he'll be busy for most of the night. Ren closed his eyes and fell asleep.
+
+50 minutes later, Ren felt a nudge on his shoulder. He rolled away from it immediately and up into a half-kneeling crouch with his fists at the ready. “I'm up! I'm UP!” Ren said and blinked a few times.
+
+A few of the dwarfs chuckled, but Groggot only grunted.
+
+“Good reaction time.” Ghomhan the Knight said as he walked over to where Ren was. “You might be dead if it was a fatal blow, but other than that...”
+
+“Sir! Thank you, sir!” Ren said automatically.
+
+“That didn't require a response, Recruit.”
+
+“Sir! Sorry, sir!”
+
+Ghomhan nodded. “Now that you're awake, we can get started on some basic weapon attacks.” He turned and pointed to two dwarfs. “You and you. Go to that gate...” He pointed to the gate behind him. “...and bring out the training dummies.”
+
+They nodded and went to the indicated gate. They opened it and inside was training equipment. There was everything from wooden dummies to spinning weapon racks. The Recruits stared at it all.
+
+“Hurry up! Move it! Move it! Move it!” Ghomhan commanded. The two Recruits pulled out a pair of training dummies and he told them where to set them up. They were simple and a little crude, but functioned as an adequate substitute for an opponent. It didn't attack back, but that was beside the point. It was about 5 feet tall and hung from a wooden scaffold. Ren walked over and examined it closely. He moved all the parts that could be moved, namely the arms and legs and all the joints, and even checked to see if the stand was as secure as it should be. When Ren was done, he got a popup.
+
+Notice!
+
+You have learned the recipe for: Training Dummy (Human Analog)
+
+This fully functional wooden dummy is a non-lethal substitute for a real oppponent.
+
+Ren started to smile, then caught himself. I really have to hide my enjoyment better. Ren thought and stepped back as more training dummies were set up in a line, about 5 feet apart. Once all 12 were completed, Ghomhan stepped in front of them.
+
+“These will be your friends. You will care for them. You will love them.” Ghomhan said and smiled an evil grin. “And you will kill them.” He said. “I will teach you how to hit them, where to hit them, and how hard to hit them. You need to get the most effect from your strike, or you're just wasting energy.”
+
+Everyone listened with attention.
+
+“Normally, we'd be going right into one-on-one and hand-to-hand combat training, but as almost all of you are lacking in even holding a weapon, we'll start with this.” Ghomhan said and went into the training supplies area and came out with a large wooden chest. He put it down at the end of the line of training dummies. “Everyone step forward and select a weapon. You will practice with this weapon, using overhead strikes, on the training dummies.”
+
+Ghomhan looked at each dwarf as they stepped forward and told them to always use the same strike, until their body gets used to the motion. One that happened, he'd teach them another strike. Groggot was halfway down the line and when it came to his turn, he picked up several things, but his over-sized hands covered so much of the handles that he gave up and stepped aside to let everyone else grab a weapon. Ren had intentionally waited until last, so he could break the news to Ghomhan about his problem. Ren saw Groggot's unhappy expression and made a decision.
+
+“Sir! I have a solution to Groggot's problem, sir!”
+
+Both Groggot and Ghomhan the Knight looked at Ren in surprise.
+
+“What problem is that, Recruit?” Ghomhan asked.
+
+“Sir! Groggot's hands are too manly for these small weapons, sir!”
+
+Groggot's mouth dropped open and he looked at his hands. “They're too manly?” He said and flexed his massive hands several times. “They're too manly!” Groggot said and grinned.
+
+Ghomhan ignored the outburst and looked at Ren. “Your solution, Recruit?”
+
+“Sir! A bigger weapon, sir!”
+
+“And where are you going to get such a weapon?” Ghomhan asked.
+
+“Sir! If I may speak to Recruit Groggot? Sir!”
+
+Ghomhan waved slightly.
+
+“Groggot, what weapon would you like, but couldn't get in your size?” Ren asked him.
+
+He thought about it for a minute. “Battle axe.”
+
+Gasps came from the other dwarves, as only really strong people could wield a battle axe effectively in a fight.
+
+Ren smiled. “Well, my friend... it just so happens...” Ren pulled out one of the two steel battle axes that he'd made while at Donan's, using up the last of his normal iron bars. The battle axe gleamed silver in the waning sunlight. “I have one that should be just the right size for you.”
+
+Everyone's eyes popped out of their heads in shock. The large double-headed battle axe was nearly 3 feet across, and had 2 half-moon blades attached to a 4 foot long handle. When stood on it's end, it was as tall as Groggot.
+
+“They let you in here with that!?!” Ghomhan said, shocked.
+
+Ren snapped back to attention. “Sir! I wasn't asked, sir!”
+
+Ghomhan started to laugh, and then everyone joined in, even Ren. After a minute, Ghomhan looked at Ren. “They let you come in here and didn't even bother to check you for weapons.” He gave another bark of laughter. “I'm not even going to ask what else you have.” He said and shook his head, then pointed a finger to Groggot. “Go ahead.”
+
+Ren spun the Battle Axe in his hand and held the handle out to Groggot, who looked at Ren with astonishment.
+
+“You... you're just going to give this to me?” Groggot asked in wonder.
+
+“I can't have a guard that's weaponless, can I?” Ren said and grinned.
+
+Groggot took the handle gently, and his hand fit around it perfectly. Ren let it go and Groggot had to catch the full weight with his other hand to balanced it out. Once he did, he stepped back and swung it a few times with both arms, then with each arm alone. Groggot laughed a little and started to swing more vigorously.
+
+“That's enough.” Ghomhan said, and Groggot stopped the next swing before it started. “Okay, Recruit. Your turn. Pick a weapon.”
+
+“Sir! I can't, sir!” Ren said.
+
+“Excuse me?” Ghomhan said. “Are you refusing my order?”
+
+“Sir! No, sir! I just can't complete your order, sir!” Ren said. “I can't equip standard weapons, sir!”
+
+Ghomhan sighed. “Why do they always stick me with the misfits?” He said then stopped. “You said you've held every weapon before.”
+
+“Sir! I've held every weapon that can be made by a smith, sir!” Ren responded.
+
+“I don't suppose you have a non-standard weapon on you, do you?” Ghomhan asked.
+
+“Sir! Of course I do, sir!”
+
+The other dwarves chuckled.
+
+“Show it to me, please.”
+
+Ren took out his hammerpick and nearly everyone gasped except Groggot, who had seen it before.
+
+“Hand it over.”
+
+“Sir! No, sir!” Ren said and stored it.
+
+“EXCUSE ME?”
+
+“Sir! No one touches it but me, sir!”
+
+Ghomhan stood up and stalked over to Ren. “What if I throw you in the brig for refusing an order?”
+
+“Sir! If that's your decision, it will have to wait. It's getting dark, sir!”
+
+“So what?!?”
+
+“Sir! I have to leave at dusk, sir!”
+
+“Not if you're in the brig you don't!” Ghomhan nearly shouted.
+
+“Sir! With all due respect, you cannot countermand the Commander's orders. Sir!”
+
+Ghomhan opened his mouth to say that he could... and then closed it.
+
+“Sir! You can still brig me in the morning, sir!”
+
+“I'll do just that! Be back here at dawn.” Ghomhan said with a scowl. “Get out of my sight.”
+
+“Sir! Yes, sir!” Ren said and walked over to the gate. He followed the proper path to leave out the main gate that faced the road to Dornrach, and once outside, started running.
+
+Teepo didn't enjoy it as much this time.

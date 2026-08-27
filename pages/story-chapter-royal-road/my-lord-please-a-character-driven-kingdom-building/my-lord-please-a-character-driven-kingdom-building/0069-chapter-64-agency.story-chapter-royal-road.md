@@ -1,0 +1,211 @@
+---
+id: af98e59e-aa4d-5dc6-bd90-ea79179c45ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64 Agency"
+slug: 0069-chapter-64-agency
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 69
+ownLength: 1989
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3433004/chapter-64-agency"
+royalRoadId: "3433004"
+---
+
+The late winter sun had only just begun to rise when Lucien stepped out of the manor.
+
+Despite how early it was, he had not been the first to leave.
+
+Talia had left as soon as she finished breakfast, mentioning she needed to speak with Harlon about building the shop and to enlist any villagers who were free to help. It was a sensible approach with spring planting only a few weeks away.
+
+She had approached Sera often throughout the previous day, something he had expected of her. What had surprised him was that Sera had not avoided her. The silent girl did not initiate, but neither did she reject Talia’s attempts at conversation.
+
+He had gone through the same process once.
+
+Alicia had seemed relieved by it, smiling softly as she watched from the side. She had likely been worried by how little Sera engaged with anyone beyond himself and the maid.
+
+Speaking of the maid herself, Lucien soon spotted a familiar sight along the main path.
+
+Near the gathering hall, several men had gathered around the ranking board, their attention shifting between the markings and one another as low voices carried through the morning air.
+
+Alicia stood before it with a piece of charcoal in hand, adjusting one of the names carefully. Intricate markings and initials covered the board’s surface. Some of the positions had changed since he had last seen it before leaving for Helvarn.
+
+One of the men stepped closer and pointed toward a mark. Alicia paused briefly before turning to speak with another man nearby. He nodded grudgingly, and she made the correction.
+
+Bran stood a short distance form the board, his arms crossed in front of him as he watched without intervening.
+
+From afar, Lucien’s gaze lingered on the group for several breaths before he continued along the main stretch of Ashridge.
+
+Yesterday, he had observed the villagers setting new posts where winter had loosened the old ones. They were finishing the last sections of the road now. A length of rope had been drawn taut as one man adjusted the alignment while another held it steady.
+
+Farther ahead, a pair of villagers pushed aside what remained of the packed snow along the edges of the path, leaving uneven ridges that would melt away in the coming days.
+
+A few villagers turned as he passed, and he acknowledged them with a small incline of his head.
+
+From the opposite direction, a cart rolled past, its wheels pressing deep into the softened ground before pulling free again. The driver steadied the reins with one hand while guiding the load toward the storage sheds.
+
+As the road ahead opened, a figure along the path drew his attention.
+
+Tomas approached from the opposite direction at a measured pace, the usual militia gear absent in favor of plain village clothing.
+
+Two small girls followed close beside him.
+
+Lucien’s gaze rested on them as they drew nearer. One of the girls held onto Tomas’s hand, her smaller steps uneven as she tried to keep pace. The other remained close beside her, steadying her gently whenever she stumbled.
+
+They resembled someone. The recognition came a breath later.
+
+Dalen’s daughters.
+
+The older one kept her attention forward, her grip firm despite her size. The younger girl stumbled once before regaining her footing, her small hand tightening around Tomas’s fingers.
+
+Gradually, Tomas adjusted his stride, keeping it even so the child could follow without falling behind.
+
+Lucien watched them quietly as they approached.
+
+The younger man looked up then, his eyes meeting Lucien’s as he slowed to a stop a short distance away.
+
+“My Lord.”
+
+The two girls tucked themselves beside him, their heads tilting upward.
+
+“Tomas. Off duty today, I see,” Lucien said, his gaze drifting toward the older girl. She had been staring at him, her attention fixed with a focus that only a child could muster.
+
+At his words, he dipped his head. “Yes, Captain Dorian gave the guards who went to Helvarn a few days off to rest.”
+
+The older girl stepped forward before he could say more, her hand still holding onto her sister’s as she looked up at Lucien.
+
+“Are you the one uncle Tomas talk about often?”
+
+Lucien’s brow lifted a fraction as his eyes shifted toward Tomas.
+
+The younger man looked as though he had been caught unprepared, his expression tightening as he stood there, mouth parting briefly before closing again.
+
+A faint sense of amusement surfaced as a memory from Helvarn came to mind.
+
+Lucien returned his attention to the girl. “And what does Tomas say about me?” he asked lightly.
+
+She hesitated, her brows drawing together as she searched for the words. Her younger sister tugged at her arm before rising onto her toes to whisper into her ear.
+
+The older girl’s eyes brightened. “He says he expires you!”
+
+Lucien regarded her for a brief moment before the meaning became clear. His gaze moved back to Tomas, who now looked as though he would rather be anywhere else, the color in his face draining as realization set in.
+
+He considered it, his brow still raised. “Expire,” he repeated dryly.
+
+“Hm.”
+
+A slow nod followed. “It would seem you require additional training with the sword. With Dorian.”
+
+Tomas’s eyes widened, followed by a visible shift in his posture as the implication settled in.
+
+The older girl nodded, as though agreeing with the judgment. A moment later, the smaller one followed, mirroring her sister.
+
+“Well,” Lucien said, turning away, “I won’t keep you from your break.”
+
+He continued on toward the forge as though nothing had happened, a faint crease forming at the corner of his mouth.
+
+The forge came into view as Lucien followed the main stretch of the village, the steady rhythm of metal striking metal carrying ahead of him.
+
+As usual, Joren was already at the anvil.
+
+His hammer rose and fell in steady rhythm, each strike landing cleanly against the metal as dull ringing spread through the forge. Heat pressed outward from the open flame, the air thick with the scent of ash and iron.
+
+He stopped at the threshold, knowing Joren would usually finish his work before acknowledging him.
+
+This time however, something different happened.
+
+“Back from Helvarn, Lord?” The hammer came down again as the words were spoken.
+
+Lucien’s brow lifted slightly. He paused for a brief moment before answering.
+
+“Yes. I arrived back yesterday.”
+
+Joren gave a short grunt in response as he drew the heated metal from the anvil and plunged it into the water trough beside him. Steam rose at once, hissing as it curled upward before fading into the air.
+
+The blacksmith set aside what looked to be a tool meant for the fields before reaching for a cloth, wiping his hands with more force than usual.
+
+Lucien regarded him, the surly blacksmith did not seem angry. He had seen him that way once, back when they had first met.
+
+“Hmph. Suppose you are here about the ores,” Joren muttered. “I checked them. They’re good.”
+
+He inclined his head in response, though Joren did not look at him. “Hear you ordered equipment for the guards.” The words came flat, his gaze still turned away.
+
+Lucien understood immediately. “I did. You will check them when they arrive.”
+
+Joren’s hand stilled for a brief moment against the cloth. The blacksmith's eyes shifted then, lifting to meet his own.
+
+He held the blacksmith's gaze. “I have something more important for you to handle.”
+
+“With the ores we now have, it is time to begin improving the tools used for the fields. The current ones-”
+
+“Already tested one.” Joren cut in before he could finish.
+
+Lucien regarded him for a moment, mildly surprised by the response.
+
+Dropping the cloth onto the workbench, Joren reached for the tool he had set aside earlier, lifting it with one hand. “Girl brought me some of the drawings while you were gone,” he said, a small note of pride entering his voice.
+
+“Said you might've wanted these.” His grip shifted slightly as he turned the tool, angling it just enough for Lucien to see.
+
+The iron head curved differently from the usual ones. It was broader and heavier with the edge set at an angle.
+
+Joren set it back down with a dull thud against the wood. “Didn’t have time to test them all, so I picked the one that looked decent enough to work. This cuts deeper and turns the soil cleaner.”
+
+His gaze flicked toward Lucien, then away again. “She stayed while I worked it out.”
+
+Lucien took in the piece for a moment. The designs had been something he had only described from memory, pieced together from fragments he did not fully understand.
+
+He had not expected a working result so soon, much less for Alicia to see it through on her own.
+
+Ashridge had already begun to move forward without him.
+
+The corner of his mouth lifted faintly.
+
+Joren wiped his hands once more, slower this time. “Fields will take it better. The men will need less time to prepare the soil.”
+
+Lucien’s eyes remained on the shaped iron for a moment longer.
+
+“Then begin producing them.”
+
+A grunt followed as the blacksmith crossed his arms. “We've got the iron to spare now but it will take time, Lord. If it’s done poorly, it won’t hold.”
+
+He acknowledged the warning with a nod before his attention shifted toward the next matter.
+
+“And how goes the progress for the crossbow?
+
+Joren's brow furrowed slightly. “We tested what we could.” He jerked his chin toward the side of the forge. “Harlon's finished with the stock and we made the stirrup.”
+
+He exhaled through his nose. "It's not clean but it pulls well enough for now."
+
+With the crossbow now reaching the stage where the draw strength had largely stabilized, it was time for the final pieces that would carry that force without breaking.
+
+Lucien folded his arms behind his back. “The bowstring and the bow itself are left then.”
+
+Reaching below, the blacksmith pulled a worn string and set it down. "We'll need something stronger than this, Lord."
+
+Joren's eyes shifted to meet his own. "We thought of asking that hunter of yours. Didn't know if she'd listen to us." He rubbed his hand across his beard. "...I asked Alicia but she said to wait for you instead."
+
+It seems Alicia had the same concerns as he did regarding the resident hunter.
+
+Setting the thought aside for now, Lucien gave a slow nod. “I will ask Sera later at the manor."
+
+Joren studied him for a breath before giving a short grunt “Then Harlon can get started on the bow. He's been busy at the clearing, but the work there’s almost done by now.”
+
+“Once the iron ores have been smelted, we’ll do it proper. Not with scraps or half guesses but a proper piece.”
+
+Lucien's gaze lowered in thought for a breath before he asked. “How long?”
+
+"If we have the string?" Joren's eyes drifted somewhere beyond the forge, his hands stroking his beard for a brief moment. "Two weeks, and you’ll have something that throws an arrow. A month, for a finished piece.”
+
+He gave a small nod but Joren had already turned back toward the anvil as he spoke without looking back. “Bring me what I need, and you’ll have your bow, Lord.”
+
+The hammer rose a moment later and the rhythm resumed.
+
+Lucien turned to leave the blacksmith to his work, his mind already shifting toward the next task ahead.
+
+His thoughts moved toward the forest beyond the village and the preparations for the ridge outpost, both threads aligning into the same direction.
+
+Sera’s bow came to mind, the tension in it distinct from the others he had seen and the make of it something even Harlon had noted as uncommon for the frontier.
+
+That would be enough.
+
+He would speak with the carpenter first.

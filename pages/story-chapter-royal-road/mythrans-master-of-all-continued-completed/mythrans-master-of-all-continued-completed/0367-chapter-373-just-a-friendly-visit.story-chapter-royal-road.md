@@ -1,0 +1,387 @@
+---
+id: 06eae188-6716-571b-a029-08b3732fd9e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 373 - Just A Friendly Visit"
+slug: 0367-chapter-373-just-a-friendly-visit
+partOf: mythrans-master-of-all-continued-completed
+position: 367
+ownLength: 3677
+unit: words
+publishedAt: 2017-09-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165038/chapter-373-just-a-friendly-visit"
+royalRoadId: "165038"
+---
+
+Ren, Gloria, Lisa, and Stella enjoyed their time in the pool. After a short rest, Ren swam a little more, then went into the attached hot tub to watch the three women enjoy themselves as they swam. Since they didn't have to keep an eye on Ren, they let themselves go a little bit and carried on more than they normally would have.
+
+They hadn't discussed it with each other, but they all realized that they wanted to give him a bit of a show. The three women frolicked and played, laughed out loud and splashed in the water, and let Ren enjoy watching them. They didn't do anything sexually teasing, like bend over for him or anything like that. All they did was exaggerate the fun they were already having.
+
+“I think I'm getting water-logged.” Ren said and climbed out of the hot tub. Stella took that as the cue to end the festivities, and they all got out of the pool. After a quick rinse in the cold shower to clean off a bit, they gathered up their clothes and went into the house.
+
+“Gloria, the main house bathroom is right there.” Ren said and pointed at a door between the dining room and workout room. “It's got a huge shower, so you can clean up in there.”
+
+“Thanks.” Gloria said and went into the bathroom.
+
+“Stella, can you take me up to my room so I can shower, too?” Ren asked, and Stella nodded. “Lisa, are you joining me?”
+
+“Um... I think that... I... ah...”
+
+Ren smiled. “Ride up in the elevator with us, then you can go to the third floor to pick out which room you want.”
+
+Lisa nodded, and they got in the elevator. Ren and Stella got off on the second floor, and Lisa went up to the third. Stella pushed Ren into his room and then into the bathroom.
+
+“Ren.”
+
+“Yes?”
+
+“I think asking Lisa to move in is a mistake.”
+
+“You think it's too soon.” Ren said, and Stella nodded. “Well, I already offered it; so, all I can say is... your objection is duly noted.”
+
+“Ren.”
+
+Ren stood up and slipped off his swim trunks. “I'm not taking it back, even if I wanted to.” He said and stepped into the shower and sat down. “Can you help me shower again? I'm a little weak, even after resting in the hot tub.”
+
+“You should have turned it on.” Stella said and slipped off her custom bathing suit. “It might have helped.”
+
+“I would have had a hard time listening to you guys playing around.” Ren said, and when Stella stepped into the shower, he took her hand. “Thank you.”
+
+“I'll always help you shower.” Stella said. “You don't have to thank me for that.”
+
+“I meant for playing with the girls in the pool.” Ren said. “The carrying on, the joking, and the laughter.” He smiled. “I'm going to remember those sounds for the rest of my life.”
+
+“Oh, Ren.” Stella said and knelt to hug him. “I'm glad you liked it.”
+
+“I did.” Ren said. “Almost as much as you hugging me naked.”
+
+Stella snorted a laugh and let him go. “They're just breasts.”
+
+“No, they're your breasts.” Ren said. “There's a huge difference.”
+
+Stella laughed and stood up. “Let's get you cleaned up and dressed for the ladies.”
+
+“Okay.” Ren said and held his arms out. “Scrub me, please.”
+
+“Rough or soft?” Stella asked and held up a sponge and a cloth.
+
+“Soft.” Ren said, and Stella lathered up the cloth and scrubbed him from top to bottom. She'd saved his midsection for last, and when she knelt and washed between his legs, he didn't react at all.
+
+“Are you okay?” Stella asked.
+
+“I'm fine.” Ren said. “I don't want to insult you by getting excited.”
+
+“Okay, Ren.” Stella put the cloth down and looked at him. “What's wrong?”
+
+“Nothing.” Ren said.
+
+“I know that's not true.” Stella said. “Normally, I'll barely touch it and you would be ready.” She said. “Why are you holding back now?”
+
+“I told you.” Ren said. “I am never going to offend you.”
+
+“Ren, please... tell me what...”
+
+“I never want to hurt you.” Ren said. “I made that mistake with Lucy, and she left me.” He said and wiped his eyes before the tears could fall. “I don't want to lose you, too.”
+
+“Ren...”
+
+“I'm sorry, I shouldn't cry like this.” Ren said. “I've cried enough over losing the people that I love.” He said and looked at her. “I think I'm scrubbed enough, and I'd like to be rinsed off, please.”
+
+“No.” Stella said.
+
+“What?”
+
+“If you don't get excited for me right now.” Stella said. “I'll take it as an insult.”
+
+“But...”
+
+“Ren, I will not let you close yourself off from me like this.” Stella said. “It's not healthy for you to deny your urges, especially with me; so, you will react properly when I touch you.”
+
+“But...”
+
+“I'm not kidding.” Stella said. “You will act honestly and truthfully with me, you will tell me what's wrong at all times, and you will let your body react as much as it wants to.”
+
+“Stella...”
+
+“You will not deny yourself, and you will definitely not deny yourself with me.” Stella said. “Now, I'm going to pleasure you and you are going to enjoy it.”
+
+“I...” Ren sighed. “Yes, ma'am.”
+
+Stella reached out and touched it, and it sprang to life instantly, and she smiled. “Look at me, Ren.” She looked at Ren in the eyes as she wrapped her hand around him. Neither of them broke eye contact as she pleased him; and since Stella's technique was far beyond anything he had experienced before, it didn't take long for him to finish. She felt it as it splashed across her chest and belly, but kept staring at him and kept moving her hand.
+
+“S-S-Stella!” Ren said as he went again. “I... I love you.”
+
+“I love you, too.” Stella said. “So, don't ever insult me by not reacting to me.”
+
+“I promise.” Ren said, and Stella helped him rinse off. She stepped out of the shower and looked back when Ren didn't move.
+
+“What are you doing?”
+
+“Can you put that bathing suit back on?” Ren asked. “I didn't give you a proper reaction to it.”
+
+“You didn't?” Stella asked, and he shook his head.
+
+“I want to make up for insulting you.”
+
+“Ren, I'm standing here, naked.”
+
+“Please.”
+
+Stella nodded and stepped into the bathing suit, pulled it up, and tucked her breasts into the strip across her chest. “There.” She said and looked at Ren, and saw he was at full mast.
+
+“Turn... turn around.” Ren said.
+
+Stella turned around for him, and wiggled her butt. When she bent over a little bit, she heard him gasp.
+
+“Oh, god!” Ren said.
+
+Stella looked over her shoulder at him and saw that he had finished again. “You really do like it.”
+
+Ren nodded several times quickly. She stood up and slid the bathing suit off, and stepped back into the shower with him.
+
+“I need another shower.” Stella said and saw Ren was still ready. “This is going to take a while, isn't it?” She asked, and Ren nodded several times again.
+
+*
+
+“I wonder what's taking them so long.” Gloria asked Lisa. They were showered and dressed and back downstairs in the kitchen. Lisa had mentioned that there were snacks in the bowling alley on the second floor, and they had grabbed several handfuls of bars and 3 bowls of candy.
+
+“If I had to take a guess, I'd say they're taking a shower together.” Lisa said and ate a candy.
+
+Gloria stopped eating her chocolate bar and looked at her. “Wait, together?”
+
+Lisa nodded. “She has to help him a lot, especially after some kind of physical activity.” She said, and then smiled. “Of course, this activity was three half-naked girls playing in a pool.”
+
+“Hold on... are you saying that... that they... that she...”
+
+“I don't think they are actually having intercourse.” Lisa said and ate another candy. “No doubt it's by hand, and maybe some oral.”
+
+Gloria's mouth dropped open, and Lisa laughed.
+
+“You're okay with that?” Gloria asked when she recovered from the shock, then remembered her bar and took another bite.
+
+“Not only was she here first; but, you know just as well as I do what Stella thinks about being physical.”
+
+Gloria thought about it for a minute.
+
+*
+
+The elevator door opened and Stella pushed Ren out and past the living room.
+
+“She is pretty open-minded about it.” Gloria said as Stella and Ren arrived at the kitchen.
+
+“Who's open-minded about what?” Stella asked and parked Ren at the kitchen table.
+
+“You and sex.” Lisa said and ate another candy.
+
+Stella chuckled. “I didn't know my sex life was a valid topic of conversation.”
+
+“Gloria was wondering what was taking you so long.” Lisa said. “I just filled her in on what i thought was happening.”
+
+“Did somebody get the license plate of that bus I just got thrown under?” Gloria asked, and Lisa laughed.
+
+“If that's the case, then yes.” Stella said. “He and I had to discuss something, and when we worked that out...”
+
+“I don't need the details about my boss and his boss doing the hanky-panky, thanks.” Gloria said.
+
+“Hanky-panky?” Ren laughed. “I thought I was the one full of old movie-isms.”
+
+“So, what did you do?” Lisa asked, and Gloria put her hands over her ears.
+
+“Her hand on me, my hand on me, my mouth on her, and her mouth on me.” Ren said without hesitation. “In that order.”
+
+Lisa tapped Gloria's arm, and she moved her hands.
+
+“What?”
+
+“I was right.” Lisa said. “They didn't have intercourse.”
+
+“Geez, I said I didn't want to know!” Gloria exclaimed, and everyone laughed.
+
+The telephone rang and Stella picked it up. “Yes, thank you.” She said and hung up. “The police are here.”
+
+*
+
+“Get a load of this place.” Detective John Ramirez said as they drove slowly up the road towards Ren's house.
+
+“It's a mansion.” Officer Holly Stonewall said. “There's the guest house in back, just like the house listing said.” She said. “Are you sure coming here directly was a good idea?”
+
+“It'll let him know we're still looking after him, and that we can find him when it's necessary.” John said and pulled into the long, wide driveway.
+
+*
+
+“I guess I better go meet them.” Ren said. “I had hoped it would have taken them longer to find me.”
+
+“Hold on.” Gloria said. “You were hiding from the police?”
+
+Ren chuckled. “No, I'm not that stupid.” He said. “I just moved and didn't tell them where I went.” He looked at Stella. “I only told the people that mattered to me where this place was.”
+
+Lisa and Gloria exchanged glances when they heard that, then looked at Ren.
+
+“I didn't tell anyone.” Stella said and unlocked the wheels on the wheelchair and started to push it towards the front door.
+
+“I told 2 taxi drivers; but, there's no way for them to know it's you that I'm visiting.” Lisa said as she followed Ren and Stella.
+
+“I don't have anyone to tell except my boss, Frank.” Gloria said from behind them. “Since I didn't work today, he doesn't know it's you at this address, either.”
+
+“I'm pretty sure it wasn't Barbara, since she's usually asleep in the guest house during the day; so, that leaves my other nurse Denise and my girlfriend Elise.”
+
+“Hey, that rhymes.” Gloria said. “Denise and Elise.”
+
+“I never noticed.” Ren said and smiled. “Denise, Elise. Denise, Elise.”
+
+“Now say that 5 times fast.” Stella said.
+
+“Denise Elise, Denise Elise, delise lease” Ren said. “Dammit.”
+
+Stella chuckled and they stopped at the front door.
+
+“Gloria, open the door just before they push the doorbell.” Ren said. “Let's see how they react.”
+
+Gloria nodded and carefully peeked out the long thin windows on either side of the large front door. When she saw the man and woman stop walking, she pulled open the door and stepped back out of the way. Officer Holly Stonewall had her hand in mid-air and ready to push the doorbell, and her face showed surprise. Detective John Ramirez kept a blank face, even though he was surprised, too.
+
+“Oh, my GOD!” Ren said and slapped his cheeks with his hands. “It's the FUZZ!”
+
+Lisa, Stella, and Gloria laughed while Officer Holly frowned.
+
+“We're sorry to disturb you, Mr. Haddon.” Detective John Ramirez said. “Do you mind if we come in?”
+
+“Yes, but you can come in anyways.” Ren said. “Stella, the first living room is big enough, right?”
+
+“Ren, the downstairs bathroom would be big enough for us to have a meeting in.” Stella said and he laughed. She turned the wheelchair around, and pushed Ren across the lobby and towards the first living room. The two police officers came inside and Gloria shut the door behind them.
+
+“We just came to check up on you.” Detective Ramirez said.
+
+“Why?” Ren asked.
+
+“What?”
+
+“I haven't heard from you in a while.” Ren said and Stella stopped the wheelchair beside the couch, then helped him transfer over to it. “Did something new happen in the case?”
+
+“Not really.” The detective said and watched as Lisa sat beside Ren and took his hand.
+
+“Then you being here makes no sense.” Ren said and looked at Officer Holly and then back at the detective while Gloria sat on the arm of the couch. “Have you found evidence you can't use in a legal court or something?”
+
+Officer Holly blinked her eyes at him. “How-” She clamped her mouth shut, and Ren grinned.
+
+“I'm sure that whatever you've dug up must be important, if you went through all the trouble to track me down.”
+
+“We're the police.” Officer Holly said. “Tracking people down is what we do.”
+
+“Ha!” Lisa barked a laugh. “You're supposed to track criminals down, not people.”
+
+“That's what I meant.” Officer Holly said.
+
+“No, it isn't.” Ren said and turned his head slightly to the side and squinted his eyes a little. “You didn't call my nurse to get the address.” He said. Officer Holly didn't react, and he smiled. “It was Elise.”
+
+Officer Holly stared at him. How does he know? She asked herself. Did she call him? Did he call her?
+
+“I guess that's my fault.” Ren sighed. “I never told her to keep it a secret.”
+
+“You didn't tell that to any of us, either.” Lisa said. “Of course, I already knew not to say anything.”
+
+“Same here.” Gloria said. “Spreading his address around won't keep him safe.”
+
+“I should call her and tell her...” Ren stopped talking. “I guess it doesn't matter now.”
+
+“Why do you say that?” Officer Holly asked. “Only John and I know...”
+
+Ren snorted a laugh. “You're kidding, right?” He asked her. “Everyone knows cop cars are GPS tracked 24/7.”
+
+Officer Holly looked at him, and then looked at her partner.
+
+“He's right.” Detective Ramirez said and sighed. “I screwed up.”
+
+“But...”
+
+“I'll be right back.” John said and left the living room. Officer Holly stood there and felt a little awkward.
+
+“He really likes you.” Stella said to her, and Officer Holly looked at her.
+
+“Excuse me?”
+
+“I see the way he looks at you.” Stella said. “There's some sexual tension there, no doubt about it.”
+
+Officer Holly looked at Ren. “I have no sexual interest in him at all.” She said. “Especially after learning about what he does in the game.”
+
+“I meant your partner, not Ren.” Stella asked. “What did you learn about what Ren does in the game?”
+
+“His personal maids.” Officer Holly said. “He does his personal maids.”
+
+Ren looked at her with wide eyes. “Why would you say that?”
+
+“Oh, come on!” Officer Holly said. “Everyone knows personal maids are legal prostitutes!”
+
+“Hold on.” Ren said and sat up straight. “It's legal in the game?”
+
+Officer Holly shook her head. “So, you thought it was illegal and did it anyways.” She sighed. “I wanted so badly to give you the benefit of the doubt, and I had hoped that...”
+
+“Shut your mouth!” Stella said, and Officer Holly stopped talking. “You have no right to judge Ren, and you have absolutely no right to tell him what he can and can't do!”
+
+“Excuse me.” Officer Holly said. “I'm a police officer, so I'm the perfect person to judge when a crime is happening.”
+
+“You're apparently really good at jumping to conclusions and not gathering all the facts, too!” Stella said.
+
+“Hey, what's all the shouting about?” Detective Ramirez asked as he came into the living room with a folder in his hands.
+
+“Your ignorant partner is trying to give Ren the riot act for committing a crime that he didn't do.” Stella said.
+
+“He just admitted he thought that personal maids were illegal!” Officer Holly said. “Why aren't you giving him the riot act?!?”
+
+“Holly...”
+
+“No, John.” Officer Holly said. “This... person... needs to know her place.”
+
+“Get out.” Ren said and stood up. “I was willing to give you some leeway where the maids are concerned, mainly because I've been trying to figure out a way to get them out of their contracts before anything happened; but, when you talk to someone I love like that, you don't deserve to be looked at, let alone listened to.”
+
+“Now wait just a minute.” Detective Ramirez said and glanced at his partner. “This is all just a misunderstanding...” He could see Officer Holly was fuming and wanted to punch something.
+
+“Oh, I haven't misunderstood anything.” Ren said, and let his own anger show. “Your judgmental and ignorant partner accused me of a crime. Sex with prostitutes I believe.” He scowled. “We've never had sex, although I have touched and played with them; but, I did that to please them and to keep them happy, and delayed them wanting to sleep with me.”
+
+Officer Holly's anger faded as Ren's words registered.
+
+“For you to come here and accuse me, then tell Stella that she should 'know her place'?” Ren chuckled. “For your information, and I want to make this clear.” He said, and gave the police a stern look. “Her place is right here, by my side, to defend me from people like you.”
+
+“Hey, now.” Detective Ramirez said. “There's no need...”
+
+“Yes, there is.” Ren said, and took a deep breath. “It's you that needs to know your place.” He said. “How long has it been since I was attacked? How long have I been waiting for you... and your partner... to give me hope?” He looked at the detective and back at Officer Holly. “How much longer must I wait for you to come to me and say, 'Hey, we caught them. You can rest easy now, and you don't have to worry anymore'?”
+
+Neither Detective Ramirez nor Officer Holly Stonewall could answer that, and they felt just a little bit smaller because of it.
+
+“I guess that means it's going to be a while.” Ren said when they didn't respond, and sat down. “I'd thank you for stopping by and accusing me of prostitution, and in a virtual game no less; but, I honestly don't think thanking you for that is a good idea.”
+
+Officer Holly opened her mouth to speak, and her partner touched her arm.
+
+“We're sorry for upsetting you.” Detective Ramirez said and handed Ren the file folder. “I hope you'll accept this as an apology.”
+
+“What is it?” Ren asked, but he didn't open the folder.
+
+Officer Holly was going to tell him to open it, just so she could gauge his reaction to seeing a copy of all the evidence they had gathered so far. John pulled her away and put her behind him instead.
+
+“It's something that won't hold up in any criminal court.” Detective Ramirez said. “But... with all those lawsuits flying around... maybe... just maybe... if it came from you...”
+
+Ren still didn't open the folder, and he smiled at the detective. “This I can thank you for.” He said and glanced at Officer Holly. “I know I shouldn't ask you for anything else, Detective Ramirez; but, the next time you decide to visit, can you leave your partner in the car? She's a little too upsetting for me to be exposed to, especially in my current condition.”
+
+Detective Ramirez nodded wordlessly and turned around.
+
+*
+
+Detective Ramirez stopped Officer Holly from talking with a shake of his head and a firm grip on her arm. He led her out of the living room and out the front door, then shut the door behind them. Officer Holly shook free of his grip and turned on him.
+
+“What the hell was that all about?” Holly asked. “How could you let him talk to me like that?”
+
+“Because you were stupid for bringing it up in the first place.” John said and walked towards his car. “How could you just accuse him like that?”
+
+“I didn't!” Holly said. “When the personal maids came up...”
+
+“Oh, god.” John rubbed his face with a hand. “Why didn't you just keep your mouth shut about it?”
+
+“Excuse me?”
+
+“Holly.” John sighed and opened his car door and looked at her over the roof of the car. “Do you think he's ever going to talk to us again, let alone cooperate with us now?”
+
+Holly took in a deep breath to calm down. “We are trying to help him.”
+
+John laughed and got in the car.
+
+“What's so funny?” Holly asked as she sat in the passenger seat.
+
+“At what point, in anything that either you or I said in there, did he hear that we were trying to help him?” John backed the car out of the driveway and drove down the road to the gate, while Holly sat in silence beside him. Just like Ren's questions, she couldn't answer that one, either.

@@ -1,0 +1,327 @@
+---
+id: a3b0dc8d-af10-52c3-8e46-b28210832da4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 401 - Dance Off!"
+slug: 0397-chapter-401-dance-off
+partOf: mythrans-master-of-all-continued-completed
+position: 397
+ownLength: 5242
+unit: words
+publishedAt: 2017-10-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170251/chapter-401-dance-off"
+royalRoadId: "170251"
+---
+
+The dancer on stage wore one of the stylish business suit and skirts Ren had just given them. He didn't know her name; but, when she pulled open her suit coat to reveal a very normal white cloth bra instead of one of the fancy ones he had made for the dancers, it definitely caught his attention. He wasn't sure if it was a style choice, or if she had some inkling that he actually preferred normal bras and thought it would give her a leg up on the competition.
+
+Either way, it was working.
+
+Ren watched as she strut across the stage, full of confidence, and her breasts bounced inside the normal cloth and he saw how much she liked it. It went along with her feelings as well. She felt empowered, that she owned the world, and she knew without a doubt that Ren was watching her with his full attention. She did a twirl and slid the jacket off her arms, and flung it across the stage towards Ren. He caught the collar with a single finger, flipped it around and folded it, then tossed it into a perfect pile on his lap and didn't take his eyes off of the dancer.
+
+She smiled wickedly at him, and he felt her joy as she crossed the stage and did a quarter turn, just enough to hide her undoing the top of the skirt. She did another half turn so that she faced away from him, then locked her knees and bent over at the waist as she pulled the skirt down. It revealed a shapely backside that was barely covered in a pair of white panties. Unlike the bra, these had a bit of frill along the edges, and didn't leave much to the imagination.
+
+She stood up and stepped out of the skirt, then flicked her heel back and Ren caught the skirt. He folded it up like he did the coat and put it on his lap, and watched as the dancer completed the turn with an arm over her head and swung her hips like a belly dancer. She brought the arm down and turned away from him again with her hands on her hips, and shook her butt quickly from side to side several times to make her cheeks jiggle.
+
+Ren wasn't really into that, and all he really noticed was that her underwear was not up to the task of keeping her covered and rode up on her. She did another half turn, took a step to the right, then the left, flung her head down and back up again. She waved her arms and slid a little to the right, then dropped to her knees and backwards onto her hands. She did several upthrusts with her hips, then rolled over and did it again. Now on her hands and knees, she kicked her leg backwards and almost touched the back of her own head with her foot.
+
+She pushed herself up into a standing position and lifted the same leg. She grabbed it with a hand and the leg went up... and up... and up, until her toes were pointing straight up and her calf touched her face. She did something that made her rotate, and she dropped the leg and did a kind of lasso move as she shook her hips. Her hands darted up into the air, and she thrust her hips forward without the rest of her body moving.
+
+Ren didn't know that something like that was possible, and she brought both arms down and pretended to pull something towards herself and made fists; then thrust twice more with the same hip and arm actions. He watched as she put her arms out to the sides at shoulder height and swung her hips from side to side; once again without moving any other part of her body.
+
+It's like her hips aren't even attached to the rest of her. Ren thought.
+
+She licked her hand and dragged it down her body as she crouched down in front of him, spread her legs apart to show him just how little her underwear covered after all that movement, then did it twice more and thrust her hips again. Ren blinked his eyes at her, and he felt how much she liked that she was surprising him.
+
+She stood up and did another part turn, unhooked her bra, and slipped it off as she completed the turn. She threw it to him and he added it to the pile as he watched her bare breasts bounce. Her moves changed as her chest didn't have the restraint it needed for some of the other moves she did, and she put a hand on the top of her head and one on her hip as she swung them side to side and forward and back.
+
+She turned her back to him and did a bit of belly dancing, which seemed odd since Ren couldn't see her belly; and she did that head twirling thing and flung her hair around in a circle to match her hips. She turned around and dropped to her hands and knees again, then crawled towards Ren. Her bare breasts swayed underneath her and she exaggerated her shoulder movement to make them sway even more.
+
+When she reached the edge of the stage she laid down and writhed in front of him for a few moments, rolled over and off the stage, then did several dance moves right in front of him. Ren wasn't sure what to do when she turned around and tried to grind herself on him and he had a hold of her clothes on his lap. He couldn't pull his hands away because she was literally sitting on them, and he could feel that she didn't realize, or cared, that his hands were touching her.
+
+She rubbed her backside up and down on his arms, then turned around and flung her leg up and over his shoulder and leaned forward. At least she tried to. Ren was pretty short when he stood up; so, sitting down he was at quite a different height than her normal clients. Her leg didn't land where she thought it was supposed to and she started to lose her balance. Ren felt her panic and automatically grabbed the over-extended leg and put an arm around her back. He did it just in time because her other foot slipped and he had to hold her entire weight as she slid forward into his lap. She was breathing heavy, and he felt that she had scared herself.
+
+“Are you all right?” Ren asked her.
+
+“I... I think so.” She said.
+
+Ren was glad that he wore his armor bodysuit, because her special place was pressed hard against his belly, her right knee was on his shoulder and her calf touched his back. Her other leg hung down off to the side as if she was straddling him. If Ren hadn't had her business outfit on his lap, they would have been in a much more compromising position. At the moment, it was just an awkward situation and neither of them felt anything sexual about it; just relief.
+
+“Um, I think I can stand up.” She said. “I just have to figure out...”
+
+“Allow me.” Ren said and stood up as he held onto her. He shifted her to the side to allow her leg over his shoulder to slide down his arm, and his hand slid from her knee and up the back of her thigh. He saw the potential danger in that and pulled his hand out of the way before it reached the top of her leg, then her foot touched the floor. He grabbed the business suit that was now wedged between them with his free hand and kept his other hand on her back.
+
+With one foot safely on the floor, her other foot joined it and she took several deep breaths to calm down. It had surprised her immensely that he hadn't struggled with her at all, and held her as easily as if she weighed nothing. Ren felt her emotions and just stood there to let her collect herself.
+
+“Do you feel like finishing your routine?” Ren asked when her emotions had stabilized, and he smiled at her. “Or was that enough of a finish?”
+
+“I... I think I'm done.” She said, and her face flushed red. “I'm sure you'll enjoy one of the other girls performances a lot more.”
+
+“Who said I didn't enjoy yours?” Ren said and let her go, passed her the business suit with the plain white bra on top, then leaned in and whispered to her. “I like white a lot.”
+
+The dancer's face went even redder, because she had forgotten to change into the sparkly bra she had intended to wear and had hoped he wouldn't notice once she started dancing. Ren felt her quick embarrassment, and that wasn't what he had intended with the comment.
+
+“What's your name?” Ren asked.
+
+“S-S-Sugar.”
+
+“Thank you for the dance, Sugar. It's going to be tough to beat.” Ren said and smiled reassuringly at her. Sugar nodded and held the business suit over her chest and walked around the main stage to the back. Different music started and Ren sat down to watch the next dancer come out through the curtain. She came out with a flourish and slid across the stage on her knees, rolled over and stood up in one motion and came to a stop in front of Ren.
+
+She wore the Sexy Librarian outfit and fake glasses, and started to gyrate and dance to the music as she stripped. It was different from the first routine he had seen, but it had the same result. She took off all of her clothes during it, then tried to grind herself against him. He realized that they were intentionally trying to physically stimulate him, and he had enough self control to ignore a woman he didn't know and didn't become aroused. He thought about covering himself up with his hands, but then his hands would be touching them directly and he didn't want them to think that he was trying to get a cheap thrill out of groping them.
+
+She finished her dance, and then Manager came out. She wore the Miner's overalls and head lamp, walked over to the end of the stage and hopped off, then leaned down and gave him a kiss on the cheek.
+
+“I'm sorry, but I can't get into it.” She said. “You're cute, but I'm just not attracted to you.”
+
+“Even though I'm enormously wealthy and great in bed?” Ren asked.
+
+The Manager chuckled. “Money isn't everything.”
+
+“I know.” Ren said and took her hand. He gave the back of it a kiss and let it go. “Thank you for your performance.”
+
+“But, I didn't dance.”
+
+“I remember someone saying this was a talent competition.” Ren said and smiled. “Who said you had to dance?”
+
+The Manager looked at him like he was crazy, shook her head, and walked around the stage and to the back. The music changed to something that sounded like heavy metal music and Jennifer came out wearing a blacksmith's outfit. Ren thought that her performance was going to be the same as the other two; but, then she undid the top of her protective apron to reveal a pitted and dented breastplate.
+
+Jennifer started to dance to the rhythm, took a real blacksmith hammer from her tool belt, then started to hammer out the dents. Ren was too surprised to do anything but watch as she fixed the breastplate the old fashioned way while she wore it and danced at the same time. His eyes widened a little when she removed the apron completely to reveal armor pants, also with dents and pits, and she pounded the dents out with her hammer.
+
+When both armor pieces were fixed, and Ren could tell they were done properly, she stored them to reveal a metal bra and metal underwear. She did more dance moves; but, all Ren could think about was how she could possibly move like she was with metal underwear on. It didn't bend or flex like cloth would, and it baffled him that she wasn't hurting herself.
+
+Ren could feel what she felt, and she was as happy as anyone he had ever met while she danced and showed off. She came across the stage in two ballerina lunges and stored the metal bra, which revealed small metal covers over the tips of her breasts. He wondered how she had attached them, and then she turned around to show him her shapely backside and the form-fitted metal underwear. Ren felt a thrill go through him because of the time and effort it would have taken to make such a thing, then he almost gasped when she stored the metal underwear and he saw a small piece of metal between her legs.
+
+Jennifer turned around and he saw that a nicely rounded piece of shiny metal covered her private area completely, and he looked up at her face as his body reacted to her. She had a huge smile for him, then she gracefully walked over to him and crouched down. She sat on the edge of the stage and let her legs dangle off it for a moment, then slowly opened her legs and let Ren see her as if they were in bed together.
+
+“Did... did you make that yourself?” Ren asked.
+
+Jennifer ran a hand across her thigh and knocked on the piece of metal between her legs and it made a nice solid sound. Ren really liked that sound, because it was a sign of something well made.
+
+“It took me a long time to figure out the tolerances I had with the edges of the metal.” Jennifer said and rubbed her fingers around the edge of it. She moaned a little, and Ren could see her body tighten up. “It will leave marks in the skin if I'm not careful.”
+
+“May I?” Ren asked, and he felt a strong spike of desire from her, which surprisingly matched his own. She nodded, and Ren reached out and touched the piece between her legs. He used Vision of Impurity on it while he ran his fingers across the warm metal. Jennifer moaned as he did it, and he didn't detect any flaws at all; which made him smile.
+
+“This is very nice work.” Ren said and started to move his hand away. Jennifer touched it and he looked at her.
+
+“You didn't check these yet.” Jennifer said and cupped her breasts to push the metal-covered tips out.
+
+“How are they attached?” Ren asked and used both hands to touch and caress the metal on both breasts. He knew they had to be held on with something like glue, or a game version of tape, or something similar.
+
+“That's a secret.” Jennifer said as he rubbed the tips of her breasts. “If I win, I might just tell you.”
+
+Whatever it was, Jennifer had provided Ren with just the right combination of stimulation for him. Great craftsmanship, sexiness, a thought provoking question, and emotional satisfaction from her, just flipped his switch.
+
+Jennifer saw his reaction to her through his thin bodysuit, and she leaned forward. Ren pulled his hands back and she straddled his lap and pressed the piece of metal between her legs onto his reaction.
+
+“J-Jennifer... you're not... dancing.” Ren said and placed his hands on the sides of her waist to lift her off.
+
+“Oh, but I am.” Jennifer said and started to move her hips. Around in a circle, up and down, and a little bit from side to side. It was an odd sensation for him; and for her too, apparently. He felt her shock and surprise as she stopped moving suddenly and wrapped her arms around his neck. “Oh, god!” She said and her body shook as she laid her head on his shoulder.
+
+Ren felt a lot of warm liquid soak into his armor bodysuit and fought his own body's reaction to making her finish. Jennifer panted as she took several deep breaths, and tried her best to get her emotions under control. They were in direct contact, so Ren could feel everything she had felt. He had to absorb some of it, just because there was so much of it and it tasted so good.
+
+Ren was about to tell her about his ability and then he felt her shock start to wear off. She realized what had just happened and he felt her start to panic. She'd never gotten off with a customer before, and she didn't know what to do now that it had happened.
+
+“Don't... don't move.” Ren whispered in her ear. “You got me off.”
+
+“Wh-what?”
+
+“It's quite the mess, and I don't want to embarrass myself.” Ren whispered. “I know this is a lot to ask, but... can I carry you to the kitchen so I can changes clothes? I don't want anyone to see.”
+
+Jennifer didn't say anything as she nodded, and Ren held her close then stood up and walked to the kitchen with her arms and legs wrapped around him. Once they passed the door, he helped her stand up and quickly turned away from her.
+
+“Thanks.” Ren said and equipped his Travelling Clothes, then equipped his armor bodysuit again. “You're a really good dancer.”
+
+“What... what made you...” Jennifer asked as she equipped normal clothing.
+
+“Everything.” Ren said, and she put her hand on his shoulder. He turned around and smiled at her. “Your metalwork, that you could do repairs while dancing, and that you could make something so erotic and functional at the same time.”
+
+Jennifer moved the hand from his shoulder to his face. “You're so sweet.” She said and pinched his cheek hard. “But I didn't hear anything about my body.”
+
+Ren laughed. “You're kidding, right?” He said. “When you turned around and showed me that finely sculpted metal underwear that highlighted your perfectly shaped ass, I almost went then!”
+
+“That's better.” Jennifer said and let his cheek go. “But, how do I know that's the truth?”
+
+Ren took out the modified Amulet of Truth called Amulet of Punishment. “If we lie, we get a Lightning bolt shock.”
+
+“Wow.” Jennifer said. “Can I have it?”
+
+Ren chuckled. “You just want to shock people with it.”
+
+“Yeah.” Jennifer said and smiled. “Why else would I want it?”
+
+Ren shook his head. “I'll be modifying it to emit Heat after this.”
+
+“Okay.” Jennifer took a single breath and looked at Ren. “Tell me what you liked about my performance.”
+
+Ren gave her a rundown of what he enjoyed, what made him excited, and then seeing her metal covered private part.
+
+“I have to say, honestly, that was pretty damn hot.” Ren said. “Then you let me touch it.”
+
+Jennifer smiled. “You only touched the metal, though.”
+
+“I didn't want to cross that line.”
+
+“Why not? I would have let you.” Jennifer said. “In fact, I...” She looked at the Amulet of Punishment. “I really wanted you to.”
+
+“Why?”
+
+“Because.” Jennifer said. “You were judging my talent. I could see that you were looking at what I was doing, and not trying to see if you could get a peek at my naughty parts.”
+
+“I thought they were coming out anyway.” Ren said and smiled as he reached out to poke the tip of her breast and the metal cover that could still be seen under her blouse. “You don't know how surprised and delighted I was that I was mistaken.”
+
+“I do now.” Jennifer said and glanced at the amulet again. “Of course, you could be lying about it and that thing is just a piece of metal.”
+
+“I can't believe I'm doing this.” Ren said and chuckled as he held the amulet at arm's length. “Jennifer, I do not want to see what's under those metal covers you're wearing.”
+
+A small Lightning bolt shot out of the amulet and struck Ren right in the face.
+
+“OW! Goddammit!” Ren said and dropped the amulet to grab his face.
+
+“Ren!” Jennifer said and moved his hands out of the way. She saw a scorch mark right under his right eye, and Ren felt her regret. She touched his face by it, then leaned down and kissed the wound.
+
+“Thank you.” Ren said and picked up the amulet. “I told Issac using Lightning was a bad idea.” He said and absorbed the enchantment, then replaced the Lightning rune with a glyph of 10 Heat runes and put the enchantment back. “It almost hit me in the eye.”
+
+Amulet of Interrogation (Compulsion - Truth)
+
+Beings (creatures or persons) within the area of effect can't speak any deliberate or intentional lies. Anyone within the Aura cannot avoid speaking the truth when asked a direct question, or they will suffer through a blast of Heat that will make them sweat immediately for the first infraction. Each subsequent infraction will increase both the Heat and the amount of sweat produced.
+
+Any creatures or persons with no will of their own are unaffected by any truth-based spell or enchantment.
+
+Area of Effect: 50 foot radius
+
+“That's better.” Ren said, and looked at Jennifer. “I'm really glad you didn't lie.”
+
+Jennifer nodded. “I'm sorry you had to lie, just so I would know it worked.”
+
+“That's okay.” Ren said. “I usually have to suffer for the truth to come out.”
+
+Jennifer looked at the amulet and then at Ren. “That... that's true?”
+
+Ren nodded. “It happens a lot.” He said. “We better get back out there before people think we're in here having sex.”
+
+“Why?” Jennifer asked. “It's not like we haven't had sex with men before.” She giggled. “I meant the other girls and me, not you.”
+
+“Um... I mean, we're in the middle of a competition. I don't want people to think that you're trying to get the upper hand.”
+
+“What's wrong with that?” Jennifer asked and stepped close. “We're very competitive.”
+
+“But...” Ren took a deep breath. “...don't you love Billy?”
+
+“Of course I do.” Jennifer said and put her arms around Ren. “That doesn't mean I'm going to give up my life or change how I earn money.” She chuckled. “It's just sex.”
+
+“But...”
+
+“Although...” Jennifer leaned down and put her lips by his ear. “...I've never gotten excited by a client at work before.”
+
+“You mean me, right?” Ren asked, so she wouldn't know that he knew that already.
+
+“Yes, dummy.” Jennifer said and kissed his cheek where the scorch mark was.
+
+“Hey, are you guys done?” The Manager said when she opened the kitchen door. “Candy's waiting to go on and do her dance for Ren.”
+
+“We weren't having sex!” Ren blurted out.
+
+“Jennifer, you're such a slacker.” Both the Manager and Jennifer laughed, and Ren shook his head and stored the amulet.
+
+“I told you they wouldn't mind.” Jennifer said and let him out of the hug. “Go and enjoy the others, then you can tell me that I won.”
+
+“You're pretty confident.” Ren said.
+
+Jennifer took the same stance she had in the dressing room, with her feet a foot apart and her fists on her hips. “You saw my talent.” She said and grinned at him.
+
+“Not all of it.” Ren said and grinned back, and she laughed.
+
+“Go on! Git!” Jennifer said and shooed him away. “I want to give you the first dance before we open tonight.”
+
+Ren left the kitchen and took his seat, and then a girl named Candy came out. She started her routine with a couple of moves, then the music changed and another girl came out. Her name was Apple, and she acted like a stripper pole for the other dancer. Candy did a lot of the moves one would expect a woman to do on a stripper pole, and Ren watched in awe as she slowly stripped Apple instead of herself.
+
+Candy groped and played with Apple; but, not quite in a sexual way. It was like she was showing Ren that she could play with her as much as she wanted, and she wasn't going to because they were in public. When the music died down, Apple was naked from head to foot and Candy was out of breath from her dance.
+
+“Now... it's... Apple's turn.” Candy said and stood up, and Apple equipped another outfit and put a chair in front of Candy to let her lean on it. The music picked up and Apple did her striptease dance, only she stripped Candy instead. It was quite the spectacle, and Ren wasn't sure what to think about it.
+
+Apple had done the same thing; she groped and played as each part of Candy was exposed and it was only perfunctory. Ren didn't get any sexual vibes from it, because he would have felt it if there were; but, the potential was there and he figured that was the point they were trying to get across.
+
+“Thank you, Candy and Apple.” The Manager said. “It's a little odd for two dancers to combine their routines, but...” She looked at Ren. “...I think it's going to be popular.”
+
+“No doubt.” Ren said, and both dancers smiled warmly at him and left the stage. The other 7 dancers came out and did their routines while Ren watched attentively. Some tried to do what the first dancer did and use Ren in their acts, and had similar results. He knew what was coming when they tried to include him and he managed to avoid anyone getting physically hurt. He gave them tips on how to change their moves for clients of different heights, and they thanked him for helping them.
+
+When the last dancer left the stage, Ren asked for several minutes to compose his answer. They agreed, and he went into the kitchen to check on the food. He used his Fire Manipulation skill and a Fire rune to reheat the cooling steaks and stirred the stew, then went back out to the main stage and sat down. The girls came out and stood in a line, in the same order they had performed in, and Ren started to clap. He did this for about 10 seconds, and then he smiled at all of them.
+
+“I'd like to thank you all for a great show.” Ren said. “I can honestly say that I've never seen anything like it before.”
+
+“Is that like saying you thought it was weird and odd?” Caramel asked.
+
+Ren chuckled. “Actually, a couple of them were a little odd.” He said. “Candy Apple... ah, I mean Candy and Apple... had an interesting way to create sexual tension without actually creating sexual tension.”
+
+The two girls high-fived each other, and Ren remembered them doing that when he had agreed to the competition.
+
+“Sugar was the first contestant, so I have to give her extra points for braving being in my presence.”
+
+That made a few of the dancers laugh.
+
+“You all did tremendously well.” Ren said and looked at all of their faces. “But... there can only be one winner.” He said. “For the unique use of her skills, and for getting me excited despite my attempts not to be...”
+
+“Just say it!” Jennifer said, and Ren laughed.
+
+“All right, all right.” Ren said. “The winner is... Jennifer.”
+
+“Yes!” Jennifer stepped out of the line, spiked an imaginary football on the stage, then did a funky little touchdown dance. She shuffled her feet and wiggled her elbows like she was pretending she was a bird, then clapped her hands and did a few tap dancing steps. When she was done she faced the other girls and laughed. “I told you it would be me!”
+
+“Ren, you've got about an hour before the Pleasure Palace officially opens.” Teepo said.
+
+Thanks, Teepo. Ren thought. “It looks like we've got an hour before you open.” He said to the dancers. “I've got steak and potatoes ready for you, or you can have beef stew.”
+
+“Definitely steak.” Candy said. “We can eat all we want in here and we don't get fat!”
+
+The other dancers heartily agreed, and Ren told them to have a seat at the tables. He brought out the 12 plates of steak and potatoes, and he could see several of them drool over it.
+
+“Porterhouse round 2 inches thick?” Caramel shook her head. “You're crazy to waste meat this good on us!”
+
+“Hey, now.” Ren said and walked over to her. “It's never a waste to give a beautiful woman a good meal.”
+
+Caramel chuckled. “You're just saying that because you've seen us naked.”
+
+Ren took out the modified Amulet of Truth and put it on the table. A couple of the girls covered their mouths when they identified it.
+
+“You could be wearing a potato sack and I would still find you beautiful.” Ren said. “I don't give out fake compliments.” He said. “I never have.”
+
+She looked at the Amulet and looked back at Ren.
+
+“Why did you pick Jennifer over us?”
+
+“Caramel!” The Manager said. “Ren, don't answer that.”
+
+“It's all right.” Ren said. “I told you the truth when I picked her. She really was the only one that made me excited.”
+
+“Was it because she rubbed herself on you, or because she promised to have sex with you?”
+
+“No to the rubbing, and she didn't promise me sex.” Ren said. “To be completely honest, I was already rock hard before she made it to the edge of the stage.” He said and looked at Jennifer. “It really was her talent that turned me on. A lot.”
+
+Jennifer's face flushed slightly red.
+
+“So, if we had done something like that, would we have had a better chance?”
+
+“Caramel, shut up.” Sugar said.
+
+“I said it's all right.” Ren said and held a hand up. “How often do you get to question someone that you can prove isn't lying?” He smiled. “If it had been a different skill, since doing another metal repair would have been repetitive, it would have brought your chances up.”
+
+“Dammit, I knew once I saw her dig out that old breastplate we were done for.”
+
+“Not really, because Sugar was a close second.” Ren said. “When she opened her top and revealed a basic white bra and started to dance around with it on...” He sighed. “...if Jennifer's talent hadn't been so overwhelming, you would have won.”
+
+“Even after losing my balance?” Sugar asked.
+
+“Did you?” Ren asked. “I thought that was part of the routine.”
+
+Ren felt a burst of Heat; but, since he was immune to it he just funnelled it to recharge his Mana. He couldn't stop the immediate sweats the enchantment gave him, though.
+
+“Hey, it worked!” Jennifer said. “You just lied!”
+
+Ren nodded. “Just remember, my opinions only apply for me.” He said. “Other men will absolutely love all of your routines.”
+
+“They will?” Caramel asked.
+
+Ren nodded. “I've got particular things that can get me going, and even I didn't realize that seeing a beautiful woman working on metal was going to flip my switch.”
+
+Jennifer raised her fist in the air. “My talent is a gift!”
+
+“It is.” Ren said and chuckled. “It really is.”

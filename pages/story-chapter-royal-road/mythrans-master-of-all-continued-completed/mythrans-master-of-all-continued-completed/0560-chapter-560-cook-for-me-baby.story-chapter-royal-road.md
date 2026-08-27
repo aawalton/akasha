@@ -1,0 +1,267 @@
+---
+id: dbb4b382-d529-516e-8ce2-c2dfd7aa1f36
+page-type-slug: story-chapter-royal-road
+title: "Chapter 560 - Cook For Me, Baby!"
+slug: 0560-chapter-560-cook-for-me-baby
+partOf: mythrans-master-of-all-continued-completed
+position: 560
+ownLength: 2594
+unit: words
+publishedAt: 2018-04-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209034/chapter-560-cook-for-me-baby"
+royalRoadId: "209034"
+---
+
+Ren, Xuunah, Officer Holly and Artemis arrived in Aurora a couple minutes later and came in for a landing on top of the restaurant. Ren and Xuunah could always feel Nathalia; but, being this close made their sharing much easier. Artemis stayed with Princess and the mounts on the roof, so she could observe the people milling about and looked for threats, while Ren, Xuunah, and Officer Holly walked down off the building and to the front door, and Nathalia was there to greet them.
+
+“You made it.” Nathalia said and gave Ren a platonic hug.
+
+“I kind of blew off the whole Human Kingdom to make it in time.” Ren admitted.
+
+Nathalia smiled happily. “As long as you personally don't bring it down, that's okay.”
+
+Ren chuckled. “I could have.”
+
+“Oh, I know.” Nathalia said and gave her mother a hug, then nodded to Officer Holly. “Please come in. I've prepped a section of the kitchen for us to use.”
+
+“Is that a good idea?” Ren asked and followed Nathalia into the restaurant. “I mean, it's kind of a secret what you do, right?”
+
+Nathalia nodded. “It's partitioned off and I didn't leave out the special ingredients.” She said. “There's not a lot of people in the kitchen right now because we did all the prep work for supper earlier today.”
+
+“It saves a lot of time doing that.” Ren said, and Officer Holly touched his arm for a moment, then she diverted from their path to the kitchen to start her observation of the customers. “I kind of miss having to cook meals all the time.”
+
+“Would you give up your sustenance ring just so you have to spend time cooking?” Xuunah asked as they entered the kitchen.
+
+Ren chuckled. “No, it's too convenient.”
+
+Nathalia waved them behind a curtain and closed it behind them.
+
+“Then don't miss what you used to have and embrace what you have now.” Xuunah said.
+
+“Okay.” Ren said and put an arm around Nathalia's shoulders and one around Xuunah's waist. He gave them a tight hug, then they turned to him and hugged him back.
+
+“This isn't what I meant.” Xuunah smiled and held both Ren and Nathalia. “ I won't complain because moments like these are few and far between.”
+
+“They really are.” Nathalia said. “I really miss being in your arms, Ren.”
+
+“They ache to keep you there.” Ren responded and gave her a kiss on the cheek. “I'll be stopping to pick up some parchment on the way back to my county, so I can start my letter writing campaign.” He smiled. “I'm just sorry I didn't think of doing this before.”
+
+“You've had so much going on, I'm not surprised that some things don't come up.”
+
+Ren nodded. “Now show me this magic cooking you can do.”
+
+Nathalia chuckled. “I've got the things I used for the dish I made for you yesterday.”
+
+“That meal was delicious.” Ren said. “Are you sure you want to start with something like that? It looked complicated.”
+
+“It only looked that way, because you don't know the process to make it.” Nathalia said. “You'll learn it today, and once you apply the proper techniques...”
+
+“We can make the temporary bonuses become permanent.” Ren said. “Where do we start?”
+
+“It's just like normal cooking, with a recipe to follow and ingredients to add, except there's an extra step every few ingredients where you add something special instead.”
+
+“So, the special ingredients replace another ingredient?” Ren asked, and Nathalia nodded. “Then that would mean I might have unlocked the Ingredient Substitution skill a long time ago.” He smiled. “I had to wait until I learned Expert Alchemy to get that skill.”
+
+“Ren, I'm sorry.” Nathalia said. “I meant to try and teach you a long time ago, long before you were kicked out of the Dwarven Kingdom.”
+
+Ren gave her cheek another kiss. “Don't worry about it. Like you said, I've always been busy. I never really have the time to relax and enjoy the fruits of my labours.”
+
+“Is that ever going to change?” Nathalia asked and took out a sealed package.
+
+“I'm trying my best to pare down my responsibilities.” Ren said.
+
+“How's that working out for you?”
+
+“I keep getting more.” Ren chuckled.
+
+Nathalia snorted a laugh and she opened the package, and Ren saw something that he hadn't seen in a long time.
+
+Identify. Ren thought, even though he didn't need to do it, since he knew what it was. He had used it to light his way after he had been tripped and fallen off a bridge into a not-quite-bottomless pit during his very first adventure.
+
+Glow Moss
+
+A simple moss found in deep caverns where moisture is abundant. It gives off a soft luminescent glow.
+
+“You can eat that stuff?” Ren asked.
+
+“If prepared properly.” Nathalia said and grabbed a small handful of moss and picked up a knife. “You need to add Mana to the blade, or it will destroy the magic properties of the moss.”
+
+The blade gained a soft glow, and Ren watched as Nathalia chopped the moss into much smaller pieces. It was magic, because the knife didn't really cut the moss. What it actually did was separate it into smaller pieces and the blade didn't touch the moss at all.
+
+“It's quite difficult to find this kind of moss, since deep caves that can let it grow are dangerous to explore.” Nathalia tossed the moss into a small pot of water. “The water needs to be blessed and purified before cooking, too.”
+
+“How do you do that?” Ren asked.
+
+“You pray to the Earth element and make an offering.” Nathalia said. “Usually just a copper coin, since it's only a small amount of water.”
+
+“Why not make the offering to the Water element?” Ren asked.
+
+“Because you're going to boil it and then add food to it, which could make Water angry for polluting it.”
+
+“That makes sense. There's no need to piss off a deity just so you can cook.” Ren smiled. He helped Nathalia prepare some of the normal ingredients for the dish, which was just regular cooking and didn't require anything special, while they waited for the moss to boil. By the time they had finished assembling everything else, the moss was ready.
+
+“Once it's all mixed together into a casserole, you add it to the oven and let it cook for 45 minutes.” Nathalia said.
+
+“That's it?” Ren asked.
+
+“Of course not.” Nathalia said. “This is where you infuse it with Mana again to get the temporary bonus.” Her hands glowed for several moments, which made the dish glow slightly, and she opened the oven and slipped it inside.
+
+“Okay, now how do you make it permanent?” Ren asked.
+
+“You have to keep infusing it every few minutes, or stand here while you wait and keep the Mana flowing.”
+
+“No, I don't want to do that.” Ren said.
+
+“But...”
+
+“I have a better solution.” Ren opened the oven's bottom tray and used Double Infusion to add Mana Boost runes to the Fire enchanted stones. “Go ahead and activate them.”
+
+Nathalia looked at him for a moment, then concentrated on the new Mana enchantment and activated it. The entire inside of the oven glowed as the Mana combined with the Fire element and the dish absorbed it.
+
+Notice!
+
+You have learned the Vitality and Regeneration Casserole recipe.
+
+“By the gods, Ren.” Nathalia said as he shut the oven to let the food cook. “Do you know what this means?”
+
+“Yes, you can go make something else and not waste time standing here and waiting for it to cook.”
+
+“No, it means you can make anything that requires Mana infusion and it doesn't require the cook to maintain the balance.”
+
+“Isn't that what I said?” Ren asked and grinned.
+
+“Smart ass.” Nathalia swatted at his arm.
+
+“Hey, your ass is smarter than mine. It knows things I don't know.” Ren said and knelt behind her, then used both hands to grab her cheeks. “Oh, wonderful ass!” He said and started to massage it. “Tell me your secrets!”
+
+Xuunah laughed as Nathalia leaned against the counter and tried not to moan.
+
+“R-Ren! S-s-mmm...” Nathalia let a small moan escape. “N-no... s-s-stop!”
+
+Ren sighed and gave her one last squeeze, then let her go and stood up. “Your ass is stubborn, Nathalia. It wouldn't tell me anything.”
+
+Nathalia panted a few times and stood up straight. “Ren, you... that's not the way to learn how to cook.”
+
+“Maybe I should try it again to be sure.” Ren said and wiggled his fingers, and Nathalia laughed and grabbed his arms as she kept her backside facing away from him.
+
+“I'm positive! Keep your fingers to yourself.”
+
+“Aww.” Ren said and let his hands drop to his sides. “What do we do now?”
+
+“We might have enough time left that I could show you a recipe that adds a temporary Strength bonus.” Nathalia said. “It uses a different magical ingredient, though.”
+
+“I can feel your doubt. Does that mean you don't have enough of it?”
+
+Nathalia nodded. “Magical ingredients are expensive and in short supply, since they are usually very difficult to get.”
+
+“Can you show me what it is?” Ren asked, and Nathalia took out a small vial that was only partially filled with powder. Identify.
+
+Giant Rhinoceros Beetle Horn
+
+This powdered horn is difficult to come by, since the Giant Rhinoceros Beetle only lives in deep and dry underground caverns.
+
+“I'll be right back.” Ren said, and he disappeared.
+
+“What? Where?” Nathalia turned her head to look around. While she wondered where he went, Ren had gone outside and down the street a little and took out his storage tower. He went inside and dug out the Alchemist ingredients he had 'bought' from the dwarf alchemist. He was the one that had hurt his dogs and he had hurt in return.
+
+Inside the box was all the potion ingredients, and he rummaged through them until he found the large potion bottle full of powdered Giant Rhinoceros Beetle horn, then shrugged and stored the whole box of ingredients into inventory. He left the tower and stored it, then ran back into the restaurant.
+
+“I have some.” Ren said as he burst trough the curtain.
+
+“YIP!” Nathalia jumped at his sudden appearance, and he took her into his arms.
+
+“Please forgive me for scaring you.” Ren said. “I thought you could feel me while we are this close.”
+
+“I... I can feel you.” Nathalia said and her face went red. “It's distracting.”
+
+Ren gave her a big smile and a quick kiss on the lips.
+
+“You... you can't...”
+
+“It already happened, so let's move on.” Ren said, and Xuunah chuckled. He took the large box of ingredients out of inventory, and Ren held up the large potion bottle he had found. “Here's more of the powdered horn if you need it.”
+
+“By the gods, Ren!” Nathalia carefully took the bottle. “This is worth a fortune!”
+
+Ren shrugged.
+
+“I can't take all of this.” Nathalia refilled the small vial she had and put the large potion bottle back into the box.
+
+“I'll ask the All-Seeing Mirror where I can find a giant beetle and get some more.”
+
+“Ren, you can't just go and grab a horn from the thing! They're called 'Giant Rhinoceros' for a reason!”
+
+Ren shrugged again. “I'm sure Teepo can convince them to let me take a horn or two.”
+
+“Me?” Teepo said, surprised.
+
+“What? They won't listen to an Adventurer Beetle?” Ren asked.
+
+Teepo was silent for a moment. “I guess I could give it a try.”
+
+“That's all anyone can ever ask of you, buddy.” Ren said. “So, what's this Strength recipe?”
+
+“It's a cake.” Nathalia said and smiled. “A four layer cake.”
+
+“Sweet!” Ren said happily. “Let's get baking, My Love!”
+
+Nathalia's face flushed red and Ren felt how much she missed hearing those words all the time.
+
+“I miss saying them, too.” Ren said and put his arms around her.
+
+“R-Ren, you...” Nathalia ducked her head. “Remember what happened at the meal yesterday.”
+
+“Oh, I remember.” Ren said and grinned. “If Xuunah hadn't been there to stop us...”
+
+“I'm standing right here.” Xuunah said, and Ren and Nathalia laughed.
+
+Ren let Nathalia out of the hug and stepped back. “We should have enough time to get the cake batter mixed up before the casserole is done.”
+
+“Then the Mana-infusing oven can take the cake pans when the casserole is removed.” Nathalia said. “You grab the flour and I'll get the eggs and sugar.”
+
+“I'll just keep standing here.” Xuunah smiled.
+
+“I can apologize for that, but I can feel you're enjoying this as much as we are.” Ren said.
+
+“I am.” Xuunah said and reached out to cup the side of his face for a moment. “Just being around the two of you and feeling how happy you are is wonderful.”
+
+“It's almost like old times.” Ren said. “Except I can't make love to Nathalia on the counter like I used to.”
+
+“REN!” Nathalia's face burned bright red.
+
+“What? She knows we have.” Ren said and looked at Xuunah. “Right?”
+
+“I think it's the blatant announcement that she has a problem with.” Xuunah said. “We aren't the only ones in the kitchen and someone else might have heard you.”
+
+Ren shrugged. “Everyone knows we used to be together. There's also no law in the Dwarven Kingdom that says I can't talk about it.”
+
+“It's me that doesn't want you to talk about it!” Nathalia said.
+
+“Oh.” Ren took her into his arms. “I'm sorry.” He gave her cheek a kiss. “I'll stop telling everyone how much fun we had together.”
+
+“Ren, that... that's not what...” Nathalia sighed. “Never mind.”
+
+“Ingredient gathering mission!” Xuunah said. “Go!”
+
+Ren let Nathalia go again and the two of them gathered the ingredients they would need for making the cake batter. They prepared it properly and Nathalia carefully measured out the Giant Rhinoceros Beetle Horn powder and charged it with Mana, then added it to the mixture. Ren added the water when it was needed, and he mixed it all together.
+
+“Give it a good stirring.” Nathalia said. “It needs to have an even consistency and no lumps. It won't cook evenly if it has lumps in it.”
+
+“Not a problem.” Ren said, and his hand moved so fast, it was like an electric mixer. After a few minutes of that, he handed the bowl to Nathalia. She checked it for lumps, and didn't find any.
+
+“Grease the pans.” Nathalia said.
+
+Ren did so, and set them on the counter. Nathalia spread the batter out over the 4 pans and made each of them the same thickness. She touched each pan and infused it with Mana, then stepped back.
+
+“I think that's it.” Nathalia said and checked the oven. “Yes, it's done.”
+
+Ren took out the casserole and slipped the 4 cake pans inside the oven and closed it. “How long? 30 minutes?”
+
+“We can check at 25, but 30 to 35 should finish them.” She said. “Then we add the icing in between the layers and serve.”
+
+Notice!
+
+You have learned the Strongman Cake recipe.
+
+“That's great.” Ren said. “Thanks for teaching me.”
+
+“My Love, we are just getting started.” Nathalia said as her eye fell upon his large box of Alchemy ingredients. It was full of rare and expensive ingredients that she had only heard about in stories. “I have so much more to teach you.”

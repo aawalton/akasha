@@ -1,0 +1,217 @@
+---
+id: e43b2513-b878-59ea-94b4-e5066d56fc10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48 Mercy"
+slug: 0052-chapter-48-mercy
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 52
+ownLength: 1834
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3342316/chapter-48-mercy"
+royalRoadId: "3342316"
+---
+
+Thin winter sunlight filtered through the frost along the glass, casting pale bands across the parchment spread before him.
+
+A knock sounded against the study door. He did not look up from the ledger in his hand.
+
+“Enter.”
+
+The door opened with a soft creak.
+
+Dorian stepped inside, closing it behind him before crossing the room. He came to a stop several paces from the desk, his posture settling into the stillness of a soldier delivering a report.
+
+“My Lord.”
+
+Lucien set the parchment aside and lifted his gaze. “Dorian, Elias mentioned you requested an audience?”
+
+Dorian inclined his head, folding his arms behind his back. “The militia numbers have been updated following the arrival of the refugees.”
+
+He settled back in his chair. “Go on.”
+
+Dorian spoke without consulting any notes. “From the eastern villages, fourteen men have joined the militia ranks. Most were already accustomed to the spear, and a few were skilled with hunting bows.”
+
+He drew a slow breath before continuing. “From the Cragwatch survivors, five additional men have taken the oath.”
+
+“Total strength now stands at seventy-nine.”
+
+The increase was significant, though Lucien knew numbers alone rarely told the whole story. “How are they progressing?” he asked.
+
+Dorian considered the question. “The older men are adjusting well. Most of them already understand how to hold a spear line.” His shoulders squared as he continued. “The younger recruits still have more to learn.”
+
+Lucien expected as much. “How is their discipline? They have not spent as much time under your training.”
+
+“Acceptable,” Dorian replied immediately. His jaw tightened slightly before he added, “...it is better than I had expected.”
+
+He leaned forward, resting his chin against his hand. “...Is it the ranking board again?” A dry note touched his tone.
+
+“The new recruits have taken an interest in it,” Dorian paused, as though weighing whether to continue, before adding, “...The younger men are especially eager to prove themselves.”
+
+Lucien’s brow lifted a fraction at the phrasing. “Why them, specifically?”
+
+Dorian’s expression held, though something flickered at the corner of his mouth before it vanished. “...They think that placing well on the ranking board would earn the approval of…your maid.”
+
+He couldn’t help but stare at the man. “...They seek to win her hand?”
+
+The captain shook his head firmly. “Not to that extent, My Lord. Your sworn guards have made that very clear to them.”
+
+If that was meant to make him feel better, it only made it worse. It must have shown, as Dorian’s posture stiffened further than usual.
+
+He leaned back in his chair, a hand rising to his temple to rub it briefly. “Dorian, Alicia and I are not...involved,” his fingers stilled for a moment before he continued. “Nor is her approval something to be earned through competition.”
+
+Dorian inclined his head, a little too quickly. “Of course, My Lord.”
+
+Lucien exhaled softly through his nose at the perfunctory response. He had come to learn that there was little point in trying to correct such assumptions.
+
+“As long as they are not being forceful in their approach, allow them to do as they please.”
+
+Dorian gave another firm nod. “As you say, My Lord. I will ensure the men know of this,” he replied automatically.
+
+Lucien’s eyes narrowed at him for a brief moment. “...I am sure you will.”
+
+He gestured for Dorian to continue, resting his hands against the arms of the chair.
+
+The captain inclined his head. “There has been a small drop in the training speed of the men.”
+
+“Why is that?”
+
+“Iron, My Lord,” Dorian replied plainly. He gestured faintly toward the direction of the forge beyond the manor grounds. “Joren reclaimed most of the spearheads after the gate repairs and winter tool work began.”
+
+Lucien’s fingers drummed lightly against the arm of the chair. “The spearheads were always meant to last only through the Tithe. They were made quickly, and poorly.”
+
+Dorian straightened, his arms still folded behind his back. “Harlon ensured the hafts made during the Tithe were up to his standards. He also provided temporary hardwood caps to account for the change in weight.” There was a note of approval in his tone.
+
+“As a result, the delay in training was not as much as we had expected. Most of the time was spent reclaiming the spearheads and fitting the caps for the seventy-nine militia."
+
+Lucien gave a slow nod. “We will have to make do until I return from Helvarn.” He leaned forward, steepling his hands. “I assume you have heard about the ridge exploration by now?”
+
+Dorian gave a nod. “Yes, My Lord.” His gaze shifted briefly toward the window, his brow furrowing faintly. “We will have to account for security measures if we are to establish a presence there.”
+
+“How many men would be required?”
+
+The captain considered for a moment. “A small garrison would suffice at first,” he said. “Two guards on duty during the day. Four if they intend to remain overnight.”
+
+His gaze returned to Lucien. “More once the work expands.”
+
+He made a note of that. Ashridge was still small enough that every new project rippled outward through the rest of the settlement.
+
+Dorian remained silent for a moment before speaking again. “There is one other matter concerning the guards.”
+
+Lucien turned his attention to him, his brow lifting slightly as he waited.
+
+The captain paused only for a breath before continuing. “One of the militia has requested reassignment.”
+
+Lucien regarded him with mild curiosity. “Who was it?”
+
+“Tomas.”
+
+He considered the name briefly. “He wishes to join the Ashridge guards?”
+
+Dorian shook his head once. “No, My Lord.” He paused before clarifying, “He requested transfer to House Varentis’s household guard.”
+
+Lucien blinked at the captain’s words. The distinction was not a small one. Household guards did not serve the village. Instead, their loyalty was to the Lord they served.
+
+His finger tapped the table lightly. “Tomas asked for this himself?”
+
+“Yes, My Lord.”
+
+Even now, Lucien found it difficult to adjust to the idea that men would choose to tie their futures to him.
+
+His finger continued its quiet rhythm against the wood.
+
+He knew enough to understand what that meant. Service in a noble household was not simple employment. A man’s fortunes rose and fell with the house he served.
+
+Most would have left when House Varentis fell, yet the man before him had not.
+
+His gaze lingered on the captain. Whatever the reason, the man had remained when leaving would have been the safer choice.
+
+The thought lingered briefly before he set it aside.
+
+He stilled his finger and asked, “What is your assessment of him as a potential household guard?”
+
+Dorian did not answer immediately, his brow tightening a fraction. “Tomas has improved,” he said at last.
+
+“He trains regularly,” he added, choosing his words with care, “and he keeps discipline better than he used to during drills.”
+
+Lucien rested his hand against his chin. “But you do not think it is enough to join your ranks.”
+
+Dorian gave a firm nod. “He is still a farmer learning to be a soldier.”
+
+“If he intends to join as a household guard, he will need more than just discipline.”
+
+Lucien tilted his head. “You do not believe he is ready?”
+
+His answer came without hesitation. “No. He shows promise, but the work of a household guard is different from standing a militia line.”
+
+Militia fought in formation, while household guards fought close to their lord, often alone.
+
+Lucien remained silent for a moment before speaking. “Let him transfer.”
+
+Dorian’s expression did not change, but his gaze remained fixed.
+
+“To the Ashridge guards,” Lucien finished. “For one year.”
+
+The captain nodded once. “A trial, then.”
+
+Lucien returned the gesture and rested one hand lightly against the edge of the desk. “Yes. If he still wishes to bind himself to House Varentis after that time, we will reconsider the request.”
+
+A year among the village guards would teach Tomas more of a soldier’s life than any training field, and give him time to determine whether the young man possessed the temperament required for closer service.
+
+Dorian inclined his head. “That is a sensible arrangement.”
+
+“Inform Tomas of the decision.”
+
+“I will.” His jaw tightened before he continued, “There is another matter we should discuss.”
+
+Lucien’s gaze sharpened slightly. “What is it?”
+
+Dorian’s gaze shifted toward the study window where the rooftops of Ashridge lay beneath the pale winter sky.
+
+“The village is growing quickly.”
+
+He followed the direction of his gaze. “Yes. Faster than we anticipated.”
+
+Dorian’s eyes moved from the window back to him. “And with that growth comes other problems.”
+
+Lucien drew his gaze back from the window. “Crime follows.”
+
+The captain inclined his head in response. “It starts with simple arguments. Drunken fights that grow more frequent. A knife drawn where once it would have been fists.”
+
+Outside the study, smoke drifted above the rooftops in thin gray lines, while the distant sound of work carried faintly through the cold air.
+
+Ashridge did not yet look like a place where crime could take root, but he knew appearances rarely held for long.
+
+Dorian continued, his tone even. “Most settlements see it once they begin to grow. More people means more disagreements. And once trade begins to move through the roads, there are always a few who decide to take instead of earn.”
+
+The captain’s posture tightened. “When bellies are full, men start finding trouble.”
+
+Lucien leaned forward, hands steepled as he studied the man before him. “You’ve seen this before.”
+
+“A few times.”
+
+Dorian’s expression remained restrained, though a faint heaviness touched his words. “In the heartlands, towns grow past a certain point and things begin to change. More people. More friction. It never stays as simple as it starts.”
+
+Lucien folded his hands lightly upon the desk. “No. They reach a point where people stop holding themselves to the same standards.”
+
+Dorian’s gaze drifted toward the window again. “And sometimes it stops being petty.”
+
+The words settled between them, a shared recognition of what would follow if Ashridge continued to grow at the current pace.
+
+He looked back to Lucien. “The men will hold while they’re in formation, but outside of it is another matter.”
+
+“If something serious happens,” he said, “the village will look to you for judgment.”
+
+Lucien understood what the man was really asking. He did not answer immediately and the silence between them deepened.
+
+Dorian watched him for a breath before continuing. “The last time it happened,” the captain said, his voice low, “you chose mercy.”
+
+Lucien drew a slow breath before speaking. “Do you still believe that was a mistake?”
+
+“No.”
+
+The response came quickly, but Dorian did not look entirely satisfied. He weighed his next words before continuing. “My concern is not that decision,” he said. “But the next one.”
+
+Lucien regarded him, keeping his expression carefully neutral. “What about it?”
+
+Dorian held his gaze. “If it happens again...will you show mercy?”

@@ -1,0 +1,339 @@
+---
+id: d9d3907b-1d39-5f1f-84b6-33c33d70c046
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103 - In All Honesty"
+slug: 0087-chapter-103-in-all-honesty
+partOf: mythrans-master-of-all-continued-completed
+position: 87
+ownLength: 3437
+unit: words
+publishedAt: 2016-12-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105831/chapter-103-in-all-honesty"
+royalRoadId: "105831"
+---
+
+The caravan moved through the countryside for an hour, and the Sending Stone that Ren had secured to Princess' saddle glowed blue.
+
+“How's everything going?” Narhilda asked. “I hope they haven't tackled you and tied you up in one of the carts.” She said and laughed. “You're quite the prize, you know.” The stone stopped glowing and Ren looked at it.
+
+What am I going to say to that? Ren thought.
+
+Teepo chittered in delight. “Tease her back, of course.”
+
+Ren grinned and touched the stone. It glowed and he spoke. “They wouldn't do that, My Lady. I already told them that if anyone was going to tie me up and keep me, it would be you.” Ren took his hand off the stone and it stopped glowing.
+
+“I can't wait for her response!” Teepo said.
+
+Ren chuckled. Me, either. He thought, then glanced at the cart he was walking beside. Everyone was staring at him; even Nathalia, and Ren nodded to them. They all gasped and turned away, slightly scandalized over an unknown man giving them Honor, and Nathalia smiled. Ren smiled back and bowed to her, and she turned away to hide her face as it flushed a little red. The caravan went along for a while, and Ren found that even the country roads were well maintained and in good condition. They were also wide enough for 2 carts to pass side-by-side easily.
+
+“We're at the hour limit.” Teepo said.
+
+How can you tell?
+
+“I counted.”
+
+Oh. Well, good work. Keep going. Ren thought, and a few minutes later the Sending Stone glowed blue again.
+
+“Um... I'm just checking in to see if this works...” Narhilda said, then continued in a soft whisper that only Ren could hear. “...and if I thought I could get away with it, I would.”
+
+Ren's eyes widened for a moment, and then he smiled. Well, damn. I expected her to tease me again, not tell me she really wants to keep me.
+
+“What are you going to say?” Teepo asked.
+
+Ren thought about it for a minute, as he slowed his pace down a little, to get between the carts. I'm going to be honest, actually. Ren thought and reached out to touch the stone. It glowed blue and Ren spoke.
+
+“My Lady...” Ren said, sincerely. “...you don't know how tempted I am right now.” He said. “After breaking up with my girlfriend, I'm... well, I'm devastated.” Ren sighed. “Comfort from a good woman would be more welcome than I believe I deserve.”
+
+The stone's glow faded and Ren looked around to make sure no one had heard him. He kept the same pace to stay between the carts and continued walking.
+
+“We're coming up on the hour.” Teepo said again. Ren looked at the stone and it glowed blue.
+
+“What about my daughter?” Narhilda asked. “If... if you... it should be from her.” She said. “She has strong feelings for you. She's young... and almost ready for a man.”
+
+The stone's glow faded, and Ren reached out to touch the stone.
+
+“My Lady... I care about your daughter a lot; but, getting married isn't something that I want right now... and it's something that every dwarf woman near my age, not only wants, but needs.” Ren said. “I... I can't be that man for her.”
+
+The stone's glow faded and Ren walked on.
+
+“Is that how you really feel?” Teepo asked.
+
+Ren sighed. Yes. Marriage isn't something I've even considered. I only just got a girlfriend... well, had a girlfriend... recently. Marriage is way too big a step for me.
+
+“So, does that mean you'd want to be with Nathalia if marriage wasn't involved?” Teepo asked.
+
+Ren was silent for a minute. Actually, if I'm being completely honest with myself, and if Lucy wasn't in the picture... then yes. I'd see her as a good match, actually.
+
+“Then tell her to give this convent thing up and go home.”
+
+W-what? Ren thought, surprised.
+
+“Tell her how you feel. What's the worst that could happen?” Teepo said. “She'd say no, right?”
+
+Ren didn't respond for a few minutes. I don't have any right to tell her how to live her life... Ren thought. ...and I want to get back with Lucy.
+
+“Why?”
+
+Why what?
+
+“Why do you want to get back with her?” Teepo asked. “She broke up with you, didn't she?”
+
+Yes.
+
+“I'm not going to ask why, because that doesn't matter. Not really. She did it, and it broke your heart.”
+
+Ren let a few tears come to his eyes. Yes.
+
+“Then tell Nathalia, who cares a lot about you by the way, how you feel. How you really feel.”
+
+I... I can't. Ren thought. The last time I did that... it was great, and I thought everything was going so well... and then...
+
+“Nathalia's not Lucy, Ren.”
+
+I know. Ren sighed. They are almost complete physical opposites, actually. Ren thought. Lucy is over a foot taller than me, has shoulder length blonde hair, and blue eyes. Nathalia is 7 inches shorter than me, her braid goes down to her ankles, and she has hazel eyes.
+
+“Yeah, they are opposites, aren't they?” Teepo said.
+
+Ren nodded. I love Lucy, though.
+
+“Then ignore everything I just said.”
+
+W-w-what? Ren thought in surprise.
+
+“Nothing I can say will convince you to move on.” Teepo said. “You're going to have to make that decision for yourself.”
+
+Ren sighed and kept walking. Teepo didn't say anything else until the hour was up, and let Ren know. The stone glowed and Ren listened.
+
+“Marriage isn't so bad, Ren.” Narhilda said. “You'd have 2 years, after this one, before you'd have to go through with it.” She said. “And what grown adults do with each other until then...”
+
+The stone's glow faded and Ren touched it to make it glow again.
+
+“I never asked what you actually learn at the convent. Why does it take a year? Why not 6 months, or 10 days? What do you do there that takes that long for a woman to be ready for a man?”
+
+Another hour passed and the stone glowed again.
+
+“We aren't allowed to say.” Narhilda said. “What I can tell you, is that what is learned there, will benefit a woman for the rest of her life.” She sighed. “I'm not convincing you, am I?”
+
+The glow faded and Ren touched it.
+
+“No, My Lady. I just don't understand your culture. I know all about it, but I can't reason with it, if that makes any sense.” Ren sighed. “I don't want to mess up her life again, by interfering with what she has to do.”
+
+The stone's glow faded and the caravan continued for another hour. They came to a stop and formed a protective circle in a rest area on the side of the road.
+
+The stone glowed again and Ren waited to hear what Narhilda would say.
+
+“Ren... I... I'm sorry.” She said. “It's our way.” The stone's glow faded.
+
+Ren touched it. “I know, My Lady.” Ren sighed. “I know.” The glow faded again as Ren watched all the women climbed down from the carts and stretch. Some went for a walk, and some started prepping several cooking fires. Ren kept off to the side, well away from the circled carts. He didn't want to disturb the women protecting it, but then he saw that the ones delegated to cook were trying to use damp wood to start the fires. Ren sighed and led Princess over to the circled carts, and the well-armed women stared at him. Ren tied Princess to the closest cart, and approached a woman who was trying her best to light a fire.
+
+“Ma'am?” Ren said in as soft a voice as he could, so he wouldn't startle her. It didn't work, though.
+
+“Gah!” She exclaimed, and dropped the stone and flint she was using, right into the poorly stacked wood.
+
+She stepped away from him and Ren sighed. He bent down and pulled the wood apart, picked up the stone and flint, and put them well away from where he was. Ren went back to the spot they picked for a fire, and took out one of the stone bricks he'd used in the stove on the ship. He nestled it underneath the pile, fixed it so the heat would keep the wood burning for a lot longer, and activated the enchantment.
+
+The fire lit immediately and a billow of white smoke puffed out. The wood dried not long after that and Ren stepped away from the fire, without saying a word. Some of the women gathered around the fire and watched as he did the same thing for the other 5 fires they had set up. He'd had to enchant 3 more stone bricks, but he still had plenty of them left to make a forge. If he need more, he knew just the place to get them, anyways. Ren walked back to where he tied Princess, and Nathalia was standing there.
+
+“That was really nice of you.” She said.
+
+Ren smiled. “I saw how they were struggling with trying to light damp wood.” He said and shook his head. “I hope one of the things they teach is how to set a cooking fire properly.”
+
+“Probably, but if they had those neat fire bricks, they wouldn't need to set a fire at all, would they?”
+
+Ren smiled. “Or someone like you that can operate them all.”
+
+Nathalia widened her eyes. “You didn't.”
+
+Ren nodded slightly. “I can't be around all the time. They'll need someone to help them put out the fires when they're done.”
+
+“Ren...” Nathalia sighed.
+
+“Don't worry, I made it look like I lit them normally.” Ren said and grinned. “I had a hard enough time being engaged to one pretty woman, what in the world would I do with over a hundred of them?”
+
+Nathalia opened her mouth, then shook her head and closed it. She reached a hand out to put on his arm, but a well-armed female dwarf coughed nearby, and she dropped it.
+
+“You have to watch what you say, remember? Calling me pretty is not a good thing to say here.”
+
+“Why?” Ren asked. “You are pretty. It's not like I'm exaggerating or anything... or worse, lying.” Ren said. “Now, if I'd said you looked manly...”
+
+Nathalia winced slightly.
+
+“See? You knew I was lying.” Ren said and smiled. “I can go through a whole list of things I like about you, if you want.”
+
+“You really could, couldn't you?” She asked.
+
+Ren nodded slightly. “The best part is your eyes.”
+
+Nathalia didn't wince at all, and then she smiled. My eyes? He likes my eyes the best!
+
+“The little gold specks really attract the eye.” Ren said. “Next is your hair.”
+
+“My hair?” Nathalia asked, surprised. Not my chest?
+
+“I've never seen hair as long as yours.”
+
+“What... what's next on your list?” She asked, knowing it had to be her chest. What else is there?
+
+“That's a difficult one.” Ren said and thought about it. “I think it's a tie between two things.”
+
+Aha! Here it comes...
+
+“Your smile and your hugs.”
+
+Nathalia was shocked that she didn't detect a lie at all.
+
+“But...” She leaned in close to whisper. “What about my chest?” She said and blushed really hard. Why am I saying such things to him? She thought, then continued. “Don't... don't you like it?”
+
+Ren glanced down at it, then back at her face. “Nathalia...” He whispered. “You know they're amazing.” Ren smiled. “They aren't what I see when I look at you, though.”
+
+Nathalia's mouth fell open in surprise.
+
+“I love Lucy... and I don't think that will change. She's my first love... and she'll always be special to me...” Ren said. “...but... a friend made me admit to myself that if you weren't locked into your culture's ways, with courtship and marriage and everything else...” Ren stepped close to her. Despite a very loud cough from the well-armed female dwarf standing nearby, Ren whispered in her ear. “I'd be all over you, like melted butter on mashed potatoes.”
+
+Nathalia caught her breath and shivered, as Ren had told her the absolute truth.
+
+Oh... oh my... Nathalia thought a moment later. She reached up and put a hand on the side of his face.
+
+“AHEM!” The female dwarf said loudly, but Nathalia ignored her.
+
+“Ren... I... you don't know how much I... I wish...” She sighed. “...I wish I could...”
+
+“Like I told your mother...” Ren said and took her hand from his face. “...I can't be the man that you need, Nathalia. I can't mess up your life by getting trapped into marriage again.”
+
+“You talked to my mother about it?” Nathalia asked, surprised.
+
+Ren nodded slightly. “On the way here, actually.”
+
+“What did she say?”
+
+“She tried to convince me to marry you, when I told her how much Lucy hurt me.”
+
+“It didn't work.” Nathalia said.
+
+Ren shook his head. “I told her that I knew all about your culture and social background, but that I didn't understand it.” Ren smiled. “Where I come from, just giving someone a gift isn't reason enough to get engaged.”
+
+“It's our way.” Nathalia said.
+
+“That's what your mother said.” Ren smiled. “And she told me what you learn at the convent will benefit you for the rest of your life.”
+
+“Ren... I...” Nathalia tried to say. “If we were engaged, we could...”
+
+“It's okay.” Ren said. “My friend convinced me that I should tell you how I felt about you. He said that the worst thing that could happen if I asked you to give up the convent thing and go back home, was that you'd say no.” Ren smiled. “But... I think the worst thing that could happen, would be if you said yes.”
+
+Nathalia looked at him with wide eyes as Ren bent over her hand and kissed it lightly. Several gasps were heard as Ren did the 'interested, but knows his place' gesture. Ren let her hand go and stood up straight.
+
+“I hope you can find a man that's worthy of being by your side.” Ren said.
+
+Nathalia stepped in close, reached up around Ren's neck, and pulled him down into a kiss.
+
+********
+
+“Oh, no.” Denise said. She took out her cell phone and dialed Lucy. She knew the number because she'd had to ask a lot of questions about doing Lucy's old job.
+
+“Come on, Lucy. Pick up!”
+
+*
+
+Lucy looked at her phone and saw that it was Denise. She sighed and answered.
+
+“Hello.”
+
+“Lucy! You aren't going to believe this...” Denise said, and explained what was happening with Ren. The tears started again, and Lucy wiped them away.
+
+“He's better off having a relationship in the game.” Lucy said.
+
+“Are you crazy?” Denise asked. “She's not even real!”
+
+“It's real to him.”
+
+“Lucy... if you think it's better for him to have a relationship with someone in the game, just because he can be hurt so easily in real life... then why aren't you trying to be that woman for him?”
+
+Lucy sighed. “I hurt him, Denise. I hurt him so easily, and were were just...” She said and put a hand on her forehead. “...when we do other things, what if I... if I...”
+
+“So what?” Denise said. “You love him, don't you?”
+
+Lucy nodded and then realized Denise couldn't see her. “Yes, I do... but... I can't even look at him now, without remembering the sight of his arm nearly hanging off.” Lucy shuttered. “I'm a nurse, and I've seen similar things before; but, seeing someone you love like that... and knowing you did it...”
+
+“He told you it was okay, right?”
+
+“It's not okay!” Lucy exclaimed. “Just a little bit more pressure, he could have lost the arm, Denise! You know that.”
+
+“Yeah, I know.” Denise sighed. “But he's devastated. He even asked me to leave him alone... and he never does that. He always spends time with us.” Denise said. “He's going to jump on the first stable relationship he can get his hands on if you don't stop him... or even give him hope that you might get back together.”
+
+Lucy shook her head, forgetting that Denise still couldn't see her. “It's better if he does find someone else. I can't... I can't even look at him after what I did, let alone think about being his girlfriend again.”
+
+“I'm really sorry you feel that way, Lucy.” Denise sighed again. “I won't bother you about this again.”
+
+“Bye, Denise.”
+
+“Bye, Lucy.”
+
+*
+
+Denise hung up her cell phone and put it away. “Well, you're on your own now, Ren.” She said. “Good luck.”
+
+********
+
+Ren reacted instinctively and hugged her, then her quick kiss turned into a full blown passionate one, and both of their bodies reacted accordingly. Nathalia felt Ren's bulge growing on her lower belly and Ren felt the tips of her breasts poke him in the chest. They stayed like that for a minute or two, making out, until Nathalia let her arms slide away from his neck and down his chest. Ren stopped kissing her and stood up straight.
+
+“I've found a worthy man...” Nathalia said. “...he just doesn't realize it, yet.”
+
+Ren started to speak and she put a finger to his lips.
+
+“I know you don't really want to get married, and I know you're not going to wait a year for me, either.” Nathalia said. “On the other hand, we both know that this could be the best thing that either of us has ever had, marriage or no marriage.” She looked at Ren in the eyes and took her finger away from his mouth. “Tell me that isn't true.”
+
+Ren opened his mouth; but didn't say anything, because she would know it if he lied. He closed his mouth and Nathalia smiled at his reaction.
+
+“Do you remember what I told you before?” She asked. “About you being able to do anything you wanted until the marriage ceremony?”
+
+Ren nodded, not doing it slightly like he was supposed to.
+
+“I didn't just mean with other women, you know.”
+
+Ren looked at her with surprise on his face. “What... what are you saying?”
+
+“I'm going to do something that no dwarf woman has ever done before.” Nathalia said, and took Ren's hand. She knelt on one knee and looked up to Ren's startled face.
+
+“Will you marry me, Ren?”
+
+Several women gasped, one nearly screamed, and then it was quiet again.
+
+“But... but... what about the convent? Your training? Finding other suitors?”
+
+“Who else is going to measure up to you?” Nathalia asked. “Where in the world am I going to find another Ren?”
+
+Ren didn't know how to answer that, and then he got a message notice. He opened it, and read it. It was Lucy's response. As he read it to the end a second time, several tears tried to escape; but Ren shut his eyes and stopped them, then closed the message and looked at Nathalia.
+
+“Yes, Nathalia. I will marry you.”
+
+Notice!
+
+You have willingly entered a binding legal contract of marriage with Nathalia Neram. You have 1 year to provide her with a suitable living space, and all amenities required to fulfill her duties as your wife.
+
+Rewards: Nathalia Neram (Wife)
+
+Nathalia Neram has been granted: Aura (Personal)
+
+Inheritance: House Neram (+Treasures), House Neram Keep
+
+Notice!
+
+Retainer contract with House Neram has been nullified.
+
+Notice!
+
+Your acceptance of Nathalia Neram's proposal has granted her the title: Nathalia, The First. She now has both Command and Camaraderie Auras, similar to yours. While together, your Aura abilities will combine and increase both in distance and in level.
+
+“Oh... wow.” Ren said and helped Nathalia stand. His Aura went out to 30 feet now, and he could almost feel the people in it.
+
+“Ren, what just happened? I've got a title now? Nathalia, The First?”
+
+“You were right.” Ren said. “Your proposal was the first one, ever.”
+
+“I thought... I mean I never heard of another woman proposing; but, I really was the first one ever?” Nathalia asked. “I've also got Aura, Command, and Camaraderie.” She said, surprised. “This is so weird.”
+
+Ren looked at her and smiled. “You said this could be the best thing to happen for the both of us.” Ren pulled her close. “Guess what?”
+
+She looked at him in the eyes and smiled back. “What?”
+
+“It is.” Ren said and kissed her, to the sound of several more gasps.

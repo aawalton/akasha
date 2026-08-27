@@ -1,0 +1,277 @@
+---
+id: 5b7070c5-100d-5824-a326-ef34cccb1678
+page-type-slug: story-chapter-royal-road
+title: "Chapter 502 - Clean Up This Mess"
+slug: 0502-chapter-502-clean-up-this-mess
+partOf: mythrans-master-of-all-continued-completed
+position: 502
+ownLength: 3290
+unit: words
+publishedAt: 2018-02-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192285/chapter-502-clean-up-this-mess"
+royalRoadId: "192285"
+---
+
+“Geezus! Did you see that?” The night programmer at Sid Tec said to Max, after watching Ren's antics. Max, the head programmer at Sid Tec had tapped into the CEO's personal stream to do it. When Max had arrived at work and started to investigate what had been going on, he discovered what Ren had accomplished in such a short time and needed to know what he was doing right then with the new starter cities.
+
+“I saw.” Max said and held in his sigh. “He stopped the game environment from being corrupted by an unscheduled elemental transfer.”
+
+“It killed him, too!” The night programmer said. “I've never seen anything like that!”
+
+“No one has.” Max said.
+
+“Imagine if he hadn't gotten so far away from the city and all those elves.”
+
+“I don't have to imagine it.” Max said and brought up the spot where the explosion happened. “Look at the size of that crater.” He said. “There wouldn't have been much left of either the city or the elves.”
+
+The night programmer sat back in his chair and didn't bother trying to hide his sigh. “Are we leaving the cities as they are?”
+
+“We don't have much choice.” Max said. “We would have to shut the game down and somehow dig out the code for them, before any players took the options these new cities will provide.” He said, and saw a popup on the terminal. “Like so.”
+
+Administration Notice:
+
+14 complaints of environment entrapment have been reported.
+
+“What in the world?” The night programmer said. “That can't be right.” He said and started typing on the terminal. “We have specific code in place to stop this from happening.”
+
+“Bring up the complaints.” Max said, and they started to read the messages from players that had taken the Giant option, and were now trapped inside buildings. One was particularly funny because they had chosen the High Elf option and were stuck inside their camping tent. They complained that they couldn't store the tent because they were inside of it, and didn't want to keep wearing it because it looked ridiculous.
+
+“That's pretty stupid.” Max said, but he had a smile on his face. “Contact the player-based system admins that are available, and hand the complaints over to them.” He said. “Grant them the Phantom Movement ability, and get the complaining players to log out when they arrive.”
+
+“Want me to set up the portals first?”
+
+“No, wait until they are in position.” Max said. “Once they are, port them to the right spots and let them shunt the players out of their predicaments.” He shook his head. “Why would they choose the giant option and not respawn in the starter city?”
+
+“Because it would be fun to walk around normal-sized buildings when you're 25 feet tall.” The night programmer said right away, and Max looked at him with raised eyebrows.
+
+“Oh, come on! You haven't had the Godzilla or King Kong fantasy?”
+
+“What?”
+
+“You know... stomping around and smashing buildings with your fists. Causing havoc just because you're so big...”
+
+Max shook his head.
+
+“Is it wrong to say you've led a sheltered life, boss?” The night programmer said and smiled.
+
+Max chuckled. “I'll let it go this time.” He said. “I've got to add in a System Warning about the possibility for players getting stuck if they don't move outside of a building before choosing a new race.”
+
+“That's a great idea.” The night programmer said and saw another popup. “Hey, 2 more complaints just came in.”
+
+“Dammit!” Max said and ran over to his desk.
+
+********
+
+“Hank, ahm not lettin' ya wreck mah house!” Clint said.
+
+“I'll pay to repair it.” Hank said.
+
+“Tha' ain' tha poin'!” Clint said. “Ya sen' in tha complain', and yer gonna wait fer 'em ta git here before ya move!”
+
+“Just waiting around sucks.” Hank said.
+
+“I'd tell you to go to sleep, but I'm pretty sure you won't fit in the spare bedroom.” Billy said.
+
+“Nobody is movin' nowhere!” Clint nearly yelled, and then there was a knock on the door. He ran over to it and opened it without even checking to see who it was. “Wha' do ya wan'?”
+
+“System Administration.” The woman said. “You have a stuck giant?”
+
+“Oh, thank god!” Clint said and hugged her. “Git the big lout outta mah home before he wrecks it completely!”
+
+“It's just a table, 2 chairs, a couch, a broken window, and dents in the walls, floor and ceiling.” Billy said and tried not to laugh. “It's no biggie. Hank said he'd buy replacements.”
+
+“No biggie?!?” Clint said and let the woman go to turn and face Billy, and he didn't see the woman's red face. “It's not the cost! It's the time it's gonna take to fix the damage!”
+
+Boy, he's really mad if his accent is gone. Hank thought. “I'm really sorry, Clint.”
+
+Clint closed his mouth to stop himself from ranting further, then sighed. “Me, too.” He said and looked at his friend. “It's jus' stuff.”
+
+“If I may?” The woman said from behind Clint, and he turned back around.
+
+“Ah'm sorry fer blockin' yer way, ma'am.” Clint said and stepped out of her way. “Please, come righ' in.” He motioned for her to enter.
+
+“Thank you.” She said and walked over to Hank. “If you would log out for a minute, I'll move you outside.”
+
+“You can do that?” Hank asked.
+
+“It's the only way, unless you want to break out through the wall.” She said.
+
+“I wanted to do that, but I'm not allowed.” Hank said, and she heard the sadness in his voice.
+
+She smiled and pat his giant arm. “I'm sure you'll find something to smash and break apart for fun soon.”
+
+Hank smiled back and nodded. “Logout.”
+
+The woman waited for a moment after Hank became a phantom form, and she reached out and touched him. Clint and Billy were surprised by this, and then Hank was covered in a slight glow. She picked him up and walked out through the front door, and Hank's phantom form went right through the wall without so much as a creak in the boards.
+
+Clint and Billy followed her outside, and she put Hank down about 20 feet away from the house.
+
+“That was amazing.” Billy said. He had to almost bend in half to get out of the house, and the woman looked at him and grinned. “The last High Elf I met was wearing his camping tent.”
+
+“Ha!” Clint barked a laugh. “Ah was jus' saying people can' jus' choose stuff like tha' and not think of tha consequences.”
+
+The woman nodded and she looked at something in front of her. “Great. I've got another giant caught inside the Library.” She shook her head. “Who sleeps in a library?”
+
+Clint laughed, and then Hank's phantom form became solid.
+
+“Hey! I'm outside!” Hank said and stood up. “Oh, my back!” He said and stretched, then looked at the woman. “Hey, thanks a lot!”
+
+“You're welcome.” She said, and her face was a little red. Hank was the first person to thank her.
+
+“Ma'am?” Clint said, and she turned to look at him. “Ah'd like ta thank ya too.” He said. “We we're plannin' on relaxin' by tha pool, and yer welcome ta join us.”
+
+“I doubt I live anywhere near you.” She said. “Not that I'd ever come to your house in real life anyways.”
+
+Clint laughed. “I ain' got a pool in real life.” He said and pointed to the high mound of grass in the field at the end of his driveway. “Tha pool's righ' over tha' mound.”
+
+“Wait a second.” The woman said. “You have a pool? An actual pool?”
+
+“Ah shore do.” Clint said. “Ah friend of mine made it.”
+
+“This I have to see.” The woman said and dismissed the popup rather than accept it.
+
+“Righ' this way.” Clint said and the 4 of them walked over to the mound.
+
+“It's true!” The woman said when she saw the Olympic-sized pool in the growing darkness as night started to fall. “You have a pool!”
+
+“Ah assume ya got work ta do, bu' ya can come back here afterwards and have fun if'n ya wan' ta.”
+
+“Oh, I will.” The woman said and let a huge smile spread across her face. “Do you mind if I invite a few friends over, too?”
+
+“Ah'm havin' some friends over mahself tomorrow, so as long as ya don' go invitin' half tha county...”
+
+The woman laughed. “I'll see you first thing in the morning.”
+
+“Ah'm lookin' forward to it.” Clint said. “Thank ya kindly fer comin' so quickly ta help mah friend.”
+
+“You're welcome.” She said as she opened the last popup she had received and clicked accept. A portal opened beside her, and she stepped through it.
+
+*
+
+“I can't believe Ren did that.” Officer Holly said after uncovering her eyes from the bright flash of light. She had only a brief moment to sense Xuunah's reaction to Ren's death before Xuunah's Reassurance Aura disappeared and she dropped out of the shared Aura.
+
+“He wasn't supposed to.” Symmetra said and walked over to where Lord Tathalyn's body was and picked up the plans he had dropped and stored them, then picked up the body. “You heard what Ren said about miscalculating.”
+
+“Princess! We're leaving!” Artemis said as she let Xuunah's arm go, because there was no point in keeping her restrained now. Xuunah took several deep breaths as Princess ran back inside the chamber. It was a tight fit because the wall she had broken through was starting to reform and fill in the hole.
+
+“My Lord had the carriage on him.” Princess said. “The covered cart is in my saddle bag.”
+
+“At least it has seats.” Artemis said. “Let's go home.”
+
+“Wait, why aren't you in pain?” Officer Holly asked.
+
+“That only happens if Ren is in the game and enters a pocket realm and leaves me behind.” Artemis said. “When he leaves this world by other means, apparently I'm fine.”
+
+“You didn't know and you let him go like that?”
+
+“I had no right to interfere, and he knew I wouldn't be hurt.” Artemis said. “He might have taken me along otherwise.”
+
+“He didn't take you along because you would have died.” Xuunah said, and the other three women looked at her. “Ren was...” She shook her head. “If he couldn't survive what happened with that armor of his, neither would you... or any of us.” She admitted. “He sacrificed himself so that no one else would be hurt.”
+
+No one said anything for a few moments while they thought about that.
+
+“Would he leave loot if his body was vaporized?” Officer Holly asked, and the women shifted their gazes to her. “If he did, we should probably go out there and find it before someone else does.”
+
+“Teepo says he and I will find it and will meet you at the bottom of the tower.” Princess said as she turned around and broke out through the closing hole in the wall.
+
+“Take us...” Officer Holly started to say as Princess disappeared. “Dammit.”
+
+“Symmetra? Can you bundle the body into the robes or something?” Artemis said. “I don't think we should be seen walking out of here with it.”
+
+“Good idea.” Symmetra said and put Lord Tathalyn's remains on the floor, slid off his long robes, then balled the body up in them and made it look like a large sack.
+
+“How the hell did you do that?” Officer Holly asked. If she hadn't seen it for herself, she would swear it really was just a large sack, and not a body wrapped in it's own clothing.
+
+“Master Tailor skill.” Symmetra said and hefted the bundle over her shoulder. “We should go.”
+
+The 4 women went to the lift and the doors opened, they stepped onto it, and were down at the bottom a few moments later. They stepped out and walked the quarter mile to the lobby and the front door to outside, and Princess was there waiting for them.
+
+“Was something left behind?” Xuunah asked.
+
+“A large pile of platinum coins, a wand with the Energize spell in it, and an Instant Tower cube.” Princess said.
+
+“He dropped one of the instant towers.” Symmetra said. “I wonder which one it was?”
+
+“We can ask him when he comes back.” Artemis said and took out the covered cart from Princess' saddle bag and attached it to her, then opened the top. Symmetra tossed the sack into the cart and it made a thump sound, and Officer Holly winced.
+
+Symmetra saw her reaction and laughed. “It's not like he can feel it anymore.”
+
+“Don't you have any respect for the dead?” Officer Holly asked.
+
+“His actions killed the man who created me.” Symmetra said and climbed into the cart. “I would stomp the remains into paste if I didn't think Ren would get angry about it.” She sat down beside the sack and pulled her knees up to her chest and hugged her legs with all 6 arms. “I still might do it and say it was an accident.”
+
+Artemis laughed and offered to help Xuunah and Officer Holly into the cart.
+
+“If it's not Ren doing it, then there's no point.” Xuunah said and climbed into the cart quickly. Officer Holly didn't say anything and climbed in, too.
+
+“Princess, please take us to the Main House in the county.” Artemis said and climbed in herself, and closed the top. Princess trotted up into the air and slowly poured on the speed. They made it back to the county several minutes later, and when they landed outside the Main House, the 4 women climbed out of the cart. It seemed weird and a little awkward that Ren wasn't there to help them, but they managed to get out and Artemis put the cart back into Princess' saddle bag.
+
+“Well, I guess...” Officer Holly started to say, and then Xuunah's Reassurance Aura popped back into place. Officer Holly gasped at her emotions, and Xuunah took her hand.
+
+“I think there's a few maids upstairs that need our help.” Xuunah said, and Officer Holly nodded.
+
+“We're coming, too.” Artemis, Symmetra and Princess said at the same time, and they all went into the Main House and up the stairs. Xuunah knocked on the apartment door, and Frikara opened it.
+
+“Please, come in.” Frikara said and stepped aside, and Xuunah, Officer Holly, Artemis, Symmetra, and Princess went in. Symmetra dropped the sack just inside the apartment door, and closed it behind them.
+
+*
+
+The player-based system administrators worked for several in-game hours during the game night to right the wrongs that other players had committed by accepting the race change. Some of them had ignored or not read the new System Warning about it, mainly because they thought they would just bust their way out of things, so it took a lot longer to sort everything out. They managed to do this and the game settled down into it's normal routine.
+
+********
+
+After getting the game sorted out, Max was happy enough with the outcome that he drove home instead of staying at work. He knew that with Ren out of the game until about noon that day, there shouldn't be any more local or game-wide disturbances. He also knew that was a bit of a generalization on his part and involved quite a lot of assumptions; but, in his head he knew the rest of the night was going to pass uneventfully just because Ren wasn't around to cause trouble.
+
+*
+
+Ren only got to sleep for a couple of hours before he had to get up for breakfast and therapy. “Ugh.” He grunted as Elise tried to shake him awake. “Need sleep.” He said and buried his face in her chest and tried to hold on.
+
+“Ren, I know you've only been asleep for...”
+
+“I need more than a couple hours of sleep.” Ren said and looked at her face. “So, I'm issuing my very first executive order.”
+
+Elise chuckled. “Your what?”
+
+“I am ordering that my day isn't going to officially start for 3 more hours.” Ren said and buried his face in her cleavage again. “I am going to wallow in this warm and pillow-like softness to get some much needed rest, and the entire world is going to have to wait until I'm done.”
+
+“Oh, Ren.” Elise laughed and jiggled her chest as she put her arms back around him to hold him gently.
+
+“It's a good thing breakfast is only cereal today.” Stella said, and Ren lifted his head to look at her. “I'd say good morning, but apparently that hasn't happened yet.”
+
+“Thanks, Stella!” Ren said and put his head back down on Elise. “Let Donald know, will you?”
+
+“I'll even use the same words, if that makes you feel any better about blowing off his first lesson.” Stella said.
+
+“I'm not skipping it.” Ren said and yawned loudly and closed his eyes. “Only... only delaying.”
+
+Stella and Elise watched as Ren went to sleep almost immediately, and exchanged glances.
+
+Elise shrugged slightly. “He really didn't get much sleep.” She whispered, and Stella nodded.
+
+They waved at each other, then Stella left the room with the food tray and went back downstairs. She met Donald in the kitchen and told him what Ren had said. Donald completely understood Ren's reasoning, and didn't even complain about the executive order thing.
+
+“You're taking this delay a lot better than I thought you would.” Stella said, and Donald laughed.
+
+“He's taking command of his life, and that's a good thing.” Donald said and took a drink of his coffee. “He has his priorities straight, since I know trying to do a good workout without enough sleep makes you both sloppy and careless.”
+
+“I agree.” Barbara said and kissed her husband. “I guess that means we have 3 more hours of personal time.”
+
+“You should be getting to bed, too.” Donald said and started to smile. “Staying up all night and watching television must have been hard on you.”
+
+Barbara smacked his shoulder playfully. “I am not that...” She stopped talking to yawn almost as loudly as Ren had. Stella and Donald chuckled at the sight, and Barbara shook her head.
+
+“All right, fine.” Barbara said and kissed her husband again. “See you this afternoon.”
+
+“Not if I see you first.” Donald said and tried to grab her butt as she walked away. Barbara deftly avoided getting groped and waved to Stella before she left through the kitchen door to go to the guest house.
+
+“Having you both so close has been great.” Stella said. “I don't think I've ever seen Barbara this relaxed.”
+
+“You mean playful.” Donald said and took another drink of his coffee.
+
+“I think her whole demeanor has changed the last little while.” Stella said and poured her own coffee. “She's... well, to put a simple term to it... she's happy.”
+
+Donald chuckled. “Yes, even I have to admit that.” He said and took another drink of coffee. “It's all thanks to our little benefactor.”
+
+Stella nodded. “All of our lives have changed to fit into his life.” She said and took a sip of coffee. “All for the better, too.”
+
+Donald nodded and glanced at the clock. “It looks like I have enough time to get my workout in before he gets up.” He said and stood up, walked over to the sink and rinsed out the mug he had used, and put it in the dishwasher. He left the kitchen without another word and went to the exercise room to work out.

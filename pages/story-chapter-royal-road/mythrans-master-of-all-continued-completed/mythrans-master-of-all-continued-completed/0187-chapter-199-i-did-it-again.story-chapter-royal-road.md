@@ -1,0 +1,455 @@
+---
+id: 44625381-39c2-56a8-8721-48d3f8201b4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 199 - I Did It Again"
+slug: 0187-chapter-199-i-did-it-again
+partOf: mythrans-master-of-all-continued-completed
+position: 187
+ownLength: 5600
+unit: words
+publishedAt: 2017-03-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/124239/chapter-199-i-did-it-again"
+royalRoadId: "124239"
+---
+
+Alinar Keacaryn, the leader of the High Elves Raiding Party, stormed into the opulent room and fumed his frustration.
+
+“I can't believe we let them get away!” He yelled, picked up an expensive jewel-covered dish, and threw it across the room. It shattered into pieces against the wall. Jewels that had been freed from their ceramic prison, jumped to freedom; only to have their escape thwarted by gravity and the floor.
+
+“Get someone in here to clean that up!” He bellowed to the elf behind him, who turned and called for a servant. A stunningly beautiful raven-haired half-elf ran into the room as fast as her legs could carry her, and had cleaned up the mess in mere moments using both speed and magic. She was gone before Alinar could scowl at her, or comment about how much he hated her half-ling height. He would never admit it to himself; but most of that hate was because the half-elf was even more eye-catching than his own wife, who he loved dearly.
+
+“Please calm down, Alinar.” Yelnan said. “It's not our fault.”
+
+Alinar turned to him with a scowl on his face. “Are you saying it's all my fault?”
+
+“Of course not.” Yelnan laughed. “Even if it were true, I wouldn't be uncouth enough to state it openly.”
+
+Alinar clenched his fist. “So you are saying...”
+
+“Are you teasing my husband again, dear brother?” Elmyra said as she came into the room.
+
+“No, dear sister.” Yelnan said as he turned his head to present a cheek for his sister to kiss.
+
+“I certainly hope not.” She said, kissed the offered cheek, and went to her husband. “Old friends shouldn't antagonize each other so much.”
+
+Alinar's disposition changed for the better, the exact moment his wife had entered the room. He relaxed as she gave him a hug, and then a kiss on the lips.
+
+“What has you so riled up, my husband?”
+
+“Dark Elves.” Alinar said. “We found another scout party in our territory.”
+
+“Oh, them.” Elmyra dismissed his concerns with a wave. “Of course they are in our territory.” She smiled. “They have to go through it to get to the rest of the realm, don't they?”
+
+Alinar opened his mouth to say that the Dark Elves should know their place, and stay there; but his wife's angelic smile stopped his argument before he made it.
+
+“Dear sister, you should come along on the raid next time.” Yelnan said, amused. “Your effectiveness for calming your husband is reaching legendary status.”
+
+Elmyra laughed, and the sounds of wind and rustling leaves could be heard. “Only because you are spreading that story, dear brother. I'd be more of a burden on you than a herd of half-lings.”
+
+Yelnan laughed, and his sister grinned at him.
+
+“Don't let them hear you say they come in herds, dear sister.” Yelnan said. “The High Court will never hear the end of it.”
+
+“I am only jesting.” Elmyra said. “I meant no disrespect to the half-people.”
+
+Alinar laughed and hugged his wife again. “You are a vision of loveliness, and the epitome of compassion, my wife.”
+
+“Only because we are married.” She said. “You wouldn't look at me twice, otherwise.”
+
+Alinar looked stricken, as if she had wounded him deeply.
+
+“How... how can you say such things?” Alinar asked. “I've only ever had eyes for you!”
+
+Elmyra smiled demurely and gave him another kiss on the lips. Alinar's face lit up, because he'd never had two kisses from his wife on the same day before.
+
+“You bless me, my wife.” Alinar said, and took her hand. He bent over it, and kissed her fingers. Elmyra blushed from the intimate contact, and she glanced at her brother. Fortunately, Yelnan had turned his head away before the act had been committed, and was intentionally not looking at them. Elmyra sighed in relief as she looked back at her husband.
+
+“Such things should be saved for a more... private time.” She said, and Alinar looked at her with surprise on his face.
+
+“My apologies, my wife.” He said and ducked his head. “I forgot myself, and my manners.”
+
+“That's quite alright, my husband.” She said and stroked the side of his hand with an index finger. “You succeeded in driving off an incursion last night.” She puckered her lips slightly, and leaned in close to whisper. “You will come to see me later.”
+
+“Y-y-yes, my wife.” Alinar said, a little shaky. “As you wish.”
+
+Elmyra leaned back. “I do.” She said silkily, then turned away from him and walked towards the door. As she passed her brother, she looked at him through the corner of her eye. Yelnan kept his gaze firmly facing away, and she stopped.
+
+“Thank you for bringing him back alive, dear brother.” Elmyra said.
+
+“It is both my duty, and my honor, to keep my promise to you.” Yelnan said, then smiled as he looked at her. “Keeping you happy is also my fondest wish, dear sister.”
+
+She reached out and put a hand on his arm, squeezed lightly, then left the room without another word. Both men watched the door close behind her, then looked at each other.
+
+“What do you want to do about the stray that slipped away during the fight?” Yelnan asked.
+
+“The same thing we do to all of the strays.” Alinar said. “We capture, contain, then send them back where they belong.” He smiled. “Send the tracker team out to the site of the skirmish battle. Have them look for her scent.”
+
+*
+
+Ren had slept the rest of the night peacefully, and woke up early on his own the next morning. Since he was at home, he automatically concentrated on the House Neram pendant and merged with the house's artificial Aura.
+
+Good morning, Teepo. Ren thought, as he rubbed Nathalia's hip absently. I assume everything is all clear.
+
+“Morning, Ren.” Teepo said. “Yeah, nothing happened, either here or outside.”
+
+Thanks for always keeping a lookout.
+
+“What else am I going to do?” Teepo chittered in laughter. “Sing and dance?”
+
+Not while I'm trying to sleep! Ren chuckled, and Nathalia moved her head to look at him. “Good morning, My Love.”
+
+Nathalia gave him a gentle kiss, and he tapped his House Neram pendant with his free hand. She smiled at him, and her Aura merged with the house's artificial Aura as well. She turned her body to face his.
+
+-S
+
+Since Ren's hand was rubbing her hip at the time, when Nathalia moved, his hand slid along her skin; and he discovered she was quite ready and willing for his attention. His eyes widened at her lascivious smile, and the feelings she was giving him. She took him into a hug and made out with him, as he played with her between her legs.
+
+“A little more to the... oh, yeah... mmm...” Nathalia said between kisses. “Yes, My Love... by the gods, yes... OH!”
+
+She grabbed his beard with both of her hands, and held on as she orgasmed. Her arms shook from the effort, and Ren marveled at how quickly she had finished.
+
+This beard must really be magic. He thought, as she pulled him on top of her, and she kept a hold of his beard as he pleased her over and over again.
+
+*
+
+Ereka was quite refreshed when she woke up, because she had just had the best sleep of her life. She concentrated on her House Neram pendant, and gasped loudly when her Aura merged with that of the house and was flooded with the tumultuous feelings flowing through it. Her body froze solid as she felt both Ren and Nathalia as they pleased each other. After about 10 minutes of immobility, she relaxed because they were so caught up in each other's feelings, they didn't notice her at all.
+
+She fought to not please herself, because if she did that while their Auras were merged, they would definitely notice someone else's pleasure besides their own. She grit her teeth and rode along the ocean of feelings with them.
+
+-E
+
+Over an hour and a half later, Ren lay beside Nathalia, and she stared at him. She was well and truly satisfied, and she pet his beard where she had held on so tightly.
+
+I wonder if that's what it's for? Ren thought. Now that I think about it, Nathalia did seem to flail around with her hands most of the time before. He grinned at her. Maybe... maybe having a beard isn't so bad after all.
+
+Nathalia grinned back at him, because she could feel Ren's wonderment. She started to get a headache, though; and had to disengage from the shared Aura.
+
+“Thank you.” Ren said. “You held it a lot longer this time.”
+
+Nathalia nodded. “I've been practicing.” She said. “It still hurts after a while, but I'm getting better at it.”
+
+Ren slid his arm behind her head, and they laid together, then stared up at the ceiling.
+
+-S
+
+*
+
+Ereka felt the emotions wind down, then Nathalia's brief moment of pain, then felt her leave the Aura. Now that she was alone with Ren in the shared Aura, she touched the very tender area between her legs. After over an hour of feeling Ren and Nathalia's pleasure, the space between her legs had soaked her underwear and a good portion of the blanket. Ereka wasn't sure what she was doing, since she hadn't had her training yet; but, she knew enough to try a couple of things.
+
+*
+
+Ren's eyes widened as he felt a huge spike of denied pleasure from the other bedroom, and then he felt a more intense feeling of actual pleasure. He couldn't help reacting to it and grew hard again; then Nathalia, being the conscientious woman that she was, noticed the change and moved down to his abdomen. She slid him into her mouth, and Ren caught his breath as she pleased him yet again.
+
+*
+
+Ereka felt Ren's reaction to her, and it made her more vigorous in her efforts. She teased herself, and wasn't sure what else to do while she rubbed herself; then a small spasm went through her, and one of her fingers slipped inside her opening.
+
+“Oh...OHHH!” She exclaimed, and she felt her very first little orgasm.
+
+*
+
+“Oh...OHHH!” Ren repeated as he felt Ereka go, then went himself. By this time, Nathalia had had enough experience that she didn't let a single drop escape. After a minute, Nathalia cleaned him off with her tongue, and he throbbed for her again.
+
+*
+
+Ereka floated on a cloud of pleasure; with an even mixture of her and Ren. She closed her eyes in contentment, then drifted back to sleep. Her connection to the shared Aura lapsed, and Ren was alone in his feelings once again.
+
+*
+
+-E
+
+“Wow.” Ren said.
+
+“I'm always surprised that you can keep going.” Nathalia said. “Even though I've seen it countless times.”
+
+Ren chuckled. “You're not the only one that's surprised.” He said, then told her what had just happened.
+
+“Really?” Nathalia said. “I didn't feel her before.”
+
+“Me, either.” Ren said. “She must have just woken up.” He shook his head. “I... I think it was her first time feeling that way.”
+
+“That's understandable.” Nathalia said. “I mean, I didn't feel anything like that, until you came along.”
+
+“Me?”
+
+Nathalia nodded. “I haven't gone for my training either, remember?”
+
+Ren nodded as he looked at her. “After everything we've been through, I sometimes forget that you haven't done it.” He said. “So, now I have to ask... do you want to?”
+
+“Want to what?”
+
+“Go for your training.”
+
+Nathalia shook her head. “No.”
+
+“Why not?”
+
+“I've talked to Narhilda about it.” Nathalia said. “One of the rituals is... how do I put this delicately...” She sighed. “It's... practice with a specially-trained man.”
+
+Ren looked at her in surprise. “You're kidding.”
+
+Nathalia shook her head. “The only way to learn how to please a man properly is to... please a man until you get it right.”
+
+“Wow.” Ren said. “Every woman that's ever been trained, has slept with someone else.”
+
+Nathalia nodded slightly.
+
+“I thought I didn't understand your culture before.” Ren said, then chuckled. “That specially trained man either has the best job in the world, or the most monotonous.”
+
+It was Nathalia's turn to look at Ren in surprise.
+
+“What do you mean?” She asked.
+
+“I think having sex all the time might be fun.” Ren smiled for a moment, then frowned. “But, the exact same sex, all the time, over and over? No matter how many different women he was with, he'd have to treat them all exactly the same, every single time?” He shook his head. “I think it would get boring after a while.”
+
+Nathalia smiled. “I think so, too.” She said, then asked him to turn his head. Ren did so, and she sucked on his ear. He fought hard to not react to the sensations, and after 10 minutes of it, it was Nathalia's turn. He kissed, teased, and sucked on Nathalia's neck. She didn't even giggle this time, and he smiled.
+
+“We're definitely getting better at not reacting to our vulnerabilities.” Ren hugged her. “I think it's doubly hard, because we love each other so much.”
+
+Nathalia nodded and hugged him back. “Yes, not reacting to you kissing me is pure torture.”
+
+Ren laughed. “I was going to say the same thing.” He said and kissed her. “The feeling of your mouth anywhere on me is a pleasure in and of itself; but what you do with it...”
+
+Nathalia rubbed his chest. “You, too.”
+
+“Breakfast.” Teepo said. “I thought you ought to know.”
+
+Ren chuckled. “Teepo says it's time for breakfast.”
+
+Nathalia nodded. “I'll have something ready in a few minutes.”
+
+“I'll help.” Ren said. They got out of bed, and made breakfast together. It was pancakes this morning; so Ren, being the over-achiever that he was, made plate-sized ones. He looked in the icebox for whipped cream, and saw a large jug of dark liquid. He took it out and asked Nathalia what it was.
+
+“It's sugar syrup.” She said. “You remember the farmer, Nonyar?”
+
+Ren nodded slightly.
+
+“His wife Magdhal brought that over yesterday. She said one of her sons found weird looking trees last year, and when he cut it open, this stuff came out.” Nathalia said. “It was bitter, but tasty, so he brought it home and they added sugar until it was like this.” She smiled. “Now once a year, they have a few barrels of it made. It was nice of her to give us a jug of it this time.”
+
+“Sweet!” Ren said.
+
+“Exactly.” Nathalia said, and Ren grinned. He covered the stacks of pancakes with the sugar syrup, and grabbed the whipped cream. He dropped a spoonful on top, added a couple of berries, and it was done. Nathalia had been making her own normal-sized pancakes, and when she turned around and saw the 7 inch high stack of 1 foot wide pancakes covered in syrup, whipped cream and berries, she laughed.
+
+“What in the world is that?!?” Nathalia asked.
+
+“Breakfast.” Ren said. “Do you think we should wake Ereka?”
+
+Nathalia shook her head. “I think we should let her sleep in for once.”
+
+“I wish.” Ereka said, as she slowly entered the kitchen. She rubbed her eyes, then ran her hands through her hair. She was only wearing her dress slip, so the movement highlighted her chest wonderfully. Ren was normally good at ignoring things like that; even though he still saw it, he didn't react to it.
+
+“Good morning!” Ren said, and grinned at her. “Feel like some breakfast?” He asked her, and held up the plate filled with pancakes.
+
+“What in the world is that?!?” Ereka asked, surprised.
+
+Ren and Nathalia laughed, and Ereka decided that caution was better choice. She took a plate of pancakes from Nathalia instead; but added syrup, whipped cream and berries to it because Ren's version did look delicious that way. They enjoyed eating breakfast together, and discussed what to do with the restaurant. It wasn't long before Teepo reminded Ren that he needed to go to work.
+
+“I'll be back this evening.” Ren said, and kissed Nathalia goodbye. He waved to Ereka, and left the house.
+
+*
+
+“So, how did you enjoy sharing your feelings with Ren?” Nathalia asked, once Ren was out of the house.
+
+Ereka looked at her in surprise. “I... um...”
+
+“Yes, he told me.” Nathalia said. “He doesn't keep anything from me.”
+
+“I wouldn't want him to.” Ereka said, honestly. “It's just... I... I didn't want to intrude on you sharing your feelings with him.”
+
+“Oh.” Nathalia said. “So... you were awake for some of it.”
+
+Ereka nodded slightly. “When I realized what you were doing, I...” She swallowed. “...I waited.”
+
+Nathalia looked at her with her head tilted slightly to the side, and Ereka blushed a little.
+
+“I didn't know what I was doing, actually.” Ereka said, and blushed a bright red. “When I... I...” She took in a deep breath. “I didn't realize...” She looked at Nathalia in surprise. “Is it always like that? My mind went completely blank!” She said excitedly, then sighed. “I was completely relaxed afterwards, then I fell asleep again.”
+
+Nathalia nodded slightly. “Most times it is like that.” She said. “All you care about is the feeling.”
+
+“Yes, that's it!” Ereka said. “Just the sensation was... by the gods, Nathalia! How do you ever let him leave the house, if he can make you feel like that?”
+
+Nathalia laughed. “It wouldn't be as good if you have it all the time.” She said. “The anticipation is part of the fun.”
+
+Ereka nodded slightly. “I... I think... I should sign up for my training early.”
+
+“I don't think you should right now.” Nathalia said. “I just explained to Ren that part of the training is sleeping with one of the training men.”
+
+“Wh-what?!?” Ereka exclaimed. “R-really?”
+
+Nathalia nodded slightly. “It's the only way to learn how to please a man.”
+
+“By pleasing a man.” Ereka said. “That you don't know, care about, or love.”
+
+Nathalia smiled. “Your future husband will be in the same boat. You won't know him, care about him, or love him. That's what the contract is for. So you can get to know him, care about him, and love him. Eventually.”
+
+Ereka sighed. “I never thought about it like that.”
+
+“No one does.” Nathalia said. “You've got a few more years before you have to worry about any of that, Ereka. So, take my advice; don't worry about it.”
+
+*
+
+Ren fed Princess a stack of pancakes, syrup, and whipped cream; and she inhaled it faster than he thought was possible.
+
+...More, please...
+
+“Of course, Princess.” Ren said, and dropped another plateful in front of her.
+
+...Thank you, My Lord...
+
+“You're welcome.” He said, then pat Riley and Stacy, the two dogs guarding her, and he left the stable. He ran out through the gate, acknowledged the guards, and ran up to the workshop. No one was there yet, so he went into the forge room to see Tee-one. He asked Tee-one to make tables and chairs for the restaurant, and Tee-one handed him the suits of armor, swords, and shields that he had made the night before. Ren smiled and thanked him for the work, then left the workshop and ran into the city, then out to his mines.
+
+The guard bid him a good morning, opened the gate for Ren to pass through, and Ren nodded to him and ran to the medical tent next to the entrance to the mine. He stepped inside, and didn't see the healer, Deresdra.
+
+“Hello?” Ren asked, but there was no answer. He frowned, and checked the curtained-off area, but she wasn't there either. He shrugged, and went outside and around the medical tent to the house he had built for her.
+
+Teepo. Ren thought, and Teepo slid under the door and searched.
+
+“Yeah, she's in here.” Teepo said, then stayed in the living room. Ren knocked on the front door and waited. There was no answer, so he knocked a little harder.
+
+“She's getting out of bed now.” Teepo said.
+
+“I'm coming, I'm coming!” Deresdra said as she walked to the front door, and opened it. The bright sunlight hit her in the face. “Ugh!” She said, and put a hand up to cover her eyes. “Dammit! What do you want?!?”
+
+Deresdra only wore a small pair of underwear, and a loose thin top. Both were practically see through, and surprisingly enough, Ren was more turned on now because of what she wore, than he had been when he'd seen her nude. He stopped himself from staring at her, and ignored her disheveled state.
+
+Teepo said she'd just gotten out of bed. Ren thought. “I'm sorry for bothering you.” He said. “I'd like to get inspected for the day's work, if that's okay.”
+
+“Of course.” Deresdra said, and stepped back. “Come in.” She turned around and walked away a few feet. Her underwear was just as small in the back, and barely covered anything at all on her backside.
+
+“I can wait in the medical tent.” Ren said, and she shook her head.
+
+“By the gods, get in here and shut the damn door!” Deresdra said vehemently, and Ren blinked his eyes a few times, then went inside and shut the door.
+
+“I'm off today.” She said as she dropped her hand from covering her eyes. “I thought you were, too.”
+
+“I'm taking tomorrow off instead.” Ren said. “I'll be going to Aurora to deal with a few things.”
+
+Deresdra nodded slightly. “Clothes off, then.”
+
+Ren looked around. “But, we're in your living room.”
+
+“Yes, right.” She said, and took his hand to lead him to the bedroom and shut the door. “Is that better?”
+
+“Not... not really.” Ren said. “It will be, though.” He whipped out some fabric, and tacked it to the ceiling, to make an impromptu curtained-off area.
+
+“That was handy.” Deresdra said, and looked around. It was the same size as the one in the medical tent. “Okay, now take off your clothes.”
+
+Ren sighed, stored his clothing, and left himself in just his underwear; which clearly showed his arousal. He had thought about delaying to let it go away, but he knew it would take a lot longer than a few minutes for it to dissipate enough to make any difference.
+
+Well, well. Deresdra thought as she started his examination. Perhaps I was a little too hasty in thinking that he didn't like me.
+
+What Deresdra didn't realize was that, if any woman was so scantily clad in front of a man, they will react in pretty much the same way. Most times, it didn't matter how they personally felt about the woman they were looking at.
+
+I think Stella is right. Ren thought. It really is a body's normal reaction to stimulation.
+
+Deresdra checked his back and his chest, massaged his abdomen muscles, then checked his arms. When she knelt and bent over slightly to check his legs, her top billowed out and gave Ren a very clear view of her chest. His arousal became quite pronounced at that point, pointing almost straight out because it was caught in the underwear's fabric. Looking down at her, it really was quite a view, and he saw that she was aroused as well. Of course, Deresdra noticed the change in his physical condition, and she smiled mentally.
+
+Yes! Deresdra thought. He's not immune to my charms after all. She stood up, oh so slowly, making sure her top stayed billowed out, until she stood up straight and looked him in the eyes. Ren's face was flushed red, since he couldn't stop himself from staring at her this time.
+
+“Am... am I cleared for work?” Ren asked.
+
+“In a moment.” Deresdra said. “There's just one more thing I need to check.”
+
+“Wh-what's that?” Ren held his breath, because he thought he knew what it was that she wanted to check next. Deresdra grinned, as she thought about what he thought she might want to check next.
+
+“This.” She said, and ran her fingers through his beard. It hadn't grown out past the 2 inches it had been yesterday, but Deresdra didn't care at this point.
+
+Oh, my! She thought. I've never felt a beard like it before. She closed her eyes and lost herself in the feeling. It's not rough or coarse, but soft and fluffy!
+
+“Ma'am?” Ren asked, and hoped she was distracted enough to get an honest answer. “Where did you get that cream?”
+
+“I'm not going to tell you that.” Deresdra said as she opened her eyes. “You told me to buy myself something nice that would make me happy; so, I did.” She smiled seductively, as she let his beard go. “I won't let you get rid of it.”
+
+Ren swallowed loudly, and she had to fight to keep her laughter contained.
+
+“I... ah... actually, I want to keep it.” He said. “I wanted more cream, in case it wore off.”
+
+“Really?” Deresdra asked. “Well, it won't wear off.” She smiled. “That was guaranteed. I still won't tell you where I got it, though; but, if you want more creme...” She left the curtained-off area and Ren heard her rummaging through something, then she came back and handed him a small jar of the creme. “Here you go.”
+
+Ren looked at her in surprise. “You had more?”
+
+Deresdra chuckled. “I wasn't sure how much to use, or what it would cover.” She explained. “It really is a small jar. I had to get another one, just in case.”
+
+“Thank you.” Ren said, and stored it. “What do I owe you?”
+
+“Since you gave me the money in the first place, not much.” Deresdra said and smiled. “Just a hug will do.”
+
+Ren nodded slightly. Since he always liked both giving and receiving hugs, he didn't think twice about it. He took her into a hug right away, much to her surprise and delight. She put her head on his shoulder and wrapped her arms around his neck, since they were so close to the same height, and she pulled him in tightly.
+
+-S
+
+Since they had been talking so calmly for a few minutes, Ren had completely forgotten that he wore only his underwear; and that Deresdra was barely wearing only a little more than that. His eyes widened as her breasts pressed into his chest and the tips poked him hard through the thin fabric top she wore. Because his underwear was bulged practically straight out, he was now firmly pressed into the space between her legs. He was still shrouded in his underwear, but when they had moved together and Deresdra had pulled him in tight, her thin underwear had moved slightly to the side, and he rubbed across her opening to end laying underneath it.
+
+She gasped at the sensation of him sliding between her legs, and she stood up on her toes and arched her back to try and reduce it; but she soon realized that she wasn't tall enough to accomplish that. She relaxed and brought her hips forward, and that small movement rubbed her across his expanse. They both gasped when she did that, and froze as neither of them wanted to embarrass themselves further.
+
+“I'm sorry. I didn't mean to...” They said at the same time. Deresdra took her head off his shoulder and leaned back, which moved her hips, and she caught her breath as she rubbed against him again. She clamped her legs together involuntarily, and squeezed him even tighter than she did before.
+
+“Don't... don't move.” Ren said. “By the gods, don't move.” He breathed, and tried to control himself. They stared at each other, faces barely an inch apart, and he didn't know what to do.
+
+“I may not have much choice but to move.” Deresdra said. “I'm standing up on my toes, and my legs are starting to get sore.”
+
+Ren moved his hands down to her hips and held her still. “Okay, I've got you.” He said. “Relax your feet.”
+
+Deresdra did so, and was surprised she didn't move at all as her feet were now completely off of the floor.
+
+“How long can you hold me like this?” She asked.
+
+“For as long as I have to.” Ren said. “Just... just give me a few minutes to calm down, then I'll get you to move.”
+
+Her eyes widened as he didn't seem to struggle at all to hold her so still. Ren waited nearly 10 minutes before asking her to slowly open her legs.
+
+“I can't.” Deresdra said. “I'm pressed up against you, and I can't move them forward.”
+
+“Bend your knees first.” Ren said. “Then slide your thighs out to the sides.”
+
+“Okay.” She bent her knees like he said, then when she started to slide her thighs out, her entire weight went into his hands. Since Ren was trying to move her away at the same time, and was holding her carefully; he wasn't holding her as securely as he thought he was. His grip started to slip as her thighs slid out to the sides, and he almost dropped her. Deresdra grabbed onto his shoulders and lifted to stop herself from falling; and then Ren recovered his grip on her and pulled her down and in close. This combination of maneuvers, on both of their parts, turned an innocent mistake into an almost perfect upthrust. Ren's underwear clad member slipped about 4 inches inside of her. Deresdra gasped, and stared in shock at Ren, who stared back at her with just as much shock on his face.
+
+“M-M-Ma'am!” Ren stammered. “I'm so sorry!” He tried to move her off, and she winced. “By the gods, I've hurt you!” He said and stopped his efforts.
+
+Deresdra shook her head. “No... no, it's all right.” She said. “It was... a surprise is all.”
+
+“Ma'am.” Ren said. “I have to move you.”
+
+“You're inside of me now.” Deresdra said. “You might as well use my name.”
+
+“It was an accident.” Ren said. “By the gods, how do I get into these situations?”
+
+“Maybe they want you to?” Deresdra asked. “It seems to happen to us a lot, doesn't it?”
+
+Ren didn't know what to say to that, and she smiled as she let his shoulders go. She slid even further down him, and winced as his underwear pressed harder against her.
+
+“Ma'am, don't!” He said, and tried to move her off, and she cringed.
+
+“I'm caught on the fabric, Ren.” She said, and a tear came to her eye. Ren had no choice but to store the underwear, so he would stop hurting her; and her body slid down him the rest of the way. He was completely sheathed inside of her, and she gasped as more tears came to her eyes.
+
+“I've hurt you again.” Ren said, sadly.
+
+Deresdra shook her head and gave him a quick kiss. “They're tears of relief.” She said, and touched the top of her opening. It was rubbed red and raw, and Ren took out a Minor Healing wand.
+
+“Don't!” She said, and grabbed his hand. “You know better than anyone that if you heal me now, it will stay that way.”
+
+Ren's eyes widened as he imagined her opening staying open all the time, and he put the wand away.
+
+“What do I do?”
+
+“Make me feel better.” Deresdra said, as she pulled off her top. “Help me forget the pain.”
+
+Driven by guilt for what he had done, Ren did make her forget all about the pain he had caused her. For the next half an hour, he worked her over so well, that she could barely move afterwards. He equipped his clothes and looked at her expectantly.
+
+-E
+
+“You're cleared for work.” Deresdra said.
+
+“Thank you, Ma'am.” Ren said, and left her little house, with Teepo flying close beside him. Ren ran into the mines, and saw that no one else was there; even though the shift should have started already.
+
+Maybe everyone took today off. Ren thought, and got to work. He mined and mined, and didn't even stop for lunch. When 7 hours were up, Teepo let him know, and he went to the blacksmith shop to do any repairs that were needed. Ren fixed all of the picks that were there, and then two mining carts. He was tempted to enchant them all with Antidark runes to make the carts and their contents lighter; but, that would have to wait until he came back. Teepo told Ren when the last hour expired, and Ren got the same feelings of relief and happiness. He checked the baby fire elemental, gave it enough food for several days, and left the mines. He waved to the guard and ran all the way back to House Neram.
+
+*
+
+Ereka felt Ren run by the Main House, and gasped at the guilt she was bombarded with.
+
+By the gods, what did he do?!? She thought. The guilt is crushing him!
+
+*
+
+Ren went through the gate to House Neram Keep, and didn't even pause to gather his thoughts before opening the door to talk to Nathalia. He was full of guilt and trepidation, because he had some explaining to do to the woman he loved. He had to explain, somehow, why he had slept with yet another woman.

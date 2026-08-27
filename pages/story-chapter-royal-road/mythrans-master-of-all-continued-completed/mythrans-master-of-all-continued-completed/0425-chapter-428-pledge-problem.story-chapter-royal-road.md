@@ -1,0 +1,293 @@
+---
+id: 1b5d2ecd-54f4-570a-b7bb-a0a39e948fa3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 428 - Pledge Problem"
+slug: 0425-chapter-428-pledge-problem
+partOf: mythrans-master-of-all-continued-completed
+position: 425
+ownLength: 3268
+unit: words
+publishedAt: 2017-11-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175618/chapter-428-pledge-problem"
+royalRoadId: "175618"
+---
+
+Ren crossed his arms and felt how smug Zunala was. “Are you proud of yourself for killing all of the harpies?”
+
+“I am.” Zunala said.
+
+“Even the eggs?”
+
+“Especially the eggs.” Zunala said. “If even one survived, it could reproduce and harpies could become another blight in this world.” She crossed her arms under her chest to copy Ren's pose, and that pushed her breasts up to prominence. Ren could see by the dark red tips that she was very excited after the slaughter.
+
+“Well, then.” Ren said and frowned. “There's only one thing I have to say to you.”
+
+Notice!
+
+You have gained the condition: Angered. Things that normally only bother you slightly, will piss you off. You will lash out unless you keep your emotions in check.
+
+The succubi didn't take a step back; but, Ren could feel that they all wanted to, even Zunala. They could all feel his anger as it seeped out through his Aura.
+
+“I'm very disappointed in all of you.” Ren said in a cold voice, which made them all shiver; but, not in a good way.
+
+“We had to do it!” Zunala said in her defense. “They capture and torture their prey! Sometimes for days, and even weeks!”
+
+“I don't care about that!” Ren said as he uncrossed his arms dramatically, and he felt shock run through the succubi. “If I wasn't so mad, I'd actually congratulate you for doing it!” He said. “You went against your own automatic 'run away from a fight' response and took the battle to your foe!” He made fists and used Iron Grip to crack all of the knuckles at once. It was a very loud sound in the silence, and a few of the succubi flinched. “Personally, I can't condone what you did to the hatchlings and eggs, since I wouldn't have done that myself. What I would have done was taken them and raised them properly, to see if it's nature can be overwritten with nurturing.”
+
+The succubi exchanged glances, because that would have been a great idea.
+
+“Then... why are you so angry at us?” One of them asked.
+
+“Because.” Ren said through clenched teeth. “You abandoned me without a second thought! Not one of you even bothered to look at me as you flew away into a battle that you didn't know how many opponents there were, if they had set up an ambush for you, or even if they had overwhelming numbers!”
+
+The succubi stared at him with wide eyes, because he was right. It never occurred to them to even think about such things.
+
+“Even though leaving me without telling me what was going on was pretty bad, that wasn't the worst part.” Ren said. “The worst part was that every single one of you broke your pledges.”
+
+“NO!” Zunala yelled. “We didn't!”
+
+“Let's run it down, shall we?” Ren held up and closed fist and then extended a thumb. “Never trying to leave my service? You left.” He lifted the index finger. “Heeding my words? You completely ignored me.” He lifted the middle finger. “Abiding by my rules? You ignored the ones I set to keep you safe, including the ones for wand use.” He started to lift the ring finger, then put it back down. “Living as I see fit? Well, that's kind of a toss up. We haven't been around each other long enough for that kind of a discussion yet... so, 3 out of 4.”
+
+“They could probably argue the 'leaving your service' one.” Teepo said. “But that's just me being a stickler for details.”
+
+Ren could feel how sad the succubi were after being so happy.
+
+Zunala sighed. “Ren, I'm so-”
+
+“Stop.” Ren said and held a hand up. “You do realize I can still tell when you lie, right?”
+
+Zunala closed her mouth on her apology. “Ren.” She said. “I will honor my pledge.”
+
+“Why?”
+
+“Why what?”
+
+“I could have sworn I said that I had to take you at your word because I didn't want to rely on your contracts; because I hate contracts.” Ren said. “Then you yelled at me for no reason and left, and the others followed you.” He reigned in his anger and sighed. “You can honor the pledge if you want; but, it's only going to mean as much as you think it does. Apparently that isn't much, since you can just ignore it when you feel like it; so, why do you want to keep honoring it?”
+
+“Ren, I...” Zunala sighed, because she didn't really have a response that she could give that she thought would satisfy him. Not without lying, anyway.
+
+“Don't worry, I'll still honor my pledge to you. When I give my word, I mean it.” Ren said. “Although, now that I have the opportunity to clarify the details, the happy home I'll make for you isn't going to have me in it.”
+
+“Wh-what?”
+
+“Trust has to be earned.” Ren said. “I thought I had earned your trust, and I thought you had earned mine.”
+
+“But...”
+
+“Even friends have to have a certain level of trust between them.”
+
+“Ren...”
+
+“I'll still be close by to give you regular feedings.” Ren said. “Unless things change, we won't be living together.”
+
+“Is that our reward?” Zunala asked, and he could feel her sarcasm as she tried to get angry herself. “If we're good in your eyes, you'll decide if we're worthy enough to be under the same roof with you?”
+
+“No.” Ren said. “Living together with someone is a huge decision. Caring, friendship, and love... these aren't rewards to be won.” He said. “They are gifts that should be cherished.”
+
+“Ha! You are such a hypocrite!” Zunala said. “You told me that you weren't going to replace Murdrasu in my life, or love me like he did, or hate me!”
+
+“That's right!” Ren said and his anger returned. “I would never treat you like he did! I won't ever chain you up or make you work to exhaustion or starve you!” He said emphatically. “I'd never love you like he did because I'm not him! I doubt he even knew what love was!”
+
+Zunala's argument deflated at Ren's words, and she knew that what he said was true.
+
+“As for hating you?” Ren said and calmed down again, and they all felt how sad he was. “I died for you, Zunala.” He said. “I was going to ask you to cuddle with me tonight, even after being warned that I would get more corruption.” He took a deep breath and let it out. “I didn't want to sleep alone, and I thought... I hoped that you wouldn't want to be alone, either.”
+
+“Ren, I...”
+
+“No.” Ren shook his head. “I won't ask you to compromise yourself anymore.” He said and looked at the other succubi. “I won't ask any of you to do that.”
+
+“You don't have to ask me.” Miastina said. “I told you when you healed me after my accident that I would do anything you wanted.”
+
+Ren smiled sadly. “You still left with all the others.”
+
+“I was frenzied.” Miastina said. “I doubt I could have spoken my own name during the fight.”
+
+Ren sighed. “Thank you for the offer; but, despite how much I want to, I can't take it.”
+
+“I can feel how sad you are.” Miastina said. “Please, I'll be good.”
+
+Ren shook his head. “Why is it so hard for you to understand that I can tell when you lie?” He looked at the other succubi. “How many times do I have to remind you? Or better yet, why can't you just be honest? Is that too much to ask?”
+
+None of the succubi said anything and didn't know how to react, and Ren shook his head as he used the Staff of Earth to close over the hole he had made in the wall.
+
+“You're all still covered in blood.” Ren said.
+
+“We... ah...”
+
+“There's nowhere to wash it off.” One of them said.
+
+“You don't need to.” Ren said and took out some white Spider Silk cloth and sewed up 18 new bikinis, instead of a bra and bikini bottom. He tossed one to the closest succubus, and she caught it. “Store this in your ring, then equip it. Both you and your old clothing should be cleaned, assuming you still have old clothing.” He gave a new bikini to each of them, until he came to Seldanna and Wynphine. They had already changed clothes, and he nodded to them.
+
+“Why does that work?” One of the other succubi asked, and Ren turned to look at her.
+
+“It's what Adventurers do.” Ren said. “We can't be taking baths or washing ourselves all the time; so, just changing clothes for a second does the trick.”
+
+The succubi did as he instructed, and he went around to each of them and healed their wounds. With his required tasks done, he went back to his shop tower.
+
+“I'll see you in the morning.” Ren said and opened the shop tower door.
+
+“Wait.” Seldanna said and stepped forward. “What about our feeding?”
+
+“You couldn't take any more, even if I forced you.” Ren said. “I can feel how full you are.”
+
+“But... you said...” Seldanna sighed. “Your emotions are so much better than those of the old hags we slaughtered.”
+
+Ren closed his eyes and thought about his emotional break-up with Nathalia. “Well, then... I hope you enjoy this as much as I did.” He said and reached out a hand. Seldanna took it and gasped as she fell to her knees.
+
+“STOP IT!” Zunala hollered as she felt the huge burst of mixed emotions. “Don't punish her!” She said and grabbed Seldanna's hand to pull it out of Ren's, and all of those emotions hit her.
+
+“Punish her?” Ren looked at Zunala in confusion. “I'm giving her the strongest emotions I've ever felt.”
+
+Since everyone was used to Zunala being the focus, they all had a small established connection with her. The bundle of strong emotions hit them, even though they weren't touching her, and Ren felt them in his Aura.
+
+“So, that's why.” Ren said and looked at Zunala. “You bound them.”
+
+“N-no.” Zunala said through clenched teeth. “I didn't.”
+
+Ren closed his eyes and traced the bonds she had made with the other succubi with his Emotion Siphon Ability, and touched each of them through it. They gasped as he plucked at the bonds, and he opened his eyes.
+
+“Leveling you up had side effects.” Ren said to Zunala, and he turned to the other succubi. “I'm sorry, everyone.”
+
+The succubi felt his sorrow for their predicament, and they didn't know how to respond.
+
+“I'll figure out a way to break the bonds when we get out of here.” Ren said. “Until then, I'll feed you all directly from now on.”
+
+“I... thought you... didn't have the... the time to...” Seldanna tried to speak.
+
+“I've got a good feeling of your tolerance for emotional bursts.” Ren said. “I'll have it down to only a few seconds by tomorrow.”
+
+“N-no!” Zunala said. “Please! Keep using me as a bridge!”
+
+“You're too powerful now for that to work properly.” Ren said and let Seldanna's hand go. She was breathing heavily and looked at him longingly. She knew what he had done wasn't punishment, because he had given her exactly what she had wanted. He had washed away the ugly and disgusting feelings of the harpies and given her his pure and powerful feelings instead.
+
+Ren could still feel the succubi in his Aura, even though he wasn't touching one of them. “Goodnight.” He said and sent them a feeling of reassurance as their presences faded. Once again, no one said anything in response; so, he shrugged and went inside the tower and up to the second floor. He took out a meal and thought about eating it, then decided to save it and put it back. He climbed onto the bed and relaxed.
+
+Goodnight, buddy. Ren thought.
+
+“Goodnight, Ren.” Teepo said.
+
+********
+
+“I guess Lisa was a bit too quick to jump down his throat over the succubi.” Denise said as she sat on the chair beside the bed and watched Ren go into his tower alone, despite saying he was going to cuddle with the blonde one.
+
+“He's gone back in already?” Lisa asked as she opened the bedroom door.
+
+“Hello there, Miss Grumpy-pants.” Denise said and smiled. “Have you calmed down a little?”
+
+“Maybe.” Lisa said and smiled.
+
+“Yes, Ren's gone back in... and you're going to be a little happy about it.” Denise said.
+
+“What? Why?” Lisa asked.
+
+“He's all alone in the bed and isn't cuddling with a succubi.” Denise pointed to the television screen.
+
+Lisa walked quickly over and stood beside her to see Ren was asleep. “Why won't he listen to me?”
+
+Denise looked up at her face, and saw it had half-dried streaks of tears. “He did listen.” She said and put an arm around the younger woman's waist. “Hand me the laptop, and if you want, you can watch the footage at normal speed with me.”
+
+“Okay.” Lisa said and passed her the laptop. “I'll grab the other chair.”
+
+Denise put the laptop on the bed and called up the footage as Lisa brought the chair over and sat down beside her. They watched the footage as the succubi fought the harpies, then disappeared. Denise skipped forward to when the succubi came back, and Lisa's eyes widened as she heard what the succubi said about wiping them out.
+
+“That... can't be true.” Lisa said. “I mean, they spawn where they are needed.”
+
+“Nope.” Denise said. “I heard it directly from Elise. The idiot programmers set up creature generation areas to spawn them, then when one is needed, it already exists and just gets shunted over to where they want it to go.”
+
+“So... they really...”
+
+“Completely removed the harpy creature from the game.” Denise said and laughed. “Boy, oh boy! I'd love to have a camera in the tech room when they find out!”
+
+*
+
+One of the programmers at Sid Tech stopped working when he received a game world notification popup.
+
+Game Resource Notice:
+
+(Class) Harpy (Race) Demon has been depleted and can no longer be generated. Please adjust appropriate quests, requirements, and ingredient lists.
+
+What the hell? The guy thought. How is that possible? The programmer typed furiously on his terminal, and found the numbers he was looking for.
+
+Harpy Colony:
+
+Harpy (Adult)  0  Harpy (Chicks)  0
+
+Harpy (Hatchlings)  0  Harpy (Eggs)  0
+
+Harpy (Nests)  0  Harpy (Aerie)  0
+
+“Holy Mother of God.” The guy said out loud. “That's not possible!” He stood up and was glad that Max, the head programmer, hadn't gone home early like he said he would. “Max! We've got a problem!”
+
+Max got up from his desk and started to walk across the room to the programmer's desk. “What is it?”
+
+“You're not going to believe this.” The guy said. “I don't believe it, either.”
+
+“Don't believe what?”
+
+The guy sat down and turned his monitor so Max could see both the resource depleted popup and the actual numbers of harpies.
+
+“That's not possible.” Max said.
+
+“That's what I said.”
+
+“They're in a protected area that players can't get into.” Max said. “In fact, they would even have to fly to get there.”
+
+The programmer shrugged. “I don't know what to tell you.”
+
+“Let me check on something.” Max said and the programmer slid his chair out of the way so Max could use his workstation. Max typed almost faster than the eye could see, and brought up the map for the Harpy Aerie and the history of players that had accessed the area. No one had.
+
+Max brought up the players that had entered the same level in Shargon Caverns that the Aerie had been hidden in, and he cursed when one of the three names in the last week was Ren Haddon.
+
+“Him again.” The programmer said. “You don't think that he... I mean, come on. Who wipes out a whole species?”
+
+“I'll check the other two players just for laughs, but my money is on Ren.” Max said. “I don't know he did it, without actually having access to the Aerie.” He sighed. “He's the only one that's currently sitting right there on the same level.”
+
+“He's been in the safe zone the whole time.” The programmer said. “How could he possibly do it?”
+
+“The better question is: why does he keep doing things like this?” Max asked and looked at the clock. “I'd tell you to keep working and let me know what else happens; but, it's getting close to quitting time.” He said and put a hand on the guy's shoulder. “Just finish up that bit of code and just relax until the whistle blows.”
+
+“People still say things like that for ending the work day?” The programmer chuckled. “How old are you, Max?”
+
+“Old enough to kick your butt, and young enough to recover before you do.” Max said.
+
+The guy laughed. “What about adding the resource back?”
+
+“We can't do it until the next major system update.” Max said. “I'll handle it until then.” He walked back to his desk and sat down. He saved up his work after another quick check on the event's progress, then wrote a quick substitution patch for the things the harpies were supposed to be used for.
+
+Thankfully, no one is accessing the harpy mechanic with them all dead; so, it can be slipped in without anyone having to log off to implement it. Max hated having to use the vrock demons as a substitute, even though they produced the same items when killed. They were so much more dangerous than harpies, but it couldn't be helped.
+
+I thought having Ren out of the way for the start of the world event would be a good idea. Max thought. It figures that it would bite me in the ass.
+
+No sooner had the thought entered his mind when the door to the tech department opened and Elise, Ren's current girlfriend, strode in.
+
+Forget biting my ass, it's going to be chewed off. Max thought. “Hi, Elise.”
+
+“We need to talk.”
+
+“Step into my office.” Max said and waved to his desk.
+
+“I'd rather a bit more privacy.” Elise said.
+
+“I know you do.” Max said and grinned, and let it fade when Elise didn't smile at all. “Is the hallway, okay?”
+
+Elise nodded and they left the tech department without saying another word to each other.
+
+*
+
+“He's gonna get it now.” One of the programmers said. “She's a real ball-buster.”
+
+“How would you know that?” One of them asked.
+
+“All the old hands know that.” He responded. “So, I'll give you a fair warning. Don't ever get on her bad side.” He said and smiled as he pat the side of his metal desk. There was a distinct dent where a fire extinguisher had caved it in. “She is not someone you want to mess with.”
+
+The guy looked at the dent. “I'll hold off on asking her out, then.”
+
+“Don't even bother asking.” He said and laughed. “She is completely nuts over her boyfriend.”
+
+“Who is he?”
+
+“Nobody important.” He said, and several tech guys laughed. “He's just the guy that's been giving us all this extra work and overtime.”
+
+“Should I thank him or curse him?”
+
+“Definitely both.” He said and grinned. “We're getting paid tons of money and he gets to have her as a girlfriend.”

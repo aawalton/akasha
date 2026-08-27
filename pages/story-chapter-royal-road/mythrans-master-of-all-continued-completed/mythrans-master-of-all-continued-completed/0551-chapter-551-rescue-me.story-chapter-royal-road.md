@@ -1,0 +1,249 @@
+---
+id: 1e113c83-7d04-51bd-9ae1-e74d3484c6fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 551 - Rescue Me?"
+slug: 0551-chapter-551-rescue-me
+partOf: mythrans-master-of-all-continued-completed
+position: 551
+ownLength: 2467
+unit: words
+publishedAt: 2018-04-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206919/chapter-551-rescue-me"
+royalRoadId: "206919"
+---
+
+Ren, Artemis and Princess Diana quickly went down to the kitchen and found the dishwasher. Ren explained what was going on, and the guy shrugged and shook Ren's hand without even considering any other options. After he was healed completely, he asked what kind of house he was going to get.
+
+“That depends. Do you live alone?” Ren asked.
+
+“No, I've got a mom and an older sister.” Narshan said. “We live in a one room apartment over on the west side.”
+
+“Do they have jobs?”
+
+Narshan laughed. “Are you kidding? My mom was a Lady in Waiting until she married an Adventurer. Then the bastard ran out on her and took her dowry without even a thank you.” He said. “She had started to raise my sister as a Lady in Waiting as well, so they have no life skills whatsoever.”
+
+Ren put a hand on the guy's shoulder. “I'm sorry.”
+
+Narshan shrugged and Ren took his hand back. “He wasn't my father, thank god.”
+
+“Your sister?” Diana asked.
+
+Narshan nodded. “Those were hard times for them after he left.”
+
+“What happened?”
+
+“They lived off the kindness of others until she met my father.” Narshan said. “Now there was a great man if there ever was.” He smiled. “Paid everyone back double for their kindness and then settled down and had me.”
+
+“You said you lived with your mother and sister.” Ren said after a moment. “Your father is no longer around, is he?”
+
+Narshan shook his head. “I became the man of the house when he passed away last year. I've been working here ever since.”
+
+“How... how did he die?” Diana asked.
+
+“He was forked.”
+
+“Excuse me?”
+
+“He was forked.” Narshan said and pointed to his eyes. “He took a pitchfork right to the face when a plow horse ran rampant and somehow kicked it at him.”
+
+“Oh, god!” Diana gasped and covered her mouth with a hand.
+
+“At least it was a quick death.” Ren said.
+
+Narshan shook his head. “The healers couldn't remove it without killing him, so they removed what they could and sent him home. He lived for three days after that.”
+
+I'm not saying anything else about it. Ren thought. “Well, now that you're under my domain, you have several choices available to you. You can stay here and keep your job and I'll see about building you a new house here in the city, or you can move to...”
+
+“When do we leave?” Narshan asked without listening to the other options.
+
+“But...”
+
+“I'm sick of washing dishes day in and day out.” Narshan said and took off the apron he wore. “I'll do anything to get out of this kitchen.” He took two steps to the side to see around Artemis and hollered. “Hey, Anya! ANYA!”
+
+A large plump woman looked up from the huge stove she was cooking on. “What do you want, sewer rat?”
+
+“I quit!” Narshan said. “You can take this job and shove it where the sun don't shine, you fat ugly bitch!”
+
+Anya's mouth dropped open in shock, and a raucous cheer went up from everyone else in the kitchen. Ren glanced at Diana and saw that she had a hand over her mouth again, only this time it was to stop herself from laughing.
+
+“Come on, let's get out of here.” Narshan said and tossed the apron onto the sink. “When she realizes I quit for real this time, she'll call the guards to arrest me for insulting her.”
+
+Ren, Diana, and Artemis followed the man out of the kitchen and around a corner, then down another hallway.
+
+“In here.” Narshan said and opened a closet door, and they all squeezed in somehow. Artemis was at the back, since she was the tallest, then Diana, then Ren and Nershan. A moment after the door was shut, the sound of several pairs of armored feet passed by.
+
+“I told you.” Narshan whispered.
+
+Ren smiled as he felt Diana slide her arms around him. “I don't think that was the best way to leave your job.” He said to Narshan, who chuckled.
+
+“Yes, it was.” Narshan whispered and reached for the door handle. “It should be safe now.”
+
+Ren activated his Heat Sense Aura, then shook his head as he grabbed Narshan's arm to stop him. The guards were still well within hearing distance, and Narshan would be caught if they opened the door.
+
+Narshan saw the red glow around Ren's silvery-blue eyes and whispered. “On your say so, then.” He let the door handle go and waited.
+
+“They're almost... no, one of them turned around.” Ren whispered, and Diana's arms held him tightly. “Stay quiet.”
+
+A single pair of armored boots walked by the closet going the other way, and Narshan gave Ren an odd look. When the guard was far enough away, Ren told Narshan about his Aura and that he could feel everyone within it.
+
+“Damn, that must be useful.” Narshan whispered.
+
+“It's taken a long time to get to this point.” Ren said. “Okay, we can go.”
+
+Narshan opened the door and peeked out, and Ren felt Diana's reluctance to let him go. Her grip eased and she pulled her hands back, then they all stepped out of the closet. Ren cast Disguise Self on Narshan to change his clothes and his hair color to make him less noticable.
+
+“Whoa.” Nershan said and looked at his fancy new clothes.
+
+“It's not permanent.” Ren said and looked at Diana, and saw her slightly red face. “Your Highness, please lead the way to Sharlee.”
+
+Diana nodded and took them to the closest stairway. As they climbed them up to the third floor, Ren used his Heat Sense to pinpoint everyone within his Aura. When he thought about the red glow showing people that he was using the ability, he decided to use his Filter Effect ability and turned off the visual effect.
+
+The red glow stopped and Ren could still detect everyone within his Heat Sense Aura, then his gaze fell upon Princess Diana's backside as she walked up the stairs in front of him. Even though she wore a fancy dress, he could still clearly see her behind's nicely-formed shape, and his Heat Sense Aura showed him the space between her legs was quite a lot hotter than the rest of her.
+
+Stop looking, you idiot. Ren told himself. Don't think dirty thoughts.
+
+Teepo chittered in laughter and Diana was startled. She stopped walking and turned to look at Ren.
+
+“What was that sound?” Diana asked, a little panicked.
+
+“Just my friend Teepo.” Ren said and pointed to his shoulder.
+
+“Oh.” Diana said and kept walking, and Ren felt her relief. “I didn't know what that was.”
+
+Narshan chuckled. “I don't think the Princess gets out of the castle much.”
+
+“I do so!” Diana said as she approached the landing to the third floor. “I visit the Market Square at least twice a week!”
+
+“A week?” Narshan grinned. “I'm there twice a day.”
+
+“What? Twice a day?” Diana asked and stopped by the third floor door. “Why?”
+
+“It's the best way to get good deals.” Narshan said. “You show up early and pick out what you want and show an interest in it, then leave.”
+
+“What? That doesn't make sense.” Diana said. “Why wouldn't you just buy it?”
+
+“Because, when you go back later and the item is still there, the seller will practically give it away.” Ren said, and Narshan nodded.
+
+“Exactly.” Narshan said. “You take the chance what you want will be gone, though.”
+
+“Yeah, but the seller should feel bad for it being gone, and they'll offer to let you pick something else at a really cheap price.” Ren said.
+
+“Ha! You got it!” Narshan said. “Frugality at it's finest!”
+
+Ren nodded and motioned to the door. “There's no one in the hallway.”
+
+Diana looked at his eyes and didn't see the red glow. “But, your eyes...”
+
+“I turned it off.” Ren said. He felt a slight pang of regret from her, so he turned the effect back on for an instant, then turned it off again. He felt her reaction to that, and smiled. She likes me showing off my abilities.
+
+Diana smiled back at him and then opened the door to the third floor. “The maid's quarters are down the hall to the right.” She said and pointed to a cross-hall. “That part of the floor is off-limits to visitors normally. Since this is an emergency, I'm making an exception.”
+
+“Thank you.” Ren said and followed Diana down the hallway. He took out the All-Seeing Mirror and asked it for Sharlee's room, then if she was inside. She was, so he told Diana which room it was. They stopped in front of the door, and Diana knocked on it.
+
+“Just a minute!” A woman's voice said, and they could hear shuffling and a few bangs.
+
+“Is everything all right in there?” Diana asked.
+
+“Yes! It's fine!” Sharlee said loudly as she picked up another bundle of clothes and tried to shove them into her over-stuffed closet. “Dammit, I never have visitors.”
+
+Sharlee looked at her bed and smiled, then dropped the clothes in her arms and kicked and pushed them underneath. With this new avenue of storage, she grabbed everything she could and jammed it into the available space.
+
+“There, that looks presentable.” Sharlee said and darted to her bedroom door and opened it. “Hello! What can I do for-PRINCESS!” She gasped and dropped to her knees and bent over slightly.
+
+“Don't do that.” Diana said and tried to urge the woman to stand up.
+
+“I'm getting a personal visit from the Crown Princess!” Sharlee said with her head down. “I feel so blessed!”
+
+“She's just another girl, for pete's sake.” Narshan said.
+
+Princess Diana turned to look at him with squinted eyes and Ren felt her distain.
+
+“No offence.” Narshan said as an apology.
+
+“Yes, being the Crown Princess of the Realm there's no way I could take offence from being 'just' a girl.” Diana said in her best haughty voice that mimicked her mother's tone quite well.
+
+Narshan's face went red from embarrassment, and he ducked his head slightly.
+
+Diana turned back to Sharlee. “Despite his disrespectful tone and his choice of words, he has a point.” She said, and Sharlee lifted her head to look at her. “We were born in different families, but we are both women.” She said. “You can show respect and not have to prostrate yourself.”
+
+Sharlee's face lit up with a smile. “You're so magnanimous!” She said excitedly. “The floor is kind of hard to kneel on.”
+
+“Then rise and be at ease.” Diana said, and Sharlee stood up. She was almost a head taller than Diana, who was almost a head taller than Ren. Narshan was between Diana and Sharlee's height, and Artemis was almost a head taller than that.
+
+Sharlee noticed this and smiled. “If we stood in height order, we'd look like stairs.”
+
+Diana blinked her eyes for a moment at the sudden change in subject, and Narshan chuckled.
+
+“Perhaps we can get to why we're here.” Ren said, and everyone looked at him. He explained the situation to Sharlee, and she sighed.
+
+“What is it?” Diana asked.
+
+“My husband is not going to be happy about me being under another man's ownership.” Sharlee said.
+
+“That's not...” Ren started to argue.
+
+“Sugarcoat it if you want, but I'll become your property.” Sharlee said. “Of course, I guess technically I'm the king's property at the moment.”
+
+“That's not true.” Diana said, and sweat appeared on her forehead and not Sharlee's. “What is...” She wiped her forehead. “It's true?”
+
+“In a sense.” Ren said. “He's responsible for everyone in his land, and is personally responsible for those in the castle working for him.”
+
+“Exactly.” Sharlee said. “So, if I take your hand, I'll be switching owners.”
+
+“In name only if you want.” Ren said. “Nothing in your life has to change.”
+
+Sharlee chuckled. “Just knowing I've been infected is going to change my life.”
+
+No one said anything for a few moments.
+
+“Do you need to discuss this with your husband?” Ren asked.
+
+“I'd like to, but I'm going on shift soon and he's not at home.”
+
+“Where is he?” Diana asked.
+
+“He works for one of the lumberyards. He could be there or he's outside the city gathering trees.”
+
+Ren took out the All-Seeing Mirror. “Please show me Sharlee's husband.” A moment later, his eyes widened at what he saw and he stored the mirror. “Um... he's... busy.”
+
+Sharlee looked at Ren with knowing eyes. “Show me him. Right now.”
+
+Ren opened his mouth to say no, then sighed and took the mirror out and showed her. Her husband was in the arms of another woman, and they were in bed together.
+
+Sharlee frowned at the sight, and Ren felt her recognize the woman. “This is real, right? It's happening right now?”
+
+“Unfortunately.” Ren said.
+
+“Where?”
+
+Ren asked the mirror to show where he was, and she nodded as the place appeared in the mirror.
+
+“Yes, that's her house.” Sharlee said, angrily. “That two-timing backstabbing witch I thought was my best friend.”
+
+“Ma'am, I'm sorry.” Ren said.
+
+“It's not your fault, although I can blame you for bringing it to light.” Sharlee said.
+
+“Ma'am, I...”
+
+“It's all right.” Sharlee said and and held a hand out to Ren. “I'm just glad we don't have kids.”
+
+Ren looked at her hand and then her face. “Considering what's happening, should I assume you want to come with me to my county?”
+
+“I never want to see either of them again, so yes.”
+
+Ren took her hand and she gasped as her chest burned for a moment, and then she was fully healed.
+
+“Good god, I feel wonderful!” Sharlee said, and she stepped close to Ren and hugged him. “You don't realize how long you've felt bad until you feel good again.” She let him out of the hug. “Thank you.”
+
+“You're welcome... and welcome to my domain.” Ren said.
+
+“I'll have the Minister of Population issue a marriage dissolution order right away.” Diana said. “You'll get half of his wages for the rest of his life.”
+
+Sharlee chuckled. “How much is half of measly?”
+
+“A lot more than nothing.” Narshan said. “We better go. If we're lucky, this Blair guy is still in the Knight Barracks.”
+
+Ren used the All-Seeing Mirror to check, and it showed a nice one-storey house instead of the barracks. “Show me him, please.”
+
+A dank cellar appeared, and the floor was scattered with bits of half-eaten food. A pale white and nearly completely naked figure was huddled down into a ball and lay on it's side in the middle of the dirt floor.

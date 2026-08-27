@@ -1,0 +1,467 @@
+---
+id: 1ce4a031-e1d2-5f14-b25c-d745c3698580
+page-type-slug: story-chapter-royal-road
+title: "Chapter 132 - The Hole"
+slug: 0117-chapter-132-the-hole
+partOf: mythrans-master-of-all-continued-completed
+position: 117
+ownLength: 4480
+unit: words
+publishedAt: 2017-01-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110378/chapter-132-the-hole"
+royalRoadId: "110378"
+---
+
+Stella opened the crate of VR headsets and stacked them in the closet, as the crate alone wouldn't fit. “I'll take one of these home tonight and calibrate it properly.” She said. “I'll message you when I get it up and running.”
+
+Ren nodded. “Don't forget to set the protocols for 'Administrator' when you log in.” He reminded her. “Otherwise, it'll just shunt you right into the game.”
+
+“I'll remember.” Stella said, then she looked at Ren. “So, did you notice that woman was staring a hole through you?”
+
+Ren chuckled. “Yeah, but she's got the hots for me, so I expected it.”
+
+“She's 'got the hots' for you?” Stella snorted a laugh. “Where did you pick that up?”
+
+“Some old tv show.” He said.
+
+She shook her head. “The things you remember.”
+
+Ren laughed. “I know. I don't know where it all comes from, either.”
+
+She smirked. “I better go and grab your supper. I'll be right back.”
+
+Ren nodded and changed the television channel to find something to watch while he ate.
+
+*
+
+Elise pulled out her data recovery pad and checked the download. Only another few minutes! She thought, as the tech crew set up the series of motion sensors and automatic cameras. “How's it coming along?”
+
+“Nearly finished.” One of the techs said. “This will be the most extensive mapping we've ever done.”
+
+Elise nodded. “We're not just modeling for a game character here, it's for medical research. It has to be extensive.”
+
+The tech guy nodded. “That's why we brought the extra gear.” He said and waved to the second microframe and it's additional storage. “It's not as powerful as the mainframes back at the company, but it's leaps and bounds above anything the public has.”
+
+“I assume all protocols have been set?” Elise asked. “This has to be kept under wraps, or another company might scoop it out from under us.”
+
+“Yes, ma'am.” He said and handed her the administration key on a thumb drive. “Only you and the boss have access to this data.”
+
+“Thank you.” She said, as the tech guy turned around and finished the last installation and packed everything up. Her data pad beeped and she smiled as she looked at it. Thank you, Ren! Elise thought, then turned to the tech crew. “We're finished here.”
+
+*
+
+Stella brought Ren his supper, and as he ate, they talked about what kind of testing they needed to do first.
+
+“Alpha testing is usually the hardest part.”
+
+Ren raised a single eyebrow. “It's not beta testing?”
+
+Stella shook her head. “Preliminary tests are always alpha. We need a baseline of stats before starting the beta phase.”
+
+“Do I have to call you co-director or something?” Ren asked.
+
+“When I order you to, yes.” Stella said and grinned.
+
+Ren laughed and then finished his meal. Stella moved the tray out of the way and smiled.
+
+“Get some sleep.” She said. “With the way you're going, you'll have that Keep fixed up in no time.”
+
+“Ha!” Ren said. “If I skimp on how I want to do it, it'll still take me about a hundred days.”
+
+Stella frowned. “Why so long?”
+
+“The Keep is about half a mile down, Stella. 260 floors worth.”
+
+“Why did they go so deep?” She asked.
+
+“Because they could, I guess.”
+
+Stella chuckled. “Well, good luck with that.” She said and helped him put on the VR headset.
+
+“Bye, Stella.” Ren said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the game and Nathalia was sound asleep beside him. He slid under the covers, and was tempted to snuggle up to her, but he didn't want to wake her up. So, he laid down as close to her as he could and went to sleep. About 2 hours later, he felt a hand on his chest and he opened his eyes.
+
+“Hey, beautiful.”
+
+“Hi.” Nathalia said. “How long have you been back?”
+
+“About 2 hours, I think.”
+
+“Why didn't you wake me?”
+
+Ren smiled. “I wanted to snuggle with you, but you were sound asleep. I didn't want to be so selfish.”
+
+Nathalia slid close to him and snuggled. “Apparently, I'm that selfish.” She said and laughed.
+
+“I'm glad.” Ren said and grinned. “Making you happy is one of the greatest joys that I have.”
+
+Nathalia gave him a kiss and rested her head on his chest. “You're too good to me.”
+
+“That's my job.” Ren said and stroked her shoulder. “Goodnight, My Love.”
+
+“Goodnight, my Sweet Prince.”
+
+They both drifted back to sleep a few minutes later.
+
+*
+
+The Commander of the Garrison was not a happy man. He looked at the crumpled up parchment and scowled. “Rotten piece of...” The Commander stopped what he was about to say and sighed, then took out a piece of parchment and wrote up the order. He folded it up, opened a drawer in his desk, and touched the Sending Stone inside.
+
+“I need a runner.”
+
+Two minutes later, there was a knock on his office door.
+
+“Come.”
+
+The door opened and a thin dwarf entered.
+
+“Take this to the Brig.”
+
+The thin dwarf took the folded parchment and shut the office door when he left.
+
+“I really hate complications.” The Commander said and leaned back in his chair.
+
+*
+
+The runner made it to the Brig only 2 minutes later and knocked. He handed the parchment to the Warrior that answered the door, then took off running. The Warrior shut the door, went through the inside door, and passed it to the guard sitting at his desk. The guard unfolded it, read it, and scowled.
+
+“I didn't think I'd see him again.” The guard said and stood up to go to the door. He opened it and looked outside. “Maldir! Darohm!” He said, and the two dwarfs stood. The guard waved the parchment. “Can you guess where you're going?”
+
+*
+
+Two hours later, there was a loud banging on the House Neram gate. Since it had been repaired, it was quite loud and rang throughout the house. Ren woke instantly, slid out of bed, and equipped his clothes and cloak.
+
+Teepo! Ren thought and Teepo fell into the hood as Ren entered the hallway. He ran to the front door, opened it and went into the courtyard, then picked Teepo up and tossed him into the air.
+
+“It's the 2 warriors that came to get you that first time.”
+
+Dammit, they're early. Ren thought and went to the gate, but didn't open it. “State your business.” Ren said, knowing full well why they were there.
+
+“We're here to arrest Ren Neram.” Maldir said.
+
+Ren grinned. “You'll have to wait for a few minutes.”
+
+“We know it's you, so open the door.” Darohm said.
+
+“I've got to tell my family where I'm going.” Ren said. “Be right back.” He ran back into the house.
+
+*
+
+“Wait!” Maldir said and looked at Darohm. “He's gone, isn't he?”
+
+“Do you mean completely? As in he left, or he just went back inside?”
+
+“Both.”
+
+“Inside is my guess. We'd hear anything else.”
+
+Maldir crossed his arms to wait.
+
+*
+
+Ren walked into the hallway and saw Nathalia and her mother were standing there, waiting for him.
+
+“What is it?” Nathalia asked.
+
+“I'm being arrested.” Ren said.
+
+“For what?”
+
+He looked at Narhilda, and she sighed. “You've been waiting for this, haven't you?”
+
+Ren smiled. “I'd hoped I'd have a bit more time, though.” He turned into the main room, and went to the kitchen. He gathered enough food for a week, just in case. He could try training his Staying Power, but he wanted to keep his Health full, and he knew he wouldn't get what he needed to survive where he was going. Nathalia and Narhilda came into the kitchen behind him.
+
+“What do we do?” Nathalia asked. Ren finished storing the food he needed and turned to her.
+
+“You should feed Princess twice a day, and make sure Ruck comes out of his cabinet once a day. He's a bit of a hermit.”
+
+Nathalia sighed. “I meant about you!”
+
+Ren chuckled. “My Love, I'm going to be fine.” He said and then turned to her mother, Narhilda. “You, on the other hand, need to file a document with the Hall Of Records for me.”
+
+“Of course!” Narhilda said.
+
+Ren took out a piece of parchment, wrote out a few things, and passed it to her. She read it and stared at him.
+
+“Ren, you can't!” Narhilda exclaimed in surprise.
+
+“Yes, I can.”
+
+“But...”
+
+Ren went to her and took her into a hug. “Please, file it before they can stop it.”
+
+Narhilda nodded slightly, and ran into the old bedroom to use the Sending Stone there.
+
+“What are you doing?” Nathalia said.
+
+“Making sure that I get my say.”
+
+“Ren... you... you shouldn't...”
+
+“I've got no choice.” Ren gave her a passionate kiss.
+
+“I'm going to miss seeing you every time I open my eyes.” Nathalia said.
+
+“I won't be gone long. Maybe a week, depending on when my request gets noticed.”
+
+“I miss you already.” She said.
+
+Ren cupped the side of her face. “Don't worry.” He said. “I'm always by your side.”
+
+Nathalia hugged him and Narhilda came out of the bedroom. “Okay, it's been submitted.”
+
+“Thank you.” Ren said and looked at Nathalia. “I'll try to call you when I get there.”
+
+“W-what?” She said, surprised. Ren lifted his hand and wagged the finger with the Sending Ring.
+
+“I'm not going to go for that long without hearing your sweet and tender voice.”
+
+Nathalia smiled. “I forgot all about that.”
+
+Ren grinned. “Now who's getting forgetful?”
+
+There was another loud bang at the gate, and Ren sighed. “I've spent too much time saying goodbye, apparently.” He hugged and kissed Nathalia, and then kissed her mother on the cheek. “I'll see you soon.”
+
+“Goodbye, Ren.” Narhilda said.
+
+Nathalia walked Ren to the front door. “Goodbye, My Love.” She said and kissed him again.
+
+“Goodbye, My Love.” Ren said, concentrated on his Dire Wolf Hooded Cloak's Fear Aura, and used Connection to activate his Screaming Terror Ring. He then walked over to the gate and opened it. Maldir and Darohm stood there shaking. “Sorry, guys.” Ren said and they moved away from him. “I was saying goodbye to my wife.”
+
+Ren heard Nathalia take in a deep breath, and he shut the gate as he left. Ren looked around. “What? No cart?”
+
+Maldir looked at him like he was crazy. “There hasn't been a cart available to rent for a week. They're all off doing something, somewhere.”
+
+Ren laughed. If you'd waited until daylight, you'd know where they all are.
+
+The trio walked down the road and back to the main part of the city. Ren kept making a new Connection between his Fear Aura and his Screaming Terror ring. They took the corner to go out towards the Garrison. It took a while, since they were walking, but Ren didn't mind. He'd be spending more time locked up than he wanted to; but it couldn't be helped, so he didn't complain about spending more time outdoors.
+
+“We'll be out soon.” Teepo said.
+
+What's this 'we'?  Ren thought with amusement. You can leave whenever you want!
+
+“I could, but where's the fun in that?” Teepo chittered in laughter. “You know, you could take off running and beat them to the Garrison.”
+
+Assuming they don't use their weapons on me, you mean. Ren thought. I think running from an arrest is considered 'fleeing'.
+
+“They'd never catch you.”
+
+Ren snorted a laugh, and the two Warriors looked at him. He shook his head and they looked away.
+
+It's tempting, I'll admit. Ren thought with amusement.  But it's better for me to just go with it.
+
+“Okay.” Teepo said. “You always have the option, though.”
+
+They approached the gate to the Garrison and they had to stop, so the guards could check Ren for weapons. When he approached, Ren made another Connection to his Screaming Terror ring and the guard froze.
+
+“Go ahead.” Ren said. “Check me for weapons.”
+
+“Just let us through.” Maldir said. “He's going in the hole anyways.”
+
+The guard's eyes widened. “That's a first.” He said and stepped back. “A Prince going in the Hole.”
+
+The other guard waved them through and the trio went into the Garrison, and followed the pattern to the Brig. When they entered the area for it, Ren got a popup.
+
+Stat Change!
+
+Aura (Dire Wolf Hooded Cloak) Level 5 (Beginner 0%)
+
+Fear Level 3 (Beginner 0%)
+
+Connection Level 2 (Beginner 0%)
+
+The door to the Brig opened when they approached, and Ren switched to his Camaraderie Aura. Maldir and Darohm sighed, and followed Ren inside.
+
+“Hey, fellas.” Ren said.
+
+“Hey! You're back!” One Warrior said. “What did you do now?”
+
+“Something bad enough to send me to the Hole, apparently.”
+
+The Warrior whistled. “Good luck, man.” He said. “Goooood luck.”
+
+Ren grinned, and the second door was opened for him. “Thanks.”
+
+“I'm sorry about this.” The guard said and stood up. “I've got my orders.”
+
+Ren shrugged. “Don't worry about it.”
+
+The guard led Ren and the two Warriors to the back of the Brig, and opened the last cell with a key. He stepped inside and used another key in a spot on the wall, then the floor tilted down into a ramp.
+
+Teepo!
+
+Teepo hopped out of the hood and skittered down the ramp. The guard motioned for Ren to follow, but Ren needed to stall.
+
+“How does your wife like the chairs?” Ren asked.
+
+“She can't stop talking about them!” The guard smiled. “All of her friends want to know where she got them.”
+
+Ren chuckled. “She must have said it was a secret.”
+
+The guard put a finger on the tip of his nose. “You got it in one!” He laughed. “She was pretty sad when I told her you got released.”
+
+Ren laughed, too.
+
+“All clear, Ren.” Teepo said. “It's just a big holding pen, full of dwarves.”
+
+Thanks, Teepo. Ren thought and then started to walk. The guard led them down the ramp and around the corner, to a large iron cage across the hallway. The guard opened it with yet another key, and Ren walked through it.
+
+The guard turned to Maldir and Darohm. “I've got it from here.”
+
+They nodded and went back up the ramp. The guard shut the cage door and Ren followed him down the rest of the hallway and to another door. Ren couldn't tell if it was the same key as the first one, but since it was just a door, he assumed it was.
+
+“I really am sorry.” The guard said as he opened the door. “Watch your back.”
+
+Ren nodded slightly and entered the room. It was a small room, with one of the walls missing. A Warrior stood there, dressed in the same half-plate armor Ren had seen before. He waved Ren towards the opening and Ren walked over to it, and stopped. There was a 100 foot by 100 foot square room dug out of the ground, and if Ren's guess was right, there was about 300 dwarves in it. A 5 foot wide walkway was around the top edge, with Warriors spaced every 20 feet.
+
+Teepo, you didn't say there was a fighting ring here! Ren thought.
+
+“Surprise!” Teepo chittered in delight.
+
+Teepo! My Trouble Recipe!
+
+“Yeah, I told you it was a holding pen.” Teepo said.
+
+Ren sighed. I'll have to put on a show now.
+
+A really fat dwarf sat behind a desk in a similar room across the Hole, and everyone turned to him as he spoke. “A new contestant has been chosen! Now taking bets!” He hollered and laughed. “The tall blonde is unknown and unproven! 10 to 1 odds against!”
+
+Ren looked at him. “Against what?” He hollered back.
+
+“That you make it to the ring!”
+
+“I'll take that bet!” Ren hollered. “A platinum for me reaching it!”
+
+The fat dwarf laughed again. “You'd need to present actual money, not a fantas-By the GODS!” He exclaimed as Ren held up a shiny platinum coin. The entire place fell silent as every pair of eyes turned to the fat dwarf for a moment, and then over to look at Ren's hand. Chatter soon started, mostly about if it was real or not, and Ren smiled.
+
+“Oh, it's real!” Ren said and put the coin away, then took out two handfuls of gold. “Is this better?”
+
+A near riot broke out at the sight of all the gold Ren had in his hands, and the Warriors rattled their poleaxes on the floor. The dwarves in the room settled down and the fat dwarf's face was turning purple.
+
+I can't cover that bet! He thought, and looked around at the Warriors. An evil thought crossed his mind and he smiled. “Unproven contestants can't bet!” He said. “You need to get to the ring first.”
+
+“You can't cover the bet, can you?” Ren said and grinned. “How will that change when I bet on myself winning my first match?”
+
+All the dwarves looked at the fat dwarf, including a lot of the Warriors. The fat dwarf's face turned purple again. Dammit, I can't reply or they'll know it's a lie! He thought furiously for a minute, then made a decision. “Confiscate his coin pouch.” The fat dwarf said to the Warriors. “Don't just stand there! Do it!”
+
+Ren switched his Camaraderie Aura to his cloak's Fear Aura, then used Connection to activate his Screaming Terror ring. Nearly all the dwarves near the edge of the room moved away from Ren, and stopped right at the 25 foot mark of Ren's Aura.
+
+“If anyone tries to steal my money, I will kill them.” Ren said, scanning the crowd, then looked right at the fat dwarf. “Then I might kill you for ordering it.”
+
+Ren saw a slight nod from the fat dwarf and heard the Warrior come up behind him.
+
+“Wait... wait...” Teepo said. “Duck!”
+
+Ren ducked and the end of the poleaxe swept across the space where Ren's head was, and Ren turned around. He punched the Warrior with all of his strength in the side of the chest. The Warrior grunted, grasped his side, and dropped the weapon. The punch had taken half of the Warrior's Health Bar. The poleaxe clattered to the floor, and everyone thought Ren would grab for it; Ren had another idea, however.
+
+“What did I JUST SAY?” He yelled, grabbed the Warrior by the head, and pulled it down to smash the Warrior's face with a knee, taking another quarter of his Health bar. The Warrior grabbed his own face with both hands because of the pain, and stood up straight. Ren grasped the Warrior by the neck with a single hand.
+
+“You dishonor your profession!” Ren said. “So I'm only a little sorry I have to do this.” He used Iron Grip and crushed the Warrior's neck, snapping it. A hush fell over the spectators as Ren easily held the body at arm's length. He unhooked the half-plate mail and let it fall to the floor, then removed every weapon he could find. Ren then grabbed the man's coin pouch, tore it from the inert body, and dropped the coin pouch on the floor as well. He used his free hand to grab the body by the top of it's pants, and picked it up to hoist over his head. Ren lightly tossed the body down into the 100 foot square room, and it landed at the edge of the 25 foot space his Aura had made in the crowd.
+
+Notice!
+
+You have gained Influence: +100
+
+Ren pointed at the fat dwarf and yelled. “Who are YOU to steal MY MONEY?!?”
+
+“GET HIM!” The fat dwarf ordered the Warriors around him, but none of them moved. “I said get him! GET HIM!”
+
+“He defended himself from a sneak attack.” One Warrior said. “It was dishonorable to attack like that, especially with a weapon.”
+
+“Agreed.” Another said. “The intention was to steal, and possibly kill.”
+
+“The newcomer kept his word.” Another one said. “He has Honor.”
+
+“He stripped the body before putting it into the Hole...” One close to the opening said. “...keeping the weapons and armor out of the hands of the prisoners.”
+
+“He might keep them himself, though.” Another said, and all of the Warriors looked at Ren, to see him as he kicked the items back towards the doorway he'd entered. Ren then jumped down the 10 feet to the Hole's floor easily, and his Dire Wolf Hooded Cloak fluttered behind him.
+
+“He didn't give himself an unfair advantage over the others. He's kept it fair.” One Warrior said, and Ren looked at him. His Armor was more ornate than normal, and Ren assumed he must be the senior guard. “Quite Honorable.”
+
+Notice!
+
+You have gained Honor: +10
+
+Ren smiled and kept using Connection to activate his Screaming Terror ring and combine with his Fear Aura. All the dwarves cleared the 25 foot area around him, and Ren easily walked to the center of the room to the 20 foot square ring dug into the floor, then looked at the fat dwarf.
+
+“Now what?” Ren asked him. “What are you changing the odds to? It was 10 to 1 before, and you couldn't cover it. Will it be 5 to 1? 1 to 2? 1 to 10? How will you try to get my money now?”
+
+No one spoke as the fat dwarf's face turned purple from rage.
+
+“Bring in the next opponent!” The fat dwarf yelled.
+
+The dwarves around the ring parted and a slumped over dwarf, nearly as tall as Ren, moved towards the ring, then stopped at the 25 foot mark because of Ren's Aura. Ren nodded slightly to him and let the Connection to the ring end. The dwarves crowed around the 20 foot square ring and the big dwarf stepped into it. Everyone looked back at the fat dwarf, and waited for what he was going to say.
+
+“First fight of the newcomer.” The fat dwarf said, then sighed. “Odds are 1 to 5.”
+
+Most of the dwarves laughed as Ren's prediction came true. The big dwarf that Ren was going to fight scowled.
+
+“I'm supposed to be the one to beat.” He grunted.
+
+Ren looked at the fat dwarf in the room above the Hole. “A platinum on the big guy.” He said and pointed to his opponent. The crowd stopped laughing and looked at the fat dwarf.
+
+“You have to win your first fight to bet.” The fat dwarf said. An uproar from the dwarves in the Hole had the Warriors banging their poleaxes to call for quiet.
+
+“Okay.” Ren turned to the big dwarf in the ring. “10 gold coins to concede, right now.”
+
+“Agreed.” The big guy said and Ren handed him the money. “I concede.” He said, and no one spoke as the big dwarf stepped out of the ring.
+
+The fat dwarf rolled out of his chair. “Next opponent!”
+
+A little squirt of a dwarf stepped bravely into the ring. Everyone looked at the fat dwarf, to find out the odds.
+
+“Odds are 1 to 2.”
+
+Everyone looked at Ren. “A platinum for him to win.” Ren said, and pointed to his opponent.
+
+“Not accepted.” The fat dwarf said. “You didn't fight yet.”
+
+The crowd of dwarves let another uproar escape and the Warriors didn't try to calm them down this time.
+
+“ANY OTHER BETS?” The fat dwarf yelled. When no one spoke, he sighed. “Fight.”
+
+“I concede.” Ren said, and the dwarves laughed. His opponent stared at the Warrior next to the fat dwarf as he tossed a gold coin near his feet.
+
+“He won. The House always pays a gold for winning when there's no bets.” The Warrior said over the fat dwarf's protests, then tossed one to Ren as well for his previous win.
+
+“NEXT OPPONENT!” The fat dwarf said, and Ren switched from his Fear Aura to Camaraderie Aura then stepped out of the ring. Another dwarf stepped into the ring to fight the little guy, and the crowd yelled and hollered encouragement. The fat dwarf smiled. “Odds are 2 to 5”
+
+“5 platinum on the big guy, and 10 platinum on the little guy.” Ren yelled. Everyone was quiet as the fat dwarf's face turned purple again.
+
+“NOT ACCEPTED!” The fat dwarf hollered so loudly that he popped the top button on his tunic. “BE QUIET!” The fat dwarf sat back in his chair and took several breaths. “Any other bets?”
+
+“Yes.” Ren said. “Everyone else here bets a single gold coin on the big guy, and 2 gold coins on the little guy.” All the dwarves stared at him, as he continued. “They've all just accepted a temporary loan from me for it.”
+
+“AGREED!” They all said together.
+
+“But... but...” The fat dwarf stammered. “I can't...”
+
+The Warrior looked at Ren and nodded slightly. Ren stepped forward and gave the Warrior 9 platinum to cover the bets.
+
+“Any... other... bets...” The fat dwarf said. “Fight.”
+
+“I concede.” The big guy said, and everyone cheered. The Warrior started to hand out the winnings to everyone, and the fat dwarf sat there in silence. Each and every dwarf came over to Ren and handed him 2 gold coins of the 5 they'd received for winning the bet. They nodded and thanked him for the loan, and Ren dismissed all the Honor gain popups. At the end, he'd gained another 3000 Honor and was now considered an Honorable Prince.
+
+“You... you've ruined me...” The fat dwarf said and slumped down in his seat.
+
+“I was tempted to kill you for trying to rob me.” Ren said. “When you wouldn't accept any of my bets, though...” He grinned. “...I figured letting all these men that you've been scamming, win your money instead.”
+
+The fat dwarf sighed and looked around at the Hole, what he thought as his domain, and stood. He waddled around the big chair and to the big door behind it. A Warrior opened the door and the fat dwarf turned sideways to get through it. Once he was gone, all the dwarves looked around at each other.
+
+“What do we do now?” One of them asked. “All we do here is fight.”
+
+Ren started to laugh and some of them looked at him.
+
+“Why are you laughing?” Another dwarf asked.
+
+“I didn't do this to stop the fighting.” Ren said. “I did it to stop that guy from taking any more money from you.”
+
+“So what do we do?” He asked. “The fat guy usually took care of it all.”
+
+“I'd say you can keep doing that, but I have a better idea.” Ren smiled. “Why not have a tournament?”

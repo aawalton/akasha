@@ -1,0 +1,447 @@
+---
+id: 5ad3148c-a71c-5b45-aeb3-90feff9628b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 217 - Real Life? No Problem"
+slug: 0205-chapter-217-real-life-no-problem
+partOf: mythrans-master-of-all-continued-completed
+position: 205
+ownLength: 5119
+unit: words
+publishedAt: 2017-04-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128449/chapter-217-real-life-no-problem"
+royalRoadId: "128449"
+---
+
+Ren laid there in the bed and waited for the VR headset to be removed. He couldn't do it himself because his arms were still secured to the bed. He couldn't wait for the IV needles to be removed, no matter how much his body needed them to flush out his system. The headset was removed, and Barbara smiled sadly at him.
+
+“Oh, Ren.” Barbara said as she put the headset aside. “I'm so sorry.”
+
+Ren sighed. “I was so close.” He shook his head. “All that loot...”
+
+“Maybe it'll still be there when you go back in.” Barbara said, and Ren laughed.
+
+“I don't think so.” He said. “If I was the Commander, I'd have several squads in there to clean the place out before any other giants show up.”
+
+“What about your body?” Barbara asked. “What happens to that?”
+
+Ren's eyes widened. “Oh, crap.” He said. “Barbara, slap my forehead, will you? I'm so stupid!”
+
+“What is it?”
+
+“I should have transferred a lot more to Princess, besides the Deed to the Garrison.” Ren said. “I'm going to lose 5% of my money, something that I have in inventory, and a random equipped item.”
+
+Barbara thought about it. “Oh, no.”
+
+“Yeah.” Ren said. “My inventory is close to full. Anything that I have can drop.” He shook his head again. “Hell, out of the stuff I have equipped... I could lose Teepo's ring!”
+
+Barbara put a hand on his forehead and tapped it with a finger. “There. You've chastised yourself enough.”
+
+“All right.” Ren said. “I'll worry about what I lost when I go back in.”
+
+“Good!” Barbara said, then grinned at him. “I'm so glad to see you awake!”
+
+“Me, too.” Ren said. “I can't believe that happened to me.”
+
+“Me, either.” Barbara said, and it was her turn to shake her head. “Doctor Hobbard has been taking care of you right from the start.”
+
+“I know.” Ren said and closed his eyes. “It took almost a year for me to trust him enough to not scream at him every time he examined me.”
+
+Barbara nodded. “Well, at least it's all out in the open now.” She smiled. “On a different note, I watched the second episode of the show. It was great!”
+
+“The show?”
+
+“Don't be coy! Your show!”
+
+“Oh.” Ren said. “Right. I missed it.”
+
+“The studio sent over a copy, if you want to watch it after therapy and breakfast.”
+
+“Therapy?”
+
+Barbara chuckled. “You've been immobile in the bed for a week. You need to exercise!”
+
+Ren looked down at the two IVs in his arms. “Um, I can't really move right now.”
+
+“I don't think you have to worry about that much longer.” Barbara said, and his room door opened.
+
+“Hey, little trooper.” Denise said, as she came in wearing a nurse's outfit on top, and black pants on the bottom. “Guess what? Your blood work came back clean!”
+
+“YES!” Ren yelled. “Get these damn things out of me! RIGHT NOW!”
+
+Denise and Barbara laughed.
+
+“We were planning on waiting until lunchtime...” Denise said, and Ren groaned. “I'm kidding, of course.” She said and looked at Barbara. “I'll distract him and cover his eyes, can you do the honors?”
+
+“I'd be happy to.” Barbara said and got the items needed to remove the IVs safely and cleanly.
+
+“What do you mean distract...” Ren tried to say, and then stared at Denise as she stepped close.
+
+“Is it hot in here?” Denise said, and unzipped her nurse outfit to the middle of her chest. Ren blinked his eyes a few times at the sight of Denise's bra, that offered her chest up like they were on a platter.
+
+“Wh... wh...” He mumbled.
+
+Denise bent over him and ruffled his hair, and he swallowed audibly because he could see her silky mounds shift and hang down right in front of his face. If Ren had to guess, each one was about 2 handfuls in size.
+
+There was no danger of them falling out of the bra, however; because Denise had used extra tape to ensure that they wouldn't. Ren didn't know that, and his mouth formed a little 'o' of surprise because it looked like they easily would.
+
+“How are you feeling today?” Denise asked him as she put his hair back into place, and Ren sputtered something unintelligible. “That good, huh? I'm glad.”
+
+“All done.” Barbara said.
+
+“Wh... what...?” Ren blinked his eyes a few more times, and kept staring at Denise as she stood up straight and slowly zipped her top back up.
+
+“That was quite the distraction.” Barbara shook her head as she untied Ren's arms, then smiled. “He didn't even notice the ice cold cleaner from the cotton swabs.”
+
+“If I'd known the effect they'd have on him, I'd have used them sooner.” Denise said, and chuckled at Ren's surprised expression. “You can close your mouth now.” She said and smiled.
+
+Where has she been hiding them? Ren thought. I didn't think she had much of a chest. He closed his mouth. Boy, was I wrong!
+
+“Can you stick around and fill me in on what happened last night, while I get his breakfast ready?” Denise asked Barbara.
+
+“Sure.” Barbara said, and touched Ren's hand. “Don't scratch around the gauze.”
+
+“Oh, great! Now it's itchy!” Ren said, and Barbara chuckled as she left the room with Denise. Ren wasn't sure where they were going to make breakfast for him, or how; since he had no idea what existed outside of the room. He lifted an arm to scratch an itch which was right beside the gauze and the IV injection site, and his arm felt weak. Ren sighed, and moved both arms, and they were both weaker than they were last week.
+
+“Dammit.” Ren said, and sat up in bed. His elbow wasn't as sore as it was a week ago, and he wasn't wearing the sling. He laughed at himself. How would I wear a sling, with both arms tied to the bed and IV needles in them?
+
+Ren flexed his hands several times, and then pulled the rollaway table across the bed and checked his emails on the laptop.
+
+“Spam.” “Spam.” “Spam.” “Sp... Lucy?”
+
+Ren sighed as he looked at the sending date. It was from a week ago. Unable to resist her allure, Ren clicked on it.
+
+Ren,
+
+You don't know how sorry I am about the things you are going through. I know my words don't mean much; but, I really regret that I'm not there to help you get through it.
+
+I know... it's too little, too late. I saw you with that redhead. I'm not sure how she managed to work her way into your life, but you should be careful of her. It's always the quiet ones that surprise you.
+
+I was tempted to join Barbara, Stella, and Denise in leaving the hospital to take care of you, but I'm sure that you wouldn't want me around, especially considering the way things ended between us.
+
+Anyways, I hope you are feeling better.
+
+Wishing you all the best.
+
+Lucy
+
+Ren sighed. He didn't know what to do with her now. If he offered her a job, she'd at least have money coming in; but if he did that without talking to the other girls first, it could cause a lot of problems. Ren sighed again.
+
+Lucy's right. Ren thought. I don't think I want her around, and yet... I... I do want her around.
+
+Denise came in with Ren's breakfast on a tray, and saw that there were tears in his eyes.
+
+“Ren, what is it?” She asked. “Are your arms... oh.” Denise put the tray down and moved the laptop out of the way. She sat on the edge of the bed and very gently took Ren into a hug. “It's okay.”
+
+“No... no, it isn't.” Ren said, as his silent tears were absorbed by her top. “Because of me, the hospital might go bankrupt, and she'll be out of a job.”
+
+“That's not your fault.” Denise said.
+
+“But...”
+
+“It was the hospital board member and Doctor Hobbard's fault. They put the hospital at risk, not you.”
+
+“But...”
+
+“If you offered jobs to everyone that worked there, you'd be out of money faster than water going down the drain.”
+
+Ren opened his mouth to argue, then closed it. “You're right.” He said, begrudgingly.
+
+“Of course I'm right.” Denise said. “I'm always right.”
+
+Ren stopped crying and sighed. “What should I say to her?”
+
+Denise looked at the time the email was received, and smiled. “I think you already answered her.”
+
+“Wh-what?” Ren asked, as he leaned back.
+
+“Lucy sent that last week. If you haven't responded after a few days, she knows what that means.”
+
+“But... I've been unconscious all week!”
+
+Denise chuckled as she let him out of the hug. “She doesn't know that.”
+
+“She... she doesn't?”
+
+“No.” Denise said. “I specifically remember someone telling me it was none of my business, and to stay out of it.”
+
+Ren looked at her with surprise on his face. “I'm sorry about that.”
+
+“That's okay.” Denise said. “It really isn't my business; but, my job is to take care of you. That should include your emotional wellness, too.”
+
+“I... I know.” Ren said. “I just... Lucy is a sore spot for me.”
+
+“Like I don't know that.” Denise said, then looked down at her top. “If I didn't, there's the proof.”
+
+Ren looked at her top, and saw two 3 inch wide wet spots on her top. They were right above her right breast, and Ren tried to wipe them off to dry them.
+
+“I'm so sorry!” Ren said, and rubbed the spots with his hand. His bare fingers weren't doing anything to it, so he looked at the food tray and picked up the large paper napkin. Ren pressed the napkin to her top, dabbed the spots a few times, then rubbed it back and forth slowly. “I didn't realize I let so many tears out.”
+
+“That's... all right.” Denise said, her face flushed a little red. Ren was inadvertently massaging her breast, since it was so pushed up because of the bra. She wasn't sure what do to about it, though. The cloth of the uniform wasn't rough on her skin, and because it was Ren doing it and he was being so innocent about the situation, she wasn't sure she wanted it to stop.
+
+Oh, Lucy. Denise thought. How did you mess things up with him? You could have had so much fun, and he doesn't have a clue what he's actually doing!
+
+“Damn, it's not drying.” Ren said absently, and pressed harder with the napkin into the soft flesh of Denise's breast through the uniform. “Maybe if there was a piece of napkin on the other side, it would soak it up?”
+
+“Okay, let's try that.” Denise smiled and unzipped her top down to the middle of her chest again. Ren unfolded the napkin and tore it in half, then tucked his hand into her shirt. He held the piece of napkin against the back side of the cloth, and rubbed the still wet spot that was closest to the opening, with the other half of the napkin on the outside.
+
+Denise tried not to laugh as the back of his hand rested on her breast, and his rubbing motion on the outside jiggled the flesh. The more he rubbed, the more she jiggled, and the more of his hand that touched her. His hand was warm, and since she knew he was completely oblivious, it got her motor running. She started to get a warm feeling in her abdomen, and she took a deep breath. It pressed a huge amount of flesh against his hand and part of his arm, and Ren still didn't have a clue.
+
+“So, are we watching the next episode after your therapy or...” Barbara said as she came back into the room. “Ren... what are you doing?”
+
+“I got an email from... from Lucy.” Ren said. “Denise gave me a hug and held me.” He checked his handiwork. “Yes! It's getting drier!” He said happily, and kept dabbing and rubbing. “I... cried... on her shoulder and got her top wet.” He said, a little embarrassed. “Now I'm trying to dry it off.”
+
+“I think Denise can handle that by herself.” Barbara said.
+
+“It's okay.” Denise said, her face still flushed a little red. “He's almost done.” The warm feeling deep down spread a little, and she sighed as Ren took out the napkin from inside her shirt, folded it over, and put it back inside her shirt to reach the wet spot further in. Ren kept working, and Barbara stood there and watched as he dried the next spot as well.
+
+“There! I think I got as much as I can.” Ren said, and moved his head from side to side, to see if the light could catch the wet spots. You could still see a slight outline, but he didn't think he could remove it completely with just napkins. He nodded, and pulled his hand with the piece of napkin out from inside Denise's shirt.
+
+No wonder Stella enjoys teasing you so much. Denise thought, and slowly zipped up her top again. “Thank you, Ren.”
+
+“You're welcome.” Ren said, and smiled at her. He always liked helping when he could. Barbara shook her head and tried not to laugh.
+
+“You'd better eat fast. The physical therapist isn't going to wait all day, you know.” Barbara said.
+
+“Oh, right!” Ren said, and turned to his breakfast tray. He ate quickly, and when he was done, he looked at the two pieces of napkin. He shrugged, folded them over the other way, and wiped his mouth off with them, then his hands.
+
+“Okay, I'm done.” Ren said, and Denise took the tray and stood up.
+
+“Barbara, why don't you take him to therapy? It's just next door. I'll deal with this.” Denise said and motioned with the tray.
+
+“Okay.” Barbara pulled over the wheelchair and locked the wheels. “Now take it easy.” Barbara said, and helped Ren climb out of bed by holding his chest. Grabbing him by the arms with all the healing bruises was not a good idea. “You haven't used your muscles like this in a week.”
+
+“I know.” Ren said. “I had a hard time scratching my arm... ah, I mean my butt.”
+
+“Don't make me laugh when I'm trying to lift you!” Barbara said and laughed anyways. “I'll lose all my strength!”
+
+Ren laughed and slid off the bed and onto his legs. Barbara had been right. Moving the legs in bed was one thing; but, putting his weight on them was a whole different story.
+
+“Damn, I've got a lot of catching up to do.” Ren said, and stood up straight. He took a deep breath, and took a step, then another, and Barbara guided him to turn around and he sat down in the wheelchair.
+
+“That's the spirit!” Barbara said, and wheeled him out of the room.
+
+*
+
+Denise sat down on the bed again, and shook her head as she looked at the crumpled napkins. He's still completely oblivious. She thought. He just rubbed his face on a napkin that was on my chest. She sighed, disappointed in herself. I definitely could have had a lot more fun if I'd known he was so clueless!
+
+*
+
+Ren did his physical therapy routine with a different physical therapist. It was a muscular man, and Ren cringed every time the guy touched him to correct his movements. By the time the session was over, Ren was both stressed out and exhausted. He was shaking slightly as he sat in the wheelchair, and Barbara wheeled him back to his room next door.
+
+“How did it...” Denise started to say, then gave Ren another hug. “I told him not to touch you.”
+
+“Well, that didn't work.” Ren said, as he trembled. “Barbara told him that, too.”
+
+“A few times.” Barbara said. “He didn't listen, and said he was a physical therapist and had to be physical.”
+
+“Dammit.” Denise said. “I was worried the things we told him were going right over his head.”
+
+“I think it was more like 'in one ear, and out the other'.” Barbara commented, and Denise nodded.
+
+“Do you feel up to a shower or a bath today?” Denise asked Ren.
+
+“I... I don't know.” Ren said. “I feel really weak. I know I can't stand up long enough for a shower, though.” He shook his head. “Not after that.” He trembled again.
+
+“I'll run a bath.” Denise said, and went to the bathroom. Water started running, and she came back out. “It will only be a few minutes to get enough water to sit in.”
+
+Ren looked at Barbara. “Um... it's not that I'm complaining or anything.” He said. “But, why are you still here?”
+
+Barbara chuckled. “We scheduled overlapping shifts, just in case you needed an extra hand or two.”
+
+Ren reached out a hand, and she took it. “Thanks.”
+
+“It's no trouble.” Barbara said, and Ren shook his head.
+
+“It has to be.” Ren said. “When do you sleep? Are you super-woman or something?”
+
+Barbara laughed. “No, I'm not super-woman. An extra hour here and there isn't much.”
+
+“It is when it's every day.” Ren said. “I don't know how you do it.” He looked at Denise. “I don't know how any of you do it.”
+
+*
+
+Elise Stanford, the secretary at Sid Tec, sat at her kitchen table and ate breakfast while she reviewed the footage of Ren's activity after she had left the evening before. She used the time lapse option, and sped forward until now.
+
+He stayed in the game the whole time, until this morning. Elise thought. I can't wait to see what he's been up to!
+
+Her tablet beeped and she looked at the size of the files from the download of game footage.
+
+He was awake the whole time? She thought in surprise. What in the world was he doing?
+
+Elise hit play, and even on 8x the speed, her eyes widened as she watched Ren rescue someone from a giant. He did not just... She stopped it, put it to normal speed, then played the giant rescue scene again. Oh, my god!
+
+*
+
+Ren sat in the bathtub, covered in bubbles. “Oh, come on!” He said, as Denise passed him a rubber ducky.
+
+“Go ahead and squeeze it! It quacks!” Denise said, and laughed at his petulant expression.
+
+“You know, if someone is supposed to be having fun in the bath, it should be me.” Ren said.
+
+“I have half a mind to take your picture.” Denise teased.
+
+“Don't you dare!”
+
+“Too late!” Barbara said from the doorway, with a digital camera in her hand.
+
+“Barbara, no!” Ren said, with a shocked look on his face.
+
+“That's perfect!” She said and took the picture. “Denise, come and look at this.”
+
+Denise walked over to the doorway, and Barbara showed her the couple of pictures. “You're right, Barbara. That last one was perfect. You even got the rubber ducky!”
+
+“You are horrible, horrible people.” Ren said indignantly, and the two women laughed. Barbara came over to him and gave him a kiss on the forehead.
+
+“We love you, too.” Barbara said, and Ren blushed a little. “I have to go, though. My shift is over, so I'll see you tonight.”
+
+“Bye, Barbara.” Ren said, and she turned to leave. “You better delete those pictures, or I'll never forgive you!”
+
+Barbara laughed and said goodbye to Denise, then left the bathroom. Ren heard his room's door shut a moment later, and looked at Denise.
+
+“I think Stella is a bad influence on the two of you.” Ren said, and Denise smiled.
+
+“I think that would depend on what you think is 'bad'.” Denise said, and walked over to the tub.
+
+“Taking compromising photos of me, definitely counts as bad.”
+
+Denise laughed and unzipped her top. She took it off and laid it on the towel rack. Ren's eyes widened as he got the full view of her bra, and the magic that it was performing quite well.
+
+“Wh-what are you doing?” Ren asked her as she came over to the tub.
+
+“You saw what a few wet tears did to the fabric.” Denise said. “Can you imagine what soap suds and bubbles would do to it?”
+
+“But... but...”
+
+Denise half-bent over and knelt by the tub, giving Ren an unobstructed view. “But what?”
+
+“You're... ah...”
+
+“Exposed?”
+
+“Yeah.”
+
+“They're just breasts.” Denise said as she picked up a sponge and lathered it up. “Every woman has them.”
+
+“That's true; but, not every woman is in the bathroom with me.” Ren countered.
+
+“It's okay if you see them.” Denise responded, and blushed a little as she started to scrub his back.
+
+“Now I know that's not true.” Ren said, as he leaned forward to let her scrub his lower back.
+
+“Why's that?” Denise asked, motioned for him to lean back, and gently scrubbed his arms.
+
+Ren felt a little bold with his next statement. “You wouldn't be wearing the bra, otherwise.” He said. “It's going to get wet. What are you going to wear under your top afterwards?”
+
+Denise stopped scrubbing his arms, and he looked at her.
+
+“Are you asking me to take off my bra?” Denise asked him, surprised he would be so bold. I thought he was clueless.
+
+“No, I'm just arguing what you said; that it was okay for me to see your chest.” Ren said as he dipped his arms into the water to rinse them off. “If it was actually okay, you wouldn't need the bra.” He said, and took the sponge from her hand. He lathered it up and tried to scrub his legs, but his arms were still too weak to do a good job. “Dammit, I hate feeling so helpless.”
+
+“Let me do that.” Denise said, and took the sponge from him. When he looked back at her, he saw that she wasn't wearing the bra anymore.
+
+“Whoa.” Ren said, and looked at her. There were red marks beside the tips of her breasts, where she'd had several pieces of double-sided tape to keep her secured in the bra. “Doesn't that hurt?”
+
+“Yes, it does.” Denise said. Ren dipped his hand into the warm water, and scooped up some of the bubbles. He gently applied those bubbles to her breasts, and concentrated on not hurting her further. He slowly traced the rectangular red marks on each side of the tips of her breasts, then spread the bubbles across them. Denise closed her eyes as he gave her breasts a soft caress with his bubble-covered hands.
+
+“You hurt yourself for me, didn't you?” Ren asked her.
+
+Denise nodded with her eyes still closed. “I had hoped your blood work would come clean, and wanted to give you a little show to distract you.”
+
+“Little?” Ren smiled as he cupped one of her breasts with both of his hands. He had been right. They were just over two handfuls in size. “I always thought you had a small chest, until I saw you today.” He said and cupped the other breast, just to say that he had touched both; then he let her go. “My first thought was, where have you been hiding them?”
+
+Denise opened her eyes and laughed, and her breasts jiggled. “It's a clothing issue.” She explained. “My rib cage is bigger than normal, which makes my actual bust size that much larger. Either I have to buy the next larger size of top, or I have to strap the girls down.” She smiled. “Both options make it look like I have almost no chest.”
+
+Ren looked at her with concern on his face. “I'm sorry you have to do that.”
+
+“It's okay.” Denise said, and started to scrub his legs. “I've gotten used to it.”
+
+Ren shook his head. “You shouldn't have to get used to something like that.” He said. “I've made stuff in the game for women, and they're beyond relieved when they get something that actually fits them.”
+
+“It's a great feeling.” Denise said. “I haven't had anything fit properly in years.”
+
+“Then that's going to change.” Ren said, as Denise scrubbed his chest.
+
+“What do you mean?” She asked.
+
+“I've got all this money now. Money I'm actually earning, and not just given to me because I'm like this.” Ren said, and motioned to himself. “I know a great clothing store. They do alterations right there.”
+
+“Wh-what?”
+
+“It's where I bought all my nice pajama sets. The least I can do is have them make you a few things.”
+
+“Ren, I...” Denise lathered up the sponge, handed it to him, and motioned to his lower area. “Can you finish yourself?”
+
+“Sure.” Ren said, and scrubbed himself. It didn't take much effort, and since it was under the water already, it would rinse off when he stood up. “All done.”
+
+Denise grabbed one of the big towels and laid it on the tub's edge. Ren eased into a standing position with her help, then sat down on the towel. She grabbed another towel and dried his upper body off, then he turned around and took his feet out of the water and put them on the floor.
+
+“Ooo, that's cold!” Ren said, as his bare feet touched the tiled floor. He lifted his feet up, but he started to shiver anyways. Denise wrapped the towel around him, and held him so he wouldn't fall. “Thanks.”
+
+“You're welcome.” Denise said, then finished drying him off. She grabbed his socks and slipped them on his feet, and he put his feet on the floor.
+
+“I am definitely going to miss the heated floor in my old bathroom.” Ren said, and shivered again. “I hope they can do it again in the new place.”
+
+“In the WHAT?” Denise asked in surprise.
+
+“I guess Stella didn't tell you yet.” Ren said, and explained about wanting to buy a place of his own. Denise stared at him as he went on about wanting to hire the same crew that had renovated the room in the hospital.
+
+*
+
+Elise showed up at work right on time, even though she'd watched a lot of what Ren had done during the last couple of game days. Once at her desk, her daily routine kicked in and she did everything automatically. She couldn't wait until her lunch break, so she could keep watching.
+
+He's so brave! Elise thought as she sorted emails and took calls. Fighting giants 5 times his size like that! She shivered in pleasure as she thought about how strong and brave he had become in the game. He's come so far in so short a time. She thought proudly.
+
+*
+
+Denise helped him finish getting dressed in the red pajama set, and Ren got back into bed. He looked at the VR headset and sighed.
+
+“I can't even log in to get extra sleep.” Ren said, disappointed.
+
+“I can't believe you want to go back in after getting stepped on.” Denise said and smiled.
+
+“I was fighting giants.” Ren said and smiled back at her. “It was always a possibility.”
+
+“I don't know how you can be so nonchalant about that.” Denise shook her head. “At least you're going to leave that area soon.”
+
+“Yeah, in three weeks.” Ren said. “Real time, that is.”
+
+“Well, you'll just have to sleep in real time for today.” Denise said, and fluffed his hair a little. “Go ahead and take a nap. I'll wake you for lunch.”
+
+“Thanks.” Ren said, then yawned. “I'm exhausted.”
+
+Denise smiled, and started singing in a soft voice, barely above a whisper. “Then close your eyes... and go to sleep... sweeeet little angel...”
+
+Ren closed his eyes, and listened to her voice.
+
+“Never fear... I'm always near... love is neeeeever accidental...”
+
+Ren smiled at that, then drifted off to sleep.
+
+*
+
+Gloria loved her new pet. It didn't need to be walked, or need a litter box, or have to go outside to pee. It just crawled around inside the large aquarium. She enjoyed picking up little things to put in the makeshift habitat, just so the tarantula would have something new to explore. It didn't take long for her to figure out the things it liked best to eat.
+
+Gloria had been a little worried at first that she was spoiling the thing; but after a lot of research online and at the exotic pet stores she could find, she honestly didn't think it was possible to spoil a spider.
+
+It was really horrible what happened after it came to be in Ren's possession. Gloria thought. But at least it wasn't destroyed like everyone thought it was going to be.
+
+It was lunchtime, and her cell phone beeped at her. She checked it, and smiled because it was a message from Stella; who apologized for not messaging sooner, but knew Gloria's schedule and had waited for the right time.
+
+Ren's awake! Gloria thought, happily. He'll be just as happy to hear the spider is doing fine, too!
+
+Since today was Wednesday, there was only 2 more days before her second official day as student researcher.
+
+I can't wait! She thought and hopped in her car to head to the garage. It's just as fun as working on cars!
+
+*
+
+Elise put the phone on hold, picked up her tablet, and headed to the cafeteria. She didn't have time to make her own lunch today, because she had been so busy watching Ren's footage in the game. Once in the food line, she grabbed a small salad and a bowl of jello, and went to the corner of the room. She sat down and picked at the food as she started the footage where she'd left off. She shook her head as she watched Ren tackle yet another giant.
+
+The more I watch, the more amazing he gets!
+
+*
+
+Denise woke Ren up about an hour late for lunch; but he had looked so peaceful, and she didn't want to disturb him until it was absolutely necessary. He ate at a normal pace, and when he was done, he went back to sleep.
+
+He's more tired than I thought he'd be. Denise leaned in close and straightened his hair that had gotten slightly messed up from the pillow. She placed a gentle kiss on his cheek, just as gentle as he had been when he had touched the sore spots on her chest during the bath. Sleep well, little angel.

@@ -1,0 +1,271 @@
+---
+id: 4558e690-15ab-5781-bd01-a762d07f0a6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 539 - Dinner And A Date"
+slug: 0539-chapter-539-dinner-and-a-date
+partOf: mythrans-master-of-all-continued-completed
+position: 539
+ownLength: 2729
+unit: words
+publishedAt: 2018-03-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204054/chapter-539-dinner-and-a-date"
+royalRoadId: "204054"
+---
+
+Ren and Xuunah arrived at the restaurant and Artemis flew over their heads and landed on the roof of the building to wait and to keep a lookout. Ren saw the long line of people outside waiting to get in, and Teepo estimated it would take half an hour before they would make it inside. That would be cutting into Ren's time to spend with Nathalia and Xuunah, so he concentrated on his connection to Nathalia.
+
+My Love, I'm outside your restaurant. Ren thought.
+
+I'll be right out to get you. Nathalia thought back.
+
+Both Ren and Xuunah felt Nathalia come through the portal and their connections with each other went to full strength. Distance diminished it somewhat, but it was always there. She came out through the front door of the restaurant and waved them over.
+
+“I came over earlier and booked a table.” Nathalia said and motioned for him and Xuunah to go inside. “I knew you needed one.”
+
+“Thank you.” Ren said and took her hand. “I didn't think to do it myself.”
+
+Nathalia chuckled. “You've got everything else on your mind, so that's understandable.” She said and went back in through the front door, then led Ren and Xuunah to a curtained-off table in the back. The plates of food were already there and waiting, and the three of them sat down to eat.
+
+“Before we start, there's something I'd like to say.” Ren said, and Nathalia touched his mouth with a fingertip.
+
+“If it's about what happened to you, I know.” Nathalia said and touched her heart. “I felt the change when you came back.”
+
+“But...”
+
+“You pledged to share everything with me when we built this bond between us.” Nathalia said. “I didn't get the full intensity like Xuunah did; but, I did get it all the same.”
+
+Ren reached out and cupped the side of her face. “Are you okay?”
+
+“I am now that you are.” Nathalia said and leaned her head into his palm. “Now taste this dish I made for you.”
+
+Ren picked up the spoon beside his plate and dug into the great-smelling food. “My mouth is watering already.” He said and took a bite. When it hit his tongue, the flavor shot through him. “Holy crap! That's delicious!”
+
+Nathalia chuckled. “It's my latest creation.”
+
+“What's it called?” Ren asked and took another spoonful.
+
+“Adventurer's Delight.”
+
+“It sure is.” Ren said and kept eating, and Xuunah and Nathalia ate as well. No one spoke until the meal was over, and when Ren swallowed the last bit, he received a popup.
+
+Notice!
+
+You have consumed a dish of magic-infused food.
+
+You have gained: +1 Vitality and 0.1% Regeneration for 1 hour
+
+“N-Nathalia!” Ren exclaimed as he dismissed the popup, and Nathalia closed her eyes as she wallowed in his appreciation and astonishment. “Nathalia?”
+
+Nathalia felt his concern, so she opened her eyes and smiled warmly at him. “I guess you liked it.”
+
+“I'd make a joke about wanting to marry it, but I swore to you I'd never look for another wife.”
+
+Xuunah laughed. “That would be a short marriage!”
+
+Nathalia and Ren laughed, too.
+
+“I'd really like to learn the recipe.” Ren said. “This kind of enhancement, even temporary...”
+
+“It doesn't have to be temporary.” Nathalia said, and Ren looked at her with wide eyes. “With the application of a lot more Mana during the mixing and cooking process...”
+
+“You can make it permanent.” Ren said. “I knew learning to cook would be a good idea.”
+
+Nathalia chuckled. “I meant to teach you the basics a long time ago; but, you were always so busy and every time you would finish one thing, two more things would come up.”
+
+Ren nodded. “It's still happening.” He said. “Only the scale of things has increased.”
+
+Nathalia took his hand and held it. “I'm sorry to hear that.”
+
+Ren shrugged. “I'll get through it.”
+
+“Yes, you will.” Nathalia said, confidently. “Now, about this needing to see me feeling I've had from you all day...”
+
+“Just all day?” Ren asked, and her face went a little red.
+
+“Okay, it was more intense today.”
+
+Ren nodded. “My bond... our bond... with Xuunah got a lot stronger, and it's hurting her because she can't be with me.”
+
+Nathalia sighed. “Ren...”
+
+“You know it's true.” Ren said. “I can tell that you feel it, too.”
+
+“You can't expect me to just let you-”
+
+“No, I'm not here to ask you to hand me over to her.” Ren shook his head. “You know the Light being's mandate just like I do. It's forbidden for her to mate with a mortal.” He said. “She spent a lot of time in prison for that.”
+
+“...and for killing your father's murderers.” Xuunah said, and Nathalia and Ren felt her satisfaction. “At the time I thought you were gone, too... and I was so happy to discover that it wasn't true.”
+
+Nathalia nodded because she could feel all of that from her, and looked at Ren. “Then what are you asking for?”
+
+Ren leaned in close and whispered very softly into her ear.
+
+“WHAT?!?” Nathalia jerked away from him. “NO! You don't know what that will do!”
+
+“I need to try.”
+
+“Ren, you... you can't just...”
+
+“Nathalia, please.” Ren said. “I won't do this if you don't want me to, but you know the attempt has to be made.”
+
+“But... but what if... what if you...”
+
+“You are my center.” Ren said and the light in his chest glowed brightly, and the Light bond between them shone brightly, too. “I'll always come back to you.”
+
+“Ren, I...”
+
+“I've thought of giving you a Disguise Self wand so you could cast it on yourself and walk out of this restaurant to meet me, and we could... ah... meet together.” Ren said. “That doesn't bypass your beliefs; but, it would stop the public's perception of us breaking those beliefs.”
+
+Nathalia thought about saying yes right away, just so she could be with him again, then she shook her head. “No, I would know we were breaking my customs.” She said. “I can't... I won't... circumvent it.”
+
+“I know.” Ren said and smiled. “That's why I never offered.”
+
+“Then what are you trying to offer?”
+
+“There's nothing I can offer.” Ren said. “Polymorph spell, Astral Projection, Doppleganger, they all still require you in them... and it's you and your beliefs that I love.” He said. “I can't ask you... I won't ask you... to give those up.”
+
+“Then... we really can't be together.” Nathalia said, disheartened.
+
+“Not until the rituals and rules for relationships change in the Dwarf Kingdom.” Ren said and smiled. “I'm willing to wait for that.”
+
+“You are?” Nathalia asked, surprised.
+
+“Of course I am.” Ren said and took her hand. “I love you deeply. Madly. Truly.” He said. “I'm going to start sending letters to the records clerk at the Main Keep. Petitions, proposed law changes, adding exceptions to the rules.” He grinned. “She's going to be so sick of hearing from me that she'll start putting the changes through just to shut me up.”
+
+“Oh, Ren!” Nathalia said and kissed him passionately. Ren cast Full Illusion and put a wall up around the table, in case anyone came in, and he kissed her back. Their hearts raced as they made out, because it was the first time they had touched each other in this fashion in a long time.
+
+“A-ahem.” Xuunah coughed to try and get their attention, but it didn't work.
+
+Ren and Nathalia panted heavily as their hands roamed and touched each other hastily and expertly.
+
+“AHEM!” Xuunah slapped the table and made the dishes bounce and clatter, and that was enough to bring Ren and Nathalia back to their senses. They stopped mid-grope and broke the kiss they had locked themselves in, and sat back in their seats. Both of them were quite dishevelled, their hair a complete mess, and wore matching goofy grins. They exchanged glances with each other, then with Xuunah, and then all three of them laughed.
+
+Nathalia gave her permission for him to try, and Ren thanked her by taking her hand and giving her a kiss on the cheek.
+
+“I have to get back to work.” Nathalia said. “Come by tomorrow morning and let me know how it went.”
+
+“It might not happen tonight.” Ren said. “Plus, I have to visit King Alamast and discuss a couple of things tomorrow... and then I have to visit the High Elven Kingdom and talk with Yllana and Allynna about the High Elves.”
+
+“When will I see you again?” Nathalia asked and stood up.
+
+“I'll try my best to be back here either tomorrow night or the next morning.” Ren said. “After that, my time is kind of up in the air. I don't know if I'll get involved in the next war or not.” He said and smiled. “If I can somehow prevent it or make it end early like with the ghouls, I'll have lots of free time to spend however I want. Maybe you can even teach me how to properly cook.”
+
+“Should you even say that with all those qualifiers?” Nathalia said, and he felt her amusement.
+
+“All I can do is try.” Ren said and stood as well. “Bye, Nathalia.”
+
+“Bye, Ren.” Nathalia gave him a hug, then walked around the table and gave Xuunah a hug, too. “Keep him safe.”
+
+“With my dying breath.” Xuunah said. “No harm shall come to him.”
+
+Nathalia let her out of the hug and left. Ren held an elbow out for Xuunah to take, and he led her out to the woman that sat people in the restaurant. He gave her money for the three meals and a good tip, despite the food being Nathalia's, and they left the restaurant. They walked down the street and back to the Housing District, and Artemis flew over behind them.
+
+Teepo said that the hour was almost up, so Ren and Xuunah stood outside his old house to wait for Officer Holly to wake up. He noticed Elise's lights were on in her house as well and let Ren know.
+
+“Will you tell me the details of this plan you have for me?” Xuunah asked a moment later.
+
+“When the time is right.” Ren said and smiled. “Knowing beforehand will make no difference.”
+
+“Are you sure?”
+
+“Positive.” Ren said. “I'm attempting it anyway, and having you there will only improve the odds of my success.”
+
+“Is there a reason for you not to tell me before you try?”
+
+“Of course.” Ren said. “I don't want to cause Trouble before it's time.”
+
+Xuunah nodded, because she knew now that while around Ren, words alone could cause things to happen. Her words the last time had almost cost Ren his freedom, possibly his life, and she never wanted anything like that to happen again. Ren felt Officer Holly wake up and faced the house, and it took her a minute to get up and come out to greet them.
+
+“Hey, you're back.” Officer Holly said, then yawned and stretched with her arms over her head.
+
+“Is it okay to say that was a sexy stretch?” Ren said.
+
+“It would depend on what you mean by sexy.” Officer Holly said and looked herself over. “Did anything pop out?”
+
+Ren chuckled. “No, it just highlighted your athletic form quite well.”
+
+“Then I guess it's okay.”
+
+Ren turned to Xuunah. “Get some rest, and I'll see you both later.”
+
+“I suppose I don't need to tell you to have fun.” Xuunah said, and Ren took a step up into the air.
+
+“I'll try to contain what I feel, but you know it's much harder to concentrate when... well... you know.”
+
+Xuunah nodded. “I'll restrict the sharing from my end as well.” She said. “Perhaps our efforts together will stop me from going crazy with desire.”
+
+“I'll wait a few minutes to give you a chance to go to sleep first.” Ren said. “It might help, too.”
+
+“Perhaps.” Xuunah said, gave him a kiss on the cheek, and went into the house to go to bed.
+
+“You're quite smooth with the ladies.” Officer Holly said.
+
+“I am.” Ren said, and she looked at him with raised eyebrows. “What?”
+
+“You're pretty confident.”
+
+“The evidence speaks for itself.” Ren said. “Even those not predisposed to like me, like me eventually.”
+
+“Are you referring to me?”
+
+“Nope. Gina, actually.” Ren said. “I didn't do anything at all for her when we first met. I still don't, not looking like this; but, a little change in the face and the voice... and she's all over me.”
+
+“So, you tricked her?”
+
+Ren smiled. “I didn't mean to at first.” He said, then explained about going to see Jennifer, then misunderstanding, and then going there tonight to admit the truth to her.
+
+“So... even though she knows it's fake... she's okay with it.” Officer Holly said. “Wow, that... she's pretty self-delusional.”
+
+Ren chuckled. “To be honest, we all are.” He said and motioned to her. “We all try to hide something about ourselves. What we like. What our passions are. What drives us to do what we do.”
+
+Officer Holly blinked her eyes at him for several moments and thought about it. “What are you hiding?”
+
+Ren's face slowly formed a huge grin. “The biggest secret in the history of secrets.” He said, then started to walk backwards towards Elise's house.
+
+Officer Holly followed him. “What secret?”
+
+“Do you really want to know?” Ren asked.
+
+“Yes.”
+
+“The biggest secret I'm hiding is... I have no secrets.”
+
+“Wh-what?”
+
+“Ever since I was rescued from my parents, I've always been completely open and honest with everyone I've ever met.” Ren said. “The doctors, lawyers, nurses, psychiatrists, and police. I told them everything I knew at the time, and to the best of my ability. I've never once tried to hide anything, or downplay what happened to me.”
+
+“But... you...”
+
+“I've also never asked for sympathy. I've always known my lot in life, you see... and thinking 'oh, poor me' was never an option.” Ren said and stopped just outside Elise's door. “With all of my memories back, I discovered that I didn't start out that way. I was secretive, scared a lot, terrified even more, and I never opened up to anyone.” He said. “Once I was free, though... it was a conscious choice on my part to not be like that anymore.” He chuckled. “Do you get it now? I was free. Free to go. Free to live. Free to trust. Free to love.”
+
+Elise's door opened and she stepped out. “Ren? Is that you?”
+
+“I don't need to hide anymore. I don't need to keep things to myself.” Ren looked at the statuesque redheaded woman that waited for him. “I allowed myself to find people to care about, who also care about me.”
+
+Elise beamed a smile at him that made him feel all warm and tingly inside.
+
+“People who accept me for who I am, even knowing what I've been through.” Ren said and walked over to Elise. “Why in the world would I try to keep secrets from the people I love?”
+
+Elise held her arms open and Ren took two steps up into the air and kissed her waiting lips as she wrapped her arms around him, then the two of them stepped inside the house and the door shut behind them.
+
+*
+
+“It's like he's a philosopher or something.” Officer Holly commented.
+
+“I think it's more like a public motivational speaker.” Artemis said.
+
+Officer Holly chuckled. “Yes, that's it. Just hearing him speak makes you want to believe him.”
+
+“I do believe him.” Artemis said. “Don't you?”
+
+Officer Holly opened her mouth to respond, then realized her Lie Detecting skill hadn't buzzed her. Not once during the whole time Ren spoke.
+
+“I... I do.” Officer Holly said, and it was quiet for several moments.
+
+“So, how long do you think he's going to be?” Artemis asked.
+
+Officer Holly's face flushed a little red. “I couldn't say.”
+
+“Oh, come on.” Artemis said. “You've been around him a couple of times when he's on one of his little side adventures.” She said. “You must have some idea about...”
+
+“I said I can't say!” Officer Holly's face went deep red, and Artemis held in her laughter.

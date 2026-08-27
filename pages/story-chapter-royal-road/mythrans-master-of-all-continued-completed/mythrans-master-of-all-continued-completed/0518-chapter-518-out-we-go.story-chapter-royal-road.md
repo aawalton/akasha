@@ -1,0 +1,215 @@
+---
+id: 339cc855-7c53-5932-9b90-05222275b24a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 518 - Out We Go"
+slug: 0518-chapter-518-out-we-go
+partOf: mythrans-master-of-all-continued-completed
+position: 518
+ownLength: 2370
+unit: words
+publishedAt: 2018-02-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196158/chapter-518-out-we-go"
+royalRoadId: "196158"
+---
+
+Ren sat quietly and felt the pixies emotions, and knew they were struggling with the new flesh bond to him. He tried to stop thinking about anything to make it easier for them; but, he kept running things through his mind and couldn't push aside all the options he was considering. After a couple of minutes of feeling restlessness from the pixies, Ren had a stroke of genius and activated his ability called Serene State of Mind.
+
+A collective sigh was released by all the pixies and Ren felt them relax and bask in the quietness. Time seemed to slow down as his mind was cleared of all it's clutter. He didn't think about anything at all, despite having the clarity to do so, and just sat there in the center of the pixies.
+
+After what seemed like an hour, one of the male pixies stood up. He clenched and unclenched his hands to make fists several times, looked around at the other pixies, then looked at Ren.
+
+“My Lord, you truly are a wonder.” He said. “I've never felt this... whole... before.”
+
+“Me, either.” A female voice said, and another pixie stood up and did the same hand flexing. Ren saw that she was pretty in that 'girl next door' way, because she had hidden her sexiness, and her clothing was both conservative and suggestive at the same time, without being provocative. “I will take that very flattering compliment, My Lord.”
+
+“Hm?” Ren blinked his eyes. “Oh, right. You can hear my thoughts.”
+
+“Thankfully, only direct ones now.” She said. “Did you really find forming a flesh bond to be disgusting?”
+
+“Kind of.” Ren said. “I mean, consuming the flesh of another is taboo where Adventurers come from.” He said. “Here, though... with the different cultures and rituals and things...”
+
+She chuckled. “You didn't object too hard because you didn't want to insult us.”
+
+Ren nodded. “Usually my Etiquette skill kicks in during things like this, and it lets me know how to act. This time I had nothing to go on.”
+
+“It's new for us as well.” Shanna said and stood up and did the same hand flexing. “Normally, this would only happen once in a generation.” She smiled. “A pixie would find someone that they would always want to be around, and decide that they couldn't live without the companionship.”
+
+“Wait, what?” Ren looked at her, then at all the others. “You're all my companions now?”
+
+“Not quite in the sense that you are thinking.” Shanna said. “It's like what you have between you and Teepo, only we haven't gone through the time to build up the relationship.”
+
+“What does that mean?”
+
+“It means that most of them are now your good friends, Ren.” Suniva said.
+
+Ren watched as she crawled up to the middle of his chest and stood up as if she was standing on the ground. It put her body out at a 90 degree angle from his chest, and she crossed her arms.
+
+“Good friends will do everything they can for the people they care about.” Suniva said.
+
+“Did the flesh bond do that?” Ren asked.
+
+“No, your good nature and willingness to deal with us as people did that.” Suniva said. “What the flesh bond did was give us access to your physical abilities.”
+
+“Wow, really?” Ren asked, then thought about how each of the pixies had crawled up him. “You even gained powers from my enchantments?”
+
+“Only the ones that affected you physically.” Suniva said. “As you have noticed, we all have the benefit of the Amulet of the Spider.”
+
+“That's really cool.” Ren said.
+
+“It is, but I think we've all recovered enough.” One of the male pixies said. “Do you think we can leave now?”
+
+“Yes, good idea.” Ren said and deactivated Serene State of Mind. None of the pixies reacted as his mind was filled with ideas and plans once more, and he stood up. “I'm tempted to take out the cart and attach it to Princess so we can carry you all over to the door; but, the cart won't fit through the door, so that's pointless.”
+
+“Oh, don't worry about that.” Suniva said and stepped off his chest into the air, took several steps away, then stood in mid-air and uncrossed her arms.
+
+“You gained my permanent spells, too?” Ren asked, and she nodded. “Now I really wonder what I got in return.”
+
+“Our affinities, of course.” Suniva said. “You have affinity with several of us already, though.”
+
+“Wait, what does that mean?” Ren asked.
+
+“Well, your Hands of the Gods should have expanded.”
+
+“I didn't get a popup for that.” Ren said. “Show info for Hands of the Gods skill.”
+
+Hands of the Gods: Based on affinity, can generate that element at will from your hands.
+
+Full Affinity (Natural)  Limited Bypass (*Pixie)
+
+Skill  Element  Skill  Element
+
+Burning Hands  Fire  Forbidden Hands  Void/Anti-void
+
+Refreshing Hands  Water  Freezing Hands  Ice
+
+Restoring Hands  Light (Holy)  Heavy Hands  Dark (Gravity)
+
+Rocky Hands*  Earth  Hurricane Hands  Wind
+
+*Green Thumb  Earth Supplement  Shocking Hands  Lightning
+
+“Well, it looks like I can use them all, but the ones I haven't completed the affinity for myself only have a limited use.” Ren said and looked at Shanna. “I wonder...”
+
+“Yes, if we combine our abilities, it will work.” Shanna said.
+
+“Should we do a quick test?” Ren asked.
+
+“I think we should leave and try it outside, where it's going to have better results.”
+
+“Right!” Ren said and looked around at all the pixies. “Is everyone ready to leave this place?”
+
+“I'm actually going to miss this place.” One of the pixies said and touched the archway apartments. “I had a really nice apartment.”
+
+“We all did.” Another said. “It's a pity we have to leave it behind.”
+
+“Who said we were leaving it?” Ren asked and spoke the command word for the archway. It shrunk down to a 2 inch wide cube and he stored it. “Your section is going to need a cool entryway.”
+
+“Ha ha!” A few pixies laughed.
+
+“Let's go!” Ren said, and the mass of them walked through the air towards the doorway to leave. When they got there, Ren tried to open the door and it was locked. “Knock.” He said to cast the spell.
+
+One of the pixies knocked on the door, and Ren chuckled as he tried to open it again. It didn't work, and he frowned.
+
+“Okay, something is wrong here.” Ren said. He asked to see the info for his Royal Consort title, and saw that the access to the Underworld part was greyed out. “Son of a...”
+
+A low chuckle came out of about half of the pixies, and he looked around at them.
+
+“Give me a second.” Ren said and took out his pet tarantula. “My Queen, may I speak to you for a moment?” He felt a pull on his emotions, and he smiled. “I can't seem to open the doorway to go into the Underworld. You wouldn't happen to know why, do you?”
+
+Ren felt another pull, and then sighed when he realized what had happened. “You locked it on purpose.” He didn't feel another pull, so he wasn't sure if she didn't want to admit it, or she hadn't done it herself. Either way, it was still locked. “My Queen, I'm sorry for disturbing you.” He said and put the tarantula away. “Well, it looks like we're going the long way.”
+
+“WHAT?” One of the female pixies shrieked. “We can't! We'll die and be stuck here forever!”
+
+“Calm down.” One of the male pixies said and put an arm over her shoulders. “We're much stronger and faster now, remember?”
+
+“But the bonds are untested!” She said. “What... what if...”
+
+“Are you assuming that I won't be right there by your side to help?” Ren asked, and the pixies looked at him. “I made it through here before, and that was without my mount and my ranged combat specialist.”
+
+“But...”
+
+“Yes, I know it's your struggle and I can't fight your battles for you; but, that doesn't mean I can't defend you with all my might.” Ren said. “I have some items to share with you, now that we have to face this danger together.”
+
+“Ren...” Suniva tried to speak.
+
+“I can give you armor unlike anything you've seen before. I can give you weapons, shields, bracelets, amulets, and enchantments to get you through this.” Ren said. “I'm sure they'll lose some of their effectiveness when they resize to fit your small stature; but, it's better than going in without anything.”
+
+“That's not what I was going to say.” Suniva said. “Call your Queen back and ask for her forgiveness.”
+
+“I already apologized.” Ren said. “What...”
+
+“You said you were sorry, that's true. What you didn't ask for was forgiveness.”
+
+“But...”
+
+“Call her back and beg her to forgive you for your behavior.” Suniva said. “Trust me.”
+
+Ren nodded and took the pet tarantula and did exactly like Suniva said. He was sincere and emphatic in his words and feelings, and when he felt them be consumed, the door clicked and swung open.
+
+“Well, would you look at that.” One of the males said and went through, then turned around to watch the rest. “Grovelling really worked.”
+
+“I believe it was his sincerity and not the grovelling that did the trick.” One of the females said as she passed him.
+
+“Actually, it was both.” Lylyth said, and all the pixies froze stiff and did that slow turn to see who had spoken.
+
+“G-g-greetings, Queen of the Dark Elves.” The male pixie closest to her said.
+
+“Normally, I don't speak to vermin.” Lylyth said. “The Royal Consort has deemed you worthy to share a bond with you, so I must at least acknowledge your presence.”
+
+“T-thank y-you, Your Highness.” The male pixie said and bowed deeply to her, and he waved to the other pixies. They all bowed deeply, and Ren felt Lylyth's suprise when he ushered the rest of the pixies into the cavern through the open door. Princess and Artemis came in behind him, and Artemis shut the door.
+
+“My Queen.” Ren said and tucked the pet spider into his cloak, then cast Permanent Enlarge and Reduce Anything on himself and doubled in size, then knelt on one knee in front of Lylyth. “I'm sorry for not apologizing sooner for abusing your hospitality, and for ignoring your opinion.”
+
+“I believe you owe a similar opinion to someone else.” Lylyth said.
+
+“I already apologized to her for how she felt about this.” Ren said. “But, on the advice of one of my new friends, I will reiterate and clarify it the next time I see her.”
+
+Lylyth felt his sincerity again, and she nodded. “You may stand.”
+
+“Thank you.” Ren said as he felt her forgiveness, then he stood up and took her in his arms and kissed her. Lylyth was a little surprised by this and her guard dropped a little, and Ren took full advantage of the opportunity. He swept her off her feet and picked her up, and she gave that little startled yip as she grabbed him around the neck and shoulders. It made him chuckle that he could make her react like that, and he kissed her passionately.
+
+Lylyth, a bit overwhelmed at the change in Ren's demeanor, could do nothing but hold on and consume the feelings he was feeding her. He poured into her as much as he could through the touch of their lips, and he could feel her body react to him. It took her a few moments to recover her regal persona, and broke the kiss.
+
+“Ren, what...”
+
+“I just wanted you to know that I'm sorry for assuming that because I have access to the Underworld with my title, that I didn't have to ask your permission to enter.” Ren said and put her down. “So, my Queen.” He said. “Please allow myself and my friends to pass through your Underworld.”
+
+Lylyth thought about saying no, but she just couldn't say no to him when he was being so charming. “As long as they don't stay.”
+
+“Absolutely not, Your Highness.” One of the males said. “I speak for all of the pixies when I say that we have all spent enough time underground to last us several lifetimes, and we want out of here as soon as possible.”
+
+Lylyth felt his sincerity, and then felt agreement from all of them. “Then you may pass.”
+
+“Thank you, My Queen.” Ren said and took out the Staff of Earth. He pointed it straight up and made an 8 foot by 8 foot square tunnel to the surface a quarter of a mile away. Almost as one, all the pixies and Princess ran up the tunnel, and Artemis flew up after them.
+
+“I will expect another proper visit soon.” Lylyth said.
+
+Ren nodded and stepped into the tunnel. “Thanks for not being too angry about this.”
+
+Lylyth chuckled. “You can feel my not-so-hidden feelings, can you?”
+
+“I'll make it up to you next time, I promise.” Ren said. “I have something to discuss with you as well.” He smiled. “Farewell, Lylyth.”
+
+“Farewell, Ren.”
+
+Ren dismissed this end of the tunnel and started to ride the magic up to meet the others.
+
+*
+
+Lylyth watched the tunnel close and felt Ren's happiness about the ride. “Why can't I stay mad at him?”
+
+“He had his Prince Charming title active.” The dark elf healer, Tiatha said from the shadow behind Lylyth and stepped out.
+
+“I know that, but it's not the reason.” Lylyth said. “Just because I see how desirable he is, doesn't mean I'll forgive him for everything.”
+
+Tiatha smiled. “It's a good enough reason, though.”
+
+Lylyth chuckled for a moment, then stopped. “Did you feel the change in him?”
+
+“Yes.” Tiatha said. “That's why I didn't reveal myself.”
+
+“What did you discover?”
+
+“Even though he wasn't born or had a ritual performed on him, he's becoming more like one of the original chosen.” Tiatha said. “Even more so than you, My Queen.”
+
+“I... I know.” Lylyth said. “If I'm not mistaken, I think... yes, he is starting to realize it, too.”

@@ -1,0 +1,427 @@
+---
+id: f47911fd-8ede-547e-98f7-7226af28ca30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 169 - No. Just no."
+slug: 0156-chapter-169-no-just-no
+partOf: mythrans-master-of-all-continued-completed
+position: 156
+ownLength: 3405
+unit: words
+publishedAt: 2017-02-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118596/chapter-169-no-just-no"
+royalRoadId: "118596"
+---
+
+Fritz punched Ren in the face again, and Narhilda stood up to get between them.
+
+“FRITZ!” She yelled. “What are you doing?!?”
+
+“I'm asking Ren a simple question.” Fritz said, and punched Ren in the face again. “What.” *punch* “Are.” *punch* “You.” *punch* “Doing.” *punch* “To.” *punch* “My.” *punch* “MOTHER!”
+
+Ren was frozen in shock. He let Fritz pound his face over and over, and didn't even try to defend himself. Narhilda stepped in front of Fritz, who had to stop punching or he would have hit her.
+
+“You have NO RIGHT to do that to Ren!” Narhilda said.
+
+“The guards told me how she greeted you.” Fritz said to Ren. “Like... like...” He shook his head. “I can't say it!”
+
+“Sheb... shebs your mobber?” Ren mumbled. His mouth and lips had started to swell almost as soon as Fritz had started punching, and he could barely talk. He'd also lost a quarter of his Health bar.
+
+“Yes, she's my mother.” Fritz said, and scowled.
+
+“Hold on.” Narhilda said. “How do you know each other?”
+
+“I was the one who sent him here.” Fritz said, then stared at Ren's distorted face. “Apparently that was a mistake.”
+
+“What are you talking about?” Narhilda asked. “Ren has been the best thing that's ever happened to this Kingdom!” She said. “He's been living with Nathalia and I for only three months, and he's done more for everyone here than YOU ever did!”
+
+Fritz barked a laugh. “He was supposed to be stationed at the Garrison, and not interact with the general population at all; let alone live with my runaway mother and her personal maid.”
+
+Ren's mouth dropped open. “Youb nebber tolb me blat!” He sighed and took out his Major Healing wand and used it on his face. It healed the damage Fritz had done, and refilled the Health bar. “You never told me that.” Ren said clearly, now that his mouth was healed.
+
+“Gausen was supposed to take you there when the ship arrived.” Fritz said. “He even had your orders.”
+
+Ren laughed. “I'd already been drafted into the army by then.”
+
+“WHAT?!?” Fritz yelled. “Elflings can't... can't...”
+
+“Oh, I was drafted.” Ren said. “Thanks to the Council.”
+
+Fritz held up his hands. “I don't want to know.”
+
+“Why not?” Ren asked. “This place... by the gods, this place...” He shook his head. “The things they did, and then got away with!”
+
+Fritz covered his ears. “No, I don't want your words to influence me.”
+
+“How about the truth then?” Ren said and took out a copy of his new book. “Go ahead. Take a read through it, and see what's actually been going on here in your homeland.”
+
+Fritz took the book, opened it to the middle, then tore it in half. The book split right down the binding and Fritz tossed the two halves across the room.
+
+“I don't want to KNOW!” He hollered.
+
+“The King will.” Ren said. “As soon as I see him at the trial tomorrow morning, I'm going to give him a copy.” He grinned. “He'll want to know what the Council has been doing while he's been gone.”
+
+“Ren...” Narhilda started to say, then Fritz laughed.
+
+“I'm the King.” Fritz said.
+
+Ren blinked his eyes a few times, then looked at Narhilda, back to Fritz, then at Narhilda again.
+
+“Holy crap.” Teepo said.
+
+“You... you're not... are you serious?” Ren asked, surprised. He looked back at Fritz. “You're the King?”
+
+“Yes, Ren. I'm the King.”
+
+“If I was prone to cursing, I'd be letting a stream of them go right now.” Ren said. “What the hell, Fritz? Why would you let your homeland suffer and fall apart like this?”
+
+“I didn't ask for your opinion, so you can keep it to yourself.”
+
+“How else are you supposed to fix things, if people can't tell you what to fix?” Ren asked.
+
+“He doesn't want to fix things, Ren.” Narhilda said, and sighed. “He gave the Council free reign when he left.”
+
+“Well, crap.” Ren said, thought about it, then chuckled. “I thought I'd get everything straightened out when the King finally found out about what's been going on; but, instead I find out that all he really wants to do is live in denial.”
+
+“Denial is a nice place.” Fritz said. “No one's there. No one bothers you. There's no problems to deal with. You can do what you want, and not have to worry about anything.”
+
+“Why didn't you renounce the throne, then?” Ren asked. “You've already abdicated the responsibility.”
+
+“He can't.” Narhilda said. “If he'd gotten married to that nice girl 20 years ago, then he could have.”
+
+Fritz groaned. “Yes, mother. An arranged marriage to a woman I barely knew was just what I wanted for myself.”
+
+Narhilda rolled her eyes. “You would get to know her, you fool.” She said. “Why else do you think the courtship and engagement times are so long?”
+
+Ren looked at her. “So that's why!”
+
+Narhilda chuckled. “Yes, Ren. It's so a man and a woman can get to know one another before sharing their lives together.”
+
+“And making a home for her to live in?”
+
+“So you can prove you can provide for her, if she doesn't, or can't, work.” Narhilda said. “And if the marriage ceremony isn't completed for some reason, she has a home she can stay in; or can sell for the time she spent being courted.”
+
+“Huh.” Ren said. “It really is like a business contract, isn't it?”
+
+“That's why I said no.” Fritz said. “There wasn't passion or excitement. It was just... here's your future wife. Make sure you have kids.”
+
+Narhilda snorted a laugh. “It's your duty as the ruling monarch to have children.”
+
+Fritz looked at her. “I already told you that I didn't want to subject another child to this.”
+
+She shook her head. “You've let the Council fill your head with vile and venom about the monarchy.”
+
+He looked at her. “You're one to talk. You left, remember?”
+
+“Yes, I did.” Narhilda said. “After your father passed away, and you took the throne, it was made quite clear to me that I wasn't needed anymore.”
+
+“Who told you that?”
+
+“The Council, of course.”
+
+Fritz shook his head. “Stop! STOP!” He hollered. “I told you I don't want you influencing my thoughts anymore!”
+
+“You are an ASS!” Ren said. “Why did you come back, if all you're going to do is say that you don't want to know? Why are you even here?”
+
+“I came back for Gellian.”
+
+“I guess that means you'll be leaving right after the trial.”
+
+Fritz nodded, and Ren shook his head.
+
+“I thought you were a better man than this, Fritz.”
+
+“I thought you were, too.” Fritz said, and glanced at his mother.
+
+“I think it's about time we had 'The Talk'.” Ren chuckled. “There comes a time in a man's life when he gets these urges...”
+
+“No... nonono...” Fritz covered his ears.
+
+“It's a frantic time... and women start becoming more attractive and appealing...” Ren laughed.
+
+“Nonono!”
+
+“Fritz.” Ren said, and pulled on one of the hands that covered Fritz's ear. “Fritz. What your mother does, or doesn't do, is none of your business.”
+
+“She's my mother!”
+
+“Yeah. Your mother. Not your wife. Not your daughter. Mother.” Ren said. “Responsibility goes downhill, just like Inheritance.” He shook his head. “Can you imagine what the world would be like if children were responsible for their parent's actions?”
+
+“Ren.” Fritz said, seriously. “She is my mother.”
+
+“Uh huh. You've already said that several times.” Ren said. “I thought you didn't want to know what's been going on?” Ren responded. “Why do you even care what any of us do?”
+
+Fritz opened his mouth, then didn't know what to say.
+
+“That's right.” Ren said. “You can't be angry about your mother's actions in a Kingdom that's falling apart, because you don't care about what happens to it.” He sighed. “Why don't you just ignore it, like you're ignoring everything else?”
+
+Fritz closed his mouth and turned towards the door. “Fine.” He said. “I don't know anything, and nothing is happening.” He stopped when he noticed Riley and Stacy. “What are they doing here?”
+
+“They're my dogs.” Ren said, a little angry. “Dogs you ordered to be experimented on!”
+
+“They could be great assets to the Dwarf Kingdom.”
+
+“You mean the Kingdom that you don't care about?” Ren asked. “They could have been assets, sure.” He said. “If you had asked about them.” He shook his head. “Not now, though.”
+
+“Why not?”
+
+“The alchemist burned a huge hole in Stacy's leg with an acid potion, Fritz.” Ren said. “You're not getting them to experiment on again.”
+
+Fritz frowned, then repeated the phrase he'd said before. “I don't know anything, and nothing is happening.” He stepped through the open door, and a guard closed it. Ren and Narhilda once again had a little privacy.
+
+“So... you were the Queen.” Ren said, and turned to her.
+
+“Yes. Then I was the Queen Mother; but I left this life behind 20 years ago, Ren.” Narhilda sighed. “Don't... don't hate me for... for keeping it from you.”
+
+“Why in the world would I hate you?” Ren asked, as he took her into a tight hug. “Now, you need to forget about making that payment you needed to make if you told me about all of this.”
+
+Narhilda gasped. “You know about that, too?”
+
+Ren nodded slightly. “Yes, and you don't have to pay it.”
+
+“W-what?!?”
+
+“You didn't tell me anything.” Ren said.
+
+“But... but... you know!” She exclaimed.
+
+“I've become quite the deal analyzer over the last few months, Narhilda.” Ren grinned. “You didn't tell me about it, so the deal you struck, with whoever it was, is still valid. As long as you don't tell me any of the details...”
+
+“Oh, Ren!” Narhilda kissed him, and when Ren broke the kiss a minute later, she spoke again. “You make me feel like I'm 50 again!”
+
+“Then my job here is done.” Ren said, then laughed as Narhilda got a surprised look on her face. “I need to go.” He let her out of the hug. “Adventurer's business. I need to get to a Safe Zone.”
+
+“This is a Safe Zone.” Narhilda said.
+
+Ren's eyes widened as a spawn point appeared in the middle of the living area. “Well, that makes things a lot easier.” He said. “I thought I would have to go all the way back to House Neram.”
+
+Narhilda shook her head. “You'd never get out of the castle.”
+
+“Is that a challenge?” Ren asked with a raised eyebrow.
+
+She chuckled. “No, it's a warning.” She said, seriously. “They'd hunt you down if you left now.”
+
+Ren nodded slightly. “Okay, then.” He walked over to one of the many couches and sat down.
+
+“You should go to bed instead.” Narhilda said. “I'll stay out here with the guards.”
+
+“That's okay.” He said. “I'd rather be right here so they can see where I am.” Ren looked at Riley and Stacy. “Guard Narhilda.”
+
+They gave a soft bark each and came over to stand on either side of her.
+
+“R-R-Ren!” Narhilda stammered.
+
+“It's okay.” Ren said. “You don't have to be afraid of them.”
+
+“But... but they're so scary!”
+
+Ren laughed. “That's the whole point of them being guards, Narhilda.”
+
+She looked at him with surprise on her face. “You made them like this on purpose?”
+
+“Of course I did.” Ren said. “Aren't they wonderful?”
+
+Narhilda took a deep breath, then nodded slightly. Ren smiled, because he knew she did that so she wouldn't have to lie to him.
+
+“The guards won't be happy that they've been replaced.” She said.
+
+Ren grinned. “You'll have to tell me what happens when I get back.”
+
+She nodded slightly again, and Ren got up from the couch and knelt in front of the dogs.
+
+“Open.” He said, and they opened their mouths. Ren put a Fireball Wand in each of them. “Close.”
+
+The dogs closed their mouths, and Ren received a distinct feeling of satisfaction from Riley.
+
+“Be careful.” Ren said, and they nodded their heads. He looked up at Narhilda, and she blushed slightly. “What are you thinking?” He asked her.
+
+“I'm thinking that I wish it was you that I met when I left the castle, and not Thern.”
+
+“Don't think such things.” Ren said. “If you hadn't met Thern and loved him, you...” Ren shook his head. “Everything you've gone through has brought you to this point. All you can do is go forward.”
+
+Narhilda caressed the side of his face. “I don't know how you can love an old woman like me.”
+
+Ren smiled. “I have a soft spot for older women, apparently.”
+
+Narhilda chuckled. “Get going. You're wasting time. Do your business and get back here.”
+
+Ren slipped off his Sending Ring and gave it to her. “Talk to Nathalia, tell her I found you, and tell her about everything else that's happened tonight.”
+
+Narhilda's eyes widened, and Ren nodded.
+
+“Yes, about the alchemist, too.” He sat back down on the couch and got comfortable. “Is it possible to have supper delivered to House Neram for my mount, Princess?” He asked. “Breakfast, too.”
+
+“I'll see what I can do.” Narhilda said. “She may have to do without.”
+
+“Thank you.” Ren said. See you soon, Teepo. Keep a lookout.
+
+“I will. Bye, Ren.” Teepo said.
+
+“Logout.”
+
+********
+
+Ren slipped off the VR headset and Barbara was there to take it from him.
+
+“You... you have a LOT of explaining to do!”
+
+Ren sighed. “Can I at least use the bathroom first?”
+
+Barbara opened her mouth to protest, then sighed. “Yes, go ahead.”
+
+He slid out of bed and went to the bathroom, used it after cleaning himself up, then washed his hands and went back to bed.
+
+“Okay.” Ren said. “Let it rip.”
+
+Barbara looked at him sternly for a moment, then her expression changed. Her face grew sad and tears appeared in her eyes. She wiped them away, and sat down next to the bed.
+
+“Ren... you... I can't believe...”
+
+“I know.” Ren said, and rubbed his face with one hand. “I... I don't believe it myself.”
+
+“It's a problem that has to be dealt with.” Barbara said. “The psychiatrist will be here at shift change in an hour.”
+
+Ren looked at his watch. “Damn, I logged out early.”
+
+“That's what you're worried about?” Barbara asked.
+
+“I could have made up some potions, or went back to Nathalia in the holding area.”
+
+Barbara shook her head. “You're not going back in.”
+
+“I know.” Ren said. “I've got to eat, do physiotherapy, and get a shower.”
+
+“No, Ren. I mean you're not going back in. The psychiatrist said you need to deal with a few issues first.”
+
+Ren slapped himself in the forehead. “Well, fu-”
+
+“REN!”
+
+“Sorry, Barbara.” Ren apologized, then sighed. “You know what it's like for me to talk to her.”
+
+“You have to now.” Barbara said. “Your... actions... had to be logged and registered, remember?” She sighed. “It was the most awkward report I've ever filled out.”
+
+Ren held out a hand, and Barbara took it.
+
+“I'm sorry I put you through that.”
+
+“Me?” Barbara asked, surprised. “What about you? What about that poor man?”
+
+Ren squeezed her hand. “He was hurting my dogs. I had to stop him.”
+
+“You didn't stop him, Ren. You disabled him.”
+
+Ren nodded. “Yeah, I did.” He said. “I feel horrible about it.”
+
+“Even though you know it's just a game and isn't real?” Barbara asked, and Ren nodded.
+
+“I didn't know I had that kind of thing in me, Barbara.” He said. “I... did you hear me talking to Narhilda?”
+
+“Some of it.”
+
+Ren pulled the laptop close and called up the footage. He edited it so that all the relevant points were there, then played the video for Barbara.
+
+“Oh... oh my...”
+
+Ren went back and added in the alchemist footage, and how it came about. He saved the file, then left it open and ready to play for when the psychiatrist came.
+
+“I could make you breakfast, if you don't want to wait.” Barbara offered, and Ren shook his head.
+
+“I'd rather just spend the time with you, if that's okay?” He asked.
+
+She nodded as she smiled and picked up the television remote. “There's not much on this early in the morning.”
+
+“That's fine.” Ren said. “A little mind-numbing boob-tube is just what the doctor ordered.”
+
+“Boob-tube.” Barbara shook her head. “You have got to stop watching those old television programs.”
+
+“Why's that?”
+
+“Because these days, it means something a little different.”
+
+Ren's eyes widened slightly as he understood what she meant. “I'll stop saying it, then.”
+
+They waited for the shift change, then Stella came in, followed closely by the psychiatrist.
+
+“Okay, tell me what happened!” The psychiatrist said enthusiastically as she sat in the chair by the bed. “Spill it! I want to know all the details!”
+
+Ren sighed and slid the laptop over to her, hit play on the video, and looked at Stella.
+
+“She should be busy for a while.” He said. “What's for breakfast?”
+
+“Patient's choice.” Stella said, and grinned as she knew what his response would be.
+
+“Eggs, bacon and toast sandwich.” Ren said as he grinned back.
+
+“And what would you like to drink?
+
+“Orange juice that's been freshly squeezed, from oranges just picked from the tree and stuffed in a plastic bag that's sold on a street corner by a happy Mexican-American.”
+
+“We have freshly concentrated.” Stella laughed. “Anything else?”
+
+“There is something else; but, it can wait until after physiotherapy.”
+
+“Okay, I'll be right back.” Stella said, and Barbara followed her out of the room.
+
+*
+
+By the time the two nurses arrived at the break room, Barbara had given Stella a quick overview of what had happened.
+
+“Wow.” Stella said as she made Ren's breakfast. “He really crushed the man's fingers?”
+
+Barbara nodded. “The act itself was blue screened, but it showed his hands afterwards.”
+
+Stella flipped the eggs. “Poor Ren.”
+
+“What?”
+
+“Barbara. You know what he's been through. To see his dogs being used like that...” Stella shook her head. “He must have remembered some of what happened to him.”
+
+Barbara gasped, and put a hand on her chest. “I was so concerned over him doing it, and how it would affect him; but, I never thought about it from his perspective like that.”
+
+“You should.” Stella said, and buttered the toast after flipping the bacon. “Everything he does is based on his experiences.”
+
+“You almost sound like a psychologist.”
+
+“It's not a dirty word, Barbara.” Stella laughed. “Everyone needs help every once and a while.”
+
+“You, too?”
+
+Stella nodded as she assembled two sandwiches. “I've had my fair share of appointments.”
+
+“Can I ask what about?”
+
+“Ren, of course.”
+
+“Me, too.”
+
+Stella poured out the orange juice and added a glass of supplement. “We all have to deal with things in our own way.” She said. “Then help others when we can.”
+
+Barbara smiled. “You picked that up from Ren, just like I did.”
+
+Stella smiled back and picked up the tray. “Thanks for filling me in.” She said. “I'll watch the video myself later.”
+
+“I don't envy you today.” Barbara stood up and held the door to the break room. “Ren's always a handful when Suzie is here.”
+
+Stella grinned as she passed. “If she wasn't so enthusiastic about hearing all the gory details, and excited when Ren actually tells her things...” She shook her head. “He'd be a lot more open to her.”
+
+“Maybe we should tell her that?”
+
+“I did.” Stella said as she started to walk down the hallway. “She hugged me, and thanked me for 'sharing'.”
+
+Barbara laughed. “Bye, Stella.”
+
+“Bye, Barbara. See you tonight.”
+
+*
+
+Ren sat in silence while Suzie watched the video he'd made for her. He glanced at her excited face, and sighed mentally.
+
+If she wasn't so happy to hear about my misery...
+
+Stella opened the room door and Ren was greeted with a luscious smell.
+
+“Oh, baby!” Ren said before he could help himself, and Suzie looked at him with twinkling eyes. She closed the laptop and folded her hands in front of her.
+
+“So.” Suzie leaned back in the chair. “How does that smell make you feel?”
+
+Aw, crap. He thought, as she smiled.

@@ -1,0 +1,267 @@
+---
+id: 5ebdf06e-92f1-57ac-939a-74cae2c74eb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 585 - Waiting With Denise"
+slug: 0585-chapter-585-waiting-with-denise
+partOf: mythrans-master-of-all-continued-completed
+position: 585
+ownLength: 2682
+unit: words
+publishedAt: 2018-05-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215300/chapter-585-waiting-with-denise"
+royalRoadId: "215300"
+---
+
+“S-sir! I'm so sorry for how I've been acting!” Gloria said. “I thought you were just some guy tasked with taking people around the labs to show off the company.”
+
+“...and you treated me like I was that guy.” Barley Bitterdew said. “It was quite refreshing, actually.”
+
+“Wh-what?”
+
+Barley smiled warmly at her. “People treat you differently if they know beforehand that you're worth millions of dollars, so I always try and keep that a secret for as long as I can. Then I can surprise people and gauge their reactions.”
+
+“Sir?”
+
+“You're wondering how I'm gauging yours?” Barley asked, and she nodded.
+
+“Quite genuine, and I think you hate it a little.”
+
+“A lot, actually.” Gloria said and clamped her mouth shut.
+
+“No, don't do that.” Barley said. “If you're going to work for me, don't try to restrain yourself when I'm around.”
+
+“But...”
+
+“I have too many people that do that to me already.” Barley said. “Don't hold back. Tell me what you think.”
+
+Gloria sat there and didn't say anything, and he smiled.
+
+“I see you removed your jewellery.” Barley said, immediately touching upon a sensitive subject. “Why is that?”
+
+“I wanted to make a good impression.” Gloria said in a flat tone.
+
+“Ha.” Barley said. “Now tell me the real reason.”
+
+“I hoped to go into a clean room, and I can't do that with everything on.” Gloria admitted.
+
+“Good! You have your priorities straight.” Barley said.
+
+“Excuse me?”
+
+“You only changed your appearance for practical reasons. I like that.” Barley said and stood up. “Come with me.”
+
+Gloria stood up and followed the owner of the company out of the room and back down the hallway, then she was surprised when he held open the door to the clean room.
+
+“Sir?”
+
+“Well, get in.” Barley said. “I can't hold the door all day.”
+
+Gloria entered the small room and he entered behind her and opened a closet. He handed her a thin outer suit to slip on over her clothing, and he grabbed one himself. He opened it up and stepped into it. It already had little booties attached to cover his shoes, and he pulled the covering up to his waist.
+
+“Don't just stand there.” Barley said and slipped his arms inside. “I can't open the inner door if you don't get dressed.”
+
+Gloria did as he said and slipped it on, and he handed her a big plastic hair net.
+
+“You're going to look like a chef wearing this.” Barley said and smiled. “Don't get angry if you hear cooking jokes.”
+
+Gloria smiled and put it on, and because of her partially shaved head on one side and her hair fluffed over the other, it did look like a chef's hat tilted to the side when she looked at it in the mirror.
+
+“These are just general use.” Barley said and put one on himself. “We have custom ones made for people using them every day.”
+
+Gloria accepted the thin rubber gloves he handed her and slipped them on. He checked that she had everything covered and nodded, then hit a big red button by the inner door. The sound of an industrial fan started below their feet, then they were hit by a huge blast of air from above. It only lasted a second, and then the inner door opened.
+
+“Welcome to Engineer's Paradise.” Barley Bitterdew said and motioned at the room. Gloria smiled at his dramatic declaration and went inside.
+
+*
+
+Ren and the others had finished eating a while ago, but he was still telling his story. He had just finished the part about the giant octopus giving up her life for her babies, and he had all the women in tears. Even Donald looked to be on the verge, and had nodded several times as Ren described letting the babies fend for themselves.
+
+“That's the best way, son.” Donald said. “Your friend Teepo was right. If they can't handle the little things now, they won't handle the big things later.”
+
+“Little things?” Barbi asked, her face tear streaked and mascara stained. “They were killing themselves!”
+
+“No, they weren't.” Donald said. “What they were doing was trying to gain the strength to swim in a very light current. When some of them decided that they couldn't and went with it...”
+
+“That sounds so callus.” Barbi said. “Like they didn't matter because they weren't strong enough to swim on their own.”
+
+Donald, in a rare show of concern, reached across the table and took her hand. “You have to understand that it was a harsh environment. They needed to learn to survive.” He said. “That doesn't apply here in the real world to us.”
+
+“Actually, it does.” Ren said, and everyone looked at him. “On very rare occasions.”
+
+“Oh, Ren.” Elise said and put an arm over his shoulder, and leaned in to kiss his forehead. “Just like the baby octopus that made it all the way to you, you made it all the way to us.”
+
+Ren looked around at their loving faces and smiled. “Yes, I did.”
+
+On that happy note, Ren finished his story and the impromptu gathering broke up not long afterwards.
+
+“I'll be back in an hour to start my shift.” Barbara said and gave Ren a kiss on the cheek. “No real life hanky panky, young man. You need to save your strength.”
+
+“You know he's going to try now, just because you told him not to.” Donald chuckled and took Barbara's hand and winked at Ren. “We've both got an hour to do our best.”
+
+“Donald!” Barbara exclaimed and swatted him with her free hand.
+
+It made everyone laugh, except for Ren. He had his ears covered and eyes squeezed shut.
+
+“I did not hear that. I did not hear that.” Ren said. He felt a pair of lips kiss his forehead and opened his eyes to see it was Barbara.
+
+“He can be a bit too crass sometimes.” Barbara said. “See you soon.”
+
+Ren nodded and they left, as did Stella with the dirty dishes.
+
+“I've got to go as well.” Elise said. “Barbi and I have a few more things to take care of before the evening is over.”
+
+“I'm sorry my story took a bit longer than I thought it would.” Ren said.
+
+“It's good enough of a story that you can write a book about it when you go back in the game.” Elise said. “What will that be? The fourth or fifth one?”
+
+“Sixth; if I bother to do it.” Ren said. “It's just too bad it's not recorded, because the visuals were fantastic when I was out beyond the settlement.”
+
+“The player buffers are scrubbed when you're in the Blue Screen protocol.” Elise said. “We can't even get the data from your side.”
+
+“Oh, well.” Ren said and gave her a kiss. “Have fun at work.”
+
+“I save a ton of money in gas, so it's always fun.” Elise said, and he laughed. “I'll see you later.”
+
+“Bye.” Ren said to her and waved to Barbi as the two women left, which left him all alone with Denise. “Looks like it's just us.” He said and waggled his eyebrows.
+
+Denise smiled and came around the table. “It is, but nothing like that is going to happen for another hour.”
+
+“Are you sure?” Ren asked as she took control of the wheelchair and pushed him out of the dining room. “You heard me say I haven't seen any of you in 6 months, right?”
+
+“Yes, I heard you.” Denise said and pushed the button for the elevator. It opened right away, so she pushed him inside and turned the wheelchair around to face the door, then stepped around him to push the button for the second floor. She jumped a little as she felt Ren's hand touch the inside of her thigh.
+
+“Easy, there.” Ren said. “Now I'm a little glad that I didn't try for your butt.” He said. “You seem awfully skittish.”
+
+“I... I'm not.” Denise said.
+
+Ren stopped touching her. “What's wrong?”
+
+“Nothing.”
+
+“Denise, don't insult my intelligence.” Ren said, and she took a quick breath. “Oh, so that's it.”
+
+“Wh-what?” Denise asked without turning around.
+
+“Does me being smarter change how you feel about me?” Ren asked.
+
+“No, of course not.” Denise said, and the elevator door opened. She went back behind the wheelchair and pushed him out and over to his bedroom. “You're still the same Ren.”
+
+“No, I'm not.” Ren said, and she stopped pushing the wheelchair.
+
+“Excuse me?”
+
+“Denise, you know as well as I do what it means for me to remember everything.” Ren said. “Instead of being bits and pieces like I was before, where I was suffering nightmares that were just repressed memories trying to reassert themselves, now I'm complete and whole.”
+
+“Ren...”
+
+“I haven't had a nightmare since the seizure, either.”
+
+“Ren that was only yesterday.”
+
+“For you it was yesterday. For me it's been... with the time I spent in the Sanctuary with Zetaya and the time I spent in the Water Realm, I've been 'myself' for about 5 years now.”
+
+Denise's mouth fell open at this admission, and she stared at him without saying anything.
+
+“Help me into bed, please.” Ren said.
+
+Denise helped him and moved the wheelchair to the side of the room and out of the way. “F-f-five years?” She asked as she came back over to the bed.
+
+“Now you know why Lisa doesn't mind only getting a few minutes of my time.” Ren said. “A minute of time in the Sanctuary is close to 2 full weeks.”
+
+“Good lord.” Denise said. “But... how...”
+
+“It took us a while to get used to that much time compression. Once we did, though...” Ren smiled. “We can pop into the game and spend a minute of time together whenever we want, and it's like a 2 week vacation with each other.”
+
+“Wow.” Denise looked up at the blank television screen. “If that's true, then...”
+
+“No, I won't subject you to that.”
+
+“What? Why?”
+
+“You're going to be playing the game for the first time tonight. Even adjusting to that small amount of time compression takes time. Quite a bit of time, in some cases.”
+
+“Some cases?”
+
+“I've seen messages on the boards about people messing up their days and schedules because they spent too much time playing, then they have to adjust to normal time again.”
+
+“You don't seem to have that problem.” Denise said.
+
+“I did for a while.” Ren said. “The days just kind of ran together and I didn't know what day of the week it was.” He smiled. “Or cared, really. It's not like I had anything else to do.”
+
+Denise didn't respond, and he chuckled.
+
+“Yes, I could have had other 'things' to do, if I'd known who you were back then.”
+
+Denise shook her head. “I don't know if it could have happened, even if we'd both known how...” She looked down at him and saw he was quite ready. “Geez, we're just talking!”
+
+“Denise, I have a woman right next to me who has a body that is a perfect fit for me.” Ren said. “Just having you in the room with me gets me like this.”
+
+Denise sighed. “Ren, we can't do anything. You're too weak to do much, even if I thought we could get away with something.”
+
+“Normally I would agree; but, it's starting to hurt and I need assistance.”
+
+“Wh-what?” Denise looked at Ren with wide eyes.
+
+“Stella told me to tell you when I needed relief, and I need relief.” Ren said. “Can you help me?”
+
+“Y-yes, of course.” Denise said and grabbed a blanket to cover up if she needed it, then eased his pyjama pants and underwear down. She saw it was starting to turn a darker red, and knew he was telling the truth.
+
+“I knew you would think I was trying to take advantage of you, so I didn't mention it until now.”
+
+“Ren, I...” Denise tried to say what she was thinking.
+
+“Denise, just say it.” Ren said.
+
+Denise sighed. “You're a lot smarter now, just like Barbi said. I'm worried you can manipulate us all into doing whatever you want.”
+
+Ren took her hand and boldly placed it on himself. “What's that old saying about trying to herd cats?”
+
+“It's impossible.” Denise said and started to gently stroke him without thinking about it. “No matter what you do, they ignore you if they can and do what they want.”
+
+“Right.” Ren said. “I could see how much you were struggling against wanting to do this.”
+
+Denise's hand moved faster. “Ren, I... you're too much. I can't stop thinking about...” She looked down at what she was doing, and looked back at his face. “I don't want to lose myself to how good you feel.”
+
+“I should say the same thing, but I honestly love that feeling. Having you enjoy me so much while I'm enjoying you so much, just pushes it to a whole new level for me.” Ren said and touched the side of her face with a hand. “The look... of pure joy on your face... was the most beautiful thing I had ever seen... and that's saying something... because I've seen Elise naked.”
+
+Denise smiled at that and knew he was getting close, because he was starting to pant. She kept moving her hand and reached for the bedpan she had emptied and cleaned just before Ren had logged out. When she moved it close to get it ready, she realized that she didn't want to do that. She moved the bedpan out of the way, and Ren's eyes widened.
+
+“Denise?”
+
+“Close your eyes.” Denise almost whispered.
+
+Ren knew what that meant, so he closed them immediately. She didn't like him looking at her when she did things like that.
+
+“Darling, I... I won't fight it anymore.” Denise said, and a moment later, he felt her mouth on him.
+
+“Oh, GOD!” Ren yelled and finished immediately. His whole body trembled at the extra attention, and he could hear her moan as she cleaned him up. He relaxed after a few moments, and he kept his eyes closed until she told him it was okay to look.
+
+“You're so obedient.” Denise said as she put his clothes back in order. “Thank you for listening to me.”
+
+Ren took her hand and kissed it. “You and I are going to have so much fun in the game tonight.”
+
+“Elise told me that being with you was both different and the same.” Denise said and smiled. “That was... an awkward conversation for me.”
+
+Ren let her hand go and cupped the side of her face. “Thank you for taking the time to learn what you could.”
+
+Denise chuckled. “She pretty much blurted it all out when I asked about it.”
+
+“Don't worry, I'll take it easy on you.” Ren said, and she looked at him with a bit of disappointment on her face. “Or maybe not.” He said. “Look, I want you to enjoy it, so just tell me what you want me to do and I'll do it.”
+
+“So, you're sticking with the obedience role?” Denise asked.
+
+“Sticking with it? It's all I have to offer.” Ren said. “I want you to be happy, and I'll do anything I can to achieve that.”
+
+“You are too good to be true.” Denise said and leaned close to give him a kiss.
+
+“I seem to hear that a lot.” Ren grinned.
+
+“Did you know that if you hear something enough, you start to believe it's the truth?” Denise asked.
+
+Ren started mumbling something, but she couldn't quite making it out.
+
+“What are you saying?” Denise asked and turned her head to put her ear next to his mouth.
+
+Ren reached up and put his arms around her neck. “You are perfect. You are perfect. You are perfect. You are perfect.”
+
+Denise blinked her eyes several times to stop tears from forming, then she turned her head and kissed him.

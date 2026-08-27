@@ -1,0 +1,253 @@
+---
+id: 735e7e9e-c813-5c0d-95ae-aae7a8d2ef23
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 Stranger"
+slug: 0035-chapter-33-stranger
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 35
+ownLength: 2151
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3286464/chapter-33-stranger"
+royalRoadId: "3286464"
+---
+
+Lucien could not help but give Tomas a long look after the young militia finished speaking.
+
+Around them, the gathering in the square continued to disperse, conversations rising once more as villagers and refugees drifted into smaller groups. The tension that had held the crowd together only moments earlier had begun to dissolve, replaced by the quieter rhythms of ordinary discussion.
+
+Yet his own thoughts lingered on the words Tomas had spoken. Of a missing stranger who was, at this very instance, somewhere within the village. The initial suspicion receded when he looked across the square toward the cluster of newcomers and noted how their posture showed no alarm.
+
+The refugees showed no signs of involvement, and given how their attention was divided between the villagers who had begun speaking with them and the unfamiliar surroundings of Ashridge, Lucien found it highly unlikely they were up to any nefarious deeds.
+
+He returned his attention to Tomas standing before him. “You are certain of the count?” he asked, continuing to keep his tone carefully low.
+
+The young militia nodded immediately. “Yes, My Lord. I counted them myself when the last group came through the gate yesterday.” He paused briefly before adding, “I checked again this morning after the announcement.”
+
+“And the numbers do not match.”
+
+“No, My Lord.”
+
+Lucien regarded him carefully. Tomas had been brash, eager to prove himself when he had first arrived in this world a month ago. Yet ever since Dalen’s death, he had become noticeably more careful in the weeks following the Tithe. If he claimed the numbers were wrong, it was unlikely to be a simple mistake.
+
+“You mentioned a girl. You are certain of a specific person then?” he asked at last. That detail in particular had caught his attention.
+
+Tomas hesitated, as though the answer itself seemed unusual even to him.
+
+“My Lord, I noticed her when they first arrived because she seemed to…” He trailed off, searching for the words. “She kept apart from the others.”
+
+Lucien’s gaze sharpened at that. “In what way?”
+
+“She didn’t speak...to anyone really. Not with the villagers, nor with the group she had been traveling alongside.” Tomas recounted slowly.
+
+A brief pause lingered before he added, “She carried two bows as well, My Lord. That was what caught my attention.”
+
+The detail hung in the winter air between them as Lucien’s brows furrowed faintly. For the denizens of the frontier fleeing the Tithe, it was unusual for someone to carry two bows while traveling in winter.
+
+He turned to scan the refugees gathered in the square, his eyes soon finding the older man he had first spoken to yesterday and again earlier that morning.
+
+The man stood a short distance away speaking quietly with two villagers, his posture still carrying the careful deference of someone unaccustomed to standing openly within a noble’s settlement.
+
+Tomas, having followed the direction of his gaze, seemed to understand what he intended.
+
+“Should I bring him, My Lord?” he asked quietly.
+
+Lucien inclined his head slightly. “Do it, but discreetly. I do not believe he is directly involved, but he would certainly know more.”
+
+Tomas nodded once and moved quickly through the crowd, careful to keep his posture relaxed.
+
+He remained where he stood, his gaze returning briefly to the refugees as he considered the information Tomas had provided.
+
+A silent girl carrying two bows, now somehow unaccounted for within a village that had only just begun to settle after the morning’s announcement.
+
+Small matters often become troublesome when left unattended.
+
+Tomas did not take long to return, the older man following a few steps behind him. He moved with the same cautious restraint he had shown since arriving in Ashridge.
+
+Though the gathering had begun to dissolve into smaller, somewhat warmer conversations, the man still seemed reluctant to approach a noble too directly.
+
+He stopped a respectful distance away before lowering his head.
+
+“Milord.”
+
+Lucien acknowledged the greeting with a small inclination of his head.
+
+“There is a matter I would clarify,” he said evenly. “One of the people who arrived with your group yesterday may be unaccounted for.”
+
+The man's expression shifted almost immediately. “Unaccounted for?” he repeated.
+
+Lucien observed the reaction carefully. There was surprise there, but not the sort that suggested deliberate deception.
+
+“You were traveling with a young woman,” Lucien continued. “One who carried two bows.”
+
+At the distinct description, the man's brow furrowed in realization. “Yes...I believe I know who you mean, Milord.”
+
+“She joined us along the road several days before we reached Ashridge,” the man explained slowly. “None of us knew her before that.”
+
+Tomas shifted beside him at those words while he kept his attention fixed upon the man.
+
+“You did not ask where she came from?”
+
+“We tried,” the man admitted. “But she never answered.”
+
+The response drew a faint crease between Lucien’s brows. “She never spoke?”
+
+The man shook his head. “Not once that I heard, Milord. We thought...” He hesitated briefly before finishing the thought. “We thought she may have lost her family when the Tithe passed through.”
+
+‘That is not an uncommon story in these lands,’ Lucien noted inwardly.
+
+“And yet she remained within your group?”
+
+The man inclined his head slightly. “She kept her distance, but she followed the same road we did.”
+
+Lucien’s eyes sharpened slightly. “And the bows?”
+
+The man gave a small shrug. “She carried them the entire way. One across her back, the other always gripped in her hand.”
+
+That matched Tomas’s description of the missing girl.
+
+Lucien exhaled slowly. “Did anyone see where she went after arriving in the village?”
+
+The refugee shook his head again.
+
+“Most of us were too tired to notice much of anything once we were inside the walls, Milord.”
+
+That, too, was understandable. Traveling across the frontier with only the bare necessities during winter would have left little room to consider anything else.
+
+Lucien allowed a brief silence to settle as he considered the situation as a whole. If the girl had entered Ashridge with the others, then it was almost certain she was still somewhere within the village.
+
+The only question was where.
+
+“Very well,” Lucien said at last.
+
+The older man lowered his head again. “If there is anything we can do to help—”
+
+“For now, there is nothing further required,” Lucien replied calmly.
+
+Relief flickered briefly across the man’s expression before he bowed once more and withdrew toward the other refugees.
+
+Tomas watched him go before turning back to Lucien.
+
+“Should we search the village, My Lord?”
+
+Lucien’s gaze moved slowly across the square. Midway through, he caught Dorian’s eyes. The captain had been observing the exchange from a distance but had not approached.
+
+It was clear the man understood that something was amiss, yet had chosen to remain where he was rather than draw unnecessary attention.
+
+Lucien gave the captain a small nod before speaking to Tomas without turning fully toward him.
+
+“A full search would cause undue concern, especially after we have just announced that these people are welcome in Ashridge.”
+
+“Inform Captain Dorian of the matter and have the gate guards remain attentive,” Lucien continued. “If she attempts to leave the village, I want to know immediately.”
+
+“Yes, My Lord.”
+
+Lucien gave a final glance across the square before turning toward the road leading back to the manor.
+
+The girl was likely somewhere nearby, and that would have to suffice for now. Yet the image lingered in his thoughts as he began the walk back toward the manor.
+
+A silent traveler carrying two bows across the winter road.
+
+A girl at that.
+
+The roles men and women occupied in this world were not enforced by custom alone, but by the realities of the land itself.
+
+Most women did not take part in combat, not because it was forbidden, but because life here was already dangerous enough with the beasts that roamed the forests and creatures that would have belonged only in stories in his previous world.
+
+For a girl to travel the winter roads alone with two bows was unusual enough.
+
+For her to somehow vanish within a village of five hundred people was stranger still.
+
+Lucien had already learned that questions like this rarely ended where they began.
+
+By the time he left the square after his conversation with Tomas had ended, the gathering behind him had already begun to dissolve.
+
+Small groups lingered along the road and near the ranking board, villagers and newcomers alike speaking in cautious but steadily warming tones as they began the slow process of becoming familiar with one another.
+
+As Lucien walked along the main road toward the manor, several people greeted him as they passed.
+
+A farmer carrying a bundle of firewood dipped his head respectfully. “Milord.”
+
+He returned the greeting with a slight nod without slowing his pace.
+
+Near the southeastern stretch of the village, a few of the newly arrived refugees could be seen examining the abandoned shelters that had been pointed out to them earlier.
+
+Some of them stood just outside the weathered structures, their tired faces carrying a mixture of uncertainty and restrained relief as they took in the temporary refuge Ashridge had offered.
+
+Yet while the village itself had begun to settle back into its usual rhythm, Lucien’s thoughts lingered on the information he had just received.
+
+A silent girl carrying two bows.
+
+He could not help but feel a certain curiosity about that detail, especially given what he now understood about the world he lived in.
+
+‘Two bows would imply a certain level of skill or training,’ he noted idly to himself.
+
+It meant that someone had once taken the time to teach her, which only made the situation more unusual.
+
+Most settlements across the frontier could not afford specialized roles such as hunting. The majority of those who brought meat back to their villages were farmers first and hunters only when circumstance allowed it.
+
+This was even more true when one considered the presence of beasts such as goblins and kobolds. And yet here was someone traveling the winter roads with two bows.
+
+That suggested something more deliberate.
+
+He exhaled softly, keeping his expression composed.
+
+‘Perhaps the matter will resolve itself. She may simply leave the village by tomorrow.’
+
+By the time he reached the manor, the familiar quiet of the grounds greeted him.
+
+A pair of servants crossed the courtyard carrying split logs toward the kitchen entrance, while another passed by with a bucket of water drawn from the well.
+
+He exchanged a brief nod with them before stepping inside the manor.
+
+The interior carried the warm scent of burning wood from the hearths, a welcome contrast to the cold air lingering outside. Quiet movement drifted through the halls as servants attended to the ordinary tasks of the household.
+
+The events of the day seemed almost distant.
+
+He had only just begun to consider the next matters that would demand his attention when a familiar figure approached from the side corridor.
+
+Alicia’s steps slowed as she drew nearer, her hands clasped lightly in front of her apron.
+
+“My Lord...may I trouble you for a moment?”
+
+He paused at the hesitant tone in her voice. It reminded him, rather uncomfortably, of the early days after his arrival when their interactions had carried a similar tension.
+
+“What is it?” he asked, turning his full attention toward her.
+
+She looked uncertain, her fingers tightening faintly against the fabric of her apron as though searching for the right words.
+
+“There is...someone inside the manor.”
+
+Lucien’s brow creased faintly. “A visitor?”
+
+Alicia shook her head quickly. “Not exactly, My Lord.”
+
+He studied her for a moment. “Did someone enter without permission?”
+
+“That is not quite the situation either,” she replied softly.
+
+He waited patiently as she seemed to steady herself. Making a visible effort to keep her composure, she finally spoke again.
+
+“She’s in my room,” she blurted out, though her voice remained soft.
+
+The words lingered in the air between them.
+
+Lucien blinked once.
+
+He considered asking her for more details, yet it was clear from her expression that she was just as uncertain about the situation as he was.
+
+“Very well,” he said at last, gesturing for her to lead the way.
+
+Alicia nodded quickly before turning toward the staircase that led to the upper floor.
+
+As he followed, his thoughts returned briefly to the missing refugee Tomas had mentioned earlier.
+
+A faint suspicion began to take shape in his mind. Coincidences such as these rarely occurred in isolation.
+
+They reached the second-floor hallway, the quiet corridor dimly lit by winter light filtering through the narrow windows. She stopped beside a door only a short distance from his own room.
+
+For a moment she hesitated again before reaching out and pushing it open.
+
+“My Lord,” she murmured as the door swung inward.
+
+Lucien saw her standing inside Alicia’s room.

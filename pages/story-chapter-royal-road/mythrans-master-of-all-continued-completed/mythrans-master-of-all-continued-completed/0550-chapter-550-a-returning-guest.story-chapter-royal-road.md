@@ -1,0 +1,241 @@
+---
+id: fc8ca2a2-c538-5baa-bb65-59802bfa1f74
+page-type-slug: story-chapter-royal-road
+title: "Chapter 550 - A Returning Guest"
+slug: 0550-chapter-550-a-returning-guest
+partOf: mythrans-master-of-all-continued-completed
+position: 550
+ownLength: 2680
+unit: words
+publishedAt: 2018-04-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206686/chapter-550-a-returning-guest"
+royalRoadId: "206686"
+---
+
+“I know Adventurers can be Hardy, but I've never heard of anyone not eating for weeks.” Lady Eleanor said as King Alamast held her chair for her. She sat down and the king turned and held the chair for his daughter, who sat just as regally as her mother had, and then the king himself sat down.
+
+Ren waited for them to be seated before repeating the same motions for the women on his side of the table. “It's simple really.” He said as he started with Frikara and helped her sit. “I didn't need to eat because I have a Ring of Sustenance.” He moved on to Lusinia, then sat Verwynn, Navruth and Andrela.
+
+“A ring of sustenance?” King Alamast asked. “That provides everything someone would need to maintain their daily needs, doesn't it?”
+
+“It does, Your Highness.” Ren said and walked over to the chair beside Frikara and held the next one out for Patty. She sat down and Xuunah, Artemis, and Officer Holly took up positions against the wall near the serving maid.
+
+“Did it stop working?” Princess Diana asked, just because she wanted to be a part of the conversation.
+
+“Yes, but only because I had to remove it yesterday and I'm waiting for it to align to me again.” Ren said and sat down himself. “I can still eat food while wearing it; but only because the food tastes good, and not for it's Health properties.”
+
+“How much longer do you have to wait for it to adjust to you?” Lady Eleanor asked.
+
+“Only until tonight.” Ren said and leaned over the table conspiratorially. “Once I discovered the recipe, I used my skills to alter it's design and changed the requirements.” He said and glanced from side to side, because that was what was expected when someone was sharing a secret. “I even dropped the alignment time from a week to only a day, and made it so you only have to sleep for an hour to benefit from a full night's rest.”
+
+The king, his wife, and his daughter stared at him with wide eyes.
+
+“That's his latest version.” Frikara said. “The one just before that requires 2 hours of sleep for the same benefit, and he won't give us the new one.”
+
+Lady Eleanor covered her mouth with a hand to stop her gasp.
+
+“Frikara, don't exaggerate.” Lusinia said. “They work just fine and Ren didn't want us to lose the extra benefits while we waited for the new rings to adjust.”
+
+“Extra benefits?” Diana asked.
+
+“He managed to work in small diamonds to the design and enchanted them as well.” Lusinia said and put her hand onto the middle of the table to show off the ring, and Diana could see the diamonds recessed into it's surface. “The ring gives us +10 to all of our stats.”
+
+Ren couldn't see the reactions of the three people on the other side of the table, but he sure could feel them. “We seem to have gotten ahead of ourselves.” He said and smiled. “I inadvertently started the meal conversation and we don't have the meal yet.”
+
+King Alamast chuckled. “Yes, yes. You're quite right.” He said and waved to the server. Belinda smiled widely and came over to the table and started to serve the food. Ren took a long breath in through his nose and sighed.
+
+“That smells good.” Ren said and watched as she served food to the king, his wife and daughter, then she came over to his side of the table.
+
+“It is, My Lord.” Belinda said and served him, then she dithered about which side of Ren to serve first.
+
+“I'll defer to Patty, because she has the rank of Mayor within this political system.” Frikara said.
+
+Belinda almost sighed in relief and served Patty first, then moved around Ren to serve Frikara. When she moved on to Lusinia, Ren took Frikara's hand and lifted it to his lips, then he kissed the inside of her wrist. Frikara's face flushed red at the intimate contact, especially in such a public place, and Ren felt her discomfort.
+
+Ren let her hand go and leaned in to put his mouth by her ear to whisper. “Is it because I did it, or because it's in public?”
+
+“Public.” Frikara whispered back.
+
+Ren gave her cheek a light kiss and leaned back to look at King Alamast. “In dwarf culture, a kiss on the wrist is something you reserve for those you care about deeply, and it's usually saved for private circumstances.”
+
+The king looked at Frikara's red face and back at Ren. “Then why did you do it?”
+
+“I wanted to thank her for not making a fuss about not being served first, despite her being a Lady in my unregistered House.” Ren said and he felt the king and his family's reactions. So, they know something about of dwarf culture. “I also wanted her to know that I care enough about her to do the gesture publicly.”
+
+Both Lady Eleanor's and Princess Diana's gazes ran across the other 4 dwarf women at the table, and went back to Ren with the obvious question on their faces.
+
+“I might be talented, but even my lips can't reach their wrists from here.” Ren said, and the other 4 maids blushed.
+
+The king notice their reaction to just Ren's words. “So, you would do the same gesture to them in public?”
+
+“Of course I would.” Ren said. “We share a bed every night. Showing them affection outside of that is almost a requirement.” He said. “Look at them. They're beautiful, intelligent, resourceful, and a few other things that I can't really admit to without embarrassing them.” He felt them be embarrassed anyway and looked at the bright red faces of the maids. “I mean, without embarrassing them further.”
+
+Frikara shook her head. “Ren, stop talking about us.”
+
+“Why? I still haven't told them that I love you all and-Mmhm” Ren's words were cut off when Frikara covered his mouth with her hand, and that made the maids and Patty laugh.
+
+“By the gods, shut up!” Frikara said and kept his mouth covered, then turned to look at the king and his wife and daughter. “He tends to ramble on about things if you let him.”
+
+King Alamast and Lady Eleanor smiled while Diana bit her lip to stop from laughing. Belinda finished serving the food and went back over to the wall to wait while the people at the table started to eat.
+
+After a few minutes, Belinda couldn't contain her curiosity and whispered softly to Xuunah and Officer Holly. “Does he really have all those women in his bed every night?”
+
+Xuunah and Officer Holly exchanged glances, then shrugged.
+
+“Not Patty, the one on his left.” Officer Holly said. “The other 5? Yes.”
+
+Belinda was quiet for several minutes. “How does that work?” She asked. “Wouldn't someone be left out? There's only one of him and 5 of them.”
+
+“They take turns.” Xuunah said.
+
+Belinda thought about it. “I suppose that would work. One a night for 5 nights, and then...”
+
+“No, every night.” Xuunah said, and because she shared an Aura with Ren, she felt utter shock from the young woman. Ren didn't even glance over as he kept eating and listened to the conversation at the table. Xuunah felt that he wanted to look over at them to see what was going on, and had decided the king and his family had to take precedence.
+
+“E-e-every n-night?” Belinda asked once she had recovered, and Xuunah nodded. “How?”
+
+“This isn't the time to discuss how things between a man and a woman work.” Xuunah said and smiled.
+
+“That's not what I...” Belinda saw Xuunah's smile, and realized Xuunah had intentionally misunderstood. “I'll stop talking now.”
+
+King Alamast, Lady Eleanor, Princess Diana, and their guests ate lunch and shared a good conversation about nothing, as was the normal pace for lunches in the royal household. Nothing important was to be discussed while they ate, and that was how Lady Eleanor liked it. Meals were her personal time with her family, and the serious things could wait until they were done.
+
+King Alamast waited until everyone sat back from their plates before he waved to the server. Belinda came over with the cart and started to pick up the dirty dishes. She grabbed the three of them from the king and his family first and carried them to the cart. She deposited them there and came back to the table on Ren's side. Ren took out a Strong Ring of Storage and held it out to her.
+
+“My Lord, I can't accept that.” Belinda said and took his empty plate. “I can carry everything just fine.”
+
+“But you can just store it all and then put it in the cart.” Ren said.
+
+Belinda stopped and put a hand on his shoulder. “My Lord, you are generous to a fault. I won't abuse your good nature by taking everything you offer.”
+
+Ren felt that she was being sincere, so he had to ask her a question. “Can I ask what happened to the other ring I gave you?”
+
+Belinda smiled. “I gave it to my mother, of course.”
+
+“But...”
+
+“I don't have any skill in that regard at all.” Belinda said. “It was a very generous gift and I appreciated it; but...”
+
+“It was useless to you.” Ren said. “I'm sorry about that.” He said and held the ring up. “This won't be useless.”
+
+Belinda thought about saying no. She didn't need to store everything first, but she knew he wouldn't stop trying to give her things if she refused again, so she held her hand out. Ren smiled at her and put the ring in her hand, and then Belinda gasped as his fingers touched her palm.
+
+Belinda's hand wrapped around his and she held on as a ghoul-kissed mark appeared above her heart. Her body shook from the sensations it gave her, and she gained everyone's attention and they looked at her. Belinda was healed fully a moment later and she became a part of Ren's domain.
+
+“M'lady, I didn't realize...” Ren stood up to hold her hand properly.
+
+“What... what happened?” Belinda asked. “I feel so... so...”
+
+“My touch can fully heal anyone that's been infected by a ghoul.” Ren said. “The side effect is that you become a part of my domain.”
+
+“A part of your... wait, did you just call me M'lady?”
+
+Ren felt her start to go into shock and tried to calm her down. He flooded his Reassurance Aura with happiness and then activated his Hands of the Gods ability and chose Reassuring Hands. Belinda responded to his touch immediately and calmed down.
+
+“Please accept my apologies.” Ren said. “I didn't mean to subvert your choice for...”
+
+“What are you talking about?” Belinda asked. “I've never even seen a ghoul, let alone been near one! How was I ghoul-infected?”
+
+Ren sighed. “M'lady...”
+
+“I'm not a Lady! Stop calling me that!”
+
+“I'm sorry, ma'am.” Ren said. “The proof is the skull mark that now exists above your heart.”
+
+“Wh-what? A skull? No. Nonono.” Belinda shook her head several times.
+
+Ren poured as many good feelings as he could into her to keep her calm, and she took several deep breaths. No one said anything for several minutes, and then Belinda used her free hand to pull out her top slightly and looked down to see the skull right where Ren said it would be.
+
+“How did this happen?” Belinda asked as a tear rolled down her cheek. “How?”
+
+“Let's find out.” Ren said.
+
+Belinda let her top go and her eyes found his. “How?”
+
+“Two possible ways; but, I'll use what I have right here at my disposal first.” Ren said and took out the All-Seeing Mirror and kept a hold of her hand. “Please show me how Belinda was infected.”
+
+Ren and Belinda watched as she touched a dirty spoon to hand to the dishwasher.
+
+“N-no!”
+
+“It seems it was a spoon that was responsible.” Ren said out loud, then he felt surprise from King Alamast, Lady Eleanor, and Princess Diana... then it turned to dread.
+
+“The spoon.” King Alamast said and looked at his wife. “It was the damn spoon!”
+
+“What spoon?” Ren asked, and the All-Seeing Mirror showed the spoon, and he held it up to show them. “This spoon?”
+
+“It looks the same as all of our spoons.” Diana said, then she gasped. “Oh, god! Did... did someone poison her on purpose?!?”
+
+“I was poisoned by a spoon.” Lady Eleanor said in a flat voice. “A spoon.”
+
+“Show me where the spoon is now.” Ren said, and the view in the mirror changed to show the table they just ate at. “It's here.” He said and let Belinda's hand go to walk over to the table and stopped at the chair Verwynn sat at. He reached for the spoon and saw his hand appear in the All-Seeing Mirror. “This one.”
+
+“Don't touch it!” Diana exclaimed.
+
+“It's okay.” Ren said and switched his Reassuring Hands to Burning Hands and covered the spoon in Fire.
+
+“AHH!” Diana, Lady Eleanor, and Belinda screamed a little at the sight. Ren picked up the spoon and they saw that the table was untouched.
+
+“What? How?” Belinda asked.
+
+“I can manipulate and absorb Fire.” Ren said and deactivated his Hands of the Gods ability. “Identify.”
+
+Sir Spoon
+
+This inanimate object is a Knight of the Human Kingdom
+
+“You have got to be kidding me.” Ren said.
+
+“What is it?”
+
+“Um, I don't know how to say this without sounding crazy.” Ren said. “Normally I don't mind that, but...” He shook his head. “It's name is... Sir Spoon.”
+
+“WHAT?!?” Everyone in the room yelled together.
+
+“Yeah, see? Crazy, right?” Ren chuckled. “Sir Spoon here must have done some adventuring to get the title. It's too bad it used its abilities for attempted murder.”
+
+“Ren, talking like that...” Frikara started to say.
+
+“Yes, I know.” Ren said. “I wonder if I can find out how it got here.”
+
+“Forget that!” Belinda said and started to get hysterical. “Crush it! Melt it! Tear it apart!”
+
+Xuunah stepped close to her and put her hands on her shoulders to flood her with Reassurance and good feelings.
+
+Belinda took several more breaths and calmed down. “It nearly killed Lady Eleanor and made me sick, and I didn't even know it.” She said. “Who else has it harmed? Who has it killed?”
+
+No one spoke as those questions floated in everyone's ear.
+
+“Please destroy it.” Belinda said, and Ren made a fist to crush it into a little metal ball. She visibly relaxed, as did Lady Eleanor and Princess Diana.
+
+“Please tell me you didn't touch it.” Diana asked Verwynn.
+
+“I didn't touch it, Your Highness.” Verwynn said, and no sweat appeared on her face.
+
+“Did anyone else?” Diana asked, and everyone shook their heads.
+
+“Only me.” Belinda said. “Thank god.”
+
+“Actually, that might not be true.” Ren said and looked at the All-Seeing Mirror. “Can you show me who else has been infected by the spoon?”
+
+Three faces appeared in the mirror and Ren showed it to Belinda.
+
+“The dishwasher, Narshan.” Belinda said when she pointed to the first face, then pointed at the next face. “That's Sharlee. She's a maid up on the third floor.”
+
+“And the last one?” Ren asked.
+
+“I don't recognize him.”
+
+Ren turned the mirror to show the royal family.
+
+“He's one of father's knights.” Diana said. “I think his name is Blair.”
+
+“We have to get to them right away.” Ren said. “We can't let Sir Spoon kill anyone, now that we know who it targeted.”
+
+“Ren.” Frikara said, and he chuckled.
+
+“It's hard to talk about it and not have it sound crazy.” Ren said.
+
+“Follow me.” Diana said and stood up. “I'll take you to them.”
+
+“Thank you.” Ren said, then he and Artemis followed Princess Diana out of the dining room to find Sir Spoon's other victims.

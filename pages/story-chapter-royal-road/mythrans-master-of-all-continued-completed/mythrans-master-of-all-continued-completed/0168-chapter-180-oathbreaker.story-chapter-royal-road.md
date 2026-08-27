@@ -1,0 +1,489 @@
+---
+id: 0c6211db-5df4-5c07-9940-55e26b3b379b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 180 - Oathbreaker"
+slug: 0168-chapter-180-oathbreaker
+partOf: mythrans-master-of-all-continued-completed
+position: 168
+ownLength: 4351
+unit: words
+publishedAt: 2017-02-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120558/chapter-180-oathbreaker"
+royalRoadId: "120558"
+---
+
+“Get out of here, Cheryl.” Bonnie laughed. “This TV Star isn't giving out autographs today.”
+
+“Aww!” Cheryl said, fake pouted, then laughed herself. “See you around, Ren!”
+
+Ren waved to her as she left, then he looked at Bonnie. “I guess I should expect this for a little while.”
+
+“Probably.” Bonnie said as she wheeled him out of the therapy room. “If the show catches on, you'll become a household name.”
+
+Ren snorted a laugh. “I don't think so.” He said as they went down the hall to his room. “It's going be just like that old saying. I'll have my 15 minutes of fame, then fade from the spotlight.”
+
+Bonnie shook her head as he got out of the chair and she put it by the door. “You're underestimating your cuteness again.”
+
+“Ha.” Ren said, and held his arms out for her. She pulled up the long sleeved t-shirt and slid it gently over his sore elbow. “I know how far cuteness can go. It's not far enough to make me a celebrity.”
+
+Bonnie grinned at him. “Just you wait.” She said. “This is going to change your life.”
+
+Ren went into the bathroom to take a shower. It took a lot longer than usual, as his arms were still sore from the workout. He had to ask Bonnie to wash his back, though. She did so without comment, and helped him dry off.
+
+“Thanks, Bonnie.” Ren said, and she nodded. He got dressed in the blue set of pajamas, then went to the bed and climbed in. “Whew. I'm exhausted.” He said and motioned for the VR headset. “I better get some sleep.”
+
+Bonnie laughed. “I still find it hard to believe that you can get a full night's sleep in only a few hours.”
+
+“Me, too.” Ren said, then yawned. “I don't know how the time compression actually works; but, I can live 4 full days every day, and get 4 full nights of sleep every 24 hours.”
+
+“Then you better get in there and get some rest.” Bonnie said, and helped him put the VR headset on. “You've only got 2 game days before you officially meet the public.”
+
+“See you at lunch.” Ren said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch and rubbed his eyes. Ugh. He said. Now I'm doubly tired. He stood and stretched.
+
+“Hi, Ren.” Teepo said. “Nothing happened while you were gone, and no one came in.”
+
+That's great, buddy. Ren sighed. I'm heading to bed to get some sleep.
+
+“I'll see you in the morning.” Teepo said.
+
+Goodnight. Ren thought as he walked down the hallway to the old bedroom. He blinked his eyes a few times, opened the door to the bedroom, and went inside. He didn't look around at all, and stored his clothing. It left him in just his underwear, but that was more comfortable when there was a blanket on the bed. Ren slid under the blanket on what he thought of as 'his' side of the bed, from all of the times he'd slept there with Nathalia. The bed barely moved as he lay down on his side, and when his head hit the pillow, he fell fast asleep.
+
+Not once had he noticed the small lump on the other side of the bed.
+
+*
+
+Ereka stirred slightly. Even though she had been asleep, she thought she had felt the bed move. She waited for a moment; and when she didn't feel anything else, she drifted back to sleep.
+
+*
+
+“He really didn't come back.” Narhilda said, as she sat on the couch in the royal apartment.
+
+Nathalia laughed. “Did you really think he would, when you practically told him you didn't want anything to do with him?”
+
+“I said no such thing!” Narhilda exclaimed.
+
+“No, you didn't say it.” Nathalia said. “You just told him to not bother trying to earn an invite back to the Kingdom after he's forced to leave.” She said. “Right after taking off the things he made for you.”
+
+“I'm still wearing the rings!”
+
+Nathalia laughed again. “Only because they benefit you without having to think about him.”
+
+“I'm starting to get tired of your accusations.”
+
+“Are they accusations when they're true?” Nathalia said. “I haven't lied, or you would know.”
+
+Narhilda closed her mouth, before she said something she would regret.
+
+“You still want to argue with me, though.” Nathalia shook her head. “What's gotten into you?”
+
+“I don't know what you mean.”
+
+“Ever since we've been back at the castle, you've been acting differently. Where's the kind mother figure I've known nearly all of my life?” Nathalia asked. “Where's the woman who professed her love to a wonderful man, that never did anything to hurt you? Yet you tossed him aside like he doesn't mean anything to you.”
+
+“That is enough.” Narhilda said and stood up. “You will not speak another unkind word about me.”
+
+Nathalia opened her mouth to respond, and nothing came out. Her eyes widened, and then she frowned.
+
+“You made me do that.” Narhilda said. “It's tearing me up inside that I have to distance myself from him, and I don't want you to keep reminding me of how much it hurts.”
+
+Nathalia shook her head again. “You... me... hurt... bargain.”
+
+Narhilda sighed. “Yes, my doing this has hurt you. You'll get over him, just like I will.”
+
+“I don't want to get over him!” Nathalia said. “I never thought I'd say these words to you, but I have no choice.” She dropped to her knees. “Release me from my oath.”
+
+Narhilda gasped.
+
+“Please, Narhilda.” Nathalia pleaded. “For 20 years, I've done everything you've asked without question; and I've never once asked for anything in return.”
+
+Narhilda shook her head. “You don't realize what you're asking.”
+
+“I know exactly what will happen to me.” Nathalia said. “I'll be free.”
+
+“That's not what I meant.”
+
+“I know what you meant.”
+
+“Who will attend me, when you are no longer bound to me?”
+
+“There are hundreds of young women that would assist the Queen.”
+
+Narhilda sighed. “You are going to keep asking me about this, aren't you?”
+
+“You could forbid me from asking.” Nathalia said. “But you know how I feel now. Not saying the words isn't going to change that.”
+
+“I'll think about it.”
+
+“No.” Nathalia said. “I won't stay here while you stall.”
+
+“I said no unkind words against me.” Narhilda said.
+
+“They weren't unkind.” Nathalia said. “Now, If I'd-” Her words were cut off.
+
+Narhilda sighed. “You want my decision right away.”
+
+Nathalia nodded slightly.
+
+“Very well. The answer is n-”
+
+Nathalia stood up and grabbed Narhilda by the neck in one swift motion and cut off the answer. “I told you that I won't stay here while you stall.” She said, while Narhilda tried to pry off her hand. “These last 20 years have been the happiest that I could have ever had. At least, that's what I thought... until Ren came into my life.”
+
+“...can't.... breathe...”
+
+“He's shown me... shown us... shown everyone... that life could be so much better than it is.” Nathalia said and eased her grip slightly to let Narhilda breathe.
+
+“Let me g-”
+
+Nathalia squeezed her throat again to cut off her words. “Ren has given me more than he realizes.” She said. “He's given me a purpose for being here.” Nathalia pulled Narhilda close and stared at her. “I am the Warden for House Neram, and you are trying to take that, and him, away from me.”
+
+“...not...”
+
+“He can only stay here another 4 months, and you cut Ren off from me for no reason, except that you might be hurt more later.” Nathalia shook her head. “Like hurting right now is better than waiting for it to happen!” She shook Narhilda. “How can you be so stupid?” Then she stopped as she realized something. “You don't really love him, do you?”
+
+Narhilda's eyes went wide.
+
+“That's it, isn't it?” Nathalia said. “You loved that you had a man to hold on to, and to be with after all these years. Someone who saw you as a woman, and treated you with respect; but you don't love him for who he is, only for what he could do for you.”
+
+Tears came to Narhilda's eyes, and Nathalia nodded.
+
+“I should have known.” Nathalia said. “Your revelation about him came so fast, and then you didn't want to reveal your secret to him.” She laughed. “He wasn't worth the sacrifice, was he?” Nathalia shook her. “WAS HE?”
+
+“...no...”
+
+“Release me from my oath.”
+
+“...n-”
+
+Nathalia squeezed tightly, and Narhilda started to choke.
+
+“I wasn't asking you.” Nathalia said and eased her grip. “Either release me, or... or... I will release myself.”
+
+“...you... can't...” Narhilda said through clenched teeth. “...oath... breaker...”
+
+“Yes, it would break my oath; and I would be forever branded as such.” Nathalia said. “But... I won't let you destroy the only real happiness I've ever had.”
+
+“...kill... me... then...”
+
+Nathalia extended her Mana Claws on her free hand, and pulled back to strike... and then didn't.
+
+“You're right. I can't break my oath like that.” Nathalia said, and the claws retracted. “I swore all those years ago that I would always protect you, serve you, and provide you with everything that you would ever need.” She sighed. “Which I didn't know would also include my fiance, of all things.”
+
+Narhilda felt Nathalia's grip slacken, and smiled. “Yes, you have to give me everything that I need. Right now, I need to forget about Ren.”
+
+“As you wish... master.” Nathalia said. “Once more, I shall protect you.”
+
+Riley and Stacy had stood guard during the entire encounter, and had watched silently as Nathalia gripped Narhilda's neck tightly once more. A short blade, made entirely of light, formed in Nathalia's hand. It was almost insubstantial, and had a mist like quality.
+
+“I will protect you... from your own self-interest.” Nathalia said, as she slid the blade into Narhilda's forehead.
+
+*
+
+Ren felt a pique of interest from his dog Stacy, and sighed. He rolled over onto his back, close to the middle of the bed, and thought he felt the bed move slightly. He reached a hand to that side of the bed, and felt a shoulder under the blanket. He thought Nathalia had snuck out of the castle to stay with him, and he smiled as he tucked his arm under her pillow, just like he always did. He fell asleep again, secure in the knowledge that the woman he loved was right there in the bed with him, and not miles away in the castle, with a woman who wanted to ignore him.
+
+*
+
+Ereka woke up to the feel of a hand that had touched her shoulder. It's under the blanket!  She thought, then froze as the hand moved away, and an arm slid under her pillow and stopped moving. She waited to see if the stranger was going to keep making advances on her; but all she heard was deep breathing.
+
+I need to scare him away somehow!  Ereka thought, and concentrated on her House Neram brooch. When whoever it is feels this, they'll know they shouldn't mess with House Neram! Her Aura merged with the artificial one around the Keep, and she gasped as she felt a very familiar Aura had already merged with it. She pulled the blanket down off of her head and looked at who was in the bed with her.
+
+It really is Ren!  She thought in surprise. Am I dreaming? She pinched herself, and winced from the pain. No, I'm not dreaming... but... what do I do?
+
+Ereka started to get out of bed, and Ren folded his arm around her shoulders and pulled her close to cuddle.
+
+“Mm... love you...” Ren murmured in his sleep, and Ereka felt an outpouring of love from him.
+
+By the gods!  Ereka thought, and was so surprised by the intensity of his feelings, that she had forgotten to struggle to free herself. With his arm now wrapped tightly around her shoulders, she sighed and put her head on his chest. She stayed awake for as long as she could, and waited for an opportunity to slip out of his strong grasp. Sleep eventually won the battle, though; and she drifted off into a sea of Ren's emotions.
+
+*
+
+Nathalia hadn't used the Blade Of Befuddlement in years; but, it all came back to her now.
+
+“Your mind is clear.” Nathalia whispered to Narhilda.
+
+“My mind is clear.” Narhilda whispered.
+
+“You no longer require my help.”
+
+“I no longer require your help.”
+
+“You release me from my oath.” Nathalia said.
+
+“I... I... I need you...”
+
+Nathalia sighed. “You don't need me.”
+
+“I... I don't need you.”
+
+“You can hire another personal maid.”
+
+“I can hire another personal maid.” Narhilda responded.
+
+“You will send the dogs back to Ren.”
+
+“I will send the dogs back to Ren.”
+
+“You release me from my oath.”
+
+“I... I... release you... from your oath.” Narhilda said, and Nathalia was engulfed in a bright white light. A mystical chain, made of a similar material as the Blade of Befuddlement, appeared between them. The chain linked their hearts together, and Nathalia felt an intense stabbing pain in her heart. The chain pulled itself free, and dragged a long spike with it. Once the spike was out of her body, the chain dissolved away into nothing, and Nathalia felt her face tingle. She stopped herself from checking it, and continued to speak.
+
+“You will feel good that you no longer need me around.” Nathalia said.
+
+“I will feel good that I no longer need you around.” Narhilda responded.
+
+“You will forget about this incident, and run the Kingdom the way Ren showed you.”
+
+“I will run the Kingdom the way Ren showed me.”
+
+“You will not let the Council dictate to you anymore.”
+
+“I will not let the Council dictate to me anymore.”
+
+“You run things now. You will fix the problems.”
+
+“I run things now. I will fix the problems.”
+
+Nathalia thought about pulling the blade out, then remembered something.
+
+“You will forget about loving Ren.”
+
+“I will forget about loving Ren.”
+
+“As Queen, you will declare your mourning over.” Nathalia said.
+
+“As Queen, I will declare my mourning over.”
+
+“You will summon Barnar.”
+
+“I will summon Barnar.”
+
+“You can take it from there.”
+
+“I can take it from there.”
+
+Nathalia slid the Blade of Befuddlement out of Narhilda's forehead, and let her throat go. The blade hadn't left a mark, and Narhilda stood there in a daze.
+
+“Narhilda!”
+
+Narhilda blinked a few times, and shook her head. “What... what am I...” She looked at Nathalia. “Why are you still here?” She asked. “You're dismissed.”
+
+Nathalia bowed slightly to her, and smiled as she walked to the door of the apartment.
+
+“Nathalia.”
+
+“Yes, Your Eminence?”
+
+“Take those dogs with you.” Narhilda said. “They're kind of scary.”
+
+“Riley, Stacy.” Nathalia said. “Come.”
+
+The dogs went to her side and she left the apartment. Nathalia walked at a quick pace the whole way to the entrance to the Main Keep, and the dogs kept pace with her.
+
+*
+
+Ren woke up with the feeling of a warm body cuddled to him. He moved his hand from her shoulder and down her back. When the hand reached her behind, he flung his eyes open and stared at the woman in bed with him.
+
+“You're not Nathalia!” Ren exclaimed, and the woman raised her head and looked at him.
+
+“Of course I'm not.” Ereka said, after waking up from the shout. “I couldn't get away when you grabbed me, though.”
+
+“Hey, I didn't... um... wait.” Ren thought back. “When I rolled over in bed, I thought Nathalia had come here to see me.” He let Ereka out of the hug he had her in, and sat up. “I'm sorry.”
+
+“No, it's okay.” Ereka said, and sat up herself. “I felt how much you love her.”
+
+Ren blinked a few times, and realized he was still concentrating on his House Neram pendant. “Now I am really sorry.” He said. “I said I'd never share my Aura with anyone I didn't care about.”
+
+“You don't care about me?” Ereka asked, and he felt her hurt flow into the shared Aura.
+
+“It's not that.” Ren said. “I do care about you, and what happens to you; but, I don't love you.”
+
+Ereka got a flood of intense feelings, and she wrapped her arms around herself.
+
+“By the gods, how do people not lose themselves when you share like this?” Ereka asked. “Your emotions are so powerful!”
+
+“I usually try to keep things restrained most of the time.” Ren said. “But when I get upset or nervous, I can't control them like I usually do.”
+
+“Which one are you now?” She asked. “Upset or nervous?”
+
+“Both!” Ren said. “I just woke up in bed with another woman!” He took several deep breaths to calm down. Ereka felt the calmness fill the shared Aura, and her eyes widened.
+
+“Wow.” She said, feeling calm herself now. “That was neat.”
+
+“Yeah, there are benefits to it.” Ren smiled. “It's not just intense feelings all the time.”
+
+“That's good to know.” Ereka said. “It's also good that I wear my slip to bed every night.” She smiled. “Or you would have felt a lot more of me than my butt.”
+
+“I'm sorry. I thought you were Nathalia.”
+
+“You grab her butt when you're in bed together?”
+
+“Among other things.” Ren said.
+
+Ereka felt mischievousness and longing fill the Aura, and she raised her eyebrows as she covered her chest with an arm. Ren snorted a laugh, and shook his head.
+
+“I was thinking of Nathalia.”
+
+“I'm thinking of you, too.” Nathalia said, and Ren hopped out of bed. He looked around, then down at his glowing Sending Ring.
+
+“Nathalia?”
+
+“Yes?”
+
+“Where are you?”
+
+“I'm coming up the road to House Neram Keep.” Nathalia said, and concentrated on her House Neram pendant. “I'll be there in a minute.”
+
+“Sweet!” Ren said. “I'll meet you at the gate!” He equipped his clothing and cloak, and the Sending Ring stopped glowing. “You can stay in bed, Ereka.” Ren said. “I'll be sleeping in Nathalia's room tonight.”
+
+Ereka got out of bed, and put on a small dress that barely covered the tiny slip she wore. “No, I'll greet her in person and face the consequences of being in bed with her fiance.”
+
+Ren shook his head. “I'll be doing that.”
+
+“Wh-what?”
+
+“It was my fault for not checking to see if you were in the house, let alone in bed already, before I climbed into bed myself.”
+
+Ereka shook her head. “I think we were both at fault here.”
+
+Ren opened the bedroom door. “We can agree to disagree here.” He left the bedroom and walked down the hallway and opened the front door. He ran to the gate, opened it, and saw a figure walking with two metal dogs.
+
+“Riley! Stacy!” Ren shouted, and the dogs ran to him. “I thought you were going to guard Narhilda.” He said and knelt in front of them and pat their heads, then felt Nathalia enter his Aura's radius. Her Aura merged with his, and he smiled as he felt her love.
+
+“She decided that she didn't need them anymore.” Nathalia said. “Or me.”
+
+Ren stood up and looked at a woman's face that he'd never seen before. She still had the long braid, but her hair wasn't brown anymore, but a rich mahogany. Even in the dark, with Ren's perfect night vision, he could clearly see the reddish-brown color clearly.
+
+“What happened?” Ren asked, as he took her into a hug.
+
+“I made Narhilda release me from my vow.” Nathalia said. “When she did, I... the Polymorph spell that kept me looking like her... it was broken.”
+
+Ren smiled as he leaned back and looked at her. “So this is the real you?”
+
+Nathalia nodded slightly. “Are... are you disappointed?”
+
+Ren caressed her face, and felt along her jaw, up across her forehead, and down along her nose. “How could the woman I love disappoint me?” He asked, and let his love flow into the Aura.
+
+“I could tell you how it happened.” Nathalia said. “You might be disappointed then.”
+
+“If you want to tell me, sure.” Ren said. “Since we're sharing, though; you should know that I slept for a while in the old bedroom, with Ereka in the bed.”
+
+“You didn't have sex, though.” Nathalia said, feeling what Ren felt.
+
+“No. I did grab her butt to start the ball rolling...” Ren said. “...but, I thought she was you.”
+
+Nathalia shook her head. “You and your butts!” She said, and chuckled. “Why do you like them so much?”
+
+“They're the mounds that lead to paradise.” Ren said, and grinned at her as he felt her amusement. “From behind, anyways.”
+
+She laughed. “How do you do that?”
+
+“Do what?” Ren said and held her close.
+
+“Make me feel okay that you grabbed another woman's butt?”
+
+“My brutal honesty that I really did think it was your butt, that it's irresistible, and I love you?”
+
+Nathalia snorted a laugh. “Shut up and kiss me, you fool.”
+
+“I thought you'd never ask.” Ren said and kissed her. He broke the kiss a minute later. “Lets go inside.”
+
+“Ren, I... can you just hold me tonight?”
+
+Ren chuckled. “I need to sleep, so... yes. I can just hold you.” He led her and the dogs through the gate, past the guards, then closed and locked the gate. Ren asked the dogs if they wanted to come in, or go to the stable to visit Princess. The dogs went to the stable, and he took Nathalia inside the house.
+
+“Nathalia, I'm really sor-” Ereka's words cut off as she saw a woman she'd never seen before. “Ren! I thought you said Nathalia was coming?”
+
+“This is Nathalia.” Ren said. “Polymorph spell.”
+
+“Oh!” Ereka said. “No wonder they looked so much alike!”
+
+Nathalia shook her head. “Okay, Ren. How did you do that?”
+
+“Do what?”
+
+“Ereka knew exactly what you meant, and all you said was 'polymorph spell'.”
+
+“Well, Ereka could be a lot smarter than you just gave her credit for.” Ren said, and Nathalia turned to Ereka as she felt Ereka's reaction to Ren's words.
+
+“I'm sorry, Ereka. I didn't mean to be insulting.”
+
+“I was just in bed and cuddled up with your fiance.” Ereka laughed. “I'm pretty sure insulting me goes with the territory.”
+
+“I'll be in your room, Nathalia.” Ren said, and yawned. “By the gods, I'm tired.” He said, and walked into the room, just off the hallway. “Goodnight, Ereka.”
+
+“Goodnight, Ren.” She said, as Ren shut the bedroom door.
+
+*
+
+“Ren already told me he grabbed your butt.” Nathalia said. “So I told him I just wanted to be held tonight.”
+
+Ereka nodded slightly. “You're punishing him without him realizing it.”
+
+Nathalia nodded slightly herself. “He did crawl into bed with another woman, no matter the circumstances.”
+
+“Nothing happened.” Ereka said, and Nathalia felt the truth in her words. “I still had my slip on.”
+
+Nathalia smiled. “He can do a lot of things, and you'd still have your slip on.”
+
+“Really?” Ereka asked, and looked down at herself. “I wonder why...”
+
+“Did he kiss your neck?” Nathalia asked, and Ereka shook her head. “He must be exhausted, then.”
+
+“He starts with the neck?”
+
+“Usually.” Nathalia said. “I'm ticklish there, and he works his way down.”
+
+“Oh.” Ereka nodded slightly. I don't know if I should be glad, or sad, that he only grabbed my butt.
+
+Nathalia tried not to react as she felt Ereka's emotional turmoil, and walked over to her bedroom door. “Goodnight.”
+
+“Goodnight.” Ereka responded.
+
+*
+
+Ren was settled in the bed, but it felt weird. He wasn't sure it was because it was a different room, or because the bed was different. He shrugged and tucked the blanket up under his chin, and Nathalia came into the room.
+
+“There you are.” Ren said and yawned. “Are you done scolding Ereka already?”
+
+Nathalia laughed, stored her clothing, then stored her slip as well.
+
+“So, it was just your face that was polymorphed.” Ren grinned.
+
+“Yes, My Love.” Nathalia said as she crawled into bed under the blanket, and pressed her large chest up against him. “This body is all natural.”
+
+“Naturally awesome.” Ren chuckled, then kissed her. Nathalia snuggled into him, and sighed.
+
+“My changed face doesn't bother you at all, does it?”
+
+Ren stroked her hair. “It's you that I love, not your face.”
+
+Nathalia lifted her head, and looked at him with raised eyebrows. “What if I'd been a hideous monster?”
+
+Ren had to think about that one. “It would depend on the monster, I think.”
+
+“Really?” Nathalia asked, surprised.
+
+Ren nodded slightly. “I mean, there would have to be a line that I wouldn't cross. Like, no face for me to look at, or... or body compatibility...”
+
+“Okay, stop thinking about it.” Nathalia laughed, as she felt the range of emotions he was going through while thinking about it. “You need sleep, remember?”
+
+“Right.” Ren said, and kissed her again. “Goodnight, My Love.”
+
+“Goodnight, My Love.”
+
+*
+
+Ereka had gone back to bed, and had felt the gamut of emotions Ren and Nathalia went through in the last few minutes. She was happy that she could still feel it all; but, she couldn't tell what they were talking about. She didn't want Ren to stop sharing his feelings, so she tried to hide her happiness about the situation. As she drifted off to sleep, her happiness filled the Aura without her knowledge.
+
+*
+
+Ren felt happiness fill the Aura, and let his own join it, then drifted off to sleep.
+
+*
+
+Nathalia sighed as she gripped Ren tightly. He still loves me, even though I don't look like I used to. She thought. He's such a wonderful man! She smiled and felt happiness fill the Aura, then fell asleep herself.

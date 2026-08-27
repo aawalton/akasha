@@ -1,0 +1,233 @@
+---
+id: 60ba94aa-cf9d-5bbd-9322-ae4274c0b0e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 461 - Saving The High Elves"
+slug: 0461-chapter-461-saving-the-high-elves
+partOf: mythrans-master-of-all-continued-completed
+position: 461
+ownLength: 3442
+unit: words
+publishedAt: 2017-12-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182135/chapter-461-saving-the-high-elves"
+royalRoadId: "182135"
+---
+
+Ren blinked his eyes at the short vision of loveliness. Her shout had caught his attention, and her austerity astounded him. What is she doing on the edge of a battlefield? He asked himself as his Etiquette skill activated. He stood up on Princess' saddle and gave her a regal bow.
+
+“M'lady, please forgive my brash attitude.” Ren said formally. “I did not notice that you were among the plebeians.”
+
+The elfling gasped at Ren words, as did all of the High Elves around her. He felt their shock, and then he saw the High Elf that stood behind the robed magic users reach for her menacingly. He deactivated his Mana Shield and ran across the distance instantly, thanks to his Permanent Air Walk spell and ridiculous Speed bonuses, and he stood between the High Elf and the elfling. Ren knocked the High Elf's hand away before it could touch her, activated his Awesomeness Aura, and cast Charm Person on everyone within his Aura, except for the elfling behind him.
+
+“No one will touch her without her permission.” Ren commanded them.
+
+“No one will touch her without her permission.” They all said at the same time.
+
+Ren deactivated his Awesomeness Aura and turned to the elfling. “You are the first one of my own kind I've ever met.” He said and knelt on one knee as he stored his gauntlets. He held a hand out to her, and he felt her reluctance as she took the offered hand. He placed a quick kiss on the back of it, then clasped it with his other hand. “May I ask what you are doing on the battlefield?”
+
+“I...” She looked at the High Elf behind Ren. “I serve the High Lord Alinar Keacaryn.”
+
+“Is it by choice?” Ren asked.
+
+She looked back at Ren as she felt the depth of his words, and knew that the answer was very important. “It is a high honor to be allowed to serve in this way.” She said with a warm smile, and Ren returned it.
+
+“I'm glad to hear that.” Ren said and stood up. “M'lady, if it's not too much of an inconvenience, I would be honored to talk to you at length after the battle.”
+
+Once again she looked at the High Elf behind Ren, then back at Ren.
+
+“I would be honored as well.”
+
+Ren beamed a smile at her. “I look forward to it.”
+
+“As... as do I.” She said as Ren let her hand go.
+
+“Please excuse me while my friends and I end this conflict before anyone else gets hurt.”
+
+“You are excused to complete such an important task.” She said.
+
+Ren gave her another regal bow, turned around, and looked at the High Elves. “No one fires at me or my friends, no matter what they see.” He commanded, then jogged back across the air and sat on Princess' saddle. The High Elves and the elfling watched as they ran across the air to land right in front of the High Elves' front line. Ren hopped off to stand on the ground and glanced at the fire elemental on his back.
+
+“Zetaya? Are you ready?”
+
+The sound of a budding fire could be heard, and Zetaya dropped to the ground. Ren used wands to cast Permanent Air Walk and Permanent Water Walk on the fire elemental while the ends of it's leg stubs burned the grass.
+
+“It's going to feel a little weird at first, so don't panic, okay?” Ren said and took out the Permanent Enlarge and Reduce Anything wand. He cast it and Zetaya doubled in size from 4.5 feet to 9 feet. He cast it again and the fire elemental was now 18 feet tall. The High Elves near them watched in horror as Zetaya went to 36 feet, then 72, then 144, and finally to 288 feet tall. It was also about 150 feet wide, and each of it's limbs was 30 feet wide.
+
+“I think that's enough!” Ren hollered, then turned to Princess. “You're the road block. If any of the ghouls try to get past us, ram them and keep them away from the High Elves.”
+
+It will be done. Princess thought to him. Ren felt that she wanted to hide how smart she was from the High Elves, so he didn't question her decision not to use Magic Mouth to speak.
+
+Ren scratched her under the chin and looked up at Zetaya. “Pick me up!”
+
+Zetaya bent down and held out an arm stub, and Ren climbed on. The fire elemental stood up and held him to it's head stub, and Ren rubbed it.
+
+“You know what to do.” Ren said and grinned. “Have fun!”
+
+The sound of a roaring fire boomed out of the colossal fire elemental, and Ren laughed as every High Elf flinched at the sound, and then he heard several women scream. He turned and looked at the high walls of the city, and rows upon rows of female archers with longbows stared at him and Zetaya.
+
+“Don't fire!” Ren said and waved as Zetaya moved her arm stub with him on it, and then shoved him into it's belly. He saw their arms twitch to draw their arrows back, and he waved to them from inside the fire elemental. Several of the archers dropped their bows, more had their mouths drop open, and one had even fainted.
+
+Zetaya tilted forwards and dropped it's arm stubs to the ground, so it could move faster on all 4 limbs, and the impact of them as they hit the ground caused a minor tremor. Ren took out a wand and cast Full Illusion on Zetaya to make the fire elemental look like a cow, then took out the Generic Staff of Necromancy and moved through Zetaya's insides to orient himself to the new direction that up was, then patiently waited.
+
+This is going to be the hard part. Ren thought and activated the staff's Ghoul Lure ability.
+
+*
+
+The High Elf Lord Alinar Keacaryn stood in silence. He was both awed and perturbed that someone with such high Honor had shown up. He was awed that they were going to fight a battle that he knew would be a hard fight, and perturbed that he had just been treated as if he didn't matter.
+
+Alinar glanced down at his halfling maid, and his emotions changed to hate. The look of satisfaction on her face was enough to make him sick; but, he could see that she stared at the newcomer... and not at him like she normally did. That made him angry and he made a fist to strike her, and he couldn't do it. That made him angrier, and he thought about having his aide do it instead. The moment passed when the ground shook, and he looked back at the battlefield.
+
+The colossal fire elemental was now on all fours, and he could see something within it's flames. He cast Viewing Cloud and saw that it was the newcomer, and he was inside the belly of the beast.
+
+Who is this crazy fool? Alinar asked himself and dismissed the cloud, then watched as the fire elemental became a giant cow. Millions of ghouls crested the nearby hill and charged towards one of the main cities in his kingdom. He couldn't believe the sight, and then stopped breathing as the colossal fire elemental that was now a cow ran over to that hill in only moments, jumped through the air and spread it's legs out like a star, then landed right in the middle of them.
+
+*
+
+Ren had a difficult time keeping the ghouls from burning inside of Zetaya, even with his Fire Manipulation ability maxed out. He used both his Undead Adept and Emotion Siphon abilities to sort out the ghouls that weren't too far gone to be healed, and let all of the others be consumed. He was almost grateful that there weren't that many to be saved as more and more ghouls were picked up and shoved inside the fire elemental's body. Zetaya eventually realized that action was too slow, dropped it's head down and ran. Ghoul after ghoul were sucked in and Ren sorted them.
+
+Save. Eat. Eat. Eat. Eat. Eat. Eat. Ren thought in a continuous stream because he didn't have time to do anything else. Zetaya moved across the battlefield and over the horde of ghouls, sucked up thousands and thousands of them as the fire elemental did as Ren had asked. Because Zetaya was so big, after only a few minutes, the fire elemental had moved across the entire front of the ghoul formation and the Ghoul Lure had directed them towards Ren and Zetaya instead of the walled city and the High Elves guarding it.
+
+Zetaya moved back through the ghouls, stumbled, and then laid down. All the ghouls screeched and hollered almost as one. If anyone had been able to understand what they said, they would have heard shouts of exultation and celebration. The ghouls thought they had defeated the monster that had killed so many of them.
+
+What they didn't realize was that it was a ruse.
+
+The ghouls swarmed around the body of the colossal cow, and Zetaya sucked them all in. Since the ghouls in behind didn't know that there was the problem of them being absorbed, they rushed forward to get their own piece of the meat from the fresh kill... and were subsequently sucked in as well.
+
+Ren had his work cut out for him as all he could do was shunt one in every few thousand ghouls aside to protect them from the intense heat Zetaya was using to consume the other ghouls. The ones he was saving weren't guaranteed to still be savable; but, if there was even a slight chance that they could be saved from turning completely into ghouls, then he wanted to take it.
+
+Teepo, are you counting? Ren asked his friend when there was a short lull in the onrush of consumed ghouls.
+
+“I am, and you aren't going to believe the numbers.” Teepo said. “The High Elf population took a huge hit with this world event.”
+
+I know they have, buddy. Ren thought, and then another deluge of ghouls flooded into Zetaya. Is there no end to them?
+
+“I'll check.” Teepo said and moved up to the edge of Zetaya's body to see out. “Wow, it's... Ren, they're almost all gone.”
+
+Thank the gods. Ren said and then sorted the last few thousand ghouls. When both he and Zetaya were done, he could feel that Zetaya was so full that the fire elemental couldn't move. Ren very carefully moved over to the side of the elemental and eased out of it's body.
+
+“Give me a few minutes, and I'll have them out of you.” Ren said to Zetaya.
+
+Ren heard a low crackling fire and pet the fire elemental, then took out his storage tower and gathered up the materials he would need to make a wheeled container for all of the potentially saved ghouls, stored the tower, and built the longest and largest cart he had ever made. Since he could cast permanent Air Walk on it, it didn't need to be able to turn or handle well, or anything like that. All it needed was to be able to hold them all. He didn't need benches or anything plush to make the ride easier, and he added a top that could be closed to make sure they couldn't escape.
+
+Ren enchanted it with Reinforcement and Toughness runes, because he knew the ghouls would try and break out of the enclosed space, and then he walked over to Zetaya.
+
+“Spit them out, please.” Ren said and pointed to the long cart.
+
+Zetaya shifted slightly to put it's head stub over the cart. It still had a hard time moving; but once it was in position, it's protected contents spilled out and into the cart. The ghouls screeched at the rough treatment, and there was nothing Ren could do about that. His main concern was for Zetaya, and he comforted the engorged elemental as it essentially threw up the ghouls into the containment cart. When they were all expelled, Ren closed the top and locked the cart, and Princess came over to him.
+
+I only had to ram a few thousand stragglers. Princess thought to him, and Ren scratched her chin.
+
+“Maybe you'll have better luck at the next city.” Ren said.
+
+Zetaya needs a break before that. Princess thought.
+
+Ren nodded and pet the fire elemental. “You did really well, considering this was the first time we've ever done anything like this.” He said. “I'll let you recover for a while before we go on to the next city.”
+
+The sound of a crackling fire filled the dead silence of the battlefield, and Ren climbed up onto Princess' saddle and rode her over the High Elves army to stop just in front of the tower. Ren had been too far away from the tower to feel the emotions of the High Elves that were in charge of the battle; but now that he was here, he could feel their surprise, jealously, and a bit of hatred.
+
+Ren couldn't pinpoint who that last bit was from, but by the looks on their faces, he could pretty much tell who liked that he had saved them, and who didn't like it at all. Surprisingly, it was the head magic user that was delighted, and the female magic user that had spoken earlier was the one who hated that she had been saved.
+
+Ren stood up on Princess and walked over to the tower balcony and over to the elfling. “M'lady, while my friend recovers, I will take those afflicted with the sickness to healers trained in it.” He said. “I will be back to spend time with you shortly.”
+
+The elfling looked at the High Lord for a moment, then back at Ren. “I shall await you here.”
+
+“Nothing would please me more.” Ren said and took her hand, kissed the back of it, then ran over to Princess. They went back to the enormous cart, Ren cast Air Walk on it, then hooked Princess to it. He climbed up onto her saddle and they went up into the air, then disappeared from sight.
+
+*
+
+“Great Vasalor.” The female magic user said. “He just left a colossal fire elemental on our lands!”
+
+“Enhance your calm, Caeda.” The Head Spell Caster said. “He will be back before we know it.”
+
+“What if it decides to move? Or ravage the city?” Caeda asked. “We don't have anything that can stop something that can absorb almost 3 million ghouls in half an hour!”
+
+The Head Spell Caster chuckled. “I believe our mysterious benefactor's words are true.” He said. “If he wanted to, he could have destroyed us just as easily as his pet destroyed the scourge that threatened us.”
+
+“It's not a pet.” The elfling spoke up, then covered her mouth. “My apologies.” She said and bowed deeply to the magic users. “I didn't mean to speak.”
+
+“You have overstepped your station quite a lot today.” Alinar said, and she knelt.
+
+“I'm sorry, High Lord.”
+
+Alinar was tempted to strike her to remind her of her place in their society; but, he still couldn't do it, no matter how much he wanted to. He made a fist and saw her flinch because she expected the blow, and it soothed his mean streak slightly.
+
+“I suppose it's not your fault.” Alinar admitted reluctantly. “He is the first Adventurer we have seen of your kind.”
+
+*
+
+Ren told Princess to go to the town they had rescued the marked people from, and they arrived there 3 minutes later. They came in for a landing in the middle of town, and Ren consulted the All-Seeing Mirror. It told him where the trained healers were, and he told Princess where to go. He knocked on the door, and the assistant answered.
+
+“Can I help... oh, hello!” She said and smiled. “How are the townspeople that went with you?”
+
+“I've gotten most of them jobs in their chosen fields, or built businesses for them to run.” Ren said, and she reached out and pat his shoulder.
+
+“Thank you for taking care of them.”
+
+“No thanks are necessary, ma'am.” Ren said. “Although, I have a bit of a problem.”
+
+“Tell me.” She said.
+
+“Is the main healer here?”
+
+“I am.” An older woman said and walked over. “What is it?”
+
+“I have... please, don't be shocked by this.” Ren said and pointed to the enormous covered cart. “I have a few thousand ghouls that might be saved with your healing skills.”
+
+“Did you say a few thousand?”
+
+Ren nodded. “They aren't too happy about the accommodations, either.”
+
+The healer sighed. “If you can build a place for them to rest...”
+
+“Consider it done.” Ren said. “Give me a minute.” He looked around. “Where do you want it?”
+
+“The field two streets over.” The healer said, and Ren disappeared from her sight. “Where did he go?” She leaned around her assistant and didn't see anything. “Did he use Invisibility or someth-AH!”
+
+Ren appeared in front of her. “It's built, and I added enough cots for them all.”
+
+“Wh-what?” The healer looked at him like he was crazy, and he chuckled.
+
+“I'm really fast now.” Ren said. “Can you heal them?”
+
+“Did you make a spot to put them if they can't be turned back?”
+
+Ren nodded. “I'll stay close by to make sure they won't attack.”
+
+“It's going to take a while to assess so many of them.” The healer said and started to walk down the street with her bag of supplies. “Can you spend an hour just standing by and doing nothing?”
+
+“If that's what's needed, then yes.” Ren said and Princess pulled the cart up beside him. “I can also provide you with Mana, Healing, Regeneration, and anything else you may need.”
+
+The healer chuckled. “What do you need us for?”
+
+“You're the only ones I know that have successfully healed nearly fully turned ghouls, and brought them back to themselves.” Ren said.
+
+“They won't all turn out like that, you know.”
+
+Ren nodded. “I know the risk.” He said. “Anyone not savable gets tossed back into the cart and I bring them back to where they came from.”
+
+“Well, then.” The healer said as she approached the once empty field to find a huge ward had been built. “Wow.”
+
+“Ma'am?”
+
+“Yes, yes.” The healer said and opened the door. “Bring in the first two.”
+
+Ren opened the top of the enormous cart and a ghoul jumped out at him. He caught it by the throat and crushed it's neck, then tossed the body aside.
+
+“We're running out of time.” Ren said and grabbed two more. They hissed at him, and he filled his Reassurance Aura with calmness. “I'm sorry, he was completely gone.”
+
+The two ghouls calmed down, and he brought them into the ward. They were checked by the healer and her assistant, who nodded. They were put on the closest available cots, and Ren brought in two more, then two more, over and over, until the cart was nearly empty. Out of the 1,500 he had brought, only 150 of them were just a bit too far gone to help. Ren put them back in the cart and closed it, locked it, and went to the healer and her assistant.
+
+Ren gave them each a Bracelet of Unbelievable Magic to increase their Intelligence and Wisdom by 105 points, their Mana production by 1,020%, and it gave them 10,200 Mana. He gave them each a Minor and Major Healing wand, a couple of platinum coins, and asked them what else they needed.
+
+“Just time.” The healer said. “Come back in a few hours and we will have an update for you.”
+
+“Thank you.” Ren said and left the ward, climbed onto Princess' saddle, and they ran up into the sky with the enormous cart behind them and disappeared from sight.
+
+*
+
+“Did we just see that?” The assistant healer asked.
+
+“I didn't see anything except someone that wanted to help these poor people.” The healer said. “It's odd to be working on High Elves; but, they are still sick.” She said and smiled. “Go and gather the things we need.”
+
+“Right away.” The assistant said and left at a run.
+
+“Word will spread quickly about us doing this.” The healer said absently, and went back into the building Ren had built for her.

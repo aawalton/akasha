@@ -1,0 +1,413 @@
+---
+id: 2a80d66f-de3c-5d70-b4c5-c52015598960
+page-type-slug: story-chapter-royal-road
+title: "Chapter 154 - Hello, Doggie!"
+slug: 0140-chapter-154-hello-doggie
+partOf: mythrans-master-of-all-continued-completed
+position: 140
+ownLength: 4093
+unit: words
+publishedAt: 2017-01-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115616/chapter-154-hello-doggie"
+royalRoadId: "115616"
+---
+
+Ren stopped running when he got to the Main House, and saw that the Church was nearly done. He went over to the foreman and asked about the heavy work crew, and if they were available to start another job. Ren showed the foreman the plans for the medical building, and the heavy work crew was sent across the road and down several hundred feet to clear a lot, then to build the frame.
+
+“Boy, you've sure got a lot going on here.” The foreman commented, and Ren smiled.
+
+“More than I ever thought I'd be doing when I came here.” Ren said, paid for the extra work, and for another dozen houses to be built in the sub-division.
+
+“Yeah, you are definitely one of my favorite clients.”
+
+“That's because I'm too busy to build it all myself.” Ren laughed, and walked across the road to the Main House. He went inside and over to Ereka's office at the back of the building. He knocked, and opened the door as Ereka chuckled.
+
+“Hello, your highness.” She said.
+
+“Hi.” Ren said, and he saw that her friend, the healer Artrude, was there. “I'm sorry if I'm intruding.”
+
+Ereka shook her head. “We were just catching up on everything that's been going on in our lives.”
+
+“Or what hasn't been going on in our lives.” Artrude laughed. “Neither of us has had a job in a while.”
+
+Ereka nodded slightly. “This really has been a blessing from the gods.”
+
+Ren smiled. “I've got the heavy work crew working on building the frame for the medical building as we speak.” He said. “When the Church is done, the other two crews will go there to work on it.”
+
+“That's fantastic!” Artrude said. “I can't wait to start setting things up.”
+
+Ren turned to Ereka. “You better start ordering the things they'll need.”
+
+“I did that yesterday.” She snorted a laugh. “Right after they were sworn in.”
+
+“I'm sorry.” Ren said, and she felt he really was. “I've been in Command mode for too long.” He sat down on the comfy chair, and rubbed his face with his hands. “Everywhere I go, I tell people what to do.”
+
+“You... you don't like that much, do you?”
+
+Ren shook his head. “I shouldn't have to tell people to work, or to do a job.” He said. “They should want to.” He sighed. “It was all so much easier when I did everything myself.”
+
+Ereka laughed. “You didn't have so much to do before.” She said. “How many buildings do you have now? 20?”
+
+“About that many so far.” Ren said. “More than half are houses, though.”
+
+She nodded. “You still need people to look after them.”
+
+Ren nodded slightly. “That reminds me. We'll need a receptionist to deal with people.”
+
+“Is... isn't that my job?”
+
+“I meant to greet them and send them to you.” Ren laughed. “You can't be in here working, and sitting out front greeting people.”
+
+“I can do both.”
+
+Ren shook his head. “You're the Head Assistant. You run the place now.” He said. “Find someone you like to sit at the front desk.”
+
+“I'd be happy to do that.” Artrude said. “Malenka and I can even take turns.”
+
+Ren looked at her. “You two are the dedicated healers.” He said. “I can't have you be a receptionist, too.”
+
+“Why not?” She asked. “Do you think I can't handle working two jobs?”
+
+“You can't do both at the same time.” Ren said. “I'm sure you're perfectly capable; but if anything came up, we'd be out a receptionist while you dealt with the situation.”
+
+Artrude opened her mouth to argue, then sighed. “Yes, you're right.” She said. “It just gets boring sitting around and waiting for someone to get hurt.” She put a hand over her mouth. “That sounded much less horrible in my head.”
+
+Ren laughed. “I hope you are completely bored in that respect.”
+
+She looked at him and smiled. “Yes. I do, too.”
+
+Ren waved at the bookshelves. “There's a few books here to read, and there's a Library in the city.”
+
+“There's a Library?” Artrude asked, surprised.
+
+Ereka laughed. “I was going to say I was just as surprised, but I was actually shocked almost senseless when he took me to it.” She looked at Ren. “He didn't even tell me what it was before we went inside.”
+
+Ren grinned. “Where's the fun in spoiling the surprise?”
+
+She rolled her eyes at him. “At least I get along well with the Librarian.”
+
+“What's she like?” Artrude asked.
+
+“How do you know she's a woman?” Ren asked.
+
+“Ereka would have told me all about him, if it was a man.”
+
+“Artrude!”
+
+She laughed at Ereka's shocked expression. “You would have.”
+
+“Yes, I would.” Ereka sighed. “You're not supposed to tell other people about it, though.”
+
+Artrude put a hand on her arm. “I'm sure he knows.” She turned to Ren. “Don't you?”
+
+“Knows what?” Ereka asked.
+
+“That women talk about men in private, just as much as men talk about women in private.”
+
+“I do now.” Ren said, and then laughed at their surprised faces. “I suspected it, but you've confirmed it for me.”
+
+They stared at him, and he pulled out a copy of his new book to give to Ereka.
+
+“I have something for you to read when you get the chance.”
+
+She read the cover, and caught her breath. “By the gods, how did you...” Ereka shook her head. “No, don't tell me.” She said. “You did the same thing you did with your other books.”
+
+“Yes, but I also did one better.” Ren said. “I had 10,000 copies made and gave them away.”
+
+“YOU WHAT?!?”
+
+“Don't worry.” Ren said. “I've got a couple of copies for here.” He took out 2 more copies and put them on her desk.
+
+“You... you...” Ereka was glad she had stayed sitting down. “You spent...”
+
+“I had to.” Ren said. “No one knew what actually happened here, or with the Council.”
+
+“Can I have a copy?” Artrude asked, and Ren handed her a copy from inventory. She opened it, flipped to a random page about a third of the way in, and read a little bit. Ren stood there in silence, and waited.
+
+“By the gods!” She looked at Ren. “Your fiance proposed to YOU?”
+
+“She even got a title from that.” Ren laughed. “Nathalia the First.”
+
+“Oh, my.” Ereka said and laid her head on the back of the couch. “I didn't know that a woman could do that.”
+
+“No one did.” Ren said. “Hence her title.”
+
+“Wow.” Artrude said. “Ereka, I'll see you later.” She stood up and smiled at Ren. “I've got some reading I need to do.”
+
+“Before you leave...” Ren took out 4 Minor Healing wands. “Two of them are for you; give the other two to Malenka.”
+
+“What... what...”
+
+“They're wands of Minor Healing.” Ren said. “I suggest keeping them on you at all times.” He handed her 2 coin pouches as well. “I have Fireball wands, if you want one.”
+
+Artrude's mouth dropped open. “Um... no, your highness. We... we have a vow... to do no harm.”
+
+Ren nodded slightly. “I thought so.” He took out two brooches. “These signify that you're a part of House Neram.”
+
+Artrude took them gently, and looked at Ren. “You're giving us... by the gods, this is a fortune...”
+
+“You took that better than Lady Neram did.” Ren grinned. “She nearly shouted at me for 'wasting' diamonds.”
+
+“I didn't want to say...”
+
+Ren laughed. “Yeah, I know you're thinking it.”
+
+“I... I'll see you later, Ereka.” Artrude said, and left the building. Ren waited for her to close the Main House's front door, before he turned to Ereka.
+
+“Can I ask why you're so jealous of her?”
+
+Ereka gasped. “I thought I hid that!”
+
+“I got a spike of it when I took out the brooches.” Ren smiled. “You're doing a good job suppressing it otherwise.”
+
+Ereka sighed. “I didn't want her to... to share Auras...”
+
+“Yes, it's quite the rush to share feelings.” Ren said. “I didn't tell her how to activate the brooch because the only place she'll be working is the medical building.” He smiled. “I will tell her once it's built, though.” He said. “I want her and Malenka to get the bonuses while working for the House.”
+
+“It's not that.” Ereka said, then blushed. “I... I didn't... I... I don't want her sharing your Aura.”
+
+His eyes widened as he felt her embarrassment, and her jealousy was let free. Ereka put a hand over the brooch. “I've never felt feelings as strongly as you.” She said. “I don't know how you can feel so much.”
+
+“Ereka.” Ren said. “I...” He stopped concentrating on the House pendant, and dropped out of the Aura link. “I'm sorry. I guess I've been overwhelming you...”
+
+Ereka caught her breath. “Oh, you stopped!” She started to hyperventilate. “Please, can you join again? I... I already miss it.”
+
+Ren shook his head. “What do you do when I leave?”
+
+“I wait patiently until you come back, or pass by.” Ereka said. “Those little bursts of emotions have been...” She sighed. “...like glimpses of heaven.”
+
+Ren walked over to the couch and knelt. “Then I'm really sorry I've put you through this.”
+
+She looked at him. “I can't feel if that's true or not.”
+
+He put a hand on her knee. “Don't tell me you're ignoring your ability to tell if I'm speaking the truth.”
+
+“I'm not.” Ereka said. “But it was so much easier when I could just feel it from you.”
+
+Ren sighed. “I'll have to stop sharing my Aura when I come here.”
+
+“No, please.” Ereka said. “I'll be good. I won't be jealous of anyone!”
+
+“When do you go for your training?”
+
+“It was arranged for my twenty-fifth birthday.” She said.
+
+“When you come back from that, I'll share my Aura with you again.”
+
+“I can't wait that long!” Ereka exclaimed. “You... you can't deny that it... it feels so good.”
+
+Ren nodded slightly. “If I had thought for a moment that you couldn't handle it...” He sighed again. “I wouldn't have told you how to activate it.”
+
+Her eyes widened. “You would have kept it a secret?”
+
+Ren nodded slightly again. “The last thing I want is to affect people this way.” He said. “It's supposed to be a benefit, not a hindrance to bear.”
+
+Ereka put a hand on his. “It's not a hindrance.”
+
+Ren smiled. “I don't have to share your feelings to tell you're desperate to feel it again.”
+
+She opened her mouth to protest, then closed it. “By the gods, you're right.” She said. “I'm... I'm acting like a star-struck, foolish little girl.”
+
+She put her hands over her face and started to sob.
+
+“It's okay.” Ren said, and sat on the couch beside her. “This is my fault.” He took out a piece of cloth, moved her hands out of the way, and dried her tears. “I'll be much more careful about this kind of situation in the future.”
+
+“What... what do you mean?”
+
+“I'm only going to share my Aura with those closest to me, and not just anyone wearing the House Neram Crest.”
+
+The tears welled up in her eyes, and Ren took her into a hug. She cried on his shoulder, and he rubbed her back.
+
+“Yes, I definitely need to be more careful.” He held her like that for several minutes, and she held him tightly the entire time. She eventually calmed down, and let him out of the hug.
+
+“I don't know what came over me.” Ereka said, and Ren gave her the cloth. “I've never... I mean, I've cried over a man before, after that incident, but this...” She motioned to her eyes. “Even then, I didn't cry this much.”
+
+Ren nodded slightly. “I'd say you've been getting a lot more from sharing my Aura than either of us thought.”
+
+She looked at him with wide eyes. “You mean...”
+
+“You're probably going to feel things a little more intensely for a while.”
+
+“Oh... oh my.”
+
+He smiled. “Yeah, that's not what my fiance's going to say.”
+
+Ereka had a shocked look on her face. “You can't tell her!” She grabbed Ren's shoulders and shook him slightly. “She'll kill me if she finds out!”
+
+Ren shook his head. “She'll do no such thing.” He said and took Ereka's hands from his shoulders and held them. “If anything, she'll feel sorry you had to go through this.” He smiled again. “At least we caught it in time.” Ren stood up. “Who knows what would have happened if you'd kept drowning in my emotions.”
+
+Ereka took a deep breath and stood. “I'll resign if you tell her.”
+
+“You can try.” Ren said to her surprised face. “You'd have to do something completely outrageous to lose your job.”
+
+She stepped close. “I could-”
+
+“No.” Ren said and stepped back. “It's bad enough I caused this to happen, without you kissing me on purpose, just to get yourself fired.”
+
+“What if I want to kiss you anyway?” Ereka said. “What if I want to throw away my career, and ruin my life; just for one kiss from you?”
+
+Ren looked at her with concern on his face, and didn't know what to say.
+
+“No, I won't do it.” She said. “I really want to, but I won't.”
+
+“I'm glad.” Ren said. “I'm not worth everything that you'd lose.”
+
+“No, you're not.” Ereka said. “You're worth a lot more than that.”
+
+Ren's mouth fell open, and she laughed.
+
+“It's not because you're strong, handsome and rich, either.” Ereka said. “It's because you care so much for people.” She put a hand on the side of his face. “Despite only knowing them for several days.” She let her hand drop, and Ren saw her slip into her professional mode. “Is there anything else I can help you with, your highness?”
+
+Ren nodded slightly. “Is there somewhere I can order sand, or do I just go down to the shoreline and get it myself?”
+
+“Sand?” Ereka asked. “For what?”
+
+“Making sand castles.” Ren said, and she winced slightly. “I have an experiment I need to do.”
+
+“I'll send a messenger right away.” She said. “How much do you need?”
+
+“Probably about a ton.” Ren said, and Ereka's eyes widened. “I'll know if I need more, once I start playing with it.”
+
+Ereka opened her mouth to respond; but she heard the truth in his words, and only nodded slightly.
+
+“Have it delivered to the workshop up behind the Keep.” Ren said walked over to the door. “I really am sorry about this.” He said and pointed to his House Neram pendant, then turned and left the office.
+
+*
+
+Ereka went out to the area Ren had made for the messengers, and told one to head to the docks to talk to one of the workmen about sand, and to get back to her as soon as possible. She handed him a gold coin, and went back to her office. She laid down on the couch and held the piece of cloth Ren had given her, to her face.
+
+I'm never going to feel his feelings again! She thought, and cried.
+
+*
+
+Ren ran down the road and up to the workshop, and concentrated on his House Neram pendant again. He waved to the women shoveling outside, and went inside. He greeted the women working there as well; then pat Ruck, who was helping Dorathy again. After that, he went into the forge room.
+
+“Hi, Tee-one.” Ren said. “Want to help me make a new construct?”
+
+“Of course.” Tee-one said. “I've kept the smelters full.”
+
+“Great.” Ren said. “I didn't see the armor crates in the main room.”
+
+“I stored them just before the workers showed up.” Tee-one said. “They wouldn't have had any room to work, otherwise.”
+
+Ren nodded slightly. “Thanks.” He said. “I'll take them from you.”
+
+Tee-one handed the crates over and Ren stored them, then opened the Iron Defender recipe, and looked at it. “Wow.” He said. “Retractable razors in the jaw like a bear trap. The claws in the paws, too.” He frowned. “I don't like how open the insides are.” He said, opened the armor design he'd made for Princess, and added it to the recipe. “That's better.” He looked at his Improved Homunculi ability, and frowned. “How can a dog have a weapon proficiency?”
+
+“I assume because of it's jaws and claws.” Tee-one said.
+
+“Of course.” Ren smacked himself in the forehead. “I was thinking actual weapons, not weapons they would already have.” He made one more change to the design, and gave the improved plans to Tee-one, and they started pouring out the metal needed. They folded the metal a dozen times for each piece, and with the two of them working, it didn't take long to have all the pieces needed to make two constructs. He enchanted each piece with Strength and Protection, just like he did with Tee-one.
+
+“Why build one when you can build two at twice the price?” Ren said as he assembled the pieces together and dyed them pitch black. He took out a diamond crate and picked 2 similar sized ones, worth about 20 platinum each for the payment. Then he found 4 ovals the right size for the eyes, dyed them red, and set them into place in both of the heads.
+
+“I don't know if this will work.” Ren said. “I might only be able to do one, then have to wait and do the other later.”
+
+“Why not put a pile of metal inside the forge and keep absorbing the heat from it?” Teepo suggested. “It'll keep melting, and you can keep a steady flow of Mana going.”
+
+“That is an excellent idea, Teepo!” Ren said, and picked up the huge chunk of gold steel from the pile of gold ore beside the forge, and slipped it inside the large forge he hadn't used yet. Ren activated it, the heat from the double glyphs blasted the metal, and it softened almost immediately.
+
+“Here goes.” Ren looked at the first construct. “Activate Construct.”
+
+Notice!
+
+You have chosen to activate a construct: Iron Defender (Armored). Unlike familiars, they are only semi-sentient and will only follow basic commands.
+
+Please insert the correct value now.
+
+A small portal appeared over the chest, and Ren put in 5 platinum coins and the diamond worth 20 platinum. It closed and he got another popup.
+
+Notice!
+
+Constructs only require a small amount of blood (one quarter of a pint) to create a bond.
+
+Please insert the correct value now.
+
+A portal opened over the constructs head, and Ren took out his hammerpick to cut his palm. It didn't take long to get the amount needed, and he wrapped the hand when the portal closed.
+
+Notice!
+
+All ingredients have been gathered and you have built a suitable body. Place a hand on the construct to infuse it with your will and finish the bond.
+
+Ren looked at the popup, and wondered why it didn't have the warning about not removing his hand. His Mana pool dropped by a third, and the construct glowed for only a moment. It's leg twitched, and then the tail wagged.
+
+Congratulations!
+
+Your construct is now ready for you to enjoy.
+
+Ren frowned at the popup. Nothing about the excessive value or anything? He thought, as the dog hopped up and looked at Ren with glowing red eyes, then it barked. It sounded like grinding metal.
+
+name. name. name. name. name. It started to jump around, while it waited for Ren to name it.
+
+“You're pretty riled up.” Ren said, then smiled. “How about 'Riley'?”
+
+It barked and kept jumping around.
+
+“Riley, sit.” Ren said, and the dog sat down. “Wait there.”
+
+The dog sat and Ren repeated the same process for the second dog, thinking 'female' the entire time. It got up and looked at Ren with the same glowing red eyes.
+
+name. It sat down and waited.
+
+“You're staying quiet.” Ren said, then smiled again. “How about 'Stacy'?”
+
+She gave a low bark and looked at him.
+
+“Riley, come here.” Ren said and the metal dog came over to him. “Sit.” He said, and the dog sat. Ren knelt and put a hand on the dog's chest, gave it a Minor Healing spell, then did the same for Stacy. “Stacy, I'd like you to meet Riley. Riley, this is your mate, Stacy.”
+
+She turned to the dog, and they rubbed muzzles. Ren heard the sound of scraping metal, and smiled.
+
+“Don't bite anyone. Don't scratch anyone. Don't jump on anyone.” Ren said. “Don't attack unless I say.” He said. “Be careful. Stay close. Help each other.”
+
+Both dogs turned their heads to the side in confusion.
+
+“That's too complicated. Right.” Ren said. “Stay together.”
+
+They barked, and Ren pointed to himself. “I'm Ren.” He pointed to his shoulder. “This is Teepo.” He pointed to Tee-one. “That's Tee-one.”
+
+The dogs looked at each one in turn, and then back at Ren. “Follow me.” He took the dogs out to meet Ruck, and the women gasped at the dark metal dogs. “This is Riley, and this is Stacy.”
+
+Dorcot came over to greet them, and told Ren that his brother-in-law was waiting at Dorcot's place for him. Ren nodded slightly and took the dogs down to the house. They greeted Golir, who nodded slightly at them and opened the gate for them to pass. Ren's Aura merged with the one around the house and he went inside to introduce Riley and Stacy to Nathalia and Narhilda. The two women stared at the dogs as Ren introduced them back, and then he took the dogs out to the stable to introduce them to Princess.
+
+*
+
+Narhilda put a hand over her heart. “By the gods, I thought asking for a dog would be less scary.”
+
+Nathalia nodded slightly. “Those glowing red eyes...” She shivered. “...and he made 2 of them.”
+
+“Should we tell him they scare us?”
+
+“We don't have to.” Nathalia said. “He felt it.”
+
+“What?” Narhilda looked down at the pendant she had been practicing to use, and then felt Ren's sadness fill the Aura their shared. “Oh, damn.”
+
+*
+
+Ren felt sad that his new friends scared Nathalia and Narhilda so much, but pushed that feeling aside as he felt regret from the two women. He watched as the dogs greeted Princess, and was fascinated. They sat in front of her, side by side, and touched noses to her briefly.
+
+...hello... new... guards...
+
+“Actually, that's a great idea.” Ren said. “Riley. Stacy.”
+
+The two dogs looked at him.
+
+“Stay. Guard Princess.” Ren smiled as the two dogs barked together. “You can run around the courtyard during the day, but do not leave it.” He said. “Stay in here at night.” Ren walked out of the stable, and left the door open enough for the dogs to go in and out. He ran up to the workshop and made another 40 wands, and told Tee-one to keep making rebar.
+
+If he keeps going, I'll have enough for a good portion of the Keep in a few days. Ren thought then ran down the road to the stable. Once there, he placed several enchanted steel squares around it and activated them. He built several more carts and enchanted them with the House Neram crest; then counted the ponies, and made one more cart to make it an even 10. He moved the carts over to the spot where they were stored until used, and grinned at the popup.
+
+Notice!
+
+You have completed a task for House Neram, that will greatly improve the comfort and mobility of the residents.
+
+Influence: +1000
+
+Honor: +150 ; Lady Neram: +150
+
+Not too bad. Ren thought, then went over to the Church to see how things were progressing. He was quite happy with the result as he went into each room and checked to see it was all up to specifications, then he grinned.
+
+Now all I need is the stained glass windows. Ren thought, and looked at the Main House down the road. He walked down to the road, and stopped as he thought of Nathalia.
+
+“Nathalia, could you call the Main House and ask about the sand I ordered?”
+
+“Of course.” She said immediately, and then told him there was a cart coming shortly.
+
+“Thank you.” Ren said and walked back to the workshop.

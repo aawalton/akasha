@@ -1,0 +1,289 @@
+---
+id: 2d24f351-9b8f-5d59-9773-3b819c6c9ad5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 309 - The Ship: Part Three"
+slug: 0300-chapter-309-the-ship-part-three
+partOf: mythrans-master-of-all-continued-completed
+position: 300
+ownLength: 3017
+unit: words
+publishedAt: 2017-07-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149018/chapter-309-the-ship-part-three"
+royalRoadId: "149018"
+---
+
+Tee-one had left a while ago to continue his work building up a stock of items for the shop while Ren had diligently scrubbed all 5 personal maids. He made sure he gave each of them an equal amount of attention, so that no one felt like they had been left out. When he was done, the personal maids sat beside each other on one side of the Jacuzzi, and the shared Aura was full of contentment and calmness.
+
+“Do you want to just sit and soak for a while, or do you want to dry off and lay on the lounge chairs?” Ren asked them.
+
+“Do we... have to decide... right now?” Lusinia asked, a little breathless. “You just... finished washing me.”
+
+Ren smiled because the personal maids were still savouring their shared experience. “Then you should sit and soak for a while.” He said, then looked down at himself. He still had some soap and bubbles on him, so he dunked himself into the water to rinse off. When he stood up, he ran his hands through his hair to fluff it back out. “I think I will, too.”
+
+Ren felt that they would like that very much, and he sat down across from them. A moment later, the personal maids opened their eyes and looked at him.
+
+“I'd sit with you, but there's not enough room for all of us on one side.” Ren said.
+
+“Then we'll take turns.” Frikara said and looked at Verwynn on the end. “Move over onto the side.”
+
+Verwynn nodded, and with only 4 people on one side, two of them shifted over to make room for Ren to sit in the middle.
+
+“You don't have to...”
+
+“Come here.” Frikara said and motioned to the spot between her and Andrela. “Every few minutes we'll move down one space and let the others sit beside you.”
+
+Ren felt everyone's agreement, nodded slightly in agreement himself, and went across the Jacuzzi to sit between them. They were shoulder to shoulder with each other, and he figured he could save a little bit of room if he changed how he sat. He stood up for a second and felt a bit of worry enter the Aura. Ren assumed they thought he was going to leave; so he opened his arms and sat down again right away, then took Andrela and Frikara into one arm hugs. He felt a spike of surprise from everyone, and then happiness replaced it.
+
+“Now we have a little bit more room.” Ren said and smiled. Frikara and Andrela weren't going to pass up such a great opportunity to cuddle, and they snuggled in and rested against his chest. They sighed together and closed their eyes.
+
+Hey, Teepo. Ren thought to his friend. I have a big job for you.
+
+“I'm up for it!” Teepo said.
+
+Can you count everyone on the ship? Ren asked. We know how many are supposed to be here, but there seems to be one extra.
+
+“That is a big job.” Teepo said. “It might take a while.”
+
+I'm not going anywhere. Ren thought and smiled.
+
+“I wouldn't, either.” Teepo chittered in laughter as he flew out of the room to begin his search.
+
+“I have a bit of a surprise for you.” Ren said, and the personal maids all looked at him. Activate.
+
+The Wind enchantments on the sides of the Jacuzzi turned on and stirred up the water.
+
+“AhhHH!” All the maids said and jumped up at the same time. They splashed water everywhere and Ren laughed at their reaction. Two of them crossed their arms, one put her hands on her hips, and the last two just stared at the water as it churned.
+
+“I guess I should have given you a more detailed warning.” Ren said and smiled.
+
+“Yes, you should have.” Frikara said a little sternly. She felt he was sorry, even though he enjoyed how much they had jumped; so, she forgave him and sat back down, then cuddled into his chest again. Andrela followed suit barely a second later.
+
+“It feels weird.” Navruth said. “Can you reduce it a little?”
+
+Ren nodded slightly and deactivated half of the enchantments.
+
+“Thank you.” Navruth said and leaned back. “It's still a little weird, but...” She smiled. “It's nice.”
+
+After several minutes, Frikara moved over to make room for the next person, and Andrela switched sides to cuddle Ren's other side as Lusinia took Andrela's old spot. No one said anything about Andrela getting two chances to cuddle, because they would each get two chances to do that.
+
+*
+
+“I'd like to see the Head of House Neram, please.” Dorathy said.
+
+“I'm sorry, the Head of the House isn't here.” The receptionist at the Main House said.
+
+“Then let me speak to Ereka.” Dorathy said.
+
+“Just a moment.” The receptionist said and touched the Sending Square on her desk. “There's someone here that wants to see you.” The receptionist said, and told Ereka who it was.
+
+“Send her in.”
+
+“Go right through and to the office at the back.” The receptionist said to Dorathy.
+
+“Thank you.” Dorathy said and went to the office. She knocked and Ereka told her to come in.
+
+“I'm here to accept the job Lord Neram offered me.” Dorathy said.
+
+“I'm sorry, Dorathy.” Ereka said. “Lord Neram was... banished.” She sighed. “Plus, he's not the overall commander of the Garrison anymore. He doesn't need you to make uniforms for the soldiers.”
+
+“That wasn't the job he offered me.” Dorathy said. “He wanted me to be the tailor for House Neram. The uniform job was only the first thing that had to be done.”
+
+“Oh.” Ereka said. “Then... you'll have to talk to Nathalia... I mean, the Head of the House.”
+
+Dorathy smiled. “That's who I asked for first.”
+
+Ereka smiled back. “I'll send her a message and she should be free this afternoon.”
+
+“Great.” Dorathy said. “Do you mind if I wait here?”
+
+“Not at all.” Ereka said. “There's a large living room upstairs for that.”
+
+“Thank you.” Dorathy said. “Let me know when she gets here.”
+
+Dorathy left Ereka's office and went up the stairs and sat down on one of the large comfy couches. She looked around at what was there, and saw a small bookshelf. Curious, she went over to it and saw it had several copies of Ren's books on it. She smiled and picked one up and went to the couch, reclined back on it, then opened the book to one of her favorite parts and started to read.
+
+*
+
+Each of the maids had taken turns, and when it came to the last one and she switched sides to get her second turn, Frikara got to have her second turn, too.
+
+“You planned that, didn't you?” Ren asked her.
+
+“Not really.” Frikara said. “When I thought about it, though; I believed it was better giving up a longer cuddle at the first was better, so I could have the last one.”
+
+Ren smiled and hugged her a little tighter. They spent the next few minutes soaking in the water, and then it was time to get out. He deactivated the Wind enchantments and stood up.
+
+“That's enough relaxing.” Ren said to them and grinned. “Let's dry off so we can lay down on the lounge chairs and relax.”
+
+The maids laughed and stood up, too. Then there was a sudden spike of astonishment, and four of the maids looked at Lusinia.
+
+“What is it?” Frikara asked her, and she pointed at Ren's face. The maids looked at him, and they all felt astonishment.
+
+“What?” Ren asked. “What's wrong with my face?”
+
+“You... you...” Andrela tried to speak, but she couldn't say anything else.
+
+Ren took out the All-Seeing Mirror and looked at his reflection. He didn't have a full beard anymore, as several patches of it was now missing. He looked over at the soap on the side of the Jacuzzi, and remembered dunking himself to rinse it off.
+
+“Well, I can't leave it like that.” Ren said and stored the mirror, picked up a bar of soap, and lathered his hands.
+
+“What are you doing?” Frikara asked as Ren scrubbed his face with soap-covered hands. “We're all clea-BY THE GODS!”
+
+Ren splashed water on his face and the beard disappeared as the cream dissolved.
+
+“YOU... YOU...” Frikara yelled. “WHAT IS GOING ON?!?”
+
+“I normally don't have a beard.” Ren explained as shock and surprise filled the shared Aura. “A healer at the House Neram mines bought a magic cream to treat a chin itchiness, and put it on me. I've had a 2 inch long beard since then.”
+
+“But... but...”
+
+“I'm sorry.” Ren said, as the shock and surprise didn't diminish at all. “I probably should have told you. There's so many other things I should tell you, too.”
+
+“Hold on!” Navruth said. “You've been lying to us all this time!”
+
+Ren sighed. “I didn't lie.” He said and looked at them. “I just didn't think about it. I've had it for a while, and it just didn't cross my mind until now.”
+
+“What else is fake about you?” Verwynn asked.
+
+Ren could feel indignation and a little betrayal in their feelings, and then Andrela stepped close and rubbed her hand on his chin, then on the side of his face.
+
+“It wasn't fake.” Andrela said. “He might not have grown it himself; but, it was still his beard.” She said and looked at the other maids. “Who thinks about the hair on their head all the time? I don't. It's just there, right? A part of you that you accept and ignore.” She turned back to Ren. “Dwarves see people that shave their beards off as strange or a little crazy.”
+
+“I know.” Ren said.
+
+“But you didn't shave it off.” Andrela said and smiled as she stroked his chin again. She leaned in and kissed his cheek. “I don't think it's fair if you get judged like that.”
+
+“Thank you.” Ren said and hugged her. “That was nice of you to say.”
+
+Ren felt how much she liked being held like that, both emotionally and physically, and she wrapped her arms around him to hug him back.
+
+“You're welcome.” Andrela said and let him go. Ren had thought she would have tried to hold on to make it last longer; but, then he realized that she probably didn't even think of doing that.
+
+“I'll get out first and make some towels and robes.” Ren said and climbed out of the Jacuzzi. He went over to the table and took out the right kind of fabric that would be best suited as towels and made a dozen of them. He dried himself off quickly and took out some thin silky fabric used for lingerie and made 5 robes with belts. He did it all completely nude, and he felt the curiosity and intensity of the maids as they stared at him while he worked. The last thing he made was a pair of silky shorts for himself and put them on.
+
+“Here we go.” Ren said and stored everything, then went back over to the Jacuzzi. “Andrela? May I assist you?”
+
+“Please.” Andrela said and held a hand out for Ren to take. She climbed out of the water and Ren asked her to sit on the top of the Jacuzzi. She sat down and he took out a towel to dry off her feet and legs. He felt her appreciation that he was concerned about her slipping and falling enough to dry her feet for her.
+
+Ren handed her the towel, and Andrela looked at him with wide eyes. He smiled because he knew she wanted him to dry her off; so, he surprised her and picked her up and stood her on the floor. Andrela was so surprised that she couldn't move when he let her go. Ren felt her reaction and took out another towel and started to dry her off. After a few moments, she calmed down enough to enjoy the attention and was smiling herself when he finished.
+
+“Thank you, Ren.”
+
+“You're welcome, Ma'am.”
+
+Andrela winced and put a hand on Ren's chest. “Don't lie to me and call me Ma'am.” She said. “I'm no more a Ma'am to you than you are a Sir to me.”
+
+Ren put his own hand over hers. “My apologies, Andrela.” He said, then moved her hand to his mouth and kissed the back of it. She gasped and pulled her hand away.
+
+“Take that back!” Andrela said, and he felt her immediate anger. “You are not below my social standing!”
+
+“We're not in the dwarf lands anymore.” Ren said. “You don't have to worry about-”
+
+“You have more Influence and Honor than anyone else in our history!” Verwynn said and cut off his words.
+
+“It wasn't even given to you! You earned it!” Navruth said.
+
+“You are the Unnamed King.” Lusinia said. “No one has ever held that title before.”
+
+“I'm sorry about the way we reacted about your beard.” Frikara said. “Andrela is right. We shouldn't judge you like that; but, we will judge you about this!” She said. “We're your personal maids! You can't lower your prominence to be below us like that!”
+
+Ren took out one of the robes and hung it over Andrela's shoulders. “I could order you to accept it.” He said, and they all froze still. “Every time I talk to you, any or all of you, I have to be careful about what I say; just in case I might activate some kind of rule or ritual.” He sighed. “You don't know how tempted I am to order you to just ignore your cultural baggage.”
+
+The maids gasped and put a hand over their mouths.
+
+“I'd never do that, though.” Ren said. “I won't interfere with how people live their lives like that.”
+
+“But... you just said...” Verwynn said.
+
+“I'm not going to order you to act how I want you to act.” Ren said. “What's the point of that?” He asked them. “You'd lose what makes you, you.”
+
+“Then what...” Navruth said.
+
+“I just want to stop worrying about it.” Ren said. “Keeping up my guard constantly is hard on me.”
+
+“Then don't.” Frikara said. “Do what you want.” She smiled. “We'll worry about any implications it may have.”
+
+“What?” Ren asked.
+
+“Call us by name. Kiss our hands. Play with us like toys.” Frikara said. “You just enjoy yourself, as we'll deal with the consequences.”
+
+Ren shook his head. “No, I can't do that.” He said. “I have too much respect for-”
+
+“Rubbish!” Lusinia said. “Your problem is that you care about others too much to care about yourself.”
+
+“But...”
+
+“No, she's right.” Andrela said. “You're doing everything for everyone else, and you spare no thoughts for yourself.” She smiled. “Hand over the towels and robes, and go lay down on your lounge chair. We'll dry ourselves off and be right over.”
+
+“I really should-”
+
+“Andrela's right.” Frikara said and started to climb out of the Jacuzzi. Ren gave her his hand and helped her out. “We are capable of taking care of ourselves.”
+
+“But...”
+
+“Go lay down.” Frikara said as Ren gave her a towel, then he handed Andrela the rest. “We've got this.”
+
+“All right.” Ren said. “Right after I help everyone climb out.” He helped the last three maids get out of the tub and walked over to a lounge chair and laid down on it while his personal maids dried themselves off.
+
+*
+
+“I was going to argue after he dried us off.” Frikara said, and several of the other maids chuckled. They dried themselves off, with a bit of help from Andrela, put on their nice new robes, and went over to the lounge chairs and laid down to relax beside the man that they wanted to do everything for.
+
+*
+
+After about 20 minutes, Teepo flew into the room and landed beside Ren.
+
+Hi, Teepo. Ren thought. How did it go?
+
+“I'm done.” Teepo said. “There's 68 of us on board.”
+
+Ren opened the Ship Info popup he had gotten the night before and counted the number of people.
+
+Notice!
+
+Your ship (UNNAMED) has been in operation for 24 hours. The following information has changed since the beginning of the journey:
+
+Ship's Hull  14980 / 15000
+
+Food/Consumables  2900 / 3000
+
+Ropes  290 / 300
+
+Cleaning Supplies  1625 / 1650
+
+The following information hasn't changed since the beginning of the journey:
+
+Captain  1
+
+Cook  1
+
+Waitresses  2
+
+Crew  50
+
+Passengers  15
+
+There's 69 of them. Ren thought and closed his eyes. So, if there's an extra passenger...
+
+“They can't been seen, or are hiding somewhere I can't get to.” Teepo said.
+
+I assume that you...
+
+“All over!” Teepo said. “I even went into the engine room. There's only a few dwarves in there, and the engine.”
+
+Then yes, they're hiding in a good spot if you can't find them. Ren thought to his friend. Speaking of the engine room, it's about time I went in there to get a good look.
+
+“Good luck.” Teepo said. “The dwarf running it is a real pain in the butt.”
+
+How would you know that? Ren asked.
+
+“He kicks the other workers in the backside when they mess up.” Teepo said. “He can launch them pretty far, too.”
+
+Ren shook his head. I'll have to put a stop to that. He thought. Right after I lay here for a while.
+
+“You don't want to run out right after they told you to relax, huh?” Teepo said.
+
+Yeah. Ren thought. I really do want to relax, though.
+
+“Have fun.” Teepo said and took off. “I'm going to keep looking for the missing passenger.”
+
+Good luck. Ren thought and sighed. A hand touched his chest, and Ren opened his eyes and saw that Andrela looked at him with a bit of worry on her face as it trickled into the shared Aura. He smiled at her, and put a hand on hers and closed his eyes again.

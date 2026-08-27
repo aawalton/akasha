@@ -1,0 +1,345 @@
+---
+id: eb917bfa-8cce-5f0b-94a6-f4300c503fa2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 446 - Like An Angel"
+slug: 0445-chapter-446-like-an-angel
+partOf: mythrans-master-of-all-continued-completed
+position: 445
+ownLength: 3202
+unit: words
+publishedAt: 2017-12-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179194/chapter-446-like-an-angel"
+royalRoadId: "179194"
+---
+
+Once all the outer walls were done, Ren had a bit of a problem. The large 200 foot tall cliff that was next to the old village was still a hazard. It wasn't the falling rocks or possible collapse; it was the extremely high vantage point that was several miles across that any group positioned there would have over him and the citizens of his county.
+
+Ren wasn't going to stand for that.
+
+With an unlimited amount of permanent Iron Walls, he used them to make a 240 foot wall, 10 feet thick, all along that cliff face. With the walls directly against the cliff, there was no chance that anything could crumble or drop on the people down below, and it stopped anything from being fired directly down. There wasn't much he could do about catapults fired over the top of the wall, at least not until he deployed the soldiers he had on the outside of the walls.
+
+Ren cast Animate Object on them and charged them with protecting the realm, and he went along the entire periphery to place thousands of animated soldiers to defend the county. He was almost sure he wasn't going to need an entire army; but, it was always nice to be prepared. With that done, he and Princess ran up the wall and stood on top of it. It only had iron walls on one side of it.
+
+“It's dangerous up here.” Ren said and chuckled, and Princess huffed while Teepo chittered in laugher. “I'll fix that tomorrow.” He said, and Princess ran down the inside dirt wall and they went back to the Main House.
+
+“You're just in time.” Tee-one said as Ren and Princess came to a stop. “Ruck and I just finished the Library.” He said and pointed down the street.
+
+“Holy crap.” Ren said, and it was identical to the building in Aurora. “How did I miss you building something that big?”
+
+Tee-one laughed. “You always leave going the other way.”
+
+“I... well, damn.” Ren said and laughed, too. “You're right.”
+
+“It's got shelves and tables inside, but not a single book.”
+
+“I'll be taking care of that right now.” Ren said and opened up the Land Owner menu. He followed Rosie's instructions to the letter and set everything up, added it's own budget, and checked the box that asked if he already had a Librarian. He added Rosie's name as the Head Librarian, and couldn't remember the name of the marked one that was a Librarian as well, so he chose 'pending' for a secondary Librarian, and for several assistants.
+
+Ren chose 'yes' when the Library activation popup appeared, added the money for the budget, then the popup disappeared and the building started to glow. This lasted for a few minutes, and then the glow faded.
+
+Notice!
+
+Congratulations! You have successfully created the proper infrastructure for a fully functional city within your county. Gaugan City is now the capital of Walin County.
+
+Rewards: 300,000 XP
+
+Fame Bonus: +75% (100% - 25% Slow and Steady)
+
+10,000 Fame
+
+Total XP: 525,000
+
+Notice!
+
+Excess Fame has been converted to XP.
+
+10,000 Fame x 10 XP = 100,000 XP
+
+Notice!
+
+You have earned enough XP to gain the sixth spot on the leader board. Your name and the total have been posted on the message board and the main server.
+
+Notice!
+
+You have gained 3 levels! You are now level 140 and 30 stat points have been automatically allocated. You have unlocked: Deft Hands (skill), Skill Focus (skill), Smoke Screen Gem (recipe)
+
+Ren had just finished reading the popups and dismissed them, when he saw a very familiar figure running towards him. He jumped off of Princess and ran to meet her, stored his armor, and took Lara into his arms.
+
+“Guess what popup I just received?” Lara said and kissed him.
+
+“I have no idea.” Ren said and kissed her back. “Was it important or something?”
+
+Lara laughed. “Not at all.”
+
+Ren let her out of the hug. “Want me to show you around the place? Considering it's all official now?”
+
+“I'd like that.” Lara said. “I've been meaning to come out here for a while now.”
+
+Ren put an arm around her waist. “You don't have far to go to get here, now.” He said and pointed to each building and said what they were as he slowly turned her around in a circle. “Most of the places are closed, since it's so late.” He said, and chuckled. “Except for the Pleasure Palace and the Library, apparently.”
+
+“No, the Library's still closed.” Lara said. “It'll stay that way until you get a Librarian.”
+
+“I have one... well, two...” Ren said. “Rosie's going to run it, and one of the people I rescued during that ghoul mission is another.”
+
+“You'll be able to stay open a lot if you split the shifts.”
+
+Ren nodded. “Now that I've got that done, I'm heading back to Aurora.”
+
+“I'd offer to take you, but there's no way at all that Princess would fit.”
+
+Ren chuckled. “That's okay. She prefers to run anyways.”
+
+So do you. Princess thought.
+
+“I'm going to stick around this Library and see if there's anything different in the book selection.” Lara said.
+
+“Can't you just...” Ren closed his eyes for a second and opened them.
+
+“I could, but where's the fun in that?”
+
+Ren smiled. “Then go have fun and I'll see you later.”
+
+Lara kissed him again and started to walk back to the Library.
+
+“Just a second.” Ren said, and she turned around.
+
+“What is it?”
+
+“I'm moving everyone here tomorrow, and... well... I've got a few extra houses free if you want to pick one.”
+
+“Wh-what?”
+
+“You can choose one here, or you can move into the one in the Housing District in Aurora.” Ren said. “Either way, you'll have a place to call your own.”
+
+“I... Ren, that's... you're giving me a house.” Lara said, surprised.
+
+“That shouldn't be such a surprise.” Ren said. “Except maybe that I've waited so long to offer.”
+
+Lara smiled. “I'll think about it.”
+
+“That's all I can ask.” Ren said and kissed her. “Bye, Lara.”
+
+“Bye.” Lara said and walked back towards the Library.
+
+“Tee-one. Ruck.” Ren said as he turned around and climbed up onto Princess' saddle. “Thanks a lot for all your hard work.”
+
+“You can thank us properly by giving us a new member to the family.” Tee-one said.
+
+“Wh-what?”
+
+“Your familiar limit is up to 5 now.” Tee-one said. “It's been only Ruck and I for so long.”
+
+“I... I'm sorry I haven't made anyone else.” Ren said. “I always meant to.”
+
+Tee-one pat his knee. “We know; but before you go off adventuring again, we'd like someone else to talk to.”
+
+“I'll come by tomorrow, and we can discuss the best ways to use up those slots.”
+
+“Thank you.” Tee-one said, and Ruck pat Ren's head.
+
+“See you tomorrow.” Ren said, and Princess turned around and took off at half of her top speed. The road was getting crowded with players going to the Pleasure Palace, and she had to be careful that she didn't run anyone over.
+
+*
+
+Officer Holly finished all of her assigned tasks, and came to a stop in front of the instructor. She was out of breath and full of high emotions.
+
+“Well, this is it.” The instructor said. “Your last check-in.” He looked at her sternly, and she felt his intense scrutiny. “Do you feel like you've successfully completed the training necessary?”
+
+“No, sir.” Officer Holly said, completely honestly.
+
+The instructor's face changed from stern to a huge smile. “Good.”
+
+“Wh-what?” Officer Holly was shocked. “S-sir.”
+
+“If you thought you knew everything, I would have extended your training for another week.” The instructor said and laughed at her reaction. “There is always more to learn and more to experience.” He said and put a hand on her shoulder. “You've got a brash attitude; but, you've also got a big heart. You are going to need both on your journey.”
+
+“I... thank you, sir.” Officer Holly said.
+
+“Make sure you work on invoking your Aura.” He said. “It's essential to your development.”
+
+“I will, sir.”
+
+“I'm glad to have someone as capable as you join the ranks of Paladins.” The instructor said and gave her a weird salute. She returned it, and he nodded. “May the Light always shine within you.”
+
+“...and within you, sir.” Officer Holly responded, and she received a popup.
+
+Notice!
+
+Congratulations! You have successfully completed Paladin Training.
+
+Rewards: 20,000 XP; Light Affinity +10%; 10 gold coins
+
+Notice!
+
+You have gained 10 levels! You are now Level 10, and have 50 points to spend on available stats.
+
+You have unlocked: Holy Armor (recipe - give to blacksmith), Light Touch Level 1 (Beginner 0%) (skill), Healing Aura Level 1 (Beginner 0%), Detect Undead (spell), Revealing Light (recipe - give to enchanter), Weapon Proficiency (skill), Parry (with shield) (skill), Aura of Truth (Mastered), Track Level 1 (Intermediate 0%), Armor Proficiency (skill)
+
+Oh, my god. Officer Holly thought as she read the popup. She dismissed it and looked at the instructor, and he had a huge smile on his face.
+
+“Good luck, Paladin.”
+
+Officer Holly nodded, and walked away with her head held high. She made it to the beginning of the training grounds and was ushered through the guard post almost immediately. Several carts and horses were waiting at the nearby stable, and she hired one to take her back to Aurora. If she hurried, she might get to Ren's business before it closed.
+
+*
+
+Ren felt Princess' frustration, but there wasn't much he could do about it; then smiled when he remembered that he had access to magic spells.
+
+“Princess? Do you want to test the limits of the Air Walk spell?”
+
+Princess huffed agreement, and Ren took out a wand and replaced it's charges with the Air Walk spell. At Level 5, it would last 20 minutes; which was plenty of time for her to make it back to Aurora, even if she could only move at half of her normal speed. Of course, her normal speed was completely outrageous, so going half that wasn't really much of a penalty.
+
+Ren cast it on her, and she ran up into the air as if going up a steep hill. He felt her exultation as she brayed loudly and passed above the tops of the trees, then she ignored following the road completely and ran directly for the city of Aurora.
+
+“Princess? Go to the big mansion in the center of the city.” Ren said and equipped his dwarf overall commander uniform, and Princess shifted her path only slightly. They made it to Aurora 10 minutes later, and Princess brayed as she passed over all those cumbersome buildings she always had to run around. She came in for a landing as if she ran down a hill, and stopped right in front of the steps. Barely two seconds later, Donna burst out of the mansion's front door and scared the two guards that stood on either side of the large doors.
+
+Donna stopped right beside him, and stared. “You... it's been so long!”
+
+“I've got a good tale to explain.” Ren said and held a hand out to her. She took it and climbed up behind him.
+
+“Take me home and tell me all about it.” Donna said, and Ren told Princess where her house was. They went down the street and then three streets over. Donna slid off and walked to her front door to open it, and Ren looked at Princess.
+
+“Do you want another Air Walk spell?”
+
+Please.
+
+“It's only 20 minutes, so don't go too high or too far.” Ren said. “I'll meet you back here when it expires.”
+
+Thank you, My Lord. Princess thought, and he used the spell on her again. She immediately ran up into the air and disappeared from view. Ren felt Donna's shock, and he walked over to her.
+
+“We only have 20 minutes.”
+
+“We might finish.” Donna said and picked him up. “Hey, you're lighter.”
+
+Ren chuckled. “I've got a lot of stuff in storage.”
+
+Donna brought him inside and shut the door.
+
+“You're the only person I've met that can even come close to lifting me.” Ren said as she put him on the bed.
+
+“That's because I'm unnaturally strong.” Donna said and started to undress, and Ren took out a Strong Ring of Storage.
+
+“Do you want one of these?” Ren asked and held it out.
+
+“Are you asking me to marry you?” Donna asked, and Ren laughed because he could feel that she was joking.
+
+“You'd never accept even if I did ask.” Ren said, and she nodded. “It's a storage ring.”
+
+“Thank you.” Donna said and put it on. She stored her clothing and left herself completely naked. “You're still dressed.”
+
+“I'm trying to enjoy the moment of seeing you naked.” Ren said as he took off his Dire Wolf Hooded Cloak, and she laughed.
+
+“Clothes off...” Donna climbed onto the bed. “...or I tear them off.”
+
+Ren stored his clothing without another word, and she saw that he was already excited.
+
+“Now, returning warrior.” Donna said and straddled him. “Tell me your tale.”
+
+Even though Donna had gotten most of the story from the maids, she wanted to hear it directly from him; then she gasped as they joined together for the first time in so long. Ren felt her revel in both the fantasy of him returning to her, and in the physical sensations she was feeling.
+
+“G-go ahead.” Donna said and leaned down to kiss him. “I'm... god, I'm waiting!”
+
+Ren gave her a quick rundown of what had happened since the last time he had seen her, and she stopped moving when he mentioned Shargon Caverns.
+
+“No.” Donna said and hugged him tightly. “How? Why?”
+
+“I apparently met the requirements.” Ren said.
+
+“Not you.” Donna shook her head. “Not my little dutiful soldier.”
+
+“It's all right.” Ren said and kissed her. “I made it out.”
+
+“But... then...” Donna looked down at them together. “If you're a... a...”
+
+“I'm not.” Ren said and smiled. “As a nice pixie said when I met her... I have evil, but it doesn't have me.”
+
+Donna took a deep breath and let it out. “I'm glad.” She said. “If you were, I'd... we'd... I couldn't do this with you anymore.”
+
+“Oh, then I'm quite evil.” Ren said and grinned, and she slapped his chest.
+
+“That's not funny.” Donna said and started to move her hips again. “What would I do without you?”
+
+“Anything you want.” Ren said. “How many times a day do you get men asking about you?”
+
+Donna's face flushed a little red, and Ren felt her embarrassment. He reached up and cupped her breasts.
+
+“Don't say no to someone, just because of this.” Ren said and massaged her. “If you find someone... please, don't ignore them for me.”
+
+“Ren, I... even if I did accept someone... they can't...”
+
+“You can be gentle.” Ren said and let her chest go to gently stroke her abdomen.
+
+“I can; but, I...” Donna put her hands on his shoulders. “...I need to not be careful.”
+
+Ren smiled and rubbed her thighs. “Then have at it.”
+
+She did.
+
+Princess came back to the house 20 minutes later, and Ren felt her outside.
+
+“My ride's here.” Ren said.
+
+Donna had finished only a minute before; and they had cuddled in bed afterwards. “So, you won't be mad if I did find someone else?”
+
+“Of course I won't be mad.” Ren said and kissed her. “The only reason I'm doing this is to make you happy.” He said and smiled. “Having great sex is just a bonus.”
+
+Donna chuckled. “I didn't even have to use my ability to ease battle horrors for you this time.” She said and let him go, and sat up.
+
+Ren got up off the bed and equipped his clothing, then put on his Dire Wolf Hooded Cloak.“Well, I kind of skipped over the part where I died.”
+
+“You WHAT?!?” Donna yelled.
+
+“That's my cue to leave.” Ren said and ran for the front door. “Bye!”
+
+“Get back here!” Donna said and equipped her clothing to run after him. When she reached the front door and looked out, he was nowhere to be found.
+
+Ren had hopped onto Princess and she ran up the road. He asked her to stop at the Library, and he went inside and saw that Rosie was just changing shifts.
+
+“Perfect timing.” Ren said, and she turned to smile at him.
+
+“It is.” Her grandmother said from behind the reception desk. “Give me a hand.”
+
+“Gladly.” Ren said and walked over to her, and helped her waddle over to Rosie.
+
+“What brings you here?” Rosie asked.
+
+“I was just passing by on my way back to the Housing District, actually.” Ren said. “I thought I'd stop in and tell you the Walin County Library is ready.”
+
+“I know.” Rosie said. “I got the notification a while ago.”
+
+“Oh.” Ren said and then smiled. “Well, at least I got to see your face twice in as many days.”
+
+“Such a sweet young man.” Rosie's grandmother said. “I'm sorry she missed her chance with you.”
+
+Ren blinked his eyes for a moment, then looked at the old woman. “She missed her chance?”
+
+The old lady nodded. “You've got too many irons in the fire for her to be a significant part of your life now.”
+
+“But, she is.” Ren said, truthfully. “I knew she wouldn't want to be with me because of my living arrangements; but, she's still a significant part of my life.”
+
+“That's nice of you to say.” The old lady said. “Rosie.”
+
+Rosie took her arm and they started to walk out of the Library.
+
+“Can I walk you home?” Ren asked.
+
+“That's not necessary.” Rosie's grandmother said before Rosie could say yes. “She's giving up her life here, and everyone she knows, just to be near you.” She said. “Isn't that enough for you?”
+
+“I... ma'am, I...” Ren sighed as he felt resentment from the old woman. “I thought having her own Library would make her happy.”
+
+“It does!” Rosie said before her grandmother could say anything. “It's just that I accepted the offer without talking to my family first.” She said. “I have to try and find someone to take care of grandma.”
+
+“Why?” Ren asked, a little confused.
+
+“I'm moving so far away from her...”
+
+“Isn't she coming along?” Ren asked.
+
+“Wh-what?” Rosie asked.
+
+“When I asked you to be the Head Librarian, I just assumed your grandmother would be coming, too.” Ren said and touched the old woman's arm. “I'm really sorry if you thought otherwise.”
+
+“Forget everything I just said.” The old woman grinned and looked at her granddaughter. “Rosie, you have my permission to sleep with him, even if he won't marry you properly first.”
+
+“Grandmother!” Rosie exclaimed, and her face turned to a deep red.
+
+“We'd be delighted to have a strapping young man escort us back to the house.” The very happy old lady said and transferred her grip to Ren's arm.

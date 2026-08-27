@@ -1,0 +1,347 @@
+---
+id: 7dc0f333-74a7-576a-b6c9-358583b9f835
+page-type-slug: story-chapter-royal-road
+title: "Chapter 239 - Fill Her Up"
+slug: 0228-chapter-239-fill-her-up
+partOf: mythrans-master-of-all-continued-completed
+position: 228
+ownLength: 3112
+unit: words
+publishedAt: 2017-04-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132938/chapter-239-fill-her-up"
+royalRoadId: "132938"
+---
+
+“Thank you very much.” Artrude said.
+
+“You're quite welcome.” Ren said. “You might want to wait until after work to give that to her.”
+
+“I think that's a reasonable request.” Artrude smiled, and slipped the book into the desk, and put the diamond-encrusted unicorn pendant into one of her tunic pockets.
+
+“I better go, or I'll be late getting to Aurora.” Ren said. “See you later.”
+
+“Goodbye, Ren.”
+
+Ren left the medical building and ran up the road back to House Neram Keep. The guard, Wohrum, opened the gate for him.
+
+“I'm coming right back out.” Ren said.
+
+Wohrum left the gate open as Ren ran to the stable.
+
+“Hi, Princess.” Ren said. “Do you feel like another trip to the portal to Aurora?”
+
+You ask a lot of me lately...
+
+“That's what happens when someone becomes indispensable.” Ren said. “If I didn't have you, it would take me a long time to go there and come back.” He said and scratched her chin. “You know I appreciate everything you do for me.”
+
+Yes, I feel it...
+
+“Plus, you know both Teepo and I enjoy it.”
+
+Princess huffed. Let us go...
+
+“Thank you.” Ren said, led her out to the road, and climbed up into the saddle. “Let's go!”
+
+Princess took off running, and in just under an hour, with several food stops, Ren was back at the portal to Aurora. He got Princess settled in with more food, Teepo dissolved into the ring, and Ren ran up the stairs and went through the portal.
+
+********
+
+Gloria had prepped her recliner to contain everything, and didn't have a stitch of clothing on. She picked up her VR headset, sat in the recliner, and got comfortable. She tucked an extra towel between her legs, and grinned.
+
+“I am going to drain him dry!” Gloria said, put on the VR headset, and relaxed.
+
+“Flow Login Start.”
+
+********
+
+Ren had summoned Teepo to keep an eye on the time, and a few minutes later, the small spawn point in the bedroom started to glow.
+
+“Have fun.” Teepo said, and flew out of the room and landed on the living room ceiling. Ren shut the bedroom door, placed a hand on it, and enchanted it with a glyph of Sealed runes. He didn't want to take the chance that Nathalia might come over and give Elerlyth a chance to take revenge on her. He sighed, and took out the icebox full of food.
+
+“So, you actually showed up.” Elerlyth said when she materialized. “Take out your Major Healing wand.”
+
+Ren shook his head. “No.” He said. “I came here to feed you, and if you want, you can kill me afterwards.”
+
+Elerlyth equipped the sword Ren had made for her. “I remember your threat.” She said. “How dare you dictate what I can and can't do in the game!”
+
+Ren held his hands out to the sides. “I'm not here to fight.”
+
+“You should be.” She growled and took a step towards him. “I can't believe that you are blackmailing me like this!”
+
+Ren looked up at her, stared at her eyes, and ignored the sword as she raised it to strike.
+
+“What else could I do?” He asked. “Unlike you, she'll be gone forever if you kill her.”
+
+“It still fucking hurt!” Elerlyth exclaimed.
+
+“Like I didn't know that.” Ren said. “Look, if you want a duel... a real duel, and not the play ones we've done before... then I'll agree to fight you.”
+
+Elerlyth laughed. “Yeah, like you would fight me for real.”
+
+“You can feel what I feel, right?” Ren asked, then remembered something. “Oh, right! I forgot.” He took out the brooch he had enchanted with the Spider Aura and concentrated on his own. “Here. This will help.”
+
+Elerlyth stored the sword and took the brooch. “Why did you make this?”
+
+“To replace the one that you lost, and I want you to feed as much as possible today.” Ren said. “On me, on you, and on me feeling you feeling me.”
+
+She sighed. “Why can't I stay mad at you?”
+
+“That's easy to answer.” Ren said and smiled. “I'm really adorable. And delicious. You shouldn't forget delicious.”
+
+Elerlyth snorted a laugh and put on the pin. She concentrated on the Spider Aura, that only they shared, and it formed around her. It merged with Ren's Spider Aura, and she gasped as his swirling emotions hit her.
+
+“Sorry.” Ren said, and eased the flow. “Is that better?”
+
+“Good god, how are you doing that?” Elerlyth asked, and bit her lip so she wouldn't moan in pleasure before things even got started.
+
+“I've had several boosts lately.” Ren said. “You read about how I got the last one.”
+
+“You mean the Dreaded Foe title.” She said, then did moan as she imagined what it had felt like to be there when he had unleashed so much Screaming Terror.
+
+“All of my Auras that can be influenced by Fear have jumped up 5 levels.” Ren said. “I've actually stopped wearing my Dire Wolf Hooded Cloak because of it.”
+
+“Can... can you put it on now?”
+
+“I can.” Ren said. “But if I do, everyone within 90 feet of me will feel Fear.”
+
+“Oh, god.” Elerlyth said, and Ren felt how turned on that thought made her. She could sample people within her own ability's Aura radius, but it was nowhere near what Ren's Aura could reach.
+
+“Um... I'm thinking having our encounter here might be a bad idea.” Ren said.
+
+“We can't leave, especially if the High Elves are watching the place.”
+
+“Dammit.” Ren sighed. “I'll be right back.” He deactivated the enchantment on the door, and ran down the stairs.
+
+“Hi, Ren!” Anabelle said.
+
+“Hi, Anabelle.” Ren said. “I've got to... ah... help Elerlyth for a while.”
+
+“I know.” Anabelle said. “I've already delayed any repairs and orders for the day.”
+
+“That's... not going to be enough.” Ren said. “My Aura is going to go out about 90 feet from the bedroom upstairs.”
+
+“Did you say 90 feet?”
+
+Ren nodded. “I think we should close for the next few hours.”
+
+Anabelle looked at him with concern on her face. “Closing at such short notice is unusual.”
+
+“I know.” Ren said. “I normally wouldn't ask to do this, but we can't really leave the place, in case the High Elves are still hunting us.”
+
+“Say no more.” Anabelle said. “Katey, Holly... we're closing up for the day.”
+
+“A day off? Yay!” Holly said, and Anabelle laughed.
+
+“Let's put out the closed sign, and finish these customers.”
+
+“Thanks a lot, Anabelle.” Ren said.
+
+“Oh, you're going to thank me a lot later.” She said, and winked at him. Ren opened his mouth to say that he might not be in any shape to do that, then thought better of that response.
+
+“I can't wait.” Ren said, and Anabelle grinned at him.
+
+“I assume you want me out of here, too?”
+
+“Unless you want to feel Fear and maybe Screaming Terror for a few hours, I'd suggest leaving for a while.”
+
+“Knowing that it's you making it, I could take it.” Anabelle said.
+
+Ren shook his head. “No, I don't want you to experience that if you don't have to.” He said. “I want you to keep thinking of me as... as...”
+
+“A cuddly little bear.” Anabelle said, and he laughed.
+
+“I'll help deal with the customers.” Ren said, and helped the people currently in the shop, and then closed the shop up for the day.
+
+“Ladies, please accept my apologies.” Ren said as the three women stood beside the front door to leave. He gave them each a handful of gold coins. “Have a good time on your day off.”
+
+“Wow! Thank you!” Holly said, bent over, and gave him a kiss on the cheek. “Heehee!” She laughed. “Your beard tickles!”
+
+“Apparently.” Ren said and smiled at her.
+
+“I hope you don't want me to kiss you, too.” Katey said, and Ren shook his head. “Good.” She said. “You are definitely not my type.”
+
+“You and your tall fetish!” Holly said. “He might be short, but he's rich!”
+
+Anabelle laughed. “All right, come on.” She said. “Let's go see what kind of fun we can have.”
+
+“Yay!” Holly said, and laughed as she ran out of the shop.
+
+“You better go and get her, Katey.” Anabelle said.
+
+Katie chuckled as she followed the laughing girl out of the shop.
+
+“When should I come back?”
+
+“Not until tonight.” Ren said. “Elerlyth is going to try her best to drain me.”
+
+Anabelle shook her head. “I don't know why you're doing this for her.”
+
+“I agreed a while ago; but, today is a special case.”
+
+“Well, whatever it was that happened, I hope you don't have to shut the business down if it happens again.”
+
+“I can't promise anything.” Ren said, and Anabelle sighed.
+
+“I can't even ask you to stop, or to do it somewhere else, can I?”
+
+“I would if I could.” Ren said. “Hopefully, the High Elves left the area, but I can't guarantee it.”
+
+“And until you do...”
+
+“We have to stay here.”
+
+Anabelle nodded. “I'll be back later tonight.”
+
+“I'm sorry about this.”
+
+“It's your business.” Anabelle said. “You can do what you want with it.”
+
+Ren sighed. “If I had somewhere else private in the city to go to, I'd go there instead.”
+
+Anabelle put a hand on his arm. “I know you would.” She said. “Good luck.”
+
+“Thanks.” He said, and locked the front door behind her. He ran to the back of the shop, opened the door there, and ran up the stairs to the apartment. He went into the bedroom and activated the enchantment to seal the door.
+
+“Sorry, that took a bit longer than I... whoa.”
+
+Elerlyth was standing in the bedroom doorway wearing the see-through outfit he'd made for her. The peekaboo lace over her breasts didn't hide anything, but it accentuated her dark gray skin nicely. The thigh high lace leggings fit her like a second skin, and he stared at her as she did a little turn. The lace fluttered out and revealed everything for a brief moment, and Ren felt his mouth water.
+
+“Good god.” Elerlyth said, as she felt his emotions. “I thought wearing this might get some kind of reaction from you, but this...”
+
+“You haven't felt everything yet.” Ren said, stored his Travelling Clothes, and equipped the Dire Wolf Hooded Cloak. He concentrated on his Fear Aura, and she moaned.
+
+“Mmm.” Elerlyth smiled. “You weren't kidding.”
+
+“I'm tempted to add the Screaming Terror, but...”
+
+“Try it.” Elerlyth said and took out the book. “I want to see this cover for real.”
+
+“No.” Ren said, and Elerlyth frowned as she tossed the book on the dresser by the door.
+
+“Why not?” She asked. “I want to feel what they felt!”
+
+“Because, if I activate my berserk ability, I'll be exhausted.”
+
+Elerlyth took in a deep breath, then let it out slowly. “I know you're telling the truth, but...” She sighed. “I need to feel it.”
+
+“When we're done.” Ren said. “I'll do it just before I step through the portal.”
+
+“Ha!” She said. “You don't trust me to not take advantage of you when you're defenseless?”
+
+“I would have... before yesterday.” Ren said.
+
+Elerlyth smiled, and stepped back to let Ren into the bedroom. “Good point.”
+
+Ren went to walk by her, and her fist swung out at his head. He ducked quickly, grabbed her leg, and picked her up.
+
+“Aaaahhh!” Elerlyth let out as Ren held her upside down, then easily flipped her over to land on the bed. “How the hell...”
+
+“You should know that I'm level 32 now.” Ren said, and her eyes widened. She remembered how strong he was when he was only level 6, and couldn't fathom how much going up so many levels would do to it.
+
+“I may have to re-think having a duel afterwards.” Elerlyth said softly.
+
+“You might have to wait until you can walk straight again, too.” Ren said as he climbed onto the bed.
+
+*
+
+For the next 6 hours, everyone that walked within a hundred feet of Ren's business, felt bone-chilling fear for no reason.
+
+*
+
+“Sir, there is some kind of Fear spell being used.” The elf said.
+
+“What do you mean?” The Tracker asked.
+
+“No one can get near the business where he went in.” The elf said. “It has to be a spell for it to last this long.”
+
+“He must know we've tracked him there.” The Tracker sighed. “Bring the others back. We have to go to the Spire and let them know what happened.”
+
+“Sir.” The elf said.
+
+I am not looking forward to that conversation. The Tracker thought.
+
+*
+
+At some point, Ren had made a Connection to his Screaming Terror ring, and Elerlyth had basked in all the random people's reactions that she tasted as they passed through her and Ren's merged Auras. Her ability had reached Expert Level 9 an hour before, and she was trying to get that last huge chunk she needed to finish it and become a Master of her ability.
+
+“Oh... oh god...” Elerlyth said, and gripped her abdomen. “I'm so full... but... there's only a little bit more that I need!”
+
+“Maybe we shouldn't have stopped to eat every two hours.” Ren said.
+
+“No, it's... I'm emotionally full.” Elerlyth said. “I think... I've taken as much fear and pleasure from you as possible.”
+
+Ren took a deep breath and let it out. “I haven't been holding anything back.”
+
+“I know.” Elerlyth said, then had a terrible idea. “Ren.” She said, and held him close. He hugged her, and because they were still in the middle of having sex at the time, he wasn't thinking as clearly as he normally would. She put her mouth by his ear, and whispered.
+
+“I'm going to kill Nathalia anyways.”
+
+Shock, horror, and loss went through Ren in an instant, and those feelings flooded into Elerlyth. She felt utter joy at the sheer amount of feelings he had produced; but when she tried to consume them, they turned bitter and sour inside of her. She put a hand over her mouth, then pushed Ren off of her. Her utter joy turned to disgust as she rolled to the side of the bed and threw up. A large pile of black gunk came out of her mouth and splattered on the floor. It was the same stuff that had been inside of Ren when Elerlyth had poisoned him with her venom.
+
+“What the hell was that?” Ren asked with tears in his eyes, and she felt his growing anger. “You said you wouldn't kill her!”
+
+Elerlyth spit the last of the stuff onto the floor, and turned to look at him. “I was joking.”
+
+“No, you weren't!” Ren said, wiped his eyes, and tapped his pendant. “Our Auras are merged, and I felt how happy you were when you said it!”
+
+“I was happy about the feelings you let out when I said that!” Elerlyth said, then looked at the black gunk on the floor. “Well, I started out happy about it.”
+
+“So what happened?” Ren asked. “Did you level up?”
+
+“No.” Elerlyth said. “I... I think...”
+
+“What?”
+
+“I couldn't eat them because... because I hurt you to get them.”
+
+Ren looked at her, and could feel she was telling the truth.
+
+“That was the first time I forced you to feel anything.” Elerlyth said, and pulled her knees up to her chest as she sat on the side of the bed. “You've always voluntarily given me your feelings.” She let the tears flow, but didn't wipe them away. “I thought...”
+
+“You thought what?”
+
+“That it would be enough to push my ability up to the limit.”
+
+“By the gods, Elerlyth!” Ren said. “Are you really that heartless, that you'd hurt me just for experience?”
+
+“I thought I was.” She said, and laid her head on her knees. “I... I guess I'm not.”
+
+“Of course you're not!” Ren exclaimed. “How you could believe that you were, after everything we've been through and talked about...” He shook his head. “If you are so desperate for a bigger flood of emotions, then get ready.”
+
+Elerlyth looked at him with wide eyes, because she could feel something build inside of him.
+
+“Wh-what are you doing?”
+
+“Something bad happened to me in the game, and Nathalia helped me get through it.” Ren said. “I haven't had the chance to tell you about it.”
+
+“What... what is it?”
+
+“Oh, no.” Ren said, grabbed her arms and pulled her to the center of the bed. “I'm not telling you anything.” He said, and held her still.
+
+“Ren, let me go.”
+
+“No.” He said. “By the gods, you are going to feel what I felt, and what Nathalia did for me!”
+
+Elerlyth could feel an enormous wave of emotions being held back. “D-d-don't...”
+
+“Open your ability, Elerlyth.” Ren commanded her, and he felt it open, almost against her will. “There we go.” He said, laid his forehead against hers, and stared into her eyes. “Relax. This will only take a moment.”
+
+“Ren... I...” Elerlyth swallowed. “I'm sorry I did that.”
+
+“No, you aren't.” Ren said. “But you will be.”
+
+Elerlyth felt his deep sorrow, and then he unleashed everything he had felt when Nathalia had caused him to relive all of his deaths. Her eyes nearly bulged out of her head as she drank down everything he'd felt. Nearly every emotion was contained within the flood; fear, hate, sorrow, joy, happiness, and every flavor Elerlyth had ever tasted. The one thing that went through them all, however; was love. It was all thanks to Nathalia, who had been there through it with him. She'd lived through it all, just as Ren had.
+
+“Oh... oh, god!” Elerlyth said, and her ability's final level filled up at a constant rate. It hit the cap that the game had set, and it went from Expert to Master. Something clicked inside of her, and she stopped breathing. She no longer felt full, because she was so far beyond that feeling now. Ren felt that his emotions were no longer being siphoned off, and he stopped remembering how he felt when he died all of those times.
+
+“Ren.” Elerlyth said when she started breathing again, and her eyes went completely black. “Run.”
+
+“What?”
+
+“RUN!” Elerlyth said, then lost consciousness and started to convulse. Ren tried to hold her still; and because they were still sharing Auras, he felt something deep inside of her activate.
+
+Notice!
+
+Trouble Recipe ingredient: 'Elerlyth' has been completed.
+
+“Oh, crap!”

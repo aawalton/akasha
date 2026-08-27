@@ -1,0 +1,251 @@
+---
+id: ef923773-977d-5dda-b350-aee6c4581f2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 565 - Breakfast Time And A Half"
+slug: 0565-chapter-565-breakfast-time-and-a-half
+partOf: mythrans-master-of-all-continued-completed
+position: 565
+ownLength: 2926
+unit: words
+publishedAt: 2018-04-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210309/chapter-565-breakfast-time-and-a-half"
+royalRoadId: "210309"
+---
+
+Ren woke up on the bed in his apartment, in the upstairs of the Main House in Walin County, and he saw that the maids were in a pile right beside him.
+
+Hey, Teepo. Ren thought to his friend.
+
+Hey, Ren. Teepo thought back. You were gone for a while.
+
+I had a long and not too unexpected visit to other Adventurers, and I let them know about everything that happened to me. Ren thought. Hopefully, it will deal with the people involved without causing too many more problems for me.
+
+You're expecting it to?
+
+I'd be a fool if I didn't. Ren thought. How long before I need to get up?
+
+It depends on what you want to do today. Teepo responded.
+
+I really should visit Yllana again. Ren said and took out the All-Seeing Mirror and checked it. She was in bed and wore a smile on her face... and nothing else. How long do you think she'll stay like that?
+
+I'd say long enough for you to spend some quality time with Frikara and the others. Teepo thought. They missed you a lot.
+
+Ren smiled and concentrated on all his Auras, except for the bad ones like Hatred, Fear and Submission, and he paid particular attention to the shared Aura that the maids had. They responded almost immediately and started to stir, and he reached into the pile and pulled Frikara out.
+
+“Hey, you.” Frikara said and kissed him. “We missed you.”
+
+“Are you sure?” Ren asked, and kissed her bare chest. “Yep, you're sure.” He said when the tips popped out, and she laughed.
+
+“That's not why!” Frikara said, then she didn't say anything else as Ren pleased her. He did the same thing to each of the other 4 maids, then easily tucked them back into the pile he had pulled them from. He gave each of them a kiss, and told them he would be back later as he equipped his special armor bodysuit and fancy blue suit.
+
+Ren and Teepo left the apartment and went downstairs, then ran up the street to the Refugee Center. He used the All-Seeing Mirror to check on the two portals he had left open, saw the empty rooms on the other sides of them, then made sure no one was left on the other side before he dismissed them.
+
+Ren went into the warehouse and greeted his familiars, Tee-one, Ruck, Symmetra and Artemis, and asked Artemis to come with him. He used the All-Seeing Mirror to check on the elfling that had gained the Emotion Siphon ability and saw Halaiyah Granaihon was asleep in her bed.
+
+I think I better give her a feeding first. Ren thought and opened a portal, then took Artemis' hand as Teepo dissolved into the Beetle Crown ring. He stepped through the portal with her and she tucked herself against the wall out of the way, and Ren dismissed the portal and summoned Teepo. Ren thought about waking the woman, then saw that her eyes were already open.
+
+“You're here.” Halaiyah whispered as she stared at him.
+
+Ren nodded and stored his clothing except for his underwear, and she moved over in the bed. She respected his decision to not have sex, mainly because she knew that he wasn't going to change his mind and ravage her like she wanted him to. As it was, he pleased her as much as he could without taking that last step, and he left her both sated and satisfied. He had leveled up her ability again and she now had much more control over it.
+
+“You brought company?” Halaiyah asked when Ren equipped his clothing and got up to leave, and she finally took her eyes away from him.
+
+Ren explained who Artemis was and why she was there.
+
+“Did you enjoy the show?” Halaiyah asked, and Artemis sighed.
+
+“Actually, no.” Artemis admitted, and Halaiyah was surprised. “It reminds me that I can't partake of him, either.”
+
+“Wait, you can't?” Halaiyah asked. “Aren't you a part of him and feel what he feels?”
+
+“I do feel it; but, he brought me to life after his resolution.” Artemis said, and Ren gave her a hug.
+
+“I can only apologize so many times before it sounds insincere.” Ren said, and she hugged him back.
+
+“You don't have to apologize.” Artemis said. “Just like the others, what I have of you is enough.”
+
+Ren winced. “Ow, that hurt.”
+
+“I'm sorry.” Artemis said and kissed the top of his head. “Even comforting lies are still lies.”
+
+Ren sighed. “Artemis...”
+
+“I can feel what you feel, and you can feel what I feel, so you know it's all right.” Artemis said and let him go. “We need to get going.”
+
+Ren nodded and used the All-Seeing Mirror to check the spot to go to, and cast another portal. “Goodbye, Ma'am.” He said to Halaiyah.
+
+“Please, call me Halaiyah.”
+
+“I can't use your given name so familiarly, Ma'am.” Ren said and gave her a slight bow, then took Artemis' hand. Teepo dissolved into the ring again and Ren stepped through the portal with Artemis into Yllana's bedroom.
+
+“My Lord.” Yllana said when she felt Ren's Aura, and she looked at him. “I expected you yesterday.”
+
+“I'm sorry, I had Adventurer business.” Ren said as he dismissed the portal and summoned Teepo.
+
+“I assumed as much.” Yllana said and glanced at Artemis. “How long can you stay?”
+
+“An hour.” Ren said. “Just long enough for you to make me breakfast.”
+
+“An hour? That's...” Yllana thought back to what Ren had whispered to her the last time he had been there, and her whole body shook. “Y-yes, b-breakfast.”
+
+Ren felt her reaction and smiled, and watched appreciatively as Yllana got out of bed and didn't put on any clothing. All she did was slip on a short robe that stopped at mid-thigh, then she left her bedroom and knocked on the spare room next door.
+
+“I'll have breakfast ready in half an hour.” Yllana said, and there was a muffled reply from her daughter. “Allynna's not much of a morning person.”
+
+“I do some of my best work first thing in the morning.” Ren said and wiggled his eyebrows, which made Yllana laugh. She went down the hall and into the kitchen and Ren and Artemis followed her.
+
+“Have a seat.” Yllana said and motioned to the couch, and the window across from it had a great view of the city skyline and one of the tall towers. Ren and Artemis sat, and Yllana started to gather the ingredients for breakfast. After about 10 minutes, Allynna came out of the spare bedroom.
+
+“Great Vasalor, mother.” Allynna said and walked down the hall to the kitchen as she rubbed her eyes. “Why are you up so early?”
+
+Ren saw she only had a thin slip on, and when she came to a stop by the kitchen counter, she let out a big yawn and stretched her arms up into the air. It lifted her slip up over her backside and revealed her plain white underwear.
+
+“We have a visitor.” Yllana said and nodded to the living room, and Allynna turned to look.
+
+Ren felt her surprise and tried not to laugh as she immediately tried to pull her slip down to cover her still-exposed underwear, then he saw the thin straps of the cloth as they slipped off her shoulders. She didn't realize her mistake and the cloth started to slide down, and Ren ran over instantly and hooked his fingers under the straps to stop the cloth from sliding down further.
+
+“Careful.” Ren said and held the cloth. “You almost exposed something else while trying to cover yourself.”
+
+Allynna's face flushed red and he felt her embarrassment. “M-my L-lord, I... I must apologize for my appearance.”
+
+“I'm the one that should apologize for just showing up and not announcing myself.” Ren said as he eased the straps of her slip back into place on her shoulders. “Even if I was here for a formal visit, your appearance might be a little unorthodox, but it would not be unwelcome.” He smiled and took both of her hands in his and kissed the back of each. “I didn't get to spend personal time with your mother the last time I was here, so I came when I could.”
+
+“He had Adventurer's business yesterday.” Yllana said and put a frying pan on the stove and turned it on to very low heat. She had finished mixing up the eggs for an omelette and poured it into the pan, then grabbed some of the other ingredients. “Now that he's here, he can help make your breakfast.”
+
+Allynna chuckled. “You're supposed to cook for the guests, not make them cook for you.”
+
+“I don't mind.” Ren said and led Allynna over to the chair beside Artemis and sat her down. “Why don't you and Artemis discuss what happened when the High Lord received your message while your mother and I get breakfast ready?”
+
+Allynna nodded, and Ren went over to the kitchen and put on an apron.
+
+“Start cutting this up.” Yllana said and handed Ren a square piece of ham, so he took out a knife and diced it up in a few seconds.
+
+“He was a little upset.” Allynna said.
+
+“A little upset?” Yllana asked and started to laugh. “He set the throne room drapes on fire!”
+
+Allynna laughed, too. “Okay, he was very upset.”
+
+Ren put the diced ham into the pan and went back to the counter.
+
+“Do you want fried potatoes, Allynna?” Yllana asked.
+
+“Yes, please.” Allynna said, then started to tell Artemis about the High Lord 'accidentally' casting Fireball after hearing that Ren was an actual Chosen.
+
+Yllana pointed to the cupboard under the counter. Ren opened it and took out a sack of potatoes, then quickly peeled half a dozen of them in the blink of an eye and rinsed them off. Yllana admired his quickness, and he passed them to her to cut them up how she wanted them. She watched as he picked up a small unpeeled potato and intentionally dropped it to make it thump loudly onto the floor.
+
+Allynna looked over at the kitchen. “Is everything all right?”
+
+“Yes, I just dropped a potato.” Ren said and knelt down. “These things are slippery with wet hands.” He didn't pick up the potato and looked up at Yllana instead. He held his finger to his lips in a stay quiet gesture, and she wondered why she would have to keep quiet... then he lifted her robe and slid his head under it.
+
+Yllana was quite happy that she didn't have to wonder anymore. She kept working and being very careful as she cut up the potatoes, and Ren was careful not to go overboard with pleasing her. She was extra sensitive with having two people in the living room talking, and they didn't know what Ren was doing for her. She was doubly excited because of it, and by the time she had finished cooking the omelette, both she and Ren had lost count of how many times she had finished.
+
+Ren stopped and cleaned her up when she announced that breakfast was almost ready, and he stood up and helped her set the table and set out the food. Allynna and Artemis joined them at the table, then the 4 of them ate together.
+
+“This is nice.” Yllana said as she ate. “I don't remember the last time we had a nice sit down breakfast with guests.”
+
+“You know it's been a long time if I can't remember, either.” Allynna said and smiled. They finished the meal and everyone helped clear the dishes, then Ren said he had to go.
+
+“What are you doing today?” Yllana asked.
+
+“Pretty much the same thing I did after I rescued all those High Elves and elflings from the ghoul infection.” Ren said. “Only it's with the humans and in human wards.”
+
+“Is it as widespread there?” Allynna asked.
+
+“It's both better and worse.” Ren said, and he felt her confusion. “They didn't gather into a mass like they did here, so they can't overrun whole towns or cities.”
+
+“That's the better.” Allynna said in understanding. “What's the worse?”
+
+“I couldn't help like I did here, because they were spread out all over and weren't in an easy mass to remove.”
+
+“Ah.” Allynna said. “You had to wait and let them deal with it.”
+
+Ren nodded and took out the All-Seeing Mirror and checked the remaining nests in the High Elven Kingdom. “It looks like they're all gone.” He said. “Please show me anyone that's infected in these lands that can still be healed.” Nothing appeared, and he nodded. “Yes, that's it.”
+
+“Then I need to talk to you, My Lord.” Allynna said. “I have the army movements the High Lord ordered.”
+
+Ren nodded and followed her into the spare bedroom, and she shut the door. She did several gestures, and a slight blue glow covered the room.
+
+“Privacy spell.” Allynna said.
+
+“Is it like a Barrier spell?” Ren asked.
+
+“No, it only stops eavesdropping.” Allynna said and put her hand into the glow and touched the door to lock it. “No one can see or hear us.”
+
+“The army movements must be important if you can't tell your mother about it.”
+
+Allynna let a small smile appear on her face as she walked over to him, then she pulled on the two straps of her slip. It slid down and off of her in one smooth motion and she knelt in front of him.
+
+“Allynna? What are you doing?”
+
+“I'm thanking you.” Allynna said and undid his pants.
+
+“But...”
+
+“You've saved thousands of High Elves and elflings from becoming ghouls, you've stopped the horde from killing so many more, and you've saved my homeland as a result.” Allynna said and tried to pull his pants down.
+
+Ren grabbed them and stopped her. “Allynna...”
+
+“My Lord, please let me do this.”
+
+“But, you love your High Lord.”
+
+“Don't you love another?” Allynna asked. “Yet you come here to visit with my mother.”
+
+“That's only...” Ren closed his mouth, and she smiled.
+
+“If you justify that you're just playing and enjoying each other, that only helps my argument.”
+
+Ren sighed. “You know what we did just now, don't you?”
+
+Alynna nodded. “I sat there and carried on a conversation with Artemis while you did things like that.” She said. “I could see her reactions to you, and after that long, you must need release.”
+
+“But...”
+
+“I'm fine with just playing.” Allynna said. “I've never... I've stayed loyal to the High Lord, and since he's been married the whole time... I've only ever...”
+
+Ren let his pants go and she slid them down, and she stared at what had been revealed.
+
+“What... how can... is that...” Allynna shifted her gaze up to Ren's face. “Great Vasalor, no wonder she enjoys having you visit.”
+
+Ren didn't respond, and he felt her try to gather her courage up. Allynna reached out and touched it, and it throbbed for her. She let a giggle escape before she could catch it, then she leaned in and kissed it. Her lips felt boiling hot as she pleased him, and after a few minutes, he felt her want it to be over. He asked her how she wanted it, and she stopped pleasing him and leaned back.
+
+When Ren finished, he felt her utter shock at the event. He used a cloth to clean up the mess and put his clothing back into place, then helped her put her slip back on. She stood up and wouldn't meet his gaze.
+
+“Allynna.” Ren said, and she sighed.
+
+“My Lord, I... I won't be doing that again.”
+
+“I know.” Ren said, and she looked at him with wide eyes. “You don't want the favor returned, either.”
+
+Allynna shook her head. “Even just playing, I... I need...” She sighed again. “I thought that I would feel something besides admiration for you if... if I...”
+
+“You didn't enjoy it at all.”
+
+“Not even a little bit.” Allynna said. “I'm sorry.”
+
+Ren took her into a hug. “Don't be sorry.” He said. “Sometimes people just aren't compatible.”
+
+“That's what's missing. I don't feel any kind of connection to you, even after all the flirting.”
+
+“We did a lot more than flirt just now.” Ren smiled as he let her go, and she smiled back.
+
+“I should have stuck with flirting.” Allynna said. “Please, don't be offended.”
+
+“I'm not offended, and I hope you don't think less of me for not protesting harder.”
+
+“You held me off until I used your argument against you.” Allynna chuckled. “You crumbled after that.”
+
+Ren chuckled, too. “I really did.”
+
+“We should get back out there before they suspect anything.”Allynna said and dismissed the Privacy spell. “Can you keep what happened here just between us?”
+
+“I can promise that I will only tell the women I'm actively sleeping with.” Ren said. “If they ask, that is.”
+
+Allynna nodded and unlocked the bedroom door, and they went back out to the living room.
+
+“There you are.” Yllana said. “I hope you learned what you needed to know.”
+
+“We both did.” Ren said and checked the All-Seeing Mirror. “Next stop is clear.”
+
+Teepo dissolved into the ring and Artemis took Ren's hand as he cast another Portal spell. Yllana and her daughter waved to him, and he nodded to them and stepped through the portal with Artemis.

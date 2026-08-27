@@ -1,0 +1,247 @@
+---
+id: e1e496f3-ab89-52b0-9096-bc264c750eed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 Adoption"
+slug: 0029-chapter-27-adoption
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 29
+ownLength: 2203
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3261338/chapter-27-adoption"
+royalRoadId: "3261338"
+---
+
+Morning light filtered through the tall window of Lucien’s study, falling in pale bands across the wooden floor and the wide desk near the center of the room.
+
+The air carried the dry, biting chill of winter, and beyond the glass the fields lay bare beneath a thin crust of frost. The sun had risen, though it offered little warmth as it climbed slowly over the distant tree line.
+
+Lucien sat in his chair with a sheet of parchment laid before him, though he had not written anything upon it yet. His fingers rested lightly against the edge of the desk while his gaze drifted toward the window.
+
+The village had been restless these past days.
+
+Farmers had begun measuring the boundaries of their fields again after the meeting concerning the new crop rotation. Timber had been hauled through the streets for repairs that winter storms had delayed. Joren's forge burned longer into the evenings than usual as the blacksmith worked through a growing list of small tasks that had accumulated during the Tithe.
+
+He had not bothered the two craftsmen regarding his request, but according to Alicia, Harlon had approached her to ask about details of the drawing left in their care.
+
+Change had begun to move through Ashridge like a current.
+
+A knock sounded at the door.
+
+“Enter.”
+
+The door opened with a soft creak and Dorian stepped inside. The captain of his guards carried himself with the same straight posture he maintained on the training ground, though the tension that had once lingered in his shoulders during the weeks before the Tithe had eased.
+
+“My Lord.”
+
+Lucien inclined his head. “Captain Dorian. Please sit.”
+
+Dorian did not sit immediately. As usual, he waited until Lucien gestured toward the chair opposite the desk. Only then did he pull it back and lower himself into it with a controlled motion.
+
+He folded his hands together. “You wished to provide a report on the militia.”
+
+“Yes, My Lord.” He reached into the leather folder he carried and withdrew a sheet of parchment, his eyes moved briefly across the notes before he began speaking. “The village guard has returned to standard rotations along the perimeter and road watch. We have resumed the four post patrol schedule.”
+
+Lucien nodded in acknowledgement at the captain’s words, that arrangement had existed long before he arrived. It was one of the few structures within Ashridge that had functioned efficiently from the beginning.
+
+“The guards who were injured during the Tithe,” Dorian continued, “are recovering. Two remain unable to train, though both are expected to return to duty within a month.”
+
+He inclined his head in acknowledgement before he spoke. “And the variant that was brought down near the western field?”
+
+The captain glanced down at his notes before answering. “It has been processed as ordered, My Lord.”
+
+Lucien tapped a finger lightly against the desk. “And the body?”
+
+“Still intact,” he replied simply.
+
+His gaze lifted to regard Dorian. “No sign of decay?”
+
+“None that we have observed.”
+
+His fingers stilled against the desk, the variant had been killed over two weeks ago. Under ordinary circumstances, the corpse of any organism left exposed to the elements should already have begun to show signs of deterioration and yet the reports had remained unchanged.
+
+A body that did not rot even after death sat uneasily with everything he understood about biology. Adding the fact of how unfazed Dorian looked, it seemed this was common knowledge in this world.
+
+“I see.” Lucien paused briefly. “And the militia?”
+
+This time, Dorian's usual composure shifted as his brow furrowed lightly. “That is...somewhat unusual, My Lord.”
+
+He regarded him calmly. “In what way?”
+
+The captain glanced down at the parchment again before answering. “The drills.”
+
+“As you ordered before the Tithe, the militia drilled every second day. Attendance was compulsory due to the approaching beasts.”
+
+“That is correct.”
+
+Dorian nodded once before he spoke. “Normally, once the Tithe passes, the drills stop. Men return fully to their farms or crafts.”
+
+Lucien had also assumed as much, the training schedule had been necessary while the threat remained imminent, but Ashridge could not afford to maintain such demands indefinitely. Labor was too valuable in a frontier village, especially during winter when preparation for the coming seasons required one to be more cautious.
+
+The captain continued after a brief pause, his expression shifting subtly. “However, the men have continued to attend the training ground.”
+
+Lucien’s fingers stilled against the desk. “Continued?”
+
+“Yes, My Lord.” Dorian’s tone held a faint trace of puzzlement. “They come of their own accord even when attendance is no longer required.”
+
+He studied him for a breath. “And the numbers?”
+
+“Nearly the same as before the Tithe.”
+
+Lucien leaned back as he considered the captain’s words.
+
+Most militia systems in frontier settlements existed only as emergency structures. Men trained because they were required to do so, not because they wished to spend hours holding shields and spears when fields and livestock demanded their attention.
+
+Yet Dorian’s expression suggested he was not exaggerating.
+
+Lucien spoke after a short pause. “Did you encourage this?”
+
+He shook his head immediately. “No, My Lord.”
+
+Another brief pause settled between them before the captain continued. “I expected attendance to drop once the requirement ended.”
+
+“So did I.”
+
+He had already intended to reduce the frequency of the drills once the immediate threat of the Tithe had passed. Maintaining constant readiness placed strain upon the village, and Ashridge could not afford to divert too much labor away from the fields and workshops during winter.
+
+Once every week would have been sufficient, that was enough to maintain discipline within the shield formations and to ensure the men did not forget the coordination that had allowed them to survive the Tithe.
+
+But he had assumed those drills would become something closer to voluntary practice. A handful of the more dedicated men might appear, perhaps those who had taken pride in their performance during the Tithe or younger villagers who still carried the restless energy of the battle.
+
+Not nearly the entire militia.
+
+He tapped his finger lightly against the desk. “And those who do not attend?” he asked.
+
+Dorian answered without hesitation. “Work, usually. Or family matters they cannot delay.”
+
+Lucien nodded slowly, recognizing that those who failed to attend did so out of necessity rather than indifference, which made the continued presence of the others all the more surprising.
+
+The captain hesitated before adding something further. “There is another matter, My Lord.”
+
+He gestured for him to continue.
+
+“The ranking board.”
+
+Lucien’s gaze sharpened at the mention of something he hadn’t expected to hear of again.
+
+The board had been a simple structure when he ordered it built. A wide plank mounted beside the tavern along the main road where most villagers passed each day with names written in charcoal by Alicia.
+
+It was a purely practical device, a visible record of improvement and a small incentive system meant to encourage effort.
+
+“You mean the board is still being used?” he clarified.
+
+“Yes, My Lord.”
+
+Lucien’s brow furrowed faintly. “That's...unexpected.”
+
+Dorian allowed himself a small breath that might have been the beginning of a chuckle. “I thought the same.”
+
+He steepled his fingers as he considered the captain's words. “The monetary reward ended after the craftsmen completed their tasks during the Tithe.”
+
+The promise had been simple, those who ranked highest during the training period would receive small payments for assisting the craftsmen with labor tasks such as hauling timber, transporting materials, and supporting construction projects.
+
+It had been a simple way to encourage participation without resorting to punishment.
+
+Dorian nodded in affirmation. “Yes, My Lord. The payments stopped.”
+
+“The board remains,” he added after a breath, a trace of bemusement appearing on the captain’s usually stoic expression.
+
+His brow furrowed at the captain’s words. “And it is still being updated?”
+
+“Yes, My Lord.”
+
+“By whom?”
+
+He hesitated for a moment, as if the answer itself still struck him as mildly unusual. “Your maid Alicia.”
+
+Lucien blinked once in mild surprise at the unexpected name. “Alicia.”
+
+“Yes, My Lord.” Dorian shifted in his chair before continuing. “She replaces the charcoal and updates the rankings after each drill. The men report their results to her.”
+
+Lucien leaned back slowly as he considered the news. This had not been part of the design when he envisioned it.
+
+When he had first repurposed the board beside the tavern, he had only needed someone to maintain the markings while the incentive system remained active, Alicia had been the most convenient choice. Lucien had learned early on that she possessed a fondness for drawing, and since she was already assigned as his personal maid before his arrival, he had simply entrusted the task to her.
+
+At the time it had seemed nothing more than a temporary arrangement. The board existed to support the incentive he had introduced before the Tithe, and Alicia’s role in maintaining it had been a matter of convenience rather than design.
+
+Once the rewards ended, Lucien had assumed the system would simply dissolve on its own, and that the board would eventually be wiped clean and forgotten as the village returned to its ordinary routines.
+
+Yet that had not happened, the rewards had ended as intended, but the board remained, and the small structure he had introduced for a limited purpose had continued to function long after its original reason had passed.
+
+He regarded Dorian again. “And the men accept the results she posts.”
+
+“Mostly,” he replied before allowing a faint hint of dry amusement to appear in his expression. “There are occasional disagreements.”
+
+“I imagine so.”
+
+“They argue about placements after sparring matches,” he continued. “Sometimes they attempt to convince her their performance was better than recorded.”
+
+Lucien’s brow raised a fraction. “And she accepts these arguments.”
+
+He shook his head once before he spoke. “No, My Lord.” That earned a brief pause before the captain continued, a hint of approval leaking from his tone, “She listens. Then she checks with the others who were present and updates the board only if they agree.“
+
+It amounted to a simple and informal verification process, yet one that proved effective.
+
+Dorian added dryly, “She has become...rather strict about it.”
+
+Lucien’s expression remained calm though the corner of his mouth shifted. “I see.”
+
+“The men appear to respect her judgment,” Dorian said. “Or at least they accept it.”
+
+“That distinction is often sufficient.”
+
+Dorian inclined his head in response. “The younger men in particular take the rankings seriously. Some of them arrive early simply to see whether their position had changed.”
+
+Lucien’s eyes drifted briefly toward the window as he pictured the board standing beside the tavern along the village road, its surface darkened by charcoal markings that villagers would pass each day as they moved through Ashridge.
+
+Farmers returning from their fields, villagers moving through the road with tools slung over their shoulders, and children lingering nearby as their parents spoke inside the tavern.
+
+What had begun as a temporary incentive had remained visible to everyone, a ranking system placed before the eyes of the entire village.
+
+Lucien rested his fingers against the edge of the desk. “So the rankings continue even without reward.”
+
+“That appears to be the case.”
+
+“And the drills continue because of them.”
+
+“That seems likely, My Lord.”
+
+Lucien studied the captain for a heartbeat. “In your judgment,” he asked calmly, “has the board improved the militia?”
+
+For the span of a heartbeat, Dorian considered the question carefully, which was typical of him when speaking about matters of the militia.
+
+“Yes,” he said at last.
+
+Lucien remained silent, inviting him to elaborate.
+
+“The men compete with one another now,” Dorian continued. “Not recklessly, but they push themselves harder during drills.” He paused before adding, “They pay attention to their mistakes.”
+
+“And the shield wall?”
+
+Dorian’s answer came without hesitation. “Stronger.”
+
+Lucien exhaled slowly. Systems often behaved unpredictably once people began interacting with them in earnest.
+
+He had learned that lesson many times in his previous life. A feature designed as a minor tool could become central to an entire structure once users discovered their own value within it.
+
+What he had created beside the tavern had apparently undergone the same transformation, the ranking board had not vanished when its original purpose ended.
+
+Lucien rested his hands upon the desk as the realization settled in. He had introduced the board as a small system meant only to encourage discipline before the Tithe, a temporary structure intended to solve an immediate problem.
+
+Yet it had persisted long after its intended role had passed, maintained now without his instruction.
+
+Ashridge had taken it and made it its own.
+
+A knock sounded at the study door, causing Lucien to look up. Elias rarely interrupted meetings unless there was reason.
+
+“Enter.”
+
+The door opened and the steward stepped inside. Elias paused just beyond the threshold, his expression composed as always, though his gaze briefly passed between Lucien and Dorian.
+
+“My Lord,” he said with a small inclination of his head. “Forgive the interruption.”
+
+“What is it, Elias?”
+
+Elias straightened, pausing briefly before he spoke.
+
+“There have been new developments regarding the eastern villages.”

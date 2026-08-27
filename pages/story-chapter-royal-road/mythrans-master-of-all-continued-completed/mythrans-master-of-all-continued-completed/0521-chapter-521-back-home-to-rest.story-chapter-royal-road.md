@@ -1,0 +1,201 @@
+---
+id: f4cdd40f-3010-5599-bfc3-a2a1aa64bd12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 521 - Back Home To Rest"
+slug: 0521-chapter-521-back-home-to-rest
+partOf: mythrans-master-of-all-continued-completed
+position: 521
+ownLength: 2565
+unit: words
+publishedAt: 2018-02-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196854/chapter-521-back-home-to-rest"
+royalRoadId: "196854"
+---
+
+Ren and the pixies finished the greenery for the Giant starter city and went back underneath to meet with the Earth beings again. He made another offering to them, which they accepted graciously. When the earth beings started to leave, one of them pointedly stayed behind. It was the one that was assigned to his county. When all the others had left, she spoke.
+
+“When will you be back to work on the human city?” She asked as Ren knelt beside her.
+
+“It's not a priority at the moment.” Ren said, and she reached a hand out to touch his face. “If my schedule lightens up tomorrow evening, I'll make another offering to Earth to get your attention.”
+
+“I would like that very much.” She said.
+
+“I know you would.” Ren said, because his Emotion Siphon ability told him so.
+
+“Do... do you...” She started to say, and he felt doubt fill her as she stopped talking.
+
+“I almost know you enough for us to do that.” Ren said, and her doubt disappeared because he had recognized what she was asking without her actually asking about it.
+
+“I'm glad.” She said and her other hand touched his face.
+
+“For now we must part ways, but fear not.” Ren said. “A rolling stone gathers no moss.”
+
+The female Earth being chuckled. “It also quickly gathers others to roll with it, and you know what that means.”
+
+Ren smiled and leaned in close. “Avalanche.” He whispered into her mouth, then kissed her and gave her a 5,000 Mana offering. The gravel under her skin churned and ground together as the Mana flowed into her, and her body glowed.
+
+She broke the kiss when the offering was over, and sighed. “You spoil me too much, Adventurer.” She said. “How can I ever be expected to not crave your touch, when you always give me so much whenever we meet?”
+
+“You have discovered my dastardly plan.” Ren chuckled because he felt her teasing. “I guess I better stop trying to entice you so ineptly.”
+
+“Goddess, no!” She exclaimed and waved her hands around exaggeratedly. “Whatever will I do?” She asked and covered her eyes with a hand, and he felt her hamming it up. “It's too late to save me from such a fate now!”
+
+Ren chuckled. “If that's the case, then I have no choice but to continue on.” He said and took her free hand, and poured another 500 Mana into her. “I hope you can stay strong and take what I can give you.”
+
+“Like a mountain.” She said.
+
+“Stoic and difficult to climb?” Ren asked, and she laughed.
+
+“Exactly.” She said. “Come to me!” She declared and put her hand on top of his that held her other hand. “Adventure awaits you if you can ascend my insurmountable peaks!”
+
+“I can't.” Ren laughed, too. “We have almost 200 witnesses.”
+
+“Then it is time I take my leave.” She said and gave his hand a squeeze. “Until the next time, and with less witnesses.”
+
+Ren smiled. “Until then.”
+
+The female Earth elemental let his hand go and slid back into the dirt and disappeared. She was out of his Aura only a moment later, and he turned to the pixies.
+
+“Let's go home.” Ren said to them, and he felt awe from some of them.
+
+“A home to call our own.” One of them said, and looked up at him. “Yes, take us home.”
+
+Ren smiled and climbed onto the driver's seat of the carriage, and Princess trotted up into the air and out through one of the sunlight gatherers, then ran across the sky. They crossed the land, an ocean, and more land, then came to a stop at Ren's county. He told her to trot down the street a short ways to an empty lot, and he hopped off and took out the Iron Wall wand.
+
+In less than a minute, Ren had divided off a space 600 feet by 600 feet, then behind that made a space 100 feet by 600 feet. He opened the Land Owner menu and made both spaces into a single plot of land and used the contract he had to put all of the pixies names on the plot. Ren was a little surprised that he could add so many owners; but, he wasn't going to mention it to anyone. He knew if he did that, all it would really do was draw unwanted attention to him and his actions.
+
+The last thing he did was take out the archway full of pixie apartments and activated it, and put it right in the front of the lot and joined the walls to it. He put a wall in front of the archway opening, then quickly made a sign that said 'Coming Attractions' and attached it to the covered doorway.
+
+“There we go.” Ren said and turned to the pixies that had sat in the open carriage and had watched him work. “I'll be over later today with Tee-one and Symmetra to build the fun house.” He said. “We'll only make the basic structure, that way you can add in any twisting turns, hallways, hidden rooms, hall of mirrors, and anything else you can think of to trick people.”
+
+“You're really doing this.” One of the male pixies said. “I signed the contract just to get the land and the money, and figured it would be months or even years before you got around to setting things up for us.”
+
+“I try not to delay making anything.” Ren chuckled. “You saw how quickly I made the archway apartments for you.”
+
+“Yes, but...”
+
+“Just go with it.” Suniva said. “Don't you realize what he's doing?” She asked and looked at the other pixies. “You know he cares about us enough to not want us to get in trouble, so he's setting up a place for us to still be naughty like we were in Shargon Caverns.” She chuckled. “Not only will we not get in trouble for it, we're going to get paid for doing it, too!”
+
+The pixies exchanged looks, then looked back at Ren.
+
+“Is that true?” Shanna asked.
+
+“Yes.” Ren said. “When my friend said you would cause chaos if you were released from the trap you were in, the first thing I asked myself was, 'would it really be chaos?'.” He smiled at them. “I had already had the idea for your own space and for letting people try and get through your traps... for a small fee, of course.”
+
+The pixies chuckled at that.
+
+“But is that chaos?” Ren shrugged. “Controlled chaos might still be chaos, only it's directed to be useful.” He said. “I've had Controlled Berserk Rage for a while, and that is scary and intimidating... but only for those I want to use it against. For my friends and people I'm trying to protect, it's usefulness is beyond question.”
+
+“You hear that?” Suniva asked the other pixies. “We're going to be useful! After all that time hiding and trying to survive, we can finally live... and use the skills we've developed.” She smiled. “Just make sure you don't maim or kill, okay? That will make us and Ren look bad if it happens.”
+
+“Don't worry.” One of the male pixies said and stood up. “We're not going to ruin the best thing that's ever happened to us.” He looked at the others. “Let's get to work.”
+
+“I'd suggest sleeping for an hour to get a full night's rest first.” Ren said. “A lot of you might not have had much to do all night; but, that doesn't mean you can go without sleep.”
+
+Several of the pixies laughed as they piled out of the carriage, then they ran through the air and went into their apartments. Shanna and Rainie came over to Ren and stood in front of his face about a foot away.
+
+“Thank you for coming back for us, and keeping your word.” The two pixies said together.
+
+“I'm sorry it took me this long to go back.” Ren said. “There's a book in the Library... well, several really. The last one fills in the details of what happened after I left Shargon Caverns.”
+
+“We're allowed to go to the Library?” Shanna asked, surprised.
+
+“As long as you don't cause a ruckus, because Rosie will kick you out if you're noisy.”
+
+“Are we mentioned in the book?” Suniva asked.
+
+“No, I completely skipped over meeting such interesting people.” Ren said sarcastically, and Suniva chuckled and bit his ear.
+
+“Hey! I'm not that tasty.” Ren said, and she laughed.
+
+“Yes, you are.” Suniva said. “I didn't take a chunk of you that time; but, I would like to eat you all up.” She purred into his ear. “If I'd known what a flesh bond with you would do, I would have suggested it sooner.” She kissed his ear where she had bitten it.
+
+“I don't think it would have been as advantageous if we did it then.” Ren said and ignored her attempt to flirt, then stopped moving the Fire up to his ear that he was generating with his Burning Hands ability. Suniva sighed as the flame stopped, and Ren deactivated the ability.
+
+“I guess this means our date is over.” Suniva said and stepped into the air to stand beside Shanna and Rainie. “You still owe me a dinner.”
+
+Ren chuckled. “I'll see what I can do about that tomorrow.”
+
+“You better.” Suniva said and leaned down to kiss the tip of his nose. “Thank you for a great time.”
+
+“Your welcome.” Ren said. “Goodnight.”
+
+“Goodnight.” The three 1 foot tall pixies said and walked over to the archway apartments and went inside. Ren unhooked the carriage from Princess and stored it; then he, Artemis, and Princess ran up the street back to the Main House. Princess went into her home, Artemis went into the warehouse, and Ren went into the Main House. He knew there were two people in Xuunah's apartment, and felt their reaction to his Reassurance Aura.
+
+Xuunah's apartment door opened and she looked at him. Ren could feel her emotions and her strong reaction to seeing him in his platinum armor, and he walked over to her as she stood in the doorway. He took her hand and bowed over it, then gave it a gentle kiss.
+
+“M'lady.” Ren said. “I'm only going to sleep upstairs, so you needn't worry about feeling too many emotions.”
+
+Xunnah chuckled. “I've been through several of your encounters now, so I can handle it if another happens.”
+
+Ren raised a single eyebrow at her partial lie, and she laughed.
+
+“All right, I can accept it. How's that?”
+
+Ren reached up and touched her face. “I think I need to talk to the others about you.”
+
+“Wh-what?”
+
+“I can feel Nathalia and you equally, and even though we can share emotions and sensations, you're both missing out on feeling them directly.” Ren said. “I have an idea about how to fix that; but, I need to talk to Nathalia first before I mention it to anyone else.”
+
+Xuunah sighed. “Ren, you know I...”
+
+“Yes, I know your restriction. I have that as well, but it's just as self-imposed as yours is.”
+
+“No, it isn't.” Xuunah said. “I had to serve an extra 50 years for mating with a mortal.” She explained. “I was given a lighter sentence because my friend convinced everyone that I was brainwashed.”
+
+Ren chuckled. “That's because you were.”
+
+“Wh-what?”
+
+“I've had a few dreams about you.” Ren admitted. “I've seen quite a lot of what you've gone through during your long life, and I know the major hardships you've endured.” He said. “One of which is the constant feelings your mortal body gives you.”
+
+Xuunah blinked her eyes at him, and didn't respond. He stroked her face and let it and her hand go.
+
+“Sight, smell, hearing, and touch, are all quite different with a physical body.” Ren said. “Seeing someone you care about makes your body react. Smelling them makes it react another way. Hearing them whisper that they care about you, and when they touch you...” He reached up and lightly stroked her cheek with a single fingertip. “...you can't help but react to it.”
+
+Xuunah still didn't say anything, and since he could feel her emotions, he knew that he was correct in his assumptions.
+
+“I know I can't help reacting, and I've grown up with a physical body.” Ren said. “I also know what it's like for you to be back in one again.”
+
+“R-Ren... I...”
+
+“No, don't say anything.” Ren said. “Like I just told you, I need to talk to Nathalia first, then the others I'm involved with, before we can talk.”
+
+Xuunah started to shake her head no. She didn't want him to go through all that trouble, because she was going to say no to him anyway; then Ren took two steps up into the air and kissed her. She was surprised at first and didn't know how to react. He moved his lips and tongue, and it reminded her of the kiss they had shared after he had come back from being dead.
+
+Xuunah couldn't hold her emotions back anymore. She kissed him back as if he was the only thing that mattered in the world, and she never wanted to let him go. Ren had felt her desperation, frustration, and need, and knew she wanted some kind of relief for it. He kissed her for several moments, then broke the kiss and stepped back down to the floor.
+
+“See you in the morning.” Ren said. “Goodnight.”
+
+“G-g-goodnight.” Xuunah said, almost completely flustered as she tried to reign her emotions back in.
+
+Ren smiled and looked behind her at the other person in the apartment. “Goodnight, Officer Holly.”
+
+“I'd say so.” Officer Holly whispered, then spoke in a normal tone. “Goodnight.”
+
+Ren left the hallway and went up the stairs to his apartment on the second floor and to the waiting maids. He stored his armor when he went inside, folded up his Dire Wolf Hooded Cloak and put it on the chair by the extra-large bed, and climbed onto the bed. The maids joined him after storing their own clothing, and they all cuddled together after he gave them each a kiss in no particular order.
+
+“Goodnight.” Ren whispered to them, and they sighed almost as one and fell asleep together.
+
+*
+
+“Okay, that was... surprising.” Officer Holly said and put a hand over her own heart. “I felt all of that.”
+
+“So did I.” Xuunah said. “Great Vasalor.” She said and put a hand over her own heart and the slight glow there. “So did I.”
+
+“What are you going to do?” Officer Holly asked. “It's still forbidden, right?”
+
+“It is.” Xuunah said. “But...”
+
+“But? There's no but.” Officer Holly said. “I mean, how would it work if you can't... well...”
+
+“That's what's got me worried.” Xuunah said. “You felt his confidence, just like I did.” She said. “He... he must know a way around the restriction.”
+
+“How?”
+
+“I don't know.” Xuunah said and took in a deep breath, then let it out slowly. “The thing is... I...” She looked at Officer Holly with wide eyes. “...I want to know.”
+
+“That is definitely a problem.” Officer Holly said.
+
+“It is.” Xuunah said. “It really is.”

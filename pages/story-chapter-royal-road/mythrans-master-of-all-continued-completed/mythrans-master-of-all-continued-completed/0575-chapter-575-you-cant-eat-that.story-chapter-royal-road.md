@@ -1,0 +1,231 @@
+---
+id: 0557831b-18ce-543e-b5bf-976bcc1e6f42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 575 - You Can't Eat That"
+slug: 0575-chapter-575-you-cant-eat-that
+partOf: mythrans-master-of-all-continued-completed
+position: 575
+ownLength: 2710
+unit: words
+publishedAt: 2018-05-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212934/chapter-575-you-cant-eat-that"
+royalRoadId: "212934"
+---
+
+Ren and Artemis made out for several minutes, completely unhindered, and both of them let their hands roam freely over each other. It was as if an invisible barrier had existed between them until their lips met, then that barrier disappeared. Once it was gone, there was nothing holding them back.
+
+“Hey, you do realize you're still being watched, right?” Teepo asked a few minutes later.
+
+Ren and Artemis stopped moving when they were reminded of where they were. It was like a bucket of cold water was dumped on them. They stared at each other with wide eyes because they still had their lips locked together, and one of Ren's hands was under Artemis' t-shirt. He had a hold of one of her breasts, and she had her hand down the back of his shorts.
+
+Ren broke the kiss and removed his hand from under her top. “Artemis, I'm sorry.” He said. “I didn't mean to-”
+
+“Hush.” Artemis said and gave him a quick kiss. “You can feel how happy I am that we needed Teepo to stop us.”
+
+Ren could, and he also felt it himself. “I guess you are just too much to resist.” He said and smiled, and she smiled back. “I do need to get to sleep, though.”
+
+Artemis nodded and grabbed the blanket to cover them back up, and they laid down together, side by side. “Ren, don't try and make this awkward by not cuddling with me.”
+
+Ren opened his mouth to deny it, then he moved close and cuddled with her. “Yes, you're definitely too hard to resist.”
+
+Artemis kissed his forehead and wrapped her arms around him, and he rested his head on the spot just above her breasts.
+
+Keep a lookout, buddy. Ren thought to his friend.
+
+“Always, Ren.” Teepo said.
+
+Ren and Artemis closed their eyes and drifted off to sleep.
+
+*
+
+“Okay, I think that's all for tonight.” One of the Sea Dweller observers said. “Once they go to bed, they are out for a few hours and we can take a break.”
+
+“Great!” The other one said and stretched. “Sitting still for this long really gets to my sore joints.”
+
+The first one laughed. “Joints don't get sore from not using them.”
+
+“All right. My muscles holding the joints steady are sore.” The other said. “Happy, now?”
+
+“Yes. You have to be accurate in your observations, or you're not going to get good results.”
+
+“Did we get good results so far?” He asked.
+
+“It depends on your perspective, I suppose.”
+
+“I don't believe knowing the kinds of mating rituals Land Dwellers use will help us fight their oppression of us.”
+
+“Would your opinion change if you knew that the Land Dwellers use mostly males as their defenders?”
+
+“What? They don't let the females fight?” The other one asked. “That cuts off half of their resources!”
+
+“It does.” The first one said. “For each new piece of information we receive, we learn yet another limitation to the Land Dwellers. If we learn enough, we may discover a way to stop them from using our sacred sites as fishing grounds and shipping routes.”
+
+“Those are lofty goals.”
+
+“They are, since we've been trying for thousands of years to achieve it.”
+
+“I thought that the Queen's plan for diplomacy would have worked.” The other said. “I mean, Land Dwellers love to hear themselves talk.”
+
+The first one laughed. “We can't really expect savages to agree to talk on equal terms with civilized beings like us.” He said. “It's ridiculous, if you think about it.”
+
+“I'm not paid to think.” The other said.
+
+“You aren't paid at all.” The first one said.
+
+“That's what I said.” The other laughed, and his friend joined in as they left the room through a side door to go and get something to eat.
+
+*
+
+Ren woke up an hour later, and felt completely rested. “I really like my sustenance ring.”
+
+“That's because you only need to take a nap and you get 8 hours of sleep.” Artemis said and closed her eyes for a moment. “I can't detect anyone close by.”
+
+“They either left or are asleep.” Ren said. “I'm betting on left.”
+
+“Me, too.” Artemis said. “Are you going to try the Pass Wall spell?”
+
+“I might damage whatever it is that's protecting them from detection.” Ren said. “I don't want to let them know that we know about them.”
+
+“I was going to make a joke about them knowing about you knowing about them knowing; but, it's too convoluted to keep straight.” Teepo said and chittered in laughter.
+
+“I just had a thought.” Artemis said.
+
+“I am not touching that joke with a 10 foot pole.” Teepo said, and Ren laughed.
+
+“Ha. Ha.” Artemis said, sarcastically. “I wonder if they are protected all around from detection, or just from this side.”
+
+“Let's find out.” Ren said and took out the All-Seeing Mirror. “Please show me the room we are being observed from.”
+
+A room appeared on the surface of the mirror and they could see the wall was solid. There was also a viewing window right in the middle of it. Ren held the mirror up to the wall in question, and saw there was a painting where the window was.
+
+“It's like the one-way mirror in the Pink Pearl that time.” Teepo said.
+
+“I was just thinking that.” Ren said and slid out of bed. “Okay, let's go.”
+
+“Where?” Artemis asked and got up as well.
+
+“Down the hall to the room on the other side.” Ren said and cast Full Illusion to put a copy of himself and Artemis in the bed, asleep.
+
+“Nice touch.” Artemis said and equipped her armor. Ren did as well and they activated their Warding enchantments to give themselves 100% concealment. They disappeared from sight, then went over to the room's door. He checked the mirror again to see if anyone was coming, in case his Aura missed anyone, then they left the room and went down the hall.
+
+“Is this going to work?” Teepo asked. “Can't they tell where you are with your Aura?”
+
+“No, this room is close enough that I've barely shifted the center of the Aura.” Ren said. “It's barely 30 feet away.”
+
+They settled down on the bed in the room and waited. Ren reached out with his hand and grabbed onto Artemis, which was a little weird, since they were both invisible.
+
+“Ren.”
+
+“Yes?”
+
+“That's not my hand.” Artemis said.
+
+“I know.” Ren said and gave her breast a squeeze, and she laughed.
+
+An hour later, after they had awkwardly groped their invisible bodies, Ren felt two presences enter his Aura. His eyes followed their progress down the hallway and past the room he and Artemis were in, then into the room next door. He could still feel them as they took their place near the wall, and he checked the All-Seeing Mirror to see them.
+
+“It's confirmed. The protection is only from the other direction.” Ren whispered. “They are already starting to fade from my Heat Sense, though.”
+
+“That's all we needed to know.” Artemis said. “Should we head back into the room?”
+
+“Well, I guess I'm technically under house arrest while I'm here, so yes.” Ren said. “I'll cast Full Illusion on the whole room to keep it the same, then we can just go in and get in bed.”
+
+They left the room they were in and went down the hallway, and Ren cast the spell. He opened the door and went inside, and Artemis entered next and shut the door. They equipped their sleeping clothes and went to bed and climbed in. Ren dismissed the first spell, the copies of them disappeared, and they took their places. Artemis was on her side and had her back to the observation wall, and Ren faced her.
+
+“Is everything the same, Teepo?” Ren asked.
+
+“You need to pull the blanket up a little more.” Teepo said. “Okay, there was a bump on Artemis' shoulder, so put your hand there. No, a little lower. That's it.”
+
+Ren dismissed the Full Illusion spell that covered the room and the observers didn't have a clue that they were the ones that had been observed this time. He grinned at Artemis, and she smiled as she took his hand and slipped it under her t-shirt. His eyes widened at the move and she gave him a quick kiss.
+
+“The other reason I wanted skin was to stop you from being tempted.” Artemis whispered.
+
+“Wh-what?”
+
+“You were turned on by Jennifer because of her craftsmanship in covering her private parts with metal.” Artemis said. “Then you create me.” She touched his face with her fingertips. “My private parts are covered by metal when I'm wearing my armor; but, the parts underneath are made of living metal.” She said. “They're warm and move as if they were flesh, and I didn't want you to suffer temptation every time you were around me.”
+
+Ren was a little amazed at her reasoning, mainly because she was beautiful and he was going to be tempted anyways. When he thought about what she said, he realized that he actually was turned on by the thoughts of touching her all over while in her metal form. He was about to admit it, and her hand covered his mouth.
+
+“Let's wait until we can remove the observers before you say anything.” Artemis said. “If you say anything right now, I might just smash that wall down to get it over with.” She smiled. “I don't want to make you lose the fun you're going to have with them, so stay quiet.”
+
+Ren kissed her palm, and she moved the hand to cup the side of his face. They stayed that way for most of the night, then they decided they needed another hour of sleep so that they would be fresh and chipper for the morning.
+
+“I shouldn't need to wake you, but I will if it's necessary.” Teepo said.
+
+“Thanks, Teepo.” Artemis said, then she and Ren drifted off to sleep. They woke up an hour later and felt great.
+
+“Good morning!” Ren exclaimed loudly and gave Artemis a big kiss.
+
+“G-good morning.” Artemis said, and Ren chuckled.
+
+“Hey, don't start getting shy now.” Ren said and ran his hand through her red metallic hair. “We've embarked upon a journey of discovery and wonder, and I don't want you to start second-guessing it now.”
+
+It was Artemis' turn to chuckle. “I'm not second-guessing anything. We've known each other for years now, and that was only our fourth kiss.” She explained. “You have to at least give me a day or so to get used to it.”
+
+“Time's a wasting.” Ren laughed. “We better get changed before... oh, here he comes.”
+
+Artemis nodded and they both got out of bed and equipped their armor, and a few moments later, there was a knock on the bedroom door.
+
+Ren opened it with a flourish. “Good morning!”
+
+Their guide looked at him and didn't know how to react to his enthusiasm.
+
+“We're ready to head out.” Artemis said.
+
+“Oh! No, I... well, it's breakfast time.” The guide said. “I'm here to take you to the dining room.”
+
+“We don't have to eat, even if we didn't have access to the Sustenance enchantment.” Ren said.
+
+The guide didn't know what to say to that, or what to do next.
+
+“I think he wants us to go and pay our respects to the Royal Family.” Artemis said.
+
+“Yes! That!” The guide said and pointed at Artemis.
+
+Ren laughed at the poor guy's reaction to unexpected reactions. “Then lead on, (gurgle bubble).”
+
+“You know my name?” The guide asked.
+
+“I know all your names.” Ren said and gave him a huge smile. It unnerved the guide somewhat, and Ren also felt a spike of unease from behind the observation window.
+
+“Th-this way, please.” The guide said and pointed down the hallway.
+
+“My Lady, may I escort you?” Ren asked and held an elbow out for Artemis to take.
+
+“Why thank you, My King.” Artemis said, and the guide gasped.
+
+Ren felt shock from him and from both of the observers. “Which way did you say it was?” He asked and walked out into the water with Artemis. “This way?” He started to move down the hallway, and the guide scrambled to swim in front of the guests before they reached the dining room.
+
+Teepo chittered in laughter as the guide managed to finally get in front of them just before they had arrived at their destination. The guide opened the door to the dining room, and Ren and Artemis stood there and took in the spectacle.
+
+Sea Dwellers were darting around the room and chased fish that were about 6 feet long. Some used harpoons and some used their hands; but, once the fish were caught, they all tore into the fish with their teeth to feed on both blood and flesh.
+
+“Wow!” Teepo said and chittered in delight. “I thought Railyse was 'roughing it' while she was with us, and she was only eating normally!”
+
+Ren smiled and watched the sight for a minute, then he made a small hand gesture in the water. It was similar to the 'lure' gesture he had used to get attention from the water elementals back at the pool, and right away a water elemental came over to him. It was one of the two that were guarding Railyse. It bubbled and gurgled at him, clearly angry, and Ren nodded.
+
+“Please accept my apologies.” Ren said and took out his large hammerpick, turned off his Regeneration, and pricked his finger. “I make an offering of King's Blood as penance.”
+
+Everyone in the 'dining room' froze at his words, then they caught the smell of his blood as it flowed out in a small stream. The water elemental absorbed it quickly and Ren activated his Regeneration to stop the bleeding. The water elemental motioned to the side, so Ren and Artemis floated over to the small area set aside for them.
+
+Once there, the water elemental returned to guard Railyse and the other one came over to Ren and Artemis. It didn't bubble and gurgle much, and it wasn't angry; but, Ren made the offering anyway as an apology for stopping it from performing its duty. The water elemental accepted the offering gratefully, because it knew Ren didn't have to do it. It returned to its post and Ren looked around at the Sea Dwellers. Several of them nodded to him and then the feeding frenzy began once more.
+
+“I'm a little surprised they would allow us to see this.” Artemis whispered as a large fish passed by them, and a harpoon pierced it between the eyes and killed it. The fish was quickly pulled back to the harpoon thrower and the Sea Dweller started to eat.
+
+“I think it's a demonstration.” Ren said, and believed he was right. “They're showing us what a formidable fighting force they can be.” He looked around and smiled. “Especially the females.”
+
+Artemis turned to look in the same direction and was just in time to catch the sight of a female Sea Dweller as she tackled a fish the same size as her and tore into it with her hands and teeth.
+
+“I don't think you needed to have that point made, Ren.” Artemis said.
+
+“They want to make sure I understand.” Ren said, confident in his ability to read their emotions. “If it comes down to a battle between the Sea Dwellers and Land Dwellers, they might not want to fight; but, that doesn't mean they won't fight to win if they have to.”
+
+“Are we going to tell King Alamast and the government officials?” Artemis asked.
+
+“No.” Ren said. “What I will do is tell the only one who cares enough about this to possibly do something about it.”
+
+“Princess Diana.” Artemis said, and he nodded.
+
+“Not only will she understand what this means, she is also in the best position to give this information to who needs it most... without me being involved.”
+
+“The people that run the shipping and the sailors themselves.” Artemis said, and Ren nodded again.

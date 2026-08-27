@@ -1,0 +1,173 @@
+---
+id: 5af8dba6-5597-5623-b81f-d956a5ded26c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103 Perspective"
+slug: 0108-chapter-103-perspective
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 108
+ownLength: 1981
+unit: words
+publishedAt: 2026-07-26
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3729400/chapter-103-perspective"
+royalRoadId: "3729400"
+---
+
+After Lord Vaelric left, the room was silent for a long moment.
+
+Lucien couldn't help but feel conscious about the red cloak upon his shoulder. It had always just been a piece of garment to him, something that was arranged for him to wear in public and he had always done so without much thought put into it.
+
+'Names had meaning...and so did one's attire.'
+
+The nobility of this world had their own traditions and history and once again, it was impossible for him to simply ask anyone about it without drawing suspicion.
+
+A soft breath left Lord Rathenfell as he studied him briefly.
+
+"As a noble. I can understand the frustration that Lord Vaelric must feel when he sees you, Lord Varentis. To needlessly put yourself at risk for the defense of a frontier village is not something someone of your lineage should do."
+
+At the older man's words, Lucien's brow creased. Regardless of what customs this world held, he refused to be a leader that would ask a man to die without at least making the attempt to stand beside them.
+
+Lord Rathenfell merely shook his head, a faint smile on his expression. "But as a man born and raised in the frontier. I would be proud to stand beside such a man."
+
+He waved toward Dorian behind him. "I suspect your guard captain feels much the same as well."
+
+Lucien could hear the man behind him shift slightly before Lord Rathenfell clapped his hands lightly. "Let us reconvene later, Lord Varentis. I will send a servant to inform Lord Vaelric that the meeting has been postponed until this evening, when calmer heads prevail."
+
+Exhaling through his nose, he inclined his head slowly. "I suppose I will take a walk as well, Lord Rathenfell."
+
+As Lucien rose from his seat, he made to adjust his cloak before stilling briefly.
+
+Lord Rathenfell let out a small hum before motioning toward the window. "My gardens are quite pleasant this time of the day, Lord Varentis. Perhaps you might want to have your walk there."
+
+He regarded the older noble for a brief moment before giving another nod. Dorian falling into step behind him as he turned to leave the room.
+
+As Lucien made his way toward the gardens, he couldn't help but notice that Lord Rathenfell had not assigned anyone to escort them.
+
+Lord Rathenfell had likely been trying to keep Lord Vaelric and him apart ever since his arrival, even ensuring they stayed in separate wings of the manor.
+
+Dorian had remained silent during their brief walk, though it was clear he was tempted to speak.
+
+While walking, he glanced toward the man. "Speak plainly, Dorian. Perhaps you might see something that we nobles do not."
+
+The captain hesitated briefly before he slowly began. "My Lord. Regardless of what Lord Vaelric believes your duty as a noble is. He had no right to question your legitimacy to wear the cloak."
+
+His gaze shifted to the cloak on his shoulder. "Your family has earned it through their services to the kingdom...and you have continued to uphold its values even if your actions are often...reckless at times."
+
+"Even His Majesty did not take that right from your house after your father..." his words trailed off, unsure how to continue.
+
+Looking at him from the corner of his eye, Lucien's brow raised. "...Are you trying to comfort me, Dorian? Today certainly is a day of surprises."
+
+Dorian looked away, visibly awkward, which only caused the corner of Lucien's mouth to twitch.
+
+His hand drifted toward the cloak on his shoulder before he gave a small nod. "But thank you for the encouragement."
+
+Neither of them spoke after that.
+
+Lucien found his thoughts returning once more to the cloak upon his shoulder as they walked through the manor's halls.
+
+By the time they emerged into Lord Rathenfell's gardens, he had no more answers than before.
+
+Despite that, Lucien had to admit the garden brought some measure of relief from the tension he had not realized he was carrying.
+
+Being situated at the back of the manor, it was far enough removed from the overcrowded town that the air felt almost cleaner here. It was quiet as well, with only the rustling of the well maintained plants and the sounds of their own footsteps.
+
+Yet Lucien knew that Lord Rathenfell hadn't asked him to come here just to enjoy the view.
+
+As he walked deeper into the garden, the sight tucked away in a secluded corner made him still briefly.
+
+A familiar maid stood nearby, her posture as impeccable as ever.
+
+Only then did Lucien's gaze rested upon the middle-aged woman seated beneath the pavilion, a cup of tea resting in her hands.
+
+It seemed his arrival had not gone unnoticed. The woman's eyes lifted to meet his own before she set her cup down and gave a small nod.
+
+Lucien returned the gesture, before turning slightly toward Dorian.
+
+"Remain here, Dorian. I would like to speak to her alone."
+
+The captain inclined his head before stepping aside as Lucien approached the table.
+
+As he neared, the first thing that struck him was how she continued to meet his eyes. That meant the lady was likely a noblewoman.
+
+Yet it was those same eyes that held his attention. There was a weariness to them that seemed far older than the woman herself, a sadness that contrasted sharply with the gentle laugh lines around her mouth.
+
+When he neared the table, she smiled gently. "Lord Varentis. I had been hoping to meet you."
+
+Lucien inclined his head. "Are you perhaps...?"
+
+She covered her mouth, eyes crinkling. "Yes. I am Gideon's mother." A hint of sadness entered her smile. "Though I suppose most would know him as Lord Vaelric these days."
+
+"Would you mind joining me for some tea? Only if you are free, of course. I imagine you must be far too busy to spend your afternoon accompanying an old woman."
+
+'Gideon...so that's his name.'
+
+Shaking his head, Lucien took the empty seat across from her. "It would be my pleasure, Lady Vaelric."
+
+Without prompting, the maid moved to set a cup before him, pouring a black liquid into it. The scent that drifted from the cup made his brow crease faintly.
+
+'That man...'
+
+A soft chuckle escaped Lady Vaelric. "Do not mind the little pranks he plays on you, Lord Varentis. When you get to be as old as him, there are few delights left but to tease the younger nobles."
+
+Lucien exhaled softly through his nose before taking a careful sip of his cup.
+
+For a time, they sat in silence under the shade of the pavilion. It was one of the rare occasions since arriving in this world where he simply sat and enjoyed a cup of coffee.
+
+Lady Vaelric set down her cup, worry glinting in her eyes. "Is Garrick well? I have heard he survived the fall of Cragwatch but there was little news after that."
+
+When he looked toward her, his brow raised in question, she simply shook her head. "Commoners often know more than we think, Lord Varentis. A number of the survivors from Cragwatch have been living in Helvarn for months now."
+
+Her expression softened, though the sadness lingering around her seemed to deepen slightly. "Even if House Vaelric's star has fallen far, word that one of our blood still lives is something the people would speak about."
+
+Slowly, Lucien inclined his head. "He is doing well, Lady Vaelric. I had recently tasked him with helping our master carpenter."
+
+She held a hand to her chest in relief. "That is good...we have lost so much family already."
+
+Setting his cup on the table, Lucien carefully spoke. "Garrick told me about what had happened in the past. He was worried about you as well, Lady Vaelric."
+
+Lady Vaelric shook her head faintly. "That boy is always concerned about others when he should be more worried about himself." Her eyes lowered briefly. "In that sense, I suppose my two sons are similar in that regard."
+
+He glanced toward her, eyes widening slightly.
+
+At the look on his face, she covered her mouth though a small chuckle still escaped her. "Surprised that I would consider Garrick as one of my own?" She gave a faint nod. "I suppose that is rather unusual for a noblewoman. But I have always been close with his mother."
+
+"...When she was about to pass from her illness, I promised her that her son would be my son until I am no longer in this world as well. "
+
+Despite the sadness, there was no sign of tears in her eyes as she continued speaking softly. "I had tried to keep them together but Gideon is..."
+
+She let out a soft breath. "Lordship is no burden fit for a child, My Lord. You must have faced your own troubles as well when you lost your father."
+
+Perhaps it was not in the way she was thinking...but he did understand in a way. Since coming to this world, he had tried not to think about the family he had lost, burying himself in work.
+
+If not for the presence of Talia...he would have found himself truly alone in this world.
+
+Masking his expression behind his cup, he took a sip of his coffee.
+
+At the sight, Lady Vaelric shook her head lightly. "I see the burden is heavy for you as well, Lord Varentis." Her eyes met his own. "Gideon was cross with himself when he heard you were assigned to Ashridge."
+
+Lucien set his cup down, brows creasing. "...Why would he feel that way?"
+
+She continued to hold his gaze. "He was glad that someone who might understand his troubles would be close by." A faint sigh escaped her. "The previous lord of Ashridge was not a man my son was particularly fond of."
+
+"But to be glad that you were assigned here was also to be glad that another had endured the same hardships he had."
+
+The words Lord Rathenfell had spoken during the meeting surfaced in his mind, of how one misunderstanding after another had led to this turn of events.
+
+Lady Vaelric inclined her head faintly, a look of understanding in her eyes. "When he heard you had personally gone to save his people. He was tempted to mount his horse and do the same as well."
+
+At her words, Lucien's brow raised. "He did not seem very pleased when he mentioned that earlier."
+
+She let out a chuckle before shaking her head. "I know my son well, Lord Varentis. Gideon will always be the boy that begged Garrick to play at being knight first before a Lord. No matter how much he tries to bury it deep in his heart."
+
+"After all, he was the one who brought the rest of the survivors to Helvarn and has kept them sheltered and fed ever since."
+
+Lucien leaned forward in his chair. "But then why doesn't he...?"
+
+"Ask for his people back? It would be cruel to them if he did so, Lord Varentis. They have already spent months in Ashridge." Lady Vaelric gave him a sad look. "But neither can he simply let the matter pass without seeking compensation. He is still bound by his duties as a Lord."
+
+His gaze lowered in thought at her words before Lady Vaelric set her cup down with a soft clink. "Please. Tell me more about Garrick and how he is doing. If you have the time, of course."
+
+Lucien answered after a moment, beginning with Garrick’s work in Ashridge, though his thoughts lingered on the assumptions he had carried with him throughout his trip to Helvarn.
+
+Somewhere along the way, he had begun treating the nobles of this world as obstacles to navigate rather than people to understand.
+
+He would approach the evening's meeting differently.

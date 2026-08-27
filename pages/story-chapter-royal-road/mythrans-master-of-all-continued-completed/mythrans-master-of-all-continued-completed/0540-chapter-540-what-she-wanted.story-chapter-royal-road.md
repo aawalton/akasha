@@ -1,0 +1,285 @@
+---
+id: bffccef3-1e77-51b9-8c9a-cc68ec9d99cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 540 - What She Wanted"
+slug: 0540-chapter-540-what-she-wanted
+partOf: mythrans-master-of-all-continued-completed
+position: 540
+ownLength: 3061
+unit: words
+publishedAt: 2018-03-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204313/chapter-540-what-she-wanted"
+royalRoadId: "204313"
+---
+
+After the first hour of Ren trying to show Elise everything he had learned about pleasing a woman, she begged him to take a break. He let her relax for a few minutes and then gave her an amulet with a symbol on it to represent the first time they had met. It had been an awkward meeting for the both of them; but, Ren had assumed, quite correctly, that it was the strongest memory for Elise to focus on.
+
+Ren asked her to put the amulet on, and it also had the Unnatural Armor, Interrogation, and Spider enchantments on it. When she equipped it, he told her to concentrate on the day they had met and to remember how she felt when he had first entered the game. It took her a moment to bring it to mind, and when she did, her Aura popped into place and merged with his. Ren was already concentrating on the symbol himself, and his emotions that he had kept restrained since being in the club, hit her.
+
+Elise gasped at their power, even in their held back state, and she felt how much pleasure he was getting from making her feel so much pleasure. She didn't ask him to take a break after that.
+
+When they were done making love a few hours later and cuddled in bed together, Ren turned to her with a question on his face.
+
+“So, do you still want to have sex with me in real life?” Ren asked, quite blatantly.
+
+“Most definitely.” Elise said and stroked his chest. “Lisa was right. Being with you like this is great, but... being with the real you... feeling you... tasting you...” She gave him a kiss. “Nothing can beat that.”
+
+Ren smiled at her. “Even though I went all out on you?”
+
+Elise nodded. “Even though.”
+
+“I'm glad.” Ren said and gave her a kiss back. “Now, I've got to go.”
+
+Elise chuckled. “Should I even ask who's next?”
+
+“Anabelle. I haven't seen her in a few days.”
+
+“She's in for a treat, then.”
+
+“Only if she wants it.” Ren said. “We're all consenting adults. If someone says no...”
+
+“She is not going to say no.” Elise said, and then sighed. “Who would?”
+
+Ren stroked her face because he felt her sadness. “What is it?”
+
+“You could do every woman in the game, couldn't you?” Elise asked.
+
+“That might be physically possible.” Ren said. “I'm not going to try that, though.”
+
+“You just proved that you can keep going and going and never tire or... or run out of...”
+
+Ren chuckled. “Can you imagine the sight? Miles and miles of women, side by side in various positions, ready and waiting for me to please them.” He laughed. “They might even beg for it.”
+
+Elise went quiet as she thought about it, and what it would mean.
+
+“It'll never, ever happen, Elise.” Ren assured her. “I won't go and have sex with just anyone, you know that.”
+
+“But... recently you... you've been...”
+
+“Yes, I've been playing with a few. Namely Yllana. Oh, and I went down on 5 of the succubi the other day.” Ren said. “I usually need to know someone for a while before broaching the subject, let alone go down on them; but, the succubi and I went through a lot in Shargon Caverns, and I made it clear that if they already had someone to spend time with, doing things with me was out of the question.”
+
+“Ren...”
+
+“I made sure they knew it was only an exchange of oral pleasure, and it would go no further than that.” Ren said. “I'm also encouraging them to find suitable mates so that I won't have to meet their emotional needs.”
+
+“But...”
+
+“I said the same thing about no sex to Yllana, and she was more than fine with that arrangement. Actually, she really likes being teased and having someone watch.” Ren shook his head. “Not me, though. I've had enough of that for 10 lifetimes.”
+
+“Ren, I... what if I asked you not to do that anymore?”
+
+“I'd wonder why, especially since it's only in the game and not something I'd even consider doing in real life.”
+
+“You see so many women... most of them completely naked.” Elise said. “What if... what if you find someone that...”
+
+“...that I'll like better than you?” Ren asked, and she nodded. “It'll never, ever happen, Elise.” He said, which repeated the words he had responded to her question about sleeping with all the women in the game. “To paraphrase a good song...”
+
+Ren sat up next to her and began to sing in a melodious voice, much to Elise's surprise.
+
+“One mile to every inch, your skin like porcelain... one pair of candy lips, your tongue like bubblegum...”
+
+Elise stared at him as he touched her face and belted out the tune in perfect pitch, as if she was listening to it on the radio.
+
+“...and if you want love, we'll make it... swimming in a deep sea, of blankets... take all your big plans, and break them... this is bound to take a while.”
+
+Ren paused for a second and started the chorus.
+
+“Your body is a wonderland... your body is a wonder, I'll use my hands...”
+
+Elise caught her breath as he dug his hands into her breasts and started to knead them.
+
+“Your body is a wonderland...”
+
+Ren sang more of the song and even added in some of his own words to describe her as he started to make love to her again. She lost herself in the sound of his voice and from the feel of his body both on and in her. Elise could feel how much he loved her, and by the time she finished with the gentlest and longest orgasm she had ever had, her eyes were full of tears. She gave him back her deepest feelings of love as well, and she never wanted this feeling to end... except, there was something she had to tell him.
+
+“Ren, I love you.” Elise said. “I love you so much.”
+
+“I know.” Ren said.
+
+“No, you don't.” Elise said. “I... that first time we were together in real life... when we... when you...”
+
+“...finished inside you.” Ren said, and she nodded.
+
+“Yes, I...” Elise closed her eyes. “I did something bad.”
+
+“Do you mean the fact you put your underwear on and tried to keep all of it inside you?” Ren asked, and she opened her eyes to stare at him.
+
+“Y-you noticed.”
+
+“When a beautiful woman I just had sex with gets dressed right away, I had to guess why.”
+
+“Ren, I... I just... I wanted to keep you with me as long as possible.” Elise said, then she sighed. “It didn't work.”
+
+“What didn't?”
+
+“I... I didn't get pregnant.” Elise said and her face went to a deep red.
+
+Ren cupped the side of her face and gave her a kiss. “I'm sorry.”
+
+“Wh-what?” Elise blinked her eyes at him.
+
+“I'm sorry you didn't get what you wanted from our first time together.” Ren said.
+
+“You're not angry at me?” Elise asked, surprised. “Ren, I tried to have your child!”
+
+“Wouldn't that be great?” Ren asked, and she could feel his happiness. “A little me running around... or better yet, a little you running around!” He said and started to laugh. “I can see her fluffy red hair all dishevelled as she runs around Stella, and her throwing a hissy-fit when you scold her for it.”
+
+Elise couldn't believe what she was hearing. “R-Ren...”
+
+“I'm sure she'd be okay and won't inherit my degenerative ligaments and tendons.” Ren said. “Redheads have the predominant traits in births when at least one or more parent or grandparent are redheads.”
+
+“Ren...”
+
+“Hey, do you want to keep trying?” Ren asked her, and her mouth dropped open.
+
+“Ren!”
+
+“What?”
+
+“You... you want... you want to... you want me to...” Elise babbled, almost incoherently.
+
+“I think you would make an excellent mother.” Ren said. “Plus, there's what? Three more surrogate mothers at the house?” He chuckled. “Raising a kid with that much around-the-clock help would be a breeze!”
+
+Elise was flabbergasted at his words and didn't know what to say, even with feeling his genuine emotions.
+
+“Before you start to think I'm kidding...” Ren tapped the amulet she wore. “Amulet of Interrogation.”
+
+Elise just stared at him as he slid off the bed and equipped his special armor bodysuit then put the blue suit over top of it.
+
+“I'm staying in tonight, so let Barbara know.” Ren said as he leaned over and gave her another kiss. “See you in the morning, beautiful.”
+
+Ren left her bedroom and her house, then met Xuunah, Artemis, and Officer Holly outside. “Bored yet?” He asked them, and the three of them chuckled.
+
+“It's a guard's life.” Artemis said, and the other two women nodded.
+
+“You're still going to Anabelle's even though it's this late, aren't you?” Officer Holly asked, and it was Ren's turn to nod.
+
+“She might still be up.” Ren said. “If not, we'll head back to the county.”
+
+The 4 of them walked over to the Artesian District and Ren felt his Aura merge with Anabelle's Freedom Aura. He felt her jolt awake, and felt bad about it. He was immediately flooded with a scolding feeling and an urgency.
+
+“Well, she's awake now and wants me there fast.” Ren said.
+
+“Then go!” Officer Holly said, and Ren disappeared from sight as he ran to his business. “Damn, he's fast.”
+
+“Only when he has to be.” Artemis said.
+
+That comment made both Xuunah and Officer Holly blush a little, because they knew it was true. They had just spent a third of the night outside Ren's girlfriend's house guarding him while he 'took his time' with Elise. Neither of them had experienced anything even close to that amount of quality time with someone, at one time anyway, and they weren't sure what to think about it; especially since he was going to yet another woman to potentially sleep with her, too.
+
+Ren used the Pass Wall spell to make a hole in the wall of the upstairs apartment and stepped through it. Anabelle had expected him to enter through the door, so his unorthodox entrance surprised her and her head whipped around to look at him.
+
+“R-Ren!” Anabelle said as he dismissed the spell.
+
+“I'm sorry, it's been a couple of busy days.” Ren said.
+
+“You don't need to apologize.” Anabelle said. “Your days are always busy.”
+
+Ren knew she was only stating a fact and not complaining about it, and he walked over to the bed and sat down. “Are you up for a little cuddling?”
+
+“Only if you don't stop there.” Anabelle said, and Ren smiled.
+
+“Have you been a good girl while I've been away?”
+
+“No.” Anabelle said in a soft voice as she pushed the blanket off of herself to reveal she was naked. “I teased and played with myself while thinking about you.” She said and rolled over on the bed. “Look, it's asking for you.” She lifted her backside up and arched her back, and he saw her special place twitch. “It misses you so much.”
+
+Ren caressed her with a hand, and felt she was dripping wet. “Poor thing.” He said. “Let me kiss it and make it feel better.”
+
+“P-please.” Anabelle said, then moaned as he did so.
+
+*
+
+Xuunah did her best to keep Ren's emotions at bay, and wasn't too bothered by what she was letting through while Officer Holly kept an eye out for anyone that might be a potential threat. They both searched the streets and the sky for anything to appear, just like they did in the Housing District, while Artemis floated well above the street and did the same.
+
+*
+
+Ren came out of the back door of the apartment 2 hours later and walked over to them. “Let's go home.”
+
+They went back to the Housing District to pick up Princess and their mounts, and as they walked, Xuunah's hand snaked it's way across Ren's shoulders, and he leaned into her as he put his arm around her waist.
+
+“You're a good man, Ren.” Xuunah said. “To act like that for her and treat her how she wants to be treated, even though you dislike it.”
+
+“Sometimes when someone gets used to being treated a certain way, they need to keep being treated the same way to feel loved.” Ren said as he looked up at her. “I am so glad I am not one of those people.”
+
+“As am I.” Xuunah said. “As is everyone who cares about you.”
+
+Ren nodded and they stopped at the old house. He went inside and woke Princess, and Xuunah and Officer Holly untied their Phantom Steeds and climbed onto the saddles. Ren came out with Princess, climbed up onto her saddle, and Princess ran off up into the air with Artemis, Xuunah, and Officer Holly right behind her. They landed in front of the Main House in Ren's county only a couple of minutes later.
+
+“I'm back earlier than I thought I'd be.” Ren said as he hopped off of Princess. Artemis gave her the plate of food from the club and Princess went into her house in a happy mood.
+
+“I guess this is goodnight, then.” Officer Holly said and dismounted.
+
+“Thanks for having my back, Holly.” Ren said.
+
+“I said I would, didn't I?”
+
+Ren nodded. “I'm heading to the capital to see King Alamast in the morning, so should I assume you'll be coming along?”
+
+“Of course.” Officer Holly said. “I booked off for the whole weekend, so I'm all yours.”
+
+As soon as the words left her mouth, her face went to a deep red. Even though it was a common phrase, it could be taken out of context and mean something completely different. Ren felt her reaction to the simple statement, so he took her hand and bent over it.
+
+“Please relax.” Ren said. He lightly pressed his lips to the back of her hand, then looked up at her face. “I won't take anything you say in an inappropriate way.”
+
+“Um... ah... okay.” Officer Holly said, a little flustered. “I didn't mean it like it sounded.”
+
+“I know. That's why I didn't joke about it, either.” Ren said and let her hand go. “Despite a rocky start, I think our friendship is moving along pretty well.”
+
+“Rocky?” Officer Holly snorted a laugh. “Like Gibraltar or the fighter?”
+
+“The fighter.” Ren laughed. “I'm glad we got over that.”
+
+Officer Holly took her mount's reins and started to walk away. “I'm going out for a while to do a bit of investigating, but I'll be back in the morning before you leave.”
+
+“I'll see you then.” Ren said. “Goodnight, and good luck.”
+
+Officer Holly nodded, gave Xuunah a wave, and disappeared around the corner of the Main House.
+
+“I should have given her my mount to take to the stable.” Xuunah said and slid off her Phantom Steed.
+
+“Are you coming along with us in the morning?” Ren asked as they walked around the Main House to the small stable he had made in the back. They saw Officer Holly jog towards her house as they went into the stable.
+
+“I'd like to stay by your side for as long as you'll let me.” Xuunah said and secured her mount in the stable stall.
+
+“Let you?” Ren asked and smiled at her, and she smiled back.
+
+“Have me, then.”
+
+“Well, I'd like to have you for as long as you want.” Ren said, and her face turned red. “Ooo! You're thinking dirty thoughts!”
+
+Xuunah's face went even redder, and Ren chuckled as he took her hand.
+
+“Come with me.” Ren said and walked out of the stable. “I think it's time.”
+
+“Time for what?” Xuunah asked.
+
+“For what I planned to do with you.”
+
+Xuunah thought furiously about what he could do, and Ren felt all of her swirling emotions. He didn't say anything until he told Artemis to come with them, then took both women inside the building and into Xuunah's apartment. He shut the door behind them and then quickly moved the furniture out of the way towards the walls to clear a large space in the living room.
+
+“What are you doing?” Xuunah asked.
+
+Ren held up a hand to quiet her, then he asked Artemis to hold his things for him. Ren equipped his old bodysuit to replace what he wore and handed over everything he had in inventory, then gave her everything he had equipped as well, except for the Beetle Crown Ring.
+
+“Teepo, I can't take the chance of losing you, so I have to take off the ring.” Ren said.
+
+“No problem.” Teepo said. “Just make sure you summon me when you're done.”
+
+“Of course. I'll see you in a little while, buddy.”
+
+“Bye, Ren.” Teepo said and dissolved into the ring, and Ren handed it to Artemis.
+
+“Ren.” Xuunah said, and he turned to her. “Please tell me what you're doing.” She said. “It's like you're planning to die or something.”
+
+“That's always a possibility.” Ren smiled. “I don't think it was ever intended to happen this way, so this will be the first time it's been done by an Adventurer.”
+
+“Ren, tell me what...”
+
+Ren took a step up into the air and gave her a kiss on the lips. “Get ready to do this yourself.”
+
+“Do what?” Xuunah asked. “You haven't told me what's going on!”
+
+Ren took a step back, inhaled a deep breath and let it out, then braced himself. He closed his eyes and remembered what he had seen the day he first met Xuunah... then activated his Helm of Polymorph.
+
+“REN! NO!” Xuunah yelled as she realized what Ren was trying to do, but it was too late. Once it was started, it had to be completed. The glow within Ren's chest grew brighter and brighter as the Polymorph process continued and Artemis had to hold a hand up to stop from being blinded by the glare. Xuunah watched in horror as Ren's physical body started to fade away.
+
+Ren didn't scream at all as his body was torn apart molecule by molecule and converted into Light.

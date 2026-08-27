@@ -1,0 +1,209 @@
+---
+id: 4cf2ecbd-e874-5fbd-8824-893d72be70e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70 Trial"
+slug: 0075-chapter-70-trial
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 75
+ownLength: 2176
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3479495/chapter-70-trial"
+royalRoadId: "3479495"
+---
+
+The group moved from Harlon’s workshop toward the southern palisade.
+
+As they approached, he could already see Sera standing upon the wallwalk, looking out toward the Deep Woods.
+
+She turned toward them briefly before facing outward once more.
+
+Lucien made his way to the stair set along the inner wall, Joren and Harlon following behind him.
+
+From atop the wall, the cleared ground beyond the palisade stretched fully into view.
+
+Stepping onto the platform beside her, he noticed her gaze flick briefly to his face before settling on the crossbow in his hand.
+
+Joren moved to stand a short distance from her while Harlon remained by his side.
+
+Lucien gave a slight nod. “Sera, can you use this without me explaining?” He raised the crossbow slightly, extending it toward her.
+
+Sera accepted it as her hands wrapped around the frame, pale eyes lowered to examine it.
+
+He took three of the prepared shafts they had brought along and passed them to her. “Use these as the arrows. Try to see if you can figure out how.”
+
+Before she could start, Lucien carefully spoke. "Sera. You don't have to test this if you don't want to. I can find someone else if you'd rather not."
+
+Both craftsmen shot a look toward him. A short grunt escaped Joren as he gestured toward the village behind them.
+
+"Aye. There are plenty of lads who would like to try a new weapon like this. No need to force yourself if you don't want to be involved."
+
+Beside him, Harlon studied Lucien for a long moment, though he remained silent.
+
+Sera tilted her head slightly. Her eyes moved between Lucien and the crossbow before she shook her head and accepted the bolts. She set them within easy reach along the edge of the wallwalk before returning her full attention to the crossbow.
+
+Her fingers brushed lightly along the string before shifting to the stock, adjusting her hold once, then again, testing the balance through small, deliberate movements.
+
+A small cough drew Lucien's eyes toward Harlon, who motioned his head toward the watchtower at the corner of the palisade.
+
+"Would you prefer a better view from above, Lord?"
+
+He regarded the older man for a brief moment before inclining his head.
+
+Joren crossed his arms with a grunt. "Aye. We'll wait down here."
+
+Lucien followed Harlon along the wallwalk toward the watchtower overlooking the southern approach. By the time they reached the upper platform, Joren and Sera had become small figures below them.
+
+He waved toward Joren, who lifted a hand in return. Sera had already begun to move, bringing the weapon down against the wood with her foot.
+
+Harlon took out his pipe and motioned toward it. Only when Lucien gave a nod did he light it.
+
+For a time they said nothing as they watched Sera attempt to draw the string. Her first attempt seemed to fail before she pulled it back with greater force.
+
+As she reached for one of the shafts, Harlon finally spoke.
+
+"You didn't seemed bothered when Alicia started managing the ranking board of her own accord, Lord."
+
+Lucien let out a quiet breath before shaking his head. "Managing a ranking board and testing a weapon aren't the same, Harlon."
+
+Below them, Sera selected one of the prepared shafts.
+
+Harlon gave a slow nod before motioning toward her. "But she's perfectly suited for it. It's not as though you're asking her to do anything dangerous."
+
+It did not take long for her to figure out where to set it before she held the crossbow, pointing it outward across the clearing. Even from here, he could see the familiar stillness of her posture.
+
+Before Lucien could reply, the snap of the string echoed from below. The bolt flew forward before striking the ground short of the midpoint, dirt lifting in a small burst upon impact.
+
+His eyes remained on Sera. She showed no outward reaction, merely glancing at the weapon before returning her gaze to the land beyond the walls. She was likely already measuring the distance.
+
+Harlon drew on his pipe, smoke drifting upward. "You're usually more practical when it comes to using the right people for the right task, Lord."
+
+At the phrasing, Lucien's brow creased. "I am. Which is why I had asked her to process the sinew. Once we've confirmed the results, she will teach the rest. One person's effort doesn't make that much difference."
+
+When Sera lowered the crossbow, her second attempt to draw back the string was smoother as it caught into place without needing to try again. After setting the bolt in place, she raised the weapon once more.
+
+The snap of the second release reached him as the bolt traveled farther before striking the ground nearer the center of the clearing, its flight steadier than before.
+
+Harlon's gaze shifted toward where the bolt landed. "We both know she's more skilled than any farmer who hunts on the side, Lord."
+
+A puff of smoke left his pipe before he gestured toward the southwestern ridge. "And she's already been helping at the Ridge outpost since they began laying the road."
+
+"Word has already spread about how she was the one that killed the variant in Cragwatch. The workers feel more relaxed working when she's keeping watch."
+
+Lucien exhaled through his nose. "If she had volunteered for it...then that is fine. But I will not order her, Harlon."
+
+For the final attempt, Sera shifted her footing before lowering the weapon. He could see her drawing the string in a single, continuous motion.
+
+She loaded another bolt and raised the weapon into position, her shoulders settling almost immediately.
+
+When it was released, it carried farther than the last, striking low along the outer stretch of the clearing, close to where the uneven line of trees began.
+
+Both men looked toward where the third bolt landed. Harlon shook his head before turning back toward Lucien. "You're trying to shoulder too much for something you can't control, Lord."
+
+"And she'll make her own choices. What then?"
+
+As Sera lowered the crossbow to examine the weapon in her hand, her stance returned to its usual stillness.
+
+Lucien remained silent at the sight.
+
+For someone shaped by violence, was it truly a choice if it was all she had ever known?
+
+As Joren waved toward them, Lucien returned the gesture before glancing toward Harlon who continued to watch him quietly.
+
+"...At least for now, I would like to give her the chance to choose differently."
+
+Harlon studied him for a long moment before he spoke. "As long as you're prepared for whatever her choice would be, Lord."
+
+At Lucien's nod, he tamped out his pipe against the railing before tucking it away. Without another word, the two men made their way down from the watchtower.
+
+By the time they returned to the wallwalk, Sera was still examining the weapon in her hands while Joren waited nearby. She looked up at their approach before she extended the weapon toward him.
+
+Lucien shook his head. "Give it to Joren, Sera. They will still need to refine it further."
+
+At his words, she gave a small nod before handing it to Joren. The older man accepted it, his gaze flicking briefly between Lucien and Harlon before he grunted and turned his attention to the weapon.
+
+From the tower, Lucien had watched each shot land farther than the last.
+
+With little training or instruction, even if in the hands of an experienced hunter, the weapon had performed better than expected for a prototype. Given time, the militia would finally have a way to strike back against beasts before they ever reached the palisade.
+
+Joren shifted his weight after a moment, his grip tightening briefly on the crossbow before he gave a short grunt. “I’ll get started on that crowbar. No point letting it sit.”
+
+Harlon nodded once in agreement. “I have work to finish as well. The frame will need adjusting before the proper piece is ready.”
+
+At Lucien's gesture of dismissal, the two craftsmen turned to leave, though the carpenter paused before descending, turning back toward him.
+
+“Garrick will be stopping by your manor tomorrow. The ridge outpost has begun taking shape.”
+
+He rubbed his chin before replying. “Keep me updated on the progress of the road. I will speak to him about the outpost.”
+
+The carpenter inclined his head once more before continuing on, Joren already a step ahead of him as the two disappeared down the stair.
+
+Lucien remained where he stood, his gaze drifting briefly toward the southwestern stretch beyond the palisade before returning inward.
+
+Sera had not moved during the exchange, her eyes lingering on him as she waited.
+
+He regarded her for a moment before turning. “Come. There is something I have for you.”
+
+A few months ago, Lucien would have made an effort to avoid being seen leading a woman to a secluded place like the one he now approached.
+
+Now, however, he had largely abandoned such concerns.
+
+He ignored the faint chuckles that followed as he passed, Sera trailing a step behind to his right. When the two guards posted at the storage shed exchanged glances, he made no comment, merely inclining his head in greeting as he stepped inside.
+
+The storage shed had grown noticeably fuller since the last time he had visited two weeks ago. With the roads fully opened, the deliveries he had arranged during his time in Helvarn had proceeded smoothly.
+
+Lucien stepped past them, heading directly to the back where the more valuable items were stored. In a separate space, near where the variant materials had been kept, lay a carefully wrapped bundle.
+
+He approached it, lifting it with care before turning back toward Sera, who had stopped a short distance away.
+
+“This is for you,” he said simply, holding it out to her.
+
+Sera did not reach for it at once. Her pale eyes lingered on his outstretched hands before lifting to meet his eyes, her head tilting slightly in question.
+
+When no further explanation came, she stepped forward and took it, her movements deliberate as she began to unwrap the bundle. The motion slowed as the layers came away, her hands pausing as her eyes fixed on what lay within.
+
+A long case shaped to the length of a long bow, its form rigid beneath the folds of cloth.
+
+It was crafted to hold the weapon in full, enclosing it from end to end rather than leaving any part exposed.
+
+The exterior bore a muted crimson tone, the surface formed from layered material that carried a faint, uneven texture where the variant hide had been worked into it.
+
+The design bore no ornamentation, only reinforced seams running along its length. The opening had been secured tightly enough that nothing inside would shift during travel.
+
+Every part of it had been made with protection in mind rather than convenience.
+
+Lucien’s gaze lingered on the case in her hands for a moment before he cleared his throat softly. “I understand it was you who dealt with the kobold variant. Its materials belong to you by right.”
+
+“But for now, Ashridge requires every advantage we—”
+
+Before he could finish, she shook her head, the motion firm as it cut across his words, causing him to still.
+
+Sera didn't look at him as she lowered her eyes back to the case, her fingers tightening around it as she held it closer to her chest.
+
+For a time, neither of them moved. She adjusted her grip along its length, her touch careful as before, then her movement faltered a beat later. Her eyes darted briefly to the sides of the shed, then returned to the case in her hands, and in that moment, she looked almost...uncertain.
+
+Her gaze shifted again, searching, before resting on him.
+
+Lucien understood, he stepped forward and reached out. “Here.”
+
+Sera hesitated for only a brief moment before passing it to him. With her hands freed, they moved at once to her satchel as she drew out a small scrap of parchment along with a piece of charcoal. She wrote against the surface with firm, deliberate strokes before turning it toward him.
+
+Our Prey.
+
+His gaze was on the parchment longer than necessary even though the meaning behind the words were simple.
+
+He had assumed that the one who had dealt the killing blow held the right to the remains, that was always the way for such things, across both worlds.
+
+Yet that was not how she had seen it.
+
+Lucien's thoughts drifted briefly to the narrow street in Cragwatch, to the moment when the variant had chosen its descent and the instant that followed when the arrow had already been in flight.
+
+The outcome had been decided long before the strike itself.
+
+By both of them.
+
+His eyes finally lifted from the parchment to regard her.
+
+Her posture was the same as always, composed, the earlier trace of uncertainty gone as though it had never been there.
+
+A moment later, Lucien inclined his head in acknowledgment.

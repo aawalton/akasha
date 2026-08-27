@@ -1,0 +1,183 @@
+---
+id: b3c7c12b-642d-5533-831f-bbe7ccd2f00f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80 Ridge"
+slug: 0085-chapter-80-ridge
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 85
+ownLength: 1924
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3553458/chapter-80-ridge"
+royalRoadId: "3553458"
+---
+
+The sun had barely risen over Ashridge when Lucien stepped out from the manor with Sera beside him.
+
+Breakfast had been a quick affair. Alicia had reminded both of them to be careful, especially after learning that he intended to visit the mana-infused area. The place was well known among the villagers, though no one had ever given it an official name.
+
+The two household guards assigned for the trip were already waiting in the courtyard.
+
+A grey-haired guard stood beside the horses with the composure of a man long accustomed to nobles changing their plans at the last possible moment.
+
+Beside him, a younger guard adjusted the strap of his spear and straightened when he saw Lucien approach.
+
+Both guards glanced toward Sera, the red case slung across her back and the hunting bow gripped in her hand, before giving her a slow nod of acknowledgment.
+
+It was a marked change from months ago, when the hunter had drawn far more suspicion from his sworn guards.
+
+Upon his approach, the grey-haired guard saluted. “My Lord. Captain Dorian has increased patrols along the road to the outpost."
+
+Lucien nodded, his eyes drifting toward the southwestern ridge beyond the village. “Were there any reports from last night's watch?”
+
+The younger guard shook his head, a stiff expression on his face. “The southern watch reported nothing unusual, My Lord. We will ensure your safety with our lives."
+
+Lucien couldn't help raising a brow at the younger man. A brief silence followed before the grey-haired guard coughed into his hand. “The horses are ready, My Lord. We may set off at your command.”
+
+The mention of horses reminded Lucien of something.
+
+He turned to Sera. “Do you know how to ride a horse?”
+
+When she shook her head lightly, the grey haired guard opened his mouth, but Lucien spoke first.
+
+“Then you can ride with me.”
+
+Both guards paused for a moment before the grey-haired guard stepped back. Beside him, the younger guard gave a small nod to himself for reasons Lucien couldn't quite discern.
+
+Putting the thought aside, Lucien adjusted his cloak before walking to his horse and mounting it. When he held out a hand, Sera grasped it and climbed up behind him, settling into place.
+
+The grey haired guard had already mounted his own while the younger guard followed, adjusting his sword belt before taking hold of the reins.
+
+Lucien gave the courtyard one last glance before turning his horse toward the manor gates.
+
+“Let us be off then.”
+
+They rode through the village at an easy pace. A pair of villagers hauling sacks near the well just outside the manor courtyard stepped aside as they approached.
+
+A few villagers cast pointed stares toward Sera sitting behind him. Lucien ignored them, having already made peace with the fact that his reputation had been ruined beyond salvage.
+
+They passed through the palisade gate and left the village behind.
+
+Beyond the walls, the road stretched westward through the trees, worn by years of use. It was the same path that led toward Cragwatch.
+
+The ride continued in silence for a time, broken only by hoofbeats and the occasional shift of leather and tack. Behind him, Sera sat with one hand resting lightly against the back of the saddle for balance, her attention lingering on the forest around them.
+
+Before they reached the path that curved northwest toward the fallen village on the ridge, another road branched off from it.
+
+This one still looked raw, cut through the forest by recent labor, with fresh stumps lining the edges where trees had been cleared.
+
+Broken brush had been dragged aside in rough piles, while cart ruts pressed deep into the softened spring ground marked where timber and stone had already been hauled through.
+
+Lucien slowed his horse near the split in the road and studied the new path ahead. He remembered Harlon's warning that the climb near the ridge was where the real difficulty began. Continuing on foot would be safer than forcing horses through it.
+
+He swung down from the saddle. “We continue on foot from here.”
+
+Sera dismounted a heartbeat later, landing lightly on her feet. She adjusted the red case on her back before her hand returned to her hunting bow.
+
+The grey-haired guard dismounted without question while the younger guard gathered the reins as Lucien handed him his own.
+
+“Keep them close. If the climb worsens, we leave them tied before the final ascent.”
+
+“Yes, My Lord.”
+
+They continued up the ridge road on foot, with the younger guard leading the horses behind them.
+
+The farther they climbed, the clearer the difference became.
+
+Around them, the forest drew closer as the path rose. Wind moved through the branches above them, and the occasional movement deeper in the trees reminded Lucien how much of the ridge still belonged to the wilderness.
+
+Sera had already moved to the front, her pace adjusting easily to their slower progress. The grey haired guard stayed near Lucien’s side, watching the road itself, while the younger guard remained behind them with the horses.
+
+For a time, their walk along the unfinished road passed without incident. The only sounds came from deeper within the forest, movement through brush or the rustle of something unseen beyond the trees.
+
+When Lucien asked if they were a threat, Sera glanced once toward the sound and shook her head firmly.
+
+It was not long before they reached a small clearing where the face of the southwestern ridge opened before them and the outpost itself came into view.
+
+In truth, the name carried more weight than the place deserved. A few rough timber structures stood against the rise. He could make out a covered work shelter, several storage sheds, stacked lumber, and a small fire pit near the center sending smoke into the morning air.
+
+It was a work site first, built for men who expected to return tomorrow.
+
+Near the work shelter, Garrick was already waiting. When he spotted them, he gave a nod and raised a hand in greeting.
+
+Two Ashridge guards stood at opposite ends of the clearing, covering the northern approach in case of a wandering beast. They maintained their positions even after spotting him, saluting with their spears instead.
+
+Lucien gave a nod in their direction before speaking to his sworn guards. “Take over their duties while we are here. The least we can do is give the guards on rotation a small break.”
+
+The grey-haired guard dipped his head while the younger guard snapped another salute before both of them moved to carry out the order.
+
+As he spoke with the guards, Sera had already drifted toward the edge of the clearing, her pale eyes fixed on the tree line instead of the outpost.
+
+She turned her head toward him and pointed in the direction of the perimeter.
+
+Lucien gave a small nod in response before making his way toward Garrick.
+
+As he neared, the older man stepped away from the work shelter, brushing stone dust from his hands onto his trousers.
+
+Up close, Garrick looked much the same as he always did. Unkempt brown hair framed a face that looked more suited to tavern lamplight than quarry dust, though the constant layer of stone dust across his clothes quickly corrected that impression.
+
+His gaze shifted briefly toward Sera near the perimeter, then returned to Lucien.
+
+“Lord.”
+
+He returned the greeting before asking, “Harlon told me you wanted to speak with me?”
+
+Garrick rubbed at his stubble briefly, then shook his head. “I will ask about that later.”
+
+He turned and pointed toward the exposed stone further along the ridge where fresh cuts had been opened.
+
+“The work here comes first.”
+
+The miner gestured for Lucien to follow. They walked toward the quarry face, the sounds of work carrying faintly behind them.
+
+Garrick stopped near one of the newer cuts and rested a hand against the pale grey surface. “We’ve opened enough to know what we’re dealing with now.”
+
+Lucien looked over the exposed rock. The cut was still rough, but deeper than the survey trenches had been. “How is the quality so far?”
+
+Garrick nodded and tapped the surface once. “Good stone. Better than I expected when we first came here in late winter.”
+
+His hand shifted lower, tapping once against a lighter section near the edge. “Some of that limestone runs through it. We shave those parts off during the cutting.”
+
+A brief pause followed as his hand rubbed against the lighter section. "...I know Lady Talia said it was important, but it's no use for building, Lord. Any stone with too much of it won't hold up in bad weather."
+
+Lucien crouched slightly, studying the difference in color the older man had pointed out.
+
+To his own untrained eyes, it looked much the same, though he could spot the subtle difference once Garrick had shown him where to look.
+
+“That is fine, Garrick. But there is a proper limestone deposit nearby?"
+
+Garrick gave a slow nod, gesturing toward the lower part of the ridge. “It can be found farther down, and there's enough of it if both of you still intend to move the kilns here.”
+
+His hand rose to rub his temple. "Lady Talia...asked if we could build some supply sheds closer to the water that runs down the ridge. Something about having to mix it with water after burning the limestone?"
+
+The corner of Lucien’s mouth twitched. “I imagine she was rather persistent in her request.”
+
+A rough sound that might have been the beginning of a laugh left Garrick before it faded again.
+
+After a brief moment, the miner's hand rested against the quarry wall, fingers brushing over the rough surface. “Still more interested in the stone that holds walls.”
+
+That was the expected reaction from a man who had spent most of his life dealing with stone that either held weight or failed under it. The idea that pale rock carried greater value than the ridge itself would sound absurd.
+
+Folding his arms behind him, Lucien inclined his head. “While the stone is still important, it will be the limestone that decides how long they stand.”
+
+Garrick listened without interrupting, though his expression carried the same reserved doubt it always did when one was being asked to trust an idea before seeing proof of it.
+
+Instead of attempting to convince him, Lucien decided to shift the topic. “We haven’t found iron yet?”
+
+The miner went silent, looking back toward the higher ridge before answering.
+
+“Nothing yet.”
+
+He rubbed at his stubble as his gaze moved slowly across the face of the ridge. “Still think the ground here favors it. Ground like this...usually carries iron deeper in.”
+
+Turning back to Lucien, he gave a slight shrug. “But we can't be sure yet, Lord. I'd want to see more before I put much faith in it.”
+
+Lucien’s gaze lowered in thought. It seemed he would have to at least consider the possibility of setting up trade with Helvarn’s merchants during his trip there in late spring.
+
+Stone was enough for now, but iron changed the scale of things. It would allow Ashridge to produce its own tools and weapons, and if the ridge truly held it, the village’s future would begin to shift.
+
+When his gaze finally lifted, Garrick was waiting patiently for him.
+
+For a long moment, the miner remained silent, his gaze lingering on the ridge before he finally looked back at Lucien.
+
+“There was something I wanted to ask you, My Lord.”

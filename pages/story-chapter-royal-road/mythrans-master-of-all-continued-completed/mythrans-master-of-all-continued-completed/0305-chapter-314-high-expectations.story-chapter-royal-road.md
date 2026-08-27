@@ -1,0 +1,297 @@
+---
+id: 89bad3c7-5adb-54b8-90af-a8dd93e721f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 314 - High Expectations"
+slug: 0305-chapter-314-high-expectations
+partOf: mythrans-master-of-all-continued-completed
+position: 305
+ownLength: 3171
+unit: words
+publishedAt: 2017-07-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150051/chapter-314-high-expectations"
+royalRoadId: "150051"
+---
+
+“That can't be true!” Elise, the secretary at Sid Tec said after she listened to the footage of Ren getting back onto the ship. “It... it's not possible!”
+
+“You're preaching to the choir, Elise.” Max, the head programmer at Sid Tec said. “We did extensive testing before introducing the 4 times speed for the VR world, and even that's pushing it a little.” He said. “The most, the absolute most time compression a normal brain can handle is 8 times, and that's the limit we added into the code.”
+
+“We didn't use that setting because it was too much of a time dilation after a few sessions.” Edward said. “People just couldn't get used to playing a week's worth of game time every day.”
+
+“It made me a little crazy when I tried it myself.” Max said. “When I came out, I had no idea what day it was or what I had to do.”
+
+“We set it for 4, and that's 2 days during the day, and 2 days during the night.” Edward said. “People took to it like ducks to water.” He smiled. “They could easily wrap their heads around the simple numbers, and could disassociate game time with real time.”
+
+“We also set quests to only run at certain times of the day, so that anyone logging on will have access to it, or just have to wait for the next set time to get it.”
+
+“I know all of this.” Elise said. “I helped set it all up! Why are you explaining it to me now?”
+
+“Well, it's because...” Max had to turn his head away, so he wasn't looking at her. “...the time compression only has to be limited to players.”
+
+“You didn't!” Elise exclaimed. “You're supposed to progress NPCs before adding them to the game!”
+
+“We can't.” Max said. “The coding wouldn't allow it.”
+
+“You wrote the code!”
+
+Max smiled crookedly. “Yeah, and when I tried to make the NPCs modular, it tripled the size of the code needed, and doubled the size of the core game.” He said. “But, with only a few lines of code in a single module...”
+
+“You... you...” Elise started to get angry. “...you put accelerated time inside the core of the game?” She took several deep breaths. “How could you be so stupid?!?”
+
+“Elise.” Edward said, and she looked at him. “The code was locked, and only... only... accessible by the system when it had to ramp up the creation of creatures.”
+
+“Good god.” Elise said and put her head in her hands as she thought about what he'd said. “You aren't spawning creatures, are you?” She asked, then looked at the two men in the boss' office with her. “You're literally growing them in the game and they appear where they're needed.”
+
+“It's a nice bit of code.” Max said. “Instead of endless arrays of the same creature, it generates a new instance for each one, takes up less processing power because they only appear when needed, and it can all be done on the backup and secondary servers and never impact the game play at all.”
+
+Elise pointed at the screen that showed the massive water being waving to Ren. “THAT impacts the game a lot, don't you think?”
+
+“Yes, it does.” Max said. “Why else do you think I came right to the boss with this?”
+
+Elise shook her head. “The things my poor Ren must have gone through while he spent all that time in some pocket realm.”
+
+“I never expected the portal to even appear while he was there, let alone let him through! His affinity and resistance was barely registered at the time!” Max said and showed Ren's Knowledge stats. “He was only at Beginner level 2!”
+
+“What is it now?” Elise asked, and Max didn't say anything. “Max.”
+
+“He's at 100% for both affinity and resistance for the Water element.”
+
+“I think that's definite proof he went through accelerated time.” Edward said. “It takes a long time to gain that much knowledge about an element.”
+
+“Forget about that!” Elise said. “What are we going to do about this whole situation?” She asked. “We can't have any other players subjected to this hidden game mechanic!”
+
+“No one else has.” Max said.
+
+“What?”
+
+“After his little book trick to get his Fire Knowledge topped at 100%, we... ah...”
+
+“You can't keep doing that!” Elise said. “How many things have you altered in the game now, because of the things Ren's done?”
+
+“Elise, he keeps finding holes in the game that we sometimes need to plug.” Edward said. “Like this one.”
+
+“I'd like to know how he got around the player lock on the pocket realm.” Max said and stood up. “He shouldn't have access to things like that. I'll go back and watch the footage to see if there's any clues.”
+
+“Can you plug this hole?” Edward asked Max. “This is not something we want to get out.”
+
+“Why are you so concerned about that?” Elise asked. “Shouldn't you be worried about how it affected Ren?”
+
+“I am worried about that.” Edward said. “Why don't you go and see how he is.”
+
+Elise looked at him with a slight frown.
+
+“We'll try and see what happened on this end.” Edward said. “I'd like for you to find out what happened from his end.”
+
+Elise took in a deep breath to calm herself. “I was going over to see him after work anyways for a date.” She said. “After hearing about this, I really want to see if he's all right; but, I wasn't planning on making it an investigation.”
+
+“Don't investigate him.” Edward laughed. “Just ask what happened. I'm sure he'll tell you everything.”
+
+“Fine.” Elise said. “I just hope you aren't expecting this to be a regular thing.”
+
+“Are you breaking it off with him, then?” Edward asked.
+
+“WHAT?” Elise said, indignantly. “Of course not!”
+
+Edward smiled. “I won't ask you to divulge any private details; but, I would like any information about the game itself.” He said. “Please.”
+
+“I... I guess that's reasonable.” Elise said, reluctantly.
+
+“Thank you.” Edward said and glanced at the clock on the wall. “I see it's well past quitting time for the office staff.” He said and stood up. “This has top priority, and we will fix it.”
+
+“Thank you, sir.” Elise said and stood, then left the office.
+
+*
+
+“What are we going to do?” Edward asked Max when Elise shut the door to the office. He sat back down and rubbed his temples. “If Ren's been adversely affected by this...”
+
+“The longest anyone in testing could go was a month of accelerated game time.” Max said and shook his head. “That's only 10 minutes of real time, and it took us almost a week to convince him the real world was real and that he wasn't playing a special stage in the game.”
+
+“And Ren was in for...”
+
+“About 45 minutes.” Max said.
+
+“Good god.” Edward said. “You better double the code locks on the pocket realms. No one else can get access to them.”
+
+“I can't.” Max said.
+
+“WHAT?!?”
+
+“I set the system AI to quarantine them and to set the code locks months ago.” Max said. “I can't undo the locks to add to them.”
+
+“Then get the system AI to do it.” Edward said. “This can't happen again.”
+
+“It shouldn't have happened this time.” Max said. “I really don't have any idea how it did. I checked the locks, and they're still intact.”
+
+“What does that mean?” Edward asked.
+
+“It means, according to the logs and the system records, Ren didn't access the pocket realm at all.”
+
+********
+
+Teepo woke Ren up when it was time for him to leave for his Adventurer's business, and Ren told his personal maids that he would be gone for a day or two. They were saddened by this, until he kissed them all again. They laid back down and cuddled with him, and Ren prepared himself mentally for what was to come.
+
+“Logout.”
+
+********
+
+Ren woke up in bed, and slipped off the VR headset.
+
+“Oh, Ren.” Stella said. She sat by the bed with tears in her eyes, and Ren saw there was a tray of food on the rollaway table.
+
+“Why are you crying?” Ren asked her.
+
+“You... a year and a half...”
+
+Ren sat up and stretched. “I'm still a bit sore.” He smiled and rubbed his chest. “I can't say I missed this feeling.”
+
+“Oh, Ren!” Stella said as she stood up and hugged him. “Are you okay?”
+
+Ren hugged her back. “I'm fine.”
+
+Stella let him go and leaned back. “I need to examine you to make sure.”
+
+“If we have the time.” Ren said. “Elise is going to be here soon, and I want to take a shower first.”
+
+“What?” Stella looked at the phone. “She didn't call.”
+
+“I talked to her in the game.” Ren said and slid off the bed. “I can probably do it myself now, but I'd appreciate a hand.” He smiled. “It should go twice as fast with the both of us working.”
+
+“Ren, we really should...”
+
+“You can check me out while I wash.” Ren said and walked to the bathroom. “Even though I was in for so long, I never forgot how weird it was to feel like this.” He said and took off his clothes. Stella followed him into the bathroom and got undressed herself, set the shower, and started to wash Ren off. He lathered up his hands and while Stella worked on his chest and arms, he worked on her chest. She was having a hard time keeping her thoughts together as he massaged her thoroughly, and was diligent in his ministrations.
+
+“Ren...”
+
+“By the gods, I missed you.” Ren said and kissed the tips of her now sparkling clean breasts. Stella caught her breath and her body reacted to the attention. “After seeing you so much, and depending on you for everything...” He sighed. “Then I went a whole year and a half without seeing your face, or your smile, or these beautiful breasts.”
+
+“Ren...” Stella tried to speak, then he suckled hard on her. “Oh, god!”
+
+Ren tried to restrain himself from going too far; but once he had her flesh in his mouth, he lost all reason. Stella could feel the desperation in his touch as Ren played with her; and when his hand slid between her legs, she didn't protest in the least and even moved her legs apart to accommodate him.
+
+“Play with me.” Ren said to her, and she didn't hesitate at all as she grabbed onto him and started to massage him. “More.” He said and didn't let his own hands lose their motions and he worked her over well. “More!”
+
+“Ren... I... almost...”
+
+“Me...me, too.” Ren said.
+
+After only another minute, Stella felt something burst from her, and she gripped Ren tightly and she felt him burst onto her. They both had finished quite quickly, and tried to catch their breath.
+
+“Good god.” Stella said, and looked down at the mutual mess they had made. “I'm really glad we're in the shower.”
+
+“Me, too.” Ren said. “Stella, I... I'm sorry... that was so sudden, and I...” He reached up and cupped the side of her face. “Thank you.”
+
+“It was my pleasure.” Stella said, then looked down again. “Our pleasure.”
+
+Ren chuckled and lathered his hands up again. “Round two?”
+
+Stella shook her head. “We can't.” She said. “Elise is going to arrive soon, and we should finish washing.”
+
+“That's what I meant.” Ren said and grinned at her blush as he scrubbed her abdomen, then scrubbed her private area and her thighs. Stella was amazed that he had switched so quickly from having his movements mean something sexual for the both of them, to have the movements only mean he was cleaning her off. She no longer felt the tension or desperation in his touch, and she wasn't sure what to do with that information.
+
+“Can you grab us a couple of towels?” Ren asked.
+
+Stella hopped out of the shower and grabbed them. She helped him dry off and dried herself off, and Ren put on his robe as Stella dressed herself.
+
+“I'm thinking something loose, like a big t-shirt and maybe jogging pants.” Ren said when he went out to his room to get dressed. “You know what? On second thought, I think I want to look good for her.” He smiled and took out his fanciest shirt and pants. Stella helped him get dressed, and he sat on the side of his bed to wait. Stella had forgotten his food on the rollaway table and checked it. It was cold, so she went to reheat it. She came back in a few minutes later with it and put it back on the rollaway table, then Elise came into his room.
+
+“Ren!” Elise said, and her face looked like she was a little frantic. “I came right here as soon as I got off work!”
+
+“Hey, beautiful.” Ren said and smiled. “Long time no see.”
+
+“Ren!” Elise exclaimed. “This isn't something to joke about!”
+
+“I'm sorry.” Ren said and lowered his head. “Please, forgive me.”
+
+“What... what are you doing?” Elise asked and put a hand under his chin to lift his head. “Stop that!”
+
+Ren looked at her with wide eyes. “You're not going to forgive me?” He asked. “I wasn't actually joking, Elise. It really has been a long time since I've seen you.”
+
+“Ren, you...” Elise closed her eyes for a moment, sighed, and opened them. “I know it has. I forgive you.”
+
+“Thanks!” Ren said and beamed a smile at her.
+
+“Ren, are you okay?” Elise asked.
+
+“I'm fine.” Ren said. “In fact, I feel all energized after my shower.”
+
+“Ren, how... what...” Elise shook her head. “Can you tell me what happened?”
+
+“Sure.” Ren said. “Can I have a kiss first?”
+
+Elise caught her breath, because she had forgotten that she wanted to give him a kiss right away. She nodded and leaned in close, and Ren let out a trace of how much he missed her for all of the time he had been gone. Elise could feel his heart beating in his chest as he held her close and kissed her like he was never going to see her again. She wrapped her arms around him, and held him gently but firmly.
+
+The kiss went on for several long uninterrupted minutes. Elise's mind lost all of the questions it had about Ren, and her body responded to his desperate need. Blood flowed to certain areas, almost to the point that it was almost painful. Ren eased his lip movements down to a trickle, broke the kiss, then hugged her and put his lips by her ear.
+
+“I've dreamt about getting to kiss you again.” Ren whispered to her, and Elise shivered at the feel of his breath on her skin. “It was even better than I imagined.” He said, and nuzzled her earlobe. “You smell so nice.”
+
+Elise took in a deep breath and let it out slowly. “Ren... as much as I like this... god, I really like this... please, tell me what happened.”
+
+“I said I would.” Ren said, kissed her neck, and let her out of the hug. Elise let him go, and he smiled at her. “I was just about to eat. Have a seat, and I'll tell the both of you.”
+
+“Both?” Elise asked, and looked around. “Oh! Hi, Stella.”
+
+Stella laughed. “After that kiss, I think I'll forgive you for missing me as I stood right here in plain sight.”
+
+Elise smiled and nodded, and Stella moved the rollaway table over for Ren to eat.
+
+“Thanks, Stella.” Ren said. “Now... where do I start...”
+
+“At the beginning.” Elise said.
+
+“Okay.” Ren said. “In the beginning, there was nothingness.” He said and took a spoonful of soup. Stella and Elise hung on his words, and he smiled. “ Darkness permeated everything; and then a phrase was spoken. 'Let there be light!'. Then there was.”
+
+“REN!” Stella and Elise yelled.
+
+Ren laughed and laughed, and Stella did her best not to strangle him.
+
+“Ren, stop joking around.” Elise said. “This is serious!”
+
+“Why?”
+
+“What?”
+
+“Why is it serious?” Ren asked and kept eating his bowl of soup.
+
+“You spent a year and a half inside a virtual reality simulation in only 45 minutes!” Elise said. “None of us saw anything but a blue screen for all that time!”
+
+“That's probably because none of the in-game deities like others looking in on them.” Ren said, then shrugged. “Or the video rendering software couldn't handle the massive load of information.”
+
+“That makes sense.” Stella said. “I'm glad that didn't happen with the research computers.”
+
+Ren picked up a piece of bread and dipped it into the broth. “Me, too.” He said. “I wouldn't mind doing those tests again, though.” He grinned. “They were fun.”
+
+“Ren.”
+
+“Right, right.” Ren said. “Well, it all started when I wanted to inspect the ship's engine while we were on the open sea...”
+
+Ren gave them a rundown of the captain taking him to Shoal Island, and finding the water elemental inside the engine for the ship, then about removing it.
+
+“Oh, god.” Elise said and put a hand over her mouth. “I'm going to kill Max!”
+
+“If it was his idea to do that, then go ahead.” Ren said. “It was... pretty bad.” He sighed. “You can watch the footage if you want.” He said and motioned to the laptop. “After I captured the engine room crew and went up on deck, the water elementals showed up...”
+
+Ren told them about the massive water being picking him and the other prisoners up and taking them to the Water Realm.
+
+“That shouldn't be possible.” Elise said. “How did you get through the portal?”
+
+Ren smiled. “I technically didn't go through the portal.”
+
+“Wait, what?” Elise asked, surprised.
+
+“I was captured and dragged through.” Ren said. “Teepo had to dissolve into the ring, just in case.”
+
+Elise was tempted to call her boss right away with that small and very important piece of information; but figured she should listen to the rest of Ren's story first, just in case there was any other revelations.
+
+Ren told them about negotiating for the prisoners, and striking the deal for a year and a half of hard labor.
+
+“Ren, how... why...”
+
+“I knew what it was like, you see.” Ren smiled. “The deity was so surprised I would offer so much time, they agreed not to kill everyone for the death of one of their citizens.”
+
+Elise shook her head. “You volunteered to stay with them, didn't you?”
+
+“No, I was guilty.” Ren said. “I did kill it when I removed it from the engine.”
+
+“Ren, that was...”
+
+“It still died.” Ren said. “With the terms of our imprisonment and release settled, we began working on the castle...”

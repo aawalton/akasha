@@ -1,0 +1,221 @@
+---
+id: 82da1408-0555-5ebe-86e9-319d52b13e80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120 Framework"
+slug: 0126-chapter-120-framework
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 126
+ownLength: 2578
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3868647/chapter-120-framework"
+royalRoadId: "3868647"
+---
+
+Idly adjusting his cloak over the shoulder harness, Lucien exhaled at the strain in his shoulders. It didn't help that the summer sun beat cheerfully against his back as he made his way toward the northwestern housing site.
+
+Practice with Sera had been longer than usual after the hunter expressed her...disappointment at his recent distractions with work by placing another arrow in his hand every time he tried to leave.
+
+When he explained patiently that it could not be helped, she simply crossed her arms and pointed at the target.
+
+It seemed Sera must have known about his attempts to avoid practicing in this heat somehow. Could she actually tell when he was lying from his heartbeat alone?
+
+He shook his head faintly, taking a cloth from his pocket to wipe the sweat from his brow. At least he wasn't wearing his black outer coat around like a fool anymore.
+
+It had been obvious in hindsight. He had initially thought that as a noble, he was meant to be dressed impeccably at all times. When Talia suggested he simply take it off and go with a shirt instead, that was exactly what he replied with.
+
+The memory of the dumbfounded look his junior gave him caused him to wince. It was pure luck that there had only been the two of them in the room, or their secret as transmigrators might as well have been out by now.
+
+Sure enough, no one batted an eye when he went without his outer layer from the next day onward. In fact, Alicia had breathed a sigh and mentioned that she had been wanting to ask him about his strange choice in clothes during the hot season.
+
+Elias gave a subtle nod of approval when he spotted the cloak draped over one shoulder, though judging by that reaction from the elderly steward, perhaps even that wasn't something he was expected to wear at all times.
+
+Upon nearing the site, Lucien set that thought aside, his eyes moving to observe the refugees living within the newly built longhouses.
+
+According to word from the patrols Dorian had sent out, the second wave would arrive today if there were no unexpected delays. Knowing that, Lucien had decided to be there for their arrival.
+
+The sight before him was both familiar and unfamiliar at the same time. Four tables had been set up, with the scribes and Alicia seated behind them, the forms prepared over the last few weeks stacked neatly before them.
+
+What made him pause was Aisha standing near Alicia’s table, clutching a small stack of wooden markers with both hands as if afraid she might drop them.
+
+Only when Alicia exchanged a few words with her did the girl finally calm down.
+
+From a distance, he spotted Talia standing suspiciously far away from Harlon, her arms crossed. She met his eyes and gave a wink while he shook his head.
+
+It was just like Talia to arrange for the girl to be present while the second wave of refugees were due to arrive at any moment.
+
+When Alicia spotted him, she lifted a hand in a small wave. He returned it before making his way to Harlon, who was overseeing the final arrangements for the new arrivals.
+
+As he neared, the carpenter dipped his head.
+
+“Lord.”
+
+Lucien returned the gesture before looking over to where the first of the longhouses had been built.
+
+They no longer looked quite as temporary as they had when the first beams had gone up.
+
+Smoke curled from clay-lined cooking pits near the open spaces between buildings, while strips of washed cloth hung from lines tied between posts. A few children chased one another along the packed dirt paths until an older woman called them back with a sharp word.
+
+Alongside that fragile sense of normalcy, others moved with an urgency driven by the second wave of people due to arrive today.
+
+A man hauled sacks of goods toward the empty longhouses, clearly knowing from experience what the arrivals would need first, while two women sorted kindling into small bundles beneath the shade of a half-finished awning.
+
+Farther away, several refugees carried baskets toward the storage shed Harlon had insisted on placing near the center rather than against the wall.
+
+Beside him, Harlon puffed on his pipe. “We've been digging the sanitation ditches before putting up the longhouses, Lord. Easier to set the layout properly that way.”
+
+He gestured toward the southwestern approach. "They run along the back of the houses, then down southwest to the pit outside the wall. Covered where people walk, open where I can still get men in to clear it."
+
+Lucien inclined his head. “The wastepit has been dug where we discussed, then?”
+
+"Aye. It was one of the things we focused on alongside getting these shelters ready...but the courtyard building had to be delayed because of that," Harlon replied, crossing his arms.
+
+A brief moment later, he grimaced. "Despite being Lady Talia's idea...she's careful enough to insist on it."
+
+That looked like it took the older man some effort to admit.
+
+Lucien shook his head. "Talia might be...overly excitable at times, but she's careful where it matters, Harlon."
+
+A huff escaped the older man. “She's certainly eager to give more work to me, Lord. Used to be I only had to worry about timber and roofs. Now, I have to plan waste channels and make sure they don't stink up the houses, poison a well, or turn into a stream every time it rains.”
+
+The corner of Lucien's mouth twitched. “At least she's been helping with the villagers' proposals instead of leaving them to you.”
+
+“...Only because that’s the sort of work she likes, Lord,” Harlon muttered.
+
+It had been several days since his announcement, and most of the inquiries had been directed toward Talia, who had anticipated as much and chosen to remain in her shop.
+
+Of course, that meant she hadn't been helping Harlon at the building site.
+
+Lucien glanced at the carpenter, who seemed on the verge of grumbling again, and raised a brow. “You would prefer them coming to you instead?”
+
+“...No,” Harlon sighed after a moment. “I still think she's avoiding the site on purpose. Could've easily come here to answer questions. Instead, she said something about people talk more easily over a counter than beside a ditch, Harlon.”
+
+The annoyed look on the carpenter's face told him plenty about what the older man thought of that.
+
+“...That sounds like her.” Lucien nodded, exchanging a brief look with the older man before they both looked toward the registration tables. As if sensing their attention, Talia looked over and gave them a bright, innocent wave.
+
+Harlon exhaled through his nose. “Enough of that, Lord. We have other concerns.”
+
+His gaze shifted to the people moving through the half-built neighborhood. “They can dig ditches and haul timber well enough, Lord. Turning that timber into proper houses is another matter.”
+
+The carpenter drew on his pipe and blew the smoke out slowly, his eyes moving toward the stacks of timber waiting beside the unfinished frames.
+
+“The sawmill still has its problems, but the greater one is the lack of skilled hands once the timber starts coming through.”
+
+Lucien's gaze lowered slightly as he considered the problem. From the corner of his eye, Aisha walked past them, carrying more forms for the tables.
+
+The forms reminded him of the labor records they had already gathered.
+
+He turned back to the carpenter. “The people assigned to construction were chosen based on the skills they reported on the labor forms.”
+
+“How have they held up over the past month, Harlon?”
+
+Harlon's brows furrowed slightly at the change of topic. After a moment, he grunted. “They aren't carpenters by trade, though they can handle the simpler parts well enough.”
+
+Lucien rubbed his chin, giving a slow nod. “They don't need to be. Have your men teach different groups one part of the work properly. Raising frames, cutting pegs, setting posts, fitting boards...whatever can be repeated."
+
+"They can learn while helping build the second group of longhouses for their fellow refugees.”
+
+Harlon drew on his pipe, considering the idea. “So they become good at one part instead...” He let the smoke out slowly. “It would make things faster that way. The village doesn't need so many carpenters once all this construction is done.”
+
+“Yes. But keep an eye out for anyone with talent, Harlon. Have your men supervise each group for the part they are meant to learn, then go from there.”
+
+Lucien gestured toward the courtyard design. “We will need their help if we are to slowly convert the longhouses into the design Talia suggested.”
+
+”Inform the masons as well. There may be some among the refugees interested in stonework too.”
+
+Harlon rubbed at his beard, his gaze moving across the row of longhouses. “That could work...though it’ll mean I spend more time telling men how to work than doing the work myself.”
+
+Judging by his tone, the carpenter disliked the role he was slowly finding himself pushed into. Before Lucien could respond, however, voices rose from beyond the northwestern site.
+
+Both men turned toward the commotion. Harlon already wore a tired look, even as the brightness in Talia's face grew.
+
+Aisha's nervousness came back with a force, the forms held against her chest while Alicia gave her shoulder a reassuring touch.
+
+Near the road, one of the guards lifted a hand and called toward the tables.
+
+From the northern gate, a line of people gradually approached.
+
+Men and women walked with bundles tied across their backs, their clothes pale with dust from the road. A few pushed handcarts with uneven wheels, while others carried children who had long since grown too tired to walk.
+
+They were led by two of his household guards, with several more Ashridge guards spaced along the sides and rear to keep the column together. Dorian had decided not to send Henric and Merek this time around, choosing two other men who were more rested instead.
+
+The guard at the front looked almost too relaxed for someone returning from escort duty. His long hair had been tied back in a loose tail, and even with dust on his boots and travel weariness on his face, he guided the first families toward the tables with an unhurried wave of his hand.
+
+The other guard was almost impossible for Lucien to miss. He was one of the tallest men Lucien had met since coming to this world, standing almost a full head above most of the people around him.
+
+Tired refugees seemed to part around him without being told. Yet when an old woman stumbled near him, the tall guard was the first to step forward, one large hand steadying her arm with surprising care.
+
+A moment later, the man looked toward the growing crowd, and whatever gentleness had been there vanished behind a neutral expression.
+
+It didn't take long before the registration tables came to life, reminiscent of when the first wave had arrived. Like before, the refugees began to line up, favoring Alicia's table until Aisha stepped nervously forward to guide the others to the scribes.
+
+Murmurs began to spread as the refugees focused on the child who barely a month ago had been one of them. Some of the women waved at her, and she bowed in return, a flush spreading across her face.
+
+As they began to relax, Talia, from across the site, winked conspiratorially at Lucien, who merely shook his head ruefully.
+
+He would have made his way to his junior if not for a small group of men approaching Harlon and himself. They held themselves differently from the refugees, walking apart from the main line.
+
+Their hands were rough, their arms marked by old burns, and even the packs on their shoulders seemed weighted with tools rather than household goods.
+
+It seemed his call for smiths had finally borne fruit, though Lucien's brow furrowed when he spotted an older man at the front.
+
+The older man was close to Joren’s age, broad through the shoulders, with iron-gray hair bound at the back and a face that looked as if it had spent years refusing to soften for anyone.
+
+A travel-stained sash crossed over his chest, worn over practical clothes darkened by soot that no washing had fully removed.
+
+Harlon noticed the direction of his gaze and followed it, his brows rising.
+
+"That's not a journeyman, Lord."
+
+"How do you know?" Lucien asked, turning slightly toward him.
+
+Harlon gestured toward the sash. "That sash there marks him as a master of his trade...though we rarely wear it while we're at work...or at the frontier, really. No one cares about that sort of thing around these parts."
+
+Before Lucien could ask more, the older smith had reached them. He exchanged curt words with the two younger smiths before stepping forward toward Harlon.
+
+"Where is that oaf Joren?" the man demanded.
+
+Harlon stared at him.
+
+The older smith's eyes narrowed, apparently seeing only the carpenter instead of the young lord standing beside him in a shirt, cloak draped over one shoulder, and sweat still drying at his brow.
+
+Finally, Harlon coughed once into his fist before his eyes moved, very deliberately, toward Lucien.
+
+Following his glance, the man froze when he took in Lucien's face, the cloak, and the space that the surrounding villagers had instinctively left around him.
+
+The smith's expression changed at once as he dipped his head abruptly. "My Lord."
+
+Lucien inclined his head, deciding not to make the matter more uncomfortable than it already was.
+
+“You are looking for Joren?”
+
+“Yes, Lord.” The smith’s voice had become several shades more polite, though not necessarily less impatient. “If it pleases you, I would like to know where the smith is.”
+
+Lucien gestured toward the direction of the forge. "He will likely be at his forge. You may approach one of the militia to direct you there."
+
+"Thank you, My Lord. Then...I will be off now." He bowed once more before turning on his heel.
+
+It was less a walk than a march, the man not even bothering to wait for the younger smiths.
+
+The two journeymen exchanged a look, dipped their heads, then hurried after the man.
+
+For a brief moment, Harlon and Lucien stared after them before the corner of the older man's mouth lifted.
+
+“Seems like Joren's past caught up to him.”
+
+Lucien glanced at the carpenter, a dry look forming on his face. “...Don't tell me you know something about him too. Do you know everyone's history, Harlon?”
+
+Harlon let out a small huff. "Not a strange thing, Lord. If you've been around these parts at my age, you learn a lot about the people here."
+
+Lucien exhaled faintly, about to reply, only to stop when he noticed the two household guards making their way over.
+
+The guard with the tied-back hair slowed first, offering a slight bow, while the taller guard came to a stop with the same neutral expression he had worn after steadying the old woman.
+
+“My Lord. There is something you and Captain Dorian should know.” He glanced toward Harlon, who took the hint and made to leave.
+
+“I will gather the men and tell them what we spoke of, Lord,” Harlon said, raising his hand.
+
+Lucien nodded before turning toward the guard. “What is it?”
+
+"There were signs of beasts on the way back, My Lord."

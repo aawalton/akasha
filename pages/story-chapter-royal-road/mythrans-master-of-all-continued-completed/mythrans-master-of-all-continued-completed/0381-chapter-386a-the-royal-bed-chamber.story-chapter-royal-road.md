@@ -1,0 +1,183 @@
+---
+id: 91229038-7455-504f-9085-f6764900695c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 386A - The Royal Bed Chamber"
+slug: 0381-chapter-386a-the-royal-bed-chamber
+partOf: mythrans-master-of-all-continued-completed
+position: 381
+ownLength: 2373
+unit: words
+publishedAt: 2017-10-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167676/chapter-386a-the-royal-bed-chamber"
+royalRoadId: "167676"
+---
+
+Ren could feel how uncomfortable Lylyth was as she led him to her bed chamber, and he wasn't sure what to say to make her more comfortable with the situation.
+
+“Whoa, really?” Ren asked as they went into the room, and saw it was just a huge funnel web. “No bed or anything?”
+
+Lylyth chuckled. “It's inside.”
+
+“Oh, okay.” Ren said and walked up onto the web, much to Lylyth's surprise. She had expected to carry him over the sticky webbing, and then have to be careful where he lay in case he became stuck. She watched as he came to the steep part, then used his hands to quickly crawl up and into the middle of the large funnel, then disappeared over the edge.
+
+“Hey, it's really nice in here.” Ren said.
+
+Lylyth shook her head in resignation. I don't know why I'm surprised. She thought and followed Ren into her parlour to see him as he sat on the end of the large bed. “So, you like it, do you?”
+
+“I sure do.” Ren said. “The bed is a little hard, but that's fine for what's about to happen.”
+
+“Ren, I...” Lylyth sighed. “I can feel from you that you're going to do your best...”
+
+“Hey, don't judge me before anything happens.” Ren said and stood up. “I know I'm only half your size, but that's only height.” He said and smiled. “Once you lay down on the bed, it won't matter how tall you are.”
+
+“Ren...”
+
+“Lylyth, please.” Ren said and reached a hand out to her. “Take my hand and tell me what you want.”
+
+Lylyth hesitated for several moments, then slowly reached out and took his hand.
+
+“I know it's a lot to ask of you, but... I want... I want to feel you. All of you.” Lylyth said and looked down between his legs. “Even though you are only half my size, I still want you inside of me so I can feed from you without limit.”
+
+“That's exactly what I wanted to hear.” Ren said and smiled, and since they were touching, they each knew that the other was telling the truth. “Do you want me to take off those scraps of cloth you're wearing, or do you want to do that yourself?”
+
+Lylyth chuckled and did a little wiggle with her chest. The cloth covering her breasts fell off, hit the cloth around her waist, and they both fell to the floor to reveal her dark skinned beauty.
+
+“Now that was cool.” Ren said, and Lylyth felt his appreciation.
+
+“You aren't allowed to feed.” Lylyth said. “Not until I do.”
+
+“I understand.” Ren said. “Ladies first.”
+
+Lylyth smiled and climbed onto the bed. It was large by normal standards; but, since she was over 9 feet tall, it was just a normal-sized bed to her.
+
+Ren reached into his Dire Wolf Hooded Cloak and took out the spider, and placed it on the closest web. “I hope this is okay.” He said and stored the cloak. “I don't know what would happen if I stored the cloak with the spider still on it.”
+
+“I don't know, either.” Lylyth said. “You're the first Adventurer to have one.”
+
+“I am?” Ren asked, and she felt his pleasure at being the first. “Thank you.”
+
+Lylyth chuckled. “Oh, my dearest. I've gotten so much more out of it than you have.”
+
+Ren chuckled, too. “You can tell me all about it when I'm done.” He said and stored all of his clothing except for his underwear. Lylyth reached out and touched the cloth.
+
+“I've got a few things to do before that.” Ren said. “Lean back and relax. This is going to take a while.”
+
+Lylyth shook her head. “I doubt... oh!”
+
+Ren dove between her legs and started to work her with his mouth. He'd been there before, so he remembered the spots that had excited her the last time and attacked them.
+
+“Mmm.” Lylyth moaned as Ren worked on her. He added a finger, then two, then his whole hand. It made her gasp, and it gave him a unique perspective on female anatomy. With his entire hand available, he could reach spots that fingers alone couldn't reach, and he explored everything that he could.
+
+“Oh... OH... oh... OHHH!” Lylyth's body twitched a little, and Ren mentally marked the spot to save for later and kept looking for other spots that he needed to hit inside of her. After nearly 20 minutes, Lylyth had gone several times, and her breathing was quite heavy.
+
+“Ren, please... let... let me...”
+
+“I'm starving you on purpose, you know.” Ren said and smiled. “I guess I can give you some of my enjoyment now.”
+
+Lylyth gasped as Ren let the flood of his enjoyment of her reactions out and she swallowed them greedily.
+
+“Time to give you more.” Ren said and once again dove between her legs. This time, he pumped all of his enjoyment into her, and Lylyth moaned as he licked and kissed her. Rather than using his whole hand, like he did to find the spots, now he only poked the spots with a fingertip.
+
+Lylyth's body writhed as he fed her his feelings and pleased her at the same time, over and over. It was almost an hour later when she spoke again.
+
+“Great Vasalor, how can you... you... you want to keep going!” Lylyth said, surprised.
+
+“I told you, I really like this part.” Ren said and kissed her special place again.
+
+Lylyth took several deep breaths and eased off her feeding. “Ren...”
+
+“All right.” Ren said and stopped licking her. “One of these days, I'm going to be with a woman that's just going to let me go down on her all the time.” He said, and Lylyth felt what he felt about that.
+
+“Oh... OH!” Lylyth said and finished again. Ren laughed at her reaction, and crawled up the bed to kneel in front of her face.
+
+“It's my turn to feel good.” Ren said and stored his underwear to reveal a very hard and ready member.
+
+“Great Vasalor!” Lylyth said and stared at his 8.5 inch long, 2.5 inch wide member. “It's... it's...”
+
+“It's not going to suck itself.” Ren said, and she felt his wicked streak.
+
+“Oh, Ren!” Lylyth gasped from the wicked feeling and fed on it, then slipped his member into her mouth. No wonder he was so confident that he could please me!
+
+Ren stared at the large woman giving him oral sex, and he could feel how surprised and happy she was that he didn't have a normal-sized man part. He built that feeling up within himself, since it wasn't a feeling he'd experienced before, then was true to his word. He poured it all back into her without feeding on it himself, and she sped up her movements.
+
+While she fed on him, Ren decided to play with her giant breasts. He needed both hands to cup one of them, and he licked and sucked on the tip. Lylyth moaned with him in her mouth, and he really liked that feeling and did her other breast to get her to moan again.
+
+Lylyth moaned as she sucked and licked him, and kept her hands busy while she played with herself. She slipped him out of her mouth and spoke.
+
+“Ren, give it to me!” Lylyth said and sucked him all the way down. It wasn't as impressive as when Stella or Lisa did it, since Lylyth was so large and didn't have to struggle with it; but, she could also open her mouth a little wider and licked at the same time as she sucked. He'd never felt anything like that before, and he dug his hands into her hair.
+
+“It's coming, Lylyth.” Ren said and started to thrust.
+
+Lylyth moaned as she felt Ren letting his inner emotions out. Here it comes! The moment! My moment to feed! She thought and sucked harder.
+
+“By... by the GODS!” Ren yelled and finished, and his emotional block that he had made when Grimlow had come into the throne room disappeared. He spilled himself down Lylyth's throat as his emotions spilled down into her ability.
+
+Great Vasalor! Lylyth thought and kept sucking on him. There's so much!
+
+Because Ren kept feeding her both physically and emotionally, they stayed that way for almost a full minute before Lylyth started to falter in her technique.
+
+He... he's not stopping. Lylyth thought in surprise. He just keeps going!
+
+Ren could feel the change in her emotions, and he stopped thrusting and let her head go. He sat on his heels, which pulled him out of her mouth, and he sprayed a little over her face and chin before he could ease the flow.
+
+“I'm sorry.” Ren said and took out a piece of cloth to wipe her face off. “Do you need a break?”
+
+Lylyth felt his emotions turn to concern for her. “Are you serious?” She asked. “You want to know if I need a break?”
+
+Ren nodded.
+
+“Great Vasalor!” Lylyth exclaimed. “Get inside of me right now!”
+
+Ren could feel her determination to drain him as much as possible, and he moved down to position himself at her opening.
+
+“Close your eyes.” Ren said. “I want to feel you feeling it for the first time without you seeing it.”
+
+Lylyth opened her mouth to order him to shut up and start pounding her as hard and as fast as he could: but, she could feel that he really wanted that first feeling from her.
+
+“You've given me a very good starting meal.” Lylyth said and closed her eyes.
+
+Ren took out a wand with Iron Body spells and switched it with his Energize wand held by the Hand of Glory, then cast Iron Body on himself.
+
+“You can feed, too.” Lylyth said.
+
+“I was going to anyway.” Ren said and felt instant indignation from Lylyth, then shoved himself inside of her. Her eyes flew open as she felt both surprise and shock, and Ren absorbed them. Unlike what Elerlyth and Lylyth did, he didn't try to chew emotions up or try to eat them; what he did was accept them as a part of himself and let the ability take as much as it wanted.
+
+Lylyth stayed full of shock and surprise as Ren started to have sex with her, and stared at him. What is he... he has the same ability, but... what is he doing with it?
+
+Ren could feel her curiosity starting to grow, and he didn't want her to think about anything except him and feeding. He used his member and directed it to poke one of her sensitive spots, and he felt her feelings turn to where he wanted them to go.
+
+That's it... enjoy it... because you're going to get a surprise soon. Ren thought, and Lylyth felt his wicked streak again.
+
+“Oh... oh, Ren... oh!” Lylyth said. He... even though he's only a halfling... She thought, and then Ren poked a sensitive spot over and over until she finished. “AHH!!!!” She yelled as she finally had a full orgasm. Her body started to shake uncontrollably, but Ren didn't stop. He kept going, and so did she, and they both fed on the emotions they stirred up in each other.
+
+Lylyth had mastered her ability centuries ago, and her body started to glow as Ren fed her more and more of his emotions. Ren on the other hand, had only just received his ability; but, since Lylyth was the Queen of the Dark Elves, her emotions were just as strong and powerful as Ren's were, and he fed well.
+
+They stayed together for almost an hour, in different positions and used different techniques, and when Lylyth said she was getting tired, Ren made her go once again and pulled out of her. He saw that his Emotion Siphon ability was up to Intermediate already, and watched as Lylyth rolled over onto her back and had a happy expression on her face.
+
+I've unlocked more of my old abilities. Lylyth thought and smiled at Ren. Who would have thought this little man could do something like this for me?
+
+“How was that?” Ren asked. “Do you think that will pass 'The Queen is satisfied' test?”
+
+Lylyth chuckled. “Yes, dearest.” She said and cupped the side of his head. “It will pass the test.”
+
+“Well, that just won't do.” Ren said, and knew that now was the time for her surprise. Lylyth looked at him, and she could feel his wicked streak gape open and flood into her.
+
+“Wh-what are you doing?”
+
+“I'm going to make you happy.” Ren said and stood beside the bed. He used an Energize spell on her to refill her Stamina, which surprised her; then he took out a Level 5 Engorgement wand and exchanged it with the Iron Body wand the Hand of Glory held. “Very very happy.” He said and cast the Master version of Enlarge Person on himself.
+
+Lylyth's eyes nearly popped out of her head as she beheld a now 9 foot 4 inch tall Ren. “Great Vasalor.” She whispered, and then her gaze dropped to his still erect member and saw that it had doubled in size as well, both in length and girth. “Great Ren!”
+
+Ren chuckled as he felt her desire spike through him, climbed onto the bed, and positioned himself between her legs. He stared down at her and realized he was slightly taller than her now, and smiled as she wrapped her arms around his neck.
+
+“How... how long?” Lylyth asked.
+
+“20 minutes.” Ren said.
+
+“That's...” Lylyth started to say and Ren pushed himself inside of her. “AHH!” She finished just from him having to force his way into her, and she took several deep breaths as her body adjusted to his enormous size. She wrapped her legs around his back, then 4 giant spider legs formed around them and embraced him as well.
+
+“That's... mmm... nowhere near enough time, dearest.” Lylyth moaned as Ren started to move.
+
+“That's okay.” Ren said and she felt his wickedness again. “The wand has 49 more charges.”
+
+“Oh, Ren!” Lylyth said and kissed him passionately.

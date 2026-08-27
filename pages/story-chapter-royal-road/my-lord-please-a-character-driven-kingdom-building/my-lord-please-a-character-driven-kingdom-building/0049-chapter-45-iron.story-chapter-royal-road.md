@@ -1,0 +1,231 @@
+---
+id: 61c39394-9974-582e-be7f-d62246f31533
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45 Iron"
+slug: 0049-chapter-45-iron
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 49
+ownLength: 2317
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3329948/chapter-45-iron"
+royalRoadId: "3329948"
+---
+
+Heat rolled from the open hearth, pushing back the morning cold, while the steady rhythm of hammer against iron carried through the doorway.
+
+Joren stood at the anvil with his sleeves rolled high, a strip of glowing metal beneath the hammer. Sparks leapt with every strike, scattering briefly across the dark stone floor before fading.
+
+Lucien paused just inside the doorway. There was no reason to interrupt a blacksmith at work.
+
+After a few moments, Joren lowered the hammer and inspected the edge he had been shaping. With a short grunt of approval, he dipped the metal into the nearby barrel. Steam hissed upward as the iron cooled.
+
+Only then did he glance toward the doorway, his eyes settling on Lucien. “Lord,” Joren said, the word carrying the same rough tone he used for most things.
+
+The blacksmith wiped one hand against his apron before turning to hold the finished piece out toward the young man waiting nearby.
+
+Lucien recognized the face, one of the survivors from Cragwatch. He could not have been much older than twenty, though the soot on his sleeves and the careful way he handled the tool suggested he was already finding his place in the forge.
+
+Joren jerked his chin toward the cooling rack. “File the edge clean,” he said. “Not too much.”
+
+The young man nodded and carried the piece away.
+
+Joren turned back toward Lucien, resting both hands against the edge of the anvil. “Didn’t expect you this early.”
+
+Lucien regarded the forge around him. “I try to avoid arriving during the louder portions of your work.”
+
+The blacksmith snorted softly, but before he could reply, footsteps sounded outside.
+
+Harlon stepped through the doorway soon after, brushing snow from his shoulders as he entered, the faint scent of fresh cut timber following him.
+
+His gaze moved briefly between the two men before settling on Lucien. “Lord.”
+
+Lucien inclined his head in return.
+
+Harlon crossed the room slowly, pausing near a workbench as he removed his gloves. “The clearing’s moving faster than expected,” he said after a slight pause. “More trees than we’ll need for houses this winter.”
+
+Joren gave a low grunt, one hand tapping against the edge of the anvil.
+
+Harlon continued in the same calm tone. “Most of the homes were finished a week ago. We’ve started setting aside what’s left. Might have a decent timber stockpile before spring.”
+
+The blacksmith let out a rough breath as he pushed off from the anvil and crossed his arms, his eyes moving between Lucien and Harlon.
+
+“Doesn’t matter.”
+
+Harlon’s expression shifted as he looked toward him.
+
+Joren rubbed a thumb across his beard before nodding toward the racks behind him.
+
+“Iron’s gone.”
+
+He tapped the edge of the anvil with one finger. “Used most of it finishing the gate work and tools for the new houses.” His gaze shifted briefly toward Lucien. “If more folk come next year like you think, we won’t have enough nails to hold their roofs together.”
+
+Lucien considered that briefly before speaking. “How well do you know the southwestern ridge?”
+
+The question drew both men’s attention at once, Harlon’s brow lifting slightly while Joren’s eyes narrowed.
+
+The blacksmith rubbed his beard before answering. “There’s someone.”
+
+Lucien had suspected as much. When the survivors from Cragwatch first arrived, he had noticed Joren and Harlon speaking with a man apart from the others.
+
+“Came in with the Cragwatch lot,” Joren continued. “Knows those hills better than most.”
+
+Harlon gave a nod beside him. “We were planning to bring him by.”
+
+Joren folded his arms, his expression making it clear the matter was not finished. “Even if you mean to survey that ridge, it doesn’t solve the problem now.” His eyes shifted briefly toward the racks again. “Iron isn’t so easy to find, Lord.”
+
+Lucien inclined his head before answering. “That is why I plan to go to Helvarn.”
+
+Harlon leaned against the workbench, studying him. “For trade?”
+
+The blacksmith exhaled through his nose, some of the impatience easing from him. “When? I’d rather not wait until spring to start the smelts.”
+
+He jerked his chin toward his apprentice, still filing the edge, though his attention had clearly shifted toward their conversation. “The lad will be buried in orders if we wait that long.”
+
+“After the survey at the southwestern ridge.” Before Joren could speak, Lucien continued. “It may amount to little, but I would rather know what our own lands can offer before relying too heavily on trade.”
+
+Joren gave another grunt, though this one carried less heat. “Suppose that makes sense."
+
+Beside him, Harlon let out a quiet huff of amusement. Joren shot him a look, but the carpenter only gave a small shrug.
+
+The blacksmith rubbed a hand across his beard before pulling off his smithing gloves and wiping them against his apron. After a moment, he jerked his head toward the rear of the forge.
+
+“Come on then.”
+
+He turned and walked toward the small sitting area near the back wall where a rough table stood between several heavy stools.
+
+“Let’s talk about your strange bow.”
+
+Joren dragged one of the heavy stools out with his foot and dropped onto it while Harlon took the seat opposite him, pipe resting loosely between his fingers though it remained unlit inside the forge.
+
+Lucien took the third stool at the rough table, brushing a trace of iron dust from the seat before sitting.
+
+Heat from the forge pushed back the winter air creeping through the open doorway. Near the anvil, the apprentice continued filing the cooled blade, the steady rasp of metal against stone carrying between their words.
+
+Joren dragged a block of wood across the table and let it settle between them.
+
+The piece was roughly shaped into the outline of a stock. Fresh tool marks still ran along the grain where Harlon’s drawknife had bitten into the timber. The nose remained broad and unfinished, its edges still squared instead of smoothly rounded.
+
+Lucien studied it a moment longer before looking toward Harlon. “The stock seems unfinished.”
+
+The carpenter gave a small nod. “It is. I left the shaping rough until we knew the draw sat right. No sense polishing wood that might need cutting again.”
+
+“Pretty wood matters less than whether it kills what’s coming.” Joren added plainly.
+
+Harlon glanced toward him before answering, his tone as calm as ever. “That too, though it's easier to correct if the balance is wrong.”
+
+The carpenter leaned forward and tapped the forward portion of the stock with one thick finger. The wood gave a dull, solid sound against the table.
+
+“Weight’s better here than what the girl drew.”
+
+Lucien’s gaze shifted toward the spot Harlon indicated. “You moved the forward grip?”
+
+“Had to,” Harlon replied. “Otherwise the nose dips.”
+
+Joren nudged another, smaller piece onto the table. “Catch plate,” he said. “Ugly thing, but if this fails, the rest doesn’t matter.”
+
+It was a crude iron plate with two shallow teeth cut into one edge. The metal still carried the dull scale left from the forge, the teeth filed just enough to show their shape.
+
+He lifted the piece briefly, turning it between his fingers.
+
+“Scrap iron,” Joren added before Lucien could ask, giving a brief shrug. “Didn’t want to waste what little stock we have left on it.”
+
+He gave a nod, setting the iron piece down. "And does it hold?"
+
+Joren reached behind him and pulled a short length of cord across the table. The fibers were thick and uneven, more suitable for tying bundles than drawing a bow. “Not a proper string,” he said. “Just testing the bite.”
+
+He hooked the cord roughly where the bowstring would sit and pressed it down into the teeth of the catch plate. The iron clicked faintly as the cord settled between the filed ridges.
+
+The metal held as Joren released the cord slowly, leaving it locked between the teeth of the catch. “Holds,” he said.
+
+Harlon’s pipe tapped once against the wood of the table as he studied the mechanism. His eyes followed the line where the cord met the iron teeth. “Teeth will need more smoothing.”
+
+“Aye,” he replied. “That comes later. Right now, it proves the idea.”
+
+Lucien studied the catch briefly. “So the mechanism works.”
+
+Joren’s gaze flicked briefly toward him before returning to the iron plate. “That part of the bow does.” he said. He turned the plate between his fingers once before adding, “If the rest of it holds, we could make a few.”
+
+Harlon ran a thumb along the stock before speaking. “Would sit steady on the wall.”
+
+Behind them, the apprentice at the anvil paused briefly, glancing toward the table before returning to his work, the rasp of the file resumed a moment later.
+
+Joren leaned back, rubbing his thumb along the edge of the crude iron plate. “Problem isn’t the catch,” he said at last.
+
+The blacksmith gestured toward the front of the wooden stock lying between them. “You’re asking that prod to pull harder than most bows in this village.” His gaze lifted toward him. “That string won’t come back easy.”
+
+Harlon shifted beside the table, his attention still fixed on the stock. His fingers traced the front of the wood where the bow would eventually sit. “Most men couldn’t draw that by hand,” he said.
+
+Lucien looked between them before answering. “It will not be drawn by arm strength.”
+
+Joren studied him in silence before giving a short grunt. He leaned forward again, pushing the crude stock toward him. “Show me how.”
+
+He rested his hands lightly on the table. “At the front of the stock,” he began, “there will be a metal loop.”
+
+Joren’s brow furrowed. “A loop?”
+
+Lucien tapped the underside of the stock once. “A metal ring fixed beneath the prod. You brace your foot in it, hold the bow to the ground, and use both arms to draw the string back.”
+
+Harlon traced the wood, silent for a moment.
+
+“A stirrup,” Lucien added. “Like the rider’s kind, only larger and fixed to the bow.”
+
+Joren’s gaze dropped to the stock. “So instead of drawing with the arms, you pull with your whole weight.”
+
+The forge grew quieter for a time as the heat from the hearth hummed softly behind them while the rough pieces of wood and iron lay between the three men like parts of a puzzle not yet assembled.
+
+Even the apprentice’s filing slowed as he listened.
+
+Harlon gave a slow nod. “That would hold it steady.”
+
+Joren ran a thumb along the edge of the iron plate. “Means the prod can pull harder without needing a stronger man behind it.”
+
+Lucien inclined his head in response. “That is the intention.”
+
+The blacksmith studied the wooden stock for another long moment before reaching forward and tapping the front edge with one thick finger. The wood thudded dully against the table. “Loop’s easy enough,” he said, his eyes shifted toward Harlon. “Wood’ll hold?”
+
+Harlon considered the question, turning the stock so he could examine the grain running through the nose. “With reinforcement,” he said at last. “Maybe an iron band around the nose.”
+
+Joren let out a low snort, one hand tapping against the table. “Iron again. I can only spare scraps for now.”
+
+The carpenter continued turning the unfinished stock in his hands. “Enough for testing. It’s only a small piece.”
+
+The blacksmith grunted and pushed the crude catch plate across the table once more. The iron scraped softly against the wood. “Teeth work,” he said. “Stock’s close enough.”, his eyes lifted toward him again. “Still haven’t seen the bow itself.”
+
+He looked down at the stock before answering. “The prod comes last. There is no point shaping it until we know the rest will hold.”
+
+Harlon’s pipe tapped once more against the table. “You’re building it piece by piece.”
+
+Lucien rested a hand against the unfinished stock. “It is why the stirrup comes next.” His gaze shifted toward Joren. “No sense wasting iron on the loop if the catch failed.”
+
+Across the table, Joren exhaled through his nose, the sound close to reluctant approval.
+
+Harlon’s attention shifted toward the open doorway. “The man we meant to introduce should be here by now.”
+
+Lucien looked up from the rough pieces spread across the table before pushing himself to his feet. “Then let’s meet him.”
+
+The blacksmith stood as well, wiping his hands against his apron. “Aye, no reason to keep him waiting.”
+
+Harlon rose a moment later, setting the pipe aside.
+
+Joren jerked his chin toward the doorway. “Been meaning to put him in front of you.”
+
+Lucien stepped toward the forge entrance. “Let’s not delay it then.”
+
+The cold greeted them as soon as they stepped out of the forge.
+
+A man stood near the hitching posts beside the road, boots planted firmly in the packed snow as though the ground might shift beneath him. His coat carried the pale dust of stone that no amount of brushing ever fully removed, and the leather gloves he wore had been worn smooth across the palms.
+
+If Harlon looked like a man shaped by years the frontier had failed to break, and Joren carried the blunt temperament of iron, Garrick gave a different impression entirely.
+
+He looked, strangely enough, like a man better suited to the warm lamplight of a tavern than the ridges and stone.
+
+When he noticed them emerge, he straightened but did not step forward. His eyes moved first to Joren and Harlon, then settled on Lucien.
+
+Joren jerked his chin toward the man. “Garrick.”
+
+The miner inclined his head in acknowledgment.
+
+Lucien returned the gesture, his gaze briefly noting the forge behind him, the timber scent still clinging to Harlon’s coat, and the pale dust of stone on Garrick’s sleeves.
+
+Ashridge was beginning to look less like a refuge and more like the start of something permanent.

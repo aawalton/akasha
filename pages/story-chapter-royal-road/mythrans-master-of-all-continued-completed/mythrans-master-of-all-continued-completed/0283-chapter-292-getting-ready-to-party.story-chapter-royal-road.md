@@ -1,0 +1,465 @@
+---
+id: acf3f15b-51de-58b1-8929-7eedcf41a07d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 292 - Getting Ready To Party"
+slug: 0283-chapter-292-getting-ready-to-party
+partOf: mythrans-master-of-all-continued-completed
+position: 283
+ownLength: 4469
+unit: words
+publishedAt: 2017-06-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145055/chapter-292-getting-ready-to-party"
+royalRoadId: "145055"
+---
+
+“You can't be serious!” One of the female dwarves said.
+
+“I'm completely serious.” Ren said. “I'm required to take someone, and since I can't take someone from my own house like I want to, my only option is to find someone outside of my House.” He smiled. “If I ask any unattached woman, I'll automatically enter a marriage contract with them. It only took me a few minutes to realize that I already had the perfect option available to me.”
+
+“What do you mean?”
+
+“You're all under contract to me already. We can't enter a marriage contract without fulfilling the other one first.” Ren said. “It's safe for me to take you.”
+
+Another one of them shook their head. “No one has ever taken a personal maid for something like this.”
+
+Ren smiled at her. “I had hoped that was true.”
+
+“Wait, what?”
+
+“Ever since I've come to these lands, all I've ever done is do things that no one could have expected, and in some cases couldn't have imagined.”
+
+“We've read some of them.” One of them said and held up his latest book with the giants. The female dwarf beside her held up the book about Ren's time in the dwarf lands and dealing with the Council.
+
+“I guess you want us to put on a show?”
+
+Ren nodded slightly. “I don't want to disappoint anyone by not doing something spectacular when I have the opportunity.”
+
+“Spectacular is right.” The one by the door said and shut it. “If you appear in front of the kingdom's ruler with a personal maid as your date...” She shook her head. “Everyone will be talking about it for months.”
+
+“Five personal maids.” Ren said. “I'd like you all to come.”
+
+“You'd like for us to come?” One of them said. “You aren't going to order us?”
+
+Ren shook his head. “I should, but... even though this could be a part of your personal maid duties to take care of my needs, I don't want it to be.” He smiled. “That doesn't make any sense, does it?”
+
+A couple of them laughed.
+
+“It kind of does.” One of them said. “You want us to agree to this ourselves, and not be forced into it.”
+
+Ren nodded slightly.
+
+“Then plead your case, good sir.”
+
+The 5 female dwarves gathered around him, and he saw that they were only a couple of inches shorter than him, making them about 4 feet 5 inches tall.
+
+“You're all really tall.” Ren said, surprised.
+
+“Throgg liked tall women.” One of them said. “He was a bit of an oddball.”
+
+“Besides being the head of a guild of thieves?” Ren asked, and she laughed.
+
+“Point taken.”
+
+Since there were 5 women, he held both hands out palm up, and touched them together. The 5 women placed their right hand side by side in his.
+
+“I would be Honored if you would accompany me to this event.” Ren said formally. “Please accept, and let me bask in your beauty; if only for tonight.”
+
+“Oh... oh my...” One of them said. It was the one that had no problems telling Ren she wanted to sleep with him. He was positive they all did, but she was the only one to be so outright with reminding him of it. Her face flushed a little red, and then she smiled.
+
+“Sir, I humbly accept your offer. Please escort me to the best of your ability; if only for tonight.”
+
+The others repeated the acceptance phrase, and Ren bowed over their hands after dismissing the Honor gain popups.
+
+“Thank you.” Ren said, stood up straight, and thought of Nathalia to make his Sending Ring glow. “Nathalia? When do we have to leave?”
+
+“Anytime is fine.” Nathalia said. “The normal guests should be arriving at the castle now. We aren't expected for at least another hour.”
+
+“Fantastic.” Ren said. “I'll be right down to give you and Ereka your new dresses.”
+
+“Our what?”
+
+“I can't let you go to this thing wearing your old House Neram dress, can I?”
+
+“Oh, Ren.” Nathalia said. “Is that what you've been doing for the last hour?”
+
+“Among other things.” Ren said. “I found someone to take, too.”
+
+“Really?” Nathalia asked. “Who is it?”
+
+“It's a surprise.” Ren said. “See you in a few minutes.”
+
+The Sending Ring stopped glowing, and Ren looked at his personal maids.
+
+“I've got new dresses for you as well.” Ren said. “With the 5 of you helping, you should be able to get dressed in no time.”
+
+Ren took out the 5 pairs of shoes for them.
+
+“Ooo.” One of them said. “Royal purple!”
+
+“Ereka's going into the Keep, Ren.” Teepo said from his perch on top of the workshop.
+
+Thanks, Teepo. Ren thought, then realized he'd made dresses and nothing for them to wear underneath. “I forgot to make underwear.” Ren said. “Hold on, this should only take a minute.”
+
+Ren ran back to the workshop next door and picked up some of his supplies. He made 5 pairs of delicate underwear that matched the dresses, dyed them purple, then ran back to the waiting women. He passed them the underwear, and the women stared at the delicate fabric.
+
+“You... you just made this.”
+
+“I did.” Ren said. “I would have made tops for you, too; but, the dress has it built in.” He took out the first dress, and the female dwarves gasped.“By the gods!” One of them exclaimed. “We can't wear that! It's... it's too much like...”
+
+“Like something a Lady would wear.” Ren said to her. “That's why I made it this way.”
+
+“Wh-what?”
+
+“I know you pretty much signed your lives away to be personal maids; but, that doesn't mean you shouldn't be treated like a Lady.” Ren said and handed her the dress. “Tonight, that's something I want everyone to know.”
+
+“R-R-Ren... y-y-you...” She tried to speak, but she couldn't quite get the words out.
+
+“It's only a simple design.” Ren said and took out another one and handed it to the next woman. “It's very easy to put on and take off.”
+
+“R-Ren...” She said. “You...”
+
+“I made them all the same, so you don't need to fight or argue over who has the prettier dress.” Ren said and took out another dress to give to the next woman. “I hope you like them.”
+
+“Ren...”
+
+“I've got a couple of other little things to give you; but, I'll wait until you get dressed before giving them to you.” Ren said and took out the fourth dress and gave it to one of the women that had stood there and stared at him. She took the dress without even looking at it, because her eyes never left Ren. He took out the last dress, and turned it around to show them how it opened and slipped on, then gave it to the last woman.
+
+“I'll be back later.” Ren said, and left the building the personal maids lived in.
+
+*
+
+“By the gods.” One of the women said. “Just one of these dresses is worth...”
+
+“...our entire wardrobe.” Another one said. “And he just gave them to us...”
+
+“...like it was nothing; as if we were doing him a favor by accepting it.” The third one said.
+
+“He's not faking it, either.” The fourth one said. “There wasn't even a hint of a lie in any of what he said.”
+
+“So we're agreed?” The fifth one said. “We help him of our own free will?”
+
+The other four women nodded.
+
+“We are going to have so much fun tonight!” She said, and they all laughed.
+
+*
+
+“Hi, Nathalia.” Ren said when he went into the house, and he took out the fancy red dress that he had made for her. “I can't stay and help you get dressed.”
+
+Nathalia smiled, because she could feel that he wanted to help her undress instead. “I think I can get by without your help this time.” She said. “Afterwards, though...”
+
+Ren smiled, gave her a quick kiss, and turned to Ereka. “This one's yours.” He said, and gave her one similar to the one he had just given to Nathalia, but it was slightly understated in comparison.
+
+“It just pops open in the back, and you can step right into it.” Ren said. “Nathalia can help you with it.”
+
+“Thank you.” Ereka said, and Ren turned to leave.
+
+“Where are you going?” Nathalia asked him.
+
+“I need to make a carriage.” Ren said. “If I recruit Tee-one, I should be done by the time we need to leave.”
+
+“We can just use the cart on Princess.” Nathalia said.
+
+“We could, but this is...” Ren smiled. “If Narhilda wants to put on a show, then I'm going to give her a show.”
+
+“Ren, are you sure you...”
+
+Ren nodded. “I'm going to make this a night they're never going to forget.”
+
+*
+
+“This is going to be a night they are never going to forget.” Narhilda said as the preparations behind the scenes were finally completed, and the kitchen staff started serving the food.
+
+“They certainly won't.” Barnar, the Royal Consort said. “How much did all of this cost?”
+
+“Only a few dozen platinum.” Narhilda said. “The taxes for the Garrison alone was nearly a hundred platinum this year.”
+
+Barnar shook his head. “I don't know how you can charge taxes on the only thing that can defend the entire kingdom from external threats.”
+
+“That's how it's always been done.” Narhilda said. “Even when I was a little girl, it was the Garrison that kept the kingdom safe, and helped pay to run it.” She smiled. “House Lodur can afford it now that the idiot that used to run the place is dead, and isn't keeping all of the money for himself.”
+
+Barnar frowned. “If he's dead, who's in control of the Garrison at House Lodur?”
+
+Narhilda waved his concern away. “It doesn't matter.” She said. “They've been keeping the realm safe, and they even paid 5 years of taxes in advance!” She laughed. “Whoever the owner of the deed is, they're not stingy with money!”
+
+*
+
+Ren ran up to the workshop and went inside. He took out the Sending Square that was connected to the one the Commander of the Garrison had, and thought of him.
+
+“Good evening, Commander.” Ren said. “Are you busy?”
+
+“Yes.” The Commander said. “But, go ahead.”
+
+“Are you going to the celebration tonight?”
+
+“I'm already here.” The Commander said. “I've also got a Battalion of troops to keep the peace.”
+
+“Were you invited?”
+
+“Ordered, actually.” The Commander said. “When the Queen says she needs security guards...”
+
+“How you got there doesn't matter, as long as you're there.” Ren said, and the Commander chuckled.
+
+“You're coming here to show off, aren't you?”
+
+“Oh, I'm going to do much more than that.” Ren said. “If the Queen does what I think she's going to do... I'm going to need you up on stage.”
+
+“Are you expecting trouble?”
+
+“No.” Ren said. “She's giving me an award or something, and if I have to give a speech, I want you there.”
+
+“I don't really understand why; but, I won't question you about it.” The Commander chuckled again. “I don't need to taste a foot in my mouth like the last time I questioned you.”
+
+Ren chuckled. “You can cancel the investigation on where the missing shadow coins are.” He said. “I found them.”
+
+“You did?” The Commander asked, shocked. “Where?”
+
+“In the loot of the head of the Thieves Guild.”
+
+“WHAT?!?” The Commander yelled, and everyone around him turned to look at him. “Sorry, folks. Carry on.” He said, then thought of Ren. “How did you...”
+
+“It's a long story.” Ren said. “I'll fill you in when I get there, assuming I don't have to greet the members of the other Houses.”
+
+“That should take a while.” The Commander said. “They're almost in a formal line to wait for you already.”
+
+“Damn.” Ren said. “Then it'll be later on tonight.”
+
+“I look forward to it.” The Commander said. “See you when you get here.”
+
+The Sending Square stopped glowing and Ren tucked it into a pocket, then Tee-one came out of the forge room.
+
+“I think we should split the work of the carriage.” Tee-one said. “I'll do the woodwork, you do the metalwork.”
+
+“You read my mind.” Ren said and pat Tee-one's shoulder. “Let's do it!”
+
+The pair got to work right away on making a large carriage. While Tee-one built the main part out of wood, Ren made the axles, undercarriage, springs, and braces. With his Fire Manipulation and Absorb Fire abilities going constantly, Ren made the metal parts quickly, and as Tee-one finished the pieces needed, Ren attached the metal parts and wood together to complete the bottom and wheels.
+
+“Using gold for some of the parts was a good idea.” Tee-one said to Ren.
+
+“I emptied the other smelters.” Ren said, and laughed as Tee-one grinned.
+
+“Should we only do the half-walls?” Tee-one asked.
+
+“No, I want a full carriage.” Ren said. “Which reminds me.” He said and took out the steel square that was connected to the one he gave Ereka. “Ereka, sorry to bother you...”
+
+“The stable manager held a crew back and has 4 ponies ready to be attached.”
+
+“How did you...”
+
+“It's my job.” Ereka said. “Are you almost finished?”
+
+“Yes.” Ren said. “Thank you.”
+
+“You're welcome.” Ereka said, and the Sending Square stopped glowing and Ren put it away. He and Tee-one made the walls of the carriage with a metal frame and wood panels, assembled them, and stepped back. Ren had dyed it red to match the rest of the House Neram things he'd made, then enchanted the House Neram Crest on the doors and attached them with hinges.
+
+“That looks cool.” Ren said. “Thanks for the help, Tee-one.”
+
+“Anytime.” Tee-one said. “Have fun.”
+
+Ren chuckled. “I certainly hope so.” He said, stored the carriage, and ran down to the road. Teepo flew up high to scout and make sure nothing was around. Ren ran over to the stable and knocked on the door of the office.
+
+“There you are!” The manager said as she came out. “I was getting worried.”
+
+“I was, too.” Ren said to her. “So much to do and no time to do it.”
+
+“Where's the carriage?” She asked. “I thought... BY THE GODS!”
+
+Ren had pulled the large carriage out of his inventory and placed it in front of the stable.
+
+“I've never seen one so big! Where did you get... you didn't just make that!?!” The manager exclaimed.
+
+“Guilty.” Ren said and smiled at her reaction. “The ponies?”
+
+The manager turned and clapped her hands, then 4 helpers came out with 4 large ponies. They hooked them to the carriage in the proper spots, and Ren made sure that everything was secure.
+
+“I hope you have a driver.” Ren said as he activated the House Neram enchantment on the carriage and it merged with his Aura. “I can't ride inside and drive the cart for the whole night.”
+
+“Of course we have a driver.” She said and waved. A pretty dwarf walked out of the stable, her hips swayed from side to side, and she tried her best to make it as sexy as possible. Ren chuckled, because it was the thief that an unruly dwarf had hired to try and steal his Sending Ring.
+
+“Hello, Ma'am.” Ren said and bowed slightly, even though he knew her name was Deliliah.
+
+“Lord Neram.” Deliliah said, and gave him a slight head nod.
+
+“Did you only take the job, or did you move here?”
+
+“I moved, My Lord.” Deliliah said. “Free housing, no taxes, and a job that pays twice as much as a normal job?” She smiled. “It didn't take me long to realize how great of a deal it was.”
+
+Ren looked at her clothing, then let a smile appear on his face. “I like your real clothing.”
+
+Deliliah laughed. “It's a little weird that you can tell just from a glance.”
+
+Ren chuckled, stepped to the side, and motioned to the carriage. “Allow me to show you the operation of this carriage.”
+
+“Thank you.” Deliliah said, and Ren showed her how the brake for the left and right sides worked, how the reins were stronger and more responsive, and that it could turn very quickly if she wasn't careful.
+
+“I'm glad that I didn't tell you I already know how to drive a carriage.” Deliliah said. “This is a lot different than the one I trained on.”
+
+“I just built it, so it's bound to be different from an old one.” Ren said. “It needed separate brakes on the sides because it's so large, and I figured it should have a higher speed and faster turn because it's about half the weight of a normal carriage.”
+
+“How did you manage that, with a larger carriage?”
+
+“It's got a metal frame with wood panels, rather than thick heavy wood throughout.” Ren said, turned and thanked the manager for staying late to get the team ready, then climbed into the carriage. “House Neram Keep, please.” He said to Deliliah, and Teepo flew along above it. They arrived there a couple of minutes later, and Ren climbed out. “We'll be leaving shortly.”
+
+“I'll turn this monstrosity around.” Deliliah said and smiled.
+
+Ren looked at the guard. “Please let them know the carriage is here.”
+
+“I already did, sir.” Broxor said. “They're on their way out now.”
+
+Ren nodded slightly and ran up to the building with the personal maids in it, and Teepo flew over as well and landed on Ren's shoulder. Ren knocked once and the door opened; then he let out a low whistle at the sight.
+
+The 5 female dwarves looked almost completely different from when he'd been there before. Their hair was styled in matching hairdos and they had applied makeup to accentuate the same features on each of them. Even though Ren had been conservative with the cut of the dresses, they looked a lot more suggestive than he thought they would. They also seemed very pleased with his reaction.
+
+“You all look very nice.” Ren said.
+
+“You don't.” One of them said, and he laughed.
+
+“I forgot to change.” Ren said, and equipped the suit that matched their dresses.
+
+“Oh, my.” She said. “Someone catch me.” She smiled. “I might faint.”
+
+Ren smiled at her, then looked at each of them. “I order you, for tonight only, to ignore my order for you to stay in this building.”
+
+The 5 of them sighed.
+
+“You know just what to say, don't you?” One of them said. “We were... well, a little worried that you would remove the order.”
+
+“I've had a little bit of experience with a personal maid.” Ren said and smiled. “The last thing I want to do is cause you distress by removing an order you clearly need.”
+
+They all nodded slightly.
+
+“We're glad that you understand.” One of them said. “Shall we go?”
+
+“In a moment.” Ren said. “You need your accents first.”
+
+“Our what?”
+
+Ren smiled and took out one of the brooches he'd enchanted with the gold plate, and held it out for them to look at.
+
+“Isn't that...”
+
+Ren nodded slightly. “When I first opened the door to the hidden room, several plates were thrown quite violently at me.”
+
+The female dwarves laughed.
+
+“We all had one to throw.” Another of them said. “We ate from those plates every day.”
+
+“I thought so.” Ren said. “It was the first time we met, and seemed like a strong common thread between us.”
+
+The female dwarves nodded, and Ren handed each of them a brooch. They pinned them to their dresses above their hearts, and Ren pinned his to his own chest and examined it with identify.
+
+Brooch Of the Plate
+
+This brooch has been enchanted with a symbol of the first meeting between Ren the First and his personal maids. It grants the wearer Aura: Contact Level 1 (Beginner 0% - Special), and can only merge auras with another Aura: Contact if they shared the same experience. Current distance: 15 feet
+
+Ren thought about that time, and the Aura popped into existence. “Now I'm going to break my self-imposed rule about sharing my Aura with people I don't really know.”
+
+“You can share your Aura?!?” One of them said.
+
+“Yes, with someone I had a shared experience with, and create a way for them to do it.” Ren said, and pointed to the brooches.
+
+“These?” Another said and looked at the brooch. “Ha. I didn't even look at it.” She said and looked at the other women. “It says just what he said.”
+
+“How do we do it?” One of them asked.
+
+“Close your eyes.” Ren said, and they did. “Now, remember that moment. Right when the door opened and you let those plates fly.”
+
+The female dwarves did that, with varying degrees of success, but all of their Auras popped into existence, then merged with each other and Ren's.
+
+“By the GODS!” They said together as their auras merged. “I can feel what you feel!” They said to each other, and Ren laughed. They all felt his amusement and gasped.
+
+“Sorry.” Ren said, and reduced how much he was sharing.
+
+“Wow, that was...”
+
+“Amazing.”
+
+“Scary.”
+
+“Wonderful.”
+
+“Now I really, really want to have sex with you.” The last one said, and Ren could feel her desire. When he looked at each of his personal maids, their desire for him was encouraged and brought to the forefront of their thoughts.
+
+“It's... been a really long time for all of you, hasn't it?” Ren asked as his body reacted to feeling so much desire for him.
+
+“A lot longer for some of us.” The one who was completely straight forward with her thoughts said. “If I thought for even a moment that it would work, I'd drop to my knees and beg.”
+
+“Me, too.”
+
+“So would I.”
+
+“I wouldn't get on my knees.” One of them said. “Not to beg, anyways.”
+
+Ren looked at the last one who hadn't spoken, and he felt her growing shame. “I am so sorry.” He said as he walked over to the youngest of the group, and took her into a hug. “You tried it with Throgg, and not only didn't it work...”
+
+“He beat me until... until...”
+
+“...you didn't want him anymore.” One of the others said. “Why didn't you say anything?”
+
+“I couldn't!” She said, and started to cry. Ren took out a cloth for her to dry her eyes. “It's not like saying anything would help at all, anyways.” She said. “I signed the contract, and that was that.”
+
+“And when I said I didn't have room for more women in my life, and then I got your contract...”
+
+“I thought... I thought that...”
+
+Ren felt her desperation, and her need to hide in case he did decide to make her not want him by using the same method.
+
+“I would never, ever do that.” Ren said. “I love women.” He said. “Probably a lot more than I should.”
+
+The female dwarves felt what he was letting out with his admission, and their hearts were weakened from how much love he had to give.
+
+“I said I didn't have room in my life for more women, but that doesn't mean I won't have room later.”
+
+Her eyes sparked from her tears, and he could feel a small spring of hope inside of her.
+
+“I won't promise that anything will happen.” Ren said. “I'm not going to lie.” He smiled. “But, if it ever does happen, what I can promise is that you'll be first.”
+
+“R-really?” She asked and that little spring of hope became a small stream.
+
+“I'll defer to her when the time comes.” The one who had started the whole desire thing said.
+
+“We all will.” The others said, and Ren felt their support and agreement. “Her need is greater than ours.”
+
+“Well, I wouldn't say that.” The brutally honest one said. “She can just go first.”
+
+Ren laughed, and let a large burst of amusement flow into the Aura.
+
+“By the gods!” One of them said. “Can you do that again?”
+
+Ren let even more amusement into the Aura, and they all smiled.
+
+“That feels really good.” She said. “Can you keep it going all night?”
+
+Ren nodded slightly, and she put a hand on his arm.
+
+“Then we'll stick close, so we won't leave your Aura.”
+
+“About that.” Ren said. “You won't have to worry once I pick up my cloak from the Keep.”
+
+“Why?” One of them asked.
+
+“You'll see.” Ren said. “Or feel, I guess would be more appropriate.” He smiled. “Would you like to see the next thing I made for you?”
+
+They all nodded, because they could feel how excited he was about giving it to them. Ren took out one of the small tiaras, and they stopped breathing. He felt their shock and surprise, though.
+
+“It's not that big, because I wanted it to accent your faces, not take away from them.” Ren said. “The necklaces do the same thing.”
+
+“The WHAT?!?”
+
+Ren took out the necklaces that matched the small tiaras and held them up together. “One for above your face, and one for below.” He said. “I wasn't sure if people would pay you enough attention, so I... enchanted them to make sure.” Activate. He thought, and the center diamonds on the necklace and tiara glowed. Because it was inside a diamond, it acted like a prism and threw off all different color lights.
+
+“You sure know how to draw attention!” One of them said.
+
+“May I put them on you?” Ren asked her.
+
+“Of course.” She said and stepped forward. Ren put the tiara in her hair after asking for help to make sure he did it right, then hung the necklace around her neck. The diamonds with the Illumination runes lit up the surrounding diamonds as Ren had intended, and both pieces glowed from reflected light.
+
+“You look so pretty!” The youngest one said. “Do me next!”
+
+“We already agreed that he would.” One of them said and chuckled.
+
+“That's not what I meant!” The youngest said and rolled her eyes, and they could all feel what each other felt and laughed. Ren gave each of them a tiara and a necklace, activated the enchantments, and stepped back.
+
+“I think we're ready.” Ren said, opened the door to go outside, and smiled at them. “Please, come with me.”
+
+“It would be our pleasure.” One of them said, and Ren's 5 dates stepped out of their living space, with the intention to cause as much of a spectacle as they could.

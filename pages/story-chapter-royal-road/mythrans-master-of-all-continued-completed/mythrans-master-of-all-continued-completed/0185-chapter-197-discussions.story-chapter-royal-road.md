@@ -1,0 +1,415 @@
+---
+id: 76f3aff8-bc61-5ad1-b692-7952d72b1858
+page-type-slug: story-chapter-royal-road
+title: "Chapter 197 - Discussions"
+slug: 0185-chapter-197-discussions
+partOf: mythrans-master-of-all-continued-completed
+position: 185
+ownLength: 3771
+unit: words
+publishedAt: 2017-03-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123878/chapter-197-discussions"
+royalRoadId: "123878"
+---
+
+“Hi!” Gloria said as the door shut behind her. “Sorry I'm late.” She walked over to the bed and Stella stared at her. “I blew a tire in the middle of traffic, half-way across town.” She sighed. “It took forever to change it, especially with people honking their horns at me to hurry up.”
+
+“I can imagine.” Ren said.
+
+“You're Gloria!” Stella exclaimed.
+
+“Yeah.” Gloria said. “So?”
+
+“My brother Steven's description of you didn't do you justice.”
+
+“How so?” Gloria frowned a little.
+
+“He didn't say you were gorgeous.”
+
+“Wh-what?” Gloria asked, then glared at Ren.
+
+“Before you say anything, or jump to conclusions...” Ren grinned. “...I didn't even tell her who you were.”
+
+“You didn't?”
+
+Ren shook his head. “I didn't want to say anything, in case you didn't want the job.” He said. “I just told Stella that I needed to ask your permission to tell her your real name.”
+
+“Oh.” Gloria said, then looked at Stella. “That was your honest opinion?”
+
+Stella nodded. “I could do without all the piercings and the hair color, though.” She smiled. “It takes away from how pretty you are.”
+
+“Personally, I think they highlight how overwhelmingly pretty she is.” Ren said. “Especially since she can pull off that look, and people still think she's pretty.”
+
+“I'm standing right here, you know.” Gloria said.
+
+Ren chuckled. “Sorry, Gloria.” He pulled his feet up and pat the side of the bed. “Have a seat.”
+
+Gloria looked at him, and he sighed.
+
+“Look, I know we left things on a bad note in the game; but, we can talk about that later. Right now, we have business to discuss.”
+
+Gloria sighed herself, put her backpack at the foot of the bed, and perched on the edge of the bed beside it.
+
+“At least put more than one cheek on the bed.” Ren snorted a laugh. “That can't be comfortable.”
+
+She looked at him for a moment, then sat properly on the bed.
+
+“There, that wasn't so hard, was it?” Ren asked, then turned to Stella without waiting for a response. “The ball's in your court, Madam Co-Head.”
+
+Stella smiled. “Alright. I'll go first.” She said and looked at Gloria. “Tell me your background and qualifications.”
+
+Gloria did better than that, as she took out a resume from her backpack, then went over everything that she knew.
+
+“That's actually really good.” Stella said. “You even know all the protocols and procedures for submitting papers for scientific study.” She looked at Ren and smiled. “Your turn, Mister Co-Head.”
+
+Ren nodded and looked at Gloria. “Now, show Stella your real qualifications.”
+
+“Wh-what?”
+
+Ren rolled his eyes. “I already told her you hacked the old headsets.” He said. “She wouldn't have agreed to see you otherwise.”
+
+“But...”
+
+“Stella, get one of the new sets from the closet, would you?”
+
+Stella nodded and went to the closet, and took out a box with the latest version of the VR headset.
+
+“Oh, my GOD!” Gloria exclaimed, and practically drooled as Stella handed her the large box. “How in the world did you get this?!?”
+
+“They were provided by the company that makes them.” Stella said. “Once they agreed to the research proposal, they send over a crate of 6 of them.”
+
+“SIX!” Gloria shouted, then clamped her mouth shut. “Sorry.”
+
+“That's okay.” Stella said. “Just keep it down to a dull roar from now on.”
+
+Gloria nodded and opened the box. She took out the main box that the headset connected to, and examined it.
+
+“These things just came out on the market.” Gloria said. “I can't promise I can do much, at least until I can squirrel away a few hours playing with it.”
+
+“Show us a little bit of your talent.” Ren urged her, and she nodded. Gloria opened up her backpack, and Ren saw her take out, surprisingly enough, a small set of tools that looked like a lockpick set from the game. Gloria used several of them, and popped the plastic case off the main box to expose the inner workings.
+
+“They didn't change the chip interface.” Gloria said, a little disappointed. “If it's not well ventilated, it runs hot all the time.”
+
+“What's that mean?” Stella asked.
+
+“It means the lifetime of the set is more limited than they say it is.”
+
+“How do we fix that?” Stella asked. “We're going to be running them a lot over the next few months.”
+
+“It's a simple fix, really.” Gloria said. “You just install a small fan, right here.” She pointed to a spot in the casing behind the series of microchips. “Drill several holes in the case for the airflow, and piggyback the power onto the main breaker.” She smiled. “It's a little loud, unless you spring for the expensive super-quiet CPU fans.”
+
+“What about the game-play?” Ren asked.
+
+“Well...” Gloria looked at the setup. “...they've got the right idea with the bigger memory chips.” She said. “I'd add 2 more of them, though.”
+
+“Why?”
+
+“If you're conducting real experiments with them, you're going to need the extra memory to handle the load.”
+
+“And how do you disconnect the VR part, so that all you get is the recording function?” Stella asked.
+
+“That's easy.” Gloria said, and used one of the tools to toggle three of the 8 micro-switches to the off position, which were located in a small panel next to the processors.
+
+Ren grinned as he tapped Stella's hand, and she looked at him. Stella nodded, and they both looked at Gloria.
+
+“So, would you like a part-time job with our research group?”
+
+“Really?” Gloria asked. “I mean, I just flicked a few switches.”
+
+Ren chuckled. “It's not that you flicked them.” He said. “It's that you knew which ones to flick.”
+
+“Oh.”
+
+“We both think you would be a huge asset to our endeavor.” Stella said. “What do you say?”
+
+“I'd say... what's the pay like?”
+
+“Now that we know you can handle what we need... can you give Ren and I a few minutes to discuss it?” Stella said.
+
+“Sure.” Gloria said and walked to the door of the room.
+
+“You don't have to leave.” Ren said. “The bathroom is right there.”
+
+Gloria glanced at him, then nodded and went to the bathroom instead.
+
+*
+
+Gloria looked around at the bathroom, and was quite envious. It was nearly the size of her living room, with a huge walk in shower, bathtub on the side, a low sink and a high sink, and a toilet with a bidet.
+
+Wow. Gloria thought as she looked through the towel cabinet. It's like some rich person's dream bathroom!
+
+*
+
+“What do you think?” Ren asked.
+
+“I think you were right.” Stella said. “Not only does she have the engineering qualifications, she really can mod the helmets to what we might need.”
+
+Ren nodded. “What kind of salary should we offer?”
+
+“I did some research on that.” Stella said, and took out several pieces of paper that were covered in numbers. She showed him a budget breakdown on other medical research projects, then showed Ren where their project fit into the numbers.
+
+“We have that much for hiring research students?”
+
+Stella nodded. “Every project I've looked into, pretty much launched the careers of the students involved.”
+
+“No way.”
+
+Stella nodded. “Even the failed experiments gave the students enough exposure and notoriety to move on to other projects.”
+
+“That's pretty cool.”
+
+Stella smiled. “If we hire her, though... she's going to be spending a lot of her spare time with the both of us.”
+
+Ren nodded. “I told her it was going to be mostly weekends, since those are the only days she has off.”
+
+“What is her schedule like?” Stella asked, and Ren told her. “You're kidding!” She said, surprised. “Gloria goes to school in the morning, then works a full 8 hour shift at the garage?”
+
+Ren nodded.
+
+“Maybe we shouldn't offer her the job.” Stella said, and Ren's eyes widened.
+
+“Wh-what?”
+
+“We can't take away her only time off, Ren.”
+
+“We won't.” Ren said. “How often do you get both Saturday and Sunday off together?”
+
+Stella was about to say 'all the time', but then she remembered she was working with Ren tomorrow, and smiled.
+
+“Alright.” Stella said. “How about we do a trial run. We'll offer her a one day a week physical job, and one game day a week virtual job.”
+
+Ren thought about the mechanics of that. “Do you mean every game week, she has to work a day for us, or once a real life week, she has to work a single game day?”
+
+“A real life week.” Stella said. “Otherwise she'd have to log in every second day to work.”
+
+“We can have her set up a VPN, or virtual private network, with just the three of us.” Ren said, and pointed to the micro-server that Sid Tec had installed a week before. “That way, we can conduct experiments and not have to log into the actual game.”
+
+“Good idea.” Stella said. “Now, here's the base salary I was thinking about...”
+
+*
+
+Gloria had examined everything, and even smelled the shampoo and soap Ren used.
+
+It's been longer than a few minutes. She thought. How long does it take to talk about money? She shook her head. If Ren is right, then it'll only be one, or two days a week. She sighed. There's not going to be a lot for me to earn that way.
+
+*
+
+“That should be a good starting salary, then?” Ren asked, and Stella nodded.
+
+“If we offer her too much, she might get insulted; and assume we're giving her charity.”
+
+“Agreed.” Ren said, then looked at the bathroom. “I better go and talk to her, before we make the job offer official.”
+
+“I'd ask you what this is about, but I'm pretty sure it has something to do with how you feel about each other.”
+
+“Yeah.” Ren chuckled, and slid out of the bed. He walked to the bathroom and knocked on the door.
+
+“Come in.” Gloria said, and Ren heard her laugh. “I just invited you into your own bathroom.”
+
+Ren went in and shut the door. “I knocked, just in case you were actually using it.”
+
+“Oh.” Gloria said. “I never thought of that.”
+
+Ren grinned. “That's me. I'm just full of inappropriate thoughts.”
+
+Gloria chuckled as he sat down on the closed toilet.
+
+“Gloria... about what happened in the game...”
+
+She held up her hand to stop him. “No, it was my fault.” She said. “I really was angry that...”
+
+“Stop!” Ren said, and Gloria looked at him. “All my life, people that I thought cared about me, hurt me; sometimes, just because they could.” He said. “My mother, my father, countless doctors and some nurses.”
+
+“Ren...”
+
+“When you actually tried to hurt me, I...” Ren sighed. “Instead of making me want to tell you that I love you, all you succeeded in doing was driving me away.”
+
+Gloria looked at him with wide eyes. “Wh-what are you saying?”
+
+“I'm tired of people hurting me because they can't deal with their own feelings.” Ren said. “You know what I've gone through. Hell, you've felt some of what I've gone through!” He nearly shouted, then calmed down after taking several deep breaths. “I'll keep feeding you in the game, but...” Ren sighed. “I... damn, I've never had the courage to ask anyone this before.” He said and looked at her. “Why did you want to hurt me?”
+
+“I... don't...”
+
+“Don't tell me you don't know!” Ren said loudly. “You do!”
+
+Gloria's eyes widened at the tone of his voice.
+
+“Just... just tell me.” He said, dejectedly. “Please.”
+
+She sighed, and walked over to where he sat. She knelt on the floor in front of him, and stared at him in the eyes. She took the hand of the arm not in a sling, and held it with both of hers.
+
+“Ever since I started playing the game, it was always 'what happens in the game, stays in the game'.” Gloria said. “I've done a lot of things... a lot of bad things... and it never bothered me at all.” She said. “Until I met you.”
+
+Ren squeezed her hand.
+
+“After our little encounter in the jail cell, you were pretty much all I could think about.” Gloria sighed. “Things... things started to look different.” She said. “I tried to keep doing the things that I did before, but they... they weren't as fun as they used to be.” She sighed. “Then I... I started to starve.”
+
+Ren saw the turmoil she was going though as she kept talking. She let one of her hands go, and ran it through his hair.
+
+“Then you agreed to feed my ability, and I was so happy.” Gloria said. “I've never had so much fun or enjoyment. Ever.” She sighed. “I... became addicted to you.”
+
+Ren's eye widened at her admission.
+
+“I couldn't get enough of you.” Gloria said. “Even when I was full, I still wanted you so badly.” She smiled. “You've leveled up my ability, which I didn't even know was possible.”
+
+Ren nodded.
+
+“After last night, now it's almost at Master.” She said. “When I met the other Dark Elves, they... they fed on me.” Gloria looked at him with fear in her eyes. “They didn't even have to touch me.”
+
+“What?”
+
+“They were about 10 feet away when I felt all of the emotions you fed me drain away.” Gloria said. “There was 6 Dark Elves; but, it felt like only one was... was... consuming me.” Tears formed in the corners of her eyes. “They... they hurt me... so much, Ren.”
+
+Ren squeezed her hand again.
+
+“They attacked and shot at me when I tried to get away.” Gloria said. “I still don't know how I managed to get away; and then all the way back to Aurora.” She shook her head. “I thought... oh, there's not a chance in hell that I would make it... or that you would be there... and I couldn't send a message because my hands didn't work right.” She let the tears flow then.
+
+Ren grabbed several tissues and wiped her face for her.
+
+“Then there you were... my savior.” Gloria said, and smiled at him through her tears. “I couldn't believe it.” She said. “I thought I was dead.” She sobbed. “I knew it was just a game, but it still felt so real! I felt like I was going to die... and then I felt how you felt about me.” She cupped the side of his face with a hand. “You poured so much of yourself into me, that I didn't think you had anything left... and then you gave me everything you held back.”
+
+Ren didn't say anything, and she continued.
+
+“You saved me, and then... and then...” Gloria sighed as she dropped her hand from his face. “You wouldn't say it.”
+
+“Say what?” Ren asked her, and she glared at him.
+
+“That you loved me!” Gloria exclaimed. “I felt it! And when you wouldn't say it, then joked around... I... I was really angry!”
+
+“You shouldn't have been. I explained why.” Ren said. “You didn't say it, either.”
+
+“That doesn't matter!” Gloria said. “You love me, but wouldn't say it!” She said. “What am I supposed to do with that?”
+
+“Before we started seeing each other, I promised Nathalia that I wouldn't sleep with you and then go home to tell her that I loved you.”
+
+“You WHAT?!?”
+
+“I'd already explained about you to her, you see.” Ren said. “She knows all about how you used to manipulate people.”
+
+Gloria looked at Ren with wide eyes.
+
+“I've always held a part of myself back because of that promise, so that I never quite gave you everything.” Ren said.
+
+“But... but you love me...” Gloria tried to hold her tears back.
+
+“Of course I do.” Ren said.
+
+“But... but...”
+
+“You've felt how I felt in the game.” Ren said. “Do you really need me to say those three words out loud?”
+
+Gloria looked at him, with a little desperation mixed with the tears in her eyes. “Y-yes.”
+
+Ren let her hand go, and her face gained a little more desperation. “I can't tell you those words in the game, because Nathalia would never forgive me.” He said and smiled. “But we're not in the game right now, are we?”
+
+Her eyes widened in surprise as he leaned in close.
+
+“I love you, Elerlyth.” Ren said, and kissed her. It was only for a brief moment, then he broke the kiss and leaned back. He took his free hand and gently stroked the shaved part of the left side of her head. She closed her eyes as she concentrated on the sensation of his hand touching her skin. He traced the hairline all the way to the back, then let his hand fall away.
+
+“I've wanted to touch you like that ever since I met you.” Ren said.
+
+“Most men would want to grab my breasts or my ass.” Gloria chuckled as she opened her eyes and looked at him.
+
+“Exactly.” Ren said, and she blinked her eyes at him several times. “How many men have had the privilege of touching you like that?”
+
+Gloria's face flushed a little bit red, and Ren smiled.
+
+“You're pretty irresistible, you know.”
+
+“I don't think so.” She said. “Most people just stare at me.”
+
+“That's because they don't know what to make of you.” Ren said. “You know they're thinking to themselves, 'she's drop dead gorgeous, why does she do all of that to herself?'.”
+
+“And what do you think?” Gloria asked.
+
+“I think you could be covered in tattoos and have a large bull ring pierced through your nose, and you'd still be gorgeous.”
+
+Gloria looked at him in surprise. “You really think that?”
+
+Ren nodded. “It's not how you look, it's how you feel about yourself that matters.”
+
+“Oh, Ren!” Gloria said, and kissed him. A moment later, it was like she was startled by something and then broke the kiss. She leaned back and stared at Ren, with a surprised look on her face.
+
+“No.” Gloria whispered. “We can't. I...” She looked like a deer caught in headlights. “Only... only in the game.”
+
+Ren nodded, and then there was a knock on the bathroom door.
+
+“Knock, knock.” Stella said. “We don't have all day to waste, you know.”
+
+“We were just finishing up.” Ren said as he looked at Gloria. “I think everything on our end is settled.”
+
+“That's great.” Stella said. “Now pull your pants up and get out here.”
+
+Ren laughed and Gloria blushed.
+
+“Don't mind her.” He said. “She's always teasing me like that.”
+
+“You're kidding!”
+
+Ren shook his head. “Nope.”
+
+She looked at him with wide eyes.
+
+“Come on.” Ren said and stood up. “We can't keep the boss waiting.” He opened the bathroom door and went back into the room, then climbed into bed. Gloria peered out through the doorway, and looked at Stella; who grinned at her.
+
+“We weren't doing anything like that.” Gloria said as she stepped out of the bathroom.
+
+“I know that.” Stella said. “It was just a joke.”
+
+“It wasn't funny.”
+
+“Really?” Stella looked at Ren. “I could have sworn I heard someone laugh.”
+
+“That was me, obviously.” Ren said. “Gloria hasn't experienced your taste in humor yet.”
+
+“We'll be seeing each other once a week in real life, so she should pick it up fast.” Stella said, and turned to Gloria. “One day a week in real life. Saturday or Sunday. I'll give you my schedule so you'll know when I'm working here, and when I'll be home doing testing and will need your expertise.”
+
+“Sounds good.” Gloria said as she sat on the end of the bed. “What about virtual time?”
+
+“Ren and I discussed it, and we want you to set up a VPN on the micro-server there.” Stella said, and pointed to where it was mounted behind the television. “I've got a similar setup at home, and you'll need to bridge the two systems together.”
+
+“Not a problem.” Gloria said. “What else?”
+
+“We want you available for testing, for one game day a week.” Ren said. “That's one real life week, not a game week.”
+
+“That's a relief.” Gloria said. “I don't think I could handle logging in every 2 days.”
+
+“I know.” Ren said. “That's why we're setting it up this way.”
+
+“What?” Gloria asked. “Why?”
+
+“You only get 2 days off a week, and you're going to school and working.” Stella said. “I know what the garage is like, and I won't take any more of your free time than is absolutely necessary.”
+
+“That's... really nice of you.” Gloria said. “Both of you.”
+
+“We also discussed your salary.” Stella said. “After a lot of research, and finding out just what hiring you would entail...” She smiled. “...we've settled on an amount that we hope won't insult you.”
+
+“It must be pretty bad if you're worried about insulting me.” Gloria said, and braced herself. “Let me have it, then.”
+
+Stella handed her a small folded piece of paper, and Gloria took it. She opened it, and stared at the numbers.
+
+“You have got to be kidding me!” Gloria said. “I tried to not get my hopes up. I tried to not get excited about this... but... yes, I'm insulted.” She crumpled up the piece of paper. “This would barely cover my groceries for the month!”
+
+“The month?” Stella frowned. “That's not your salary per month. That's per week.”
+
+“It's per WHAT?!?” Gloria asked, surprised.
+
+“The average student researcher makes about 18 dollars an hour.” Stella said. “We need a 12 hour work day from you, once a week in real life.”
+
+“But...”
+
+“It was Ren's idea to include the virtual day of 12 hours as well.”
+
+“But... but...”
+
+“We know $432 dollars a week isn't much.” Ren said. “And we're fudging the numbers a little by including the virtual work...” He smiled. “...and yes, it will all be documented and the proper taxes will be paid. The thing is, I know you'll be working on this in your spare time for us, too. Once you pick this up, you're going to run with it.”
+
+“Ren, I...”
+
+“You don't have to accept right away.” Stella said. “Both Ren and I agreed about that. Take your time, and think about it.”
+
+Gloria shook her head. “I don't have to think about anything.” She said and reached out a hand. “I accept.”
+
+Stella shook her hand, and then so did Ren.
+
+“Welcome aboard.”

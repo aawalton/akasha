@@ -1,0 +1,319 @@
+---
+id: a0009875-63fb-5d76-b774-9a15f6cbe9a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 377 - Getting Ready To Party"
+slug: 0371-chapter-377-getting-ready-to-party
+partOf: mythrans-master-of-all-continued-completed
+position: 371
+ownLength: 3677
+unit: words
+publishedAt: 2017-10-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165904/chapter-377-getting-ready-to-party"
+royalRoadId: "165904"
+---
+
+Ren and Elise continued to play with each other for another hour, after getting towels to cover the bed so they wouldn't have to worry about making a mess. They kept going almost until the time Ren had to log back into the game. Elise had broken the kiss and looked at the clock.
+
+“I think you need to get cleaned up before going into the game.” Elise said.
+
+“Oh, damn.” Ren said and sighed dramatically. “You made me forget that I wanted to log in early.”
+
+Elise chuckled and her chest jiggled again. “I made you forget one of the best things that's happened to you?”
+
+Ren smiled and kissed her. “For some unknown reason, you're very distracting.”
+
+Elise laughed, and Ren had to grab her breasts to stop them from jiggling.
+
+“Stop distracting me and behave, you two.” Ren said and kissed one tip, then the other, which made Elise laugh more. “Hey, I said... oh, it's no use!” He said and dove onto her chest. “Laugh all you want!”
+
+Elise laughed and hugged him, and then she buried his face in her cleavage. She laughed to jiggle them for him, and then pulled him back out.
+
+“I think I just died and went to heaven.” Ren said and smiled, and she kissed him.
+
+“Come on, let's get you cleaned up.” Elise said and let him go. They went to the bathroom and washed each other quickly, and made themselves presentable. Elise pushed Ren in the wheelchair back to the theatre room and saw that Barbara, Gloria, and Stella were still engrossed the show they had started to watch after Ren's show.
+
+“Hey, Gloria.” Ren said. “I-”
+
+“SHHH!” The three women said together and cut him off. Ren looked up at Elise, and she shrugged. He pointed to the closest recliner and she nodded. She sat down and Ren sat on her lap to cuddle with her.
+
+“Thank you.” Elise whispered to him and kissed his cheek. Ren wasn't sure what she was thanking him for, so he just gave her a squeeze and snuggled in to wait for the show to end.
+
+About 10 minutes later the show ended, and Barbara, Gloria and Stella launched into a debate over what had just happened and what was going to happen next. Ren sat quietly through several minutes of this, and then couldn't take it anymore.
+
+“Ah... ahem!” Ren said and pretended to cough. They didn't react, and he sighed. “I said... AHEM!”
+
+The three women looked at him with surprise on their faces.
+
+“I'm sorry to interrupt, but Gloria and I are going to miss the start of the party quest.” Ren said, and Gloria shot to her feet.
+
+“Oh my god!” Gloria said. “I totally forgot!”
+
+“I almost did, too.” Ren said and kissed Elise on the cheek, which made her blush a little.
+
+“I'll set up my rig right away.” Gloria said and left the theatre room at a run.
+
+“I guess that's my cue to hit the hay.” Stella said. “Barbara, I leave the rascal in your capable hands.”
+
+Barbara laughed. “You do realize he's not logging out tonight, right?”
+
+Ren smiled. “It depends on how long the quest is, and how long it takes to get there.”
+
+“That's a definite no, in case you were wondering.” Barbara said, and everyone laughed. They left the theatre room, and Stella said goodnight and went into her room. Elise pushed Ren into his room with Barbara close behind, and they saw Gloria as she finished setting up her own VR system.
+
+“That's... not really one of ours.” Elise said, and Gloria laughed.
+
+“It used to be.” Gloria said. “I've added a few modifications.”
+
+“A few?” Elise pushed Ren to the bed and parked the wheelchair, then held a hand out for Gloria's headset. Gloria hesitated for a moment, then passed it to her. Elise looked it over, turned it around, and held it upside down. She knew better than to poke or prod anything on it, though.
+
+“Tell me you've figured out a bypass for the ram buffer.” Elise said.
+
+“That was the first thing I did.” Gloria said. “I also changed the circuit board for the processors, gave it a bios update to handle the modifications, and quadrupled the memory capacity with new memory chips.” She smiled. “It made the ram buffer so large that it doesn't even come close to reaching capacity.”
+
+“Okay, I need to make an appointment with you about this.” Elise said. “I'll be busy first thing in the morning while I make several copies of Ren's evidence folder and deliver them to the lawyer firm; but, I'm free in the afternoon.”
+
+“I'm not.” Gloria said and pointed to the headset. “I'm in the same mission as Ren, remember?”
+
+“You won't know if you're available until you're in there and find out what it is.” Elise said.
+
+Gloria nodded. “I can text you when I'm out, either for a break in the mission, or I died.”
+
+“Gloria.” Ren said. “I won't let that happen.”
+
+Gloria chuckled. “You're sweet, but it happens.” She said. “Elise, give me your number.”
+
+While they exchanged contact information, Ren went into the bathroom to prepare for an extended period of time with Elerlyth in the game, then went back out to his room. He grabbed the plastic step stool at the side of the bed and brought it over to Elise, then climbed up it to stand on it. It put his face a couple of inches higher than hers, and she blinked her eyes at him.
+
+“Thanks for coming over.” Ren said to her, and wrapped his arms around her neck and kissed her. Elise moaned before she could stop herself, then wrapped her arms around his back. They stayed like that for nearly a full minute, then Ren broke the kiss and tucked his head under her hair to put his mouth by her ear.
+
+“I love you.” Ren whispered and kissed her earlobe.
+
+“I love you, too.” Elise whispered back.
+
+Ren let her go and took the two steps off the step stool and moved it back to where it was, then used it to climb up and laid down on the right side of the bed.
+
+“I'll see you later.” Ren said and smiled at her.
+
+“We're both going to be busy this weekend, so I don't think it'll be soon.” Elise said, and Ren nodded. “Have fun, okay?”
+
+“I will.” Ren said.
+
+“Gloria, don't forget to message me as soon as you're out.” Elise said to her, and Gloria nodded. “Barbara.” She smiled and looked at Ren's night nurse. “Enjoy your rest.”
+
+Barbara chuckled. “Bye, Elise.”
+
+Elise left the bedroom and Gloria looked at the bed.
+
+“Um... you guys didn't... ah...” Gloria stammered.
+
+“We had towels down on the middle of the bed, so it's okay.” Ren said. “It was mostly foreplay, anyways.”
+
+“I did not want to know that.” Gloria said, and Barbara laughed.
+
+“I'd say you'll get used to the frankness; but, it surprises me sometimes, too.” Barbara said.
+
+“I told you, I'm not going to hide things from anyone in my life.” Ren said. “I'm going to be open and honest with you.” He smiled. “You just have to be careful of the questions you ask.”
+
+Gloria nodded. “Barbara? Can you get me a medium-sized towel, please?”
+
+“Sure.” Barbara said and went to the bathroom.
+
+“Ren...”
+
+“This isn't really a private setting, either.” Ren said. “Wait until we're in the game. I'll meet you in the apartment before I go to the forge.”
+
+Gloria nodded and Barbara came out with the towel. “Thank you.” She said, took out a pair of jogging pants and a t-shirt, then looked at Ren and Barbara.
+
+“Barbara? Can you hand me my VR headset and give us a few minutes alone?”
+
+“Of course.” Barbara said and gave Ren his headset. While he slipped it on, Barbara left the room. Gloria waited for a moment to see if he would peek, then took off her clothes, slipped the towel between her legs, and put on her jogging pants. It was a little uncomfortable, but it was also necessary. She'd made the mistake of not prepping beforehand once, and she wasn't going to make that mistake again. She put on the t-shirt and climbed onto the bed to lay down on the left side. She picked up her VR headset and slipped it on, then laid back and tried to relax.
+
+“This feels a little weird.” Gloria said. “I'm so used to my old recliner.”
+
+Ren reached a hand out to try and take hers. He found her arm, and followed it down to her hand and held on.
+
+“I've never done this before, either.” Ren said. “I guess there's a first time for everything.”
+
+Gloria chuckled. “See you in a few minutes.”
+
+“Flow Login Start.” They said together, and went into the virtual world.
+
+********
+
+Ren woke up on the left side of the bed in the game, with a pile of maids beside him. He shook his head at the twisted pile there, and looked up at the ceiling.
+
+Hi, Teepo. Ren thought to his friend.
+
+“Hi, Ren!” Teepo said. “You're not going to believe what happened!”
+
+What? Ren asked, with a good idea of what Teepo was going to say.
+
+“The maids tied themselves up in knots while you were gone!” Teepo chittered in laughter. “It was amazing!”
+
+Ren laughed, and that was enough to cause a ripple of amusement to enter the shared Aura. One of the maids gasped when they woke up and felt him, then they tried to struggle free of the pile. He reached out and tickled the foot closest to him, and one of them laughed.
+
+“Hey, don't...” A voice started to say, then she froze when she felt his presence in the shared Aura. “Ren!”
+
+That had been enough for the rest of the maids to wake up, and they untangled themselves. Frikara had been the one to gasp on the bottom of the pile, and it was Andrela's foot he had tickled.
+
+“I'm sorry I can't stay and play with you.” Ren said. “I'm going to be late if I don't leave right away.”
+
+“We know.” Frikara said. “We can feel the urgency from you.”
+
+Ren nodded and equipped his Travelling Clothes, then put on the Dire Wolf Hooded Cloak. He checked the tarantula, pet it, and made sure it was tucked away and secure. He checked the icebox and saw that they had enough food for at least a week, and turned to face them.
+
+“Well, I'm off.” Ren said. “Please stand up.”
+
+The maids stood up by the bed without question, and Ren took the closest one into his arms and kissed her. He gave her 5 full seconds, then let her go. Lusinia just blinked her eyes at him, and he could feel the surprise and a little bit of lust enter the shared Aura. He smiled at her, then kissed Frikara, who was the next one in the line. She embraced him and kissed him back, and he broke the kiss and left her slightly breathless.
+
+Next in line was Verwynn and he kissed her, then Navruth, and then Andrela. When Ren reached the end of the line, Frikara was there with a huge smile on her face. That made Ren laugh, so kissed her again. Of course, that meant he had to go back up the line to kiss the others again, and when he got to the end of the line, Frikara was there again and her face was quite red.
+
+“Only one delay tactic per day.” Ren said to her, and gave her a hug. “I don't know where the quest is, so you might not be able to contact me.” He said. “Please, stay safe and don't endanger yourselves.”
+
+“We can say the same to you.” Frikara said, and the other maids nodded slightly.
+
+Ren felt it as the maids gave him all of their support, and it lifted his spirits up. He looked at all of their faces and let a small amount of desire enter the shared Aura as he met each of their eyes.
+
+“I'll see you all when I get back.” Ren said and let Frikara go and looked into her eyes as well. Her face went to a deep red as she felt his desire for her, and he gave them all a slight bow. “Until I return, dear Ladies.”
+
+All 5 of the maids gasped as they received the popup for becoming a Lady in Ren's unregistered House, and he felt the huge burst of shock in the shared Aura. Before they could recover from his unexpected surpise, he left the bedroom and ran down the stairs to get Princess. She felt his urgency as well, and was out the bedroom door and waited at the front door for him.
+
+Ren chuckled. “Riley, Stacy. Guard the house and the women while I'm gone.”
+
+They barked at him, and Ren left the back bedroom door open and took Princess outside and down the street. The shared Aura faded as he left it's area of effect, and he brought Princess to his business. He left her outside and went in through the front door.
+
+“Hi, Anabelle.” Ren said and activated the forge.
+
+“Hello, My Lord.” Anabelle said. There was a customer looking at things in front of her, so he couldn't give her a kiss; so, he walked behind the customer and blew her a kiss instead. She smiled at that, and he went to the forge area and tossed a few high quality iron ingots into the smelter, then went out the door at the back of the shop and up the stairs to the apartment.
+
+Elerlyth stood there with her hands on her hips. She wore her armor bodysuit with web designs and cutouts in it, and her dark grey skin showed through the holes enough to excite you and make you think naughty things. It let Elerlyth feed on those emotions; but, it didn't even come close to actually showing you anything. It really was a good design on Ren's part, and suited Elerlyth perfectly.
+
+“There you are.” Elerlyth said. “I was getting worried.”
+
+“Yeah, we're going to be a little late to meet at Clint's; but, don't worry.” Ren smiled. “I've got a plan for that.”
+
+“It's not going to be something funky, is it?” Elerlyth asked.
+
+“Of course it is.” Ren said and laughed. “Now, what is it you wanted to talk about?”
+
+Elerlyth looked at him with raised eyebrows, and he nodded and stored his Travelling Clothes and underwear, which initiated the Blue Screen Protocol.
+
+“Okay, we're as private as we're going to get.” Ren said.
+
+“Do you really expect me to talk to you while you're naked?” Elerlyth asked.
+
+Ren shrugged. “You can get naked too, if you want.”
+
+“I meant with... Little Ren... hanging out in front of me.”
+
+“Oh, sorry.” Ren said and turned around to face away from her. “Is that better? What do you want to talk about?”
+
+Elerlyth sighed. “I wanted to ask why you're flaunting being intimate with other women in front of me.”
+
+“I'm not flaunting anything.” Ren said. “I'm intimate with them and just not hiding it.”
+
+“It kind of makes me uncomfortable when you do things like that in front of me.”
+
+Ren shrugged. “I'm sorry you feel that way, but I'm not going to stop.” He said. “Like I've told you, and everyone else that will listen, I get to choose what I do. I'll listen to advice, and possibly take it if it's relevant; but, I won't be tricked, or coerced, or forced into doing something anymore.”
+
+“But...”
+
+“The only real beef I have at the moment is with Lylyth. Since I agreed to feed her and told her I would do anything so that she wouldn't punish you for disrespecting her, I can't bitch about it.”
+
+“Ren...”
+
+“I love you, and I'll do everything I can to make you happy.” Ren said. “We're also good friends, and I like having you around; but, I won't ignore women who care about me in real life. How would they react if I told them that I won't hug them or kiss them with you around, because you're uncomfortable seeing me do it?”
+
+Elerlyth opened her mouth to respond, and she sighed. “Yes, I know it's unreasonable.”
+
+Ren put a hand over himself and turned around. He put his other hand on her arm. “I hope you know that I wouldn't do anything past kissing, holding hands, or hugging someone in public.” He said. “I don't mind a little excitement; but, having an audience that isn't into it is not something that I want to experience.”
+
+“I know.” Elerlyth said. “You're not an exhibitionist.” She looked down at him. “Not normally, anyways.”
+
+Ren chuckled. “I would have asked you to take your top off to have the Blue Screen Protocol go into effect, but I don't think I'd be talking too much if you did.”
+
+Elerlyth smiled. “I'm having a hard time trying to argue against you, too.”
+
+Ren grinned. “My dastardly plan has worked! Mwahahaha!”
+
+Elerlyth laughed. It wasn't because it was funny, but because she knew Ren had no such thought when he had stored his clothing.
+
+“Ren, I'll try to not let you showing affection to others bother me.” Elerlyth said. “Mind you, that's a lot easier to do in the game than it is in real life.”
+
+Ren nodded. “Yes, because you don't think the NPCs deserve to be treated normally.”
+
+Elerlyth frowned. “Where did that come from?”
+
+“I've seen how you treat Anabelle.” Ren said. “Like she's below your notice.”
+
+“Ren.” Elerlyth sighed. “I...”
+
+“Don't deny it.” Ren said. “I may not be concentrating on my Spider Aura right now, but I'm pretty sure I can tell when you're going to lie.”
+
+“All right, fine.” Elerlyth said. “I don't see them as people, okay? They don't matter as much to me, because they don't really matter at all.”
+
+“Why?”
+
+“Why what?”
+
+“Why don't they matter at all?” Ren asked.
+
+“Because... if one dies, they get replaced with another.” Elerlyth said. “They perform assigned tasks and that's it. No variation. No creativity.” She sighed. “They don't really matter.”
+
+“I'm just going to completely skip reminding you all about Nathalia and how she's changed, and evolved, as both a person and as a game character.” Ren smiled. “So, the one I'm going to point out to you instead, is Anabelle.”
+
+“What do you mean?”
+
+“You know what she was at the mansion.” Ren said. “You know she used to have sex for money. That was all she did. She was technically a maid, but she never had to perform maid tasks. She was given a strict set of rules, and left to her own devices most of the time.”
+
+“So?”
+
+“Look at her now.” Ren said and smiled again. “She's running one of the most successful businesses in Aurora. It's only a starter city with a limited population, and yet we're still selling furniture, weapons, armor, and items.” He chuckled. “I figured there would be a boom at the start, then things would peter out and I'd have to close down or change everything in the store to keep it fresh. I haven't had to do that yet, and it's been almost a month real time since we've been open.”
+
+“It... it's been almost 4 months game time?”
+
+Ren nodded. “I opened just before the first episode of the show aired, and we just watched the fourth weekly episode.”
+
+“The time is going by so fast.” Elerlyth said, surprised.
+
+“It's going to keep going by just as fast.” Ren said. “That's why I don't want to waste any time.”
+
+“Like I'm doing to you now.”
+
+Ren moved the hand from her arm to cup the side of her face and rubbed her cheek with a thumb. “If I had thought this was a waste of time, I wouldn't have taken my clothes off to give us privacy.”
+
+Elerlyth looked down at him, saw that he wasn't excited, then looked back at his face. “And what if I asked you to have sex right now?”
+
+“It would have to be a quickie.” Ren said. “Even if we didn't have a quest to go to, I don't have an unlimited amount of time right now.” He said. “I'm staying in overnight, though... so, if you want to level up then, I'll make sure we have some privacy.”
+
+“With 5 other guys around?” Elerlyth laughed. “There's just as much chance of privacy tonight as we had today at your place.”
+
+Ren laughed, too. “Hey, this is me we're talking about.” He said. “I've got something special that's just itching to be used.”
+
+Elerlyth looked down again, and Ren laughed.
+
+“I didn't mean that.” Ren said. “So, can you handle it if I kiss Anabelle goodbye?”
+
+“Yes, I can handle it.” Elerlyth said.
+
+“I'm glad.” Ren said and equipped his clothing. “Despite what some people say, having air flowing around my naughty bits isn't a freeing experience.”
+
+Elerlyth laughed again and hugged him.
+
+“I have a quick errand to run before we leave.” Ren said. “Do you want to wait here for a few minutes while I go and visit Issac?”
+
+“What about my armor?”
+
+“I can do it on the way.” Ren said.
+
+“You can?”
+
+“Sure.” Ren said. “I just have to fill my large crucible with molten metal so I can set the diamonds in place.”
+
+“You're not going to reforge the armor pieces?”
+
+Ren shook his head. “It's a waste of time without Tee-one here.” He said and walked towards the apartment door. “Going or staying?”
+
+“Staying.” Gloria said. “You wouldn't delay leaving on a quest to go and see Issac the Enchanter if it wasn't important.”
+
+Ren nodded. “I'll be right back.” He said and left the apartment at a run.

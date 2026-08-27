@@ -1,0 +1,427 @@
+---
+id: 91551a34-07d6-5e6e-843c-764ff1292f0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 444 - Mirror, Mirror"
+slug: 0443-chapter-444-mirror-mirror
+partOf: mythrans-master-of-all-continued-completed
+position: 443
+ownLength: 4290
+unit: words
+publishedAt: 2017-12-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178791/chapter-444-mirror-mirror"
+royalRoadId: "178791"
+---
+
+Janice had tried her best; but after half an hour, she had to give up. Just like the big bad wolf, it wasn't possible for her to blow Ren's house down.
+
+“Damn, Ren.” Janice said and rubbed her jaw. “Why isn't it working?”
+
+“I guess I really am the gift that keeps on giving.” Ren said, and she laughed.
+
+“Well, at least I've discovered why you can have so many women... and keep them happy.” Janice said and stood up. “You're a machine!”
+
+Ren laughed as he put his clothes back in order. “I guess it does look that way.”
+
+Janice put a hand on his shoulder. “Ren, can I ask you...”
+
+“Am I ever really satisfied?” Ren asked, and she nodded. “Yes, and no.” He said, and she chuckled.
+
+“Can you explain that?”
+
+“I've had satisfying sex. Quite a few times, actually.” Ren said. “I'm always up for more, though... excuse the pun.”
+
+Janice stepped close and wrapped her arms around him. “Ren, we're friends, right?”
+
+Ren nodded. “Especially now.”
+
+Janice snorted a laugh. “Ren... look, I know that...” She sighed. “I've seen a lot of things, and I've met a lot of people... and I can honestly say that you're the first man I have ever met that can keep going like... well, like a woman.”
+
+Ren nodded, because he had heard that a few times now.
+
+“If you need another friend... just a friend... to hold your hand, to spend a bit of time with, or to talk about things... I'm right here.”
+
+Ren smiled. “Thanks for the offer...”
+
+“Don't say 'but'.” Janice said. “I'm offering to be a cuddle buddy. No strings attached.”
+
+“Janice, I... I have so many others...”
+
+“They aren't always going to be around, are they?” Janice asked, then she smiled. “Even then, just seeing another friendly face once and a while can be a nice change of pace.”
+
+“But...”
+
+“Look, just like now.” Janice said. “You came over and we talked. You told me some bad things, then some great things, and we fooled around a little.”
+
+“But...”
+
+“We didn't even have sex... and we never have to.” Janice said. “I won't even argue that it was virtual and not 'really real'.” She smiled. “Before you say no... we could have had sex... and I won't object to it if it does happen; but, that's not why either of us are here.”
+
+Ren took a deep breath and let it out. “Janice...”
+
+“Even with my arms wrapped around you, this is still just a friendly hug.” Janice said. “Can you feel any sexual tension?”
+
+“No.” Ren said. “You're not rubbing yourself on me like a cat with catnip, either.”
+
+Janice laughed and let him out of the hug. “Would you rather if I did?”
+
+“No, but I kind of expect it.” Ren said. “It seems to happen more often than not.”
+
+Janice put a hand on his shoulder. “I won't hang all over you the next time you come over, how's that?”
+
+“I didn't say I didn't like it.” Ren said and grinned, and she laughed again.
+
+“To change the subject, we need a lot more silver mixture if you're going to make enough mirrors to cover the walls of the club.”
+
+“That's where I was going.” Ren said. “I've got a huge forge and smelter next door, and I'll get a pile ready.”
+
+“Sounds good.” Janice said and looked at the floor in front of the glass forge. “How big of a mold...”
+
+“10 feet by 10 feet.” Ren said and she coughed.
+
+“R-Ren!”
+
+“What?” Ren asked.
+
+“I've never made a pane of glass that big!”
+
+“Just make it thicker, but you're the expert so you'll have to judge how thick it should actually be.” Ren said. “I'll help when I come back in a minute.” He said and opened the door to the outside. “Janice...”
+
+“You're welcome.” Janice said and smiled. “Consider it a proper thank you for what you did earlier.”
+
+“Really? Is that how it's supposed to work?”
+
+“Most times.”
+
+“Damn, I've been short-changed a lot.” Ren said, and laughed at her shocked expression. “Be right back.”
+
+Janice could only nod as he left and ran next door. When he got there, one of the satellite smelters was already half-filled with steel.
+
+“Thanks!” Ren said and tossed in several hundred silver coins to make the mixture even and filled the smelter up to the top. He skimmed off the impurities, stirred it up, and took out the large crucible and filled it. He stored it and ran back next door. He knocked, and Janice opened the door.
+
+“You don't have to knock.” Janice said. “You can just come inside.”
+
+“I could make a joke about that.” Ren said and chuckled.
+
+“Quiet!” Janice laughed and slapped his shoulder. “Get to work!”
+
+“Yes, ma'am.” Ren said and stood ready as she poured out the molten sand. He used his hands to move it around the 10 foot by 10 foot mold, and when Janice nodded that it was the right thickness, he absorbed the heat from it.
+
+“That is a huge piece of glass.” Janice said.
+
+“It's also about to be the biggest mirror you've ever seen.” Ren said and took out the large crucible and poured it over the glass. He spread it out with his fingers to give it a nice coating, and was glad that it was just enough.
+
+“There's no way you can lift that thing without breaking it.” Janice cautioned.
+
+“Not without enchanting it first.” Ren said and thought about Augment runes for Toughness and Durability, then added Reinforcement to make the thing strong enough to hold the enchantment and to keep it's shape, and enchanted it. He thought about using Double Infusion on it; but, he didn't want to push his luck with the materials. He could feel that it wasn't going to hold much more than what he had already used.
+
+Ren very carefully picked up the edge of it and then stood it up. “Wow.”
+
+“That's amazing!” Janice said. “It really is the biggest mirror I've ever seen!”
+
+Ren thought about the size of the club, and smiled. “Only 29 more to go.”
+
+“Wh-what?”
+
+Ren chuckled. “The large main room is about 40 feet by 40 feet. So, 16 mirrors is enough to cover it, put a mirror on each of the ceilings in the 12 work rooms, and the last two will give me enough left to cut up for the dressing room mirrors.”
+
+Janice nodded and they kept working. Ren kept running back and forth to the smelter to get more silver-steel mixture, and they made all 30 mirrors in an hour, and he had leveled up his Mirroring skill 3 times.
+
+“Your skills are just too awesome, Ren.” Janice said. “It would take me hours to make just one of these things!”
+
+Ren gave her a one arm hug around the waist as they looked at the stack of large mirrors. “I told you not to be intimidated, remember?”
+
+“Yeah, yeah.” Janice said and chuckled as she put an arm over his shoulder. “I'm not you, but I'm still intimidated.”
+
+Ren looked up at her. “Ask me how many glass bottles I've made since the last lesson I had.”
+
+“How many bottles have you made, worker bee?”
+
+“None.” Ren said, and he felt her surprise.
+
+“What?”
+
+“Zip. Ziltch. Nada.” Ren chuckled. “I'm usually too busy to play around, and the last little while, well... that was a quite a bit out of my control.”
+
+Janice gave his shoulder a squeeze. “I'm sorry.”
+
+“Me, too.” Ren said. “Let's get these over to the Pleasure Palace, and you can finally see the place.”
+
+“Can we do that?” Janice asked as Ren stored the mirrors.
+
+“I know the owner.” Ren said, and she laughed.
+
+“Then lead the way, smart ass.”
+
+Ren held the door open for her and they walked down the street to the Pleasure Palace.
+
+“This town is really coming along.” Janice said, and Ren nodded.
+
+“I'm regretting a little that I haven't been here the last little while to help; but, once again...”
+
+“You're going off again, aren't you?” Janice asked.
+
+“Yeah.” Ren said. “I learned that I was shuffled off so that I wouldn't be able to participate in any of the quests for the world event.”
+
+“Why would they... wait a second.” Janice touched his arm and he turned to look at her. “You little sneak! You're gonna mess it all up!”
+
+“Guilty.” Ren said and grinned. “I didn't get the world event popup when I came back, so I know I won't be offered any of the quests, either. So...”
+
+“You're going to ruin it for everyone else?”
+
+Ren chuckled. “I'm not going to wreck everything; but, I'm also not going to sit by and let everything happen around me and do nothing.”
+
+“I think I'm seeing why you were sent off.” Janice smiled, and they started walking again.
+
+“Yeah.” Ren said. “I've got a plan, but it's super crazy.”
+
+Janice laughed. “I haven't known you for very long, but I totally believe that!”
+
+Ren laughed, too; and they walked across the parking lot for the Pleasure Palace and Ren touched the Sending Square by the door.
+
+“I'd like to come in, please.” Ren said, and the door opened. He and Janice walked inside and he saw a woman run towards him.
+
+“Hi, Ren!” Jennifer said and immediately embraced him. “You're looking extra cute!”
+
+“You're such a liar.” Ren chuckled and hugged her back. “I'm always extra cute.”
+
+“Ha ha!” Jennifer laughed and gave him a squeeze. “What are you doing here?”
+
+“Janice and I made mirrors for the place.” Ren said. “I even have some for the ceilings in your work rooms.”
+
+“Yay!” Jennifer bent down and kissed his cheek. “You're so good to us!”
+
+“Jennifer, stop hanging on him.” Gina the Manager said as she came over. “Hi, Ren.”
+
+“Hi.”
+
+“It's been a while.”
+
+“I've been indisposed until now.” Ren said. “I came here to handle some things.”
+
+“I heard.” Gina said. “Where are you going to put them?”
+
+“Anywhere you want.” Ren said. “We made enough to cover this whole room.”
+
+“Y-you're kidding.”
+
+“Nope.” Ren said and smiled. “Do you want all the walls done, just one wall done, accents spread around, or what?”
+
+Gina shook her head. “Come and have a seat.” She said and waved to the closest stage. “Let's go over the plans and find the best place to put your hard work.”
+
+Janice snorted a laugh. “It wasn't hard at all for him!”
+
+“Hey, that's not true.” Ren said and grinned. “I'm still hard.”
+
+“Despite my best effort, too!” Janice laughed.
+
+“Did we miss something?” Gina asked, and Ren felt her confusion.
+
+“Just a running joke about sexual innuendo.” Ren said. “No biggie.”
+
+Janice and Jennifer laughed, exchanged glances, then laughed harder.
+
+“Okay, it's just me that missed that one.” Gina said. “You two can just stand here and laugh.” She said and took Ren's hand. “Come over to the table and show me what you got.”
+
+“Bwahahaha!” Jennifer and Janice laughed out loud.
+
+“Grow up.” Gina rolled her eyes at them and led Ren over to the stage. They sat down to discuss where the best place was to put the mirrors, and when he told her they were 10 feet by 10 feet, she didn't believe him. Ren stood up and took one out, and she nearly fainted.
+
+“Look at me!” Jennifer said when she caught sight of herself in the huge mirror, and started to dance in front of it. “I look great!”
+
+“Have fun.” Ren said and propped the mirror up next to the stage so Jennifer could keep watching herself, and sat down again. Gina still couldn't believe how big the mirrors were; but, she talked about the best spots. At least one side wall needed to be covered, and there needed to be at least one in the hot tub room.
+
+Ren told her about wanting to put them on the ceilings in the work rooms, and Gina thought that was a great idea. She called the other girls over and asked them if they wanted mirrors installed, and they all heartily agreed.
+
+Candy, one of the dancers that had competed in the dance off competition with another dancer Apple, leaned over and gave Ren a little hug.
+
+“Having a mirror to look at is going to be so...” Candy's words drifted off as she caught sight of Jennifer taking her top off. “Jennifer? What are you doing?”
+
+“Practicing.” Jennifer said and swung her hips in the mirror, then flicked the metal covers on the tips of her breasts with her thumbs. “I'm so goddamn hot!”
+
+Several of the dancers laughed, and two of them walked over beside her and started their routines, too.
+
+“This is great!” Caramel said. “I can see where I'm messing up!”
+
+“It's your elbows.” Jennifer said and cupped her own breasts. “Keep them... in a little more.” She half-moaned and bent down next to the mirror. “You don't want to... look like a chicken... trying to fly.”
+
+“Thanks!” Caramel said and pulled her elbows in.
+
+“She's really getting into it.” Apple said as she watched Jennifer dance. “Who needs customers, right?”
+
+“So damn hot.” Jennifer said, and all the dancers laughed as she laid down on the floor, rolled over onto her back, and stared at herself in the mirror as she arched her back and pushed her chest up into the air.
+
+“O-kay.” Gina said and looked at Ren, who was watching Jennifer intently. She tapped his cheek with a fingertip to get his attention. “Eyes this way.”
+
+“Hm?” Ren blinked his eyes. “Sorry, I thought she wanted me to watch.”
+
+“I do.” Jennifer said as she threw her legs up and over her head, rolled up and over her back, put her knees on either side her head, and ended up kneeling with her back to the mirror.
+
+“Did she just...” Ren stared.
+
+“...do a reverse somersault from a laying down position?” Gina asked and he nodded. “Yes.” She said and laughed. “I guess we're all going to have to watch now.”
+
+Jennifer went through a much different dance routine than what she did for Ren to win the first dance, and he watched her as she performed. Her careful movements were both graceful and erotic, and she successfully entranced everyone until she was done.
+
+Jennifer stood up at the end and panted heavily. “How... was that?”
+
+“It was great!” Ren said and used an Energize spell to restore her Stamina. He felt her bubbly personality almost burst from her with her restored energy.
+
+“Thank you!” Jennifer said and skipped over to give him a hug. “I'm so glad you liked it!”
+
+“You can't do that every night.” Gina said, and Jennifer laughed.
+
+“I'll cut it down, don't worry.” Jennifer said. “I was just testing the flow and the energy of the room.”
+
+“You definitely had everyone's attention.” Ren said, and she kissed his cheek.
+
+“Come to my work room and install the mirror.” Jennifer said, and Ren felt how horny she was.
+
+“I... ah... need to talk to Gina and...”
+
+Jennifer sighed and let him go. “Oh, all right.”
+
+“You can't test the mirror with him, either.” Gina chuckled. “We'll be opening soon.”
+
+“I wasn't going to test it.” Jennifer said as her face flushed a little red, and Ren almost winced at how powerful the lie was.
+
+“Uh huh.” Gina said and looked at Ren. “If we do the back of the bar, this whole wall...” She pointed at the right wall. “...the wall in the hot tub room, the ceilings in the 12 work rooms, and the mirrors in the dressing room... will you have enough?”
+
+“Plenty.” Ren said when he did the math. “Should I get started?”
+
+“Please.” Gina said and Ren stood up.
+
+“I'll do this wall first.” Ren said and walked over to it and removed the plaques of weapons and shields from the wall.
+
+“How are you going to attach them?” Janice asked.
+
+“I thought about making wood frames and setting them into it; but, I don't think that would look good in this setting.” Ren said. “Then I thought about making a rune for stickiness or something, and that made me realize I already have the perfect thing to stick them up.”
+
+“What's that?”
+
+“Webbing.” Ren equipped his armor to gain access to his wand mounts, and 3 of the dancers around him gasped. He turned around when he felt extreme desire, and saw Cinnamon, Jennifer, and Spice were practically drooling.
+
+“What is it?”
+
+“You look... delicious.” Cinnamon said and almost moaned. “Shining gold armor is such a turn on.”
+
+Ren could feel it really was for her, and looked at the other two.
+
+“You look just like... a really short Prince Charming.” Spice admitted. “I fell in love with him while reading Sleeping Beauty.”
+
+Ren knew she was telling the truth, and looked at Jennifer. She actually was drooling and had a firm grip on one of her breasts as she massaged the other.
+
+“Jennifer?”
+
+“Your metalwork... the inset gems... the... the intricate details!” Jennifer said, then gasped and shook slightly. Ren fought hard not to react to her reaction as his Emotion Siphon ability absorbed some of the pleasure she felt.
+
+“Sit down.” Gina said to Jennifer and gave her a chair, and she sat down.
+
+“Oh... oh, my.” Jennifer said and took several deep breaths to calm down. “That hasn't happened in a while.”
+
+Cinnamon bent over and hugged her from behind. “Easy there, girl; it's just armor.” She said. “Jewel-encrusted hand-crafted shimmering gold armor.”
+
+Jennifer gasped again and shook. Cinnamon laughed and kissed her cheek.
+
+“Stop teasing her.” Gina said and looked at Ren. “Mirrors.”
+
+“Right! Mirrors!” Ren said and turned to look at the wall. “What was I going to use again?”
+
+“Something white and sticky.” Janice said, and Ren's face flushed a little red. She laughed and touched his shoulder. “I meant webbing.”
+
+Ren nodded and he replaced one of the wands with Web spells, then shot the wall with a single web spell. At Level 5, the web covered a 30 foot wide circle; so, Ren equipped his hammerpick and Jennifer gasped again. He closed his eyes as her pleasure washed over him and absorbed some, took a deep breath and enchanted the hammerpick with Fire runes, then used Double Infusion to do it again. The hammerpick was engulfed in an inch of bright blue flame, and he used the plow end to cut the excess webbing off.
+
+Ren only needed the web to be 10 feet tall; so, he used his Fire Manipulation ability to burn away the rest of the web; which left a 10 foot tall and 30 foot long web. Nearly all of the dancers had gasped when he walked up the wall to cut off the top of the web and burn that away; but he successfully ignored them. He used another Web spell to cover the last 10 feet of the wall, used the hammerpick to clear away what he didn't need, and jumped off the wall to land on the floor.
+
+Ren used a Permanency spell to make the Web permanent in it's current state, then took out a mirror and stuck it into place. He put up the other three, then took out the plaques that used to be on the wall. He laid them down on the floor and did the same Web application trick to the backs, made the web permanent, and stuck them to the mirrors in the same spots they were before.
+
+“There.” Ren said and stored the hammerpick as he stepped back to look at his work. He could see a perfect reflection of the entire room and everyone in it, and with the mirrors so big, you barely noticed the lines where one mirror ended and the other one started. He smiled broadly as he looked at the women and their reflections, and he could feel their awe. He turned around and walked over to the hot tub room and did the same thing to cover a wall in there, then came back out.
+
+Everyone still stood there in awe as Ren picked up the mirror Jennifer had danced in front of, went over to the bar and applied the mirror to the wall in behind after moving the shelves out of the way. He put the shelves back and felt the women start to overcome their awe.
+
+“I'll need help positioning the mirrors on the ceilings.” Ren said, and several of the dancers came over to him.
+
+“Mine's right there!” Candy said and pointed to the door beside the bar. Ren nodded and followed her inside her room. He didn't know where the mirror was supposed to go, so he told her to get on the bed. Candy jumped onto the bed happily and rolled over to look up at the ceiling. Ren applied the web to the ceiling and walked up the wall.
+
+“This is so trippy!” Candy said and giggled.
+
+“Let me know if this is where you want it.” Ren said and took out a mirror and held it just below the web.
+
+“Um... a little to the left. No, the other left.” Candy said.
+
+Ren chuckled and moved it back.
+
+“A bit more. Now up a little.” Candy said. “Right there.”
+
+Teepo?
+
+“I got it.”
+
+Thanks, buddy. Ren thought and stored the mirror, and followed Teepo's instructions on where to trim the webbing before making it permanent. Once that was done, Ren put the mirror in place and walked back down the wall to the floor.
+
+“How's that?” Ren asked.
+
+“I think it looks okay.” Candy said. “Have a look.”
+
+Ren climbed onto the bed and laid down beside her, and looked up at the ceiling. The mirror was so big that it showed the entire room's reflection, and he looked a little odd wearing full armor laying on a bed, and he chuckled.
+
+“What's funny?” Candy asked and moved her head to rest it by his, and her reflection did the same.
+
+“You're almost completely naked.” Ren said and pointed at her reflection, and his reflection pointed at her. “Me? I'm fully armored.” Ren said and pointed at his reflection, which pointed back at him. “Doesn't that look odd?”
+
+“Then store the armor.” Candy suggested and turned her head to look at him. “Just for a minute.”
+
+Ren stored the armor and left on his black bodysuit. “You're right. That does look better.”
+
+“It sure does.” Candy's hand reached over and rubbed his chest, then she rolled onto her side and draped a leg over him. Ren didn't feel any overt sexual desire from her, even when she pulled herself in to cuddle and gave his cheek a kiss. “Thank you.”
+
+“You're welcome, Candy.” Ren said and pat her arm. “I really should get the other mirrors put up.”
+
+Candy smiled and pulled her leg off of him. “My sex appeal isn't doing anything at all for you, is it?”
+
+Ren sat up and leaned down to whisper in her ear. “It might if you were genuine about it.”
+
+“Wh-what?”
+
+Ren held up his index finger and very lightly touched the spot over her heart. “I can feel what you feel. I could be any man at all, and you'd feel exactly the same way.” He said. “Right?”
+
+“I... yes.”
+
+“There's absolutely nothing wrong with that.” Ren said and smiled. “Having you treat me normally is a definite improvement over when we first met.”
+
+“Wh-what?”
+
+“You remember, don't you?” Ren asked. “When the guys took me to the Pink Pearl for the first... and last time... you, Jennifer, Spice, Saffron, and Pepper were debating on what you were going to do because of me.”
+
+Candy's mouth dropped open. “H-how do you know that?”
+
+“I normally don't tell people this; but, I don't want you to think that anyone is spilling secrets about you behind your back.” Ren said and used the finger he had touched her heart with to tap his ear. “These ears of mine aren't just for looks.”
+
+“You... heard us.” Candy said and then sighed. “You must have hated us for what we said.”
+
+Ren shook his head. “You were being honest, and it was a real problem.” He said. “I also didn't want any of you to choose me over your regular customers.”
+
+“Spice was tempted to, but she really likes Hank.” Candy said. “I like Tommy.”
+
+“I know.” Ren said and sat up. “I don't hold anything you said then against you; or against any of you.”
+
+“Why not?”
+
+“You feel how you feel.” Ren said. “You don't need to feel ashamed about it.”
+
+“But... we were being mean.” Candy said and sat up, too. “Then we were all relieved when Janice came in.”
+
+“I was, too.” Ren said and smiled. “It let me solve your problem without causing any awkwardness.”
+
+Candy blinked her eyes at him for a moment, and Ren felt a spark of actual affection from her. “Thank you, Ren.”
+
+“I'll accept your thanks, if you accept my apology for making you all lose your jobs.”
+
+“Since you gave us a great vacation and then our own place to work so we can make more money than we've ever had before.” Candy said and laughed. “I'll gladly accept your apology!”
+
+“As long as you're having fun while doing it.” Ren said and grinned.
+
+“Oh, I am.” Candy said. “With no boss to boss me around...”
+
+Gina poked her head into the room. “Hey, get to work!”
+
+Ren and Candy exchanged glances and laughed.

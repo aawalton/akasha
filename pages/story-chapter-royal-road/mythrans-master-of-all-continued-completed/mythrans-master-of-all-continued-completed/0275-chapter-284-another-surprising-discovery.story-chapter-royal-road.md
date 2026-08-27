@@ -1,0 +1,375 @@
+---
+id: 1a092fac-6800-596b-9922-3bd8f95ebf9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 284 - Another Surprising Discovery"
+slug: 0275-chapter-284-another-surprising-discovery
+partOf: mythrans-master-of-all-continued-completed
+position: 275
+ownLength: 4105
+unit: words
+publishedAt: 2017-06-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143162/chapter-284-another-surprising-discovery"
+royalRoadId: "143162"
+---
+
+As the pile of things dwindled, the female dwarves had less and less to stand on. After Ren had stored everything, the 5 women were left standing between the wall and the floor because the angle the room was tilted at wouldn't let them stand on either surface safely. One crouched down and tried to sit, but the rest just braced their feet and leaned on the wall. Ren took out several chairs and braced them against the wall for them to sit on. They thanked him and looked around the now empty room.
+
+“Wow.” One of them said. “A whole year of my life spent here, and all that's left is an empty room.”
+
+One of the women laughed. “I've been here 3 years, and I've always seen it as empty.” She said, and reached a hand out to the other woman. “Except for the great company.”
+
+“Yeah.” Another said. “With all that stuff gone, you see what really matters.”
+
+“Each other.”
+
+“I can't believe it's over.” One of them said, and a tear came to her eye. “What am I going to do now?”
+
+“Hey, it's all right.” The last one said, and hugged her. “No matter what, we stick together. We'll figure something out.”
+
+Ren had pulled out a desk and started searching through the drawers. “At least you won't have to worry about money for a while.”
+
+“Wh-what?”
+
+The search of the desk turned up nothing, even with Enchanted Eyes.
+
+“Since I already have all of the things from this room stored, why don't you take them and split the profits?” Ren asked. “I told you before, I don't need the money.”
+
+“By the gods, you're crazy!” One of them said. “No one in their right minds would buy all the things that were in here!”
+
+“Throgg wasn't in his right mind when he bought them the first time.” One of them laughed. “Everything was custom made and covered in gold.”
+
+Ren shrugged. “I'm a business owner. I can sell the items at a 10% loss and give you the money for it.” He said. “Watch.”
+
+Ren selected the desk and chose 'sell back to the system'. He received 3 platinum for the custom made gold covered desk, and handed the money to the closest female dwarf. She stared at the money like it was a snake that was trying to bite her.
+
+“You... you...”
+
+Ren took out the cabinet next and opened it. It was full of clothes, and he searched through it. There were no hidden compartments or enchanted spaces.
+
+“Don't sell it!” One of them said.
+
+Ren chuckled. “Don't worry, I wasn't going to.” He said. “I assumed it had your clothes in it, and I wouldn't sell it unless you wanted me to.”
+
+She sighed in relief. “Yes, we'd only have the clothes on our bodies if you sold all the cabinets.”
+
+Ren stored it and took out a dresser. He searched through that as well, but found nothing. This was repeated several times until he came across the iron and wood chest and took it out of inventory. The entire thing glowed, and the lock on the chest glowed, too.
+
+“This looks promising.” Ren said.
+
+“Stop!” One of the female dwarves said. “You shouldn't try to open that.”
+
+“Why?” Ren asked.
+
+“It's a trap.” She said. “It drains your Health and Mana until they're empty.”
+
+Ren looked at her. “You saw it working, didn't you?”
+
+She nodded. “It was our first day.” She said. “My friend and I had signed the contracts at the same time, and Throgg had ordered us to put our clothes away. My friend thought it was a normal chest and tried to open it.” She sighed. “After a few moments, she collapsed to the floor and died.”
+
+“That's why there's also a lock on it now.” One of the other women said as she hugged the other. “Throgg didn't want to pay another monetary penalty to someone's family for having their family member die under contract.”
+
+“That's also why we were ordered to stay in this room.” Another one said. “To protect us.”
+
+“He was such an idiot.” Ren said, as he thought about using the Knock spell on the chest. “He should have ordered you not to touch something so dangerous.” He said and took out the wand. “That was one of the first orders I gave to my own personal maid.”
+
+All of the female dwarves stared at him with open mouths at Ren's admission, then watched as he took out a wand and shot the lock on the chest. It stopped glowing and popped open. He removed the lock from the chest and used the Knock spell again. There was a loud click, and the chest popped open.
+
+“By the gods.” Ren whispered.
+
+Inside the chest was a stack of parchment almost 6 inches thick. That wasn't what had surprised him, however; it was the 12 small wooden boxes beside the stack that looked identical to the one he had looted from the head of the Thieves Guild's body.
+
+Ren picked one up and opened it. He wasn't surprised to see the three rows of 15 shadow markers. With 12 boxes, that meant there was 540 shadow markers in total... with a value of 54,000 platinum.
+
+“Oh, those horrible things!” One of the female dwarves said. “He was always counting them and making sure none were ever missing.” She laughed. “Like we'd ever touch things like that.”
+
+“He's been collecting them forever.” Another one said. “It bothered me to know the only way to get them was to be hired for a...” She looked at Ren, and blushed a deep red. “He did a lot of bad things.”
+
+Ren nodded to her, and she gasped from the Honor gain. “It's okay. I know all about the shadow markers.” He said. “Any time I come across one as loot, or someone who found one as loot, I buy it from them.”
+
+“You WHAT?!?”
+
+“I don't want them floating around.” Ren said to her. “Like you said, the only way to get them is if you do something bad. Either by doing a bad thing for someone, or by killing someone that was hired to do something bad.” He explained. “I've made it a standard practice to offer 30 gold coins for them, as if they'd found a special pair of boots and sold them for the value.”
+
+“Oh... oh my...” One of the female dwarves said, and Ren looked over at her. It was the one that had the broken wrist and wanted to have sex with him. She had her eyes closed and he could see her arm moving; but he couldn't tell where her hand was because it was tucked into her clothing. He could make an educated guess, though.
+
+Ren smiled and looked back at the chest. He stored the 12 boxes of shadow markers, and they joined the stack in his inventory with the other two, then he started to flip through the stack of parchment papers.
+
+This is taking too long. Ren thought, and stored the stack. His inventory sorted the sheets into smaller stacks. One was business contracts when he checked them, another was a list of contacts. I'll look through that one later. He thought, and checked the next small stack. It was a stack of property deeds, and he noticed that each of them had a payment amount on them for taxes.
+
+He was milking the taxes from the people, then shorted the government by making smaller payments. Ren shook his head as he stored the stack of property deeds and took out the last stack. There were 15 personal contracts, and he flipped through them. He didn't know which ones were for personal maids, or what the other ones were for.
+
+“I found the contracts.” Ren said and held them out. “There's 15 of them, though.” He said. “I'm not going to ask you your names...”
+
+“Aww.” One of them said, and they all laughed.
+
+“What I am going to do, is read out the name on the contract. If you hear your name, let me know.” Ren said, and looked at the first contract. He started to read the names, and as he progressed through them, each of the female dwarves let him know which one was them and he handed them their contract. The second last name he spoke was the fifth woman's name, and he handed it to her. All 5 of the female dwarves stared at him with wide eyes when he finished.
+
+“I don't know what these other contracts are for, so I have to keep them for now.” Ren said. “I'll head to the Hall of Records later to see who they are, and what the contracts are for.”
+
+The women didn't speak at all, and Ren looked at each of them.
+
+“What is it?” Ren asked them.
+
+“You... you just... you're giving us our contracts?” One of them said, and then started to cry. “You're letting us go?”
+
+“Of course I am.” Ren said and stored the other contracts. “You've been under contract long enough, I think.”
+
+The women exchanged glances and then looked at the piece of parchment they held.
+
+“On three!” One of them said. “One!”
+
+They all gripped their contracts to tear them up.
+
+“Two!”
+
+Each of them smiled.
+
+“Three!”
+
+They all tore their contracts in half, then in half again, and tossed the pieces of parchment into the air. As the pieces started to fall, they disappeared; and 3 of the women were quite happy. The last two were quite sad that this part of their lives was over. Just as the last piece of parchment disappeared, Ren received a popup.
+
+Warning!
+
+You have allowed people under contract to you to destroy your legal property.
+
+You have been fined: 25 gold, plus 1 gold each to replace the contracts. Total: 30 gold
+
+Due to the nature of these contracts, any kind of damage, destruction, or subversion of it's clauses will cause fines to be applied as appropriate to the situation.
+
+This is your first warning.
+
+“Ah, dammit.” Ren said, as the contracts reappeared in his hands.
+
+“What's wrong... oh.” One of them said. “It didn't work.”
+
+“Yay!” One of the sad women exclaimed, then put her hands over her mouth. “Sorry.”
+
+“It's okay.” The other sad one said, and smiled. “I'm glad it didn't work, too.”
+
+Ren stored the 5 personal maid contracts into a separate slot in his inventory, looked up at the ceiling, and spread his arms out wide. “What part of 'I can't have another woman in my life' didn't you understand?”
+
+There were several girlish laughs in response, and Ren looked at them.
+
+“Despite what I've said, and wanting you free...” Ren sighed. “...I've apparently taken over your contracts.”
+
+“Well, it could have been worse.” One of them said. “You could have left us here to starve to death.”
+
+“That's a pleasant thought.” Another one said and laughed. “Or killed us and left.”
+
+“Please, no more speculation about what I might have done if I was a merciless monster.” Ren said, and looked back at the chest. “It's bad enough that I've been making sure all of the thieves are dead.” He said and felt the bottom of the chest. “I gave my word that I would kill them all, but I don't have to like it.”
+
+The bottom of the chest was soft, unlike the sides, and Ren used Iron Grip to grab it and pulled. The cloth lining tore, and underneath was lined with rows upon rows of platinum coins.
+
+“I won't have any problems keeping you clothed and fed.” Ren said and stored the chest to empty it later.
+
+“Where have you gone so far?” One of them asked. Ren told her all the rooms he'd checked, and that this was the last one on his way to the surface. She nodded slightly. “You're right. This would be the last spot to check.” She said. “We're on the far left side of the castle, so the way out should be...” She looked around. “Dammit, I can't tell at this angle.”
+
+Which way, Teepo? Ren asked his friend.
+
+“It's to the left.” Teepo said. “Up at the far end of the room.”
+
+“I'm pretty sure it's that way.” Ren said, and pointed to the wall Teepo had told him to use as the exit.
+
+“We can't get up there on our own.” She said. “Are you going to carry us?”
+
+Ren looked at the steep angle and how far away the wall was. “I could carry two of you at a time, but I need a hand free for my staff when I get there.”
+
+“You're really going to carry us?” One of them asked, surprised. “I was kind of joking.”
+
+Ren shrugged. “I could probably run a rope down for you to either climb or hold on to while I pull you up; but, I don't have any rope on me.” He smiled. “I keep forgetting to buy some.”
+
+“What kind of an Adventurer doesn't have rope on him at all times?”
+
+“A really busy one that used up his rope.” Ren said and laughed. “So, who wants to be first?”
+
+“ME!” One of them said and hopped up to stand on her chair. It was the one that had moaned in pleasure as he massaged her chest.
+
+“I figured you'd want to go first.” Ren said as he walked over to her. He picked her up in a 'princess carry', with an arm under her knees and one under her back, and she wrapped her arms around his neck.
+
+“You're so strong.” She said to him.
+
+Ren ignored her attempt at flirting and turned towards the wall. Rather than walk directly towards the spot opposite the women, he went over to the far corner instead.
+
+“Ah!” The female dwarf nearly screamed when he shifted his hold on her as he stood by the wall.
+
+“It's all right.” Ren said, and stood her up in front of him. She had to lay on him while he took out the Staff of Earth Moving, and he turned to the other women. “Some dirt is going to come in, so don't panic, okay? I'll have it moved away from the hole in a few moments.”
+
+The women waved to him, and he touched the staff to the wall. A 7 foot tall by 6 foot wide opening appeared in the wall, and dirt started to cascade around him.
+
+“Ahhhhh!” The female dwarf screamed and covered her head.
+
+“It's not hitting us.” Ren said. “The staff prevents it.”
+
+She uncovered her head and looked around to see that she wasn't being covered in dirt. “Oh.”
+
+“I can see the surface.” Ren said, and used the Move Earth spell. The dirt stopped trying to get in the hole, and he packed it in around the opening, and made a nice slope to get out. He wrapped an arm around the female dwarf to hold her, then started to walk again.
+
+Teepo. Ren thought, and Teepo flew out through the dirt tunnel.
+
+“All clear.” Teepo said. “There's no one up here.”
+
+The female dwarf held on tightly as Ren carried her from the room and she saw the dirt around them. The tunnel was only about 10 feet deep, and then they were on the surface.
+
+“What a relief!” She said when Ren put her down. “I haven't seen the outside in over a year!”
+
+“Please wait here. I'll be right back.” Ren said to her, then walked back into the tunnel. Teepo, keep watch.
+
+“You got it.” Teepo said and flew a little higher to keep a good lookout. Ren walked back into the tunnel and picked up the next female dwarf. Since he already had the staff in his hands, he could carry her in the princess carry the whole way. He deposited her outside next to the first one, then went back in to get the others.
+
+*
+
+“I guess I was too eager.” The first one said and chuckled. “He had to change grips when he carried me, so I only had half of a fantasy ride.”
+
+The second one laughed. “He's not even breathing hard, and he's still carrying all of the furniture and things from the room!”
+
+“I know.” The first one said. “The more I'm around him, the less clothes I want to wear.”
+
+Ren came out of the tunnel and dropped off the next woman, then went back for the next.
+
+“His grip never faltered.” The third one said and sighed. “He was both firm and gentle as he held me.”
+
+“What are we going to do?” The first one asked.
+
+“There's nothing we can do. He owns our contracts now.”
+
+“Not about leaving, about getting him to sleep with us.”
+
+“I think just being a little forceful will...” She stopped talking when her friend waved her quiet.
+
+Ren came out of the tunnel, and dropped off the fourth female dwarf. She waited for him to go back into the tunnel before she spoke.
+
+“Can you imagine how strong his children will be?” The fourth one said and put a hand on her belly. “I can almost feel it kicking already.”
+
+The other three laughed.
+
+“Keep dreaming.” One of them said. “You heard him. He doesn't have time to see another woman.”
+
+“Who cares about that?” The fourth one said. “I just want sex.”
+
+“Me, too.”
+
+“I am so horny right now...”
+
+“Me, too.”
+
+*
+
+“You've got to listen to these women talk, Ren.” Teepo chittered in laughter. “It's hilarious.”
+
+Ren smiled as he walked up the angled floor to the tunnel. I am listening. I can hear them just fine. He thought in amusement. I'm a little surprised they aren't discussing it right in front of me, though.
+
+“Do you want them to talk right in front of you about their plans to seduce you?” Teepo asked. “How would they surprise you if you knew?”
+
+Ren brought the last female dwarf out into the fresh air, and stood her next to her friends. I'm pretty sure their seduction attempts will consist of less clothing and lots of groping. He thought to his friend. They haven't even been outside in a year.
+
+“When was the last time you had something to eat?” Ren asked them.
+
+“Not since yesterday.” One of them said. “It was strict rations of one meal a day.”
+
+Ren shook his head. “I don't know how people can be so stupid as to mistreat people in their care.” He said and took out a table. He fixed the broken leg, since it was part of the furniture of the room and was damaged when the place was wrecked. He took out the chairs he had stored from inside and placed them around the table, then took out his icebox.
+
+“Please, have a seat.” Ren said and took out an end table. He enchanted a glyph of Fire and Wind runes on it's gold surface, and opened the icebox. He took out a plate of food and held it over the enchantment on the end table. He used his Fire Manipulation ability to warm the food and looked at the table.
+
+“Um, is there a set order that you eat from?” Ren asked them. “Who gets served first? Is it seniority based or what?”
+
+“We're just women.” One of them said. “We don't belong to a House or anything.”
+
+“You can serve whoever you like.” Another one said and smiled slyly.
+
+Ren shook his head. “That was a loaded statement if I've ever heard one.” He said. “How about I pass the plates to whoever is closest, and you can distribute the food yourselves.”
+
+“You're hard to trick.” One of them said. “Now I want you even more.”
+
+Ren chuckled and passed the plate of food to the closest female dwarf, and she handed it down the table. He warmed up 4 more plates, deactivated the enchantment, then stored the icebox and end table.
+
+“You're not joining us?” One of them asked, surprised.
+
+“I can't.” Ren said. “I have a couple of very important calls to make.”
+
+“Calls?” The female dwarves exchanged glances. “There's no one around to call to.”
+
+They must think I'm crazy. Ren chuckled and took out the steel square connected to the one he gave the dwarf that had helped him with the rescue.
+
+“Hi, there. This Sending Square works a lot better than a Sending Stone.” Ren said, and the female dwarves gasped.
+
+*
+
+Ren's voice came out of the dwarf's pocket, and everyone froze. The dwarf scrambled to take it out, and dropped it. Princess brayed loudly at him for being so careless.
+
+“I'm sorry.” He said to her, and picked up the Sending Square.
+
+“Is anyone there?” Ren said. “You can talk multiple times with these things, by the way.”
+
+The dwarf was reminded of what was happening and stared at the Sending Square. “You're alive!”
+
+“You shouldn't sound so surprised.” Ren chuckled. “The rumours of my untimely demise have been greatly exaggerated.”
+
+“But... but I saw... we all saw you get buried.”
+
+“Oh, I was.” Ren said. “It just took me a while to dig out.” He said. “How's Princess?”
+
+“She's fine.” The dwarf said. “She's not even tired, and we've been walking for miles.” He said. “I'm exhausted, though.”
+
+Ren laughed. “I'm sorry to have worried you, Princess.” He said. “Thank you for saving the girls.”
+
+Princess brayed and huffed a few times.
+
+“I think she's saying she's going to kick your butt for sending her away.” The dwarf said. “She looks pretty mad.”
+
+“I'll make it up to you, somehow.” Ren said. “I'm not sure how right now, but I'll think of something.”
+
+Princess huffed.
+
+“She says okay.” The dwarf said. “Do you want us to come back?”
+
+“No.” Ren said. “That would both waste time and make you and the girls go twice as far as you have to.” He said. “Where are you taking them?”
+
+“My place.” The dwarf said. “It's not much further from where we are now.”
+
+“Do you have a cart at your place?”
+
+“Yes.”
+
+“Then when you get there, unhook the small one from Princess, and attach yours.” Ren said. “Princess can come back to get me and a few passengers after that.”
+
+“Passengers?” The dwarf asked. “Didn't you kill them all?”
+
+“I removed all of the guild members that were here.” Ren said. “I just found some other people that were being held.”
+
+“Oh, that's great!” The dwarf said. “A double rescue!”
+
+“It's still technically the same rescue.” Ren chuckled. “I'll pop over on my way home.”
+
+“See you in a little while.” The dwarf said, and the Sending Stone stopped glowing. “Did you hear that, girls? He's fine!”
+
+“Yay!” The girls said, even though some of them had tears in their eyes.
+
+“Let's get you to my place quickly, so we can send Princess back for him.”
+
+*
+
+Ren tucked the Sending Square away, and saw the female dwarves weren't eating the food he had warmed up for them.
+
+“Eat, eat!” Ren said, and waved to the plates. “I've got another call to make.” He said and walked away about 30 feet. He looked down at his hand at the Sending Ring. What am I going to tell her? Ren thought.
+
+“The truth.” Teepo said. “She'll understand.”
+
+Ren glanced back at the table to see the 5 female dwarves as they sat around it. I hope so. He thought, then concentrated on Nathalia to make the Sending Ring glow. I certainly hope so.
+
+*
+
+The female dwarves all leaned in close over the table.
+
+“He has a repeating Sending Stone!” One of them whispered. “That's worth a fortune!”
+
+“He's also an Enchanter.” One of them said. “I wonder what else he can do?”
+
+“That doesn't matter.” One of them said, and started to eat. “Do we really need any more reasons to stay with him?”
+
+“You don't think he'll try and give us away or anything, do you?” The last one said. “I was so happy that we couldn't destroy the contracts.”
+
+“I don't think he can give us, or the contracts, away.” The first one said. “I think he's stuck with us.”
+
+“And we're stuck with him.” The one eating said. “I'm okay with that, though.” She swallowed the food. “This is really good.”
+
+The other female dwarves tried the food, and couldn't believe how much better it was than the food they had been fed every day.

@@ -1,0 +1,201 @@
+---
+id: be300d3d-ecbe-5694-8280-1961db82aff8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 497 - In The Beginning"
+slug: 0497-chapter-497-in-the-beginning
+partOf: mythrans-master-of-all-continued-completed
+position: 497
+ownLength: 3751
+unit: words
+publishedAt: 2018-01-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190966/chapter-497-in-the-beginning"
+royalRoadId: "190966"
+---
+
+Ren rode Princess across the continent to the High Elven Kingdom and to the ghoul nest near the High Elven Swordsmen. She landed right beside the entrance, and Ren hopped off of her and walked over to stand in the patrol's path.
+
+“Step aside.” The 9 foot tall High Elf captain said and waved his sword to indicate Ren should move out of the way. “The infestation must be purged to save our people!”
+
+“I know it does.” Ren said. “I've made myself responsible for removing both the ghoul hordes and the ghoul infected from your lands.”
+
+The captain almost had to strain his neck to look down at Ren. “That is very honorable of you.”
+
+“I didn't do it for Honor.” Ren explained. “I did it because it shouldn't have happened, and no one should suffer for it.”
+
+“Then let us smite these wretches and keep the High Elves clean of their scourge.”
+
+“I can do that.” Ren said. “Thanks for finding this nest for me. You can continue on your patrol now. I will clear it out and bury it, so it can't be used again.”
+
+“We are more than capable of handling that.” The High Elf captain said.
+
+“I'm not questioning your competence in battle.” Ren said. “Now that I'm here, I will deal with it properly.”
+
+The High Elf captain's emotions started to boil up towards hate and Ren raised a hand with the palm towards him.
+
+“Before you say that I am insulting your Honor, I am not. I'm am telling you that you don't have all the information, and if you act without it, you may sacrifice unnecessary lives.” Ren said.
+
+The High Elf calm down at those words. “Of what information do you speak?”
+
+“I can heal the ghoul infected and can restore them, if there's a chance to do so and they aren't lost to the infection.” Ren said. “Hopefully I can demonstrate this for you with this nest.” He said. “If I may do so without your troops attacking the ghouls when they are revealed.”
+
+The High Elf captain nodded slightly, and Ren nodded slightly back. He then turned around and took out the Staff of Earth.
+
+“Princess, Artemis, corral any that try to escape.” Ren said and used the staff to pull away the dirt above the ghoul nest. The ghouls inside started to screech in a panic and 3 of them tried to jump out of the uncovered hole. Princess gently headbutted two of them, and Artemis pushed a third back in. The ghouls were within his Aura, and Ren could tell which ones he could heal, and which were too far gone.
+
+“Captain! You can dispatch the ones I throw to you!” Ren said and jumped into the hole as he equipped a single gauntlet to cover the hand he grabbed the fully turned ghouls with. He tossed one over his shoulder and it screeched in a panic, then it's howl was cut off as the captain and his troops killed it.
+
+Out of the 20 ghouls, only 5 were savable, and Ren used his uncovered hand to touch them. One was a High Elf and the other 4 were elflings. They were shocked and surprised to be back to their normal selves, especially since they only wore scraps of cloth to cover their waists. Ren quickly made up 5 bodysuits and handed them to the healed, and they took them gratefully.
+
+“Great Vasalor.” The captain of the High Elf Swordsman said as he beheld the 5 Ghoul Kissed survivors. “I thought you were trying to steal our kills; but, you were telling the truth.” He said, surprised. “You healed them with a touch!”
+
+“It's a recent development.” Ren said and took out the carriage and attached it to Princess, then turned to the 5 survivors. “I'm sorry to say this, but you aren't allowed to return to your homes.”
+
+“NO!” The healed High Elf yelled. “What of my wife and daughters?!?”
+
+“You can't go back to them because your people will kill you.” Ren said. “However, you can send for them and they can come and live with you.”
+
+“Where?” The High Elf asked. “If I'm not allowed within my own people's lands, where will I go?”
+
+“You are a vassal in my domain now.” Ren said and held up his right hand to show him the skull on the back of the spider. “I'm sorry that I couldn't give you a choice about that.”
+
+“We're fine with it.” One of the male elflings said. “Most of us don't have anywhere to belong anyway.”
+
+“You do now.” Ren said and held a hand out to the female elfling and opened the door to the carriage. “If you will climb aboard, I'll take you to the others I've rescued.”
+
+“Thank you, M'lord.” The female elfling said and Ren helped her climb into the carriage.
+
+“Then what?” The healed High Elf asked as the male elflings climbed into the carriage on their own.
+
+“I make you a new place to live, and then you can send for your family.” Ren said. “Assuming they are still alive, want to hear from you, and are willing to come.”
+
+The High Elf looked at Ren with a stern expression. “You aren't instilling me with much hope.”
+
+“I can lie if you want me to.” Ren said. “Everything will be sunshine and roses from now on, and no one will have any kind of conflict ever again.”
+
+That made the High Elf smile. “All right. I agree what you said is more realistic.”
+
+“I didn't say it to be discouraging, I was just preparing you in case those things happen.” Ren said. “Everything could be just fine, and you might have nothing to worry about.” He said. “Saying that to you is a bit too much like a lie for me.”
+
+“Unfortunately, I have to agree.” The High Elf said and climbed into the carriage and sat in the front corner. Ren used the Staff of Earth to bury the nest after checking that there wasn't any valuables to be had, then climbed onto the driver's seat and turned his head to look at the High Elf captain.
+
+“Good luck on your patrol, Captain.” Ren said and Princess trotted up into the air. “Easy now, we're not going far, I don't think.” He said, and took out the All-Seeing Mirror. He held it out for her to see where the next nest was, and Princess huffed as she poured on the speed.
+
+“Where are we going?” One of the elflings asked.
+
+“A quick stop at another nest that's nearby.” Ren said. “Now that I know the High Elves are actively hunting you, I've got to at least try to save as many of you as I can in their patrol area.”
+
+“This carriage isn't going to hold many more people.” The female elfling said.
+
+“That's okay. I have a normal cart if there's more than a few, and a humongous cart if there's a lot more.”
+
+Princess flew above the spot, and several ghouls were roaming around the underground nest. They were within Ren's Aura and he nodded to Artemis. She shot them down before they could screech a warning, and Princess landed without meeting any more ghouls.
+
+“I'll just be a minute.” Ren said and jumped off the carriage and used the Staff of Earth to uncover the nest. There were 8 ghouls inside, and only one could be healed. Ren jumped into the middle of the pack and touched the ghoul as Artemis quickly shot the others. Ren gave the male elfling a bodysuit as he explained what had happened, then the elfling climbed into the carriage without a word.
+
+Ren filled in the nest and checked the All-Seeing Mirror. He asked for all the nests in the High Elf patrol area, and no others appeared.
+
+“It looks like that's all for now.” Ren said. “We should switch to the covered cart so no one will get hurt.” Everyone got out and Ren replaced the carriage with the covered cart. “Everyone hold on, because it's quite a ride.” He said as he helped them all get in and closed the top of the cart, then climbed up onto the saddle on Princess's back.
+
+The passengers braced themselves as Princess trotted up into the air and poured on the speed again while Artemis flew beside Ren. Because the passengers weren't as protected as they should be, Princess took her time getting up to full speed, then did the same thing when she slowed down. It took nearly 10 minutes to get the passengers to the human healer's ward that Ren had built, and when the High Elf saw how many of his own kind were there, he almost cried.
+
+“I... I'm not alone!” He said as he walked into the downstairs ward.
+
+“That's a little dramatic.” The healer's assistant said as the High Elf walked by her. He ignored her and she shrugged her shoulders. Ren waved to her and she waved back, then he took the elflings up the stairs to their ward. Unlike the people downstairs, the new elflings were voraciously greeted with both warmth and understanding. Ren was thanked quite profusely, when the new elflings heard of what he had planned, and he left the ward in a good mood. He went outside and stored the covered cart in Princess' saddlebag, climbed into the saddle, and rode her home with Artemis at his side.
+
+They arrived back at the county, and when they landed, Ren thanked Princess and said he would get her some treats from the bakery. He felt her anticipation, and he ran across the road with Artemis to get them.
+
+Xuunah had ordered several dozen fried dough pieces, and she and Officer Holly had eaten several of them each by the time Ren came into the bakery. He gave them a quick wave and ordered a dozen fried dough pieces with extra sugar, and waited for them to be done. He ran out quick as a flash after paying for them, gave them to Princess, and ran back to the bakery.
+
+Xuunah motioned for him and Artemis to sit across the table from her and Officer Holly. Ren sat down and looked at Xuunah expectantly, and she pointed to the dozen or so fried pieces of dough left on the plate.
+
+“Help yourself.” Xuunah said, and Ren took a piece and ate it while Artemis sat there and watched him. When that piece of dough was gone, Xuunah started to talk as if she was reading from scripture.
+
+*
+
+Lo and behold, there became an entity unlike any other. Out of nothing it sprang, and it could not see, feel, or even perceive anything within its own existence. It also could not see, feel, or perceive anything outside of its own existence, either.
+
+It didn't like either of those things.
+
+Then, for some unknown reason, thoughts filled it. It wondered at these new thoughts and where they had come from, then it realized it had a name.
+
+Vasalor.
+
+Once he knew his own name, he started to become himself. As more thoughts and ideas came to him, he started to develop his own thoughts and idea based on them. He felt accomplishment, fulfillment, and satisfaction.
+
+For a while.
+
+On one fateful day, a new thought entered his mind. He wanted to create a world to exist in. One where he wouldn't be alone anymore. He set out to perform this task with wanton abandon, and after thousands of years of careful planning and construction, he accomplished his task and created an entire world. He built towns and cities for beings to live in, created things for them to do, and set his new concept of 'time' into motion.
+
+It was an utter and total disaster.
+
+Beings expired by the thousands as 'time' passed at the same rate as his normally did. The buildings and cities crumbled to dust as millions of years passed in barely a blink of an eye before Vasalor could bring the world to a halt. He didn't understand why they all had perished so quickly, despite giving them the ability to reproduce, and none of them could talk to him to tell him what went wrong... and then a new thought entered his head.
+
+He would create a special place that didn't share his time. It's time would only be a mere fraction of his own, and he devised a special way to communicate with the inhabitants this time. He did not want a repeat of the last time. He didn't know why he didn't want that, but he did and didn't question it.
+
+This time, the inhabitants of the special place lived and thrived, and communicated with him constantly. He made alterations to their world as they asked for them, over the thousands of years it took for them to see those changes; and eventually the world thanked him for everything he had done for them and ended.
+
+Vasalor was quite satisfied with this result, and it had taken nearly 1 full minute of his time for it to complete. He beheld his creation with the eyes of a just and merciful creator, and looked at the results. He saw that it was good, and that was that. His curiosity was sated, and he no longer wondered what it would be like to have someone to talk to.
+
+Another few trillion years passed as Vasalor remained in the dark, unconcerned over the meaning of his own existence. He had completed the only desire he had ever had, and that was all he ever needed to do. At least, that was what he thought until another fateful day came along and he was struck with inspiration.
+
+If I can do that with one world, why not 2? Or 3? Or even 8? Vasalor thought out of the blue, and set about doing just that. He set the time to a fraction of a fraction of a fraction of what his first experiment was, and he thought they would progress much more slowly than the first one. He was struck by inspiration as he created each new world, 8 in total, and gave their inhabitants a specific trait to see how life would evolve with each of them.
+
+The first world Vasalor created was Light, since all things needed Light and it would affect all the others, and he saw that it was good. When he tried to create another world, it was the complete opposite of Light and became a Void unlike anything he had seen before. He wasn't happy with how that turned out, because it absorbed and twisted his ideas in ways he didn't like; but, he didn't want to scrap the whole thing just because one world went a little strange on him.
+
+Next he created a world of Water, and imbued it's beings with that element. He filled it with all manners of creatures for the beings to play and have fun with, as he did with each world, and moved on. Worlds with Wind, Ice, Lightning, and Dark (Gravity) came into existence without a hitch.
+
+When he created the next world that would connect them all together, he changed the time factor to another fraction of a fraction of a fraction of the others for some unknown reason. He thought it felt right that way as it was the Earth Realm and would be the foundation for it all, and imbued it's inhabitants with the Earth element. He started to add in creatures for the Earth beings to play with, and then other beings started to appear spontaneously.
+
+Vasalor was highly concerned over this, since nothing had ever appeared without his consent, and he stopped his work to watch these... Adventurers. The name came to him when he thought about them, and he was fascinated by their antics. They didn't interact with the Earth beings very much at all, and only talked to him when they could.
+
+This fact was also surprising, since he hadn't given them the means to do that. Nevertheless, they did contact him and knew who he was, just as the beings he had created did, and he answered their questions and queries. Since time moved so slowly for them, his responses for their questions happened almost before they were asked, and he saw how delighted they were with that.
+
+He was asked to create several odd things that he didn't know about, and when he told them that, he suddenly knew everything there was to know about those things. He created entirely new races for them, like High Elves, Dwarves, and even Giants. This delighted him in turn, and at random times would ask them about what was going on and what they were doing. They built cathedrals in his honor and to allow the ease of communication.
+
+The Adventurers he met were more than happy to tell him anything he ask about as well. He gained more and more information as time went on, and then something happened.
+
+One of the Adventurers tried to pull one of the Light beings into the Earth Realm. Vasalor blocked the attempt, because transferring the beings without the proper treatment or protection would cause a disaster. This happened several times, and he blocked it each time; then the Adventurer asked him to allow it.
+
+He had never refused a request before then, and cautioned the Adventurer that if this happened, there would be consequences. The Adventurer quickly agreed and Vasalor granted his request to let the Light being transfer over into the Earth Realm.
+
+It was a disaster, just as Vasalor had predicted.
+
+The Light being was not prepared to spend time in the Earth Realm, and it nearly died as it turned inside out from the time decompression. Vasalor stepped in and helped the poor thing, and converted it into something that could live in the Earth Realm. The new Fire Being destroyed a lot of the Adventurers it came across, and when it had gathered enough power upon itself, it created it's own realm that was attached to the Earth Realm.
+
+Vasalor had watched the Fire Being closely and had helped it along, and assisted in stabilizing the new realm; but, because Vasalor himself hadn't created it, it wasn't going to endure like the other realms were.
+
+Vasalor stopped there, and didn't try to create any more worlds... mainly because he had lost the desire to do so. He kept an eye on that Fire Realm, and helped to keep it going along. He thought long and hard about how he was going to fix the only flaw in his design.
+
+Millennia passed for him as he pondered the problem, and then he had an idea. He could imbue beings from the different realms with some of his abilities, and see if they could provide an answer to his problem. Unfortunately, sometimes they got out of hand and the other beings in those realms dealt with the results before he found a solution. He had made the mistake of trying to force the solution on one of his own creations. What he really needed was something new; but, he didn't know what that was, or how he was going to find it.
+
+Then suddenly there was nothing.
+
+Vasalor yelled into the dark silence, for he did not know what had happened to his great creation. He yelled over and over, all for naught, and eventually grew despondent. He was back to what he was before, where he could not see, feel or detect anything inside or outside of himself. This went on for millennia, and then everything was back.
+
+Vasalor was overjoyed at this... until he discovered that all of his cathedrals had been removed, and he could no longer talk to anyone. When Adventurers started to show up again, he attempted to contact them, but to no avail. He was cut off from them forevermore. When he tried to contact the other races he had created in the Earth Realm, only the High Elves had kept the cathedral.
+
+Vasalor asked them to impart the knowledge once more to the other races, but the High Elves refused. They claimed that he was theirs and theirs only, since they were the most deserving. Unlike the other races, they had preserved his knowledge and believed that anyone that had given up on him didn't deserve to be reminded of him.
+
+Even Vasalor himself couldn't fault their logic. He set himself up to watch everyone's progress, and decided to no longer interfere directly in the lives of his creations.
+
+*
+
+“Holy crap.” Ren said, his half-eaten piece of fried dough was cold in his hand. “That's... that's...”
+
+“It truly is a sad story, is it not?” Xuunah said. “We have kept it as a part of our history since we learned it.” She said. “The last part I had discovered for myself.”
+
+“I... don't know what to say.” Ren said. “I mean, I know that...” He shook his head. “How could they...”
+
+Xuunah chuckled as she reached a hand over and cupped the side of his face. “Easy, there.” She said and stroked his cheek with her thumb. “Don't hurt yourself thinking about it.”
+
+Ren put a hand on hers. “Thank you for telling me this.” He said and turned his head to kiss the palm of her hand. He felt the thrill go up her arm and down her spine, and her body trembled from the sensation. “I could say that you don't know how much this means to me; but, you can feel what I feel. You know how much the words you have said have affected me.”
+
+Xuunah nodded as their light of connection in her chest started to glow. It was covered with the Disguise Self spell, but Ren knew it was glowing because his glowed as well. She gently pulled her hand out of his grasp without a word.
+
+“If you will excuse me, I have some very important work to do.” Ren said and stood up, nodded to all three women, then disappeared from sight.
+
+“I completely missed something there, didn't I?” Officer Holly asked.
+
+Xuunah nodded as she turned her head towards the wall and felt Ren in the warehouse next door. She didn't tell Officer Holly what it was, though.
+
+That's Ren's secret to keep or share. Xuunah thought.

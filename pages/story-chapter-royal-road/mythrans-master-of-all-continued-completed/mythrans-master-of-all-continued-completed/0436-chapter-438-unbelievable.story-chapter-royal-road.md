@@ -1,0 +1,325 @@
+---
+id: a9ceab6d-920e-586b-81b5-46188c4dfeac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 438 - Unbelievable"
+slug: 0436-chapter-438-unbelievable
+partOf: mythrans-master-of-all-continued-completed
+position: 436
+ownLength: 3277
+unit: words
+publishedAt: 2017-12-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177532/chapter-438-unbelievable"
+royalRoadId: "177532"
+---
+
+“Oh, no!” The night tech guy at Sid Tec said as he received a series of popups. He read them as they appeared, and he couldn't understand what they meant. “This... there's no way... this can't wait until morning!” He said and picked up the phone and called the head of the tech department.
+
+After a minute, the phone was picked up.
+
+“You had better have a good reason for calling me at home.” Max said.
+
+“Would catastrophic failure of the Void mechanic be a good reason?” The tech guy said, and Max almost dropped his cell phone. He took a deep breath and spoke.
+
+“Explain.”
+
+“Sir, something has been introduced to the Void Realm, and it's... well, it's destroying everything.”
+
+“WHAT?!?”
+
+“Ow.” The tech guy said.
+
+“I'm sorry.” Max said. “Tell me what happened.”
+
+“I don't know what happened.” The tech guy said. “I just starting receiving popups telling me the Shadow Creature resource was depleted, then the Shadow Demons, then the... look, sir. It's all disappearing.”
+
+“Well, stop it.”
+
+“How?”
+
+“Turn off the effect.”
+
+“I don't know what the effect is!”
+
+“Open up the rendering software and run it on the Void Realm.” Max said. “Do a quick overall map, not anything specific.”
+
+The tech guy put the phone down and did as Max suggested, and a few minutes later, he got the map of the Void Realm. He couldn't believe what he was seeing, and picked up the phone.
+
+“Sir, I... god, it's...”
+
+“What is it?”
+
+“It's being converted by Light.”
+
+“WHAT?” Max yelled, then apologized again. “How is that possible? The realms are strictly forbidden from contacting each other.”
+
+“I don't know, sir.” The tech guy said and brought up the time of the first incident. “According to this, an... elemental bomb was detonated.”
+
+“Nothing in the void has that kind of... oh, damn.” Max said.
+
+“Sir?”
+
+“The easiest place for Void access is inside Shargon Caverns.” Max said. “Dammit, dammit, dammit!”
+
+“Sir, I don't understand.”
+
+“You don't have to.” Max said. “Delete the source of the Light.”
+
+“But, sir... we aren't supposed to interfere with the natural effects-”
+
+“It wasn't natural.” Max said and sighed. “Kill the effect, and hope that at least one of the main entities survived.”
+
+“Yes, sir.” The tech said and put Max on speakerphone so he could walk the tech through the process. It took several minutes for the effect to be stopped, and when it was gone, nearly three quarters of the entire Void Realm had been destroyed... along with all of the higher level beings.
+
+“Sir.” The tech said sadly.
+
+“Goddammit! None of them made it?” Max's voice said from the phone on the desk.
+
+“No, sir.” The tech said. “None of them.”
+
+Max sighed again. “We can't do a hard reset to repopulate resources until the world event is over.”
+
+“When will that be?”
+
+“In a couple of weeks.” Max said. “The ghouls are finally having a hard time getting into the main cities of the High Elves; so, they are going to turn around and go out into the countryside instead.”
+
+“Trying to mobilize players to form a defensive strategy or an offensive strike might not be the best way to promote team play.”
+
+“It doesn't matter now.” Max said. “The dice rolled and this is the situation we're in. They can choose to take the offered quests or not.” He chuckled. “Either way, they are going to be involved in some respect.”
+
+“Some people don't like being forced to do things.” The tech guy said.
+
+“No one will be.” Max said. “That's the beauty of it. If they choose not to do anything, the world around them will change. If they choose to help, the world around them will still change, but in a different way.”
+
+“I just hope they like the changes you have in store.”
+
+“We already had an increase in new subscribers when the world event was announced, so it's already paid off.” Max said. “Don't forget to add the new resource restrictions to the main database, so it can make substitutions for any summoning rituals that call on the Void.”
+
+“Yes, sir.” The tech guy said and hung up.
+
+*
+
+Max put his cell phone down and sighed. “Elise was right. I shouldn't have sent Ren into Shargon Caverns.” He looked at his computer terminal and thought about checking on Ren's progress, then laid down on his bed and closed his eyes instead. I'll worry about it tomorrow. He thought and went back to sleep.
+
+*
+
+Ren, the skeleton knights, and the succubi left the cavern. As the opening closed behind them, he received a popup.
+
+System Notice!
+
+You have successfully completed Shargon Caverns!
+
+Few have made it through without enduring harsh circumstances, usually of their own making; so, if you need assistance dealing with anger management and trauma, or believe you need counselling, please contact a system administrator or leave a message for a moderator. They will provide you links to any services that may be deemed as necessary.
+
+Contact a system administrator now? Yes / No / Ask Later
+
+“No.” Ren said, and the popup went away and was replaced with another.
+
+Congratulations, Adventurer! Area Complete!
+
+You have survived the vaunted Shargon Caverns! Rejoice in your success, and enjoy your well-earned rewards.
+
+Please note: As this was a personal journey, Party Sharing of XP does not apply.
+
+Bonuses:
+
+Creature (Deaths)  122,345  XP  1,223,450
+
+Creature (Saved)  10,872  XP  108,720
+
+Creature (Helped)  286,913  XP  2,869,130
+
+Modifiers:
+
+Deaths  1  XP  -10,000
+
+Completion  1  XP  +100,000
+
+Fame  +10,000  x 10 XP  +100,000
+
+XP TOTAL: 4,391,300
+
+Fame Bonus  +75% (100 - 25)  XP  3,293, 475
+
+XP TOTAL: 7,684,775
+
+Ren's mouth dropped open at the numbers the popup showed him. What the hell? A hundred and twenty-two thousand deaths? Almost two hundred and ninety thousand helped? He asked himself, then he saw the XP total. Holy crap!
+
+System Notice!
+
+Congratulations! You have earned enough XP to reach the top spot on the XP leader board. Your name and XP total have been published on the main server and the message board.
+
+Bonus: +1000 Fame
+
+I never thought my Slow and Steady skill would ever take a million XP away from me. Ren thought in surprise, then he chuckled. Of course, I don't think I was ever supposed to get this much XP in one shot, either.
+
+Notice!
+
+Excess Fame converted to XP
+
+Fame 1,000 x 10 XP = 10,000 XP
+
+New Title!
+
+Your unprecedented attack on the Void Realm has granted you a new title: Void Bane
+
+This title grants you the Aura - Void Sense (Mastered). You can automatically detect any Void or Arcane presences within your Aura. Void/Arcane spells and effects are 50% weaker when used against you, as well as attacks from Void creatures and their effects (poison, corruption, decay, etc,).
+
+Attacks made by you against Void creatures gain a 50% bonus to both Damage and effects caused.
+
+All Void knowledge and affinity has been converted to Anti-void, and any gains in Void knowledge will increase Anti-void instead.
+
+Wow. Ren said and then received another popup.
+
+Notice!
+
+You have gained 54 levels! You are now Level 137, and 540 stat points have been automatically allocated. Please refer to your skill, spell, and recipe lists to see what you have unlocked, as there are too many items to list here.
+
+“By the gods.” Ren said out loud. “I can't believe... oh, wow.”
+
+Notice!
+
+You have gained 50+ levels at once! It is quite an achievement, and your name has been added to the Outstanding Achievement list.
+
+Fame: +5,000
+
+Notice!
+
+Excess Fame converted to XP
+
+Fame 5,000 x 10 XP = 50,000 XP
+
+Mr. Torren is going to be so mad. Ren thought to himself, then looked at the succubi. They all had landed just outside the cavern beside him, and looked around at the big open sky. He could feel their disbelief and shock that it was real.
+
+“Ladies, if I may have your attention.” Ren said, and they all looked at him. “As you can see, we really are outside.” He said, and he felt a small ripple of fear pass through them. “It's all right. Stay close to me and don't wander off.”
+
+They all nodded and kept looking around at all the things they had never seen before. Trees, grass, and even rabbits were a thrill for them to see, and Ren looked into the All-Seeing Mirror.
+
+“Show me where I am in relation to the starter city of Aurora.” Ren said and a map appeared, then zoomed out to show how far away he was.
+
+“Hey, it's only 5,500 miles.” Teepo chittered in laughter.
+
+Ren sighed at the time it was going to take crossing that much of the countryside, and he knew there would be endless encounters before he would get back to the city. He touched the All-Seeing Mirror and thought about Lara, the Sage of Ages.
+
+“Lara? Are you there?”
+
+A moment later, the mirror cleared and Lara looked out of it at him.
+
+“REN!” Lara said. “You're out!”
+
+“Yes, and I know how far away I am.” Ren said and told her where he was. “It's going to take me a long time to get back to you.”
+
+“It's all right, Ren.” Lara said and smiled. “I think I have a much better way for you to come here.”
+
+“You do?” Ren asked. “Just to be clear, it's not just me coming back.”
+
+“I know.” Lara said. “I'm not going to ask you to leave them there, either.”
+
+Ren smiled. “So, what's this better way?”
+
+“Me.” The Dark Elf healer said as she leaned in close to Lara. “Or more accurately, Our magnificent Queen.”
+
+Ren laughed. “I would greatly appreciate a portal for me and my 30 companions and 11 mounts.” He said. “If it's not too much trouble for her and her familiar.”
+
+“She should be more than happy to do this for you.” The healer said and lifted Ren's taratula. “My Queen, the wait is over. I have found him.”
+
+A portal opened behind the healer and she stepped into it. A moment later, a portal appeared 20 feet away from him, and 4 giant spider legs spread the portal out. Ren told the skeleton knights to form a walkway, with 5 of them on their mounts on either side, and they held their swords out and pointed upwards at an angle.
+
+“I'll see you soon.” Ren said to Lara. She disappeared from the mirror and he stored it.
+
+The giant spider familiar crawled out and moved aside, and then the Queen of the Dark Elves stepped out of the portal. Lylyth saw the greeting the skeleton knights were giving her, just like an honor guard, and Ren felt how much she appreciated his thoughtfulness to do that for her. The healer stepped out through the portal, and it closed when Lylyth and the healer walked to the end of the skeleton knight promenade and came to a stop in front of Ren on his Phantom Steed. The succubi all knelt in the Queen's presence, and Lylyth gave them a slight nod before she looked at Ren.
+
+“I couldn't feel you at all, Royal Consort.” Lylyth said, a little sternly.
+
+“I couldn't contact you, and had forgotten to even try and get you a message until recently.” Ren responded. “I realized you must have been worried, and I'm sorry I didn't realize it sooner.”
+
+Lylyth reached a hand out and touched his face. Since he was sitting on his steed, he was almost exactly her height.
+
+“I'm glad you survived.” Lylyth said, and he felt that she really meant that.
+
+“I died once; but, it was a noble sacrifice so it was okay.” Ren said and smiled, which made her laugh.
+
+“Only you could justify such a thing.” Lylyth said and stepped close. “I would ask you for a kiss, but what I need is to ask for your forgiveness.”
+
+Ren felt her pensiveness and wondered what he had to forgive her for. “Did you find someone else?”
+
+Lylyth chuckled. “Nothing so devastating.” She said, then stopped smiling at her joke.
+
+“My Queen, I suggest you wait until we are back in the Underground.” The healer said.
+
+“No, if I don't say it while I have the courage to admit it...” Lylyth sighed. “Ren, I... I unleashed the ghouls.”
+
+“You WHAT?!?”
+
+“It was me.” Lylyth said. “After you came to me with your evidence, I found out that other Dark Elven Lords had also made ghoul factories. I made them stop right away, and then... well, I had all these ghouls and an enemy to deal with.”
+
+Ren closed his eyes, took a deep breath, and let it out. He did this twice more, then opened his eyes and looked at her. “Did it work?”
+
+“Yes.” Lylyth said. “The High Elves had no choice but to withdraw their forces to deal with the ghoul horde.”
+
+“Have you kept your forces nearby to defend the rest of the countryside when the ghouls spread out?”
+
+“No.” Lylyth said. “I've done the same thing as the High Elves, and the majority of my fighting army guard the access ways to the Underworld that aren't hidden.”
+
+Notice!
+
+You have gained the condition: Angered.
+
+Ren frowned, and reached down to the healer without saying anything. She took the offered hand, and gasped as his overwhelming emotions hit her. She handed him the tarantula without a word, and it crawled up his arm and stopped to perch on his shoulder. He smiled at the healer, and she sighed as she let his hand go.
+
+“My Queen, please open a portal wide enough for my entourage and myself to go back to Aurora.” Ren said.
+
+“Ren...” Lylyth tried to talk, and he held up a hand to stop her.
+
+“I don't want to talk about this right now, and I won't until I see the extent of the damage your decision has caused.”
+
+“But...” Lylyth sighed as she felt that Ren wasn't going to change his mind. “Very well.”
+
+A portal opened in the same spot as it was before, and her familiar opened it up wide enough to accommodate 4 skeleton knights and their steeds side by side, and crawled through it first.
+
+“This portal goes to my throne room, then I will make another to Aurora.”
+
+“Thank you.” Ren said, then waved the skeleton knights forward. They charged through the portal and spread out, and Ren motioned to the succubi. The 20 of them quickly scampered through the portal with their wings folded behind them and their heads down.
+
+“See you on the other side.” Teepo said and his astral form dissolved into the Beetle Crown ring.
+
+“After you.” Ren said to Lylyth, and she nodded and walked towards the portal. Ren reached a hand out to the healer, and she took it without knowing what he wanted. He pulled her up and sat her side-saddle in front of him on the steed and put an arm around her. The healer's face flushed to a dark grey as Ren held her close, and he had the Phantom Steed trot behind the Queen of the Dark Elves.
+
+Ren rode the steed through the portal and left behind one of the oddest experiences he had ever had. The thing was, Ren knew when he went out to try and deal with the ghouls, that it was going to be an odd experience as well; assuming he could do what he planned. He had a bit of time to think about what to do, and it made him smile as he thought about what everyone was going to think.
+
+Especially the tech guys. Ren thought in amusement and let a grin spread across his face.
+
+The healer was practically sitting on his lap, and she felt his feelings. “Mmm.” She said as her ability opened up and she laid her head on his shoulder. She kissed his neck to get them directly, and Ren let her take what she wanted. “You, too.” She said, then gasped as Ren used his ability to absorb some of her emotions. “You... you've changed so much in so short a time!”
+
+Ren felt her genuine joy at his accomplishment, and it touched something deep inside of him. “You're really happy about that.” He said in surprise, and the Phantom Steed they rode came to a stop. “Thank you.”
+
+“Please accept my humble offering.” The healer said and Ren felt a bundle of emotions within her rise to the surface.
+
+“You already gave me a tithe.” Ren said.
+
+“This isn't for the Royal Consort.” She said, and her eyes smouldered for him. “This...” She gave him a quick kiss. “...is from me to you.”
+
+“But-” Ren's words were cut off as she pressed her lips to his and pushed her bundle of feelings into him. She moaned as his ability didn't consume them like she thought it would. It took them in like it was sitting down in a warm bath. The feelings spread out within him, and his ability made them a part of itself. He felt something click deep down inside of himself, and broke the kiss when he received a popup.
+
+Stat Change!
+
+Emotion Siphon (Mastered) - You can absorb emotions from those within your Aura. Touch is no longer required. Touch still increases the sensitivity of this ability, and the ease of it's use.
+
+“Whoa.” Ren said to her as his body glowed, and her mouth made that little 'o' of surprise as she stared back at him. “Thank you.” He said, and immediately built up a reservoir of feelings for her.
+
+“W-wait-” She tried to say when she realized what he was going to do, and Ren cut her words off by kissing her, then gave her 10 times as much feelings back. He did it gently, and her ability leveled up. She tried to gasp when it happened; but, he didn't let her break the kiss as he kept pouring feelings into her. She didn't try to fight him off or even protest as he kept giving her more and more emotions. Her ability leveled up twice more before Lylyth intervened.
+
+“I know you're not doing it on purpose; but, you are making me wait in my own throne room.” Lylyth said, a little peeved. Ren broke the kiss and apologized as the healer kept her arms around him and panted hard. “You can put my healer down, now.”
+
+“Yes, My Queen.” Ren said, and carefully eased the healer off of the steed and to the floor. She didn't let his hand go when he tried to sit back up, and he felt how much she wanted to stay with him. “When this is all over, come and see me.” He said. “I can't promise that anything will happen, except for leveling your ability up.”
+
+“I will.” The healer said. “Thank you, My Lord.”
+
+“No, M'lady.” Ren said and bowed formally, even though he was still seated on the Phantom Steed. “Thank you.”
+
+Her face flushed even darker as she felt how thankful he was, then she nodded and let his hand go.
+
+“I'm ready, My Queen.” Ren said.
+
+“You will be on the outskirts of Aurora, as this many people cannot fit within the building that the other portal was in.”
+
+“I understand.” Ren said, and Lylyth opened another portal. The giant spider familiar widened the portal to the same size as before, and Ren waved the skeleton knights and succubi ahead of him. “Thank you.” He said and rode his Phantom Steed through the portal.

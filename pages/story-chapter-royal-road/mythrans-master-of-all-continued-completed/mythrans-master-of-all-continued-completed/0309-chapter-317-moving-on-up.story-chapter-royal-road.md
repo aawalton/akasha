@@ -1,0 +1,373 @@
+---
+id: 633070ea-2945-5fd6-953e-1b12ddf7b1d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 317 - Moving On Up"
+slug: 0309-chapter-317-moving-on-up
+partOf: mythrans-master-of-all-continued-completed
+position: 309
+ownLength: 3451
+unit: words
+publishedAt: 2017-07-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150836/chapter-317-moving-on-up"
+royalRoadId: "150836"
+---
+
+Ren woke up the next morning, and yawned. He turned over and stretched out, then laid his arms out to both sides, and discovered something amazing. Both of his arms now rested on bare flesh.
+
+“Huh?” Ren opened his eyes and looked to his right. There was Elise in all her naked glory, exactly what he had expected. He marvelled at all that flesh and how she could function with it. When he looked to the left, his eyes widened when he saw Stella. She wore jogging pants and a very baggy t-shirt, which had been pulled up to her neck to reveal her beautiful chest.
+
+“Stella?”
+
+“Hm?” Stella opened her eyes and looked at him. “Good morning.” She smiled, stretched and arched her back, and it showed off her chest to its full potential. “I assume you're done fondling them?”
+
+“Wh-what?” Ren blinked his eyes and looked at her face.
+
+“You've been asleep most of the night; but for some reason, your hand found its way into my top.” Stella chuckled. “I've never had someone sleep-grope me before.”
+
+“That's another thing we have in common.” Elise said, and Ren looked at her. “Good morning, handsome.”
+
+“Good morning.” Ren said, and his face flushed a little red.
+
+“Don't be embarrassed.” Stella said. “It was... it was quite nice, actually.”
+
+“I agree.” Elise said. “It seemed to relax you.”
+
+“I... you...” Ren started to say, then smiled. “Thank you. Both of you.” He said. “You took care of me all night, and let me... well...” His face went a little redder.
+
+“You know what I think of things like that.” Stella said, and sat up.
+
+“I can see why Ren likes them so much.” Elise said as she looked at Stella. “If I'd had a choice, I think those would be the ones I would want.” She said, and cupped her own massive breasts. “These things are a little too much of a good thing.”
+
+Stella laughed. “I don't think I've ever met a woman that was happy with the size of her own breasts.” She said. “I'd want mine just a little bigger, and maybe I would have chosen not to wear a push-up bra so many times.” She said and pinched the tips of her breasts slightly. “They've been trained to point downward a little because of that.”
+
+“I think they're perfect just the way they are.” Ren said, and chimed in on the discussion. “If you hadn't trained them like that, they'd probably be pointing to the ceiling.”
+
+Stella cupped herself and turned them up a little. “Like this?”
+
+“A little more.” Ren said.
+
+Stella arched her back a little and pushed her breasts upwards. “How's that?”
+
+“I think that's what they would look like.” Ren said. “I'd still want to suckle and play with them; but, you'd have to bend over a lot farther for me to do that.”
+
+Stella chuckled and leaned way over towards Ren's face.
+
+“Stella, what are yo-mmm.” Ren tried to say as Stella popped the tip of her breast in his mouth.
+
+“You're right.” Stella said. “I would have to bend way over if my breasts were like this.”
+
+Ren suckled for a second, then moved his head slightly.
+
+“Stella... Elise is...”
+
+“You're right, Ren.” Stella said. “I'm sorry, Elise.” She said and pointed her other breast at Elise. “Do you want to try it, too?”
+
+“That depends.” Elise said. “I know your views on things like this, but...”
+
+“I recently told Ren that I've never done anything with a woman before.” Stella said. “This seemed like a good opportunity to test my theory.”
+
+“Of what?” Ren asked.
+
+“If having a woman suckle feels different than having a man suckle.” Stella said.
+
+“It does.” Elise said. Ren and Stella looked at her, and she blushed. “Ren, I...”
+
+Ren put a hand on her arm. “Like I told you before, you don't have to tell me anything about who you've been with before me.” He said and grinned. “Stella, on the other hand, would love to discuss it with you.”
+
+Stella laughed. “I really would.”
+
+Elise was a little surprised that they were so nonchalant about the whole thing. “You're okay with this, Ren? Sharing Stella's chest like this?”
+
+Ren nodded. “She really does need to know, now that you've given her some empirical evidence.” He said. “But, we can't go any farther than that.”
+
+“We can't?” Elise asked.
+
+Ren shook his head.
+
+“Why not?” Elise asked. “Isn't it the ultimate male fantasy to have sex with two women at once?”
+
+“Oh, yeah.” Ren said. “It's definitely right up there in fantasy land.”
+
+“Then why...”
+
+“We have too much to do today.” Ren said. “You have to get to work, and Stella is spending her day off helping me move the rest of the things from the temporary care facility to here.”
+
+Elise looked at him with wide eyes. “So, we could all sleep together if we didn't have so much to do?”
+
+“We already did sleep together right here in this bed.” Ren said and smiled. “Sex on the other hand, we can only do if we all agreed beforehand.” He said. “You know what I think of forcing things on people.”
+
+Elise nodded. “I'll have to think about it.”
+
+“You don't have to do anything.” Ren said and chuckled. “Don't spend time worrying about if you say no and how I'll react, or if you say yes and how I'll react.” He grinned. “Be yourself and have fun. You've already won me over with everything you've already done, Elise.”
+
+“Ren...”
+
+“If, at some point, you decide that you want to include another woman in our fun, let me know.” Ren said. “No pressure. No anger or repercussions; no matter what you decide.” He leaned over and kissed her. “I love you.”
+
+“I love you, too.” Elise said.
+
+“I'm sorry to put a damper on this, but I need a bathroom break.” Ren said and slid down the bed to the foot of it and stood. “I'll be right back.”
+
+Stella and Elise watched Ren's cute little naked butt as he walked across the room and went into the bathroom.
+
+*
+
+“Okay, that was a little weird.” Elise said.
+
+“He's never asked for multiple partners before, even though he could have several times.” Stella said. “I wonder...”
+
+“What is it?”
+
+“He could be trying to compensate for not having sex for all that time.” Stella said. “As for myself, after about 6 months without sex, I was almost tearing my hair out because I was so horny.”
+
+Elise chuckled. “Me, too.” She said. “Then Ren came along, and I...”
+
+“Yeah.” Stella said. “Now Ren has spent a year and a half without sex in that... what was it you called it?”
+
+“A pocket realm.” Elise said. “It's a place of accelerated time; where creatures are grown and sent into the game.”
+
+“That's a neat way to do it.” Stella said.
+
+“Yes, it's innovative, but... Ren got caught in it.”
+
+Stella nodded. “He wasn't supposed to, was he?”
+
+“No one was supposed to.” Elise said. “Ever.” She sat up in the bed. “Hand me my bra, will you?”
+
+Stella reached down to Elise's pile of clothes and handed her the very large custom-made bra.
+
+“Thanks.” Elise said and put it on. “During testing, the highest someone could go without experiencing severe side effects, was 8 times normal time.”
+
+“That's what Gloria discovered in the administrator's code.” Stella said. “We activated it the first day we used it, and did all of the preliminary experiments in the first session.”
+
+“All of them?” Elise asked, surprised. “How long did you stay in?”
+
+“About 10 hours, real time.”
+
+“Oh my god.” Elise said. “And you're okay?” She asked, worried. “All three of you?”
+
+Stella nodded. “It was just over 80 hours inside, and we did have fun.” She said. “Mostly.”
+
+Elise smiled. “You're remembering the stress tests.”
+
+Stella nodded. “I'm glad we don't have to do that again.” She said. “The gravity mods are horrible.”
+
+Elise chuckled. “I've done them, too.”
+
+“You did?”
+
+“I needed to know the potential for the medical experiments.” Elise said.
+
+“Have you looked at the preliminary numbers I sent you for Ren?”
+
+“I have.” Elise said. “If his physical body wasn't so debilitated, he'd be a medical marvel.”
+
+Stella nodded. “I can only imagine what they did to him to cause such massive improvements and such massive damage at the same time.”
+
+Elise sighed. “You don't think I should say no to him, do you?”
+
+Stella put a hand on Elise's hand.
+
+“Only you can decide what you want.” Stella said. “I agree with Ren. Don't force yourself into anything you aren't comfortable with.”
+
+“Stella...”
+
+“Don't bother asking me about it, because I'm not making that decision for you.” Stella smiled. “The only freedom anyone really has is choice. Use that freedom. Make up your own mind.”
+
+*
+
+“She's right.” Ren said as he came out of the bathroom. He had heard what Stella had said. “If you want to keep me all to yourself while you're here, I'm okay with that.”
+
+“But...”
+
+“Come on, you two.” Ren said and walked over to his pile of clothes and started to get dressed. “We've got a long day ahead of us.”
+
+“You've got a long day of sitting in that wheelchair, mister.” Stella said and got off the bed. “At least until we bring over your VR setup.”
+
+“I'll send the tech guys over to handle all of that.” Elise said. “Have you decided if the new setup will be in the den upstairs, or are you going to do it in here?”
+
+“In here for now.” Ren said. “We can always move it later.”
+
+Elise nodded and slid off the bed to put on her clothes.
+
+“We really should take a shower before putting on our clothes.” Stella said.
+
+“We don't have anything clean to change into.” Ren said. “Plus, Elise needs to head home to change anyways. After she drops us off, she's not going to have much time to get ready for work.”
+
+“I'm dropping you off, am I?” Elise asked, and Ren smiled sweetly at her.
+
+“My sweetest love, can you cradle me in your arms and carry me back to the cold medical facility, so I can abandon its stark and harsh reality to embrace the lap of luxury?”
+
+Elise snorted a laugh. “Since you asked so nicely, sure.”
+
+Ren walked over to her, and she bent down to kiss him.
+
+“Thank you.” Ren said.
+
+“You're welcome.” Elise said. “Stella, are you changing, too?”
+
+Stella shook her head. “I'm not his nurse today, just a friend.” She said. “Plus, I expect moving his things is going to get my good clothes pretty dirty.”
+
+Elise nodded. “Then let's go.”
+
+Ren sat in the wheelchair, then Stella pushed him out of the room and down the hall to the elevator. Elise walked beside them and pushed the button, then they rode down and left the large house. She drove them back to the temporary care facility, dropped them off, and headed back to her own place.
+
+“Boy, that was fun!” Ren said as Stella pushed him into his room.
+
+“Which part?” Stella asked, then she thought about his bad dream.
+
+“Almost all of it.” Ren said. “I mainly meant that I finally slept with Elise.”
+
+“She was careful, too.”
+
+“How do you know that?”
+
+“I didn't see any new bruises forming in certain areas.” Stella said and winked at him.
+
+Ren chuckled. “Are you saying you were checking me out?”
+
+“I always check you out, little stud.” Stella said and grinned. “It's my job.”
+
+“Uh huh.” Ren said and climbed onto his bed. “Is lusting after me a part of your job, too?”
+
+“That's your fault.” Stella said and laughed. “You can't be so handsome and sexy all the time!”
+
+“Your rose-colored glasses are working just fine, I see.” Ren said and laughed, too.
+
+“Hey, you.” Denise said as she came into the room. “I'm glad you're in a good mood.”
+
+“Me, too.” Ren said. “When's breakfast?”
+
+“Geez, give me a break! I just walked in the door!” Denise exclaimed, and that made Ren and Stella laugh again.
+
+*
+
+Barbara woke up in her old bed, probably for the last time, and looked at her husband. When she'd told him last night that she had the night off, he'd almost been like an animal when he took her to bed.
+
+I don't know what's gotten into him lately. Barbara thought, then she smiled. Okay, I kind of do know. She smiled as she thought about her husband accepting Ren's generous offer of a brand new house. Melanie even told us that a serious offer was made on this house, and she was bringing the offer over sometime this morning.
+
+Barbara looked down at the masculine arm draped over her belly, and she hugged it.
+
+“Again?” Donald mumbled as he opened his eyes and looked at her.
+
+“I was just...”
+
+“Help yourself.” Donald said and rolled onto his back.
+
+Barbara chuckled because he was quite ready for her. “Really? You're going to make me do all the work?”
+
+“It's your turn.” Donald said and grinned.
+
+“My turn, is it?” Barbara laughed as she rolled on top of him. “When did we start keeping track?”
+
+“Just now.” Donald said and kissed her.
+
+After a few minutes, Barbara didn't mind at all that it was her turn.
+
+*
+
+Stella helped Denise make breakfast for all three of them, and they sat on the bed and ate.
+
+“So, fill me in.” Denise said. “Why isn't Barbara here, and what went on in the game last night?” She bit into her egg, bacon and toast sandwich. “Oh, that's good.”
+
+“Elise came over after work last night.” Ren said. “Then we took some stuff over to my new place.”
+
+“That late?” Denise asked and looked around. “It doesn't look like you took a lot.”
+
+“Only a few essential things we needed for an overnight stay.” Stella said. “Supplies, towels, a change of clothes...”
+
+Denise nodded. “And Barbara?”
+
+“Ren wasn't playing the game, and both Elise and I were already at the house.” Stella said. “It gave her the opportunity to have a night off.”
+
+“No way!” Denise said. “Boy, I bet her husband was pretty happy!”
+
+Stella chuckled. “I'm pretty sure they didn't sleep a lot last night.” She said and looked at Ren. “Like someone else I won't mention.”
+
+“Really?” Denise asked and looked at Ren. “Elise finally got to have you, huh?”
+
+Ren took another bite of his sandwich and didn't answer, except for a big smile.
+
+“She's been trying for a while.” Denise said. “It just never seemed to happen for her.” She chuckled. “Something always seemed to interrupt.”
+
+Ren mockingly glared at them, and Stella and Denise laughed.
+
+“We can't make it too easy for you, you know.” Denise said.
+
+“You're doing a great job, then.” Ren said, finished his sandwich, and sat back. “Boy, oh boy, that was good!”
+
+“You're talking about the sandwich, right?” Denise asked, and finished her own sandwich.
+
+Ren chuckled. “This time.”
+
+Stella took the empty plates and looked at Denise. “Start packing up everything.”
+
+“Sure.” Denise said and stood up. “Where are the boxes?”
+
+“Folded up in the closet.” Stella said as she walked towards the door. “The packing tape is on top of them.” She left the room to clean the dishes. Denise went to the closet and pulled out the tape and pile of folded boxes. She unfolded one, ran the tape over the bottom twice to secure it, then started to fill it with things from the closet.
+
+“We can sort it all later, so don't worry about keeping things separate right now.” Ren said. “Let's just get everything over there.”
+
+Denise nodded and filled the box quickly. She made another one and filled it, too.
+
+“Hand me a box.” Ren said, and Denise made one for him and he took it to the dresser. He sat it on the bed and emptied the top drawer into it, then emptied half of the next one to fill the box. “This one's full.” Ren said, and Denise came over to tape it up and gave him another one, then she went back to the closet and kept packing.
+
+Stella came in and made a couple of boxes for herself, then left again. Ren and Denise continued to work for about an hour, and then the room's door opened.
+
+“Hi, Ren.” Elise said, and her smile lit up the room
+
+“Elise? What are you doing here?” Ren asked. “You should be at work.”
+
+“I've brought the tech crew over.” Elise said. “Technically, this is work.”
+
+Ren smiled at her. “I guess you're making sure the company's assets don't get damaged during the move.”
+
+“If they are, the insurance will cover everything.” Elise said, and gave him a quick kiss on the lips. “You don't have to worry about me so much, Ren.” She said and smiled. “I'm a big girl. I can take care of myself.”
+
+Ren used his finger to motion her closer, and she bent over to put her ear by his mouth. “I can't help it. I have to worry about you.” He whispered, then kissed her earlobe. Her hair covered what he was doing, so he took it into his mouth and nibbled on it a little. Elise took in a quick breath, and Ren sucked on it for a moment, then used his hand to wipe her earlobe off.
+
+“Sorry, I couldn't resist.” Ren whispered to her.
+
+“I'm not complaining.” Elise whispered back, gave him another kiss on the lips, and stood up. “We'll have this all set up and ready by the time you come over with the next load of your things.”
+
+“Thanks, Elise.” Ren said. “You're more than I deserve.”
+
+“You better believe it.” Elise said and winked at him, and saw that the tech guys had everything unhooked as they carried it out of the room. “It looks like they're done already.” She said a little sadly.
+
+“If you're not there by the time we get there, there's something you should know.” Ren said.
+
+“What's that?” Elise asked, curious about what she might have missed.
+
+“I love you.” Ren said and gave her a hug.
+
+Every time I hear that from him, it sounds so nice. Elise thought and hugged him back. Ren slid a hand down and pat the top of her butt a little bit.
+
+“Now get that cute ass out of my sight before I loose all of my self control.” Ren said and grinned.
+
+Elise snorted a laugh. “Now I'm tempted to stay, just to see if you will.”
+
+“Do you want to ruin my perfectly mediocre attempt at helping to pack my own things?” Ren asked. “You horrible, horrible woman!” He said and laughed.
+
+“All right, fine!” Elise said and laughed, too. “I'll have to wait until later to tempt and corrupt you.”
+
+“I look forward to it.” Ren grinned at her. “See you later, Elise.”
+
+“Bye, handsome.” Elise said and left the room.
+
+For the rest of the morning, Ren, Stella and Denise packed up everything and loaded up Denise's car several times. She then went to the house and dropped the things off in the main lobby. It wasn't until they had the last few boxes stashed into Denise's trunk with the wheelchair that they realized they were finally done. Stella went back into the room to make sure. She checked all the drawers, the closet, the bathroom, and even under the bed. Everything was gone. She nodded and went back out.
+
+“That's everything.” Stella said and got into the back seat.
+
+“Finally!” Ren said and looked at Denise. “Home, Jeeves.”
+
+“I am not your butler, you little stinker.” Denise chuckled and started the car. They drove to the new place and went inside. It didn't take as long to move the things into the elevator to take them up to Ren's room, or the dishes and things to the kitchen, or the bathroom items into Ren's big bathroom.
+
+“I think we might have missed Elise.” Ren said and sat down on his bed.
+
+“By a few hours.” Stella said. “You'll see her again soon.”
+
+Ren nodded and sighed. “Now I have a problem.”
+
+“Really.” Denise said as she brought in the last thing from downstairs. It was his rollaway table, and she adjusted it to fit over the new bed. “What problem is that?”
+
+“I still need a little help in the shower.” Ren said and smiled. “Which one of you beautiful ladies would like to help me?”

@@ -1,0 +1,397 @@
+---
+id: eea0c276-e6a1-5362-a6f7-2de1d9e123c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 191 - The Secret's Out"
+slug: 0179-chapter-191-the-secrets-out
+partOf: mythrans-master-of-all-continued-completed
+position: 179
+ownLength: 3498
+unit: words
+publishedAt: 2017-03-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122697/chapter-191-the-secrets-out"
+royalRoadId: "122697"
+---
+
+Ren went to the blacksmith shop to check on the work that might need to be done. The dwarf there had no problems keeping the picks and equipment repaired, so Ren went into the mine to work. After crushing several large boulders, he dug off-shoot tunnels where he was told. Four hours passed, and Teepo told him it was time for lunch. Ren left the mine and went to his workshop beside the blacksmith shop. He checked on the baby fire elemental, and it still had some food; so he tickled it and checked his glass forge. It had been simmering for over a day, and was no worse for the wear.
+
+Ren poured out a very thin layer into the floor mold he'd made, and absorbed the heat from it. He picked up the clear piece of glass, the exact size of the stained glass window that he would need to fill the 20 holes still in the Church. He repeated this every 30 seconds, and when lunch was over, he had 60 clear panes of glass. He put several more shovels full of sand into the forge and went back into the mines. He did four more hours easily, bid the crew a good day, and left the mine.
+
+Ren equipped his armor bodysuit to replace his dirty clothes, then equipped his Travelling Clothes again. Once he was 'clean', he took off and ran towards the road; completely unaware that the healer Deresdra had watched him from the medical tent since he came out of the mine.
+
+Ren grinned as he arrived at House Neram Keep, then ran up to his workshop. He was looking forward to sharing the work with Tee-one. He gave Tee-one half of the high quality iron ingots from the shop in Aurora, and they added some of them to the smelters, while adding in more gold ore.
+
+“You've been digging up the gold veins around the Keep.” Ren commented at the pile of gold ore that hadn't visibly grown smaller since the last time he'd been there.
+
+“Yes.” Tee-one said. “The last hundred rebar pieces have been more gold than anything else.”
+
+Ren chuckled. “The walls of the Keep are going to be worth more than most businesses, if we keep that going.”
+
+Tee-one smiled. “You're not hurting for money.”
+
+“Not yet.” Ren said. “But when the diamond crystals I currently have run out in a few years...”
+
+Tee-one laughed. “You're taking a long view of the future.”
+
+Ren nodded. “I've got to get this mine producing ore within the month.” He said. “So I can leave House Neram with a steady income.”
+
+“I see.”
+
+Ren and Tee-one finished the furniture on the list, and they forged another dozen swords and shields with gold mixed in, making them much more valuable than the normal shields and swords he'd made previously.
+
+“Ren.” Ereka's voice said, and Ren took out the steel square from his pocket.
+
+“Yes, Ereka?”
+
+“Sorry to bother you.”
+
+“It's okay. Tee-one and I were just finishing up forging. What's up?”
+
+“The Armory is here, and the workers want to know where you want it.”
+
+“That's great!” Ren said. “I'll be right there.” He looked at Tee-one. “Keep making furniture and lingerie. I'll have Ereka order some more mirrors. We can have more sitting tables ready for me to take back to the shop tomorrow night.”
+
+“Of course.”
+
+“Thanks, Tee-one.”
+
+“You still don't have to thank me, Ren.” Tee-one said. “This is my purpose.”
+
+“I just don't want to take you for granted, Tee-one.” Ren said. “If I stopped thanking you, it might devalue your work.” He smiled. “But I value you and the work you do, so I'm going to keep on thanking you.”
+
+Tee-one shook his head and smiled. “It's like thanking yourself.”
+
+“I've done that!” Ren said and laughed. “See you later!”
+
+“Bye, Ren.” Tee-one said.
+
+Ren left the workshop and ran down the road to House Neram's Main House. He saw six large carts, that had been hauled by 2 ponies each, and went by them to go inside. There was a group of six dwarves that he didn't know, and Ereka stood in the middle of them.
+
+“Please, just wait for a moment.” Ereka said.
+
+“We shouldn't have to wait!” One of the dwarfs said. “It was ordered, and we're here to deliver it!”
+
+“He'll only be...” Ereka started to say.
+
+“Right now.” Ren said, as he came to a stop next to the group. “Why are you harassing the Head Assistant?”
+
+Everyone looked at him with surprise on their faces.
+
+“We were doing no such thing!” The same one said.
+
+“It sounded like you were trying to get her to make me get here faster; which is funny, considering it's been less than a minute since she contacted me.”
+
+The dwarf closed his mouth to stop his hot retort. He took a breath and turned back to Ereka.
+
+“I'm sorry if I offended you.”
+
+Ereka nodded slightly, and the dwarf turned back to Ren.
+
+“Where do you want the armory installed?”
+
+“I'm tempted to make you haul it all upstairs.” Ren said.
+
+The dwarf laughed, and the others joined him. “There's no way the floor could take the weight.”
+
+“The floor's reinforced and thicker than the walls; so, there's no problem with that.” Ren said, and then one of the dwarves examined the walls closely. “I don't want the guards to have to come in here all the time to get equipment, though. The Armory has to go in the Barracks.”
+
+“Can you show us, please? We need to get back to the Garrison as soon as it's installed.”
+
+“Sure.” Ren said. “This way.” He walked over to the door and held it open for them. Five of them walked by him, and the one who spoke turned around.
+
+“Creek! We need your expertise.”
+
+Creek kept looking at the wall, and ran his hand over it. “Amazing.”
+
+“CREEK!”
+
+Creek jumped and took his hand from the wall. “I'm coming.” He ran over to the door and joined the others. Ren gave a small wave to Ereka and led the dwarves to the Barracks.
+
+“Right there.” Ren said, and pointed to a spot just inside the door. “I didn't know the actual dimensions for it, so I hope I left enough room for it.”
+
+Creek looked at it. “Yes, it will fit.” He said, and the other 5 dwarves went to the first cart. “Why didn't you make this building the same as the Main House?”
+
+“I didn't have time.” Ren said. “Or the spare iron ore to make the metal bars for the reinforcement.”
+
+“I was wondering what that was in the walls.” Creek said.
+
+“I made a grid of bars for the second floor.” Ren said. “Then filled cement around it.”
+
+“Seement?” Creek asked. “What is it?”
+
+“A trade secret.” Ren said. “The Main House is the only building made from it in this land.”
+
+Creek looked at him with his eyes slightly wide. “There's a bit of lie in there.”
+
+“It was an evasion, actually.” Ren chuckled. “I'm making repairs with it, too.”
+
+Creek nodded slightly. “A building made with it, and one you used it on.”
+
+“Right.”
+
+“You aren't a very good liar.”
+
+Ren laughed. “Where would being a good liar be useful, while surrounded by dwarves?”
+
+Creek chuckled. “Good point.”
+
+“You don't need to help them?” Ren asked, and Creek shook his head.
+
+“I'm a thinker, not a doer.” Creek stepped back and made room for the dwarves that carried in the back piece of the Armory. Ren stepped back and watched them struggling with the heavy piece of iron.
+
+“I'm an Adventurer.” Ren said. “Want me to gather the pieces and bring them in?”
+
+The dwarf that had spoken in the Main House laughed. “I doubt you could lift a side of this, let alone the whole thing by yourself.”
+
+Ren looked at Creek with a raised eyebrow.
+
+“He doesn't have a lot of experience with Adventurers.” Creek said.
+
+“You do?” Ren asked.
+
+“I've visited the mainland a few times.”
+
+“Do you want me to help?” Ren said. “I can bring them all in at once.”
+
+“Please.” Creek said. “It will speed things up considerably.”
+
+Ren nodded slightly and followed the dwarves out to the next cart. Ren examined the piece of armory, and got the partial plan for it. He stored the piece and went to the next cart. The dwarves stood there and stared at Ren as he went to each cart and picked up all of the remaining pieces and went back to the Barracks. They scrambled after him and saw him examining the first piece they had struggled to bring in by themselves.
+
+“Okay. That's the back.” Ren said. “Do you want the floor next?”
+
+Creek nodded slightly, and Ren took out the floor piece. The dwarves bolted it to the back piece, and Ren took out the two long side walls next. Once they were bolted together, they asked for the roof and that was attached as well. Last was the set of doors, and then it was complete. Ren now had the full plans, and he smiled.
+
+“It's like a giant safe.” Ren said. “A long giant safe.”
+
+“It will only open for those that you authorize for it's use.” Creek said.
+
+“Thanks.” Ren said, and set himself, Ereka, Wohrum and Golir as authorized users.
+
+“We would like the payment now.” One of the other dwarves said.
+
+“How much is it?”
+
+“10 platinum.” He said, and a couple of the dwarves winced slightly.
+
+“You can't get many orders for one of these.” Ren commented.
+
+“More than you think.” He said.
+
+“Not if you lie about the price.”
+
+The dwarf got a surprised look on his face, then frowned. “How did you-”
+
+“I literally just made this comment to Creek.” Ren said. “Where would being a good liar be useful, while surrounded by dwarves?”
+
+The dwarf looked around at the other 5 dwarves, and sighed. “Ah, dammit.”
+
+“Why are you trying to scam me?” Ren asked, and the dwarves took a step back.
+
+“That's not...” He sighed. “Our budget can't handle the demands on us.”
+
+“So, rather than make an honest living and only do what you can, you gouge your customer base so you can make what you want?”
+
+The dwarf frowned.
+
+“200 platinum a year isn't enough to do what you want?” Ren asked. “What the hell do you do with all of that money?”
+
+All of the dwarves faces drained of their color.
+
+“How... how did you know...”
+
+“I just recently became the owner of the Garrison.” Ren said. “Which gives me access to it's yearly cost. So... what do you spend the money on?”
+
+None of them spoke.
+
+“I asked a simple question.” Ren said, and they stayed quiet. “Very well.” He said and took out 10 platinum coins and gave them to the outspoken dwarf. “I hope you enjoy that.” He turned away from them. “It's going to be your budget for this year.”
+
+“Wait!” The dwarf exclaimed. “You can't! We need that money!” He said, excitedly. “We have orders to fill!”
+
+“I don't care.” Ren said. “If there's one thing I hate, it's someone who scams people.” He shook his head and walked to the door of the Barracks. “I'll be by the crafting section in a day or two, to examine everything that you have.”
+
+“You have no right!” The dwarf nearly shouted. Ren equipped the new uniform he had made, with his name tag and overall command insignia, concentrated on his Command Aura, then connected his Screaming Terror ring for added effect.
+
+“You will not hide, destroy, or in any way change the experiments you are conducting; or alter the items you are making.” Ren commanded. “You will submit to inspection.”
+
+The dwarves looked at him in shock.
+
+“Since you are so reluctant to tell me why you waste so much money, I have to see it for myself.” Ren shook his head again. “Like I needed yet another thing to take care of.”
+
+“We... we'll tell you...” One of the others said.
+
+“No.” Ren said. “You'll show me; or there won't be a crafting section anymore.” Ren said. “You're dismissed.”
+
+The dwarves looked at each other, and Ren sighed.
+
+“For dwarves that are supposed to be smart, you're acting stupidly.” He said. “You need to leave and go back to the Garrison.”
+
+They stood there, and Ren scowled at them.
+
+“Move it! Move it! MOVE IT!” Ren commanded, and the dwarves marched out of the Barracks and to their carts. They didn't speak at all as they climbed into the carts they came in, then left. Ren let the connection to his Screaming Terror ring lapse, then equipped his Travelling Clothes again. He went back inside the Barracks and opened the Armory, and put 10 swords and shields inside. After closing it, he left the Barracks and went into the Main House.
+
+“Go right in, sir. She's waiting for you in her office.” The receptionist said.
+
+“Thank you.” Ren said to her, and walked to Ereka's office. He knocked once, entered and saw that she was alone, then shut the door behind him. “Hi, Ereka.”
+
+“Hi, Ren.”
+
+“I'm sorry that the workers were a pain in the... neck.”
+
+“Yes, it was in the neck that I felt it the most.” Ereka chuckled. “Did the Armory get installed okay?”
+
+Ren nodded slightly. “It went off without a hitch, once they let me carry the parts inside.”
+
+“I bet you surprised some of them.”
+
+“There's always someone that reacts that way.”
+
+Ereka smiled. “Is there anything else?”
+
+“A couple of things, actually.” Ren said. “I'd like to order a dozen mirrors. Large ones.” He motioned with his hands to show her the sizes. “Square, rectangle, oval.”
+
+“I'll send out a messenger right away.” She said. “What else?”
+
+“I'll need a message delivered to the Garrison.” Ren said. “Do you have some parchment that I could...”
+
+Ereka put a piece of parchment on the desk, with a writing instrument. Ren took it, and wrote out a short message.
+
+“I don't suppose you have any wax?”
+
+She smiled and took out a small jar with a candle in it.
+
+“Thank you.” Ren grinned as he took out a steel square, enchanted it with a fire rune, and lit the candle. He absorbed the enchantment and stored the steel square; and when there was enough wax, he poured some of it out onto the rolled up parchment and pressed the signet ring into the now hardening wax.
+
+“There.” Ren said and gave her the sealed scroll. “Have that delivered to the Commander of the Garrison right away.”
+
+Ereka took it and left her office. She was back a minute later, and smiled. “They're both off and running.” She said. “I don't think the Garrison one will get there before the work crew does.”
+
+“How do you know it's about the work crew?” Ren asked.
+
+“I'm merged into the House Neram Aura.” Ereka said. “I felt your... demonstration?”
+
+Ren chuckled. “Yeah, that's what it was.” He said. “They were all nice and polite, until one of them tried to scam me.”
+
+“They didn't!”
+
+Ren nodded slightly. “Then I asked them what they did with all the money they get every year.”
+
+“They clammed up.”
+
+Ren nodded slightly again. “You got it in one.” He said. “I paid the inflated price, and told them it was all the money they were going to get.”
+
+“So the message...”
+
+“It's orders for the Commander to have guards watch them, until I can get there in a day or so to inspect their work.”
+
+“Wh-what?”
+
+“While I was in Aurora, I had an opportunity to look through Lord Lodur's loot.” Ren smiled. “Can you guess what was in it?”
+
+“The... the deed... to the Garrison.”
+
+“Bingo.” Ren said. “And the ring to seal the order scrolls.”
+
+“Oh... oh my...” Ereka said and sat down. She looked at him with wide eyes. “You're now the defender of the realm.”
+
+“Yeah.” Ren said. “I had nearly the same reaction.” He grinned. “Except I gasped and nearly shouted while in a Library.”
+
+Ereka smiled. “There's not a lot that will make you react like that.”
+
+“Well, it included the bill for the yearly budget.” Ren said. “1,850 platinum.”
+
+Her mouth dropped open and she stared at him.
+
+“There you go.” He said and laughed. “That's closer to my reaction.”
+
+“Ren... how... how in the world are you...”
+
+“I'm going to see what I can do about it first, then see who I can pawn it off to.”
+
+“That would be wise.” Ereka said. “Even if you could stay here, having such a huge responsibility...” She shook her head. “It's too much for one man to handle.”
+
+“Lord Lodur...” Ren started to say.
+
+“...had nearly a dozen family members to take care of everything.”
+
+Ren blinked his eyes a few times at her, then smiled. “Thank you.” He said. “I'm glad we had this talk.”
+
+“Me, too.” Ereka said. “You haven't been home a lot lately.” Her eyes widened again. “I... I didn't mean... ah...”
+
+“It's okay.” Ren chuckled. “We are living in the same house.”
+
+Ereka nodded slightly.
+
+“Speaking of which, I better go.” He said. “Nathalia's going to kill me if I don't take care of my Adventurer's business, and then get some sleep.”
+
+“I'll come, too.” Ereka said and stood up. “Everything's taken care of here.”
+
+Ren nodded slightly, and they left the office together. Ereka told the receptionist to go home as well, and they all walked down the road to the housing sub-division. The receptionist left them to go to one of the houses, and Ren and Ereka walked on towards House Neram Keep.
+
+“I'm really going to miss you when you're gone.” Ereka said.
+
+“I've been getting that a lot lately.” Ren said. “I've still got nearly 4 months before I have to leave, and everyone is treating it like I'm leaving right now.”
+
+Ereka smiled. “I think it's because that 4 months is going to pass by so fast.”
+
+“I guess.”
+
+“Just watch.” Ereka said. “You're going to open your eyes one of these days, and this will all be behind you...” She smiled. “...and you'll wonder where all of the time went.”
+
+Ren smiled. “Probably.” He said. “Just like that 2 hours of non-sleep I had this morning.”
+
+Ereka nodded slightly as they approached the gate to the Keep.
+
+“Good evening, Sir.” Wohrum the guard said. “Madam.”
+
+Golir repeated the same sentiment, and Ren told them that the armory had been installed. They could store their weapons inside, and their armor if they wanted.
+
+“That's a relief, Sir.” Wohrum said. “This takes up a lot of room in a small house.”
+
+Ren nodded slightly. “There's also 10 new swords and shields.” He said. “You and Golir have permission to open and close it, so one, or both of you, will have to be there for the other guards to use it.”
+
+“Understood, Sir.”
+
+“Goodnight.” Ren said, and closed the gate behind himself and Ereka. They went inside and ate a nice meal with Nathalia, and Ren asked her to feed Princess for him.
+
+“Of course.” Nathalia said. “I assume so you can take care of your Adventurer's business.”
+
+He nodded slightly, and she kissed him.
+
+“Then hurry up and go.” Nathalia said, and led him to the couch. “The sooner you leave, the sooner you'll be back.”
+
+Ren sat down on the couch and smiled. “See you soon.”
+
+Teepo took off from his shoulder. “Bye, Ren.”
+
+Bye, Teepo. Ren thought. “Logout.”
+
+********
+
+Ren logged off, and Barbara was delighted by the extra time she could spend with him.
+
+“You didn't have to, you know.” Barbara said.
+
+“I never 'have to'.” Ren said. “I wanted to.”
+
+“Thank you.” She said. “What do you want to watch?”
+
+“Lady's choice.” Ren said. “I've got about half an hour before I need to log back in to get some sleep.”
+
+Barbara searched through the channels, and stopped on Channel 8. The midnight news was on, and she'd seen Ren's face.
+
+*
+
+“That's right, folks! It's been discovered that the star of the new hit show is none other than Ren Haddon.” The female news anchor said. “He's a local boy who's been bed-ridden and bound to a hospital for years.”
+
+*
+
+“Oh, crap!” Ren said. “How did they find out?”
+
+*
+
+“A source close to the star was so excited to see him on the television, that they gave us an exclusive interview.” The female anchor said. “So, Cheryl... what's he like in real life?”
+
+“He's just a doll!” Cheryl, the nurse who had asked Ren for his autograph, said. “He's in a wheelchair most of the time; but, he doesn't let that stop him!”
+
+*
+
+Both Ren and Barbara sighed as Cheryl proceeded to tell the female news anchor all about his daily life.

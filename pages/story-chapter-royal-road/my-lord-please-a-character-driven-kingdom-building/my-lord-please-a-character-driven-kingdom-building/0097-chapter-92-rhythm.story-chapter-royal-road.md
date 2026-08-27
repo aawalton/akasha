@@ -1,0 +1,349 @@
+---
+id: 5498b6ac-4f62-57dc-9ed0-73aeaaf0709f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92 Rhythm"
+slug: 0097-chapter-92-rhythm
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 97
+ownLength: 3006
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3640906/chapter-92-rhythm"
+royalRoadId: "3640906"
+---
+
+Lucien pushed himself up from his seat with a quiet exhale. It was best not to leave her waiting any longer. He grabbed his cloak, clasping it on his shoulders before moving toward the study door.
+
+Upon opening it, the first thing he saw was Sera standing a short distance away with the red case slung across her back and the hunting bow held calmly in her hands.
+
+Or rather...
+
+the same hunting bow he had left in Alicia’s care while meeting with Bran and Elias.
+
+Sera looked at him before lowering her gaze toward the bow in her hands, then back toward him once more. A faint scrunch appeared between her brows.
+
+Lucien shook his head faintly. “I can't carry that around with me everywhere, Sera.” A slight tint of exasperation colored his voice.
+
+She tilted her head at his words before glancing toward his hands.
+
+He exhaled softly through his nose. “No. I meant it would be rude for me to bring a hunting bow into a meeting like that.”
+
+Brow lifting slightly, she lowered her gaze toward her own hunting bow in thought.
+
+Lucien resisted the urge to sigh again. This was a battle he would not win, he decided.
+
+So instead, he stepped toward her and accepted the hunting bow she had prepared for him.
+
+She handed it over to him in what was, for Sera at least, an almost ceremonious manner before giving him a firm nod.
+
+Then she immediately turned and began walking off.
+
+Lucien’s brow twitched as he noted the faintly quicker pace in the usually quiet hunter’s movements, though he followed after her regardless.
+
+When they exited the manor and stepped into the courtyard, he expected her to stop near its edge.
+
+Instead, Sera continued walking. Or rather, she would have if not for the two men standing near the courtyard entrance.
+
+She stilled, though her posture remained unchanged. Instead, her head tilted slightly before she turned toward him.
+
+Lucien raised a brow as he regarded the pair before them.
+
+“Merek. Henric. I had thought your...additional duties guarding the manor entrance had already concluded.”
+
+Both men dipped their heads before Merek answered.
+
+“Yes, My Lord. Captain Dorian heard about your...training with the hunter. He assigned us to escort you.”
+
+Lucien shot him a dry look. “Has the entire village heard by now?”
+
+The corner of Merek’s mouth lifted briefly before stilling while Henric’s reaction was far less restrained as he let out a cough before abruptly covering his mouth.
+
+'So I will take that as a yes then.'
+
+Sera tapped her boot softly against the ground, her gaze still fixed upon him. The faint scrunch between her brows made her meaning obvious enough.
+
+Lucien gave a small nod toward the guards. “Very well. Keep to a distance you deem appropriate.”
+
+The two men bowed before stepping aside.
+
+The moment they did, Sera resumed walking with Lucien following after her.
+
+He was proven right about his assumptions when they began moving through the village.
+
+A pair of women walking toward Talia’s shop glanced in their direction, their eyes moving from Sera toward the bow in Lucien’s hands.
+
+Soft murmurs passed between them, too soft for him to hear, though the amused looks they exchanged afterward made the topic obvious enough.
+
+A man carrying a sack over his shoulder paused briefly as they passed, his gaze lingering on them before he let out a snort and continued on his way.
+
+Lucien did not know what expectations surrounded nobles and martial skill.
+
+Neither Dorian nor Elias had ever implied such things were expected of him, which made the villagers’ amused looks difficult to interpret.
+
+From their reactions alone, carrying a hunting bow openly through Ashridge seemed somewhat unusual, though perhaps the heartlands held different expectations altogether.
+
+He had hoped the occasional glance and restrained chuckle would be the extent of it.
+
+That hope vanished instantly when a familiar voice shouted from the distance.
+
+“Lord Lucien! Sera! Waaait for meee! You promised!”
+
+Cora came running toward them, nearly tripping over herself before catching her balance at the last second. She only stopped once she reached Sera, tilting her head upward.
+
+Her eyes sparkled with excitement. “Is it now? Are you teaching him now?” She bounced once before continuing without pause. “The others wanted to come too. Especially Matthias.”
+
+She finally took a deep breath.
+
+“But but. Their parents said no. Mine said yes because Sera said I could.” Her eyes widened expectantly. “So I can, right? Right?”
+
+Sera, who had patiently waited through the entire flood of words, immediately gave a firm nod.
+
+Cora let out an excited cheer before turning toward him.
+
+“Lord Lucien! Soon you’ll shoot as good as Sera! Then finally you’ll have more exciting stories to tell!”
+
+Somehow, that line of reasoning made perfect sense from Cora’s perspective.
+
+Lucien gave a light shrug. “Yes. I will make certain to provide you with more exciting stories in the future,” he replied dryly.
+
+Throughout it all, Merek maintained a perfectly neutral expression, only shifting slightly when Cora first began speaking.
+
+Henric, however, seemed unable to decide whether he should feel offended by the comparison between him and Sera or amused by the situation itself.
+
+In the end, he somehow managed to look constipated instead.
+
+As Cora let out another cheer and immediately began trailing after Sera’s steps, Lucien turned toward the guards and gave a subtle gesture toward the child.
+
+The two men exchanged brief looks of understanding before the group continued on their way.
+
+Their walk was filled with Cora excitedly talking about how far he might shoot on his first try, or perhaps how he was secretly a prodigy with the bow who would one day become the Lord Hunter of Ashridge.
+
+Lucien didn't know which was worse, the amused chuckles from villagers who overheard her words or the inevitable disappointment on Cora’s face once she discovered that learning the bow would likely involve far more of standing still than exciting stories.
+
+Sera led them toward the southern palisades, passing through the gates after receiving a few familiar acknowledgements from the guards stationed there.
+
+That easy familiarity lasted only until the guards noticed him standing behind her.
+
+They straightened immediately before saluting.
+
+“My Lord.”
+
+Lucien returned the gesture, though Cora walked up to them with her head tilted upward.
+
+“I am following them this time! So I can go too, okay?”
+
+The two guards exchanged bemused looks before glancing toward him.
+
+Lucien answered with a brief gesture of assent.
+
+Only then did the guards step aside and allow Cora through.
+
+The girl ran ahead to catch up with Sera, who had already stopped to wait a short distance beyond the gates.
+
+Sera led them toward the direction of the militia training grounds before turning toward the treeline near the edge of the field.
+
+She stopped there briefly, tilting her head as though listening before glancing toward him and relaxing slightly.
+
+Cora, in a rare moment of silence, looked confused.
+
+Lucien understood immediately.
+
+The hunter had detected no signs of wandering beasts or danger nearby.
+
+Only then did Sera continue forward, guiding them toward what initially appeared to be a random stretch of trees until Lucien noticed the faint traces of a narrow path passing through the undergrowth.
+
+Cora, who had stayed close beside Sera the entire walk, looked around with a mixture of excitement and nervousness now that she had left the village for perhaps the first time.
+
+“Is this your secret training spot, Sera?” Her voice came out noticeably softer than usual, at least for her.
+
+Sera gave a faint nod though she never stopped moving.
+
+It did not take long before they arrived at a small clearing where signs of the hunter’s presence could be found scattered throughout.
+
+A firepit rested near one side of the clearing with faint remnants of what were likely Sera’s snacks while she practiced.
+
+Nearby sat bundles of hand-carved shafts, though none appeared to have arrowheads fitted to them.
+
+Off to the side, a tightly bundled straw target was mounted against a simple wooden frame. It leaned slightly against the raised dirt behind it to help keep it upright.
+
+The rope bindings showed signs of repeated repairs while the straw itself had long since darkened from exposure to rain.
+
+Two faded charcoal circles had been drawn across its surface, one smaller within the other to mark the center.
+
+Merek and Henric spread out toward opposite ends of the clearing, remaining near the edges while keeping a watchful eye on the surrounding treeline.
+
+Cora ran toward a spot where she would not be in the way while still remaining close enough to watch his inevitable clumsy attempts at learning the bow.
+
+The girl herself clearly didn't see it that way, judging from the excitement shining in her wide eyes.
+
+Lucien had spent part of the walk speculating on how Sera intended to teach him.
+
+In his mind, it would likely resemble the lessons from his old world where an instructor slowly demonstrated the proper posture and motions so the student could imitate them afterward.
+
+Sera, of course, simply handed him a quiver filled with arrows from beside the practice area before pointing toward the target and waiting patiently.
+
+Lucien stared at her briefly before speaking. “Sera, would it not be better if you showed me how to stand and draw the bow first?”
+
+The hunter’s brow lifted at his words before she turned toward the target in consideration.
+
+A moment later, she stepped into position before smoothly shifting into a firing stance. The hunting bow that rarely left her hands bent under the draw as she pulled the string back with practiced ease.
+
+She barely held the string for more than a breath before releasing the arrow in one fluid motion.
+
+Cora clapped her hands excitedly. “Wow! That’s amazing! Lord Lucien, it’s your turn!”
+
+Lucien’s brow twitched faintly at the additional pressure from the not-so-adorable child.
+
+As expected, she truly was a younger version of Talia in the making.
+
+He let out a slow breath before turning toward the target.
+
+Though Sera’s demonstration had been quick, he had still managed to catch certain details regarding her stance and the way she drew the bow. He had also spent enough time in this world to observe some of the militia practicing from afar.
+
+He tried recalling those stances as his body stiffly adjusted into position while holding the bow low in his grip.
+
+Two fingers rose toward the quiver slung across his shoulder as he awkwardly searched for an arrow before finally managing to clasp one between them.
+
+Holding it carefully, he set the shaft against the bow before slowly drawing the string back, paying careful attention not to let it snap against his wrist even if he had gloves.
+
+Lucien had barely held the position for more than a moment before strain began building across his shoulders while his aim swayed intermittently.
+
+It became immediately obvious that this body lacked the same instinctive familiarity it possessed with horseback riding or reading the letters of this world.
+
+He released the string more out of strain than confidence in his aim.
+
+The arrow flew forward before striking the target near the outer edge, far from the center.
+
+'Well, at least it didn't fall short before reaching the target.'
+
+Cora didn't share his optimism as she let out a disappointed groan. “Awww! It’s okay, Lord Lucien! You still hit it. Your next one will definitely hit the center!”
+
+Unfortunately for her, his next attempt proved even worse as the arrow flew wildly off to the side and disappeared into the bushes beyond the clearing.
+
+Cora stared at the empty space for a moment, her eyes wide with disbelief before she slowly turned toward him.
+
+“Lord Lucien, you shouldn't try to trick me like that! You did that on purpose!”
+
+He rotated his straining arms before answering. “No. This is apparently what my natural talent looks like.”
+
+She gave him a suspicious look that only intensified when his third shot missed the target by a narrow margin.
+
+Cora opened her mouth briefly before closing it when Sera, who had remained nearby the entire time, walked over toward him.
+
+The hunter placed a hand lightly against his shoulder.
+
+Lucien felt a small pressure there and didn't resist, allowing her to adjust his stance as she nudged one of his feet outward before pushing his back straighter.
+
+Once satisfied, Sera stepped away again before giving a firm nod.
+
+When Lucien drew the bow back for his fourth attempt, he noticed the strain along his arms had lessened, though the tension across his shoulders had become more pronounced instead.
+
+Perhaps it was only wishful thinking on his part, but the next shot felt marginally smoother as the arrow struck near the outer edge of the target once more.
+
+Lucien’s attempts afterward could only be described as mixed, if one insisted on using a single word for them.
+
+He paid close attention to the form Sera had physically guided him into earlier, trying to recreate the same feeling with each draw.
+
+Most of his shots either flew wildly off course or barely brushed the target when they missed, while his successful attempts could hardly be called successes at all. The closest he came to the center was somewhere between the two charcoal circles.
+
+Sera occasionally stepped in to adjust his stance again, and more than once Lucien realized moments later that a gust of wind had swept through the clearing exactly where his aim would have drifted.
+
+After one particularly poor shot, she pointed toward the swaying branches overhead before making a small motion with her hand to mimic the movement of the wind.
+
+Archery was more than simply shooting accurately.
+
+The surroundings mattered just as much, perhaps even more than the shot itself.
+
+Cora, meanwhile, had quickly grown bored and eventually wandered over toward Merek with her head tilted upward.
+
+“Have you ever been in any interesting fights?”
+
+Merek’s brow lifted before he answered. “Why ask me instead of that man over there?”
+
+Henric visibly stilled at the older guard’s words before subtly adjusting his posture into what he likely believed was a more knightly stance.
+
+The effort collapsed immediately at Cora’s next response.
+
+“He looks boring!” she declared while shaking her head so vigorously that her braided hair whipped about wildly.
+
+The corner of his mouth twitched faintly while Merek let out a cough that sounded suspiciously close to laughter.
+
+Lucien silently offered Henric his condolences for being placed in the same category as himself before sending another arrow toward the target, his movements growing increasingly strained with every attempt.
+
+He was just about to nock another arrow when Sera approached once more.
+
+This time, however, she did not adjust his posture.
+
+Instead, she calmly removed an arrow from the quiver at his side.
+
+In one smooth, almost casual movement, she drew the bow and released.
+
+She barely even looked toward the target.
+
+Lucien’s brow creased at the display. He knew Sera was not someone who showed off her skill without reason.
+
+There was something she intended for him to notice.
+
+Sera tilted her head before reaching into her satchel for her parchment. She wrote across it in quick, firm strokes before turning it toward him.
+
+Your Rhythm.
+
+Lucien stared at the words longer than necessary, trying to discern the meaning behind them.
+
+His thoughts halted when Sera raised a hand toward his face before gently placing it against his forehead.
+
+She withdrew it a breath later before giving a firm shake of her head.
+
+Then she placed that same hand lightly against the center of his chest before giving a small nod instead.
+
+Afterward, she stepped back and waited patiently.
+
+Lucien turned back toward the target.
+
+This time, rather than consciously thinking through every motion, he simply withdrew an arrow, nocked it, held the draw for a single heartbeat—
+
+and released.
+
+The arrow struck near the edge of the inner circle.
+
+It was the first shot that had come anywhere close to the center.
+
+“Lord Lucien! I knew it! You were trying to trick me!”
+
+He had been so focused on the shot that he found himself jumping at Cora’s excited shout.
+
+Somehow, the girl had managed to move closer without him noticing, though Sera had already caught her by the shoulders just as she attempted to run toward the target.
+
+Lucien was about to draw another arrow when the hunter stepped closer and quietly took the bow from his hands after releasing the child.
+
+The moment the hunting bow left his grip, the fatigue hidden beneath his concentration came rushing back all at once.
+
+The strain lingering across his shoulders and arms became especially noticeable.
+
+Realizing the “fun” had apparently concluded, Cora quickly ran back toward Merek while continuing to ignore Henric entirely, causing the younger guard’s shoulders to slump.
+
+Sera turned toward the firepit before glancing back at him expectantly.
+
+Lucien shook his head wryly before following after her.
+
+He joined the hunter beside the firepit as she sat cross-legged upon the packed dirt. Soon after, she passed him a wineskin along with a strip of dried meat which he accepted gratefully.
+
+A comfortable silence lingered between them while they quietly ate and drank.
+
+Lucien’s gaze lowered in thought as he tried to organize the smaller details of the training session within his mind.
+
+The soft scratching of charcoal against parchment eventually interrupted him.
+
+He glanced toward Sera.
+
+The hunter studied him silently for several breaths before finally turning the parchment toward him.
+
+Hunter.
+
+Lucien stared at the word for a brief moment before his mouth opened slightly to deny it only to close again soon after.
+
+Perhaps, from Sera’s perspective, she had always seen him that way.
+
+He met the pale eyes of the hunter sitting across from him before eventually giving a faint nod.
+
+It seemed he would have to begin setting aside time for bow training within his schedule from now on.

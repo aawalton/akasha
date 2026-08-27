@@ -1,0 +1,353 @@
+---
+id: 012eb401-4a1c-5e8c-a76d-81e60c9cff33
+page-type-slug: story-chapter-royal-road
+title: "Chapter 470 - The Party Continues"
+slug: 0470-chapter-470-the-party-continues
+partOf: mythrans-master-of-all-continued-completed
+position: 470
+ownLength: 3290
+unit: words
+publishedAt: 2018-01-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184074/chapter-470-the-party-continues"
+royalRoadId: "184074"
+---
+
+Gloria came out of the change room with Stella, and she wore a lime green bikini. It clashed horribly with her bright pink and blue streaked hair, but she still looked good in it because it fit well. Ren got out of the hot tub immediately and gave her a hug. He didn't hold it for too long, because he didn't want to make her uncomfortable, and he went back in the hot tub while she went for a swim with Stella and Denise. After another little while, Lisa decided she had relaxed enough and went for a swim, too.
+
+“No cannonballs!” Ren warned her. “There's too many people in the pool.”
+
+“Ren, this pool is huge.” Lisa laughed. “10 of me could do cannonballs at the same time and they wouldn't hit anyone.”
+
+“Okay, then.” Ren smiled. “Just one.”
+
+Lisa checked that the coast was clear and jumped into the pool. “CANNONBALL!”
+
+The water splashed up and rippled, and Ren watched as the ripples petered out and only tiny waves reached the other swimmers.
+
+“Huh, she was right.” Ren said and leaned back, then tried to prop his feet up on the seat on the other side of the hot tub; but, they wouldn't reach.
+
+“Want some help?” Gloria asked as she walked over to the hot tub. She had seen Lisa leave and figured this was a good opportunity to talk to him.
+
+Ren saw that she had taken out all of her piercings again and smiled. “I still think you look naked without your piercings.”
+
+Gloria chuckled as she climbed into the hot tub and sat across from him, then she put his feet on her lap.
+
+“You don't have to do that.” Ren said.
+
+“...and you didn't have to come into the game to rescue me.” Gloria said. “God, that made me so mad!”
+
+Ren chuckled. “Like I didn't know that.”
+
+They sat there in the water and stayed quiet for a few minutes. Gloria started to massage his feet, and she felt him relax.
+
+“You know, it was oddly satisfying wiping them all out.” Ren said. “Wrecking the house afterwards was... well...”
+
+“It was fun.” Gloria said. “I could feel your emotions too, remember?”
+
+“At the time, I debated on making myself a giant and just stomping on those fighters.” Ren said.
+
+“Oh, god!” Gloria chuckled. “Can you imagine the looks on their faces?”
+
+“I should have punted a few of them, just like kicking a football.” Ren said and grinned. “Just to see how far they'd go.”
+
+Gloria laughed. “I don't think I would have been as angry if you did that.”
+
+“I would have enjoyed it more, that's true.” Ren said, and his smile disappeared. “I didn't do any of that, because I couldn't take the chance that any of them would get away.”
+
+Gloria felt tension return to his feet. “Ren...”
+
+“They hurt you, and I couldn't let that go.” Ren said.
+
+“But... you let that dark elf go.” Gloria said, and then covered her mouth. “I'm sorry.”
+
+“I didn't let him go.” Ren said. “I've been waiting for you to help me hunt him down, just like I promised.”
+
+“But...”
+
+“I wanted you to do it, with my help.” Ren said. “With your ability maxed out and with me there to help boost you, you can do to him what he did to you.”
+
+A mean smile spread across Gloria's face. “That sounds great.”
+
+“I've got some world event things to deal with when I go back into the game tonight.” Ren said. “How about tomorrow night?”
+
+“Real life or game life?” Gloria asked.
+
+“Ladies choice.” Ren said.
+
+“Can I come along with you on this world event thing you have going?”
+
+“There won't be much for you to do.” Ren said. “I'm letting Zetaya do all the work.”
+
+“Zetaya?” Gloria asked, then chuckled. “Oh, the fire elemental.”
+
+Ren nodded. “We cleared out 35 ghoul nests and wiped out a horde of about 2 million ghouls.”
+
+Gloria's mouth dropped open. “You're kidding!” She said and gripped his feet. “How much XP are you getting?”
+
+“None.” Ren said and smiled.
+
+“WHAT?!?” Gloria let his feet go, so she wouldn't grip them too tightly. “Why not?”
+
+“I told you. I'm letting Zetaya do all the work.” Ren said. “I pull aside anyone that can be saved and bring them to the healers, then rinse and repeat.”
+
+“R-Ren, you... why? Why are you passing up on all that XP?”
+
+“I got a ton of it when I finished Shargon Caverns, and I barely killed anything myself.” Ren said. “I still gained 57 levels.”
+
+“You... you're above me in levels now!” Gloria exclaimed. “You're only a crafter, and you're above me in levels.” She said, a little dejectedly.
+
+“I unlocked skills and recipes I haven't even looked at fully yet, and my character build is a mess.” Ren said. “I'm a bit surprised the CEO of Sid Tec hasn't stepped in to limit me to only gaining a few levels at a time or something.”
+
+“Everyone would quit the game if he did that.” Gloria said. “I know I would.”
+
+“But...”
+
+“Not everyone gets tons of XP like you do in a single shot.”
+
+“I guess that's true.”
+
+“How many times is that now? Two? Three?”
+
+“I've got the top 5 spots on the XP leader board; but, one of them was with Clint's party.”
+
+Gloria shook her head. “How in the world did you take a helper class and make it a force to be reckoned with?”
+
+“I play a lot.” Ren said, and she chuckled.
+
+“He still holds the record for spending the most time in the game.” Elise said.
+
+Ren and Gloria looked up at her, and she stood there with Barbi.
+
+“Is that true?” Barbi asked, excitedly.
+
+“It is.” Elise said. “Mind if we join you?”
+
+Ren looked at Gloria, and she shrugged as she started to massage his feet again.
+
+“Please, make yourselves comfortable.” Ren said, and Elise climbed in on his left and sat down, and Barbi climbed in on his right.
+
+“I'd like to co-ordinate with you and get the actual times.” Barbi said and draped her arms across the sides of the hot tub. One hand almost touched Gloria, and her other arm rested across Ren's back and her hand touched Elise's shoulder. “The fan pages will go nuts!”
+
+“Fan pages?” Ren asked.
+
+“See? That's why you need someone to police these things.” Barbi said. “We can even start an official page, and provide a subscription service for exclusive details!”
+
+“But...” Ren started to say.
+
+“Don't worry about anything.” Barbi said and pat Ren on the shoulder. “I'm on the job starting tomorrow, and I'll take care of everything.”
+
+“Are you sure?” Ren asked, and Barbi looked at him with a question on her face. “I mean... I don't know what you're going to be doing, and I'm assuming it's a big responsibility.”
+
+“If it puts your mind at ease, I'll work for the next three days for free and start setting everything up.” Barbi said. “If you're not happy with what I'm doing, I won't quit the television station.”
+
+Ren looked from her to Elise. “I'm kind of out of my depth here.” He said. “Is that a good deal?”
+
+“Considering I wanted to hire her right away, it's a great deal.” Elise said, and Ren turned back to Barbi.
+
+“It's too good of a deal.” Ren said. “Why would you agree to three days of free work?”
+
+“It's going to take a couple of days to set things up and get everything coordinated.” Barbi said. “It will be hard to judge me before that with only partially finished work.”
+
+“So if you don't get the job after that, we could hire anyone to take over; mainly because you would already have all the setup work done.” Ren said and shook his head. “No, I agree with my financial adviser.”
+
+Elise caught her breath at his words.
+
+“If you're going to work for us, we should hire you right off the bat and not pussyfoot around it.”
+
+“But...”
+
+“You've already discussed things with Elise, right?” Ren asked, and Barbi nodded. “Then I have to assume what you've been saying is true and I need to get a handle on my public persona, and the best way is to consolidate everything under your care.”
+
+Barbi looked at Elise. “Is he always this decisive?”
+
+“I've never seen or heard of him doing only half measures.” Elise said and glanced at Gloria. “Once he decides to accept something into his life, that's pretty much it.”
+
+“Then I'll tender my resignation to the television station first thing in the morning.” Barbi said and pat Elise's shoulder. “I'll submit the order for the new equipment through your financial adviser.”
+
+“We've got a small dining room that we don't use.” Ren said and looked at Elise. “Would it take much to convert that into a nice office for you and Barbi to work in?”
+
+“Not much. We would just take out the table and chairs and put a desk in.” Elise said. “Maybe two, if Barbi needs the extra space for digital monitors.”
+
+“Hold on, now.” Barbi said. “You'll let me set up a full computer system with a secondary display?”
+
+“I don't see why not.” Elise said. “I'm going to need at least one myself, especially if we decide to incorporate for the tax breaks.”
+
+“Oh! Incorporation!” Barbi smacked herself on the forehead. “I should have thought of that!”
+
+Elise chuckled. “Since I'm apparently his financial adviser... I'll worry about the finance part. You worry about the public part.”
+
+“I used to do that all the time.” Ren said.
+
+“What's that? Worry about the finances?” Barbi asked.
+
+“No, smack myself in the head.” Ren said. “The last time I did it in the game, I knocked myself out for about an hour.”
+
+Barbi looked at Ren for a second, then burst out laughing.
+
+“You did not.” Gloria said.
+
+“I really did.” Ren said. “I used to have a small chance to Stun when I hit things in the head; but, I had forgotten about gaining a boost to it recently.” His face flushed a little red. “It's almost a 50/50 shot now.”
+
+Gloria and Elise joined in on the laughter.
+
+“With that armor you have now...” Elise said and shook her head. “I'd be careful about touching people with your hands, let alone smacking them!”
+
+“I know.” Ren said. “My armor's restricted, and it's singular.”
+
+“Wow, really?” Gloria asked. “I've never heard of a singular item before.”
+
+“I've got two of them now.” Ren said. “My polymorph helm and my armor.”
+
+“I didn't see you wearing a helm.” Gloria said.
+
+“It's invisible and can't be touched, modified, or removed.” Ren said. “It's a bit of a pain in the ass to be honest; but, it's also an awesome helm and no one else can make another one.” He grinned. “Not even me.”
+
+“So... what can you become with it?”
+
+“No idea.” Ren said, and the three women looked at him. “What?”
+
+“You didn't try it?”
+
+“I tried it once and became a Marilith demon.” Ren said. “It felt really weird with two extra arms, and I kind of just flopped around with a tail instead of legs.”
+
+Gloria and Barbi's mouths fell open in shock, and Elise chuckled.
+
+“He met one as the final boss in the Shargon Caverns training grounds.” Elise said.
+
+“Good god, the boss is a Marilith demon?” Gloria asked. “I am really glad I declined the offer to go there.”
+
+“You had the chance to go?” Ren asked, and Gloria nodded.
+
+“I was too busy having fun to bother with special training that was going to take several weeks to a month to complete.”
+
+“It didn't take Ren anywhere near that long.” Elise said.
+
+“What? Why not?” Gloria asked. “Did you get a head start or something?”
+
+“Nope.” Ren said. “I started on the bottom level just like everyone else.”
+
+“Then how...”
+
+“He took out a mining pick and dug straight up.” Elise said, proudly.
+
+“No way!” Barbi said. “That's brilliant!”
+
+“It had the virtue of never being tried before.” Ren said and grinned. “I was about 10 miles deep when I started, and I got about halfway up to the surface before the caverns started to shift around to direct me where I was supposed to go.”
+
+Barbi used her hand to pet his hair. “With how your mind works, you must have wrecked the place.”
+
+“He sure did.” Elise said and laughed. “The programmers were beside themselves with the chaos he caused.”
+
+Barbi and Gloria joined in and laughed, too.
+
+“What's that saying? Stay out of the kitchen if you can't stand the heat?” Ren asked.
+
+“Close enough.” Elise said. “Speaking of which, why isn't the hot tub on?”
+
+“I wasn't using it for what it was meant for, because I was busy watching everyone else have fun.” Ren said. “With the water jets going, you can't hear much of anything from outside.”
+
+“Everyone is doing something else.” Elise said and leaned forward to reach the controls. “Do we want heat, or just the jets?”
+
+“Jets, please.” Barbi said. “I can't take much heat in this thing.” She said. “It covers too much.”
+
+Ren's eyes went wide, and Gloria snorted a laugh.
+
+“What's funny?” Barbi asked, and then jumped slightly when the jets came on.
+
+“Your swimsuit looks like it's hanging on for dear life... and it's losing.” Gloria said, and Barbi laughed.
+
+“Look who's talking.” Barbi said and pointed. “You're telegraphing how much you like massaging his feet.”
+
+Gloria looked down and saw that she was clearly doing what Barbi said. The tips of her breasts were so prominent that it was stretching the thin cloth. She hadn't noticed because the bikini was actually really comfortable. She let Ren's feet go and covered herself, and Barbi reached over and pat her shoulder.
+
+“I didn't say that to embarrass you.” Barbi said and pointed to her own chest and the prominent tips they displayed. “I was comparing us.”
+
+“Oh.” Gloria said, but didn't uncover herself. “How come you're so excited?” She asked, to distract the others from her chest.
+
+“I'm sitting on one of the water jets.” Barbi said. “It's like a really good massage.”
+
+No one spoke as they let that thought sink in. After a few moments, Gloria couldn't take just sitting there quietly with her hands covering her breasts.
+
+“I think I'll go for a swim.” Gloria said and got out of the hot tub, stepped into the closest change room and grabbed a t-shirt, then slipped it on and jumped into the pool. Ren, Elise, and Barbi sat in the hot tub and relaxed, until Denise said it was almost time for supper.
+
+“What are we having?” Ren asked when Elise turned off the water jets of the hot tub.
+
+“I've had pork chops slow cooking in the oven since this morning.” Denise said.
+
+“In the oven?” Barbi asked. “Aren't you supposed to fry pork chops?”
+
+“Only if you want to keep them tough and hard to chew.” Denise said.
+
+“You'll like it, trust me.” Ren said. “Whatever she does with them, the meat just melts in your mouth.”
+
+“Is it okay for me to stay?” Barbi asked.
+
+“I made plenty, since I wasn't sure who would be here.”
+
+“What would you do with the extras if we weren't here?” Barbi asked.
+
+“Have lots and lots of leftovers.” Denise said and chuckled. “It should be ready by the time we all get rinsed off and changed.”
+
+“Tell me you're making gravy, too!” Ren said, and Denise nodded. “Sweet!”
+
+“It's mashed potatoes and not french fries, though.”
+
+“It doesn't matter.” Ren said. “Your gravy always makes everything taste better.”
+
+“Thank you.” Denise said and held a hand out. “Let's get you washed up and changed.”
+
+Ren took her hand and she helped him out of the hot tub.
+
+“Let me do that and you can check on the food.” Stella said as she walked over.
+
+“All right.” Denise said and handed Ren's hand to her. “Thanks.”
+
+Stella brought Ren over to the outside shower and gave him a quick rinse, then took him inside the first change room to get changed. Since he was only wearing a pair of shorts, he changed quickly into the red pyjama set and Stella had him sit in the wheelchair. Ren glanced around at the people waiting to get changed, and he smiled because he had so many people in his life now.
+
+If you had asked him a year ago what his life would have been like a year from then, he never would have guessed it would be like this. He never even imagined it could be like this, and he beamed a smile at everyone.
+
+“I don't think I have to ask why you're so happy.” Stella said as she handed him Gloria's gift and then pushed him towards the patio doors.
+
+“It's my life.” Ren said and looked up at her. “I have so many wonderful people in it.”
+
+Stella opened the patio door and pushed him inside, shut it behind them, then pushed him over to the kitchen table. “In the words of Barbi, that's so sweet.”
+
+Ren chuckled. “She's said that a few times so far.”
+
+“Well, she hasn't been exposed to you enough to know that you're almost always sweet.”
+
+“Almost always?” Ren asked, and Stella chuckled. She was still behind the wheelchair and leaned over as she put her hands on the sides of his head and tilted it back.
+
+“You have your off days just like the rest of us.” Stella said and gave him an upside down kiss. “But, we love you anyway.”
+
+Ren reached up and touched her cheek. “Thank you.”
+
+Stella chuckled again. “It was just a kiss.”
+
+“Was it?” Ren asked as he stroked her cheek. “I know what a play kiss and a platonic kiss feels like.” He said. “That wasn't it.”
+
+Stella smiled. “Do I need to add the 'between people who care about each other' qualifier?”
+
+“You're saying it was just a kiss, but at another level?” Ren asked, and she nodded. “May I have another to make sure I know what this new level is?”
+
+Stella laughed and leaned back down and gave him another kiss, this one a little longer and a bit messy.
+
+“Hey, I'm cooking here.” Denise said and chuckled, and that made both Stella and Ren break the kiss and laugh, too.
+
+“Sorry.” Ren said.
+
+“See? He's a terrible liar.” Denise said, and the three of them laughed again. Lisa came into the kitchen and walked over to the table.
+
+“Are we eating here?” Lisa asked.
+
+“No, there's too many of us.” Stella said. “Ren, sit here and don't bug Denise while Lisa and I clean off the table in the big dining room.”
+
+Ren nodded and Stella and Lisa went to the big dining room. Barbara and Donald came in, and Ren told them what Stella and Lisa were doing. Barbara went to help and Donald sat down across from Ren to wait.
+
+“Good job.” Donald said a few minutes later. Ren looked at him, and knew what he was referring to.
+
+“It was good advice.” Ren said. “It made me think about how I acted, and about how I should act.”
+
+Donald nodded. “That was the point I was trying to make.” He said. “I knew you were smart enough to understand what I meant.”
+
+Ren smiled, because he knew that was a huge compliment coming from the retired marine, and they sat in companionable silence and waited for supper to be ready.

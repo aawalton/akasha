@@ -1,0 +1,463 @@
+---
+id: de7c89ce-35c0-5182-8d77-c6060d2823d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 150 - It Comes"
+slug: 0135-chapter-150-it-comes
+partOf: mythrans-master-of-all-continued-completed
+position: 135
+ownLength: 5284
+unit: words
+publishedAt: 2017-01-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114750/chapter-150-it-comes"
+royalRoadId: "114750"
+---
+
+Ereka tried to speak. “What... what...”
+
+“I set them so they will constantly emit the House Neram Aura.” Ren said and held up one of the little squares. “Anyone wearing a House Neram brooch, and are concentrating on their own Aura, will meld with it automatically.”
+
+She stared at him. “I've never heard of anything like that before!”
+
+“That's because I just came up with it.” Ren chuckled. “I have to say, though...” He looked around. “...it feels really nice in here now.”
+
+“But...”
+
+“It's only out to 500 feet.” Ren said. “So you have to be kind of close to feel it.”
+
+“But...”
+
+“Actually, you know what?” Ren asked. “I think I'm going to spread them all over House Neram's land.”
+
+Ereka's mouth opened in surprise. “How... how many of them do you have?”
+
+“Only another 50 right now.” Ren said. “I can make a hundred of them every couple of minutes. They only take a bit of Mana to enchant.”
+
+She didn't say anything else, as she was in too much shock to speak.
+
+“I better make that space for the messengers.” Ren said, walked over to behind where the lobby was supposed to be, then stored his armor and put on his Travelling Clothes. He built the walls around a 12 foot by 20 foot area; then made 2 comfy couches dyed red (then stored one), 2 coffee tables (then stored one), and moved the 2 comfy chairs he'd made the day before into the room and made another (and stored it). He added a door to the side facing Ereka's office, and got a popup.
+
+House Neram task complete!
+
+You have made a nice space for the retainers of House Neram to relax in. As a member of House Neram, you have earned an appropriate reward.
+
+Rewards: 100 XP
+
+Influence: +20
+
+Honor: +10, Lady Neram +10
+
+“That's pretty neat.” Ren said, went to the lobby and made a desk and chair for a receptionist, then dyed them brown. He placed a hand on the front of the desk and imagined the House Neram crest covering most of the surface, and it etched itself into the wood. He didn't activate it, as he only wanted the design in the wood. With that finished, he went to Ereka's office. Ren opened the door without knocking, saw Ereka hanging from one of the book shelves, and walked over to stand behind her. “Need some help?”
+
+“YIP!” Ereka exclaimed in surprise, her hand slipped, and she fell. Ren caught her easily in a princess carry, with an arm behind her back and one under her knees, and smiled at her.
+
+“I'd ask you what you thought you were doing, but I've pretty much figured out you were trying to put a heavy book up on a shelf that you couldn't reach.”
+
+Ereka blushed a little and nodded slightly.
+
+“I'm sorry I didn't make you a little ladder.” Ren said. “Are you all right?”
+
+“Y-yes, I'm fine.” She said. “You just scared me.”
+
+Ren could feel her embarrassment, and then her embarrassment changed to attraction. A very strong attraction, especially since he was holding her so close. He let amusement of the situation and appreciation for her, flow back to her; and Ereka's eyes widened.
+
+“I... I can feel that!” She said, then the realization of what that meant hit her. Ren felt her horror as she put a hand over her mouth. “By the gods! You can feel what I feel, too!”
+
+“Not all of it.” Ren smiled. “Only strong feelings come through. It's one of the side effects of sharing an Aura.”
+
+“T-t-turn it off.” Ereka's face flushed a deep red as her embarrassment overwhelmed everything else she was feeling. She covered her face with both of her hands.
+
+“I don't have to.” Ren said. “You can do that by not thinking about your brooch.”
+
+“I... I... I can't!” She admitted. “It's so wonderful and pretty!” Ereka opened her hands and looked at Ren. “You made it for me.” She sighed, and dropped her hands. “I've never been given anything like it before.”
+
+“I told you I wasn't giving you a gift...”
+
+Ereka chuckled. “Please, your highness.” She said. “I might not have had my training yet, but any woman would practically fall all over you if you gave them a diamond that big!”
+
+Ren's eyes widened, and she felt his surprise.
+
+“You really don't understand how attractive you are?” Ereka asked. “You're handsome, rich, strong, and can defeat House Champions twice your size with only your bare hands!”
+
+Ren's surprise eased into acceptance, and she smiled.
+
+“Don't even get me started on the beasts you've fought.”
+
+“The wolf and boar aren't the only things I've fought.” Ren grinned. “They weren't even the biggest.”
+
+Ereka's mouth dropped open.
+
+“I'm not really one to tell tales about myself.” He explained. “I have a few times, but only because the situation demanded it.”
+
+She put a hand on his chest. “So you're humble, too?”
+
+Ren chuckled as he felt her feelings go back to mainly attraction. “It's more like I want to keep living, and not relive the past.”
+
+“Forward and onward?” Ereka suggested.
+
+“It's the only way to go.” Ren said. “If you could go back and change things, wouldn't where you are now not have happened?”
+
+She opened her mouth, then closed it.
+
+“Right.” Ren said. “If now didn't happen, you wouldn't know you should go back and change things, which would stop you from going back and changing things, making you end up here anyways.”
+
+She stared at him for a few minutes, and when he felt her admiration take over from the attraction, she spoke.
+
+“You can put me down now.” Ereka said, and smiled.
+
+“Sorry.” Ren smiled back and stood her on her feet. “I kind of forgot I was holding you while we were talking.”
+
+“I noticed.” She chuckled. “Can you make me that ladder?”
+
+“Of course.” Ren said and made her a 4 foot tall ladder, with a straight up half that would go against the cabinet of shelves, and an angled part that she could walk up. It had only taken about five minutes as it was a very simple design. He slid it over to the shelves of books and motioned to it.
+
+“You may now ascend to the heights you require.”
+
+Ereka laughed. “Thank you, your highness.” She said and picked up another book. She took the steps one at a time up the half-ladder and her behind wiggled back and forth quite attractively. Ren was standing right there, so he got an up close view of Ereka in her tight skirt; and since he always appreciated beauty wherever he saw it, Ereka felt it strongly through their shared Aura. Ereka's face flushed slightly red, but only because she felt pleasure from being appreciated in that way. She wasn't sure why she liked that she could make a man like Ren think about her by just walking up a ladder like that; but at the moment, she didn't really care. What mattered was that she could feel that Ren really appreciated it.
+
+Of course, Ren felt that she was pleased at his reaction. “I better get back to the workshop.” He said and smiled. “I've got more things to make.”
+
+“What about the enchantments?” Ereka asked. “Are you leaving them on?”
+
+“Yes. Now that they're in place here, I won't have to think about them anymore.”
+
+“When will they turn off?”
+
+“They won't.” Ren said, and took out the comfy couch and placed it against the wall. “Is this a good spot for the couch?”
+
+“The enchantments won't turn off?” Ereka asked. “Wait, what did you say?” She turned around on the top of the ladder and looked at the couch. “When did you make that?!?”
+
+“When I made one for the messenger's waiting room.” Ren said. “So, is here okay?”
+
+She looked at him and didn't say anything.
+
+“I'll leave it here for now.” Ren said and took out the comfy chair he'd made and put it in near the couch, and put the coffee table between them. “If you want them moved later, let me know... or get the messengers to move them.” Ren said as the messengers came in.
+
+“Yes! The messengers.” Ereka said, and came down the ladder a little too fast. She stumbled on the last step and Ren quickly slid over to her and caught her before she could land on the floor. She looked up at him in surprise as he leaned over her, and held her as if he were dipping her after a dance.
+
+“You need to be a little more careful, Ereka.” Ren said, and lifted her back to her feet. She felt his deep concern, and she nodded slightly.
+
+“Thank you.” Ereka said.
+
+“You're welcome.” Ren said. “See you later.”
+
+“I hope so.” She said before thinking, then blushed as Ren smiled. Even if she hadn't said anything, he'd felt her hope. He bowed slightly to her, made her blush a little more, and he left the office.
+
+“This is your waiting area.” Ren said to the two messengers, and pointed to the room he'd built. “The door is on this side.”
+
+“We really don't need...”
+
+“You've said.” Ren responded. “It's there for you to use.” He walked to the door of the Main House and went outside. He walked around the Barracks and placed another 25 House Neram enchanted steel squares in and around it, then activated them. They joined the Main House Aura and it spread out to 750 feet.
+
+“Nice.” Ren said and ran out to the road and back towards House Neram Keep.
+
+*
+
+He... he's gone. Ereka thought in relief as Ren left the Main House Aura's area of effect. She sat down at her desk and laid her head down on her arms. By the gods, I'm so embarrassed! She took several deep breaths; and after a few moments, she composed herself and sat up straight. Get yourself together, girl! You've got work to do! Ereka stood up and went out of her office and saw the room Ren had built. She shook her head and walked over to it and opened the door. The two messengers were lounging on the couch.
+
+“I've got a couple of errands for you.” Ereka said and took out the two rolls of parchment she'd made up the night before. She handed one to the first messenger. “Take this to the Main Keep and give it to the receptionist. She'll know what to do with it.” Ereka said and gave him a gold coin. “You don't have to wait for a response.”
+
+“Ma'am.” He said and walked past her and ran out of the house. She handed the second scroll to the other messenger.
+
+“Take that to the crafting section of the Garrison and give it to the attendant.” Ereka said and gave him 2 gold coins. “It's 11F10R. You'll need to wait for the answer, though.”
+
+“Ma'am.” He left just as quickly as the first messenger did and she closed the door to their area and went to her office.
+
+“They're both going to be gone for a while.” Ereka said and sat down on the couch. She was tempted to put more books on the shelves; but she looked at the ladder Ren had built, and it made her remember feeling his appreciation as she walked up it. Her face flushed a little red and she put her head down onto the back of the couch. I can only imagine what it must feel like to sleep with him, while sharing feelings like that! Ereka thought, as her face turned completely red; then she fainted.
+
+*
+
+Ren went into the house and told Nathalia and her mother what had been happening with Princess. They were both shocked and surprised that it had happened, but they came to accept it pretty fast as something Ren should have expected.
+
+“Why do you say that?” He asked.
+
+Nathalia chuckled. “We're supposed to expect the unexpected.”
+
+Ren frowned. “But then it's not unexpected.” He said. “It's just expected.”
+
+Narhilda laughed. “Exactly!”
+
+Ren opened his mouth to say something, and then smiled instead. He told them about the House Neram steel squares he'd made, and showed it to them.
+
+“You have to put these around the house!” Narhilda said.
+
+“I did.” Ren said. “The Aura around the Main House and the Barracks is out to 750 feet.”
+
+“I meant this house.”
+
+“Oh.” Ren said. “I intended to cover all of House Neram's land with them; but I can do this place first.” He stood up and spread the last 25 squares he had around the house, and activated them. “Okay, it's done.”
+
+“It feels just like it did at the Council chamber.” Narhilda said a minute later, as she concentrated on her House Neram pendant. Ren came into the kitchen and sat down. He could feel their amusement and wonder.
+
+“It's a lot bigger than it was at the Council chamber.” Ren said. “It's out to 250 feet.”
+
+“It really is amazing.” Nathalia said, and they all sat there in silence for about 10 minutes while she recharged Ren with her Minor healing. “I'm starting to get a headache from it, though.”
+
+“Me, too.” Narhilda said.
+
+Ren felt their Aura's disconnect and smiled. “The more you do it, the longer it will work before it starts bothering you.”
+
+“Are you sure?” Nathalia asked. “I don't want to have a constant headache from it.”
+
+“You'll only merge your Aura if you're concentrating on it.” Ren said and stood up. “I'll be in the workshop making things.” He kissed Nathalia on the lips and stroked the side of her face. “I'll be back for supper, after I drop the workers off.”
+
+“Take them some pastries.” Nathalia suggested. “I'm sure they would appreciate them.”
+
+“That's a great idea.” Ren said and went to the ice box and took out a big plate of them. “Nathalia, can you do the cream topping for me?”
+
+“Of course.” Nathalia said and used a spoon to do the little twisting motion.
+
+“I still can't get that motion right.” Ren smiled. “When I do it, it just looks like a blob of cream.”
+
+Nathalia chuckled. “It just takes patience and a gentle hand.”
+
+“I have both of those.” Ren said, and raised an eyebrow at her. She blushed a little at what he meant, and then he smiled. “What you have that I don't, is a talent for it.”
+
+“If you could take the time to learn properly, instead of trying to burn through everything so fast...”
+
+Ren chuckled. “Yes, time. I have everything but time.”
+
+“You're going to have to make some.” Narhilda said. “You need a break!”
+
+“I was just...”
+
+“I mean more than half a day with my daughter.” She said. “You need help!”
+
+Ren looked at her, and he smiled. “Yes, you're right.” He said. “I need to make some help for myself, to give me more time.”
+
+“That's not what I...” Narhilda stopped talking as Ren bent to give her a kiss on the cheek.
+
+“Thank you for reminding me.” He said and stored the plate of pastries. “See you both tonight.” He left the house and ran up to the workshop. “Can you stop shoveling and come inside for a few minutes, please?” He said to the women shoveling, and they stopped and Ren opened the door of the workshop for them. They went inside and Ren followed them, then shut the door. It was a little crowded in there, with all of the bags of cement powder that were there.
+
+“We were just going to send for you.” Dorathy said and pointed to Ruck. “We're almost out of room.”
+
+Ren looked at the state of their clothes and equipment, then repaired everything that he saw. While he did that, the last of the powder came through the chute and only partially filled the two bags just placed there.
+
+“It's time for a break.” Ren said and took out the plate of pastries.
+
+“What is THAT?” One woman asked loudly.
+
+“It's a plate of pastries.” Ren said and handed the plate to Dorathy. “They're supposed to be for dessert, but my fiance made a bunch of them. She told me to bring some up to you.”
+
+“She's a great woman.” Dorathy said, then crammed one into her mouth. “Mey melm im mor moumh!”
+
+“I'll try one, but I won't like it.” The loud woman said and delicately took one from the plate. She took a small lick of the whipped cream on top, and her eyes widened. She took another lick and fought her urge to smile. She took a bite of the pastry itself and her knees shook slightly.
+
+“Are you all right?” Ren asked. “You look a little unsteady.”
+
+“I'm... I'm fine.” She said. “I may need to... sit down.” She sat down on a sack of cement powder and stared at the half-eaten pastry. “How... how can it taste so... so good?”
+
+The other women had stood there and watched her reaction, then took their own pastries and tasted them. Several had almost the same reaction, and sat down on cement sacks.
+
+“Oh... my...”
+
+“Once you've had time to eat...” Ren looked at them. “...and recovered, there's more silt to shovel and bag.”
+
+“Yes, your highness.” Dorathy said. “We'll get to it right... after...” She took another one and handed the plate around. There was enough for one more pastry each, and Ren stored the empty plate. He went around and stored all the sacks he could take without disturbing the women, then went into his forge room.
+
+Now that Ren had the time to examine what he'd unlocked from the big battle, he looked for a specific recipe. There it is. He thought and opened the one for Craft Familiar - Dedicated Servant Crafter. When he read the ingredients, he frowned. Clay? It's made from clay? Ren shook his head. No, clay would definitely melt if it was near any of these forges. He read the process, and it was very similar to Ruck's, except for molding the body from clay first, rather than sewing it together. He remembered how much more expensive it was to modify Ruck like he did, so if he did the same thing with this familiar, it was bound to cost a lot more. The only humanoid recipe Ren had to replace it, was the wooden training dummy he'd learned when he had trained at the Garrison. He'd checked the Homunculus Humanoid recipe, and that wanted clay, too. Of course, he didn't want a blank wooden face, either. He poured out more molten metal into his paving stone mold for the 100 squares, while he thought about the problem.
+
+Ren smiled as he figured out what to do. He quickly enchanted the 100 squares with the House Neram crest, stored them, and left the forge room. He saw that the women were already back to work and nodded slightly as he passed them. Ren ran down to the main road and then towards the city. It took him 5 minutes to get there, and he slowed down to go to Barnar's Stoneworks. He entered and was greeted by several workers. He greeted them back and found Barnar at his usual spot beside the workbench.
+
+“I need a bit of help.” Ren said.
+
+“We both do.” Barnar responded, and motioned to the table.
+
+“What is it?”
+
+“Some rich fool wants a tower built. Out of stone bricks.”
+
+“So what's the problem?” Ren asked.
+
+Barnar looked at him like he was crazy. “A tower that size...” He said and pointed to the plans. “...would collapse under it's own weight.” He sighed. “The amount of mortar needed only adds to the weight.”
+
+“What about cross supports?” Ren examined the plans and stored them. “Oh, I see what you mean.”
+
+“You do?” Barnar asked, surprised.
+
+“There's too much room between floors. The walls won't hold together when you add the upper floors.” Ren said. “The stairway will stay intact, but the outside wall doesn't have any support.” He tilted his head. “Who designed it?”
+
+“The eldest son from House Breakwater.” Barnar chuckled. “He fancies himself a designer of strong buildings.”
+
+Ren chuckled, too. “I assume you're not allowed to change it?”
+
+Barnar tapped the tip of his nose.
+
+“How much is he paying you, if you don't mind my asking?”
+
+“10 platinum.” Barnar said. “Plus labor.”
+
+Ren whistled. “That's a lot for a basic tower.” He said. “If you could use the battlement design...”
+
+Barnar nodded. “Yes, an outside supporting wall would do wonders.”
+
+“How long do you have to make it?”
+
+“A month.”
+
+“Do you get a bonus for finishing it early?” Ren asked, and Barnar nodded slightly. “Good.” Ren said. “Come up to the Main House at House Neram when you deliver the rest of my bricks.” He said. “I have something to show you.”
+
+“It's going to be mind-blowing, isn't it?” Barnar asked.
+
+“It's going to change the world.”
+
+“Why are you telling me about it, then?” Barnar asked. “Why not do the job for me and take all the credit for yourself?”
+
+“I don't have the time to build anything else.” Ren said. “I'm swamped. That's why I'm here.”
+
+“I can't spare anyone to go and work for you.” Barnar said. “I'm swamped, too.”
+
+Ren chuckled. “I only need to borrow them for about 20 minutes. I need a carving of a face made.”
+
+“Ms. Alreane!” Barnar hollered over his shoulder. “Your skills are needed!”
+
+“Thank the gods!” Annera Alreane said as she came over to them. “Pouring molds all day is getting boring.”
+
+She led Ren over to her workbench and Ren told her he needed a carving of a human face, then a mold made of it. He described the face he wanted, and she carved for about 10 minutes.
+
+“How does that look?” She asked, and Ren picked it up and examined it.
+
+“It's perfect.” Ren said. They went to the mold making side of the work area, and she made him a mold for it. He dug out a coin to give her.
+
+“I don't want your money.” She said, with a smile on her face. “That was the most enjoyment I've had all day!”
+
+“I'm not paying you for anything.” Ren said. “I just found a nice shiny toy for you to play with.” He spun the coin on mold making table. “Thanks for your help.” He said and left her there.
+
+*
+
+She looked down when he was gone, and her eyes widened as the coin had stopped spinning. A dragon's face stared at her from the surface of the platinum coin and she caught her breath. She picked up the coin and ran out to the front of the Stoneworks, but Ren was already gone.
+
+*
+
+Ren ran as hard as he could and made it back to the workshop. He went inside and nodded slightly at the working women, gave Ruck a pat on the back, then walked passed to go to the forge room. He heard a noise from Dorcot's area and he popped his head in there.
+
+“Are you bored yet?” Ren asked, and Dorcot chuckled.
+
+“Bored?” He asked back. “I've never had so much fun in my life.”
+
+“I take it the date with the wife went well?”
+
+Dorcot grinned. “Thanks to your... what was it? Life jackets.”
+
+“Don't tell me that she...”
+
+“It was me.” Dorcot grinned. “I started to row the boat out and hooked the side of the dock with the paddle. I banged the end of the boat against the dock; then when I tried to pull the paddle free... splash! In I went.”
+
+Ren chuckled. “It didn't put a damper on the mood, then.”
+
+Dorcot snorted a laugh. “Once she stopped laughing, which took about 10 minutes, she let me back in the boat and we had a great time.”
+
+“I'm glad.” Ren said. “I'll be building a stable today, so hopefully you'll have access to your own cart and horse tomorrow.”
+
+“My own cart and horse?”
+
+Ren nodded slightly. “It'll stay at the stable, obviously, but it'll be assigned to you so it'll always be there.”
+
+“Why are you doing that for me?”
+
+“It's not just for you.” Ren grinned. “Everyone will have access to a cart... eventually.”
+
+“But I'm first?”
+
+“You and Angeilin, yeah.” Ren said. “It bothers me that you both have to get up so early every morning, and she has to walk all that way to work.”
+
+“So, you really have been thinking about it.” Dorcot said. “I thought you might have forgotten.”
+
+Ren went over to him. “A lot of things have happened, but I'm getting on top of things, now.” He took out one of the brooches he'd made. “One of these is yours, if you want it.”
+
+Dorcot took it and examined it, and his eyes widened. “Does this do what I think it does?”
+
+Ren nodded slightly, and told him how to activate it, and what would happen if he wore it.
+
+“Ren.” Dorcot said. “That's amazing.”
+
+“I'd say I was sorry I didn't think of this sooner, but I'm pretty sure I wasn't able to do this any sooner than I did.”
+
+“I hear that.” He said and motioned to the workbench. “Who would have thought that after all these years, I'd be doing everything that I enjoy.”
+
+Ren snorted a laugh. “I'm not even going to comment about lumping your wife in that statement.”
+
+Dorcot laughed. “Yes, her too.” He said. “We've been a couple ever since we were kids.”
+
+“No way.”
+
+Dorcot nodded slightly. “We weren't allowed to date until she was of age, and I couldn't court her until we'd both done our training and trials...”
+
+Ren's eyes widened at what that implied.
+
+“Yes, we've loved each other for all of our lives; and have been sleeping together since we were teenagers.”
+
+“I thought that...”
+
+“We snuck around, of course.” Dorcot said and chuckled. “We couldn't wait.”
+
+Ren smiled. “I'm really glad that you're getting along so well.”
+
+“Me, too.”
+
+“I've got work to do.” Ren said. “Keep having fun.”
+
+“You should be having fun, too.”
+
+“I am having fun.” Ren grinned. “See you later.”
+
+“Bye, Ren.”
+
+Ren went to the forge room and opened his plans for the Dedicated Servant Crafter, and added in the articulated wooden training dummy instead, changed the wood to metal, reinforced the attachments, then added armor to everything. It would be even more effective protection because it wouldn't be equipped at all, but an actual part of the familiar. It would cut down on the amount of enchantments Ren could do, but that was okay.
+
+Once it was finished, Ren made a large mold on the floor and filled it with molten metal. He let it cool slightly, then picked it up and went to the anvil. He folded it a dozen times, then let the system form it into the head shape. He took out the face mold he'd had made at Barnar's Stoneworks, filled it, then flipped it over onto the head piece. Ren waited for a minute for the metal to cool enough, and took the face mold off. He used his Absorb Fire ability, that let him absorb fire in any of it's forms, and sucked out all the heat still in the metal. He grinned at the face that stared back at him, and Ren proceeded to make the rest of the dedicated servant. He enchanted each piece with strength and protection, just like he did with Princess' armor, and used the absorbed heat from the metal to maintain his Mana Pool.
+
+When all the pieces were done, Ren assembled them into the proper shape. He was tempted to dye them red to match the armor of the guards, but he thought it looked better as bare metal. Ren stood over the still form and concentrated on it.
+
+“Activate.”
+
+Notice!
+
+You have chosen to activate a familiar: Dedicated Servant Crafter (Heavily Modified)
+
+Please deposit the correct amount of value.
+
+A small portal appeared near the center of the chest, and Ren threw in 10 platinum, and a diamond worth 30 platinum. The portal closed and he got another popup.
+
+Notice!
+
+Due to the size of the familiar and the value, 2 pints of blood are required to complete the Activation.
+
+Please deposit the correct amount now.
+
+Another portal opened above the forehead, and Ren took out his hammerpick and sliced his palm open. He squeezed his hand over the portal, and it took about 10 minutes for enough to be gathered, and the portal closed. Ren wrapped his hand in a piece of cloth and got another popup.
+
+Notice!
+
+All ingredients have been collected and you have constructed a suitable body. Your familiar will now be infused with your will. Please place a hand on the familiar when ready. Do not remove your hand under any circumstances.
+
+Ren grabbed the construct by one of it's hands, and held on. He felt his Mana Pool drain away, and his eyes widened. It's not enough! He stood up and plunged his hand into the molten metal just as his Mana bar had almost emptied, and he started absorbing the heat to keep his Mana bar going. The familiar started to glow and Ren relaxed. It took another pile of Mana, and when he noticed that his Mana bar wasn't dropping anymore, he stopped absorbing heat. He tried to take his hand out of the smelter, but the metal was molded around his hand.
+
+“Crap.” Ren said, then looked down at the familiar as it started to shake. “Come on, you can do it! Wake up!” He said, and used Iron Grip to keep a hold of the hand. The glow got really bright and Ren closed his eyes. It's just like last time with Ruck. He thought, and after a minute, the figure stopped shaking and Ren opened his eyes as the glow faded. Ren felt the fingers he held flex, let Iron Grip go, but still held the hand.
+
+Notice!
+
+You have successfully created a familiar!
+
+Due to your high quality materials, crafting skills, excessive value added, and continuous Mana infusion, your new familiar will be loyal to you without end and will serve you even after it no longer functions.
+
+Ren didn't know how to take that last popup, but he dismissed it as he noticed the face blink it's eyes. It took a breath, which was kind of weird since it was all metal, but Ren ignored it as the head turned to him.
+
+“Hello, Ren.”
+
+“HOLY CRAP!” Ren shouted.
+
+“Is that my name?” The familiar asked. It squeezed it's eyes for a moment. “No, you were just surprised. It's understandable.” It looked down at the hand Ren held, and shook it. “Thank you for making me.”
+
+“You're welcome.” Ren said. “I was going to give you a funny name, because of who you look like, but I think a more fitting name is needed.”
+
+“I agree.”
+
+“How do you like 'Tee-one'?”
+
+“Does that mean I am an improved version of the original 'Tee'?”
+
+“Definitely.” Ren said. “I'd used his likeness because having a servant that looked like him was supposed be fun; but you're going to be much better than that. I can tell.”
+
+“I'm glad.” Tee-one said. “I'll serve you well, Ren.”
+
+Ren helped him to stand and smiled. Tee-one smiled back at him, and Ren grinned. He'd never seen Tristan smile like that before.

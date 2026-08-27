@@ -1,0 +1,343 @@
+---
+id: 2fef908d-fb7f-55a6-aa5f-7b1a1b48aaac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 381 - It's Time To Party"
+slug: 0375-chapter-381-its-time-to-party
+partOf: mythrans-master-of-all-continued-completed
+position: 375
+ownLength: 3418
+unit: words
+publishedAt: 2017-10-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167081/chapter-381-its-time-to-party"
+royalRoadId: "167081"
+---
+
+“I'm sorry.” Ren said and sighed. “I know it's a lot, but I can't accept payments any lower than that.”
+
+Clint recovered from the shock the fastest. He walked over to the pile of gold coins on the ground and started to gather them up. The other guys saw this and they helped as well.
+
+Teepo, tell me if they miss any. Ren thought to his friend.
+
+“Sure thing.” Teepo said and watched. After a couple of minutes, he spoke. “They got it all.”
+
+Clint put the last coin in Hank's hands and put a hand on the man's shoulder. He pat it once and stepped back. Hank put the money into his coin pouch, took out 52 gold, and held it out.
+
+“A whole year's payments?” Ren asked and accepted the gold. “Are you sure you want to pay that far ahead?”
+
+“I'm pretty sure.” Hank said.
+
+“Okay.” Ren said and slipped the coins into his coin vault. “Thank you for your purchase.”
+
+“So, that's it? I can wear it?”
+
+“It's yours, so yeah.” Ren said. “Go ahead and equip it.”
+
+Hank reached down and touched the set of armor and stored it; then a second later equipped it. He didn't say anything as it glowed slightly for a moment, and bestowed upon him all of it's bonuses.
+
+“I thought adding a Helm of the Eagle was a nice touch.” Ren said. “It worked for Elerlyth, so I modified the helm for your armor, too.” He said. “I did the boots, too.”
+
+“You look nasty.” Billy said to Hank, who smiled.
+
+“All the better to mess you up.” Hank said and took out his sword. Ren examined it automatically and received the plans, then shook his head at the info popup.
+
+Old Dull Sword of Cleaving
+
+This sword has a special enchantment that allows it to cleave through even the toughest opponents. When an attack is made with this weapon, a second backhand strike can be performed for free, with no cost to Stamina.
+
+This sword grants: Free Strike (Temporary Skill), +20 Damage
+
+Damage: 70 (50 Normal Damage, plus bonus)
+
+Durability: 278 / 400
+
+Warning: This weapon has the Dull condition and cannot be sharpened.
+
+“Where did you get that?” Ren asked and used Enchanted Eyes, Decipher, and Read Rune. He didn't discover a new rune, though.
+
+“I found it in an old keep.” Hank said. “When I broke my normal sword, it was cheaper to have this one repaired than it was to buy a new one.” He said. “Plus, the Damage bonus is awesome!”
+
+“It's Dull.” Ren said. “You must swing it pretty hard to get it to work.”
+
+“As hard as I can.” Hank said and grinned. “My old Strength bonus added another 20 points of Damage.”
+
+“How much is it now, man?” Tommy asked.
+
+“Plus 50.”
+
+“Goddamn.” Clint said and whistled.
+
+“May I?” Ren asked and held a hand out to Hank for the old sword. Hank went to pass it over, and when Ren touched it, he absorbed the enchantment.
+
+“Hey, what the hell?” Hank looked at the basic sword in his hand. It did 50 Damage now, and that was it.
+
+“I'm sorry, but that enchantment was too limiting for someone like you.” Ren said and took out a black sword. He used his Enchantment Alteration ability, exchanged the Dull condition with the Sharp condition by adding Augment runes for Sharpness, then added Augment runes to increase the Damage and the Durability. He put the enchantment on the sword while concentrating on Hank, gave it a quick Polishing to increase the Durability even more, then examined the results.
+
+Hank's Very Sharp Sword of Cleaving (Rare - Binds on Equip)
+
+This sword has a special enchantment that allows it to cleave through even the toughest opponents. When an attack is made with this weapon, a second backhand strike can be performed for free, with no cost to Stamina.
+
+This sword grants: Free Strike (Temporary Skill), +50 Damage
+
+Damage: 170 (100 Normal Damage, plus bonuses)
+
+Durability: 1000 / 1000
+
+Warning: This weapon has the Sharp condition and cannot be sharpened further. +20 Damage
+
+“There, that's better.” Ren said and held out the sword to Hank. “Here's the special gift for buying a high priced item from me.”
+
+Hank reached out with his free hand and took the sword, and his other hand let the old basic sword go. It clattered to the ground and he held the new sword reverently.
+
+“Wow.” Dillon said, his eyes wide. “He did that in less than a minute.”
+
+“I don't know what to say.” Hank said and kept staring at the sword.
+
+Ren bent down and sold the old sword for 20 gold. “Say you're going to kill as many monsters as you can with it.” He said and gave the money to Hank.
+
+“I guarantee it.” Hank said and clapped Ren on the shoulder.
+
+“Do you want a side scabbard or a back scabbard to hold it?” Ren asked.
+
+“I'm keeping it in inventory until I need it.” Hank said and stored the sword. “There's no way I'm walking around with something like that on my hip!”
+
+Billy chuckled. “People would be trying to steal it everywhere you go!”
+
+Hank laughed. “They could try.”
+
+“Tha town is jus' ovah thare.” Clint said. “Le's git tha ques' goin'.”
+
+Everyone nodded. Ren took Princess' reins and Elerlyth took her Phantom Steed's reins, and they followed behind the guys as they walked at a fast pace towards their destination.
+
+“That was really nice of you.” Elerlyth whispered. “But I don't know why you didn't just give him everything.”
+
+“They would think it's charity.” Ren whispered back. “If I had to guess, he would probably throw it back at me if I did try to give it to him.”
+
+“But... you did give it to him.” Elerlyth whispered. “He paid a year in advance. There's no way he will remember to pay you again a year from now.”
+
+Ren chuckled. “I know.”
+
+“Then why the charade?”
+
+“It made him feel better about it.” Ren said. “The same with Tommy and Billy.” He smiled. “You felt the swirl of emotions, and how happy Hank was at the end.”
+
+Elerlyth nodded.
+
+“If I'd just given it to him, he might be depressed that he needed my charity.” Ren said. “Or thought I looked down on him because he didn't have the best of the best and I had to give it to him.”
+
+“Oh.” Elerlyth said. “That's...” She looked at Ren and smiled. “...really sneaky manipulation.”
+
+“I'm not just a pretty face, you know.” Ren said, and she laughed.
+
+They arrived at the town a couple of minutes later, and they saw how downtrodden the people were.
+
+“Oh, god.” Elerlyth whispered when they entered the small gate. “Mmm.” She moaned slightly and the Phantom Steed neighed.
+
+Ren felt the dread that permeated the air through Elerlyth. He was glad that someone was getting something good from the feeling; but, he felt bad that the people in the town had to go through it for that to happen. Clint led his party over to the town hall and the guard there opened the door without stopping or inspecting them. Ren and Elerlyth left their mounts standing beside the post outside and followed Clint inside.
+
+“Welcome, welcome!” The town elder said. “You're much earlier than we expected!”
+
+“Tha's 'cause of tha newes' member of mah party.” Clint said and motioned to Ren, who's Etiquette skill activated. Ren looked around and counted the people sitting behind the long curved table in the town hall.
+
+There's 15 people on their town council. Ren thought. Why do they need so many?
+
+“I'm so glad!” The town elder said. “We had another person go missing last night.”
+
+“Where?”
+
+“Out by Passer Ridge.” One of the council members said, and Clint thought about the layout he saw when he had scouted the last time he was here.
+
+“Isn' tha by tha old graveyard?” Clint asked the man, and he nodded.
+
+“It's right next to the mausoleum.” The man said. “Even with the curfew in effect, people still sneak out and break the rules.”
+
+“Please, find him.” A woman said. “He might have been a jerk, but he was my brother.”
+
+“Ah'm sorry ta hear tha', ma'am.” Clint said and the women frowned.
+
+“He meant about the man being missing, not that he was a jerk or your brother.” Ren said to clarify Clint's statement, and the woman stopped frowning and nodded slightly.
+
+“Nice save, man.” Tommy whispered to Ren.
+
+“Now tha' mah party is here, ah can accep' tha ques'.” Clint said, and the town elder stood up.
+
+“Please, great Adventurers! Hunt down the scourge that has beset our town and save those that have been taken.”
+
+“If you can.” One of the other council members added.
+
+“We accep'.” Clint said, and Ren received a popup that told him the same thing the council member said, word for word.
+
+Either it's a new quest and they haven't had a chance to embellish anything, or the quest is so old no one has bothered to do it before. Ren thought.
+
+“We're out in the middle of nowhere.” Teepo said. “I'd say both.”
+
+“We'll head ou' ta Passer Ridge righ' away.” Clint said and started to turn and walk away. Ren quickly put a hand out behind Clint's shoulder and stopped the turn before it was noticed.
+
+“Bow or nod to them and say 'good day'.” Ren whispered.
+
+Clint didn't question it, and gave the council a very shallow bow. “Good day.”
+
+The council nodded to him and all spoke at the same time. “Good day to you.”
+
+Clint felt Ren's hand move away from behind his shoulder, then turned around and walked out of the town hall with the rest of the party right behind him. Ren and Elerlyth gathered their mounts and followed Clint as he walked down the street and around a corner, then came to a stop when he did.
+
+“Ahl righ', wha' tha hell was tha' all abou'?” Clint said as he turned around and stared at Ren.
+
+“Etiquette.” Ren said. “It lets me act appropriately when in certain situations.”
+
+“Ya could have jus' told me beforehand.” Clint said. “Ah was embarrassed when ya corrected ma words and then stopped me from leavin' when ah was done accep'in tha ques'.”
+
+“I didn't know what to do beforehand.” Ren said. “That's not how it works.”
+
+“So ah gotta keep ya close at han' from now on?”
+
+“No.” Ren chuckled. “We know not to unintentionally insult them with blanket statements, and to nod or bow and say 'good day'.” He said. “If anything new comes up, I'll do what I did in there. I'll let you know what to do and say as soon, and as quietly, as I possibly can.”
+
+Clint looked like he wanted to say something else; but, then he sighed. “I guess ah should thank ya fer-”
+
+“No.” Ren said. “I'm here to help this party succeed as much as it can, and I'm not doing it for thanks.”
+
+“You're not?” Dillon asked. “I thought you were the Hero of Aurora?”
+
+Ren chuckled. “That title doesn't help me much, even with my Fame maxed.” He said. “Not out this far from the main roads.”
+
+“Clint's Fame is maxed, too.” Tommy said. “We got a major XP bonus from those wolves last week.”
+
+“Oh, damn!” Ren said and took out his Portable Leatherworking kit. He opened it up and then opened the drying compartment. “Whew! It's okay!” He said and took out the Dire Wolf pelt he had bought from Clint. “I forgot to pick up a barrel of treatment chemicals to do the others, though.”
+
+Elerlyth gasped when she saw the pelt, and her hand darted out and caressed the fluffy fur. “It's like your cloak, but different.”
+
+“Clint said the Dire Wolf had an Ice affinity.” Ren said and closed the Leatherworking kit and stored it.
+
+“I didn't know there could be different kinds.” Elerlyth said and pulled the pelt to her face and rubbed it on her cheek. “I can almost feel the little creatures it scared to death.”
+
+Clint, Tommy, Hank, Dillon and Billy all exchanged glances over her odd comment, and Ren laughed as he slowly pulled it out of her hand.
+
+“Now, now.” Ren said and stored the pelt. “I said you had to wait until later.”
+
+Elerlyth sighed and nodded.
+
+Why ain' he weirded ou' by 'er? Clint asked himself. Tha more time ah spend around 'er, tha more she freaks me ou'.
+
+“Which way do we go to get to that Passers Pass?” Billy asked.
+
+“It's Passer Ridge, and it's that-a-way.” Clint said and pointed over Ren's shoulder. “It's about a 10 minute walk.”
+
+“No, it's not.” Ren said and smiled. “Give me your boots for a second.”
+
+Elerlyth snorted a laugh, but didn't say anything as Clint handed over his thick leather boots.
+
+“Ah really like them boots.” Clint said as Ren activated his Craft Wondrous Item ability. “Ah had 'em custom... whoa.”
+
+Ren handed him back the same boots, only they were Boots of Striding and Leaping that gave Clint a 50% boost to speed, even though they weren't metal. Ren had modified the enchantment and added 5 Speed runes, which was the maximum that the enchantment could hold on the material.
+
+“Tommy?” Ren asked.
+
+“It sucks that anyone that has a bow as a primary weapon is limited to wearing leather armor.” Tommy said and handed over his boots. “As archers, we're restricted from wearing heavier things.” He sighed. “I'd really like that stat boost Hank has.”
+
+Ren smiled and looked at the boots. They were similar to Clint's, and Ren gave them the same enchantment. Billy and Dillon's boots were next, and they also received the same enchantment. They put on the new boots, and the party quickly walked over to Passer Ridge.
+
+“I can't believe this is an investigation quest.” Hank said. “I wanna kill something with my new sword!”
+
+“Well, something is taking people.” Dillon said. “You might get a chance at something soon.”
+
+“Spread ou'.” Clint said. “It's only aftah noon, so ya should find somethin' if'n there's somethin' ta be found.”
+
+“Did you already talk to the townspeople?” Ren asked, and Clint shook his head.
+
+“Ah only scouted around, since ah didn' know what tha ques' was.”
+
+“Then while you guys look around the latest crime scene, I think Elerlyth and I should talk to the people.”
+
+“Ah don' know.” Clint said. “It's ah big town.”
+
+“Do you want to do it?” Ren asked, then looked at the other guys. “Do any of you?”
+
+“Not really, man.” Tommy said. “They all look too depressed to answer any questions.”
+
+“Then let us do the grunt work while you're busy.” Ren said.
+
+“Ahl righ'.” Clint said. “Git back here as soon as ya find out somethin' importan' and tell us.”
+
+“Of course.” Ren said and climbed up onto Princess' saddle. “Elerlyth? Let's head back.”
+
+Elerlyth climbed onto her Phantom Steed's saddle and they trotted off together towards town.
+
+*
+
+“She's totally hot, but scary as hell.” Billy said. “I'm afraid to even glance at her, and she's wearing something so hot that I can't help but look at her.”
+
+Clint chuckled. “Noticed tha', didja?”
+
+“We all did, man!” Tommy said. “She's practically naked with all those web cutouts.” He said and sighed. “All that dark skin on display for everyone to see, and I'm terrified that every time I try to look at her, she's going to catch me at it and kill me.”
+
+“I'm pretty sure she would kill you for staring at her.” Dillon said and smiled.
+
+“It might be worth dying, just to see her naked.” Hank said and laughed.
+
+“Tha's enough jabberin', ya buncha old hens.” Clint chuckled. “Git back ta work.”
+
+The guys kept looking for evidence, or clues, or anything at all, and they teased each other about how much of her armor they could get off before she killed them.
+
+*
+
+“Thank you, Ren.” Elerlyth said as they trotted to the other side of town to work their way across it.
+
+“For what?” Ren asked as they easily avoided the people in the street, because there wasn't that many out and about. He didn't know if the people were just out somewhere, or if they were hiding in their homes.
+
+“You're letting me feed on all this despair and misery in the town.” Elerlyth said. “You're also sharing your own feelings and making it all taste better.”
+
+“Are you suggesting that I'm spicing it up for you?” Ren asked and smiled.
+
+“You know you are.” Elerlyth said and laughed. “When did you become such a tease?”
+
+“Ah... well, that's a long story.” Ren said. “I got arrested for murder once, and when I was tossed in jail...”
+
+Elerlyth snorted a laugh, and Ren asked Princess to stop.
+
+“If I'm reading your feelings right, the biggest amount of depression is right here.”
+
+“It is.” Elerlyth said, a little surprised. “You can feel that through the shared Aura?”
+
+Ren nodded. “I'm a lot more sensitive to the variations from you for some reason.” He said and slid off of Princess. “I don't know if it's because I haven't shared with you in so long, or if I'm just not subconsciously blocking anything from you anymore.”
+
+“But...” Elerlyth slid off of her Phantom Steed. “We... ah... you helped me level up.”
+
+“I wasn't concentrating on feeling other people through you then.” Ren smiled. “I was much too busy feeling you feeling me feeling you at the time.”
+
+Elerlyth tied her steed to the post and turned to Ren. “It was... god, you were...”
+
+Ren stepped close. “I said you have to wait.” He let a burst of anger out to tease her, and Elerlyth caught her breath.
+
+“I... I... I'll wait.” Elerlyth breathed. “I still don't see how we're going to get any privacy.” She said. “We passed an inn just inside the city gate, but...”
+
+“I doubt it has enough rooms for the whole party.” Ren said and gave her a burst of reassurance. “I've got a plan.”
+
+“Good god, I hope so.” Elerlyth moaned. “I'm... I'm having a hard time...”
+
+“All right.” Ren said and took her hand. “Give me a kiss.”
+
+“You just said...”
+
+“I need your wonderful brain to listen and catch things that Teepo and I might miss when we talk to people.” Ren said. “I need you sober.”
+
+Elerlyth felt how much he liked her brain, and her heart sped up. Even though she was hornier than she'd ever been with all the feelings surrounding her, he was a calming influence for her. She leaned down slightly and pressed her lips to his, and he opened that part of himself he always saved for her. She let his hand go and wrapped her arms around him, and he poured out his feelings for her and hugged her back.
+
+It only took a minute for Elerlyth's head to clear up from the flood of other people's emotions as the tidal wave of Ren's feelings drowned them out. She ran her hands through his hair and messed it up, and she knew that Ren liked it when she did that. Even though they were sharing emotions in the Spider Aura, Ren had closed down the loop effect and had everything going one way and into her.
+
+Elerlyth broke the kiss and looked at him. “How are you doing that?”
+
+“I told you before.” Ren said. “I've had a lot more practice parcelling things out inside of me.” He smiled. “How did you like my 'funnel'?”
+
+“It gave me a tenth of a level.” Elerlyth said.
+
+“It's also cleared your head up.” Ren said. “Pace yourself, okay? Even though the emotions are there, you don't have to try and eat them all at once.”
+
+Elerlyth sighed. “I don't understand how you can be so much better at controlling my ability than I am.”
+
+“I'm an outside observer.” Ren said. “I can see how the emotions are affecting you without being affected myself.”
+
+Elerlyth nodded. “You always make so much sense.”
+
+“That's because I'm always right.” Ren said and smiled at her. “Now fix my hair and knock on the door.”
+
+Elerlyth chuckled and straightened his hair as best as she could with her fingers, then turned and knocked on the door of the house.

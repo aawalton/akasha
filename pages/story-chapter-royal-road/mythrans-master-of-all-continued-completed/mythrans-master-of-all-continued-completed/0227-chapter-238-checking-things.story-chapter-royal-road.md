@@ -1,0 +1,519 @@
+---
+id: 4d8c8f68-6418-5f45-ae24-179e96603ba4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 238 - Checking Things"
+slug: 0227-chapter-238-checking-things
+partOf: mythrans-master-of-all-continued-completed
+position: 227
+ownLength: 4892
+unit: words
+publishedAt: 2017-04-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132718/chapter-238-checking-things"
+royalRoadId: "132718"
+---
+
+Ren woke up early, much earlier than he thought he would. He looked at the woman that was sharing the couch with him, and sighed mentally.
+
+“What is it?” Teepo asked from his perch on the ceiling.
+
+I think there's only two things I can do about this. Ren thought. Well, three.
+
+“What's the first thing?”
+
+I'll go to the Main Keep and see what the restrictions are on dating someone from the same house.
+
+“They're pretty strict.” Teepo said. “Members from the same House are usually family.”
+
+That's what I was worried about.
+
+“It doesn't hurt to check, though.” Teepo said. “What's the second?”
+
+Tell the people that made all these stupid laws to go screw themselves.
+
+Teepo chittered in laughter. “That I'd like to see.”
+
+Ren smiled. It might come to that yet.
+
+“What's the third?”
+
+I don't want to think about the third one. Ren thought. It involves giving up all of this; including Nathalia.
+
+“I don't want to think about that option either.” Teepo said. “It's bad enough we have to leave in a few months, but giving it all up right now, then have to stay around to serve your sentence?” Teepo chittered sadly. “That would be depressing.”
+
+Yeah. Ren moved his hand from where it held Nathalia around the waist, and caressed her cheek. She murmured and held the hand to her face.
+
+“I have to go.” Ren whispered in her ear.
+
+“Don't... don't leave me.” Nathalia whispered back. “I forgive you for breaking your word.”
+
+“Thank you.” Ren said, lifted the blanket off of himself, and slid over Nathalia to kneel on the floor. She hadn't let his hand go, so he still had a hand on the side of her face. “I'm going to the Main Keep to check on a few things, then I have to stop in at the mine for a minute, and I'll come back to work for a few hours in my workshop. After that, I have to go to Aurora.”
+
+“No, Ren.” Nathalia said as she opened her eyes and looked at him. “She's going to be so mad at you.”
+
+Ren smiled. “I don't doubt that in the least.” He said as he leaned in close, pressed his lips against hers for a moment, then tucked the blanket back over her. “Go back to sleep.”
+
+Nathalia nodded slightly, and closed her eyes. Ren used sneak, and went to the kitchen. He didn't have a lot of time, so he only made a small batch of french fries for Princess, and went out to the stable.
+
+“Good morning, Princess.” Ren said, and presented her with the french fries.
+
+Supposed to be last night...
+
+“I know.” Ren said. “I was too tired to do anything but sleep.”
+
+You didn't eat...
+
+“No.” He said. “If you didn't eat, neither should I.” He smiled. “I still haven't.”
+
+You are nice... for a human...
+
+“Thanks. I think.” Ren said. He left the stable, with Teepo flying out front, and went to the gate. Wohrum was there in full armor, and greeted him.
+
+“Good morning, sir.”
+
+“Morning.” Ren responded. “How's Golir?”
+
+“Still in the medical building, sir.”
+
+Ren frowned. “I hope he's okay.”
+
+“He's just not feeling well.” Wohrum said. “Hasn't been for a few days.”
+
+“And he wouldn't go to the medical building until I told him to.” Ren shook his head. “He should have gone as soon as he felt that way.”
+
+“I'm glad you cared enough about us that you made a medical building and hired healers.” Wohrum smiled. “His wife would have had to travel all the way to the Main Keep and the Medical Wing, otherwise.”
+
+Ren nodded slightly. “That's one of the reasons why.” He said. “I mainly didn't want people to have to go far for treatment.”
+
+Wohrum nodded slightly, and shut the gate. Ren took off running down the road and stopped at the medical building to check on Golir and to talk to one of the healers.
+
+“Hi, Ren!” Malenka said, came around the reception desk, and jumped on him to give him a hug.
+
+Ren caught her and held on, so she wouldn't fall. “What's this for?”
+
+“Artrude surprised me the other night with...” Malenka held on with one hand and slid the shoulder of her tunic slightly to the side with the other. It revealed a lace covered strap of a bra. “...a great surprise.”
+
+Ren chuckled. “I'm glad you liked it.”
+
+“Liked it?” Malenka grinned at him. “I loved it!” She gave him a big kiss on the lips, then hugged him tightly. “Thank you for making them!”
+
+“You're welcome.” Ren said, with his face flushed a little red.
+
+Malenka let him out of the hug, and he put her down. “I guess you're here about Golir?”
+
+Ren nodded slightly. “How is he?”
+
+“He's sweating a lot, and his skin is hotter than usual.”
+
+“And you don't know what's wrong?”
+
+“Artrude's gone to the Medical Wing at the Main Keep to see if they've seen anything like this before.”
+
+“I hope they have, and know how to treat it.” Ren said. “Do you mind if I try something?”
+
+“You?”
+
+Ren nodded slightly. “I have to make a very strong Fear Aura, though.”
+
+“F-f-fear?” Malenka hugged herself.
+
+“I can wait for Artrude to be here, if you want.”
+
+“Um...” Malenka looked around. “I...”
+
+Ren took her hand. “I don't want you to feel this, so I am ordering you to walk 200 feet out that door and down the road. Wait 2 minutes, then come back.”
+
+“It'll be over that quick?”
+
+Ren nodded slightly. “It's just a test.”
+
+“O-okay.” Malenka said, and walked to the door. “See you in a few minutes.” She left the medical building and Ren walked to the recovery room to stand beside Golir.
+
+Okay, Teepo.
+
+Teepo flew out of the room, then the building, and followed Malenka. Ren equipped his Dire Wolf Hooded Cloak, and it added 40 feet to his Personal Aura's 50 feet, for a total of 90 feet. His shield was next, and he made a Connection between it and his Screaming Terror ring, then between the ring and the Dire Wolf Hooded Cloak.
+
+“We're in position, Ren.” Teepo said. “She's 200 feet away.”
+
+Ren activated the enchantments and funneled them through his Fear Aura. He watched as Golir started to shake in his sleep from fear, but after a full minute of basking in Screaming Terror, nothing came out of his head.
+
+That's a relief. Ren thought, deactivated the enchantments and stored the shield and cloak, then went back out to the reception desk.
+
+“We're coming back.” Teepo said. A minute later, Malenka came through the door, and Teepo flew in behind her to land on Ren's shoulder.
+
+“Thank you for letting me try that.” Ren said. “I had a few encounters with giants, and they had brain worms in their heads.”
+
+“By the gods!” Malenka said. “Wait, did you say giants?”
+
+“Yeah.”
+
+“Giants are real!” Malenka exclaimed and started hopping around.
+
+“Why are you so excited by that?”
+
+“Brunhilda was one of my favorite heroes as a little girl!” She said, and sat down behind the reception desk. “To think that all of it was real!”
+
+“Um... there's no proof that all of it was real.”
+
+Malenka laughed. “Ren, you found giants. Real life giants.” She grinned and spun around in her chair. “I wonder who you're going to find next?” She stopped her spin and had a serious look on her face as she stared at him. “You will tell me if you find fairies and pixies, right?”
+
+“I promise nothing.” Ren said and smiled.
+
+“You better!” Malenka said and pointed an ominous finger at him, then she laughed. “The next thing I want you to find is a monocerus.” She said and leaned back in the chair with a smile on her face. “I've always wanted to see one of them!”
+
+New Quest!
+
+You have been given a quest to find the elusive Monocerus (Unicorn). Since it hasn't been seen in decades, you have a lot of searching ahead of you. No time limit has been set for this quest.
+
+Rewards: ????
+
+Penalty for Failure: Malenka's Disappointment, ????
+
+Ren nearly laughed at the popup, and decided to try and get rid of one of the penalties for failure right away.
+
+“Do you have a piece of parchment?” Ren asked her, and she opened a drawer and handed him one. He put it on the table, and took out a piece of charcoal. He recalled staying in the Snoozing Bear Inn in Aurora, and the poster that hung on the wall in the room he'd stayed in. After only a few minutes, he had made a reasonable copy of it.
+
+He thought about adding color, then took out his Portable Dye Station. He dyed the charcoal to each of the colors that he needed, and filled in the drawing like he would with a coloring book. Malenka had watched him the entire time, and was amazed as the picture took shape, then stared open-mouthed as he colored it in. When he was done, he handed it to her.
+
+“There you go.” Ren said. “This is as much as I can remember from what I saw.”
+
+“I... I don't believe it...” Malenka said as she put the picture on the desk. “By... by the gods...”
+
+“I know it's a little rough, but at least now you can say you've seen one that you haven't seen before.” Ren said and stored the Portable Dye Station. Malenka stood up, calmly walked around her desk, and looked him in the eyes with intensity.
+
+“Malenka?”
+
+*
+
+He's Artrude. He's Artrude. He's Artrude. Malenka thought repeatedly, to try and trick herself into believing it, if for only a moment; then she kissed him passionately.
+
+“Ahem.” A woman's voice said a moment later.
+
+I can even hear her. Malenka thought and broke the kiss. I can't believe that work-
+
+Her thought was cut off when she saw Artrude standing behind Ren.
+
+“Hi!” Malenka said, hopped to the side and ignored Ren completely, then took Artrude into a hug. “Look what Ren did for me!” She said, and pointed to the desk. Artrude looked at the very detailed color drawing on the desk, looked at Ren, then at Malenka.
+
+“So that's why you were kissing him like that.” Artrude said and smiled.
+
+“I couldn't give him a kiss like the play kisses he got before.” Malenka rolled her eyes, then grinned. “I thought he deserved to be kissed for real.”
+
+Artrude shook her head, but her smile got wider. “What am I going to do with you?”
+
+“Keep me, of course!” Malenka said, and kissed her even more passionately than she'd kissed Ren. A minute later, Artrude broke the kiss.
+
+“Malenka, we're at work.” Artrude said bashfully, and her face was flushed even more red than Ren's was.
+
+“Werk shmerk.” Malenka said and picked up the picture. “Now that you're here, I can go hang this up!” She said, and took off out the door.
+
+*
+
+Ren and Artrude watched her for about 10 seconds, then looked at each other.
+
+“Sorry about that.” They said at the same time, and then they laughed.
+
+“I didn't think giving her something like that...” Ren said, then smiled.
+
+“Now you know.” Artrude said, then squinted her eyes at him. “You don't have anything else like that, do you?”
+
+Ren raised his hands in surrender. “Honestly, I didn't know she'd kiss me like that over a drawing.” He said. “If anything, I figured it would be another 'play kiss' like she said.”
+
+Artrude nodded slightly. “I thought so, too.”
+
+“Look, I'll make it up to you.” Ren said. “I'll be back in a little while with something for you to give to her.”
+
+“I thought I just asked you if you had anything.” Artrude said, a little angrily.
+
+“I'm going to get her something, but it's for you to give to her. Okay?”
+
+“All right.” She said. “As long as you don't keep trying to steal her away from me.”
+
+Ren snorted a laugh. “I've been accused of that a few times, and all I'm doing is trying to be nice.”
+
+Artrude put a hand on his arm. “I'm sorry.” She said. “I'm very protective of her.”
+
+“It's okay.” Ren smiled. “I'd be protective of her, too.”
+
+Artrude nodded slightly, and Ren walked to the door.
+
+“Any luck with what's wrong with Golir?” He asked as he opened the door.
+
+“A bit.” She said, and took out two jars from her pockets. “I've been given a spell and some special ingredients, and also a salve.”
+
+“Let me know if it works.” Ren said, waved, and left the building. He ran as fast as he could and made it to the Main Keep well before anyone else. The guards were just coming on duty, and opened the gate for him. They didn't check him for weapons or anything, and he went into the main hall.
+
+He waved to the receptionist as he passed by the desk. She had a surprised look on her face for a second, then she waved back. He smiled and walked down to the entrance of the hallway on the right and went into the first door. Teepo took off to scout ahead, and Ren approached the other door. He opened it at Teepo's okay signal, and went inside.
+
+“Hello again.” Beryl, the female dwarf that took care of the General Information desk at the Hall of Records, said.
+
+“Good morning.” Ren said, and stood in front of the desk.
+
+“What can I do for you today?”
+
+“Two things, actually.” Ren said. “I want to pay the taxes and fees for the Garrison.”
+
+“You WHAT?!?”
+
+“I got the deed for the Garrison from Lord Lodur.”
+
+Beryl shook her head. “By the gods, Fritz and the Queen are idiots.”
+
+Ren chuckled. “It's not really their fault.” He said. “I really have stayed a lot longer than Fritz intended, and I did mess the place up a lot.”
+
+“For the better!” Beryl said. “The Queen's order stating you can't get another invitation for a year is even more stupid.”
+
+“I'm not going to argue about it.” Ren said. “It's done, and we all have to live with it.”
+
+“But, if you own the Garrison, then you're also charged with the defense of the entire realm! They can't kick you out!” Beryl said with a serious face.
+
+Ren shrugged. “I'm not sure what I can do about it.”
+
+“Use the military to take over the Council and the throne.” She suggested. “It's been done before.”
+
+Ren frowned at her. “I will not be another Lord Lodur.”
+
+Beryl's serious face turned into a huge smile. “Good!” She said. “I assume you got the budget for the Garrison when you assumed control of the deed?”
+
+“I did.” Ren said. “1850 platinum coins is a little outrageous, especially the amount that goes into the crafting section.”
+
+“That's all internal.” She said. “You own the place. You can shift it around and give them what they want.”
+
+“I can't increase it, can I?”
+
+“No.” She said. “The budget is set for the amount of people it contains.”
+
+“So, if I fired everyone, I'd have no budget?”
+
+Beryl's face lost all of it's color.
+
+“I'm not going to do that!” Ren said quickly, to offset her shock.
+
+She sighed in relief and smiled.
+
+“I can't hire more people, either... can I?”
+
+“No. By law, it's a set number.” She said.
+
+“Damn, I'm really starting to hate dwarf laws.”
+
+Beryl chuckled. “Welcome to the Dwarven Kingdom, My Lord.”
+
+Ren shook his head. “All right, how much are the taxes.”
+
+“5% of the budget.”
+
+“It's what?!?”
+
+Beryl sighed. “I know. Even though 5% is almost nothing, once you get to 1850 platinum...”
+
+Ren thought about it, then looked at her. “You know what? Screw it. Here's 5 years of taxes.” He said and put 462 platinum and 50 gold coins on the desk. She stared at the stacks of money.
+
+“What... what...”
+
+“Sorry.” Ren said. “But I don't want to worry about defaulting or anything.”
+
+“F-f-f-five years!”
+
+“I paid 5 years for Nathalia's land.” Ren said. “Although, I paid 10 years for mine.”
+
+“Hold on.” She said and looked at him. “Did you say Nathalia's land?”
+
+“Yeah.” Ren said. “When the marriage contract was canceled... don't ask why... it reverted to her.”
+
+Beryl nodded slightly. “I'm sorry that happened.”
+
+Ren shrugged. “It was going to happen in just under 3 months anyways.” He said. “Which brings me to the second thing I wanted to ask about.”
+
+“What is it?” She asked, and took out a large sack to hold the money, and started shoveling it in.
+
+“I know there's restrictions on having a relationship with someone of the same House.”
+
+Beryl snorted a laugh. “Restrictions!” She said. “It's restricted, period.”
+
+“Even if you aren't normally a member of the house, or blood related, or anything like that?”
+
+She finished putting the money in the sack, filled out the form, and took them over to the filing cabinet.
+
+“What people do in their bedrooms is their own business.” Beryl said and dropped the money and the form into the cabinet. “Blood relatives... including cousins... is strictly forbidden.” She said. “It's hard enough to keep track of all the bloodlines throughout the different Houses, without having to worry about inter-breeding in the same House.”
+
+Ren smiled. “So, if say, someone just had the same name...”
+
+“As long as you don't try to make it official... which is a big no-no, by the way... officially, we can't intervene.”
+
+“Nice.” Ren said. “I was going to see if I had to submit a proposal to allow that... or something similar.”
+
+“That's not necessary.” Beryl said. “What's that old saying? Don't talk, don't tell?”
+
+Ren chuckled. “Close enough.”
+
+“Anything else?”
+
+“It depends.” Ren said. “I had an idea for something, but I don't know if there's some kind of procedure that has to be followed, or if it can be done at all.”
+
+“What is it?”
+
+Ren looked around.
+
+“Don't worry, this place is completely soundproof.”
+
+“Is anyone else in here?”
+
+“No.”
+
+“Okay.” Ren said. “This is my idea...” He explained what he wanted to do with the Garrison, and her eyes widened.
+
+“You... you can't be serious.”
+
+“It's not like I can maintain it if I'm not allowed in the dwarf lands.”
+
+Beryl shook her head. “Okay, I'll check.” She said, got up from her desk and disappeared down an aisle. Ren waited for several minutes, and then she came back with a book, nearly a foot thick.
+
+“You need to have the Librarian cut those things up into different volumes for you or something.” Ren commented when she put the huge book on her desk, and she laughed.
+
+“I'll keep it in mind.” Beryl opened the book, and read through about 200 pages, then stopped. “Okay, if you do that, with witnesses, then everything is okay.” She smiled. “Privately, it won't work.”
+
+Ren nodded slightly. “Publicly, and with witnesses.” He said. “Got it.”
+
+“Anything else?”
+
+Ren took out a platinum coin and spun it on her desk.
+
+“I don't need another toy, thanks.”
+
+“Then don't play with it.” Ren said and smiled. “I'm sure there's lots of places that would be happy to accept this toy.”
+
+Beryl snorted a laugh. “You're incorrigible.”
+
+“That's definitely a lot better than being called 'crazy'.” Ren said and bowed to her.
+
+“Awww.” Beryl said and waggled her hand as she held it out to him. “Don't you want to practice your registered ritual?”
+
+Ren chucked, took her hand, and gave her cheek a quick kiss. She laughed because his beard tickled, and he let her hand go.
+
+“Until the next time.” Beryl said, and Ren left the Hall of Records. Once he was out in the main hall, the receptionist looked over at him, even as she was speaking to one of the dwarves in line. Ren smiled at her and gave her a little nod, and she stopped speaking at the Honor she'd gained from his gesture. Her mouth kept moving, like a fish out of water, and he chuckled and left the Main Hall. He took off running when he passed out through the main gate, and went to the Library.
+
+“Your Highness!” Dorhaline, the Librarian, said when he came in through the front door. She had been sitting at her desk, and saw him right away.
+
+“I miss your gold armor.” She said.
+
+Ren smiled. “You miss bouncing off of it that much?”
+
+She chuckled. “I'm surprised it doesn't have a dent in the shape of my face.”
+
+“Oh, that reminds me.” He said. “I have to repair it.”
+
+Dorhaline smiled. “Giant feet makes a mess of things.”
+
+“They sure do.” Ren said. “But, that's not why I'm here.”
+
+“Ooo, do you want to read something?”
+
+“I'd love to.” Ren said. “I've got a little bit of time to spare.”
+
+“Great!” She said, and stood up. “What would you like?”
+
+“Anything from the box of books you put aside for me.” Ren said.
+
+“Just a moment.” She said, and went into her little sleeping area, and brought out the box. “Here it is.”
+
+“Thanks.” Ren said, and moved some of the books around. He picked a small one, and looked at her. “Ma'am, is it possible to get a couple of copies of that children's book, Brunhilda and the Water Sprite?”
+
+“Of course.” Dorhaline said. “I'll be right back.”
+
+Ren looked at the book he'd chosen and read the cover.
+
+How to Pick Up Hotties
+
+He laughed, and opened it to read the introduction page.
+
+Tales of interactions with Fire-related species.
+
+Oh, that makes a lot more sense. Ren thought, and the Librarian came back out to the desk.
+
+“Here you go.” She said and handed him 2 copies of the book.
+
+“Thank you very much.” Ren said, gave her 2 gold, and stored the books. “Shall we go up to the second level and read?”
+
+“I thought you'd never ask!” Dorhaline said, grabbed the book she had been reading, and led the way up to the second level and the tables there for reading. Ren spent about half an hour there, and had to go back down to get several more books. His Speed Reading was 5 levels higher while in a Library, so he burned through 5 of the books pretty fast.
+
+“I have to go.” Ren said, and the Librarian sighed.
+
+“Oh, all right.” She said. “I know you have things that you need to do.”
+
+“Boy, do I.” Ren said. “Thanks for letting me spend time here.”
+
+“Oh, go on!” She said, and grinned at him. “You're supposed to spend time in a Library.”
+
+Ren smiled, and handed her the book. Her eyes brightened as he stepped close, and she almost shook in anticipation.
+
+“I'm not spoiling you, am I?” Ren asked as he took her hand.
+
+“By the gods, no!” Dorhaline said, and he kissed her cheek. She giggled, because she couldn't help herself, and he laughed.
+
+“I'll try and stop by next week when I get another day off.” Ren said.
+
+“I'll look forward to it.” She said, and sighed when he let her hand go.
+
+“Ma'am.” He said, and walked down the stairs. Once at the bottom, he walked fast to the door, then took off running when he was outside.
+
+“Ren, there's something you should know.” Teepo said.
+
+What's that?
+
+“I think the Librarian likes you a little bit.” Teepo said, then chittered in laughter.
+
+Ren snorted a laugh and ran to his workshop at the mines. No one questioned him at all, and he went inside to gather the drawn plans for the Fire stained glass window he'd drawn, and picked up the piece of red-colored glass he'd left there. He left the workshop and ran out through the gate, then all the way back to the workshop behind House Neram Keep. The place really did seem empty without the huge silt oven taking up most of the space.
+
+Ren built another workbench for himself, but this one he made really large, so it could hold multiple pieces of the colored glass that he'd made well over a month and a week ago in the game. He took out the design he'd made, and took his time to score all of the lines that he had in the pattern on the red-colored glass. It took a while, nearly half an hour; but when he was done, he had traced the entire picture out onto the glass.
+
+Ren smiled as he lifted the pane of glass slightly, and used the technique he'd learned to firmly hold the outside piece, then gave it a snap. The piece popped off along the score line, and Ren kept going; he broke off each piece as he came to it.
+
+Stat Change!
+
+Glassworking Level 2 (Beginner 0%)
+
+Glass Cutting Level 2 (Beginner 0%)
+
+Ren put each piece back to reassemble the pane of glass, then repeated this process for each of the other 4 colors (orange, yellow, white, and blue) that he'd dyed previously, since he wasn't sure which colors he wanted where in the pattern he'd made. When he had all 5 colors cut apart, he had leveled up both Glassworking and Glass Cutting to Level 4.
+
+Ren picked the red and started replacing some of the pieces with the orange. When he had it to an almost even mixture, he started to add the yellow and white pieces to replace some of the red and orange. There were a few spots where he figured it should be really hot, so he used some of the blue pieces. Once it was all done, he stepped back and smiled at his creation.
+
+Ren had recreated the scene of when he'd first met Fire Dancer, when the large figure of fire had stood up from the mountain it had been sitting on. Blue flames shot out from it's feet as it stomped on the ground, and white billowing smoke rose from it's red eyes. It, and everything around it, had red, yellow and orange flame covering it.
+
+“If you stay much longer, you're going to miss your meeting with Elerlyth.” Teepo said.
+
+Thanks for reminding me. Ren thought to his friend, then covered over all of the glass with cloth. I'll be able to finish this tomorrow.
+
+He went into the forge room and Tee-one wasn't there. The forges were all going, and there were iron bars cooling in the molds on the floor.
+
+He must be down working on the Keep. Ren thought and grabbed a handful of molten metal from one of the forges. He held it in his hand, and remembered the drawing of a unicorn he'd made for Malenka. He put the blob of metal on the paving stone floor, and using his fingers, made it into the shape of the unicorn. Ren took out one of the bags of small diamonds he had, grabbed a handful of them, and pressed them into the still molten metal.
+
+Using one of his blacksmith tools, he used his Gem Setting ability to burnish the gems, to make them flush with the surface of the metal. He covered the entire surface with them, except for the eyes. He dyed two of the diamonds blue, and set them into the right positions.
+
+Stat Change!
+
+Gem Setting Level 2 (Beginner 0%)
+
+Once that was done, Ren grabbed a bit more molten metal, and let the system make it into a pendant chain. He attached it to the back of the unicorn, and used his ability to absorb the remaining heat from it and the chain. He held it up and smiled at it, stored it, then ran down to the road and over to the medical building. Artrude was sitting behind the reception desk, and he walked over to her.
+
+“Is Malenka around?”
+
+“Yes.” Artrude said as she stood up, then came around the desk. “She's tending to Golir in the recovery room.”
+
+Ren crept over to the door, saw Malenka was busy applying the salve to Golir's forehead, then went back to the reception desk.
+
+“You have to be quiet when I give this to you.” Ren said, and gave her a copy of the children's book.
+
+“Where did you get this?” Artrude asked.
+
+“A friend at the Library gave me a copy; but, that's not the whole present.” Ren said. “This is why I said you should be quiet.” He took out the glittering diamond-encrusted unicorn pendant. Artrude started to gasp, then covered her mouth.
+
+“By the gods.” Artrude whispered, and he handed it to her. “I can't take this.” She said, and tried to hand it back.
+
+“You have to, because you're giving it to Malenka.” Ren said, and Artrude stared at him. “Like I said, I want to make it up to you. I thought the book by itself wouldn't be enough, so... I want you to give that to her.”
+
+“Oh, Ren.” Artrude said, and looked at him intensely. “No wonder Malenka wanted to kiss you.”
+
+Ren grinned at her. “Should I run, or close my eyes?”
+
+Artrude laughed and gave him a kiss on the cheek.

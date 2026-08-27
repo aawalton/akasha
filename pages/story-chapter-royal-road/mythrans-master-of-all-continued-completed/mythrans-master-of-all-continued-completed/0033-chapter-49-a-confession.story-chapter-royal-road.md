@@ -1,0 +1,185 @@
+---
+id: 46dcc516-cef5-5386-8a66-714fc4b0ad20
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49 - A Confession"
+slug: 0033-chapter-49-a-confession
+partOf: mythrans-master-of-all-continued-completed
+position: 33
+ownLength: 2008
+unit: words
+publishedAt: 2016-10-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97389/chapter-49-a-confession"
+royalRoadId: "97389"
+---
+
+Ren used up the rest of the fur pelts to make boots. The designs ranged from little brush fires to massive forest fires. When they were all done and assembled, he got yet another popup. He didn't dismiss it like he had all the others.
+
+Ability Change!
+
+Leatherworking Level 2 (Intermediate 0%)
+
+“Haha. Nice.” Ren said. Hey, Teepo. Ren thought and spread out the pairs of boots so Teepo could see the progression from a small fire on the toes to engulfing flames that covered the whole boot. What do you think?
+
+“Oooo...” Teepo said and just stared at the frozen dancing flames.
+
+“Teepo?” Ren said out loud.
+
+“Oooo...” Teepo repeated.
+
+Ren took the boots and stored them into inventory. Once they were out of Teepo's sight, he came out of the trance-like state he was in.
+
+“Teepo, are you okay?” Ren asked his friend.
+
+“Hm? Oh, I'm fine Ren. Why?”
+
+“You didn't respond when I showed you all the boots.” Ren said.
+
+“The boots! The boots were great! I could see the fire dancing!” Teepo said, excitedly. “These will definitely help spread the tale of fire!”
+
+Notice!
+
+You have assisted the Beetle Decendant Quest to spread the word of Dancing Flames to the masses.
+
+Rewards: 200 XP
+
+Fame Bonus: +10%
+
+Fire Affinity Increase!
+
+Knowledge of Fire Level 2 (Intermediate 0%)
+
+Fire affinity and resistance increased to 24%
+
+Notice!
+
+You have gained a level!
+
+You are now Level 4.
+
+10 stat points automatically allocated.
+
+Ability Change!
+
+Slow and Steady (Passive)
+
+Increases XP required to level by 102 %, and reduces XP gained by 22%
+
+Skills gain XP 52% faster.
+
+Ren wondered how long that was going to keep changing. It seemed that every level he gained, it was going to be a little bit harder to get to the next one. If he gained enough levels, would it eventually cancel his XP gains completely? If that was true, Ren wouldn't level any more at that point. He wasn't sure if he liked that, but didn't know if he should contact the company about it or not. If he complained, would they change his character back to what it was, before he started playing? Ren loved his character class and wouldn't want it to be fundamentally changed like that. He'd have to think about it for a while before making a decision.
+
+Ren looked around but Aimus wasn't there. Ren had lost track of the time and saw that it was dark out already. “I better get inside. Are you coming, Teepo?”
+
+Teepo nodded and Ren picked him up. They went inside and Ren asked Aimus where to put all the boots. Aimus said they'd have to make shelves in the new shed for them. Ren nodded and kept them in inventory until then. Ren went to the spare room and Teepo hopped off Ren's shoulder and onto the bed.
+
+“I'll see you in the morning, Teepo.” Ren sand and climbed into the bed.
+
+“Goodnight, Ren.” Teepo said and crawled up the wall.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Lucy put it on the table next to the laptop.
+
+“Hi, Lucy!” Ren said and smiled.
+
+“Good morning, Ren.” Lucy said and smiled back. “How are you doing?”
+
+“I'm doing good. Except for my knee and finger.” Ren said, pointing to one and then the other.
+
+“I heard about that. I'm sorry I wasn't here to help you.”
+
+“Me, too. The floor tastes awful.” Ren said and grinned.
+
+Lucy laughed. “I'll just bet it does.”
+
+“Oh, I need the bathroom. Give me a hand?” Ren asked.
+
+Lucy nodded and helped Ren out of the bed and half-carried him into the bathroom. Ren sat on the toilet and Lucy turned her head.
+
+“Um... it might be a while.” Ren said sheepishly.
+
+Lucy laughed again. “Just holler when you're ready.”
+
+“Okay.”
+
+Lucy went out into Ren's room and shut the bathroom door. About 10 minutes later, Ren hollered.
+
+“A little help!”
+
+Lucy rushed to the door and opened it. Ren was sprawled in front of the sink, hanging on for dear life with both hands.
+
+“I slipped off when I tried to pull my pajamas up.” Ren said.
+
+Ren's bare butt jiggled when he tried to adjust his grip on the sink. Ren couldn't get any traction with his good leg because the tiles were smooth and he had thick socks on. Lucy put a hand over her mouth and tried not to giggle like a little schoolgirl.
+
+Ren saw her struggling not to laugh and rolled his eyes. “Don't just stand there.”
+
+“Oh, right.” Lucy said and helped Ren stand.
+
+“Thanks, I guess.” Ren said and smiled while he washed his hands.
+
+“Hey, that was pretty distracting, you know! It's not my fault you have a cute butt!” Lucy said and then slapped her hands over her mouth. “I did not just say that.” Lucy whispered. “No, I did NOT just say that.” Lucy shook her head in denial.
+
+Ren grinned and Lucy's face flushed a deep red. “Help me get back to bed.”
+
+Lucy took Ren's arm and draped it over her shoulder. She had to bend over a little bit, but had no trouble helping Ren get back into bed.
+
+“Do you remember that big burly guy that helped us out that day at the mall?” Lucy said.
+
+Ren nodded.
+
+“I had lunch with him the other day.” Lucy said and tucked Ren under the blanket. “We went out again yesterday.”
+
+Ren's expression closed down. “Oh? And how did that turn out?”
+
+Lucy sighed. “It was a disaster.”
+
+Ren was elated inside, but didn't let his expression change. At least he hoped it didn't.
+
+Lucy looked at Ren and saw a little bit of happiness there, but maybe she was projecting what she thought he would feel.
+
+Ren reached out and took Lucy's hand. “Tell me about it.”
+
+Lucy kept a hold of Ren's hand and sat down next to the bed. Lucy told Ren all the gory details of how her date had gone horribly wrong. Ren tried to keep a straight face, but when she got to the point where the guy tried to serenade her right in the middle of traffic, Ren lost it and laughed.
+
+“I'm...” Ren laughed a bit more. “I'm... sorry.” Ren said and tried to compose himself. “I know I shouldn't laugh.” Ren said and wiped his eyes. He'd laughed so hard that he started tearing up. “It must have been mortifying for you.” Ren said, finally getting his amusement under control.
+
+Lucy nodded. “It sure was. I mean... he was a nice guy... and they're pretty rare these days.” Lucy shifted her weight on the chair. “But... he just didn't seem to know how he was supposed to act on a date.” Lucy said and sighed. “Either that, or he was just trying too hard.”
+
+Ren nodded because that's what he had assumed. The guy must have tried too hard to impress Lucy and it backfired on him.
+
+“It was then that I realized... it's never felt like that when I was with you.” Lucy said in a low voice. “You've always treated me like I was a nice, normal person.”
+
+“But that's what you are!” Ren said. “I've met quite a few people... from doctors to lawyers to nurses of every kind... and I have to say, that you are one of the nicest people I've ever known.” Ren lifted her hand. “But you aren't normal. You can't be! Your smile lights up any room that you go into. Even in my darkest times, your smile has always made me smile... no matter how bad I felt.” Ren kissed her hand. “You've been the only light I've seen in the dark tunnel of my life.”
+
+Lucy was a bit shocked by Ren's forwardness. She'd had similar thoughts, but to just plainly state them like that... she would never have the courage... but Ren kept talking.
+
+“I don't plan on wasting any more of my life.” Ren gripped Lucy's hand in both of his. “I had a really bad scare recently, and then I realized something.” Ren said. “I know I'm not much to look at in this frail body... and I saw the way you looked at me the other day.” Ren lowered his head. “I know there can't be much of a relationship between us, since I've been confined to this bed...” Ren said and saw tears building in Lucy's eyes. “...but you've always been there for me.”
+
+“I know... I know you might not think of me the same way... and this is totally coming out of the blue. You probably think that I'm too young for you, too.... but I'll be 18 in two weeks... and then I'll be able to-” Ren rambled.
+
+Then Lucy kissed him.
+
+Lucy only intended it to be a peck on the cheek, to reassure Ren that even though they couldn't be together, Lucy still liked him. It was just pure luck that Ren had turned his head slightly at the last possible moment. Ren did that in order to make eye contact with Lucy, and he was still talking. The kiss evolved from a quick peck into an impromptu makeout session as Lucy lost all reason. Both Ren and Lucy felt things stir in different parts of their bodies.
+
+Ren thought that it was a whole lot different than when he was kissed by the maid after the party. Is it different because this is real?
+
+Lucy wasn't really thinking at all. All she was concerned about was that Ren's lips felt both soft and firm at the same time, that he was a good kisser, and she was tingling in places that she hadn't felt anything in a while... and they wanted to be touched. Once that thought had passed through her brain and made it to her hands, she reached out to Ren... and then realized what was going on.
+
+Lucy broke the kiss and pushed herself away from the bed. “Ren... I...” Lucy tried to talk, but stumbled over her words. “I... don't think I can work here anymore.”
+
+Ren was shocked. “What? Why?”
+
+Lucy shook her head. “I... I can't explain right now.” Lucy said and stood up. “I'll get you breakfast and then you have physical therapy.”
+
+Lucy left the room and Ren laid in bed, speechless. Lucy came back with a bowl of cereal and a glass of orange juice. Ren ate in silence and then Lucy got him ready for therapy. Ren went through all the motions and Lucy got him into the wheelchair and dropped him off at the therapy room down the hall. Ren did his regular routine, up until his usual walking time, then the therapist switched to leg and knee exercises designed to help his knee recover properly. Ren was sore and exausted by the time he was finished and rested there in the chair.
+
+A few minutes later, the session was over... and Ren's eyes widened as Stella came in to bring Ren back to his room.
+
+“Hi, Sweetie. All finished?” Stella asked and Ren nodded. “Great. Lets get you back to your room, okay?”
+
+Stella pushed Ren at a normal pace back to his room and helped him up into the bed. Ren had sweat a lot today, so Stella got the washing basin again and gave Ren a sponge bath. Stella tried to tease him, but Ren just wasn't in the mood for it. Stella gave up teasing Ren eventually and finished washing him. Stella dried Ren off with a big towel and got another pair of pajamas for him to change into.
+
+Ren settled down into bed and thanked Stella, who nodded and pulled over the rolling table with the laptop and VR headset on it for Ren to use. Ren glanced at it and turned on the television because there was another hour or so before he needed to log back in. Ren wasn't in the mood to use it right now.

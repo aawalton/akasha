@@ -1,0 +1,325 @@
+---
+id: fbc51f55-cfc2-5946-a813-8cdbb98327f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 463 - All In A Day's Work"
+slug: 0463-chapter-463-all-in-a-days-work
+partOf: mythrans-master-of-all-continued-completed
+position: 463
+ownLength: 3247
+unit: words
+publishedAt: 2017-12-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182556/chapter-463-all-in-a-days-work"
+royalRoadId: "182556"
+---
+
+Ren rode beside Zetaya as the fire elemental strode through the air to the spot they had seen on the map. When they arrived, Ren took out the Staff Of Earth and pushed all of the dirt out of the way to expose the underground nest. He wasn't surprised to see the piles of remains and clothing pieces, or the mass of half-changed High Elves.
+
+I wonder if it's easier to change an elf to a ghoul than it is to change a human to a ghoul? Ren asked himself, then shook his head. Forget that. I don't want to know.
+
+Zetaya repeated the same trick and put Ren inside, then started to suck up all the ghouls. The ones that were too far gone were consumed immediately, and the others Ren shunted aside. It went a lot faster this time, since they had it down to an efficient system, and then he went outside and attached the enormous cart to Princess.
+
+Zetaya spit out the ghouls that had a chance to be saved, and Ren went down and stored all the personal effects that were there. He then used the staff to fill in the nest so it couldn't be used again, and his extermination group went on to the next nest.
+
+*
+
+“High Lord, what are your orders?” An armored High Elf asked. “Do we maintain our stations in case of a resurgence of ghoul activity, or do we redeploy and search out that activity?”
+
+“Let the halfling do it.” Alinar sneered. “He seems to have decided to take this situation into his own hands.”
+
+“Then what should we do?”
+
+“Keep the watch until this evening, then we will move to Wirenth.” Alinar said. “Hopefully the ghouls will have cleared out the shantytown around the walls, and all we will have to concern ourselves with is guarding the walls.”
+
+The armored High Elf gave the High Lord a bow, and left him alone with his advisers.
+
+“High Lord, is that wise?” One of the advisers asked. “The Adventurer will return here after we leave...”
+
+“That's why we are leaving.” Alinar said. “I never want to see that halfling again.”
+
+“For yourself, or because of your own halfling?”
+
+“What she does in her personal life is not my concern.” Alinar said, and he felt another small burst of Heat as sweat appeared on his forehead. “Take that damn thing off!” He said angrily to the wizened old elf, who laughed.
+
+“That Adventurer was wrong.” The old elf said. “I'm enjoying this immensely.”
+
+“You won't be enjoying it if you are headless.” Alinar grumbled.
+
+“High Lord, there is no need for threats.” The old elf said and smiled. “As long as you don't lie, you have nothing to sweat about.”
+
+“You can't conduct any kind of negotiations without lying.” Alinar said. “Your amulet would be next to useless.”
+
+“Would it?” The old elf asked. “If you asked someone you are negotiating with what their minimum demands would be, and they tell you and start to sweat...”
+
+Alinar glanced down at his side where his halfling maid was supposed to be. I wonder what she would say if I asked her that.
+
+*
+
+“A great elfling Adventurer?” An elfling exclaimed after Allynna had told them about Ren. “You must be joking!”
+
+“I kid you not.” Allynna said. “Right before my very eyes he appeared, and he wore platinum armor.” She said. “He rode a mount that also wore platinum armor, and he carried a fire elemental on his back!”
+
+“Now we know you're joking.” Another elfling said. “No one would make an elfling armor, let alone platinum armor!” He said. “There's no way this elfling Adventurer exists!”
+
+“You can find out for yourself in just under 3 hours.” Allynna said. “I've arranged for the gathering to be held in the Great Meeting Hall, and he will be back to meet you then.”
+
+“He really wants to meet us?” One of the female elflings said, and Allynna nodded.
+
+“I regret that the High Lord will be leaving this fine city before then, and I won't be here to introduce you and share in the experience.”
+
+“You could always stay for an extra day.” Her mother said. “We can send you along tomorrow to meet up with the caravan of soldiers.”
+
+“I am tempted, but you know how much the High Lord depends on me.” Allynna said.
+
+“Too much, if you ask me.” Her mother responded, and then smiled. “You poor thing.”
+
+“Yes, my love will always be an unrequited one.” Allynna laughed. “I knew that before I accepted the position.”
+
+“I shall see if we can set up one of the Illusion Makers.” One of the other male elflings said.
+
+“Then take this.” Allynna said and handed the elfling 10 gold coins. “I'm sure you can get a better price than that; but just in case, you should take that much.”
+
+“Thank you, M'lady.” He said, and it reminded her of the Adventurer.
+
+“I... I just realized something.” Allynna said. “I'm doing all of this and I don't even know his name.”
+
+Her mother laughed. “I'll wait out by the wall and ask when he gets here.” She said. “Someone needs to guide him to the meeting.”
+
+“Thank you, mother.”
+
+“You better get going.” Her mother said. “I'm sure the High One is missing your constant presence.”
+
+Allynna smiled and kissed her mother's cheek. “I've arranged for food and ale for everyone, so make sure they all show up to meet him.”
+
+Her mother laughed. “They'll show up just for the ale!”
+
+*
+
+Ren, Princess, and Zetaya had cleared out 35 nests by the time 2 hours were up, and they took the loaded cart back to the first city.
+
+“Stay here by the hill while we deliver the new patients, Zetaya.” Ren said. “The High Elven Army might be gone, but there are still troops roaming around.”
+
+Zetaya nodded and laid down in the large scorch mark it had left there during the battle. Ren and Princess rode across the countryside to the little town and stopped at the healer's new treatment ward. He knocked on the door, and the healer's assistant came out.
+
+“You can just go right in. It's a ward, not a private residence.”
+
+“Thanks.” Ren said and pointed to the cart. “I've got another load for you to check.”
+
+The healer's assistant shook her head in disbelief. “Is this going to be a regular thing?”
+
+“I don't know.” Ren said. “I cleared out a pile of ghoul nests around the High Elven city, but I haven't traced the horde back to where it came from.” He said. “There could be more, or there could be nothing else.”
+
+“That's both good and bad to hear.” The healer said as she came over to the door. “We've already started seeing marked improvements in the High Elves you've brought us, and thanks to your gifts, it's progressing much faster than it would have normally.”
+
+“I'm really glad of that.” Ren said. “Do you want me to start bringing in the next ones?”
+
+“Yes, there's lots of room left.” The healer said. “These double stacked cots are wonderful!”
+
+Ren nodded. “It doubles your capacity for patients within the same space.”
+
+“You Adventurers and your crazy ideas.” The healer grinned. “Let's get to work and help these people.”
+
+“Yes, ma'am.” Ren said and he brought in the infected High Elves that he had rescued from the nests. They weren't as far gone as the ones he had taken from the attacking ghoul horde, and the healer was very pleased to say that they were all going to make a full recovery.
+
+Teepo warned Ren that the time for the meeting was approaching.
+
+“I have to go.” Ren said. “Is there any chance that I can get an estimate of their recovery?”
+
+“It will be a day or two at least.” The healer said. “I don't have a lot of experience with High Elves, and with their larger than average bodies...”
+
+Ren nodded. “I understand.” He said. “Thank you for doing this.”
+
+“It's our job.” The healer said. “Thank you for this.” She said and held up her wrist and then waved at the building.
+
+“It's not my job to help, but I like doing it.” Ren said and smiled. “I'll be back to pick them up in a few days.”
+
+“Like I said, there's no rush.” The healer said. “Although...”
+
+“Yes?”
+
+“Is there any chance we could get some native food for them?” She asked. “Our food is a bit too rough, apparently.”
+
+“Of course.” Ren said. “I'm heading back to a High Elven city right now for a meeting, and I'll see if I can get some afterwards.”
+
+“That would be wonderful.” The healer said. “Thank you.”
+
+Ren left the ward and unhooked the cart from Princess, stored it, and climbed up onto her saddle. “Back to the High Elven city.” He said, and she trotted up into the sky and disappeared.
+
+*
+
+“I've seen that twice now, and I still can't believe it.” The healer's assistant said.
+
+“He gave us decades worth of Mana that we can carry around on our wrists, that replenishes itself without us adding anything to it, and it's this disappearing act that you can't believe?” The healer asked.
+
+“Well, when you put it that way...”
+
+“Come.” The healer laughed and pat her assistant's shoulder. “Our next few days will be busy ones. We need to get back to work.”
+
+The assistant nodded and shut the door to the ward. It was nearly filled to capacity, and instead of thinking they were overloaded or taxed beyond their abilities, both women accepted the challenge eagerly and dove into their work.
+
+Nothing made them happier than healing the sick.
+
+*
+
+Ren and Princess arrived back at the High Elven city of Zinnorel, and he dropped Princess off to stay with Zetaya. “Relax and get comfortable.” He said. “I shouldn't be long; but, I'm probably meeting a lot of people.”
+
+“Take your time, My Lord.” Princess said. “Zetaya needs the rest.”
+
+“Are you sure that you don't want me to shrink you back down?” Ren asked the fire elemental. Zetaya shook it's head and he felt the 'no' distinctly in it's emotions. “Okay, I'll see you in a little while.”
+
+“Enjoy yourself.” Princess said.
+
+Ren ran up and through the air to go over the city wall, mainly because he didn't want to have to deal with anything that might happen at the main gate, and saw a female elfling wave to him. He came to a stop on the top of the wall and looked at her.
+
+She had medium length raven-colored hair and high cheek bones similar to ones he had seen barely 3 hours before, and she wore a simple but lovely dress that covered her from neck to foot.
+
+“M'lady, you look very familiar.” Ren said. “Could you perchance be the mother of M'lady Arthion?”
+
+“I am, M'lord.” The elfling said and smiled. “I can see what she said is true.”
+
+“I could ask what she said; but, I'm pretty sure I'm too humble to hear it without blushing.” Ren said, and she laughed.
+
+“M'lord, if you would escort me, I'll bring you to the meeting.”
+
+Ren stepped down onto the wall. “Is it far?”
+
+“It's in the Great Meeting Hall beside the third spire to the left.” The elfling said and pointed.
+
+“That is quite a fair walk.” Ren said. “Thank you for coming here to meet me.”
+
+“It's nothing.” The female elfling said, and waved away his thanks. “I volunteered to meet you, once she told me what she knew of you.”
+
+Ren smiled. “That makes it sound like she's missing an important piece of information.”
+
+“She is.” The elfling said. “She doesn't know your name, and I told her I would ask you for it.”
+
+“I... yes, in my haste while dealing with the High Elves, I didn't tell her.” Ren chuckled. “I even asked her for her name, and didn't reciprocate.”
+
+“It's fine.” The female elfling said and pointed to the stairs that led down to the ground. “I'll send a messenger to the capital in the morning, once I discover it.”
+
+“M'lady, my name is Ren.” Ren said and bowed to her. “I am honored to meet you.”
+
+“As... as am I, M'lord Ren.” She said, flustered at his treatment. “My name is Yllana Arthion.”
+
+“If I may be so bold, what of your husband?” Ren asked. “Are you here without escort?”
+
+“Possibly.” Yllana said. “Are you planning on... flirting with me?” She asked, and he felt her surprise at the idea.
+
+“Potentially.” Ren said and smiled. “Although, I must make it clear that it is just flirting, and nothing else.”
+
+“M'lord, I haven't been flirted with since Allynna's father died 150 years ago.” Yllana said.
+
+It was Ren's turn to feel surprise as he thought about elf lifespans, and saw Yllana still looked so young. If he had to take a guess, she was barely a few years older than her daughter, and he knew that should be physically impossible.
+
+“I would be delighted to exchange pleasantries with you.” Yllana said. “Shall we go?”
+
+“M'lady, if you would permit me to carry you, we can get there much quicker.”
+
+“C-carry m-me?”
+
+“Perhaps not.” Ren said and held an elbow out for her to take.
+
+“A n-nice l-leisurely stroll would allow us to talk before the meeting.” Yllana said as she wrapped her arm around his elbow and rested her hand on the back of his.
+
+“I'd like that.” Ren said and led her down the stairs. “I'm normally the short one, then I was in the dwarf lands and was the tall one.” He said as they descended the stairs in step. “I've never been anywhere that my height was the same as everyone else.”
+
+Yllana smiled. “You're still not.”
+
+Ren chuckled. “You know what I mean.”
+
+Yllana nodded. “I do.” She said, and then glanced at him. “You were in the dwarf lands?”
+
+“I was, and for a lot longer than I thought I was going to be.” Ren said. “Boy, what a tale that is.”
+
+“Then save it for the meeting.” Yllana said. “They should have the Illusion Maker set up to save your appearance.”
+
+“Wait, what?”
+
+“We have a machine that lets us save the image of others.” Yllana said. “It's usually used for the military, so the soldiers know their orders are legitimate and not something their superiors are making up for them.”
+
+“Did that happen a lot?” Ren asked, and then smiled. “Never mind. I guess it would have to be a lot for them to come up with a way to confirm orders.”
+
+“Very astute.” Yllana said. “Yes, they would abuse their positions and have soldiers do... work... that they were not intended for.”
+
+“Say no more.” Ren said. “I understand completely.” He said. “I experienced that first hand while in the dwarf lands.”
+
+Yllana chuckled. “Is that where all of your references will come from? Your time in the dwarf lands?”
+
+“I was there the longest, so a lot of my practical experiences did happen there.” Ren said. “I've done some other things, though.”
+
+“Please make an itemized list and submit it to the elfling council.” Yllana joked. “They need to know what elflings can do.”
+
+“We can do anything we set our minds to, M'lady.” Ren said. “You don't need a list.”
+
+“I could argue that I meant it as a joke.” Yllana said. “As we don't have a council, nor would it have any power if it existed.”
+
+Ren could feel her feelings, and he looked at her intently. “I made an offer to your daughter to fight for her rights, and she refused because she said that the High Elves weren't ready for that.”
+
+“Oh, they are not.” Yllana said. “Her father was the High Lord 200 years ago and had taken me as a lover.” She smiled warmly. “It was such a scandal when we were discovered 50 years later that he was deposed from the throne, removed from the rightful line of succession, then beheaded.”
+
+Ren stopped walking. “That's horrible.” He said, and Yllana turned to face him. “I'm so sorry.”
+
+Yllana reached up and touched his face. “You really are sorry, aren't you?”
+
+“I am.”
+
+“That's so sweet.” Yllana said and caressed his cheek. “You aren't flirting yet, and my heart is already fluttering.”
+
+Ren smiled. “M'lady, I don't even have my Prince Charming title active.”
+
+Yllana tilted her head slightly. “Can you activate it?”
+
+“I don't think I should.” Ren said. “With my current stats, it's probably... very powerful.”
+
+“Then I must feel it, M'lord.” Yllana said. “Standing beside you like this has been making my skin tingle.” She said. “If you can induce even more feelings in me...”
+
+“I don't want to take the chance that you will become enamoured of me.” Ren said.
+
+“Even if I am besotted with you, I pledge my Honor that I will never show it after your attempt.” Yllana said, and Ren felt her emotions turn completely serious. “I challenge you to do the same.”
+
+Notice!
+
+You have been challenged to an Honor Duel. Since they usually involve some kind of political intrigue, using emotional influence is an odd choice of weapons.
+
+If you do win her favor, she will become a powerful ally in the High Elven Kingdom. If you fail to influence her with your Aura during the duel, she will gain half of your current Honor.
+
+“Why are you doing this?” Ren asked.
+
+“I cannot answer that until you answer the challenge.”
+
+“What happens if I refuse?”
+
+“Nothing.” Yllana said. “Well, nothing here between us.” She smiled. “You are an Adventurer, and I know you have different requirements for things; so, you will know that you refused and I can assume something might happen to you because of it.”
+
+“So, I can accept and try to compete, or refuse and I might not have anything happen.”
+
+Yllana nodded.
+
+“Can I cast spells?”
+
+Yllana chuckled. “It's not combat, M'lord.”
+
+“Is Charm Person considered a combat spell?”
+
+“Yes.”
+
+“What kind of combats have you been in that Charm Person can be used?”
+
+“Very personal ones.” Yllana said. “What is your decision?”
+
+“Can I leave and talk to someone first?”
+
+“No, it's considered the same as refusing.”
+
+“You aren't leaving me much choice.” Ren said, and she chuckled.
+
+“Everything we do is choice.” Yllana said and unwrapped her arm from his and stepped back. “We choose to get up in the morning.” She said and her eyes started to glow. “We choose to meet people that will change the way things are.”
+
+Yllana's Aura popped into place, and Ren could tell that it was an Importance Aura. Her hair became more lustrous and started to float a little as she became much more appealing and drew attention to herself.
+
+“We also choose to offer up what we have to those we believe are worthy of the gift.” Yllana said.
+
+“Then I only have one thing to say to you.” Ren said as he activated his Prince Charming title.
+
+Yllana gasped as the effect hit her, and her serious emotions changed to both desire and longing. She hadn't felt anything like that in a century, and her eyes widened as Ren smiled confidently.
+
+“I accept your challenge.” Ren said, and then activated his own Importance Aura.

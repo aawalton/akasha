@@ -1,0 +1,251 @@
+---
+id: f2410253-4277-5185-9d5b-6eea919b1403
+page-type-slug: story-chapter-royal-road
+title: "Chapter 455 - No One To Blame But Ourselves"
+slug: 0455-chapter-455-no-one-to-blame-but-ourselves
+partOf: mythrans-master-of-all-continued-completed
+position: 455
+ownLength: 3165
+unit: words
+publishedAt: 2017-12-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180943/chapter-455-no-one-to-blame-but-ourselves"
+royalRoadId: "180943"
+---
+
+Ren thought about the things that could possibly happen, now that he knew how interested the Lord of the next county was. “How long would it take for a messenger to get to the capital city from here?”
+
+“3 days.” The scout said. “The boss needed to know how long he had to settle everything before any kind of response would come.”
+
+“So, he would have 6 days to finish us off, assuming anything we sent to the capital was seen right away and someone was sent out.” Ren said. “It's more like he would have a week, perhaps a week and a half.”
+
+Patty nodded. “What do we do?”
+
+“Well, I've got 12 new guards to add to our ranks of guards.”
+
+“How many is that now?” Patty asked.
+
+“If you include the one I brought back from my last party quest, 13.”
+
+Patty laughed. “We are so screwed.”
+
+“Not at all.” Ren said and smiled. “I've got 4,000 animated statues lining the outside of the walls.”
+
+“They're animated?!?” The scout exclaimed.
+
+“There's not a lot of people that live here.” Ren said. “Even if we somehow mobilized everyone to fight, including the women and children, we barely have 1,000 warm bodies to do it.”
+
+“But... oh, damn.” The scout said. “The boss received bad information.”
+
+“What information is that?” Patty asked.
+
+“That your primitive village was just a front, and that the Lord here had a huge population that was just waiting to expand the borders.” The scout said. “When we saw the wall go up and the moat filled with water...”
+
+“You assumed I was preparing for battle, even though you didn't see any weapons.” Ren said, and the scout nodded. “Well, I guess there's only one thing I can do.”
+
+“What's that?” Patty asked.
+
+“I'm going to hope for the best and plan for the worst.” Ren said and stood up, then motioned to the scout. “Are you going to hire him?”
+
+“I think so.” Patty said and looked at the scout. “Tell him why you quit.”
+
+“I couldn't take the thought of starting a fight against our own countrymen, or against someone that can build an iron wall around an entire county overnight.”
+
+“That was smart.” Ren smiled. “I'll be finishing the wall on the inside and on top, and now that I know what's going on, I'll be adding a lot more defenses than I had originally planned.”
+
+“Like what?” The scout asked.
+
+“Just a few tricks I have up my sleeves.” Ren said. “I'm hoping I never have to use them; but...”
+
+“It's better to have them and not need them, than need them and not have them.” Patty said, and both men looked at her. “I've been a long time without, and once I had the opportunity to have what I wanted for my people, I made sure everyone had what they needed.”
+
+“How much of the budget did you burn through?” Ren asked.
+
+“Do you really want to know?” Patty asked, and he laughed.
+
+“Just let me know if you need any more money.” Ren said. “I've got to get to work.”
+
+“Have fun.” Patty said, and Ren gave her a wave and left the office. He opened the door for Princess, and led her across the street.
+
+“Hi, Ren.” Tee-one said and Ruck waved from his spot on the ceiling.
+
+“I had an idea.” Ren said, and Tee-one laughed.
+
+“Do you think it'll work?”
+
+“Let's make one and find out.” Ren said, and they used a paving stone to carve out the mold for what he wanted, then poured one out. Ren absorbed the heat from it, and popped it out of the mold. He took out a Level 5 Web wand and slipped it into the crossbow-like holder, and then added the two metal wheels.
+
+“Well, try it.” Tee-one said, and Ren put the small wand holder on the floor and took out the Enlarge and Reduce Anything wand, and used the spell. It increased from it's small 1 foot size to a normal size of 4 feet, and he made it permanent, then used the spell again to make it 10 feet long and made it permanent again.
+
+“Ha! At the increased size, it looks like a Ballista.” Ren said. “Let's test it to see if it increased the spell distance, too!”
+
+They rolled it outside and aimed it up high, and Ren activated the Web spell. They watched as it shot out of the giant wand and flew a thousand feet before it arced down and hit the ground. It splattered a 100 foot wide circle of webbing across ground when it hit.
+
+“Ha ha!” Ren laughed. “I'm glad I aimed for open ground, and not at the road!”
+
+“I can't believe that worked.” Tee-one said and smiled. “I guess that would mean the reverse is true as well.”
+
+Ren nodded. “If we make it smaller, it won't shoot as far, and it's effect reduces as well.”
+
+“I guess you won't be modifying my metal body.” Teepo said.
+
+“Why not?” Ren asked. “Even just a small effect would be better than nothing.”
+
+“Hm.” Teepo said. “I guess that's true.”
+
+“How many of them do you want made?” Tee-one asked.
+
+“I'll want a hundred at the original size.” Ren said and took out his storage tower. “I'll make them big when I put them in position.” He said and grabbed the crate he had for wand diamonds, that were 1 inch wide. He took out a storage ring and filled a slot with 199 diamonds, then stored the tower and gave the ring to Tee-one. “I threw in extra if you need to make wands for yourself.”
+
+“Thanks.”
+
+Ren stored the Web wand Ballista and looked at Tee-one. “Should we make them all Web, or add in a Sleep spell or something?”
+
+“You know, Sleep spells might be better, unless you're planning on smothering everyone.”
+
+“Make 50 with Sleep, and 50 with Web.” Ren said. “I know they are going to have catapults, and probably a Ballista or two, so we need a way to cover them.”
+
+“Also if they have a spell caster.” Tee-one said.
+
+Ren nodded. “I'm going to finish the walls now.”
+
+“Why not make a new wand attachment for your armor before you go?” Teepo suggested.
+
+“That is an excellent idea.” Ren said and he asked Princess to wait for a few minutes as he and Tee-one made a large array that held 40 wands. They made a harness for it and Ren equipped his armor so they could strap it on. He didn't want to make it permanent because it was so big and bulky, and it was a bit awkward to move around in. With those and the wands already mounted on the armor, he had 64 wands to use up before he had to recharge them.
+
+“Thanks for waiting, Princess.” Ren said when he came out with the thing on his back, and Princess blew a raspberry at him.
+
+That looks ridiculous! Princess brayed, and he felt her amusement.
+
+“Yeah, I know.” Ren said and climbed up onto her saddle. “It'll let us work a lot faster, though.”
+
+Then I will run fast before anyone sees you looking so foolish. Princess thought and took off across the county.
+
+“Does me looking like this bother you?” Ren asked, curiously.
+
+A great warrior shouldn't degrade himself so. Princess huffed as they arrived at the wall and she came to a stop. Ren stood up and started doing the Iron Wall, Widen Effect, Permanency, Permanency, technique; and Princess trotted quickly parallel to the wall. It took several hours to do the entire inside of the walls, and then Princess walked up the wall to stand on top of it.
+
+Ren had to adjust the Iron Wall spell, since he only had about 10 feet across the top; so instead of a 20 foot by 20 foot standard wall, he made a 5 foot by 80 foot one, cast Widen Effect to make it 10 feet by 160 feet, and made it permanent. Once he had the pattern in his head, Princess ran pretty fast and he kept casting the spells. They did the tops twice as fast as he did the walls, and then he thought about making the battlement for the outside. It was a bit of a problem, since the Iron Wall spell only made straight pieces, unless he made them thick; then he remembered his Shaper spell.
+
+“That might work.” Ren said and changed a wand with that spell when he recharged everything. Since he only needed a small wall that he could then double in size with Widen effect, he made the 20 foot by 20 foot standard wall into a 2 foot high by 200 foot long wall, then used Widen Effect to double it to 4 feet high and 400 feet long. It was also 10 inches thick, which was plenty. He then cast Shaper on it, and thought battlement. The 4 foot wall changed into a 3 and a half foot wall with 1 foot by 1 foot protrusions every other foot for the entire length, making it look like evenly spaced teeth.
+
+“Cool.” Ren said and made it permanent. Since he was only doing the outside wall as a battlement, it didn't take anywhere near the same amount of time to add them, and a short inside wall, all along the top. By the time he was done of it and made everything permanent, the rest of the day had passed by and it was just turning into night.
+
+Ren took the time to triple the number of animated muscle man soldier statues on that side of the wall, which turned out to be about 15,000 of them all along the 50 mile wall. He had thought about clumping them up, but figured a wide dispersal was better, especially if the enemy is expecting to meet a cohesive force. Now it was quite late at night, and he had Princess take him back to the Main House.
+
+“Thanks a lot, Princess.” Ren said and climbed down off of the saddle on her back. He opened the front door and let her inside to lay down on her mattress, and then he walked across the road and went into the large warehouse.
+
+“Hi, Ren.” Tee-one said and handed him a storage ring with the 50 miniature Web Ballistas and 50 Sleep Ballistas. “I wonder if a construct, or animated statue can fire one of these things?”
+
+“I was just thinking the same thing.” Ren said. “Otherwise, I'm going to need 100 people to operate them.”
+
+“You can ask Patty if there are people around the village that would want to help.” Teepo suggested.
+
+“That's a good idea.” Ren said. “Assuming there's 100 people free to do it.”
+
+“It doesn't hurt to ask.” Tee-one said.
+
+“Do you think I should shut the doors to the county in the meantime?” Ren asked.
+
+“No, you'll cut off the dancer's income.” Tee-one said. “That is, unless you animate them or put live guards on the door to screen people.”
+
+“Those are good suggestions.” Ren said and walked over to the door to the giant forge. “I'll keep them in mind.” He opened the door and went inside, and Zetaya jumped on him. “Hi!” He said and hugged the fire elemental. “I got hung up working on the wall, but it's done now and I can finally sit down and tell you my plan.”
+
+The sound of a crackling fire came from Zetaya. Ren walked over to the wall and sat down, and Zetaya curled up on his lap.
+
+“I had planned on doing it myself, especially since its such a big job; but, I don't want to keep ruining how I play.” Ren rubbed Zetaya's head stub. “I've got too much now to catch up on, so I've decided that instead of having you come along to help... it's you that's going to do it for me.”
+
+Zetaya let out the sound of a thick branch breaking, and Ren chuckled.
+
+“No, I'm still coming along.” Ren said. “I'm going to be right there with you.” He said and hugged it. “I would never send you in anywhere alone.”
+
+Zetaya rubbed it's head stub on his face.
+
+“This is what I had in mind...”
+
+*
+
+“I can't believe this.” King Alamast said to the gathered room full of dignitaries. “The Lords have voted to reject the Sea Dweller's demands.”
+
+“Proposal.” Lady Eleanor corrected.
+
+“How can you do this?” King Alamast said, and pounded a fist on the podium. “I've already accepted it!”
+
+“I'm sorry, your highness.” One of the Lords said. “Considering what had happened at the time the... proposal... was delivered, we can't in good conscience concede to them.”
+
+“Are you insane?” King Alamast asked him, then turned to the rest of the room. “As the King, I am ordering you to remove your ships from their waters!”
+
+“As the King, you can't interfere in your vassals business, nor dictate independent sea routes.” The Lord said. “Our livelihoods depend on this trade, and these new routes add nearly a week travel time.” He explained. “It cuts our margins even further, since we have to provide extra food and supplies for the crews of those ships, and the goods will take that much longer to get to their destinations.”
+
+“My Lords, please...”
+
+“Twice we have voted 7 to 5 against accepting the terms as they are.” The Lord said. “Please send word to the Sea Dweller's Ambassador to ask for a renegotiation.”
+
+King Alamast put his elbows on the podium and put his head in his hands. “They won't negotiate.”
+
+“I don't know what to tell you.” The Lord said.
+
+“All ships owned by me and the kingdom have already been shifted to the new routes.” King Alamast said.
+
+“That makes up...” The Lord looked at the parchment in front of him. “...12% of the total economic value in the entire Human Kingdom.” He said, and shook his head. “We really can't move the rest to those routes and still remain in business.”
+
+King Alamast shook his head. “I do not want a new conflict with the Sea Dwellers!”
+
+“Then get them to renegotiate this proposal.” The Lord said. “It's your only option.”
+
+“No, My Lord.” King Alamast said. “The only option left is war.”
+
+“Surely they can't honestly think that...”
+
+“You have not been listening at all, have you?” King Alamast said. “The Ambassador was very clear in what she said. We had a very specific time limit to agree to these terms... and that's it.” He said. “If we don't agree, then they will stop all shipping within their waters.”
+
+The Lord chuckled. “Realistically, they can't do that.”
+
+“All they have to do is make a small hole in your ships to sink them!” King Alamast said, emphatically. “How can you be so dismissive of this threat?”
+
+“The Ambassador said that they didn't want war anymore.” The Lord argued, and completely ignored the king's point.
+
+“Listen, there's no recourse here.” King Alamast pleaded. “We all have to agree to this!”
+
+“I'm sorry, your majesty.” The Lord said. “We don't.”
+
+“Then I hope your ships are prepared for a siege and a long stay at sea.” King Alamast said. “No one will be able to get to them when the Sea Dwellers launch their attack in two weeks.”
+
+*
+
+Ren told Zetaya her role in his plan, and the fire elemental had whole-heartily agreed to help him. “Thanks a lot, Zetaya.” He said and hugged the fire elemental, before standing up to leave. “I've got to get to bed and get some rest.” He walked over to the door. “Goodnight.”
+
+Zetaya waved to him, and he left the giant forge and shut the door.
+
+“If you're not too busy, do you think you and Ruck can make a lumber mill for the county?” Ren asked. “I don't know when Jhulune is going to be done of her apprenticeship; but, I'd like to have the shop available when she is.”
+
+“Of course.” Tee-one said.
+
+“Thanks, you guys.” Ren said, and then remembered what he had promised. “So, what kind of familiar should I make?”
+
+“I don't know.” Tee-one said. “Ruck wouldn't mind another one that can carry things; but, we all know that has little utility now that you have access to shrinking towers.”
+
+Ren chuckled. “I can store so much inside them, it's not funny.”
+
+“You have to do the sentient bow.” Tee-one said. “You've been meaning to do that for a while, now.”
+
+“I know.” Ren said. “Plus, with my Hail of Arrows ability, it increases a projectile fired within my Aura by 3.”
+
+“Then that should be first.” Tee-one said. “After that, well... we can talk about it some more.”
+
+Ren nodded. “I'll come over first thing in the morning.” He said. “I'm going to check on this world event with my All-Seeing Mirror and see how much they've progressed.”
+
+“Just don't go running off without any warning.” Tee-one said. “Everyone would hate that.”
+
+Ren laughed. “Even though that last time wasn't my fault, I know I deserve some of the blame.”
+
+Tee-one smiled. “Goodnight, Ren. Teepo.” He said, and Ruck waved to them.
+
+“Goodnight.” Ren said and left the warehouse as he activated his Contact Aura, and ran over to the Main House. “Riley! Stacy!” He called, and the two metallic dogs ran over to him and he pet them. “Inside for tonight, until I make a suitable spot for you.”
+
+The two dogs went inside and laid down beside Princess, and Ren used his Heat Sense Aura for a split second to see if anyone was in Patty's office. No one was there, but he did see that Xuunah was in her apartment and the 5 maids were upstairs. He took out the All-Seeing Mirror and asked it to show him the progress of the ghoul horde, and he received an overall map of the High Elven Kingdom.
+
+Damn, that's... Ren shook his head. It's too late to second guess now. He thought. “Goodnight.” He said to Princess and the dogs, then went up the stairs.
+
+Ren entered the apartment and saw that all 5 maids were already under the covers and half-asleep. He activated Sneak and crept over to the bed, took off his Dire Wolf Hooded Cloak, and folded it up on the night stand by the bed. Teepo took off and landed on the ceiling, which was his normal observation perch. Ren put out the saucer and Health Potion for his pet tarantula, even though he wasn't sure if it still needed it, and climbed into bed after storing his armor and clothing.
+
+“Mmm.” Frikara moaned as Ren tucked himself beside her and under the arms of two other maids. Ren kissed her cheek and she rubbed her face against his, then he dozed off in their warm embrace.

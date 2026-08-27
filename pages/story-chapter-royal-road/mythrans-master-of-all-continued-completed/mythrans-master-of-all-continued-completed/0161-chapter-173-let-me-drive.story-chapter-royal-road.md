@@ -1,0 +1,447 @@
+---
+id: 28e75278-b265-5c43-9c97-685e272c0c0f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 173 - Let Me Drive"
+slug: 0161-chapter-173-let-me-drive
+partOf: mythrans-master-of-all-continued-completed
+position: 161
+ownLength: 4862
+unit: words
+publishedAt: 2017-02-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119254/chapter-173-let-me-drive"
+royalRoadId: "119254"
+---
+
+“I'm going to be a television star.” Ren said, blinked his eyes a few times, and stared at Stella.
+
+“That's right.” Stella said. “Even though it's all computer generated, it still looks just like you.”
+
+“Wow.” Ren said, then looked at Elise. “What do I have to do?”
+
+Elise came over to him and sat by the bed. “You don't have to do anything, except cash the check.” She said. “Both checks, actually.”
+
+Ren raised a single eyebrow at her, and she fought her urge to giggle out loud.
+
+“The first is yours regardless, because it's for the pilot; but, when you cash the second one... you agree to the purchase of your likeness, and the rights to the footage for 1 year.”
+
+“What about consulting?” Ren asked. “There's a few things in there that... ah... people shouldn't see.”
+
+“Don't worry. They're buying the rights, but it's still your show.” Elise grinned. “It's for network television, so anything questionable will be cut, and any cursing will either be dubbed or bleeped.” She looked at Ren. “You might have to visit the studio for dubbing some of the lines. During some of the action scenes, it's hard to make out what you're saying.”
+
+Ren chuckled. “I think for first few months I played, most of it was, 'aaaaahhhhhHH!!'.”
+
+Stella and Elise laughed.
+
+“Well, I guess you better get dressed.” Stella said. “These checks aren't going to cash themselves.”
+
+“What?” Ren asked. “How can I...”
+
+“You don't think I sit at home and do nothing when I'm not here, do you?” Stella asked, and smiled. “I got certified by the hospital board yesterday.”
+
+“That's great!” Ren said, and started to slide out of the bed.
+
+Stella helped him, and led him over to the bathroom instead of to the dresser. He looked at her, and she glanced down between his legs and raised her eyebrows.
+
+“Can you bring me my clothes?” Ren asked, taking the hint. “I'll use the bathroom first and then get changed.”
+
+“Sure, Ren.” Stella smiled. He went into the bathroom to clean himself up as she went to the dresser to get him a good outfit to wear. She knocked on the bathroom door a couple of minutes later, then went in when Ren said he was ready. She helped him put on a nice shirt and a pair of pants, then they went back out into the room.
+
+“You look very handsome.” Elise said to him, then her briefcase beeped. She got up and checked her info pad, and nodded. “The update is done.” She said, and took the thumb drive out of the micro-server. “That went a lot faster than I thought it would.” She said, a little disappointed. “It took nearly half an hour back at the company.”
+
+Ren sat down in the wheelchair that Stella had left by the door after therapy. “You wanted an excuse to stick around.” He said, and smiled at Elise. She looked at him in surprise for a moment, then smiled back as she closed her briefcase.
+
+“Was it that obvious?” She asked.
+
+“If I was blind, I think it would still have been obvious.” Ren said and laughed.
+
+Elise shook her head in resignation. “I shouldn't be trying so hard to spend time with you, should I?”
+
+Ren shook his head. “You don't have to try so hard.” He said. “And you don't need to make up excuses to visit, either.”
+
+Elise blinked her eyes at him a couple of times. “You're right.” She said, then sighed. “I can't expect you to put up with-”
+
+“You can just come over.” Ren said. “I don't mind having visitors.”
+
+“Are... are you serious?” Elise asked, surprised.
+
+“Sure.” Ren said. “You kind of scared me a little when we first met, and then there was that incident.” He smiled at her, as she blushed. “But, you seemed genuinely sorry that it happened.” He said. “I'm all about giving people second chances.” He looked down at himself. “I'm prime example number one that second chances are good to have.”
+
+Elise nodded, and was filled with both relief and joy. He actually wants me to come and visit him!
+
+“Or better yet, pop online in a month.” Ren said. “I'll be back in Aurora by then.”
+
+“A month?” Elise asked. “Why after so long?”
+
+“I have to serve hard labor in the mines for 3 months.” Ren chuckled. “Then I have to leave the Dwarven Kingdom a month after that.”
+
+Elise's mouth dropped open. “You... you have to serve... hard labor in the MINES?!?”
+
+Ren laughed. “It's okay. I tricked the Council by telling them I'll be working in my own mines, rather than the perpetual slave mines for House Lodur.”
+
+“Good god, Ren.” Elise shook her head. “What happened?”
+
+“I'd be happy to explain, assuming you have a vehicle with a large trunk.”
+
+“Ren, we can't impose ourselves on her like that.” Stella said as she gathered up the two checks and gave them to him.
+
+“No, it's quite all right.” Elise said, then smiled. “I've got something better than a large trunk, though.”
+
+After Stella filled out the day release form and Ren signed it, they went out to the parking lot to Elise's vehicle.
+
+“You have a Hummer H2!” Ren said in surprise. “And it's yellow!”
+
+Elise laughed and went around to the back. “It was either this, or drive one of those big transfer trucks.”
+
+Stella pushed Ren in the wheelchair to follow her to the back as well, and Elise opened the storage area.
+
+“Why's that?” Ren asked curiously, as he stood up and Stella and Elise lifted the wheelchair into the back. It didn't even have to be collapsed, as there was tons of room. Once the available straps were attached to it, Elise shut the door.
+
+“I'm 6 feet, 2 inches tall, not counting the heels.” Elise said, and did a little back kick to show the 3 inch heels. “I got tired of having to take my shoes off and slide the seat all the way back, just so I could fit into a car.” She walked around to the passenger side and opened the door. “I was even getting tennis elbow from having my arms bent so much as I gripped the steering wheel.”
+
+“Yeah, that would suck.” Ren said. “Stella? A hand, please.”
+
+Stella helped Ren climb up the couple of feet into the front seat. She buckled him in, and he relaxed in the giant seat. Elise waited for Stella to move out of the way, then shut the door. They walked around to the driver's side, and Elise climbed into the driver's seat as Stella got into the seat behind her.
+
+“This is great!” Ren said excitedly, as he looked around at the interior. “I've never been in one of these!”
+
+Stella grinned. “You haven't been in anything else except taxis since you've been at the hospital.”
+
+“I know.” Ren said as he turned to look at her. “That's why this is great!” He said, then turned to look at Elise. “I kind of expected a convertible.”
+
+“A convertible?” Elise chuckled. “If I wanted to steer the car with my knees, maybe.”
+
+Ren grinned. “That would be a sight!” He said. “Your flowing red hair blowing in the wind, your hands holding onto the top of the windshield, and you trying your best to take a turn using only your knees.” He laughed. “I can imagine you'd look like a teenager riding in one of those kid's pedal cars.”
+
+Elise started the H2 to the sound of general laughter, then pulled out of the parking lot. “Okay, where am I headed?”
+
+Stella told her the address of the bank, and Elise drove across the city to get to it. On the way there, Ren filled her in on what his current situation had been like, and what he'd done. She was quiet until he finished the story, and she reached a hand across the seat and took his.
+
+“I'm so sorry you had to go though that.” Elise said. “Seeing your dogs being used like that, and feeling their pain...” She shook her head. “...I'd have killed him without a second thought.”
+
+“That's what I said.” Stella commented.
+
+“Great minds think alike, it seems.” Elise said and grinned at Stella's bark of laughter.
+
+“So, you're not outraged that I crushed his hands and ruined his career?”
+
+“What career?” Elise asked, and didn't let his hand go when she took a corner. “How old was he? A hundred and ten you said?”
+
+Ren nodded.
+
+“Then he only had about 10 years left.” Elise said, and sped up on a straight street. “The game's not too kind about letting NPCs live their full lifetimes.”
+
+“Really?” Ren asked, and Elise nodded.
+
+“It's the best way to stop the game from being stagnant.” She said. “It's also why NPCs don't respawn.”
+
+Ren looked at her. “How long does it take to generate a replacement NPC?”
+
+“It depends on what it's for.” Elise said. “I could go into all the mumbo jumbo with formulas and things; but, if it's an essential service, the system will replace them right away. If it's not, then... it might take a while.”
+
+“It's definitely been a while since Mitchell, the guy that ran the Archery shop, was killed.”
+
+Elise nodded. “Yes, it's not an essential service, since bows can be bought from the general store.”
+
+“I see.” Ren said. “So if I open my business and sell bows, the system won't bother generating another archery shop owner.”
+
+“Right.” Elise said. “More than likely, another shop will be generated to replace it, assuming the system can come up with something that the general population can use.”
+
+“That's pretty cool.” Ren said.
+
+Elise pulled into the parking lot of the bank and stopped the vehicle so that the back faced the bank. She took her hand from holding Ren's, to put the H2 into park. She turned off the Hummer and looked at Ren, then at Stella behind her.
+
+“You're going to be depositing a lot of money.” Elise said. “Are you going to open another account?”
+
+Ren looked at her, then at Stella. “I think that would be best.” He said. “That way, it's not mixed in with the other things we've got going.”
+
+“I know one of the account managers here.” Elise said. “Do you want me to come in?” She offered. “I might be able to get you a good interest rate, and probably have the taxes handled right away.”
+
+“You can do that?” Ren asked, surprised. “I was kind of worried about how to handle it.”
+
+“You shouldn't have to worry about it at all.” Elise smiled. “All you should do is worry about how you're going to spend it all.”
+
+Stella snorted a laugh. “You are NOT buying a Hummer H2, Ren.”
+
+“Okay, fine!” Ren laughed as he unbuckled the seat belt. “I can't climb in without help anyways.”
+
+“Hold on, we'll come around.” Elise said as she got out, and Stella went with her. Elise opened the door and held it, while Stella put both hands out to Ren.
+
+“Boy, this is high.” Ren said, then carefully stepped down as Stella took his weight. He made it to the ground without incident, and they went to the back to get his wheelchair. Ren sat in it, and the three of them went inside.
+
+“Janice!” Elise said as she entered the door, and Ren heard a girly squeal from across the lobby. A short brown-haired woman in her mid-twenties, who wore a business suit similar to the one Elise wore, ran across the lobby to greet her.
+
+“Elise!” Janice said, and gave her a quick hug. “I haven't seen you in a month!”
+
+Elise smiled. “I've had a few things going on, and haven't had the chance to go out.”
+
+Janice grinned. “Uh, huh.” She said, then looked at Stella and then Ren. “Can I assume that this is one of the things?”
+
+Elise laughed. “Actually, yes.” She said. “This is Ren Haddon, one of the contest winners I was telling you about.” She motioned to Ren, then to Stella. “And this is his nurse, Stella.”
+
+“It's nice to meet you both.” Janice said. “What can we do for you?”
+
+“We don't have an appointment.” Elise said, and leaned in close to her. “But we do have a significant amount to deposit into a new account.”
+
+Janice's eyes sparkled, and she smiled. “I'm free at the moment, so why don't I deal with you personally?”
+
+“That would be great.” Elise said, and they followed Janice across the lobby and into her office. She shut the door and sat down behind her desk. Elise and Stella moved the two chairs on their side of the desk, parked Ren between them, and sat down themselves.
+
+“Now, did you have anything in mind?” Janice asked. “High interest with low movement, high movement that comes with low interest, middle of the line, savings, checking, savings and checking combined...”
+
+Elise started to laugh. “Easy, girl.” She said to Janice. “They already have an account here, but want another account for this money to keep it separate.” Elise looked at Ren. “I'm going to assume you want to spend some of it, and not just let it sit there.”
+
+Ren nodded. “I've actually got 2 accounts here.” He said. “One is from my settlement, and the other one is a joint account with Stella for the medical research project.” Ren took out the two checks and handed them over. “Now I'd like one for this.”
+
+Janice opened the envelopes, and her eyes widened. “Oh... oh, my.” She put the checks down, and waved a hand in front of her face.
+
+“Relax.” Ren said. “Look at me. Breathe in. Out. In. Out.”
+
+Stella put a hand on his arm, and smiled.
+
+Janice calmed down and took a deep breath. “I thought I was having a good day when I saw Elise.” She said, then grinned. “Now I'm having an excellent day!”
+
+It only took half an hour to get the new account set up, several canceled checks to be used for account depositing services, transferring and paying the taxes on such a large income, and a new debit card. Janice handed all the paperwork and everything over to Ren, as she told him the restrictions.
+
+“Now, I raised the limit as much as I could for the amount you can get out in cash each day.” She said. “If you need more than the set limit, just come back in person and we'll get you sorted out as quickly as we can.”
+
+“That's great.” Ren said. “What about the debit limit?”
+
+“There isn't one.” Janice said. “The limit is only on the cash you can get out. You can spend as much of your own money in the account as you want to, through debit.”
+
+“Oh.” Ren said, a little surprised. “Um, thank you for all of your help.”
+
+“It was my pleasure.” Janice said and stood up. “Thank you for using us for all of your banking needs.”
+
+Stella and Elise stood up, and Elise reached a hand over the desk. Janice shook it and came around the desk.
+
+“Thanks for doing all of this, Janice.” Elise said.
+
+Janice chuckled. “Besides it being my job, I'm glad I could help.”
+
+Elise smiled and gave her a hug. “I'll try and get some spare time next week, assuming I'm not swamped at work again.”
+
+“So, you're telling me I shouldn't hold my breath in anticipation.” Janice said, and Elise laughed.
+
+“See you later, Janice.”
+
+“Bye, Elise. Ren. Stella.” Janice said, and nodded to each of them. They left Janice's office, then walked out of the bank to the parking lot.
+
+“Wow, that was...” Ren started to say.
+
+“A bit overwhelming?” Elise offered, and Ren nodded. “Janice is definitely a handful when she gets going.”
+
+“I believe my grandmother would have described her as 'a bag full of cats'.” Stella said, and everyone laughed. Elise and Stella helped Ren climb into the Hummer H2, stored the wheelchair in the back, and climbed in themselves.
+
+“Okay, where to?” Elise asked as she looked at them.
+
+“Back to the hospital.” Ren said.
+
+“Come on, Ren.” Elise said. “You just put an absurd amount of money into the bank. There's got to be something you want to buy with it.”
+
+“Well... there is something...” Ren said.
+
+After going to the big mall at the edge of town, not far from the bank, Stella wheeled Ren into a clothing store.
+
+“You have got to be kidding me.” Elise said, as she saw what he wanted. “Pajamas. With all the money you have to spend, you want new pajamas.”
+
+Ren grinned. “I'm a little old for the cookie monster ones I was wearing.” He looked through a rack of men's pajamas, and Elise leaned close to Stella.
+
+“I thought he looked kinda cute in them, though.” She whispered to Stella, who smiled and nodded slightly.
+
+“At first, I got him to wear them to tease him about it; but, yeah.” Stella whispered back. “It definitely added to his cute factor.”
+
+Ren picked out several sets and Stella brought him to the checkout.
+
+“Will that be all for today?” The sales lady said.
+
+“Yes.” Ren said. “If I like how they feel, I might be back to get a few more.”
+
+“These are a men's size.” She said, and glanced at Ren's body. “Are you sure these are what you want?”
+
+Ren nodded. “I'll try them on, and either fix them myself, or have someone do it for me.”
+
+“We can do it right here, if you want.”
+
+“You can?” Ren asked, surprised.
+
+“Of course.” The sales lady said and walked over to a door behind the counter. “Lily, we have a few alterations today.”
+
+“Awesome!” Lily said, and came out of the back room. “I've been itching to do something with my hands all day!”
+
+The sales lady chuckled. “Stocking the shelves is doing something with your hands.”
+
+Lily rolled her eyes. “Anyone can do that.” She said and grinned as she waggled her fingers. “Gimmie some cloth to play with!”
+
+“Oh, you!” The sales lady said, and handed her the 3 sets of pajamas.
+
+“Nice.” Lily said, as she looked at the trio of people, then down at Ren. “You've got a good eye for fabric.”
+
+“Thanks.” Ren said. “I'll be spending a lot of time in them, so I want to be comfortable.”
+
+“No problem.” Lily said. “Right this way.”
+
+She walked out from behind the counter, and Stella pushed Ren to follow her. They went to the back of the store behind a large shelf, and there was a small room with 5 mirrors.
+
+“Okay. Can you put a set on so I can get the right dimensions?” Lily asked, then looked at Stella. “I assume you'll need to help.”
+
+Stella nodded. “I don't normally have to, but his elbow was dislocated recently and he needs some assistance once in a while.”
+
+Lily opened the back mirror to reveal a changing room.
+
+“That's so cool.” Ren said, and Lily smiled.
+
+“I know, right?” She said. “It's like a secret room or something.”
+
+Lily handed Ren one of the sets, Stella wheeled him inside and shut the door. Ren got out of the wheelchair and started to change. Stella helped when it was needed, but she didn't crowd him, or try to do more than was necessary. Ren put on the pajamas, and nodded to Stella. She opened the door and Ren stepped out into the mirror area.
+
+Elise held in the gasp she almost let out, and Lily grinned.
+
+“Yeah, I knew that was the best one to start with.” She said, as Stella closed the changing room door, and Ren turned around in the mirrors.
+
+“It's definitely eye-catching.” Stella said. Ren was wearing a pajama set that was almost like silk. Bright red silk. It slid across his body as he moved, and he grinned at how handsome he looked.
+
+“I really like these!” He said, and turned to Lily. “I might have to close my eyes when you start pinning everything.”
+
+“Pin?” Lily asked, surprised. “No way, mister.” She said and pulled out a roll of double-sided tape from a pocket. “I've got just the thing for you.”
+
+Lily proceeded to fold the fabric up and used the double-sided tape to secure it at the proper height.
+
+“Okay, shift around a bit.” Lily said. “See how much it pulls. We can't hem it too much, or you won't be comfortable when you move.”
+
+Ren did as she said, and nodded. “It feels great!”
+
+“Awesome!” Lily said. “Now slip out of those and I'll take them out back with the others.”
+
+“You don't have to do each set?” Ren asked. “It's different cloth. They won't fit the same, will they?”
+
+Lily opened her mouth to respond, and Elise spoke up and interrupted her.
+
+“Maybe you should try on one of the others, just to make sure.” Elise said.
+
+Lily shrugged. “It's no skin off my nose.” She said. “Pass out the red ones before you change, though. I'll have them altered and back in a jiffy.”
+
+“Thanks.” Ren said, and he and Stella went back into the changing room. Stella opened the door and passed out the pajamas a minute later, and Elise caught a glimpse of Ren in his underwear.
+
+Oh, my. Elise thought as she turned her head away, so she wouldn't be caught staring. The door to the changing room closed and Lily disappeared around the shelf. Elise closed her eyes and took several deep breaths to calm down.
+
+I will not geek out. I will not geek out. I will not geek out. Elise repeated in her head and relaxed. How can someone so thin have such well defined muscles?
+
+Ren and Stella came out a few minutes later, and Ren wore a cotton set of pajamas, with blue and white stripes.
+
+“You don't like them?” Ren asked, as he saw Elise's expression.
+
+“You looked so much cuter in the red ones.” She said, and put a hand over her mouth. “I did not say that out loud.” Elise shook her head. “Nope, I did not.”
+
+Ren and Stella laughed.
+
+“It's okay to say I'm cute.” Ren said. “It's not like I don't hear it a lot.”
+
+Elise dropped her hand. “Well then, if that's the case...” She smiled at him. “...I think I saw a matching blue pair to go with the red.”
+
+“Where?” Ren said. “I must have missed them.”
+
+Lily came back with the altered pajamas and put them on a chair. “Missed what?”
+
+“A matching blue pair of those.” Ren said, and pointed to the red ones she had just altered.
+
+“Sure.” Lily said. “We've got them in a few different colors.”
+
+“Can you get a few sets of them, please?” Elise's eyes lit up. “We've got to see how he looks in them.”
+
+“I'll be right back!” Lily said, with a huge smile on her face. She practically ran from the changing area, and Ren grinned.
+
+“I think I just saw what a good commission does to someone.” He said, and they all had a good chuckle. Lily was back a couple of minutes later, with an arm full of clothing.
+
+“Here you go.” She said, and put the pile down on another chair. “I picked out some underwear for you, too.”
+
+“I never thought about that.” Ren said, then rubbed his hips. “I guess I should get new underwear.”
+
+“You might as well.” Stella said. “Since we're here anyways.”
+
+Ren nodded, and Lily handed him several different pairs to try on, and the blue set of pajamas. Ren and Stella went into the changing room, and Lily turned to Elise.
+
+“He should really like them.” She said, and picked up one of the other pairs of underwear to show her. “It's the same soft fabric, and they match the pajamas.”
+
+Elise nodded as she took it, and clamped her mouth shut so she wouldn't sigh in pleasure. Not only do I get to dress him up, now I can picture him in matching underwear! She thought and fought her urge to rub the fabric on her cheek. Oh, what the hell. She rubbed the fabric on her face, then sighed in pleasure.
+
+“Yeah, they're great!” Lily said. “My boyfriend loves them.”
+
+“He does?” Elise asked, and handed the underwear back.
+
+“Uh huh.” Lily said and grinned. “That, and my employee discount.”
+
+Elise chuckled, and Ren came out in the blue pair.
+
+“How do I look?” Ren asked Elise.
+
+“Dashing.” She said. “You look quite fashionable.”
+
+“Really?” Ren asked, and turned around. “Not cute and cuddly?”
+
+Stella snorted a laugh and shook her head. “Ren.”
+
+“What?”
+
+“Don't tease the poor woman.”
+
+“You really do look dashing.” Elise said. “I didn't want to say 'cute and cuddly', in case you might get insulted.” She grinned. “I'm thinking it, though.”
+
+Ren chuckled. “Thanks.” He looked at Lily. “I'll take 7 pairs of underwear, and the matching pajama sets.”
+
+“Which colors?” Lily asked, her eyes bright.
+
+“The red and blue, a green, a purple, yellow, gray, and...” He looked through the pile. “...this one.” He held up a sky blue/silver one that matched his eyes almost perfectly.
+
+“Wonderful!” Lily said. “Take that one off and I can get it done up right away.”
+
+Ren and Stella went back into the changing room, and Stella handed out the pajamas and underwear a minute later. Lily gathered up the pajama sets Ren wanted altered, and disappeared again. Elise stared at the pair of underwear that Ren had just worn, and she started to sweat a little. She closed her eyes and took several deep breaths.
+
+I will not take them. I will not take them. I will not take them. Elise repeated in her head, then sighed and opened her eyes as she heard the changing room door open. They would have caught me with his underwear if I'd picked them up. She thought in relief as they came out, with Ren in the wheelchair. They walked out to the front desk and waited for Lily to finish her work. Surprisingly, 7 sets of alterations didn't take that long, and Ren commented about that to Lily.
+
+“We've got the best sewing machine in the world!” Lily said. “You do one pattern, set it, and then hit repeat.” She smiled. “Then you just run another bit of cloth through, and bam. Same alteration.”
+
+“Nice.” Ren said. “No wonder you like your work.”
+
+Lily grinned. “The commissions help make that possible, too.”
+
+Ren grinned back at her, then paid with his new debit card. The clerk bagged everything up for Ren, and the unlikely trio left the store.
+
+“Now that you've had a taste of custom clothing, what do you think?” Elise asked.
+
+“That was kind of fun.” Ren said. “I've never tried on clothes like that before.”
+
+“I'm glad I was there to experience your first time.” Elise said, then grinned as Stella laughed.
+
+“I could make several jokes about that statement.” Stella said.
+
+“Me, too.” Ren said, and his stomach rumbled. “Is anyone else hungry?” He asked and looked at the two women. “My treat.”
+
+“I don't know.” Stella said. “I'd planned on making you your favorite can of soup.”
+
+Ren snorted a laugh. “Okay, now I have to insist on eating out.” He said. “Ladies choice... as long as they serve hamburgers and gravy fries.”
+
+It was Stella's turn to snort a laugh, and they piled back into Elise's Hummer H2.
+
+“Thank you so much for this.” Ren said, and turned to face Elise as they pulled out of the parking lot of the mall. “You weren't even supposed to bring over the checks, and here you are, driving us all around town on my whims.”
+
+Elise smiled at him. “That's only fair, as this all started on my own whim to visit you.”
+
+“You're taking a lot of time away from work, though.” Ren countered.
+
+“Don't worry about that.” Elise said and grinned. “I booked in a replacement for today when I got the package from the television station last night.”
+
+“So, you'd planned to stay a little longer than the half hour or so for the 'update' to the system?” Ren asked, with a sly smile on his face.
+
+“Guilty.” Elise said. “I was going to offer to take you out to lunch, actually.” She looked at Stella in the rear view mirror. “Once I quietly asked permission of the appropriate authority, of course.”
+
+Stella nodded to her, and she put her eyes back to the road.
+
+“So, where are we headed?” Ren asked. “I haven't been to a lot of places.”
+
+“Amazon Jim's.” Elise said. “They've got the best burgers in town.”
+
+“What about the french fries?”
+
+“I believe it's called 'Endless Fries'.” Elise said, then laughed at Ren's joyous expression.
+
+“Well, don't just drive there, Elise! Step on it!” Ren exclaimed. “Endless Fries hasn't met my Endless Stomach yet!”

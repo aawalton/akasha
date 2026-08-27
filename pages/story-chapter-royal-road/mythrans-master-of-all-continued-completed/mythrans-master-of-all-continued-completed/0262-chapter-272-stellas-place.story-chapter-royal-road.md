@@ -1,0 +1,323 @@
+---
+id: 869b726e-c03e-5f99-806e-215f62337113
+page-type-slug: story-chapter-royal-road
+title: "Chapter 272 - Stella's Place"
+slug: 0262-chapter-272-stellas-place
+partOf: mythrans-master-of-all-continued-completed
+position: 262
+ownLength: 3462
+unit: words
+publishedAt: 2017-06-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140278/chapter-272-stellas-place"
+royalRoadId: "140278"
+---
+
+Ren woke up in the real world, and slipped off the VR headset. Stella took it from him, and shook her head.
+
+“You're messing up my schedule.” Stella said. “Today's the first day of the medical trials for the grant.”
+
+“It's okay.” Ren said. “I'm only half an hour later than normal. I don't have therapy, so that's an extra hour we have to play with.”
+
+“I know you don't have therapy, and I planned for that.”
+
+“Oh.” Ren said, and slid out of the bed. “Then we can skip breakfast to make up the time.”
+
+“Skip breakfast he says.” Stella snorted a laugh. “You do realize the condition your body is in, right?”
+
+“I... ah... yeah.” Ren said and walked across the room. “Bathroom break.”
+
+“That's not what I meant.” Stella chuckled. “Get a move on. We've got to get you dressed and out of here as soon as possible.” She said through the open bathroom door. “We're only a little bit behind, so it's not too bad.”
+
+“I'll make this up to you, I swear.” Ren said and took off his pajama top when he came out of the bathroom.
+
+“How are you going to do that?” Stella asked.
+
+“I'm buying a house.” Ren said, and tried to put on a t-shirt. He winced when he lifted his arms. “Damn, normal shirts only.” He said, and tossed the t-shirt back into the drawer.
+
+“You looked already?” Stella asked.
+
+“Yeah.” Ren said and grabbed a shirt from the closet. “When Elise was over last night to watch the show.” He said and buttoned the top. “It's a great place, and her friend from the bank is handling it.”
+
+“Wait, the bank?” Stella asked, and looked at Barbara when she came into the room with a cup of coffee for her. She took it, gratefully. “Okay, tell me what's going on.”
+
+Barbara laughed. “I only filled you in on what he did in the game. I completely forgot about the real life stuff.”
+
+“You're getting forgetful in your old age.” Stella grinned and took a drink of coffee.
+
+“Quiet, you!” Barbara said and shook a fist at her.
+
+“You better help Ren before he hurts himself.” Stella said to distract her murderous intent, and Barbara helped Ren put on a pair of pants. He had bent over to get them, and hissed when he compressed the bruised muscles in his abdomen. Barbara dressed him, and Stella finished her coffee just about the same time that Ren was fully clothed to go outside. Stella and Barbara packed a small bag of extra clothes for Ren, and Stella slipped the room's cell phone into her pocket, in case anyone wanted to contact Ren. She put Ren in the wheelchair, and pushed him out into the hallway. Barbara shut his room door and the three of them went right past the reception desk and outside.
+
+“Hey, aren't you going to call a taxi?” Ren asked Stella.
+
+“There's no need for that.” Gloria's voice said, off to his right.
+
+“Gloria!” Ren said as he turned to look at her. “Good morning!”
+
+“Someone's in a good mood.” Gloria said.
+
+“A really good mood.” Barbara chuckled.
+
+“Ooo, you got some last night, huh?” Gloria asked, and Ren's face flushed a little red.
+
+“We're wasting time.” Stella said a little sternly.
+
+“I'm sorry.” Gloria said and raised a hand in apology. “The minivan's right over here.”
+
+“A minivan?!?” Ren exclaimed. “Geez, and here I had you pegged as a muscle car girl.”
+
+“I am a muscle car girl, you nut.” Gloria said. “I borrowed the minivan for you.”
+
+“Oh.” Ren said. “Thanks, Gloria.”
+
+“You're welcome, but you don't have to thank me.” She smiled. “You're paying for the rental and the gas.”
+
+“Ha!” Ren said, and they loaded him into the front passenger seat. When they got the wheelchair loaded into the back, Barbara said goodbye to them and left. Stella sat in the seat behind the driver, and Gloria climbed into the driver's seat.
+
+“Hey, can your awesome coolness take being seen in this thing?” Ren asked Gloria, and she laughed.
+
+“I'm sure it can.” Gloria said and started it up. “Hold onto your hats! This thing goes from zero to 60 in only 5 minutes flat!”
+
+Ren and Stella laughed, and Gloria pulled out of the parking lot. It didn't take long for them to head over to Stella's place, and Gloria parked in front of it.
+
+“You can park in the driveway.” Stella said. “I haven't had a car parked there in years.”
+
+Gloria nodded and pulled in and up to the house. They unloaded the wheelchair, put Ren in it, and went to the front door. Stella took out her keys and opened it.
+
+“Welcome to my humble abode.” Stella said, waved her arm with a flourish, and Gloria pushed Ren's wheelchair inside.
+
+“This place is really nice!” Ren said. “Thanks for inviting me over.”
+
+“This isn't a social visit.” Stella chuckled. “We're here to work.”
+
+“I know.” Ren said. “But that doesn't mean I shouldn't thank you for letting me into your home.”
+
+“Gloria, go grab your things. We've got to get the modded VR headsets up, running, and connected in thirty minutes.”
+
+“Thirty minutes!” Gloria abandoned Ren's wheelchair and ran out of the house. Stella laughed, and took over Ren's wheelchair.
+
+“I made my spare bedroom into a work space for us.” Stella said, and pushed him down the hall. Ren reached out and opened the door, and stared at the setup.
+
+“Holy crap!”
+
+Three expensive recliners sat at the side of the room. One corner had all the equipment set up in it, and another had a large square area cordoned off.
+
+“That's the mapping area, right?” Ren pointed to the cordoned off area.
+
+“You got it.” Stella said. “30 cameras are calibrated to scan and compile all the physical data for test subjects, and the main servers are there in the corner.”
+
+“Why isn't it boiling hot in here?” Ren asked.
+
+Stella smiled. “They're liquid cooled, just like a refrigerator.”
+
+“No way!” Ren looked at them intently. “You went all out, didn't you?”
+
+“I told you that I've been trying my whole life to make some kind of difference in the medical field.” She grinned and put a hand on his shoulder. “Thanks to you and your wonderful idea, I now have the resources to do that.”
+
+“Then warm up those scanners, woman!” Ren said and grinned at her. “Give me the mapping that I deserve!”
+
+Stella laughed and locked the wheels on the wheelchair, then went over to the main computer terminal. “It takes a minute or two to get everything ready.” She came back over to him and helped him stand up. “Let's get you undressed.”
+
+“What?”
+
+“I'm going to give you the mapping you deserve, just like you asked.” Stella said and smiled. “So strip.”
+
+Ren sighed and started to undress. “I just got dressed.” He said, and slid off his shirt and Stella went back to the terminal. Gloria came into the room with a large box that had three modded VR headsets in it. She walked right by Ren without seeing him, and went to the recliners. She took the headsets out of the box and set them up to be both easily accessible and also out of the way.
+
+Ren undid his pants and let them drop. At least it's a lot easier to get out of these clothes. He thought and walked over to the cordoned off area.
+
+“I'm ready.” Ren said.
+
+Stella looked up from the terminal, then walked over to him and put her hands on her hips.
+
+“What?” He asked.
+
+“You forgot something.” Stella said, and pointed to his underwear.
+
+“You want a full map then.”
+
+“Of course I do.” Stella said. Ren smiled and slipped the underwear off his hips. Since they were silk, they slid down his legs and hit the floor without stopping.
+
+“I can't bend over.” Ren grinned at her and touched his bruised chest. Stella rolled her eyes and knelt to get them. Ren stepped out of them and she picked them up.
+
+“Now stand still, okay?” Stella said. “This is going to take a minute or two.”
+
+“I understand.” Ren said. “Let me know when I can move.”
+
+Stella nodded and went back over to the terminal. Ren moved his legs apart slightly, and spread his hands out so that they could be mapped fully, too. He heard a slight whirring sound, and waited. The sound moved all around him; but he didn't see anything move. There were no flashy lights, or blue lasers, or any of the things he had expected.
+
+When they do things like this in movies and television shows, there's always some kind of visual component. Ren thought. Maybe that's all it is, visual so you can see that something is happening.
+
+After standing still for a few minutes, his legs started to get sore.
+
+“Is... is it almost done?” Ren asked, his voice a little shaky.
+
+“Almost!” Stella said. “Ten more seconds!”
+
+Ren took a shallow breath, and held it as he counted in his head. Stella left the terminal and came over to him. She held her arms out slightly, and when Ren reached 9 seconds in his head, the terminal beeped and Stella grabbed him without touching his bruised muscles. He collapsed into her arms, and she took all of his weight as she held him close.
+
+“You did great, Ren.” Stella said. “I knew you could do it.”
+
+“Anything... for you.” Ren said, slightly out of breath. Stella helped him walk over to the wheelchair, and helped him sit in it. She left him there, and went to the terminal to check the files.
+
+“Ha!” Stella said. “They're good! No bleed-through or out-of-sync calibrations!”
+
+“Thank the gods.” Ren said. “I don't know if I could stand still like that again if there was.”
+
+Stella typed furiously for several minutes, and Gloria went to a second terminal. She connected wires to the recliners, and typed furiously herself.
+
+Ren couldn't help himself as he felt envy. He reached down into the pocket of the wheelchair and used the hand gripper exerciser while they worked. He switched hands every few minutes and did another hundred squeezes.
+
+“Okay, I've got the file ready.” Stella said to Gloria. “It's in the same folder as mine.”
+
+“Great.” Gloria said. “Loading presets. The file's added.” She typed for another minute. “Okay, it's in.”
+
+“Excellent.” Stella said. “It's your turn, Gloria.”
+
+“Right.” Gloria said and started to strip. Ren watched her with wide eyes as she unselfconsciously undressed right in front of him; then gave him a spectacular view of her as she bent over to put her clothes on the recliner. His body reacted because of the sight, and when Gloria turned around to go to the cordoned off area to get scanned herself, she saw Ren as he stared at her.
+
+“Take a picture, it'll last longer.” Gloria said automatically, because that was what she always said to people that stared at her; then her eyes widened as she realized who she'd said it to. Ren was the only person she knew that didn't see her that way. She glanced down at him, and saw exactly what he thought about seeing her without her clothes. Ren wasn't trying to hide himself at all; but what Gloria didn't know, was that Ren had forgotten he wasn't actually wearing his clothes. He didn't realize that he should be trying to hide his excitement from her view.
+
+“I wish I could take a picture.” Ren said. “I mean... I've seen you without clothes before, but... damn.” He smiled. “I don't think I'd ever get tired of seeing you like that, and a picture would be awesome.”
+
+Gloria blushed, then she started to laugh. “You're horrible.” She said, and walked over to get scanned into the system.
+
+“It says your temperature is a little high, Gloria.” Stella said a moment later, when she looked at the terminal monitor. “Is everything okay?”
+
+“It's f-fine.” Gloria said, and tried her best not to stare at Ren. “Start the scan.”
+
+Stella started it, and Gloria stood still. It took a little longer for her scan, because she was a foot taller than Ren; but, it went by without a hitch. The terminal beeped and Gloria went back over to the recliner to get her clothes.
+
+“Geez, Ren.” Stella said. “You're not making this a safe workplace environment.” She chuckled. “Cover yourself up.”
+
+“What?” Ren looked at her, then down at himself. “Oh.” He said. “Hey, I seem to have misplaced my underwear.” He grinned. “Where the hell did they run off to?”
+
+“You're sitting on them.” Stella said, and helped him stand. “Look, they're right there.”
+
+Ren picked them up and looked down at his bruised chest. “I need help putting them on.”
+
+Stella sat him down again, and helped him slip the underwear on. The pajama pants were next, and Ren put the top on by himself.
+
+“How is the installation coming along Gloria?” Stella asked and walked over to the recliners.
+
+“Just about ready.” Gloria said. “Oh, I can't wait to try these babies out!”
+
+“You haven't already?” Stella asked, and Gloria shook her head.
+
+“No, I don't have access to these bad boys at home.” Gloria said and tapped the main servers. “Doing things like this over the net, even on a broadband connection, just isn't the same as accessing them directly.”
+
+“Have you tested the white room recalibration yet?” Stella asked. “I can't authorize all three of us going in without knowing it works properly.”
+
+“Yeah, I got that far.” Gloria said. “I made sure that every option was accessible, both physically and virtually.”
+
+“Thank you.” Stella said and walked over to Ren. She unlocked the wheelchair's wheels and rolled him over to the closest recliner.
+
+“I had Gloria pull your baseline stats, and averaged them out.” Stella said. “We only need to do the initial calibration for the new VR headset.”
+
+“Okay.” Ren said, and she helped him get onto the recliner. “I knew there was a reason why you didn't pack my headset.”
+
+Stella nodded. “Gloria modded these far beyond the discussion we had with her when we hired her.” She said and helped him put it on. “These are practically a new generation.”
+
+“No way!” Ren said, surprised. “Way to go, Gloria!”
+
+Gloria chuckled. “When I popped apart the 'new' headset, the first thing I noticed was that they still had the same chipset.” She shook her head. “They work great, but if we're really going to map the entire brain and try to find new pathways for motor skills...” She smiled. “They needed some serious reworking.”
+
+“You see?” Ren said to her. “I told you that you would be working on these in your spare time.”
+
+“Spare time, he says.” Gloria snorted a laugh. “I haven't slept in real life for 3 days.”
+
+“You did what I've been doing!” Ren said, as he caught on to what she meant. “You're sleeping in the game!”
+
+Gloria nodded. “I was so worried that I was running out of time every day, and I couldn't get everything done.” She smiled. “Then one of my bosses suggested I take a play from your rule book.”
+
+Ren chuckled. “You adjusted fast to the time difference, right?” He asked. “At first, I was like, 'hey, this is a new experience, but I need normal sleep.' Now I'm all, I gotta log in to get some sleep.”
+
+“That's me, too.” Gloria said. “Getting a full 8 hours of sleep in only 2 hours real time, has been a godsend.”
+
+“Tell me about it.” Ren said. “Getting to live so much extra time has been more fun than I ever thought was possible!”
+
+The room fell silent, and all that could be heard was the rush of coolant in the servers.
+
+“Sorry.” Ren said. “I didn't mean to kill the mood.”
+
+“It's all right.” Stella said. “It's just... I don't think any of us wants to think about that right now.”
+
+Ren nodded. “I'll just keep my happy and depressing thoughts to myself.”
+
+Stella chuckled. “I said it was all right.” She said. “You can say what you want. No one is going to judge you.”
+
+“I will.” Gloria said while she checked the terminal and the headset connections. “Okay, the initial calibration is done.”
+
+Stella took Ren's headset off of him, and Ren turned to look at Gloria.
+
+“Gloria, you...” Stella started to say.
+
+“Hey, I've got no qualms about telling him to shut up.” Gloria said. “Especially if he talks about his possible and impending death.”
+
+“Gloria.” Stella frowned.
+
+“I'll even tell him right to his face.” Gloria said and looked right at Ren. “If you try to play the sympathy card, I'll kick your ass and make you feel really sorry for yourself.”
+
+“Thank you.” Ren said.
+
+“Wh-what?!?” Gloria exclaimed. “You're not angry at me for that?” She asked, surprised. “Most people would be cursing their heads off that I was taking things too far, for someone in your... delicate... condition.”
+
+“I'm not most people.” Ren laughed. “I'm glad you can look past all of this...” He motioned to his body. “...and then treat me like a human being.” He grinned. “I'm tired of being treated like it's a medical miracle that I'm still alive.”
+
+“That's what I think, too.” Gloria said. “You could die in a few minutes, or you could die 10 years from now.” She said. “Crying 'boo-hoo, poor me' about it isn't going to help you at all.”
+
+“That's why I never do that.” Ren smiled as Stella helped him get back in the wheelchair. “I'm going to live my life, and I'm gonna have fun doing it.”
+
+Stella was about to comment, then the cell phone rang. She took it out of her pocket and looked at the caller ID.
+
+“It's Barbara.” She said, and answered it. “Hi, Barbara.” “Yeah, he's right here.” “Uh huh.” “Yes.” “You're kidding.”
+
+Stella was quiet for almost a full minute.
+
+“That's great!” “Yeah, I'll tell him.” “Uh huh.” “Okay, thanks for calling.” “See you tonight.” Stella said and hung up the phone. “You're never going to guess what happened.”
+
+“I got the house!” Ren nearly yelled, and Stella's mouth dropped open.
+
+“How in the world did you guess that?” Stella asked. “The bank isn't going to be open until Monday.”
+
+Ren laughed. “Barbara warned us last night that her sister wouldn't be able to keep her mouth shut for long.”
+
+“That's what Barbara said on the phone.” Stella laughed, too. “Then something about counting chickens before they're hatched.” She shook her head. “She's got some odd phrases for things in her head.”
+
+Ren grinned. “She sure does.”
+
+“What house?” Gloria asked, and let her curiosity get the better of her. Ren told her all about it, and then used the cell phone to find the listing to show it to them.
+
+“Ren!” Stella said. “What were you thinking?”
+
+“I was thinking I needed to find a place to live.” Ren said. “The temporary care facility is just that. Temporary.”
+
+“But... but this...”
+
+“Should fit my needs, and then some.” Ren said. “It's even got a pool.”
+
+“And a sauna!” Gloria said after she took the phone and looked through the details of the listing. “Oh my god!”
+
+“What is it?” Stella asked.
+
+“Did you look at the price?” Gloria handed her the cell phone.
+
+“That... that can't be right.” Stella said, surprised.
+
+“It is.” Ren chuckled. “The best part of it is, Elise's friend is the VP of accounts at the bank.” He said. “Also, Barbara's sister is the real estate agent.”
+
+“Oh, wow.” Gloria said when she'd taken the phone back and kept looking at the details. “It's almost as big as my apartment building!”
+
+“I wonder if we can pop over to look at the place?” Ren asked.
+
+“Not right now.” Stella said. “I've got to get you fed, and then we have to work.”
+
+“You're such a slave driver!” Ren said. “I know when to listen to reason, though. Let's get some grub in me, so I can find out what you need me to do.”
+
+Stella pushed the wheelchair into the kitchen, to an already waiting breakfast.
+
+“Stella!” Ren said loudly. “You didn't!”
+
+Stella laughed as she handed him the still warm plate of eggs and toast. Sitting on top of it, were three of the biggest strips of bacon Ren had ever seen.
+
+“Thank you so much!” Ren said and shoved one of the pieces of bacon into his mouth. “Oh, baby!” He said as he chewed on the greasy goodness.

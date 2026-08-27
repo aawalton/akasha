@@ -1,0 +1,333 @@
+---
+id: 4e85602e-892f-51f2-8a84-68a9c9fcff98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 349 - A Slight Grievance"
+slug: 0342-chapter-349-a-slight-grievance
+partOf: mythrans-master-of-all-continued-completed
+position: 342
+ownLength: 3769
+unit: words
+publishedAt: 2017-09-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159272/chapter-349-a-slight-grievance"
+royalRoadId: "159272"
+---
+
+Ren and Catalina did the same technique to go home as they did on the way to the capital. Ren kept casting Haste on the horses, and they would stop after every second spell to feed and rest the horses. Ren was tempted to use Energize on them to refill their Stamina, but he didn't want them to get used to the feeling. If they did, they would probably expect it every time they ran for long distances.
+
+They made it back to Aurora 5 hours later, and Catalina drove into the city to drop Ren and Railyse off. Ren had protested and said that they could walk back from the stable, just like they had walked to the stable; but Catalina said she was going through the city anyways and dropping them off wasn't a hassle at all. Ren knew this was true, because she was within the area of effect for Railyse's Amulet of Truth, so he relented and let Catalina drop him and Railyse at their house.
+
+“Thanks a lot for today.” Ren said and handed Catalina a platinum coin.
+
+“What's this?” Catalina asked and looked at it.
+
+“It's a fancy new toy.” Ren said and grinned. “Spin it for fun, then trade it for goods when you're bored of it.”
+
+“Ren...” Catalina said and tried to hand it back. “You can't give me this much.”
+
+“How much do you want?”
+
+“Nothing.”
+
+“You just spent an entire day away from your stable to drive me and my friend around the capital city.” Ren said. “Any other driver would accept a generous tip.”
+
+“A tip?” Catalina said. “It's not payment?”
+
+“Jen told me that you have to give me fair use of your horses and carts, because of your free rent of the stable and use of the land.”
+
+“Oh, damn.” Catalina said and smiled. “You know I rigged the bet we had.”
+
+Ren chuckled. “Yeah, you fooled me good with that one.”
+
+Catalina chuckled and held the coin out to him. “I still can't accept this.”
+
+“I'm going to need another ride there in three months, assuming they don't need the Ambassador before then.” Ren said. “You can keep that as a retainer.”
+
+Catalina shook her head and slipped the coin into her coin pouch. “See you later, Ren.”
+
+“Probably.” Ren said. “I'm going to need a caravan to carry some of the construction materials out to my county after all the houses have been built.”
+
+Catalina nodded. “I'll look forward to it.” She said. “By the way, I'm still going to inspect your stable before the horses are delivered.”
+
+“Do I even have to ask why?” Ren smiled.
+
+“No.” Catalina smiled back and flicked the reins a little to get the horses moving. “Bye, Ren.”
+
+“Bye, Catalina.”
+
+Catalina waved to Railyse and she waved back, and the carriage drove down the street and around the corner.
+
+“Her sweat glistens for you.” Railyse said to Ren.
+
+“What's that old saying about forbidden fruit?” Ren asked her and smiled. “It has the most succulent juices or tastes the sweetest?”
+
+Railyse smiled and gave him a quick hug. “I've got to get to my room and see how my new little friend is doing.”
+
+“I better go and see Anabelle myself.” Ren said. “I'm tempted to just go to bed and get a few more hours sleep, but she only saw me for like a minute this morning.”
+
+“See you in the morning.” Railyse said.
+
+“Goodnight.” Ren said and watched Railyse go into the house, then ran down the street around the corner, and left the Housing District and ran over to the Artesian District. He went to his business and saw there were a couple of customers inside. He went inside and gave Anabelle a little wave, and helped deal with the customers. When they were done, Anabelle ushered the customers out of the shop and locked the door. Ren took out the step ladder and climbed up it to give her kiss. They stayed that way for 30 seconds or so, then Anabelle broke the kiss and looked at him.
+
+“I'm really glad to see you.” Anabelle said. “But I have a question.”
+
+“What is it?”
+
+“Why are you wearing your armor?”
+
+“Hm?” Ren looked down at himself and chuckled. “I forgot I was wearing it.”
+
+Anabelle laughed. “Only you could forget you're wearing full plate armor while just walking around.”
+
+Ren stored it, and thought about equipping his clothing again, but then shrugged and took her in his arms and kissed her again. Anabelle reacted to feeling his body through his bodysuit, which was only a thin protective fabric, and she moaned as she ran her hands over him. She touched him as much as she wanted, and Ren didn't object in the least; but, the bodysuit denied actual skin contact, and that kind of flipped her switch.
+
+So close and yet so far. Anabelle thought and gripped his backside through the cloth. Ren felt she was quite enthusiastic in her actions, and he opened her suit top to reveal the blouse underneath. He grabbed her breasts with both of his hands and massaged them, and Anabelle moaned into his mouth as she massaged his backside just as much.
+
+Ren broke the kiss a few minutes later, and let her breasts go. “We have to draw the curtains closed.”
+
+Anabelle sighed and let his backside go. “All right.” She said and walked over to the first window and pulled on the tie that held one side closed. Ren hopped off the step ladder and stored it, and followed her. When she reached up for the other curtain to close it, he knelt on the floor between her legs and ducked under her skirt.
+
+“R-Ren!” Anabelle said and her hand pulled on the tie to close the curtain. It fell behind her and she pressed her face and hands against the store window to brace herself. “Oh, god.” She said and stayed there for almost 10 minutes. Several people walked by the shop window and waved to her, and she barely moved her hand in response. “OH GOD!” She said and went.
+
+Anabelle's legs couldn't hold her up anymore, because it had hit her so hard, and she slid down and out of sight from the outside. Ren caught her easily and cradled her against his chest, and she blinked her eyes at him several times to try and focus on his face.
+
+“Oh, Ren.” Anabelle said and cupped the side of his face. “You always know just what to do.”
+
+Ren turned his head and kissed her hand, then turned back and gave her a kiss on the lips. “I'm glad you liked it.”
+
+“Liked it?” Anabelle asked, gripped the back of neck, and kissed him hard. Ren could feel the desperation in her touch, and he gave as good as he got. She ended the kiss a little breathless and panting, and laid in his comforting embrace. “If I'd known you would do all of this for me when we met all that time ago...”
+
+Ren chuckled. “I wouldn't have done it then.”
+
+“Wh-what?” Anabelle said, shocked.
+
+“It's taken a lot of other things to happen in my life to get me to this point.” Ren said, and gently stroked her cheek. “It's the same for you, isn't it? You've gone through a lot to get to this point, too.”
+
+Anabelle took in a deep breath and sighed. “You're right.” She said. “I shouldn't think about what could have happened back then.” She reached up and stroked his cheek in return. “I should concentrate on what's happening right now.”
+
+“Which is me having to go.” Ren said.
+
+“Wh-what?”
+
+Ren chuckled and gave her a quick kiss. “I only had a short time before I had to leave for Adventurer's business.”
+
+Anabelle looked at him with wide eyes. “But... what about your turn?” She asked and touched him below the waist. “I can't have you do something like this for me, and not do it for you, too.”
+
+“It'll have to wait.” Ren said and stood up with her in his arms. She had to move her hand and held onto him by putting her arms around his neck. “Plus, you know I enjoy giving you kisses like that.”
+
+Anabelle tucked her head down and nuzzled his ear, and Ren walked with her through the shop. She opened the door for him, and he took her up to the third floor and into the apartment.
+
+“You're really not going to let me...” Anabelle said.
+
+“No.” Ren said and tossed her on the bed, and she gave that little yip of surprise. “You'll have to wait.”
+
+“But...”
+
+“I said no!” Ren said sternly, and she ducked her head. “You will wait patiently for me, and if I come back... I might let you kiss it.” He said. “Maybe.”
+
+“R-Ren...” Anabelle said, her face flushed red. Ren grabbed her ankle and pulled her across the bed and picked her up.
+
+“Kiss me now!” Ren ordered her, and she kissed him. She moaned at his forcefulness, and he pulled her away to break the kiss, and dropped her back to the bed. He turned around and left the apartment without another word.
+
+*
+
+“Oh, god.” Anabelle whispered as she gripped herself, and rolled over on the bed. “Oh, GOD!”
+
+Anabelle shivered and shook as she pleased herself. He really does give me everything that I need. She thought and kept moving her hands vigorously. I want him so much!
+
+*
+
+Ren went out the back door and equipped his Travelling Clothes. Teepo? How's my time?
+
+“You've got half an hour to eat supper with the maids before you have to leave.” Teepo said.
+
+I'm cutting it close, then. Ren thought and ran back to the Housing District. He went into the house and made a quick supper for everyone, brought Princess in her share, then went upstairs to spend time with the maids. They ate the meal together, he kissed them all goodnight, then laid down on the side of the bed and out of their way after taking off his Dire Wolf Hooded Cloak. Teepo took up his regular sentry position on the ceiling, and Ren smiled at him.
+
+See you in a bit. Ren thought. “Logout.”
+
+********
+
+Ren didn't spend a lot of time eating supper, since it was one he'd had before and it wasn't a surprise. It was beef barley soup with a piece of thick bread, and a supplement drink. When he was done, he slid the empty bowl away and looked at Denise.
+
+“Thanks a lot.”
+
+“For what?” Denise asked and took the tray away.
+
+“For not trying me with two new things on the same day.”
+
+Denise chuckled. “I know your tolerance for things like that.” She said, and put a hand on his arm. “Don't worry, okay? We're not going to push all new things on you right off the bat.”
+
+Ren sighed and took her hand. “That is a bit of a relief.” He said, and kissed her hand. “I'm probably staying in tonight, so let Barbara know.”
+
+“She already knows.” Barbara said as she came into the room.
+
+“Isn't it a sign of someone starting to lose it when they start talking about themselves in the second person?” Denise asked, and Barbara laughed.
+
+“No, that's third person.” Barbara said and fluffed Ren's hair. “Barbara misses her little man.” She said. “Barbara loves you.”
+
+Ren laughed. “Ren loves you, too.”
+
+Barbara fixed his hair and handed him the VR headset. “Don't have too much fun, okay?”
+
+“Like that's possible.” Ren said and grinned. “How's the house?”
+
+“It's a complete mess!” Barbara said and lifted her arms in the air. “Boxes and things everywhere!” She crossed her arms and looked at Ren with a stern expression. “It's all your fault, too.”
+
+“My fault?” Ren asked, then gasped. “Oh, no! I shouldn't have given you the house!” He said and laid back on the bed and put an arm across his face to cover his eyes. “Woe is me! I'm too generous with the people I love!”
+
+Denise and Barbara laughed.
+
+“Come on, you over-actor.” Denise said. “Get in there and get some sleep.”
+
+“I definitely need it.” Ren said. “Boy, oh boy... the last few days have been doozies!”
+
+Barbara looked at Denise with a question on her face.
+
+“It was quite the adventure.” Denise said. “I'll give you the details in a minute.”
+
+Barbara nodded and looked at Ren. “See you in the morning.”
+
+Ren slipped the VR headset on and relaxed.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed to a familiar sight. He didn't think he'd been gone long enough for the maids to tangle themselves up so much, and he let his wonderment at the knot they were in flow into the shared Aura.
+
+“Ren?” One of them asked. It was muffled by the pile, and he couldn't tell who it was.
+
+“I'm trying to figure out how you tied yourselves up like this, so I can slip into the pile without hurting anyone.” Ren said and stored his clothing. It left him in just his underwear, and he heard a short bark of laughter.
+
+“Hold on... we'll... ugh, just a second.” The pile shifted a little, then a hand reached out. “Here, pull.”
+
+Ren chuckled and took the hand. When he pulled, Frikara slid out of the pile and it kind of collapsed in on itself.
+
+“You were holding it all up?” Ren asked her, and she nodded.
+
+“I kind of take your place when you're not here.” Frikara said.
+
+“Thank you.” Ren said and gave her a kiss.
+
+“What are you thanking me for?” Frikara asked. “I'm not complaining. You can thank me like that whenever you want.”
+
+Ren smiled a knowing smile and took her into a hug. “You're keeping everyone together and happy.” He said. “I know I haven't been spending enough time with you all lately, and I appreciate what you're doing.”
+
+Frikara kissed his cheek. “You've spent more time with us than I ever thought you would.”
+
+“Really?” Ren asked, surprised. “I mean, I really do think I'm ignoring you a little too much...”
+
+Frikara put a hand on his chest and snuggled in, and pressed her breasts to his side. “We didn't expect you to even look at us for at least the first month, let alone talk to us on a regular basis.” She said. “Then you gave us rings to communicate with you whenever we wanted.” She sighed. “You're going so far above and beyond what we-” She stopped speaking and looked at him. “I'm sorry. I don't mean to make us sound like we thought you were going to treat us badly.”
+
+Ren squeezed her a little. “If your only experience under a contract was with that idiot Throgg, I'm a little surprised that one of you hasn't tried to strangle me in my sleep.”
+
+Frikara snorted a laugh, and Ren grinned at her. Amusement from the both of them flooded into the shared Aura.
+
+“Wha.... so... funny...” One of the other maids mumbled.
+
+“Nothing.” Frikara said and put a hand into the pile. “Go back to sleep.”
+
+“...kay...”
+
+Frikara left her hand there for a few moments, then took it out and put it back on Ren's chest. “Goodnight.” She said and gently rubbed his chest muscles.
+
+“Goodnight.” Ren said, and drifted off to sleep.
+
+********
+
+“He did what to the king?!?” Barbara asked, and Denise pulled up the footage on the laptop to show her what had happened. “Why did he... oh, hell.” She said and looked at Ren. “He's starting to not care about the rules.”
+
+“It was the king's fault.” Denise said, and explained that he had led Ren on about the whole situation.
+
+“That's pretty sneaky for a character in a game to do.” Barbara said. “I'm a little surprised, actually.”
+
+Denise chuckled. “You're surprised?”
+
+Barbara grinned. “I guess he's just experiencing everything the game can offer.”
+
+Denise snorted a laugh and looked at the blue screen on the television. “He sure is.”
+
+“He said he wasn't going to have sex with them until he talked to the others.” Barbara said. “I'm not sure who he meant by others, though.”
+
+Denise laughed. “Yeah, did he mean his virtual playmates or his real life ones?”
+
+“It's hard to say.” Barbara said. “Sometimes I'm not sure if it even matters to him.”
+
+“What? You mean real and not real?”
+
+Barbara nodded. “He's had such a hard life before all of this.” She said and touched his hand. “The game unlocked a whole new world for him; but, it's been getting more complicated and in-depth than anything we've seen before.” She took her hand back and sighed. “If he had to choose just one to live in for the rest of his life, I honestly don't know which one he would pick.”
+
+Denise opened her mouth to say that he would pick the real world without question, then she thought about how much time he spent in the virtual world, and all the things he could do there that he physically couldn't do in the real world.
+
+“Neither do I.” Denise said, reluctantly.
+
+*
+
+Gloria climbed out of the shower after another long shift at the garage, and dried herself off with a towel. She slipped on a bathrobe and took the towel with her, and prepared for what she hoped would be a good long night of fun with Ren.
+
+I can't wait to tell him I graduated! Gloria thought as she sat down on her old recliner. Despite having a lot of ready cash, thanks to her last paycheck from Stella and the medical research grant, she didn't replace the old and comfortable chair. I get to pick up my diploma tomorrow, too!
+
+Gloria put the towel between her legs in anticipation, put on her heavily-modified VR headset, and laid back to enjoy herself.
+
+“Flow Login Start.”
+
+********
+
+Elerlyth woke up on the bed in the bedroom of Ren's third floor apartment above the shop, and looked around. She equipped her clothing and got up, and wondered where he was. According to Stella, he was supposed to be back in Aurora.
+
+“Ren?” Elerlyth asked and opened the bedroom door. She saw that Anabelle was asleep on the bed in the living room, and she reached over and shook the sleeping woman. “Anabelle! Where's Ren?”
+
+“What? Who?” Anabelle rolled over and looked at Elerlyth, “Oh, it's you.” She said. “He's gone to the house.”
+
+“To the... what house?”
+
+“You've been gone for a while.” Anabelle laughed. “A few things have changed around here.”
+
+“Like what?” Elerlyth asked.
+
+“A fire elemental lives in the kitchen now.”
+
+“WHAT?!?” Elerlyth yelled and turned to look in the kitchen. Sure enough, the place was lined with paving stones and there was a section filled with fire. “What the hell?”
+
+“Her name's Zetaya, and she's Ren's.” Anabelle said and sat up on the bed. “His mount Princess was staying there, but she has her own room in the new place.”
+
+“What new place?” Elerlyth asked.
+
+“He owns a big house in the Housing District.” Anabelle said. “I'm tempted to tell you who he's there with, but I think I'd rather let you see that for yourself.”
+
+“You don't have to be such a bitch about it.” Elerlyth said.
+
+“Neither do you.” Anabelle said. “But that's how you've always acted around me.”
+
+“That's because you're a-” Elerlyth stopped herself before she said anything else, and Anabelle smiled.
+
+“The new house is right in the middle of the Housing District, so you can't miss it.” Anabelle said and laid back down. “Don't let the door hit you on the way out.”
+
+Elerlyth was going to respond hotly to her comment, then shook her head and left the apartment. She went downstairs and out the back door, just so she wouldn't have to go through the whole shop to get outside, and she walked at a fast pace down the street and over to the Housing District. When she got there, she stared at the huge house. It filled the lot it was in, right up to the edge of the property. It was also two stories tall, unlike the other two houses in the district.
+
+Elerlyth walked up to it and looked at the door. She didn't have a key for it, and she knew it would be locked. She was tempted to pick it, but she was pretty sure she'd be caught and charged for it, since there was literally no cover at all from being seen. She sighed because she wouldn't have even contemplated what she was about to do next, before she had met Ren. She raised a hand and knocked on the door.
+
+A moment later, she heard feet coming towards the door; and she opened her mouth to tell Ren the good news that she had... and froze. Some kind of water being that she'd never seen before, with translucent skin and swirling water currents underneath, stood in the doorway.
+
+“(bubble) (gurgle)?”
+
+“Wh-what?” Elerlyth said, surprised that the thing had just gargled it's throat at her.
+
+“Oh! Sorry.” Railyse said. “I sometimes forget to speak properly.”
+
+“Wh-what?!?” Elerlyth said, even more surprised that it could speak so well.
+
+“Can I help you?” Railyse asked.
+
+“R-R-Ren...” Elerlyth managed to get out.
+
+“He's upstairs in bed with the maids.” Railyse said. “Maybe you should come ba-hey!”
+
+Elerlyth slipped past her and ran up the stairs. In bed with the maids?!? She thought, incredulous. Not a maid! Maids! She got to the top of the stairs and opened the first door she came to, and lucked out that it was the main bedroom. Inside was 5 large cabinets, several dressers, and an extra large bed. On the edge of that bed was Ren, and he held a really short woman in his arms. The two of them laid beside a pile of other short women, and Elerlyth couldn't tell how many there actually were because they were so tangled up.
+
+Elerlyth stalked over to the bed and looked down at him. He looked so peaceful while he was asleep, and she thought he didn't deserve a peaceful sleep for sleeping with so many women like that.
+
+He didn't even bother telling me before doing it! Elerlyth thought, angrily. She leaned over him and hauled her hand back.
+
+“REN!” Teepo yelled.
+
+Elerlyth formed a fist that glowed a little, then punched him right in his peaceful face.

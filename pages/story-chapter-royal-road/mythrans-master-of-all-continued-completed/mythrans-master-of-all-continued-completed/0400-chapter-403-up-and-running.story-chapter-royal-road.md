@@ -1,0 +1,309 @@
+---
+id: c266abf9-78d7-50cc-98e4-6ee5f17d7b87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 403 - Up And Running"
+slug: 0400-chapter-403-up-and-running
+partOf: mythrans-master-of-all-continued-completed
+position: 400
+ownLength: 3339
+unit: words
+publishedAt: 2017-10-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170687/chapter-403-up-and-running"
+royalRoadId: "170687"
+---
+
+It was nighttime in the High Elven Kingdom, and within it's borders something stirred. In the small city of Hachshall, a pale white face passed between two buildings and dove into the safety of the shadows. The ghoul had been as cautious as it could; but, once it was above ground there wasn't a lot of safety for it to find. It heard a rustling sound beside it and darted from it's hiding place and out into the street, then was impaled with a long spear through the chest. It screeched, and the High Elf Guardsman had to cover his ears.
+
+“That's the thirteenth one tonight.” He commented, pulled his sword from it's scabbard and decapitated the ghoul. It's screech died with it, and he looted it to get rid of the mess. He almost laughed at the few copper coins it's corpse had left behind, and walked away without picking them up.
+
+“Johant! Where are you? You're supposed to be...” He heard several screeches and held both weapons at the ready. “Great Vasalor.” He whispered as a horde of ghouls swarmed out of hiding towards him. “For the KING!” The Guardsman yelled and threw his spear, then swung his sword in a futile attempt to stem the flow of undead creatures.
+
+*
+
+Ren and Jennifer had a good time with only very light bondage play for their first dance, and came out of her work room into an empty club.
+
+“There's still no one.” Gina, the Manager said. “We've been open for an hour already, and nothing.”
+
+Ren reached a hand out and touched Gina's hand. “Despite what you may think, it takes time to travel places.” He said, and she chuckled. “You only sent the notice out earlier today. If the men are coming, they'll be here.”
+
+“Ha!” Jennifer said. “You're punny!”
+
+Ren chuckled. “Okay, that came out wrong.”
+
+“Ha!” Jennifer said. “Still puntastic.”
+
+“You're in a great mood.” Caramel said as she walked over to them.
+
+“That's because this guy-”
+
+“...has somewhere he needs to be right now.” Ren said to cut Jennifer off. He turned to her and she let his arm go. “Thank you for giving me the first dance.” He said and gave her a formal bow with a bit of a flourish. “Fear not! For I go with a light heart and a soaring spirit, and it's all thanks to your delicate ministrations.” He took her hand and gave the back of it a light kiss. “Farewell, sweet damsel! Parting is such sweet sorrow!”
+
+“Somebody took acting lessons.” Caramel said and Ren gasped.
+
+“Hark! Does thou fair lady question this mortal's sincerity?” Ren asked. “You wound me deeply, Madam!”
+
+“I think Jennifer took care of that already.” Caramel chuckled. “You look fine, though.”
+
+Ren felt her concern, and he took her hand. “Madam, both I and Little Ren thank you for thinking of us.”
+
+Jennifer laughed. “Wait until I tell you about 'little' Ren!”
+
+“Now I really have to get out of here.” Ren said, and that made all three women laugh. “Keep your hopes up! There's not a man, and probably a few women, that won't want to come here to check this place out.”
+
+“I'll walk you out.” Gina the Manager said.
+
+“Bye, Ren!” Jennifer said. “I'm never going to forget what you did for me!”
+
+“Me, either.” Ren said and smiled. “Bye, Jennifer.”
+
+Gina walked with Ren to the front door. “I don't think I've ever seen her so happy.” She said and opened the front door.
+
+“I'd like to say that I did my best, but we had to stop when we ran out of time.”
+
+“Wh-what?” Gina blinked her eyes at him, and he felt her surprise. They were in there for two hours!
+
+“Even with Sugar covering for her, I still couldn't do what I wanted.” Ren said and stepped out of the Pleasure Palace. “Bye, Gina!”
+
+“B-b-bye, R-Ren.” Gina said and Ren smiled when he felt a bit of desire from her. He gave her a little wave, and she wiggled her fingers at him as the door shut. Ren dismissed the popups for leaving an Adult Only area and for the Blue Screen Protocol being disengaged. He walked to the road and saw several men wandering around the Main House and the other closed businesses, and he smacked himself in the head.
+
+Ren took out enough wood to make a nice large sign and enchanted a design on it. It was just the words 'Pleasure Palace' in fancy lettering with two Illumination runes integrated into it so it would stay lit constantly. He used stone bricks to make an archway on the roadside over the driveway to the parking lot and mounted the sign to the top of it.
+
+That reminded him that he could make an artificial Aura around the building to grant XP bonuses when you worked for the business, and he took out a handful of steel squares and enchanted them with the Pleasure Palace design. He ran over to the front door and touched the steel square.
+
+“Let me in, please.” Ren said, and the door opened right away.
+
+“You're back!” Jennifer said when he ran inside.
+
+“There's a bunch of guys wandering around outside.” Ren said, and a cheer came from the gathered dancers.
+
+“You came back to tell us that?”
+
+“No, I forgot to set something up.” Ren said and walked around and mounted the enchanted steel squares on the weapon plaques, and when they were all set up, he activated them. The Pleasure Palace Aura popped into existence and one of the girls gasped.
+
+“What the hell is that?”
+
+“That is the Pleasure Palace Aura.” Ren said and grinned. “Please equip your cloaks.”
+
+No one questioned him and equipped their cloaks, and Ren enchanted each of the diamond brooches with the Pleasure Palace design and a single Illumination rune to make them glow.
+
+“That's so pretty!” Sugar said.
+
+“It's much more than that.” Ren said. “As long as you are within these walls, you'll get XP for working for the business.”
+
+“WHAT?!?” Several of the girls gasped.
+
+“It's something I discovered while I was in the Dwarven Lands.” Ren said. “Now you can have fun, enjoy yourselves, make money, and earn XP.”
+
+“I think I love you!” Gina the Manager said, and Ren chuckled because he felt that she wasn't serious.
+
+“Does that mean I can turn you on now?”
+
+“Nope! You're still firmly in friend only territory.”
+
+Ren laughed. “Now I really have to go.” He said. “You might want to stand by the door for this.”
+
+Gina came with him and stood on the outside of the front door, and Ren ran over to the archway by the road and activated the sign. It lit up the night like a spotlight and joined the artificial Aura of the Pleasure Palace.
+
+“There it is!” A man's voice said and ran over to Ren. “It's hard to see with no lights around here.”
+
+“Don't worry, I'll make some street lights.” Ren said. “I keep forgetting that people can't see in the dark.”
+
+The man laughed. “Me, too! I've lost count of how many times I've had to turn back from a quest to go buy more torches!”
+
+Ren grinned at him. “Hey, stop talking to me! The girls are waiting!”
+
+“Right!” The man turned and hollered “Guys! GUYS! Over here!”
+
+A group of 6 men ran down the street towards the man and saw the sign.
+
+“Pleasure Palace, huh?” One of them said. “I hope it's got some good stuff!”
+
+“If you mean sweet and strong ale to drink and stew to eat, it does.” Ren said. “If you mean sexy girls that are gonna blow your mind, then it definitely does!”
+
+“Fukin' A!” The guy said, a little slurred. “Let me at 'em!”
+
+“Just be good to them!” Ren said as the group walked passed. “The bouncers are watching!”
+
+When the group arrived at the door, they received the popups for Adult Only and Blue Screen protocol, then a warning. Ren smiled when one protested that he always wears armor, and Gina told him that he needed to store it or he wasn't allowed in.
+
+“Who are you to tell me what to do?” The man asked.
+
+“I'm the Manager.” Gina said. “This is my place and my rules. Either you follow them or you're out the door.”
+
+The guy stepped close and loomed over her. Gina faced off with him and didn't back down.
+
+“Tell me you dance.” The guy said.
+
+“Only on stage.” Gina said. “Nothing private.”
+
+“Is touching allowed?”
+
+“Only if I like you.” Gina said.
+
+“Do you like me?” The guy said in a low voice.
+
+Gina gave him a crooked smile. “Maybe.”
+
+The guy grinned and held out a silver coin. “First call?”
+
+Gina took the coin and nodded, and the guy equipped an old set of Travelling Clothes.
+
+“This is going to be fun.” The guy said and followed his friends inside. “Geezus, look at this place!” He said. “Those are real weapons and shields mounted on the walls!”
+
+Gina looked over at Ren, and he gave her a 'thumbs up' gesture. She smiled at him, and then he heard a cart and horse coming down the road.
+
+“We made it!” A guy said. “I hope they have something to eat!”
+
+“They do.” Ren said and pointed. “Beef stew and the best ale in the county.”
+
+Three guys in the back cheered, and the cart went under the archway and parked in the parking lot. The driver tied off the horse, and the 4 men went to the front door. No one complained about storing armor, and they went inside to get a hot meal.
+
+Ren could feel how happy Gina was that they had several customers, and then the music started up. He gave her a little wave and ran over to the warehouse and the giant forge. He discovered that Tee-one and Ruck had continued to work and made steel muscle men for the two hours Ren had been gone, and already had 240 of them done. That was one every 30 seconds, and Ren looked at Tee-one's hands. They were scorched but not really damaged, and he smiled.
+
+“My own resistance is going up.” Tee-one said.
+
+“Nice.” Ren said. “I need 2 dozen street lights.”
+
+“Cheat.” Tee-one said. “Alter the Instant Tower recipe.”
+
+Ren chuckled and opened the recipe, stripped everything out of it and left only a single metal post, and altered it to be a street light on the top. It only required a single iron ingot of any quality and Ren added a glyph of 5 Illumination runes. He saved the recipe as Street Light, then activated his Craft Wondrous Item ability. He added one ingot and 50 Mana, and a tiny little cube that could barely be seen was made barely a second later.
+
+“That's ridiculous.” Ren laughed and picked it up. It was only a quarter of an inch wide. “Maybe I'll make a line of them instead.” He altered the recipe to make 6 street lights in a line instead of just one, and it only took 2 iron bars. “So, recipes can only take 1 iron bar or more, and not a half or a quarter iron bar.”
+
+“Now we know both the biggest and smallest things that can be made with that ability.” Tee-one said, and Ren made the recipe twice. He made another single street lamp to match the first, then went out to the road. He put the cubes of 6 lights where he wanted them on either side of the road and spoke the command word. The street lights popped into existence and were already lit, and he ran over to the Main House and put the two single street lamps on either side of the front door. He activated them as well, and they popped out and were already lit. He ran back to the warehouse and looked at the piles of steel muscle men.
+
+“Take a break from making them and build an Inn, a Barracks beside the Main House, and a Cafeteria.”
+
+“What about the other businesses?” Tee-one asked.
+
+“If you've got the time, maybe a small school.” Ren said. “We should hold off on the blacksmith and tailor shops until we can find out the extent of the people's skills.”
+
+Tee-one nodded. “We haven't gotten any new furniture orders in a while.”
+
+“That's because you're too good of a worker.” Ren said. “The second floor of the business is still about three quarters full.”
+
+Tee-one smiled. “I could say that I was bored and kept busy, but we both know I like working.”
+
+Ren chuckled. “Just as much as I do, my friend.” He said. “I'll see you both tomorrow.”
+
+“Goodnight.” Tee-one said and Ruck waved. Ren waved back and ran over to the Main House.
+
+“Hello, Princess.” Ren said and bowed to her.
+
+Hello, My Lord. Princess thought to him. Do you have a meal for me?
+
+“Only the best for my Princess.” Ren said and took out a plate with a 2 inch thick steak, a bed of potatoes and thick beef stew on top.
+
+Thank you. Princess thought and gave his cheek a very small lick with the tip of her tongue.
+
+“What? No slobbering?” Ren asked and Princess huffed.
+
+You always joke when I do that.
+
+Ren reached out and pat her neck. “That's because it's usually funny.” He said. “I'm sorry if I hurt your feelings.”
+
+You didn't. Princess thought. I was just being more cautious about it today.
+
+“Well, thank you for that.” Ren said and scratched her chin. “Also for every other lick you've given me.”
+
+You don't resent it?
+
+Ren chuckled. “You're showing me affection, and I wasn't sure you even liked me at first.”
+
+I didn't. Princess thought and started to eat. I only tolerated you.
+
+Ren laughed. “That's what I thought.”
+
+We have had great adventures together since then, and I learned that you deserve my devotion.
+
+“I'd rather just have your friendship.” Ren said. “But... I'll take anything you have to offer.”
+
+Good. Princess thought and finished eating. You have it whether you want it or not. She stood up to her full height and exuded confidence. Let us go.
+
+Ren led her outside and climbed up onto her saddle. “I still can't believe how fast you can go now, and I was the one that did it.”
+
+“Me, either.” Teepo came in for a landing on Princess' helm. “It's just too stunning to enjoy properly!”
+
+Ren laughed and Princess brayed a little, then she trotted out onto the road.
+
+“There's going to be traffic, so we need to be careful.” Ren said. “Quarter speed until we're on open road.”
+
+Princess ran and blew past the rest of the town instantly and weaved in and out of people walking, a couple of carts, and a few men on horses.
+
+“Wow, there's even more traffic than I thought.” Ren said. “I hope the girls will be okay.”
+
+“You saw how Gina handled that big guy.” Teepo said. “They're going to be just fine...” He chittered in laughter. “...and really, really busy.”
+
+Ren snorted a laugh and both Princess and Teepo saw a long open stretch with no traffic.
+
+“We're clear!” Teepo said, and Princess ran. “Wheeeeee!”
+
+They made it to the turnoff that went to the capital city only a couple of minutes later. Since it was nighttime, there was no traffic coming or going from there, so Princess didn't slow down at all and made it to the West Gate of Aurora a minute later and then had to slow down. She couldn't make the turns in the city at full speed anyway, so she only trotted through the West Gate and around the streets towards the Housing District.
+
+They came to a stop in front of the house and Ren climbed down. He opened the front door and let Princess inside, and she went to her room and plopped down onto her mattress.
+
+“I'm going back out to the county for a bit tomorrow.” Ren said. “I need to get the cafeteria up and running, and make sure everyone is getting proper meals when they want it.”
+
+I will stay here until you need me again. Princess thought to him. Goodnight.
+
+“Goodnight, Princess.” Ren said. “You too, Riley and Stacy.”
+
+They barked lightly, and Teepo flew out of the room and up the stairs.
+
+“Don't worry, you'll have a huge space to run around in and to protect soon.” Ren said and smiled. “I'll be moving permanently in a few days, and I'm going to need you to keep an eye on things when we get there.”
+
+Both dogs nodded, and Ren went up the stairs to the big bedroom.
+
+“They're all here.” Teepo said.
+
+Thanks, Teepo. Ren thought and opened the door to see all 5 of his maids. He could feel their surprise that he was there and they hadn't felt him. Lusinia and Navruth sat on the bed, Andrela stood in front of her clothing cabinet, Verwynn looked up from rooting in the icebox, and Frikara sat in a chair at her vanity table in front of the mirror.
+
+“Hi, everyone.” Ren said and went into the room. “I have Adventurer's business to take care of, so I can't stay.”
+
+Ren felt their disappointment and their understanding.
+
+“Why aren't you using our Contact Aura?” Frikara asked. “We should have felt you when you were down the street.”
+
+“I didn't think it would be fair to only give you a few moments and then have to leave for several hours.” Ren said and took off his Dire Wolf Hooded Cloak. “When I come back, I'll concentrate on it and tell you all about what happened since I went on the quest.”
+
+“Are... are you punishing us for not being here when you came to see us?” Frikara asked, and Ren felt her worry and her sadness. He walked over to stand behind her chair, then bent over and wrapped his arms around her. He put his chin on her shoulder and sighed.
+
+“No, Frikara.” Ren said, “I gave you orders a long time ago that you could go out, as long as you wore the items I gave you to protect you.” He kissed her cheek. “I was disappointed that I didn't get to see all of you, but I was also happy that you were all brave enough to go out without an escort.”
+
+Frikara turned to look at him, and he gave her a kiss on the lips. Ren felt a thrill go through her, then he broke the kiss and let her out of the hug.
+
+“I'll be back in an hour or so.” Ren said and walked over to the bed. He stored his clothing, except for his underwear, and climbed onto the bed. “See you soon.” He said and laid down on the far left side of the bed.
+
+“Logout.”
+
+********
+
+Ren slipped off the VR headset and saw Denise's expression. “Okay, what's wrong?”
+
+“You. Built. A. Strip. Club.”
+
+“Technically.” Ren said. “What I actually did was-”
+
+“I don't care how you did it!” Denise said. “I care about why!”
+
+“That's easy.” Ren said and sat up. “I needed to get the dancers a steady income again.”
+
+“You had to?”
+
+Ren nodded. “They lost their other jobs mainly because of me, so I made a new place for them.”
+
+“And used it.” Denise said.
+
+“Yes.” Ren said. “I paid them a week's wages, and they wouldn't let me walk away without giving me something, so I agreed to have the first dance.”
+
+“Ren.” Denise sighed. “How could you do that?”
+
+“What do you mean?”
+
+“What's your girlfriend Elise going to say?” Denise asked.
+
+“I don't know.” Ren said and reached for the cell phone. “Let's find out.”
+
+“Wh-what?”
+
+Ren picked up the phone and looked for Elise's contact information, then started to type.

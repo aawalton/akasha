@@ -1,0 +1,213 @@
+---
+id: 05733d77-7fdc-5c80-aad7-f59b85bf53b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56 - Shopping (New Arc)"
+slug: 0040-chapter-56-shopping-new-arc
+partOf: mythrans-master-of-all-continued-completed
+position: 40
+ownLength: 2051
+unit: words
+publishedAt: 2016-10-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98641/chapter-56-shopping-new-arc"
+royalRoadId: "98641"
+---
+
+Lucy didn't care much for the feeling of transition into the virtual world, but hoped she would get used to it after a while. Ren has been doing it for months now, and he hasn't complained about it once. Lucy woke up in her bedroll, but when she'd gone to 'sleep', it was in the back of the cart and not on the ground. Lucy panicked a little until she saw Ren sitting beside her.
+
+*
+
+Ren noticed Lucy wake up and put away the shield. “Good Morning... or, afternoon I guess.” Ren said and looked overhead. Ren had finally found out that there actually was a bright ball of light in the sky. It wasn't blinding to the eye like the real sun, though. “How did everthing go?”
+
+“Oh, you know how it is. I spent most of the day just waiting for the transfer to go through.” Lucy said and sighed. Lucy looked around and noticed they were just outside the city walls. “Where's Aimus?” Lucy asked. “...and why aren't we inside the city?”
+
+Ren smiled. “Well... your body would change once we went into a safe zone. You'd be like a phantom and nothing could touch you.” Ren smiled. “Actually, I think it would be pretty neat to see if the game would just phase you right out of the cart and let you hang right in the middle of the road.”
+
+Lucy looked shocked. “What are you talking about? Phase? What's that?”
+
+It was Ren's turn to sigh. “Sorry, I forgot that you're not too experienced with gaming. You may have seen me do some things, but that doesn't mean you'd know what it meant.”
+
+Ren went on to explain how in safe zones, the player would become insubstantial so they couldn't be hurt. Ren kept talking and gave Lucy a brief overview of the game and how some things worked.
+
+“Oh! That reminds me. I haven't done this before... but I read how to do it.” Ren said. “System: Form Party.” Ren got a popup.
+
+Notice!
+
+You have requested to form a party of Adventurers. A party is a group of 2 or more Adventurers. Experience is shared among party members at all times (regardless of distance from one another). Benefits and penalties apply to all members. If the group membership drops to a single member, it will be disbanded. Party can be voluntarily disbanded at any time.
+
+Do you wish to form a party now? Yes / No
+
+“Yes.” Ren answered.
+
+Do you wish to name your party? Yes / No
+
+Ren whispered to Lucy. “Do we want to name our group?”
+
+Lucy shrugged. Ren thought for a minute and smiled.
+
+“Yes.”
+
+A virtual kepboard popped up and Ren typed in the name.
+
+Please state the name clearly so the system will recognize it.
+
+“Virtual Survivors” Ren said.
+
+Party formed!
+
+You are now a member of the Virtual Survivors.
+
+Do you want to invite more members to join your party? Yes / No
+
+“Yes.”
+
+Please say 'Invite (insert name here)' to invite someone to join.
+
+“Invite Lucy”
+
+Notice!
+
+There are currently 310 players named 'Lucy'. Invite all? Yes / No
+
+Ren's eyes widened in shock. “No!” Ren had no idea that there would be so many Lucy's in the game and asked Lucy what her user name was. She said 'Lucy' and Ren asked her to open her status window and tell him what it said under 'Name'. Lucy did so and Ren spoke again.
+
+“Invite Lucy 2645”
+
+Lucy got a popup.
+
+Notice!
+
+You have been sent a Join Party request from a member of the Virtual Survivors.
+
+A party is a group of 2 or more Adventurers. Experience is shared among party members at all times (regardless of distance from one another). Benefits and penalties apply to all members. You may leave the party at any time.
+
+Join Party? Yes / No
+
+“Yes.” Lucy said.
+
+Ren grinned when another popup appeared.
+
+Congratulations!
+
+You have successfully formed a party.
+
+“Show party status.” Ren said.
+
+Lucy asked for the party status herself and blinked. “It's going to take me a while to catch up to you, isn't it?”
+
+Ren shrugged. If he kept working as hard as he usually does, Lucy might not catch up to him. Ever.
+
+“Don't worry about that.” Ren said and smiled. “I've been playing for months, remember?”
+
+Lucy nodded and put away her bedroll.
+
+“Oh, just a second.” Ren said and opened up the message system. “You remember that gem like ore I found?”
+
+Lucy nodded again.
+
+“I sent a message to the Sage 2 days ago, to see if she could tell me what it was. I need to ask her when we can meet.”
+
+Ren looked to see if he'd received any messages, but none were waiting for him. Ren sent another quick message to say that he had arrived at the city and could meet at any time. Ren closed it and stood up. Lucy stared at his new cloak.
+
+“REN! Where did you get that... that...” Lucy stammered and pointed.
+
+“The cloak? Aimus made it for me while you were logged out.”
+
+“But... but...”
+
+“Yeah, it was quite a surprise for me, too. I never imagined that something like this could be done.” Ren said and turned around in a circle.
+
+“It... is a nice and shinky black.” Lucy offered as a compliment.
+
+Ren chuckled. “It's okay, Lucy. You don't have to say you like it or anything.”
+
+Lucy let relief pass over her face before she could stop herself. Ren chuckled again.
+
+“It's going to take some getting used to.” Ren said as he walked around the small area that was protected with enchantments and absorbed them from the stones. “I know it'll take me a while just to get used to the extra weight.”
+
+Ren absorbed the last enchantment and smiled. “Now... let's get inside and see what the city has to offer.” Ren said. “I know you've watched me go through it before, but I'm pretty sure it will be a completely different experience for you now that you're playing it yourself.”
+
+“Okay.” Lucy said. “Let's go.”
+
+********
+
+Barbara had just come on shift and sat down next to the bed. Barbara sighed as Ren had skipped supper again. Bonnie said Ren ate a good lunch, so Barbara wasn't too worried. The thick stew could be warmed in the microwave whenever Ren came back out. Barbara had smiled when Bonnie had told her that Ren had stayed right beside Lucy the whole 'night' and hadn't wandered around or did anything except make that shield glow a lot. Barbara wasn't sure why Ren was doing it, but that didn't really matter. All that mattered to her was that Ren had shown devotion to Lucy's protection.
+
+I guess he really does like her a lot. Barbara thought as Ren and Lucy entered the city together.
+
+********
+
+Ren and Lucy walked around for a while, just enjoying the sights. Liek Ren had said, He had been around the city before, but Lucy hadn't seen it at eye level and it was a completely different experience. As they came into the Market District, various stalls were along the street. They browsed the various knick knacks, but nothing caught their attention. Lucy noticed the General Store and Ren laughed at the name. 'General Goode's General Goods'.
+
+“Look at all this stuff!” Lucy exclaimed when they came through the door.
+
+Ren loked around and saw everything that an adventurer would need. Bedrolls, lanterns, coils of rope, shovels, pickaxes, mining helmets, grappling hooks, money pouches, backpacks for extra inventory slots, tents, wooden poles (Ren assumed for the tents), small knives, various dried foods, barrels (empty), blankets, water flasks, oil flasks, buckets, candles, ladders, various tools, cooking utensils, pots, torches, parchment, ink, quills, capes, cloaks, various clothes, and a display case near the shop clerk full of jewellery and trinkets.
+
+A whip hung on the wall next to the counter, but Ren wasn't sure if it was for sale or for the clerk to defend himself. On the wall behind the clerk hung several bows and quivers. The clerk noticed Ren's gaze.
+
+“An admirer of the bow, young master?” The clerk asked.
+
+“Kind of. Where did you get them?” Ren said.
+
+“These fine works of art were constructed by the finest craftsman on ths side of the mountains.”
+
+Ren asked to see one and the clerk handed over a small one, assuming Ren wanted one to match his size. Ren held his tongue and looked at the bow.
+
+Small Bow
+
+This well crafted bow can be used for various tasks.
+
+Durability: 80/80
+
+“How much?” Ren asked the clerk.
+
+“That is a fine piece of equipment. There's no other like it. For today ony... since you seem like a nice young fellow... 25 gold coins.”
+
+25 gold coins! Ren thought as he handed the small bow back to the clerk. No wonder people buy Donan's chef knives!
+
+“I noticed some oil flasks over there.” Ren said. “How much are they?” Ren asked as Lucy came to the counter and stared at the jewellery inside.
+
+“Young master has a good eye. For you... 1 silver coin each.” The clerk said.
+
+Ren thought about it. “What kind of deal would you give me if I bought 10?”
+
+The clerk smiled. He always liked a good haggle. “Hm. Well, if I sell you 10, that will leave me a bit short this month for sales... 9 silver.”
+
+Ren turned slightly to the side and looked out into the street. “If I remember correctly, I thought I saw one of the stalls had oil flasks, too.”
+
+The clerk jerked his head to the side and turned back quickly. “They aren't of as good a quality, I assure you.”
+
+Ren nodded. “I'm sure that may be true... but if I can get more from them, isn't the cheaper price worth it?” Ren looked back at the counter and saw Lucy admire a necklace with a small amulet on it. “How about 8 silver... and I'll take that necklace for 5 silver.”
+
+The clerk thought about it for a moment and smiled. “Done.”
+
+Notice!
+
+You have unlocked a new skill!
+
+Haggle Level 1 (Beginner 0%)
+
+This skill will allow you to negotiate the price of items from shopkeepers.
+
+Higher skill levels will increase your influence and make it easier to haggle with higher priced items.
+
+Ren handed over the money and the clerk got the 10 oil flasks from the back room and gave them to Ren, who stashed them into inventory. The clerk opened the counter and passed Ren the necklace. Lucy's eyes followed it the entire time. It wasn't that pretty or flashy, but it had an eerie quality that drew the eye to it. Ren identified it.
+
+Necklace of the Mundane
+
+This necklace has an amulet that is eye catching. It used to be imbued with something, but it has been disenchanted for a long time.
+
+Ren put it into inventory and bought 5 days of cheap rations. It was only 10 silver and Ren didn't haggle over the price. Ren hadn't been able to stash much food away while at Aimus' homestead. Ren smiled. Abigail always made me eat it all.
+
+Ren looked back at the bows hanging on the wall. “I'm just curious... can you tell me who the master craftsman was that made such nice bows?”
+
+The clerk looked at Ren and at the dangerous looking cloak he wore.
+
+“I'll be sure to tell everyone I know where to get nice bows.” Ren grinned.
+
+The shopkeeper smiled in turn. “It was Mitchell. He has a small shop near the end of the Artesian District. You might not find him there... and his prices are much more expensive than mine. Buying direct from an artist isn't always the best choice.”
+
+Ren nodded and got a message popup. “I'll keep that in mind. Thank you for your help, and the great service. Have a good day!” Ren said. The clerk waved as Ren ushered Lucy out into the street.
+
+“Ren...” Lucy said once they were out on the street. “...what's the rush?”
+
+“I just got a message from the Sage.” Ren said and smiled. “She's waiting at the library and can see us right now.”

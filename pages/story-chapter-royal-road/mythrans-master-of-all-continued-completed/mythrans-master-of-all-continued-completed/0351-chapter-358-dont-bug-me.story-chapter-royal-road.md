@@ -1,0 +1,341 @@
+---
+id: d54c2444-2f43-5a7c-b235-fc9b44eefbbc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 358 - Don't Bug Me"
+slug: 0351-chapter-358-dont-bug-me
+partOf: mythrans-master-of-all-continued-completed
+position: 351
+ownLength: 3971
+unit: words
+publishedAt: 2017-09-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162336/chapter-358-dont-bug-me"
+royalRoadId: "162336"
+---
+
+Ren ran back to the Main House and went inside, greeted Princess, and went up the stairs to tell Janice he was ready to go.
+
+“Holy crap.” Ren said when he saw what was waiting for him.
+
+There was glassware everywhere. Vases, bottles, bowls, glasses, and mugs littered the floor, workbench, and the top of the forge.
+
+“I'm sorry.” Janice said. “I started out slow, just so I could get a feel for it again... and then I leveled the skill up.” She smiled. “I went a little overboard after that.”
+
+Ren snorted a laugh. “I think you've doubled what's in your old house.”
+
+“I used up quite a bit of sand, too.”
+
+Ren looked inside the cart and saw it was only down by a quarter. “It looks to me like you've got a lot left.” He said. “You shouldn't need to order more for at least a couple of days.”
+
+“All right, I used up a lot.” Janice chuckled. “How much do I owe you for it?”
+
+“Hm.” Ren said and rubbed his chin. “How about giving me a good discount on all of this glassware?”
+
+“Wh-what?”
+
+“I know I'm kind of taking advantage of you like this.” Ren said and started to stack the bags of sand a few feet away from the glass furnace. “But, you are using my glass furnace and my sand. The least you can do is cut me a deal on the price.”
+
+Janice looked at him like he was crazy. “Are... are you serious?”
+
+“I was thinking 70% off... but, since I don't know if I can turn it over right away... how about 60% off the value?”
+
+“Ren, you can't possibly think...”
+
+“Okay, okay. You drive a hard bargain.” Ren said and kept emptying the cart. “If you give me 50% off the value, I can still make a profit selling them in my store.” He said. “I'll even post a sign telling customers who made them and to come here when your shop opens tomorrow.”
+
+Janice stood there and stared at him, because she couldn't believe what he was saying.
+
+“What do you say?” Ren asked as he dropped the last bag of sand on the pile and stored the cart. He held a hand out for her to shake. “Do we have a deal?”
+
+Janice took Ren's offered hand and shook it.
+
+“Great!” Ren said and used Appraisal on everything. “Apparently, there's 163 gold worth of items here.” He said and took out 86 gold. “Here's 81 gold and 50 silver for the items, and 4 gold 50 silver for the tip.”
+
+Janice stared at the pile of gold in her hands as Ren stored all the glassware.
+
+“Do you need a hand with that?” Ren asked and motioned to the money. Janice nodded wordlessly and he took it from her. She opened her coin pouch and he dumped the money into it.
+
+“Ren...”
+
+“Are you ready to go?” Ren asked and looked inside the glass forge. “Nope, just a minute.” There was quite a bit left in it, so he made a mold on the floor for a standard pane of glass and poured out enough to make it. He absorbed the heat from it, stored the pane of glass, and did it again. He managed to make 6 panes before the molten glass ran out, then used the last of it to make a glass ball the size of a baseball and stored it.
+
+“I can't believe you did that in the space of only a few minutes.” Janice said.
+
+Ren chuckled. “Not having to wait for things to cool off is a definite advantage.” He said and smiled. “Come on. We have to go before we starve.”
+
+“Lead the way.” Janice said and smiled back.
+
+Ren deactivated the forge and walked down the stairs, and Janice followed him.
+
+He sure is something. Janice thought as she put on the Helm of the Eagle and Ren prepped Princess for carrying 2 passengers. With just that purchase and what he paid me the other day for today's lesson, I've made enough to pay my rent.
+
+Ren led Princess outside and hooked the straps around Janice, then turned around so that he could tie the straps around his shoulders, which made her like a backpack.
+
+“You know this is really weird, right?” Janice asked as she wrapped her legs and arms around him to complete the illusion.
+
+“It was your idea.” Ren said and laughed as he took out the step ladder, climbed up it to sit on Princess, then stored the ladder. He took out the Giant Strength and Haste wands and cast them on her, and she waited until he stored them and held on, before she ran as fast as she could.
+
+*
+
+Patty had been stunned at having been given the job of Mayor for a city. She walked slowly back towards her farm house, where the town council was waiting for her and their scheduled meeting. She'd never regretted giving up her living room for council meetings, and it was a nice and comfortable place. She reminisced over all of the meetings they had over trivial things, then remembered that the last few had been about Ren.
+
+Those meetings she had been tempted to skip outright, just because she was scared that he was going to do away with her completely. With all of the changes he was making, she didn't want to face the fact that she was going to be redundant. It never once occurred to her that he'd actually want to keep her, despite what he had said before. She remained lost in her thoughts until she arrived at the Main House.
+
+The gold key around her neck marked with an 'M' was a solid weight against her skin, and Patty thought about ignoring the feeling so she could keep walking. She sighed as she realized she had better face her fears and see what it was like inside, since she was going to be spending a lot of time there from now on. Patty walked over to the Main House and the key unlocked the front door.
+
+“You've got a key now!” Russell nearly yelled from behind her.
+
+“AHHHH!!” Patty screamed and jumped towards the door. It swung open and she grabbed the door handle in an attempt to stop her fall. Instead it swung her around and she fell backwards as her hand slipped from the door handle and she fell to the floor.
+
+“Miss Patty!” Russell said and ran inside to see Patty was laying down on a mattress. “I'm really sorry, Miss Patty.” He said with his head down. “These boots don't make a lot of sound when I run.”
+
+Patty's breathing had sped up considerably from the scare and then the fall, and she had been surprised that she hadn't hurt herself on the stone-like floor. She thought she might be in shock and could actually be hurt, until she put her hands down to push herself upright. A soft surface greeted her touch and she sat up on the comfy mattress.
+
+I'm really lucky this was here. Patty thought, and then she stood up. “What are you doing here, Russell?”
+
+“I was going to the town council meeting like you were.” Russell said. “I usually show up late; but...” He grinned. “...not anymore.”
+
+“Well, you can go on to the meeting and tell them that I'll be along soon.” Patty said, and Russell left almost before she had finished speaking. “That boy...” She shook her head and shut the door.
+
+Beside the small lobby was another door. Patty walked over to it and saw 'MAYOR' written on the door, took a deep breath, and opened it. She gasped at the clean neatness of it. It was as far from an old farm house as possible with it's thick stone-like walls and floor. It had a heavy and dark brown wooden desk with lots of drawers, a nice comfy upholstered chair, and a window. She walked around the desk and stared at the chair, took two quick breaths, and then sat down in 'her' chair in 'her' office.
+
+Patty sighed as the comfortable chair supported her well and almost hugged her, and she looked through the drawers. She didn't feel bad about rooting, since it was her office anyways. Nothing was inside, and she wondered what she could possibly put in them. She remembered Ren telling her she should have a Mayor menu, and took another breath before she spoke.
+
+“Open Mayor menu.” Patty said, and the Mayor menu popped up in front of her. She gasped at all of the things it showed her, and she didn't know what to look at first. “Um... um... parchment! Yes, parchment!”
+
+Patty read all of the tabs, and one said 'Item Orders'. She smiled and picked that, and inside was a list of all the things she could order for the city.
+
+“Oh, my.” Patty said, and eventually figured out how to scroll through the list, and went down to the 'P' section. “There!” She said and picked parchment from the list. Another popup appeared that asked for the amount to order. She put 10 for the amount, and then it asked if she wanted writing instruments. She picked one and chose the 'Order' option.
+
+Warning!
+
+There is no money in the Budget to purchase items at this time.
+
+Do you wish to go into debt to the main Crown Bank to purchase items? Yes / No
+
+“NO!” Patty yelled and the popup went away. “Oh, god!” She said and took several breaths to calm down. “It's okay... it's okay...”
+
+Patty looked at the other tabs at the top of the main popup and saw one marked Budget and chose that. She saw a list of expenses and other things inside, and she saw the row of money denominations across the top.
+
+Budget for Goagan City
+
+Copper: 0Silver: 0Gold: 0Platinum: 0
+
+They were all empty.
+
+“What do I do?” Patty asked herself and scrolled down the list. At the bottom was a button marked 'Ask for Budget'. She smiled and chose it, and a popup appeared.
+
+Notice!
+
+This will send a request to: Ren to ask him to give you a Budget for the city.
+
+Do you wish to send the message now? Yes / No
+
+Patty thought about it seriously, because she didn't want to start asking Ren for everything; even though he said he would give her, and everyone in the county, everything that they would need.
+
+*
+
+Ren, Janice, and Princess arrived back at Aurora, and Ren untied Janice and hopped down to help her climb down. He undid the straps attached to her and stored them in Princess' saddlebag.
+
+“I'm going over to the restaurant to order some meals.” Ren said. “I'll see you inside.”
+
+“Are you sure?” Janice asked. “I think your maids have missed you.”
+
+“What makes you say that?” Ren asked. He had felt it when his Aura merged with the shared Aura, and he knew Janice was right; but he wanted to know how she knew.
+
+“Look.” Janice said and pointed. Ren looked up and the 5 faces of his maids were staring out the bedroom window at him. He chuckled and waved to them, then pointed down the road and mimed eating and running back with his fingers. The maids nodded and waved, and he opened the front door of the house for Princess and Janice.
+
+“I'm heading out with the lumberyard caravan tomorrow morning.” Ren said to Janice. “Are you coming to have more glassworking fun?”
+
+“I might.” Janice said. “Assuming I can get enough sleep tonight.”
+
+Ren chuckled. “I'll try to keep things quiet.”
+
+“With 5 women? Really?” Janice shook her head and laughed. “Good luck.”
+
+Ren told Princess to go to her room and he'd be back soon with some good food for her. He left the house and ran down the street, which took him out of the shared Aura, then he ran around the corner and down the street to Nathalia's Nourishment. He was just in time for the supper rush to be over; but, before he could go inside, he received a popup.
+
+Notice!
+
+The Mayor Of Goagan City has requested the Annual Budget. There is nothing in your City Storage and you do not have a local branch of the Crown Bank built.
+
+Do you wish to add personal money to the City Storage for the budget? Yes / No
+
+I wonder what Patty needs money for? Ren asked himself, and then he thought about running an entire city for a year. He remembered the budget for the Garrison, 1850 platinum, and shook his head. It won't be that much. He thought. That was to protect an entire kingdom for a year.
+
+Ren contemplated just dropping a couple hundred gold in it to cover any immediate start-up costs the city might have, then decided that he didn't want to worry about it at all. He exchanged 10 shadow markers through his coin vault for 1000 platinum coins, typed in the breakdown in the amount he wanted to add to the budget with a short message, and pushed enter.
+
+There. Ren thought happily. I hope she has fun with it.
+
+*
+
+Patty had anguished over her decision to say yes to the 'send message' option; but she made the decision, and wondered if he would be generous in how much gold he would give her access to for the budget.
+
+He might even give me more than the 10 gold he paid to heal Fern's leg! Patty thought, laughed at her ridiculous thought, and then received a message popup.
+
+Hi, Patty.
+
+I'm not sure what you need the money for, so I hope this is enough for you to get things going in the city. You all work hard taking care of everyone, so make sure to give yourself and the City Council a proper salary, too.
+
+- Ren
+
+A proper salary? Patty closed the message. What's that mean? She asked herself, then she saw the budget popup had updated.
+
+Budget for Goagan City
+
+Copper: 99Silver: 99Gold: 99Platinum: 999
+
+Patty gasped and stopped breathing, slumped down onto her desk, and fainted.
+
+*
+
+Ren walked inside the restaurant with a smile, just as a lot of people were leaving, and he felt Nathalia as the collective formed between them.
+
+“Can I help you My Lord?” The woman who sat people down asked.
+
+“I'd like to order a hundred meals to go, please.”
+
+“A... a hundred...” The woman's eyes widened. “Are you serious?”
+
+“Hm, I think you're right.” Ren said. “That's too low. You better make it 200.”
+
+The woman's mouth dropped open in shock.
+
+“I'll take 10 right now, though.” Ren said. “I can come back for the others.”
+
+Nathalia came out of the kitchen and looked a him, and he smiled warmly at her. He heard her gasp as his feelings for her flooded into her, and she wavered slightly and put a hand on the wall.
+
+“I can pay for them all right now.” Ren said as he looked back at the woman he had been taking to.
+
+“That... that's... um...” She used a writing instrument and a piece of parchment and tried to add up 1 gold 50 silver per meal for 200 meals.
+
+“It's 300 gold, or 3 platinum coins.” Ren said and gave her 3 platinum coins. The 5% gratuity was only 15 gold; but, depending on how many people worked there, they wouldn't get much to split between themselves with so little. “I can't forget the tip for all of you working so hard.” He said and took out 50 gold coins and put it in her hands.
+
+“I'll be right back with your 10 immediate meals, My Lord!” The woman said and ran across the restaurant, past Nathalia, and into the kitchen. Ren heard several shouts and hollers, and then Nathalia walked over to him.
+
+“Hi, Ren.”
+
+“Hello, my deepest love.” Ren said as he stored his armor and hugged her. Nathalia hugged him back and squeezed him tightly.
+
+“I want to kiss you so badly.” Nathalia whispered in his ear. “I know we can't, because we're not together, and my culture's rules say we can't start something like that again.”
+
+“You're right.” Ren said. He didn't let her out of the hug, though. “I can't kiss you; but, I can make you feel like I did.”
+
+“What do you...ohhh!” Nathalia moaned and closed her eyes.
+
+Ren fed her the feeling of his lips on hers, from both of their perspectives, that he'd remembered from the last time they had kissed and shared their feelings.
+
+“S-s-stop.” Nathalia whispered, and Ren eased the feelings away. “How did you...”
+
+“The last time I saw you, something between us clicked.” Ren said and leaned back to look at her eyes. “That gave me the idea for a kiss without a kiss.”
+
+“Ren, if you can do that with just a kiss...”
+
+Ren smiled smugly at her, and her eyes widened.
+
+“R-really?” Nathalia asked. “You mean we... we can...” She licked her lips. “We can... without...”
+
+“Now that I know it works, I can share any sensation I can remember with you.”
+
+“Oh, Ren.” Nathalia said and sighed. “We... we really shouldn't be teasing each other like this.”
+
+“I remember teasing you, too.” Ren said and gave her a taste of that. Nathalia gasped and gripped his shoulders as she felt what they had both felt then.
+
+“By the gods.” Nathalia said.
+
+The kitchen door opened and Ren and Nathalia let each other out of the hug. The woman who sat people at their tables came out of the kitchen with several servers, and they carried several plates each.
+
+“Here are your 10 dinners, sir.” The woman said. “The others will be done in about an hour.”
+
+“That's great.” Ren said and stored the 10 dinners. “I'll be back then to pick the rest up.” He said, equipped his Travelling Clothes, and turned to Nathalia to take her hand. “It was nice seeing you again, Ma'am.”
+
+“It was nice seeing you, too.” Nathalia said, then gasped when Ren kissed the back of her hand. He smiled at her because he knew the cultural significance it held for dwarves, that she was above his social standing; then he nodded to the other three women and left the restaurant.
+
+*
+
+“I wish he'd kiss my hand like that.” One of the servers said. “He's such a gentleman to treat a woman like a Lady.”
+
+“He's really short, though.” The other one said. “I wonder how he measures up.”
+
+Nathalia turned around and glared up at them. “One more word about his height... out of any of you...” She looked at each of their surprised faces. “...and you're fired.”
+
+The three women stared at her, because they had completely ignored the fact that she was their boss.
+
+“I'm sorry, Ma'am.” The server who had made the comment said. “It won't happen again.”
+
+“See that it doesn't.” Nathalia said. “If there's one person in this world you don't want angry at you, it's him.”
+
+The three women watched as Nathalia stalked off into the back room behind the counter.
+
+“I think she meant '2 people you don't want angry at you'.” The server said as Nathalia stepped through the portal and disappeared.
+
+*
+
+Ren ran down the street a short ways and went into his business, then walked over to the counter. “Hi, Anabelle.”
+
+“Hello, My Lord.” Anabelle said. “There's a customer in the back with Holly.”
+
+Ren nodded and took out the step ladder. Anabelle smiled as he climbed a couple of steps and gave her a kiss, then stepped off and stored the ladder again.
+
+“Have you eaten yet?” Ren asked her.
+
+“I was a bit too busy to-”
+
+Ren took out a plate of food for her, and cut off what she was about to say.
+
+“Thank you.” Anabelle said and stored it.
+
+“This is fantastic!” A woman's voice said as she came out of the change room with an armful of bras and panties. “I can't believe they have something like this here.” She said and came over to the counter with Holly right behind her. She was about a foot taller than Ren, had bright blonde hair, and a slender body. “In a starter city, no less!”
+
+Ren stepped out of her way and let her purchase the goods she had. Anabelle put the clothes in a sack and handed it to her when the woman paid her.
+
+“Oh, hello!” The woman said when she turned and noticed Ren; then she did a double take and looked at him again. “No.” She said. “It... it's not possible.”
+
+“It's true.” Ren said. “I really am this short.”
+
+Anabelle snorted a laugh, and Holly laughed out loud.
+
+“You're so funny!” Holly said and bent over to give him a hug. “Cuddly, too!”
+
+“She wouldn't say that if you still had your armor on.” Teepo said.
+
+Ren chuckled and hugged Holly back.
+
+“We're closing for the night in a couple of minutes, Holly.” Anabelle said. “You can head out now.”
+
+Holly stood up and held a hand out, and Anabelle dropped several gold coins into her hand. “Thanks, Annie!” She said and stored her pay, then ruffled Ren's hair. “Bye, Ren!”
+
+“Bye, Holly.” Ren said, then watched as Holly half-walked and half-skipped out of the shop, then down the street and out of sight.
+
+“No matter how many times I tell her my name is Anabelle, she always calls me Annie.” Anabelle said and chuckled. Ren smiled and looked at the woman who was still standing there.
+
+“You really are him.” The woman said. “You're Ren.”
+
+“I was the last time I checked.” Ren said and looked down. “Yep, I'm still me.”
+
+The woman chuckled. “I really like your show.” She said. “You're why I started playing.”
+
+“I'm glad.” Ren said. “I hope you're having fun.”
+
+“I am.” She said. “There's so much to do, it's hard to know where to start.”
+
+Ren chuckled. “I hear that.” He said. “I'm still having a hard time trying to decide what to do first, and I've been playing for a long time.”
+
+The woman smiled and nodded. “I better go. I have to get to my safe zone before it gets too dark.” She said and held a hand out to him. “It was nice meeting you.”
+
+“Likewise.” Ren said and motioned towards the door, then escorted her out of the shop. “Goodnight.”
+
+*
+
+“Goodnight.” The woman said as Ren shut the door to the shop. She walked down the street and around the corner of the next building, then stored her bag of purchases. “Logout.”
+
+********
+
+Officer Holly Stonewall slipped off the VR headset and sat up from her work station. She looked around at all the monitoring equipment and smiled. She had tagged Ren's Player ID on her display and the monitors tracked his movement. That hack had cost her a pretty penny, and it had taken her a long time to finally find him. She wasn't worried about the money, though; because there was room in the budget for her to add it in under miscellaneous expenses.
+
+Holly picked up her cell phone and typed furiously for several seconds. She sent the message and waited patiently for a reply.
+
+I really hate that 'Holly' working in that store. Holly thought. She's the perfect example of what's wrong with how men see women these days.
+
+The cell phone beeped and she checked the display.
+
+Okay, John. Holly thought and sent a reply. I'll work this end and you work that end. She put the cell phone down and watched the monitor. For now.

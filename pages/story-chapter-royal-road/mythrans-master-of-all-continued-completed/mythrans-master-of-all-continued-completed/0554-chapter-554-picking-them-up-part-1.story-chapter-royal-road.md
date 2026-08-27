@@ -1,0 +1,253 @@
+---
+id: 06baf9bb-a14a-56d3-b7a6-7089f805016d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 554 - Picking Them Up: Part 1"
+slug: 0554-chapter-554-picking-them-up-part-1
+partOf: mythrans-master-of-all-continued-completed
+position: 554
+ownLength: 2465
+unit: words
+publishedAt: 2018-04-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207643/chapter-554-picking-them-up-part-1"
+royalRoadId: "207643"
+---
+
+Ren left the dining room with his people, and surprisingly, Belinda came out as well. “Belinda? What...”
+
+“I'm coming with you.”
+
+Ren opened his mouth to say that she was proving the king's point, then changed his mind because it was her choice. “Welcome aboard.”
+
+“Thank you.”
+
+“So, did you quit?” Nashan asked Belinda as they all walked down the hallway, and she nodded. “Please tell me you did it spectacularly!”
+
+Belinda laughed. “I bowed deeply and asked to be relieved of duty.”
+
+“Lady Eleanor must have been pissed!” Narshan said.
+
+“Actually, she expected it.” Ren said, because he had felt her feelings. “Especially after the conversation we just had.”
+
+“I can't believe half of the people you save decide to go with you.” Sharlee said.
+
+Ren chuckled. “If you include the High Elves and halflings I've rescued, it's actually somewhere around 2%.”
+
+“But... but King Alamast said...”
+
+“He only used a very select sample as a comparison. If I'd brought up the High Elves as an example, I'd have to reveal that their own people were going to exterminate them, and I didn't want that idea in King Alamast's head.” Ren said. “In fact, the first time I encountered the ghouls and Ghoul-Kissed during a quest, the villagers wanted to kill the infected after we had saved them, just because they didn't want to deal with the problem.”
+
+“Oh, my god.” Belinda said. “What happened?”
+
+“I offered to take them and their families home with me, of course.” Ren said. “That's what started the whole 'come live with me because they are going to kill you' mode I've been in since.”
+
+“Wow.” Sharlee said. “That's...”
+
+“...completely messed up!” Narshan said. “You're adopting people! Full grown people! With their families!”
+
+Ren chuckled. “Some don't want to come, and that's okay; but, since they couldn't stay where they were, I couldn't just take them and make them leave their families behind.”
+
+“M-my L-lord, I...” Belinda's face went red. “Does that apply to me as well?”
+
+“Of course it does.” Ren said. “Who are you going to ask to come with you?”
+
+“My mother. I don't think my brother will accept. He works for the Mage Guild as a scribe.”
+
+“He's working all the time, then.” Ren said, and she nodded. “Then we'll take you to where you need to go to make your offers.”
+
+“Right now?”
+
+“If you want.”
+
+“What about me?” Narshan asked.
+
+“I allocated half an hour to gather your families up, so that should be plenty of time.”
+
+“30 minutes?” Narshan laughed. “We better visit my mother and sister first. Half an hour might be long enough for them to get ready to step outside.”
+
+“I'm tempted to say you're exaggerating, but I know you're not.” Ren said. “We're stopping behind the castle first to get Belinda's mother, assuming she wants to come. We can go to your place right after that.”
+
+“Geez, man. Those shacks are full of crap gathered over years! It'll take forever for them to pack everything!” Narshan said.
+
+“And your mother and sister are going to pack up their apartment quickly, are they?” Belinda asked, and he sighed.
+
+“No, and that's why I want to visit them first.”
+
+Ren led the large group of people outside and Princess was already there waiting for him. “If it will make you happy, we can split up.” He said. “Xuunah? Can you take Princess and escort Narshan to his apartment so he can tell his family to get ready?”
+
+“Of course, Dearest.” Xuunah said.
+
+“Thanks.” Ren said. “The rest of us will go out back and get Belinda's mother.”
+
+Xuunah and Narshan climbed onto the carriage, and Ren showed Princess where the apartment was with the All-Seeing Mirror. She huffed and trotted up into the sky, and Narshan hollered happily.
+
+“We're flying!” Narshan leaned over the side. “Look! We're flying!”
+
+“Stop leaning out, you idiot! You're going to fall!” Xuunah exclaimed and Narshan's face disappeared.
+
+“I probably should have given him an Amulet of the Spider.” Ren chuckled and turned around. “Maria's shack is behind the castle.”
+
+Belinda and Sharlee stared up at the flying carriage, and Ren felt their stunned emotions.
+
+“It's all right. We only travel short distances in the open carriage. To go back to my county, we use a covered cart. There's no chance to fall out of it.”
+
+“Th-th-that's not...” Belinda shook her head. “Never mind.” She put a hand on Sharlee's arm and shook her a little. “Let's go.”
+
+“Okay.” Sharlee said and followed Ren and the others down the street and around the back of the castle to the shacks for retired castle workers.
+
+“I just realized something while thinking about these shacks.” Ren said. “The king lets the workers live here so they don't have to pay taxes.”
+
+“That's right.” Belinda said. “The taxes are pretty low, considering the size of the kingdom. Not having to pay them makes it a lot easier to live.”
+
+Ren felt her reservations start to creep in on her. “I'm glad you're used to it, because no one pays taxes on my land, either.”
+
+“Wh-what?” Belinda and Sharlee said at the same time.
+
+“Like you said. It's much easier to live if you don't have to worry about things like that.”
+
+The two women exchanged surprised looks, then looked at the other women.
+
+“Is that true?” Belinda asked Patty.
+
+Patty nodded. “The taxes for the whole county comes out of the budget that Ren... ah, Lord Ren... gave to us. None of the cost comes from the people living there.”
+
+“But... how?”
+
+“He's very, very rich.” Patty said. “At first I didn't understand what that meant, since the most experience I had with money was the copper coins the villagers gathered to save up for farm tools.” She laughed. “After dealing with Ren and talking to these wonderful women...” She motioned to Frikara and the others. “...I discovered what true wealth was.”
+
+“Does he have that much money?” Sharlee asked.
+
+“He has so much that it doesn't matter how much he has.” Frikara said. “The thing is, even if he didn't have a copper to his name, he would still be rich.”
+
+“What?”
+
+“That's what I discovered as well.” Patty said. “It's the people around him. His friends and what he will do for them... and what they will do for him in return. That's what's valuable.”
+
+No one said anything until they reached the wall at the back of the castle.
+
+“Of course, he can just make some magic items and sell them to make a fortune.” Frikara said.
+
+Ren cast a Pass Wall spell and the wall in front of them disappeared. “After you.”
+
+“Thank you.” Frikara said and her fingertips touched his cheek as she passed by him to go inside. Each maid did it, and then Patty walked by. Her arm moved because she wanted to do the same thing, then she stopped herself and kept walking. Belinda and Sharlee went through, and Ren felt they were tempted to stroke his cheek.
+
+“I'm not touching your cheek.” Officer Holly said as she walked by.
+
+“What if it was my butt cheek?” Ren asked her with a big smile on his face.
+
+Officer Holly blushed and she clamped her mouth shut before she responded.
+
+“I'm just kidding.” Ren said. “I didn't earn that reward.”
+
+Officer Holly sighed loudly and rolled her eyes, which made Frikara and the other maids chuckle.
+
+“Why do you think you didn't earn a reward?” Artemis said and grabbed his butt as she walked by, and he laughed.
+
+“Hey! No groping during business hours.” Ren said and stepped through the wall and dismissed the Pass Wall spell.
+
+“I took a break for two seconds.” Artemis said demurely, and Ren snorted a laugh.
+
+“Which one is it?” Frikara asked.
+
+“Three over and one back.” Ren and Belinda said together.
+
+“Lead on, ma'am.” Ren said and motioned towards the shack, and everyone followed Belinda to her mother's place. She knocked once and then opened the door.
+
+“Mom? Are you home?”
+
+“Yes, dear. Come in.” Maria said. “Shouldn't you be at work?”
+
+“Well, about that...” Belinda said and motioned to the door. “...have a look outside.”
+
+The old lady walked to the open door and saw the group of women, then she saw Ren.
+
+“You came back.” Maria said, her voice had a touch of disbelief and some wonder in it.
+
+“I'm a little early, and I didn't come here for a meal.” Ren said. “I came here for you.”
+
+The old lady put a hand over her heart and started to pant heavily. Ren was there instantly to catch her before she fainted, and he used Restoring Hands on her to calm her down.
+
+“I didn't mean for you to take it in quite that way, ma'am.” Ren said.
+
+The old woman cackled a laugh. “You came back to whisk me away from here to a fantasy land, haven't you?”
+
+Ren thought about the wording and couldn't fault it. “I did.”
+
+“Then you've made the little girl in me very happy, My Lord.” Maria said. “I have to warn you, though. I'm not as spry in bed as I used to be.”
+
+Ren looked at her with wide eyes, and the the old lady laughed and laughed.
+
+“The look... on your face!” She said and kept laughing, and it was infectious. Ren started to laugh, as did everyone around them.
+
+*
+
+“Daddy, will you really try to stop him from visiting the patients?” Princess Diana asked.
+
+“I must.” King Alamast said. “They will go to him in droves, if only for the chance at a different life from what they have.”
+
+“But...”
+
+“Even Belinda, who has been a part of this household for years, quit and left with him.”
+
+Lady Eleanor huffed. “Good riddance.” She said. “Let her try and find another family that was as kind to her as we were.”
+
+“Mother, that's not why she left.” Diana said, and the king and her mother looked at her. “She left to give her mother a better life.”
+
+“What was wrong with the life she had?” Lady Eleanor asked. “She lived long and prospered.”
+
+“Until she lost the magic needle, then you forced her to retire.” Diana said.
+
+“Now listen here, young lady.” Lady Eleanor said. “She was useless as a seamstress when that happened and we had to replace her.”
+
+“That may be true.” Diana said, since she didn't see any sweat on her mother's face. “That doesn't mean she had to be tossed aside. You could have kept her on in some capacity.”
+
+King Alamast chuckled. “As what? A Junior Seamstress?” He shook his head. “That would have demeaned her to the point of embarrassment.”
+
+Diana couldn't argue that.
+
+“Besides, she got to spend as much time with her fellow retirees as she wanted.” Lady Eleanor said. “No taxes and rent free on the castle's grounds, and as much spare food from the kitchens as they could stand.”
+
+“But... what if...”
+
+“Diana, stop trying to justify it.” King Alamast said and stood up. “I'm sending several squads of knights to guard the hospitals and the wards of the infected.” He walked over to her chair. “Lunchtime is over and we need to go back into session.”
+
+Diana recognized her father's tone and knew that further discussion was not welcome. She nodded and stood up, then gave her mother a hug.
+
+“I'm glad you're feeling better.” Diana said.
+
+“As am I.” Lady Eleanor replied. “Now go with your father and keep the kingdom running.”
+
+King Alamast and Crown Princess Diana left the private dining room and another server came in to take the cart of dirty dishes. Lady Eleanor ignored her and walked over to the window. She leaned forward, touched her forehead to the glass, then sighed.
+
+“Your Highness.” The serving maid said and disturbed her brooding.
+
+“What is it?”
+
+“What do I do with these things on the table?” She asked, and Lady Eleanor looked at the table to see the three plates Ren had put there, and several fried dough pieces were left on each.
+
+“You can eat them.” Lady Eleanor said and turned back to the window. “They are quite delicious.”
+
+“That's not what I-”
+
+“Take them to the kitchen.” Lady Eleanor said. “Give one to Anya and tell her to make it, then pass the rest out to the staff and eat them.”
+
+“There's not enough for-”
+
+“Cut. Them. Up.” Lady Eleanor said crossly without turning around. “Must I tell you how to do everything?”
+
+“N-no, Your Highness. Forgive me, Your Highness.”
+
+Lady Eleanor sighed. “Leave me.”
+
+“Y-yes, Your Highness.” The serving maid said and took the fried dough pieces and put them on the cart and left the dining room at a fast walk with it.
+
+Lady Eleanor could still feel Ren, because she was still within his Aura. She couldn't feel his emotions or share his Aura, since she didn't have those abilities; but, she could feel his presence like a reassuring weight in her heart.
+
+In all the years she had been with the king, and despite how much she loved him, she had never once felt the same comforting presence from him as she did from Ren. She wasn't sure why that was, especially since she didn't know much about Ren, except for some of the things he did and what she had experienced herself with him.
+
+Lady Eleanor put her head against the glass again. She loved her husband. She loved her daughter. She loved her life. She also knew that a part of her was tempted by what Ren offered. A way to leave and not feel guilty. A way to see and experience things, but not as a ruler.
+
+She was a member of the Royal Family, one that everyone treated differently because of who she was. Some days, that same small part of her that was tempted by Ren, regretted that. She wasn't sure why she was thinking about these things, since she had made peace with her life as a ruler a long time ago. At least, she thought she had.
+
+Lady Eleanor sighed against the window and looked out into the bright afternoon as she stared at the people in the street below. She wondered what she would have done if Ren had given her the same choice as he gave the others.
+
+What would I have said if he asked me if I wanted to run away with him, too? Lady Elanor asked herself. After several minutes, she still didn't have an answer. After everything she had been through with her husband and ruling the kingdom, with all the crisis they had faced together, not being able to answer that one simple question... scared her.

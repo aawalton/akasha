@@ -1,0 +1,335 @@
+---
+id: 8a7b0077-33bc-5f83-b7fb-8b5356f78a18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 441 - Is That All?"
+slug: 0440-chapter-441-is-that-all
+partOf: mythrans-master-of-all-continued-completed
+position: 440
+ownLength: 3023
+unit: words
+publishedAt: 2017-12-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178177/chapter-441-is-that-all"
+royalRoadId: "178177"
+---
+
+The next morning, after an enjoyable night with the maids, Ren left the bedroom after putting on his Dire Wolf Hooded Cloak, and ran down the stairs to the kitchen to start implementing his plan. He thought it might be a dangerous plan, especially if it got out of hand, and he took out the two normal books he had gotten from Rosie. They were the Level 4 and Level 5 Basic Spell books, and he opened them to the index pages to see the spells inside.
+
+Spell List Level 4
+
+Name  Page
+
+Acid Storm  2
+
+Barrage of Wind  3
+
+Cause Major Wounds  4
+
+Create Clothing  5
+
+Disease  6
+
+Displacement  8
+
+Elemental Walls  9
+
+Entangle  10
+
+Gaseous Form  11
+
+Invisibility (Group)  12
+
+Leap  13
+
+Levitate  14
+
+Neutralize Poison  16
+
+Phantom Trap  17
+
+Poison  18
+
+Prying Eyes  19
+
+Scorching Ray  20
+
+Spell List Level 5
+
+Name  Page
+
+Cause Critical Wounds  2
+
+Charm Group  3
+
+Curse  4
+
+Detect All  5
+
+Elemental Weapon  6
+
+Enlarge or Reduce Anything  7
+
+Firestorm  8
+
+Full Illusion  9
+
+Full Restoration  10
+
+Imbue With Spell  11
+
+Imprisonment  12
+
+Paralyze 13
+
+Remove Curse  14
+
+Remove Effect  15
+
+Remove Paralysis  16
+
+Shaper  17
+
+Summon Ally  18
+
+Summon Monster  19
+
+Viewing Cloud  20
+
+Ren frowned, because he had thought he would get the Permanency spell with the Level 5 spell book, then remembered Rosie had given him a special book. He took it out and gasped when he read the title.
+
+Noctus Eternum
+
+Advanced Spells For The Hardcore Spell Caster
+
+Holy crap! Ren thought, and read it.
+
+Spell List - Advanced
+
+Name  Page
+
+Astral Projection  2
+
+Blade Barrier  3
+
+Break Enchantment  4
+
+Darkness  5
+
+Disintegrate  6
+
+Erase Writing  7
+
+Explosion  8
+
+Fall Without Falling / Fly  9
+
+Merge Items  10
+
+Permanency  11
+
+Petrify  12
+
+Polymorph  13
+
+Portal  14
+
+Sanctuary  15
+
+Shadow Creation  16
+
+Soul Bind  17
+
+Spell Immunity  18
+
+Transmute  19
+
+Undying  20
+
+Void Annihilation Portal  21
+
+Whirlwind  22
+
+Wondrous Lightning Storm  23
+
+Oh, wow. Ren thought and just stared at the list of spells. That's... wow.
+
+“Look at the Polymorph spell!” Teepo said, excitedly.
+
+Ren flipped to the right page and read it.
+
+Polymorph Spell
+
+This spell allows you (or a person you touch) to assume the form of another humanoid-type being of any size category (Tiny, Small, Normal, Large, Giant, Humongous). The change is accompanied by excruciating pain because the body itself changes, and not just the appearance.
+
+The changed person gains the Strength, Dexterity and Agility of the new form, but retains the Intelligence, Wisdom, Vitality, Endurance, and Luck of their original form. They also gain any extraordinary or special attacks the new form has, but do not gain any spell-like abilities or affinities.
+
+Please Note: You cannot change into an incorporeal or gaseous form, as they do not have physical bodies; nor can they be changed to have a physical form.
+
+Warning: The Polymorph spell is permanent unless you have the Shape Change ability. If you die in the new form, your body will revert back to it's original form (but you will still be dead).
+
+Ha! Ren thought in amusement. I knew there was a hidden catch to the Polymorph helm!
+
+“You would have had to keep switching forms every 5 minutes if you hadn't changed the time and included yourself in the ingredients as the default.” Teepo said.
+
+Yeah, and I wouldn't have known I couldn't change back until I died. Ren thought and shook his head. I really have to thank Rosie for this advanced spell book!
+
+“You should tear out the pages for Soul Bind, Shadow Creation, Undying, and Void Annihilation Portal.” Teepo suggested. “You do not want to know those spells.”
+
+I'm curious about the Undying one, though. Ren thought and started to flip the pages.
+
+“NO!” Teepo yelled and Ren closed the book before he saw the page with the spell on it.
+
+Okay, okay. Ren sighed, then opened the book again and flipped to the page with the Permanency spell to read it.
+
+Permanency Spell
+
+This spell allows you to make certain other spell effects permanent.
+
+Please Note: Permanency (if detected) can be dispelled by a caster or wand of equal level as the original caster, and the spell that was permanent will regain it's original limitations.
+
+That's it? Ren asked, and saw the rest of the page was blank. It's that easy?
+
+“You needed a special book to get it.” Teepo said. “Did you want it to be more difficult?”
+
+No, it's just surprising that it's not. Ren chuckled and took out a Level 5 wand and replaced the charges with the Permanency spell and stored it. I am going to abuse the hell out of it, too.
+
+Teepo chittered in laughter, and Ren read through the Level 4 and Level 5 spells, and very carefully read through the Advanced spells that he wanted, and not the spells Teepo had mentioned. His friend was smart and wise, and he took his advice.
+
+Ren equipped his Armor and replaced one of his Fireball wands with the Firestorm spell, just because he figured he might need it. Plus, when he was out in the middle of nowhere, he wanted to see what it actually was. He looked at the Whirlwind spell and wanted to see that as well and replaced one of the Web wands with it.
+
+Okay, now... what else? Ren asked himself. Oh, yeah. He brought up the messaging system and chose the option for a message to the tech department. He typed up a quick note asking about the overtly sexualized interactions he had witnessed between Russell, a young but tall kid, and 2 different girls in his county. Ren wanted to know why it was happening, why it was necessary, and why it had happened more than once. He explained that he knew it was a good idea to encourage NPC spawning, but didn't understand why it was apparently with all NPCs and not just teenagers and older.
+
+With that task done, he checked his missed messages and stared at the total. 83 of them? He thought, and started to go through them. A lot of them were from people he didn't know. They asked for favors, money, discounts, free stuff, to chat, and some wanted to hang out. Ren sighed, because he knew it was because he had hit the top XP spot 4 times now, and once as part of a party. He deleted most of the ones he didn't know, kept some that he kind of recognized, then concentrated on the ones he did know. The last of which was a message from the CEO of Sid Tec, Mr. Edward Torren.
+
+Ren,
+
+I'd like to apologize for not giving you this sooner, even though I had promised it a while ago. I honestly couldn't think of anything to give you that wouldn't completely unbalance you, then Ms. Stanford gave me an idea. You will find that idea in your inventory inside a special box. I hope this will make up for the game denying you all of that Honor converted XP.
+
+Edward Torren
+
+I wonder what it could be? Ren asked himself as he fought his impulse to check it right away, then looked at the last bunch of messages. A couple of them were from Clint. One was about him wondering if Ren wanted to join the rest of the party for relaxing on the weekend, and the other was concern over Ren not responding. Ren typed up a response and said he was going to be busy for a couple of days, and if possible he would join them for some relaxing. He didn't tell Clint about going through Shargon Caverns, though.
+
+Ren checked another message, and it was from Selene, the Mistress of Dance. She had broken a sword and damaged another, and no one she took them to could repair them. He chuckled and sent her a message to tell her she could bring them to him at the starter city of Aurora, then looked at the last 3 messages. They were from Janice, and each one was progressively more hostile and worried. Ren had missed the last few lessons with her, and the last message said she was too busy to just wait around for him to show up when he felt like it.
+
+Ren sighed and sent her an apology, then said he would see her in a few hours to explain and to wait for him. After he sent the message, he received a popup saying that he had a new message. It was from Selene, and she said she needed the swords desperately and would take a break from questing for the next few days to travel from the capital city of Bore-Reale and back to Aurora for him to work on them.
+
+Ren thought about how far away the city was and how long it actually took to travel by normal means, and he sighed. He didn't want her to travel all that way for a pair of swords that he could make in only a few minutes, so he activated the chat option.
+
+Ren  On second thought, just meet me in front of the castle in the capital city in two hours. I'll have swords ready for you.
+
+Selene  How is that possible?
+
+Ren  Don't worry about it.
+
+Selene  Are you that close? I thought you said you were in Aurora?
+
+Ren  I said not to worry about it.
+
+Selene  Ren, that's a three day journey on a good horse!
+
+Ren  Not for me.
+
+Selene  You're not going to tell me, are you?
+
+Ren  You'll see it for yourself in two hours.
+
+Selene  Well, okay. I'll see you then.
+
+Ren closed the chat and walked over to the back bedroom and knocked. He opened the door and greeted Princess properly.
+
+“How would you like a quick run to the capital city?” Ren asked her, and she stood up immediately.
+
+Let us go.
+
+“I should make the swords first; but, I can do it there. You're right. Let's go.” Ren said, and led her outside. He climbed up on top of her to sit on the saddle on her armored back, then Princess trotted at a fast pace down the road. Once she saw that no one was between her and the West Gate, she took off at half of her speed. They reached the turn-off to the capital city, and Teepo confirmed there was nothing. She huffed in pleasure as she ran as fast as she could, and Teepo chittered in delight.
+
+They made the three day journey in just over an hour, and Ren had Princess come to a stop on the outskirts of the city and at a small field. He gave her some food to eat, took out his shop tower, and activated it. He went inside and made a mold for a sword blank. He made it a bit thicker than normal, then poured it out.
+
+Ren used his Fire Manipulation skill to keep the metal hot and folded it, then folded it again. He reheated it and did the same thing, then did it again and again. He folded it a dozen times to make it as strong as anything else he had ever made, then poured out another blank and did the same thing to it. He didn't rush, but since his Strength was so high it took him almost no time to hammer the metal out to the proper shape.
+
+The molten metal still had gold in it from when he made the amulets, so when Ren was done, he had two golden swords that gleamed in the light. He had made them the same size and shape as the swords she had, and then he thought about the enchantments she would want.
+
+She's definitely going to want Dexterity and Agility boosts. Ren thought, and enchanted one with 25 runes of Dexterity and 25 runes of Agility, then he shrugged and enchanted the other one with the same enchantment. Now... a set rune so she'll get a minor stat boost, then make them twice as light... hmm, what else?
+
+“Speed.” Teepo suggested. “Oh, and sharpness.”
+
+That's good! Ren thought, then remembered that sword he had replaced for Hank. It had a free strike during an attack, so he opened that recipe and added Set, Speed, Antidark and Sharpness runes to it, then used Double Infusion to set the new enchantments into both swords as he thought about Selene. He polished them to a shine and held them up so they gleamed in the light from the forge.
+
+There we go. Ren thought and examined them.
+
+Selene's Quick Carving Swords (Rare Wondrous Items - Binds on Equip - Paired Weapons)
+
+These swords have been imbued with various enchantments to make them extremely easy to use. When an attack is made with these weapons, a second strike can be performed for free, with no cost to Stamina.
+
+These swords grant: Free Strike (Temporary Skill), +50 Damage, +50 Dexterity, +50 Agility, +50% to Speed, Sharp +40 Damage (+20 per blade).
+
+Damage: 250 (160 Normal Damage, plus bonuses)
+
+Durability: 2000 / 2000
+
+Warning: Both weapons must be used for the Set bonus and full effects to be available. They are half as light as they should be, but are twice as strong. They also cannot be sharpened further.
+
+Oh, yeah. She'll like these. Ren chuckled, then a thought occurred to him. He took out a wand and replaced the spells with Erase Writing and used it on the swords, and his glyphs disappeared. He examined them and received the same popup, so all it did was erase the physical signs of the enchantment.
+
+That's how they did it! Ren thought in surprise. Those times when I felt or encountered something and couldn't find the runes! They were erased! He took out the Permanency wand and cast it on the Erase spell, then stored the wand and the swords. He left the instant tower to deactivate and store it, then went to Princess. Teepo? How much time before the meeting?
+
+“About 10 minutes.” Teepo said.
+
+Ren equipped his armor and climbed up onto the saddle on Princess' back, and she ran down the road and slowed when she came to the city gate because of all the people.
+
+They still aren't checking anyone for weapons or anything. Ren thought in surprise as he rode his mount into the city.
+
+“I'm a little glad that they don't.” Teepo said. “They would have to confiscate Princess, wouldn't they?”
+
+Ren chuckled. Definitely.
+
+Princess huffed and brayed her amusement as she imagined someone trying to confiscate her, and it made Ren laugh out loud. Several people watched him as he rode an armored mount through the city streets. It took almost the whole 10 minutes to get to the castle, and even though it was nearly lunch time, he had to dismount and lead Princess by her reins for the last two streets.
+
+*
+
+“Over there!” A voice said, and Selene turned to look.
+
+“Ha ha!” Selene laughed when she saw Ren walk around the corner. “I can't believe that he actually... made it... here.” Her words drifted off as Princess came around the corner behind him and Selene saw the fully armored mount. “I'd probably curse my head off if there wasn't a guard standing right behind me.”
+
+“I'll do it, so you won't get in trouble.” The guard said, and cursed under his breath to make her laugh. He had never seen such a mount before, and he knew that the gorgeous Adventurer in front of him hadn't either.
+
+*
+
+Ren waved to Selene and walked over to her. “Hi.”
+
+“H-hi.” Selene said to him while she stared at Princess.
+
+“She's quite a sight, isn't she?” Ren chuckled. “She never wants to take off the armor.”
+
+Why would I? Princess asked him. You made it comfortable enough to sleep in.
+
+“I'd never ask her to, either... except to upgrade it.” Ren grinned.
+
+“H-how much-”
+
+“She is not, nor will she ever be, for sale.” Ren said. “Not for any price.”
+
+Selene stopped herself from getting angry about it, but Ren had felt that instant reaction to someone telling her no.
+
+“So, do you have them?” Ren asked, and Selene took out the two swords Ren had given her during the Aurora Fire so long ago. “Wow.” He said and held up the broken one. “It snapped right off.”
+
+Selene nodded. “It did the job, though.” She chuckled. “The Minor Demon was pretty pissed when we banished it and it still had the top half in it's eye.”
+
+I wonder if that was the same Minor Demon that I met? Ren thought and smiled as he took the other sword, to see it was pitted and scratched so much that you could barely see the finish on the blade.
+
+“Yeah, you've definitely used them right down to their core.” Ren said and used Vision of Impurity to see several cracks, then looked at Selene. “This isn't much good anymore.” He said and stored the broken one, then held the still intact blade with one hand and the hilt with the other, then snapped it in half.
+
+“No!” Selene said, and then sighed. “How could you do that?” She asked. “I've fought so many battles with it...”
+
+“I could have repaired it, but my skills are so far beyond this now that I'd insult you by giving it back.” Ren said and stored the two pieces, and he felt how sad she was. “Do you want to see your new sword?”
+
+Selene nodded, and Ren took out one of them. Her eyes nearly popped out of her head as she saw the gleaming gold blade, and he felt how much she wanted it.
+
+“Do you like it?” Ren asked.
+
+“I... can I hold it?”
+
+Ren chuckled. “I'd be a fool if I just handed it over like that.”
+
+Selene opened her mouth to order him to hand it over, and she sighed again. “How much is it?”
+
+“How much have you got?” Ren asked, and Teepo chittered in laughter.

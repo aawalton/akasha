@@ -1,0 +1,197 @@
+---
+id: f4e175eb-e5c0-5dac-ae8d-19f4c2a43362
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 Hunt"
+slug: 0043-chapter-41-hunt
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 43
+ownLength: 1970
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3314250/chapter-41-hunt"
+royalRoadId: "3314250"
+---
+
+The column continued west through the narrowing streets of Cragwatch, the villagers moving quietly between the guards as the dim lantern light faded behind them. The horses were led close along the edges of the line, their breath faint in the cold air.
+
+Above the leaning rooftops the pale strip of night sky remained still, yet Lucien’s gaze lingered there longer than before as he followed the ridges of tile and timber where the variant had last been seen.
+
+The rooftops rose and fell in irregular lines above the road, their angles warped by years of winter storms and careless repairs. From the ground they appeared fractured and uneven, but to a creature moving above them the broken ridges formed a continuous path.
+
+Several houses leaned close enough that a careful leap could carry a hunter from one roof to the next without touching the ground. Others were separated by narrow gaps where snow and frost had long since loosened the clay tiles.
+
+The paths were imperfect, yet for something accustomed to moving along them they offered a vantage point far superior to the cramped streets below.
+
+Positioned near the middle of the column, Lucien allowed his pace to slow by a fraction, small enough to pass unnoticed among the shifting movement of the group, yet enough for those behind him to draw closer as the road narrowed between the leaning houses.
+
+Dorian noticed the tightening formation and said nothing, merely adjusting the guards along the flanks and allowing the villagers to settle into the tighter space near the middle of the lane.
+
+Ahead, the road bent gently westward where the houses grew taller and the rooftops pressed closer together above the road.
+
+A few steps behind him, Sera’s attention followed the same stretch of rooftops. Her fingers shifted lightly along the grip of the bow as she watched the narrow rooflines between the buildings.
+
+The tiles sloped downward and from that height, a beast could drop into the street in a single movement.
+
+Only one stretch along the bend offered a clear descent.
+
+Lucien continued walking until the column reached that section of the road before easing his pace again.
+
+The villagers gathered more tightly behind the guards, their footsteps muted upon the broken stones while the restless sounds of the migration drifted faintly through the distant streets behind them.
+
+Somewhere beyond the houses, goblins shrieked and bickered among themselves while the lighter, skittering chatter of kobolds rose and fell in uneven bursts.
+
+For a moment, nothing seemed to move above them. Yet he knew the variant kobold would be watching, predators that hunted with patience rarely abandoned a promising opportunity.
+
+Beside him, Sera’s dull eyes continued to slowly scan along the dark ridgeline above, the bow resting loosely across her hands.
+
+He didn't look at her when he spoke.
+
+“Not yet.”
+
+Sera gave a small nod in response as the column continued forward. For several moments, the rhythm of their movement remained undisturbed.
+
+Then a tile shifted somewhere above.
+
+The sound was faint enough that most of the villagers missed it, though Sera’s gaze lifted a fraction toward a specific spot in the roofline while Lucien kept his attention forward, knowing that those that hunted with patience rarely revealed themselves all at once.
+
+A shadow slipped briefly along the ridge of the nearest house before vanishing again beyond the broken tiles.
+
+The crimson kobold was testing them.
+
+A moment later, a small shape dropped abruptly from the roof ahead and landed low in the center of the street.
+
+One of the horses jostled faintly behind the line while a villager gasped as the narrow body crouched low in the road, its pale grey eyes flicking rapidly over the guards and the frightened villagers clustered behind them.
+
+Near the rear of the formation, Tomas lowered his spear instinctively, his eyes tracking its movements with focus.
+
+Bran raised one hand behind the guards, guiding the frightened villagers back toward the center of the road before panic could spread through the line.
+
+Dorian moved a step along the line, his gaze sweeping briefly across the rooftops before flicking back to the kobold before them.
+
+This one was not the crimson variant.
+
+The common kobold remained crouched there, its lean body tense as it studied the reaction of the formation. Its pale grey eyes snapped once toward the rooftops above before returning to the guards in a single motion.
+
+Spears lowered instinctively while several villagers shrank backward behind the shields of the guards.
+
+The creature remained low, measuring the distance between the men, its eyes moving quickly from spearpoint to spearpoint in sharp, calculating motions.
+
+For a brief moment, it seemed almost curious. Then the kobold bolted sideways, slipping past the front of the line and vanishing into the shadows of the nearest alley before anyone could react.
+
+Throughout it all, Lucien kept his attention above, leaving the brief disturbance ahead to Dorian and the guards.
+
+The probe had confirmed what the hunter needed to know. The column was dense, the guards were alert, and the villagers were frightened enough to move quickly if the line fractured.
+
+A shadow moved again but this time the figure did not retreat, its crimson fur catching the pale edge of moonlight as the larger kobold crouched low at the broken edge of the roof above the bend, its narrow body poised over the lane below.
+
+The variant’s head turned slowly as it studied the street. Its cold stare moved along the column, lingering briefly where the villagers clustered most tightly between the guards before returning to the narrow bend in the road.
+
+Then its movement stilled.
+
+For a long moment, its eyes settled upon Lucien.
+
+He held the stare.
+
+The kobold had remained with the same patient stillness, its rust-colored fur barely visible among the winter grass as the battle unfolded before it. While the goblins rushed blindly against the walls of Ashridge and the hobgoblin drove them forward with brute force, this one remained apart from the chaos.
+
+Even back then, it did not behave like the others. When the hobgoblin fell, it didn't join the panicked retreat of its lesser brethren. Instead, it lingered beside the riverbank for a moment longer, studying the field with the same measured attention it now gave the narrow lane below.
+
+Only after confirming the death of the goblin variant did the kobold withdraw west.
+
+Now Lucien understood why.
+
+Then, almost imperceptibly, the corner of his mouth shifted.
+
+It was waiting for the weakest link between the gaps of the formation.
+
+The pattern had finally revealed itself.
+
+This time, he would decide how the hunt unfolded.
+
+Lucien’s attention drifted briefly toward the opposite wall where the timber frame of a house rose unevenly above the street. Once it dropped into the lane, that wall would be its only path back to safety.
+
+The coil of rope rested against his shoulder as he measured the distance between the wall and the street below.
+
+It had already chosen its descent.
+
+He eased his pace once more, allowing the column to compress around him as the guards adjusted to the subtle change. Dorian moved a step along the line, his attention passing once along the rooftops before returning to the street ahead.
+
+Above them, the crimson kobold shifted forward along the tiles.
+
+Sera’s fingers rested lightly against the bowstring, though she did not yet raise the weapon.
+
+“Wait,” Lucien said quietly.
+
+The creature tensed. Then it dropped.
+
+It fell from the roof and struck the road in a low crouch just ahead of the tightened line, its claws scrapped across the stones as it absorbed the fall.
+
+The crimson kobold unfolded from the impact a heartbeat later.
+
+Unlike the smaller kobolds that darted nervously through the alleys, the variant didn't recoil from the lowered spears.
+
+Its cold grey eyes moved slowly from face to face, marking each man while its ears remained perfectly still.
+
+The villagers recoiled instinctively while the guards tightened their formation, spears shifted forward as the variant's focus moved across the line.
+
+In an instant, the predator circled once in a tight probing motion, its body coiled low as it searched for the narrow gap it had expected to find among the frightened villagers.
+
+There was none.
+
+Lucien remained still as he watched.
+
+The crimson variant had already perceived the mistake.
+
+Its gaze snapped upward.
+
+Sera had already drawn, the bowstring held steady. She had been waiting for the kobold to commit. Only then did the string whisper, the arrow cutting through the air toward its chest.
+
+It reacted instantly, twisting sharply as it hurled itself across the narrow lane, aiming for the wall rather than the waiting spears.
+
+Exactly where Lucien had expected it to go the moment it committed to the descent.
+
+The variant struck the opposite wall, claws catching briefly against the timber frame as it tried to launch upward toward the roofline.
+
+Sera’s second arrow was already in flight.
+
+The shaft struck just beneath the creature’s shoulder as it turned, the impact driving it sideways off the wall before it could regain the roof. It hit the ground heavily, its limbs jerking once against the stones before falling still.
+
+Silence settled across the narrow street.
+
+The villagers stood frozen where they had halted along the road while the guards tightened their formation around them. Somewhere in the distance, the restless sounds of the migration continued to drift through the village as goblins and kobolds moved north through the ruined settlement, unaware that one of their own had fallen.
+
+Tomas stood near the rear of the formation with his spear still half raised, his eyes fixed upon the fallen variant lying near the base of the wall.
+
+For one lingering moment, he remained still before his grip tightened. He stepped forward to take the place left open, where the line had loosened under the variant’s sudden entrance from above, setting his stance with deliberate care.
+
+Dalen would have wanted to see that.
+
+Lucien observed the fallen body carefully, only when it remained motionless did he step forward.
+
+Up close, the variant appeared heavier than a common kobold. Its limbs were thicker, the muscles beneath its crimson coat more pronounced than those of the smaller creatures that skittered through the streets beyond. The arrow had struck cleanly beneath the forelimb where the twisting leap had exposed the narrow gap between the ribs.
+
+He studied the corpse for a moment.
+
+After several quiet breaths, Sera approached, her gaze fixed upon the coil of rope that hung across his shoulder. Without a word, Lucien uncoiled it and handed it to her.
+
+As she accepted the rope, the hunter examined the body in silence. Her pale eyes moved slowly across the dark crimson fur and the unnatural bulk of the creature. The claws were longer than those of an ordinary kobold, their curved edges worn sharp by years of stone, root, and rough earth.
+
+She began binding the corpse into a bundle that would allow them to carry it with greater ease. Her movements were efficient, shaped by years of processing the results of her hunts.
+
+Lucien’s gaze remained on the body.
+
+Even in death the kobold’s narrow face retained the same unsettling stillness it had shown in life.
+
+Dorian approached after assigning several guards to watch the surrounding streets.
+
+“You knew,” the captain said quietly.
+
+Lucien did not look away from the corpse. “It fled west.”
+
+Dorian followed his gaze toward the fallen variant. For a long moment, he said nothing, his expression unreadable beneath the dim lantern light. Then he gave a slow nod before turning back toward the column.
+
+The others had only been passing through.
+
+This one had chosen to remain.
+
+The western road had been on his mind since he stood upon the seam.

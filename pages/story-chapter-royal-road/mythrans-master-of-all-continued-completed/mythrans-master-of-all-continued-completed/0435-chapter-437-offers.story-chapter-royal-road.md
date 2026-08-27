@@ -1,0 +1,317 @@
+---
+id: 61e7b49f-8120-571a-af48-57e871d44721
+page-type-slug: story-chapter-royal-road
+title: "Chapter 437 - Offers"
+slug: 0435-chapter-437-offers
+partOf: mythrans-master-of-all-continued-completed
+position: 435
+ownLength: 4094
+unit: words
+publishedAt: 2017-11-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177281/chapter-437-offers"
+royalRoadId: "177281"
+---
+
+After getting their shower, Ren and Denise spent the rest of the day in bed together. Once she had discovered that he wanted to go down on her and stay there, she let him give her all the proof she wanted that he really could go all day if they only played with each other and he didn't have to exert himself.
+
+They stopped when supper time came around, and after another quick shower to clean up, they went downstairs to the dining room to eat with everyone else. Stella and Lisa were already there, and so were Barbara and Donald.
+
+“Hey, thanks a lot Stella.” Ren said as he saw the layout of food on the table. “You really outdo yourself some days.”
+
+“Only some days?” Stella asked.
+
+“You're not here every day.” Ren said, and she laughed.
+
+“Good point.”
+
+“Hey, everyone.” Elise said as she came into the dining room. “Whew! What a long day!” She said and gave Ren a kiss. “How was your day?”
+
+“It was amazing, surprising, and over before I knew it.” Ren said and grinned. “Denise had an okay day, too.”
+
+Elise laughed when Denise snorted and coughed. “What about you, Lisa?”
+
+“It was a good day.” Lisa said. “I played online for a while and read some books.” She said as Elise took off her suit coat and sat down. “I also let the maids know what's been going on.”
+
+“Hey, thanks!” Ren said. “I'll be back to Aurora as soon as I can, and then I'll thank you properly.”
+
+Lisa's face flushed red. “You don't have to do that.”
+
+“Oh, yes I do.” Ren said. “I'll message you as soon as I'm out of the caverns and find out how far away I am.”
+
+“B-but...”
+
+“Yes, I've got other commitments.” Ren said.”You're the first one I want to see in the game when I'm free of the caverns.”
+
+Lisa closed her mouth on her response and nodded slightly, and everyone sat down and started to eat.
+
+“Thanks for coming over early, Barbara.” Stella said.
+
+“You offered me food that I didn't have to cook.” Barbara said.
+
+Her husband Donald chuckled. “Plus, she's had a really easy time during her shifts lately.”
+
+“Should I apologize for that?” Ren asked, and Barbara laughed.
+
+“You've been trying to spend time with everyone, and like I told Stella, I can't complain that you have so many people in your life that care about you.”
+
+Ren looked around and beamed a smile at everyone. “There's definitely no complaints on my part.” He felt a hand on his leg under the table and turned to look at Elise, and she smiled warmly at him.
+
+“No complaints here.” Elise said.
+
+“No comment.” Lisa said, and Ren chuckled.
+
+Ren reached a hand out and touched her cheek. “You won't have any complaints after I get back.”
+
+“Ren, I... I didn't mean...”
+
+“I know what you meant.” Ren said and smiled. “Don't worry, I'm going to take care of it.”
+
+“I... okay.” Lisa said. I really hope that you do.
+
+Denise told them that Ren's leg was healing nicely, and he would be back to doing therapy in a couple of days. Donald grunted, and Barbara translated that he was happy to hear that. Everyone laughed and Donald smiled. Stella let them all know where the emergency kits were, which was everywhere, and that everything was restocked. They all appreciated her diligence and ate their food. When the meal was over, everyone was in a much better mood than they were before eating.
+
+“Elise? Do you want to just hang out and watch television for a while? I'm going into the game soon and I'd like to cuddle until then.” Ren said.
+
+“I'd like that.” Elise said happily.
+
+“Lisa? Go get your book.” Ren said, and she looked at him with wide eyes.
+
+“R-really?”
+
+Ren nodded, and she left the dining room almost at a run. “We're going to the first living room!” He yelled after her.
+
+“Okay!” Lisa yelled back as she disappeared around the corner.
+
+“That was really nice of you.” Elise said and pushed his wheelchair out of the dining room and to the first living room, while Donald went to the workout room and Barbara cleaned up the dishes against Stella's protest.
+
+“I figure we can cuddle, and she can spend time with us at the same time.” Ren said. “My arms kind of ache if I'm around her and can't hold her.”
+
+“Oh, I know that feeling.” Elise said with a chuckle and helped him transfer onto the large couch. She sat down on the corner of the couch after putting a pillow behind her; and since she had left her suit coat in the dining room, she didn't have to take it off to be comfortable. “Snuggle in.”
+
+“With pleasure.” Ren said and tucked himself under her arm and rested his head against her chest. “I think I'm getting used to this feeling.”
+
+“What feeling is that?” Stella asked as Barbara and her came into the room, and Denise turned on the television.
+
+“Contentment.” Ren said, and they all looked at him. “You all work so hard to make my life bearable.” He sighed happily. “You don't know how much I appreciate all of you.” He said as Lisa came into the room. “Do you want to sit or lay down?”
+
+“Sit.” Lisa said and sat beside him, and he wrapped an arm around her to pull her close. “I have to wait for your leg to heal before I can lay on your lap.”
+
+Ren nodded, and Elise put her arm around both him and Lisa. They stayed that way, with an occasional kiss exchange between Elise and Ren, until it was close to the time that he wanted to go back into the game. When the time came, their little gathering broke up and Barbara took over control of Ren's wheelchair.
+
+“I'll see you tomorrow night for the next episode of your show.” Elise said, and Ren's mouth dropped open.
+
+“Tomorrow's Friday already?” Ren asked, surprised. “Time is just flying by.”
+
+“It really is.” Elise said and gave him a goodbye kiss. “Goodnight.”
+
+“Goodnight.” Ren said and she picked up her suit coat and left. He thought about everyone he had seen this week, and looked at Stella. “I haven't seen Gloria since the hospital.”
+
+“She's been... busy.” Stella said in a flat tone.
+
+“Does she know what happened to me wasn't her fault?”
+
+“Yes, Elise called her as soon as the guy was caught.”
+
+“Why hasn't she come to see me?” Ren asked.
+
+“If I had to take a guess, I'd say she still blames herself.” Stella said. “Not openly, but it bugs her that her actions led to it happening.”
+
+“I blame myself, too.” Denise said. “I can't imagine what...” She shook her head. “At least he didn't succeed.”
+
+“Well, on that kind of depressing note, Barbara? Take me to the land of corruption!”
+
+Barbara laughed. “Why don't I just take you to your bed?”
+
+“That's what I said.” Ren grinned, and she shook her head. Barbara took him over to the elevator, and he didn't flinch when they entered it. They went up to his bedroom and she helped him get into bed, then handed him the VR headset.
+
+“Thanks.” Ren said and put it on. “I don't think I'll be out during the night.” He said and relaxed.
+
+“I assumed that, since you stayed out for Elise.” Barbara said. “Have fun.”
+
+“I will.” Ren said. “Flow Login Start.”
+
+********
+
+Ren woke up in the shop tower and looked up at the ceiling. Hi, Teepo.
+
+“Hi, Ren.” Teepo said. “You were gone for 4 days.”
+
+I know, buddy. Ren said and sat up. I'm back now, and I think it's time we get out of here.
+
+“I agree.” Teepo said. “It's been fun and all, but all this corruption stuff is getting on my nerves.”
+
+Ren chuckled. You're not the only one that feels that way; but, I think I've thought of a way to deal with it. He got out of bed and ran down the stairs. He concentrated on his Heat Sense Aura, and felt all 20 succubi within it. With his Undead Adept skill, he could feel the skeleton knights within his Aura as well. He took out his Book of Runes and thought about what corruption would look like.
+
+Ren drew a biohazard symbol, with three half circles around a center point and another circle around the middle. He imagined it red for blood, since the corruption seemed to be concentrated there, and touched the image. He poured Mana into it and thought the symbol should keep generating corruption; it disappeared and reappeared on the page, exactly like he had imagined it. It was bright red and had black spots through it.
+
+Rune of Corruption
+
+This rune is the symbol of corruption. When activated, will continue to generate corruption until the item it is on rots away, or the creature or being wearing the item dies.
+
+Warning: If used to kill, you will gain Infamy appropriate for the death.
+
+Whoa. Ren thought. He didn't bother doing his multiple rune trick because he was never going to use it; but, he did need it to make it's inverse. He imagined it's exact opposite, white for healing and a do not enter symbol in the center instead of the normal circle. He drew it out and touched it, and poured Mana into it and thought the symbol should keep absorbing corruption, the exact opposite of the Rune of Corruption. The image disappeared and reappeared on the next page.
+
+Rune of Anti-Corruption
+
+This rune is the symbol of anti-corruption. When activated, will continue to absorb corruption until the item no longer has corruption, or if it is touching something corrupted, absorbs corruption from that instead.
+
+Bonus: If used to heal, you will gain Fame appropriate for the life saved.
+
+Ren grinned and used his multiple rune trick to make a glyph of 10 runes, then took the Ring of Water Walking off of the Hand of Glory that hung around his neck. He used Double Infusion on the ring and enchanted it with 5 glyphs of 10 runes each of Anti-corruption, then put it back on the hand. He immediately felt a sharp pain in his heart and dropped to his knees. “AGH!” He yelled as the corruption in him was forcefully sucked out of his body and into the ring. It only took a few minutes to finish; but, it had felt like an eternity.
+
+Notice!
+
+Your anti-corruption rune has saved it's first life. This person is no longer corrupted and you have received a reward. Further rewards of this type cannot be gained from this person.
+
+Fame: +300
+
+“Only one bonus... per person.” Ren said, breathlessly. “No... farming it.”
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame (300) x 10 XP = 3,000 XP
+
+Ren panted and stayed on his knees for another few minutes. “Hooo... okay, I guess that was... too many runes to use at once.” He said and stood up. “Either that, or my corruption was too high and it was going to hurt no matter what.”
+
+“I'd say it was both.” Teepo said. “It worked, though.”
+
+Ren nodded, and left the tower.
+
+“REN!” A woman's voice exclaimed, and he was immediately surrounded by all 20 succubi.
+
+“Aura or touch?”
+
+“TOUCH!” They yelled together, and he laughed.
+
+“I'm sorry I was gone so long.” Ren said and touched the succubus in front of him. “Do you want the same as last time?” He asked, and she nodded. He fed her a huge burst of need, and she gasped as her eyes glowed. He went to each one, and gave them what they wanted, and stopped when he came to Seldanna.
+
+“P-please...”
+
+Ren took a deep breath and let it out. “I've got something that should level you up.”
+
+“R-Ren...”
+
+“You'll need to kneel for this.” Ren cautioned her, and she knelt in front of him. He stepped close and put both hands on her face. “I'll go slow at first, then I'll ramp it up.”
+
+“B-but...”
+
+“Shh.” Ren said, and Seldanna felt how much he cared about her well-being. He thought about spending the entire day with Denise, and how much the both of them enjoyed it. “Feed.” He said and let a small trickle of it out.
+
+“Oh...” Seldanna started to pant as he let more and more desire and pleasure out for her to consume. “Oh, god.”
+
+Ren smiled as her eyes started to glow, and he leaned in close. “You're really going to like this part.” He said and kissed her.
+
+“MMmmM!” Seldanna moaned as Ren shoved an hour's worth of passion into her in less than a second. She broke the kiss and opened her mouth to scream. “AHHH!!”
+
+Ren felt her ability level up, and a ripple of unleashed emotion went out from her and into the other succubi.
+
+Zunala, the oldest of them, fell to her knees. “Wh-what... what was that?”
+
+Ren felt along the bonds that Zunala had made between her and the other succubi, and didn't find the one to Seldanna. “Apparently, I don't have to ask anyone what to do to break their bond to you.” He said. “Once they are powerful enough in their own right, they can break free themselves.”
+
+“What? No. No, they can't.” Zunala said. “Murdrasu... he... he said it was permanent.”
+
+“I think if they want to keep the bond they can, or establish a more mutually beneficial one.” Ren said, and since he still had his hands on Seldanna's face, he had kept feeding her. Her eyes were bright red and her skin glowed, and she really did look demonic. “Would you like another kiss?”
+
+“No.” She said and wrapped her arms around him. “I would love one.”
+
+Ren smiled and gave her a quick kiss. She took in a sharp breath, and he did it again. She gasped as each kiss was accompanied by a burst of playfulness and desire, and she lunged forward to keep contact with his lips. He obliged her own desire and made out with her, then dumped the rest of his gathered passion into her at the same time.
+
+Seldanna constantly moaned as they kissed, and then Ren felt her ability reach it's limit. He eased her feeding down and broke the kiss just at the last moment before her ability would have overloaded. She was breathing as if she had run a marathon, and her eyes were filled with want and desire for him; which could be seen even through the red glow that obscured them.
+
+“Thank you, My Lord.” Seldanna said and stood up. She made a fist and Ren saw a crack of Lightning spin around it. “I won't pledge again, because you were right. They were just words.” The small bolt of lightning travelled up her arm and across her chest, then down her other arm to end at her other fist. “It's not what you say, it's what you do that matters.” Seldanna said and the Lightning dissipated. “Yes, I will follow you anywhere.”
+
+“Thank you.” Ren said and laid his hand flat against her abdomen. He didn't feed her anything else; but, he did let her feel how much he liked her confidence. She nodded to him, and he turned around to look at the others. “You all felt what happened to her, and I believe that two more of you are getting close to achieving the same thing.”
+
+The succubi looked at each other, and then back at Ren.
+
+“If you're wondering... yes, I'll give you the same attention I just gave Seldanna.”
+
+Nearly half of them raised their hands and asked if it was them, and Ren chuckled.
+
+“I'll tell you when it's time.”
+
+They put their hands down, and he felt their sadness that it wasn't going to happen right then.
+
+“So, who's ready to head out?” Ren asked.
+
+“We are!” The succubi said together.
+
+“Good!” Ren said. “Gather your things if they are outside your tower, and we can leave right away.”
+
+Several succubi flew away to pick up different things they had scattered over the last 4 days, and Ren deactivated and stored his shop tower. He gathered up the 10 skeleton knights and told them they were moving out, then took out the Wand of Transport and cast Phantom Steeds for all of them. The steeds were all skeleton-like, and the skeleton knights mounted them as Ren cast his own Phantom Steed.
+
+“Hi, there.” Ren said and pat it's neck. It huffed at him, and Ren refilled the charges on the wand and stored it again. The succubi had finished gathering their things and were waiting for him, and he deactivated and stored the tower they slept in. He climbed up and onto the saddle of his steed and took out the Staff of Earth, and dropped the walls that protected them.
+
+Nothing was there, just as his Heat Sense Aura had told him, and when nothing appeared, he took out the All-Seeing Mirror and asked what enemies or creatures were in the next cavern. When nothing appeared there either, he nodded.
+
+“Let's go!” Ren said and pointed towards the tunnel across the cavern. They all took flight and crossed the space in only a moment, and flew up the next tunnel. When they arrived there, Ren received a popup.
+
+Congratulations!
+
+You have reached the final area for Shargon Caverns. You have persevered through all of the trials up to this point, and you should be proud. The most important lesson you need to learn is that all actions have their consequences.
+
+You will now reap the consequences of your worst decision.
+
+A hundred black portals opened up all over the cavern, and the trolls he had dropped into the abyss crawled out of them. They were twisted and distorted from their time in the Void, and one of them was definitely the worst off. He stood up to his full 12 feet of height, his body horribly burned and charred, and part of his face had been torn away.
+
+“YOU!” The troll yelled when it saw Ren. “DIE!”
+
+It started to run towards the group and his claws rippled and distorted, then grew to twice their normal size. Ren shot it with a Web, and the large claws cut through the web before it could envelop him.
+
+“IT'S NOT GOING TO BE THAT EASY TO-AAAAAAAGGGGHHHH!!!!” The troll screamed as 20 Acid Arrows pierced his face. He tripped because he could no longer see, and the acid burned him before his regeneration could heal him. He was then engulfed in 20 Fireballs, and his screams were cut off as his Health disappeared; then his body fell to the ground, dead.
+
+Notice!
+
+You have participated in the death of a Troll (Void Altered).
+
+Rewards: 4,650 XP
+
+Ren turned to look at the succubi around him. “Ladies, please clean up this mess for me.”
+
+The succubi were filled with confidence, since the nastiest troll had died so easily. With Ren's nonchalant attitude buoying them up, they spread out and covered the entire cavern with Acid Arrows and Fireballs. Even after surviving the abyss and outnumbering the succubi, the trolls didn't stand a chance against such overwhelming force.
+
+The trolls were quickly defeated and the bodies were looted, and Ren slid off of his Phantom Steed and looked at the pile of loot the succubi had dropped in front of him. Teeth, glands, a dozen carved bone clubs, troll hides, and troll skulls. He was tempted to just light the pile on fire and forget about it; but, just like everything else he had ever encountered, not taking the loot would only hurt him if he needed it later. He stored the loot, and ended up with 36 troll hides, 57 troll skulls, 18 full sets of troll teeth, and 12 carved bone clubs.
+
+“Well, I guess that's it.” Ren said, and then a single black portal opened about 10 feet in front of him. He, the skeleton knights, and the succubi prepared for battle, but nothing came out of it after a few moments, and Ren used the All-Seeing Mirror. “Show me what's on the other side of this portal.”
+
+The All-Seeing Mirror showed pitch blackness, and Ren had an inspiring thought. He knew the runes for all of the elements, and took out his Book of Runes to flip to the Void page. It was just a solid black circle, and Ren assumed it represented a black hole; so, he imagined it's reverse would be a white hole, and it appeared in the book on the next page. With it, he did his multiple rune trick to make glyphs of them up to 10, the maximum a glyph could hold. He thought about enchanting something with it, then realized he had another thing he could use.
+
+Ren took out the Elemental bomb he had made previously, and changed the enchantment on the inside with Anti-void runes. Once that was done, he took out a steel square and enchanted it with an Illumination rune. He used his Wand of Ventriloquism next to cast Magic Mouth on the steel square, then took out a platinum coin and tossed that and the steel square through the portal together and activated the enchantment.
+
+“What are you doing?” One of the succubi asked.
+
+“Offering a bribe and a warning.” Ren said and watched the All-Seeing Mirror to see what was happening on the other side of the portal, and the steel square lit the Abyss up. It was all twisted and mangled, and even Ren's brain couldn't quite make sense of it. There was no up or down, right or left, or anything even resembling some kind of direction. What he could see was thousands and thousands of misshapen eyes look at the steel square as it floated in front of them.
+
+*
+
+A distorted and mangled hand reached out to grab the steel square and the platinum coin, and the Magic Mouth enchantment activated.
+
+“I have no quarrel with you, nor do I want to fight.” Ren's voice said. “I give an offering, you be content and close the portal, then we go our separate ways.”
+
+The hand grabbed the steel square and the coin, crushed them together, then tossed it back through the portal.
+
+*
+
+Ren sighed as he watched the ball of steel come back out of the portal and caught it. He cast Magic Mouth on the Elemental bomb, activated it, and threw it through the portal.
+
+*
+
+“You will regret that...” Ren's voice said from the Elemental bomb, and the first enchantment activated. The Illumination runes burned through the diamonds across the bomb's surface, and thousands of sun-bright beams cut through the creatures. Hundreds were blinded, twice that were severely burned because they had never experienced light directly before, and thousands of shadow demons were killed outright.
+
+“...for the rest of your lives. Both seconds of it.” Two seconds later, the Anti-void bomb exploded.
+
+*
+
+Ren had covered this side of the portal with several Walls of Iron, and he stored the All-Seeing Mirror when the ball of bright white energy from the bomb had covered everything he could see on the other side of the portal. He stood there and waited to see what was going to happen next, and then the ground started to shake.
+
+“Get ready!” Ren said and climbed back onto his Phantom Steed, and his group arrayed themselves around him. It was for naught, as the cavern wall on the other side split open to reveal the outside.
+
+“It... is that... it cant be!” One of the succubi said as she beheld the sight on the other side of the cavern. “It's... I've never seen it, but... I'm sure it's the outside!”
+
+“Approach carefully!” Ren said, and led the group over to the new cave entrance. He thought about using the All-Seeing Mirror to see if it was an illusion or something, and took it back out. He asked the mirror to show him what was beyond the opening, and it showed him the exact same thing that he could see with his own eyes.
+
+“It's real.” Ren said with a huge smile on his face, and the Phantom Steed he rode trotted out through the opening, with the skeleton knights on their steeds, and succubi floated out right behind them.

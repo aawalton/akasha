@@ -1,0 +1,191 @@
+---
+id: 8dd4cb67-242c-5b55-84af-27a5e5054d73
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116 Reserves"
+slug: 0122-chapter-116-reserves
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 122
+ownLength: 2126
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3835601/chapter-116-reserves"
+royalRoadId: "3835601"
+---
+
+By early summer, his study had begun to feel smaller.
+
+Or maybe it was just his desk which now had papers that had multiplied until the surface beneath them could barely be seen.
+
+Reports from the western fields sat beside notes on the planned northern expansion. A list of material requirements from both Joren and Harlon for all the construction they had been doing non stop since a month ago.
+
+At the side of the study, the map drawn by Alicia had grown more detailed as time went on so much so that she had to draw another one due to all the correction marks in the first draft.
+
+Lucien's eyes lingered in that direction for a moment longer than necessary only to be interrupted by a small cough from Elias.
+
+The steward stood before the desk with a ledger held open in both hands.
+
+“My Lord. The first wave of refugees from Helvarn has been housed, with nine of the longhouses completed and the tenth being built as we speak.”
+
+Clearing his throat, Elias’s eyes shifted briefly toward the window. “The second water gate and the millrace have also been largely completed, My Lord.”
+
+Lucien leaned forward. “What of the sawmill, Elias? Harlon mentioned earlier this week that there was a lack of skilled carpenters to work on it fully.”
+
+Slowly, Elias inclined his head. “After the second water gate was tested, Master Harlon finished inspecting the sawmill, My Lord.”
+
+“As Master Harlon put it, the wheel is turning and it works, but it does not meet his standards, regardless of what Lady Talia says.”
+
+Lucien could have sworn he saw the corner of the steward’s mouth twitch beneath his beard. He wondered if the recent lack of sleep was getting to him.
+
+He looked more closely at the steward, wondering if his eyes were playing tricks on him.
+
+Seemingly not noticing his scrutiny, Elias glanced down at the ledger. “With the construction efforts over the past month, our treasury has grown...strained, My Lord.”
+
+“That is also accounting for the nursery that has been established and the militia compensation funds already reserved.”
+
+The words from the steward caused Lucien’s attention to shift, a hand rising to rub his temple. “How much do we have left, Elias?” he asked after a moment.
+
+Elias didn't need to glance at the ledger this time. “The treasury has decreased from four hundred and twenty Arde to two hundred and sixty-eight since spring, My Lord.”
+
+“If we continue at the current rate of expenditure, it is likely that the treasury will fall below one hundred Arde before the year’s end.”
+
+Resting back against his chair, Lucien resisted the urge to rub his temple again. “And the second wave of refugees hasn't even arrived yet...so that rate will only continue to increase.”
+
+The steward didn't respond, but the slight incline of his head was enough.
+
+Lucien shifted in his chair, head turning toward the window as the distant sound of hammering carried whenever the summer wind blew in the manor’s direction.
+
+He only glanced back when Elias cleared his throat, turning to regard the steward with a brow raised.
+
+“There is that favor you have yet to use with Lord Rathenfell, My Lord,” the steward said carefully.
+
+At those words, Lucien's brow creased faintly before he shook his head. “It would certainly help with our current predicament, Elias. But it would not solve the underlying problem of our revenues.”
+
+He glanced toward the open ledger in Elias’s hands. “To spend the favor gained from the stirrup crossbow design on coin would be a loss in the end.”
+
+Elias gave a slight nod, accepting the point without objection.
+
+Leaning forward, Lucien steepled his fingers. “The scribe Lord Rathenfell sent us...he has pledged to the goddess not to report anything further to him?”
+
+It had been one of the conditions he requested of Lord Rathenfell when he gifted him the stirrup crossbow design, along with a favor to be cashed in later.
+
+He had given the same design to Lord Vaelric as well, but with the condition that any future coal shipments from Cragwatch would be offered to Ashridge first.
+
+The steward folded his arms behind him. “Yes, My Lord. Lord Rathenfell’s reply has arrived, bearing his house’s seal and pledge. The man is effectively no longer working for Lord Rathenfell.”
+
+“...How binding exactly is that, Elias?”
+
+A dry look formed on the older man's expression. “As binding as paper and words are, My Lord. Some nobles would take such a thing seriously but...we cannot know with certainty.”
+
+It was expected, but there was little he could do to prevent the scribe from spying unless he expelled him from Ashridge altogether.
+
+Even that would only be a temporary measure when Lord Rathenfell could just as easily insert another one among the second wave of refugees, perhaps there had already been one among the first wave.
+
+After the days spent under the older noble’s roof, he personally liked the man, even if his judgment in drink remained...questionable.
+
+Politics and espionage went hand in hand, however, and blindly trusting him was not an option.
+
+Lucien shook his head. “Continue keeping watch on the scribe. I have already instructed Harlon and Joren to keep windlass crossbow production limited to their trusted apprentices.”
+
+“We might have given the stirrup crossbow willingly, but the windlass crossbow remains something we can still control.”
+
+“Yes, My Lord.”
+
+The stirrup crossbow was something any skilled craftsman would be able to replicate given enough time, but the windlass crossbow was a different beast altogether.
+
+At the thought of the problem he had been circling for the past month, Lucien found his eyes moving toward the map of Ashridge again.
+
+Ignoring the problem would simply make it worse. Bran’s words echoed relentlessly back at him once more.
+
+Yet the more Lucien considered Joren's concerns, the more another possibility began to creep into his thoughts.
+
+Sera had never been given the choice to remain ignorant of her blessing. Her hearing had changed too drastically for that. But Alicia was different...she might have lived like this for years without ever realizing there was anything unusual about it.
+
+What if simply becoming aware of it irrevocably changed something?
+
+He had no evidence that it would, but that was precisely the problem. Once he told her, there would be no way to take that knowledge back.
+
+Lucien still didn't have an answer to that dilemma, but there was another matter he had been avoiding for too long.
+
+Resting his hands against the desk, Lucien met the steward’s eyes, and something in his demeanor must have shown when Elias drew himself a little straighter.
+
+“Perhaps we have been limiting our options to Ashridge too much. Elias...has there been any word from the capital?”
+
+Elias stilled only for a brief moment before he slowly inclined his head.
+
+“Your...step-mother has sent letters asking about you, My Lord. As per your instructions, I have replied in your stead.”
+
+Keeping his expression carefully neutral, Lucien glanced toward the window. “I see. Any news from her that I should be aware of, Elias?”
+
+A brief flicker passed through the steward's eyes that he couldn't quite place before Elias shook his head faintly.
+
+“She merely requests that I continue to send reports of your health to her, My Lord. Letters entering and leaving the capital are being watched closely...and with the recent incursion of the elves, their scrutiny has only increased.”
+
+Letting out a deliberate hum, Lucien gave a slow nod after a brief moment. “Then it seems the avenue of seeking aid from the capital is closed for now. Keep me informed if there is anything urgent then, Elias.”
+
+“I will think of something regarding the coin.”
+
+Taking that as his dismissal, Elias dipped his head before gathering a few of the ledgers that he was done checking. He left the room soon after, closing the door behind him smoothly.
+
+The moment he was alone, a slow breath left Lucien’s mouth as he stared at the papers still littering his desk. Thoughts of this body's family lingered briefly before he pushed them aside.
+
+To his dismay, the documents the steward had taken barely put a dent in his current workload.
+
+He stared at them as though he could will them to disappear before exhaling once more, leaning forward in his chair to tackle the eternal bane of governance.
+
+For a time, the light scratching of quill on parchment and the distant sounds of construction drifting through the window filled his study.
+
+A soft knock sounded on the door, causing him to straighten slightly before calling.
+
+“Enter.”
+
+As the door opened and Alicia walked in, carrying a tray with a cup of salvation upon it, she cast a disapproving but gentle look at him.
+
+“My Lord. Please make sure to take a rest now and again. You have been working too much these past weeks.”
+
+At her words, he shook his head and set the quill down. “I will...as soon as Ashridge can get through this period without collapsing within itself.” A soft breath escaped his mouth. “The next wave of refugees will be here any day now.”
+
+Setting the tray down on the desk, she placed the cup of coffee in front of him. “Lady Talia has been busy as well, My Lord, she's...I have seen her steal looks at you, then push herself even more whenever she was about to rest.”
+
+That was not surprising. His junior had done the same back in their own world whenever they were swamped with work.
+
+Alicia placed a hand against her chest. “I had offered to help her but...the strange work she's been doing with those plants from the mana-infused area is...honestly, I can't make heads or tails of it.”
+
+The maid's words reminded him to check in with Talia again on the progress of the red herbs he had brought back.
+
+He was about to absently pick up a quill to note it down somewhere when a look from Alicia caused him to let out a soft cough before speaking.
+
+“You are already helping plenty, Alicia. Without your maps, Harlon and Garrick would have a lot more trouble with the planning,” Lucien assured her, taking a sip of his coffee.
+
+Alicia didn't look satisfied with his words, and for a moment her eyes lowered in thought before she perked up, gripping her fists in front of her.
+
+“Is there another tool I can draw for you, My Lord? It has been a while since the last time you had asked for one.”
+
+Lucien's hand holding the cup of coffee stilled for the briefest moment before he shook his head, causing her fists to slowly drop while her shoulders lowered.
+
+At the sight, he exhaled through his nose. “Ashridge's current problem can't be solved with tools, Alicia.”
+
+She tilted her head. “If you don't mind me asking, My Lord. What is plaguing you? Maybe it is something I can help with, even if only by listening?”
+
+They were words that should have been harmless, yet Lucien found himself holding the cup a little too tightly at how close they came.
+
+Despite his attempts to look unbothered, Alicia gave him a look of concern.
+
+Lucien's hand rose to rub his temple briefly. “The village treasury is shrinking, Alicia. It is not a big problem now but at the same time, it is not something that can be solved easily either.”
+
+“Ashridge needs some way to earn coin with the amount of people we have. Right now, the refugees are busy with all the construction efforts but when their houses are finished...there will be little work to go around for them in a farming village.”
+
+A contemplative look formed on Alicia's face as she glanced toward the window. “Earning coin...I haven't really thought about it, My Lord. I suppose Lady Talia, being brought up as a merchant, would be more suitable to help you with that.”
+
+She let out a breath. “Ashridge has always been a farming village...I don't think we would know any other way to earn coin other than growing grain, My Lord.”
+
+Placing his cup down, Lucien gave a slow nod. He remembered his first walk through Ashridge those months ago, of how people in this world didn't have the freedom to choose their line of work.
+
+'The freedom to choose...'
+
+The thought trailed off as an idea flashed across his mind, causing him to straighten almost abruptly.
+
+Alicia's eyes widened slightly at the sudden movement. “My Lord?”
+
+The corner of his mouth lifted slightly. “Thank you, Alicia. You've given me something to think about.”
+
+Despite the look of confusion, a gentle smile formed on her face. “I am glad to help, My Lord.”

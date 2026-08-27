@@ -1,0 +1,239 @@
+---
+id: 4b51112d-bd4b-561e-a876-7eaed025eded
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62 Reception"
+slug: 0067-chapter-62-reception
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 67
+ownLength: 2010
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3415036/chapter-62-reception"
+royalRoadId: "3415036"
+---
+
+The road to Ashridge stretched ahead in long pale bands where the snow had begun to recede.
+
+Lucien rode at the front of the formation, guiding his horse along the firmer edges when the road allowed it, keeping the lead steady so the carts behind could maintain pace.
+
+Three carts moved along the center of the road, their wheels cutting deeper tracks into the softened ground. The weight of the cargo showed in the way the wheels sunk into the dirt before pulling free again.
+
+Tomas and another guard were behind him, their eyes scanning the vicinity. Four moved along the flanks, spaced to maintain sight into the trees while the remainder held the rear.
+
+Talia guided the third cart she had prepared, maintaining a distance as its wheels tracked cleanly along the path ahead.
+
+She had been staring at the stars in wonder the night before. Much like himself, she likely didn't have the time to look at the night sky in the months since their arrival in this world.
+
+Lucien’s eyes remained forward as the road curved and two militia came into view near the bend.
+
+They stood off the main path, their spears resting upright at their sides. One turned first before recognition followed a heartbeat later.
+
+The two men straightened and one of them bowed his head.
+
+“My Lord.”
+
+He slowed just enough to keep the formation intact.
+
+“Report.”
+
+“No disturbances along the eastern approach, My Lord. Tracks were found two days ago but no signs since then.”
+
+Lucien considered the information carefully. “Do not pursue beyond sight and keep Captain Dorian informed if they return.”
+
+“Yes, My Lord.”
+
+He rode forward again. The convoy followed without break, the carts continuing their steady cadence behind him.
+
+The road widened as they approached Ashridge.
+
+The closed palisade gates came into full view not long after.
+
+Two guards stood at the entrance, positioned to either side. Their attention shifted as the convoy approached, posture straightening.
+
+Along the wall above, a pair of figures turned toward the road, their focus settling on the formation below.
+
+One of the gate guards stepped forward, his gaze passed briefly over the carts and guards before returning to him.
+
+“My Lord.”
+
+Lucien inclined his head in response.
+
+The guard turned and called inward. A voice answered from within, followed by the scrape of wood. A beat later, the bar lifted.
+
+The gates began to open.
+
+Wood shifted against wood as the entrance widened, the guards stepping aside.
+
+Lucien rode forward once the gates had opened fully.
+
+The first cart followed behind him, then the second, then Talia’s. The guards maintained their positions as the convoy passed through.
+
+The village opened around them in motion as he guided his horse along the main road.
+
+Men crossed between buildings carrying cut timber and bundled rope, some already setting posts along the edges of the road where winter frost had loosened the ground.
+
+Others worked near the outer paths, clearing what remained of packed snow and debris left behind by the thaw.
+
+Smoke rose from the chimneys in thin pale lines, the fires within burning longer now as water was heated and tools were prepared for use.
+
+The convoy moved through it without difficulty.
+
+Villagers lowered their heads as Lucien passed while a few greeted him directly before returning to whatever task had occupied them.
+
+Then, the glances began to linger.
+
+Lucien noticed the change after the first few cottages.
+
+Eyes moved across the formation in brief intervals before hovering on the third cart.
+
+A woman carrying split kindling slowed for half a step as her eyes went from Lucien to Talia and then back again.
+
+Two older men standing beside a timber stack paused in their conversation long enough for one of them to murmur something that drew a faint snort from the other.
+
+Further ahead, a younger woman near the well looked up from a wash basin, watched the convoy pass, and smiled into the cloth in her hands before returning to her work.
+
+Lucien exhaled softly through his nose.
+
+Talia had noticed it as well. Of course she had, he didn't need to turn around to come to that conclusion.
+
+Earlier, she took in the village with the easy curiosity she brought to any new environment. Now it had sharpened as they rode deeper into the village.
+
+He already knew what answer she would reach. It was why he had not told her much about his time in Ashridge during their talks in the tavern at Helvarn.
+
+The former Lucien’s reputation had not disappeared entirely. It had been corrected over time through visible choices, repeated often enough that Ashridge had adjusted around them.
+
+And now he had returned, bringing another young woman with him.
+
+A small chuckle drifted from behind him.
+
+Lucien let the sound pass without comment.
+
+By the time they neared the well stones, the reaction had spread through enough of the road to become almost predictable.
+
+A pair of women passing with water buckets glanced toward the third cart and traded a few soft words between themselves.
+
+One of them looked briefly toward Lucien, then toward Talia again, and the faint curve at the corner of her mouth made the implication clear enough.
+
+He heard the shift in Talia's breathing from behind him.
+
+A cluster of smaller figures near the well turned toward the passing convoy with the abrupt focus only children could manage. The group shifted, reorganized, and then came toward the road all at once with the confidence of a council that had reached immediate agreement.
+
+Lucien recognized them before they reached him and eased his horse. The convoy slowed with him, wheels creaking as the carts and horses settled into place.
+
+The boy with the hoop arrived first, slowing only at the last moment as he reached the edge of the path. His eyes moved across the carts, the guards, and finally toward Lucien with the same self-appointed seriousness he remembered well.
+
+Cupping his chin thoughtfully in a manner Lucien recognized immediately, the boy declared,
+
+“You came back with more things.”
+
+Talia covered her mouth lightly, the smile already forming.
+
+Lucien shot him a dry look. “Yes. That was one of my reasons for my trip to Helvarn.”
+
+The boy accepted the answer at once and shifted his attention to the carts again, as if adding the information to a private ledger.
+
+Stepping around him, the smallest girl looked straight past Lucien toward Talia. She stared at her briefly before quickly turning back toward Lucien.
+
+“You brought another girl. So that’s the other reason?”
+
+A light laugh escaped from the third cart.
+
+The sound drew a quick glance from the hoop boy, who studied her for a brief moment before returning to Lucien as if weighing where she fit within whatever pattern he had built in his head.
+
+Lucien's brow twitched. It was too bad they were on horses.
+
+He released one of the reins to rub at his temple. “Yes, I did. And no, I happened to meet her by chance.”
+
+Her brows scrunched faintly. “Is she staying in the manor then?”
+
+His eyes shifted to the side. “It wouldn't do for my guest to stay elsewhere.”
+
+“That keeps happening,” she said, childish accusation laced in her tone.
+
+That earned a short laugh from one of the women near the well, followed by another from farther down the road. The sound moved outward in small ripples before settling back into the rhythm of the village.
+
+Lucien heard it all, Ashridge had grown comfortable enough to laugh in his presence. Children did not manufacture that kind of ease.
+
+Pushing forward next, the wooden sword boy planted his stick against the ground with great purpose before lifting his chin in a posture that sought dignity and reached somewhere just short of it.
+
+“Then Ashridge shall receive her under proper guard,” he declared.
+
+Talia leaned slightly over the side of the cart to look at him more clearly. A grin had already found its way onto her face.
+
+“How reassuring. I was wondering how long it would take for someone important to step in.”
+
+The wooden sword boy straightened further at once.
+
+Lucien heard a muffled sound from Tomas that might have been a cough.
+
+Beside the wooden sword boy, the girl with the rag doll lingered near the smaller Cragwatch boy as usual, the worn toy tucked beneath one arm.
+
+When he slowed, she slowed with him. When his attention shifted toward the carts, hers followed briefly before returning to him.
+
+Pointing at Talia with complete disregard for subtlety, the smallest girl asked, “Can you fight? Lord Lucien can't fight very well.”
+
+Talia tilted her head playfully. “Oh? Seems I have to leave the fighting to someone else then.”
+
+She shot a wink toward the boy with the wooden sword who somehow puffed himself up even further before breaking into a sharp cough from the effort. The smallest girl immediately turned to pat his back while the hoop boy exhaled through his nose at the display.
+
+The Cragwatch boy’s eyes lingered on him. “You came back.”
+
+Lucien gave a slow nod. “It would not do for Ashridge to be without its lord for long.”
+
+For a moment, the boy seemed to hold the answer in thought. “Our lord didn't come back so quickly after leaving...he usually came back with supplies for his manor during spring.”
+
+A small tug touched his sleeve as the rag doll girl tightened her grip for a brief moment.
+
+Talia’s expression shifted as she listened. The earlier amusement remained, though it had softened around the edges. She looked from the Cragwatch boy to Lucien and then briefly out across the village itself.
+
+The hoop boy spoke again, rescuing the flow of the exchange through sheer certainty. “If she came back with Lord Lucien, then she probably belongs here now.”
+
+At once, the smallest girl nodded. “That makes sense.”
+
+Wooden sword raised in immediate approval, the other boy declared, “Then she is under village protection.”
+
+Talia placed a hand lightly over her chest. “I feel safer already.”
+
+Stepping closer to his horse, the smallest girl peered up at him with renewed curiosity. “Did trading go well, Lord Lucien?”
+
+Lucien raised a brow, glancing toward the carts. “It went well enough.”
+
+She rocked lightly on her heels. “Was it boring?”
+
+He allowed a pause that made her bounce impatiently before he finally spoke.
+
+“Yes.”
+
+She nodded at once with grave certainty. “I knew it. You shouldn't have gone then.”
+
+Talia turned slightly aside, her shoulders lifting with suppressed amusement.
+
+Meanwhile, the hoop boy had finally reached his own conclusion. “You brought goods, and you brought her. That means she's important.”
+
+Lucien answered without hesitation. “She is.”
+
+Talia blinked once at his answer.
+
+When Lucien glanced back at last, he found her looking at him with a different expression than before. She held his gaze for the span of a breath, then smiled as if acknowledging a point he had not needed to state.
+
+The wooden sword boy took the silence as permission to speak again.
+
+“I shall inspect the perimeter at once!” he announced before turning so quickly that he nearly collided with the hoop boy before recovering with enough speed to preserve some fraction of his dignity.
+
+The smallest girl groaned while the hoop boy muttered something under his breath. Beside him, the rag doll girl reached quietly for the Cragwatch boy’s sleeve, guiding him gently as the little council began to break apart and reform around a new purpose.
+
+Their energy carried back toward the well stones in a shifting cluster of voices and small arguments.
+
+The road ahead opened once more.
+
+Lucien urged his horse forward and the convoy moved again.
+
+Behind him, Talia’s voice carried lightly. “So this is how it is.”
+
+He kept his eyes ahead. “More or less.”
+
+Her smile remained in her voice when she answered. “Interesting place you've got here.”
+
+The sound of the children's arguing faded gradually behind them.
+
+Ahead, the manor courtyard slowly came into view.

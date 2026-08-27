@@ -1,0 +1,229 @@
+---
+id: 463ffe1e-aee7-516e-9046-73f5a1702ecb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 580 - The Final Event"
+slug: 0580-chapter-580-the-final-event
+partOf: mythrans-master-of-all-continued-completed
+position: 580
+ownLength: 3548
+unit: words
+publishedAt: 2018-05-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214110/chapter-580-the-final-event"
+royalRoadId: "214110"
+---
+
+Ren saw multiple traps appear, with hazards and things to traverse, and they were all adapted for water use. There were several carousels that had been changed from having horses to ride on, to hold various weapons that swung at anyone trying to pass by. He identified it and got the recipe for it, which also included how to get it to turn in place, and he smiled.
+
+I think people would like to have a carousel to ride back at the county. Ren thought to himself. The other traps he had already had the recipes for, and the variants adapted for water use were just common sense if you thought about it. He saved the new plans anyways, just in case. Cages were seeded all along it and were currently empty, and Ren could feel that the crowd wondered what would appear there.
+
+The cages are for the participants. Ren thought as he watched the mages complete the biggest and oddest obstacle course he had ever seen. The thing was, it did look difficult to traverse... and then the attendees brought out the large fishing nets full of large jellyfish.
+
+“You have got to be kidding me!” Teepo said, then chittered in delight as the Sea Dweller participants groaned in dismay. “On a scale of 1 to 10 for difficulty, the course was about an 8. With the jellyfish added, it's about a 13.”
+
+Ren had to agree as he watched the strategic placement of the jellyfish in key spots along the course. “They are not going to have an easy time of it, that's for sure.”
+
+“If it was going to be easy, what would be the point?” The old Queen asked. “This is to test their resolve, their cunning, and their abilities.”
+
+“I know that, Your Highness.” Ren said. “I'm just wondering what would happen if no one makes it through. Do you pick the one that made it the farthest? Do you compare their kill scores and the distance? Do you disqualify them if they were hit by an electric eel's Lightning bolt?”
+
+Railyse chuckled. “You are taking a bite of a problem that might not exist.”
+
+Ren nodded. “I'm also showing you that I am thinking about things extensively, not that you really needed the proof.” He said. “I just hope that some of them make it through this.”
+
+“As do I.” Railyse said.
+
+*
+
+The Sea Dweller participants waited for the signal to begin, and one of the attendees threw a shell up into the water above his head. Nearly half of the participants darted forward and entered the obstacle course at various points, and nearly half of those were immediately eliminated as they ran into the jellyfish.
+
+The others became more cautious when they realized how many of them were left, and they made their way through a good portion of the course before they were also eliminated by the jellyfish. The attendees swam up over the course, then entered to retrieve the injured. Most of them had scars across their chests and arms as the jellyfish had wrapped their massive stingers around them. Some were even having convulsions from a reaction to the jellyfish stings.
+
+The remaining 40 participants exchanged glances with each other, then nodded. They formed a line, decided the best direction to take, then entered one by one and played follow the leader. The first one had gotten pretty far, and was hurt by one of the carousels when he ducked instead of jumped. The next Sea Dweller in the line jumped, made it a little farther, then was knocked into a jellyfish.
+
+The next in line cut him free, which was all he could do, so he moved on. He made it through two more obstacles and was caught by a sprung net and shoved into one of the cages. The next in line mistimed the same action and was also caught by the net and shoved into the same cage. The others were more cautious because of this, and made it past.
+
+At this point, they were down to barely 30 of them left, and they still had a quarter of the course to go. They all reassured each other that they would make it, and continued on. The crowd had been silent the entire time, because they didn't want to distract the participants at all. Any wrong step could cost them their chance to be king, and no one wanted to be responsible for that.
+
+When they reached the end, they had only lost another 12 participants. Even with the losses, their plan had worked wonderfully, and the remaining 18 congratulated each other.
+
+*
+
+“I'm glad so many made it through.” Ren said as the winners moved off to the side and the mages came out to remove their spells and the attendees removed the jellyfish. “I guess I can't complain that the last event of the day was the worst.”
+
+“This wasn't the last event.” Railyse said. “There is one more thing for them to face.”
+
+“Hey, as long as it's not the giant octopus, you should still have lots of suitors to choose from.” Ren chuckled, then stopped when he felt their emotions. “No.” He said and looked at their faces. “Please tell me it's not.”
+
+“It's a test of bravery.” The old Queen said. “No, they don't have to fight it.”
+
+Ren sighed in relief.
+
+“They just have to get past it.”
+
+“That's insane!” Ren exclaimed. “Even on it's best day, it's cranky as hell!”
+
+“Don't worry, it's restrained quite well and has 4 of its limbs immobilized.” The old Queen said.
+
+“It's a goddamned giant octopus! The limbs are 5 feet thick on the tips!” Ren nearly shouted. “Having just one of them free to swipe at the competitors is too much, let alone four of them!”
+
+“Why are you protesting so adamantly?” Railyse asked. “Are you afraid of facing it?”
+
+Ren opened his mouth to respond that facing it was not a sign of bravery, but a sign of stupidity; then he changed his mind. “I thought you knew me better than to accuse me of cowardice, Railyse.” He said in a low voice and fought not to make a fist, then took a deep breath and let it out.
+
+Railyse was surprised at his use of her Land Dweller name, then the tone of his voice registered. “Ren, I... I'm sorry. I didn't mean it like that.” She tried to take his hand, and he pulled away before she could.
+
+“Actually, you did.” Ren said. “I can feel your emotions, remember?”
+
+Railyse sighed. “I... I was trying to find out how you would do in the tournament.”
+
+“Do you really want me to tell you what I would have done?” Ren asked, and she nodded. “I would have cast Sleep on the eels and then killed them all with another spell before they even came close to the other competitors.”
+
+Railyse and her mother were surprised that sweat didn't appear on his forehead. “Um, I didn't think that was possible.” She said. “What... what about the frog men?”
+
+“I don't like to repeat myself, so I would have cast Full Illusion and made them think they were all in a swamp with giant flies around them.” Ren said. “They would have been completely dumbfounded at the change and the large amount of food, and I could have disabled them all long before they could reach the other competitors.”
+
+“And the obstacle course?” The old Queen asked.
+
+“The easiest of the bunch.” Ren said.
+
+“But you saw how it culled the participants down to only 18.” Railyse said. “How would you have done it?”
+
+“There are multiple ways.” Ren said. “The easiest of which was to swim over the top of it and land on the other side.”
+
+Railyse and her mother stared at him in shock, and their mouths hung open in that 'o' of surprise.
+
+“There's no rules against it, and you said it was a test of the mind.” Ren said.
+
+“By mother's trident.” Railyse whispered, then she smiled. “What if we said you had to go through it?”
+
+“I'd do exactly that.” Ren said. “I'd activate my Ram enchantment and plow right through it all to the other side in a few seconds.”
+
+“How else would you do it?” The old Queen asked.
+
+“I'd use my Staff of Earth to push it all out of the way to make a path through and just walk.” Ren said. “I could also dispel the traps and clear the way to leave just the scattered jellyfish, or I could...”
+
+“You can stop now.” The old Queen said. “That's enough.”
+
+“Are you sure?” Ren asked. “I haven't mentioned using decoys to spring all the traps, or using the jellyfish to disable all the other participants, or even...”
+
+“Ren, that's enough.” Artemis said and put a hand on his shoulder. “You've made your point.”
+
+“No, I haven't.” Ren said, and motioned to the arena. “They are still going through with this last event.”
+
+“You might not want to test yourself against it, but they do.” Artemis said. “You can feel it, can't you?”
+
+Ren looked at the arena floor and saw it was now opened up and the platform the giant octopus was on, raised up to ground level. He concentrated on the Sea Dwellers waiting to do the challenge, and he had to agree with Artemis. They felt determined and resolved, and he knew that they would do their best to get past the giant creature.
+
+“Yes, they are almost eager to do it.” Ren had to admit.
+
+“Remember what you said before about not judging them or their culture.” Artemis said, and Ren sighed.
+
+“Doing this as the Final Event is stupid.” Ren said. “Why not have them survive a mermaid attack or even a pool of sharks?”
+
+Railyse laughed. “Do you really think the giant octopus will be that dangerous?”
+
+“No, it's going to be much more dangerous. I was making suggestions that the participants have a higher chance of surviving.”
+
+“Just watch.” The old Queen said. “They will prove you wrong.”
+
+“Unfortunately, I don't believe so.” Ren said with a heavy heart. “Not at all.”
+
+*
+
+The 18 Sea Dwellers left watched the giant octopus be raised up from the pit below the arena, and they were already calculating how they would get by it to the other side. When they saw that only 4 of it's limbs were moving, they rejoiced. It doubled their chances to succeed, and their plans changed to accommodate the new information.
+
+“Congratulations on succeeding all the tasks that have been given to you so far.” Railyse said loudly. “As you can clearly see, the last task is one of bravery.” She said. “All you need to do is face one of the most fearsome creatures of the depths and make it to the other side of the arena.”
+
+Railyse looked at her Adventurer friend, and for the first time this day, felt trepidation about what was going to happen. She looked at the attendee in the arena and nodded. The attendee tossed the shell up into the water to signify the start of the event, and one of the Sea Dwellers swam forward as fast as he could.
+
+*
+
+“The fool.” Ren whispered as he saw the giant octopus quiver, and then two of it's massive tentacles moved through the water. They were staggered, so when the Sea Dweller dodged one, it's water wake pulled him in and the second tentacle smashed into him.
+
+The crowd gasped at the impact, and the Sea Dweller's limp body quickly tumbled through the water. One of the attendees used their Water Manipulation ability to catch him and pulled him over to the group of healers. As that was happening, 6 more Sea Dwellers had decided that the giant octopus was distracted and tried to take advantage of it.
+
+The giant octopus shivered as even more irritants approached her area, and she defended herself to the best of her ability. She didn't care what the irritants were, only that she got rid of them as quickly as possible so she could be fed. She swung one of her massive tentacles to swat at several of them, and one of them jabbed her with a prickly thing.
+
+“SCREEEEE!” The giant octopus let out angrily, and her brownish color changed to a deep red almost instantly.
+
+“Oh, no.” Teepo said. “That's a bad sign.”
+
+The giant octopus pulled in a bunch of water through her gills and inflated itself, then tensed her secured arms as it shot that water out like a water jet. Since the octopus was so big, the jet of water was about 20 feet across and blasted 3 of the Sea Dwellers up and out of the arena. Several attendees swam after them to provide assistance. The one that had poked her tentacle was still there, and the giant octopus slammed that tentacle down onto the ground.
+
+The Sea Dweller pulled his spear out just in time to not get squished by the tentacle; but, he didn't see the other tentacle come at him from behind. It grabbed him and wrapped around him several times as it squeezed. The other Sea Dwellers took this as an affront and wanted to save their fellow, so they darted forward to try and help.
+
+“No! Don't do that!” Ren yelled, but it was too late.
+
+They did exactly what the giant octopus wanted. She unfurled her tentacle and tossed the now unconscious Sea Dweller up into the water above them, and the Sea Dwellers approaching changed what they were doing to try and catch the bait... and two of the large tentacles smashed them on either side and caught them.
+
+“Railyse, stop this!” Ren said. “She's going to kill them all if you don't!”
+
+Railyse floated up. “You have shown your bravery, so I declare this event over!”
+
+The attendees swarmed in to try and help by bringing the giant octopus food, but the giant octopus was having none of it. She only saw more irritants to bother her when all she wanted was to be left alone, and she didn't care about the food anymore. Her color changed from a deep red to blood red, and she flailed her free arms around wildly.
+
+Railyse noticed the change and the danger it presented to the spectators and not just the participants, so she tried to use her Water Manipulation ability to form solid water around the tentacles. It worked to an extent and stopped them from being able to curl and grab things; but, it also gave the giant octopus new weapons to use. It now had large bats on the ends of the tentacles, and it used them to start smashing into the things holding the other tentacles in place.
+
+“Excuse me for a few minutes, Your Highness.” Ren said. With the event officially over, he could intervene without causing Trouble, with a capital T. “Artemis, aggravate it a little to distract it, but don't hurt it.” He said and swam out into the arena to join in the fray.
+
+“No problem.” Artemis said and started shooting her Mana bolts at the ground by the tentacles that were secured. Since the giant octopus was looking there as it tried to free itself, the Mana bolts caught its attention immediately.
+
+The giant octopus saw the threat; but she could tell that it wasn't attacking her. She almost shrugged as she started pounding on her secured tentacles again. If it wasn't a direct threat to her, she ignored it completely.
+
+“Well, that didn't last long,” Ren said and used his Water Manipulation ability to push the water between the tentacles apart a little bit. When he didn't get a reaction from the giant octopus, he pushed a little more. He could see the relief on some of the still conscious Sea Dweller's faces, and he nodded to them as he made just enough room for them to escape.
+
+“I'm stuck!” One of them said and had a suction cup stuck to his chest.
+
+“Me, too!” Another said, and he struggled to get free.
+
+Ren saw that the unconscious ones were also stuck on suction cups, and he thought about how to get them free without getting the octopus' attention.
+
+“What are you doing?” One of the stuck Sea Dwellers asked. “Get us out of here!”
+
+“I'm trying.” Ren said.
+
+“Just pull us free!”
+
+“If I do that, it will know.”
+
+“You can't just leave us here!” The other said, and Ren felt him start to panic.
+
+“Your armor!” Ren said. “Cut it off and you'll slip right out!”
+
+“Wh-what?” They looked down at themselves and saw the suction cups were only on the armor and not on their skin. “Why didn't we think of that?”
+
+“Just cut it and go!” Ren said and they pulled out knives to cut the ties that held it to the back piece while he took out his hammerpick and started cutting away at the unconscious Sea Dweller's armor. There was a loud crash as one of the secured tentacles was broken free of the restraints, and Ren felt how happy the giant octopus was. He also felt what the giant octopus was going to do once it was completely free.
+
+“Hurry!” Railyse said from where she still floated, but it sounded like she was right in front of him. “It's almost free!”
+
+Ren nodded and freed the last three Sea Dwellers, and the other participants and attendees caught them as they floated down. Now what do I do?
+
+“What was it you said when we fought the giants?” Teepo asked. “Bigger is better or something?”
+
+Ren chuckled. “Go big or go home.” He said and cast Permanent Enlarge or Reduce Anything on himself several times and kept increasing his size. He felt the crowd's shock and amazement as he kept growing until he was of equal size to the giant octopus, then they all just stared at him with awe.
+
+Ren tapped the giant octopus on what he thought was a kind of shoulder, and it shifted to look at him. He felt the octopus' surprise, and it started to freak out. Ren activated his Animal Affinity ability that gave him 50% to the chance that an animal will be friendly.
+
+“Easy, there. I'm not going to hurt you.” Ren said and lightly touched the side of it's head. “I can see you're trying to get free.”
+
+The giant octopus blinked her eyes at him as it calmed down, then she turned back to concentrate on freeing herself. Since the octopus was well within his Aura, Ren cast Charm Person on it to see if it would work. The giant octopus didn't stop what she was doing, but she did turn her head to face him as one of her tentacles snaked up and wrapped around his chest.
+
+“I really like hugs.” Ren said. “I've had 6 arms around me before, and if you let me free you, you can beat that record by two if you want.”
+
+“REN! NO!” Railyse yelled.
+
+Ren held a hand up towards her, and used the one still touching the octopus to caress it. “What do you say? Let me free you and you can give me a hug.”
+
+The giant octopus' tentacles slowed down and then stopped banging against it's restraints, and two more tentacles wrapped around Ren. It held the other two with solid water bats in front of him.
+
+“Your Highness, remove the solid water, please.” Ren said, and Railyse released the water.
+
+The octopus felt relief and wrapped those tentacles around him as well. Ren used his Enchanted Vision and saw the restraints were enchanted with the same enchantment that Lylyth had on her magical chains, and he almost laughed at the simplicity.
+
+“Allow me.” Ren said as he knelt on one knee and touched one of the restraints, then he absorbed the enchantment. He popped it open with his fingers and the octopus was both excited and filled with disbelief... as was everyone else in the Colosseum. Ren almost laughed because the octopus and the Sea Dwellers had more in common than they realized, and he opened the last to restraints.
+
+The giant octopus was finally free, and Ren felt its joy as it wrapped the last two legs around his chest and gave him a squeeze. He put his arms around it and gave it a gentle hug back, because he knew there wasn't any kind of solid things on the creature except for the beak of its mouth. The crowd gasped at the sight, and they thought the octopus was going to keep squeezing.
+
+“Hey, do you want to go home?” Ren asked it, and he felt the giant octopus' happiness and a very flattering appreciation for how big and strong he was, then one of her tentacles moved up to lay across the cheek of his face. The suction cups stuck to him as the tip of the tentacle rubbed the top of his head and played with his hair.
+
+“And now another female succumbs to the Prince Charming title!” Teepo said and chittered in delight.

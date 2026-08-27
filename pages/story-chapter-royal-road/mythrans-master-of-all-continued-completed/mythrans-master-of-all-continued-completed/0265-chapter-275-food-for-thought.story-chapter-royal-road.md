@@ -1,0 +1,309 @@
+---
+id: 4b9d9eef-3281-539b-8537-0c36dcff3ce8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 275 - Food For Thought"
+slug: 0265-chapter-275-food-for-thought
+partOf: mythrans-master-of-all-continued-completed
+position: 265
+ownLength: 3375
+unit: words
+publishedAt: 2017-06-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140933/chapter-275-food-for-thought"
+royalRoadId: "140933"
+---
+
+Ren, Gloria, and Stella woke up on the recliners and took off the VR headsets.
+
+“Geez, I'm soaked with sweat!” Gloria said. “Thanks a lot, Ren!”
+
+Ren laughed. “I'd tell you to exercise more, but I know what your schedule is like.” He smiled. “You're strong, no doubt about it; but, your endurance is a little lacking.”
+
+“My endurance is lacking?” Gloria shook her head. “I work 8 to 10 hours a day, and that's after 5 hours of school in the morning.” She said. “My endurance is just fine.”
+
+“Hey, I'm not attacking your work ethic.” Ren said. “I meant you should pace yourself. You'll be able to do more and for longer.”
+
+“I... well, yeah... I guess so.”
+
+Stella got up and looked down at herself. “I think we all need a bit of freshening up before we go anywhere.”
+
+“Agreed.” Gloria said. “I'm glad you suggested I bring spare clothes.”
+
+“Keep the ones you're wearing handy.” Stella said. “We're going back in after we come back.”
+
+“Gotcha.” Gloria said. “Mind if I hop in the shower first?”
+
+“Go for it.” Stella said. “I've got to get Ren ready for it anyways.”
+
+“Do you need a hand?” Gloria asked. “I'm sure he can be a handful normally, but with him the way he is now...”
+
+“You do realize I'm sitting right here, don't you?” Ren said and laughed. “I can clearly hear you.”
+
+“I've got it, Gloria.” Stella said and smiled at Ren. “Thanks for the offer.”
+
+Gloria nodded and left the room. Stella helped Ren stand up, then sat him in the wheelchair.
+
+“Here's his bag.” Gloria said and put the bag just inside the room next to the doorway.
+
+“Thank you.” Stella said, and Gloria went to take a shower. “She's a nice girl.”
+
+“Yes, she is.” Ren said. “As long as you don't unintentionally insult her, or piss her off.” He chuckled. “Then you're just asking for trouble.”
+
+Stella laughed and pushed the wheelchair out into the hallway, then took him down to her bedroom. Ren gasped as she opened the door to reveal what was inside.
+
+Everything was pink.
+
+“Stella! You're a girly girl!” Ren exclaimed, and she laughed.
+
+“I'm so sorry to disappoint you.” Stella said and parked the wheelchair by the bed.
+
+“It's not a disappointment.” Ren said. “I just imagined you had a normal bed, with normal... is that a unicorn?” He asked, when he saw a horse-shaped pillow on the bed.
+
+“Oh, damn.” Stella said and went over to it. “I forgot I left that out.” She picked it up and opened her closet.
+
+“You don't have to hide it on my account.” Ren said. “I think it's adorable.”
+
+“Really?” Stella asked, and hugged it to her chest. “I know it seems a little odd, but...” She sighed. “I wasn't allowed to have things like this when I was a little girl.”
+
+“Can I ask why?”
+
+Stella walked over to him, and sat down on the bed in front of him. “My father wanted a boy.”
+
+“Oh, damn.” Ren said, and Stella nodded.
+
+“For the first 6 years of my life, it was all gender-neutral things. Then when my little brother Steven came along, I was both grateful... and pissed.”
+
+Ren chuckled. “It's because they'd already established you wouldn't have these kinds of things, and once an actual boy was in the house...”
+
+“No girly girl stuff could ever come into the house.”
+
+Ren nodded. “It was kind of like that with me, too.” He said. “Only, I wasn't allowed any toys or things to play with.” He smiled. “I think that's why I took to Barbara right away.”
+
+“Why's that?”
+
+“She gave me my first toy.” Ren said. “After explaining what it was and how to play with it, of course.” He chuckled. “Needless to say, I really overdid it while playing and was in ICU for a week afterwards.”
+
+Stella put a hand on his arm. “They took it from you.”
+
+Ren nodded. “Barbara was sad that I couldn't keep it, but I'd had so much fun with it that it nearly killed me.” He laughed. “I eventually convinced her that I was happy she'd done that for me; and after she stopped crying, she gave me something I never thought I'd ever get.”
+
+“What was that?”
+
+“A hug.” Ren said. “It was warm, soft, and comforting.” He smiled. “I'd never felt anything like it before.”
+
+Stella looked down at the unicorn pillow she still had in her arms, and handed it to him. He took it, gave it a little hug, and breathed in.
+
+“It smells like you.” Ren said, and Stella leaned forward and gave him a hug. With the soft pillow between them to cushion it, Ren wasn't hurt at all from how hard she hugged him.
+
+*
+
+Officer Holly Stonewall sat at the dinner table on Detective John Ramirez' right. She'd been introduced to his sister's husband, and his niece's 4 friends; but it was in such a flurry of names and greetings that she couldn't sort through them to remember their names, or who was even talking at the time. When 5 teenage girls talked all at once to try and get her attention to ask questions about her job, even for a trained police officer it was a little overwhelming.
+
+John's sister Tanya brought in the large baking dish full of her lasagna, and talk around the table ceased. It deserved everyone's undivided attention as Tanya cut it up and dished out a plate of it to everyone. She started with a plate for her husband, then went around the table with them and put the last plate in front of Holly. Tanya sat down and nodded to her husband.
+
+“We give thanks for such a great meal to come, and hope that all families can enjoy their times together, just as much as we do.” He smiled. “Let's eat!”
+
+Talk immediately started up again as they all dug into the food. Three different kinds of salads were on the table already; potato, macaroni, and traditional green salad. Bread, crackers, and several things Holly didn't recognize were in a bread basket in the middle of the table. She only had eyes for the lasagna, though. She took in a deep breath through her nose and savored the smell. She picked up her fork and cut off a piece of it, then put it into her mouth.
+
+Holly had to clamp her mouth shut to stop the moan that wanted to escape, but her whole body relaxed at the taste of such great food. She closed her eyes as she chewed slowly, and rated the texture. She gauged how well the noodles were cooked, the meat to cheese ratio, and how much sauce and butter were in it. When she swallowed, her brain had decided that it was the best lasagna she'd ever tasted. When Holly opened her eyes, she saw that everyone was staring at her.
+
+“This is the most delicious lasagna I've ever tasted.” Holly said, and then everyone kept eating.
+
+“I'm glad you said that.” Tanya's husband said. “My wife has a reputation to uphold.”
+
+“Ha!” Tanya said. “It's his reputation of having a wife that can cook the best lasagna that has to be upheld.”
+
+“That's what I said.” Her husband said, and she laughed.
+
+“I'd ask for the recipe, but I know it would never turn out this well.” Holly said. “It's perfect.”
+
+Tanya pat Holly's hand. “Thank you.”
+
+“No. Thank you.” Holly said. “I've had lots of different lasagnas, quite a few I've made myself, and this really is the best of the best.”
+
+“I'm glad you like it.” Tanya said. “But if you don't eat it all, you won't get a piece of my french chocolate and cherry cheesecake.”
+
+Holly chuckled and dug into her piece of lasagna. This just keeps getting better and better!
+
+*
+
+This just keeps getting worse and worse. Agent Smith thought, as the lead investigator interrogated his boss and he watched on the security camera. After an hour of questions and grilling, his boss finally admitted he had a role in the cover-up. What he said next was a surprise to everyone.
+
+“It was all Senator Eddlemere's idea.”
+
+*
+
+Gloria had finished her shower and came out with a towel wrapped around her. “Shower's free.”
+
+Stella pushed Ren's wheelchair into the bathroom and shut the door.
+
+“I've been relegated to baths, thanks to this.” Ren said as he opened his shirt.
+
+“Not really.” Stella said. “You just have to think about what to do.”
+
+“I did.” Ren said. “I figured out that I should sit on the side of the tub to be lowered in, rather than have someone lower me into the tub from a standing position.”
+
+“That's actually a good idea.” Stella said. “I'll make sure to remember that; but, I have a better one.”
+
+Stella left the bathroom and came back in with a small step stool. It was made of plastic, and had rubber stoppers on the bottom. She set it in the shower stall, and folded a small towel up to put on the seat.
+
+“That's brilliant!” Ren said. “I can still get a shower, but I don't have to stand up, or have to worry about the spray hitting my chest, as long as I sit facing away from it!”
+
+They both got undressed, and Stella helped Ren sit down on the stool. She set the water to the right temperature, and turned it on. She lathered up a facecloth and gently rubbed his chest and abdomen.
+
+“Ah...” Ren sighed. “It still hurts, but it feels nice, too.”
+
+Stella nodded and rinsed the cloth, lathered it up again, and did his back. “I guess you get so used to the pain that it's not such a big deal after a while.” She commented, and scrubbed his arms.
+
+“Yeah.” Ren said. “I've always had a constant low-grade pain, so it kind of takes a lot of it before I'll complain about it.”
+
+Stella came around to his front and knelt down to do his lower body and legs. “You shouldn't do that, though.” She said and scrubbed his legs. “When you're in pain, you should tell us right away.”
+
+Ren put a hand on her shoulder and spoke with a serious tone in his voice. “Stella.”
+
+Stella stopped scrubbing his legs to look him in the eyes.
+
+“I'm in pain, and I don't know what to do about it.” Ren said and glanced down at himself. “It's constantly throbbing...” He looked back at her and grinned. Stella glanced down at what was 'constantly throbbing', and laughed when she saw his excited state.
+
+“That's not quite what I meant.” She said, but then she scrubbed it clean and gave it the attention she thought it deserved. Ren had been joking to try and lighten the mood; but after receiving her attention in that way, he scrub her excited parts clean, too; then gave them the attention they deserved with his fingers and mouth.
+
+*
+
+“That was heavenly.” Officer Holly Stonewall said as she leaned back in her chair to let the cheesecake digest. Tanya laughed as she offered Holly another piece, and was politely declined. “I couldn't possibly eat another thing.” She said and pat her slightly distended stomach. “I am so going to pay for this later!”
+
+Everyone at the table laughed. Now that the meal was over, Nancy and her friends went back into the living room to watch television, and Tanya's husband picked up the newspaper to start reading the sports section. Detective John Ramirez took the subtle hint and looked at his sister.
+
+“We better head out ourselves.” John said and stood up. “I was so busy showing Holly my old haunts, I forgot to check into the inn.”
+
+“That's what happens to all you big city people.” Tanya chuckled. “You get caught up in thinking about home, you forget the important details.”
+
+John nodded, and Holly stood up. He put a hand behind her back and eased her around the table and Holly let him guide her. She wasn't sure why she was letting him, but rather than question it, she went along with it.
+
+“Thank you so much for the meal.” Holly said when they got to the door.
+
+“You're welcome.” Tanya said. “This is the first time John's brought a woman out to see us; so, I had to do something special.”
+
+Holly's eyes widened at that admission.
+
+“At least you waited until after the meal to spring that on her.” John chuckled, and leaned in to kiss his sister on the cheek. “I'll be back tomorrow for the party.”
+
+“Be prepared for a hormone onslaught.” Tanya warned him. “Twenty teenage girls are going to be here.”
+
+“I'll be sure to use pepper spray when it's appropriate.”
+
+Tanya laughed, and shook Holly's hand. “It was really nice to meet you, Holly.”
+
+“You, too.” Holly said.
+
+“See you tomorrow.” Tanya said to the both of them, and waved as John led Holly to the car. He opened the passenger side door for her, and she got in. He walked around to his side, got in, and they drove away from the house towards the inn only a few miles away.
+
+*
+
+“What do you think of her?” Tanya asked her husband when she went back into the kitchen.
+
+“She's cute.”
+
+“That's all?”
+
+He laughed. “What do you want me to say?”
+
+“Tell me what you thought of her.”
+
+“She's nice, but kind of reserved. She barely spoke two words during the conversation.”
+
+“She was kind of lost in my lasagna.” Tanya said.
+
+“I saw that.” Her husband said. “I think you have a new fan.”
+
+Tanya chuckled.
+
+“I hate her.” Nancy said when she came into the kitchen.
+
+“What? Why?” Tanya asked her daughter.
+
+“She's too cute and nice.” Nancy said. “I don't think she's right for him.”
+
+“I think someone's crush is showing.” Her father said, and Nancy stuck her tongue out at him and went back to the living room.
+
+“I don't see what she has that I don't have.” Nancy pouted to her friends.
+
+“A job.” “Boobs twice as big.” “A hot partner.” “Her ass is cuter.”
+
+The 4 girls turned to look at the fifth.
+
+“What? It's true!” She said. “I don't know about you, but I couldn't get into those jeans if I had 3 sticks of butter to grease my hips, was hung upside down, and had all of you to help me try!”
+
+They all laughed.
+
+“Okay, yeah... that's true.” Nancy admitted reluctantly.
+
+“Don't worry, girl.” One of her friends said. “He's not even gonna look at her for your Sweet 16 party tomorrow.”
+
+“Why's that?” Nancy asked.
+
+“It's a pool party, remember?” Her friend smiled. “You've got that killer bikini you bought the other day.”
+
+Nancy smiled as she remembered looking at herself in the mirror with it on. It's John's favorite color, too.
+
+“We all have killer swimsuits.” Another friend said. “He's gonna see so much of us tomorrow that he won't know what to do with himself.”
+
+They all giggled as they talked about boys and how immature the ones their own age were.
+
+*
+
+Stella and Ren had stopped before it had progressed to intercourse; but, they were both relaxed and satisfied when they came out of the bathroom showered and clean. Stella handed Ren his bag, then they went to her bedroom to get changed. It didn't take long, since Stella had packed loose-fitting clothes for him, and they went out to the living room.
+
+“There you are.” Gloria said. “Are we ready to go?”
+
+Stella checked her pockets, and held a hand up. She went to get her other clothes and took out the cell phone from the pocket. She checked to see if they missed any calls; but there wasn't anything, so she put it in her pocket and went back to the living room.
+
+“I just had to get Ren's cell phone.” Stella said. “Let's go.”
+
+They loaded up into the minivan, and Gloria drove them to Amazon Jim's Restaurant. Ren didn't need a menu, and ordered Endless Fries smothered in gravy. Stella and Gloria ordered hamburger platters and drinks, and Ren had water. While they ate, they discussed the massive amount of progress they had made so far, and what they still had time to do before Ren had to be back at the temporary care facility.
+
+*
+
+“So.” Holly said. “We're not staying at your sister's place.”
+
+John shook his head. “I was going to, but then Nancy had the bright idea to have a sleep-over with her friends tonight.”
+
+Holly chuckled. “You'd never get in the bathroom!”
+
+John laughed. “That's the truth.” He said. “Plus, they take up both spare bedrooms and the living room.”
+
+“I saw that.” Holly said. “It was almost like the living room was a crime scene with the 'Caution: Do Not Cross' tape around it.”
+
+“Exactly.” John said and nodded. “So, I made reservations at the local inn instead.” He sighed. “Tanya and Nancy weren't too happy about that.”
+
+“Did they expect you to sleep in the tub or something?” Holly asked and laughed.
+
+“No idea.” John said. “It doesn't matter, though. We're going to an inn for the night, and that's that.” He quickly glanced at her to try and gauge her reaction, then smiled as he looked back at the road. She's not frowning or vehemently saying 'no, we can't stay at an inn together!' He thought. Maybe... maybe she actually does like me the way Tanya said.
+
+What do I do? Holly asked herself. Should I really stay overnight at an inn with him? She quickly glanced at him, and saw his smile. Is he expecting me to sleep with him on our first date? She froze at the thought. Oh, my god. She thought in surprise. This is our first date!
+
+They pulled into the parking lot, and Holly got out of the car kind of in a daze. John went to the trunk and got their bags, then walked around to the passenger side.
+
+“Hey, are you all right?” John asked her.
+
+“Hm?” Holly looked at him. “Oh, I'm fine. Just thinking.”
+
+John nodded and motioned to the inn with an elbow, since he had a bag in each hand. Holly took the hint and walked ahead of him through the door, then over to the reception desk.
+
+“John!” The clerk at the desk said. “You haven't been here in... hell, I don't remember when!”
+
+John laughed. “Tanya's got a house full of girls right now.”
+
+“Yeah, that will push any guy right out.” The clerk grinned and checked the computer. “Ooo, the presidential suite!” He said and grabbed the key from the rack behind him. “Follow me.” He said, walked out from behind the desk, then down the hallway to the right.
+
+“Presidential suite?” Holly asked John in a low voice as they followed the clerk.
+
+“It's an in-house joke.” John whispered to her. “The whole place was built with Lincoln logs.”
+
+Holly snorted a laugh, and John grinned. The clerk opened the room with the key, and Holly and John entered it. It was a huge room that had wood decorations everywhere and nice furniture. To Holly's relief, it also had two large identical beds. John put the bags down and turned to get the key from the clerk and slipped him a tip.
+
+“If you need anything, just let me know.” The clerk said. “The kitchen is open until 8 p.m., and the maids come in at 10 a.m. to clean.”
+
+“Thanks.” John said, and shut the door when the clerk left. Holly hopped onto the edge of the bed to sit on it, and bounced up and down a few times to test the mattress' springiness. John watched the display, and couldn't believe Holly would do something like that, and in a scoop neck top. When Holly was satisfied that the bed would be comfortable enough to sleep on, she looked at him.
+
+“So, what do you want to do now?” Holly asked.
+
+“Well, I have an idea...” John said and smiled at her.

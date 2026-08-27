@@ -1,0 +1,333 @@
+---
+id: cc603899-78e8-5f8d-9dbc-985c969795ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 158 - You're Mine"
+slug: 0144-chapter-158-youre-mine
+partOf: mythrans-master-of-all-continued-completed
+position: 144
+ownLength: 3428
+unit: words
+publishedAt: 2017-02-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116389/chapter-158-youre-mine"
+royalRoadId: "116389"
+---
+
+“Do you think this is good enough?” One of the players asked.
+
+“I can barely see, what do you think everyone else is going to see?”
+
+“Then it's good enough for me.”
+
+“Go! Go! GO!” The leader of the group said. “The soldiers are fighting the fire! GO!”
+
+The looters entered the city in a group, hoping their overwhelming numbers would discourage any resistance; unfortunately for them, they didn't realize there would be armed resistance.
+
+“FIRE!” Someone shouted.
+
+“Of course there's fire, you idiots! We started i-Gurglll.” His words were cut off by an arrow in the throat, and several others were hit in the chest and arms.
+
+“Take cover!” Someone else shouted, and the group of looters scattered around the surrounding buildings; which was exactly what Selene had planned.
+
+Two of the men ran a little ways away from the main group. “Geezus! Who's firing at us? The soldiers are supposed to be on the other side of the city fighting the fire!”
+
+“They are.” A woman's voice said, and ran the looter through the chest with the sword Ren had given her.
+
+“Holy shit! You killed Mark!” The other man said, then didn't speak again as a sword was jammed into his mouth.
+
+Selene pulled the swords free from her targets, then looked at the blades. “Well, damn. I'm going to have to thank him for giving me two of them.” She looted the bodies, and turned to the alley behind her. “Let's go.”
+
+Three players followed her into the smoke to wreak as much havoc on the looters as they could.
+
+*
+
+Ren ignored the Influence, Honor, and XP gain popups he was getting.
+
+“Good god, Ren!” Elerlyth exclaimed when she saw Ren absorb the fire trying to crawl across the street. “Where the hell did you get that ability?!?”
+
+“It's a long story.” Ren said. “Or a short one, depending on your perspective.”
+
+She looked at him with raised eyebrows.
+
+“I'm a little too busy to explain right now.” Ren said as he crashed through the door into another burning building.
+
+*
+
+“Hey, where's Kevin?”
+
+“How would I know?” A man said as he used his sword to chop at the door to a shop in the Market District. “I'm not his mother.”
+
+The other man sighed. “He's supposed to be watching our backs.”
+
+“Maybe he found something to break this stupid door down.” The man said, as his sword bounced off the door again. “Dammit, why isn't this working?”
+
+A dark figure came around the corner. “It's because the businesses are protected.” He said, and swung his sword at the sword the other man held. He knocked it away easily and the man backed up.
+
+“Hey, man.” The looter said, then glanced at his companion. “I'm just looking for... geez, don't just stand there! Attack him!”
+
+His companion was startled for a moment, then took a fighting stance. He swung his sword and it was easily deflected by the shield the dark figure held.
+
+“I barely felt that.” The dark figure said. “This shield is great.”
+
+The man swung again, and the dark figure parried it, turned to the side to expose his opponent's unguarded side, and jabbed with the sword into his gut. The man grunted, and dropped his sword. The dark figure pulled out his sword and swung it up and across the man's chest as the man bent over, slicing him from his abdomen to his shoulder. The body fell to the ground, and the unarmed man turned and started to run; right into the low level fighter's outstretched sword. The man looked down at seeing himself impaled, then collapsed to the ground.
+
+“Now what do we do?” The low level fighter asked.
+
+“Loot them.”
+
+“No way!” He exclaimed. “We can do that?”
+
+“We killed them, didn't we?” The dark figure said as the body below him dissolved and he picked up a couple of gold coins and a sword.
+
+“That's so cool.” The low level fighter looked down and saw 5 gold coins and a pair of high quality boots. “Hey, I got more gold than you.” He said. “Are we splitting?”
+
+The dark figure shook his head. “You keep what you kill.”
+
+“Dude, you rock.” The low level fighter picked up the money and then equipped the boots. “These are awesome!” He said. “My Stamina just went up! Why would he loot if he already had such great boots?”
+
+The dark figure laughed. “He probably looted them from somewhere.”
+
+“Oh.” The low level fighter said. “Do I have to give them back?”
+
+“Who would you give them back to?” The dark figure asked. “He wouldn't tell you where he got them, even if he was still alive.”
+
+The low level fighter looked at him.
+
+“Come on.” The dark figure said. “There's more fun to be had.”
+
+*
+
+The more looters Selene dispatched, the more she liked her new swords. They are so light! She thought as she did a pirouette and easily sliced the head off of a looter. But they cut like a broadsword! She ran after one of the fleeing looters and skipped off the side of a building to lunge at his back, driving both swords through him. She stood up and dragged the body to a kneeling position, slid her swords out, and the man grunted. She smiled as she crossed the swords on his neck, then pulled quickly to decapitate the body.
+
+Yes, I am definitely going to thank him. Selene thought and flicked the blades out to the sides. She looted the body and ran down an alley, as she'd heard a commotion on the next street. She had ordered the ones following her to keep going as she dealt with the scouts. At least, she assumed they were scouts. The looters seemed to be organized at first, but now it was more like a skirmish fight. Selene smiled. She was at her best in a skirmish fight.
+
+*
+
+“Thanks for letting me come along.” The low level fighter said as they crept down an alley.
+
+The dark figure chuckled. “If it comes down to it, I'll use you as bait to draw them out.”
+
+The low level fighter laughed. “Hey, I've already killed 3 more than I ever thought I would.” He said. “I'm just running on pure luck right now!”
+
+“I'd say these swords and shields have something to do with that.”
+
+“They sure do!” The low level fighter said. “I don't know where he got them, but I'm sure he could have sold them for a lot.” He said. “Instead of giving them to us, that is.”
+
+The dark figure examined the sword. They are worth a lot. He thought. Why would he just give such treasures away?
+
+*
+
+“There's another one.” Teepo said. “Coming down the street on the left.”
+
+“Teepo says left.” Ren said to Elerlyth and she disappeared in the smoke. He heard a muffled yell, and Elerlyth came back to his side.
+
+“They're definitely getting into the heart of the city now.” Elerlyth said. “Are you sure you want to keep bringing people back to your place?”
+
+Ren nodded. “It really is the only place I know that's both safe, and not on fire.”
+
+“Why is that?” Elerlyth asked. “Not on fire, I mean.”
+
+“The businesses are protected from things like that.” Ren said as they finally got back to the Artesian District. “It's automatic, and not even an option to turn on or off.”
+
+Elerlyth frowned. “Then how are they going to loot things?”
+
+Ren sighed as he put another rescued person inside his business. “The businesses are protected, but none of the other buildings are.” He said. “Neither are the people.”
+
+Elerlyth gasped. “You don't mean...”
+
+Ren nodded. “Even if they only had a single gold each... if you kill a thousand people...”
+
+“Those bastards!”
+
+Ren grinned as took her into a hug, and their armor clanged again. “Is that a glimmer of good I see?”
+
+Elerlyth snorted a laugh. “I just don't want this place to become a ghost town.”
+
+“We'd better go to the mansion next.” Ren said. “I'm sure a lot of people might have headed there.”
+
+“You'll never get them all back here.”
+
+“I want to see if they have room for anyone else we may rescue.” Ren chuckled. “I can't fit anyone else inside.”
+
+They ran down the 2 blocks to the main street that went out through the West Gate, and Teepo told them to stop before they got to the intersection. Ren and Elerlyth peeked around the corner of the building.
+
+“Holy crap.” Ren whispered, as he saw nearly 2 dozen looters coming down the street. Teepo flew down the street and past the mansion.
+
+“They're a block away from the town square.” Teepo said. “It's full of townspeople.”
+
+“Teepo says the town square is full of people.” Ren said. “We can't let the looters get there.”
+
+“Ren, I know I told you that you weren't alone; but, even I can't handle fighting that many people at once.”
+
+Ren laughed. “We won't have to.” He said. “Walk in front of me until I tell you to stop.”
+
+Elerlyth looked at him for a moment, then nodded and walked out from around the corner of the building. Ren followed close behind her.
+
+“The middle of the street.” Ren whispered.
+
+Elerlyth moved to the middle of the street and kept walking. Several looters noticed her coming and stopped to look at her. When she got beside the mansion, Ren spoke.
+
+“Stop here.” He said, and waited until a large puff of smoke provided a suitable cover, and took out his demonstration project for the dwarf army. “Boy, are they going to be surprised.”
+
+“Why?” Elerlyth asked. “I'm just standing here.”
+
+“I'm sure that's quite a surprise for them.” Ren said. “But, I meant this.”
+
+Elerlyth turned around and froze. “What the HELL is THAT?!?” She exclaimed as she saw the 15 foot wide artillery weapon.
+
+“It's an Automatic Ballista.” Ren said, and she stared at him. “I built it to show the dwarf army, but I guess I can demonstrate it here instead.”
+
+“REN!”
+
+“You'd better step aside.” Ren said. “Your hollering got their attention.”
+
+She hopped to the side and turned around to see the looters had started to run toward them with weapons drawn.
+
+“I've only got 24 shots.” Ren said, and lifted the back of the Ballista to look through the sights. “You might not want to see this.” He said, and pulled the trigger.
+
+The first 6 foot bolt shot out and flew across the 3 block distance in an instant and hit one of the looters in the chest, skewered him, and the man behind him, and the next man's arm, and then slammed into a building, holding them off of the ground. The looters froze at the sight, but Ren didn't give them time to respond and traversed the Ballista across the front of the group to let 8 more bolts skewer the looters. When he was done, there was no one left standing. He dismissed the popups for the XP gains without looking at them.
+
+“Oh, my god.” Elerlyth said. “You just... oh my god!”
+
+“Well, it works.” Ren said, then heard several cheers. He stored the Ballista and turned to the side and saw several soldiers staring at him, and a lot more townspeople yelling their thanks. Ren waved to them, and ran over to the carnage he had willingly unleashed. He looted the bodies, and dislodged the bolts from the buildings and ground they were stuck in. He repaired the tips and stored them to load back into the Ballista when he got the chance.
+
+“Hello, Ren.” Lara, the Sage of Ages said as she came through the crowd.
+
+“Sage of Ages.” Ren said, and bowed slightly to her.
+
+“You're spending too much time in the Dwarven Kingdom.” Lara said, and bowed slightly back to him. “It's affecting your normal behavior.”
+
+“It's nice to see you, too.” Ren smiled, then asked what had been bugging him. “Why don't they have everyone inside the mansion?” He asked. “There's more than enough room.”
+
+“Lord Eric ordered the doors locked and barricaded when the fires started.”
+
+Ren sighed.
+
+“You can't break the door down, either.”
+
+“I know.” Ren said. “I saw the protections placed on the windows, too.”
+
+“You need to set up your Ballista on that cross street.” Lara said and pointed across the square. “The groups from the South Gate will be coming up both streets in about 7 minutes.”
+
+Ren nodded and he ran over to the spot to set it up. He loaded the bolts back into the cartridge, and several people gasped. Lara reached out and touched the weapon, and closed her eyes.
+
+“Oh, my god.” She opened her eyes. “You... you... Tee-one!”
+
+Ren grinned. “Yeah, there's been a few developments since the last time I saw you.”
+
+“You made him a party member.” Lara shook her head. “How in the world did they let you add a familiar as a party member?”
+
+“I don't have a clue.” Ren said. “It might be because of my class, though.”
+
+Lara stepped over to him, and took his hand. She closed her eyes for a moment and nodded.
+
+“Yes, it's a hidden class perk.” She let his hand go. “You weren't expected to have anyone accept you into a party until your level was a lot higher, so they added making your own party an option.”
+
+“That's good to know.” Ren said. “I filled all the spots already, though.”
+
+“Damn.” Elerlyth said. “I can't even add you to mine.”
+
+“You were going to give me an XP boost, were you?” Ren asked, and she nodded.
+
+Lara laughed. “He's been getting along just fine XP wise.”
+
+Elerlyth frowned as she looked at Lara. “Now I'm sorry that I've been worrying about it.”
+
+Ren pulled Elerlyth down close. “I'm not.” He said, and gave her a quick kiss. Elerlyth felt how much he liked that she was worried about him, and she cupped the sides of his face and kissed him back.
+
+“I'm sorry to break this up, but you have targets.” Lara said, and pointed.
+
+“That's not too far away?” Elerlyth asked.
+
+Ren laughed as he put his hand on the trigger. “If I tilted this back, it can go about 1200 yards, or 3600 feet.”
+
+She stared at him as he shot 6 bolts at the looters coming down the street. They were packed much closer together, so it didn't take long for the group to be decimated. Ren turned the Ballista to face down the other street, then shot 10 more bolts.
+
+“It can shoot for two thirds of a MILE?” Elerlyth asked, when he was done shooting. Ren nodded then looked at Lara, who nodded back and he stored the weapon.
+
+“We need to recover the bolts.” Ren said. “I only have 8 left.”
+
+“You won't need them.” Lara said. “Your quest players are doing a great job sweeping up the stragglers.”
+
+“I might not need them right now; but, I will need them.” Ren turned to Elerlyth. “Let's go.”
+
+“Wait for a minute, Ren.” Lara said. “Elerlyth, you can go ahead. A few looters are looting Ren's loot.”
+
+“That's a lot of loots.” Elerlyth commented, and ran ahead. Lara turned to Ren.
+
+“Stay away from Selene.” Lara said.
+
+“Selene?” Ren frowned. “Why would I be near her?”
+
+“She's going to be appreciative of the swords you gave her.” Lara said. “Really, really appreciative.”
+
+Ren's eyes widened. “I'd say you were kidding, but I know you aren't.” He said. “I promise that no matter what, I will not get involved with her in any way.”
+
+“That's good.” Lara sighed. “Not only is she a horrible person, she'll destroy your reputation; and then you if she gets her claws in you.”
+
+“You don't have to keep convincing me.” Ren took her hand, and smiled. “I don't doubt your word in the least.”
+
+Lara looked down at their clasped hands, her eyes widened and she stepped close. “By the way, I never did thank you for all the XP from destroying that Battalion.” She leaned in to whisper. “I leveled up so many times, that it unlocked a bunch of my abilities.”
+
+“Me, too.” Ren said. “Tee-one was-.”
+
+Lara let his hand go, then grabbed the sides of his face, and kissed him square on the lips. Little Ren reacted from the passion Lara was stirring in Ren, and a minute later, she broke the kiss.
+
+“You should know that nothing can happen between us for a while.” Lara said and glanced down. “Despite knowing exactly what's waiting for me, it's not our time yet.”
+
+Ren stared at her with his mouth open in surprise, and she chuckled.
+
+“No, I won't tell you when it will be our time.” Lara said. “You need to experience several other things before I can even fit in the picture you've drawn for yourself.” She reached a hand to his face and closed his mouth. “You need to go. Elerlyth's waiting for you.”
+
+Ren nodded and started to walk away, then turned back to look at her again. Lara gave him a little wave, and he gave her a little wave back, then he turned and ran down the street.
+
+*
+
+Lara walked calmly through the crowd, and down the street to the Library. She went inside, down the hallway, and into the back storage room. She walked to her closet, went inside, and sat down in the chair Ren had made.
+
+Oh, my god! Lara thought as she wrapped her arms around herself. She started to shiver at remembering Ren taking her hand. She'd seen they had a relationship in that brief moment, and she had surprised herself when she'd kissed him like that; but, then she saw it all. From the start to the finish, she remembered everything that they went through. Every kiss, every love-making session, every fight. Tears came to her eyes as she felt all of the love she had for him, for the entire two years they would be together.
+
+*
+
+Ren picked up and repaired the bolts from the two spots, and Elerlyth gave him the loot she had gathered on his behalf.
+
+“Now what?” Elerlyth asked.
+
+“We could go and hunt some looters.” Ren suggested. “But Lara said the Quest was going well.”
+
+“I felt what you were like when you came down the street.” Elerlyth smiled. “What did the Sage of Ages tell you?”
+
+“She told me to stay away from Selene, because she was bad news.”
+
+“That was blatantly obvious.”
+
+“Then Lara kissed me, and said that it wasn't time for us to be together yet.”
+
+“No way!” Elerlyth exclaimed. “That little vixen!”
+
+“Don't worry about it.” Ren chuckled and took her hand. “She said there wasn't room for her in the 'picture I'd drawn for myself'.”
+
+“What does that mean?”
+
+“It means, there's only so much room in my heart for the people I care about.” Ren said. “It's kind of full right now.”
+
+Elerlyth felt how much he cared about her flood into her, and she smiled as she gorged on the amount. “Let's get back to your place.” She said. “We can take the townspeople to the town square where the soldiers are guarding them.”
+
+“That's a great idea.” Ren said, and they ran the 4 blocks to the business, then escorted the townspeople to the town square to meet friends and family. Elerlyth fed on all the strong feelings of happiness from Ren. The soldiers started to pester Ren about the Ballista, so she pulled him away and they ran down a side street.
+
+“Thanks.” Ren said. “It's hard to break away from a conversation like that.”
+
+Elerlyth smiled. “You could just say, 'I have to go'.”
+
+Ren looked at her with surprise on his face, then smiled. “See? I told you that you were brilliant.”
+
+She chuckled. “Let's go and see if we can find any more fires to put out.”
+
+“You're just full of great ideas today!” Ren said. Teepo? Any smoke pillars?
+
+“Three streets ahead of you, towards the North Gate, and on the right.” Teepo said, from about 150 feet up. “It's a small park, and the buildings around it.”
+
+Ren took Elerlyth's hand. “I've got a hot one!”
+
+She looked at him, and he grinned.
+
+“And a fire, too!” Ren said, and Elerlyth laughed as they ran up the street and into the night.

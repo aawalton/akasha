@@ -1,0 +1,473 @@
+---
+id: 12bc289d-1de2-59d3-9a84-3825b2956926
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119 - A New Title"
+slug: 0104-chapter-119-a-new-title
+partOf: mythrans-master-of-all-continued-completed
+position: 104
+ownLength: 5367
+unit: words
+publishedAt: 2016-12-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108321/chapter-119-a-new-title"
+royalRoadId: "108321"
+---
+
+Ren ended up with 32 bags of powder and stored them in inventory after turning off the oven. He'd had just enough fabric in the bolt of cloth he had in inventory to make the rest of the bags. He could have made more sacks, but he'd used some of it to make coin pouches for the female workers. Of course, that reminded him to make more coin pouches. Ren ran back to the stable and stored all the bolts of cloth there, went back to the workshop and made several dozen high quality coin pouches of various colors.
+
+“I'm going to have to hire more general labourers to shovel silt into the oven, and to gather the powder into sacks.” Ren said. “I can get 40 sacks from a single bolt of cloth, so with the 5 bolts that I have left, that's 200 sacks.”
+
+Ren checked the giant boar cloak and the metal arch was cooled off. He folded over the edge of the pelt and sewed the metal arch into the rim of the hood, so that when it was flipped up, the tusks didn't flop around, or hit the wearer in the head. Ren tested it by holding the cloak at arms length and flipping the hood up, and the metal arch kept the tusks pointed in the right direction.
+
+“Sweet.” Ren said and stored the cloak. His Leatherworking was now Level 2 (Intermediate 50%), and his Stitching was at Level 1 (Advanced 15%). That had only gone up 5%, even with the size of the boar and the difficulty, and with the 20% bonus for using the portable crafting station. “That's going to take a lot to level up.” Ren looked at the oven and the sacks he needed to make. “I'm going to have to buy more fabric.” He was tempted to use the high quality bolts of cloth still stored in Narhilda's old bedroom closet, but Ren had earmarked them for army uniforms. That assumed the army got off their butts soon and hired House Neram with a regular contract. Ren grinned. He'd be spending a few days in the brig if he'd said something like that to the Commander of the Garrison.
+
+Ren stored the Portable Leatherworking Crafting Station and then used up 4 bolts of cloth to make 160 sacks, then stacked them beside the exit chute of the oven. He took out a bit more cloth and sewed up a sack 1 foot square, and unloaded all the 1 gold cost diamonds into it, tied it shut, and store it. His Stitching was now at Level 1 (Advanced 16%).
+
+“Yeah, a lot of time to level up.” Ren said, then went to the forge. He changed the mold layout on the floor to make several rows 10 feet long and an inch wide, then ran out of bricks. “That's good enough.” He said and nodded to Ruck, who started pouring the molten metal. Ren used the skimming tool to spread the metal along the molds and they were soon filled. He took out the 4 wind bricks that he had and set them on the ends of the molds to let the steel cool. After a few minutes, Ren popped the bars out and had Ruck pour again. They repeated this process twice more and Ren had a dozen 10 foot long and 1 inch wide steel bars.
+
+There was still about a quarter of the smelter full of molten steel, and he added more iron ore to fill it. After more impurities were skimmed off, Ruck poured it out into the big blank mold several times. Ren took each one and hammered out the rest of the pieces for a set of armor plate for Nathalia, to match the elaborate breastplate he'd made for her. 2 nice shoulder pieces, thigh high metal boots, and a pair of upper arm coverings. It nearly emptied the forge, and Ren eyed the huge pile of gold ore.
+
+“Oh, why not?” Ren said and added in the gold ore, with 1 piece of iron ore for every 3 gold. Once it was smelted, Ruck filled the big blank mold several times and Ren hammered out a set of full plate armor for himself. He had about half of his Mana Pool left after enchanting all the stones in the giant oven, and set to work enchanting the armor pieces he'd forged. He enchanted them with double glyphs (8 runes total) with Protection for now. Ren could always modify the enchantments later, and probably would.
+
+He took out some fabric, and dyed it black, then used one of Lord Neram's patterns to sew a skin tight bodysuit to fit under the armor. Once that was done, he equipped the bodysuit and put on the gold armor pieces; minus the armored gloves. Ren still needed access to his rings.
+
+Teepo whistled. “You look awesome, Ren.”
+
+“Thanks, Teepo.”
+
+Ren had Ruck pour out the last bit of gold/iron mix into the big mold. He'd think of what to do with it later. He tossed in several chunks of iron ore.
+
+“That's great Ruck. You've been a big help.” Ren said, and Ruck gave him a 'thumbs up' gesture and climbed down off the forge. He waved to Ren and left the workshop. Ren then sewed up a skintight bodysuit for Nathalia, enchanted her armor pieces with Protection glyphs, polished them to a shine, and then thought about how he'd give it to her.
+
+“I think it would be better in a box, rather than handing it to her as a bunch of pieces.” Ren said, then pulled out enough wood to make a long box, just over 4 feet long, 3 feet wide, and 2 feet deep. He built it and got a popup.
+
+Stat Change!
+
+Woodworking Level 7 (Beginner 0%)
+
+Ren dyed the box red and laid the bodysuit in first, set the armor pieces in the proper spots, then noticed something was missing. “I forgot a helm of some kind.” He said, then had an idea. “Maybe a big tiara instead.”
+
+Ren checked the molten metal and skimmed off some impurities, and stirred it vigourously. “I'm almost out of time.” He said, then took out the medium crate of cut diamonds. Ren chose several different ones, to try and decide which one would be best in the center. “Oval is definitely the best for the center, because it doesn't have the long pointy end underneath.” He chuckled. “Imagine equipping a tiara and then having the diamond embed itself into your forehead!”
+
+“You'd become a diamond monocerus.” Teepo said, then chittered in laughter. Ren laughed and picked a good-sized oval, about 3 inches across, and set it aside. He picked 2 smaller ones about 1 inch across, to put on either side of the big one, and stored the crate. He concentrated on Nathalia and enchanted the big oval with a quadruple glyph of Lightning, one of the smaller ones with Water, and the other small one with Terror, to match his rings. Ren checked the molten metal, and it looked good enough. He poured it into the long thin mold, let it set for a moment, took it out and folded it in half. He used a chisel to cut comb-like teeth in the ends so that Nathalia could slip it into her hair, then hammered the metal lightly into the proper rounded shape. Ren placed it face up on the anvil.
+
+“Here goes nothing.” Ren took the big oval diamond and put a dollop of molten metal on the tiara and pushed the diamond down into the surface, making sure the enchantment was facing in the right direction. He repeated this with the two smaller diamond ovals and smiled. He was tempted to set a bunch of the little diamonds around the big ovals, but the metal was cooling too quickly to do that. He'd have to find a good jeweller somewhere to teach him how to do this properly. Ren left it on the anvil to cool and poured the last of the molten metal into the long thin mold and deactivated the forge.
+
+Ren walked over to the opening in the wall, and saw it was getting light out. He took out enough lumber to make a partition wall around Dorcot's workbench, leaving him a lot of room for both the big crate of diamond crystals and to move around. If there was going to be other people in here, he didn't want them to bother Dorcot while he worked. Ren went back to the anvil and the tiara was cooled off. He put it in the box with the armor pieces, covered it in cloth, then placed the Giant Boar Hooded Cloak on top. He closed the box and stored it.
+
+“I really hope she likes it.” Ren said and left the workshop to go back to the house.
+
+“If she doesn't die from the shock, she's going to love it.” Teepo said.
+
+Ren grinned and walked down the road to the front gate. The metal didn't grind at all anymore and Ren locked it behind him, then pulled the rope to close the drawbridge and tied it off. He walked into the house and saw that no one was in the kitchen, and went to the old bedroom. Nathalia was there on the bed, still dressed. Ren walked over beside the bed, and Teepo hopped out of the hood.
+
+How much time before breakfast? Ren thought.
+
+“About an hour.”
+
+Ren laid down on the bed and Nathalia stirred, then looked at him.
+
+“Good morning.” She said.
+
+“Good morning, beautiful.”
+
+Nathalia blinked a few times and then sat up in the bed. “What in the world are you wearing?”
+
+“This thing?” Ren said and lifted his armored arms. “It's just something I threw together.”
+
+Nathalia opened her mouth to speak and then looked at him. “You really just made that tonight?”
+
+Ren nodded slightly. “I finished making something else, and decided I needed something better than leather armor.”
+
+She reached out a hand and stroked the gold metal. “It's wonderful.”
+
+“Wait until I polish it. You won't be able to look at it without hurting your eyes.” Ren said and grinned.
+
+Nathalia chuckled and laid back down. “Are you leaving it on?”
+
+Ren nodded slightly again. “There's only about an hour left before breakfast, and I want to get used to wearing it.” He said. “Then I'll need you to come with me to the Main Keep.”
+
+“Okay.” She said and tried to slide closer. The full plate mail stopped her from cuddling close, though. “You're not going to wear it all the time, are you?” Nathalia asked.
+
+Ren chuckled. “No, it's just for when I go out in public.”
+
+“Good.” She said and took his unarmored hand. “I like cuddling you.”
+
+“I like being cuddled by you.” Ren said and smiled. “You can recharge me, if you feel like it.”
+
+Nathalia smiled and used her healing several times over the hour, as they both lay there and watched each other until breakfast. They got up and went out to the kitchen when it was time, and Teepo tagged along.
+
+Narhilda stared at Ren's golden armor, then grinned. “I think you might be over-reacting to me seeing you in your underwear.”
+
+Ren and Nathalia laughed and sat down at the table. They enjoyed a good breakfast and then Ren took some food out to Princess and fed her. He went back inside and went to the kitchen table. He knelt by Nathalia's chair and took her hand.
+
+“My Lady, this is the year for courting gifts, and I've made something that I hope will please you.” Ren said formally. Nathalia's eyes widened as Ren asked her to come into the main room, as there wasn't room in the kitchen for it. She nodded, Ren stood up, and helped her stand as well.
+
+“This way.” Ren said and led her into the main room. He looked at the couch, and it wasn't a good spot.
+
+“You can use my chair.” Narhilda said.
+
+“Mother?” Nathalia said and turned around
+
+“It's okay.” She said. “I think this is a special occasion.”
+
+Nathalia smiled and nodded. Ren grinned and sat her in the chair. When she was comfortable, Ren took out the large red wooden box and placed it on the floor in front of her.
+
+“Please accept this humble gift, that I made with my own hands.”
+
+Nathalia reached a hand out and stroked the red wood. “Any gift from you, is more than any woman deserves.” She said and smiled. “I accept your humble, hand-made gift.”
+
+Narhilda stepped close to stand over her daughter's shoulder to get a good look. When Nathalia opened the crate, they both gasped and Narhilda gripped the back of the chair to stop herself from collapsing.
+
+“By the GODS, Ren!” Nathalia exclaimed. “When... when did you do this?”
+
+“It took a couple of days to treat; which, either fortunately or unfortunately, I was unconscious for the most part.” Ren chuckled. “I'm just glad I had Ruck drop off my crafting stations the other night and set it to dry. I made it last night while you were alseep.”
+
+“This is what you did all last night?” Nathalia asked, stunned.
+
+Ren smiled. “Well, in between a bunch of other stuff I did.” He said. “I needed to wait between projects, and did this up.”
+
+She stared at him in surprise. “You... you made this... masterpiece... in between other projects?”
+
+Ren grinned. “I told you I had a lot of work to do.”
+
+Nathalia shook her head. “Ren, you shouldn't have.” She said and lifted out the Giant Boar Hooded Cloak. “This is too much!”
+
+“You can't turn it down, Nathalia.” Ren smirked. “You already accepted my humble hand-made gift.”
+
+Nathalia opened her mouth to protest, then smiled. “That's why all the formality.”
+
+Ren nodded slightly. “I couldn't take the chance that you'd say no.”
+
+“Oh, Ren.” Nathalia said and stood. “I don't know what to say.”
+
+“Don't say anything yet.” Ren grinned. “That's not all that's in the box.”
+
+“It's not?”
+
+Ren motioned to the box and Nathalia reached in and lifted the cloth.
+
+“By the GODS!” Nathalia sat back in the chair in shock. “You... you...”
+
+“I said I did other projects last night.”
+
+Nathalia stared at the gleaming steel armor and was left speechless. Ren knelt by the box and pointed to the empty spaces.
+
+“I already gave you the breastplate and the gauntlets.” Ren said. “So I made these to match.”
+
+“Oh, Ren!” Nathalia said, and tears came to her eyes. “When you said... when you told me you'd make me more pieces when you made a forge... I didn't expect...”
+
+“That makes the gift even more special when its unexpected.”
+
+“But...”
+
+“I'm heading to the Main Keep.” Ren said and stood. “I wanted you to be as impressive to everyone else, as you are to me.”
+
+Nathalia dried her tears of joy and stood. She took a deep breath and smiled. “Very well.”
+
+Ren handed her the black bodysuit and Nathalia equipped it. It replaced her slip and then she stored the fancy green dress her father made for her. Ren handed her each armor piece and she equipped each in turn, then added the breastplate she still had in inventory. Nathalia left the gauntlets off, just like Ren did.
+
+“You have your sword; but, I thought you might want some of the same options that I have.” Ren took the tiara out of the box and showed it to Nathalia. “The middle one is a Lightning enchantment, similar to my ring.” Ren pointed to his own raised platform ring.
+
+“Ren...”
+
+“This one is Screaming Terror, to help make your enemies fear you.” Ren said and pointed to his other ring.
+
+“Ren...”
+
+“This one I call Water Spray, and it's like my Water Spray ring as well.” He pointed to the last ring. “You've seen them used in battle.” Ren said and looked at her. “Just concentrate on which you want to use, and say Activate.”
+
+“Ren!”
+
+“What?”
+
+“I... I can't...”
+
+Ren turned to face her. “I know you may not need any of this right now; but by the gods, you will have the option of using them if you ever do need them!”
+
+Nathalia put a hand on Ren's hand that held the tiara. “I've never used anything like this before.”
+
+Ren smiled. “Just point your pretty face at something, and think 'lightning activate'. Then watch it explode.”
+
+He placed the tiara in Nathalia's hand and she equipped it. It spanned Nathalia's forehead and the ends were dug into her braided hair.
+
+“Now the cloak.”
+
+Nathalia equipped it and gasped. Ren's Aura spread out to 40 feet, and he assumed Nathalia's did, too.
+
+“I'd hoped it would work just like my cloak.” Ren said and grinned.
+
+“Ren, I...” She stepped close to him and looked him the eye. “I love you.”
+
+“I love you, too.” Ren bent slightly and kissed her. They heard a sob and turned to see Narhilda crying.
+
+“My little girl is growing up.”
+
+“Ma.” Nathalia said and went to her to give her a hug. “I'm still your little girl.”
+
+Narhilda nodded. “You look so regal.” She said and turned to Ren. “You both do.”
+
+“Perfect.” Ren said and walked over to her. “That's the look I was going for.”
+
+“You were?” Narhilda asked.
+
+Ren nodded slightly. “It's like I told Nathalia. I want people to be impressed when they see us.”
+
+Narhilda looked at his gold armor, and Nathalia's gleaming steel armor. “You're definitely impressive.” She said. “But... why is yours so dull compared to my daughters?”
+
+“I want everyone to see her, and ignore me.” Ren said grinned. “Who's going to look at me with Nathalia in the room?”
+
+Nathalia's mouth dropped open and Narhilda chuckled.
+
+“You're right.” Her mother said. “She's quite the sight to behold.”
+
+“That's what I told her.” Ren said and saw Nathalia blush slightly, then winked at her. She remembered her slip being tangled up in bed and the blush filled her face. Ren reached out a hand to Narhilda. “May I see the rings I gave you?”
+
+Narhilda held her hand out and Ren took the Strength ring off, absorbed the enchantment and enchanted it with a double glyph (8 runes of Augment) and thought Strength. He put it back on her finger and her eyes widened. He did the same for the Vitality ring and she took a deep breath and sighed.
+
+“By the gods, Ren!” Narhilda said. “You're too good to us.”
+
+Ren smiled and gave her a kiss on the cheek, much to her surprise. “The better I get, the better the House gets.”
+
+Narhilda stood on her tippy toes and gave Ren a kiss on the cheek back, much to his surprise. “Yes, we definitely need to register a new ritual.”
+
+“Mother...”
+
+“What? I really liked that.”
+
+“I know you did.” Nathalia said, and smiled. “A bit too much, I think.”
+
+Her mother grinned. “It's so nice to have a man around the House.”
+
+Nathalia rolled her eyes. “Come on, Ren. She's getting into one of her moods.”
+
+Ren chuckled and nodded slightly. “We'll be back later, My Lady.”
+
+“See you then.” Narhilda said and waved. Ren and Nathalia left the house and he let her open the gate to see her reaction. She unlocked it and didn't notice the lock opened smoothly, then yanked on it hard, to open it.
+
+“Whoaaaa!” Nathalia said as the gate flew open easily and she whipped around and nearly fell. Ren caught her easily and held onto her.
+
+“Before I forget to tell you, I fixed the gate.”
+
+Nathalia looked at him with her mouth in a little 'o', then scowled. “You did that on purpose.”
+
+Ren grinned and kissed her. He broke the kiss a minute later, and she smiled.
+
+“I'm still mad.”
+
+“I know.” He said and let her go. “My Lady, after you.”
+
+Nathalia turned and then stopped. “What in the world?” She said. “The drawbridge is up!”
+
+“I couldn't stop at the gate, could I?” Ren chuckled and untied the rope holding the drawbridge up and let it out slowly to lower it. “I'll be replacing it later; but for now, it works.” He walked over to her and took her hand. They walked across the drawbridge to the road and turned to walk to town.
+
+“What's that?” Ren said and stopped walking. He saw a crowd gathered around in front of Dorcot's tiny house. Teepo! Go!
+
+“On it!” Teepo jumped out of the hood and skittered as fast as he could down the road.
+
+“Oh, that?” Nathalia said. “It's just a little surprise for you.”
+
+Ren looked at her and raised a single eyebrow. She automatically reached up to rub it with her thumb and Ren chuckled.
+
+“Ren, you're not going to believe this.” Teepo said.
+
+What is it? Ren thought.
+
+“It's nothing bad, so your Trouble recipe won't kick in.”
+
+Ren relaxed and started walking again. As they approached the crowd, several people turned and gasped. Of course, once someone pointed them out, everyone else turned around to stare at Ren in his gold armor and Nathalia in her gleaming steel armor.
+
+“Concentrate on your main Aura ability, Nathalia.” Ren whispered, and Nathalia nodded slightly. When they were close enough, the crowd parted like water and several of the workers nodded. Ren gained 30 Honor, and dismissed the popups as he saw what the crowd was staring at.
+
+On the other side of Dorcot's house, out of view of House Neram, was a statue in a little courtyard. They'd even put several benches and hedges along the outside. The whole thing would be in clear view when you came up the road, and Ren stared at the statue in the center. It was a half-sized statue of Ren, bent over and carrying a house on his back. He read the inscription and gasped at the popups he received.
+
+New title!
+
+You have earned a new title: Atlas
+
+This title is given to those that can carry the weight of the world on their shoulders, and grants the bearer: Inventory (Modified), Strength: +20, Vitality: +20
+
+Notice!
+
+Your accomplishment of moving an entire house (and all of it's contents) by yourself, without damaging them, has spread to the general population.
+
+Influence: +1000
+
+Honor: +1000
+
+Fame: +1000
+
+Notice!
+
+Your Influence has reached an unprecedented level (5000+). You are now considered a Warrior by all that see you.
+
+Notice!
+
+Your Fame has reached an unprecedented level (5000+). You are now: Renown.
+
+“By the GODS!” Ren said.
+
+“I told you that you wouldn't believe it.” Teepo chittered in laughter as he crawled up Ren's Dire Wolf Hooded Cloak and into the hood.
+
+“Who... who did this?” Ren asked.
+
+“Barnar.” Dorcot said as he and Angeilin came out of their house. “I offered to pay for it, but he said it was something that he had to do.”
+
+“I can't believe...”
+
+“You can't believe it?” Dorcot said and laughed. “You carried my wife's house over 8 miles, all by yourself.”
+
+“You're amazing, sir.” Angeilin squeaked, and her face flushed a little red. “And you look very dashing.”
+
+Ren looked at her and smiled. “Thank you, Ma'am.” He said, then looked at Dorcot. “I cleaned up your desk of all the... clutter.”
+
+Dorcot chuckled. “Yes, it was quite cluttered.”
+
+Ren took out a coin pouch and handed it to him. “Equip this, please.”
+
+Dorcot did and Ren slipped him 4 coins without showing him what they were. “I built a temporary wall around your work area and left you an empty crate for the... clutter.”
+
+Dorcot nodded and put the coins in his new coin pouch and then gasped. “By the gods!”
+
+“That's a gold for every small one in the drawer, and enough to cover any you do today.”
+
+Dorcot shook his head. “You really are crazy.”
+
+Ren grinned. “That's what everyone says.” He said and heard several carts coming up the road. “I think that's everyone coming to work.” He turned around and counted the carts as they passed. Each one had a driver and 2 workers, and they all nodded to Ren. He dismissed the popups automatically. When he got to a dozen, he stopped counting. “What's going on?”
+
+“The word's gotten around that you pay well for a good day's work.” Dorcot said. “More carts show up every day to go to the mines.”
+
+Stat Change!
+
+Aura (Personal) Level 4 (Beginner 0%)
+
+“Wow.” Ren said as workers kept nodding to him and Nathalia. When he saw several carts from Barnar's shop, he waved to them. One pulled over and Ren grinned as Barnar hopped out of the back.
+
+“Barnar, what were you thinking?” Ren said and waved at the statue.
+
+“It's great, isn't it?” Barnar said and walked over to the statue. “I even got the window frames right.”
+
+Ren shook his head. “That's not what I meant.”
+
+“I know.” Barnar grinned.
+
+“I can't convince you to take it down, can I?”
+
+Barnar shook his head. “I can't. It's already registered at the Main Keep as a 'noticable feature'.”
+
+“You didn't!” Ren exclaimed.
+
+Barnar smiled. “I did.”
+
+“Well, damn.” Ren said, then shrugged. “I hope people can get used to looking at me all the time.”
+
+“I haven't.” Nathalia said, immediately. “You're a delight every time.”
+
+Ren looked at her, and then around at the crowd. Several slight nods met his gaze.
+
+“We have to go.” Nathalia said and tugged on Ren's hand. “We need to get to the Main Keep.”
+
+“Right!” Ren said. “See you all later.”
+
+“Have fun.” Angeilin squeaked as Ren and Nathalia started to walk down the road. The last cart in the line pulled over and the three women stared at Ren and Nathalia.
+
+“Sir, Ma'am.” The driver said, slightly embarrassed. “I'd like to offer my cart and pony if you need a ride.”
+
+Ren looked at her and smiled. It was the driver of the cart he'd ridden in to the mines the first time.
+
+“Thank you for the offer.” Ren said, then turned to Nathalia. “Would you rather walk, or ride?”
+
+“I'm tempted to walk, just to spend the extra time with you.” Nathalia said. “But the faster we get there, the faster you can spring yet another surprise on me.”
+
+Ren grinned and turned to the driver. “We'd appreciate the ride. Thank you.”
+
+They went around to the back and Ren helped Nathalia climb in and climbed in himself. He greeted the other two women and sat down. The cart turned round and took them to the Main Keep. Ren and Nathalia climbed down and the driver offered to stay. Ren shook his head.
+
+“Thanks, but I don't know how long we'll be here.” Ren said and smiled. “We'll find our way back later.”
+
+The driver nodded slightly and pulled away. Ren took Nathalia's hand again and walked up to stand in the line to get in the Main Keep. The guard by the gate waved them forward when he saw them standng there. Some of the dwarves in line started to protest, until one of them got a good look at Nathalia and her Giant Boar Hooded Cloak.
+
+“Deathgore!” They said and pointed. Everyone turned and looked at her. Nathalia didn't blush from embarrassment at all of the attention, and Ren felt quite proud of her. She looked at him in surprise as she picked up on it, and Ren grinned.
+
+Our Aura's are getting more in tune. Ren thought as they entered the Main Keep. He kept a hold of her hand and didn't get in line, and went to the General Information door and opened it. When he looked around, he saw that everyone was staring at Nathalia and smiled. They entered the hallway and Ren shut the door. He led Nathalia to the other door and stopped.
+
+Teepo.
+
+Teepo hopped out of the hood and landed on the wall, then squeezed through the opening at the top of the door.
+
+“The one taking care of the records was really amazed about us killing the Deathgore.” Ren told Nathalia. “She might want to... ah... pet it for a while.”
+
+Nathalia chuckled. “Like when I saw your cloak up close for the first time?” She said and ran her hand over the soft black fur.
+
+Ren smiled. “Exactly.”
+
+“Okay, I'll be ready.” She said.
+
+“All clear, Ren.” Teepo said.
+
+Thanks.
+
+Ren opened the door and walked into the room, still holding Nathalia's hand.
+
+“By the gods!” They heard someone yell.
+
+Ren smiled. “I think she knows we're here.”
+
+Nathalia smiled, too. “Then let's not disappoint her.”
+
+Ren grinned and they walked through the aisle until they came to the spot with the desk. The female dwarf was sitting there with a look of pure shock on her face.
+
+“You... you...” She said and pointed to the Giant Boar Hooded Cloak.
+
+“I had to honor the Deathgore properly.” Ren said. “Now everywhere Nathalia goes, they'll know its death isn't just a story or a rumor.”
+
+The female dwarf stood. “May I?” She asked. Nathalia nodded and the female dwarf ran around the desk and snuggled into the cloak. Nathalia felt amusement and chuckled a little.
+
+“Is this how you felt when I was doing that?”
+
+“Pretty much.” Ren said. He waited until the female dwarf sighed and walked back around the desk, before speaking again.
+
+“My fiance and I want to file a land claim.” Ren said and Nathalia took in a sharp breath.
+
+“Figured that out, did you?” The female dwarf smiled. Ren chuckled and she turned around and took out the two maps, one for the city and one for the countryside.
+
+“The city one first.” Ren said and she unrolled it for him. He pointed to House Neram and the 2 square miles it owned. “I see a lot of open land there.”
+
+The female dwarf nodded slightly. “It's on the outskirts of the city, so there's not a lot of demand for it.”
+
+Ren smiled. “There is now.” He said and traced his finger the 5 miles down the side road to reach the main road of the city, then went the other way and made a square 10 miles long and 5 miles wide.
+
+“What's land near the city go for these days?” He asked.
+
+“About a hundred gold a square mile.”
+
+“Ren!” Nathalia gasped.
+
+“Can two different plots of land be registered at the same time, under the same deed?”
+
+The female dwarf grinned. “Damn, you're good.”
+
+Ren grinned himself. “I've had a bit of time to think about it.”
+
+She unrolled the countryside one and Ren put his finger on the plot he owned, which was already added to the map. He moved his finger up and down the mountain range and along that whole side of the map. “I'd say the rest of the countryside should be enough, I think.”
+
+“WHAT?!?” Nathalia and the female dwarf yelled together in shock.
+
+“It's only about 900 square miles.” Ren said. “That leaves a mile between the new plot and the convent, and 2 miles between it and Dornrach.”
+
+The two women stared at him.
+
+“It's only 90 platinum.” Ren said.
+
+“ONLY 90 PLATINUM!” They yelled together.
+
+“It's 50 platinum for the lot around House Neram, why are you upset over another 90?”
+
+They both clamped their mouths shut and Ren smiled.
+
+“Be right back.” Ren said and stepped around the edge of the shelf and walked a little ways away. He took out the crate of cut diamonds and selected a half-dozen good sized ones and sold them to the system at a 10% discount, making 155 platinum. Ren stored the crate again and walked back. Nathalia and the female dwarf were still staring at him.
+
+“You can do up the deed now.” He said and put 140 platinum on the desk.
+
+“By the gods.” The female dwarf said and sat back. “I'll... um... just give me a minute.”
+
+Ren grinned. “Take all the time that you need.”

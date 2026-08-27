@@ -1,0 +1,367 @@
+---
+id: a274a19f-605e-5e6e-bbd7-9edb6ea327fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 366 - Mayor Duties"
+slug: 0359-chapter-366-mayor-duties
+partOf: mythrans-master-of-all-continued-completed
+position: 359
+ownLength: 3516
+unit: words
+publishedAt: 2017-09-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163665/chapter-366-mayor-duties"
+royalRoadId: "163665"
+---
+
+Princess arrived at the Main House, and came to a stop in front of it.
+
+“We're here.” Janice said and Ren opened the top of the cart and climbed out. He helped Janice down from Princess' saddle, and undid the straps to store them in the saddlebag. Janice passed him the helm and wands, and he stored them.
+
+“Oh... oh my god!” Janice said, then ran across the road and into her workshop. “Ren! This is fantastic!”
+
+“I know it is.” Ren said and reached back into the stone cart to get Zetaya. “My friends and I built it.”
+
+“You're not arrogant or anything.” Janice laughed. “Thank you so much!”
+
+“We haven't made the furniture yet.” Ren said and picked Zetaya up. “You can thank me when that's done.”
+
+“Then she can thank you.” Tee-one said. “Ruck and I made it while you were gone.”
+
+“Thank you!” Janice said and went to hug Ren, then stopped because of the bundle of fire he held. “Ah, I'll hug you later.”
+
+Ren chuckled. “I'll be right back.” He walked over to his large warehouse with the fire elemental in his arms, and showed Zetaya the giant forge. “See? I told you it was going to be big.”
+
+Zetaya let a small crackling fire sound out, then Ren opened the door to the forge and he heard a roaring fire from the fire elemental. He stepped into the forge and closed the door, and let Zetaya go. The fire elemental dropped to the floor of the forge and shivered. It stood still for only a moment, then walked around and explored the space that was to be it's new home.
+
+“So, what do you think?” Ren asked, and the fire elemental ran over to him and jumped up. He caught it, and laughed as it dabbed it's head stub on his face and lips several times. “I guess that means you like it.”
+
+Zetaya let go of him and landed on the floor, hopped around for a few moments, then laid down on it's back to relax.
+
+“I see an exposed tummy!” Ren said and attacked it with his fingers. The roaring fire sounded like a forest fire as he tickled it mercilessly. It wiggled and squirmed; but, it didn't try to get away even though it easily could. Ren stopped tickling it's belly and moved his hands to it's head stub to rub it.
+
+“Fire Dancer, I... I really miss you.” Ren said. “I know I have no right to talk to you after so long, but... I just want you to know that I love you just as much today, as I did the day you were born.”
+
+There was no response, and he didn't really expect one. He had waited much too long to speak to her, and he knew she would have had millennia to watch him and see what he's been up to.
+
+“This kiss is for you, Fire Dancer.” Ren said and kissed Zetaya's head stub. “And this one is for you, Zetaya.” He said and kissed the head stub again. The roaring fire he heard faded away, and it was replaced with a low smouldering fire. “I'll see you later.”
+
+Ren left the forge and shut the door, then went back over to Janice. He saw her working at her glass furnace, and decided not to bother her. He unhooked the stone cart from Princess and put it beside the warehouse, then led her over to the Main House and put her inside so she could eat and rest. He left the Main House and walked up the road a short ways to where the Church was being built.
+
+“Oh, you guys are great!” Ren said when he saw how much of the Church they had done. Almost all of the outer walls were up. “I really want to join in and help!”
+
+Tee-one chuckled, and Ruck waved to him. “You really need to start the stained glass windows.”
+
+“Right! Okay, I'll see you guys soon!” Ren said and ran down the road and back to the Main House. When he passed by the Mayor's office, he saw the door was open and stopped. “Hi, Miss Patty.”
+
+“Hello, My Lord.” Patty said as Ren stepped into her office. She sat behind her desk in the comfy chair, and was wearing a white shirt that fit her form perfectly and left nothing to the imagination. She leaned back in the chair and crossed her arms under her breasts, which highlighted them even more. “What can I do for you?”
+
+You can stop being so appealing. Ren thought and tried not to enjoy the view, and Teepo chittered in laughter. “Actually, I've got a bit of a problem.”
+
+“And what's that?”
+
+“According to my list, there's 61 bakeries in the village.”
+
+Patty laughed. “I think you misread it.” She said. “There's 61 bakers, not bakeries.”
+
+Ren chuckled and opened his list and looked at it.
+
+Walin County
+
+Age: 8 Months (Under Lord Ren)  Size: 50 miles x 50 miles
+
+Settled: 30%  Unsettled: 70%
+
+Population: 797
+
+Village  647  Isolated Individuals:  150
+
+Other Statistics:
+
+Villages  1  City  1
+
+Schools  0  Trade Schools  1
+
+Castles (Urban)  0  Castles (Wilderness)  0
+
+Ruins  1  Cavern  1
+
+Animals (Farm):
+
+Chickens  2300  Other Fowl  600
+
+Cows  1100  Pigs  300
+
+Occupations Breakdown:
+
+Ale Makers  1  Bakers  61
+
+Barbers  1  Butchers  13
+
+Carpenters  1  Clergy  2
+
+Council Head  1  Council Members  6
+
+Guards  2  Hay Makers  2
+
+Mason (Stone)  1  Mayor  1
+
+Nobles  1  Noble Household  1
+
+Old Cloth Maker  1  Pastry Cook  1
+
+Rope Maker  1  Sculptor  1
+
+Wood Carver  1  Wood Cutter  1
+
+“Hey, you're right.” Ren said. “Then, how many bakeries are there?”
+
+“None.” Patty said. “They all work from home.”
+
+“Oh.” Ren said, then thought about it. “Do you think they would want to work at an actual bakery?”
+
+“What do you mean?”
+
+“I'd like for there to be an actual business, where they can sell baked goods.”
+
+Patty uncrossed her arms and stared at him. “Are... are you serious?”
+
+“Of course.” Ren said. “In fact, I think they could have already had a lot of business from the work crews building the houses.”
+
+“I don't... well, I guess... I mean, I'm sure at least some of them would...”
+
+Ren chuckled. “I'll build a big bakery with a few ovens in it, both normal and traditional, and we'll see who's the first to take the chance on it.”
+
+Patty nodded. “I'll let a few of the families know...”
+
+“Know what?” The young boy Russell asked when he popped his head into the office.
+
+“Ahh!” Patty screamed a little. “Russell! Stop that!”
+
+“Sorry, Miss Patty.” Russell said, then grinned at Ren's smile.
+
+“Let... Fern's wife, her sister, and your mother know there's going to be a bakery built.”
+
+“Hopefully by tonight.” Ren said. “I'm a little behind in making the windows for the Church, though.”
+
+“Church?” Russell asked. “Did you ask Mr. Harson about it?”
+
+“Why?”
+
+“He's the head Clergy.” Patty said.
+
+“I did see two Clergy on the list.” Ren said.
+
+“He's not going to like having a real Church.” Russell said. “People get scared when it's too formal.”
+
+Ren chuckled. “If you're talking to him, tell him there's individual rooms for worship. There's a large main room, but that's for general prayers. There's not going to be any sermons or anything else like that.”
+
+“He's definitely not going to like that.” Russell said. “He loves giving sermons.”
+
+“Then he's going to have to live with disappointment if he wants to use the Church.” Ren said. “It's for people to worship in, not for lectures.”
+
+“I don't think I'll be telling him that.” Russell said.
+
+Ren chuckled again and pat Russell on the shoulder. “You don't have to tell him all of that; just say the Church is for the people to use.”
+
+Russell nodded. Patty reminded him to deliver the bakery message, and he took off at a run.
+
+“So, what else are you going to build?” Patty asked, curious.
+
+“An inn, a medical building, and a few other things.” Ren said and smiled. “This is going to be the best place in the world to visit when I'm done.”
+
+Patty didn't say anything, mainly because she was pretty sure she didn't like that idea.
+
+“I've got to get to work.” Ren said. “Can you get a message to the two guards? Have them report here for equipment and possible training.”
+
+“Guards?”
+
+“Yeah, there's two of them on the list.”
+
+“I've never met any guards before.”
+
+Ren brought up the Land Owner menu and tried to find a list of names, and couldn't find anything. “I can't find their names.” He said. “Patty, can you look through your menu and see if it has their names and addresses?”
+
+“I think so.” Patty said. “I've been going through everything and trying to learn what I can.”
+
+Ren walked over to her desk and around it to stand beside her. “I'm sorry.” He said and put a hand on her shoulder. “It never occurred to me that you've probably never even seen a menu before, and then I threw all of this on you.”
+
+Patty could tell he was sincere in his apology, and she sighed. “If you weren't so nice and understanding, I'd hate you so much right now.”
+
+Ren laughed. “I'm glad you don't, mainly because I had assumed you hated me this whole time.”
+
+“You did?!?” Patty had a look of astonishment on her face. “And you gave me the Mayor job anyway?”
+
+“I told you before. I'm not here to wreck what you've built. I want to make it better.” Ren smiled. “With your help, of course.”
+
+“I... okay.” Patty said and opened the Mayor Menu. “Can you see this?”
+
+“I can, surprisingly.” Ren said and leaned close. “It must be because I'm the Land Owner.”
+
+“Show me where to go.” Patty asked. “I've been through this tab, this tab, and this one.” She said and chose the three first tabs, scrolled down them and pointed to the options she'd played with.
+
+“That's great!” Ren said. “For someone that hasn't used them before, you're doing really well.”
+
+“Th-thank you.” Patty said, and glanced at his hand. It was still on her shoulder, and it gave her a warm feeling inside.
+
+“What did you order, by the way?” Ren asked her.
+
+“Parchment and writing instruments.” Patty said. “They'll be here in a couple of days.”
+
+Ren laughed. “That's funny! I just went to town to pick up my order for parchment and writing instruments!”
+
+“You did?”
+
+Ren nodded and took out the stack of parchment. “I got it for the stable, so when classes for the townspeople start, they'll have something to write on.”
+
+“What stable?” Patty asked. “Wait, did you say classes?”
+
+“I built a stable down the road.” Ren said. “I've also arranged for a teacher to come, with the 60 horses and workers to care for them, so they can teach anyone that wants to learn about taking care of horses, riding them, and driving carts.”
+
+Patty blinked her eyes at him. “You... bought 60 horses...”
+
+“Not yet.” Ren said. “I assume she'll want payment on delivery, though.”
+
+“When...”
+
+“Next week.” Ren said. “Which reminds me. There's 2 hay makers on the list, and I'm going to need hay for the stable.”
+
+“Oh, them I know.” Patty said in relief. “That's Nick and Nora Pasternack, and they're way out on the end of the county.”
+
+“Big hay fields?”
+
+“It's about twice as big as Fern's field.”
+
+“What about feed for the horses?”
+
+“They make that, too.”
+
+“Nice.” Ren said. “How much can I get from them?”
+
+“That depends on how the harvest is going.” Patty said and smiled.
+
+“I'll make a few more farm vehicles, and see about training up drivers for them.”
+
+“That might take a while.” Patty said. “They're working in the fields remember?”
+
+“Right, I'll do that later.” Ren said, and helped Patty look through her menu to find the list of residents. “There.” He said and pointed, and Patty chose the list and another popup appeared.
+
+“Old Man Dinkle is a guard?” Patty said, surprised. “So is Mr. Longhorn.”
+
+“I take it they're not your first choice for guards.” Ren said and she snorted a laugh.
+
+“They're 85 years old, and can barely walk.” Patty said. “I doubt they could hold a sword, let alone train with one.”
+
+“Okay, we need to hire new guards.”
+
+“We don't have the money to...” Patty started to say, then her face flushed red. “Never mind.”
+
+Ren laughed. “Make sure whoever you pick gets a good salary.”
+
+“I would, if I knew what that meant.” Patty said.
+
+Ren opened his mouth to respond, and then he realized that 'salary' might not be a word that people would know. He smiled instead and squeezed her shoulder slightly.
+
+“It's the amount of money you pay someone for doing a job.” Ren said. “I'm sorry if my strange word for that confused you.”
+
+“So, how much should I offer them?”
+
+“That depends.” Ren said. “I'm not from here. What does a normal person make when they work?”
+
+“Usually bread, meat and vegetables for their family to eat that day; but, depending on what they did, they could eat for a week.”
+
+“Oh.” Ren said, and remembered what the lumber yard worker had said about eating for a week for a gold and 50 silver. “How about 2 gold coins a week?”
+
+Patty's mouth dropped open in shock.
+
+“Isn't that enough?”
+
+“For just standing around and holding a sword?!?” Patty asked. “That's way too much!”
+
+“One gold coin a week, then.” Ren said. “What about you?”
+
+“I can't be a guard.” Patty said. “I'm the Mayor.”
+
+Ren chuckled. “I meant your pay.”
+
+“I don't need any money.” Patty said. “I've done my work for as long as I can remember, and I've never been paid for it before.”
+
+“You'll be making more than the guards, that's for sure.” Ren said and stood up straight. “You'll take 5 gold a week, and give the town council members 3 gold a week.”
+
+Patty was about to argue vehemently that she didn't need the money, then realized something important that she had missed.
+
+“Oh! I couldn't find the spot to add them!” Patty exclaimed, and Ren leaned back in close and helped her find the spot to add them. She added the town council members, or city council members now, and gave them 3 gold coins a week salary.
+
+“You're crazy for giving your money away like this.” Patty said.
+
+“Add yours in, too.” Ren said, and she sighed and added 5 gold coins in for herself. He got a popup that showed the change and was asked to approve the alteration in the Budget, and chose yes. “Miss Patty, I really have to go and make stained glass windows.”
+
+Patty wasn't sure why she felt a bit of disappointment when Ren stopped leaning close and let her shoulder go.
+
+“I'll be just upstairs in my workshop if you need me for anything.” Ren said, then left her office. He ran up the stairs and loaded the glass furnace and activated it. While he waited for the sand to become molten, he went to the workbench and used the panes of glass he already had. They were dyed the right colors and scored into the pieces Ren would need to make the two Fire Realm pictures. Since they were the same pictures and all he had to do was reverse the red and orange pieces in each one, he only had to use two panes of glass.
+
+Ren took out the expensive anvil he had bought at the Convent in the dwarf lands, and used his blacksmith hammer and one of the 1 foot square copper pieces he had, to make thin copper foil to use as a wrap around the stained glass pieces. It really didn't take any time at all, since his skills combined so well. When he had enough to wrap everything, he equipped his armor to essentially double his stats, which increased his dexterity to the point that he didn't even have to look at what he was doing and could still wrap the edges of the glass pieces in copper foil perfectly.
+
+Ren chuckled at that thought, but he didn't test his theory. He started the forge beside the glass furnace and tossed some ore in the smelter, then finished wrapping the pieces for both pictures. He skimmed off some impurities in the smelter, used his fingers to solder the stained glass together, then flipped the picture and did the back, too. He did the second one and then took out the wood to make the frames for them to sit in.
+
+*
+
+Patty had been sitting in her office for about 10 minutes before her curiosity got the better of her and she left her office and slowly walked up the stairs.
+
+I just have to see him working. Patty thought and peeked onto the second floor with her eyes just above the level of the floor. She held in her gasp and stared in shock as Ren dipped his hand into molten metal and spread it over something on the workbench. A moment later, he picked it up and Patty saw the giant flaming figure in the middle of the picture, then he dipped his hand in the smelter again. It took him only seconds to finish it, then he took out wood and made frames for the stained glass.
+
+He's working so fast. Patty thought as Ren put the two finished pictures aside and took out another pane of glass and dyed it. He scored it in less than a minute with a weird tool, then used some other kind of tool to break it apart. I can't really make sense of what he's doing.
+
+Patty hadn't noticed Russell had come up the stairs and stood right next to her.
+
+“What's he doing?” Russell asked, and Patty screamed.
+
+*
+
+“AAHHH!” Patty screamed and jumped away, bounced from the railing when she hit it with her arm, then she started to fall backwards down the stairs. Everything seemed to slow down, and her only thought was that she was definitely going to be hurt this time. She watched in fascination as Ren ran the short distance to the stairs and down them past her; then she felt a hand under her back and one under her legs. She blinked her eyes and looked up at Ren's happy face.
+
+“Are you all right?” Ren asked a very startled Patty.
+
+“I... I don't know.” Patty said. “You were there... and now you're here.”
+
+Ren chuckled. “I can move pretty fast when I want to.”
+
+“But...”
+
+“My armor gives me massive stat boosts.” Ren said. “Not as much as it could, though.”
+
+Patty just stared at him, and didn't comprehend what he meant.
+
+“I've got to take it apart and absorb the enchantments from it, then have Tee-one enchant everything so I can Double Infuse it.”
+
+Patty kept staring at him because she still didn't know what he meant, and he chuckled as he carried her up the stairs and sat her on the couch in the meeting area.
+
+“Just sit there and relax.” Ren said and looked at Russell. “Scaring her once or twice by accident is okay; but, if you ever endanger her like that again, I'm taking the boots back.”
+
+“I'm sorry.” Russell said. “These boots don't make noise...”
+
+“You can knock on the door, bang the wall, or even speak long before you come near her.” Ren said. “There's no need to Sneak when she's standing on the stairs like that.”
+
+Russell's face burned red and he nodded, because Ren had found out his secret.
+
+“Good.” Ren said. “Now, what did you want?”
+
+“I came to say that my mother loves the idea of a real bakery.” Russell said. “So does Gemma and her sister.”
+
+Ren nodded. “I need you to head over to Nick Pasternack's place and see what their feed and hay stocks are like.” He said. “I've got 60 horses coming next week and they need a regular source.”
+
+“Right away.” Russell said and looked at Patty. “I won't scare you anymore, Miss Patty. I promise.”
+
+“A wise person once told me that you shouldn't make promises you can't keep.” Patty said and looked at Ren.
+
+“I'll try my best, Miss Patty.” Russell said, and left at a run.
+
+“He really is a good boy.” Patty said. “He's just...”
+
+“Testing the limits.” Ren said and sighed. “Next time, if you want to see what I'm doing, just come up and watch. You don't have to hide.”
+
+“I... I wasn't...”
+
+“Was I too much of a spectacle for you to make it the rest of the way up the stairs?”
+
+“Well, it... it was fascinating.” Patty said and her face flushed a little red.
+
+Ren chuckled. “Then please, sit back and enjoy the show.” He said and went back to work.

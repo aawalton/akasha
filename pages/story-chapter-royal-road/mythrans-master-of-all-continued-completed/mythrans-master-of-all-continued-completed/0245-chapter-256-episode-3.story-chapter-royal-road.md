@@ -1,0 +1,435 @@
+---
+id: 06530dde-4523-582f-a63a-42aba2f12b1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 256 - Episode 3"
+slug: 0245-chapter-256-episode-3
+partOf: mythrans-master-of-all-continued-completed
+position: 245
+ownLength: 4825
+unit: words
+publishedAt: 2017-05-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137194/chapter-256-episode-3"
+royalRoadId: "137194"
+---
+
+Ren took off the VR headset and Denise took it from him.
+
+“How are you feeling?” She asked.
+
+“Not too badly, actually.” Ren said, and Denise unbuttoned his shirt. The bruise had gotten darker, and she shook her head.
+
+“That's going to be really painful tonight.” She said, leaned forward a bit, and took a sniff. “Ew. I think you need a bath.”
+
+“Really?” Ren lifted his arm and sniffed his armpit. “It's not too bad.”
+
+Denise chuckled. “If you're going to let Elise snuggle up on the bed like you did the last time, you need to get that sweat off.”
+
+“I guess worrying about that giant attack made me sweat more than usual.” Ren said, and started to sit up. “Ow.” He stopped trying and laid back down. “Dammit.”
+
+“It's already stiffening up.” Denise said and put her hands on his chest. Ren winced, and she nodded. “It looks like you're going to need a lot of help for the next few days.”
+
+“I hate that I can get hurt so easily.” Ren sighed and looked at Denise. “Can you help me sit up?”
+
+She took his weight and lifted him into a sitting position.
+
+“Thanks.” Ren said and slid off the bed to the floor. “At least it's not stopping me from moving around.”
+
+“Only from getting up and probably sitting down, too.” Denise said as she walked to the bathroom with him. “You won't be able to lift anything for a while, because it pulls on your pectoral muscles.”
+
+Ren nodded and started to get undressed. Denise ran the water, and put the stopper in the tub drain.
+
+“They have the high flow taps, so it should fill up fast.” She said, and looked at him. He pulled his pajama bottoms down a little, and then stopped.
+
+“Now I can't even undress myself properly.” Ren said, with disappointment in his voice.
+
+“It's okay.” Denise said and knelt in front of him. “Grab onto my shoulders, and I'll get them off for you.”
+
+“Um... just a minute.” Ren said, and turned to the toilet instead. He took care of the business he needed to take care of first, then wiped everything off. “I just have to wash my hands.” He said, then turned to her when he was done and put his hands on her shoulders. “Okay.”
+
+Denise pulled his pajamas and underwear down the rest of the way, and he stepped out of them. He slid off the pajama top and laid it on the other clothes while she tended the bath water.
+
+“This should be good enough.” She said, and stood up to take off her top. Ren didn't stare at her this time, and she felt a little disappointment. She squashed that thought right away. I'm here to help him, not live out my fantasies.
+
+“It's going to be mostly you holding me.” Ren said as he stepped into the bathtub. “Once I start to sit down...”
+
+“These muscles aren't just for show.” Denise said, and did an arm curl to show off her well-defined bicep. She wasn't really muscular, but she looked strong. Ren smiled and held his arms out a little, so she could grip him under the armpits.
+
+“You want me to hold you up by those smelly things?” Denise chuckled, put her hands under his arms with her thumbs pointed up and she held him steady as he bent his legs.
+
+“Here's the hard part.” Ren said, and slid one leg out straight. He eased down into the water, then slid the other leg out.
+
+Denise held his weight easily, and sat him on the bottom of the bathtub.
+
+“Well, I guess that wasn't really the hard part.” Ren said, and lathered up a sponge.
+
+“Speak for yourself.” Denise said, with a little sweat on her forehead. “You're not that heavy, but it's awkward bending over the tub to hold you like that.”
+
+“Maybe if I turned backwards?” Ren asked as he rubbed the sponge up one of his arms. “I could sit on the edge of the tub first, put my legs in, then you can slide me into the water.”
+
+Denise shook her head and smiled. “Why didn't you think of that before we did it this way?”
+
+“I didn't think about it.” Ren shrugged, and scrubbed the underside of his arm. “Sorry.”
+
+Denise chuckled. “You don't have to apologize for that.” She said and took the sponge from him. She gave his top half a good scrubbing, and was very careful of his bruised chest and abdomen. “Do you feel like laying back while I do your legs?”
+
+Ren nodded, and she helped him recline in the bath. Denise lathered up the sponge again, and scrubbed both of his legs. She helped him sit back up, lathered up the sponge again, and handed it to him to do the last spot.
+
+“Don't you want to do that?” Ren asked with a grin on his face.
+
+“Of course I do.” Denise said. “But this bath is for you to get clean, not for me to have fun.”
+
+“Oh.” Ren said, and scrubbed himself. “Sorry.”
+
+“Once again, you don't have to apologize.” She said. “I'd rather you keep acting innocent, instead of like a womanizer, though.”
+
+Ren looked at her with his head tilted slightly to the side. “What do you mean?”
+
+“You should keep pretending to be innocent and likable.” Denise said. “It's really cute.” She started to shampoo his hair. “Even if you've already got us wrapped around your little finger, you shouldn't act like we'll jump you whenever you think we will.”
+
+“Is... is that what you think I'm doing?” Ren asked, his eyes wide. “Just... pretending?”
+
+“You haven't even glanced at my chest, even though your eyes were all over it this morning.” Denise said.
+
+Ren took in a deep breath and let it out slowly. “Finish washing my hair, please.”
+
+Denise used the shampoo twice, like she did that morning, and rinsed it out. Ren slid over to the side of the bathtub, with his back to her.
+
+“Lift me up to the side of the tub.” Ren said, and held his arms out. Denise lifted him out and he sat on the edge of the tub. She got a towel and dried his top half off, including his hair. He took that towel and put it on the floor, then turned around to put his feet on the towel. She dried off his legs, and then helped him stand.
+
+“Bathrobe, please.” Ren said, and she handed it to him. “Thank you for the bath.” He said, and left the bathroom. He went to his closet and picked out the blue set of pajamas, then went back into the bathroom. He handed the pajamas to her, and took off his bathrobe.
+
+“I need your help again.” Ren said, and put the top on. He buttoned it up properly this time, and looked at her. “I can't bend over, so could you put the underwear and pajama pants on me, please?”
+
+Denise nodded and knelt down. Ren put his hands on her shoulders, and she dressed him.
+
+“Thanks.” Ren said, and left the bathroom.
+
+“Ren.” Denise grabbed her top and followed him as she put it on. “What's wrong?”
+
+“Nothing.” Ren said, and stood by the bed. “I think you should change the bed sheets, in case there's a lingering smell.”
+
+Denise took the sheets off the bed. “Why are you acting like this?”
+
+“Like what?” Ren asked.
+
+“Like I'm just a servant.” Denise said as she got out clean bed sheets.
+
+“So, you can tell when I'm actually acting.” Ren said. “That's good to know.”
+
+“Ren...”
+
+“No.” Ren said. “I can't believe that you think I'm just playing around and pretending.” He shook his head. “You said I was faking being innocent and likable.”
+
+“That's not what I said.”
+
+“Yes, it is.” He responded. “Telling me you'd rather I act that way, means you think it's fake.”
+
+Denise sighed. “I'm sorry, Ren. I misspoke.”
+
+“I don't think you did.” Ren said. “I believe you said exactly what you think of me.”
+
+“Ren, I...” Denise sighed again. “You don't know how hard it is for me to-”
+
+“I know exactly how hard it is!” Ren said, and interrupted her. “I'm sorry that I wasn't staring at your breasts, okay?” He said. “Does that make you happy? How about if I tell you that I was too busy staring at your face to notice your chest? Would that make you change your opinion of me?”
+
+Denise looked at him with wide eyes, opened her mouth to say something, and Ren held a hand up to stop her from talking.
+
+“You don't have to answer that.” Ren said. “If you think that all I see when I look at you is something to have sex with...” He sighed, and motioned to the bed. “Can you finish making the bed, and then get me something to eat for supper, please? I'm kind of hungry.”
+
+Denise hesitated for a moment, nodded, and quickly made the bed. She helped him climb up, and adjusted it so he could sit up easily and not strain his bruised muscles.
+
+“Thanks.” Ren said.
+
+“I'll be back with supper in a few minutes.” Denise said, her voice a little sad, and left the room.
+
+*
+
+I probably could have handled that a little better. Denise thought as she got the food ready.
+
+*
+
+I probably could have handled that a little better. Ren thought and changed the channel on the television to Channel 8. The show's going to start in half an hour.
+
+“Hey, there!” Barbara said as she came into his room. “Elise isn't here yet?”
+
+Ren shook his head, and she walked across the room and sat beside the bed on the side away from the door. Denise came in with a tray of food.
+
+“How was your day?” Barbara asked. Denise put the tray on the rollaway table, and didn't look at him.
+
+“Enlightening.” Ren said, and he heard Denise sigh before she pulled the table over so he could eat. The cell phone rang and Barbara picked it up.
+
+“Uh huh.” “Yes.” “Okay.” “See you soon.” Barbara hung up the cell phone and looked at Ren. “Elise ran a little late, but she'll be here before the episode starts.”
+
+Ren nodded and ate quietly. He didn't rush, and was careful not to spill anything. The last thing he wanted was to have to change again. When he finished, Denise moved the table out of the way and took the tray back to the kitchen.
+
+“How's your chest?” Barbara asked.
+
+“It's getting painful.” Ren said. “I can't sit up or down without it hurting, or without help.”
+
+Barbara nodded. “It's a deep muscle bruise over your whole chest and abdomen, so it's going to be sore for a while.” She gently pat his arm. “At least you aren't thinking about your bruised arms.”
+
+Ren snorted a laugh. “I haven't thought about them for a few days.” He said. “I honestly didn't need something to distract me from them.”
+
+Barbara smiled and stood up. “I'll be right back. I'm going to grab a quick bite.”
+
+Ren nodded and she left the room.
+
+*
+
+Barbara went into the kitchen, and looked at Denise while she washed the dishes.
+
+“Okay, tell me what happened.”
+
+Denise gave Barbara a rundown of everything Ren did that day, and when she was done of both the story and the dishes, Barbara stared at her.
+
+“That's what he did today after I left.” Barbara said. “Now, tell me what happened between the two of you.”
+
+Denise sighed, and filled her in on their interactions. Barbara sighed and rubbed her forehead with a hand.
+
+“How could you accuse him like that?”
+
+“I didn't accuse him of anything.” Denise said.
+
+“You accused him of manipulating us by acting innocent.” Barbara said. “Is that really what you think?”
+
+“I...” Denise sighed. “I don't know.” She said. “Sometimes he can be so cuddly and adorable, and sometimes he acts like he's sex on a stick.”
+
+Barbara shook her head. “You do realize he's never had any kind of social interactions except with us, right? We are the ones that shape his perceptions and his expectations.”
+
+“What do you mean?”
+
+“What I mean is... now he's going to try and act professional, and he's not going to relax around any of us...” Barbara frowned at Denise. “...because of you.”
+
+“But I didn't do anything!” Denise said to defend herself. “Why would that change how he acts around us?”
+
+“Because you've put that thought in his head! He's going to question if we all think it's just an act!”
+
+“I'm sorry.” Denise couldn't look at Barbara's accusing face, and turned away. “It could all be an act.”
+
+“So what?!?” Barbara exclaimed, and Denise looked back at her. “Does it really matter if it's all an act or not?”
+
+“Yes!” Denise said. “If he's just pretending, and we... we do stuff with him... he's manipulating us! Don't you see that?”
+
+Barbara sighed. “You're throwing your own preconceptions onto him.” She stepped close and Denise had to look up slightly to keep eye contact. “You are going to apologize to Ren the next chance you get. Tell him you were hurt by an ex-boyfriend who did that to you.”
+
+“How did you know...”
+
+“We've all had someone manipulate us in the past, Denise.” Barbara said. “If you don't take the blame from Ren, he's going to keep it; and it's going to eat away at him.”
+
+“I... okay.” Denise said. “I've already admitted to myself that I could have handled this better than I have.”
+
+“I was going to make a joke about how to handle it better, but I don't want to make you laugh before you go apologize.”
+
+“All right, I get the point.” Denise said, and went to the kitchen's door. “Give me a few minutes.”
+
+Barbara nodded and Denise went to talk to Ren.
+
+*
+
+Ren was watching television, but he wasn't really seeing it. If you asked him what had just happened on the screen, he couldn't tell you; even if his life depended on it. Denise came into the room and he looked at her. There was hurt in his eyes, and disappointment, then he looked back at the television screen.
+
+“Ren...”
+
+“It's okay.” Ren said. “I didn't handle that well, but I've got a handle on it now.”
+
+Denise sat down beside the bed and took his hand. Ren didn't pull away like she thought he would, and she smiled mentally.
+
+“Ren, this is my fault.”
+
+“No, it's mine.” Ren said. “I shouldn't have assumed certain things.”
+
+“Let me finish.” Denise said, and he looked at her. She could see that he was looking at her with the same expression that he had when he looked at the television. It hurt her heart a little to have him look through her like that, and she didn't want that to be how he looked at everyone.
+
+“Ren, I...” Denise sighed and held his hand firmly. “My... my ex-boyfriend John... he...”
+
+Ren's eyes widened as she stumbled over an explanation as to why she thought Ren was faking it. By the time she got to the end, the both of them were fighting back tears. He lifted the hand that held his to his lips, and kissed the back of her hand. He held his lips against it for 10 seconds, then let it go.
+
+“Denise, I would never, ever, treat you like that.” Ren said. “I am so sorry that you went through that.”
+
+Denise wasn't sure how, but she could almost feel his sincerity and how much he cared. She let a tear escape, because the feeling was so intense. Ren wiped the tear away with his thumb and cupped the side of her face.
+
+“Thank you for telling me.” Ren said. “I'm sorry for the way I acted.”
+
+“I... I'm sorry for the way I acted, too.” Denise said. She leaned in with her lips slightly puckered, and Ren took the obvious hint. He very lightly kissed her, barely touched her lips, and it sent a thrill right through her. She closed her eyes because it went right to the bottom of her heart, and she'd never felt anything like it before. Ren broke the chaste kiss and leaned back.
+
+Denise opened her eyes and looked at him, and didn't know what to say. She searched through her head and looked for something, anything, to say... and she came up with... nothing.
+
+Is this what people mean when they say their minds go blank? Denise thought, and then the room's door opened.
+
+“It's almost time for the show.” Barbara said, and walked around the bed to the other side. “You've already got it on the right channel.” She said and sat. Ren and Denise looked at her, and she looked back at them. “I assume you two made up?”
+
+Ren looked at Barbara with surprise on his face. “How did you know...”
+
+“Please.” Barbara said. “I've taken care of you for years. I know when something is bothering you.”
+
+Ren let the surprise fade and smiled instead. “Yeah, if anyone would know, it would be you.”
+
+Barbara chuckled, and the room door opened.
+
+“Hey, sexy!” Elise said as she came into the room, and Ren looked at her.
+
+“You mean me, right?” Ren asked and grinned. “Since Stella's not here.”
+
+Elise laughed and walked over to the bed. “Yes, I mean you this time, too.”
+
+“You're just in time.” He said, and moved over to make room for Elise to sit on the bed with him. “It's about to start.”
+
+“I'm glad I didn't miss the start.” She said, and took off her suit coat and hung it up. “I came right here after work.”
+
+“You're getting really busy over there these days.” Ren said as she climbed up onto the bed with him.
+
+“We are.” Elise said, and got comfortable. With the both of them sitting up, she could easily put her arm around his shoulders. The theme music for the show came on, and she did put her arm around him. Ren looked at her, and she took the opportunity that presented and kissed him. It was brief, since she wanted to watch the show, and they smiled as they turned to look at the television.
+
+*
+
+The show started with Onscreen Ren getting his first mining pick from the blacksmith, and then he ran down the street. His clothing flapped in the breeze from all the damage from the last wolf attack, and he looked down at himself. “I guess I better go see Sally before heading out to the mines.”
+
+He ran down the street to Sally's Shop and went inside. She asked him what she could help with, and Ren said he needed new clothes, and wanted to use the recipe she'd given him for Travelling Clothes. He bought some fabric from her, asked to use a workbench, and went to it.
+
+On the screen three popups appeared. One showed a picture of the clothing made by the system, one was the clothing guided by the system with the player doing some of the work, and the last was the player doing all the work with only the outline provided by the system. That option was highlighted, and then the popups disappeared.
+
+*
+
+“I never saw anything like that.” Ren whispered, and Elise smiled.
+
+“It's to show the people who want to play the game, that different options are available.” Elise whispered back. “Plus, it shows which option you took.”
+
+“Ah.” Ren whispered. “That makes sense.”
+
+They kept watching as the cloth was cut up, dyed at the dye station, and sewed together.
+
+*
+
+Onscreen Ren made the set of clothing a lot faster than it actually took, but the result was the same. He received a set of High Quality Travelling Clothes and changed into them. Sally was so impressed by his work, that she named him her student, and Onscreen Ren hugged her. He bid her a good day, and walked down the street.
+
+*
+
+This was where I logged out. Ren thought, but his onscreen persona kept walking down the street. It was at this point that three pretty girls cornered him by a building.
+
+“This is where I come in.” Elise said, with a huge smile on her face.
+
+*
+
+The three girls badgered Onscreen Ren and he shivered and sweated with their constant pestering, and a voice came out of the distance. Onscreen Ren didn't notice until he heard it much closer, and looked around. A tall busty redheaded elf woman bowled the three girls over, and took Ren into a tight hug.
+
+“REEENN! I found you!” Onscreen Elise laughed as Ren's face was buried into her cleavage and he flailed his arms around.
+
+*
+
+Barbara, Elise, and Ren laughed.
+
+“I remember that.” Ren said. “I was saved and captured at the same time.”
+
+Elise held him close and he put his arm around her, too. He looked up at her, and smiled.
+
+“At the time, I didn't mind being cushioned like that.” Ren said, and Elise grinned at him.
+
+*
+
+The three girls confronted Onscreen Elise, and she let Onscreen Ren go to face them. While they argued over who was going to have him join them, Onscreen Ren took that opportunity to slip away.
+
+*
+
+“You got away from me, you little sneak.” Elise said, and Ren chuckled.
+
+“I didn't realize who you were.” He said, and then his onscreen persona said the same thing, and that she looked familiar.
+
+*
+
+Onscreen Ren walked out of the city, and hitched a ride on a wagon going to the mines. He and the driver had a quick conversation, and Ren was dropped off at the mine. The theme played, and then the commercials started.
+
+*
+
+“It's really neat going back and watching all of this.” Ren said.
+
+“I know!” Elise said. “When I went back and started watching it, I knew it could be adapted into a show easily.”
+
+“I'm glad you did.” Ren said. “If it wasn't for that, none of this would have been possible.”
+
+Elise was going to say that it was all because of him; but she knew he wouldn't agree, so she just nodded.
+
+“Does anyone want a snack?” Barbara asked.
+
+“I'd like that.” Elise said. “I haven't had anything to eat since lunch.”
+
+“What?” Ren said, surprised. “Elise, you should have gotten something to eat before coming here.”
+
+“I barely had enough time to drive here.” Elise laughed. “I couldn't even get fast food.”
+
+“We'll make up something quick for you.” Barbara said and tapped Denise's arm as she walked by.
+
+“You don't have to go to any trouble.” Elise said, as Denise followed Barbara to the door.
+
+“It's no trouble.” Barbara said. “We've got a couple of minutes before the show will be back on.”
+
+“Thank you.” Elise said.
+
+The two nurses left, and Elise looked at Ren.
+
+“So, do you think they left us alone on purpose?”
+
+“Yep.” Ren said, and she smiled.
+
+“I guess now I can kiss you without an audience.” Elise said, in a sultry voice.
+
+“Only if you want to.” Ren said, his voice a little deeper than normal.
+
+“Oh, I do.” Elise said, and leaned down to kiss him. This lasted for a minute, then she broke the kiss and sat up straight. “Never doubt that I do.” She said, and ran a hand through his hair. “Wow.” She said. “It's even softer and fluffier.” She said, and rubbed her face through it. Ren chuckled as Elise rubbed the top of his head like a cat scent-marking.
+
+“A double shampoo and rinse does wonders.” Ren said.
+
+The room door opened and Barbara and Denise came in with a couple of plates full of sandwiches.
+
+“It's just ham and cheese, so no diet breakers.” Barbara smiled. “Help yourself.”
+
+“Thank you.” Elise said, and took one of the angled cut pieces. She ate it in only three bites, and Ren laughed.
+
+“You eat like I usually do.” He said, and she looked at him with wide eyes.
+
+“Really?” Elise asked, and Ren nodded.
+
+“You should see him on a good day.” Denise said. “He's like a vacuum.”
+
+Barbara snorted a laugh, and Elise chuckled. The theme music started up, and they watched as the show continued.
+
+*
+
+After a relatively quick trip to the mine, Onscreen Ren went to the foreman to explain the situation, then he was introduced to Fritz. They grabbed a couple of mine carts, and went into the mines. A short montage of Onscreen Ren digging and gaining the Mining skill, and they went out to the weighing station. He got a quest to double the ore he just delivered, so he and Fritz ate quickly and went back into the mine.
+
+Onscreen Ren worked hard, and Fritz stood there and waited for him to finish so they could return the carts at the same time, and then delivered the ore. The man at the weighing station congratulated him on completing the quest, ruffled Onscreen Ren's hair, and paid him 3 silver. Onscreen Ren told Fritz that he was tired, and would be back to learn more. He went to one of the little tents, laid down inside, and then the theme music started again for another commercial.
+
+*
+
+“I still think it's neat they can compress hours of footage into only a few minutes, and you can't tell that's what they did.” Ren said.
+
+“It's great, isn't it?” Elise said as she ate another sandwich. “I especially liked the transition where you walked down the street, and instead of logging out, you kept walking down the street.” She smiled. “If you didn't know it wasn't supposed to happen that way, no one that saw this episode would even notice it didn't.”
+
+“I was thinking that.” Ren said. “In my head I was like, 'this is where I logged out'; but, the show kept going.”
+
+“They discussed cutting you going into the tent at the mine, too.” Elise said. “When they ran the time comparison, it made a perfect spot for a commercial; so, they left it in.”
+
+“I'll be waking up after the commercial, then?” He asked.
+
+“Yes, and then there's another digging montage.”
+
+“Hey, spoilers!” Barbara said, and put her hands over her ears.
+
+Elise laughed. “Sorry, Barbara.”
+
+“That's okay.” Barbara said. “I saw a lot of this the first time around, so I know what's coming; but, it's also different enough that it's also new.”
+
+“I know what you mean.” Elise said. “I watched the original footage, and you're right. This is just different enough that it's like I didn't see everything the first time.”
+
+“Yes! That's exactly what it's like.” Barbara said. The theme music came on, and they watched the show.
+
+*
+
+After a montage of Onscreen Ren digging, sleeping, and digging some more, it cut to him and Fritz as they sat in the cafeteria. Fritz taught Ren his Metal Detection skill, and the people around them cheered. The celebration was short-lived, however. One of the miners came in and said an accident hurt the blacksmith of the mine, which would shut down production for a couple of days.
+
+There was a loud uproar from the miners, complaining that they couldn't dig with their hands, and Fritz dragged Onscreen Ren to the front of the group and told the mine foreman that he was the city's blacksmith apprentice. The foreman begged Onscreen Ren for help. He reluctantly agreed and received a new quest to keep the blacksmith's forge going and the mine in operation.
+
+Onscreen Ren was led to the blacksmith's area and the forge there, and the small mountain of tools that needed repair desperately. His first repair was met with cheers, and another quick montage was shown. It stopped when he did his first manual repair at the end of the day. He heated the metal, used his blacksmith hammer to hammer out the ends to their proper shape, and it came out almost as good as it did when he let the system do it. It had taken a lot longer, though.
+
+After another montage of repairs showing days pass, and several popups about his Repair skills increasing, the replacement blacksmith showed up and Onscreen Ren completed the quest and was paid handsomely. He asked for a loan of a cart and horse so he could do his own mining in a different spot, and went to Fritz to thank him for teaching him everything he knew. Fritz gave him the dwarf medallion, showing Onscreen Ren was a friend to dwarves. They shook hands, and Ren left the mine.
+
+The theme music started, and the end credits rolled.

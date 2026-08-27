@@ -1,0 +1,347 @@
+---
+id: 97bb2ab8-be1b-53d0-bb5f-9f3bcd5b7d05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 279 - First Supply Delivery"
+slug: 0270-chapter-279-first-supply-delivery
+partOf: mythrans-master-of-all-continued-completed
+position: 270
+ownLength: 3586
+unit: words
+publishedAt: 2017-06-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142095/chapter-279-first-supply-delivery"
+royalRoadId: "142095"
+---
+
+“I really hope Deresdra's working today.” Ren said as he approached the mines. “If she's not...”
+
+“We can always go to the Garrison.” Teepo suggested.
+
+The guard at the mines opened the gate, and Ren nodded slightly to him and ran to the medical tent by the mine's entrance. He was quite relieved to see Deresdra sitting at her desk. She gave him the examination, and when Ren equipped his clothing to leave, she spoke.
+
+“I'm off tomorrow.” Deresdra said. “So it's your day off, too.”
+
+“Thank you for letting me know.” Ren said. “I was actually a little worried that today was your day off, and I wasn't sure what I was going to do.”
+
+Deresdra smiled. “That's why I told you.” She said and put a hand on his arm. “I didn't want you to worry.”
+
+“Thanks.” Ren said, and smiled at her. “Am I cleared for work?”
+
+Deresdra nodded. “Go have fun, and I'll see you the day after tomorrow.”
+
+“Probably.” Ren said. “If anything happens to change that, I'll let you know.” He left the medical tent, and ran to the blacksmith shop. They had everything under control, so he went into the mines to work. He finished the 8 hours and ran to the gate after cleaning his clothing. He went back to House Neram Keep, ate supper with Nathalia and Ereka, then told them he had Adventurer's business to take care of.
+
+“You've been leaving a lot lately.” Nathalia said.
+
+“Yeah.” Ren said. “I might have to leave again tomorrow night for a day, or maybe two.”
+
+Nathalia sighed. “I'm never going to get to spend the entire night with you again, am I?”
+
+Ren stood up and walked behind where she sat. He wrapped his arms around her, and put his mouth by her ear.
+
+“My invitation here is running out, and I'm going to make the best use of the time I have left.” Ren said, and kissed her cheek. “My Love, nothing would please me more than to spend as much of that time as I can with you.”
+
+Nathalia felt the truth in his words and feelings. “But...”
+
+“I know, we're both busy.” Ren said. “It will probably only be an hour or two one day, and maybe an hour the next; but, once every few days I'll be able to stay the entire night.” He smiled. “Tonight, my business is with Barbara. I haven't been spending a lot of time with her lately...”
+
+“Barbara!” Nathalia exclaimed. “Why didn't you say so!” She stood up and turned around. “You tell her I said hello, and I'll see you when you get back for breakfast.”
+
+“I love you.” Ren said, and kissed her.
+
+“I love you, too.” Nathalia said.
+
+Ren waved goodbye to Ereka and went to the main room. Teepo took off from his shoulder and landed on the ceiling.
+
+See you in the morning, Teepo. Ren thought to his friend as he sat down on the couch.
+
+“Bye, Ren.” Teepo said.
+
+“Logout.”
+
+*
+
+“What was with that reaction?” Ereka asked after Ren left. “Who's Barbara?”
+
+“She's his surrogate mother.” Nathalia said.
+
+“You should have kicked him in the butt to get him to move faster!” Ereka said, and Nathalia laughed.
+
+********
+
+Ren slipped off the VR headset and Barbara smiled at him.
+
+“I guess you heard all of that.”
+
+“Only the important parts.” Barbara said, and Ren chuckled.
+
+“Well, I'm all yours for the next...” Ren looked at his watch. “...3 hours and 20 minutes.” He said and grinned at her. “What do you want to do?”
+
+“Tickle fight.” Barbara said, and tickled Ren under his arms.
+
+Ren laughed and squirmed, but couldn't put up much of a fight. He was laying down on the bed and was at a distinct disadvantage.
+
+“I win!” Barbara said, after Ren's feeble attempt to tickle her failed miserably. “I get a prize!” She said, and ate one of the brownies she'd brought in. “Ooo, that's delicious.”
+
+Ren watched her intensely as she ate the brownie slowly and then as she licked each of her fingers. She chuckled and used her other hand to pass him one.
+
+“Consolation prize.”
+
+“Yes!” Ren said, grabbed it with both hands, and gobbled it down. Barbara wasn't sure how he had managed to make a mess in only a few seconds; but all of his fingers were covered in chocolate frosting and brownie crumbs. His mouth and chin didn't fare any better and were covered as well.
+
+“Apparently, the way I fed it to you before was the better option.” Barbara said and laughed. “You're filthy now!”
+
+“Sorry.” Ren said, and started to lick his fingers clean. “It's just so good I couldn't help myself.”
+
+“Come on, you lush.” Barbara said, and helped him out of the bed. “Let's get you cleaned up.”
+
+They went to the bathroom and Ren washed his hands and face. Barbara watched to make sure he got everything off, then left so he could take care of other business. Ren came back out, and Barbara already had his bed in the upright position to make it easier for him to sit. She helped him get back onto the bed, and they watched several late night programs and talked about different things.
+
+“I was told I could give you this.” Barbara said, and held out a set of keys. “You won't officially own the house until Monday afternoon when my sister will be here for you to sign the papers; but, she said that's pretty much only a formality.”
+
+“Wow! Thanks, Barbara.” Ren said. “Now, this begs the question.” He smiled. “Will you move into the guest house?”
+
+“Ren, I...” Barbara sighed. “I don't know.”
+
+“It's okay, Barbara.” Ren said. “Packing up your home and moving to another place is a huge decision to make.” He smiled. “If you haven't talked about it with your husband yet, let him know I'll only charge him $3,000 a month for rent.”
+
+“You'll WHAT?!?” Barbara yelled.
+
+“I'm kidding! I'm kidding!” Ren said and laughed. “Ha ha! That was funny!”
+
+“It was not!” Barbara said, her voice full of indignation. “You almost gave me a heart attack!”
+
+Ren's laughter eased away, and he took her hand. “Barbara.” He said seriously. “You'll never have to pay rent, or bills, or anything else for a home anymore.” He smiled. “I've got it covered.”
+
+“Oh, Ren.” Barbara said, and leaned in to give him a hug. “I can't possibly do that to you.”
+
+Ren chuckled. “You've taken care of me every night since I came to the hospital, Barbara. You know I think of you as my mother.”
+
+Barbara nodded.
+
+“Please, let me give you a place to live.” Ren said. “Your husband should be happy it's far enough away that you aren't technically living in the same house as me; but, you're still close enough to walk to work.”
+
+“Across the driveway.” Barbara said.
+
+Ren smiled. “Tell him you can spend even more time at home with him.”
+
+“I'm not sure he'd like that part.” Barbara said and laughed.
+
+“I'm going to want to move in as soon as possible.” Ren said. “I've got a few days before this bruise eases up enough that I can move around properly, but after that...”
+
+Barbara nodded. “I'll... try to talk to him tonight.”
+
+“Do you want me to do it?” Ren asked. “Now that I've got the keys to the new place, I was thinking Elise and I should go and check it out tomorrow.” He said. “I'll call you, and you can bring him out to see it.”
+
+“I... I don't know...”
+
+“You don't even have to tell him that's what you're doing.” Ren said. “Just say you're coming out to check my new house for health and safety reasons, and I'll talk to him while you're busy.”
+
+Barbara shook her head. “I'm not going to make you tell him about your offer to let us move in.”
+
+“It's a big decision.” Ren said. “The least I can do is help you ask him.”
+
+“I'll think about it.” Barbara said.
+
+“Good.” Ren said, and looked at his watch. “I'm almost out of time.”
+
+“Thank you for doing this.”
+
+Ren shrugged. “I'm moving, and you're going to be spending more time there than anyone else, except maybe me. Giving you the guest house is the best option.”
+
+“I meant logging out for me tonight.” Barbara said.
+
+“Oh.” Ren said. “You're welcome. I had just as much fun as you did, though.” He grinned. “Can I have another brownie?”
+
+Barbara laughed and handed him his VR headset instead. “You should at least get a catnap before breakfast.”
+
+Ren nodded. “Bye, Barbara.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, saw several message notifications, and smiled when he saw who they were from.
+
+Clint and Tommy. Ren thought. I haven't heard from them in a while. He left the message notifications open so he wouldn't forget about them, and looked at the last message. It was from Lara, and he nodded when he read it. Hi, Teepo. How's my time? Ren thought, and sent Lara a response.
+
+Teepo fluttered down to his shoulder and whispered in his ear. “You've got just over an hour before breakfast.”
+
+Thanks, buddy.
+
+Teepo took off to do another quick patrol, and Ren went into Nathalia's bedroom. She was all wrapped up in the blanket, and he smiled as he climbed onto the bed. He cuddled in close to her, and she started to stir. He kissed her gently on the lips, and she opened her eyes.
+
+“I think I'm stuck.” Nathalia said. “I don't know why this happens all the time.”
+
+Ren chuckled and stored the blanket.
+
+“We've got about an hour before we have to get up and make an early breakfast.” Ren said. “I got a message from Lara that the shipment for the giants will be arriving at the border this afternoon.”
+
+“So, you have to go.” Nathalia said, and he could hear the disappointment in her voice, and feel it from her. “You'd better get going.”
+
+“No, My Love.” Ren said, took the blanket out of inventory and stored his clothes, then covered the both of them with the blanket. “I've got an hour to spend with you, and as the gods as my witnesses, I'm going to.” He said, and snuggled with her.
+
+“Ren, you'll be late to pick up...”
+
+“I don't care.” Ren said. “Princess is so fast now that even with me riding her, we can do the run to the portal in about 40 minutes.” He smiled. “Running across the entire countryside to the giants won't take more than 5 hours.”
+
+“But...”
+
+“Hush.” Ren said. “Cuddle with me and help me sleep.”
+
+“Of course, My Love.” Nathalia said, and held him close.
+
+When Ren closed his eyes, Nathalia selected 45 minutes for the time her Sleep ability would work, her hand glowed blue for an instant, and he fell asleep immediately.
+
+“I'll do anything for you.” Nathalia said, then used her ability on herself.
+
+Ren woke up 45 minutes later, and felt completely refreshed. “That was the best nap.” He said to Nathalia when she opened her eyes, and he kissed her. “Thank you.”
+
+“You're welcome, but it's thanks to you.” Nathalia smiled. “I'm so glad that all the XP you gained after the battle with the giants let me level up so much.” She sat up in bed, and her dress slip was tangled up around her chest. “Having access to a timer on my Sleep ability is the best thing.”
+
+Ren chuckled. “It gives new meaning to a quick nap, that's for sure.”
+
+Nathalia stored her slip and equipped it again.
+
+“Aww.” Ren said. “I have to go, and you just flashed yourself at me.” He shook his head. “How am I supposed to get that image of loveliness out of my head?”
+
+Nathalia grinned and leaned over. “You don't.” She said, gave him a quick kiss, and hopped out of bed.
+
+“You wound me deeply!” Ren said, and she laughed.
+
+“You better get going.”
+
+“Right!” Ren said, rolled out of bed, and equipped his clothing. “I'm sorry, but I have to skip breakfast.”
+
+“You can eat on the way.” Nathalia said. “You and Princess have to stop to eat occasionally anyways.”
+
+“Have fun at work, My Love.” Ren said and gave her another kiss. “I'll be back tonight.”
+
+“I'll see you then, My Love.” Nathalia said.
+
+Ren left her bedroom and saw Ereka come out of the old bedroom. “Bye!” He said to her, and left the house with Teepo flying right behind him.
+
+*
+
+“What was that about?” Ereka asked Nathalia as they walked to the kitchen.
+
+“He's got to go pick up the first shipment from the Chancellor of the Giant Kingdom.”
+
+“I don't know how he can do everything he does.” Ereka said and sat at the table in the kitchen.
+
+“Sometimes I don't know, either.” Nathalia said and went to the counter to make breakfast. “I've tried to get him to slow down with how much he does; but all I've ever accomplished, is making him work harder to catch up.”
+
+“You tried to order him to, didn't you?”
+
+“I threatened it once.” Nathalia said and chuckled. “He pretty much laughed and dared me to try.”
+
+Ereka laughed. “What are you going to do with him?”
+
+“The only thing I can do.” Nathalia said. “Accept him for who he is, and love him as much as I can.”
+
+*
+
+Ren went into the stable with Teepo on his shoulder, and gave Princess some food. While they waited for her to eat, Ren recalled his spell list, and picked a spell that he thought they could use a lot today. He took out a Level 2 Web wand and absorbed the charges from it, then replaced the spell with Bull Strength. He smiled when he examined the wand and received the popup for it.
+
+Wand Of Trample
+
+A Bull Strength spell causes the target's strength to increase by 30%. All skills, abilities, and bonuses resulting from increased Strength are also enhanced by this.
+
+Please Note: If this spell is cast on a Large creature (or one of even greater size), it also gains the ability: Trample. It can double its speed and run over anything that is smaller. The object / creature / person suffers damage equal to the target's Strength + 50%.
+
+Range: Within 25 feet (Short).
+
+Time Limit: 5 minutes (Level 2)
+
+Ren contacted the Commander of the Garrison to inform him that the first shipment to the giants was ready, and Ren had to pass through the Garrison to get it. The Commander told him that the gates all the way through would be opened, and he ended the call. When Princess was finished eating, Ren asked her to take him to the border of the Giant Kingdom.
+
+“I know it's a lot to ask of you.” Ren said. “Even though I'm bringing enough food for you, this is going to be a long and hard trip.”
+
+You have Healing wands and potions. Princess thought to him. If I am damaged or suffer at all during this, you can heal me.
+
+Ren nodded to her.
+
+Then unload some of your burden, and we can be off.
+
+“That's a great idea.” Ren said, and went to the gate and opened it. He greeted the guard, then ran up to the workshop. He dropped off all of the crates of diamond crystals that he had in inventory, all of the wood planks, paving stones, stone bricks, and everything else that wasn't absolutely necessary. He kept all of his crafting kits and portable crafting stations, though. He never wanted to go anywhere without them again.
+
+“Hello, Ren.” Tee-one said when he came out of the forge room. “I have a few Ballistas ready to be assembled if you want to take them with you.”
+
+“Sure.” Ren said, and went into the forge room to enchant the parts and assemble them together. Tee-one had used up all of the springy trees Ren had given him, to make the ammo for the Ballistas. Ren was now back up to 7 Ballistas in inventory, and pat Tee-one on the shoulder.
+
+“I don't know what I would do without you, my friend.”
+
+“None of this, obviously.” Tee-one said, and they both chuckled. “Good luck, and I hope they don't have too much for you to carry.”
+
+“Me, too.” Ren said. “We should make an extra large cart, just in case.”
+
+“That might be a good idea.” Tee-one said. “And we should add extra wheels to take the weight, too.”
+
+They went outside and built a cart to the dimensions Ren hoped weren't too conservative. He wouldn't know if it would work until he got there.
+
+“Good luck.” Tee-one said.
+
+“Thanks.” Ren said and stored the large cart, then ran down to the stable to get Princess. “I'm ready to go.” He said, and she stood up.
+
+As am I. Princess thought to him.
+
+Ren led her out of the stable and to the road, then climbed onto her back. He took out the Wand of Trample, and explained to her what it did. He could feel her excitement at the prospect, and he warned her.
+
+“It only lasts for 5 minutes.” Ren said. “Then I can use it again.”
+
+Princess huffed, and Ren used it on her.
+
+“Let's go-oooooo-ha ha ha!” Ren said as Princess took off at a much faster speed than she normally would, and Teepo chittered in delight as the wind buffeted his platinum body.
+
+The 5 minutes went by fast; but, so did the city of Dornrach, a good portion of the countryside, and most of the Garrison. Ren didn't use the wand again until they had traversed the field of giant leg-holding traps, and then Princess poured on the speed.
+
+After 15 stops for food replenishment, and some Minor Healing for Princess because of the bushes and a few small creatures she had trampled along the way; they made it to the border of the Giant Kingdom in just over 5 hours. What he saw when he got there took his breath away.
+
+“Surprise!” Lara said, from between the feet of a tall female giant.
+
+Waiting for him was nearly a hundred giants, and they all carried backpacks full of supplies.
+
+“I can't carry all of that.” Ren said as he climbed down from Princess' saddle.
+
+“You're not even going to try?” Lara asked, and Ren shook his head.
+
+“I promised everyone I wouldn't be that stupid ever again.”
+
+Lara walked over to him and stopped a few feet away. “You don't have to carry any of it.” She said. “These people want to go and visit their relatives, so we asked them to help with the supplies.”
+
+“There's no way the Chancellor authorized this.” Ren said. “If he knew this many people wanted to leave the giant lands...”
+
+“They aren't leaving the lands.” The female giant Lara had been standing under said. “They are... going on a tour of the wilderness.”
+
+Ren shook his head. “That's the problem. It is wilderness between here and there.” He looked at the giants. “It doesn't look like any of them are prepared for how hard the journey is.”
+
+“We're fully prepared.” One of the male giants said, and pulled out a tent from his inventory. “There's 6 of us that can do your little size trick.”
+
+Ren looked at Lara, and she shrugged.
+
+“You didn't say it was a secret.”
+
+“It's not, but it's also not something we want to spread around.” Ren said.
+
+“Don't worry, no one here is going to ever mention going to meet their exiled family members.” The female giant said, then knelt. “I'm Fernosia the Librarian; Ambassador to the refugees.”
+
+“I'm dumbfounded.” Ren said, and she laughed.
+
+“I thought your name was Ren?” She asked him and held out a hand towards him. Ren's Etiquette skill activated, and he let it control his actions. He reached out, nudged her hand to the side slightly, and gave the back of it a kiss.
+
+“It is a pleasure to meet you, Fernosia the Librarian; Ambassador to the refugees.”
+
+Everyone stared at him; especially the Librarian, who had received the Respect Ren had given her.
+
+How did he know to do that? Fernosia asked herself. She was so surprised by his gallant act, that she forgot to do her part of the greeting. When the silence dragged on for several moments, she realized her mistake and turned her hand over to face the palm up. Ren placed his hand at the base of her palm, and ran his hand across it to the base of her fingers.
+
+“I greet you with both Respect and Fellowship.” Ren said, and stepped back.
+
+“I accept your pleasantly unexpected offer of Fellowship.” Fernosia the Librarian said. “I thank you, my parents thank you, and my children thank you.”
+
+Ren put a hand on the tip of her index finger, and she very carefully touched it with her thumb as if she was going to pinch it. Ren and Fernosia pulled their hands back at the same time, and smiled at each other.
+
+“Ren, you sly dog!” Lara said. “I didn't know you knew how to do that!”
+
+Ren looked at her with one raised eyebrow.
+
+“Stop flirting.” Lara said and chuckled. He raised both eyebrows at her, and she laughed.

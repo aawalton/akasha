@@ -1,0 +1,409 @@
+---
+id: fd56b1aa-8879-56a7-ac17-cfb8aa38d86a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 207 - A New Quest"
+slug: 0195-chapter-207-a-new-quest
+partOf: mythrans-master-of-all-continued-completed
+position: 195
+ownLength: 3447
+unit: words
+publishedAt: 2017-03-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126445/chapter-207-a-new-quest"
+royalRoadId: "126445"
+---
+
+Elise broke the kiss a few minutes later, and sighed in pleasure. It was even better than I imagined!
+
+“W-wow.” Ren said, his eyes still wide in surprise. Elise smiled, gave him another little kiss, and stood up straight.
+
+“I better get home and get some rest myself.” Elise said. “Have fun in the game.”
+
+“O-okay.”
+
+“Goodnight.” Elise said and let his hand go. “Bye, Stella.”
+
+“Bye, Elise.”
+
+*
+
+“Who the hell is this kid?” The NSA agent asked his partner.
+
+“What do you mean?”
+
+“Oh, come on, Bill!” Gary said, and waved at the small television screen they were watching. “Look at her!”
+
+A 6 foot 5 inches tall (actually 6 foot 2 inches with 3 inch heeled shoes), long haired, red-headed amazon walked across the parking lot. Elise took out her keys and climbed into the Hummer H2.
+
+“I'd kill someone just to have her kick me in the balls, and she's making out with him!”
+
+Bill laughed as he pictured that scenario. “Maybe he's got something that you don't.”
+
+“Like what?”
+
+“Her.” Bill laughed again and pulled up the footage from when the other agents were in the room questioning Ren. “Now get back to work.”
+
+Gary sighed and put his earphones back on and listened as well. If the other bugs only picked up half of the information his team just received, they'd have this case solved in no time.
+
+*
+
+Oh, my GOD! Elise thought as she sat in her Hummer H2. She took several deep breaths as she tried to calm down. She had felt the dampness grow between her legs while she kissed Ren, and had to get out of there before anyone noticed. She waited for a moment, collected herself, and smiled as she drove out of the parking lot.
+
+*
+
+“Well.” Stella said after Elise left. “That was interesting.”
+
+Ren snorted a laugh. “You peeked, didn't you?”
+
+Stella grinned at him. “I tried, but her hair covered you up.”
+
+He smiled. “Can you put the VR headset on me?”
+
+“Sure.” Stella said and put it on him. “How's it sitting?”
+
+“It's a little off to the left.” Ren said. “Can you fluff the pillow a little?”
+
+Stella did so, and Ren smiled.
+
+“That's got it.” He said. “Thanks.”
+
+“Good luck.” Stella said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch. Teepo?
+
+“REN!” Teepo hollered and flew into the main room from the kitchen. “You've been gone so long, that I... I thought...”
+
+I'm sorry, Teepo. Ren thought to his friend. If I'd known I would be gone so long, I would have warned you.
+
+“I don't care about that!” Teepo said. “I'm just glad you're okay now.”
+
+I hope I am. He sighed. Do you want me to tell you now, or when I try to explain to Nathalia?
+
+“I can wait.” Teepo said. “For the few seconds that will take.” He chittered in laughter. “She's in the kitchen.”
+
+But, it's the middle of the night!
+
+Teepo landed on his shoulder. “She hasn't been sleeping much since you've been gone.”
+
+Ren hopped up and ran to the kitchen. “Nathalia!”
+
+Nathalia had her elbows on the table and her head in her hands. When Ren said her name, it had startled her.
+
+“REN!” She exclaimed, jumped up, and grabbed him into a hug so tight, Ren couldn't breathe.
+
+“I... am... so... sorry...” Ren wheezed out.
+
+Nathalia eased her hold on him, and leaned back to look at him. “What happened to you?”
+
+“I...” Ren sighed. “When I went to take care of some Adventurer's business, I received a package...”
+
+After he told her an abbreviated version of the events that had happened, Nathalia stared at him in horror.
+
+“You... you're telling me that Adventurers drugged you, and that others came to your rescue and saved you?”
+
+Ren nodded slightly.
+
+“Oh, Ren!” Nathalia started crying. “I thought you were only in danger here!”
+
+“Me, too.” Ren said, and wiped her tears away. “I had no idea what was going on there, until my friends helped me.”
+
+“Please, thank them for me.” Nathalia said and kissed him. “They brought you back to me.”
+
+Ren picked her up and took her to bed. They concentrated on their House Neram pendants, merged their Auras, then spent a few hours together before they went to sleep. Ren woke up early the next morning, and came out to the kitchen. Ereka was there, and she dropped her plate of food when she saw him.
+
+“By the gods! You're back!” Ereka said, walked over to him, and gave him a hug. “You... you're really here!”
+
+Ren looked at her with concern on his face. “Ereka, what is it?”
+
+“Just having you back isn't enough?” She asked as she let him go.
+
+“No.” Ren said. “You're more relieved than you are happy.”
+
+Ereka chuckled. “I forget that I'm concentrating on my Aura all of the time.”
+
+“That doesn't really make sense.” Ren said and smiled. “But since I do the same thing, I know what you mean.”
+
+Ereka nodded. “Croggart called me a few weeks ago.”
+
+“Where has he been?”
+
+“In the area between dwarf and giant lands.”
+
+“WHAT?!?”
+
+“I know.” Ereka said. “I called him every name I could think of, until he explained that he was there because Groggot and another dwarf were scouting for more giants, so they could warn the Garrison.”
+
+Ren sighed. “They found one.”
+
+“Oh, it's much, much worse than that.” Ereka said. “They were attacked by one they stumbled upon, she killed Nershan, and took Groggot.”
+
+Ren blinked his eyes a few times. “What?”
+
+“When he was about to be killed, he screamed 'mommy'. She stopped, picked him up, and took him back to her cave.”
+
+“Holy crap.”
+
+Ereka nodded slightly. “Once Croggart made sure Groggot knew he was going for help, he ran for the Garrison. He got there 2 and a half days later, completely exhausted, and was promptly arrested.”
+
+“For what?” Ren asked, and Ereka felt his immediate anger.
+
+“Contributing to the death of another dwarf.”
+
+“What about Groggot?”
+
+“They sent out a squad of Warriors, led by a Knight.” Ereka said.
+
+Ren felt her trepidation. “They didn't come back.”
+
+“It was three weeks ago.” She said. “So, no.”
+
+“And they won't risk anyone else.”
+
+Ereka's eyes started to tear up. “I've been so worried, and Croggart called me to ask for your help, and you weren't here.”
+
+Ren took her into another hug. “I'm sorry.” He said. “Please know that if I had been here I would have left immediately to go and help.”
+
+“I... I know.” Ereka said. “You're a good man.”
+
+New Quest!
+
+Your friend Groggot is in grave danger. Gather the resources you need to go and rescue him.
+
+Difficulty: B
+
+Rewards: ????
+
+Ren let her go and stepped back. He looked at his Bracelet of Enforcement, then thought of something. He took out his contract with himself, and wrote in an extra line; that service to the Garrison also reduced the sentence. Unlike the 8 hours a day he was scheduled to work, all of the time he was working at the Garrison would count. He smiled and stored the contract, and looked at Ereka.
+
+“Call Croggart back. Tell him I'll be there in an hour to get him released.”
+
+“Oh, Ren!” Ereka said, and kiss him on the cheek. “Thank you!”
+
+“I just hope Groggot is okay.” Ren said, and went to Nathalia's room. “My Love, I have to go.”
+
+“Okay. I'll see you tonight.” Nathalia mumbled.
+
+“Actually, you won't.” Ren said, and Nathalia jumped up and stared at him.
+
+“You are not staying out again!” She nearly yelled. “I just got you back!”
+
+“It's okay.” Ren said. “I'm just going to save Groggot from a giant that's keeping him prisoner.”
+
+“Oh.” She said. “That's okay, then.” She said, and came over to him to give him a kiss. “I'll see you tomorrow.”
+
+“You're... awfully accepting about this.” Ren said. “Aren't you worried that I might get hurt?”
+
+“Of course I am.” Nathalia said, and ran her hands through his hair. He felt her concern, and her love. “But I love you, and I know that if anyone can rescue him, it's you.”
+
+“Thank you.” Ren said, and kissed her again. “I'll be as quick as I can.”
+
+“I know that, too.” She said and smiled. Ren left the house and went to the stable.
+
+“Hi, Princess.” Ren said, and she turned her head away and didn't speak to him. He sighed and touched the side of her face. “I can't tell you how sorry I am that I've been away for so long.” He said and rested his forehead on hers. “I've missed so much this last month, and I can't make that time up to you, or anyone else.”
+
+Princess looked at him. You were hurt...
+
+“I was. Badly.” Ren said. “I was unconscious for most of the time I've been away.”
+
+Friends saved you...
+
+“Yes.” Ren said. “Now I need your help to save another.”
+
+Very well... Princess thought at him and stood. Won't forgive for a while...
+
+“I won't ask you to.” Ren said. “I don't deserve it.”
+
+You... won't ask?
+
+Ren shook his head. “I haven't asked Nathalia, either.”
+
+You punish yourself...
+
+He nodded. “Who else is going to?”
+
+I could refuse to take you...
+
+“That wouldn't punish me.” Ren said. “That only hurts Groggot and Croggart.”
+
+Princess sighed. You... too smart for me...
+
+Ren chuckled. “I could argue that; but, I don't have the time.” He looked at Riley and Stacy. “We're going to need guards. Want to come along?”
+
+They barked and followed Ren and Princess out of the stable. Ren hooked Princess up, and the dogs got in the back of the cart. He led them out through the gate, and the guards stared at him as he passed. He nodded slightly to them, then remembered Tee-one.
+
+“I'll be right back.” Ren said to Princess, then ran to the workshop. It seemed empty with the large silt oven missing, and no one shoveling silt. He sighed as he saw Dorcot wasn't there, either; then went into the forge room.
+
+“Hi, Tee-one.”
+
+“Hi, Ren.”
+
+“How's everything?”
+
+“Much better than I thought it was.” Tee-one said and tapped his temple. Ren smiled and put a hand on his shoulder.
+
+“I'm tempted to ask you to come along; but, I really need you to keep doing your excellent job.”
+
+“I know.” Tee-one said. “It's going to bother me that you'll be so far away and all I can do is help you by working, and not watching your back.”
+
+“I'm taking Riley and Stacy.”
+
+“You should take these, too.” Tee-one said, and handed over 24 full plate armors in crates.
+
+“How in the world... no, never mind.” Ren laughed. “You made a piece at a time between pieces of furniture.”
+
+Tee-one smiled, because that was exactly what Ren would have done.
+
+“I'll be back in a couple of days, hopefully.” Ren said.
+
+Tee-one nodded. “I'll see you then.”
+
+Ren left the workshop, ran down the road to Princess, and climbed into the cart. He equipped his Dwarven Army uniform with the overall command insignia and his Dire Wolf Hooded Cloak, then looked at his Bracelet of Enforcement.
+
+“I'm going to work for the Garrison, for the next few days. Around the clock.” Ren said, and hoped that was enough, as that had worked before when he went to get the anvil from the Convent. “Let's go!” He said, and Princess took off like a shot. “Woo-hooo!” Ren shouted, and Teepo chittered in delight.
+
+Princess had gotten much faster.
+
+“You've been using the track!” Ren said in surprise, and he felt a surge of pride from Princess.
+
+I was bored...
+
+“Is there anything left of it?” Ren asked. “I only made half a dozen of the barricades with hinges.”
+
+You were sneaky... Princess thought in amusement. Had to go slow... the first time...
+
+Ren laughed because it had felt like 'slow' was a dirty word. “I wanted to change it every time you used it, so you wouldn't get used to it.”
+
+Yes... definitely sneaky...
+
+They made it to the Garrison about 20 minutes later; but, that was because Princess had to slow down with the traffic they'd come across while passing through the few miles getting to and from the city of Dornrach. They came to a stop right in front of the Garrison's main gate, and Ren climbed down to stand in front of the guards blocking the way. He concentrated on his Command Aura, and smiled.
+
+“Open the gate.” Ren said. The guards looked at each other for only a moment, shrugged, and motioned for the gate to be opened. “Open every gate from here to the commander's office, the brig, and then all the way to the other side.” He said. “Leave the last gate to the outside closed until I get there, and close them after I pass through.”
+
+“Yes, sir.” The guard said, waved to one of the other guards, and relayed the instructions. Ren led Princess inside and the front gate was closed behind him.
+
+Teepo?
+
+“On it.” Teepo said, and took off from Ren's shoulder to scout ahead.
+
+Hey, you're faster, too! Ren thought, and Teepo chittered in laughter.
+
+“You've been gone for a month.” Teepo said. “I wasn't going to just sit around and mope while waiting for you to come back.”
+
+Thanks. Ren thought to his friend. Even when I wasn't here, you were trying to help me. He reached up and scratched Princess' chin. Just like Princess.
+
+“I asked her if she wanted some company on her track run.” Teepo said. “She let me tag along.”
+
+Tag along... Princess thought in amusement. He hung on for 2 weeks before braving the wind for himself with his wings...
+
+“Hey, I did it!” Teepo said after he gave the all clear signal. “Why does it matter how long it took?”
+
+Ren smiled as he led Princess through the now open gates to his destination.
+
+*
+
+“Damn. Here he comes.” The Commander of the Garrison said to himself, as the Sending Stone from the front gate stopped glowing. “What kind of mess is he going to make for me now?”
+
+*
+
+Ren's way was unimpeded as he walked three gates in and two gates over to the Commander's office. Once there, he let Princess go and asked Riley and Stacy to stay in the cart. Teepo slid under the door as the dogs nodded to Ren, and he knocked on the Commander's door when Teepo said it was just the Commander inside.
+
+“Enter.”
+
+Ren opened the door, and the Commander was standing at attention.
+
+“Sir.” The Commander said, and saluted.
+
+Ren saluted back. “At ease.” He said, and the Commander went to parade rest.
+
+“What are your orders?”
+
+“Immediate release of Croggart into my custody.”
+
+The Commander looked at Ren. “You're not asking for his charges to be dismissed?”
+
+“No.” Ren said. “I don't know the situation, or the events that contributed or led to... Nershan's... death.” He said. “I'll leave that in your hands.”
+
+“You're not worried he'll try and escape?”
+
+Ren chuckled. “With his brother's life on the line?” He shook his head. “Not a chance.”
+
+The Commander wrote out the release order and handed it to Ren. “You could have just gone straight to the brig and taken him out.”
+
+“I'm not here to rock the boat for no reason.” Ren said.
+
+“No?” The Commander smiled and picked up Ren's orders from the month before. “I think otherwise.”
+
+Ren smiled. “They wouldn't tell me what they spend the 200 platinum on every year, knowing I owned the Garrison.” Ren said. “And they scammed me for the cost of the Armory.”
+
+“They WHAT?”
+
+Ren chuckled. “I sincerely hope you actually locked the crafting section down and stopped them from destroying anything, despite how you felt about my orders.”
+
+The Commander nodded slightly. “I followed your orders.” He said. “I knew something fishy was going on; but, I didn't know they'd been overcharging for their services.” He shook his head. “It's difficult to keep civilians in check, even though they are working for the benefit of the army.”
+
+Ren nodded slightly himself. “I'll be going through the section when I get back with Groggot.” He said. “If I don't see 200 platinum worth of research and development, they are going to have some tough questions to answer.”
+
+The Commander smiled. “I'm glad to have someone in charge that understands these things.” He said. “I've had to skimp and save on other things, just to make sure everyone gets paid.”
+
+“Is that why you haven't ordered new uniforms for the troops from House Neram?” Ren asked, and the Commander nodded slightly.
+
+“I had a hard time justifying the extra cost of the 1000 uniforms you'd made.” The Commander said. “Once they saw the quality and Durability, though... they didn't say anything else about it.”
+
+“You mean House Lodur.”
+
+“Representatives of the House, yes.” He said. “Lord Lodur didn't care about the day to day things, only results.”
+
+“I understand.” Ren said. “Have any of the House Lodur people been by lately?”
+
+The Commander shook his head. “I think they realized something was up when none of them received a copy of the Deed to this place from the Hall Of Records.”
+
+Ren smiled. “That's because I got it from Lord Lodur's loot.”
+
+“He had it on him when he died?” The Commander asked, then laughed. “Oh, that's just wonderful!” He shook his head. “What if he'd been killed by someone in the street? Or if the loot was given to his illegitimate son?” He smiled. “Or better yet, left in the street after an accident.”
+
+Ren looked at the Commander in surprise. “I... hadn't thought about it like that.”
+
+“Neither did he, apparently.”
+
+“I'll take steps to ensure the deed's safety.” Ren said. “I won't take it into combat with me.”
+
+“Good.” The Commander said. “If that's all?”
+
+Ren nodded slightly. “Have a good day, Commander.”
+
+“You, too.” The Commander said, then saluted. “Sir!”
+
+Ren saluted back, and left the office. He took Princess through the gates to the brig. Once there, he was greeted with yells and catcalls when the door to the brig's waiting area was opened. Ren waved and received a few pats on the back.
+
+“Hey! Look who's come up in the world!” One of them said. It was Darohm, one of the dwarf Warriors that had come to pick him up that first time. “Please tell us you've got some of that great food with you.”
+
+Ren chuckled. “If you don't mind it cold.”
+
+“Hell, I'd eat it raw!” One of the others said. “My wife's a cook in the cafeteria, and she can't hold a candle to the food you brought us.”
+
+Ren took out the large icebox, and handed everyone a plate of food.
+
+“By the gods, you're carrying all of that around?” One of the other Warriors asked. “Why aren't you tired all of the time?”
+
+Ren laughed. “I'm an Adventurer. I'm carrying a heck of a lot more than this.” He said, stored the icebox, and knocked on the inner door. It opened, and the guard there smiled.
+
+“Hey, I thought I heard you out there.” He took in Ren's uniform. “Sir!” He said, and saluted.
+
+“At ease.” Ren said as he saluted back, then handed the guard Croggart's release papers, and a plate of food.
+
+“He's been moping in his cell since he got here.” The guard said, put the plate of food on his desk, and led Ren to Croggart's cell. He saw that Croggart had been standing up and holding onto the bars. Croggart stared at Ren.
+
+“I thought Ereka was crazy when she said you were coming to get me.” Croggart said. “What the hell are you wearing?”
+
+“It's nice to see you, too.” Ren said, and the guard opened the cell. “You look pretty bad yourself.”
+
+Croggart laughed and tried to pick Ren up into a hug. He grunted and stopped trying, and Ren smiled.
+
+Only Donna, Donan's sister, can pick me up. He thought. If I'd had to guess, I thought Croggart would have been the one to at least match her strength. Ren smiled. No wonder she sees all normal military men as weaklings.
+
+“Come on!” Croggart said and started to walk rapidly towards the door to the brig. “Groggot's been waiting for me to come back!”
+
+Ren thanked the guard and ran after Croggart. He was right. If they hurried, they might be able to get Groggot back by tomorrow.

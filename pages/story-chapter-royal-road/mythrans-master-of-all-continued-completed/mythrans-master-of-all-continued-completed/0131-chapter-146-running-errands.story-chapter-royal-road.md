@@ -1,0 +1,817 @@
+---
+id: 5328f800-8d8c-586d-bb6e-64a1febd3815
+page-type-slug: story-chapter-royal-road
+title: "Chapter 146 - Running Errands"
+slug: 0131-chapter-146-running-errands
+partOf: mythrans-master-of-all-continued-completed
+position: 131
+ownLength: 9315
+unit: words
+publishedAt: 2017-01-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/113866/chapter-146-running-errands"
+royalRoadId: "113866"
+---
+
+Ren woke up that morning and was pretty happy with the way things turned out. He actually got a good night's sleep despite not being in bed the whole time. Maybe snuggling with two nearly identical women was growing on him. He wasn't sure if that was a good thing or not and chuckled mentally; but, he wasn't going to complain about it. He was tempted to see if Narhilda was just as ticklish as Nathalia, but he figured it was better if he didn't know. Being as it was morning, his body reacted the way that any man's body does when they wake up; Little Ren made an appearance and could potentially make a nuisance of himself if Ren wasn't careful.
+
+Good morning, Teepo. Ren thought. Anything happen?
+
+“No, everything is good.” Teepo said from the hallway.
+
+Thanks for always looking out for me.
+
+“It's what I do.” Teepo said and chittered in laughter. “You apparently need someone to do it.”
+
+Boy, do I! Ren thought in amusement.
+
+The blanket had moved down enough that Ren noticed it was Narhilda that he had snuggled in behind, and not his fiance Nathalia. He wasn't sure if he could do anything about that, considering they were all huddled so closely together anyways. It was mostly his fault for not checking properly before getting into bed; but he shrugged, as it didn't really matter much. Ren loved them both, and had agreed to comfort Narhilda if she needed it. He eased his hand away from Nathalia's grasp over her abdomen, and she stirred slightly.
+
+“It's time to get up.” Ren said to the two sleeping beauties.
+
+“Just five more minutes.” Nathalia whispered.
+
+“Mmm... yes... five more minutes... Thern.” Narhilda said as she wiggled slightly against Ren, who froze. Now he really didn't know what to do. If Narhilda thought he was her dead husband, then Ren wasn't sure what else she would do with him so close; but, then he remembered the last time this happened and took Teepo's advice again.
+
+I hope this works. Ren thought, then stroked Narhilda's neck and she giggled.
+
+“Don't do... that.” Narhilda said, still half-asleep. “We can't... do anything... with our daughter... in the bed.”
+
+“Then you better get up and make breakfast.” Ren whispered in her ear. “Or I'll keep going.”
+
+Narhilda moaned appreciatively. “It's... really tempting... but we agreed we wouldn't... until she got her own room...”
+
+Ren slid back away from her, giving her space to move. Narhilda turned to him with her eyes still partially closed, and gave him a quick kiss on the lips.
+
+“Keep the bed... warm for me... sweetheart.” She said, then rolled away and climbed over her daughter and out of the bed. Narhilda stumbled to the door of the bedroom. “I really could use... a few more minutes of sleep...” She said as she opened the bedroom door, then turned back to the bed, bleary-eyed and blinked a few times. “The food will be ready... in half an hour.” She said and left the room.
+
+That was close. Ren thought, then slid across the empty space to spoon behind Nathalia. She grabbed onto his arm again, and held him close. He kissed the back of her neck and she turned her head to him with her eyes still partially closed, just like her mother's had been.
+
+“We can't... mom... in bed...” Nathalia whispered.
+
+“She's making breakfast.” Ren said. “We've got half an hour.”
+
+“That's not enough time.” Nathalia smiled as she opened her eyes.
+
+“It's enough to please you... I think.” He said. “I may have to skip a few steps, though.”
+
+Nathalia chuckled as she woke up fully. “I believe I can deal with my disappointment.”
+
+Half an hour later, they went out to eat breakfast and saw Narhilda as she stretched and yawned. Ren and Nathalia sat down with her mother and enjoyed another great meal. Ren thanked Narhilda for going through all the trouble of making meals all the time, and she laughed.
+
+“I enjoy it, dear.” Narhilda said. “It's my passion. If you weren't here, I'd be making it all regardless.”
+
+“Well, my stomach and I want to thank you anyways.” Ren said, and grinned. She laughed, and Nathalia joined her. After a minute, she turned to Ren.
+
+“What are you going to do today?”
+
+“I've got to work on the Keep for a few hours, but I'm nearly out of cement powder.” Ren said. “I wonder if I can hire the carts again?”
+
+Nathalia smiled. “Now that the edict has been canceled, I'm sure there's a few businesses that will jump at the chance to earn some more money from you.”
+
+Ren's eyes widened. “Oh, I should get those windows first!” He said and stood up. “If I can finish the Main House today, Ereka will have a nice place to work.”
+
+“Ren, just get Ereka to order them.” Narhilda said.
+
+“How?” He asked.
+
+She opened her mouth to speak, then closed it. “You're right. We'll need to hire a couple of messengers.”
+
+Ren smiled. “You'd better look into getting a healer or two as well. Find out what their requirements are, and I'll have a medical building built beside the Main House.”
+
+Narhilda sighed. “Ren, you've taken on a lot more than only one person can handle.”
+
+He smiled and walked over to her. “That's why I'm really glad that I found such wonderful women to take care of me.” He gave her a kiss on the cheek. “I can drop these little ideas of mine off on you and I don't have to worry about it anymore.”
+
+Narhilda snorted a laugh as Ren went to Nathalia and knelt by her to give her a kiss on the lips. “I'll be back with the windows soon.”
+
+“I'll go out and feed Princess if you want.” She offered.
+
+“That's okay.” Ren said. “It'll just take me a minute.” He said and gathered up some food. He kissed her again, and left the kitchen. He noticed the little stone pen he'd made for the baby fire elemental on the small table in the main room and went over to it. He took out several small scraps of cloth, deactivated the fire runes, and dropped the cloth inside. The fire elemental barely had the cloth inside itself and it was gone.
+
+“A little too easy for you to eat, was it?” Ren asked and it's color changed slightly. He took out a scrap piece of spider silk cloth that he still had, cut it into little squares, and dropped one into the pen. The baby fire elemental picked it up and shoved it inside its body and nothing happened. It hunkered down and burned really bright for a moment, and the square was a little smaller. It repeated this several times and eventually the square disappeared.
+
+“How was that?” Ren asked. “Tasty?”
+
+The fire elemental's color changed slightly and Ren sprinkled a pile of squares around the pen.
+
+“Don't try to eat them all at once.” Ren cautioned. “If you had that much trouble with a single square...” He shook his head. “...take your time with them.” He activated one of the bricks so that there would still be fire inside the pen, but it didn't cover the whole area. “Have fun.” Ren said and left the house with Teepo flying over his shoulder.
+
+*
+
+“I had another dream about your father.” Narhilda said when Ren closed the front door.
+
+“Really?” Nathalia asked. “That's the second or third time now, isn't it?”
+
+Narhilda nodded. “This one felt even more real than the last one.” She said. “When I got up, I could have sworn I kissed him good morning.”
+
+“The poor pillow!” Nathalia said and laughed. “I bet you slobbered all over it!”
+
+Narhilda threw a dish towel at her daughter and laughed, too.
+
+*
+
+Ren took a deep breath and smiled. I think this is going to be a great day! He thought and went into the stable to feed Princess. Once that was done, he went to the gate and opened it. Teepo had already told him it was just Wohrum standing guard.
+
+“Good morning, sir.” He said.
+
+“Morning.” Ren responded and shut the gate behind him. “Can I ask why you're here so early, and alone?”
+
+Wohrum chuckled. “Of course, sir. Since there's 4 of us, we broke up the shifts into three 8 hour ones, then each man gets every second day off.”
+
+“So...” Ren started. “...there will always be someone on guard duty, but also always under-strength.”
+
+Wohrum's face froze as he realized what Ren was saying. “Sir, we thought that as long as someone was here...”
+
+Ren shook his head. “We'll just have to hire more people to make up the difference.” He said. “There shouldn't be any more trouble; but, I don't want only a single guard here to deal with anything that might come up, if it's necessary.”
+
+“Sorry, sir.” Wohrum said. “We should have consulted you before changing things.”
+
+“Don't worry about it for now.” Ren said. “Keep the 3 shifts, but change them to 7am to 3pm, 3pm to 11pm, and 11pm to 7am... assuming those aren't the times you already have.”
+
+“It will be done, sir.”
+
+Ren nodded slightly and took off running. Teepo flew beside him until his Stamina started to drain, then he landed to let it recharge, and took off again.
+
+Are you getting anything by doing that? Ren asked his friend as they got to the main part of the city.
+
+“Yeah, my Strength and Endurance have increased a point each already.” Teepo said. “I'm not really sure how that works, considering this is just an astral projection; but, it's working so I'm not going to complain about it.”
+
+“I had the same thought when I woke up in bed with Nathalia and her mother.” Ren chuckled. “I mean, about it working and not complaining, not the astral projection part.”
+
+Teepo chittered in laughter. “Waking up in bed with 2 women is definitely better than alone, that's for sure.”
+
+Ren raised an eyebrow. Teepo! That sounds like experience talking.
+
+“I was the Prince of my people, Ren. I had a staff that handled how many women I could have every night.” Teepo said. “They took shifts.”
+
+Ren snorted a laugh. And here I am, with Stella calling me 'little stud'! If she only knew who the real little stud was!
+
+Teepo chittered in delight. Ren arrived at the window making place and they had the windows he had ordered before ready for him to pick them up. He paid for them and stored them, and no one questioned his ability to do it, or were surprised when it happened. He stopped by the lumberyard and picked up a bunch of lumber from them, paid for it, and stored as much as he could. He had them deliver the rest, and increased his order. He met the foreman and asked him about building more houses, and possibly a medical building. The foreman mentioned that since no one was trying to stop Ren from building things, he really should make a place of worship for his subjects to attend if they wished.
+
+“You know, that's actually a really good idea.” Ren said. “How much is that going to cost?”
+
+“A few platinum.” The foreman said. “The windows are the expensive part.”
+
+Ren frowned. “No, no. That won't do.” He said. “Do you happen to have the plans for one?”
+
+The foreman chuckled. “I heard you like to ask stupid questions.”
+
+Ren's eyes widened. “You know the clerk in the Hall of Records, don't you?”
+
+“I should.” He said. “She's my wife's sister.”
+
+Ren smiled. “I bet you hear a lot of interesting things.”
+
+The foreman chuckled. “Like about some fool that fought and killed the Deathgore? Or bought half the countryside on the other side of the city? Stuff like that?”
+
+Ren laughed. “Yeah, things like that.”
+
+“Nope, she doesn't say a word.” He said and grinned. “Come out back to my workbench. I've got the plans there.”
+
+“Thanks.” Ren said, and spent about half an hour redesigning the Church to fit what Ren thought the layout should be like. Once he allowed for each of the elements he knew of from enchanting, the Church was nearly double in size, and had certain rooms set aside for worshipers. The foreman shook his head as he saw what Ren intended.
+
+“You're going to have a lot of unhappy people, I think.”
+
+“Why's that?”
+
+“What if they want to worship different deities at the same time?”
+
+“That's what the main room is for.” Ren said and pointed. “If they just have general prayers, they can go there. If they have anything specific, they can go here.” He pointed to a room with 9 doors, one for each element. “It's not like there's going to be a line or anything.”
+
+The foreman chuckled. “That's true.” He said. “There's barely anyone showing up at the Main Keep to worship anymore.”
+
+“The Main Keep is the Church inside the city?”
+
+The foreman nodded. “The lines to get in there are too long to just go and worship anymore.”
+
+Ren frowned again. “Okay, then. Double this in size.”
+
+“W-what?!?”
+
+“Once word gets around that they don't have to wait in line to worship at House Neram, I think there's going to be a lot of visitors that will want to just come and see it.”
+
+The foreman nodded slightly again. “You've got a point.”
+
+“How long to get this built?”
+
+“If I take all three crews that I have, 1 heavy and 2 normal, we could have it done in about three days.” He said. “The windows, though...”
+
+“I've got the dimensions, so I'll worry about the windows.” Ren said. “Get on this right away.” He said and handed the foreman 10 platinum. “If it comes out to more than that, let me know.”
+
+“With this much, we might have it done in two days.” The foreman said and laughed.
+
+Ren left him and went back to the Minor House that made windows. They told Ren it would be a week for each window, and since Ren needed 20 of them, that was not a good deal at all.
+
+“I'll be back.” Ren said, and ran all the way to House Neram to get Ruck's help. They ran over to the Main House and Ren gave Ruck the windows for the upper floor, and he installed the ones on the lower floor. They were finished barely 10 minutes later.
+
+“Good job, Ruck!” Ren said and gave him a high-five. “Can you install the windows for the barracks for me? I have to go and get Ereka and see what kind of office she wants.”
+
+Ruck gave an 'okay' gesture and Ren gave him the windows, then ran over to the housing development. Ren looked at the different houses and smiled. 5 of them were lived in and he remembered Croggart saying his was next to Golir's. Ren approached and got a popup stating that Croggart and Ereka were the current occupants. He smiled, went to the door, and knocked. Several minutes passed and then the door opened. Ereka stood there in a thin white slip, and the sun caught her shoulder-length flowing blonde hair at just the right angle, and it looked like her hair was on fire.
+
+“Wow.” Ren said, before he could help himself. “Your hair looks like it's made of fire.”
+
+Ereka's face flushed slightly red, and she smiled. “T-thank you, your highness.” She said. “I've never heard that kind of compliment before.” She tilted her head slightly. “It was a compliment, wasn't it?”
+
+“Most definitely.” Ren said and thought about his daughter. The happiness showed on his face as he continued. “I've spent some time around a lot of fire recently, and your hair reminds me of my time there.”
+
+Ereka's face blushed a deep red, as she saw both admiration and happiness in Ren's smile. “Is... is there something I can help you with, your highness?”
+
+“I'm sorry to bother you so early.” Ren said, apologetically. “I just installed the windows in the Main House and I need your input for what kind of office you want.”
+
+Ereka's face lit up. “The Main House is ready?” She said and stepped out onto her step. “Let's go!”
+
+Ren glanced down at her thin slip and smiled; it left almost nothing to the imagination because it clung to her body like a second skin, and made it seem like it was see-through. He quickly looked back at her face, however; and didn't examine the slip closely to see if it was actually see-through or not.
+
+“You might want to consider putting on some clothing first.” Ren chuckled. “I know you're in a rush to get to work, but still...”
+
+Ereka looked down at herself and blushed so hard, Ren thought she was going to faint. He took her hand in one of his, and braced her back with the other.
+
+“Are you all right?” Ren asked, concerned. “You look like you might faint.”
+
+“Y-y-yes, I'm f-f-fine.” Ereka stammered, and shook slightly. “I just... I'm... I'm practically naked in front of a strange man, that I've only just met!”
+
+Ren chuckled. “Being called strange is a new one for me; people usually just call me crazy.”
+
+Ereka got a shocked look on her face. “I'm sorry, your highness!” She said and tried to bow, but with Ren so close and holding her hand, it came off as only a slight twisting motion. “I didn't mean it like that!”
+
+“That's quite all right.” Ren smiled. “I was making a joke.” He said and turned Ereka around to face her front door. “I'll wait right here while you get dressed.”
+
+“Yes! Right! I need to get dressed!” Ereka said, then scrambled into the house and left the front door open. Ren reached in and closed the door, so she wouldn't be embarrassed about leaving it open. She came back to the door a few minutes later, and opened it. She froze when she realized what she'd done, but it wasn't what Ren had thought.
+
+“I'm so sorry!” Ereka exclaimed. “I should have invited you in, and not made you wait on the front step!”
+
+“That's okay. I've done my fair share of waiting for things.” He said, and saw she had on a conservative skirt of red cloth and a white blouse. Her white slip could be clearly seen under it.
+
+“But... but you're a Lord!” Ereka said. “You shouldn't have to wait for anything!”
+
+“If only that were true.” Ren chuckled. “Shall we go? It's only a short walk.”
+
+Ereka nodded and they walked down the dirt road of the housing subdivision to get to the main road. Ren noticed she was shivering slightly. “Are you cold?” He asked, concerned.
+
+She shook her head. “No, I'm still embarrassed about being seen in only my slip.” Ereka blushed slightly.
+
+“I know it wasn't completely my fault.” Ren said and smiled. “I am sorry to have put you in that situation, though. Is there anything I can do to make it up to you?”
+
+Ereka stopped walking and looked at him. “You can say my name.”
+
+“Excuse me?” Ren stopped as well, and turned to her.
+
+“If you say my name, I won't be all nervous about you seeing me like that.”
+
+“I can't do that.” He said. “If I say your name in public, then I'll be declaring my intent to court you formally.”
+
+Ereka shook her head. “Not if I agree that it's only so we'll get to know each other better.”
+
+Ren raised a single eyebrow at her, and she smiled crookedly.
+
+“I didn't know you could agree that the use of a woman's formal name wasn't a declaration of intent.” He said.
+
+“Most people don't hold with it.” Ereka said. “It's one of the older laws.”
+
+“So, no doing it in public where anyone else can hear. Got it.” Ren said, and Ereka held out her hand. He took it, and bent over it formally. “It's a pleasure to meet you, Ereka.”
+
+She blushed a deep red and shook slightly.
+
+“Are you okay?” Ren asked. “I'm pretty sure I did that right.”
+
+Ereka nodded slightly. “It was perfect.” She said and let his hand go. “Having a Lord bend over my hand like that is just a little hard to handle.”
+
+Ren chuckled. “Being regarded as a Lord is only a recent development.” He said. “Sometimes I don't know my own strength.”
+
+Ereka laughed and they kept walking. After a short time, they arrived at the Main House and Ren took her inside.
+
+“It's so empty.” She said. “I thought you said it was done?”
+
+Ren grinned. “You said it was done; I said I finally put the windows in.”
+
+Ereka opened her mouth to say something, then she smiled. “Okay, what do you want me to do?”
+
+Ren took out the Main House plans and showed her the way it was normally set up. “I don't like how everything is so closed off.” He said. “I'll leave the reception desk where it is, so they can see out the front door; but the offices crowd everything out. What do you think about moving this here, and this here?”
+
+Ren had pointed to two of the offices that were supposed to be right off the main lobby, and put them at the back of the room instead.
+
+“That would give you lots of room here.” Ereka said and pointed to the lobby. “But what about Lady Neram? Shouldn't her office be right there?” She pointed to the spot right behind the reception desk. “If you move that, where will she run everything?”
+
+Ren smiled. “If she decides to come here to work, which I doubt, she'll have a good portion of the top floor to herself.”
+
+“W-w-what?” Ereka asked, surprised. “What about the meeting and living rooms?”
+
+Ren pointed to the space around the staircases. “The living room can be in the open area here in the large hallway, to make things less formal; and the meeting room fits right here next to her office.”
+
+“That's quite the departure from how thing are supposed to look.” Ereka said.
+
+Ren nodded slightly. “I don't want things to be like they should be.” He explained. “I want them to work better than that.”
+
+She smiled. “I think I'm really going to like working here.”
+
+“You better.” Ren said and grinned. “You're going to be ordering everything to fill the place.”
+
+Ereka chuckled. “Then where's my office?”
+
+“Pick one.” Ren said. “Or better yet, I'm building the walls anyways; just tell me what you want.”
+
+“You're building the walls?” She asked with her eyes widened.
+
+Ren nodded slightly. “It's quicker this way.” He said. “We don't have to wait for a work crew or anything.”
+
+“Then I want this whole corner.” She said jokingly, and pointed to the back left of the bottom floor.
+
+“Okay.” Ren said. “Do you want a single door, or a double door?”
+
+“Wh-what?”
+
+“That's a lot of space. I assume you're going to need the room for filing things, and perhaps a nice couch.” He said. “I should move the document storage here, then.” He pointed to a spot by the corner she'd indicated. “I'll add another door there so you'll have easy access, instead of going into the hallway.”
+
+“Y-you're crazy!”
+
+Ren grinned. “See? I told you that's what people usually called me.”
+
+Ereka looked at him for a moment, and then laughed. “I was kidding about needing the whole corner.”
+
+“I'm not.” Ren said. “You're going to be spending a lot of time here, I think. I want you to be comfortable.”
+
+She nodded slightly and smiled. “Then I'm definitely going to like it here.”
+
+Ren built the walls to her office and to the document storage area, then added the connecting doors. Ereka stood there and watched him work the entire time. When he was finished, he got a popop.
+
+Stat Change!
+
+Woodworking Level 2 (Intermediate 0%)
+
+Nailing Level 1 (Intermediate 0%)
+
+“This should be enough for you to get started.” Ren said as he turned to her. “How big do you want your desk? How many drawers? What color? What kind of chair?”
+
+“Wait. Wait!” Ereka exclaimed. “Don't I have to order it?”
+
+“You can if you want to...” Ren said. “...but I can make you a custom desk right now, instead of waiting a week or so.”
+
+Her mouth dropped open and she stared at him. “Are... are you serious?”
+
+Ren nodded slightly. “I've done enough woodworking now that I can make things pretty fast.”
+
+“Can you show me the design?”
+
+Ren smiled and took out a blank piece of parchment and drew out a basic desk while holding the parchment against the wall. “Normally, I just do all of this in my head.” He said, then added several drawers on the side, and one across the middle. “I made a sitting table once, and I adapt that design as I need it.”
+
+“That's amazing!” Ereka said, then she looked at him. “Hold on! You made a sitting table?”
+
+Ren nodded slightly. “Nice big mirror on the back of it, a comfy stool, and several drawers.”
+
+“Oh, I really want one of those!” She said, then sighed. “I could never afford one, though.”
+
+“Don't worry about that.” Ren said. “You're not going to have to worry about money ever again.”
+
+“W-w-what?” Ereka asked, surprised.
+
+Ren grinned. “You didn't think we'd have you working for free, did you?”
+
+“I... I didn't think about it, actually.” Ereka said, and blushed slightly. “I was so happy that I could work, that it never even crossed my mind.”
+
+“There's another reason why I liked you right from the start.” Ren chuckled. “Do you have a coin pouch?”
+
+Ereka shook her head, and Ren held several out to her and let her pick a color. She took a red one and equipped it. He gave her several platinum coins, and she didn't even blink as she put them in the pouch. They finished designing the desk and Ren had it built about 20 minutes later. He made a nice comfy chair for her to sit in and put it behind the desk.
+
+“I've got to go back into the city for a while.” Ren said. “I'm not sure where to hire messengers from, though.”
+
+“There's a Guild downtown.” Ereka said. “I know a few people there.”
+
+“I don't remember anything about a messenger's guild on the map of the city.”
+
+Ereka chuckled. “That's because it's under the Shipper's Guild.”
+
+“Let me guess why.” Ren said. “Because they ship information.”
+
+“Exactly.” Ereka said, and chuckled. “They got a lock on the market a hundred years ago after they hired a bunch of kids to run errands.”
+
+Ren nodded slightly. “Do you feel up for a trip to town?” He asked. “I'm tempted to stop in there by myself; but, you're going to be the one using them.”
+
+Ereka looked around for a moment. “Don't you want me to stay here and work?”
+
+“It'll be hard for you to order things without someone here to carry out those orders.” Ren said. “Plus, I want people to know that it's you handling things here for us.”
+
+“Why?”
+
+“Everyone should know that House Lodur made a huge mistake letting someone like you go.” Ren said and grinned as Ereka's face flushed a little red at the compliment. “So, come on.” He ushered her out of the Main House. “Show these people what you're made of.”
+
+They walked over to House Neram, and Wohrum opened the gate. Ren hooked Princess up to the cart, then helped Ereka climb into the back. He told her to hold on and led Princess out to the road.
+
+“You know the drill.” He told Princess. “Easy at first.” She huffed, and Ren climbed into the driver's seat. “Okay.”
+
+Princess trotted for about 30 seconds and then took off like a bolt from a crossbow. Teepo chittered in delight, and Ren could hear Ereka laughing in the back.
+
+Stat Change!
+
+Cart Driving Level 4 (Beginner 0%)
+
+Ren had Princess come to a stop at the main street and turned around to look at Ereka.
+
+“First stop! Shipper's Guild.”
+
+“That was the most uncomfortable, comfortable ride I've ever had.” She laughed and shook her head. “I'm not even going to ask how you did that.”
+
+Ren grinned and hopped down. “She is pretty special.” He said and pat Princess. “I'll wait here for you.” He helped Ereka climb down out of the back of the cart.
+
+“Thank you.” She said. “I shouldn't be long.”
+
+She was back out a few minutes later with 2 young men. Both were about 4 feet 5 inches tall, thin as rails, and barely had beards started. Ren helped Ereka climb into the back of the cart and the 2 men climbed in with her. They sat down near the middle and she chuckled.
+
+“You'd better hold onto the sides or something.” Ereka said. “Or you'll be kissing the street in a minute.”
+
+The two young men shrugged and didn't take her advice. Ren smiled and walked around to the front of the cart.
+
+“You've been challenged.” He whispered to Princess. “Just a short burst.” Ren said and she nodded. He climbed up into the driver's seat. “Okay.”
+
+She took off like a shot for a second, and then stopped at the end of the street. Ren turned around and saw Ereka was alone in the back of the cart; and she was laughing so hard she was crying. The two young men were sitting on the ground in front of the Shipper's Guild and had confused looks on their faces. Ren chuckled and passed Ereka a piece of scrap cloth to wipe her face.
+
+“T-t-thank y-you.” She dabbed at the tears on her face. “By the gods that was funny!” She said between laughs. “The looks on their faces!”
+
+Ren waved them forward and the two young men ran over to the cart and climbed in.
+
+“The Library.” Ren said to Princess, and she took off at a more leisurely pace. They arrived there a few minutes later and Ren climbed down and walked to the back to hold a hand out for Ereka. “Ma'am, there's someone I'd like you to meet.”
+
+She had a surprised look on her face for a moment, then nodded slightly and took Ren's hand as he helped her down to the ground.
+
+“We'll be right back.” Ren said to the two messengers and he led Ereka inside the Library.
+
+“What is this place?” Ereka asked when Ren held the door for her, and she froze as she saw all of the shelves of books before her. “NO WAY!” She shouted. “It's a LIBRARY!?!”
+
+“Who's making all that noise inside my Libra-YOUR HIGHNESS!” The Librarian exclaimed as she caught sight of Ren. He braced for the impact as she ran towards him, and caught her as she threw herself at him. She gave him a big hug and Ren chuckled as he gave her a hug back.
+
+“You're lucky I'm wearing only my clothes today.” Ren said.
+
+“You're not wearing your armor.” The female dwarf said. “I knew I wouldn't hurt myself like the last time.”
+
+“Did you even notice if I had armor on today before you started running?” Ren asked, then smiled as he saw her eyes widen. “I didn't think so.”
+
+“It all worked out, didn't it?” She said and chuckled. “Who's this you've brought with you?”
+
+“Ma'am, this is Ma'am.” Ren said, and turned to Ereka. “Ma'am, this is Ma'am.” He said and turned back to the Librarian.
+
+Both the Librarian and Ereka looked at him with identical surprised expressions, and then they burst out laughing.
+
+“Oh... oh... by the gods...” The Librarian said. “That... that sounded so...”
+
+“...outrageously stupid!” Ereka finished for her, and they laughed as Ren stood there and grinned at them.
+
+“Hey, I didn't make up the rules.” Ren said and laughed. “Plus, I don't even know your name.” He said to the Librarian, then held up a hand. “I'm not asking for it.” He said quickly, before she could get the wrong idea.
+
+“He's always so careful.” The Librarian said, then turned to Ereka with a hand extended. “Hi, I'm Dorhaline.”
+
+“I'm Ereka.” Ereka responded, and shook the offered hand. “It's nice to meet you.”
+
+“Likewise.” The Librarian said. “What can I do for you?”
+
+“I've got the Main House closed in with windows finally; so I figure before I built shelves for books, I better have her...” He indicated Ereka. “...meet you and find out what books she'd need, besides copies of the laws and codes needed to run the place.”
+
+The Librarian nodded. “You're in luck. I'm running a special on stuffy books this week.”
+
+Ren chuckled. “If I can get a volume discount, that would be nice.”
+
+The Librarian chuckled, too. “Like you'd need that.” She said, then turned to Ereka. “He made a huge donation to the Library... after building all of these shelves for it.”
+
+“Really?” Ereka said and looked at Ren. “That's... very interesting.”
+
+“I think that's my cue to run an errand while you two discuss what books are needed for the Main House.” Ren smiled. “I'll want a couple of copies of my own books, too.”
+
+“Y-y-you're own books?” Ereka asked, surprised.
+
+Ren nodded slightly and turned to the Librarian. “Don't limit her choices to just the stuffy books. She'll want some kind of reading material while she's there.”
+
+“That would depend on her Library Card.”
+
+Ereka grinned and took out her card. “My mother gave that to me when I had to leave the House.”
+
+The Librarian looked at it and grinned. “It's a real pleasure to meet you, Ereka.”
+
+“I'm not even going to ask what her rating is.” Ren snorted a laugh. “I'll be back in a little while.”
+
+*
+
+The Librarian waved at him absently and took Ereka over to the desk by the stairs. “The only other person I've seen in here is his fiance.” She pointed a thumb at Ren, who had just left through the door.
+
+“I'm actually surprised she lets him out of her sight.” Ereka said, then leaned forward to whisper. “I'm having a hard time keeping my hands off of him.” She shook her head. “He's just so... so...”
+
+“Ideal?” The Librarian offered.
+
+Ereka nodded slightly. “Yes! There's just something about him...”
+
+“I'm not fighting the feeling too hard, as you clearly saw.” The Librarian smiled. “I know nothing will happen, though.” She sighed. “I'm just a little too old for him. His fiance is over 10 years younger than me.”
+
+Ereka smiled. “If that's the case, then I'm way too young for him. His fiance is almost 10 years older than me.”
+
+“Well, then!” The Librarian chuckled. “We can indulge a little bit and not have to worry.”
+
+Ereka shook her head. “I can't. I haven't even gone for training yet.” She said. “I wouldn't even know how to tease him.”
+
+“I can give you a few pointers while making copies of the books.” The Librarian said, conspiratorially. “The first thing you can do is wear something really suggestive.”
+
+Ereka looked at her and blushed slightly. “Actually, something like that happened this morning.”
+
+“Oh! Do tell!” The Librarian said and grinned. “I'm always in the mood to hear something like that!”
+
+*
+
+Ren went to the cart and asked the two men in the back if they wanted to wait here, or go with him to the stables. They voted to stay and climbed out with a bit of relief on their faces. Ren climbed into the driver's seat and left them standing beside the Library. It didn't take long to get to the stables from there and Ren pretended to tie Princess to a post outside.
+
+“I'll just be a minute.” Ren said to her and pat her neck. She huffed and he went inside to try and hire a few carts. He knocked on the office door and she told him to come in without looking up.
+
+“Your Highness!” The female dwarf exclaimed when he opened the door to her office and she glanced up to see who it was. “What can I do for you?”
+
+“I'd like to hire some carts and extra workers.” Ren said. “That is, assuming you have any available.”
+
+She took in a deep breath and let it out. “I'm sorry, but they're all out at the moment.”
+
+Ren raised a single eyebrow and she chuckled. “Apparently, someone had been monopolizing all of the free carts that were available for rent. Suddenly a bunch of carts became available and they were snatched up faster than copper coins dropped in the middle of a group of kids.”
+
+Ren laughed for a moment, then spoke. “I'm glad you weren't stuck with them just sitting here.”
+
+She nodded. “Thank you.” She said. “Now I feel bad that I don't have anything for you.”
+
+“You don't have to feel bad about that.” He smiled. “I could still use the extra workers, though.”
+
+“Really? Even without the carts?”
+
+Ren nodded slightly. “I still need someone to shovel the silt.”
+
+“Hold on, I'll get the list.” She said and rummaged through her desk and came out with a list. “How many of them do you need?”
+
+“A dozen should do.” Ren said. “I might need more if I change the setup I have slightly.” He looked at the list. “Is one of them the woman that sewed sacks for me the last time?”
+
+“I don't know.” She said. “Can you describe her?” Ren told her what the woman looked like and she smiled. “That's Dorathy. I'll see if she's available to work.”
+
+“Normally, I'd want them there today; but it's a bit too late for them to get any work done.”
+
+“It's not even noon yet.” She said, slightly surprised.
+
+“By the time I went around and gathered them all, then brought them back to House Neram to work, they'd only have a few hours before I'd have to gather them up and take them back home again.”
+
+She opened her mouth to say something, then changed what she wanted to say. “I guess that's true.”
+
+Ren smiled. “I'll go around and pick them up in the morning, right after breakfast.”
+
+“That would be great, Your Highness.”
+
+Ren bid her a good day, left the office, and went to Princess. “Let's go to Barnar's.” He climbed up to the driver's seat and Princess took him to Barnar's Stoneworks. He left Princess at the side of the road because he didn't want her exposed to all the stone dust or noise inside.
+
+“REN!” Barnar yelled and ran over to him. He took Ren into a one-arm hug and grinned. “You beat the Council! I couldn't believe it.” He said and shook his head. “Then you beat House Lodur's Champion, too!”
+
+“I don't know about that.” Ren said and grinned back. “He beat me up pretty good.”
+
+“Haha!” Barnar guffawed. “You won, that's what matters!”
+
+Ren nodded slightly and Barnar let him out of the hug.
+
+“What can I do for you?”
+
+“I want to order another 2000 stone bricks.”
+
+Barnar smiled. “I'd hoped you'd be back to get them.” He said and led Ren out back to a stack of bricks that covered a good portion of the room behind the building.
+
+“You didn't stop gathering them even after the work stoppage order.” Ren said, surprised.
+
+“Of course I didn't.” Barnar said. “Even if they upheld their decision to screw us all over, you'd be back to buy them eventually.”
+
+“Thanks, Barnar.”
+
+Barnar waved the thanks away and Ren paid for the bricks. Barnar tried to refuse the money; but his own values stopped him from giving the bricks away. Ren filled several inventory slots with them and asked for the rest to be delivered later.
+
+“They'll be beside your workshop tomorrow.” Barnar said.
+
+Ren looked around and saw that the mold part of the shop that was only in a small corner, was now nearly half of the shop's available space.
+
+“What's going on?” Ren asked and motioned to all of the activity.
+
+“The word's gotten around about what House Neram looks like.” Barnar said. “We're all working harder than ever before.”
+
+“I don't know if I should congratulate you, or feel sorry that you have to work so hard.” Ren said, then smiled.
+
+“Both!” Barnar said and clapped Ren on the shoulder. “Your ideas are spreading, my friend.”
+
+Ren nodded slightly and bid him farewell, then left the building. He gathered Princess and went back to the Library. The two messengers were still standing there and Ren pulled over next to them.
+
+“You can get back in.” Ren said. “We should be leaving in a minute.”
+
+They climbed into the back and Ren went into the Library. There was no sign of the two women when he entered the building, though.
+
+Teepo. Ren thought. Let's assume they're upstairs.
+
+“Gotcha.” Teepo said and took off flying, and zipped up the stairway. “Yeah, they're at a table reading a book.”
+
+Thanks. Ren walked over to the stairs and made more noise than he normally would.
+
+“There he is!” The Librarian said when she saw Ren's head appear on the second floor as he came up the stairs. “We were wondering where you'd run off to.”
+
+“I went to rent some carts at the stables, but they didn't have any.” Ren said. “So I went to pick up some stone bricks.”
+
+The Librarian put one of the bookmarks Ren had made into the book she was reading and closed it. Ereka did the same, and held the book to her chest. Ren recognized the silver lettering of a copy of his book.
+
+“Did you get everything you need?” Ren asked and looked around. “I don't see any extra books or boxes.”
+
+Ereka nodded slightly. “They're downstairs.” She said. “They were too heavy to bring up here, only to have them brought back down again.”
+
+The Librarian took her book and slid it onto a nearby shelf and walked down the stairs. Ren motioned for Ereka to go ahead of him, and he followed them both down the stairs.
+
+“There they are.” The Librarian said. “Good luck carrying them out. They're blasted heavy.” She chuckled. “I had a hard time fitting the thick volumes into so few boxes.”
+
+Six large boxes were behind her desk and Ren stored them easily.
+
+“How much were they?” Ren asked.
+
+“Ereka already paid for them.” The Librarian said, and Ren nodded slightly.
+
+“Ready to go?” He said to Ereka, and she nodded slightly. Ren took the Librarian's hand and bent over it, then walked ahead of Ereka towards the door. She frowned a little, until he got to the door and held it open for her. Ereka smiled at him as she passed by, then she turned to wave at the Librarian. Ren helped Ereka climb into the back of the cart, then he got in the driver's seat.
+
+“Let's go home.” He said, and Princess took off. They made it back to House Neram Keep several minutes later and Ren helped Ereka climb down. The two men jumped down and practically kissed the road. Ereka chuckled and turned to Ren.
+
+“I thought I was going back to the Main House to work?” Ereka asked.
+
+“You are.” Ren said. “We just have to talk to Lady Neram first.”
+
+Wohrum opened the gate for them, and Ren turned to the messengers.
+
+“We'll be right back.”
+
+The two men nodded and Ren led Ereka inside and into the house.
+
+“Nathalia?” Ren spoke into the main room.
+
+“We're in the kitchen.” She responded, and they went through the main room and into the kitchen. Ren inhaled a breath through his nose and smiled.
+
+“Is that pastries I smell?” He said, and walked over to Nathalia and gave her a kiss on the cheek. He reached for one and she slapped his hand.
+
+“No touching!” Nathalia said. “They're for dessert.”
+
+Ren stood behind her and slipped his arms around her waist. “What if I had another idea for dessert?” He asked, and nibbled on her earlobe. Nathalia leaned back against him and sighed.
+
+“Ren.” Narhilda said. “We have company.”
+
+“Hm?” Ren stopped kissing Nathalia's earlobe, then turned his head to Ereka. He saw she was blushing slightly, and he let Nathalia go. “My apologies.” Ren said, then bowed slightly to Ereka, who gasped. “I forgot where I was for a minute.”
+
+“It's okay, dear.” Narhilda said to Ereka. “I stopped him in time.” She chuckled. “He usually has my daughter practically laying on the counter by now.”
+
+“Mother!” Nathalia said, then turned to Ereka. “That's not true.”
+
+“I remember coming in here and seeing exactly that.” Narhilda chuckled as her daughter blushed. “I have to admit it was only once, though.”
+
+Ren chuckled and shook his head. “Don't mind her.” He said to Ereka. “She has an odd sense of humor.”
+
+“Is this why you wanted to come in here and talk to her?” Ereka asked.
+
+Ren grinned. “Although that's a good reason, that's not why.” He said. “My Lady, that thing I mentioned this morning?”
+
+“What? Oh, right.” Narhilda said. “We were thinking of hiring a permanent healer, maybe two, and want to build a medical building for them. How would we go about doing that?”
+
+Ereka looked at her in surprise. “My Lady, none of the other Houses have dedicated healers.”
+
+“We know.”
+
+“Would they have to be bonded with the Guild, or will anyone with the ability do?”
+
+“Anyone with the ability, assuming we aren't stealing them from somewhere else.” Ren said. “Once they get settled, we'll pay the fees to get them registered in the Guild if it's necessary.”
+
+“R-really?” Ereka asked, surprised. “You'd really do that?”
+
+“Of course.” Ren said. “This is all new for us here.” He waved his hand to include everyone. “We're building everything almost from scratch. There's going to be growing pains.”
+
+“I'd ask you where you're getting all the money, but I don't know if I want to know.” Ereka said. “This all seems too good to be true.”
+
+Narhilda and Nathalia laughed. “You don't have to tell us that!” They said together, and Ereka laughed as well.
+
+“You're going to be handling a lot of the money, so knowing where it comes from is okay; as long as you don't tell anyone about it.” Ren said.
+
+Ereka nodded and Ren took out the first diamond he ever had Dorcot cut. It was only worth 10 platinum, but Ren held it out to her.
+
+“By the gods! I've never seen a diamond that big before!” Ereka said, then looked at it with an odd expression. “It's only worth 10 platinum, though.” She said, perplexed. “You spent more than that just today.”
+
+Ren smiled and moved over beside the kitchen table and took out one of the crates of diamonds Dorcot had cut for him, and opened it for Ereka to look inside. Nathalia and Narhilda came over to look inside as well, and they all froze in shock. It was filled with diamonds of various sizes and cuts. More than any of them had ever heard of, let alone seen with their own eyes.
+
+“By the gods...” Ereka whispered. “There's... there's thousands of platinum coins worth here!”
+
+“In this crate, yes.” Ren said. “They're all different sizes, though.” He took out another crate of the biggest diamonds he'd had cut, and opened it for them to look inside.
+
+“I... I need... to sit down.” Ereka said, and pulled out a chair from the table to sit down. Nathalia and Narhilda sat down a moment later themselves. “How... how did you...”
+
+“That doesn't matter.” Ren said. “I have them, and 18 crates of uncut ones.”
+
+“Eighteen crates!” The three women said at the same time.
+
+Ren nodded slightly. “I've got 3 cut ones and 18 uncut. It comes out to be a little less than that, since the crystals lose some of the mass when they're cut. That's not counting the one up at the workshop. I really should change it out for a fresh one.” He said. “I'm sure Dorcot finished it the other day.”
+
+“If... if people knew...” Ereka said.
+
+Ren nodded slightly. “That's why I don't tell people.” He looked through the odd-sized crate and picked out a diamond oval half of the size as the one he wore. “You're going to want one of these.”
+
+Ereka shook her head. “No, sir.” She said. “I don't want a diamond that big.”
+
+Ren chuckled. “I'm not giving it to you.” He said and enchanted it with the House Neram crest. “I'm giving a House representative a badge of office.”
+
+“Sir!” Ereka said and stood up to receive it.
+
+“I can mount it like a pendant.” Ren said. “Or as a locket. I don't know the plans for any other kind of jewelry.”
+
+“Would... would a brooch do?” Ereka said and took out her family's brooch. It wasn't an heirloom; it was just really old. Ren's eyes widened as he took it from her gently. He used Enchanted Eyes on it, but didn't see any enchantments. He examined it closely and didn't wince when he saw the size of the pin on the back. He got the plans for it and smiled.
+
+“Thank you.” Ren said, then looked at Ereka. “I know it's really old and you might want to keep it that way; but, I can repair it if you want.”
+
+“Could you?” Ereka asked. “I've been meaning to get it fixed for a while, but with everything that happened...”
+
+Ren smiled. “It would be an honor to restore it.” He said and took out his blacksmith's hammer and poured Mana into it. “Repair.”
+
+The brooch glowed brightly for a few moments, and when the glow faded, Ereka gasped at the gleaming golden brooch.
+
+“Oh, sir!” She exclaimed and hopped out of the chair and took Ren into a hug, then gave him several kisses on the cheek. “Thank you!” *kiss* “Thank you!” *kiss* “Thank you!” *kiss*
+
+Ren's eyes widened slightly as she held on tightly. “It was no trouble.”
+
+Ereka let the hug go and grinned. “No trouble, he says!” She turned to the two women that still sat at the table. “Is he always like this?”
+
+Both women nodded and smiled. Ren handed the brooch to Ereka and turned to Lady Neram.
+
+“We should give one of the Sending Stones to her.” Ren said. “That way, if anyone needs anything, they can contact the other.”
+
+“That's a great idea.” Narhilda said. “I'll go and get it.”
+
+“You're giving me a Sending Stone?” Ereka asked, surprised.
+
+“You'll need to stay in contact with anyone here, if there's no one there with you.” Ren said. “Plus, you're going to have the messengers stationed at the Main House. If anyone here needs to send a message anywhere, it'll be through you.”
+
+Narhilda came back out with the pair and handed one of the stones to Ereka. “You know how these work, right?”
+
+Ereka nodded slightly. “Touch it and think of who you're sending to, and the mate glows and they hear you.”
+
+Narhilda nodded. “Right. We might call you for something, or you might call here to set up appointments and things.” She said. “It'll come in handy.”
+
+“I'm sure it will.” Ereka said. “I better get to it, then.”
+
+Ren nodded slightly, closed up the crates, and stored them again. “I'll have your House brooch done soon.”
+
+“That would be great, sir!” Ereka said enthusiastically, and beamed a smile at him. “Shall we go?”
+
+Ren raised a single eyebrow and she chuckled. He turned to Nathalia and her mother.
+
+“I'm heading to the mines for a minute, then into the city to where the windows are made.” Ren said. “They said it'll take a week for a stained glass window. I can't wait 20 weeks for the Church windows.”
+
+“Did you say 'Church'?” Nathalia asked.
+
+Ren nodded. “I'm having one built across the road from the Main House.”
+
+“For which god?” Narhilda asked and frowned. “You didn't even consult me about it.”
+
+Ren walked over to her and knelt. “My Lady, I wouldn't insult you, or the god you worship, like that.” He said and took her hand. “It's a Church for all 9 of them.”
+
+“A-a-all of them?” Narhilda asked, shocked. “You're building a Church for all of them?”
+
+“Don't worry.” Ren chuckled. “It's still a single building; but it's huge and each god has their own designated worship area.”
+
+Narhilda got over the initial shock, then smiled. “You really are a sweet and considerate man, dear.”
+
+Ren stood up and kissed her cheek. “Thank you, My Lady.” He turned and bent over to kiss Nathalia on the lips. “I'll be back as soon as I can; but, it'll probably be around suppertime.”
+
+“Go ahead and take a pastry then.” Nathalia said and gave him a hug. “I can't make you wait that long to taste it.”
+
+“I already tasted the dessert I really wanted.” He said and kissed her other ear. She blushed slightly and then spoke as she let him go.
+
+“See you soon, My Love.”
+
+“Bye, My Love.”
+
+Ren left the house and held the door for Ereka.
+
+“I could get used to that.” She said as she passed him.
+
+“I wouldn't if I were you.” Ren said and chuckled. “You might not be seeing a lot of me for a while.”
+
+“Why? Are you going somewhere?” Ereka asked.
+
+Ren shook his head. “No, but I've got a lot of work to do.”
+
+She smiled. “There's always work to do, if you're not careful.”
+
+He chuckled. “I've been pretty darn careless, then.”
+
+Ereka grinned as they walked through the gate. “And I've been way too careful this last year.”
+
+“I guess that means we balance each other out.” Ren said, helped her get in the back of the cart, then turned to the two messengers. “We're just going 2 miles down the road to the Main House.” He said. “You can ride or you can run.”
+
+“Run.” They said together, and Ren laughed as he climbed into the driver's seat.
+
+“Let's go.” He said to Princess, and they took off.
+
+A minute later, Ren dropped off Ereka and the boxes of books, in her office. As he built 2 cabinet shelves, he told Ereka that he wanted a huge pile of lumber ordered; and also 20,000 paving stones to start. He put the cabinet shelves next to the wall as the two messengers came into the lobby.
+
+“Are the books in order?” Ren asked as he opened one of the boxes.
+
+“That's all right.” Ereka said. “I'll get them up on the shelves and sorted.”
+
+“Okay.” Ren said. “Let me know if you need any more shelves built.”
+
+“I will.” She said. “Thank you.”
+
+He nodded slightly and went out to the lobby to the two messengers. He made 2 comfy chairs for them and they sat down.
+
+“Don't get too comfortable.” Ren said and smiled. “She's got a couple of errands for you to run.” He said. “I'll have a room built for you by tomorrow.”
+
+“That's not necessary, sir.” One said. “We shouldn't be here long enough to need our own space.”
+
+Ren shrugged. “You'll have it anyways.” He said then left the Main House. “Okay, Princess. You've been constrained for far too long by only running short distances.” Ren said and climbed into the driver's seat. “We're going to the mines.”

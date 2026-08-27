@@ -1,0 +1,405 @@
+---
+id: 56fc57a0-1bbc-5d41-b479-93d975b9db88
+page-type-slug: story-chapter-royal-road
+title: "Chapter 246 - Searching"
+slug: 0235-chapter-246-searching
+partOf: mythrans-master-of-all-continued-completed
+position: 235
+ownLength: 4073
+unit: words
+publishedAt: 2017-05-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134377/chapter-246-searching"
+royalRoadId: "134377"
+---
+
+“Do you want to have a look around while Denise gets fitted for a new bra?” Stella asked Ren.
+
+“Sure.” He said. “Let's pick out some nice things for her to try on.”
+
+“And by nice, you mean revealing and embarrassing, right?” Stella said and grinned.
+
+“I wasn't thinking that; but, now that you mention it...” Ren grinned back at her. “...that's a great idea!”
+
+They went around the store and picked out the most gaudy-looking and oddly-cut things they could find.
+
+*
+
+“You have got to be kidding me!” Officer Stonewall said as Detective Ramirez opened another one of the doors in the basement of the mayor's old house, and she saw what was inside. This one had a small observation area that looked into another room through a window in the wall. The room it looked into was completely barren except for a long metal table that was bolted to the floor in the center.
+
+“Well, damn.” Detective Ramirez said. “You stay here. I'll go next door.”
+
+Officer Stonewall watched through the window as her partner went into the room. He walked over to it, adjusted his hair, then knocked on the glass. She knocked back, and he nodded and left the room.
+
+“It's a big mirror on the other side.” Detective Ramirez said when he came back to the room she was in.
+
+“You don't think... oh, no.” She put a hand over her mouth.
+
+“Yeah.” Detective Ramirez said. “Mayor Danicot described in detail his observing the experiments.”
+
+“But... but he said he didn't touch...”
+
+“That doesn't mean he wasn't involved up to his eyeballs.” Detective Ramirez said. “Just that he never actually touched him.”
+
+“What do we do now?”
+
+“Keep looking.” He said. “If we can find enough obvious evidence, we can get an actual search warrant.”
+
+Officer Stonewall shook her head. “We aren't going to find anything.” She said. “It's been years since it happened.”
+
+“We can always hope.” Detective Ramirez said, turned around and went out into the hallway. “We can always hope.”
+
+Officer Stonewall followed him into the hall. They keep looking for something they knew they wouldn't find, and hoped.
+
+*
+
+“You have got to be kidding me!” Denise said, as she held up a tiny crop top with cut outs along the fabric. Stella and Ren laughed at her expression, and she tossed the article of clothing at them. “Please don't tell me they are all like that.”
+
+“Not all of them.” Ren said. “There's some nice things in the pile.”
+
+“All right.” Denise said, and shuffled through the clothes. She picked out a few things that actually were nice, and took them to the hidden changing room once Ren revealed the secret to her. She came out a minute later, wearing a red silky top that clung in almost the right places.
+
+“I see what you mean.” Lily said, and held the fabric up where it was supposed to go. “Ren is right. You're going to need at least some alterations to anything that you buy.”
+
+Denise sighed. “That's why I usually strap the girls in tight, or buy a size or more larger.” She said. “I don't have to worry about that when I do.”
+
+“But you have a great figure!” Lily and Ren said together, and Lily winked at him.
+
+“You shouldn't hide it like that.” Lily continued. “It's only a few bucks extra to change the way it hangs.”
+
+Denise looked like she was going to say 'screw it' and leave, so Ren spoke.
+
+“I promised you that I was going to get you new clothes, and you are going to get new clothes.” He said, and smiled. “You are going to go through this store and pick out the things you've always wanted to try on but didn't, only because they wouldn't fit.” He smiled. “And you are going to like it.”
+
+Denise snorted a laugh. “Ren...”
+
+“That wasn't a request, young lady!” Ren said and pointed to her. “Now get going! I want to see you in at least three different outfits in the next 10 minutes!”
+
+Denise rolled her eyes. “Fine.” She said and looked at Lily. “Get your double-sided tape ready.”
+
+“It's always ready!” Lily said enthusiastically as she pulled the roll out of a pocket. “Let's go!”
+
+*
+
+Officer Stonewall opened a door and frowned. “Joe! Come here!” She said, and he walked over to her. “What the hell is that thing?” She asked, and pointed into the room.
+
+“That is a sensory deprivation chamber.” Detective Ramirez said. “It's also a lot bigger than the doorway.”
+
+“So, either they built it in here, or had it in before they finished with the walls.”
+
+“Right.” He said. “I wonder why they didn't take it, like they took everything else?”
+
+“Maybe it's like the metal table in that room.” Officer Stonewall said. “They physically couldn't take it with them.”
+
+“Maybe.” Detective Ramirez said. “It's too bad we can't open it to see what's inside.”
+
+“I know.” She said. “Only visual inspection until we can get a warrant.” She sighed. “If we can get a warrant.”
+
+“Let's keep looking.” Detective Ramirez said. “There has to be something in here we can use as evidence.”
+
+*
+
+“No, I think you want the blue one.” Ren said, as Denise picked up an odd-colored dress. He couldn't tell what the color was, but he knew that he didn't like it.
+
+“You want me to buy everything in blue!” Denise said, and Stella laughed.
+
+“What's wrong with that?” Ren asked. “I like blue.”
+
+Denise shook her head and put back the dress she had in her hands, and picked up the blue one. She went into the changing room for a few minutes, then came out in a curve-hugging dress that had a modest cleavage reveal. The rest of the dress showed off her figure to full effect. She saw the look on Ren's face, and did a little turn for him.
+
+“Wow.” Ren said. “You look wonderful.”
+
+“Thank you.” Denise said. “I can't believe I have to admit that you were right.” She smiled crookedly. “Blue was definitely a better choice.”
+
+“She always sounds so surprised when I'm right.” Ren smiled. “Like that never happens.”
+
+Stella chuckled and Lily snorted a laugh.
+
+“How many is that now?” Stella asked.
+
+“Six outfits, two dresses, three extra tops, and two extra skirts to mix and match with the outfits. Also, the underwear options comparable for each.” Lily said. “4 pairs of shoes, and three custom bras.”
+
+“Only three?” Ren asked. “You don't need more than that?”
+
+“I shouldn't.” Denise said. “Lily said they won't have to be replaced for a long time.”
+
+“They usually last about 8 months.” Lily said. “With three of them, and regular rotation so the supports don't wear out too fast, they should be good for about two years.”
+
+“Really?” Ren looked surprised. “I only get about 3 months out of my underwear.”
+
+“That's because boys are hard on their underwear, unlike girls.”
+
+Stella covered her mouth to stop her laugh, but Ren chuckled.
+
+“What's so funny?” Lily asked.
+
+“Boys are hard on their underwear.” He said and grinned.
+
+“Oh, that's horrible!” Lily said and laughed.
+
+“I think that's everything.” Stella said, and looked at the piles of clothes. “Let's get all of this to the counter and Lily can get the alterations done.”
+
+Ren became the carry-it-all, and they covered him with the clothes. He laughed because he couldn't see, and Stella pushed him over to the counter. It took a while for them to get everything sorted once they were there. Lily took the tops as they found them and sewed the parts she'd used the double-sided tape on for the alterations. While that was going on, Ren had convinced Stella to grab a few things for herself. The sales clerk happily checked the prices on everything as she rang them in, and added in the new items when Lily finished them.
+
+“Here we go.” The sales lady said, and Ren added a nice tip when he paid for it. She handed him the receipts, and he tucked them into a pocket without looking at them. “Please come back anytime.”
+
+“Yeah!” Lily said. “It's always fun when you show up.”
+
+“If we need anything else, I'll make sure we come here for it.” Ren said, and waved as they left the store.
+
+*
+
+“Goddammit.” Detective Ramirez said as he opened the last door, and all that was there was a hospital bed bolted to the floor, and no mattress. “That was every room.” He said, his voice full of disappointment.
+
+“Do you want to check upstairs?” Officer Stonewall asked.
+
+“What's the point?” He asked, and walked into the room. “It'll be just as clean as the rest of the place.” He said, and sat down on the hospital bed's frame. It squeaked loudly, and he frowned. “This bed is bolted to the floor. It shouldn't squeak.”
+
+Officer Stonewall came into the room and knelt by the bed. “Move up and down a bit.”
+
+Detective Ramirez shifted his weight and the bed squeaked again.
+
+“Keep going.” She said, and he kept moving. As the bed squeaked, she examined the floor. “It can't be that simple.”
+
+“What is it?”
+
+“One of the bolts is missing.”
+
+“Goddammit.”
+
+“It was a long shot.” Officer Stonewall said, and sat down on the floor. “I don't know what we should do now.”
+
+“What do you mean?”
+
+“Obviously, this was where they had kept him.” She said. “But without evidence, there's no way we can connect the mayor to any of it.”
+
+Detective Ramirez sighed. “Yeah, we did all of this for nothing.”
+
+“Do you think we should come clean about...” Officer Stonewall's eyes fell upon a mark on one of the legs of the bed. “What's that?”
+
+“What's what?” He asked, and got off the bed to kneel beside her. “That little bugger.”
+
+“What is it?”
+
+“If you were a kid and wanted to hide something, and knew you had to keep it a secret or they'd take it from you, what would you do with it?”
+
+“I'd stash it in the smallest place that I could find, and cover it up.”
+
+“Right.” Detective Ramirez said and tapped the scrapings on the bed's leg. It was a badly drawn line, with 3 dots beside it and a dash by the third one. “If I'm right, in the third room up on the left side, there should be a place inside for him to hide something in.”
+
+“But we checked that room.” Officer Stonewall said. “There wasn't anything inside, just like most of the other rooms.”
+
+“We didn't know what we were looking for then.” Detective Ramirez said and smiled. “Now we do.”
+
+*
+
+Denise stopped at a fast food place and grabbed french fries for everyone, then parked in the parking lot. They had all missed lunch, but they also didn't have long to wait for supper. So, only a snack was needed to tide them over until then.
+
+“I wish I could get Amazon Jim's Endless Fries to go.” Ren said, as he popped a french fry into his mouth and chewed on it.
+
+“How would that work?” Denise asked and ate a fry herself. “Would you have them deliver a new plate every 10 minutes or something?”
+
+“Yeah!” Ren said and ate a fry. “Can you imagine? Endlessly delivered french fries.”
+
+“You'd put them out of business!” Stella said and they all laughed. The fries were quickly consumed and they drove back to the temporary care facility. Denise pulled into the parking lot, and found a spot not too far away from the front door. They got out and set up the wheelchair, and Ren got in it.
+
+“Are you coming in for a while?” Ren asked Denise, and she shook her head. “I've got a few more things that I need to do in town today.”
+
+“You should have said something before.” Ren said. “We could have come along to keep you company.”
+
+“I don't think you want to come along and wait in line while I pay bills.” Denise said.
+
+“Hey, I would have.” Ren said. “I just have to sit there. Stella would probably choke you out for wasting her time, though.”
+
+Stella snorted a laugh and shook her fist at him. “Damn right!”
+
+Denise picked out the two bags that had Stella's things in them, then handed them to Ren to hold.
+
+“Ren, I...” Denise sighed and knelt beside him. “Thanks for making me go and get clothes that fit.”
+
+“I promised you that I would.” Ren smiled. “Now you can wear what you want and won't have to worry that you're hiding how hot you are.”
+
+“Lily was right.” Denise laughed. “You are horrible.” She shook her head. “I feel kind of bad that you didn't buy anything for yourself, though.”
+
+“But I did.” Ren said and grinned. “I bought that sexy blue dress for me.”
+
+“You're going to look so beautiful wearing it, Ren.” Stella said.
+
+“Hey, I could never sway my hips enough to look good in that!” Ren exclaimed. “I'd break something if I tried!”
+
+Stella and Denise laughed for a few moments, then Denise got a serious look on her face.
+
+“All joking aside, it must have cost a lot to...”
+
+“Don't worry about that.” Ren said. “I got to see you so happy today.” He touched the side of her face. “That was worth any price I had to pay.”
+
+“Oh, Ren.” Denise said, leaned in, and gave him a quick kiss. “Thank you very much.”
+
+Ren had expected a hug, or even a light peck on the cheek; but, a kiss right on the lips had surprised him a little. It sent a tingle through him and it widened his eyes slightly. Denise saw his reaction and smiled sweetly.
+
+“You better get inside and get to bed.” Denise said. “By the looks of you, you need a nap even more than I do.”
+
+Ren nodded, and she stood up.
+
+“See you tomorrow.” Denise said.
+
+“Bye, Denise.” Stella said, and pushed the wheelchair towards the front door of the temporary care facility.
+
+*
+
+Detective Ramirez was sure he'd deciphered the diagram. Officer Stonewall had been right, however. There was literally nothing in the room. No windows, no shelves, cracks, loose tiles, or anything.
+
+“He was smart. It would be both obvious and hidden.” He said, looked around again, then sighed and hung his head. “Dammit, I was so sure-HA!”
+
+“What?”
+
+“Look! It was right in front of us the whole time!” Detective Ramirez said, and pointed to the small water drainage hole in the floor.
+
+“No way.”
+
+“It's the only place.”
+
+“If it's connected, there won't be anything inside.” Officer Stonewall said as her partner used a pen to pry up the little grate.
+
+“Pass me your flashlight.”
+
+She handed it to him, and he used it to shine into the open hole.
+
+“Bingo!” Detective Ramirez said, and went to reach into the hole, only to have room for three of his fingers. He sighed and looked at his partner. “My hands are too big.”
+
+“No.” Officer Stonewall said. “Double no.” She shook her head. “Hell no!”
+
+“Come on, do it for the kid.” Detective Ramirez said and she sighed.
+
+“You can be a real ass sometimes, John.” Officer Stonewall said and knelt by the hole. “This is going to be disgusting.”
+
+Detective Ramirez smiled and repeated the words she had said when they had broken into the basement. “Hey, I got you covered partner.” He said, and handed her a pair of latex gloves.
+
+“Thank you!” Officer Stonewall said, slipped them on easily, and plunged her hand into the pipe. She moved her hand around a little, and her fingers hooked something. “I think... I... got it!” She said, and pulled out a plastic bag. A rank smell came up from the pipe, and they covered their mouths and noses.
+
+“Put it back!” Detective Ramirez said. “Hurry, before the methane fills the room!”
+
+Officer Stonewall went to stuff the bag back into the hole, and heard something hit the floor. She stopped and checked the bag.
+
+“What are you doing?” Detective Ramirez asked her, but she ignored him and untied the bag. Inside was a bolt. Neither of them said anything as she kept the bolt and shoved the plastic bag back into the drain. It cut off the source of the smell, but the room had a lot of the fumes in it now.
+
+“Let's get out of here.” Officer Stonewall said, and they left the room. “So, it was a wild goose chase.” She said when they were in the hallway.
+
+“Maybe.” Detective Ramirez said and took the bolt. “Let me check something.” He walked down the hall and went to the bed. He bent down and tried the bolt where the missing one was supposed to be, but it didn't fit. It was much too small. He smiled and went out to Officer Stonewall.
+
+“It's not from the bed.” Detective Ramirez said. “It's too small. We have to find where this came from.”
+
+“We've spent a good portion of the afternoon here already.” She said. “Should we waste any more time with this?”
+
+“I've got nothing better to do today.” He said and smiled. “Do you?”
+
+Officer Stonewall opened her mouth to say that she could be working on another case, but she saw the gleam in her partner's eye.
+
+“Let's keep looking.” She said, and he grinned at her. They went into each room again to check for something that would need a bolt of that size.
+
+*
+
+Stella got Ren settled into bed a few minutes later, and he checked the time.
+
+“There's no point in logging in.” Ren said and sighed. “I'd have to log back out for supper soon anyways.”
+
+“Are you sure?” Stella asked. “You could get almost two hours of sleep if you log in.”
+
+Ren smiled. “Uh huh. Like Nathalia would let me sleep if I only had two hours and had to leave again for the night.”
+
+“That's true.” Stella said. “Well, you could try to take a nap for the next half hour.” She barely had the words out of her mouth, and then the phone beeped. She picked it up and checked the text message. “Elise wants to know what you're having for supper.”
+
+“What am I having?” Ren asked.
+
+“I'd planned on a pork chop and a bit of mashed potatoes.” Stella said. “The pork chops should be done in about 10 minutes.”
+
+“Hm. Pork chops sounds good, but see if she has anything planned.” Ren said. “She might have picked something up.”
+
+Stella sent her another text to ask her, and a moment later the phone beeped. “She says she could pick up something if you want.”
+
+“How many pork chops did you cook?”
+
+“Four.” Stella said. “They've been slow cooking all day.”
+
+“Nice.” Ren said. “Can I invite her to join us for a meal?”
+
+“Us?”
+
+“I'm not going to sit here and eat your food, while you go sit in the break room or wherever, just so you can eat yours.”
+
+“Don't worry about that.” Stella said. “I think you and Elise might want to share a nice dinner together.”
+
+“But...”
+
+“It's not like we have a big table here for everyone to sit around and have a meal on.”
+
+Ren slapped himself in the forehead. “Dammit, I completely forgot to shop for a house!”
+
+“You've been kind of busy.” Stella laughed. “We can look at some listings after you eat.”
+
+“Okay.” Ren said. Stella sent Elise the dinner proposal for Ren, and then the phone beeped again.
+
+“She'll be here soon, and she's looking forward to it.”
+
+“Thanks, Stella.”
+
+“Don't thank me yet.” Stella said, cleared off the rollaway table, and took out a candle that was supposed to be used in emergencies, in case the power went out. “Wait until I get things set up first, then you can thank me.” She put a small vase with a flower in it on the table with the candle. “No, that's a little too plain.” She said, then looked around. “Ah, there we go.” She grabbed a decorative cloth from the back of one of the chairs. Once the candle and vase were moved out of the way, she put the cloth on the rollaway table and put the candle and vase back on top of it. “Much better.”
+
+“You're enjoying this.” Ren said, and she smiled.
+
+“I'm taking care of you, and that makes me happy.” Stella said. “Now lay there and be good, while I go and get the mashed potatoes started.”
+
+“No! I'm going to kick and scream, and make a huge ruckus until you get back!” Ren said and grinned at her.
+
+“You better not, you rascal!” Stella chuckled, and went to the door. “If you need anything, just holler.” She opened the door and set the stopper into place to hold it open. Ren watched her go across the hall and into the kitchen. She propped that door open as well, so she could see back into Ren's room easily. First she checked the pork chops, then started to peel and chop up the potatoes. It went fast, and they were washed off and put into the water to boil. Stella came back into the room after washing her hands, and left both doors open.
+
+“You watched me the whole time?” Stella asked. “You were supposed to try and get some sleep.”
+
+“I was going to, but you distracted me with your awesome cooking skills.”
+
+“I did?” Stella asked, kind of surprised.
+
+“Yeah.” Ren said. “I especially liked it when you bent over to check the oven.” He let a grin spread across his face. “That's a great skill right there.”
+
+Stella laughed and ruffled his hair. “That's not really a skill; but, at least you're honest about liking it.”
+
+“I learned from the best.” Ren said, and looked at his watch. “Do you think the food will be done soon? Elise should be here any minute.”
+
+“Any minute is actually right now.” Elise said from the doorway. “Hey, cutie.”
+
+“Hey, yourself.” Stella said before Ren could, and they both smiled at Elise's surprised expression.
+
+“I... ah...” Elise tried to say. “I meant...”
+
+“I know who you meant.” Stella chuckled and walked past her. “Supper should be ready in a few minutes.”
+
+“Thanks.” Elise said. “Are you joining us?”
+
+“Not this time.” Stella said and went into the kitchen. “I'll let you two enjoy your first dinner alone.”
+
+“You don't have to.” Elise said, and lifted the bag she carried. “I brought some diet-approved ice cream for dessert.”
+
+“I'll stick that in the freezer for you.” Stella said, and took the ice cream from her. “Now get in there and kiss your boyfriend.”
+
+“Yes, Ma'am.” Elise grinned. “You don't have to tell me twice.”
+
+“I shouldn't have to tell you once.” Stella rolled her eyes, and Elise laughed.
+
+Stella went back into the kitchen and shut the door, and Elise hit the stopper on Ren's door to shut it as well.
+
+“Hi, Ren.” She said, a little shyly.
+
+“Hi, Elise.” Ren said. “Don't mind Stella. She likes to tease people sometimes.”
+
+“I know.” Elise said. “I went through a lot of it while you were... um...”
+
+“Drugged to the eyeballs and unconscious for a week.” Ren said and smiled. “It's okay to say it.”
+
+“But that's just it.” Elise said and slowly walked over to the bed. “It shouldn't be okay to say it.” She sat down on the chair beside the bed, and Ren moved over close to her. He cupped the side of her face, and looked into her eyes.
+
+“It was bad, I won't deny it.” Ren said softly. “But you were there for me.” He said. “You got me out of there and saved me.” He put a gentle kiss on her lips. “I'm doing so well now, and it's all because of you.”
+
+“Ren...” Elise said, and her face flushed a little red. “I only did what any...”
+
+Ren stroked the side of her face. “If you think that anyone could have done what you've done for me, then you are underestimating yourself.” He said. “I, on the other hand, know exactly how amazing you are.”
+
+“Oh, Ren.” Elise said, and kissed him.

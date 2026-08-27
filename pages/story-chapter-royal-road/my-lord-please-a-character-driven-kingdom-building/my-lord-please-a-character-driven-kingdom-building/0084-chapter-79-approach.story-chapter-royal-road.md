@@ -1,0 +1,221 @@
+---
+id: b78e5ae4-11f5-58d8-be57-e56da236fbf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79 Approach"
+slug: 0084-chapter-79-approach
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 84
+ownLength: 2114
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3543983/chapter-79-approach"
+royalRoadId: "3543983"
+---
+
+The air around the slaking pits carried the unpleasant scent of wet stone and charcoal, further emphasizing the need to build proper kilns at the outpost instead of keeping them so close to the village.
+
+They had walked some distance from the pits and now stood a little farther from the worksite when Talia spoke first.
+
+“You’re going to the outpost tomorrow, right?”
+
+Lucien gave a nod as he let his gaze linger on the kilns before turning toward her. “It seemed like the best time to do so before I have to go to Helvarn a few weeks from now.”
+
+At the mention of the meeting in Helvarn, Talia’s expression shifted into something more thoughtful. “We still don't know what their agenda is. It's too bad I can't attend that one with you.”
+
+He gave a nod in agreement. “At Helvarn, the social hierarchy is enforced far beyond my control. You attending would likely draw the opposite kind of attention.”
+
+She exhaled through her nose as she stretched after crouching for so long. “Tell me about it. I was only there for a few months, but having to act like a proper lady half the time is exhausting.”
+
+Lucien found the thought of his junior behaving with anything resembling the grace expected of a lady mildly amusing. A faint twitch touched the corner of his lips.
+
+Talia’s eyes narrowed a moment later in suspicion.
+
+Before she could voice it, he spoke first. “Have you seen Sera today?”
+
+Her suspicious look lingered for a brief moment before a familiar curve appeared on her lips. “Oh my, Senior. I can't believe you are tired of me already, going off to find your other girl now?”
+
+Lucien ignored the teasing and continued. “She is coming with me to the outpost tomorrow as a tracker. There is something I wanted to ask her.” He glanced around briefly before adding, “It's regarding the mana-infused area.”
+
+Talia’s eyes sharpened. “So, you are going to check it out after all?”
+
+He nodded, prompting a long-suffering sigh from her.
+
+"Still think it's a bad idea for you to go there personally," she placed one hand on her hip, her usual playfulness absent as she looked at him. “There's a reason the locals avoid that place, Senior.” Her voice was softer now, stripped of its usual light tone.
+
+It was not the first time they had this conversation. In a strange reversal of their usual roles, Talia was the one trying to stop him from doing something reckless this time, rather than the other way around.
+
+Lucien shook his head lightly. “Normally, I would agree with you, but the place is too close to Ashridge to ignore.”
+
+His gaze shifted briefly toward the southwestern ridge beyond the palisade. “At the very least, I need to see it for myself and determine whether it might be of some use to the village, or if there are any threats to take note of.”
+
+She looked like she was about to continue arguing, but paused midway before letting out another sigh. “I know. Still, just be careful, alright?”
+
+Lucien’s brow lifted as he regarded her. “I am not the type to take unnecessary risks, Talia.”
+
+At his words, she gave him a pointed look before shifting her eyes toward the nearest palisade wall.
+
+“Uh huh. Right.”
+
+Lucien looked away at that.
+
+Talia had not been particularly impressed when she first heard about his actions during his first winter in this world. She had initially assumed that staying in Ashridge meant remaining inside the manor during the attack, not standing upon the walls themselves.
+
+After a lingering moment, she gestured toward the edge of the slaking pits. “Anyway, if you are looking for Sera, I last saw her there earlier this morning. She was watching the charcoal burners work for a while.”
+
+She folded her arms and tilted her head. “She wasn't here very long though. Probably headed back to the manor after her hunts like usual.”
+
+Lucien gave a nod as he looked up toward the sky. It was nearly midday, though Talia’s words made him glance back at her a moment later.
+
+“You were here all morning? Are you leaving the shop to her again today?”
+
+Talia looked away sheepishly. “Hey! She told me she doesn't mind, and besides, I am doing pretty important work here too!”
+
+“Yes, important work. Such as arguing with a man over whether rocks are being thrown hard enough.”
+
+“See ya later, Senior. Check the manor, she's probably there!” she called before immediately turning and walking back toward the pits, far too quickly for someone pretending not to run away.
+
+Lucien exhaled softly through his nose.
+
+Talia hated work that was routine in nature, and running a shop was as routine as it got. He suspected it had always been her plan to have someone else manage the shop while she handled the more interesting work herself.
+
+He remained there for a moment longer, watching the laborers moving between the pits and the kiln before finally turning to find Sera.
+
+The walk back toward the manor carried him through the slower rhythm of midday in Ashridge.
+
+The distant sound of Joren’s forge carried faintly through the village as he passed villagers moving through their day. A farmer stopped him along the way and asked if it was true that the militia would soon be using some strange new kind of bow.
+
+He gave the man only a simple confirmation. There was no reason to explain too much about a weapon that might change the way war was fought in this world, but the farmer seemed satisfied with that alone and soon went on his way.
+
+There were several places he had expected to find Sera at this time of day.
+
+Before any of those possibilities could prove true, however, what he saw near the well outside the manor made him slow his steps.
+
+Sera was there.
+
+She was not alone.
+
+A familiar child stood close beside her with the sort of fearless confidence he had come to know well. The smallest girl continued speaking at length in a way that had always reminded him strangely of Talia, though far more adorable than his nosy junior.
+
+That was not what surprised him.
+
+It was the fact that Sera remained where she was near the well with her usual unreadable expression and, more surprisingly, a scrap of parchment in one hand and a piece of charcoal in the other.
+
+A woman's voice called from nearby. "Cora! Stop bothering her with your constant questions again."
+
+Cora jumped slightly before turning to her. "I am not! She doesn't mind."
+
+She spun back to look up at Sera. "Right? You don't mind, right?"
+
+Sera tilted her head briefly before giving a small nod. Cora puffed up immediately.
+
+Lucien stopped a short distance away, though Sera had clearly noticed him. Her gaze flicked toward him briefly before returning to Cora.
+
+“Have you hunted goblins before? How many can you hit? How far can you hit them from?”
+
+The questions came one after another with the relentless patience only children seemed capable of.
+
+Sera tilted her head for a moment before writing her answer down, the same deadpan expression never leaving her face.
+
+Yes. Five. Far.
+
+Cora's eyes widened. “Wow, five of them! How far is far? Is it here?”
+
+She ran a short distance from the well and waved both arms energetically.
+
+Sera looked at her with entirely too much consideration for what should have been a child’s simple question. Then she walked farther away, stopping at a distance that Lucien suspected matched the range of a hunting bow.
+
+As soon as the hunter stopped, Cora came running after her. “That’s sooo far!”
+
+She turned back toward the well as though trying to measure the distance again, and only then did she notice him.
+
+“Lord Lucien!”
+
+She waved happily. “I was asking your girl how far she can shoot her bow!”
+
+His brow twitched before he took back the earlier thought that she was more adorable than his junior. Clearly, they were the same breed of trouble.
+
+Without waiting for his response, Cora turned back toward where she had run to only moments ago, her brows scrunched with the sort of seriousness only children could give to very important matters.
+
+Then she pointed at a spot that was still off by several paces.
+
+“It’s that far! Right there!”
+
+She whirled back toward him with wide eyes full of accusation. “Lord Lucien, how come you can’t shoot that far?”
+
+Lucien glanced toward where she pointed before looking back at her impatient stare.
+
+He gave a light shrug in response.
+
+That only made her gasp softly, as though he had just admitted to some terrible personal failing. Before she could give voice to that judgment, he spoke first.
+
+“Perhaps I should have Sera teach me how to use a bow,” he replied dryly.
+
+That had been the wrong thing to say.
+
+It became clear the moment Sera’s dull eyes gained a sudden spark that made him pause. She stared at him critically, looking him up and down for several moments before giving a firm nod.
+
+Before he could explain that it had been a joke, Cora let out an excited sound.
+
+“Really? Really really?”
+
+She bounced once before turning toward Sera, her head tilted upward with admiration. “Wow! Lord Lucien is going to learn how to shoot like you? Can he hit goblins too? Can he shoot five of them? Can I watch?”
+
+Sera’s gaze shifted toward her, and she gave another firm nod before writing on the parchment with strokes far quicker than usual.
+
+Then she turned it around for both of them to see.
+
+He will.
+
+Lucien decided it had gone far enough and was about to interject.
+
+Instead, his gaze lowered as he began to seriously consider it.
+
+He had thought about learning the sword himself during his first weeks in this world, but that idea had been set aside almost immediately when his brief attempts at it didn't yield the same instinctive memories that came with riding a horse.
+
+It would have been an inefficient use of time to attempt to train in something others had spent years trying to master. Simply learning how to be a leader had already taken most of his attention.
+
+During the Tithe season, when every hour carried weight and every decision had consequences, there had been even less room for personal martial skill.
+
+When his eyes finally lifted, Cora had apparently taken his silence as agreement. He could already hear her running toward her usual group of friends, loudly announcing to anyone willing to listen,
+
+“Lord Lucien is going to learn the bow from Sera!”
+
+At least she wasn't shouting something ridiculous like his girl across the village.
+
+He glanced at Sera, who was still waiting patiently. Upon meeting his eyes, she turned her parchment again, clearly having written it while he was considering the thought.
+
+Now?
+
+Lucien shook his head, one hand lifting briefly to rub at his temple.
+
+Sera’s shoulders lowered as she slowly brought the parchment down.
+
+At the sight, he exhaled softly. "I am serious about learning it, but not today. Perhaps sometime this week you can teach me the basics."
+
+She paused at that before her hand lifted to touch the red leather case slung across her back once, then nodded firmly.
+
+Lucien gestured toward the manor. “Let us head back while we talk. It is regarding tomorrow’s visit to the ridge outpost.”
+
+At his words, she fell into step beside him on his right.
+
+He continued a moment later. “After we visit the outpost tomorrow, before we return to Ashridge, I would like you to bring me to the place you mentioned.”
+
+The hunter halted, causing him to stop as well. Her pale eyes met his for a long moment before she tilted her head.
+
+He gave a faint nod, understanding the question behind it. “Yes. I am sure. I know it could be dangerous, but I would at least like to see it for myself.”
+
+Sera shook her head then reached for the parchment once more and began writing in slow, deliberate strokes.
+
+When she turned it toward him, only a single word was written there.
+
+Uncomfortable
+
+Lucien’s brow furrowed faintly. “It's not dangerous?”
+
+She inclined her head once before lowering the parchment again.
+
+That answer did little to ease his thoughts. If anything, it made the matter worse.
+
+As they resumed walking toward the manor, Lucien found his mind already moving ahead to tomorrow.
+
+It seemed the ridge outpost would not be the only thing waiting for him there.

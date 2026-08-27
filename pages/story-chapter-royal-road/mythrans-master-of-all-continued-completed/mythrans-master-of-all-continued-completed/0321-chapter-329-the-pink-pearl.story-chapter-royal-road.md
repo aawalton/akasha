@@ -1,0 +1,393 @@
+---
+id: 78e03d2b-f75f-509c-9184-a8f4ab6e210e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 329 - The Pink Pearl"
+slug: 0321-chapter-329-the-pink-pearl
+partOf: mythrans-master-of-all-continued-completed
+position: 321
+ownLength: 4148
+unit: words
+publishedAt: 2017-08-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154912/chapter-329-the-pink-pearl"
+royalRoadId: "154912"
+---
+
+The waitress leaned down and tucked her face by his ear. To everyone else it looked like she was kissing him, but what she was actually doing was talking to him.
+
+“Thank you, kind sir.” She whispered.
+
+Ren pat her knee where his hand now rested, and she relaxed into him because she had a feeling what he had just done was about as far as he wanted to go.
+
+“I like to cuddle, too.” She said when she lifted her head to look at him. Ren beamed a smile at her, because she had gotten his subtle hint that all he wanted to do was cuddle.
+
+*
+
+“I thought Janice quit this part of the business.” One of the women said.
+
+“Shh! She just saved our asses!” Jennifer said.
+
+“What do you mean?” Another asked.
+
+“With her taking care of the short one, now there's 6 of us!” Jennifer reminded them.
+
+“Oh! You're right!” She said, and the women broke up their impromptu meeting and went to their favorite customers, and the background music became louder and made hearing other conversations much harder to do.
+
+*
+
+“Oh, baby.” Billy said as Jennifer turned around and very slowly sat down. He reached out to help guide her hips, and she wiggled them a little. He chuckled and let her go, and she pushed back to rest her backside on his abdomen. Then she slid down and rubbed herself across his mid-section to see that he really enjoyed what she was doing, then she turned around to straddle his lap.
+
+The other women did a similar move, with some variations; to make sure to gain the most thrills from their customers and maximized the utility of their chosen outfits. Since each man was a different height and had different tastes, each woman had a personalized routine for pleasing the men they had chosen.
+
+“I'm Janice.” The waitress said to Ren. “What's your name?”
+
+“Ren.” Ren responded.
+
+“Well, Ren.” Janice said. “Do you want me to do my old Seduction Number 5 routine?”
+
+“Number 5?” Ren asked and raised a single eyebrow at her. “What happened to numbers 1 through 4?”
+
+“They failed miserably.” Janice smiled and touched his eyebrow. That's so endearing. She thought and looked down at her top. It was a cut down tunic that revealed a classic bra, and it highlighted her assets nicely. She unbuttoned the two buttons that held it closed, and her top sprung open. Ren looked at her chest, because that was what she wanted him to do, then he looked back at her face. She moved her hand in his peripheral vision, and she lightly caressed the edge of her bra and along the soft mounds of flesh concealed within.
+
+Ren reached a hand up and touched her hand to stop it from moving, without looking away from her face. “You don't have to do this.” He whispered to her. “I know people are a little uncomfortable with how... small... my body is.”
+
+“You're a halfling.” Janice smiled sweetly at him. “Of course your body is small.”
+
+Ren looked at her with newfound respect. “Janice, I can honestly say you've surprised me.” He said and discretely pulled a gold coin from his coin pouch. “I've been in this world for... a very long time... and you are the first person... ever... to not mistake me for a child.”
+
+Janice laughed and it was a pleasant sound to his ears. “You wouldn't have gotten in here if you were a child.” She said, and Ren slipped the gold coin into her hand. She put the coin into her inventory without looking at it and leaned over to hug Ren closely. It gave him an up-close and direct view of her cleavage, and he appreciated the dedication she had to her task.
+
+“So.” Janice whispered into his ear. “Do you really only want to cuddle?”
+
+“Yes.” Ren said. “I have several women waiting for me back home.”
+
+“What?” Janice asked and looked at him. “Why are you here?”
+
+“My new friends invited me out to celebrate joining their party, and I couldn't really say no.”
+
+“Oh.” Janice said a little sadly, and started to pull away from him. “You don't really want me to hang all over you like this, then.”
+
+Ren reached up and touched the side of her face. “I wouldn't have asked you to if I didn't.”
+
+“But... you just said...”
+
+Ren smiled at her. “Even if I had a hundred women waiting for me, I'm not going to pass up a chance to cuddle with a woman like you.”
+
+Janice blinked her eyes at him. “You're getting this at home for free, and yet you're going to pay me, have paid me, just to cuddle?”
+
+Ren chuckled. “I wouldn't normally.” He said. “But you know what they say. When in Rome...”
+
+“...do as the Romans do.” Janice finished for him. “So, if one of the other girls had come over to you first, would you pay them to cuddle with you?”
+
+“No.” Ren said. “They prefer the other guys. They are their regular customers, I think.” He smiled. “I can see the girls have worked out routines for each of them.”
+
+Janice nodded. “They come in once a week or so and drop a few gold coins.” She said. “It's become a regular thing.” She sighed. “Well, I guess old Seduction Number 5 has failed.”
+
+“Oh, I wouldn't say that.” Ren said and pulled Janice in a little closer. She felt a distinct something touch her thigh through Ren's clothing, and her eyes widened.
+
+“Was it my awkward fumbling with my tunic, or my terrible attempt at conversation?”
+
+“It was you treating me normally.” Ren said, and Janice made that little 'o' of surprise with her mouth.
+
+“Wh-what?”
+
+“The other girls looked like they were debating on whether or not they could handle trying to seduce me.” Ren said. “You, on the other hand, were honest about it and gave it a try.” He smiled at her. “That's pretty endearing.”
+
+Janice smiled, because she'd had a similar thought about him only a short while ago. She saw out of the corner of her eye one of the men pick up an empty tankard, then put it down. “I think your friends need more ale.”
+
+“Oh!” Ren said, picked up his tankard, then upended it into his mouth and drained it. “I do, too.”
+
+Janice stared at him with wide eyes, and he chuckled.
+
+“Please get a round of ale for me and my friends, dear lady.” Ren said, a bit formally. Janice stood up with a quickness she hadn't shown before, and nodded.
+
+“Right away, sir.” Janice said, picked up her serving tray, and left the back room.
+
+“Way to go, Ren!” Tommy said.
+
+Ren saw that Tommy was getting quite the lap dance from the woman attending to him, and Ren didn't understand why she was gyrating like she was and whipping her head around so much. All it really did was fling her hair around, for no reason that he could think of.
+
+“You're quite the ladies man, huh?” Tommy asked.
+
+Ren shook his head. “Not really.” He said. “I've only got a few of them on the go.”
+
+“Only a few, he says!” Tommy said and laughed. Janice came back in with more ale for everyone, and handed them to the other guys. She picked up the last tankard and put her tray down, then carefully sat down on Ren's lap again.
+
+“Your ale, sir.” Janice said, and held it out to him. Ren took it and put it down, then paid her with 5 silver coins, even though the drinks only cost a silver and 20 copper. “Ren...”
+
+“I hope that's a big enough tip.” Ren said, and he watched as she got that look of someone sorting through their inventory.
+
+“You gave me a gold coin before!” Janice exclaimed, and the other girls stopped what they were doing to look at her. “Ah, I mean... come with me!” She said as she stood up, grabbed Ren's hand, and started to walk away. Ren hopped up and followed her so that she didn't hurt herself trying to move him against his will.
+
+*
+
+“Did she just...” One of the women said.
+
+“I can't believe that...” Another of them said.
+
+“Go, Ren! Go!” Tommy said.
+
+“Going all out for his first time in a club!” Hank said and laughed. “He's got guts!”
+
+“He shore does.” Clint said and took a drink of the ale Ren bought. “He shore does.”
+
+*
+
+Janice led Ren out of the curtained-off area in the back, then through an unmarked door. He looked around and saw that it was just stark black walls. No markings, posters, advertisements, or anything else you would expect. They passed several doors with 'Occupied' signs on them, and Janice opened one of the unmarked doors. She hung the 'Occupied' sign on the front of it, and took Ren into the room.
+
+Ren looked around and examined everything. It was also stark and bare like the hallway, with only a bed and a mirror in the room. He knew what that meant, and tried to identify the mirror. He didn't get anything, so he activated Enchanted Eyes and looked at it. It glowed, and Ren walked over to it.
+
+“What did you give me a gold coin for?” Janice asked. “I thought you said you only wanted to cuddle!” She said, a bit indignantly. She wasn't sure why she was angry at him for wanting to sleep with her, except that she thought he seemed like an upstanding guy and that he had lied to her about it.
+
+Ren stood by the wall, off to the side of the mirror, and held a finger to his lips in a clear 'be quiet' gesture. Janice didn't like it when customers told her to be quiet, though.
+
+“Look, you better answer my question!” Janice said.
+
+Ren reached a hand out and touched the mirror.
+
+“What are you-EEK!” Janice let out a little scream. Ren had used his Dismantle Glyph ability and the 'mirror' enchantment broke apart. He learned a new rune called False Mirror, and all that was left was a clear pane of glass; and a very surprised man sat behind it.
+
+“What the hell is this?!?” Janice exclaimed. “This is the private area! No one besides the girls and the customers are supposed to be in here!”
+
+The startled man got up and quickly left the area on the other side of the glass. Ren looked through the window, and saw a small hallway that looked like it ran the whole length of the private area.
+
+“It seems the management is making a bit more money from the girls working with the customers than anyone realized.” Ren said.
+
+“You!” Jen said. “Answer my question!” She said and stalked over to him. “Why did you lie to me?”
+
+“Lie to you?” Ren asked. “About what?”
+
+“You said you only wanted to cuddle, but you gave me a gold coin!”
+
+“Yeah, and?”
+
+“A gold coin is the signal for sex!” Janice said.
+
+“Oh.” Ren said. “I'm sorry for the misunderstanding. Can you give it back?”
+
+Janice looked at him with surprise, since she hadn't had a gold coin given to her in a while; but, she took out the gold coin and handed it to him without comment.
+
+“Thanks.” Ren said and put it into his coin pouch. “Hold out your hands.” He said and took out 100 silver coins and put them into her cupped hands. “Is that better?”
+
+Janice looked at the pile of silver coins and didn't know what to say.
+
+“Do you have a good coin pouch?” Ren asked her, and she shook her head. He took one out and gave it to her. She put the silver coins in it, then dumped the tips from her inventory into it and stored it.
+
+“Ren, I...” Janice wasn't sure why she felt like she should apologize for her behavior, whether that behavior was irrational or not. “I'm...”
+
+“...probably pretty upset that the girls aren't getting a cut of the peeping customers revenue.”
+
+“Hey, you're right!” Janice said. “I wonder how much they would have gotten...”
+
+“...and I wonder how long they've been charging for it.” Ren said.
+
+“Come with me!” Janice said and took Ren's hand again. He followed where she led, and she took him out of the private area, through the main room, and to the employee only door.
+
+“The sign says...” Ren tried to speak, but Janice ignored his words. She opened the door and took him inside, and he didn't finish his feeble attempt to protest. She walked by the dressing room that had several half-naked girls in it, and knocked on the manager's office door. She didn't wait for a response, opened it, and went inside. It was an ornate office with a big desk, a fancy couch, and lots of useless expensive things that people thought made them look important.
+
+“Connor! What the hell are you doing having peeping toms in the private rooms?!?” Janice asked the manager.
+
+“How did you find out about that?” Connor asked.
+
+“This customer showed it to me.” Janice said, completely throwing all of the blame onto Ren.
+
+“Thanks a lot.” Ren mumbled.
+
+“Why did you do that?” Connor asked him.
+
+“I saw the mirror in the private room.” Ren said. “It was obvious.”
+
+Connor sighed. “It's an exclusive perk for well-paying members of a private club.” He said. “They don't like to participate, but they do like to watch.”
+
+“That's... that's...” Janice tried to come up with some kind of argument.
+
+“Human nature.” Connor said. “We just cater to what people want.”
+
+“But-” Janice tried to talk, and Connor cut her off.
+
+“You're fired.” Connor said. “If you tell anyone about what's going on here, you'll owe your contract's penalty fees.”
+
+“Aw, dammit!” Janice said. “You can't fire me over this!”
+
+“Why not?” Connor asked her. “All you do is serve drinks these days. You're not bringing in the clientele you used to.” He looked at Ren. “Not at all.”
+
+Ren chuckled. “She didn't bring me here.” He said, then thought about it. “Well, she brought me in here, but not into-”
+
+“That doesn't matter.” Connor said, and cut Ren off. “I'm going to have to ban you from the premises, so you'll stop causing trouble.”
+
+Ren laughed at that. “Mister, you don't know what Trouble is.”
+
+“Are you threatening me?” Connor asked, incredulous.
+
+“No.” Ren said. “I'm saying I've been in, and in some cases caused, a lot of Trouble.” He said. “This is literally nothing compared to that.”
+
+“You're marginalizing me so significantly?” Connor stood up. “You don't even know me!”
+
+“Are you an Adventurer?” Ren asked to Connor's surprise. “If you are, then you're being awfully stupid and I won't listen to your petty tirade any further. If you're not an Adventurer, then you're being stupid on purpose and I refuse to listen to your petty tirade any further.” He smiled. “So, which is it?”
+
+Connor frowned. “Either answer garners the same result.”
+
+“Yes, it does.” Ren said, and Connor sighed.
+
+“She's still fired.” Connor said and sat back down. “I can't have people poking their noses around like that.”
+
+“That was kind of my fault.” Ren said.
+
+“I don't care.” Connor said. “I'm still going to ban you; but on second thought, I don't want to cause a scene, so it won't be forcibly.” He said. “You can tell your friends whatever you like, but don't come back here again.”
+
+“Agreed.” Ren said, and looked at Janice. He still had a hold of her hand, and he gave it a little squeeze.
+
+“Clear out your things, Janice.” Connor said and took out her contract. He wrote 'fired for misconduct' on it under the completion terms, and it glowed for a moment. He picked it up and tore it in half, and in half again. It was a bit dramatic, but it did show Ren that her contract was officially terminated.
+
+“I hope you have a good life.” Connor said, and waved a hand in dismissal. Janice stood still, obviously in shock that her life had changed so drastically in only a few minutes, and Ren tugged on the hand he still held. He opened the office door and guided her out into the hallway. Once the office door shut, she took a deep breath and sighed.
+
+“Well, I guess that's that.” Janice said, and went into the change room to gather her things. She kept a hold of Ren's hand and brought him in with her. Several of the girls there stared at her and covered themselves up because she had brought a male into their change room. Ren purposefully kept is eyes on Janice as she grabbed a large sack and started to empty her station.
+
+“What's going on?” One of the girls asked.
+
+“I got fired.” Janice said.
+
+“Why?”
+
+“It's my fault.” Ren said, and both women looked at him. “I showed her something she shouldn't have seen, and when she told the manager, he fired her.”
+
+“That jerk!” She said. “You're a great waitress!”
+
+Janice snorted a laugh. “Yeah, that was a reason, too.”
+
+“Aw, I'm sorry.” She said. “He pulled the 'not enough clientele' card, didn't he?”
+
+Janice nodded and kept packing her stuff.
+
+“What are you gonna do now?” The girl asked.
+
+“I don't know.” Janice said and stopped packing. “Oh, god! I don't know!”
+
+Ren squeezed her hand slightly to get her attention, because she was starting to have a panic attack.
+
+“I told you I'd take responsibility.” Ren said.
+
+Janice looked at him and their held hands. “You don't even know me.” She said, and tried to let his hand go. He wouldn't let her, though.
+
+“Keep packing.” Ren said. “You can worry about the little details later.”
+
+“Little details?!?” Janice asked. “I've got things I need to take care of! I can't do that without a job to make money!”
+
+“I said not to worry about the little details.” Ren said and concentrated on his Command Aura. “Pack. Now.”
+
+Janice heard the tone of Ren's voice and knew he wouldn't listen to any more of her complaints; so she turned back to her station and threw some more of her things into the large sack.
+
+“So forceful.” One of the other girls said and came over to them. “Hey, can you... um... order me around a bit?”
+
+Ren looked at her, and unlike the other girls, she didn't try to cover herself up. He didn't stare at her lack of a bra and instead looked at her face.
+
+“I'm not sure that's a good idea.” Ren said and looked around. “There's not really a lot that I can order you to do.”
+
+The girl smiled wickedly. “Oh, there's lots that you can order me to do.”
+
+Ren chuckled. “I could order you to not do things like that anymore.”
+
+The girl frowned. “I wouldn't like that order.”
+
+Ren nodded. “I figured you wouldn't.” He said. “The most I could do is order you to get dressed.”
+
+The girl laughed. “Does my being topless bother you that much?”
+
+“Not at all.” Ren said. “I sleep with 5 topless women every night.”
+
+There was a sound of a few different things as they hit the floor, and Ren looked around to see what happened. Janice had dropped her large sack, one of the girls had knocked over a chair when she tried to brace herself with it, and another girl sat on the floor. They all had shock on their faces and stared at him.
+
+“Did he just say...”
+
+“He has to be lying...”
+
+“There's no way...”
+
+“No one can sleep with 5 women every night!” One of them exclaimed. Ren bent over and picked up Janice's large sack and handed it back to her.
+
+“Are those the several women you mentioned before, that you have at home waiting for you?” Janice asked him, because she still didn't quite believe it; and Ren nodded.
+
+“No way!” One of the girls said. “It's not possible!”
+
+Ren didn't try to convince them that it was the truth; but, he also didn't tell them that he meant he literally goes to sleep in the same bed with them, either. He stood there and smiled at their shocked faces and watched Janice as she finished packing. When she was done, she stored the sack and looked at Ren.
+
+“Now what?”
+
+“Do you live around here?” Ren asked her, and she nodded. “Let's go to your place.”
+
+“Oh, my god!” One of the girls said. “Janice is taking a customer home!”
+
+“He's not actually a customer anymore.” Another of them said. “Janice got fired.”
+
+“Oh, yeah.” The other one said. “Never mind.”
+
+Ren almost laughed at the girl's reactions, and Janice led him out of the change room and through the employee only door to the main area.
+
+“I'll wait here until you talk to your friends.” Janice said, and Ren looked at her. He got the distinct feeling that if he let her hand go, she would run right out through the door and he'd never see her again.
+
+“Come with me.” Ren said. “You can be the excuse I need to duck out early.”
+
+“I...” Janice sighed. “Fine.”
+
+Ren smiled at her and they went through the curtain to the back area and saw that the party booth was getting a little rowdy. The girls were topless already, and looked to be on the verge of being bottomless soon.
+
+“Guys? I'm heading out.” Ren said. “I'm taking Janice home.”
+
+“Ha! Have fun, man!” Tommy said.
+
+“We're plannin' anothah quest fer nex' week, or 2 days Adventurer time.” Clint said. “Can ya make it?”
+
+“Sure.” Ren said.
+
+“We'll meet at tha ranch tha morn-goddamn!” Clint said as the woman in front of him took off her underwear and tossed it at him. He didn't say anything else because he was transfixed by the sight the move had revealed, so Ren left the back area. He took Janice through the main room, and out through the front door.
+
+System Notice!
+
+You have left an Adult Only business (The Pink Pearl). What happened there, stays there. The Blue Screen protocol has been deactivated.
+
+Notice!
+
+You have experienced your first foray into the seedy underbelly of the Adult Entertainment Industry, and kept your cool in a dangerous situation.
+
+Intelligence: +3
+
+Wisdom: +3
+
+“Damn, that reminds me.” Ren said, then sent a message to his friends about the private rooms and the two-way mirrors that people could watch them through. He didn't want them to get peeped on, too. “So, where's your place?”
+
+“It's about an hour's walk that way.” Janice said and pointed down the road. “It's not much, but I call it home when I play the game.”
+
+Ren kept a hold of her hand and went over to Princess. “Feel like going for a walk?”
+
+No. Princess responded emphatically and shook her head. I want to run!
+
+Ren chuckled. “Okay, but only 10 miles each way.” He said. “Don't trample anyone.”
+
+Princess huffed at him, and he felt her annoyance that he needed to remind her of something so basic.
+
+“Stay to the side and let any carts have the right of way.”
+
+Princess rolled her eyes in exasperation, and Ren tied her reins to her saddle. He scratched her chin with his fingers.
+
+“I only say these things because I care.” Ren said. “I don't want you to get hurt.”
+
+No cart that exists can hurt me. Princess thought to him. Thanks to you.
+
+“Just be careful.” Ren said. “I'm not only worried about your physical well being.”
+
+Princess looked at him, then reluctantly nodded.
+
+Teepo? Do you want to go and... Ren thought, and Teepo hopped over to stand on Princess' helm before Ren could finish the thought.
+
+“All right. Go and have-”
+
+Princess took off like a bolt that was shot from a crossbow and disappeared down the road, with Teepo riding high and chittering in laughter.
+
+“-fun.” Ren finished and then laughed, too. He felt Teepo's and Princess' enjoyment only briefly, then they were out of his Aura an instant later and he didn't feel anything else from them.
+
+“What the hell was that?” Janice asked. “It looked like a giant ram, but... was it wearing armor or something?”
+
+“Yeah.” Ren said. “She's definitely handy to have around.”
+
+“I can imagine.” Janice said. “We better start walking, or we'll never get there.”
+
+Ren nodded and started to walk like she suggested. It was a little awkward at first, because Ren was over a foot shorter than her; but when she set the pace and he matched it, things evened out and they walked hand-in-hand easily.

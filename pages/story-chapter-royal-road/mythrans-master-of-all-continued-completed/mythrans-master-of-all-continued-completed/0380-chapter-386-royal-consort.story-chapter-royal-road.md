@@ -1,0 +1,325 @@
+---
+id: 5de59a21-5e4e-57ac-9729-020f550472ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 386 - Royal Consort"
+slug: 0380-chapter-386-royal-consort
+partOf: mythrans-master-of-all-continued-completed
+position: 380
+ownLength: 3973
+unit: words
+publishedAt: 2017-10-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167518/chapter-386-royal-consort"
+royalRoadId: "167518"
+---
+
+Lylyth stepped back through the portal, and her attendant and the healer came over to her.
+
+“My Queen!” They said together.
+
+“I'm fine.” Lylyth said and flipped her head back, which pulled her hair away from covering Ren.
+
+“My Lord.” The healer said and bowed to him.
+
+“You don't have to do that.” Ren said and saw the healer's smile. He looked up at Lylyth. “Can you put me down?”
+
+“I can.” Lylyth said and smiled, and Ren chuckled.
+
+“Will you put me down? Being held is nice, but I can feel the tension in your arms.”
+
+“How can someone so little be so heavy?” Lylyth asked and put Ren down.
+
+“I'm carrying a lot of stuff.” Ren said. When he looked around, he saw the piles of different spiders milling around them. “What's going on?” He asked. “Your spiders are agitated.”
+
+“They've been waiting for you.” Lylyth said. “We all have.”
+
+“Why?” Ren asked.
+
+“We've been feeling everything you do through our connection.” Lylyth said and pointed to his hand. The tarantula that was his came out of the cloak and jumped onto her hand. She lifted it up to her face. “You have done well, little one.”
+
+The spider waved a front leg at her, and she smiled and gave it back to Ren. It was then that Ren noticed the large chunk of stone floor and part of a chain still attached to it.
+
+“That's dangerous to have around.” Ren said. “It's a piece of this floor, so where... ah, there it is.” He said when the spiders moved apart and he saw the hole. He picked up the 5 foot long stone chunk and walked over to the hole, then tried to fit it in. He turned it a bit and tried again, then did it again. He felt several people enter his Aura, but he didn't let it distract him.
+
+“What are you doing?” Lylyth asked. He's moving it around like it's nothing.
+
+“Fixing the floor.” Ren said and turned the chunk again. “That's the right way.” He said and stored the chunk, then cleaned out the hole of debris and small rock chips. He took out his mixing cart and made a batch of cement, then took out the chunk of floor and slathered the bottom with a pile of it. He poured most of the rest into the hole and set the chunk of floor into it, and pushed down.
+
+Some of the cement mixture came out, and Ren ran a hand over the edge to make sure it was flush with the floor. He scooped up the extra cement and put it back into the mixer and stored it, then looked at the chain links still attached to the ring in the stone. With the chain severed, it was no longer enchanted, so he knelt down and grabbed it. He braced his other hand on the floor, then used Iron Grip on the ring and pulled it out of the stone. He heard several gasps from the people that had continued to gather in the throne room.
+
+“I assume whoever made this will want it back.” Ren said and held the released chain out. Several spiders came forward and took it from him, then he used the last of the cement to fill the holes and walked back over to Lylyth. “It's not secured with iron bars, since I don't have any on me; but, after the cement sets in the morning, it'll be safe to walk on.” He smiled. “I suggest that you don't use that part of the floor for restraint anymore.”
+
+Lylyth stopped herself from shaking her head in disbelief. Is he for real? She asked herself. He didn't tell me I couldn't use restraints anymore, just that I couldn't use them there.
+
+Ren took her hand when he saw the expression on her face. “Can I ask why you were restrained?”
+
+“It was to stop her from going to you.” The healer said. “Until she was ready.”
+
+Ren looked at the healer with wide eyes. “You had to restrain her with magical chains to keep her away from me?”
+
+The healer nodded. “If she had tried to get to you before her emblem was complete, all could have been lost.”
+
+“Her emblem?” Ren looked back at Lylyth, and she moved her hair out of the way to show Ren the spider emblem over her heart. It was the same emblem that was on his hand. “I want to ask how you marked yourself like that; but, I'm pretty sure you couldn't have bitten yourself there.”
+
+Lylyth chuckled. “No, dear one. You marked me.”
+
+“I don't remember doing that.” Ren said. “How...”
+
+“We formed a deeper connection than I thought was possible after I marked you.” Lylyth said. “Your strong emotions, even in small doses...”
+
+“It's been difficult for My Queen.” The attendant said and scowled at Ren. “You've been very unkind.”
+
+“I'm sorry.” Ren said to the attendant and gripped Lylyth's hand tightly. Since they were in direct skin contact, Lylyth felt just how sorry he was. “I knew she was taking some of my emotions, and I was okay with that; but, I didn't know she was having a hard time with them.” He said and looked up at Lylyth. “I really do have to apologize.”
+
+“It's not necessary.” Lylyth said. “I know you were unaware.”
+
+“Oh, but it is necessary.” Ren said. “You see, I wouldn't have stopped or changed anything even if I'd known.”
+
+“You dare...” The attendant said.
+
+“Yes.” Ren said and glanced at the attendant to see her angry face. “I choose what I do. No one will force me into doing something I don't want to do.”
+
+“Oh, dear.” The healer said.
+
+“What is it?” Ren asked.
+
+“My Queen knew you wouldn't be happy about this.”
+
+“About what?”
+
+Ren felt something awful enter his Aura and turned to see what it was. Grimlow stepped into the throne room, and Ren felt Lylyth's disgust. He blinked his eyes and looked at her, but she was too tall and didn't notice his reaction.
+
+“Once again, you were not asked to come here.” Lylyth said. “Get out.”
+
+“I felt my rival's appearance.” Grimlow said and grinned. “Such a pure fountain of emotion sent a ripple through the realm.”
+
+Lylyth sighed. “I was afraid that would happen when the connection was complete.”
+
+“What's going on?” Ren asked and actively blocked his feelings from the new person. “He said I'm his rival?”
+
+“Unfortunately.” The healer said. “While we waited for you, another came forward when their Influence was high enough.”
+
+“Wait, what?” Ren looked at the healer, and then at Lylyth. “I thought I was just here to feed you.”
+
+“You are, dearest one.” Lylyth said.
+
+“Then why can I feel this idiot trying to absorb my emotions?” Ren asked, and he felt Lylyth's anger as a large spider leg formed instantly beside her and darted out to stop right under Grimlow's chin.
+
+“I told you that you couldn't touch me until I fought my rival.” Grimlow said and used a hand to ease the spider leg aside. He looked down at Ren, just over half of his size, and laughed. “Is this it?” He asked. “It is, right? This is him?”
+
+Lylyth scowled at Grimlow. “I told you not to feed from him!”
+
+Grimlow laughed. “And I told you that your command power lacks a certain punch.”
+
+Ren concentrated on his Command Aura, and since he still held Lylyth's hand, it merged with hers and doubled in both strength and effectiveness. He remembered the healer mentioning Influence, and he concentrated on that as well.
+
+“Step back from the Queen.” Ren commanded him, and every being within 700 feet felt the power in his words and took a step back. Dark Elves, spiders, and even the prisoners did as he commanded. Grimlow's eyes widened as he felt the weight of the command on him. He tried to fight the command and take a step forward, but he just couldn't do it. It took all of his strength just to stand still.
+
+Lylyth had been surprised at first that Ren could share like that, then she accepted his offering and drew it into herself.
+
+“The Royal Consort commanded you.” Lylyth said and smiled. “STEP. BACK.”
+
+Grimlow couldn't resist her command at her full power, and took two steps back. “My Queen.”
+
+“He did not come here to fight.” Lylyth said. “He came here to feed me.”
+
+“He can't, not until he meets the challenge.” The attendant said, then bowed deeply when Lylyth turned to her and she felt her Queen's anger. “Your people agreed to this.”
+
+“What are the rules?” Ren asked, and everyone looked at him. “Normally my Etiquette skill would let me know, but it's not active.” He said. “Someone needs to tell me what's going on.”
+
+“I'll do that.” The healer said and stepped forward and took his free hand. She gasped as his emotions hit her, and she gripped his hand tightly. “It... it was decided long ago, that if the Royal Consort could be challenged by another with the same Influence, then he must meet them in combat.”
+
+“It's never happened before, so this is new to all of us.” Lylyth said and looked down at Ren. “Your skill can't give you information that doesn't exist.”
+
+Ren nodded. “What kind of combat?” He asked. He expected armed combat of some kind, with polearms or quarterstaffs for long range up-close fighting, no armor, or even something else that would give the Dark Elf challenger a distinct advantage over him, since he was twice Ren's height and had twice the reach.
+
+“Since Grimlow is the challenger, he has the choice.” The healer said, sadly.
+
+“I choose... Emotion Combat.”
+
+“NO!” Lylyth exclaimed.
+
+Ren felt her dismay at the thought of him having to fight like that, and he felt sadness from the healer. Ren looked at their hands, and wondered if that was why he could feel them. He opened the hand that held the healer's, and she reluctantly let him go. He could no longer feel her sadness, so he took her hand again and felt it.
+
+That's neat. Ren thought, and the healer stared at him when she felt his wonder.
+
+“You can't pick that!” Lylyth said. “He doesn't have that ability, and can't fight you!”
+
+“I am the challenger, and that is the form of combat I choose.” Grimlow said and smiled. “If he does not fight, I will win by default.”
+
+“What's emotion combat?” Ren asked.
+
+“Whoever can force the other into unconsciousness first, wins.” The healer said, and he felt her resignation that he would lose in a combat that he couldn't possibly fight in.
+
+“How?”
+
+“By draining their emotions, or frightening them, or anything else that would cause them to pass out emotionally.”
+
+“Is touching allowed?” Ren asked.
+
+“It's usually a distance fight to cut down on the... suddenness... of the fight and how quickly opponents can lose; but, I don't see why not.” The healer said. “You're going to lose faster that way, though.”
+
+Ren smiled knowingly at her, and she felt his confidence. It made her sadness deeper that he thought he had a chance.
+
+“You know, it's hard for me to stay positive with all of your negative emotions.” Ren said to her, and her eyes widened.
+
+“Wh-what?”
+
+Ren lifted her hand to his lips and kissed the back of it. “Be happy and cheer me on.”
+
+The healer felt a flood of happiness enter her, and her hand tingled where Ren had kissed it. “I... I will.” she said, and he let her hand go.
+
+Lylyth looked down at him when she felt the healer's reaction. “Ren?”
+
+“Don't worry.” Ren said and held her hand to his lips and kissed it. “I won't let that filth touch you.”
+
+Lylyth gasped as she felt Ren's anger and determination on her behalf, then she let the reality of the situation hit her.
+
+“Ren, he's going to destroy you.” Lylyth said sadly.
+
+“You have so much confidence in me.” Ren said. “There's no way I could lose now.”
+
+Lylyth chuckled. “I should open a portal and send you back.” She said. “I don't want to lose you like this.”
+
+“You won't, as long as you believe in me.” Ren said.
+
+“That's so sweet, it's actually sickening.” Grimlow said.
+
+“And that's why you will lose.” Ren said and let Lylyth's hand go. “I can feel how twisted you are.” He smiled. “It will be your downfall.”
+
+Grimlow laughed. “I'm a Dark Elf! Of course I'm twisted!” He said and walked over to the middle of the throne room, and waved to the crowd. “We all are!”
+
+A few people in the audience applauded, and Ren laughed.
+
+“I'm glad you don't have a big following.” Ren said and walked over to stand in the middle of the throne room, about 10 feet away from Grimlow. “It's going to be so much easier to destroy you.”
+
+The throng of spiders crawled around the people and up onto the walls to watch the battle.
+
+“Ha!” Grimlow said and turned to the crowd. “It may be small, but it is bigger than yours!” He said, and didn't see Ren as he changed the enchantments on most of his rings. “They don't even know who you are!”
+
+“The only people I know personally are the healer and the Queen.” Ren said, because he knew it was bad form to use a monarch's name in public. “But, what makes you think they haven't told people about me?”
+
+Grimlow felt Ren's confidence and that he thought it was the truth. “Let's see, then.” He said. “Those of you that have heard of the squirt, raise your hands.”
+
+Ren could feel Grimlow as he emitted an Aura of Suppression, and laughed because his own Aura of Command was still combined with Lylyth's, even though they weren't touching.
+
+“I command all of you to answer truthfully and raise your hands if, and only if, you've heard of me before coming here to the throne room today.” Ren said, and about a third of the 300 people in the audience raised their hands.
+
+“You will regret this!” Grimlow scowled at them, and was angry because Ren's Command overpowered his Suppression so easily.
+
+“It is a challenge, and you cannot punish them for answering your question.” Lylyth said and let her satisfaction show with a smile.
+
+Ren felt relief from the audience through her, and for some reason, he looked down at the mark on the back of his right hand and saw that it glowed slightly. Bolstered that Lylyth was sharing with him in his time of need, he switched his concentration from his Command Aura to his Fear Aura. Everyone in the room fell quiet and looked at him, because they all felt the change.
+
+“Aw, that's so cute!” Grimlow said and smiled crookedly as he looked at Ren. “He can make ticklish Fear!”
+
+Ren smiled and made a Connection between all 8 rings he had changed the enchantments on and his Fear Aura, then activated the first Ultimate Terror ring that had 50 runes of Terror on it. Since each rune gave a 10% chance that those exposed to it would be afraid and would flee, the entire audience, Lylyth included, stopped talking.
+
+“What... what is that?” The healer asked. “That... it's... My Lord!” She said and used her inherent ability. It was only a low level; but with so much Terror to feed on, it filled and leveled quickly. Lylyth felt the healer trying to absorb the Terror everyone was feeling, and she turned to the audience.
+
+“Those not overwhelmed by Ren may feed.” Lylyth said, and looked at her attendant. She touched her and the attendant shook her head and looked at her Queen.
+
+“He caught me off-guard.”
+
+“He caught us all off-guard.” Lylyth smiled and she could feel that every single spider, no matter their size, were also feeding to their hearts content.
+
+“That's quite the display.” Grimlow said, and Ren could feel him trying to feed and keep his guard up at the same time.
+
+“Is that enough for you?” Ren smiled. “No? Perhaps you'd like another boost?”
+
+“Wh-what?” Grimlow asked.
+
+Ren activated the second ring. “How's that?” He asked as he felt everyone shudder.
+
+People were still feeding on the ones lost to the Terror; but, they were trembling themselves now.
+
+“Not enough? How about another boost?” Ren asked and activated the next ring as he stepped forward. “Still not enough?” He activated the next ring, and then the next. “No, you want it all. As much as I can make, right?”
+
+Ren activated the rest of the rings and pushed all 8 Ultimate Terror enchantments through his Fear Aura. Even Lylyth, worshipped by tens of thousands of people, froze stiff from feeling a 4,000% chance of being afraid and fleeing from Ren's enchanted Terror.
+
+Ren stopped walking in front of Grimlow, who had slowly lowered himself to his knees as each ring activated. He could see Grimlow was desperately trying to feed from him.
+
+“Shall I put the icing on the cake?” Ren asked him, and Grimlow was too afraid to speak. “I'll take that as a yes.” He said, and activated his Controlled Berserk Rage.
+
+“AHHHHHH!!!” Grimlow screamed as Ren's eyes burned blood red and bored into his. Ren's tremendous Rage merged with the Terror he had produced and made it that much more effective. He reached a hand out and Grimlow couldn't move or block it. Ren placed his hand on the dark elf's chest and felt Grimlow's ability as it struggled to try and consume such overpowering emotions.
+
+“This Is Mine!” Ren said.
+
+Notice!
+
+You have invoked your ability 'This Is Mine!'. You have claimed sovereignty over another person's ability 'Emotion Siphon'. Due to the unusual nature of this claim, it can only be used in this capacity once.
+
+Do you still wish to claim this ability as your own? Yes / No
+
+“Yes, I want it.” Ren said. It's the only way I can win this fight.
+
+“NOOOOOO!!!” Grimlow screamed again as his ability disengaged, since it had been the only thing that was keeping him safe from feeling the full effect of the Terror that Ren had produced. Grimlow's dark skin turned an ashen color when his ability completely disappeared.
+
+Notice!
+
+You have gained a restricted ability: Emotion Siphon Level 1 (Beginner 0%). This ability allows you to consume emotions as if they were food. As with food, the more you eat, the healthier you are.
+
+“Great Vasalor.” Lylyth said as she fought through the sea of Terror and Rage. How is he doing that?!?
+
+Ren ended the Controlled Berserk Rage and used the Energize wand around his neck to restore his Stamina so he wouldn't collapse, then slowly deactivated each of the rings of Ultimate Terror. When he was down to only three, he distinctly felt the change in the audience; but he didn't feel it through his link to Lylyth. He could feel it directly himself.
+
+That's really weird. Ren thought.
+
+“What did you do?!?” Grimlow asked and grabbed Ren by the shoulders. “Give it back! GIVE IT BACK!”
+
+Ren felt Grimlow's desperation and his new ability gave him a pang of hunger. “I told you. It's mine now.” He said and with his hand on Grimlow's chest, he opened his new ability as far as it could go, and started to consume everything Grimlow felt.
+
+“N-n-no! No!” Grimlow said and tried to back away; but since he was kneeling, he fell back onto the floor and dragged Ren with him. “No! Stop!”
+
+“You were going to do this to me.” Ren said as he drained everything Grimlow had. “How does payback feel?”
+
+“No... no... nooooo...” Grimlow's words became softer and softer, and then he collapsed into unconsciousness.
+
+Ren stood up and took several deep breaths. Hey, I didn't get a fight completion notification or anything. He thought. Maybe it didn't count as an actual fight? I wonder what the game rules are to class things as actual fights.
+
+“Ren!” Lylyth walked over to him, and knelt to put her face down closer to his. “You did it.” She smiled, and he felt how happy she was that she had been wrong. “Somehow, you did it.”
+
+The healer and the Queen's attendant came over to them as well.
+
+“Ren, you look horrible.” The healer said. “How do you feel?”
+
+Ren's face went pale. “I'm going to be sick!” He said and turned to the side away from them, and threw up. “Bllaaaaaahhhhhhh!”
+
+“Oh... oh my...” The healer said as a huge stream of an oily black substance spewed out of Ren's mouth and onto the floor of the throne room. This happened over and over for several minutes, until Ren started to dry heave and had expelled all the negative emotions he had consumed from Grimlow.
+
+“Ugh, that felt just as bad coming back up.” Ren said and wiped his mouth off with a piece of cloth. “I didn't even get any XP to level the ability.” He said and changed one of his raised platform rings enchantment with a single water rune and rinsed his mouth, then stored the cloth. “I guess it's because I didn't want to keep the things I drank.”
+
+“What did you say?” Lylyth asked. When she reached out to touch him, she stopped before making skin contact because his ability had triggered. “What is...?”
+
+“I took it from Grimlow.” Ren said.
+
+“How?”
+
+“I claimed it as my own; but, it was a 'do this once only' thing.” Ren said and sighed. “I won't be able to claim any other abilities.”
+
+“So, it... it's yours now.” Lylyth said, and her hand hovered over his hand. “You're going to be hungry from now on.”
+
+Ren smiled. “Not if I can get some help.”
+
+“You have bested an opponent in a combat you had no chance in.” Lylyth smiled. “You have won the right to be by my side.”
+
+Ren looked at her with wide eyes, and she chuckled.
+
+“It's in name only, dearest.” Lylyth said and cupped the side of his face; but because her hand was so large, it cupped the side of his head instead. “The people wouldn't stand to have a halfling married to their Queen.”
+
+“By the gods!” Ren said and fake gasped, then looked at the Dark Elves in the throne room. “You're prejudiced against halflings!”
+
+Everyone could feel his mocking feelings, and several of them laughed. Ren looked up at Lylyth.
+
+“Well, actually I think I'm a quarterling compared to the Queen.” Ren said, and a few more elves laughed.
+
+“She's going to be so disappointed tonight.” Someone whispered, and Ren turned to look at the woman who spoke.
+
+“I may be a halfling, but my hearing is just as good as yours.” Ren said, and felt the woman's deep embarrassment. “If the Queen is dissatisfied with my performance, I will willingly submit to 10 lashes in this very throne room.”
+
+“REN!” Lylyth exclaimed, but it was too late.
+
+“Spoken and recorded.” Someone in the crowd said. “The Queen will report her satisfaction, with emotional proof if necessary, in the morning.”
+
+The entire group of Dark Elves, all 300 of them, walked out of the throne room and felt Lylyth's mixed feelings about what was about to happen. Two of the elves reached down and picked up Grimlow on their way out. He was still unconscious and probably would be for a while.
+
+“I will have the chamber ready in a few minutes.” The Queen's attendant said and started to walk away, grabbed the healer's arm and dragged her out of the throne room, apparently against her will.

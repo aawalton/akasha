@@ -1,0 +1,271 @@
+---
+id: b2d0a7bd-5fd1-56ef-8242-63236b56c7da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 419 - Ren Smash!"
+slug: 0416-chapter-419-ren-smash
+partOf: mythrans-master-of-all-continued-completed
+position: 416
+ownLength: 3927
+unit: words
+publishedAt: 2017-11-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174128/chapter-419-ren-smash"
+royalRoadId: "174128"
+---
+
+Ren was surprised when he received another popup.
+
+Notice!
+
+Your unlocked (HIDDEN) recipe has been revealed: Staff of Necromancy.
+
+“Show info for Staff of Necromancy.” Ren said automatically.
+
+Staff of Necromancy (Unique - Binds On Equip)
+
+This skull and bone staff is topped with a black onyx stone that gleams with smouldering power that is grasped by a skeleton's hand. It allows the continuous use of the Level 5 spells contained within:
+
+Raise Dead - Can raise 25 undead (skeleton warriors or zombies) to do your bidding
+
+Drain Life - absorbs Health from living creatures or adds Mana to undead creatures
+
+Ghoul Lure - creates a beacon that attracts ghouls
+
+Fatigue - causes Stamina loss and eventually severe exhaustion
+
+Circle of Death - can instantly kill anything of lower level than the caster
+
+Similar to Rods, it does not contain charges, but a time limit for usage. Current time limit: 600 minutes (10 hours). When the last of the time has been used, the magic will be expended and the staff will become inert.
+
+The staff has Aura: Fear (50 feet) and merges with caster's Aura (if available).
+
+Cast Distance: Within caster's Aura
+
+Area of Effect: Caster's Aura
+
+Cast Time: Various, dependent on spell chosen
+
+“Holy crap!” Ren said and dismissed the popup. I am never making that staff!
+
+“I agree.” Teepo said. “Drain Life and Circle of Death are not good spells.”
+
+Ren took several deep breaths, then looked at the skeleton that stood in front of him. He wanted to know what he could find out about it, and to try and distract himself from that staff recipe.
+
+“Identify.”
+
+Skeleton Knight (Bound Undead - Level 60)
+
+This unparalleled creature will fight continuously for you and will never become exhausted. It cannot be poisoned or suffer any ailments or conditions. Uses Mana to repair itself.
+
+Warning: Bludgeoning attacks will disable and destroy this creature easily.
+
+Health  N/A  Mana  1000
+
+Strength  150  Dexterity  60
+
+Vitality  N/A  Agility  60
+
+Endurance  N/A  Intelligence  60
+
+Luck  N/A  Wisdom  60
+
+“You have stats.” Ren said.
+
+The skeleton looked down at him and spoke without opening it's mouth. “Your command?”
+
+“Tell me how long you last.” Ren said.
+
+“Until I run out of Mana or too damaged to repair.”
+
+This skeleton knight bypasses the Raise Dead spell's time limit. Ren thought, once again surprised. “Can I extend how long you last?”
+
+“Yes.”
+
+“How?”
+
+“Add a Mana source or keep me from suffering damage.”
+
+“Good to know.” Ren said. “Can you find the other Lost Knights?”
+
+“No.”
+
+“ I guess that was too much to ask for.”
+
+“Yes.”
+
+Ren chuckled at it's frankness. “Do I need to armor you up right now, or can it wait?”
+
+“As long as my skull can be recovered, I can be regenerated.” It said.
+
+“That's really good to know.” Ren said. “I can't make any armor for you until we stop at a safe zone.”
+
+“My Lord?” One of the succubi said and Ren turned to look at her. “We have gathered the loot for you.”
+
+In the arms of the succubi were piles of weapons, broken armor pieces, gold and jewellery.
+
+“Thank you.” Ren said and took the jewels, weapons, and armor pieces. “You can divide the gold among yourselves.”
+
+“Wh-what?”
+
+“You can have it.” Ren said. “Unless you found shadow markers. Those I want.”
+
+One of the succubi came forward and she passed Ren 6 of them.
+
+“Thank you.” Ren said. “Don't fight over the gold, okay? There should be enough for you all to get a share.”
+
+Some of them nodded, and when he turned back to the skeleton, he heard wings flap and several grunts and punches.
+
+I don't want to look, do I Teepo?
+
+“Nope.” Teepo said. “They're not fighting.” He chittered in laughter. “Not at all.”
+
+One of them yelled when another pulled her hair, and Ren sighed. He took out the weapons and repaired them, checked them for enchantments, and when he held up a sword enchanted with Light, the skeleton covered it's face.
+
+“I'm sorry.” Ren said and stored it. “Do you want a sword?”
+
+“Yes.”
+
+Ren held out 3 of them and it took one, then it waited for Ren to repair the armor pieces. “Well, it's not a full set of armor.” He said and handed over a chest piece, a helm, and boots. “Like I said, I'll make a proper suit for you when we take a break.”
+
+The skeleton knight didn't say anything as it tried to put the pieces on.
+
+“Oh, right.” Ren said and gave it a Strong Ring of Storage. “Just equip the items, and they'll resize to fit you.”
+
+The skeleton did so and the armor pieces shrunk to fit, and then Ren handed him a Bracelet of Unbelievable Magic, which gave the skeleton knight + 105 to both it's Intelligence and Wisdom stats, increased it's Mana by 10,200 points, and gave it a Mana Production bonus of 1020%. You couldn't see a smile on the skeleton's face; but he thought he could feel that it would be there if it had any flesh to show it.
+
+“I think you're ready now.” Ren said and turned around to see all the succubi were dishevelled but were in high spirits, because he could feel how happy they were. Some of them had their bras torn off, some had lost their bikini underwear, and most were covered in scratches and cuts. He took out a Minor Healing wand and went to each of them to heal their wounds. He also took a few moments to repair or replace what they wore, then climbed up onto his Phantom Steed.
+
+The skeleton had followed him, and Ren took out the Wand of Transport. He cast a Phantom Steed for the skeleton to ride, and the horse-like creature looked like it had starved, died, and had been in the sun for years. The skeleton climbed up onto it and waited.
+
+“Everyone ready?” Ren asked as he checked the All-Seeing Mirror. “Next stop: the Gnoll Grounds!”
+
+“I've been dying to get those bastards back!” One of the succubi said. “No one summons me and tosses me away!”
+
+“Stupid hyena men! They think they are so much better than us!” Another said.
+
+“Yeah! Let's kick their asses!” Seldanna said and grinned.
+
+“Then activate your Displacement enchantments!” Ren said, then smiled as the entire group of 20 succubi disappeared and reappeared 5 feet away.
+
+“They'll never know what hit them!” Someone exclaimed.
+
+The succubi cheered and lifted up into the air as one. Ren activated his own Displacement enchantment, and to his surprise, both he and the Phantom Steed disappeared and reappeared 5 feet away. He let his own happiness out, and then his Phantom Steed ran out of the ogre's cavern and down the next tunnel. The skeleton knight and the succubi followed right behind him.
+
+*
+
+Barbara watched in fascination as her little Ren led an assault on an unsuspecting group of hyena men. He was in the lead of course, and used his weapon to smash their heads in. The hyena men tried to counterattack; but, with the displacement enchantments Ren and his force used, it was pointless. Their strikes hit the displaced images instead of the actual targets, and then they were easily slaughtered.
+
+Ren and the succubi tore through the gnoll village and wiped out every single one of them; and hadn't taken a single bit of damage. The bodies were quickly looted, and she saw something popup for a second. It had been too quick to read, since she had watched it at game speed or 4 times normal speed. She checked the laptop and looked at the footage to pause it on the popup.
+
+“Oh... oh, my.” Barbara whispered.
+
+New Title!
+
+Your propensity for hitting your foes in the head with a special weapon has earned you a new title: Headhunter. This title grants you Killing Blow Special (50% for Instant Kill) when aiming for the head. This also increases your Skull Cracker ability of 20% chance to Stun to 40%.
+
+Barbara watched as Ren accepted all the weapons and armor and turned away, then watched as the succubi fought among themselves for who got the biggest share of the money, just like after the ogre. She shook her head at Ren for letting them do that, and then he went around and healed and repaired their clothing.
+
+Why is he letting them do that? Barbara asked herself and watched in surprise as Ren set the place on fire. The huts and things burned up quickly, since they were old and dry, and in only a few minutes was piles of ash. The group moved off down another tunnel, and Barbara sighed.
+
+I hope he doesn't become a blight to whoever he meets. Barbara thought.
+
+*
+
+Ren was actually having fun. He didn't think he would have such an easy time with difficult foes like the hyena men, since they were so high level; but, even Ellaria who was only level 12 had easily killed them. Of course, she was no longer level 12 after Ren and the succubi had killed 132 gnolls. He wasn't sure if the succubi were getting a share of his gained XP or not; but, it honestly didn't matter. There was enough XP for her to get to level 18 after that one encounter.
+
+It had been Teepo's idea to make them offerings to Fire Dancer, the deity of Fire that lived in the Fire Realm, and Ren had lit the entire settlement on fire as a tribute to her. He knew it wasn't a lot, but it might just give her a small amount of pleasure to know that he still thought of her.
+
+Ren checked the All-Seeing Mirror again to see any hostiles, and it showed a bunch of dots on the walls all along the next cavern. He looked at one up close, and it looked like a cloak. It was hung on the wall, and didn't look like it was going to attack; but, since he wasn't physically there in front of it, it could be a completely different creature then.
+
+“Everyone, please stay here.” Ren said, and everyone landed in the tunnel. “There are cloakers all along the walls in the next cavern.”
+
+“Oh, I hate those things!” One of the succubi said. “One of them attached themselves to my summon mate right after we materialized. Every time we hit the thing, it hurt her, too!”
+
+Ren nodded. “That's one of their abilities. They become a parasite and share damage with the 'host'.” He said and hopped off his Phantom Steed, then walked over to the wall. When he started to dig, he hit impenetrable rock. “Damn, we can't go around... which means I'm supposed to face this threat.”
+
+“How?” One of the succubi asked. “As soon as you walk in there, several of them will attack and try to attach themselves to you.”
+
+“I have a couple of ideas.” Ren said and grinned, and the succubi shivered in pleasure as they felt his wicked streak. “Give me a couple of minutes to make something.”
+
+Ren got on the Phantom Steed and rode back to the cavern with the remains of the gnoll settlement and took out his Instant Tower. He went inside and thought about the best way to deal with cloakers on the walls of a cavern. He used the elemental bomb recipe and changed it's internal components. He wasn't going to charge the entire thing like an elemental grenade, though. He took out a bag of the 1 gold coin diamonds and mounted them all along the outside of the bomb upside down, and made channels down into the next layer.
+
+Ren added steel squares on that layer and enchanted them with 50 runes of Illumination. He tested one and rather than give out a single beam of light, the hundreds of tiny diamonds split it into thousands of beams and created a coherent glow instead. He smiled and then added the internal component of an elemental bomb, which would explode and send those hundreds of diamonds out to the immobile cloakers, then closed it up. Since he had made it perfectly round, it didn't matter what side it landed on when he threw it. He quickly made another in case one wasn't enough to clear the entire cavern, and stored both of them.
+
+Now that he had the opportunity, Ren took off his armor chest plate and removed the large ruby there. He replaced the Illumination enchantment with his full enchantment ability of 50 runes, then used Double Infusion to make it 100 runes and mounted it on his chest plate again. He equipped it and left the Instant Tower, deactivated and stored that, then rode his Phantom Steed back to the end of the tunnel and the waiting succubi.
+
+Ren took out one of the elemental bombs and threw it out into the cavern. None of the cloakers reacted to an inanimate object passing by them, and when the bomb stopped rolling, Ren activated the Illumination runes and the entire cavern lit up. The cloakers screeched at the bright light that was even stronger than daylight, and even the succubi had to turn away from the glare. Once all the cloakers were frozen, the copies of themselves they had made around them disappeared.
+
+“They have their own version of Displacement?” Ren asked as the 200 plus cloakers dropped to only 60. “They can make 3 copies of themselves.” He said, cast Iron Wall in the mouth of the cavern, then activated the elemental bomb. It exploded and sent the hundreds of diamonds mounted on it's surface out as projectiles, and every cloaker took multiple hits and fell to the ground, dead.
+
+Notice!
+
+You have leveled up and are now Level 81, and 10 stat points have been automatically allocated. You have unlocked: Aura (Submission) Level 1 (Beginner 0%). Those within your Aura of equal or lower level will bow down to you if you wish and will always defer to your judgment, regardless of their loyalties. Can combine with both Fear and Personal Auras to increase the reach and effect. Higher levels will allow the suppression of creatures and beings of higher levels than you.
+
+Ren dismissed the popup and ignored the Aura. I'm never using it or leveling it up. He thought as he dismissed the Iron Wall spell and several diamonds fell to the cavern floor, and he assumed they had been embedded in the iron. He hopped off the Phantom Steed and asked it to run around the cavern. It did so, and when it came back, there were 6 tiny cloakers on it's back and sides. He grabbed each one by the back of it's neck and used Iron Grip to kill them and looted them. He didn't gain anything except a few copper.
+
+I guess you can't get much from parasites. Ren thought and used a Major Healing wand on the Phantom Steed. Nothing happened, however. He pat the steed on the neck and apologized, and the steed huffed at him.
+
+“Yes, I know I can dismiss you and cast another; but, you're going to last for a long time yet, even with the damage that I can't heal.” Ren said. He could feel dismay from the succubi, and turned to look at them. “Before you jump to conclusions, I'm just guessing how it would respond.” He chuckled when he felt their relief, and then the succubi spread out and looted all the dead cloakers. When the succubi were done, they came back to him with only 115 copper coins and over 200 small diamonds. He kept the diamonds and told them to split the money.
+
+“It's barely worth keeping.” One of the succubi commented and handed her copper over to the oldest of them, Zunala; then so did everyone else. The others didn't really want to keep it, either; and she gladly accepted it and put it in her ring.
+
+How quickly their standards change. Ren thought in amusement. Only yesterday they probably would have fought tooth and nail over a few copper coins like they now do over gold. He checked the All-Seeing Mirror and saw the way was clear right up to the ramp to the next level. “It looks like it's clear to the next level, but you know what that means.”
+
+“Keep an eye out, and yell warnings to the others if you see or feel anything.” The succubi said in unison and Ren nodded.
+
+“Good girls!” Ren said, and he felt how much they liked his praise. “Let's move out.”
+
+“Should we use our Displacement enchantments?” One of them asked.
+
+“Actually, that's a good idea.” Ren said, and he felt how pleased she was. He took out a wand with Widen Effect and cast it on each of them. It added 275 minutes to the Displacement's time limit, and they all activated it. They had just over 13 hours left with it on before Ren would have to enchant them again, and there was no point in not using them since they were just so handy.
+
+The group moved down the cavern and into the next tunnel, and then into the large cavern that led up to the next level. The ground shook slightly and then one of the succubi yelled as something smashed out of the ceiling and dropped through her displaced image.
+
+“UMBER HULK!”
+
+The creature was just over 10 feet tall and looked like it was half-mole and half-beetle. It had a beetle-like head with large mandibles and huge front claws used for digging. It landed on the cavern floor and looked at it's empty hands. It squeezed one clawed hand and then the other, and just stood there, dumbfounded. The skeleton knight didn't wait for the attack command and rode on it's steed in for the first strike. The sword he used glanced off of the umber hulk's carapace without doing any damage.
+
+What the attack managed to do was get it's attention, and the umber hulk turned towards the skeleton knight. The skeleton knight held the sword like a lance and charged, and Ren activated his party ability 'Charge!' to give the skeleton a boost. It shot forwards and jammed the sword into one of the umber hulk's eyes. It stuck in and stayed there; but, the umber hulk ignored the damage and grabbed the Phantom Steed with it's clawed hands as it tried to run past. The skeleton knight was flung forwards when the steed was stopped, and it landed about 20 feet away and skidded to a stop.
+
+Ren took out a sword and enchanted it with Antiearth runes and tossed it to the skeleton knight, cast another Phantom Steed for it, and both he and Ren rode in to attack the creature. The umber hulk had hunkered down to feast on it's catch, and Ren and the skeleton knight swung their weapons at it. Both weapons glanced off the carapace and only did minor damage, and the umber hulk ignored them as it bit into the skeleton knight's first steed.
+
+“Damn, this isn't working.” Ren said and came to a stop, then smacked himself in the head for not changing the enchantment on the hammerpick to Antiearth. He switched the enchantments and the dozen small drill bits on the end became twice as big and twice as long, then turned from a light brown color to pitch black. He noticed the plow end had extended and also widened, and he told the skeleton knight to hang back out of the way.
+
+“Now you're in for it.” Ren said and smiled as he circled around with his Phantom Steed, then charged at the umber hulk head on. It felt the impending attack and let it's current meal go, then held it's arms open as if to hug Ren. The Phantom Steed came to a stop right in front of it and reared back, then the umber hulk grabbed it around the chest. It dug it's mandibles into the Phantom Steed's neck and started to eat.
+
+“NOOOOO!” Ren yelled as the umber hulk settled down to feed. It knelt with it's prey, and without thinking about it, Ren cast Enlarge Person on himself and activated his Controlled Berserk Rage as he let his Angered condition take full control and his eyes turned blood red.
+
+“AARRGGGHHHH!” Ren yelled as he brought the double-sized hammerpick down on the umber hulk's carapace and it cracked from the impact. He had avoided the umber hulk's head because he didn't want to hit the Phantom Steed, and kept hitting the umber hulk over and over with both ends of the hammerpick. The umber hulk ignored the attacks as it fed, and Ren noticed the wounds he had caused were starting to heal. He stored the hammerpick and jumped from the Phantom Steed onto the back of the umber hulk like it was a mount. Ren punched the cracked carapace several times to give him something to hold onto, shoved his hands inside, and pulled.
+
+A loud crack was heard as the 6 inch thick stone-like bone carapace split in two, and Ren tore it off and tossed the pieces aside. He could see a thick rib cage but no spine, so he grabbed two handfuls of ribs with his double-sized hands and used Iron Grip. The ribs shattered, and the umber hulk howled as Ren plunged his hands into it's guts from behind and started to pull them out. Even the succubi were a bit unnerved for the next few minutes, as a double-sized Ren tore into the beast and covered himself in it's blood.
+
+“It... it's dead.” One of them said, and Ren kept pulling stuff out of it. “REN!”
+
+Ren stopped and turned to her, and she shivered at the blood red eyes that looked at her through his helm. She couldn't tell if she was more turned on than she was scared, though.
+
+He's so... big. She thought and shivered again. “It's dead.” She said and ducked her head a little. “You killed it.”
+
+Ren's blood red eyes faded back to their normal silvery blue when he saw her meek expression, and he looked down at his hands. Even though he wore his full set of armor, he could feel the blood between his fingers and on his skin.
+
+“Dammit.” Ren said as he used an Energize spell to stop from collapsing as a result of his Controlled Berserk Rage, then he received a series of popups.
+
+Notice!
+
+You have been corrupted! You have absorbed Umber Hulk blood directly from the source through your skin. It's effects vary by those infected, and by the amount of blood absorbed.
+
+Current Corruption Level: 88%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+Notice!
+
+You have been Poisoned. Your Hardy skill will keep it at bay, but unless you are treated you will eventually succumb to it's effects.
+
+Time until death: 1 hour, 30 minutes
+
+Notice!
+
+Your condition Angered has been upgraded to Enraged. You will fly into a rage at any provocation, no matter how slight. Automatically activates both Hatred and Fear Auras. Keeping your emotions in check can no longer stop this condition from happening.
+
+“GODDAMMIT!” Ren yelled, then became Enraged. His Controlled Berserk Rage activated again and he pounded his fists into the lifeless husk of the creature in front of him.

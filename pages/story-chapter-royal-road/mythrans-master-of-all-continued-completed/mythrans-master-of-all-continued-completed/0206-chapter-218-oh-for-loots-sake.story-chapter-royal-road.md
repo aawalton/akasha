@@ -1,0 +1,673 @@
+---
+id: 42f0530f-8f32-502e-9afe-f774d0e818fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 218 - Oh, For Loot's Sake!"
+slug: 0206-chapter-218-oh-for-loots-sake
+partOf: mythrans-master-of-all-continued-completed
+position: 206
+ownLength: 5968
+unit: words
+publishedAt: 2017-04-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128594/chapter-218-oh-for-loots-sake"
+royalRoadId: "128594"
+---
+
+Elise, the secretary at Sid Tec, finished eating her lunch and sat at the table in the corner of the room so she could quietly watch the last bit of footage of Ren. When the screen went blank, she frowned; then reversed it a few minutes, and watched it in real time.
+
+“NO!” Elise exclaimed and stood up. Everyone looked at her, and she ignored them as she paused the video on her tablet. She picked it up, and left the remains of her lunch on the table as she left the cafeteria.
+
+*
+
+One of the workers looked worried, because Elise wasn't someone to just leave her things like that, and she went over and cleaned off the table.
+
+I hope everything is okay. The worker thought as she brought the empty bowls back to the kitchen and put the tray in the sink.
+
+*
+
+Elise didn't say a word to anyone as she walked through the halls to the tech department. Several people tried to engage her in conversation; but once they saw the look on her face, they quickly stopped and went about their own business. She walked into the tech department and ignored everyone there as well, until she came to the head programmer's desk.
+
+“Max.” Elise said, and Max's head whipped up at the sound of pure hatred in her voice.
+
+Oh fuck. Max thought when he saw the look on Elise's face. It matched her voice perfectly.
+
+“Explain this.” She said, and started the video on her tablet.
+
+“What the hell?” Max said, and grabbed the tablet. “No. No, that's not right.” He said, handed her tablet back, then turned to his computer and tapped the keys furiously. “He shouldn't... no... oh, shit...”
+
+“Well?” Elise said with patience laced with scorn.
+
+“Hold on for a second, Elise.” Max said, then leaned around her to look across the room. “Craig! Check server 6 and the update for the giants!”
+
+“On it!” Craig said, and Max turned to Elise.
+
+“He shouldn't have encountered the giants at all, let alone to this extent.” Max said. “I honestly don't know what to tell you.”
+
+“What does that mean?” Elise asked. “Ren was STEPPED ON!”
+
+Max shrugged his shoulders. “What do you want me to say? He was fighting giants. It was bound to happen at some point. I'm just sorry he died before the hidden quest was completed.”
+
+“The WHAT?”
+
+“The attack on the dwarf garrison was a hidden quest. Defend or die. It's something Craig cooked up when we decided to introduce the giant race next year.” Max chuckled. “Well, it was supposed to be next year. If Ren does what I think he's going to do...” He shook his head for a second, then changed mid-motion and nodded instead. “He's definitely going to do it now. We're going to have to put a rush on the giant update.”
+
+“It's been accessed!” Craig said from across the room. “I'm not sure how, though. The files are encoded.”
+
+Max laughed. “Craig, we're running top of the line computers with state of the art AI. There's literally no code they can't break or work around.”
+
+“Oh.” Craig said. “Right.”
+
+“Kids.” Max smiled, then looked at Elise. “Hey, what do you want me to do about it? He failed.”
+
+“I don't think he did.” Elise said.
+
+“What?”
+
+“I memorized that last moment.” She said, ran the footage to the spot she wanted, and paused it. “Look.”
+
+Max looked at the still image and frowned. “What is that?”
+
+“If I had to take a guess, it's a crossbow bolt hitting the giant in the eye.” Elise said.
+
+Max turned to his computer again, and pulled up the data from the incident. “Well, damn. You're right. It killed Ren, but it's dead, too.” Max smiled. “Depending on the timing of both of their deaths, the AI might give him the XP, or it might not. I guess we'll find out when he logs back in.”
+
+“Ren is still going to suffer the death penalties, isn't he?”
+
+Max chuckled. “Everyone does, Elise.” He said. “It's a basic mechanic in the game.”
+
+“He's carrying a lot of specialized equipment.” Elise said.
+
+Max waved her concern away. “Don't worry about that.” He said. “The portable crafting stuff is a part of his character build.” He smiled. “So is that funky weapon tool he made.”
+
+Elise sighed. “Well, that's a relief.” She said. “Can you tell me what he dropped?”
+
+“Yeah, but I'm not going to.”
+
+“Excuse me?”
+
+“You'll only tell me to change them, or replace them with something less valuable.”
+
+“Oh, god.” Elise put a hand on her forehead. “How bad is it?”
+
+“He'll survive without them, there's no question about that.” Max said. “I just want to see if he notices what it is that he dropped.”
+
+“Maaaaax.” Elise said, and he laughed.
+
+“You're no fun.” He said and smiled. “He dropped about 33 platinum in money, one of the rings on his fingers, and...”
+
+Elise waited for a moment. “And what?”
+
+“Something he should really miss from inventory, if he's smart.”
+
+“Max, what is it?” Elise said, and loomed over him “Tell me!”
+
+“You know, you're cute when you get all menacing like that.” Max said, and Elise scowled at him. “Yeah, like that.”
+
+Elise made a fist, and he laughed.
+
+“Okay, okay!” Max held his hands up in surrender. “It's a small wooden box.”
+
+“What's so important about it?” She asked.
+
+“It's got 30 shadow coins in it.” Max said, and grinned at Elise's shocked expression.
+
+*
+
+Ren opened his eyes and yawned, then stretched.
+
+“Hey there, sleepy-head.” Denise said.
+
+“What... what time is it?” Ren asked, after looking at his wrist and remembered his watch was still on the dresser.
+
+“Almost 3 p.m.” Denise said.
+
+“Wh-what?!?” Ren asked surprised. “I missed...”
+
+“It's all right.” Denise said. “”The next game day doesn't start for another 10 minutes, and then there's breakfast they eat, too.” She smiled. “You've got plenty of time.”
+
+“Whew.” Ren said. “I started to panic there.”
+
+“I wouldn't let you be late, or panic.” Denise said. “I was going to wake you up in a few minutes, anyways.”
+
+“Thanks.” Ren said, and sat up in bed. She handed him a supplement to drink, and he took his time with it. “Vanilla?”
+
+“Yep.” Denise said and smiled. “Now that we're not under the strict rules of the hospital, your food is going to taste a little bit better than it used to.”
+
+“That's music to my stomach.” Ren said, and covered his mouth with a hand so he could burp. “See? It agrees.”
+
+Denise shook her head and took the glass back. “You're still on the restricted diet, but at least we can change it up a bit more than usual.”
+
+Ren nodded.
+
+“Do you need the bathroom?”
+
+“Actually, yeah.” Ren said, and she helped him slide out of bed. “Can I use your arm for balance?”
+
+“No. I'm going to make you crawl to the bathroom.” Denise said and grinned.
+
+“Ha ha.” Ren said, and gripped her outstretched arm. He walked to the bathroom pretty much on his own, her arm was just for security. “I can't believe staying in bed for a week makes me this weak.” He said, and transferred his grip to the back of the toilet. “I have to work up to walking again.”
+
+“Do you think you can handle this part alone?”
+
+“Yeah.” Ren said. “I think so.”
+
+“I'll just turn around and wait right here, just in case.”
+
+“Thanks.” He said, and lifted the toilet seat. Once he opened the dam that was his kidneys, the flood of water that came out didn't stop for nearly two minutes. Both he and Denise were laughing pretty hard as it just kept going and going. They had tears in their eyes by the time he was done. Ren cleaned up and Denise helped him walk back to the bed.
+
+“That almost sounded painful.” Denise said with a huge grin on her face. “How in the world did you hold that much in all day?”
+
+“I have no idea.” Ren said. “I bet you're really glad that I didn't dream about running water or something.”
+
+Denise snorted a laugh. “I think we should both be glad for that.”
+
+“Oh, I am.” Ren said. “I haven't had these pajamas long enough that I can ruin them without it bothering me.” He looked at the rollaway table and the cubbyhole. “Denise, can we walk back to the bathroom again?”
+
+“What for?”
+
+“Ah... I forgot to... ah...” Ren said, and tapped the rollaway table.
+
+“Sure.” Denise said, got one of the foil packets, and turned Ren around to lead him back to the bathroom. “Right this way, sir.”
+
+Ren chuckled as he walked back to the bathroom with Denise's help. “I wish you were my physical therapist.” He said and sat down on the now closed toilet. “I don't mind you leading me around like this.”
+
+“I wish I could be your therapist.” Denise said. “I'm not certified for anything like that, though.”
+
+“That's okay.” Ren said. “Nobody's perfect.”
+
+“Quiet, you!” Denise smiled crookedly, and shook her fist at him jokingly. “Or I will get physical!”
+
+Ren laughed and tried to open the foil packet. His fingers slipped and dropped it on the floor. “I think I overdid it with the hand exercises.” He said and sighed.
+
+“Stay there. I've got it.” Denise said and knelt to pick it up. “It's not open, so it's still okay to use.”
+
+“That's a relief.” Ren said. “I'd hate to waste it like that. There's only so many in the box.”
+
+“Can you handle this part?” Denise asked, as she opened the foil packet carefully.
+
+“Actually, I don't know.” Ren said, and flexed his hands. “Stella handled it for me yesterday.”
+
+Denise looked at Ren with raised eyebrows, and he chuckled.
+
+“My arms were tied to the bed because of the IVs, remember?”
+
+“Oh!” Denise said, then blushed a little. “I'm sorry, I... ah... I thought...”
+
+“I can neither confirm nor deny that anything has ever happened.” Ren said. “At least, I think that's the right thing to say. If I said it did, you'd believe it did, and if I denied it, you'd believe that it did anyways.”
+
+Denise smiled. “So, something did happen.”
+
+“I didn't say that.” Ren said with a slightly worried expression on his face. “I said...”
+
+“I know what you said.” Denise said. “I'm looking at your eyes, though.”
+
+“What... what about them?”
+
+“You are a terrible liar, Ren.” She said. “I don't know why you are, but any time you say something that's even slightly untrue, we can always tell.”
+
+“You're just like the dwarves.” Ren said and sighed. “I can't lie around them, either.”
+
+Denise smiled. “Okay, then. Spill it. Tell me what happened.”
+
+Ren sighed again, and told Denise about Stella helping him try to find the right foil packet for his needs, and how one item had gotten stuck, and the aftermath.
+
+“Actually, that happens more often than not.” Denise said. “You really don't know how they'll fit until you try them.” She nodded. “Stella handled it well, I think.”
+
+“Her view on it being the body's natural reaction to stimulation really made it a lot easier for me not to be embarrassed about the whole thing.” Ren said.
+
+“Well, that's not too bad.” Denise said. “If that was all that happened...”
+
+“Well, there was one other time...” He said, and her eyes widened as he told her about the quick incident in the shower.
+
+“You're kidding.” Denise said, and she tried hard to keep the blush from her face.
+
+“No.” Ren said. “She really helped me a lot that day. I wanted to return the favor.” He smiled. “It happened fast, and I couldn't enjoy it as much as I wanted to; but, she seemed happy afterwards.”
+
+“No wonder!” Denise said, the clamped her mouth shut.
+
+“What?”
+
+Denise looked at him, and it was her turn to sigh. “Most guys wouldn't return the favor.” She said. “Ever.”
+
+Ren put a hand on her shoulder. “I'm sorry.”
+
+Denise snorted a laugh. “That's not something you should be sorry for.”
+
+“I meant it on behalf of all the men that passed up the opportunity with you.” Ren said. “They don't know what they're missing.”
+
+“How do you know it's something they would miss?” Denise asked, then shook her head. “No, don't answer that.”
+
+Ren smiled. “If they know you half as well as I do, then they are definitely missing something special by not returning the favor.”
+
+Denise opened her mouth to say it wasn't anything special, then she saw the innocent smile he was giving her, and changed her mind. “Thank you.”
+
+“You're welcome.” Ren said and took the opened foil packet from her. “Now stand back. This could get messy.”
+
+“Excuse me?” Denise said, her curiosity piqued.
+
+“The lubrication on these things can go everywhere if I'm not careful.”
+
+“Oh.” Denise said. “Do you need help undoing your pajamas?”
+
+“Maybe.” Ren said, and stood up a little shakily. Denise stood up as well, just in case she needed to catch him. He pulled his pajama pants down and looked at her.
+
+“I've seen it before.” Denise said. “It was only a few hours ago that I bathed you.” She smiled. “Go ahead.”
+
+Ren nodded and pulled his underwear down. After some slight stimulation, he applied the contents of the foil packet, and cleaned himself up.
+
+“Um... you're using it wrong.” Denise said. “It's nowhere near close to being on and you're only at half-mast.”
+
+“I know.” Ren said, pulled up his underwear and adjusted it accordingly, then pulled up his pajama pants. “I leave the extra room, just in case.”
+
+“In case of what?”
+
+“In case I need to go a few times.” Ren said. “You've seen the blue screens.”
+
+“Yeah, but they're only 15 to 30 minutes long.” Denise said.
+
+“Uh huh.” Ren said, then looked at her. “Did you forget the time compression? It's 4 times as long in the game.”
+
+Denise's mouth fell open, and Ren laughed at her expression.
+
+“Yeah, you forgot.” He took her arm to keep his balance, and Denise walked out of the bathroom to the bed, and wordlessly helped Ren climb into bed. “Hand me the VR headset, would you?”
+
+Denise did so, then helped him put it on.
+
+“See you at supper.” Ren said.
+
+“Flow Login Start.”
+
+********
+
+Ren popped into the white loading area, and looked down at himself. He was wearing his red pajama set, and looked around.
+
+I wonder why I'm...
+
+“Hi, Ren!” A familiar woman's voice said, and Ren turned around to see Elise standing there. She wore a silk blouse and a short skirt. He smiled, because on a woman with normal-length legs, the skirt would have been a moderate length. Elise's legs were so long that it made the skirt look like it was short.
+
+“Hi, beautiful.” Ren said, and she blushed slightly. “I wondered why I was in the loading area.”
+
+“I couldn't wait until after work to see you.” Elise said and stepped close. “The new system sent me the footage from your game session last night.”
+
+Ren dropped his head slightly. “Boy, did I mess up, or what?” He said and looked back at her. “All that work for nothing.”
+
+Elise cupped the side of his face. “I probably shouldn't tell you this, just so you can discover it for yourself; but...” She smiled. “...you didn't mess up that badly.”
+
+“What do you mean?” Ren said with wide eyes. “Hold on! I... I did it?”
+
+Elise nodded, and Ren picked her up and swung her around.
+
+“Wha-hooo!” Ren said as Elise laughed, and he put her down a few moments later. Elise blushed and was flustered, and Ren grinned at her. “I hope I can still get the XP, even though I died.”
+
+“That we don't know.” Elise said, once she calmed down a little. That was a rush! She thought, then smiled. “I talked to the tech guys, and they said the AI will decide when you go back in.”
+
+“Nice.” Ren said. “A 50/50 shot is better than none.”
+
+“You still died, though.” Elise said, and took him into an embrace. “I'm not going to ask how it felt to be stepped on like that.”
+
+“I'll tell you if you want to know.” Ren said, and Elise looked at him in surprise.
+
+“You will?”
+
+“Sure.” Ren said. “Why wouldn't I?”
+
+“Most men wouldn't want to subject a woman to such things.”
+
+“I can't believe I still have to tell people that I'm not like most men.” Ren smiled. “Do you want to know?”
+
+Elise thought about it, then nodded. “Even though there are some things I think you should keep to yourself, I'd like to know.”
+
+“The pressure was enormous, and it broke every bone in my body at once.” Ren said. “The pain was excruciating, and then everything went black.”
+
+Elise's eyes widened at the description. “You... you shouldn't have felt that.” She said. “It should have cut the feed as soon as it stepped on you.”
+
+“I think it did.” Ren said. “Or I would have felt everything getting crushed.”
+
+Elise blinked her eyes at him a few times. “Um... I...”
+
+“I think the game let me feel the bones breaking, because I felt it before.”
+
+“You WHAT?!?”
+
+It was Ren's turn to look at her in surprise. “You didn't know that?”
+
+Elise shook her head.
+
+“I figured you got all of my medical records when you got me transferred out of the hospital.”
+
+Elise sighed. “They gave me enough to maintain your care, but once the lawyers got involved, if we want the rest of them, it's going to be through the courts.”
+
+“I don't think so.” Ren said. “They might refuse to release them to someone trying to take care of me, but they legally can't refuse if I request it.”
+
+Elise ran a hand through his hair. “I'll bring the proper paperwork over when you log out for supper.”
+
+“Great.” Ren said. “So... why am I still here?”
+
+“Can't I just want to snuggle with you?”
+
+Ren chuckled. “That would be a fantastic reason, but I know you wouldn't stop me from going into the game if it wasn't important.”
+
+“How can you know me so well?” Elise said, let him out of the hug she still had him in, and knelt. “It's about your loot drop.”
+
+“Don't tell me.” Ren said. “It might influence the game's choice.”
+
+“Wh-what?”
+
+“If I go in knowing I'll lose something specific and important, my Trouble recipe will flip everything around.”
+
+“I never thought about that.” Elise said. “I... I want to tell you so badly, but... if you know and it changes, then telling you won't mean anything!”
+
+Ren stepped close, and looked at her in the eyes. “Just coming to tell me means a lot to me.” He said, and kissed her. He ran his hands through her hair as they made out, then Elise ran her hands up his back and hugged him close. They stayed that way for several minutes, and then Ren broke the kiss.
+
+“I better get in there, or I'm going to miss breakfast.” Ren said, and stepped back.
+
+Elise's hands fell away and down to her sides, and she stared at him with wide eyes.
+
+“See you in a few hours.” Ren said and smiled. Elise nodded several times, and her hand reached out to tap a few keys on a keyboard invisible to Ren. He smiled at her and waved, then dissolved.
+
+*
+
+Oh, my GOD! Elise thought as Ren disappeared. She put a hand to her lips and then quickly between her legs. Ah, dammit! “Logout!”
+
+********
+
+Elise got up from the chair in the VR lounge and ran to the bathroom. I'm really glad I wore the extra thick pad today! She thought as she cleaned herself up and replaced the pad with a normal one from the dispenser in the bathroom. I have to remember to go home and get another one. She turned on the hot air blower and held her slightly damp underwear underneath it.
+
+********
+
+Ren was enveloped in a glowing white light for several moments, then appeared in the glowing spawn circle in the middle of the main room of the house on top of House Neram Keep.
+
+Notice!
+
+You died, and must suffer the consequences.
+
+You have lost 5% of your current money. Amount lost: 32 Platinum, 52 Gold, 89 Silver, 20 Copper.
+
+You have lost 1 randomly chosen equipped item.
+
+You have lost 1 randomly chosen item from inventory.
+
+Hidden Quest Complete!
+
+You have successfully stopped the slowly encroaching horde of giants that were infested with Brain Arthropod Grubs.
+
+Rewards: 0 XP (player deceased)
+
+Influence: +63,410
+
+Loot: None collected
+
+Notice!
+
+You have successfully defended the Dwarven Kingdom from an imposing foe.
+
+Honor: +12,500; Lady Neram +12,500
+
+Running Quest Update!
+
+You have shown some influential people what you can do when the going gets tough.
+
+Rewards: 3,500 XP
+
+Fame Bonus: +75% (100% minus Class Reduction 25%)
+
+Fame: 2,500
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame: 2,500 x 10XP = 25,000 XP
+
+Notice!
+
+Because of your ingenious plan to induce the Brain Arthropod Grubs into gathering together, and for saving the most giants possible in so short a time, you have been granted a special reward.
+
+Intelligence: +3
+
+Wisdom: +1 (2 points were lost due to recklessly throwing your life away)
+
+Special Recipes: Rod Of Leadership, Wand of Command
+
+What's with that 'reckless' comment? Ren thought as he dismissed the popups, then an ear-piercing scream cut through the house.
+
+“RENNNNNN!!!” Nathalia screamed, and he was embraced before he could blink his eyes. He also discovered that he wasn't wearing his gold-colored armor.
+
+“Hello, My Love.” Ren said, and held her close. She looked at him as the tears flowed out of her eyes, and he wiped them away with a scrap piece of cloth.
+
+“You...” Nathalia said, then shook her head at him. “By the gods...”
+
+“I'm sorry I made you worry so much.” Ren said. “I honestly didn't have the time to contact you at all, with everything that's been going on.”
+
+“And then you died, you IDIOT!” Nathalia yelled at him, then kissed him. “You...” *kiss* “Damn...” *kiss* “Stupid...” *kiss* “Idiot!” *kiss*
+
+He tried not to laugh as she kissed him all over his face, including his beard and both eyes.
+
+“What were you thinking?!?” Nathalia asked him when she was done.
+
+Ren shrugged. “I wasn't thinking about much, past getting the attacking giants redirected.” He said. “Teepo and I discovered that the grub I'd taken from the giant that had Groggot, had left a trail of pheromones for the others to follow.” Which reminds me. He thought and looked down at his hand. The Beetle Crown Ring was still there; but one of the raised platform rings with Screaming Terror enchanted on it was missing. Summon Teepo!
+
+Teepo's slightly glowing blue astral form materialized at Ren's feet. “REN!” He said, then zoomed up to land on Ren's shoulder. His little bug legs tickled as he tried to give Ren a hug on the neck.
+
+“Pheromones!” Nathalia said, surprised. “That could have been really bad.”
+
+“Yeah.” Ren said, and explained what he had done with dragging the sack of grubs around. “If I hadn't done what I did, the entire Garrison might have been overrun by giants.”
+
+“Oh, Ren!” Nathalia said, and kissed him again. They stayed like that for a moment, then Ereka came into the room.
+
+“Ren, I...” Ereka sighed. “I'm so sorry for what Croggart did.”
+
+“Wait... Croggart hit me with the sleep spell?” Ren asked, and let Nathalia go. “How did... oh, that sneaky, rotten...”
+
+“Yes, he took it from Groggot.” Ereka said. “He didn't want to go back to prison.”
+
+“Of all the things he could have done...” Ren shook his head. “He chose... poorly.”
+
+Ereka walked over to him and knelt on the floor by his feet. She took his hand and put her head on the back of it, then closed her eyes.
+
+“We owe you an-”
+
+“NO!” Ren exclaimed. “Stand up!”
+
+Ereka looked at him in surprise. “But...”
+
+“You will NOT say you'll be my eternal servant.” Ren said. “If you even mention it, I'll have Nathalia banish you from House Neram lands.”
+
+Ereka's mouth dropped open in shock, and she stared at him. Ren gripped her hand and lifted her into a standing position.
+
+“This was not your fault! You will not demean yourself for your brother's mistake.”
+
+“But...”
+
+“No.” Ren said. “I did not risk my life to save your brother Groggot, just so you could throw your own life away.”
+
+Ereka took a deep breath. “I wouldn't be.”
+
+“You would.” Ren said. “I'm leaving in 3 months. If you pledged to me personally, you'd leave the entire House without anyone to help run it.”
+
+Ereka tried to argue with him, but Ren was having none of it. He took both of her hands and placed them on his cheeks, then kissed her lightly. Her eyes widened as he pulled her hands away, then put his own on her face, and kissed her again.
+
+“There.” Ren said. “Now there's no Honor debt between us. All is forgiven.”
+
+Ereka put a hand to her lips. “But... but...”
+
+“You can't mention it again.” Ren said. “Your own culture's rules say so.”
+
+“I...” Ereka let her hand drop, and she left the room.
+
+“You handled that very well.” Nathalia said. “She's been agonizing over what to do for days.”
+
+Ren nodded slightly. “I only just found out about Croggart, and I'm pretty angry about it.” He shook his head. “I can only imagine what she's been going through.”
+
+Ereka came back into the room and handed the Wand of Slumber to Ren. “I found this at the house.”
+
+Ren took it from her and stored it. “Thanks.”
+
+“No, Ren.” Ereka said. “Thank you.”
+
+“For wh-” His words were cut off as Ereka kissed him full on the lips. Ren's eyes widened and he held his hands out to the sides, and didn't kiss her back.
+
+Ereka stepped back and smiled. “You saved my brother from the clutches of a crazy giant.”
+
+“I sent him into the giant lands, though.” Ren said.
+
+“That was his choice.” Ereka said. “You gave him as much help as you could, didn't you?”
+
+“Of course I did.” Ren said.
+
+“Then that's all that matters.” Ereka said. “Groggot's always had a fire under his butt for adventure.”
+
+“A... a fire...” Ren said, then all the blood drained from his face. “Oh, no! I left the baby fire elemental at the mines!” He said, and ran for the door.
+
+“STOP!” Nathalia commanded, and Ren stopped with the front door open. “Get back here. Right now.”
+
+“But I have to go!” Ren said.
+
+“Now.” Nathalia said sternly. Ren shut the door and walked over to her.
+
+“Nathalia, please...”
+
+“Instead of just running off every time you hear something, or remember something...” Nathalia said. “...you might start by talking about it.”
+
+“I... I'm sorry.” Ren said. “The baby fire elemental has been at the mines the whole time I've been gone.” He said calmly. “I have to go there right away.”
+
+“For what?” Nathalia asked. “To discover it's not there?”
+
+“Wh-what?!?”
+
+“That's right.” Nathalia said. “If I hadn't stopped you just then, you'd have run all that way, only to find that the pen it was in is empty.”
+
+“Oh, no.” Ren said, and sat down on the couch. He put his head in his hands and his elbows on his knees, then sighed. “What... what happened to it?” He finally managed to ask.
+
+“I went and picked it up.” Nathalia said.
+
+Ren's head whipped up and he stared at her as hope filled his face.
+
+“You'd been gone for 2 days by then, and I was pretty sure no one was feeding the poor thing.”
+
+Ren stood up and hugged her tightly. “Oh, thank you. Thank you!” He said, and kissed her deeply. “Where is it?”
+
+“I... I made... a pen in the courtyard.” Nathalia said, a little flustered. Ren kissed her again and ran out of the room. “Hey, I said not to do that!”
+
+“Sorrrrrry!” Ren said, and disappeared out the front door.
+
+*
+
+“That man.” Nathalia said, and shook her head.
+
+“That man is back.” Ereka said, and gave Nathalia a hug. “Loving an Adventurer definitely has it's ups and downs.”
+
+Nathalia looked at her with wide eyes, and they both started to laugh at what Ereka had just said.
+
+*
+
+Ren looked around quickly, and found a large stone brick enclosure; then was surprised to find what was inside. It was the baby fire elemental like Nathalia had said, except it was about a foot and a half long now, and not much of a baby. It still only had the 4 stubby fire legs that it had when it was small, though. Ren hopped into the pen, and knelt.
+
+“Hey, there.” Ren said, and the fire elemental shifted colors slightly, and extended it's head-like stub. “I'm sorry I've been away.”
+
+The fire elemental walked cautiously over to him, and he held out a hand. It came a little closer, and Ren moved the hand down and tickled it's underside. He could hear the sound of a crackling fire; but it was much louder now, and the fire elemental's color changed to a bright orange and it jumped on him. Ren started laughing and hugged it, as it's head stub poked him in the face a few times; almost as if it was kissing him.
+
+“Yes, I missed you, too.” Ren said. “Boy, did I ever miss you.” He said and took out several pieces of spider silk scraps.
+
+The fire elemental took them and shoved them inside itself, glowed white for a few seconds, and they were gone.
+
+“Nice!” Ren said, and rubbed it's head. “You must eat a lot if that doesn't give you trouble anymore.”
+
+“It sure does.” Nathalia said as she came out of the house. “I've got a standing order at the lumber yard.”
+
+Ren picked the elemental up and tossed it into the air a few feet, and it glowed orange with a bit of blue. “Are you a glutton?” He asked as he caught it. “Does my favorite little elemental like to eat?”
+
+It shifted color slightly, and Ren smiled. He saw the old pen had been used as part of the wall, and the fire bricks there were still putting out fire, but only a tiny amount compared to the size of the elemental.
+
+“I think a slight modification of your pen is needed.” Ren said. “Would you like more heat and fire?”
+
+Its color shifted slightly again, and he enchanted a pile of bricks on one side with wind and fire glyphs. When he activated them, it covered nearly half of the pen, and the fire elemental jumped right into the center of it. Ren could see it stretch and then lounge as it basked in the windy flames.
+
+“I'm heading to work.” Nathalia said. “Want to walk me over?”
+
+“Always.” Ren said, then hopped out of the pen and joined Nathalia at the gate. They went through it, were greeted by the guards, then they walked down the road to the restaurant.
+
+“You're going back to the Garrison, aren't you?” Nathalia asked.
+
+“Yes.” Ren said. “I have to see what they did with the giants.”
+
+“You could just call.” Nathalia suggested, and Ren laughed.
+
+“You're definitely smarter than me.” He smiled. “I'll do that to let them know I'm coming.”
+
+Nathalia shook her head. “If I told you not to go, you'd still go, wouldn't you?”
+
+“I didn't see Princess, Riley, or Stacy.” Ren said. “I have to go and get them, at least.”
+
+“Ren.” Nathalia stopped walking in front of the restaurant, and turned to him. “Please, I don-”
+
+“Stop.” Ren said. “If you tell me not to do something that I need to do, it's only going to hurt you more when I leave to do it.”
+
+Nathalia sighed. “So, you really would ignore me and go.”
+
+Ren stepped in close to her, and cupped the sides of her face. “You've known all this time that there are certain things that I'm going to do, no matter what.” He said. “Now, I want you to remember one of the main precepts of the military.”
+
+Nathalia put her hands on top of his hands that held her face. “What is it?”
+
+“Never give an order you know will be disobeyed.” Ren said and smiled. “I'll be back as soon as I can.”
+
+“What about working in the mines?” She asked, and he kissed her.
+
+“I'm taking the afternoon off to spend it with the woman I love.” Ren said. “I've got almost 5 days of work caught up already from that last little stunt. I can afford to take an afternoon off.”
+
+Nathalia shook her head. “What am I going to do with you?”
+
+“Anything you want to.” Ren whispered to her, gave her another quick kiss, and Nathalia blushed slightly because she was thinking about all the possibilities. He stepped away from her, waved, then ran down the road.
+
+“I'm so glad you're okay.” Teepo said.
+
+Ren laughed. “I died, Teepo. That's not really okay in my book.”
+
+Teepo chittered in delight. “You're back, so everything is okay.” He said. “I see one of the Screaming Terror rings is missing.”
+
+“Yeah. It dropped as loot.”
+
+“What else did you lose?” Teepo asked.
+
+“Just over 32 platinum, and something random from inventory.” Ren skidded to a stop. “I hope I didn't lose a crafting station or something!” He opened his inventory, and checked it quickly. “No, I've still got them all.” He looked a little more. “Then what... oh, crap.”
+
+“What is it?”
+
+“I lost the little wooden box from Lord Lodur's loot.” Ren said. “With the shadow coins in it.” He closed his inventory and started running again. Maybe if he was extremely lucky, no one would have gone into the pit yet.
+
+“There's no chance of that.” Teepo said. “That place is a gold mine for loot.”
+
+“I know.” Ren said, but kept hoping anyways.
+
+********
+
+“Ha!” Max, the programmer at Sid Tec said. “Craig, you owe me ten bucks!”
+
+Craig counted out ten pretend dollars and threw them at Max.
+
+“Thanks!” He said and pretended to grab at the falling bills. Once he had collected them all, he grinned. “I knew that kid was smart.” He said. “Now we have to wait and see if he's smart enough to get them back.”
+
+********
+
+Ren took out the Sending Square for the Commander of the Garrison, and concentrated on him.
+
+“Good morning, Commander.” Ren said. “I'm sorry to bother you.”
+
+“Welcome back.” The Commander's voice said.
+
+“Thanks.” Ren said. “I'm coming to pick up my mount and dogs.”
+
+“The door's open.” He said. “I'm sure they are eager to see you.”
+
+“It doesn't really sound like you are.”
+
+“Oh, I am.” The Commander said. “Meet me in my office.”
+
+“I'll be right there.” Ren said and put the Sending Square away. This should be fun. He thought sarcastically as he took the corner to run up the road to the Garrison.
+
+“It'll be fun if you want it to be.” Teepo suggested. “Or not.”
+
+“Okay, this will be fun.”
+
+“That's the spirit!” Teepo said. “Now run faster!”
+
+Ren laughed as he ran as fast as he could, which was pretty fast considering his boots let him run twice as fast as he normally did.

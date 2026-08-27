@@ -1,0 +1,323 @@
+---
+id: a20ad96a-3c45-5987-a0a5-057095527373
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127 - I Can Explain"
+slug: 0112-chapter-127-i-can-explain
+partOf: mythrans-master-of-all-continued-completed
+position: 112
+ownLength: 2906
+unit: words
+publishedAt: 2016-12-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109668/chapter-127-i-can-explain"
+royalRoadId: "109668"
+---
+
+The gentle kiss went on for a minute and Elerlyth's hands moved from Ren's face down to his neck. He caught her hands before she could scratch him, and she pulled away from the kiss.
+
+“Don't you trust me?” She asked coyly, as she felt a little distrust and a lot of amusement from him.
+
+“You wouldn't like me so much if I did.” Ren said and grinned. “I really would be a sucker then.”
+
+“Darn right.” Elerlyth said and smiled. “I don't waste my time with people like that.”
+
+Ren slid his grip from her wrists to her hands, and Elerlyth felt some sorrow from him.
+
+“It's getting dark, and I have to go soon.” Ren said.
+
+“I know.” She said, and sighed. “Plus, there's only tonight and tomorrow, and I've got to get to school.”
+
+“School?” Ren asked.
+
+Elerlyth nodded. “I've got engineering classes at the college all morning, and at noon I work at the garage for a full shift.”
+
+“No wonder you said I had it easy.” Ren chuckled. “You must be exhausted all the time.”
+
+“You have no idea.” Elerlyth said and walked over to the couch, and dragged Ren along. She unequipped all the armor pieces, but left on the webbed bodysuit and sat down. Ren sat down in the corner and opened his arms. Elerlyth snuggled into him and sighed.
+
+“I love my work.” She said as she felt Ren's concern and worry about her. “But the school thing bothers the hell out of me.” She rested her head on his shoulder and looked at him. “The professor is the worst. All he does is pick on me because of how I look, and I can't complain because I need the credit for his class if I want an engineering degree.”
+
+“I'm sorry I can't help you with that.” Ren stroked her hair and tried not to stroke anything else. Elerlyth felt his sadness, and then his indecision about touching her.
+
+“You can touch me if you want to.” She said and her face flushed a slightly darker color. “I'm not drunk on your awesomeness, either.”
+
+Ren chuckled. “I know you aren't.” He moved his hand from her hair to her face, and traced the same parts that he did in real life, to show her that he saw her. She felt his determination, and realized what he was doing.
+
+“Ren...”
+
+“I don't want to start something right now, that I know won't stop.”
+
+Her eyes widened as she felt his ambition to do just that.
+
+“Once I decide to do something, I go all in.” Ren saw her face flush darker, and he laughed. “That was both sincere, and could be taken another way.”
+
+“So could that.” Elerlyth said, and chuckled as Ren realized what he'd said, and she felt his embarrassment.
+
+“That's not what I...” Ren looked at her, and she grinned. “...all right. You can feel how I feel. You know I want to. All double meanings aside.”
+
+She nodded, and he cupped the side of her face.
+
+“Do you think you can make it through the whole night without me here?” Ren asked. “Answer me honestly.”
+
+Elerlyth sighed. “Yes.”
+
+“Good.” He said and moved her over slightly, then stood up. “I'll be back as soon as I can.”
+
+“But... I thought...”
+
+“If you'd lied and said you couldn't live without me if I left, I'd have left just to see if you were right.”
+
+Elerlyth's eyes widened. “You'd have left me to die?”
+
+“No, I'm not a heartless wretch.” Ren laughed. “I'd be gone for about 20 minutes, then come back to see if you were okay.”
+
+Relief flooded through her. “Don't tease me like that.”
+
+“I told you before, Elerlyth. I won't let you starve.” Ren said and leaned in close. “But we both know there's a difference between eating to live, and enjoying what you eat.” He kissed her, and flooded her with how he felt. Glad that she was honest, happy that he could help her, regret that he was leaving for a short time and was probably in a lot of trouble, and pleasure from the feeling of her skin on his. She moaned as she drank it all in, and a moment later, Ren broke the kiss.
+
+Elerlyth blinked a few times and then smiled. “Yeah. There's a huge difference.”
+
+“I have to go and talk to Nathalia, and then log out for a few minutes. I could be gone for half an hour, or for 2 hours.” He said as he held her hand. “I'll try for the sooner, but you should plan for the latter.”
+
+Elerlyth nodded. “I'll see you soon.” She said and moved over to the corner of the couch to where Ren had sat, and pulled her legs up. She felt his admiration again as he looked at her. Ren shook his head and smiled.
+
+“I appreciate beauty when I see it; but damn, Elerlyth... I could stand here and stare at you all night.”
+
+She felt the truth in his words and her face flushed darker. “You better go, short stuff.” Elerlyth let his hand go and she smiled. “Or you won't be leaving at all.”
+
+Ren nodded and walked towards the stairs. “By the way, this is a Safe Zone. You can log out here and not worry about what happens to your avatar.” He went up the stairs to the landing and turned to wave at her. She waved back and he ran up the rest of the stairs.
+
+*
+
+He really is delicious! Elerlyth thought and shivered as she remembered that last kiss. He doesn't hide anything from me at all. He gave me everything he had willingly! She rested her head on the back of the couch and waited for Ren to return. He's so sweet, it almost hurts to use him like this!
+
+*
+
+Ren went into the apartment and to the living room. He took out a piece of wood and cut off 2 pieces and nailed one to the inside of the cabinet door, closed it behind him, and nailed it shut from the inside.
+
+“I need to buy a couple of locks.” Ren said and stepped through the portal. It really was just like a doorway, and he appeared in his new living room without any noticeable passage of time.
+
+“Hello, Ren.” Nathalia said, and he walked around the portal to see where she was. She sat in a comfy chair, with her arms crossed under her chest.
+
+“Hi, Nathalia.” He said and looked around. “Where's Ruck and Golir?”
+
+“Ruck is downstairs and hanging on the wall for some reason.” Nathalia shrugged her shoulders. “I sent Golir home with the cart.”
+
+“He left you here alone?” Ren asked.
+
+“I ordered him to go home to his wife.” Nathalia said. “You've given me great armor and weapons to protect myself with. I hardly need a guard while I'm inside.”
+
+Ren took out some wood to build a cabinet around the portal.
+
+“You've been gone a while.” She said, and tapped a foot on the floor.
+
+“I know.” Ren said and built the cabinet the same size as the other one, added the small piece of wood on the inside and closed it. “She was a lot worse off than I thought she was.” He said and turned the cabinet so the door was on the right side, so when he walked through, he'd face the door on the other side of the portal.
+
+“So she wasn't faking it?” Nathalia asked.
+
+“W-what?” Ren asked, surprised.
+
+“I was worried it was just a ruse to get you to go to her.” She said.
+
+Ren smiled. “I would have been back here right away, if that was the case.”
+
+“Would you?”
+
+“Nathalia...” Ren said and sighed.
+
+“Did you have sex with her?”
+
+“No.” Ren walked over to her, knelt, and held a hand out to her. She took it and he looked her in the eyes. “I'm not going to lie to you, Nathalia. I kissed her a few times, and she wanted me to do more than that.” Ren took a deep breath and let it out. “I wanted to do more than that.”
+
+Nathalia took in a deep breath herself and exhaled. “Why didn't you?”
+
+“I wanted to talk to you first.”
+
+“Why?” She asked. “If you want to do it, I can't stop you.”
+
+“Nathalia...”
+
+“Go ahead.” Nathalia huffed. “Go and have fun with her.”
+
+“No.”
+
+“Why not?” She asked. “You just told me you want to.”
+
+“Nathalia, I love you.” Ren said, sincerely. “Before I do anything else, with anyone else, I want to share myself completely with you first.”
+
+Her eyes widened as her heart beat faster. “What... what are you saying?”
+
+“I'm asking you to sleep with me.”
+
+“We've slept in the same bed...”
+
+“Not last night, we didn't.” Ren said. “I was kind of hurt when I woke up and you weren't there.”
+
+Nathalia sighed. “I... had something to do... and fell asleep.”
+
+“It's okay; but it meant I couldn't tell you what was going on, and I had to leave you a note.”
+
+“I'm sorry I wasn't there.” Nathalia said and gripped his hand tighter. “Even though I promised I would always be waiting there for you.”
+
+“I said it was okay.” Ren smiled. “I just missed seeing your pretty face when I woke up.”
+
+Nathalia smiled. “I felt the same way when I woke up. I saw you weren't there and I was sad; then I realized where I was, and ran to your room. That's when I saw the note on the door.”
+
+“Do you want to know what's funny?” Ren asked, and she nodded. “I was about to use the Sending Ring to call you this morning, and it lit up because you called me.”
+
+Nathalia smiled. “It would have been sooner, but you wrote a whole story for me to read first.”
+
+Ren chuckled. “I didn't want to leave you there, not knowing everything that I was going to do.”
+
+“Including her.”
+
+He nodded. “It's just like I told you in the note. Elerlyth and I have a certain chemistry when we're together. It makes the both of us a little nuts for each other.”
+
+“I know what that's like.” Nathalia said and stood up. “I've been fighting myself so much when you're around. I just... I just want to be with you.”
+
+“I've been doing that, too.” Ren said. “I've been fighting so long that I'm kind of punch drunk.”
+
+“What's that mean?” Nathalia asked, perplexed.
+
+“It means that it's become automatic to just keep fighting, and not give in.”
+
+Her eyes widened. “And now?”
+
+“I told you. I won't do anything with anyone else, before being with you.”
+
+Nathalia smiled coyly. “So... if I don't do anything with you...”
+
+Ren's eyes widened and she stepped in close.
+
+“...I can keep you all to myself.” Nathalia ran a hand through his hair, and Ren took her into a hug.
+
+“You're the only one who does that, you know.” He said.
+
+“Does what?” She said and hugged him around the neck.
+
+“You run your fingers through my hair, but never ruffle it like everyone else does.”
+
+“That's because you hate it when that happens.” Nathalia said and smiled.
+
+“By the gods, I love you so much.” Ren said. “I want you so bad my teeth hurt.”
+
+Nathalia laughed. “The feeling is mutual, then.”
+
+She leaned in and Ren leaned down, and they shared a passionate kiss for a minute. Ren remembered something he had to do, and broke the kiss. “I'm sorry, Nathalia. I have Adventurer's business to take care of.”
+
+“That figures!” Nathalia said, and grinned. “We finally give in to our feelings for each other, and you have to go.”
+
+“I shouldn't be long. I just have a bit of explaining to do with a good friend.”
+
+“All right.” She said and sighed. “I'll be waiting.”
+
+Ren shook his head. “I don't want you waiting here.” He stepped back and took her hand and picked up the chair. “My Lady, please come with me.”
+
+Nathalia's eyes widened, but she let him lead her into the other room. He put the chair down and then took out the old comfy bed they'd slept in a few times together.
+
+“Is that?”
+
+“The same bed I had on the ship, that you sneaked into that first time... and slept in right here, on this spot.”
+
+Nathalia looked at him in surprise. “Is that why...”
+
+Ren nodded slightly. “It's the only reason I've kept the bed this long, and carried it around with me everywhere I went. I knew I'd be building here, and since this was where I was so close to giving in the first time, this was where I wanted the bed to stay.”
+
+“Oh, Ren.” She said and gave him a kiss. “You're so sweet.”
+
+“I hope you still think that after tonight.” Ren said, then leaned in to whisper in her ear what he wanted to do to her. Nathalia gripped his shoulder to steady herself, and shivered in anticipation. He waited for a moment to give her time to recover, and stepped away.
+
+“I'll be quick.”
+
+“By the gods, I hope not.” Nathalia said and shivered again.
+
+“I meant about the Adventurer's business.” Ren chuckled and climbed onto the bed. “See you soon.”
+
+Nathalia nodded slightly and Ren leaned back in the bed.
+
+“Logout.”
+
+********
+
+Ren started to take off the VR headset and Barbara was there to help.
+
+“Hey, you.” Barbara said.
+
+“Hi, Barbara!” Ren said. “How are you?”
+
+“Not as good as you, apparently.” She said and laughed. “Two women, and no venom this time.”
+
+Ren grinned. “I promised Elerlyth I'd feed her willingly.”
+
+“More like eagerly.” Barbara said and grinned herself. “She really pushes your buttons, doesn't she?”
+
+“We've got chemistry, that's for sure.” Ren said and chuckled. “Like oil and fire.”
+
+“And you're the oil.” Barbara said. “Be careful she doesn't use you all up.”
+
+Ren nodded. “I think I'm the only one who lets her feed so openly like that. I'm pretty sure she wants to swallow me whole, but I'm trying to get her to pace herself.” He chuckled. “It's hard, but if she can get it under control, it won't take up so much of her thoughts. Or her time.”
+
+“You're really too nice, you know.” Barbara said. “You could have just let her starve.”
+
+“Yeah, and it would kill something inside me if I did that.” Ren said and got out of bed. “Knowing I could have helped her and then let her wither away?” He shook his head as he walked to the bathroom. “I think I'd lose an important part of myself if that happened.” Ren shut the door and used the bathroom, cleaned himself up and pulled a foil packet from his pajama pocket. He opened it, slipped it on, and left a lot of extra room at the end. He washed his hands again and left the bathroom. Ren climbed back into bed and looked at Barbara.
+
+“Did Denise put Samantha on my visitor's list?” Ren asked.
+
+Barbara nodded. “How did that come about, by the way?”
+
+“I invited her to come and see me, but I completely forgot I wasn't allowed to have visitors.” Ren sighed. “Denise was pretty mad.”
+
+“I'd say.” Barbara said and smiled. “It took her almost 10 minutes to write the name on the sheet.”
+
+“It did?” Ren's eyes widened in surprise. “Why?”
+
+“She kept going on and on about what the girl looked like.” Barbara grinned. “You really know how to pick them, Ren.”
+
+He raised a single eyebrow and Barbara chuckled.
+
+“Pink hair with blue streaks, torn up clothing, so many piercings Denise lost count...” Barbara said and smiled. “...she was beside herself telling me all about it.”
+
+“She must have missed seeing the part of Samantha's head that was shaved.” Ren said and grinned.
+
+Barbara snorted a laugh, and put a hand on Ren's arm. “I would have heard all about it in detail if she saw that!”
+
+Ren laughed. “I really do have to apologize for the visit. I didn't know she was going to show up today.”
+
+Barbara nodded. “I assumed as much, and Denise did eventually calm down.”
+
+“I'm glad.” He said and smiled.
+
+“Well!” Barbara said and clapped her hands once. “You can't keep that cute little Nathalia waiting!”
+
+Ren smiled. “I told her I'd be back soon.”
+
+“Do you need protection?”
+
+“W-w-what?!?” Ren said, shocked.
+
+“I don't want you to be embarrassed about it, Ren.” Barbara pat his hand. “You're a man now. This was bound to come up.”
+
+“B-Barbara... I... I don't want to talk about it.”
+
+“Oh, pish-posh!” She said. “I'm a nurse. If you need help...”
+
+Ren blushed a deep red. “S-S-S-Stella h-h-helped m-me already.”
+
+“That's great!” Barbara said and smiled. “I was a little worried at first, but she's been doing a fantastic job taking care of you.”
+
+Ren nodded sheepishly as his blush faded.
+
+“Don't worry, I won't mention it again.” Barbara said as she passed him his VR headset, then helped him put it on. “With Stella helping you, you're in good hands.”
+
+“F-f-flow L-login Start.” Ren stuttered, and a popup appeared.
+
+Notice!
+
+Voice Command not recognized. (Invalid Error #452826)
+
+Please repeat.
+
+Ren took a deep breath and relaxed.
+
+“Flow Login Start.”
+
+********

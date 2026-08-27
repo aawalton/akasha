@@ -1,0 +1,319 @@
+---
+id: f09dd94e-118c-5998-a760-1b8218aa654b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 424 - Now You See Me"
+slug: 0421-chapter-424-now-you-see-me
+partOf: mythrans-master-of-all-continued-completed
+position: 421
+ownLength: 3368
+unit: words
+publishedAt: 2017-11-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174753/chapter-424-now-you-see-me"
+royalRoadId: "174753"
+---
+
+“What do you mean, 'we can't control them anymore'?” Lylyth asked the Dark Elf Lord.
+
+“Just that, My Queen.” The Dark Elf Lord said. “We had some measure of control over them at first, when they were in smaller groups; but, once they started to gather together and fought each other for dominance, well...”
+
+Lylyth sighed. “I take it none of these controllers bothered to try and fight, did they?”
+
+“No, My Queen.”
+
+“Have them killed.” Lylyth said. “Or bring them here and I will kill them.”
+
+“My Queen...”
+
+“If they had fought and won, they would still be in control.” Lylyth said. “If they lost...”
+
+“...they would be dead, anyway.” The Dark Elf Lord said. “It will be done, My Queen.”
+
+“Leave me.” Lylyth said.
+
+The Dark Elf Lord nodded and left the throne room quickly, before his Queen decided that he and his fellow instigators should be dealt with in a similar fashion. The healer waited until the Dark Elf Lord walked through the wall of spiders before she spoke.
+
+“The Royal Consort is going to be so angry when he finds out.” The healer said.
+
+“I don't doubt that.” Lylyth said.
+
+“Will you try to keep it from him?” The healer asked.
+
+“That's the last thing I would do.” Lylyth said. “You know how... brutally honest he is.”
+
+The healer nodded. “He won't like being lied to or deceived.”
+
+“No, he won't.” Lylyth said. “I just have to figure out how I'm going to tell him, assuming I see him before this is all over.”
+
+“I'm sure if you explained...”
+
+Lylyth chuckled. “If those fools had managed to maintain control, maybe he would understand; but, I don't think he will forgive me for starting all of this because they didn't keep control.”
+
+“You will win the battle because of it, My Queen.” The healer said.
+
+“Perhaps.” Lylyth said. But... will it be worth it? She thought and sighed.
+
+*
+
+Ren led the group through the tunnel, and was surprised that it didn't go up. He checked the All-Seeing Mirror and it showed the tunnel, and that there was supposed to be a safe zone up ahead. He had assumed it was the end of the level, but now he wasn't so sure. The group came to the end of the tunnel and Ren had everyone land without going into the cavern, because he saw something that wasn't on the All-Seeing Mirror. It was an entire city made of dirt and rock.
+
+“What is this?” Ren asked, and the All-Seeing Mirror showed the cavern from the side. There was still nothing. “I hope it's not broken.”
+
+“I think it's right, Ren.” Teepo said. “There's nothing there.”
+
+What? Ren blinked his eyes and shook his head. I see a whole city that fills the safe zone.
+
+“I see it, too; but, if the All-Seeing Mirror sees what's there, and it shows nothing...”
+
+“Someone is messing with us.” Ren said out loud. “Show all hidden creatures and beings in this cavern.”
+
+The All-Seeing Mirror had over a hundred dots appear on it for a moment, then they all disappeared. Ren activated his Revealing Light that was attached to his bracelet, and he saw a tuft of green hair and a pair of green eyes that looked at him for an instant, then they were gone.
+
+Teepo, did you see...
+
+“If I had to guess, it was a Pixie.” Teepo said.
+
+A 1 foot tall Pixie? Ren asked, surprised.
+
+“Do you hear that enchanting music?” One of the succubi asked, and she started to dance; and Ren could feel that it was against her will.
+
+“COVER YOUR EARS!” Ren yelled and took out the Wand of Ventriloquism and cast it on his Phantom Steed and imbued it with what he wanted. “Speak!”
+
+The Phantom Steed opened it's mouth and the screaming roar of an Abyssal Terror came out. The dirt and rock city disappeared and over a hundred 1 foot tall Pixies appeared in front of him.
+
+“AHHHHH!!!” The pixies screamed. They covered their heads as they dropped to their knees and cowered in terror. The succubi stopped dancing and Ren looked around to see that traps had been laid out where the various illusion buildings were. Nets, snares, pits, leg-holding traps with jagged teeth, and even cages were there to be used and capture unsuspecting prey.
+
+“First the trolls were being unreasonable, and now you.” Ren said and concentrated on his Fear Aura. “Tell me why I shouldn't KILL YOU ALL!”
+
+“AHHH!” The pixies screamed again and kept cowering.
+
+“Staking out a safe zone and capturing people.” Ren said and hopped off his steed. “Despicable!”
+
+“It's... the... only...way!” One of them managed to say through their fear. “We... can't survive... anywhere else!”
+
+“We're just... pixies!” Another said and moved her hand so she could look at Ren. “You're... really short.”
+
+“You are calling me short.” Ren said and thought about activating his Ultimate Terror ring to give them a real fright, then decided against it. “Stand up.”
+
+The pixie stood up and she trembled slightly. She had short green hair and green eyes, wore a cute little dress with a low cut top that showed off even cuter cleavage; and puffs of lace around the tops of her thighs to highlight nice legs. Those were strange thoughts for Ren to have, considering she was only just over 1 foot tall.
+
+“You're a big pixie.” Ren said, instead of what he was actually thinking. She smiled for a moment at what she took for a compliment, almost as if she could read his mind, and then she frowned.
+
+“You're interfering with our livelihood.” She said.
+
+“You're interfering with me getting out of here.” Ren countered.
+
+“Yes, I am.” She said and waved her hand. A vine sprung up from the ground and wrapped itself around Ren and held him tightly. “If you struggle or try to break free, the vine will get tighter.”
+
+“What if I stay still?”
+
+“It will hold you until I can put you to sleep.” She said and grinned, then started to reach a hand out.
+
+“I guess I better struggle then.” Ren said and lifted his hand against the strain the vine had on him, and grabbed onto it.
+
+“That won't work.” She said and stepped forward. “You can't pull it off.”
+
+Ren thought about using Iron Grip, then had a better idea and enchanted the vine with a glyph of 10 runes of Fire. The vine immediately went up in flames and covered Ren from head to foot in fire.
+
+“AHHH!” Ren fake screamed and squirmed.
+
+“NO!” One of the male pixies yelled and ran forward. “You're only supposed to subdue them and trick them out of their money and items, not kill them!” He said. “This is against our ways!”
+
+“I didn't do it!” The female pixie said to defend herself, and all of the other pixies watched in horror as Ren's screams died down to nothing, and he stopped moving.
+
+“What do we do? What do we do?” Another female pixie asked frantically. “He's dying! He's dying!”
+
+Ren had used his Fire Manipulation ability to keep the fire going a lot longer than the vines would have normally allowed, and he dropped to his knees. He could feel that this was not what the pixies had planned at all. They had been telling the truth, and killing really was against their ways.
+
+“Water!” One of them said and ran over, then held her hands up. A moment later, a spray of water came out of her palms and Ren used his Water Manipulation skill to have it scatter just before it hit him. He absorbed the fire to make it appear as if the water did the trick, and he felt all of the pixies relax.
+
+“Good job!” The male said.
+
+“Now what do we do?” One of the females asked. “His friends aren't going to like that-”
+
+“You can apologize.” Ren said, and all of the pixies did that slow head turn like people in horror movies did, and looked at him with wide eyes. He felt their shock and surprise, and a few felt true terror as they watched him stand up and the ashes of the vines fell away. He was unharmed and completely dry.
+
+“I know you normally get certain kinds of people coming through here occasionally; but, I am not that kind of person.” Ren smiled and bared his teeth at them.
+
+The pixies that were afraid screamed a little and turned away, and waited for the death blow. The others close by just stared at him wordlessly; but, he could feel that they also waited to die.
+
+“You are not staying here in a safe zone to keep ambushing people.” Ren said.
+
+“We can't go anywhere else!” One of them said. “If we leave the safe zone and go back, the trolls could eat even more of us!”
+
+“If we move on, the demons on the next level will get us!” Another said.
+
+“I threw the trolls into their abyss pits.” Ren said, and all of the pixies froze stiff as statues.
+
+“You wh-wh-what?!?” The female closest to him managed to say through clenched teeth. We bit off more than we could chew if he can toss trolls around!
+
+“The trolls are gone.” Ren said. “I knocked all of their bridges down, too.”
+
+“No!” One of the pixies said. “That's not possible!” He said. “No one can defeat the trolls!”
+
+“Don't mind him.” The green-haired female said. “He's a trollkin.”
+
+“He's an alone trollkin, now.” Ren said. “I can show you, if you want.”
+
+“No, no! It's a trick!” The trollkin shrieked. “He'll lure us into a trap and take all our things!”
+
+Ren looked at him. “We fear most in others what we fear most in ourselves.”
+
+“Wh-what?”
+
+“You're afraid that I'll do to you what you've been doing to countless others.” Ren said. “Don't worry, though. I carry around more stuff than anyone else I've ever met. I don't need to add your stuff to it.”
+
+“Hey! I've got good stuff you'll definitely want!” The trollkin exclaimed, then slapped a hand over his own mouth. That made several pixies laugh, and Ren smiled. He felt a tingling sensation down his spine and turned to look at the green-haired female because she had her hands out towards him.
+
+“You're not evil like the others.” She said in wonder, and all the female pixies nearby gasped.
+
+“What? How?” One of the males asked.
+
+“He's been touched by evil.” She said and her eyes moved to look at the skeleton knights and then at the succubi. She looked back at Ren and smiled. “You have it, but it doesn't have you.”
+
+Ren knelt on one knee and held out his right hand. “Normally I'd say it was nice to meet you.” He said and smiled. “This meeting wasn't that nice.”
+
+The green-haired pixie laughed. “I'm Shanna Lilybottom, Pixie Extraordinaire.” She said reached out to grip his index and middle fingers to shake his hand.
+
+“I'm Ren, The Crafting Adventurer.” Ren said, then raised a single eyebrow at her. “Your bottom isn't actually shaped like a lily, is it?”
+
+His eyebrow and question made her giggle, and she slapped a hand over her mouth just like the trollkin did. Several pixies laughed.
+
+“Then I'd have to wonder what happens to your butt when it blooms.” Ren said, and a bunch of pixies laughed. “Does a rose by any other name smell as sweet?”
+
+The males started laughing, and Shanna had to hold both hands over her mouth to stop from laughing.
+
+“Shanna, if I planted a kiss on your butt, would you get tulips or four?”
+
+“Bahahaha!” Shanna uncovered her mouth and laughed.
+
+“When I was a kid, I ate a slug once.” Ren said and rubbed his chin. “When someone asked me what it tasted like, I said 'worms'.”
+
+The closest pixies were rolling around on the cavern floor and holding their sides, because they were laughing so hard.
+
+“I used to have a rock garden; but, I had to give it up when they all died.” Ren said and Shanna dropped to her knees and held her sides.
+
+“Ha ha! S-s-stop!”
+
+“If you promise to move this little operation down to the cave where the trolls used to be.” Ren said, and he felt a general agreement from the pixies, and they all nodded. It took them a few minutes to recover; but, when they did, they started to gather up all of their things. It took a little while, and Ren offered to carry some of the bigger things for them. They politely declined and added wheels to the cages and things, attached ropes, and pulled them towards the tunnel Ren stood in.
+
+“Back to the troll area, please.” Ren said to the succubi, and they flew back down the tunnel. He hopped onto his steed and slowly led the pixies down the tunnel. They were only a foot tall, so they walked a lot slower than normal people did.
+
+“It's true!” The trollkin said and dropped the sack he had over his back. “You killed them!”
+
+“No, they aren't dead.” Ren said.
+
+“How do you know that?!?”
+
+“I didn't get anything for tossing them into the abyss.” Ren said. “If they had died, I would have gotten something.”
+
+The trollkin was relieved to hear the trolls weren't all dead, and picked up his sack again.
+
+“What are we supposed to do here?” Shanna asked. “This walkway is only 30 feet wide and goes all the way across the cavern!”
+
+Ren chuckled. “Leave it to me.” He said and took out his storage tower and spoke the command word of bubbles and gurgles. The pixies gasped as the 20 foot wide, 20 foot long, and 30 foot tall tower appeared in front of them.
+
+“You called it 'Tower 4'.” One of the pixies said, surprised. “That's a bit simplistic for a password, isn't it?”
+
+Ren turned to her and saw it was the pixie that had cast water on him when he was burning. He knelt in front of her so she didn't have to look up so far to talk to him.
+
+“You can speak the Sea Dweller's language?” Ren asked.
+
+“I'm a Waterkin.” She said.
+
+Now that he had the chance to see her up close, he saw that her eyes were the color of the sea and her light blue hair had that swirling water look to it. Ren was also Waterkin and concentrated on his Waterkin Aura, and it merged with her own Aura. She gasped and almost fell as his emotions smashed into her, and Ren stored his armor and caught her before she fell. He reigned in his happiness at meeting someone else who had the same ability, and she looked up at him.
+
+“I... I would have... stopped them... if... if I'd felt...”
+
+“Shh. It's okay.” Ren said and held her close. “What's your name?”
+
+“R-Rainie C-Cloudbreak.” She whispered and she snuggled into his chest to bask in his emotions.
+
+With just his armor bodysuit on, Ren felt like he was being cuddled by a 1 foot tall doll and didn't know if it was a good feeling or just weird.
+
+“D-d-don't make j-jokes.” Rainie muttered.
+
+“I don't know any good weather jokes.” Ren said, and she felt his amusement.
+
+“You do!”
+
+“Okay.” Ren said. “What did one raindrop say to the other?”
+
+“What?”
+
+“Two's company, three's a cloud.”
+
+Rainie snorted a laugh.
+
+“Or was it, 'your plop is bigger than my plop'.”
+
+She covered her mouth.
+
+“One evening, a young boy was being tucked into bed during a violent thunderstorm.” Ren said. “In a shaky voice he asked his mother to sleep in the bed with him. 'I can't.' She said. 'I have to sleep with Daddy.' After a short silence the boy spoke. 'What a big sissy'.”
+
+“Ahahaha!” Rainie laughed, as did a bunch of others.
+
+“I walked into a general store one time and overheard the clerk tell the customer in front of me that they hadn't had something for a while, and doubted they would get it soon. 'Nonsense'. I said. 'Come back next week, and I'm sure whatever you want will be here.' The other customer left and I told the clerk to always say that to keep the customer happy.” Ren chuckled. “Then I asked what they wanted.”
+
+“What did the customer want?”
+
+“Rain.”
+
+“BWAHAHA!” Rainie covered her mouth and kicked her feet. “They wanted me! Tee hee hee!”
+
+Ren could feel that the pixies were all amused from even the simplest of jokes, and wondered why they had resorted to kidnapping and thievery.
+
+“These caverns change you.” Teepo said when he stopped laughing. He'd liked the jokes, too. “Did you notice that they don't have wings?”
+
+Ren looked at the others and saw that it was true. Even though they had travelled pretty far, they had all walked and none of them had flown. He waited until Rainie calmed down before he leaned in close to speak.
+
+“Can I ask you what happened to your wings?” Ren whispered to her. Her emotions immediately changed from joy to sadness.
+
+“We... after we...” Rainie shook her head. “I don't want to talk about it.”
+
+“Rainie.” Ren said, and she looked up at him. “You can feel what I feel right now. I won't judge you.”
+
+“They fell off, okay!” Rainie said indignantly. “After we started capturing and tricking people to live, they fell off!”
+
+“Oh, Rainie.” Ren said and lifted her up to rest her head against his cheek and gave her a gentle hug. “I'm sorry that being here cost you so much.”
+
+Rainie started crying because she could feel that Ren was genuinely sorry that she had lost her wings. She had never faced how much she had actually lost, since she had been without her wings for so long. She had gotten used to being without them and only walked where she needed to go. Ren felt his ability react to her plea, and she hugged his neck.
+
+“Please, take it!” Rainie said.
+
+Ren did for her what Elerlyth had done for all those sad people in the ghoul-plagued town. He found her deep pain over her loss and used his ability to absorb most of it from her. Rainie took several deep breaths and let his neck go, then leaned back to look him in the eyes.
+
+“Thank you.” Rainie said and gave his top lip a kiss.
+
+“I don't know how to give you back your wings.” Ren said. “I know who to ask, though.”
+
+Rainie shook her head. “No one can contact anyone outside of the caverns.”
+
+“I'll ask after I leave, then come back to tell you.” Ren said, and every pixie stopped what they were doing and looked at him.
+
+“You... you can't!” Rainie said, a little frantically. “Don't set your spawn point for here! If you die, you'll never leave!”
+
+Ren was surprised to hear this, and looked at the other pixies. “Other Adventurers have done this?”
+
+Several of them nodded their heads, and he looked back at the pixie in his arms.
+
+“I only planned on walking back in, so don't worry, okay?” Ren reassured her.
+
+“You can't just walk back in.”
+
+“Why not?” Ren asked, and she didn't have an answer for him.
+
+“He's crazy.” One of the male pixies said. “He actually wants to come back here!”
+
+“No one...” Rainie sighed. “No one willingly comes back here.”
+
+Ren smiled and she felt his happiness that he would be the first.
+
+“You really are crazy.” Rainie said and smiled because she could feel he thought it was a compliment and not an insult.
+
+“Crazy is as crazy does, Miss Cloudbreak.” Ren said, and she giggled.
+
+No one ever used my name like that before. Rainie thought.
+
+“Want to watch me make something really crazy?” Ren asked her.
+
+“I sure do!” Rainie said, and Ren lifted her up so she could sit on his shoulder. She dug her hand into his hair to hold on, and he walked inside the storage tower.

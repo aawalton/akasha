@@ -1,0 +1,253 @@
+---
+id: c614a502-5270-5066-9810-8096c8b14e78
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87 Faultline"
+slug: 0092-chapter-87-faultline
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 92
+ownLength: 2214
+unit: words
+publishedAt: 2026-06-28
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3603881/chapter-87-faultline"
+royalRoadId: "3603881"
+---
+
+When Lucien stepped out of the manor with Dorian following a pace behind him, Bran was already waiting within the courtyard. He had clearly rushed over from the eastern fields, mud still clinging to his boots.
+
+The older man straightened at the sight of him, tension visible across his face.
+
+He dipped his head as Lucien approached.
+
+“My Lord.”
+
+Lucien returned the gesture. “Bran, what happened?”
+
+Bran shook his head. “I wasn't there myself, My Lord. Someone from the western fields came running to inform me.”
+
+His gaze shifted toward the western edge of the village. “Tomas is already there trying to settle things.”
+
+Beside him, Dorian stiffened though he remained silent.
+
+Lucien’s brow creased faintly. “Tell me everything you know. Even small details may matter.”
+
+Bran exhaled through his nose. “There was a fight, My Lord. Between the Cragwatch folk and the western farmers.”
+
+He raised a hand to rub at his temple. “I don’t know exactly what started it. The man who came to fetch me...he was not especially willing to explain.”
+
+Lucien’s eyes narrowed slightly. “You believe he was withholding information?”
+
+Bran’s expression turned uncomfortable. “I would not go so far as to say he was lying, My Lord. But...”
+
+The hesitation lasted only briefly before his expression firmed once more.
+
+“He told me not to come get you. Said they could settle it amongst themselves. When I refused, he stopped being nearly as helpful.”
+
+Lucien was silent for a moment at that.
+
+If they were already attempting to handle the matter without involving him, then the resentment between both groups had likely been simmering beneath the surface for far longer than a single afternoon.
+
+“Tell me what you know anyway.”
+
+Bran rubbed a hand across his beard. “He said the Cragwatch folk started it first. That they blamed the western farmers for being stuck doing harder labor while the people helping the eastern fields had easier work.”
+
+He let out a rough breath. “Some of the western men overheard them. It started with shouting at first...then tempers rose and fists followed soon after.”
+
+Lucien’s eyes sharpened slightly at that. “Were weapons involved?”
+
+The older man shook his head. “I do not know, My Lord. He never said. Once he realized I intended to inform you, he hurried off again. Tomas had been stationed at the eastern gate, so he went after him for help.”
+
+Dorian’s brow furrowed. “He abandoned his post?”
+
+Bran’s eyes widened as if only just remembering the captain’s presence. “...There was another guard there.”
+
+The captain’s expression hardened but said nothing further.
+
+Lucien glanced toward him. “We will address that matter later, Dorian.”
+
+At the man’s tight nod, he turned back toward Bran.
+
+“Did he say how many people were involved?”
+
+Bran scratched at the corner of his beard, brows furrowing. “It was not all of them, that much I know for certain. Tomas’s cousin...”
+
+His gaze lifted toward Lucien. “The farmer from the western side who’s been telling me how the clearing work’s been going with the crowbars.”
+
+He exhaled lightly through his nose before continuing. “He said Tomas’s cousin was trying to separate the two groups before he left to fetch me.”
+
+The situation had not descended into the worst possible outcome yet if cooler heads were still attempting to restrain the fighting.
+
+Lucien gave a slow nod. “I will head there myself now. Bran, return to the eastern fields. We do not need trouble starting there as well. Some of the Cragwatch folk may try to involve themselves.”
+
+Bran’s expression tightened before he gave a firm nod.
+
+“Yes, My Lord.”
+
+He quickly turned and made his way back toward the eastern side of the village.
+
+Dorian shifted slightly as though preparing to follow, but Lucien spoke first.
+
+“Dorian, I need you to remain here.”
+
+The captain stilled, his gaze shifting toward Lucien immediately.
+
+Lucien folded his hands behind his back. “Your presence would intimidate them.” His eyes flicked briefly toward the plate armor Dorian wore. “If you accompany me, they will simply tell me what they think I wish to hear.”
+
+Dorian’s brow furrowed faintly. “Their tempers are already running hot, My Lord. Men tend to make foolish decisions in such situations.”
+
+He inclined his head once. “I will not go alone. Two household guards will suffice.”
+
+The captain's posture tightened briefly before easing once more.
+
+“As you command, My Lord.”
+
+He turned toward the two household guards still stationed near the courtyard gate. Though both maintained their outward vigilance, the younger of the two had glanced toward the commotion several times already.
+
+“Merek. Henric. You will escort Lord Lucien. I will cover your post.”
+
+The grey-haired guard, Merek, gave a short nod while the younger guard straightened immediately.
+
+“Yes, Captain.”
+
+Lucien studied the pair briefly. “I take it neither of you suffered any ill effects from yesterday?”
+
+Henric looked momentarily caught off guard, though it was Merek who answered.
+
+“No, My Lord. There has been nothing strange so far from that...place.”
+
+Despite claiming it had been under his orders, it seemed Dorian had still chosen to assign them courtyard duty after allowing him into the mana-infused area without proper escort.
+
+Lucien gave a small nod before turning toward the western side of the village.
+
+“Come. We should make haste before the situation worsens.”
+
+The two guards quickly fell into step behind him as he made his way out of the courtyard.
+
+Lucien had expected the western fields to be filled with raised voices and chaos by the time he arrived.
+
+Instead, the air was quiet though the surroundings were anything but peaceful. Tension lingered heavily between the separated clusters of men while discarded tools lay scattered haphazardly across the ground.
+
+He slowed when he realized the fighting had already ceased, his eyes moved across the gathered people.
+
+The largest group appeared to be the western farmers. Several remained close beside a few bruised men as though prepared to restrain them again if tempers flared once more.
+
+A short distance away, Tomas was speaking quietly to his cousin, his expression carefully controlled. His cousin, by contrast, remained standing with his arms crossed tightly as he answered in short replies.
+
+The smaller cluster opposite them appeared much the same, though two familiar figures immediately caught Lucien’s attention.
+
+The reeve from Cragwatch was attempting to calm several of the men involved in the fighting while another man stood beside him speaking patiently to someone nursing a blackened eye.
+
+Lucien stared briefly before recognition settled in. The man standing beside the reeve was Bran's kin from Cragwatch.
+
+Off to the side, there was a third and noticeably smaller gathering. Unlike the others, they appeared uncertain rather than angry as they glanced nervously between both sides. These were likely the eastern villagers who had been assigned to help with the western fields alongside the people from Cragwatch.
+
+One of the men noticed Lucien’s arrival, his eyes widening before he quickly nudged the person beside him.
+
+That was enough for the silence hanging over the fields to deepen further as more heads began turning toward him.
+
+Lucien approached calmly until he stood between both sides, stopping slightly closer to the eastern villagers.
+
+Tomas quickly made his way over, weariness visible beneath his expression.
+
+“My Lord.”
+
+Lucien gave a small nod, his gaze moving briefly between the separated groups before returning to the younger man.
+
+“Tomas, what have you learned so far?”
+
+The younger man let out a rough breath. “By the time I arrived, the groups had already been separated. But they were still shouting at each other...if not for the reeve from Cragwatch, I think they would have come to blows again, My Lord.”
+
+Lucien’s brow creased faintly. “And it was only fists? Did anyone attempt to use a weapon?”
+
+Tomas’s gaze shifted briefly to the side. “They were holding them when I arrived. I ordered them to stop and throw them aside.”
+
+A brief pause followed before he straightened and lowered his head.
+
+“Forgive me, My Lord. I used your name to do so.”
+
+Just behind him, Henric stiffened though he remained silent.
+
+Lucien shook his head. “You made the right decision. Preventing the situation from escalating is part of a guard’s duty.” His gaze shifted briefly toward the discarded tools scattered across the dirt. “Though I suspect Dorian will still have words for you later. For leaving your post.”
+
+The exhausted look on Tomas’s face paled as though he had only just realized the implications of what he had done.
+
+Lucien gestured lightly toward the divided groups behind him. “Under the circumstances, I believe even Dorian would consider this an exception.”
+
+Tomas straightened, visibly fighting the urge to look relieved as Lucien continued speaking.
+
+"Did they mention who started it?"
+
+The younger man's brow furrowed. "Both sides claim the other did, My Lord. I asked who threw the first punch," he exhaled through his nose. "It was the western farmers, My Lord."
+
+Some of the western farmers had originally come from the heartlands as well.
+
+Lucien folded his arms behind his back. “Bring the men involved in the fighting over here, Tomas. Have the reeve from Cragwatch and your cousin come as well.”
+
+Tomas dipped his head before turning to carry out the order. It did not take long before the men involved in the fighting were brought over.
+
+Though they continued casting dark looks toward one another, both sides visibly restrained themselves the moment they approached Lucien and noticed the two household guards standing behind him.
+
+The reeve from Cragwatch lingered close behind the smaller group while Tomas’s cousin remained near the western farmers, the former visibly worried while the latter wore the same stony look he remembered from his earlier visit to the western fields.
+
+Lucien’s gaze settled on the western farmers first. “Which of you threw the first punch?”
+
+A man with a bruised lip stiffened before stepping forward reluctantly. “It was me, My Lord.”
+
+“Why?”
+
+The farmer shot a glare toward the Cragwatch man nursing the blackened eye, the same one Bran’s kin had been speaking with earlier.
+
+“That lazy oaf said we should’ve moved to another field instead of being stubborn. Like we had any choice.”
+
+The Cragwatch man immediately bristled. “Lazy? You lot worked these fields for years and barely got anywhere. If not for us—”
+
+“It’s only because of us that you’re still standing here at all,” the western farmer snapped back.
+
+Another man from Cragwatch spat into the dirt. “And because of you, we’re the ones breaking our backs clearing rocks for your land.”
+
+The man with the black eye scoffed harshly. “Heartlanders. Soft and spoilt, the lot of you—”
+
+A different western farmer barked out a humorless laugh. “We take you people into our village and now we have to listen to insults in our own homes?”
+
+More voices immediately rose from both sides, several men speaking over one another at once.
+
+The reeve from Cragwatch quickly tried to calm the man with the black eye, speaking quietly over him while keeping a steady hand on his shoulder.
+
+Tomas was doing much the same near the western farmer with the bruised lip, though his eyes repeatedly shifted toward his cousin, who had remained standing apart with his arms crossed.
+
+Eventually, even he stepped forward to help, his jaw still visibly tight.
+
+Off to the side, the eastern villagers watched the exchange uneasily, their uncertainty deepening as more voices began rising at once.
+
+Lucien did not raise his own voice.
+
+“One at a time.”
+
+They did not fall silent immediately. Some still looked ready to continue arguing until their eyes shifted past Lucien toward Merek and Henric standing behind him, both wearing the same hard expressions their captain usually did during drills.
+
+Lucien’s gaze moved slowly between the two groups. “It is clear that there are grievances between you. But fists and tools are not the answer.”
+
+He allowed the words to settle before continuing evenly.
+
+“Those involved in the fighting will be punished.”
+
+His gaze settled on the western farmer with the bruised lip. “I assigned the people from Cragwatch to assist with the clearing work. But if you find their help so unpleasant, then their labor will instead be reassigned to those who managed to keep their heads.”
+
+The man remained silent, though his fist clenched tightly before he gave a short nod.
+
+Lucien then looked toward the man with the blackened eye. “And since you believe these farmers are soft, you will spend the next few days taking on the heavier portion of the clearing work.”
+
+The Cragwatch man gritted his teeth before dipping his head stiffly.
+
+This time, Lucien addressed both groups together.
+
+“If there is more fighting in the future, Dorian will decide the punishment personally next time.”
+
+Both groups looked visibly uncomfortable at the thought of the stern guard captain determining their fate.
+
+“I am aware there is resentment between you. That matter will be addressed separately once cooler heads prevail.”
+
+Lucien gestured toward the fields. “Return to work. Those injured in the fighting will have their wounds treated first.”
+
+At his words, both groups slowly began dispersing. No one spoke to the other side and hostile glances still lingered between them.
+
+The fighting had ended, but the resentment beneath it remained.

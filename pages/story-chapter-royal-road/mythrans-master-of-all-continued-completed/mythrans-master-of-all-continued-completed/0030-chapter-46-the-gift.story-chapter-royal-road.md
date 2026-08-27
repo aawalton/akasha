@@ -1,0 +1,231 @@
+---
+id: dbe0e203-2f86-557d-85b1-0787286939af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 - The Gift"
+slug: 0030-chapter-46-the-gift
+partOf: mythrans-master-of-all-continued-completed
+position: 30
+ownLength: 2821
+unit: words
+publishedAt: 2016-10-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96899/chapter-46-the-gift"
+royalRoadId: "96899"
+---
+
+Ren opened his eyes and just lay there for a minute. “Show Status.”
+
+Status
+
+Name  Ren  Level  3
+
+Gender  Male  Class  Artificer
+
+Race  Elfling  Fame/Infamy  1110 (Locally Known)
+
+Titles
+
+Donan's Apprentice - 20% stat gain at his shop
+
+Sally's Student - 20% stat gain at her shop
+
+Issac's Novice - 20% stat gain at his shop
+
+Lemming - 5% resistance to falls
+
+Health  550  Mana  460
+
+Strength  80  Dexterity  60
+
+Vitality  50  Agility  58
+
+Endurance  67  Intelligence  53
+
+Luck  23  Wisdom  46
+
+I didn't think there was much change... just the few more points in Intelligence, Wisdom, and Endurance. It didn't hurt to check it, though. Ren thought as he rolled out of the spare room's bed and went into the kitchen. The night sky was fading as the morning was born. Ren wondered how it actually worked. Was there an actual sun, or was it just a part of the program to get bright every day and dark every night? Ren couldn't remember looking up at any time and seeing any kind of sun. Ren decided to keep an eye out and see if there was one.
+
+“Good morning.” Ren said and sat down at the kitchen table.
+
+Aimus nodded and Abigail put a plate with 6 pancakes in front of Ren. “Eat.” Abigail said.
+
+“Most people just say 'good morning' back.” Ren said and smiled.
+
+Abigail smacked Aimus on the head. “Ow! What was that for?” Aimus said and rubbed his head.
+
+“Say 'good morning'.” Abigail smiled and put a plate of pancakes in front of Aimus. Aimus mumbled something and Abigail raised her eyebrows.
+
+“Morning! Morning!” Aimus said with wide open eyes and Ren laughed. Abigail turned around to get more pancakes and Aimus twirled his finger by his head to signify a crazy person and rolled his eyes.
+
+“I saw that.” Abigail said without turning around.
+
+Aimus grimaced and poured some syrup on his pancakes and passed the small jug to Ren who did the same. Ren had half his stack eaten by the time Ana came out into the kitchen. Ana's face brightened a bit when the smell hit her.
+
+“Is that... syrup?!?” Ana said and nearly drooled as she sat down and eyed Ren's pancakes with envy.
+
+A moment later Ana got her own stack with a lit candle in the middle.
+
+“Happy Birthday!” Abigail, Aimus and Ren said together, even though they hadn't practiced it at all.
+
+Ana's face lit up and tears welled up at the corner of her eyes. “I thought you forgot.”
+
+Aimus laughed and Abigail smiled. “Of course we wouldn't forget. You're our little angel... despite what your father keeps telling you.”
+
+“Hey! I only call her a devil when I come home from being away, not all the time!” Aimus said in defence.
+
+“Once is more than enough, dear.” Abigail said and winked.
+
+Ana blew out the candle and Abigail took it from the pancakes and poured some syrup on them. Ana gave Abigail sad puppy dog eyes, and Abigail poured more syrup. Ren laughed and Ana dug into her pancakes once they were coated. Ren finished his pancakes and took his and Aimus' plates to the sink. Abigail nodded and Ren walked around the table to stand near the kitchen doorway. Ren, Aimus and Abigail watched Ana as she enjoyed the rare treat of pancakes and syrup.
+
+When Ana was done eating, Aimus spoke. “Shed rules apply for the tent, okay?” Aimus said to Ana. “Ren and I filled it with pelts and some tools last night. We're going to be making another shed to store the pelts properly; but until then, no playing in the tent today.”
+
+“Awww... that's the best place! I feel better in there!” Ana said and pouted.
+
+“Hey, just because it's your birthday, it doesn't mean you can flaunt the rules for dangerous places.” Aimus said a bit sternly.
+
+Ana huffed and crossed her arms. Ren's smile grew into a grin because he knew exactly why Ana felt better when she spent time inside the tent. It was a Fame special bonus that was added when he had helped Sally complete the tent. Vitality +2 was a buff that anyone would receive while they were surrounded by the canvas walls.
+
+“Don't worry...” Aimus said and stood. “...we should have it cleared out just after lunch. You can play in there then.” Aimus walked around the table and gave Ana a kiss on the top of her head. “Is that okay?”
+
+Ana nodded. “I guess I can wait a little longer... but you better hurry up!” Ana said and stood herself. “I'll be watching you.”
+
+“I know. You've been watching me since yesterday.” Aimus said and hugged his daughter when she got a shocked look on her face. “You... you knew?”
+
+“Sweetie, you know I'm a professional hunter. I could feel your eyes practically poking me in the back of the head all day.” Aimus said and laughed.
+
+Ana blushed, shook her head, and left the kitchen.
+
+“You shouldn't tease her so much.” Abigail said. “She'll get you back some day.”
+
+“I hope so.” Aimus said. “She's already a good tracker. I'm trying to get her to work on her hunting skills.”
+
+“You can't push her if she doesn't want to do it.” Abigail said and turned around to get Ana's plate. “She just turned 10.”
+
+Aimus shrugged and looked at Ren. “We should go and get those planks. See if they're dry enough to use.”
+
+Ren nodded and thanked Abigail for breakfast. Abigail waved and went back to the sink. Aimus left the kitchen and went to the barn. Ren was close behind and climbed the ladder after Aimus.
+
+“Yep, they look good. Can you grab them, Ren?”
+
+“Sure.” Ren said and then loaded the planks into his inventory.
+
+They climbed down and went behind the barn to where the other shed was. Aimus asked for the hammer and nails and Ren passed them over.
+
+“It will have to be a bit bigger than the old one. All those pelts are going to take up a ton of room.” Aimus said and put a mark in the dirt about 5 feet from the shed. “Pass me a plank, Ren.” Ren passed one over. “Thanks.” Aimus said and placed it flat on the ground and parallel to the shed. “Okay, a few more.”
+
+Ren handed them over and Aimus laid them out in front of, and beside, where the new shed would be. “It's just a storage shed, so it won't be fancy.” Aimus said.
+
+There were 3 boards across and 2 boards deep. That was almost 24 feet by 16 feet, since there was a little overlap of the boards. Aimus went back to the front of the barn where they'd left the big saw they'd used to cut the logs. Ren handed a plank to Aimus and started pumping the pedal. Aimus pushed the plank through and cut it lengthwise in half. They did that with 15 planks to get 30 halves. Ren stored them and they wnt back behind the barn.
+
+Ren passed out 5 pieces of the cut wood, and Aimus put 2 of them end to end and then placed the last one facing up between them and nailed them together. Aimus put 2 more end to end on the other side of the face up plank, making an 'H' shape, but sideways. Ren passed over 3 more when asked, and Aimus nailed them on the ends of the 'H', making it two lines with two smaller lined between them. 2 more on each end, then it was an outside wall. Aimus did the same pattern again for the back of the storage shed. The sides were 3 planks, another sideways 'H' for both sides.When nailed together, it made the full outer frame of the shed exactly 3 planks wide, 2 planks deep, and 1 plank high. It was easy to nail the regular planks to this as all the dimensions were the same length. Aimus left the middle section of the front empty for a doorway. 2 more 'H' were made for the roof and filled in. A simple door made of planks was hung on the front and it was done.
+
+New Recipe!
+
+You have learned how to make a basic shed.
+
+Ren smiled, but there was no way Aimus needed another shed. I won't be practicing this recipe for a while, if at all. Ren thought as Aimus tested the door.
+
+“Well, it really is just barely functional. Normally I'd put a pitched roof on it, but there's really no time.”
+
+Ren nodded. “So, do we pretend to pull the pelts from the tent, and carry them here to the new shed?”
+
+Aimus nodded. “Have to keep the pretense up.”
+
+Ren and Aimus went walked to the tent to 'gather' some pelts to carry back to the new shed. They spent at least an hour pretending to do this. It was getting close to noon and Ana was already nosing around and being impatient.
+
+“We're almost done. Only a few more trips and then we need to get the tools, okay?” Aimus said when Ana practically jumped him as he passed by the house. Ana nodded and went back inside.
+
+“She's not going to wait much longer.” Ren said.
+
+Aimus nodded. “Yeah, she knows something is up... but she doesn't know what it is yet.”
+
+Ren smiled. Ana really should be surprised with what Aimus has put together for her.
+
+Aimus didn't go to the tent this time and walked into the barn and to the secret hatch. He opened it and passed out the second duffel bag that he'd had on the trip there. Ren opened it and inside were a few more traps. Aimus took them out and underneath was a cloth wrapped package. Unfortunately, it looked like it was put through a wringer.
+
+“Oh, no.” Aimus said and sighed. “I should have checked this sooner.”
+
+“What is it?” Ren asked.
+
+Aimus handed it to Ren and told him to take it to the tent. Ren went to the tent and saw Aimus go into the house. Ren put the package on one of the tables, and a minute later Aimus came in with Abigail. She walked over to the table Ren had put the package on and opened it.
+
+Folded inside was a beautiful blue dress. Ren saw that it had frills and a bow on the back when Abigail lifted it out. Unfortunately, it also had several tears and creases, and several seams were pulled slighty apart.
+
+“I'm so sorry, honey.” Aimus said, dejected. “It never even occurred to me to take it out of the bag with the traps when I picked it up.”
+
+Abigail gave a deep sigh. “I guess it can't be helped.” Abigail sand and put the dress down on the table. “She'll just have to wear her normal clothes for the party.”
+
+“But... that was her main present from you!” Aimus said.
+
+“At least the shoes are fine. The dress protected them.” Abigail said and took out a pair of shiny black shoes.
+
+Ren stepped forward. “Um... maybe I can help.”
+
+Abigail and Aimus looked at Ren together. “Normally, I think you could, but the rips can't be mended, even by Sally's Student.” Abigail said and held up a particularly bad spot on the dress. “The fabric itself is pulled apart.”
+
+“I agree.” Ren said. “But... if you give me enough time... I might be able to come up with something.” Ren said. I'm not sure if it will work, but there really isn't any other option at the moment.
+
+“How much time do you need?” Aimus said and came to stand by Abigail and took her hand.
+
+“I'm hoping... maybe... about an hour?” Ren said, without much confidence.
+
+“Okay. We'll give you that hour.” Aimus said, then turned to his wife. “I've seen this kid do some amazing things... some scary things, too... but it's the amazing part I'm going to put my hopes on.”
+
+Abigail had doubt in her eyes, but Aimus lifted her hand to his face and kissed it. “Sweetheart...” Aimus said and Abigail blushed a deep red. “Go inside and get the food ready. By the time you're done, everyone should be here... and Ren should be finished.”
+
+Abigail looked at Ren once more, and there was still doubt... but she nodded and left the tent.
+
+“Okay, Amazing boy! Amaze me!” Aimus said and grinned.
+
+Ren grimaced. Ren would let the 'kid' and 'boy' comments go this time, but only because there was work to be done.
+
+Ren took out his portable sewing kit that Sally had given him. It contained everything that he would need for any tailoring work that needed to be done. There was one tool in it that he hadn't used before. It was called a ripper. Specifically, it's a seam ripper. Ren took the dress and put it flat on the table. Ren took his time and carefully opened the seam along the frills on the arm.
+
+“What are you doin-” Aimus tried to say and Ren glared at him. Aimus raised his hands in a surrender gesture. “Sorry.”
+
+Ren got the frill off without tearing it and moved on to the arm itself. The seam came apart and Ren remembered where and how it was put together. The pieces came off slowly at first, but easier as Ren worked. It took about 25 minutes for Ren to get all the pieces apart and layed out across the table. The bow, the belt, the frills, the collar, the arm pieces and the middle part of the dress, then the frilly skirt.
+
+There was surprisingly a lot more fabric than Ren had thought at first in the skirt, but as Ren undid the stitches it made sense that there had to be more there than anywhere else. When Ren was done, he got a popup.
+
+Notice!
+
+You have learned a new pattern, Party Dress (Young)
+
+Ren grinned. “Yes! I got it.”
+
+Ren took out his bolt of spider silk cloth and cut off the right amount. With the system overlaying the new pattern on the cloth, Ren took his time and cut out everything that he needed. Once he had all the parts in the right positions, Ren turned to Aimus.
+
+“This is where I'd usually dye them the right color, but I'm not in Sally's shop.” Ren said. “I hope white will be okay.”
+
+“Wait.” Aimus said and left the tent. Aimus came back in a few minutes later with a half sized barrel. When Aimus opened it, it split in half and inside was a small dying station.
+
+Ren's mouth dropped open.
+
+“Mom gave it to me in case I met someone that wanted to take up her trade.” Aimus said.
+
+Ren raised his head in prayer. “Thanks for thinking ahead, Sally.” Ren said and dyed everything the same color as the original dress.
+
+Sewing was going to take a little longer than Ren had thought, but nothing could be done about that now. Ren wouldn't rush and tempt fate by making a mistake or a poor product. Sally would never forgive him if that happened. Ren carefully assembled the parts in the right order and got everything stitched together about 40 minutes later, then looked at the results.
+
+Blue Party Dress (Young)
+
+This is the best dress for a young girl to wear to a party.
+
+Ren grinned and handed the dress to Aimus, who stood there in admiration.
+
+“What? It's done.” Ren said.
+
+Aimus shook his head. “It's not that. I can't believe that you made something like this just by pulling apart the old one. It's something I thought only my mother could do.” Aimus put his hand on Ren's shoulder. “She definitely picked the right person for her student.”
+
+Ren blushed and nodded. “Thanks, Aimus.”
+
+“No. Thank you, Ren.” Aimus said and looked at the dress, then looked outside. Sounds of people moving around could be heard. “How will I...”
+
+“I have an idea.” Ren said and took out the remains of his tent. He cut up the fabric and folded it in half and sewed up the top and bottom, making a big pocket. “Put it in here.”
+
+Aimus put the dress in and it just fit. Ren closed it and put it over Aimus' waiting arm, then walked over to the table with the old dress. “The shoes, too.”
+
+Amus grinned at Ren, took the shoes, and left the tent. Ren cleaned up the mess he'd made and put away the scraps of fabric, along with the package and the old dress pieces. They could probably be sewn together for something, but Ren would leave them as scraps for now.
+
+People started to come into the tent and Ren wasn't standing there alone anymore.
+
+It was time for the party.

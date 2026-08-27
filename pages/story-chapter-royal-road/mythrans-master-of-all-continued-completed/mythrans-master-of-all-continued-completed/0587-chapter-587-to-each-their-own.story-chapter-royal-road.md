@@ -1,0 +1,227 @@
+---
+id: 7ad20a82-931e-576f-b7e1-53e067fd077c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 587 - To Each Their Own"
+slug: 0587-chapter-587-to-each-their-own
+partOf: mythrans-master-of-all-continued-completed
+position: 587
+ownLength: 2735
+unit: words
+publishedAt: 2018-05-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215884/chapter-587-to-each-their-own"
+royalRoadId: "215884"
+---
+
+Ren and Artemis arrived in Aurora two minutes later and came to a stop in the Housing District in front of his old house. It was late morning, so there were lots of people moving around. Ren's Aura covered a lot of area now, and he couldn't feel anyone in any of the three houses on this side of the district.
+
+“We've got anywhere from 20 minutes to an hour to wait.” Ren said and took out the All-Seeing Mirror. “I think I should check on what King Alamast is doing.”
+
+“If you think their business has changed from the day to day running of the kingdom just because the Sea Dweller's deadline is at noon, you're going to be surprised.” Artemis said.
+
+Ren chuckled and asked to see the meeting room. He saw that Artemis had been right. It didn't look like they were discussing anything important, and when he asked to look at the papers in front of several of the officials, he saw it was a tax bill for increasing harbour fees to load cargo onto ships.
+
+“Yes, you're right. They are completely stupid.” Ren said and after watching them debate without hearing the sound, he asked the mirror to show him Yllana, the elfling whose daughter was a servant to the High Lord of the Elves. She was up and making breakfast, and she wore a nightgown that looked like it had seen better days. She looked quite comfortable and relaxed, though.
+
+Ren stored the mirror and thought about what a Barbarian would need to fight. He smiled and imagined Denise in the same fur bikini he had made for the dancers at the Pleasure Palace, and added oversized boots and bracers for her to wear, and a big gaudy necklace of sharp animal teeth. He smiled as he added a deep dark tan to her otherwise completely white skin, and gave her thick tan lines where her bikini was.
+
+“What are you smiling at?” Denise asked as she approached.
+
+Ren was brought out of his daydream to see the real thing. “By the gods.” He said as he saw almost the exact thing he had just imagined. Denise wore a thick and practically armored fur bikini, oversized boots and bracers, and 3 different necklaces. He hadn't thought of a long cloak or a big thick belt, though.
+
+“Do I look that good?” Denise asked and turned around, which swooshed out her cape to show her backside, and Ren saw the edge of a strong tan line.
+
+Ren had to pause and take a breath, and then he looked behind her to see several men staring at her. “I think you look too good for your own safety.” He said and smiled, which made her laugh.
+
+“I did turn a few heads when I appeared in the middle of town.”
+
+“No wonder.” Ren said as his Aura Sight ability told him what she had. “You have the Lure and Entice Auras.”
+
+“How do you know that?” Denise asked. “The description said no one would feel it if I didn't want them to.”
+
+“I have an ability that lets me see Auras and tells me what they do.” Ren said.
+
+“Aww, that's no fun.” Denise said. “How am I supposed to use them on you now?”
+
+“Just use them.” Ren said and grinned at her. “You have no problem using them in real life, why stop now?”
+
+“I don't have...” Denise saw his grin and chuckled. “All right, I'll try and not be too disappointed that you can see all my tricks.”
+
+“See all your tricks?” Ren asked and held a hand out to her. “I don't know what abilities you have or what you can do, so there's lots more for you to show me or tell me about.”
+
+Denise nodded and took his hand. “I've got this Berserker Rage thing that lets me fight without using up my Stamina. The downside is that when I'm done, I collapse for 5 minutes.”
+
+“I've got Controlled Berserk Rage, so I can only assume yours is more powerful.” Ren said. “Being a Dwarf and a Barbarian mix, that is.”
+
+“Wait, I can have abilities more powerful than yours?” Denise asked.
+
+Ren chuckled. “I'm a crafting class.” He said. “I'm not really supposed to fight at all.”
+
+“But... you've been...”
+
+“Yeah. Funny, isn't it?” Ren turned towards his house. “Come on. We've only got 5 more hours until noon.”
+
+“Wait, what?”
+
+“Noon is the Sea Dweller deadline, and I kind of expect us all to get several game changing popups then.” Ren said and opened the door to the house. “I plan on keeping you in bed until then, though.”
+
+Denise blinked her eyes at him, and she didn't know what to say.
+
+“I can feel your shock, so maybe I should be more clear.” Ren said and led her and Artemis inside. “I'm going to make love to you so many times that we would need an outside observer to count them.”
+
+Denise glanced at Artemis, who smiled and shook her head.
+
+“I'm staying out here as a guard and lookout, not that Ren really needs it.” Artemis said. “Plus, it's your first time with him. You do not want to be distracted.”
+
+Denise opened her mouth to respond, and Ren started to walk up the stairs. He went into the main bedroom and shut the door. “Ren, does she really watch you sometimes?”
+
+“Yes.” Ren said. “When I brought her into this world, one of her conditions was that she has to stay beside me.”
+
+“But, not right beside you?” Denise asked, and Ren smiled.
+
+“She can take it that literally; but, she only has to stay within my Aura.” Ren said. “It's around 750 feet now.”
+
+Denise took in a sharp breath. “God, mine's only 5 feet!”
+
+“You're just starting.” Ren said and stored his armor bodysuit to leave himself completely naked, and completely ready. “I didn't even have an Aura when I did.”
+
+Denise looked down at him and then back at his face. “R-Ren, what...”
+
+“Shh.” Ren said. “Store your clothing and put these on.”
+
+“Wh-what...” Denise looked at his hands and a pair of bracers appeared. “Oh, wow.”
+
+“There's more.” Ren said and smiled.
+
+“Ren, I... this is going to put me well above other Level 1 characters.” Denise said and equipped the enchanted bracers.
+
+Ren didn't say anything as he gave her a pair of glittering diamond rings next, which made her breath quicken, and then he took out an elaborate diamond necklace.
+
+“Oh, god!” Denise gasped and took it gingerly.
+
+“They're diamonds, not glass.” Ren said and she chuckled as she equipped it.
+
+“Ren, I can't believe you're giving me all of this to help my character.”
+
+Ren laughed. “This is only to boost your stats so we can have sex safely.” He said to her surprised face. “I'll make your character specific stuff later.”
+
+Denise blinked her eyes at him and thought about what he said. “R-Ren...”
+
+“Don't worry, you'll understand once we get started.” Ren smiled and tapped her fur bikini top. “Off, please.”
+
+Denise took a breath and let it out, then stored the top. Ren reached out and cupped her breasts, which made her catch her breath, and then he kissed and suckled on the tips. She wrapped her arms around him and started to run her hands through his hair.
+
+Ren gave her a playful bite, and she hissed. “Sorry.” He said and licked it as he swirled his tongue around it, then gave it a gentle kiss. “You have to tell me, or show me, what you want.” He said. “I am at your service.”
+
+“I...” Denise looked at the bed and then at Ren. “I want...”
+
+Ren eased her over to the bed and slowly turned her around. He felt her desire increase, so he ran his hands down her back and then knelt behind her. Her breath sped up and she arched her back slightly, and gave Ren a nice view. He put a hand on her back and pushed slightly, and she bent over to brace her arms on the edge of the bed.
+
+“You see? I told you that you were perfect.” Ren said and kissed her special place. Denise gasped and finished right away, and her body trembled slightly. He easily held her steady and kept going.
+
+****
+
+Gloria left the DewTech company's parking lot in a great mood. She squealed her tires as she hit the street and gunned the throttle to speed down the industrial park access road that only company employees used. She counted the seconds as she accelerated and blew past the speed limit sign just as she hit her average time for a quarter mile run, if she had been drag racing.
+
+Gloria was almost giddy as she let off the gas and coasted the same amount of distance to the stop sign. I can't believe the salary that job has! She thought and geared down, then came to a stop right next to the sign. There was no traffic; but, she sat at the corner and waited anyway, while she thought about all the tech tools she would have access to.
+
+Brand new, top of the line mechanics and electronics tools that no one would touch except me. Gloria thought. My own lab. A small staff if I wanted, and a secretary to handle the paperwork. She shook her head in disbelief and caught sight of the portfolio on her front seat with the job contract inside. “It's too good to be true!” She laughed and slipped the car into gear as she stepped on the gas.
+
+*
+
+Barley Bitterdew picked up his cell phone and hit speed dial. “Okay, it's done. Yes, she's excited. No, she didn't accept it right away.”
+
+He listened for a few moments, then spoke again.
+
+“Now will you tell me why I just offered an internal promotion position to a girl fresh out of college and not to one of my own workers?” Barley asked. “You're kidding. You're not?” He shook his head. “Look, I've gone along with your hair-brained schemes so far...”
+
+He was silent for almost a full minute.
+
+“Yes, all right. I'll stop complaining. I know you've got it all figured out.” Barley sighed. “Yes, I'll be online tonight. See you then.” He hung up the cell phone and put it back on his desk, then sighed. “I wish I wasn't such a pushover.”
+
+Barley stood up and went across his office to a hidden door and entered his private area with his virtual gear setup. He locked the door just in case, as he always did, and took off his clothes. He laid down on his very expensive ergonomic and pressure controlled chair, and hooked up a catch-all device over his crotch. He hated the necessity, because it was always messy no matter what he did, and he laid back and relaxed.
+
+Barley hit the button and a VR headset in two pieces folded up from the headrest and covered his eyes and ears, just like the full sets did. It was a private modification that only he and a select few had been given access to, and he had always enjoyed the perks of being so rich.
+
+“Flow Login Private.” Barley said, and went to have a bit of fun before he had to go and find the others for their regular meeting.
+
+*
+
+Lisa popped offline and went down to the kitchen to get something to eat. She had been so eager to tell Ren everything that was going on, that she had forgotten to grab a bite before going up to his room. She opened the door to one of the large double refrigerators and started to rummage.
+
+“We had chicken for supper tonight.” Stella said as she came into the kitchen with several dirty glasses and saw Lisa bent down looking for food. “It's in the other fridge.”
+
+“Thanks.” Lisa said and grabbed a bottle of water from the door and shut it, then went to the other refrigerator to see a big pan with several pieces of chicken inside. “I'm starving.”
+
+“You've been gone all day.” Stella said and rinsed the glasses, then put them into the large dishwasher. “Is everything all right?”
+
+Lisa opened her mouth to say that everything was fine, after spending a virtual month with Ren, then she remembered what she had been through and what Ren had told her.
+
+“N-no.” Lisa said and looked to be on the verge of crying.
+
+Stella went over to her and took her into a hug. “Hey, it's okay.” She said and rubbed Lisa's back. “You're home now.”
+
+Lisa took in a sharp breath and looked up at the taller woman. “I... I'm home.”
+
+Stella nodded. “Go have a seat in the living room and I'll warm up some chicken for you.”
+
+“You don't have to do that.” Lisa said.
+
+“I'm just turning the oven on.” Stella said and turned one of them on low heat, then quickly put 3 pieces of chicken in a small glass dish and put it inside. She washed her hands and dried them, then took Lisa's hand. Lisa didn't say anything as Stella led her over to the living room and motioned to the couch. She sat down and Stella sat down right beside her and put an arm over her shoulder.
+
+“Now tell me what happened.” Stella said.
+
+“Stella, I...”
+
+“I've got work in the morning, and I need my beauty sleep, so...” Stella started to say.
+
+Lisa shook her head. “You just need sleep. The beauty part's already done.”
+
+Stella smiled warmly at her. “As I was saying, I need to sleep, so I've only got about 3 hours to spend with you.”
+
+Lisa blinked her eyes in surprise. “3 hours?”
+
+“I assume you have an important story to tell, so tell me all about it.” Stella said, and it was so similar to what Ren had said that Lisa had to wipe her eyes. Stella saw this and leaned in to give her a kiss on the cheek. “I'm here for you, Lisa. Tell me what happened.”
+
+Lisa took a deep breath and let it out, then started to tell Stella the story.
+
+*
+
+Elise and Barbi finished up working on their respective jobs and turned off their flat panel monitors, then the servers went into low power mode because they weren't being constantly accessed.
+
+“Wow, who would have thought one little man could have so many things to take care of on his behalf?” Barbi asked, and Elise chuckled.
+
+“He's always surprising me, no matter what he does.” Elise said. “He's a wonder.”
+
+Barbi smiled. “I wonder how he does it.” She said. “You, Stella, Denise, Lisa, Gloria...”
+
+Elise stood up and stretched with her arms over her head.
+
+“Okay, I'm not wondering so much about you.” Barbi said, and Elise laughed.
+
+“Very funny.” Elise said and walked to the office door. “It's getting late.”
+
+Barbi looked at the clock. “I guess I better go.” She stood up and stretched herself. “Ugh, I'm not looking forward to the drive home in the dark.”
+
+“Then why don't you stay? There's still a spare bedroom upstairs that no one is using.” Elise said.
+
+“There is?” Barbi asked. “How?”
+
+“Frugality.” Elise said and smiled. “I bunk with Ren at night.”
+
+“Ooo, nice.” Barbi said. “Do you get him all to yourself?”
+
+“Most times.” Elise said. “I usually get a good night's sleep because he's busy playing the game.”
+
+“I can't believe he can do it so much and it doesn't affect him.” Barbi said.
+
+“He's been used to the time changes for a long time, but I still can't get used to it.”
+
+“Is that why you don't sleep in the game?”
+
+Elise nodded. “I tried it a few times; but, it completely messes up my day when I get a full night's sleep and log off, only to find it's still the middle of the night in real life.”
+
+“Me, too.” Barbi said. “I've even tried to time it so I get out first thing in the morning, and I'm still messed up.”
+
+Elise chuckled. “Me, too.” She said. “Come on. I'll loan you something to wear to bed.”
+
+“Thank you.” Barbi said and followed Elise out of the office and turned off the lights.

@@ -1,0 +1,327 @@
+---
+id: 2269d4e2-ed97-5935-a88b-d46aadcffbca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 436 - Moments Like These"
+slug: 0433-chapter-436-moments-like-these
+partOf: mythrans-master-of-all-continued-completed
+position: 433
+ownLength: 3379
+unit: words
+publishedAt: 2017-11-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177099/chapter-436-moments-like-these"
+royalRoadId: "177099"
+---
+
+Barbara went downstairs to grab something to eat, then went back upstairs to the theatre room to watch television. She could have done it in the bedroom so she could keep a close eye on Ren; but, with Denise there, Barbara knew that her skills weren't quite necessary unless something major happened.
+
+Time to catch up on my shows. Barbara thought, and ate while she watched the large theatre screen. I think I'm getting spoiled. She thought in amusement as one of her favorite shows came on.
+
+*
+
+Lisa tucked herself into bed after using the bathroom. I really need to find a way to convince him that corruption is really bad for his game character. She thought and sighed. Although, I think Elise is right. If I keep pushing him, he's going to resent me for it. She drifted off to sleep knowing that it would be restless, with worry and fear permeating her brain.
+
+*
+
+Stella came back into the house after picking up a bunch of things they needed for Ren's continued care, and she didn't resent the security guard checking all the bags. She was glad they were doing their jobs, and she dropped off several bags beside the elevator to take upstairs and distribute to the various rooms. She put the groceries away in the kitchen and pantry, then went back to the elevator and moved the bags inside.
+
+Stella went up to the second floor and dropped off several bags in her room, because she couldn't go around this late at night to check the emergency kits in the bedrooms. She went into the bowling alley and made sure there was an emergency kit in the bathroom, then stashed one behind the shoe counter. She went across the hall to the theatre room and saw Barbara there.
+
+“Hi, Barbara.” Stella said and held up an emergency kit and some supplies. “I bought extras, and I'm stashing them around.” She said and put it under the desk in the small booth at the back of the room.
+
+“That's a great idea.” Barbara said, and Stella told her where she was putting the others.
+
+“I assume Denise is in Ren's room?” Stella asked.
+
+“Both her and Elise are tucked in bed with the lucky little bugger.”
+
+Stella chuckled. “He's definitely had a lot of luck lately.” She said. “It's about time some of it was good.”
+
+Barbara nodded. “That's why I left them alone.” She said. “I'm sure nothing's going to happen; but, having me there might put a damper on the situation.”
+
+Stella walked over to her. “Ren sees you as his mother.” She said. “His admission that he's not going to hide anything includes you, too.”
+
+Barbara nodded again. “It's a little hard for me to see you all competing for his attention; but, you all care a lot about him, so I can't really complain about it.”
+
+Stella put a hand on her arm. “No one's competing.” She said. “We are all just here for him when he needs us.”
+
+“But... there's 4 of you... 5 if you include Gloria.” Barbara said. “I don't know how he can handle you all.”
+
+Stella laughed. “Barbara, I know you probably don't want to hear this; but, we're the ones that can't handle him.”
+
+“Wh-what?”
+
+“Ren is... a very special case.” Stella said. “If his physical condition wasn't so deteriorated, I'm sure there would be many more women around here.”
+
+“You're kidding.”
+
+Stella shook her head. “He's... well, even I'm a little uncomfortable talking about your surrogate son like this.”
+
+That made Barbara laugh. “All right, I'll accept that he has sexual prowess without you having to give me any specifics.”
+
+Stella smiled. “Our time with him will be a lot easier once he starts sleeping with the maids in the game.” She said. “You know that old saying about too much of a good thing.”
+
+Barbara nodded. “If that holds true, then he'll slow down and not attract too much more attention.”
+
+“What do you mean 'more attention'?”
+
+“Have a seat.” Barbara grinned. “Do I have a story to tell you about who he met in the game.”
+
+*
+
+The next morning, the alarm Elise had set went off. She took a deep breath and opened her eyes, and didn't see Ren. She frowned and moved the blanket down slightly, then looked down to see that he was on his back, and had somehow tucked his head into her armpit. The surprising part was that her t-shirt had been pushed up above her chest and one of her large breasts was pressed against the side of his face. He was still sound asleep; but, he also had a huge smile on his face.
+
+Elise used a hand to tap Denise to get her attention, then whispered. “Look at this.”
+
+Denise opened her eyes and turned her head to see Ren's half-buried happy face. She shook her head and pulled the blanket down to show that her t-shirt was also above her chest, and that one of Ren's hands had a firm grip on one of her breasts.
+
+Elise laughed and it jiggled her chest. The combination of the sound and the movement against his face woke Ren up.
+
+“Ah, heaven.” Ren said, and kissed the side of the breast on his face. “What a great way to wake up.”
+
+“I'm not so sure about that.” Denise said.
+
+Ren gave her breast a squeeze before he let it go, then rolled over and kissed the side of her breast, too. “There.” He said. “Does that make you feel better?”
+
+Denise chuckled and it shook her chest. “That wasn't what I meant.”
+
+“Oh.” Ren said and move up and gave her a kiss on the lips. “Good morning.”
+
+“That still wasn't... never mind.” Denise said and pulled her t-shirt down to cover herself. “Good morning.”
+
+Ren grinned at her and moved over a little to give Elise a kiss on the lips. “Good morning.”
+
+“Good morning, you little charmer.” Elise said and gave him another kiss. “Now that we're all awake, I have to get a shower and go to work.”
+
+“So early?” Ren asked and looked at the clock.
+
+“I'm going there from here.” Elise said. “The traffic is a bit too heavy if I don't go early enough.”
+
+“I'm sorry that sleeping over like this causes you trouble.” Ren said.
+
+“I'm not.” Elise said. “Even though we only cuddled, getting to spend time with you is more than I could have hoped for.”
+
+“Elise...”
+
+“I'm still a little in denial that I get to be with you.” Elise said.
+
+“Denise, did you hear that? She's in denial that she gets to be with me.” Ren chuckled. “Now I know I'm living the best life ever!”
+
+That made both women laugh, and then Elise sat up to pull her t-shirt down.
+
+“How did you get my shirt up so high?” Elise asked. “It was down past my hips and I was laying on it.”
+
+“Magic.” Ren said and grinned. “Breasts with no bra in a loose t-shirt must be seen to be properly appreciated.”
+
+Elise shook her head in disbelief and stood up, and Ren saw the normal underwear she had on.
+
+“Elise! What are you doing?” Ren asked.
+
+“What?” Elise asked and looked around.
+
+“You're wearing normal underwear.” Ren said. “Isn't that against your sexy clothes only dress code?”
+
+“Does that mean if I do this...” Elise lifted the t-shirt a little as she turned back around, stuck out her butt, and shook it from side to side. “...that it's not sexy?”
+
+When Ren didn't respond, she looked back at him. “Ren?”
+
+Ren took Denise's hand and held it tightly. “Tell me she did not just shake her ass at me.”
+
+“She did.” Denise said with slightly wide eyes. “This time, I have no problem admitting that it was sexy.”
+
+Elise laughed at their reactions. “It's not that nice.” She said and pulled the t-shirt down, then picked up her overnight bag.
+
+“There's a big mirror on the back of the bathroom door.” Ren said. “I want you to do the same thing to it that you just did for me, and see it for yourself.” He smiled. “After that, if you say that it's not that nice, then I'll believe you.”
+
+*
+
+Elise went into the bathroom and took the clothes out that she was going to wear, then looked at the mirror. Why not? She asked herself, pulled up her t-shirt and turned around, stuck out her butt and shook it from side to side. Well, damn. She thought and almost laughed. It really does look nice when I do that.
+
+*
+
+“She's totally doing it.” Ren said and chuckled. “It's just too tempting for her not to try it.”
+
+Denise smiled and looked at the hand he still held. “Ren, I...”
+
+“I hope you're not going to try and back out on today.” Ren said and looked at her. “If you're having second thoughts about it, I want you to have a third thought.”
+
+“You do, huh?” Denise said and turned onto her side to face him. “What is it?”
+
+“I just woke up with two beautiful half-naked women in my bed, and neither of you were angry about having your breasts lovingly touched.” He smiled. “With that, and Elise's little dance, I am so hard right now it's not funny.”
+
+Denise chuckled and slid her hand down under the blanket, and her hand found his private place. She stopped laughing as she felt exactly how hard he really was. “Good god, Ren.” She said. “It's hard as a rock! Does it hurt?”
+
+“Not yet, but it's getting there.” Ren said.
+
+“We can get a shower as soon as Elise comes out, and I'll use my hands to take care of that for you.”
+
+“Elise is going to be a little while.” Ren said. “Why not do it now?”
+
+“Wh-what?” Denise blinked her eyes at him.
+
+“Grab a foil packet from the dresser.” Ren said, and she let his hand go to roll over to the side of the bed, opened the top drawer, and grabbed a foil packet. She moved back over beside him and held it out. “Thanks.” Ren said and lifted the blanket instead of taking it. “Have at it.”
+
+“Wh-what?”
+
+“You've put one on me before.” Ren said. “Leave extra room just like last time, too.” He smiled. “You know it's the best way to contain the mess.”
+
+“It is, but...” Denise thought about saying she would rather wait so she could do it properly, then sighed as she tore open the packet and ducked under the blanket and into the semi-darkness. “Why am I doing this, again?”
+
+“This is your day.” Ren said and he felt his clothing being pulled down. “I'm all yours.”
+
+“Then shouldn't you be doing this for me?” Denise asked as she expertly applied the foil packet's contents to him.
+
+“Oh, I will be... and as many times as I can.” Ren said and closed his eyes as she touched him. Denise's heart beat faster as his words rang in her ears, and doing what she was doing didn't seem so weird anymore.
+
+*
+
+Stella got up out of bed and hopped in the shower. She always seemed to have a busy day, even when she wasn't working. She actually was working today, so she scrubbed herself quickly and dried off, then dressed in her work outfit of black pants and white top that zipped up the middle. She left her room and stopped in the theatre room to tell Barbara she was going downstairs to make breakfast, then went down in the elevator to the first floor and went to the kitchen.
+
+*
+
+Barbara turned everything off in the theatre room and left there to go to Ren's room. She opened the door slowly to peek in, and only saw Ren in the bed. He had his hands behind his head and was leaning back against the headboard, and it looked like he had his knees bent up for some reason.
+
+“Is everyone gone already?” Barbara asked.
+
+The blanket quickly moved up and slid off to reveal Denise. She had a hold of Ren's private part, and it hadn't been Ren's knees at all that propped the blanket up; it had been her back and shoulders.
+
+“B-Barbara... this... it's not what it looks like!” Denise stammered as her face turned bright red.
+
+“Denise was kind enough to help me relieve my morning tension.” Ren said and pulled the blanket up to cover himself and her hand that still had a firm grip on him. “Keep going, Denise.”
+
+“WH-WHAT?!?” Denise yelled.
+
+Barbara laughed. “You don't have to stop on my account.” She said. “I just came in to wake you all, and to tell you that Stella was up and is making breakfast.”
+
+“That's great.” Ren said and put a hand under the blanket. “Thanks, Barbara.”
+
+“You're welcome.” Barbara said. “Are you going down to the kitchen to eat, or do you want it brought up?”
+
+“Up, please.” Ren said. “We're almost finished.”
+
+“REN!” Denise exclaimed.
+
+“Geez, you don't have to yell. I'm right here.” Ren smiled.
+
+Barbara laughed again and left the room.
+
+“I can't believe... Ren, how could you say... Barbara, she walked in on... oh, I'm so embarrassed!” Denise dropped her head and covered her face with a hand.
+
+“Denise.” Ren said seriously and she looked at him. “People are going to see us in compromising positions.”
+
+“But...”
+
+“I hope you realize that it was going to happen sooner or later, since I've never had privacy.” Ren said, and she stared at him with wide eyes. “I've always had at least one person with me at all times.”
+
+“B-but...”
+
+“I think there was only one time where I actually was alone.” Ren said and touched the side of her face. “When Lucy and I broke up, and I asked you to leave me alone for a little while.”
+
+Denise thought about it, and then she nodded.
+
+“You don't know how much I appreciated that kind gesture.” Ren told her. “You gave me something that I hadn't had in years, and it touched my heart, even though it was full of pain at the time.”
+
+“R-Ren... I...”
+
+“Now kiss me and help me finish.” Ren said and his hand under the blanket touched hers. “I really need this, and so do you.”
+
+“Ren...”
+
+“Kiss me.” Ren puckered his lips and made the fish-like motion several times. “Kiss me, kiss me.”
+
+Denise couldn't help but chuckle. “Only if you stop making a kissy-face.”
+
+Ren stopped the fish motion and stuck his tongue out a little. “Mish me!”
+
+Denise laughed and kissed him, and after a few minutes, he finished. She felt it through her hand, and she broke the kiss to concentrate on it.
+
+“You were really backed up.” Denise said a little surprised.
+
+Ren nodded. “More than I thought I was.” He said. “Thank you.”
+
+“Ren, I'm sorry for... well, I thought you just wanted me to...”
+
+“I did.” Ren said and grinned. “You get bonus points for medical relief!”
+
+Denise laughed and let him go, then tucked it away. “I'll be right back. I just have to wash my hands.”
+
+“Kitchen sink.” Ren said and pointed. “Or you can wait for Elise to... there she is.”
+
+Elise came out of the bathroom all dressed and ready for work. “What was all the yelling for?”
+
+“Denise was embarrassed that Barbara caught her jerking me off.” Ren said.
+
+“REN!” Denise yelled as her face flushed red again.
+
+“What?” Ren looked at her.
+
+“You shouldn't... I mean... god, how can you say things like that to your girlfriend?”
+
+“I would have asked her to help, but she was busy.” Ren said and looked at Elise. “I was already kind of raring to go, then you did that little dance.” He said and grinned. “Denise said it was like a rock.”
+
+“Ugh.” Denise covered her eyes with a hand, and Elise came over to her.
+
+“It's okay, Denise.” Elise said and leaned in to put her mouth by her ear to whisper. “Just wait until you taste it.”
+
+Denise's mouth fell open in shock. “I... ah... have to wash my hands!” She said and slid off the bed as Elise stood up straight.
+
+“Ren, how do I look?” Elise asked as Denise practically ran to the bathroom.
+
+“Like bacon.” Ren said. “So tasty that I just want to eat you all up.”
+
+Elise laughed. “I think I'm going to stop asking you for your opinion.” She said. “I'm pretty sure I don't want to be compared to a well-cooked piece of greasy pig fat.”
+
+“Are you sure?” Stella asked and came into the room with a tray of food, and Barbara was right behind her with another tray. “Being compared to one of his favorite foods is no small matter.”
+
+“Really? What food are you?” Elise asked as Stella started putting the plates out on the table in the bedroom's small kitchen, and Denise came out of the bathroom.
+
+“Strawberries and whipped cream.” Ren said, and everyone looked at him with wide eyes. He licked his lips to stop from drooling. “She tastes so good, it's almost sinful.”
+
+“Ren.” Barbara said as she saw Stella's blush. “Sometimes being too honest isn't a good thing.”
+
+“But...”
+
+“Just get over here and eat.”
+
+“What about Lisa?”
+
+“What about me?” Lisa asked as she came into the room.
+
+“I was wondering if you were going to join us for breakfast.” Ren said and moved over to the side of the bed, and Denise helped him sit in the wheelchair.
+
+“I am.” Lisa said and sat down at the table.
+
+“Are you still angry?” Elise asked her and sat down beside her.
+
+“Not really.” Lisa said and everyone sat down to eat.
+
+“I can't wait for the fight to be over.” Ren said and started to eat.
+
+“Why?”
+
+“I heard that make-up sex is supposed to be great.” Ren said, and everyone stopped eating to look at him. “What?”
+
+“Yes, too much honesty might not be a good thing.” Barbara said in a stern voice, and that made everyone laugh. They finished eating, and Elise left for work after getting a goodbye kiss from Ren. Lisa left next, after she said she had things she needed to do in the game and kissed Ren as well. Barbara's shift was over, so she left after getting a hug, and the only ones in the room were Stella, Denise, and Ren.
+
+“Well, I've got to restock the things in the house.” Stella said. “Toilet paper, checking the emergency kits in all the rooms and adding them where there's none, things like that.” She gathered up the dishes and picked up the trays. “I'll be back around lunchtime.”
+
+Denise watched Stella walk across the room and leave the bedroom, and she kept looking at the closed door. She felt a hand on her arm, and she turned to look at Ren.
+
+“Can you help me to the bathroom?” Ren asked. “I've got a couple of things to take care of, and then I'd like a shower.”
+
+“O-of course.” Denise said.
+
+She pushed the wheelchair over to the bathroom and Ren took care of the business she had helped him with earlier, then he slowly took off his clothes.
+
+“How's the leg?” Denise asked.
+
+“It's not as stiff, but it's more painful.” Ren said, and Denise checked it. She prodded it lightly in a few spots, and she felt the muscles twitch.
+
+“The bruises will be gone in a few days, and you'll be able to start physical therapy again.” Denise said and helped him into the shower, and he sat down on the step stool to let her scrub him.
+
+“I can't wait.” Ren said sarcastically, and she laughed.
+
+“It's not that bad.” Denise said.
+
+“No, but it's exhausting and I don't feel like doing anything afterwards.” Ren said and sighed. “I know I have to do it so I don't get worse than I already am, but...” He sighed again. “I just wish I was normal.”
+
+Denise smiled. “Being normal is overrated.” She said and continued to scrub him.

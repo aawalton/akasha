@@ -1,0 +1,233 @@
+---
+id: 9fa5b858-a541-572a-b505-15b20dd92061
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 Flow"
+slug: 0019-chapter-18-flow
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 19
+ownLength: 2056
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3224810/chapter-18-flow"
+royalRoadId: "3224810"
+---
+
+Barely an hour since the beasts tested the southern walls, the morning that had settled over Ashridge was a brittle thing.
+
+The southern treeline stood quiet now after the initial probing attacks from the beasts.
+
+Lucien had remained on the wall longer than necessary, unwilling to leave while men still stood their posts.
+
+The militia moved with restrained efficiency along the ramp, rotating positions, collecting spent arrows, dragging the dead beasts farther from the stakes so their presence would not invite further scavenging.
+
+It was still a disconcerting sight to see goblins eating their own with relish.
+
+Dorian approached from the ramp, helm tucked beneath one arm. “Southern line’s thinning. Scouts spotted tracks pulling off west and east but lesser movement in the brush.”
+
+Lucien nodded in response. Even to his own inexperienced eyes, it did seem like the forest appeared less agitated than before. He could hardly see any movement between the trunks and the alarm lines deeper within the brush remained silent.
+
+“They failed to break the wall,” he said at last. “They will not waste themselves where resistance is visible.”
+
+It was a clean conclusion, one that fit the model he had built in his mind when he first learned about the Tithes on his first day in this world. He possessed some measure of insight regarding sieges and defensive fortifications despite lacking formal military experience.
+
+Granted, what he had read in books rarely matched what he saw in the world, especially this one.
+
+A horn sounded from the east, it was a higher, sharper call, shorter in breath than the deep resonance of the southern palisade horn.
+
+Lucien found his gaze shifting to that direction, the sound had carried from beyond the eastern fields, from the smaller watch post near the outer grazing fences.
+
+As a farming village, Ashridge’s fields stretched across the river. They were scattered, and the defenses there were thin.
+
+Dorian turned as well, eyes cold. “They’re moving along the treeline.”
+
+Lucien’s jaw tightened, the southern forest curved toward the east, where the land dipped slightly toward the river valley. The tree density lessened there, breaking into thinner growth and pasture.
+
+A runner was already scrambling up the ramp, boots striking packed earth in quick succession. The youth was flushed from cold and exertion, breath misting in uneven bursts.
+
+“Milord,” he managed, forcing steadiness into his tone. “Movement east of the grazing line. Goblins in small clusters and Kobolds were spotted near the river bend.”
+
+His eyes sharpened. “How many of them?”
+
+The boy shook his head, visibly disturbed. "We don't know, Milord. They keep moving about.”
+
+'Moving? Were they trying to test our defenses from another direction?' Lucien considered the thought carefully.
+
+“They are probing the wall again, just like they did at dawn,” he said after a moment’s pause.
+
+Dorian’s eyes narrowed slightly, though he remained silent.
+
+Lucien's eyes flicked to the eastern palisade walls. “Signal the eastern watch to hold formation. Have the men maintain overlapping arcs of fire but keep it within bow range.”
+
+The runner nodded and descended at once.
+
+Lucien turned back toward the southern wood. The pressure had shifted sideways, the horde sliding laterally like a stream meeting stone and finding another channel.
+
+“When it holds, they will attempt to test where the defenses appears thinner in the other sections,” he concluded.
+
+“The eastern field is less fortified,” Dorian acknowledged. “Fewer stakes and a shallower ditch.”
+
+“Then we reinforce it.”
+
+Lucien descended the ramp at a controlled pace, the militia parting to allow him passage without breaking formation.
+
+He tried not to quicken his steps too much to attempt to appear composed in front of the men.
+
+Below the wall, commands were already being relayed.
+
+Villagers moved in orderly lines toward the manor gates where non combatants were being gathered with the infirmary doors propped open, likely by Elias's instructions.
+
+Harlon spoke to two men near a stack of spare planks, his gestures curt but efficient.
+
+Somewhere within the village, the steady rhythm of Joren’s hammer rang from the forge, shaping arrowheads and patching what little could be repaired.
+
+Villagers watched him as he passed, faces drawn but still calm. Word had spread that the wall had held, and fear lingered at the edge of the crowd.
+
+That mattered, especially in moments like this, belief in the line carried as much weight as the line itself.
+
+Lucien could not help but feel their eyes on him.
+
+Not on his commands.
+
+On him.
+
+He did not allow the awareness to linger, there was work to be done.
+
+“Shift twenty to the eastern wall,” he instructed Dorian as they crossed the yard together. “Leave sufficient presence south to keep them from gathering again.”
+
+Dorian studied him briefly before nodding, he gestured to two of the household guards standing near the inner ramp, their armor heavier and their posture less strained than the militia’s. “You remain south,” he ordered them. “Rotate with the Ashridge guards when needed. No gaps between rests.”
+
+Lucien cupped his chin in thought as they walked. “They will not strike where they were blooded. At least not immediately."
+
+“And if they circle back?” the captain asked.
+
+“They will not.” Lucien replied with a confidence he did not feel, it was meant for the men around him.
+
+The eastern palisade came into view as they mounted the second ramp.
+
+This section of wall was shorter, overlooking fields already trampled by livestock. Beyond that, the land sloped gently toward the riverbank, where the treeline fractured into thinner clusters of brush and saplings.
+
+It did not take long for him to see movement within the trees.
+
+Bands of goblins slipped between fence posts, scattering when arrows struck near their feet. A pair of kobolds skirted low along the river’s edge, noses close to the ground as though scenting weakness rather than scouting positions.
+
+A goblin darted forward toward an abandoned feed trough, snatching at something before retreating again. Another hurled a stone toward the wall, more defiant than effective.
+
+A shout rose from farther down the eastern line as a small cluster rushed the shallower ditch near the corner post. Men lifted their shields while their spears pointed downward but the rush broke apart almost immediately under arrow fire.
+
+Half a dozen corpses lay abandoned as they scattered in different directions. Their rout carrying them sideways along the treeline.
+
+Lucien watched them leave. "They will disperse under resistance. Their movements so far indicates withdrawal over a constant offensive."
+
+Dorian’s gaze remained on the forest rather than the retreating figures.
+
+Beyond the eastern trees, deeper in the southern wood, a ripple passed through the undergrowth.
+
+It moved across the line of the wall.
+
+Lucien’s attention had already shifted to the next reinforcement rotation.
+
+The attacks on the eastern wall thinned after the first scattering of the beasts, drawing back like a slow receding wave, which was worse.
+
+Goblins moved in drifting bands, five or six at a time, appearing between fence posts or slipping through the shallow brush before vanishing again when arrows fell too near.
+
+The kobolds moved differently.
+
+They kept lower, skirting the riverbank where frost had softened into mud. Twice, Lucien saw one pause to test the edge of the water before darting back into the reeds.
+
+A sharp cry rose from the midline.
+
+Lucien turned in time to see a pair of goblins vault the outer grazing fence, driving past the wall toward a collapsed feed shelter beyond bow range. They tore at the remnants of grain sacks, shoving fistfuls into their mouths even as arrows struck the earth around them.
+
+One fell.
+
+The other dragged the body a few strides before abandoning it and fleeing east. Their movement carried on without pause, the fallen left behind as they scattered.
+
+Another horn sounded, this time from farther north along the eastern perimeter. It carried a different tone from alarm or breach.
+
+Dorian’s jaw tightened. “They’re spreading.”
+
+The southern forest curved behind the eastern fields like a crescent. The beasts slid along that curve, touching at different points, testing how much resistance answered at each.
+
+Lucien’s attention remained on the movement of the beasts, brow creasing faintly. “They failed south, now they test the eastern defenses.”
+
+The captain's gaze flicked to him. “And if east commits men to it, we will not have enough to hold the other fronts, My Lord.”
+
+Before he could respond, a cluster of goblins broke from the brush near the river bend, racing along the line toward a narrow section of the palisade where the ditch shallowed near a livestock crossing.
+
+“Corner!” a militiaman called.
+
+The goblins reached the ditch and leapt, two landed poorly and impaled themselves on angled stakes. One clawed its way up the muddy incline before a spear struck downward and forced it back.
+
+A hail of arrows followed, causing the rush to collapse almost as quickly as it had formed but while the militia’s attention drew tight at the corner, another shout rose from farther down the line.
+
+“Kobolds!”
+
+Lucien pivoted toward the call.
+
+Three had slipped closer under cover of reeds, one nearly reaching the outer fence before being spotted. They moved in staggered bursts, one darted forward, then back, drawing attention. Then another veered to the side, circling around.
+
+He gestured to the men on reserve. “Rotate five from the midline and seal up the gaps.”
+
+The adjustment held for a time, but the eastern wall became a place of constant motion. Each engagement came in short bursts before the beasts scattered again.
+
+The pressure never gathered into a single surge of the beasts.
+
+It lingered instead, persistent and shifting, wearing at the line with each passing exchange.
+
+The militia’s breath began to falter between calls, their posture slackened under accumulating strain.
+
+Behind the forward ranks, a small knot of Ashridge guards stood in tighter formation, shields grounded, waiting for Dorian’s signal rather than reacting to every probe. Unlike the militia, they remained held in reserve.
+
+Lucien's gaze shifted to the small group of archers along the wall. “How many arrows have been expended so far?”
+
+Dorian's jaw tightened. “Nearly a third of this wall’s supply.”
+
+His eyes narrowed. A third spent, all for probing attacks.
+
+At this rate, their arrow supply would be depleted before the true offensive arrived.
+
+The captain had already noticed the same problem. "Should we reduce the range?"
+
+Lucien inclined his head. "Do it. If we expend all our arrows here, then we won't be able to respond to anymore of their probing attacks."
+
+When the arrows slowed after Dorian's command, the beasts adjusted almost immediately.
+
+The goblins stopped advancing into clear sight. Instead, they began throwing from partial cover, forcing shields to rise without offering clean targets in return.
+
+Each incursion demanded arrows already stretched thin and readiness from men growing more exhausted with every exchange.
+
+'They were trying to keep the wall awake'
+
+The growing chill he felt deepened when a distant cry rose from the southern line.
+
+Lucien turned instinctively toward it. “They circled back to the southern palisade?”
+
+Dorian’s expression tightened. “Partial movement again, My Lord.”
+
+His mind moved quickly through cause and effect. 'If the southern palisade drew light contact while the eastern wall remained active—'
+
+“They are not redirecting."
+
+Lucien’s jaw tightened a fraction, having reached the same conclusion. “They are dividing attention,” he corrected.
+
+Yet even as he said the words, he understood what the captain meant.
+
+Somewhere deeper within the southern woods, something moved that held its ground when arrows fell. A ripple in the brush, slower and heavier in its steps. It neither closed the distance nor gave ground.
+
+“They will exhaust themselves,” Lucien said, eyes fixed on it. “They cannot maintain such scattered pressure in so many fronts.”
+
+Dorian did not argue, but his silence no longer sounded like agreement.
+
+By mid afternoon, the militia had rotated twice as often as projected. Arrows lay broken along the ditch in greater numbers than they should have.
+
+And the beasts were still there.
+
+Below the riverbank, a rust colored shape paused between reeds.
+
+When a goblin darted too near its position, it struck the smaller creature aside without looking.
+
+The goblin died on impact.
+
+Lucien’s eyes lingered a fraction too long.
+
+Then the shape was gone, as the movements of the beast began to flow around Ashridge.

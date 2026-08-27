@@ -1,0 +1,249 @@
+---
+id: 6de4a071-3158-5985-a31f-70e8d4853d6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67 Balance"
+slug: 0072-chapter-67-balance
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 72
+ownLength: 2576
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3454637/chapter-67-balance"
+royalRoadId: "3454637"
+---
+
+The air around Ashridge had gradually changed with the passing season.
+
+Winter no longer lingered in the wind, the cold receding into a softer warmth that carried through the village.
+
+The frost-hardened ground had begun to give way while darkened soil was turned in sections beyond the eastern approach, where spring planting had already begun in earnest.
+
+The flow of movement within the village itself had changed alongside the season as well. It was as though spring had brought with it a momentum that filled men and women alike with a renewed sense of purpose.
+
+Timber was no longer cut in haste to raise shelter for new arrivals. Where rough structures had once been thrown together against the cold, proper frames and finished roofs now stood in their place.
+
+Lucien stood by the window, observing the livelier air of early spring.
+
+A knock sounded at the door to the study.
+
+From the cadence alone, he recognized it. Elias, on time as usual.
+
+He turned toward the door and called.
+
+“Enter.”
+
+The door opened and Elias entered, offering a polite bow before moving to his usual place.
+
+“My Lord, I have prepared the relevant reports for your review,” he said, a bundle of ledgers tucked neatly beneath his arm.
+
+Stepping forward, Elias placed the ledgers upon the desk before opening the topmost one.
+
+Lucien moved from the window to take a seat behind his desk.
+
+Parchment rustled softly as Elias adjusted the page. “The preparation of the fields has proceeded as scheduled. The eastern sections have been turned and marked, and initial planting has already begun in the outer rows.”
+
+He glanced briefly at the ledger before continuing. “Labor has been distributed in shifts to avoid overexertion. The newer arrivals have been integrated where appropriate, primarily in support roles.”
+
+Leaning forward slightly in his chair, he asked, “How goes the progress for the ridge outpost?”
+
+At the question, Elias straightened slightly. “The thaw has progressed enough for construction to begin.”
+
+“With the foundation marked and the timber prepared in advance. We are within the expected timeframe.”
+
+Lucien tapped his finger lightly against the desk. “Has there been any complications?”
+
+The steward shook his head faintly. “None of note, My Lord. Conditions have been favorable.”
+
+He gave a faint nod before his finger stilled against the desk. “…And Cragwatch?” he asked, his tone lower than before.
+
+Elias did not answer immediately, his hands resting against the open ledger as he considered the question. “No word has come from Helvarn. Nor from the lord of Cragwatch.”
+
+He looked up from the ledger. “The roads have only recently opened. If he intends to act, it would be soon.”
+
+After a brief moment, Elias added more carefully, “The survivors remain where they are. There has been no change in their disposition.”
+
+Lucien's gaze lowered in thought for a moment before he brought up another point. “And how are our reserves for Ashridge’s treasury?”
+
+Elias did not need to consult the ledger this time. “They have increased, my Lord.”
+
+“Following the exchange with the independent merchants, the majority of the variant’s skins were sold as directed. After accounting for the purchase of grain seeds and iron ore, the treasury now stands at four hundred and twenty Arde.”
+
+The hides alone had carried more value than most goods that moved through Ashridge.
+
+Even then, many materials remained unsold. Lucien had no intention of parting with them carelessly. Their value extended beyond gold, and the hides had served as leverage to force a more favorable exchange despite Lord Vaelric’s interference.
+
+Lucien’s gaze lifted toward Elias, whose expression remained unchanged despite the increase.
+
+“And the guards’ equipment?”
+
+The steward inclined his head. “The first shipment arrived several days ago, delayed by the thaw. Half of the order has since been completed.”
+
+He turned a page, more out of habit than necessity. “Thirteen sets have been fitted and issued. The remainder is expected to be completed within the next week.”
+
+Leaning forward in his chair, he shifted to another matter. "Elias, I would like you to begin gathering census records from our old archives as well as recording the newer arrivals in Ashridge."
+
+At his words, Elias let out a soft cough. "...Records, My Lord?"
+
+Lucien placed his hand on his chin. "Yes. With the expected increase in population, we will need proper records of the current households first."
+
+Slowly, the steward inclined his head. "...It would take a long time to gather them, My Lord. The former lord did not keep accurate records of the people living here."
+
+Elias cleared his throat before continuing. “Because of the transient population on the frontier, there are no reliable records unless one goes personally to each household…”
+
+Ashridge had only one aging scribe attached to the manor, and the records left behind by the former lord had been poorly maintained.
+
+Lucien gave a slight nod before motioning toward the steward. "Yes. You will have to go door to door and record their numbers."
+
+“There is no need to finish it quickly. But it is something that should be handled now rather than later.”
+
+Elias was silent for a moment before giving a slow nod. "...By your command, My Lord."
+
+Lucien rose from his seat once it became clear the steward was finished, the chair shifting against the floor with the motion. “I will be visiting the fields,” he said as he reached to clasp his cloak.
+
+“I intend to speak with Bran regarding the spring planting.”
+
+The steward closed the ledger with a soft sound. “Understood, my Lord.”
+
+Lucien did not linger, stepping past the desk and toward the door, his thoughts already moving ahead to the work awaiting him beyond the palisade.
+
+The door closed behind him, leaving Elias to tidy the study as usual after their meetings.
+
+By the time Lucien reached the eastern fields, rows of freshly turned soil already stretched across much of the open ground.
+
+Farmers worked the fields in orderly rows while newer arrivals from the eastern villages moved alongside them. Their roles were smaller but no less important as they carried tools, cleared stones, and followed the guidance of those more familiar with the land.
+
+Bran was already moving through the fields as Lucien approached.
+
+His boots pressed into the soil as he moved along one of the marked rows, a tool resting against his shoulder. Another worker followed behind, setting the line while Bran’s attention remained fixed on the ground ahead.
+
+He spoke briefly, gesturing once before stepping forward himself and adjusting the spacing with a practiced motion. Only then did his gaze lift, noticing Lucien’s approach.
+
+Bran straightened, though he did not abandon his position within the field. “My Lord,” he called out, his tone carrying across the distance without strain.
+
+Lucien stepped onto the edge of the worked soil, his gaze passing once over the rows before settling on the man himself.
+
+“Bran, how goes the progress?”
+
+The farmer shifted the tool resting against his shoulder before answering, his gaze briefly passing over the rows behind him. “Steady, My Lord. The eastern fields are mostly turned, and the planting’s begun proper these past few days.”
+
+He gestured toward the rows behind him. “The newer hands are slower, but they follow direction well enough. Give it a few more days and they’ll keep pace.”
+
+“If the weather holds, we’ll have the first round done within the week.”
+
+Lucien followed the line of his gesture before returning to him. “Are there any delays with the expansion of the fields?”
+
+At his question, the older man stroke his beard in thought. “The outer sections will take longer, My Lord. New ground’s often heavier and it needs breaking in proper...that’s where the new plows come in.”
+
+Lucien’s brow lifted slightly before his gaze shifted toward the far end of the field.
+
+Two oxen pulled the new plow across the field, turning dark soil in heavy lines behind them. The man guiding it leaned into the handles, boots sinking slightly with each step.
+
+Bran gestured toward the oxen, a snort escaping him. “Joren’s been working them near every day. With an apprentice helping him now, the pace has picked up compared to when he worked alone.”
+
+His gaze shifted briefly toward a deeper furrow near the far end of the field. “So far, he’s turned out four that are usable. Another one or two by the end of the week, if he keeps at it.”
+
+The farmer exhaled lightly through his nose. “Would be more, but he’s still splitting time with that other piece you had him working on, My Lord.”
+
+“Even so, those things cut through the soil clean. Faster than a man with a hoe, and deeper besides.”
+
+He nudged the ground with his boot. “Give us a few more plows like that, and the new fields won’t slow us as much.”
+
+While listening to the farmer, Lucien observed another stretch of land where the work lacked the same consistency as the rows under Bran’s direction. The lines there were less precise, the spacing uneven where adjustments had been made by hand rather than set from the start.
+
+They were not falling behind yet but the difference was starting to show.
+
+Following the direction of his gaze, Bran set his tool down upon the soil before approaching to stand beside him. "They will change their mind about the rotation when they see proper results, My Lord."
+
+Lucien gave a slow nod. "Have there been any grumblings amongst them?"
+
+A soft breath escaped the farmer through his nose. “Not them, My Lord. The western side’s been talking instead. Some of them think you’re...” Shaking his head slightly, he gestured toward the fields. "There's been talk that the eastern fields are the only ones being watched.”
+
+Lucien’s gaze remained on the distant rows, his expression unchanged as he listened carefully.
+
+Bran let out a slower breath this time, his gaze drifting westward. “They took it worse than we did...when the beasts moved toward Cragwatch, some of them cut across that side.”
+
+He nudged the soil lightly with his boot. “Didn’t hit all of it, but enough. Trampled sections, torn boundary lines and some of them even had to rework their plots before winter had set in.”
+
+Lucien’s eyes lowered briefly. It had been something Bran reported during late winter.
+
+'I focused too heavily on the eastern side...'
+
+“Eastern side held cleaner, My Lord.” Bran added. “Less damage and we have more hands now...but they see the refugees working here, see the fields turning faster…” He gave a small shake of his head. “Looks to them like this side’s being favored.”
+
+Lucien remained silent for a moment longer, his gaze shifting to the side as he considered it. “The western fields are less arable?”
+
+Shrugging faintly, Bran explained. “It's not poor land, My Lord. It was settled later compared to the eastern fields and they lie closer to the ridges, so there's more stone in the soil.”
+
+“Takes more work for them to get the same yield.”
+
+Glancing at the older man beside him, Lucien gestured toward the fields. “Would it be possible to shift some of them toward the new eastern expansions?”
+
+Bran’s expression tightened at that. “Some, maybe, but not all. You ask them to leave their land outright…”
+
+“You’ll get more than talk.”
+
+Lucien nodded in response to the farmer’s words. It was the answer he had expected, though he had asked to be certain.
+
+Someone who had worked the same land for years would not abandon it easily, even if what lay elsewhere offered improvement. People did not make decisions on logic alone.
+
+Cupping his chin in thought, Lucien looked toward Bran. “As a farmer, what do you think would ease their resentment?”
+
+Bran's gaze lowered to the soil beneath his feet, the tip of his boot pressing into the soil as though weighing the question the same way he would the ground. “You won’t ease it all at once,” he said at last.
+
+“They’ve put years into that land. Some of them rebuilt it more than once.”
+
+He scraped the edge of his boot along the dirt in a short, absent motion. “You don’t tell a man that’s done that to move, or that his field matters less, and expect him to take it clean.”
+
+“First thing...they need to see you there.”
+
+His gaze lifted toward Lucien. “Not hear about it. See it, My Lord. Walk their fields, look at what they’re dealing with. Same as you’re doing here.”
+
+“Second...don’t leave them to fix it alone.” Bran's tone tightened by a fraction. “Send some of the extra hands their way, even it out some.”
+
+He glanced briefly toward the workers in the eastern rows before continuing. “Doesn’t have to be all. Just enough that it doesn’t look like one side’s being carried while the other’s catching up on its own.”
+
+Bran shook his head firmly. “And don’t push them to change yet. Let them see how this turns out first, My Lord. Farmers don’t follow words. They follow results.”
+
+“You give them that, the rest’ll come on its own.”
+
+A faint trace of irony surfaced, of how only a few months ago, people had avoided him during his walks. Now, they sought his attention instead.
+
+Lucien looked back toward Bran. “Then I will have to schedule a visit to the western fields soon. I will go alone. It would not do for you to accompany me if their resentment were to fall on you as well.”
+
+Bran grunted in agreement before adding, “Take Tomas with you. He’s got kin on that side.
+
+He nodded absently, making a mental note to bring the younger guard along. Before he could turn to leave, a light cough sounded behind him.
+
+His eyes lifted toward Bran, who now looked hesitant.
+
+“…How is Alicia doing, these days?” he asked, looking away as though the question sat less easily than those of soil and yield.
+
+“Alicia?” Lucien replied. “She is fine.”
+
+The answer did little to ease the tightness in Bran’s expression. “Is she...getting on well with your other girl?”
+
+Lucien exhaled softly through his nose. “The other girl is getting along well with her,” he said, his tone dry. The corner of his lips twitched. “If anything, she seems more wary of Alicia. Her lectures on propriety are...thorough.”
+
+His gaze rested on the older man for a moment longer. “I suspect that comes from your wife.”
+
+Bran’s gaze flicked back toward him at that before he huffed lightly, the tension easing by just a fraction from his face. “...That’s good,” he muttered.
+
+After a brief silence, he asked, “Why didn’t you ask her yourself?”
+
+The older man's gaze dropped toward the soil again. “I’ve interfered enough.”
+
+Bran's brow furrowed faintly. “Was a time I didn’t let her take a step without knowing where it led...even if I had reason for it”
+
+“But that doesn’t mean it was right.” He let out a soft breath before speaking again.
+
+“She’s making her own way now. Figured I’d best not stand in it.”
+
+A moment later, some of the tension left him. Then, unexpectedly, a slight smile cracked across Bran's face. “Still...can’t say I envy you, My Lord.”
+
+He gave a short breath that might have been the beginning of a chuckle.
+
+“Managing all that.”
+
+Lucien did not ask whether the older man meant the western fields or something else.
+
+He would rather not know the answer.

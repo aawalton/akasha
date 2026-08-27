@@ -1,0 +1,365 @@
+---
+id: 7b387d87-28cf-5cff-8a01-cc51f95de727
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 Bend"
+slug: 0022-chapter-21-bend
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 22
+ownLength: 3465
+unit: words
+publishedAt: 2026-04-04
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3232097/chapter-21-bend"
+royalRoadId: "3232097"
+---
+
+Dusk had settled fully by the time the line steadied.
+
+The collapsed section of ditch remained a sloped ruin of splintered timber and crushed bodies, the frost beneath it churned into dark paste. Torches were brought up along the southern palisade, their light catching on iron bands and the wet sheen of blood along the wall walk.
+
+Dalen’s body had been carried down.
+
+Lucien remained where the seam had failed.
+
+He studied the slope where the ditch had given way, tracing the path the weight had taken as it compounded upon itself. The angled stakes held, the shields remained aligned, and the men stood firm.
+
+The force had concentrated.
+
+That was all.
+
+Dorian approached from the inner walk, helm removed now, hair darkened with sweat and frost. His jaw was set tighter than Lucien had ever seen it.
+
+“We shore the ditch,” Dorian said without preamble. “Re-set stakes. Double the southern rotation. We hold harder.”
+
+Lucien did not respond immediately, his attention fixed upon the broken ditch.
+
+Below them, the ruined incline shifted faintly as goblins dragged their fallen away from bow range. A kobold darted in to snap at an exposed limb before vanishing sideways into brush. The forest absorbed them without sound.
+
+“We are holding it as if it must not bend,” Lucien muttered at last.
+
+Dorian’s gaze flicked toward him. “If it bends, it breaks.”
+
+“It already broke.”
+
+The words were quiet but perhaps that was why it hung in the air.
+
+Dorian’s jaw flexed once before he looked back to the slope. The torches made the churned slope appear deeper than it was, shadows pooling between broken stakes.
+
+“That was weight,” Dorian said, tone rougher than before. “Not weakness.”
+
+“Yes,” Lucien replied softly. “And we answered it by trying to remain rigid.”
+
+Dorian’s expression did not change, but his silence sharpened.
+
+Lucien continued, his eyes still drawn on the ditch. “They act without coordination. They move without intent to flank. Pressure alone is enough, they only need to be pushed into the same space at the same time.”
+
+The captain folded his arms loosely across his chest. “We saw that.”
+
+“Then we stop treating the wall as a single unbroken surface,” Lucien said, the firmness in his tone cutting through the stilled air as he finally looked away from the ruined seam.
+
+Dorian studied him more directly now. “Explain.”
+
+Lucien faced the southern curve in its entirety. The palisade ran in a long arc, torches spaced at measured intervals. Militia stood in staggered formation, shoulders heavy but upright. Behind them, nearer the inner ramp, the Ashridge guards held in tighter alignment, less visibly strained, waiting for instruction rather than reacting to every movement beyond the trees.
+
+“We choose where it bends,” Lucien declared.
+
+Dorian’s eyes narrowed slightly. “You want to yield ground.”
+
+“I want to yield space,” he amended. “Not ground.”
+
+The distinction lingered between them.
+
+Lucien stepped closer to the damaged section, pointing not at the center of the collapse, but several paces to either side.
+
+“We reinforce the flanks of a narrowed segment. Heavier shields. Guards in depth behind it. The visible front remains thinner in the center.”
+
+Dorian followed the line of his gesture. “They will press there,” the captain stated.
+
+“Yes.”
+
+“And when they do?”
+
+“They will compress themselves.”
+
+Dorian held his gaze on the marked stretch of wall.
+
+Lucien continued, measured and controlled. “The ditch is already compromised. We cannot restore it to its original depth before they surge again. So we alter the shape of the approach. Remove several remaining stakes in a contained span. Clear bodies from that corridor only. Make it appear more traversable than the rest.”
+
+Dorian’s jaw tightened. “You are proposing to invite them.”
+
+“I am proposing to decide where they gather.”
+
+The torches flickered in a sudden gust, light bending along the wall as shadows lengthened toward the forest.
+
+Lucien’s voice remained steady. “When they drive forward, they seek the path of least resistance. When enough bodies accumulate in one narrowing space, their own weight becomes their constraint.”
+
+“When the compression peaks, we drench the corridor,” Lucien added evenly. “Not before. We cannot afford waste.”
+
+“We have little,” Dorian said, his gaze shifting briefly to the timbered wall. “And once it’s loosed, there is no taking it back.”
+
+“Then we will loose it only once,” Lucien replied, something harder settling into his voice. “And we will loose it where it ends the press.”
+
+Dorian’s gaze shifted toward the inner ramp where several of his sworn soldiers stood apart from the militia, watching the treeline with disciplined restraint.
+
+“You want the guards committed there,” he said.
+
+“Yes.”
+
+“They are not militia.”
+
+“I know.”
+
+“They cannot be squandered sealing panic.”
+
+“They won’t be,” he said, the words steady, as though he were setting them in place
+
+Lucien met his eyes fully now. “They will not be asked to hold indefinitely. They will strike when the compression peaks.”
+
+The captain’s expression shifted fractionally at that. “You want a kill corridor.”
+
+“I want to shape the pressure instead of absorbing it.”
+
+For a long moment, neither spoke.
+
+Below, a goblin darted briefly into torchlight before vanishing again. The forest held its distance, its presence kept at bay beyond the torchlight.
+
+Dorian finally exhaled slowly through his nose. “If the militia see us thinning a segment intentionally—”
+
+“They will see guards behind them,” Lucien interrupted, his voice even. “They will not see abandonment.”
+
+“They will see reinforcement.”
+
+Dorian’s gaze sharpened. “You intend to stand in that segment,” he said, the disapproval not entirely masking something else.
+
+Lucien answered without pause. “I intend to direct it.” The distinction was deliberate.
+
+Dorian studied him, weighing something that had nothing to do with timber or stakes. The memory of the collapse lingered between them, unspoken but present.
+
+“If it fails,” the captain said at last, “it fails faster.”
+
+“If we remain rigid,” Lucien replied, “we won’t get to choose where it breaks.”
+
+Silence followed.
+
+The militia along the southern curve adjusted their grips. One of the Ashridge guards shifted his stance slightly, spear butt settling more firmly against the planks as he waited.
+
+Dorian looked along the length of the palisade once more, measuring distances in his mind.
+
+When he spoke again, there was no resistance in it.
+
+“Where?” he asked.
+
+Lucien indicated a section between two torch posts not far from where the ditch had collapsed, but offset enough to avoid the most unstable ground.
+
+“There. Reinforce both sides. Layer spears three deep behind the flanks. Guards behind the center, not at the face. When they cluster and commit, we narrow further.”
+
+“And if the variant advances again?”
+
+“It will,” Lucien replied.
+
+A faint smile touched his lips, brief and sharp, the same expression that surfaced when a problem finally revealed its structure.
+
+Dorian’s gaze lingered a heartbeat longer than usual before shifting away.
+
+“Then it will step closer than it has before.”
+
+“And when it does,” Lucien continued, lifting his eyes to Dorian’s, “it will be within reach.”
+
+The captain held his gaze for several seconds longer.
+
+Then he nodded once. “Very well,” Dorian said at last. “We bend.”
+
+The order carried quickly.
+
+Militia were repositioned with controlled urgency rather than haste. Stakes were pulled from a deliberate span while the flanks were reinforced. Guards moved into layered depth behind the chosen segment, shields angled inward rather than forward. Spears aligned in staggered ranks rather than a flat line.
+
+Lucien remained upon the wall walk, watching the shape of the formation change.
+
+The forest beyond the torches stirred again, movement gathering in pulses beneath the canopy.
+
+This time, he would shape it.He would decide where it gathered.
+
+The adjustment came quietly.
+
+No horns or shouted declarations marked the change. The line simply shifted, its arc tightening subtly where Lucien had indicated, the center of the southern stretch thinning by a measured degree while the flanks thickened with layered shields and staggered spearpoints.
+
+The ditch at that segment was cleared more thoroughly than the rest, with the corpses dragged aside just far enough to invite the beasts in. A handful of remaining stakes were pulled free and laid flat beneath the wall walk, leaving a shallow, uneven incline that looked more approachable than the bristling defenses to either side.
+
+Torches burned lower as night deepened and beyond them, the forest stirred.
+
+The first movement came hesitantly, a goblin stepped into the open ground, yellow eyes reflecting firelight as it twitched and scanned. It advanced two paces toward the altered section, then three more, testing the slope with a clawed foot.
+
+No arrows were loosed from the militia, allowing another goblin to join it, then a third.
+
+From the flanks, militia held steady, shields overlapping in tighter discipline than before. Behind the thinned center, the Ashridge guards waited in layered depth, angled inward behind the line, their spears levelled over one another’s shoulders.
+
+Lucien watched the space between the beasts and the wall.
+
+A shriek split the air from deeper within the wood, sharper than the others. Goblins spilled forward in answer, colliding with one another as they angled toward the softened segment.
+
+“Hold,” Dorian ordered, his voice steady despite the gathering noise.
+
+The first wave struck the altered incline and found purchase where the stakes had been removed. Several stumbled, but more followed close behind, climbing over the fallen without hesitation.
+
+The ditch did not halt them as it had before but it slowed them just enough.
+
+From either side of the narrowed corridor, shields tightened with spearpoints angled downward in disciplined layers. The goblins pressed into the center, their numbers swelling as those behind continued to surge forward, unaware of how little space lay ahead.
+
+A kobold darted in along the right flank, seeking a seam where militia attention might drift. It found only reinforced overlap and was forced back with a thrust that drove it sideways into its own kind. Snarls erupted briefly among them before the forward pressure swallowed the disturbance.
+
+“They’re committing,” one militiaman breathed.
+
+“They’re compressing,” Lucien corrected under his breath.
+
+The center thickened with bodies as goblins clawed upward, some reaching the lip of the incline before being forced down again by descending spear thrusts. Others wedged themselves between their own, pushing blindly forward without room to swing or maneuver.
+
+Behind them, more arrived causing the weight to increase further.
+
+“Now,” Lucien ordered, his gaze fixed on the narrowing space.
+
+Dorian did not hesitate. “Flanks forward.”
+
+The command snapped into motion, the reinforced sides advanced half a pace inward, shields angling to constrict the already narrowing channel. Spearpoints drove downward in coordinated rhythm, to confine rather than repel.
+
+The corridor tightened.
+
+Goblins found themselves pressed chest to back, limbs pinned by the crush of their own numbers. Those at the rear continued to shove, unaware that those at the front could neither advance nor retreat.
+
+“Fire,” Dorian ordered.
+
+Clay pots arced downward from the wall walk, shattering upon the compacted mass. Oil splashed across compressed bodies and churned earth. A heartbeat later, torches followed.
+
+The effect was immediate and violent. Fire leapt from one tangled form to another, feeding on oil and matted fur. Screams rose, as the horde of panicking creatures attempted to turn within a space that offered no room to move.
+
+Those at the rear faltered at the sudden flare of heat, but the press behind them continued, unaware of what lay ahead until they were forced into it.
+
+The kill corridor became a choke of fire, steel, and suffocation.
+
+From behind the thinned center, the guards advanced in disciplined sequence, stepping into the flanks of the compressed mass. They struck inward at trapped bodies with controlled brutality, spears withdrawing and thrusting again without wasted motion.
+
+Militia held their positions, guiding the surge inward toward the narrowing space.
+
+The momentum that had once multiplied against them now folded into itself.
+
+A goblin reached the lip of the wall and was cut down instantly, its body dragged sideways to prevent it from becoming a foothold for the next. A kobold attempted to dart through the chaos along the edge of the flames but found its path blocked by layered shields and was forced back into the burning press.
+
+Lucien felt the difference in that moment.
+
+The beasts held within the press, unable to scatter or break through. Their own density betrayed them, turning the forward push into a trap that tightened with every additional body forced into the narrowing space.
+
+Behind the mass, movement stirred once more within the trees.
+
+The brown-orange shape emerged just beyond the reach of firelight.
+
+It advanced closer than it had in previous engagements, red eyes fixed on the cluster where pressure had stalled. Its presence rekindled the push from the rear, goblins shrieking as they were driven forward despite the heat and the crush.
+
+Flames guttered lower as oil burned away, leaving smoke and writhing bodies piled against one another. The forward force, unable to expand sideways and unable to advance upward, began to falter.
+
+The rear pressure wavered.The red eyes narrowed.
+
+For the first time, the variant stepped within clearer view of the torchlight, no longer content to drive from deeper shadow.
+
+Lucien did not move, his gaze sharpened as he studied the creature’s stride and the pressure it exerted, as though it had become a problem finally revealing its structure.
+
+The corridor had forced the variant closer.
+
+And now it stood within the distance he had intended.
+
+The flames guttered lower as oil burned away, leaving smoke and bodies tangled upon the incline. The corridor still held its shape, though the wood beneath it was blackened and slick. Goblins struggled within the compressed space, their forward momentum broke against the limits of space.
+
+Behind them, the forest shifted.
+
+The brown-orange figure stepped into clearer view between two torchlit gaps in the palisade. Its proportions were wrong in the flickering light, shoulders too broad, limbs too long, scars pulling across taut muscle in uneven ridges. The red of its eyes did not reflect flame, instead they seemed to drink it.
+
+The goblins at the rear shrieked as they moved forward in compelled agitation.
+
+“It comes closer,” Dorian said, the restraint in his voice stretched thin.
+
+Lucien did not look at him. “It must.”
+
+The variant advanced until it stood just beyond the worst of the smoke. It moved at a measured pace, ignoring the wall and the corridor alike. It walked forward enough to shorten the distance between itself and the mass it had driven.
+
+The rust-colored kobold appeared briefly at its flank, head lowered in that same instinctive deference Lucien had seen before, its gaze fixed solely on the taller shape.
+
+The goblins surged again but this time the shield wall did not collapse inward. The flanks tightened as planned, shields angling to confine rather than absorb. The guards stepped in sequence along the inner depth, striking at exposed throats and withdrawing without breaking formation.
+
+For a breath, the variant remained still then it stepped fully from the shadow of the trees, and the torchlight caught it at last.
+
+The motion rippled outward through the beasts, goblins near the rear shrank sideways to clear its path, some stumbling into flame or falling beneath trampling feet. The red eyes lifted toward the wall fixed on the corridor that had denied it.
+
+Dorian did not wait for Lucien’s command. “Guards with me.” he growled, the words low and tight, as if something long held beneath discipline had finally been granted release.
+
+Lucien watched him descend and understood, distantly, that this was the first time he had seen the captain’s restraint fracture so openly. Until now it had been contained in sharpened glances and clipped orders, this was different.
+
+The four sworn soldiers moved as one, shields lifted, spears angled not downward but forward. They did not descend into the ditch. They advanced along the wall walk to a lowered segment where the incline was steep but passable.
+
+Lucien remained where he was, holding the center.
+
+The variant reached the base of the incline and a goblin attempted to scramble past it but was struck aside without the larger creature turning its head, the body collapsing instantly beneath its own kind. The gesture was almost absentminded.
+
+It began to climb.
+
+The corridor narrowed further as militia tightened behind the guards’ descent point. The beasts pressed harder in response to the variant’s forward advance, but now they encountered reinforced flanks and disciplined steel rather than scattered resistance.
+
+Dorian dropped first from the lowered segment onto the sloped ruin below, boots sinking into churned earth and bodies. The guards followed, shields locking as they established a wedge at the base of the incline.
+
+The variant reached them in three strides.
+
+It moved faster than its size suggested. One elongated arm swept outward, catching the rim of a guard’s shield and driving him sideways into the mass. The second guard stepped immediately into the gap, spear thrusting toward the creature’s torso.
+
+The point struck, but not deeply enough.
+
+The variant seized the shaft and snapped it with a wrenching twist, then drove forward with crushing force. Dorian met it head-on, shield braced, boots digging into unstable ground.
+
+The impact was brutal.
+
+The rim of Dorian’s shield dipped under the force, and the creature’s forearm glanced across his shoulder as it drove through. The blow was not clean, but it carried enough weight to twist him half a step sideways.
+
+The goblins around them shrieked and pressed closer, driven by proximity rather than intent.
+
+“Hold!” Dorian roared, though the order was meant as much for the guards as for the line above.
+
+The remaining soldiers pivoted around him, not attempting to surround the variant fully but angling their shields to deny it clean leverage. Spears struck in disciplined succession at the variant's joints, thighs and the space beneath its raised arm.
+
+The variant bellowed, a sound deeper than the goblins’ shrieks, and drove forward again. Its weight nearly forced the wedge apart, but the flanking shields absorbed the pressure, turning it sideways rather than backward.
+
+Above, the militia tightened the corridor further, preventing the goblins from spilling outward and interfering with the engagement.
+
+Lucien closely watched every shift of balance.
+
+The variant swung again, catching one guard across the shoulder and driving him to a knee. Before it could follow through, Dorian stepped into the opening created by the misaligned arm and drove his blade upward beneath the creature’s ribcage.
+
+The rust-colored kobold shrieked from the edge of the trees, a sharp, strained sound that cut through the clash below. Goblins nearest to the variant faltered momentarily, uncertain as its dominance wavered.
+
+“Again,” Dorian snarled, stepping into the variant’s space before it could recover.
+
+Two spears struck low at once, piercing the back of the creature’s knee. It buckled forward just enough for Dorian to wrench his blade free and drive it upward again, this time beneath the jaw where scarred skin stretched thinner.
+
+The red eyes flared once, brighter in the torchlight.They went dark.
+
+Lucien watched without flinching, the space he had chosen had held and the sharpness in him withdrew.
+
+The weight of the creature sagged against the wedge, its mass threatening to pull the formation down with it. The guards heaved together, forcing the body sideways into the churned ditch rather than allowing it to crush them.
+
+The effect upon the beasts was immediate.
+
+The goblins nearest the corpse recoiled, shrieking in confusion rather than fury. Those behind them continued to press for several heartbeats more, unaware that the driving presence had ceased.
+
+The pressure that had bound them together collapsed all at once.
+
+Without it, the mass lost any form of cohesion as goblins clawed at one another in sudden panic. Kobolds snapped at exposed limbs and darted sideways into brush and several beasts turned on each other in the narrowing space, biting and trampling in instinctive scramble to escape.
+
+The forest swallowed the retreat in fractured waves.
+
+At the edge of the torchlight, the rust-colored kobold paused. Its gaze flicked once to the fallen variant, then it turned and fled westward, slipping between trunks toward the darker stretch of wood that bent toward the northeastern ridges.
+
+Lucien saw its flight and committed the direction to memory.
+
+Below, Dorian stepped back from the corpse, chest rising and falling with controlled force rather than exhaustion. He did not look toward Lucien, instead he simply lifted his shield and signaled the guards to withdraw in sequence.
+
+The southern corridor remained intact.
+
+The ditch was ruined, but the pressure had broken.
+
+The forest settled, receding in the staggered retreat of the beasts and for the first time since the first horn had sounded days ago, the line held without bracing for another push.
+
+The night remained still.

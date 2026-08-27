@@ -1,0 +1,575 @@
+---
+id: 07ef3f45-003e-5e44-be29-6285967bceb6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 139 - Task Complete"
+slug: 0124-chapter-139-task-complete
+partOf: mythrans-master-of-all-continued-completed
+position: 124
+ownLength: 4945
+unit: words
+publishedAt: 2017-01-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111514/chapter-139-task-complete"
+royalRoadId: "111514"
+---
+
+Ren had Nathalia recharge his Mana Pool while they spent the last few hours together, then had a great supper with her mother, and let Narhilda know what had been going on. He let her read the children's book, as it was short and didn't take long. He didn't get a popup for an increase for Fire Affinity, and figured he'd need more than one person to read it to increase it, now that it was at the Advanced level. Narhilda said she'd tell everyone she knows the story, and Ren did get a popup for a 1% increase.
+
+As long as people will hear about it, I get the bonus. Ren thought. I guess it's the potential that matters, and not necessarily the actual passing of knowledge.
+
+“The food was delicious, Narhilda.” Ren said. “Thank you.”
+
+“It was no trouble.” She said. “I really enjoy cooking.”
+
+“I'm sorry I didn't help today, Ma.” Nathalia said.
+
+Her mother snorted. “I wasn't going to steal you away from your date day just to cook supper, dear.”
+
+“I was only in the next room.”
+
+“I know.” Narhilda grinned. “I can't remember ever hearing you giggle so much!”
+
+“Blame him!” Nathalia said and chuckled. “He wouldn't stop tickling me.”
+
+“I can't help it if I like the sound of you laughing.” Ren smiled.
+
+“You don't have to force it, though.” She said. “I'll laugh as much as you want.”
+
+“Where's the fun in that?” Ren grinned. “I'd rather make you laugh.”
+
+“Okay, you two.” Narhilda said. “Go on. I'll clean up.”
+
+“Are you sure?” Her daughter said. “It'll go faster if we all help.”
+
+“No, no. You've got stuff you need to take care of.”
+
+Ren stood up and gave her a kiss on the cheek. “Goodnight.”
+
+Nathalia stood and kissed her other cheek. “Goodnight.”
+
+“Goodnight.” Narhilda said, then waved them away. “Shoo!”
+
+Ren laughed and took Nathalia's hand and led her to the old bedroom. He spent half an hour playing with her, then an hour pleasing her. He told her what he was planning to do, and she nodded. Nathalia was exhausted and fell asleep right afterwards, and Ren slipped out of bed. He equipped his Travellers Clothes and Dire Wolf Hooded Cloak, and snuck out of the bedroom and then into the kitchen. He stored a pile of food, then crept out of the house. Once outside, he opened the message system and sent a message to someone he needed help from. Ren asked to meet, and he got a response right away. She would meet him in 3 hours at the Library in Aurora. He confirmed the appointment, closed the message system, and went into the stable.
+
+“Princess.” Ren whispered. “I need another cart ride.” He held out a choice piece of cut meat and Princess sniffed it, appreciatively. She huffed and Ren put it in her bowl. When she finished eating, he stored the bowl and crate, then led her out of the stable. Once the cart was enchanted with a double glyph of Antidark, Princess was hooked up to it. Ren led her out of the courtyard and closed the gate behind him, making sure it was locked.
+
+“The weight's going to be different this time.” Ren said. “Start slow and adjust to it, then you can pour on the speed.”
+
+She nodded, and he climbed into the driver's seat.
+
+“Okay.”
+
+Princess trotted at first, and noticed that Ren was right. She huffed and moved side to side a little, then she ran. It was a little faster this time to the city, since the weight was nearly a third less than what it was. At the main part of the city, Ren saw that no one was around and he told Princess she could go a little faster. She went into a fast trot, and they got to the other road in no time and Princess poured on the speed. They stopped every 20 minutes, so Ren could give her food and water, but it only took an hour and a half to get back to the warehouse. Ren thanked her for working so hard, unhooked her from the cart, and brought her inside the warehouse. He took out her crate and bowl, and gave Princess more food. He opened her stat window while she ate, and smiled.
+
+“Your Strength and Endurance are both gaining ground.” Ren said. “I'm proud of you.”
+
+Princess blew a raspberry and Ren chuckled. “No, I'm not going to say 'I told you so'.”
+
+She huffed and Ren rubbed her neck.
+
+“I'll be back in a few hours.” He said, and went upstairs. Teepo, I'll summon you on the other side.
+
+“See you then.” Teepo said and dissolved back into the ring.
+
+Ren opened the cabinet, nailed it shut from inside, then stepped through the portal. He opened the other cabinet and nailed that shut, then summoned Teepo. He appeared at Ren's feet and flew up to land in Ren's hood.
+
+“That is so cool.” Ren said.
+
+“It sure is!” Teepo said. “I can still run and jump, but flying will surely help with my scouting!”
+
+Ren nodded and went downstairs. The place was empty and Ren opened the door and locked it behind him. He walked down the street and around the corner. He didn't notice the man standing 3 buildings away, watching him.
+
+*
+
+When Ren was out of sight, the man slipped around the corner and walked as fast as he could, without actually running, up to the north gate. Being this late, no one was there watching things, so he just walked out of the gate. A hundred feet away near the treeline, a hooded figure stood.
+
+“You have the money?” The man said.
+
+“You have information?” The hooded figure held up a silver coin.
+
+“I've been watching the place all afternoon and evening.”
+
+The hooded figure held up another silver and the man grinned.
+
+“He just left the building and is walking towards the center of the city. He wasn't running, so he had no clue I saw him.”
+
+“Do you know where he's going?”
+
+The man smiled. “There's only 2 places open at this time of night.” He said. “The Jiggly Puff, and the Library.”
+
+The hooded figure pretended to toss the money, and the man jerked in place to catch it. The hooded figure chuckled, then actually tossed the coins. The man grabbed one, then scrambled to get the second one as it rolled away across the ground. The hooded figure opened the message system and sent off a quick group message.
+
+He's in the Library.
+
+*
+
+Ren went into the Library and looked around. No one was there, except the receptionist. He walked closer and saw who it was.
+
+“Rosie!” Ren said, and her face lit up. “I'm really glad you're here.” He said, then frowned. “Hold on, why are you here at night?”
+
+“That's easy to explain.” Rosie chuckled. “The night Librarian wanted a night off.”
+
+Ren smiled. “This makes my visit so much better.”
+
+Rosie giggled and blushed a little. “You flatterer.”
+
+“That's not flattery, that's the truth.” He said. “I was worried I'd have to explain a whole bunch of things to someone I didn't know.”
+
+“Oh?” Rosie said. “Like what?”
+
+Ren took out a copy of the children's book and gave it to her. “This for one.”
+
+She took it and flipped through it. “You're submitting a book?”
+
+“Two, actually.” Ren said and took out a copy of the other book. “Could you add them to the Archive for me?”
+
+“Ren, I'd be happy to.”
+
+“Thanks, Rosie.”
+
+“I'll be right back.” Rosie disappeared behind the desk for a couple of minutes and came back empty handed. “There, all done.”
+
+“Well, not quite.” Ren said and smiled. “I know it costs a gold for a copy of a book if you want to keep it, so I want you to give them away for free and I'll pay for the copies.”
+
+Rosie's mouth dropped open. “Ren, we get hundreds of people in here a day!”
+
+Ren chuckled. “Not everyone will want a copy, but I'd like you to put a copy of each in the front window and offer them for free.”
+
+“Why in the world do you want me to do that?”
+
+“I need the Tale of the Fire Dancer to reach as many people as possible, and as quickly as possible.”
+
+“Well, okay.” Rosie said. “I hope you've got deep pockets.”
+
+Ren passed her 5 platinum. “This will cover the first 500 copies that you give away.”
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 10,000 XP
+
+Knowledge Of Fire Level 5 (Advanced 0%) Fire affinity and resistance increased to 50%
+
+Rosie stared at the money. “You... you were serious?”
+
+Ren chuckled. “I'd also like to make a donation to the Library, to help with maintenance, upkeep and maybe a huge pay bump for the Librarian that I'm giving it to.”
+
+Rosie stopped looking the money, and stared at Ren. “Y-y-you're crazy!”
+
+Ren snorted laugh. “I don't know why everyone says that.”
+
+Rosie put a hand over her mouth and started laughing. “All right! I'll accept a donation, in the name of the Library.”
+
+Ren put 10 platinum on her desk, then 10 more, then 10 more, and didn't stop until there was 100 platinum. Rosie stopped breathing. Ren ran around the desk, rubbed her back, and told her to take deep breaths. She caught her breath a moment later and grabbed the desk to stop herself from fainting.
+
+“You... you... you have really deep pockets!”
+
+Ren kept rubbing her back and laughed. Rosie eventually calmed down, and she turned to him.
+
+“You're not supposed to be behind the desk.”
+
+“Oh, sorry!” Ren said walked back around to the front. “I saw you needed help, and I...”
+
+Rosie came around the desk and stood in front of him. She was almost exactly Ren's height and she stared at him in the eyes, then took him into a hug. He hugged her back automatically. Ren hadn't hugged anyone that was the same height as him before, and it was a very intimate moment.
+
+“Thank you.” Rosie said, and then kissed him briefly. She let him out of the hug and stepped back. Ren stood there with surprise on his face.
+
+“Rosie...” Ren started.
+
+“You're so sweet that I couldn't resist.” She giggled.
+
+“...I'm engaged to be married.” Ren finished.
+
+“That's okay.” She said and went back behind her desk. “It was just a thank you kiss.”
+
+Ren didn't know what to say to that, and she smiled.
+
+“That was me thanking you personally.” Rosie said. “The Library on the other hand...” She smiled. “...would like to thank the most generous Patron it's ever had.”
+
+New Title!
+
+Your generosity to the Library has been recognized, and you've been awarded a title: Patron of Knowledge. This title grants you a 5 level Bonus to Speed Reading and Hidden Knowledge.
+
+You have also been granted access to restricted areas of the Library.
+
+Stat Change!
+
+Speed Reading Level 2 (Intermediate 40%)
+
+Hidden Knowledge Level 7 (Beginner 0%)
+
+“Rosie!” Ren exclaimed.
+
+“There's coffee in the break room, Mr. Patron.” Rosie grinned. “Care to join me for a cup?”
+
+“But...”
+
+She came out from behind the desk again and hollered to someone at the back of the main room. “I'm taking my break!”
+
+“Okay, Rosie.” A wizened old lady came out from behind a small desk and hobbled up the aisle to the main desk. It took her a while, and Rosie waited for her to sit down. “15 minutes.”
+
+“I know, Grandma.” Rosie said. “Come on, Ren.”
+
+Ren followed her to the hallway on the side, and they entered the first door on the right. Inside was a nice break room with a small kitchenette and a plate of pastries.
+
+“I didn't know they had coffee here.”
+
+“It's new.” Rosie said and poured a cup for herself and one for Ren. “I came in here the other day, right after we hired a new helper, and poof!” She sat down at the small table. “The helper said it was called 'coffee', and we've been drinking it ever since.”
+
+Ren's eyes widened. “Who is it?”
+
+Rosie waved Ren's question away. “Just some guy. He had a pile of books with him, and donated them to the Library when he asked for a job, so we hired him on the spot.”
+
+I wonder how he got coffee to appear here. Ren thought and tasted it. “Wow, that's strong.”
+
+“Oh, I forgot!” Rosie said, and opened one of the cupboards. “Crugar and seam.”
+
+Ren chuckled. “I think you mean 'sugar and cream'.”
+
+Rosie shrugged, and Ren put some sugar in his cup to take some of the bitterness away.
+
+“What are you doing here, by the way?” Rosie asked. “You could have dropped the books off anytime.”
+
+“I'm here to meet someone.” Ren said. Teepo?
+
+“About an hour.” Teepo said.
+
+Thanks. Ren thought. “She should be here in about an hour.”
+
+“Can I go exploring?” Teepo asked.
+
+Be careful and don't exert yourself.
+
+Teepo took off from the hood and slid out through the edge of the doorway. “Wheee!”
+
+Rosie sighed. “It's her, isn't it?”
+
+Ren smiled and nodded. “Why don't you like her?”
+
+Her eyes widened for a moment, and then she smiled. “It was that easy to see, was it?”
+
+Ren grinned. “Only to everyone that knows you.”
+
+“Yeah, I don't like her.” Rosie chuckled. “There's something about her that rubs me the wrong way whenever I see her.”
+
+“I've heard of something like that.” Ren said. “You know about love at first sight?”
+
+Rosie nodded.
+
+“This is hate at first sight.” He said. “For some unknown reason, you just automatically hate them.”
+
+She nodded. “Yes! She didn't do or say anything to me, and yet I hated her instantly.”
+
+Ren chuckled. “Chemistry between people can work the other way, too. It doesn't have to be positive.”
+
+“I'm glad that didn't happen to us.” Rosie grinned. “All the fun we would have missed!”
+
+“You asked me to dance, remember?” He said. “I was terrified until you showed me a few moves.”
+
+“I still can't believe that was your first time.” Rosie shook her head. “You moved like you were floating on air.”
+
+“It was an ability called Sneak, actually.” Ren said. “Some Adventurers have access to it.”
+
+She chuckled. “So you cheated!”
+
+Ren chuckled, too. “Maybe.”
+
+“Sneak.” Rosie said. “I'll have to remember to ask my dance partners about that, the next time I go to a party.”
+
+“Have there been many since the last one?”
+
+Rosie shook her head. “There hasn't been a lot of activity at all around here.”
+
+“Really?” Ren asked. “I wonder why.”
+
+“There's been a lot more shady characters around than usual, too.” She finished her coffee and put the cup on the counter. Ren handed his cup to her, and she put it next to the other one. “Something is going on, that's for sure.”
+
+“Are you being careful walking home?” Ren asked. “I don't want anything happening to you.”
+
+“I only live up the street.”
+
+He smiled. “I'll stick around and walk you home if you want me to.”
+
+“See?” Rosie giggled. “I told you that you were too sweet.”
+
+“It's not my fault that I care about what happens to my friends.”
+
+She put a hand on his arm. “Thanks; but, I'll be walking Grandma home. She'll keep me company.” She left the break room and pointed down the hallway. “You can wait for her at her desk.” Rosie said and rolled her eyes.
+
+“Thank you, Rosie.” Ren said, and tried not to laugh. “See you on the way out.”
+
+She waved and left him in the hallway.
+
+Teepo? Where are you, buddy?
+
+“I'm in the back room.” Teepo said. “Resting on top of a shelf, near the desk in the middle.”
+
+I'll be right there. Ren thought and walked down the hallway to the door at the end. He entered the room and closed the door, then walked down the aisle to the desk near the center of the room. There wasn't anywhere for him to sit, so he made a chair to sit in and waited. Ren was tempted to pull some of the books off the shelf nearby and try his Speed Reading out, but he didn't want to abuse his new access privileges like that. He put a single finger on the raised surface of his Water Spray ring, and absorbed the enchantment, then cast it again and absorbed it. 45 minutes, and 450 enchantments later, he'd raised his Advanced Enchanting Level 1 from 20% to 43%.
+
+I definitely need to get a healer to help grind that skill up higher. Ren thought, then cast a double glyph of Water Spray (8 runes total). His Mana Pool was only down by a quarter. All in all, I could keep going, but she should be here any moment.
+
+Ren heard a door open, and footsteps came up along one of the aisles. Since they all led to the desk, when she came up to it and saw Ren sitting there, she was surprised.
+
+“How did you get in here?” The Sage of Ages asked.
+
+“Through the door.” Ren said and smiled.
+
+“Ha. Ha. That's so funny, I'll laugh tomorrow.” Lara said, and sat down. “Where did that chair come from?”
+
+“Well, that's a long story.” Ren said. “First off, the chairs have to like each other enough to reproduce...”
+
+Lara snorted a laugh. “I hope you're not trying to be funny.”
+
+“Hmmm.” Ren said in a gravelly voice, then crunched his face up and hunched down. “Do or do not. There is no try.”
+
+Lara burst out laughing. “How long have you been waiting to say that?”
+
+“About 3 years.” Ren said and laughed.
+
+“Congratulations. You got me in a good mood.” She said. “What can I do for you this time?”
+
+“That depends on how many libraries you have access to.”
+
+“All of them.”
+
+“A number, please.” Ren said.
+
+Lara looked at him skeptically. “Why do you want to know?”
+
+“Lara... I mean Sage of Ages... I won't tell anyone how many libraries are actually in the game if you don't want me to. I also didn't ask you where they were, just how many.”
+
+“Okay.” She sighed. “Including this one, there's 8.”
+
+“I have enough copies, then.”
+
+“Of what?”
+
+Ren took out the 9 copies he had left of each book. “I'd like you to deliver a copy of each book to the libraries you have access to.” Ren said.
+
+“Really.” Lara said. “I came all this way to meet you, and what you want is for me to deliver books?”
+
+“All this way?” Ren chuckled. “All you did was step through a portal.”
+
+She looked at him in surprise. “How did you know?”
+
+“I'm a business owner. I made a duplicate business in the Dwarven Kingdom and opened a portal to here.”
+
+Lara's eyes widened for a moment, then she shut them. A few minutes later, she sighed and opened her eyes. “Of course it would work that way.” She shook her head. “How did you make the connection to me being able to do that?”
+
+“When you told me you had a 'space' that was yours in every Library, I always kept it in mind. When I made my own portal, it clicked.”
+
+“You're one smart cookie.”
+
+“You're going to change that opinion in a minute.”
+
+“Yeah, why?”
+
+“When you give the books to the libraries, I want a copy displayed in the window and any that people want are to be given away for free.”
+
+Lara barked a laugh. “That's not going to happen.”
+
+“I didn't say they wouldn't get paid for them, I just want them given to anyone that wants them at no charge.”
+
+“You're going to pay for the copies, then?”
+
+Ren nodded and put 5 platinum on the desk.
+
+“Whoa.” Lara said and picked up the 5 coins. “This will get you...” She thought for a moment. “...about 35 copies of each book at each Library.”
+
+Ren smiled. “That's only for one Library.”
+
+Lara's mouth dropped open. “You're crazy!”
+
+He laughed. “I told you your opinion of me would change.”
+
+“Ren, you're out of your mind.” Lara said. “To give away 35 platinum for books that people might not want...”
+
+“Don't worry about that.” Ren said and grinned. “Once they hear the word free, people will take one just because they can.”
+
+She snorted a laugh. “You're right about that.”
+
+“So.” Ren said. “Will you do it?”
+
+“What's in it for me?” Lara asked.
+
+“What do you want?”
+
+She smiled. “I want... the biggest diamond that you can find... right here, in my hand... then I'll do anything that you want.”
+
+Ren reached a hand out and she took it. He shook it and smiled. “Deal.” He said, then let an evil grin cross his face. “Now you have to do anything I want.”
+
+Lara had a shocked look on her face for a moment, then she scowled. “You rotten, dirty-minded, perverted little-”
+
+“Ha!” Ren interrupted her. “If I was even half-way dirty-minded like that, you'd be all mine, Sage of Ages.”
+
+Her mouth dropped open, and he grinned.
+
+“You agreed to do anything that I wanted. Anything.” Ren said. “Lucky for you, I'm actually a nice guy.”
+
+Lara closed her mouth and frowned. “Our 'deal' is only good if you give me a diamond.” She said. “The biggest that you could find.”
+
+“And the money equivalent isn't the same thing, is it?” Ren asked.
+
+She shook her head. “Nope. I want one big honking diamond siting right here.” Lara said, let his handshake go, and held her hand cupped to catch something.
+
+“I'll be right back.” Ren said and walked out of the room and into the hallway. He took out one of the crates that had the different-sized diamonds in it, and he rummaged around until he found the biggest one in the crate. It would fit in her hand nicely. As a bit of a joke, Ren took out the sack of 1 gold coin diamonds and moved them around. He 'found' one and took it out of the bag, then stored the crate and bag again. He appraised the big diamond at 40 platinum, slipped it into a pocket, and went back into the room where the Sage of Ages waited. She sat there at the table with her hand out, and Ren walked over to her.
+
+“This is the biggest I could find in the sack I have.” He said and put the diamond on her palm. She closed her eyes for a moment.
+
+“Oh my god.” Lara said, dropped the diamond onto the table, and walked over to a shelf. She pulled out a map with nothing marked on it, except ocean and land. She ran her finger across it, and stopped right under a mountain peak. “You have a diamond mine. Right there.”
+
+Ren grinned. “You saw the diamond was cut from a bigger one, didn't you?”
+
+Lara nodded. “I saw it pushed up to where it sat for hundreds of years, saw you dig it up and keep it for a while, then a dwarf... Dorcot the Gemcutter... cut it for you.” She traced back along the shoreline, then up about 6 miles and stopped. “Right there.”
+
+She let the map roll up and sat down. “No wonder you can give platinum away to libraries so nonchalantly.”
+
+“They were just worthless crystals until I found Dorcot.” Ren said. “Now, though...”
+
+“Okay, give me the biggest one you've found.” Lara said, and held her hand out.
+
+“I already did.” Ren grinned. “I told you it was the biggest I could find in the sack I have.”
+
+Her eyes nearly bulged out of her head. “NO!” Lara took a deep breath and sat back. “I can't believe you got me to help you, for only a single gold coin diamond.”
+
+Ren held his mouth shut to stop from laughing.
+
+Lara sighed and stood up. “All right. Give me the rest of the money, and I'll make the trips.”
+
+Ren snorted, then couldn't stop himself from laughing anymore. He guffawed and held his belly, and a few tears came to his eyes.
+
+“Oh... oh, that face...” Ren said, once he caught his breath after laughing so hard. “I'm sorry, but that was funny!”
+
+“What was?”
+
+“I... I had to play a joke... you... you agreed to such a broken deal, that I... I had to show you... how broken...” Ren calmed down and took several deep breaths.
+
+“You... you tricked me?” Lara asked.
+
+Ren nodded and held his hand up with his fingers apart about an inch. “A little bit.”
+
+Lara scowled and stomped her foot. “That's not funny!”
+
+“That is the diamond I found in the sack.” Ren said, and pointed to the small gleaming stone. “The sack wasn't the first place I looked, though.”
+
+Ren reached into his pocket and took out a palm-sized, round-cut, diamond. Lara plunked down onto her chair and stared at it. He walked around the table and took her hand, then placed the stone in it.
+
+“I never cheat people on deals.” Ren said.
+
+“40 platinum.” Lara said. “It's worth 40 platinum.”
+
+He nodded. “I lose 10% when I sell it to the system, though.”
+
+“Ren, people would pay more than that if they knew!”
+
+He nodded again. “That's why they don't know.”
+
+“You're intentionally not selling them to people?”
+
+“I know they'd spend more than they could afford to get them.” Ren said. “I'd smash them all before I'd let people hurt themselves, or others, over it.”
+
+“You're a good man, Ren.” Lara said, and smiled. “A complete fool and totally crazy; but, you're a good man.”
+
+“Do you want the money in separate coin pouches?” Ren asked.
+
+“No. I think I can count to five, seven times.”
+
+“Are you sure? You've had quite the shock.”
+
+Lara chuckled. “Don't be an ass.”
+
+Ren handed her 30 more platinum, and she stored 7 copies each of the books. He picked up the small diamond and held it out to her. “Don't forget this one.”
+
+“I won't be forgetting that one for a while.” Lara shook her head and stored it.
+
+Notice!
+
+You have gained the willing co-operation of a Sage and have unlocked a hidden ability: Dedicated Sage.
+
+You can call upon the Dedicated Sage at any time, and they must help you in any way they can.
+
+Lara walked away and went through the same door that she'd come out of. Over the next 10 minutes, Ren got a series of popups.
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 3,000 XP
+
+Knowledge Of Fire Level 8 (Advanced 0%) Fire affinity and resistance increased to 55%
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 5,000 XP
+
+Knowledge Of Fire Level 1 (Expert 0%) Fire affinity and resistance increased to 60%
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 2,000 XP
+
+Knowledge Of Fire Level 2 (Expert 0%) Fire affinity and resistance increased to 65%
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 5,000 XP
+
+Knowledge Of Fire Level 4 (Expert 0%) Fire affinity and resistance increased to 75%
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 5,000 XP
+
+Knowledge Of Fire Level 6 (Expert 0%) Fire affinity and resistance increased to 85%
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 4,000 XP
+
+Knowledge Of Fire Level 8 (Expert 0%) Fire affinity and resistance increased to 93%
+
+Level up!
+
+You have gained a level and are now: Level 8.
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 5,000 XP
+
+Knowledge Of Fire (Master) Fire affinity and resistance 100%
+
+Notice!
+
+You have maxed out your Fire affinity and resistance stat. It no longer costs you Mana to use Fire-based enchantments.
+
+Whoa! Ren thought, and then the entire room went completely dark. Even Ren couldn't see with his perfect night vision. There was a flicker of light about a foot in front of him, as a small flame appeared. It grew and grew until it formed a portal big enough for Ren to step through.
+
+Holy CRAP! Ren thought.
+
+“It's Fire Dancer.” Teepo chittered in delight and landed in Ren's hood. “I can hear it!”
+
+It's a portal, though. Ren thought. You better...
+
+“It's okay, Ren.” Teepo said. “Fire Dancer is waiting for us.”
+
+Ren nodded, took a deep breath, and stepped into the portal.
+
+*
+
+The portal closed behind Ren and the darkness dissipated as quickly as it had appeared. A minute later, Lara came back into the room through the same door she'd left it.
+
+“Okay, Ren. It's done. They all know about...” She looked around. “Where the hell did he go?” Lara took a breath to not scream curses at him, and tasted sulfur and ash. Her eyes widened and she sat down at her table.
+
+“Oh, Ren.” Lara said, and put her head in her hands. “What did you do?!?”

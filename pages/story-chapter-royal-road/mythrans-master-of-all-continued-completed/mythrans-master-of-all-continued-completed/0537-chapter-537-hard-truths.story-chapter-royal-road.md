@@ -1,0 +1,323 @@
+---
+id: c82571a0-079b-5cbb-a650-af264ff7287e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 537 - Hard Truths"
+slug: 0537-chapter-537-hard-truths
+partOf: mythrans-master-of-all-continued-completed
+position: 537
+ownLength: 3399
+unit: words
+publishedAt: 2018-03-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203613/chapter-537-hard-truths"
+royalRoadId: "203613"
+---
+
+“I can't believe I just missed you guys.” Billy said as he came to a stop near Clint and everyone had to look up at him to see his face. He was 11 feet and 8 inches tall, and his ears seemed to point outwards almost comically with his hair combed back in a ponytail.
+
+“You're full size again.” Hank commented.
+
+“I guess it would be unfair if spells like that carried over after you die.” Billy said. “Imagine giving yourself a Stat boost with a spell, die, then come back and have it a part of you and get another.” He chuckled. “Talk about overpowered.”
+
+“You wouldn't have to die to do that.” Ren said. “Depending on the spell, they usually stack if you're smart about how you cast it.”
+
+Billy looked at Ren sitting in the booth, because he could easily see over Clint and the others. When he saw Jennifer beside Ren, he ignored Ren's comment completely.
+
+“Jennifer! Can we talk?” Billy asked.
+
+“No.” Jennifer said. “I'm working.”
+
+“Please, baby.” Billy ignored what she said and stepped around Clint to kneel in front of her. “Look, I overreacted.” He said. “I've been a complete asshole, and I'm sorry.” His voice was full of sincerity. “When I saw Ren last night, it reminded me of what you said about him, and I lost it.” He sighed. “I was so jealous of him and what he did for you, that... that I...” A tear escaped his eye and rolled down his cheek. “I never meant to hurt you like that.”
+
+Ren sat there and let Billy babble on about how he was going to change, and that things would be different from now on. Ren could feel everyone's emotions start to sway in Billy's favor, and he also felt Jennifer's resolve start to crumble. He wasn't going to let that happen.
+
+“That's a great story, Billy.” Ren said, and everyone shifted their gaze to him. “Now tell her the truth and what you really feel.”
+
+“You stay out of this.” Billy said. “Jennifer...”
+
+“No, I can't stay out of it.” Ren said. “Jennifer's my friend and I won't let you manipulate her.”
+
+“Ren, ya shouldn' interfere...”
+
+“I can feel all your emotions, remember? Including Billy's.” Ren looked at their faces and saw they had forgotten that little fact. “I can tell he's lying.”
+
+“Shut your mouth!” Billy said. “I'm not lying!”
+
+Ren winced a little. “Ow, that was blatant.” He said. “Look, I can solve this problem easily.”
+
+“Like ya did tha las' time?” Clint asked, and Ren chuckled.
+
+“I was defending myself then, so no.” Ren said.
+
+“Baby, I love you.” Billy pleaded. “Please, trust me.”
+
+“Jennifer? Can I try something?” Ren asked.
+
+Jennifer looked from Billy to Ren, then back again. “Ren, I don't think...”
+
+“If this works, you can feel Billy's emotions first hand.” Ren said and held his hand out for her to take.
+
+Jennifer took a deep breath and let it out. “Okay.”
+
+“No!” Billy said and swatted Ren's hand away before Jennifer could take it. “You're poisoning her against me!”
+
+“Stop it, Billy!” Jennifer exclaimed.
+
+“Look, I even bought these for you.” Billy said and took out a set of gold-plated shackles and chains. “They are enchanted to a keyword so they open when you want, and you don't even need a key.”
+
+Jennifer's eyes sparkled at the shiny new restraints, and her fingers flexed because she wanted to take them and try them out. Ren unobtrusively used Identify and examined the item, then received the recipe for it right away.
+
+“Should we let this go on, man?” Tommy whispered to Clint.
+
+“How do ya expect ta stop it?” Clint asked.
+
+“Just say something, man.”
+
+“Billy, ya shouldn' try ta buy yer way back inta-OOF” Clint grunted as Billy quickly turned and his elbow hit Clint in the gut.
+
+“Clint!” His date said as Clint crumpled to the floor, and she knelt to check on him.
+
+“Billy!” Jennifer said and pulled her hands back from the gift.
+
+“It was an accident!” Billy said. “I was turning to see what he wanted and my elbow hit him!”
+
+“You're going to claim you're clumsy, too?” Ren asked and shook his head. “Worst excuse in the book.”
+
+“Shut up!” Billy said. “I am clumsy!”
+
+Ren sighed at the lie. “Just so you know, I don't need to touch Jennifer to let her feel your emotions.” He said. “It just makes it easier to filter for her.”
+
+Jennifer reached over and took Ren's hand. “Let me feel them.”
+
+Ren concentrated on the runes he had made for the Pleasure Palace and merged his Aura with the artificial one in the building.
+
+“I want to know if he's ly-OH MY GOD!” Jennifer yelled as Ren's Aura and emotions smashed into her. Screams and yells came from all the other dancers in the club as it hit them, too.
+
+“Oops, I guess I'm not suppressing my own emotions enough.” Ren said and tamped his emotions down to a whisper of what they normally were. “How's that?”
+
+Jennifer stared up at him with her eyes bulged out of her head.
+
+“Are you okay?” Ren asked.
+
+Jennifer blinked her eyes several times, then reluctantly nodded.
+
+“Then here's Billy's emotions.” Ren said.
+
+Jennifer gasped as Billy's smug self-centeredness and possessiveness hit her, and tears formed in her eyes.
+
+“Ask him what you want to know.” Ren said.
+
+“B-Billy, d-do you l-love me?” Jennifer asked.
+
+“Yes, baby.” Billy said, and Jennifer felt his unhealthy obsession with her.
+
+“W-will you ever try to h-hurt me again?”
+
+“Of course not! I didn't mean to hurt you at all!” Billy said, and Jennifer shivered as the lie resounded within her.
+
+“Oh, god.” Jennifer said. “You... you wanted to hit me... and not in the good way that I would enjoy!”
+
+“That's not true!” Billy said.
+
+Jennifer winced hard from the lie and tears formed in her eyes. “R-Ren! It's too m-much!”
+
+Ren filled her with reassurance, protectiveness, and caring to wash away Billy's feelings. Her mouth dropped open as the warm emotions swirled around inside of her, and he let her hand go. The emotions abated without his direct touch; but, they were still there... as well as a strong calmness she had never felt before.
+
+“Billy, she knows the truth now.” Ren said. “You can't come around here anymore.”
+
+“I'm her boyfriend! Not you!” Billy said and stood up to his full height. “I'll come back here when you aren't around, and I'll convince her to take me back!”
+
+“No, you won't.” Gina said.
+
+Billy turned and looked at her, and all the other dancers were there behind her, as were all the animated bodyguards.
+
+“This is between me and-”
+
+“All of us.” Gina said. “Ren shared your emotions with everyone in the club. We all know you're just obsessed with Jennifer and not in love, and that you lied when you said you didn't want to hurt her.”
+
+“That's not true!” Billy said. “I would never hurt her! I love her! She's my life! She's all that I live for!”
+
+The entire club was filled with Ultimate Terror and Ren was instantly in front of Billy's face with a hand on his throat. He had felt what Billy was going to do to her if he couldn't have her.
+
+“You. Will. Not. Hurt. Her.” Ren's glowing red eyes from his Controlled Berserk Rage burned into Billy's, who stood frozen in terror at the sight. Ren activated his Emotion Siphon ability and sucked out the feelings of obsession, murder, self-righteousness, and a hint of suicide from Billy. He had never pulled so much negative emotions out of a single person before, which meant they ran very deep inside. When he took everything he could, Ren let Billy's neck go and stopped funnelling his Ultimate Terror ring through his Aura.
+
+“What did you do to me?” Billy asked, quite clear-headed now. “Wh-what is... how did...” He looked at Jennifer, who he had come here to win back and saw the fear in her eyes, then at the dancers who were defending her, then at Clint and the rest of the party and saw their accusing glares. “I... I have to go.”
+
+“Don't come back.” Gina said. “You aren't welcome here anymore.”
+
+Billy didn't say anything in response and dismissed the popup that banned him from the premises. Everyone stayed silent as he stored the shackles and stepped around Ren, then he quickly walked out of the business. Ren started to feel sick to his stomach at the thought of what he just did, forcefully extracting negative emotions like that, and he quickly made a sack to hold over his mouth.
+
+Over the next few moments, Ren threw up all the negative emotions as a thick black sludge into the sack. Everyone stared at him while this happened, and the sack came dangerously close to overflowing. Thankfully, the sludge stopped coming out before it reached the top of the sack, so Ren secured it closed and stored it.
+
+“Wha' tha hell was tha'?” Clint asked.
+
+Ren took several steps down to the floor and sat down in the booth again. “That tasted awful.”
+
+“Ren!” Clint nearly shouted.
+
+“I sucked them out.” Ren said and wiped his mouth with a piece of cloth. “All of his strong negative emotions that were pushing him to come here and fulfill his desire to win Jennifer back... or... or...” He shook his head and sighed. “They're still there, since I can't actually remove them; but, I took the bulk of them that I could.”
+
+“It smelled awful, too.” Gina said.
+
+“I'll burn the sack as soon as I leave here.” Ren said. “Just having it in my inventory is making me sick.”
+
+“I didn't know you could do something like that, man.” Tommy said and hugged his girlfriend tightly.
+
+“I've done it on a smaller scale to ease people's grief over lost loved ones; but, this was the first time I've ever actively pulled something out of someone without their permission.” Ren shivered. “I didn't like doing it at all.”
+
+Ren felt a soft hand take his, and he turned his head to see Jennifer and her starry eyes. He could feel her emotions strongly, since he was still sharing his Aura and they had direct skin contact.
+
+“You did that for me.” Jennifer said softly. “Thank you, Ren.”
+
+“You're welcome.” Ren said, and used a thumb to point at Clint and the guys. “Now tell these bozos I'm only here as a friend and that I'm not here to try and replace that idiot.”
+
+Jennifer smiled sweetly and looked at Clint and the guys. “Hey, bozos! It's none of your business if I want Ren to replace that idiot.”
+
+“Jennifer!” Ren exclaimed, and she laughed as she felt his emotions.
+
+“Well, it's not.” Jennifer said and kissed Ren's cheek. “It's okay. I know you can't be my boyfriend.” She said, then put her lips by his ear to whisper. “I also know you would be if you could.”
+
+Ren didn't say anything out loud, but he let her feel that he most definitely would. A moment later, he felt a ton of approval flood the Pleasure Palace Aura, and he looked at Gina and the dancers to see their smiling faces. He smiled back at them and then stopped concentrating on the shared Aura.
+
+“Aww.” Several of the dancers said, and a few sighed at the loss.
+
+“I guess that means this show is over.” Gina said and turned to look at the dancers. “Get back to your tables and let the customers know the incident was handled.”
+
+“They already know.” One of the dancers said, and everyone turned to see a smattering of applause and raised glasses.
+
+“Then go have fun.” Gina said, and the dancers gossiped as they went back to where they were before. Some went to the tables, a few went to the bar, and the rest went behind the curtain of the main stage.
+
+Ren turned to Jennifer with worry on his face. “Please tell me you don't know each other in real life.”
+
+Jennifer didn't need to feel his emotions to know that he was scared for her. “We don't.” She said and cupped the side of his face. “He doesn't know where I live or what my real name is.”
+
+“Thank the gods.” Ren said and relaxed. “I was worried you would have met for real by now.”
+
+“He wanted to.” Jennifer said and took her hand back. “In fact, so did I.”
+
+“Why didn't you?” Tommy's girlfriend asked. “You love him, don't you?”
+
+Jennifer smiled sadly. “I do... I did.” She sighed. “I... something just kept me from taking that last step.” She said. “I don't know why.”
+
+“Whatever it was, I'm glad you didn't go through with it.” Ren said and beamed a smile at her. “That's one less worry for you to have in your arsenal.”
+
+Jennifer chuckled. “Arsenal is a good description for my worries.”
+
+“Ren.” Clint said, and Ren looked at him. “It seems ah owe ya an-”
+
+Ren held a hand up to stop him. “Before you say anything, think about what happened.” He said. “Was how you treated me the wrong thing to do, considering what you knew... or didn't know... at the time?”
+
+Clint didn't say anything.
+
+“I understood your reaction, and I meant to try and keep what happened under wraps until Jennifer was willing to accept help from her friends.” Ren said. “Having me rant and rave at everyone about how she had been treated wouldn't have made things better, would it?”
+
+The others fell silent and thought about that.
+
+“Don't get me wrong.” Ren said and looked at Jennifer. “I would have done exactly that in a heartbeat if she wanted me to.” He gave her a sweet smile. “Mistreating anyone is bad; but, mistreating a woman who only wanted love and acceptance is unforgivable.”
+
+Jennifer bit her bottom lip and made big puppy-dog eyes, like she was a lost little girl who had just been found, and a soft sigh was heard from Clint, Tommy, Hank, and Dillon.
+
+“Wow, Jennifer! That's really good.” Gina said.
+
+“Thanks!” Jennifer said and her expression changed to a big grin. “I've been practising!”
+
+“Don't tell me you have another routine you want to try.”
+
+“Nope! This was just for special occasions.” Jennifer said. “Now seemed like the right time to unveil it.”
+
+“Well it worked.” Ren said and smiled. “Do you have time to eat?” He asked and pointed to the two plates, and Jennifer looked at Gina.
+
+“You can stay and eat if you want.” Gina said. “I can switch your set with Cinnamon's.”
+
+“Thanks!” Jennifer said and looked at Ren. “We had so much fun the last time! I'd be happy to have dinner with you again.”
+
+Gina pointed to the next booth. “Clint, you can take that one if you want.”
+
+“Thank ya.” Clint said, nodded to Ren, and led his group to the next booth.
+
+“I'll leave you two to eat.” Gina said.
+
+“Hold on.” Ren said and stood up. “We need to talk, remember?”
+
+“But...”
+
+“Please, have a seat.” Ren said and held a hand out to her. She took it and he sat her down in the booth, then he reached out and closed the curtain to cut the booth off from the rest of the club. He cast Full Illusion as well and made a thick sound proof barrier of the curtain, which cut off all the sound in the club.
+
+“That's a neat trick.” Gina said.
+
+“Gina... would you like to eat as well?” Ren asked, because Jennifer had already started eating.
+
+“I would, but I have to take a rain check because I'm crunched for time.” Gina said. “What was it that you wanted to talk about?”
+
+Ren opened his mouth to start, sighed, then sat down between Jennifer and Gina. “First off, I need to apologize.”
+
+“For what?”
+
+“The last time I was here.” Ren said. “I was trying to be sneaky so I could come in and check on Jennifer to see if she was okay.”
+
+“I guess that's reasonable.” Gina said. “I assume you didn't want anyone to know you were here.”
+
+Ren nodded. “It worked like a charm, and then... well...”
+
+“I asked him for a fantasy.” Jennifer said between mouthfuls of food. “Boy, did he deliver!”
+
+“What fantasy?” Gina asked.
+
+“Santa Claus.” Ren and Jennifer said at the same time, and Gina started to laugh... then stopped like a switch had been thrown.
+
+“It was you?!?” Gina exclaimed.
+
+“Gina...”
+
+“N-no!” Gina shook her head. “No, it's not true!”
+
+“Gina...”
+
+“No, you... it wasn't... you can't...” Gina tried to stand up to leave and Ren put a hand out to stop her.
+
+“Please, listen.”
+
+“No!” Gina said, and Ren felt her anger. “You let me throw myself all over you and didn't say anything!”
+
+“I tried to tell you several times, but you wouldn't listen.” Ren said. “You just kept pushing and making demands to see me again.”
+
+Gina shook her head again. “No, you used me! You knew I liked rugged men!”
+
+“He didn't, and no one told him.” Jennifer said in Ren's defense and ate another bite of food. “None of us knew you liked rugged men so much that you'd try and poach a client.”
+
+Gina's face went red. “I... I didn't...”
+
+“You were so turned on by him that you ignored your own rules.” Jennifer said and looked at her. “None of us said anything about it, precisely because none of us had ever seen you act that way before.”
+
+Gina closed her mouth and didn't say anything in response, and Ren took out an Amulet of Interrogation.
+
+“Gina.” Ren said and she shifted her gaze to him. “I'm sorry this happened. I disguised myself so I could hide in plain sight, then your reaction surprised me so much that it threw me for a loop.” He said and held the amulet out in front of her. “I've never seen that side of you before... your super sexy and sultry side, I mean... and I sincerely apologize for making it appear under false pretenses.”
+
+Gina took in a deep breath and let it out. “How do I...” She looked at the amulet and sighed. “I thought... I thought I had found...” Tears started to well in her eyes.
+
+“You did, technically.” Ren said and dabbed her eyes with a cloth before the tears fell. “I don't think even you realized just how... enthusiastic... you would be when you found someone that really turned you on.” He smiled. “Once you saw him, though... you weren't going to take no for an answer.”
+
+“Was... was I that overbearing?” Gina asked.
+
+“I felt like a mouse caught in a mouse trap.” Ren chuckled to try and lighten the mood. “I was worried you were going to pull my tail off right there.”
+
+“I wanted to.” Gina said as she understood his innuendo. “I really wanted to.”
+
+“I know you did.” Ren said and tapped his heart. “I could feel how you felt.”
+
+“But... but he was a lie.” Gina said. “He wasn't real.”
+
+“He can be as real as you want him to be.” Ren said, and felt her surprise. “I'm still under a self-imposed no sex rule; but, there are lots of things we can do without crossing that last line.”
+
+“I...” Gina shook her head. “No, I... I don't...” She sighed. “If it happens, I... I would want to feel him inside of me.” She said. “I'd need to.”
+
+“Then I suggest you keep looking for that guy.” Ren said. “Start dropping hints to the customers about how you aren't fussy on the pretty boys.” He suggested. “Have the girls discuss some of your preferences in front of their clients, too.”
+
+Gina blinked her eyes at Ren for a few moments.
+
+“Use what you have available and see who shows up.” Ren said. “Almost everyone does touch-ups on their avatars to make themselves look more appealing. Let it be known that you don't want someone like that.”
+
+“I... I didn't think... using the girls to help me find... how can you be so smart?” Gina asked.
+
+“Extensive medical experiments.” Ren said and laughed.
+
+Jennifer and Gina laughed, too.

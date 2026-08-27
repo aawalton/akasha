@@ -1,0 +1,215 @@
+---
+id: 3771c6c4-cf49-5185-9ec9-b43330bf1374
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 Mantle"
+slug: 0025-chapter-23-mantle
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 25
+ownLength: 2222
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3244481/chapter-23-mantle"
+royalRoadId: "3244481"
+---
+
+Two weeks had passed since the end of the Tithe.
+
+He was growing accustomed to wearing the mantle of a Lord, though he suspected it would be some time yet before the title felt natural. Most were born into such a role. A single month was not enough for him to carry it with ease.
+
+Still, his control over it increased. Rather than merely pretending to be a noble or relying solely on his skills as an engineer as a means of survival, he had chosen something else.
+
+As a result, aspects of his nature surfaced in his daily conduct.
+
+“My Lord, the farmers have started planting the winter crops. Due to the lesser damage from the Tithe, most of them were able to implement the three field system as discussed,” Elias reported, composed as ever.
+
+Lucien nodded. “Good. How are we faring with seed stocks, Elias?”
+
+“With the increased cultivation, we will need to use most of the winter reserves. However, we can replenish them from Helvarn in the spring once the snows melt.”
+
+Helvarn.
+
+The nearest town to Ashridge. Lucien retained only vague memories of it and had read about it during his first days in this world, but his attention had been diverted by Elias’s report of the autumn collection.
+
+Survival through the Tithe took precedence after that.
+
+“Would it be possible to send a trade caravan now?” he asked.
+
+Elias paused. It was slight, but noticeable now that Lucien had grown accustomed to the steward’s usual composure.
+
+“It is not customary to send caravans during winter, My Lord,” Elias replied carefully.
+
+Lucien inclined his head in acknowledgment, and continued. “Why is that, Elias? Surely a town of that size would still have the goods we require, even during winter.”
+
+The change showed in him. He no longer restrained himself from questioning established practice. He had made that mistake before, when he was still struggling to adapt to this world.
+
+Rather than filling in gaps with his own assumptions, he now chose to verify them directly. Elias, unfortunately, had become the frequent recipient of those inquiries.
+
+A faint sheen appeared on the otherwise unflappable steward. “My Lord, the Tithe...it has ended for us. But the other villages...” He trailed off.
+
+Lucien frowned. “It has been two weeks. Even accounting for differences in location, the migration should have passed by now.”
+
+He had learned more about the Tithes since then. They were not waves, nor a surge of monsters as he had first assumed.
+
+They were a natural phenomenon in which the beasts were stirred into migration from the Southern Badlands. No one knew the cause. It was treated as fact, much like gravity. It simply was.
+
+That was the root of his earlier miscalculation. One did not question gravity. Nor do books dwell on what has existed since the dawn of time. The records he studied focused on survival. They resembled journals more than formal treatises.
+
+“My Lord, we must not take our success for granted,” Elias said at last. The steward was still adjusting to the new Lucien.
+
+“Most villages struggle simply to repair their broken gates. There may still be beasts trickling toward Helvarn’s walls even now.”
+
+Lucien’s gaze shifted toward the window, to Ashridge’s gate. It had not fallen during the Tithe, yet the village had paid its price.
+
+He dismissed the darker line of thought before it could take root. They paid this year, the next time around would go differently.
+
+“And Cragwatch? Any word?” he asked instead.
+
+“No, My Lord. We have received nothing from them, nor from the eastern villages.”
+
+Lucien’s expression tightened. Though Cragwatch had rejected his trade proposal, he did not wish to see the mining settlement fall.
+
+The eastern villages were younger still, scarcely established compared to Ashridge or Cragwatch. They did not even have names.
+
+“It seems all we can do is wait. For word from the east. And from Cragwatch.”
+
+Elias remained silent, and that told him enough.
+
+Before it could settle too heavily, Lucien continued. “If we cannot influence what lies beyond Ashridge, then we will strengthen what lies within it.”
+
+The meeting proceeded, subdued by the news. Or by the absence of it.
+
+“My Lord, lunch is ready. Please eat something first.” Alicia’s soft voice interrupted his work. He looked up from the ledger, a quill still in his hand.
+
+“Thank you, Alicia,” he replied, setting both the quill and ledger aside.
+
+She laid a cloth across his desk before arranging the plates and utensils in their proper places. Her movements carried a gentle grace, distinct from Elias’s economical precision, where every motion was shaped by long experience. Alicia’s manner was softer, more reflective of her temperament.
+
+Her work improved markedly since her first day as his personal maid. The contrast was significant when placed side by side with those early, awkward attempts.
+
+Lucien noted the difference and, despite himself, felt a faint sense of pride, reminiscent of seeing a junior mature into their role through steady effort.
+
+It was an irrational feeling, her improvement came from her own diligence.
+
+Still, the sight of it stirred a faint sense of satisfaction within him. Watching those around him gain confidence and competence had always been something he valued. It had defined Leon more than titles or accolades ever had.
+
+When she finished, she withdrew to her customary position, standing with a patience that had become familiar to him while she waited quietly for him to call on her during the meal.
+
+“You may eat first, Alicia. You need not delay your meal because of me,” he said, more softly than he intended.
+
+“I will have mine when you are finished, My Lord,” she replied in her usual gentle manner, as though the arrangement was only natural.
+
+“And I suppose if I delay long enough, you will skip your meal as well,” he observed dryly.
+
+Alicia gave no reply, only nodding primly, her hands clasped neatly before her while she continued to wait.
+
+‘Even in this world, I have found myself another nosy junior,’ he noted inwardly, the thought edged with irony.
+
+The scene felt oddly familiar. In his former life, there had always been someone who hovered at the edge of his work, reminding him to eat and step away when the hours stretched too long.
+
+Alicia had changed. He would not describe her as bolder, but she had grown more forward than before. Only in certain matters, however. Such as insisting on waiting until he had finished eating before she took her own meal.
+
+The Alicia of his first day would have dissolved into flustered embarrassment at the slightest question from him. Now, she monitored whether he ate properly, slept sufficiently, and even ensured he paused between tasks.
+
+Elias appeared uncertain whether to reprimand her for overstepping or commend her for her devotion. Lucien found it mildly amusing to witness the conflicted expression on the usually implacable steward’s face.
+
+After all, Alicia had done nothing wrong. She had yet to meet Elias’s exacting standards in her formal duties, but her improvement was evident. It had merely taken an unexpected direction.
+
+She never pressed the matter directly. Instead, she would appear and offer a gentle reminder. If he dismissed it, she would nod and stand quietly at the side, not hovering, not interrupting, but present enough that her concern lingered in the room. In the end, Lucien often found himself conceding.
+
+He found it difficult to remain unmoved in the face of genuine concern. If she began skipping meals because of him, the guilt alone would be enough to force his compliance.
+
+At least the meals have become less strained than before, he observed inwardly.
+
+During his first days in Ashridge, the dining table had been less a place of sustenance and more a silent battleground of unease. Her father’s uncertain fate, her unwilling induction into his household, and her inexperience had made every interaction awkward and fraught.
+
+Lucien preferred this. Though, if he were honest, he might have preferred that Alicia sit and eat at the same table.
+
+Even so, that was a boundary he chose to keep. Such familiarity would imply a relationship beyond that of lord and maid, perhaps even invite speculation he could not afford. He would not risk her reputation for the sake of personal comfort.
+
+After the meal, Alicia gathered the dishes and utensils with efficiency. Once everything had been cleared and set aside, she returned to her customary place near the wall, hands folded neatly before her, awaiting his direction.
+
+Lucien watched her for a brief moment before speaking. The timing felt appropriate.
+
+“Alicia, has your father made the necessary arrangements?” he asked.
+
+At the mention of her father, the carefully composed expression she wore softened and brightened in equal measure. The change was subtle, but no longer fleeting as it might once have been.
+
+“Yes, My Lord,” she replied. “He has already spoken with the farmers involved. He started that very evening.”
+
+Lucien inclined his head slightly. That was sooner than expected, though not unwelcome.
+
+“Any complaints?” he asked. “I am interrupting their winter planting, after all.”
+
+Alicia considered the question before answering, her brows drawing together faintly as she searched for the most accurate phrasing.
+
+“More confusion than complaints, My Lord,” she said. “They are uncertain why only certain groups have been called. Some wonder if they have done something wrong. Others...believe it must concern taxes.”
+
+Lucien allowed himself a faint exhale through his nose. “It concerns neither,” he said evenly. “It is a plan I had prepared before the Tithe interrupted matters. Now that it has passed, we finally have the room to put it into motion.”
+
+Alicia tilted her head slightly at that, the gesture unguarded and instinctive. She remained silent for a moment, but the question was evident in her eyes.
+
+Lucien noticed. “You are wondering why only certain farmers were summoned,” he observed.
+
+Her posture straightened a fraction. “Yes, My Lord. Forgive me.”
+
+“There is nothing to forgive.” His tone remained gentle. “Change cannot be imposed upon all at once. It must begin where the strain can be borne.”
+
+Her gaze filled with quiet interest. “The stronger fields first,” she murmured, more to herself than to him.
+
+“Yes.”
+
+A small pause followed.
+
+“And Father?” she asked carefully. “Why him?”
+
+Lucien regarded her for a moment before answering. “Because he will not yield easily,” he said. “And because others will listen if he does.”
+
+Alicia absorbed that in silence. Then, softly, “He will do it well.”
+
+“I expect he will.”
+
+She hesitated, fingers tightening slightly where they were folded.
+
+“They were surprised,” she added after a moment. “That you would call them so soon. Many believed…” She trailed off.
+
+Lucien raised a brow faintly. “Believed what?”
+
+“That after the Tithe...there would be time to rest.”
+
+“There is,” he replied calmly. “Just not for stagnation.”
+
+A small smile touched her lips at that. “I will inform father that you may visit the fields soon, My Lord,” she said.
+
+Lucien nodded once. “Do so. And tell him I expect progress, not perfection.”
+
+Her eyes brightened slightly at the phrasing. “Yes, My Lord.”
+
+She dipped her head again, but this time there was something steadier beneath the motion. Not merely obedience. Understanding.
+
+“Your father’s punishment will be decided then as well. You will accompany me,” he said evenly, "And do remember to bring what I had asked you to do along as well." he added belatedly.
+
+Though the matter concerned her father’s fate, her composure held. She only inclined her head, as if escorting him was only natural.
+
+‘I suppose I should be grateful for such trust,’ he thought wryly as she showed little concern.
+
+Noticeable changes had taken shape in his interactions with others. He found himself setting aside rigid etiquette when circumstances allowed, and each person had responded differently in their own way.
+
+Whether the change would ultimately serve him well remained to be seen. It was a decision he chose to make nonetheless.
+
+If it carried consequences, he would bear them rather than confine himself to the rigid mold of a noble he had never been.
+
+Before letting Alicia go, he asked her to be prepared by midday. The choice of hour was deliberate, allowing the farmers to conclude their immediate tasks before responding to his call.
+
+As the door to his study closed with a soft click, he rose and moved to the window, surveying the village as it went about its business on a calm winter day.
+
+With winter setting in fully, it was time to begin implementing the measures he had prepared to further strengthen the village.
+
+The lack of contact from neighboring settlements was troubling, but beyond sending word, there was little he could do. If trade with Helvarn remained unfeasible, then it was all the more reason to consolidate Ashridge from within.
+
+His gaze shifted to the palisades. Repairs to the walls had been completed the previous day. The damage had fallen within his projections, save for a section of the outer ditch that had collapsed. Otherwise, the village had emerged relatively intact.
+
+Lucien’s eyes drifted west, toward the direction in which the rust colored kobold had fled.
+
+He suspected other settlements had not fared as well.
+
+And he had the distinct impression that whatever had fled would surface again.

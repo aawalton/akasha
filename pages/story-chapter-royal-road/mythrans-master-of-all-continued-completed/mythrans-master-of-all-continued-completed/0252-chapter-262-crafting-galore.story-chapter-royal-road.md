@@ -1,0 +1,367 @@
+---
+id: f1cc5d06-6105-5502-95eb-0bba1469ece9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 262 - Crafting Galore"
+slug: 0252-chapter-262-crafting-galore
+partOf: mythrans-master-of-all-continued-completed
+position: 252
+ownLength: 4168
+unit: words
+publishedAt: 2017-05-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138327/chapter-262-crafting-galore"
+royalRoadId: "138327"
+---
+
+Ren stored the toy boat he'd made and looked at the remnants of the other one. He opened a drawer in the workbench and put the pieces inside. He was tempted to store them as well, but since he'd cut it apart to examine it, it's usefulness was pretty much done.
+
+Ren's next task was to make a copy of the toy boat out of metal. He took out the paving stone he'd used for making the spring coil, and used his chisel to dig out molds for all of the gears and things he'd just made out of wood. He only needed to make the main mechanical parts out of metal, though. The rest of the boat could be made out of wood.
+
+Once the mold was done, he filled it with molten metal, and absorbed the heat from all of the parts except for the metal to be used as the coil spring. He did the fold and re-heat trick with the coil spring several times to make it stronger, but that wasn't necessary for the gears. They couldn't be folded and then put back into the gear shape without re-melting the metal, and that would defeat the purpose of folding it in the first place. Ren popped the parts out of the molds and made the hull of the boat out of wood.
+
+Stat Change!
+
+Woodworking Level 3 (Intermediate 0%)
+
+Ren assembled the metal parts together after cleaning and polishing them to make sure there wasn't anything in the gears to mess up their movements. He put it in the boat hull, and put the top on it. He even went through the trouble to make everything else, the same as he did with the completely wooden toy boat.
+
+Once it was all together, Ren turned the key a couple of times, and hit the cabin button. He was ready to catch it this time, and the boat flew across the workbench and into his hand.
+
+“HA!” Ren said. “It works!”
+
+Stat Change!
+
+Craft Toy Level 2 (Beginner 0%)
+
+“Whoa! Another level so soon?” Ren exclaimed. “That's never happened before.” He said, and looked at the toy. “It must be because of my SPECIAL bonus.” He grinned. “Well, it did say all gains, bonuses, abilities and effects would be doubled for 24 hours.”
+
+The toy had only taken 10 minutes to make, so he figured he might as well do it again.
+
+“Okay, completely metal this time.” Ren said, and took out another paving stone and carved out the pieces that should have been made from wood.
+
+Stat Change!
+
+Stone Cutting Level 3 (Beginner 0%)
+
+Ren filled both molds with molten metal, absorbed the heat from all the parts except the metal for the spring coil. It was folded and hammered several times, and then wrapped into the proper shape. He assembled the pieces to make the boat, wound the key a couple of times, and tapped the cabin. It took off almost as fast as the wooden one with the metal parts inside, and Ren nodded.
+
+“It would be a little slower, since metal is heavier than wood.” Ren said, and stored it.
+
+Stat Change!
+
+Craft Toy Level 3 (Beginner 0%)
+
+“Okay, that's getting ridiculous.” Ren said. “What kind of compound bonuses of XP am I... oh, man!” He exclaimed. “I get XP for skills 60% faster because of Slow and Steady, and since it's an ability, it's bonus is doubled!”
+
+Ren grabbed the wand handle mold and filled it. He took out one of the two crates of 1 inch wide diamond ovals, and started making web wands. According to his last attempt at this, he knew he needed 5 more castings to level up the Craft Wand skill to Intermediate. He finished assembling and enchanting the first batch of wands, dismissed the two popups for the skill level gains, then poured the mold again.
+
+Since I now get a 120% XP bonus when using skills... Ren smiled as he dismissed one popup after he enchanted 20 wands, then did the next 20. When he finished the last wand of the second batch, he received another popup.
+
+Stat Change!
+
+Craft Wand Level 1 (Intermediate 0%)
+
+Notice!
+
+The wands you create can hold Level 2 Spells. All Level 1 Spells automatically upgrade to their next level when imbued into wands.
+
+“Ha ha!” Ren laughed, then looked at all of the wands he had, on the workbench and in inventory. All of them could only hold Level 1 Spells. “Oh, damn.” He said. “I just made all of my old wands obsolete!”
+
+Ren took them all out and looked at them. “I can still use them for Minor Healing and Major Healing spells; but, now I'm wondering if they do anything different in a Level 2 wand.”
+
+As an experiment, he picked up one of the many web wands he'd just made, and absorbed the spell charges from it. He took out the Spell book of Level 2 Spells and looked at the table of contents.
+
+Spell List Level 2
+
+Name  Page
+
+Acid Splash  2
+
+Bridge  3
+
+Bull Strength  4
+
+Charm Person  5
+
+Disguise Self  6
+
+Detect Magic  7
+
+Glitterdust  8
+
+Gust Of Wind  9
+
+Haste  10
+
+Knock  11
+
+Magic Armor  12
+
+Minor Image  13
+
+Rope Trick  14
+
+See Invisibility  15
+
+Slow  16
+
+Spider Climb  17
+
+Wall Of Iron  18
+
+Gust of Wind. Ren thought. I wonder if that was the spell that Charles guy cast to get rid of the Obscuring Mist?
+
+“I'd say so.” Teepo said. “Hey, you should try the Iron Wall spell.”
+
+Ren nodded and flipped to the back of the book to the last page and read the details of the spell. He concentrated on it, and held his hand on the end of the empty wand. He used his Create Wand skill, but nothing happened.
+
+“Damn, I have to make new wands.” Ren said, and enchanted the wand with Web again.
+
+“What are you going to do with them all?” Teepo asked.
+
+“I have a couple of options.” Ren said. “One of which is making huge arrays with them.”
+
+“Wait, you mean like what you attached to your armor and Tee-one?”
+
+Ren nodded. Teepo was quiet for a while, then spoke.
+
+“You can make a harness for Ruck and cover him with them.” Teepo said.
+
+Ren thought about it, and chuckled. “Heck, why not?” He said, refilled the smelter that he'd used the metal from, and went to the next forge. He used the wand handle mold and filled it with molten metal, then absorbed some of the heat from one of the wand handles and attached the diamond tip. Ren chose the Iron Wall spell to enchant the wand, and he lost about 5% of his Mana Pool. Since his Mana Pool was 3 times the size of his Mana bar, that meant it took about 200 Mana to fill the wand.
+
+“Geez, that's a lot!” Ren said, and turned to face the empty part of the workshop. He examined the wand to see what it did.
+
+Wand of Iron Barrier
+
+The Wall of Iron spell causes a flat, vertical iron wall to spring into being. The wall inserts itself into any surrounding nonliving material if its area is sufficient to do so.
+
+The wall cannot be conjured so that it occupies the same space as a creature or another object. It must always be on a relatively flat surface, though you can shape its edges to fit the available space.
+
+If you so desire, it can be generated and not attached to the surface it appears on. If left free-standing, it can be pushed over to fall on and crush creatures beneath it; if left alone, there's a 50% chance it will fall in either direction.
+
+Target: Any reasonably flat surface; and the edges can be formed to fit against odd-shaped or curved objects (like a cave wall or ceiling).
+
+Size: It is 10 feet square and is an inch thick for every spell level, but you can double the wall area by halving its thickness.
+
+Range: Medium (Within 100 feet). Current spell level: 2.
+
+Time Limit: 10 minutes
+
+Ren pointed the wand near the wall, and used it. A 10 foot square wall of iron appeared by the wall. He went over to it to inspect it, and smiled.
+
+Wall of Iron
+
+This 10 foot square wall is made of solid iron, and is 2 inches thick.
+
+Please note: This iron cannot be harvested, forged, or smelted. Any attempt to do so will end the spell (because the wall would need to be destroyed for any of those actions).
+
+“So, no creating out of nothing.” Ren said. “That makes sense.” He smiled. “Imagine if I could just make iron appear and then smelt it!” He laughed and went back to the wand handle mold. He made another bunch of wands after attaching diamonds to the tips as the focusing agent, and filled them with the Web spell.
+
+Ren finished all 40 wands quickly. With his Fast Craft skill of 25% boosted to 50% because of the SPECIAL Bonus, each one only took about 5 seconds to attach the diamond to the already poured handle and enchant. He even used the heat from the handle to keep his Mana Pool from draining too much. He was a little disappointed that he only gained a single level, though.
+
+“Well, it is supposed to be harder to level once you're out of the Beginner Stage.” Ren said, and examined one of the new web wands.
+
+Wand Of Entrapment
+
+A Web spell creates a many-layered mass of strong, sticky strands. These strands trap those caught in them. The strands are similar to spider webs, but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points or else the web collapses upon itself and disappears. Creatures caught within a web become entangled among the gluey fibers. Attacking a creature in a web won’t cause you to become entangled.
+
+Web can be made permanent with a Permanency (Level 5) spell. A permanent web that is damaged (but not destroyed) regrows in 10 minutes.
+
+Warning: The strands of a Web spell are flammable. A magic flaming sword can slash them away as easily as a hand brushes away cobwebs. Any fire can set the webs alight and burn away 5 square feet in 1 minute. All creatures within flaming webs take 4 to 8 points of Fire damage from the flames.
+
+Cast Distance: Within 125 feet (Medium). Area of Effect: 25 foot radius.
+
+Time Limit: 15 minutes (Level 2)
+
+“Nice.” Ren said. “The new wand increased the distance it fires by 25 feet, the size it generates by 5 feet, and the time it lasts by 5 minutes.” He smiled. “If it goes in the same progression for each new level, then a Level 5 wand would be 200 feet, the size would be 40 feet, and it would last for 30 minutes.” He shook his head. “Of course, at Level 5, I'll have a Permanency spell, and the time limit won't matter.”
+
+Ren stored the new wands and looked through the Spell book. He used his Speed Reading skill automatically, and memorized all of the spells. He stored the book and remembered that he'd leveled up twice, and it unlocked something. He opened the user menu, and checked the previous popups.
+
+“Amulet of the Spider.” Ren said, and checked the recipe. “Oh, that's cool!”
+
+He went to the forge room and tossed several pieces of gold ore into one of the smelters, then took out another paving stone and carved out a circle, 4 inches across and half an inch thick. He stirred up the molten metal to make sure the gold and steel were mixed well, and poured some of it into the mold. After that, he went back to the workbench and absorbed the heat from the metal disc.
+
+Ren popped it out of the mold, held it in his hand, and activated his Craft Wondrous Item ability. The 1 foot square golden platform appeared in front of him, and he placed the metal disc on it. It was encompassed in a soft glow for almost a full minute, and he lost about 15% of his Mana Pool.
+
+600 Mana! Ren thought, amazed. I can only make 6 of them with my Mana Pool full!
+
+Ren took out a Major Healing wand to prepare to refill his Mana Pool to make more amulets, then picked up the amulet. A chain had generated on it, the metal was emblazoned with a web pattern, and a tarantula had 'grown' on it's surface. He picked it up and saw it was a three dimensional spider on the once flat metal disk, then examined it.
+
+Amulet of the Spider
+
+This amulet gives the wearer the ability to climb as if a permanent Spider Climb spell had been placed upon them. In addition, it grants immunity to entrapment by web spells or webs of any sort. You can also move in (or on) webs at half your normal speed. It also increases resistance against poison from spiders by 30%.
+
+Due to the higher quality of the materials used in it's creation, this amulet grants extra bonuses.
+
+Once per hour, the wearer can cast the Web spell for free. It is generated from the amulet and can be shot anywhere in a 45 degree arc forward. The wearer gains +2 bonus to Luck.
+
+“A permanent Spider Climb spell?” Ren said, and recalled the spell. “No, that can't be right.” He took out the spell book and looked it up again.
+
+Spider Climb (Spell, Level 2)
+
+The subject of this spell can climb and travel on vertical surfaces or even traverse ceilings as well as a spider does. The affected creature/person must have its hands free to climb in this manner, to maintain it's balance.
+
+The subject gains a climb speed of 20 feet per 5 seconds; furthermore, it automatically passes all Climb checks when traversing a vertical or horizontal surface (even while upside down). The subject retains its Dexterity while climbing, and opponents get no special bonus to their attacks against it (even though it's movement has slowed considerably).
+
+Please note: You can not run while climbing, because you need to have at least two (2) points of contact with the surface to be climbed.
+
+Range: Touch
+
+Target: Creature/person touched
+
+Duration: 5 minutes per spell level
+
+“Well, damn.” Ren said. “That is freaking cool!” He stood up and hung the Amulet of the Spider around his neck. It automatically tucked itself into his clothing to touch his skin, and stuck there. He smiled and walked over to the Iron Wall. He placed his right hand and left foot on it, them pulled himself up.
+
+“Ha!” Ren said, and climbed to the top of the 10 foot wall with no hand holds or anything else to grab. He climbed over the top and to the other side of it, and went to climb down towards the floor.
+
+“I wouldn't do that.” Teepo warned.
+
+It's okay. Ren thought. With this amulet on, there's no way I can fall.
+
+“Okay.” Teepo said and took off from his shoulder to hover nearly. “Good luck.”
+
+When Ren positioned himself to face downwards and started to climb down, the Iron Wall spell ended and it disappeared.
+
+“WAH!” Ren exclaimed as he fell to the floor, and Teepo chittered in delight as Ren landed on his head with a loud thunk.
+
+Stat Change!
+
+Fall Resistance Level 2 (Beginner 0%) - Reduces fall damage by 6% (total 11% with Lemming Title) and reduces chance of being crippled from falls by 6%
+
+Ren fell backwards to land face up, and groaned because he had lost over 100 points of his Health, even with the reduction.
+
+“What are you doing out here?” Dorcot asked as he came out of his section. Ren sat up and rubbed his head.
+
+“Sorry, I fell on my head.” Ren said.
+
+“How by the gods did you do that?” He asked. “There's nothing here to fall from!”
+
+“There isn't now.” Ren said and explained about the Iron Wall spell, and Dorcot laughed.
+
+“Wait, wait wait!” Dorcot said between laughs. “You practiced climbing on a temporary magic wall?”
+
+Ren nodded slightly, and Dorcot laughed and laughed. Ren couldn't help himself and laughed, too.
+
+*
+
+Nathalia rolled over in bed and her arm met nothing but air. “I guess he's still out.” She said, got out of bed, and equipped one of the nice dresses Ren had made for her new wardrobe. She felt the fabric, and was surprised it was so comfortable, even though it looked like it should be restrictive.
+
+Nathalia left her bedroom to check the main room, and saw Ren wasn't there. She went down the hall to the old bedroom and saw Ereka was on her bed, and clutched a pillow to herself in a tight hug.
+
+“...yes, Ren... please...” Ereka's hold on the pillow tightened. “...I can't wait...”
+
+Nathalia closed the door and walked back to the main room. I guess he told her. She thought. Now, I wonder where he is? She glanced down at the Sending Ring, and shook her head. No, if he's out somewhere, I know he's going to be busy.
+
+*
+
+Ren stood up and looked at Dorcot. “Hey, what are you doing here so late?”
+
+“I couldn't sleep.” Dorcot said.
+
+“Do you want me to ask why?” Ren asked him, and he smiled.
+
+“Money problems.” Dorcot said.
+
+“Angeilin told the kids you were rich.” Ren said and laughed.
+
+“How did you know that?”
+
+Ren put a hand on his shoulder. “I warned you to hide it.” He said. “I suppose they want a share.”
+
+Dorcot snorted a laugh. “All three of them think they deserve it, to make up for us not having money while they were growing up.”
+
+“I can't tell you what to do with it.” Ren said. “I can suggest that you could give them each a hundred platinum, and say that was all they'll ever get.”
+
+Dorcot laughed. “No, that would be too easy.” He said. “I'm inviting them all over for dinner next week to try and tell them that this money has to last the rest of my life, Angeilin's life, and theirs.”
+
+“Any grandchildren yet?”
+
+Dorcot shook his head. “The youngest has been trying for a while, but she's too busy with work to stay at home and raise a family anyways.”
+
+“Then give her 200 platinum, and tell her to stay home and have the family she's always wanted.” Ren said. “Or depending on the job she has, she could move here and work for House Neram.”
+
+“Those are all good options; but things are more complicated than that.” Dorcot said. “I was a good father... or, at least as good as I could be at the time.” He smiled sadly. “They don't see it that way.”
+
+Ren squeezed his shoulder. “Things don't have to be complicated, my friend.” He said and let the hand drop. “I hope your meal doesn't turn into a screaming match.”
+
+“Me, too.” Dorcot said, and then yawned.
+
+“I think someone needs a nap.” Ren said, and Dorcot nodded slightly.
+
+“Goodnight.” Dorcot said, and left the workshop.
+
+Ren went back to the workbench and sat down. He looked at the paving stone, and carved 8 more 4 inch molds out of it. He didn't think he'd need that many; but, figured he might as well use as much of the available space on the paving stone as he could. He was getting the ore for free, so it didn't cost him anything to use it.
+
+Ren went to the smelter and poured molten metal into all of the amulet molds and absorbed the heat, then popped them out of the mold and set them on the workbench. He picked up one of the gold metal discs and activated his Craft Wondrous Item ability. He made another Amulet of the Spider and set it aside.
+
+Stat Change!
+
+Craft Wondrous Item Level 2 (Beginner 0%)
+
+Ren made 4 more of them, and the skill went up another level. Sweet. He thought, used the Major Healing wand on himself to regain the Mana he'd used up, and made the last four amulets and leveled the skill again. Now, should I keep making them to try and level the skill more, since this awesome SPECIAL bonus is letting me level my skills up twice as fast, or move on to something else? He thought about it for a moment, then nodded. I'll get it to Level 5 at least.
+
+Ren went back to the forge and filled the amulet mold and absorbed the heat from it. Each one is giving me 25% of a level, so... He made 8 more amulets, and used the Major Healing wand to keep his Mana Pool full.
+
+Notice!
+
+You have reached Beginner Level 5 on your Craft Wondrous Item skill, and have unlocked a new recipe: Horseshoes Of Speed
+
+Ren had been working in the workshop for about an hour, then he thought about his skills. “There's so much that I want to do with this double bonus!” He said, and looked at the amulet mold. “Aw, screw it.” He said, and kept going. It took another half an hour, 3 refills of the mold, and 2 more uses of the Major Healing wand; then he received another popup when he'd made the twentieth amulet.
+
+Stat Change!
+
+Craft Wondrous Item Level 1 (Intermediate 0%)
+
+“I now have...” He laughed as he counted the amulets and stored them. “...37 Amulets of the Spider, and 8 blanks.”
+
+Notice!
+
+You have reached Intermediate Level 1 on your Craft Wondrous Item skill, and have unlocked a new recipe: Revealing Light
+
+“Show info for Wondrous Item recipe Revealing Light.” Ren said.
+
+Revealing Light
+
+Requires any object no larger than your fist, and transmutes it into a Revealing Light. When activated, it reveals all invisible creatures and objects within 25 feet of it.
+
+“Show info for Wondrous Item recipe Horseshoes of Speed.”
+
+Horseshoes of Speed
+
+Requires 4 Iron Bars (High Quality) to be placed on the Craft Wondrous Item platform. These iron shoes come in sets of four like ordinary horseshoes. When affixed to an animal’s hooves, they increase the animal’s base land speed by 50% (as if it had the Haste spell cast upon it). This counts as an enhancement bonus, and as with other effects that increase speed, jumping distances increase proportionally.
+
+All four horseshoes must be worn by the same animal for the magic to be effective.
+
+Weight: 4 pounds (1 pound for each horseshoe)
+
+“Okay, I have to do that one!” Ren said, and went to one of the smelters and poured out some of the metal to make a high quality Steel Bar. He absorbed the heat from it, and made 3 more. He took them and activated his Craft Wondrous Item ability, and placed them on the gold-colored platform. The items started to glow, he lost 20% of his Mana Pool, then the horseshoes appeared. He stored them and looked at the crate of diamonds for the wands.
+
+Just for fun, Ren put one of the diamonds on the platform and chose the Revealing Light recipe. It was encompassed in a glow, he lost 10% of his Mana Pool, and the diamond didn't change. Ren picked it up and examined it, and it said it was a Revealing Light. He had expected it to have a use restriction of some kind, but it didn't.
+
+“Maybe it's because I used a diamond?” He asked himself as he stored it, picked up a scrap piece of wood, and used that for the recipe. He lost 2% of his Mana Pool, and the piece of wood changed into a pearl like orb 2 inches across. When he examined it, he smiled.
+
+Revealing Light
+
+When activated, it reveals all invisible creatures and objects within 25 feet of it. Can be attached to any object, or even carried in a pocket.
+
+Duration: 1 Hour, but can be broken up to be used multiple times for shorter periods. Four times at 15 minutes each, 6 times at 10 minutes each, etc.
+
+Weight: 1 pound
+
+Ren smiled, and stored it. “It's too bad I can't test it.”
+
+“Actually, you can.” Teepo said.
+
+“But, I can already see you.” Ren said.
+
+“Just go into the house with Nathalia and activate it.” Teepo said.
+
+“Will that work?”
+
+“It should.” Teepo said. “It says it reveals anything invisible within the area, not that it reveals it only to you.”
+
+Ren snorted a laugh, and reached up to scratch Teepo on the head. “Keep helping me see things clearly, buddy.”
+
+“Sure, Ren.” Teepo said, and tried not to chitter in pleasure. Ren left the workshop and ran down to the house.
+
+He could finally show Nathalia his best friend.

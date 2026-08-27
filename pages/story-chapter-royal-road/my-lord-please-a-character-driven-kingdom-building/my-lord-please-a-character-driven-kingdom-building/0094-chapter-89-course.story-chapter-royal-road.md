@@ -1,0 +1,197 @@
+---
+id: aff80ac0-e102-5f0f-8f4c-7ce8cb514e21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89 Course"
+slug: 0094-chapter-89-course
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 94
+ownLength: 2094
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3618383/chapter-89-course"
+royalRoadId: "3618383"
+---
+
+Lucien sat down behind his desk in the study as he let out a slow breath. The issue with the western fields had remained on his mind ever since he left the shop.
+
+If not for Alicia’s reminder to have dinner, he likely would have skipped it again. The meal itself had been rather quiet with Talia still absent from the manor as she continued her work at the slaking pits in preparation for moving the kilns toward the ridge outpost.
+
+Though he had noticed Sera looking at him with increasingly expectant eyes ever since they returned from their trip to the outpost. He would likely have to set aside time soon to begin learning how to use a bow.
+
+He steepled his hands, his eyes lowered as he considered the matter before him.
+
+A moment later, with no new ideas coming to mind, his gaze drifted across the study until it settled upon the parchment resting atop the smaller desk where Alicia had sat earlier that day.
+
+Lucien stood and walked over before picking the parchment up for a closer look.
+
+The map Alicia had drawn was remarkably organized, with details such as the spacing between the various buildings clearly outlined.
+
+Lucien couldn't verify the roads entirely from memory alone, but the fact that every path had been carefully laid out only reinforced his suspicions regarding the potential...blessing Alicia possessed.
+
+He had not brought it up with Maris earlier. The topic would have shifted the conversation too abruptly, and he suspected the older woman would have given an answer similar to her daughter’s regardless.
+
+Setting the thought aside for now, he continued to examine the rest of the map. It seemed Alicia had even included the Easthollow River and the surrounding terrain despite him telling her to focus only on the area within Ashridge’s palisade walls.
+
+The door to his study opened without warning, drawing his gaze toward it.
+
+“Seniooor. I bring good news and a gift.”
+
+Talia walked right in though she was careful not to spill either of the cups in her hands as she directed a bright grin toward him.
+
+Lucien shook his head lightly. “At least someone else’s day has been pleasant.”
+
+She walked over and handed him one of the cups. The scent of coffee drifted upward immediately.
+
+“I heard about the incident at the western fields. Seems like we’ve got a problem on our hands, huh?”
+
+Lucien gave a nod in thanks before taking a sip, his shoulders loosening slightly afterward. “At least it surfaced before more people arrived.”
+
+Talia’s grin shifted into something more contemplative. “It’s not something you’re going to solve that easily though.” Her eyes drifted toward the parchment in his hands. “What’s that?”
+
+“I asked Alicia to draw a map. Partly to test our suspicions regarding her potential blessing and partly to help plan Ashridge’s future sectors.”
+
+He passed the parchment over to her.
+
+Talia’s eyes sharpened as she examined it more closely. A moment later, a small breath escaped through her mouth as she shook her head.
+
+“We can’t exactly verify any of this. But if she drew this in only a few hours...”
+
+Her finger moved toward one of the markings. “Is that the militia symbol I heard about? I remember seeing some of these on that ranking board outside the gathering hall.”
+
+Lucien inclined his head as he leaned against the desk beside her. “Yes. She marked seventy eight separate households with militia members assigned to them. The Ashridge guards do not have symbols, but she still identified the households they belonged to.”
+
+Talia lifted her eyes from the parchment to meet his own. “That’s either absurdly accurate memory recall or something else altogether.”
+
+She placed the parchment down before taking a sip from her own cup.
+
+“...Should we tell her?”
+
+Lucien exhaled softly through his nose as he set his cup down a careful distance away from the parchment. “No. We will keep it to ourselves for now. The risk is too great.”
+
+Talia’s gaze lowered toward the map again. “Yeah. We don’t know if becoming aware of it would cause a reaction similar to Sera’s.”
+
+He gave a small nod before gesturing toward the parchment. “For now, we observe first. She has likely possessed it since long before our arrival in this world. And we have other matters to focus on.”
+
+Talia’s eyes brightened immediately as she raised a finger.
+
+“Speaking of that. The cement mix.” A grin spread across her face once more. “I tested the latest batch earlier. It’s actually pretty decent.”
+
+There was a noticeable energy to her now, the sort that appeared whenever her thoughts had already begun racing several steps ahead.
+
+Lucien turned toward her. “Oh? How long was the curing process?”
+
+Talia lifted a hand, holding up three fingers. “Three days, give or take. Remember that batch you saw near the slaking pits? It had already been drying for a day by then. The curing finished not long ago.”
+
+He rested a hand against his chin in thought. “That is...not very long for something we made without prior expert knowledge.” His gaze shifted toward her. “Barring a certain addict, of course.”
+
+She glanced away before letting out a cough. “A-anyway, it happened to be useful this time around.” A moment later, she lifted a hand and gave a vague side to side motion. “Ah, but don't expect the strength to match the version from our old world.”
+
+Lucien shook his head as his eyes drifted back toward the map spread across the desk. “It does not need to. Even this would be more stable than wood alone. We could reinforce the gates and walls, build a...”
+
+His words trailed off as his gaze rested upon the marked path of the Easthollow River.
+
+Talia tilted her head. “Senior? What’s wrong?”
+
+Lucien’s brow creased slightly as his gaze lingered on the river markings.
+
+“An irrigation ditch is a rather extensive undertaking.” His eyes remained on the river markings. “One that would require a great many people to dig.”
+
+Talia’s eyes widened as she began to catch on. “Making them work on something like that would help close the distance between them.”
+
+Lucien inclined his head, his eyes still fixed upon the river as he traced the path of its flow. “It would serve multiple purposes as well. Diverting water toward the western fields would help with their rocky soil.”
+
+He shifted his gaze toward her. “We start with the sluice gate before anything else.”
+
+Talia nodded as she set her cup down, her eyes already beginning to brighten at the idea of something new. “That makes sense. We need to control the water flow first.”
+
+That spark faded a moment later as another realization struck her. “...You are going to ask that sly carpenter to help with this, aren’t you?”
+
+The corner of Lucien’s mouth twitched before he mercilessly gave a firm nod.
+
+Talia’s shoulders slumped as she let out the sound of someone already regretting tomorrow.
+
+“He will be responsible for the construction of Ashridge’s future buildings eventually. Even without this project, you would need to work closely with him if you intend to continue testing your lime mortar.”
+
+Another sharp breath escaped her.
+
+Lucien could already imagine her trying to find ways to avoid it, so he placed his hands lightly against her shoulders. “I saw Maris at the shop today. She was telling me how much she enjoyed working there every day. She made no mention of your presence.”
+
+He gave her shoulder a light pat. “Since you seem so enthusiastic about this project, I am sure you will not mind coming along tomorrow as well.”
+
+The sight of his junior hanging her head as she bemoaned her fate caused some of the earlier mood to lift.
+
+Talia’s attempts during breakfast to avoid coming along had collapsed quickly once Alicia mentioned speaking with her mother and discovering exactly who now handled most of the “boring” work at the shop.
+
+Watching the gentle maid lecture his junior while sipping a cup of coffee in the morning might have become one of his new favorite ways to start the day.
+
+Sera had given him another look that might as well have spelled the word eager across her face. It only receded after he assured her that he had not forgotten and that, barring anything urgent, they would likely begin tomorrow.
+
+Talia had attempted to use that as a distraction, though Alicia had apparently known about his intention to learn the bow for some time now.
+
+In the end, his junior had fled ahead toward the courtyard first in an effort to escape further lecturing while he followed at a far more unhurried pace after breakfast.
+
+Before leaving, he had informed Elias and Dorian about his plans and sent word for Harlon to meet them just beyond the northeastern edge of the village.
+
+When Lucien stepped out into the courtyard, he found Talia already waiting there alongside Merek and Henric.
+
+As he approached, both men straightened immediately.
+
+“My Lord.”
+
+He returned the gesture. “Merek and Henric? I assume the two of you will be escorting us today?”
+
+Merek dipped his head. “Yes, My Lord. Captain Dorian ordered that we keep our distance and maintain watch.”
+
+Even if the site itself was not far from the village, it was still prudent to have an escort accompany them.
+
+Lucien’s gaze moved between the two guards. “It seems Dorian has...designated the two of you as my escorts whenever I leave the village. Was this punishment for allowing me to walk alone with Sera into the mana infused area?”
+
+Henric let out a cough while Merek kept a neutral expression as he answered.
+
+“It is our duty, My Lord. Pay it no mind.”
+
+The younger guard straightened further before saluting. “We will ensure both you and your lady remain safe from a distance, My Lord.”
+
+Lucien’s brow twitched faintly at the implication behind Henric’s words. In that moment, he realized the morning’s entertainment had abruptly turned against him.
+
+Talia let out a soft laugh behind her hand. “My, what a diligent guard you have, Lord Lucien. I already feel safer before we have even begun our walk.”
+
+Before he could respond, Henric puffed up slightly. “Yes, Lady Talia. Rest assured, we will not allow anything to happen to either of you.”
+
+Lucien found himself looking at the younger man more closely as a suspicion slowly began forming in the back of his mind from something Dorian mentioned months ago.
+
+“Were you the one speaking to the others during drills about Alicia?”
+
+Henric gave a firm nod without hesitation. “Yes, My Lord. Some men need reminding of their place when their blood runs too hot.”
+
+The look Talia directed toward him only worsened the situation as he exhaled softly through his nose.
+
+“...I see. Very well then. Let us be off instead of wasting daylight here.”
+
+Lucien ignored her as he walked from the courtyard while the two guards followed at a respectful distance behind them.
+
+Talia naturally fell into step beside him, a light bounce in her movements.
+
+Though she said nothing, the pointed looks and familiar curve on her lips were already more than enough.
+
+It did not take long for them to reach the site where Lucien intended to build the sluice gate.
+
+The Easthollow River flowed down from the mountains north of Helvarn, and spring had softened the ground enough that portions of the earth still held the dampness of the season beneath their boots.
+
+Aside from the road leading toward Helvarn, the area remained mostly undeveloped compared to the fields surrounding Ashridge. But the softened ground made it plausible to dig a ditch capable of diverting water toward the western fields, though the work itself would require considerable labor.
+
+That actually made it suitable for his secondary purpose.
+
+The guards had remained close, though still far enough to stay just beyond earshot.
+
+Talia walked beside him with noticeably renewed energy, though some of it dampened when she spotted who was already waiting a short distance away.
+
+The carpenter stood with his arms crossed, smoke curling from the pipe in his mouth as his gaze moved between the two of them before settling on Lucien first.
+
+“Lord.”
+
+Only after he returned the greeting did the older man’s attention shift toward Talia.
+
+Harlon exhaled lightly through his pipe as he spoke in a dry tone.
+
+“So, the one who’s been using up all my wood stockpile finally decided not to run at the sight of me.”

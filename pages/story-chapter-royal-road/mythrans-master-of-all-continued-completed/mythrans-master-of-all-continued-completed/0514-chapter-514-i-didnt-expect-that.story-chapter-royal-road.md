@@ -1,0 +1,309 @@
+---
+id: 065823fd-241e-5244-a3f7-a0e76887b7c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 514 - I Didn't Expect That"
+slug: 0514-chapter-514-i-didnt-expect-that
+partOf: mythrans-master-of-all-continued-completed
+position: 514
+ownLength: 3031
+unit: words
+publishedAt: 2018-02-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195080/chapter-514-i-didnt-expect-that"
+royalRoadId: "195080"
+---
+
+Ren landed at the bottom of the well next to Small Princess and saw the doorway. “Thanks for waiting.” He said sarcastically as Artemis landed beside him.
+
+“I do not have hands to open the door.” Small Princess said in her now high-pitched voice.
+
+“I meant about jumping in the well.” Ren said and took out the All-Seeing Mirror.
+
+“I know what you meant.” Small Princess said.
+
+Ren asked the All-Seeing Mirror to show him what was on the other side of the doorway, and to highlight traps, creatures, enemies, other hidden doorways, and anything else that might be relevant. He had started asking very specifically, because if he didn't, he knew that something he didn't ask about would appear.
+
+The mirror's surface shifted from his own reflection to that of a living room. The furniture looked well-used and pretty old, and there was an older Dark Elf lady that sat in a large wooden chair. There was a fireplace somehow, and she bent over and tossed another small twig on the fire. The fire flared up and consumed the twig in only a second, and the older Dark Elf lady smiled.
+
+Ren didn't want to just step into the poor woman's home unannounced, and he wasn't sure how he could get in without scaring her. His pet tarantula crawled out of it's hiding place in his cloak and skittered up his arm and touched his cheek.
+
+“Thanks for reminding me.” Ren said and picked the spider up. “My Queen, please forgive the intrusion. I am entering the underworld through an entrance just on the inside of the border of the High Elven Kingdom.” He looked at the All-Seeing Mirror and asked it for the closest Dark Elf landmarks. “It's inside a living space not far from an underground lake called 'Adzerios'.”
+
+*
+
+Lylyth, Queen of the Dark Elves, was delighted when Ren's disembodied voice came to her, then her heart plummeted when she heard the name of the lake.
+
+“No!” Lylyth exclaimed and tried to form a portal near him. It wouldn't appear, and she looked at the healer.
+
+“50 feet, or perhaps a hundred?” The healer asked, and Lylyth formed the portal in the air above where Ren was, and the healer stepped through it.
+
+*
+
+Ren felt someone familiar enter his Aura from above, and then felt her panic. “Be right back!” He said and ran straight up and out of the well as fast as he could. He saw the Dark Elf healer fall towards him from a portal, and he carefully caught her before she had fallen more than 15 feet.
+
+“M'lady Miarora.” Ren said to her, and she smiled at him.
+
+“Are we back to using my formal last name already?” Tiatha asked, and he chuckled.
+
+“I didn't want to offend you, since this is not a personal setting.” Ren said. “Tiatha.”
+
+“I don't care where we are.” Tiatha said and smiled. “Now that you know my name, you will call me by it.”
+
+“Of course.” Ren said. “I assume you're here...”
+
+“To stop you from entering the Night Hag's domain.”
+
+“The night hag?” Ren asked.
+
+“No, you need to use the proper pronunciation.” Tiatha said. “That is her name as well as what she is.”
+
+“Oh.” Ren said. “That doesn't sound right.” He said. “I'm pretty sure if I came up to her and said something like, 'Hi, Night Hag. How are you?', she would be insulted.”
+
+“I would be.” A crackling disembodied voice said from nearby.
+
+“Oh, no.” Tiatha said. “I'm too late.”
+
+Ren looked around as the world faded away to black, and then it faded back in and was replaced by a large metal cage inside the room he had seen in the All-Seeing Mirror. He still held Tiatha in his arms, and he saw that Artemis and Small Princess were beside him.
+
+“That was neat.” Ren said, and a woman's chuckle floated on the air.
+
+“You are amused by my wonders of magic?” The cracking female voice said.
+
+“Can you tell if I'm lying?” Ren asked.
+
+The voice didn't say anything in response, and he looked at Tiatha.
+
+“I need to put you down so I can work.” Ren said.
+
+“Don't let go of me.” Tiatha said, and he felt her deep-seated fear. “As long we keep contact and touch each other, we can't be tricked away from each other.”
+
+“We're inside a metal cage.” Ren said and tried to use Detect Magic and Detect Traps. Neither spell worked. He used Enchanted Eyes instead and everything glowed. “Or not.” He said, and the voice chuckled again.
+
+“Yes, you see it and understand.” The crackling female voice said. “Everything is of my design and creation here.”
+
+“I should ask if the well was real, but I know it was.” Ren said. “I'm surprised the spells didn't reveal anything, though.”
+
+“The well is real, as is the door.” The voice said. “Once I noticed you, however...”
+
+“The spells aren't continuous.” Ren said and sighed. “You could have cast anything at all after their use and I wouldn't have known.”
+
+“You are quite astute for an Adventurer.” The voice said and something shimmered outside the cage. A 6 foot tall gorgeous woman stepped out of the shimmer, and Ren looked at her. She had flowing blonde hair down her back, exaggerated eyelashes and lips, and a dress that would be too short to sit down in.
+
+“I don't see any desire in your eyes.” The woman said, a little disappointed.
+
+“I like pretty women, sure.” Ren said. “That doesn't mean I need to lust after them as soon as they appear.”
+
+“Perhaps.” She said, then she stepped backwards into the shimmer. She was engulfed by it for several moments, then stepped back out of it. A 6 foot tall Frikara was now there, and she pulled open her top to reveal Ren's favorite breasts.
+
+“Is this more to your liking?”
+
+“Oh, yeah.” Ren said, without a trace of lust. “I love seeing a perverted version of someone I care about flashing me their chest.”
+
+The fake Frikara huffed and put her hands on her hips. “What do you want, then?” She asked. “I need you to fall under my spell before I can take what I need from you.”
+
+“What do you need?” Ren asked.
+
+“Your soul.” She said and grinned maniacally. It looked so odd on Frikara's face that it turned Ren's stomach.
+
+“Ugh.” Ren said and looked away from her.
+
+“Why does having me corrupt your friend's visage disturb you so much?” She asked from right outside the cage.
+
+“She would never have that look on her face.” Ren said. “In fact, there's not too many people that I know that could wear that kind of grin and not make me ill.”
+
+“So, you want me to change?”
+
+“I'd rather see your real form, if that's okay.” Ren said. “I'm not asking you or making a request.” He said, to cover his words. “I'm only stating a fact.”
+
+She was quiet for several moments, then spoke. “Okay, you can look now.”
+
+No, don't! Teepo thought to him, and Tiatha ducked her head down and hugged Ren tightly.
+
+What did she do? Ren thought back as he felt Tiatha's horror.
+
+She turned Frikara inside out. Teepo said. It's... disgusting.
+
+Ren sighed and ducked his head onto Tiatha's chest so he couldn't see anything, either. “Why are you doing this?”
+
+“You entered my domain of your own free will.” She said. “I can do whatever I want with you.”
+
+Ren waited for several moments, then spoke. “All... all powerful Night Hag.” He said in the most pitiful voice he could muster. “This Adventurer, unworthy of beholding your true form... or even being within your presence... asks for your permission to enter your domain.”
+
+The Night Hag was surprised by this admission. Most people that she caught would try to deny that they had entered, or claim they were tricked. She enjoyed playing with them to try and break their strong spirit. The Adventurers she caught would barely even speak after being caught, then would kill themselves and fade away to leave her items.
+
+“You... are already inside.” She said.
+
+“I know, and I can't apologize enough for intruding upon you.” Ren said. “When I was at the door, I didn't want to just barge through, in case something was on the other side.”
+
+She thought about that, and realized that he was right. He and his friends had stood outside her door for several minutes instead of just entering.
+
+“Go on.”
+
+“That was when I felt someone enter my Aura and I ran to meet them.” Ren said. “You know the rest.”
+
+The Night Hag started to get angry. “So, you are going to claim that you never entered!”
+
+“No, Ma'am.” Ren said, and almost whined. “I was explaining that I wanted to enter the door, but was interrupted.” He felt her anger subside. “I won't even ask for forgiveness for trespassing.”
+
+“You are an odd one.” She said, and Ren nodded.
+
+“More than you realize.” Ren said. “What can I do to make it up to you?”
+
+“Give me your soul.” The Night Hag said, and he shook his head.
+
+“I can't do that.” Ren said. “I have too many people that depend on me staying around.”
+
+“There's nothing else that I require.” She said.
+
+“So that's it?” Ren asked. “All you need is a soul?”
+
+“Yes.”
+
+“What do you need it for?” Ren asked.
+
+“That is not your concern.”
+
+“It is if you're going to use it to power a spell or something.” Ren said. “If I hand over a soul to you, I want to know that it won't be wasted.”
+
+“Ha... hahaha!” The Night Hag laughed. “Are you saying that you would hand over a soul, as long as it was useful and not wasted?”
+
+“Yes.”
+
+“Don't do it!” Tiatha said and kept her head ducked. “You know she's trying to trick you!”
+
+“Of course she is.” Ren said. “I don't have much choice, though.”
+
+“That's right.” The Night Hag said. “If you must know, I need a soul to imbue my creation.”
+
+“Imbue it with what?” Ren asked.
+
+“Life, of course.” She said. “At the moment it is just an empty shell, and needs the spark of life to make it whole.”
+
+“If I give it to you, will you let us all go?” Ren asked.
+
+“Of course.” She said, and Ren felt the lie.
+
+“Then no.” Ren said.
+
+“What?”
+
+“You have no intention of letting us all go, so I won't hand over what you want.”
+
+“I can just take it.”
+
+“No, you can't.” Ren said. “If you could, we wouldn't be talking right now.”
+
+“Rrrrr!” The Night Hag let out a low growl and stomped around. Ren heard something smash, then everything went quiet for a full minute. “Very well.” She said through gritted teeth. “You have my word that I will let you go.”
+
+“I want your word that you will let us all go.” Ren said.
+
+“GRRRRR!” The Night Hag growled loudly and smashed something else. “Fine! You have my word that I will let you all go!”
+
+Notice!
+
+You are about to enter an agreement with the Night Hag. You must provide her with one (1) soul for her experiment, and she will let you all go.
+
+Warning: Bartering with or completing a deal with the Night Hag will have long term consequences, and will affect your experiences from this point forward.
+
+Are you sure you want to proceed? Yes / No
+
+Ren needed time to think about this option, so he activated Serene State of Mind. Time itself slowed down and he contemplated what kind of consequences would result from the deal.
+
+We would be free, but we could be caught again right away since we still don't have permission to be in her domain. Ren thought. I'm not sure how to word it to keep us all safe, though.
+
+Ren thought about it for another little while, and since Serene State of Mind let him think in accelerated time, almost no time had passed when he finally deactivated it.
+
+“Well, I want your word that not only will you let me and my friends go, you won't try to capture us, trick us, coerce us, curse us, cause us pain, wound or otherwise hurt us, or make us want to return afterwards... and give us permission to be within your domain without any restriction or fear of prosecution.”
+
+The Night Hag started to growl as Ren continued to talk, and when he finished, she howled in frustration. “You vex me!” She spat. “If I agree to that, you can walk free from here and will never have to worry about me again!”
+
+“A soul is a very valuable thing.” Ren said, and he still hadn't looked at her the entire time they talked. “Is that too much of a price to pay for a willing, albeit reluctant, participant?”
+
+She thought about it for several moments. “You are the only one to ever demand such things from me.” She said. “Usually the fools just ask for freedom.”
+
+Ren chuckled. “I was almost a fool, then.”
+
+“If you give me a willing soul...” The Night Hag said. “...I will agree to your terms.”
+
+“Do we have to shake on it for it to take effect?” Ren asked.
+
+“That is usually how things are completed.”
+
+Ren kept hold of the healer in his arms with one hand, and turned to stick a hand out through the metal bars of the cage. He felt a hard and calloused hand grip his firmly, shake it once, then let his hand go.
+
+“You surprise me.” She said. “Usually they grab on and try to force me to let them out without agreeing.”
+
+“I wouldn't do that.” Ren said. “When I agree to something, I keep my word.”
+
+“That's good to know.” The Night Hag said. “Now hand over the soul.”
+
+“I can't.” Ren said.
+
+“What?!?” The Night Hag exclaimed. “How dare you break the agreement!”
+
+“I broke nothing.” Ren said. “We still haven't shaken hands to form the agreement.”
+
+“You just shook-”
+
+“That wasn't your hand.”
+
+“Your eyes aren't even open! How would you know it wasn't mine?”
+
+“I'm pretty sure your hands are not hard or calloused.” Ren said. “A voice that sounds so nice wouldn't have hands that a menial worker would have.”
+
+The Night Hag didn't say anything in response.
+
+“I'm right, aren't I?” Ren asked. “I'd say your hands are thin and soft, maybe a little bony, because why would you do any work yourself when you have others to do it for you?”
+
+“You should look at me when you are talking to me.” The Night Hag said.
+
+“I'm not that stupid.” Ren said. “One of the easiest ways to trick someone is to make them see what you want them to see.” He said. “Once you said everything here was of your own creation, I knew I couldn't believe anything I could see.”
+
+“I'm not going to trick you at all, am I?” The Night Hag said.
+
+“I certainly hope not.” Ren said. “I've never come across someone like you before, where everything I say or hear needs to be questioned constantly for double and triple meanings.”
+
+“Are you... complimenting me?”
+
+“I am.” Ren said. “None of the physical skills I have can assist me here. My immense Strength, Speed, and Agility are meaningless when it's my mind that is tasked to the limits while dealing with you.” He said. “I've met lots of different beings during my adventures, but never someone like you.”
+
+Ren still had his hand out through the bars of the cage to be shaken, and he felt a thin delicate hand take it. He felt a deluge of emotions from the Night Hag, almost too many to sort through in the brief moment that she touched his hand. At the forefront was a grudging respect for him, and he held her hand tenderly and shook it.
+
+“Does this satisfy you?” She asked.
+
+“Yes.” Ren said, and the decision popup to deal with the Night Hag disappeared. “May I look upon you now?”
+
+“That was the agreement.” She said.
+
+Ren lifted his head from Tiatha's chest and looked at the Night Hag. She was about 7 feet tall and had a distinct look of a Dark Elf, with dark grey skin and elfin features and long ears. She had long black hair that went down to her waist, and unlike Dark Elves, she had two distorted and twisted horns sticking out of the sides of her forehead. They almost intertwined in her hair, and the point of one was broken off.
+
+“REN!” Tiatha, Artemis, and Small Princess yelled.
+
+“What?”
+
+“Oh! You can hear us now?” Tiatha asked.
+
+Ren nodded and smiled at the Night Hag. “That was sneaky.” He said. “I didn't even notice that you hid their voices.” He chuckled. “I thought they were just keeping quiet while we talked.”
+
+The Night Hag smiled and bared her teeth.
+
+“We were so worried!” Tiatha said and kissed his cheek, and he felt her worry. “You weren't saying anything at all, and then your hand went out through the bars of the cage.” She said and looked where his hand had been. “Where's the cage?”
+
+“I've reached an agreement with her.” Ren said. “One soul for our continued freedom.”
+
+“NO!” Tiatha yelled. “You can't do this!” She said and held on tightly. “I can't let you...”
+
+“Hush.” The Night Hag said and Tiatha stopped talking. “Now, Adventurer.” She said. “Fulfill your part of the bargain.”
+
+Teepo, do you trust me? Ren thought to his friend.
+
+Always. Teepo thought back.
+
+Thank you. Ren thought and picked up Teepo from his shoulder. “Here is the soul you need.”
+
+“That is just a beetle.” The Night Hag said. “I need-”
+
+“I'm a lot more than that!” Teepo said and cut off her words, and the Night Hag froze.
+
+“Wh-what?”
+
+“I've been Ren's friend for years!” Teepo said. “If anyone is going to sacrifice themselves for him, it's going to be me!”

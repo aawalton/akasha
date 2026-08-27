@@ -1,0 +1,303 @@
+---
+id: 8b35d941-d032-5855-871e-0aef57cddb24
+page-type-slug: story-chapter-royal-road
+title: "Chapter 122 - A Banquet"
+slug: 0107-chapter-122-a-banquet
+partOf: mythrans-master-of-all-continued-completed
+position: 107
+ownLength: 3927
+unit: words
+publishedAt: 2016-12-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108783/chapter-122-a-banquet"
+royalRoadId: "108783"
+---
+
+Ren went back inside the Library and built the last cabinet for that row, put the books on it, and moved it over with the others. When that was done, he looked at the space where the female dwarf's desk was, and then at the ceiling. He smiled and climbed up onto the desk, and let the system show him where the stairs would go. He took out a bolt of the tight weave fabric, measured out enough to cover a wide enough area, and sewed up a giant bag. Ren stepped inside it and nailed it to the ceiling, all along the edge of the hole he needed to cut. He cut out the rectangular hole for the stairs, and stored the piece before it fell. He took down the giant bag he'd made to catch the sawdust and bundled it up to store it.
+
+Once that was done, Ren measured out the length and width of the available space, stored the desk, and made the stairs to go up to the next floor. He went up them and saw that it was just a big empty space, and had another set of stairs. He went up those as well, and saw another big empty space. There were no windows, as the building was nestled so tightly between the surrounding buildings that you couldn't see out the windows if they were there.
+
+I hope she likes it. Ren thought, then went down the stairs to the second floor and made several simple tables and chairs. He went down to the first floor, exited the building, and made sure the door was locked before he left. He took off running and Teepo chittered in delight. They made it back to House Neram about 10 minutes later, and Ren slowed down at the sight that met him. 3 dozen carts lined the side of the road, and Ren walked over to the picnic area he'd made earlier. Nearly every seat was filled; people were chatting and enjoying themselves as children ran around the tables.
+
+“There he is!” Someone shouted and the chatter died down as everyone turned to look at him. A cheer went up, then another, and people started clapping. Nathalia came out of the house gate, wearing her fancy green dress, and carried another plate of food over to the serving table. She saw him and grinned.
+
+“What's all this?” Ren asked and motioned at the practically full gathering.
+
+“I better let Dorcot explain that.” Nathalia said and waved to the dwarf. Dorcot stood up after kissing his wife Angeilin, and came over to where Ren stood.
+
+“Dorcot? What's going on?”
+
+“Well...” Dorcot started to say, then grinned. “...I went to visit my brother-in-law at the mines the other day.”
+
+Ren looked at him expectantly, and he continued.
+
+“When I told him about what happened with Angeilin, he was pretty angry.” Dorgot said. “Then I told him about your plan to handle the situation...”
+
+“And?” Ren prodded.
+
+“...he decided that your ideas for the mine were pure genius.”
+
+“He didn't!”
+
+Dorcot nodded. “He doubled the amount paid per cartload, changed the day to three 8 hour shifts, and brought in high quality food for the miners to eat.”
+
+Ren rubbed his forehead. “He didn't give the cafeteria to the cooks, did he?”
+
+Dorcot looked at Ren strangely. “Was he supposed to?”
+
+Ren nodded slightly. “It was supposed to be a money saving idea, not a money draining idea.” He sighed. “Is he at least charging the miners for the food?”
+
+“What?!?” Dorcot exclaimed.
+
+“I'll take that as a no.” Ren said and shook his head. “Your brother-in-law is probably going to be looking for a new job soon.”
+
+“What? Why?”
+
+“House Lodur will be losing money. He'll be to blame, even though they're my ideas.”
+
+“Ren.” Dorcot said. “He was mad about the way his sister Angeilin was treated; but by using your ideas, he's nearly tripled the mine's production capacity.”
+
+“Is that why I've gotten a ton of ore a day, instead of a quarter ton?” Ren asked, and Dorcot nodded.
+
+“He even got a raise out of it.”
+
+“Maybe it's not as bad as I thought, then.” Ren said and smiled. “I assume a lot of these people are from the mines?”
+
+Dorcot nodded slightly. “First shift ended an hour ago, and they came here to thank you; only to find a banquet waiting for them.”
+
+“We sent the rented carts to pick up their families.” Nathalia said and took Ren's hand. “Why don't you come and sit down.” She said, pulled him over to a table, and took out a plate full of bacon from inventory. “I've got something here that you really love.”
+
+Ren took the plate of bacon from her, put it on the table, then turned to look her in the eyes. “I sure do.” He said and took Nathalia into hug, and gave her a passionate kiss. Whistles and cat-calls soon followed, and several children nearby pretended to gag and throw up. Ren broke the kiss and stepped back from Nathalia.
+
+“Everyone, I'd like to make a toast.” Ren said and the noise quieted. He picked up a particularly large piece of bacon from the plate and held it up. “To the Deathgore!” He said, and everyone stopped what they were doing, and stared at him in surprise. Ren took a bite of bacon and smiled. “He's delicious!”
+
+Someone chuckled, then another, and then laughter filled the space. Nathalia gave him a caress on the cheek with her hand, then went back inside to get more food. Ren ate a good portion of the bacon on his plate, then noticed several kids were staring at it. He held the plate out to them and smiled.
+
+“Go ahead.” Ren said.
+
+The kids grabbed a few pieces each and started running around. “I'm the Deathgore!” One kid said and stuck 2 pieces of bacon in his mouth. He pretended they were tusks, and started running around.
+
+“It's the Deathgore! Kill it!” Another boy said and tried to take the bacon as he chased the first boy.
+
+“I eat Deathgore for breakfast!” A little girl said as she ate a piece of bacon herself.
+
+Ren chuckled as he watched them play, then felt a little tired. He grabbed a bit of food and stood up. Several dwarves waved to him and he waved back, then left the banquet to feed Princess in the stable. He pat her neck and then rubbed her behind the ears.
+
+“I really should take you out for a run or something.” Ren said. “You've been cooped up in here too long, I think.” Princess huffed and Ren smiled. “I'll see what I can do for you.”
+
+She nodded and Ren went into the house. He walked into the kitchen to see Nathalia and her mother dishing out more food. He walked up behind Nathalia and gave her a hug.
+
+“I'm really lucky to have found a woman like you.” Ren said and kissed her cheek. Nathalia put the plate down and hugged his arms. “You're doing all this work for people you don't even know.”
+
+“Oh? What about me?” Narhilda asked as she grinned at them. Ren chuckled and let Nathalia go. He walked over to Narhilda and took her into a hug.
+
+“If you hadn't raised such a wonderful daughter, Narhilda...” Ren said and gave her a kiss on the cheek as well. “...I don't know where I'd be right now.”
+
+Narhilda looked him in the eyes, and her face flushed a little red at the intensity she saw there. Ren let her go and walked over to Nathalia and cupped the side of her face with his hand.
+
+“I'm pretty tired, so I'm going to bed.” Ren said and gave her a tender kiss on the lips. “I really need to sleep.”
+
+“I'll be there as soon as I can.” Nathalia said. “I'm sure the party won't go on for much longer.”
+
+“I'm glad I forgot to order ale, then.” Ren chuckled as he left the kitchen and went to the old bedroom. Teepo jumped to the wall and stayed by the top of the doorway. Ren stored his armor and cloak, leaving himself in only his underwear and climbed into the bed under the blanket.
+
+Goodnight, Teepo. Ren thought as he settled down and drifted off to sleep.
+
+About an hour later, Ren felt the bed move and the blanket he was under lifted up briefly. He opened his eyes and turned his head to Nathalia, then took her into a half-hug as she snuggled her head on his shoulder. They both took a deep breath, exhaled together, and fell asleep.
+
+Ren woke up the next morning and looked at Nathalia as she lay beside him. Morning, Teepo.
+
+“Good morning, Ren.” Teepo said. “You've still got 2 hours before breakfast.”
+
+Thanks. Ren thought, then yawned. A bit more sleep might be good.
+
+“I'll wake you when breakfast is ready.”
+
+Thanks, buddy. Ren thought and drifted off to sleep again.
+
+Teepo woke Ren up when breakfast was ready, and Ren woke Nathalia. They equipped clothes and went out to the kitchen to eat. Ren held Nathalia's chair for her then sat down himself.
+
+“Let me guess what's for breakfast.” He said and smiled. “Fried eggs and ham.”
+
+“What gave you your first clue?” Narhilda said and put plates in front of her daughter and Ren. “Was it the eggs or the ham?”
+
+Ren chuckled. “The all-encompassing smell of ham, of course.”
+
+Nathalia laughed. “Nearly 8 hours straight of cooking boar definitely left the house with quite the smell.”
+
+“It's not just the house.” Ren said.
+
+“What do you mean?” Nathalia asked.
+
+“You always smell really good...” Ren said as he dug into the food. “...but, last night?” He smiled. “It was really hard trying to not nibble on you.”
+
+“You wanted to nibble on me?”
+
+Ren nodded slightly.
+
+“Why didn't you?” Nathalia asked. “If I was so irresistable, why did you resist?”
+
+Ren smiled. “I'd rather you be conscious if I did that.”
+
+“I'm sure I would have woken up.” She said.
+
+Ren put a hand on hers, and looked at her in the eyes. “I won't ever do anything to you without your permission or knowledge.”
+
+Nathalia leaned close to him. “You have my permission.” She whispered in his ear and then took a small nibble of Ren's earlobe. He shivered slightly, and Nathalia smiled as she leaned away to keep eating. Her mother joined them at the table and they enjoyed a nice breakfast together. When breakfast was done, Ren took some food out to Princess and fed her. He remembered to tell Narhilda and Nathalia about the construction workers that were coming to House Neram, and went back inside the house to let them know.
+
+“I've hired a work crew to come out here and build some houses.” Ren said.
+
+“You what?” Nathalia asked, surprised.
+
+“I hired them to work on the library yesterday, came back here to get some wood, and met Golir's wife.” Ren said. “She told me that her and her husband were applying for a loan to move here.”
+
+“Uh huh.”
+
+Ren looked at Nathalia in surprise. “You knew?”
+
+Nathalia nodded. “They told us when Ma accepted their petition for residency.”
+
+Ren sighed. “I guess it never occured to you to tell them we'd pay for it.”
+
+“What?”
+
+“Having somewhere to live is a basic living requirement. Her husband came here to work for us.”
+
+“Yes, and?”
+
+“I will not have people go into debt, and have to work that debt off somewhere else, just to move here.”
+
+“But...” Nathalia had a confused look on her face. “...that's how it's always been done.”
+
+“Not here.” Ren said and stood. “Not any more.” He turned to Narhilda. “My Lady, I will pay to build a house for anyone that wants to move here.”
+
+Narhilda had a surprised look on her face. “Ren...”
+
+“My Lady, I will not budge on this.” Ren said. “I'll pick a spot 2 miles down the road, and consult the foreman I hired, to make a nice place for people to live.”
+
+“Ren, that's not on House Neram's land.”
+
+Ren looked at Nathalia and she shrugged. “We were so busy, I forgot to tell her how much land you bought.”
+
+“How much?”
+
+“House Neram owns 50 square miles of land in the city limits, with this Keep in the middle.” Ren said.
+
+“What?!?” Narhilda exclaimed. “Is that what made you a Prince?”
+
+Ren shook his head. “Buying the 900 square miles from here to the convent did that.”
+
+“By the GODS!” Narhilda said and slumped in the chair. “By the gods.”
+
+“If you don't want the housing this close to the Keep, I'll have it built outside the city limits.”
+
+Narhilda blinked a few times. “No, no...” She waved her hand a few times. “...down the road is fine.”
+
+“Thank you, My Lady.” Ren said and stepped away from the table. “Please let petitioners know that basic housing will be provided for free, or at least the materials needed if they want to build it themselves.”
+
+“O-of couse, Ren.”
+
+Ren walked out of the kitchen and Nathalia caught up to him in the main room.
+
+“Ren...”
+
+“I should have told you my thoughts on this.” Ren said, took her into a hug. “Things have been happening here a certain way for a long time, and I've seen the injustice of some of it.” He said. “The indentured servant contract is the worst. Making people work where you tell them to, until you tell them they're done; but if it takes too long, and I'm sure it's designed that way, they lose what they were trying to get in the first place, and have to repeat the process.”
+
+Ren shook his head after he leaned back to look her in the eyes. “I won't have that happen here, Nathalia. Not if I can change it.” Ren's gaze was intense as he spoke. “I will change it. Right here. The 'status quo' will no longer be 'debt to pay'.” He kissed her lightly, let her go, and equipped his armor and cloak. “I'll be at the Library, if you need me before I get back.” Coming, Teepo?
+
+“Like you have to ask.” Teepo said and dropped into the hood from the ceiling. Ren left the house and held a hand out for Teepo. He tossed his friend up and Teepo told him there was a guard at the gate, and that a train of carts was coming up the road.
+
+Thanks, Teepo. Ren thought, concentrated on his Aura ability, and walked over to the gate to unlock it. He walked out through it and the guard came to attention. Ren didn't recognize him, and assumed this was Golir.
+
+“Good morning, your highness.” Golir said.
+
+“Good morning, Golir.” Ren said, walked across the drawbridge, and then over to the road that went up to the workshop. He didn't notice that Golir's eyes widened at the fact that Ren knew his name. Ren stood on the corner and waved the carts to a stop.
+
+“Sorry for stopping you on your way to work.” Ren said and smiled. “I need several workers for a bit of sewing work, and for shoveling.”
+
+Seven women, all from different carts, put up their hands. Ren nodded slightly to them and they climbed down out of their respective carts.
+
+“How many crews are left short?” Ren asked. Two of the drivers lifted their hands. He pointed to the one closest to him. “Can your second worker go to the other cart? I'll need a driver for the day.”
+
+The second worker talked to the other cart driver and they waved them over.
+
+“Thank you.” Ren said, then turned to the seven women. “How many of you can sew?” Three raised their hands. “How many can sew really well? That is, a 'bag holding sand' well?” Only one held up her hand and Ren smiled. “Please follow me to my workshop.” Ren led the 7 women to his workshop and opened the door for them. They walked inside and looked around. All that was there was a big stone fireplace, a forge, and a walled off area.
+
+“It's not much of a workshop.” One woman said.
+
+Ren chuckled. “I've been busy.” He showed them the giant oven and told them what it was for. They stared at the tilted contraption as Ren explained how it worked, and showed them how to position each bag under the chute, then to sew it shut and stack them at the side of the room
+
+“This I gotta see.” The same woman said.
+
+Ren chuckled again and asked them to step back, then concentrated on the oven. Activate. He thought and snapped his fingers for dramatic effect. The oven lit and a blast of heat hit them all.
+
+“Woo-eee!” She said.
+
+“I'll need 3 of you to shovel small amounts all along the length of the metal on the other side. I'll show you how.” Ren said at the look of worry on their faces. “I'll need you...” He said to the one woman who could sew. “...to sew sacks, and to sew the tops when they are full.” Ren smiled. “The last 3 are in here to catch the powder in the sacks and stack them along the wall.”
+
+They all nodded slightly and Ren smiled. “Don't worry, it's quite easy.” Ren ran them through the process and they got the hang of it quickly. Ren told them to take their time, to rotate who shovels, and that the bags didn't have to be lifted. They could be dragged across the wood floor easily to be piled by the wall. He took out 19 of the bolts of tight weave fabric and stacked them by the door.
+
+“Please take your time. It's not a race... and by the gods, be careful.” Ren walked over to Dorcot's section and saw that he had a good amount of gems done. Ren left the workshop and walked down the road to the cart. It was perfect timing, as the foreman and the 5 carts pulled up to House Neram. Ren waved to him and told him to follow down the road 2 miles. They got to the spot Ren had picked and then took a bit of time to work out the best way to make houses and have them easily accessible to the road.
+
+“Let's just do a subdivision.” Ren said.
+
+“A what?”
+
+Ren took out a piece of parchment and drew a line. “This is the main road.” Ren said and pointed to the main road. He drew a line perpendicular to it, about an inch long, and then drew a rectangle. “We can have the houses here face away from each other, but face the road they are on, then more houses can be built on the other side of the road.”
+
+“So they're in their own little loop, but still attached to the road.”
+
+Ren nodded slightly. “We've got lots of space here. They can have a good yard, in the front and in the back, and still be close enough to the neighbors if help is needed.”
+
+“Good thinking.” The foreman said. “Are you still sticking with 12 houses?”
+
+“Well...” Ren said and smiled. “If you can keep building them, I can keep paying you for it.”
+
+“Ha!” The foreman said and laughed. “You're the best client I've ever had.”
+
+Ren handed him 3 platinum and a coin pouch. “That should be enough for the 12 houses, to start.”
+
+The foreman equipped the pouch, put the coins in it, and turned around. “Okay, boys! Let's get to work!” The crew pulled out pickaxes from the carts and did the same technique that Ren had done for both Dorcot's house and to make the buffet area. The workers dug out a spot with the pickaxes, then cleaned it out with shovels to make it flat. Then they started to build a house on it.
+
+“I'll leave you to it.” Ren said. “I'll be back in a little while.” The foreman waved and Ren got in the cart. “To the Library.” He said and the driver looked at him like he was crazy. “You can take me to the city for now, and I'll give you directions when we get there.”
+
+The female dwarf nodded slightly and flicked the reins. Ren directed her to the Library after they got to the city's main area, and the driver was just as shocked as the foreman was that a library was actually there. Ren went inside and heard loud tromping above his head.
+
+Teepo! Ren thought and waited while Teepo went to the back of the room and up the wall by the stairs.
+
+“It's just the Librarian.”
+
+Ren followed Teepo up the stairs and saw the Librarian as she tromped over the floor and hopped onto a chair. She sat on the table for a moment, and then rolled over the end and landed on her feet. She turned around and saw Ren.
+
+“YOU!” She yelled and ran over to him. Ren braced himself and the female dwarf took him into a giant hug. “Ow!” She said and let Ren go. “Your armor's hard.”
+
+Ren laughed. “Sorry, it's supposed to be like that.”
+
+“How did you do all of this?” She asked and looked around. “I've never had this much open space before.”
+
+“Did you go upstairs yet?” Ren asked and pointed to the other set of stairs.
+
+“THERE'S MORE?!?” She screamed and disappeared up the stairs. Ren heard more tromping for a minute, and then there was a loud bang. Ren ran up the stairs to see what happened, and the female dwarf was laying down in the middle of the floor, laughing.
+
+“Are you all right?” Ren asked.
+
+“All right?” She sniggered. “ALL RIGHT?!?” She rolled up and off the floor and came over to Ren. “Your highness, I don't know why you did this.” She said and waved at the empty room. “I've lived in this little hovel all of my life, surrounded by books. Not once have I had the room to dance like that.”
+
+“That was dancing?” Ren asked.
+
+“Dancing. Flailing. Tripping.” The female dwarf said and laughed. “It's all the same.”
+
+Ren smiled. “I guess you like my idea then.”
+
+“Nope, I hate it.” She said and laughed really hard at Ren's surprised expression, and grabbed her belly. “Oh... oh... I have to remember that look.” She said after a few minutes of laughing. “That was priceless!” Ren rolled his eyes and she laughed again.
+
+“Shall we get back to work?” Ren asked, and she nodded slightly. Now that she had all this extra room, she decided to spread out her collection a little. Ren kept building more and more cabinets to hold everything. By about 3pm, Ren had made the final cabinet that was needed to hold the last stack of books.
+
+Stat Change!
+
+Woodworking Level 1 (Intermediate 0%)
+
+Nailing Level 7 (Beginner 0%)
+
+Ren stored the cabinet and took it to the second floor and put it in the spot the female dwarf told him to. “Well, that was the last of the books.” Ren said and sat down in a chair.
+
+The female dwarf look at him and laughed. “The last of the books?” She said and gave Ren an evil grin. “That's just what I had out for display.”

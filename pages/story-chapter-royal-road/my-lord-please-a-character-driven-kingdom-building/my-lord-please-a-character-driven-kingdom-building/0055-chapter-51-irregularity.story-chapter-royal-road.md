@@ -1,0 +1,233 @@
+---
+id: 618c6dc5-b68e-54f7-b709-4cba00a60459
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51 Irregularity"
+slug: 0055-chapter-51-irregularity
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 55
+ownLength: 1988
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3354713/chapter-51-irregularity"
+royalRoadId: "3354713"
+---
+
+Lucien's steps turned toward the southern edge of the village. The air carried a different stillness there, the scent of pine lingering faintly beneath the fading cold of winter.
+
+Along the way, he spotted Sera walking just beyond the last line of cottages, having returned from her usual morning hunts.
+
+A pair of rabbits hung loosely from her hand, their fur dusted with frost. The longbow remained slung across her back, wrapped as always, its full shape hidden beneath a worn cloth.
+
+Her gaze shifted the moment he approached. As always, she had already detected him from a distance.
+
+Lucien stopped a few paces from her. “You’ve walked the ridge.”
+
+Sera inclined her head once at his words.
+
+He studied her briefly. “From a hunter’s perspective...is it safe?”
+
+She didn't answer immediately. Instead, her eyes drifted toward the distant line of the ridge. Then she stepped forward and lowered the rabbits to the ground.
+
+Her boot pressed into the snow, tracing a curved line. A second followed beside it, diverging slightly, but both holding a steady curve.
+
+He watched the movement closely. "Are those two lines game trails?"
+
+Sera gave a firm nod in response before her boot moved again. The third line she drew curved wider than the first two. After completing the line, she raised a hand and pointed at the curve.
+
+His gaze narrowed at the difference. "The animals are avoiding that area?"
+
+She inclined her head once before stepping forward to brush the markings away, the snow settling back into place. A moment later, she lifted the rabbits, her attention still on him.
+
+He held her gaze briefly. “Then the rest of the ridge holds, aside from that?”
+
+Sera dipped her head once, her gaze lingering on him a moment longer.
+
+When he said nothing more, she turned back toward the village.
+
+Lucien remained where he was, his eyes following her briefly. The longbow remained slung across her back as always, wrapped in a worn cloth.
+
+For all the progress Ashridge had made, the unknown had not diminished. It had only shifted, expanding into places he could not yet account for.
+
+The ridge and the paths she had traced could be understood, but there remained a single point where the movement of animals changed.
+
+His gaze lifted toward the distant line of the ridge beyond the cottages.
+
+There were questions he could not yet answer, but others he could no longer afford to ignore.
+
+After a moment, his attention turned inward, toward the storage sheds beyond the palisade.
+
+His steps did not slow as he crossed the packed snow.
+
+Toward something that didn't change at all.
+
+The storage grounds stood apart from the rest of Ashridge.
+
+Two guards stood at the entrance of the largest shed. They straightened as Lucien approached.
+
+“My Lord.”
+
+He returned the greeting and stepped past them without pause.
+
+The interior was dim, the scent of wood, iron, and grain lingering faintly in the air. Everything was ordered, placed with care.
+
+Everything except the far end of the shed.
+
+Lucien walked past without slowing, his gaze fixed on where the first body had been dragged in what felt like a lifetime ago.
+
+The brown-orange figure remained unchanged, its shoulders too broad and limbs too long. The wound beneath its jaw remained clean, with no sign of decay in its flesh.
+
+His gaze shifted to the second corpse, smaller in form but no less wrong in its stillness. The arrow wound beneath its forelimb remained as it had the moment it fell.
+
+There was no sign of rot. No stiffness of decay.
+
+Different variants with different periods in which they had died, yet the same result.
+
+Lucien exhaled faintly, there were explanations for most things in life when governed by the rigid natural order of the world. And yet, here were two cases that defied that order.
+
+His gaze moved once more between the two bodies, searching for any indication the process had merely slowed rather than stopped entirely.
+
+There was none, and a thought he had been trying to hold back surfaced unbidden.
+
+Magic.
+
+The word settled into place with an ease he did not trust.
+
+Lucien gave no outward reaction as he considered the possibility.
+
+He had been wrong before.
+
+In the early days, when he had first tried to understand the nature of the Tithe, he had drawn conclusions too quickly, fitting incomplete information into a structure that made sense to him rather than one that reflected reality.
+
+Yet even after the Tithe had ended, questions remained.
+
+Barring variants, the common beasts had shown little interest in people when they breached Cragwatch. They had not come for food, nor for slaughter.
+
+They could have gone around the frontier settlements.
+
+Yet they had not.
+
+He considered the hobgoblin briefly, and the way it had drawn the others toward it. The journals in his library spoke mostly of common beasts, which suggested the variants were not responsible for the attacks that came each winter.
+
+More telling were the settlements that had tried to endure without walls, fortifying only their homes in the hope the beasts would pass them by.
+
+None had lasted long enough to earn a name from the Crown.
+
+Then there were the numbers. At Ashridge, he had seen no more than two hundred during the battle. After the Tithe ended, the scouts reported the beasts had scattered north.
+
+There had been movement beyond the line of torchlight in the forest, but it never came close enough to engage. At the time, he had taken it for the edge of the same force. Now, he was less certain.
+
+His thoughts returned briefly to the ridge, to the lines Sera had drawn and the area where something altered how animals moved.
+
+Lucien's gaze lowered to the wood beneath his boots. “Not yet,” he muttered.
+
+Whether it was magic or something else entirely, the answers might lie in Helvarn.
+
+He turned from the two unchanging corpses. Elias was likely waiting for him, and he had last-minute checks to do before he left Ashridge.
+
+He stepped out from the storage shed without looking back.
+
+The door closed behind him, sealing the stillness of that place away from the rest of the village. The faint movement of Ashridge returned at once, carried in the distant rhythm of work and the low murmur of voices.
+
+The guards at the entrance straightened again as he passed. He acknowledged them with a slight inclination of his head before continuing toward the manor.
+
+Each step carried him further from the questions he had left behind. By the time he reached the manor, the morning light had begun to soften across the courtyard.
+
+Elias was already waiting.
+
+The steward stood within the study, a small stack of parchment arranged neatly across the desk, he looked up as Lucien entered.
+
+“My Lord.”
+
+He removed his gloves and set them aside. “Elias.”
+
+The steward inclined his head. “Before your departure, there are several considerations.”
+
+He took his usual seat behind the desk. “Go on.”
+
+Elias didn't reach for the parchment immediately. “Travel conditions remain stable for now, but late winter roads are unreliable. If the thaw advances sooner than expected, the return journey may prove slower than the one ahead.”
+
+Lucien gave a small nod of acknowledgment.
+
+Travel in this world could not be described as smooth, especially when most roads were little more than dirt paths rather than the paved roads of his former world.
+
+The steward reached for the top ledger. “As we discussed, Helvarn’s markets will not be operating under normal conditions. The merchants may raise prices beyond reason, or refuse to commit to larger transactions without guarantees.”
+
+Lucien leaned forward, steepling his hands. “Or at Lord Vaelric’s behest.”
+
+The steward gave a careful nod. “Yes, My Lord.” He hesitated before continuing. “You could speak to Lord Vaelric directly.”
+
+His brow lifted at the rare suggestion from the steward. “Would he even accept such a meeting?”
+
+Elias inclined his head. “He would, My Lord. In fact, it is likely he would anticipate you doing so. That would be...” he paused, gaze lowering. “What is expected of a noble.”
+
+Lucien’s fingers tapped lightly against the table. “That would mean being predictable. And if I go to him directly, he negotiates from a position of strength.”
+
+As he considered the words, Elias let out a soft cough.
+
+“You could also approach the Lord of Helvarn to mediate. Though we don’t know if he would rule in your favor, it remains a potential way for House Varentis to gain a much needed ally in the frontier.”
+
+Lucien stilled his finger, his gaze narrowing at the steward.
+
+The sequence in which he had asked the questions indicated that the second suggestion had been the true one.
+
+Harlon’s words echoed faintly, that Elias’s loyalty was to House Varentis. The thought lingered longer than it should have.
+
+After studying the man before him, whose expression remained unreadable as always, Lucien shook his head. “It would still be something Lord Vaelric expects. We will focus on trade first. If it fails, then I may consider visiting the Lord of Helvarn.”
+
+Elias gave no hint of whether he agreed or not, folding his hands loosely before him. “Then it would be prudent to avoid committing to bulk purchases immediately, My Lord.”
+
+He leaned back in his seat. “Yes. We will do an initial acquisition for our most urgent needs first. Just enough to confirm supply. Quantity can follow once terms are proven.”
+
+“That would allow room to negotiate.”
+
+Lucien inclined his head. “And if trade proves viable, we arrange transport afterward.”
+
+Elias’s gaze lifted as he followed the implication.
+
+“Through Helvarn’s messenger services. We will send terms back and secure delivery without paying for transport on the first exchange.”
+
+The steward gave a small nod. “That would reduce our initial expenditure.”
+
+“And limit excess exposure as well,” Lucien added.
+
+“Especially with iron,” Elias said after a moment. “If available, it will likely be controlled more tightly than grain.”
+
+He placed his hand on his chin. “We will have to test the market first. It may not be Lord Vaelric’s influence, but a matter of supply after Cragwatch’s fall.”
+
+The steward inclined his head in agreement. “You also issued an adjustment to the escort.”
+
+“Tomas.”
+
+“Yes, My Lord.”
+
+Lucien’s gaze lowered in thought before he spoke. “He’ll travel with the guards. The journey to Helvarn should pose little risk for a first assignment.”
+
+He paused briefly. “And I want to see how he carries himself when there is nothing forcing him forward.”
+
+“A measured evaluation.”
+
+“If he intends to bind himself to my service, I will know what I am accepting.”
+
+Elias didn't question the decision. He often left military matters to Dorian.
+
+Instead, he shifted, returning to the matter at hand. “If your absence extends beyond a week, we may need to begin adjusting allocations more conservatively.”
+
+Lucien’s gaze rested on him for a moment. “If conditions allow, I will return within it.”
+
+“Understood, My Lord.”
+
+Elias gathered the parchment into a single aligned stack, though he had barely needed to reference it. “There are no further matters requiring immediate attention.”
+
+The room settled into silence as the brief meeting drew to a close. Beyond the study, the village carried on with its daily routine, the distant strike of tools carried faintly through the walls.
+
+Lucien rose from his seat. “Then we proceed. Keep a lookout for my message later in the week.”
+
+“Yes, My Lord.”
+
+He turned toward the window, his gaze drifting over the village below.
+
+Ashridge had stabilized, and winter’s grasp was nearing its end. He could afford to leave for a short while. It would also be his first time traveling beyond a day’s journey in this world.
+
+“Helvarn,” he said quietly.
+
+Not just a mere destination for trade,but the place where some of his questions might finally be answered.

@@ -1,0 +1,261 @@
+---
+id: c0807395-bc82-51b5-a6e1-d70e6beddc45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 578 - A Prime Example"
+slug: 0578-chapter-578-a-prime-example
+partOf: mythrans-master-of-all-continued-completed
+position: 578
+ownLength: 2676
+unit: words
+publishedAt: 2018-05-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213668/chapter-578-a-prime-example"
+royalRoadId: "213668"
+---
+
+“Good morning, Your Highness.” Ren said to Railyse.
+
+“Good morning, King Ren.”
+
+Ren looked at the old Queen. “Good morning, Your Highness.”
+
+“King Ren.” She nodded slightly. “I don't think I qualify for that anymore.”
+
+“Even if you weren't the queen's mother, you would still deserve it.” Ren said.
+
+“That's nice of you to say.”
+
+“It's the truth.” Ren said and his gaze shifted out to the Colosseum in front of where they sat. A ruckus caught his eye and he looked at it, and used his Spot ability. Teepo, am I really seeing what I'm seeing?
+
+“If you mean a protest by a group of female Sea Dwellers to let them participate, then yes.” Teepo said.
+
+“I see you've noticed our little problem.” Railyse said, and Ren looked at her. “They want to compete in the tournament and prove their strength.”
+
+Ren raised a single eyebrow at her, and she chuckled and reached out to touch it briefly.
+
+“Yes, if one of them won, there's no way they could sire my spawn.” Railyse said.
+
+“Did you tell them that?”
+
+“Of course we did.” The old Queen said.
+
+“It's the only reason they are being excluded.” Railyse added.
+
+“What did they say to that?” Ren asked, curious.
+
+“They said the winner would nominate a male of their choice to take their place.”
+
+Ren snorted a laugh. “You could get stuck with the runt of the litter.”
+
+“With the what?” Railyse asked.
+
+“It's an Adventurer phrase for the sickliest and weakest of a select chosen few.”
+
+“Runt of the litter.” The old Queen said. “It's an odd phrase, but also fitting.” She smiled. “Yes, being constrained to take any male they chose would defeat the purpose of having a tournament to find a strong and cunning mate.”
+
+Ren nodded. “I just hope this works out like you want.”
+
+“As do I.” The old Queen said, and Railyse let a low sigh escape.
+
+Ren reached over and took her hand, because he could feel her apprehension and her resignation. “I'm sorry it had to come to this.”
+
+“If you had just left me in your pool, none of this would be necessary.” Railyse said.
+
+“I couldn't do that to you.” Ren gave her hand a squeeze. “You need a proper male of your own species to handle things.”
+
+Railyse sighed openly and nodded. “I'm sorry for trying to force you to do something you didn't want to do.”
+
+“What makes you think that?” Ren asked, and she looked at him with wide eyes. “If I thought I could get away with it, I would have helped you with anything I could to make you happy.”
+
+“B-but... I... I thought...” Railyse shook her head. “Really? You would have tried?”
+
+Ren nodded. “I thought I explained it to you properly when I said you needed someone to be there for you all the time, and not just occasionally like I would be restricted to.” He said. “I would have to be gone for decades at a time, and I don't want you or your children to suffer the loneliness that would cause.”
+
+“R-Ren...”
+
+Ren lifted her hand and kissed it. “I know it hurt you when I wouldn't accept your decision; but, I did it for your sake... and for the sake of your spawn.”
+
+Railyse took in a deep breath and let it out. “So you were still protecting me, even by rejecting me.”
+
+Ren nodded again. “Why else do you think I was so happy to be invited to your spawning party?” He asked, and looked down at her distended belly. “Do you know how many there will be?”
+
+“No, and I've refused to let anyone tell her.” The old Queen said with a huge smile. “I want it to be as much of a surprise to her as her being spawned was to me.”
+
+Railyse smiled. “I was a little surprised that you weren't angry about me coming home in such a state.”
+
+“Normally I would be; but after you explained how it happened, I couldn't help but be happy about it.”
+
+“That reminds me.” Ren said. “Do you need another feeding?”
+
+Railyse and her mother exchanged glances, and he felt their surprise.
+
+“What is it?” Ren asked.
+
+“It's her spawn day.” The old Queen said. “Only the potential father can offer his life's blood for a final meal.”
+
+“Oh.” Ren said and let Railyse's hand go. “Please forgive my impertinence, Your Highness.”
+
+“Ren, it's all right.”
+
+“I knew I should have asked before now, but I've been restricted to the room and the mines for the last month.” Ren said. “This is the first time I've been anywhere else besides those two places.”
+
+“What? Why?” Railyse looked from Ren to her mother. “Mother?”
+
+The old Queen opened her mouth to say it didn't concern her, then sighed. “He's a prisoner and his movements have to be restricted.”
+
+“No, they don't.” Railyse said, slightly angry.
+
+“The people won't like seeing the man that kidnapped you, walk around freely.”
+
+“It wouldn't be freely, anyway.” Ren said. “My guide stays with us when we leave the room.”
+
+“Excuse me?” Railyse said, clearly angry. “What guide is this?”
+
+Ren pointed to the Sea Dweller that floated unobtrusively by the entrance to the section Ren was in.
+
+“Mother.” Railyse turned to the Old Queen. “Ren does not need a 'guide'.”
+
+The old Queen sighed. “He does, because he needs to be watched constantly.” She said. “I learned that the last time he was here.”
+
+“What do you mean?”
+
+“He had an impact on our society, just by talking to people.” The old Queen said. “New ideas, different ways of thinking or seeing things... it all seeps into our heads and changes what we think.” She said. “I can't let Land Dweller ideas corrupt us to the point that we start to lose our way of life.”
+
+“I've never said, or even suggested, that you change how you live.” Ren said. “Not only is that not my place, I also have no right to judge you or impose my own morality and views on you.”
+
+“Just by being here and being yourself does that.” The old Queen said and pointed to the protesters. “Do you know who is leading that protest?”
+
+Ren shook his head.
+
+“Remember the woman you made that bracer for?” The old Queen asked, and Ren raised both eyebrows. “Yes, you showed her your power and some of your abilities, and her opinion of you has changed permanently.” She sighed. “Can you guess the male she would choose if she won?”
+
+“What?!?” Railyse exclaimed, and it was Ren's turn to sigh.
+
+“I'll be right back.” Ren said and looked at Artemis. “Wait here.”
+
+Artemis nodded and watched as Ren swam across the Colosseum.
+
+“He's coming!” One of the females shouted and pointed, and the other women in the group cheered. Ren could feel how happy they were that he had noticed them, and that he was coming over to see them. He thought it was a little weird to get those feelings from women he didn't know, when he usually only got them from women he cared deeply about.
+
+When he was close enough, Ren discovered that the feelings he felt from the Sea Dweller females were kind of hollow, because they didn't have the undercurrent of love and respect he had become used to feeling from the women in his life. The Sea Dweller women in front of him almost vibrated with their excitement, and he had to assume that this was what it was like to be a celebrity in the real world and had adoring fans that were excited to see them up close.
+
+“King Ren.” The female he had given the bracer to floated forward. “I never did thank you for this.” She said and held up her forearm to show him the bracer.
+
+“I repaired and improved it as an apology, so no thanks were necessary.” Ren said, and he looked at the other females. “I should ask what you are doing here, but I'm pretty sure I know why.”
+
+“Queen (bubble bubble gurgle bubble) was right to have chosen you.” She said, and the others nodded.
+
+“I'm not even a Sea Dweller.” Ren said.
+
+“You are a Waterkin, and we can all feel it.” She said. “You have more Water in you than any Land Dweller I've ever heard of.”
+
+“That's because my affinity and resistance is as high as it can go.” Ren said.
+
+“Others will deny you and think you are just pretending to be one of us.” She said, then ducked her head slightly. “I was guilty of this myself.”
+
+“You don't have to avert your gaze, especially when you speak the truth.” Ren said, and she lifted her head. “I could feel what you felt, and what I did that day at breakfast was a surprise for you.”
+
+“And me!” One of the others raised a hand.
+
+“Us, too!” Three others raised their hands. “We were outside and saw the red light!”
+
+“I don't suppose you know how far it went?” Ren asked her.
+
+“880 fathoms.” She said right away. “At least, that's what my father said when I went home that night. It was only there for a moment and then it was gone.”
+
+“That's a mile!” Teepo said and chittered in laughter. “It went a whole mile in an instant through deep water!”
+
+“How did he know how far it went?” Ren asked.
+
+“That's how far away from the castle we live.” She said.
+
+Ren smiled. “Thank you for letting me know.”
+
+“If you are really grateful, you could catch me a fish.”
+
+The other females gasped at her boldness, and Ren chuckled.
+
+“Only if you don't see it as part of a courting ritual.”
+
+“I just want to see you catch it.”
+
+Artemis? A fish, please. Ren thought to her directly for the first time, and he felt how happy that made her. There was no sound, but a bright Mana bolt shot out and up into the darkness of the water far above Ren. All of the Sea Dweller's eyes looked up to try and follow it's progress, but it had already hit it's target and killed it. Ren looked up himself and held his hands out, and a few moments later, caught a 4 foot long and very dead fish.
+
+“Dinner is served.” Ren said. “Unless you want it cooked. That will take a few moments.”
+
+She blinked her eyes at him and he felt her shock. “R-raw is... I normally eat it raw.”
+
+“Then enjoy.” Ren said and held it out to her. She took it from him and looked at the hole in the fish's head. “It was a Mana bolt, so there shouldn't be any wood or metal in the wound. I can't account for anything that may have happened to it before now, though.”
+
+“I wanted to see you swim and grab it.” She said, a little disappointed.
+
+Ren chuckled. “I don't have the time right now to satisfy your curiosity, so just the fish had to do.” He said. “I just came over to visit and ask you to keep your protests down to a dull roar.”
+
+“You're not going to tell us to stop?” One of them asked, surprised.
+
+Ren shook his head. “You feel how you feel, and telling you to be quiet serves no purpose, except to make you resentful of me for trying to hush you.” He gave them a warm smile. “Plus, it might give the males something to think about while they compete for the Queen.”
+
+“That's what we wanted.” The female that had the bracer said. “There's never been a tournament for something like this, and having only males compete is an insult.”
+
+Ren reached out and touched her face. “I can feel your indignation on my behalf.” He said. “Thank you for trying to make a loophole to give me a chance to win.”
+
+She reached up and took his hand and held it. “You know?”
+
+Ren nodded. “It's not necessary, though.”
+
+“But, you are the strongest male here.” She said.
+
+“She defeated me in hand-to-hand combat in only a few seconds.” Ren said, and he felt her denial. “It did happen.”
+
+“Y-yes, but... you... let her.” She whispered, and the currents under her skin swirled very fast. She had been there and seen it, and she knew there was no way that someone so formidable could be taken by surprise like that, unless they wanted to be. Ren didn't say anything in response and moved in close to give her a kiss on the cheek. The other females bubbled and gurgled at the gesture, and he moved back.
+
+“You will have to forgive my lack of teeth.” Ren said, and that made them gurgle faster.
+
+“I think it's starting.” Teepo said from his shoulder.
+
+“I must return to the Queen's side.” Ren said and took each of their hands in turn and gave them a kiss on the back of it. “Enjoy the tournament.”
+
+The Sea Dweller females were quite flustered at his attention, and he used his Water Manipulation ability to lift himself up and away from them. They watched with wide eyes as he moved through the water at a high rate of speed without needing to swim, and he deposited himself on the other side of the Colosseum in the same spot he had left.
+
+“They've all quieted down.” Railyse said. “What did you tell them?”
+
+“The truth.” Ren said. “I can't win, even though they were trying to make a loophole for me.”
+
+“And the fish?”
+
+“One of them wanted me to show off, so I had Artemis do it instead.” Ren said. “Even when trying to impress someone, doing what they want isn't always the best option.”
+
+“I know.” Railyse said in reference to what happened between them and how she got to where she was.
+
+Ren chuckled. “At least there are a lot more suitors for you now.”
+
+“Even though I only wanted one.” Railyse said, and when Ren started to talk, she used her Water Manipulation ability to cover his mouth. “You know the best and strongest relationships start out by being friends first.”
+
+Ren motioned to his mouth, and she smiled.
+
+“You're wondering where I learned that?” Railyse asked, and he nodded.
+
+“From me.” The old Queen said. “Love can grow later if you want it to, but it's not necessary.”
+
+Ren gestured and moved his head.
+
+“It isn't needed for what has to be done.” The old Queen said. “What was that saying that Land Dweller used all the time?” She thought about it for a moment. “Oh, I remember.” She smiled. “It's just business.”
+
+Ren stopped gesturing and kind of slouched.
+
+“Don't be sad.” Railyse said. “The tournament is designed to find the strongest and smartest fighter.”
+
+Ren reached out and took her hand. She gave it a squeeze back and removed the solid water block on his mouth.
+
+“Here they come!” Teepo said, and Ren turned his head to look at the entrance, and over 150 competitors entered the arena.
+
+“It's starting.” The old Queen said.
+
+Railyse let Ren's hand go and floated up slightly to draw attention to herself. “Welcome, everyone!” She bubbled and gurgled in the Sea Dweller language, and her voice carried through the water to everyone. “Today marks my very first spawning! I need a suitable mate to bring them into this life, so this tournament was created!”
+
+The crowd cheered in response to her words. She waved to them, then pointed to the fighters.
+
+“One of you will be my king at the end of this.” Railyse said. “If you survive, you will have earned it.”
+
+The Sea Dwellers raised their various weapons to her and she nodded.
+
+“You must fight! You must endure! You must WIN!” Railyse said. Hidden doorways all along the inside of the Colosseum opened up, and hundreds of 8 foot long electric eels swarmed out. “Let the games begin!”

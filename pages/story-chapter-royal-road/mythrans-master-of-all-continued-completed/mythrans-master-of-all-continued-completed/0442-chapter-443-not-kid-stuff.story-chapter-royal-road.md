@@ -1,0 +1,283 @@
+---
+id: 7ffb310e-56f7-5d53-9fe9-24e43447c8fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 443 - Not Kid Stuff"
+slug: 0442-chapter-443-not-kid-stuff
+partOf: mythrans-master-of-all-continued-completed
+position: 442
+ownLength: 3400
+unit: words
+publishedAt: 2017-12-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178564/chapter-443-not-kid-stuff"
+royalRoadId: "178564"
+---
+
+Xuunah had spent several hours with her daughter Nathalia the night before, and they had shared tales of their adventures that had happened in their lives. When she discovered that Nathalia and Ren were no longer together, she felt quite sad. When she reached out to console her daughter, as a mother would, her own innate abilities detected Nathalia's Collective attachment with Ren.
+
+It wasn't the newly-formed one she had helped them create the last time she had visited. It was a full intermingling that any of the Light beings shared when they were near one another, if they so chose. It had surprised her so much that she forgot to ask Nathalia about Ren's other activities.
+
+After Nathalia left, Xuunah decided to accept Ren's offer and went back to his house to spend the night in the spare room. She had never slept on a bed so comfortable before, and her mortal form had greatly enjoyed the sensation for the entire time she had been asleep. Morning arrived before she knew it, and she heard someone moving around.
+
+Xuunah got out of bed and left the spare room, and knocked on the main bedroom's door. A moment later it opened, and she blinked her eyes several times as a completely naked woman stood in front of her.
+
+“Can I help you?” Anabelle asked.
+
+“Um... can I speak to Ren please?”
+
+“He's not here.”
+
+“What do you mean he's not here?” Xuunah asked.
+
+“He left a while ago.” Anabelle said. “He always leaves early.” She said, tilted her head and squinted her eyes to look at the woman. “Do I know you?”
+
+“Not personally, no.” Xuunah said. “I'm Nathalia's mother.”
+
+“Oh, hi!” Anabelle stepped forward and hugged her. “Nathalia told me all about you!”
+
+“Sh-she did?” Xuunah was glad she was almost as tall as her, so there wasn't any unnecessary touching.
+
+“Of course she did.” Anabelle said and pulled her into the room and shut the door. “It's Nathalia's mother!”
+
+“Hello.” Frikara said and gave her a little wave. Xuunah saw the short woman was naked as well, even though she sat at a dressing table, and looked around the room. There were 4 other similarly short women there who also waved, and she realized that they were dwarves.
+
+“He replaced Nathalia with all of you?” Xuunah asked, because she couldn't believe it.
+
+Frikara laughed. “Obviously, you don't know Ren.”
+
+“We've only met a couple of times.” Xuunah said.
+
+“We could never replace Nathalia.” Anabelle said. “Ren loves her so much!”
+
+“He really does.” Frikara said. “She is a constant presence in his heart.”
+
+“It's so nice and warm.” Andrela said from the bed. “Even when we...” Her face flushed red. “It was almost like she was there with us.”
+
+“So where is he?” Xuunah asked.
+
+“He said he was going to his county for a while to check up on some things.” Anabelle said. “Which reminds me. I have to go to work.” She said and equipped her business suit and skirt.
+
+“Bye, Anabelle!” Andrela said, and Anabelle waved to her and left.
+
+“When will he be back?”
+
+“We have no idea.” Frikara said. “We are not his keepers.”
+
+Xuunah opened her mouth to ask why they weren't, then sighed. “I know this might be an imposition, but... can you tell me about him? I'd like to know everything there is to know about him.”
+
+Frikara smiled. “Why?”
+
+“I was sent here to find out.” Xuunah said, knowing full well they would know if she lied. “He did something shocking, and I'm here to keep an eye on him.”
+
+“Then, yes.” Frikara said and pat the chair beside the bed. “Sit, and we will tell you our tales.”
+
+*
+
+“Hi, guys!” Ren said as he entered the warehouse.
+
+“Hey, Ren.” Tee-one said. “I'm glad you're back.”
+
+“Did you know where I was?”
+
+Tee-one shook his head. “I didn't get anything until you left the cavern.”
+
+“That figures.” Ren said. “Even the Sage of Ages couldn't contact me in there.” He said and looked up at Ruck. “Have you been keeping busy?”
+
+Ruck gave him a 'thumbs up' gesture.
+
+“We've got the inn, cafeteria, blacksmith, tailor, general store, small school, barracks, and medical building done; and we have half of the Library built.”
+
+“What the heck am I supposed to do?” Ren laughed. “You guys are awesome!”
+
+“We're even better than that.” Tee-one said, and pointed to a small rack full of rings. “Guess what those are.”
+
+“You didn't!” Ren walked over to the rack and picked up a ring. It was a Strong Ring of Storage and it was filled with the front half of the muscle men Ren had made as bouncers for the Pleasure Palace. “Tell me they have weapons!”
+
+“Of course they have weapons.” Tee-one said, and Ren laughed again as he stored all the rings.
+
+“This is fantastic!” Ren said and hugged Tee-one. “Ruck!”
+
+Ruck dropped down from the ceiling and Ren gave him a hug, too.
+
+“With an Animate Object wand...” Ren said and took out a wand and changed the charges on it. “...and the Permanency spell...” He took out the wand with that spell. “...we have an army to defend the place!”
+
+“You just have to distribute them along the walls.” Tee-one said.
+
+“I'm going to cover the walls first.” Ren said and grinned. “I can add Iron Walls and make them permanent.”
+
+“Oh, wow.” Tee-one said. “You really are going to abuse that spell.”
+
+Ren laughed. “You know it!” He said and ran to the door. “I'll be back in a little while!”
+
+Tee-one and Ruck waved, and Ren ran across the road to the Main House to get Princess, and she agreed to help him. He rode her out to the main gate and once there, he took out his armor chest plate and exchanged 3 of the wands there with Permanency, Iron Wall, and Widen Effect.
+
+“Yeah, baby!” Ren said and equipped his armor. He used the Iron Wall spell to make a 20 foot by 20 foot by 5 inch thick wall, which was the default for the spell at Level 5, then used Widen Effect on it. It doubled the dimensions and the wall was now 40 feet by 40 feet by 10 inches thick. The height of the dirt wall that surrounded the county was 40 feet high, so it was perfect with only a single shot of each spell. Ren cast Permanency on the Widen Effect, and then on the Iron Wall itself, which took two spells; but he could refill the wands as much as he wanted anyways, so that was okay.
+
+“Can you start trotting, Princess?” Ren asked as he stood up on her saddle. He took out another wand from the rack on his armor and replaced the charges with Permanency, so he would only have to stop when all 4 wands were empty. Ren used the wands 50 times and covered 2,000 feet in 10 minutes.
+
+“Okay, I think I've got it down. Wall, Widen Effect, Permanency, Permanency.” Ren said and recharged the wands. “I could even do both Permanency spells at the same time; so the faster we do this, the faster it gets done.”
+
+Princess huffed in agreement.
+
+“Just replace all the wands you have, Ren.” Teepo suggested. “We won't have to stop at all until all 24 of them are empty.”
+
+“That's a great idea, Teepo!” Ren said and replaced them all with the proper spells. 6 wands had Iron Wall, 6 had Widen Effect, and 12 had Permanency because he needed double them. “Princess! Let's go!”
+
+Princess ran faster and faster as Ren got used to the pattern. He had missed a few Permanency spells and had to go back to replace them; but other than that, it worked well. They had to stop every 3 miles to recharge the wands, and they went faster and faster. They finished the entire front side of the 50 mile long wall in only an hour, and Ren had Princess run back to the middle where the road was. He used an Iron Wall spell to make one tall square door for one side, and then another. He didn't have giant hinges to mount them, though; so, he left the doors open.
+
+“Now for the soldiers.” Ren said and took out a dozen muscle men with swords from the first storage ring. He then took out the Level 5 Wand of Inanimate Life and it let him animate 2 at a time. He imbued them with a soldier mentality and charged them with protecting the county and it's citizens. He cast Permanency on them, and told them to take their positions. He repeated this 5 more times and all 12 stood at attention, 6 on each side of the doorway against the wall, and they waited.
+
+Ren nodded and rode Princess back to the Main House and tucked her inside. The Mayor's door was still closed, and Ren used his Heat Sense Aura to check if she was in; and she wasn't. He deactivated the Heat Sense Aura and left the Main House, then ran over to Janice's place. He knocked on the door, and a moment later she opened it.
+
+“Hi, Ren!” Janice said, and she had a huge smile on her face. “Are you ready for your lesson?”
+
+“Are you?” Ren grinned, and she laughed.
+
+“Despite my total lack of decorum when you 'cleaned me up', I'm okay now.” Janice said, and Ren stepped inside and she shut the door. “At the time I didn't know why I played with myself with you watching.”
+
+“I figured it was because that's what you've gotten used to.” Ren said, and Janice looked at him.
+
+“That's what I realized, too.” Janice said. “It's... well, it's just not the same if...”
+
+“It's more fun with an audience.” Ren said and smiled. “Make that a willing audience.”
+
+Janice chuckled and opened the door to her shop. “I guess that means you liked it.”
+
+“I've never seen a woman do that before.” Ren said and stepped by her. “I didn't know that it could be something I'd like; so, yeah. It was really nice.”
+
+“W-wait.” Janice said and put a hand on his shoulder, and he turned to look at her. “I was the first one to...”
+
+Ren nodded. “Damn, it was sexy.” He said. “I had no idea that a woman could have so much confidence in herself that she could do something like that, and not be embarrassed even a little bit.” He chuckled. “I've been out working for nearly two hours, and I'm still hard because of it.”
+
+“Wh-what?”
+
+“After this lesson, I'm going to head back to the house just so I can relieve my tension.”
+
+“I can do that for you.”
+
+Ren shook his head. “If you do that for me, you're going to want me to go further.” He said. “I can't do that.”
+
+“I'll only use my hands.” Janice said. “I promise.”
+
+Ren chuckled, because he could feel her naughty streak. “You say that now...”
+
+“Okay, one hand and I'll even close my eyes.” Janice bargained, and Ren laughed.
+
+“Janice, I appreciate the offer.” Ren said and took her hand. “But, we both know those are empty promises.”
+
+Janice opened her mouth to say they weren't, and then she thought about it. “Well, even with my eyes closed, I'll want to at least lick it.”
+
+Ren grinned. “Be honest.”
+
+“You visit me to apologize, give me a ton of money, then just casually tell me you've recently satisfied 10 women.” Janice said and chuckled. “Of course I'm curious!”
+
+“Have you gone over to the Pleasure Palace yet?” Ren asked.
+
+“No, I've been too busy.”
+
+“Let's go over there after we make a few mirrors, and you can talk to Jennifer.” Ren said. “I'm sure she'll have an interesting story for you.” He grinned. “Plus, I want to put up the mirrors on the walls and on the stage so they can make the place even more outstanding.”
+
+“That's actually a great idea.” Janice said. “It should give the illusion of more space.”
+
+“I'd want some on the ceilings in the private rooms, assuming the girls want them.” Ren said. “Just to give them something to look at while... well, you know.”
+
+“I never thought of that.” Janice said and smiled. “Let's get to your lesson.”
+
+They went to the large glass forge in her shop and set out a 1 foot by 1 foot mold on the floor, and she poured out a single small pane of glass. Ren absorbed the heat from it and popped it out.
+
+“I wish I had that ability.” Janice said as Ren handed her the glass, and she placed it on the workbench.
+
+“It's no good on it's own, unless you've got a very high affinity and resistance to Fire.” Ren said. “Otherwise your body can't handle it.”
+
+“Really?” Janice asked, and he nodded. “Never mind, then.” She said and picked up a crucible. “In real life, you need a ton of chemicals and solutions to make a mirror. It uses silver nitrate and ammonia mostly, in various amounts mixed together in a complicated process.” She took out a single silver coin and a small chunk of iron ore, added it to the crucible and stuck it in the glass forge. “When applied to a surface, the silver ions stick to the glass.” She explained and added wood brackets around the piece of glass. “It's dull though.”
+
+“Dull?” Ren asked, and she nodded.
+
+“That's why you always apply it to the underside of the glass you want to use.” Janice said and took out the crucible and used a small metal rod to stir the metal and put it back in. “The air forms the dull sheen, but the part touching the glass is protected.”
+
+“You're kidding.” Ren said.
+
+“Nope.” Janice took out the crucible and scooped off the impurities, and stirred it up more. “I think that's good enough for a test piece.” She said, and held it out to wait.
+
+“What are you doing?” Ren asked.
+
+“If you pour it on while it's still completely molten, it could warp the glass and ruin the mirror.” Janice said and poured a few drops of the silver-steel onto the prepped glass. She used a spreader to swirl it around and kept doing it until the whole surface was covered. She still had quite a lot of silver coating left, so she stuck the crucible back into the glass forge so it would stay molten, then blew on the pane of glass several times. Ren tried his best not to imagine that she was blowing on something else.
+
+“Okay, I think that's got it.” Janice said and moved the wood braces out of the way, and picked up the glass. “Ready?”
+
+Ren nodded, and she flipped it up to show him his perfect reflection. “Holy crap!”
+
+Janice laughed. “Amazing, isn't it?” She asked and turned it to look at herself. “Who's that gorgeous thing I see?”
+
+Ren felt that she was unjustly mocking herself, and reached out to touch her shoulder. “It's you.”
+
+Janice blinked her eyes and turned to look at him. “What?”
+
+“I'm just answering your question.” Ren said. “The gorgeous thing you see in the mirror is you.”
+
+“B-but, I... I was joking.”
+
+“I didn't think it was a joke.”
+
+Janice's face flushed a little red.
+
+“Is it my turn to do it?” Ren asked, and she smirked.
+
+“You said I couldn't do that to you.”
+
+“I didn't say you couldn't.” Ren grinned back. “I said you wouldn't be able to stop from going further.”
+
+“Fair enough.” Janice snorted a laugh. “Go ahead and pour another pane of glass.”
+
+Ren did it in 2 seconds and handed it to her. She set up the wood braces and pointed to the glass forge. Ren reached in and picked up the crucible with a bare hand and he remembered how much she had used on the other pane. He used his Fire Manipulation skill to keep the glass from getting hot and poured the silver-steel over the back of it and used his fingers to spread it around and made sure it covered everything as he absorbed the heat from it.
+
+Janice had watched in fascination and shock as he did in seconds what had taken her almost 10 minutes to do. Ren put the nearly empty crucible back into the glass forge and moved the wood braces out of the way and picked up the mirror to show Janice her own reflection.
+
+Notice!
+
+You have unlocked a new sub skill under Glassworking: Mirroring Level 1 (Beginner 0%)
+
+This skill allows you to apply various metals to glass to make mirrors. Higher levels will allow faster crafting and application of it's effects to much larger pieces of glass with less warping, and can make mirrored effects on other materials.
+
+Cool. Ren thought. “How does it look?”
+
+“It's... fine.” Janice said, and Ren felt sadness from her.
+
+“Hey, don't feel bad about this.” Ren said and put the mirror down. “I can pick up skills pretty quickly, but having the ability to use those skills still takes time.”
+
+“But... you just... in seconds.”
+
+Ren chuckled. “That's only because I can absorb the heat.” He said. “Look at the mess on the back because I used my fingers.”
+
+Janice picked up the mirror and flipped it over, and Ren was right. His fingerprints were all over the back, and it was streaked all over.
+
+“Now look at yours.” Ren said and she flipped hers over to compare them. “It's going to take me a long time to get to your expertise.”
+
+Her mirror was perfectly flat and you couldn't tell where she had added each set of drops and used the tool to spread it out.
+
+“But...”
+
+“Janice, you're a fantastic glassworker.” Ren said and went to touch her with his hand, saw the fingers were covered in silver, then switched hands and touched her with his clean hand instead. “Don't you dare be discouraged by my ability to pick skills up so quickly.”
+
+Janice nodded.
+
+“By the way, while you were huffing and puffing and blowing on the silver backing to cool it, I was trying to not imagine that I was a little piggy that wanted you to blow my house down.”
+
+Janice snorted and then laughed out loud.
+
+“On that note, I better go.” Ren said and turned around to leave, then Janice's arms wrapped around him. She leaned down to hug him from behind.
+
+“This she-wolf needs to check if your house is made of straw.” Janice said, and her hand slid down and over his crotch. “Mmm. It's made of bricks.” She said as she rubbed him, kissed his ear, and whispered. “Little pig, little pig. Let me in.”
+
+Ren took in a deep breath and let it out. “N-not by the h-hair of my chinny-chin-chin.”
+
+Janice stopped rubbing him and moved around to his front. “Oh, you silly little pig.” She smiled, leaned in, and kissed his chin. “You don't have any hair on your chin.”
+
+Ren stared at her as she knelt down in front of him. Janice looked up at his face and didn't see a 'no' there, so she used her hands to undo his pants and pulled them down.
+
+“I'm going to huff.” Janice said as she looked at how excited he was and put a hand around it, then moved her hand up and down once. “I'm going to puff.” She said and took a deep breath to prepare herself for what she was about to do, and looked back up at him. “I'm going to blow your brick house down.”
+
+Ren didn't say no, or even shake his head; mainly because he was really turned on by their little word play, and how she had so easily twisted his joke around to her advantage. Janice took his silence as permission and tried her best to blow his house down.
+
+********
+
+“I guess Stella was right.” Barbara said as the Blue Screen Protocol once again engaged. She sighed and looked at Ren's inert form on the bed. “Once that can of worms was opened, you really can't get enough of it, can you?” She pat his immobile hand. “You poor thing.”

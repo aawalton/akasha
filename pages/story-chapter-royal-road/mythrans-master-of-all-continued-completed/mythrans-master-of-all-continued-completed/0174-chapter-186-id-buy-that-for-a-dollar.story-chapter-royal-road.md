@@ -1,0 +1,257 @@
+---
+id: 0695f2bd-a92f-574a-a71e-40a8e72dfe6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 186 - I'd Buy That For A Dollar"
+slug: 0174-chapter-186-id-buy-that-for-a-dollar
+partOf: mythrans-master-of-all-continued-completed
+position: 174
+ownLength: 2935
+unit: words
+publishedAt: 2017-03-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121770/chapter-186-id-buy-that-for-a-dollar"
+royalRoadId: "121770"
+---
+
+“Now you've done it!” Lord Eric said. “We're stuck!”
+
+“I guess I didn't really think this part through.” Ren said.
+
+The room was only about 12 foot square; so, 50 million copper coins took up a significant portion of it. In fact, the coins were about 5 feet deep and would have been above Ren's head, had be been stupid enough to stand still while the coins poured out. He was smart, though; and had stayed above it for the most part. He was only 'stuck' up to his waist in them, while Lord Eric was chest deep and his arms were trapped.
+
+“Get me out of here!” Lord Eric yelled.
+
+Ren laughed again and made his way to the door through the mass of copper coins. He walked as if they weren't there, thanks to his Rock Steady and Unstoppable abilities, that let him move through moderate obstacles without slowing down. When he got to the door, Ren realized that he had a problem. He couldn't reach the door handle. He tried to dig down, but there were so many coins packed so tightly together, that they just filled in the space he emptied before he could take another handful away.
+
+“Try a shovel.” Teepo suggested, and Ren took out a shovel and started to dig.
+
+“Stop!” Lord Eric shouted. “Are you trying to kill me?”
+
+Ren had uncovered half of the door and had almost reached the door handle, when he turned around to see Lord Eric was up to his neck in coins.
+
+“Oops.” Ren turned back to the door, as the coins started to slide back into place. “You better hold your breath!” He said as he took several more scoops out with the shovel, stored it, then dove head first into the coins. They flowed over him quickly, now that he was upside down and tried to push through them. Ren reached down blindly and felt around. His hand found the door handle a few moments later, and he turned it.
+
+The pressure of the coins in the room burst out through the sudden release. Since Ren was at the doorway, and upside down at the time, he rode the wave of coins out into the drawing room. He ended up halfway across the room at the feet of the three ministers, and smiled up at them as they stared down at him in shock.
+
+“What... what...” The Trade Minister tried to speak.
+
+“What in the world?” The Defense Minister said.
+
+“MONEY!” The Finance Minister said, and dove into the pile. Ren pushed his way out of the pile, then laughed as he stood up and saw the Finance Minister, who pretty much swam through the pile of copper coins like it was water. Lord Eric was released from his money trap, and had flowed out of the room right behind Ren. The other two ministers helped him dig out of the pile of copper coins, and he stood up and turned to Ren.
+
+“You... you!” Lord Eric fumed, and waved at the mass of copper. “Look at all of this!”
+
+“It's pretty cool.” Ren said. “I've never seen this many coins before.”
+
+“FIFTY MILLION COINS!” Lord Eric hollered.
+
+“You're right.” Ren said. “I almost forgot the gratuity.” He opened his coin vault and selected two-and-a-half million (2,500,000) copper coins, and dumped it out onto the pile.
+
+“Ha ha hahahaha!” The Finance Minister laughed as the coins showered over him.
+
+There was a knock on the drawing room door, and a maid came in.
+
+“Lunch is rea-OH MY GOD!” She put a hand out and leaned against the wall. “I... I... I just cleaned this room!” She sat down on a chair by the door and stared at the pile of fifty-two-and-a-half million (52,500,000) coins.
+
+Lord Eric composed himself and straightened his clothing, then strode towards the drawing room's door.
+
+“Clean this up!” He said to the maid's shocked expression, and left the room with the Trade and Defense Ministers right behind him. Ren turned to the Finance Minister, and tried to not laugh at his behavior.
+
+“Sir? Can I speak to you for a moment?” Ren asked him, when one of the Finance Minister's laps through the money brought him close enough to Ren to be heard over the sound of the coins crashing together. The Finance Minister stopped pretending to swim, stood up, and waded over to Ren.
+
+“Of course.” The Finance Minister said. “It's a good thing that the entire mansion has been magically reinforced.” He smiled. “I haven't seen this many coins at one time, either.”
+
+Ren grinned. “It's too bad Lord Eric doesn't share our view.”
+
+“Ha!” The Finance Minister said. “That old stick-in-the-mud wouldn't know real fun if it bit him on the ass.”
+
+Ren snorted a laugh. “Don't let him hear you say that.”
+
+The Finance Minister grinned. “It'll be our little secret.” He said. “Now, what do you need to talk about?”
+
+“I bought half of the lots in the Housing District.” Ren said. “I was told to come to you to pay the taxes.”
+
+“Oho!” The Finance Minister said. “Half of the District? That's 7 lots.”
+
+“There's another house I bought for someone else on the other side, so 8 total.”
+
+“The taxes are a platinum coin a year, so you will owe the Principality of Aurora 8 platinum.”
+
+“When is it due?”
+
+“Usually within the first 6 months of ownership.” The Finance Minister said. That will cover the entire year, until the next year's is due.”
+
+“Do I pay you directly, or do I have to send it somewhere?”
+
+“You can pay me directly, once we go to my office and get the forms.”
+
+Ren's Haggle skill activated, and he smiled mentally. “When I bought the warehouse in the Artesian District, Sally said there was a deal on the taxes if I paid for them upfront.” He said. “Is there a chance I can get some kind of deal if I pay a few years upfront?”
+
+“How many years?” The Finance Minister asked.
+
+“I don't want to have to think about it for a while.” Ren grinned. “So, the same as the warehouse. 10 years.”
+
+The Finance Minister's eyes widened. “You want to pay 10 years of taxes upfront.”
+
+“Sure.” Ren said. “That way, you get an influx of money that you didn't expect, and I don't have to worry about bothering you every year for a measly 8 platinum coins.”
+
+The Finance Minister grinned and put an arm around Ren's shoulder. “My boy, I'll give you deal. You pay the full amount for the half of the Housing District that you bought, and I'll let the other house ride along.”
+
+“Hm. 70 platinum in one shot is a little steep.” Ren said. “What about 60 platinum, and a donation of 3 platinum to the Finance Minister's wife.” He said, and smiled. “So she can throw you a big birthday party or something.”
+
+“Carmilla has been bugging me for a good party lately.” The Finance Minister grinned. “65 platinum and 3 for the donation.”
+
+“62 platinum, 3 for the donation...” Ren grinned. “...and I'll pay with actual platinum coins if you want.”
+
+“I'm tempted to let you fill my office, too.” The Finance Minister laughed, and the maid groaned. “But, you have a deal.”
+
+They shook hands, and walked to the drawing room's door.
+
+“My office is only 2 doors down, and across the hall.” The Finance Minister said.
+
+“I'll be right there.” Ren said, and stopped in front of the maid.
+
+“I'll get the paperwork ready.” The Finance Minister said, and left the room.
+
+Ren knelt in front of her, but the maid ignored him and kept staring at the mounds of copper coins.
+
+“I'm sorry about this.” Ren said. “But, it's okay.” He took out the sack Lord Lodur's loot was in, and held out the empty coin pouch. “You can scoop the coins in, or run the coin pouch through the pile.” He said, and showed her both ways. She blinked at him, and he showed her again. “It'll still take a while, but not nearly as long as you think it will.” He said, and gave her the coin pouch. “Lord Eric didn't say you had to do it alone, either.”
+
+The maid looked at him, and she smiled as Ren handed her a couple more coin pouches.
+
+“While I'm at it...” Ren took out a gold coin. “I've got a shiny toy for you to play with.”
+
+“T-t-toy?”
+
+Ren nodded. “You play with them like this.” He said, and spun it on the floor. Her eyes brightened as the gold spun and clattered to the floor. Ren spun it again, and when it stopped he handed it to her. “How many other maids are there?”
+
+“Six.”
+
+Ren took out 6 more gold coins. “Give one of these toys to each of them.” He said. “It's not money, it's a toy. They can play with it for as long as they want, then they can take these toys to any store and exchange it for other things.”
+
+She looked at the gold coins. “They... they're toys.”
+
+“That's right.” Ren said. “You don't have to give 95% of a toy to Lord Eric.”
+
+The maid looked at him with one of the brightest smiles he'd ever seen.
+
+“T-th-thank you!”
+
+“Please, don't thank me.” Ren said and stood up. “If I could, I'd offer to buy all of the maid's contracts from him.” He sighed. “He'd never sell them to me, though.” He looked at the mess he'd made. “I almost had to twist his arm just to get Anabelle's from him.”
+
+The maid took his hand. “I'll tell the other maids what you did.” She said. “And what you offered.”
+
+Ren squeezed her hand. “Get some help with this, and have fun.” He let her hand go. “Pretend you're the Finance Minister.”
+
+The maid laughed. “Yes, that's a good idea.” She stood up and held the drawing room door open for him. Ren stepped out and walked down the 2 doors and across the hall, and knocked. He went inside and signed the forms that were needed, then handed over the money for the taxes. He also paid the tip, and then the Finance Minister's wife came in. Ren stood up immediately, and took her hand.
+
+“It's a pleasure to finally meet you, Ma'am.” Ren said, and lightly kissed her fingers.
+
+“Oh, my.” Carmilla said as Ren let her hand go, and she looked at her husband. “You weren't kidding when you said he was a handful.”
+
+The Finance Minister chuckled. “Wait until you see the drawing room.” He said. “It was so nice to swim in money again!”
+
+Carmilla laughed and looked at Ren. “My husband has a bit of a money fetish.”
+
+Ren's eyes widened in mock surprise and he gasped. “Oh no!”
+
+Carmilla laughed again. “You are going to be such a delight when the rest of the Minister's wives meet you.”
+
+“That reminds me.” Ren said and looked at the Finance Minister. He nodded, and Ren took out 3 platinum coins. “I'd like to make a donation to you, so you can throw a party for your husband's birthday or something.” He handed the coins to Carmilla, and her mouth dropped open.
+
+“Wh-what?!?”
+
+“I discussed it with your husband, and he said you've been dying to have a party.” Ren said. “So, go ahead and have one.”
+
+Carmilla looked at Ren, and then at her husband. “Is he serious?”
+
+The Finance Minister laughed. “Come on. I'll show you what he did in the drawing room, on our way to lunch.” He said, and stood up to come around his desk. “Then you can answer that for yourself.”
+
+She took her husband's arm as he passed, and Ren followed them down the hallway. He kept walking when they went into the drawing room, and Carmilla's laughter followed him into the lobby.
+
+“Donna's not in the kitchen or her office.” Teepo said, and flew back to Ren.
+
+Any idea where the dining room is? Ren thought.
+
+“Nope.” Teepo said. “Want me to start looking?”
+
+No, that's all right. Ren went to Donna's office, and sat down in the chair in front of her desk. I'll just wait here for her.
+
+“You could skip out and avoid her.” Teepo suggested.
+
+If I left now, she'd hunt me down; or make me pay for it the next time she saw me.
+
+“Yeah.” Teepo chittered in laughter. “She seems like that kind of woman.”
+
+Ren smiled and looked at his Dwarf Recruit uniform. You know, now that I have overall command of the Garrison, I think I need a new uniform.
+
+Ren took out enough cloth to make one, and searched through the patterns he had memorized, and found the officer's uniform. It was just like the Commander's uniform, and he made it in about 20 minutes. He added his name tag and the proper insignia for overall command, then equipped it. It shrunk to fit him, and he smiled.
+
+I wonder when lunch will be ov-
+
+His thought was cut off when Donna came into the office. She smiled at him as she shut the door, then froze when she noticed his new uniform.
+
+“Oh, my GOD!” Donna exclaimed. “Ren! You're allowed to wear your recruit uniform because you wore it during actual service! You can't just make any uniform you want and wear it!”
+
+“Actually, I can make any uniform that I have the pattern for.” Ren grinned. “This one is real, though.” He showed her the deed to the Garrison. Donna's mouth dropped open as she read the deed, and discovered Ren was personally charged with the defense of an entire Kingdom.
+
+“Oh, my GOD!” Donna exclaimed again, picked Ren up, and tucked him under her arm. She opened her office door, ran out into the hallway, and towards the front door.
+
+Rebekka had just returned from lunch herself and stepped out of her office. “What is all this yelling about?” She asked as she looked around, then Donna ran by her. “Donna! Where are you going?”
+
+“Lunch break!” She said and ran out through the mansion's front door, around the corner, and down the street. Teepo chittered in laughter as Ren was carried 3 streets over and down the street a little, then into a small 1 storey house. Donna kicked in her door, slammed it shut, then unceremoniously plunked Ren down onto her bed.
+
+“Donna!”
+
+“I've only got half an hour to spend with you, and I'm not wasting any of it!” Donna said, and whipped off her clothing as if she had stored it. Ren chuckled as he stored his new uniform, then Donna jumped on top of him.
+
+Twenty-five minutes later, they held each other in the bed, and cuddled in the afterglow.
+
+“What... what in the world was that last position we did?” Donna said, a little breathless.
+
+“I think it's called a 'pancake'.” Ren said. “I'm not sure why.”
+
+Donna stroked his hair. “It might be because you were trying to fold me in half, then push me flat as a pancake.”
+
+“I didn't hear you complain at the time.” Ren said, then grinned as Donna laughed.
+
+“That's because all I could think about was how it felt.” She said. “Good god, Ren.” She put a hand between her legs and licked her lips. “I can still feel it!”
+
+He chuckled. “Then my job is done.”
+
+“Unfortunately, yes.” Donna said, and pulled him in for a kiss. “We've only got a few minutes left, and I can still walk straight.” She smiled. “I think.”
+
+Ren laughed. “I'll try to do better next time.”
+
+“Just... just don't wait a whole month to come and see me.” Donna said, and blushed slightly. Ren took her hand and kissed her fingers.
+
+“I can't promise it'll be soon.” Ren said. “I've finished the Main House in my County... and I'll be opening my shop today.”
+
+“Really? That's wonderful!” Donna said. “I'll have to come by after work to see it.”
+
+“You can come by, but I won't be there.” Ren said. “I've got to get back to the Dwarven Kingdom.”
+
+Donna sighed. “So, just this short time with you is all I get.”
+
+“For now.” Ren said. “I only get one day off a week, and I can't promise I'll be spending it here in Aurora.”
+
+“Time's up.” Teepo said from the living room.
+
+“Your lunch time is over.” Ren said to her, and she sighed again.
+
+“I'm tempted to call in sick.” Donna said, and Ren smiled.
+
+“I've got to go, too.” He said, got out of bed, and equipped his new uniform.
+
+“I can't believe you've got command of the entire Dwarf Army!” Donna got out of bed and put on her clothes.
+
+“Me, either.” Ren said. “The cost to run it, is staggering.”
+
+“No doubt.” Donna said and took him into a hug. “Thank you for coming to see me.”
+
+“Like I had a choice!” Ren said and grinned. “That was the first time I've been carried like a suitcase.”
+
+Donna laughed as Ren followed her out of the bedroom. They left her little house, then walked down the street. It only took a couple of minutes to get back to the mansion, and Donna pulled him behind one of the hedges and kissed him.
+
+“Don't make me wait too long before you come back.” She said, then walked away and into the mansion.
+
+She didn't even say goodbye. Ren thought, then ran up the street towards the Artesian District.

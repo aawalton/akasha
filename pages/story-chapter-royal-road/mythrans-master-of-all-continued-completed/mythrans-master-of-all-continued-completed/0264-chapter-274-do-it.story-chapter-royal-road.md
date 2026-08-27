@@ -1,0 +1,303 @@
+---
+id: 48424bc6-fbee-5602-bc6b-9f0d04cc9bd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 274 - Do It!"
+slug: 0264-chapter-274-do-it
+partOf: mythrans-master-of-all-continued-completed
+position: 264
+ownLength: 3419
+unit: words
+publishedAt: 2017-06-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140741/chapter-274-do-it"
+royalRoadId: "140741"
+---
+
+Gloria was exhausted, and Ren was still raring to go. They'd done the obstacle course several times without the Stamina restriction, several times with the Stamina restriction, and then they did a series of exercise routines that used every range of motion the human body could do. Once they had all that data for the three of them, Ren told Stella how he had felt when he'd first increased his own weight by 32% in the game. He explained that it was before he'd gotten his Rock Steady ability that let him move normally, despite the burden he carried.
+
+“We have to try that!” Stella said. “If it's close to what you experience in real life, then we have to experience it for ourselves.”
+
+“Hold on.” Ren said. “Don't jump right to that point.” He chuckled. “Work up to it, just like I did. Do 10% first, see how it feels. Then go to 20%.” He smiled. “If you can handle that much, you can go to 32% and see what it's like to be me in real life.”
+
+“Agreed.” Stella said and increased the gravity by 10%. The three of them did the obstacle course again; but, they were quite a lot slower than they had been.
+
+“That wasn't too bad, actually.” Stella said. “I'm pretty confident that we can do 20%.” She looked at Gloria. “What do you say? Another gravity boost?”
+
+“Give... me a minute...” Gloria said.
+
+Ren smiled at her. A minute later, Gloria stood up and nodded. Stella increased the gravity and both of them grunted.
+
+“Come on!” Ren said and walked off to the obstacle course. “Twenty percent is nothing. You have to do better than that to see what it's like to be me.”
+
+Gloria and Stella looked at each other, nodded, and walked after him. Ren finished the obstacle course, and came back to help them over the last part of the course.
+
+“That's it. Keep going!” Ren urged Stella. “Lift your leg a little more! There! You got it!” He practically lifted her over the last obstacle, and sat her down at the end. He went back to Gloria, and helped carry her through the last several obstacles with her arm over his shoulders. They finished the course, and he sat her down beside Stella. He then sat in front of them and grinned.
+
+“Boy, you're really out of shape.” Ren commented, and they both flipped him off with their middle fingers. He laughed and opened the administrator tools, then reset the gravity back to normal. Both women gasped in relief and fell onto their backs.
+
+“Oh, wow.” Gloria said as she finally caught her breath. “You feel like that every day?”
+
+“Nope.” Ren said. “Do you want to feel what I feel every day?”
+
+“I don't... but, I will.”
+
+“Me, too.” Stella said. “I'm staying on the floor, though.”
+
+Ren laughed, and set the gravity to 32%.
+
+“Ahh!” They said, and Ren reset it back to normal.
+
+“Good god!” Stella said. “How... I mean, I'm your nurse, but...” She sat up and looked at him. “You're amazing.”
+
+Gloria sat up herself and looked at him. “You didn't react at all when you did that.” She said, and he shook his head.
+
+“Like I said, I experience that every day; and I've done it in the game, too.” Ren smiled. “I think I got a few points in Strength and Endurance at the time, for the hour or so that I walked around Aurora.”
+
+“But... you don't have the game enhancements here.” Gloria said. “It was one of the main things Stella wanted removed.” She said. “It was the only way to test you, and not your character.”
+
+“That's also why we look just like ourselves in here.” Stella said. “A difference in the real us and the virtual us would automatically call the data into question, and be subject to tampering or manipulation by us.”
+
+Ren nodded. “I figured that was why.” He said. “So, what do we do now?”
+
+“Free weights.” Stella said. “Your brain will automatically struggle when it reaches the body's perceived limit.” She explained. “Even though this is a virtual space, it's still using your mind.”
+
+Stella set up the bench press with the Administrator menu, and added a small popup to keep adding weight when it was pressed.
+
+Gloria decided to go first, just so she could get it over with. She started light and did a few reps. When she was up to 120 pounds and a ton of sweat, she called it quits. Stella reset it and Ren did his set. When he got up to 260 pounds, he couldn't do more than three reps.
+
+“I'm done!” Ren gasped and let the bar drop to the holders. He rolled off the bench and took several deep breaths. Stella kept adding more weight when he asked, and didn't realize how much it was until she looked at the total after he finished. She was too surprised to say anything.
+
+“How the hell did you do that?” Gloria asked Ren, and helped him stand.
+
+“Do what?” He asked her. “I was just lifting weights like you were.” He said, then looked at the weight on the bar. “Holy crap!”
+
+“Holy crap is right.” Gloria said. “It's just over double what I can do!”
+
+“Well, I guess we know what I can do if I had a normal body.” Ren chuckled. “Now I'm tempted to try this same exercise with 32% more gravity.”
+
+“I couldn't, and won't, authorize that.” Stella said. “I won't let you get hurt during these tests.”
+
+Ren looked at her, and smiled. “What's next?”
+
+“Only a marathon.” Stella joked, and Ren nodded.
+
+“Load it up!” He said. “Let's see how far we can go!”
+
+“I was joking.” Stella said. “We can't run a marathon in here.”
+
+“Why not?” Ren said and opened the Administrator menu. “Look, we can have a circular track right here.” He looked at the options, and smiled. He made a circular track appear, along with a field and a few trees. He set the lap counter and a distance scoreboard by the starting line. Their names appeared on it, along with a timer.
+
+“Let's go.” Ren said and walked over to it.
+
+“Ren, we can't.” Stella said. “I have so many other things for us to do today.”
+
+“Did you take into account the 8 times speed of time into that?”
+
+“Not really.” Stella sighed. “Okay, but only for half an hour.”
+
+Thirty minutes popped up on the scoreboard and Ren went to the starting line. Stella looked at Gloria, and she shrugged. They both walked over to stand on either side of Ren.
+
+“On your marks!” Ren said, excitedly. “Get set!” He half-bent over, and grinned. “GO!” He took off at a fast run, then Stella and Gloria ran after him.
+
+********
+
+Detective John Ramirez and Officer Holly Stonewall arrived at the Point after a two hour drive. He'd taken her around to show her the different sights that even the tourists didn't get to see, then drove over to his sister's place. He parked on the side of the road because he didn't want to block the driveway, or any cars that might come and go from the house while he was there.
+
+“Just a second.” John said to Holly. He hopped out of the car and ran around to her side to open her door. She laughed and got out.
+
+“You're not going to do that every time, are you?” Holly asked him, then stretched her arms up high, arched her back and sighed.
+
+John was completely distracted by the show she was putting on, and forgot what she'd asked.
+
+“I can open my own doors, you know.”
+
+“Of course you can.” John said, now that she'd reminded him. “I just don't want you to think that I'm completely unchivalrous.”
+
+Holly chuckled. “Uh huh.” She said. “So, the last 2 years doesn't count?”
+
+John laughed. “We've always been working.” He said. “I can't very well treat you the way a woman should be treated, if the only time we spend together is at work.” He stepped back and motioned towards the house. “You'd kick my butt so hard that I'd pass the prostate exam for the yearly physical before I even took it.”
+
+Holly laughed. “Damn right I would.” She said, and started to walk towards the house. John walked beside her, and gave her a warning.
+
+“My sister is very protective of family.” John whispered as they approached the front door. “She's also a little overbearing.”
+
+“And you're not?” Holly said out of the side of her mouth as they stood on the doorstep. John let out a single bark of laughter, then rang the doorbell.
+
+“JOHN!” A woman's voice yelled after the curtain in the window moved slightly, then the front door flew open. She jumped up into his arms, and he laughed as he caught her.
+
+“You can't keep doing that, Tanya.” John said. “I'm not as young as I used to be.”
+
+“Are you trying to say I'm fat, you big lummox?!?” Tanya nearly yelled at him, but she had a huge smile on her face.
+
+“No.” John said and put her down. “I'm telling you I'm getting too feeble to hold your weight.”
+
+“You cheeky bastard!” Tanya laughed as she pinched his cheeks.
+
+Holly stood there and watched their interaction. She compared their physical features, and they were pretty close to the same. Her face was more delicate, her nose was smaller; but they had the same lips, eyes, and hair color. They were definitely related; but for the life of her, she still couldn't see why they had the last name of Ramirez. They were both tall and had blonde hair; and as far as she knew, John didn't speak a word of Spanish.
+
+Tanya stopped teasing her brother and looked at the short woman that stood next to him. She was only 5 feet tall, had short blonde hair, and looked like she wouldn't take crap from anyone.
+
+He finally found a feisty one. Tanya smiled at that thought. “Hi! I'm Tanya.” She said and held a hand out for Holly to shake. “I figured I better introduce myself, since he didn't do it already.”
+
+Holly smiled and shook her hand. “Hi. I'm Holly.”
+
+“Oh, I know who you are.” Tanya smiled. “This guy can't stop talking about you when I call him on the phone.”
+
+“For god's sake, Tanya.” John shook his head. “We haven't even gotten through the door yet, and you're already starting in on her.”
+
+“It's not my fault you think the world of her!” Tanya said and stepped aside to let them into the house. Holly and John walked by her into the foyer.
+
+“Uncle John!” His niece Nancy said, and ran over to him. She did the same thing as her mother and leaped up into his arms. John caught her easily, as she was half the size of his sister.
+
+“I might have to warn you about this, too.” John laughed and Nancy giggled.
+
+“I'll stop when mom does!” Nancy said as he put her down. She was about the same height as Holly; around 5 feet tall, and John hugged her tightly.
+
+“Happy Birthday, Nancy.” John said.
+
+“What did you get me?” Nancy asked.
+
+“Nancy!” Tanya exclaimed. “You have to wait until tomorrow for that.”
+
+“But moooom!” Nancy pouted. “He's my favorite uncle!”
+
+“He's your only uncle.” Tanya said and chuckled. “Now get your butt back into the living room with your friends.”
+
+“Fine.” Nancy rolled her eyes, then looked at John. “You're staying for supper, aren't you Uncle John?”
+
+“That depends.” John said as he looked at Tanya. “Did you make it?”
+
+“Of course I did.” Tanya said. “When my brother calls me out of the blue to ask me to make my famous Secret Ingredient Recipe Lasagna...”
+
+“Shh!” John said and put a hand over his sister's mouth. “Don't listen to her, Holly.” He said. “She's delusiona-OW!” He pulled his hand back and saw teeth marks on one of his fingers. “That hurt!”
+
+“That's what you get!” Tanya said. “You play with the bull, you get the horns!”
+
+Holly and Nancy laughed.
+
+“I think it's bleeding.” John said, and sucked on it.
+
+“Don't be such a big baby.” Tanya chuckled. “Go wash your hands if you're so worried about it.”
+
+John kicked off his shoes and disappeared into the bathroom.
+
+“I didn't bite hard enough to draw blood.” Tanya said. “He's just looking for a way to garner some sympathy.”
+
+Holly nodded, and Tanya took her hand. “Let's go to the kitchen and have some girl talk.”
+
+“I... um...” Holly hedged to stall for time.
+
+“It's okay to leave his side for a few minutes.” Tanya said and started to walk down the hall while she dragged Holly behind her. Nancy went back into the living room to her friends, and Tanya parked Holly on a stool in front of the counter she had been making appetizers on.
+
+“So, how long have you liked my brother?” Tanya asked.
+
+“Wh-what?”
+
+“Come on, Holly.” Tanya said. “No woman that didn't at least like a man, would agree to come and visit his family for the weekend.”
+
+Holly opened her mouth to say that it wasn't like that; but, then she had to stop and think about it. Do I like him like that? She asked herself. He's a nice guy, that's true... but, he's also a detective... and my partner...
+
+Tanya smiled as she saw Holly actually think about it. Good. She thought. The seed has been planted and fed. She kept smiling as Holly hummed and hawed about it. You'll have to discover for yourself if the harvest is worth it, John.
+
+*
+
+“I can't believe we're doing this.” Agent Smith said.
+
+“Me, either.” His partner Agent Smith responded.
+
+Both men got out of the standard agency vehicle and went into FBI headquarters. They took the elevator up to the floor their offices were on, walked past their desks, and went right into their boss' office without knocking.
+
+“Hey, where are your manners?” Their boss said. “You're supposed to knock before entering...”
+
+The two agents walked around his desk, and one put his hand on the man's shoulder while the other took out a pair of handcuffs.
+
+“What are you doing?!?” Their boss exclaimed as they handcuffed him and stood him up.
+
+“You're under arrest for misappropriation of funds, fraud, conspiracy to commit fraud, grand larceny, and for giving orders to your subordinates to drop a case you were obviously involved in.”
+
+“That last one isn't a crime!” Their boss said as they hauled him out of his office.
+
+“It should be.” Agent Smith said, then led his boss to the Internal Investigations branch. I'm going to have to thank Officer Stonewall for sending me that list of aliases. He thought and smiled.
+
+*
+
+“Wooo, doggy!” Clint exclaimed when he finally finished his chores on the ranch. He went inside and had a quick shower. He didn't mind the dust normally, but you couldn't go anywhere near technology with it. He sat down at his computer, still wearing a robe, and checked the F.L.O.W. Website.
+
+“Jeyzus, Gawd Awlmighty!” Clint yelled. “Tha' darn cowpoke dun diddit again!”
+
+Clint laughed as he saw the completely outrageous XP amount Ren had gained at one time. Ren now held the two top spots on the game's leaderboard for XP gains; 1,240,000 and 1,068,000 respectively. He shook his head in disbelief when he looked down the list and the next highest was only 206,667 XP.
+
+Ah wonder who Lara is? Clint thought. They're posted at th' same time, so ah recon they must know each othah. He smiled. Ah can' remember th' last time ah seen him. He thought. Ah think it's time ah saw what's in that there store o'his.
+
+Clint typed up a few sentences and posted on the forums. But afore ah log in, he needs a comment congratulatin' him.
+
+*
+
+Ren, Stella, and Gloria finished the half hour of running and Ren stopped his run at the finish line and jogged in place. Stella and Gloria on the other hand, stumbled to a stop and collapsed on the ground.
+
+“Oh, come on!” Ren laughed at their weak and exhausted state. “That wasn't hard at all!”
+
+“What do you mean, it wasn't hard?” Gloria said between breaths. “We... we barely...” She looked up at the number of laps and the distance they had run for the 30 minutes. “We went... that far?”
+
+Ren looked at the scoreboard and it said 3 miles. “Hey, that's pretty far.”
+
+“Why aren't you exhausted?” Stella asked as she sat up. “You ran just as far as us!”
+
+Ren shrugged. “I don't know if it's because I really like the fact that I have normal reactions in here, or that I've been so used to debilitating injuries that when I don't have to suffer the effects, I can do a lot more than a normal person would.”
+
+“That's... a very interesting hypothesis.” Stella said, and opened the Administrator menu. She removed the Stamina requirement, and Gloria sighed in relief.
+
+“Thank god!” Gloria said, and stood up.
+
+“I can't imagine the serotonin levels the both of you are producing right now.” Stella said, and checked the stats in a popup window. “Ren you're... more than double Gloria and I.”
+
+“What?!?” Gloria said, and opened the same window. “Good god, no wonder you're always so happy in the game!”
+
+Ren chuckled. “I'm pretty sure my attitude has a huge bearing on how much serotonin my brain can produce.”
+
+“I agree.” Stella said. “But, considering each affects the other...”
+
+“We should move on to the actions and reactions stage.” Gloria suggested.
+
+“Right.” Stella said, and had a medical table and chairs appear. “Hop up on this, Ren.”
+
+Ren walked over and hopped up to sit on it, just like she asked. A table with all the little things a doctor used to perform a physical, appeared on a small tray and Stella picked one up.
+
+“Just relax, Ren.” Stella said. “These are just standard tests. Absolutely nothing bad can happen.”
+
+Ren nodded, and Stella did the knee and small hammer test. Ren's leg flicked out when she tapped the knee with the little hammer, and so did the other one. She did the elbows, and moved on to complete the physical. It took about 10 minutes to check everything, and then she looked at Gloria.
+
+“Your turn, Gloria.” Stella said, and Ren slid off the table so that Gloria could take his place. Stella did all the same tests on her, and finished 10 minutes later.
+
+“Okay, that's done. Let's move on to...”
+
+“We didn't do you.” Ren said.
+
+“We can't do me.” Stella said. “I'm the only registered medical practitioner between the three of us.”
+
+Ren smiled. “I've seen you do the tests twice now. I can do the examination if you want.”
+
+“I...”
+
+“Hey, you don't have to use the data.” Ren said. “But if you don't do it, you'll always wonder how your stats compare to ours.”
+
+“All right.” Stella said as she sat on the table. “Go ahead.”
+
+Ren did all of the same examinations that she did, and adjusted for her larger body size in comparison to both him and Gloria. Stella was surprised that he did them so well; then a new set of data appeared on her popup window, and she grinned.
+
+“Thank you, Ren.” Stella said. “It might not be admissible on the official report, but it'll give me something to compare to yours and Gloria's numbers.”
+
+“You're welcome.” Ren said. “Now what else have you got?”
+
+“I've got an early supper planned.” Stella said. “It would have been lunch, but I forgot to set the timer.”
+
+Ren laughed. “Admit it, you've been having too much fun in here.”
+
+“I'll admit no such thing.” Stella said, but she smiled as she saved all of the things they'd done. “Let's log out and get something to eat.”
+
+“Great! I'm starving!” Gloria said. “What did you have in mind?”
+
+Stella glanced at Ren. “Amazon Ji-”
+
+“HA HA!” Ren yelled and grabbed one of each of the women's shoulders. “Don't just stand there! My Endless Stomach has a scheduled rematch with Endless Fries!” He shook them and grinned. “There's no time to waste!”
+
+“Logout.” The three of them said at the same time.

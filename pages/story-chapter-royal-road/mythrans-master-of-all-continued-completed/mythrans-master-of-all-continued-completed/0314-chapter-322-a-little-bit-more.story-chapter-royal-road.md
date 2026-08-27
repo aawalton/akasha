@@ -1,0 +1,289 @@
+---
+id: af82d48b-a4e6-5b4f-9307-9818f443bc29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 322 - A Little Bit More"
+slug: 0314-chapter-322-a-little-bit-more
+partOf: mythrans-master-of-all-continued-completed
+position: 314
+ownLength: 3175
+unit: words
+publishedAt: 2017-08-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153227/chapter-322-a-little-bit-more"
+royalRoadId: "153227"
+---
+
+Ren and Tee-one cast the ring molds 5 times and made 1000 rings. Ren checked through his ring recipes to see what he could make 'officially'.
+
+Ring Recipes:
+
+Ring of Sustenance
+
+Ring of Water Walking
+
+“Wait, what?” Ren said out loud. “I only know 2 official recipes? But I've made tons of... Ha!”
+
+He barked a laugh. “I've never gotten any actual recipes for rings before those two. Everything else I've enchanted myself or found.”
+
+Ren looked at the Beetle Crown ring. Like this one.
+
+Notice!
+
+You have learned the recipe for Beetle Crown (Ring)
+
+“Whoa!” Ren said. “Teepo! I just...”
+
+“NO!” Teepo exclaimed. “Ignore it! I don't want anyone else to be trapped like me!”
+
+“I just want to see what it says.” Ren said, and opened the recipe. “Oh... oh, my.”
+
+Beetle Crown (Ring) Recipe
+
+Ingredients:  One High Quality Item  Soul Bind (Spell)  Fresh Corpse
+
+Once you acquire the Fresh Corpse, killed within your Aura within the last 5 minutes (by either you or someone else), you must touch the High Quality Item to the Fresh Corpse and cast the spell, Soul Bind.
+
+Depending on the Health of the subject (before death), it can take anywhere from 10 seconds to 10 minutes for the soul to be transferred from the body into the High Quality Item. Once complete, the soul can take Astral Form when summoned, and is essentially Immortal.
+
+Warning: If the Soul-Bound High Quality Item is ever altered or destroyed, the soul is set free from it's container to continue on it's way. Since it has no body, it will expire as it should have when the original body died.
+
+“Show info for Soul Bind.” Ren said, his enthusiasm over discovering the recipe was quite diminished.
+
+Notice!
+
+You do not know the Void (Arcane) spell, Soul Bind (Level 5 - Master)
+
+“Well, now we know.” Ren said, and reached up to pat Teepo. “I was tempted to move you from the ring to something more secure, but it doesn't look like I'll be able to do that.”
+
+“Or enchant diamonds to attach to it and add Strength and Durability.” Teepo said.
+
+“Unfortunately.” Ren said. “I wonder if I could do that to the Ring of Recall instead.”
+
+“You better not.” Tee-one said. “If it's like the Beetle Crown Ring and is damaged when altered, you'll lose it.”
+
+Ren nodded. “I've tried to get the recipe for it a couple of times, but I still can't get it.”
+
+“I guess there's still some things that even you can't copy.” Teepo said.
+
+“Or want to, my friend.” Ren said and thought about the Beetle Crown ring, and pat Teepo again. “Tee-one, start making the Ring of Sustenance while I try to decide if I want to go with all Vitality to increase the Stamina bar, or to bump up all the main stats.”
+
+“You'll only have 50 runes to do that.” Tee-one said and activated the Craft Wondrous Item ability and made the first ring. “That'll only be 7 points for each, not including Luck.”
+
+“Hm.” Ren said. “But, there's nothing else that boosts all stats.” He said. “At least, not that I've found anyways.”
+
+“Good point.” Tee-one said and handed Ren the next ring. “I assume these won't be for sale?”
+
+Ren shook his head. “No. I won't undercut every business that makes food. These are only for us, and a few select friends.” He smiled. “We can still eat and enjoy food, but we won't have to.”
+
+Ren took out one of the sacks of 1 gold coin diamonds, and grabbed several handfuls to put on the workbench. He divided them into piles of 6 to use on the rings, for the same reason he could only use 6 diamonds on the bracelets. If there were any more than that it compromised the integrity of the metal. He'd used up all 4 Protection rings he used to wear testing it, too. He'd thought about replacing them because his hand felt bare without them; but, he had needed the metal for all the work he did in the Water Realm.
+
+It's hard to believe how much you take for granted when you have access to all these resources. Ren thought. When you don't have access to them, it's almost painful when you can't do what you want.
+
+Ren enchanted the small diamond with a single glyph of 5 Augment runes, because that was all it could hold. With 6 diamonds, it added another 30 runes to the 50 runes he was going to enchant the ring itself with, making a total of 80 runes. If he used the Augment rune to increase a stat, then he had 10 of them available for each stat of Strength, Vitality, Endurance, Luck, Dexterity, Agility, Intelligence, and Wisdom. He enchanted the ring and used his Gemsetting skill to add the enchanted diamonds.
+
+Ring of Boosted Sustenance (Rare Wondrous Item)
+
+This ring continually provides its wearer with life-sustaining nourishment. It refreshes the body and mind as well, and the wearer only needs to sleep for 2 hours per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full week before it attunes to the wearer's needs. If it is ever removed, it must be worn for another week to attune it again.
+
+Bonus: +10 to all stats
+
+“Perfect.” Ren said. “A few dozen more of these and we'll be all set.”
+
+They got to work and had them done in less than half an hour. With both Tee-one and Ren so full of Mana, it only took another hour for them to make 2 dozen sets of Bracelets of Unbelievable Magic, too. Ren now had 48 bracelets and 48 rings, besides the 4 rings he had made for himself. He knew he would be giving them out in pairs, so that each person he gave them to could have 2 of each item. That is, one for each hand and arm.
+
+“You know, we could customize these bracelets with specific tasks in mind.” Tee-one said. “These ones are for magic users, but... we could do ones up for fighters, archers, healers...”
+
+“If I knew what they used for their main stats.” Ren said. “I think healers and magic users could use the same Mana bracelets, though. Plus, people might want an all around boost instead of a role specific enchantment.”
+
+“Yes, I think you have a point.” Tee-one said. “Shall we make several bracelets with balanced boosts like the rings?”
+
+“Sure.” Ren said and used the Level 5 Major Healing wand on himself to top off his Mana Pool. Unlike Tee-one, his Mana Pool wasn't affected by Mana Production at all. He was tempted to just empty it and use his Mana bar and let it refill, but he knew when he tried to enchant something big, or used the abilities that required Mana, he would be much better off with the Mana Pool being full. They made 2 dozen of the balanced bracelets, and Ren examined one when they were done.
+
+Bracelet of Magical Balance
+
+This bracelet has been enchanted to boost all stats as well as Mana and Mana Production. It is a useful item for any generic user to have. It grants: Strength +75, Vitality +75, Endurance +75, Luck +75, Dexterity +75, Vitality +75, Intelligence: +80, Wisdom: +80, Mana Production: +20%, Mana: +200
+
+“With these, I'll have some choice as to what to give to people.” Ren said and gave two of them to Tee-one. “Keep those, in case you need them.”
+
+“Thanks.” Tee-one said.
+
+“Do you want a couple of rings, too?”
+
+“I might as well.” Tee-one said and took 2 of the rings and put them on. “If you can come up with something better later, I'll give them back.”
+
+Ren chuckled. “Well, it's not like we can't make more.” He said. “Even if I do come up with something better, you can keep them.”
+
+Tee-one nodded and looked at the work they'd done for the day. “That was a lot to do in just one day.”
+
+Ren nodded. “It's just like I've been saying all along.” He said and put a hand on Tee-one's shoulder. “We work well together, and can get more done as a pair than we can alone.”
+
+“Agreed.” Tee-one said. “Now leave me alone and get to bed.”
+
+Ren laughed. “If you want something to do, enchant a hundred rings with a glyph of 10 Holding runes.”
+
+“That will give the ring a storage capacity of 50 slots.” Tee-one said.
+
+Ren nodded. “You should add the other 4 glyphs of 10 Augment runes with Strength.” He smiled. “You know people will want to load the rings up with all the miscellaneous stuff they pick up, and they'll need the extra 40 Strength to carry it.”
+
+“No doubt.” Tee-one said. “After that?”
+
+“Do up a hundred of the Ring of Water Walking.” Ren said. “I don't know if it'll be a good seller, except maybe as a novelty item.”
+
+Tee-one chuckled. “Considering what can lurk in the water...”
+
+Ren nodded and stored a hundred blank rings himself. “I'll see you in the morning.”
+
+“Goodnight.” Tee-one said.
+
+Ren started to walk out of the hold when he felt an intense and brief pain enter the shared Aura. He ran the rest of the way to the deck of the ship, through the main cabin's doors and down the hallway to his cabin.
+
+“What happened?” Ren asked as he stormed into the room. “What is that smell?”
+
+“Ren!” Frikara said. “We were just trying to cook supper.”
+
+“It's not working out well.” Verwynn said.
+
+“Not working out?” Lusinia laughed. “It's a disaster!”
+
+“I tried to help.” Andrela said. “Look.” She held up her hand to show that there were several burns on her fingers and palm.
+
+“Aww.” Ren went to her, and gently took her hand in his and kissed the burns to distract her from the pain. “I felt it and came right here.” He said, and took out a Level 5 Minor Healing wand. Andrela's face was bright red as he healed her. “You're lucky it wasn't serious.”
+
+“It was only a brief touch on the bottom of the pot.” Andrela explained. “I caught it when it fell.”
+
+“I'm sorry.” Navruth said. “I'm not normally clumsy, but my hand hit the handle of the pot when...”
+
+“It's all right.” Andrela said and held up her healed hand. “Ren took care of it.”
+
+“But...”
+
+“I'm fine, Navruth.” Andrela said and put a hand on Ren's arm and looked at him. “Thank you.”
+
+“You're welcome.” Ren said. “Please be more careful in the future.”
+
+“I'll try.” Andrela said. “I can't promise that I won't get hurt again, though.”
+
+“I don't think anyone could promise that.” Ren said and smiled. “So, what were you trying to make?” He took in a breath through his nose. “Soup of some kind?”
+
+“It's supposed to be beef stew.” Frikara said and held up the still hot pot by the handle. The spoon she had tried to stir it with, stuck up out of it and didn't look like it was going to be moved anytime soon. Ren walked over to it and grabbed the pot by the base.
+
+“REN! That's still hot!” Frikara exclaimed, and Ren chuckled.
+
+“I'm still immune to fire.” Ren said. “Thank you for your concern, though.”
+
+Frikara's face flushed red as she felt he really was grateful that she had been worried about him.
+
+“Normally, I wouldn't complain when someone made food for me; but, I'm sorry. I can't eat this.” Ren said. “Do you mind if I make something else?”
+
+“Please.” Lusinia said. “You won't hurt our feelings by not eating that... whatever it is now.”
+
+“It would probably make good mortar.” Ren said, then he tried to move the spoon and it broke. “Oops.”
+
+The maids laughed, and Ren stored the pot to clean it. He repaired it and then made beef stew for everyone to share.
+
+Ren gave several bowls of it to Princess, one to Orimihr, and asked Railyse if she wanted any. She declined at first, until Ren strained out the broth for her to try. Since it was mostly just water with a bit of fat and flavoring in it, she drank it and savored the different texture. He bid her goodnight, then went back to his cabin and to his waiting maids. They were already undressed and in bed, and he wasn't surprised that they were only in their underwear and still topless; despite the fact he'd given them a couple dozen bras.
+
+Ren took off his Dire Wolf Hooded Cloak and folded it up on the table, then stored his clothing; which left him in just his underwear, and he climbed into bed. He laid back and spread his arms out so that two maids could lay down on one side, and two laid down on the other side. Andrela took her normal spot and laid down between his legs and snuggled into his abdomen. Teepo took off from his shoulder and landed on the ceiling.
+
+“Goodnight.” Ren said.
+
+“Goodnight.” The maids and Teepo said.
+
+*
+
+“Ah can't believe we'all made it bac' so soon.” Clint said.
+
+“You might have pushed the horse a little.” Tommy said. “We're hauling a lot of weight.”
+
+“I'm not that heavy.” Hank said as he got out of the cart, and everyone laughed.
+
+“Give me a hand.” Dillon asked Hank, and he helped his friend climb down.
+
+“You shouldn't treat him so delicately.” Billy said and hopped down himself. “He needs to toughen up a little.”
+
+“I'm the magic user.” Dillon said. “I don't want to fall and hurt myself.” He smiled. “Where would you be if anything happened to me?”
+
+Billy didn't say anything, because he remembered almost dying once and that it was Dillon who had used up all of his Mana to keep him safe.
+
+“Ha!” Hank said and put an arm around Dillon's shoulder in a manly hug. “He doesn't need to toughen up at all. He can handle things himself.”
+
+“Ah'll git you guys settled an' be offta git the proper tools.”
+
+“You're gonna ride all night to get to Aurora?” Tommy asked. “Are you crazy?”
+
+Clint chuckled. “We only got tamorrow ta git these pelts removed before we gotta log out.” He said. “Ah'll be back by noon.”
+
+“Hey, you still got that home-brewed alcohol?” Hank asked.
+
+“Yup.” Clint said and unhooked the horse from the cart. “Help yerself.” He took the horse into the stable by his house.
+
+“Yeah!” Hank said. “I like being able to drink as much as I want and not be hung over afterwards!”
+
+“So do we, man.” Tommy said. “You're a real bear when you're grouchy.”
+
+“What are you talking about?” Hank asked when Clint came out to put a tarp over the cart. “I'm as happy of a drunk as can be!”
+
+“You think you're a happy drunk because you're drunk.” Billy laughed. “It just ain't true.”
+
+“I'll show you!” Hank said.
+
+Clint finished covering the cart and then went to the house to open it up for his friends.
+
+“I'll drink enough to get drunk, and you'll see how happy I am!” Hank said menacingly, and everyone laughed.
+
+“Don' go havin' too much fun withou' me.” Clint said. “See ya'll soon.”
+
+The others went inside the ranch-style house and Clint went back to the stable to get Izabeal, his warhorse mount.
+
+“Howarya girl?” Clint asked, and Izabeal huffed at him. “Ah'm sorry I've been gone so long.”
+
+Izabeal turned her head and wouldn't look at him.
+
+“Ah got ya ah present.” Clint said, and she turned back to look at him with interest. “Ah hope ya like it.”
+
+Clint took out a new bit and bridle. It was the harness that went over the horse's face to attach the reins to. The horse blew a raspberry at him and turned away.
+
+“Aw, don' be like tha'.” Clint said. “Look, jus' taste it.”
+
+Izabeal huffed again, and opened her lips a little. Clint slid the metal bar into the horse's mouth, and she clomped down on it and started sucking.
+
+“Ha ha!” Clint said. “Ah told ya!”
+
+Izabeal nodded her head and kept sucking.
+
+“Ah bought tha' jus' fer ya while I was away.” Clint said. “Ah know how much ya hate having somethin' besides food in yer mouth, so I had tha' especially enchanted fer ya.” He smiled. “The guy said it was good fer a month.”
+
+Izabeal neighed at Clint. He pat her neck and secured the harness over her face, then put the saddle on her.
+
+“Let's go fer a nice long ride.” Clint said and led her out of the stable. Izabeal dug her large hooves into the dirt and Clint chuckled. She was just as eager as he was to cut loose and go for a good run. He climbed up onto her back, and once he was settled, he snapped the reins. Izabeal reared up onto her back legs, kicked her front legs in the air a couple of times, then when they hit the ground she took off at her top speed right away.
+
+“Ha ha!” Clint laughed.
+
+At that speed, they would be at the starter city of Aurora just before morning.
+
+*
+
+Lylyth could feel that Ren was asleep, and she was tempted to open a portal to go and visit him.
+
+I can't. Lylyth thought. It's... it's much too soon. She rationalized to herself. He'd be scared and nervous if I just showed up out of the blue like this. She thought about him being scared, and frowned. No, he wouldn't be scared, would he? She asked herself.
+
+“Is something wrong?” Lylyth's personal attendant asked.
+
+“No, I'm fine.” Lylyth said. “I'm just thinking too hard.”
+
+The attendant nodded. “I do that, too.”
+
+“You do? About what?”
+
+“If I should keep my pet or exchange him.” The attendant said. “He seems... weak.”
+
+Lylyth chuckled. “Yes, I believe you've used up his arrogance, and all that's left is his self-pity.”
+
+The attendant smiled. “That's it exactly.” She said. “It was great when we started; but, when I get him to perform now... he cries sometimes.”
+
+Lylyth laughed. “Then exchange him. There are plenty more prisoners of war that we need to break before they can convert and worship me.”
+
+“Thank you, your highness.” The attendant said. “I hope my next seduction attempt is rebuffed as much as the last one was.” She smiled. “It's quite fun to see them give in to their desires after they resist so much.”
+
+“Oh, I know.” Lylyth said. “It's the strong and defiant ones that are the most satisfying when they finally surrender themselves to the passion.”
+
+Lylyth thought about Ren, and knew that he wasn't going to be anything like the others. In fact, he willingly... Her face flushed a sightly darker grey when she remembered what Ren did to 'feed' her. No, he's not like the others at all.

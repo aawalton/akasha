@@ -1,0 +1,293 @@
+---
+id: 1182fdae-1481-56e9-a1f8-20a8a5c65af5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 509 - Relaxing Interlude"
+slug: 0509-chapter-509-relaxing-interlude
+partOf: mythrans-master-of-all-continued-completed
+position: 509
+ownLength: 3326
+unit: words
+publishedAt: 2018-02-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193932/chapter-509-relaxing-interlude"
+royalRoadId: "193932"
+---
+
+Jennifer shut the door of her work room and leaned against it. “Santa, I... I've been a bad girl this year.”
+
+“Yes, you are definitely on my naughty list.” Santa Ren said and sat down on the bed.
+
+“Is there... anything... I can do to get on the nice list?” Jennifer asked as she knelt, then crawled across the floor and sat on her knees in front of him.
+
+“That depends.” Santa Ren said. “What do you have in mind?”
+
+“Perhaps a few kisses in certain place might sway your opinion.” Jennifer said and ran her hands up his thighs, then undid the large belt buckle.
+
+“That... could be a good start.” Santa Ren said and pulled open his coat.
+
+Jennifer pulled his pants down and gasped. “What the hell is that?”
+
+“You can't pretend you don't know what a penis is.” Santa Ren said.
+
+“Santa is not supposed to suffer from micro-penis!” Jennifer almost yelled as she pointed.
+
+Santa Ren let out a signature 'Ho Ho Ho' laugh and made his belly jiggle like a bowl full of jelly.
+
+Jennifer stood up and crossed her arms. “You're ruining my fantasy.”
+
+“Come on, you have to admit that was funny.” Santa Ren said and stood up. “What a shocker! Santa's generousness is compensating for his lack of endowment!” He said. “I distinctly remember you saying that you had better screws from smaller screwdrivers.”
+
+Jennifer turned away from him so he wouldn't see her smile.
+
+“Uh oh! I think I feel amusement!” Santa Ren said and reached out to tickle her underarms. Jennifer started to giggle, and she lifted her arms so he could tickle her more. He did it for a few seconds, then stopped and cast Full Illusion again to let his own private place be seen.
+
+“Your joy and mirth has awoken the proper response in me.” Santa Ren said, and Jennifer turned around to see what he meant.
+
+“Oh, Santa.” Jennifer said. “Sit down, and let me show you how good of a girl I can be.”
+
+Santa Ren sat down and Jennifer did exactly that.
+
+*
+
+“I did not just see what I thought I saw.” Candy said a few minutes later, once she had recovered from the shock. “Did I?”
+
+“If'n ya mean Santy Claws being dragged across tha room, then yer not tha only one ta think tha'.” Clint said.
+
+“Can stuff like that even be in the game, man?” Tommy asked.
+
+“If you have the right spell, enough Mana, and a vivid imagination.” The woman who was Clint's date said. “Apparently so.”
+
+“That's cool.” Tommy said. “I guess that means you could look like anyone you wanted.” He said and looked at the others at the table. “Why would you pick Santa Claus, though?”
+
+Clint, Hank, Tommy, and Dillon had confused looks on their faces; but, Candy, Caramel, Clint's date, and Tommy's real life girlfriend had contemplative looks instead. Tommy had his arm over his girlfriend's shoulders, and gave her a little squeeze.
+
+“What are you thinking about, Jaime?” Tommy asked.
+
+“N-nothing.” Jaime said and her face went a little red.
+
+“Hey, we don't hide things from each other, remember?”
+
+“Oh, all right.” She said. “I'm curious about it.”
+
+“About what?”
+
+“A... a thanking Santa fantasy.” Jaime said, and her face went to a deep red.
+
+“Wait, what?” Tommy was surprised to hear this.
+
+“You know, for all the presents he gave us as kids.” She said. “I'd like to thank him for that.”
+
+“Santa isn't real, man.” Tommy said. “We learned that when we were about 10 years old.”
+
+“We all just saw Santa run across the club in front of us.” Candy said. “That looked pretty real to me.”
+
+“It's just a spell.” Clint's date said, but they could see that her face was a little red as well.
+
+“Ah wonder who it is.” Clint said, and no one had an answer.
+
+“I can go and find out.” Candy said and tried to stand up, but Dillon held her hand.
+
+“Are you going to 'thank' him?” Dillon asked, and Candy chuckled.
+
+“I doubt Jennifer would let me interrupt her fun to do that.” Candy said. “Besides, it could be anyone under that disguise, and you know how picky I am about partners.”
+
+Dillon smiled and nodded, then let her hand go. Candy gave him a little wave and casually walked around the club and talked to people, so that it didn't look like she was going directly to Jennifer's work room. After about 20 minutes of making her way over to her destination, she finally reached Jennifer's door.
+
+Candy knew if she knocked she would alert whoever was inside to hide, so she carefully opened the door a tiny bit. A loud moan was heard just as she did, and several people nearby started to turn and look. She quickly slipped inside the room and shut the door to stop the sound from escaping.
+
+I completely forgot the rooms were soundproofed. Candy thought in amusement. Now that she was inside the room, the distinct sounds of sex were quite loud, and the passionate moans Jennifer was letting out started to turn her on. She took in a long low breath through her nose and the smell of hot sex filled her nostrils.
+
+Good god. Candy thought and rested her head against the door as her body reacted to both the sounds and the smells. I... I can't just stand here. She thought. I have to look.
+
+Candy built up her resolve for several moments, then turned around to look on the bed.
+
+No one was there.
+
+What? Candy was surprised and took a step towards the bed. I can still hear them! Where are they?
+
+“Here it comes!” A deep male voice said, and Candy realized where they were.
+
+“Yes, Santa! YES!” Jennifer almost screamed. “Give me another present!”
+
+Candy looked up and saw Santa Claus laying down on the ceiling facing the floor, and he held Jennifer tightly against himself. She was facing the floor as well, with her head turned to stare at Santa, and Santa was still inside of her and pumped her like a piston.
+
+“Ho, Ho, Ho.” Santa laughed, which was their agreed upon cue for finishing, and Jennifer went right on cue.
+
+“OH, FUCK!” Jennifer yelled and kissed him, then sprayed hot liquid out and down; which just happened to be right on Candy's chest, since she was standing right below them. When the large splash hit her skin, it had startled Candy so much that her mouth opened in surprise; then Santa pulled out as he finished and sprayed out and down as well.
+
+Right into Candy's mouth.
+
+It didn't all go in, since Santa wasn't actually aiming and couldn't see with Jennifer kissing him; but, a good majority of it did make into the small target. Candy was so shocked by it that she didn't move or say anything.
+
+“Fuck, I needed that!” Jennifer said when she broke the kiss. Her arms and legs twitched with pleasure and she went again a little, then she looked down and saw Candy standing below her. “Candy, what are you... oh.” Jennifer saw Candy was covered in the result of their sexcapade. “Sorry.”
+
+“Candy?” Santa asked and looked over Jennifer's shoulder and down to see Candy below them, and the state she was in. “Oh, damn.”
+
+“Put me down, Santa.” Jennifer said, and Santa Ren walked through the air and stood her on the floor next to Candy. “Candy? Are you okay?”
+
+Candy just stared at her with wide eyes and her mouth open. Jennifer reached out and tickled Candy's throat, and she closed her mouth and swallowed automatically.
+
+“N-no!” Candy said and put a hand over her mouth. “Jennifer! You know I'm picky about who does that to me!”
+
+“Forget about that for a minute.” Jennifer said. “Isn't it delicious?”
+
+“Wh-what?”
+
+Jennifer held Candy's chin and licked the side of her face to clean it off. “It's like... orange pineapple ice cream and... and...” She closed her eyes and took another lick. “I can't tell what else, but it's so good!”
+
+“I... I didn't even... I was too shocked to taste it.” Candy said, and completely forgot what just happened.
+
+“Here.” Jennifer said and touched Santa Ren to get more, then put her fingers in Candy's mouth. Santa Ren stood there and watched as Candy sucked on Jennifer's fingers quite erotically, and Candy's eyes widened again.
+
+“It's not orange... it's... it's maple ripple ice cream with caramel swirls... and... and milk chocolate... I think.” Candy said, then looked at Santa Ren with lust in her eyes.
+
+“Now, now.” Santa Ren said. “Hold on a minute.”
+
+“It's okay.” Candy said. “If Jennifer vouches for you, then I'm fine with it.”
+
+“But...”
+
+“Just a bit of oral.” Jennifer said to her. “The rest is all mine.”
+
+Candy nodded and Jennifer eased Santa Ren back slightly and he sat down on the bed, then Candy and Jennifer knelt in front of him.
+
+“Don't I get a say in this?” Santa Ren asked.
+
+“Not in this room.” Both women said at the same time, which made them laugh and exchange knowing glances, then Candy started to please him.
+
+*
+
+“She's been gone for a while.” Dillon said.
+
+“You saw her working around the room, man.” Tommy said. “She's not coming back soon.”
+
+Dillon sighed and took a drink of ale. “Yeah, I guess you're right.”
+
+“Want me to go and find her?” Caramel asked. “I'm sure she's just in the dressing room or something.”
+
+“No, Tommy's right.” Dillon said. “She won't be so obvious about checking on Jennifer's date.”
+
+Caramel shrugged and snuggled with Hank, who had a hand tucked down into her fur bikini bottoms.
+
+“This fur you and the other dancers wear is really nice and soft.” Hank said.
+
+“It should be.” Caramel said. “Ren made them from the wolf pelts he got from you.”
+
+“Wha' didja say?!” Clint nearly yelled and turned to look at Caramel.
+
+“Ren made us all outfits to wear when we weren't 'working', so people would know we weren't available.” Caramel said. “Of course, then he made us all the costumes we could ever want or need.”
+
+“He cut up those pelts he paid so much for, just so he could make them into bikinis?” Hank asked.
+
+“You make it sound like he wasted his money.” Caramel said and pulled his hand out from where it had been tucked in.
+
+“I didn't mean it like that.” Hank said as Caramel stopped cuddling with him. “You look great in it.”
+
+“Uh huh.” Caramel said. “He made these great cloaks, but they're a little unwieldy to serve in.” She said and stood up, and equipped the cloak. The huge diamond clasp glowed with an inner light, and the guys stared at it.
+
+“Look at the size of that rock!” Jamie, Tommy's real life girlfriend said.
+
+“It lets us gain XP, too.”
+
+“It WHAT?” Clint's date yelled, and several people nearby looked at her. Her face went red, and after a few moments, they went back to watching the dancing shows.
+
+“Ren set it up so we wouldn't be wasting our time just dancing and stuff.” Caramel said. “It doesn't work unless it's equipped, though.”
+
+“Um... that looks like a brooch.” Jamie said. “You could probably just take it off the cloak and hook it to whatever you're wearing.”
+
+Without a word, Caramel reached up and unhooked the brooch, and caught the cloak before it fell off her shoulder. She stored the cloak and hooked the brooch onto her hip, and smiled.
+
+“Thank you so much!” Caramel said and bent down to hug Jamie, then gave her cheek a kiss. “All the girls are going to appreciate your idea.” She whispered seductively, and Jamie blushed. “I've got to spread the word as soon as possible.”
+
+Caramel left the private booth at a fast walk. She stopped at the first dancer she met, and the dancer did the same thing Caramel did with her cloak. The dancer attached the brooch to the bra she had on under her business suit, squealed in delight and gave Caramel a hug, then excused herself from the table she was at and walked over to the private booth where Clint and the guys sat.
+
+“Caramel says I have you to thank for this idea.” Apple said and bent down to hug Tommy's real life girlfriend. “You don't know what this means to us.” She said, then gave her a kiss right on the lips. “Thank you.”
+
+“Y-y-you're w-welcome.” Jamie said, and Apple saw her face was bright red.
+
+“You're pretty.” Apple said and gave her another kiss. “I've got a dance I need to get back to, but I'll come over here afterwards, okay?”
+
+Jamie nodded her head several times and Apple gave her a huge smile; then Clint, his date, Tommy, Jamie, Dillon and Hank watched in silence as Apple left the private booth to go back to her table. They then saw Caramel as she went to all of the dancers they could see and told them the idea. Several dancers came over to thank Tommy's girlfriend with a hug, a few just waved, and one even flashed them her breasts as thanks.
+
+“Did... did that just happen, man?” Tommy asked. “I mean, we went to the Pink Pearl a bunch of times, and the dancers never acted like this.”
+
+“I guess what Candy and Caramel said is true.” Clint's date said. “This really is the best place for them to work.” She said and looked around. “They're all smiling, some are laughing, and a few are even carrying on.”
+
+The others in the private booth looked around as well.
+
+“They're happy, and it shows.” Gina said as she approached the private booth, and they all turned their heads and looked at her. “That's a magic all on it's own.” She said and looked at Tommy's girlfriend, and pat the large diamond brooch she had hooked into her belt. “Thanks for the idea.”
+
+“It... it was nothing.” Jamie said.
+
+“You obviously don't realize how much experience we get.” Gina said and then smiled. “Don't worry, though. Apple will show you.”
+
+*
+
+“Mmmm!” Candy moaned as Santa Ren finished again. “Thank you, Santa!”
+
+“I told you his presents were delicious.” Jennifer said and pushed on Santa Ren's shoulder, so he would lay back on the bed from his sitting position. She straddled his waist and then was interrupted.
+
+“W-wait...” Santa Ren said.
+
+“Yeah, can you face this way?” Candy asked, and Jennifer turned around to face forward instead.
+
+“Wait for a...” Santa Ren tried to say, then Jennifer sat down hard. “You... naughty girl!” He said and grabbed onto her hips. “How can you still be so tight?”
+
+“You're my fantasy man, Santa.” Jennifer said and started to move up and down. “I'll always... be like this... for you.” She moaned. “Just... just lay there... and... oh, god!”
+
+“Hey, I can help.” Candy said happily, and her mouth joined in and made everything that much more pleasurable for both Jennifer and Santa Ren.
+
+*
+
+Apple finished her dance at the other table, collected her tips, and used her sexiest walk to go over to the private booth Clint and the group sat at. She watched Tommy's girlfriend as she did, and saw the cute girl's face get redder as she came closer. She waved to someone, and her animated bodyguard pulled the curtain around the private booth closed.
+
+“I haven't had anyone react to me like this in a while.” Apple purred, and Jamie blushed. “I've got nurse, librarian, police officer, school teacher, and school girl outfits on me.” She said. “What would you like to see?”
+
+Jamie's eyes were wide, and she couldn't decide. “Wh-what w-were the c-choices again?”
+
+“Nurse.” Tommy said, and Apple held a hand up in a stop motion.
+
+“Quiet.” Apple said, sternly. “This is her dance.” She said. “No touching from you, or you, or you or you.” She said and pointed to each of the guys, then looked at Clint's date. “As long as it's in full sight of the one I'm dancing for, you can touch me as much as you want.”
+
+“I can?” Clint's date asked, surprised.
+
+“Uh huh.” Apple said and looked at Tommy's girlfriend. “I think someone is curious, and I want her to enjoy this as much as possible.”
+
+“S-school t-teacher.” Jamie said, and Apple smiled.
+
+“Good choice.” Apple said. “Give me a second.” She stepped out of the curtain, and a moment later, she stepped back through the curtain. She was 3 inches taller, had her reddish-blonde hair done up in a fancy hairdo, and wore a black business suit and a white blouse. She also wore glasses and a kind of stern expression.
+
+“Well, young woman.” Teacher Apple said. “Have you finished your homework?”
+
+“I...” Jamie tried to speak, but the woman's transformation was too distracting.
+
+“It's a simple yes or no answer.” Teacher Apple said. “Don't tell me your dog ate it again.”
+
+Jamie smiled at the old excuse. “I don't have a dog.” She said. “I did my homework.”
+
+“That's so good to hear.” Teacher Apple said and started to sway her hips as low music came from above the booth. “I like students that complete their work on time.” She said, and pulled out the pin holding her hair in place and shook it out to make it flow over her shoulders. Jamie took in a sharp breath at how beautiful Apple became in that moment, and Apple smiled wickedly. “Now it's time for such a good student to receive her reward.”
+
+The guys couldn't help themselves and stared at Apple as she did her special routine for Tommy's real life girlfriend, and at certain times, Clint's date reached out and touched her shoulder, or her arm, or her hip. During one of the dance moves, Apple carefully took the hand touching her, and pressed it against her breast instead. Jamie reacted to the sight and her hand jerked up, and Apple let the other woman's hand go and picked up Jamie's hand and put it on her other breast.
+
+“Mmm.” Apple moaned. “Such good students.” She said and kept doing her routine. Both Tommy's real life girlfriend and Clint's date became bolder in their touches, and Apple used those opportunities to increase the intensity of her act and their participation. When Apple was finished and had removed all of her clothing, she was breathing heavily; of course, so was Tommy's girlfriend Jamie and Clint's date.
+
+Clint, Hank, Tommy, and Dillon were flabbergasted about what had happened, since they didn't realize that other girls could get off from having a lap dance from another woman.
+
+“Th-that... that was...” Jamie took a handful of silver coins out of her coin pouch. “You deserve this.” She said. “It's all I have.”
+
+Apple chuckled and closed Jamie's hand over the money, and leaned in close to whisper in her ear. A moment later Apple stood up and equipped her fur bikini, then left through the curtain.
+
+“Boy that was intense.” Hank said.
+
+“I really need to use the bathroom.” Tommy's real life girlfriend said and stood up, then took the hand of Clint's date. “Come with me and give me a hand.”
+
+“Um, sure.” Clint's date said and the two women left through the curtain.
+
+“Isn't that always the way, man?” Tommy laughed. “Girls can never go to the bathroom alone.”
+
+The other guys laughed, and it never crossed their minds that there were no actual toilets in the game.
+
+“While we're waiting for them to come back, maybe we can get Jasmine to come over.” Tommy said and stood up to pull the curtain back. “She's always fun.”
+
+“Go an' git her, then.” Clint said.
+
+“Be right back.” Tommy said and left the private booth to look for his favorite dancer.

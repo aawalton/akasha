@@ -1,0 +1,439 @@
+---
+id: 15c9316a-43c9-5b4a-8c1c-8277fa37b7a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 184 - The Talk"
+slug: 0172-chapter-184-the-talk
+partOf: mythrans-master-of-all-continued-completed
+position: 172
+ownLength: 4614
+unit: words
+publishedAt: 2017-02-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121354/chapter-184-the-talk"
+royalRoadId: "121354"
+---
+
+“I'd like a basic spell book, please.” Ren said.
+
+Rosie looked at him and tilted her head. “But... you're not a magic user.” She said. “Only magic users can take out spell books.”
+
+“I can't cast spells, but...” Ren leaned in close, then whispered. “...I have a wand.”
+
+Her eyes widened, and she leaned back. “This... this is unusual.” Rosie said. “I haven't heard of anyone having a wand before.”
+
+“I know three spells already. Fireball, Minor Healing, and Major Healing.” Ren said. “I'm a little lacking in basic spells.”
+
+“Why don't you want higher level spells?”
+
+“Actually, I would like any spells I can get my hands on; but, the wand is only Level 1.” Ren said. “It can't hold the higher level spells.”
+
+“Well... I really shouldn't...”
+
+“Then don't.” Ren said, and Rosie looked at him in surprise. “You've already done more for me than I could ever have expected.” He smiled. “I can't let you risk your job again, just so I can get a spell book.”
+
+Rosie smiled. “Oh, don't worry about that.” She said. “You're a Patron of Knowledge. I can't refuse your request to buy research materials.”
+
+“Research materials?”
+
+“Of course.” Rosie said. “How else are you going to write a book that compares magic use to enchanting?”
+
+Ren grinned. “You're right. Buying research materials is much better than just borrowing them.”
+
+She stood up and came around the desk. “Go ahead and have a seat again. I'll be back in a few minutes.”
+
+Ren nodded and went back to his seat and picked up the scroll. He broke the wax seal, that he now realized looked just like the signet ring, and he unrolled it. His mouth dropped open as he read what it contained.
+
+Deed Of Defense (Garrison)
+
+This deed grants the holder ownership of the Garrison and the personal army it houses. The owner of this deed is tasked with the defense of the Kingdom from all attackers, both foreign and domestic.
+
+Notice!
+
+You have assumed overall command of the Garrison, and all responsibilities in which that entails.
+
+Cost per year - Maintenance: 100 Platinum; Food: 300 Platinum; Wages: 1200 Platinum; Civilian workers/Experiments: 200 Platinum; Miscellaneous Expenses: 50 Platinum
+
+Holy crap! Ren thought as he told Teepo what the popup said. I am so screwed!
+
+Teepo chittered in laughter. “You're lucky it's not per month.”
+
+Ren snorted a laugh. Now I know why Lord Lodur was so against getting everyone off of the work to pay model. He thought. He couldn't afford it if people worked somewhere else! He shook his head. He had his own building materials, his own farms, and didn't have to pay any of the civilians or soldiers because they all work for his House to pay off debts.
+
+“It's quite the little empire he had built.” Teepo said. “I wonder what House Lodur is going to do, now that you've taken over their whole purpose for existing.”
+
+I... I don't know. Ren thought. I don't know what I should do with it, either.
+
+“Take Elerlyth's advice.” Teepo said. “Don't think about it.”
+
+Ren took several deep breaths, and stored the deed. You're right. I'm not even in the Dwarven Kingdom right now. I'll worry about it when I get back there.
+
+“That's right.” Teepo said. “You've got enough to do right here...” He said. “...with the books Rosie has for you.”
+
+Ren turned from the desk he sat at, and looked at her. Rosie smiled and put three thin books on his desk. Ren looked at them, then at her, then back at the books. They were Spells Volume One: Basic, Spells Volume Two: Intermediate, and Spells Volume Three: Advanced.
+
+“Rosie.” He said. “I... I don't know what to say.”
+
+“You can try 'thank you'.” She said, and grinned. Ren stood up and gave her a hug instead. A moment later, he let her out of the hug and smiled.
+
+“Thank you.” He said, then took out 3 gold coins and gave them to her.
+
+“Before you start ranting about having them, the books are rank C and lower.” Rosie said. “So, I'm not breaking the rules. You're actually allowed to read them.”
+
+Ren stored the books and the sack.
+
+“Is there anything else I can help you with?” Rosie said, and beamed a smile at him.
+
+“I'm sure there is something that I'm forgetting; but for the life of me, I can't remember.”
+
+“Don't try to remember, it'll just get further away.” Rosie laughed. “Think of something else, and whatever it was will come back to you.”
+
+“You're talking from experience.” Ren said, and she nodded.
+
+“It's just a little mind trick I picked up over the years, while working here.”
+
+“How long have you worked here?”
+
+“About 3 years.” Rosie said, and Ren raised a single eyebrow at her. She giggled and covered her mouth, because it came out a little louder than she had expected. “I'm a little older than I look.”
+
+“I'm tempted to ask how much older; but, it's not polite to ask a woman her age.”
+
+“I'll tell you...” Rosie leaned in close to whisper. “...someday.” She gave him a peck on the cheek, and went back to her desk.
+
+“I'm pretty sure that counts as flirting.” Teepo chittered in laughter.
+
+Yeah, she was definitely flirting. Ren smiled. We've been doing that back and forth for almost as long as I've know her, though. He started to walk towards the front door, when he got a popup.
+
+Stat Change!
+
+Aura (House Neram) Level 6 (Advanced 0%)
+
+That's it! Ren thought, and walked fast over to Rosie's desk. She was working on some paperwork and he waited for a moment, then spoke. “Rosie?”
+
+She looked up, and smiled at him. “You thought of it.”
+
+Ren nodded. “You can feel my Aura, can't you?”
+
+Rosie nodded. “It's gotten quite large.” She said. “ I felt it right after you came through the door.”
+
+“Do you know of any way to suppress it or block it?”
+
+Rosie thought about it for a few minutes, then shook her head. “I don't know if anything like that is possible.” She said, and looked at him with a question on her face. “Why do you want to stop it?”
+
+“My Aura isn't really the problem.” Ren said, and leaned in close. “It's my Prince Charming title that changes my Aura.”
+
+“Then you need to get rid of that title, not suppress your Aura.” Rosie said, and Ren stared at her.
+
+“How... how would I do that?” He asked.
+
+“Just do the opposite of what you did to get it.” Rosie said. “I don't know if that will work, but it's worth a try.”
+
+Ren shook his head. “No way.” He said. “I won't treat a woman so badly, only for a chance that I might lose the title.”
+
+“Then do it to me.” Rosie offered, and Ren shook his head again.
+
+“No.”
+
+“Ren, let me help you.” She said. “I won't take anything that you might do to me personally.”
+
+“Rosie.” Ren said, and took her hand. “I'd rather have every woman I meet chase me for the rest of my life, before I'd even think about trying to treat you badly.”
+
+“Oh, you.” Rosie said, and blushed. “I've never been paid such a nice compliment before.”
+
+Ren let her hand go. “If I need anything else, I'll be back.”
+
+“Then I'll hope I'm here when you do come back.” She said, and turned to wave at her grandmother. “I'm off shift right now, so you should wait until sometime tomorrow if you do think of anything.”
+
+“Hello, sweetie.” Rosie's grandmother said as she waddled over. “Have you proposed to my granddaughter yet?”
+
+“Grandmother!” Rosie exclaimed, then laughed. “Don't mind her, Ren. She's been in a good mood since the house was fixed.”
+
+“I'm glad.” Ren said. “Can I walk you lovely ladies home?”
+
+“That's okay.” Rosie's grandmother said. “You're an Adventurer. I'm sure you have something better to do during the night.”
+
+Ren's eyes widened as he remembered that he needed to log out for lunch. “I actually do!” He gave the old woman a kiss on the cheek, then did the same for Rosie. “Rain-check on the walk!” Ren said as he walked backwards towards the door. “Bye!” He turned around and ran out the front door.
+
+*
+
+The old lady laughed at Ren's retreating figure and turned to her granddaughter.
+
+“So, when are you going to tell him you love him?” She asked Rosie.
+
+“Wh-what?”
+
+“Oh, come on, dear.” Her grandmother said. “Anyone with half a brain can see that you're smitten with the poor boy.”
+
+Rosie smiled and took her grandmother's arm in hers, then led her towards the door. “He's involved with someone else.” She said. “I can't admit anything to him until he's single again.”
+
+“I think you're going to miss a good opportunity if you don't tell him.” The old lady said. “How often has he come in here the last little while?”
+
+Rosie sighed as they walked down the stairs to the street. “Not as often as I'd like.”
+
+“You see?” Her grandmother said. “Grab a hold of him and don't let go.” She said, and smiled. “Or someone else is going to beat you to it.”
+
+*
+
+Ren ran up the street and back to his business, then went inside. He made sure the door was locked, and went upstairs. He didn't see Anabelle on the couch when he went into the apartment, and he sighed as she called to him from the bedroom.
+
+“I'm in here.” Anabelle said seductively. Ren went to the bedroom doorway and looked at her. She was sprawled on her back across the bed, with her head toward him, and she wore nothing but socks and a maid apron.
+
+“I told you that you weren't allowed to stay in here.” Ren said sternly, and she smiled.
+
+“You were just saying that because that other woman was here.” Anabelle said and rolled over onto her belly. She stuck up her backside, and purred like a cat. Ren sighed and shut the door to the bedroom, went back to the living room, and opened the cabinet to the portal. Teepo dissolved into the ring and Ren nailed the cabinet shut from the inside as he heard the bedroom door open. He stepped through the portal before Anabelle got it into her head to try and follow him. Once on the other side, Ren summoned Teepo again and went downstairs to give some more food to Princess. He went back upstairs and climbed into bed.
+
+See you in about an hour or so, Teepo.
+
+“I'll be waiting anxiously.” Teepo chittered in laughter as he repeated Anabelle's words. Ren chuckled and shook his head.
+
+“Logout.”
+
+********
+
+Ren had a quick lunch that Bonnie had prepared. He used to complain about all of the hard work she did to make his meals; but now, he just accepted her efforts for what they were. Caring for him in her own way. Ren thanked Bonnie for the food, and she left with the empty tray as he checked his emails. He got a congratulatory one from the head of Sid Tec about the show airing that night, and one from Elise. He read it and smiled. Bonnie came back into the room, and Ren asked where they were watching the show tonight.
+
+“Well, we could watch it here in your room...” Bonnie said. “...but, I'm pretty sure there's going to be a few other people that will want to see it.” She smiled. “We'd all have to stand, though.”
+
+“The therapy room, then.” Ren said, then typed up a response for Elise and sent it. “There's plenty of room if the night nurses want to see it, too.”
+
+“That's a good idea.” Bonnie said. “I'll have the extra chairs set up in front of the television.”
+
+“Thanks, Bonnie.” Ren said and closed his email program. He slid out of bed and went to the bathroom to check on things, and to take care of some business, then went back to bed.
+
+“All set?” Bonnie asked, and helped Ren put on his VR headset. “See you in a few hours.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed and sighed. Dammit, I forgot to tell Nathalia about my trip to the Convent.
+
+“You're back a little earlier than usual.” Teepo said.
+
+I took care of business quickly. Ren thought, then turned his thoughts to Nathalia. The Sending Ring glowed, and he whispered to her.
+
+“Nathalia? Are you awake?”
+
+“Mm? What?”
+
+“Hi, Nathalia. It's Ren.”
+
+“Ren!” Nathalia exclaimed. “I thought you said you'd be in Aurora until tomorrow?”
+
+“I was out at my County to do some work on the building, but I can't stay there overnight. I can't make the Main House a Safe Zone until I finish it.”
+
+“So you went all the way back to Aurora just so you could log out.”
+
+“Right.” Ren said. “But I did it on this side.” He explained what was going on with Anabelle, and Nathalia was quiet for a few minutes afterwards.
+
+“Nathalia? Are you still there?” Ren asked.
+
+“Yes, I'm here.” She said, but she didn't sound like she was in a good mood. “I suppose you want to sleep with her.”
+
+“Of course not!” Ren said. “Even if I didn't think she was under some kind of compulsion or order by whoever holds her contract, I wouldn't sleep with her.”
+
+“Why not?” Nathalia asked. “She sounds like she was really willing, even before this latest thing.”
+
+Ren sighed. “I'm sorry, Nathalia.”
+
+“What? Why?”
+
+“I'm sorry that you have to question me about yet another woman that I've met.”
+
+Nathalia didn't say anything, and Ren sighed again.
+
+“I know I can't actually prove to you that I don't want to sleep with every woman I meet, but can I at least offer you a consoling story?”
+
+Nathalia sighed herself. “Go ahead.”
+
+Ren told her about what had happened at the Convent, and how he handled the situation.
+
+“I can't believe you turned her down.” Nathalia said. “I've heard stories about her.” She was quiet for a minute, then continued. “There's a reason everyone calls her 'Mistress'.”
+
+“There is?” Ren asked, then thought about it. “Oh. That makes sense.”
+
+Nathalia chuckled.
+
+“Why didn't you warn me about her before I left?”
+
+“What was there to warn about?” Nathalia said. “You were going to go anyways.”
+
+“Well, yeah.” Ren said. “I might have had an easier time getting to the negotiating part with her, if you'd told me what she was like beforehand, though.”
+
+“So it's my fault you were almost seduced.”
+
+“No, it's not your fault!” Ren said, and rubbed his forehead. “And I wasn't 'almost' anything. I didn't think about doing it with her. Not once.”
+
+“What did you think about, then?” Nathalia asked.
+
+“Do you even have to ask?” Ren asked her. “I was thinking of you the whole time.” He sighed. “I think about you nearly all of the time; especially now that I know I'm going to lose you in 4 months, for no other reason than that Fritz has to keep his publicly pronounced word to rescind my invitation to the Dwarven Kingdom.”
+
+“The way things have been going lately, I thought... I thought you were looking for a replacement for me.”
+
+“Why in the world would you think I could ever find anyone to replace you?” Ren asked. “You're my wife.”
+
+“But...”
+
+“We performed the Devotion and Wedding rituals, remember? I didn't do that with anyone else, or even thought about doing it with anyone else.” He sighed again. “Don't you remember what I told you a long time ago, Nathalia? I am never going to look for another wife. You are it. It doesn't matter to me if we can't complete the ceremony officially, or that I can't build you a suitable place to live in time, or even the fact that we can't be together. I love you, and no one can ever replace you in my heart.”
+
+Nathalia didn't say anything, but Ren could hear her crying.
+
+“Don't cry, My Love.” He said. “Save your tears for when we actually have to part. You can let them join mine then, and we can mourn the loss of our future together.”
+
+“Oh, Ren!” Nathalia exclaimed. “I should have gone with you!”
+
+“It's a little late to come here now.” Ren smiled. “It'll be morning by the time you got here and I'll already be back in Aurora.”
+
+“I... I was mad at you for being in bed with Ereka.”
+
+“I know.” Ren said. “I was mad at myself for not checking to see if someone else was in the bed before I fell asleep. I could give you an excuse that I was exhausted, but it doesn't matter.” He said. “All that matters is, I only grabbed her butt.” He laughed. “Once I touched it, I knew it wasn't you.”
+
+“Why can't I stay mad at you?” Nathalia asked.
+
+“I'm just that awesome.”
+
+Nathalia snorted a laugh.
+
+“To tell you the truth, I think it's because you're the most wonderful woman I've ever met.” Ren said. “You've put up with all of the stuff I've done, and all of the stuff the both of us have gone through together because of the stuff I've done.”
+
+“Ren...”
+
+“No, it's all right.” Ren said. “I've come to see Fritz' point of view. He's right. None of what's happened would have happened if I had never come to the Dwarven Kingdom.”
+
+“Yes, but the flip side of that argument is also true.” Nathalia said. “None of what's happened would have happened if you'd never come here.” She said. “I'd still be a cook on a ship for several more years, Lady Neram would have lost the Keep, the Council would have abolished the Royal Family and taken over completely, everyone would be working for House Lodur, and so many other things.”
+
+“Nathalia...”
+
+“No, Ren.” She said. “I'm not even going to mention all of the people you've helped.”
+
+Ren didn't respond, and she laughed.
+
+“By the gods, you even made Narhilda the Queen!”
+
+“Yeah, and look where that got me.”
+
+“Yes. Look where you are. Look where we both are!” Nathalia said. “We're both away from her, and I'm the Head of House Neram.”
+
+Ren didn't say anything, and she continued.
+
+“She's in the best position to do the most good for the Kingdom now, and neither of us has to deal with the politics all of that involves!”
+
+“That's true.” Ren said. “It was getting stuffy in those royal apartments.”
+
+“Exactly.” Nathalia said. “We're all better off where we are now.”
+
+“I... I guess so.” Ren said. “I better let you go. You need to sleep.”
+
+“So do you.” Nathalia said. “If you get finished early enough, you can be back here before nightfall.”
+
+“I'll try my best.” Ren said. “If the cement is set, I'll put the roof on as fast as I can. If it's not, I'll have to wait a few hours.”
+
+“I'll hope that it's set, then.” She said. “I need to see you again.”
+
+“Oh, you will.” Ren said. “And as many times as you want.”
+
+Nathalia laughed. “Goodnight, My Love.”
+
+“Goodnight, My Love.” Ren said, and the Sending Ring stopped glowing. He glanced over at Teepo, who had taken up a position near the doorway. See you in the morning, Teepo.
+
+“Goodnight, Ren.”
+
+Ren drifted off to sleep, as thoughts of the woman he loved floated through his head.
+
+*
+
+Nathalia curled up in her bed and did the same thing. She drifted off to sleep with thoughts about Ren.
+
+*
+
+Ereka laid on her side in Ren's old bed, with her head filled with thoughts about Ren.
+
+*
+
+Rosie laid on her back, and her head was filled with thoughts about Ren. Grandmother was right. I should have kissed him when I had the chance. She berated herself, and drifted off to sleep.
+
+*
+
+Patty, who looked like Lucy's older sister (if she had one), laid on her straw bed and wondered what the new Lord of their County was doing right now. She was having a hard time getting to sleep, because every time she closed her eyes, she saw the huge building he was making. She had gone to see it herself after the village meeting, and knew the boy was right.
+
+It is a house of some kind. She thought. But... there's so much room inside! What is he going to do with it all?
+
+*
+
+Rosie's grandmother was completely relaxed, while she slept on the brand new bed Ren had bought for her. I know he didn't buy it personally, but he did pay for it. She chuckled to herself. He's such a nice boy. I hope Rosie can catch him before he gets away. She drifted off to sleep with the happy thought of her granddaughter finally getting a man as good as her grandfather.
+
+*
+
+Sally rolled over in her bed and sighed. Ren said he would be back to see me in a few days, and it's been a lot longer than that. She thought. I wonder if he's forgotten about me? She chuckled. Look at me, fretting over a man young enough to be my grandson! She pulled the blanket up to her neck. Soon I'll start wearing clothes that reveal my ankles! She laughed and drifted off to sleep, imagining Ren's reaction to seeing her bare ankles.
+
+*
+
+Donna, the cook at the mansion, waited patiently in her bed. I wonder if tomorrow will be the day my military man will return? She thought. This deployment is going a little longer than I thought it would. She sighed. Maybe he wasn't as tempted by my charms as I thought he was? Donna drifted off to sleep, worried that Ren would wait for the whole month before coming to see her.
+
+*
+
+Narhilda lay in bed at the royal apartments, and was disappointed that Barnar didn't want to cuddle with her, especially right after having sex. She sighed mentally, because he wasn't anywhere near as good in bed as Ren was. Some of it was the same motions; but, it seemed more like a task when Barnar did it. She sighed. Ren made it fun to please him, because he enjoyed it so much, and was enthusiastic about the whole thing. She looked at Barnar. Barnar will make a better example for the people, though. Narhilda imagined it was Ren beside her as she reached between her legs and pleased herself, then drifted off to sleep.
+
+*
+
+Jhulune, the young worker from the lumberyard in Aurora, was not happy right now. She had just turned 18, and Brian had finally convinced her to take her top off to let him see what he had longed to see. When she did, he'd grabbed her and pawed at her breasts as if they were kids toys. She asked him to stop right away, and when he wouldn't, she hauled off and punched him in the mouth. She hurt her hand doing it, but at least she had knocked out one of his teeth.
+
+“Go ahead and explain how that happened to the local healer, you jerk!” Jhulune said, and put her top back on, as Brian held his mouth in shock. “I know I'm sure as hell going to tell everyone how it happened!”
+
+“Jhulune, wait!” Brian pleaded, but she ignored him and left his small bedroom. She huffed and walked past the living room, and held her hand as it started to throb. Brian's mother asked her what was wrong, and she told them what had happened. Jhulune left the house before they brought him out to apologize to her.
+
+“What an ass!” Jhulune shouted into the night, and sighed as her hand gave a particularly strong throb of pain. She looked at it closely, and tried to discover what was wrong. She opened her fist, and only the thumb and 3 of her fingers worked right.
+
+“Dammit, my finger's broken!” Jhulune turned towards Brian's house. “You broke my finger, you ass!” She shouted, then turned back down the street. “I hope the healer is still awake.” She said, and kept walking.
+
+After a few minutes, she arrived at the temporary healing station that had been set up after the fire. She told the clerk what had happened, and no one said anything as she was sent to the front of the short line. While the healer dealt with her finger, Jhulune couldn't help but think about that nice man, and how he had treated her with both respect and honesty.
+
+I bet Ren wouldn't have treated me that way! She thought, then nearly screamed as the healer pulled her finger straight so he could heal it. “Oooow!”
+
+“I'm sorry.” The healer said. “I needed to pull it straight, or...”
+
+Jhulune nodded, and he healed her finger in less than a minute using his Minor Healing ability.
+
+“Thanks.” She said, and he nodded to her.
+
+Jhulune left the temporary healing station and went back to her brand new house. She laughed at that, because it was actually the same old house, just with all new parts. Her mother had pleaded with the work crew to change the layout; but they said that they were paid to restore it to the way it was, not to build whatever she wanted.
+
+They told her they could come back if she hired them to remodel, but it would have to be after the rest of the city was repaired. Her mother had relented in badgering them, and the house was built faster than they thought was possible. The lot was cleared quickly, the pre-built walls were put in place and nailed together, and the roof was put on. It had only taken half an hour.
+
+Jhulune went inside, and told her parents what had happened. Her father picked up his axe and went to the door.
+
+“Dad, no!” Jhulune said. “I took care of it already!”
+
+“No one touches my little girl like that, and gets away with it!”
+
+“I even knocked one of his teeth out!” Jhulune said and held her father's arm to stop him from leaving.
+
+“I'll get the rest.” He said, and tried to pull his arm free. “Along with his head.”
+
+Jhulune held onto her father's arm tightly, and he stopped struggling; mainly because he didn't want to hurt her. He sighed as he saw her pleading face.
+
+“All right.” He said and put the axe down. “But if I see his face anywhere near you again, he won't have a face anymore.”
+
+“Daaaad!”
+
+“What?”
+
+“You... you can't just...”
+
+He sighed. “Fine. What do you want me to do?”
+
+“I want you to trust your daughter.”
+
+He smiled and took her into a hug. “I do trust you.” He said and squeezed her tightly. “It's everyone else I don't trust.”
+
+“Oh, dad.” Jhulune said, and held onto her father as tears came to her eyes. She hugged him tightly, and cried.
+
+*
+
+Ren woke up the next morning, rested and refreshed. “Boy, that was a good sleep!”
+
+“It's your first one alone in a while.” Teepo chittered in laughter.
+
+“Hey, you're right!” Ren said. “I guess I needed a break from everything.”
+
+Teepo chittered in laughter again. “Hurry up and get back to work, you slacker.”
+
+Ren laughed and went downstairs to feed Princess breakfast, then Teepo dissolved into the ring as Ren went back upstairs and went through the portal.

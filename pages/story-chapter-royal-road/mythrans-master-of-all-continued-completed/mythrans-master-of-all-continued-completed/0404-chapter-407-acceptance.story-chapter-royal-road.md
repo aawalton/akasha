@@ -1,0 +1,273 @@
+---
+id: 2c15fa02-913a-516e-87f7-6d2d2671c029
+page-type-slug: story-chapter-royal-road
+title: "Chapter 407 - Acceptance"
+slug: 0404-chapter-407-acceptance
+partOf: mythrans-master-of-all-continued-completed
+position: 404
+ownLength: 3185
+unit: words
+publishedAt: 2017-10-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171432/chapter-407-acceptance"
+royalRoadId: "171432"
+---
+
+Elise, Stella, and Denise exchanged glances, and then Elise raised her hand. Stella raised hers next, and Lisa smiled.
+
+“Even when he's hurt and not feeling well, he still got two of you in the bed?” Lisa asked and chuckled. “Ren, you're such a player!”
+
+Ren snorted a laugh and spit out a little bit of broth. Elise helped him clean up with a few tissues.
+
+“We're only sleeping and not doing anything else.” Stella said. “The last thing that any of us want to do is hurt him again.”
+
+Denise's face flushed red at the comment, and Stella walked over to her.
+
+“Ren isn't blaming you, and neither are we.” Stella said and gave the shorter woman a quick hug. “We're not going to fault you for a lapse in judgment, especially while you were trying to protect him.”
+
+“I fault myself.” Denise said, and Stella smiled.
+
+“That's because when something happens, it's us that have a higher sense of responsibility for him.” Stella said. “Elise asked me to stay in the room for just that reason.”
+
+“It's true.” Elise said. “Wouldn't we all feel safer with Stella in the room while we're asleep?”
+
+Both Lisa and Denise nodded their heads without hesitation, and it was Stella's turn for her face to flush a little red. Ren waved to get their attention and pointed to Stella, pointed to his own head and held his fists against his forehead, then moved them away slowly and opened his hands.
+
+“I think he said that you blow his mind, Stella.” Elise said. “I have to agree.”
+
+“Seconded.” Lisa said right away.
+
+“Thirded.” Denise said, and grinned at her. “Even though that's not a word.”
+
+Stella could normally detach herself emotionally in certain situations so she could remain calm; but with the way everyone's emotional states seemed to be dependent on her just being there, it was a little too much to stay detached from.
+
+“T-thank you.” Stella said.
+
+“Oh, wow.” Denise said. “Are you flustered?”
+
+“N-no, I'm fine.” Stella said and tried to turn away from the others to hide her growing blush. She heard footsteps in the hallway and looked that way and saw Barbara as she walked down the hall towards them with a tray filled with small dishes of ice cream.
+
+“Who wants ice cream?” Barbara asked when she stepped into the room. Ren's hand shot up into the air before she'd finished speaking, and Elise was glad that it wasn't the hand with the spoonful of broth in it.
+
+“Finish the soup first.” Barbara said, and Ren picked up the bowl and poured the rest into his mouth. There wasn't much soup left; so, he actually managed to swallow it without spilling anything. He pushed the empty bowl aside and waited expectantly.
+
+“Take a small drink to rinse your mouth.” Stella said and handed him his supplement drink. “You'll want a clean palate for this, I think.”
+
+Ren took a small one and swished it around like mouthwash, then swallowed it. Barbara put a dish in front of him, and there were three small scoops of different kinds of ice cream in it. Ren's mouth fell open and he stared at her.
+
+“Your new diet plan says you can have a bit more fat-building foods.” Barbara said, as the other women took a bowl each from her tray with the same contents. “These are the fattiest ones I could find; but, I'm pretty sure I know which one you'll like more.” She smiled. “The scoops are only sample-sized, so it's just enough for you to tell me which one you like better.”
+
+Ren picked up the spoon and dipped it into the first scoop. It was a light brown color and had small bits of something in it. He put it in his mouth and his eyes lit up as he sucked and chewed.
+
+“Chocolate Chip Cookie Dough.” Barbara said. “I like that one, too.”
+
+Ren tried the next scoop that was a bright green with black things in it. It had a strong taste to it, and he wasn't sure if he liked it or not.
+
+“Mint-Flavored Chocolate Chip.” Barbara said. “I knew that was an iffy choice.” She smiled as his spoon moved to the last one. “This is the one I think you're really going to like.”
+
+Ren dipped his spoon into the last scoop, and when it entered his mouth, he almost couldn't contain his happiness. He shovelled it into his mouth a fast as he could, and the small scoop was gone a few seconds later.
+
+“What the heck was that one?” Elise asked, surprised.
+
+“If you can believe it... and I bought it and I still don't believe it... it's Bacon Maple.”
+
+“It's WHAT?” Stella asked with a yell.
+
+“I told you.” Barbara said and laughed. “It's bacon and maple. According to the ingredients, it's a frozen egg custard with actual bacon bits and maple syrup added.”
+
+“Good god.” Stella said. “That's a 'harden arteries' recipe if I've ever heard one!”
+
+Barbara and Denise nodded.
+
+“It's fat content is through the roof.” Barbara said. “I'll go downstairs and get a full scoop for him.”
+
+“Don't bother.” Elise said and slid her sample scoop of the bacon ice cream into Ren's bowl and took the mint one. “I'm not letting that stuff touch my tongue. It'll go right to my hips, and they don't need any more encouragement to get fat!”
+
+“Mine don't, either.” Denise walked over to Ren and gave him her scoop of bacon ice cream and took the Chocolate Chip Cookie Dough. Stella tried a small bit of hers on the tip of her spoon, shook her head and gave Ren her scoop as well.
+
+“You're not going to have competition for this kind of ice cream.” Stella said.
+
+“It's actually really good.” Lisa said, and everyone looked at her as she ate her scoop of bacon ice cream. “The bacon could be crumbled up a little more, though.”
+
+Ren waved his hand to get their attention, then pointed to his eye, tapped his temple, pointed to his eye again, gave himself a little hug, then pointed to Lisa.
+
+“Um... you knew you hugged her?” Elise asked.
+
+Ren shook his head and pointed to himself and then the bacon ice cream.
+
+“Like!” Stella said, and Ren tapped the tip of his nose. “He knew he liked you.”
+
+Lisa nodded. “I don't have to worry about getting fat, either.” She said. “I think my metabolism is almost as high as Ren's.”
+
+They all stood there in silence as they all ate their ice cream, once they had convinced Ren not to gorge himself, which was a very difficult task with something like bacon ice cream in front of him, he was allowed to eat it.
+
+When they were all done and had piled the dirty dishes onto the food tray, Stella spoke.
+
+“I'm staying here tonight, so you can have the night off, Barbara.” Stella said.
+
+“Are you sure?” Barbara asked. “I know with everyone here that there's not much for me to do; but, it's still supposed to be my shift.”
+
+Stella put a hand on her arm. “You've been awake just as long as the rest of us, so go home and sleep.” She said. “That's what we're all going to do, anyway.”
+
+“Oh, all right.” Barbara said. “Take the tray downstairs while I say good night.”
+
+Stella nodded and left the room with the full tray, and Barbara walked over to the bed. She had to almost crawl onto the bed to give him a hug.
+
+“I'm so glad you're okay.” Barbara said, and put her mouth by his ear. “Goodnight, my boy.”
+
+Ren hugged her tightly and put his mouth by her ear and breathed out. “Mom.”
+
+Barbara caught her breath for a moment, kissed his cheek, and quickly left the room.
+
+“She left in a hurry.” Elise said and used a hand to fix Ren's messy hair. “I guess you being hurt hit her just as hard as it did me.”
+
+Ren nodded and looked at Lisa and Denise. They stood there, kind of awkwardly, and he waved them closer. They came over to the bed and Lisa climbed up onto it, since she wasn't much taller than Ren, and she gave him a hug and a kiss. She moved over slightly so that Denise could do the same thing. When Denise went to kiss him, she glanced at Lisa and Elise.
+
+“Just kiss him already.” Elise said and smiled. “You need to get used to having at least one of us around all the time when you do it.”
+
+Denise opened her mouth to say that she could probably sneak kisses, and Ren sat up and kissed her. She forgot that they weren't alone and kissed him back. Ren broke the kiss and laid back down, and tried not to laugh at her surprised expression. Stella came back into the room with a couple of t-shirts and jogging pants, and saw the three women on the bed with Ren.
+
+“I was only gone for a couple of minutes!” Stella chuckled. “Are we doing a dog pile now?”
+
+Denise was still surprised that Ren could distract her just by kissing her, so she didn't know how to react to Stella's question.
+
+“Well, this is my first sleepover with a man.” Lisa said, and her face flushed red. “I'd like to spend it with him.”
+
+“I guess that would take precedence-” Elise said.
+
+“No.” Lisa said and cut her off, and everyone looked at her. “I didn't mean that I wanted it to be just me.” She said and her face went to a deep red. “Only that I want to be included.”
+
+“We're only sleeping, so I guess that's okay.” Elise said. “Stella?”
+
+“We just have to be careful of his leg.” Stella said. “Other than that...”
+
+“I... I'll get out of the way, then.” Denise said and started to move off the bed. She felt something touch her face, and she looked at Ren. She could see a slightly pleading look, pointed to Lisa, then pointed to Denise and him.
+
+“I think he means you're like me.” Lisa said. “This is your first night staying here, too.”
+
+Ren nodded and pat the bed.
+
+“You... want me to sleep here... with all of you?”
+
+Ren nodded again and mimed changing clothes.
+
+“Yes, we all should get changed for bed.” Stella said. “Elise? These should fit a lot better than Ren's poor long-sleeved t-shirt.” She handed the other woman a large t-shirt and a pair of jogging pants.
+
+“Thanks, Stella.” Elise said and got off the bed. Her uni-boob bounced around and Ren held his throat and snorted a laugh. “It's pretty funny wearing this thing, but it's damn uncomfortable.”
+
+“I can imagine.” Stella said and poked it. It bounced a little, and Ren snorted louder.
+
+“Stop teasing him.” Elise grinned and walked over to the bathroom.
+
+“I'll go and grab my stuff, too.” Lisa said and gave Ren a kiss on the cheek. “I'll be right back.”
+
+“I'll... um...” Denise tried to say something.
+
+“Come with me.” Lisa said and took Denise's hand. She didn't protest the action and followed Lisa off the bed and out of the room.
+
+“You sure have picked some interesting partners.” Stella said and started to take off her clothes. “I don't know which one is more surprising, though.”
+
+Ren's body reacted to Stella just casually undressing in front of him, and she saw this and chuckled.
+
+“Okay, that's surprising, too.” Stella said. “You've seen how many naked women now, and you're getting hard from just watching me change?”
+
+Ren pretended to lick his finger and touched his good leg, and made a hissing sound.
+
+Stella snorted a laugh. “I'm hot, right?”
+
+Ren nodded, and she slid on her jogging pants. He watched as she undid her bra and left it on her pile of dirty clothes, then put on a plain white t-shirt. His mouth opened in a little 'o' of surprise at how hot she looked.
+
+“You're really turned on by this?” Stella asked and turned to the side, and Ren could see how form-fitting the t-shirt was. Since she wasn't wearing a bra, it left almost nothing to the imagination; even though it was a thick cotton fabric.
+
+“You're hopeless.” Stella laughed as she climbed onto the bed. She didn't lay down next to him, and he looked at her with wide eyes.
+
+“Wait for a few minutes, and you'll see what I'm doing.” Stella said, and Ren nodded. He trusted her judgment, and would follow her lead. Elise came out of the bathroom in jogging pants and a t-shirt, and it was just as form fitting as Stella's was... and she also wasn't wearing a bra. Her chest moved like ocean waves as she walked across the room to the bed, and even Stella stared at her.
+
+“That's amazing.” Stella said as Elise climbed up onto the bed, and Ren nodded several times.
+
+“I can't wear that bra to bed.” Elise said and laid down next to Ren. “I'd be so sore in the morning if I did.”
+
+“Elise? Can you move back about a foot?” Stella said.
+
+“What for?”
+
+“Just an idea I had to make this a lot less awkward.” Stella said.
+
+“I'm all for that.” Elise said and moved back. “How are we going to sleep with 5 people in a bed without cuddling?”
+
+Stella winked at her and they waited for Lisa and Denise. The two women came into the room a minute later and saw Ren, Elise and Stella on the bed.
+
+“Okay, did we all shop at Comfort-R-Us?” Lisa asked and laughed. “We're all in tight t-shirts and jogging pants.”
+
+The other women laughed.
+
+“It's a trend.” Stella said and smiled.
+
+“So... who goes where?” Lisa asked.
+
+“You're on that side with Elise and Ren's good side.” Stella said.
+
+“As long as I'm next to him.” Lisa said and walked over to the bed, climbed onto it, then laid down on her side between Elise and Ren.
+
+“Denise?” Stella pat the spot between her and Ren. “We get the side with his bruised leg.”
+
+“I... can't believe I'm doing this.” Denise said and walked over to the bed, climbed onto it, then laid down in a similar fashion as Lisa. She was on her side between him and Stella, and faced Ren.
+
+They were an odd collection of people. Elise was 6 foot 2 inches tall and had long flowing red hair and an enormous chest. Lisa was only about 5 inches taller than Ren and wasn't much bigger than him. Body-wise, she had a nice perky butt and what was considered a small chest; but, Ren liked that because his hands fit over them perfectly. Her short blonde hair never got in her way, just like Ren's hair didn't get in his way.
+
+Denise was only 5 foot 3 inches, and her body was a little thicker in the torso than a normal person, and she had a good-sized chest. Her shoulder-length blonde hair was a little fluffier than normal, and depending on what she wore, you could see her muscles. Stella was 5 foot 9 inches tall, was a little thin for that height; but she was athletic and had a fantastic body.
+
+Ren was only 4 foot 7 inches tall, had fluffy and flyaway blonde hair, and was easily hurt. Despite the fact that he needed constant care, he had found several women that didn't mind that quirk. They cared about him, and he cared about them. He didn't know how he had ever become so lucky, and all he could do was be thankful for it; so, he opened his arms and waited.
+
+“Wh-what are you doing?” Denise asked, and her eyes widened as Lisa moved in close at the not so subtle invitation from him and cuddled with her head resting very lightly on the side of his chest. Ren put his arm around her shoulders, and Elise slid in close and put an arm over Lisa and touched his chest.
+
+“Um... I...” Denise tried to speak, and Ren looked at her expectantly. She sighed and slid in to copy Lisa, cuddled with Ren and very gently laid her head against his chest. He wrapped his arm around her shoulders and kissed the top of her head.
+
+Denise tensed up a little as she waited for Stella to cuddle in close to her like Elise had with Lisa; but, Stella only put a hand on her shoulder and gave it a squeeze. Denise reached up and took the hand, then slid it across her to put it on Ren's chest. Stella still didn't cuddle in completely, mainly because she knew that one little move was a huge step for her friend.
+
+Stella leaned in close to Denise and whispered in her ear. “Thank you.”
+
+They all took a deep breath at almost the same time, let it out, and drifted off to sleep.
+
+*
+
+Barbara held her husband tightly several hours later as they cuddled in bed. She had told her husband Donald about everything that had been happening since Ren's accident.
+
+“The poor little guy.” Donald said. “He must be heartsick after being hurt again in such a stupid accident.”
+
+Barbara nodded, then shook her head.
+
+“What was that motion?” Donald asked and smiled.
+
+“I think he should be sad about it; but, I don't think he actually is.” Barbara said.
+
+“Huh.” Donald grunted. “Good for him. You told me he was tough.”
+
+Barbara nodded. “I just wish I was there... or that someone saw what happened.”
+
+“It's a big place.” Donald said. “Even if you had been there at the time, would you have been close enough to make a difference?”
+
+“I don't know.” Barbara said.
+
+“Hey, don't most big homes have security cameras or something?” Donald asked. “I mean, if it was me, I'd want the place secured. If there's cameras, maybe they recorded the accident.”
+
+“Oh, my god!” Barbara said and hopped out of the bed. “We never thought of that!”
+
+“Where are you going?” Donald asked.
+
+“I've got to ask Elise about security systems!” Barbara said and ran to the door.
+
+“BARBARA!” Donald yelled, and she froze at his command voice. “It's the middle of the night and no one is awake over there next door.”
+
+“Oh, right.” Barbara sighed. “I guess I can tell them in the morning.”
+
+“Plus, you're still naked.” Donald said.
+
+Barbara looked down at herself. She was as naked as the day she was born, and her face flushed beet red.
+
+“That could have been quite the shock for them.” Donald said and laughed.
+
+“It's not funny, Donald!” Barbara said. “I would have been so embarrassed!”
+
+“I'd never let that happen.” Donald said. “I'd have stopped you... once I stopped laughing.”
+
+“You... you...” Barbara stomped over to the bed and grabbed a pillow. She proceeded to smack him upside the head several times with it, and all he did was laugh.

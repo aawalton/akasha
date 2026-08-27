@@ -1,0 +1,613 @@
+---
+id: cab5d73d-ec99-5a5f-9421-6c8655b20e4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109 - Trading For Ideas"
+slug: 0093-chapter-109-trading-for-ideas
+partOf: mythrans-master-of-all-continued-completed
+position: 93
+ownLength: 4821
+unit: words
+publishedAt: 2016-12-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106765/chapter-109-trading-for-ideas"
+royalRoadId: "106765"
+---
+
+Ren discussed what he needed Barnar and his workers to do, and Barnar was reluctant to have his people just slapping mortar on walls.
+
+“I'm teaching them to be artists, Ren.” Barnar said.
+
+“Of course you are. I wouldn't expect anything else.” Ren said, and the Haggle skill kicked in again. He smiled and continued. “I want that for the walls.”
+
+“You what?”
+
+“Make them as ornate and decorated as you can. They need some rebuilding anyways, why not go all out?” Ren grinned and looked around. “Like those columns.”
+
+“What about them?” Barnar asked.
+
+“Can you make a corner mold of it?” Ren asked. “So that it will sit against the outside corner of the wall, but it looks like it is the corner?”
+
+Barnar looked at Ren like he was crazy. “You're saying... it doesn't have to be the corner, just fit over it and look like it is.”
+
+“Exactly! As long as it looks like it is. With your expertise, no one will know it's not.”
+
+“You really are crazy!” Barnar said and grinned. “Come and show me what you want.”
+
+Ren showed him that he could make a mold of just the bottom piece, a mold of the top piece, and then a 1 foot section of the middle.
+
+“Why just a 1 foot section?” Barnar asked.
+
+Ren smiled. “That way, you can make multiple copies and stack them, since they'd all be identical. Also, they're not too heavy to move, or break under their own weight.”
+
+Barnar's eyes widened. “Well, damn.” He said. “That's... you're a genius!” He grabbed Ren around the shoulders. “If this works...”
+
+Ren nodded slightly. “Use House Neram as an example. Once everyone can see what you can really do with walls, everyone will want you to work for them.”
+
+“Ha!” Barnar exclaimed. “Everyone already wants me to work for them.”
+
+“Sure, they do; but, how often have you walked up to a House and cringed when you saw the plain stone and mortar outside? On every... single... House.”
+
+Barnar gave Ren a crooked grin. “So, you do have a stonemason's eye.”
+
+Ren smiled. “It bothers me every time I go back to House Neram, to see it the way it is.” Ren put a hand on Barnar's arm. “Make it as outrageous as you can. Add the front half of columns about every 10 feet or so, swirls along the tops of the walls to join them together.” Ren smiled. “Like I said, go all out.”
+
+“What about the battlements?”
+
+“Don't put any details on them, just smooth them over. A good layer of mortar, after repairing them of course. Do everything else underneath.”
+
+“The walls are going to be a little plain inside those 10 foot sections.”
+
+“I've got an idea about that.” Ren said. “I'll need one of your carvers to help me make a mold, though.”
+
+“Ms. Alreane!” Barnar called across the room. “We're going to make a ton of money.”
+
+Ren grinned. “That's not counting the Influence you'll gain, either.”
+
+Barnar looked at Ren in surprise. “I... I didn't even think of that.”
+
+“You're going to have to.” Ren looked around. “This isn't going to be enough room for you to work if this takes off.”
+
+Barnar grinned, too. “I've got a good stake on most of the block behind me.”
+
+“Nice.”
+
+“What do you need, Mr. Slatebreaker?” Ms. Alreane said as she came over to where Ren and Barnar stood.
+
+“This man needs your carving expertise. Treat him well.”
+
+“Of course, sir.” She said. “My station is right over here.” She walked away and Ren followed her to her workbench. Ren saw all the clutter there and smiled.
+
+“I'm sorry, we're going to need more room than that.” Ren said and motioned at the tabletop. “About this much.” Ren said and made a circle with his arms, nearly touching his fingertips.
+
+“2 feet round. Got it.” She said, then quickly cleared everything off the desk and put it away. Ren assumed each item went where it was supposed to go, as the movements seemed practiced and easy. “Anything else?”
+
+“It's going to be a negative relief, so I can use it as a mold and make copies.”
+
+Ms. Alreane smiled. “I've been wanting to try that!” She saw Ren's surprise and chuckled. “I meant the mold part, not the relief carving. I can do that with my eyes closed.”
+
+Ren smiled. “Great.”
+
+“So, what's your idea?” She asked.
+
+“A House Crest.”
+
+“A...a...what?”
+
+Ren grinned and took out a big piece of parchment. “I'll show you.” He said, and much to her surprise, he drew out exactly what he wanted. “I've been thinking about a Maker's Mark, ever since a friend mentioned it to me.” Ren said and handed over the drawing. “It should make a great House Crest.”
+
+“You're really good.” She said, looking at the drawing. “Grab me a good slab, would you?”
+
+Ren walked over to the stack and took a few minutes to find one that could be used. He re-stacked the pile, brought over the one he chose, and set it gently on the desk.
+
+“You moved those like they were nothing!” Ms. Alreane said, surprised. “It takes me 10 minutes to get one of those to my desk!”
+
+“I can bring more over, if you want.” Ren said.
+
+“That would be really nice, actually.”
+
+“Do you want to pick the ones you want, or do you just want a stack?”
+
+“A... a stack, please.” She said, surprised.
+
+Ren still had a slot open, and stored a dozen slabs, walked back to her desk, and stacked them right there beside it.
+
+“Thank you.” She said, with admiration in her eyes. “I won't have to lift anything for the rest of the month.”
+
+Ren waved her thanks away. “When I'm here, I told Barnar that I'd help out where I can.”
+
+Ms. Alreane smiled and nodded slightly, then got to work. She was quick with her chisel and hammer, and groved tools, and files. Ren only had a basic design drawn, but she rounded everything and made it all stand out, albeit in reverse. When she was done, Ren stored the plan with the others he had in inventory, and they took the relief carving over to the corner of the room that was now dedicated to making molds. It was treated with chalk dust and then filled with mortar.
+
+“You've got it down to an efficient system. Excellent work.” Ren said and the dwarves smiled. Once the mortar was set 15 minutes later, they popped it out of the mold and looked at it.
+
+“Ooo.” Everyone said, and Ren smiled.
+
+“You designed that, Ren?” Barnar said as he came over to see what they were doing.
+
+“I did.”
+
+“I like the flow.” He said. “I assume you were going for as much symmetry as you could?”
+
+Ren nodded slightly. “I was trying to get as much as I could into it, to show what I could do, without overdoing it.”
+
+“Well, you definitely succeeded.” Barnar said, and looked at it. “This is what you want in every blank section?”
+
+“I do. You can fill the mold as many times as you need to; but once the job is done, I'd like the mold sent to me, please.”
+
+“Of course.” Barnar said. “It's yours, after all.”
+
+Ren smiled and stored the crest. “Of course, once people see that House Neram has a House Crest...”
+
+“Ha! Hahaha!” Barnar laughed and clapped Ren on the shoulder. “Yes! They'll all want something designed, and made special for them, too!” He said and smiled. “Your ideas have a way of blooming into more and more things, my friend! Will you be by often to pick up your cut for everything that's going to come from all of this?”
+
+“You'd better just send it directly to House Neram.” Ren said. “I'm going to be busy for the next little while.”
+
+“Of course, my friend.” Barnar said, then looked at him with his eyebrows raised. “Are there any other ideas in that big brain of yours?”
+
+“Well...” Ren said, and Barnar laughed a full throated laugh.
+
+*
+
+Elerlyth was tired of searching. After half of the city was looked into, there was no sign that the fake Mitchell had been there, at any time. “Ugh...” She said and sat on the steps of the library. “I'm really glad I didn't take the job officially.” Elerlyth looked up at the sky. “It's just after noon.” She sighed. “I better go back to the inn and get some sleep before nightfall.” She stood up and walked back to the Leisure District. “I've got that engineering exam in real life, first thing in the morning.”
+
+*
+
+After helping the workers grind up a bunch more powder for the mortar, Ren left the stone workshop, and ran as fast as he could back to House Neram. He needed to tell Nathalia and her mother everything that was going to happen tomorrow. He looked down at the ring, but didn't want to disturb Nathalia with the details. He'd just have to repeat them once he got to the house, anyways.
+
+*
+
+“I think we should go purple for everything.” Narhilda said and beamed a smile at her daughter.
+
+“Ma... we can't just make all the decisions without consulting Ren.” Nathalia said.
+
+“Why not?” She said. “He's not going to care. He's a man.”
+
+Nathalia snorted a laugh. “You don't know him as well as I thought you did, if you believe that.”
+
+*
+
+Ren arrived at House Neram and unlocked the gate. He closed it behind him, locked it again, and waved to Princess. She nodded, and Ren went inside the house.
+
+“Good afternoon, Ladies.” Ren said as he approached the kitchen table. It was covered in pieces of cloth and types of fabric, in all different colors. “Can I ask what's going on?”
+
+Nathalia smiled. “Of course. Ma is trying to convince me to use purple for everything at the ceremony.”
+
+“That's not a good idea.” Ren said, then smiled at Narhilda's surprised expression. “If everything was purple, nothing would stand out.” He said and sat down. “Now, if you went red for the carpet... white for the accents and drapes, and red for the streamers.” Ren looked at Narhilda. “Those are streamers, right?”
+
+She nodded and Ren continued.
+
+“You could put large bows or something on the backs of the seats.” Ren looked at the plans. “Are there balloons?”
+
+Nathalia smiled and nodded.
+
+“I'd suggest a mix of white and red, in two large bundles, with a single purple in each one.” Ren said. “One bundle for me, one for her, with the purple ones tied together. Nathalia can wear a purple dress, and maybe some silver armor. I can be in purple as well, and in half, or full plate armor.” He said. “We can decide on the designs later. After the ceremony, we release the balloons and reveal the tied purple ones as they float together.”
+
+“But... but...” Narhilda said.
+
+“ Ren, I think you broke her.” Nathalia said and laughed.
+
+“What?” Ren said and turned to Narhilda. “Wouldn't that be great?”
+
+“It... it would, actually.” She said, impressed. “You've thought about this?”
+
+“I think about everything.” Ren said and shrugged. “We don't have to go with that, though; but it gives you something to build off of, in any case.”
+
+“You just keep amazing me, Ren.” Narhilda said. “Thank you.”
+
+“You'll love this then.” Ren said and dropped 35 gold onto the table.
+
+“What's that for?” Narhilda asked.
+
+“Freelance work for House Slatebreaker. It'll keep coming for as long as they use my ideas. That's going to be for a while, assuming they go where I think they're going to go with it.”
+
+“Ren, are you giving us the money that you've earned for your own work?” Nathalia asked.
+
+“No, I'm giving the money I've earned for the House, to the House.”
+
+“Ren...” Her mother started to protest. Ren held up a hand. “It's not like I need it right now.” Ren said. “I've got a lot of work to do, and I can't be worrying about little trickles of money coming to the House that I have to gather all the time.” Ren walked over to Narhilda. “Until the military contract comes in, this is all I can earn for the House.”
+
+“Ren...” Narhilda said.
+
+“I know it's not much, but at least everyone will know about House Neram soon.”
+
+“What do you mean?” Nathalia said.
+
+“I've hired House Slatebreaker to work on the outside of House Neram.”
+
+“You WHAT?!?” They said together.
+
+“Well, I was going to do it all myself, but Teepo had the brilliant idea to have a whole crew of people work on it.”
+
+“But... but...”
+
+“Don't worry, I worked out a reasonable cost for the work.”
+
+“How are we going to pay...”
+
+Ren snorted a laugh. “Are you kidding? We're going to be their 'Show House'. All I have to pay for is labor.”
+
+“Ren!” Nathalia exclaimed.
+
+“What?”
+
+“You... you can't pay for everything!”
+
+“Why not? This is my House now, right?”
+
+Nathalia opened her mouth to protest, but Ren was right. “Yes, it is.”
+
+“Then I'll spend my money how I want.” Ren said and smiled. “I've got to start work on this place as soon as possible. Tomorrow seemed like 'soon' enough to me.”
+
+“T-t-tomorrow!” Narhilda said.
+
+Ren grinned. “I've got 200 stone bricks and 3,000 paving stones being delivered tomorrow.”
+
+“3... 3.... 3,000!” Narhilda said, shocked.
+
+“I've got an idea, and I need a lot of them for it.” Ren said. “By the way, where are the mines?”
+
+Nathalia blinked a few times, then spoke. “It's... it's just a mile or so out of the city, the opposite way than the convent.”
+
+“Thanks.” Ren said and walked over to her to give her a kiss on the cheek. “I should be back for supper.” He bowed to Narhilda. “My Lady.” Then left the kitchen and then the house.
+
+*
+
+“What does he want at the mines?” Narhilda asked.
+
+“Ore, probably... assuming they'd sell him anything.” Nathalia said. “What do you think of his plans for the ceremony?”
+
+“I think they're perfect.” Her mother said.
+
+“Me, too.” Nathalia said and smiled. “Just like him.”
+
+*
+
+Ren ran as fast as he could through the main city, then took the corner to go the other way along the mountain range. It didn't take long for him to come to the mines. He slowed down and looked at the spectacle.
+
+“Teepo! Are you seeing this?”
+
+Teepo chittered in laughter. “I'm surprised that everyone can't see it.”
+
+It wasn't just a series of mines. Nearly a quarter of another mountain was completely dug away.
+
+“How... how many dwarves are here working off debts?”
+
+“All of them.” Teepo said and chittered in laughter.
+
+Ren snorted a laugh. “I meant an actual number, but I get what you mean.” Ren said. “No wonder paying money is so strange to them. They expect everyone to work here!” He approached the main gate to the mine compound, and the guard standing in front of a small shack, brandished his axe.
+
+“Work Permit.” He asked.
+
+“I don't have one.” Ren said, and the guard looked surprised.
+
+“What are you doing here, then?”
+
+“I'd like to make a purchase, actually.” Ren said. “Is the foreman, or whoever runs the place available? I didn't make an appointment.”
+
+“Just a moment.” The guard stepped inside the little shack and spoke. He waited for a minute, nodded, and came back out.
+
+“Someone will come for you.”
+
+“Thanks.” Ren said and looked around. I'd say this looks exactly like the mines near Aurora.
+
+“It does.” Teepo said. “That's good, since it's way too big for me to explore before you go in.”
+
+Agreed. We'll just have to be careful.
+
+A few minutes later, a male dwarf drove a small cart and pony up to the gate. “Is that him?” The dwarf asked the guard.
+
+“Yes, sir.”
+
+“Open the gate.”
+
+The gate opened and the dwarf waved Ren over, and he climbed up to sit beside the dwarf in the front. “You could get in the back.”
+
+“No, thanks. I like to see where I'm going.” Ren said.
+
+The dwarf gave him a half-smile and flicked the reins. The pony took off at a trot and they drove down the road.
+
+“What is it you want here?”
+
+“A couple of things.” Ren said. “What are the pickings like?”
+
+The dwarf looked at him with raised eyebrows.
+
+“How big are the chunks of ore?”
+
+“About 2 fists.”
+
+“That's not bad.” Ren said and smiled. “You've got some good veins going.”
+
+The dwarf smiled. “You mine?”
+
+“Do boars pee in the woods?”
+
+The dwarf laughed and pulled the cart to a stop at the foreman's office. Teepo hopped out of Ren's hood and went into the office.
+
+“Just a dwarf and a desk.”
+
+Thanks.
+
+“The boss is in there.”
+
+Ren hopped down off the cart and knocked on the office door.
+
+“Enter.”
+
+Ren opened the door and Teepo dropped into his hood.
+
+“What can I do for you?”
+
+“That depends. How's the iron ore yield per day?”
+
+“About 3 tons.”
+
+“That's all?”
+
+The foreman scowled. “Are you accusing...”
+
+“No, sir. I've just worked at a mine before, and their yield is nearly double that.”
+
+The foreman waved to the chair in front of his desk. “What are they doing different?”
+
+“I can't say, sir. I don't know how you are running things.” Ren said and sat.
+
+The foreman squinted his eyes. “I don't even know you, and you're asking to see my books?”
+
+“Of course not.” Ren chuckled. “Just a tour would be good, and maybe answer a few of my questions.”
+
+“And why would I do that?”
+
+“I'd like to buy a large amount of iron ore, but I need to see if you can produce enough for me.”
+
+“3 tons a day isn't enough?”
+
+Ren smiled. “If you could give me the whole 3 tons, then 2 days of your yield would be enough. I think.”
+
+The foreman looked at Ren with an appraising eye. “What makes you think I can't do that?”
+
+Ren laughed. “Sir, the last mine I was at had over 5 tons of yield a day, and was still behind in their orders.”
+
+The foreman smiled. “So, you do know what you're talking about.”
+
+“I won't claim to know everything, but I did do a lot around to pick up some tricks.”
+
+“Allright, I'll give you a tour.” The foreman took Ren around the place, and Teepo checked everything out.
+
+“Yeah, it's identical.” Teepo said, after the tour.
+
+Good work, Teepo.
+
+They went back to the foreman's office and sat down.
+
+“So, what did you think.”
+
+“There's some room for improvement.”
+
+“Where?”
+
+Ren smiled and sat back in the chair. “That depends on how much yield you want out of the mines.”
+
+The foreman folded his hands on his desk. “I want double, at least. Only 3 tons a day is killing my overhead.”
+
+Ren nodded slightly. “I can double it right now, with just a few changes.”
+
+“No one can just double production with only a few changes.” The foreman said. “Are you trying to pull a scam on me?”
+
+Ren switched his Aura to Command, stood up, and glared at the foreman. “Don't you dare accuse me of such a thing.” Ren said and grit his teeth. “What I'm trying to do is help you.” He said and tried to calm down.
+
+“Take it easy.” The foreman said. “Don't get all riled up over it.”
+
+“You were questioning my Honor, sir.”
+
+The foreman's eyes widened at Ren's serious tone. “I... I was just... joking. Yes, joking.” He said. “I don't... I don't believe you.”
+
+“Why? You can tell if I'm lying, can't you?” Ren said.
+
+The foreman nodded.
+
+“Have I lied about anything I've said so far?”
+
+“No; but just because you believe it's true, doesn't mean that it is.”
+
+Ren sat back down at the foreman's words and thought about it. I think he's right. Ren thought. Just because one thing is the truth to me, doesn't mean it's the truth for everyone else.
+
+“Don't go questioning your beliefs, Ren.” Teepo said. “The truth is the truth. He's riling you up on purpose.”
+
+What?!?
+
+“He's trying to put you in a bad negotiating position, so you'll give him everything he wants, without him having to give you anything.”
+
+Ren smiled, but grimaced mentally. And I fell for it.
+
+“Not quite.” Teepo said. “He didn't expect you to pull the Honor card.”
+
+What do you mean?
+
+“He actually did question your Honor, and you called him on it.” Teepo chittered in delight. “He was pretty surprised that he lost Honor because of it, too.”
+
+Thanks, Teepo.
+
+“Now that that's settled...” Ren said, and saw that the foreman relaxed. “I saw the giant pile of silt the miners are leaving behind.”
+
+“What about it?”
+
+Ren's Haggle skill kicked in again. “It's taking up a huge area that could be easily mined. You need to get rid of it.”
+
+“How am I supposed to do that? There's literally nowhere else to put it.”
+
+“I'll take it.”
+
+“You'll what?!?”
+
+“My House has a huge area behind it, nearly twice the size of the spot you're using now. It can easily hold it all.”
+
+“And I'd have to ship it to you, right?”
+
+Ren shook his head. “No, sir. I'll have it removed from your property, free of charge.”
+
+“Why?” The foreman asked.
+
+“It really will help you to have it out of the way. You can expand the mines to nearly twice their size.”
+
+The foreman snorted. “Fine. If you can take it, you can have it.”
+
+Ren nodded.
+
+“Was that your idea? Doubling the mine's size?”
+
+Ren shook his head again. “Of course not. It's going to cost you a lot to develop that properly. Tracks, carts, and time. My ideas will get you both a profit and a yield increase much faster than that.”
+
+The foreman squinted his eyes. “Then what can I do?”
+
+“I saw the kind of food you've been serving the miners.” Ren said. “It's horrible.”
+
+“It's the cheapest food I could get.” The foreman said. “Do you know how much it costs to feed this many workers, two meals a day?”
+
+Ren smiled. “That shouldn't matter.”
+
+“What?!?”
+
+“Before I tell you what you can do, I want 8 tons of iron ore delivered to House Neram.”
+
+“8 tons of ore!” The foreman shouted. “Are you crazy?”
+
+Ren smiled. “My idea is cheap at that price, sir.”
+
+“Tell me first.”
+
+Ren chuckled. “I wasn't born yesterday.” He said. “I'll only need it in quarter ton doses, since I can't handle the whole amount at once anyways.”
+
+“Well, that is a lot more reasonable.” The foreman said. “At least give me something.”
+
+“You shouldn't be providing the food at all.”
+
+“WHAT?!?”
+
+“My idea removes that cost from you entirely.”
+
+“Well, damn... you're right.” The foreman said. “That's worth a lot more than 8 tons of ore.”
+
+“I know.”
+
+“Alright, 8 tons of ore for the idea, delivered in quarter ton doses, each day until the 8 tons is delivered.”
+
+Ren nodded.
+
+“What's the idea?”
+
+“Are you paying the kitchen staff a fair wage?”
+
+The foreman grunted.
+
+“You shouldn't have to pay them, either.” Ren said and smiled at the foreman's reaction. “The cafeteria should be a fully seperate part of your operation. You shouldn't be looking after it at all.”
+
+“Keep going.”
+
+“I'd tell you to sell the cafeteria to the workers, but that just puts them right back under you. Just give it to them.”
+
+“You're crazy.”
+
+“I've been told that.” Ren grinned. “But, if you give it to them, they will work for themselves and not for you. No more paying their wages, ever.”
+
+The foreman's mouth dropped open. “Where will they get their money?”
+
+“From the miners.”
+
+“WHAT?!?”
+
+“The cafeteria can charge the miners for food.”
+
+“That... that's outrageous!”
+
+“Not really. Food's relatively cheap, per person. You're spending money hand over fist buying all of it... but just one person? 5 to 10 copper a meal. A good meal.”
+
+“You're right.” The foreman said.
+
+“The amount they'd pay for food is actually really small, even when deducted from paying their debt.”
+
+“So why shouldn't I just keep the cafeteria and the money myself?”
+
+“You want to get rid of the headaches, remember? Let the cooks deal with complaints, the menu, and buying supplies. It'll be their business after all.”
+
+“So... is that all? It's a great idea, and I will make a profit without buying food, but I don't see a yield increase.”
+
+“That's easy.” Ren said and smiled. “Just pay more for the ore they dig.”
+
+“You're out of your mind.” The foreman said in shock. “I'm trying to save money, not spend it!”
+
+“You're investing, actually. I saw how much the weigh scales pay out. It's almost half of what they paid at the mine I worked at.”
+
+The foreman shook his head. “I can't do it.”
+
+“It's just an idea.” Ren said. “With the cafeteria serving much better food, and miners buying that food, you've got an opportunity to increase how much work they do.”
+
+“How?”
+
+“Good food makes happy people. More money for their work makes happy people. Happy people work harder.”
+
+“That's a bit simple, isn't it?”
+
+Ren chuckled again. “Of course it is. I expect the miners to scream and holler about having to pay for their own food... until they hear about increased wages. Believe me. Not one worker at the mine I was at complained about anything.”
+
+“Is that all?” The foreman asked.
+
+“That's not enough? I gave you the last idea for free, just to make the other ideas work better.” Ren said. “It's up to you to use them or not.” Ren thought for a moment. “Well, you could hire a second blacksmith.”
+
+“For what?”
+
+“To have 2 blacksmiths, obviously.”
+
+The foreman sighed. “You know I'm trying to save money, right?”
+
+Ren laughed. “I had another idea, but it's not free.”
+
+“What do you want?”
+
+“Do you know a good, and honest, Gemcutter?” Ren asked.
+
+“Actually... I do. He's my brother-in-law.” The foreman said. “He hasn't done it in years, though.”
+
+“That's fine. Can you arrange a meeting?”
+
+“What's your idea?”
+
+Ren grinned. “The mines should be running 24 hours a day, non-stop.”
+
+“WHAT?!?” The foreman shouted. “How... how would that work?”
+
+“Easily. You have a huge workforce that's having a hard time moving around. I saw miners waiting in line to unload their carts. That shouldn't happen. Split the workforce into 3 equal parts, and the day into 3 parts, 8 hours each. Each section works their part of the day. They'll be well fed, well rested, and happy because of the higher wage.” Ren smiled. “Trust me. They'll be begging you to work every second shift, so they can work off their debt faster.”
+
+The foreman sat there in shock for several minutes, then spoke. “You... you... you're a genius!” He said. “Crazy as a loon, but a genius!”
+
+Ren laughed and the foreman laughed, too.
+
+“Alright, I'll send my brother-in-law over to House Neram, with the first part of your iron ore tomorrow.” The foreman said and stood. He held out a hand and Ren shook it.
+
+“Thanks.” Ren said, opened the door to leave, then turned around. “Say, you wouldn't know where I could rent a cart and horse, do you?”
+
+“Bwahahahaha!” The foreman guffawed, and Ren left the office without an answer.
+
+*
+
+The foreman laughed and laughed. “He... hahaha... agreed to take... haha... several thousand tons... of silt and... hahaha..... doesn't even have.... a cart! Bwahahahaha!”
+
+*
+
+I'm glad I could make him happy. Ren thought. I wonder what he thought was so funny?
+
+“I don't know.” Teepo said as Ren walked over to the guard on duty at the gate.
+
+“Did you find what you were looking for?” The guard asked as he opened the gate.
+
+“I did.” Ren said. “You're going to be seeing me a lot, or carts I send.”
+
+The guard nodded. “We're always pleased to do business.”
+
+Ren stepped outside of the gate and the guard shut it.
+
+“Pardon me for asking, but are you hungry?” Ren asked him.
+
+“Now that you mention it, I am.” The guard said. “They only had porridge at the cafeteria for breakfast.”
+
+Ren smiled and pulled out the last egg, bacon and toast sandwich and gave it to the surprised guard. “Hopefully, the food situation will change around here, soon.” Ren said and started to run down the road. The guard stared at him until he disappeared from sight, then looked at the sandwich. The guard smelled it, smiled, and took a huge bite.
+
+“That's a good sandwich.”

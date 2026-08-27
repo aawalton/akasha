@@ -1,0 +1,285 @@
+---
+id: b4092f98-fae8-56e3-88cf-62c499ce0929
+page-type-slug: story-chapter-royal-road
+title: "Chapter 493 - Building Plans"
+slug: 0493-chapter-493-building-plans
+partOf: mythrans-master-of-all-continued-completed
+position: 493
+ownLength: 3205
+unit: words
+publishedAt: 2018-01-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189902/chapter-493-building-plans"
+royalRoadId: "189902"
+---
+
+Ren and Xuunah went into the warehouse, and Xuunah stood beside Artemis and Officer Holly.
+
+“Tee-one, how are things?” Ren asked as he equipped his platinum armor.
+
+“I've got what you wanted done.” Tee-one said and pointed to a nice cabinet.
+
+“Thanks.” Ren said and stored it, then disappeared from sight as he ran to the Main House as fast as he could. He dropped the cabinet off inside Xuunah's apartment and ran back over to the warehouse.
+
+“What was that?” Officer Holly asked out loud.
+
+“A wardrobe for Xuunah.” Ren said. “I just dropped it off in her apartment.”
+
+“AH!” Officer Holly was startled that he had appeared again so suddenly after disappearing. “Stop that!”
+
+Ren chuckled. “If you were wearing your armor, I'm pretty sure you would have seen or at least felt me leaving and coming back.” He looked at Xuunah. “That's why Xuunah didn't react. She felt me the entire time.”
+
+“I did, and you shouldn't enter a woman's apartment without her permission.”
+
+“I... I'm sorry.” Ren said, and she felt his sincerity. “I did that without thinking.”
+
+“It's all right.” Xuunah said. “I hope you didn't just drop it off in the middle of the room or something.”
+
+“I'm not that dense.” Ren smiled. “I put it next to the wall beside the empty dresser.”
+
+“Thank you.”
+
+“I inadvertently violated your privacy, you do not have to thank me.”
+
+“I meant for the clothing.” Xuunah said.
+
+“You haven't even seen them yet.”
+
+“I'm sure they are very nice.” Xuunah said, and Ren felt that she was trying to be sincere about it.
+
+“If it turns out you don't like some, or all of it, let me or Tee-one know.”
+
+“I will.”
+
+Ren walked over to Tee-one and folded his arms. “We should discuss what to do.”
+
+“We should make a scale model first to see if the design is going to work.” Tee-one said. “For the tower, at least.”
+
+“If we make it at 1% scale, the model is still going to be 52.8 feet tall and 26.4 feet wide.” Ren said. “That's huge for only a model.”
+
+“It's well within the dimensions of the Instant Tower recipe.” Tee-one said. “The Pleasure Palace was 80 feet long by 80 feet wide by 30 feet high.”
+
+“Hm.” Ren rubbed his chin. “Yes, it would be easier just to add the proper ingredients and let the system make it, then we will have a single object in one cube which will pop into place with the extensions going into the ground automatically, so we won't have to dig any foundations.” He said. “The downside is we won't have any idea how the rest of the city will fit around it.”
+
+“What if we scale it down even further?” Tee-one asked. “The Craft Wondrous Item ability makes exact copies of a recipe, no matter the size. If we work on making a recipe for the entire city, since you've got all the plans for the buildings you need, we can design an entire scale model for it instead of making it all in pieces and hope we get the scale right for each one.”
+
+“Actually, that might work.” Ren said. “Still, it's going to take a lot of materials.”
+
+“We know you can fit an object that's up to 80 feet wide into the cube, so let's fill it.” Tee-one said. “I mean, you said it yourself that you're going to need a minimum space for over 4,000 High Elves and their families.”
+
+“Do you think it can be done that way?” Ren asked. “I know I said I wanted to cheat in making it, but I expected to make each building as a cube and just pop them into place.”
+
+“With that many buildings for that many people, it would still take a long time to do that.”
+
+“I just thought of something.” Ren said. “If instead of scaling it to the actual size, we do the math backwards and see how many Enlarge spells it would take to make them the right size in real life.”
+
+“Well, if the enlarge spell doubles things each time it's cast, then if we keep dividing by 2...”
+
+“If we make the center tower a mile high, or 5280 feet, then we can assume it takes 9 of the Enlarge and Reduce Anything spells to reduce it to about 10.3 feet tall.” Ren said.
+
+“Inside the Instant Tower recipe, 10 feet tall is almost nothing.” Tee-one said.
+
+“It gets better.” Ren said and smiled. “At that size, we can add in one of each building I need to build and then we can design the entire city as a single piece, including the outside walls.”
+
+“If this works...” Tee-one smiled. “...you're right. We'll probably only get one chance to make it.”
+
+“Then let's not limit ourselves to only making enough room for 20,000 people.” Ren said. “We have lots of room to play with this model, so we should make the most of it.”
+
+Tee-one nodded, and Ren opened up the Instant Tower recipe. He removed everything except the automatic in-ground supports, then opened the large tower recipe.
+
+“Teepo, what scale is 10.3 feet to a mile?” Ren asked his friend.
+
+“It's 512 times smaller.” Teepo said, and Ren used that to make the tower the right size. When he put it into the recipe, it was 10.3 feet tall and 5.15 feet wide at the base. With that as the guide, he opened up the recipe for an administrative building and added 8 of them just outside the central tower, in an equal distance apart from each other in a circle. He wasn't sure how many would actually be needed, so adding more couldn't hurt.
+
+“Should we add the half-tall spires near them?” Tee-one asked.
+
+“No, let's keep them separate for now.” Ren said and added a main meeting hall on the left side, and one on the right. After those were the businesses, and rather than clumping them all up, he and Tee-one chose to run them in a line all around the central tower and administrative buildings. He left ample space between them for expansions and new businesses, since he didn't know what people would want to do for work when they moved in, and made sure there was plenty of public sitting areas just outside.
+
+Once that ring was done, Tee-one suggested parks with trees and shrubbery, and Ren left a section of the entire ring bare with retaining walls to show the areas that were sectioned off. After that, they added the large apartment buildings and small apartment buildings around the parks section. They interspersed them so that it was one large, one small, all along the ring. It took a bit of adjustment, and then Ren asked the system to make them all equidistant to each other. The buildings shifted slightly to the proper spots, and they continued on working.
+
+Ren added the large retaining wall next, despite his reluctance to do so, and kept in the elfling living quarters inside. Unlike the plans, he added windows to the outside and inside walls, so that they could actually see out instead of living in complete darkness. On the outside of the elfling retaining wall, they put a ring of the large houses next, with a ring of small houses after that. The flow just seemed to need concentric circles as they worked, and Ren scattered the odd shaped buildings throughout everything.
+
+The last thing to add were the large outer spires, 10 of them, and Ren put them in two 5 pointed star patterns facing in opposite directions, then he thought about the outer wall.
+
+“Tee-one, I don't know if I like the straight up wall idea for this city.” Ren said.
+
+“Perhaps we could angle it outwards.”
+
+“It would need external supports if it's out too far.” Ren said.
+
+“Not if you counter-balance with a deeper underground component.” Tee-one said. “Say, make the wall have a 30 degree outward angle so that anything trying to attack it will be deflected down, then extend the ground supports by an equal amount.”
+
+Ren nodded and they changed the wall's angle so that it hung out almost in a 'V' shape, added a huge walkway around the top of it, then changed the doors that should open outwards into a drawbridge instead. Since it hinged downwards, it couldn't be targeted for a battering ram.
+
+“Do you think we should add in a few other things?” Tee-one asked.
+
+“Like what?” Ren asked.
+
+“A human section, maybe? Or a Dark Elf section?”
+
+“I was debating that, but I don't want to intentionally cause conflict.”
+
+“Then how about assigning one of those administration buildings as a diplomatic embassy?”
+
+“Hm.” Ren thought about it. “Actually, that's not a bad idea.” He said and chose one of the administration buildings and removed it, then added 9 smaller buildings in a circle to replace it. He added a courtyard in the middle and a retaining wall around it, to show that it was a separate space.
+
+“Are there any inns?” Tee-one asked.
+
+“Mixed in with the businesses.” Ren said and pointed to them.
+
+“Maybe move one or two out closer to the entrance.” Tee-one said.
+
+Ren nodded and moved them to a spot not far away from the entrance, and not close enough that they would interfere with each other. “I know it's a faint hope that people will want to come and visit.” He said. “But at least they'll have the option.”
+
+“I'm not sure how we can make it clear that this isn't a High Elven city, despite the fact that it looks like one.” Tee-one said.
+
+“Me, either.” Ren said. “Of course, having all the metal be steel should give some indication.”
+
+“You could put up a really big sign.” Tee-one suggested and laughed.
+
+“You're assuming people will read it, or even approach it from the right side wherever it's posted.” Ren chuckled. “Let's just add all the lighting that people might need.”
+
+When they were done adding in everything that they thought should be in the city, they went over everything and made sure there were enough lifts and Mana points for everything, then checked everything again.
+
+“I think we should add in a large water reservoir.” Ren said. “We can run pipes or even just open troughs to fountains in specific locations around the city.”
+
+“What about to the homes?” Tee-one asked.
+
+“I think just public water will do for now.” Ren said. “If private ones are needed later, we can always add them.”
+
+Tee-one nodded. “Should we add any special defenses, like the Automatic Ballistas or animated soldiers?”
+
+“We can't.” Ren said. “They'd be immovable if we did.”
+
+“What about basic Protection and Warding?”
+
+“We could add Reinforcement runes to the outer wall, but since it's a single piece, we'll only have 150 runes to play with.”
+
+“We can wait and make the model first.” Tee-one said. “Then we can add what we want.”
+
+Ren smiled crookedly. “Are you thinking what I'm thinking?”
+
+“That depending on the size of the towers and spires, we can add wand quality enchanted diamonds to the model, then enhance the enchantments?”
+
+“Bingo.” Ren said and saved the recipe as Self-Contained City (Elven Scale). “Should we make a Human city model as well?”
+
+“Have you got the plans for all the buildings you would need for a whole city?” Tee-one asked.
+
+“I don't know.” Ren said. “I know I received a popup for everything a city needs when we finished the Library.”
+
+“That might not be all it needs, though.” Tee-one said. “Maybe you can go over to the Library and see if they have any city plans.”
+
+“Good idea.” Ren said and walked over to the three women that had watched him work. “I'm going down the street to the Library.” He told them while Tee-one went to the smelter and started to make the steel bricks they would need. “Are you waiting here or coming along?”
+
+“Definitely coming along.” Officer Holly said. “You were moving your hands so fast through the air that I would have no clue what you were doing if you and Tee-one hadn't been talking out loud.”
+
+Ren chuckled. “We had to arrange several hundred scaled buildings inside a 50 foot wide circle, so it took a while.”
+
+Officer Holly shook her head. “How can you do that?”
+
+“Very carefully.” Ren said and motioned to the door. Artemis opened it for them, and Ren offered a hand to Xuunah.
+
+“You can't lead me everywhere while I'm around you, Ren.” Xuunah said, and he felt her resolve to not be treated better than the others, despite their recent conversation about it.
+
+“But...”
+
+“You aren't offering to take Officer Holly's hand.”
+
+“She would try to punch me in the face if I tried that.” Ren said and motioned to the door again. “Emphasis on the try.”
+
+“I sure would.” Officer Holly said and stepped out through the door, then Xuunah, Artemis and Ren followed her. “I agree with Xuunah, you shouldn't show favor or treat people differently like that.”
+
+“Even if they deserve it, and I feel guilty if I don't?” Ren asked and they started walking down the road to the Library.
+
+“Take your own advice, Ren.” Xuunah chuckled. “You don't have to participate; but, you can share the feelings and not feel guilty about it.”
+
+Ren opened his mouth to argue the point, and he couldn't. “Damn, I'm outsmarted again.”
+
+Officer Holly snorted a laugh, and Xuunah pat his shoulder.
+
+“I can feel that you want to, and that's the most important thing.” Xuunah said.
+
+“I just don't want you to think that I'm giving offence, or that I'm intentionally ignoring you.” Ren said. “If I don't make the effort, I'm afraid I'll stop thinking about it.”
+
+“Would that be so bad?” Xuunah asked as they reached the steps in front of the Library. “To treat me like every other woman?”
+
+“You are not like every other woman, so get that thought out of your head right now.” Ren said quite sternly, and Xuunah felt a very strong feeling of consternation from him. “Even if you weren't who you are, you still would not be like every other woman.”
+
+“Ren...”
+
+“No.” Ren said and held a hand up to stop her protest. “You can't expect me to just let something like that go by without commenting on it.”
+
+“I'm sorry.” Xuunah sighed. “I didn't mean it the way it sounded.”
+
+Ren winced a little. “That was almost a lie.” He said and sighed himself. “Anyways, let's go inside and see if they have the building plans that I might need.”
+
+Ren deactivated his Undead Adept ability and Artemis opened the front door to the Library, then they all went inside. They walked over to the reception desk and Rosie smiled at them.
+
+“Hi, Ren.” Rosie said. “You have a few people with you today.”
+
+“Hi, Rosie.” Ren said and turned slightly to the side. “Allow me to present Nathalia's biological mother, Xuunah.”
+
+“Hello.” Rosie said to her, and Ren motioned to Officer Holly.
+
+“This is my new personal guard.” Ren said. “She's a Paladin.”
+
+“Hello.” Officer Holly said, and Rosie nodded to her.
+
+Ren motioned to Artemis. “This is my newest familiar, Artemis.”
+
+“Hello, Artemis.” Rosie said and tilted her head slightly to the side. “You're an interesting crossbow design.”
+
+“I thought about making a traditional sentient crossbow; but, the design was too restrictive, even after I tried to add arms and legs to it.” Ren said. “Plus, once I discovered a way to replace the traditional bolts with Mana, there was no point in keeping the original shape, anyway.”
+
+“I suppose that's true.” Rosie said and waved Ren closer. Ren stepped up into the air and leaned over the reception desk and she whispered in his ear. “Did you have to make her so pretty?”
+
+“Her face is actually an unintentional composite of three women I know.” Ren whispered back. “It just turned out that it worked.”
+
+“Have... have you...”
+
+“No, and I won't.” Ren whispered.
+
+“You won't?” Rosie asked.
+
+“I haven't even...” Ren pressed his lips to hers briefly. “...kissed her.”
+
+Rosie took in a deep breath and let it out. Ren felt her relax, and knew his tactic was successful. He leaned back and stepped down to the floor and smiled.
+
+“I just stopped by to see if you have any building plans for a city.” Ren said. “Any that I'm missing in this city, preferably.”
+
+“Oh... well, I'll have to go in the back and take a look.”
+
+“I'd appreciate that.” Ren said.
+
+Rosie stood up and waved to someone, and a woman walked over to the desk to take her place.
+
+“Hello, My Lord.” The woman said.
+
+“Ma'am.” Ren said and smiled at her. “I see you found the place.”
+
+The woman chuckled. “Once you told Rosie I should be added as the backup Librarian, she came right to me.”
+
+“I'm sorry I didn't tell you directly.” Ren said. “I was...”
+
+“...much too busy. I know.” She said.
+
+“How do you like it here?”
+
+“It's wonderful.” The woman said. “Free housing, free food and clothing, and a well-paid job.” She smiled. “With all the basic necessities being provided, the money we make is all just spending money.”
+
+“I'm glad.” Ren said. “Is everyone else getting settled as well?”
+
+“Yes, we've all moved into our own houses now.” The woman said, happily. “I kind of miss staying at the Refugee Center; but, I wouldn't trade what I have to go back there!”
+
+Ren chuckled, and Rosie came out from the back room with several large scrolls of parchment. He rushed over to help her, and they laid them out on the closest table.
+
+“These are what I could find in the archive for architect's buildings.” Rosie said.
+
+“Thanks, Rosie.” Ren said and unrolled the first large scroll. Inside was a nice administration building, and he copied the plans. The next two were for a medical building that he already had the plans for, and for the mansion back in Aurora. “Is there a mansion like this in all the larger cities?” He asked as he stored the plans for it, even though he didn't know if he would ever use them.
+
+“Some take the time to make it, or something similar.” Rosie said and handed him the last scroll. It was for a combination barracks and stable, and Ren could adapt it for the Barracks that he already had.
+
+“Well, I guess that means I do have all the building plans I need if I want to build a city model.” Ren said and took Rosie's hand. “Thank you very much for your help.” He said and bent over it and kissed the back of it.
+
+“You're welcome, Ren.” Rosie's face went a little red and she giggled.
+
+“I'll see you later.” Ren said, and she nodded. He went over to the women he had left by the reception desk and said goodbye to the other Librarian. She waved, and Ren led Xuunah, Officer Holly, and Artemis out of the Library and back up the street.

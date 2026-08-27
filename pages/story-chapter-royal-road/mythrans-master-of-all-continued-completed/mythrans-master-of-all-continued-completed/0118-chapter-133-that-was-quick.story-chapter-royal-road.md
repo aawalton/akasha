@@ -1,0 +1,379 @@
+---
+id: 53049792-3dbc-5137-8aa6-07342af223b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 133 - That Was Quick"
+slug: 0118-chapter-133-that-was-quick
+partOf: mythrans-master-of-all-continued-completed
+position: 118
+ownLength: 3765
+unit: words
+publishedAt: 2017-01-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110517/chapter-133-that-was-quick"
+royalRoadId: "110517"
+---
+
+The fat dwarf waddled up the ramp and came out into another section of the Garrison.
+
+“Damn him!” He said as he approached his desk. “I've lost nearly all of the money I've gathered since I've been here, and on a single bet!” He sat down and opened a drawer, then touched a sending stone. “It's Khirbor Tarum. I don't know what he did for you to send him here, but he's cleaned me out.” The fat dwarf said. “You didn't say he'd be stinking rich!”
+
+The Sending Stone glowed. “He outbid you, did he?” The voice laughed. “He's smarter than I thought. I'll increase your loan by a few more platinum to cover any losses.”
+
+The fat dwarf sat there and fumed. “A few platinum!” He slammed the drawer shut because the Sending Stone couldn't be used for another hour. “I wish I only needed a few more platinum.”
+
+*
+
+It took about an hour for Ren to work out how to break up 300 fighters into divisions. It ended up with 12 men in each division, and Ren offered a gold coin for winning that part. The 25 winners would be divided into 5 man sections, and those 5 winners would get 3 gold each, and the second place would get 1. Those 10 fighters would fight in pairs, with 5 winners getting 5 gold; and all the dwarves would vote for a wild card fighter to make a total of 6. They would fight in pairs, and 3 winners would be left and get 10 gold each. If they still wanted to fight after that, Ren said it would be a Round Robin, 2 loss elimination fight. The winner gets 30 gold, second place, 20 gold, and third 10 gold. He'd drawn it all up on a large piece of parchment so everyone could see how it went.
+
+All the dwarves thought it was a great idea, then someone mentioned that they wanted to bet on their favorite fighters to win. Of course, then that brought up how they would keep track of it all, and Ren walked over to the Warrior that stood beside the fat dwarf's huge chair.
+
+“Your Lord's skills are needed again.” Ren said. “As long as you tell him his odds should be based on the facts.”
+
+The Warrior smiled and nodded slightly. He went to the Warrior by the door, and the Warrior left. Ren stood there and waited, until the door opened and the fat dwarf slid through the opening sideways and waddled over to his seat.
+
+“So now I'm working for you.” The fat dwarf said as he sat.
+
+“No one is working for me here.” Ren shook his head. “I'm just trying my best to deal with the situation.”
+
+“You've dealt with it well so far! I'm broke!” The fat dwarf said.
+
+“I can fix that.” Ren said.
+
+“Oho! Going to throw money at me, are you?” He scoffed.
+
+Ren laughed. “Of course not.”
+
+“Then what are you going to do?”
+
+“I'm going to let you run the betting.”
+
+The fat dwarf laughed. “I just told you, I'm broke. I can't cover any bets!”
+
+“You're broke right now, yes.” Ren said. “You won't stay that way, however.”
+
+The fat dwarf looked at Ren like he was crazy, and Ren grinned.
+
+“You've been changing the odds for each fight to make sure you get more than you pay out.” Ren said. “You shouldn't do that.” Ren said as his Haggle skill activated.
+
+“Then what...” The fat dwarf tried to speak, and Ren cut him off.
+
+“When you take the bets, charge 5% for it.” Ren said. “By the time everyone bets, and you give me 4%, you should have a good balance going.”
+
+“I thought you didn't want me taking their money?” The fat dwarf asked. “1% for your cut.”
+
+“I didn't want you to scam them out of their money. Charging for your services isn't a scam, unless you overcharge, or don't provide the service.” Ren said. “3%.”
+
+The fat dwarf frowned and then thought about it. “Well, I guess that's fair.” He said. “2%.”
+
+“Deal!” Ren grinned.
+
+“Alright, show me this 'tournament' you've planned out.”
+
+It took another 20 minutes to explain it all. Once Ren was done, the fat dwarf beamed a smile at him.
+
+“That's brilliant!” The fat dwarf said. “The bets will grow exponentially by the end of the tournament!”
+
+“It's the best of both worlds.” Ren said and nodded slightly. “Everyone gets to fight, and has a chance at some gold; then they spend that gold to bet on the other fighters.” He said. “Not counting the guards, of course.”
+
+“And the House gets 5% of it all, not counting the lost bets!” The fat dwarf exclaimed, then looked at Ren. “I don't see your name on any of the lists here.”
+
+“I'm providing the prizes this first time.” Ren said. “It wouldn't be fair for me to fight.”
+
+“Will you be making bets?” The fat dwarf scowled at the prospect of losing all of his prospective gains.
+
+Ren shook his head. “You saw how that turned out last time.”
+
+The fat dwarf smiled. “Well then!” He said in a much better mood. “Let's get this started!”
+
+“It'll take 2 days to do it all.” Ren said and pointed to the chart he'd drawn up. “The first day are the prelims and the first round. The second day is semi-finals, finals, and the Round Robin.”
+
+“Good, good.” The fat dwarf said and clapped his hands twice. “Make it so!”
+
+The dwarves all sorted themselves into the groups needed, without any prompting from the Warriors guarding them.
+
+“Aaaaaaaand... FIGHT!” The fat dwarf said and everyone started letting punches fly. Ren was the only one not participating, so he stood next to the wall of the pit and watched the spectacle. He thought about talking to Nathalia and his Sending Ring glowed slightly.
+
+“Hello, My Love.” Ren whispered.
+
+“Ren.” Nathalia whispered back. “We just finished breakfast. How are you?”
+
+“I'm okay, but I don't know when I'll be able to talk to you directly again. It's really crowded here in the Hole.”
+
+“The Hole? What's that?”
+
+“An underground fighting pit.” Ren answered.
+
+“By the gods, why did they put you there?”
+
+“The Council apparently wants me out of the way, probably permanently.”
+
+“Oh, Ren! What are you going to do?”
+
+“I'm going to hope that my request is sent to the Council by tomorrow.” Ren said. “I've got Adventurer's business to take care of tomorrow night, and I don't think they'll let me leave to go to a Safe Zone.”
+
+“What can I do to help?” Nathalia asked.
+
+“I'm really glad you asked.” Ren said. “First, take command of one of the rented carts and go to the Library. Let the Librarian know where I am.” He smiled. “She'll get really upset if I miss yet another day without some kind of explanation.”
+
+“Okay. What else?” Nathalia asked.
+
+“Go back to the main Keep and to the Hall of Records. Ask the attendant if she got the request, and to forward it to where it needs to go if she hasn't done it already.”
+
+“I'll leave right away.” Nathalia said. “Ma, I'm running an errand for Ren!”
+
+“Thank you for this.” Ren said.
+
+“Anything you need, let me know.” She said. “Ma says 'Hi'.”
+
+“Tell her I'll be back to give her another kiss on the cheek soon.”
+
+“I'm not going to tell her that!” Nathalia said and laughed. “You've kissed her enough already.”
+
+Ren chuckled. “She didn't tell you to say that.”
+
+“No, she wants to register a 'kiss on the cheek' as a new ritual.”
+
+“If she wants to, that's okay.” Ren said and smiled. “I'm going to keep doing it anyways.”
+
+“You're spoiling her, you know.”
+
+“I can't help it. I love you so much, it's spilling over onto her.”
+
+“I am definitely not telling her that!” Nathalia laughed again.
+
+“Dammit, I better go. One of the fights is ending.” Ren said. “I might call tomorrow, if I can find some privacy somewhere.”
+
+“I'll hope for that. Talk to you soon.”
+
+“I love you.”
+
+“I love you, too.”
+
+The ring's glow faded, and Ren watched some of the dwarfs as they dragged unconscious dwarfs from the designated fighting areas. He assumed they were friends, otherwise he really didn't want to know.
+
+Teepo, are you seeing this? Ren thought to his friend.
+
+“I sure am!” Teepo said from his perch on the ceiling. “The only other time I've seen this many dwarves fighting each other was during the Great Divide.”
+
+The what?
+
+“The Dwarf Civil War.” Teepo said. “It all started when the King chose a common girl to marry.”
+
+Ren's eyes widened. No way!
+
+“I know, right?” Teepo chuckled. “The poor sap fell in love with the farmer's daughter. They'd been friends since they were kids; and when the Crown fell to him, he chose her as his wife.”
+
+Oh, no... Ren shook his head in disbelief.
+
+“All the Major Houses were in an uproar over the insult, and all the Minor Houses loved it.”
+
+Which caused the Great Divide.
+
+“You got it!” Teepo said. “Brothers against brothers, fathers against sons.”
+
+What about wives, sisters, and daughters?
+
+“They weren't allowed to fight.”
+
+Holy crap! Ren thought in surprise. They couldn't have been happy!
+
+“That's why the Great Divide is also called the Great Silence.”
+
+No!
+
+Teepo chittered in laughter. “50 years of not hearing a single female voice.”
+
+Fifty... fifty years...
+
+“While all this fighting is going on, I can tell you what I know about it.” Teepo offered.
+
+I'd appreciate that, Teepo. Thanks.
+
+For about half of the day, Teepo gave Ren an interesting history lesson, that he hoped no one would ever repeat. When Teepo said that it was all that he knew, Ren got a popup.
+
+Notice!
+
+You have heard a story from the Lore Of The Ages Series
+
+Teepo, how long ago did the Great Divide end? Ren thought.
+
+“About 100 years ago.”
+
+Then that means...
+
+“The current King is their grandson.”
+
+Ren watched the last of the preliminary round fights end, and gave each of the winners a gold coin.
+
+After a short rest, the first round of actual fighting began and the bets started. Since everyone had gold to spend, they spent it. Lots of it was lost foolishly, but Ren couldn't do anything about that. More and more dwarves gathered around him as the day wore on, and Ren got another popup.
+
+Stat Change!
+
+Camaraderie Aura Level 6 (Beginner 0%)
+
+Ren smiled as the last fight of the day ended, and he gave the winner 3 gold and the second place winner 1 gold, and congratulated them both.
+
+“Excellent!” The fat dwarf yelled. “Get some rest! Tomorrow will be the last 2 rounds, and the Round Robin!” He got up out of his chair and waddled out of the room. Ren walked over to the Warrior that stood there and collected his take for the night. He walked back to where he'd stood before, and was tempted to take some things out to work on them; but, he didn't want to reveal that he could do that. He was surprised they weren't served breakfast or supper that day, though. Now that he had the chance to really look, he saw that some of the dwarves in the crowd were a little thin.
+
+I hope they aren't intentionally starving them. Ren thought. Not that I can really do anything about that, either. I only brought enough food for me to eat for a week, and that's not nearly enough for a single meal for 300 people.
+
+Ren looked up at the Warrior standing on the ledge just over 5 feet above his head, then turned around to talk to him.
+
+“I'd like to ask you a question.” Ren said to him. “When's supper?”
+
+The Warrior chuckled. “You get fed every 2 days, just like everyone else.”
+
+Ren frowned. “That's not enough to live on.”
+
+“You don't live here.” The Warrior said. “You survive here.”
+
+“A half decent meal is only 2 copper.” Ren said, and held out a gold coin. “Is there any chance I can buy enough stew for everyone here to have a bowl?”
+
+The Warrior raised his eyebrows. “Why do you care about all these other people?”
+
+Ren snorted a laugh. “I don't.” He said. “I also don't want to be beaten up if only I get extra food to eat.”
+
+Several dwarfs nearby laughed, and the Warrior nodded. Ren flipped up the coin to him and the Warrior smiled.
+
+“I wouldn't do this normally, but you've made me 3 gold so far.”
+
+“That's the best feeling, isn't it?” Ren grinned. “Hoping to get something, then having it happen, despite the odds against it.”
+
+The Warrior nodded slightly, and walked over to the room Ren had entered through. About an hour later, several cooks came into the room and started passing out bowls of stew to everyone. Ren got in line and took a bowl for himself, despite the fact he had tons of food in inventory. When he went back to where he had stood before, the big dwarf that he was supposed to have fought in his first match was waiting there for him. He had a bowl of stew in his hands, and was licking his fingers after slipping a big piece of meat into his mouth.
+
+“I hear I have you to thank for this.” He grunted.
+
+“Ha!” Ren grinned. “Like I told the guard, I didn't want everyone trying to kill me to get some of my stew.”
+
+The big dwarf grinned back as Ren stood beside him and leaned on the wall. They ate in silence and dumped the broth into their mouths when all the bigger chunks were gone.
+
+“You're alright.” The big dwarf said.
+
+“You don't happen to know someone named Groggot, do you?” Ren asked, then smiled at the big dwarf's reaction.
+
+“Ha ha!” The big dwarf laughed. “You're Ren!”
+
+A hush fell over the crowd that had gathered near the two, while they ate.
+
+“You beat House Faldihr's champion with a single blow!” One of the other dwarves said, then he frowned. “I thought you'd be taller.”
+
+“I can honestly say I've never heard that before.” Ren said, and several of the dwarves laughed.
+
+“What are you doing here?” Another one asked. “You're the first Prince I've met.”
+
+Ren chuckled. “I could debate the Prince part, but I ended up here because I was paying people fair wages for their work, and the Council had me arrested for it.”
+
+“No way!” “That's horrible!” “Those bastards!” “Better here than the stockade.”
+
+Ren nodded slightly. “I'd be too much of a spectacle if I was in a stockade.” He said. “They want me out of the way, not on display.”
+
+“Same here.” The big dwarf said. “I'm Croggart. Groggot's older brother.”
+
+“I thought you looked familiar.” Ren said. “Nice to meet you.”
+
+Croggart nodded slightly. “They got me after I punched a Lodur loudmouth in the head.” He said and scowled. “The little prick kissed my sister, before he even spoke her name!”
+
+All the dwarves that heard this clenched their fists and growled, and Ren knew that was one of the highest insults to give to a woman.
+
+“Tell me you knocked him out!” Ren said, angrily.
+
+Croggart grinned. “He was on the floor for half an hour before the healer showed up.”
+
+Ren laughed, then clapped him on the shoulder. “Nice.”
+
+“LIGHTS OUT!” One of the Warriors said.
+
+“Time for bed.” Croggart said, then sat down right where he stood.
+
+Ren looked around, and everyone pretty much did the same thing. A few tried to get spots near the wall, but were quickly pushed away. Ren would have to remember to stay by the wall, or he'd lose the spot he was in. He was glad that this was the game night that happens during the real life night, or he would have been in serious trouble. Ren sat down and tried to not look anyone in the eyes. The room became almost deathly quiet as all of the lights were extinguished.
+
+Now that the lights were out, several Warriors climbed down into the pit on small ladders. They went over to the body of the one who had attacked Ren, picked it up, and carried it out. Ren could see everything as clear as day, and he stayed awake the entire night. He'd forgotten how boring it was to sit down and do absolutely nothing.
+
+*
+
+Elerlyth was bored out of her mind. All she did was walk around and guard an empty warehouse. She explored everything inside, and found a big cabinet in the living room of the apartment upstairs.
+
+“It's nicer than my place in the real world.” She said and laughed. “I wonder where he got all this nice furniture?” Elerlyth went into the bedroom and laid down on the bed. “Oh! Now that's comfy.” She said and settled down and stared up at the ceiling.
+
+“Making easy money sure is boring.” She threaded her fingers together and put them over her abdomen. “Ha... the little shit was right! I do hate this job.” She ran her hands over the armor she wore. “Damn nice armor, though.”
+
+She took a deep breath and smiled. “It's been 3 days, and I still can't believe I'm not 'hungry'.”
+
+*
+
+The night crawled past slowly, and Ren looked up at Teepo.
+
+Hey, Teepo? Do you know any other stories?
+
+Teepo laughed. “I know a few.”
+
+Can you tell me some of them? I feel like I'm wasting my time just sitting here.
+
+“Sure, Ren.” Teepo said and then started to tell Ren tales about everything. Beetle Warriors, forest nymphs, goblins, and anything else that Teepo just randomly thought of. After several hours of this, Ren thought of something.
+
+Do you know anything about giants?
+
+“I'm sorry. I've never met any giants, or heard any stories about them.” Teepo said. “There's not a lot of room underground for people so big.”
+
+It was a long shot anyways. Ren sighed mentally. Can you keep talking? I'm trying hard to not fall asleep here. He thought.
+
+“Of course!” Teepo said and skittered around in circles. “I can even talk REALLY LOUD if you want me to.”
+
+Ren grinned. I'll let you know if I need that, thanks.
+
+Teepo continued to talk until the morning and Ren had heard so much, that he didn't remember any of it. He apologized to Teepo for wasting his time, and Teepo chittered in laughter.
+
+“It kept you awake, didn't it?”
+
+Ren smiled and the Warriors came back into the Hole. They lit all of the lights and the cooks brought in breakfast. Everyone ate, and a few minutes afterwards the fat dwarf came into the room.
+
+“Well! Let's get things going!” He said as he sat in his chair, and then several other dwarfs came into the room behind him. They didn't have chairs, however. The winners from the fights the previous day gathered into the designated spots and faced off against each other. One of them was Croggart, and everyone placed bets for their favorite fighters. Ren didn't watch the bouts, though. He watched the dwarves that stood behind the fat dwarf's chair.
+
+They must be here for a reason.
+
+“I think they are betting on the fights.” Teepo said as he skittered over to the room the fat dwarf was in. “Yeah, definitely betting.”
+
+A lot? Ren thought.
+
+Teepo chittered in laughter. “If a platinum is a lot, yeah.”
+
+Keep a tab on them, Teepo. Ren thought. Let me know what the total bids were.
+
+The fighting went on for half of the day, and the fighters were whittled down to 5 winners. Ren paid them 5 gold each, and then the entire group of prisoners voted on who would fight in the wild card spot. It was hotly debated, but they eventually picked the most popular fighter from the previous round that didn't win. The final round was fought, and the 3 winners earned 10 gold each. They decided that a Round Robin should happen, and the fighters fought their matches. It took a while, as these fighters could take punch after punch without showing any signs of weakening. Of course, Croggart was the top winner, and the other 2 came in second and third. Ren paid them their prizes of 30, 20, and 10 gold respectively. Everyone clapped, and none harder than the fat dwarf himself.
+
+“The first Brawlers Tournament comes to a close! Congratulations to the winners!” The fat dwarf said and stood up. Ren took this opportunity to go over to the Warrior to receive his cut of the bets. The Warrior handed it over and Ren counted it.
+
+Teepo, how much did the new dwarfs bet?
+
+“If my counting is correct, it was about 350 gold.” Teepo said.
+
+Ren looked at the Warrior and them motioned to the new people. “Did they bet?”
+
+“Yes, they bet.” He said and sighed, as he couldn't lie without losing Honor.
+
+Ren turned to the fat dwarf. “We had an agreement.”
+
+“That only covers bets from the prisoners.” He said and grinned.
+
+“I said all bets, and you agreed.”
+
+“What's he talking about, Khirbor?” One of the dwarves asked.
+
+“Nothing. Nothing.” Khirbor said and waved them towards the door.
+
+“It was a split of the profits from charging for the bets.” Ren said as they walked to the door. “This tournament was my idea.”
+
+“Don't listen to him. He's a prisoner here. He has no Hon-”
+
+“I challenge you, Khirbor!” Ren hollered at the group of dwarves, and everyone fell silent. “You are a liar and a cheat, claiming my idea as your own, then not fulfilling your agreement with me.”
+
+“You're a prisoner, you can't issue challenges!” The fat dwarf said and turned to squeeze through the door.
+
+“Actually, he can.” The dwarf said. “You were about to say he doesn't have Honor, but he clearly does. If you also didn't pay him part of his agreed cut of the profits...”
+
+“None of it's true, I tell you!” He said. “It was all my idea!”
+
+The dwarf winced and then scowled. “I knew there was a reason you were sent here to manage this.” He said. “You belong here.”
+
+“Either accept the challenge, or lose whatever Honor you have.”
+
+The fat dwarf glared, and turned to Ren. “Fine. I accept.”

@@ -1,0 +1,309 @@
+---
+id: 11f179c2-e1f9-50d5-988d-6284cc9ab7ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 439 - Worth A Kiss"
+slug: 0437-chapter-439-worth-a-kiss
+partOf: mythrans-master-of-all-continued-completed
+position: 437
+ownLength: 3129
+unit: words
+publishedAt: 2017-12-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177749/chapter-439-worth-a-kiss"
+royalRoadId: "177749"
+---
+
+“Undead!” One of the tower guards shouted as the skeletons rode their steeds out of the biggest portal any of them had ever seen.
+
+“Demons!” He said as the succubi came out of the portal. “Ready archers!”
+
+Ren rode out of the portal and immediately saw the problem. He concentrated on his Command Aura since the wall was well within his 300 foot Aura.
+
+“CEASE FIRE!” Ren yelled. Summon Teepo.
+
+Teepo appeared on the ground in front of him while all of the soldiers stopped readying their weapons and looked at Ren. The skeleton knights moved aside and Ren rode over to the city wall while Teepo flew up to land on his shoulder.
+
+“They are under my command, and you will not fire on them.” Ren said.
+
+“But... but... they're demons and monsters!” The closest guard said.
+
+“Yes, they are.” Ren said. “What do you think will happen if you attack them?”
+
+The guard looked at Ren, then at the skeletons and succubi, then back at Ren. “They'll attack back.”
+
+“That's right.” Ren said and smiled. “Do you want a succubi to suck the life out of you?”
+
+A chorus of 'no' came from the guards as they gathered together from the alarm being sounded, and then a solitary 'yes' broke the tension.
+
+“Shut up, Weston.” One of the guards said as the rest of the guards laughed.
+
+“Look at them!” Weston said and waved, and several of the succubi waved back. “You can't tell me you wouldn't want that to be the last thing you see before you die.”
+
+“Would it be worth it?” One of the others asked, and all the guards leaned on the edge of the wall and stared at the succubi.
+
+“It's definitely debatable.” Weston said.
+
+A couple of the succubi giggled as Ren sighed mentally in relief. The volatile situation devolved into a debate over the validity of dying during sex, and he turned to the succubi.
+
+“Forgive me for even suggesting this.” Ren said. “Normally, I wouldn't ask you to hide; but, I can't take you through the city like you are.”
+
+“You want us to come inside?” Zunala asked, and he felt how surprised she was.
+
+“I guess I could leave your tower out here; but, I know someone will come along and try to bother you if I did.” Ren said. “I want you to stay as close to me as possible.”
+
+“But...”
+
+“Please.” Ren said. “Will you assume a fitting form of women from the city? I don't want you getting attacked because some idiot can't see past the color of your skin.”
+
+The succubi could feel his sincerity, and knew that all he wanted was the best for them and to keep them safe. Every single one of them started to glow, then their wings and tails faded away and their red skin changed to various shades of regular skin. Dresses formed around them to cover their bikinis, but they all kept their long flowing hair in the same colors.
+
+“Thank you very much.” Ren said and sent out a huge feeling of thanks and appreciation through his Aura. Several of them gasped because of it, and Ren took out a wand and changed the spell to Disguise Self, which would last for an hour. He cast it on the closest skeleton knight and told it to choose an appropriate image for itself. Ren was a bit surprised when it chose a generic male, then cast it on the other 9 skeleton knights. They all chose the same generic male form and looked identical to each other and the first skeleton knight.
+
+“Let's go inside.” Ren said, and led 20 normal-looking damsels and 10 identical knights on Phantom Steeds through the West Gate of the city of Aurora.
+
+*
+
+The guards on the wall watched as the succubi and skeletons had transformed, and they didn't speak at all as the group passed under them and went into the city.
+
+“We should probably tell the Captain.” One of them said.
+
+“In a minute.” Weston said. “Goddamn! Look at the blonde!”
+
+“I know.” Another guy said. “She's...” He shook his head. “Weston, I think you might have a point.”
+
+Several of the other guards nodded, and Weston chuckled.
+
+“I told you.” Weston said. “What a sight.”
+
+*
+
+Ren led his group over to the Housing District, and when he was close enough, he concentrated on the Contact Aura the maids shared. It snapped into place, and he was immediately flooded with 5 streams with similar feelings of relief, need, longing, and how much they missed him. He had the Phantom Steed run the rest of the way and hopped off of it just in time to open his arms as the maids came out of the house and jumped on him.
+
+Ren laughed as his face was covered in kisses from them, and tried to kiss them back. “I really missed you, too.” He said and made sure they each received a proper kiss.
+
+“We were so worried!” Andrela said.
+
+“We were also very lucky to have a great friend stay with us through most of your journey.” Frikara said as Lara came out of the house.
+
+“I'm back a lot sooner that I thought.” Ren said and took her in his arms. “Thank you for staying here for me, and for everyone.”
+
+“You're welcome.” Lara said, and Ren kissed her. She lost herself in the sensations, and the nearby disguised succubi fed on everyone's passion and happiness. Ren broke the kiss and let her out of the embrace.
+
+“I just have to drop the tower off.” Ren said and walked over beside the house and took out the tower the succubi slept in. He activated it and it sprung into place, and he went over to the succubi. “Stay inside for now, and I'll be back soon.”
+
+“Where are you going?” Zunala, the pretty blonde woman asked.
+
+“To the Library.” Ren said and took Lara's hand, which made her gasp and her gaze go blank for a minute. “I've got a couple of things to take care of to prepare for this world event thing.”
+
+“We'll wait patiently for you.” Zunala said, and went over to the tower. The door opened for her, and all of the disguised succubi went inside.
+
+“I won't be long.” Ren said and mounted his Phantom Steed, then helped Lara climb up. “Half an hour, tops.”
+
+“We will, too.” Frikara said, and Ren gave the maids a taste of his desire for them through the shared Aura. The maids gasped, and he looked at the disguised skeleton knights.
+
+“Patrol the street. I want 2 of you on the house door, 2 on the tower door, and 2 on top of the tower as scouts.”
+
+“Yes, sir.” The guards said without opening their mouths, and dispersed as Ren had ordered. The maids went inside, and Ren caught a glimpse of Railyse, the water being, just inside the door. He blew her a kiss, which she returned, then he rode the Phantom Steed down the street. They went around the corner and down to the Library.
+
+Ren hopped off of the steed when they arrived and helped Lara climb down, then tied the steed to the available post. He pat the steed, took Lara's hand, and walked up the stairs quickly. He saw that Rosie sat at the reception desk and walked over to her.
+
+“I'll be back out in a few minutes, and I have a favor to ask of you.” Ren said.
+
+Rosie didn't say anything as she nodded, and Ren walked over to the side of the room and opened the door to the hallway. He would have dragged Lara along behind him if she hadn't jogged to keep up with him.
+
+They went down the hallway and through the door at the back, and went over to Lara's closet. Teepo and the tarantula hopped off his shoulders and landed on the wall, and Lara opened the door to the closet as their roles reversed and she pulled Ren into her closet. When the door closed, they received the Blue Screen Protocol notification, and Ren cupped the sides of her face.
+
+“What did you see?” Ren asked her and kissed her lightly.
+
+“I saw...” Lara smiled. “You're a genius.”
+
+Ren chuckled. “That's not very specific.” He said, and she touched the anti-corruption ring on the Hand of Glory that hung around his neck.
+
+“I don't know why I doubted...” Lara sighed. “Ren, can you forgive me?”
+
+“No.” Ren said and smiled, and he felt her shock. “There's nothing to forgive.”
+
+“But...”
+
+“You finally admitted that you love me.” Ren said. “I love you, too.”
+
+“But...”
+
+“People fight, even people that love each other.” Ren smiled. “Maybe especially those people.”
+
+Lara smiled. “You're unbelievable.”
+
+“Oh, Lisa.” Ren used her real-life name, and her heart skipped a beat. “Now what are you going to say when we're done of our make-up sex?”
+
+“Isn't it obvious?” Lara laughed and kissed him. “More, please.”
+
+Ren laughed, too.
+
+*
+
+“Oh, Ren.” Rosie whispered to herself as she put a hand over her heart. I can almost feel how much you've changed. She thought, and stopped her tears before they could escape. What happened to you, my sweet and innocent love?
+
+*
+
+“I don't believe this.” The Light being said as it floated inside the viewing room. “This isn't possible.”
+
+“It is possible, and it's also true.” Another said. “The report came in yesterday, and we already sent scouts in to verify.” The being said. “Almost the entire Void has been annihilated.”
+
+“This can't be.” The first being said. “I'll be right back.”
+
+“There's no rush.” The other one said. “It's not going to regenerate for a long time, especially with all of the Void beings gone.”
+
+The first Light being floated out of the room and accelerated across the designated movement aisle and arrived at the large Collective. It slowed down and eased into the crowd, and like a stone dropped into a pond, the information he had was immediately disseminated among everyone, and the ripples of the knowledge shook every light being in the collective.
+
+A Greater Light Elemental floated out of the mass of light, thanked the Light being for the information, and quickly left the Collective. Even though it was massive, it didn't run into any other Light beings as it made it's way to a small designated living area for the one being he knew had the most experience in dealing with humanoids in their natural forms. He sent a probing thought through the door, and it opened for him.
+
+“Hello, Zagatro.” Xunnah said. “What brings you here?”
+
+“This.” He said and he shared with Xunnah what he had learned.
+
+“Oh... oh, my.”
+
+“Yes, it's a surprise.” Zagatro said. “Not only that, it's been deemed... necessary... for someone to visit the mortal realm.”
+
+“Zagatro, I've been forbidden from-”
+
+“Your ban has been lifted.” He said. “Prepare yourself for the journey.”
+
+“I... very well.” Xuunah sighed. “I will undo all my hard work over the next year, and will be ready to go then.”
+
+“Excellent.” Zagatro said. “You are authorized for full battle, if it's necessary.”
+
+“It shouldn't be.” Xuunah said. “I'm just observing, not participating.”
+
+Zagatro chuckled. “You are a terrible liar.”
+
+“But...”
+
+“Tell me you aren't going to visit your daughter first.”
+
+Xuunah didn't say anything, and Zagatro laughed.
+
+“It's fine. I've already cleared your interaction with her and the target.”
+
+“Wait, the target is a dwarf?” Xuunah asked. “I thought the location was in the human kingdom.”
+
+“It is, but she visits where the target is through a portal.” Zagatro said.
+
+“How do you know this?” Xuunah said. “I thought...”
+
+“You cannot hide your clandestine viewings from us.”
+
+“Then I'll be ready in 6 months.” Xuunah said. “I'll begin immediately.”
+
+Zagatro laughed. “Good luck.”
+
+*
+
+Ren and Lara came out of her closet a minute later, or 3 relative days later, and the both of them had huge smiles on their faces.
+
+“You were right, Ren.” Lara said and hugged him. “Make-up sex was a lot better.”
+
+“Why are people always surprised when I'm right?” Ren chuckled, and she gave him a quick kiss.
+
+“Get out of here.” Lara said and let him go. “Your eager fan is waiting for you.”
+
+“You know Rosie was the only one who liked me long before I had the Prince Charming title.” Ren said.
+
+“You've kept her waiting for you all this time.” Lara said, a little sadly.
+
+“Lisa.” Ren said and touched her cheek. “I like Rosie a lot, and I know she wouldn't want to be a part of... well, whatever it is I've got going.”
+
+Lara smiled. “I believe the term is 'harem'.”
+
+“Nope.” Ren said and grinned. “Harems in current culture are just a bunch of girls that hang all over a guy, and they never get any resolution.” He said and stepped close. “I'm pretty sure we just resolutioned all over your closet.”
+
+Lara's face flushed red and he kissed her. She kissed him back passionately. “Go on, before she thinks you forgot.”
+
+“Yes, ma'am.” Ren said and kissed her cheek. Both Teepo and the spider jumped from the wall to land on his shoulders, and Ren walked towards the door to the hallway, and left the Library's storage area. He quickly made it to the other end and left through the door, and Rosie saw him. She stood up and waved to someone, then came around the desk to meet him. She took his hand and went back into the hallway, and went into the first room on the left.
+
+“What kind of favor do you need from me?” Rosie asked.
+
+“I'd like to dictate that book on comparing enchanting and spell casting.” Ren said, and her eyes widened.
+
+“R-really?”
+
+Ren nodded. “I should have come in a while ago, but I was just too busy.”
+
+Rosie smiled. “Does that mean you're not busy now?”
+
+Ren chuckled. “I've given myself a short reprieve before I should go and mess up some ghouls.”
+
+Rosie caught her breath, then the tears she had been holding back came out.
+
+“Oh, Rosie.” Ren said and took her into a gentle hug. “Don't cry.”
+
+“I... have to.” Rosie said. “You... you aren't the cute and innocent boy I first met.”
+
+“Rosie, I...” Ren sighed. “No. No, I'm not.” He said. “I've been through too much to be the same person I was back then.”
+
+“I know.” Rosie sobbed. “When you came in here today with your...” She shivered. “You've been touched by the undead.”
+
+Ren glanced at the spider mark with the Ghoul Kissed skull, and remembered his Undead Adept skill that changed his Aura so he could feel the undead.
+
+“Rosie, I'm so sorry.”
+
+“M-me, too.” Rosie said.
+
+“If I could turn it off, I would.” Ren said, and then she stopped shivering.
+
+“R-Ren!” Rosie said and her tears stopped. “I don't feel it anymore!”
+
+Ren wasn't sure what had happened, so he thought about his Undead Adept skill. “On.”
+
+Rosie started shivering again, and he immediately turned it off. She sighed, and Ren hugged her again.
+
+I can either turn skills on and off, or change that they affect my Aura. Ren thought.
+
+“I wonder if that works for titles?” Teepo asked, and Ren blinked his eyes for several moments.
+
+I'll test it later. Ren thought and smiled. “Rosie, can I give you that book now?”
+
+“Of course.” Rosie said, and kept her arms around him.
+
+“Don't you... um... have to set something up?”
+
+“No, just start talking.” Rosie said.
+
+“But...”
+
+“Just hold me.” Rosie said, and Ren felt that was what she really wanted; so, he held her as he dictated a quick book about the difference between enchanting and spell casting. He didn't give away any secrets that he knew about enchanting, like making elemental grenades or bombs; but, he did use examples of his work and the spells he had cast, and then included enchanted wands that could cast the spells, which almost crossed both barriers. When he was done, Rosie had tears in her eyes.
+
+“You can't feel my Undead Adept skill again, can you?” Ren asked.
+
+“No, Ren.” Rosie said and wiped her eyes. “That was a great book.”
+
+Ren blinked his eyes at her. “But...”
+
+“I'll be right back!” Rosie said excitedly and left the room. Ren waited for a few minutes, and she came back in with two copies of the book. The original with gold lettering for Ren, and the copy that she would put in the Library. “This... it's going to be popular! I just know it!”
+
+Ren stored his copy and smiled. “I'm glad you liked it.”
+
+“I really did!” Rosie said. “If there's anything else I can do for you, just let me know.”
+
+“Well... there is something.” Ren said and smiled.
+
+*
+
+Anabelle had to have one other sales clerk with her every day to handle the increase in customers. She wasn't sure why so many more people were coming into the shop; but, the orders kept coming in and the money kept coming with them. She was so happy that Tee-one had been kind enough to visit every day and he continued to make the orders and do the armor and weapon repairs that were needed.
+
+Anabelle felt something pass over her and she shivered. “REN!” She yelled, and the people in the shop looked at her. “Katie, take over! I'll be back later!”
+
+“Okay.” Katie said and walked over to the main counter. “Should I get Holly-”
+
+“Whatever!” Anabelle said and ran out of the business and stood in the middle of the street to wait.
+
+*
+
+Ren had asked Rosie if she wanted her own Library.
+
+She fainted, and once he had revived her, she accepted graciously. She told him how to establish a Library in his county, and he apologized for not doing it already. She laughed and kissed his cheek, then he asked her for 2 normal books that he needed. She got them for him, and offered him a special one. He accepted them and thanked her profusely, then left the Library.
+
+He mounted his Phantom Steed and rode slowly up to the Artesian District, because of all the people he had to greet on the way. He arrived on the street to his business, and he saw Anabelle as she stood out in the middle of it.
+
+“It really is you!” Anabelle exclaimed.
+
+“Yes, Anabelle.” Ren said with a huge smile when he felt how happy she was, and rode over to her. He held a hand out and helped her climb up, and they rode over to the Housing District together.

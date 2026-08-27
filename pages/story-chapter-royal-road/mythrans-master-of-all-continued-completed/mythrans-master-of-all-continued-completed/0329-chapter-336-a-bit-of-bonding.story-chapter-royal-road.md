@@ -1,0 +1,257 @@
+---
+id: f6bb55c9-4905-5507-8ea6-273296406fef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 336 - A Bit Of Bonding"
+slug: 0329-chapter-336-a-bit-of-bonding
+partOf: mythrans-master-of-all-continued-completed
+position: 329
+ownLength: 3314
+unit: words
+publishedAt: 2017-08-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156505/chapter-336-a-bit-of-bonding"
+royalRoadId: "156505"
+---
+
+Donald knew that Ren had goaded him on purpose to try and drag him away from keeping an eye on the movers; but, in the end it didn't matter. It had worked like a charm and he told his wife Barbara that he was going into the big house to work out. Barbara was happy to hear this, kissed him a bit longer than she normally did, and passed him his workout clothes that she had produced out of thin air.
+
+“You can change over there.” Barbara said and waved to him, and Donald left it to her to tell the movers where to put everything. He walked over to the main house and went inside, and looked at the workout room. All of the lights were on, and since the walls were made of glass, everything could be clearly seen.
+
+Donald was still surprised that there was something this extensive built into a personal home and not into a professional gym. He shook his head and went into the workout room, then into the locker room to get changed. He came out of the locker room and watched as Ren tried to walk around the indoor walking track. He could see that Ren was having difficulty with just basic walking, and watched as he did a quarter of a lap.
+
+By the time Ren had barely gone 50 feet, he was exhausted and had to sit down. Denise had a water bottle ready for him, and he tried to drink greedily from it.
+
+“STOP!” Donald yelled from across the room. Ren and Denise froze at the sound of his bellow. “Don't guzzle it. You'll only make yourself feel worse.”
+
+“What?” Ren asked.
+
+“You can't drink that much water and expect your body to process it while in a state of exhaustion.” Donald said as he walked over to them. “Take small sips. You only think you need a lot of water to re-hydrate. That's just not true.”
+
+“But...”
+
+“Even one of your supplement drinks has to be sipped to be effective, right?” Donald asked him, and Ren nodded.
+
+“I usually sip it.”
+
+“Then do the same thing here. Take a deep breath, take a small sip. Relax. Take another breath and a sip.”
+
+Ren did it, and he actually did feel better with a lot less water.
+
+“You'll make yourself bloated if you drink a bunch of water all at once, and that'll make you even more exhausted because your body is trying to digest and process it.” Donald said. “It's the same if you're in a desert or anywhere that can dehydrate you quickly. Don't force it down. Ease it in and let your body adjust.”
+
+“Where did you learn that?” Denise asked. “I've been a nurse for several years, and I've never heard of anything like that.”
+
+“I was in Special Forces, Ma'am.” Donald said. “We were never formally taught survival tactics.” He grinned. “We lived them.”
+
+Ren chuckled. “I can only imagine what kind of things you know that you were never taught, sir.”
+
+“You wouldn't believe me if I told you.” Donald said. “Of course, if I did...”
+
+“...then you'd have to kill me.” Ren finished for him and they laughed.
+
+“I watched you walking.” Donald said. “You have a problem.”
+
+“What is it?” Denise asked.
+
+“I've seen hundreds of feet marching in time, Ma'am.” Donald said. “I've seen all kinds of foot afflictions.” He said and pointed to Ren's feet. “He's walking more on the arches of his foot than he is on the sole.”
+
+“What?” Ren asked and looked at his feet. “I can walk just fine.”
+
+“Not really.” Donald said. “You're putting too much weight on the inside of your foot. I can't see your toes through the sneakers, but I know you're clenching them when you walk.”
+
+“How do you know that?!?” Ren asked him, and he chuckled.
+
+“I told you.” Donald said and tapped his cheek under his right eye. “I've seen hundreds of marching feet. You're a duck-walker.”
+
+“I'm a WHAT?” Ren yelled, and Denise laughed.
+
+“You're walking like you're swimming through water.” Donald said. “Either try and walk normally, so you won't get tired so quickly, or you should get those inserts in your shoes that compensate for the movement.”
+
+“That's actually really helpful.” Denise said and took out her phone. “It never occurred to the staff at the hospital that once he started walking around on his own, that we should have him see a podiatrist.”
+
+“I've been doing that for years, too.” Donald said.
+
+“What's that?” Denise asked as she texted Stella and Barbara. “Podiatry?”
+
+“No.” Donald said and grinned. “Pointing out other people's mistakes.”
+
+Ren snorted a laugh.
+
+“I loved my job.” Donald said, and after a short break, helped Ren get up and try to walk again. He pointed out how to shift the weight on his feet, and adjusted Ren's stride slightly. Ren was surprised when he moved a little bit better.
+
+“Take off the sneakers.” Donald said. “Use your feet to walk, not the shoes.”
+
+Ren slid off the sneakers and wiggled his toes. They were starting to cramp a little from over-usage, but he didn't want to wimp-out on Donald and complain about it.
+
+Donald knelt on the floor to get a close look. “Go heel to toe when you walk. Keep your back strait, but loose.”
+
+“How do I do that?” Ren asked. “That doesn't make sense.”
+
+“Pretend you've got a stick up your butt.” Donald said.
+
+Ren stared at him and Denise laughed again.
+
+“Trust me, it works.” Donald said. “Now clench those cheeks and walk!”
+
+Ren did what Donald said, even though he felt a little weird about it. He managed to walk another 50 feet before his energy reserves were almost completely drained.
+
+“That was great, son.” Donald said as he practically carried Ren back to the chair by the wall. “That was a definite improvement.”
+
+“So...” Ren breathed out. “...was it... the shoes?”
+
+“They're a part of it.” Donald said. “The worst part to deal with is right there.” He poked Ren in the forehead. “You've got to learn how to walk again.”
+
+“Ugh.” Ren said. “Now that was torture.”
+
+Donald looked at him with wide eyes.
+
+“After they rescued me, I was in the hospital confined to the bed for over a year.” Ren said. “My first time up and about, I could barely move.”
+
+“WHAT?!?” Donald yelled. “Are the doctors stupid or something?”
+
+“Worse.” Denise said. “They wanted to keep him safe, and from hurting himself.”
+
+Donald shook his head. “A year of inactivity did more damage to you than all those years with your parents.”
+
+No, it didn't. Ren thought. My parents were much, much worse. He didn't correct Donald's assessment, though. “I had to start all over. Walking, eating, cleaning myself. I had to learn it all again.”
+
+“It's just the walking you have to relearn.” Donald said, and looked at Denise. “When can you get him in to see a podiatrist?”
+
+“Maybe a month.” Denise said. “It depends on if Stella can get him on the cancellation list.”
+
+“That's not too bad.” Donald said. “It can take up to 6 months to see a normal doctor; so, if you can get him in to see a specialist this quickly, he'll be walking well in no time.”
+
+“What do I do until then?” Ren asked.
+
+“Just like I told you.” Donald said. “Leave off the shoes until you get those inserts.”
+
+“But...”
+
+“You're going to be fine.” Donald said. “Just rest here for a bit. I'm going over to the heavy bag to beat the face off of... ah... to punch it.”
+
+“Try not to bust it.” Ren said. “I have no clue if there's another one around here somewhere to replace it.”
+
+“I'll take it easy on it, then.” Donald said and walked over to the heavy bag. He noticed a small locker near the boxing ring, and opened it. Inside were several sets of padded half-gloves, and he grinned as he took out a pair and showed them to Ren.
+
+Ren waved an acknowledgement that Donald wasn't going to hurt himself by punching the heavy bag with bare hands, then watched him as he put on the gloves and started to work over the heavy bag. Denise left for a few minutes, and came back with the wheelchair. Ren sat in it gratefully, and she wheeled him over to the elevator. They went up to his room on the second floor and into the bathroom.
+
+They both got undressed and took a shower together, and there wasn't any sexual tension at all as they scrubbed and washed each other. Sometimes it was nice to just share a moment like that and not have it turn sexual. They dried off and got dressed, and Ren climbed back into bed. Denise started to chuckle as he laid down in the center of the huge bed.
+
+“What is it?” Ren asked her.
+
+“I'm just wondering if I need to tie a rope or something to you, so that if anything happens, I won't have to climb up onto the bed to reach you. I'd just pull on the rope.”
+
+Ren laughed. “I kinda miss the hospital bed, too.” He said. “But...”
+
+“But what?”
+
+“It's much nicer to have a real bed... an actual bed... to sleep on.”
+
+“It is?” Denise asked. “I always thought of them as just somewhere to sleep. It didn't really matter what kind it was.”
+
+“Oh, it matters.” Ren said and pat the bed beside himself. Denise looked a question at him for a moment, then shrugged slightly and climbed up onto the bed with him. She laid down beside him and he turned to look at her.
+
+“You see, this is my bed.” Ren said. “Not the hospital's bed. Not the temporary care facility's bed. It's my bed.” He reached a hand out to touch Denise's face. “I always felt a little bad when things happened with who I was with, because I knew it wasn't my bed to do things in.” He smiled. “I own this bed, though; so I don't have to feel bad about doing anything in it.”
+
+“Ren...”
+
+“Except for the person doing the laundry.” Ren said and grinned. “I'll always feel bad for them.”
+
+Denise laughed, and he liked the look on her face when she wasn't trying to hide her feelings. Ren moved his hand from her cheek to behind her neck.
+
+“You're suspended until further notice.” Ren said.
+
+“Wh-WHAT?!?” Denise said, surprised... and then Ren kissed her. His lips expertly moved over her own, and her mind reeled over what he was doing. She'd never thought he would be the one to initiate anything between them, and she wasn't sure how to handle the situation.
+
+Ren broke the kiss when he felt she was a little unresponsive, and he looked at her. He couldn't tell what she was thinking, but a mix of emotions played over her face and he knew that she wasn't ready to go any further than that.
+
+“You're re-instated.” Ren said as he slid his hand from behind her neck and caressed the skin along her collarbone.
+
+Denise laid there and stared at him, and he smiled at her; then made three buzzer sounds in quick succession.
+
+“This has been an unsuccessful test of the Ren Seduction System. If it had been successful, either one or both of us would be naked right now.”
+
+Denise snorted a laugh and shook her head at him.
+
+“Further tests may be needed in the future, to ensure the safety of the general public.” Ren said. “Any inquiries or complaints can be directed to the management.” He grinned and pointed down at himself, and Denise, apparently a complete sucker for misdirection, looked to where he pointed and saw that he was quite ready for any 'inquiries' she might have.
+
+“You're so bad!” Denise said and laughed as she touched him there, and felt how hard he was though the thin fabric of his pyjamas. “Where's my innocent little Ren that I love so much?” She stopped laughing when she realized what she said, and started to breathe heavily. Ren's hand touched her chin and lifted, so she would look at him.
+
+“He's still here, and he cares a lot about you.” Ren said. “He's also had a lot of time to think about everything in his life, and everyone in it.”
+
+“Ren... I...”
+
+“Any time you want to find out how far this can go between us, I'll be right here waiting for you.”
+
+“At the end of the line?” Denise asked, and she put her other hand over her mouth. “I didn't say that.”
+
+“There's no line.” Ren said. “It's a circle.”
+
+Denise blinked her eyes at him. “What... what are you saying?”
+
+“I'm saying...” Ren closed his eyes to gather his thoughts. “...each of you are like... like a bundle of burning flames that surround me.” He said, then opened his eyes and looked at her. “I turn to one and they let me share in that heat. I enjoy it, and so do they. I know if I stay too long that they'll burn me up; so, I turn to the next one in the circle. I bask in their flames and let them warm me, and again, I know if I stay too long...”
+
+“I... I burn you up?” Denise asked, and he nodded.
+
+“You have a certain something about you, and I know I'll lose myself in you if I'm not careful.” Ren said.
+
+“My breasts?” Denise asked, to try and lighten the mood. He's being really serious right now.
+
+“You know your breasts are not the most appealing thing about you.” Ren said and smiled. “They're right up there, though.”
+
+“Ren, you know that... I mean...”
+
+“Nothing has to happen.” Ren said. “I'm not asking you to throw away your morals, your self-respect, or even the way you live.”
+
+“But...”
+
+“I don't want to make the same mistakes I've been making up until now.” Ren said. “I control who I see and who I don't see. I won't be tricked, coerced, or forced into anything that I don't want.” He said and looked at her seriously. “Not any more.”
+
+“Ren...”
+
+“I'm leaving it up to you, now.” Ren said and kissed her lightly on the lips. “I've told you that I want you, and that's all there is to it.”
+
+“But...”
+
+“I think I need to get back into the game.” Ren said to change the subject. He knew she was going to need time to process his very direct approach. “Can you hand me the VR headset?”
+
+“Sure.” Denise said, and then she realized she'd had her hand on his bulge the entire time they had talked, and her face burned red as she tried to move her hand away. “I'm sorry, I...”
+
+Ren touched her hand to hold it in place, then kissed her hard. “You can touch it whenever you want.” He said and looked at her surprised face. “Denise, I'm serious. Any time that you want it, it's yours.”
+
+“Ren! I... I can't...”
+
+“The VR headset, please.” Ren said, and once again tried to distract her from the serious subject. Denise rolled onto her back and reached over to pick up the headset and handed it to him. He had let her other hand go, the one he had held against himself, but she didn't let him go.
+
+“Thank you.” Ren said, looked at the rollaway table, and slipped the VR headset on. “Can you grab a foil packet for me? I forgot to take care of that in the bathroom.”
+
+Denise looked at him with surprise on her face; but, he couldn't see her through the helmet. She grabbed one of the foil packets and opened it, unfurled it's contents a little, then looked at his straining pyjamas.
+
+“I can't log in without it.” Ren said. “I might not need it, but... you know I don't want to make a mess for you to clean up if I do need it and don't have it.”
+
+Denise pulled his pants down and the thin cloth of the silky underwear hugged him like a second skin. Her mouth watered at the sight, and she swallowed loudly as she eased the silky shorts down just enough to reveal some of what she needed to get to. With a little bit of work, she managed to get the foil packet's contents in position without actually touching the skin. Denise was sweating profusely from the effort it had taken to accomplish the almost impossible task, and she pulled his underwear and pyjamas back into place.
+
+“Thank you, Denise.” Ren said softly. “That meant more to me than you'll ever know.”
+
+Denise looked at his half-covered face and saw his smile.
+
+“Flow Login Start.”
+
+********
+
+Ren's avatar became solid again when he logged in, and he could see that all 5 maids were piled all on one side of him. He had left with 2 on one side, and 3 on the other; but, they somehow ended up in a big pile next to him anyways.
+
+They're just used to that, I guess. Ren thought. I'll make sure to lay on the side of the bed next time and leave them the rest, rather than stay in the middle like I've been doing.
+
+“Hi, Ren.” Teepo said. “You've got about 4 hours before breakfast, and an hour after that to meet Jen and the caravan to go out to your county.”
+
+Nice. Ren thought. Thanks, Teepo.
+
+“I assume you're going to sleep?” Teepo asked, and Ren nodded. “You better wake them, then.” Teepo said and chittered in laughter. “They won't forgive you if you come back early and don't tell them.”
+
+Ren smiled and let amusement enter the shared Aura, and he could feel an answering amusement from the pile. He very gently reached over and lifted the top woman from the pile and laid her on the other side on him, then did the same with the next one.
+
+He was glad that they weren't in a tangle of limbs like they would be with him on the bottom, and he sorted the next two out and laid them on his other side to reveal a wide awake Frikara who was on the bottom of the pile. Neither of them said anything as he picked her up and laid her down on top of himself, since that was the only spot left.
+
+Frikara crossed her arms on his chest and rested her chin on them and looked at him. She could feel his feelings, and she was still a little surprised, even now, that he wasn't trying to hide from them or stop them from hanging all over him. Ren could feel how happy she was that he had chosen her to sleep where she considered to be the best spot, even though she'd never openly admitted it. Even if he couldn't feel her emotions like he was, her bare chest against his would have let Ren know that she was very happy to be where he had placed her.
+
+Frikara made a small kissing motion to him, since she was a bit too far away to actually kiss him. Ren put his fingers to his mouth, kissed them, and touched her lips with them instead. She sent a warm feeling of appreciation into the Aura, then she uncrossed her arms to hug him and put her head down on his chest to sleep. Ren laid his arms out to the sides and across the upper chests of the other maids, right below their necks. He had to make sure that he was in physical contact with the other maids as well as Frikara, and went to sleep himself.

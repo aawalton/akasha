@@ -1,0 +1,217 @@
+---
+id: f9b712f8-5eb3-5ccc-ae89-0cd501ab3d20
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 Exodus"
+slug: 0030-chapter-28-exodus
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 30
+ownLength: 2229
+unit: words
+publishedAt: 2026-04-12
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3264981/chapter-28-exodus"
+royalRoadId: "3264981"
+---
+
+The eastern road lay quiet beneath the pale light of morning.
+
+A thin crust of frost clung to the ground where the night’s cold had settled, and each breath Tomas exhaled drifted briefly in the air before fading. He shifted his weight from one foot to the other as he stood beside the wooden watch post near the gate, gloved hands resting loosely against the shaft of his spear.
+
+Winter mornings were usually uneventful.
+
+Most travelers avoided the frontier during this season unless necessity forced them onto the roads. Traders preferred to move their wagons before the cold deepened, and farmers had little reason to leave their villages once the fields lay dormant.
+
+This meant the eastern road was often empty during winter, and Tomas had expected it to remain that way as his gaze drifted idly across the distant bend where the road disappeared between the trees.
+
+A slight movement caught his attention.
+
+At first, it appeared as little more than a disturbance against the pale stretch of road, too distant for the eyes to catch. Tomas narrowed his gaze, shifting where he stood as he tried to make out the shapes emerging slowly from the thin line of trees that bordered the path.
+
+Figures. More than a few.
+
+He straightened a little, his attention sharpening as the distant shapes gradually separated into individual forms.
+
+One figure walked several paces behind the others. The shape was smaller than most of those ahead of her, a slender silhouette wrapped in a travel cloak. Tomas noticed the outline of a bow carried loosely in one hand as she walked, while another longer shape lay slung across her back beneath the cloak.
+
+Even from this distance, she kept one hand gripped on her bow. It was an odd habit for someone traveling the frontier in winter.
+
+Travelers, he thought at first.
+
+Yet something about the sight unsettled him almost immediately.
+
+Travelers on the eastern road usually moved with purpose, whether merchants guiding wagons or villagers heading toward neighboring settlements.
+
+These figures did not move like that. Their pace was slow and uneven, their loose formation spreading across the width of the road rather than keeping to the steady line of a proper caravan. Some leaned heavily upon those beside them as they walked, while others struggled beneath bundles tied awkwardly with rope and cloth.
+
+A faint tightening settled in Tomas’s chest. He had seen movement like this before, not on the road but during a particularly bad Tithe.
+
+As the group slowly drew closer, more details began to reveal themselves. There were no wagons among them, no horses or mules carrying supplies, only people moving forward one weary step at a time. Men and women both walked among the group, and several children trailed close beside the adults, their smaller figures keeping pace with a child's determination.
+
+One of the men stumbled as he walked, pitching forward before another quickly reached out to steady him.
+
+Tomas exhaled slowly before turning toward the gate. “Oi,” he called.
+
+Another militia standing near the wall looked up. “What is it?”
+
+He raised a hand and pointed down the road.
+
+The other guard stepped closer and followed the direction of his gesture, squinting toward the distant shapes as they slowly approached.
+
+For a time, neither of them spoke.
+
+Then the second guard shifted his stance. “...That’s a lot of people.”
+
+Tomas gave a single nod. “Aye...”
+
+They continued watching in silence as the distance slowly closed between the approaching figures and the gates of Ashridge. The closer the group came, the clearer the signs became.
+
+Torn cloaks and bundles tied with rough cord became visible as the group drew nearer, and one man carried a small child in his arms, but it was the faces that caught Tomas’s attention most.
+
+Even from this distance, Tomas could recognize the look they carried with them. It was not the ordinary weariness of travelers after a long journey, but something heavier and more hollow, the kind of exhaustion he had seen before among men who had barely survived the shield wall.
+
+Among the figures walking near the front of the group, a small girl clung tightly to a woman’s cloak as they moved. She stumbled once on the uneven road before the woman steadied her without slowing.
+
+The sight stirred a faint memory.
+
+Dalen had two daughters in the village, both still small enough to hide behind their father whenever strangers passed through Ashridge. Tomas had seen them only a few days earlier, chasing one another across the frozen ground near the well.
+
+For a heartbeat, he imagined them standing on that same road.
+
+He tightened his grip on the shaft of his spear as the realization settled in his mind. “Refugees,” Tomas muttered.
+
+The word lingered in the cold morning air.
+
+Behind them, Ashridge had only just begun to stir awake.
+
+Lucien regarded Elias for a moment after the steward delivered the news. The words settled over the room with a weight neither of the other men attempted to interrupt.
+
+“There have been new developments regarding the eastern villages.”
+
+The fire in the corner hearth crackled softly, though it did little to disturb the silence that followed.
+
+His expression remained calm as he studied the steward standing just beyond the threshold. Elias rarely entered the study without reason, and rarer still interrupted a meeting already in progress unless the matter required immediate attention.
+
+“Explain,” Lucien said at last.
+
+Elias inclined his head before continuing. “Shortly after dawn, the watch at the eastern gate reported a group approaching along the road. At first they believed them to be travelers, though the number alone made that unlikely for this time of year. Upon closer inspection, it became apparent that the group consisted primarily of villagers.”
+
+His gaze sharpened at the steward's words. “From which village?”
+
+“That has not yet been confirmed, My Lord,” he replied calmly. “However, the men at the gate report that the group appears to be in poor condition, and there are children among them. Several individuals seem to be injured or otherwise unable to walk without assistance.”
+
+Dorian, who had remained silent until now, shifted in his chair. “How many?” the captain asked.
+
+“The estimate given by the watch was somewhere between forty and fifty individuals.”
+
+His brow furrowed faintly. “That is not a traveling party.”
+
+“No,” Lucien agreed quietly.
+
+A group of that size moving through the frontier in winter could only mean a handful of possibilities, and none of them were particularly encouraging.
+
+He folded his hands together on the desk as he considered the report. “And they are currently at the gate?”
+
+“Yes, My Lord.”
+
+“Have they attempted to enter the village?”
+
+Elias shook his head. “The watch instructed them to remain outside the gate until further orders were given. The militia on duty believed it prudent to wait for direction.”
+
+Lucien gave a small nod of approval.
+
+That was the correct decision, allowing a large and unknown group to enter the village without checking them thoroughly would have been careless, even if the circumstances suggested desperation rather than hostility.
+
+He shifted his gaze briefly toward Dorian. “Your assessment, Captain.”
+
+Dorian did not answer immediately, the captain of his guards leaned back as he considered the information that had been presented, his expression tightening just enough to reveal the direction of his thoughts. “If they came from the eastern villages,” he said slowly, “then something likely happened during the Tithe.”
+
+Lucien nodded in agreement, it was a conclusion that required little imagination.
+
+The Tithe had lasted longer than expected, and the southern routes had carried the beasts deeper into the frontier than many villages were prepared to withstand.
+
+“If their village failed,” Dorian continued, “they would have no choice but to move west.”
+
+“Which means,” Lucien said, his eyes shifting toward Elias, “they would eventually reach Ashridge.”
+
+Elias inclined his head in response. “That appears to be the case, My Lord.”
+
+He leaned back in his chair, the faint creak of the wood sounding softly in the quiet room as he considered the situation.
+
+Ashridge had survived its own Tithe, though the margin had been narrower than he would have preferred. The village was only just beginning to return to something resembling normal routine, and winter had already begun to settle across the frontier.
+
+The arrival of several dozen refugees would complicate matters considerably, as questions of food reserves, shelter, and village security would all need to be addressed in turn.
+
+Lucien’s fingers tapped lightly against the desk once before he rose from his chair. “We will speak with them directly.”
+
+Dorian stood almost immediately. “My Lord.”
+
+He stepped around the desk and reached for the cloak hanging beside the wall. “If these people walked across the frontier in winter, then whatever forced them to leave their homes was not a minor inconvenience,” he said evenly as he fastened the clasp at his shoulder. “It would be unwise to rely solely on secondhand reports.”
+
+Elias stepped aside to allow him passage toward the door. “I will have the gate informed that you are on your way.”
+
+Lucien paused briefly before leaving the room, his gaze moving once more toward the window where the pale winter light still stretched across the frost covered fields beyond the village.
+
+“Do so.”
+
+Then he opened the door and stepped into the corridor, Dorian falling into step beside him as they made their way toward the eastern gate.
+
+By the time Lucien reached the gates, the village had begun to stir with the slow movements of early morning. Thin trails of smoke drifted upward from several chimneys, and the pale winter light stretched across the frost covered ground beyond the wooden palisade.
+
+A small gathering had formed near the gate.
+
+Most of the villagers stood at a cautious distance, watching in quiet murmurs while the militia maintained a loose line before the entrance. Beyond the wooden barrier, the refugees waited upon the road in a weary cluster.
+
+They looked worse up close.
+
+Travel had stripped them of whatever strength remained after the Tithe. Cloaks hung torn and stiff with frost, and several people leaned heavily against one another simply to remain standing. A few sat directly upon the cold earth, too exhausted to hold themselves upright for long.
+
+Children clung silently to the adults beside them.
+
+Lucien slowed as he approached.
+
+The murmurs among the villagers faded when they noticed him, and the crowd parted almost instinctively to allow him through. Dorian moved ahead by a step, clearing the last of the space until they reached the militia standing before the gate.
+
+Tomas straightened at once. “My Lord,” he said, bringing the butt of his spear lightly against the ground in acknowledgment. “They came down the eastern road shortly after dawn.”
+
+His gaze moved across the group gathered beyond the gate before he asked. “How many?”
+
+“Forty eight that we counted,” Tomas replied. “There may have been more earlier, though some appeared to have fallen behind along the road.”
+
+Lucien nodded once, then asked, “And their origin?”
+
+“They say they came from the eastern villages, My Lord,” Tomas said. “The first settlements past the forest line.”
+
+As he stepped closer to the gate, the refugees noticed him immediately.
+
+A ripple of unease passed through them as several straightened instinctively. A few lowered their gazes while others shifted back, their expressions tightening with the same cautious wariness that he had once grown accustomed to seeing among the villagers of Ashridge.
+
+One of the older men moved forward hesitantly.
+
+His clothing was little more than patched wool and worn leather, a strip of cloth wrapped clumsily around his forearm, already darkened where the wound had bled through. When his eyes lifted toward him, there was unmistakable tension in them.
+
+Even here, far from the centers of power, a noble’s presence carried weight.
+
+Lucien regarded him calmly. “You came from the eastern road,” he said. “Which settlement?”
+
+He hesitated briefly before answering. “The first village east of the forest, Milord. The one by the low ridge.”
+
+“And the others?”
+
+The older man swallowed. “The ridge village fell first,” he said slowly. “The beasts came out of the badlands sooner than anyone expected, and the militia could not hold the fields.” His voice roughened as he continued. “Some of us fled to the next settlement further east, but they were already fighting when we arrived. We stayed there for a time, though it did not last.”
+
+Dorian’s brow tightened. “They fell as well.”
+
+“Yes,” the man replied quietly.
+
+A faint murmur spread among the Ashridge villagers listening nearby.
+
+Lucien’s gaze drifted briefly toward the distant line of trees where the eastern road disappeared beyond the forest. “And the settlements beyond those?”
+
+The refugee shook his head. “We do not know, Milord. Some people fled further east while others ran west with us. We left before we could see how many more might fall.” He lowered his gaze. “We only knew we had to keep moving.”
+
+The winter wind stirred faintly across the road.
+
+Lucien remained silent for a moment as he studied the exhausted group before him.
+
+Beyond the forest to the east lay the rest of the frontier settlements, scattered thinly across the land between the badlands and the kingdom’s interior.
+
+No one knew how many of them still stood.

@@ -1,0 +1,403 @@
+---
+id: 083a1383-f18c-5840-a59a-aa22fc666f0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 361 - It's Building Time"
+slug: 0354-chapter-361-its-building-time
+partOf: mythrans-master-of-all-continued-completed
+position: 354
+ownLength: 5075
+unit: words
+publishedAt: 2017-09-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162931/chapter-361-its-building-time"
+royalRoadId: "162931"
+---
+
+Ren ran back to the house and picked up Princess and Ruck, kissed the other maids goodbye, and rode Princess over to the lumber yard with Ruck running behind them.
+
+“Hi, Ren.” Jen said. “Are you going to check the carts again?”
+
+“If you don't mind.” Ren said and hopped off of Princess. “I'll be quick.”
+
+“I hope so.” Jen said and smiled. “I've allowed for your Haste spell in our travel time.”
+
+Ren nodded, ran around the caravan, and quickly checked the carts. All the enchantments were still intact and the Durability was barely down at all. He didn't find any flaws in the metal with his Vision of Impurity, and ran back to the head of the line.
+
+“All done.” Ren said.
+
+“That really was fast.” Jen said.
+
+“I didn't see Jhulune.” Ren said and climbed up onto Princess. “Is she okay?”
+
+“She said she had some personal things to take care of today.” Jen said. “So I gave her the day off.”
+
+Ren nodded and Princess turned around. “I'll meet you at the West Gate.”
+
+“Where are you going?”
+
+“I have to pick Tee-one up at the warehouse, and some iron ore.”
+
+“We're not going to take long to get to the gate from here.” Jen said. “If you make me wait again...”
+
+Ren laughed. “Don't worry. I've got you covered if I take a few extra minutes.”
+
+“All right.” Jen said. “See you there.”
+
+Ren nodded again and Princess took off at a fast trot. Ruck was right behind them and followed them out the North Gate and down to the warehouse. When they got there, Tee-one was leaning against the side of the warehouse.
+
+“What are you doing?” Ren asked him as Princess came to a stop and he hopped off of her to hook up the cart.
+
+“Trying to do... what you do...” Tee-one managed to say.
+
+“You made a pile of Strong Rings of Storage, filled them with ore, and now you're trying to carry them all?”
+
+Tee-one nodded, and Ren laughed as he shook his head.
+
+“You're using my Rock Steady ability?”
+
+Tee-one nodded again and pushed off from the wall. “It's still really heavy, though.”
+
+“Oh, I know.” Ren said and looked at Ruck. “Load up as much as you can safely carry.”
+
+Ruck pat Ren's head and went inside the warehouse.
+
+“Hand some of them over.” Ren said to Tee-one, and he passed him 50 rings. “Geez, how many did you...”
+
+“250.” Tee-one said. “That's much better, thanks.”
+
+Ren shook his head and pat Princess. “I won't load up myself, because this is going to be hard enough on you.”
+
+I will be fine, My Lord. Princess thought to him.
+
+“Yes, you will.” Ren said. “I'll be using the Giant Strength and Haste wands today.”
+
+Ren felt the thrill go through her, and he chuckled. “You won't be going quite that fast with all of us to pull behind you.”
+
+Ruck came out of the warehouse a minute later, and walked slowly.
+
+“I could have sworn I said 'safely carry'.” Ren said. “Hold on while I change the enchantment on the cart.”
+
+Ruck gave him the 'okay' signal and Ren took out three steel squares and enchanted one with Durability enhancement, one with Strength, and one with Reinforcement. He took out another and enchanted it with Antidark runes to try and make the cart lighter; but, when he attached the steel squares with dabs of molten metal, the cart remained the same weight with only an 80% reduction.
+
+“I wonder if that's a set number, or if I can reduce it by other means.” Ren said.
+
+“If you reduce it a little bit further, I think you could make it airborne.” Tee-one said.
+
+“That's what I was thinking.” Ren said. “If I can find some way to overcome Dark completely...” He shook his head. “We're wasting time.” He said. “Everyone climb aboard.”
+
+Ruck climbed into the back of the cart and hunkered down as far as he could go, so that the center of mass was closer to the ground. Tee-one was next and climbed up into the passenger seat on the front, and then Ren climbed into the driver's seat.
+
+“Let's go, Princess.” Ren said. “Outside the wall.”
+
+Right away. Princess thought and started to trot.
+
+*
+
+“Where the hell is he?” Jen asked as she looked back along the caravan and into the city.
+
+“There he is.” Her driver said and pointed. She turned to look where he pointed and saw Ren coming over the rough ground with his mount and a cart. She shook her head in disbelief that he would treat a cart and a mount like that, and Princess came to a stop beside them.
+
+*
+
+“We had to take a shortcut.” Ren said. “Ready to go?”
+
+“If you haven't broken your mount's leg or cracked a wheel.” Jen said a little crossly.
+
+“I haven't.” Ren said. “What's your problem?”
+
+“I thought you were better than that.” Jen said and pointed. “I wouldn't let my old mare cross that, let alone my only mount!”
+
+“I'll have you know that Princess can cross anything... anything at all... and nothing can stop her.” Ren said, and he felt Princess' pride. “The cart's enchanted for Strength, Durability, and Reinforcement.” He said a bit crossly back. “If you'd taken just a second to look at it, instead of judging me unfairly, you'd know that.”
+
+Jen blinked her eyes at him, and she realized that she really had judged him unfairly. “Ren, I... I'm sor-”
+
+“I don't want to hear it.” Ren said. “I've never done anything at all for you to think that I'd mistreat my friends in any way.”
+
+“Ren...”
+
+Ren concentrated on his Command Aura. “Quiet.” He commanded her, and Jen closed her mouth. “You can try to apologize again during lunch, when I'm not as angry at you.”
+
+Jen nodded reluctantly and Ren took out the Giant Strength and Haste wands.
+
+“You better hold on.” Ren said to her and cast Giant Strength on the horse, and then Haste. The horse neighed and kicked it's hooves, and the driver smiled as he flicked the reins. The horse took off like a bolt from a crossbow, and Ren cast the same spells on the other horses as they passed. He did the same for Princess, and she passed by everyone like they were standing still.
+
+“We can stop up ahead to wait for them.” Teepo said about 6 minutes later. “With their increased speed, it should only take three rest stops to get there.”
+
+But we are wasting time. Princess thought. At least let me drop Ruck off at the Main House and come back.
+
+“Stop here, please.” Ren said, and he felt Princess sulk a little as she came to a stop without question. He hopped off the cart and walked to the front of the cart to pat her neck. “That's actually a good idea.” He said and stepped back out of the way. “I'll see you when you get back.”
+
+Ruck and Tee-one waved to him, and Princess licked his face and ran off before he could react.
+
+“Geez.” Ren chuckled and used a cloth to wipe off his face. “A simple thank you would have been good enough.”
+
+“That was a simple thank you.” Teepo said, and Ren laughed. They had to stand there and wait for about 14 minutes for the horses and carts to start showing up. The spells wore off only about 20 feet away from where Ren stood, and the lead horse and cart came to a stop on the other side of the road from him.
+
+Jen looked at Ren as he stood there, and she sighed. Why did I react like that? She asked herself as the next horse and cart came to a stop behind her. That's more like how Catalina would react. She thought, then remembered what Catalina had told her about Ren's little show back in the capital city. Oh, god. She sighed again as she figured out what was wrong. I'm... I'm afraid of him.
+
+Ren had heard Jen sigh both times; but, he didn't look at her. The horse on the other hand looked like it was struggling to catch it's breath, so Ren used the Energize wand that the Hand Of Glory around his neck had a hold of. He was worried before that they would get spoiled if he did that; but with the way Jen was acting, he didn't care at this point and used the spell on each horse as it came to a stop. The drivers were surprised that their horses weren't tired after such a hard run, and got to work feeding and taking care of them.
+
+Princess came back at her normal speed and stopped beside Ren. She didn't have the cart attached, and Ren nodded mentally. He thought about going around and adding Health potion to the feed again, but it wasn't strictly necessary. He'd check them at the end of the ride to see if they needed any healing.
+
+“Break's over.” Jen told them, and all the workers and drivers climbed back into their respective carts, and Ren recharged the three wands. He waited until everyone was ready, then cast Giant Strength and Haste on the horses.
+
+Do me as well. Princess thought when the last horse passed her.
+
+“You don't need it at this low a speed.” Ren said, and then chuckled. “This low a speed!” He said. “I think I'm getting spoiled by you.”
+
+Princess brayed and ran after the carts. Ren had been right, though. She caught up to the carts with a little bit of effort, and eased past them. Since almost no one used this road, she didn't have to worry about oncoming traffic. She kept an eye out for any obstacles or obstructions, and so did Ren and Teepo for that matter. She ran for the entire 20 minute duration of the spells, and came to a stop to let Ren cast Energize on the horses.
+
+After another short break, they continued on and arrived at the Main House, and Tee-one and Ruck already had half of a large warehouse built. Ren shook his head and dismounted from Princess, then checked the horses to see if they needed any healing or Health refills. Two of them had strained leg muscles, since it was quite the vigorous run for them; so, Ren used a Minor Healing wand on them. Just for the heck of it, he used the wand on all of the horses just to top off their Health.
+
+“I wish you were along for all of our runs.” The driver of the first cart said, since his horse was the last one Ren healed. “You make everything so much easier.”
+
+Ren glanced at Jen, who was standing nearby and pointedly not looking at him. “I don't think everyone feels the same way.” He said, and he saw her twitch a little.
+
+“I don't know what her problem is.” The driver said and started to brush the horse. “She usually hangs all over you.”
+
+“I was thinking the same thing.” Ren said. I wonder what happened to change her attitude?
+
+“You can always ask her.” The driver said. “I'm sure she'd tell you if you did.”
+
+“Maybe.” Ren said, bid the driver farewell, and let Princess into the Main House to rest. He gave her some food and left her there, then ran over to Tee-one and Ruck. “You didn't have to start as soon as you got here.”
+
+“If I had wings, that would be like telling me I didn't have to fly.” Tee-one said as he picked up another section of wall and Ruck held it in place for him to attach it.
+
+“Well, then!” Ren said and grinned. “Hurry up and get to work!”
+
+Tee-one chuckled and Ruck clapped his hands, and the three of them finished the large two storey warehouse in only half an hour. With the three of them wearing the Amulet of the Spider, they had no trouble building the second floor or the roof. Ruck had taken a break after the first floor was done to unload a good portion of the iron ore he carried, and swarmed over everything once he was so much lighter. They added the standard windows on the first floor, but left the second floor just bare walls and added a vent above where the giant forge was going to be.
+
+Once the building itself was done, the three of them went inside and Ren handed them the parts he had purchased in the capital city.
+
+“I can't believe they actually had these things in stock and ready for sale.” Tee-one said as he picked up a 5 foot long and 5 inch thick square piece of metal that the giant smelter sat on and put it aside. “I'm not complaining, though.”
+
+Ren chuckled. “Me, either. It would take us a while to make each of these parts, and a lot of iron ore.” He said. “Buying them was so much easier.”
+
+“You wanted to make them, though.” Tee-one said, and Ren nodded.
+
+“Yeah, but I couldn't.” Ren said. “It's that age old problem of needing the tools to make the tools that you need.”
+
+“You needed the giant smelter before you could make the parts you needed to make the giant smelter.”
+
+“Exactly.” Ren said. “Of course, now that we have the giant smelter, we'll be able to replace the parts with steel eventually.”
+
+Ruck handed Ren the first set of paving stones he would need for the base of the forge.
+
+“Thanks.” Ren said. The three of them got to work and built the biggest forge that any of them had ever seen. The best part was, since they didn't need the compartment for adding wood inside to increase the heat, the inside of the forge was actually much bigger than any of it's counterparts.
+
+“Zetaya is going to love it in here!” Ren said as he enchanted every single stone with Fire and Wind runes.
+
+“I think we should make a door for you, rather than just use the sliding mechanism.” Tee-one suggested. “If it slides closed while you're inside...”
+
+Ren nodded. “Good point.”
+
+They designed a stone slab door with hinges on the outside, and Ruck passed him several stone slabs to choose from.
+
+“Hey, thanks!” Ren said. “I thought you just overloaded yourself with iron ore.” He said and smiled. “What else did you bring?”
+
+Ruck took out 2 dozen bags of sand, a dozen more different kinds of large stones for Ren to practice his stone masonry on, and enough paving stones to cover the entire floor of three buildings. He also had a pile of stone bricks to make molds in front of the forges.
+
+“Thanks a lot!” Ren said and hugged Ruck. “You were thinking farther ahead than I was.”
+
+Ruck patted Ren on the back, and Ren let him go.
+
+“Let's get this thing up and running!” Ren said, and they finished making the forge, then added the pieces on top for the giant smelter. Normally, that would have been the end of it, but because he was making miniature forges and smaller smelters attached to the giant one, it took twice as long to get all the pipes, valves, and mechanisms for switching the flow of molten metal to each spot.
+
+Ren thought about altering the design, because he was sure he wasn't going to need 5 satellite smelters; but, if he started to fiddle with the design after most of it was already built, that was just asking for trouble. He smiled at that thought, Teepo chittered in laughter, and he felt amusement from Tee-one. They made it the way it was intended, and stood back half an hour later to marvel at the monstrosity.
+
+“I know I've seen one before, but... even I have to admit that thing is huge.” Ren said, and Tee-one and Ruck nodded. The forge and smelter combined almost reached the top of the warehouse and the vent there, and it filled almost all the available space on one side of the building.
+
+“A conveyor belt!” Ren said. “I was thinking about how I was going to get all that ore up there without having to crawl up the wall and dumping it in by hand.”
+
+“Well, we have gears, wheels and Spider Silk cloth.” Tee-one said. “We'll have to add the first load by hand to make the parts we need, then we can make the conveyor belt and just crank it up to add more ore.”
+
+While they talked, Ruck had crawled up the wall and was already upside down on the ceiling above the smelter.
+
+“Hold on, I'll start it up.” Ren said and opened the door in the front of the forge. Rather than activate all the enchantments at once, he did them in stages. He remembered the first time he had lit up an enchanted forge and activated all the glyphs at once. He had been looking into the forge at the time and the blast of heat and fire had burned off his eyebrows instantly. Ren chuckled as the giant forge slowly came to life and filled the internal space with flame and wind. It reminded him of the Fire Realm, and he felt a sharp pain in his heart.
+
+The heat quickly spread from the forge into the smelter, so Ren shut the front door and waved. Ruck emptied his inventory of ore into the smelter, then came down and refilled it, then went back up and dumped it all into the smelter.
+
+“You're right.” Tee-one said. “There's no way we could have smelted enough metal to make those large parts in one shot.”
+
+“We can now, though.” Ren said and looked up at the ceiling. “Hey, Ruck! Give us a hand building Janice's place. We have to let the metal simmer for a while before we can use it.”
+
+Ruck waved and moved away from the top of the smelter, then let go of the ceiling. He flipped over in mid-air and landed on the floor as his legs compressed and supported his weight so that it didn't damage the floor.
+
+“Show off.” Ren said and grinned. Ruck pat him on top of the head and they left the large warehouse and went next door. Ren took out the prefab walls he had made the day before, and they built the house and a large workshop beside it. He had enough paving stones now to cover the floor and halfway up the walls, and then they built a much larger glass furnace for Janice to use.
+
+While Ren enchanted it, Ruck moved the bags of sand from the warehouse to Janice's workshop. Ren activated it and loaded it with sand. Since it could be left to simmer, just like the iron ore, Ren asked them to help him build the stables he would need for 60 horses.
+
+“Are we making 5 separate stables with 12 horses each?” Tee-one asked.
+
+“I'm tempted to, since that's what everyone else does.” Ren said, and then smiled. “But, you know me.”
+
+Tee-one chuckled. “One large stable with 5 compartments it is.”
+
+“I'm glad I picked up so much lumber at the capital city.” Ren said. “How far away should we make it?”
+
+“Not far.” Tee-one said. “You know people are going to like the novelty of having free horse and cart rides.”
+
+“Only a few hundred feet away it is.” Ren said and they walked over to the spot. Since there was a minimal amount of building materials needed for horse stalls, it didn't take them long to make a single stable for 60 horses. The stalls themselves were 10 feet wide and 10 feet deep, because Ren wanted to make sure the horses had lots of room to move around, and then added a 20 foot wide by 10 foot deep space every 12 stalls for hay and feed storage.
+
+They built the manager's office on the end of it, a 20 foot by 20 foot space, which made it stand out unlike any other stable he had seen. They added paper storage, a large desk and chair, and added a window in the door. On the very end of the stable, they built a 40 foot by 40 foot classroom, added chairs for the students and a desk and chair for the teacher.
+
+“Whew.” Ren said when they were done two hours later. “That took a lot longer than I thought it would.”
+
+Tee-one nodded. “It's the little details that slowed us down.” He said. “Each horse stall had partial walls, and each needed it's own gate with a hole for the horse to stick it's head out.”
+
+“Imagine if we were doing it alone and didn't have each other to help.” Ren said. “I'd probably still be building the forge warehouse.”
+
+“That's why we're here.” Tee-one said and held a hand out. Ruck slapped it in a high five gesture, and Ren chuckled.
+
+“We should take a break for a bit.” Ren said. “I think the smelter needs to be skimmed for impurities.”
+
+“I can do that.” Tee-one said. “Why don't you go and see how the next batch of houses are coming along.”
+
+“Do I have to?” Ren whined dramatically, and Tee-one chuckled.
+
+“Go and talk to her.” Tee-one said. “You need to know what her problem is.”
+
+Ren sighed and nodded, then walked up the road to the Main House and the housing subdivisions behind it. He wasn't surprised to see that 10 of the houses were finished already and came to a stop beside Jen. He hadn't used Sneak, and made sure to make enough noise so that she knew he was approaching. He saw her stiffen and wasn't sure what was wrong.
+
+“It's coming along nicely.” Ren said as he looked at the houses.
+
+“It is.” Jen said. “Ren, I...”
+
+“It's not lunchtime yet...” Ren said. “...but, I would like to talk to you in private.” He looked at her. “Will you accompany me to the Main House?”
+
+Jen took in a breath and let it out.
+
+“Please.” Ren said.
+
+Jen nodded and they walked over to the Main House and went inside. “You have a Mayor's office?”
+
+“Patty runs the town, with a town council to help.” Ren said and walked by her office and down the hallway. “I offered her the Mayor job when I realized she thought I was getting rid of her.”
+
+“Were you?” Jen asked, and Ren chuckled.
+
+“Of course not.” Ren said and opened the door to the two room apartment at the back and looked at her. “I'm trying to improve things, not destroy them.”
+
+Jen twitched slightly when he said 'destroy them', and Ren kept his face blank so she wouldn't know that he saw her flinch. She walked by him into the apartment and stopped.
+
+“Is this your place?” Jen asked. “I know you said you'd be living here...”
+
+“No, my personal living space is upstairs.” Ren said. “Please, have a seat.”
+
+Jen sat on a chair at the table, and Ren motioned to the comfy couch. She sighed and walked over to the couch and sat down. He waited for a moment, then walked over and sat down on the couch a foot away from her. He saw her body stiffen up, and he turned to look at her.
+
+“Tell me what's wrong.” Ren said.
+
+“Ren, I... I'm not sure I...”
+
+“Jen, we've known each other for a while now...”
+
+“I thought I knew you.” Jen said, and Ren raised his eyebrows.
+
+“Okay, you have to clarify that.” Ren said. “Please explain.”
+
+Jen sighed and leaned back on the couch. “Ren... you always surprise me... but...”
+
+“But what?”
+
+“This last surprise was... it was too much for me.” Jen said.
+
+Ren reached out to take her hand, and she pulled back before he could. He let his hand fall to the couch, and slowly pulled it back.
+
+“I don't understand what you mean.” Ren said. “What surprise?”
+
+“I... I talked to Catalina.” Jen said. “She told me about...” She started to tremble slightly and clenched her fists. “I heard about what you did to the city gate.”
+
+“She's afraid of you.” Teepo said.
+
+“Oh.” Ren said, a little sadly. “Jen, I... I'm sorry. I was showing off and wanted to take my anger out on something.”
+
+“You completely destroyed a 50 foot wide solid metal gate, Ren.” Jen said. “With just your fists.”
+
+“It was weak and poorly made, though.”
+
+Jen snorted a laugh. “You pummelled it into pieces, then brought a large chunk of it over to Catalina and Maude like you were going to squash them with it.” She said. “You crushed it in your hands instead, much to their relief, and threw that chunk of solid metal farther than anyone has ever thrown anything before.”
+
+“Look, I know it was stupid to show off like that.” Ren said. “So please, believe me. I wasn't going to hurt anyone then, and I'm not going to hurt anyone now.”
+
+“But you could have.” Jen said, and sighed. “Very easily.”
+
+“Of course I could have.” Ren said, and she looked at him with wide eyes. “I'm an Adventurer. Once I'd gone up a few levels and figured a few things out, I could have killed everyone I've ever met.”
+
+Jen started to shake visibly, and Ren took her hand. She tried to pull away, but he held onto it.
+
+“Jen, listen.” Ren said. “Just because I can hurt people, doesn't mean that I will... or even want to.” He said. “The entire time I've been in this world, I've done my best to help people when I can and to enjoy myself.”
+
+“But...”
+
+“Not once have I set out to maliciously hurt anyone.” Ren said, and then sighed. “Although, I... I did hurt someone once when...” He shook his head. “That was a bad moment for me, and I don't want to relive it.” He said. “It worked out afterwards, but it was... I'm never... ever... going to do something like that again.”
+
+“Ren...”
+
+“I'm sorry that hearing what I did has scared you; but, you should know that I will never hurt you.” Ren said. “I can give you my word on this because I know it's easily kept.”
+
+“I...” Jen sighed and squeezed his hand. “I know I'm acting like a terrified little girl; but, that was no reason to snap at you like I did this morning.” She said. “I'm sorry.”
+
+“I could argue that it's not lunchtime yet, and you have to wait like I said and should apologize properly then.” Ren said and smiled. “But, I'll be the bigger man here and graciously accept it anyways.”
+
+Jen gasped and smacked his arm.
+
+“Ow.” Ren said and rubbed the spot, and she chuckled.
+
+“Like that hurt you.” Jen said.
+
+“Having you afraid of me hurt a lot more.” Ren said, and she put a hand on his shoulder.
+
+“I'm still scared of what you can do when you're angry.” Jen said. “I'll try my best not to hold that against you.”
+
+“That's all I can ask.” Ren said and stood up. He still had a hold of her hand and helped her stand up, too. “On the plus side, if you need someone to deal with errant metal gates, you'll know just who to call.”
+
+Jen didn't respond to the joke, and Ren led her out of the apartment and out the front door of the Main House.
+
+“Oh, my god.” Jen said.
+
+“What?” Ren asked and turned to look. He didn't see anything out of the ordinary.
+
+“Where the hell did a warehouse and a giant stable come from?” Jen asked, and Ren chuckled.
+
+“You didn't look around once today?” Ren asked her, and she shook her head. “Tee-one, Ruck and I built them.”
+
+“Since we got here?” Jen asked.
+
+“Well, it did take us an hour to build the giant forge inside the warehouse.” Ren said. “Now that it's done, we can concentrate on the other buildings.” He smiled. “I'm sure we'll have the Church finished by tonight.”
+
+“Ch-ch-church?”
+
+“Yeah.” Ren said. “I redesigned one and had it built in the dwarf lands.” He said. “One specific room for each of the elements I know of, and then a large room in the middle for general worship.”
+
+Jen's breathing was a little heavy, and Ren smiled.
+
+“I had to make the stained glass windows myself.” Ren said and she looked at him. “I'll be making more while Ruck and Tee-one build the frame for the building.”
+
+“How... how big will it be?” Jen asked, and Ren wiggled a finger at her to bend over. He whispered in her ear how big it would be, and she had to brace her hands on his shoulders. “You can make... several industrial-sized buildings... in a day.”
+
+“Thanks to you.”
+
+“Wh-what?”
+
+“Your prefab wall idea was so great that it's all I use now.” Ren said. “Make several wall sections, prop them up or have someone help, then attach them. The only real limit I have now is my imagination... oh, and accessible lumber.”
+
+Jen took several quick breaths to calm down. “How much lumber did you get in the capital city?”
+
+“Not much.” Ren said and smiled. “Only 50,000 planks.”
+
+Jen laid her forehead on his forehead and took several more breaths. “You're carrying them, aren't you?”
+
+“Most of them.” Ren said. “Along with a few thousand 4 x 4s, trim pieces, and half-planks to use for finishing work.”
+
+“Good god.” Jen said and closed her eyes for a few moments, then took several deep breaths. “I... I'm still a little scared of you, you know.”
+
+“I'm glad that's not stopping you from enjoying yourself.” Ren said, and she chuckled. She leaned on him for only a moment longer, then stood up straight and let his shoulders go.
+
+“You need to get back to work.” Jen said in an almost normal voice.
+
+“Yes, Ma'am.” Ren said. “See you at lunch.”
+
+“I hope so.” Jen said. “I didn't bring any food for myself this time.”
+
+Ren chuckled. “Don't worry, I got you covered.”
+
+Jen smiled at him, then watched as Ren ran across the road and into the large warehouse.

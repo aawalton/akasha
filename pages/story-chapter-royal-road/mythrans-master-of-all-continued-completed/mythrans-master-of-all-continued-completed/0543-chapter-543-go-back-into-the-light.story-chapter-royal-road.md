@@ -1,0 +1,295 @@
+---
+id: 7ec9d3c2-dae2-5044-b160-f11e93f6465b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 543 - Go Back Into The Light"
+slug: 0543-chapter-543-go-back-into-the-light
+partOf: mythrans-master-of-all-continued-completed
+position: 543
+ownLength: 2778
+unit: words
+publishedAt: 2018-04-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205005/chapter-543-go-back-into-the-light"
+royalRoadId: "205005"
+---
+
+Ren could feel how happy Zetaya was that he had shown up, and he walked over to where the fire elemental had laid down.
+
+“It's getting a little cramped in here.” Ren chuckled and sat down, and the fire elemental shifted it's head stub onto his lap. “If I'd known you would grow so much, I would have made an even bigger forge for you.”
+
+A breaking twig was heard, and Ren smiled as he stroked Zetaya's head.
+
+“Yes, I know. Hindsight is always 20/20.” Ren said. “Now that I'm here, let me fill you in on what happened when I became a Light being.”
+
+Zetaya lifted its head and looked at him as the sound of bundles of sticks being broken in a fire was heard.
+
+“It's true! I used my Helm of Polymorph to do it.” Ren said, and Zetaya hissed. “How did I do that?”
+
+Zetaya nodded, and Ren pat his lap. The fire elemental laid it's head back down and he took out the scraps of clothing he had in inventory and used his Fire Manipulation ability to stop them from burning up in the forge. Zetaya sucked them up greedily and absorbed them almost instantly.
+
+“It was simple, really.” Ren said. “Although, I didn't add anything from Nathalia or Xuunah to the helm when I made it.” He explained. “All I did was add a little bit of myself.”
+
+“That was a great idea!” Teepo said.
+
+“It sure was.” Ren said. “Being able to change back into myself was the goal; but, what I actually did was add everything that was a part of me into it, too.” He said. “Since I had a direct connection to a Light being, meaning it was a part of me, I used the helm to change into just that part.”
+
+“Oh, wow.” Teepo said. “That's so simple... and complicated... at the same time!”
+
+Ren chuckled. “I know, right?” He said. “When I polymorphed and I thought I had succeeded, Vasalor stepped in and saved me before I lost control and died.”
+
+Zetaya rolled over and looked up at him with the sound of a large tree bursting from fire, and Ren shifted his stroking motion to the side of the fire elemental's head.
+
+“Yes, I knew the danger beforehand and I accepted the consequences.” Ren said. “Like I told Vasalor, I thought it was worth the risk just to see if it worked.”
+
+Zetaya lifted an arm stub and rubbed the side of his face, and made the noise of a smouldering fire.
+
+“Yes, I'm okay.” Ren said. “In fact, I'm even better than that.”
+
+“Why's that?” Teepo asked.
+
+“Well, it's because I chose the most difficult part of myself to change into... and it worked.” Ren said and smiled. “Vasalor himself said that it was foolish to do it that way; but, I could change into any other physical form quite easily.”
+
+“That's good to know.” Teepo said. “What form are you going to try next?”
+
+“Right now, this is the only form I need.” Ren said. “Unless something comes up and I need to change again.”
+
+“You don't want to do it just for fun?” Teepo asked. “With all the stuff you put in there, you could probably become anything you want.”
+
+Ren smiled. “I won't lie and say that's not tempting.” He said. “I don't need to do it, though.”
+
+“You always say that you don't need to do anything.” Teepo chittered in laughter.
+
+“Yeah, I'm bad for that.” Ren said and looked down at Zetaya. “Hey, want to hear about my visit with Vasalor? It might take a while.”
+
+Zetaya let out a low crackling fire sound, and Ren smiled.
+
+“It's having me stay here and not the story itself, right?” Ren asked, and Zetaya made the crackling fire sound louder. “I really like that sound.” He said and gave Zetaya a kiss on the head stub. “Just relax and enjoy my company, because Teepo said I've got about 5 hours before morning and I'm going to spend it all with you.”
+
+The sound of the crackling fire doubled in intensity, and Ren hugged the fire elemental.
+
+*
+
+Xuunah waited a few more minutes in her apartment, and as the time progressed her agitation increased. “Did they decide yet?” She asked herself and paced across the living room. She had already moved the furniture back to their proper positions, now that Ren didn't need the space cleared to transform, and that made her think about what they had done.
+
+Xuunah's hand reached out to the spot where they had merged, and the emblem on her chest glowed as she thought about him. “Ren, we... Great Vasalor, we...” She closed her eyes and put a hand over the emblem. “I need to check.”
+
+Xuunah walked over to her closet and went inside, then polymorphed into her natural form after the Light Sanctuary activated so she could commune with the Light Realm.
+
+“I request an audience with Zagatro.” Xuunah spoke and thought at the same time to the Light being that was assigned to the portal room.
+
+“He's been waiting for you.” The Light being said. “One moment please.”
+
+Xuunah waited for several minutes, and then she felt Zagatro's presence.
+
+“You took your time contacting me.”
+
+Xuunah felt his slight disappointment. “I waited in case you had called a full Collective for the discussion.” She explained. “Did you?”
+
+“We did.” Zagatro said. “Your instincts were correct this time.”
+
+Xuunah let a small trace of amusement out. “What did they decide?”
+
+“Do you really want to know?”
+
+“You can feel that I do, Zagatro.” Xuunah said, impatiently. “Please, tell me.”
+
+“They have agreed that he was right in his interpretation of our mandates.” Zagatro said.
+
+“I'm relieved; but, I feel a 'but' to that statement.” Xuunah said.
+
+“The way he barged into our realm has made several of us... uncomfortable.”
+
+“Me as well.” Xuunah said. “I never imagined that he could cast a Portal spell so powerful that he could cross the barriers between the realms unimpeded, and not have it be a natural ability like your own.”
+
+“You may not have imagined it; but, you aren't surprised by it.”
+
+“No, I'm not surprised.” Xuunah said. “He is a remarkable being, and the things I've seen him do...”
+
+“His audacity is also unrivalled.” Zagatro said, and Xuunah laughed.
+
+“He may appear arrogant, but... Zagatro, he's really...”
+
+“I felt your reactions to him.” Zagatro said. “I don't need to remind you that you can't consummate as a mortal.”
+
+“Despite my physical form's unceasing need, I will not break the mandate again.” Xuunah said and paused for a full minute without speaking so Zagatro could feel her resolve, then she changed the subject back to what was important.
+
+“What did the Collective decide?”
+
+“If he threatens our realm again, you are ordered to use the Confusion ability of your Light Spirit Blade.”
+
+“Wh-what? I... I can't do that!” Xuunah exclaimed. “You don't understand what...”
+
+“We have considered the consequences, and deem our safety is worth more than derailing one mortal's thoughts.”
+
+“But... Zagatro, I... I'm...”
+
+“Yes, you've share-bonded with him and you will be affected as well.”
+
+“You do realize I'll be befuddled as well and I won't be able to contact you again.”
+
+“We are aware.”
+
+Xuunah didn't say anything as she thought about what it meant. After a few minutes, she sighed. “You've deemed me unworthy to return.”
+
+“You will be there in the mortal realm for so long that you will no longer feel like one of us.”
+
+“Zagatro, the last time I was in the mortal realm, I stayed here for decades!” Xuunah said. “Millions of years, eons really, had passed in the Light Realm!”
+
+“I know.” Zagatro said. “The difference this time is that you have bonded with a mortal.” He said. “We all felt his influence on you, and saw how you never let his hand go.”
+
+“He wanted my comforting touch!”
+
+“Yes, and you stood there and let him teach us a lesson about how dangerous mortals can be.”
+
+“WHAT?”
+
+“Just his touch made one of our staunchest defenders doubt her beliefs.” Zagatro said. “She's been in closed session therapy since that day.”
+
+“Zagatro, why...”
+
+“She wanted to share-bond with him.” Zagatro said. “A pure Light being changed her entire view of her life, only for a chance to share with a mortal.” He said. “That is more dangerous than if he had released a Void bomb in the center of the Collective.”
+
+A pure Light being. Xuunah thought, sadly. “Are you trying to make her forget, or stop her curiosity?”
+
+“She's being reassigned to be as far away from the chance to see or meet a mortal as possible.”
+
+“That's a little much, don't you think?”
+
+“The Collective decided that any undue influence on Light beings must be strictly regulated.” Zagatro said. “Also, your assignment has been extended indefinitely.”
+
+Xuunah sighed. “So, if I decided I wanted to return right now, you would deny the request.”
+
+“I would have to.” Zagatro said, sadly.
+
+“Then why are you concerned if I break the mandate for copulation?” Xuunah asked. “If I can't return anyway, what does it matter?”
+
+“It's a sign of your moral fiber.” Zagatro said. “If you can't keep a simple mandate, how can we expect you to do more important things?”
+
+Xuunah thought over everything, and came to a conclusion. “I had hoped it wasn't true; but, Ren was right.”
+
+“About what?”
+
+“It doesn't matter what you decide.” Xuunah said, and then sighed. “He didn't say that it was because you are too close-minded and obstinate to change your ways.” She chuckled. “I suppose he didn't want to insult you by saying it that way.”
+
+“Yet you can insult us like that?”
+
+“What are you going to do? Tell me not to come back?” Xuunah asked. “You already did that.”
+
+“That's not...”
+
+“You can't word it any other way to make it sound better, so why try?”
+
+Zagatro sighed. “Xuunah, please be reasonable.”
+
+“Be reasonable? I'd rather tell you to go and Void yourself!” Xuunah said, and she felt his shock.
+
+“That is uncalled for.”
+
+“Not from my perspective.” Xuunah said. “Ren said you sent me to him and that he was keeping me.” She said. “I am so grateful to him for his unequivocal acceptance, which I had thought I had from my own people.”
+
+“Xuunah, I...”
+
+“Yes, I know you tolerate me and my antics. You've also protected me and spoke in my defense when no one else would.” Xuunah said. “Yet I know you agree with the Collective's decision.”
+
+Zagatro didn't say anything in response.
+
+“You will release the one you have in closed session therapy immediately and stop your brainwashing.”
+
+“I will do no such thing!”
+
+“I'll tell Ren what you are doing to her, and he will come and get her.” Xuunah said and let Zagatro feel what she had felt from Ren when he offered to kill them all for her. “You really don't want that to happen.”
+
+Zagatro shivered at the feelings and thoughts she shared, and he agreed. “Very well, she will be released.”
+
+“Good.” Xuunah said in satisfaction. “I will wait here while you go and release her.”
+
+“Xuunah...”
+
+“Are you still there? Hurry up and bring her to the portal room.”
+
+Zagatro left the portal building and went to the building where the main Collective was housed. He entered the small room where the mage was being held, and saw her weakened state. Her glow was soft and barely lit up a foot around her, and he could feel her sadness.
+
+“What is this?” Zagatro asked. “What's wrong with her?”
+
+“We pulled out the corrupted Light from her.” A Light being said as they entered the room. “She... didn't take it well.”
+
+“Great Vasalor, why did you do that?” Zagatro asked.
+
+“The Collective said to remove the mortal's influence.”
+
+“I am ordering you to give it back!” Zagatro nearly yelled, because he could feel her become dispondent.
+
+“Without a container, the Light dissipated immediately.” The Light being said. “We can't give it back.”
+
+“Then give her some of yours to replace it!”
+
+“She won't accept it.” The Light being said. “We've tried.”
+
+Zagatro floated over to her, and she shied away from him. “I'm not going to hurt you.”
+
+“You... already have.” The mage said. “Feel weak... took part of me away.”
+
+“Please accept part of me.” Zagatro offered.
+
+“N-no.” She said. “Want... pure Light.”
+
+“What?” Zagatro turned to the other Light being. “What does she mean?”
+
+“She's delusional.” The Light being said. “She thinks the Light she received from the mortal is pure and ours is not.”
+
+“Why would she think that?”
+
+“He... no intention.” The mage said. “You... self-serving.”
+
+“I can't take her to the portal room like this.” Zagatro said.
+
+“P-portal?” The mage floated up. “Is... he coming?”
+
+“No, Xuunah wants to talk to you.”
+
+The mage sank down to the floor and her glow dimmed further.
+
+“What can you do for her?” Zagatro asked.
+
+“There's nothing we can do.” The Light being said. “If she doesn't accept Light from another source, she will eventually wither and wink out.”
+
+“Great Vasalor.” Zagatro said. “I'll be back soon.” He left the building as fast as he could float and went back to the portal building and the main room. “Xuunah.”
+
+“That was fast.” Xuunah said. “I expected to wait a day or so.” She waited to feel another presence appear, but it didn't. “Where is she?”
+
+“Xuunah, we have a problem.”
+
+*
+
+Ren had just started telling of his time with Vasalor when he felt Xuunah leave her closet. “Zetaya, I need to go for a couple of minutes.” He said and eased Zetaya aside and went to the forge door and opened it. He stepped through and Artemis took his hand as Tee-one shut the forge behind him.
+
+Ren and Artemis ran across the road and went into the Main House and met Xuunah at her front door as she opened it.
+
+“Ren, come in.”
+
+“I felt your urgency.” Ren said. “What happened?”
+
+“No time to explain.” Xuunah said and cast the magical barrier. “Cast a portal back to the Light Realm. She needs your help!”
+
+Ren cast the portal as Teepo dissolved back into the ring, and Artemis and Xuunah took his hands. They stepped through and were greeted by another contingent of Light being mages.
+
+“Where is she?” Xuunah demanded.
+
+“She's in the building where the main Collective is held.” Zagatro said.
+
+“What's going on?” Ren asked and summoned Teepo.
+
+“The mage you touched was deemed to have been corrupted by tainted Light. Your Light.” Xuunah said. “They forcibly extracted what you gave to her.”
+
+“Forcibly...” Ren started to say, then he felt what that meant and gained the Angered condition. “You BASTARDS!” He yelled as he let Xuunah's and Artemis' hands go. He activated his Hands of the Gods ability and chose Restoring Hands, then jumped across the room and grabbed Zagatro. Rather than share the Light with him, he used it to create a barrier around the Greater Light Elemental and picked him up.
+
+Everyone froze at the sight of a small mortal picking up something so big, then they gasped as Ren threw Zagatro into the wall. The impact and energy discharge destroyed the wall and the room next to it as the elemental flew through that room and hit the far wall.
+
+“Ren! He didn't do it!” Xuunah said to stop him from following up.
+
+“He might not have ordered it himself, but he knew it would happen.” Ren said and took out the All-Seeing Mirror. “Show me the Light Being mage that I touched.”
+
+The mirror showed him the dull glow of a Light being, and Ren made a fist as he stopped using his Hands of the Gods ability. He wasn't going to touch another Light being if he didn't have to, because they didn't deserve it.
+
+“Direct route to her, please.” Ren asked the mirror, and it made a straight line from where he stood to the room she was in. He stored the mirror and equipped his full set of platinum armor, then activated his armor's Ram enchantment as he looked at Xuunah. “I'll be right back.”
+
+“REN!” Xuunah yelled, but he had already started to run and had smashed through the wall of the portal room in an instant and disappeared from sight. Artemis flew after him at her best speed, but it wasn't to stop him. She was going to protect him and would shoot anything she deemed was a threat to him.

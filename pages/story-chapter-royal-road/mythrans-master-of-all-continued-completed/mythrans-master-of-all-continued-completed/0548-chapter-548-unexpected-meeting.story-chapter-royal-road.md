@@ -1,0 +1,249 @@
+---
+id: 528ffe04-a463-5123-9d82-d2c3c4d2f016
+page-type-slug: story-chapter-royal-road
+title: "Chapter 548 - Unexpected Meeting"
+slug: 0548-chapter-548-unexpected-meeting
+partOf: mythrans-master-of-all-continued-completed
+position: 548
+ownLength: 2893
+unit: words
+publishedAt: 2018-04-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206184/chapter-548-unexpected-meeting"
+royalRoadId: "206184"
+---
+
+Princess trotted up into the sky and tucked herself behind one of the many turrets to stay out of sight when Ren and the women went inside the castle. No one said anything to Ren as he walked through the various hallways to get to the meeting room. Along the way he detected several instances of Void activity as his Aura passed over certain rooms and corridors.
+
+Ren marked them mentally and continued on until he came to the meeting room and met the guard at the door, who looked over Ren and his group with a suspicious eye.
+
+“County?” The guard asked.
+
+“Walin County.” Ren said.
+
+“Delegates?”
+
+Ren nodded. “I'm Lord Ren and it's my county.” He motioned to Patty. “This is Miss Patty Cake, the mayor of the capital called Goagan City.” He said and motioned to Xuunah, Officer Holly, and Artemis. “My personal offensive guards.” He motioned to the maids. “My very private guards and mistresses.”
+
+The guard's mouth dropped open at Ren's words, and Ren tried not to laugh at his expression.
+
+“Um... ah...” The guard mumbled.
+
+“I know where the proper seating is.” Ren said to stop the poor guy from trying to speak. The guard nodded and waved him through the door, and Ren led his group over to their seats.
+
+“By the gods, did you see his expression?” Frikara whispered as she sat down, and the maids laughed softly. “You could swear he had never heard of mistresses before!”
+
+Amusement flooded the shared Aura from the maids, and Xuunah and Officer Holly held in their laughter. Ren took out the All-Seeing Mirror and asked it where King Alamast was, and it showed him on his way to the meeting room. When the king hit the edge of Ren's Aura, he stopped walking. The people with him hadn't noticed and kept going, then saw the king had stopped and went back.
+
+Ren couldn't hear what they were saying, but he assumed it was along the lines of, 'what happened', 'what is it', and 'why did you stop'. After a few moments, the king waved them to silence and kept walking. Ren smiled when he saw a blonde-haired young woman join the king in the hallway. The king tried to send her off, but she didn't pay him any mind, and Ren stored the mirror just before they entered the meeting room.
+
+“You expressly invited me to sit in on these meetings, father.” Princess Diana said as she and King Alamast entered the meeting room. “Tedious though they may be, they are essential to the running of the kingdom.”
+
+“I know what I said.” King Alamast said. “Now listen to what I'm saying now.” He said and stopped before he approached the podium at the front of the room. “I don't want you to be here right now.”
+
+Diana fought to not frown at her father, mainly because she knew it made her look childish in front of all the government representatives.
+
+“What's changed in the last few minutes?” Diana asked.
+
+Ren figured this was the best time to make his presence officially known. He stood up and waved to her, and it caught her attention right away. He felt her initial surprise and then felt her emotions shift to that of a woman trying to hide her feelings.
+
+It was then that Ren felt a Void presence on the right side of the room, and he quickly glanced that way. He saw nothing but a large shadow there, then glanced all around the room to see several large shadows around. Ren took out several steel squares and enchanted them with a glyph that was a combination of both Illumination and Anti-void runes, then he ran around the room in a flash as he placed the enchanted steel squares just on the edge of all the shadows and activated them.
+
+“AHHH!” A male voice yelled as the shadow he was in was lit up, and the Anti-void runes caused his Void ability, the ability to merge with the shadows, to stop working briefly. The yell was because he had tried to retreat and hit the well-lit wall instead of entering the shadow tunnel he had come out of.
+
+Several of the delegates nearby were shocked to see someone suddenly appear, especially someone covered from head to toe in a black cloak.
+
+“Hello, there.” Ren said and tried to detect the cloaked figure's emotions. He didn't feel anything, though. “I don't think King Alamast likes having extra observers that he can't see.”
+
+The cloaked figure looked at Ren, then darted to the side to try and escape. Ren cast Invisible Wall in front of him and the cloaked figure hit it at a full run and bounced off.
+
+“Ouch.” One of the government officials said at the impact.
+
+Ren cast the spell 4 more times to make 3 more walls and a top to complete the cage, and left space between the edges of the walls for air and sound to pass through. He cast Dispel on the figure, and nothing happened.
+
+“His cloak is real and not a disguise.” Ren said. “Hey, you. Get up.”
+
+The cloaked figure moved an arm, then groaned as the hand rubbed inside the black space where his face should be.
+
+“If you're hurt, I can heal you.” Ren said, and the figure laughed.
+
+“You're why I'm hurt!” The cloaked figure said.
+
+Ren thought he recognized the voice and thought about it, then his eyes widened. “Talon? Is that you?”
+
+“Shit!” Talon said and cast Obscuring Mist inside the cage and it was filled with white smoke immediately. Ren dispelled it and saw that the cloaked figure was gone.
+
+“He got away!” The government official said.
+
+“Everyone would assume that.” Ren said and smiled. “Me? I'm not that naive or gullible.”
+
+Ren cast a Wall of Brambles inside the cage next to one of the walls, then used the Shaper spell to slowly spread the brambles out through the cage. Another Obscuring Mist appeared and he dispelled it, and then the brambles caught on fire.
+
+Ren used his Fire Manipulation ability to move the fire around the brambles and then absorbed it. When the brambles started to be broken from either a weapon or fists, and Ren quickly focused the growth in that direction.
+
+“Stop! STOP!” Talon said, and he reappeared. “You got me.” His cloak had been pierced in several places and jammed against the invisible cage, and his arms and legs were close to being that way as well. His hood had been removed as well, and he was in a near panic. “Let me out!”
+
+“Guards!” King Alamast said, and two castle guards came over to the invisible cage.
+
+“You don't see things like this every day.” One of the guards said, because it looked like Talon was suspended in mid-air on a wall of branches and nothing was holding it up.
+
+“What were you doing?” Ren asked.
+
+“What do you think?” Talon asked.
+
+“Well, considering you were just hiding in a shadow, I have to assume you're spying for someone.” Ren turned to King Alamast. “What happened to Lord Eddlemere, the one that tried to have you assassinated?”
+
+“He escaped without a trace.” King Alamast said and looked at Talon. “I believe we now know how that was possible.”
+
+“Yes, it seems Talon here has been helping Lord Eddlemere listen in on everything, too.” Ren said and turned back to Talon. “Why?”
+
+“Why what?”
+
+“Why are you helping him subvert the King?”
+
+“Money, prestige, and power. Why else?” Talon said.
+
+Ren chuckled. “At least you didn't say it was for fun.”
+
+“You're kidding, right? This isn't fun at all.”
+
+“Then why do it?”
+
+“I owe him. He took me under his wing and taught me everything there was to know about my class.”
+
+“Wait, what?” Ren asked. “It's a one-of-a-kind class. How would he... oh, damn.”
+
+“Yeah, he's got someone on the inside helping him.” Talon said. “I tried to find out who so I could contact them myself; but since he never contacts them here...”
+
+“I understand.” Ren said. “Now tell us everything he had you do for him.”
+
+“Ha! Hahaha!” Talon laughed. “Not a chance.”
+
+“Why not?”
+
+“Your highness, what's the penalty here for spying?” Talon asked.
+
+“If you are found guilty, it's 2 years in prison.” Princess Diana said. “Or 6 to 9 months of hard labour in the rock quarry, depending on how well you work.”
+
+“You see? If they knew what I've really been doing, there would be no point in logging in anymore.” Talon said.
+
+Ren shook his head. “Why did you go this route?”
+
+“After a few other things happened and I leveled up high enough, I started using my abilities to... gather things.” Talons said, and he saw the looks on the government officials' faces. “After a while, and a few more incidents, I was picked to go to Shargon Caverns.” He said. “I failed miserably at the end and was devoured by the Marilith Demon.”
+
+Ren barked a laugh and everyone looked at him. “That's amazing.”
+
+“What is?” Princess Diana asked. “Him being eaten?”
+
+“No, Your Highness. When I became an Adventurer, so did 4 other people.” Ren said. “What's amazing is that 3 out of the 5 of us went to Shargon Caverns.”
+
+“Tristan was first, obviously.” Talon said as he thought it through. “It wasn't long after he was chosen that I had to choose to go, and I did.” He said. “I'm pretty sure the Sage of Ages wouldn't go, even if she wasn't given a choice.” He looked at Ren. “Was it Selene? She's pretty ruthless.”
+
+“No, it wasn't her.” Ren said, then let a slow smile spread across his face. “Take another guess.”
+
+Talon just stared at Ren like he had never seen him before. “It... it was...”
+
+“Surrrpriiiise.” Ren said and spread his arms slightly.
+
+“God, no.” Talon said and shook his head. “How? Why?”
+
+“It doesn't matter.” Ren said.
+
+“Did... did you...” Talon shook his head again. “No, there's no way that you could have.”
+
+“Could have what?” Officer Holly asked.
+
+“Passed.” Talon said. “I've talked to a few people that have been through it, and none of them have ever made it past the final boss.” He said. “No one has ever heard of anyone...”
+
+“I probably shouldn't tell you this; but, I did.” Ren said. “I succeeded.”
+
+“You're lying through your teeth.” Talon said. “There's no way that you could have...”
+
+“He's not lying.” Princess Diana said and tapped her Amulet of Interrogation. “He would be sweating like a stuck pig if he was.” She said. “That would be too big of a lie to get away with.”
+
+“Oh, god. Oh, god.” Talon started to freak out and started to yank on the branches that held him tightly. “Arrest me! Send me to prison! God, just get me away from him!”
+
+“What's wrong?” King Alamast asked.
+
+“You don't understand! He passed Shargon Caverns! He defeated the final boss that no one else has ever defeated!” Talon said and struggled even harder. “He's a monster!”
+
+There was a loud snap and some people thought it was a branch; but, Ren knew better. He recognized that sound, since he'd done it so many times himself. Talon held up his hand and everyone saw that his wrist was broken.
+
+“Get me out of here!” Talon almost yelled and tried to use the broken wrist to push on the branches.
+
+“Ren.” Xuunah said, and Ren nodded. He took out more steel squares and enchanted them with the Illumination and Anti-void runes, activated them, then gave them to the guards.
+
+“Keep these around him at all times.” Ren said. “That way, he has to try and escape the normal way and can't slip into the shadows.”
+
+“Thanks.” The guards said, and Ren dismissed the spells he had cast. Talon fell to the floor and the guards scooped him up before he could run.
+
+“Hurry! Get me out of here!” Talon said, and the guards rushed him out of the meeting room.
+
+A hush fell over everyone in the meeting room, and then Princess Diana stepped forward and held her hand out.
+
+“Lord Ren.” Diana said regally. “I thank you for your continued service to the crown and to the Human Kingdom.”
+
+Ren didn't hesitate at all as he took her offered hand and bent over it, then placed a kiss on the back of it. “Your Highness, I humbly accept your thanks.” He said and let her hand go as he stoop up straight. “Despite how things have appeared in the past, I have always been at your service and would like nothing more than to keep serving you to the best of my ability.”
+
+“Can you root out any other people that have been unfairly targeting this kingdom and it's rulers?”
+
+“If I may be excused for a few minutes?” Ren asked, and she nodded. Both he and Artemis disappeared from sight and Diana looked at Xuunah's eyes as she followed Ren's movements through the castle. He deposited a steel square with the same enchantments all around the castle, starting at the spots he had mentally marked, and caught 6 people using Void abilities. Ren and Artemis bound them with rope and he built a small cart to carry them, then brought them back to the meeting room.
+
+“This is all that's working with Void abilities inside the castle at the moment.” Ren said, and the king and Princess Diana stared at the captured men with wide eyes.
+
+“Are... are you sure?” Diana asked, because one of the people was the king's trusted valet.
+
+“You know no one can speak a deliberate lie around you, Your Highness.” Ren said.
+
+Diana sighed and then gave Ren a slow nod. “They will be thoroughly questioned.”
+
+“It might amount to nothing, or you could uncover a whole conspiracy.” Ren said and he and Artemis walked back over to their seats.
+
+“Is this why you are here today?” Diana asked. “To help root out the evil that seems to permeate this castle?”
+
+“In part.” Ren said. “I came to report that a county neighbouring mine had decided to invade and try to take over my county.”
+
+There were gasps from a lot of the government officials, and several nodded their heads while a few muttered that was how it was done.
+
+“Did they succeed?” Diana asked softly.
+
+“Of course not.” Ren said. “Not only did I have enough time to get a quick defensive force ready to remove the soldiers that had threatened my citizens, I even went so far as to go into the neighbouring county and removed all of the soldiers there so that I didn't have to worry about any future threats.”
+
+All talk stopped at those words, and Ren felt intense scrutiny.
+
+“Which county?” King Alamast asked.
+
+“The one Lord Gresham ruled over.” Ren said, and he felt that a lot of the people in the meeting room were not surprised by this, and he looked at them. “I must assume that Lord Gresham's land is so big because this is not the first time it's happened.”
+
+No one responded, and Ren turned back to Princess Diana and King Alamast.
+
+“So, even if I had sent someone to you when it started, you wouldn't have interfered.” Ren said.
+
+“It's expected that Lords of the Human Kingdom should be able to defend themselves.” King Alamast said. “I'm glad to hear you can.”
+
+“I did better than that, Your Highness. Lord Grasham is dead, as is the ruling council or whoever else it was that were in the throne room with the guards.”
+
+“But... isn't he...”
+
+“Yes, he's an Adventurer; but I don't expect him to come back.” Ren said.
+
+“So, not only did you survive an invasion, you invaded back.” King Alamast said. “Did you plunder everything and empty the coffers?” He asked, then sighed. “I had hoped you were cut from different cloth, My Lord.”
+
+Ren smiled at him.
+
+“I have to assume you came here to petition to take over the land.” King Alamast said.
+
+“No, I'm not... and I didn't plunder anything.” Ren felt shock from everyone, including Princess Diana and King Alamast, because they knew for a fact that he wasn't lying. “I'm more than happy with my county.” He smiled. “I actually came here to petition for you to appoint a new Lord to take over Lord Grasham's lands.”
+
+“You really are crazy.” King Alamast said, because he couldn't believe anyone would pass up such prime lands and businesses.
+
+“What I am, Your Highness... is not greedy.” Ren said.
+
+King Alamast looked at Ren and the women he had brought with him. “All extra business not relating to the operation of the kingdom have to be put off until the end of the regular meetings.” He said. “We can look into your problem then.”
+
+“I suppose I can wait until then for that to be resolved.” Ren said. “Now I have a question.”
+
+“What is it?” Diana asked.
+
+“I was wondering... do you think the impending war with the Sea Dwellers relates to the operation of the kingdom?” Ren asked. “If it does, I believe that should take precedence.”
+
+Princess Diana and King Alamast exchanged knowing looks and didn't say anything.

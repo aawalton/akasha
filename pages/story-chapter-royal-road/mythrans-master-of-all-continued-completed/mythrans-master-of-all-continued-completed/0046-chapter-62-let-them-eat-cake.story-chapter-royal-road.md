@@ -1,0 +1,159 @@
+---
+id: f3232ec8-53fc-5849-ada0-f85ae3b664fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62 - Let Them Eat Cake"
+slug: 0046-chapter-62-let-them-eat-cake
+partOf: mythrans-master-of-all-continued-completed
+position: 46
+ownLength: 2662
+unit: words
+publishedAt: 2016-10-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99620/chapter-62-let-them-eat-cake"
+royalRoadId: "99620"
+---
+
+Ren woke up in the real world. Denise took the VR headset and set it on the rollaway table next to the laptop.
+
+“Good morning.” Denise said and smiled.
+
+Ren smiled back. “Morning.”
+
+“Are you up for breakfast yet?”
+
+“Sure. I just have to use the bathroom.” Ren said and got out of bed.
+
+“Do you need a hand?” Denise asked.
+
+“Nope, I got this.” Ren said and slowly walked to the bathroom. His knee had recovered really well the last two weeks and he'd been walking with it unaided since yesterday afternoon. Ren did his business, washed his hands and then went back to bed. Ren couldn't stay on the knee for long, but it was definitely getting better.
+
+Denise was waiting with breakfast and Ren ate it without comment. Denise had been a little distant since that incident where she had fallen asleep while watching him and he'd missed a meal. Ren had tried his best to try and undo any resentment she may have had against him, but so far Ren hadn't had any luck with that. No matter how much he tried to tease and cajole, Denise avoided his attempts.
+
+She must have gotten in trouble for it. Ren thought as Denise took the tray away.
+
+About 15 minutes later, Ren got ready for physical therapy and Denise took him there in a wheelchair. Ren did his regular routine and more leg and knee strengthening exercises. When Ren was done, Denise took him back to his room and Ren got a shower. It was the first time in almost a month that Ren was able to keep himself standing without assistance and reveled in the feeling. After the shower, Denise helped dry Ren off and Ren walked slowly to the bed. A nice shirt and a pair of loose pants was there next to his underwear and socks, instead of a pair of pajamas.
+
+“Denise... what's this?” Ren asked, pointing to the outfit.
+
+“Just a surprise.” Denise said, coyly.
+
+Ren narrowed his eyes but Denise laughed. “Just get dressed. You'll see.”
+
+Ren shrugged and put on the clothing, with some help. Ren still couldn't put all of his weight on his knee yet... and didn't want to undo his recovery by hurting it again.
+
+Once Ren was dressed, Denise told him to get back in the wheelchair. Ren's eyes widened and sat down. Denise smiled and pushed Ren out into the hallway and down to the elevator.
+
+“Um... Denise... where are we going?” Ren asked.
+
+“We aren't going anywhere.” She said and hit the button for the first floor. They got in the elevator and it went to the first floor. When the elevator door opened, Denise pushed Ren down the hallway to the main desk and Ren stared at the beautiful blonde woman that stood there in tight denim jeans and a loose t-shirt.
+
+“L-L-Lucy!?!”
+
+“Hi, Ren.” Lucy said and handed Ren the sign out papers. “Ready to go?”
+
+“But... but... but...” Ren stammered.
+
+“Let me guess... you forgot it was time for our monthly outing, didn't you?” Lucy asked a stunned Ren. Ren just nodded and didn't try to speak. Lucy pointed to the paper and Ren scribbled his name on it. “Great. Let's go!” Lucy said and took the wheelchair from Denise. “We'll be back in a few hours.” Lucy said to Denise who had a big grin on her face.
+
+Lucy and Ren took a cab ride to the mall and when they got out of the cab at the entrance, Ren finally got his mouth to work.
+
+“Lucy... I haven't seen you in real life since...” Ren started to say.
+
+“I know. I'm sorry I haven't been able to play the game and see you more often than I have, but I've been really busy with the new job.” Lucy explained as they entered the mall. “I think they're working me harder because I messed up the regular schedule... but... just because I'm not working on the floor anymore, doesn't mean we have to stop doing this.”
+
+“What are you doing, by the way? You haven't said.” Ren commented.
+
+“I'm stuck in the basement lab doing all the bloodwork, tissue, urine, and stool samples... day in and day out.” Lucy said. “It's actually not too bad. They could have sent me across town to the clinic.” Lucy said and shivered. “That place... it kinda scares me.”
+
+Ren raised his eyebrows because Lucy was one of the strongest people he knew. If something scared her, then it was worth being scared of. “Can I ask why?”
+
+Lucy sighed. “It's mostly having to deal with all the needles.” Lucy said and saw Ren flinch. Lucy stopped pushing the wheelchair to lean in and give Ren a hug from behind and put her head next to his. “Sorry.” Lucy said in apology and her breath caressed Ren's ear and Ren shivered. Lucy hugged Ren a little tighter, misunderstanding the reason for Ren's reaction. Ren reached up and held Lucy's arms with his own for a minute and then let them go. Lucy stood up and pushed the wheelchair.
+
+“There's always a chance that some bloodborne disease is still on the contaminated things when people bring them in for recycling.” Lucy said. “Hepatitis, HIV... and even Siphilis.” Lucy sighed again. “Then there could be any kind of drug residue that people had put in their bodies.” Lucy shook her head. “I think I'd quit before working there. It's stressful enough just doing the lab work.”
+
+Ren turned his head to look up at Lucy and saw her face. “Now it's my turn to say I'm sorry.” Ren said and put a hand on hers.
+
+Lucy looked at Ren and smiled. It wasn't the 'light up the room' smile, but Ren would take it.
+
+“Like I told you before, something would have come up eventually... and it was better to have it happen sooner rather than later, when it might have compromised my professional life.” Lucy said. “If something had happened before I stopped working there, I don't think anyone would hire me after that.”
+
+Ren nodded and let her hand go. They walked through the mall and made a few new discoveries. They talked about how the game seemed to be in much of the same state as the mall, where it's only once and a while that you would find something new to look at. They passed by the lingerie shop and Ren quickly glanced up at Lucy to see if she was going to tease him again, but Lucy only blushed a little and they kept going.
+
+After a few more stops and some more window shopping, they made it to the food court and had a greasy burger and gravy fries. Ren didn't eat fast, even though he was pretty hungry. Ren watched Lucy as she ate. What Ren didn't know was that Lucy was eating slow herself because she wanted to watch Ren eat, too. The meal dragged out and when Ren reached his last french fry, Lucy had only one left, too. The french fry and the gravy was cold, but Ren picked it up and slowly brought it to his mouth. Lucy did the same thing and they both finished at the same time. Lucy snickered and Ren snorted and they both started laughing.
+
+“You... you were eating slower... because I was...” Ren asked between laughs.
+
+Lucy nodded. “And you were eating slower because I was!” Lucy said and kept laughing.
+
+Ren nodded and they enjoyed the shared funny moment together. Lucy looked around and saw that it was getting late.
+
+“We better get back. I don't have as much leeway to keep you out as I used to.” Lucy said.
+
+Ren nodded again. They cleaned up their table and tossed the garbage in the trash can. They left the food court and went to the front entrance. Lucy called a cab and they waited in silence, but it wasn't strained or uncomfortable. Lucy placed a hand on Ren's shoulder and gave it a little squeeze. Ren reached up with his own hand and took Lucy's hand in his. They stood there and held hands, not saying a word. It was new and exciting; because they weren't holding hands for comfort, or as an apology. They were holding hands because they wanted to.
+
+The cab came and they took it back to the hospital. Lucy took Ren inside and Ren signed back in. They took the elevator up to Ren's floor and Lucy pushed the chair to Ren's room.
+
+“Lucy... I... had a great time.” Ren changed what he was going to say and his face flushed a little red.
+
+Lucy was still behind the wheelchair and she leaned down and gave Ren an intimate kiss on the cheek. Ren's eyes widened at how nice the kiss was and felt something stir deep down. Ren's enjoyment started to become apparent and Ren felt Lucy's lips turn from a kiss into a smile. Lucy stood up, reached for the door handle, and opened the door.
+
+“HAPPY BIRTHDAY!” The nurses shouted. Ren automatically covered himself and a moment later they all laughed at the utter surprise on Ren's face. Lucy pushed the chair into the room and Ren was swarmed by the nurses. Even the nurses that were supposed to be on night shift and the ones that were off that day were there. Hugs and kisses were thrown with abandon and Ren caught them all. Ren's poor brain had nearly been on overload with just Lucy's kiss... and now there were kisses everywhere. Ren's nose, cheeks, forehead, and chin were covered in lipstick when the nurses were done. Ren was glad that it didn't make him 'excited' like Lucy's did.
+
+“I think one of you got me in the eye.” Ren said and smiled. Everyone laughed again. Lucy handed over a handi-wipe and Ren cleaned off as much as he could.
+
+Barbara pushed through the other nurses and chuckled. “Let me get that for you.”
+
+“Thanks, Barbara.” Ren said and closed his eyes.
+
+Lucy handed Barbara another handi-wipe and Barbara made short work of the mess everyone had made on Ren's face. “There, all clean.”
+
+Ren opened his eyes and looked around at everyone. Balloons and streamers were hung around the room and there was a cake on the rollaway table. Plates, glasses, forks, potato chips, and several bottles of soda pop were on the dresser.
+
+“I...” Ren said. “I don't know what to say.”
+
+Lucy knelt beside the wheelchair and put an arm around Ren's shoulder. “Just say what you feel.”
+
+Ren nodded. “I've been here for years.” Ren said. “I've known most of you for all that time.” Ren took a deep breath. “Some of you have seen me at my worst...” Ren smiled. “...and some of you have seen me naked.”
+
+A couple of the nurses snorted laughter and Denise shook her head for a moment then joined in on the laughter. Ren glanced at Lucy, who was still giving him a one arm hug, and saw her blush.
+
+“The best part? Not once in all this time has anyone ever made me feel like I was a burden.” Ren said and the laughter died down. “I've been through a lot these last few years... and you've all been here for me.” Ren took another deep breath.
+
+“I... I couldn't have asked for better people to take care of me.” Ren waved around the room. “You all go above and beyond what I expect you to do... and now this.” Ren said and grinned. “I kinda forgot that it was my birthday today.”
+
+The nurses laughed and Ren reached up and put a hand on Lucy's arm and whispered. “Thank you.” Ren shakily stood. “Thank you, everyone.” A moment later the nurses swarmed Ren again; but gently this time, and gave him hugs. Some of the nurses ruffled his hair and others squeezed a little hard, but Ren didn't complain. Ren climbed onto the bed and they sang 'Happy Birthday'. Ren blew out the candles and Barbara started to cut up the cake.
+
+“What did you wish for?” Stella asked as she took a piece.
+
+Ren shook his head and didn't answer.
+
+Everyone had a nice evening of soda, cake, potato chips, and conversation. Ren asked where the doctor was, and Bonnie said Dr. Hobbard would be by later. Dr. Hobbard came in about 20 minutes later and had a small piece of cake and a glass of soda. The doctor mingled for a few minutes, said 'happy birthday' to Ren and then left. Ren opened the presents he was given and thanked each person for them. The party broke up an hour later and the nurses waved or hugged Ren goodbye before they left. They trickled away in ones and twos until the only ones left were Stella and Lucy.
+
+“I've got some paperwork I need to do.” Stella said and walked to the door. “I'll be back in an hour or so.” Stella winked at Ren and closed the door behind her. Now it was just Lucy that was left.
+
+Ren looked at her, and saw Lucy seemed to be a little uncomfortable. “Is anything wrong?”
+
+“It depends on how you look at things.” Lucy said, looked around at the remains of the party and sighed. “Oh... what the hell.” Lucy turned the lock on the door and walked over to the bed. “Scoot over a little.”
+
+Ren moved over and Lucy climbed onto the bed. Ren's eyes widened as Lucy laid down so that their heads were next to each other on the pillow. Ren turned on his side to face her, and Lucy did the same, then snuggled up to Ren and looked him right in the eyes. Ren opened his mouth to speak and Lucy put a finger on his lips and shook her head. Lucy moved her finger away and put her lips there instead. For several minutes, all they did was lay there and kiss. Ren didn't have a lot of experience with it, but he moved his jaw when he thought he should move it, flicked his tongue when Lucy flicked hers, and Ren thoroughly enjoyed his very first make-out session.
+
+Ren felt tingly from his head to his toes and his body responded appropriately to the situation. Lucy felt the change, since they were snuggled so closely together. Lucy broke the kiss and giggled a little, then covered her mouth in shock.
+
+“S-sorry. I'm not laughing at you.” Lucy said and kissed Ren quickly. “It's just... your reaction to my kiss is so... quick and... ah... powerful.” Lucy said and blushed a bright red.
+
+Ren grinned. “I can't help it if you have some kind of power over me.”
+
+Lucy's face closed down a little. “But... do I?”
+
+“What do you mean?” Ren asked, puzzled.
+
+“If I was some other girl... would you still react the same way?” Lucy asked, remembering Ren and his encounter with the maid in the game.
+
+Ren smiled and reached out to run his hand through Lucy's blonde hair. She had it in a ponytail and Ren undid the clip holding it together. Lucy's hair fell like a curtain over her shoulder and Ren's arm and Ren ran his fingers through the freed hair.
+
+“Lucy... you are the only one that's this important to me.” Ren said and pushed Lucy's hair over her ear and Ren caressed the side of Lucy's face. Lucy closed her eyes and sighed. “You should know by now that I'd be screaming bloody murder if anyone else locked my door and tried to get in the bed with me.”
+
+Lucy opened her eyes and gave a quick laugh. Ren grinned and Lucy smiled that 'light up the room' smile.
+
+“There's my favorite smile.” Ren said and leaned over to kiss Lucy on the neck.
+
+“Birthday wishes really do come true.”

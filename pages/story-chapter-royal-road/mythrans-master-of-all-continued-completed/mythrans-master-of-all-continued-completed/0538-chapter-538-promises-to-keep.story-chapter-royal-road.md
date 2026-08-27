@@ -1,0 +1,285 @@
+---
+id: db5ee65c-4d31-5519-b45d-b42ccd1dfbe1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 538 - Promises To Keep"
+slug: 0538-chapter-538-promises-to-keep
+partOf: mythrans-master-of-all-continued-completed
+position: 538
+ownLength: 3438
+unit: words
+publishedAt: 2018-03-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203864/chapter-538-promises-to-keep"
+royalRoadId: "203864"
+---
+
+“You're so funny.” Jennifer said, not realizing Ren spoke the absolute truth.
+
+“Thanks.” Ren said and looked at Gina as he put a hand on her shoulder. “I can't promise that you'll find someone who will fit your desires; but, I can promise to have 'him' pop in occasionally for a bit of play time if you want.”
+
+Gina thought about saying no right away like she had when he first mentioned it, then she considered the odds of finding someone who was even similar to how Ren's disguise had looked.
+
+“Let me think about it.” Gina said. “I really would want sex, but... if I can't find anyone...”
+
+“I'd be happy to help you relieve some tension.” Ren said, then let a big smile form on his face as he stored the Amulet of Interrogation and held his hands out towards her, then wiggled his fingers. “Especially the tension in your breasts.”
+
+Gina laughed and pushed his hands away. “There's not a lot of tension there.”
+
+“Aww.” Ren said dejectedly and pouted, and she laughed harder.
+
+“Thanks for the meal.” Jennifer sat back when she was done eating. “It was fun, but in a different way than last time.”
+
+“I guess I was the cause of that.” Gina said and stood up. “I'll leave you to have some alone time.” She said and approached the curtain. “I've got to get back to work.”
+
+“Gina.” Ren said, and she turned to look at him. “Thanks for letting me explain and not just kicking me out.”
+
+“Oh, I thought about it.” Gina said and smiled evilly. “No one tricks me and gets away with it.”
+
+“Temporary ban?” Ren asked.
+
+“A week real time.” Gina said, and Ren nodded. “You're not going to argue?”
+
+“Why would I? I did something bad and I deserve some punishment.”
+
+“Ooo! Let me punish him!” Jennifer said excitedly.
+
+Gina rolled her eyes. “That's not really punishment.”
+
+“Aww.” Jennifer said dejectedly and pouted, just like Ren had only a few minutes before, and Gina laughed. Ren dismissed the sound barrier illusion and Gina opened the curtain.
+
+“When you come back, I'll let you know if I want to take you up on your offer.” Gina said, then left the booth in high spirits.
+
+“She probably will.” Jennifer said and took Ren's hand. “She hasn't had a good lay in a long time.”
+
+“Jennifer, I can't go all the way with her.” Ren said.
+
+“You wouldn't have to use your own.” Jennifer said with a grin, and Ren looked at her with wide eyes.
+
+“What... what do you mean?”
+
+“I remember you making Santa have...” Jennifer shook her head. “Remember the joke you played?”
+
+“Yeah.”
+
+“Well, use that spell to make a fully erect one.” Jennifer said. “It won't be you touching her at all if it's just an illusion and you keep your pants on.”
+
+Ren's mouth fell open at the thought. “Jennifer... you... you're a genius!”
+
+Jennifer chuckled. “Wait until she finds out you can do that.” She said. “She'll lose it over 'him' for sure.”
+
+“Keep it a secret, okay?” Ren said. “You're right. She will be surprised.”
+
+“Plus, I still get to keep the real thing for myself.” Jennifer said and rubbed his thigh. “How much time do you have to spare?”
+
+“You've got 45 minutes before you have to meet Xuunah and Officer Holly in front of the Main House.” Teepo said.
+
+“We have enough time for some of your special foreplay.” Ren said, and Jennifer laughed.
+
+“Just foreplay?”
+
+“I'll be gone for a game month, so it's better if you enjoy this time to the fullest.”
+
+Jennifer reached up and ran her hand through his hair. “You'd do that for me, even though you don't enjoy it at all?”
+
+Ren smiled. “I'm all about making women happy, and I enjoy that part a lot.”
+
+Jennifer leaned in and gave him a gentle kiss. “You're too good to be true.”
+
+“I really am.” Ren said and stood up, and helped her stand, too. “Shall we?”
+
+Jennifer nodded and Ren led her across the club to her work room. Artemis stored the plate of food and followed them, then stood just outside the door of Jennifer's room as it closed.
+
+*
+
+“Huh.” Clint said as he saw Ren and Jennifer walk across the club. “Ah guess he wouldn' have lied if'n he said he was 'er client tonight.”
+
+“I don't think he intended to be.” Clint's date said. “But after that...”
+
+“Ah know.” Clint said and sighed. “Wha' am ah gonna do with Billy?”
+
+“We'll have to talk to him, man.” Tommy said. “We gotta see if he's okay... and we have to know if he's going to try and come back after her.”
+
+“We've known him a long time.” Hank said. “I never thought he had something like that in him.”
+
+“I don't know if he knew it himself.” Tommy's girlfriend said, and they all looked at her. “Until it happens, I don't think anyone really knows what they're capable of.”
+
+Clint and his group sat in silence until Gina approached the main stage.
+
+“Welcome, everyone.” Gina said, her magically amplified voice reached everyone in the club. “The main show tonight is a special one! For the first time ever! Please welcome, Candy Apple!”
+
+Everyone in the club had their eyes riveted to the stage as Candy and Apple came out onto the stage together and started their 'client and lap dance' routine. When one was naked and they reversed their roles, even the few women in the audience gasped at the sight. No one, except Ren and the other dancers, had seen this type of show before. When the two dancers were done, rounds of applause greeted them, and copper and silver coins littered the stage and the floor around it.
+
+*
+
+Jennifer used the short time she had with Ren to fulfill her fetish as much as she could, and Ren played the victim perfectly. When the 45 minutes was over, Jennifer lay on the bed exhausted. Ren had used his Energize spell on her twice already, and she refused the last offer for one.
+
+“Just... let me... let me wallow in this... this feeling.” Jennifer said as she lay beside him.
+
+“I have to go.” Ren said.
+
+“I know.” Jennifer said. “Ren, I... thank you for tonight.” She said and put a hand on his chest. “For all of tonight.”
+
+“I told you I'd be here for you.” Ren said and pat her hand. “I mean, that's what friends are for, right?”
+
+“I don't deserve a friend like you.” Jennifer said.
+
+“What? Why?”
+
+“Ren, look at what I do.”
+
+“What about it?”
+
+“It doesn't bother you that I'll have sex with pretty much anyone that shows interest in me?”
+
+Ren chuckled. “Yeah, like you're not picky about who you accept into your bed.”
+
+“You know what I mean.”
+
+“Yes, so let me turn the tables on you.” Ren said and she looked at him. “I've got multiple women on the go, both here and in real life, and I have sex with a fair amount of them.” He said. “Do you think any less of me for doing that?”
+
+Jennifer opened her mouth to respond right away, then closed it and thought about it. “Actually, it... it kind of makes you more appealing.” She said and saw his wide eyes. “Not that you sleep with so many, it's that you... you can please them all and you still come here to visit me.”
+
+Ren smiled. “Now look at you from my perspective.” He said. “You can have any man that you want, as much as you want, and you make lots of money... and yet, here you are with me, just because you want to enjoy yourself.”
+
+“That's because you let me.” Jennifer said. “You don't complain, or say it's too weird or kinky, or make me feel bad that I like these things.”
+
+Ren put his arm around her and gave her a hug. “I don't enjoy it myself; but, it's not my place to tell you what you should and shouldn't like.”
+
+“See? That right there.” Jennifer said and propped herself up on an elbow. “No one else I know would even think that, let alone say it.” She said and touched his private area. “You still get yourself like this for me even though you don't enjoy what I like to do.” She moved down to give it a kiss... then kissed it some more... and did a lot more.
+
+“Do you...” Ren started to ask.
+
+“Mm hmm.” Jennifer moaned, and Ren let himself go for her. She took it all, quite greedily, then looked at his face. “Ren, if you ever decide you want to be my boyfriend... either here or in real life... let me know.”
+
+“Jennifer...”
+
+“It's okay if it never happens.” Jennifer said and gave him a lick. “I'm never going to find anyone who would do all the things you do for me so willingly.” She said and moved back up to kiss him on the lips. “I'm not going to profess love for you or anything like that, because it would be both childish and unnecessary.” She explained. “But, you give me everything I ask for and you don't want anything in return except my happiness.” She smiled and it made her eyes sparkle. “That deserves some kind of commitment on my part.”
+
+“Jennifer, I...”
+
+“Shh.” Jennifer gave him another kiss. “You need to get going.”
+
+Ren held her gaze for a moment, then nodded. She rolled out of the way and Ren sat up, then slid off the bed and stood.
+
+“I hope I can survive a game month without feeling you again.” Jennifer teased and rubbed the spot between her legs. Ren felt her emotions and that she was trying to entice him, so he quickly picked her up off the bed and had sex with her again. She laughed as he made her go in record time, and he finished inside her and dropped her back onto the bed.
+
+“Wowww.” Jennifer said, then licked her lips as she stared up at him.
+
+“See you next month.” Ren said and equipped his special armor bodysuit and blue suit on top of it, then held up a platinum coin. Jennifer shook her head no, so he blew her a kiss instead and left the room.
+
+Ren walked around the side of the main area behind the tables and avoided cutting off the view of the main stage, and Artemis followed closely behind. Caramel was doing a routine on the stage and Ren noticed her glance at him and give him a little wave. He waved back and walked to the front door.
+
+“Thanks for coming.” Gina said automatically when someone approached the door to leave.
+
+“That's what she said.” Ren waggled his eyebrows at her, and she laughed.
+
+“I think I might miss seeing you here.” Gina said. “Might.”
+
+“I can give you something to remember me by.” Ren said, and Artemis tucked herself against the wall to be as unobtrusive as possible. Gina looked from side to side to see if anyone was watching, then nodded.
+
+“Close your eyes.” Ren said.
+
+When she did, Ren took a step up into the air and cast Disguise Self and chose the same hard-looking image he had used the last time and changed his voice to match.
+
+“Open yer eyes, ma'am.” Disguised Ren said in a gravelly voice. Gina opened her eyes and held in her gasp. “It was a pleasure visiting yer establishment again.” He said and held up a silver coin. “I know you're retired, so I won't pester you fer some special treatment.”
+
+Gina slowly touched the coin in his hard and calloused hand. She caressed the skin on the front and back, then she sighed as she picked up the coin.
+
+“It's like I'm on a diet and you're the biggest bowl of chocolate ice cream in the world.” Gina said.
+
+“Would you like a small taste, ma'am?” Disguised Ren said with hope in his eyes.
+
+“Oh, god.” Gina said and slid her arms around his neck. “I know it's fake, but...”
+
+“S'okay, ma'am.” Disguised Ren said and hugged her waist. “People put on a facade all the time. You know fer sure I do, and it don't make a lick of difference.” He said and smiled crookedly. “You'll find yer man someday, I know it; but until then, I'd be glad to give you a glimpse of happiness... if'n you let me.”
+
+“You... you play the part so well.” Gina whispered and her heart beat a little faster.
+
+“As long as you know it's just a part, ma'am. I can't offer much more than the glimpse, though.”
+
+“Just shut up and kiss me.” Gina said, and he did. “Mmm.” She said as he kissed her like she desperately wanted him to. He read her emotions and changed tactics slightly as he slid his hands down from her waist to her backside and gripped her butt hard with both hands. She gasped into his mouth for a second, then moaned as his strong hands kneaded the flesh.
+
+“Hey, we'd like to come in.” A man's disembodied voice said.
+
+Gina broke the kiss and sighed. “Goddammit.”
+
+Disguised Ren chuckled and it sounded like rocks rolling together. He let her backside go and stepped out of the way, and Gina opened the door to let in a group of Adventurers.
+
+“Welcome to the Pleasure Palace.” Gina said in her best hostess voice. “The shows have already started, the bar's full and the kitchen's pumping out cheap hot meals.”
+
+“Awesome!” One of the guys said and gave a high-five to his friend. “Just like always!”
+
+They went by Gina and into the club, and they didn't notice Ren at all. Gina looked at the party of Adventurers and then back at Disguised Ren.
+
+“Hiding in plain sight really works.” Gina said, surprised.
+
+Disguised Ren nodded, took her hand, and kissed the back of it. “I'll see you in a month, dear lady.”
+
+“Um... maybe I was a bit harsh...”
+
+“No, no.” Disguised Ren shook his head. “You do your best to find someone, especially with help from the girls, and then I'll see you again when I return.”
+
+Gina gave his hand a squeeze, nodded, and let it go. Disguised Ren and Artemis left the Pleasure Palace, and when they started walking down the street, he dismissed the disguise.
+
+“You really do have a talent for it.” Artemis said. “Women, I mean.”
+
+“I've been playing with the talent for a while now, and only just started to realize that I could do it without my Prince Charming Title active; but, when I got all my memories back, I knew the title only enhanced what was already there.” Ren said. “I'm not going to turn it off and try to ignore parts of me like that anymore.”
+
+“No matter what happens?”
+
+“I've got so many other things to deal with at the moment, and my abilities can only help in that regard.” Ren said. “If it proves to be a problem like it did when I wasn't aware of it, I'll turn it off in that situation. Other than that, I'm using everything I have to do what has to be done.” He said. “Here should be good.”
+
+Ren came to a stop in the middle of the road and took out the sack of Billy's negative emotions. He cast Full Illusion and made a large fire pit, then activated his Hands of the Gods ability and chose Burning Hands. He filled the pit with Fire, then tossed the sack in and kept feeding the flames. The sack burned up and the black sludge splashed into the Fire. Ren used his other hand to add Fire on top of the sludge, and used his Fire Manipulation ability to completely surround it.
+
+“I was tempted, briefly, to try and give some to the succubi or even Lylyth; then I realized I didn't want anything like these feelings anywhere near people I care about.” Ren said and increased the intensity of the flames. It took almost a full minute to burn up so much sludge, and he kept going for another minute to burn up even the ashes. When it was all gone, he absorbed the Fire and dismissed the fire pit illusion.
+
+“You should probably check the ghouls in the High Elven Kingdom.” Teepo suggested.
+
+“Good idea, buddy.” Ren said as he started to walk again, then took out the All-Seeing Mirror and asked for the details. “There's a few hundred nests, but they're barely a handful of ghouls in each one.” He said. “Can you show me how many can be healed?”
+
+The mirror image didn't change to show any of them glowing, and Ren sighed. “We can clean them out tomorrow when we visit Yllana and Allynna to discuss what the High Lord of the Elves plans to do against me.”
+
+Ren saw Officer Holly and Xuunah as they sat on their mounts and waited for him by the Main House. They wore full armor and had their weapons at the ready in one hand and held the steed's reins in the other.
+
+“I just have to get... hello, Princess.” Ren said as Princess stepped out of her house.
+
+“Hello, My Lord.” Princess said. “I'm ready to go.”
+
+“Give me a second to enhance the other mounts.” Ren said and took out the wand with Permanent Widen Effect and used it several times on the Phantom Steeds. “There.” He said and climbed onto Princess' back and sat on the saddle. “Princess, you'll have to go at quarter speed so they can keep up.”
+
+“I will go slow for the nags.” Princess said, and the two horses huffed and blew raspberries at her. “It's not an insult, it's the truth.” She said and trotted up into the air, and Ren tried not to laugh. Artemis took flight, as did Xuunah and Officer Holly, and they followed Ren for several minutes until they arrived at Aurora.
+
+“I've never travelled that fast before.” Officer Holly said as they landed in the Housing District. “How did your spells do that?”
+
+“Widen Effect doubles any numerical value in a spell.” Ren said. “One of the Phantom Steeds numerical values is it's speed.”
+
+“How many times can you cast it?”
+
+“I don't know.”
+
+“Then why not keep casting it and find out?”
+
+“Because.” Ren said. “The horse would probably break your neck just by starting to trot, or it could tear itself apart by having it's legs run faster than it's body.”
+
+Officer Holly stared at Ren for a moment, then gave herself a little shake. “Okay, those are good reasons.”
+
+Ren chuckled and hopped off of Princess and scratched her chin. “You can go for a little run, or you can go inside and wait.”
+
+“Will you be long?” Princess asked.
+
+“It depends.” Ren said. “I'm having supper with Nathalia and then I'm coming back here to spend some time with Elise.”
+
+“Then I will go inside.” Princess said. “You are going to be a while.”
+
+Ren opened the door to their old house for her, and she went into her old room. He looked over at Elise's house and the lights were off, which meant she wasn't in the game yet, so he looked at Officer Holly.
+
+“You kind of have the same choice.” Ren said. “Are you staying outside to guard me, or going inside to wait?”
+
+“I can do both.” Officer Holly said. “I'll sleep for the hour the ring's enchantment requires while you have dinner with Nathalia and Xuunah, and I should be up long before you're done.”
+
+“Sounds good.” Ren said. “Secure your steed and help yourself to the house.” He said. “I'll try and not be too-”
+
+“For god's sake, go and have fun.” Officer Holly said and hopped off her mount. “Don't worry about the time.” She tied the steed to the post outside of the house. “I'll see you when you're done.”
+
+“Thanks.” Ren said, and Officer Holly went inside the house and shut the door. “Xuunah?”
+
+Xuunah looked down at him, let out a sigh, and slid off her mount. She secured it beside Officer Holly's mount and Ren held a hand out to her. She thought about not taking it; but, that thought lasted barely a microsecond as her hand gripped his firmly. Ren and Xuunah walked hand-in-hand down the street to go to the Artesian District and to the restaurant called Nathalia's Nourishment.

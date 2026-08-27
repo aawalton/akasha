@@ -1,0 +1,255 @@
+---
+id: ce231d23-b1e6-5917-815a-415515ec1d34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 312 - Water is Right"
+slug: 0303-chapter-312-water-is-right
+partOf: mythrans-master-of-all-continued-completed
+position: 303
+ownLength: 3188
+unit: words
+publishedAt: 2017-07-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149681/chapter-312-water-is-right"
+royalRoadId: "149681"
+---
+
+“Come this way.” The 6 foot tall male entity said, and turned towards the castle's front doors. Ren had lost his hold on the rope when he had passed through the portal, so with nothing to look after, he followed the being inside. The air bubble around Ren went with him. He wasn't sure if it was him that it was following, or if the being was willing it to be so.
+
+With a clear opportunity to observe the being up close, Ren discovered that the being's body was the same as the one Fire Dancer had. It had a translucent outer shell with the element contained and swirling underneath. Unlike the original Fire Dancer, this being wore strategically placed shells and seaweed; and Ren was more than grateful for that little detail.
+
+They went inside the castle, which was much larger than the castle he'd seen in the dwarf lands. It had a similar design, however. They entered a large lobby with a 3 storey staircase, and Ren was surprised to find it wasn't full of water, but air. Several hallways led off of the lobby, and they went down one of these and came to a large set of double doors. The being didn't hesitate or announce himself as he opened the doors, and Ren had no choice but to follow him inside.
+
+That was as far as he went, because his Etiquette skill activated and he felt like he had to stop. He did so, and then stared at the throne room. It was right out of what Ren thought could be a seafarer's endless nightmare. The walls were decorated with the bones of countless bodies; both humanoid and creature alike. The wreckage of ships, some designs that Ren didn't recognize or make out were there, as well as piles of hats worn by ship captains. Scattered among everything were paintings of epic sea battles.
+
+In several of them, the water elementals were triumphant over their land-dwelling foes; in another, an unruly gigantic octopus over-stepped its bounds and had to be dealt with. What struck Ren as particularly funny, was one with an infestation of crabs that had tainted the nursery, and had to be expunged.
+
+Below each of the paintings were the weapons he assumed had been salvaged from those epic battles. Ren saw tridents, harpoons, staffs, long swords, short swords, pole arms, axes, shields, bows, and several other weapons too numerous to mention. They were in all shapes and sizes, and some were decorated in a sea motif while others were plain and unadorned. The metal on nearly all of them was rusted from being in the water.
+
+“Hello, my husband.” A melodious female voice almost sang, and Ren felt something prod his brain.
+
+“Hello, my wife.” The male being responded in almost the same tone, but Ren didn't get the same mental prod. The male being continued to walk across the large expanse while Ren remained where he stood.
+
+“Is this him?” The female being asked, and Ren felt that prod against his brain again. “He doesn't seem very sociable.”
+
+“I just whisked him and 8 others from his ship.” The male being said. “He's probably still in shock.”
+
+“If I may speak?” Ren asked, and the male being turned around to look at him, surprise clearly on his face.
+
+“You may.” The female being said, and Ren felt another mental prod.
+
+“I request permission to approach.” Ren said and bowed slightly. “Being in your presence is an honor, and I would never presume to come near you without your permission.”
+
+Both the male and female beings stared at him for several quiet moments, and then the female nodded.
+
+“Thank you.” Ren said and started to walk across the room. He could see several hundred water elementals along the walls, floor, and ceiling. I'm not sure why I'm seeing them. He thought as he glanced around. The surprising fact was that there were also about 50 or so humanoids among them.
+
+“You've got the 'Spot' ability.” Teepo said. “Any movement within a hundred feet of you, and you'll see it.”
+
+When did I get... Ren sighed mentally. Teepo, when we get back to the ship, remind me to read about all of my new skills and abilities.
+
+“Will do.” Teepo said.
+
+While Ren had been looking around, the male being reached his wife and sat down on the simple stone bench beside her. The female being sat on a more ornate bench; and even though it was being used as a throne, it was still just a bench. Ren stopped in front of them, and knelt on one knee.
+
+“Thank you for granting me an audience.” Ren said.
+
+“Can you believe this?” The male being said. “I abducted him and his prisoners from his ship, and he's thanking us!”
+
+The female being smiled. “We have seen what happened to some extent.” She said. “Can you tell us again, so we can fill in the missing pieces?”
+
+Ren had felt nearly a continuous barrage of mental prods as the female being spoke. “I will, but can you answer a question first?”
+
+“You plan to bargain with us?!?” The male asked, a little indignantly.
+
+“No, I'll still tell you; I'm just curious about something.”
+
+“Go ahead.” He said, not reassured in the least, and Ren shifted his gaze to the female being.
+
+“Can I ask why you keep attacking me?”
+
+“WHAT?!?” The male yelled and stood up in a swirl of water. “You DARE!!!”
+
+“Wait.” The female being said and held a hand up. “Why do you accuse me of such a thing?”
+
+Ren tapped his temple. “Every time you speak to me, I feel something poke me inside my head.”
+
+Everything stopped moving as if a switch had been thrown, and the male being looked at his wife. He made several motions with his mouth and exaggerated hand gestures; but according to Ren, all that came out was unintelligible water bubbling. The currents inside the female being's body swirled and churned as the male continued to speak. The female reached a hand out and placed it on the male's arm to stop his gestures, and the male calmed down and stopped talking.
+
+“Forgive my husband for not speaking properly.” The female being said. “He is quite upset that...” She sighed. “You shouldn't be able to feel that.”
+
+“May I ask why?” Ren asked.
+
+“It's something... that really shouldn't happen...” The female being glanced at one of the large pictures with a battle between the sea dwellers and the land dwellers. “...especially between different species.”
+
+Ren blinked his eyes a few times and thought about what she said, and what it meant. “Am I safe to assume you mean there's potential for something to happen, and there shouldn't be?”
+
+“Yes.”
+
+Ren lowered his head. “Please forgive me for causing you distress.”
+
+“What... what...”
+
+“I came here to resolve a problem, not to cause one.” Ren said. “If I may prove it?”
+
+“Of... of course.” The female being said.
+
+Ren took out one of the blank amulets he had in inventory and activated his Craft Wondrous Item ability, placed the blank on the 1 foot square gold glowing platform that appeared to several gasps, and chose the Amulet of Truth recipe. The platform covered the blank amulet for a few moments, and Ren picked the amulet up to examine it.
+
+Amulet of Truth (Compulsion)
+
+Beings (creatures or persons) within the area of effect can't speak any deliberate or intentional lies. Anyone within the Aura knows what the Aura does automatically and cannot avoid speaking the truth when asked a direct question.
+
+Any creatures or persons with no will of their own are unaffected by any truth-based spell or enchantment.
+
+Area of Effect: 25 foot radius
+
+Ren deactivated the Craft Wondrous Item ability and stepped close to the benches the two beings sat on. “Please accept this offering as an apology.”
+
+“You have... (bubbles)... you just... (bubbles)... I can't believe...” The male being stammered between water sounds. The female being stood up and walked over to Ren and his offering.
+
+“This is the latest item that has been offered to us.” The female being said. “For the last two days, gold, silver, copper, fish, pottery, containers of water, notes written on parchment, and even prayers have come to us.”
+
+“I'm glad the Church I built is working.” Ren said. “I was banished before I could use it myself, though.”
+
+“YOU (bubbles)...” The male stood up, and water swirled around him again. “It was you!”
+
+Ren nodded, and the female being took the amulet and put it on. A 25 foot area of effect appeared around her, and she smiled.
+
+“Now tell us the tale.” She said, and Ren did so. He told her everything, and didn't leave out any details. When he got to the part where he tied the engine room crew up, she stopped him. “You were going to hand them over to us, with no guilt whatsoever?”
+
+Ren shook his head. “I know they didn't really know they were hurting it with the ale, but after they put it in the engine, they knew it would die when it was removed.”
+
+“And YOU removed it!” The male being said and let his anger show.
+
+“I did.” Ren said. “It died.”
+
+The female being reached out and touched Ren's forehead with the palm of her hand. He felt a sliver of a mental probe slide in, and he didn't fight it this time. The female being closed her eyes for a full minute, then she took in a sharp breath. Ren thought she was seeing, and probably feeling, the water elemental's death.
+
+“C-c-continue, Ren.” The female being said when she opened her eyes, and Ren stared at the dark watery depths in her eyes as he finished the story by taking the prisoners up on deck, meeting the water elemental, then being taken from the ship and losing the rope when he came through the portal.
+
+Ren felt the probe slide back out of his head and the female being removed her hand from his forehead.
+
+“Thank you.” The female being said, walked back to her bench, and sat down. “Bring in the prisoners.”
+
+Two humanoids came into the throne room with a kind of water raft between them, and the 8 engine crew sat on it. They were still bound by the ropes Ren had tied them up with. The workers all started talking at the same time when they saw him and asked what was going on; but Smeg on the other hand, just stared blankly at the humanoids.
+
+“What should we do with them?” One of the guards asked.
+
+“Feed them to the octopus!” One of the humanoids in the audience said.
+
+“That's too good for them!” Another said. “Use the sharks!”
+
+“We should put them with the crustaceans! Let them see what it's like living with crabs for a while!”
+
+Ren snorted a laugh, and everyone looked at him. “I'm sorry. That last one struck me as funny.”
+
+“You have a strange sense of humor.” The male being said, and Ren nodded.
+
+“What would you want us to do with them?” The female being asked Ren.
+
+“I can't presume to tell you what to do.” Ren said, then his Haggle skill kicked in. “I'd like to suggest that you don't kill them.”
+
+A slight uproar came from the surrounding elementals, and Ren waited for them to calm down before he continued.
+
+“I know that is a lot to ask for losing one of your companions.” Ren said. “But, I think I have a better suggestion.”
+
+“You may present it.” The female being said. “Quickly.”
+
+“Is there any physical labour that you don't want to do, or can't do because of your physical bodies? Any buildings that need repair, replacement, or to be built?” Ren asked. “What about houses? Barricades? Reefs?”
+
+Everyone went quiet as they thought about it, because those really were good ideas.
+
+“It would take some time for things like that to be built.” The female being said. “How long...”
+
+“No less than a year.” Ren said.
+
+“WHAT?!?” The engine room workers yelled, and Ren looked at them.
+
+“No, you're right. A year's no good. A year and a half would be better.” Ren said and turned to the male and female beings. “That should be plenty of time to have anything built that you can think of, after which the prisoners can be released.”
+
+“You are very free about giving away other people's time.” The male being said, and the female being nodded.
+
+“Very well. We accept your terms.” The female being said and turned to her husband. “Take Ren back through the portal, and we'll begin plans for the repairs on the castle.”
+
+The male being stood up and Ren held up a hand to stop him.
+
+“I'm sorry, Your Highness.” Ren said. “That won't be possible.”
+
+“Excuse me?” The female being said and looked at him. “Are you refusing-”
+
+“Absolutely not, Your Highness.” Ren said. “You accepted my terms. I have to stay and serve my sentence.”
+
+“WHAT!?!” The female being exclaimed.
+
+“We negotiated for the prisoners. I am a prisoner.” Ren said.
+
+“They are the prisoners.” She said and pointed to the ones tied up. “You are-”
+
+“Your husband said he abducted us from the ship.” Ren said. “I might not have been tied up, but I am just as much a prisoner as they are.”
+
+The female being stared at him with wide eyes.
+
+“My intentions were honorable; but like your husband said, I did kill the water elemental.” Ren said. “It hurt so much to do it; but, I couldn't... I couldn't let it suffer like that anymore.” He said. “I'll serve my time just like the others for what I did.”
+
+The entire room fell silent, because Ren was well within the area of effect for the truth amulet, and everything he said had been completely true.
+
+*
+
+The water elementals on the ship dove overboard when the giant water being disappeared, and the ship was left without an engine room crew and without an owner. Several search parties were sent out on rowboats to look for any trace of the missing crew; but, their search was in vain. Nothing was found or seen for nearly 3 hours.
+
+The personal maids had stayed on the deck of the ship, in the faint hope that they would see or feel something, and then their hope was realized. The maids cried with joy as Ren's Aura merged with their shared Aura, and the ship started to rock back and forth.
+
+“He's back!” Frikara said, and they all moved back from the edge of the ship. Everyone held on and watched as the giant water being sat up again, and then its clasped hands came up and out of the water. The water being unfolded its hands, and extended them towards the deck of the ship to make an even surface for the prisoners to walk across.
+
+“Ren!” The maids said as he walked across the giant hand and onto the deck, then he went over to them and hugged each of them. The rest of the prisoners, 7 of them, spread out and greeted their friends.
+
+“I missed you so much.” Ren said to his personal maids, and because they were sharing their feelings, they felt that he really did miss them. It was almost overwhelming for them.
+
+“You were gone for almost 3 hours!” Andrela said, tears in her eyes. “We were so worried that you had drowned!”
+
+“I'm really sorry that I made you all worry so much about me.” Ren said, and took Andrela into another hug. “I really could have used your companionship a lot while I was gone.” He looked at the others. “All of you, that is.”
+
+“Really?” Frikara asked, a little surprised. “You're not just saying that?”
+
+“You can feel how I feel, and you can tell if I'm speaking the truth.” Ren said, and cupped the side of her face. Frikara's heart sped up at the gentle touch and the feelings he shared with her. “What do you think?”
+
+“I think...” Frikara stomped hard on her automatic reaction to his direct attention, and looked at the other maids. “...that I'll tell you later.”
+
+“I missed your brutal honesty, Frikara.” Ren said and chuckled, then let both Andrela and Frikara go and stepped back. “Now that I've greeted you all, I'd like to introduce you to the Ambassador of the Sea Dwellers...”
+
+A stream of bubbles and water sounds came out of Ren's mouth as he motioned to the water being that still stood on the giant water hands. Everyone looked at him in surprise, and then at her.
+
+“Oh, right! Sorry.” Ren said. “I'm too used to calling her by her real name.” He smiled. “We decided her land name should be 'Railyse'.”
+
+“Greetings, land dwellers!” Railyse said and gave everyone an enthusiastic wave. She wore a very ornate dress made of Spider Silk Cloth, with sea shells and various other things woven into the seams. She stepped off of the giant water hands and onto the deck, and the giant water hands moved away from the ship. Ren waved to the massive water being, and it waved back and started to lay back down into the water.
+
+Railyse walked over to stand beside Ren. “It's so nice to finally meet you!” She said to the personal maids, and shook each of their hands. “I feel like I've known you forever!”
+
+Ren held in his laughter at the shock and surprise that flowed through the shared Aura.
+
+“He talked about you a lot.” Railyse said. “I can't believe he rescued you from a Thieves Guild!”
+
+“He told you all about us in only 3 hours?” Frikara asked her.
+
+“Ha ha! Of course not.” Railyse said. “It took me months to learn to speak your language.” She said and smiled. “Of course, he learned how to speak ours much faster than that.”
+
+Ren snorted a laugh. “I still (bubbles) when I should (gargle) (bubbles)!”
+
+Railyse laughed and the sound of a gentle rain could be heard. The personal maids stared at them and didn't know what to say.
+
+“Wait!” The captain said as he came down to the main deck. “Where's Smeg?”
+
+“He decided to stay.” One of the engine room crew said. “He's married now.”
+
+“He said it was a dream come true.” One of the others said.
+
+“Married?” The captain asked, shocked. “You were only gone for-”
+
+“It's been a year and a half.” Ren said, and everyone fell completely silent. “It's really nice to be back.”
+
+****
+
+“What did he just say?” Stella asked herself and pulled over the laptop. “Everyone seems so shocked.” She played back the footage at normal speed and turned up the sound.
+
+“It's been a year and a half.” The video playback of Ren said. “It's really nice to be back.”
+
+“Oh, my god.” Stella said, and she was just as shocked as everyone in the game was.

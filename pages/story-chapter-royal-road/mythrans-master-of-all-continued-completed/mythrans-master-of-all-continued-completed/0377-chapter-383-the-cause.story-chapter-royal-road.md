@@ -1,0 +1,483 @@
+---
+id: ac27ae1e-35de-573c-9ec6-840435ff849a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 383 - The Cause"
+slug: 0377-chapter-383-the-cause
+partOf: mythrans-master-of-all-continued-completed
+position: 377
+ownLength: 3743
+unit: words
+publishedAt: 2017-10-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167170/chapter-383-the-cause"
+royalRoadId: "167170"
+---
+
+The party of Adventures made their way across the emptied graveyard and didn't know what to make of the situation.
+
+“Damn, where are they?” Billy asked.
+
+“Who?” Hank asked.
+
+“Them!” Billy said and pointed to the empty graves. “Where did they go?”
+
+“I think we're about to find out.” Ren said. “I see a crypt ahead.”
+
+“There's crypts all over the place, man.” Tommy said. “They're all open.”
+
+“Those are sarcophagi.” Ren said. “Or tombs.”
+
+“Sarcoughawhat?”
+
+Ren chuckled. “They're above-ground stone caskets.” He said. “And before you start arguing, they can be buried, too.”
+
+“You cut me off before I could get going, man.” Tommy said and laughed.
+
+“A crypt is a building built to have a body interred in.” Ren said. “Larger ones are called mausoleums, but they're still technically crypts.”
+
+“How do you know that?”
+
+“I used to watch a lot of television.” Ren said.
+
+“Used to?”
+
+“I play this now.” Ren said and smiled. “I'll give you two chances to guess which one I prefer.”
+
+“No guesses needed, man.” Tommy chuckled. “I'd play this all the time if I had the choice, too.”
+
+“Is thare any magic or traps?” Clint asked.
+
+Ren cast both spells again and used Enchanted Eyes. “Nothing that I can detect.” He said. “Princess? Elerlyth?”
+
+Both of them shook their heads.
+
+“Does anyone else think it's strange that this is the only thing not open?” Dillon asked.
+
+“Stand back.” Ren said and took out his Wand of Entering. He cast the Knock spell on the crypt and the door opened. Nothing popped out and nothing exploded, so everyone relaxed.
+
+“Geez, what other spells do you have?” Dillon asked.
+
+“All the basic Level 1, 2 and 3 spells.” Ren said. “And a couple of others.”
+
+“How many is that?”
+
+Teepo? Scout ahead. Ren thought. “Show spells.” He said and counted the spells while Teepo went to work.
+
+Available Spells
+
+Level 1  Level 2  Level 3  Miscellaneous
+
+Acid Arrow  Acid Splash  Acid Fog  Chain Lightning
+
+Color Spray  Bridge  Air Walk  Fireball (2)
+
+Detect Undead  Bull Strength  Animate Objects  Sunburst (Special)
+
+Enlarge Person  Charm Person  Bless Water  Wall of Earth
+
+Fireball  Disguise Self  Cause Minor Wounds  Wall of Fire
+
+Ghost Sound  Detect Magic  Detect Traps  Wall of Ice
+
+Grease  Glitterdust  Dispel Magic  Wall of Thorns
+
+Magic Mouth  Gust Of Wind  Energize  Wall of Wind
+
+Major Healing  Haste  Giant Strength  Widen Effect
+
+Minor Healing  Knock  Ice Storm
+
+Obscuring Mist  Mage Armor  Invisibility
+
+Reduce Person  Minor Image  Iron Body
+
+Shield  Rope Trick  Know Direction
+
+Silent Image  See Invisibility  Lightning Bolt
+
+Sleep  Slow  Locate
+
+Sleet Storm  Spider Climb  Magic Flare
+
+Web  Wall of Iron  Phantom Steed
+
+Resistance
+
+Turn Undead
+
+Water Walk
+
+“I've got 63 spells.” Ren said.
+
+“Ahl right.” Clint said when he looked into the crypt and saw the bottom of it was missing. “Hank, shut an' secure tha' door.”
+
+Hank closed the door and sat in front of it.
+
+“Ren, tell us wha' spells ya got.” Clint said, and Ren filled them in on what he had access to. “Well, thare's no' much thare ta help us.”
+
+“I know.” Ren said. “I only have access to basic spells for those levels. No specialty ones except for Sunburst and Widen Effect, and those I got when I leveled up.”
+
+“Why is tha'?”
+
+“I'm not a magic user.” Ren said. “According to the Librarian, I'm not allowed to read spell books from there.”
+
+“Then how did you get the basic ones?” Dillon asked.
+
+“I bought them as research materials.” Ren said, and he laughed.
+
+“Ah'm confiden' yer usin' as much as ya can.” Clint said. “One of yer spells is Fireball. Do ya have any Fireball wands?”
+
+Ren smiled and equipped his shiny gold-colored armor. “12 Fireball, 12 Web.” He said and used both thumbs to indicate his shoulders and the two wand mounts.
+
+“Ha!” Hank said. “I want one!”
+
+“Ask and you shall receive.” Ren said and climbed down from Princess' saddle, then he took out a handful of Level 1 Web wands and a handful of Level 1 Fireball wands. He gave one of each to the 5 men.
+
+“What about...” Billy started to say and then saw Elerlyth slide off her mount and take out the wands Ren had given her a while ago. “Never mind.”
+
+“Hank, open 'er up.” Clint said, and Hank stood up and pulled the door open.
+
+“Does everyone have dark vision?” Ren asked.
+
+“No.” Clint said. “Human characters don't get that trait.”
+
+Ren nodded and reached out and touched the Amulet of the Spider on Clint's chest. Ren used his Double Infusion skill and put a glyph of 5 Illumination runes on it and activated it. The amulet lit up, but not too brightly.
+
+“I'm glad I suggested that you join Clint's party.” Billy said, and Ren did his amulet, too.
+
+“Me, too.” Tommy said.
+
+Ren did his amulet, then Dillon's and Hank's amulets and activated them.
+
+“Hank, yer lead.” Clint said.
+
+“Sweet.” Hank said and took out his new sword. “I can't wait to try this thing out!”
+
+Ren stayed back and let the guys go first. “Princess, hang back. If my guess is right, it's going to be a little tight down there for you.”
+
+My Lord, I can make room for myself. Princess thought to him.
+
+“I hope so.” Ren said. “You're my backup, remember? I need you to come to my rescue.”
+
+Princess huffed. I will... hang back.
+
+“Thanks.” Ren said. “Not too far back, though. Just enough for a good run.”
+
+When do I...
+
+“I'll activate my party skill Charge!, and you can come running.” Ren said and scratched Princess' chin.
+
+“What about Etheria?” Elerlyth asked.
+
+“It'll be around for another 3 and a half hours.” Ren said and took out the Widen Effect wand and used a charge. “6 hours now.”
+
+“I'll be back before your time is up.” Elerlyth said and pat the horse. “Bye, Etheria.”
+
+The Phantom Steed neighed at her and nudged the side of her head.
+
+“Okay, I'll stop wasting time.” Elerlyth said and pet it's nose, and stepped into the crypt. Ren chuckled and pat Princess, and stepped into the crypt. He saw it dropped down into a tunnel, and jumped down. The guys were waiting at the first turn in the tunnel, and Ren and Elerlyth ran over to them. It was a large cavern, almost 50 feet wide, and it went off to the left.
+
+Teepo? Ren thought.
+
+“Someone's been busy.” Teepo said. “Past the first chamber is a huge 300 foot one, with a kind of room at the back and a tunnel off to the left and to the right.” He said. “I haven't gone further than that, so I can keep an eye on everything.”
+
+Good thinking. Ren thought. We'll be right there. He activated Enchanted Eyes and took out the Detect Magic and Detect Traps wands. He cleared the 50 foot cavern in front of the party, then moved over to the left turn and did it again.
+
+“It's clear so far.” Ren said and the rest of the party came over behind him.
+
+“This place is huge.” Hank said.
+
+“It must have been natural or something.” Billy commented. “There's stalactites.”
+
+“There's a tunnel off to the left, and one on the right.” Ren said. “There's also some kind of room at the back.”
+
+“Hank, on tha righ'.” Clint said. “Billy and Tommy, take tha lef'.”
+
+The three of them nodded and advanced to their positions.
+
+“Ren and Dillon, hang back an' cover tha rear.” Clint said. “Lith, you an' me have tha room.”
+
+Elerlyth looked at Clint, then at Ren; who nodded slightly. “You're making a mistake.” She said and advanced. “You shouldn't leave your best asset behind.”
+
+Ren could feel that she believed that, and he let his appreciation flow out to her. Teepo, scout the room.
+
+“You got it.” Teepo said and flew into the room, then flew right back out. “Tell them not to go in, Ren.”
+
+Ren left the Spider Aura on and concentrated on his Command Aura as well. “Elerlyth, stop!” He commanded and sent her the feeling. She stopped immediately and grabbed Clint's arm to stop him, too.
+
+“Wha'?”
+
+“Ren said stop.” Elerlyth said.
+
+Teepo? Ren thought and activated Sneak, then motioned for Dillon to follow, then walked slightly crouched over to where Elerlyth had stopped.
+
+“It's... I don't know if it's all of the missing people, but it's a lot of them.” Teepo said. “Or, at least most of each of the people.”
+
+Wait, what? Ren thought to his friend.
+
+“It's mostly just pieces.” Teepo said. “I'm good at counting.”
+
+“Oh, geez.” Ren sighed, and stopped by Elerlyth.
+
+“What is it?” Elerlyth asked, because she could feel his trepidation.
+
+“Teepo found... most of the missing people.” Ren said. “Pieces of most of them, anyways.”
+
+“Oh, damn.” Elerlyth said.
+
+“Who's Teepo?” Clint asked.
+
+“He's my best friend, and the best scout I have.” Ren said and activated the Revealing Light on his bracelet.
+
+“I'm the only scout you have.” Teepo flew into it's area of effect and landed on Ren's shoulder. Clint and Dillon stared at the beetle as it waved at them.
+
+That's what I said. Ren smiled as he repeated their old joke. “Guys, this is Teepo.”
+
+“Is this really happening?” Dillon asked. “I'm really seeing an invisible bug, right?”
+
+“He's a beetle, actually.” Ren said and looked at Clint. “He's been my best friend since the Aurora Expedition.”
+
+Clint looked at Teepo and then at Ren. “Ya don' mean...”
+
+“Meeting Teepo was the reward for killing the first monster in the cavern.”
+
+“Well, damn.” Clint said and smiled. “Ya lucky dog.”
+
+“I sure was.” Ren said. “He and I have been through a lot together since then.”
+
+“Ah can imagine.” Clint said. “Thanks fer stoppin' us from seein' wha's in thare.”
+
+“There's a dead ghoul in there, too.” Teepo said.
+
+“Oh, crap!” Ren said.
+
+“What is it?” Elerlyth asked.
+
+“Teepo said there's a dead ghoul in there, too.”
+
+“Oh, shit!” Billy said. “We are so screwed!”
+
+“Pull back!” Clint said and took out the Fireball wand Ren had given him. A loud screech cut through the air like a razor blade, and then it was joined by more, then by more, then by a lot more.
+
+“They're coming down this tunnel!” Hank said and took out a Fireball wand and shot a bunch of spells off.
+
+“They're coming down this tunnel, too!” Billy said and did the same thing.
+
+“RUN!” Clint yelled and everyone ran. It was a wide open cavern and Elerlyth made it to the smaller cavern first, then turned around and started shooting Fireball spells.
+
+“I'm getting low!” Elerlyth said. She'd killed over a dozen ghouls so far, but it didn't make any difference in the horde coming after them. Ren made it to her and turned around, and started to unload with his 12 Fireball wands, 6 of them on each shoulder. He took out a Level 5 wand and exchanged the spells with Wall of Fire.
+
+“How are you doing that?!?” Elerlyth asked and stored her empty wand.
+
+“Practice.” Ren said and gave her the wand. “Get ready with that!”
+
+Elerlyth stared at the popup for it, then looked at Ren as Hank ran by.
+
+“One shot will block the entrance to this cavern, but it won't last long.” Ren said. “They aren't going to stop when they hit it!”
+
+Elerlyth nodded and waited while Ren used Fireballs to cull the herd on the sides. It slowed the horde of ghouls a little, but it wasn't going to stop them. Not even close.
+
+“Get ready!” Teepo said. “Almost... almost...”
+
+Clint, Tommy, Dillon, and Billy crossed into the smaller cavern.
+
+“Now!” Teepo and Ren yelled a split second apart and Elerlyth shot the Wall of Fire spell. She had to make it thin to fit the whole space, then cast it 10 more times to make it thick as well.
+
+“Go! Go! Go!” Ren said and took off running behind the others. Even merged into the surrounding walls, The extra thick Wall of Fire wasn't strong enough to hold the tide of ghouls back. They burned and died as the ghouls behind them pushed the ones in front, and more and more gathered behind the Wall of Fire.
+
+“Do it again at the tunnel entrance!” Ren said and Elerlyth nodded. She came to a stop below the crypt and aimed down the tunnel past the party. She used one spell for a base, and with the tunnel barely 10 feet across, the level 5 spell made a wall 2 feet thick.
+
+The guys ran by her and quickly climbed up and out of the crypt, and Elerlyth unloaded the wand as many times as she could. She stopped when the fire was right in front of her, turned around and jumped up and climbed out of the crypt. Hank shut the door behind her and wondered what to do.
+
+“Allow me.” Ren said and took out the Staff of Earth. He used it's Move Earth ability to shift all the mounds of dirt from the graves over to the crypt, packed it in tightly, and covered the entrance.
+
+“Holy shit.” Billy said. “Goddamn holy shit!”
+
+“Tha' was a close one.” Clint said. “Damn, tha' was close.”
+
+They all sat down and breathed heavily, and Ren used the Energize wand that his Hand of Glory held. He cast it on all of them, and they relaxed.
+
+“You know I can't leave this covered, right?” Ren said.
+
+“WHAT?” Dillon yelled. “You can't possibly let them all out!”
+
+Ren chuckled. “I'd rather them all come out here instead of in town, or several miles away.”
+
+“Ah gitcha.” Clint said. “If'n we block this here off, they'll make anothah one somewhere else.”
+
+“Bingo.” Ren said. “Princess, I'm going to ask you for a favor.”
+
+Anything, My Lord. Princess thought.
+
+“I want you to run in a spiral around this thing as fast as you can, farther and farther out.” Ren said. “I want at least a hundred circles 5 feet apart, then turn around and run between those lines and follow the path right back here and join it together.”
+
+“Yer makin' an infinite loop.” Clint said, and Ren nodded.
+
+Right away. Princess thought and took off.
+
+Ren took out the Phantom Steed wand and cast it 5 times, and the guys climbed into the saddles. Elerlyth was already on her steed, and Ren cast it again for himself. His mount didn't quite look like a horse, though. It was distorted, with a head that was twice as wide as the others, it's legs were short and as thick as barrels, and it's hooves were thicker and wider as well.
+
+“Why is yers differen'?” Clint asked.
+
+Ren shrugged. “Each steed is made for the person that it was cast for.”
+
+Billy looked at the other steeds and they looked nearly identical, like horses, then he looked back at Ren's. “Does that mean you're-”
+
+“Shut it, man!” Tommy said and cut Billy off. “Remember what I told you.”
+
+“I wasn't gonna say that-”
+
+“I said shut it!” Tommy said.
+
+“Alright already!” Billy said. “You don't have to bite my head off!”
+
+“I apparently do.” Tommy said. “Don't. Say. Anything.”
+
+Princess came back and stopped where she had started.
+
+“Princess, I have to lift you out of here.” Ren said and climbed onto his distorted Phantom Steed. “We need to have the ghouls come out to track us, and then your path will lead them right back here.”
+
+Princess huffed and leaned close. Very well.
+
+Ren grabbed her by the saddle formed on the back of her armor and picked her up easily, even though she was so much bigger than he was. Everyone, even Elerlyth, expected him to at least tilt a little; but he held her out to the side, his arm extended out, and it didn't look like it was at all difficult for him to stay that way.
+
+“Everyone, go straight up.” Ren said. “Don't muddle Princess' hard work.”
+
+The distorted mount he rode reared back and went straight up.
+
+“That looks so weird.” Billy said.
+
+“SHUT UP, MAN!” Tommy yelled, and Billy winced.
+
+The rest of the Phantom Steeds did the same thing as Ren's; they reared back and went straight up. Once they were up high enough, Ren stopped and took out the Staff of Earth and pulled the dirt around and away from the crypt's doorway.
+
+“Let's go!” Ren turned towards the town and flew off. They all followed Ren, and Clint didn't even have time to argue that he was the leader of the party.
+
+*
+
+Officer Holly Stonewall was having a hard time keeping her temper as she talked to the airhead that had the same name as her in real life. The 'Holly' that worked in Ren's shop was all alone at the moment, and Officer Holly tried to get a straight answer out of her.
+
+“What do you mean he isn't here?” Officer Holly asked.
+
+Holly shrugged. “All I know is that Annie said he was going to be gone for a few days.”
+
+“Then where's Annie?” Officer Holly asked.
+
+“Out making deliveries.” Holly said.
+
+“Where?”
+
+“All over the place, I guess.” Holly said.
+
+“How long is she going to be?” Officer Holly asked.
+
+Holly shrugged again. “I don't make deliveries.”
+
+Officer Holly closed her eyes for a moment, took a deep breath, and opened them to look at the ditsy woman in front of her.
+
+“Thank you.” Officer Holly said through a fake smile and partially gritted teeth. “You've been very helpful.”
+
+“You're welcome!” Holly said, and let her bubbly personality out. “Thanks for stopping by!”
+
+Officer Holly left the shop both frustrated and angry. She let her pent up anger out and stormed down the street.
+
+Stupid ignorant wench! Officer Holly thought. I'm glad she's not real, because meeting someone like that in real life would kill me... or her. She thought and smiled as she let the thought roll around her mind. Oh, yes... definitely her.
+
+Officer Holly hit something and bounced off, lost a quarter of her Health, and fell to the ground. “Ow!”
+
+“Oh! I'm terribly sorry!” Frikara said and held out a hand. “Let me help you up.”
+
+“T-thank you.” Officer Holly said. It was like hitting a brick wall. “I wasn't watching where I was going.”
+
+“Neither was I.” Frikara said and chuckled. “I think we both need to be more careful.”
+
+Officer Holly rubbed her chest where it had hit Frikara's shoulder.
+
+“You're hurt.” Frikara said and turned round. “Lusinia!”
+
+Lusinia came over and looked at the two women. “Yes?”
+
+“This woman and I ran into each other, can you check her? She's hurt.”
+
+“Of course.” Lusinia put a slightly glowing hand out and hovered it over Officer Holly's chest. “You're only Level 1?”
+
+“I am... wait, how did you know that?” Officer Holly asked, surprised.
+
+“It's my gift from Lord Ren!” Lusinia said happily, then she nodded. “You're quite bruised and you've lost a quarter of your Health.” She said, much to Officer Holly's astonishment. “Let's get you to the healer.”
+
+“Everyone!” Frikara said, and the other maids came over to her. “We're headed to the healer!”
+
+“Ooo, we haven't been there before.” Navruth said.
+
+“I hope there's a food stall nearby.” Verwynn said.
+
+“Andrela? Lead the way.” Frikara said, and Andrela deftly moved through the crowd and led them across several streets to the small healer outpost.
+
+“I've been all over the city, and I didn't know this was here.” Officer Holly said.
+
+“Neither did we until Andrela told us.” Frikara said.
+
+They all went inside and the healer there diagnosed Officer Holly right away. He healed her, and warned her that staying at Level 1, even inside the city, was not a wise thing to do. Frikara paid the 10 silver fee, despite Officer Holly's attempts to pay instead. They left the healer outpost and Officer Holly didn't know what to do. She was actually in the company of the very thing she had gotten angry at Ren for.
+
+“You look troubled.” Frikara said. “What's wrong?”
+
+Officer Holly sighed. “I'm sorry, I... I know it's not your fault that you're in this situation...”
+
+“What are you talking about?”
+
+“I know you're Ren's personal maids.” Officer Holly said.
+
+“And?”
+
+Officer Holly looked at her with wide eyes. “You're okay with that?”
+
+“Are you kidding?” Frikara laughed. “It's the best thing in the world!”
+
+“Wh-what?”
+
+“When we were under contract to... our last...” Frikara shook her head. “No, he doesn't deserve to be spoken of in the same context as Ren.” She said and smiled. “Ren is...”
+
+“...generous...” Lusinia said.
+
+“...strong...” Verwynn said.
+
+“...handsome...” Andrela said.
+
+“...kind...” Navruth said.
+
+“...and more desirable than any man we've ever met.” Frikara finished. “We would do anything for him.”
+
+Officer Holly sighed. “Like sleep with him.”
+
+“We sleep with him every night.” Frikara said and then smiled. “I sometimes feel bad when we take advantage of his good nature and pile on top of him.”
+
+Officer Holly blinked her eyes several times.
+
+“The feel of his hands on our skin, the touch of his lips on our necks...” Frikara sighed.
+
+“He's always treated us with respect.” Lusinia said. “Not once has he made us feel like...” She stopped talking and looked at the other maids. “Frikara's right. I won't speak of the last one.”
+
+“I just hope he can talk to the others soon.” Navruth said.
+
+“Me, too.” Andrela said. “If he gets permission...” She took in a deep breath. “Oh, I hope they say yes!”
+
+Officer Holly looked at Frikara. “Say yes to what?”
+
+“To going farther than just playing.” Frikara said. “I can't wait to have-”
+
+“Frikara!” Lusinia said, and she sighed.
+
+“I'm sorry, I shouldn't let my thoughts go there.” Frikara said. “Thank you, Lusinia.”
+
+Lusinia gave her a quick hug. “Let's go back to the house and get something to eat.”
+
+Frikara nodded slightly.
+
+“Great! I'm starving!” Verwynn said, and the others chuckled.
+
+Officer Holly couldn't believe what she had heard. Ren wasn't lying. She thought, surprised. He really hasn't taken advantage of them.
+
+“Are you hungry?” Andrela asked Officer Holly. “Would you like to eat, too?”
+
+“I... I would, actually.” Officer Holly said. “Thank you.”
+
+The group of 6 women, 5 short ones and one tall one, chatted animatedly as they walked over to the Housing District.

@@ -1,0 +1,251 @@
+---
+id: 015c6458-04f1-5c17-83f7-3689b6aefeb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 506 - A Bit Of Why"
+slug: 0506-chapter-506-a-bit-of-why
+partOf: mythrans-master-of-all-continued-completed
+position: 506
+ownLength: 3123
+unit: words
+publishedAt: 2018-02-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193192/chapter-506-a-bit-of-why"
+royalRoadId: "193192"
+---
+
+Ren went upstairs and into his apartment, and Frikara and the others could feel his churning emotions.
+
+“Oh, Ren.” Frikara said. “Come here.”
+
+Ren stored his armor as he walked across the room and Frikara stored her clothing as well and took his hand. She laid down on the bed and guided Ren to lay down with her, and she cuddled him closely.
+
+“It's okay.” Frikara said and kissed his forehead. “We've always wanted to be around you, since right after we met.”
+
+“It's true.” Lusinia said and joined them on the bed. “Once we discovered who you were, well...”
+
+“None of us wanted to ever leave your side.” Verwynn said and she and Navruth climbed onto the bed. “The adventures you've had, the powerful enemies you've defeated...”
+
+“You are a dream come true.” Andrela said. She jumped onto the bed and shook everyone, which made them all laugh. “Who needs friends that only pretend to trust you?”
+
+Ren opened his mouth to say that he did, and Andrela pulled herself on top of him and kissed him instead. He wasn't one to deny a good passionate kiss, so he kissed her back and let the feel of her lips distract him from his morose thoughts.
+
+“Ladies, it's been a while since we tickle-kissed him all over.” Frikara said, then amusement and playfulness filled the shared Aura.
+
+“No, wait!” Ren said when they started to assault him with their lips. He laughed as the feather-light touch of 5 pairs of lips kissed him all over for several minutes. When they were done, he was in a much better mood, and could still feel their lips on him.
+
+“What did I ever do to deserve you?” Ren asked, and all 5 women lifted their heads and looked at him.
+
+“You were yourself.” Frikara said for all of them, and they nodded in agreement. “Now lay back and relax, and let us take care of you.”
+
+Ren felt someone's lips on his private place, and he tried to look to see who it was. Frikara sat on his chest to block him.
+
+“You have to guess who it is.” Frikara said and covered is eyes with her hands.
+
+“Ha.” Ren said and took a deep breath and relaxed like Frikara said. He activated Serene State of Mind and thought about who was touching him. He activated his Heat Sense Aura and he felt where they were more distinctly than he did with just the shared Contact Aura. Even with his eyes closed, he could almost see Frikara sitting on his chest, and her private space was hot so close to his face.
+
+With no visual clues, he had to use his Emotion Siphon ability to touch them. Each of them gasped as he touched them in turn, and when one stopped pleasing him and gasped, he heard Lusinia's voice.
+
+“Hey, that's cheating.” Frikara said.
+
+“You only said I couldn't look.” Ren said and smiled. “It was Lusinia.”
+
+Another one started on him and he didn't even hesitate in answering.
+
+“Andrela.” Ren said. “I can pick out that cute mouth from anywhere.”
+
+“Aw.” Andrela said. “I don't know if I should be angry or happy that you found out so fast.”
+
+“Be happy.” Ren said. “I know I sure am.”
+
+Andrela blushed, and Ren felt her heat increase and could almost see her, too. Someone's tongue touched him, and as they licked, he smiled.
+
+“That's Navruth.” Ren said. “She always plays a bit beforehand.”
+
+“Even though you know it's going to be me, I'm doing it anyway.” Verwynn said to several chuckles, then Ren felt her try her best to take as much of him as she could. Frikara uncovered his eyes and Ren looked up at her with lust in his eyes. He glanced down at her special place and looked back up at her as he flooded the shared Aura with desire, so she slid her body forward and almost gasped at how happy that made him.
+
+*
+
+Xuunah had climbed into bed after trying on several of the outfits from the large cabinet of clothing Ren had Tee-one make for her, and she was currently wrapped in an almost clear robe with what she believed was the most comfortable sleepwear that had ever touched her skin. Since she had spent countless years wearing physical clothing, that was saying something.
+
+She had felt everything Ren had felt since he had come back after sacrificing himself, so she had technically been there for the whole incident with Jennifer and Billy, and for Ren's falling out with Clint's party. She hadn't gotten up when he had arrived back at the Main House, because she was afraid of what she would do if she was allowed to comfort him.
+
+At the moment, she was experiencing exactly what she thought would have happened if she had greeted him, and she knew she wasn't ready for quite that much sharing of herself with him; despite Ren's assertion that it was okay to have those feelings. Ren was giving her those sensations with the full knowledge that he was, and she let them flow over her and enjoyed them for what they were.
+
+Expressions of both caring and love.
+
+That brought Xuunah's thoughts back to the kiss she and Ren had shared just before he left for Clint's place, and her face burned a deep red because she had done that in front of everyone. In the next moment, she remembered everyone giving her their support, both during the kiss and afterwards, and none of them were bothered that she had kissed him or hated her for it.
+
+In the back of her mind she had thought it would have caused an uproar, and she had surprised herself that she had kissed him anyway. She closed her eyes and put a hand over the slightly glowing light of connection in her chest, and let the things Ren shared with her buoy her up.
+
+********
+
+“Poor Ren.” Stella said out loud, after re-watching in normal speed what had happened at Clint's ranch. “I think... yes, I should talk to Elise about this.” She said and closed the laptop, then left the bedroom and the Blue Screen Protocol that was on the television screen. She went downstairs and into the small dining room off of the kitchen that Elise and Barbi had quickly converted into a double office.
+
+“Geez, you've got everything set up already?” Stella asked and looked around the room.
+
+“We put the table and chairs out in the garage for now, since no one is using it at the moment.” Elise said from her seat behind her desk.
+
+“We come and go quite a lot, so taking the time and effort to park in the garage is kind of pointless.” Stella said.
+
+“I can't believe Elise got all of this delivered so quickly.” Barbi said and knelt by the micro-server that was similar to the one Ren had upstairs, and she plugged a portable drive into it that had all of her saved files and server addresses for the fan pages and references to Ren on the internet. “I only sent the email to her this morning.”
+
+“She knows people.” Stella said, and Elise chuckled.
+
+“Yes, I have access to some quick delivery tech companies.” Elise said. “Plus, when one of their investors asks for a favor, they seem to jump through hoops for them.”
+
+Stella smiled. “I think you're confusing the words 'investor' and 'drop dead gorgeous'.”
+
+Elise and Barbi laughed at that, mainly because in most cases, it was true.
+
+“Elise, can I talk to you for a minute?” Stella asked and motioned to the kitchen.
+
+“Sure.” Elise said and stood up, then followed Stella out to the kitchen. Stella explained what had happened, and Elise frowned.
+
+“That does sound a little odd.” Elise said. “I need to see what happened for myself.”
+
+The two women went upstairs and into Ren's bedroom to watch what happened. It didn't take long, and Elise couldn't understand what she saw as excess anger from Billy. She went back to the video file after Ren first logged back in, and she saw the popups he had received.
+
+“No, that's not possible.” Elise said and took out her cell phone and dialed a number she had hoped she wouldn't have to dial again.
+
+*
+
+Max had just gotten back to work after taking the whole morning off, and the phone on his desk rang. “Max here.” He said when he picked it up.
+
+“Max, we need to talk.” Elise said, and Max sighed loudly.
+
+“I just got into work after spending half the night cleaning up after your little boyfriend.” Max said. “Let me guess, he's gone back in and discovered something else game-breaking.”
+
+“Yes, he has.” Elise said.
+
+“What is it this time?” Max asked.
+
+“Apparently he's one of Vasalor's Chosen now.” Elise said.
+
+“He's WHAT?!?” Max yelled, and everyone in the tech department looked at him. He covered the mouthpiece of the phone. “Just ignore me for the next few minutes.”
+
+Some of them nodded and a few shrugged their shoulders, then they all got back to work.
+
+“What happened?” Max asked.
+
+“It was a popup he received after sacrificing himself.” Elise said. “A High Elf tried to summon a Lightning being into the normal game realm, and Ren stopped him.”
+
+“That can't be the only reason.” Max said.
+
+“It's all I have at the moment.” Elise said. “Besides knowing he's met both Water and Earth beings.” She said. “Do you want me to ask him who else he's been in contact with?”
+
+“No.” Max sighed. “Even just those two would have given him access to restricted content.”
+
+“Not this level of it, surely.” Elise said. “I mean, we know who Vasalor really is.”
+
+“Yes, and if he picked Ren to help him, there has to be a good reason for it.”
+
+“It can't be just a reward?” Elise asked. “I was shocked when I saw it at first; but, now that I've had a minute to think about it, Ren did keep Vasalor's mandate intact.”
+
+“Elise, he's the first player to ever get that title.” Max said. “Not even the Beta programmers and testers earned it, and you know how much work they did to get it all up and running.”
+
+“There's something else.” Elise said, and for some reason, mentioned Billy's oddly angered reaction to Ren.
+
+“That's easy to explain.” Max said. “Ren slept with his girlfriend.”
+
+“That is not what Ren did.” Elise said, vehemently. “What he did was partake of the services offered at a club with one of the dancers.”
+
+“That just happened to be the main squeeze of one of his friends.” Max said. “I don't know about you, but I think I'd be pretty pissed if a friend of mine did that.”
+
+“Even if your girlfriend has been sleeping with tens, or even hundreds of others before that?” Elise asked.
+
+“Well... all right, I have to give you some leeway about that.” Max said, reluctantly. “However, you know love is a funny thing. It's not known to be open for rational thinking.”
+
+“Okay, I guess that explains a lot.” Elise sighed. “He really did seem genuinely hostile, and I thought there would have been another explanation than he was jealous.”
+
+“Maybe something changed recently in their relationship?” Max asked. “Something like this doesn't just come out of the blue.”
+
+“Actually, Billy did take the High Elf upgrade to try and satisfy his girlfriend.” Elise said. “As if a bigger penis was going to solve their problems so easily.”
+
+“Wait, did you say he's a High Elf?” Max asked.
+
+“Yes.”
+
+“Then that might explain any extra hostility you think happened.” Max said. “High Elves inherently hate heretics.”
+
+“Wait, what?”
+
+“Ren wasn't born one of the chosen, or converted during one of the Vasalor rituals the High Elves perform every few hundred years, so they would 'know' that he's a heretic and isn't a genuine chosen.”
+
+“What are you talking about?” Elise asked.
+
+“Don't tell me I know something about the game lore that you don't?” Max asked, and barked a laugh. “Oh, this is great!”
+
+“Max.” Elise said, coldly.
+
+“I'm sorry.” Max said, but Elise knew that he wasn't. “It's something we intertwined into the High Elves backstory.” He explained. “They perform rituals on special citizens every 150 years to see if one of Vasalor's Chosen will emerge.”
+
+“Max, that... that's crazy.” Elise said.
+
+“You'd think that, but its actually a great system.” Max said. “The one to successfully go through the ritual about a hundred years ago was spectacular.” He said. “She converted into a Marilith demon and became the boss in Shargon Caverns, because the High Elves thought she was a failure like her sister and exiled her.”
+
+“Oh... you... you don't mean...”
+
+“A hundred and fifty years before that, her older sister was converted into a half-spider creature and became the Queen of the Dark Elves. That sheared off a big chunk of the High Elf population; which in turn regulated the High Elves massive overpopulation.” Max said. “They exiled her, but she still did Vasalor's work for him.”
+
+“Really, Max?”
+
+“There have been lots of others, but those are the most significant that are still in play right now.” Max said. “The one before that brought order to the High Elves and made them a force to be reckoned with, and the one before that forced the segregation of the elflings.”
+
+“...and you let all of that play out?”
+
+“In the Beta version, yeah.” Max said. “There's no way all of that history could happen with the current time compression in the main part of the game.”
+
+“You do realize that Ren has met both of the Vasalor's Chosen you've mentioned, right?” Elise asked. “The Queen of the Dark Elves and the Boss of Shargon Caverns... the second was thanks to you.”
+
+“He's met the Queen of the Dark Elves?” Max asked.
+
+“He has, and he was also marked by her as her Royal Consort.”
+
+“Maybe that did it.” Max said.
+
+“What do you mean?”
+
+“It takes a lot for Vasalor to notice someone.” Max said. “With the way Ren has been going around and... well, messing things up...”
+
+“He's not messing things up!” Elise said. “He's trying to fix things!”
+
+“That's probably why he got the title.” Max said. “Vasalor doesn't interfere directly, mainly because we removed that possibility.” He said. “I didn't think he would choose a player to act on his behalf, though.”
+
+“Is that what this is?” Elise asked. “Is Ren going to become his emissary or something?”
+
+Max chuckled. “No, nothing so grandiose.” He said. “I think it's just going to give him the occasional quest that's not available to other players.”
+
+“So, I shouldn't be worried, then?”
+
+“Only if he gets a ridiculous quest that no one could ever complete.” Max said. “Other than that, you can just ignore it.”
+
+“But...”
+
+“Don't worry about it.” Max said. “I'll keep an eye on it from this end.”
+
+“All right.” Elise said, a bit reluctantly. “Bye.”
+
+“Bye.” Max said and hung up the phone. “Gosh-darn mother-flipping pancakes!” He exclaimed, and everyone took his previous statement about ignoring him to heart and didn't react to his outburst. He started typing on his keyboard and brought up the last round of log files and reference materials.
+
+Max seriously debated about pulling a hard reset with the game to remove Ren's title, then he thought about how the CEO would react if he messed with Ren so directly again. He was still getting flack for his familiar trick to stop Ren from entering the pocket realms, but like he had pointed out to the boss, he had done that particular coding long before the 'leave Ren alone' memo was sent around the company.
+
+What do I do? Max asked himself, and browsed the information on his screen. I can't interfere with Ren, and I also don't want him talking directly to the AI that runs everything. That could be bad, even with the heavily restricted access inside the game. He sighed. This is going to take some heavy thinking to work around.
+
+Max crossed his arms and stared at the screen, and thought about the two intertwined problems that were going to be problematic to get around, especially since neither seemed to be independent of the other, and the only solution was direct intereference.
+
+*
+
+Billy had been shocked that his attacks against Ren were less than meaningless, and laid on his bed and stared at the 'You have died!' popup message and watched the countdown for several minutes. When the shock wore off, he read the popup over and over again.
+
+“You have died. You have died! YOU HAVE DIED!” Billy yelled and pulled off his VR headset, then tossed it across his bedroom. “DAMMIT!” He yelled and got up off the bed. “I have to wait 6 goddamned hours to get back in there!” He stomped around the room and thought about punching something, then stopped and took several deep breaths.
+
+Punching things apparently doesn't work. Billy thought, then remembered the look of pain and horror on Jennifer's face after he had punched her. He had been so thankful that he had lost so much weight when he had shrunk down, because the punch didn't have much behind it. Jennifer had been more emotionally hurt than she was physically, and he felt bad about both things. Of course, now she was going to have that apparent damage, a bruise on her face in the shape of his fist, for all to see.
+
+“I'm going to apologize to you as soon as I log back in.” Billy said. “I shouldn't have hit you, and I'll make you see that it was just a stupid mistake.” He said and sat down on the bed.
+
+Billy sighed when he thought about what the guys were going to say to him when he respawned in Clint's living room.
+
+“That little bastard's probably hamming it up for them right now, and telling them what a horrible human being I am.” Billy said. “I'll apologize to them right after I message her, and try to explain what happened.” He said. “I won't let Ren steal my friends away from me.”
+
+Billy stood up and walked over to where the VR headset had landed. It was in a pile of dirty clothes, and when he examined it, it looked fine. He brought it over to the bed and laid it on the pillow.
+
+“I'll be back in as soon as the counter is up, Jennifer.” Billy said and smiled the smile of the self-delusional.

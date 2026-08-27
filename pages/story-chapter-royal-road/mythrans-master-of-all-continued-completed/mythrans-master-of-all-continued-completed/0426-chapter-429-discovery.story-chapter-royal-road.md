@@ -1,0 +1,287 @@
+---
+id: 627969c8-6c8a-5a8f-9a27-f84b36fe880e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 429 - Discovery"
+slug: 0426-chapter-429-discovery
+partOf: mythrans-master-of-all-continued-completed
+position: 426
+ownLength: 3261
+unit: words
+publishedAt: 2017-11-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175811/chapter-429-discovery"
+royalRoadId: "175811"
+---
+
+“So, what's on your mind?” Max asked Elise when they were out in the hallway.
+
+“Why did you do it?” Elise asked and kept her anger in check.
+
+“Do what?”
+
+“Don't be stupid.” Elise said. “I know it was you that put Ren in Shargon Caverns.”
+
+“It was the only place for him to get the Undead Adept skill.” Max said. “His character wouldn't get anything else when he leveled up until he learned what his hidden things were.”
+
+Elise took in a deep breath and let it out, so she would remain calm. “You could have easily had him meet someone else with the same skills and told him what they were.”
+
+“Kind of.” Max said. “I suppose I could have generated a character and let him encounter them... but, you know how some of those go, especially if he suspects anything.” He said. “It was just easier to shunt him over.”
+
+“It's a villain training camp.” Elise sneered. “He is NOT a villain.”
+
+“He is, according to the game.” Max said, and Elise's eyes widened.
+
+“Wh-what?”
+
+“You do realize that he has single-handedly changed not one, but four major aspects in the game? He's denied players access to the dwarves for an entire game year, which was supposed to be a player reward for doing so well in their quests.” Max said. “He somehow derailed the Fire Realm world event that was supposed to let players access brief special missions and fight specialty creatures. He also revitalized the Fire Deity. I still have no clue how he did those things; but, that fundamentally changed what we were going to do for almost 6 months!”
+
+Elise didn't comment, because she didn't know what Ren had done, either.
+
+“He stopped the giants from decimating their own population with the brain arthropod grubs, which meant they wouldn't accept 'Adventurer Giants' into their society until we rewrote the entire player introduction to that race!” Max took a breath in through his nose and let it out through his mouth. “Then he kicked off the Great Cleansing three months before we were ready to implement it, and we worked our asses off to delay the event as long as possible; then the little bastard-”
+
+“Shut your mouth!” Elise said hotly. “He's not a bastard!”
+
+“That's your opinion.” Max said, and ignored her anger. “He managed to kick off the event again with his discovery of the ghouls, found out who was doing it, then told the Queen of the Dark Elves all about it; which gave her the choice of using them to go after the High Elves... and she did, just as we predicted. It was just too tempting for her not to use them.” He said. “Although, going after the settlements first only had a 25% probability.”
+
+“That wasn't Ren's fault! He was part of a party that discovered the ghouls!”
+
+“It doesn't matter.” Max said. “I'm just glad we had everything ready for the update this time. I didn't want to say anything about it; but, goddammit! I wanted him well out of the way so that at least some of the other players could enjoy a storyline that he hasn't personally screwed up on us!”
+
+Elise kept a hold of her anger, even though she really wanted to punch Max right in the face. “Ren is the best advertisement this game... and this company... has right now.”
+
+“Yeah, and he's the only one that's getting to play the exclusive stuff and stopping everyone else from playing it.” Max said. “I didn't want that to happen this time, mainly because you know as well as I do that as soon as he gets involved, everything is going to go to hell in a hand basket.”
+
+********
+
+Lylyth, the Queen of the Dark Elves was upset. She had tried several times to create a portal to the Royal Consort at different times of the day, and it wasn't working. She put a hand on her chest where the spider emblem that matched Ren's was, and concentrated on her link with him. She hadn't been able to feel him, either.
+
+“He wouldn't stay away this long.” Lylyth said. “Something is either wrong, or something is interfering with contacting him.”
+
+“What about his beneficiary?” The healer suggested. “Perhaps she knows where he is.”
+
+Lylyth shook her head. “If he was anywhere near her, I would have felt him through her.” She said. “Her bond with him is quite strong.”
+
+“I could travel to his place of business and see if they know where he is.” The healer suggested.
+
+Lylyth looked at her with squinted eyes; but, she felt no ulterior motives from the woman. “Very well.” She said. “Prepare for an excursion to the surface.”
+
+“I will be but a moment, My Queen.” The healer said and left to change into her Travelling Clothes and concealment cloak.
+
+I hope she can discover what has happened to him. Lylyth thought. If it is something bad... A glowing 6 foot long Mana sword formed in her hand and she stood up to her full 9 foot 2 inches of height. I will know the reason why.
+
+*
+
+“Good work, everyone!” Frikara said, and the other maids collapsed to their knees on their impromptu training grounds. “Hey, I didn't say we were done!”
+
+“Ugh!” The maids grunted, and both Donna and Frikara laughed.
+
+“Well, it is getting late.” Donna said. “Let's call it a day.”
+
+“Thank the gods!” Lusinia said and managed to stand up, even though she was exhausted. “I need to sleep!”
+
+“I claim pillow status.” Navruth said. “Your heads resting on me will be a welcome massage.”
+
+The maids tried to laugh, but it came out as a series of grunts.
+
+“Come on, everyone into the cart.” Donna said and helped them climb in. “I'll get you home in time for supper.”
+
+“I'm too tired to eat.” Verwynn said.
+
+“Oh, no!” Andrela said and hugged her friend. “You broke poor Verwynn!”
+
+Frikara laughed and climbed into the passenger seat, and Donna sat in the driver's seat. The cart pulled away from the small field that was beside Ren's warehouse next to the dock where his ship used to be. They drove into the starter city of Aurora through the North Gate and down the street, and over to the Housing District. Donna dropped them off at their house and they went inside.
+
+“How was it?” Railyse asked the first maid she saw.
+
+“Torture.” Lusinia said as she stumbled up the stairs. “Absolute torture.”
+
+Railyse smiled as the other maids went by, and Frikara stopped to talk.
+
+“How are you, Railyse?”
+
+“I'm fine.”
+
+“Are you sure?” Frikara asked.
+
+“I'm going to have several large fish delivered within the next day or so.”
+
+“You won't even consider my offer to be Ren's substitute?” Frikara asked.
+
+Railise touched her cheek and smiled. “I'm sorry. Even if I decided to accept it from you, we are not compatible in the least.”
+
+“Is that really important?”
+
+“Should I insult you further and say that I would be ill if I tasted your blood?” Railyse asked, and Frikara sighed.
+
+“I really can't measure up to him, can I?”
+
+“Be yourself, and not a surrogate for Ren.” Railyse said and took her hand back. “You will come into your own strengths, and you won't have to emulate him.”
+
+Frikara smiled. “Thank you.”
+
+“No, Frikara. Thank you.” Railyse said. “Though I must decline, I am still honored by your offer.”
+
+Bosltered by Railyse's words, Frikara nodded to her then followed the other maids up the stairs. When she arrived in the bedroom, she saw that they were already asleep. Navruth really did lay across the top of the bed as the pillow, and Lusinia and Verwynn had their heads on her thigh and calf respectively, and Andrela had her head on her abdomen. Frikara smiled as she stored her clothing, climbed up onto the bed, and laid her head down on the space between Navruth's abdomen and her chest.
+
+Despite being so tired that they didn't want to eat, they were also quite happy. Frikara had been surprised at first when Anabelle had vehemently denied any interest whatsoever in going the route that the other maids had chosen. She said that she knew her worth to Ren and didn't have anything to prove to either herself or him, and Frikara hadn't pressed her.
+
+Fighting is just not in her blood like it is in ours. Frikara thought, and then smiled. They had made a lot of progress in a really short time, and even if they didn't complete the rigorous training Donna had set for them before he got back, Frikara knew that Ren would be proud of them for trying something new while they waited for him, and fell asleep like a switch had been thrown. She was just as exhausted as the others, but had hid it well.
+
+********
+
+Elise had left the tech department after another attempt at a fruitless argument with Max. She had gone up to her desk in front of the boss' office, quickly typed up a memo, and sent it to him. A few minutes before quitting time, her boss Edward Torren, came out of his office.
+
+“Ms. Stanford.” Edward said. “Come in.”
+
+“Thank you, sir.” Elise said and walked into his office.
+
+“I can't do anything for Ren.” Edward said as Elise sat down in front of his desk.
+
+“But, sir!”
+
+“He's stuck there until he completes it.” Edward said and took his own seat behind the desk. “I have to give Max credit, though.” He chuckled. “Using villain requirements to shift a non-villain character into the villain training camp was a neat little loophole to find and exploit.”
+
+“Mr. Torren.” Elise said and held her anger in, but he could see her grimace. “Ren is not a villain.”
+
+“It doesn't matter now.” Edward said. “I'm sorry, Elise. I'll have that exploit plugged as soon as possible, but that's as much as I can interfere in the matter.”
+
+“Can you at least give him the reward you promised him after the game denied him all of the XP and levels he should have gotten?” Elise asked. “He's been waiting a long time for it.”
+
+“I still haven't thought of anything that won't mess his character up.”
+
+“I have.” Elise said and handed him a small piece of paper.
+
+Edward took it and read what was on it. “You... can't be serious.”
+
+“I know you'll have to put some extreme limitations on it, but... it would be appropriate.”
+
+Edward thought about it, about the implications it could have, and then smiled. “All right.” He said, crumpled up the paper, and tossed it in the trash. “This won't impact his character development, or fundamentally change his role, so thank you for that.” He said. “I'll even write the caveat myself.”
+
+“Thank you, sir.” Elise said and stood up. “When will he get it?”
+
+“First thing in the morning, right after he logs back in.” Edward said and smiled. “I assume you're going to surprise him with the news.”
+
+“I might.” Elise said. “It all depends on if he dies from corruption again.”
+
+Edward sighed. “You know why we have that in there.”
+
+“Yes, it's to curb the players automatic 'kill it' response.” Elise said. “Ren doesn't have that response normally, so it's been... a lot harder on him having to deal with certain situations.”
+
+“I'm keeping a very close eye on his progress to see the difference in his responses from the normal ones.” Edward said. “When you see him, tell him I admire his restraint.”
+
+“I will, sir.” Elise said and left the office. She sat down at her desk and the clock struck 5 o'clock. She gathered up her things and quickly left the building, drove back to her place, and had a quick shower. She gathered up a change of clothes for work the next day, dressed in a pair of jeans that she thought Ren would like, and put on a thin blouse. You could clearly see her bra through it; but, she knew Ren would like that, too. She finished drying her hair and fluffed up the natural curly waves in the mirror, grabbed her bag with the change of clothes, put on her jacket and picked up her purse, then left her place to drive across the city to see her favorite person in the world.
+
+********
+
+Ren woke up without any kind of prompting, and he sat up to stretch. When he looked out the arrow slit, 4 sets of red eyes looked back at him.
+
+Good morning, Teepo. Ren thought and got out of bed.
+
+“Good morning.” Teepo said. “Nothing to report, except the rotating succubi spectators.”
+
+I really cut down on their viewing options with the big walk in icebox, didn't I?
+
+Teepo chittered in laugher. “Was that a detriment or a bonus?”
+
+Bonus for me, detriment for them. Ren smiled and equipped his armor as he walked down the stairs. He thought about eating, then shrugged. It wasn't taking anything from his Health yet, so he didn't bother wasting the food. He took out the All-Seeing Mirror and asked it what the next section of the cavern had in it, and nothing popped up.
+
+Well, at least the succubi were thorough. Ren thought. Thinking about them stomping on all those chicks and eggs... He shivered. Nope, I definitely couldn't do that.
+
+“Me, either.” Teepo said. “At least you don't have to make that decision now.”
+
+What do you mean?
+
+“I can only assume as we progressed through the next section of caverns, we would have been constantly attacked by harpies.” Teepo said. “Now we're free and clear to face any other threat on this level.”
+
+What you're saying is, look on the bright side. Ren thought.
+
+“Is there any other side you want to look at?” Teepo asked, then chittered in laughter. “I guess you would if it had a backside.”
+
+Ren chuckled and put the All-Seeing Mirror away as he stepped out of the Instant Tower.
+
+“Ren, please.” Zunala said. “Accept my apology.”
+
+“You don't have to apologize.” Ren said. “I'm still going to get you out of here and build you a home you can be happy in.”
+
+“Ren...”
+
+“What emotion would you like today?”
+
+“I... I'm not...”
+
+“Don't lie.” Ren said.
+
+“Anguish.”
+
+Ren tilted his head to the side. “You're trying to punish yourself?”
+
+“Yes.”
+
+“It's your choice, but I know from personal experience that it tastes awful.”
+
+“It does.” Zunala said.
+
+Ren thought about the last time he had met Lucy in the game and their interactions, and how much she had hurt him; then he held a hand out. Zunala took it and Ren shoved it all into her ability to fill it up.
+
+“AGH!” Zunala yelled and let go, then put her hands over her stomach. “That... was horrible.”
+
+“I warned you.” Ren said and turned to the next succubus. “Hi, Ellaria.”
+
+“Hi.” Ellaria said and ducked her head. “Passion, please.”
+
+Ren thought about the first time he had slept with Nathalia, and how frantic they had been. He held a hand out to Ellaria, and she took it. He quickly funnelled the passion he had felt into her and filled her ability.
+
+“AH!” Ellaria said and let go. She dropped to her knees and held onto her stomach as well. “So... so much!”
+
+“Who's next?” Ren asked, and each of the succubi asked for what they wanted, and he filled them up. When he was done, he could see all of their eyes glowed and he could feel them in his Aura. I guess that the more I feed them, the longer I'll be able to feel them afterwards.
+
+“That makes sense.” Teepo said. “The more they take from you, the more of you they have in them.”
+
+I don't know if they would prefer that, considering our current situation. Ren thought.
+
+“You could ask them if that's what they want.” Teepo suggested.
+
+No, I don't want to detect a lie. Ren smiled. I'm steeping myself in ignorance for now.
+
+Ren used the Staff of Earth to drop the protective walls and stored both Instant Towers, then waited until the glow in the eyes of the succubi faded. He couldn't feel them in his Aura anymore, either.
+
+“Are we ready to head out to the next cavern?” Ren asked.
+
+The succubi nodded and stood up almost as one, and Ren took out the Wand of Transport. He cast two skeleton-like Phantom Steeds for the skeleton knights, then cast his own Phantom Steed. It still had the neck and chest damage, and Ren pat it as he climbed up onto the saddle.
+
+“Let's go.” Ren said, and they all flew out of the safe zone and up the next tunnel. I'm surprised there's not multiple tunnels to go through. He thought.
+
+“Maybe they didn't want any confusion over where to go.” Teepo said.
+
+Or they're luring us into a false sense of security. Ren thought in amusement as they came out into the first cavern where the harpies would have attacked. He brought everyone to a stop in the air when he thought of something, and took out the All-Seeing Mirror again.
+
+“Show me the Lost Knights skulls in this cavern.” Ren said, and three skulls appeared on the map. “Nice.” He said. “Seldanna and Wynphine, get that one.” He showed them where it was. “Be careful with it.”
+
+“Right away!” Seldanna said, then she and her sister took off to retrieve it.
+
+“Ellaria and Miastina, grab this one.” Ren said and showed them where it was. They left and he looked at Zunala. “According to the map, this is the most difficult one to get to.”
+
+“I will succeed.” Zunala said. “Kelfaren, let's go.”
+
+The two succubi flew off and Ren waited with the rest. Surprisingly, they all returned within moments of each other with the three skulls. Ren checked the All-Seeing Mirror again, and it was the right skulls.
+
+“Thank you.” Ren said and stored the skulls, and checked the All-Seeing Mirror for what was in the next cavern section. It showed him a black kangaroo-like creature with a huge single eye in it's head, and huge talons on it's hands and feet.
+
+“That looks bad.” Teepo said.
+
+What is it? Ren asked.
+
+“I have no idea.” Teepo responded. “I haven't seen any beetles in the caverns so far, either.”
+
+Maybe they were all smart enough not to come here. Ren said and Teepo chittered in laughter. Ren tried using Identify on the creature, and all he received was a popup for the All-Seeing Mirror. I guess we have to go in blind, despite how much I hate doing that. He thought.
+
+“Stay cautious and up high.” Teepo said.
+
+What about the stalactites on the top of the cavern? Ren asked.
+
+“Use the Staff of Earth to move them out of the way.” Teepo suggested.
+
+Good idea. Ren thought and took out the staff. He played around with just shifting the dirt and rock to the side so it would move the stalactites out of the way, when a ripple of dirt broke one of the stalactites off and it fell down to the cavern floor and shattered.
+
+“Whoa.” Teepo said. “Are you thinking what I'm thinking?”
+
+If you're thinking that we have a huge area-covering natural weapon at our disposal, then yes. Ren thought happily and looked at the succubi. “Activate your Displacement enchantments and let's go!”

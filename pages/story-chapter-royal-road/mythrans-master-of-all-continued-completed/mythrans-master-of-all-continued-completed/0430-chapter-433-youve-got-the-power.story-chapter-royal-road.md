@@ -1,0 +1,273 @@
+---
+id: 4d946ca9-a608-5c66-8a3c-1fd25cfabe23
+page-type-slug: story-chapter-royal-road
+title: "Chapter 433 - You've Got The Power"
+slug: 0430-chapter-433-youve-got-the-power
+partOf: mythrans-master-of-all-continued-completed
+position: 430
+ownLength: 3276
+unit: words
+publishedAt: 2017-11-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176553/chapter-433-youve-got-the-power"
+royalRoadId: "176553"
+---
+
+I wonder how long she's going to be? Ren thought.
+
+“She covered the tunnel in shadows again, so I have to assume it'll be at least a little while.” Teepo said.
+
+I think you're right. Ren took out his shop tower again and went inside, put more ore in the smelter, and skimmed off the impurities. He stirred it quickly and waited, then made 6 slightly oblong bracers and gave them the same enchantment as his shield, then used Double Infusion to make them a set. He used Spider Silk cloth to line the inside of them, as well as the item he had made earlier.
+
+Now that he had a bit of time on his hands, he thought he should thank the Marilith demon for not killing him, and made a nice diamond necklace. He enchanted each diamond with Protection to add to her Armor value, and then enchanted the large diamond in the center with the modified Natural Armor enchantment. It would give her the benefit of wearing heavy armor and +100% Defense to her armor value, and she could still wear normal armor besides it.
+
+Ren held it up, and the diamonds flickered with reflected light from the forge. I kinda feel bad for the next Adventurer she meets. He thought, then chuckled because this was the villain training camp. Okay, maybe I shouldn't feel bad.
+
+Teepo chittered in laughter and Ren stored the bracers and necklace. He went back outside and deactivated the shop tower, then stored the 2 inch wide cube. He had finished just in time because the Marilith demon slithered out of the tunnel and carried 6 huge sacks.
+
+“Holy crap!” Ren said as she put the sacks in front of him. “You might have a skull or two?”
+
+His reaction made her laugh, and she felt how happy he was as he carefully dumped out one of the sacks.
+
+“I hope this works.” Ren said and picked up the first skull. Nothing happened and he tossed it back into the sack. He did this for several minutes, and then he felt a tingle go up his arm as a ghostly knight appeared in front of him. He felt the Marilith demon's shock, and he knew that she could see it, too.
+
+“You have defeated that which has slain me.” The ghost said as a portal appeared behind him, and he looked at the Marilith demon. “I would have preferred that it was slain as well; but, beggars can't be choosers.”
+
+The Marilith demon's mouth dropped open as the ghost knight told Ren that he could raise his remains, then it stepped through the portal and disappeared.
+
+“That... you...”
+
+“At the time, I didn't notice that when you spotted everyone in the cavern, you didn't look at either the Phantom Steeds or the two skeleton knights.” Ren said and stored the Lost Knight skull and picked up the next skull. “I guess that's because you're so full of life and seek heat, that you ignore anything that won't give it to you.”
+
+“What... what are you saying?”
+
+“I'm telling you to use your Spot skill on anything close to you, and not just on the living things your Heat Sense can pick up.” Ren said and tossed several more skulls in the bag before he found another Lost Knight skull. After it said it's piece and he stored it, he stood up and put a hand on the Marilith demon's closest arm as he looked up at her. “Please, be more careful in the future.”
+
+“You... really do care about me.” The Marilith demon said, and Ren could feel how touched she was.
+
+“Well, I don't go around and kiss every woman I meet.” Ren said and grinned. “I've kissed a lot of them, but not every one.”
+
+She laughed and used a hand to stroke the side of his head. “Dear one, I should force you to ravish me; but, I think you should just hurry up and finish sorting the skulls instead.”
+
+“Oh, right!” Ren said and stored the finished sack and dumped out the next one. “Geez, I have got to stop being distracted by beautiful women.”
+
+The Marilith demon could feel that he was telling the truth and believed what he said, and she watched in fascination as he worked without speaking and sorted through 4 more of the sacks of skulls. He found 3 more skulls, and when the last ghost stepped through the portal, he stored the skull.
+
+“Ha ha! That's 10!” Ren almost yelled.
+
+Optional Quest Complete!
+
+You have found and released all 10 Lost Knights, and they have once again been reunited. Completion Bonus: x2
+
+Rewards: 20,000 XP (10,000 x 2); Light Affinity +20% (10% x 2)
+
+“Thank you so much!” Ren said and gave the Marilith demon a hug. Her arms wrapped around him automatically and hugged him back.
+
+“What kind of villain are you?” She asked, and Ren laughed.
+
+“I'm not a villain.” Ren said, and she stopped moving.
+
+“Wh-what?”
+
+“I'm actually supposed to be participating in another event, but was sent here by mistake.” Ren said.
+
+“You... it can't... but...”
+
+“I was shocked, too.” Ren said. “I woke up here instead of in a nice comfy bed.” He smiled. “It's been an odd experience going through all of this, let me tell you.”
+
+“Wh-why aren't you angry?” She asked, slightly outraged. “Why aren't you smashing everything in sight?”
+
+Ren looked a her with wide eyes. “What would that accomplish?” He asked her. “I'd still be stuck here.”
+
+“But...”
+
+“Plus, if I'd done that, I would have just attacked and killed you.” Ren said and then smiled. “I would be sad that I would have missed meeting someone like you.”
+
+“You... really would be sad.” The Marilith demon said. “But... I'm a villainous monster! I kill and eat people!”
+
+“Well, nobody's perfect.” Ren said, and she laughed.
+
+“No wonder my sister accepted you as her consort.” She said. “Should I try to steal you away from her?”
+
+“I don't think she would let you.” Ren held his right hand up and showed her the Dark Elf Queen's mark on the back of it.
+
+“So, she's leeching from you.”
+
+“Only my emotions.” Ren said, and then his mouth dropped open. “Oh, no.”
+
+“What is it, dear one?”
+
+“I haven't felt her take anything at all for the entire time I've been here.” Ren said. “She must be so worried, and I didn't even think of having someone send her a message or even telling someone that she might want to know what happened to me.”
+
+“I'm sure that if you explain, she will understand.”
+
+Ren sighed. “I hope you're right.” He said. “I don't want her to be angry at me for something that was out of my control.”
+
+What Ren didn't know was that Lylyth was thinking the same thing about him.
+
+“I've known her for a long time.” The Marilith demon said. “She will do one of two things. She will ignore it and tell you that it was nothing, or she will tear a strip from your hide.”
+
+“What would you do?” Ren asked.
+
+“Honestly? I would do both.” She said. “I'm more of a sadistic bitch than she is.” She felt disbelief from him, and her eyes widened as Ren stepped close and gave her another hug, and he squeezed her tightly.
+
+“I don't believe either of you are like that.” Ren said. “You act that way because everyone expects you to; but, that's just your public face.” He looked up at her. “Don't get me wrong, I'm sure you have your moments of completely irrational behavior and can be a sadistic bitch; especially if people attack you as soon as they see you.” He grinned. “You aren't like that all the time, though.”
+
+She shook her head in disbelief and bent down to kiss the top of his head. “You're delusional.” She said. “I've wanted to bite you and flood your body with my venom the entire time you've been here.”
+
+Ren laughed, and she felt his genuine amusement. “You just made my argument for me.” He said, then climbed up her arms. She straightened up as he did, and he stopped when his face was level with hers.
+
+“Wh-what...”
+
+“You could have killed me at any time during all of this.” Ren said as he cupped the sides of her face and leaned in to kiss her tenderly. “You didn't.”
+
+The Marilith demon could feel how he felt, and it warmed her heart a little. She was amazed that this little man could illicit such feelings from her, and then she realized what he was doing.
+
+“Did you just climb me like a ladder?” She asked, and Ren raised a single eyebrow at her. She chuckled when she felt his dismay that she was thinking about that and not the kiss.
+
+“It was more like a spider, actually.” Ren said and winked at her, and she laughed.
+
+“Well, you better skitter off before I squash you, you little bug.”
+
+“Not before I bestow upon you a gift for not killing me.” Ren said and let her face go. His feet counted as two points of contact on her lower body, so he leaned back and took out the large diamond necklace he had made for her.
+
+“Wh-what... what is that?!?” She asked, and he felt how shocked she was.
+
+“It's a diamond necklace.” Ren said. “This big middle stone is enchanted with Natural Armor, so you'll benefit from wearing heavy armor without actually having to wear any.” He said. “These smaller ones to the side are enchanted with Protection to give you +100% Defense to your armor value. I was tempted to use some Terror runes; but, I thought that was kind of pointless.”
+
+She didn't know what to say. She had gained some very nice loot ever since she had started encountering Adventurers; but, no one had ever given her a present before.
+
+“Can you equip this for me?” Ren asked, and she took it and equipped it. She was covered in a slight glow for a second as the enchantment took effect, and the hands of her two middle arms touched the scaled up version of the necklace that was hung around her neck.
+
+“Great Vasalor.” She said, as the diamonds sparkled. “You... I can't believe that...” Two of her other hands touched the sides of his head and her thumbs rubbed his cheeks. “I think I love you.”
+
+Ren chuckled. “Now you've done it.” He said and touched her cheek. “What are you going to say when I give you these?” He took out a pair of bracers and held them out to her.
+
+The Marilith demon took them tenderly and equipped them on her upper arms. “Oh, my.”
+
+“It has a Sunder enchantment; so, if anyone attacks you with a weapon, just block with them and it should disarm them.”
+
+“Why... this...” She looked at her two upper arms with wonder, then Ren took out another pair. “You didn't!”
+
+“Of course I did.” Ren grinned as she took them and equipped them, and he handed her the last pair to complete the set. “You have 6 arms, so I wasn't going to give you only 2 of them.”
+
+She equipped them all and she stared at them, then at Ren. “You're unbelievable.”
+
+“Not yet I'm not.” Ren said and jumped down. “It irks the hell out of me to see shoddy metalwork, and since I broke your armor, I had to replace it.” He said and took out the item he had made.
+
+“NO!” The Marilith demon gasped when she saw the extra large modified breastplate, with 6 armholes and shoulder pads, and it was segmented in pieces both in front and in back.
+
+Ren held it up and moved it in and out like an accordion. “With the hinges and rivets placed in strategic places, this armor will cover you from breast to private area...” He turned it side to side to show it's full range of motion. “...and won't impede your movement whatsoever.”
+
+Her hands reached out for it, then she pulled them back. “It's a trick! You're trying to trick me, somehow!”
+
+Ren put the piece of armor down on the ground and stepped back. “It also has the Sunder enchantment, so that when anything physical hits it... like arrows, swords, pikes, spears, or anything else...”
+
+“I can't believe...” She reached down and picked it up. “Why would you do this?”
+
+“It irked me.” Ren said, and he felt how much she loved the piece of shiny metal. “I hate seeing horribly-made armor, and I have to fix it.”
+
+“But...” She equipped it, and it fit perfectly. “You've made me almost impervious to attack.”
+
+Ren smiled, and she felt his mischievousness.
+
+“What am I missing?” She asked as she started to move around to test the armor, and it really did move with her, and didn't stop her flexing or twisting. This thing is amazing!
+
+“I don't think I should say.” Ren said, and she stopped moving, then quickly slithered over to him and grabbed his legs with her lower arms, his waist with her middle arms, and his shoulders with her upper arms.
+
+“Tell me.” She put her face right in front of his and sneered at him. “Now.”
+
+“You're kind of cute when you're angry.” Ren said and kissed the tip of her nose. Her face flushed red immediately, and he felt her churning emotions and couldn't tell what she was actually feeling. “Isn't it obvious? You're still vulnerable to magic attacks.”
+
+The Marilith demon smiled evilly, then let him go and slithered 10 feet away. A moment later, she was surrounded by a bright blue Mana Shield.
+
+“Oh, nice!” Ren said and activated his own. “I have that, too!”
+
+“Wh-what?” She stared at the smaller Mana bubble around Ren. “How can you... you're only level 83!”
+
+Ren laughed. “I get new things almost every time I level now.” He said, then sighed. “Except for the last two times, because I didn't get anything.”
+
+She deactivated her skill and slithered over to him, because she could feel his disappointment. “That bothered you.”
+
+Ren nodded and deactivated his skill. “It shouldn't, since it's happened before; but, this time it... it felt empty... when I leveled and nothing happened.”
+
+“Dear one, may I?” She reached out and put a finger on his forehead. Ren nodded, and she slid down to put her forehead against his. He felt dozens of probes in his head, and then he felt her satisfaction.
+
+“You have a hidden recipe that you must discover.”
+
+“What?” Ren said, surprised. “I thought I found everything!” He brought up the last series of popups he had received about it, then compared it to his level up popup that had all those hidden things in it. “Well, damn.” He said. “I'm still missing a Wondrous Item recipe.” He dismissed the popups and sighed. “How do I find a recipe for an item that I don't have, or know the ingredients to?”
+
+“You can use the All-Seeing Mirror to look.” Teepo suggested, and Ren took it out.
+
+“Show me the ingredients I need for the hidden Wondrous Item recipe.” Ren asked the mirror, and his inventory popped up and showed him pieces of every creature that he had looted in Shargon Caverns so far, pictures of several other creatures, and most prominently Marilith demon snake scales.
+
+“So, I am one of the things you need.” She said in a deep husky voice, and Ren looked up at her. “Is that desire I feel from you?”
+
+“Would you be insulted if I said it's only for your body?” Ren asked, and she chuckled.
+
+“That you mean that means more to me than you know.” She said. “Shall I dig some of my scales off for you?”
+
+“Actually, if it's not too much trouble, can I just have some of your shed skin?” Ren asked. “That way you don't have to hurt yourself, and I can still get a snake scale for this weird recipe.”
+
+She nodded and slithered over to her tunnel.
+
+“I need another piece of bacon, too!” Ren said, and one of her hands waved before the shadows covered her. He looked over at the closest succubus and took out an empty potion bottle. “I know this won't be very lady-like; but, can you spit into this for me?”
+
+The succubus crawled over to Ren and stayed as low to the ground as she could. He held the bottle out to her, then she put her lips on it and a pile of saliva came out of her mouth.
+
+“Thank you.” Ren said, and she closed her mouth and quickly crawled back to her hiding place.
+
+“Does it say you need something from the Pixies?” Teepo asked.
+
+Thankfully, no. Ren thought. I'd never be able to get it during this trip if it did.
+
+Ren looked at one of the skeleton knights, and it walked over to him. “The tip of the little finger should be enough.”
+
+It snapped the whole finger off from the hand and handed it to him, and then the finger reformed almost immediately.
+
+“That was a bit much; but, thank you.” Ren said and the skeleton knight went back to stand behind it's barrier. The Marilith demon came back out of her lair with a very large piece of partially translucent snake skin and a big chunk of meat.
+
+Ren carefully took the snake skin from her and slowly ran his hand over it. “It's so soft.”
+
+Her face flushed to a deep red as Ren caressed the skin and scales. “That's... very erotic.”
+
+“Hm?” Ren blinked his eyes at her. “Oh, sorry.” He said and stored it. “I get distracted by beautiful things sometimes.”
+
+His frank honesty made her blush even harder, and he took the piece of boar demon meat from her and shoved the end of it into his mouth and started to chew.
+
+“Wh-what are you... but, I thought...”
+
+“I only need a little piece.” Ren said and cut a small piece off the other end of it. “I'm not letting the rest go to waste.”
+
+She laughed as he put the end of the meat back into his mouth and he started to chew on it again. He stored the last ingredient and received a popup.
+
+Notice!
+
+You have revealed the hidden Wondrous Item recipe: Corrupted Helm of Limited Polymorph (Singular). This helm will allow you to temporarily transform into other humanoid-type creatures used in the creation of the helm.
+
+Time limit: 5 minutes
+
+“Whoa.” Ren said.
+
+“What is it?” The Marilith demon asked.
+
+“I... probably shouldn't say.” Ren said and dismissed the popup. She was about to grab him again and he held a hand up to stop her.
+
+“I don't want to tease you with what it might mean.”
+
+“I will deny you passage, unless you tell me.” She said.
+
+Ren sighed. “But... I don't want to hurt you.”
+
+“Is it a massive weapon? A special bracelet of the Void? What?”
+
+“No, it... it's much worse.” Ren said.
+
+The Marilith demon slithered close and looked at him with pleading eyes. “Please, just tell me.”
+
+“It's a recipe for a helm.” Ren said.
+
+“Well, that doesn't sound so bad.” She said. “What does it do?”
+
+“It grants the wearer a limited 5 minute Polymorph ability to change into the humanoid creatures used to make the helm.” Ren said.
+
+The Marilith demon stopped breathing as she stared at him with an open mouth, and then she fainted.

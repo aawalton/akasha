@@ -1,0 +1,269 @@
+---
+id: 1c179a49-7815-536b-90c1-3e8f9c620b6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 466 - No One Talks About Fight Club"
+slug: 0466-chapter-466-no-one-talks-about-fight-club
+partOf: mythrans-master-of-all-continued-completed
+position: 466
+ownLength: 3195
+unit: words
+publishedAt: 2017-12-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183269/chapter-466-no-one-talks-about-fight-club"
+royalRoadId: "183269"
+---
+
+“Why would you get me a woman for my birthday?” Ren asked.
+
+Elise laughed and the blonde woman blushed.
+
+“This isn't funny.” Stella said.
+
+“It is, since it's a huge misunderstanding.” Elise said. “Ren, look at the folder underneath the portfolio.”
+
+Ren put the portfolio aside and underneath it was a folder. Inside the folder was a job application with a resume attached, a photo, and references.
+
+“What is this?” Ren asked and flipped through the papers without really reading them. “A publicist?” He asked and looked at Elise. “What do I need a publicist for?”
+
+“To manage your public persona, your appointments, guest appearances, social media accounts, public inquiries, and everything else that needs to be handled.”
+
+“But... I don't have any of that.” Ren said, and then thought about the job description. “Hold on, that sounds more like a personal assistant than a publicist.” He said, and looked at the woman. “I recognize you now! You're Barbi, with an 'i' and no 'e', that I met at the television station.”
+
+“Yes, that's me.” Barbi said and stepped forward and held a hand out. Ren put her resume down and took her hand, gave it a perfunctory shake and let go. Her face twitched as if she had expected him to do something else, and then she put the smile back on her face.
+
+“I'm sorry for the misunderstanding.” Ren said. “I'm in a bit of a bad mood because someone I care about is ignoring me on my birthday.”
+
+Elise looked around, and sighed. “Gloria.” She said. “I thought she was just late.”
+
+“We can't get a hold of her.” Stella said.
+
+“I've got one thing I can try.” Ren said and looked at Denise. “Can you take me back to my room, please?”
+
+“Sure, Ren.” Denise said and took control of the wheelchair.
+
+“I'll be back in a few minutes.” Ren said and Denise took him out of the room and to the elevator.
+
+“What are you going to do?”
+
+“I'm going to see if she's in the game.” Ren said. “If she is, I'm going to find her and ask her why she's doing this to me.”
+
+“Ren, don't be too confrontational.”
+
+“Oh, I won't be.” Ren said. “I'm just going to see what's going on, then maybe drag her out of there.”
+
+Denise shook her head. “You can't force people to do things like that.”
+
+“I'm not going to force her to do anything.” Ren said. “I won't even ask for a response.” He said and got on the bed. “All I'll do is tell her that I'm taking time away from the rest of you to find her, when she should have been here in the first place.”
+
+Denise handed him the VR headset, and he laid back on the bed. “Good luck, and I hope it doesn't backfire on you.”
+
+“It doesn't matter.” Ren said and put the headset on. “Either way, she'll know she's in the wrong.”
+
+“Flow Login Start!”
+
+********
+
+Ren woke up on the bed and saw the maids were asleep. He activated Sneak and stood up, then donned his cloak and walked over to the bedroom door. Teepo landed on his shoulder and Ren left the apartment as he took out the All-Seeing Mirror.
+
+“Show me Elerlyth.” Ren said, and saw Elerlyth. She wasn't wearing the armor he had given her, and she was covered in bruises. She was also surrounded by fighters who also didn't have armor on, and had far less bruising on their bodies. One of the men stepped forward and started to fight with her, and Ren gained the Angered Condition. His personal Aura was Augmented with Fear automatically.
+
+“Zoom out and show me where she is.” Ren said as a frown spread across his face.
+
+The All-Seeing Mirror zoomed out to show him that she was in a courtyard in front of a stylish house in the middle of a large clearing, and it zoomed way back to show where she was on the map. He walked down the stairs and went outside, then knocked on Princess' house.
+
+“Please accept my apologies for waking you, but I need you to take me somewhere.” Ren said, and Princess came out through the door. “Elerlyth is in trouble, and I'm going to see why she's there and not dealing with Adventurer's business.”
+
+“Say no more, My Lord.” Princess said and he showed her the map. “I am always at your service.”
+
+“Thank you.” Ren said and climbed up onto the saddle. “I'm sorry I didn't think of looking for her before I left.”
+
+“No matter.” Princess said and trotted up into the air. “We will be there momentarily.”
+
+They ran across the sky and came to a stop just above the stylish house, which was now well within his large Aura, and Ren stepped off of Princess and dropped down into the courtyard. Most of the fighters had felt him and backed off while they dragged their fellows with them, and Ren landed on the ground with a loud thud. He hadn't eased the landing at all with his Permanent Air Walk spell, and left a small crater when he stepped towards the fight.
+
+A man that sat off to the side started to speak. “Who would dare to intrude...”
+
+“QUIET!” Ren commanded as his Command Aura snapped into place. He walked over to the fight and used one hand to grab the man fighting Elerlyth, and casually tossed him across the courtyard to smash into the other fighters.
+
+“Ren! What are you doing?”
+
+“I was going to ask you the same thing.” Ren said, a little angrily. “What the hell is going on?”
+
+“I'm busy.” Elerlyth said.
+
+“I can see that.” Ren said and looked around. “Why are you busy like this?”
+
+“It's my fault.” Hailey said, and Ren looked over at the stylish house. Three chairs were there, and a burly muscular man sat in the middle chair, the woman who spoke sat next to him, and the other chair was empty.
+
+“Explain.” Ren said and crossed his arms.
+
+“I was caught in a...” She looked at the man beside her, then back at Ren. “...sticky situation, and called Elerlyth for help.” She said. “She came to my rescue and tried to fight her way in...”
+
+“...and I lost.” Elerlyth said, and Ren looked at her. “He killed me right after I had set my spawn point for here, and when I came back and tried to get my dropped armor...”
+
+“They captured you instead.” Ren shook his head. “How could you be so stupid?”
+
+“Ren...”
+
+“No.” Ren said and looked at the burly man. “Identify Person.”
+
+Status
+
+Name  Scott Pilgrim  Level  180
+
+Gender  Male  Class  Fighter
+
+Race  Human (NPC)  Fame/Infamy  1,000/-5,000 (Notorious)
+
+Titles
+
+The First Fighter Trainer - Grants Command Aura, +25% Bonus to all Unarmed Skills used within Aura
+
+Health  1,334  Mana  698
+
+Strength  215  Dexterity  145
+
+Vitality  135  Agility  125
+
+Endurance  135  Intelligence  80
+
+Luck  10  Wisdom  75
+
+“Why are you still here, Elerlyth?” Ren asked and activated his Heat Sense for an instant to see if anyone else was there, and only who he could see was present.
+
+“I can win both mine and Hailey's freedom if I fight through the ranks of fighters, earn a fight with the teacher, and then...”
+
+“Fine.” Ren said and pulled her out of the way, activated the enchantment in the ruby on his chest, and a foot wide solid beam of red light came out. He directed it at all the fighters that stood around the courtyard and swept it across them. The beam cut them all in half in only an instant. Both Elerlyth and Hailey's mouths dropped open at the sight, and Ren deactivated the beam. He turned towards the head fighter, who already had his hands up.
+
+“I surrender! I surrender!”
+
+“It doesn't work like that.” Ren said. “You can only surrender if there are set rules in place during a fight, and I never started or accepted one.” He said and hit the man in the face with the beam and destroyed his head. The body slumped and slid off the chair to land on the ground. “I won't get much experience for this, though.”
+
+Notice!
+
+You have killed legitimate fighters (and their teacher) outside of sanctioned ritual combat. No experience will be gained for such a callous act.
+
+Warning: Doing something like this again will earn you Infamy and reduce your Fame by an appropriate amount.
+
+“Make that no XP and a warning.” Ren said and dismissed the popup.
+
+“REN!” Elerlyth yelled, and he turned to her.
+
+“WHAT?” Ren yelled back.
+
+“How could you do that?” Elerlyth asked, and Hailey came over to them. “This was our quest!”
+
+“I don't care.” Ren said. “You got caught on purpose.”
+
+“Of course I did!” Elerlyth said. “I just told you what I had to do!”
+
+“You could have told me this before!” Ren exclaimed. “You could have even waited a day or two!”
+
+“What for?” Elerlyth asked and crossed her arms. “I don't have to work until tomorrow.”
+
+“Because today was my birthday, goddammit!” Ren nearly yelled.
+
+Elerlyths's face went from dark grey to ashen. “Ren, I...”
+
+“I had forgot about it, because of all the extra time I've spent in the Water Realm.” Ren said. “When I logged out to eat lunch today, everyone had a surprise party ready for me.” He turned towards the stylish house. “Well, I thought everyone was there.” He said. “When I looked around to see who was there, can you guess who I didn't see?”
+
+Elerlyth didn't say anything, but he could feel her regret. Ren activated the beam on his chest and swept it back and forth over the house to cut it up. He stopped when it collapsed in on itself and became rubble, then turned back to face Elerlyth.
+
+“Stella has been trying to contact you, and you haven't been answering.” Ren said. “I had the bright idea to check in here for you before I sent someone over to see if you were all right, and lo and behold, here you are.” He said. “Fighting hand-to-hand with stupid NPCs that shouldn't even be looking at you, let alone hurting you like this.” He motioned at her battered and bruised body.
+
+“Ren...”
+
+“Is this why you wouldn't tell me what was going on?” Ren asked. “Is this why you snuck away and wouldn't ask for my help, because I wouldn't ever let anyone treat you this way and would kill them all if they tried? Is it?”
+
+Elerlyth didn't say anything, and Ren took out the All-Seeing Mirror.
+
+“Show me Hailey's hideout on the map, please.” Ren said, and the location popped up. “Oh, look.” He said and held it up for both Haliley and Elerlyth to see. “The excuse you gave me about not asking for my help, that no one else could know where Hailey stayed, was so easily discovered.”
+
+Hailey's mouth dropped open from shock, and she exchanged glances with Elerlyth.
+
+“Elerlyth swore she wouldn't tell anyone.” Ren said. “I respected her privacy and didn't follow her, or have her followed, or subvert her in any way.” He said. “Little did I know that this was what she and you had planned on doing.”
+
+Ren walked over to the rubble, pulled his foot back almost comically, and then kicked it as hard as he could. The sound of his foot hitting the rubble was shatteringly loud in the silence, and part of the remains of the house broke apart and flew up into the air as it scattered over several hundred feet. He proceeded to kick every bit of it and spread it all over, then took out his hammerpick. He used Enlarge and Reduce Everything on it to triple it's size, then tore up the house's stone foundation in mere moments. He stored the hammerpick and took out the Staff of Earth, then used it to smooth over the ground so that there was no trace of the stylish house whatsoever.
+
+Ren ran around and looted all the bodies in an instant, and ended at the decapitated fighting teacher. Elerlyth's armor, a piece of parchment, and several platinum coins appeared in his inventory, and he walked back over to the two women.
+
+“Oh, look.” Ren said. “I now own your armor.” He could feel Elerlyth's trepidation over the situation. “Armor I worked hard to make specifically for you, boosted to the best of my abilities at the time, and you let someone... no, you gave it to someone... who could have kept it and given it to anyone, long before you would have completed this quest.”
+
+Elerlyth opened her mouth to defend herself, then closed it. “You're right.”
+
+“Damn right I am.” Ren said. “I have half a mind to crush it, just so you could see that I can treat your things just as callously as you do; but, I'm not that petty.” He took the armor out and dropped it on the ground, then tossed the rest of the loot on the ground, too. “I'll let Stella know not to bother trying to contact you anymore.”
+
+“Ren...” Elerlyth looked down and saw platinum, gold and silver coins, high quality weapons and armor pieces, and the contract that Hailey had signed in a drunken stupor.
+
+“I hope you enjoy the fruits of your labour.” Ren said and looked at Hailey. “Just so you know, I would have done this for you instantly because of Elerlyth. I wouldn't have grumbled about it, or told you how stupid you were, or berate you because you dragged a loyal friend into your mess.” He said and smiled. “I can do that now, though.”
+
+Elerlyth couldn't believe Ren was saying these things, and she reached out to grab him. “What right do you have to-”
+
+“None, apparently.” Ren said and stepped back out of her reach. “I think you scared yourself when you finally admitted how you felt about me.” He said, and he felt her swirling emotions. “You've been staying away from me ever since, and then you go and get yourself involved in this stupid crap without telling me.”
+
+“That's because I knew how you would react!” Elerlyth nearly yelled.
+
+“Yeah, I would rush to your rescue and do anything to save you.” Ren smiled. “How horrible am I to do such a thing like that?”
+
+Elerlyth didn't respond, because she knew there wasn't a good answer for that question.
+
+“My birthday party is happening right now, by the way.” Ren said and waved up in the air. Princess landed beside him instantly and he climbed up onto her saddle. “Ignoring that, I thought you would be coming over to watch the show tonight.” He said. “I guess that was a faint hope, considering you would have been here for gods know how long.”
+
+“Ren...”
+
+“When you decide to stop ignoring me and my feelings, let me know, will you?” Ren asked. “I don't want to keep showing up out of the blue to check on you and see if you're okay.” He said. “You know, that thing that people who care about each other are supposed to do.”
+
+“Ren, I...”
+
+“I care about you so much, that I'm even going to let your friend heal your injuries and not do it myself.” Ren said. “Also, before I forget.” He said and took out the Wand of Transport and cast her Phantom Steed, Etheria. “I know it's my birthday today; but, I wanted to give you a gift the next time I saw you.” He used the Permanent Widen Effect spell on it to increase it's speed, then cast the Permanency spell on the steed.
+
+“Ren!”
+
+“I'm sorry, but I can't talk right now.” Ren said, and Princess trotted up into the air. “I have a party to get back to.” He said, and then Princess disappeared.
+
+*
+
+“WAIT!” Elerlyth said and climbed up onto her Phantom Steed and sat in the saddle. She flicked his reins, but the steed didn't move. “Go! We have to catch him!”
+
+Etheria shook his head and still didn't move.
+
+“Why won't you go after him?!?”
+
+“Probably because he knows they are long gone.” Hailey said. “You saw how fast he moved on the ground.” She said and walked over to the horse and pet it. “Now imagine how fast his steed is.”
+
+“Goddammit!” Elerlyth exclaimed. “I know where he's going, so let's go there!”
+
+Etheria turned it's head and motioned to the pile of loot.
+
+“Forget it! Let's go!”
+
+Etheria didn't move, and she climbed down from the saddle.
+
+“Ugh!” Elerlyth grunted and stomped over to the pile of loot and stored everything. She walked back to her Phantom Steed and handed Hailey the contract. She tore it up, since the previous owner was now dead, and then it disappeared.
+
+“Thanks, Elerlyth.” Hailey said. “Can you take me home?”
+
+“I can't, I have to go!” Elerlyth said as she climbed back up onto the saddle, flicked her steed's reins again, and it didn't move. “Come ON!”
+
+Etheria used his lips to pick at Hailey's hair, and it made her laugh.
+
+“UGH!” Elerlyth grunted again. “Fine! Get on.”
+
+Hailey climbed up and sat behind Elerlyth, and then the Phantom Steed reared back and flew up into the sky.
+
+“This is great!” Hailey said as she gripped Elerlyth from behind. “What a wonderful present!”
+
+Elerlyth didn't say anything, but she seethed inside. It's not my fault! I didn't know it was his birthday! She thought as they flew through the air.
+
+*
+
+Ren arrived back at the Main House and thanked Princess, gave her some food, and she went back into her house. “I better check the pool for Railyse.” He said and ran over to the site. It was nearly to the top, so he pulled the Ring of Water Walking off the Hand Of Glory and jumped into the water. He swam to the bottom and started to gather up the steel squares, and deactivated the water-producing enchantments as he stored them.
+
+Ren came back up to the surface and used his Water Manipulation skill to pull the water away from himself and tossed it back into the pool. He walked around the pool and used his Staff of Earth to make a small thin shelf just under the top ridge of the pool all along the walls. He changed the enchantments on the steel squares to Anti-water and placed them inside, and nothing but water could get into the small space.
+
+I can go and get Railyse and her water elementals tomorrow... oh, damn. Ren thought. I'm going to be gone for about two days.
+
+“That's okay.” Teepo said. “She knows you're busy.”
+
+Ren sighed and ran back to the Main House and went inside, activated Sneak again, then crept up the stairs and went into the apartment. The maids were still asleep, so he carefully took off the cloak and stored his armor, then laid down on the bed.
+
+See you later, buddy. Ren thought, and then whispered as low as possible. “Logout.”

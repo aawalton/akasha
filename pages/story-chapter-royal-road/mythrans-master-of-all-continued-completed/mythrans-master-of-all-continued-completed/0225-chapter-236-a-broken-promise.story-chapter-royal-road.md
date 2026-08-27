@@ -1,0 +1,399 @@
+---
+id: fc526051-27c6-5e47-9659-209721a40c8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 236 - A Broken Promise"
+slug: 0225-chapter-236-a-broken-promise
+partOf: mythrans-master-of-all-continued-completed
+position: 225
+ownLength: 3397
+unit: words
+publishedAt: 2017-04-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132345/chapter-236-a-broken-promise"
+royalRoadId: "132345"
+---
+
+Gloria gasped as she was kicked out of the game. “Goddamn piece of fucking trash!” She said as she took off her VR headset. “That fucking hurt! Grrrrr!” She growled and tossed the headset aside. “I am going to kill that bitch when I go back in!”
+
+********
+
+“Nathalia!” Ren exclaimed. “Why? Why did you do that?” He asked the hysterically sobbing woman that knelt on the floor only a foot away.
+
+“I...” *sob* “I had to!” Nathalia said. “I told you...” She cried and the tears soaked her face. “...you... you broke your solemn vow to me.” She wailed. “I had to!”
+
+Notice!
+
+Although you have not admitted it verbally, the woman you have a binding marriage contract with believes you have broken your word to her.
+
+Penalties Incurred: Influence: -5,000
+
+Honor: -5,000
+
+“By the gods...” Ren said as sadness gripped him. Nathalia killed Elerlyth because of me. He thought, then watched as Elerlyth's body dissolved away and left 2 platinum coins, a handful of gold coins, and some kind of lock. Ren stared at it, because he didn't know what else to do right then. He'd never seen anything like it before, and tried to pick it up. His hand went through it as if it wasn't there, and he looked at Nathalia.
+
+“You should collect your loot.” Ren said, his voice empty of emotion. Nathalia shook her head and wouldn't look at him.
+
+“I can't pick it up.” He said. “It was meant for you, whatever it is.”
+
+“I DON'T WANT IT!” Nathalia yelled, reached over and picked up the money and the lock. She had intended to throw it at Ren; but when her hand touched the lock, she froze. “What... what...”
+
+The lock changed into a small bright light, then flew into her chest. Nathalia gasped, and her eyes widened as she started to glow.
+
+“By the gods!” Nathalia said, and a moment later, the glow faded away to nothing.
+
+“What was it?” Ren asked automatically, but he didn't really want to know. He was kind of numb to everything at the moment.
+
+“It's... it's...” Nathalia shook her head, and stood up. “No, you... you don't deserve to know!” She said angrily. “Not now.” She ran from the room.
+
+“Nathalia!” Ren said, and followed her. He caught her at the second floor landing. “Wait.”
+
+“For what?” She asked him. “For her to come back and kill me?”
+
+Ren's eyes widened at that, and she smiled.
+
+“That's right, Ren.” Nathalia said. “She'll be back here tomorrow, and she's going to kill me.”
+
+“No, she won't.” Ren said, as the numbness of too many emotions to feel at once was wearing off. “I'll make sure she won't.”
+
+“How are you going to do that?” Nathalia said. “Your fiance just killed your girlfriend, and soon that girlfriend will be back to kill your fiance.” She sneered through her tears. “How are you going to stop her?”
+
+Ren took a deep breath and held it. “I'll do what I have to do.”
+
+“Then go do it!” Nathalia said, and tried to walk away. Ren had a hold of her arm, though. She stopped and looked at him. “Let me go, Ren.”
+
+“Nathalia...”
+
+“No, Ren.” She said. “I don't... I don't want to look at you right now.”
+
+“Nathalia, please.”
+
+“I said...” Nathalia extended her 3 inch long Mana Claws in front of his face. “...let me go.”
+
+“No.”
+
+Nathalia pulled her hand to the side, as if to drag her claws across his chest, and tears filled her eyes again as Ren shook his head. She dragged her hand across his chest, and the Mana Claws dug into the flesh, scraped across bone, and cut the front of his suit to shreds. She looked at him, and the tears in her eyes kept going as he shook his head. She took another swipe at his chest, and Ren didn't move to stop her.
+
+“Ren...”
+
+“Keep going.” Ren said. “You know I deserve it.”
+
+Nathalia cried as she shook her head, and tried to pull her hand away. Ren grabbed it, and pulled her hand towards his abdomen.
+
+“Ren, don't!”
+
+He jerked on her hand before she could retract the claws, and they slid into his body easily. Nathalia sobbed as she felt her claws cut deeply into him. He let her other arm go, and hugged her close.
+
+“I am so sorry, Nathalia.” Ren said, with no trace of pain in his voice, despite the amount of pain he was in. “I didn't mean for this to happen.”
+
+“Let... let me go...”
+
+“I love you.” Ren said, and kissed her cheek.
+
+“Let go.”
+
+“I love you.” He repeated.
+
+“I love you, too... but I also hate you right now.” Nathalia finally admitted.
+
+Ren nodded slightly and let her go. She stepped back and saw that she was covered in his blood; then looked at his torn up clothing and body. She nodded slightly herself as she wiped the tears from her face, then turned around and walked down the steps. When she got to the bottom, she equipped different clothing to clean herself up, opened the door, and left.
+
+“I can't believe that just happened.” Teepo said. “Usually there's a duel or something; and sometimes there's even House Champions involved.”
+
+That couldn't happen. Ren thought. Elerlyth doesn't belong to a House, and if Nathalia challenged her to a duel... He sighed. Elerlyth would have won.
+
+“How do you know that?” Teepo asked.
+
+Elerlyth's probably level 90 or so by now. Nathalia's only level 35. Ren thought about how much XP Nathalia might have gotten. Probably Level 36 now.
+
+“So, she took the sneak attack route instead.”
+
+Yeah. It was her only option.
+
+“That sucks.” Teepo said. “Poor Nathalia.”
+
+Yeah. Ren thought. I wish she hadn't asked that question.
+
+“I think she knew anyways.” Teepo said. “She's pretty smart.”
+
+Ren sighed. I really want to go after her.
+
+“I think you should heal yourself first.” Teepo said. “You're almost dead.”
+
+Ren looked at his Health bar, and he was down to only 10% of his full Health. He was still losing 1 Health every 3 seconds from being Poisoned, too. He took out his Major Healing wand and concentrated on the chest wound. He used a Major Healing Spell on it, and waited for the skin to reform into it's proper shape before using it on the abdomen wound. He used it again, to bring his Health back up to full, then again for his Mana Pool.
+
+He ran up the stairs to the apartment and took out his alchemy kit. He made a quick Antidote potion and drank it, then made a few more. Once that was done, he stored everything and went into the bedroom. He laid down on the bed and closed his eyes.
+
+See you in a little while, Teepo. Ren thought. “Logout.”
+
+********
+
+Ren slipped off the VR headset, and Barbara took it from him.
+
+“Oh, Ren.” Barbara said, with tears in her eyes.
+
+“Yeah.” He said. “Did I mess up the best thing that's ever happened to me, or what?”
+
+“I don't know.” Barbara said and put the headset aside. “Couples have troubles sometimes.”
+
+“I'm really starting to hate my Trouble recipe.” Ren said.
+
+“Can you have the programmers do something about it?” Barbara asked. “It seems to really mess things up while you're trying to have fun.”
+
+“I... I don't know.” Ren said, and pulled the laptop over. “I guess I could ask.”
+
+“It's worth a try.” Barbara said. “I'm tempted to keep you out, after seeing those elves try to take you.”
+
+Ren sighed. “I did cause the death of their head scout.”
+
+“After he tried to kill you.” Barbara said. “Twice.”
+
+Ren nodded, and started typing. He finished the email to the tech department of Sid Tec, sent it off, then opened his messaging program.
+
+Ren:  Gloria, I'm in RL.
+
+About 10 seconds later, a cell phone rang.
+
+“We have a phone in the room?” Ren asked, surprised. Barbara picked it up, listened for a moment, then handed it to Ren.
+
+“It's for you.”
+
+Ren took the phone and put it to his ear. “Hey, Gloria.”
+
+“What the FUCK?!?” Gloria yelled, and he held the phone away from his ear.
+
+“Ow.” Ren said. “A little less yelling, please.”
+
+“I'll yell if I fucking WANT TO!” Gloria yelled again, and Ren sighed. He was tempted to hang up on her, but that would only make her angrier.
+
+“Calm down. I can explain.” Ren said.
+
+“Calm down? Your little dwarf bitch shanked me right in the back!”
+
+“Of course she did.” Ren said. “There's no way she could do it if you were expecting it.”
+
+“She planned it?!?”
+
+“No, she didn't.” Ren said. “I meant that she'd never win a duel against you.”
+
+“A duel?” Gloria asked, starting to calm down. “What for?”
+
+“This is all my fault.” Ren said. “I broke my vow to her.” He sighed. “I promised that I wouldn't fall in love with you, if she gave me permission to sleep with you.”
+
+“Don't tell me this was some twisted dwarf culture shit!”
+
+Ren nodded, then realized Gloria couldn't see him. “Yeah, that's exactly it.”
+
+“Goddammit, Ren! Can't you keep control of her?” Gloria asked. “Forget I said that.” She said. “Obviously, you can't control her.”
+
+“I wouldn't control her, even if I could.” Ren said. “I want a partner, not a pet.”
+
+Gloria sighed. “You aren't going to let me kill her, are you?”
+
+“No.” Ren said.
+
+“How exactly are you going to stop me?”
+
+“Don't make me say it.” Ren said. “I want you to let this go.”
+
+“No, Ren.” Gloria said. “When I can log back in, I'm going to hunt her down and do the same thing to her that she did to me.”
+
+Ren took a breath and let it out. “Don't do that, Gloria.” He sighed. “Or I won't feed you anymore.”
+
+“That's not stopping me.” Gloria said. “That's blackmail.”
+
+“I know.” Ren said. “But if you kill her, you'll never be able to play the game again, because you'll starve to death each time you log in.”
+
+“Fucking fuckety fuck!” Gloria exclaimed, and Ren had to smile. He hadn't heard her say that before. “What the hell am I supposed to do? She killed me when I was completely defenseless!”
+
+“Kill me instead.” Ren said. “You know I'll come back, just like you will.”
+
+“Wh-what?!?”
+
+“I told you before. This was all my fault. I should pay for it, not Nathalia.”
+
+“Ren...”
+
+“You were all gung-ho when you thought you'd kill her, but now you're hesitating.” Ren said. “Is it the thought of ending Nathalia permanently that's got you all excited?”
+
+Gloria didn't know how to respond to that, so she stayed silent.
+
+“If that's not the case, and you still need a death so badly, then you can have my next one.” Ren said. “Okay?”
+
+Gloria stayed quiet.
+
+“I'll even feed you first, so you won't have to worry about starving.” Ren said.
+
+“And what's to keep me from killing her, once you've fed me and died?”
+
+“Your word.” Ren said. “And you better not try to hack her, either.”
+
+“Why are you assuming I can hack her?” Gloria asked.
+
+“I know how smart you are.” Ren said. “You've been pulling the game's code apart all week, haven't you?”
+
+Gloria didn't say anything, and he smiled.
+
+“Please, Gloria.” Ren said. “She's devastated enough as it is.”
+
+“She's devastated?!?”
+
+“Just a second.” Ren said, and pulled up the footage of Elerlyth's death, and what happened afterwards. He made a video of it, and sent it to her. “There. I sent you the clip. It should show up in your email in about...”
+
+“Now.” Gloria said, and opened it. She watched the footage, and sighed. “Well, fuck.”
+
+“My thoughts exactly.” Ren said. “So, do you still want to kill her?”
+
+“Yes.” Gloria said. “But, I won't.”
+
+“Thank you.”
+
+“You are going to do a lot more than thank me.” Gloria said. “I'm calling you on your word. You are taking the day off from your sentence when I log back in tomorrow, and you are going to feed my ability the entire time.”
+
+Ren thought about it. “Nathalia won't be happy about this.”
+
+“I don't give a flying fuck what Nathalia thinks.” Gloria said. “I only treated her nicely because you love her; but, now I don't have to pretend anymore.”
+
+Ren sighed. “Fine. I'll be there.”
+
+“You better be.” Gloria said. “My spawn point is right there.”
+
+“You changed it?” Ren asked. “I thought it would still be at your cottage.”
+
+“You commanded me to stay after I was attacked, remember?” Gloria said. “I switched it then.”
+
+“That reminds me.” Ren said, and gave her a quick rundown of what had happened with the High Elves.
+
+“You have got to be kidding me!” Gloria said. “High Elves? How the hell did they get involved?”
+
+“No idea.” Ren said. “But, they've been searching for a dark elf, and assumed it was me when they tracked me to the Library.”
+
+Gloria sighed. “You were covered in my scent.”
+
+“Yeah.” Ren said. “I think they've been waiting for you to reveal yourself for a while.”
+
+“I'd like to know why.” Gloria said. “I'd never met another dark elf before then, and I've never met high elves.”
+
+“We can worry about that later.” Ren said. “For now, I have to log back into the game, and get back to the Dwarven Kingdom.”
+
+“What are you going to tell her?”
+
+“The truth of course.” Ren said. “Assuming she'll even want to look at me when I get home.”
+
+“I saw that.” Gloria said. “Why did you let her cut you up so much?”
+
+“It's just like I told her.” Ren said. “I deserved it.”
+
+“Ren...”
+
+“No, it's okay.” Ren said. “It hurt like hell, but at least she got some revenge against me.” He smiled. “It made her feel better, too.”
+
+“You are so fucked up, it's not even funny.” Gloria said, and Ren laughed. “I said it wasn't funny!”
+
+“I know you did.” Ren said. “See you in a few hours.”
+
+Ren passed the phone to Barbara, and she handed him the VR headset.
+
+“Thanks, Barbara.” Ren said, and settled down in the bed.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed, and hopped up. He was tempted to go through the portal right away and head home, but he knew Nathalia wouldn't want to see him this soon; so, instead he went downstairs to see what needed to be done for the shop.
+
+*
+
+Nathalia had run to her restaurant after leaving Ren's business, and went through the portal. She didn't know what she was going to do yet, but she knew she had to deal with her feelings, and deal with what she did. She left the restaurant on the dwarf side of the portal, and walked over to the Main House. The receptionist told her that Ereka wasn't busy, and Nathalia went to the back office. She opened the door, and Ereka looked at her with shock on her face.
+
+“Nathalia? What... what is it?” Ereka asked. “You look like you've been through hell.”
+
+“I...” Nathalia closed the office door and sat on the couch. “I have.” She said. “I just killed Elerlyth.”
+
+“You WHAT?!?”
+
+Nathalia let the tears come again, and Ereka came over to her and sat beside her.
+
+“Ren broke his word to me.” Nathalia said. “He fell in love with her.”
+
+“Oh.” Ereka said, because she knew what that meant. “A duel wouldn't work.”
+
+Nathalia shook her head. “I couldn't call on the House Champion to fight her, could I?”
+
+Ereka took her into a hug, and Nathalia cried on her shoulder. “Ren's the House Champion.” She said. “No, you couldn't.”
+
+“I attacked her from behind.” Nathalia said. “She didn't expect it at all.”
+
+“Good.” Ereka said. “If I remember correctly, she would probably tear you apart if she knew it was coming.”
+
+“I know.” Nathalia said. “I had to strike when I could.” She sighed. “I lost over a thousand Honor to do it, though.”
+
+“I'm so sorry.” Ereka said, and held her tightly.
+
+“I don't know what to do now.” Nathalia said.
+
+“You don't have to do anything.” Ereka said. “This isn't the first time something like this has happened.”
+
+“It... it's not?”
+
+Ereka smiled and let her go. She went to the shelves of books, picked one of them, and went back to sit on the couch. She flipped it open to the right page, and read out loud one of the many times it had happened.
+
+“But... but this time, she's an Adventurer.” Nathalia said. “That's never happened before.”
+
+Ereka nodded. “That's not the only difference.” She said, then looked at Nathalia seriously. “Why didn't you kill Ren, too?”
+
+“I... I almost did.” Nathalia said, and cried.
+
+*
+
+Anabelle was happy that Ren had finally come to the shop. It didn't matter that he was only there to do things for the shop; all she cared about was that he was there, and that he was okay. She thought she might have heard a scream earlier; but, she didn't ask him or Nathalia about it.
+
+Nathalia had walked by her and left the shop without a word, and then Ren had come down a little while later. She knew something weird must have happened, and ignored her impulse to find out what it was.
+
+*
+
+Ren figured Anabelle wanted to know what was going on, but he didn't really know himself. He knew what had happened, but from this point forward, he had no idea how things were going to go. He did the weapon and armor repairs quickly, and filled any quick forge orders that he could, then said goodbye.
+
+“Aren't you going to visit...” Anabelle started to say.
+
+“I can't.” Ren said. “I honestly don't have the time for anything else right now.” He sighed. “I've delayed going back to the Dwarven Kingdom long enough as it is.”
+
+“I understand.” Anabelle said, even though she really didn't; but, she knew that's what Ren needed to hear, so that's what she said.
+
+“Thanks, Anabelle.” Ren said and smiled at her.
+
+“Hold on, I'll walk you to the portal.” Anabelle said and waved to Carly, who came over and took responsibility for the main desk. Anabelle took Ren's arm and led him out the back door of the shop, up the stairs, then into the apartment.
+
+“I'll be back here tomorrow to meet Elerlyth.” Ren said. “She said she's going to keep me busy all day, so I don't want to be disturbed.”
+
+“I... ah...” Anabelle didn't know how to respond to that.
+
+“I'm sorry if this is going to mess anything up that you have planned.” Ren said. “I didn't intend...” He sighed. “I have to stop saying that.”
+
+Anabelle smiled. “Despite good intentions, bad things happen.”
+
+Ren nodded. “That seems to be the way things are going lately.”
+
+“Don't worry.” Anabelle said. “Once you're back in Aurora in less than 3 months, things will get much simpler.”
+
+“I can only hope.” Ren said, and opened the cabinet. “See you later.”
+
+“I can only hope.” Anabelle repeated his words back to him. “When do you want to take the money made in the shop?”
+
+“You don't need to keep it for change or anything?” Ren asked.
+
+Anabelle grinned. “Why would I need a hundred platinum to make change?”
+
+Ren snorted a laugh, and she handed the money to him.
+
+“Did you take your pay?” He asked.
+
+“What pay?” Anabelle asked. “We never discussed actual money.” She smiled. “I distinctly remember asking for special kisses instead.”
+
+Ren smiled crookedly. “I think 10% of the profit would be more appropriate.” He said. “What about the other girls? Have you been paying them?”
+
+“Of course.” Anabelle said, then realized what Ren had said. “Did... did you just say 10%?”
+
+Ren nodded and handed her back 10 platinum. “You're doing a great job.” He said, and Teepo dissolved into the ring.
+
+“Ren!” Anabelle said, as she held the coins in her hand as if she didn't want to touch them. “What am I going to do with all this money?”
+
+“Anything you want.” Ren smiled at her, and then stepped through the portal.

@@ -1,0 +1,389 @@
+---
+id: b9d091ea-f148-59ae-831c-acb0eae8390f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 356 - Change Can Be Good"
+slug: 0349-chapter-356-change-can-be-good
+partOf: mythrans-master-of-all-continued-completed
+position: 349
+ownLength: 3767
+unit: words
+publishedAt: 2017-09-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160759/chapter-356-change-can-be-good"
+royalRoadId: "160759"
+---
+
+Ren looked at his very first bottle, and held it out to Janice.
+
+“What are you doing?” Janice asked him.
+
+“I want you to have this.”
+
+“Ren...”
+
+“You gave me your first successful attempt, and I want you to have mine.”
+
+“I'm going to throw your own argument back at you.” Janice said. “That's your first work, and you should keep it.”
+
+“Then I'll throw your argument back at you.” Ren said and smiled. “I'm sure you're going to give it a good home.”
+
+“Ren...”
+
+“It meant a lot to me when you gave me yours.” Ren said. “Let me return the favor.”
+
+“I... all right.” Janice smiled and stored it. “Thank you.”
+
+“You're welcome.” Ren said and poured out some molten glass. “Now I just have to figure out how much to gather up to make a proper potion bottle.”
+
+“You'll get a feel for it once you do it a bunch of times.” Janice said. “It took me almost a week to figure out the right amount, and I'd made so many that I could make them in my sleep.”
+
+Ren chuckled as he used his modified metal pipe and blew up the next glob.
+
+“Not enough.” Janice said as the bubble expanded to the right size, but the walls were too thin. Ren sighed and tossed the still mostly molten glass back into the furnace and poured out a little more and did it again. Ren worked for almost an hour and tried to get the hang of getting just the right amount into his hand, but it just wasn't working for him.
+
+“You're overthinking it too much.” Janice said. “Don't try so hard to get the perfect amount.”
+
+“Wh-what?”
+
+“If it's too much, only use the bottom of it to make the bottle, use the wedge to cut it off at the right height, and pop it off.”
+
+“I can do that?” Ren asked, and Janice chuckled.
+
+“You can also dip the smaller amounts back into the molten glass to get more on the metal rod.”
+
+“Okay, there's still a lot you need to teach me.” Ren said. “I'm working kind of blind here.”
+
+Janice put a hand on his shoulder. “You can't learn all the ins and outs of a profession in only one lesson, Ren.”
+
+Ren sighed. “Yeah, I guess you're right.”
+
+My Lord? I'm hungry. Princess thought to him when she came to a stop at the Main House.
+
+“Oh, damn.” Ren said. “I don't have any food for Princess.”
+
+“I do.” Janice said and took out a plate of food. “Tee-one gave it to me.”
+
+“Thanks!” Ren said and took the plate, then ran downstairs and opened the front door. “Come in and rest for a while.” He said to Princess, and she came in and looked at the bare floor. “I'll do up a mattress while you eat.”
+
+Thank you, My Lord. Princess thought, and Ren gave her the plate of food. He shut the front door and sewed up a mattress for her, put it on the floor next to her, and went back upstairs. When he got there, Janice had two more plates out on the workbench for them to eat.
+
+“Bon appetite.” Janice said, and Ren smiled.
+
+“Thank you.” Ren said and they ate a meal together. When they were done, he stored the plates and looked at the glass forge. “I'm tempted to ask for another lesson, but I need to get back to harvesting.”
+
+Janice nodded. “I figured you would.”
+
+“Are you staying here to play?” Ren asked her, and she looked at the glass furnace.
+
+“I'm really tempted.”
+
+Ren put a hand on her arm. “I'm staying until just before supper, and then I'll be going back to Aurora to eat supper with the maids.” He said. “If you stay, I'll keep Princess inside so she won't exhaust herself before we can ride her back.”
+
+“If I don't?”
+
+“Then you'll ride her back now, and I'll run home myself tonight.”
+
+“So no pressure?” Janice asked.
+
+“Nope. If you want to stay for a while, that's great. You'll have access to the glass furnace until you leave.” Ren said. “If you want to leave right away, then you can do that instead.”
+
+“I think... I think I'll stay.”
+
+“If you change your mind, come and get me where you found me before.” Ren said and gave her the helm back. “I'll see you in about 7 hours.”
+
+“Okay.” Janice said. “Have fun toiling in the field.”
+
+“I will.” Ren said walked over to the stairs. “It's a huge field, though. Even with a farm vehicle, it's going to take a while.” He gave her a little wave. “See you later.”
+
+Janice waved to him and he ran down the stairs. Ren told Princess what was going on, and left the Main House at a run.
+
+*
+
+Janice started to gather up some molten glass to make a vase, then what Ren said hit her. “Did he say 'farm vehicle'?!?”
+
+She thought about running after him to get him to explain, then sighed because she knew he was long gone by now and wouldn't have a chance to ask him about it until tonight. She went back to gathering up some glass and smiled as she felt the familiar heat touch her skin.
+
+I missed this so much!
+
+*
+
+Ren used the Haste wand on himself and was back at the village a few minutes later.
+
+“Look at that!” Teepo said as Ren came to a stop. “It's a carry train!”
+
+Ren nodded and walked over to stand beside Fern. “Hi, Fern.”
+
+“My Lord.” Fern said. “You look a little surprised.”
+
+“I didn't think there were this many people left in the village with everyone out working on the fields.” Ren said, and saw about 100 people passing wheat bushels to each other.
+
+“Half of them are the bakers.” Fern said and pointed. “There was almost a fist fight over who got first pick of the bushels.”
+
+“Really?” Ren asked. “Why?”
+
+Fern looked at Ren like he was crazy. “They're bakers.” He said. “They make bread. With flour.”
+
+Ren looked at him expectantly.
+
+“Flour is made from wheat.” Fern said.
+
+“I know wheat goes into flour.” Ren said. “But that's just one part, isn't it?”
+
+“You don't know anything about baking, do you?”
+
+“I can bake lots of things.” Ren said. “I've never had to make flour before, though.”
+
+“You grind the wheat into powder as best as you can, sift out any chunks that weren't ground up completely, and you're done.” Fern said.
+
+“Wait, what?” Ren's eyes widened. “That's it? There's no other ingredients? No special technique to use?”
+
+“As long as your mortar and pestle is clean, that's all you need.”
+
+“Huh.” Ren said and watched as a few bundles were tossed behind several people instead of into the storage space. “You all share everything, don't you?”
+
+Fern looked at him again like he was crazy. “Of course we do. We couldn't survive otherwise.” He said. “That goes for the jobs, too.”
+
+“You all work together towards the common goals.” Ren said and smiled. “I like that.”
+
+“I'm glad.” Fern said. “We're just about done storing what you've cut off.”
+
+“Oh, right!” Ren said. “I'll get right to work!”
+
+*
+
+Fern watched as Ren ran across the already harvested area and took out the farm vehicle, then watched everyone's reaction to it. Not a lot of people realized what it was until Ren climbed on and moved the right and left levers forward, and the farm vehicle started to harvest more wheat.
+
+“Oh my god!” Gemma said as she jumped out of line and grabbed her husband's arm. “You didn't tell us he didn't do it by hand!”
+
+Fern laughed at his wife's reaction. “I wanted it to be a surprise.” He said, then remembered his own dumbfounded reaction. “It sure was a surprise to me.”
+
+“And me!” Russell said as he ran over to them. “I couldn't believe it when it chewed up the wheat and spit it out!”
+
+Everyone stopped the carry train and watched as Ren drove around Old Man Dinkle's Rock, and made more and more bushels for them to gather.
+
+“How in the world is it doing that?” One of the women asked. “I don't see any horses!”
+
+“He said it runs on people power.” Fern said.
+
+“He chops up people for it?!?” She asked, and Fern laughed.
+
+“Naw, Maisie. He uses his feet.” Fern said and pointed, and they all saw Ren as he came to a stop and pedaled to charge it up again.
+
+“Well I'll be.” Maisie said as she watched Ren drive away. “How many of them does he have?”
+
+“Just the one I think.” Fern said. “If he does have any others, I don't know if anyone would take him up on the offer to drive it.”
+
+“I hear ya.” Nessie said as she came over and stood beside her sister, Fern's wife Gemma. “That thing is pretty scary.”
+
+“Yes.” Gemma said. “But... it's also doing more work than any of us could do in the same amount of time.”
+
+“I can't wait to start the carry train again.” Russell said and watched as Ren passed by them. “Do you think it's safe to keep going?”
+
+“Let's give it a while.” Fern said. “Just so we're not in his way.”
+
+Russell nodded and Falla came over to them.
+
+“Daddy? Is he going to do the whole field?”
+
+“I think so.” Fern said. “With whatever that thing is, he might be done in only a couple of days.”
+
+“Are you crazy?” Nessie asked. “There's no way... no, it... it can't... I mean... can it?”
+
+Fern chuckled. “If he goes until the end of the day, then I'll be able to tell you how much he can do.”
+
+Nessie nodded. “Make sure to tell Miss Patty.”
+
+Fern looked around. “Where is Miss Patty, anyways?”
+
+“She was just here not too long ago.” Gemma said. “Falla?”
+
+“She hiding behind that house, right over there.” Falla said and pointed.
+
+The small group of people that had gathered around Fern turned as one to look. They heard a gasp, and a moment later, Patty came out from her hiding place and walked over to them.
+
+“I was trying to stay hidden.” Patty said to Falla, who shrugged.
+
+“You didn't say it was a secret.” Falla said, and Gemma laughed.
+
+“Even if you'd said that, she'd still would have told us.” Falla's mother said. “She just would have said it was a secret first.”
+
+Patty snorted a laugh.
+
+“You don't have to hide from him.” Fern said. “He ain't gonna bite.” He smiled. “He's a polite fellow for the most part.”
+
+Russell laughed. “He plum scared the crap outta me after he gave me these boots.” He said and pointed. “They shocked me bad when I saw what they could do, and then he yelled at me to get going.”
+
+“He yelled at you?” Patty asked.
+
+“Yes'um.” Russell said. “I was lollygagging, though.” He grinned. “I went to you right away, just like he told me to.”
+
+I can't believe that worked. Patty thought. He told Russell to tell me that I wanted him, and then Russell came right to me. She smiled. I have to remember that trick.
+
+“Look at him go!” Russell said as Ren passed them again. “I can't believe he's not tired!”
+
+“He's just sitting down.” Nessie said. “There's not a lot of work going on there.”
+
+“I don't know about that, sis.” Gemma said. “He's holding onto those knobby things pretty tightly.”
+
+“I wish he'd hold onto my knobby things!” Maisie said, and several people laughed.
+
+“He's over a foot shorter than you, Maisie.” Her friend said.
+
+“All right, he can kiss them then.” Maisie said. “He's at just about the right height.”
+
+Her friend snorted a laugh. “Okay, yeah... that would work.”
+
+“Ladies, please.” Fern said. “There's children here.”
+
+Nessie covered her niece's ears. “If you don't tell her what they mean by knobby bits, she won't know.”
+
+Fern opened his mouth to say that his daughter was smarter than that, then closed it and kept watching Ren instead. He was right, though. Falla knew what they meant. She knew that women had knobby bits on their fronts, and she also knew that Ren was the right height to kiss them.
+
+Why would they want that? Falla asked herself as her aunt took her hands away from her ears. That sounds weird. She thought. Why would they want him to act like a baby?
+
+Patty on the other hand, couldn't help herself as that image popped into her head. She saw Ren standing in front of her, her with her top off, and him as he kissed her womanly parts. Her face flushed slightly red and she tried her best to wipe that image from her mind.
+
+“Let's start up the carry train again.” Patty said to distract everyone from her embarrassment.
+
+“Yay!” Russell and Falla said, and everyone went back to having fun that was just cleverly disguised work.
+
+*
+
+Ren was having a ball. It was still difficult to drive the farm vehicle over the slightly uneven ground, since there were slight divots, the occasional bump, and even several sunken areas. Other than that, it was almost a straight and even run all along the 4 miles of field. He was harvesting and planting wheat at the same time, and it made him think about the growing season; or if they even had a growing season. He reminded himself to ask Fern when he quit for the day.
+
+Teepo kept a good eye out while Ren worked, and as the hours wore on and they got further and further into the field, Ren thought about making a bunch of farm vehicles for everyone. He'd have to find out how many fields there were, and then he'd have to teach them how to work the thing.
+
+“Sir! My Lord!” A young girl said and waved to him. Ren came to a stop and hopped off to meet her.
+
+“Hi, Falla.” Ren said, and her face turned red.
+
+He knows my name! Falla thought. “Miss Patty says we're running out of room to store all the wheat.”
+
+Ren frowned a little. “Why didn't she tell me before now?”
+
+“She's trying to find somewhere to put it all.” Falla said. “I thought... well, it would be good if you knew, too.”
+
+“Thank you, Falla.” Ren said and took out a copper coin. “Can you take me to Patty?”
+
+“Right away!” Falla said, took the coin, and ran off towards the village. Ren reached back and stored the farm vehicle, and jogged after her. She led him through the village and to the storage space.
+
+“We've already got our quotas.” One of the bakers said, and several people around her nodded. “We can't fit any more bundles into our storage cellars.”
+
+“I don't know what to tell you.” Patty said. “We've never had this much wheat ready all at once before.”
+
+“Perhaps I can help.” Ren said.
+
+“I think you've helped quite enough.” Patty said. “Look at this.” She said and pointed behind herself. The storage area was full of wheat bundles, from floor to ceiling. “This is just what you've done this afternoon. I had to tell everyone to stop the carry train until I figure out where to put it all!”
+
+“I'm sorry about that.” Ren said. “I thought you had enough storage, since you grow wheat all the time.” He said. “I guess I should have built a warehouse to store it first.”
+
+“You can do that?” One of the people there said.
+
+“He can do anything!” Falla said.
+
+“Can he fly?” A woman's voice asked from behind Ren, but he didn't turn around.
+
+“No, I can't fly.” Ren said, and he heard a satisfying chuckle. “I can walk on air, though.”
+
+The chuckle cut off and became a cough, and everyone looked at him.
+
+“I can show you if you want.” Ren said and looked around at all of the stunned faces. “Would anyone like to see that?” He asked. “Anyone? No?” He smiled. “Then let's move on, shall we?” He looked at Patty. “If you don't want me to build a warehouse, can I at least expand this storage?”
+
+Patty didn't respond because she was just as stunned as everyone else. She knew he was telling the truth. Margaret, the old hunched-over lady with the Amulet of Truth, was counting the stacks of bushels behind her to see how many they actually had.
+
+“M-m-my Lord.” Patty managed to get out. “There's no room in the village for a warehouse, or more storage.”
+
+“Not above ground.” Ren said and smiled.
+
+“Wh-what?”
+
+“I'll dig.” Ren said. “I'm tempted to use my Staff of Earth to shift the dirt around, but I can't dig down with it. All I could do with it is make a pit. So, I'll just dig the old fashioned way right here under this place, and you'll have lots of cool dry storage space for the wheat when I'm done.”
+
+“How... how long...”
+
+“Give me an hour.” Ren said. “I should have a good-sized space done by then.”
+
+“O-o-okay.” Patty said. “Everyone, let's give him some room to work.” She turned around and tapped Margaret on the shoulder. “Let's go.”
+
+“But I'm still counting!” Margaret said, and then she saw Ren. “Oh! Hello, My Lord.”
+
+“M'Lady.” Ren said and gave her a slight bow.
+
+“He needs the space to work.” Patty said.
+
+“I'll lose my count!” Margaret said, and Patty sighed.
+
+“Come. On.” Patty said and hauled Margaret out of the storage space. Everyone had left quite quickly, except for Falla.
+
+“Can you really walk on air?” Falla asked, her voice full of wonder.
+
+“It's a spell I know.” Ren said. “According to the description, I can walk up into the air like it's a steep hill.”
+
+“Wow.” Falla said, and her eyes were full of sparkles and dreams. “I wish I could walk on air, too.”
+
+Ren took out a wand and exchanged the spells inside with Air Walking, then held a hand out to her. “Come with me.”
+
+“We can do it right now?” Falla asked and took his hand.
+
+“It'll only be a short walk, but yes.” Ren said and smiled. “We can go right now.”
+
+“Thank you!” Falla said as they left the storage area. A few people were milling around, and one woman was trying to watch Ren, but not watch him at the same time.
+
+Teepo?
+
+“Yeah, she's the one that asked if you could fly.”
+
+Perfect. Ren said and cast Air Walk on himself and Falla. “Hold on tightly, Falla.”
+
+Falla nodded and Ren took a step up into the air and put his foot down; only, it didn't go to the ground. Ren smiled and stood up on that foot and was off the ground by 6 inches.
+
+“Me, too!” Falla said and stepped up beside him. “I'm floating!”
+
+Ren took several more steps up into the air, and just like the spell said, it was like walking up a hill. He knew he only had a short time to play, so he didn't go up far; but, Falla was right there beside him and she was overly-giddy with happiness.
+
+“Thank you so much!” Falla said and hugged Ren tightly. “Can... can we run?”
+
+“I think just a jog.” Ren said. “If we go too fast, we could fall.”
+
+Falla nodded, and started to jog through the air, and Ren kept pace with her. They jogged around the storage area, and she turned and led him over to her house.
+
+“MOM!” Falla yelled. “Look! No feet!”
+
+“Falla?” Gemma came out of the house. “What are you shout-AHHH!”
+
+Falla laughed and laughed at her mother's reaction to her being suspended in the air. She was about 8 feet up, and close to the top of the one storey straw and mud house.
+
+“30 seconds.” Teepo said.
+
+Thanks, Teepo. Ren thought. “Our fun's almost over.” He told Falla. “Walk this way.”
+
+Falla sighed. “All right.”
+
+Ren led her down the air 'hill', and she followed him reluctantly down to the ground. They got there just before the spell ended. Falla let his hand go, looked up at him, and wiggled her finger at him in a 'come here' gesture. He knelt in front of her, and she smiled.
+
+“I love you.” Falla said, and kissed Ren on the cheek. She didn't run off, or giggle, or anything of the sort this time; she just stood there and looked at Ren expectantly. In her mind he had given her a gift so precious to her, that she thought he had earned... and deserved... her love. Her mother on the other hand, had gasped, grabbed her chest, and her husband had caught her before she fainted.
+
+Those three simple words, given freely by an uncomplicated heart, had touched Ren more than he thought it would. He knew the young girl didn't mean it in any kind of sexual manner; because it wasn't the same love as what a woman had for a man. It was the love that a child offered to their favorite toy, their favorite food, or even give to their best friend. Ren had never felt that kind of love before, and a tear came to his eye.
+
+“Thank you, Falla.” Ren said and kissed her cheek.
+
+Falla's face burned a bright red and she ducked her head in embarrassment.
+
+“Falla, look at me.”
+
+Falla didn't lift her head, but she moved her eyes to look at him.
+
+“You never have to look away from me, okay?” Ren said softly. “That's not what will make me happy.”
+
+“What... what will make you happy?” Falla asked as she lifted her head and looked at him.
+
+“That. Right there.” Ren said and touched her face. “Look at me. Smile. Say hi when you see me.”
+
+A smile spread across Falla's face.
+
+“There we go.” Ren said and took her hand. “M'Lady, if you will excuse me.” He kissed the back of her hand and let it go. “I must cover myself from head to toe in dirt to try and make Patty happy.”
+
+Falla laughed and Ren grinned at her.
+
+“It's going to take more than dirt to do that.” Fern said.
+
+Ren nodded to Fern, his wife Gemma, and Falla; then he ran over the road and went into the storage area to dig it out like he said he would.

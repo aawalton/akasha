@@ -1,0 +1,269 @@
+---
+id: 7103107a-de5d-5b95-975a-2fa09d4877de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 406 - Home Sweet Home Version 2"
+slug: 0403-chapter-406-home-sweet-home-version-2
+partOf: mythrans-master-of-all-continued-completed
+position: 403
+ownLength: 3442
+unit: words
+publishedAt: 2017-10-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171215/chapter-406-home-sweet-home-version-2"
+royalRoadId: "171215"
+---
+
+Denise and Lisa left to bring their things to Ren's place while they waited for the doctor to become available. Stella had the paperwork ready half an hour later and Ren signed it. It was another half an hour later when the doctor came into the room and tried to get the women out of the room so he could examine the patient in privacy.
+
+“None of us are leaving.” Stella said. “Just go ahead and examine him.”
+
+The doctor in charge of his case objected strongly to Ren signing himself out, and Elise brought up the same point that Lisa had said to her and the others. All Ren was doing was laying there and taking up space that someone who really needed it could be using instead. The doctor protested during the entire examination and said that Ren was crazy for leaving so soon after waking up.
+
+Stella wanted Ren to stay overnight again for observation; but, she reluctantly agreed that he had more than enough people to keep an eye on him at home. They all gathered their things together while Stella helped Ren get dressed into normal clothes and then sat him in a wheelchair.
+
+“The hospital said we can borrow this until we buy a replacement.” Stella said. “I've already ordered it, so we're just waiting for delivery; which isn't going to be for a day or two.”
+
+Ren nodded and they left the room. The group of them started to walk down the hallway when Barbara came around the corner.
+
+“I've got his scans!” Barbara said and then saw Ren. “You're awake!”
+
+Barbara tossed the large envelope to Stella and ran over to Ren, then bent down to give him a hug with tears in her eyes. “My poor baby!”
+
+Ren tried to say something, but his throat still wasn't working right.
+
+“No, no... don't speak.” Barbara said and let him out of the hug. “We'll have some ice cream when we get home.”
+
+“These actually look good.” Stella said and held the scans up. “Elise?”
+
+Elise looked at them and tried to remember Ren's previous scan. “Just a second.” She said and brought out her tablet. She brought up the last data download from the micro-server at Ren's place and checked the scan.
+
+“I'm no expert, but it looks the same.” Elise said and showed Stella. Both women compared the two scans and saw they were nearly identical. The new one had a small spike in the pain reception area, but Stella said that was to be expected. The body would still feel pain when someone was unconscious.
+
+“We're blocking the hallway.” Gloria said.
+
+Everyone looked at her, and then saw several people standing behind her and looking back at them. Stella passed the scans to Barbara and pushed Ren's chair closer to the wall. The others shifted closer to the wall as well to let the people go by.
+
+“Let's get out of here.” Elise said. “Let's get him home.”
+
+“Where did you park?” Stella asked and started to push Ren down the hallway.
+
+“It's not close by, so I'll bring it around to the front.” Elise said.
+
+Stella nodded, then stopped walking. “Elise, do you have a piece of cloth or something I could borrow?”
+
+Elise opened her briefcase and took out a t-shirt. “What do you need it for?”
+
+“Cover.” Stella said and knelt in front of Ren. “Ren, we have to-”
+
+Ren reached out and took the t-shirt from her hand and slipped it over his head. Stella pat his shoulder and went back behind the wheelchair to push it to the elevator. Stella, Elise, Barbara, and Gloria got into the elevator with Ren in the wheelchair and they all hoped he didn't panic. Ren felt 4 different hands on his shoulders and arms as the elevator dropped down to the ground floor of the hospital. Ren still couldn't remember what had happened to him; but, when the elevator doors opened, he felt afraid and started to shake.
+
+“It's okay. We're right here.” Stella said, gave his shoulder a squeeze and pushed the wheelchair out into the hallway. They walked down the hall a short distance and Elise took the t-shirt off of Ren's head. He saw they were in the clear and relaxed, then he froze stiff when he saw a nurse with golden-blonde hair come out from behind the main desk.
+
+It was Lucy.
+
+*
+
+“Max!” One of the tech guys at Sid Tec tried to get his boss' attention. The head programmer for the company, Max, came over to the tech guy's desk.
+
+“Yeah?”
+
+“We've got the update ready to roll!”
+
+“Good.” Max said and walked back over to the middle of the room. “Okay, folks. This is it!” He said and smiled. “Sarah! Send out the notification to all FLOW players that there's going to be a 1 hour real life downtime that starts in 15 minutes, or an hour game time.”
+
+Sarah nodded and started to type quickly.
+
+“That should give them enough time to pause their quests and get to a safe zone.” Max said. “Lenny! Remove all those time delay blocks we installed a while ago when a certain someone triggered this prematurely.”
+
+Lenny laughed because it was the same someone that had triggered it again, only legitimately this time, and he started to type furiously.
+
+“Everyone else! Prep the servers and update packs for massive distribution.” Max smiled. “This is going to be fun.”
+
+*
+
+“Ren!” Lucy exclaimed when she saw him. “What are you doing here?” She held a hand up to stop his response. “You don't have to answer that. I'm not your nurse anymore.”
+
+“No, you're not.” Gloria said, a little angrily. “You could still care about your friend, though!”
+
+Stella, Barbara, and Elise hadn't said anything because Gloria had beaten them to it. Lucy looked at all of the women's angry faces as they nodded, and sighed.
+
+“You know I didn't mean it like that.” Lucy said and looked at Ren. “How are you?”
+
+Ren pointed to his throat and shook his head.
+
+“They had to intubate after he fell.” Stella said.
+
+Lucy closed her eyes and held in her sigh. She knew things like this were going to keep happening to him, and she wasn't sure if she should feel relief that she wasn't responsible or sad that she couldn't take care of him. Her brain felt some relief; but, her heart felt a lot more sadness.
+
+“I'm sorry.” Lucy said. “Does anyone know what happened?”
+
+“We can only speculate, since no one saw what happened.” Stella said. “With the way things looked, either the wheel of the chair got caught in the space between the elevator and the floor and tipped over, or Ren had been standing up and fell over the chair when it got stuck.”
+
+Lucy had watched Ren's face as Stella talked; but, it didn't give her any indication of which story was true.
+
+“He can't remember.” Stella said. “It's probably from the nasty bump on his head, because head trauma can sometimes cause memory loss of the event that caused the trauma.”
+
+Lucy nodded. “Well, I'm glad you're okay.”
+
+Ren couldn't say anything, so he just nodded.
+
+“I have to get back to work.” Lucy said. “It was nice seeing you again.”
+
+Ren nodded and gave her a little wave, and she smiled. It wasn't the smile of hers that he missed, so it didn't hurt like the other one would have.
+
+“It's nice seeing you both again, too.” Lucy said to Stella and Barbara. They gave her a little nod without saying anything, and Lucy walked down the hallway to the elevator.
+
+“I feel so loved and appreciated.” Elise said.
+
+“Me, too.” Gloria said.
+
+Ren reached a hand out and took Elise's hand, then tried to take Gloria's. She pulled her hand away and sighed.
+
+“I don't deserve to hold your hand.” Gloria said. “This was my fault.”
+
+Ren frowned at her and shook his head. He held a hand out to her, and she shook her head.
+
+“If Denise hadn't wanted to talk to me alone, the both of us would have been in the elevator with you.” Gloria said. “It's my fault you were hurt.”
+
+Ren looked up at Stella. She nodded and helped him stand up.
+
+“What are you doing, Stella?” Gloria asked. “Put him down! He can't stand on that leg!”
+
+Ren used Stella as a crutch and hopped two steps over to Gloria. He balanced on his good leg and held his arms open.
+
+Gloria shook her head and tried to step back, then found out that she was right up against the wall and couldn't go anywhere. Ren smiled and hopped once and wrapped his arms around her.
+
+“Ren, don't.” Gloria said. “I... I can't...” Tears formed in her eyes and she didn't try to stop them. “I don't...” She sniffed. “I don't deserve your hugs.”
+
+Ren held onto her with one hand and leaned back a little. He pointed to his eye, tapped the spot over his heart, then tapped her heart.
+
+“Why?” Gloria shook her head. “I don't deserve that, either.” She said. “You're right. I'm still going to come and go when I want, and I'll even sneak out if I have to.”
+
+Ren pointed to himself and shook his head, pointed to her, then made the talking motion with his hand and put the hand on his chest.
+
+“You want me to tell you something?”
+
+“I think he means that he doesn't care if you go, only that you tell him you're going.” Elise said. “At least, I think that's what he meant.”
+
+Ren pointed to Elise and touched the tip of his own nose.
+
+“But, still.” Gloria said. “I... I think I need some time to... well, I...”
+
+Ren touched her cheek and gently stroked it.
+
+“Ren, you need to rest.” Stella said, and he tried to sigh. A rasp came out instead and he coughed once, nodded, and Stella helped him sit back down. She got behind the wheelchair and pushed Ren out the front door of the hospital and stopped to wait for Elise to go and get her Hummer H2. Barbara bent over to hug him again.
+
+“I'll meet you back at the house.” Barbara said and stood up. Fixed his hair a little bit, then quickly walked over to the parking lot.
+
+“I have to go, too.” Gloria said, and Ren reached out for her hand. She took it after hesitating for only a moment. Once he had a hold of it, he held on tightly. She blinked her eyes at the strength in his hand. He smiled at her surprise and pointed to his own eye, made a 'want' gesture, held up 2 fingers, pointed at both of his eyes, then pointed at her.
+
+“He wants to see you again.” Stella interpreted, and Ren nodded.
+
+“Ren, I said I needed a break.” Gloria said, and he shook his head. Ren pulled on her hand and motioned for her to come closer, and she crouched down to put her head at his height. He reached up and slid a hand across her cheek, then used his thumb and forefinger to grab her earlobe. Gloria winced and he pulled her in close.
+
+“Ren, wha-” Gloria stopped talking when Ren kissed her. He let her earlobe go and slid the hand to the back of her neck and kissed her with all of his learned and practised skills. She couldn't resist his charm when he was being serious, so she ignored her own decision to take a break and kissed him back. A minute later, Elise drove up with her Hummer H2 and stopped in front of them.
+
+Gloria broke the kiss and stood up. “I really have to go.” She said and Ren let her hand go, then gave her a little wave. She waved back and turned around and almost ran to the parking lot.
+
+Elise came around her big yellow vehicle and opened the passenger door, then Stella helped Ren climb up and used the seat belt to secure him in. Elise took the wheelchair to the back of the Hummer H2 and put it in the back storage area and used the tie downs to hold it in place, then came around to the driver's side door. She climbed in and Stella was already in her seat behind the driver's seat, with their stuff stored on the other seat.
+
+“Everyone set?” Elise asked, then drove out onto the road. The hospital was just outside the city, and was a lot closer to his house than any other hospital was. They made it home only about 10 minutes later, despite the traffic, and pulled into the driveway safe and sound.
+
+*
+
+A riding lawnmower was making the rounds on the grass around the house, and the man driving it was surprised to see a short figure being loaded into a wheelchair. He didn't let anything on his face show as he continued to mow the lawn, and watched intently as the two women brought Ren back into his house.
+
+The man didn't do what anyone else would have done when they saw that their plan hadn't worked. He didn't panic or contact the client right away, either. What he did was work. He kept going and finished the job that he was supposed to do, and thought about how he could ensure that he would get the second half of his payment.
+
+*
+
+Stella and Elise brought Ren inside the house, and Stella used the t-shirt again. Ren almost laughed at the absurdity, then the wheels of the chair hit the small lip of the elevator. His heart skipped a beat and he almost panicked again, and no longer thought that the t-shirt was absurd at all.
+
+Once he was out of the elevator on the second floor, Stella quickly brought him to his room. She and Elise helped him get onto the bed and settled into the middle of it. With the bed as large as it was, it made Ren look so small and fragile by comparison.
+
+“I'm tempted to give you a shower, but I really don't think we should push our luck with that leg.” Stella said. “You're just going to have to wait until tomorrow.”
+
+Ren nodded and took a deep breath. He looked at Stella and then at Elise. He pointed at his eye, made the 'want' gesture, put his hands together and put them by his ear to mime going to sleep, then pointed to both women.
+
+Stella laughed. “You don't seriously think we're going to sleep with you when you're like this.”
+
+Ren grinned as he mimed sleep again, shook his head no as he made an 'o' with a thumb and forefinger and stuck his other forefinger through it, then mimed sleep again.
+
+“I'm pretty sure he just wants to sleep, not have sex, just sleep.” Elise said, and Ren touched the tip of his own nose again.
+
+“Well, I was staying here anyway.” Elise said and looked at Stella. “Both Ren and I would feel a lot safer with you here, too.”
+
+Ren tapped his nose again.
+
+“Please tell me you're not using this as a way to get me into bed with you and Elise again.” Stella said and smiled.
+
+Ren used a finger to cross his heart and raised a hand, palm towards her, as if he was taking an oath.
+
+“You promise, huh?” Stella said and chuckled. “All right, we just have to get you a little something to eat first.”
+
+Ren pat his tummy and it rumbled.
+
+“Well, maybe a bit more than just a little.” Stella said, and Ren grinned.
+
+“I'll stay here and keep an eye on him.” Elise said and Stella left to make something for him to eat. Elise took off her business suit coat, and when she saw the state of her blouse with large damp spots from her sweating underarms, she sighed. “I guess I need a shower, too.”
+
+Ren waved to get her attention, then mimed unbuttoning her top.
+
+“We can't cuddle, remember?” Elise said. “I don't want to hurt your leg.”
+
+Ren picked up the edge of his long-sleeved t-shirt and pointed to the closet behind her. She turned around and went to the closet, opened it, and took out one of them.
+
+“I'm going to stretch the hell out of this.” Elise said.
+
+Ren chuckled and started to cough. Elise ran over to the bed and climbed onto it. He calmed down a moment later and sighed. Coughing was not helping his sore throat and would delay it getting better. Elise laid down on her front and used her fingers to very gently stroke his neck.
+
+“You need to take it easy, sweetheart.” Elise said. “I want to hear your sweet voice again, sooner rather than later.”
+
+Ren took her hand from his throat and kissed her palm. Elise smiled and sat up, then started to unbutton her blouse. Ren watched as she undid the last button, then she slowly pulled the cloth apart to reveal a very stiff and starched underwire bra. It was full-cupped and had all of her chest contained. His eyes widened at the massive amount of cloth and work that must have gone into making the thing, and he reached out to touch it.
+
+“It's custom-ordered, but it still doesn't fit.” Elise said. “I gave up trying to find something that can hold me properly, and I just order another one of these when they wear out.”
+
+Ren ran a hand over the cloth, then down her belly to the top of her skirt.
+
+“No cuddling.” Elise said and took off her blouse. She picked up the long-sleeved t-shirt she had dropped on the bed, then slipped it on over her head. She got her arms into the sleeves and tried to pull the cloth down, and Ren covered his mouth to stop from laughing.
+
+Elise managed to get herself tucked inside the long-sleeved t-shirt, but she looked like a stuffed sausage. Ren held his mouth and throat closed to stop the sound; but, tears were coming from his eyes because of the silent laughter he couldn't stop.
+
+“It's not funny.” Elise said. “Look at this!” She cupped her chest and shook one side; but, because the cloth was so tight, both sides moved at the same time. “It's like I've only got one really big boob!”
+
+Ren snorted and his chest shook as he laughed without a sound.
+
+“Knock, knock.” Lisa said when she came into Ren's room. “We've got our stuff moved in.”
+
+“Only what we could get into my trunk.” Denise said as she came in behind Lisa. “I'll have to hire a mover or get a storage space for my other stuff.” She said. “Like my couch, chair, kitchen table, bed...”
+
+Ren calmed down and waved to the two women.
+
+“What are you doing?” Lisa asked as she walked over to the bed. “Elise, that is not a good look for you.”
+
+Elise chuckled and held up her damp blouse.
+
+“Um... okay, that's a toss up.” Lisa said and smiled.
+
+“Hey, you two.” Stella said and walked around them. “I've got some very weak soup here for the patient.” She put it on the rollaway table and brought it over to the bed. “It's not very hot, since we need to take it easy on your throat.”
+
+Ren nodded and spooned some of the broth into his mouth. It slipped down easily when he swallowed it and he took another spoonful.
+
+“Are you two moved in already?” Stella asked Lisa and Denise.
+
+“I need to do something about all of my old stuff.” Denise said.
+
+“Bring it all here.” Stella said. “These rooms are like huge hotel suites. There's plenty of unused space in them.”
+
+“But...”
+
+“I don't think you need the appliances, unless they have sentimental value.” Stella said. “You've got your own little mini-kitchen if you want to have your own food, rather than share one of the large refrigerators downstairs.”
+
+“I guess that's true.” Denise said. “I should be able to get my couch in my room, at least.”
+
+“What about you, Lisa?” Stella asked.
+
+“Well, my mother is in denial and thinks I ran away.” Lisa said. “I invited her over for dinner next week.” She looked at Ren. “I hope that's okay.”
+
+Ren nodded, gave her a 'thumbs up' gesture, and kept eating.
+
+“Thanks.” Lisa said and looked at the other three women. “So, who's sharing his bed tonight?”

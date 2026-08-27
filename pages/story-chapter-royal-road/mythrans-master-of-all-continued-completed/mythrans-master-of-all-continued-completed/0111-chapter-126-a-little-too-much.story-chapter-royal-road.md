@@ -1,0 +1,517 @@
+---
+id: e871760f-54eb-5c7a-ae3c-511eeb2b1c04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126 - A Little Too Much"
+slug: 0111-chapter-126-a-little-too-much
+partOf: mythrans-master-of-all-continued-completed
+position: 111
+ownLength: 4947
+unit: words
+publishedAt: 2016-12-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109480/chapter-126-a-little-too-much"
+royalRoadId: "109480"
+---
+
+Ren stepped out of the portal, and looked around. He really was in the old living room. The couch and comfy chairs were there and Ren stepped away from the portal entrance. He built a crate around the portal that was big enough to step into without stepping into the portal. He didn't want anyone to accidentally hit the portal edge and be killed.
+
+“I have to remember to do the same thing back on the other side.” Ren said and walked out of the living room and down the stairs. When he got about halfway down to the first floor, he heard a gasp and ran the rest of the way.
+
+“You really came!” Elerlyth said as she collapsed to her knees. “You really came.”
+
+Ren went over to her and held out a hand. She took it and sighed.
+
+“Good god, that's... thank you, Ren.” She said and smiled at him.
+
+“Is there any particular flavor you want?” Ren said as he saw her skin flush to a darker color. “Or is my personal Aura good enough?”
+
+“Um... Fear, please.” She said, a bit sheepishly.
+
+Ren concentrated on the Dire Wolf Hooded Cloak's Fear Aura, and Elerlyth sighed.
+
+“Mmm... yeah, that's the spot...” She closed her eyes.
+
+Ren grinned as he used his Connection ability, and activated his Screaming Terror ring to boost the Fear Aura. He dismissed the 2 minute time limit popup.
+
+“OH MY GOD!” Elerlyth yelled and opened her eyes to stare at Ren. “What the hell is that?!?”
+
+Ren chuckled. “It's just a little something I came up with while I've been away.”
+
+“You needed to produce Fear?” Elerlyth asked, surprised. “Why?”
+
+“To scare people, of course.” Ren said. “It works most of the time.”
+
+“I'd love to have something like that.” She said and stood up.
+
+“It wouldn't do you any good.” Ren shook his head. “You told me that feeding on others wasn't doing anything for you.”
+
+Elerlyth sighed. “Yeah, I don't know why. No matter how much fear I cause, I can't enjoy it anymore.”
+
+“Maybe you're just getting tired of having everyone be afraid of you.” Ren suggested.
+
+Elerlyth looked down at him. Ren was a foot shorter than her, and he had to look up.
+
+“We're both going to get sore necks if we just stand here.” Ren said. “I'll be right back.” He let her hand go, and she took in a sharp breath. “Are you okay?”
+
+Elerlyth nodded but didn't speak.
+
+“I'm just going up to the living room to grab the couch. 20 seconds, tops.” Ren ran as fast as he could up to the apartment, stored the couch and was back in just over 10 seconds. He noticed her color had drained a little bit. He took out the couch and set it on the floor, between the stairs and the door. He sat in the corner of the couch and put his arm on the back. Elerlyth looked at him with raised eyebrows.
+
+“I'm just getting comfortable.” Ren said, then pat the seat next to him. “No teasing or hanky panky, I promise.”
+
+Elerlyth walked over to the couch and sat down right beside him, and held out a hand. Ren took it and she sighed. The Connection cut out soon afterwards, and her eyes widened. He smiled and made another Connection and she sat back.
+
+“Just snuggle in.” Ren said. “Contact makes it better, doesn't it?”
+
+She nodded and shifted a bit to the side.
+
+“Elerlyth, why are you being so reluctant?”
+
+“I'm trying my best to fight how much I want you, okay!” Elerlyth said and turned to glare at him. “You don't know what it's been like to eat so much and starve at the same time!”
+
+“Yes, I do.” Ren said, and his eyes turned dark.
+
+“W-what?”
+
+“I don't really like to talk about it.” Ren sighed. “One of the reasons I'm so thin in real life, is because I have that problem. No matter how much I eat, my body doesn't metabolize food like it's supposed to.”
+
+“I... I didn't know.” Elerlyth said in a soft voice.
+
+“I drink specially designed supplements all the time, just to get the nutrients my body needs.” Ren said. “It's not perfect, and the food plan I'm on uses supplements, too... but, I'm always hungry.”
+
+“Ren... I...”
+
+“When you told me that's what was wrong with you, I came as fast as I could.”
+
+Elerlyth took his hand in both of hers and held on. “Thank you.” She said and snuggled into the crook of his arm. Ren hugged her with his other arm, and they sat there for several minutes in silence.
+
+“So...” Ren said. “...do you want to tell me what you've been up to all this time?”
+
+Elerlyth chuckled. “I was going to ask you that.”
+
+They sat like that for about 2 hours, telling stories about what had happened to them. Of course, once it started, Ren would tell her about one incident, then Elerlyth would tell one to try and be better than his. This continued until Ren got to the giant boar, Deathgore.
+
+“Okay, you win.” Elerlyth laughed. “You win!”
+
+Ren smiled. “I'd say it's more degrees of winning.”
+
+“We've both survived some crazy things, sure...” Elerlyth turned and looked at him. “...but a legendary giant boar, the size of a freaking horse?” She shook her head. “That takes the cake!”
+
+Ren grinned. “Yeah, it was pretty neat.”
+
+“Neat?” Elerlyth looked at Ren like he was crazy. “It was drawn to Fear!”
+
+“Now that I think about it, that kind of reminds me...”
+
+“Don't you dare say it!” She glared at him, but Ren saw the twinkle in her eyes.
+
+“...of you.” Ren started to laugh as Elerlyth slapped him several times on the parts of his arms and legs that she could reach with her hand, and her other hand held onto his the whole time.
+
+“You...” *slap* “...did not...” *slap* “...just compare me...” *slap* “...to a...” *slap* “...giant PIG!” *slap*
+
+Ren had tears in his eyes as he laughed, and his Fear Aura faded as he lost his concentration. Elerlyth could clearly feel his amusement and enjoyment of her company, so she ceased her relentless attack and leaned back against him.
+
+“I hope you learned your lesson.” Elerlyth said and smiled.
+
+“I sure did.” Ren said as he snorted laugh. “You hit like a girl.”
+
+“Excuse me?” Elerlyth said and cupped a hand close to her chest. “What did you just say, mister?”
+
+“I was saying that you were taking it easy on me.” Ren grinned. “I expected...”
+
+Elerlyth opened her hand and a palm-sized spider hopped out of it and onto Ren's chest. Elerlyth's eyes widened as not a trace of fear escaped Ren at the spider's sudden appearance. All she felt was curiosity and caring.
+
+“Hey, little guy.” Ren said and put a hand on his chest for the spider to crawl onto. “Did you kill Tristan for me?” The spider crawled onto his hand and he picked it up to look at it. “You did, didn't you?”
+
+Elerlyth stared at Ren as he let the spider crawl onto his face and then up into his hair. “Ren... how are you doing that?”
+
+“Doing what?”
+
+“My spiders always attack.”
+
+“Were you trying to kill me?” Ren asked.
+
+“No.”
+
+“Then I had nothing to worry about.” He said and smiled. “I spent a lot of time hiding in places with spiders. If you leave them alone, they leave you alone.”
+
+“It's crawling all over you!” Elerlyth said. “Doesn't that bother you?”
+
+“If it gets into my clothing, yeah.” Ren said. “There's a danger I might hurt it when I move.”
+
+She stared at Ren like she'd never see him before. “You're crazy.”
+
+“I've been told that.” Ren said and chuckled. “It seems to be a popular opinion.”
+
+Elerlyth snorted a laugh.
+
+“I saw you generate it.” Ren said. “Does it have a time limit before it dissolves?”
+
+“About 5 minutes.” She said and smiled. “It usually gets squished long before that, though.”
+
+“That's a neat ability.”
+
+“It's a spell, actually.”
+
+“No way!” He said, surprised.
+
+Elerlyth nodded. “I got it when I hit level 50.” She smiled. “It was only the size of my thumb then, though.”
+
+“What level are you now?” Ren asked.
+
+“85.”
+
+“Nice.”
+
+“What about you?” She asked, curious.
+
+“I hit Level 6, not that long ago.” He said, to her shocked expression. “I'll be leveling up faster, now that my Fame bonus is a lot bigger.”
+
+Elerlyth stared at him with an open mouth.
+
+“What?”
+
+“After all this time, and the things you've done...” Elerlyth shook her head. “...and you're still only Level 6.”
+
+“Honestly, my level doesn't bother me.” Ren chuckled. “The things I can do far surpasses my level.”
+
+“Like what?”
+
+Ren eased her off of his chest and took out his blacksmith's hammer and held it against her breastplate.
+
+Elerlyth turned slightly towards him. “What are you-”
+
+“Repair.” Ren said, and the breastplate was engulfed in a glow for a moment. The dent in the front popped out and the breastplate's Durability was restored. Elerlyth's took in a deep breath and it didn't dig in anymore. She ran her free hand over the spot where it was, and frowned.
+
+“I kinda wanted to keep that.” She said.
+
+“Elerlyth, you don't need the constant reminder of what happened.” Ren said and smiled. “It's bad enough it happened in the first place, but you don't have to suffer all the time because of it.” He looked at the breastplate and put his hammer away. “I might as well replace the enchantment, too.” Ren reached out a hand to her chest.
+
+Elerlyth's eyes widened and she caught her breath.
+
+“Can you take it off? I don't want my enchantment to affect anything else you might be wearing.”
+
+“O-okay.” Elerlyth said, unequipped it, and took it out from inventory. Her breasts dropped down some, as most of the support and push-up effect they had was from the breastplate. She only wore a thin fabric top underneath, dark blue in color, and it had a scoop neck low enough that Ren got quite a good look. He tried to not stare at her breasts in their natural state; but since she was right there beside him, he had a close up view of them, and couldn't help himself.
+
+“My face is up here, Ren.” Elerlyth said and grinned.
+
+“Hmm? Oh, sorry!” Ren said, and took the breastplate. “You're very distracting.” He put the breastplate on his lap, looked down at it, and put his free hand on it.
+
+“You just like the color of my skin.” She said and rolled her eyes. “Everyone that's not too afraid to speak, tells me it's 'exotic'.”
+
+“The color?” Ren frowned as he concentrated on the breastplate, and absorbed the enchantment. “I was staring at the wonderful shapes, actually.”
+
+Since Elerlyth had a firm grip on his hand, she felt everything he felt. She got the confusion, and then admiration, and started to blush from the truth in Ren's words. He enchanted it with a double glyph of Protection (8 runes total) and the double glyph etched itself into the metal.
+
+“There you go.” Ren said, as happiness filled him, and he passed it back to her.
+
+“T-thank you.” Elerlyth said and stored the breastplate into inventory. She didn't equip it again, however.
+
+Ren raised his eyebrow and she smiled.
+
+“I've been wearing it constantly since it was damaged. I need a bit of a break from it.”
+
+Ren chuckled. “I'm not going to argue for putting it on... until you want to go outside.”
+
+“That's good.” Elerlyth said and pushed Ren back into the corner of the couch. “Because you'd lose.” She said, turned slightly around, and snuggled down into the crook of his arm. She rested her head on his shoulder, and it gave Ren a clear view all the way down her top. He could actually count how many muscles she had on her abdomen.
+
+“Um, Elerlyth...”
+
+She crossed her free arm underneath her chest to grab his hand. It lifted her breasts and pushed them together.
+
+“Yes, Ren?” She said and looked at his face. It was flushing a little red, and she smiled.
+
+Ren swallowed audibly. “I'm engaged to be married.”
+
+“You told me that already.” She said, and shifted slightly, making herself jiggle a little. “That's 2 years away, game-time.”
+
+“But...”
+
+“You're allowed to do anything you want before then, right?”
+
+“But...”
+
+“I'm right here, Ren.”
+
+“But...”
+
+“You can't use having a girlfriend in real life as an excuse anymore.”
+
+“But...”
+
+“Ren, I can feel how much you want me.” Elerlyth said. “Both here...” She took one of her hands off of his and put it over her heart. “...and here.” She moved her elbow slightly, and nudged Ren's prominent bulge.
+
+“But...”
+
+Elerlyth looked at him longingly. “You're like a giant buffet for me, Ren.” She said and turned towards him. “All these strong emotions you're feeling... fear, wanting, worry, excitement, happiness, nervousness... even love.”
+
+“You... you can feel that?” Ren said, surprised.
+
+“I know you love her...” Elerlyth said. “...and that you don't care if she's real or not.”
+
+“But...”
+
+“I'm not asking to replace her, Ren.”
+
+“What are you asking me, Elerlyth?”
+
+“I want you to feed me.”
+
+“I'm doing that.” Ren said, then his eyes widened. “Dammit, sorry.” He made the Connection with his Screaming Terror ring and his cloak's Fear Aura.
+
+Elerlyth sighed and snuggled down farther, resting the back of her arm across his bulge. “Good god, that's...” She licked her lips seductively. “...scrumptious.” She purred as she writhed back and forth, and rubbed him with her arm.
+
+“Elerlyth...” Ren said, and caught his breath as she wiggled her arm. “I...” He looked at her. “I... need to give you a new sword.” He said, and slipped out from underneath her. Elerlyth still held his hand, however. “To replace the one you lost.”
+
+“Okay.” She said, and sat up. “Do you have it on you?”
+
+Ren shook his head. “I have to make it.”
+
+Elerlyth got a worried look on her face. “You have to let my hand go, don't you?”
+
+“Yes.” Ren said. “It'll only be for a short while.”
+
+Elerlyth felt the truth in his words and she sighed. “I'll wait right here, then.”
+
+“Hey.” Ren said and stepped close. “I'm not going to let you starve, but I can't be here all the time for you, either.”
+
+“I know... it's just...”
+
+Ren smiled. “I'm so irresistible, you can't help yourself.”
+
+Elerlyth snorted. “Don't get full of yourself, mister.” She said. She felt his self-mockery and pulled him close. “Don't sell yourself short, either.”
+
+“Was that a shot at making fun of my height?” Ren asked and smiled.
+
+She shook her head and looked him in the eye. “You're trying really hard to distract me.”
+
+“I have to.” Ren said. “I'm having just as much trouble as you were at first.” He smiled. “I'm trying to keep my hands to myself.”
+
+“Ren.” Elerlyth slid forward on the couch so she sat right in front of him, and his face was only a few inches higher than hers. “You don't have to keep your hands to yourself.” She lifted the hand she held, and tried to put it on her chest. Ren stopped letting her move his hand, just short of touching her, and her grip slipped off and she looked at him in surprise.
+
+“I'll make you that sword now.” Ren said, and the forge across the room lit up with a whoosh. “I can't wear the cloak while I work.” He unequipped the Dire Wolf Hooded Cloak and her eyes lost a bit of their shine. “I should move the couch closer, as my Aura only goes out 10 feet.”
+
+Elerlyth nodded and stood up. Ren stored the couch and moved it over closer to the forge, but away from the openings. He put the couch down and faced it towards the forge and anvil, so Elerlyth could watch him work. She sat down on the edge of the couch and watched as Ren put several high quality iron bricks into the large smelter. They melted pretty fast and Ren added more. He stirred it up quickly, and walked over to the couch.
+
+“How do you feel?” Ren asked, concerned.
+
+“I'm okay.” Elerlyth said.
+
+“Are you still all horny and willing to throw yourself on me?”
+
+Elerlyth snorted a laugh. “Not really.”
+
+Ren smiled and held out a hand to her. “I'm glad.”
+
+She took it and smiled. He sat down and she looked at him in appreciation. “How did you know?”
+
+“That you were drunk?” Ren asked.
+
+Elerlyth nodded.
+
+“You were acting like an alcoholic that had just gone on a bender.” Ren said. “I'd hoped that removing the source, you'd sober up a little.”
+
+Elerlyth squeezed his hand. “You could have taken advantage of me so easily there.” She smiled. “I really, really wanted you to.”
+
+“I never would have guessed that.” Ren said and laughed. “You're so hard to read sometimes.”
+
+She snorted a laugh. “What did I tell you about being a dick?”
+
+“That if you don't use it well, it's a waste?” Ren said and grinned.
+
+Elerlyth laughed. “Okay, that's true.” She said. “But... since you didn't use yours...”
+
+Ren leaned into her. “If anything did happen, the last thing I'd want is for you to be too drunk to enjoy it.”
+
+Elerlyth's eyes widened as Ren spoke the truth. “I thought...” She started to say, and Ren interrupted her.
+
+“I'm engaged, yeah.” He said. “But... I've been told by several people, that there can be all kinds of love. When Lucy and I broke up, I thought I was losing everything, then Nathalia was there to save me.”
+
+“Ren...”
+
+“It's okay. I know what you think about it.” Ren said and smiled. “If it is a logic loop, it's a damn good one.”
+
+“But...”
+
+“I'm living an entire different life in here, Elerlyth. In the Dwarven Kingdom, I'm the tall one. Everyone is starting to look up to me, both literally and figuratively. I'm becoming the example to set for change.”
+
+“Ren...”
+
+“Please, let me finish.”
+
+Elerlyth nodded and he continued.
+
+“I can do things in here that I couldn't even dream of doing in real life. I meet new people, I make friends...”
+
+She winced slightly and Ren smiled.
+
+“I make friends, Elerlyth... and not just NPCs.” He looked at her. “People I never would have met if I wasn't playing this game.” Ren smiled. “Like you.”
+
+Elerlyth looked at him.
+
+“Even after how we met, you found out I was in trouble in here, and came to visit me in the real world to warn me.” Ren said and gripped her hand. “If that's not friendship, I don't know what is.”
+
+Elerlyth felt a trickle of the appreciation flooding into her, and she smiled crookedly.
+
+“You're not getting it all, are you?” Ren said.
+
+“What?”
+
+“Without my cloak, you're only getting a little bit from me.”
+
+“How...”
+
+“Your skin is starting to lose it's dark color.”
+
+Elerlyth looked down and saw the same thing Ren did. “I guess I've been hungry for so long, I need bigger meals.”
+
+“I'd offer to let you inject me; but I've had enough of that in real life and I don't want it in here, either.” Ren stood up and equipped the cloak, concentrating on the Fear Aura. “Is that better?”
+
+Elerlyth nodded and Ren sat down again.
+
+“I won't do the boost, though.”
+
+“Now that we know the effects...” She said. “...we can be careful.”
+
+“We'll have to go slow, and see how things turn out.” Ren said. “What's that saying? Everything is good in moderation?”
+
+Elerlyth smiled. “Something like that.”
+
+“I don't want to spend time with you here, and have you drunk all the time.” Ren said. “I think you're a fantastic person, and I'd like to get to know you for who you are.” He grinned. “Not what you'd be willing to do when you're drunk.”
+
+Elerlyth licked her lips and let a grin spread across her face. “Who said I wanted you only when I was drunk?”
+
+“What-” Ren started to say, and Elerlyth kissed him passionately and took him into a hug.
+
+Ren reacted automatically, and hugged then kissed her back. Elerlyth felt intense excitement from Ren, and a bit of naughtiness, then regret, and remorse, then excitement again. She fed on everything he felt, because he wasn't holding anything back, or trying to hide anything. Elerlyth felt Ren offering all of his emotions up for her to consume, and her heart leaped. Of course, it made her very excited and her body responded in kind. Ren felt the tips of her breasts poke him in the chest, and he let the surprise and pleasure of the feel of her touching him flood into her. Elerlyth drank it all in and she moaned in pleasure and satisfaction. This lasted for several minutes, and Ren almost forgot what he was supposed to be doing.
+
+Elerlyth felt his indecision and she broke the kiss, but kept the hug. “The metal's ready, isn't it?”
+
+Ren smiled. “Unfortunately.”
+
+She chuckled and let her arms slide down his chest. “You'd better tend to it, then.”
+
+“How do you feel?” Ren said, and she felt concern.
+
+“I...” She took a breath. “I feel good, actually.”
+
+Ren looked at her, and smiled. “Your skin color's back in full force, too.”
+
+Elerlyth looked at her hands in surprise. “Hey, it is!”
+
+Ren stood up and walked over to the forge. “You're not drunk, either.”
+
+“What?”
+
+He took out several stone bricks and made a mold on the floor. “You're not writhing around like a cat with cream.”
+
+Elerlyth snorted a laugh. “Is that how you see yourself?”
+
+Ren laughed. “I seem to remember someone telling me that I was 'delicious'.”
+
+She smiled. “Yeah, in a moment of weakness.”
+
+He shrugged as he looked at the mold. “How big of a sword do you want?”
+
+“Hm?”
+
+“I have to pour the metal for the sword, and depending on how big you want it, I need to add more for the folding process.”
+
+“Oh... um... my old one was about this long.” Elerlyth said and held her arms out about 4 feet apart. “It was this wide.” She said and held her fingertips about 3 inches wide.
+
+“Do you want a similar one?”
+
+“Sure.”
+
+Ren raised a single eyebrow and she chuckled.
+
+“Just make one you think I'd like.” Elerlyth said. “You're the blacksmith.”
+
+He nodded and poured some of the molten metal into the mold. Once it was up to the point he needed, he stopped pouring and let it cool a little.
+
+Stat Change!
+
+Smelting Level 3 (Advanced 0%)
+
+It took a couple of minutes for the metal to cool, and once it was safe to pick up with his tongs, he opened up the side of the forge and put the blank inside. Once it was hot enough, he took it out and went to the anvil. He hammered it enough to fold it in half and put it back in the forge. He took it out and hammered it flat, and put it back in. Once it was hot enough, he took it out and hammered it enough to fold it again. He repeated this about a dozen times, and Elerlyth watched him in fascination the entire time.
+
+He's not taking any breaks! He just keeps going! Elerlyth thought as Ren hammered out the final shape, and stuck it back in the forge. Once it was hot enough, he quenched the blade in the barrel of oil. Ren took it out and smiled when it didn't light on fire. He took it to the workbench, added a hilt, then sharpened it to a fine edge. After a good polishing, he walked back over to Elerlyth and saw her shocked expression.
+
+“What is it?” Ren asked, concerned. “Are you okay?”
+
+“You just... for an hour...”
+
+Ren chuckled. “Yeah, I'm pretty good at metal forging.”
+
+“I know you're a blacksmith.” Elerlyth said and rolled her eyes. “I'm just amazed you didn't take any breaks.”
+
+Ren smiled. “It needed my undivided attention. If I'd stopped at any point, this might not have turned out so well.” He held up the blade, and it gleamed.
+
+“Oh... my...” Elerlyth's eyes shone as she stared at the blade.
+
+“You just have to decide what you want it enchanted with.” Ren said.
+
+“What?”
+
+“Easy, there.” Ren said and put a hand on her shoulder. “Take a breath. Do you want Earth, Lightning, Fire, Ice, Wind, or Water?” He asked. “I could make it lighter or heavier, too.”
+
+Elerlyth looked at him with a blank stare. “What were the options again?”
+
+Ren laughed. “Hold this for a minute.” He said and passed it to her.
+
+She took it by the hilt and it dropped to the floor, and dragged her hand with it.
+
+“Lighter it is.” Ren said and took it back, and enchanted it with a double glyph of Antidark (8 runes total) and it made the blade 32% lighter. He handed to back to her and smiled. “It's lighter, but when you swing it, it'll still have the same force as if it was still heavy.”
+
+Elerlyth lifted it and held it out. “It's still pretty heavy.”
+
+Ren grinned. “You'll get stronger.”
+
+She walked over to the middle of the open floor area and started swinging. Ren turned back to the forge and changed the mold on the floor to more of a square shape, then poured more molten metal into it. He let it cool for a minute and used the forge to fold it a few times. Ren poured the mold several times and made a pair of boots, a pair of gauntlets, and shoulder pieces, all with the same pattern he'd put on her breastplate. When he was done of them all, he dyed the pieces dark blue just like the breastplate, and then used his small crucible to smelt a bit of actual gold and covered the details in it. He then enchanted the pieces with double glyphs of Protection, and polished everything. What Elerlyth currently wore wouldn't be suitable for the armor pieces to fit, and would replace what she had on. Ren modified the bodysuit pattern he had and put strategic cutouts in certain areas, to highlight the parts that he thought Elerlyth would want to showcase.
+
+“You were right!” Elerlyth exclaimed. “It took over 3 hours and I'm exhausted...” She said and grinned. “...but, I just gained a point of Strength!”
+
+“Try lifting a house sometime.” Ren said under his breath, and chuckled.
+
+“What did you say?” Elerlyth came over to the workbench. “You lifted a HOUSE!”
+
+Ren looked at her and smiled. “I forgot you can hear just as well as I can.”
+
+“Okay, mister. Spill it!” She said and held her sword at the ready.
+
+“Sure.” Ren said. “I'll tell you all about it while you put this on.”
+
+“What is that?”
+
+“It's the bodysuit for your set of armor.”
+
+“My WHAT?”
+
+“I can't have my Head Guard walk around with just a breastplate and a sword.” Ren explained.
+
+“But...”
+
+“Just put this on.” Ren said. “Please.”
+
+Elerlyth looked at it, and sighed. “Fine.” She took it and equipped it. It replaced her thin fabric top but not her pants. The cloth was a tight weave and she ran a hand over it. “Is that a pattern of...”
+
+“Webs.” Ren said and smiled. “I've left the top open the same as your old one so it doesn't interfere with the breastplate, and there's cutouts at your hips.”
+
+Elerlyth looked at Ren with raised eyebrows.
+
+“What?” He asked.
+
+“Are they necessary?”
+
+Ren grinned. “You'll see.” He said, and handed her the gauntlets, the thigh-high boots, and the shoulder pieces. She saw the missing piece and equipped her breastplate from inventory.
+
+“Oh my god.” Elerlyth said as she looked down at herself. “Please tell me you have a mirror!”
+
+Ren grinned and went upstairs, stored the sitting table from the bedroom, and came back downstairs. He placed it at the bottom of the stairs and Elerlyth stared at herself in the mirror. She turned side to side, and the cutouts highlighted her hips perfectly. The boots stopped at the top of her thighs and the gauntlets covered her forearms, elbows, and part of her upper arms. The shoulder pieces accented the breastplate perfectly, and the gold traced along the details made it look like it was floating above the armor. The web pattern in the bodysuit let her skin show through just enough to be suggestive, but covered everything more than her normal clothes did.
+
+“So, do you like it?” Ren asked, and Elerlyth could feel his satisfaction, because he knew she loved it. She turned around to face him, and stepped in close.
+
+“I was going to joke about it being the worst piece of junk I've ever seen...” Elerlyth said. “...but it's honestly the most wonderful thing I've ever seen.” She unequipped her gauntlets and ran her hands along the sides of his face, then gave him a gentle kiss on the lips. Her fingers tingled with the intensity that tiny touch sent through her, and she felt a similar reaction from Ren. “Thank you so much.”
+
+“It was my pleasure.” Ren said and smiled.
+
+“Not yet it isn't...” Elerlyth smiled. “...but it will be.” She said and gently kissed him again.

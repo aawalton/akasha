@@ -1,0 +1,233 @@
+---
+id: fe217209-f976-5c0a-8f81-4848216f8e71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 603 - Meeting With The Princess"
+slug: 0603-chapter-603-meeting-with-the-princess
+partOf: mythrans-master-of-all-continued-completed
+position: 603
+ownLength: 2851
+unit: words
+publishedAt: 2018-06-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/222746/chapter-603-meeting-with-the-princess"
+royalRoadId: "222746"
+---
+
+Ren rode Princess through the air while Artemis and the 4 succubi flew beside him. Suniva sat on Ren's shoulder and laughed as they careened through the air so fast that she had a hard time breathing. Her Fire on the other hand, burned brightly inside of her.
+
+Ren could feel her joy and let that fill him up. He basked in it for several moments, then he opened the messaging system. He wrote up a quick message, stated that there would be an epic PvP duel between him and Glastor Killdane at the arena in Walin County on the weekend coming up. Instead of selecting someone to send it to, he chose 'send all' and sent it. It was a bit premature, since there would be about 3 game weeks before the weekend; but, Ren said he would send out a message right away.
+
+Princess slowed down and started to come in for a landing outside the city, and Ren told her not to bother trying to blend in, because he was done trying not to shock people. Princess diverted her course and ran through the air and over the outside wall, and Ren heard people gasp as he, Artemis and the succubi passed overhead.
+
+“It's the Sea Dwellers!” Someone shouted and pointed up at them. “We're being invaded!”
+
+“Don't be foolish.” Someone else said. “Sea Dwellers can't fly.”
+
+“But...”
+
+Ren and his group moved on without hearing the rest of the conversation, and he directed Princess to land at the back of the castle inside the walled off section. The succubi and Artemis landed beside her, and Ren took out the All-Seeing Mirror.
+
+“Show me Princess Diana, please.” Ren asked it, and it showed him her bedroom window. He could see her face clearly, and the wide eyes she had. She wore a thin shirt and a pair of pants, which was a bit odd for a princess to wear casually. “Thank you.” He said and stored the mirror, then looked up at her window and stood up on Princess' back. “Suniva, can I leave you here? Princess Diana might want to see me alone.”
+
+“Of course.” Suniva said and hopped off his shoulder and walked through the air to sit on the saddle. With his Spot ability, Ren could see Diana stand up in her room as well, so he walked up through the air and over to her bedroom window. People on the street could see him do so, and he didn't care. He stopped just outside the window and knocked.
+
+Diana took a deep breath and let it out, then opened the window. “Hello.”
+
+Ren smiled at her, because he could feel her emotions and knew that she wasn't as enamoured of him as she had been the last time he had visited her.
+
+“You can tell, can't you?” Ren asked, and she nodded.
+
+“Both your King title change and being a Sea Dweller, even though I know you're human.”
+
+“I'm an elfling, actually.” Ren reminded her and pointed to his ears. “Or generally, a Land Dweller.”
+
+“What am I supposed to do with you now?” Diana asked. “How do I handle this situation?”
+
+“May I come inside?” Ren asked.
+
+“You're powerful enough to do what you want. There's nothing that can really stop you now.”
+
+“Just because I can do something, doesn't mean that I should.” Ren responded.
+
+“Then you might as well come in.” Diana stepped back and left the window open. “Please forgive the mess.”
+
+Ren chuckled because he could see her room was immaculate, then stepped through the opening and closed the window behind him. “Thank you, Your Highness.”
+
+“I'm not sure that honorific applies from you anymore.” Diana said.
+
+“Me, either.” Ren said. “My Etiquette skill isn't giving me any hints, so this is new territory apparently.”
+
+“Then you can use my given name, if you so choose.”
+
+“And you, mine.” Ren said.
+
+“You're an Adventurer.” Diana said. “Don't you normally choose your own name?”
+
+“I kept my own so I wouldn't have to worry about confusion when someone spoke to me.” Ren said. “Plus, it saved me from having to think of one.”
+
+Diana chuckled. “Yes, I've heard the rumors of some strange names for Adventurers.”
+
+“I'd like to hear some of them when you have some spare time.”
+
+“I have some time right now, actually.” Diana said. “But, I think you're here for another reason.”
+
+“Yes, I've come to trade for the recording device.”
+
+“Hmm... well...” Diana turned away from him and walked across the room. “I was prepared to trade that particular item the day the treaty's time limit expired.” She said and turned back to him, and Ren could feel her simmering anger. “You didn't return like you promised.”
+
+“I have excuses I can give; but, I won't bore you with them.” Ren said. “I can admit I said I would be here after it expired and didn't specify when exactly that would be, though.”
+
+“Are you trying to argue with me about your wording?” Diana asked, a little indignantly.
+
+“No, merely stating facts.” Ren said and tapped the Hand of Glory around his neck. Diana looked down at her own neck and saw the Amulet of Interrogation there. She closed her eyes for a moment and then opened them as she looked at him.
+
+“Ren, I was annoyed with you...” Diana started, then sweat beaded on her forehead. “...I am annoyed with you.” She said and the sweat stopped. “I feel like you need to make it up to me before we can trade on good terms.”
+
+“Of course, Diana.” Ren said, and she took in a sharp breath. He felt how much she liked hearing the sound of her name like that, and he walked across the room and motioned to the bed. She looked at him with wide eyes, and he chuckled.
+
+“I can take out a table and chairs if you like, but I'd prefer to keep this casual.” Ren said. “Unlike all the other times I've been around you, it seems that I'm not really bound by proper protocol right now.”
+
+Diana nodded slightly and Ren went to sit on the edge of the bed, then stopped. His platinum armor disappeared and was replaced by a dark purple suit that was styled in a combination of High Elf Court and Human Royalty. Ren sat down and made himself comfortable, then pat the bed beside him. Diana sighed almost imperceptibly and walked over to the bed and sat a foot away from him.
+
+Ren felt her start to be uncomfortable, and he spoke. “Are you more of a fighter or a magic user?” He asked, and she looked at him with raised eyebrows. “Diana, I'm not going to rip your clothes off, if that's what you're thinking.”
+
+Diana's face went bright red at the thought of him doing that, and then his hand suddenly cupped the side of her face and he sat next to her. I didn't even see him move. She thought in surprise, then she realized he was touching her and it made her shiver slightly. His hand is so warm.
+
+“I've got all my titles on right now... even the not so great ones.” Ren said.
+
+“P-Prince Charming.” Diana said, and Ren looked at her with wide eyes. “I have the Identify Person ability now.”
+
+“I have that ability as well.” Ren said. “May I use it on you?”
+
+“What? Why are you asking?”
+
+“I don't like prying into people's lives without their permission.” Ren said, and Diana's face grew hot from embarrassment. “No, Diana. I'm not admonishing you.” He said and cupped the other side of her face. “You're the next ruling monarch. I told you to use all of your skills to do your best to keep yourself safe and to rule the kingdom.” He explained. “Using it on me was the smart thing to do.”
+
+“But... you just said...”
+
+“It's my own personal preference.” Ren said and then smiled as he let her face go. “I don't want to have hundreds of people's information in my head.”
+
+“Just mine?” Diana asked.
+
+“I tried using it once and it kind of worked... but, not really.” Ren said, as he thought about that witch-like creature he had met in the Underworld and didn't learn anything about her. “You'll be the first, assuming it works on someone as important as you.”
+
+“Well, both my father's ability and mine worked on you, so...”
+
+“I knew King Alamast was a bit too accepting of my position as the ambassador's assistant.” Ren chuckled. “I'm surprised he accepted my challenge.”
+
+“So was I... at the time.” Diana said and smiled. “After thinking about it, and seeing what you did for the kingdom after that...” Her smile faded. “I was surprised that my father was right about you taking all those people.”
+
+“All what people?” Ren asked.
+
+“The healed ones.” Diana said. “Most of them decided to move to your county.”
+
+“You're kidding.”
+
+Diana shook her head, and Ren took out the All-Seeing Mirror.
+
+“Please show me the people moving to my county.” Ren asked it, and it showed a large caravan of people. “Teepo?”
+
+“Give me a minute.” Teepo said and watched the caravan. “If I had to guess... and it really is a guess because I can't see inside some of the carts... I'd say there's almost 250,000 people there.”
+
+“Two hundred and fifty-six thousand, actually.” Diana said. “Nearly all the infected.”
+
+“Wow.” Ren said. “Where are they now?”
+
+The All-Seeing Mirror became a map and showed him they were about two-thirds of the way to his county.
+
+“Not much longer, then.” Ren said and stored the mirror. “Who would have thought I'd fill a whole city in one go?”
+
+“I didn't think you would.” Diana said, a little disappointed. “I told my father you weren't like that, and then you were.”
+
+“I'm not, Diana.” Ren said, and felt that spark from her. “All I did was offer them a new place to live and to pay for them to get there if they wanted.” He explained. “I told them all that they didn't have to leave their lives or their families and friends. I didn't guarantee jobs or incomes, just a place to live.”
+
+“For all of them.” Diana said.
+
+“If they chose to, yes.” Ren said. “Teepo, remind me to have the farms constructed under the starter city.”
+
+“Sure Ren.” Teepo said. “Hey, Ren?”
+
+“Yes, Teepo?”
+
+“Don't forget to have farms constructed under the starter city.” Teepo said and chittered in laughter.
+
+Ren chuckled. “I left myself wide open with that one.”
+
+“This... isn't a joking matter.” Diana said and held her chuckle in, but Ren felt her emotions.
+
+“Since people's lives are changing so drastically, it's not really funny.” Ren said. “However, levity can make even the most horrible things bearable.”
+
+Diana felt the tone change in his voice, and her hand reached out and took his. Ren held her hand and looked back at her, and she almost gasped at the pain in his eyes. Her heart beat faster as Ren let her take a peek into how he really felt about what was going on, and he was surprised that it made her care about him even more.
+
+“Diana...”
+
+“Shh.” Diana said and leaned forward and gave him a chaste kiss. Ren felt her trying to feed him emotions, and he opened his Emotion Siphon ability for her. She took in a sharp breath as she felt him accept what she offered, and she squeezed his hand tightly and pressed her lips harder to his.
+
+Ren wasn't sure what Diana thought she was doing, only that she wanted him to take what she gave him. He took it gratefully, because emotions given freely were always more filling and satisfying. He didn't move his lips, because the kiss wasn't what they were really doing. Diana was intentionally feeding him.
+
+It was a mix of emotions for him to sort through. There was fear, anger, anxiety, and worry; with a little bit of hatred mixed in for good measure. The emotions were strong in some cases, weak in others, and she pushed them all into him as hard as she could.
+
+Ren's ability didn't like those emotions very much, but it absorbed them grudgingly anyway. When her emotions shifted to resolve, strength of character, protectiveness, giving, and assurance, his ability almost vibrated with happiness.
+
+Diana sensed the difference, and knew she had guessed right about giving bad emotions first and good emotions after, just like drinking something bitter and following it up with something sweet. It counteracted the taste. She let the emotions trickle down to a stop, then broke the 'kiss'.
+
+“Do you feel better?” Diana asked.
+
+“Much better.” Ren said. “Thank you.”
+
+Diana smiled as she looked into his eyes and didn't see the pain there. “You're welcome.”
+
+“You continue to impress me every time I see you.” Ren said.
+
+“I suppose I can take that as a compliment.” Diana said.
+
+“It wasn't intended as one.”
+
+Diana looked at his forehead to see if there was sweat, and there wasn't. She started to frown, and he smiled.
+
+“I was just stating the truth.” Ren said. “If I was going to compliment you, I'd compare your beauty to that of the sunrise. No matter how many times you see it, it's still a wonder to behold.”
+
+Diana's face flushed red at the eloquent compliment. As a Princess of the Human Kingdom, she had heard a hundred different compliments by thousands of people; but, the others seemed downright childish in comparison and she wasn't sure how to handle it.
+
+Ren felt her emotions and took her hand, then spoke in a slightly deeper voice. “Diana.”
+
+Diana trembled slightly at the seemingly more intimate tone of his voice.
+
+“A compliment can be just that, a compliment.” Ren said, and she nodded. “I can feel that you want it to be more... a lot more.”
+
+“I...” Diana looked away from him for a moment.
+
+Ren admired her long blonde hair, and it looked so much better flowing down her back than it did in a fancy hairstyle. “I really like your hair down like this.” He said and used his free hand to comb through it. Diana closed her eyes and let herself enjoy the feeling of his fingers through her hair. Her breathing slowed down as she calmed down, and then she realized what he was doing.
+
+“Ren, thank you.” Diana said and opened her eyes as she turned her head back to look at him. “For giving me time to process what I'm feeling.”
+
+“Sometimes all we need is a moment to breathe.” Ren said. “I can feel you're not going to let your emotions run free like a moment ago.”
+
+“I want to let them, though.” Diana said. “When I'm with you, I... even when we argued...” She smiled. “You are an amazing person.”
+
+Ren chuckled. “I was going to say the same thing.” He said. “I wanted to thank you for looking past my Sea Dweller status.”
+
+Diana chuckled, too. “I've met a lot of odd people as the princess of an entire kingdom, Ren.” She said. “I learned the ability a long time ago to look past a lot of things in order to deal with those people.”
+
+“I'm quite happy about that.” Ren said. “Now, shall we get to why I'm here?”
+
+“Our really late date?” Diana teased, and he laughed.
+
+“I really am sorry, and I do have some good excuses that I can tell you later.” Ren said. “Right now, though...”
+
+“Show me what you have for me.” Diana said.
+
+“I could make a joke about that.” Ren said and made her smile. “First off, a fully enchanted armored bodysuit.”
+
+Diana's eyes almost popped out of her head when he presented her with one of his platinum-weaved spider silk cloth bodysuits. Ren showed her that the feet, gloves, calves and forearms detached for wearing under any style of clothing, then warned her it loses some of it's effectiveness if all she wore was the torso part.
+
+“Ren, this... even my father, the king himself, couldn't justify...” Diana shook her head. “You forged platinum coins to make it!”
+
+Ren chuckled. “I had used another metal at first to weave into the fabric, which was plenty strong on it's own, then I made my platinum armor.” He said. “My next thought was that I should take the next step, especially since there are times armor can't be worn.”
+
+“I don't know what to say.” Diana said. “You could buy all the image projectors in the land with this bodysuit.”
+
+“That's not for trade.” Ren said. “That's just the basic protection that I give out to people that may become important in my life and I want to protect them.”
+
+Diana's mouth made that little 'o' of surprise, and he grinned at her.
+
+“Now, let's get to the good stuff.” Ren said and took out several of the different diamond-covered bracelets he had designed for her.

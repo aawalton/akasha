@@ -1,0 +1,517 @@
+---
+id: 0579c39d-7837-59a6-9a21-ee36f6c63f1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 202 - Nathalia Is Here, Part Three"
+slug: 0190-chapter-202-nathalia-is-here-part-three
+partOf: mythrans-master-of-all-continued-completed
+position: 190
+ownLength: 6022
+unit: words
+publishedAt: 2017-03-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125520/chapter-202-nathalia-is-here-part-three"
+royalRoadId: "125520"
+---
+
+Ren and Nathalia came to the street that his business was on, and had to stop walking.
+
+Teepo. Ren thought, and Teepo took off from his shoulder and flew over the crowd. There was people everywhere, standing nearly shoulder to shoulder. A lot of them turned around to look at him, and some of them even waved.
+
+“There's a bunch of people in and around the business, Ren.” Teepo said.
+
+“What's going on?” Ren asked out loud, and the woman standing in front of them turned around.
+
+“There's a job opening at the hottest business in town.” She said. “Getting a salary would be good enough; but there's a rumor that it's by commission, too.”
+
+“I didn't hear that rumor.” Ren said, and the woman shrugged.
+
+“Like I said, it doesn't matter one way or the other.” She smiled as she lifted her hands and almost cupped her own breasts, then thought better of it and let her hands drop. “They sell the best products!”
+
+Ren looked around and saw that it was mostly women, with only a few men scattered about. He looked at Nathalia, and then back at the crowd. The people there were nearly a foot and a half taller than the both of them, so trying to walk through the crowd was not going to work.
+
+“I knew I should have made a back door to this place.” Ren said, then led Nathalia around to the back of the building. It only took a few minutes to smooth out the pile of dirt there, and Ren built a set of stairs that went along the back of the building and up to the second floor. He knew exactly where the landing was, cut a hole in the wall, and built a doorway and a door. Ren stepped back, and ushered Nathalia in ahead of him.
+
+“Thank you, kind sir.” Nathalia said as she passed, and Ren shut the door and locked it. He was tempted to store the stairway; but upon reflection, decided it was better to have a quick exit without having to jump down to the ground. They went down the stairs and opened the door to the shop. It was packed wall to wall with people, even worse than what was outside. He was lucky that the rear area and lingerie display was behind Anabelle's desk, so no one was packed right in front of the door. He could see Anabelle was quite overwhelmed with all of the customers.
+
+“I'm sorry I didn't come back sooner.” Ren said, and Anabelle screeched as she whipped around to stare at him.
+
+“How... how in the world did you...”
+
+“Back door.” Ren said.
+
+“We don't have a back door.” Anabelle said.
+
+“We do now.” Ren said and smiled. She sighed, smiled back, then turned back around to face the people trying to get her attention.
+
+“Please, calm down everyone.” Anabelle said. “There's no need to shout, push, or do anything else to try and get my attention.”
+
+No one was listening to her, however. The crowd noise was too loud for anyone to hear her, except for the people that stood right in front of her desk. Ren moved her chair over and stood on it. It added 2 feet to his height, and he was now a few inches taller than everyone else; but, that wasn't enough for them all to see him. He sighed, climbed up onto the desk, and towered over everyone. Ren put his fingers in the sides of his mouth, and blew. A loud whistle pierced the air and everyone fell silent.
+
+“If I could have everyone's attention, please.” Ren said, and they all looked at him. “Are there any genuine customers? If so, raise your hands.”
+
+A smattering of hands were raised above the mob of the crowd.
+
+“If you would be so kind, please step into the forge area of the shop. It's still on, so stay away from the forge itself. There's a couch, though; so have a seat for a few minutes.”
+
+The people that had raised their hands started to move through the crowd towards the forge area.
+
+“Now, everyone else.” Ren said. “How many are here only to confirm the rumor that sales are by commission?”
+
+About a quarter of them raised their hands.
+
+“It is not a commission job. If it was, I would have added that to the job posting.” Ren said.
+
+A soft groan escaped several people, and they made their way to the front door.
+
+“How many of you are just friends of people who want to apply, and only came along to provide support?”
+
+Nearly half of the people raised their hands.
+
+“The people who actually want to apply for the job, can come over here to go through the door at the back, and up to the second floor. It's standing room only, since it was only finished today; but, at least it will give you a lot more room to move around.”
+
+The people that wanted to apply for the job stepped forward, and filed past the desk. Nathalia held the door open for them, and they went upstairs to the second floor. Teepo flew past and went up the stairs as well.
+
+“I'll keep an eye out, and let you know if anyone tries to go up to the apartment.” Teepo said.
+
+Thanks, Teepo. Ren thought as the crowd thinned out to a more manageable amount, and he climbed down off of the desk.
+
+“Whew! Thank you.” Anabelle said. “I wasn't sure how much longer I could keep a handle on them.”
+
+“Me, either.” Ren said. “So, you better go upstairs and start talking to them. See if you want any of them working here.”
+
+“M-me?” Anabelle asked.
+
+“Well, yeah.” Ren said. “You're the one running the place. If you don't like them, don't hire them.”
+
+“But...”
+
+“Do you want me to hire someone you don't like?” He asked and grinned at her.
+
+Anabelle opened her mouth to say that her opinion didn't matter; but then she saw the smile on Ren's face and changed her mind.
+
+“You're going to trust me to hire someone for you?” She asked.
+
+“Sure.” Ren said. “In fact, why don't you pick out three people. We can rotate them in and out on a trial basis over the next week or so, and if they work well with you, we'll hire them permanently.”
+
+“Th-three of them?” Anabelle asked, surprised.
+
+“Why not?” Ren asked. “You work pretty hard already, and you do only get one day off a week. Why not get as much help as you want?” He made a shooing motion with his hands.
+
+Anabelle took a deep breath, and smiled. She took him into a hug and kissed the top of his head.
+
+“Thank you for worrying about me.” She said, and let him go.
+
+“It's no trouble.” Ren said. “Just don't forget that you're not limited to the people already in here. There's a pile of people outside just waiting to get hired.”
+
+“They don't even realize you're the owner.” Anabelle chuckled. “If they knew, I bet there would be a lot more people out there.” She said, then went through the door and up the stairs. Nathalia shut the door and came over to Ren.
+
+“I think she's right.” Nathalia said. “How many of them would like to have a boss like you?”
+
+Ren shook his head. “I think you're both overestimating me.”
+
+Nathalia chuckled. “You'd better take care of those customers in the forge area.”
+
+“Oh, right!” Ren said and left Nathalia behind the desk. He dealt with the customers, and they paid for their orders. One woman asked Ren to carry her things for her, and it gave Ren an idea. “I can't leave the shop at the moment, but I can deliver it in a little while, once everything calms down a little.”
+
+“That's fine.” The woman said. “Thank you.”
+
+“You're welcome.” Ren said, and she gave him her address. When she left the shop, he saw that he'd dealt with all of the available customers and went back to Nathalia, who was now sitting behind the desk.
+
+“Leaving a list of prices was a good idea.” Nathalia said. “The people just standing around bought a bunch of things.”
+
+“Thank you for taking care of them.” Ren said, and gave her a quick kiss. “I'm going outside to see if there's any other customers to deal with.”
+
+“You're not going to wait and see if they come in first?”
+
+“With this crowd?” Ren laughed. “If my guess is right, they're caught up in the press of bodies.”
+
+Nathalia smiled. “All right, but don't be long.” She looked at the door behind her as several people came out of it. “Anabelle is sorting them fast.”
+
+Ren nodded slightly and went outside. He took out a ladder and put it against the side of the building, and climbed it to do the same thing that he did inside the store. He asked for actual customers first, and he helped them as best as he could, then asked for actual job applicants.
+
+Teepo, how is everything? Ren thought to his friend.
+
+“Not too bad.” Teepo said. “Anabelle is going through the workers like a hot knife through butter.”
+
+Thanks. I'll bring more in. Ren thought, then led more potential workers inside, and to the door that went up the stairs. He told them to go up to the second floor, and Ren stood beside Nathalia. The next hour passed quickly as people came down from the second floor, met the ones waiting for them, and left. Ren dealt with a few more customers, and then Anabelle came out of the door with three women behind her. They were about the same height as her; they had long hair to the middle of their backs, and they all wore the largest smiles Ren had ever seen. One was blonde, one was a redhead, and the last had brown hair.
+
+When added with Anabelle, it's like I have a complete set of hair colors. Ren thought. “I assume you've found who you'd like to try working with.” He asked Anabelle, and she smiled the same large smile.
+
+“I have.” She said. “This is Carly, Katie, and Holly.”
+
+“Hi.” They said at the same time, so Ren had no clue which woman had which name.
+
+“Hi.” Ren said. “Which one of you is going to try and work today?”
+
+The woman in the middle raised her hand. “I hope I can meet all of your expectations.”
+
+“Don't worry about that.” Ren said. “As long as you do a good job, and treat the customers well, I'm sure everything will be fine.”
+
+“Do we get matching outfits?” One of the women asked. “I really like what Anabelle is wearing.”
+
+“Sure.” Ren said. “Give me a few minutes.”
+
+The women nodded, and Ren went over to the forge room to a workbench, and took out enough fabric to make three similar outfits. He changed the size of the lapels and made them smaller, so that the cut was slightly different from Anabelle's outfit; and it was clear to anyone that looked closely, that Anabelle's was the original. He dyed the fabric and made the three outfits, then turned around to see the women standing there watching him as he worked.
+
+“He really does make them himself.” One of them said. Another leaned over and whispered in her ear. “Yeah, I thought he was a blacksmith, too.”
+
+“I am.” Ren said as he handed an outfit to each of the women, and they nearly squealed with joy. He wasn't sure why women seemed to like getting new clothes so much; but, he didn't question their reaction.
+
+“Thank you.” The one who had spoken before said. “I'll go and get changed.”
+
+“I want to get changed, too!” One of the others said.
+
+“You can't, Holly.” The last one said. “Katie's working today. You're working tomorrow.”
+
+“Aw!” Holly said. “I wanna try it on!”
+
+“You can do that later.” Carly said.
+
+“Okaaay.” Holly said, disappointed.
+
+“If you put it on now, people will think you're working.” Ren said. “I don't mind having more help for Anabelle, but let's give Katie a chance to work first.”
+
+Holly smiled at him. “Anything you say, boss.”
+
+Katie came out of the change room, and you could tell that her outfit was a little different. Anabelle smiled and gave Ren a little wink when she realized he had made them different on purpose. Ren went over to Nathalia and asked her if she wanted to eat lunch with him.
+
+“Like I'd want to eat with anyone else.” Nathalia said and laughed. “Let's head over to the restaurant and eat there.”
+
+“That's a great idea.” Ren said, then looked at Anabelle. “Do you have food for lunch?”
+
+Anabelle looked at him with surprise on her face. “I... I didn't know I was supposed to have food ready for you.”
+
+Ren chuckled. “I'm sorry, I didn't mean to imply that. I was asking if you had food for yourself for lunch.”“Oh!” Anabelle said as she relaxed. “No, I don't.”
+
+Ren took out the large icebox and put a couple of plates on her desk, then stored it again.
+
+“I'll be back in a little while.” Ren said, and took Natalia's hand and led her out of the shop, down the street, and around the corner to Mitchell's old place. They went inside and Nathalia sat at one of the tables.
+
+“I'll be right back.” Ren said. “I just have to make a quick delivery.” He left the restaurant and ran to the address the woman had given him. She had just arrived home herself, and he put her new dresser in her bedroom. She thanked him for his promptness, and Ren ran back to the restaurant. He went inside, took out the large icebox, and put a couple of plates of food on the table.
+
+“Did you want it warmed up?” Ren asked.
+
+“Sure.” Nathalia said. “Do you want me to go and get the stove?”
+
+“Did they deliver the equipment already?” He asked, and she nodded slightly. “Then sure. Only take one piece at a time, okay? I don't want you to strain yourself.”
+
+“I'm not going to take more than I can handle.” Nathalia laughed. “Unlike someone else that I know.”
+
+“Hey, I handled it.” Ren said as he smiled.
+
+“Yes, by almost dying.” Nathalia shook her head. “I still can't believe you moved Dorcot and Angeilin's house like that.”
+
+Ren grinned. “It was a first and a last for me, that's for sure.”
+
+Nathalia got up from the table and went into the small storage room behind the counter. Ren took out a stone brick and enchanted it with several fire runes and a wind rune combined in a glyph, activated it, and held the plate of food over it. He used his Fire Manipulation ability to disperse the heat from the plate into the food; but, didn't make the same mistake he had made once with Ereka burning her fingers on food that was too hot. Nathalia came out of the storage area and walked over to the section where the kitchen would be. She took out the stove and put it where she thought it would go.
+
+“You need to add the stone bricks.” Nathalia said and came back over to the table.
+
+“Eat first.” Ren said, and handed her the plate of warmed food. She sat down and they ate their meal in companionable silence. When they were done, Ren put the empty plates back in the icebox, absorbed the enchantment from the stone brick, and stored both it and the icebox. He went to the stove and added enough bricks to be used instead of wood.
+
+“You're not going to enchant them?” Nathalia asked when he shut the bottom compartment.
+
+“I can't, until we find the cooks you want to work here.”
+
+“I guess leaving the stove on all the time would be a bad idea.”
+
+Ren snorted a laugh. “Yeah, especially if you don't want the place to burn down before it opens.”
+
+Nathalia laughed as well, and then she moved over the other equipment. A large grill, a huge oven, a portable pantry, and then supplies.
+
+“I wish I could help.” Ren said, as Nathalia dropped off yet another load of food.
+
+“Me, too.” She said. “This stuff is heavy.”
+
+“I'd suggest moving my other warehouse in the Dwarven Kingdom closer to House Neram Keep, but I'd lose the portal if I did, and it would cost another hundred platinum to establish it again.”
+
+“Plus, you can only use it for another few months anyways.” Nathalia said. “There's not much point in going through all of the trouble to move it.”
+
+Ren nodded slightly and took in a deep breath; then let it out slowly. “At least I can still see you after that.”
+
+Nathalia came over to him and they embraced each other. She gave him a light kiss, that became something more impassioned. They both had their emotions run high, then Ren remembered where they were.
+
+“We... shouldn't do this.” He said and looked around.
+
+“There's a counter here, too.” Nathalia suggested. Ren looked at her with wide eyes, and she smiled demurely. She stepped away, kept a hold of one of his hands as she led him over to the counter, and he did the same thing that he did in the other building. He laid a bolt of cloth down to make the floor more comfortable, then they stored their clothing and made love to each other. It seemed fitting somehow, that they had christened both buildings by doing so. They cleaned each other up and equipped their clothes.
+
+“No matter how many times we sleep together, I still marvel over you.” Ren said.
+
+Nathalia smiled. “I was just thinking the same thing.”
+
+“I don't know what I ever did to deserve you.” Ren said, and cupped the side of her face.
+
+“You gave me an enchanted stove and said my given name in public.” Nathalia said, and laughed at Ren's surprised expression.
+
+“That's... not what I meant.” He said, and she kissed him.
+
+“I know that, My Love.” Nathalia said. “But it's best to not think about such things. I'm yours, and that's all that matters now.”
+
+*
+
+Jhulune had heard that there was a job opening at Ren's shop; but, she would never abandon her mentor Jen at the lumber mill. Although it was really tempting to actually get paid for her work, she knew that an apprentice was never actually paid a salary; only sometimes tips or even shares on really large jobs. 'She was there to learn, not to earn money' in the words of her mentor. She'd had no idea that Jen had saved all of their shares until the city repair job was completed, and she looked at the pile of 25 gold coins in her hands.
+
+What in the world am I going to do with it all? Jhulune thought. Well, give some of it to my parents, obviously. She chuckled. Imagine the looks on their faces if I spent it all!
+
+She put 10 gold coins into her pocket, and 15 gold coins in the other pocket.
+
+I think I'll stop at Ren's shop during my break. Jhulune thought as she touched the strap of her bra. Just to see what else he has for sale.
+
+*
+
+Ren and Nathalia went back to the shop to see how things were going, and Katie was doing a good job dealing with the customers. Anabelle praised her, out of Katie's earshot of course, and Ren told her that if nothing bad happens, to offer her the job at the end of the day. Anabelle nodded, and Ren turned to Nathalia.
+
+“What would you like to do now?” Ren asked her.
+
+“I'm not sure.” Nathalia said. “We've got another 7 hours before nightfall. What else is there for me to see here?”
+
+Ren thought about it. “Well, there's not much else in the city to show you; but, I do know a couple of places you might like to see.”
+
+They left the shop and went to the stables. Ren rented a horse and cart, and took Nathalia out through the North Gate. After a short ride, he asked her to close her eyes. She did so, and he drove a little further. He pulled the cart to a stop, set the brake, and asked Nathalia to concentrate on her House Neram pendant. She did so, and Ren felt their Auras merge. He turned her head to look to the side, and spoke.
+
+“Okay, open your eyes.”
+
+Nathalia opened her eyes, and the sunlight was at just the right angle to highlight all of the giant sunflowers perfectly.
+
+“By... by the gods, Ren...” Nathalia said, her voice and feelings full of wonder. “It's... it's...” She took a breath, then another. “I don't know what to say to describe it.”
+
+Ren hugged her, and she leaned into him. “That's why I wanted to share our Auras.”
+
+Nathalia sighed, and they sat there for about 10 minutes and just watched the soft wind shift the endless field of flowers from side to side, and basked in the wonder they both felt.
+
+*
+
+The High Elves tracking team had found the site of the skirmish battle, and it took several hours before the pair of jaguars had finally picked out the one individual scent that their master was looking for. Once they had it however, they would never lose it. The jaguars crashed through the underbrush, ran around several trees and then jumped into a large river.
+
+“I'm always amazed they can do that.” One of the guards said. The Tracker laughed, his voice making the sound of growling and claws clacking.
+
+“Most people don't know that jaguars love the water, and can even track prey through it.”
+
+“You're kidding.”
+
+The Tracker shook his head and smiled. “They don't even have to search for the scent when they reach the other side.”
+
+“No wonder you're always in high demand.”
+
+The Tracker nodded. “I get hired to find all kinds of things.” He said. “None are as satisfying as this, though.”
+
+The guard laughed. “Yes, our dark brethren are the best hunt to be on.”
+
+“Don't call them that!” The Tracker exclaimed, then sighed. “They are abominations, and need to be exterminated.”
+
+“Ha!” The guard said. “Good luck with that.”
+
+The Tracker nodded. “I'm doing my part.”
+
+“Just don't finish it.” The guard said. “Catch, relocate, and release, remember?”
+
+The Tracker didn't say anything, and watched the two jaguars climb out of the water on the other side.
+
+“They're out.” He said, and the guard put a hand down to the water. A water elemental reached a hand up to grab it, and a moment later, a 10 foot wide section of the river's surface froze over to the other side.
+
+“Now it's my turn to say that I'm always amazed that you can do that.”
+
+“It's because of my high water and ice affinities.” The guard said as he let the frozen hand go. “It only lasts a few minutes, though; so, get across before it starts to melt.”
+
+The pair of High Elves made their way across the ice quickly, and reached the other side. Several cracks could be heard, and a minute later, the ice broke up and flowed down the river. The water elemental waved the still frozen hand to the guard, and the guard waved back.
+
+“Let's go.” The guard said, and he and the Tracker ran after the jaguars.
+
+*
+
+Ren drove the cart back to the city, and then out the West Gate. “This is a bit of a long drive.”
+
+“You're taking me out to your County.” Nathalia said.
+
+Ren nodded slightly. “I can run it pretty fast by myself; but with the horse and cart, it takes about 3 hours.”
+
+“I'm not in any rush.” Nathalia said. “I'm getting to spend the whole day with the man that I love.”
+
+Ren smiled. “And I get to spend the day with the woman I love.”
+
+Nathalia put her head on his shoulder for a brief moment, then sat up straight. Ren chuckled.
+
+“It's too rough of a ride to cuddle, My Love.” He said. “I've been fighting the urge myself.”
+
+Nathalia laughed and put a hand on his leg instead. They made it to the Main House that Ren had built in the County, and he parked the horse and cart in the available space. Ren took her inside and showed her how different it was from a normal Main House.
+
+“You made it into an actual house, and not just a House-governing building.”
+
+Ren nodded slightly and took her up the stairs.
+
+“You're really planning on living here?”
+
+“Eventually.” Ren said. “I needed to make some kind of arrangement.”
+
+“Why didn't you just buy a house in the city?”
+
+“I don't have to.” He said. “I stay at the apartment above the business when I'm in town. Of course, I haven't slept there overnight in... well, it's been a while.”
+
+“Can you show me the village?” Nathalia asked.
+
+“Sure.” Ren said, and they left the Main House and climbed into the cart. He drove to the village, and showed Nathalia the sheer cliff face it was made under.
+
+“No wonder you want to build new houses around the Main House.” Nathalia commented. “I'm getting nervous it's going to crumble, and I just got here.”
+
+Ren chuckled. “I know, right?” He shook his head. “I think it started as a good base, to protect the village against attackers; but, the physical danger from the protection is more pronounced than anything else right now.”
+
+“Do you think you can hire a crew to come out here to work on it?”
+
+“If I pay them enough, and probably make them somewhere to live while they're here.” Ren said.
+
+“Then I'm sure you'll get everything done before you know it.” Nathalia said, and turned to him. “Thank you for showing me all of this.”
+
+“What's mine is yours, remember?” Ren said, and Nathalia's mouth dropped open.
+
+“Ren, that only applies if we get married!”
+
+He shrugged his shoulders. “I received all of this while still under contract with you, so... you tell me. Do you own half of it?”
+
+Nathalia was going to argue that it didn't matter, because when the contract expired, all deals were null and void; but she could see the gleam in his eye, and shook her head.
+
+“You don't care if I argue about it, do you?”
+
+“Nope.” Ren said and hugged her. “I don't need a piece of parchment or a ceremony to tell me what you mean to me.”
+
+“Oh, Ren.” Nathalia said, and kissed him. A few minutes later, they got back in the cart and drove back along the main road, and Ren decided to stop in at the farmhouse. He pulled the cart to a stop next to it, then climbed down.
+
+“What's this place?”
+
+“The seat of authority for the village.” Ren said. “The village elder is usually here. I don't know if she lives here, or just comes here to work, though.”
+
+Ren and Nathalia walked arm-in-arm over to the farmhouse, and Ren knocked on the door. Patty opened it and stared at them.
+
+“She's the elder?!?” Nathalia asked, surprised.
+
+“Yeah.” Ren said. “Hi, Patty. I'm sorry I haven't been back to take that tour; but, I've been really busy with a bunch of things.”
+
+“I saw.” Patty said. “That's quite a 'house' you've made.” She looked at Nathalia. “Who's this you've brought with you?”
+
+“This is my fiance, Nathalia.” Ren said.
+
+“Hello.” Nathalia said.
+
+“Hi.” Patty said. “You arrived here just in time.”
+
+“For what?” Ren asked.
+
+“I need a ride to Aurora.”
+
+“We'd be glad to give you one.” Ren said. “I'll make sure you get back here, too.”
+
+“Ren.” Nathalia said. “We don't have the time to do that.”
+
+“I didn't say I'd take her back personally.” Ren said. “I'll hire a driver.”
+
+“Okay.” Nathalia nodded slightly. “Just in case the Sage is wrong, and we will have that event tonight.”
+
+“She's not wrong.” Ren said. “At least, she hasn't been yet.”
+
+“I'll be right back.” Patty said, and disappeared from the opening.
+
+“She looks a lot like you described Lucy, Ren.” Nathalia said. “Are you sure it's safe to have her here?”
+
+“Don't worry. I've been warned about her, and I have absolutely no intention to start anything with her.”
+
+Nathalia sighed. “I don't know if your intentions have a lot to do with it.”
+
+Ren looked at her, and then Patty came out with the jar of copper coins.
+
+“Okay, I'm ready.” Patty said.
+
+“Um... can I give you something to carry that?” Ren asked her.
+
+“If you want.” Patty said. “Although the jar holds the money just fine.”
+
+Ren took out a coin pouch and held it out to her.
+
+“What is it?”
+
+“It's a coin pouch. It will hold money, and convert it to any currency you want.”
+
+Patty took it gingerly. “What do I do with it?”
+
+“Equip it.” Ren said.
+
+Patty did so, and gasped as she now had something on her person that held money.
+
+“Now dump in the coins from the jar.” Ren suggested.
+
+Patty did as Ren told her, and the coins slid in easily. She watched it as it easily took in nearly three times it's size in coins, and yet it didn't bulge out or get heavier.
+
+“How is this possible?” Patty asked, then the 100 copper coins she had so carefully counted only minutes before Ren had shown up, became a single silver coin and she gasped. “A SILVER COIN!” She yelled, took it out, and held it up to the light. “It's a silver coin.”
+
+Ren and Nathalia looked at each other, then looked back at Patty.
+
+“What did you need the money for, if you don't mind me asking.” Ren said.
+
+“We've been saving up for a shovel.” Patty said, as she marveled at the silver coin. “The old one broke last month, and we have to use the money we've been saving all year to buy a new one.” She put the coin back into the pouch and looked at Ren. “The water drainage ditch won't dig itself.”
+
+Ren looked at Nathalia, and she smiled at him.
+
+“Go ahead. We've got a bit of time left before we absolutely need to leave.”
+
+“About half an hour.” Teepo said from Ren's shoulder.
+
+“Can you show me where this ditch needs to be dug?” Ren asked.
+
+“Shouldn't we go?” Patty asked. “I need to get to town before everything closes.”
+
+“Don't worry. If you still want to go to town later, I'll take you.”
+
+“Okay.” Patty said. “It's this way.” She turned around, put the empty jar on the step of the farmhouse, and started to walk across the field. Ren followed her, and she stopped a few minutes later next to a partially dug trench.
+
+“It has to be nearly a hundred feet long, and along the edge of the field.” Patty said. “If it's less than a foot deep, it won't work for what we need it for.”
+
+Ren walked along the spot she said, and pointed to where it needed to go. Patty nodded, and Ren took out his hammerpick. He jammed it into the ground, then started to run. Patty's mouth dropped open as Ren ran back and forth several times, and churned up the dirt. He took out a shovel, and emptied the foot deep trench. It only took him about 10 minutes to do it, and he stopped when he was back at Patty.
+
+“How's that?” Ren asked.
+
+She didn't say anything at all, and just stared at him with her mouth still opened wide. Ren chuckled and handed her the shovel. She looked at the shovel, then at him, then back at the shovel.
+
+“What... what... what...”
+
+“Make a list of anything else that you need, please.” Ren said.
+
+“What... what...”
+
+“I'll bring a smelter with me next time, and I'll make what you need at the Main House.”
+
+“What...”
+
+“Do you still need to go to town?” Ren asked her, and Patty shook her head. “Then I need to go.” He said and walked away from her.
+
+“Wait!” Patty exclaimed. Ren turned around and saw that she held out the silver coin towards him. He shook his head at her.
+
+“Keep it, and use it for something else.” Ren said. “If I'd known you needed basic tools the last time I was here, I'd have brought you everything that you needed already.”
+
+He left her standing there, in the open field, holding a shovel and a silver coin in her hands. Ren and Nathalia climbed into the cart and drove all the way back to Aurora. They made it back just in time for nightfall, and went inside the business just before the closing time popup. Ren took Nathalia up to the apartment and into the kitchen to wait. Anabelle came upstairs a few minutes later and handed Ren a list of items to be made. The three of them ate a good meal, and waited for another half an hour.
+
+“The Sage was right.” Nathalia said and sighed. “I guess I better go.” She said. “I really wanted to help out tonight.”
+
+Ren put a hand on her arm. “I know you did.” He said. “I'll walk you to your portal.”
+
+They left the apartment and then the building, using the new rear entrance, and walked down the street and around the corner to the restaurant. Once inside, Nathalia kissed him goodbye.
+
+“See you in an hour.” Nathalia said, and stepped through the portal. Ren left the building and ran back to his own, then up the stairs to the apartment. He was disappointed that he hadn't even gotten a message from Elerlyth, explaining why she hadn't logged in; but, he figured she must have gotten caught up in something.
+
+See you on the other side, Teepo. Ren thought, and Teepo dissolved into the Beetle Crown ring. “See you in a couple of days, Anabelle.” He said as he opened the cabinet to the portal. She walked over to him and gave him a quick hug and let him go.
+
+“Bye, Ren.” Anabelle said. “Thank you.”
+
+“For what?”
+
+“You let me pick the people I wanted to work with. You didn't tell me to pick the best looking, or the best seller, or even the smartest one.” Anabelle smiled. “You told me to pick someone I liked instead.” She laughed. “Who does that?”
+
+“Me.” Ren smiled. “Bye, Anabelle.”
+
+She gave him a little wave, and he stepped through the portal. Once on the other side, Ren made a door on the second floor landing, just to keep the two buildings close to identical, fed Princess, and hooked her up to the cart. They made good time on the trip back, and arrived at House Neram Keep an hour later. He put Princess in the stable, and went inside the house. His Aura merged with the artifical one in the house, and he felt Nathalia in her room. He went into her room, stored his clothing, and left himself in just his underwear. After climbing into bed and under the blanket, Nathalia turned to him.
+
+“I think we're both too tired to do anything but sleep.” Ren said, and Nathalia nodded slightly.
+
+“Exhaustion is definitely an excuse we can use.” She said, kissed him, and snuggled down onto his chest. “Although, today was worth it.”
+
+“I don't remember the last time I got to spend the whole day with you like that, so it was definitely worth it.” Ren said. “Goodnight, My Love.”
+
+“Goodnight, My Love.” Nathalia said.
+
+They both felt the love they had for each other, and fell asleep surrounded in both physical and emotional warmth.

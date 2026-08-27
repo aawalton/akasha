@@ -1,0 +1,215 @@
+---
+id: bb101dd8-2257-5abc-b338-0891c307d05c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 526 - Under Siege!"
+slug: 0526-chapter-526-under-siege
+partOf: mythrans-master-of-all-continued-completed
+position: 526
+ownLength: 3228
+unit: words
+publishedAt: 2018-03-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/198878/chapter-526-under-siege"
+royalRoadId: "198878"
+---
+
+Ren had seen and felt the succubi as he passed over them, and resisted his urge to activate his Controlled Berserk Rage in response to their heightened Frenzy. He relaxed when he felt them stay within his Aura, because he had caught a glimpse of the remains around them. If he had to guess, there was at least 3 squads of troops or even a full platoon of soldiers.
+
+“It was a platoon.” Teepo said.
+
+Ren had also seen the man, woman and child at the back edge of it. He was a little perturbed at the slaughter, considering he didn't want any kind of conflict at all; but, he knew what he was unleashing when he sent them ahead. He remembered the encounter with the harpies and the calm that had filled the succubi when they were done tearing apart those creatures.
+
+Ren didn't feel calm from them now. In fact, if he had to describe it, they were incensed over something. He thought about what could have happened with the family they had rescued, and what would have made him enraged, and his Angered condition activated.
+
+“REN! There they are!” Teepo said.
+
+They had just come into sight, and there were at least 10,000 soldiers in formation, done up in ranks and blocks, and he could see the siege weapons mixed in. Medium-sized cannons and single shot Ballista were scattered in different squads all over the mass of troops.
+
+“We have a few choices here.” Artemis said. “We can land now and prepare properly for the battle to come, we can drop down into the mass and try to disrupt them as much as we can, or we can just hit them head on and let things progress where they may.”
+
+“That's a distinctive no for the second and third options.” Ren said. “We'd be completely surrounded in no time.”
+
+“Should we even be worried about that?” Artemis asked. “We're pretty powerful.”
+
+“That's true, but there's only so many of us.” Ren said. “We might not notice taking 10 damage from a single source; but, what if it was a hundred sources that hit us at once? Or a thousand?”
+
+Artemis thought about it for a second. “At least one of them would probably get a lucky shot in.”
+
+Ren nodded. “Let's divert around them and come in from behind.”
+
+“What's to stop them from going forward?”
+
+“A hastily constructed Iron Wall?” Ren asked.
+
+“You have quite a few other wall spells, why do you keep using that one?” Artemis asked.
+
+“They make a nice ringing sound when you tap them.” Ren said and smiled, and she chuckled.
+
+“Why not use Invisible Wall or Wall of Thorns?”
+
+“Thorns... yeah, that would be better, and more natural looking.” Ren said. “Princess? Land here.”
+
+Princess came in for a landing and Ren hopped off and took out a blank staff and added a diamond to the tip, then activated his Create Staff ability and choose the Widen Effect Permanent Wall of Thorns and Permanent Shaper spells to add to it. He smiled as he imagined the best way to delay the troops, and held the staff up to generate a 100 foot long Wall of Thorns and changed the flat wall into a half-tunnel with the curve towards him and the inside of the curve towards the troops.
+
+“Do you think they can see this?” Ren asked.
+
+“They're not acting like they do.” Teepo said. “I don't know if they've seen us, either.”
+
+The succubi hovered above them as they waited for Ren, and a few moments later, you could see the troops react to the sight of 20 succubi with full wingspans hovering in the distance. There were shouts and hollers, and the succubi screeched back at them. Several hundred arrows shot out from the troops, but they were much too far away for the arrows to come anywhere close to either the succubi or Ren and his group.
+
+Ren concentrated and extended the curved Wall of Thorns for a thousand feet in either direction, then doubled it's thickness by adding a second wall behind the first without attaching them.
+
+“I'm temped to tell you to split up so we can attack from different angles, but I want you all close enough to me so I can help.” Ren said, and he felt everyone's appreciation for his concern.
+
+“Let's do it together like you said.” Artemis said.
+
+“Then pick a flank.”
+
+“Right, I think.” Artemis said. “There's more heavy weapons on the left.”
+
+“That could also mean more spell protection on the right.” Ren said, and she smiled.
+
+“We'll find out soon enough, then you can break it.”
+
+Ren nodded and looked up at the succubi. “Fly backwards a little!”
+
+When they did, he deactivated his Auras.
+
+“Okay, great! Stay there for a minute!” Ren said, then cast Illusion to reproduce them right in front of where they were, with the sky as a background, so they could move and not be noticed. Ren cast a normal piece of ground over the Wall of Thorns so that the soldiers wouldn't know it when they hit it. He thought that was a little dirty, then laughed and made another curved Wall of Thorns behind the one covered with the illusion as a warning.
+
+“Now put an invisible wall behind that.” Teepo suggested. “That should really annoy them.”
+
+“It'll also keep them distracted.” Artemis said.
+
+Ren made another wall behind that one and cast Permanent Invisibility on it. “Okay, let's go!”
+
+The succubi flew low to stay behind the Walls of Thorns with Ren and the others, and everyone travelled out and around the side of the mass of troops. All along the way, Ren kept casting normal Illusions of small hills to keep their progress covered from sight. When they arrived in the right position, they came to a stop and waited as everyone spread out to attack as many of the soldiers as possible.
+
+“Do we really have to kill them all?” Xuunah asked in a whisper.
+
+Ren felt her reluctance, and he took her hand. “No, we don't have to kill them; but, they are invading a county inside their own kingdom to take control of the poor villagers that barely had enough food to feed themselves.” He said. “When I showed up and started to improve their standard of living, it gained the interest of the neighboring county. Unfortunately, rather than just asking me for the things I've been doing, they decided that taking what they want was a better solution.”
+
+“Would you have given them what they want?” Xuunah asked.
+
+“It depends on what they want.” Ren said. “The machinery and techniques? Probably. The defensive weaponry? Probably not.”
+
+“Why not?”
+
+“The Spell Ballista are overpowered, and can easily be used as offensive weaponry.”
+
+“Then why are you calling them defensive if they can be used offensively?” Xuunah asked.
+
+“Web and Sleep are defensive spells. When someone comes at you, you restrain them or put them to sleep. If used a certain way, you can assault buildings and even armies by putting them to sleep first and then restraining them.” Ren said. “If someone was less scrupulous, they wouldn't worry about suffocating the targets.”
+
+“Is that why we didn't divert to the wall and pick up the skeleton knights?”
+
+“Yeah.” Ren said. “Plus, it would have taken longer.”
+
+“You won't suffocate them, but you'll kill them outright?”
+
+Ren shrugged. “I had intended to cover the ground in front of the wall with the web to show them what they were in for. They decided to use an alternate route, broke down my wall, and by the looks of that skirmish the succubi were in, the soldiers were capturing people.”
+
+“They were.” Zunala whispered, and Ren glanced at her. Her eyes were blood red and her body was splashed with blood, just like all the other succubi. It was a little difficult to see, considering their skin was red. “We freed them just after they had been captured.”
+
+“Thanks for getting to them in time.” Ren said and looked at the approaching troops.
+
+“Thank you for not making us keep the enemy alive.” Zunala said. “That encounter would have gone quite differently otherwise.”
+
+“I know.” Ren said. “That's assuming they didn't use the hostages against you, too.”
+
+Zunala smiled. “We both know they would have tried that.”
+
+Ren nodded. “They wanted to use them against me.”
+
+“They would have succeeded, wouldn't they?”
+
+“To a point.” Ren said. “There's an old saying. Give a child a cookie, and they'll ask for a glass of milk to go with it.”
+
+Xuunah looked at him for a moment, and then smiled. “Clever.”
+
+“What's clever?” Zunala asked. “What does a child and food have to do with anything?”
+
+“It's a metaphor. The neighbors are the child, and Ren's innovations are the cookie.”
+
+Zunala frowned. “Then's what's the milk?”
+
+“Them.” Xuunah said and pointed to Symmetra, and the 6 constructs she placed on the ground.
+
+“Ah, I see.” Zunala said.
+
+Symmetra pat each of them on the head. “You know what to do.”
+
+The 6 constructs nodded and turned as one, and their chests glowed slightly. The soldiers formation had reached their waiting point, and Ren held up a hand to tell his group to wait. He took out his Wand of Ventriloquism and cast it on a rock in the field in front of the troops. He used a giant's voice because it was the only one loud enough for the soldiers to hear.
+
+“HALT!” The voice commanded. “Your actions are illegal! Go home now or pay for your crimes with your lives!”
+
+A soldier in the lead ran forward and kicked the stone, cursed when it didn't move, then took out a folding shovel and tried to dig it out.
+
+“Okay, he's an idiot.” Artemis whispered.
+
+“Why?” Xuunah asked.
+
+“Either he is trying to make it shut up, or he wants to take it back home.” Ren whispered.
+
+“Then yes, I agree.” Xuunah said. “It's idiotic, but I won't kill him for being stupid.”
+
+“What about for being vicious?” Ren asked and cast Full Illusion near the front of the soldiers. He made an image of an unarmed young man and had him stand up, then he was quickly overrun by the soldiers. Weapons were swung at the image without hesitation, and Ren altered the image to reflect the damage.
+
+“So much for them taking hostages.” Zunala whispered and hissed angrily.
+
+“They probably think their advanced squad has some already.” Ren said and looked at the others with him. “When you attack, don't hold back. They aren't going to, so you shouldn't, either.”
+
+Everyone nodded, including Xuunah, and Ren cast a Phantom Steed for her. It appeared, and it was an exact copy of the Phantom Steed that had appeared for him when he cast it in Shargon Caverns, only this one was completely white. Xuunah pet it and climbed up onto it's saddle, and then Ren cast Permanent Enlarge and Reduce Anything on Zetaya twice to make the fire elemental 40 feet tall.
+
+“I hereby offer a quest to you, to defend this land from the invaders.” Ren said formally to everyone gathered. “Rewards and XP will be awarded for your efforts, no matter how great or small. Ensure the safety of the people within Walin County, including yourselves, and remove the threat we face this day.”
+
+Everyone accepted the quest popups they received, and several of them couldn't believe that he had given them a quest. The most vocal were the pixies, and then Ren felt a small set of lips on his cheek. He looked at Suniva, and she winked at him. He smiled and held a hand up with three fingers extended for everyone to see. He dropped a finger to leave two, then dropped a finger and left one. When he made a fist, he dismissed the illusion they were behind and activated all of his Auras except Submission and Hatred. The soldiers within his extended Aura flinched and stumbled, and he activated his Ultimate Terror ring and pushed that through his Aura.
+
+“AHH!” Nearly a hundred soldiers screamed as Terror gripped them and they started to flee.
+
+The 6 constructs near Symmetra had used their inherent spell, Permanent Enlarge or Reduce Anything, to make themselves double in size from 3 feet to 6 feet, then again to 12, and again to 24. It was an amazing sight, now that Ren had a chance to actually see their details. One was a metal Marilith Demon like the one he had met in Shargon Caverns and it had 6 arms and a snake tail, another was a Dark Elf and giant spider mix that looked like Lylyth when she transformed.
+
+Ren saw the 8 armed scorpion tailed construct that had been the last one Tee-one and Symmetra had made, another that looked like an out of proportion troll with an oversized weapon, and another that was a Barbed Demon that looked like the Grinch that stole Christmas. The last one looked like one of his dogs, only it stood up on it's hind legs and didn't have wings. It had huge paws with the metal claws extended out, and all 6 of the constructs let out terrifying roars.
+
+The soldiers that marched nearby stumbled and fell as they tried to turn and face the new threat, instead of moving forward and getting out of the way. The group with Ren jumped forward into the mass of soldiers and started to attack. Princess took off through the mass of soldiers and clipped several hundred in the head with her horns.
+
+The pixies, because of their smaller size, were best positioned to disable the soldiers. They formed blades made of some glowing metal and ran between the soldiers ranks and slashed at the ankles of the soldiers, which made the men fall to the ground. This made some soldiers behind them trip and fall over the downed soldiers, so every damaged one caused a ripple effect.
+
+The pixies laughed at the feeble attempts of the soldiers as they tried to attack the pixies, mainly because they were hitting their own men while trying to hit their small 1 foot tall assailants.
+
+Ren waited for everyone to get involved in the attack, then activated his Controlled Berserk Rage. “Princess!”
+
+Princess ran back to him and Ren quickly climbed up into the saddle. He took out his triple-sized hammerpick and held it out to the side.
+
+“Let's take out those heavy siege weapons.” Ren said. Princess brayed and ran up into the air, with Artemis, Xuunah, and Officer Holly right beside her, and they turned towards the closest cannon and charged forward.
+
+*
+
+The soldiers were in hell.
+
+It had started when they had seen some flying red skinned women up ahead of their marching formation, and several men had yelled out that they were succubi. Arrows were let loose and didn't come anywhere near the targets, so they continued forward to try and get into range. Just as they were about to get in range, a platoon of troops on the right side of their formation felt fear cover them, then it changed to sheer terror.
+
+The soldiers started to scatter through the rest of the formation to try and get away from whatever was scaring them, then suddenly 7 monstrous creatures, some with multiple arms and legs, appeared out of nowhere. 20 more succubi joined them and started to tear into the soldiers. Some of the men screamed and continued to scatter, while most stood their ground and drew their weapons to fight. With a much smaller threat to the front, several platoons of men ran forward to deal with their initial target, and ran into the curved Wall of Thorns that Ren had covered with the clear ground illusion.
+
+They yelled and died as their fellows ran into the backs of them and pushed forward, and the bodies piled up. Once some of the soldiers noticed they weren't going anywhere, they started to swing wildly at the illusion. They cut through the wall in several spots and saw the real Wall of Thorns behind it, then called for archers and flaming arrows. They shot both the invisible wall and the wall they could see, and set them ablaze. Once the illusion-covered wall had been sufficiently damaged, the illusion faded.
+
+“Forward!” One of the platoon captains ordered, and the men rushed forward to attack the succubi that floated just above the ground, and ran into the third Wall of Thorns that Ren had made invisible.
+
+It was not a pretty sight.
+
+The platoons of soldiers on the right side of the formation fared much worse than the troops in the front of the formation, as the succubi, pixies, and constructs waded into them and had killed them by the hundreds in only a minute. Their cannons and siege weapons exploded and were lit on fire as the assault on their formation continued, and a fire elemental picked men up and shoved them inside itself and consumed them instantly. Unlike the undead and tough ghouls that Zetaya had become accustomed to, the unmodified humans could barely survive being picked up by the fire elemental, let alone last more than a second inside of it.
+
+*
+
+“Okay! Do it now!” Chris commanded his small party of Adventurers, and they all ran forward to attack the rear of the army in front of them.
+
+“No, really?” One of the guys asked after they had watched the army of over 10,000 troops be attacked as 7 large monsters and 20 smaller monsters smashed into the side of the formation. They had appeared out of nowhere, as if by magic, and the troops screamed and hollered as they died easily at their hands. No one noticed the two glowing white phantom steeds as they ran through the army and carried their riders with their weapons drawn. The two of them killed tens, then hundreds of soldiers during each pass through the formation.
+
+*
+
+Xuunah had thought she was making a mistake at first, even with Ren's proof of the army's evil intent, then when she had stabbed the first soldier and felt his emotions through her sword, her Righteous Anger Aura activated.
+
+Why did I doubt him? Xuunah asked herself as she withdrew her sword and decapitated the soldier with her back swing. Am... am I trying to distance myself? She thought and killed the next soldier, then the next and the next. After she had killed 200 of them and discovered they all had the same emotions and were set in their intention to wipe out the citizens of the county, her Righteous Anger Aura changed to Righteous Fury, and her eyes glowed red.
+
+“Xuunah! Are you okay?” Officer Holly asked as she came over to her friend.
+
+“Help me dispatch these scum before they can fulfill their desires!” Xuunah almost yelled and touched the other woman's shoulder. Officer Holly was filled with visions of what the soldiers were going to do to the men, women, and children of the county after their usefulness as hostages was over. She gained her own Righteous Fury Aura, nodded as she activated it, and the two of them started to make the soldiers pay.

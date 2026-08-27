@@ -1,0 +1,311 @@
+---
+id: 5ef63e03-c1a4-5a28-b1d9-1e6578e05be4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 331 - Unleashed"
+slug: 0323-chapter-331-unleashed
+partOf: mythrans-master-of-all-continued-completed
+position: 323
+ownLength: 3445
+unit: words
+publishedAt: 2017-08-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155334/chapter-331-unleashed"
+royalRoadId: "155334"
+---
+
+“I get that reaction a lot.” Ren said and grinned.
+
+After reassuring the woman that Ren storing her house wasn't a joke, Janice went around to the different houses to tell them she was moving, and that she would stay in contact with them. While she said her goodbyes to everyone, Ren took the opportunity to go down into the fire pit crater to investigate the pulse he had felt earlier. He came to the center of the crater and pinpointed where the pulse came from, because it was much stronger with him this close.
+
+Ren couldn't dig right in the center with all of the debris and soot that was there, so he picked a relatively clear area about 20 feet away and dug straight down. Normally, he would have to dig on an angle so he could get back out; but, because of his Amulet of the Spider abilities that were now fused with the Hand Of Glory around his neck, he could just crawl back up the sheer sides of the hole. He dug down the 40 feet to where he had felt the pulse, and then dug a tunnel across the 20 feet towards the center of the crater. When he got there, a very surprising sight awaited him.
+
+It was another chunk of slightly glowing green meteor rock ore, that he had found three pieces of before and made two very powerful items from. Based on previous experiences, if he took the piece of meteor, some kind of rock or stone golem was going to appear to defend it. He was glad that he had only made a normal-sized tunnel, and anything that appeared to fight would have a very hard time trying to attack him.
+
+Ren equipped his gold-colored armor, and it looked slightly different than when he'd worn it last. He had used his mastered Enchanting skill to full effect while he was in the Water Realm, and had added 6 of the 1 inch wide diamonds to every piece of his armor. Both boots, both thigh pieces, both forearm pieces, both shoulder pieces, and the back; but, he could only add 5 to the chest piece because it already had the large enchanted ruby in the center.
+
+That gave him a total of 59 diamonds to play with. Since each diamond that size could hold his mastered enchantment of 5 glyphs with 10 runes each, or 50 runes, that had given him 2,950 runes. He'd used them wisely and boosted all 8 of his stats by 250 points for a total of 2,000. The other 950 runes he had split up with Toughness to strengthen the armor, Protection that each rune added +10% to his Defense, Resist spell that increased the chance to avoid spell effects, Empowerment so that each rune of it increased an enchantment's effectiveness by 5%, and finally added Set Bonus runes which gave him a 25% boost to both his Defense and his Speed on top of everything else.
+
+Ren had put a lot of work into making the adjustments, and it had taken months to complete the armor. He had only finished it a week before coming back from the Water Realm.
+
+I really did regret not having Tee-one there for the Double Infusion skill. Ren thought and laughed. All these extra bonuses would have been doubled!
+
+Ren decided to check his stats again, just to see what his armor was going to do for him.
+
+Status
+
+Name  Ren (Neram) Level  72
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000 (King)  Honor  250,000 (Untouchable)
+
+Giant Kingdom:
+
+Respect  26,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Unnamed King  +10 Levels to all Auras, you must be acknowledged in some way, grants skill: This Is Mine!
+
+Waterkin  Grants Water Manipulation Skill and Waterkin (Aura)
+
+Health  2,140 (+2,393)  Mana  2,318 (+13,395)
+
+Strength  303 (+290)  Dexterity  235 (+290)
+
+Vitality  205 (+290)  Agility  222 (+290)
+
+Endurance  270 (+290)  Intelligence  265 (+395)
+
+Luck  75 (+292)  Wisdom  250 (+395)
+
+“By the gods!” Ren said. “It's pretty much doubled my stats!” He stood there for several moments and just stared at the numbers. “I've got an extra 2000 Health and 2000 Mana, my Stamina bar is a different color, and my Mana Pool is just over 47,000!”
+
+After another few moments of pondering the implications of having such a powerful set of armor, he equipped his golden shield and hammerpick... then he stopped and looked at the shield.
+
+Epic Shield of Sundering
+
+This shield can disarm any opponent when swung at them. If enough force is applied, it can remove both armor pieces and equipped items from an opponent as well, as long as they can be hit by the shield as it passes over them. Though the shield looks formidable, it becomes insubstantial whenever it's worn. It's enchantment gives it a permanent Phantom State, as if the spell Phantom State had been cast on it.
+
+“Show info for Phantom State.” Ren said.
+
+Notice!
+
+You do not know the spell Phantom State (Void Level 3)
+
+“Yeah, there's definitely a lot I don't know.” Ren said and unequipped the shield, then equipped another one that he'd made in the Water Realm. He enchanted it with 5 glyphs of 10 runes of Antiearth, which gave it a 200% Defense against earth-based enchantments and creatures, and if he struck back with it, it did extra damage. He enchanted his hammerpick with the same thing, and dark protrusions grew out of the hammer end, and looked like black metal spikes. Those metal spikes had other protrusions on them, and Ren thought that they would pulverize rock much better than the normal flat surface of the hammer would.
+
+The enchantment also added 200 points of element damage to the hammerpick, could disrupt earth-based enchantments and spells, and gave an extra 50% damage bonus when used against earth-based constructs and creatures.
+
+“Now I'm ready.” Ren said. He reached out with the arm that had the shield attached to it, touched the chunk of meteor ore, and stored it.
+
+Notice!
+
+You have attracted the attention of the Spirit of Earth. It is not amused that you keep tempting your fate by taking it's forbidden treasures.
+
+The ground didn't tremble and shake like he thought it would, though. Ren was about to think that he had gotten off easy when the rock and dirt around the spot where the meteor was, coalesced together and formed into a large catlike creature. It was 6 feet tall and over 10 feet long, not counting the tail, with foot long tusks sticking out of it's mouth. He identified it immediately and didn't know what to think about this new development.
+
+Sabertooth Rock Golem (Rare)
+
+This rock golem is unlike any of it's contemporaries that have been seen so far. Formed in the shape of an ancient stone-age predator, it can move at a high rate of speed, pounce onto it's prey, and can crush things in it's massive jaws. It's tusks can pierce even the toughest metal, and it's magically-enhanced claws are designed to tear through armor.
+
+Durability / Health: 3000/3000
+
+Defense Bonus: Damage Reduction (Blunt weapons 30%, Edged Weapons 80%)
+
+System Notice!
+
+Congratulations! You have discovered a rare creature! There are 100 of them in the game, and you have found the first one.
+
+Notice!
+
+Hidden Quest unlocked! A SPECIAL bonus awaits those that can find all the rare creatures in the game. Number found: 1/100
+
+Rewards: 2,000 XP
+
+“Dammit!” Ren exclaimed as he dismissed the popups, and the rock golem growled at him. “Nice kitty... nice kitty...” He said, and tried to think about what to do. The rock golem didn't give him time to think about anything and lunged at him. He blocked with the shield and it's claws scraped across the gold metal with a loud scratching sound like nails on a chalkboard.
+
+Several metal shards fell to the ground and the rock golem tried to attack again. The small tunnel worked to Ren's advantage because the large creature just barely fit inside of it and it's movements were hindered by the close walls. Unfortunately, when Ren tried to attack back and swung the hammerpick, he also had the same problem. The hammerpick cut through the wall easily, but it took a lot of the force of the blow away. Even with the Antiearth enchantment adding 200 Damage and 50% to Damage overall, when it contacted the rock golem's head, it only did 300 damage total.
+
+This is bad! Ren thought, and held his shield up to parry another attack by the Sabertooth Rock Golem. The shield wasn't going to last much longer.
+
+“Ren!” Teepo's voice said from the ring. “We're coming!”
+
+NO! Ren shouted in his head. Stay away! This thing can cut through armor with it's claws!
+
+“But Princess-” Teepo tried to speak and Ren cut him off.
+
+I said NO! Ren thought, adamantly. Princess will get torn to shreds if she fights this thing!
+
+Teepo went quiet for a moment. “What about you? Aren't you going to get torn to shreds?”
+
+Not if I can help it. Ren thought and attacked again. He missed the head with the swing and was about to curse loudly; until the hammerpick connected with one of the front paws the creature had lifted to defend itself. The paw shattered from the blow, threw rock pieces everywhere, and the resulting shock wave the hammerpick caused took half of the front leg with it.
+
+The golem limped backwards several steps and it gave Ren some room to make a small retreat. He didn't take his eyes off of the golem as he backed up slowly, and he saw it stick it's broken limb into the dirt wall of the cave. It stood there for about 5 seconds, then it pulled the regenerated limb back out. Ren sighed when he examined the golem and it had gotten back all the Health and Durability it had lost so far. The Sabertooth Rock Golem crouched slightly, then ran towards him for all it was worth in that crouched position.
+
+“OOOOOH CRAAAAP!” Ren yelled and ducked behind his shield. The rock golem lifted it's front paws just before it hit him, and put the entire impact onto his shield. It wasn't designed to take that much force at one time, and the Sabertooth's sharp rock claws went through the shield and bent it downwards. With Ren's Rock Steady and Unstoppable abilities, he didn't move from the impact, and his Shock Absorption and Block skills helped him deflect some of the damage. He took 500 Damage from the blow, and was surprised his abilities let him mitigate so much of it. If Ren hadn't ducked, he would have gotten a face full of rock golem because it's momentum carried it over Ren's bent over form. One of it's back legs grazed his shoulder as it passed, and Ren heard a bone snap loudly.
+
+“GAAHHH!” Ren yelled from the bone-crunching pain, then activated Serene State of Mind. He didn't feel the pain anymore and stored the useless shield to take out a Major Healing wand. He healed the damage and stored the wand, then turned around to look at the creature. It had continued to run the last few feet through the tunnel to the hole Ren had dug to the surface. Now it was stuck because it's body was so long and it couldn't turn around in the small tunnel. It started to thrash and claw at the surrounding dirt to make room for itself, but it seemed to move in slow-motion.
+
+I have a bit of time. Ren thought, then remembered he had spells and the wands to use them. Show available spells.
+
+Spells Unlocked:
+
+Level 1  Level 2  Level 3  Miscellaneous
+
+Acid Arrow  Acid Splash  Acid Fog  Chain Lightning
+
+Color Spray  Bridge  Air Walk  Fireball
+
+Detect Undead  Bull Strength  Animate Objects  Sunburst (Special)
+
+Enlarge Person  Charm Person  Bless Water  Wall of Earth
+
+Fireball  Disguise Self  Cause Minor Wounds  Wall of Fire
+
+Ghost Sound  Detect Magic  Detect Traps  Wall of Ice
+
+Grease  Glitterdust  Dispel Magic  Wall of Thorns
+
+Magic Mouth  Gust Of Wind  Energize  Wall of Wind
+
+Major Healing  Haste  Giant Strength
+
+Minor Healing  Knock  Ice Storm
+
+Obscuring Mist  Mage Armor  Invisibility
+
+Reduce Person  Minor Image  Iron Body
+
+Shield  Rope Trick  Know Direction
+
+Silent Image  See Invisibility  Lightning Bolt
+
+Sleep  Slow  Locate
+
+Sleet Storm  Spider Climb  Magic Flare
+
+Web  Wall of Iron  Phantom Steed
+
+Resistance
+
+Turn Undead
+
+Water Walk
+
+Hm. Ren thought as he browsed through the available spells. Phantom Steed looks promising.
+
+He took out a level 5 Web wand and absorbed the charges from it, then replaced the spell with Phantom Steed and examined the wand.
+
+Wand of Transport
+
+A Phantom Steed spell creates a large mostly-solid horse-like creature. The steed can be ridden by you or by the person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It appears already equipped for riding.
+
+It cannot fight, but other equal-sized or smaller creatures will actively shun it and refuse to attack it. The phantom steed has 200 Health per caster or wand level. If it loses all of it's Health, it disappears and leaves no physical remains. It can move 20 feet per second for every caster level, and since it is a magically-created mount, it can bear it's rider's weight without penalties. It has certain powers and abilities depending on the caster or wand level. A mount’s abilities include those of mounts from lower levels.
+
+Level 1: The mount can ride over normal terrain.
+
+Level 2: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed.
+
+Level 3: The mount can use Water Walk at will.
+
+Level 4: The mount can use Air Walk and Displacement at will.
+
+Level 5: The mount can fly at its speed with average maneuverability.
+
+Size: It is a normal-sized horse-like creature.
+
+Range: Within 10 feet (Very Short).
+
+Time Limit: 1 hour per caster or wand level
+
+To Ren, it seemed like he moved normally and everything else looked like it moved slowly; in actuality, he was moving very fast and his perception of time had sped up because of his Serene State of Mind. He concentrated on the wand and cast Phantom Steed so it would appear in the space between him and the Sabertooth Rock Golem. After what seemed like 30 seconds, it appeared before him.
+
+That should distract the rock golem for a few minutes. Ren thought with a smile.
+
+Show Wondrous Items. He thought. Maybe there's something there that can help, too.
+
+Wondrous Item Recipes:
+
+Amulet of the Spider  Amulet of Truth
+
+Boots of Striding and Leaping  Bracelet of Friendship
+
+Brooch of Shielding  Hand of Glory
+
+Horseshoes of Speed  Instant Tower
+
+Revealing Light
+
+No, nothing there. Ren thought. Show Staff and Rod recipes.
+
+Staff Recipes:  Rod Recipes:
+
+Staff of Earth  Rod of Cancellation
+
+Staff of Healing  Rod of Command
+
+Staff of Ice  Rod of Displacement
+
+Staff of Lightning  Immovable Rod
+
+Staff of Size Manipulation
+
+Staff of Water
+
+Staff of Woodlands
+
+Ha! Staff of Earth. Ren thought and took out the staff. The Sabertooth Rock Golem had made enough room for itself to turn around, and it pounced onto the phantom steed. Ren used the staff's Move Earth spell to backfill his own tunnel in front of himself, then used the Pass Wall spell to make a new tunnel towards the surface and he deactivated Serene State of Mind.
+
+I think watching everything in slow motion all the time would drive me nuts. Ren thought and walked at a fast pace.
+
+*
+
+While Ren was on his adventure underground, a lot of Janice's neighbors had wished her well when she visited them. She was a bit surprised when a few of them just shrugged their shoulders, said goodbye, and closed the door on her. One man got mad that she was abandoning the settlement to go live in the big city, and Janice suspected that he really liked her and didn't want her to go.
+
+When Janice explained she was actually going to a rural county several hours outside of any city's limits, the man didn't have any basis for his argument. She hugged him briefly to say goodbye, and saw the sadness in his eyes when she let go. She thought about offering to let the man visit; but, she was pretty sure that she didn't really want him to. If they'd lived so close together for this long and they hadn't gotten together already, then the chances that they would after she left were pretty slim. Plus, if he really wanted to be with her, he'd come to visit on his own without having to be invited.
+
+Janice finished her goodbyes and looked around, and didn't see Ren anywhere. She started to panic a little, because he had her house and most of her things in his inventory. She started to search for him, but couldn't find any trace of him anywhere.
+
+“Are you looking for that young guy that was with you?” The woman that was her old neighbor asked when Janice went back to her empty lot in the faint hope that Ren would be there.
+
+“Yeah!” Janice said. “Where is he?”
+
+“Down in a hole he dug in the fire pit.” She said and shook her head. “I swear he must be part gopher or something! I've never seen dirt fly out of a hole like that before!”
+
+Janice thanked the woman and went down the closest set of stairs into the fire pit, then walked over to the hole with mounds of dirt around it. She put her head over the dark hole, cupped her hands around her mouth, and hollered.
+
+“REN! Are you down there?”
+
+The Sabertooth Rock Golem had just finished slaughtering the phantom steed when it heard Janice's slightly panicked voice. It growled loudly, dug it's claws into the dirt walls of the hole, then started to run up to the surface.
+
+*
+
+Ren quickly made the tunnel up to the surface and ended it about 20 feet away from the original hole he made and walked out of it
+
+“AHHHH!!!” Janice yelled and fell back from the hole as the Sabertooth Rock Golem burst out from the opening and into the air. Ren ran over to her and dove to take her into a hug; then pulled her out of the way of the creature just as it landed right where Janice had been.
+
+“REN!” Janice screamed. “WHAT IS IT?!?”
+
+“Rock golem.” Ren said and concentrated on his Command Aura as he slipped an amulet over her neck. It was enchanted with Warding runes to give her a 100% chance to hide from view. “Be quiet.” He commanded her and rolled away as the amulet took effect. Janice disappeared from sight and it left Ren as the only thing the creature could see in the large crater. It growled loudly as it turned to look at him.
+
+“That's right.” Ren said and walked farther away from where he'd left Janice. “Your fight is with me.” He said, stopped walking, and touched the Staff of Earth to the ground.
+
+The Sabertooth Rock Golem lifted it's head to the sky and roared. It hunkered down to see if Ren was going to attack it from a distance. When he didn't, it huffed it's derision and prowled to the perfect attack angle. When it reached it's chosen spot, it ran and then leaped into the air to squash it's prey.

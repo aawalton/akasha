@@ -1,0 +1,159 @@
+---
+id: c5fb597b-94f6-547d-89ed-d8b33a2e1b9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 531 - Mop Up This Mess"
+slug: 0531-chapter-531-mop-up-this-mess
+partOf: mythrans-master-of-all-continued-completed
+position: 531
+ownLength: 2258
+unit: words
+publishedAt: 2018-03-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199889/chapter-531-mop-up-this-mess"
+royalRoadId: "199889"
+---
+
+Zunala led Ren and the others to the first group of soldiers she had detected. She had assumed, quite correctly, that Ren didn't want her to attack them right away. Ren's group gathered in mid-air at a good distance away from the soldiers and observed them. After about 5 minutes, Ren had determined that the 10 soldiers were on patrol... and were also complete jerks.
+
+They had intercepted a farmer and his family as they drove their cart up the same road the soldiers were walking on. Ren couldn't say they were marching, because they were acting more like a group of thugs and not soldiers. They stopped the farmer and harassed him and his wife, and made inappropriate comments to the daughter while they illegally searched the cart for no reason.
+
+They were close enough that Ren had the cart within his Aura, and he could feel the farmer, his family, and the soldier's emotions. When one of the soldiers reached out to grab the daughter by the hair, Ren hopped off of Princess and ran down to him, then grabbed the soldier's arm and squeezed.
+
+“Ow! Hey! Let go!” The soldier said.
+
+“I was about to tell you the same thing.” Ren said in a menacing voice as his Angered condition activated. “Let the young lady go.” He said. “Do it, or I will break your arm and make you let her go.”
+
+The young woman's face flushed red at Ren's gallantry, and the soldier scoffed.
+
+“You obviously don't know who you're messing with.” The solder said and tried to tighten his grip on the girl's hair. Ren squeezed and the bone in the soldier's arm snapped loudly.
+
+“AHH!” The solder yelled in pain and his hand went limp.
+
+“I warned you.” Ren said, and the other soldiers stopped what they were doing and drew their swords.
+
+“You have attacked a sovereign member of Lord Grasham's army.” One of the other soldiers said. “I am placing you under-”
+
+“Go ahead.” Ren said and cut the soldier off. The other soldiers nodded and stepped towards Ren. They had misunderstood Ren's capitulation, however. The succubi were suddenly there and 10 of them had the 10 soldiers held by the throat, while the other 10 succubi had grabbed each soldier's weapon arm. It stopped them from talking or moving, and the farmer and his family stared at the succubi.
+
+“It's all right.” Ren said to the young woman, and she nodded quickly several times. “I'm the Lord from the next county, and we just defeated an army of these guys.” He said. “I came here to see if the rest of the soldiers were just as bad as the ones that attacked my county, and they are.”
+
+“M-my L-lord.” The young woman said. “What are you going to do to them?”
+
+“Remove them, of course.” Ren said and nodded to the succubi. They disappeared with the soldiers as if they had never been there, and the farmer and his family stared at the empty spaces. “I'd ask you to forgive them for their actions, because not all soldiers are that bad; but, that doesn't seem to apply to Lord Grasham's troops.”
+
+“It really doesn't.” The farmer's wife said, and put a hand over her mouth to stop herself from saying anything further.
+
+“You won't have to worry about the soldiers for much longer.” Ren said. “Please continue on your journey.”
+
+The farmer nodded, as did the wife. The daughter on the other hand, held a hand out to Ren for him to shake.
+
+“Thank you, My Lord.” She said.
+
+Ren took her hand as if she were a lady, bent over it, and kissed the back of it. She took in a sharp breath at his treatment, and Ren felt her shock.
+
+“You might not have been born to actual nobility; but, don't let that fact limit how you act or think.” Ren said.
+
+“But...”
+
+“I wasn't born a noble, either.” Ren said and smiled at her. “Now I'm a Lord in the Human Kingdom and have both land and people to take care of.”
+
+The young woman smiled back at him, and after a moment, she nodded slightly and let his hand go.
+
+“Good day to you, M'lady.” Ren said.
+
+“And to you, My Lord.” She said formally, and her parents looked at her with wide eyes. “I hope to see you again some day.”
+
+“You and your family can come and visit Walin County when you get the chance.” Ren said. “There's not much there at the moment to see, but I'll have more attractions available soon.”
+
+The farmer thanked him for the offered hospitality, and he flicked the reins to get the cart moving. The young woman waved to Ren as they drove away, and he waved back. When the cart entered a nearby forest and the farmer and his family were out of sight, Ren ran up to his waiting friends.
+
+“She seems nice... and interested.” Officer Holly said.
+
+“I didn't flirt with her, if that's what you're implying.” Ren said. “Even if my Etiquette skill wasn't active, I would have treated her the same way.”
+
+“Are you saying that you want to cultivate more women?”
+
+Ren chuckled. “You've felt the difference between my normal talking and when I actively try to flirt.” He said. “What do you think?”
+
+Officer Holly remembered that first encounter in the street with Ren, where he had bent her over his knee to discipline her for attacking the Skeleton Knights. Things tightened in her lower body at the thought of what he had done that afternoon, and she turned her face away so he wouldn't see her blush.
+
+“Okay, I have to admit that you weren't actively flirting; but, only if you admit that it was still flirting, just because of the way she reacted.” Officer Holly said. Her voice didn't waver, even though her thoughts lingered on Ren caressing her butt that day and she was getting turned on.
+
+“Sure, I'll admit that.” Ren said.
+
+Officer Holly looked back at him in surprise, and forgot that she was supposed to hide her blush. She had expected him to deny it or try to hide it. Ren saw her red face and didn't comment on it, because he could feel her emotions, too. He knew she was trying to stay professional, even though she was getting horny.
+
+“I've noticed it myself lately.” Ren said. “Sometimes women react almost as if I had my Prince Charming title active, even though I don't.”
+
+“Only sometimes?” Xuunah asked, and Ren looked at her.
+
+“You're right. I should say 'some women' instead.” Ren smiled. “Like, out of all the female pixies, only Suniva seems to be genuinely turned on by me.”
+
+“That is definitely below the average.” Teepo said. “Only 1 in 200? It's scandalous!” He chittered in laughter, and the succubi laughed, too.
+
+“Oh, you're back.” Ren said and looked at the succubi.
+
+“They were delicious.” Zunala said. “Thank you.”
+
+“You're welcome.” Ren said. “Have you recovered enough to lead us to the next group?”Zunala nodded and pointed. “That direction, but I can't tell how far.”
+
+“Then let's go and get them before they stumble across another family or something.” Ren said, and had an idea. He issued a quest to wipe out the soldiers, and everyone accepted it happily without complaint.
+
+Zunala and the succubi flew in the direction she had pointed, and the rest of the group went with Ren as he mounted Princess' saddle and followed the succubi. It didn't take them long to find the next patrol, and this time Artemis shot several of the soldiers before they could open fire on Ren and the succubi.
+
+The soldiers had felt Ren's Aura as it passed over them and it got their attention, and Artemis had felt their automatic 'kill it' reaction through Ren and dealt with them. The succubi cleared up the others, then Ren and the group moved on to the next batch of soldiers... then the next... and the next.
+
+Each time the soldiers reacted faster to their presence, and Ren debated deactivating his Aura to stop this. He decided not to, mainly because losing it's benefits outweighed what the potential loss would do to him and the people he was with, if they were caught unaware by something while it wasn't active.
+
+They eventually came across a barracks near the outskirts of a city, and this time, Ren's entire group was involved. Officer Holly and Xuunah made sure to remove any civilians from the combat area, then joined in on the fray. It didn't take long to remove the several hundred soldiers, especially after the Constructs and Zetaya took on larger forms. The battle spilled out onto the nearby streets, mainly because the soldiers had tried to flee and get reinforcements. Ren and his people were victorious after a short and decisive battle, and had gathered a bit of an audience.
+
+“Hey, what are you doing there?” A man asked as he saw the soldiers bodies dissolve.
+
+“We're just cleaning up the dirt.” Xuunah said to the man, and he nodded.
+
+“It's about time someone did that.” The man said. “You're not Lord Grasham's citizens, though.”
+
+“No, we aren't.” Officer Holly said.
+
+“We're concerned neighbours, and couldn't let what was going on here continue.” Xuunah said.
+
+“What does Lord Grasham have to say about this?” The man asked.
+
+“It depends on when we ask him.” Ren said. “If this scattered troop deployment is any indication, that won't be until tonight.” He said. “Cleaning them all up first takes time.”
+
+“Good luck.” The man said and walked away.
+
+“The regular citizens aren't too concerned over us wiping out the soldiers.” Officer Holly said. “Don't you think that's a little odd?”
+
+“Very.” Ren said. “Either they are tired of the soldiers behavior, or they think we won't make a difference and the soldiers will be back later.”
+
+“Hm.” Xuunah rubbed her chin. “Will they be back?” She asked. “We haven't seen anyone go out of their way to help the soldiers; but, we also haven't stayed around to see if they came back.”
+
+“We could stop here and wait.” Officer Holly said. “Then we'll know.”
+
+“I have a better idea.” Ren said and took out the All-Seeing Mirror and asked it to show the previous battle sites to see if anyone showed up to ask about the missing soldiers, then asked if there was a spawn point or anything for them. When both questions showed him nothing, he stored the mirror and the group went on to the next city.
+
+They had met several small patrols along the way and dealt with them easily, then dispatched the soldiers inside the city. There were a surprising amount of them, even considering the larger population centres, and Ren and his group moved on before anyone else could ask them what was going on. They weren't leaving any bodies behind, so they knew they would have quite a long time before any of the soldiers they met could say or do anything in response.
+
+This pattern went on for several hours, just as Ren had predicted, and they worked their way across Lord Grasham's lands towards the capital. He had a lot more land than Ren did; and in fact, he actually had 10 times the land and nearly a hundred times the people. Neither Ren nor Teepo tried to count the people to see what the actual ratio was, and kept quiet whenever they had the urge to try. It almost became a running joke as they counted the soldiers to keep track of them, and not the people.
+
+They arrived at the capital city and saw it's defenses. It had huge stone walls and creatures that flew around the top of the wall. Ren couldn't quite make out what they were at the distance they had stayed away from the city, and then Teepo spoke.
+
+“Those are Pegasus Knights.” Teepo said. “They are better than normal horses with large feathered wings and they have experienced knights riding them.” He said. “What do we do now?”
+
+“Let me think about it.” Ren said, and observed the comings and goings for several minutes.
+
+“Ren? Will you let me handle this?” Xuunah asked, and he looked at her.
+
+“Are you sure? They don't look the least bit friendly.”
+
+Xuunah chuckled. “They might not look friendly right now, but their attitude is about to change drastically.”
+
+Ren smiled as he felt her Reassurance Aura pop into place. “Then My Lady, please help yourself to them.” He said and gestured towards the city walls.
+
+Xuunah nodded and rode her white Phantom Steed through the air towards the soldiers that weren't expecting a visit from a Light being in human form. Ren watched her approach the defending soldiers cautiously, then watched as Xuunah deftly dealt with them verbally and didn't cause a significant disturbance.
+
+Ren wasn't sure if he liked her approaching the enemy city without backup, and he told the succubi to stand ready. After several minutes, Xuunah turned and waved to Ren and the rest of the group, and he felt her confidence through his connection with her.
+
+“I guess this means we can approach safely.” One of the succubi said. “I wonder how she managed that?”
+
+“We can ask her later.” Ren said and looked at the others. “Keep a low profile, and try not to spook anyone.” He cautioned them. “Until we want to, that is.” He smiled. “Let's go.”

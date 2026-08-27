@@ -1,0 +1,241 @@
+---
+id: fbd99e06-95c9-5d75-8d21-eacf9e70e50b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74 Implication"
+slug: 0079-chapter-74-implication
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 79
+ownLength: 2261
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3506364/chapter-74-implication"
+royalRoadId: "3506364"
+---
+
+By the time they had finished lunch, the muted glow of the afternoon had already begun filtering through the windows of the manor’s study as he entered, with Talia following right behind him.
+
+As soon as they were inside, Lucien closed the door behind them.
+
+Talia walked straight to the chair before his desk. She cupped her chin in thought before running a hand through her hair, leaving her bangs disheveled.
+
+“Urghhh...Senior...what’s with this confusing world,” she said, a hint of complaint in her tone as she sank into the chair.
+
+Lucien shook his head lightly as he moved at a more unhurried pace to his own seat behind the desk. “If anyone from this world came to ours, it would be just as confusing for them,” he replied as he leaned back.
+
+“Besides, there is a certain logic to what is happening here. There always is.”
+
+Talia exhaled softly at his response. For a time, both of them remained silent as they processed what they had heard from Alicia.
+
+Lucien leaned forward after a moment and gestured toward her.
+
+“You first.”
+
+“Too many people,” Talia said immediately as she straightened from her slouch. “That’s the part that didn’t sit right with me.”
+
+At his raised brow, she lifted a finger. “She was talking about the heartlands, right?” Her finger shifted to point at him. “And I’m assuming you’re in the same boat as me, where we don’t have any real context about the capital’s population or anything like that?”
+
+“Yes. It was...frustrating at times when I tried to recall anything useful, especially during my first days here.”
+
+She was already nodding before he finished. “Exactly! So during my time in Helvarn, one of the things I tried to figure out was the overall population of the town.”
+
+“How many?”
+
+“Give or take? Two thousand five hundred,” she said. Her hand moved in a small back and forth motion. “If you include the shanty camp, about three thousand at most.”
+
+Lucien’s gaze sharpened as it settled on her. “For a fortress town, that is not a large number.”
+
+“Yeah, it barely counts as a proper town by our standards,” she said, brushing her hair away from her face. “And that’s supposed to be part of their defensive line.”
+
+Talia exhaled softly through her nose, her fingers tapping once against her arm.
+
+“If that’s what passes for a fortress town...” Her voice trailed off.
+
+She met his eyes directly.
+
+“Then what exactly counts as ‘too many’?”
+
+Lucien did not respond immediately, his finger tapping lightly against the desk before he spoke.
+
+“It is not just the number itself that is the issue. It is the reasoning behind it.”
+
+Talia leaned forward, resting her chin on her hand, elbows on the desk as her gaze sharpened. “Something else about Alicia’s words struck you as odd?”
+
+He gave a small nod, his eyes lowering in thought. “People do not abandon stable land, especially land unaffected by the Tithe.” His gaze shifted toward the window, toward the village beyond. “Certainly not to the frontier where each year carries the risk of death.”
+
+She mimed a finger gun at him. “That’s strange, right? Why would anyone willingly choose the frontier of all places?”
+
+Lucien shook his head faintly. “I don’t think they have a choice. Otherwise, they would choose another border, like Arcencia’s eastern or western regions instead of the southern frontier.”
+
+Talia let out a breath, a faint nod following. “Yeah, that’s what I was thinking too.”
+
+“So the problem isn't the numbers alone. Something is pushing them out of the central lands of the Eredros continent.”
+
+Lucien’s gaze lifted to meet hers. “Remember when Alicia mentioned that women in the frontier are not expected to take part in the defense of their villages?”
+
+A slight frown formed on Talia's face. "...You're thinking it's related?"
+
+He gave a slow nod. "We do not know if the heartlands are any different. But for the frontier at least, no one seemed particularly bothered about Sera."
+
+"...If anything, people are more eager to utilize her skills."
+
+Talia studied him for a brief moment before she stretched her arms out. Her eyes shut tight as she let out a sigh before returning her gaze to him.
+
+"We're working with a pretty small sample size here."
+
+His hand lowered to rest against the desk, fingers drumming lightly.
+
+“The frontier is a known risk to the people of this world. And there is another difference between our world and this one beyond the Tithe.”
+
+Talia’s eyes widened slightly. “Other races like the elves and beastmen.”
+
+Lucien gave a small nod, his gaze shifting slightly. “I have read about them during my first days here. Most records carry a clear bias.”
+
+He gestured toward the shelves lining the study. “And yet, outside of those texts, the people of Ashridge rarely speak of them.”
+
+Talia’s brow creased faintly as she leaned forward, one leg crossing over the other. “So it’s different for people who grew up closer to it,” she murmured.
+
+Lucien’s gaze moved to her, a faint lift in his brow. “You experienced something different in Helvarn?”
+
+She nodded, her expression tightening. “Yeah, they don’t talk about it openly, but whenever I tried asking...” Her words trailed as she searched for the right phrasing.
+
+“You get caution...or something harsher.”
+
+Lucien’s gaze lowered as he considered it. “Records describe this period as one of the longest cold periods in their history. Their definition may differ from ours.”
+
+Talia exhaled lightly through her lips. “Yeah, we’ve been surprised before about what,” she said, flicking two fingers in the air, "is common sense in this world compared to ours."
+
+He inclined his head. “It is too early to form a conclusion. But there is likely more to it than Alicia’s explanation.”
+
+Silence settled over the room again as both of them considered what they had uncovered.
+
+A short while later, Lucien remembered what he had intended to tell her earlier and brought up Garrick's remarks regarding the cathedral.
+
+Before the discussion could go much further, a knock sounded at the door.
+
+Talia immediately straightened, her legs uncrossing as her posture shifted into something more dignified.
+
+The two of them exchanged a glance before she gave a quick thumbs up with a light grin.
+
+Lucien shook his head faintly before he spoke.
+
+“Enter.”
+
+The door swung open smoothly as Elias stepped into the room. His gaze moved to Talia first and lingered there for a brief moment before shifting to Lucien.
+
+“My Lord, there has been news from Helvarn.”
+
+Lucien’s gaze sharpened at the steward’s words. “…Is it regarding Lord Vaelric?”
+
+Elias inclined his head before stepping forward to his usual place. He hesitated briefly, his attention flicking toward Talia before returning to Lucien.
+
+Talia rested her hand against her chin, her lips curving faintly as she regarded the steward.
+
+Lucien understood immediately and gave a small gesture. “Go on, Elias. If Cragwatch’s noble intends to act, it will likely concern Talia as well, given she is Ashridge’s exclusive merchant.”
+
+The steward’s composure faltered for a brief moment before settling once more. “Yes, My Lord.”
+
+Elias produced a letter and placed it upon the desk. “This arrived moments ago by a runner sent by…” He paused briefly, choosing his words with care. “Lord Rathenfell, the Lord of Helvarn.”
+
+At the unexpected name, Lucien’s brow lifted.
+
+Before he could speak, Talia interjected with ease. “Lord Rathenfell?” she echoed, tapping her chin lightly. “My, Lord Lucien, I did not know you were close enough to receive a personal letter from the Lord of Helvarn.”
+
+Elias remained silent, though a faint note of disapproval showed in his expression at the interruption.
+
+“I have not even met the man,” Lucien replied as he took the parchment and unfolded it.
+
+The opening followed the usual pleasantries expected of correspondence among the nobility of this world, with the added note of Ashridge’s recent efforts in taking in the eastern refugees. The phrasing carried a level of refinement that suggested the hand of a practiced scribe rather than the lord himself.
+
+He moved past it, more interested in the substance of the letter itself. As expected, it concerned the recent events at Cragwatch, along with those who had been brought under Ashridge’s protection.
+
+“Concerns have been raised regarding the current status of the displaced,” Lucien read aloud, his tone even.
+
+Lord Rathenfell expressed a desire to convene. A discussion, as it was framed, one that would include the presence of Lord Vaelric so that he might air his grievances, with the stated aim of resolving the matter with minimal disruption to the region.
+
+Lucien’s eyes lingered there for a time before he continued. “Your presence is requested at Helvarn for further discussion.”
+
+Talia, who had remained silent as he read, spoke first. “Discussion?” she echoed.
+
+Elias shifted slightly, hands still clasped behind his back, though he remained silent.
+
+“Yes,” Lucien replied, his gaze lifting to meet hers. “That was the word used. A discussion, and a request to convene.”
+
+Talia tapped her chin, her gaze flicking briefly toward the steward before she gave a subtle wink.
+
+He inclined his head before turning to the steward. “Elias, what can you tell me about House Rathenfell?”
+
+Elias gave a nod as he cleared his throat. “House Rathenfell is a relatively young house, My Lord.“
+
+“Its rise to nobility dates back a little over a hundred years. Their status was granted after they established Helvarn as a fortified settlement along the southwestern border of Arcencia.”
+
+The steward continued as though reciting something long committed to memory. “Helvarn serves as their seat. It has been held by their line since its founding.”
+
+Lucien gave a small nod, his attention fixed on the steward as he listened.
+
+“In that sense, their position differs from settlements such as Ashridge or Cragwatch. Those fall under administrative appointment. Their governance is often interrupted by the Tithe, and continuity is not always maintained.”
+
+“Your own appointment, My Lord, stands as an exception to the usual pattern.” His voice remained even, leaving the implication unsaid.
+
+Talia let out a small hum as she cupped both hands, shaping them as if outlining a walled town. “I heard Helvarn’s walls were built by them from the beginning. And without assistance from the Crown...that couldn’t have been easy.”
+
+Elias inclined his head in acknowledgment, though he did not add to her words.
+
+Her lips curving faintly, Talia gestured toward Lucien. “Then that ‘request’ makes more sense. If they’re technically a newer house, they can’t exactly order you around.”
+
+A brief hesitation crossed the steward's face before he responded. “That is...a reasonable interpretation.”
+
+Lucien’s gaze shifted from Talia to Elias at his words, his brow lifting in question.
+
+Elias cleared his throat softly as he continued. “As one appointed directly by the Crown, you do not fall under House Rathenfell’s authority. They cannot compel your presence.”
+
+He paused briefly, his eyes meeting Lucien’s. “However...Helvarn itself carries its own weight.”
+
+Lucien gave a small nod while Talia exhaled softly, both of them understanding the importance of Helvarn for Ashridge.
+
+The steward straightened slightly. “It serves as a central point along the southwestern frontier.”
+
+“Trade, movement, and communication pass through it to some degree. Its position grants it influence that extends beyond the standing of the house that governs it.”
+
+Lucien glanced at the window. “So their authority comes from the land itself. Not the prestige of their house.”
+
+“Yes, My Lord.”
+
+Talia gestured lightly toward the letter. “Lord Lucien, is there anything else about the letter?”
+
+At her words, he looked back down to the final portion. His gaze stilled, his brow creasing faintly. “It mentions that the meeting will take place in late spring.”
+
+She straightened at once, her head tilting. “Late spring? That's...”
+
+“Yes. The timing seems deliberate.”
+
+Lucien’s gaze shifted toward Elias. “Your thoughts?”
+
+The steward's eyes lowered for a brief moment. “There are...multiple ways to interpret such timing, My Lord.”
+
+“One possibility is that Lord Vaelric’s concern does not lie solely with the return of his people.”
+
+Talia’s brows drew together at that. “You mean he doesn’t actually care about getting them back?”
+
+Elias inclined his head in response. “It would not be accurate to say he holds no concern. However, the manner in which the letter has been presented suggests there may be other considerations at play.”
+
+Lucien remained silent, his gaze resting on the letter as he listened.
+
+“Another possibility,” Elias continued, “is that Lord Rathenfell himself has chosen to allow time before convening. Time for matters within Ashridge to stabilize, and for any immediate disruption to settle.”
+
+Talia’s eyes sharpened at that, her attention shifting between the two of them. “So which is it? Lord Vaelric pushing for something else, or Lord Rathenfell giving you time?”
+
+The steward remained silent, which in itself was answer enough.
+
+Lucien's fingers came to rest against the letter. “Both remain possibilities, but we do not have enough information to determine their intent.”
+
+The crease in her brow remained as she leaned back in her chair. “So we just wait?”
+
+Lucien shook his head. “No, we will prepare for both.”
+
+He glanced at Talia. "When your goods come in from Helvarn, ask about the state of the town when the opportunity presents itself."
+
+"If the timing is deliberate, perhaps the town itself will tell us why."
+
+The letter remained where he had placed it upon the desk.
+
+Instead of answers, their discussion had only revealed how little they truly knew about the world beyond the frontier.

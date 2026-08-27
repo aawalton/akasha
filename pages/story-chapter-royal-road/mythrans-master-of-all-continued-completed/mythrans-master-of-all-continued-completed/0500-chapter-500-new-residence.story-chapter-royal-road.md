@@ -1,0 +1,489 @@
+---
+id: 9cba9cf4-ff78-5aeb-9493-5ad4df5b71db
+page-type-slug: story-chapter-royal-road
+title: "Chapter 500 - New Residence"
+slug: 0500-chapter-500-new-residence
+partOf: mythrans-master-of-all-continued-completed
+position: 500
+ownLength: 5127
+unit: words
+publishedAt: 2018-02-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191756/chapter-500-new-residence"
+royalRoadId: "191756"
+---
+
+“You have got to be kidding me!” Ren exclaimed after reading the Secret Plans through the All-Seeing Mirror, and then received a popup.
+
+Notice!
+
+You have used ingenuity and insight to bypass a restriction and discovered essential information.
+
++1 Intelligence, +1 Wisdom.
+
+“I'm really glad that worked.” Ren said and stored the All-Seeing Mirror, and Princess landed beside him.
+
+“Ren, that's amazing.” Xuunah said as she looked at the city and the mile high tower at it's center. Officer Holly only nodded and didn't say anything.
+
+“Let's go pick Symmetra up.” Ren said and went to close the cart's top.
+
+“What's wrong?” Xuunah asked.
+
+“I'll let you know later.” Ren said. “Brace yourselves.”
+
+The two women sat down and held on, and he noticed their Disguise Self spells had expired. He was a little saddened by that, then remembered what had to be done. He smiled at them and closed the cart, then mounted Princess' saddle.
+
+“Princess, you know what to do.” Ren said, and Princess trotted up into the air and poured on the speed to go back to the Giant refugee camp to pick up Symmetra.
+
+*
+
+“Look at that!!!” One of the male giants exclaimed when the Giant-sized city appeared in front of them, only half a mile away. “It's a city!” He said and started walking towards it. “A whole city just appeared out of nowhere!”
+
+That caught the other giants' attention and they turned to look. Word spread to everyone quickly, and most of them started to walk over to it as well. There were a lot more giants than the ones Ren had rescued, since a lot of their family members had decided to stay when they visited.
+
+“I hate to admit this.” Laurelia's father said. “You were right, Laurelia.”
+
+Laurelia felt like she should laugh at her father's admission; but, she was too awestruck by the sight of an entire city to do much more than stare at it.
+
+“I guess he did have a good reason to warn us.” Her mother said. “Imagine! Making an entire city appear instantly!” She put a hand on her daughter's shoulder. “Shall we go and see what waits for us inside?”
+
+Laurelia looked at her mother. “He said he would be back in 20 minutes.”
+
+“Which is about 10 minutes from now.” Her father said.
+
+“Do you want us to wait here with you?” Her mother asked.
+
+“No, you both go on ahead.” Laurelia said. “Pick out a good house for yourselves.”
+
+“You mean for us, don't you?” Her mother asked, and Laurelia shook her head.
+
+“Even though it was tragic how it happened, I... I've gotten used to living on my own now.” Laurelia said. “I think I'd like my own place.”
+
+Her mother smiled and gave her a quick hug. “How about we find two that are close together?”
+
+Laurelia returned the smile and nodded, then her parents joined the other giants and left her alone in the clearing to wait.
+
+********
+
+Clint had finally finished all of his chores and assigning tasks for the ranch hands to do the next day. He went into his bedroom after getting a shower and was looking forward to relaxing for the next few game days.
+
+“Ah've been waitin' all week fer this.” Clint said as he sat down on the bed and picked up his VR headset. “Ah nice dip in ahn Olympic-size pool sounds really nice righ' now.”
+
+He laid back and put on the headset, then took a deep breath and let it out to relax.
+
+“Flow Login Star'.”
+
+********
+
+Clint appeared in the white loading area of the game, much to his surprise.
+
+System Notice!
+
+Welcome... to your doom!
+
+“Wha' tha hell?” Clint asked, confused. “Mah doom?!?”
+
+System Notice!
+
+F.L.O.W. has received a major game update since the last time you logged in. The new World Event 'Ghoulpocalypse' now permeates the game environment.
+
+Quests and tasks are optional, as they always are, and can be found at regular intervals from normal quest givers or randomly while out in the wilderness zones.
+
+Can you make a difference? Can you stand by and let the world be overrun by the undead ghoul hordes?
+
+“Goodness gracious!” Clint exclaimed. “Tha ghouls we foun' are overrunnin' tha whole world?!?”
+
+System Notice!
+
+Congratulations! Your character level is high enough that new options are now available to you.
+
+Dual Class Upgrade: You will stop gaining levels in your current class, and can choose a complimentary class and will gain skills and levels at half the normal rate, and still be able to use your old skills.
+
+New Class Upgrade: You can give up your current class (and all related skills) completely and start another class entirely. You will gain XP and Skill bonus percentages based on your old level. Current Bonuses: +57%
+
+New Species: Because of the current addition of two new Starter Cities, if you choose an upgrade, you can also choose the option to change species.
+
+Giant: Grants bonuses to Strength, Toughness, Endurance, Spell Resistance, Race-specific Skills
+
+High Elf: Grants bonuses to Dexterity, Agility, Vitality, Inherent Spell Casting (limited class spells, unless magic user is chosen), Race-specific Skills
+
+“Ah don' believe this!” Clint said.
+
+System Notice!
+
+Do you wish to change or alter your class and / or race?
+
+Yes / No / Ask Me Later
+
+“Ask me later, dammit!” Clint said, a bit angrily. “Ya can' jus' throw all ah tha' at me withou' warnin' an' 'spect me ta jus' pick somethin' withou' thinkin' abou' it!”
+
+The popups disappeared and his house in the game faded into existence around him.
+
+“Who'd be stupid enough ta choose stuff like tha' withou' wonderin' wha' will happen ta them?” Clint said loudly as he stood up from the couch.
+
+“You don't really want me to answer that, do you?” Billy said from the other couch, and Clint looked over at him.
+
+“Geezus, Mary and Joseph!” Clint exclaimed.
+
+Billy was now twice his normal size, and towered over the other phantom forms on the couch. He used to be 5 foot 8 inches and was now double that at 11 feet and 4 inches. He had long white hair that went down to his waist, had extra long pointed ears, and his skin had a much lighter tint.
+
+“GODDAMMIT, BILLY!” Clint yelled. “Wha' were ya thinkin'?!?”
+
+“That I wanted the Dexterity and Agility bonuses, obviously.” Billy said. “It's okay, though. I only split my class, and kept all my stats.”
+
+“Hold on... it let ya switch races when ya wen' dual class?”
+
+“Yeah!” Billy said, excitedly. “Neat, huh?” He looked at his hand. “I feel a lot more agile, if that make any sense.”
+
+“Tha's probably because yer tha same weigh' in a body tha's twice as big.” Clint said.
+
+“What?” Billy stood up and kind of hopped. “Whoa!”
+
+“Tha's gonna take some gettin' useta.” Clint said. “When are tha others loggin' in?”
+
+No sooner had the words left his mouth when there was a loud crash. Clint turned and saw a giant had crushed the chair Hank had sat in. He was now 24 feet tall, which was 4 times his normal 6 feet in height, and looked enormous in the living room despite it being open-concept.
+
+“GODDAMMIT, HANK!” Clint yelled.
+
+*
+
+Ren and Princess arrived back at the Giant city and came in for a landing.
+
+“Nice work, Symmetra.” Ren said and opened the cart for her to climb in.
+
+“I can't believe it worked.” Symmetra said as she climbed into the cart. “I mean, I know it was supposed to, but still...”
+
+Ren chuckled. “Yeah, I know.”
+
+“The giants are already going inside and picking houses.” Symmetra said.
+
+“That's great.” Ren said. “I hope you didn't have to assign them or anything.”
+
+“We made it for them, so they are the intended residents.” Symmetra said. “They just picked the ones they wanted and moved right in.”
+
+“Nice.” Ren said. “I'm going to the camp to talk to Laurelia and explain a few things.”
+
+“Then close this thing up and let's go.” Symmetra said. “We're burning crafting time, here.”
+
+Ren smiled and closed the cart, and rode Princess over to the giant's partially abandoned refugee camp. When Princess landed, Ren noticed that several giants were gathering their things to bring to the city, and saw Laurelia as she sat beside the stone brick cooking oven Ren had built for them. He hopped off of Princess and walked across the air to stand in front of her face.
+
+“You look a little sad.” Ren said.
+
+“I guess this means it's over.” Laurelia said and waved at the camp. “Our lives had changed so much because of this and what you did to save us, and now... now...”
+
+“Hey, if you think I'm just going to forget about you, you're mistaken.” Ren said, and he saw a large tear form in the corner of her eye. “You're the first giant that I know liked me, and it didn't matter that I am less than a quarter of your size.”
+
+Laurelia smiled, and the tear was squeezed out. She started to reach for it, and Ren touched her cheek.
+
+“Let me get that.” Ren said and equipped his blue suit, then took out the Permanent Enlarge and Reduce Anything wand that he had been using on Zetaya. He used it on himself instead and became 9 foot 2 inches tall, walked down to the ground, then used it again to become 18 feet and 4 inches tall. Laurelia's mouth fell open as he reached out with his giant-sized hand and wiped off her face.
+
+“R-Ren.” Laurelia said. “Wh-what...”
+
+“I've discovered a few things since the last time I've seen you.” Ren said. “I'm still in a relationship, though.”
+
+“It's good to know something has stayed the same with you.” Laurelia said, and then looked him up and down. “H-how long... does it last?” She asked, and he could feel that she was almost afraid of the answer.
+
+“Until I use the wand again.” Ren said, and she stared at him in shock. “I believe I owe you a story to explain what's been going on, and why I haven't been back until now.”
+
+Laurelia took a breath and let it out, and then stood up. With them both giant-sized, 4 feet wasn't that big of a difference.
+
+“Actually, I think you said I would get a proper kiss when you came back.” Laurelia said and smiled.
+
+“Did I?” Ren raised a single eyebrow at her, and she chuckled.
+
+“Don't make me call you a liar.” Laurelia cautioned him, and he took a step up into the air to put his face at the same height as hers.
+
+“If there's one thing that everyone knows about me.” Ren said and ran his hands through her hair. “It's that I try to never lie.” He smiled. “I suck at it, apparently.”
+
+Laurelia laughed, and he felt her amusement.
+
+“Can I use my Emotion Siphon ability?” Ren asked and put his arms around her. “You're so... delicious.”
+
+Laurelia's face went to a deep red, because no one had ever called her delicious before. “Will it hurt?”
+
+“Not at all.” Ren said and used his ability to touch her on the inside and tasted her.
+
+“AH!” Laurelia gasped at the sensation, and the look in her eyes went a little crazy. “That... oh, my...”
+
+“It gets better if you're willing.” Ren whispered to her.
+
+“Then do it.” Laurelia said and kissed him. Ren almost gasped at the sheer amount of lust and need that flooded out of her as she finally let herself indulge in her fantasy. His Emotion Siphon ability lapped it up as it caressed her on the inside, and that brought even more emotions out of her.
+
+Xuunah, Officer Holly, Artemis, and Symmetra sat in the covered cart and couldn't move. They were all sharing Ren's emotions, and could feel Laurelia's reactions through him. They were all breathing heavily as the kiss went on, and then they felt Laurelia's emotions shift.
+
+Laurelia couldn't believe how much better the reality was than her fantasy. Just the feeling of Ren's lips on hers was driving her wild with ecstasy, and whatever he was doing inside of her was almost enough for her to go completely crazy. She wrapped a leg around Ren and pressed herself up against him, and was glad she was wearing pants to make the movement possible. She ground herself against his body and discovered how much he liked her doing that.
+
+“OH, GOD!” Laurelia yelled as she broke the kiss and finished. She ducked her head onto Ren's shoulder and held onto him tightly as she trembled from the feelings of pleasure.
+
+“Oh, god!” Officer Holly exclaimed as she closed her eyes and finished, and she felt Xuunah go as well. They both felt everything through Ren, so Laurelia's passion had carried them along with it, and when she was done, so were they.
+
+Officer Holly and Xuunah relaxed and didn't see that Artemis and Symmetra both had pained expressions on their faces. Their bodies reacted in the same way as the two normal women, and it took all of their concentration to not share those feelings with Ren. They knew that he knew that they could react in that way, and they didn't want to influence him or make him feel bad about it.
+
+Ren stopped using his Emotion Siphon ability on Laurelia to let her calm down, and after a minute or so, she took several deep breaths and unwrapped her leg from around him.
+
+“Ren, I... I'm so-”
+
+“That was awesome.” Ren said and cut off her words. “I've never had a woman do something like that before.”
+
+“What?” Laurelia blinked her eyes at him.
+
+“You completely let yourself go, and felt everything that you could to it's fullest extent.” Ren said and smiled. “That's quite an accomplishment, considering we both still have our clothes on.”
+
+Laurelia let him out of the hug and stepped back as she looked down. Both her pants and Ren's were soaked. “Did... did I...”
+
+“Amazing, isn't it?” Ren asked and equipped his Travelling Clothes for an instant, then the blue suit again. He took out a Strong Ring of Storage and gave it to her. “You can store and equip your clothing to clean it, too.”
+
+Laurelia looked at the ring and then at Ren. “But...”
+
+“Are you hesitating because it's a ring?” Ren asked, and she nodded. He took out a blank amulet and made it into an Amulet of Unnatural Armor, then used Double Infusion to transfer the Strong Ring of Storage enchantment to it. “There you go.” He said and started to hand the amulet to her. “I usually imbue the amulet with... oh, hey. Just a second.”
+
+Laurelia watched as Ren knelt and opened the cart, and she saw the 4 women inside.
+
+“Symmetra, can you use Double Infusion on this to add the modified Amulet of the Spider, please?” Ren asked and laid the amulet against the side of the cart.
+
+“Of course.” Symmetra said and reached out to touch the metal and did as Ren asked. “There you go.”
+
+“Thank you.” Ren said and picked up the amulet, then stood and gave it to Laurelia. “Now you can use it for storage and still benefit from both of the enchantments it normally has.”
+
+Laurelia took the amulet and put it on, and gasped at the popup that told her what it did. “Ren! You... I can't accept...” She looked down at the amulet around her neck. “This is too much...”
+
+“Consider it a thank you for what just happened.” Ren said as he put a hand on her arm, and she looked at him. “Thank you for that memorable kiss.”
+
+“Y-you're welcome.” Laurelia said, because she could see the sincerity in his eyes.
+
+“Now, would you like to hear the story up until now?”
+
+“I would.” Laurelia said as she stored her pants for an instant and equipped them again, then started to sit down.
+
+“No, not here.” Ren said and motioned to the giant city. “Let's go and check out the city and see if the Library is open.”
+
+“The Library?” Laurelia asked and stood up straight.
+
+“Yeah.” Ren said. “If I'm going to tell the whole tale, I might as well have it recorded and made into a book.”
+
+Laurelia stared at him as he knelt beside the cart.
+
+“Princess? Do you want to run over there yourself, or do you want me to carry you?” Ren asked her, and he could feel her thinking about it.
+
+“Carry, please.” Princess said.
+
+“Your mount can talk!” Laurelia gasped, and Ren chuckled at her reaction.
+
+“Ladies, same option.” Ren said to the women in the cart.
+
+“Just carry the whole damn cart!” Officer Holly said. “We can easily fit in your arms this way!”
+
+“Yes, ma'am.” Ren said and carefully picked up Princess and the cart at the same time, and nestled the cart in the crook of his elbow and held Princess in his hand. “Well look at that.” He said. “You were right.”
+
+“Of course I'm right!” Officer Holly said. “Now get moving!”
+
+Ren held his other hand out to Laurelia. “May I escort you home?”
+
+Laurelia smiled and took the offered hand, and gave it a squeeze. “You may, kind sir.”
+
+They walked hand-in-hand out of the Giant campsite and over to the entrance to the Giant Starter City. Once inside, they saw giants walking around almost aimlessly as they looked at the things inside.
+
+“I know 5 miles isn't a lot with everything on such a large scale, but I couldn't make the thing much bigger because of the limitations of my Craft Wondrous Item ability.” Ren said.
+
+“I can't believe you made this entire city appear in just seconds!”
+
+“Not just this one.” Ren said and led her over to the Library. “I made one for the High Elves and one for the Humans, too.”
+
+“Th-three?!?” Laurelia was shocked. “You did this three times?”
+
+“Thanks to my familiars, Tee-one and Symmetra. We did all three at the same time.”
+
+Laurelia shook her head. “I can't believe you did that!”
+
+Ren chuckled. “It's right here in front of you.” He said and they went into the Library. It was full of books and had several giants looking through the shelves.
+
+“I can't believe we're allowed in the Library!” One of the female giants said. “With the actual books!”
+
+“You will need a Library card to check them out.” A harsh woman's voice said, and Ren looked at the reception desk. A female giant sat there, and she had a stern expression on her face. He led Laurelia over to the desk, and gave the Librarian a respectful bow.
+
+“Ma'am, please excuse my intrusion.” Ren said in a soft voice so that it wouldn't be heard much further away than the desk, and he felt the Librarian's approval. “If I could get your assistance, I'd like to record a book while I tell my friend here a story.”
+
+“Do you know the minimum words required, and the content rating system?” She asked as she leaned forward.
+
+“Yes, Ma'am.” Ren said. “I have 5 books so far that have been published by this fine establishment, and I am also a Patron of Knowledge.”
+
+The Librarian sat back in her chair and crossed her arms. “Are you bragging about your accomplishments?”
+
+Ren shook his head. “I am merely presenting my credentials to prove that I won't be wasting your time.”
+
+The Librarian huffed and uncrossed her arms. “Very well.” She said. “First room on the right, and I will be in momentarily.”
+
+“Thank you very much.” Ren said and gave her another slight bow. “I will await your arrival patiently.”
+
+“Are you humoring me?” The Librarian asked and squinted her eyes.
+
+“With that last line?” Ren asked, and she nodded. “Perhaps a little.”
+
+The Librarian gave him a little nod and Ren took the cue to step away.
+
+Stat Change!
+
+Etiquette Level 8 (Expert 0%)
+
+Ren led Laurelia over to the side hallway and let her hand go to open the door. He ushered her through and shut the door behind them, then opened the first door on the left. Inside was a small room with a table and 4 chairs, and they sat down. Ren put Princess and the cart down on the table, and they all waited for the Librarian. She came into the room a couple of minutes later and sat down across from Ren.
+
+“You may begin.” The Librarian said, and Ren started to talk.
+
+*
+
+Lord Tathalyn managed to get a cart and driver to agree to the several hours journey out into the no man's land outside of the High Elven Kingdom for an outrageous fee. Two guards came along to protect the driver and their high-paying client. They brought enough supplies in case anything happened, and they set off on the trip.
+
+*
+
+Ren told his hours long story to Laurelia, and tried his best to keep it entertaining. That wasn't difficult, considering what he had been doing since the last time he had seen her, and every now and then he would pause and add a mental image to the book. When he was done talking and told the Librarian the title of the book, she got up without a word and left the room.
+
+“Wow.” Laurelia said. “Ren...” She shook her head. “Why aren't you dead?”
+
+“I'm an Adventurer.” Ren said. “I did die and I came back, remember?”
+
+Laurelia took a deep breath and sighed. “How can you live a life that's so hectic?”
+
+“One day at a time.” Ren said and smiled.
+
+The Librarian came back into the room and clutched the book against her chest. “I put a copy in the archive.” She said and hugged the book, then reluctantly let it go and passed it to Ren.
+
+The Chronicles of Ren Volume 2
+
+Mistakes in Joy and Villainy: My Adventures In and Out of Shargon Caverns
+
+Book Rating: A (Violence, Gore, Sexual Content)
+
+“Please make copies of this available for free to anyone that wants it.” Ren said.
+
+“For free?” The Librarian looked at him with wide eyes.
+
+“Yes.” Ren said and stood up to hand her several platinum coins. “I do that for all of my books.”
+
+“O-of course.” The Librarian said. “Thank you for creating such a great book.”
+
+“It's only great if the reader thinks it is.” Ren said and smiled as he picked up Princess and the cart that still had Xuunah, Officer Holly, Artemis, and Symmetra in it. “Thank you for taking the time to record it for me.”
+
+“It was no trouble.” The Librarian said and paused before she opened the door to leave. “Don't take this the wrong way, but I hope you don't have such an... interesting life from now on.”
+
+“I'll try my best.” Ren said and took Laurelia's hand. “Let's find you a house.”
+
+“My parents are already doing that.” Laurelia said. “We just have to find them.”
+
+The Librarian opened the door and they all left the room and went into the main part of the Library. Ren's hands were full, so he nodded to the Librarian and led Laurelia outside. He let her hand go and took out the All-Seeing Mirror and asked it for her mother's location. He stored the mirror and took Laurelia's hand again, then led her to where her parents had picked out their house. Laurelia knocked on their door, and her mother answered.
+
+“It's next door!” Her mother said excitedly. “You have to see it!”
+
+Laurelia went to go, and Ren held onto her hand. “What is it?”
+
+“I have to go.” Ren said. “I need to deliver the High Elves to their new home.”
+
+Laurelia sighed, and Ren felt her disappointment and her understanding. “I'm not going to see you again for a while, am I?”
+
+“I honestly don't know.” Ren said. “It could be next week, or it could be a few months.”
+
+“You're telling me not to wait for you, aren't you?”
+
+Ren smiled. “I've been telling you that since we met.”
+
+Laurelia chuckled; but, he felt her heart was deflating a little.
+
+“I can give you a lame excuse if it'll help.” Ren said. “You live too far away! It takes almost 10 minutes to get here!”
+
+Laurelia snorted a laugh.
+
+“You're too big and I'm too small!” Ren said. “How can we ever overcome the size difference?”
+
+Laurelia stepped close and cupped the side of his face.
+
+“It's not fair to ask you to not look for love, only on the slim chance that I might be able to fit you into my life, maybe sometime later.” Ren said. “You deserve better than that.”
+
+“So do you.” Laurelia said and gave him a kiss. “Goodbye, Ren.”
+
+“Goodbye, Laurelia.” Ren said. He equipped his platinum armor and took a step up into the air, then another, then started to run.
+
+Notice!
+
+Trouble Recipe ingredient: 'Giant Refugees' has been completed.
+
+Running Quest Update!
+
+You have shown several influential Giants what you can do.
+
+Reward: 2,500 XP
+
+*
+
+“What a sight.” Laurelia's mother said. “An armored giant running through the air.”
+
+Laurelia nodded and fought hard to not cry.
+
+“Hey, it's okay.” Her mother said and put an arm around her daughter. “He still cares about you.”
+
+Laurelia touched the precious amulet around her neck. “I know he does.”
+
+“Come on into the house and we can have some tea.” Her mother said. “Your father brought over everything of ours from the camp.”
+
+Laurelia blinked her eyes and couldn't see Ren anymore, nodded slightly, and went inside with her mother.
+
+*
+
+Lord Tathalyn couldn't believe what he was seeing. It's not a lie or a trick! It's really here! He thought in amazement as the cart was close enough now for him to make out the tower.
+
+“Well, I'll be damned.” The car driver said. “The crazy old man was right!”
+
+“Ha ha!” One of the guards said. “We thought you were coming out to the middle of nowhere to get dropped off and die.”
+
+“I just lost 5 gold coins.” The other guard said.
+
+Lord Tathalyn ignored the chattering voices around him, because he only had eyes for the tower. I'll be there soon, my love! He thought as the cart went ever closer to the mile high structure.
+
+*
+
+Ren stopped a few miles away from the Giant Starter City and stood on the ground, then knelt to put Princess down. He used the spell to reduce himself back to his normal height and climbed onto her saddle. She took off through the air at a much faster speed, and they made it to the human healer's ward 10 minutes later. Because Ren didn't want to have to make multiple trips like he did to bring them all here, he had an ingenious idea.
+
+Ren made a 10 foot wide crate and added multiple floors and stairs inside, then added in seats for everyone and wheels for when it moved. He smiled at the odd-looking thing, and thought about making it larger. He changed his mind and went into the ward instead.
+
+“Everyone, your ride is here to take you to your new home.” Ren said. All of the High Elves looked at him like he was crazy, and he laughed. “You should save that look until you go outside.”
+
+The High Elves started to walk out of the ward and couldn't believe what they saw.
+
+“You can't be serious.” One of them said. “We can never fit inside something that small!”
+
+Ren cast Permanent Air Walk on the heavily modified crate and used the Permanent Enlarge and Reduce Anything wand on it to make it the right size.
+
+“How about now?” Ren asked, and the High Elves just stared at it. “Well, don't just stand there.” He smiled. “Hop in and find a seat.”
+
+The High Elves boarded the enlarged crate, and still couldn't believe it was happening. Ren went to the elflings and told them to come along as well. They didn't hesitate when they saw the thing and climbed right on board without a second thought.
+
+Once everyone was on and seated comfortably, Ren thanked the healer and her assistant for all their hard work, then attached the enlarged crate to the cart the 4 women were in. He mounted Princess' saddle and they trotted up into the sky.
+
+They arrived at the new High Elven starter city 10 minutes later, and Princess landed right outside the main draw bridge. Ren hopped off of Princess and opened the covered cart that the four women were in, then went to the crate with the High Elves and elflings in it.
+
+“Here it is.” Ren said. “Welcome home.”
+
+The High Elves started to disembark from their hastily-built transport, and as they approached the draw bridge, it lowered for them.
+
+“There's lots of living space inside, so there should be no fighting over who lives where.” Ren said. “Remember! There's no class segregation inside.”
+
+“Ugh, are you still going on about that?” One of the female High Elves asked as she stepped off the crate. “If elflings want to be of service, you have no right to tell them that they can't be.”
+
+“Wouldn't that mean you have no right to tell them that they can be?” Ren countered, and she stopped talking and walked up the draw bridge.
+
+“Ren, there's a cart coming.” Teepo said, and Ren turned to see it. “It's Lord Tathalyn.”
+
+Ren nodded. I figured it would be. He thought.
+
+“Are you going to let him inside?” Teepo asked.
+
+I have to. Ren thought. It's the only way to stop it, now that the tower is complete.
+
+The High Elves continued to leave the transport and go inside the city, and Ren walked over to Princess and helped the 4 women climb out of the cart, then stored it.
+
+“Happy faces, everyone.” Ren said to them and smiled himself as he turned around to meet the cart that had picked up speed when the driver saw the High Elves entering the city. It came to a stop right in front of Ren, and Lord Tathalyn jumped out of the back of it.
+
+“It's really real.” Lord Tathalyn said and looked up at the mile high tower.
+
+“It sure is.” Ren said. “Would you like to see it up close?”
+
+“I would.” Lord Tathalyn said.
+
+“Then please, after you.” Ren said and motioned for the High Elf to go ahead; then Ren, Xuunah, Officer Holly, Artemis, Symmetra, and Princess followed the awestruck High Elf inside.

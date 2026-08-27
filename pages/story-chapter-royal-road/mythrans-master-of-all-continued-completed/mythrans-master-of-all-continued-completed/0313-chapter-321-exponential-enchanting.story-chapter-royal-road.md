@@ -1,0 +1,349 @@
+---
+id: 0171a2d9-d5b1-50da-abf3-cf5307e02453
+page-type-slug: story-chapter-royal-road
+title: "Chapter 321 - Exponential Enchanting"
+slug: 0313-chapter-321-exponential-enchanting
+partOf: mythrans-master-of-all-continued-completed
+position: 313
+ownLength: 2538
+unit: words
+publishedAt: 2017-07-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151635/chapter-321-exponential-enchanting"
+royalRoadId: "151635"
+---
+
+While Tee-one enchanted the diamonds, Ren took the time to check his status, since he hadn't done it in a while. He had been in the Water Realm for a long time, and wondered what his stats looked like now.
+
+Status
+
+Name  Ren (Neram) Level  72
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000 (King)  Honor  250,000 (Untouchable)
+
+Giant Kingdom:
+
+Respect  26,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Unnamed King  +10 Levels to all Auras, you must be acknowledged in some way, grants skill: This Is Mine!
+
+Waterkin  Grants Water Manipulation Skill and Waterkin (Aura)
+
+Health  2140  Mana  2318
+
+Strength  303  Dexterity  235
+
+Vitality  205  Agility  222
+
+Endurance  270  Intelligence  265
+
+Luck  75 +2  Wisdom  250
+
+Whoa. Ren thought. Look at those numbers! He was surprised so much had been added to his stats, but then, he thought about how long he'd been playing the game up to the point before going into the Water Realm, and nodded mentally. A year and a half doing hard labour definitely will bring your stats up.
+
+Now that he had the chance, Ren also checked the popups he had missed during the time he'd been logged out. He had missed 3 full days and 3 popups each for the Church and it's Knowledge bonuses, and for the status of the ship. He only glanced at the others, but read trough the ones from the night before.
+
+Notice!
+
+The Church you had constructed on House Neram land has been open for another day. Word continues to spread of it's opalescence, and dwarves from all around come to pray and worship their gods. You have gained bonuses appropriate for encouraging the active worshipping of these gods. 10 visitors = 1% Knowledge bonus to level.
+
+Dark (Gravity) - 260 visitors; Knowledge Of Dark (Gravity) Level 3 (Beginner 32%) +26% = 58%
+
+Earth - 368 visitors; Knowledge Of Earth Level 2 (Intermediate 38%) +37% = 75%
+
+Fire - 702 visitors; Knowledge Of Fire (Mastered) = No gains possible
+
+Ice - 138 visitors; Knowledge Of Ice Level 1 (Beginner 53%) +14% = 67%
+
+Light (Holy) - 351 visitors; Knowledge Of Light (Holy) Level 3 (Beginner 14%) +35% = 49%
+
+Lightning - 143 visitors; Knowledge Of Lightning Level 5 (Beginner 62%) +14% = 76%
+
+Void (Arcane) - 24 visitors; Knowledge Of Void (Arcane) Level 1 (Beginner 5%) +2% = 7%
+
+Water - 232 visitors; Knowledge Of Water (Mastered) = No gains possible
+
+Wind - 157 visitors; Knowledge Of Wind Level 2 (Beginner 8%) +16% = 24%
+
+They're slowly creeping up. Ren thought. I wonder how long it's going to take to master them? He asked himself, then looked at the ship status popup.
+
+Notice!
+
+Your ship (UNNAMED) has been in operation for another 24 hours. The following information has changed since the beginning of the journey:
+
+Ship's Hull  14256 / 15000
+
+Food/Consumables  2600 / 3000
+
+Ropes  260 / 300
+
+Cleaning Supplies  1550 / 1650
+
+Crew  49
+
+The following information hasn't changed since the beginning of the journey:
+
+Captain  1
+
+Cook  1
+
+Waitresses  2
+
+Passengers  15
+
+The number of passengers hasn't changed. Ren thought. We lost the water elemental and gained Railyse.
+
+“I've got the first two sets done.” Tee-one said and handed Ren 2 each of Intelligence, Wisdom, Mana Production and Mana Boost enchanted diamonds.
+
+“Great.” Ren said and used his Double Infusion skill to enchant them again, to make them have a total of 100 runes each. He smiled and checked the bracelet he was going to put them in.
+
+Bracelet of Magic
+
+This bracelet has been enchanted to boost Mana, Intelligence, and Wisdom. It is the quintessential item for a Mana user to have. It grants: Intelligence: +5, Wisdom: +5, Mana Production: +20%, Mana: +200
+
+Gem slots: 6
+
+Ren took 1 of each enchanted diamond and used his Gemsetting skill to set them into one of the bracelets, then used another Mana Boost and Mana Production to fill the last two spots. When he examined it, he chuckled.
+
+Bracelet of Unbelievable Magic
+
+This bracelet has been enchanted to boost Mana, Mana Production, Intelligence, and Wisdom. It is the only item a Magic user could ever need. It grants: Intelligence: +105, Wisdom: +105, Mana Production: +1,020%, Mana: +10,200
+
+“Now that's a thing of beauty!” Ren said, and handed it to Tee-one. “Put this on.”
+
+“Thank you.” Tee-one said and the bonuses took effect immediately. “You're right, that's fantastic.”
+
+“It'll be even better in a minute.” Ren said and Tee-one handed him the next set of jewels to enchant. Ren made the second bracelet and gave it to Tee-one.
+
+“Shouldn't you take this one?” Tee-one asked.
+
+“I'll take the next one.” Ren said and handed Tee-one a blank bracelet. “I need you to make this a Bracelet of Magic, though.”
+
+Tee-one activated Craft Wondrous Item and made the bracelet, then handed it back to Ren.
+
+“Thanks.” Ren said and used his Retain Essence skill to absorb the enchantment from his Bracelet of Importance. He used Double Infusion to add the enchantment to the new bracelet, then added the extra gems and equipped it.
+
+“There we go.” Ren said, and examined the completed bracelet. “Oh, my.”
+
+Important Bracelet of Unbelievable Magic (Unique - Binds On Equip)
+
+This bracelet has been enchanted to boost Mana, Mana Production, Intelligence, and Wisdom. It is the only item a Magic user could ever need. It grants: Intelligence: +105, Wisdom: +105, Mana Production: +1020%, Mana: +10200.
+
+It also grants the wearer an Aura (Importance). Artificially boosts Influence and Honor by 100,000. Distance: 150 foot radius.
+
+Cannot be dropped or taken as loot when killed.
+
+“Sweet!” Ren said, then looked at the other bracelet he still wore. He had hoped that removing the enchantment would also take the restrictions off of it; but it didn't. He was stuck with it until he died and it dropped off.
+
+“You can always put something else on it.” Tee-one said. “I don't know what, though.”
+
+Ren took out some fabric and made a cloak, then activated his Craft Wondrous Item ability and put the cloak onto the 1 foot square gold platform that appeared. He chose the recipe for Cloak of Major Displacement and a few moments later, it was done. Ren used his Retain Essence ability to absorb the enchantment, and transferred it to the useless bracelet.
+
+Bracelet of Major Displacement
+
+Although it appears to be a normal bracelet, upon command its magical properties distort and warp light and sound. This displacement works just like the Displacement spell, but instead lasts for a total of 300 minutes; which the wearer can divide up as they see fit.
+
+“Show info for the Displacement spell.” Ren said.
+
+Notice!
+
+You do not know the spell Displacement (Level 4 - Expert)
+
+“Crap.” Ren said. “Well, lets do it the hard way.” He said and looked at the bracelet. Activate!
+
+To an outside observer, Ren disappeared from where he was and reappeared 2 feet away. Teepo however, was still on the concealed Ren's shoulder.
+
+“It's like partial invisibility.” Tee-one said. “It looks like you're over there...” He pointed. “...but, you're really right here.” He said and pointed to the invisible Ren. “Teepo's giving you away.”
+
+“Sorry, Ren.” Teepo said. “I'll take off.”
+
+“No.” Ren said, and the voice came from his displaced image. “Let me try something.” He took out his Revealing Light diamond and activated it, and both he and Teepo appeared.
+
+“Okay, that's weird.” Teepo said. “There's two of you.”
+
+Ren moved his hand, and the displaced image moved it's hand at the same time.
+
+“Actually, I think it's kind of cool.” Both of the Ren's said. They lifted a foot, did a little kick, and stood still. “Neat.”
+
+Ren deactivated the bracelet and the displaced Ren disappeared, then he looked at the Revealing Light diamond. “Ha.” He said, dipped the end of it into the smelter, and attached it to the bracelet. “There. The perfect combo.”
+
+“When are you ever going to need something like that?” Teepo asked, curious.
+
+“No idea.” Ren said and shrugged. “It looks like a good delay tactic, though.”
+
+“Or a good trick to play on someone.” Tee-one said, and Teepo chittered in laughter. “I've got more diamonds enchanted.”
+
+“How's your Mana holding up?” Ren said and grinned.
+
+“I've barely used any of the 20,000 Mana the bracelets grant me.” Tee-one said. “That's not counting the Mana the 210 Intelligence and 210 Wisdom give me.”
+
+Ren chuckled. “I'm tempted to modify this one.” He said and held up the Displacement bracelet. “But, it drops when I die. I don't want to enhance it too much.”
+
+Tee-one nodded. “How are your stats now, with just the one bracelet on?”
+
+“Let me check.” Ren said. “Show Status.”
+
+Status
+
+Name  Ren (Neram) Level  72
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000 (King)  Honor  250,000 (Untouchable)
+
+Giant Kingdom:
+
+Respect  26,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Unnamed King  +10 Levels to all Auras, you must be acknowledged in some way, grants skill: This Is Mine!
+
+Waterkin  Grants Water Manipulation Skill and Waterkin (Aura)
+
+Health  2140  Mana  2318 (+11,145)
+
+Strength  303  Dexterity  235
+
+Vitality  205  Agility  222
+
+Endurance  270  Intelligence  265 (+105)
+
+Luck  75 +2  Wisdom  250 (+105)
+
+“Holy crap!” Ren exclaimed. “My... my Mana is at 13,463.” He said, shocked. “That means... my Mana Pool with the bracelet boosters...”
+
+“Since your Mana Pool is 3 times that...” Tee-one said.
+
+“I've got 40,389 Mana in the Mana Pool.” Ren blinked his eyes a few times in disbelief. “That's... holy crap!”
+
+Tee-one smiled. “If you had two bracelets, with the bonuses you'd have almost 34,000 more Mana in the Mana Pool.”
+
+“By the gods.” Ren whispered. “No wonder enchanters guard their work, and the runes they discover, with their lives.”
+
+Tee-one nodded, then he and Ren kept working for several hours and made 24 more bracelets with 144 more double-infused enchanted diamonds.
+
+“Ren, why did you only have 6 of them when we started?” Tee-one asked when they finished the last one.
+
+“Surprisingly, it's difficult to find iron ore in the Water Realm.” Ren said. “I don't know why, though.”
+
+“What did you use for crafting the whole time you were there?”
+
+“Every scrap of metal I could find.” Ren said. “I actually emptied the castle of every weapon, shield, and armor it had on display and smelted them.” He said and chuckled. “They weren't too happy about that at first; but, when I replaced everything and made it with the tons of smelted gold that was really easy to find...”
+
+“You only used a small amount of iron to harden the gold?”
+
+Ren nodded. “Just enough to let it retain it's Durability, then I enchanted it to strengthen it.”
+
+“Good idea.” Tee-one said. “It'll last a long time like that.”
+
+“That's why they didn't skin me alive, or feed me to the octopus.” Ren said and laughed. “When they inspected the replacements and discovered how long they would last, they gave me the Waterkin title.”
+
+“Which gave you the Water Manipulation skill.”
+
+“Which I mastered after a year of using it.” Ren said. “You wouldn't believe how hard it was to manipulate water inside of water!”
+
+“It was something, let me tell you.” Teepo chittered in laughter. “Railyse and the others couldn't stop laughing.”
+
+“Hey, they grew up doing it!” Ren said to defend himself, then he also laughed. “It was pretty funny, though.”
+
+“The instructor didn't like having his butt whacked like that!” Teepo chittered in delight. “Ren had to spend 2 weeks in isolation after that.”
+
+“I never lost control like that again.” Ren said. “The instructor always kept an eye on me...”
+
+“...and his butt...” Teepo volunteered, and Ren smiled.
+
+“...but...” Ren grinned. “I showed them all that I could do it.” He said. “I even got a popup for the running quest Donan gave me all that time ago.”
+
+“I'm glad.” Tee-one said. “So, what do we do next?”
+
+“Rings.” Ren said. “Let's grab a few paving stones and carve out a bunch of normal rings.” He said took out his carving tools. “Let's play with what we can create, and then transfer the enchantments into them.”
+
+For the next hour, they carved out paving stones into ring molds. Ren was tempted to make one for the bottom half of the ring and one for the top; but, that added too much extra work for something that resizes for the wearer anyways. They took their time and carefully made perfectly round ring holes in their paving stones. Once the molds were done, they could reuse it as many times as they wanted.
+
+They added gold ore to the smelter to bring up the value of the rings and the amount of enchantments it could hold, and stirred it vigorously. When it was ready, they poured their molds and Ren absorbed the heat from them. Each mold held 100 rings, so with both of their molds filled, they had 200 rings after a single casting.
+
+“Is 200 enough to play and test with?” Tee-one asked.
+
+“No, we better do a thousand.” Ren said. “Just in case.”
+
+Tee-one chuckled and poured the molten metal into the molds, and Ren stood ready to absorb the heat again.

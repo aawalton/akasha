@@ -1,0 +1,205 @@
+---
+id: 2f465481-2a58-5021-8c34-7082e3cf51ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 581 - I'll Take Care Of It"
+slug: 0581-chapter-581-ill-take-care-of-it
+partOf: mythrans-master-of-all-continued-completed
+position: 581
+ownLength: 2857
+unit: words
+publishedAt: 2018-05-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214361/chapter-581-ill-take-care-of-it"
+royalRoadId: "214361"
+---
+
+Ren used his Water Manipulation ability to lift himself and the giant octopus up and out of the Colosseum, so that if he tried to kick the water to swim, it wouldn't hurt anyone. When they were up high enough, he used the All-Seeing Mirror to find her home after increasing it's size to see it.
+
+“REN! What are you doing?” Railyse said in his ear.
+
+“She wants to go home.” Ren said.
+
+Artemis flew up to sit on his shoulder and joined Teepo and the pet spider for the coming ride.
+
+“You can't do that! We need her!”
+
+“I'm sorry, Your Highness.” Ren said.
+
+Ren moved off with the giant octopus, then started to swim. The giant octopus was ecstatic by the speed they travelled at, and her head wobbled in the currents as they passed them.
+
+“Oh! I'm sorry!” Ren said and made a wedge of solid water in front of them to stop her from being hurt by the passing water, and her affection for him increased.
+
+“You can't just drop her off, you know.” Teepo warned him, and he nodded.
+
+“I can feel her trying to bond with me.” Ren said as several probes poked him in the head. “I'm trying to let her down easy.”
+
+Teepo chittered in laughter. “Ren, she's a giant octopus! If you upset her, she's going to crush you, no matter what kind of armor you're wearing.”
+
+“I could have made myself bigger, but I wouldn't have fit inside the arena if I did.” Ren smiled. “I can't do it now, because she's holding on so tightly.”
+
+“What are you going to do?” Artemis asked.
+
+“I'll figure it out when I get her home.”
+
+Teepo looked around. “Wow, look where we are!” He said. “How far out does she live?”
+
+“Unfortunately, it's on the other side of the roving eel colonies that Railyse mentioned.”
+
+“Then you better get your Mana Shield up, because I see a Lightning Storm coming.” Teepo said as a giant cloud of eels appeared in front of them.
+
+Ren activated his Mana Shield and it surrounded them with a 360 degree bubble, and he took out a wand. It resized to fit his hand, which made it the biggest wand to ever exist, and he changed the spell to Sleep. With the massive wand, the spell effect would be huge; but, it would still only work within a certain distance.
+
+Ren hoped that the distance was farther out than the collected Lightning bolts could shoot at him. He wasn't worried about himself, since he had Anti-lightning runes to protect him. It was the giant octopus he was nervous for, because it did not.
+
+“We're coming up on the estimated spell limit.” Teepo said. “Get ready to fire, on three! One... two...”
+
+The giant cloud of eels sparkled and you could see the Lightning swirl around them to gather up a charge.
+
+“Three!” Teepo yelled.
+
+Ren came to a stop and fired several sleep spells at the cloud. Since he had stopped moving forward, when the eels let their combined attack go, it had a much longer distance to travel through the water towards them than it would have had Ren kept going.
+
+“It's okay, Ren. You don't have to dodge.” Teepo said. “We're just out of range.”
+
+Ren sighed in relief, and the giant octopus shivered nervously as the massive Lightning bolt approached them... and then it started to dissipate. By the time it came near them, it was barely a foot long and didn't even damage the Mana Shield.
+
+“Nice timing, Teepo.” Ren praised his friend as the giant cloud of eels was hit by the multiple Sleep spells. They succumbed immediately and floated harmlessly in the water.
+
+“Thanks, Ren.”
+
+Ren checked the All-Seeing Mirror to see where the next cloud was, and he nodded. “Okay, it looks clear for the next few miles.” He said and started swimming. He left the Mana Shield on and used the wedge of water to move through the water almost unimpeded. When they passed the eel's roaming grounds, the giant octopus relaxed and didn't hold on as tightly.
+
+“She's getting happier, Ren.” Artemis said, because she could feel the octopus' emotions through him. “We must be getting close.”
+
+“Over there!” Teepo said and indicated a direction, and Ren went that way. When they arrived, he looked down at the giant octopus' home, and was amazed at the sight. It was a nest like a bird would make, except it was so big that the individual branches were actually ships.
+
+“Holy crap.” Ren said and dropped the Mana Shield and let the water wedge go. The giant octopus took the hint and unfurled her tentacles from around his chest, then used that jet of water trick to propel herself down to the center.
+
+Ren followed her, and she picked up a large odd-shaped boulder and handed it to him. “Thank you.” He said and stored it. Next she handed him a small partially crushed boat, and Ren stored it as well. She darted over to the side of the nest and two of her tentacles picked up a large anchor, and she held it up to him. He went over to it and lifted it, to see it was on a chain.
+
+“I can't take this.” Ren said.
+
+The giant octopus pat his hands that held the anchor, and she pointed.
+
+“You want me to follow it?” Ren asked, and felt her approval. He went hand over fist as he followed the chain to what it was attached to, and it was a ship. A Giant's ship. He saw a huge hole in the side and a giant cannonball inside the hull, and he had to reduce his size to fit into the hole. Once inside, he saw several broken chests and piles and piles of gold and platinum coins, as well as precious jewels.
+
+Ren turned to look at the giant octopus, and he felt it want him to take it. “I can't rob you of your treasure.”
+
+The giant octopus clacked it's beak at him, and he felt her admonish him for being sentimental. Ren chuckled and repaired the chests, then filled them with the treasure and stored them. He felt her approval and then he felt her attention shift to something really important. Ren swam out of the giant ship and over to where the giant octopus was, then floated there in silence.
+
+“Ren, is that... no, it's not... is it?” Teepo asked as he saw the multiple small mounds of sand in the middle of the nest.
+
+“If I had to guess, I have to say she has a huge clutch of eggs.” Ren said, and wasn't surprised when the giant octopus swiped the sand away with it's tentacles to reveal a large amount of eggs.
+
+“Ren, I don't see any other octopus around.” Teepo said. “How is she going to... well, you know.”
+
+“You don't think she wants you to do that, do you?” Artemis asked.
+
+“Wait! What's that?” Teepo asked.
+
+They watched as the giant octopus expanded it's mantle, the large fleshy sack on top of it's head, and she reached inside with a tentacle. She pulled out something that looked like an octopus arm, which seemed really odd, then she happily shook and rubbed the arm all over the large group of eggs.
+
+“Holy crap! She's fertilizing them!” Teepo exclaimed. “Were the heck did she get that from?”
+
+Ren took out the All-Seeing Mirror and asked it to show him the 'donor', and the image of a deflated and decomposed corpse of an octopus appeared on the mirror's surface.
+
+“Oh.” Teepo said sadly.
+
+“It looks like he gave his life for them.” Ren said. “Or for the potential of them.”
+
+“That's both sad and noble at the same time.” Artemis said, and Ren had to agree.
+
+The giant octopus finished fertilizing all of the eggs, and then she curled up her tentacles and rested herself on top to cover them completely. She changed her skin color to match that of the sand around her, and if you hadn't seen her do it, you never would have known she was there. Ren started to float over to her, and a camouflaged tentacle darted out and pressed against his chest.
+
+“I think the love fest is over.” Teepo said.
+
+“You don't want me near you?” Ren asked, and felt dithering and indecision from her. “You don't want me near the eggs?” He felt a definite no, and he nodded. “You're going to protect them as much as you can.” He said, and felt a definite yes. “What about food? Are you hungry?”
+
+A strong no came from her, even though he could feel hunger gnawing at her.
+
+“Can I bring you food, just so you can stay here at the nest and protect the eggs for as long as you can?” Ren asked, and once again felt her dithering. “It couldn't hurt, especially if it's going to take a long time to hatch them.”
+
+The giant octopus almost sighed as her tentacle moved up and rubbed his chin.
+
+“I'll be back with something in a few minutes.” Ren said and used his Water Manipulation ability to lift himself up and out of the nest, then used the All-Seeing Mirror to check for anything the giant octopus could eat.
+
+“Look at that!” Teepo said. “Giant shell crabs!”
+
+“There's a whole group of them a few miles from here.” Ren said. “Let's go check it out.”
+
+Ren swam over to where the crabs were, and saw them as they travelled across the sea floor and devoured everything in their path. What they didn't eat, they crushed and left behind.
+
+“Is it just me, or are they drifting towards the nest?” Artemis asked.
+
+Ren used the All-Seeing Mirror to get a top down view of the region, and saw that Artemis was right. “The very edge of the crab migration would be only 100 feet from the nest.” He said. “Do you think I can get away with setting up some Water Walls to protect it?”
+
+“That depends on what else is in here and might encounter the nest.” Teepo said. “You might want to make several rows, so that if one is broken or damaged, the others will still be there.”
+
+“Good idea.” Ren said and went back to near the nest and cast 5 rows of Permanent Water Walls, then he went back to the crabs. “Considering how big they are, they don't move very fast.”
+
+“Only because they haven't been spooked yet.” Teepo chittered in laughter. “Once you take a couple of them for the giant octopus, I'd say they're going to run like crazy.”
+
+Ren smiled and tried to cast Paralysis on the closest one, and the spell bounced off it's shell. “Okay, that changes things a little.” He said and used his Water Manipulation ability to lift the crab and then cast Imprisonment on it. It was wrapped in magical ropes immediately and couldn't move. None of the other crabs noticed their friend in peril and kept moving.
+
+Ren flipped the crab onto it's back and grabbed another one and did the same thing, then brought them back to the giant Octopus nest. He felt her surprise at the sight, and he dropped the two giant crabs on their backs far enough away that the eggs weren't in danger, and she could still reach them.
+
+“I hope this is enough for a while.” Ren said, and he felt how grateful she was. “I'll come back and check in a week or so, and if you need any more, I'll get it for you.”
+
+One of her tentacles reached out and pet his head, then moved down to the closest crab. It wrapped around one of the giant crab's front claw and easily crushed it, then used the suction cups to clear the shell away and then she stripped out all the meat.
+
+“Okay, that's neat.” Teepo said as she pulled the massive pile of meat over to her resting spot and shoved it under her body to her beak.
+
+“I put up a solid water wall barrier on that side, to stop the crabs from coming this way too far.” Ren said. “Do you want me to surround the whole nest with them?”
+
+The giant octopus let out a huge feeling of relief, and Ren went to surround the whole nest with 5 rows of giant water walls. He came back over to her and waved, to show that he was done, and she waved back. Ren left there and swam back over to where the sleeping eels were, and saw the colony was still just floating there. He passed through untouched and swam back over to the Colosseum.
+
+When Ren approached the large arena, he reduced himself to his normal size and swam over the top of it. With his high view, he could see all the Sea Dwellers as they were being healed, and the remaining 7 Sea Dweller participants as they stood around and waited for something.
+
+“THERE HE IS!” A female voice yelled, and a loud cheer came from the protesters.
+
+Ren waved to them, which made them scream louder, and he swam down to stop beside Queen Railyse and her mother, the old Queen.
+
+“You did it.” Railyse said in disbelief. “You really let the giant octopus go.”
+
+“Well, about that...”
+
+“You've doomed us, Land Dweller.” The old Queen said, clearly angry. “We needed it as a deterrent.” She said. “You don't realize the dangers that the depths hold for us and our people as a whole.”
+
+“What do you mean?” Ren asked.
+
+“Just having it within our midst kept nearly all of the larger predators at bay, because they didn't want to tangle with one of the largest creatures in the sea.”
+
+“Is that all you're worried about?” Ren asked and chuckled. “Give me a few minutes.”
+
+“A few minutes for what?”
+
+“You'll see.” Ren said and grinned. “Be right back.”
+
+Railyse and her mother watched Ren swim over to a bare spot in the arena and take out a cube. He looked at it for a minute, then a golden platform appeared.
+
+“He's making something else!” Someone said.
+
+Ren chuckled as he made a Necklace of Air and absorbed the enchantment from it, then used Double Infusion to add it to the cube. He activated it and a 30 foot tall tower appeared, completely surrounded by air. Everyone watched Ren go inside and shut the door. He came back out several minutes later and deactivated the tower and stored the cube, then swam over to Railyse.
+
+“I've done something like this before, and it worked like a charm.” Ren said, and took out a 5 foot wide lump of metal.
+
+“What is that?”
+
+“One of my constructs.” Ren said. “I'm going to bind it to you and let it protect the Sea Dwellers in the giant octopus' place.”
+
+“I don't see how this little thing can do that.” Railyse said. “But, you haven't lied about what it can do, so I trust you.”
+
+Ren smiled. “Then put your hand on it and we can get started.”
+
+Railyse touched the cold metal, and Ren put a hand on hers. His was almost blisteringly hot in comparison, and her eyes widened as he also put a hand on her forehead.
+
+“Concentrate. Think about what it is you need a constant protector to do.” Ren said.
+
+Railyse closed her eyes and thought about what she wanted. Scare predators away. Defend the people. Attack when necessary. Be strong, brave, and cavalier. She opened her eyes in surprise, because she had just described in her head what she wanted as a partner, as well as a protector for the people. Her eyes fell upon Ren, and his hands glowed as did the lump of metal they touched.
+
+“Okay, I got it.” Ren said and took his hand away from her forehead and added a pile of platinum coins, a wand, and more Mana than she had ever felt before. The lump of metal glowed brightly for several minutes, and then the glow dissipated.
+
+The eyes on the sides of the metal octopus construct's head opened to reveal red diamonds, and the 8 tentacles unfurled as the mantle expanded to its full size. The odd thing was, the octopus also had a large pair of arms that could hold weapons much better than tentacles could alone.
+
+“Wh-what is it?” The old Queen asked.
+
+“It's exactly what Railyse wanted.” Ren said and smiled as the small metal octopus floated up to give Railyse a hug with it's two real arms, then it used the water jet engine that Ren and the dwarves had designed to shoot itself up into the water above the Colosseum. It stopped there and used its inherent spell to enlarge itself and grew to be slightly larger than the giant octopus. It waved to the shocked people below it, then it swam out to the edge of the Sea Dweller's living area to begin it's patrol.

@@ -1,0 +1,393 @@
+---
+id: 6617ee35-b972-5bbb-9935-b9cc31c33975
+page-type-slug: story-chapter-royal-road
+title: "Chapter 398 - Make Work Not Problems"
+slug: 0394-chapter-398-make-work-not-problems
+partOf: mythrans-master-of-all-continued-completed
+position: 394
+ownLength: 4040
+unit: words
+publishedAt: 2017-10-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169877/chapter-398-make-work-not-problems"
+royalRoadId: "169877"
+---
+
+Ren and Princess made it back to his county a few minutes later, and came to a stop in front of the Pleasure Palace. The draw bridge was already made and was down, and one of the dancers stood at the door. It was the manager that Ren had appointed the night before.
+
+“Your servants are awesome!” She said. “They've already made the kitchen in the back tower, and the bar in the other back tower.”
+
+“That's great.” Ren said. “Is there anything you need me to do?”
+
+“You said you were going to set up the business part today?”
+
+Ren nodded and opened the Land Owner menu, and added the Pleasure Palace as a business. He made it Player Only and Adult Only, added the appropriate warnings, and set the NPCs to ignore it. He closed that menu and stepped close to the building and received the building owner menu. He set the girls as owners, so that they all had equal access; then set it so that the manager was the only one that could add new people for both access and jobs.
+
+“I've already got someone to provide ale on a regular basis.” Ren said and told her the name, and she added it to her business menu. “At least, I hope it's enough.” He said. “How many barrels of ale do you go through on a nightly basis?”
+
+“At the Pink Pearl it just depended on the day.” She said. “The most was on the weekends, and we would go through 3 to 5 barrels a real life night.”
+
+Ren nodded. “When do you plan on opening?”
+
+“We really wanted to open tonight.” She said. “But with no food or ale...”
+
+“I've got enough ale for tonight and tomorrow night, then.” Ren said and gave her 10 of the 25 barrels of sunflower ale he had. “Until you get a cook, just tell the customers the kitchen is closed.”
+
+“The kitchen was going to be the big selling point.”
+
+“Hot naked women isn't enough of a selling point?” Ren asked, and she chuckled.
+
+“They all offer hot naked women.” She said. “We need a good hook to draw people in.”
+
+“How about the castle theme?” Ren asked.
+
+“It's different, and appropriate for the setting.” She said. “There's not a lot of-”
+
+“What about wolf fur bikinis?”
+
+“Wh-what?”
+
+“I've got 30 wolf pelts soaking in treatment solution. It normally takes a day to dry, but I'll rig up something to make it go faster.”
+
+“Wolf pelts.” She said. “You... want us to wear...”
+
+“Not all of you...” Ren smiled. “...and probably only when you're serving drinks.”
+
+“What about...”
+
+“I'll have some nice outfits made by this evening.” Ren said. “Maybe even a cloak or two.”
+
+“Well... I guess...”
+
+“I'd tell you to trust me, but I'd rather you trust yourself and make this work.”
+
+She nodded and Ren smiled at her.
+
+“I've excluded NPCs from seeing the place, but you can still hire them for jobs to bypass that.”
+
+“Oh, thank you.” She said. “I wasn't sure how to do that.”
+
+“I'll get to work on those outfits after I deliver... oh, hey. You need to eat, too.” Ren said and took out his icebox. He gave her 12 plates of food and she stored them.
+
+“Thanks!”
+
+“I'll ask the locals if they have some ingredients they can spare, and then I'll see what I can whip up in the kitchen to last you the next few days until you get a regular cook.”
+
+“That would be great.” She said.
+
+Ren walked with Princess over to the Refugee Center, dropped off 30 meals there, and walked over to the Main House and put her inside. Teepo took flight and flew with Ren as he went around to the back of the building and the pelt treatment basin he had placed there. Ren quickly built a shed to hang the pelts in, then transferred them from the treatment solution to the shed.
+
+Stat Change!
+
+Tanning Level 1 (Intermediate 0%) - Treat pelts for curing.
+
+“Now... I need heat, not flame.” Ren said and took out his Book of Runes. “Okay, here's the Fire rune.” He drew that, and looked at it. “If I make it smaller and add lines to it, like swirling heat is coming off of it, maybe?”
+
+Ren drew it and looked at it. “All I want is the heat, though... so I don't need the fire part.” He said and wiped the Fire rune off. He put his hand on the drawing and poured Mana into it as he thought Heat. The drawing disappeared, and a moment later reappeared at the top of the page. Ren smiled when he read it.
+
+Rune of Heat
+
+This rune generates 5% Heat. The more runes you have on an item, the hotter it gets.
+
+Warning: Depending on the enchanted item, enough Heat runes will cause it to ignite and become Fire instead.
+
+“Sweet.” Ren said and did his glyph creation trick and imagined 2 runes as a glyph, then 3 and so on until he reached 10. It filled both pages in the book, and he took out several stone bricks. He enchanted them with a glyph of 3 runes each for Heat, and added them to the floor of the shed. He activated them, and the Heat inside the small shed increased instantly.
+
+“I'll leave them for an hour.” Ren said and closed the shed, then took out his Instant Tower and activated it. “Teepo? Scout position, please. Let me know the instant you see Elerlyth, and when an hour has past.”
+
+“Yes, Ren.” Teepo said and flew up to land on top of the tower. He's not really angry at me anymore, but he's not going to forgive me for a while.
+
+Ren sighed because he could feel how Teepo felt, and went into the tower to make some outfits for the dancers. Since he wasn't in any rush, Ren sat for half an hour and just thought up patterns. Once he had enough ideas, he set to work. With his own Tailor shop, he had lots of room to work; and he did outfit after outfit for another half an hour.
+
+“Ren, it's been an hour.” Teepo said.
+
+Ren left the tower and went to the drying shack. He opened the door and the smell of the treatment solution was greatly reduced. He touched the pelts and they were still damp. He added runes to the stone bricks to bring the heat up to 40% on each of them, set the pile of fresh planks he had on the floor behind the bricks, and went back to the tower.
+
+Ren used the forge and made reproductions for swords, shields, bucklers, pikes, and even helmets with horns. They were actually spider fangs; but, when he dyed them beige they looked just like horns and he used his Gem Setting skill to attach them to the metal helmets. He made plaques to hang the items from, so they would stand out on the stone walls, and assembled them to look good.
+
+“It's been another hour.” Teepo said.
+
+Thanks, Teepo. Ren thought and went back out to the drying shack. Both the planks and the pelts were perfectly dry, and he received a popup.
+
+Stat Change!
+
+Tanning Level 2 (Intermediate 0%)
+
+Ren stored the pelts and planks and deactivated the stone bricks. He changed the enchantments on the bricks to a single glyph of 10 runes of Heat because that would be enough to dry anything he wanted in an hour. He closed the shack and went back into the tower.
+
+Ren took out each of the 30 wolf pelts and trimmed them properly, so that there were no frayed edges, and decided that cloaks would be the best use for them. He used the dire wolf cloak pattern and cut out the parts he would need from the wolf pelts, which kept the heads as the top of the hoods. He cut off the legs, since they weren't necessary to have, and used that extra fabric to make fur bikinis. He lined them with actual cloth so that the pelt wouldn't touch the skin directly, and he made 4 dozen of them in various styles, and thanks to the coloring of the fur on the wolves, each and every bikini had different patterns on it.
+
+Ren was tempted to dye them different colors, but he didn't want them to look fake. He hated how much it bothered him about all of the fake things the Pink Pearl had, and he wasn't going to do that for the Pleasure Palace. When he was done and stored everything, he received another popup.
+
+Stat Change!
+
+Leatherworking Level 9 (Intermediate 0%)
+
+“Boy, I've really let some skills slide, huh.” Ren said. He left the tower, spoke the command word, and stored it. He walked over to the Main House and went inside to the Mayor's office.
+
+“Have you calmed down at all?” Patty asked without even saying hello first.
+
+“Kind of.” Ren said. “I'm still mad, mainly because she told me not to be.”
+
+“That's usually how it works.” Patty laughed. “If she told you not to be, then she did something that would make you that way.”
+
+“It's not even that she left.” Ren said. “It's that she did it and didn't tell me, then made sure I couldn't follow her or even contact her.”
+
+“Did you try sending her a message?”
+
+Ren shook his head. “No, because she wouldn't answer it.”
+
+“She cut you off completely, and that made you angry.” Patty said. “You must really like her if she can bring out such emotions in you, when all she did was leave.”
+
+Ren opened his mouth to respond, then closed it. “Is there any way I can buy food ingredients around here? Without hurting the local population's food supply.”
+
+“Sure.” Patty said and leaned out the window in her office. “Russell!”
+
+“Yes'um.” Russell said when he came to a stop by her window.
+
+“Head on over to the McCallister farm and see what extra ingredients they have.”
+
+“Tee-one was there yesterday.” Russell said. “They hauled in their entire crop.”
+
+“They WHAT?!?”
+
+“Yeah, with that newfangled wheel thing and all them attachments, they even replanted the field.”
+
+“But... that's almost 3 months of food that's going to go to waste!” Patty said.
+
+“Tee-one made them a storage cellar.” Russell said. “He said it'll keep for a month, and then they would have to cook them to keep them longer.”
+
+“But...”
+
+“I can run over and see how much they want to sell, considering there's no way they can use up all of them vegetables.” Russell said.
+
+“I'll go with you.” Ren said. “Why make two trips, right?”
+
+Russell nodded. “Follow me.”
+
+Ren looked at Patty. “Thanks for your help.” He said and left the office, then ran after Russell with Teepo flying above them.
+
+*
+
+“You will stop production of ghouls immediately.” Lylyth, the Queen of the Dark Elves said as she let her giant spider legs fade away from holding the Dark Elven Lord's head still. “50,000 of them is more than enough for our needs.”
+
+“But, My Queen! The High Elves have 200,000 troops in their standing army!” The Dark Elven Lord said. “50,000 ghouls against them will be less than nothing!”
+
+Lylyth laughed. “I can't believe how short-sighted you are.” She said and smiled. “Even if we had twice that, I wouldn't send them against the High Elves troops.”
+
+“Wh-what?”
+
+“That would be a waste.” Lylyth said. “They may be ferocious and deadly, but they are not trained fighters. Even the High Elves basic formations would tear them apart.”
+
+“But...”
+
+“I was tempted to have the ghouls completely exterminated at first; but, I believe you have given me the perfect opportunity.”
+
+“For what?”
+
+“A demoralizing delay tactic, of course.” Lylyth said.
+
+“My Queen, you just said that they wouldn't make any difference when used against trained soldiers.”
+
+“Who said I would be sending them after the soldiers?” Lylyth smiled, and the captives in her throne room felt a spike of happiness that their foolish plan had brought about the return of the Queen that they needed for the coming battle.
+
+*
+
+It took about 10 minutes for Ren and Russell to reach the McCallister farm, and Russell ran right up to the front door and knocked.
+
+“Yes, what is... oh! Hi, Russell.” A young woman said when she opened the door.
+
+“Hi, Kellie.” Russell said, and Ren felt the mutual attraction they felt.
+
+“What brings a big strong boy like you all the way over here?”
+
+“Ah...” Russell glanced back at Ren. “Oh, right! Vegetables! He needs vegetables.”
+
+Ren could feel how nervous Russell was, and how much Kellie liked that he was nervous. Who wrote this? He thought. Russell might be tall, but he's only 10 years old for crying out loud. He looked at Kellie. She looks like she's 12, maybe 13. He shook his head. I'm going to have to message the tech guys and see what's up with this garbage.
+
+“That's great!” Kellie said. “Mom! Russell's here and he brought someone to buy the extra food!”
+
+“That's great!” Her mother said and came over to the front door. When she saw who it was behind Russell, she gasped.
+
+“M-my L-lord.” She said and gave Ren a quick curtsy.
+
+“You don't have to do that.” Ren said, and she nodded. “I'd like to buy your extra vegetables.”
+
+“Of course, My Lord.” The mother said and stepped out of the house. “Your servant dug us a wonderful storage space, so the least we can do is let you have some of our overstock.”
+
+“Thank you.” Ren said and followed the woman around the house to a small shack. That looks just like the one in the village. He thought and when she opened the door, they went down the ramp and into an underground storage space just like the one he had made for the wheat. This one was nearly full with bushels of vegetables.
+
+“How much can I take, and what do I owe you?”
+
+“I actually don't know.” The woman said. “We usually only grow enough each time for people to eat, and this is the first time we've had everything in at once.”
+
+“I'm sorry if I've caused any trouble for you.” Ren said, and the woman laughed.
+
+“Far from it.” She said. “With this and the large icebox upstairs, we can make our normal rations last twice as long; which is long after the next batch of vegetables are set to sprout.”
+
+“Really?”
+
+The woman nodded. “It usually takes a long time to plant everything properly, but that farm vehicle of yours just does everything we could ever need.”
+
+“That's how I designed it.” Ren said. “I had a farmer come to me for help once, and since I didn't know what crops he had, the attachments needed to be versatile.”
+
+“That it is.” She said. “We've even expanded out to include the bare land around the farm.”
+
+“That's what I was hoping for.” Ren said. “With spaced out water producing items and rotating the crops...”
+
+“...our farm production has gone up almost 200% with just the original field.” She said. “We'll have to wait for the next crop to see what kind of yield we get from the expansion before we know what the actual increase is.”
+
+Ren nodded. “I'm glad what I've started is actually helping you.”
+
+“If we become an actual food producer, instead of only getting out what we put in...” She smiled. “...my daughter is still single.”
+
+“MOM!”
+
+The woman laughed. “I'm just kidding.” She said; but, when her daughter turned away, she winked at Ren.
+
+“I'm going with the 'just kidding' part.” Ren said, which made her laugh again.
+
+“I'm pretty sure you can take about a third of this without causing any kind of food shortage.” The woman said.
+
+Teepo, how many bushels are there? Ren asked.
+
+“826.”
+
+“I'll take 199 bushels, so there won't be any chance you might not have enough.” Ren said and stored them. They took up only a single slot, thanks to his Improved Storage, and he smiled at the woman. “Now, about the price...”
+
+“I told you, we've only been growing to eat. I have no idea what to charge you.”
+
+“I have some idea.” Ren said. “You can get a good meal for about 30 copper in Aurora, or an expensive meal for a gold and 50 silver.”
+
+Both the girl's and the woman's mouths dropped open in shock, and Ren almost laughed at their identical expressions.
+
+“Depending on how you use the vegetables, you could get maybe 10 meals out of each bushel.”
+
+“T-t-ten meals? At 30 copper each?” The woman couldn't believe it.
+
+“Now, that's with a huge population and a high turnover.” Ren said. “Out here, with a small population and no other income...”
+
+The woman sighed and nodded. “They are only worth what someone is willing to pay for them.”
+
+“With that reasoning, I'm hoping to bring more people into the county.” Ren said. “So, to be fair, I can only give you 10 copper per meal.”
+
+The woman stared at him. “Are... are you...” She took several deep breaths. “That's... My Lord, I...”
+
+“With 10 meals per bushel at 10 copper each, that's 1 silver coin per bushel of vegetables.” Ren said. “I know I'm undercutting you a little; but, I'm still assuming that I can sell the meals.”
+
+“But... but...”
+
+“Do you have a coin pouch?” Ren asked, and the woman shook her head. He took one out and put 199 silver into it. “There you are.”
+
+The woman just stared at the coin pouch and didn't want to believe it. She held more money in her hands than she could have ever imagined. Ren felt her disbelief and pat her arm without touching her skin.
+
+“Just equip it.” Ren said and she did so, then she gasped when the illusion of it not being true disappeared.
+
+“You... you really gave me almost 2 gold coins.”
+
+“Oh, right!” Ren said and took out another 10 silver. “I forgot the tip.” He said and handed it to her. “Thank you for letting me buy so much.”
+
+“Y-y-you're w-welcome.” The woman said, quite shaken.
+
+“It might not be the last time I come to see you, or send someone else to you to buy more.” Ren said. “Have a good day, Mrs. McCallister.”
+
+“I... I will.” The woman said. “Thank you, My Lord.”
+
+“Let's get back to the Main House, Russell.” Ren said and took Russell's arm.
+
+“R-right.” Russell said. “Bye, Kallie.”
+
+“Bye, Russell! See you later!”
+
+Ren and Russell ran back to the Main House and went into the Mayor's office.
+
+“Did they have enough food for you?” Patty asked.
+
+“More than I thought, and the potential for a lot more.” Ren said. “Now I need meat.”
+
+“You'll have to go down to the far corner of the county for that.” Patty said. “We needed them as far away from the food crops as possible.”
+
+Ren nodded. “I saw the animal count.” He said, then looked at her. “Did my suggestion work? Feed the chickens more grain to make them happier and they lay more eggs?”
+
+“It worked like a charm, especially with all the extra wheat we harvested.” Patty said and smiled. “What's it like to be right all the time?”
+
+“Satisfying.” Ren said, and she laughed. It was unrestrained and delightful, and Ren basked in the emotions from her because he couldn't remember if he had heard her laugh before. He couldn't absorb the emotions, since he wasn't touching her; but, he liked them nonetheless.
+
+“You have a nice laugh.” Ren said when she stopped, and her face flushed a little red. “Don't be embarrassed by that.” He said. “I just can't remember hearing it before, and I wanted you to know I liked it.”
+
+“T-thank you.” Patty's face went a deeper red, and she looked at Russell. “T-t-the Bautman farm.”
+
+Russell nodded and led Ren outside, then he ran at full speed. Ren kept up with him easily, even without the extra boosts from his armor and rings.
+
+I really should fix the rings. Ren thought. I have to pull them apart and enchant the small diamonds again, though. He sighed, then thought of something. Hey, maybe I don't. He smiled and ran behind Russell. That might just work.
+
+They arrived at the animal farm half an hour later, and Russell knocked on the front door.
+
+“Yes, what... oh! Hi, Russell!” A young girl said when she opened the door.
+
+“Hi, Sam.” Russell said.
+
+Okay, this is getting ridiculous. Ren thought as Russell and the girl exchanged pleasantries, and he felt the mutual attraction between them. Yeah, I'm definitely going to have to message the tech guys about this.
+
+“Mom!” The girl said. “Someone's here to buy meat!”
+
+A woman came out to the front door and saw Ren behind Russell and gasped.
+
+“M-my L-lord.” She said and gave Ren a curtsy.
+
+“You don't have to do that.” Ren said, and she nodded. “I'd like to buy some meat.”
+
+“We have quite a lot still on the hoof, but we don't keep a stock of raw meat.” The woman said. “It goes bad too quickly.”
+
+“That's understandable.” Ren said. “Are any of your cows and pigs for sale?”
+
+“About a third of the herd is available for butchering.”
+
+“Excellent. I'll take 3 cows, fully butchered and cut into proper pieces.” Ren said. “What about the pigs?”
+
+“I'm sorry, My Lord.” The woman said. “All the pigs are spoken for.”
+
+“Oh.” Ren said, sadly. “I really like bacon.”
+
+“There's always hope, My Lord.” The woman smiled. “The sows are coming up on breeding time.”
+
+Ren looked at her with wide eyes. “I can buy future pigs?”
+
+The woman nodded. “Each breeding season the local families bid on the ones they want; but, the last time we were light on both feed and room, so the yield was lower than normal and it was only pick and take this time.”
+
+“Then give the pigs more room.” Ren said. “I want you to increase the yield.”
+
+“My Lord, it doesn't quite work that way.”
+
+“Then I want my own separate pig growing section.” Ren said. “I'll give you another plot of land for it.”
+
+“M-my L-lord, are you... you... can you do that?”
+
+“Grow what you want for the town, and make sure that they have enough to pick and choose like you always do; but, I want you to double it.” Ren said. “How long does a pig take to grow?”
+
+“With food and space, it can be at butcher size in just over 3 months.”
+
+“What's butcher size?”
+
+The woman looked at Ren like he was crazy, and he held in his laughter. “Usually 250 pounds.”
+
+“Two hundred... and fifty... pounds.” Ren blinked his eyes at her. “That... that's like 30 pounds of bacon per pig!”
+
+The woman chuckled. “That's a really good guess, actually.” She said. “There's about 23 to 26 pounds, depending on if its male or female.”
+
+“Ma'am.” Ren said and stood up straight. “Mrs. Bautman. Please extend your pig farming operation to double it's capacity.”
+
+“But...”
+
+Ren opened the Land Owner menu and entered the name Bautman, and the outline for the land they used appeared. “Yes, I see. You've been hemmed in by the land border.” He looked at her. “How much more land?”
+
+“Ah... another acre would suffice.” The woman said, and still didn't quite believe it was happening.
+
+Ren extended the entire edge of their land by an acre into the bare land beside her farm. “You now have another acre along the entire length of your land.”
+
+“Wh-what?”
+
+“It's only unused land and doesn't look suitable for grazing; but, I'll fix that with some well-placed irrigation.” Ren said. “Do you need a corral built or anything? A barn? A feed station?”
+
+The woman just stood there and stared at him.
+
+“I'll build it all for you, Mrs. Bautman.” Ren said. “Just tell me what you need to make my bacon!”

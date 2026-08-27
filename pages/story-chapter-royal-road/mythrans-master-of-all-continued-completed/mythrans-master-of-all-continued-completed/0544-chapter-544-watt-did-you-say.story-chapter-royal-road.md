@@ -1,0 +1,307 @@
+---
+id: 9d63fa22-ce56-550b-9fdc-a2d7af6122c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 544 - Watt Did You Say?"
+slug: 0544-chapter-544-watt-did-you-say
+partOf: mythrans-master-of-all-continued-completed
+position: 544
+ownLength: 3359
+unit: words
+publishedAt: 2018-04-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205247/chapter-544-watt-did-you-say"
+royalRoadId: "205247"
+---
+
+Ren went through the wall, the next wall, three corridors, and then the outside wall. Rubble and debris scattered everywhere as he smashed out of the building and Light beings fled from his approach. He ran straight through anything that was in his way. A monument, a fountain, a copse of trees, a garden, another small building, and then he reached his destination.
+
+Ren didn't slow down at all as he went through the outer wall, two rest areas, an office, and across several hallways. When he approached the room the mage was in, at the last possible moment he changed his angle of approach. Instead of going straight through the wall and possibly covering her in debris, he tore through the side wall of the room and removed it entirely.
+
+Ren stopped and the debris was deposited in the hallway, rather than in the room itself, and he walked over to the slumped Light being. Her glow was very dim and he only felt despair from her. Artemis appeared in the open space of the wall and took up a guard position with her hands held at the ready.
+
+“I am so sorry.” Ren said and knelt beside the Light being as he stored his gauntlets.
+
+“Am... am I... dreaming?” The mage asked, and her glow brightened ever so slightly. “Is it... really... you?”
+
+“Yes, I'm here.” Ren said and activated his Hands of the Gods ability and chose Restoring Hands, then laid both hands on her. “Please forgive me for not anticipating they would do this to you.”
+
+The mage felt better instantly and let amusement flow out. “Who can guess... the actions of fools... except fools themselves.” She said. “You... are no fool.”
+
+“I act foolish.” Ren said, and her Light grew brighter.
+
+“But it is an act.” The mage said. “I felt your goodness. It was tempered by... extreme pain.” She said. “I've just experienced something similar.”
+
+Ren increased the amount of Light he was producing and the mage gasped at it's strength. “Tell me what you want me to do to them.”
+
+The mage started to get back to her normal glow. “You can... forgive them.” She said to his surprise. “They didn't realize what harm they were doing.”
+
+Ren frowned. “Forgive them? For doing this to you?”
+
+“Yes.” The mage said and she started to float up. Ren stood up as she did and kept pouring Light into her. “Ignorance is not normally an excuse, but in this case...”
+
+“Ignorance when committing a crime is not a defense.” Ren said. “What they did to you was criminal.” He felt several beings enter his Aura and he looked at his ranged combat specialist. “Artemis!”
+
+“I can feel them through you.” Artemis said. “I'm ready for them.”
+
+“Don't fire until they are a threat.” Ren cautioned her.
+
+“I know.” Artemis said. “Why else do you think I didn't shoot everyone in the portal room?”
+
+*
+
+Xuunah walked over to where Zagatro lay. “I had hoped what Ren said the last time he was here would have made a difference.” She said and shook her head. “I can't believe that the Collective decided to do that to the mage.” She scowled. “It's horrific.”
+
+“I would have stopped them if I'd known.” Zagatro said.
+
+Xuunah felt the partial lie. “No, you would have stopped them when they tried and discovered it hurt her.”
+
+Zagatro couldn't argue that point. He recovered from the two impacts and floated up from the floor. “Xuunah, carry out your orders.”
+
+“Excuse me?”
+
+“We ordered you to use your Light Spirit Blade on him if he ever threatened our Realm again.” Zagatro said.
+
+“It's the Collective's fault that he's here!” Xuunah said. “If you hadn't-”
+
+“We didn't ask him to wreck everything!” Zagatro cut her off and motioned to the huge hole in the wall of the portal room. “He is a danger to every member of the Collective!”
+
+*
+
+Ren gently held the Light being. “Ma'am, how are you feeling?”
+
+“Almost like myself.” The mage said. “I can't say 'like my old self', because she doesn't exist anymore.”
+
+“What do you mean?”
+
+“After you showed me what pure Light was like, I... I questioned everything about my life.” The mage said. “My training, my choice to fight, my bonding partners...”
+
+“I don't understand.” Ren said, and then a Light being and 3 small balls of Light appeared in the hole he had made all the way through the building.
+
+“Mommy!” One of them exclaimed when they saw the mage and darted forward.
+
+“Biliosh!” The mage said and floated closer to the ground. Ren let her go and turned to see the small ball of light race towards them.
+
+“Watch out for the mortal!” The Light being with the other two balls of light called out.
+
+“Mommy!” Biliosh said and hopped into the air, and a small beam of light formed between the mage and the ball of light. The ball slowed down and stopped at the edge of the mage's Light form, then started to rotate around her like an electron on an atom. “Weeee!”
+
+Ren felt the unfiltered happiness from the child and couldn't help but smile, then he lost his Angered Condition. When the other two balls of light saw their brother was okay, they rushed forward as well.
+
+“Wait!” The other Light being said, but the two kids had already reached their mother and jumped up to join in on the fun. They rotated around their mother in concentric orbits.
+
+“Race you!” Biliosh said to the other two, and the beam of light between him and his mother became stronger as he sped up. The other two did the same thing and went faster, and Ren felt the drain on the mage. He put his hand unobtrusively behind her, well out of the paths of the children, and poured Light into her as quickly as he could with only one hand.
+
+The mage gasped at the strength of the Light being offered and her glow increased to slightly beyond her normal luminescence. That Light flowed up through the beams attached to the children and made them glow brighter as well. The children stopped dead as the Light hit them, and Ren felt their focus change from having fun with their mother to scrutinizing him.
+
+“Mommy, why is the mortal touching you?” Biliosh asked.
+
+“He's giving me his Light.” The mage said without sugar-coating the truth.
+
+“WHAT?!?” The other Light being yelled and rushed forward, and Artemis shot a bolt of Mana into the floor right in front of Ren to stop the Light being from assaulting him. “Don't do this!”
+
+“It's okay.” Ren said, and he could feel intense dislike from the Light being. “She's not color-shifted.”
+
+The Light being looked back at the mage and saw that her Light was still white and not yellow from a share-bonding, and Ren felt him relax.
+
+“Daddy, what's wrong?” One of the other kids asked.
+
+“Nothing's wrong, Laskima.” The Light being said in relief.
+
+“But...”
+
+“Yes, mortals are still dangerous.” He said. “Most mortals, anyway.”
+
+“I'm dangerous, too.” Ren admitted and motioned to the destruction he had caused. “I took no delays in getting here from the portal room.”
+
+“We were in the park nearby and heard the crash.” The Light being said. “We kept trying to visit and they kept denying us.” He said. “When we saw the hole...”
+
+“You came looking for me.” The mage said. “Thank you.”
+
+“I tried to leave the children behind, but you know what they're like.”
+
+The mage chuckled. “Yes, they love their mother.”
+
+“We do!” The three children said as one, and she laughed.
+
+“Ma'am? How are you feeling now?” Ren asked.
+
+“Much better, thank you.” The mage said. “You can stop now.”
+
+“Are you sure? You were pretty weak.”
+
+“Your restoring light has healed me in more ways than I could have imagined.” The mage said, and Ren felt her attention shift to the other Light being. “I was... tempted by this man.”
+
+Ren moved his hand away from her and deactivated his Hands of the Gods ability, but her Light didn't dim back to it's normal brightness.
+
+“His Light is pure and intoxicating.” She said. “It made me remember what we were like when we first met.”
+
+The Light being chuckled. “That was an exciting time, wasn't it?”
+
+“When was that?” Biliosh asked.
+
+“Long before you came into our lives.” The mage said. “So long ago that... I thought...”
+
+“I still love you, my share-bonded mate. I always have.” The Light being said. “I'm sorry I haven't been as supportive these last few decades...”
+
+“That's because I knew you were right and I was trying to ignore you.” The mage said, and Ren felt surprise from the Light being. “You never liked that I chose to do what I do; but, you put up with it all these years.” She said. “But you won't have to anymore. I'm resigning as a mage.”
+
+The Light being let happiness and relief flow out. He floated close to the mage and a beam of light formed between them. He gasped at the strength in it, and his attention turned to Ren.
+
+“I'm sorry I overreacted.” He said. “Thank you for helping her.”
+
+“I'm the one that should apologize.” Ren said. “It was my fault she was here and treated this way.”
+
+“Now that you've done this, what's to stop them from doing it to her again?” He asked.
+
+“Me.” Ren said and took out the All-Seeing Mirror. “Show me the main Collective and give me a direct route there.”
+
+“You can't go in there.” The mage said. “It's a sacred place that...”
+
+“That place is no more sacred than this room.” Ren said and felt their surprise, then put the mirror away when he saw the location. “You're a Collective. It doesn't matter where you are. It's the Collective itself that's supposed to be sacred, not where you do it.”
+
+Artemis floated over to him. “I'm right behind you.”
+
+Ren smiled at her and took three steps up into the air and pointed towards the floor. “It's not far.”
+
+“Please, don't hurt them.” The mage said.
+
+“Oh, I'm not going to hurt them.” Ren said. “I'm just going to show them the folly of their ways.”
+
+“How?”
+
+“By calling Vasalor and asking him to remind the Collective of what their purpose was, of course.” Ren said.
+
+The mage, her share-bonded partner, and their three children felt astonishment at the truth in his words.
+
+“You can talk to Great Vasalor?!?” Biliosh asked.
+
+“I'm one of his Chosen.” Ren said and smiled. “It's time for the Collective to learn what that means.”
+
+The Light beings and their children watched as Ren walked down through the floor into the room below them, then through the next floor and the next. His Ram enchantment pushed the floor out of his way and Artemis floated slowly down behind him.
+
+*
+
+“That's really weird!” Biliosh said and floated over the hole. “I didn't know mortals could do that!”
+
+“Neither did I.” The mage said and looked down into the hole. “That was not a part of our training.”
+
+“Are you really retiring?” Her share-bonded mate asked.
+
+“Yes.” The mage said. “I don't know what I'm going to do with all my spare time, though.”
+
+“I want a little brother!” Biliosh said, and his two sisters booed him. “Just you wait! I won't be outnumbered anymore!”
+
+The mage and the Light being laughed as the race began again; only this time it was a chase instead.
+
+*
+
+Ren walked through the ceiling into the main Collective meeting room, and was immediately shot at with several dozen different spells. His Mana Shield popped into place around him and Artemis, so nothing touched him as he casually walked down towards the floor. The Light beings packed in tightly tried to float aside to make room for him, but they couldn't move. He stopped about 5 feet above their heads and more spells hit his Mana Shield.
+
+“Stop firing.” Ren commanded, and most of the spells stopped. Several kept coming, and he sighed. “If I was going to hurt you, you would have been dead long before I even entered the room.”
+
+More spells bounced off his shield and he nodded at Artemis. He deactivated the shield only for an instant and she shot the walls just above all the mages that were around the room. No more spells were cast at him after that.
+
+“Now, where was I... oh, now I remember. I came here to save a member of your own people from you.” Ren said, and he felt the uneasiness from them. “Yes, you decided that my Light was a corrupting influence on one of your mages, so you extracted it from her.”
+
+The Light beings of the main Collective shifted from side to side slightly as Ren let his anger flow over everyone.
+
+“Instead of asking her to give it up, you took it from her.” Ren said. “That hurt her so much!”
+
+Some of the Light beings flinched at his words.
+
+“Would you like to feel how much?” Ren asked them and he heard several nos, then felt all of them say no. “I should make you feel it anyway.”
+
+Several Light beings shivered in fear and tried to move away.
+
+“I asked her what she wanted me to do to you, and do you know what she said?” Ren asked. “DO YOU?!?”
+
+There were several outcries of no, and a strong feeling of impending doom from them.
+
+“She told me to forgive you.” Ren said, and he felt their surprise. “That's right, you idiots!” He said. “She's a better person than you! Than all of you!”
+
+No one spoke as Ren let them soak that in.
+
+“I'm tempted to stand here and give you a lecture on how you should treat people, especially your own people; but, the last time I did that, you violated one of your citizens to remove my taint.” Ren said. “So, for your viewing pleasure, I'll call upon the highest power there is!”
+
+Ren took out the All-Seeing Mirror and enlarged it to over 20 feet wide and propped it against the wall for everyone to see, then whispered to it.
+
+“Please show them the popups I receive without the notice part.” Ren said softly, then turned to the Light beings and raised his hands. “Great Vasalor! Hear my call!”
+
+I am here.
+
+The Light beings gasped at the popup on the All-Seeing Mirror.
+
+“I'm here talking to the Light beings, and they've done something bad to someone I shared your Light with.” Ren said. “I healed her and gave her back the Light, and she told me to forgive them for what they did.” He said. “I don't want to, and I want to know what you would do to them if you were me.”
+
+I will not interfere directly with any of the realms, therefore I cannot advise you what to do.
+
+“Can you tell them what their true purpose is?” Ren asked. “It seems to me like they have lost their way, and the ones you granted the Polymorph ability to are second-class citizens now.”
+
+I watched this change as it happened, and since I could do nothing to alter it, that is the way things are now.
+
+However, as one of my Chosen, you have the ability to change things as you see fit.
+
+The Light beings gasped at this, and Ren felt their fear as it flooded out.
+
+“Thank you for talking to me.” Ren said. “Let me know if you want anything done.”
+
+I will send quests when appropriate. Goodbye, Ren.
+
+Ren waved his arm enthusiastically in the air. “Bye!”
+
+The All-Seeing Mirror stopped showing the popups, so Ren reduced it back to it's normal size and stored it.
+
+“Now, what should I do with you.” Ren said and rubbed his hands together.
+
+“We'll take you when your shield drops!” One of the mages said, and Ren laughed. “What's so funny?”
+
+“I have a Mana Pool that holds triple my total Mana.” Ren said.
+
+“We can wait for it to run out.” The mage said confidently.
+
+“My Mana is maxed at 99,999.” Ren said, and he felt the ripple of shock roll across the room.
+
+“We... we can wait years! Yes, years!”
+
+“Even if I somehow burned through my Mana Pool, my Regeneration is so high that I could cast any of the fifth level spells without even making my normal Mana Bar twitch.”
+
+Ren let them stew on that for a minute, because he felt the mage and her family coming down the hole towards him. He took a couple of steps to the right and let them float down to where he was. He cast Iron Wall from the wall over to where they were about to land, and they stopped on it.
+
+“Please, don't hurt them.” The mage said.
+
+“Yeah! Leave them alone, you bully!” Biliosh said.
+
+The Light being that was her mate floated in front of the child. “Don't hurt him, either.”
+
+“I told you, I'm not hurting anyone.” Ren said. “Especially children.”
+
+“You're acting like you're going to destroy them all.” The mage said.
+
+“Yes, because I could.” Ren said. “Very easily.”
+
+“Why are you doing that?”
+
+“Because I'm trying to show them that even though someone has the power or ability to do something, doesn't mean that they should.” Ren said. “I could erase everything and everyone within this realm if I wanted to.”
+
+Complete silence met his true statement, and Ren faced the Collective.
+
+“I'm not going to, so you can dispense with the plans to lobotomize me.” Ren said, and he felt their uneasiness. “What? You didn't think I'd know you planned to have Xuunah use her Spirit Blade on me?” He asked and chuckled. “How stupid do you think I am?”
+
+No one answered and he sighed.
+
+“I'm going to tell you this once, and only once.” Ren said. “Your Light beings with the polymorph ability are not deviants or aberrations. Vasalor gave them that ability so they could help the mortal realms.”
+
+“I was wondering why we started that program of checking on mortals.” One of the Collective said and was quickly shushed to be quiet.
+
+“No, don't shush him!” Ren said. “His question is valid! It's good to question your position. Don't just take the daily routine at face value. Check yourselves. Ask what's going on... or better yet, check to see what's going on.” He said. “Having the Collective is great, as long as it's for the benefit of your people. If it starts to cull out those you don't feel are worthy, then the Collective itself isn't worthy of being a part of!”
+
+Gasps filled the room, and Ren looked around at the Light beings.
+
+“Don't jump to conclusions! I'm not telling you to abandon it!” Ren said, because he could feel that's what they were thinking. He took a deep breath and let it out. “I'm telling you to use the Collective to help your people... all of your people. Just because some have experiences the majority of you don't understand, doesn't mean they don't belong. It only means they are different people.”
+
+No one said anything, and he could feel the confusion in them.
+
+“Do I need to make a threat to unify you?” Ren asked, and he felt them get defensive. “I do, don't I?”
+
+They didn't respond, and he shook his head.
+
+“I told Xuunah that I had several options to explore before I had to get to this point, and here I am anyway.” Ren said. “Very well.” He activated his Ultimate Terror ring and funnelled it through his Aura, and they all screamed and sunk to the floor. “I hereby command you to treat every one of your people with respect, and you will not abuse anyone within or without the Collective.” He ordered them. “I'll be watching you, and if I see any injustice among you, I will return... and you will not enjoy the experience.”

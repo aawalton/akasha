@@ -1,0 +1,281 @@
+---
+id: bbe13931-dc80-5cdb-8d0c-b467ba79dc37
+page-type-slug: story-chapter-royal-road
+title: "Chapter 423 - Build Me A Bridge"
+slug: 0420-chapter-423-build-me-a-bridge
+partOf: mythrans-master-of-all-continued-completed
+position: 420
+ownLength: 3671
+unit: words
+publishedAt: 2017-11-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174590/chapter-423-build-me-a-bridge"
+royalRoadId: "174590"
+---
+
+Ren and the succubi finished their meal relatively quickly. He healed their minor injuries and repaired their bras and bikini underwear, then healed himself to restore his Mana Pool to full capacity. He stored the table and chairs, filled the icebox with the remaining 79 meals, and stored it and the Instant Tower that the succubi slept in.
+
+“Is everyone ready to head to the next encounter?” Ren asked, and they all nodded. He took out the Wand of Transport to cast a Phantom Steed for himself. It materialized and had scars on it's face, neck and chest, and Ren lightly touched the spots. “Welcome back.”
+
+The Phantom Steed huffed, but it sounded hoarse.
+
+A hoarse horse. Ren thought, and it made him smile. He cast a steed for both skeleton knights and they had the same skeleton-like versions. He took out the All-Seeing Mirror and checked it, and asked it for everything that was possible. Traps, hidden creatures, and alternate routes; when it populated with everything, even a hidden door showed up on it.
+
+“You don't think it's a doorway to... you know where?” Teepo asked.
+
+If any other realm was attached to this place, it has to be the Underworld that the Dark Elves inhabit. Ren thought.
+
+“You won't be able to go through it, if this place keeps you here like it's been doing.” Teepo said.
+
+I know. Ren thought. But, it's good to know the places I can get to when there's no restricted access.
+
+“Oho!” Teepo chittered in delight. “Do I detect some hidden motive in coming back here?”
+
+I don't like that huge area filled with those abyssal terrors. Ren thought to his friend. When I get the chance, I'm coming back here to deal with them.
+
+“Say, you didn't check what you got for loot with the one you killed, either.” Teepo said.
+
+I completely forgot about that. Ren thought in amusement. It's in the storage tower, so the next time we stop, I'll check it. “It looks like the next area is pretty much clear, except for some trolls.”
+
+“We'll stay here until you're done.” One of the succubi said.
+
+“What?” Ren looked at her.
+
+“Trolls are nasty things! 12 feet tall, and they can regenerate any wound!” She said. “I've even seen one have it's arm cut off, and it grew back!”
+
+Ren thought about trolls and their weaknesses, and if the game developers were sticklers for details, he knew exactly what to do to deal with them.
+
+“I know that none of you want a sword or a weapon for in-close fighting.” Ren said, and he felt their agreement. “So, give me a few minutes and I'll have something you'll all like. Hopefully.”
+
+Ren took out his Instant Tower and went inside and took out his armor, then removed the Level 1 Web and Fireball wands from the shoulder mounts. He exchanged their spells to make them all Fireball wands and stored them, then used his forge to make 24 Level 5 wands to replace them. He made 6 Acid Arrow, 6 Fireball, 4 Web, 4 Cause Light Wounds, 2 Sleep, and 2 Reduce Person. He put them on his armor, 12 on each shoulder mount, and stored it again.
+
+Now that he thought about it, Ren took out all of the Level 1 wands he had left and discovered he had 41 of them. He changed 20 of them to Acid Arrow to give the succubi a choice on which to use, then made 3 more Level 1 wands for a total of 44; 22 of which were Fireball, and 22 that were Acid Arrow. They were both long range spells, boosted by the high class materials, so their damage and areas of effect were increased beyond the original spell limits.
+
+Ren left the Instant Tower and stored it, handed 2 wands of each to the skeleton knights, then turned to the waiting succubi and concentrated on his Command Aura.
+
+“Okay, as I pass these out... do not... DO NOT... use them on each other! They are not toys! You will not play with them! They are combat tools and will only be used to attack or to defend yourselves from attack.” Ren said and gave one of each wand to the succubi. “Is that clear?”
+
+“Yes, My Lord.” The succubi said together.
+
+“Good.” Ren said, and he could feel the succubi wonder at the objects. “These are spell wands.”
+
+Shock ran through the succubi, and one of them dropped theirs.
+
+“I'm sorry! I'm sorry!” She said and scrambled to pick them up. “I'm so sorry! Please forgive me!”
+
+Ren took a deep breath and switched his concentration to his Camaraderie Aura. “It's okay.” He said calmly. “They aren't fragile and won't break when you drop them. I made them much stronger than that.”
+
+“But... how can you... these things...” Zunala, the oldest of them, shook her head in disbelief. “You have made us magic users!”
+
+“They have 50 charges each.” Ren said and most of them caught their breath. “Trolls, and pretty much everything else, are vulnerable to both fire and acid.”
+
+“You are... unbelievable.” Zunala said. “We could easily kill you with these and take our leave!”
+
+The two skeleton knights stepped forward with their swords raised to guard him, and Ren waved them back.
+
+“Easily? Maybe.” Ren said. “I'd fight valiantly, and I'd definitely take some of you with me.” He smiled, and they felt he would definitely kill more than 'some' of them before he died. “But, unlike me, you won't come back the next day.”
+
+The succubi looked at each other, and then back at him; and he felt their trepidation.
+
+“So, is it worth it to throw your lives away, just for a chance that some of you might get away from me?” Ren asked.
+
+“No, it isn't.” Zunala stored both wands to show that she meant no harm, then stepped forward and knelt in front of him. “Contract or no, I pledge that I will not try to ever leave your service.” She said. “I will do my best to heed your words, abide by your rules, and live as you see fit.”
+
+“Even if that means never having sex with any other mortal being?” Ren asked.
+
+“I've been here for nearly a decade, and I haven't had that yet; so, yes.” Zunala said, and then stopped breathing as Ren's emotions hit her.
+
+“I'm so sorry.” Ren said and she felt his deep sorrow. “Is that why your skin was such a pale red when I met you?”
+
+It took Zunala a few moments before she nodded. “We... thrive... on sexual energy, and that was the one thing Murdrasu couldn't give us.”
+
+Ren looked at the other succubi, and they all nodded. “But... he was...”
+
+“He gave us lots of other emotions; but, sexual desire? He kept for himself.”
+
+Ren closed his eyes and sighed. “That's why he had so many of you.” He said. “All of you together gave him enough to live on.”
+
+“He touched us...” Seldanna started to say.
+
+“...but he never went all the way.” Wynphine finished for her.
+
+“That's why you were okay with being free.” One of the others said, and the succubi sisters nodded.
+
+“It let us look for ways to escape.” Seldanna said. “Without him looking over our shoulder.”
+
+“And you got to feed on the occasional Adventurer.” Another said.
+
+“Hey, we shared when we could.” Wynphine said. “You know we had to hide everything from him.”
+
+Seldanna looked down at her arms and legs, and at the things Ren had given them. “If we'd only had these items before...”
+
+“But you didn't.” Ren said, and they all looked at him. “I made them. Especially for you.” He said. “Those things didn't exist until I decided to keep you safe.”
+
+None of the succubi said anything, but he could feel what they felt. They were grateful. Ren took out one of the succubi summoning contracts and read it quickly. He saw the same type of wording that was on the permanent maid contracts, and he sighed. In order to end the contract he would have to fulfill the terms, and he couldn't do that; so he stored it and looked at the succubi.
+
+“The wands will also keep you safe.” Ren said. “Anything that comes for you, you blast them as much as you can. There's no limit to how many spells you can keep casting in a row, so unleash everything if you have to.”
+
+“You... can't be serious.” Zunala said, surprised.
+
+“Fireball wand, please.” Ren said and she handed him the Fireball wand. “Watch.” He pointed to the top corner of the wall farthest away and cast Fireball; then another and another, and didn't stop until he'd expended 20 charges from the wand. He felt paralyzing shock from the succubi, and he looked at them.
+
+“Take out your Fireball wands.” Ren said and handed the wand back to Zunala, then equipped his armor without the helm or gauntlets. He cast Web several times in that same corner. “Aim for the web, and when I give the word, cast Fireball once.”
+
+The succubi took out the wands and carefully aimed at the web.
+
+“Fire.” Ren said and 20 Fireballs shot out at once and covered the entire corner in fire.
+
+“We can... kill... anything.” One of them said, amazed at the power in her hands.
+
+“As long as they don't have resistance to Fire.” Ren said and walked over to the corner of the enclosure. “Zunala, shoot me with a Fireball spell.”
+
+“No!”
+
+“You said you would listen to me.” Ren said. “Should I not accept your pledge?”
+
+Tears came to Zunala's eyes as she stood up. “You twist my words!” She said and shot him with a Fireball as she burst out crying. She turned her head away and covered her ears so she wouldn't hear him scream in pain or see him scarred and burned. She didn't try to wipe away her tears as they streamed down her face.
+
+“I accept your pledge, Zunala.” Ren said.
+
+Zunala's head whipped around to see the fireball shrink away to nothing as Ren absorbed it, and she saw that he stood there completely unharmed.
+
+“Wh-what? H-how?”
+
+“I have 100% resistance to Fire.” Ren said.
+
+“You bastard!” Zunala ran over to him and started to punch his armored chest. “You made me shoot you!” She yelled as the tears continued down her face. “I thought you would be horribly burned!”
+
+“I had to test your resolve.” Ren said and caught her hands before she seriously hurt herself.
+
+“Let me GO!” Zunala screamed in his face.
+
+“You can feel what I feel.” Ren said, and she shook her head. “Zunala.”
+
+“N-no, I take it back!”
+
+“You know I would have destroyed your contract if I was allowed.” Ren said. “Since I can't, I have to take you at your word.”
+
+“You shouldn't! We lie! We cheat!”
+
+“I don't lie.” Ren said, then smiled. “I do cheat at some things, though.”
+
+“You tricked me into pledging.” Zunala said halfheartedly, and started to calm down as she felt Ren's feelings.
+
+“I'd never do that.” Ren said, and they all felt it was true. “Will you accept my pledge in return?”
+
+“Wh-what?”
+
+Ren knelt with her hands in his, and she almost had to bend over to keep a hold of them. “I pledge to do everything I can to keep you safe, to remove you from this place, to give you a home you can live in and be happy, to feed you as much as you can stand, and to give up my life to save yours.”
+
+All the succubi fell silent at his words, and they felt his sincerity. They knew he was telling the truth, and he had already fulfilled part of that pledge; since he had already given his life to save them. Zunala trembled because she was in direct skin contact with him, and she knew with all of her heart that he would keep his word.
+
+“I... Ren, I...” Zunala took a deep breath and let it out. “I will accept your pledge, if... and only if... you promise to never trick me like you did with the fireball.”
+
+“I'm tempted to lie and say I can't accept those terms; but, since I'm sure I can come up with another kind of trick, I'll gladly accept that condition.” Ren said and grinned at her.
+
+“You...” Zunala closed her eyes so she wouldn't lash out at him and his feelings of mischievousness. Ren felt her trying to restrain herself and he kissed the back of each of her hands and sent her a feeling of apology. She opened her eyes and looked at him in surprise, and he stood up.
+
+“Who else would like to exchange pledges?” Ren asked, and he was immediately surrounded by all the other succubi and they held their hands out. “How many of you just want me to kiss their hands and share emotions, and don't want to exchange pledges at all?”
+
+None of them raised their hands or said anything, and he beamed a smile at them. They all gasped at his innocence, and several of them almost drooled at how tasty he was. Ren felt how much they liked him, so he held the smile as he exchanged pledges with each of them.
+
+“Well, that took a lot longer than I thought it would.” Ren said when he was done.
+
+“My Lord, my wand is almost half-empty.” Zunala said. “What do I do with it when it is?”
+
+“Give it back to me.” Ren said and held a hand out. She gave it to him and he felt she was a little sad. He grinned at her and refilled the charges on it, then handed it back. “There! It's back to full power.”
+
+Zunala held it out so that the two succubi with Identify could look at it, and they nodded. “You refilled it.” She said, her voice full of wonder.
+
+“I can keep doing it, too.” Ren said. “When you run out, just let me know and I'll fill them again.” He looked at all their shocked faces. “That goes for all of you.”
+
+“But... you mean... we get to keep them?”
+
+“Of course.” Ren said. “You need them to protect yourselves, so use them when it's necessary.”
+
+“But...”
+
+“Just be careful of your fellow succubi when you use them.” Ren said. “Be careful of everyone when you use the Acid Arrow one, though. That includes the skeleton knights and myself, too. None of us has resistance to acid.”
+
+They all nodded, and Ren walked over to his Phantom Steed and mounted it's saddle. The skeleton knights followed his lead and mounted their steeds.
+
+“Make sure you stay back, and keep an eye out for threats.” Ren told the succubi. “Even though I know where the ones I can see are, that doesn't stop them from moving or appearing where we won't expect them.”
+
+“It depends on what the cave looks like.” Zunala said. “It could be a maze, a series of smaller caverns, or even just a large open area with nothing but trolls in it.”
+
+“That last would be awesome.” Ren said and smiled. “It would be like a shooting gallery and we could all have fun!”
+
+“Fun, he says.” One of the succubi said. “Fighting trolls isn't fun.”
+
+“Activate your Displacement enchantments, and follow me.” Ren said and his Phantom Steed trotted over to the tunnel and to the next cavern. He checked the All-Seeing Mirror again to make sure he and Teepo knew where the first sets of trolls were. He was surprised that they were almost in a line, all the way across a huge cavern, nearly twice as long as any other cavern he had ever seen.
+
+Ren wasn't sure what was going on with that, until he entered the cavern; then he saw what the real deal was. It was a series of 100 bridges of all different kinds, 10 to 15 feet long, that spanned wide and shallow black pits that neither he nor Teepo could see in.
+
+“Wow.” Teepo said. “How long did this take to make?”
+
+It doesn't matter. Ren thought and had the Phantom Steed fly up into the air.
+
+“RAARRR!” A 12 foot tall troll yelled as it came out from under the first bridge 50 feet away. “You can't cross without paying the toll!”
+
+“I'm not using the bridge.” Ren said.
+
+“You're still crossing my spot!”
+
+“What if I fly over there?” Ren asked and pointed to the side of the cavern and the edge of the black pit.
+
+“That's still my spot!” It said. “This abyss is mine, and if you cross it, you owe me the toll!”
+
+Ren thought that was a bit unfair; but, he couldn't argue that he wasn't crossing the black pit. “What's the toll?”
+
+The troll smiled and revealed large crooked teeth. “Half an hour with one of those things.” It said and pointed. Ren thought it meant the succubi at first, then the two skeleton knights changed position slightly to stay on Ren's flank and the troll's eyes followed them.
+
+“The skeletons or the horses?” Ren asked.
+
+“The horse, of course.” The troll said. “Nothing else could take it, if you know what I mean.”
+
+Ren thought about it. “Well... half an hour is a bit long for us to wait...”
+
+“All right, give me one of them for... 10 minutes.”
+
+“I see another bridge behind you, and I'm sure there's at least another troll under it.” Ren said, and knew there was actually two of them under it. “What's their toll?”
+
+“You'll have to ask them.”
+
+“Hey! Next in line troll!” Ren yelled. “What's the toll on your bridge?”
+
+“It depends on if your flying horses survive.” A voice said without coming out from under the bridge.
+
+Ren thought about that particular answer and didn't like the implications. He looked back at the first troll. Identify.
+
+Troll (Level 116)
+
+This fearsome green-skinned large creature will eat anything it can catch and devour. They have thick natural armor, and Regeneration so strong that they can even regrow lost limbs if the severed limb isn't reattached. Only acid and fire can stop the regenerative properties of a troll's flesh, and even then it's only for a limited time. They move twice as fast as humans, can see in pitch darkness up to 60 feet, and have enhanced perception.
+
+Inherent Abilities: Multi-attack (bite, claw, spit), Keen Smell, Expert Trapper, Lure, Killing Blow, Ability Absorption (if enough is eaten)
+
+Permanent Conditions: Corrupted, Stench
+
+“I'm sorry, We need these horses to travel.” Ren said. “Is there anything else you'd like instead?”
+
+“No. Just the horse.” The troll said, and a thin cloud formed around the troll.
+
+“Then you leave me no choice.” Ren took out his Staff of Earth and widened the abyss pit.
+
+“S-STOP!” The troll yelled and the thin cloud disappeared.
+
+Ren pulled the ground apart from one end of the bridge, and it crumbled as the bridge started to drop into the abyss.
+
+“NO!!!” The troll tried to hold his end of the bridge; but, it was to no avail as it continued to crumble and disappeared into the black pit. Ren used a Web wand to ensnare the troll, then shot it with a Fireball. It let out a muffled yell as it caught on fire, then fell into the abyss. The muffled yell cut off abruptly as the bundle of webbing with the troll inside disappeared into the blackness.
+
+“I won't let you hurt my horses, or gain their flight ability.” Ren said and concentrated on the ground between the abyss pits. “My mount was feasted upon, and even though it was spell-created, it's still alive and felt everything.” He said and let his anger out. “I will NOT let it happen AGAIN!”
+
+The trolls had made the mistake of putting all of their bridges in a line, a very thin neat line, that Ren could easily move the ground out of the way very, very quickly underneath the ends of the bridges. With his experience of smoothing a path for Princess to run on at nearly her full speed before her upgrade, having to move all the dirt and rocks under all of the bridges was a lot easier than it should have been.
+
+The dirt and rocks all pushed aside almost at once, and the screams of the trolls falling into the abyss were cut off as they passed into the darkness. All that was in front of Ren was a 10 foot wide straight line of open blackness from one end of the cavern to the other. He used the staff to pull the dirt back in, then shifted the dirt and rock between all the pits towards the middle to fill in that space. It took a lot longer than moving dirt out of the way, since he was moving so much more; but, when he was done, there was a 30 foot wide natural walking path from one side of the cavern to the other, with two large abyss pits on either side.
+
+“Ren, the hidden door.” Teepo reminded him.
+
+Right. Ren thought and checked the All-Seeing Mirror for it. “Wait here.” He said and flew over to where the door was and used the surrounding wall to make a 10 foot ledge and a 4 foot high dirt and rock railing. Whoever uses this exit is going to be surprised. He thought in amusement, then flew back over to the others.
+
+“Let's go.” Ren said and the entire group flew across the cavern.
+
+“That was fun to watch.” One of the succubi said in a whisper, and Ren felt a general agreement from the others. They went through the tunnel in high spirits and couldn't wait to see what the next thing was that Ren was going to defeat.

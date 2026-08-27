@@ -1,0 +1,245 @@
+---
+id: d322e5f7-6ed6-53f6-a373-df69c13949f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 Familiarity"
+slug: 0048-chapter-44-familiarity
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 48
+ownLength: 2343
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3325858/chapter-44-familiarity"
+royalRoadId: "3325858"
+---
+
+The following morning arrived as the village settled into its routine.
+
+Winter sunlight spread thinly across the rooftops as Lucien stepped beyond the manor gates and into the open air.
+
+For the first time in several weeks, Ashridge moved with something close to normal life.
+
+Men crossed the packed snow between buildings carrying tools or bundles of timber. Smoke drifted from chimneys where morning fires had already been lit. The distant rhythm of axes echoed faintly from the southern clearing where Harlon’s crews continued their work among the retreating treeline.
+
+Lucien allowed his steps to follow the main path through the village without hurry.
+
+There were several places he intended to examine that morning.
+
+The first stood near the center of Ashridge.
+
+From a distance, the structure resembled the longhouses described in fantasy novels he had once devoured in his former life. Its long rectangular frame stretched low and wide against the pale winter sky, the roof sloping steeply enough to endure the worst weather the seasons brought.
+
+Open ground lay before the building where wagons might gather. A line of rough hitching posts had been driven into the frozen earth near the entrance, their surfaces worn smooth by years of rope and reins.
+
+Lucien slowed as he approached.
+
+He had passed this structure during his first walk through the village weeks earlier, though at the time it had drawn little of his attention. The pressing concerns of preparations for the Beast Tithe had left little room for examining every building Ashridge possessed.
+
+Now that the immediate crises had passed, smaller matters could be considered.
+
+In theory, the structure served as the village tavern.
+
+In practice, Lucien had begun to suspect that the word might be generous.
+
+A proper tavern implied certain necessities. A barkeep to manage the establishment, rooms for travelers, and a private stock of drink. And travelers meant proper roads that people expected to use.
+
+From what he had observed so far, Ashridge possessed none of those.
+
+Near the entrance to the longhouse, was a familiar wooden board.
+
+Lucien’s gaze lingered on it, fresh chalk marks drawn beside several of the names, the writing neat and careful enough to be unmistakable.
+
+Several villagers passing along the road glanced toward it as they walked.
+
+One man paused briefly, studying the list with the seriousness usually reserved for crop tallies or weather signs before moving on again.
+
+Lucien observed the small interaction. It seemed the board had outgrown its original purpose, becoming less a tool for drill incentives and more a point of pride for the village.
+
+He suspected the villagers would continue refining it without consulting its original designer.
+
+The door had been left open despite the cold, and from within came the low murmur of several men speaking together, broken now and then by the dull clink of pottery against wood. Near the far wall, a large cask rested where men filled their own cups.
+
+He stepped closer, studying the building with interest.
+
+The construction was solid, unmistakably Harlon’s work. The beams were thick and evenly cut, the joints fitted tightly enough that the winter wind found few places to slip between them.
+
+It had been built to endure, yet something about the structure suggested it served more as a gathering place than a business.
+
+Footsteps crunched across the snow behind him.
+
+“My Lord.”
+
+Lucien turned toward the direction of the voice.
+
+An older villager had paused along the road, removing his cap in a gesture of respect. The man’s beard had long since turned gray, though the broad shoulders beneath his coat suggested he had once carried the strength common among Ashridge’s farmers.
+
+He approached without hesitation, the sort of implicit confidence that had begun appearing more often in Ashridge since the Tithe passed.
+
+The man’s gaze shifted briefly toward the building before returning to him. “Come for a drink, My Lord?” he asked with a faint smile.
+
+Lucien glanced once toward the open doorway, then shook his head lightly. “Not particularly.”
+
+The admission earned a small chuckle. “Aye,” the villager said. “Never took you for the drinking sort.”
+
+Lucien’s gaze returned to the longhouse, following the line of the roof and the heavy beams set beneath it. “I was considering whether the building might be improved.”
+
+“Improved?” the man echoed.
+
+“Converted into something more...formal,” he explained. “A proper tavern. Perhaps even an inn when spring arrives.”
+
+The villager’s expression shifted in mild surprise before softening with amusement. “Ah.” He glanced toward the building again. “Well, that would be something new for Ashridge.”
+
+He turned toward him, brow raised. “Was it not built for that purpose?”
+
+The man shook his head. “No, My Lord.” His gaze lingered on the longhouse with the look of someone remembering an earlier time.
+
+“That place was built when the village turned ten years old.”
+
+Lucien’s gaze returned to the longhouse. “To mark the years of surviving out here?”
+
+The man gave a nod before he continued. “Harlon did most of it himself. Said if we’d lasted that long, we deserved a place big enough for the whole village to sit under one roof.”
+
+He studied the building again. “So it was never meant to be a tavern.”
+
+“Not really.”
+
+The older man gestured loosely toward the open doorway. “Men bring their own drink and share what they’ve got. They talk about the weather, complain about the fields, argue over nothing important.” His shoulders lifted in a small shrug. “That’s about the extent of it.”
+
+Lucien gave a slow nod. In other words, it was not a tavern but a communal hall. His gaze returned to the heavy beams above. “Harlon must have been proud of it.”
+
+The villager’s smile returned briefly. “He was.” It faded as his eyes shifted aside and his voice lowered. “Back when it was the largest building in the village.”
+
+He followed the man’s glance toward the manor rising behind him on the hill. “The former lord built the manor soon after arriving?”
+
+“Aye.”
+
+The man’s tone remained respectful, though something in his expression hardened.
+
+Lucien studied him for a moment. “What kind of lord was he?”
+
+The question seemed to catch the villager off guard. His gaze dropped to the snow beneath his boots, and he took his time before answering.
+
+“Not like you, My Lord.”
+
+The older man lifted his gaze to meet his own. “He was just like any other noble.”
+
+Frontier lords rarely remained when the Tithe came. That understanding had not come easily.
+
+The villager replaced his cap and dipped his head. “Well,” he said, stepping aside along the road, “I’ll leave you to your thinking.”
+
+Lucien inclined his head in thanks and walked on, the murmur of voices from the longhouse fading behind him as the village slowly stirred around him.
+
+A short distance farther along the road, he noticed Alicia standing beside one of the cottages with a small scrap of parchment in her hands. An older farmer stood opposite her, cap in hand, speaking slowly while she wrote something down with care.
+
+When she finished, the man nodded gratefully before taking the parchment and continuing on his way.
+
+He watched the exchange for a moment before continuing on as the village stirred around him.
+
+The farther he walked from the longhouse, the more clearly the adjustments within Ashridge revealed themselves. Groups that had once stood apart now worked side by side without hesitation.
+
+Villagers who had lived here all their lives moved easily among the newcomers, passing tools between them and speaking in the same low practical tones that governed most work on the frontier.
+
+The frontier had little patience for people who refused to work.
+
+They endured by absorbing those who survived elsewhere. One settlement fell, another opened its gates, and the people who remained learned quickly how to stand beside strangers who were no longer strangers by necessity.
+
+In that sense, the shift had been swift.
+
+Near the edge of the road, two women worked together over a wash basin, one speaking in the clipped dialect of Ashridge while the other answered in the slower cadence common among the eastern villages.
+
+Several of the newer arrivals worked among Harlon’s crews, learning quickly under the direction of Ashridge’s carpenters.
+
+Though he noticed how some of the eastern villagers still looked upon Ashridge with the caution of people not yet certain they belonged there.
+
+A man from the eastern villages bartered with one of Ashridge’s farmers beside a wagon, both men slow to agree over a bundle of cured hides.
+
+Lucien’s gaze paused briefly on a small group gathered near one of the newly cleared timber piles.
+
+Bran’s wife was among them, speaking with a man who shared enough of her features to make the connection obvious even at a distance. His wife stood nearby while two children chased each other around the stacked logs with the tireless energy only children possessed.
+
+A moment later, he recognized the man. Bran had brought him and his family out during the evacuation at Cragwatch.
+
+Bran’s wife noticed him as he passed, she inclined her head respectfully. “My Lord.”
+
+He returned the gesture with a small nod.
+
+Up close, the resemblance became clearer. The woman shared Alicia’s gentle features, though they had been shaped by time and labor, along with the same soft teal eyes and composed manner.
+
+Lucien found himself recalling the first voice he had heard upon waking in this world.
+
+My Lord! Please!
+
+The memory surfaced with a lingering edge he had not fully forgotten. At the time he had barely understood what was happening, only that a woman’s voice had been pleading desperately somewhere in front of him.
+
+That voice had belonged to Alicia’s mother.
+
+An unusual place for a life to begin.
+
+As Lucien continued along the road, he spotted a familiar group of children gathered near the well stones, where a patch of packed snow had been flattened into a makeshift play area.
+
+The boy with the wooden hoop still carried it like a badge of office, while the girl with the rag doll stood nearby with the same attentiveness she always seemed to possess. The smallest girl lingered close to them, already watching everything with open curiosity.
+
+The one with the crude wooden sword had claimed the highest of the well stones and appeared to have appointed himself guardian of the entire gathering.
+
+This time, there was another child among them.
+
+The smaller boy from Cragwatch stood at the edge of the group, his eyes following the others as they spoke, still uncertain where he belonged.
+
+The hoop boy spotted him first, like always. “Look,” he announced with the confidence of someone reporting a confirmed sighting.
+
+Four heads turned at once.
+
+Unlike before, none of them hesitated as they moved toward him immediately.
+
+The wooden sword boy jumped down from the stone and marched forward with exaggerated purpose. The rag doll girl followed more calmly while the smallest girl hurried ahead of them all.
+
+The Cragwatch boy hesitated at the edge, until the rag doll girl reached back and seized his sleeve with gentle insistence. He stumbled after them as the small procession crossed the road toward him.
+
+They stopped a short distance away, heads tilted upward as they stared at him with open scrutiny.
+
+The hoop boy studied him with the same analytical expression he had worn before, as though confirming a prior conclusion. “You are still tall,” he announced at last.
+
+Lucien regarded him for a moment, the corner of his mouth twitching faintly. “I had suspected as much.”
+
+The smallest girl peered up at him with curiosity glinting in her eyes. “Did you fight anything else, Lord Lucien?”
+
+“Not yet, I will be sure to tell you when I do.”
+
+The wooden sword boy planted his stick against the ground and leaned upon it with theatrical gravity. “If anything comes,” he declared loudly, “we will hold the line here.”
+
+Lucien glanced briefly at the stick. “I see.”
+
+Behind the group, the rag doll girl remained beside the smaller Cragwatch boy, the worn toy hung from one arm while she nudged him gently forward.
+
+The smaller boy hesitated before looking up. “You’ll stay here?” he asked, his voice unsure.
+
+Lucien regarded him briefly, the answer coming more carefully this time. “For the moment, I am staying.”
+
+The boy looked down again, turning the answer over in silence. Beside him, the rag doll girl watched his face carefully.
+
+The hoop boy nodded as though this confirmed a theory he had already developed. “I told him,” he said to the others. “He stays.”
+
+The smallest girl folded her arms with exaggerated seriousness, lifting her chin in a not entirely subtle imitation of Lucien himself. “He did not leave.”
+
+The wooden sword boy raised his stick again in approval.
+
+He studied the small council before replying. “That does seem to be the arrangement, yes.”
+
+The smaller Cragwatch boy shifted his weight before speaking again, his voice quieter than before. “Our lord didn’t stay.”
+
+Lucien held his silence, the explanation was familiar. It was what most nobles did.
+
+He had simply refused to accept that arrangement.
+
+The small council lingered where they stood, as though waiting to see if the discussion required any further deliberation. When none came, the wooden sword boy planted his stick against the ground with renewed purpose before declaring that the well must now be defended properly.
+
+The others accepted this judgment with the seriousness such matters deserved.
+
+The rag doll girl tugged gently at the Cragwatch boy’s sleeve, guiding him back toward the stones as the group began reorganizing itself around their new assignment.
+
+Their voices rose again as the children argued over who would stand where along an imaginary wall.
+
+He watched them for a time before turning to continue along the path toward the thin column of smoke rising above the rooftops where Joren’s forge stood.
+
+If the craftsmen had made progress, the next winter would unfold very differently.
+
+This time, Ashridge might decide how far the Tithe was allowed to come.

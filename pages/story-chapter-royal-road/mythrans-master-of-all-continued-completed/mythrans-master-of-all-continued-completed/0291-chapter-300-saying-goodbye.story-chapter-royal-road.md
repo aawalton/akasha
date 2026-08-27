@@ -1,0 +1,261 @@
+---
+id: 1de2ee49-99ca-549f-a240-cf6b50074d9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 300 - Saying Goodbye"
+slug: 0291-chapter-300-saying-goodbye
+partOf: mythrans-master-of-all-continued-completed
+position: 291
+ownLength: 3023
+unit: words
+publishedAt: 2017-07-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146701/chapter-300-saying-goodbye"
+royalRoadId: "146701"
+---
+
+On his way back to his cabin, Ren thought about his side quest. He'd had hundreds of different names go through his mind all day, and none of them seemed right. He came to the door of Princess' cabin and went inside.
+
+“Hi, everyone.” Ren said and walked over to where the fire elemental was. It was lounging in the Fire and Wind enchantments, so he stepped into the area and sat down. It didn't get up or jump around, so he laid down beside it and pet it's back.
+
+“I think I have a name for you.” Ren said. “It took a while to come up with one that wouldn't change how you developed.” He said and smiled. “I didn't want it to influence you. I wanted your name to be what you were called, not what you were.”
+
+The fire elemental stood up for a moment, then leaned it's body against his chest and laid down again.
+
+“You want to be cuddled, too?” Ren asked in amusement, and wrapped his arms around it. He heard a small crackling fire and smiled. “As I was saying, any name that was temperature or fire-based was out.” He said. “It would be like calling a pond 'Water Pond'.” He chuckled. “It would be redundant.”
+
+The crackling fire got louder.
+
+“I thought you would agree.” Ren said. “Basic names were out, too.” He explained. “They wouldn't fit you at all. I can't see myself looking at you and saying, 'Come here and play, John', or 'Jane! Come here and eat this'.”
+
+The fire elemental made the sound of a tree branch breaking, and Ren chuckled.
+
+“See? Even you wouldn't like those kinds of names.” Ren said. “So, I think I've got the perfect name for you.”
+
+The fire elemental lifted it's head stub and pointed it towards his face.
+
+“Zetaya.”
+
+A small ripple of blue fire ran from the head stub, and all the way down it to the end of it's limb stubs. It's color changed to white for an instant, then it pressed it's head nub against his face to the sound of a loud crackling fire.
+
+Side Quest Complete!
+
+You have finally named the fire elemental under your care. You are also quite fortunate that it likes the name as much as it does.
+
+Rewards: Loyalty / Devotion of the fire elemental + 25%. Current total: 75%
+
+Fire Manipulation skill +5 levels
+
+Notice!
+
+Your fire elemental has unlocked a new special ability: Accelerated Growth. This grants it the ability to grow at twice it's normal rate.
+
+Please note: This is ability will only be active until it reaches maturity, then it will deactivate.
+
+“Wow.” Ren said and sat up, then picked up the fire elemental. “That could have gone a lot differently than it actually did.” He said and gave it a hug. “I'm glad you like your name, Zetaya.”
+
+The fire elemental rubbed it's head stub on his face again, and Ren put it down.
+
+“I've got to get supper started.” Ren said. “I'll see you later.”
+
+Ren heard the crackling fire a little bit, and then the fire elemental laid down in the wind and flames again. He used a web wand to cover the corner of the pen, threw in a few pieces of wood, then covered those as well. He told Princess he would be back with supper soon, and left the cabin. He knocked on his own cabin door, and heard laughter. He took a deep breath and opened the door, and saw what he expected to see. Frikara had opened her top to show off her chest.
+
+“I knew I shouldn't have told you why I knock.” Ren smiled while he ignored her exposed flesh. “I figured this was coming.”
+
+“I'm just teasing you.” Frikara said, and buttoned her top back up. “I thought it was a good idea to make sure you knew what you have access to.”
+
+“I know exactly what I have access to.” Ren said and chuckled. “Lots of trouble.”
+
+Frikara laughed. “Come on, everybody. Let's get supper ready.”
+
+All of the maids helped again for the evening meal, and Ren sat down with them to eat. After they were done, he took two plates with him in to Princess. He left them there and was about to go back into his cabin when he received a surprising popup.
+
+Notice!
+
+The Church you had constructed on House Neram land was completed last night and has been open for 12 hours. Word has spread of it's opalescence, and dwarves now flock to it to pray and worship their gods. You have gained bonuses appropriate for encouraging the active worshipping of these gods. 10 visitors = 1% Knowledge bonus to level.
+
+Dark (Gravity) - 212 visitors; Knowledge Of Dark (Gravity) Level 2 (Beginner 1%) +21% = 22%
+
+Earth - 342 visitors; Knowledge Of Earth Level 1 (Intermediate 14%) +34% = 48%
+
+Fire - 688 visitors; Knowledge Of Fire (Mastered) = No gains possible
+
+Ice - 111 visitors; Knowledge Of Ice Level 1 (Beginner 0%) +11% = 11%
+
+Light (Holy) - 291 visitors; Knowledge Of Light (Holy) Level 1 (Beginner 20%) +29% = 49%
+
+Lightning - 169 visitors; Knowledge Of Lightning Level 5 (Beginner 10%) +17% = 27%
+
+Void (Arcane) - 12 visitors; Knowledge Of Void (Arcane) Level 1 (Beginner 0%) +1% = 1%
+
+Water - 127 visitors; Knowledge Of Water Level 2 (Beginner 0%) +13% = 13%
+
+Wind - 134 visitors; Knowledge Of Wind Level 1 (Beginner 0%) +14% = 14%
+
+“Whoa.” Ren said out loud. “I never expected that!”
+
+Ren got the distinct impression that he needed to get to the hold of the ship as soon as possible, so he ran down the hallway, out to the deck, and then down one of the many stairways to the cargo hold. Once there, he saw the cargo hatch was once again open; and Tee-one stood there waiting for him.
+
+“Hop on.” Tee-one said, and Ren stepped onto the barge. It took off at a good speed, and moved through the water unimpeded.
+
+“Where are we going?” Ren asked him.
+
+“Just to the dock.” Tee-one said and pointed. “A couple of people wanted to see you before we left.”
+
+Ren turned around to see what Tee-one was pointing to, and froze. Nearly everyone he had met had come to the docks to see him off.
+
+The group of soldiers that had fought the giants with him, the heads of several Houses which included Lady Longore, the workers from Barnar's Stoneworks, the women that had worked so hard to shovel silt for him, and the miners from his regular shift at the mines. In front of that group were the people he'd had personal encounters with. The dwarf Librarian stood out, because she was jumping up and down in anticipation. The mine foreman and Deresdra the healer was beside her, as well as the Commander of the Garrison, the madam from the Convent training facility, and a few others. The healers from House Neram, Artrude and Malenka, were there; and so was Ereka. Dorcot, and his wife Angeilin, stood beside her. Ren only had eyes for one person on the dock as the barge approached it.
+
+“Hi, Nathalia.” Ren said.
+
+“Hi, Ren.” Nathalia said.
+
+The barge came to a stop right beside the dock, and Ren glanced down at the inch of space between the barge and the dock. Nathalia stepped across the small gap and hugged him as she started to cry.
+
+“It's... it's been so hard these last two nights without you!” Nathalia said. “I miss you so much!”
+
+“It's been hard for me, too.” Ren said. “Princess rolled over on top of me and nearly crushed me during my first night on the ship.” He smiled. “Then this morning I slept sitting up on a couch for just over an hour.”
+
+“You have to take better care of yourself.” Nathalia said. “I'm not going to be there to do it for you.”
+
+“I know.” Ren said, and kissed her. It sent a thrill through her, and a gasp through everyone else. Nathalia broke the kiss and let him out of the hug. “We're in public!” She said and looked at the dwarves on the dock. “We... we can't...”
+
+“I'm not in the dwarf lands anymore.” Ren said. “I'm choosing to ignore social protocol for the moment.”
+
+Nathalia shook her head. “You can't just choose to do that.” She said. “I'm the Head of a House. I'm supposed to be a beacon of civilized behavior.”
+
+Ren smiled and looked at the people on the dock. “Shouldn't kissing the one you love be a part of civilized behavior?”
+
+“Normally.” The Librarian said. “You're members of the same House, though.”
+
+“That shouldn't matter if I'm banished.” Ren said. “Should I still have to abide by the rules of a land that I can't even step foot on?”
+
+The Librarian didn't have an answer for that.
+
+“I'm sorry.” Ren said and laughed. “You all came here to say goodbye, and I'm debating if the rules of man should override the rules of the heart.”
+
+Several dwarves chuckled, and Nathalia stepped around Ren on the barge so he could greet everyone that came to see him. It took about an hour for him to talk to everyone, and for them to say they were sorry he couldn't stay longer. Ren accepted their words, their hugs, and their handshakes. He gave them the same in return. He really had enjoyed his stay in the dwarf lands, and wouldn't trade his time there for anything.
+
+The gathered group broke apart and drifted away, and went back to their lives. It came down to only a select few, and Ren spent more time talking and discussing things with them. He gave the Commander the matching Sending Square Ren had used to contact him so many times, and the Commander thanked him profusely for making sure that the entire kingdom was protected. Both he and the soldiers saluted Ren, and the Commander gave Ren something he didn't expect. It was a scroll with an honorary Commander rank.
+
+“If you ever do come back, you'll always have a place at the Garrison.” The Commander said.
+
+“T-thank you.” Ren said, and stored the document. “I... I don't know what to say.”
+
+“Say you'll make more of these Sending Squares and send them to me.” The Commander said. “You have to keep earning that honorary rank.”
+
+Ren chuckled. “I'll send some the next chance I get.”
+
+The Commander nodded to him, and Ren received another Honor gain and error popup. Ren nodded back, and the Commander left with the soldiers right behind him.
+
+The Librarian had stuck around and waited almost until last before she couldn't contain herself and jumped on him. Ren hugged her as she let the tears flow, and she sobbed onto his shoulder. He said consoling words to her, and she kept shaking her head at him.
+
+“I know you're lying!” Dorhaline the dwarf Librarian said, even though she hadn't winced once as Ren talked to her. “It's not going to be okay! I'm never going to see you again!”
+
+“Only if you stay here in the dwarf lands.” Ren said. “You can wait and see if I somehow can earn another invitation in about 10 months, or you can just hop on my ship sometime and come and visit.”
+
+“Wh-what?!?” Dorhaline said, surprised. “L-l-leave the dwarf lands?”
+
+“Only for a short trip.” Ren said. “Once I get a chance to do some modifications on the ship, I hope I'll be able to reduce the round trip times.” He smiled. “So, don't let me leaving break your heart.” He said. “There's always options.”
+
+“I... I...” Dorhaline couldn't get out what she wanted to say.
+
+“You don't have to come.” Ren said. “I just want you to know that the option is always there if you need it.”
+
+Dorhaline nodded slightly, stepped onto the dock, and walked away. She looked back several times, almost as if she couldn't believe that Ren was still there, and hadn't left already. He waved to her before she turned the corner out of sight, and she waved back before she disappeared.
+
+“If she didn't believe you were too young for her, she'd seriously try and steal you away.” Teepo said and chittered in laughter.
+
+Yeah. Ren thought. But, I'm sticking to my word. I can't have any more women in my life.
+
+“That's too bad.” Teepo said. “Lady Longore looks like she'd gladly become someone you could visit.”
+
+The woman in question stepped forward and held out a hand. “It was nice meeting you.” Lady Longore said and smiled. “If you need an invitation when the ban is lifted, let me know.”
+
+“If I need one at the time, I'll definitely let you know.” Ren said, took her hand, and gave her cheek a kiss. “It was nice meeting you, too.”
+
+“I would have said yes, you know.” Lady Longore said as she stepped off the barge and onto the dock. “It would have been the shortest marriage contract in history; but, I still would have said yes.” She said and walked away. Ren turned to Ereka.
+
+“You told her she was the best option for me to take to the castle event?” Ren asked her.
+
+“I had to.” Ereka said. “If you'd agreed, she needed to be ready.”
+
+Ren sighed. “I might have handled that differently.”
+
+“How?”
+
+“It doesn't matter.” Ren said and smiled. “Now give me a hug.”
+
+Ereka smiled and hugged him, and he held her tightly.
+
+“Now that the ship is loaded, we can't stay any longer.” Ren said. “I'm sorry that you and I didn't...”
+
+“Me, too.” Ereka said. “I just wish...”
+
+“You have the same option as Dorhaline.” Ren said. “Take some time off, hop on my ship, and come and see me.”
+
+“Ren, I... I mean, I...” Ereka shook her head. “Everything would fall apart if I left for that long.”
+
+Ren chuckled. “I know what you mean.” He said. “I get so caught up in doing things, I forget that I should be enjoying myself more.”
+
+Ereka nodded slightly. “I... I'll think about it.”
+
+“That's all I can ask.” Ren said. “Goodbye, Ereka.”
+
+“Goodbye, Ren.” Ereka said, then looked around to see that everyone had left, except for Dorcot, Angeilin, and Nathalia. She smiled wickedly and gave him a kiss. Angeilin gasped and Dorcot shook his head, but Ren ignored them and kissed her back. Ereka broke the kiss a moment later, cupped the side of his face, and then stepped onto the dock.
+
+“I'll be waiting in the carriage, Nathalia.” Ereka said, and walked away.
+
+“When did that happen?” Angeilin asked.
+
+“Only recently.” Ren said and turned to her. “It was a distinct pleasure to meet you.” He said, and took her hand and kissed her cheek. She giggled, and Ren heard tinkling glass.
+
+“I'll never forget you.” Angeilin said, and her husband Dorcot laughed.
+
+“If you weren't such an Honorable person, I'd be worried you were trying to steal her away from me.”
+
+Ren smiled and held a hand out, and Dorcot grasped his forearm.
+
+“Like she'd give me the time of day.” Ren said. “I left a pile of crates of uncut diamond crystals in the workshop.” He said. “Well, I guess it's just your workshop now.”
+
+“I'll start doing them right away.” Dorcot said. “I'll have at least one crate done by the end of the week.”
+
+Ren shook his head. “That's not why I left them.” He said and let Dorcot's forearm go. “Have fun. Enjoy working on them. When you eventually get a crate done, let Nathalia know. She can bring it to me.”
+
+“But...”
+
+“No buts.” Ren said and put a hand on his shoulder. “Enjoy your life. Keep spending time with your wife and family.”
+
+Dorcot nodded. “Goodbye, Ren.”
+
+“Goodbye, Dorcot.” Ren looked at Dorcot's diminutive wife. “Goodbye, Angeilin.”
+
+“G-g-goodbye, Ren!” Angeilin said, gave him a quick hug, and took her husband's hand. They stepped onto the dock and walked away. Now that everyone had left, Ruck came out from hiding behind a nearby building, and crawled onto the barge.
+
+“I don't think anyone would have said anything if you'd just come on over right away.” Ren said.
+
+Ruck pat his belly and then covered the spot that could have been a mouth.
+
+“You weren't feeling well?” Ren asked, then remembered that Ruck was seasick. “They've got a nice pulley system in the hold. I'll hang you from one of them.”
+
+Ruck gave Ren a 'thumbs up' gesture and Ren turned to the last person that had come to see him.
+
+“It's only two weeks before you'll hear from me again.” Ren said. “In the big scheme of things, it's not that long.”
+
+“It's going to feel like an eternity.” Nathalia said.
+
+“Yeah.” Ren said and smiled. “I was trying to convince myself it wasn't going to be.”
+
+Nathalia smiled and stepped in close. Ren put his hands on her hips, and she sighed.
+
+“Even this could be considered breaking the law.” Nathalia said.
+
+“Well, if I'm breaking it anyways...” Ren said, took her in a tight embrace, and kissed her with all the passion he had in him. Nathalia's head emptied of all thoughts about propriety and the law, and she wrapped her arms around him to give as good as she got.
+
+“Ahem.” A male voice said.
+
+The little imaginary world Ren and Nathalia were in, broke apart at the sound and they let go of each other.
+
+“I'm glad I made it in time.” The male dwarf said. “The release papers were only approved an hour ago.”
+
+“Release papers?” Ren asked.
+
+“Yes. They were sent by the Sage of Ages to the mines, and I was to be released to Ren Neram's custody.” The man said. “I'm Orimihr Juldor, the jeweler that legendary scoundrel Delthid Kulduhr had framed to take the fall for his crime of stealing the Crown Jewels.” He said and smiled. “The papers also said that you were going to clear my name.”

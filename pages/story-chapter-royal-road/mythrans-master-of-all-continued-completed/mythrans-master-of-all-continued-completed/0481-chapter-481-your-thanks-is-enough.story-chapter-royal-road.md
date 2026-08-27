@@ -1,0 +1,329 @@
+---
+id: 13605d64-7ddc-5b9a-8337-065a02fd7971
+page-type-slug: story-chapter-royal-road
+title: "Chapter 481 - Your Thanks Is Enough"
+slug: 0481-chapter-481-your-thanks-is-enough
+partOf: mythrans-master-of-all-continued-completed
+position: 481
+ownLength: 3778
+unit: words
+publishedAt: 2018-01-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186409/chapter-481-your-thanks-is-enough"
+royalRoadId: "186409"
+---
+
+Ren ran up the outside of the two storey building and climbed up onto Princess, then they ran through the sky back to Elerlyth and Zetaya. Once there, he equipped his armor and used the All-Seeing Mirror to find the next nest of ghouls, and the group went there. For the next 2 hours, they cleared out a nest every 3 minutes and loaded up the large cart with the ghouls that had the potential to be saved.
+
+“Okay, I'll be back in an hour or so.” Ren said. “I need to get the healers and let them start healing the ghouls.”
+
+“I don't mind getting a break this time.” Elerlyth said as she hopped down off of her Phantom Steed mount, Etheria. “We cleared out 40 nests in only 2 hours!”
+
+“I guess I don't have to tell you to relax this time.” Ren said and made a comfy recliner for her.
+
+“Hey, when did you start making these?” Elerlyth asked and sat down on it, pulled the lever, and it reclined back. “Oh, that's nice.”
+
+“Just this morning.” Ren said. “See you in a little while.”
+
+Elerlyth gave him a dismissing wave as she closed her eyes, and he chuckled as he mounted Princess' saddle again. They ran across the sky to the healer's ward in their town, and he emptied the cart full of ghouls into the upstairs holding pen, stored the cart, then rode Princess to the castle. They stopped near the back gate and waited for only a few minutes, and then a royal carriage came around the corner.
+
+Ren waved to the driver, who came to a stop, and Ren went to the carriage's door. “Are you ready to handle another huge pile of ghouls?”
+
+“Are we ever!” The healer's assistant said excitedly, and the healer laughed.
+
+“You shouldn't take enjoyment from other's pain.” The healer admonished her assistant, then pat the young woman's shoulder. “Although, I'm ready for the challenge, too.”
+
+“Then hold on.” Ren smiled, then walked over to Princess and hooked her up to the front of the horses that pulled the carriage. He climbed up onto her saddle and she trotted up into the air, then ran faster and faster.
+
+*
+
+King Alamast had just thanked his daughter for saving his wife and left her alone in her room, and Diana walked over to her window and resumed her silent vigil. She saw a short mounted figure come in for a landing at the back gate, and debated whether or not she wanted to try and get his attention. She was sure if she opened her window and shouted to him, that he would come right over to meet her.
+
+No, I'll trust the healer to deliver my message. Diana thought as a royal carriage drove over to the waiting figure. She smiled as the giant ram was hooked to the front of the horses to lead them, and then the short figure mounted the giant ram. The whole thing rose up into the air as if it was going up a steep hill, and sped away through the sky.
+
+Thank you, Ren. Diana thought and touched the amulet that hung around her neck. Thank you for bringing them so quickly... and I'll see you soon.
+
+*
+
+Ren and the carriage came in for a landing at the healer's ward in their town, and Ren hopped off of Princess and went to the carriage's door. He let the driver do his job as an usher, and the man flipped down from his seat using a handhold and stepped across the ledge on the side of the carriage, then opened the door.
+
+Ren reached a hand out, and the healer took it and stepped down.
+
+“Thank you.” She said, and then she noticed the change to the ward. “What in the world?!?”
+
+Ren chuckled and reached into the carriage again, and took the assistant's hand to help her out as well. “I needed somewhere to store the ghouls while I waited for you.”
+
+“How did you... no, it doesn't matter.” The healer said and started to walk up the stairs. “Let's get to work!”
+
+The assistant healer followed the healer up the stairs, and Ren turned to the carriage.
+
+“This shouldn't take long.” Ren said. “Have you eaten yet?”
+
+The 2 guards and the driver shook their heads, and Ren took out his icebox. He picked a plate of food and used his Burning Hands and Fire Manipulation abilities to warm the food instantly, and handed it to the driver. He did this twice more, and stored the icebox.
+
+“Thank you, sir.” The driver said and started to eat. “This is delicious!”
+
+“Free food always tastes better.” One of the guards said, and that made the others laugh. Ren left them and ran up the stairs to protect the healer and her assistant, activated his Reassurance Aura, and they sorted through the ghouls to find the ones that needed immediate healing.
+
+“I can't thank you enough for this.” Ren said, and the healer laughed as they started treating the ghouls.
+
+“Healing is its own reward.” The healer said and turned to her assistant. “We're going to need more herbs.”
+
+“I'll get them.” She said and ran from the upstairs ward.
+
+“I'd like to learn your brand of healing.” Ren said, and the healer chuckled.
+
+“It would take years for you to pick up the subtleties.” The healer said. “My assistant is doing so well because she's literally grown up learning at my side.”
+
+“She's your daughter?” Ren asked, and stopped an overactive ghoul from darting forward and grabbed it by the throat and held it still. The healer applied her Mana to it, and it calmed down. It's ghoul-like facial features smoothed out a little, and it smiled. Ren let it go, and it sat down right there and didn't move.
+
+“Both physically and spiritually.” The healer said, and the daughter came back with more supplies.
+
+“Having all this Mana is so great!” The healer's assistant said. “We can grow these herbs instantly!”
+
+“We really should thank you again for these bracelets.” The healer said.
+
+“No thanks are necessary.” Ren said. “Look at all the work you're doing with them for me.”
+
+The healer and her daughter smiled.
+
+“I'll have the other High Elves out of your way soon.” Ren said. “I'll be building a city for them to live in.”
+
+“King Alamast won't like having a High Elven city in the Human Kingdom.”
+
+“Oh, I'm not building it here.” Ren said. “It's going to be in the no man's land between the kingdoms.”
+
+“Good luck.” The healer said. “I hope you plan on bringing lots of food to them, since nothing can grow out there.”
+
+“I have a plan.” Ren said and looked at the ghouls. “Your healing is getting powerful if you can keep them all calm like this.”
+
+“It's one of the tricks healers learn during their last year of study.”
+
+“Wait, last year of study?” Ren asked. “Shouldn't calming people be the first thing you learn?”
+
+The healer laughed. “I know it seems backwards, but if you calmed people down before learning what was wrong with them, you could miss something.”
+
+Ren opened his mouth to say that didn't make sense, then he looked at the calm ghouls.
+
+“It lets you learn to deal with all kinds of ailments and unruly patients.” The healer said. “When you learn to calm them down, they might not tell you everything that's wrong.”
+
+“I guess that does make sense.” Ren said. “I will leave all of this in your capable hands.”
+
+“Oh, before you go.” The healer said and turned to her daughter. “Give him the message from the Princess.”
+
+The healer's assistant came over to Ren. “Can you store your armor?” She asked, and he equipped his Travelling Clothes. She bent over slightly, and wrapped her arms around his neck. “Princess Diana thanks you for helping to save her...” She stopped talking and chuckled. “...I can't say.”
+
+Ren smiled and hugged her back. “Thank you.”
+
+“She also said when you bring the carriage back, to wait by the back gate.” The healer's assistant said as she let him go.
+
+“Did she say why?” Ren asked.
+
+“She said she wanted to see you in person, and not through her window.”
+
+Ren smiled. “Let me guess, her room is at the back of the castle.”
+
+“That was a good guess.” The healer chuckled. “She saw us arrive in your unique way.”
+
+“Well, I did promise to introduce my mount to her.” Ren said. “I guess I can go and do that right now.”
+
+“That should make her very happy.” The healer said. “Maybe she'll give you another hug.”
+
+Ren walked over to the door. “I'm actually a little surprised she didn't ask you to give me a kiss instead.”
+
+“She did.” The healer said. “My daughter is a bit too shy to give it to you.”
+
+Ren looked at the young woman, and her face was flushed a little red. “I'm sorry she put you in that position.” He said. “I won't claim it from you, especially if you haven't given any to the one you care about.”
+
+The young woman's face flushed even darker, and Ren knew he had guessed correctly. So, he walked across the room to the healer.
+
+“You shouldn't ask others to do what you aren't willing to do yourself.” Ren said, and he felt shock from both women, and from a few of the ghouls that were starting to come back to themselves. The healer's face went just as red as her daughter's.
+
+“Get out of here.” The healer said and turned back to the ghoul she was working on, and he could feel her embarrassment. “I'm at least 20 years older than you.”
+
+“Do you want me to tell Princess Diana that you wouldn't deliver her message?” Ren asked.
+
+The healer's face went to a deep red, and she sighed. “Why are you doing this?”
+
+“I want your daughter to see that a kiss can be just a kiss, and it doesn't have to have a deeper meaning.” Ren said. “It definitely can, that's for sure; but, it can be used casually, too.” He smiled. “Between friends, colleagues, and the like... it can be used like a handshake.”
+
+The healer shook her head. “When you kiss someone, it should mean something more than a handshake.”
+
+“Well, in this case, you should be trying to convey Diana's feelings of gratitude to me.” Ren said. “This kiss is not for yourself. It's for her.” He said. “In some circles, a quick kiss on the cheek or on the lips is a sign of respect, comradeship, and friendship.”
+
+The healer turned to Ren. “You aren't going to let this go, are you?”
+
+“You know she's going to ask about this.” Ren said and took two steps up into the air to make himself similar in height. “I don't want you to lose respect in her eyes for not completing her request.”
+
+The healer looked at her daughter. “This is not a romantic kiss at all.” She said, and the daughter nodded.
+
+“I can make it easier on you if you want.” Ren said. “I can cast Charm Person on you.”
+
+“No, that won't be necessary.” The healer said. “I won't break my word to the Princess.” She said. “Now pucker up.”
+
+Ren chuckled and held his arms open. The healer raised her eyebrows at the motion, then sighed and stepped into his embrace.
+
+“Princess Diana says thank you.” The healer said and closed her eyes as she pressed her lips to his. Ren felt her emotions spike at the intimate contact, even though it wasn't supposed to be that way. He was unable to resist teasing her, so he began to use his expertise to move his lips and kissed her back. She responded appropriately and moved her lips as well, and her arms wrapped around him. They stayed that way for several moments, and Ren felt her start to realize what she was doing. He broke the kiss and looked at the healer's surprised expression.
+
+“Thank you M'lady.” Ren said. “I'll let Princess Diana know that you delivered her feelings appropriately.”
+
+The healer didn't say anything as she let him go, and Ren smiled as he leaned back in and kissed her cheek.
+
+“I'll be back in a day or so to pick up the High Elves that can be sent home.” Ren said and let her out of his embrace. “I should have a place ready for them by then.”
+
+The healer nodded wordlessly, and Ren took two steps down to the floor and walked over to the door.
+
+“You... you cast Charm Person.” The healer managed to say as Ren opened the door.
+
+“You would have felt it if I did.” Ren said and activated his Awesomeness Aura. Both the healer and her daughter gasped as the Aura covered them, and all of the ghouls turned their heads to look at him. “I need this active to cast the spell.” He said and then deactivated the Aura. Both women sighed, as did several of the ghouls, and Ren gave them all a small wave and left. He ran down to the carriage and collected the three empty plates as he told the driver and guards to hold on. He mounted the saddle on Princess' back, and then Princess hauled the horses and carriage up into the air and disappeared.
+
+*
+
+“Oh, wow.” The healer's daughter / assistant said after Ren had left. “Mom, are you sure that wasn't a romantic kiss?”
+
+“L-like he said.” The healer turned away to continue healing the ghoul nearest her. “I was only conveying the Princess' feelings.”
+
+No one said anything for several minutes as they both got back to work.
+
+“I think I... I regret that I didn't convey the Princess' feelings to him, too.” The daughter said.
+
+The healer blushed deeply, because despite her reluctance to do it at first, she didn't regret it at all. Young people these days. She thought, and then she smiled.
+
+*
+
+Princess and the carriage arrived at the back of the castle a couple of minutes later, and she landed next to the back gate. Ren hopped off of Princess and unhooked the horses and carriage, and bid the driver and guards a good day. They drove off down the street and around the corner, and Ren walked over to scratch Princess' chin.
+
+“How long do you think we should wait?” Ren asked her.
+
+“Until she shows up, of course.” Princess said. “I want to meet her.”
+
+Ren chuckled and equipped his stylish red suit. “Then wait here we shall.”
+
+*
+
+Princess Diana had stayed by her window and waited patiently for the royal carriage to be brought back, and when she saw it pass by behind the castle, she jumped from her perch at the window and ran across her room and out the door.
+
+“Princess!” A handmaiden exclaimed as Diana barely missed running into her.
+
+“Sorry!” Diana said and ran down the hall to the stairway. He's going to wait. He's going to wait. She said to herself, over and over as she ran down the stairs. They were wide enough that she could plant her entire foot on each step, and her toes barely grazed them as she went quickly down them. She reached the bottom floor and ran down another hallway to the servant's quarters.
+
+“Your highness!” One of the kitchen staff exclaimed as he jumped to stand next to the wall. She ran past him without an apology, since he had seen her in plenty of time to move out of the way. She went through 2 more doors and another hallway, then reached the back entrance. She slowed down and took several deep breaths to calm down.
+
+He's going to be there. Diana thought and opened the door. She looked over to the spot by the back gate, and didn't see him. “Oh, no!” She nearly yelled and started to run, and then 2 heads popped up over the back wall. An armored ram's head with large horns and a smaller head with blonde fluffy hair looked over at her.
+
+*
+
+“Hello, Your Highness.” Ren said when she was close enough to hear him. “Is everything all right?”
+
+“Y-yes.” Diana said, a little breathlessly as she stopped 10 feet away from the wall. “I didn't see you... and thought you... had left.”
+
+“This wall is too high to see over.” Ren said and walked up and over it. “I would have at least sat on top of it, if I thought you were coming out the back of the castle.”
+
+Princess walked up and over the wall as well, and Ren pat her.
+
+“Your Highness, this is Princess, my loyal and indispensable mount and friend.”
+
+“His name is Princess?” Diana asked, her voice full of concern and disbelief.
+
+Ren laughed. “No, Your Highness. Princess is female.”
+
+“Oh! That makes a lot more sense.” Diana said and stepped forward. “The large horns threw me.” She said and looked at the mount. “It's nice to meet you.”
+
+“It's nice to meet you, too.” Princess said, and Diana gasped in shock.
+
+“By the way, Princess can talk.” Ren laughed and scratched her chin. “Now she's met three princesses from three different cultures.”
+
+“Thank you, My Lord.” Princess said.
+
+“It... it's not a trick?” Diana asked. “She's really talking?”
+
+“Once she donned her new armor, we both had the same thought to cast Permanent Magic Mouth on her.”
+
+“P-p-permanent?” Diana said in wonder. “The spell casters in father's employ said the Mana cost is unbelievable to make something Permanent.”
+
+“A specialized Level 5 spell like that should be Mana intensive.” Ren smiled. I use wands instead, though. No casting required. He thought.
+
+“I'm tempted to ask you to cast it on my horse.” Diana said.
+
+“It would probably only say 'neigh'.” Ren chuckled. “I cast it on my dogs and asked them a question, and all they said was 'bark'.”
+
+“Oh, that's funny!” Diana said and laughed. “Speak, boy! Bark! Ha ha!”
+
+Ren laughed, too. After a few moments of shared amusement, he spoke.
+
+“May I ask why you wanted to see me?” Ren felt her emotions shift to seriousness. “The healer gave me your thanks already.”
+
+“T-the healer did?” Diana asked, surprised.
+
+“Her assistant hugged me, but was hesitant to kiss a strange man.” Ren said. “Of course, so was the healer.” He smiled. “She didn't want to disappoint you, so she forced herself to do it.”
+
+“You... you kissed...” Diana turned away so he wouldn't see her face. He kissed a much older woman instead.
+
+Ren felt her emotions change again, and wondered why. “Why did you want the assistant to do it?” He asked, and he felt her surprise as she turned back to him.
+
+“I... I assumed she... didn't have a lot of experience...” Diana said.
+
+Ren felt she had left something unspoken. “That's not all, is it?”
+
+“I...” Diana looked down at her Amulet of Truth. “I assumed she was like me.” She said. “I don't have a lot of experience, either.”
+
+“You thought I would be comparing her to you?” Ren asked, and she nodded without looking up. “Does that mean you asked me here for a kiss?”
+
+Diana sighed. “You saved my mother.” She looked up at him. “Above everything else you've done for this kingdom, including saving my life, helping me help save father's heart matters to me the most.”
+
+“Your Highness...”
+
+“The healers said if you hadn't brought them so quickly, it might have been too late.” Diana said and tapped her amulet. “I thought they were exaggerating, until they told me the gestation time to either turn or... or die.”
+
+Ren felt her sorrow at the thought of losing her mother, and her gratitude that she hadn't.
+
+“I wanted to thank you.” Diana said, then closed her eyes. “But... but, if you just kissed an experienced woman, I... how am I ever going to compare...”
+
+“Every kiss has it's merits.” Ren said. “Every woman has her charms.”
+
+“B-but...”
+
+“I just explained all of this to the healer.” Ren said and stepped close. “Sometimes a kiss is just a kiss. A sign of friendship and respect.”
+
+Diana opened her eyes and looked at him. He was still shorter than her, and then he took one step up into the air. She looked down and saw his feet were 6 inches off the ground, and she looked back at his face that was now at the same height as hers.
+
+“A thank you kiss can be just that. A thank you.” Ren said. “The healer really did convey your thanks, so you don't have to do this.”
+
+“I... I want to.” Diana said. “You've done nothing but amazing things since we've met.”
+
+“There's no room in my life for another relationship.” Ren warned her. “This is only going to be a kiss, nothing more.”
+
+“J-just like with the healer?” Diana asked.
+
+“No, I can feel how eager you are.” Ren said. “It's... kind of intoxicating.”
+
+“You can feel my emotions?”
+
+Ren nodded. “I have the Emotion Siphon ability.”
+
+“Then... you... you know, I...”
+
+“Let me take some of that from you.” Ren said. “You can't let it distract you.”
+
+“I... no, you can't have it.” Diana said, and he felt her resolve. “I won't let my feelings for you distract me.”
+
+“It's distracting you now.” Ren smiled.
+
+“Only because I'm letting it.” Diana said and smiled back.
+
+“As long as you know the difference.” Ren said.
+
+“I do.” Diana put her arms around him. “Now kiss me so I can thank you for saving my mother's life.”
+
+Ren gave her a nice gentle kiss, and he felt her emotions expand at the touch of his lips. They didn't overflow like he thought they would, though. They were tempered and compressed, and held in check with a strong will. He admired her restraint, and then Diana broke the kiss and looked him in the eyes.
+
+“Thank you for helping my mother.” Diana said.
+
+“Would she have kissed me like that?” Ren asked, jokingly.
+
+“Yes.” Diana said. “That's the same kind of kiss she shares with my father.”
+
+Ren felt her will ease off from holding her emotions in check.
+
+“You know, I never properly thanked you for giving me this Amulet of Truth.” Diana said, and let her emotions rule her lips as she kissed Ren again.
+
+Yeah, she knows the difference. Ren thought in amusement as he kissed her back.

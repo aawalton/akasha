@@ -1,0 +1,197 @@
+---
+id: b115e9c9-1102-535d-9829-5cebaea599b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65 Underlayer"
+slug: 0070-chapter-65-underlayer
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 70
+ownLength: 1915
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3440589/chapter-65-underlayer"
+royalRoadId: "3440589"
+---
+
+His meeting with Joren had ended earlier then he had anticipated. He moved along the main path at an even pace, his steps carrying him toward the southern palisades.
+
+It had been more than a few weeks now since the refugees that had fled both the eastern villages and Cragwatch had arrived in Ashridge.
+
+The southern treeline no longer pressed close against the village.
+
+There was space between it and the palisade now, the distance enough that light reached farther across the ground, casting shadows over the uneven stretch where trees had once stood.
+
+His gaze moved across the inner stretch of the southern palisade before spotting a familiar figure near its edge.
+
+Harlon was amongst a small group of men, his broad frame easy to pick out even at a distance. He held a length of timber upright while another secured it into place.
+
+He adjusted his course toward the carpenter, only for a familiar figure to catch his attention before he had taken more than a few steps.
+
+Sera approached across the open ground within the palisade. Her hunting bow remained gripped in her left hand while a small deer hung from the other, its body limp.
+
+The fur was darker than what he remembered, though the shape was close enough for him to recognize it
+
+Having already noticed him, she slowed before stopping near him.
+
+His eyes shifted briefly toward the deer hanging at her side before he gestured toward it. “...A better hunt than expected?”
+
+She gave a small nod in response before her head tilted slightly, as though waiting for something further.
+
+He studied her briefly before he spoke. "Did someone ask you to go hunting, Sera?"
+
+Sera shook her head firmly, her eyes drifting toward the direction beyond the palisades.
+
+Following the movement briefly, Lucien glanced toward the tree line beyond the outer road. "You enjoy being outside?"
+
+Slowly, she inclined her head before her eyes returned toward him.
+
+It didn’t seem like his concerns were becoming reality yet. If Sera had gone hunting by her own choice, then that was still fine for now.
+
+The deer hanging from her hand drew his attention again. “The sinew. Do you know how to process it?”
+
+Her head tilted again, though this time the motion was smaller.
+
+At the sight of it, Lucien folded his arms behind his back. “Which parts are usable and the method for how to do so.”
+
+She held his eyes for a breath before giving him a firm nod.
+
+Lucien returned the gesture. “I will need it for a bowstring, and it has to be able to hold a high draw strength.”
+
+He glanced briefly toward the longbow at her back. "As high as you can find while still accounting for how difficult the animal would be to hunt over time."
+
+Sera’s eyes followed the motion, her hand shifting against the deer as her fingers pressed once along the hind leg before she nodded once in agreement.
+
+The immediate nature of the response made Lucien’s brow crease faintly before he clarified.
+
+"You only need to hunt one first. Once we have confirmed the initial piece, you can show the other men how to process it."
+
+Another slight tilt followed at his words as she looked at him in consideration.
+
+Lucien exhaled softly through his nose. "We will need more if the coming tests proved successful. You only need to be involved in the initial stages."
+
+Her gaze lingered on him for a moment longer before she gave a small nod and turned toward the manor, leaving him where he stood as his eyes remained on her back.
+
+The process itself would take time. The sinew needed to be stripped clean, separated, and dried before it could be shaped into a bowstring capable of holding such tension.
+
+Lucien shook his head lightly before he turned to walk toward the carpenter.
+
+Harlon did not look up immediately as he approached, his attention still on the post being set. “That other girl of yours just left,” he said, his tone edged with faint amusement.
+
+He shot the carpenter a dry look. It seemed his reputation had taken on a life of its own by this point. There was little to be gained in attempting to correct it.
+
+“Did she ask for more than you could afford to give?” Lucien asked instead, deliberately letting the matter pass. “The houses for the new villagers are still being raised.”
+
+A short huff escaped Harlon's mouth at his words, one hand still steadying the post as the other man worked it into place. “She knew that. Didn’t ask for more than what could be done. Paid for it before we even began too.”
+
+That was something he had expected of her. Despite her easy tone and casual manner, Talia knew how far she could go before it became too much.
+
+Lucien’s gaze settled on the timber briefly before he spoke. “I just spoke to Joren about the crossbow.”
+
+The carpenter gave a short grunt, his grip still firm against the post. “He told you about the tests we did?”
+
+Shaking his head lightly, Lucien cupped his chin. "He only mentioned that the pull wasn’t clean, nothing detailed beyond that."
+
+A small huff followed as Harlon adjusted the post in his grip, testing the weight before he spoke again. “...That grump’s too eager because of the iron ores that came in recently.”
+
+“We tested it a few days back. So far, the stock sits right and it doesn’t twist when it’s drawn. But like Joren said, the pull’s uneven and you feel it when you set your foot down on the stirrup.”
+
+He shifted the timber slightly in his grip. “It’s the bow causing it. Once we stop working with scraps and make a proper piece, it should pull cleaner.”
+
+Nodding to himself, Harlon stepped back, turning to face him fully. “The string won’t last, Lord.”
+
+His gaze flicked briefly in the direction Sera had gone before returning to the work. “You spoke to her about it? Most of the men who hunt on the side don’t know how to work sinew proper.”
+
+At the older man's words, Lucien's brow creased faintly. “Yes. But only for the first piece. She will teach the process to the other men after we are done testing it.”
+
+Harlon’s gaze rested on him for a moment longer than before. “I’ll let the men know after that then.”
+
+“And how goes the progress of the outpost?”
+
+The carpenter glanced toward the southern palisade gates. “Sent a few men out toward the ridge at first light and Garrick walked them through the lower fold.”
+
+His eyes remained on the distance beyond the walls as he continued. “Ground’s holding for now, but it won’t stay that way once the thaw sets in.”
+
+Lucien followed the line of his gaze, the rise of the land faint beyond the cleared space. “How far did they go?”
+
+“Up to the marked cut,” Harlon replied simply. “Cleared a bit of the forest along the way. Not much more than that.”
+
+Lucien inclined his head once. That matched what he had arranged before leaving for Helvarn, though the ridge remained too exposed for extended work after dark.
+
+“No one stayed out there past daylight?” he asked, just to be sure.
+
+Harlon gave a short nod. “We kept to daylight work only. Dorian had two guards escort the workers there as well but the clearing work's been slow because of it.”
+
+Gesturing toward a location that gave a better view of the ridge, Lucien began walking as he spoke. “Can the foundation lines be marked before the thaw finishes?”
+
+Harlon fell into step beside him as he replied. “It already is. Garrick set the line and the men followed it.”
+
+As they continued along, Lucien’s gaze lowered briefly to the ground beneath them, where the frost had begun to give way in patches.
+
+Harlon’s breath left him in a short exhale. “I sent six men to start on it after you left. We rotated them too.”
+
+“And the ground at the ridge itself?” Lucien asked after a moment.
+
+The carpenter’s eyes drifted toward the distance, his expression settling as he weighed the question.
+
+“Not yet.”
+
+His hand went to stroke his beard briefly. “Two weeks, maybe a little more. Then we can start laying something that won’t shift under its own weight.“
+
+Lucien acknowledged it with a small nod, the timing aligning with what he had expected.
+
+Even so, the current route would remain difficult for moving materials until the thaw fully receded.
+
+As they passed by a group of men working on another cottage, Lucien glanced briefly toward the ridge before returning his attention to the older man.
+
+“There was another path Sera had noted. Closer to the base.”
+
+At his words, Harlon came to an abrupt stop, prompting Lucien’s brow to lift slightly as he slowed beside him.
+
+The nearby workers glanced toward them for a brief moment before returning to their work.
+
+A faint curse slipped from him. “That place..."
+
+Lucien’s eyes sharpened at the unusual reaction. “What about it?"
+
+Harlon shifted his stance, his gaze returning toward the ridge, more wary now than thoughtful. “You don’t run men through there, Lord. Not unless you have to.” A brief pause followed before he added, more flatly,
+
+“Mana gathers there.”
+
+Lucien did not respond immediately, careful to keep his expression unchanged as he weighed the implication behind the word.
+
+“…Mana,” he repeated slowly.
+
+Instead of responding, Harlon reached into his pouch, drawing out his pipe. He tapped it lightly against his palm, emptying what remained within. The contents fell loose, flecks of dried herb, faintly reddish even in the dull light.
+
+“Grows there,” he said, more to the action than to Lucien. “Only place you’ll find it.”
+
+He worked the pipe absently as he continued. “One of the men who likes to hunt often brings it in now and then...but it's not worth going near that place yourself.”
+
+Lucien’s gaze lingered briefly on the crushed remnants before lifting again.
+
+He and Talia had spoken of it before, something acknowledged but kept at a distance, whereas here it was spoken plainly as clear as day.
+
+Setting the thought aside for now, Lucien shook his head lightly. “Keep them clear of that path then," his tone deliberately kept casual.
+
+Taking that as a dismissal, Harlon dipped his head before he walked toward the nearby group of workers, speaking quietly to them.
+
+Leaving the worksite behind, Lucien made his way back along the inner path of the palisade as his thoughts lingered on what had been said.
+
+Mana.
+
+Magic remained one of the few aspects of this world he still lacked a proper framework for.
+
+He did not dwell on it further, there were other matters to attend to.
+
+Lucien continued along the inner edge of the palisade, the movement of the village thinning as he approached the storage grounds.
+
+The usual noise from the village dulled against timber walls and packed earth, leaving behind a quieter stretch where goods were stored beneath watchful eyes.
+
+As he neared the sheds, his attention shifted toward the structures ahead before catching on a figure near the entrance.
+
+Dorian remained near the entrance, his posture lacking its usual readiness.
+
+That alone would not have drawn notice as he came to a stop a short distance from him.
+
+The captain was not wearing his armor.
+
+That, more than anything, gave him pause.

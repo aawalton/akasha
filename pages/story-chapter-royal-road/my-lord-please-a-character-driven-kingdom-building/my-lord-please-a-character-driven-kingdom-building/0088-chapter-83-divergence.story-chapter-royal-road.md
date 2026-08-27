@@ -1,0 +1,207 @@
+---
+id: e0be356e-8ad0-5d09-b37b-88d2a4a67b95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83 Divergence"
+slug: 0088-chapter-83-divergence
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 88
+ownLength: 1983
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3576241/chapter-83-divergence"
+royalRoadId: "3576241"
+---
+
+When they returned to the guards, Lucien gestured for them to move farther away from the area.
+
+Once they had put some distance between themselves and the clearing, their condition visibly improved. The grey-haired guard's color returned quickly, while the younger guard held himself upright almost at once.
+
+He slowed and glanced back. "Are you both well?"
+
+The older guard gave a nod. "Yes, My Lord. It has passed."
+
+Beside him, the younger guard had already composed himself. He saluted, one hand still holding the reins. "I am fine as well, My Lord."
+
+Lucien studied them for a moment before inclining his head. "Very well. We will head back to Ashridge at once. I think that is enough excitement for one day."
+
+They dipped their heads a touch too quickly at his words.
+
+The forest gradually opened as Sera led them along the same path they had taken in. The undergrowth thinned, the ground grew firmer beneath their steps, and above them, the canopy began to break, allowing more light to filter through.
+
+Before long, the narrow game trails gave way to the unfinished ridge road.
+
+The first signs of civilization came in the form of cut branches stacked along the sides of the path, followed by the faint tracks of carts that had passed through not long ago.
+
+The younger guard stepped forward to bring the horses closer, steadying them as they found firmer footing.
+
+Taking the reins the younger guard offered him, Lucien mounted his horse. Sera followed soon after, stepping in close before pulling herself up behind him with ease. Her weight settled lightly, one hand bracing against him as she adjusted her seat.
+
+After passing the remaining reins to the grey-haired guard, the younger guard mounted as well.
+
+Lucien gave a small nod.
+
+“Let us be off. We should be back in time for a late lunch.”
+
+With that, the small group turned their horses and made their way back toward Ashridge. As they rode on, the trees began to thin, their branches giving way to wider stretches of sky, and the path beneath their horses’ hooves grew more defined with each passing stretch.
+
+For a time, only the sound of hooves against packed earth accompanied them.
+
+Their ride back to Ashridge had settled into something more mundane compared to just a while ago in the forest. The tension that had lingered in the air from the clearing had slowly bled away with distance, though not entirely.
+
+Lucien’s gaze remained forward, though his thoughts were on the clearing they had left behind.
+
+The first thing that had caught his attention had been the grass. It had looked as though it simply refused to grow any further, every blade stopping at the same length.
+
+The glow in the herbs, while unusual, was less surprising. Bioluminescence had existed in plants even in his former world.
+
+Then there was the way the guards had been affected.
+
+Behind him, he could hear the younger guard shift carefully in his saddle, as though testing his own condition without drawing attention to it. The grey-haired man remained silent, though the strain had largely left his posture.
+
+His sworn guards were hardy, healthy men, yet within moments of approaching the clearing, their condition had visibly deteriorated simply from standing near the place.
+
+If there were lingering effects, they would show themselves soon enough.
+
+Sera, by contrast, remained unchanged. Her presence behind him was light, almost absent if not for the faint shift of weight whenever the horse changed its pace.
+
+Back in the clearing, there had been no hesitation in her movements, nor had he seen any visible discomfort even while they stood within it. Her written words had said “a little,” but how much that truly meant, he couldn't tell.
+
+He had no frame of reference because he himself had felt nothing at all.
+
+If his own lack of reaction could be attributed to his origins, then hers was harder to explain.
+
+As they were leaving the clearing, Lucien had taken a small risk and gathered a handful of the red herbs himself. Talia would likely want to test them and compare their properties with the red potion she carried.
+
+It seemed the two of them would have much to discuss later.
+
+The first signs of Ashridge appeared not long after.
+
+Faint at first, little more than thin strands of smoke rising above the treeline. Then came the outer paths, followed by the distant movement of villagers going about their day.
+
+By the time the palisade walls came into view, the light had softened, the day already leaning toward late afternoon.
+
+The guards stationed there straightened as their party approached. One stepped forward, dipping his head.
+
+“My Lord.”
+
+He inclined his head as they rode through the gate.
+
+The quiet of the forest gave way to the muted rhythm of village life. Voices carried across the open space, while the sound of tools striking wood and stone rang out at regular intervals. The air itself felt warmer, touched by the scent of cookfires and worked earth.
+
+A few villagers paused as they passed, offering bows or greetings before returning to their errands.
+
+Lucien guided the horse along the central path, the manor coming into view not long after at the heart of Ashridge.
+
+They reached the courtyard, and he dismounted first. Sera landed lightly beside him without assistance. The guards followed a moment later, the younger one moving to gather the reins while the grey-haired man straightened.
+
+Lucien’s gaze settled on the two of them. “You are both dismissed for the remainder of the day. Take the time to rest.”
+
+The older guard hesitated briefly, then nodded. “As you command, My Lord.”
+
+The younger guard dipped his head, his grip on the reins tightening for just a moment before relaxing.
+
+Lucien studied them for a moment longer. “Report to Dorian tomorrow. I want to know if there are any lingering effects.”
+
+“Yes, My Lord.”
+
+With that, the two guards led the horses to the stables.
+
+Lucien turned toward the manor entrance, Sera falling into step at his right as they made their way inside.
+
+In the dining hall, Alicia had already prepared the meal. She stood near the table, hands lightly clasped before her apron.
+
+At the sound of their steps, she looked toward the entrance. Relief softened her expression for a brief moment before she composed herself, offering a gentle nod in greeting.
+
+Talia stood nearby, leaning just a little too close to the table with her attention very clearly on the food.
+
+Alicia's hand drifted toward one of the dishes. Without taking her eyes off Lucien and Sera, she spoke softly.
+
+"...You said we should wait."
+
+Talia let out a chuckle. “I am waiting. I’m just...making sure the food is alright!”
+
+Only then did her eyes flick up to Lucien, a small smile forming almost immediately. “Ah, Lord Lucien. You’re back. How was your trip to the ridge?”
+
+She straightened just enough to look presentable. “And what did you find at that place? Anything interesting?”
+
+Alicia stepped forward and gave a small curtsey. “My Lord. Sera. Welcome back.”
+
+Her gaze moved over Lucien briefly before shifting to Sera, checking her condition as well. “I am glad the two of you are unharmed.”
+
+Lucien gave a small nod. “I hope we have not kept you waiting for lunch.”
+
+Before Alicia could reply, Talia cut in.
+
+She looked at him with a small, knowing smile as she spoke. “If you did, you can make it up to me by letting me have the best portion this time.”
+
+Lucien’s gaze shifted to her briefly. “That honor belongs to Sera. She actually did the work today,” he replied, a dry note in his tone.
+
+Talia let out a soft gasp, one hand rising to her chest. “I’ll have you know I was busy preparing the kilns to be moved. Being covered in soot in the morning isn't exactly pleasant.”
+
+Alicia cast her a brief look.
+
+“Lady Talia…”
+
+Talia raised both hands in surrender. “Alright, alright. Sera gets the first pick.” Her gaze flicked between them again. “But you both look fine. So the place wasn’t as dangerous as we thought?”
+
+Sera had already moved ahead, setting down the satchel containing the herbs that they had gathered down beside Talia.
+
+Accepting the plate Alicia offered with a small nod, she went directly to her usual seat near the window, where a chair had been left for her.
+
+Lucien exhaled softly through his nose as he walked over at a more unhurried pace, taking his seat across from Talia.
+
+“That remains...uncertain. We brought back some of the herbs, so perhaps we might learn more after testing them.”
+
+Talia looked as though she wanted to do so immediately, her hand already reaching for the satchel before she let out a light sigh and drew it back.
+
+"It probably won't be anytime soon, Lord Lucien. Ashridge only has one potter and he's busy enough that even if I paid well, it would take some time."
+
+Shaking her head, she looked back at him. "So, what did you observe from the place, Lord Lucien? Anything to take note of?"
+
+Lucien gestured lightly toward Sera. “While Sera was right that the place wasn't dangerous...the guards felt weakened the closer we came to it. Sera mentioned she was affected as well, though only slightly.”
+
+Alicia, who had just set his plate down, froze at his words.
+
+Her eyes immediately went to Sera.
+
+Sera, for her part, continued eating as though nothing was wrong.
+
+The maid watched her for a few moments longer before her shoulders eased, the tension leaving her posture.
+
+Talia’s gaze sharpened as she leaned forward, one hand resting against her chin. “So there was a difference in the reaction?”
+
+She speared a piece of meat from her plate and lifted it toward her mouth before catching Alicia's look of disapproval.
+
+Talia lowered her hand sheepishly before coughing lightly. “Hmm...your household guards are from the heartlands, right? Could it be that people from the frontier are more resistant to areas infused with mana?”
+
+Lucien gave a small nod of thanks as Alicia set a cup of coffee before him. Once she had returned to her usual place beside the table, he looked toward her.
+
+"Perhaps. Alicia, did those who gathered herbs for Harlon experience any discomfort?"
+
+Alicia tilted her head as she considered the question. “I heard from father that they are paid well...but they also try to rotate the work so no one goes twice in a row.”
+
+Her gaze lowered in thought. “My father wanted to try once, but decided against it after speaking to one of the men.”
+
+Lucien cupped his chin before he spoke. “How about lasting effects?”
+
+The maid shook her head. “I don't think anyone would volunteer if something serious happened to those who went, My Lord.”
+
+Talia hummed softly, her head still tilted, fingers tapping lightly against her cheek.
+
+“So the villagers likely experienced the same effects as your guards...which means it's not some sort of resistance based on region.”
+
+She picked up her fork again and took a bite, chewing a little too casually, drawing a faint crease across Alicia's brow.
+
+Lucien caught the subtle shift in Talia's gaze as it met his own. She made no mention of him, and when she gave him the slightest wink, he understood immediately.
+
+He gave the slightest nod in return.
+
+Alicia stepped forward, placing a cloth neatly beside Talia.
+
+“Lady Talia, please mind your manners in front of Lord Lucien,” she reminded her gently even as she refilled her cup.
+
+Talia covered her mouth as she finished chewing. “Sorry, Alicia.” She swallowed, then continued without missing a beat. “Anyway...if it's not regional, then what makes her—”
+
+She gestured lightly with her fork toward Sera, who was already waiting patiently for another plate.
+
+“—different from everyone else?”

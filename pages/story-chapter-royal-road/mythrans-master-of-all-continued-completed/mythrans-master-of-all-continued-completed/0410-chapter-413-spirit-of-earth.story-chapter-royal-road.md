@@ -1,0 +1,303 @@
+---
+id: 147904bf-f84f-5176-b19b-c65506e136df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 413 - Spirit Of Earth"
+slug: 0410-chapter-413-spirit-of-earth
+partOf: mythrans-master-of-all-continued-completed
+position: 410
+ownLength: 3736
+unit: words
+publishedAt: 2017-11-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172457/chapter-413-spirit-of-earth"
+royalRoadId: "172457"
+---
+
+About 10 minutes after Elise's phone call for help, 4 police cars, an FBI sedan, a pizza delivery truck, and a rusted out minivan arrived at Emerald Estates. It was almost comical as they tried to jockey for position for who got to go through the gate first. The security guard didn't know what to do, until Agent Smith ordered him to open the gate. The FBI always took precedence.
+
+The other vehicles swarmed through after them and they all parked in and around Ren's house. At least they had turned off their sirens and lights before approaching the property. The various members of 4 different organizations piled out into the driveway, and Agent Smith got their attention.
+
+“This isn't just a trespassing case.” Agent Smith told everyone. “It was attempted murder of the home owner, who just happens to be an important witness for several trials currently being fought in the courts.” He explained. “Both the court cases and he are worth millions of dollars, so I want this guy under their house captured.”
+
+“I can't argue jurisdiction, can I?” One of the police officers asked.
+
+“You don't have to. Believe me, there's enough of this mess for everyone to have a share.” Agent Smith said, and the pizza delivery guy nodded. “Spread out, and let's get this guy.”
+
+They spread out and positioned themselves at all the possible exits. Agent Smith waved to give the go signal, and they all entered the crawl space at the same time and yelled at the man to freeze.
+
+The man had been so focused on watching the internals of the house that he had ignored the external security cameras, much to his folly. He raised his hands in surrender at the first shout, and he couldn't even tear out his expertly hacked camera feed before they tackled him and had him in hand cuffs.
+
+*
+
+“They got him!” Elise exclaimed, and realized that no one could hear her. She ran out of the panic room and it shut behind her, and she took the elevator back down to the second floor and ran to Ren's room. “They got him.” She said to Stella and Barbara, and the two women sighed in relief. Elise had told them about the perpetrator after she had called 9-1-1, and it had been difficult for them to remain calm while someone was under the house.
+
+No wonder Ren didn't want a basement. Stella thought. “I wonder how long he's been there.”
+
+“About 2 weeks, according to the security footage.” Elise said. “He doesn't show up on the cameras before that.”
+
+Stella blinked her eyes for a moment as she thought about the timeline. “Oh, no.”
+
+Elise nodded. “Ren was right. Once the police found him, everyone would know where he was.” She took a deep breath and let it out. “Don't worry. I've already called a security firm. Ren will have round the clock protection from now on.”
+
+“How is he going to pay for that?” Barbara asked.
+
+“He's not.” Elise said. “We're sending the bill to the lawyers, to add to the court costs for the cases where Ren needs to take the stand.”
+
+“Oh, that's brilliant.” Stella said and smiled. The doorbell rang, and Elise said she would get it.
+
+“I'll stay with Ren.” Barbara said, and Stella went with Elise to the front door.
+
+“Good evening.” Agent Smith said. “Can we come in?”
+
+“No.” Stella said. “The owner is indisposed at the moment, and we can't give you permission.”
+
+The agent frowned. “We just caught a criminal spying on him, and he won't even come to the door?”
+
+“He was seriously hurt in the attack a few days ago and is bedridden.” Elise said.
+
+“Even if he wasn't, I wouldn't get him out of bed just to come down here.” Stella said. “You people should have been watching this place as soon as you knew about it.”
+
+“We were.” The other Agent Smith said.
+
+“Then how did that guy get on the property?” Elise asked.
+
+“He's the gardener.” The first Agent Smith said. “He's dressed as one, anyway.”
+
+“I've seen him once or twice.” Stella said. “He never came anywhere near the house while I was here.”
+
+The agent smiled. “That's a telltale sign right there. He was nervous about approaching with people around.”
+
+“So, where is he?”
+
+“We're taking him to the local precinct for interrogation.” Agent Smith said. “We'll be in touch if we find out anything.”
+
+“So, you're really not going to let us in to look at the scene of the crime?” The other Agent Smith asked.
+
+Elise took out a USB memory drive and handed it over. “Here's all the footage of the times he was seen on camera.” She said. “There's no cameras in any of the rooms, so it's all mostly just him in the elevator crawl space.”
+
+“That's not very helpful.”
+
+“Of course it is.” Elise said. “I marked the file from when Ren 'fell' out of the elevator.”
+
+“You... you don't mean...”
+
+“If you find one of those collapsible asps during your search, check it for Ren's DNA.” Elise said and grinned evilly. “That's what the guy hit him over the head with.”
+
+*
+
+The Spirit of Earth stepped away from the throng of 450 other Earth beings, and there was nothing special about her to distinguish her from the 250 other females standing around them. If she hadn't said who she was, Ren wouldn't know that it was actually her. She was exactly 6 feet tall, the same as all the others, and stopped right in front of him.
+
+“You may make your offering.” She said.
+
+“Please forgive my impertinence.” Ren said as he looked up at her face. “May I take your hand?”
+
+A general ripple of anger went through the others, and several pebbles bounced off his chest and arms.
+
+“You are full of making unreasonable requests today.” She said, but he didn't feel any malice from her. He thought that was odd, until he realized that she wasn't the one that was everywhere and accepted the offerings. The different situations he was in and made offerings, weren't accepted by her specifically. They were taken on her behalf by some of the others.
+
+“I could argue that direct skin contact makes the transfer of things easier, especially now with my new Emotion Siphon ability.” Ren said and smiled. “But, I just want to touch you.”
+
+“Why?” She asked, and Ren felt that she was genuinely curious.
+
+“How many people can say that they touched the real Mother Earth?” Ren asked. “I've been in your embrace more times than I can count, and I've been surrounded by you almost as much as I've been on the surface.” He said. “I know I don't deserve it, since my affinity is still so low...”
+
+The Spirit of Earth reached out and took his hand. There was a general feeling of shock among the others; but from her, all Ren felt was curiosity.
+
+“You're so squishy.” She said and lifted his hand to look at it.
+
+“That's because I'm full of fluid and not rocks.” Ren said, and she pinched the skin. He winced because it was like getting his hand caught in a vise: but he didn't say anything, even when the skin bruised almost instantly. She held his hand up with the palm towards her, and intertwined her fingers with his.
+
+“Is this sufficient?” She asked.
+
+“It's more than any mortal could ever ask of you.” Ren said. “Please accept this offering.”
+
+She nodded and Ren funnelled Mana into her. Since he had 11,490 Mana available with his Mana Pool, giving her 10,000 in a single shot was easily done. Her body started to glow only a moment later, and the feelings of everyone around her changed from shock to wonder as the Mana kept going and going.
+
+Ren watched as his Mana dwindled down fast, and just before he reached the 10,000 Mana limit he had placed on himself, he took out a Major Healing wand and cast it on himself to refill his Mana pool.
+
+“I really am sorry I've upset your people with my penchant for gathering things you are trying to keep safe.” Ren said and kept pouring Mana into her. The Spirit of Earth's eyes widened as the gravel inside her body ground together faster and faster as more Mana was freely given to her without restriction. “I won't ask you to stop attacking me when I do it in the future, because if what I gain was something that was easily achieved, then it wasn't an achievement.”
+
+The Spirit of Earth tilted her head to the side. “You liked that it was difficult to get.”
+
+“I knew going in that it was dangerous.” Ren said. “That last time with the Sabertooth Rock Golem where I almost died, though... well, I'm not happy about that part, but...”
+
+“Ingenuity.” The Spirit of Earth smiled. “You want to think of new ways to do things.”
+
+Ren nodded, and used the Major Healing wand to refill his Mana Pool again. Several of the Earth beings around them started to glow as well.
+
+“It's a shame that was the last Sabertooth.” The Spirit of Earth said, then gasped as she felt a burst of shock from Ren through the Mana flow.
+
+“Wh-what did you say?” Ren asked. “It was the last?”
+
+She nodded.
+
+“But... I thought... can't you just make more?”
+
+She shook her head. “Over the centuries, even rocks can wear away to dust.” She caught her breath as a deep sadness filled Ren and the tone of the Mana he gave her changed.
+
+“I am so sorry.” Ren said as tears came to his eyes. “If I'd known...”
+
+“Would you have let it kill you and your friend?” The Spirit of Earth asked.
+
+“I... I would have thought of something.” Ren said. “I wouldn't have killed it.”
+
+“You are genuinely hurt by this.” She said. “What kind of Adventurer are you?”
+
+“The kind that wants to make it up to you.” Ren said and took out the pet rock he had.
+
+“The heart of a Greater Rock Golem.” She said and took the pet rock. “Thank you. We can have it restored in only a few months.”
+
+“Wait, what?”
+
+“If we have the main component, we can add inanimate material and bring it back.” She said and handed the rock off to one of the others.
+
+Ren felt so happy that the Spirit of Earth stopped breathing as the Mana flow changed, and it poured into her in a torrent. Her body's internal grinding was so fast now that it looked like she was just a swirl of liquid rock, and you couldn't see any actual gravel at all. He used a Major Healing spell and refilled his Mana Pool again, then took out the pet rock he had received from the Sabertooth Rock Golem's loot.
+
+“Please, restore this.” Ren said and handed it over to her.
+
+“That... you... you saved it?” The Spirit of Earth asked, surprised. “It almost killed you, and you still kept it?”
+
+Ren nodded. “I always keep important things.” He said. “It was an an amazing creature, and a spectacular fight.” He chuckled. “I didn't think that until it was over, though.”
+
+One of the others came over and tried to take the rock, and when their skin touched the Spirit of Earth, the Mana flowed out and into him as well. The male being's hands tensed up and held onto the stone, and he closed his eyes to let the Mana flow through him.
+
+“How... so much...”
+
+“I have more charges on the wand.” Ren said. “Would the rest of you like a share?”
+
+“You would do that for us?” One of them asked. If he remembered correctly, it was the angry one from before; but, since they were all identical, he couldn't tell anything except that it was male.
+
+Ren shrugged. “I wouldn't have offered if I didn't.”
+
+They all stepped forward and the front row touched the Spirit of Earth. They all started to glow, and then the ones behind touched them. Ren had to refill his Mana Pool again as more and more people touched those in front, and he had to refill it again a moment later. It was only taking about 20 seconds for his Mana Pool to empty out now, so he held the Major Healing wand at the ready and kept using it.
+
+About 10 minutes later, the charges in the wand ran out and Ren stopped sharing. He let his handhold on the Spirit of Earth go, and he looked at her face. She wasn't quite smiling; but, she did have a look of bliss on her face. At least, he hoped it was bliss. When he looked at all the others, they all had similar looks on their faces.
+
+“That was...” One of them spoke.
+
+“I need to get to my assigned fields right away!” Another one said and a walkway formed from the wall of the cavern. The being practically ran across it and the rock wall rippled like water as he passed through it.
+
+“You all should go, while the Mana is fresh and the happiness is within you.” The Spirit of Earth said, and walkways spanned out from the throne that wasn't a throne and every single one of the others, all 450 of them, ran towards the walls and disappeared through them.
+
+“That was neat.” Ren said and looked up at the Spirit of Earth's face. “They left you all alone, though.”
+
+“I am never alone.” She said and put a hand over her heart. “I can always feel them.”
+
+“I'm glad.” Ren said.
+
+“We have never shared like that before.” The Spirit of Earth said. “You are... remarkable.”
+
+“I'm just glad it worked.” Ren said and smiled at her. “I was a little worried it wouldn't be very effective with my affinity so low.”
+
+“Then let me fix that.” The Spirit of Earth said and wrapped her arms around him.
+
+“S-S-Spirit of E-Earth?” Ren stared up at her as his face fit between her breasts. Unlike any other woman he had been hugged by, her body was as hard as rock and had no give to it at all.
+
+“I would never do this with the others here.” She said and smiled at him. “Surface dwellers are normally beneath our notice, and I know how ironic that is with us living beneath you.”
+
+Ren chuckled, because he was thinking the same thing.
+
+“Embrace me.” She said, and Ren put his arms around her. With just his armor bodysuit on, his body was touching her from head to foot, and she could feel he wasn't excited to be there. “I know my body is not to your liking.”
+
+“It's not that.” Ren said. “It just feels like I'm hugging a statue.”
+
+The Spirit of Earth chuckled. “Of course it does. I'm the embodiment of Earth.”
+
+Ren smiled. “At least now instead of saying I've been embraced by the earth metaphorically, I can say I was literally embraced by you.”
+
+The Spirit of Earth smiled, and he could feel a spark of something. He wasn't sure what it was, since he'd never felt anything like it before, and then she bent down slightly and kissed him. Ren tried to kiss her back, because when someone kisses you intimately you're supposed to kiss them back; but, she was still like a statue and his lips didn't mean anything. He felt something like a bit of dust fall onto his tongue, and when the Spirit of Earth broke the kiss, he swallowed without thinking.
+
+Notice!
+
+You have gained a permanent blessing from the Spirit of Earth. You now have a +50% bonus to both affinity and resistance to the Earth element. All spells, enchantments, and effects related to the Earth element will be affected by this blessing.
+
+Notice!
+
+You have gained a new skill: Improved Toughness (4). You are now harder to hurt by any means.
+
+Notice!
+
+You have gained a new spell: Stone Skin (Level 5). This spell makes your skin like stone, doubles your Armor and Defense values, and anything vulnerable to the earth element will suffer double damage when fought in hand-to-hand combat.
+
+Time Limit: 20 Minutes
+
+“Oh, wow.” Ren said in wonder. “Thank you very much!”
+
+“Cast the spell, Adventurer.” She said and let him out of the hug. Ren refilled the empty Major Healing wand with the Stone Skin (Level 5) spell, and cast it on himself. He didn't look or feel any different, but when the Spirit of Earth hugged him again, his face nestled between her breasts and they pressed against his cheeks like actual breasts would. He wrapped his hands around her and his fingers dug into her skin.
+
+“Is that better?” She asked, and she knew that it was a redundant question because she felt his reaction through his armor bodysuit. “As long as you know that nothing can happen between us.”
+
+“I was about to say the same thing.” Ren said. “Even with these great gifts, I won't betray what I have.”
+
+“Good.” She said. “All I wanted was a hug from someone other than those of mine.”
+
+“Boy, did you luck out.” Ren chuckled. “I'm a hugging machine.”
+
+The Spirit of Earth smiled and they hugged each other. With both of their skin like rock, she no longer had to be careful about hurting him, and he could hug her back and she could actually feel it now. They held on for what seemed like a long time, and then the Spirit of Earth sighed.
+
+“One of the throng returns.” She said and let him go.
+
+Ren wiggled his finger in a come here gesture, and she bent over.
+
+“What is it?”
+
+Ren gave her a kiss on the cheek, and she quickly stood up.
+
+“You sneaky little-” She said, and an Earth being came out of the wall.
+
+“You should see the bumper crop!” The man said. “The people were practically jumping for joy.”
+
+The Spirit of Earth smiled, and then a small portal opened in the forehead of the giant throne. Several silver coins, a bushel of very plump vegetables, and a small ball of Mana came out.
+
+“They said they would send an offering.” The man smiled.
+
+Another portal opened and out came another bushel of vegetables and a little bit of Mana. Ren was about to comment when another portal, then another, and yet another opened. The large platform he and the Spirit of Earth stood on was quickly filled with 450 bushels of vegetables, piles of copper and silver, and the bits of Mana offerings had gathered into a large ball.
+
+“Will the Mana just float there until someone claims it?” Ren asked.
+
+“Yes.” The man said, and then another Earth being came into the throne room.
+
+“You should see-” He was cut off when another Earth being ran into the throne room.
+
+“It's amazing!” A female said as she ran across the walkway to stand in front of the Spirit of Earth. “They're so happy!”
+
+“As are you.” The Spirit of Earth said, and the female nodded. More of the Earth beings came back along the walkways they had made and Ren turned to the Spirit of Earth.
+
+“May I be excused?” Ren asked. “I really do need to go.”
+
+“You have much peril to overcome yet, Adventurer.” She said and raised a hand. Part of the ceiling opened up and a large rock hand came down and grabbed Ren.
+
+“You can call me Ren, Spirit of Earth.” Ren said as the hand pulled him up to the ceiling. “Feel free to come and visit!” He waved and then disappeared as the impenetrable rock ceiling reformed behind him.
+
+*
+
+“Did he just invite me...”
+
+“Ignore him.” One of them said. “He doesn't understand what would happen if you left the underground.”
+
+“We probably could have told him.” The happy female said. “We don't have to wait for people to ask questions, you know.”
+
+“You just want to tell everyone our secrets.” One of the men said. “Or was it because you thought he was cute?”
+
+“I don't think anything of the sort.” The female said, but the gravel under her skin ground around a little faster when the burst of Heat hit her and her skin beaded sweat.
+
+“You like him!” One of the others said, and the gravel under her skin swirled faster.
+
+“I do not!” She tried to deny it, and she felt another blast of Heat and her skin was covered in sweat. The Spirit of Earth reached out and touched the woman, who looked at her with pleading eyes.
+
+“Well, we know the amulet works.” She said and smiled. “I believe if you tell the truth, it's effects will end.”
+
+“All right.” The female Earth being said and sighed. “I like him, and even though he's a Surface Dweller, he's so cute that I want to cuddle him until his heart crumbles for me.”
+
+The sweating stopped and she no longer felt the Heat, and she relaxed.
+
+“You actually like him?” The male asked. “I was only teasing you.”
+
+“Well, now you know.” She said and looked at the Spirit of Earth. “If it pleases you, when the time comes, I will tend to his county and the fields there.”
+
+The Spirit of Earth smiled. “It would please me.” She said, and the others fell silent. “Give it bounty, make it prosper, and those that don't believe will see your work and come to us.”
+
+“It will be so.” The female Earth being said. “You can count on me.”
+
+The Spirit of Earth looked at the others. “You have all done well today, as the tributes clearly show.” She said and waved to the bushels upon bushels of food and metal coins. “Let us enjoy the harvest.”
+
+The Mana ball that had floated there separated into 450 parts and was absorbed by the beings, then a much smaller amount left each of them and entered the Spirit of Earth. They passed around the food and money next, and their bodies made the vegetables ripple like the earth and rock they would pass through. The beings absorbed the food and the metal coins just like they did with the Mana.

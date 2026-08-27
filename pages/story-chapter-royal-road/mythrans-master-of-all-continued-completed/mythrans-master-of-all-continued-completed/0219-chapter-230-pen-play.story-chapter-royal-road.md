@@ -1,0 +1,381 @@
+---
+id: 2d95da77-fb31-5937-a0a8-99d2d774c106
+page-type-slug: story-chapter-royal-road
+title: "Chapter 230 - Pen Play"
+slug: 0219-chapter-230-pen-play
+partOf: mythrans-master-of-all-continued-completed
+position: 219
+ownLength: 3658
+unit: words
+publishedAt: 2017-04-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131027/chapter-230-pen-play"
+royalRoadId: "131027"
+---
+
+“Well, crap.” Teepo said.
+
+“My thoughts exactly.” Ren said, then turned around to go back to the kitchen. “There's nothing I can do about it right now, though.” He said. “I have to get some meals prepared.” He went back to the kitchen, and started to cook. He worked for about an hour, making as many meals as he could; using the recipes he'd learned while working at the mansion, and having fun while cooking with Narhilda and Nathalia here in this very kitchen. When he was done, he got a popup.
+
+Stat Change!
+
+Cooking Level 1 (Intermediate 0%)
+
+“Nice.” Ren said. “Making all these different meals gave me enough experience to go right through Beginner Level 9 to Intermediate Level 1.”
+
+He took out his icebox and put most of the meals inside, then put the rest into the icebox for the house.
+
+“Sir, a Miss Dorathy is here to see you.” A voice said from the hallway. Ren ran to the hallway and touched the Sending Stone that was connected to the front gate.
+
+“Send her in.” Ren let the stone go, and opened the front door. The gate opened, and Dorathy came into the courtyard. When she saw Ren waiting for her, she grinned at him.
+
+“That's a new look for you.” Dorathy said as she took in his black bodysuit. “You aren't trying to seduce me, are you?”
+
+Ren shook his head and smiled.
+
+“Aw.” She said. “My husband will be disappointed you didn't even try to make a pass at me.”
+
+“I didn't say I wouldn't do that.” Ren said, and she laughed. She stepped over to him and he took her hand; but rather than bend over it, he pulled her close and gave her a kiss on the cheek.
+
+“Thank you.” Dorathy said at the Honor gain, and he let her hand go so she could go into the house. “My husband has been upset that you made me give my old job away, and I haven't been bringing in any money.”
+
+“I'm sorry about that.” Ren said and followed her into the main room. “Please, have a seat.”
+
+She sat down, and he sat a respectable distance away and faced her.
+
+“I was out on Adventurer's business all month, and I only just got back the other day.”
+
+“Is everything all right?” Dorathy asked.
+
+“Mostly.” Ren said. “It's kind of being taken care of as we speak.”
+
+She put a hand on his arm and squeezed it. “I hope it gets resolved soon.” She said. “If you've been gone for a whole month, then everyone must have missed you terribly.”
+
+Ren nodded slightly, and put a hand on hers. “Did you show your husband the 'toy' I gave you?”
+
+“By the gods, no!” Dorathy exclaimed. “He'd have spent it on a gold-plated boat, or something else completely useless.” She laughed, and Ren grinned.
+
+“Well, I hope I can convince you to take a job for House Neram, and then you can let him spend as much as he wants on things.”
+
+“I wouldn't let him do that!” Dorathy said. “I'll hide any new 'toys' you give me, just like I hid the last one.”
+
+Ren chuckled. “It's a big job.”
+
+“Tell me about it.”
+
+“You know the Garrison?”
+
+She nodded slightly.
+
+“I own it now.”
+
+“You WHAT?!?” Dorathy exclaimed loudly, then her face flushed red. “My apologies.” She said and ducked her head. “That was unladylike.”
+
+Ren took the hand from on top of hers, put it under her chin, and lifted it.
+
+“Don't do that.” He said and took his hand back as she looked at him. “You know you don't have to treat me like a Lord.”
+
+“I know.” Dorathy said. “But it was still unladylike to yell like that.”
+
+“You should hear Nathalia yell, then.” Ren chuckled. “Oh, boy.”
+
+Dorathy laughed. “All right, I've been properly chastened.” She said. “Now tell me about this big job.”
+
+“I want new uniforms for all of the troops.”
+
+She blinked her eyes and stared at him for almost a full minute. Then she spoke. “You WHAT?!?”
+
+Ren laughed. “I said it was a big job.”
+
+“That's not a big job! It's enormous! That's months and months of work, 24 hours a day, 7 days a week!”
+
+“You can do it in 8 hour shifts.” Ren said. “8 hours on, 16 off.”
+
+“You're crazy.” Dorathy said. “That would take me three times as long!”
+
+“I don't expect you to do it all by yourself. That's why I said to pick a few others to be your assistants when I mentioned it before.” Ren said. “You can hire more people.”
+
+Dorathy inhaled a breath and let it out. “You're asking me to give up a lot of my time.”
+
+“Only if you want to.” Ren said. “My original agreement with you still stands. Anyone that needs to show up late or leave early because they want to feed their families, is perfectly fine. Rides will be provided for them.”
+
+“Can I have some time to think about it?” Dorathy asked.
+
+“Of course.” Ren said. “One, one thousand. Two, one thousand. Three, one thousand. Time's up. What's your decision?”
+
+“E-excuse me?” She asked, surprised.
+
+Ren laughed and shook his head. “I'm kidding.” He said. “Please, take all the time that you need.”
+
+“Are you sure?”
+
+Ren nodded slightly. “I'm not in any rush, and it really is a big job.”
+
+“I... okay, I'll seriously consider it.”
+
+“Good.” He said. “If you do decide to take the job, it will be same deal as with the bags of silt; except you'll be paid 10 silver per uniform.”
+
+“10 silver!”
+
+“Is that too much?” He asked her.
+
+“Yes!”
+
+“Then what do you want to get paid?”
+
+“I...” Dorathy looked at him like he was crazy. “A salary is fine.”
+
+Ren shrugged. “Okay, then.” He said. “How does 10 gold a week, and 2 days off sound?”
+
+“Unbelievable.” She said. “My husband only gets 7, and then the tithe to the House takes 2.”
+
+Ren nodded slightly. “Then with 10, your house gets 3 and you keep 7, right?”
+
+“About that much, yes.”
+
+“Then its settled.” Ren said and stood up. “If you come back and decide to take the job, tell Ereka to order the things you'll need; like workbenches, tools, and supplies. Have her order a work crew to come out and build a good-sized building for you and your assistants to work in, too.”
+
+Dorathy stared at him with surprise on her face.
+
+“You didn't think I'd make you work outside or something, did you?” Ren smiled. “But you don't have to worry about any of that yet.” He said, took her hand, and helped her stand up. “Just go home and think about the offer. We can do the other things later if we need to.”
+
+Dorathy nodded slightly, and he led her to the front door.
+
+“Did the cart that brought you here, stick around?”
+
+Dorathy shook her head.
+
+“Then hold on for a moment.” Ren said and touched the Sending Stone on the small table that connected to the one at the Main House. “Ereka? Are you busy?”
+
+“Not really.” She said. “What can I help you with?”
+
+“Can you call the stable, and have them send a cart to take Dorathy home?”
+
+“Of course.” Ereka said, then a few seconds later, spoke again. “The cart and driver should be there in a minute.” She said. “Anything else?”
+
+“No, I think that's it.” Ren said. “Thank you.”
+
+“Anytime.” Ereka said, and the Sending Stone stopped glowing.
+
+“Let me walk you out.” Ren said as he opened the front door and Teepo flew out to scout. Ren stepped out and discovered Dorathy wasn't beside him, so he turned around and saw that she still stood in the hallway.
+
+“That is not what I think it is.” She stared at the Sending Stone with wide eyes.
+
+“If you think it's a Sending Stone that can be used multiple times, then it is what you think it is.”
+
+“How by the gods...” Dorathy shook her head. “No... where did you get it?”
+
+“I made it, of course.” Ren said.
+
+“You Adventurers are something else.” She said, and stepped out of the house so Ren could shut the door. “Can I get a pair of them for myself?”
+
+“What do you want them for?” He asked, and she smiled.
+
+“So I can keep tabs on my husband, and make sure he's not getting involved in some hair-brained scheme.”
+
+Ren chuckled and took out two steel squares as they walked to the gate. He enchanted them and handed them to her, then Teepo told him the cart was coming up the road.
+
+“You... you didn't...” Dorathy said.
+
+“They only have a range of a 10 hour cart ride.” Ren said. “So, if either of you are any further apart than that, they won't work.”
+
+Dorathy held them in her hands, and took a deep breath. “How... how much...”
+
+Ren shook his head. “They're a gift.” He said, then smiled as he opened the gate for them to pass through. “Or a bribe to take the job.”
+
+“You're going to shower me with gifts to get me to work for you again?” Dorathy laughed as she stepped across the small drawbridge. “What else do you have?”
+
+Ren grinned and left the gate open. “I'm sure I can come up with something.”
+
+“I'll look forward to it.” She said. “If I take the job.”
+
+“Yes, if.” He said, and stood with her beside the road. The cart and driver arrived, turned around on the road, and Ren helped Dorathy climb up and into the back. “Have a good day, Ma'am.”
+
+“You, too.” She said, and Ren told the driver to take her home. Dorathy waved to him and he waved back, then he went back into the courtyard after shutting the gate.
+
+“Hey, there!” Ren said, and hopped into the fire elemental's pen. “How's my favorite elemental?” He asked it, and the foot and a half long fire elemental jumped up into his arms. “Aren't you the cutest thing!” He turned it over onto it's 'back', and tickled it's 'belly'. Ren still wasn't sure if it really was the belly, or just it's other side; but it didn't really matter at this point, so he tickled it mercilessly. He heard a loud cracking fire, and grinned.
+
+“That's just the best sound.” Ren said, turned it back over, and hugged it. “Are you ready for a treat?”
+
+The fire elemental rubbed it's head stub against Ren's face, and he laughed. “I'd say that's a yes.”
+
+He put the fire elemental down on the ground, took out the web wand, and Teepo landed on his shoulder.
+
+“This makes a 20 foot circle of strong webs.” Ren said. “I'm going to shoot you with it, so go hot and eat it all, okay?”
+
+The elemental's color changed slightly, and Ren nodded slightly and stepped back.
+
+“Here it comes!” He said, and shot the fire elemental. The web covered it and held it to the ground.
+
+“Come on!” Teepo said as the web started to smolder.
+
+“You can do it!” Ren saw the fire elemental struggle a bit, then the web caught fire. “Yes!” He said, and the fire elemental started to pull the web into itself. After only a couple of minutes, it was gone completely; much faster than the web would have burned up normally.
+
+“Yay!” Ren said, and the fire elemental ran around the pen twice and jumped up into his arms again. “Way to go!” Ren said, and gave it another hug. “Want to do it again?”
+
+The elemental's color changed slightly, and it hopped down to the ground and got far enough away.
+
+“Get ready.” Ren said. “Now!”
+
+The fire elemental jumped as he shot it, and the web wrapped around it instead of sticking it to the ground. Ren gasped as the webbed up bundle fell to the ground with a thud.
+
+“No!” He ran over to it, and knelt. “I'm so-”
+
+The web bundle burst into a big ball flames, then was slowly absorbed into the fire elemental. Ren sat down on the ground, with both surprise and relief on his face. The fire elemental stood up, and climbed into his lap.
+
+“Wow.” Ren said. “That was...” He shook his head. “You handled that really well.”
+
+It stood up and nuzzled his neck with it's head stub, and Ren held it close.
+
+“I'm glad you're okay.”
+
+It's color changed slightly, and it jumped away to the right distance.
+
+“You want to do it again?”
+
+It bobbed it's head stub, and Ren smiled.
+
+“Okay, but I'm shooting you twice this time.”
+
+It bobbed it's head again, and Ren stood up.
+
+“Good luck.” He said, then shot at it. The fire elemental jumped and it became another web bundle. When it landed on the ground, he shot the second spell to stick it to the ground. He didn't run over this time; just stood there and waited. A minute later, the web started to smolder; then it caught fire. The fire elemental's head stub popped out of the hole it had made, and started to consume the webbing. It was gone a couple of minutes later, and the fire elemental bobbed it's head again.
+
+“Are you sure?” Ren asked it. “Three of them is going to be pretty thick.” He said. “There won't be any air getting in there.”
+
+It bobbed it's head stub, and Ren chuckled.
+
+“All right. Get ready.” He said, shot it again and the fire elemental jumped. It became a web bundle, and he shot it when the bundle landed the ground, then again to make the webs twice as thick. He couldn't see the bundle, just the bulge it made in the center of the webbing.
+
+I hope it's not too much for it. Ren thought. No air is bad for a fire.
+
+It took nearly twice as long, but the fire elemental burned a hole out through the top of the webbing. The elemental was a dark orange color and moved really slowly. Ren ran over to it, and blew on the head stub. It's color brightened immediately, and it had an easier time consuming the webs. It took nearly 10 minutes to finish all the webs, and Ren picked it up.
+
+“You made it.” He said and hugged it. “But three is way too much right now.”
+
+It bobbed it's head stub and laid it against his neck.
+
+“I think it's because we went too fast. You didn't have enough time to recover from the lack of air when you were wrapped in the other bundles.” Ren said and put the fire elemental into the fire and wind section of the pen. It perked up right away, and ran around. “Stay here and relax for a while. I've got to go into town to the Library, and then to Aurora to deliver the books.” He rubbed the head stub of the fire elemental, then stepped out of the pen. “I'll see you tomorrow.”
+
+It jumped once, then laid down to sprawl in the wind and flames.
+
+Ren went into the house to store his icebox, equipped his fancy House Neram red suit, then left the house. He went out through the gate, concentrated on his House Neram pendant while he greeted the guard, then ran towards town.
+
+*
+
+Ereka sat at her desk doing paperwork for House Neram, and gasped as Ren ran through the artificial Aura that surrounded the Main House. Her House Neram Aura was merged with it, like it always was.
+
+Every time it's such a surprise to get a glimpse of his emotions. She thought. He's really determined right now.
+
+When Ereka thought of Ren, she smiled as she remembered what had happened that morning. I can't believe he asked me to take my top off! She giggled for a few seconds. He said they were perfect, too. She took a breath and composed herself, then pulled the next small stack of parchment over and kept working.
+
+*
+
+Ren made it to the Library a few minutes later, and was surprised to find a large ornate coach parked in the alleyway outside.
+
+Teepo.
+
+“On it!” Teepo said and flew to the door and squeezed his way in. “There's a couple of people in here.” He said. “Second floor.”
+
+Anyone I know?
+
+“Yeah.” Teepo said. “It's Dorcot's wife Angeilin, and her boss.”
+
+What about the Librarian?
+
+“Third floor.”
+
+Thanks. Ren thought, walked over to the door, and went inside. It feels really weird not wearing my Dire Wolf Hooded Cloak. He thought. I miss it's weight.
+
+“Why aren't you wearing it?” Teepo asked.
+
+I haven't worn it since Laurelia gave me the Dreaded Foe title. Ren thought. I don't want to have nearly all of my Auras boosted with Fear. He smiled. Plus, my Aura's area of effect drops to 50 feet when I'm not wearing it, and the House Neram pendant only adds 25 feet to that.
+
+“But isn't that one of the fear boosted ones?” Teepo asked.
+
+Yes, but at least it's fear of the House, and not of me.
+
+“That makes sense.” Teepo said. “I think.”
+
+Ren chuckled as he heard a little squeal on the floor above, then the pitter-patter of little feet. He waited at the bottom of the stairs as Angeilin came over to them. She froze at the top of the stairs, and stared at Ren.
+
+“My... My Lord!” Angeilin squeaked in her high pitched voice and pointed. Ren looked around, and then at himself.
+
+“What is it?” He asked, and her small hands went to her face and her fingers fluttered on her chin as she walked slowly down the stairs. Ren laughed, and did the same movement. She got to the second to last stair, and waved him closer. He stepped over to her, she grabbed his beard with both hands, and tugged.
+
+“Ow.” Ren said. “Yes, it's real.”
+
+“Oh, my.” Angeilin said.
+
+“Who is it, Angeilin?” A woman's voice said. “I can feel someone's Aura.”
+
+“It's... um...” She looked at Ren, because she didn't know what to call him.
+
+“Lord Neram is fine.” Ren said reluctantly, and she grinned.
+
+“It's Lord Neram!” Angeilin squeaked loudly.
+
+Notice!
+
+You have spread the name of Lord Neram enough that you can now safely assume the name without demeaning his memory. Everyone will know you are a separate person when the name is spoken.
+
+Personal Aura Bonus: None* (Personal Aura Mastered)
+
+House Neram Aura: +5 levels
+
+Influence: +3,000
+
+*bonus levels converted to Influence: +15,000
+
+Pledge Complete!
+
+Your personal pledge of Honor gains to Lady Neram, to replace Lord Neram's Honor that she lost over the years, has been fulfilled.
+
+Honor: +30,000
+
+Ren dismissed the popups and stared at Angeilin. She reached a hand out, he took it, and she started to lead him up the stairs.
+
+“EEEEE!” Ren heard the Librarian scream from the third floor. He heard her heavy boots clomp along the wood and just as he and Angeilin arrived at the top of the first stairway, the Librarian arrived at the top of the second on the third floor.
+
+“Your HIGH-” The Librarian stopped mid-word as she saw his beard. “By the GODS!” She yelled, then walked calmly down the stairs. “Is... is...”
+
+“Yes, it's real.” Ren said, unable to keep a smile from his face, because of the complete shock he could see on the Librarian's.
+
+“H-h-how?” She asked when she got to the second floor and stood in front of him.
+
+“I'd like to say it's a long story, but it's actually pretty short.” Ren chuckled. “A healer gave me a magic cream that grew it.”
+
+“Oh, my.” The Librarian stared at it. “Can I touch it?”
+
+“At least you asked.” Ren quickly glanced down at Angeilin, to see her huge grin.
+
+The Librarian touched it with a single hand, as if it was an animal that was skittish, and would run away if you scared it too much.
+
+“How...” She shook her head and touched the top of his head with her other hand to compare them. Her eyes widened, and she rubbed both his chin and the top of his head. “How is that possible?”
+
+“What is it?” Lady Longore asked as she came over to see what was going on, because her curiosity wouldn't let her stay in the chair she had sat in.
+
+“Feel this!” The Librarian said to her, and moved her hands over to make room.
+
+“May I?” Lady Longore asked Ren.
+
+“You might as well.” He said and smiled. She smiled back at him, and touched his beard.
+
+“Is... is that...” She put her other hand on his head, and her eyes widened as well. “No.”
+
+“What is it?” Ren asked them as they rubbed his chin and head.
+
+“I didn't think...” Lady Longore shook her head. “Lord Neram, I've never... ever... felt a beard like yours before.”
+
+Ren chuckled. “I'm tempted to ask you how many you've felt to compare it to, but I'm not that vulgar; nor do I want to insult you or how you choose to live your life.”
+
+Lady Longore chuckled herself, and stopped rubbing his head and chin. “I like my men much stockier and shorter than you, so you don't have any worries on that front, Lord Neram.” She said. “But your beard doesn't feel like a beard at all. It feels just like your hair. Soft and fluffy.”
+
+Ren nodded. “That's what my fiance says, too.”
+
+“That's some magic cream.” The Librarian said, and Ren nodded slightly. “So.” She said and smiled. “Now that I've mauled you for a few minutes, what can I do for you?”
+
+“I need another book made.”
+
+“Ooo. What is it about this time?” The Librarian asked, excited.
+
+“Giants.” Ren said, and the women gasped.

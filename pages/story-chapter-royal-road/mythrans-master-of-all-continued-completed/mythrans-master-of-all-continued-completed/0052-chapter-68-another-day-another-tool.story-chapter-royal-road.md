@@ -1,0 +1,301 @@
+---
+id: ac5e8653-aeb7-5dc8-b692-e375f796c7e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68 - Another Day, Another Tool"
+slug: 0052-chapter-68-another-day-another-tool
+partOf: mythrans-master-of-all-continued-completed
+position: 52
+ownLength: 3777
+unit: words
+publishedAt: 2016-10-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100540/chapter-68-another-day-another-tool"
+royalRoadId: "100540"
+---
+
+Things started to get hot and heavy and Ren tried to take off Lucy's top. After 2 failed attempts, Ren remembered that there weren't any buttons and that Lucy had equipped it instead of putting it on. Ren wanted to ask her to unequip it, but how do you bring something like that up? He'd never done this before. Ren stopped kissing Lucy and then tugged at the top. Lucy shook her head no. Ren leaned back and raised an eyebrow.
+
+“Ren... this is great and all... but, doesn't it feel a little off?” Lucy said.
+
+“What do you mean?” Ren asked.
+
+“It... it feels fake. Artificial.” Lucy said. “When we kissed in real life, there was this spark...” Lucy avoided Ren's gaze. “...but I don't feel it in here.” Lucy tapped her chest. “You don't notice the difference?”
+
+Ren leaned back against the table and thought about it. “You know... VR is supposed to tap into our senses and let us 'feel' what everything is supposed to be like.” Ren said. “I think you're right. Maybe there's something being lost in the signal's transmission from me to you.”
+
+“Yes... that's what it is. I can see and feel you here.” Lucy said and touched Ren's hand. “But, it's not giving me the same feeling in here.” Lucy said and held her hand over her heart. “I'm sorry, Ren.”
+
+“You don't have to be sorry.” Ren said and smiled. “At least, now we know.”
+
+Lucy looked at Ren, slightly confused. “Know what?”
+
+“That an electronic relationship would never work.”
+
+“It wouldn't?” Lucy said.
+
+Ren shook his head. “Knowing that it's fake, and just a computer simulation, just takes all the realness out of it.” Ren sighed. “I kinda ignored that because I was caught up in the moment.” Ren said. “You're very distracting.”
+
+Lucy's face flushed a little red. Ren put all the equipment and enchanted rocks back into storage and set Little Ren in his own slot away from everything else. Ren walked around the table and picked up the book. “I'll be right back with Rosie.”
+
+Lucy nodded. Ren unlocked the door and went down the hallway, through the door and to the main desk. Ren passed Rosie the book and Rosie passed back his Library card. Rosie asked Ren to wait for a minute and then she got someone to cover the main desk for her. Ren and Rosie went back into room 12 and Ren and Lucy shared the story of the dire wolf and what had happened. Rosie shrieked and shivered when the dire wolf attacked and when Ren tackled it, and cheered when Ren jumped in to take the hit for Lucy and when Ren smacked the dire wolf down.
+
+Rosie was enraptured by the tale and never spoke a word until they were finished telling the story. Then the questions started. It became like an interview at a police station, where the investigator grilled suspects until they revealed all their secrets. It had taken another hour to reveal the tale and answer all the questions, but in the end, Rosie was satisfied and content.
+
+“That was a great story!” Rosie said. “Would you mind if I used it?”
+
+“For what?” Ren asked.
+
+“Writing a book, of course.” Rosie said and beamed a smile.
+
+Ren looked at Lucy, who shrugged. “Go ahead.” Ren said and Rosie squealed again and gave him a big hug.
+
+“Thank you!” Rosie said and let Ren go.
+
+“I want to thank you too, Rosie.” Ren said. “That book...” Ren shook his head. “How did you manage that?”
+
+Rosie giggled. “I checked it out myself.”
+
+Ren's eyes widened at that statement. “But... if anything had happened to it, you would have gotten into trouble!” Ren said.
+
+“There weren't any good books at your reading level, so I borrowed one that would help you.” Rosie said and blushed.
+
+“Rosie... you're a better friend than I deserve.” Ren said.
+
+“No, I'm not! Wait, that doesn't sound right. I am? No, that's not right either.” Rosie said and sighed in exasperation. “Ren, how am I supposed to respond to that?!?”
+
+Ren chuckled and Lucy smiled.
+
+“Just say 'thank you'.” Ren grinned.
+
+Rosie rolled her eyes. “Thank. You.”
+
+They all laughed and then they left the room. Ren handed over the key and opened the hallway door for the 2 women. Ren and Lucy went out the main door and there was no sign of Elise. It was getting dark and Ren said they should head back to the blacksmith's shop and the safe zone. Lucy nodded and they walked up the street, took the corner, and went up that street to Donan's shop. They walked around the corner of the building to the spot they'd used before and sat down.
+
+“Thanks for logging in, Lucy. Despite everything that happened, it was a fun day.” Ren said.
+
+Lucy snorted laughter and Ren chuckled.
+
+“You call that fun!” Lucy shook her head. “You have a strange idea of what fun is, Ren.”
+
+Ren grinned. “The best part was that punch! Pow! Right in the kisser.” Ren mimicked Lucy's swing.
+
+“How did you see that with your face buried in her chest?” Lucy said.
+
+“When you let my legs go, it shifted by head back. My mouth and nose were still covered, but I could see your fist making contact.” Ren smiled. “What a sight that was.”
+
+Ren turned to face Lucy. “Thank you for getting me out of a really uncomfortable situation.” Ren said. “If you hadn't been there...” Ren shivered. “...who knows what would have happened.”
+
+Lucy reached out and gave Ren a one armed hug. “Don't worry, when I log off I'll see about contacting the company. I'll have her reported for her behavior and try to make sure she won't bother you again.”
+
+Ren nodded. “Thanks, Lucy.”
+
+Lucy let Ren go and sat back against the building. “See you later.”
+
+Ren nodded and Lucy logged out.
+
+Ren sat there and stared at Lucy's phantom form. Ren had gone along with Lucy's point of view back in the Library about how things had felt different in the game than in the real world; but the truth was, Ren didn't notice any difference at all.
+
+When I kissed Lucy, it felt exactly the same. Ren rubbed the sides of his head with his hands. Maybe that's what those modifications were for. My headset is so much more sensitive than a normal one. Ren thought.
+
+Ren took out the miniature version of himself that Lucy had made and held it in his hands. It was nearly a spitting image of him, the clothes and hair matched his, and it was about 7 inches tall. The only facial features were round eyes made of thread and a piece of thread for the mouth. Ren admired it and all the little details Lucy had put into it. It even has a belt and a cloak!
+
+“Ren, I'm getting tired.” Teepo said.
+
+You're tired, Teepo? Ren reached into his hood but nothing was there. Where are you?
+
+“I'm going down the steps of the Library.”
+
+Ren slapped himself on the forehead. I'm sorry that I left you there, Teepo!
+
+“That's okay. I finally got to explore the main area, and the upstairs.”
+
+That's no reason for me to forget to pick you up when I left. Ren thought. Just a second, I'll summon you back.
+
+Ren turned over the hand that still held the doll. “Summon Teepo!” Ren said and tapped the ring on his index finger. Ren looked down and didn't see Teepo's astral form anywhere.
+
+Teepo?
+
+“Yes, Ren?”
+
+Where are you?
+
+“I'm right here.”
+
+Ren looked at his hand and the doll waved an arm. Ren turned his hand over and looked at the doll again. It was still the same, but Ren could almost feel the life in it.
+
+“Teepo?”
+
+“Yes, Ren?”
+
+“Are you okay?” Ren asked.
+
+“Yes, I'm fine.” Teepo said. “Why?”
+
+“It's just... um.. how do I say this...” Ren thought for a moment and took out the metal shield he found in the old temple. Ren leaned the shield against the wall and looked at Teepo. “This might come as a bit of a shock, Teepo.”
+
+“What...” Teepo started to say and Ren stood Teepo in front of the shield. It's surface served as a good mirror.
+
+“What is that!” Teepo said and pointed. The little Ren reflection pointed back to him. “Ahhhh!” Teepo screamed and tried to run around. Teepo would have skittered away faster than he ever had before... if he still had all of his legs. Since Teepo now only had 2, Teepo flopped onto the ground and flailed helplessly. It reminded Ren of how he had acted when that woman had grabbed him, and he was helpless then, too. Ren sighed and picked Teepo up.
+
+“It's okay, Teepo. Calm down.” Ren said and held Teepo so he couldn't get away or somehow hurt himself.
+
+“What?!? How!?!” Teepo said.
+
+“I don't know... but maybe it was because I held onto the doll while summoning you.” Ren said. “Maybe the spell, or curse, or whatever it is that's got you trapped in the ring, acted weird with something else touching it while it activated.” Teepo calmed down and stopped flailing around.
+
+“Can you fix it?” Teepo asked. “I know this is how you people look, but it's totally freaking me out! How do you get by with so few limbs?!?”
+
+Ren laughed. “We manage somehow.” Ren said. “Okay, let's try this.” Ren put the doll flat on the ground and stepped away from it. “Summon Teepo!” Ren said and tapped the ring with his thumb, like he usually did. The doll didn't move but Teepo's astral form appeared at Ren's feet.
+
+“How do you feel?” Ren asked.
+
+“I feel great!” Teepo said and lifted up each of his legs and put them to his mouth. “Mwuah. Mwuah. Mwuah!” Teepo said and kissed each of his 6 legs. Ren laughed and picked up the doll to put into inventory, along with the metal shield.
+
+“That was really weird.” Ren said. And no popups, either. Ren thought. Maybe the system doesn't know how to handle it? Is it a bug?
+
+Teepo skittered around Ren's feet and Ren laughed again. “Alright, come on.” Ren said and picked Teepo up and put him into the hood of the cloak. “I need to get some sleep.” Ren said and walked down the street towards the closest east gate, then took the corner to go to the Leisure District. It took a while to walk that far; but Ren didn't mind, and neither did Teepo. They eventually came to the Snoozing Bear Inn that they stayed in once before and saw a poster beside the front door. It was a crudely drawn picture of him and it said that the Hero of Aurora had stayed there. Ren shook his head and stepped inside. It wasn't the completely empty place that it had been before and there were several people sitting in chairs and talking. Ren walked up to the counter and the innkeeper recognized him immediately.
+
+“S-sir! So glad that you've come back to stay!” The innkeeper said, then leaned forward. “You are staying, and not complaining that I'm using you to drum up business, right?” The innkeeper whispered.
+
+Ren leaned in himself. “That depends on what you charge nowadays.” Ren whispered.
+
+“Only 5 silver.” The innkeeper said. “Business had been good.” Ren nodded.
+
+“Yes, yes! Right this way! Always the best room in the house for you, the Hero of Aurora!” The innkeeper said and ushered Ren up the stairs and to the same room he had been in before.
+
+“This is the best room?” Ren asked as the innkeeper pushed him inside.
+
+“Of course it is.” The innkeeper said. “You can pay in the morning.” The innkeeper whispered and shut the door.
+
+Ren chuckled and looked around the room. Teepo hopped off and landed on the table. The room looked exactly the same.
+
+It still has the unicorn picture, too. Ren thought and took off the cloak to store into inventory. Ren did the same with his boots and wriggled his toes. Ren looked back at the door, and then took the chair by the desk and jammed it under the door handle, just in case. Ren climbed into bed and fell asleep as soon as his head hit the pillow.
+
+Ren woke up the next morning and got out of bed.
+
+Morning, Teepo. Ren thought and took out a dry ration pack and ate the third of it that was left from when he was at the mines. Ren wasn't hungry, but he had a long day ahead.
+
+“Morning, Ren! Did you sleep well?” Teepo said.
+
+I did. I can't remember the last time I had a full night's sleep. Ren thought and then equipped the Dire Wolf Hooded Cloak.
+
+“I'm glad.” Teepo hopped off the wall and into Ren's hood. “Where are we off to today?”
+
+I need to gather some wood to make a bow, but I have to stop in Donan's first. I need a saw and an axe. Ren thought and opened the room door.
+
+Ren went down the stairs to the main desk and the innkeeper was there, half asleep. Ren activated Sneak and put 5 silver coins on the counter next to the innkeeper's hand. Ren walked out of the Snoozing Bear Inn and up the street, retracing the same route he had taken to get to the inn from Donan's place.
+
+Donan's was open and Ren went inside. The sound of ringing metal on an anvil filled the space and Ren greeted it like an old friend.
+
+“Good morning, Donan.” Ren said.
+
+“Morning.” Donan replied.
+
+“Anything urgent today?” Ren asked and Donan shook his head. Teepo climbed onto Ren's head and Ren stored the cloak back into inventory. “Say, Donan... do you have any saws?” Ren asked.
+
+Donan perked up at the question. “Yes, I've got some in the back.”
+
+“I need one, or you can teach me how to make one.” Ren said.
+
+Donan smiled. “I was hoping you'd ask me that.”
+
+For the next 6 hours, Ren learned how to make every kind of saw blade Donan could think of. Hand saws (for cutting wood), large round saw blades (like the one Aimus had), tree limb saws (long thin blades with teeth on one side), saw blades in the shape of a cylinder with teeth on the ends for cutting holes, hack saw blades (blades with really fine teeth that you held in your hands and rubbed back and forth on metal to cut it), and even those really long tree cutting blades that needed 2 people to operate.
+
+Teepo had long since disappeared into Donan's back room. Whatever Teepo had seen in there definitely had caught Teepo's attention.
+
+Ren had his forge on the whole time and more of the normal iron bars had been bubbling for hours. Ren knew he'd need at least some of it for forging and wanted to be prepared. After Donan couldn't remember any more blades, Ren had asked about the large saw blade that Aimus had and Donan chuckled.
+
+“Can you imagine? Making a table and attaching the saw to it like a big spinning wheel! I nearly pissed myself laughing when he asked me to build it.” Donan said.
+
+“Did you?” Ren asked.
+
+Donan shook his head. “No. I'm not a woodworker, Ren. I buy the handles for picks and hammers from the general store.”
+
+“Oh... okay. Thanks, Donan.” Ren said. “I'm tempted to track down a woodworker, but you just reminded me that I thought it looked like a spinning wheel, too.” Ren smiled. “I'll be back as soon as I can.”
+
+“Where are you going?” Donan asked.
+
+“Where else? The only place I know that has an actual spinning wheel.” Ren grinned. “Sally's.”
+
+Ren put on the Dire Wolf Hooded Cloak and asked Donan to tend the molten metal in Ren's forge. Ren walked over to Sally's shop and went inside. The bell rang when Ren opened the door.
+
+“I'll be with you in just a minute.” Sally said from the back room.
+
+Ren stood there and looked at the shop. It had been a while since he'd been in there and Ren smiled. Ren had spent a good portion of his early game time right there at that table. Sally came out from the back room.
+
+“What can I do to hel- REN!” Sally exclaimed and rushed over to take Ren into a big hug. Ren hugged her back and they just stood there for a few minutes, not saying anything.
+
+“I missed you! Aimus was by weeks ago and told me all about what happened.” Sally said and let Ren go to hold him at arms length. Sally examined Ren from head to toe and smiled. “At least you look fine after such an ordeal... and you rescued a damsel in distress!” Sally beamed. “That's my little Ren!”
+
+Ren laughed. “I didn't do it alone. Aimus was there, too.”
+
+Sally waved that away. “He distracted it from eating you, yes... but you finished it off.” Sally lifted one of the front paws still attached to the cloak and looked at it closely. “You still haven't attached the claws?”
+
+Ren stared at Sally. “What?”
+
+“Aimus said he gave you the claws. I figured the first thing you would do would be to put them on the paws.” Sally said.
+
+“I can do that?!?” Ren said, surprised.
+
+Sally nodded. “This cloak is really strong, even stronger than our special fabric.” Sally explained. “You could just sew them in...” Sally slipped her hand inside the paw and poked a finger out through one of the dire wolf toes. “...but they might not stay attached.”
+
+Ren stood there with his mouth open. Ren had completely forgot about the dire wolf claws Aimus had given him.
+
+*(Author's Note: Technically, so did I, because I missed adding them to Ren's published Inventory. :) )*
+
+“So... what are you doing here?” Sally asked. “It's not just to visit an old woman, is it?”
+
+Ren shook hmself out of his shocked state and smiled. “I came to get a good look at your spinning wheel.”
+
+Sally smiled, too. “You know where it is. Help yourself.”
+
+“Thanks, Sally.” Ren said, gave Sally another quick hug, and went into the back room. Ren spent a good 20 minutes examining the spinning wheel and it's design. Moving all the parts and checking to see where things were supposed to fit and how the spinning wheel really worked. Ren spent extra time at the foot pedal and the mechanism that let Sally spin that big wooden wheel so fast. Ren stood up after he'd seen everything and received a popup.
+
+Notice!
+
+You have learned the plans for making a Spinning Wheel.
+
+Ren grinned and went out to the front of the shop.
+
+“Find everything that you wanted, dear?” Sally asked.
+
+Ren nodded. Sally was sitting behind the main counter and was working on another piece of clothing.
+
+“Need any help?” Ren asked.
+
+Sally shook her head. “I could do this in my sleep.” Sally said and they both laughed. Ren didn't doubt her in the least.
+
+“Thanks for letting me just come by out of the blue like this.” Ren said and stood beside Sally at the counter.
+
+“You're my student. You can come and go as you please.” Sally admonished Ren.
+
+“I know, but that doesn't mean I don't appreciate you letting me do it.” Ren smiled.
+
+“It's always nice to see you, Ren.” Sally said and ruffled Ren's hair.
+
+Ren hopped up to give her a quick peck on the cheek. “Bye, Sally!” Ren said and left the shop. Ren didn't see Sally's face had flushed a bright red color.
+
+Ren went back to Donan's shop and went inside to the big bench that had been uncerimoniously shoved under the tool rack after Ren and Donan had built the big forge. Ren hung up the random tools and cleared off a good section to work in. Ren got a big sheet of parchment from Donan and set it on the bench, just so Ren could have a better surface to see the spinning wheel pattern. Ren opened the pattern and the system overlayed it onto the paper. The parts were wood, obviously, but Ren didn't think would alone would keep the saw from turning when the foot pedal was pushed. Ren substituted metal rods instead, got rid of the spool holder on the end, as it was in the way for what Ren wanted.
+
+The foot pedal was attached to a wooden pole attached to the big wheel, and when pushed, the wheel's own weight would help it keep spinning. Ren kept this idea, but added a smaller wheel and pole. Ren drew on the parchment, showing a small wheel, then drew a larger wheel next to it and a same size wheel inside that, and attached the rod in the same spot on both wheels, so that when one turned, the other turned as well. Ren smiled and drew a smaller wheel behind the first, and a small wheel inside the first, then attached poles to those. Now, when the smallest wheel turned, the inside of the middle wheel turned, but faster, and then that wheel turned the big wheel, the actual saw blade, even faster. Ren made the foot pedal into a hand hold and a lever instead, added braces to hold everything together, and a hand hold for his other hand. Ren stood back and looked at the result. It wasn't pretty, but it should work like a charm.
+
+Notice!
+
+You have made a new pattern: Hand Powered Circular Saw
+
+Notice!
+
+Your innovation and adaptation has made you that much smarter.
+
+Intelligence +2
+
+Ren grinned and got to work. Ren made the saw blade first, as it was the most difficult part. Then the wheels, the braces, and the rods connecting the wheels and holding them in place. It was all made of crude steel. Ren had thought of using wood for some of the parts, but he wanted it to last, and be easily repairable. When Ren was done, he examined it.
+
+Hand Powered Circular Saw
+
+This improvised and dangerous tool can cut wood at an accelerated rate, compared to regular saws.
+
+“What the hell is that?!?” Donan shouted.
+
+Ren turned around and showed Donan what he'd made.
+
+“It's something that's going to make it so much easier to gather timber.” Ren said and grinned.

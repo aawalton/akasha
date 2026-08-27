@@ -1,0 +1,193 @@
+---
+id: ca5c4742-4dbb-5551-afbf-38cb11334bcc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108 Home"
+slug: 0114-chapter-108-home
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 114
+ownLength: 1995
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3774354/chapter-108-home"
+royalRoadId: "3774354"
+---
+
+Harlon took a draw of his pipe. "Building them in the shape of it...you intend to improve them as we go along?"
+
+Before he could respond, Talia let out a hum. "Upgrading them in place huh...that might be the best way if we're going to handle so many people in one go."
+
+Lucien gave a nod before gesturing toward the side of the space. "We can start construction on one first while simultaneously building the others in the same shape."
+
+He glanced at the carpenter. "And while Talia is right about this improving security, there's another reason why we're choosing this design, Harlon."
+
+At the older man's questioning look, Lucien turned slightly to regard the rest of the village. "If we're going to restructure the village, the rest of Ashridge will have to begin moving closer together as well."
+
+"The villagers will be looking at what we build here. The courtyard design would make the idea far more appealing than simple rows of longhouses."
+
+Talia's eyes brightened. "And it'll be another chance to close the rift between the eastern and western fields too!"
+
+A puff of smoke curled up as Harlon rubbed his beard thoughtfully. "I suppose that's sensible...if we set the foundations in stone first, we could reuse the timber for the longhouses while slowly building them one by one."
+
+She nudged the carpenter, winking. "See? Told ya it wasn't as crazy as it sounds!"
+
+Harlon shot her a dry look. "Why're you pretending you didn't want to build all of them with your design from the start?"
+
+Talia ignored the comment entirely, already turning toward Lucien. "Anyways! I'll let the two masons know about it. We can get them started on the first one."
+
+"Make sure to send more people to the ridge outpost! We're going to need a lot of limestone for the coming season!" She called even as she continued walking off to find the masons.
+
+Lucien and Harlon watched her leave for a moment, the older man shaking his head before he glanced toward him.
+
+"Garrick has been helping out with the planning as well. I'll let him know what you've decided, Lord."
+
+At the mention of the miner, Lucien's thoughts drifted to Lord Vaelric. He made a note to inform Garrick about the noble's planned visit later in the season.
+
+"Has he made a decision on what he would like to do yet?"
+
+Harlon shook his head. "Not yet, Lord. Though he's been asking me about what kind of jobs Ashridge would need."
+
+"I told him to choose what he wants to do instead."
+
+Lucien inclined his head, turning back toward the refugees. "Tell him to take the time he needs. There's plenty to do now, with the village growing at this rate."
+
+Taking that as a dismissal, the carpenter dipped his head before turning to leave.
+
+Lucien remained where he was, watching the refugees fill out the intake form briefly before turning to head back to the manor.
+
+He didn't know when, but at some point, the manor in Ashridge had begun to feel like a home to him in this world.
+
+Wiping the sweat from his brow, he let out a quiet breath before entering the manor, exchanging nods with the guards posted at the entrance.
+
+The village was livelier than usual with the new arrivals, and he suspected it would only grow more so when the rest of the refugees arrived.
+
+Yet the manor remained the same as always.
+
+Adjusting his cloak on top of the shoulder sling that held his bow, Lucien returned the greetings from passing servants and maids, making his way up to his room.
+
+He still had to change out of his travel clothes and freshen up from the road dust and he was looking forward to a cup of coffee while relaxing for the rest of the day.
+
+When he opened the door to his room, he was disabused of that notion at the sight within.
+
+Sera was sitting on his window sill a leg draped down while the other was folded up to her chest, looking out into the open space beyond with a hand on her cheek.
+
+The sight reminded him faintly of the time when they had first met, except she was in his room this time.
+
+With her hearing, she had definitely heard him, yet her head only turned when he let out a deliberate cough.
+
+Her head tilted before her gaze flicked to the bow tucked into his shoulder sling. A moment later, she gave a firm nod.
+
+Lucien resisted the urge to sigh. "Sera, you shouldn't be staying in other people's room like that."
+
+"...And I see you've finally decided to change your clothes. It looks good on you."
+
+At his words, Sera looked down to regard herself in consideration. That reaction made Lucien begin to suspect a certain someone and he chose to ask.
+
+"...Was it Talia who asked you to change to that?"
+
+She inclined her head and adjusted the skirt without much thought. Lucien glanced away immediately, as a hand rose to rub his temple.
+
+'That nosy junior...'
+
+Though he had to admit, Sera's new outfit was an improvement over the travel-worn clothes she had worn. It was a mixture of practical and design that had Talia's fingers all over it.
+
+Her tattered robes were switched to a linen shirt and arm guards that covered her wrists while an olive green skirt with a slit to allow ease of movement replaced the rugged trousers.
+
+Lucien shook his head before unslinging the shoulder strap and setting it on his desk.
+
+When he noticed her eyes moving to it briefly before returning to stare at him, he gave a light shrug.
+
+"No. I didn't carry it with me all the time, Sera. Bringing a weapon to a noble's meeting would be rude." At the scrunch in her brow, he shook his head. "But I've been setting time aside to practice. Not as much as I'd like however."
+
+When she immediately looked toward the bow again, the hopeful expression on her face said more than words could.
+
+"...Not right now. I just got back and would prefer to rest a bit. Maybe tomorrow?"
+
+Her shoulders dropped before she gave a slow nod.
+
+Lucien decided that was the best he would get before moving on to the main point. "Now, what are you doing in my room? I thought Alicia's room was your favorite."
+
+When she merely tilted her head, Lucien's eyes narrowed. "...You didn't decide to wait here because you knew I had returned from Helvarn did you?"
+
+Sera responded by shifting her gaze outside the window. His brows furrowed slightly before he carefully asked.
+
+"Sera, is the village getting to be too noisy for you? Today's only the first wave...there will be more people coming from Helvarn soon."
+
+To his relief, she shook her head immediately. Still, her response made him consider asking something that he had been curious about.
+
+Lucien moved to stand beside her at the window, looking out into the village.
+
+"Remember when you said the noise you have been hearing got...better? Is it something that you learned to control?"
+
+Sera shook her head in response before reaching into her satchel. She wrote in a few short strokes before turning the parchment toward him.
+
+Changed.
+
+Lucien's brow lifted at the deliberate word. "So your...hearing just filtered out the noise by itself at some point?"
+
+At her nod, he rubbed his chin in thought. "That seems random for it to change like that...I wonder if it's because you have been in Ashridge around so many people..."
+
+A thought occurred to him, he turned toward her and gestured at her ears. "Were you always able to hear that well, Sera? Alicia mentioned something like people being born with gifts but..." his words trailed off when Sera shook her head.
+
+Her hand rose to touch the red case slung on her back before something he couldn't quite place flickered in her pale eyes.
+
+Lucien's attention shifted to the case. It was unlikely she would be referring to the gift he had given her, which could only mean one thing.
+
+"The owner of that longbow...you started to be able to hear more after that?"
+
+She gave a small nod, turning back to look outside again. Her fingers gripped the parchment she had been holding a little tighter.
+
+Deciding not to pry any further, Lucien leaned against the sill and let the sounds of the village drift in through the window between them. The faint scratching of charcoal on parchment drew his attention a moment later.
+
+Sera turned the parchment toward him.
+
+My Father's.
+
+Setting the parchment down on her lap, she touched the red case again.
+
+Lucien let out a soft breath. "...I had suspected something like that." Meeting her eyes, he gave a slow nod. "Thank you for sharing it with me."
+
+Sera didn't respond outwardly to his words, already turning back to look at the window. The only sign she had heard him was the faint rise of her shoulders.
+
+For a time, they remained like that until a knock sounded at his door.
+
+He turned toward it and called. "Enter."
+
+Alicia stepped through, holding a tray. "My Lord. Would you like some coffee before dinner..." Her eyes shifted to Sera beside him and she gave an exasperated look at her. "Sera...Master Elias will be cross with you again."
+
+The way she said those words made him think that this wasn't the first time the hunter had done this.
+
+He eyed the girl beside him. "...You have been coming in here when I was away in Helvarn?"
+
+When Sera looked toward him with her head tilted, Alicia shook her head. "Yes, My Lord. She's been doing that for the last few days now."
+
+At his questioning look, Alicia gave a gentle smile before gesturing toward Sera. "She heard you were coming back soon but didn't know when. So she's been waiting here from time to time after her usual hunts."
+
+"...Master Elias forbade her when he found out the first time. He even posted a guard outside your room when she ignored him."
+
+Lucien exhaled through his nose before giving Sera a dry look. "And what? She decided to sneak in through the window?"
+
+Judging by the stifled giggles from Alicia, it seemed he had hit the mark on that. Sera of course, showed no sign of any guilt whatsoever.
+
+Moving to set the tray down on the table, Alicia covered her mouth. "Master Elias...gave up shortly after that. Oh, and Lady Talia has..."
+
+Her words were interrupted when said person came barging into his room.
+
+"Lord Lucien, I just got back speaking to the masons! They'll take a look at the site tomorrow and we'll go from there!"
+
+Talia looked between Alicia and Sera before shifting to the tray on the table. "Oh, it's that time again huh! Looks like I made it before we started!"
+
+She immediately sat down at the table, slouching slightly only to straighten after a look of disapproval from Alicia.
+
+Lucien's brow twitched as he realized what the maid had meant to say before his junior's entrance.
+
+"...When did my room become a tea room?"
+
+A soft chuckle escaped Talia before she pointed at Sera who was already moving to take a cup that Alicia had set aside for her.
+
+"Don't blame me, Lord Lucien. She started it! Then I figured, might as well have it here so Alicia doesn't have to serve tea at two different spots. Makes sense right?"
+
+It made an annoying amount of sense, which was usually how Talia got away with teasing him. Too bad there were witnesses around. It had been a while since the last round of flicking.
+
+Talia shifted slightly rubbing her forehead as she looked away innocently.
+
+Ignoring the faint twitch of Alicia's mouth, he let out a breath and decided to seek solace in his sacred drink.

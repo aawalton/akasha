@@ -1,0 +1,173 @@
+---
+id: 93cab96f-5b22-508b-81da-68c87efa48c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 Stalk"
+slug: 0042-chapter-40-stalk
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 42
+ownLength: 1959
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3310167/chapter-40-stalk"
+royalRoadId: "3310167"
+---
+
+The rescue continued as more doors opened along the narrow lane, Bran and the others moving steadily from door to door.
+
+Villagers emerged in small clusters beneath the dim lantern light, their faces pale with exhaustion as they gathered behind the guards while the restless chattering of goblins and kobolds drifted through the wider roads beyond.
+
+Some recognized Bran or the Cragwatch rider and emerged without hesitation, while others needed reassurance before they dared unbar their doors.
+
+Lucien watched in silence at the sight of fewer people than he had expected, and several houses remained dark even as the sounds of the rescue carried farther down the street.
+
+The rider from Cragwatch slowed beside a home with its doors broken and, for a brief moment, stood without speaking, his attention lingering on the scattered marks upon the wood.
+
+His hand tightened at his side. “T-they barred this door…” he murmured, before looking down the narrow lane where the survivors now gathered behind the riders.
+
+When Bran knocked upon the neighboring home, no one answered.
+
+The rider lowered his head, his breath catching once before he forced it steady. “They were here when I left,” he said, his voice roughening. “The reeve said half the village had taken shelter…”
+
+Bran had already turned toward the next when another door opened further ahead.
+
+The structure was larger than the surrounding buildings, its lower stone walls rising above the narrow lane where the lantern light reached the doorway.
+
+A grey-haired man stepped out slowly, one arm bound tightly against his side beneath a rough strip of cloth. Two villagers remained beside him as though ready to support his steps if needed.
+
+The rider from Cragwatch straightened at once. “Reeve.”
+
+The reeve inclined his head faintly, taking in the gathered men before resting upon the small cluster of survivors that were still forming behind them. “I feared no one had reached Ashridge in time...” he muttered, his voice heavy with exhaustion.
+
+His gaze lingered on the villagers. “More should have lived to see this...”
+
+Lucien stepped forward from the line of riders, his eyes moving once over the survivors before meeting the eyes of the elderly man.
+
+The reeve studied him in silence, his attention shifting briefly to the armed men gathered behind him before returning to Lucien.
+
+“You chose to come.”
+
+He was quiet for a brief moment before inclining his head. “Someone had to.”
+
+The reeve dipped his head in return. “Most who could run already fled, the rest waited for the doors to fail.” His voice lowered, worn more than bitter. “I had begun to think no one would come at all.”
+
+He glanced briefly toward the dark end of the lane. “Do not linger in the open...the smaller ones pass through but there were others that stayed where something interests them.”
+
+Lucien turned toward the gathered villagers, his voice low but clear through the narrow street. “We move quietly.”
+
+His gaze flickered once more toward the row of darkened homes.
+
+In one doorway, the wood had been broken inward with enough force that the heavy crossbar had snapped in two. The splintered timbers had not simply cracked, it had been driven deep into the floorboards as though something heavier than a goblin or kobold had forced its way through.
+
+The interior beyond remained silent and empty when one of the guards glanced inside. Further along the road another door hung half open, dark stains marking the threshold.
+
+Near the mouth of the street Sera had gone still, her attention paused on a splintered doorway before drifting slowly upward toward the slanted roofs above.
+
+As the column began to move, Lucien noticed a goblin’s body crumpled beside the wall of a narrow workshop, its neck bent at an unnatural angle.
+
+Dorian guided the first of the guards toward the western end of the narrow lane while Bran and the reeve moved among the gathered villagers, urging them to gather in small groups rather than allowing the frightened crowd to cluster too tightly together.
+
+The passage remained dim beneath the leaning upper floors of the buildings that pressed close along either side of the road. Only a few lanterns burned behind shuttered windows, their light thin and wavering as it spilled through narrow gaps in the wood.
+
+Beyond its opening, the wider roads of the village remained restless. Small shapes slipped through the darkness between buildings as goblins and kobolds continued north through the settlement, weaving past the broken square without lingering.
+
+Now and then, the distant clatter of something overturned echoed through the streets beyond while shrill goblin chatter rose sharply from somewhere deeper in the settlement before fading again into the wind.
+
+Dorian slowed briefly near the front of the line and raised one hand.
+
+The guards adjusted at once as two moved ahead along the street while the others settled themselves along the edges of the formation where the shadows gathered thickly between the buildings.
+
+Behind them, the first of the villagers began to follow.
+
+A woman guided two children forward with one hand clasped tightly around their shoulders while another man carried a bundled infant close against his chest. Their steps were hesitant at first but became steadier once they fell within the protective ring of the guards moving ahead of them.
+
+Tomas had taken position toward the rear of the line, walking with his spear held loosely across his body while he checked the darkened windows above the street and the narrow alleys that branched away between the houses.
+
+Lucien remained near the middle of the formation, attention fixed ahead as the line advanced.
+
+For a time, the plan held.
+
+The guards kept their slow measured pace while the villagers followed closely behind them, their steps careful upon the uneven ground where scattered debris and broken boards still littered the road. Their horses were led quietly along the edges of the formation, breath faint in the cold air as they followed the line.
+
+Somewhere beyond the next row of buildings a goblin screeched, the sound cutting sharply through the stillness before fading just as quickly into the distance.
+
+No one in the line reacted. Cries like that had echoed through the village all night, and the guards kept their steady pace as the road curved ahead. A narrow lane opened from the right, its shadows deeper where the distant lantern light failed to reach between the closely built houses.
+
+As the first of the guards passed the mouth of the alley, something small burst from the darkness.
+
+A goblin stumbled into the street, scrambling across the road in a wild rush before vanishing again between buildings without so much as glancing toward the line.
+
+Tomas watched the alley for the span of a breath, his grip tightening around the shaft of his spear before he forced himself to move on.
+
+Further ahead of them, another kobold darted across the open space between two houses, moving faster than the others. It ran low to the ground, its narrow body twisting sharply as it slipped past the rear of the formation before disappearing again down the street behind them.
+
+Lucien’s eyes followed the disturbance briefly. It had been small, but it did not fit the flow the village had held until now.
+
+At the edge of the line, Sera had stopped near the mouth of a narrow passage between two houses, her dull eyes fixed upon the dark rooftops above. She remained there without moving, then she stepped forward again and rejoined them, though her eyes lingered upward as she walked.
+
+Lucien traced the same path with his eyes, following the dark rooflines before returning to the road ahead. The rooftops had offered nothing in return, yet the village no longer felt as predictable as it had earlier in the night.
+
+The column continued forward as the lane narrowed between two rows of houses whose upper floors leaned over the dirt path, the distant lantern light from the square barely reaching the ground between them.
+
+Dorian slowed there, allowing the villagers to close the small gaps that had begun to form while the guards adjusted quietly around them, keeping the formation tight as they guided the survivors through the deeper shadows of the lane.
+
+For several moments nothing seemed amiss. Then, a heavy crash sounded somewhere above the rooftops.
+
+A goblin screamed somewhere ahead, the cry sharp and sudden before it was cut off all at once. Several of the villagers flinched but the guards did not break formation. Dorian lifted his head, as he scanned the dark rooflines where the silhouettes of the buildings met the pale edge of the night sky.
+
+Sera had stopped at the edge of the formation, her eyes following the slanted ridges of the rooftops above the lane while the bow rested lightly across her hands.
+
+She remained there as the column moved around her, her attention fixed upward.
+
+Lucien slowed beside her. Nothing moved above them, yet Sera had not looked away.
+
+After a moment, she reached into the satchel at her side and drew out the familiar scrap of parchment. The charcoal moved quickly across its surface before she stepped forward and held the paper toward him.
+
+Above.
+
+He lifted his gaze.
+
+For a time, he studied the rooftops until a dark shape moved along the ridge of one house before pausing near the broken tiles that overlooked their passage below.
+
+The creature was larger than the kobolds that slipped through the alleys beneath the houses. Its posture was lower and its movements more deliberate as the pale edge of the moon caught briefly across its crimson fur.
+
+Lucien met its gaze, his eyes sharpening.
+
+For a heartbeat, the kobold remained there upon the roofline before slipping silently across the tiles and vanishing beyond the next building.
+
+He watched the empty roof briefly before lowering his focus.
+
+The memory surfaced easily, of the riverbank, the reeds bending along the water, and the rust-colored shape watching from the grass.
+
+Only the color had changed.
+
+Lucien’s eyes moved along the rooftops, scanning the upper floors pressed close over the road, their slanted roofs forming uneven silhouettes against the pale strip of night sky above.
+
+Nothing stirred there now, the kobold having already slipped beyond sight.
+
+After another breath, he turned back to the line.
+
+The villagers continued forward in uneasy silence while the guards guided them west through the shadowed lane. Lantern light flickered weakly behind shuttered windows while the distant movement of beasts threaded through the wider streets somewhere beyond the houses.
+
+Lucien stepped closer to the edge of the formation. “Sera.” She turned her head at once. He held her eyes for a moment before speaking softly. “If it moves again, tell me.”
+
+She tilted her head slightly, then gave a short nod.
+
+The column pressed on as the narrow lane bent slowly toward the western edge of the village where the palisade gate waited, the villagers moving quietly between the guards while the restless sounds of the migration drifted behind them.
+
+Somewhere along the rooftops a tile shifted faintly before settling again.
+
+The Kobold had not descended when it first saw the column.
+
+It had measured them first.
+
+Just as it had done beside the river when the hobgoblin fell.
+
+Lucien’s gaze moved slowly along the uneven line of rooftops where the houses pressed close together above the road.
+
+If the kobold wished to hunt them, it would need to move ahead of the column before the path opened onto the outer slope beyond the palisade gate.
+
+There were only two ways it could do so and both of them led across the roofs above.
+
+It would wait for the right moment.
+
+Lucien intended to choose that moment first.

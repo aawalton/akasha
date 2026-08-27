@@ -1,0 +1,273 @@
+---
+id: 0bcdb700-7e0f-531f-a39d-68ee03e99b8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 425 - Homemaker"
+slug: 0422-chapter-425-homemaker
+partOf: mythrans-master-of-all-continued-completed
+position: 422
+ownLength: 3345
+unit: words
+publishedAt: 2017-11-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174995/chapter-425-homemaker"
+royalRoadId: "174995"
+---
+
+“Oh, wow! You weren't kidding!” Rainie said when she saw what was inside the storage tower. “You have everything in here!”
+
+Ren chuckled. “Not quite; but, I have lots of what I need to make anything I want.”
+
+“What are those things?” Rainie asked and pointed.
+
+“They are called Automatic Ballista.” Ren said. “I really should take one, just in case.” He said and stored the gold-colored one. It was the first one he had ever made, and it worked fantastically. “I really need to get more springy trees for ammunition, though.”
+
+“You should talk to Shanna.” Rainie said. “She's the Elfkin that has the strongest ties to the forest.”
+
+“I will.” Ren gathered up the stone bricks and iron ore ingots he thought he would need, and picked up a storage ring full of lumber. He grabbed a few bolts of cloth as well, and walked over to a clear spot.
+
+“What are you doing?”
+
+“I told you.” Ren said and opened up the Instant Tower recipe. “It's something that's going to be really crazy.” He smiled. “It's someplace for you to live while you wait for me to come back.”
+
+Ren thought about how the tower was situated, and how it buries itself in the ground when activated. He smiled and made a 10 foot tall archway that was 8 feet wide, in the first floor all the way through and removed the door. He cut the top floor off and then cut it in half to make two 10 foot by 20 foot sections. He reduced the first floor to only 10 feet wide, which barely contained the arch through it, then added the cut top sections to each side of the arch to make it exactly 30 feet wide.
+
+Inside the 10 by 20 foot sections, he made 10 wooden floors in each. Since the occupants would only be 1 foot tall, he gave then 6 inches clearance on each floor, which was plenty of room. With all those extra floors, he made 10 apartments on each and added a hallway down the middle and stairs up to the next level, then added a Ward concealed door on each end of the hallway for easy exits at the front or back. He even added ladders on the outside so they could climb up the outside and get in that way.
+
+The apartments were 4 foot by 4 foot, and he added bedrooms and beds, with a living room and small couches and chairs. He added small bits of metal and enchanted them with single Illumination runes for lights if the pixies needed them. He was tempted to add a kitchen, but that would cut down on their living space. Ren had told Rainie everything he was doing so she would know how it was all laid out and could tell all the others when necessary.
+
+“Rainie, what do you eat?”
+
+“Food, doofus.” Rainie said and giggled.
+
+Ren chuckled. “I meant, do you all eat together or separately? Do you want a common area with big tables, or individual spots?”
+
+“We usually just sit where the food is and eat it.” Rainie said.
+
+“No cooking or anything?”
+
+“Nope.” Rainie said. “We make our offerings to Earth, and she feeds us.”
+
+“I'm glad.” Ren said and left the design the way it was. He reduced the battlement walls on top so that the pixies could see over it at anyone coming, saved it as Pixie Apartments, then activated his Craft Wondrous Item ability.
+
+“Ooooo!” Rainie said as the golden platform appeared, and Ren added all the required items. “It's really hungry, huh?”
+
+Ren laughed. “It sure is.” He said and added the money and the 10,000 Mana when it asked for it.
+
+“Whoa! So much!” Rainie exclaimed, because she could feel the Mana drain through Ren.
+
+“I made one once and it took 40,000 Mana and almost overloaded the platform.”
+
+“Yep! You're crazy all right!” Rainie said and laughed.
+
+“Since this is going to be your new home, do you want to name it?” Ren asked, and he felt how flattered she was. “Say it in Sea Dweller's language so no one can steal it.”
+
+“Bubble Gurgle! (Ren's Gift!)” Rainie said, and 20 seconds later, the 2 inch wide cube appeared and Ren picked it up as the platform disappeared.
+
+“Let's go and surprise everyone.” Ren said and used a Major Healing wand on himself to refill his Mana Pool. They left the storage tower, and he deactivated it and stored it.
+
+“He didn't kill her!” One of the pixies said loudly, and they all cheered. Shanna ran over to them and looked up.
+
+“You still have all your limbs, too!”
+
+Rainie laughed. “I wouldn't be much of a meal for him!”
+
+“That would depend on what part of you I ate.” Ren said without thinking.
+
+Teepo chittered in laughter as several pixies gasped, and Shanna's mouth fell open in shock because she had only been joking. Rainie's face flushed to a deep red as she felt what Ren actually meant, and he felt her deep embarrassment as she crossed her legs.
+
+“I said that out loud, didn't I?” Ren asked, and Shanna nodded several times. When he felt a deep spark of desire from Rainie, he turned his head to look at her. “I'm sorry. I didn't mean...”
+
+Rainie leaned close and lightly touched his nose for balance, then kissed his cheek. “If I was a little bigger.” She said and kissed his cheek again. “I wouldn't be against trying it.”
+
+Ren felt how flattered she was that he saw her as a woman, despite how small she was.
+
+“Rainie!” Shanna yelled.
+
+“I know, I know.” Rainie said as her blush faded. “You saw him first, so you should get the first try if it happens.”
+
+“That's not... wait, what?”
+
+Rainie laughed as she felt her friend's confusion through Ren. “He didn't mean cannibalism.” She said, then tilted her head slightly. “Is it still cannibalism if you're not the same race?”
+
+“Technically, no.” Ren said. “It's still wrong as hell, though.”
+
+Rainie and the other pixies all nodded their heads in agreement.
+
+“Okay.” Ren said to change the mood. “Who wants to see their new home?”
+
+Half of the pixies had their hands up before they realized that they didn't really know what he meant. Ren chuckled and walked over to the center of the cavern, with the succubi hovering nearby and skeleton knights on their steeds hovered even closer. He took out the Pixie Apartments cube and placed it right in the middle of the 30 foot wide walkway and stepped back out of the way.
+
+“Go ahead, Rainie.” Ren said, and he felt how proud she was.
+
+“Bubble Gurgle!” Rainie said and the Pixie Apartments appeared. The 30 foot wide, 20 foot long, and 15 foot high stone and metal structure was unlike anything they had seen before, and there was a stone archway right in the middle of it.
+
+“That's really nice; but, there's no way that all of us can live on that thing.” One of the pixies said.
+
+“You don't live on it.” Ren said. “You live in it.”
+
+“How? It's solid stone.”
+
+“It looks that way because the doors are warded for concealment.” Ren said. “I keyed it for pixies, so just tell it you want to go in.”
+
+“Rainie, he's crazy, isn't he?”
+
+“Oh, yes.” Rainie said. “He hasn't lied, though.” She pat Ren's cheek. “Help me down, handsome.”
+
+“Yes, Miss Cloudbreaker.” Ren said and held a hand for her to stand on. He felt how pleased she was that he was treating her like that; and he set her down on the cave floor and put his lips by her ear.
+
+“Remember, you just say 'open' when you're near one of the doors, and when you pass through, it closes behind you.” Ren whispered.
+
+“I remember.” Rainie said as she turned and kissed his top lip. “Thank you.”
+
+“You're welcome.” Ren said, and Rainie casually walked over to her new home.
+
+“Open.” Rainie said, and the door on the lowest level opened for her and she stepped inside. It closed behind her and the door disappeared.
+
+“It ate her!” One of the pixies said, and that made a few of them laugh. A few moments later, the top door opened and Rainie stepped out of the stairway to stand on top of the 15 foot high battlement wall. She waved to the other pixies, and they watched as she got on the ladder and climbed down.
+
+“I claim the front apartment on the top floor on this side!” Rainie said. “The right one, since it's next to the inside wall.”
+
+“Did you say 'this side'?” Shanna asked.
+
+“There's a hundred apartments on this side, and a hundred on that side.” Rainie said and pointed to the other side of the archway. “There's plenty for us to choose from.”
+
+“It's really ours?” One of the males asked. “You're not buying us or putting us under a debt contract or anything, are you?”
+
+“No strings attached.” Ren said. “I'm not even going to tell you to stop capturing people or robbing them.”
+
+“We're not robbing them!” One of the other males said. “We trick them into handing it over!”
+
+“Poe-tay-toe, poe-tah-toe.” Ren shrugged. “Either way, it's not my business.”
+
+“That's right.” He said and stomped his way over to the Pixie Apartments. All of the others started to go over, too.
+
+“Wait!” Ren said, and they all stopped and looked at him. “Before you go in and choose your apartments, I have a house-warming gift for you.”
+
+“A... a what?” One of the females asked.
+
+“Where I come from, sometimes when someone moves into a new place, their friends give them a little gift to welcome them home.” Ren took out some fabric and sewed up 200 coin pouches, slipped a gold coin in each one as he handed them out to all 178 pixies, and the pixies equipped them. “If you don't know how coin pouches work, it converts larger coins into any other coins. The gold coin inside can be 100 silver coins; or 10,000 copper coins; or any combination of them.” He said. “Just reach in and take out what you need.”
+
+“A silver.” One of the female pixies said and reached into their coin pouch and pulled out a single silver. “A copper.” She said and put the silver back and pulled out a single copper. “10 silver!” She did it again and started to laugh. “100 copper!” The coins poured out through her small hand and she fell to her knees and played with the pile of copper coins.
+
+“It's not endless, though.” Ren said. “When all the money is gone, it's gone... until you put more in.”
+
+“These copper coins will make our offering to Earth worthy!” She exclaimed, and all of the pixies shared her sentiment.
+
+Ren felt a hand on his calf and looked down at Rainie. She held her hands up in a clear indication that she wanted to be picked up, and he knelt to accommodate her. She wrapped her arms around his neck, and it reminded him of when he had met the giant refugee, Laurelia. Ren and Rainie were at the same scale as he was with Laurelia, and he stood up and held her.
+
+“Our small Mana offerings will be much more appealing with copper coins.” Rainie said. “10,000 coins will last us a long time.”
+
+“Mother Earth appreciates anything you offer her, no matter the size.” Ren said. “It's the thought behind it that counts.”
+
+“Just like you.” Rainie said and kissed his top lip. “Thank you for helping us.”
+
+“You're welcome.” Ren said. “I'm just happy to help.”
+
+“I know you are.” Rainie said and pat her heart, then looked down at the cavern floor. “Shanna.”
+
+“I'm right here.” Shanna said at Ren's feet. “Is he hurting you?”
+
+Rainie laughed at her joke. “Can you make some springy trees for him? He needs them for ammunition.”
+
+“I only have a little bit of Mana left after... well...” Shanna ducked her head a little. She had cast a few spells on Ren, and like he had said, they weren't all nice.
+
+“Can you funnel Mana for me, Rainie?” Ren asked.
+
+“Of course.” Rainie said, and Ren knelt down so she could hold Shanna's hand. With their shared Aura, Rainie had a much stronger connection to Ren, and he poured Mana into her and she poured it into Shanna.
+
+“Great Gaia.” Shanna said as her entire body glowed. The sound of wind blowing through branches and leaves could be heard by everyone, and Shanna concentrated on making springy trees used for arrows and bows. She had made one herself once; but, it had drained her to do it. It took 2 days for her Mana to recover, and the bow makers had made a hundred bows and filled two quivers for each bow with the single tree. That was long before she had been trapped in the caverns and lost her wings, though.
+
+Grass sprouted from the ground at her feet and then it spread out to cover 30 feet along the walkway. All the other pixies watched as sprouts sprang up from the grass. Ren thought that it looked like one of those time-lapse videos as the sprouts became saplings, then became young trees, then became fully grown springy trees just over 15 feet tall in less than 2 minutes.
+
+“S-s-stop.” Shanna said, and Ren stopped pouring out Mana through Rainie.
+
+“If you're sure that's enough.” Ren said, and she nodded.
+
+Shanna let Rainie's hand go, and dropped to her knees in the bright green grass. “I've never made such nice grass before.” She said, and Ren felt her wonder.
+
+“Forget the grass!” Rainie said. “Look at the trees!”
+
+Shanna looked up and gasped. A 30 foot by 30 foot square of grass had a tree spaced exactly 2 feet apart in a perfect grid over the entire surface.
+
+Teepo? How many are there? Ren asked his friend.
+
+“There's 15 across the front and 15 down the side, so 225.” Teepo said. “That's assuming there's no gaps or spaces in the middle, and I can't see any.”
+
+“Thank you, Shanna.” Ren said. “Rainie, I need both hands for this part.”
+
+“Aww.” Rainie said, but he felt that she was just teasing. He carefully rubbed a fingertip on her cheek and put her down, then stood up. He took out an axe and stepped into the small grove. He braced a hand on one of the trees and swiped the axe across the bottom near the root and severed it with one blow and stored it. He heard several pixies gasp at that, then he went along and harvested 150 of the trees. When the branches were removed and the tips were cut off, the logs could be cut in half to make two of the 6 foot long bolts.
+
+Ren walked out of the now sparse grove and smiled. “If I remember correctly, as long as it's not completely harvested, it should grow back.”
+
+“Wh-what?”
+
+“There's a huge spot near my starter town, and I harvest them from there.” Ren said. “They always grow back like I didn't take anything.”
+
+“Not only is he crazy, he's pretty stupid.” One of the male pixies said. “OW!” He rubbed his head because the female pixie behind him punched him in the back of the head.
+
+“Shut up!” She said. “He's not stupid if he doesn't know!”
+
+“Know what?” Ren asked.
+
+“You saw what Shanna just did, right?” Rainie asked.
+
+Ren looked at her, and then he realized what she meant. “I really am stupid.” He said and smacked himself in the forehead with the palm of his hand. Unfortunately, he had forgotten his Skull Cracker ability had been boosted to 40% and stunned himself. Ren was knocked unconscious instantly, and his whole body went stiff as a board. He fell straight backwards and slammed into the ground with a loud thud.
+
+*
+
+“REN!” Rainie and Shanna yelled. They ran over to him and climbed up onto his chest, then all of the succubi flew over to him. The other pixies scattered, but Rainie and Shanna stayed on his chest as the succubi landed and their Aura touched him. They relaxed when they felt that he was only stunned, then looked at the two pixies.
+
+“You shouldn't move him.” Rainie said. “He might be hurt after that fall, and you might hurt him more if you do.”
+
+“You just want to keep him here.” One of the succubi said.
+
+Rainie looked up at the tall blonde and smiled. “Wouldn't you, if you weren't already going with him?”
+
+“I... yes.” Zunala said. “He's too tasty to just leave and ignore.”
+
+“He makes me feel all warm and fuzzy inside.” Rainie said. “I've never felt like that before.”
+
+“None of us have.” One of the succubi said, and she knelt to straighten his hair. “We intended to trap him; but, he trapped us instead.”
+
+“Is it still a trap if you go along willingly?” Rainie asked.
+
+“Oh, yes.” Zunala said and smiled. “That's the most dangerous trap to get caught in.”
+
+*
+
+Frikara and the other maids sat in silence as Lara, the Sage of Ages, told them all about what Ren was doing in Shargon Caverns. When she was done, there was only one thing on their minds.
+
+“Succubi.” Frikara said, shocked. “He has 20 succubi.”
+
+“After hearing about everything else, that's the part you're stuck on?” Lara asked.
+
+“He's going to be spending a lot of time with 20 horny women.” Frikara said. “He goes into battle with them. He protects them. He gave them weapons to fight, even though everyone knows succubi don't fight if they can avoid it.”
+
+“You seem really agitated about that.” Lara said. “What are you worried about?”
+
+“There's a few things that can form strong bonds between people.” Frikara said. “One of the most powerful is going into a fight together and protecting each other.” She said. “Despite the contracts, Ren is going to bond with these women.”
+
+“What are you saying?” Lara asked.
+
+“I'm saying, unless he gets out of those caverns soon and firmly puts the succubi aside...” Frikara sighed. “...they are going to become a dominant presence in his life, even though they can't actually help him fight.”
+
+Lara closed her eyes and thought about that information. “Oh, no.” She said and opened her eyes. “It's going to be much worse than that.”
+
+“What do you mean?” Frikara asked.
+
+“If he keeps them with him, there's a good chance his corruption will become permanent.” Lara said. “I have to go and warn him.” She said and moved off the bed to sit on the chair by the bed.
+
+“Don't you want to lay down?”
+
+Lara shook her head. “I'm not coming back for a day or two.” She said. “Let the others know what I told you.”
+
+Frikara nodded. “I'll tell them you'll be gone, too.”
+
+“Thanks.” Lara said. “Logout.”
+
+When Lara's avatar changed to it's phantom form, Frikara looked at the others.
+
+“Lusinia, go to Donna and ask her who we can find to train us.” Frikara said, and Lusinia nodded. “Verwynn, go to Donan and see about having him make us proper weapons.” She said. “We can worry about armor later.” She turned to Navruth. “Go to Sally and get 5 sets of travelling clothes. We can move around properly in the clothing Ren has made for us; but, for fighting we need pants.”
+
+“What about me?” Andrela asked.
+
+“Find us a good spot to train. One that is out of the way and hidden from prying eyes.” Frikara said. “I'll go to the general store for the supplies we need for making targets and practice dummies.” She said and smiled. “If Ren wants a coherent fighting force... with the gods as our witnesses... we are going to be the only ones he needs!”

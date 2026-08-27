@@ -1,0 +1,253 @@
+---
+id: 6c5a748f-bda3-5a82-8266-42758c487803
+page-type-slug: story-chapter-royal-road
+title: "Chapter 447 - A Solution"
+slug: 0446-chapter-447-a-solution
+partOf: mythrans-master-of-all-continued-completed
+position: 446
+ownLength: 3167
+unit: words
+publishedAt: 2017-12-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179403/chapter-447-a-solution"
+royalRoadId: "179403"
+---
+
+Ren walked Rosie and her grandmother back to their house, while Princess trotted sedately behind them; and the old lady talked non-stop the entire way. She said all the things she was looking forward to when they moved, and couldn't wait to see their new home. Ren thought it was a little odd that her emotions had done a complete 180 degree turn from how she felt when she thought she would be left behind, to how she felt now that she would be included.
+
+Rosie, on the other hand, was overjoyed that Ren was going to let her bring her grandmother along, even though she was still embarrassed about what her grandmother had said.
+
+I can't believe she just offered me up to him like that. Rosie thought and looked at Ren as he dutifully escorted her grandmother home. Her face flushed red as she thought about what it would be like to be with him.
+
+Ren felt Rosie's swirling emotions and wasn't sure what he could do or say to try and calm her down. He was pretty sure she didn't know that he could feel her emotions, so he would have to tell her soon. Now wasn't the time, though. He had to make sure to shower her grandmother with attention, because that was what she expected of him.
+
+“Here we are, here we are.” Rosie's grandmother said as they approached the front door of their house. “I'd like to say that I'm going to miss the old place, but I won't.” She said and cackled a laugh.
+
+Ren chuckled, because he could feel that she was happy.
+
+“Thank you for walking us home.” The old woman said and let go of the death grip that she had on Ren's arm. “I'm really looking forward to going on a great adventure.” She said. “Especially at my age!”
+
+Ren took her hand and bent over it. “I hope you will get as much enjoyment out of it, as I will at having the both of you so near.”
+
+“So near?”
+
+“I'm moving into the Main House tomorrow.” Ren said and kissed her hand. “It's right in front of the housing subdivisions.”
+
+“We'll be neighbours!” The old woman said happily and squeezed his hand.
+
+“Practically next door.” Ren said and smiled. “If you need a hand moving your things, let me know.”
+
+“No, no.” She said and waved his offer away. “You take care of your own and get yourself settled.” She smiled. “We can handle it.”
+
+Ren nodded and she went into the house and shut the door.
+
+“Ren, thank you.” Rosie said. “You didn't have to do this.”
+
+Ren thought about his Prince Charming title and thought off, took her hand, and pulled her close. “Rosie, I can honestly say that I thought she would be coming along when I made the offer.” He said and put his arms around her to hug her. “I would never ask you to leave her behind.”
+
+“Ren, you really are too good to be true.” Rosie said.
+
+Ren chuckled and let her out of the hug. “What are you going to say when I tell you that I've assigned you to the Head Librarian job, gave you an outrageous budget, and want you to use the funds as you see fit?”
+
+Rosie's mouth dropped open. “I... I thought you said something like that before.” She said. “I'm the Head Librarian?”
+
+“I have a citizen in my county that's a Librarian, but I don't know her name and haven't offered her a job yet.” Ren said. “I was planning on offering her the back-up position, and you can assign her shifts, or days to be there, or whatever you want.” He said. “Hire assistants and workers. Make it the nicest Library anyone has ever been in.”
+
+“Oh, Ren.” Rosie said and kissed him. This went on for several minutes, and she broke the kiss herself when reason overrode her emotions and she knew that she needed to get inside to start packing. “Thank you.”
+
+Ren took out a platinum coin and gave it to her.
+
+“What's this for?”
+
+“Moving expenses, if you have any.” Ren said. “Make sure you take everything that you want to take, and don't leave something behind because it's too big, or too old, or any other excuse.”
+
+Rosie chuckled. “Can we just take the house, then?”
+
+“If you want to.” Ren said.
+
+“Wh-what?”
+
+“I'll dig it up and put it on some kind of transport.” Ren said.
+
+“You're serious.” Rosie said, completely surprised. “I was joking.”
+
+“I'm not.” Ren said. “If you want this house, I'll move it there for you.”
+
+“I... good god, Ren!” Rosie exclaimed. “I want to say yes, just so I can see you move it!”
+
+Ren laughed. “I'll only do it if you really want the house.”
+
+“No, I don't want it.” Rosie admitted.
+
+“Then pack up your things, and I'll probably see you there tomorrow.” Ren said. “Hire some carts and drivers to help move everything, okay?”
+
+Rosie nodded. “Bye, Ren.”
+
+“Bye, Rosie.” Ren said and climbed up onto Princess' saddle. She started to trot away, then went to half speed and disappeared from sight.
+
+*
+
+Officer Holly had the cart drop her off at the end of the Artesian District and walked down the street. She did it as discretely as she could, and sneaked around the nearby tailor's office to see that Ren's shop was already closed. She wasn't sure if Ren had been back or not, and berated herself for not checking her tracking software to see where he was.
+
+I'll do that now, since this is a safe zone. Officer Holly thought. “Logout.”
+
+*
+
+“Go to Anabelle.” Ren said.
+
+Princess ran fast to his business as Ren concentrated on his Freedom Aura. It merged with Anabelle's, and he felt her surprise and delight. The shop was closed, so he took Princess around to the back. He dismounted and ran up the back stairs, went in the back door, and up to the apartment.
+
+“Ren.” Anabelle said as he came in through the door. “I thought...”
+
+“I'm moving out to the county tomorrow.” Ren said. “I'll be back to visit a lot; but, you know if I get busy...”
+
+“How long can you stay?”
+
+“An hour.” Ren said and walked over to the bed.
+
+“Don't you want me to come over to the house?”
+
+Ren shook his head. “It was very nice of you to agree to that; but, I really only did that so they would know what you mean to me.”
+
+“So I don't have to share the bed if I don't want to?” Anabelle asked, and he nodded. “What if I do?”
+
+“Then I'll take you over there and we can all share emotions again.”
+
+“You're leaving it up to me, then.”
+
+“Of course.” Ren said. “So, do you want me to make passionate love to you here, or go to the house and make sweet love to you there?”
+
+“Passionate, please.” Anabelle said.
+
+“Only if you beg.” Ren said.
+
+Anabelle knelt, held her hands in front of her, and clasped them together to plead. “Ren! Please! I beg of you!” She said desperately, and he felt the accompanying emotions. “Ravish me and make me yours!”
+
+“Clothes on or off?”
+
+“On!”
+
+Ren smiled evilly at her, filled their shared Aura with naughtiness to make her gasp, and picked her up. She let out that little yip of surprise as he turned her around and bent her over the bed, yanked her business skirt up and pulled down her underwear.
+
+“W-wait!” Anabelle said and started to squirm.
+
+“No.” Ren said as he pulled his pants down. Without preamble or preparation of any kind, forcefully joined with her. Anabelle gasped loudly at the sudden intrusion, and their shared Aura was filled with her immediate pleasure.
+
+“GOD!” Anabelle yelled as she finished, and then gasped again as Ren's happiness at pleasing her filled the Aura as well. He started to move enthusiastically, and she couldn't fight the sensations. “You... you really do... enjoy making me... HAPPY!” She yelled as she went again. His happiness increased as her pleasure did, and Anabelle buried her face in the blanket on the bed so she wouldn't scream as Ren had his way with her. Or, to be fair, he had her way with her, and she thoroughly enjoyed it.
+
+********
+
+Officer Holly saw Ren was inside the business and berated herself again for being right there and missing him. Dammit, I hope I can get back in there in time. She thought as she laid back on her recliner and put on the VR headset again.
+
+“Flow Login Start.”
+
+********
+
+Officer Holly's phantom form phased back to solid and she saw Ren's mount behind the building. Well, that's physical proof that he's there. She thought. Now, I wonder...
+
+Officer Holly activated her Track skill and chose the hoof prints in front of her; which made Ren's mount glow slightly. When she looked down, the tracks the mount had made were highlighted as well, with the older tracks only partly shown.
+
+Now this is a neat ability. Officer Holly thought and looked at the boot prints by the stairs and chose those. Footprints went from near the mount and up the stairs, and disappeared under the second floor back door. Oh, wow. She thought, amazed. I really wish we had something like this in real life!
+
+*
+
+When the self-imposed time limit of an hour was up, Ren helped Anabelle finish again and finished himself.
+
+“Ren... you... oh, my god... that was... oh, god.” Anabelle mumbled as Ren stored the blanket to clean it, then tucked her under it. They both felt how much they each had enjoyed it, and Ren gave her a kiss.
+
+“I'll try not to let too much time pass between visits.”
+
+Anabelle took several deep breaths to wait until she could speak normally. “I think... yes, I believe I can wait now.” She said and smiled. “I don't know if I can take feeling this good all the time.” She chuckled. “I'll let you know when I recover enough so we can do this again.”
+
+“You'll need this.” Ren said and took out a gold Sending Ring and held it out to her. “If you need me, just think of me and talk.”
+
+“Ren...” Anabelle took the ring and looked at her hands. She already wore a ring on each hand, which was the normal limit. “I can't wear it.”
+
+Ren smiled as he activated his Craft Wondrous Item ability, and added an iron bar to make a Hand Of Glory. He used Double Infusion to add the modified Amulet of the Spider enchantment to it, and held it out.
+
+“It can hold 2 rings.” Ren said, and she slipped the ring onto one of the fingers.
+
+“I don't know what to say.” Anabelle said as he gave the Hand of Glory to her and she equipped it.
+
+“You could probably say, 'it's about damn time you let me contact you, you idiot'.” Ren said, and she laughed.
+
+“Only if that's Adventurer's language for 'I love you'.” Anabelle said.
+
+“Of course it is.” Ren said and gave her another kiss. “I'll see you later.”
+
+“Bye, Ren.”
+
+Ren left the apartment and went out the back door to meet Princess. “Back to the house.” He said as he climbed up into the saddle. Princess took off and ran down the street, around the corner, and to the Housing District.
+
+*
+
+Officer Holly only had to wait for about 15 minutes, and then watched as Ren came out of the back door and climbed up onto Princess.
+
+“Back to the house.” Ren said, and Princess practically disappeared.
+
+What the hell? Officer Holly thought, then chose Princess' hoof prints. She checked around to make sure no one was following him or her, and followed Princess' tracks. Even though I know where he's going, it's always good to practice essential skills.
+
+*
+
+Ren switched Auras to the Contact Aura he shared with the maids, and felt them when the Aura's merged. Princess came to a stop in front of the house, and Ren hopped off to open the door for her. She went into her room, and Ren told Riley and Stacy they were going to the county tomorrow.
+
+They perked up at the news and he pat them, gave Princess some food, and closed the door. He ran back out to the skeleton knights and refilled the Disguise Self wand for them. He asked them if anything happened, and they said that nothing did. He asked about the succubi, and they told him that they hadn't come out since they went in the day before.
+
+Ren was a little worried, so he ran to the tower and went inside. All the succubi were in their beds, tucked under the blankets. He activated Sneak and walked through the downstairs and the upstairs, and found that they were all asleep in their beds. He didn't think it was odd, mainly because it was bed time; so, he left quietly and went next door to the house and ran up the stairs.
+
+“Hi, Ren.” Frikara said when he entered the bedroom, and he felt anticipation from her.
+
+“What's going on?” Ren asked, and she chuckled.
+
+“Nothing.” Frikara said and he felt her desire; then a matching feeling from the other 4 maids. “We've just been waiting for you.”
+
+“I'm sorry I didn't come back right away.” Ren said. “I stopped into Donna's for half an hour, then saw Anabelle for an hour.”
+
+Frikara stood up, stored what little clothing she wore, and walked over to him. She swayed her hips a little, which swayed her breasts a little, and Ren wasn't sure why it was a lot more erotic than usual. He couldn't take his eyes off of her, and Frikara could feel his intense stare. His desire for her spiked through the shared Aura, and it made her gasp as her body responded to him. When she reached him, he stored his clothing without being asked and she wrapped her arms around his neck and kissed him.
+
+Ren put his hands on her hips and lifted, Frikara wrapped her legs around him, and they stared at each other as they joined right there in the doorway. He carried her over to the bed without breaking the kiss, turned around, and sat down. The other maids were silent as Ren and Frikara shared a very intimate moment with each other, and Ren laid back to let Frikara take over.
+
+“By the gods.” Frikara whispered and moved her hips, and she felt him fill her both emotionally and physically. They kept staring at each other as they moved in rhythm, and the other maids didn't come over to touch them. They could feel the intensity between Ren and Frikara, and didn't want to interfere with the magic they were sharing.
+
+That's what it was. Magic.
+
+A slight white light appeared within Ren's chest, and almost like smoke, a tendril of it flowed out. A similar white light appeared within Frikara's chest and it formed a similar tendril. Everyone watched as the ends of the two strands of smoky light floated around, almost teasingly, and then the ends touched.
+
+“AHH!” Frikara and Ren yelled together as their sharing bridged the limitations the Aura imposed. They each felt exactly what the other felt without restriction, and they both finished at the same time as the smoke tendrils became a straight beam of light between them.
+
+Notice!
+
+You have formed a permanent and unbreakable bond with Frikara (NPC-Special). All agreements, contracts, pledges, etc., between you have been cancelled and replaced with the permanent condition: Devotion.
+
+Notice!
+
+You have unlocked a new ability: Soul Anchor. This grants you the power to form an unbreakable bond with those that are completely devoted to you. This does not come without a price, however. This bond is permanent. When you die, they will feel your death as if it was their own.
+
+Grants the condition: Devotion.
+
+“By the gods!” Frikara exclaimed as the beam of light faded. She tried to touch where it was, but her hand met nothing but air. “Ren, I... I can feel you.”
+
+“I... I...” Ren didn't know what to say. His plan had succeeded and Frikara was no longer under contract to him; but, now they were bound in a completely different way.
+
+“No, don't be scared!” Frikara said and kissed him, then started to move her hips again. “D-darling, you... freed me... and... by the gods!” She finished and took several breaths, then kept moving. “You gave me... Regeneration.” She said, and he felt how utterly happy she was.
+
+“F-F-Frikara!” Ren exclaimed and finished.
+
+Frikara finished again herself, and collapsed on top of him. “Thank you!” She said and kissed him. “Thank you so much!”
+
+*
+
+Officer Holly had carefully tracked Princess through the streets, and then she felt uneasy when she reached the street Ren's house was on. She had only seen a single guard as he patrolled this end of the street, and had avoided him easily.
+
+It's time to try a spell, I think. Officer Holly thought, and did the invoking gestures that her instructor had taught her, whispered the chant of the Detect Undead spell, and waited.
+
+Officer Holly felt her personal Aura expand out to cover a 100 foot circle, like water poured out on the floor, and then she gasped as an undead splashed through it and the feeling gave her a sharp poke in the side.
+
+I can handle one undead skeleton. Officer Holly thought confidently, and then another one entered her Aura. The feeling poked her in the belly this time, and she wasn't sure what to do. Realistically, all she could do was wait; so, for the moment that was what she did. The longer she concentrated on the spell, the more information she gained about the undead as they passed through her Aura.
+
+As Officer Holly waited, she discovered there were 4 different ones moving around in the same pattern. Her body shook of it's own accord as she discovered they were all the same ridiculously high level, Level 60; and they had identical armor with high Protection, and enormous Mana reserves.
+
+I am so glad I didn't attack that first one. Officer Holly thought in relief. I'm only Level 10, and it would have killed me easily!
+
+It took her a few minutes to recover from the shock of realizing the overwhelming strength of the threat, then she remembered what her instructor had told her if she ever came across an undead foe that she couldn't handle. It only worked once a day, and she was told to only use it in an emergency.
+
+This is definitely an emergency. Officer Holly thought as she took a deep breath and let it out, then she clasped her hands together and prayed.

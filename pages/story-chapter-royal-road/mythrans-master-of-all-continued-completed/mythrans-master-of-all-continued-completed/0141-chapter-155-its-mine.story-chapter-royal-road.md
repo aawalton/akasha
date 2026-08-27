@@ -1,0 +1,479 @@
+---
+id: 8582d0fb-0748-559d-b212-961226698846
+page-type-slug: story-chapter-royal-road
+title: "Chapter 155 - It's Mine!"
+slug: 0141-chapter-155-its-mine
+partOf: mythrans-master-of-all-continued-completed
+position: 141
+ownLength: 4751
+unit: words
+publishedAt: 2017-01-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115834/chapter-155-its-mine"
+royalRoadId: "115834"
+---
+
+Ren stopped in the housing sub-division, and went to Artrude's house. He didn't know which one it was, as all 6 of the houses on that side were 'close' to where the medical building was being built; but since he knew that Wohrum was in the first house, it narrowed the choices down. Ren walked along them and dismissed the popups until he got to the last house and it said Artrude and Malenka lived there. He went to the door and knocked. A minute later, Artrude opened the door.
+
+“Your highness!” She exclaimed, and closed the book she was reading. “Please come in.”
+
+“That's not necess-” Ren started to say, and she stepped forward to put an arm around him.
+
+“You're our very first visitor!” Artrude said, and guided him inside. “I'm sorry that we don't have any furniture to let you sit down.”
+
+Ren looked at her with surprise on his face. “Damn, I knew I was forgetting something.”
+
+“What do you mean?”
+
+“I was supposed to order furniture for the houses.”
+
+It was her turn to look at him in surprise. “You gave us a house, and you want to give us furniture, too?”
+
+“It was supposed to already have furniture in it, before you moved in.” Ren said. “I've just had so much going on that...”
+
+“I know!” Artrude laughed and held up the book. “I'm about halfway through.”
+
+He walked into the main room and Ren looked around. It was nearly completely bare, except for 2 bedrolls on the floor in the bedroom.
+
+“I'm terribly sorry you've had to sleep like that.” Ren said, then took out enough wood to make them a large bed, and sewed up a mattress for them to sleep on. It took about 20 minutes, and Artrude stared at him the whole time.
+
+“You really did make everything in the Main House.”
+
+Ren nodded slightly. “I like making things.”
+
+She rolled up the bedrolls and moved them aside and Ren put the big bed into the bedroom.
+
+“Thank you very much, your highness.” Artrude said and sat down. “Ooo, that's comfy.”
+
+“You can contact Ereka for any furniture you need.” Ren said. “I'll pay for it.”
+
+“Your highness.” Artrude said. “You shouldn't be giving all of this away for free.” She touched the brooch she wore. “It's more than any of us have ever had before.”
+
+“Oh! That reminds me of why I came here.” Ren said. “Don't throw out the wands when they're empty.”
+
+Artrude looked at him like he was crazy. “Even if they were made of wood, I would never throw out something like that.” She said. “Even etched like it is, the diamond is worth a few platinum.”
+
+Ren nodded slightly. “It's worth a lot more than that.” He said. “The wands are rechargeable.”
+
+Artrude dropped the book she held, and it hit the floor with a resounding thud. “What... what did you say?”
+
+“The wands can be recharged.” Ren said. “I think it's because I used expensive diamonds as the focus element.”
+
+Artrude got up from the bed and dug through one of the bedrolls to pull out one of the wands Ren had given her. She used it on herself, and then put her hand on the face of the diamond. She poured Mana into it, and the diamond glowed for a moment, and she gasped.
+
+“By the gods! It works!” She sat back down on the bed and held the wand in her hand. “You... you made a... a rechargeable wand!”
+
+BANG! The front door slammed open and Malenka hopped into the house, twirling around and holding up her brooch.
+
+“I love you!” Malenka said, and did a pirouette. “I looooove yoooou!” She said, came to a stop at the bedroom doorway, and planted a huge kiss on the diamond. She froze with her lips still on the brooch, as she saw Ren standing there. “Ahhhh!” She screamed and tossed the brooch into the air. Ren caught it easily as she fell to the floor onto her behind.
+
+“Malenka.” Artrude said, trying not to laugh. “We have a visitor.”
+
+“That... that wasn't what it looked like!” Malenka said to Ren. He smiled and held a hand out to her. After a moment, she took it and he helped her stand.
+
+“It looked like you were having some fun dancing around.” Ren said. “Wasn't that what I saw?”
+
+She blushed slightly, and nodded. He handed the brooch to her and smiled.
+
+“I'm glad you're enjoying it.”
+
+“I am!” She exclaimed, and held it close. “It's wonderful!”
+
+Artrude chuckled. “The young and impressionable.”
+
+“You're only a year older than me!” Malenka responded, then held the brooch out in front of her face. “It sparkles so much.” Her eyes gleamed in pleasure. “I've never seen anything like it.”
+
+Artrude stood up and went over to her. “I'm wearing one just like it.”
+
+“Yeah, but that's yours.” Malenka said. “This one's mine. Aaaaallll mine!”
+
+“If you're reacting this strongly from the brooch, I don't know if I should give you the wands.” Artrude said with a smile on her face.
+
+“THE WHAT?!?”
+
+“Wands.” She said and held up the Minor Healing wand she had in her hand. The 1 inch wide diamond on the tip shimmered.
+
+“Oooo!” Malenka stared at it. Artrude moved it from side to side, and Malenka's head followed the movements.
+
+“She's just like a crow when something shiny is in front of her.” Artrude said to Ren, then laughed as she handed the wand to Malenka.
+
+“It's a Minor Healing wand! With 50 charges!” She scrambled to hold the wand, and put on the brooch, and dance around, all at the same time.
+
+“Hold on!” Artrude said. “You're going to hurt yourself if you keep going like that.”
+
+“That's okay!” Malenka said. “I've got a MINOR HEALING WAND!”
+
+Artrude took the brooch and attached it to Malenka's white tunic. “There.” She said. “Go have fun.”
+
+“Yay!” Malenka took off out the still open front door and Ren and Artrude laughed as she bounced around outside.
+
+“If I didn't know she was 25, I'd swear she was only 12.”
+
+Ren smiled. “The short red hair and freckles kind of adds to that image.”
+
+“I know.” Artrude grinned. “She's so cute.”
+
+“How long have you been together?” Ren asked.
+
+“Since our training at the convent last year.” Artrude said, then put a hand over her mouth. “By the gods, I did not just tell you that!”
+
+Ren put a hand on her arm. “It's okay.” He said. “I won't tell anyone.”
+
+Artrude shook her head. “It was me who wasn't supposed to tell anyone.” She sighed. “We'll pack our things and go back to the Main Keep's reserve medical staff.”
+
+“Why?”
+
+“What?”
+
+“Why are you leaving?”
+
+She looked at Ren like he was crazy. “We've been kicked out of 2 different Houses when they found out we were...”
+
+“This House isn't like other Houses.” Ren squeezed her arm. “I don't know how the other residents might react; but if anyone says anything bad to you about it, let me know.”
+
+“But...”
+
+“People that love each other, shouldn't have to worry about what other people think.” Ren said. “Sometimes just being together causes so much trouble; you don't need others interfering in your life, too.”
+
+“You sound like you've had experience with that.” Artrude said, and put a hand on his hand that was still on her arm.
+
+Ren nodded slightly. “Yeah. My first real relationship.” He said. “Boy, did it blow up and fall apart fast.” He shook his head. “Despite all the 'help' I got from friends.”
+
+Artrude chuckled. “Yes, well-meaning people can make a big mess even bigger.”
+
+Ren nodded and made a table, and two chairs quickly. “There's a cart reserved for the medical staff at the stables down the road.” He said as he put the table and chairs in the kitchen, then made a couch. “It's white, so you'll know which one to use.”
+
+“Your highness, thank you.” Artrude said. “We thought... well, we thought any place would be better than being stuck in the reserves at the Main Keep.” She said. “If we'd known there was a House like this, we'd have been begging at your door to let us in.”
+
+Ren laughed and finished the couch. “I've been trying to make a place where people can go and work for the enjoyment of it; not because they have to, or need to.” He looked at her. “This and the mattress will have to stay white, until I get the dying station from my workshop.”
+
+“White's just fine, your highness.”
+
+Ren smiled. “Then never mind.”
+
+“You've delivered your messages, and made us some great furniture. Is there anything else you can do for us?” Artrude asked, then laughed.
+
+Ren laughed, too. “I can't help myself sometimes.” He said. “I'm just glad you're not taking all of this as flirting or an engagement proposal.”
+
+“Who said I wasn't?” She asked, and Ren's mouth fell open and his eyes widened.
+
+“By the gods, I have to remember that face.” Artrude grinned. Ren sighed in relief and she snorted a laugh. “Don't worry, your highness. I'm well and truly in love with that little vixen traipsing around in the yard.”
+
+“I'd like to hear the story of how you got together later.” Ren said. “Right now, I've got to get back to work.”
+
+“Of course.” Artrude said. “I've kept you here for much longer than either of us intended.”
+
+Ren chuckled. “It's hard to leave when you enjoy someone's company.”
+
+“It is, isn't it?”
+
+Ren took out a copy of his other 2 books and gave them to her. “Since you seem to enjoy reading, you might want to read these as well.” He said, then bowed slightly to her. “Goodbye Ma'am.”
+
+Artrude snorted a laugh. “You can call me by my name, your highness. You know it won't count.”
+
+“Then you can use mine for the same reason.” Ren said. “But only in private. We can't have anyone else think I'm giving you offense.”
+
+“Of course, your hi... ahem...”
+
+“Have a good day, Artrude.”
+
+“You too, Ren.”
+
+Ren left the house, and was nearly tackled by Malenka as she jumped at him. He caught her in his arms and she hugged him around the neck.
+
+“Thank you, your highness!” She said and kissed him on the lips, then let him go and danced away. He heard laughing from the front door of the house, and he turned around.
+
+“You faced the champion of House Faldihr without batting an eye, and yet when a woman kisses you unexpectedly...”
+
+“That's because I knew how to handle myself in the fight.” Ren grinned. “How am I supposed to handle that?” He waved at Malenka as she continued to dance around.
+
+“The same way I do.” Artrude said, and Ren's face flushed a little red. “Not like that!” She said, and her face flushed red, too. “Take it as the compliment that it is, and move on.”
+
+“Oh.” Ren nodded slightly, and smiled. “Yes, Ma'am. I was definitely complimented.”
+
+Artrude laughed, and Ren waved to her as he ran out of the sub-division and down the road. He went into the stables, and looked at the horses. He saw they were well-fed and watered, and knocked on the office door.
+
+“Come in.” The manager said, and Ren entered. “What can I do for you, your highness?”
+
+“I'm just checking in to see if you've got everything you need.” He said. “If you don't, send someone over to the Main House and they can order anything you need.”
+
+“That's... that's mighty generous of you.” She said.
+
+“You're providing an essential service to the House.” Ren said. “I want you to have everything you need.”
+
+“Thank you, sir.”
+
+Ren left the office and saw that a female worker was dithering. He walked over to her and she looked at him, with surprise on her face.
+
+“Is everything all right?” Ren asked her, and he saw she was shaking slightly. “Relax. Take a deep breath.”
+
+She did as he said and breathed deeply, then let it out.
+
+“Can you tell me what's bothering you?”
+
+“I've... I've been trying to build up the... the courage to... talk to you.” She glanced at his face and then lowered her head.
+
+“Don't do that.” Ren said. “Please, look at me.”
+
+She lifted her head and looked at him.
+
+“What did you want to talk about?” Ren said, as he concentrated on his Camaraderie Aura. “It must be important for you to be acting this way.”
+
+She looked around and saw that the other workers were busy doing their work tending the horses, and weren't paying them any attention.
+
+“Sir, I... I was wondering...”
+
+Ren waited patiently for her to continue.
+
+“I... could I... have an... an... advance on my pay?”
+
+Ren smiled. He had been worried that she was going to confess undying love or something. “How much would you like?”
+
+She looked at him in shock. “You... you're going to give it to me?”
+
+“Of course I'll give it to you.”
+
+“Don't you want to know what it's for?” She asked.
+
+“If I had to take a guess, I'd say you're worried about the taxes next month.” Ren said. “Or some other bills that are due.” He took out a coin pouch. “Do you need a coin pouch?”
+
+She nodded and Ren let her pick one. She took a purple one, as it matched the belt she wore.
+
+“Now. How much do you need?”
+
+“A... about 10 gold, sir.” She said. “That's two weeks pay.” She got a frantic look in her eyes as she continued. “I'll work twice as hard! I'll even stay late and come in early to make it up, sir!”
+
+“There's no need for any extra effort on your part.” Ren chuckled. “It's like I said before. As long as you do a good job, you'll get paid well.” He took out 20 gold and handed it to her. She stared at the pile of coins.
+
+“Sir, I... I can't work for the next month with no income.” She tried to hand some of it back.
+
+“You said you wanted 2 weeks pay. That's two weeks pay.”
+
+“It's WHAT?!?”
+
+“Everyone seems to misunderstand when I tell them that I 'pay well'.” Ren laughed and put a hand on her shoulder. “I hope you can stop worrying about money for a while.”
+
+She stared at him as he stepped away, bowed slightly to her, and watched him as he ran down the road. She hadn't even noticed the Honor gain until she blinked her eyes a few times, and she gasped.
+
+Ren ran down the road and stopped at Dorcot's place, then knocked on the door.
+
+“I'm coming, I'm coming!” A gruff voice said and opened the door. “There you are!” He said and stepped back. “I've been waiting all day.”
+
+Ren smiled and stepped inside. “I've been kind of busy.” He said, and took out the book. “You might want to read this when you get the chance, and you'll have some idea why.”
+
+The mine foreman took the book and read the cover. “Is this what I think it is?”
+
+“Yes. You're in there, too.”
+
+“I'm going to be famous!”
+
+“Not really.” Ren grinned. “I don't know your name, so you're just 'the mine foreman'.”
+
+“Well, crap.” He said. “Fame is so fleeting.”
+
+Ren laughed. “Sorry. I can't have the ten thousand copies reprinted if you do tell me your name.”
+
+“Did you say ten... ten thousand copies?”
+
+Ren nodded slightly. “I gave almost all of them away, too.”
+
+“Geez, you really are crazy.”
+
+Ren laughed again. “Yeah, that's a popular opinion.”
+
+The mine foreman led Ren to the kitchen and the tiny table there, and they sat down.
+
+“I hear you might have a job for me.”
+
+“That depends.” Ren said. “Are you still bound to House Lodur?”
+
+“Not a chance.” He laughed. “Once they found out the new production ideas were all yours, I was shoved out the door faster than dirt on a broom.”
+
+“How much was the one year penalty fine?” Ren asked.
+
+He smiled crookedly. “You don't want to know.”
+
+Ren shook his head. “I don't understand how they got away with doing that.” He said. “How in the world did a contract like that get approved?”
+
+“The Council voted on it, of course.”
+
+Ren snorted a laugh. “I bet it wasn't the whole Council.”
+
+The foreman chuckled. “No one objected, because it made people want to stay. If they left, they were required to pay or work the mines; either way, House Lodur got a cut and everyone made money.”
+
+Ren shook his head again. “I don't do things that way.”
+
+“That's good to know.” The mine foreman said. “Running the mines is one thing, working in them is another.”
+
+“Yeah, Dorcot told me you weren't a general laborer.”
+
+The mine foreman snorted a laugh. “I blew my knees out while mining years ago.”
+
+“Oh, no.” Ren's eyes widened. “They healed wrong.”
+
+“You're a smart one.” He said. “I couldn't get to a healer.” The mine foreman shook his head. “At the time I had to crawl nearly half a mile before one of the other miners found me.”
+
+“They made you foreman after that.”
+
+He nodded slightly. “Once I was foreman, I hired a dedicated healer right away, and had the men given regular checks.” He said. “No one goes in the mines alone, either.”
+
+Ren nodded slightly. “I'm glad.” He said. “I own several mountains along the coast.” He took out the land deed, and the attached map to show the mine foreman the mountain range.
+
+“Several mountains, he says.” The mine foreman said. “That's the whole ridge, nearly all the way to the convent.”
+
+“I don't know if you want to join House Neram or not.” Ren said. “If you don't, this is just a job you'll be hired to do.”
+
+“That sounds fine.” The mine foreman said. “I'm kind of sick of House politics.”
+
+Ren smiled. “Me, too.” He pointed to the first mountain in the ridge, right where he had built the little shack. “I've got a feeling about this one.”
+
+“What's the feeling tell you?” The foreman asked, curious.
+
+“Iron.” Ren said. “Lots and lots of iron.”
+
+“Really?” The mine foreman asked. “I've had survey crews out that way. They didn't find anything.”
+
+Ren sat back. “So that's why House Lodur didn't buy them all.” He said. “That's been bugging me for a while.”
+
+“They had all the money, why didn't they buy all the land?”
+
+Ren nodded slightly, and the mine foreman smiled.
+
+“Why would they spend all that money, and pay taxes on all that land, if there wasn't anything on it worth the money?” He asked. “Easy. Less headaches.”
+
+Ren tilted his head slightly, and the foreman snorted another laugh.
+
+“You can't imagine the complaints and problems they've had from having the mines so close to their residents.”
+
+“They should have kept them separate, like I'm going to.” Ren smiled. “I assume you know some people to go out there and scout?”
+
+He nodded slightly. “I even know a few people in the Mining Guild, so we can get the permits needed to start digging.”
+
+“How much is that going to cost?”
+
+“Probably a few platinum.” The mine foreman said. “Not for the permits, though. Those are free.” He said. “It's to pay the Guild Members for letting us mine there without their input on how to do things.”
+
+“If we're paying the money anyways, then get permits for everything.” Ren grinned and ran a finger all along the ridge, right up to the three mountains with the diamond mine in the center. “I want it all nice and legal.”
+
+“You got it.” The mine foreman said and held out a hand. Ren shook it, and handed him 100 platinum.
+
+“I'll leave this in your hands.” Ren said. “Get another building made behind the shed I have there. Use the shed as a guard station, then add a gate. Hire miners to dig a large main tunnel down into the center of the mountain. I'll work on getting rails and carts made as soon as I can.”
+
+The foreman smiled. “You can't have too much of that 8 tons left.”
+
+Ren shook his head. “I'm burning through it pretty fast. When I went to the mines to buy more, that's when I found out you weren't there, and told Dorcot.”
+
+He nodded slightly. “He found me in the tavern down by the docks.” He grinned. “It took me a day to sober up.”
+
+“As long as you keep it casual, or drink on your own time, I won't bother you about it.”
+
+He nodded slightly. “I'm going to be too busy to drink.”
+
+“I hope so.” Ren said. “I need that ore.”
+
+“What if the mountain doesn't have it?”
+
+“It will, but you can check the next mountain.” Ren said. “You never know. We might get lucky.”
+
+The mine foreman chuckled. “It's about time something good happened around here.”
+
+“Wait here.” Ren said. “I'll get you something else you're going to need.”
+
+“It's too late in the day to get things started anyways.” He said. “I'll be here.”
+
+Ren walked out of the house, then ran up to the workshop. He saw the women stop shoveling, and he waited for them to go inside. He followed them and asked how many bags.
+
+“Only 500 today.” Dorathy said. “We ran out of fabric.”
+
+“I'm sorry.” Ren said. “I forgot to order more.”
+
+“That's okay.” She said. “Tomorrow's our day off.”
+
+“I'll have more fabric, or a huge pile of empty sacks by then.” Ren paid them their money, and repaired their clothing and equipment.
+
+“I can't believe you can do that.” One woman said. “I'm tempted to wear something different every day just so you'll repair it for me.”
+
+Ren smiled. “The last time I had a bunch of workers, they brought different shovels every day, too.”
+
+She laughed. “So I wouldn't be abusing your hospitality then?”
+
+Ren shook his head. “I'll fix and repair anything you need me to.” He said. “I'll have to draw the line at a low cut dress and high heeled shoes, though.”
+
+Another woman snorted a laugh. “You look pretty wearing them, but you'd kill yourself trying to shovel!”
+
+Ren laughed. “Exactly.” He said. “There's a few more carts, so it won't take long to get you home.” He bid them a good day, and they filed out of the workshop to head to the stables. Ren went into the forge room, and Tee-one was there.
+
+“How is everything?” Ren asked.
+
+“Boring.” Tee-one said. “There's only so much rebar one can make before they go numb.”
+
+Ren snorted a laugh. “Sorry, I should have asked you to make something else.”
+
+“Like what?”
+
+Ren leaned in close, and whispered. “A Ballista.”
+
+Tee-one's eyes widened, then he smiled. “There might be enough iron ore left for that.”
+
+Ren smiled. “We can't make it solely out of metal.” He said. “Not until the new mine is up and running.”
+
+“We're getting a new mine?” Tee-one asked. “I can't wait!”
+
+Ren laughed. “That was the same thought I had.”
+
+“How long?”
+
+“He didn't say.” Ren said and took out the paving stone he'd made the 100 small square cut outs on. He filled it and absorbed the heat, added the energy to his Mana Pool, and brought it up to three quarters full. Ren concentrated on the Sending Glyph (of 4 Sending Runes) and the House Neram crest design, and touched two of the steel squares with the fingers of the same hand, and enchanted them. It took a tenth of his Mana Pool, but it worked as the design etched itself into the surface of the metal.
+
+“Yes!” Ren exclaimed, then repeated the process six more times, emptying his Mana Pool. He did it 3 more times and emptied his Mana bar as well. He now had 10 sets of Sending Squares with the House Neram crest on them, and stored each pair in their own slot. He took out a piece of wood, and cut out 10 spots to put the Sending Squares in, and stored that, too.
+
+“Tee-one, use some of the gold ore in the smelters, too.” Ren said. “Give it a good mix.” He took out the plans he'd made for the large automatic crossbows he'd made for the walls of House Neram Keep, and enlarged it to 15 feet across. He had a few springy trees left, so he gave them to Tee-one to use as ammo for the Ballista. You could get two 6 foot long bolts from each tree, so there would be enough ammo for a good demonstration. Ren left the bow part metal, as well as the braces and reinforcement; but, the majority of the body was solid wood. He even added cart wheels to the front to make it easier to move around, and for fun added a horse attachment on the back.
+
+“Go ahead and get started making the metal parts for this.” Ren said, and gave the plans to Tee-one. “I've got some Sending Squares to deliver.”
+
+“This is going to be fun!” Tee-one said and tossed some of the gold ore into the smelter. Ren left him there and ran down to Dorcot's house. He gave one of the Sending Squares to the mine foreman, and told him how they worked.
+
+“By the gods, man! Where the hell did you get them?”
+
+“I want to keep that a secret.” Ren said and grinned. “Needless to say, you can contact the Main House whenever you need something.”
+
+He shook his head. “You're going to put the Messenger Guild out of business.”
+
+“That would never happen.” Ren chuckled. “There's too many places to cover to give everyone a Sending Square, then everyone else a Sending Square. You'd need rooms of them to contact everyone.”
+
+He opened his mouth, and smiled. “Yeah, you're right.”
+
+“Don't sound so amazed.” Ren laughed and left the house. He ran down the road and stopped concentrating on his Aura as he approached the Main House's Aura. He went inside the Aura and then inside the Main House, walked to Ereka's office, and knocked on the door.
+
+“Come in.” She said, and he opened the door. She looked up from the book she was reading, and a big smile spread across her face. “Hello, your highness.”
+
+“Hi.” Ren said. “I just came here to fill you in on something, and to drop something off.” He told her about his deal with the mine foreman, and he attached the piece of wood he cut the spots out of, to the wall next to where Ereka sat. He put the Sending Square into the last slot, and wrote 'Mine' under it.
+
+“Who are you giving the other ones to?” Ereka asked.
+
+Ren wrote 'Medical' under the first slot, 'Stables' under the second, and 'Barracks' under the third.
+
+“I'm tempted to give one to each of the businesses we deal with.” Ren said. “I'm going to save them for when more things are built instead.” He slid the pairs of Sending Squares into the slots. “The manager of the stables already left, so we'll have to wait until tomorrow to give her one.” He stepped away, then went back and wrote 'Church' under the second to last one. “I almost forgot that one.”
+
+She looked at the Sending Squares, and wondered what crazy ideas he would think of next.
+
+“You might as well head home yourself.” Ren said. “There's only...”
+
+“About an hour.” Teepo said.
+
+“...about an hour before supper anyways.”
+
+Ereka shook her head. “Croggart hasn't been back since the battle.” She said. “I'm just sitting at home alone.”
+
+Ren put a hand on her shoulder. “When he comes back, offer him one of the Sending Squares.”
+
+“W-what?”
+
+“That way, he can stay in contact with you.” Ren said. “As long as he's not more than 10 hours away by cart.”
+
+“10 hours by cart?” Ereka asked. “That's their range?”
+
+Ren nodded slightly and took his hand back. “Goodnight.”
+
+“Goodnight, your highness....” She said. “...and thank you.”
+
+Ren left her office and walked out of the Main House, then ran for House Neram Keep and back to the workshop. He had an artillery weapon to make.

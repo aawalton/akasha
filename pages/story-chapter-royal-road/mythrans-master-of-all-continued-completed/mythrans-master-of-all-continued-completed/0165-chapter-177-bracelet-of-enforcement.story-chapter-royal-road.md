@@ -1,0 +1,287 @@
+---
+id: 02380e59-de57-5144-973c-4d89a72c8731
+page-type-slug: story-chapter-royal-road
+title: "Chapter 177 - Bracelet Of Enforcement"
+slug: 0165-chapter-177-bracelet-of-enforcement
+partOf: mythrans-master-of-all-continued-completed
+position: 165
+ownLength: 3043
+unit: words
+publishedAt: 2017-02-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120002/chapter-177-bracelet-of-enforcement"
+royalRoadId: "120002"
+---
+
+Ren went to the blacksmith shop and looked around. There was enough room for the forge that the dwarf had, for the racks of mining picks, and the anvil in the center. That was it.
+
+“It's a little smaller than I thought it would be.” Ren said to the dwarf there. “How do you like the layout?”
+
+“It's fine.” The dwarf said. “I can reach the racks and the forge, by only taking a step away from the anvil.”
+
+“I'm glad I brought my own materials, then.” Ren said, used the hammerpick to clear out a space right beside the blacksmith shop, nearly identical in size, and cleaned it with a shovel. He put down paving stones for the floor, and built a quick shack around it. The dwarf watched Ren in fascination the entire time, and didn't comment until Ren was done.
+
+“Why are you making space beside me?”
+
+“I figure I should keep the forges together, rather than separate them. If you get swamped with repairs, I can take up some of the slack, if necessary.”
+
+“I won't have any slack, thanks.” The dwarf said, a little testily.
+
+“You obviously haven't worked in a fully functioning mine with over a thousand workers.” Ren chuckled. “I did it for only a day and a half, and I started with a head high pile of picks to repair, and when I got them done and left for the night, the pile was nearly twice as big the next morning.”
+
+“You're kidding!” The dwarf said. “Will it be that bad here?”
+
+Ren shook his head. “One of my ideas was to hire more blacksmiths so that there was always at least 2 people working at all times to ease the load.”
+
+“How come I'm here alone, then?”
+
+“We're just getting started.” Ren said. “I'm sure once we get the main tunnel finished, we'll have lots of miners working here. Then we'll need another blacksmith or two to keep up with the demand.”
+
+The dwarf nodded slightly and went back to his forge. Ren went into his new workshop and took out the glass forge and placed it on the far side of the space, to leave enough room for a mold on the floor for the largest window he would need for the Church. He put down the bricks to make that mold, just so he wouldn't forget to do it later. Then he made another forge for himself, enchanted it, and set the smelter beside it. Since they didn't really have any ore yet, he didn't put it on the forge because it wasn't needed yet. He used his Major Healing wand to refill his Mana Pool again, and turned on the forge. Ren reached into the hood of his cloak, and took out the baby fire elemental.
+
+“Hey, you.” He said, and tickled it. “Want to enjoy some good heat for a while?”
+
+It's color changed slightly, and Ren opened up the forge for it and put it inside.
+
+“I'll put you in your pen to eat when I get back.” Ren said, and closed the forge after he saw the baby fire elemental stretch out in the flames. “Now that I have that set up, I need an anvil to work with.” Ren left his workshop and asked the dwarf where he got his anvil. He responded that it was a family heirloom and that his father's father had used it. Ren knelt in front of it and examined it.
+
+Figurn's Anvil
+
+This anvil was forged in the fires of Mount Vongurhm.
+
+Durability: 1500/25000
+
+“Wow.” Ren said. “It's nearly out of Durability.”
+
+“Yeah.” The dwarf said. “It's had a long life.”
+
+“Why haven't you repaired it?” Ren asked. “You shouldn't let something like this just break apart.”
+
+“Repair it?” The dwarf laughed. “Do you know the kind of heat you would need to reforge it?”
+
+“Not reforge, just repair.” Ren said. “Can't you use your blacksmith hammer to...” Ren stopped talking for a moment, and thought about it. “I can repair it, if you want me to.”
+
+“I can't lose the use of my anvil for however long that will take you.”
+
+“Are you sure?” Ren asked. “You can't lose access to it for a couple of minutes?”
+
+The dwarf's mouth dropped open in shock. He closed it a minute later, the huffed. “This I have to see.” He said. “Go ahead. Repair it.”
+
+Ren took out his blacksmith hammer and held it to the anvil. “Repair!” He said and poured Mana into the hammer. The anvil started to glow a golden color, and after a couple of minutes, the glow stopped and Ren had lost 1,000 points of Mana, or just over a quarter of his Mana Pool. He examined it again, and tried not to grin at the popup.
+
+Figurn's Anvil
+
+This anvil was forged in the fires of Mount Vongurhm, and was repaired by the blacksmith Ren, The First.
+
+Durability: 25000/25000
+
+“There.” Ren said. “All fixed. It should take you another couple of hundred years to reduce the Durability to where it just was.”
+
+The dwarf stood there and stared at the anvil, then dropped to his knees to hug and kiss it. Ren backed away, just in case the dwarf decided that Ren needed the same treatment. This went on for several minutes, and then the dwarf turned his head to the side and rested the cheek of his face on the cool metal of the anvil.
+
+“By the gods, I've been so worried I was going to break it, that I've been avoiding using it more than I absolutely had to.” The dwarf said, and stood up. “You sir, are a miracle!”
+
+Ren held up a hand to stop the dwarf from advancing on him. “I'm an Adventurer.” He said. “I only repaired it.”
+
+The dwarf shook his head. “I thought you were trying to play a joke on me.” He laughed. “You didn't 'just repair' it, you've restored my family's pride and joy; and our Honor claim against it.” He said. “Once it was broken, we'd have lost nearly all of our Influence as well.”
+
+“Oh.” Ren said. “I didn't realize...”
+
+The dwarf laughed again. “I don't go around telling people I've just met, all about my family's worries.”
+
+Ren chuckled. “Me, either.”
+
+“So, you asked where we got it.” The dwarf said, and Ren nodded slightly. “Where it was forged is a big hint.”
+
+Ren examined it again. “Mount Vongurhm... Mount Vongurhm... where did I hear that name before?” He thought for a minute, then nearly gasped. “No. Way.”
+
+The dwarf grinned.
+
+“It was made at the Convent!” Ren exclaimed.
+
+The dwarf nodded slightly. “That's right.”
+
+“When I have some free time, I have got to go and visit them.” Ren said. “I really want one of those anvils.”
+
+The dwarf chuckled. “Bring lots of gold.”
+
+Ren nodded slightly. “Not a problem.” He said. “Thanks.”
+
+“You're thanking me?” The dwarf shook his head. “My entire family is in your deb-”
+
+“STOP!” Ren yelled, and surprised the dwarf. “Sorry.” Ren said. “You can't say things like that around me. The implications are... well, you don't want to know what the implications are.”
+
+“I am Honor-bound to pledg-”
+
+“STOP!” Ren yelled again. “You don't want to do this!”
+
+“I have no choice.” The dwarf said. “Because of your generous act of kindness, I must do as my culture demands.”
+
+Ren sighed. “I can't just damage it back to where it was, can I?”
+
+The dwarf shook his head. “You'd only be hurting your own Honor and Influence if you did that.”
+
+Ren rubbed his forehead with a hand. “What do I need to do to undo your obligation?”
+
+“Nothing.” The dwarf chuckled. “There's nothing you can do to stop it, despite your very loud protests.”
+
+“What about your House?” Ren asked. “Won't they be mad at you for-”
+
+“I don't belong to a House.” The dwarf said. “My family wasn't able to earn enough Influence to count as a Minor House.”
+
+“But... but...”
+
+The dwarf laughed. “We won't change our last name, if that's what you're worried about.”
+
+“How many of you are there?”
+
+“Including my three brothers and their families, about 40.”
+
+“It's a good thing there's enough houses built to fit you all in.” Ren said.
+
+“Houses?”
+
+Ren nodded. “If you're forced to pledge your family to House Neram because of this.” He said and waved at the anvil. “The least I can do is give you places to live.”
+
+“Hold on.” The dwarf said. “You said 'houses'. Does that mean I won't have to share the same house with my brothers and their kids anymore?”
+
+Ren nodded slightly. “I've got 18 houses left for you to choose from.”
+
+“By the gods, I knew you were a miracle!” The dwarf said and dropped to a knee. “I, Lurmoli Greymour, as the representative of my family, pledge my family and it's skills to the betterment of your House, and renounce all others to build your House up to greatness.”
+
+That wasn't quite the same wording as the other pledge, but it's close enough I think. Ren thought. “I accept your honorable pledge.” Ren said. “Welcome to House Neram.”
+
+Notice!
+
+You have accepted an entire family into House Neram, and have provided them with adequate housing; much to their surprise and delight.
+
+Influence: +50,000
+
+Honor: +25,000; Lady Neram +25,000
+
+“Thank you very much, My Lord.” Lurmoli said. “What do you bid me to do?”
+
+“I want you to continue living your life as if you didn't just pledge your family to House Neram.”
+
+“Wh-what?”
+
+“Enjoy your work. Have fun. Live your life.” Ren smiled. “You'll have to tithe 1% of your income to us if you work for another House; but other than that, my philosophy is to not interfere with how you live your life.”
+
+“Did you just say 1%?!?” Lurmoli asked, shocked. “The base is usually 30%!”
+
+“Yeah, I know.” Ren said. “As soon as I found that out, when someone joined House Neram the first time, I had it changed for our citizens.”
+
+“I can't believe it.” Lurmoli shook his head. “How are you making money?”
+
+“The old fashioned way.” Ren said, and took out a mining pick. “By working, and not leeching off of our people.”
+
+Lurmoli's eyes widened, and Ren left the blacksmith shop to go and check in with the healer. He ran to the mine entrance and stopped at the area just beside it. A large tent was set up there, and the healer was inside at her desk.
+
+“Welcome.” The healer said, without looking up. “Please, make yourself comfortable.”
+
+Ren stored his pick, walked over to one of the small beds, and lounged across it. He propped himself up on an elbow, crossed his ankles, and waited. The healer finished whatever she was working on and looked up, then looked around to see where he went. She saw him relaxing on a bed and laughed.
+
+“Not that comfortable.” She said. “I do have to examine you.”
+
+Ren grinned at her as he stood up, then walked over to her desk. “What do you need me to do?”
+
+“Follow me over here.” The healer said as she grabbed a clipboard and stood up, walked over to a curtain nearby, and held it open for him. Ren went inside and turned around to face her. She came in and closed the curtain.
+
+“Remove your clothing, please.”
+
+“Wh-what?”
+
+“I need to inspect you for injuries.” She said. “Scrapes, burns, bruises, etcetera, etcetera. You know the drill.”
+
+“No, actually.” Ren said. “I've never been asked to remove my clothes before.”
+
+“Not by a healer, anyways.” Teepo said, and chittered in laughter.
+
+Okay, that's true. Ren thought in amusement.
+
+“Either take off your clothes right now, or you aren't going into the mines.” The healer said. “You can't go in without my approval.”
+
+Ren felt a really strong urge to strip off his clothes, and he tried to fight it. The Bracelet of Enforcement started to warm up, and he slid his sleeve up to look at it.
+
+“I'm sorry.” The healer said as she glanced at his wrist. “If you fight the compulsion to work, it will just continue to get worse.”
+
+“I'm not fighting the compulsion to work.” Ren said. “I just don't think I need to take off my clothes to do it.”
+
+“Unfortunately, you do.” She said. “You can't go into the mine to work if you don't let me examine you... which means you need to take off your clothes.”
+
+Damn. Ren thought, and stored his cloak and Travelling Clothes. The Bracelet of Enforcement cooled off immediately, and he didn't feel the compulsion anymore. I didn't see that logic loophole in the contract.
+
+“You weren't hurt by the heat anyways.” Teepo asked. “You could have just ignored it.”
+
+I could have, but I don't want anyone else to know I can.
+
+“Oh.” Teepo said. “Good idea. Keep it under wraps.”
+
+The healer checked Ren all over, poked and prodded him a few times, and had him bend every joint that he had.
+
+“Excellent.” She said, and marked Ren's results on a piece of parchment she had on the clipboard. “Now the underwear.”
+
+“Excuse me?”
+
+The healer smiled. “I've inspected everywhere else. That's the only place left.”
+
+“You really don't need to see it.” Ren said. “It's fine.”
+
+“I'll be the judge of that.” The healer said. “Take them off.”
+
+Ren shook his head, and the Bracelet of Enforcement warmed up much faster this time.
+
+The healer sighed. “I've seen plenty of them before.” She said. “It's no big deal.”
+
+“She won't say that afterwards.” Teepo chittered in delight.
+
+Teepo!
+
+“What?” Teepo asked. “This is hilarious!”
+
+Ren sighed and stored his underwear. The healer bent over to look at it closely, and she smiled.
+
+“I don't know what you were so worried about.” The healer said. “Everything looks normal.” She smiled. “Now turn your head and cough.” She gently cupped his dangling man parts with her hand, and Ren coughed loudly. His body reacted to the intimate touch, both immediately and unfortunately. It started to grow and stand at attention; but since her face was right in front of it at the time, it stopped lifting when it hit the underside of her chin. The healer froze still as his member continued to expand to its full size, then pushed against her throat.
+
+“Oh... ah... um...” The healer tried to say, and her face blushed a deep red. “You... ah... I...” She kept talking and her chin rubbed against him. “I am terribly sorry that I did not listen to you.”
+
+“So am I.” Ren said, his face also flushed to a deep red. “I'm usually friends with a woman at least, before...” He took a breath and sighed. “...before she sees me like this.”
+
+The healer wanted to move away gracefully; but, she knew that grabbing it with her free hand (to stop it from moving any more) was not a good idea in this situation. She took a deep breath as she let his dangling man parts go, and tried to stand upright while keeping her head tilted down slightly to keep an eye on his member's movement. Unfortunately, that was exactly the wrong thing to do. It flicked over the edge of her chin, slid across her lips, bounced off her nose, and almost poked her in the eye as it sprang up to attention.
+
+She quickly jerked up into a standing position, with her eyes as wide as they could go. She ended up staring at Ren's face, with the feel of him fresh on her lips. His eyes were just as wide as hers, and he stared right back at her as he fought his body's reaction to so much stimulation in that area.
+
+Teepo chittered so hard from laughter, that he fell off of Ren's shoulder, and bounced on the floor.
+
+“I... I... I...” The healer tried to speak; but, she couldn't think of anything to say after such an encounter. Ren could, however.
+
+“Can... can I get dressed?” He asked.
+
+“YES!” The healer exclaimed. “Clothes! Clothes are good!”
+
+Ren equipped his Travelling Clothes and Dire Wolf Hooded Cloak, then took several deep breaths to calm down. “Am I cleared for work?”
+
+She nodded slightly, and Ren walked around her to open the curtain. He left the examination area and walked out of the tent, while Teepo flew crazily behind him and chittered in laughter.
+
+*
+
+The healer staggered over to her desk and sat down, kind of in a daze. Before she realized what she was doing, she licked her lips without thinking, then clamped a hand over her mouth.
+
+By the gods! I just... by the gods! She thought, as she tried to get a hold of herself and calm down. I've never had anything like that happen to me before! She blinked her eyes a few times and looked at her hand. I'm so glad I'm not married. The healer thought. How in the world would I explain what happened to a husband? She shook her head. I can't even explain it to myself!
+
+*
+
+“Come on, Ren.” Teepo said. “You have to admit that was funny!”
+
+No, I don't. Ren thought as he walked to the entrance of the mine. I almost... made a mess.
+
+Teepo chittered in laughter. “Oh, that would have been something!” He said. “She was already shocked when it touched her by accident; imagine what her reaction would be if you-”
+
+No. Ren shook his head. I'm not going to imagine it at all.
+
+“Ren, don't worry about what happened.” Teepo said. “I was there. I saw it all. It was completely her fault. You didn't do anything wrong.”
+
+I know. Ren sighed. It's just another incident, in a long line of incidents, that I keep getting mixed up in.
+
+“That's right.” Teepo said. “If you'd held her face there, or moved your hips or something, then it would have been a whole different thing besides an accident.”
+
+Ren sighed again. Yeah, that would have been bad. He shook his head. I'm just going to forget that it happened. He thought and entered the mine.

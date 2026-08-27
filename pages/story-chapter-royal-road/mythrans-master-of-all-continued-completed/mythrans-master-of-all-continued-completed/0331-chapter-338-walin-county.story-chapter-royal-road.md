@@ -1,0 +1,397 @@
+---
+id: 27223122-a2a5-5fd8-9624-8d7e3ef42983
+page-type-slug: story-chapter-royal-road
+title: "Chapter 338 - Walin County"
+slug: 0331-chapter-338-walin-county
+partOf: mythrans-master-of-all-continued-completed
+position: 331
+ownLength: 3760
+unit: words
+publishedAt: 2017-08-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156986/chapter-338-walin-county"
+royalRoadId: "156986"
+---
+
+“What is that thing?” Someone asked and pointed to the Main House.
+
+“That's the house I built for myself.” Ren said. “I put a small workshop upstairs, but that's going to have to change I think.”
+
+“Why?” Someone else asked.
+
+“I might need the room for something else.” Ren said.
+
+“What... what's it made of?” Jen asked as she walked over to it. “Is... is this the building you described to me before?”
+
+“Yeah.” Ren said. “Doing it all alone was a pain in the ass, though.”
+
+“You built it by yourself?!?” Jhulune exclaimed.
+
+“Do you see anyone else around here to help?” Ren asked her and laughed. “It was just me, myself, and I.”
+
+“And me.” Teepo said.
+
+Hey, that reminds me. Ren thought to his friend. We're out in the middle of nowhere. Do you want your physical body?
+
+“Sure.” Teepo said.
+
+Ren took out the platinum beetle body and summoned Teepo again.
+
+“Thanks, Ren!” Teepo said from his physical body, opened his wings, and took off to scout a few feet away.
+
+“What is it?” Jhulune asked as she stared at Teepo.
+
+“That's my old friend Teepo.” Ren said. “Teepo, this is Jhulune. Jhulune, Teepo.”
+
+“Hi, Jhulune.” Teepo said, then landed on Ren's shoulder. “There's nothing between here and the farm house, Ren.”
+
+“Thanks, buddy.” Ren said.
+
+“Did... did you make him?” Jhulune asked and reached out to touch the shiny metal, then stopped herself.
+
+“I only made the body.” Ren said. “The rest is all Teepo.” He smiled. “You don't mind if Jhulune touches you, do you?”
+
+“She's cute, so no.” Teepo said, and Jhulune laughed and rubbed her fingers over Teepo's carapace.
+
+“That's so cool.” Jhulune said.
+
+“That's enough sight-seeing.” Jen said because she saw the other workers were just standing there and looking around at all the nothing they could see. “Let's get these carts unloaded.”
+
+“Yes, Ma'am.” They all said and got to work. Jhulune touched Ren's arm and then went to work, too.
+
+“Do you need my help?” Ren asked Jen, and she shook her head.
+
+“You'll only get in the way.” Jen said. “We've got all the pieces sorted and stored in a specific order. If you just grab everything you can take, we lose the point of planning the packing.”
+
+“I understand.” Ren said. “I'll prep the building area, then.”
+
+“There's not much to do, I don't think.” Jen said and looked behind the Main House. “It's pretty flat.”
+
+“Not perfectly, though.” Ren said.
+
+“It's your town, Ren.” Jen said. “If you want to do it, then grab a shovel and get to work.”
+
+Ren chuckled and took out his Staff of Earth. “Shovels? Who needs shovels?”
+
+“Is that... oh, my.” Jen said as she identified it.
+
+“I'll have the grass cleared and the ground raised a couple of inches in a few minutes.”
+
+“You're just going to keep surprising me, aren't you?” Jen asked.
+
+“Only if you keep paying attention.” Ren said and she laughed.
+
+“Go on, go have fun.” Jen said and shooed him away. Ren took the not-so-subtle hint to get out of the way, and went to the back of the Main House. He used the Staff of Earth to smooth the ground out, move the grass out of the way, and removed any large rocks. He cleared out enough space for the 50 homes to be built in 10 rows of 5 houses, added roads and driveways, and even 3 foot high earthen barriers between the houses.
+
+Ren went back to the Main House, and moved the staff over the area that he wanted to join the roads of his subdivision to the main road, and then the staff stopped working. He looked at it as he held it out, and the magic that made it what it was ended. The wood-like staff turned dark and looked like burned wood, and the bright green emerald-like jewel at the top faded into a clear crystal and then crumbled to dust as the rest of the staff did the same thing.
+
+“Oh, Ren.” Jen said and came over to him. She had seen his staff disintegrate and felt bad for him. “I'm sorry.”
+
+“Don't be. That was my...” Ren chuckled. “Teepo? How many is that now?”
+
+“37.” Teepo said and chittered in laughter. “You used them a lot while we were away from here.”
+
+“They only last 600 minutes if you don't use high-quality materials.” Ren said. “If you do, it's only 1000 minutes.”
+
+“But... 37 of them?” Jen asked, surprised. “What were you doing with them?”
+
+“The same thing.” Ren said and took out a palm-sized diamond and a well-carved pole. He activated his Craft Staff ability and poured Mana into his hand. The pole deformed and twisted itself into a tree-like surface, then it grabbed onto the diamond with 4 tendrils that held it in place. The diamond turned into a green emerald-like jewel, and was completed.
+
+“Good god.” Jen said. She had just witnessed creation magic first hand, and didn't know what else to say. Ren held the staff out and finished making the road that joined the subdivision to the main road, then stored the staff.
+
+“There, all done.” Ren said and smiled at her.
+
+“That was... Ren... you...”
+
+“Don't get all flustered on me now.” Ren chuckled. “You've got a lot of work to do.”
+
+Jen sighed after taking a deep breath, nodded, and turned to look at her crews. They had just finished unloading all of the carts.
+
+“Okay, people. The way is clear.” Jen said. “We're doing house number one right there.” She said and pointed to the first lot right behind the Main House. “Let's move!”
+
+Ren watched as the crew expertly assembled the house in less than 15 minutes. With so many of them working with all prefabricated walls and parts, it took barely a quarter of the time that a normal house did. He thought that if they split the crew up they could build more homes at once; but then, he figured more hands made the job a lot easier.
+
+“I'm heading over to talk to the town council.” Ren told Jen, and she waved acknowledgement. He left after making sure to wave at Jhulune, and ran over the road to the driveway that led up to the old farmhouse.
+
+“Do you think she'll be mad?” Teepo asked.
+
+“I guarantee it.” Ren said and walked up the driveway to the house. “I told her months ago that I'd be back to give them any tools they wanted, then never came back.”
+
+“You didn't have a lot of free time.” Teepo said. “In fact, I'm surprised you did everything that you did.”
+
+“Me, too.” Ren said and crossed the small open area in front of the house and knocked on the door. A moment later, the door opened, and Patty stood there with a scowl on her face.
+
+“What do you want?” Patty said. She still looked like an older version of Lucy, and even with her angry, it still hit Ren a little hard how much she looked like his first love.
+
+“I'd like for you to accept my humble apology.” Ren said, and she snorted a laugh.
+
+“Words.” Patty said. “Just words! Pretty words for you to spout and make it seem like you're being sincere!” She said. “I know all about you and your kind.”
+
+Ren took out an Amulet of Truth and held it out to her. “Please accept this gift, and you will know I speak the truth.”
+
+Patty snorted a laugh. “I've seen peddlers milk the citizens of Walin County over trinkets like that.” She said. “What makes that so different?”
+
+“Do you have anyone with the Identify ability?” Ren asked, and an old woman waddled over to them. She was barely 3 feet tall, but would have been a lot taller than that if she wasn't so hunched over.
+
+“I can identify.” The old woman said and held her hand out for the amulet. Ren was pretty sure she could barely see, and was proven right when she held the amulet barely an inch from her face. “It's an Amulet of Truth all right.” She said and handed it back to Ren. “Anyone within 25 feet must speak the truth.”
+
+There were several gasps from the room behind Patty, and Ren looked at her face. She wasn't skeptical anymore, but she also didn't want to take the offered gift.
+
+“You want to stay angry at me.” Ren said, and correctly guessed her thoughts as she caught her breath. “You can still be mad and know the truth.” Ren said and held the amulet out to her.
+
+“But... if you explain, I... I can't stay mad.” Patty said.
+
+“I'll wear it.” The old lady said and took it. She slipped it on and the 25 foot area of effect popped into place. “Ooo, shiny.” She said and caressed the amulet. “I'm important again.”
+
+Everyone looked at her, and she put a hand over her mouth.
+
+“It's not like I want... want... well, okay I wanted to be important again.” She admitted. “I'm old, but I'm still useful.”
+
+“That's the truth.” Ren said, and she looked at him. “If I could figure out how to straighten your back and heal you, I would.”
+
+The old lady looked down at the amulet and then back at Ren. “You'd do that for me?”
+
+“Yes.” Ren said. “My back is getting sore just from looking at you.”
+
+“You're telling the truth.”
+
+Ren nodded. “I've had my experiences with difficult mobility.” He said. “I'd change it if I could.”
+
+“You're a sweet boy.” The old lady said. “Now, why were you gone so long?”
+
+“That's a long story.” Ren said. “May I come in and tell it?”
+
+Patty sighed and stepped back to reveal a group of old people sitting around an old rickety table. “Come in.”
+
+“Thank you.” Ren said and smiled at her, then held an arm out for the old lady. “May I assist you back to the table?”
+
+“I'm old enough to be your grandmother.” The old lady said, smiled at him, and wrapped a bony arm around his offered arm. “I won't turn down the attention, though.”
+
+“Margaret!” One of the old men said.
+
+“What?” The old lady smiled. “I didn't ask him to ravage me.”
+
+“Margaret!” The old man nearly yelled.
+
+“Relax, you old goat.” The old lady laughed. “He's too important to do anything like that with a commoner.”
+
+Ren helped her to her seat, and her height didn't change at all as she sat back in the chair. He glanced at the man who had said her name, then leaned in and kissed Margaret on the cheek.
+
+“Thank you for thinking so highly of me.” Ren said. “But I'm a commoner, too.”
+
+The old lady stared at him with her mouth open and a hand on the spot where he had kissed her cheek.
+
+“So tell us the story.” Patty said, to get everyone to focus back on her and not on the inappropriateness of the last few moments. She sat down at the table, and Ren touched it. It actually was rickety and moved at his light touch, so he stored it and replaced it with the one he had in inventory. The old people stared at the table, and then at Ren as he took out a chair for himself and sat down.
+
+“Well, it's like this...” Ren said, then went through everything that had happened to him since the last time he had been there. It took nearly two hours for him to give them just the basic rundown of the events. He finished with being kicked out of the Dwarven Kingdom and coming home 2 months prematurely, and about his break up with his fiance.
+
+“You poor boy.” The old lady said and put a hand on Ren's arm. “Are you going to be okay?”
+
+“I'll be fine.” Ren said and pat the hand. “I had a lot of time to come to terms with it.”
+
+The old lady nodded and sat back.
+
+“So now what?” Patty asked. “Why are you here?”
+
+Ren looked at her. “This is my land.” He said. “I built a house here.”
+
+“You're coming here to stay?” Patty asked. “You're not just going to come here, mess everything up, and then leave again?”
+
+“I'm going to make some changes.” Ren said. “I told you that before. I can't live here and not make the place better.”
+
+“Ha.” Patty said. “Your version of better.”
+
+Ren chuckled. “No. Just better.” He said, then looked at the council. There were six people that looked to be in their 60s, and Patty who looked to be about 30. “I'm not going to tell you what to do with your lives. They are your lives and that's that. Live them how you like.”
+
+The old people and Patty nodded their heads in agreement.
+
+“I, on the other hand, won't sit by and watch as people in my county suffer in poverty.”
+
+“WHAT?” Patty exclaimed.
+
+“I saw your straw and mud houses in the village the last time I was here. You are not going to keep living in them if you don't have to.”
+
+“Then where are we going to live, Mr. High and Mighty?” Patty asked, and scowled at him. “Are you going to buy us new homes?”
+
+“No.” Ren said.
+
+Patty sat back in her chair with a satisfied look on her face.
+
+“I'm paying to have new houses built behind my Main House.”
+
+“You're WHAT?!?” Patty exclaimed and sat bolt upright. “You... you can't... can't be...”
+
+“It's the truth.” Ren said and pointed to Margaret, the old lady with the Amulet of Truth around her neck. “They're building a bunch of houses as we speak.”
+
+“I'm not moving.” One of the old men said. “I like my straw and mud hut.”
+
+Ren smiled. “I didn't say you had to move, just that you'll have a new house if you want it.”
+
+“I don't.”
+
+“Your kids might.” One of the other old men said.
+
+“No, they won't.”
+
+“I've only got 50 homes being built in this first batch.” Ren said. “They should be done by tonight.”
+
+“Tonight?!?” Patty exclaimed.
+
+“How the hell...” One of the old men grumbled.
+
+“He's got 3 full crews working on it!” A young boy's voice said from under the floor.
+
+“Russell!” Patty said and stomped her foot on the floor. “Get out from under there!”
+
+“Aww.” Russell said, and Ren heard the boy crawl out from under the house.
+
+“It's going to take a while to build all 300 houses.” Ren said. “I'm going to assume it takes at least a couple of days to make the pieces, then a day to travel here and put them together.” He said. “So, let's assume 4 days per lot of 50. That's 6 lots at 4 days each.” He smiled. “They're already doing one today, so I'll knock off 3 days to make it 21 days, or a solid 3 weeks.”
+
+“Good god.” Margaret the old lady with the truth amulet said. “That's amazing.”
+
+“In the meantime, I'll work on getting this place protected.”
+
+“What do you mean?” Patty asked.
+
+“I don't like that the county is completely open like it is.” Ren said. “I haven't gone around the entire edge, but from what I saw at the village, it could be very easy for someone to drop things from that cliff.”
+
+“That's true.” One of the old men said. “Russell!”
+
+“Yes'sir?” Russell said and came in through the door. He had been standing just outside and listening in.
+
+“How big of a rock did you drop off the cliff yesterday?”
+
+“About this big.” Russell said and held his hands about a foot apart. “You should have seen the hole it made!”
+
+“I saw it.” The old man said. “I was just letting the young man know that anything dropped from there would cause damage, not just weapons.”
+
+“I can drop a bigger rock off of it if you want me to!” Russell said excitedly.
+
+“No, no.” The old man said. “One was enough.”
+
+“It wasn't just one.” Russell said. “It was just one at the top on the ridge by the village.”
+
+“How many have you dropped off of it?” Ren asked.
+
+“So many that I had to bring my own the last time.” Russell said and grinned.
+
+The old man shook his head. “I'd tell you to stop, but you'll just keep doing it anyways.”
+
+“I sure will!” Russell said. “Hearing it go thump when it hits the ground is fun!”
+
+Ren chuckled. “As long as you're careful and don't hit anyone.”
+
+“I came close once.” Russell said. “Ol' Unice was wobbling around nearby and the one I dropped hit one already on the ground and bounced away.”
+
+“Was she all right?”
+
+“It stopped before it hit her; but, I've been careful not to drop rocks near each other after that.” Russell said. “I like Unice, even though she talks funny.”
+
+“Russell!” Patty said. “Don't say things like that!”
+
+“Why not? She says it herself all the time.” Russell said. “She laughs fine, though.”
+
+“How did you make her laugh?” One of the old men asked, curious.
+
+“I kissed her.” Russell said. “Right on the lips, too.”
+
+“Russell!” Patty said. “You shouldn't do things like that to her.”
+
+“Why not? She likes it.” Russell said. “She wouldn't laugh if she didn't.”
+
+“Russell.” Patty said and glanced at Ren. “We'll talk about this later.”
+
+“Only if you can catch me!” Russell laughed and jumped out the open door and took off at a run.
+
+“RUSSELL!” Patty yelled, then sighed. “That boy...”
+
+“...is doing fine.” Ren said. “I think it's good that he treats her like that.”
+
+“Like what?”
+
+“Normally.” Ren said and stood up. “I've got to get to work.”
+
+“It was nice meeting you, My Lord.” Margaret said, and Ren took her hand.
+
+“If you were 50 years younger...” Ren said jokingly, and the old man that had said her name earlier, coughed several times. Ren glanced at him then back at Margaret and grinned. “...and unattached.”
+
+“Get out of here, you.” Margaret said, squeezed his hand, then let it go. “Before you give my husband a heart attack.”
+
+Ren nodded to each person at the table. “It was nice meeting you.” He said, then looked at Patty. “May I speak to you outside?”
+
+Patty looked at the other members of the town council, and didn't see any sign that she should reject him. She sighed and stood up, and followed Ren outside and shut the door.
+
+“What do you want now?” Patty asked.
+
+“Did you make a list of items that you need made?”
+
+“Yes, but that was a while ago.” Patty said and took out a scrap piece of parchment. There were scribbles, scratched out scribbles, and written-over scribbles all over it on both sides. “We made do with what we had, and shared the new shovel as much as we could.”
+
+Ren put a hand on the one that held the note, and Patty looked at him. “I'm very sorry that I left like I did and never came back until now.” He said, sincerely. “I won't ask you to forgive me, and I can't make up for the time I've neglected you and the people that live here.”
+
+“My Lord...”
+
+“All I can do is promise that I'll try and give you and the citizens of Walin County everything that they need to live comfortably.”
+
+“E-e-everything?” Patty asked, shocked.
+
+“A house... a stable with carts and horses... farm equipment... a Church...”
+
+“A CHURCH!?!”
+
+Ren chuckled at her outburst. “I know people want...” He stopped talking, then smiled. “...need... that aspect in their lives.” He said. “I'm more than happy to provide them that.”
+
+“But... but... we...”
+
+“If you already have somewhere that you do those things, that's fine.” Ren said. “It's like the houses. You don't have to use them if you don't want to; but, they'll be there if you do.”
+
+“How do we decide who lives where?” Patty asked. “Who gets to move first?”
+
+Ren smiled again. “You don't have to make those kind of decisions.” He said. “Wait 3 weeks, and everyone can move at the same time.”
+
+Patty opened her mouth to say that was a great idea, but she didn't want to encourage him and changed what she said. “You've got an answer for everything, don't you?”
+
+“That depends.” Ren said. “Ask me something and find out.”
+
+“Okay, Mr. Smart Guy.” Patty said. “Our chickens haven't been laying enough eggs for us to eat, and to grow replacement chickens for the ones we slaughter.” She said. “What do we do?”
+
+“Are there enough roosters?” Ren said. “If there are, then just feed them more. If you make them fat and happy, they should lay more.”
+
+“Where are we going to get the extra feed for that?” Patty asked.
+
+“You've got fields and fields of wheat and grains. Use them.”
+
+“We're already working day and night to keep up with the harvest!” Patty said. “How are we going to do more?”
+
+“What do you use to harvest?”
+
+“The hand sicle.” Patty said. “It's the best tool for the job.”
+
+“...that you have.” Ren added. “I'm going to be busy for the rest of the day today and I'll be going back to town tonight.” He said. “I've also got an important appointment in the capital city of Bore-Reale at King Alamast's castle tomorrow.”
+
+Patty stood there and stared at Ren like he had two heads.
+
+“The day after that I can be back here to help you with the harvest.” Ren said. “How does that sound?”
+
+Patty didn't speak as she nodded slowly.
+
+“Great.” Ren said and gave her a slight bow. “I'll see you then.”
+
+*
+
+Patty watched as Ren ran down the driveway and out of sight.
+
+“He sure is something.” Margaret said from the doorway of the little farm house.
+
+Patty turned around and looked at her.
+
+“Do you still hate him?” The old lady asked.
+
+“Ye... ye... dammit.” Patty sighed. “No.”
+
+Margaret smiled at her and held out a hand. “Come back inside. We must discuss what we are going to tell the others.”
+
+Patty took her hand and went inside. “Russell probably already told everyone about the new houses.”
+
+Margaret laughed. “No doubt.”
+
+Patty shut the door and they sat down to talk about what these changes meant for them and their little community.

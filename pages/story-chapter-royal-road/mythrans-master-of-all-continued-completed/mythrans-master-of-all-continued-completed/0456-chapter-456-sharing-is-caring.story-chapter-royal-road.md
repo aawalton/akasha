@@ -1,0 +1,383 @@
+---
+id: 7afccda6-f1fb-5f08-8e46-0472988149a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 456 - Sharing Is Caring"
+slug: 0456-chapter-456-sharing-is-caring
+partOf: mythrans-master-of-all-continued-completed
+position: 456
+ownLength: 3698
+unit: words
+publishedAt: 2017-12-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181160/chapter-456-sharing-is-caring"
+royalRoadId: "181160"
+---
+
+Since Ren only had to sleep for an hour to benefit from a full night's sleep, he woke up but didn't try to get out of bed.
+
+Now's the perfect time to check my status. Ren thought. Show Status. When nothing happened, he held in his sigh, then whispered as low as he could. “Show Status.”
+
+Status
+
+Name  Ren (Neram) Level  140
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000  Honor  250,000 (Untouchable)
+
+Giant Kingdom:  Dark Elf Kingdom (Royal Consort):
+
+Respect  26,000  Influence  1,000,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Unnamed King  +10 Levels to all Auras, you must be acknowledged in some way, grants skill: This Is Mine!
+
+Waterkin  Grants Water Manipulation Skill and Waterkin (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Health  3,157 (+330)  Mana  3,105 (+11,490)
+
+Strength  433 (+40)  Dexterity  355 (+40)
+
+Vitality  370 (+40)  Agility  342 (+40)
+
+Endurance  345 (+40)  Intelligence  338 (+145)
+
+Luck  75 (+42)  Wisdom  352 (+145)
+
+I'm tempted to see what the boosts are with my armor, but I need to rework it now that I have access to Tee-one to help with Double Infusion. Ren thought, and opened the last popup he had received for the Churches.
+
+Notice!
+
+The two Churches you have constructed have been open for another day. Word of their existence continues to spread, and you gain new visitors every day from all around, as they come to pray and worship their gods. You have gained bonuses appropriate for encouraging the active worshipping of these gods. 10 visitors = 1% Knowledge bonus to level.
+
+Dark (Gravity) - 220 visitors; Knowledge Of Dark (Gravity) Level 2 (Intermediate 68%) +22% = 90%
+
+Earth - 929 visitors; Knowledge Of Earth Level 2 (Expert 3%) +93% = 96% (+50%)
+
+Fire - 706 visitors; Knowledge Of Fire 100% (Mastered) = No gains possible
+
+Ice - 130 visitors; Knowledge Of Ice Level 1 (Intermediate 5%) +13% = 18%
+
+Light (Holy) - 360 visitors; Knowledge Of Light (Holy) 100% (Mastered) = No gains possible
+
+Lightning - 141 visitors; Knowledge Of Lightning Level 3 (Intermediate 56%) +26% = 82%
+
+Anti-Void (Anti-Arcane) - 11 visitors; Knowledge Of Void (Arcane) Level 2 (Beginner 4%) +1% = 5%
+
+Water - 192 visitors; Knowledge Of Water 100% (Mastered) = No gains possible
+
+Wind - 153 visitors; Knowledge Of Wind Level 2 (Intermediate 34%) +15% = 49%
+
+Now to check on the ship. Ren thought and opened the last popup for it.
+
+Notice!
+
+Your ship (UNNAMED) has been in operation for another 24 hours. The following information has changed since the beginning of the journey:
+
+Ship's Hull  14360 / 15000
+
+Food/Consumables  2200 / 3000
+
+Ropes  256 / 300
+
+Cleaning Supplies  1525 / 1650
+
+The following information hasn't changed since the beginning of the journey:
+
+Captain  1
+
+Cook  1
+
+Waitresses  2
+
+Crew  50
+
+Passengers  0
+
+I wonder where they are. Ren asked himself, but didn't try to take out the All-Seeing Mirror. He was still snuggled in with the maids and didn't want to disturb them. I guess I can check on the things I've gained, too. He thought and once again whispered as low as he could. “Show recent level up info.”
+
+Level Up Info
+
+Skills:
+
+Animal Affinity  +50% to unknown animal friendliness
+
+Aura Sight  You can see the Auras of others and determine it's effects
+
+Craft Golem  You can create mindless creatures that do your bidding. Recipes Known: Flesh Golem, Iron Golem, Stone Golem
+
+Crafting Expert  +10 Dexterity, +5 to all Crafting Skills
+
+Ghoul Touch  When active, you cause pain as if the one you touch was damaged by a ghoul. You can also choose to infect them with the ghoul sickness. Chance of them becoming a ghoul when they die: 30%
+
+Identify Person  Works on people, unlike Identify, which only works on items and creatures
+
+Improved Familiar (2)  Grants another familiar (total 5), can add wands as part of construct for inherent spell casting ability
+
+Iron Will  +20 Wisdom, +20 Vitality, +25% resistance to mental probes and attacks
+
+Power Attack  Double damage dealt with a large, heavy, or two-handed weapon
+
+Spell Combine  You can combine 2 different spells for various effects
+
+Spell Focus  Gain 25% bonus to duration and effects of spells. Gain 25% speed to casting time (self only - wands not applicable)
+
+Spells:
+
+Banshee Wail  Creates a 60 foot long cone of sonic damage (20 to 40), 50% chance to Stun, lasts 2 seconds
+
+Mana Arrow  Creates and shoots an arrow made of Mana, 1 per caster / wand level
+
+Sonic Boom  Choose an object within 100 feet. Sound blasts out from it to do sonic damage (50 to 100 depending on closeness to the object). Lasts 5 seconds
+
+Regeneration  Can regenerate Health, heal wounds, and regain lost limbs. Cast time: 1 minute. Warning: Causes pain appropriate for the damage while undoing it.
+
+Special Items:
+
+Gift Box  Open it to see what's inside
+
+Book of Thought  Gain +1 Intelligence permanently. After it is read, it transfigures a day later and can be read again.
+
+Book of Understanding  Gain +1 Wisdom permanently. After it is read, it transfigures a day later and can be read again.
+
+Recipes: (Alchemy)
+
+Greater Elixir of Agility  Permanent +10 to stat
+
+Greater Elixir of Dexterity  Permanent +10 to stat
+
+Greater Elixir of Endurance  Permanent +10 to stat
+
+Greater Elixir of Fire Breathing  Grants Fire Breathing Skill
+
+Greater Elixir of Intelligence  Permanent +10 to stat
+
+Greater Elixir of Strength  Permanent +10 to stat
+
+Greater Elixir of Vitality  Permanent +10 to stat
+
+Greater Elixir of Wisdom  Permanent +10 to stat
+
+Healing Ointment  Cures poison, disease, light wounds
+
+Stone Salve  Unpetrifies a petrified creature, or grants Stone Skin as if the spell had been cast
+
+Recipes: (Rings)
+
+Ring of Doom  Causes people within your Aura to become shaken and hesitate in their decision making. They can choose to move away, but if they choose to attack, they suffer a 25% penalty in both Accuracy and Speed
+
+Ring of Shielding  Provides a temporary magical barrier that will stop the first attack against you, either magical or physical. Time to recharge: 1 hour
+
+Ring of Mind Shield  This ring is of fine workmanship and made of gold. The wearer is continually immune to Detect Thoughts and Discern Lies
+
+Ring of the Ram  Imbues the wearer with the Ram skill when attacking. A magical force forms around the wearer's head like a large set of horns and they can smash into things as if they were a large ram. +20 Strength, +10 Armor when attacking
+
+Ring of Regeneration (Troll)  Nonlethal damage heals at a rate of 5% every second. If the wearer loses a limb, an organ, or any other body part while wearing this ring, the ring regenerates it as if the spell Regeneration had been cast. Only damage taken while wearing the ring can be regenerated. Requires: Troll Hide
+
+Ring of Spells  Can store spells up to the caster's level, and doesn't require any extra Mana or gestures to cast
+
+Recipes: (General)
+
+Amulet of Hiding  Makes the wearer undetectable by normal means
+
+Brooch of Shielding  Acts as if Shield had been cast. Creates a floating tower shield of Mana that blocks incoming spells. Adds an armor bonus, but cannot be used for cover
+
+Elven Boots of Stealth  +25% to Stealth and Hiding
+
+Elven Cloak of Stealth  +25% to Stealth and Hiding
+
+Flute of Hypnotism  When used, causes someone to dance uncontrollably until their Stamina is depleted or the flute stops playing
+
+Flute of Rats  Summons up to 20 normal rats or 5 large rats to do the user's bidding, as long as the music plays. 50% chance they turn on the user when the music ends
+
+Gauntlets of Rust  Causes anything that you touch to rust, if it has a metal component
+
+Hood of Disguise  A cloth hood imbued with the Disguise spell. Remains active as long as the hood is worn
+
+Gem of Spell Absorption  Absorbs a spell cast in it's vicinity (unless it already has one inside) and can regurgitate it upon command
+
+Maul of Giants  Grants the Giant Strength special skill, and has the same momentum as if swung by a giant
+
+Pearl of Wisdom  A single pearl on a string that hangs around the neck. Does not count as a necklace. Grants +15 Wisdom
+
+Rod of Rings  This rod was designed to hold 10 rings, and the holder of the rod benefits from the rings and their enchantments
+
+Recipes: (Rare)
+
+Cloak of Resistance  Adds +15% to all resistances
+
+Cloak of Light  Grants +10 to Light affinity, +50% defense against negative spells or effects (fear, poison, etc.)
+
+Elemental Gem  Summons an elemental of the chosen type when the gem was created. Stays for 5 minutes and reluctantly does your bidding, then takes the gem and disappears.
+
+Holy Relic  Casts Hallow, which makes a Holy Sanctuary and you can add a spell effect of your choice (Regeneration, Major Healing, etc.)
+
+Necklace of Air  The magic of the necklace wraps the wearer in a shell of fresh air, making the wearer immune to all harmful vapors and gases (such as acid fog and cloud effects, as well as inhaled poisons). This allows the wearer to breathe, even underwater or in a vacuum.
+
+Robe of Bones  An unremarkable robe with 12 embroidered undead figures on it, that can only be seen by the wearer. The figures can be detached and become those creatures, which can then be commanded as if the Raise Dead spell had been used. Each robe has 2 each of: Goblin skeleton, Goblin zombie, Human skeleton, Human zombie, Wolf skeleton, Wolf zombie
+
+Robes of Magic  10% to Defense as if light armor was worn, 50% Spell resistance, can cast spells 1 stage higher than caster level (Beginner can cast Intermediate spells, Intermediate can cast Advanced Spells, etc.)
+
+Unholy Relic  Casts Unhallow, which makes an Unholy Sanctuary and you can add a spell effect of your choice (Raise Dead, Drain Life, etc.)
+
+Special Level 100 bonuses:
+
+Skills:
+
+Elemental Substitution  When casting a spell or using an enchantment, you can substitute another element for the effect instead.
+
+Filter Effect  As your skills, titles, and abilities are numerous and varied, sometimes they can interfere with each other. You can choose which effects to apply or exclude in any given situation
+
+Hands of the Gods  Based on the level of affinity, you can generate that element at will from your hands.
+
+You have unlocked: Burning Hands (can create Fire), Rocky Hands (can create Earth), Restoring Hands (Light / Holy restores Health/Stamina/Mana), Refreshing Hands (can create Water)
+
+Repeat Spell  Cast a duplicate of a spell just cast. Cost: 25 Mana
+
+Special Weapon Focus  +25% damage with chosen weapon
+
+Special Weapon Proficiency  +25% Damage with chosen weapon
+
+Special Weapon Mastery  +50% damage with chosen weapon, Free Strike skill
+
+Holy crap! Ren thought once he finally went through everything. How the hell am I going to use all of that?
+
+“Very carefully.” Teepo chittered in laughter.
+
+It looks like the skills and recipes are more focused on defense and want me protected, and I'm supposed to make and send others out to fight. Ren thought. I don't know if I like that.
+
+“Well, if you hadn't made that hammerpick, the first special weapon you ever got was that vampiric blood sword.” Teepo said. “You wouldn't have been fighting much yourself before that.”
+
+Ren thought about it, and had to agree. Yeah, I would have been woefully lacking in the fighting department... and you're assuming I would have defeated Murdrasu the incubus. He looked back at the Hands of the Gods skill and it made him wonder how he had the Earth version unlocked, and whispered. “Show Speed Reading info.”
+
+Main Skill:
+
+Speed Reading Level 2 (Intermediate 60%) (Passive)  Able to read books quickly and still retain the knowledge
+
+Sub Skills:
+
+Hidden Knowledge Level 7 (Beginner 10%)  Lets you discover facts hidden within the things you read. Higher levels will let you acquire more knowledge from the same information.
+
+Knowledge Of Dark (Gravity) Level 2 (Intermediate 80%)  Dark affinity and resistance increased to 31%
+
+Knowledge Of Earth Level 2 (Expert 96%)  Earth affinity and resistance increased to 50% (+50%)
+
+Knowledge Of Fire (Mastered)  Fire affinity and resistance maxed at 100%
+
+Knowledge Of Ice Level 1 (Intermediate 18%)  Ice affinity and resistance increased to 30%
+
+Knowledge Of Light (Holy) (Mastered)  Light affinity and resistance maxed at 100%
+
+Knowledge Of Lightning Level 3 (Intermediate 82%)  Lightning affinity and resistance increased to 32%
+
+Knowledge Of Anti-void (Anti-Arcane) Level 2 (Beginner 5%)  Anti-void affinity and resistance increased to 11%
+
+Knowledge Of Water (Mastered)  Water affinity and resistance maxed at 100%
+
+Knowledge Of Wind Level 2 (Intermediate 49%)  Wind affinity and resistance increased to 31%
+
+Whoa! That 50% bonus the Spirit of Earth gave me applied to the main skill, and not just to the next level! Ren thought in amazement. That was really nice of her.
+
+“It sure was.” Teepo said. “What are you going to do now?”
+
+I have to wait until I get up to open the gift box Mr. Torren gave me. Ren thought. Other than that, for now I'm just going to relax and cuddle.
+
+“Sounds good.” Teepo said. “Officer Holly is right. You need to slow down... when you're done.”
+
+Ren smiled at the qualifier, dismissed all the popups he had opened, and closed his eyes.
+
+*
+
+Xuunah had taken Ren's advice and used the spell Zagatro had given her to create a private Light Sanctuary in the closet, and had spent most of the day in there. It had the same time compression as the Light Realm, so she could spend time with the ones she knew if she wanted. All she did was impart the information that she had to Zagatro, though; and he was delighted at what she had discovered.
+
+Xuunah gave him the elemental bomb design that Ren had given her, and she told them that Ren himself was the essential component. When asked to clarify, she told them of his Elemental Grenade ability and that he can generate the elements whenever he wanted. Zagatro had told her that she was to stay with him, and that at any time he would endanger another realm, especially their own, she was to deal with him.
+
+“I can't do that.” Xuunah said. “I won't kill an innocent Adventurer.”
+
+“He was sent to Shargon Caverns to learn forbidden arts, is marked by the undead, and trades in Shadow currency.” Zagatro laughed. “He is far from innocent.”
+
+Xuunah didn't have a response to that, and Zagatro felt her reluctance.
+
+“It's only a precaution, Xuunah.” Zagatro said. “If he doesn't listen to reason, or you can't stop or deflect the attack, then you must do what has to be done.” He explained. “You only have to remove the threat when it becomes one.”
+
+Xuunah stated that she would do everything in her power first, before resorting to removing the threat, and Zagatro had agreed. She ended their contact and remained bathed in the Light for the rest of her time there. She had chosen Energize as her spell effect, and when she used her polymorph ability to change back into her human form, she wasn't exhausted when she left the closet. She climbed into bed and laid there in silence, then wondered why she was so restless after enjoying her time alone.
+
+Why is it when I close my eyes, I think of him? Xuunah asked herself as she tried to close her eyes again. Thoughts of Ren flicked through her mind, and she sighed and rolled over in bed. Why does he haunt me so?
+
+When Xuunah finally managed to distance herself from her overactive thoughts filled with Ren, she fell into a dream that she had never experienced before. She stood beside her daughter as Nathalia watched Ren being experimented on, and her heart leaped out to both of them as she felt their emotions. She tried to touch her daughter's shoulder to provide comfort and her hand met nothing but air.
+
+Just a memory, then. Xuunah thought, then looked from one to the other. But who's is it? She watched as the memory went on, and she realized that it didn't matter. She watched it until it's conclusion, and then her dream changed and she was engulfed in Fire.
+
+“AHHHH!” Xuunah screamed and ran around in a panic, and found that everything was covered in fire. “WhatdoIdowhatdoIdo?” She mumbled in a stream, then realized she wasn't burning. “Huh?”
+
+Xuunah looked around and saw Ren as he stood in front of a mountain of fire, and she joined him. She gasped when the mountain stood up, and stared as the mountain fell away and revealed the Fire Deity. She immediately averted her eyes to show the proper respect, and then listened to the interaction between Ren and the deity. She turned and looked at them, and then her eyes widened at what the Fire deity asked for.
+
+The scene changed briefly to Ren and Nathalia as they talked, and Nathalia gave her permission. It changed back to a house appearing and Ren and the Fire deity going inside, and Xuunah averted her eyes so she wouldn't see what actually happened. The scene shifted again and Ren held the Fire deity as it's flames shrunk into a white light. She closed her eyes and covered them, because she knew what was going to happen; then uncovered them to see Ren being thrown away from the explosive death of the Fire deity.
+
+I can't believe this happened. Xuunah thought as Ren ran back over to the site and picked up a baby. “Great Vasalor.” Xuunah said and watched as the baby grew up into a fine young woman. When the Fire being became the new Fire deity by absorbing the gift from her mother, she kissed her father, Ren, goodbye... and then the dream faded.
+
+Xuunah opened her eyes and stared up at the ceiling, and could feel Ren was right above her. “You are the Father of Fire in truth, and not just in title.” She whispered, then closed her eyes to see what else her deep sharing with Ren had given her.
+
+*
+
+Ren on the other hand, was having a dream where he relived the last time Xuunah had stayed in the dwarf kingdom. She lived with a man Ren didn't know, and he watched as they travelled the countryside. They helped the dwarves with farming, healing, general labour, and anything else that anyone needed, and they kept on the move.
+
+When Xuunah finally gave in to her companion's devotion and feelings of love, Ren gasped and almost laughed as decades of suppressed sexual urges and her passion overtook her and she ravaged the poor dwarf. Ren had watched their lives together in fast forward as the time passed, and she finally ended up with a child.
+
+Nathalia was born and the mismatched couple settled down in one spot, and Ren felt the love she had for her daughter. He shared it, as it was a side of Nathalia he had never seen; and he wanted to hold and protect her even more than he normally did. She was so cute that his heart opened a little bit more, and as he watched her grow, the love he felt for her filled the new space and merged with his normal love for the grown up version.
+
+Time slowed down to normal as he watched in disgust as the dwarf men came for Xuunah to bring her back to the Light Realm, and his anger flared as they callously killed her husband and blew up the house. When the portal opened, the men took Xuunah through it as she screamed and cried for her dead family; and Ren wondered why he hadn't gone with her... and then little Nathalia crawled out of her hiding place and went to her father.
+
+Ren cried hard at their short interaction, where her father told her to hide and to be strong; then the dream shifted to show him Xuunah finally getting her revenge and serving her sentence for what she had done. He had thought it was a harsh sentence at first, until he felt that everyone she met understood why she had done it, and didn't blame her in the least.
+
+When the dream ended, Ren woke up and was left with intense feelings of contentment, satisfaction, and love. Of course, that made him wonder what Xuunah and Nathalia were experiencing right then.
+
+It can't be good, if they have my memories. Ren thought and sighed.
+
+Frikara felt his breath on the back of her neck when he had exhaled, and somehow managed to turn around with two maids resting on her. She was still half asleep; but, she kissed him on the lips and snuggled in and hugged him.
+
+Even half asleep, she's trying to comfort me. Ren thought and lightly kissed her back. Her hand rubbed his back a little and stopped moving as she fell asleep completely.

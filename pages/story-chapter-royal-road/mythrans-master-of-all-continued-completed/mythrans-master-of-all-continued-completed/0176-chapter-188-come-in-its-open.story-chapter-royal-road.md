@@ -1,0 +1,453 @@
+---
+id: b43d2e11-49b4-5064-83c9-a1bdf9f990a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 188 - Come In, It's Open"
+slug: 0176-chapter-188-come-in-its-open
+partOf: mythrans-master-of-all-continued-completed
+position: 176
+ownLength: 4753
+unit: words
+publishedAt: 2017-03-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122144/chapter-188-come-in-its-open"
+royalRoadId: "122144"
+---
+
+Ren walked around the shop and placed stone bricks enchanted with the Illumination rune, to light up everything. They worked so much better than oil lamps, and there was no chance of them catching fire.
+
+“Oh, my!” Anabelle said, as Ren put a stone to light up the lingerie items that he had put in the partitioned-off area beside the stairs. “What are these pretty things?” She asked as she browsed through the items.
+
+“You know what these cover.” Ren said, and pointed to a pair of underwear. “These cover the top part.” He pointed to a bra.
+
+“The top part?” She asked, as her eyes twinkled. “Can I try one on?”
+
+“Actually, I had planned on giving you a set when I put the rest of the stock in the storage area under the stairs.” Ren said. “You can't very well sell them if you don't know what they can do for you.”
+
+“Thank you, My Lord.” Anabelle said, and looked them over again. “Ooo, I like this one!”
+
+She picked up a bright red set, and they offset her dark hair nicely. Ren took out a set from inventory and gave them to her. She stepped into the partitioned-off area, and made sure she couldn't be seen through the store window, and took off her suit coat and blouse. He showed her how the clasp worked, and when he hooked it, the bra shrunk slightly to fit her.
+
+“Oh, it feels wonderful!” Anabelle said. “It's both soft and firm at the same time.” She said and ran her hands across the fabric. “I can't see it properly.” She said. “Do you have a mirror?”
+
+Ren slapped himself in the forehead. “Damn, I knew I forgot something.” He said, then thought about where to put it, since the shelves and walls of the partition were full of items. He smiled, then made a changing room area on the other side of the stairs, put a large rectangle mirror on the wall, and added a door for privacy. While he was at it, he made a wall across the stairs and added a door, just so people wouldn't think they could go up the stairs and see more stuff. Anabelle went inside the changing room, and stared at herself in the mirror.
+
+“Look at how big and high they are!” She exclaimed as she poked the flesh of her breast with a finger, and it bounced slightly. “I look so beautiful!”
+
+Ren smiled. “I could argue that you didn't really need a bra for that; but, I'm glad you think so now.”
+
+Anabelle laughed. “You're just saying that because you've seen me nude.”
+
+He shook his head. “I thought you were pretty as soon as we met.” He smiled. “Of course, after that you kind of overwhelmed me a little when you appeared in the mansion's upstairs room in only your thin nightgown.”
+
+She grinned. “Imagine what your reaction would have been if I'd been wearing this instead.”
+
+Ren's eyes widened as he thought about it. “I might not have gotten out of there alive.”
+
+Anabelle laughed as she put her blouse and suit coat back on. She slid off the skirt, and then her underwear, and put on the new ones.
+
+“Ooo, that's nice.” She said, and turned around to look at herself in the mirror while she held the bottom of her blouse up above her waist. She stuck her butt out a little, and giggled at how nice it looked. She saw Ren looking at her in the mirror, and she slowly bent over and pulled her skirt back up. When she was fully dressed, she came out of the changing room and smiled.
+
+“My Lord, I hope you have a lot of these.” Anabelle said. “We won't be able to keep them in stock.”
+
+Ren smiled and went to the storage area under the stairs, and made a large set of drawers. He took out the items he had, and placed them in their own drawers, and filled half of them.
+
+“I should have more the next time I come back.” Ren said. “These you can sell as is, and everything is custom made. If a customer has an idea of what they want, I can try and make it for them.”
+
+“I'm sure there will be a lot of them.” Anabelle said.
+
+“Which one?” Ren asked. “Customers or ideas?”
+
+“Both, of course.” She said and smiled. “Now, what else do you have for sale here?”
+
+Ren showed her the mannequins he'd put a few outfits on, and told her that it was only for display; and that the clothing can only be ordered at the moment, as he didn't have the time to make multiples of them. Anabelle nodded and he showed her the furniture.
+
+“It's all white.” She said. “People aren't going to like that.”
+
+“What colors should I make them?” Ren asked. “I'd planned on making them different colors, but I've only made red and blue for myself and others. I have no idea what colors people will want.”
+
+Anabelle helped him pick some nice colors, and rearranged the displays to suit the new colors.
+
+“That looks much better.” Ren said. “Thanks, Anabelle.”
+
+“It's my job to sell them.” She smiled. “And I'm going to, once people sit on them.”
+
+Ren nodded. “The chairs and couches you can sell, but I've only had the time to make one of each large furniture item.” He pointed to the sitting table, dresser, table and chairs, and cabinet. “They are order only for now, until I can get some spare time.”
+
+“Will they be bare wood as well?” Anabelle asked.
+
+Ren shook his head. “Should I make them all a dark brown, or should they be colors, too?” He asked. “I'd planned on asking the customers when they ordered it what color they'd want it to be.”
+
+It was Anabelle's turn to shake her head. “People don't know what color they want, until they see it.”
+
+Ren smiled. “I got it.” He said, and took out a piece of wood, and cut it into a dozen pieces, then dyed them all different colors. He nailed them to the wall next to the furniture display. “There.” He said. “Now they can see what the wood will look like in different colors.”
+
+“That's great!” Anabelle said, excitedly. “The customers should like that each piece will be made specifically for them, and in the color of their choice.”
+
+Ren nodded. “That's my hope.”
+
+“Okay, what else?” She asked, and Ren took her to the weapon and tool display. “Good god, look at that!” Anabelle exclaimed. “I don't even know what a lot of those are called!”
+
+“I haven't had the chance to label everything yet.” Ren laughed. “Don't worry. I'll do it in a minute.” He said and took her to the window display.
+
+“You did this?” Anabelle asked. “It's like a real living room!” She looked at the wall. “Except for the underwear and weapons on the walls.” She said and laughed.
+
+“I was trying to give an overall impression of what I had to sell.” Ren smiled. “The armor I have a few sets made. They can also be different colors, or just bare metal.”
+
+“Where are the extra sets?” Anabelle asked.
+
+“Right!” Ren said and went back to the storage area under the stairs, and took out three more sets of armor. He used his dye station to remove the mottled gray color and just left them bare metal.
+
+“What is that in the chest plate?”
+
+“It's the protection glyph.” Ren said. “It gives the wearer a 40% bonus to their Defense.”
+
+Anabelle nodded. “I'll remember that.” She said. “It'll be a big selling point.”
+
+“So is the high durability, and...” He leaned in close. “...if anyone buys one, tell them that if I'm here, their first repair will be free.”
+
+Anabelle gasped. “You can't be serious?”
+
+Ren nodded. “I am.” He said. “If I'm not here, they'll have to wait, or take it to Donan.”
+
+“Okay.” She said. “You're crazy, but I'll tell them.”
+
+Ren chuckled. “I'm trying to give them reasons to come back and buy more stuff.” He took her to her desk. “This is your desk.” He said. “Behind it is the potions and a list of what's available.”
+
+Anabelle nodded. “Can I sell them?”
+
+Ren took out a few more Mana and Health potions that he had and added them to the shelves. “Yes, it's what they're for. I'll have more made, and bring a larger stock in a day or so.”
+
+“If anyone asks, I'll tell them that.” She said. “When people find out you have them, they should fly off the shelves.”
+
+Ren nodded. “These, on the other hand, are display only.” He pointed to the stone bricks with the labeled enchantments. “It's to show that I can enchant things, and will do so when I visit.”
+
+“Is there somewhere I can store customer's items for that?” Anabelle asked. “What about the repairs?”
+
+“Good point.” Ren said, and went over to the part of the store with the forge. He built a partitioned area near the wall, and made shelves from floor to ceiling. “This should be enough room; but if it's not, I'll take the time to finish the second floor.”
+
+Anabelle looked up. “What second floor?”
+
+“Exactly.” Ren said, and pointed to the various posts and cross members. “I had intended to build the second floor for other things, but never got around to it.”
+
+“Is that why everything is so crowded?”
+
+Ren nodded. “Yeah, the furniture and clothing were supposed to be on the second floor.”
+
+“That makes sense.” Anabelle said. “They don't quite fit together with weapons and tools.”
+
+Ren took her back to the desk, and took out the few pieces of large parchment paper that he had left. He cut them into page-sized pieces, and gave her several pieces of charcoal for writing.
+
+“You should probably order some more of these.” He said.
+
+“How?”
+
+Ren looked at her in confusion, then chuckled. “I'm sorry, I actually forgot about this.” He opened the business owner menu and assigned Anabelle as the store clerk, and gave her authorization to order things that were needed. A small key appeared around her neck, and she gasped.
+
+“What's this?!?”
+
+“It gives you authorization to place orders and take care of the business.” Ren said. “And you can leave and come back whenever you want now, without having to wait for me.”
+
+Tears came to Anabelle's eyes. “You... you gave me a key...”
+
+Ren closed the business menu and took the hand that wasn't clasped around the key on her neck.
+
+“Like I told you before, I'm trusting you with all of this.” He said. “I honestly can't run the store and work off my sentence at the same time.”
+
+“I know that, but... it... it just hit me... I...” She took several deep breaths, then looked at him. “Thank you, My Lord.”
+
+“I'm kind of throwing you in the deep end here.” Ren said. “I had planned on easing you into the job, but I'm practically out of time.”
+
+“Don't worry, My Lord.” Anabelle straightened her back and pushed her chest out. “I won't let you down.”
+
+“I can only ask you to try your best.” Ren said. “The only way you could possibly let me down, is if you didn't try at all.”
+
+Anabelle smiled. “You're a good man.”
+
+“You're only saying that because you saw me nude.” Ren said, and she laughed.
+
+“Yes, that's the only reason.” Anabelle said, and hugged him. She let him go and looked around. “Why aren't we getting any customers yet?”
+
+“I haven't officially opened yet.”
+
+“Well get off your butt and do it!” Anabelle said and grinned. “I'm not here to just look pretty!”
+
+Ren chuckled. “Hold your horses.” He said, and went around the store and labeled everything, then went back to her desk and gave her a list of all of the items and their prices.
+
+“This will be a big help.” Anabelle said, and looked at him. “Are these prices set in stone, or is there room for haggling?”
+
+“That depends.” Ren smiled. “If you think they might buy a little more if you give them a better price, then go ahead. If you think they're looking to scam you, then the price is firm, or you can refuse to sell to them.”
+
+Anabelle smiled. “You're leaving it up to me, then?”
+
+Ren nodded. “You're the one that's going to be dealing with the customers, even when I'm here.” He said. “You've got some leeway in the cost of the item and the actual price, so as long as you don't under-sell things, whatever you decide is what the price will be.”
+
+“You're trusting me with your livelihood here.” Anabelle said. “Are you sure...”
+
+Ren nodded. “Just remember: Those that seek power don't deserve it; only those that have the power thrust upon them, can use it wisely.”
+
+Anabelle thought about it. “So, you're 'thrusting' it onto me?” She said seductively, and Ren laughed.
+
+“Yeah.” He grinned. “I hope you can take it all.”
+
+“Open the store, My Lord.” Anabelle said, and made a kissing motion. “I'll show you how much I can take.”
+
+Ren shook his head and opened the business menu again, selected the storefront option, and set the hours of operation.
+
+Notice!
+
+You have previously selected 'No' for this option. Do you wish to activate the storefront now?
+
+Confirm: Yes / No
+
+“Yes.” Ren said.
+
+Notice!
+
+You have chosen to open a public business. A notification shall be posted to the message boards, on the main server, and on the FLOW website in the list of local businesses. All players within the city limits will also be sent a notification.
+
+Do you wish to proceed? Yes / No
+
+“Yes.” Ren said, and the entire warehouse glowed for a brief moment.
+
+Congratulations!
+
+Your business is now active, and customers will flock to see your wares. Good luck!
+
+“It's open.” Ren said, and looked around. “I'm sure there's something I'm forgetting.”
+
+Anabelle chuckled. “It'll come to you when you leave.”
+
+Ren laughed. “Yeah, more than likely.”
+
+The front door to the business opened, and a woman stepped in.
+
+“This place just gave me a popup that it was open.” She said and shut the door.
+
+“I've got this.” Anabelle said and walked over to their first customer. Ren watched her closely, and she actually did tone down the sexiness. They talked for a minute, then the customer grabbed Anabelle's arms.
+
+“You're kidding!” She exclaimed, and Anabelle shook her head. “Show me!”
+
+Ren stepped aside as the woman practically ran by him and to the partitioned off section.
+
+“Oh my god!” The woman exclaimed and grabbed 3 different types of bras. “Where can I put these on?”
+
+Anabelle pointed to the changing room, and the customer disappeared inside. Ren heard a loud sigh, and a few minutes later, the woman came out of the changing room.
+
+“I'll take them.” She said, and handed two of the three bras to Anabelle. “I've been bouncing around and jiggling for weeks!” She cupped her chest, and sighed. “It's so nice to have them contained and not flopping around.”
+
+“Running is the worst, isn't it?” Anabelle said, and the customer chuckled.
+
+“Don't get me started on that!”
+
+Anabelle smiled and told her the price.
+
+“Only 10 silver each?!?” The customer exclaimed. “I thought they would be a gold at least.”
+
+Anabelle accepted the money graciously, and the customer thanked her for carrying such fine products, and would tell all of her friends about it.
+
+Anabelle pointed to Ren. “It's all his idea.” She said. “This is his store.”
+
+The woman turned around and looked at Ren. She walked over to him and shook his hand vigorously.
+
+“Thank you so much!”
+
+Ren chuckled. “You're welcome.”
+
+“How long will they last?” She asked him.
+
+“That depends on what you put them through.” Ren said. “We can repair them, though. If they wear out or get damaged, bring them back. I'll repair them for a small fee.”
+
+“That's wonderful!” She said and let his hand go. “I better get going.” She said and walked towards the door. “I've got a quest that I need to do before supper.”
+
+“Good luck!” Anabelle said, and the woman waved to her, then left the store.
+
+“I did it!” Anabelle exclaimed. “My first sale!”
+
+“You handled it well.” Ren said. “I think you'll do just fine.” He smiled. “I have to run an errand or two. I'll be back in a few minutes.” He walked over to the door and held it open for two women he had seen through the window.
+
+“We saw someone running down the street and waving something in her hands.” One of them said.
+
+“She said we had to come in here and see what you had.” The other woman said.
+
+Anabelle came out from behind the counter. “Right this way, ladies.” She said, and ushered them into the partitioned-off area. Ren heard several gasps, and he chuckled as he left the building. He ran over to Donan's Shop to visit his blacksmith mentor.
+
+“Hi, Donan.”
+
+“Ren.” Donan said, and didn't turn around from hammering something on his anvil.
+
+“I came over to apologize.” Ren said.
+
+“For what?” Donan asked. “Not coming to visit, or sleeping with my sister?”
+
+“The first.” Ren said. “I didn't know you knew about the second.”
+
+“Well, I do.” Donan said. “She's been talking about you non-stop, ever since you promised to come and see her...” He shook his head. “...and dressed in a dwarf recruit uniform to boot.”
+
+Ren smiled. “I have overall command of the Garrison now.”
+
+Donan dropped the hammer and it clattered to the floor. “You WHAT?!?”
+
+Ren explained about what happened, and Donan shook his head again.
+
+“You aren't going to keep it, are you?” He asked, and it was Ren's turn to shake his head.
+
+“I've got to get rid of it before the payments and taxes are due.”
+
+Donan laughed as he picked up his hammer. “I can only imagine the cost of running something like that.”
+
+“I can afford it easily.” Ren said. “For a while, anyways.” He smiled. “But the only real benefit I get from it is Donna's enthusiasm.”
+
+Donan quickly put down his hammer and covered his ears. “I didn't want to know that!”
+
+“Sorry.” Ren said.
+
+“That's not the apology that I think I deserve.” Donan said as he let his ears go.
+
+“I know that.” Ren said. “I got this for you instead.” He took out the second anvil that he'd bought at the Convent, and Donan ran across the shop to him.
+
+“You DIDN'T!” He shouted, and tried to pick Ren up. Donan grunted, stopped trying, and gave Ren a tight hug instead.
+
+Wow. Ren thought. Donna had no trouble picking me up.
+
+“Ren, my boy.” Donan said as he let Ren go. “I've always wanted one of the best anvils that exist.” He looked at Ren sternly. “You better treat her right, or your head will be on this anvil before you know it.”
+
+Ren nodded. “Don't worry.” He said. “I only visit with her every few weeks, and she knows it can't go on forever.”
+
+“Then I accept your apology.” Donan clapped Ren on the shoulder. “And your outrageously generous gift.” He picked it up and carried it over to his workstation. “Now, what am I going to do with this old thing?”
+
+“I'll take it.” Ren said. “Just to get it out of the way.”
+
+Donan smiled. “Help yourself.”
+
+Ren stored the old anvil, and Donan put the new anvil in it's place. He knelt in front of it, gave it as tight of a hug as he had given Ren, then rested his head on it.
+
+“Every blacksmith's dream.”
+
+“I'll leave you two alone to get acquainted.” Ren said, and Donan waved to him without looking up. Ren left the shop, and laughed as Teepo spoke.
+
+“I think you found Donan's soul mate.” Teepo chittered in delight. “He wouldn't even look at you after he saw that thing.”
+
+Ren nodded. “I'm glad he likes it.” He said, and ran down the street to Sally's shop. He went in through the door, and Sally was sewing something while sitting at her workbench.
+
+“Hi, Sally.”
+
+“Hi, Ren.” Sally said. Her face flushed a little red as she crossed her legs, the dress she wore rode up a little, and exposed her ankle.
+
+I'm nearly 65 years old. Sally thought. I really shouldn't tease the poor boy like this.
+
+“Wow.” Ren said, as he noticed the superb shoes Sally wore. Her face flushed completely red as Ren knelt in front of her and examined them.
+
+He's staring at my ankle! Sally thought, and felt very naughty; as only her husband had ever seen her ankle up that close.
+
+Ren got the pattern for the shoes a moment later. “Thank you, Sally.” He stood up and smiled at her. “They're really nice.”
+
+“You don't have to thank me.” Sally said, and waved his thanks away. “I'm just glad you liked them.”
+
+“I do.” Ren nodded. “I've never seen anything like them before.”
+
+He... he really liked seeing them! Sally thought, then missed her next stitch and poked her finger with the needle. “Ow!”
+
+“Sally!” Ren nearly shouted, then took a hold of her hand. The finger started to bleed, and he stuck it in his mouth to suck on it.
+
+“Wh-wh-what are you doing?!?” Sally asked, surprised beyond belief, as her face burned a bright red color. Ren didn't try to talk this time, like he did when Ereka burned her fingers, and he took out a Minor Healing wand. He stopped sucking on Sally's finger, and used the Minor Healing wand on it.
+
+“There. All better.” Ren said, and grinned as Sally looked at her finger, then at Ren, then at her finger, then back at Ren. “You would have gotten blood on that nice fabric, if I hadn't done that.”
+
+“But... but...”
+
+“I'm sorry I distracted you, and made you hurt yourself.” Ren said. “And with a needle.” He shivered.
+
+Sally put a hand on his arm. “Thank you.”
+
+“It was nothing.” Ren said. “I just came by to show you some more of Lord Neram's patterns, and to let you know that I finally opened my shop.”
+
+“That's great!” Sally smiled. “You must be very happy to get a steady income.”
+
+“I hope it'll be a steady income.” Ren said. “I've got a lot of different things there for sale. Some of it should sell well.”
+
+Sally nodded. “I'll stop by tomorrow.” She said. “It's getting late, and we'll be closing soon.”
+
+Ren's mouth dropped open. “I'm sorry, Sally. I forgot I have to go!” He stepped close and gave her a kiss on the cheek. “I should be back in a week when I get another day off from serving my sentence.”
+
+“Serving your sentence?!?” Sally exclaimed.
+
+“I'll explain later!” Ren said, and ran to the door. “Bye, Sally!”
+
+“Good-” Sally started to say, but Ren was already gone and the door shut behind him.
+
+Nathalia is going to kill me!  Ren thought and ran around Sally's shop to go to his own. He slowed down at the door as he saw several people inside. He went in and helped Anabelle deal with the customers. She filled out orders and he sold items for the next half an hour, until he got a popup stating that the store hours were over.
+
+“Thank you for coming by.” Anabelle said to the customers, as they filed out through the door, both happy and satisfied. Ren closed the door behind them, and locked it.
+
+“I think we might need to hire another worker.” Ren said. “Or two.”
+
+Anabelle laughed. “If it gets to be too much for me, then yes. We can hire someone to help.”
+
+“We were only open for an hour, and we've already sold half of the chairs, a couch, 3 of the swords, a shield, and... I don't know how many bras and underwear.” Ren said, then shook his head. “At this rate, I'll probably have to come back tomorrow night with another delivery.”
+
+“If what you said before is true, that there's going to be a lot of customers tomorrow...” Anabelle smiled. “...then you'll need to make a lot of things to keep them in stock.”Ren sighed. “I haven't even looked at the orders yet.”
+
+Anabelle handed him a piece of parchment with a short list.
+
+“That's not too bad.” Ren said. “I should be able to make them during lunch tomorrow.”
+
+“That's the back.” Anabelle said.
+
+Ren turned the piece of parchment over, and saw that the front of it was covered in orders.
+
+“Crap.” Ren said, and she laughed.
+
+“It's okay.” Anabelle said. “I told them it would be a couple of days.”
+
+“Great! I'll do what I can.” Ren said. “I'll try my best to make it back here by tomorrow night.” He started to run up the stairs, then stopped at her shout.
+
+“Wait!” Anabelle shouted, then walked up the stairs to where he stood. “You should cover the inside of the windows with dark fabric, so the light won't show out into the street.”
+
+“Right! Good thinking.” Ren said and ran over to the windows, took out enough fabric to make window coverings, and added cloth ties after hanging the improvised curtains in place. He went over to the forge, dumped out the molten steel, and turned it off. He made several blanks that he could reheat and forge later, then stored about half of the iron ingots that he had under the workbench. Ren ran back to the stairs and met Anabelle at the door to the apartment.
+
+“I added ties, so in the morning when you open for business, just tie the curtains back.” He said.
+
+Anabelle nodded and opened the apartment door and went inside. Ren went into the living room and looked at the couch. He picked it up and moved it to the side of the room, then made a bed for Anabelle to sleep in. She watched him work as she took off her business suit and put on the same thin nightgown that she'd worn after the party.
+
+“I'm tempted to put this in the small room off to the side there; but, that wasn't it's intended use.” Ren said. “I hope the living room is okay for now.”
+
+“I was happy with the couch.” Anabelle said, and smiled. “It really is comfy.”
+
+“You can't stretch out on the couch, though.” Ren smiled. “I'll see you in a couple of days.”
+
+“Goodbye, My Lord.”
+
+“Bye, Anabelle.” Ren said, and Teepo dissolved into the ring. Ren opened the cabinet and nailed it shut from inside, then stepped through the portal. He opened the cabinet on that side, and ran downstairs to feed Princess. He summoned Teepo as she ate, then took Princess outside to hook her to the cart. Ren climbed into the driver's seat, and told Princess to not waste any time. She took off like a shot, Teepo chittered in delight, and they were back at House Neram just over an hour later.
+
+“You're getting faster.” Ren commented as he led her into the courtyard and unhooked the cart.
+
+...Feel stronger...
+
+“I'm glad.” Ren said and she plunked down on her old mattress.
+
+...Ahhh...
+
+“Hi, Riley. Hi, Stacy.”
+
+The dogs barked softly, and he pat them, then he went into the house.
+
+“I'm home.” Ren said.
+
+“We're in the kitchen.” Nathalia said.
+
+“I've got Adventurer's business to take care of, and will probably be gone most of the night.” Ren explained as he came into the kitchen and saw Nathalia and Ereka finishing up a meal. “I'm really sorry that I didn't make it back today.” He said and sat down. “So many things happened, and then I had to open my store.”
+
+“You opened the store?” Nathalia asked. Ren nodded, and she smiled.
+
+“I'm surprised you made it home at all, then.” She said. “You must have worked nearly all day.”
+
+“It certainly felt like it.” Ren said. “I'll tell you all about what happened in the morning.”
+
+Nathalia nodded slightly. He kissed her goodnight, went back into the main room, and sat down on the couch.
+
+See you in the morning, Teepo.
+
+“Goodnight, Ren.”
+
+“Logout.”
+
+********

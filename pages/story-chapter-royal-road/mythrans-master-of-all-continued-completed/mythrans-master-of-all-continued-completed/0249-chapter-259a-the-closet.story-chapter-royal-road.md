@@ -1,0 +1,227 @@
+---
+id: 3dada4c3-9be0-51f2-baa4-b07e664559eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 259A - The Closet"
+slug: 0249-chapter-259a-the-closet
+partOf: mythrans-master-of-all-continued-completed
+position: 249
+ownLength: 2777
+unit: words
+publishedAt: 2017-05-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137942/chapter-259a-the-closet"
+royalRoadId: "137942"
+---
+
+They kissed for several minutes, and then Lara stopped and looked at him.
+
+“I want you so bad I can taste it.” Lara whispered to him.
+
+“I'm not stopping you.” Ren said and stored his clothing. “I hope you're ready for this.”
+
+Lara looked down at his completely ready appendage. “Oh, god.” She whispered and knelt down. “I... I can taste it?” She asked as she looked at his face. Ren nodded his permission; so, she leaned in close and kissed the tip. It throbbed appropriately, and Lara held in her giggle.
+
+It's never good to laugh when someone you're with is naked. Lara thought. Even if it's because you're extremely happy. She took several deep breaths, swallowed loudly, and slipped her mouth over him.
+
+Ren stared at her, and marveled at how well she was doing. She licked and probed with her tongue in ways that made him throb harder.
+
+Even Stella didn't do this good of a job. Ren thought. And she's an expert!
+
+Lara had only been at it for a few minutes, and he felt he was getting close.
+
+“Lisa...”
+
+He used my real name! Lara thought, and felt Ren convulse. She took the hint, grabbed his hips, and jammed her face down hard. Her top lip met the skin of his abdomen, and he finished.
+
+“Oh, god!” Ren exclaimed and put his hands on her head. Both he and Lara held on as he kept going. This went on for about 10 seconds, and then he relaxed. He let her head go, and she pulled herself off of him; but, she kept sucking as she did. When her lips passed over the tip, she flicked her tongue out and licked it. It gave an appreciative throb, and this time she couldn't hold in her giggle.
+
+Ren put a hand under her chin, and lifted. Lara had no choice but to stand, and when she did, he gave her a kiss.
+
+“That was... by the gods... amazing.” Ren said. “Thank you.” He kissed her again. “Thank you very much.”
+
+Lara wrapped her arms around his neck and cooed at him. She whispered how much she enjoyed doing it, and how much she liked that he enjoyed it, too.
+
+“Lisa... um... I don't really know how to say this delicately, so I'm just going to say it.” Ren smiled. “If you make a mess when you have sex, you should log out and get a towel ready.”
+
+“Ren, I...” Lara blushed a deep red. “I... I've never... um...”
+
+“Then you definitely need to log out and grab a towel.” Ren said. “Fold it over once or twice, and put it between your legs.”
+
+“R-really?”
+
+“You might not need it; but it's better to have something there, just in case you do make a mess.”
+
+“I... ah... okay.” Lara said and stepped back from him. “I'll be right back.”
+
+“Logout.”
+
+********
+
+Lisa slipped off the VR headset and sat up on her bed. Oh, my god! She thought as she rolled off the bed and looked down at her jogging pants. Good, nothing's showing. She left her room and went to the bathroom. She grabbed a small towel, and then thought about what Ren had said. She put the small one back and grabbed one of the large bath towels.
+
+Lisa walked calmly back to her room, locked the door, and went back to the bed. She slipped off her jogging pants and underwear, and tossed the underwear into the pile of dirty clothes she needed to wash the next day. She folded the large bath towel over and laid it on the bed, then put on her jogging pants and pulled them up to her thighs. She picked up the towel and slipped it between her legs, then pulled her jogging pants up the rest of the way.
+
+That's not too bad, actually. Lisa thought, and laid down on the bed. She picked up the VR headset and put it on. I can't believe I'm doing this! She thought excitedly, took a deep breath, and relaxed.
+
+“Flow Login Start.”
+
+********
+
+Ren smiled at Lara as her phantom form became solid again. He had been worried that she was taking a little too long to get ready and might not come back in. He was happy that he was wrong for once.
+
+“All set.” Lara said. “I hope so, anyways.”
+
+“We'll find out soon enough.” Ren said, and stood up from the chair he had sat in, that was against the wall of the closet. He kissed her, and Lara moaned as he put his arms around her and held her tightly. They made out for several minutes, and then Ren broke the kiss. He saw the disappointment in her eyes that he stopped, and he cupped the side of her face.
+
+“I'm going to keep kissing you.” Ren said, and plucked at her clothing. “Just not on the mouth.”
+
+“Oh.” Lara said, and felt a little embarrassed. “Um... I...”
+
+“Like I said before. No one can see or hear us. It's just you and me.” Ren said, then smiled. “You don't think I just sit around naked all the time, do you?”
+
+Lara chuckled, and gave him a quick kiss. “No, I'm pretty sure you don't.” She said, and stored her clothing. She automatically covered herself with her hands, and he smiled. He didn't grab her hands, or try to pry her arms away. What he did instead, was much better than either of those options.
+
+“Thank you.” Ren said, and kissed her passionately.
+
+“What...” Lara said, a minute later. “What are you thanking me for?”
+
+“You're letting me see all of that wonderful skin.” He said and ran a hand down her arm and to her hand. “You're letting me touch you.”
+
+“Ren... I...” Lara blushed. “No one's ever... ever seen...”
+
+“Then I am more blessed than I thought I was.” Ren said. “I get to see you in all your glory, for the first time.”
+
+Lara smiled as her blush eased, and her hands shook as she fought to let herself go.
+
+“Relax.” Ren said. “You're comfortable in your own skin. It's your body. Enjoy it.” He smiled sweetly as she took his advice. “Now, let me see what you're hiding.”
+
+Lara blushed really hard as she dropped her hands. Ren kept looking at her eyes, to make sure she knew he was seeing her, and not her body. Her blush eased away as he kept eye contact with her, then he reached out to caress her face.
+
+“There you are.” Ren said. “It's nice to see you.”
+
+Lara chuckled. “It's nice to see you, too.”
+
+“I'm going to look now. Is that okay?” He said and let his hand drop away from her face.
+
+Lara nodded, and he glanced down for a split second.
+
+“Wow.” Ren said. “I can honestly say I've never seen anything like them before.”
+
+“You... you haven't?” Lara asked, surprised.
+
+“Nope.” Ren said, and put his hands on her hips. She stiffened up for a moment, but when he didn't move his hands past that, she relaxed. “They are definitely one of a kind.” He said, and started to move his thumbs up and down.
+
+“What... are you doing?” Lara asked.
+
+“Testing the waters.” Ren said. “If it stays calm, then I can go farther out. If things start to get choppy, I can get back to shore quickly.”
+
+“Really?” Lara smiled. “A swimming metaphor?”
+
+“A woman is like a dangerous sea.” Ren said. “If you're careful and treat her with respect, she'll treat you well in return; and can provide everything that you'll ever need.” He smiled. “If you're not careful, though; she can destroy everything that you are and can suck you under.”
+
+“Oh, come on!” Lara said and laughed. “Women aren't like that at all!”
+
+“I know.” Ren said. “But, in case you didn't notice; I've moved my hands.”
+
+Lara looked down and saw that his hands had moved from her hips, up to the sides of her rib cage.
+
+“How did you do that?”
+
+“If I was to take a guess, I think it's because I'm talking to you.” Ren said. “I'm not all over you and grabbing everything that I can see.” He smiled. “I'm not trying to force you to do anything, either.”
+
+Lara looked at him with wide eyes, and then down at his appendage. “Has it been like that this whole time?”
+
+“It's been like this since your awesome performance before you left.”
+
+Lara opened her mouth to say that wasn't possible, and Ren's thumbs touched the underside of her breasts. She gasped from the gentle touch, and she took a deep breath and let it out slowly. She put her hands on his wrists, and moved his hands up and over her chest.
+
+“I'm sorry.” She said. “They're so sm-”
+
+“Incredible!” Ren exclaimed, and massaged them slowly.
+
+“Oh, my...” Lara said, and moaned as Ren played with them. The tips poked his palms and he eased his hold, then traced them with his fingertips. “R-R-Ren...”
+
+“Yes?”
+
+“You... mmm... really like them?” Lara asked.
+
+“I'll let my tongue answer that.” Ren said, squeezed them a little, and licked one of the tips.
+
+“Oh, god.” Lara said, and closed her eyes.
+
+Ren suckled and played with them as Lara moaned. Even though they were barely a handful, they were hard and perky. He'd never felt anything like them in his mouth before, but for some reason he knew exactly where to lick and tease to get the best reactions from her.
+
+Lara felt liquid run down her legs, and put a hand there to try and stem the flow. Ren saw her hand move, and figured that now was as good a time as any. He held one of her breasts in his mouth and moved his hands down around her back to cup her behind. She didn't protest at all, and he saw her hand moving between her legs.
+
+Yes, it's definitely time. Ren thought and picked her up slowly. Lara leaned back against the wall as he lifted her up. When he had her at almost the right height, he kissed the hand she had between her legs. She moved it aside, and Ren saw the beauty behind it. He kissed her there, and her hand gripped his hair hard. He shifted his grip to hold her under her legs, and she wrapped them around his neck and crossed her ankles behind his back.
+
+They stayed that way for a while, and Lara reveled in the feeling of his tongue as he explored her womanhood. She couldn't think straight as strange things happened inside her body that she'd never felt before. Ren had felt her twitch several times; but knew they were just little ones, and she was getting close to having a big one soon. It was at this point that he realized that he had gained knowledge from those memories he'd seen. Using that knowledge, he used it to full effect. Ren applied direct stimulation to her most sensitive spot with his lips and tongue, and it brought her.
+
+“AhhhHHH!” Lara screamed as her first real orgasm hit her. She didn't know what was going on as her body betrayed the calm composure she always had, and her mind reeled as she trembled in ecstasy. Ren had stopped stimulating her after that big one, because the last thing he wanted was to overwhelm her with everything he could do, for her very first time with someone else. He waited for several minutes for the trembling to stop, and when it looked like Lara was coming back to herself, he very gently lowered her down and held her in a 'princess carry', with an arm under her legs, and one under her back. She draped her arms around his shoulders, and rested her head on top of his.
+
+“Please tell me it's always like this.” Lara said dreamily.
+
+“It's always like this.” Ren said, and she chuckled.
+
+“I really, really want you to prove that to me.” Lara said, and kissed him passionately.
+
+“As you command.” Ren said, and shifted his grip on her to face her towards him. “I'd rather do this on a bed for your first time, so I can give you all of the attention you deserve.” He said and looked around. “I don't see a bed anywhere.”
+
+“The most I have is a chair, and it was one you left in the Library.” Lara said. “Not that I could fit a bed in here anyways.”
+
+Ren smiled and sat down on the chair. “The chair will have to do.” He said, and set her into the right position.
+
+“Ren... um... I...” Lara licked her lips. “I think I'm ready.”
+
+Ren nodded and slid her down slightly. Lara gasped as the tip slid inside, and her body gripped him tightly.
+
+“Good god.” Ren said. “Can.. can you relax a little?”
+
+“I don't know.” Lara said and tried to think through what her body was telling her. “I can... I can try.”
+
+“Please.” Ren said. “If you keep holding me like this, it might hurt if I try to move you.”
+
+Lara nodded, and took several deep breaths. In, out. In, out. She thought, and her body eased it's tension. Ren felt the change, and he slid her down further.
+
+“OH!” Lara said as she gripped him hard again. “Good god! Does it ever end?”
+
+“Yes.” Ren said. “Relax.”
+
+Lara nodded several times quickly, and Ren felt her body relax. He took that opportunity to pull her down the rest of the way and she froze stiff.
+
+“It's in.” Lara said, her eyes wide. “Oh, my good god! It's all in!”
+
+“It... is...” Ren said, and tried his best not to finish. Lara was holding onto him so tightly, that he could feel the muscles inside of her trying to massage him, and he wasn't even moving yet. She felt him as he struggled, and wrapped her arms around him.
+
+“Go ahead.” Lara whispered to him, and her gaze bored into his. “I want to feel it.” She said. “I want to feel it all.”
+
+Ren nodded, picked her up until he slid almost all the way out. She held on, and was about to say this was the best moment of her life, and then he pulled her down.
+
+They both yelled out, as that one single thrust brought the both of them.
+
+They locked their lips together, the same as their lower parts were now locked together, and each savored the way they both made the other feel. Even though they couldn't actually feel what the other felt, they knew the other was having the most pleasure they'd ever had up until that point in their lives. They both spasmed again as they broke the kiss and their bodies shifted slightly.
+
+“You.. you proved... proved it.” Lara said, when she could talk.
+
+“I think... we both did.” Ren said, and she smiled and kissed him again.
+
+They continued like that for a long time. The both of them were lost in each other's bodies. Ren showed her some of the things he could do, and Lara showed Ren some of the things she could do. Even though she'd never had any practical experience, that didn't mean she didn't know anything. Plus, she had also seen the memories, and knew Ren's body almost as well as her own.
+
+They teased and played, and tried every position they could think of, that they could do in such a limited space. They searched and explored each other's bodies to find all of the erogenous zones that they knew should be there; then used them to play. By the time they were done, they'd done everything they could do to, and for, each other. The best part of it all was that they had fun.
+
+They equipped their clothing, and made sure there wasn't any outward signs that they had just spent hours upon hours having sex. Once everything was in order, Lara reached for the door handle.
+
+“Wait.” Ren said, and she stopped.
+
+“What is it?” Lara asked.
+
+“It's just... well...” Ren stepped close to her. “I want to kiss those talented lips again.”
+
+Lara chuckled. “Isn't that supposed to be my line?”
+
+Ren grinned. “I'm just making sure you know your own strengths.”
+
+“Oh, all right.” Lara said as she hugged him tightly. “I can't resist such a nice request.”
+
+“Of course not.” Ren said. “I'm irresistible.”
+
+Lara laughed, and they started to kiss again; then it turned into a full make out session.

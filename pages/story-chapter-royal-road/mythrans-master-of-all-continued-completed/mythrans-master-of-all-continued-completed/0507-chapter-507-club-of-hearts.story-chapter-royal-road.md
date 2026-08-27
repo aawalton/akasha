@@ -1,0 +1,285 @@
+---
+id: cfd2a338-ed05-51bc-bcd6-f8894ee3f092
+page-type-slug: story-chapter-royal-road
+title: "Chapter 507 - Club Of Hearts"
+slug: 0507-chapter-507-club-of-hearts
+partOf: mythrans-master-of-all-continued-completed
+position: 507
+ownLength: 3773
+unit: words
+publishedAt: 2018-02-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193460/chapter-507-club-of-hearts"
+royalRoadId: "193460"
+---
+
+Ren had finished up with the maids after making sure to thank them all properly by giving them as much pleasure as they could handle, then logged out to take care of business. No one was in his room, and he was a little surprised by that; then he shrugged his shoulders and went to the bathroom to take care of things. When he was done, he went back into his room after prepping for fun again, then climbed back onto the bed and logged back into the game.
+
+Ren slept for the hour that he needed, and while the maids slept for the second hour that they needed, he read his stat boost books. He had 4 of them now. One for Intelligence, one for Wisdom, one for Strength, and one for Agility. He gained a point in each stat and the books went blank.
+
+It would be great if I could spend a few hours in Lara's closet so I could abuse the crap out of these books. Ren thought. “Lara!” He gasped, slid out of bed and equipped his Travelling Clothes and put on his Dire Wolf Hooded Cloak, then Teepo landed on his shoulder.
+
+Ren went downstairs and ran to the Library, and Artemis came out of the warehouse and joined him. She waited outside the Library as Ren went inside, and he waved to Rosie and passed by the reception desk. He quickly walked to the side hallway and went into the back storage area, and saw Lara as she sat behind her desk with her feet up.
+
+“It's about time you remembered me.” Lara said angrily.
+
+“I'm really sorry.” Ren said.
+
+“What's your excuse this time?” Lara asked.
+
+“I died saving the world.” Ren said.
+
+Lara started to laugh at the joke, then her laugh cut off like a switch had been thrown as her eyes went blank for almost 10 seconds. She blinked her eyes after that and stood up, and her face was full of shock and awe. She walked around the desk and put both hands on his chest, ran her hands up and over his shoulders, then wrapped them around his neck. She bent over slightly and kissed him passionately without saying a word.
+
+Ren felt her desire for him as it went sky high, and he wondered what was going on. “L-Lisa?” He used her real name to get her attention when she broke the kiss, and Lara kissed along his cheek and then kissed his ear. “Wh-what's going on?”
+
+“I saw...” Lara stopped talking and leaned back to look at him. “You really did save us all from a horrible fate.”
+
+“I thought so.” Ren said. “But...”
+
+“I also saw what happened with Jennifer tonight.” Lara said and gave him a tender kiss. “You helped her see what an ass Billy is for treating her the way he's been treating her.” She said and kissed Ren again. “If my prediction is right, she is going to need your help tomorrow night.”
+
+“When Billy logs back in.” Ren said, and Lara nodded. “Thanks for the heads up.”
+
+“Anytime.” Lara said and kissed his chin.
+
+“Is that why you're so turned on right now?” Ren asked, and she nodded.
+
+“I just wish...” *kiss* “...I had someone...” *kiss* “...like you when...” Lisa stopped talking and looked at Ren, and saw his wide eyes. She tried to pull away as she unwrapped her arms from around his neck, and he gently caught her and held her close.
+
+“I'm not going to ask why you never said anything.” Ren said.
+
+Lara shook her head several times and tried to pull away again. “No, I... it didn't happen.”
+
+“Lara...”
+
+“No.”
+
+“Lisa!” Ren nearly shouted, and it startled her. She was the one that had wide eyes this time, and he held her with one hand as he used the other hand to caress her face. “I'd kill whoever it was for touching this beautiful face in anger.”
+
+“R-Ren... I...” Lara sighed and closed her eyes as Ren touched her face. “I didn't want you to know.”
+
+“Why?” Ren asked. “Were you afraid I'd think less of you?”
+
+“I... I didn't want...” Lara tried to turn away, but he held her in place. “I'm damaged goods.”
+
+“I want to laugh at that, but I don't want you to get the wrong idea.” Ren said. “You know me in real life, Lisa.” He said and used her real name again. “You know I'm damaged goods, too.” He pleaded. “I'm more damaged than practically everyone else in the whole world.”
+
+Lara blinked her eyes a few times, and then she took a deep breath and let it out. “Ren, I...” She shook her head slightly, because he wasn't saying that she wasn't damaged or belittled how damaged she was. He was only stating that they both were and that he was fine with that. “I love you.” She said. “I love you so much.”
+
+“I love you, too.” Ren said, and they kissed. They stayed that way for several minutes, and then Ren broke the kiss. “Come with me for a few minutes.”
+
+“Okay.” Lara said and took his hand as she followed him out of the back room, through the Library, and outside.
+
+“Hi.” Artemis said to her, and Lara gave her a brief nod as Ren stopped beside the Library.
+
+“Give me a minute to work my magic.” Ren said, and Lara nodded and let his hand go. He opened the plans for the Instant Tower, then the plans for a nice single storey house. He replaced most of the Instant Tower with the house plans, and left the part that embedded in the ground. He added the maximum amount of runes that he could for Enchantment enhancement, then added in his recipe for the Holy Relic.
+
+The Sanctuary enchantment doubled in effectiveness because of the added runes, which doubled the Sanctuary's area from 10 feet by 10 feet to 20 feet by 20 feet. It also allowed the use of 2 spells instead of one. Ren already knew the spells he was going to use, and activated his Craft Wondrous Item ability. He added the materials needed, which wasn't a lot because the house was a lot smaller than the tower, and added the money and Mana it required.
+
+“You never did decide if you wanted your own house or not.” Ren said as the cube formed on the golden platform. “Now you don't have to.”
+
+“Ren, I... I've accepted too much from you already.”
+
+“No, you haven't.” Ren said and held the cube up. “Now be a good girl and accept this, too.”
+
+Lara looked at the cube and then at his face. He had a huge smile, and she nodded. Ren walked over to the lot behind the Library, put the cube down in the middle of it, then walked back to Lara.
+
+Ren activated the cube and the nice one storey house popped into place, and he stepped close to it. It asked him for the two spells to use inside, and he chose Permanent Widen Effect as the first one, and Permanent Regeneration for the other. The house glowed for a moment, then Permanent Widen Effect was applied and the Sanctuary effect filled the entire house, then another popup appeared that asked what the next 2 spells would be.
+
+I could keep going on and on with Widen Effect, couldn't I? Ren asked.
+
+“Only if you want to stand here forever and keep picking spells.” Teepo chittered in laughter.
+
+Ren picked Full Restoration and Energize as the next two spells, which closed the infinite loop he could have started by picking Permanent Widen Effect again. That would have doubled the available spells and given him 4 more to choose, then he could pick it again and it would have given him 8 more, and so on. Like Teepo had said, he could stand there forever and keep picking the same beneficial spells over and over. That was not what Ren wanted, though.
+
+Using the exploit for an advantage is one thing, abusing it for no reason except that you could was another. With that thought, he looked at the 3 city model plans he had, and saw that they were greyed out and couldn't be selected or edited.
+
+“Lara, guess what?” Ren turned and looked at her. “You were right, and they greyed out my model cities.”
+
+Lara walked over to him and put an arm around his neck and stood beside him. “Making all 3 cities at the same time was a great idea.” She said. “I thought you were going to make one and enlarge it, then another, and another.”
+
+“Ha.” Ren said. “I wonder how many I could have made before the system itself had to step in and stop me from overloading everything.”
+
+System and Administration Query Response (Player Version)
+
+A total of 5 cities could have been created before causing catastrophic failure of the main server.
+
+Ren's mouth dropped open at the popup. “I... I almost crashed the server.” He said, and then what he was looking at registered. “Holy crap!” He exclaimed in shock. “Lara! Can you see this?!?”
+
+Lara moved her hand from his shoulder to touch the back of his neck, and gasped. “Oh, my god.”
+
+“I can't believe this.” Ren said. “This can't... I need more information.” He said. “Show info for the title: Vasalor's Chosen.”
+
+System Notice!
+
+No information can be found for this reference. Error Code: #8675309
+
+“There's no info, just an error code.” Ren said and opened up the player menu to report the error, and Lara stopped his hand.
+
+“Don't report it.” Lara said. “All that will do is show you're looking for information.”
+
+“That's because I am.” Ren said.
+
+“Yes, you are... and isn't it curious that the basic info for a title you just received isn't available?”
+
+Ren looked at her with his mouth in a little 'o' of surprise. “I love your brain.”
+
+Lara chuckled and kissed his puckered lips. “This is a house, so do you need to set the occupants before going inside?”
+
+“Oh! Right.” Ren said and took out a Permanency wand and used the spell on the building so that it could no longer be moved, then opened the Land Owner menu and set himself and Lara as the occupants. A little key appeared around Lara's neck and she touched it.
+
+“This...” Lara's eyes went blank for a moment and then looked at Ren. “...it's our house.”
+
+“Yes, and can you guess how many people we can take inside?”
+
+“Four.” Lara said without having to think about it, and Ren nodded.
+
+“I was tempted to keep using Widen Effect, but that would make the time compression go way off kilter.” Ren said. “As it is, it's quadruple what your closet is.”
+
+“Wait... you...” Lara stopped talking and took a breath. “You're giving me more of your time.”
+
+Ren nodded. “I'm really sorry about the familiar restriction I have now, so this is the way I thought of to make it up to you.”
+
+“Oh, Ren.” Lara said and took his hand. “Can we try it out?”
+
+“It might take a bit of getting used to at first.” Ren said. “Just like you did with your closet.”
+
+“But not for you.” Lara said.
+
+“Well, that depends.” Ren said. “I adjusted when I came back from the Water Realm, and that was at the same time compression as your closet.” He said. “This... well, we can all find out together.”
+
+“That sounds really good.” Lara said and opened the front door. Ren took Artemis' hand, and Teepo chittered in laughter as the four of them went inside and the door shut behind them.
+
+*
+
+Clint and the guys had shown up at the Pleasure Palace just as Ren and Lara had gone into their new enhanced Sanctuary house. The ride had been uncomfortably silent, because everyone had different thoughts on the whole situation. When they went inside the Pleasure Palace, they were surprised when 2 metal muscle guys blocked their way.
+
+“No weapons are allowed, and no fighting.” Gina, the Manager at the Pleasure Palace said with a huge smile. “If you break those two basic rules, you're out of here just as fast as Ace and Bruno here can throw you out the door.”
+
+“Ah promise there won' be any fightin'.” Clint said. “Ah've got weapons, bu' they won' be taken out of mah inventory fer as long as ah'm inside yer walls.”
+
+“It's nice to see you again.” Gina said, and nodded to the other guys and their dates. “I'm glad you all finally managed to show up.”
+
+“We've been busy in real life.”
+
+“Well, then!” Gina grinned. “There's fresh ale at the bar, or you can have one of the dancers get it for you.”
+
+“I'm on it!” Hank said before Gina had finished talking, and almost ran across the club to the bar.
+
+“He's feeling a little dry after watching everyone else drink all day.” Tommy said, and his real life girlfriend chuckled.
+
+“We have couples tables set off to the side, private booths in the corner, hot tub and sauna in the other corner, and a full kitchen in the corner across from the bar.”
+
+Clint and his date, Tommy and his girlfriend, and Dillon looked around at the place, and it was head and shoulders above the quality of the Pink Pearl. Mirrors were set out and made the place look twice as big, even though the place was already huge, and dancing areas were arrayed around a central stage where the main shows would be.
+
+“Ren made all of this?” Clint's date asked, and Gina nodded.
+
+“He's such a sweet little darling.” Gina said. “He's always so nice, and he cares a lot about the girls and their safety.” She said. “He even made personal animated bodyguards for them to have while they work.”
+
+They looked around and saw that each of the girls had an animated muscle guy nearby. It was both intimidating and unobtrusive, which was the perfect use of a bodyguard.
+
+“Dillon!” Candy said and waved as she came over to him. “Are you sitting with the others, or do you want a little private time?”
+
+“Guys? Are we staying as a group?” Dillon asked.
+
+“Ah'd say fer now, tha's a good idea.” Clint said.
+
+“Then you want a booth over there.” Gina said and pointed. “Curtains are on the sides if you want even more privacy.”
+
+“Thanks, Gina.” Clint said.
+
+“Have fun.” Gina said, and they moved off to one of the private booths.
+
+“He thought of everything, man.” Tommy said and let his girlfriend sit down, then sat down beside her.
+
+“He really did.” Candy said. “You should see the huge dressing room we have upstairs. Lights, mirrors, individual sitting tables...” She grinned. “Ren and his helpers are miracle workers.”
+
+“Hey, guys! Look who I found!” Hank said. He had Caramel beside him, and they carried a pile of tankards of ale.
+
+“Considering you only saw her like an hour ago, it's not that big of a find, man.” Tommy said, and Hank chuckled.
+
+“This place is packed.” Clint's date said as she accepted a tankard and looked around. “It's not just the people from the pool party, either.”
+
+“It's always like this on the weekends.” Caramel said. “Word of mouth spread like wildfire about this place after the advertisement.”
+
+“Yeah, and once Ren put up the lit sign out on the road, they actually found the place.” Candy said and laughed. “We were starting to think we needed to advertise a map or something!”
+
+“I know, right?” Caramel said. “Once they found us, though...” She shook her head. “It's just a steady stream of people in and out.”
+
+The lights dimmed down a little, and there was a smattering of applause as Gina took the main stage.
+
+“You guys are in for a treat tonight.” Gina said, and her voice magically carried to every part of the club. “It's been a while since she performed a routine like this, and I wasn't going to let her after...” She shook her head. “She said she needed to do this, so all I can do is say that I hope you enjoy it.” She said. “So, without further ado... please welcome to the main stage... The Blacksmith!”
+
+Gina stepped off the stage to another smattering of applause, and then the lights dimmed further. A low humming music started, and then a figure walked onto the stage through the curtain behind the stage, and they were covered in a black cloak. A spotlight turned on and lit the stage up, and then the figure whipped off the cloak to reveal Jennifer. She was also covered in damaged armor pieces.
+
+“What you see is what I am.” Jennifer said. “A friend showed me earlier tonight that I don't have to be like this anymore.”
+
+The music became louder and she took out a blacksmith hammer. She started to dance a very erotic routine and repaired each piece of armor while still wearing it. No one said anything as Jennifer finished the armor repair and then started to take it off. Her dance became frantic as each successive piece was removed and tossed aside, and she finished her dance by falling to her knees and taking off the partial helm.
+
+Jennifer still wore a metal bra and underwear, so she hadn't completely stripped; but, it sure felt like she had taken off a lot more than she actually did. She shook her hair out to let it flow down her back as she tossed the helm aside with the rest of the armor pieces, and smiled at the completely silent audience.
+
+“This... is... me.” Jennifer said breathlessly, and after another moment of silence, the place erupted in applause. Copper, silver, and even a few gold coins landed on the stage around her, and a couple of the other dancers walked around the stage and gathered it up for her. Jennifer was panting heavily from the extra long exertion, and her personal animated guard walked over and offered her a hand. She took it and stood up to brace herself, and the other dancers gave her the tips the audience had thrown to her.
+
+“Thank you.” Jennifer said, and regained some of her Stamina. She let the animated guard go and waved to the crowd, then walked back out through the curtain behind the stage, and the guard followed right behind her.
+
+“Didn't I tell you that would be a rare treat?” Gina asked as she stepped back onto the stage. “None of us have seen that routine before, and I doubt we'll see it again.” She said. “Now, how do we follow that up?”
+
+“Take a break!” Someone shouted.
+
+“Ha ha! That's right, Don!” Gina said. “We're all taking a 10 minute cool-down period, so order some food or have another drink.” She said. “Self-serve until after the break, of course.”
+
+“I'm waiting for you!” Don said.
+
+“It'll be cold by then.” Gina chuckled.
+
+“I like cold!” Don said, and she shook her head.
+
+“Okay, everyone else except Don can order food and serve yourselves.” Gina said, and several people laughed. She left the stage, and the dancers all made hasty retreats from the people they were around, including Candy and Caramel, and they all disappeared behind the curtain behind the main stage. The girls went up the stairs and into the large dressing room, and most of them sat down to check themselves in their mirrors.
+
+“Okay, what was that about?” Gina asked.
+
+“I just felt like doing a new routine.” Jennifer said.
+
+“That felt like a lot more than just a routine.” Gina said. “The last time you did anything like that was when you won the dance competition.”
+
+“Oh, wow.” Caramel said, and the girls looked at her. “She did it for Ren.”
+
+“What?” Gina asked, and saw Candy's nod. “Okay, someone tell me what happened.”
+
+Candy put a hand on Jennifer's shoulder. “I'll tell them, if that's okay?”
+
+Jennifer nodded, and Candy relayed the parts of the story that she knew. When she got to the part where Jennifer and Billy walked off to talk, Jennifer took over and filled in the rest.
+
+“Oh, Jennifer.” Gina said and knelt in front of her. “Why didn't you say anything?”
+
+“This is why.” Jennifer said and looked at the other girl's faces. “I didn't want your pity.”
+
+“It's not pity.” Gina said and took her hand. “We all care about you, and want what's best for you.”
+
+“So does Ren.” Jennifer said and covered her mouth.
+
+“Okay, spill it.” Caramel said. “I knew that scene in Clint's place looked like a lot more was going on.”
+
+Jennifer sighed and told them that Ren had caught Billy, about the fight and Billy trying to kill Ren, about Ren snapping Billy's neck, and about how sorry Ren was it had happened and his offer to be a friend when she needed it.
+
+“Wow.” Caramel said. “I don't think I would have waited so long to kill him, or covered up what happened to protect Billy's reputation with his friends.”
+
+“Ren lost his friends over me.” Jennifer said. “If that doesn't prove he's a good man, then I don't know what a good man is.”
+
+“None of us can argue that he's not a good man.” Gina said. “Was he smart about it, though? That's debatable.”
+
+Jennifer shrugged. “He said it was up to me if I wanted to say anything to the guys about it.”
+
+“I get it.” Candy said. “Ren thinks they're going to blame you for Billy's behavior, so he took the blame himself.” She squeezed Jennifer's shoulder. “Yes, that's definitely a good man.”
+
+Jennifer nodded.
+
+“Are you going to tell them?” Apple asked.
+
+“I don't know.” Jennifer said. “It just seems like it's not worth the trouble.”
+
+“Ha!” Caramel laughed. “It's statements like that, that make me question if you're really one of us.” She smiled and touched Jennifer's other shoulder. “Aren't we always causing trouble?”
+
+“No, you are always causing trouble for the rest of us.” Gina said, and they all laughed. There was a knock on the door, and Gina nodded. “Our break is almost over.” She said and checked herself in the closest mirror. “One minute! Let's go!”
+
+The girls all scrambled to check themselves one last time in the mirrors, changed their outfits, and left the dressing room to head back down into the club. They had work to do.

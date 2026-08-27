@@ -1,0 +1,359 @@
+---
+id: 3674cf5f-89b0-5865-9786-f94da51cfb89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 171 - Now They Know"
+slug: 0159-chapter-171-now-they-know
+partOf: mythrans-master-of-all-continued-completed
+position: 159
+ownLength: 3389
+unit: words
+publishedAt: 2017-02-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118967/chapter-171-now-they-know"
+royalRoadId: "118967"
+---
+
+Ren woke up on the couch and looked around, and saw Narhilda curled up on the couch beside him. She was close enough to almost touch, but not quite. Riley and Stacy sat in front of her, facing away from her and towards the door.
+
+Teepo?
+
+“Hi, Ren.”
+
+Did I miss anything?
+
+“Surprisingly, no.” Teepo said. “I figured the guards would have come back in by now, but they've stayed outside.”
+
+I think Fritz doesn't want them to know if anything goes on, either. Ren thought and smiled. Probably so they won't tell him about it.
+
+“Yeah.” Teepo said. “Who would have thought that Fritz the Miner would turn out to be Fritz the Absentee King.”
+
+No kidding! Ren thought. I thought being in love with his mother was enough of a shock.
+
+Teepo chittered in laughter. “What are the odds that you'd end up on a ship, and meet the one person that would lead you to someone that the entire Kingdom had been looking for, for the last 2 decades?”
+
+With my Trouble recipe? I think I was guaranteed to find her. Ren chuckled mentally. Look at how much trouble it's stirred up since I got here.
+
+“Wow.” Teepo said. “I never thought of it like that.”
+
+Ren reached a hand out and stroked her face. I wouldn't change a thing, though. He thought as Narhilda stirred and then looked at him.
+
+“You're back.” She whispered, sat up, then stretched like a cat with her arms and legs sticking out straight, and her back arched. Ren picked her up, sat her on his lap, and she wrapped her arms around him. They looked into each others eyes, and he kissed her gently.
+
+“I can't stay long.” Ren said. “Maybe 4 hours. I have more Adventurer's business to take care of.”
+
+“You might get to see the whole trial.” Narhilda said, and snuggled into his neck. “We've got an hour to waste before we'll be escorted to the Council chamber.”
+
+“How's Nathalia?”
+
+“She's so relieved that you found me.” Narhilda said, and held up the hand with Ren's Sending Ring on one of the fingers. It was a bit too big for her, and she slipped it off to give back to him. “I told her everything, just like you wanted.”
+
+“What did she say?” Ren asked and put the ring back on.
+
+“She... she said that she was surprised you hadn't crushed his skull, instead of his hands.”
+
+Ren chuckled. “I made the deal to save his life, and got some great skills from it.” He looked at her. “I assume Nathalia knows the man?”
+
+Narhilda nodded. “She's been my personal maid since she was 10.”
+
+Ren held up a hand. “Fritz said she was your personal maid; but, you shouldn't tell me the details. Remember?” He said. “You don't want to end your deal yet, do you?”
+
+“By the gods, no!” Narhilda said, and nuzzled his neck. “I... I can't give you up. Not now.”
+
+“I'm really tempted to please you, right here and now.” Ren smiled. “I feel guilty enough that I'm here, and Nathalia's in the holding area.”
+
+Narhilda kissed his neck again, and leaned back. “About that...”
+
+The apartment door opened, and Nathalia came in.
+
+“...I told Dural I'd need my personal maid, so I could get ready before going to the trial.”
+
+Ren held Narhilda close with one arm, then stood up from the couch. She gave a little yip of surprise and held on tightly, as Ren held his other arm out to Nathalia. She ran across the remaining distance and hugged him and Narhilda at the same time, as tears formed in her eyes.
+
+“I'm so glad you're both okay!” Nathalia said. Ren kissed her, and she sighed when he broke it. “It's been a long night without you next to me.”
+
+“Narhilda said we have an hour before we have to leave.” Ren said. “If I allow 15 minutes to get ready before that, then I've got the both of you for 45 minutes.” He bent and picked Nathalia up with his other arm in a fireman's carry, over his shoulder.
+
+She yelped in surprise, and he laughed as he carried the two of them over to the bedroom.
+
+“It might be enough time.” Ren said, and closed the bedroom door.
+
+They had barely made it in time, as they scrambled to get dressed. For Ren and Nathalia, it was just a simple matter of equipping the appropriate clothing, but Narhilda had to get dressed the old fashioned way. Luckily, Nathalia had stored the dresses Ren had made for them, and they got Narhilda ready in record time.
+
+“I think that's it.” Nathalia said, and adjusted the large bow on Narhilda's back that matched her own.
+
+“Not quite.” Ren said. “I think we should match Auras, too.”
+
+“Are you sure?” Narhilda asked. “You don't think that's going to disrupt the proceedings?”
+
+“I'm going to disturb them regardless.” Ren said, and lifted the pendant. “My Aura is out to 115 feet while I'm concentrating on the House Neram crest.”
+
+“Oh... oh, my.” Narhilda said, as her Aura merged with Ren's. “I... give me a minute.” She took several deep breaths as she felt the people passing through the Aura. “How do you do this all the time?”
+
+Ren chuckled. “I don't.” He said. “This is new to me, too.”
+
+“Still...” She said, and pointed to the floor. “There's someone there.” Then pointed to the door. “2 guards are there.”
+
+Ren smiled. “If I'd known having someone else share my Aura would let me feel everyone in it, I'd have had Nathalia come with me last night.”
+
+Nathalia concentrated on her Aura and the House Neram pendant, and gasped as the Aura jumped out to 165 feet and felt there was 15 other people within it's radius.
+
+“You increased your Aura.” Ren said, and looked at Nathalia.
+
+She nodded. “I've been using my personal Aura constantly, and adding the House Neram pendant once and a while.”
+
+Ren gave her a hug, then a quick kiss.
+
+“By the gods, don't do that!” Nathalia said, and grinned as the Aura was filled with her amusement and longing for it to continue.
+
+“Uh huh.” Ren said, then turned to Narhilda.
+
+“Oh, no.” Narhilda shook her head, and her amusement joined Nathalia's. “Kissing you normally is hard enough for me to take!”
+
+“Okay, then. I'll keep my lips to myself.” Ren laughed, then knelt to look at Riley and Stacy. “Behave. Keep guarding Narhilda.”
+
+They gave a soft bark and took up positions beside her.
+
+“This really isn't necessary.” Narhilda said. “I'll have guards as escorts.”
+
+“Not your own guards.” Ren said. “Riley and Stacy are yours today.”
+
+She nodded, and he felt the same grudging acceptance in the Aura as he'd felt from Riley and Stacy.
+
+That's pretty cool. Ren thought as Teepo flew into the room and landed on his shoulder.
+
+“They're coming down the hallway.”
+
+A moment later, Ren felt several people pass into his Aura's radius. They stopped briefly, then continued.
+
+“Who do you think it is?” Nathalia asked as she took up her position behind Narhilda, and Ren took his position beside Nathalia.
+
+“It's Fritz and Dural, with 2 more guards.” Teepo said.
+
+“Fritz, Dural, and two guards, according to Teepo.” Ren said. “Brace for impact.”
+
+“Wh-what?” Narhilda asked, and Ren shook his head.
+
+“Wait.” He said, then the apartment door opened.
+
+“What the hell are you doing?” Fritz asked. “I felt your Aura yesterday! It wasn't this big!”
+
+Ren smiled as Narhilda's understanding flowed into the Aura.
+
+“I've learned a few things.” Ren said, and Fritz shook his head.
+
+“I can't have you disrupt the Council chamber like this.”
+
+“What?”
+
+“Everyone will be looking at you, and not at the accused.”
+
+“It's not like I can turn it off.”
+
+Fritz lifted a sleeve and showed Ren an iron band, with several dwarf markings on it.
+
+“This was the best investment I've ever made.”
+
+“What the heck is it?” Ren asked, as he tried his best to decipher the markings.
+
+“It's an engraved spell to stop my Aura.”
+
+Ren's mouth dropped open. “By the gods, Fritz! Tell me where to get one!”
+
+Fritz looked at him. “You're not going to like the cost.”
+
+Ren looked back at his serious face. “What did you do?”
+
+Fritz smiled a little sadly. “I can't have children.”
+
+Narhilda gasped, and shock filled the Aura. “FRITZ!” She yelled. “By the gods, WHY?!?”
+
+“I told you before.” He said. “I didn't want to bring a child into this.”
+
+Narhilda started to swoon, and Ren stepped close to hold her steady.
+
+“Take it easy.” Ren whispered to her. “Calm down. Relax.”
+
+She took several deep breaths, then sighed as a tear came to her eye. “Oh, Fritz.”
+
+“I knew you'd take it like this.” Fritz said. “That's why I didn't tell you.”
+
+“You did it before you left.” Ren said, and he nodded.
+
+“I never planned on coming back.” Fritz said, and silence filled the room.
+
+Narhilda took another deep breath, squared her shoulders, and Ren felt resolve in the Aura. “Escort us to the Council chamber.” She commanded, then waved to the door.
+
+The 4 dwarfs turned around as one, and Fritz took several steps before he realized that Narhilda had commanded him. He had followed her order automatically without thinking about it; but it was too late to undo that mistake, so Fritz kept walking. Everyone was silent as they walked all the way back through the castle and into the Main Keep.
+
+They passed several dwarfs, who shuffled aside and waited until they passed. They all bowed to the King, and Fritz was on the verge of being outright angry by the time they'd made it to the Council chamber. Fritz snapped at the guard opening the door, because he hadn't been as fast as the guard on the other door. Ren didn't say anything, but he let his surprise flow into the Aura. Nathalia glanced at him, and he shook his head. They went to the designated area for House Neram, and everyone in the chamber stared at them. Once again it was a full Council meeting, then Ren noticed something was different. He stepped close to Nathalia and whispered.
+
+“Why is there a cloth wall?” He asked her, as quietly as he could.
+
+“You'll see in a few minutes.” Nathalia whispered back.
+
+Teepo! Ren thought, and Teepo quickly flew over to the cloth curtain and slipped under it.
+
+“Oh, crap.” Teepo said. “Ren, it's a hangman's gallows... and by the looks of it, the whole city is here to watch.”
+
+Ren took in a deep breath and let it out slowly. I can't judge them. I can't judge them.
+
+“Why?” Teepo asked. “You know they're guilty.”
+
+I meant a society that glorifies capital punishment, before they even have a trial for the criminals.
+
+“Oh.”
+
+The King took the center seat on the Council bench, and the council came out of a door at the back. Ren's eyes widened as he saw the Lord of House Lodur lead the group to the Council bench, who then sat down beside Fritz.
+
+“We're not going to see justice today.” Ren whispered.
+
+Fritz nodded slightly at a guard who stood at the side of the room, who then pulled a rope. The cloth wall fell to the floor, and revealed that most of the wall was gone, that the gallows had been added in the courtyard, and the population of the city was standing there. Fritz nodded to Dural the Advisor, who stood and started to speak.
+
+“Before we get started.” Dural said. “The King would like to thank you all for coming today, to witness the punishment of criminals who are too dangerous to stay among our society.”
+
+“Like we had a choice!” A lone voice said from the crowd.
+
+“Quiet!” A guard said, and Dural continued.
+
+“Thanks to the skills of the Scroll Sage, the criminals were brought to justice and will face their execution today.” He nodded to another guard, and the criminals were brought out to stand under the gallows.
+
+“I thought this was supposed to be a trial.” Ren said without whispering.
+
+“The trial was held in closed session last night.” Dural said. “They were found guilty and sentenced to hang.”
+
+“Then why is Lord Lodur still sitting on the council? He should have a rope around his neck, too.”
+
+“He was found innocent of...”
+
+“The Scroll Sage identified him as the one who ordered the attack on me.”
+
+“Yes, she did.” Dural said, a little sadly. “He was not complicit in the young girl's murder, however.”
+
+“You have got to be KIDDING me!” Ren yelled. “How many times do I have to point out his crimes before someone does something about it?”
+
+“That is a matter for another time.” Dural said.
+
+“Of COURSE it IS!” Ren yelled. “But, before you continue with this travesty of justice, I'd like to confess to something.”
+
+“Ren, don't!” Narhilda said. “Not now!”
+
+“It's okay, My Lady.” Ren said to her. “Unlike these pompous fools, I have Honor enough to admit my crime.”
+
+The entire population went quiet at the truth in Ren's words.
+
+“Last night, when I came here to rescue the two women I care about, I discovered my familiar constructs were being experimented on. I felt their pain, and I lost it. I assaulted 2 guards, trashed part of the alchemy lab, then crushed the alchemist's fingers. On both hands.”
+
+Gasps were heard around the chamber.
+
+“By the time I was done, I had ensured that he couldn't hurt anyone else like he'd hurt my dogs, and me.”
+
+No one spoke, as they all knew he had spoken the truth. The silence dragged on, and Ren looked around.
+
+“If this was a normal court, or if I believed for one second that it had any sense of decency or justice, I'd throw myself upon it's mercy.” Ren spat. “But you people disgust me!” He nearly shouted. “I ruined a man's future, destroyed his career as if it was nothing, and I felt so terrible about it that I came here today to admit it publicly, just so I could face my punishment like a man.”
+
+The silence was so thick that even the huge crowd outside could hear every word that Ren said.
+
+“But you... YOU...” Ren shouted, then took a deep breath and continued. “You all avoid your responsibility as if it was something you should have a choice about.” He shook his head. “I thought this society was going to be the pinnacle of culture! A shining example of how things should be done!”
+
+They all stared at him, and he laughed.
+
+“I came here with high hopes and expectations, and guess what?” Ren asked. “You have failed in nearly all of them.” He reached a hand over and took Nathalia's hand in his, then put his other hand on Narhilda's shoulder. “I've done my best to help you all, to start changing things, and to show you how great of a place this used to be... and what it could be again.”
+
+He felt the love and support from Nathalia and Narhilda, and he let his hands drop away from them.
+
+“But, I see now that the corruption here runs deep. A little too deep for an outsider like me to stop, or even change.” Ren sighed. “So, here I am. I stand before you, with a crime confessed publicly.” He said. “What's next?”
+
+Dural looked at Ren like he was crazy, then shook his head. “This isn't the time for...”
+
+“Guilty!” Lord Lodur yelled, and smiled as Lord Faldihr seconded him. Lord Greentree sighed and continued the 'guilty' verdict. It was unanimous.
+
+“Shall we go right to the sentencing?” One of the Council members said.
+
+“Very well.” Lord Lodur grinned. “Ren of House Neram, I sentence you-”
+
+“Hold!” A young voice said from across the chamber.
+
+“Father, no!” A female dwarf said, and he pat her hand.
+
+“It's alright.” He said and stood up. The dwarf looked to be about 30 years old, had a full head of dark brown hair that flowed down into a mustache and beard. You could barely see his mouth as he spoke.
+
+“I was content to just sit here and let him take whatever punishment the Council would hand out.” He said. “But I can't, as his words have stung me to the core.”
+
+“Who the hell are you?” Lord Lodur said. “What right do you have to speak?”
+
+“I'm the Alchemist.” The young dwarf said, and gasps spread around the chamber.
+
+“No way!” Teepo exclaimed, and Ren stood there in shock.
+
+“That's not possible!” Fritz exclaimed. “The Alchemist is nearly 110 years old!”
+
+“I'm still a hundred and ten.” The Alchemist said. “I just look like I'm 30.”
+
+Fritz shook his head. “No, I don't believe it.”
+
+The Alchemist pointed at Ren. “This man is both Honorable and truthful in his words.”
+
+So that's why I didn't lose any more Honor. Ren thought.
+
+“He burst into my lab and discovered me experimenting on his 'dogs'. Then he crushed my hands.”
+
+“But... but you're using them to point!” Someone said, and the Alchemist chuckled.
+
+“That's right.” He said. “I discovered a recipe decades ago, and I've been working hard the last 50 years to get the last two ingredients that I needed.”
+
+“What recipe?” Fritz asked.
+
+“The Legendary Elixir of Restoration.”
+
+Everyone's mouths dropped open in surprise. It took several minutes for someone to speak.
+
+“That... that's just a myth.” A voice in the chamber said, and the Alchemist shook his head.
+
+“No, it's real.” He said. “Unfortunately, only one could be made.” He looked at his daughter, who smiled at him and took his hand. “I had intended to make it for my daughter; but no matter how hard I tried, it was taking too long to get the last ingredients.”
+
+“What were they?”
+
+“One was platinum.” The Alchemist said, then looked at Ren. “You left out part of your confession, young man.” He said and turned to the Council. “He'd left me more platinum coins than I'd ever seen in my life.”
+
+“Why did he do that?” One of the Council members asked.
+
+The daughter spoke up. “He said to take father away from all of this, and let him live a comfortable life.”
+
+“How much?”
+
+“With the purchase of half of my basic ingredients...” The Alchemist smiled at Ren. “...it came to 167 platinum.”
+
+Everyone froze solid at the outrageous amount of money.
+
+“With that and the 65 platinum I'd already gathered, it was enough to empower the Elixir.”
+
+“What was the last ingredient?” Ren asked, curious.
+
+“A good reason to drink it.” The Alchemist smiled. “You gave me one, so I drank it.”
+
+“If you had enough money, can you make another?” Lord Lodur asked.
+
+“No, thank the gods!” The Alchemist said. “I'd used up all of the rare ingredients it had taken nearly my whole life to gather.” He scowled at Lord Lodur. “Not that I'd ever make anything for you, anyways.”
+
+“Get to the point!” Lord Lodur said, angry.
+
+“If he hadn't done what he did, I wouldn't have finished my life's work.” The Alchemist said. “What he did was horrendous, and it was more painful than anything I've ever felt before; but, he should face punishment with the knowledge that I don't hold what he did against him.”
+
+“I do!” The daughter said. “My father shouldn't have had to go through that!”
+
+“It's okay.” He said.
+
+“No! He could have just given you the money without hurting you.”
+
+The Alchemist laughed and squeezed her hand. “He wouldn't have given me the money otherwise.”
+
+“Yes I would.” Ren said, and everyone gasped, including the Alchemist.
+
+“W-what?!?”
+
+“Before all of this...” Ren waved to Riley and Stacy. “...if I'd known you needed the money for something so important, I'd have given it to you.”
+
+“You're crazy!” Someone shouted, and Ren chuckled.
+
+“I've been called that on occasion.”
+
+“ENOUGH!” Lord Lodur hollered. He didn't pound the hammer, as they hadn't gotten a new stone slab for it yet. “Ren of House Neram!” He said and grinned. “I sentence you to 3 years of hard labor in the mines!”

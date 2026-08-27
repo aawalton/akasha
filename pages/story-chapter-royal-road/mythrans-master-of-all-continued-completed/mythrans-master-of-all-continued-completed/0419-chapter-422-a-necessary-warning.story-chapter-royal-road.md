@@ -1,0 +1,279 @@
+---
+id: d08c680a-cf53-5e16-9bda-5deb67d53900
+page-type-slug: story-chapter-royal-road
+title: "Chapter 422 - A Necessary Warning"
+slug: 0419-chapter-422-a-necessary-warning
+partOf: mythrans-master-of-all-continued-completed
+position: 419
+ownLength: 3112
+unit: words
+publishedAt: 2017-11-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174406/chapter-422-a-necessary-warning"
+royalRoadId: "174406"
+---
+
+Denise went up to Ren's room 10 minutes later and helped him clean up in the bathroom, then brought him back into the bedroom and helped him get dressed in a full pyjama set.
+
+“Thanks a lot, Denise.” Ren said. “I might be out for supper, if I can time going through the levels and the safe zones properly.”
+
+“You make sure you're out, mister.” Denise said. “If there's one thing that none of us wants, is to see you miss meals.” She smiled. “You can come out early or even a little late; but you are not skipping it.”
+
+Ren sighed. “All right. I'll try.”
+
+Denise leaned in and pinched his cheek a little. “Oh, no. I'll have no wishy-washy response like that!” She said and shook his head a little. “Make sure you do. Build that barricade thing and get your ass out here.”
+
+Ren chuckled. “Okay, okay!”
+
+“That's better.” Denise said and looked at Lisa. “What about you?”
+
+“I'm going to watch the saved footage for a while, then I'll pop online to tell the others what happened.” Lisa said. “I don't think I'll be staying in, though.”
+
+“Oh! I forgot to ask.” Ren said. “Lisa, did you get any XP gains or party notifications?”
+
+“No.” Lisa said, then thought about it. “Maybe the restricted zone blocks all forms of communication, and not just what we thought we could use.”
+
+Ren nodded. “That has to be it.” He said. “I've gained 2 levels so far from all the XP I've gained, and I wondered if anyone else was getting it.”
+
+“If I did get the notifications, it would tell me how you're doing there.” Lisa said. “For some reason, it won't let you have any kind of outside contact.”
+
+Ren nodded. “Since Elise said it was a villain training ground, being able to talk to people to help me figure things out wouldn't actually help me.” He chuckled. “If I couldn't do it myself, then I wouldn't be there.”
+
+Lisa shook her head. “It was a mistake for you to be there at all; but, Elise said you're stuck there until it's done.”
+
+“I'm halfway done now, so there's not too much more for me to do.”
+
+“Not much more?” Lisa chuckled. “You do realize what you've had to go through so far, right?”
+
+“Well, I'll handle it just like you would if you were there.” Ren grinned. “I'm gonna kick it's teeth in and stomp it into the ground, then ask it if it liked it.”
+
+Lisa laughed and kissed him. “Go get 'em, tiger.”
+
+Denise handed him the VR headset and he settled back and relaxed as he put it on.
+
+“Flow Login Start.”
+
+********
+
+Ren arrived in the white loading area and the countdown still had a couple of minutes to go. He thought about summoning Teepo, then remembered he had left the ring in the Instant Tower.
+
+At least I dropped the Minor Healing wand and not my armor bodysuit. Ren thought in amusement. “I can't wait to get back there and finish this thing.” He said out loud. “I know I must be missing a ton of stuff with this world event that's going on.”
+
+“You are.” Elise said, and Ren turned around to look at her.
+
+“You were waiting for me.” Ren said, and she nodded. “What am I missing?”
+
+“I really shouldn't tell you.” Elise said and knelt in front of him. “But, since you would be experiencing it if you weren't shunted off, it shouldn't hurt to know.”
+
+Ren put his arms around her neck and looked into her eyes.
+
+“It's the ghouls.” Elise said. “Not the ones you dealt with, but all of the others.”
+
+“What do you mean, all of the others?”
+
+“What you found was only one of them. The other ghoul factories were shut down, but... they also released their wares.”
+
+“Not on the population!” Ren exclaimed.
+
+“No, Ren. It's much worse than that.”
+
+“How much worse?”
+
+“They were let loose in the High Elven Kingdom.”
+
+“Oh, crap.” Ren said. “Ghouls are hybrids, and corrupted into getting High Elven traits.”
+
+“Yes, and they were not prepared for the onslaught.”
+
+Ren closed his eyes and rested his forehead on hers. “How many?”
+
+“That were let out?” Elise asked, and he nodded.
+
+“Only 50,000.”
+
+“Fifty-” Ren sighed. “What happened?”
+
+“When you leave Shargon Caverns, you'll get access to the full story under the help menu.” Elise said. “I'd like to say there was a battle, but...”
+
+“It was more of a last ditch defense that didn't know it was a last ditch defense.” Ren finished for her.
+
+“The outlying cities had no idea what was happening before they were overrun, and the ghouls had... well...”
+
+“The High Elven Kingdom is becoming a ghoul factory.” Ren said, and she nodded.
+
+“More of them are converted every day.” Elise said. “They haven't made it into any of the major cities yet, since their normal defenses are too strong; but, they have almost full reign over the rest of the countryside.”
+
+“How many are there now?” Ren asked, and Elise looked up at the countdown timer.
+
+“You only have a few seconds left.”
+
+“Elise.”
+
+“Almost half a million.” Elise said, then the timer dinged. Ren kissed her and she gripped him tightly.
+
+“I'll be there to help as soon as I can.” Ren said, and then he faded away.
+
+*
+
+Ren watched as Elise faded from view and the inside of his Instant Tower replaced the white loading area. He walked over to the workbench, put on all of his rings and equipped the coin vault, then summoned Teepo.
+
+“Hi, Ren.” Teepo said.
+
+It's only been a day. Ren thought to his friend. I came back as soon as I was able.
+
+“I knew you would.” Teepo said.
+
+Ren stored his armor and everything else he had left there, then went outside to see several succubi as they sat right in front of the doorway.
+
+“Ren's back!” Zunala, the blonde succubus said, and all the succubi came over to see him. Some ran, some floated down from on top of the towers, and the others stood up. “I told them you would be back when you said you would.”
+
+“But I didn't say...” Ren saw one of them duck her head a little, and he nodded to Ellaria. When they had cuddled, he had told her he would be back a day later if the tower was out and he died. “I'm glad I didn't disappoint you.”
+
+“Disappoint me?” Zunala asked. “You let me kill you, and gave me my revenge.” She said and stood up. “All is good between us, and I harbor no ill will towards you.”
+
+“I'm glad to hear that.” Ren said. “How many levels did you gain?”
+
+“Only 12.” Zunala said and smiled.
+
+The other succubi gasped and Ren felt their shock.
+
+“You never mentioned that when you looted his body!” One of the succubi said.
+
+“A lady doesn't normally kiss and tell.” Zunala said demurely, and nearly everyone laughed. Succubi had a life-draining kiss, and didn't talk about their conquests if asked about them. Even Ren had to admit that was a good line.
+
+“I've got to get my things, and then I've got to make up some armor for the skeleton knight.” Ren said. At the mention of it, the skeleton knight walked over to him.
+
+“It stood beside the Instant Tower door the entire time you've been gone.” Zunala said.
+
+“Thanks.” Ren said to the skeleton. “I'll be right back.”
+
+Ren went into the second tower to store only the essential things he needed. All his portable kits, some crafting materials for sewing and building things, some Strong Rings of Storage and a few Boosted Sustenance rings, a couple of the Bracelets of Unbelievable Magic, a ring full of iron ore, and the skull the succubi found on the last level. He also took the diamond encrusted elemental bomb and the vampiric blood sword, just in case. Ren left the tower, deactivated it and stored it, then went over to his Instant Tower. Before going in, he stopped and looked at all the expectant faces of the succubi.
+
+“I almost forgot.” Ren said and smiled. “Assume your positions!”
+
+Zunala stepped forward and knelt, as did all the other succubi, and they all reached out and touched Zunala. Ren stepped close to her and she looked up at him. He couldn't feel any of the hatred that had been lying in wait under her actual feelings, and he smiled at her. She beamed a smile back at him, and he cupped the sides of her face. He could feel how much stronger they all were, and he leaned down close to her face.
+
+“I'm going to give you something special.” Ren whispered to her, and she shivered at the intensity in his feelings. He recalled the very first time he and Donna, the cook at the mansion in Aurora, had been together; where they both had exhausted themselves after discovering they were so similar in their passion and abilities, and had pleased each other more than either of them had ever felt up to that point.
+
+“Oh... oh god.” Zunala whispered back at the power of that memory and the feelings it contained. Ren knew his sharing would be much more intense if it was done through intimate contact; so, he gently pressed his lips to hers and kissed her.
+
+“MmmmMMM!” Zunala moaned as Ren poured that memory and all of it's feelings into her through the very first willing kiss he gave her. All the succubi moaned as well, since Zunala's own feelings mixed into the batch and they drank down her desire as well as Donna's and Ren's.
+
+Ren could feel the succubi in his Aura, and how quickly he filled their abilities. As each of them let go, he could still feel them as long as their eyes glowed. Several of them put a hand to their lips, because they could still feel his lips on theirs, even though he wasn't actually kissing them.
+
+Turnabout is fair play. Ren thought and sent out a wicked feeling to them. They all gasped, even the ones not touching Zunala, and then they all let go. He tried to break the kiss; but, Zunala wrapped her arms around him and held on.
+
+Please! Zunala thought. I... I need... a little more.
+
+Ren felt her desperation, and closed his eyes to give himself over to the sensation of her lips. Zunala felt the change in him and that he wasn't going to reject her kiss, so she started using her tongue and they made out for several minutes. Ren could feel something building within her, and kept going. A few minutes later, Zunala's ability leveled up. She broke the kiss and sat back on her heels, and put both of her hands over her heart.
+
+“Wh-what... what is this?” Zunala asked.
+
+Notice!
+
+You have been corrupted! You have absorbed Succubus saliva directly from the source through your mouth. It's effects vary by those infected, and by the amount of fluids absorbed.
+
+Current Corruption Level: 1%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+Ren dismissed the popup and could see a glow around her heart through her red skin. “Your ability leveled up.” He said, and a ripple of surprise went through the succubi.
+
+“Th-that's... not possible.” Zunala said. “My... it... it's never done that before!”
+
+Ren could feel her ability try desperately to feed some more, since it was now empty from using up everything Ren had just given it, and Zunala started to panic. She'd never felt it behave like that, even when she had been starving.
+
+“You learn something new every day.” Ren said and stepped close. “Let me help you with that.”
+
+“With... with what?” Zunala asked, almost afraid, and Ren caressed both of her collarbones and poured more feelings into her. “Ahh!”
+
+“I still won't have sex with you.” Ren said and ran his hands through her long flowing blonde hair. Especially since sharing fluids will corrupt me.
+
+Even that little bit of touching gave Zunala a deep feeding, and her eyes widened as Ren straddled her lap and sat down on her knees.
+
+“But I won't let you starve, either.” Ren put his arms around her and rested his head on her shoulder, then licked her neck.
+
+“R-R-Ren!” Zunala moaned as he poured more feelings into her as he remembered all the times he touched other women and how much he enjoyed it. “P-please... you... you're driving me crazy!”
+
+Ren chuckled, and she felt a huge burst of his amusement directly. Zunala closed her eyes and tried not to hyperventilate as Ren kissed her neck and kept feeding her more powerful ability. She wanted to hug him close, but she couldn't get her arms to work right. She was too overwhelmed with everything for her body to respond how she wanted it to.
+
+Touching her like this, Ren could feel her ability approach it's limit; so, he eased the flow of his emotions down to just a trickle and stopped it right at the point it couldn't handle any more. He stopped kissing her neck and let her out of the hug, then stood up.
+
+“How do you feel?” Ren asked her.
+
+“I... I don't know!” Zunala said.
+
+“If you figure it out, let me know.” Ren said and smiled. “I've got a bit of work to do, then we can eat and head out.”
+
+“Our rings activated a little while ago.” One of them reminded him.
+
+“Quiet! I want to eat with him!”
+
+“Me, too.”
+
+“I had to take mine off.” Ren said. “So, I'm stuck eating normally.”
+
+“There's still a meal left in the icebox.” Someone said.
+
+“I'll be making more.” Ren said. “It's always good to have food available.” He walked over to the skeleton knight and asked for the helm back. It handed it over without a word and Ren went into his Instant Tower. He used the forge to make two full sets of armor, less a helm, and enchanted everything with Earth runes to enhance them. Just because he could, he made another Helm of Foolishness to add to the second set of armor, then added diamonds to each of the pieces of metal for extra Protection and made them a complete set.
+
+After that, Ren went up the stairs to the large walk-in icebox and gathered up enough meat and vegetables to make a hundred meals, then made them in his kitchen. With the extra bonuses he had for faster crafting, he was done of everything less than an hour later. Ren took out the skull he had, and used the Raise Dead spell to regenerate it to a full skeleton.
+
+Skeleton Knight (Bound Undead - Level 60)
+
+This unparalleled creature will fight continuously for you and will never become exhausted. It cannot be poisoned or suffer any ailments or conditions.
+
+Warning: Unarmored. Bludgeoning attacks will disable and destroy this creature easily.
+
+Health  N/A  Mana  1000
+
+Strength  150  Dexterity  60
+
+Vitality  N/A  Agility  60
+
+Endurance  N/A  Intelligence  60
+
+Luck  N/A  Wisdom  60
+
+So, it's the same. Ren thought and gave it a Strong Ring of Storage and a Bracelet of Unbelievable Magic. “Come with me.” He said and left the Instant Tower and deactivated it, then stored the 2 inch wide cube. He had the skeleton knights stand together and they were identical, except that the first one had a few armor pieces on.
+
+“Store this and equip it.” Ren said and gave them their suits of armor. The two skeleton knights did so, and they both trembled at the power that had been handed to them with no restrictions.
+
+“You are my personal guards, and will function as such until required for something else.” Ren said.
+
+“Yes, My Lord.” The skeleton knights said together with identical voices.
+
+“Can you tell me how many of you there are?” Ren asked.
+
+The skeleton knights looked at each other and then back at Ren. “Two.”
+
+Ren chuckled. “I'm sorry, I meant to ask how many Lost Knights there are.”
+
+“There are 8 more, My Lord.”
+
+“And you still can't tell me where the others are.”
+
+“We do not know, My Lord.”
+
+“Well, we'll just have to scour the place until we find your comrades.” Ren said. He took out a sword and enchanted it with Antiearth runes, and gave it to the second skeleton knight. “Right after we eat.”
+
+“Yes, My Lord.”
+
+Ren built one large rectangular table for everyone with chairs to match. “Please, sit.” He said to the succubi, and none of them moved. “Why are you waiting?”
+
+“We need to see where you're sitting.” One of them said, and Ren pointed to the spot on the end. A fight broke out immediately, and Ren tried not to laugh. Teepo had no problem with that, though.
+
+“You're just going to let them fight over who gets to sit next to you?” Teepo chittered in laughter.
+
+I could tell them to stop, but that wouldn't get me anywhere. Ren said and smiled. The first rule of discipline is to never give an order you know won't be followed.
+
+The fight was over surprisingly quickly, and the dishevelled succubi sat at the spots the fight had earned them; 10 on one side, 10 on the other. Surprisingly, it was Seldanna, one of the first ones he had met, and Miastina, the one he had healed when she crashed into the tower, that were the two that would be sitting beside him. Seldanna was on the left with Wynphine on her left, and Miastina was on the right with Zunala beside her.
+
+That is not who I would have thought would win. Ren smiled at the succubi and put a plate of food in front of each of them. He sat down last and took out a plate for himself.
+
+“Hold hands, please.” Ren said and they did so, and he held Seldanna and Miastina's hands to complete the circle. “Thank you Mother Earth for providing us with such bounty, and for keeping us warm within your embrace.” Ren said, and he felt surprise from the succubi. “Please accept this offering.” He said and poured 5,000 Mana out of his hands and a feeling of contentment. It made the circuit back to him, and he felt the offering being accepted graciously.
+
+“Wh-what was that?!?” One of the succubi asked, as the gracious feeling gave her goosebumps.
+
+“A small thank you.” Ren said and smiled. “Let's eat!”

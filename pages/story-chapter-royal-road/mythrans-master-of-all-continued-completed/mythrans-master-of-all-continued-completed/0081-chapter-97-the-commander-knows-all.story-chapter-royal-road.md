@@ -1,0 +1,291 @@
+---
+id: 25ae3cb2-bbc0-5c24-a11e-bf73a1ba787c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97 - The Commander Knows All"
+slug: 0081-chapter-97-the-commander-knows-all
+partOf: mythrans-master-of-all-continued-completed
+position: 81
+ownLength: 3020
+unit: words
+publishedAt: 2016-11-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104786/chapter-97-the-commander-knows-all"
+royalRoadId: "104786"
+---
+
+Ren ran back to the city, then to House Neram. He went to the stable to feed his mount. He hadn't handed over all of the food to the guard, and fed Princess what was left. Ren gave her some water and went inside. The smell of food greeted him and he entered the kitchen.
+
+“Lady Neram.” Ren said, then turned and bowed slightly to her daughter, Nathalia.
+
+“Hi, Ren.” She said without stuttering.
+
+Ren grinned. “Hi.”
+
+“How was your second day of training?” Narhilda asked.
+
+“No idea.” Ren said. “I spent the day in the brig.”
+
+“You WHAT!?!” Mother and daughter said together.
+
+“I spent the day in the brig.” Ren repeated, then started eating.
+
+“Why?” Narhilda asked.
+
+“The Knight that was training me, wanted me to hand over my weapon. I said no.”
+
+“The one you used during the duel on the ship?” Nathalia asked.
+
+Ren nodded. “No one touches it, except me.”
+
+“He sent you to the brig for refusing an order.” Her mother said.
+
+“Yeah.” Ren said. “I don't blame him, though. I was kind of insubordinate.”
+
+“In sub what?” Nathalia asked.
+
+Ren smiled. “I talked back to him.”
+
+“Oh.”
+
+They ate in silence and Ren turned to Narhilda. “No messengers today?”
+
+She shook her head. “Were you expecting any?”
+
+“Yes and no.” Ren shrugged. “I only delivered the uniforms this morning.”
+
+“You WHAT?!?” Mother and daughter said together again.
+
+Ren laughed for a minute, then answered. “I finished the order just before I left this morning. I figured I'd better bring it, rather than wait for the whole 2 days.” He said. “That reminds me. Here's the payment.” Ren handed Narhilda the small coin sack with 10 platinum in it. She opened it and gasped.
+
+“Ren! I can't take this! You earned it!” She said and tried to hand it back.
+
+Ren shook his head. “This was an order for House Neram. I work for House Neram. It's money I made for the House.”
+
+Narhilda sighed and accepted Ren's explanation. “At least take a share.”
+
+Ren shook his head. “Keep it for room and board, for myself and my mount... and for all the food I've been taking.” Ren said, smiled, and yawned.
+
+“You're working yourself too hard, Ren.” Narhilda said.
+
+Ren laughed. “That wasn't hard; it was just time consuming.” He said. “If there's no new orders, I can get some sleep.”
+
+“You haven't slept?” Her daughter asked.
+
+“I did have a bit of a nap this morning in the brig, but that was only for a few hours. I could use a little more.”
+
+“Then get to bed!” Narhilda said. “I won't have you work yourself to the bone and not sleep!” She stood up and grabbed Ren by one of his pointy ears and pulled him from the table. “I made that mistake with my husband... I won't make it again!”
+
+“Ow!” Ren exclaimed, but didn't try to pull from Narhilda's grip. She had a firm hold of his ear; but Ren only had to walk beside her with his head tilted to the side, so she wasn't pulling on it too hard. Narhilda led him to her old bedroom and let his ear go when he sat on the bed.
+
+“Go ahead and make yourself comfortable.” She said and crossed her arms under her chest. She was still wearing the thin white chiffon dress, and despite trying not to look, Ren could clearly see she wasn't wearing anything underneath.
+
+Yes, definitely a lack of bras in this game. Ren thought and lay back on the bed. Teepo chittered in laughter and hopped out of the hood and onto the wall.
+
+Narhilda came over to the bed and saw that Ren's ear was quite red where she had grabbed it. “Oh! I'm so sorry, Ren.” She said and gently rubbed the outside, then the inside of his ear. “I was a bit too enthusiastic in trying to motivate you.”
+
+Ren felt her soft caress on his ear and closed his eyes. That actually feels really good. Ren thought and sighed.
+
+“I had this dream last night...” Narhilda said. “...after I fell asleep watching you work.” She smiled. “It was about my husband. You must have reminded me of him.” Narhilda stopped rubbing Ren's ear. “It was the first time I've slept in this bed since he passed away.”
+
+Ren opened his eyes. “I'm sorry... I didn't mean to...” He tried to say.
+
+Narhilda smiled. “That's okay. Even though I was really sad when I woke up in this bed... having you here, and carrying on his work...” She said and took his hand. “...it's helping me deal with the loss.”
+
+Ren looked at her in surprise. “You... you mean... after 12 years...”
+
+Narhilda nodded. “It's why I wear this dress. I'm still in mourning.”
+
+“My Lady...” Ren squeezed her hand. “...I've been digging all of this up... first with organizing the workbench, then with the tailoring order... and it's been hurting you.” He said. “I'm really sorry.”
+
+Narhilda smiled again. “I said it was okay.” She lifted Ren's hand to her cheek and rubbed it like a cat would. “You've been a balm to this old lady's broken heart.” She let his hand go and stepped away from the bed. “Now get some sleep, young man! You have another long day in jail tomorrow!” Narhilda said and laughed. She left the room and shut the door.
+
+Thern was a lucky man. Ren thought. Goodnight, Teepo.
+
+“Goodnight Ren.”
+
+“Logout.”
+
+********
+
+Ren did his regular routine of breakfast, physical therapy, and shower, then told Bonnie he might not be out for lunch. He looked at his watch and saw he still had about 4 hours left to the game night.
+
+Plenty of time to get some actual sleep. Ren thought, then logged back in.
+
+********
+
+Ren slept for the full 4 hours and got up, and Teepo hitched a ride in the hood of the cloak. Ren grabbed some breakfast, making sure to take enough for the guards. He went out to the stable and fed Princess, pet her a few times (much to her dismay) then ran all out to make it to the Garrison before daybreak. Teepo chittered in delight the whole way. Ren came to the Garrison, they let him in, and he followed the directions to the brig. The door opened before he could knock and he stepped inside. The Warriors were all there, holding empty trays and Ren laughed.
+
+“All right, line up and be prepared to be amazed!” He said and handed out appropriate portions to them, this time with pieces of pie. They clapped him on the back as he passed them and the guard opened the second door.
+
+“You're almost late.” He said and motioned for Ren to go inside. Teepo hopped out of the hood and stationed himself on the wall above the door, so he could see anyone coming into the building.
+
+“Sorry. Food distribution delay.” Ren joked and stepped past the guard, filled the empty tray on the guard's desk, and noticed that the chair Ren had made yesterday wasn't there. I thought he'd be sitting on that. Ren thought and shrugged mentally, then walked to cell 2. The guard opened it and Ren stepped inside.
+
+“The wife told me to tell you that she 'loves' that chair.” The guard said, and rolled his eyes.
+
+Ren laughed. “If I thought you were going to bring it home, I'd have made you another one.”
+
+“Really?” The guard asked, surprised.
+
+“I thought you were going to keep it here to sit on.”
+
+“That's not allowed.” He said. “Something about 'a comfortable soldier is a lazy soldier'.”
+
+“I understand.” Ren said and the guard went back to his desk after shutting the door. Ren took out enough materials and made another slightly small blue chair. It still took 20 minutes, but seeing as he wasn't trying to mass produce the things, it would take a long time to level up... even at the Beginner stage.
+
+“Guard?” Ren said. The guard came over and looked at the blue chair.
+
+“How much?” He asked.
+
+“That depends on how much you have.” Ren said and laughed at the guard's expression. “I'm just kidding. I can't have your wife suffer with only a single chair.”
+
+“How did you know she...”
+
+Ren laughed again. “You can 'confiscate' this one, too.”
+
+The guard laughed, nodded, and took the chair. Ren made another blue chair, full-sized this time, for himself. He didn't want to pull the bed out again, after being told the day before that he shouldn't have it. Ren sat in the chair and slumped down in it.
+
+Ah... gotta love comfy chairs. Ren thought, then started to doze off. It was about an hour or so later, when he heard metal on metal and woke up.
+
+*CLANG* *CLANG* *CLANG*
+
+Ren hopped out of the chair, fists at the ready. “I'm up! I'm UP!”
+
+The guard laughed. “Get out of here. The Commander wants to see you.” He said and opened the cell door. Ren left the cell, grunted to the Warriors in the outer area, and Teepo dropped into the hood of the cloak.
+
+*
+
+“You asked to see me, sir?” Ghomhan said, stepping into the Commander's office.
+
+“How's Recruit Ren's training going?” The Commander asked with a smile on his face.
+
+Ghomhan's eyes widened a bit. “Fine, sir.”
+
+“Really?” The Commander said and stopped smiling. “As far as I know, he's been in the brig since yesterday morning. It's a little hard to train someone in there.”
+
+Ghomhan tried not to get mad, but couldn't help himself. “If that little snitch has been telling tales-”
+
+“Belay that!” The Commander slapped his desk and interrupted Ghomhan's tirade before it began. “He hasn't told me, or anyone else for that matter, a single thing.”
+
+Ghomhan took a deep breath to calm down. “Sorry, sir. He refused an order, then was insubordinate. I ordered him confined to the brig.”
+
+The Commander folded his hands under his chin. “For how long?”
+
+“Until he follows the order, sir.”
+
+*
+
+Ren left the brig and followed the pattern back to the Commander's office, then knocked.
+
+“Enter.”
+
+Ren opened the door and was surprised to see his training officer, Ghomhan the Knight, standing there at attention. Ren joined him and stood at attention as well.
+
+“Sir! Reporting as ordered, sir!” Ren said.
+
+The Commander smiled. “It seems there's been a little problem between the two of you.” He said and looked at both of them. “I've heard several versions so far... but they all end at the same point.” He looked at Ren. “You were issued an order and refused to comply.”
+
+“Sir, yes sir! I was ordered to hand over my special, one of a kind, non-standard weapon. I refused to do so. No one can touch it but me, sir!” Ren said.
+
+“What if I ordered you to hand it over?”
+
+“Sir! I'd still refuse, sir. If you wish to hear the story of how I acquired it, I'd be happy to oblige, sir!”
+
+The Commander sat back in his chair and folded his arms. “Alright, Recruit. Dazzle me.”
+
+Ren went through the whole story, from finding the first chunk and a rock golem (and running from it), the second chunk and a greater rock golem (then defeating it), and finally the third piece at the temple, the phantom, and having to successfully fight 2 greater stone golems. He skimmed over the dire wolf story, only giving sparse details (As he didn't want Aimus mentioned anywhere), then about getting help from the Sage of Ages.
+
+“You know the Sage of Ages?!?” Ghomhan nearly shouted, and the Commander's eyes widened.
+
+Ren nodded and told them how she helped him construct the meteor, then ended with getting Donan's help to smelt the thing into the pickaxe and hammerpick.
+
+“Well, damn... that did dazzle me.” The Commander said and laughed, then looked at Ghomhan. “I don't have to override your order, do I?”
+
+“No, sir. I formally rescind my order.”
+
+The Commander smiled. “Good.” He looked at Ren. “I'd like to see it, if I may.”
+
+“Sir! Of course, sir!” Ren said and took out the hammerpick. It had a slight green glow that you couldn't quite see in sunlight. “Sir! Just enjoy it with your eyes, sir!”
+
+Stat Change!
+
+Aura level 2 (Beginner 0%)
+
+The Commander laughed again and admired the green marbled surface for several minutes. “That is definitely a non-standard weapon.” He said and looked at Ren and Ghomhan. “Now that that's settled, you're Dismissed.”
+
+Ghomhan stepped out of the office and Ren followed him. They stepped close to the gate to their designated area, and Ren turned to Ghomhan. “Sir! I don't know how he found out. I didn't say anything, sir!”
+
+Ghomhan glanced at Ren. “I thought you did, but the Commander told me you didn't.” He said and opened the gate. “I don't know how he finds these things out... but I hope we won't have any more conflicts like this, for him to find out about.”
+
+“Sir! I hope that too, sir!” Ren replied, then saw the surprised faces of the other Recruits when they heard his voice. He was surrounded by them a moment later, then bombarded with questions about the brig. Ren laughed and answered as many as he could, then Ghomhan spoke.
+
+“Recruits! It's time to do some exercises! Spread out! Jumping Jacks until you faint! Move it! Move it! Move it!” Ghomhan said and moved the ones that were too close to other Recruits to do them safely.
+
+They all started to exercise and Ren paced himself this time. It wasn't like he couldn't do them fast, but he didn't want to show off, either. Teepo had fun bouncing in the hood, anyways. After 10 minutes, Ghomhan told them to rest and walked away, then nearly all of the other Recruits collapsed. Ren walked over to Groggot and gave him the sheath for the battle axe. Groggot just stared at him like he was crazy. Ren laughed and told him that most people don't normally carry weapons in their hands all the time, unlike what Groggot had just done... doing all of those jumping jacks while still holding his battle axe. Groggot tried to argue that he liked his weapon enough to hold it all the time, and Ren laughed again.
+
+Stat Change!
+
+Camaraderie Level 3 (Beginner 0%)
+
+Since my Aura is on all the time, it'll just keep leveling as long as I'm around people. Ren thought and fought not to smile. Ghomhan came back over to the Recruits and saw they were still on the ground.
+
+“You're already on the ground, so were switching to push-ups! Move it! Move it! Move it!” Ghomhan said and the Recruits groaned.
+
+“Sir! I'd like to offer some motivation, sir!” Ren said, and switched from the Camaraderie Aura to the Command Aura. Ghomhan nodded, and Ren took out the rest of the pieces of pie that he had. They were suppposed to be for the guards at the brig so they could have dessert with supper, but Ren could use them to motivate the other Recruits instead. He took out a scrap piece of cloth and put a single piece of pie in front of each Recruit.
+
+“10 push-ups! Come on! Just 10! Your reward? Pie!” Ren said and walked back and forth. “I put it just out of reach for a reason! Do your 10, get pie! Fail... and your pie gets eaten by Groggot!”
+
+The other dwarves looked at Groggot, who had a huge smile on his face. “I love pie!”
+
+Ren laughed. “You hear that? Groggot wants YOUR pie! Don't let him eat it! Come on! Only 10 push-ups!”
+
+It took a while. A few dwarfs finished pretty fast; but they all eventually did their 10 push-ups, and after a short rest, really enjoyed their pie. The rest of the day went by pretty fast after that. With Ren's food motivation idea, and constant pestering from their training instructor, everyone finished the day exhausted. They were also quite happy with their accomplishments. Ren had even slept for the whole hour at suppertime.
+
+Stat Change!
+
+Command Level 2 (Beginner 0%)
+
+Ren noticed it was getting dark, bid everyone farewell, and headed out. He made it back to House Neram, fed Princess, and went inside. He was greeted with a pair of nearly identical smiling faces.
+
+They look more like twins than mother and daughter. Ren thought and smiled back. He sat down at the table and they ate a great meal. When they were done, Narhilda took out another piece of parchment.
+
+“Can you guess what this is?” She said and waved it back and forth a few times.
+
+“In my professional opinion, I'd say it's an order for a thousand Warrior uniforms.” Ren said.
+
+Narhilda and Nathalia's mouths dropped open.
+
+“How could you possibly know that?” Nathalia asked.
+
+Ren shrugged. “I expected something like it yesterday. When it didn't come, I assumed it was just a matter of time.”
+
+“Do you think it's another test?” Narhilda asked.
+
+Ren nodded. “Definitely. May I see it?”
+
+She handed the order over, and Ren read it.
+
+New Quest!
+
+You have impressed the Commander with your High Quality uniforms. Now he wants to test your speed. You must complete 1000 Warrior uniforms by the end of the week.
+
+Rewards: 5000 XP
+
+70 Platinum Coins (Quoted cost for bulk orders 7gc each)
+
+Influence: 500
+
+Honor: 100
+
+Ren grinned. “I better get to work.” He said and stood up.
+
+“What about sleep?” Narhilda asked. “You know how I feel about that...”
+
+Ren walked over and took her hand, bending over it. “My Lady, I slept well today. I even got out of the brig early.”
+
+Her eyes widened at that. “So that's why...”
+
+Ren nodded. “I figured the order would come, now that I wasn't locked up.”
+
+Narhilda huffed. “Okay, fine!” She said then smiled. “Go to work.”
+
+Ren let go of her hand, and smiled. “As you command, My Lady.”

@@ -1,0 +1,353 @@
+---
+id: 7d1e9f69-5008-5c92-932f-7483c793844d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 200 - Nathalia Is Here, Part One"
+slug: 0188-chapter-200-nathalia-is-here-part-one
+partOf: mythrans-master-of-all-continued-completed
+position: 188
+ownLength: 4224
+unit: words
+publishedAt: 2017-03-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125139/chapter-200-nathalia-is-here-part-one"
+royalRoadId: "125139"
+---
+
+Ren went into the house to talk to Nathalia. He told her everything that had happened that morning, and she listened to every word. When he was done, she stayed silent.
+
+“Nathalia?” Ren asked.
+
+“Let me get this straight.” Nathalia said. “Not only did you build her a house, you gave her money, bought her contract, destroyed it to free her, then slept with her.”
+
+“It sounds really bad when you put like that.” Ren sighed. “That's the gist of it, unfortunately.”
+
+“She's right.” Nathalia said. “If you weren't already engaged to me, it would be a binding contract of marriage to her.”
+
+Ren sighed again. “I didn't build her a house for her, I built it for the mine. She couldn't do her job to the best of her ability if she had to sleep in a random miner's tent every night.”
+
+“Did you tell her that?”
+
+Ren opened his mouth to say that he did, but then realized that he never actually said it was a house that would stay at the mine if she left, or that she couldn't stay there if she wasn't the designated healer.
+
+“Crap.” Ren said.
+
+“Yes, exactly.” Nathalia said. “I'd ask you to fire her, but I'm pretty sure she'd just stay at the mines anyways, since she thinks it's her house.”
+
+“I'm really sorry.” Ren said. “I didn't mean for any of this to happen.”
+
+“You're always sorry.” Nathalia said. “You keep meeting these women who practically throw themselves at you, and you do your best to ignore them.” She sighed. “This one... like you said... didn't even particularly like you; but because of the beard she bought you, now she finds you more attractive than she dislikes you.”
+
+Ren looked at Nathalia beseechingly. “What do I do now?”
+
+“Ignore her.”
+
+“Wh-what?”
+
+“Act like nothing happened.” Nathalia said. “If you treat it like it didn't matter, so will she.”
+
+“But... but...”
+
+“Trust me.” Nathalia said. “Once she gets herself back to her right mind, she'll be almost as repulsed that it happened as you are.”
+
+Ren closed his eyes and sighed yet again. “All right. I'll try it.”
+
+“Don't try it, just do it!” Nathalia exclaimed, and Ren's eyes flew open in surprise at her tone. “I've been patient and understanding up until now; but, this situation with the healer ends right now.” She looked at Ren sternly. “Do you understand me?”
+
+Ren nodded slightly, and Nathalia smiled.
+
+“Good.” She said, and walked over to him to give him a hug. “You need to go and help Tee-one for a few hours, while I get supper ready.”
+
+Ren stood and gave her a hug back, then left the house. He went up to the workshop to help Tee-one, like Nathalia suggested.
+
+*
+
+Nathalia went out to the stable and asked Princess for a ride to Ren's mines. She readily agreed, as she knew something had to be dealt with urgently from hearing Ren's thoughts and feeling some of his emotions. Nathalia held on to Princess for the couple of minutes it took to get there, and was stopped at the gate.
+
+“Evening, Ma'am.” The guard said. “What can I do for you?”
+
+“I am Nathalia Neram, temporary Head of House Neram, and Ren Neram's fiance.” Nathalia said, as regally as she could. “I need to speak to the healer, Deresdra, about Ren's condition.”
+
+“Of course!” The guard said, and opened the gate. “Please, make sure he gets any help that he needs.”
+
+“I will.” Nathalia said, as Princess sauntered through the opening. “I definitely will.”
+
+*
+
+Ren took the tables and chairs Tee-one had made, then used some fabric to make tablecloths and seat cushions. He dyed everything red, since that was House Neram's color, and put everything into inventory.
+
+“I'll drop this off at the restaurant.” Ren said. “How are the Keep repairs coming?”
+
+“Fine.” Tee-one said. “The mound of silt outside is almost gone, though.”
+
+“I saw that.” Ren said. “Now that the mine is up and running, I'll ask the mine foreman to ship the silt out here.”
+
+“Or you could move the cement powder operation out to the mines and just bring the bags back every day.” Tee-one suggested.
+
+“That's a great idea.” Ren said. “It'll also be easier on the women workers, because they won't have to go as far to get to and from work.”
+
+“That was my thought.”
+
+Ren nodded and clapped Tee-one on the shoulder. “What would I do without you?”
+
+“Everything yourself, obviously.” Tee-one said and smiled.
+
+Ren laughed and left the forge room. He approached Dorathy and the women working there.
+
+“Ma'am, I was thinking of moving this operation out to the mines when the pile of silt outside is gone, so that your commute every day would be that much shorter.”
+
+“Really?” Dorathy asked. “We've been doing it this way for so long, are you sure you want to change it?”
+
+“I would like to make it easier for you all to get back home to your families sooner.”
+
+“What do you think?” Dorathy asked the women filling bags of powder. “Do we want to move out to the mines, or stay here?”
+
+“Stay.” “Move.” “Move.” “Move” “Stay.” “Move.” “Move.”
+
+“I vote 'stay', but I'm outvoted.” Dorathy said and smiled. “Of course, I wanted to stay just because I won't get to see Ruck every day.”
+
+Ruck reached a hand over to pat her knee, and she chuckled.
+
+“I'm going to miss you, too.” Dorathy said.
+
+“Not necessarily.” Ren said. “Do you think you could find someone else to take over your job of sewing up the sacks?”
+
+“Sure.” Dorathy said. “I know a few women who would jump at the chance to sew again.”
+
+Ren smiled. “I want you to pick one to take over for you when this operation moves, then I want you and a couple of sewing helpers for another job.”
+
+“That sounds like a big job.” Dorathy said. “Will Ruck be there to help?”
+
+“If he wants.” Ren said, and Ruck gave him a 'thumbs up' gesture. “Yes.”
+
+“Then I'll get a hold of them tonight, and have them ready to go by the end of the week.” Dorathy said.
+
+“Thank you.” Ren said, then left the workshop and ran down to the restaurant building. He set up the tables and chairs inside, and then a couple of them outside. Once that was done, he ran back to the workshop and helped make more armor sets, swords, and shields. When supper time came, he bid Tee-one goodnight, and ran down to the house. He enjoyed a good meal with Nathalia and Ereka, then said he had some Adventurer's business to take care of. Nathalia nodded slightly, and gave him a quick kiss. His said goodnight to both of them, then went to the main room and sat on the couch.
+
+See you in a bit, Teepo. Ren thought. “Logout.”
+
+********
+
+Ren had a good supper and made a bit of small talk with Denise. She tried her best to ask him about what happened with the healer without actually asking him; but, he ignored the pointed hints and she let the matter drop. He asked her if anything had happened over the last few hours he had been playing the game, and Denise told him that everything was fine. Ren nodded, and she helped him put the headset back on.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, greeted Teepo, then went into Nathalia's bedroom. He hadn't been gone that long, but she appeared to be sound asleep. After a quick kiss to her cheek, Ren laid back in the bed and fell asleep himself, with the promise from Teepo to be woken up if needed.
+
+*
+
+Croggart had followed the giant's trail for nearly a full day before he came to a large cave. He sneaked up to the entrance, but couldn't see anything. Once he went inside and his eyes adjusted to the darkness, then he could see what was going on. Various mounds of debris were scattered over the cave floor. Wood, metal, even stone bricks, were piled haphazardly around the place. Croggart was very careful about not stepping on, or kicking anything. Inside the cave, every sound was amplified and echoed from the walls, and he very slowly made his way deeper inside. When he got to where the giant had made her... well, nest was the best word for it... his deepest fears were shattered, then were replaced by concern and grief. The giant was curled up on her side, nearly into a ball with her knees almost to her chest, and buried deep in her clutches was his brother, Groggot.
+
+He looked to be beaten and battered, with his clothing torn and nearly shredded in some spots. Croggart saw he was asleep, and was afraid to make any noise to try and get his attention, in the fear that it would wake up the female giant as well. So, despite his desperate need to flee and get help, Croggart decided to stay; in the slim hope that Groggot would wake up before the giant, and would know that all hope was not lost.
+
+*
+
+Ren felt a hand rub his chest, and he woke up instantly. He looked down and saw Nathalia as she caressed his chest. She traced the shape of his pectoral muscles, then his abs.
+
+“You know, I really am angry at you.” Nathalia said.
+
+“Me, too.” Ren said. “I try so hard to stop my Trouble recipe from activating; but, it seems to have a mind of it's own.”
+
+-S
+
+Nathalia smiled as her hand moved lower. “Are you sure it's your Trouble recipe that has it's own mind?”
+
+Ren took in a deep breath as his body responded to the intimate touch. “Honestly, I don't understand why things like with the healer keep happening to me.” He said. “My Prince Charming title is only supposed to work when I'm around impressionable women, who could possibly have feelings for me. It's not supposed to work on every woman that can see me.”
+
+“You're belittling your own worth, My Love.” Nathalia said, and kissed him. A few minutes later, it became more passionate, and she rolled over to her other side to make herself available for him. Ren didn't need to be prompted much more, and proceeded to please her. He went slowly at first; but then, he became desperate for her touch. He wanted to feel as much of her skin as possible, so he hugged her tightly from behind as he frantically made love to her. Nathalia turned her head to him, and he kissed her. She reached up and grabbed his beard, her body half-twisted around, and kept kissing him until she went.
+
+Nathalia hollered his name into his mouth, and Ren went as well. They stayed locked together like that for several minutes, then she let his beard go and turned her head away. He tried to pull free, but Nathalia held onto his arms that were still wrapped around her. Since he couldn't remove himself from her without letting her go, he cuddled in close and kissed her cheek.
+
+“I love you.” Ren said.
+
+“I love you, too.” Nathalia said.
+
+They drifted off to sleep with Ren firmly shrouded inside of her; both of their bodies were reluctant to let the other go.
+
+-E
+
+*
+
+Croggart had started to drift off to sleep. He hadn't slept since the night before, and it was catching up to him. His head bobbed up and down each time he caught himself going to sleep. It happened once again, and then he saw movement by the giant. Croggart was instantly awake, like he'd slept for days, and he watched intently as his brother moved his arm to try and get more comfortable. Croggart waved from his hiding place, and Groggot froze.
+
+“Croggart?” Groggot whispered. “Get out of here! She'll kill you!”
+
+“Shhh!” Croggart said. “I'm going for help, but I wanted to see if you were okay first.”
+
+“I'm more than okay.” Groggot said. “She thinks I'm her baby.”
+
+“She WHAT?!?” Croggart exclaimed, and the giant let out a loud snore.
+
+“Just go and get help!” Groggot said and Croggart nodded slightly, waved, and sneaked back out of the cave. If he hurried, he could be back to the Garrison in a couple of days.
+
+*
+
+Ren woke up early the next morning, kissed Nathalia goodbye, and hooked Princess up to the cart. They took off without delay, and made it to the warehouse beside the diamond mine an hour later. He took her inside, gave her some food, and went up to the portal. He thought about Nathalia, and the Sending Ring glowed.
+
+“Nathalia? I'm at my portal.” Ren said, and Teepo dissolved into the Beetle Crown ring.
+
+“I'm at the restaurant.” Nathalia said. “I'll wait for about 10 minutes before stepping through.”
+
+“Thanks.” Ren said. “That should give me enough time to get over there.”
+
+“See you soon.” Nathalia said, and the ring stopped glowing. Ren stepped through his portal and came out the other side. He opened it as quietly as he could; but, nails being pulled out of wood was not a quiet sound.
+
+“You don't have to nail it shut every time.” Anabelle said as she sat up in the bed Ren had made for her in the living room. She rubbed her eyes and moved over to the side of the bed without looking at him.
+
+“It's a safety precaution.” Ren said, then nailed the cabinet shut. “I don't want to take the chance that someone will walk into it by accident.”
+
+“Or on purpose.” Anabelle said, and Ren looked at her.
+
+“Excuse me?”
+
+She chuckled as she stood up, and still faced away from him. “You can't tell me that you didn't believe that I would jump into the portal after you, before you got my servitude contract from Lord Eric.”
+
+Ren didn't say anything, and Anabelle nodded.
+
+“I don't hear you saying, 'Of course not, Anabelle. I would never think that!'” She said and started getting dressed.
+
+“I'm sorry, but I try my best to not lie to people.” Ren said.
+
+“I know.” Anabelle said. “It's one of the things I like about you.” She finished putting on her skirt and blouse, then turned around to put on her suit coat. She looked at Ren to see if he was watching her, and she saw what he looked like... then started laughing.
+
+“Oh... oh, my god!” Anabelle said between bursts of laughter. “What... what is that... on your face?!?” She got a hold of herself and went over to him. She grabbed his beard and pulled on it to get it off, and it jerked Ren's chin down.
+
+“Ow!” Ren exclaimed, and Anabelle froze in shock.
+
+“It... it's real?!?” She asked, then gave it another yank.
+
+“Ow! Yes, it's real!” Ren said, and she waggled her fingers through it. She did the same to his head, then the beard again.
+
+“I... I don't believe it.” Anabelle said, and let the beard go. “You. Have. A. BEARD!”
+
+Ren chuckled. “It's nice of you to notice.” He said. “I'll be right back. I have to meet Nathalia.” He turned and left the apartment. Anabelle was hot on his heels.
+
+“Why aren't you going through the portal?” She asked.
+
+“Nathalia's coming through her own portal in a few minutes.” Ren said as he walked down the stairs. “I bought Mitchell's old place to make a restaurant, remember?” He smiled as he opened the downstairs doorway. “She needs to come and visit her establishment, doesn't she?”
+
+Anabelle didn't say anything as Ren opened the front door and left the shop. He ran down the street and around the corner to the restaurant. It was still quite early, so there was hardly anyone else around. Ren went inside the building and behind the counter. He opened the door to the small storage area, and saw the portal there. Ren equipped the red outfit that he'd made for visiting the Council chambers, and summoned Teepo. Teepo appeared at his feet, then flew up to land on his shoulder. A couple of minutes later, the portal shimmered and Nathalia stepped through and stood in front of Ren. Surprisingly, she was wearing her red outfit as well.
+
+“Wow.” Nathalia said. “I didn't feel anything at all. It was just like stepping through an actual doorway.”
+
+Ren nodded slightly, then hugged her. She hugged him back and looked around.
+
+“It really is the same, isn't it?” Nathalia asked, and Ren nodded slightly again.
+
+“Except for all of Mitchell's old inventory, the two places are identical.”
+
+“You did a good job on the tables in the other place.” Nathalia said. “Are you going to do the same thing here?”
+
+“Of course.” Ren said, and Nathalia helped him place all of the tables in the same spots. “I don't think we should put the tables outside here yet.” He said as he stored all of Mitchell's old inventory. “Not until we're about to open, anyways.”
+
+“Oh, Ren!” Nathalia said, and took him into another hug. “I... I kind of thought it was only a fantasy, and that none of this was real.” She said. “I'm still a little surprised, actually.”
+
+“Well, My Love...” Ren chuckled and held out his arm for her to take a hold of. “...may I escort you into a new fantasy land?”
+
+“I would be honored to have you escort me, My Love.” Nathalia said and hooked her arm in his. Ren tapped his House Neram pendant, and Nathalia nodded, then their Auras merged into one and expanded to nearly 150 feet. They both held their heads high as they left the restaurant, and casually walked arm-in-arm down the street, and then around the corner.
+
+“I can give you a proper tour in a little while.” Ren said as he led Nathalia to his business. “It's still a little early, and not much is open right now.”
+
+“That's fine.” Nathalia said absently, as she whipped her head around to look at everything. Ren watched her as they slowly walked, and smiled as he remembered his first time in her home town. They arrived at the shop, and Nathalia's eyes widened at all of the different things he had for sale in the storefront window.
+
+“You have this much available already?” Nathalia asked. “But you just opened up the store!”
+
+Ren chuckled and opened the door. “This is just the display.” He said. “Wait until you see inside.”
+
+They went inside and Nathalia marveled at all of the weapons, tools, furniture, and items Ren had for sale.
+
+“You made all of this so quickly?” Nathalia asked and shook her head. “Of course you did.” She said and held his arm tightly. “You're amazing.”
+
+Ren smiled. “I built the display models, but Tee-one built most of the customer's orders. The tools and a lot of the weapons I did make myself, though.”
+
+Anabelle came over to them. “Hello.” She held her hand out to shake. “I'm Anabelle.”
+
+“Of course you are.” Nathalia smiled and used her free hand to shake the one offered. She didn't let Ren's arm go, however. “It's nice to meet you. I'm Nathalia Neram.”
+
+“It's nice to meet you, too.” Anabelle said. “Ren's description of you didn't do you justice.”
+
+“Yours, either.” Nathalia smiled. “Red looks good on you.”
+
+“On you as well.” Anabelle smiled back at her. “I think formal wear suits you quite nicely.”
+
+“Thank you.” Nathalia said.
+
+“Oh!” Ren said. “I better drop off the orders.” He took out the orders from inventory and placed them in the available space, making the shop quite crowded. “I think I have to finish the second floor.”
+
+Nathalia chuckled. “If this is the orders you fill every second day, then yes; you are going to need a lot more room for it all.”
+
+Ren nodded, then went up the stairs to the landing for the second floor. Since all that was there was support beams and cross members, Nathalia and Anabelle had front row seats to watch Ren work. They both admired him as he walked along the beams to the side of the building, then started laying down wooden planks. By the time he had half of the second floor down and secured, it was time to open the business. Anabelle excused herself and went to open the curtains and unlock the front door. She came back to where Nathalia stood, and politely asked her to go up to the landing if she wanted to keep watching Ren.
+
+“Why do I have to move?”
+
+“Because this place fills with customers almost right aw-” Anabelle's words were cut off; because just then, the front door opened and nearly a dozen women came in.
+
+“I see.” Nathalia said. “I'll get out of the way.”
+
+“Thank you.” Anabelle said sincerely, then turned to the women coming towards her. She was an expert at handling the customers now, and served them all quickly and efficiently. Nathalia had taken her advice and went to the second floor landing, and continued to watch Ren as he worked. Most of the floor was covered now, so she couldn't see into the store anymore. When the floor was done, Ren went along and made small shelves to hold stone bricks, that he enchanted with glyphs of the Illumination rune.
+
+“There we go.” Ren said as he came back to Nathalia. “All done.”
+
+“Why don't you show me upstairs?” Nathalia asked, and Ren nodded slightly to her, then led her up the stairs to the third floor. “Why is there a bed in the living room?”
+
+“Anabelle sleeps there.” Ren said. “She was sleeping on the couch, but even though it's comfortable, you shouldn't sleep on it all the time.”
+
+“Oh.” Nathalia said. “I thought she was staying in the bedroom.”
+
+Ren shook his head. “No, that's my space.” He said. “I wasn't even going to let her stay here at first; but then I had to open the business and she needed to be close by, so...”
+
+Nathalia nodded, then looked into the open bedroom door to see Elerlyth's phantom form laying there.
+
+“We should be seeing her tonight.” Ren said. “That's usually when we don't have Adventurer's business and can take care of other things over the night.”
+
+“Your life is so full.” Nathalia said. “Are other Adventurers' lives like that?”
+
+“I don't know for sure.” Ren said. “If I was to take a guess, I'd say no.”
+
+Nathalia came over to him and took his hand. “I'm glad that I became a part of your hectic life.”
+
+Ren leaned in and kissed her lightly. “So am I, Nathalia.” He said and smiled. “So am I.”
+
+“Since the business is open, can I get that tour now?” She asked with a bright smile on her face.
+
+“Of course.” Ren said, and led her down the stairs. There was a lull in the amount of customers coming into the store, so Ren took the opportunity to refill some of the lingerie, dropped off a couple more suits of armor, and made his way to the counter. Anabelle didn't look haggard at all, and he smiled at her.
+
+“Have you changed your mind about hiring someone else?” Ren asked her, and she smiled back at him.
+
+“Yes, I definitely need another pair of hands.”
+
+Ren opened the business menu, and posted a job opening for an assistant clerk, with experience an asset but not required, then added it as NPC and player available.
+
+“It's posted.” Ren said. “Hopefully, we'll have someone come in by noon.”
+
+“Thank you.” Anabelle said.
+
+“You're welcome.” Ren said. “We'll be back in a few hours. I'm taking Nathalia on a tour of the city and to visit some friends.” He led Nathalia away from the counter and out the front door. The first place he took her was Sally's Shop. Since she had just opened herself, Ren didn't have to wait long for the single customer to leave.
+
+“Hi, Sally.” Ren said, and Sally turned around after she put away a bolt of fabric to look at him.
+
+“Hi, Re-” She froze in shock. “Wh-wh-wh...”
+
+“Sally? What's wrong?” Ren asked, concerned. He took a step towards her, and she cringed as she held up a hand; almost as if to ward off a blow, then tears came to her eyes.
+
+“Go wait outside.” Nathalia told him, and he hesitated. She let his arm go and stepped in front of him. “Go. Wait. Outside.” She said sternly. Ren nodded and left the shop.
+
+*
+
+“Sally?” Nathalia said. “It's okay. He's gone.”
+
+Sally put her hand down and looked around. She started to cry and Nathalia helped her to sit.
+
+“What happened, Sally?” Nathalia asked.
+
+“That... that...” Sally sobbed and wiped at her flowing tears. “I... I saw... my dead husband...”
+
+*
+
+Ren stood outside and watched through the window. He couldn't hear what they were saying, but Sally was waving her arms, and making other gestures, and Nathalia stood in front of her.
+
+I wonder what happened. Ren thought.
+
+“She thinks you look like her dead husband.” Teepo said from inside the shop.
+
+WHHHAATTTTT?!?!? Ren thought in shock.

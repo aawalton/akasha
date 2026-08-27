@@ -1,0 +1,189 @@
+---
+id: 1ebc5096-129e-5c07-8664-526f0a24e891
+page-type-slug: story-chapter-royal-road
+title: "Chapter 170A - Shower (Slightly Explicit)"
+slug: 0158-chapter-170a-shower-slightly-explicit
+partOf: mythrans-master-of-all-continued-completed
+position: 158
+ownLength: 1822
+unit: words
+publishedAt: 2017-02-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118799/chapter-170a-shower-slightly-explicit"
+royalRoadId: "118799"
+---
+
+“You really worked up a sweat today.” She said, and helped him peel off his soaked clothing.
+
+“Ugh.” Ren grunted as his sore arm popped out of the long sleeved t-shirt. “Okay, I'm glad I had the t-shirt on.” He rubbed the elbow and winced. “I couldn't have done the whole hour without it.”
+
+“I told you.” Stella smiled, set the water temperature, and Ren got in the shower. He reached for the soap and winced again as his arm didn't quite work with his muscles so weak.
+
+“Goddammit.” He said, and let his hand drop.
+
+“Do you want me to help?” Stella asked.
+
+“You've gone above and beyond your normal job by helping me with everything so far.” Ren said. “I can't ask you to help me wash in the shower, too.”
+
+“You don't have to ask.” Stella said and smiled. “It actually is part of my job to keep you clean and healthy.”
+
+Ren took in a breath and let it out. “Even my good arm is too sore to reach where I need to.”
+
+Stella locked the bathroom door, then started to take off her pants. Ren turned away quickly.
+
+“Ren.” She said. “You don't have to look away.”
+
+“Yes, I do.” He said. “If I see you taking off your clothes... I'll... I'll get excited.”
+
+“You know what I believe about things like that.” Stella said, and hung her pants on a hanger on the back of the bathroom door, then took off her shirt. “It's just the body's normal reaction to stimuli.”
+
+Ren turned back to her, and his eyes widened at what she was wearing. The small black bra matched her hair color and was mostly just lace and an under-wire. It showed off her b-cup (34 inch) chest nicely. Her underwear on the other hand, was solid cloth and barely covered her.
+
+“Oh... my.” Ren said, and the stimuli Stella had given him was immediately apparent. She chuckled as she unhooked the bra's front clasp and revealed that her chest didn't need the support at all, and was quite perky. She laid the bra on the back of the toilet and reached for her underwear.
+
+“Wait.” Ren said, and she looked at him.
+
+“It's okay.” Stella said. “It's just a...
+
+“Turn around and take them off.”
+
+“Oh.” She turned around to face away from him, hooked the edge of her underwear with her thumbs, and slowly pulled them down. She bent at the waist and didn't bend her knees at all as she brought the underwear to the floor.
+
+“Good god.” Ren said, both shocked and surprised; then pleased and happy to see the spectacular sight before him. “You must be beating men away with a stick!”
+
+“Not a stick.” Stella stood up and smiled. “With my mind.”
+
+“What?” Ren asked as Stella got in the shower with him.
+
+“In my experience, most men are intimidated by an intelligent woman.” Stella said. “They say that they aren't, but they are.” She smiled. “Turn around and I'll wash your back.”
+
+“Thanks.” Ren said and turned around. Stella picked up the soap and got a good lather going, then scrubbed his back. “Oh, that feels great!” He said, as she massaged the muscles as she washed him. “You were saying?”
+
+“Right.” She said. “If I play a little dumb, they're all over me.”
+
+Ren held out his arm and she scrubbed and massaged it, too.
+
+“Once I tell them what I do, they lose interest pretty fast.”
+
+“Why?” Ren asked and held out the other arm.
+
+“I don't know for sure.” Stella said. “I think it's because as a nurse, I get to see other men naked.”
+
+“That's a stupid reason.” Ren laughed. “Imagine if women judged men like that.” He said, as Stella moved on to do his legs. “Hey, you've seen porn! I'm not interested in you anymore.”
+
+Stella laughed. “I can just imagine the looks on their faces, if a woman ever said that to them.” She finished his legs and stood up. “Turn around.”
+
+Ren turned around and Stella lathered up his chest and neck, did his underarms, then she knelt in front of him.
+
+“Um, I... ah...I can do that part.” He said, and blushed slightly.
+
+“There's no way you can reach your feet.” Stella smirked a smile at him as she looked up. Ren blushed hard as he realized he'd made an assumption that he probably shouldn't have.
+
+“I... I'm sorry.”
+
+Stella snorted a laugh. “You are so easy to tease!”
+
+Ren shook his head and chuckled as he braced himself against the wall. He put a hand on her shoulder for support, then lifted a foot. Stella scrubbed it, then he lifted the other one. She stood up straight and handed him the soap.
+
+“Go ahead and try.” Stella grinned.
+
+Ren tried to get some lather going, but he just couldn't do it with his arm so sore. He handed the soap back to her and sighed.
+
+“Please, help.”
+
+“It will be your pleasure.” Stella said, and laughed at Ren's surprised face. She lathered her hands up and knelt again. Since he was fully erect, it was quite easy for her to wash his private area. He put his hands on her shoulders for support, and she scrubbed him well.
+
+“Stella...” Ren said. “...I... I can't...”
+
+“It's okay.” Stella said. “Let me help you.” She had already cleaned the tip and rinsed it off, so she slipped her mouth over it, and Ren gasped.
+
+“Oh, god!” He said, as she worked him over with her mouth and hands. Whatever it was that she was doing, he'd never felt anything like it. That seemed a bit odd, considering he'd had women use their mouths on him before; but, even though it felt differently, it also felt absolutely amazing.
+
+“Ste-e-ella!” Ren said as he felt he was about to go.
+
+Stella stopped sucking and pulled it out of her mouth. She stared up at him as she opened her mouth wide and stuck out her tongue, then stroked him as fast as she could.
+
+“So... pretty...” Ren said, as he stared down at her, then he went. Stella had positioned herself perfectly, as she caught it all and swallowed with her mouth open. Ren kept going and she kept stroking, and she took it all. Stella let his member go, and Ren spasmed a little more. It was still resting on her tongue, even though she wasn't holding it there anymore, and she kissed the tip to suck off the last little bit that was there.
+
+“How do you feel?” She asked.
+
+“Stella... I...” Ren blinked at her. “Holy crap!”
+
+She laughed. “That's not really a feeling.”
+
+“It was wonderful!” Ren said. “Good god, it was wonderful.”
+
+Stella smiled. “You've been holding that in for a while, it seems like.”
+
+Ren shook his head. “It was only a couple of hours game time, and a couple of hours here.”
+
+Her eyes widened. “Then, why was it so much?”
+
+“Probably because it has never felt like that before.”
+
+“Never?”
+
+Ren shook his head. “It feels different with every woman, but.. damn... you're very skilled.”
+
+Stella smiled as she stood up. “Thank you.”
+
+He put a hand on her arm. “No.” He said. “Thank you.”
+
+“Come on.” Stella said. “Let's get ourselves dried off.”
+
+“Okay.” Ren said. “But what about you?”
+
+“What about me what?”
+
+“I need to return the favor.”
+
+She smiled. “If we had a bit more time, I'd take you up on that offer.”
+
+“I'm not in a rush to go anywhere.” Ren said.
+
+“No?” Stella asked. “You don't have any pressing matters to attend to in the game?”
+
+Ren's eyes widened. “Oh, crap! Right, right!” He tried to scramble out of the shower, and Stella caught him as he started to fall.
+
+“Easy there, Speedy Gonzales.”
+
+“The trial! My mount! Narhilda and Nathalia!”
+
+Stella chuckled. “You need to dry off and get dressed first.” She said. “You almost put yourself out of commission.”
+
+“Okay.” Ren took in a deep breath. “I'm okay now.”
+
+He looked down and saw that when he had reached out to grab onto something with his good hand, he had taken a hold of her breast. Ren looked up at her face, and he didn't see any outrage or misunderstanding there. He got his feet under himself, let her breast go, and smiled.
+
+“You are an amazing woman, Stella.” Ren said and stepped out of the shower.
+
+“You're just realizing that now?” She asked as she stepped out of the shower as well, and grabbed a towel.
+
+Ren shook his head. “No, I've known it for a while; but, I've just never said it out loud.”
+
+Stella started to dry him off. “I think you're pretty amazing, too.”
+
+She finished drying him and handed him some clothes so he could get dressed while she dried herself off.
+
+“I'm sorry I couldn't help.” Ren said and waved at the now wet towels.
+
+Stella smiled. “I'm the nurse, Ren.” She said and put her bra back on. Ren watched her as she stepped into her panties that she'd left on the floor, then bent over to touch them. She leaned her head to the side and looked back at him.
+
+“Please tell me you're teasing me.” Ren said. “Because if you stay like that, I could go again just from looking at you.”
+
+Stella glanced down at him and could see the bulge was still there in his clothing.
+
+“I don't know if I'm teasing you or not.” She said. “I've never had anyone look at me like that before.” Ren walked over to her and knelt as she started to pull up her underwear. He caught her hands and stopped her movement, then he kissed her between her legs. She let her underwear go and put her hands on the floor to brace herself as Ren held onto her hips and sucked on her.
+
+“Oh... OH!” Stella went, and he kept sucking. It gushed out and into his mouth, then ran down her thighs. She twitched and shook as she went again, then Ren stopped working her with his mouth.
+
+“I guess I actually did have the time to spare.” Ren said as he dried Stella off with one of the towels, then dried off his mouth. She had a slightly difficult time standing up, then turned around to face him.
+
+“What have you been doing in that game?!?” Stella asked, with a huge grin on her face.
+
+“Apparently something right.” Ren grinned back, and she shook her head.
+
+“I thought you were learning skills and how to make things.” Stella said and she took the towel from Ren, finished drying herself, and put on her underwear.
+
+“I am.” He said. “I made you go, didn't I?”
+
+Stella laughed as she put on her shirt, then her pants. She unlocked the door, and they left the bathroom.

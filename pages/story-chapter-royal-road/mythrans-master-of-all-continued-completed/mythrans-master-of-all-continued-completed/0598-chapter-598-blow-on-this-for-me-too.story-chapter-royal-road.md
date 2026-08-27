@@ -1,0 +1,203 @@
+---
+id: 9bf1e9f1-54e5-5f8c-979c-28816b386036
+page-type-slug: story-chapter-royal-road
+title: "Chapter 598 - Blow On This For Me, Too"
+slug: 0598-chapter-598-blow-on-this-for-me-too
+partOf: mythrans-master-of-all-continued-completed
+position: 598
+ownLength: 2413
+unit: words
+publishedAt: 2018-05-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218773/chapter-598-blow-on-this-for-me-too"
+royalRoadId: "218773"
+---
+
+Janice's idea, surprisingly enough, was for Ren to help her make an elaborate glass castle.
+
+“Are you serious?” Ren asked. “I mean, I'm sure we can probably get enough sand eventually and...”
+
+“I meant a model about this big.” Janice said and held her hands about 2 feet apart. “I saw the castle King Alamast uses, and I've been dying to try and make it.”
+
+“Out of glass.” Ren said, and she nodded. “What makes you think I can help you with that?”
+
+Janice smiled. “You've told me all about going there with the Ambassador to the Land Dwellers, so I know you've seen it up close.” She said. “You can't tell me you don't have the plans for the outside of it at least.”
+
+“Well...”
+
+“Please, Ren.” Janice said. “Help me make the very first replica of the castle to exist.”
+
+“Damn, you really know how to push my buttons.” Ren said and smiled.
+
+Janice chuckled and Ren took out several pieces of parchment. To her amazement, he drew out the front view, side view, and top view of the castle, then added in the height and width of everything.
+
+“Good lord, Ren.” Janice said as she studied the drawings. “How in the world did you do that?”
+
+“I can remember everything I see, hear, touch and taste.” Ren said. “Oh, and feel.”
+
+“So, everything then.” Janice said and he nodded. “If given the right medium, you can even reproduce it?”
+
+Ren nodded. “Actually, that reminds me. I have to visit the castle and see the princess. I need to trade for the plans for an image recording device.”
+
+“Geez, they have something like that?”
+
+“Apparently.” Ren said. “I need to think of something good to...” He looked at the plans and then at Janice. “We need to make a second one right after we finish the first.”
+
+Janice chuckled. “Inspiration strikes again, huh?”
+
+“She might not want it, but it's going to look damn pretty.” Ren grinned. “It will at least show her I'm not limited to just armor and enchanting.”
+
+Janice thought about it. “All right. You help me make the first one so we can get the plans, then we'll make a second one to see if using the plans makes the work go faster.”
+
+“It will only go faster if we let the system do some of the work once we have the plans.” Ren said. “All we need to do is make the pieces close to the right size and let the system shape them.”
+
+“You're thinking that since there's not a lot of detail work, we don't have to do everything by hand.”
+
+“Not after the first time, no.” Ren said. “Getting the details right the first time is going to be a bit of a pain in the ass, though.”
+
+Janice put a hand on his shoulder. “Sounds like fun, doesn't it?”
+
+“Damn right it does.” Ren chuckled.
+
+They got to work right away, and Ren had been right. Working out how much glass to use to make the proper shapes was quite time consuming, especially with adding recessed windows, battlement walls, turrets, and tiled roofs. It took nearly two hours for them to get all of the pieces made and set out on the workbench like a big glass puzzle.
+
+“Okay, Ren. Do your thing.” Janice said.
+
+Ren nodded and used his Portable Dye Station to make the glass pieces the appropriate colors, then dipped his fingers into the molten glass of the glass forge and started to apply it to the pieces and added them to the large base they had made. He started with the inside main building first, then started adding the detailed pieces for it. When it was done, he started adding the turrets and other things that made it look like an actual castle.
+
+Since the pieces were colored, it was easy to put them together in the right order. Janice offered advice, about turning certain pieces to fit properly and if things were a little off to her. This was helpful because she was looking at it in a different perspective than Ren was. Two pairs of eyes were almost always better than one. Ren finished the long assembly and stepped back from the workbench to get the completed plans for the Castle Model (Glass), and Janice leaned her elbows on the bench to stare at it.
+
+“Ren, thank you.” Janice said. “I've always wanted to own this castle, ever since I was a little girl.”
+
+“Hey, we both made it.” Ren said. “Plus, it's not finished yet.”
+
+“What? It's done.” Janice said and looked at the workbench. “We used up all the pieces we had.”
+
+“Yeah, but it's missing something.” Ren said. “Can you pick it up for me?”
+
+Janice wasn't sure what he was talking about, so she picked up the 2 foot wide model castle out of sheer curiosity.
+
+“Don't be surprised by this.” Ren said and touched the underside of the base and enchanted it with a glyph of 5 Illumination runes. The entire model castle lit up with it's own internal light, and since it was colored glass, it glowed with different colors and lit up the room slightly.
+
+“Dear god.” Janice whispered, and Ren cast Hide Writing on the glyph to make it invisible. He took the castle from her and put it on the workbench, then recalled the song that always played whenever he had seen the castle on television in the real world.
+
+Ren cast the spell Permanent Magic Mouth, which would repeat whatever he wanted it to, and gave it the song to repeat whenever someone came within 5 feet of it. Since it was permanent, it would always repeat the song whenever anyone passed within 5 feet of the castle.
+
+“Now it's done.” Ren said and motioned for her to step back.
+
+“But...”
+
+“Please, humor me.”
+
+Janice stepped back, and he motioned for her to go farther. She sighed and walked 10 feet away. “How's this?”
+
+“Too far.” Ren said and smiled. “Come back about half that distance.”
+
+Janice almost sighed and walked back... then froze as the familiar song that every kid knew by heart came out of the castle.
+
+“When you wish upon a star... makes no difference who you are...”
+
+“Oh, my.” Janice felt tears come to her eyes and didn't try to wipe them away. “How... how did you...”
+
+“Step back.” Ren said.
+
+Janice took a step away without questioning him, and the song stopped. Ren waved her forward and the song started over.
+
+“It... it's like a music box.” Janice whispered.
+
+“The very first one, and it's all yours.” Ren said. “Enjoy.”
+
+“Oh, Ren.” Janice walked the 5 feet to the workbench and gave him a hug. “I know I already thanked you for helping make it, but this modification needs another thank you.” She said and leaned in close as she whispered in his ear. “A very special thank you.”
+
+“Janice, you don't have to do that.”
+
+“Have to?” Janice leaned back and looked at him. “Ren, I've been wanting to do it ever since I watched you assemble it.” She said. “Hell, I wanted to be doing it while you were assembling it.”
+
+Ren blinked his eyes at her for a moment. “I don't know if I could have worked if you were doing that to me.”
+
+“Why else do you think I wanted to try?” Janice grinned at him, and he chuckled.
+
+“Well, we do need to make the pieces for another castle...” Ren said, and she laughed.
+
+They made the pieces for the second castle, and after Ren had colored all the pieces the same as the first, he was surprised when Janice knelt down between him and the workbench.
+
+“Janice, I was joking.” Ren said.
+
+“I wasn't.” Janice said and undid his pants. “Look at you! You're fit to burst!”
+
+Ren had been ready for a while, because their joking around and teasing had turned him on. “Janice...”
+
+“You better start working when I do.” Janice said as she looked up at his face. “If you drop molten glass on me while I'm doing this, I'll kill you when I get back.”
+
+“Get back?” Ren asked.
+
+“After I die and come back.” Janice said.
+
+“Even if I do somehow drop some on you, you aren't going to feel it.” Ren said. “Trust me.”
+
+Janice had watched his face and saw the sincerity there, so she nodded. Ren dipped his fingertip into the molten glass and put it towards her face. She stared at his eyes as he slowly pressed the molten glass into her flesh and spread it around. A second later, he lifted the smear of clear glass from her cheek and gave it to her.
+
+“Just in case you wanted proof.” Ren said and started to assemble the castle pieces.
+
+Janice hadn't felt a thing, except the tender touch of his fingertip... and that really turned her on. She stored the glass smear and plunged her mouth onto him, and it became a desperate race to see who would finish first.
+
+It had been close, very close. Ren had finished the assembly mere moments before Janice had finished him. Ren had completed the task and relaxed, then realized his mistake. They were both surprised by him not fighting the sensations anymore and letting his guard down, which caught Janice completely off-guard.
+
+Despite enjoying the fact that he had let himself go like that, she handled the situation like a professional. She cleaned him up and put his clothing back into place, then cleaned herself of the mess he had made by equipping a nice dress and stood up.
+
+A moment later they heard a cry of relief and looked at Suniva on top of the glass forge. She was naked and her legs were spread wide open, and they could see she was soaked and gasping for breath as if she had been running very fast. Ren and Janice looked at each other with wide eyes and slightly shocked expressions, and then they started to laugh.
+
+After a couple minutes of shared mirth, Ren enchanted the new castle with the same Illumination runes and stored it.
+
+“Wait, aren't you going to give it the same song to play?” Janice asked.
+
+“No, that's only for you.” Ren said, and she put her arms around him.
+
+“Thank you.”
+
+“You're welcome.”
+
+“Now what are we going to do?” Janice asked.
+
+“I'd offer to return the favor, but I have a date to get to.” Ren said. “I'll get Ellaria to take you home.”
+
+“That's okay.” Janice said. “You're right. It's getting late, so I'll stay in the spare bedroom for tonight.”
+
+Ren nodded and walked over to the glass forge. “Hey, there. How are you doing?” He asked Suniva.
+
+“I'm... doing... well.” Sunia said.
+
+“Can you move yet?” Ren asked, and she shook her head. He took out a piece of cloth and wrapped it around her as he carefully picked her up. Ren and Janice left the shop tower, and he deactivated it and stored the cube. He went into the house and Janice followed him inside. She said goodnight and went to the spare bedroom while Ren took Suniva to the big bedroom. He laid her down on the pillow and she pulled the piece of cloth tight as she rolled onto her side, then she fell asleep.
+
+Ren left the bedroom and the house, and met Artemis and the succubi outside. “I'm going over to visit Anabelle now.”
+
+“I'll come with you, but I'll stay downstairs.” Artemis said.
+
+“As will I.” Seldanna said. “If you need us, we will be there.”
+
+“Thanks.” Ren said and looked at the other three succubi. “Please guard the house and it's occupants.”
+
+“Consider it done.” Ellaria said.
+
+Ren, Artemis and Seldanna went over to the business and saw it was closed. They went around to the back entrance and up the stairs, and Artemis and Seldanna stayed on the second floor while Ren went up to the third floor apartment. When he opened the door, Anabelle stood there facing him. She wore something like a one piece bikini, except it was only lace and almost completely see-through.
+
+“Oh! There you are.” Anabelle said and walked over to him, bent over slightly and gave him a kiss. “I've been looking forward to this all day.”
+
+Ren knew she was putting on a bit of a show for him, so he smiled at her. “I'm glad, because I have a bit of a surprise for you.”
+
+“Really?” Anabelle asked sexily. “What in the world could it be?”
+
+Ren chuckled. “Not that... or, not only that.” He corrected. “Please, lay down on the bed.”
+
+Anabelle caressed his cheek. “Anything you want, I will do it for you.” She said and turned around, and Ren saw that her one piece bikini was completely backless, and there was only a tiny little string holding the lace on the front together. She swayed her hips as she went to the bed, then she very slowly bent over to crawl onto the bed.
+
+It gave Ren a perfect view, and he saw that it was only a piece of string covering her special place. He identified the garment and saved the plans for it, then followed Anabelle to the bed.
+
+“What's this surprise you have for me?” Anabelle asked as she rolled over to lay on her back and rested her head on the pillow.
+
+“It's something I've been carrying around for a while, and never had the chance to give to you until now.” Ren said and he felt her anticipation. He took out a small box and opened it, then pulled out the expensive silk scarf that he had received from the rope seller for buying all that rope and tipping so well.
+
+Anabelle's eyes widened as Ren carefully tied her hands together. “R-Ren...” She whispered as she shivered in anticipation for what was to come. Ren smiled at her and lifted her bound hands over her head and tied the other end of the scarf to the headboard.
+
+“I hope you will enjoy this.” Ren said perfunctorily, because he could feel her feelings and already knew the answer.
+
+“I already am.” Anabelle said. She could feel his emotions, too. He really needed her, and that made her love him that much more. Ren stored his clothing and laid down beside her and kissed her.

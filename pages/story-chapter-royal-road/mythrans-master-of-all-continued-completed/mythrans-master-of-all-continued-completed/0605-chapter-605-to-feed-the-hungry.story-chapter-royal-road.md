@@ -1,0 +1,193 @@
+---
+id: b7f18f86-df89-508b-abcd-8163308298b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 605 - To Feed The Hungry"
+slug: 0605-chapter-605-to-feed-the-hungry
+partOf: mythrans-master-of-all-continued-completed
+position: 605
+ownLength: 2763
+unit: words
+publishedAt: 2018-06-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223285/chapter-605-to-feed-the-hungry"
+royalRoadId: "223285"
+---
+
+Ren mounted Princess and sat down on the saddle.
+
+“Was she happy to see you?” Suniva asked as she walked up and sat on his shoulder. The 1 foot tall pixie put her arm around the back of his neck and held onto his hair.
+
+“Very happy.” One of the succubi said, and the others chuckled.
+
+“I'm surprised she let you leave.” Artemis said and smiled.
+
+“We were interrupted by the guards.” Ren said. “Princess? Take me to the starter city in my county, please. Cruising speed.”
+
+“Yes, My King.” Princess said and trotted up into the air as the succubi and Artemis flew beside her, then she ran at the requested speed. Ren had chosen it because it was the top speed the succubi could achieve. He let them siphon off some of his emotions so they could keep up without having to strain, just like he did on the way to the castle.
+
+They arrived at the starter city, which was over a thousand feet away from the Main House where the maids were sequestered, and well outside the range of Ren's Aura. It was near the large pool that used to be Railyse's home and the succubi roost was close to that.
+
+Ren hopped off of Princess and knelt with one knee on the ground, and made an offering to the Earth deity. A few moments later, one of the female Earth beings poked their head above the ground and greeted him, perfunctorily.
+
+“Oh, it's you.” The female Earth being huffed. “She said you might be calling for yet another favor.”
+
+“I'm sorry to bother you.” Ren said. “Can I ask where she is?”
+
+“She's with the others that are getting a lecture about reducing the physical interactions with her charges.” She said and looked at Ren with a bit of disdain. “She's supposed to take care of the land, not play around with the people there.”
+
+“I assume the 'others' are the ones that have visited with her and helped me.” Ren said, and she nodded. “Would you be so kind as to go back to them and send her and her friends instead, please?”
+
+“I'm sure I can handle...”
+
+“No, you can't.” Ren said. “I can feel how annoyed you are with being here, and you won't be able to work with that much of a distraction.”
+
+“Are you questioning my integrity?” She asked, surprised.
+
+“No, I'm telling you that you won't give me your best.”
+
+The female Earth being didn't respond and just stared at Ren, who could feel her swirling emotions.
+
+“Here's 500 Mana for coming here.” Ren said and reached out to touch her, and she flinched back. “You see? You are not going to like working here with me.”
+
+She took in a breath and frowned. “I can't go back and tell them to let her come here. She is supposed to learn how to act around people.”
+
+“Like you're doing?” Ren asked, and she turned her head slightly. “It's not her fault she finds me irresistible. I'm strong, powerful, and I can feed her Mana until she collapses.” He explained. “I made it a request for you to go and get her for me... so, please... go and get her and her friends. I need them.”
+
+“For more pawing and playing?” The female Earth being said, disgustedly.
+
+“That's not what we...” Ren shook his head and quickly reached out and touched a fingertip to her forehead. She stopped breathing when he shoved 500 Mana into her in the instant before she pulled her head away. Her eyes were wide and she slowly drifted down into the ground.
+
+Ren could feel she wasn't going anywhere, and used his Heat Sense to 'see' her through the ground. She was curled up almost in a ball and was hugging herself. He took out the Staff of Earth and moved the ground away from just her head and arm, then stored the staff and crawled into the hole. She looked at him with the eyes of someone who thought they were caught, and he held a hand up in surrender.
+
+“I fed you all when I met the Earth deity, remember? You know I can give a lot of Mana without hurting myself.” Ren said. “Well, I've advanced a lot since then and I can give out a lot more Mana now, and much faster.”
+
+“You...” She shook her head. “You will corrupt us all.”
+
+“No, I won't.” Ren said and took her arm, then pulled her up into a sitting position when she didn't try to fight him. “The one who normally comes here is used to my abilities, and I don't have to be afraid of overwhelming her like what just happened to you.” He said. “Please, go and get her... and her friends.”
+
+“But... what do I...”
+
+“Tell them I'll stop making offerings if they continue to interfere with my plans.”
+
+The female Earth being gasped. “You can't! She's depending on you to-” She clamped her mouth shut and turned her head. “You can't make demands of the Earth deity.”
+
+“I would never make demands of her.” Ren said. “You can tell her that I'll come and visit her soon so I can make an offering in person.”
+
+“How... how much this time?”
+
+“As much Mana as she needs... or wants.” Ren said. “I'll bring a few other things as well, just in case.”
+
+She turned back to him and nodded. “All right. I'll go and tell her what you said.”
+
+“Thank you.” Ren said and reached for her hand.
+
+The female Earth being shook her head. “I don't want to feel like that again.”
+
+Ren smiled and took her hand, then started to ease another 500 Mana into her like a calm river. Her mouth fell open at the gentleness of the flow and her body responded to it. The gravel under her translucent skin churned faster and she put a hand over her heart as her breath sped up.
+
+“S-s-stop.” She whispered, and Ren eased the flow down to a slow trickle, but didn't let her hand go.
+
+“I know they probably picked you because of your annoyance with humans, and I'm sorry about that.” Ren said. “Will you accept my apology?”
+
+The female Earth being took a shallow breath and nodded slightly.
+
+“Thank you.” Ren said and kissed the back of her hand, then he activated his Hands of the Gods ability and started to pour the Earth element out of his hands. He felt her utter shock as he slowly stood up and let her hand go, which cut off the slow Mana flow, then he covered her up completely with previously untouched Earth. With his Heat Sense, Ren could see her wallow in the pure element. She ran her hands through it and rubbed her face with it, then she shook herself and moved away through the ground as fast as Princess could run through the air.
+
+“Well, that convinced her.” Ren said and took out the Staff of Earth and moved the dirt back over the spot to fill it in completely and stored the staff again. He gave Princess a plate of food and then took out his shop tower, then went inside to make a few things to replace the ones he had given to Princess Diana. It took about 20 minutes for the Earth being to return, and Ren felt there were 4 of them. He left the shop tower and stored it, then an Earth being popped her head up out of the ground and grinned at him.
+
+“You've got some nerve threatening the Earth deity.” She said.
+
+“It wasn't a threat.” Ren said and smiled back. “I really would stop making offerings if you weren't allowed to come back.”
+
+“You're so arrogant!” She said and laughed. “What am I going to do with you?”
+
+“You can tell me your name.” Ren said.
+
+“You'll never be able to pronounce it.” The female Earth being said, then let out a short stream of noise that sounded like gravel and rocks tumbling down a pile of other rocks.
+
+“Ha ha, you're right. I don't think I can produce that with a human mouth.” Ren said. “I can cast Magic Mouth and reproduce it, though.” He said, then cast Magic Mouth on the closest rock and her voice came out of it and said her name.
+
+“Ha! You smart little human!” She said. “If you ever need to ask for me by name again, you can.”
+
+Ren nodded. “Now, if you would be so kind...”
+
+“We're all ready to make the farms under the starter city.” She said and held a hand out. With his Heat Sense he could see the others waited just underground in a small cave, so he took her hand and Suniva jumped off his shoulder.
+
+“Nope! I've been underground enough!” Suniva laughed and stood in mid-air and watched Ren get pulled underground.
+
+“I'll be back in a little while!” Ren said to her, Artemis, Princess, and the succubi and then he landed in the cave. “Thank you all for coming.” He said, then he fed the Earth beings all the Mana they needed to start working. It didn't take as long to convert the land to make it viable for farming, because it wasn't near as lacking as the land under the other two starter cities was when they were converted. They came back over to Ren when the work was done, and he thanked each of them as he fed them more Mana in the fashion they desired.
+
+When they recovered from the individual offerings, Ren gave them a handful of gold coins each and an offering for the deity herself. The Earth beings thanked him, returned him to the surface, then left just as swiftly as they had arrived. With the major task of making farmland under the city complete, Ren climbed onto Princess and sat down on the saddle. Suniva resumed her perch on his shoulder opposite Teepo and the pet tarantula.
+
+“Aurora, please.” Ren said, and Princess took off through the air. They arrived back at the starter town of Aurora only a minute later and Princess landed beside the house in the Housing District. The succubi took up guard positions without being asked, and Ren hopped off of Princess and let her inside the house.
+
+“I'm heading over to the business and I'll be back later.” Ren said. She huffed at him and went into her room, and he shut the door of the house. “Suniva, I'm going to be working around the forge for a while.”
+
+“Of course I'll come with you.” Suniva said and smiled. “I want to keep watching you work.”
+
+Ren chuckled. “It's not going to be as exciting as you think.” He warned her, then he and Artemis walked hand-in-hand down the street towards the Artesian District. The street was a little more crowded than usual as they made it to the shop, and there was a line outside waiting to get in.
+
+Ren diverted to the back of the building and went up the stairs and entered through the back door there, then went down to the first floor and opened the door... and saw the place was packed. He couldn't see through the crowd, so he took a couple of steps up into the air and looked around. The workers were working frantically as they tried to sell items to the customers, and Ren could feel their emotions starting to fray at the hectic pace the customers were pushing them to.
+
+Ren didn't like that, so he held his hands about a foot apart, then slammed his hands together in a very loud clap. Women screamed and men hollered as the sound assaulted their ears, and they all stopped what they were doing and turned to look at him.
+
+“You are all behaving horrendously to the people running this business.” Ren said. “Firstly, there's too many of you in here for their own safety. If a fire broke out, most of you would die.”
+
+The women caught their breaths at the thought, and the men kind of dismissed it.
+
+“Secondly, you can't honestly think they can get you what you need and be satisfied if everyone is yelling at these harried women?” Ren asked and motioned to the workers. “Look at them! They're exhausted! You've done this to them!”
+
+The women and some of the men looked at the sales girls and saw their dishevelled states and unhappy faces behind fake smiles.
+
+“I own this business, and I know you are all desperate to get the items you need.” Ren said. “So, I'm ordering my employees to go upstairs and sleep for an hour, and I will fill your orders.”
+
+They all turned and looked at him in disbelief, and he chuckled.
+
+“Believe me, I can move very fast.” Ren said and walked over to Anabelle. “Take Katie, Holly and Carly upstairs and tuck them into your bed for a nap.” He felt relief from the three women, and a bit of sadness from Anabelle. He knew what was wrong and leaned in close to whisper into her ear. “You can sleep in the bedroom on my bed.”
+
+Anabelle took a quick breath and let it out. “I... I will.” She said. “Thank you.”
+
+“I should have lifted that restriction a long time ago.” Ren said and kissed her cheek. “Now go and get a good night's sleep.”
+
+Anabelle smiled and turned to the other three women. “Nap time! Let's go!”
+
+“Yay!” Holly said and hopped up and down as she moved through the crowd. “I've never had a nap at work before!”
+
+Ren chuckled, and Holly stopped beside him.
+
+“Thanks, boss!” Holly said and kissed his cheek. “I wish you had taken me up on my offer.”
+
+“I'd ruin you for any other man.” Ren said with a huge grin, and she laughed.
+
+“Don't tell such lies.” Holly said and swatted his arm playfully, then left through the back door to go up the stairs to the apartment. Carly walked by and only nodded to him, then Katie stopped beside him and Anabelle.
+
+“He's not lying, is he?” Katie asked her, even though Ren was standing right there.
+
+Anabelle pat the heavily modified Amulet of Truth around her neck and shook her head.
+
+“Now I regret giving in to Holly's ex-boyfriend Walter.” Katie said, and Ren put a hand on her shoulder.
+
+“Please, don't think that what's been stopping me from making a move on you.” Ren said.
+
+“Then what is?” Katie asked, genuinely curious.
+
+“You said I wasn't your type when we first met.” Ren said. “I won't even think of pursuing someone who doesn't want me to.”
+
+“I... well... a woman can change her mind, can't she?”
+
+“Of course she can; but, now it's my decision to make.” Ren said and he felt her disappointment, because she knew what the answer would be. “I'm sorry.”
+
+Katie sighed. “I kind of wanted to be with a Sea Dweller.” She said. “Just to see what it's like.”
+
+“You'll be disappointed if you try that.” Ren chuckled. “It doesn't work like you think.”
+
+“It doesn't?” A woman's voice exclaimed from the crowd, and several people laughed. Katie and Anabelle left through the back door of the shop and went up the stairs, and Ren went to work. He didn't have to move at full speed to serve the customers, but they ended up being astonished anyway. In less than half an hour, he had served everyone in the crowded store and they left as the people who had waited outside came in. Ren served them quickly as well, and in less time than he thought it should have taken, had cleared the shop of customers.
+
+“How's my time, Teepo?” Ren asked as the last customer left and he shut the door behind them.
+
+“You've got an hour or so before supper.” Teepo said.
+
+“That should be plenty of time to get some work done.” Ren said and walked over to Tee-one. “How is everything?”
+
+“I've restocked the shelves of all the sold inventory, and I started making what you wanted.” Tee-one said and held up the empty mold for steel squares.
+
+“That's great!” Ren said and took the mold, then poured some molten metal into it. He absorbed the heat and stored the squares in barely an instant, then did it again and again. He was going to need a lot of them for what he planned to do next.

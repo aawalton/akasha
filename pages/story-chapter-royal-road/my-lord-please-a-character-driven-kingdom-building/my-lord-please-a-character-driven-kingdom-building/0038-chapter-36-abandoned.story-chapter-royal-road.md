@@ -1,0 +1,259 @@
+---
+id: c922b154-924c-543b-83e2-135930afc482
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 Abandoned"
+slug: 0038-chapter-36-abandoned
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 38
+ownLength: 2493
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3297713/chapter-36-abandoned"
+royalRoadId: "3297713"
+---
+
+The western horizon still held the last pale traces of light, though the shadows had begun to gather along the hedgerows and low wooden fences that marked the fields around Ashridge.
+
+It might have made for a serene sight if not for the long hollow note of a distant horn that had pierced the evening air above. The note lingered in the air, thinning as it faded into the distance.
+
+Lucien and Sera remained where they stood, their gazes still turned toward the west.
+
+Cragwatch lay somewhere beyond those hills, its mines carved into the stone ridges that rose above the forest line.
+
+He listened while the silence lengthened across the fields until the horn called again, the note drawn longer this time. The hollow call rolled over the hills before settling over the village like a sudden chill.
+
+Sera’s head had tilted slightly toward the west, her eyes fixed somewhere far beyond the fields where nothing could be seen. The faint tension in her posture tightened further, her shoulders lifting almost imperceptibly as she listened.
+
+The horn sounded several times, and that alone made Lucien uneasy. Repeated calls carried a different meaning on the frontier.
+
+A warning.
+
+Sera reached into the small satchel that hung loosely from her side. A piece of charcoal appeared between her fingers along with the folded scrap of parchment she had begun carrying since Alicia had given it to her during the first days she stayed at the manor.
+
+The soft scratch of charcoal against parchment reached him through the tension, she turned the parchment toward him.
+
+Many.
+
+After studying the word briefly, he gave a faint nod as it matched what he had heard. The first call had been distant enough that he had almost mistaken it for the wind moving through the hills, the second had been clearer.
+
+If more had come before that, then Cragwatch had already been raising the alarm for some time.
+
+Lucien nodded toward the manor, indicating they should move. Sera silently followed as they made their way through Ashridge, which remained blissfully unaware for now.
+
+The silence held for a time before the horn called again, carrying more clearly now. Lucien noticed the change at once.
+
+A farmer standing near a wagon at the edge of the road lifted his head toward the west. A pair of children who had been chasing one another along the path slowed as the distant note reached them.
+
+Further down the slope, a woman paused beside a stack of firewood, her gaze turning uncertainly toward the hills.
+
+The note faded, and no one spoke for several breaths before murmurs began to spread.
+
+Lucien and Sera continued down the road toward the manor as more heads turned westward. The change was subtle but unmistakable. Conversations lowered while movement within the village slowed as people turned their attention toward the hills.
+
+Once more the call of the horn carried across the hills and this time several villagers flinched. An older man near the central well straightened slowly, his expression tightening in a way that suggested recognition.
+
+Sera went still once more, her head turning as the horn’s final echoes faded, her eyes narrowing faintly.
+
+Lucien followed her gaze toward the distant hills. Whatever had happened there had been serious enough to carry its voice across the fields beyond Ashridge.
+
+By the time Lucien and Sera reached the courtyard, men were already gathering beneath the manor steps.
+
+The calm order that usually lingered over the grounds during the evening hours had vanished.
+
+Movement filled the open yard as villagers and militia alike drifted toward the stone steps that led up to the main doors. Some still carried tools from the day’s labor while others had clearly come in haste, coats half fastened as they looked west toward the hills.
+
+A pair of guards stood near the base of the steps, speaking in low voices with several of the militia. The conversation quieted as Lucien approached, their attention shifting almost immediately toward him.
+
+He did not need to ask what had drawn them here, they had likely heard the signal as well.
+
+More men continued to arrive from the lower paths of the village, their steps quick but uncertain as they joined the growing cluster beneath the manor. The mood among them carried an uneasy restraint. No one spoke loudly and voices remained low, as if the call of the horn still lingered somewhere over the fields beyond the village.
+
+Lucien’s gaze moved slowly across the crowd.
+
+Familiar faces stood among the men, farmers who had once taken their turn on the wall during the last Tithe, laborers whose hands knew timber and oak better than spear shafts. A few of the younger militia lingered near the edges of the yard, their eyes drifting repeatedly toward the western edge of the village.
+
+Sera stopped near the edge of the courtyard beside him, head tilted once more, though this time her attention drifted between the gathered men and the darkening horizon beyond the rooftops.
+
+The faint tension that had settled into her posture earlier had not eased. If anything, it seemed to deepen as her gaze flicked briefly toward Lucien.
+
+He noticed the shift at once and adjusted his pace, giving her space as he moved toward the manor steps. Sera followed a half step behind, though her posture remained tight as she passed between them.
+
+Bootsteps approached from the far side of the courtyard.
+
+Dorian emerged from the direction of the barracks with several guards following close behind him, his stride carried a purpose that cut through the murmuring of the crowd.
+
+His expression remained as controlled as ever, though the tightness in his jaw suggested he had drawn the same conclusion Lucien had. He slowed as he reached the base of the steps. “My Lord,” he said, his voice low.
+
+Lucien inclined his head in acknowledgment. “You heard it.”
+
+The captain's jaw tightened further. “More than once.” His eyes shifted briefly toward the western hills before returning to him.
+
+“Cragwatch.”
+
+The word settled between them, lingering in the silence that followed.
+
+He studied him for a moment before he spoke. “How many times?”
+
+Dorian’s brow creased slightly as he considered the question. “Three that I heard, perhaps more before that.”
+
+Lucien glanced toward Sera who had already reached for the same scrap of parchment. She did not write this time, merely showing what she had written previously.
+
+Many.
+
+The captain's eyes flicked briefly toward the parchment before returning to Lucien.
+
+His expression did not change, the girl meant little to him yet, and whatever judgment he held of her, he kept to himself. Instead, his attention remained fixed on Lucien, waiting for his assessment.
+
+Around them, the murmuring in the yard had begun to grow as more villagers gathered near the steps. Several of the men turned west, their expressions uneasy as they listened for another call.
+
+For a time, the yard held an uneasy stillness. Then a shout rose from the direction of the gate, and several heads turned at once.
+
+A rider came into view soon after.
+
+The horse stumbled as it reached the rise beyond the palisade, foam gathering at its mouth as it struggled beneath the weight of a man who looked barely able to remain upright in the saddle.
+
+Even from a distance, the signs of hard travel were unmistakable. Mud clung to the rider’s cloak and the animal’s flanks were streaked dark with sweat despite the cooling evening air.
+
+The rider swayed as the horse slowed near the manor gate.
+
+One of the guards moved forward quickly, catching the reins before the animal could collapse entirely beneath him.
+
+The man in the saddle half fell rather than dismounting.
+
+Several villagers stepped back instinctively as he staggered forward into the courtyard, one hand braced against the side of the horse as though the ground beneath his feet had not yet steadied.
+
+His breathing came in harsh ragged pulls and when he finally lifted his head, his eyes moved quickly across the gathered crowd before settling on Lucien standing at the steps of the manor.
+
+“Cragwatch,” he managed hoarsely.
+
+The single word carried through the courtyard like the echo of the horn itself.
+
+Two guards moved to steady the rider before his legs could give way entirely.
+
+One caught him beneath the arm and guided him toward the steps where Lucien stood waiting. Up close the signs of the journey were impossible to miss, dust and dried mud clung to the folds of his cloak while his boots were darkened with sweat from the horse that had carried him.
+
+Lucien descended the steps before the guards could bring the man the rest of the way.
+
+“Water,” he said quietly.
+
+One of the militia hurried toward the well.
+
+The rider tried to straighten as Lucien approached, though the effort seemed to cost him what little strength he had left. “M—Milord...” the man managed between ragged breaths.
+
+“You rode from Cragwatch?” Lucien asked slowly.
+
+The man gave a weak nod, his breath uneven. “The southern gate...it’s gone.”
+
+A ripple of murmurs moved through the gathered villagers.
+
+Lucien’s expression did not change. “Beasts?”
+
+“They came in waves...” the rider said, voice rough. “Goblins first...then the kobolds after. More than we’ve seen in years.”
+
+The rider swallowed, then forced the words out. “The captain...he’s dead.”
+
+One of the younger militia near the edge of the yard swore quietly beneath his breath.
+
+The murmuring around the courtyard grew louder at that while Dorian’s jaw tightened, though he remained silent.
+
+He waited for the murmurs to pass, letting the exhausted rider catch his breath. “Where is your lord?” he asked at last.
+
+The rider shifted uncomfortably. “Helvarn, Milord...”
+
+Lucien’s eyes narrowed a fraction. “Helvarn?”
+
+“He left before the winter roads turned...”
+
+He studied the man, a sinking weight in his chest. “Then send for him,” he continued. “If Cragwatch has fallen—”
+
+“My Lord.”
+
+The interruption came from the manor steps, he turned inwardly surprised by the rare breach of decorum from the normally polite steward.
+
+Elias had stepped out onto the landing, his expression as composed as ever. “The lord of Cragwatch will not be returning.”
+
+He stilled, his expression hardening. “His settlement has been breached.”
+
+“Yes, My Lord.”
+
+Elias descended the steps slowly. “But frontier lords rarely remain in their villages during the Tithe.”
+
+Sera shifted, her head turned a fraction toward him, her brow tightening faintly.
+
+For a time, Lucien simply stared at Elias. “Rarely,” he repeated, a note of incredulity leaking through. The word sounded fundamentally wrong to his own ears.
+
+“They winter in the cities,” Elias continued. “The settlements are administered by reeves until spring.”
+
+Stillness spread across the courtyard, none of the faces around him seemed surprised by the explanation.
+
+Lucien’s gaze shifted from Elias to the exhausted rider and back again. “You are telling me,” he said slowly, “that the lord responsible for Cragwatch left his village...before the Tithe began.”
+
+The rider lowered his eyes. “Yes...Milord.”
+
+Something tightened across Lucien’s expression, and for a moment, he found himself at a loss for words. The pieces in his mind moved quickly, rearranging themselves into a shape that refused to make sense.
+
+“Then who commands the defense?” he asked at last.
+
+“The captain did...Milord.”
+
+Lucien’s voice dropped. “And the captain is dead.”
+
+“Yes.”
+
+Another silence followed as he looked toward the western hills. When he spoke again, the calm in his voice felt deliberate. “Then the people of Cragwatch were left alone.”
+
+He forced the thought aside and turned his attention back to the rider. “How many remain inside the village?” Lucien asked evenly.
+
+“Hard to say, Milord...” He drew a short breath. “Some fled when the gate broke...others ran for the woods.” He swallowed. “But a lot didn’t make it out in time.”
+
+His gaze dropped. “They barred themselves inside...whole families. They’re still in there.”
+
+The words hung heavily in the evening air as Lucien’s eyes drifted westward again, toward the hills that hid Cragwatch beyond their darkening ridges.
+
+“How long?” he asked, his voice low.
+
+“Not long...a few hours, maybe.”
+
+A quiet murmur spread through the gathered villagers.
+
+The rider continued. “They move through the streets now...not staying in one place. The ones inside...they don’t dare come out.”
+
+One of the guards finally returned with a cup of water. The rider accepted it gratefully, drinking in short desperate pulls before lowering it again.
+
+“The reeve sent me...” he said after clearing his throat. “Said Ashridge might still have men...enough to get people out.”
+
+Lucien did not answer immediately, what he had just heard did not align with what he believed a lord should be.
+
+Elias stood quietly beside Lucien, his hands folded neatly behind his back as he regarded the exhausted messenger. “You were not sent to request the retaking of the settlement,” the steward observed calmly.
+
+“N-no, master...we couldn’t hold the streets. Even with the captain...there were too many.” the rider replied quickly.
+
+His eyes lifted toward Lucien again. “We’re not asking to take it back...just—just help get the survivors out.”
+
+Silence returned to the courtyard as the wind moved faintly through the open yard, stirring loose dust along the packed earth.
+
+Elias spoke again, his tone unchanged. “If Ashridge answers such a request, My Lord, the matter may not end with simple charity.”
+
+Lucien glanced toward him, forcing himself to remain silent as he waited for the steward to finish.
+
+“The settlement of Cragwatch belongs to another house,” Elias continued. “Should its people abandon it under our protection...” He allowed the rest of the thought to linger before finishing it. “It may be interpreted that Ashridge has claimed the village in their lord’s absence.”
+
+‘Claimed?’‘Their lord had abandoned them before the danger even began.’
+
+Several of the older villagers shifted uneasily at that, their expressions conflicted. Many likely had kin in Cragwatch. One man rubbed his beard nervously, his eyes drifting toward the western road.
+
+Dorian’s gaze moved briefly between Lucien and Elias but did not interrupt.
+
+The rider looked between them uncertainly, as though the politics of the matter had never crossed his mind. “My Lord,” he said quietly, “the reeve just told me to ride...as fast as I could.”
+
+Lucien nodded slowly while beyond the walls of Ashridge the light was fading quickly now, the western sky dimming behind the hills where Cragwatch lay hidden.
+
+Somewhere out there, families were waiting in darkened houses while beasts wandered their streets.
+
+He remained silent for several moments, his gaze lingering on the darkening hills to the west. Then he turned toward the manor. “Bring the rider inside,” he ordered evenly.
+
+The guards moved at once as Lucien paused on the steps and looked once more toward the western hills.
+
+Far in the distance, faint and hollow against the coming night, the horn of Cragwatch sounded again.
+
+The note carried across the fields before fading slowly into the dark ridgeline beyond Ashridge.

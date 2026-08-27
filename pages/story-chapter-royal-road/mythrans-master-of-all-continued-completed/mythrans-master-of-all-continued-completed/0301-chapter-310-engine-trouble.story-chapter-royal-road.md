@@ -1,0 +1,327 @@
+---
+id: 5edae645-1eda-58cc-aa45-5beed342ef21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 310 - Engine Trouble"
+slug: 0301-chapter-310-engine-trouble
+partOf: mythrans-master-of-all-continued-completed
+position: 301
+ownLength: 3749
+unit: words
+publishedAt: 2017-07-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149260/chapter-310-engine-trouble"
+royalRoadId: "149260"
+---
+
+Andrela laid beside Ren with her hand on his chest, and she let his feeling of relaxation fill her. Sharing Auras was new and exciting, and she couldn't understand why Ren had no problem with kissing her hand like he did. She knew that he wasn't from her culture, and she also knew that he understood what the gesture meant; but, he had done it anyway and she couldn't figure out if he did it intentionally or not.
+
+At the moment, with skin contact, she had a much more direct connection with him and his feelings than the others did. Andrela didn't know why skin contact made everything clearer, only that it did; and she used that knowledge to her advantage. She could tell that he felt guilty for relaxing, even though he desperately needed it. She thought that he just didn't believe that he should be sitting here doing nothing when he could be doing a lot of other things.
+
+Andrela imagined what some of those other things might be; but, she controlled her thoughts so she wouldn't go where Frikara automatically went with her thoughts. She smiled as she drifted through Ren's sea of emotions for almost 10 minutes before she felt it change from relaxation to determination.
+
+*
+
+Ren had relaxed for about 10 minutes after Teepo had left the second time, then decided he needed to get to the engine room. It wasn't really his job to police the crew of the ship, because that was the captain's job; but, he also couldn't let the dwarf in the engine room continue to abuse his work crew.
+
+Ren opened his eyes and pat Andrela's hand with his own, and she moved it away. Once again, when he thought she would have dragged her hand across his skin to try and touch him for as long as she could, she surprised him by lifting it and pulling it away instead. He looked at her face and saw a smile there, so he knew that she understood why he was surprised. He reached out and took her hand, gave it a squeeze, then let it go and stood up.
+
+“I have to go.” Ren said to his personal maids.
+
+“We know.” Frikara said. “We can all feel your determination.”
+
+“Thank you all for spending this time with me.” Ren said. “Please feel free to stay and relax. This is a part of the main cabin now, and you can come here whenever you want.”
+
+“Thank you.” Navruth said. “You really didn't have to do this.”
+
+“I know I didn't have to.” Ren said. “But, once I got the idea in my head...”
+
+“...you had to at least try it.” Lusinia said and looked around. “It came out really well. We can barely tell we're on a ship.”
+
+“That's what I was going for.” Ren said. “The big table there is so we can have a nice sit-down dinner, instead of eating on the bed.”
+
+“Aw. I liked that part.” Frikara said and looked at the other maids. “We all did, didn't we?”
+
+A distinct feeling of agreement flowed into the shared Aura and Ren smiled.
+
+“I didn't say we'd always eat at the table.” Ren said. “Just that we could.” He equipped his Travelling Clothes and put on the Dire Wolf Hooded Cloak, then walked over to the door. “I'll be back later to make supper.” He said and opened the door. “Lock this behind me. I don't want anyone walking in on you.”
+
+*
+
+The maids waved to Ren as he left the room.
+
+“So, should we just refuse to eat at the table?” Navruth asked as she locked the door like Ren said. “I really did like hand-feeding him.”
+
+Frikara laughed. “We can't hand-feed him all the time.” She said. “He'd get sick of it pretty fast.”
+
+“I wouldn't get sick of it.” Lusinia said. “When I almost dropped some of the food and he caught it in his mouth and sucked on my fingers... it was... it was almost like he was...”
+
+“...sucking on something else.” Frikara said, and shivered slightly.
+
+“Frikara!” The maids said as her shiver of remembered pleasure went through the Aura.
+
+“Sorry.” Frikara said and smiled.
+
+*
+
+Ren felt the shiver go through the Aura and he chuckled. I wonder what they're talking about?
+
+“What else?” Teepo asked as he flew back to Ren and landed on his shoulder. “You, of course.”
+
+How would you know that? Ren asked his friend. You weren't there to hear them talking just now.
+
+“I don't have to be there.” Teepo chittered in laughter. “They always talk about you.”
+
+Oh. Ren thought, then went out onto the deck to look for the captain.
+
+“I still couldn't find anyone else.” Teepo said. “Of course, I couldn't tap on things and see if anything tapped back in my astral form.”
+
+I could give you your physical body if you want. Ren said.
+
+“Not yet.” Teepo said. “I'm too useful while I'm invisible right now.”
+
+Ren nodded. Where's the captain?
+
+“Steering the ship on the back deck.” Teepo said and Ren turned around to look at the back of the ship. Up on the high raised platform on the back deck, was the large wooden steering wheel that controlled the rudder of the ship. The short captain stood behind in on a wooden box to give himself enough height to see over the steering wheel. Ren walked at a sedate pace across the main deck to the half-stairway half-ladder that led up to the back deck.
+
+“You finally decided to grace us with your presence.” The short captain said snidely.
+
+“I figured you needed to see me at least once more during this trip.” Ren said, and the captain didn't detect any kind of lie. He looked at Ren, but kept steering the ship even though his head wasn't facing forward.
+
+“You're serious.” The short captain said, and Ren nodded slightly.
+
+“I don't have any problem with staying out of the way.” Ren said. “I don't know how to sail a ship, and I know how much dwarves like unwanted help.”
+
+The short captain snorted a laugh.
+
+“I just wanted to let you know that there's an extra passenger somewhere on the ship.” Ren said.
+
+“There's a WHAT?!?” The short captain shouted. “We have a stowaway?!?”
+
+“According to the info I have as the owner.” Ren said. “I've had two searches done on the ship already, and I can't find them.”
+
+How did he do that? The short captain asked himself. He's only left his cabin to go to the cargo hold.
+
+“I don't know if you want to make a search for yourself, though.” Ren said. “If you do, you are not allowed to search my cabin, the cabin on the right of that, or the cabin beside that.”
+
+“Excuse me?”
+
+“I've joined them together to make one large cabin.” Ren said. “My personal maids needed more space, and they will not be disturbed.”
+
+The captain looked like he was going to argue about not having access to all parts of the ship like any captain was supposed to, and Ren held a hand up to stop him.
+
+“This isn't a debate or an issue to be argued.” Ren said. “This is my ship and I will do what I want with it.”
+
+The short captain clamped his mouth shut on his hot retort, mainly because this was the biggest ship in the entire dwarf kingdom, and in some of the other kingdoms, too. The last thing he wanted was to lose such a well-paying and prominent job.
+
+“I'm heading down to the engine room to take a look.” Ren said. “I've been meaning to do it for a while, and now that I have the spare time, I'm going to indulge my curiosity a little.”
+
+“Be careful of Smeg, then. He hates slackers.”
+
+“I was going to mention that to you.” Ren said. “I heard he abuses his workers.”
+
+“Only when they make mistakes... or don't follow orders... or when he's in a bad mood.” The short captain said and smiled.
+
+“And you aren't going to do anything about it?”
+
+The short captain shrugged. “He keeps the engine running and maintains the ship.” He said. “Any of the workers can leave the job and do something else; but, it's an easier job than a deckhand, pays more, and you have more free time.” He smiled. “The boots to the backside are just perks for Smeg, while the workers have an easier time than everyone else on the ship.”
+
+Ren nodded slightly, now that he realized that the captain only wanted results and it didn't matter to him if the people under him were being mistreated at all as long as the work was being done.
+
+“Good day, captain.” Ren said and walked over to the stairs to go down to the main deck. The captain turned to a dwarf off to the side, nodded slightly to him, and gave him two hand signals. The dwarf slipped over the side of the ship and slid down a rope to one of the portholes in the engine room. He knocked twice, and the porthole opened.
+
+“Owner's coming for a visit in 2 minutes.” He told the worker on the other side. “Captain says 'best behavior or else'.”
+
+The worker nodded, closed the porthole, and turned to the other workers to relay the message.
+
+“By the gods!” Smeg said and kicked the closest dwarf in the butt, who slid several feet and into another worker, who caught him. “Clean up! Get the tools stored! Go! Go! GO!”
+
+*
+
+Ren went along the deck to get to one of the stairways to go down to the engine room. There were only two sets of stairs for that, and Ren wondered if one was for going in, and if the other was for going out. He had seen some ships on television where that was the way it was; all up traffic for one side and all down traffic for another. That way, if there was ever an emergency, there was never any confusion about which stairway to use.
+
+Ren picked the right side staircase because that was closest one to where he stood, and went down it. At the bottom he found a small anteroom, and he turned to look at the stairways. One was clearly marked with an UP arrow, and the other with a DOWN arrow. He smiled because he had guessed right and had used the DOWN stairway. He turned back to the other side and saw the large doorway.
+
+It almost looks like a safe. Ren thought and looked at the bar-like handle. It didn't have any kind of keyhole or anything, so Ren stepped close and reached out... then froze. That could have been a really stupid mistake. He thought and stepped back, then used Enchanted Eyes. The handle glowed with some kind of enchantment; but, the door itself looked clear. Ren knocked on the door a couple of times, and the handle stopped glowing and turned. The door opened and Ren stepped back again.
+
+“Welcome to the engine room.” One of the workers said and motioned into the room.
+
+“Thank you.” Ren said and stepped by him. Inside were several racks of different kinds of tools; some he recognized, and some he didn't. He walked over to the racks and used Identify, then examined them closely. He got several new patterns for wrenches, pry-bars, screwdrivers, and a few other things he had never seen before in the game.
+
+“You like tools, do you?” A scraggly-looking dwarf asked as he came over to Ren.
+
+“Very much.” Ren said. “It's always a good idea to have access to as many tools as possible, because you never know what could be useful until you need it.”
+
+“That's my belief, too.” Smeg said. “You wanted to see the engine?”
+
+Ren nodded slightly.
+
+“This way.” Smeg said and took Ren through the main room and into a much smaller space. There was an indentation in the floor about 10 feet square, and nothing else.
+
+“It's underneath the ship?” Ren asked, and Smeg nodded slightly.
+
+“It drops down into the water when we want to use it.” Smeg said. “I assume you know it's enchanted.”
+
+Ren nodded slightly. “I heard the crafting section of the Garrison was working on one that could use multiple enchantments.”
+
+“Ha!” Smeg said. “I wish them good luck with that.” He said. “It's difficult enough to enchant it once.”
+
+Ren smiled. “What is it enchanted with?”
+
+“An ancient Dwarven Rune.”
+
+“Can I see it?” Ren asked, and Smeg shook his head.
+
+“It's in operation right now. We can't disengage it until we're planning to stop. It takes several hours to start it up again and get it back up to speed.”
+
+“Why so long?”
+
+“It's the size of the ship.” Smeg said. “It takes a lot more to charge it up than a smaller ship does.” He said. “Plus, this one has been modified to add more power.”
+
+“I came down here to examine the engine.” Ren said. “Turn it off and bring it up. I want to see it.”
+
+“I'll have to talk to-”
+
+“Me.” Ren said. “This is my ship. You all work for me. Stop the engine and raise it.”
+
+Smeg looked over to one of the workers, who ran out of the engine room.
+
+“Okay, I'll wait for the captain to get here.” Ren said. “Then you'll show it to me.”
+
+*
+
+“Captain!” The engine room worker nearly yelled. “He wants to see the engine!”
+
+“Then show it to him.”
+
+“It's in use.” The worker said. “The ship will lose nearly all of it's manoeuvrability.”
+
+The captain sighed. “Fine, I'll talk to him.”
+
+*
+
+Ren waited patiently for the captain to arrive and by the look on his face, he didn't want to be there.
+
+“We can't leave the ship unable to move.” The short captain said. “We'll be sitting ducks.”
+
+“Sitting ducks for what?” Ren asked.
+
+“Everything in the water.” The short captain said. “You have no idea what's underneath us.”
+
+“Then give me an idea.” Ren said.
+
+“Join me for supper, and I'll tell you all the tales I know.”
+
+Ren shook his head. “That's not what I asked for.” He said. “Tell me what to expect if I bring the ship to a stop.”
+
+“You're still going to, even knowing there are creatures that can tear the ship apart?”
+
+“You haven't told me that until just now.” Ren said. “Is there an island nearby? We don't have to stop in open waters if we don't have to.”
+
+“We don't have to stop at all!” Smeg said. “Captain, you know it'll take hours to get going again if we do!”
+
+The short captain looked at Ren. “I don't think he cares about losing a few hours on this trip.”
+
+“I don't.” Ren said. “This isn't a shipping run. It's the first voyage. We don't have a set schedule, or a deadline, or any actual plans besides going to Aurora.”
+
+“What do you want me to do?” The short captain asked Ren.
+
+“Where's the closest piece of land?”
+
+“A couple of miles south.”
+
+“Captain...” Smeg started to say, and the captain waved him to silence.
+
+“We can be there in a few minutes.” The short captains said.
+
+“Make it so.” Ren said.
+
+*
+
+The captain left the engine room to go back to the steering wheel, and he set course for land.
+
+“Captain!” Grint, the dwarf in the crow's nest peeked out from the scout's perch. “You can't be serious!”
+
+“Owner's orders.” The short captain said.
+
+“Is he an idiot?” Grint asked. “That's Shoal Island!”
+
+The short captain shrugged as the ship moved into one of the large bays. “I probably should have mentioned that.” He whispered and brought the ship to a stop.
+
+*
+
+“We've stopped.” Ren said. “Raise the engine, please.”
+
+Smeg nodded to two of the workers, and they manned a large crank. They started to turn it, and the 10 foot square indentation in the floor opened up; then a large metallic box was raised out of the floor. Cold water sloshed over the floor and covered everyone's feet, and then the engine stopped moving when the crank stopped turning.
+
+“It's just a metal box?” Ren asked, and looked at the front. He saw the end of a cylinder that glowed, and blackness. He went around the other side, and saw a similar cylinder, but it didn't glow. “Where's the Dwarven Rune?”
+
+“It's on the front of the engine.” Smeg said.
+
+“I can't see it.” Ren said and stood up. “Open it.”
+
+“I'm sorry, I can't do that.” Smeg said. “It's a trade-”
+
+Ren switched to his Command Aura and cut off Smeg's words. “This is my engine. Open it. Now.”
+
+Smeg looked at him with a worried expression, and one of the workers held out a wrench Ren hadn't seen before. It glowed brightly, but he couldn't read the enchantment on it. Smeg grabbed the wrench with an angry expression, then looked down at the engine.
+
+Ren didn't need to share an Aura with Smeg to see how reluctant he was to open it. He looked at Ren for a moment, then bent down and tapped the top of the metal box. The four corners folded up to reveal hidden bolts, and Smeg used the wrench to unscrew them. When the last bolt was removed, he lifted the cover to reveal a metal box full of water.
+
+Ren looked into the water and could see the front and back cylinders were about 3 feet long, which left a space of about 4 feet between their ends. He looked at the glowing front cylinder, and saw the ancient Dwarven Rune.
+
+Notice!
+
+You have learned a new Dwarven Rune: Water Funnel. This rune, when enchanted on an appropriately shaped object, will suck in a large amount of water on one end, compress it, and expel it out the other end.
+
+“The water should funnel straight through.” Ren said. “Why aren't the pipes connected?”
+
+“They are connected.” One of the workers said, and reached into the tank and pulled out a cork from the bottom. “With the ship so big and heavy, we needed an extra booster.”
+
+“What do you mean, an extra boos-” Ren stopped talking as the water drained away to reveal something he never would have expected.
+
+It was a young water elemental.
+
+Ren knew that was what it was, because the leg and head stubs were identical to Zetaya's, his young fire elemental. The water elemental was about 4 feet long, the front enchanted pipe was jammed into the head stub, and the other pipe was stuck into... a part he refused to think about. He reached out and grabbed Smeg by the neck and squeezed.
+
+“You're using a living being as an engine component?!?” Ren exclaimed, and he automatically connected his Screaming Terror enchantment to his Command Aura. It normally wouldn't work; but since it was tainted with Fear, it counted as a similar effect. Everyone within his Aura froze stiff from Terror, and Ren's cold anger filled it. No one spoke.
+
+Ren fought not to crush the dwarf's throat to snap his neck. “How long?” He asked Smeg. “How long has it been like this?”
+
+Smeg didn't speak as he tried to pry off Ren's hands.
+
+“Since... about a week... before we left.” One of the workers managed to say through his Terror. “We... we just... finished the modifications.”
+
+“By the gods.” Ren said and lifted Smeg up. “Disconnect it!”
+
+“We... need the engine...” The worker said, and Ren turned on him.
+
+“What did you say?!?”
+
+“It's connected... through the... enchantment.” The worker said. “It can't... cant be...”
+
+“He's... right.” Smeg said. “It'll die... if you...”
+
+“I will NOT have this abomination continue!” Ren nearly yelled. “I will rip the engine from the floor before I leave a water elemental inside of it!”
+
+“We'll be... stranded.” The worker said.
+
+“Do any of you have even a trace of Honor?” Ren asked them. Smeg's face was turning a dark red, and Ren scoffed at him. “You're a piece of scum!” He said. “I thought your behavior towards your workers was uncalled for, but this...” He shook his head. “I'm placing you all under arrest.”
+
+“What?”
+
+“For crimes against another species, entrapment, imprisonment, torture, cruelty, and anything else I can think of.” Ren said and tossed Smeg across the room to land on several workers that were trying to leave through the large door. They were starting to work through the Terror, and Ren didn't want any of them to get away.
+
+“You're all going to pay for this.” He said and knelt by the water elemental, then reached a hand out. He touched the glowing front pipe and used his Retain Essence ability to store the enchantment. The water elemental's head stub slid off of the cylinder, but it didn't reform and smooth itself out. Even the currents that should have been moving furiously through it's body, barely made any ripples at all.
+
+“You poor thing.” Ren said and picked it up to dislodge it from the other pipe that held it in place. It's limbs flopped around and it couldn't even move on it's own. He hugged the 4 foot long water elemental close and pet it's distorted head stub, then he heard a trickling stream that almost sounded like it was crying. Tears came to Ren's eyes and he held it gently.
+
+“I am so sorry.” Ren said, and his tears fell into the water elemental. “Don't worry, though. I'll deal with them for you.”
+
+A bubbling brook could be heard, and Ren smiled.
+
+“That's right.” Ren said. “I'll keep them prisoner until I find another one of your kind; then I'll hand them over, and we'll see how much they're going to regret doing this to you.”
+
+The water elemental's distorted head stub rubbed against Ren's cheek and sucked up his tears greedily. Ren leaned his head down and let it take as much as it wanted for its last meal, and he heard a building wave. He let more tears escape, and the water elemental shivered several times; then the sound of a wave hitting the shore could be heard.
+
+“Goodbye.” Ren said.
+
+The water elemental stopped moving a moment later, then it dissolved into sea foam and disappeared.

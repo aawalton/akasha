@@ -1,0 +1,303 @@
+---
+id: 4469ded3-1088-5873-9904-9e936ad120a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 354 - A New Way"
+slug: 0347-chapter-354-a-new-way
+partOf: mythrans-master-of-all-continued-completed
+position: 347
+ownLength: 3909
+unit: words
+publishedAt: 2017-09-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160338/chapter-354-a-new-way"
+royalRoadId: "160338"
+---
+
+“What in the blue blazing hell is that?!?” Fern exclaimed.
+
+“Hopefully something that works like a charm.” Ren said. “I've never driven it before, though.”
+
+“You drive it?!?” Fern asked. “How? I don't see a horse to pull it.”
+
+Ren was tempted to say that they were inside, but didn't want to get into a conversation that could be full of misunderstandings.
+
+“It runs on people power.” Ren said and climbed onto it and sat on the seat. He put his feet on the pedals and started to pedal. He didn't do it too much, because he was wearing his armor and he wasn't quite used to using it in normal situations like this. He thought about storing it and equipping his Travelling Clothes, but decided that he'd rather keep the protection and bonuses it gave instead.
+
+Ren looked at the levers for the attachments. He needed the harvester in the front so he pulled that lever and the big thresher wheel slid down into place. He looked at the other levers and figured he might as well seed while he was at it and pulled that lever, too. The large rake in the back dropped down on the farm vehicle, then Ren used the seed spreader lever which dropped a spinning thing down behind the rake. There was a container on the back for seeds, and Ren looked at Fern and Russell.
+
+“Before I start this, I assume you have bags of seeds I can use.”
+
+“Seeds? While you harvest?” Fern asked. “Are you crazy?”
+
+Ren chuckled. “I'm going to harvest and rake at the same time, so why not seed, too?”
+
+“Russell? Go grab a bag of seed for this nut.” Fern said. Russell nodded and took off at a run. While they waited, Ren thought about irrigation and looked around. He couldn't see anything at all for water distribution, and knew he was going to have to change that. For now, though; he took out several steel squares and enchanted them with a glyph of one Water and one Wind rune, and placed them on the back of the farm vehicle.
+
+Teepo? Where's Russell?
+
+“He's about 20 straw and mud houses in.” Teepo said. “I don't know how the villagers tell the difference between the buildings, since they are all pretty much the same; but, I think... yes, here he comes with a large bag of seeds. It must be a storage area or something.”
+
+Ren stood up and waited for Russell to come over with the big bag of seeds. He took it from the boy and dumped the whole bag into the seed container, then passed the empty bag back to Russell and looked at the boy's boots.
+
+“Can I see your boots for a minute?” Ren asked Russell, and the boy shrugged and slipped the boots off. Ren examined them and saw they weren't much better than socks, and shook his head. “You need better footwear if you're going to be my official helper.”
+
+“I do?” Russell asked, then his eyes widened. “Did you say helper?”
+
+“You've helped me out a lot today, didn't you?” Ren asked.
+
+Russell nodded. “It was fun, too.” He said. “We helped so many people!”
+
+Ren smiled and took out the table he had. It was the council's old rickety table, and he chuckled. “I forgot I gave my table to the council.” He said, then made another one right in front of them. It only took a couple of minutes, and Ren took out some Spider Silk cloth and sewed up a pair of boots, with an extra thick layer for the soles. He activated his Craft Wondrous Item ability, and the 1 foot square golden platform appeared. He put the Spider Silk Boots on it and chose the Boots of Striding and Leaping recipe. They glowed for 30 seconds, and Ren picked them up to examine them as the platform disappeared.
+
+Spider Silk Boots of Striding and Leaping
+
+Normally, these boots only grant a run speed increase of 25%, but due to the high Durability and quality of the boots used, it grants 50% to their run speed instead. The wearer can also jump 2 times their improved jump distance instead of 2 times their normal distance.
+
+“There we go.” Ren said and held the boots out to Russell.
+
+Both Russell and Fern stood there with their mouths open in shock. They had watched Ren work and it was interesting, but when the glowing platform had appeared out of nowhere, it kind of blew their minds.
+
+“Russell? You can have these.” Ren said and shook the boots in front of the boy's face. “Russell?”
+
+The boy didn't react at all, and Ren cupped the boy's hands together and put the boots on them. Ren walked over to the farm vehicle and climbed on, then pulled up the levers for seeding and raking. He wouldn't need them until he got the vehicle onto the field, grabbed the left and right movement levers, and hit the spring release mechanism. The farm vehicle jumped forward and cut a 10 foot wide path in the wheat. Ren pulled back on both movement levers a little to slow down.
+
+“Wow! This is really weird!” Ren said and the farm vehicle lurched to the side and he pulled back on the wrong lever and turned to the right instead of staying straight to compensate for the lurch. “Oops!” He said and started to laugh as he tried to compensate for his mistake again and turned the farm vehicle all the way around instead. “Damn, this is hard to get the hang of!”
+
+Fern and Russell watched wordlessly as Ren cut a very crooked and twisted path through the wheat. It took a while for Ren to figure out that he didn't have to try and steer the thing all the time; all he had to do was guide where it went... very, very carefully.
+
+“I think... I think I got it.” Ren said as he finally got the farm vehicle back over to where he had started and lined it up with the side of the field and came to a stop. He let the system highlight the edge of the field he had to harvest, pushed the movement levers forward a little, and then the farm vehicle ran out of spring power. He pedalled a lot to charge it up again, and hit the release. Ren had both left and right levers back all the way, so it didn't move at all, and pulled the rake and seeder levers to put them into place. It was then he remembered the seeds needed to be covered for them to work; so he pulled the tiller lever and the attachment dropped in behind the seeder.
+
+“Here we go!” Ren said and eased both right and left movement levers forward at the same time. The farm vehicle jumped forward and pulled in stalks of wheat, raked the ground behind the farm vehicle, and tossed seeds out as it tilled the ground. He activated the Water enchantments on the back of the vehicle to irrigate the seeds, and he started to drift to the left. Ren eased off the right lever a tiny little bit and straightened out his path and came to a stop again.
+
+Notice!
+
+You have unlocked new skills:
+
+Raking Level 1 (Beginner 0%). This sub skill under Farming is used to rake the ground for applying seeds. Higher levels will allow faster raking and will increase the yield of planted crops.
+
+Seeding Level 1 (Beginner 0%). This sub skill under Farming is used to seed crops. Higher levels will allow faster seeding and higher quality crops to be gathered.
+
+Tilling Level 1 (Beginner 0%). This sub skill under Farming is used to til the soil. Higher levels will allow faster planting and will increase the yield of planted crops.
+
+“Yee-hah!” Ren yelled and started the farm vehicle up again. The thresher worked fine as it gathered up bundles and bundles of wheat every second, cut them off close to the ground, and funnelled them off to the side. It left a long string of wheat in a round pile about a foot thick, in a constant stream behind it as it went. The rake cut up the ground easily, since the farm vehicle was so heavy, the seeder churned out the right amount of seeds, and the tiller buried them a second later.
+
+“It's working!” Ren said. “Ha! Hahahaha!”
+
+Ren didn't try to increase his speed, since he wasn't used to driving the farm vehicle yet; but, he was getting better at controlling it, which built up his confidence. With Teepo keeping an eye out for anything that might be in their path, Ren kept driving.
+
+*
+
+Princess had dropped off the terrified healer where he wanted to go, ran back out of the city of Aurora while avoiding other carts and people, and went to the dock to see Tee-one.
+
+“Hi, Princess.” Tee-one said.
+
+Hello, minion. Princess thought to Ren's Dedicated Servant Crafter. My Lord wishes for you to load the glass forge and some sand into my cart.
+
+“Of course, Princess.” Tee-one said. He didn't take offence when Princess called him a minion, since that was essentially what he was. He also knew she didn't mean it in a derogatory manner, since it was just a description. It would have been just as proper if he'd said 'mount' instead of her name when he talked to her.
+
+Tee-one looked into her saddlebags and saw there was a Haste wand, a helm, and the straps in it. He took them out and stored the glass forge inside. It took up all of the saddlebag's available slots, and Tee-one loaded bags of sand into the cart. He thought about thanking the workers for bagging it up, rather than just leaving the sand in a pile on the floor, then shrugged and kept working. If it came up in conversation, he would thank them for it; but, it wasn't a priority at the moment.
+
+He wants you to tell Janice to come with me. Princess said when Tee-one finished loading as much sand into the cart as he could.
+
+“What about her house?” Tee-one asked.
+
+He said he would pick it up later, since neither of us can carry it. Princess said. He said Janice will be too busy to think about the house for a while.
+
+Tee-one chuckled. “His first lesson in glassblowing is this afternoon, too.” He said and climbed into the driver's seat. “Take me to the house, please.”
+
+Princess only trotted, since she had a lot of weight to haul now and didn't have far to go. They arrived at the house a few minutes later, and Princess asked for some food. Tee-one nodded to her, knocked once on the front door, and went inside. He greeted Railyse, who had looked out of her room to see who it was, then he went into the kitchen and made up several plates of food. He stored them and went upstairs to the guest room, opened the door, and knocked on Janice's front door.
+
+“Yeah, yeah... just second.” Janice said, and opened the door. “AhHH!”
+
+“Hi, Janice.” Tee-one said, and ignored her reaction to seeing him. “Ren would like you to go with Princess to meet him.”
+
+“You... you... you're metal!” Janice said, surprised.
+
+“Yes, I am.” Tee-one said. “Steel, actually.” He said and smiled. “If you'll come with me?”
+
+Janice stared at him for a moment, shook her head a little at the things she'd seen, and stepped out of her house and shut the door. “It's really weird having my house inside another house.” She said and followed Tee-one down the stairs, and then outside. “Hi, Princess.”
+
+Princess huffed to her, then Janice noticed the cart.
+
+“Oh, no.” Janice said. “No no no.”
+
+Tee-one smiled at her and knelt by Princess' side. “It's all right. You'll be riding in the saddle.”
+
+Janice sighed in relief and used the offered knee to climb up onto Princess' back. She started to reach for the reins and Tee-one stopped her with a hand on her knee.
+
+“Don't touch the reins.” Tee-one said. “Princess knows the way.”
+
+“How am I supposed to hold on?”
+
+Tee-one gave Princess a plate of food and took out the straps that were in her saddlebag. He tied them around Princess' chest and handed the ends to Janice. “You can hold on, but it won't affect Princess and how she runs.” He said and held out the Haste wand. “You should take this, too.”
+
+“Do I have to?” Janice asked, and Tee-one gave her the helm. “Oh! Thank you.”
+
+Tee-one smiled again because she had changed her mind so quickly. Janice put on the Helm of the Eagle and held the wand at the ready.
+
+“Don't use the wand until you're out of the city.” Tee-one said and gave Janice three plates of food, then looked at Princess and stored the empty plate. “You're hauling a lot of weight, even with the lightness enchantment.” He pat her neck. “Be careful.”
+
+You're as bad as My Lord. Princess thought in amusement.
+
+“Is everyone ready?” Tee-one asked, and both Princess and Janice nodded. He stepped back out of the way and waved. Princess started out with a slow trot, then picked up a little speed. She couldn't go as fast as she wanted to, because there were too many other people and carts on the street; but, she felt exhilaration when she approached the West Gate.
+
+“You're just itching to go, aren't you?” Janice asked her, and Princess huffed. “Only another few moments...”
+
+They passed the West Gate's opening and Princess started to run. She'd had the load long enough to get a good feel for it, and Janice used the Haste wand on her. Princess felt the energy surge through her, and joy filled her heart as her speed doubled. She dug her hooves into the dirt to push with all her might, and Janice held on to the unleashed speed demon.
+
+*
+
+Ren had passed by Russell and Fern 3 times already, and they were still just standing there and staring at him. He tried not to laugh at the whole situation; but with Teepo laughing on his shoulder every time they passed by the two stunned villagers, he couldn't keep his amusement to himself and laughed, too.
+
+I think I'll try going a little faster now. Ren thought, and pushed both right and left levers up slightly. The farm vehicle picked up speed; but it didn't affect the size of the wheat pile left behind, so he kept the new speed and watched his path carefully.
+
+They passed by Fern and Russell twice more, much faster than before, and they were about a mile away from the middle of the field when Teepo said he spotted a rock not too far away. Ren eased the speed down and came to a stop, deactivated the Water and Wind enchantments on the back, then hopped off the farm vehicle.
+
+Stat Change!
+
+Farming Level 2 (Beginner 0%)
+
+Harvesting Level 2 (Beginner 0%)
+
+Raking Level 2 (Beginner 0%)
+
+Seeding Level 2 (Beginner 0%)
+
+Tilling Level 2 (Beginner 0%)
+
+I'm a little surprised it's only up one level. Ren thought. I just did 4 miles back and forth 6 times, at 10 feet a pass. I thought it would be more at the Beginner level.
+
+“Maybe you're getting less because of how you're doing it.” Teepo suggested wisely.
+
+Actually, yeah; I think that's it. Ren thought. I'm still using a tool, but not quite directly. He walked through the wheat to find the top of a boulder that was about 10 feet around and stuck up from the ground about 3 feet.
+
+“I guess, technically, it's a rock.” Ren said in amusement. “When you said rock, I assumed one about a foot or so big.” He said and held his arms out to show the size he meant. “I wonder how something this big got out in the middle of a field?”
+
+Teepo and Ren looked around, and couldn't see any drag marks or indents to indicate that it was brought here.
+
+“I'll just go around it for now.” Ren said. “If I try to remove it, it might leave a hole that anyone could fall in.”
+
+“Including us.” Teepo said, and Ren nodded.
+
+“I'll come back later and see if I can shift it around, or even break it up and remove it.” Ren said and climbed up on top of it.
+
+“Hey, I see Princess!” Teepo said. “She's coming over the road now.”
+
+Ren jumped off the rock and went to the farm vehicle to store it, then ran over to Fern and told him he was taking a break for a while, possibly for a couple of hours, and looked at Russell.
+
+“Hey, snap out of it.” Ren said and snapped his fingers in front of the boy's face a couple of times. Russell looked at him with wide eyes and then blinked a few times.
+
+“Sorry, mister.”
+
+“It's all right.” Ren said. “Put on your boots and get out of here.” He said. “Tell Patty she wants you.”
+
+“Yes'sir!” Russell said, slipped the boots on, then stood still as a post when he saw what they did.
+
+“I said GIT!” Ren yelled at the boy.
+
+Russell was startled and jumped back about 2 feet. He'd only meant to jump about 6 inches, and he started to laugh.
+
+“Move it! Move it! Move it!” Ren said, and Russell took off at a run. He tripped and stumbled a little; but, he caught himself before he fell and kept laughing. He got his feet moving properly a moment later and ran down the road faster than he ever thought was possible.
+
+“That was a little harsh, wasn't it?” Fern asked. He had been startled at the yell, too.
+
+“You can't let surprising things stop you from acting.” Ren said and turned back to Fern. “Sometimes a good scare is just what people need to get them moving.”
+
+“I don't think I agree with that.” Fern said.
+
+“It got you to react, didn't it?” Ren said and grinned.
+
+Fern frowned at him for a moment, then it changed to a small smile. “Ha.”
+
+Princess came around the corner of the field at a solid run, with Janice on her back and the cart loaded with sand. She slowed down and came to a stop in front of Ren.
+
+“Long time, no see.” Ren said, and got two different reactions. Janice nodded and said it had been a while, and Princess knew he was joking and brayed a little. “Let's go to the main house.” Ren pat her neck and climbed up into the driver's seat of the cart. “See you in a little while, Fern.”
+
+*
+
+“Yeah.” Fern said and waved as Princess took Janice and Ren down the road. He turned and looked at the field and at the trails of wheat bundles. “How the hell am I gonna get them all done up for delivery?”
+
+Fern reached up and scratched the top of his head while he thought about it, and after a few minutes, turned to look at the village.
+
+“FALLA!” Fern yelled, and less than a minute later, Falla came running over to him.
+
+“Yes, Daddy?”
+
+“Go and get your mother... and Nessie... and you might as well tell your friends to come, too.”
+
+“What for?” Falla asked.
+
+Fern pointed at the rows and rows of wheat bundles. “We need a carry train to the storage.”
+
+“Yay!” Falla said. “We can all play together!”
+
+“That's right.” Fern said and smiled. “Now go and get everyone I said.”
+
+“Okay!” Falla said and ran back to the village. She met her friends at the edge of the village and told them they could play carry train, and they split up to tell the other children.
+
+This is going to be an even more fun day than it already is! Falla thought as she ran to get her mother and aunt.
+
+*
+
+Ren, Janice and Princess arrived at the Main House a few minutes later, and Ren hopped down from the cart. He went to Janice and helped her climb down from Princess' back, then unhooked the cart from Princess and stored it. Janice gave him the helm and Haste wand back, and he stored them and untied the straps on Princess.
+
+Ren put the straps in her saddle bag when he transferred the glass forge to his own inventory, then told her to only go 10 miles in each direction if she was going to run. She licked his face and ran off without any burdens on her at all.
+
+“Wow, this place is really nice!” Janice said as she looked at the Main House, then she looked at the 50 houses behind it. “Look at all those houses!” She said. “There's almost as many here as there was where I lived!”
+
+“There's going to be 5 times that many houses going to be built there.” Ren said and pointed at the other subdivisions he'd already prepared.
+
+“You're kidding!” Janice said. “Where are all the people coming from?”
+
+“You saw the village.”
+
+“That was a village?!?” Janice exclaimed. “I thought that's where they kept the animals!”
+
+Ren chuckled. “No, those were the houses.” He said. “I haven't seen where they keep the livestock.”
+
+“Geez! If the houses look like that, I can't imagine what the barns look like!”
+
+“You're assuming that they have barns.” Ren said, and Janice stared at him.
+
+“You're kidding, right?”
+
+Ren shrugged. “I won't know they exist until I see one.” He said. “Anyways, do you want a house among the others, or do you want one across the road?”
+
+“Excuse me?”
+
+“I have to build a glassworks anyways, so I need to know if you want a separate house or do you want to live beside or above it?”
+
+“Are you serious?” Janice asked.
+
+“Sure.” Ren said. “I've only got one glass furnace, though.”
+
+“YOU HAVE A GLASS FURNACE?!?” Janice yelled, and Princess blew a raspberry at her for being so loud when she passed by, and Ren laughed.
+
+“I'm standing right here, you know.” Ren said and stuck a finger in his ear and shook it. “That kinda hurt.”
+
+“I'm sorry.” Janice said. “I was just surprised.”
+
+“I told you I'd take responsibility for costing you your job.” Ren put a hand on her shoulder. “You came with me to start a new life in a new place. You're going to have everything you need to do what you want.”
+
+“Ren... you...” Janice shook her head. “Why are you doing this?”
+
+“What do you mean?”
+
+“I'm nothing to you.” Janice said. “I'm just a waitress you met at a girly bar.”
+
+“There's a very simple explanation for that.”
+
+“What is it?”
+
+“You let me touch your butt.” Ren said and grinned at her, and she laughed.
+
+“It's not that nice of a butt.” Janice said.
+
+“You didn't cry foul, or say I was taking advantage of you, either.” Ren said.
+
+“But...”
+
+“Before you argue that I'd paid you, that happened right after we met and before I tipped you.”
+
+Janice thought back and then her eyes widened. “You're right.” She said. “It was.”
+
+“Hey, I'm always right.” Ren said and she laughed.

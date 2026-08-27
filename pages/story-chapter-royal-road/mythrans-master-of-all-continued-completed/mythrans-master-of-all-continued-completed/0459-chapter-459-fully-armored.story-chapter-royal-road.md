@@ -1,0 +1,315 @@
+---
+id: 6b78dcaa-6345-53b6-8fd9-dfa2ae3e56ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 459 - Fully Armored"
+slug: 0459-chapter-459-fully-armored
+partOf: mythrans-master-of-all-continued-completed
+position: 459
+ownLength: 3267
+unit: words
+publishedAt: 2017-12-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181733/chapter-459-fully-armored"
+royalRoadId: "181733"
+---
+
+Tee-one came back into the large warehouse after completing his task and nodded, and Ren sighed in relief. Tee-one walked over and touched the Hand Of Glory around his neck and gave it the same enchantment to give Ren 250% Regeneration, then he touched his own Amulet of the Spider and enchanted it with the same thing. Ruck came down from the ceiling and Tee-one enchanted his amulet as well.
+
+Ren chose a third satellite smelter and threw in some gold coins, then added an equal amount of molten steel, then picked up the 9 amulet mold and filled it, popped the discs out and filled it again. He made 18 of the Improved Amulet of the Spider, used Double Infusion to add the modified Amulet of Natural Armor, and Tee-one used Double Infusion to add the 250% Regeneration enchantment.
+
+Ren stored the amulets and smiled. “I'll give one of these to Xuunah in the morning.” He said. “For now, let's get this armor enchanted.”
+
+“Have you decided on the breakdown for the remaining runes?” Tee-one asked.
+
+“After the 9 diamonds with Anti-versions of the elements that I can activate when necessary, we've only got just over 12,000 runes left.” Ren chuckled. “What do you think we should do with them?”
+
+“Well, 1000 each for Speed, Protection, Reinforcement, Toughness, and Resist Spell.” Tee-one said. “That's 5,000 right there.” He said. “Warding for Concealment? 100, just in case. You might as well drop 100 runes on it for Stealth bonuses as well, 80 runes for Set Completion, and 25 for Antidark to make it lighter and bypass the heavy restriction... so that's another 305.”
+
+“I know I'm missing something.” Ren said and looked at the level up popup he had with the recipes he had. “Okay, we have to add the Ring of Shielding enchantment, after I add Anti-time runes to it.”
+
+“Anti-time? Really?” Tee-one asked, and Ren shrugged. “Okay.” He said. “I'd suggest 20 of them to reduce it to a 1 minute recharge rate, and the shield will generate automatically when you're attacked.”
+
+Ren made the recipe modification to reduce the time. “You can use Double Infusion and add it to the piece with the Sunder enchantment, and I'll add the enchantment from the Ring of the Ram.” He said and smiled. “Why should Princess have all the fun, right?”
+
+Tee-one chuckled. “That's 100 more runes lost.”
+
+“Let's just drop the rest into Empowerment runes.” Ren said.
+
+“Seriously?” Tee-one asked. “You do realize it increases the effect of an enchantment by 5%, right?”
+
+“Yeah, and with about 5,700 of them to spread over 560 items...”
+
+“That's 10 runes for each piece of armor and for every diamond.” Tee-one said. “Which will give you an extra 50% to all of the enchantments.”
+
+“Yes! It's amazing, isn't it?” Ren laughed. “Not only will the enchanted diamonds give me 10,000 points to each of my stats, the Empowerment will give me another 5,000 on top of that.”
+
+“Holy crap!” Teepo exclaimed, and then chittered in laughter. “All right, you two! Make it! I want it done as soon as possible!”
+
+“Yes, sir!” Ren said and saluted, and he and Tee-one got to work. It took two more hours to enchant everything up properly, with Ren going back through and using Double Infusion to add his own enchantments. “Imagine if I could enchant everything twice.” He said, and looked at the One Wish Ring. No, not for something so petty.
+
+When everything was enchanted, they made it binding and Ren set his name on it... then it was time for the assembly. That took another hour, with having to make sure everything fit and that all the diamonds sat flush with the armor surface. They enchanted the large ruby with 150 runes of Illumination and set it into the middle of the chest plate. Once that was complete, the pieces of the armor just snapped together like Ren had designed it, and he only had to meld the front and back pieces of the armor together with a bit of molten metal.
+
+“It looks incomplete without a helm.” Tee-one said, and Ren pointed to his head. “Yeah, it's not worth trying to remove that, just to make it a part of this.”
+
+“Help me line it with this steel-reinforced cloth.” Ren said and took out the bolt of fabric.
+
+“Why not make another armor bodysuit instead?”
+
+“I'd rather have it on the armor itself. That way, I can just equip the armor and not have to worry about equipping the bodysuit first.”
+
+“I understand.” Tee-one said, and they lined it fairly quickly with the two of them working. With all of Ren's crafting speed bonuses, they were done only 10 minutes later.
+
+“I guess this is it.” Ren said and reached out to touch it so he could equip it.
+
+“Wait!” Teepo said.
+
+“What is it?”
+
+“You forgot to make new boots and gauntlets!”
+
+“Oh, right.” Ren said and took off his boots, popped the diamonds off of them, and tossed the old boots into the giant smelter. He made a new boot design that looked just like the armor, so that each boot ended up with 6 pieces, which meant they needed another 30 diamonds on top of the 6 they already had.
+
+“It just keeps getting better!” Teepo said and chittered in laughter.
+
+Ren opened the old Boots of Striding and Leaping recipe and changed the stats. He added 50 runes of Speed, which added 250% to the normal speed bonus of 50%, and that tripled the normal jump distance. Unlike the other enchantments, it couldn't be moved from one pair of boots to another, since it requires both boots to be worn for the enchantment to work. They put the metal parts of the boots together, lined them with the same steel reinforced cloth, and left off the diamonds.
+
+Tee-one activated the Craft Wondrous Item ability and put the bare boots on the golden platform. It took several minutes for it to finish; but, it was worth the wait.
+
+Platinum Boots of Boundless Strides (Unique)
+
+Normally, these boots only grant a run speed increase of 25%, but due to the high Durability and quality of the boots used and it's Speed Boost, it grants 500% to their run speed instead. The wearer can also jump 10 times their improved jump distance instead of 2 times their normal distance.
+
+Durability: 1500 / 1500
+
+“Add the gems! Add the gems!” Teepo said excitedly.
+
+“We haven't enchanted them yet.” Ren said and enlarged what they needed. “Tee-one, any thoughts on what to add?”
+
+“I'd say add to your stats, but what you're going to get is more than enough.” Tee-one said. “You could add more Speed...”
+
+“Let's add the same things as the main armor, that way I can get away with just wearing the boots most of the time.”
+
+“Okay, then. 1000 each for Speed, Protection, Reinforcement, Toughness, and Resist Spell; 100 each in Warding for Concealment and Stealth, and 25 runes on each boot for Antidark to make them lighter and bypass the heavy restriction again.”
+
+“That leaves 450 runes.”
+
+“We can pump up your Luck with those, since we haven't touched that stat yet.” Tee-one suggested. “Oh, and make them binding and name them.”
+
+“Right, thanks for reminding me.” Ren said and they did the proper enchantments and added the diamonds to the boot parts. When he examined them, he whistled.
+
+Ren's Superior Platinum Boots of Boundless Silent Strides (Singular, Binds on Equip, Cannot be Dropped)
+
+Normally, these boots only grant a run speed increase of 25%, but due to the high Durability and quality of the boots used and it's Enhanced Speed Boost, it grants 5500% to their run speed instead. The wearer can also jump 1000 times their improved jump distance instead of 2 times their normal distance.
+
+Grants: +10,000% Defense to Armor; +5,000% Spell Resistance; +446 Luck, +500% to Hide, +500% to Stealth, Set Completion (+1 to all stats), +5,000% Damage Resistance
+
+Durability: 9,500 / 9,500
+
+“Oh, that's ridiculous.” Ren said and equipped them, and was covered in a slight glow for a few seconds. “I can't believe this is possible.”
+
+“Do the gauntlets next.” Teepo said, and Ren designed the gauntlets. Unlike the rest of the things they made, there were only three spots that diamonds could be inlaid in the surface. On the back of the hand, on the palm, and on the part that covered the wrist.
+
+“Is it worth it to add the diamonds and enchantments?” Ren asked. “I think we're way past the point of diminishing returns.”
+
+“Let's do it anyway.” Tee-one said. “Each finger piece can hold a Set Completion rune, and we can add Anti-dark to make it lighter, then load the diamonds with Luck to make the stat the same as the others.”
+
+“Okay.” Ren said and they made it. Since the pieces were so small, it didn't take long to make and enchant them, then he and Tee-one assembled them. Ren didn't even bother looking at it's stats before he equipped them, since he knew it was going to add was 2700 Luck to his total.
+
+“Put on the rest of the armor!” Teepo nearly yelled in his ear and then took off to hover in front of him. Ren touched the armor and equipped it, then took in a huge breath as he gasped. He was surrounded in a golden glow for a full minute before it faded, and he was almost scared about looking at the armor's stats. He took several breaths as he looked at the form-fitting armor that moved when he moved, which was a lot different from his bulky golden armor.
+
+“Identify.”
+
+Ren's Completely Untouchable Armor of Completion (Singular, Binds on Equip, Cannot be Dropped, Permanent)
+
+This armor is complete and can no longer be modified. No other armor can even come close to it's perfection, and it can't be replaced.
+
+Stats modified when worn:
+
+Strength  15,100  Dexterity  15,100
+
+Vitality  15,100  Agility  15,100
+
+Endurance  15,100  Intelligence  15,100
+
+Luck  100  Wisdom  15,100
+
+Bonuses when worn:
+
+Protection  11,250%  Defense  33,750% to Armor
+
+Spell Resistance  7,500%  Stealth  +750%
+
+Damage Resistance  7,500%  Concealment  +750%
+
+Empowerment  50%  Speed  +7,500%
+
+Reinforcement  +7,500% to Defense  Toughness  +7,500% to Durability
+
+Complete Set Bonus: +100 to all stats, +25% Armor Value, +25% Defense
+
+Normal Information:
+
+This armor has Lightness that grants an 80% reduction to weight and burdens carried, and is less restrictive than regular armor. No movements are hampered, and any penalties to Agility and Dexterity are negated.
+
+Durability: Not Applicable (Maxed)
+
+Notice!
+
+You have a new Aura: Awesomeness (Mastered). This Aura grants anyone within it the Admiration condition. They will fawn over you and fall over themselves just to be near you. Can cast the Charm Person spell for free on anyone within your Aura. Your Personal Aura has also been increased by 150 feet.
+
+“Oh... my... god.” Ren said and dismissed the popup. “S-s-show s-s-status.”
+
+Status
+
+Name  Ren (Neram) Level  140
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000  Honor  250,000 (Untouchable)
+
+Giant Kingdom:  Dark Elven Kingdom (Royal Consort):
+
+Respect  26,000  Influence  1,000,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Unnamed King  +10 Levels to all Auras, you must be acknowledged in some way, grants skill: This Is Mine!
+
+Waterkin  Grants Water Manipulation Skill and Waterkin (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Awesomeness  Grants Admiration, free Charm Person, Personal Aura +150 feet
+
+Health  3,157 (Maxed 99,999)  Mana  3,105 (Maxed 99,999)
+
+Strength  433 (+15,141)  Dexterity  355 (+15,141)
+
+Vitality  370 (+15,141)  Agility  342 (+15,141)
+
+Endurance  345 (+15,141)  Intelligence  338 (+15,446)
+
+Luck  75 (Maxed 1000)  Wisdom  352 (+15,446)
+
+“Good lord.” Ren said and had to sit down again. “This... oh, wow.”
+
+Teepo landed on his shoulder. “Ren! You did it! You maxed your Health, Mana, and Stamina!”
+
+“Teepo... I... I can't wear this.” Ren said.
+
+“Why not?” Teepo said. “You made it. It's all your own skills. It's specifically for you, and there can be only one of them.”
+
+“But... these stats...”
+
+“If you don't like them, you can't pull it apart and redo it.” Teepo said. “It's done and that's that.”
+
+“That's not what I meant.” Ren said. “It's too overpowering!”
+
+“Ren.” Teepo chittered in delight. “That was the whole point.”
+
+“I... well, damn.” Ren said and stood up. “How much time do we have before morning?”
+
+“A little over an hour.” Teepo said.
+
+“That should be plenty of time to make Princess a set of armor, too.”
+
+“But it took nearly all night to make yours.” Teepo said.
+
+“Yeah, but I've got this armor now.” Ren said. “My stats are so high that I don't know what I'm capable of.”
+
+“Well, let's get to work.” Tee-one said.
+
+“You're on enchanting duties.” Ren said and in a flash, drew out a set of armor that had 30 pieces to cover Princess from horn to hoof. The only solid piece he needed was for the saddle, and all the others could move easily. In the next moment, he had 180 small diamonds out on the workbench, then enlarged them.
+
+“I almost couldn't see you move, and I'm on your shoulder!” Teepo chittered in laughter. “That's awesome!”
+
+“You're going to love this, then.” Ren said and poured out the first piece to Princess' armor. He absorbed a bit of heat from it so he could pick it up, then stuck his hands and the piece into the forge and folded it over, squished it together and folded it again. Since he knew the temperature to keep it at to be folded, he did it 50 times and then brought the piece out to hammer on the anvil to finish it, then absorbed the heat from it. He kept doing this, and each piece took less than 2 minutes to make.
+
+When Ren was done with forging all 30 pieces, he started using Double Infusion to finish off the diamond enchantments. They decided to give Princess +3,000 to all of her stats, except for Luck which they only put 100 points in. That left them with almost 6,000 runes in diamonds left to add, and 4,500 runes they could enchant the armor itself with.
+
+They did the same thing with the new armor as they did with Ren's armor and added 1,000 runes each for Speed, Protection, Reinforcement, Toughness, and Resist Spell. Next they added the 100 runes for Warding, 100 runes for Stealth, 25 runes for Antidark to make the armor light, 30 runes for Set Completion, added the Sunder and Shield enchantments, added her name and made it binding, then dropped the rest of the runes into Empowerment. It wasn't quite enough to get the full 50% bonus, so they had to settle for only 47%.
+
+They set the diamonds into the metal, making sure to spread everything out. While Tee-one assembled the armor, Ren made a new set of Legendary Hooves of Speed after adding Speed runes to the recipe, then he added the Horseshoes of Speed to the bottom of them.
+
+“You thought she could run fast before.” Ren said and held up the new version of her footwear made of platinum. “She's going to love this.”
+
+“Maybe.” Teepo said. “It might be too fast, even for her.”
+
+“I can guarantee that she's going to want to try it at full speed.” Ren smiled. “Once, anyways.”
+
+“You should get the Air Walk spell wand ready.” Teepo said. “There's no way... no way at all... that she can run on a normal road if she's wearing them.”
+
+Ren chuckled. “How much time do I have left?”
+
+“The hour ended about 20 minutes ago.” Teepo said.
+
+“What?” Ren reached out and stored Princess' new armor. “I have to go!”
+
+“Where?” Teepo asked.
+
+“I saw in the All-Seeing Mirror last night that there was going to be a big battle at one of the High Elven cities this morning.” Ren said and opened the door to the forge. “Zetaya, it's time.”
+
+Zetaya stepped out of the forge on it's hind legs, and the concrete smouldered under the foot stubs.
+
+Ren heard the sound of a crackling fire, and he smiled. “Hop on.” He said as he turned around, and made sure that all of the Anti-element enchantments were deactivated. Zetaya climbed up onto his back and wrapped it's arm and leg stubs around Ren to hold on.
+
+“I'll be back later.” Ren said and disappeared from sight, then reappeared across the street. He went inside the Main House and woke Princess up, gave her a meal, and ran up the stairs to the bedroom. He went inside and saw that the maids were up and had waited for him.
+
+“Don't get ahead of yourselves and kill them all right away.” Frikara said and stepped close, and rubbed the back of his right hand where the spider and Ghoul Kissed mark was. “Make sure you use your abilities to see if they are fully turned or not.” She said and carefully leaned in to give Ren a kiss on the lips. Zetaya let out a snapping branch sound, and Frikara smiled at the fire elemental. “I love him, so kissing him is okay.”
+
+“We love him, too!” The other maids said and came forward, and each gave him a kiss on the lips as well. Ren felt Zetaya's grip get tighter; but no other branch breaking sound came out of the fire elemental. “I'll see you all when I get back.”
+
+“Good luck, you two!” The maids said at the same time, and Ren thanked them and left the apartment. He walked down the stairs at a normal pace, because he could feel Xuunah come out of her apartment and they met at the bottom.
+
+“Be safe and take care, Ren.” Xuunah said.
+
+“Zetaya's going to be doing all the work; so, I'll keep her safe and take care of her instead.” Ren said and handed Xuunah one of the amulets he had enchanted.
+
+“That's the same thing.” Xuunah said and smiled. “Thank you for the gift.” She said and leaned in close to kiss his cheek. “Don't have too much fun, or scare the locals too much.”
+
+“Oh, they're going to be scared all right.” Ren chuckled. “I want to see their faces when...” He smiled. “...it's going to be fun!”
+
+“Good luck.”
+
+“Thanks.” Ren said and turned to look at Princess. “Have I got a surprise for you.”

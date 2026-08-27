@@ -1,0 +1,289 @@
+---
+id: f6170928-1d19-5845-bada-efe6204a6a48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 512 - High Elven Heretic"
+slug: 0512-chapter-512-high-elven-heretic
+partOf: mythrans-master-of-all-continued-completed
+position: 512
+ownLength: 3176
+unit: words
+publishedAt: 2018-02-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194637/chapter-512-high-elven-heretic"
+royalRoadId: "194637"
+---
+
+Tommy's real life girlfriend Jamie and Clint's date stared at the 4 very relaxed men that were looking up at the ceiling. Clint, Hank, Tommy, and Dillon had smiles on their faces and their private places were completely exposed for all to see.
+
+“Tommy!” Jamie almost yelled. “What the hell is going on here?”
+
+Tommy jumped about a foot up from his seat and looked at his girlfriend. “Ah... um... it's not what it looks like!”
+
+“Really?” Jamie asked and put her hands on her hips. “From what I can see, it looks like you just let Jasmine ride you like a bucking bronco.”
+
+“We all did it!” Tommy said to try and spread the blame around as he did his pants up, and the other guys did up theirs, too. “I mean, she started with me, since I'm usually her regular customer...”
+
+“We've been sittin' here fer abou' an hour, an' none of our dates tha' we came here ta spend time with were aroun'.” Clint said. “Ah'm pretty sure Jasmine made an eksepshun fer us today, 'cause she felt sorry fer us.”
+
+“She did.” Hank said. “She kept saying she'd make us happy, if no one else would.”
+
+“She was so enthusiastic about giving us a fantasy!” Dillon said. “She did such a good job that we all tipped her an extra gold coin each.”
+
+“Did... did you say an extra gold coin each?” Jamie asked.
+
+“Normally you tip a gold coin when... ah...” Tommy started to say, then saw his girlfriend's angry face.
+
+“I only have a handful of silver, and here you are giving away 2 gold!” Jamie said, hotly.
+
+“I tried giving you some, but you wouldn't take it!” Tommy said just as hotly back.
+
+“I want to earn my money, not have it just given to me for no reason, Tommy!”
+
+“It's not for no reason!” Tommy said. “I love you and I want to help you buy better stuff!”
+
+“You love me, and yet you come here and have sex with one, some, or all of the dancers!” Jamie said.
+
+“It's just the one, dammit!” Tommy said. “Not only is it fun, there's no consequences!” He said. “I'm not cheating on you, because I tell you every time I visit, and there's literally no chance that they can get pregnant, because no 'actual' sex is happening!”
+
+Jamie couldn't argue against those points.
+
+“There's no chance to catch any diseases, either.” Hank said, and they all looked at him in surprise. “I'm not saying the girls are dirty here; but, in real life there's no way to know who they've been with or if they might have something that's not diagnosed.” He said. “God only knows what you could catch, and it could take years for something to show up.”
+
+Jamie exchanged a quick glance with Clint's date. It had never occurred to them to ask about things like that before they had spent some quality time with Apple. Some up close and very personal quality time.
+
+“Ah should say tha' ah didn' intend fer our firs' date ta be like this.” Clint said to his date. “Ah figured ah strip dance an' maybe ah show on tha' main stage, which we got, and then we coulda gone somewhere else.” He said. “But ya wen' to tha bathroom afta tha' and didn' come back.”
+
+“Are... are you blaming me?” Clint's date asked, a little incredulous.
+
+“No, ma'am.” Clint shook his head emphatically. “Ah'm jus' sayin' this nigh' is turnin' out all differen' than what ah had hoped, is all.”
+
+“Well...” Clint's date looked around the private booth. “...I think we all have to agree with that.” She said, and then sighed. “What do you say we all forget about what happened here and go somewhere else like you planned?”
+
+“Ah'd like tha'.” Clint said. “Fellas? Whaddaya say?”
+
+“I'd say Hank and I would be third and fourth wheels, unless we can find Candy and Caramel to come with us.” Dillon said.
+
+“We can have a gander aroun' an' see if'n they wanna come with us again.” Clint said.
+
+Hank shook his head. “Nah, I'm good for the night.” He said. “If you could drop me off at your place, I'd appreciate it.”
+
+“Tha's wha' tha spare rooms'er for.” Clint said. “Where ah'd like ta go is near tha ranch anyway.”
+
+“Then I'm going to the ranch, too.” Dillon said. “If we see the girls on the way out, we can let them know.”
+
+Clint, his date, Tommy and his girlfriend Jamie, Hank, and Dillon left the private booth and walked around several tables, then headed for the exit.
+
+“Dillon!” Candy said, and the group came to a stop.
+
+“There you are.” Dillon said.
+
+“I'm sorry I didn't come back right away.” Candy said. “When I did, Jasmine was already busy with you.”
+
+“Then I'm sorry, too.” Dillon said. “It was great and all, but you're the only reason I come here.”
+
+Candy smiled. “I like spending time with you, too.”
+
+“Let Caramel know we left.” Hank said.
+
+“I will.” Candy said.
+
+“So, who was the guy in the Santa suit?” Tommy asked.
+
+“Jennifer didn't know his name.” Candy said. “I teased her about it, and she bit my earlobe.”
+
+“Aw.” Dillon said and gave her a hug, then kissed her earlobe. “Are you coming out to the ranch with us?”
+
+“It's the weekend, so it's our busiest time.” Candy said. “I already pushed my luck today with slacking off and having fun with you.”
+
+Dillon chuckled. “Well, we're sticking around for the whole game week, so I can wait a couple days for you to not be busy.”
+
+“You're so sweet.” Candy said and gave him a kiss. “I'll see you later.”
+
+The group left and went to Clint's mount and cart. They climbed in and drove away, and left the Pleasure Palace and all of it's various temptations behind.
+
+*
+
+Ren, Princess, and Artemis arrived in the High Elven Kingdom, and Ren had Princess stop at the second High Elf city, Wirenth, that he had defeated a ghoul horde in front of. He equipped his platinum armor and took out the enormous cart he had in his inventory and attached it to Princess. He then ran over to the shanty town around the city and found Tanelia Miarora, the female High Elf that he had appointed to run the starter city.
+
+“M'lady.” Ren said, and she turned to look at him.
+
+“M'lord.” Tanelia said. “I assume you're here to ferry us to our new homes, even though it is late at night?”
+
+“I am.” Ren said. “I would have been here yesterday, but I had a slight case of being dead and had to wait.”
+
+Tanelia laughed. “You Adventurers have a strange sense of humor.”
+
+“Hey, you laughed.” Ren said and grinned, and she nodded.
+
+“We have gathered our immediate families and our things already.”
+
+“Excellent.” Ren said. “Do you need help carrying anything?”
+
+“I really shouldn't abuse your generosity by having you be a pack mule.”
+
+Ren grinned. “It's one of my skills.”
+
+Tanelia chuckled. “All right, fine.” She said and pointed to a 20 foot by 20 foot one storey building. “Inside that is a good portion of our personal belongings. If you go inside, it should only take you 20 minutes or so to store-”
+
+Her words were cut off when Ren walked over to the building and stored it.
+
+“What else?” Ren asked.
+
+Tanelia stood there and stared at the spot the building used to be. “You...” She shook her head. “You might as well take that one, too.” She said and pointed to another building of a similar size. “It's our gathered food stores.”
+
+Ren stored it and she saw that he didn't look weakened or tired from the effort.
+
+“I'm going to be completely surprised when I see this city you built, am I not?” Tanelia asked, and Ren nodded. She laughed again and waved to get everyone's attention. “All right, everyone! Climb into Lord Ren's transport! We're leaving!”
+
+There were several shouts of joy and a few of them said that they couldn't believe they were really going on a fool's errand, and that there was no way he could have made an entire city in only a few days.
+
+Ren helped people that needed to be helped, and he could almost feel someone looking at him. He turned around and looked up at the top of the wall, and saw the High Lord of the High Elves and his entourage. Ren raised a hand and waved when he saw Allynna, Yllana's daughter.
+
+The High Lord Alinar Keacaryn raised his hand as if to wave, then he made a fist. A hundred High Elven Archers stepped to the edge of the wall and took aim at Ren, then drew their arrows back and prepared to fire.
+
+“You heretic!” The High Lord said. “I do not know how you have corrupted yourself into a mockery of our most sacred ritual, nor do I care.” He said. “Your very presence is an insult to me personally, and to my people as a whole.”
+
+“What are you talking about?” Ren asked.
+
+“Quiet, you abomination!” The High Lord nearly yelled. “You will leave our lands and never return!”
+
+“I've been trying my best to save your people!” Ren said back. “I've risked myself and my friends by coming here to help you deal with the ghoul hordes!”
+
+“Yes, your deeds in saving my people is exactly what has stopped me from striking you down without warning.” The High Lord said. “The hordes have been quelled sufficiently, and only small outbreaks occur occasionally.”
+
+“Are you happy with that?” Ren asked.
+
+“It doesn't matter what I am 'happy' with.” The High Lord said. “We accepted your help before, because we thought you were just an odd elfling.” He sneered. “Now you are just a sickening wretch that pains my eyes to look at.”
+
+“Should I even ask why?” Ren asked.
+
+“No, because we do not need to explain ourselves to you.”
+
+“Then why are these High Elves okay with me?” Ren asked, and waved to the ones still getting aboard his large cart.
+
+“They are of your ilk now, touched by the corrupted.” The High Lord said. “They can overlook your degenerate state, and pure High Elves cannot.”
+
+“You're awfully full of yourself.” Ren said.
+
+“As are you.” The High Elf countered. “Now leave these lands before I order my troops to open fire.”
+
+Ren looked around to make sure no one was too close, then cast Permanent Enlarge or Reduce Anything on himself 3 times, increasing his size from 4 feet and 7 inches to 9 feet and 2 inches, then to 18 feet and 4 inches, then to 36 feet and 8 inches; which made him 6 feet and 8 inches taller than the outer wall that the High Elf stood on.
+
+“I was too small of a target before.” Humongous Ren said in his normal voice; but, since he was so big, his voice boomed out instead. “This should make it easier for your troops to shoot me.”
+
+The High Lord just stared at him, as did his entourage and the troops under his command.
+
+“Well?” Humongous Ren crossed his arms. “Go ahead and order them to fire.”
+
+The High Lord turned to his head magic user. “Can you knock him out?”
+
+“No.” The head magic user said. “Even if he wasn't covered in massive enchantments and spell protections, just his size alone would give him a natural resistance to any spell.”
+
+“Then what do you suggest?”
+
+“I suggest not firing.” The head magic user said. “The arrows would just bounce off.”
+
+The High Lord sighed. “Then I have no choice.” He said and turned back to Ren. “You are a danger to this land and it's people, therefore I must banish-”
+
+“High Lord!” Allynna exclaimed, and he looked down at her. “May I speak to him?”
+
+“Sir, that is highly inappropriate.” One of his advisors said. “It undermines your authority.”
+
+“My apologies, Advisor Ryul.” Allynna said. “I believe it will increase his authority.”
+
+“How so?”
+
+“If the High Lord's elfling servant can order around an Adventurer of this man's immense strength and deeds, then what will that say of my High Lord?”
+
+Everyone fell silent, and the High Lord smiled.
+
+“High Lord.” Allynna said. “Please call off the archers.”
+
+The High Lord opened his fist at her plea. The archers removed the arrows from their bows and lowered them.
+
+“Thank you, High Lord.” Allynna said and walked over to the edge of the wall to face Ren. “M'lord, may I speak with you?”
+
+“Of course, M'lady.” Humongous Ren said and held a hand up for her, and she climbed onto it. He turned around and moved his hand close to his ear, so she could whisper into it.
+
+“I've talked to my mother.” Allynna whispered. “She really enjoyed your last visit.”
+
+“I assumed so.” Humongous Ren said.
+
+“If you don't go now, you won't be allowed to visit her anymore. She would be very saddened by that.”
+
+“Hm.” Humongous Ren said. “That is true.”
+
+“If it would please you, I will be there tomorrow to visit her.”
+
+“Really?”
+
+Allynna reached out and stroked his ear. “With the main threat of the ghouls removed by your actions, my movement restrictions have been lifted.”
+
+“I hope the High Lord provides you with proper escorts, as is due your station.” Humongous Ren said. “If he does not, I may get... angry.”
+
+Allynna giggled, and Humongous Ren smiled at the sound, and also at the emotions he felt from the High Elves.
+
+“M'lady, if it will make you happy, I will leave and not cause an incident.”
+
+“I would be quite happy, M'lord.”
+
+“Then it will be so.” Humongous Ren said and turned back around and held the hand up to the top of the wall. Allynna climbed off and onto the wall beside the High Lord.
+
+“Upon the advice of your wise and dedicated servant, I will reluctantly withdraw.” Humongous Ren said. “Under one condition.”
+
+“Name it.” The High Lord said.
+
+“Tell me why am I considered an abomination to you now.”
+
+“High Lord, please allow me to answer, so you don't have to speak to him.” Allynna said, and the High Lord nodded.
+
+“You are a False Chosen.” Allynna said. “Great Vasalor only bestows his touch on those born of it, or from the sacred ritual the High Elves perform every 150 years.” She said. “Since the next ritual is not for another 50 years, and you were not born with it because you are an Adventurer, you cannot be a true Vasalor's Chosen.”
+
+Humongous Ren blinked his eyes for a moment, and then he smiled. “M'lady, I thank you for such important information. It could have potentially caused me untold hardship if I had arrived at the High Elven Starter City I constructed in the no man's land between the High Elven and Human kingdoms.”
+
+“You... built an entire city?” Allynna asked, and Humongous Ren felt the shock from the High Elves.
+
+“I had to have somewhere for all the rescued High Elves and elflings to live.” Humongous Ren said. “Since they aren't welcome in their homeland, and would be ostracized in the Human lands, I figured a spot between both kingdoms would be fitting.”
+
+“How did you do that?” One of the High Lord's advisors asked.
+
+“Trade secret.” Humongous Ren said and laughed, and it almost shook the wall the High Elves stood on. “I guess I don't need to show off anymore.” He said and used the Permanent Enlarge or Reduce Anything spell to reduce his size back down to normal. “It looks like everyone's loaded up, so I better go.”
+
+Allynna waved to him, and Ren waved back, then he ran over to Princess.
+
+“You know the drill.” Ren said and scratched her chin, then climbed up onto her saddle. “Let's go.”
+
+Princess trotted up into the air, and the High Elves watched as the normally impossible sight of a tiny mount hauling a gigantic cart with several hundred High Elves, flew away through the sky.
+
+*
+
+Allynna dismissed the Honor gain popup she had received for making Ren leave, because she didn't believe she deserved it. Even though she had asked him to go, he had chosen not to cause any trouble for her. She watched the large cart disappear from sight and smiled.
+
+I will get his story tomorrow. Allynna thought, determined. I must know how he gained that title!
+
+“That was certainly exciting.” One of the advisors said and looked down into the shanty town below. “Most of them have gone with him.” He said. “Even the non-infected ones.”
+
+“Good riddance.” The High Lord said. “Send a squad or two to tear down the shacks.”
+
+The advisor nodded and left the group.
+
+“High Lord.” Allynna said, and he looked at her. “I'm visiting my mother for a few days starting tomorrow.”
+
+“Yes, I know.” The High Lord said. “I've already arranged for a small caravan to leave at first light.”
+
+“Thank you very much, High Lord.” Allynna said and gave him a regal bow.
+
+“Yes, yes.” He said and waved her away. “Go and pack your things.” He said. “The caravan will bring you back to the Spire at home when you are done.”
+
+Allynna nodded and left the group. When she was out of sight, the High Lord turned to one of his advisors.
+
+“Add a squad of archers to the caravan.” The High Lord said. “Just as a precaution.”
+
+“Yes, High Lord.” The advisor nodded and left the group to make the arrangements.
+
+The last thing I want is to give that... being... a reason to come back here. The High Lord thought, then turned and left the spot that one of his advisors had said was going to be a pivotal point in time for him, and possibly for the kingdom as a whole. She was quite right. He thought and walked down the stairs. That could have gone horribly wrong, if I had decided to ignore Allynna. He sighed. Who would have thought that my servant would be the one to put herself at risk for the kingdom in my place?
+
+*
+
+Princess hauled the High Elves across their homeland and to the new High Elven Starter City, and just before they got there, Ren thought about the Vasalor's Chosen title he had and deactivated it's outward effect. He didn't want to deactivate it completely, because he suspected if he did that, he wouldn't be able to turn it back on again.
+
+Ren asked Princess to land inside the city, rather than outside, and she landed in a large area beside one of the apartment buildings. Ren hopped off of her and opened the cart, and started to help people climb out. It was going to take a while, just like loading it did; but, that was okay. He wasn't really in a rush, anyway.

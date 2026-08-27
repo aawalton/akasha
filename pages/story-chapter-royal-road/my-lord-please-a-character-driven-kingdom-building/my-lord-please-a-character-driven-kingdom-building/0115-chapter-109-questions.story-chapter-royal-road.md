@@ -1,0 +1,181 @@
+---
+id: 8dd73d7e-8f9d-5ff4-8af3-fb5a3740c0d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109 Questions"
+slug: 0115-chapter-109-questions
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 115
+ownLength: 2142
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3783531/chapter-109-questions"
+royalRoadId: "3783531"
+---
+
+Lucien looked out into the night from his room's window, enjoying the peace that had settled over the village after the chaotic rush of today.
+
+Dorian had reported earlier that the refugees had been housed after the scribes finished filling out the intake and labor forms. Some of them had to use the temporary shelters in the southern edge of the village because of the lack of space.
+
+Fortunately, those shelters had only been used during the winter, so there had been few complications so far.
+
+Tomorrow, he would have to assign the necessary people to prepare for the next wave of refugees due to arrive within the month as he had agreed with Lord Rathenfell.
+
+Then there was another meeting with Dorian to address the need to increase their guards and militia numbers.
+
+'...Why does it feel like my first days here in this world?'
+
+A quiet creak came from the door behind him.
+
+Lucien let out a breath before turning to face his expected guest.
+
+Talia sneaked through the gap before closing the door as softly as she could.
+
+"...You're doing this on purpose, aren't you? Why does your nightwear keep getting less modest every time I see it?"
+
+A faint flush colored her cheeks as she quickly brought both hands up between them, palms out. "H-hey...it's not my fault that the weather here is so hot during this season. You know I hate getting sweaty, Senior."
+
+"Ugh...I don't suppose we'll ever have the luxury of air conditioners again?" She muttered, moving to sit at the same seat just a few hours ago.
+
+"Not anytime soon, unfortunately. Unless you happen to know how to build a generator?" Lucien replied dryly, about to move to sit across from her when he was reminded of a very important issue.
+
+She tilted her head when he approached her only to let out an eep when he flicked her forehead.
+
+"W-what was that for!?" she protested in a soft voice.
+
+Sitting across from her, Lucien gestured toward the window sill. "Sera's outfit. Did you have to choose something that short? The villagers are going to think I like that sort of thing because of you."
+
+Talia stared at him before she slowly spoke. "Senior...Don't you think it's too late for that now?"
+
+He rested his hands on the table. "No. If there's even a single chance...Sera's the only one that could potentially dispel the rumors about me."
+
+Lucien ignored the look of pity his junior sent him. "And it's more than just my reputation now. Lord Vaelric would be visiting later in the summer and if that man finds out..."
+
+"I will never hear the end of it when he starts lecturing to me about the legacy of House Varentis."
+
+At his words, Talia leaned forward. "Oh? Seems like the meeting went really well. I had expected as much when I read the letter you sent back."
+
+Lucien looked at her for a moment before lowering his gaze to the table. It took some time to explain what had transpired during the meeting.
+
+How Lord Vaelric had been the one to delay the meeting until late spring in preparation for Cragwatch’s resettlement.
+
+And how his own mistake had been treating the meeting as something to overcome rather than a discussion between fellow nobles.
+
+When he mentioned his cloak, Talia's eyes sharpened.
+
+"So your family is a bigger deal than either of us thought...your captain said the cloak was granted to House Varentis by deeds, right?" Talia leaned back in her chair. "To the point that even the current king didn't strip it away after what happened to your..." She flicked two fingers up. "Father."
+
+Lucien shook his head. "We don't know if it is granted by deeds alone or if there is some other requirement. I visited Lord Rathenfell's library on the day before I had to return to Ashridge."
+
+"The king himself is the only one allowed to wear a full red cloak...at least within noble circles. I don't know if that is something the commoners pay much mind to since no one had given mine a glance both in Helvarn or in Ashridge."
+
+Talia let out a soft breath. "I guess we can only pay attention from now on and go from there." She crossed her legs before gesturing toward him. "Anything else you found out from Lord Rathenfell's library? Knowing you, Senior, I bet you spent the entire day there...if not more."
+
+"...I wish I had more than a day." He shook his head. "But let's put that aside for the moment. There's something else during the meeting that would interest you."
+
+At Talia's questioning look, he folded his hands lightly on the table. "Lord Vaelric's reasons for resettling Cragwatch have some merit, Talia. He showed us a piece of black stone. One we are both familiar with to an extent."
+
+Her eyes widened. "...Coal?"
+
+When he inclined his head, she uncrossed her legs and straightened immediately. "You're sure it's definitely coal? And it's from Cragwatch's mines?"
+
+"I doubt there's a reason for him to lie about that. Considering he has placed his house's fortune to resettle a frontier village without the Crown's support." Lucien replied.
+
+Talia tapped her cheek idly, brows creasing. "With coal available...if we can make coke from it...things like water-powered trip hammers, sawmills, and larger furnaces become much more practical. Ashridge's production could increase dramatically."
+
+His eyes narrowed slightly. "Please don't tell me you know how to make coke from it. Limestone is one thing, but the coking process?"
+
+Glancing away, a slight reddish tint grew on her face. "...A bit? I mean, I was curious when I read those books you recommended to me...so that's kinda your fault."
+
+When he continued to stare at her, she let out a soft cough. "A-anyway, I don't remember everything about it, kay? Only the bare details...so we'll have to do a lot of testing. What kinda color did you see from the black stone that Lord Vaelric brought?"
+
+Lucien shook his head. "It was evening so the room was too dark for me to observe closely. Why do you ask?"
+
+She exhaled softly before lifting a finger. "There's a few different types of coal, Senior." Her gaze flicked to him. "Wait...did it have a brownish tint to it? Or is it a little...shiny?"
+
+Rubbing his chin, Lucien's eyes lowered in thought. "I don't think it was either...there was enough light from the candles that I would have noticed a brown tint or any sort of shine. It looked more like a dull black stone than anything else."
+
+"Hmm...probably not lignite then. And if it wasn't particularly shiny, it might be bituminous. It's the most common kind, after all..." her words trailed off as she began muttering under her breath.
+
+She only stopped after noticing the dry look he gave her, coughing softly.
+
+"W-well, not that I know that much about it. It's just basic stuff...yeah!"
+
+Glancing away from him, she twirled her finger around. "I'll need you to help too, kay? Two minds are better than one after all, and we should probably get Joren involved this time." She let out a soft groan. "Maybe some of the charcoal burners too...I guess."
+
+The corner of Lucien's mouth twitched, though it faded quickly when she gave him a suspicious look. "It won't be anytime soon, Talia. Lord Vaelric would need time to resettle Cragwatch first."
+
+When she slouched down in disappointment, he shook his head. "Don't worry, Talia. It won't be as long as you think either. Lord Vaelric was already making preparations during spring by sending men back to clear the debris."
+
+He hesitated briefly, glancing away. "...And I might have also mentioned your name during the meeting."
+
+Talia's eyes narrowed slightly. "Senior...what did you say about me in front of nobles?"
+
+Lucien cleared his throat though he still didn't meet her eyes. "I couldn't exactly come up with a good explanation for why I was interested in coal of all things...so I told them you were passionate about discovering new things."
+
+Her mouth opened briefly before closing again. "...Did you really put it that way? So the regional lord now thinks I'm what? Some sort of eccentric girl who likes strange things now?"
+
+This time, it was Lucien who regarded her with a brow raised. "You do realize that is the sort of reputation you have in the village too, right?"
+
+If not for the need to remain quiet, he suspected she would've already slapped the table in protest.
+
+"That's not the point! Ashridge is still relatively self-contained. If word gets out from Helvarn..."
+
+He did feel slightly guilty...not by much considering what she'd done for his own reputation.
+
+"Lord Rathenfell was already aware of you, Talia. He had actually been meaning to offer a larger storefront in Helvarn if we hadn't met."
+
+Talia's eyes widened briefly before she let out a soft hum. "Hmm...I've heard that he has a habit of doing stuff like that. Not like I'd accept even if we never met anyways."
+
+When he gave her a questioning look, she shook her head. "I was actually planning to travel the inner regions a bit to find out more about this world...not the capital where my family is but the general area near Helvarn."
+
+"There's still so much we don't know. Like what exactly are the Tithes and even about the other races like elves and beastmen."
+
+Talia's words caused the memory of a certain journal to surface unbidden. He leaned forward, steepling his hands.
+
+"There was a particular journal that had caught my attention. It was written by someone named Jasius Rathenfell."
+
+To his mild surprise, recognition dawned on Talia's face. "The founder of House Rathenfell?"
+
+His brow creased. "...He's that well-known?"
+
+Talia shook her head. "It was a name that came up when I was in Helvarn. The people there still talk about him from time to time."
+
+"Makes sense when you consider how rare it is for a settlement to remain standing in the frontier for so long."
+
+Lucien's gaze shifted toward the window. "Yes. Which brings me back to what I had found out. Talia, have you ever wondered why this world calls the yearly incursion of beasts, Beast Tithe?"
+
+For a moment, Talia simply stared at him.
+
+“You mean tithe as in...a portion? Or an offering?” she asked slowly, her fingers tapping against her arm. “Don't tell me you think it has something to do with the behavior of the beasts?”
+
+His eyes returned to her. “I do not know, but the journal had also recorded that the greater the number of people in a settlement, the more beasts would be drawn to its walls.”
+
+Talia rested her chin on her hand. "I had assumed the name Beast Tithe was just a figure of speech..."
+
+Her finger tapped her cheek in thought. "Even the name...it doesn't feel like something the mages came up with in the first place. It's more like something people from long ago decided on, but we don't exactly know how long that is. A few hundred years? Thousands?"
+
+For a time, they both considered the question in silence before Talia ruffled her hair, squeezing her eyes shut.
+
+"Ughhh...Senior let's change topics already. Something with a little less mystery please!"
+
+When Lucien glanced away from her, a look of horror began to dawn on her face.
+
+"...What is it now?"
+
+Lucien exhaled through his nose. "It seems my father's death is suspicious as well and there might be something more to it than what we know so far...but that's something we can leave for another time. It's not something we can do much about from the frontier."
+
+Talia had a look of relief on her face which only faded when she saw him still looking away.
+
+At her pointed stare, Lucien shook his head wryly. "I only found this out today. Sera...it seems we were slightly mistaken about her blessing..." his words trailed off, wondering whether to share something so private.
+
+Talia shook her head. "You don't have to tell me the details. Just give me the broad strokes of it, Senior."
+
+He told her about how Sera got her blessing, leaving out any mention about her father. And more importantly, about how the blessing itself seemed to have changed, adapting in part to the growing number of people and the noise they brought with them.
+
+"So that's why she wrote Better now back then...speaking of which..." she rose from her seat, walking toward his drawer beside his bed to take something from within it.
+
+Lucien's brow creased when she brought out a familiar parchment as a suspicion began to sink in.
+
+Seeing his look, she gave a nod. "Yep. It's what you asked Alicia to do before leaving for Helvarn."
+
+"Take a look at it, Senior."

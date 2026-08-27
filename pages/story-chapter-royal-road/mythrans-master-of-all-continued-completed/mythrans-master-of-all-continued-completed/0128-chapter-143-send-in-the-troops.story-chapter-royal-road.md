@@ -1,0 +1,405 @@
+---
+id: 8f368f6c-887c-5324-aca6-81356f5bfbd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 143 - Send In The Troops"
+slug: 0128-chapter-143-send-in-the-troops
+partOf: mythrans-master-of-all-continued-completed
+position: 128
+ownLength: 4091
+unit: words
+publishedAt: 2017-01-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/112144/chapter-143-send-in-the-troops"
+royalRoadId: "112144"
+---
+
+There was a loud banging on the gate, that sounded like metal on metal. Ren ran out and Teepo flew up to see.
+
+“It's Croggart, Ren!” Teepo said, then chittered in laughter. “He's using one of the guards to knock on the gate.”
+
+Ren snorted a laugh and opened it.
+
+“Hey, Croggart.” Ren said. “You can put...” He looked to see who it was. “...Broxor down.”
+
+Croggart dropped Broxor to his feet with a scowl. “I ran all this way to see you, and the fool said that he wasn't going to bother you.”
+
+Ren chuckled. “I told them to not let anyone in.”
+
+“That doesn't mean they shouldn't tell you someone is here.”
+
+Ren nodded. “You're right.” He took out 2 stone bricks and enchanted them at the same time with a quadruple glyph of the Dwarf rune: Speak. He made a small holder for it out of wood, and nailed it to the outside wall where the guards stand.
+
+“It's a Sending Stone. Just touch it and speak, and we'll hear it in the house.” Ren said to Broxor. Croggart and Broxor stood there and stared at Ren.
+
+“What?” Ren asked.
+
+“You just made a Sending Stone.” Broxor said. “It takes days for the mages to make a pair.”
+
+Ren looked at him. “You know some mages?”
+
+Broxor nodded. “My sister and her husband. They're both mages for the Council.” He said. “It took them months to make connections for all the House Lords to the Council Chamber.”
+
+Croggart scowled. “We're wasting time!” He said. “I went to the Garrison to talk to my brother again, and saw a Battalion of troops marching double-time.”
+
+Ren's eyes widened. “They didn't!”
+
+Croggart nodded. “I asked one of the lead soldiers, and they said they were marching for House Neram.”
+
+Ren shook his head. “They won't have an easy time trying to take me.” He turned to Broxor. “Get everyone from the houses to come here to the House, and have the other guards meet me in the courtyard.”
+
+“Yes, sir.” Broxor said, and took off running.
+
+“Where's your sister?” Ren asked Croggart.
+
+“In the house next to Golir and his wife.”
+
+“Get her back here.” Ren said. “How long do I have?”
+
+“Maybe an hour.” He said. “They might take a break.”
+
+Ren frowned. “That might be enough time... if I hurry.”
+
+He went into the house and dropped off the sending stone, then told Nathalia and her mother what was going on. He ran to his workshop next and told Dorcot what was going on. Ren smelted up some ore and took out several springy trees. He stirred the metal quickly, then divided up the trees for what he needed. He opened up Clint's bow bracer recipe and made a mold on the floor for 2 of them, nearly 4 times the size. He changed the trigger to the back instead of being held in the palm, and expanded the capacity to hold a hundred 1 foot long bolts. He added a standing mount and a shield to guard the shooter, and poured the molds.
+
+Stat Change!
+
+Pattern Making Level 8 (Beginner 0%)
+
+Ren let the system handle the details and only had to hammer the pieces a couple of times. He enchanted them with the same enchantments as he did with Clint's, for smoothness, durability, and toughness; then added a metal bow string instead of Spider Silk. They were assembled quickly and Ren filled the two cartridges with a hundred foot long bolts, stored them. He could make more bolts if he needed them; but sincerely hoped that they wouldn't be needed.
+
+He ran outside and picked up the last bundle of stone bricks that he had, and a huge pile of wood. Once he had them in inventory, he ran down to the road and saw that Broxor had the other 3 guards in full armor guiding their families into the house. Once they were inside, Ren heard a rumbling sound.
+
+Teepo!
+
+Teepo took off and flew straight up. “It's the army!” He said, then chittered in worry. “They have a siege tower.”
+
+Ren grinned. It's okay, Teepo. He thought. I'll take care of it.
+
+“How?”
+
+They only work if you can get close enough to use them. Ren thought and took out his hammerpick. He ran down the road a little and dug up a 2 foot wide part of the road and stored the paving tiles. He dug out 2 trenches a foot deep and 11 inches wide, then gently placed the tiles back on the road. It looked fine, and stepping on one wasn't going to make it collapse; but if any significant weight was put on it, it would crumble.
+
+Ren ran back to House Neram and dug up the 8 foot moat, 2 feet deep. He had to rush, since he had to dig it all the way around the Keep, then filled it with his Water Spray ring.
+
+The moat would work so much better with oil in it. Ren thought.
+
+“Why's that?” Teepo asked as he came in for another landing to recharge his Stamina bar.
+
+Then I could light it on fire.
+
+“Doesn't oil float?”
+
+Ren opened his mouth to say something, grinned, and ran into the house. He came back out with half a barrel of oil and poured it into the water. The baby fire elemental tried to follow the oil and Ren caught it.
+
+“You can have the barrel.” Ren said and it hopped inside, then rolled around in the oil like a cat with catnip. He chuckled as he carried the barrel into the courtyard, closed the gate, and pulled up the drawbridge. Ren turned around to face the men standing there, and switched to his Command Aura. His 4 guards, Wohrum, Golir, Broxor, and Kharpik; as well as Croggart and Dorcot, waited for him to speak.
+
+“The army is coming.” Ren said. “I don't know what their intentions are; but considering they brought a tower to get over the battlement, I doubt it's just a social visit.”
+
+The men chuckled.
+
+“I could be wrong.” Ren said. “They could be here to stop me from getting to the hearing in time, and I lose my chance to confront the Council in front of witnesses.”
+
+“Is that what all this is about?” Kharpik asked.
+
+“I have to assume so, since this happened right after the Houses received the summons.”
+
+The men nodded slightly.
+
+“I'm sure some of you will know some of the soldiers.” Ren said and paced in front of them. “I'm sure I'll know some of them, too.” He sighed. “But, if they attack me and my home here, and all the people we're trying to keep safe...”
+
+“Then all bets are off.” Croggart said, and Ren smiled.
+
+“Exactly.” Ren said and stopped walking to face them again. “What's ours is ours! We're building a life here. A good life!” He said. “No one will take it from us!”
+
+“Yeah!”
+
+“Croggart, Dorcot.” Ren said and took out the last 2 sets of red steel armor that he had. “If you're going to help defend, I won't have you stand here without protection.”
+
+“I don't need armor.” Croggart said and pounded his chest. “Thick skin.”
+
+“I know you're not guards; but, you should wear it anyways.”
+
+They both tried to say no, but Ren shook his head.
+
+“You can keep it or sell it afterwards, I don't care.” He said. “But you will wear it for this battle, or you can go inside and wait with the women and children.”
+
+Croggart looked like he was going to get mad, then he burst out laughing. “All right, that was a good argument.”
+
+They put on their suits of armor and Ren did as well. He handed each man a sword if they wanted it, and enchanted them with Fire and Damage glyphs; then handed them shields with his favorite Grip of the Earth glyphs. Ren took out a bunch of lumber, and stacked them into bonfire sized piles.
+
+“What are you doing?” Dorcot asked.
+
+“Making Mana reserves.” Ren said, then lit one on fire. Once it started burning, Ren absorbed some of the flames and recharged his Mana Pool. The sound of the troops was getting closer, so Ren climbed up onto the battlement and set 4 stone bricks into each space along the walls, to get good coverage of the surrounding area. He enchanted some with Screaming Terror, some with Fire, some with Water, and every second one with Wind. The battlement wall was nearly 4 feet wide, so Ren had lots of room to set up his 2 giant bow bracers with stand near the corner of the Keep.
+
+“What are those things?” Wohrum asked and climbed up onto the battlement wall.
+
+“Giant automatic crossbows.” Ren said. “They only have 100 bolts in them, though. I'm sorry I didn't have time to make more cartridges.” He said to the shocked faces that stared at him. “I'll show you how they work.”
+
+The men climbed up and he gave them a quick rundown of what to do. Single shot, triple shot, and full auto were the options available. He also popped the cartridge off to show the size of the bolts inside.
+
+“By the gods!” Dorcot said. “You could run a man through with those!”
+
+“If they don't have armor.” Golir said.
+
+“They have armor.” Croggart said.
+
+“Then make the shots count.” Ren said. “We don't have time for target practice, though.”
+
+“There they are.” Teepo said, and Ren turned to see the approaching army. It was an impressive sight, seeing all those dwarves marching together.
+
+“How many do you think?” Broxor asked.
+
+“It's a standard Battalion.” Croggart said. “So it's 400 men, not counting the command structure.”
+
+“We are going to get creamed.” Kharpik said.
+
+“Stop that thought!” Ren nearly shouted. “If it's a fight they want, it's a fight they'll get.”
+
+“But... look at them! There's hundreds of them, and only 7 of us!”
+
+“Yeah, the poor bastards are outnumbered.” Croggart said, and smacked his metal fists together. “I feel kinda sorry for 'em.”
+
+“That's right.” Ren said and grinned. “They won't know what hit them.”
+
+*
+
+The Commander was tired. He'd been a patsy for the Council for too many years and was getting sick of it all. If this turned out the way he thought it would...
+
+“Sir! We can see the battlement of the Keep. We think.”
+
+“What do you mean, you think?” The Commander said. “Is it a battlement or not?”
+
+“We can't be sure, sir.” The Knight said. “First of all, it's mostly white.”
+
+“It's WHAT?!?”
+
+“White, sir.” He said. “You should see it for yourself.”
+
+The Commander got out of his carriage and walked to the front of the formation. When he got there, he was surprised at the sight. Sure enough, the stone battlement that they expected was white, and had things all over it.
+
+“What are the things...”
+
+“Columns, designs, vines, leaves, stone figures in various poses, and odd groups of the same symbols every 10 feet.”
+
+“Scout report?”
+
+The Knight nodded slightly. “He got within 50 feet, and saw several armored people on the battlement... along with 2 weapons we've never seen before.”
+
+The Commander snorted a laugh. “I can just imagine.” He said. “He's the one that sold us the Giant Leg Holding Trap.”
+
+“This looks more like a crossbow, but it's nearly 3 feet long, sir.”
+
+“It's WHAT?”
+
+“That was my reaction as well, sir.” The Knight said. “It's a good thing the troops are all wearing armor.”
+
+“That won't matter if they're shot in the face.” The Commander said. “A 3 foot crossbow would have a bolt... nearly a foot long.”
+
+The Knight's eyes widened for a moment, and then he nodded slightly. “It's too bad all the houses we passed, and the Main House, were empty.” He said. “Hostages would have helped a lot.”
+
+“Yes, they would have helped.” The Commander sighed. “It would have helped piss him off.”
+
+“Sir?”
+
+“He doesn't seem the type that would take kindly to anyone messing with his people.”
+
+“I understand, sir.”
+
+“Send 2 squads of troops up behind the siege tower.” The Commander said. “The quicker we show him we can get inside to get him, the quicker he can surrender.”
+
+The Knight left to give the order, and the Commander looked to the battlement.
+
+The next move is yours.
+
+*
+
+“Here it comes!” Golir said, and Ren took out one of the 15 slivers of gold he'd smelted back in Aurora before he came here. He'd made them in case he met anyone that didn't take coins, but never expected that just a gold coin would be hard to find in the general population. He took out his Book of Runes and flipped through them to find the ones he wanted. He formed a glyph in his mind, it added itself to his book, and Ren enchanted a double glyph on the 1 inch wide and 2 inch long sliver of gold. It etched itself on the surface.
+
+“Let's see how they like this.” Ren said, thought Activate, and a flaming spear appeared in his hand.
+
+“By the GODS!” Golir exclaimed.
+
+“How far is that? 300 feet? 350?” Ren said, took the proper stance, and threw the spear as hard as he could. He'd never thrown a spear before, so he let the system guide his hand. It flew up high into the air, as it had along way to go, and then it came down to hit the very top of the tower. Ren dismissed the popup for gaining Spear Throwing Level 1, as it smashed the railing and plank there, and cracked the ladder in behind as it stuck into the wood. The wood caught fire immediately, but the spear was only thin. The 2 Dwarf runes of Spear wore off, and it became a sliver of gold again. It had done it's job, and the wood started to burn.
+
+*
+
+“By the gods, did you see that?” The Knight said. “He hit the siege tower from over 300 feet away!”
+
+The Commander nodded slightly, then frowned. Why isn't he throwing another one?
+
+*
+
+“Do that again!” Croggart said and clapped Ren on the shoulder with a clang of metal. “That was amazing!”
+
+“I will if they have another one.” Ren chuckled. “It did what I wanted it to.” He said. “Look.”
+
+The dwarves had been pushing the tower slowly at first; but now, they were running for all they were worth. They got to the part Ren had dug up earlier, the weight of the tower made the trenches collapse, and it was like hitting the brakes. The front wheels jammed into the trench and the tower fell forwards, smashed into the road and broke into several pieces. The dwarves pushing it were flung over it and several behind tripped over the dwarves in front and they ended in a pile. With the added wind from running, and the rush of air from breaking apart, the flames burst out and lit everything on fire. Thankfully, the dwarves weren't that flammable, and they beat the flames out of their clothes. They didn't know what to do then, though.
+
+Croggart saw their dilemma and yelled. “YOU CAN GO HOME NOW!”
+
+“If only it was that easy.” Ren laughed.
+
+*
+
+“What do we do now?” The Warriors asked the Knight.
+
+“We reform, take out our weapons, and find a way into the Keep.”
+
+“But sir! The tower is...”
+
+“We don't need a tower!” The Knight said. “We'll do it like the old days! Reform!”
+
+The Warriors reformed and the Knight smiled.
+
+“Charge!”
+
+*
+
+“What the hell are they doing?” The Commander asked.
+
+“I think he's trying to complete his mission, sir.” The Knight said.
+
+The Commander rubbed his temples. “Must I continuously suffer the decisions of fools?”
+
+“Excuse me, sir?”
+
+“Nothing.” He said. “FORM UP!” He bellowed and everyone did as he ordered. “Forward, MARCH!”
+
+*
+
+“Damn, you were right.” Dorcot said. “They're all coming now.”
+
+The tower group was close enough to see their faces.
+
+“HOLD IT RIGHT THERE!” Ren yelled, and the dwarves stopped. “I could have had you shot long before you got this close.” He said and pat the giant bow bracer. “I don't want to hurt you if I don't have to.”
+
+“Do your worst!” The Knight spat at him.
+
+Ren chuckled. “Okay.” He thought and pointed his fist at them, and activated his Screaming Terror ring. Three quarters of the group dropped their weapons and screamed as they scattered. The Knight turned on them.
+
+“Get back here, you deserters!” He yelled, but they didn't listen. Once the scattered dwarves were far enough away, they calmed down and collapsed from the exertion of running in full plate mail.
+
+“Want me to keep going?” Ren asked.
+
+The Knight raised his sword. “Charggglll!”
+
+Ren hit him with the Water Spray ring, and drenched the remaining dwarves.
+
+*
+
+“Sir! Are you seeing this?” The Knight beside the Commander asked.
+
+“Yes, I see it.” The Commander said. He's taking on 2 squads by himself, and he's not even on the ground. He thought. “Double Time! Hut Hut Hut!” He said and the group doubled their pace.
+
+“Sir! What about the crossbows?”
+
+“He'll only get a couple of shots off with them before we hit the Keep.”
+
+*
+
+Ren gave the dwarves below him several quick shots from his Lightning ring once they were wet enough, and they fell unconscious.
+
+“Ren! They're coming fast!” Croggart said.
+
+“Golir. 10 bolts into the ground in front of them.” Ren said. “Now.”
+
+Golir opened up with the quick fire option and put 10 bolts into the ground right in front of the formation. The ones in front stumbled over the sudden appearance of foot long bolts at their feet, and the first few rows of dwarves tripped over them. The formation broke apart slightly.
+
+*
+
+“HALT!” The Commander yelled and they came to a stop. “Crossbowmen!”
+
+Several squads of dwarfs carrying crossbows stepped forward and formed up in two ranks, the front row knelt and they all took aim.
+
+“Ready!” The Commander said. “FIRE!”
+
+*
+
+“Ren! Crossbow bolts!” Teepo said.
+
+Ren concentrated on all of the wind glyphs he'd cast on every second stone. Activate! He thought, and 20 gale force winds shot out to create a wind barrier that covered nearly the whole Keep on that side. Ren hadn't had the time to go all the way around the Keep with them.
+
+*
+
+The Commander watched in surprise as every bolt that was fired flew off in different directions when they got close enough to the Keep. He let the crossbowmen load and fire again, but they had the same result the second time.
+
+“Cease fire.” He said.
+
+*
+
+“What do you think they'll try next?” Dorcot asked.
+
+“If it was me, I'd rush us.” Wohrum said. “Overwhelm with numbers.”
+
+Ren nodded slightly. “I think so, too.” He said, and picked up a Fire enchanted stone brick. “We'd all be wrong, though.” He activated the enchantment and lit the now completely spread out oil in the 8 foot wide moat. It lit up with a whoosh, and covered the whole space with 6 foot high flames.
+
+*
+
+The whole formation came to a stop 100 feet away, and without orders to do so.
+
+“I didn't call a halt!” The Commander said. “March!”
+
+The formation started to march, but the dwarves in the front started sweating. When they were 50 feet away, Ren concentrated on the remaining enchanted stone bricks and spoke.
+
+“Activate.”
+
+12 stones with Fire enchantments shot out a geyser of flame over the heads of the dwarves. 12 stones enchanted with Water Spray gushed out and soaked them, and 12 stones enchanted with Screaming Terror hit them at the same time. Some dwarves ducked from the flames, others were washed away with the water, but most just dropped their weapons and screamed. The entire formation dissolved and they scattered. Even the dwarves not affected by the terror ran, because they didn't want to be electrocuted like the dwarves still unconscious on the ground.
+
+*
+
+The Commander watched in shock as his entire Battalion broke apart, except for a few that were out on the fringes of the impact area.
+
+*
+
+Ren looked around and saw the Commander and a Knight standing off to the side of the battlefield, then at what his enchantments had wrought. He sighed and shook his head.
+
+“They sent them here to take you, or to keep you here as a prisoner.” Croggart said. “You were just defending yourself.” He said. “Defending us.”
+
+“I know.” Ren nodded slightly and jumped down to recharge his Mana Pool. “That doesn't mean I have to like it.” He said. “The dwarves were just following orders. It's not their fault the orders were both ridiculous, and cost them Honor.” He finished recharging his Mana Pool and climbed back up on top of the battlement. Ren switched his Command Aura to Fear, and formed a Connection to his Screaming Terror ring and walked to the edge of the wall.
+
+“Geezus, I hate that feeling.” Croggart said, and rubbed his arms to try and get the feeling of ants crawling on his skin to go away.
+
+“Sorry.” Ren said. “I'm going over to talk to the Commander.” He deactivated the stone brick enchantments, and jumped.
+
+*
+
+The Commander watched as a gold-colored armored figure jumped down into the flaming moat. The flames were only about 3 feet tall by this point, so the Commander saw as the oil splashed the figure and his clothes. The figure walked through the flames as if it was nothing, then stepped up and out of the moat, covered in flames.
+
+*
+
+“By the gods, he just jumped into the moat!” Dorcot exclaimed. “Now he's on fire!”
+
+The 6 men watched in surprise as Ren walked down the road a little ways.
+
+*
+
+Croggart was shaken out of his surprise by an impending attack on Ren, and yelled. “On your RIGHT!”
+
+Ren side-stepped the incoming sword easily, as Teepo had already warned him. The dwarf held a shield up and Ren punched it as hard as he could. The shield shattered, and broke the dwarf's arm from the impact. The dwarf dropped the sword and grabbed the arm. Ren walked on as the flames he was covered in burned up the oil and went out. He was attacked several more times, mostly as an after thought by fleeing dwarves. With Teepo's help and his trusty hammerpick and shield, Ren easily dispatched anyone stupid enough to come near to him.
+
+Ren went over to the Commander, saw the shocked look on his face, then stored the hammerpick and shield. The Knight with him stepped in front and tried to swing a sword, but Ren caught it easily and used Iron Grip to crush it. They both let it go, and it dropped to the ground. The Knight tried to punch him in the face, Ren grabbed his arm, and flung him away without thinking.
+
+“Anything else?” Ren asked, then 3 crossbow bolts bounced off of Ren's armor. He turned and ran at the trio of dwarves at full speed, used a classic clothes-line move on two of the dwarfs, and took them to the ground. It knocked the breath out of them and the third dwarf turned to try to shoot at Ren again. The dwarf hadn't reloaded, so Ren stood up and grabbed the dwarf by his chest plate, used Iron Grip and crushed it.
+
+“Don't.” Ren said, and let go of the ruined chest plate.
+
+The dwarf dropped the crossbow and backed away. Ren kicked the crossbow away, then walked back over to the Commander.
+
+“I assume the Council sent you.”
+
+The Commander nodded.
+
+“Capture or contain?” Ren asked.
+
+“Both.”
+
+Ren shook his head. “They're so desperate to keep everything for themselves that they'd have you compromise all of your soldier's Honor for this.”
+
+“Do you expect them to just step aside and give it all to you?”
+
+“Ha!” Ren barked a laugh. “Why the hell would I want this?” He said, and waved at all of the fleeing dwarves. “I'm fighting the Council because stuff like this shouldn't have happened at all.”
+
+The Commander sighed.
+
+“So, are you done?” Ren asked. “I have a Council meeting to get to.”
+
+The Commander nodded slightly. “Yes.” He said. “I surrender.”

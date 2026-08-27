@@ -1,0 +1,229 @@
+---
+id: 70a919cf-f155-5cca-8577-2a4e0c4bda63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 344 - The Gathering"
+slug: 0337-chapter-344-the-gathering
+partOf: mythrans-master-of-all-continued-completed
+position: 337
+ownLength: 3026
+unit: words
+publishedAt: 2017-08-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158238/chapter-344-the-gathering"
+royalRoadId: "158238"
+---
+
+King Alamast let the various people yell and holler for a few minutes, then he had enough. He activated his Command Aura and it popped into place.
+
+“BE QUIET!” The king commanded everyone, and they all fell silent. “That's more like the civilized people we are supposed to be.”
+
+“But, Your Majesty!” A voice called out. “How can you let those butchers-”
+
+“SHUT. UP.” The king commanded him, and he closed his mouth with a snap. “What kind of an example are you presenting to our guest?”
+
+*
+
+So that's what a fully-formed Command Aura feels like on the other side. Ren thought and smiled. Now I know how people feel when I do it. He had held onto Railyse's hand the entire time they had been inside the castle, and he knew she wasn't affected one way or the other by what the people in the room did. All that mattered was getting the pact signed and put into practice.
+
+By the reaction from the audience, it was not going to be an easy task.
+
+“Before anyone else decides to cause an uproar, allow me to introduce the representative from the Sea Dwellers. Her chosen name for us to use is Railyse, since humans can't reproduce their language.”
+
+Ren raised a hand to get attention, which was a little odd since everyone was still standing, and the king looked at him with slightly wide eyes.
+
+Is he wearing full plate armor? King Alamast asked himself.
+
+“That's not true, Your Majesty.” Ren said. “It's difficult to learn, and takes months of intense study; but, it can be learned. Even so, I still (bubble) when I should (bubble gurgle). Other than that, I can speak it quite fluently.”
+
+Everyone stared at him like he had two heads, and Ren beamed a smile at them. It was a genuine smile, and conveyed his amusement at their surprise; and it was completely different from the fake smile Lady Eleanor wore.
+
+How can he smile like that? Lady Eleanor asked herself. If I get the chance, I must ask him to show me how.
+
+“Um... well, then.” King Alamast said. “As I was saying, Ambassador Railyse has brought a detailed proposal for us to examine. With her help to point out the relevant points, It shouldn't take us long to go over it.” He nodded to several waiting pageboys and they carried large stacks of parchment and handed out a copy of the proposal to everyone. They all sat as they received their copy, and several of them flipped through it.
+
+“Is this really necessary?” One of the ministers asked, as he held up his copy. It was several sheets thick and full of regulations, and he waved it in the air slightly. “We're going to reject it anyways.”
+
+“Excuse me?” King Alamast stared at the minister. “What 'we' are you taking about?”
+
+“We. Us. The Gathering.” The minister said. “We always reject the initial proposal. It's how things are done.” He said. “This meeting is just a waste of time.”
+
+“Now, now.” Lord Eddlemere said. “I don't think our usual practice can be applied in this case.”
+
+“Why not?” The minister asked.
+
+“This has never happened before.” Lord Eddlemere said. “We have an actual Sea Dweller among us.” He look around at his fellow Gathering members. “I can honestly say that I've never seen one. Have any of you?”
+
+“Not until today.” Someone said.
+
+“Battles have been fought over sea and land rights for centuries.” King Alamast said, and took the perfect opportunity to regain control of the meeting from the upstart Lord Eddlemere. “This proposal isn't meant to settle everything outright. That's going to take months of intense negotiations. What this entails is essentially a cease fire between the land and the sea while we do try and negotiate everything else.”
+
+“Well, I suppose it doesn't hurt to look at it.” The minister said, reluctantly.
+
+“I'm glad we have your approval.” King Alamast said with a smile, and quite a few people laughed. “First, we shall give it a general run-through so we can get an idea what it will entail, then I'll ask the Ambassador to come up here to the podium and we can dig into the details.”
+
+No one spoke as the king did exactly that. He didn't even have to look at the proposal as he recited the highlights over territory, sea routes, proposed banned areas where no ship can go, and finally the agreement that no land dweller would cause harm to a sea dweller, and vice-versa.
+
+“Ambassador Railyse, if you would?” King Alamast said when he was done, and stepped back from the podium. Ren stood up and held an arm out for Railyse, and she stood and took it. A hush fell over the whole meeting room and everyone had a good look at Ren and Railyse as they left their assigned seating area and walked over towards the right and to the aisle, then started to walk down to where the royal family sat.
+
+Ren felt it when his Aura crossed the royal family, and even though he was so far away, he heard someone gasp because everything was so quiet. The Dire Wolf Hooded Cloak billowed of it's own accord as he and Railyse strolled towards the podium, and all eyes were on them as they came to a stop in front of the royal family.
+
+“Your Majesty” Ren said and nodded at the king. “Your Highness.” He gave Lady Eleanor a slight bow. “Crown Princess.” Ren said and gave her a smile. They only stared at him and didn't say anything at all, even when Railyse thanked the king for letting her appear there today. Ren let her arm go and she stepped up to the podium while he stepped back and to the side, so he wouldn't interfere with people seeing the royal family.
+
+“Thank you all for coming here today.” Railyse said in her most melodious voice, and under her translucent skin were calm sea waves. “My name is...” She let out a string of bubbles and gurgles for several seconds, and then smiled. “I know that is a little more than a mouthful, even for those that know me well.” She said and glanced at Ren, who smiled at her.
+
+Everyone was kind of transfixed by her because her voice was so soothing, and they wanted nothing more than to hear more of it.
+
+“For the duration of our time together, you may call me Railyse instead.” Railyse said. “My assistant has prepared visuals for us, assuming the wall behind us is a viable option.”
+
+Ren activated Enchanted Eyes and looked around at the wall. It was completely bare except for a large crest mounted half-way up the 50 foot wall. It also didn't glow, and he looked around at the windows. They didn't glow, either.
+
+Is there no protection glyphs on the castle? Ren asked himself. “It looks like it can be used, Ambassador.” He said, without letting his concern over the lack of safety show.
+
+“Excellent.” Railyse said. “Show us the proposed trade routes first, please.”
+
+Ren reached back and touched the wall, and used his Enchant Design ability. He poured quite a bit of Mana into the wall and thought about what to do. He had a knack for design, so he altered the orientation of the route so that the crest in the middle of the wall represented the human kingdom and built the image out from that. The trade route etched itself into the beige wall, along with a general map of the area, and everyone gasped as the image appeared and the route glowed sightly blue.
+
+“Good god.” Someone said as tiny ships appeared and they travelled the routes in circles.
+
+“As you can clearly see, the routes themselves are only slightly changed from the ones your shipping lines currently use.” Railyse said. “These altered routes avoid both dangerous zones for ships and sacred areas for sea dwellers...”
+
+Railyse talked for another 10 minutes about the alterations and how they would benefit both land and sea dwellers.
+
+“Ren? Can you show us the territory borders, please?”
+
+“Of course, Ambassador.” Ren said and poured a little bit more Mana into the etching. He made the territories themselves have green borders, while the ones in dispute and crossed one another, glowed red.
+
+“This is the current border situation.” Railyse said. “It is not desirable by either of our people.”
+
+Nearly everyone nodded, and she smiled at them.
+
+“This current proposal doesn't change these borders at all. What it does do, is make a buffer... or a safe zone... between us.” Railyse said and nodded. Ren made several small blue circles appear over the conflicted borders, and nearly all of the red parts were covered. “It's not a perfect solution, but it will at least stop any large battles from happening for a while.”
+
+No one said anything, and she sighed.
+
+“I know this is a lot to take in, and it's a lot to think about.” Railyse said. “I don't expect this to be approved today. It's much too soon to even think about that.”
+
+She saw a lot of heads nodded in agreement.
+
+“All I can ask is that it be taken into consideration, and for word of our talks to be spread throughout the land dweller's shipping lines.”
+
+“What?!?” Someone exclaimed.
+
+“If everyone knows there is talks about a cease fire, it will calm down the...” Railyse swallowed. “...hot spots... where the most loss of life occurs.”
+
+“What about on your end?” Someone asked. “If we tell our ships to not fight, what's to stop you from overrunning them and destroying them?”
+
+“Trust.” Railyse said, and everyone looked at her. “At some point, you are going to have to trust me as much as I am trusting you.”
+
+“What?”
+
+“I abandoned my people to come here.” Railyse said. “I left my family, my friends, and my home to come here with this proposal.” She said. “I have never left the comfort of the water before.” She took a deep breath. “It's scary out here. It's so dry. Things are so different.” She said. “I've put my life on the line just by coming here.”
+
+Everyone that listened to her voice could hear the fear and sorrow in it.
+
+“I've trusted you with my life.” Railyse said. “The least... the very least you can do... is consider this proposal seriously.” She looked at them all, and they couldn't quite meet her gaze. “My life hangs in the balance here, and so does all of the future people; both sea and land dweller alike, who could be lost because of this senseless battle over who gets more fish!”
+
+Her last scathing remark cut everyone deeply, and Railyse took several deep breaths to calm down.
+
+“It's just like I've said. Think about it. Spread the word. We no longer have to fight to get what we want.” Railyse said. “We are all intelligent beings. Let's use our brains, at least once in our lives.”
+
+Railyse looked around at their mollified faces and nodded. “Thank you for your time.”
+
+Ren walked over to her and held out an arm, and she took it. He led her away from the podium and back up the aisle, then down the row to their assigned seats and sat down. Conversation started around them and people discussed what they had heard. The sound of people talking spread through the meeting room, and when it got to the king, he stood up and went to the podium.
+
+“Thank you, Ambassador.” King Alamast said, then looked behind himself and at the wall. Ren had left the enchantment on the wall, and the tiny ships continued on their routes. “It's definitely something for us to think about.” He turned back and looked at everyone in the Gathering. “On that note, let's take a short break.”
+
+*
+
+This is the time and date. The messenger thought as he ran up the street towards the castle. Under his arm was the package Talon had paid to have delivered to the Ambassador.
+
+*
+
+The meeting had broken up for the break, but no one left the meeting room. They had stood and gathered together into groups, and some milled around like it was a party and they wanted to mingle with everyone.
+
+No one approached Ren and Railyse, however.
+
+“Let's go talk to the Crown Princess.” Railyse said out of the blue.
+
+“What?” Ren looked at her, and then at the princess. She was standing off on her own, a little ways away from the king and her mother. No one was talking to her, either. “Okay.”
+
+Ren led Railyse down the row and then the aisle, which retraced the path back to the podium. People watched them as they passed; but still, no one spoke to them. They came to a stop near the princess, and Ren spoke.
+
+“What's a girl like you doing in a place like this?” Ren asked her, and she came out of her bored daze to stare at him.
+
+“Excuse me?” Diana asked.
+
+“I can tell by your excited expression, just how much you love being here.” Ren said and smiled, and Diana laughed.
+
+“Oh, yes! I just love it here.” Diana said sarcastically. “It's always a fun place to be.”
+
+“I can imagine.” Railyse said. “I always enjoyed having to sit silently in meetings while the grown ups talked about important things, that they thought I was too young to understand or to give input on.”
+
+Diana looked at her, and smiled a genuine smile. “That's it exactly.”
+
+Railyse chuckled, and the water under her skin swirled in amusement.
+
+“That's really weird.” Diana said, then covered her mouth. “I'm sorry, I shouldn't say things like that.”
+
+“It's all right.” Railyse said. “You're just as weird-looking to me.”
+
+“I... I am?!?” Diana asked, and Railyse nodded.
+
+“I'd never even seen a land dweller before I met Ren.” Railyse said. “It was kind of... well, sickening. All I could see was pinkness, and it was weird that I couldn't see his feelings swirl under his skin like I could with my own people.”
+
+“I... wow.” Diana said and looked at her with wide eyes. “I guess that would be weird.”
+
+Ren chuckled. “It took me a month to get her to stop staring at me, then another month to convince her that I didn't have swirling currents under my skin.”
+
+“That's really... um... why are you telling me this?” Diana asked after changing what she was going to say.
+
+“You looked like you needed someone to talk to.” Railyse said. “So, here we are.”
+
+“You wanted to talk to me?” Diana asked, surprised. “I mean, I'm usually completely ignored during these things.”
+
+“Is that why you were so surprised when I waved back to you?” Ren asked.
+
+“You saw that, did you?”
+
+Ren nodded.
+
+“Yes, everyone just treats me like...” Diana stopped herself before she said something she would regret. “I'm tolerated, but that's about it.”
+
+“But you're the Crown Princess.” Ren said. “Everyone should treat you with the proper respect.”
+
+Diana was too surprised to respond, and just looked into his silver-blue eyes. They're so pretty.
+
+*
+
+The door to the meeting room opened and a messenger stepped in. He carried a package under his arm and told the door attendant that it was for the Ambassador. The man didn't bother to check if it was, or even check the package, and let the messenger though.
+
+Water lady... water lady... there she is. The messenger thought and walked over to her.
+
+*
+
+“Package for the Ambassador.” The messenger said and held out the package to Railyse.
+
+“Thank you.” She said and reached out for it. Ren, on a hunch, activated Enchanted Eyes and looked at it. It didn't glow, but he knew it was odd for Railyse to get a package, especially inside the meeting room. He tried to take it instead, but the messenger wouldn't let it go.
+
+“I'm sorry, sir.” The messenger said. “Only the recipient can accept packages.”
+
+“Since when?” Ren asked.
+
+“It's all right, Ren.” Railyse said. “I'll take it.”
+
+*
+
+Talon had come out of one of the many shadows at the back of the room and looked at the podium. He saw the messenger hand the package to the target, smiled, then caught sight of a set of gold-colored armor.
+
+Oh, dammit. Talon thought, looked around for Lord Eddlemere to warn him, and saw that he stood across the room next to the king and was deep in conversation. There was no way that Talon could get there in time. I'm not sticking around to watch this disaster. He thought, and slid back into the shadow he had come from. All that work for nothing!
+
+*
+
+Railyse accepted the package with a smile and the messenger turned to walk away. She untied the string that held it closed and started to lift the lid; then Ren's Enchanted Eyes ability was almost overloaded with how brightly the contents glowed. Thanks to his Lightning Reflexes ability, he reacted immediately.
+
+“King Alamast!” Ren shouted, hit the package from underneath to knock it high into the air, and grabbed Railyse and Diana by their arms. “Catch!” He said, then quickly turned and tossed the two surprised women through the air.
+
+King Alamast was just as surprised, but he hadn't become king because he was slow to respond to any given situation. He braced himself and opened his arms to catch the two women, and the package flipped over in the air. It's circular motion had held the cover mostly closed; but as it fell, the air caught it and pulled it open.
+
+“Everybody down!” Ren yelled as he positioned his body between it and the king, then caught the package and hugged it as the cover opened all the way. Inside was a very large custom-made elemental grenade, with various parts and things fused together to increase the blast radius.
+
+Ren instantly got the plans for it... and then it exploded right in his face.

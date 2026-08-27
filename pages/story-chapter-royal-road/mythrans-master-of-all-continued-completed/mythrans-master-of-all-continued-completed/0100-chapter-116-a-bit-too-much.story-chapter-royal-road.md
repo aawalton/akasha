@@ -1,0 +1,563 @@
+---
+id: e9608341-cbd1-5d20-bacd-ac1cad524ae9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116 - A Bit Too Much"
+slug: 0100-chapter-116-a-bit-too-much
+partOf: mythrans-master-of-all-continued-completed
+position: 100
+ownLength: 5872
+unit: words
+publishedAt: 2016-12-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107849/chapter-116-a-bit-too-much"
+royalRoadId: "107849"
+---
+
+“That's great!” Ren said, let her hand go, then looked around. “Where's Dorcot?” He asked as the carts he'd rented headed to the mines, and Barnar's workers uncovered everything.
+
+“He's not here already?” Angeilin asked. “He said he'd be coming here... oh!” She said. “He was going to visit the farm first!”
+
+“I'm sure he'll be here soon.” Ren said and smiled, then looked up at the guard beside her. “I know I might be a little intimidating sometimes; but, was it necessary to bring a guard with you?”
+
+Angeilin chuckled, and Ren could swear it sounded like glasses tinkling together.
+
+“I didn't bring a guard... okay, I did... but he wasn't escorting me... no, I guess he did...”
+
+Ren chuckled. “Relax. Take a deep breath.” He said. “Start from the beginning.”
+
+Angeilin took a deep breath, and started over. “It all started this morning when Dorcot and I argued...”
+
+Ren listened to her story, nodded slightly several times, and then frowned when she told him about her encounter at the Lodur Main House. When she got to the part about how the manager had handled things, or hadn't handled things, he scowled. Ren didn't say anything, and Angeilin told him how the guard had tried to defend her Honor and then resigned in protest. Ren gently put a hand on her shoulder.
+
+“I'm terribly sorry, Ma'am.” Ren said and sighed. “If I'd known paying your husband would cause so much... trouble... ah, dammit.”
+
+“What is it?” She squeaked.
+
+“It's nothing.” Ren said. “Just a little recipe that keeps biting me in the ass.”
+
+Angeilin covered her mouth with a hand to try and stop herself from snorting in laughter.
+
+“Thank you for telling me all about this.” Ren said, stood up from his kneeling position, and held a hand out to the guard. “Thank you for keeping her safe and trying to protect her, especially from your own House.”
+
+The guard took the offered hand and Ren shook it.
+
+“I'm Honored to meet a man with both fortitude and courage.” Ren said, and the guard's eyes widened.
+
+“Sir... you... you didn't have to...”
+
+“Yes, I did.” Ren said and let the guard's hand go. “I'd like to hire you right away.”
+
+“Sir, I'd greatly appreciate that.” The guard said. “But... I've got a large debt now with House Lodur... that has to be settled by the end of the week.”
+
+“I know.” Ren said and looked down at Angeilin. “I hope it's going to help me with your situation as well.”
+
+“H-how?” Angeilin asked.
+
+“I'll wait until Dorcot gets here to explain.” Ren said and motioned down the road. Angeilin and the guard turned around and didn't see anything.
+
+“What are you...” Angeilin started to say, and saw a figure appear in the distance. “Is that...?” She looked back at Ren. “Is that Dorcot?”
+
+Ren nodded slightly. “He'll be here in a couple of minutes.” Thanks for spotting him, Teepo. Ren thought.
+
+“You're welcome.” Teepo said.
+
+They waited patiently as Dorcot came close enough to see his wife standing there, and he ran the rest of the way. He stopped when he got to where she was and knelt down, slightly out of breath.
+
+“What... are you... doing here?” Dorcot said between gasped breaths.
+
+“You shouldn't run like that, Sugarbear.” Angeilin said and clapped her hands over her mouth. She turned to look at Ren, who had his head turned away before she'd seen him, and he started to whistle. She then turned the other way and looked at the guard. He'd taken Ren's not so subtle hint and had his head turned away as well. Angeilin smiled and looked back at her husband.
+
+“It might take a while to explain.” She said, and they listened to her story. Dorcot's face flushed red when she got to the clerk's insult; when she talked about the manager, he visibly shook. When the guard's part came, Dorcot relaxed slightly, but his face stayed red. Angeilin finished her story, with Ren's accepting them, and Dorcot stood.
+
+“I'll be right back.” He said and turned away.
+
+“Wait!” Angeilin shrieked. Dorcot stopped and dropped his head slightly. She turned to Ren. “Sir, you have an idea?”
+
+Ren stepped forward and put a hand on Dorcot's shoulder. “Dorcot, I'm just as... enraged... as you are over your wife's treatment.” Ren said, and Dorcot sighed at the truth of Ren's words. “I've got a better idea than starting a House to House challenge, though.”
+
+Dorcot turned to Ren. “You do?” He said surprised. “What is it?”
+
+“Come inside, and I'll explain to everyone at the same time.”
+
+Dorcot nodded, took his wife's hand and Ren led them inside the house after switching his Command Aura back to his main Aura. The group met in the kitchen, to keep everything informal, and Angeilin's story was relayed to Narhilda and Nathalia. They reacted even more strongly than Dorcot had, and it took Ren several minutes to calm them down. Once everything was out in the open, he told them his idea. Dorcot wasn't happy with it, as it didn't involve beheading the clerk, but after some convincing, he agreed.
+
+Ren gathered everyone in the main room and they went to their proper places. Narhilda sat in her chair, as was right for the Lady of the House. Nathalia stood on her right side, since she was the Princess, and Ren stood on Nathalia's right as he was her courter. Dorcot, Angeilin and the guard stood before them. Ren stepped forward and knelt in front of Narhilda.
+
+“My Lady.” Ren said. “May I present to you, the first subjects to petition for residency in your district.”
+
+“You may.”
+
+Ren stood and walked over to Dorcot. “This man was offered a job as a general laborer. Near chaos ensued.” Ren tried not to sigh, and continued. “His petition to leave his old House was granted, and he now has nowhere to live.”
+
+“Is that all?”
+
+Ren smiled. “My Lady, I'd like to amend the job offer, if I may.”
+
+“What job does he qualify for?” Narhilda said.
+
+“Royal Gemcutter, My Lady.”
+
+Three gasps were heard, and subsequently ignored.
+
+“Very well.” Narhilda said. “I've seen his skill. Your job offer is amended.”
+
+“Thank you, My Lady.” Ren stepped next to Angeilin. “This woman is his wife. She's supported their family for decades. Her House garnished those wages, but they raised a substantial family from her hard work. She has nowhere to live.”
+
+“Continue.”
+
+“She currently works at House Longore as a receptionist. Her current contract states she must tithe 45% of her wages to the House.”
+
+“That just won't do.” Narhilda scowled. “What do you recommend?”
+
+“Alteration of the contract upon your acceptance of her into this House.”
+
+“Agreed.” Narhilda said and gave a stern look to Angeilin. “This House demands a full 1% of your wages if you work for someone else.”
+
+“WHAAAAT?!?” Angeilin squeaked, then clamped a hand over her mouth. “Sorry.”
+
+Narhilda smiled, turned to Ren and nodded slightly. He stepped over to the guard.
+
+“This man showed outstanding Honor in verbally defending a woman he didn't know, against a member of his own House's Main Family, and at the cost of his job. He also has nowhere to live. I'd like to offer him a position as a House Guard. It's only at the front gate for now, and as a possible escort when needed.”
+
+“We do seem to be expanding rather quickly.” Narhilda said. “House Guards are definitely a necessity.” She looked at each person in turn. “Kneel, please.”
+
+They three petitioners knelt and Narhilda stood. “Joining a House is no small task.” She said and approached them. “This is a new endeavor for all of us.” Narhilda smiled. “Recite the Pledge.”
+
+Dorcot, Angeilin and the guard spoke together.
+
+“I renounce all ties to other Houses, and all contracts to them are null and void. I devote myself entirely to the well being of this House, and will strive to help it in any way I can; until such time that I am dismissed for cause, taken away by circumstances beyond my control, or feel unfit to fulfill my duties. Our breath, our blood, our very lives, are yours. We swear this upon our Honor.”
+
+Narhilda held her hand out to each person, and they placed a quick kiss upon her fingers. She stepped back and looked at them.
+
+“Rise, citizens of House Neram.” Narhilda said. “Dorcot, Angeilin, and Wohrum.” She grinned as they stood. “Welcome home!”
+
+********
+
+Stella was at the corner store again, and trying to decide if she should get the XL or XXL prophylactics. Without actually seeing how big it was, I'm kinda flying blind here. She thought, perplexed.
+
+“Hey, Big Sis!”
+
+Stella turned around and saw her younger brother coming towards her.
+
+“Scott!” She said and took him into a quick hug. “I haven't seen you in ages.”
+
+“Yeah, it's been really busy at the garage.” He said and smiled. “You should pop by and see the place.”
+
+Stella laughed. “Uh huh. Like I'd be caught dead around all that grease and dirt!”
+
+Scott smiled. “Hey, it's not that bad.”
+
+Stella grabbed his hand and held it up to his face. “It's not?” She said and chuckled. The tips of his fingers were nearly black.
+
+“Okay, you got me there.” Scott said, then looked at the shelf his sister stood beside. “Oh my god.” He said and covered his face. Stella laughed and led him by the arm to another aisle.
+
+“It's alright, Mister Delicate Sensibilities. You can open your eyes now.”
+
+Scott smiled as he dropped the hand covering his eyes. “What were you doing there?”
+
+Stella rolled her eyes. “Take a guess.”
+
+“Stella!”
+
+She laughed again. “Come on! You can't tell me you don't buy them.” Then she looked at him closely. “You'd better tell me that you do buy them!”
+
+“Yes, I use protection.” Scott said. “I'm not stupid.”
+
+Stella smiled and put a hand on his arm. “I'm glad.”
+
+“Well, this just became super-awkward.” Scott said and grinned. “I really don't want to talk about my sex life with my sister, for Pete's sake.”
+
+“I'm a nurse, so Pete's okay with it.” Stella responded and Scott groaned. She hooked an arm through his. “That reminds me... how's it going with that girl you told me about?”
+
+“It's not.” Scott laughed. “Gloria turned me down flat.”
+
+“What?” Stella said, surprised. “Why?”
+
+“She gave me this weird excuse about how I was just trying to 'play on the wild side' with her, and wasn't really serious about it.”
+
+“Were you?” Stella asked.
+
+“W-what?”
+
+“Were you just playing on the wild side, or were you serious?”
+
+Scott looked at his sister with raised eyebrows. “You know you're supposed to be on my side, right?”
+
+Stella laughed. “I am; but if you weren't serious, she'd pick up on that right away.”
+
+He opened his mouth to defend himself, and Stella shook her head and smiled.
+
+“She saw right through you, little brother.”
+
+Scott closed his mouth and smiled. “Yeah, she did.”
+
+“Don't worry, there's plenty of fish in the sea.” Stella said. “Some even have their natural hair color, too!”
+
+Scott laughed. “Thanks, sis.” He said. “I'm just gonna grab a snack before heading home.”
+
+“Okay.” Stella said and gave him another quick hug. “Make sure it's healthy!”
+
+“Nachos and cheese are healthy.” Scott said. “It's got both the bread and dairy food groups in it.”
+
+“I could argue with you about the nutritional value of rib-sticking cheese.” Stella chuckled. “But I won't... not tonight.” She grinned. “See you later.”
+
+“Bye, Stella.” Scott said and walked down the aisle to head over to the counter. Stella went back over to the aisle she was in before, looked at the options, and grabbed a pack each of XL and XXL prophylactics.
+
+“My 'extra expenses' report this month is going to be a doozy.” She said and grinned.
+
+*
+
+After the formal indoctrination, Ren made a new cloth guard outfit for Wohrum, in House Neram's style, and red in color. He commandeered one of the rented carts and sent Dorcot and Wohrum to House Lodur.
+
+I wonder how surprised they are going to be at Dorcot's old House when he shows up. Ren thought as he went outside to the courtyard to build 10 more crates, the same size as the other one he'd made.
+
+*
+
+“I'm so glad that you accepted us into your House, My Lady.” Angeilin squeaked and drank some of the tea she'd been offered. I'm drinking tea with a Lady and a Princess! She thought and tried not to shiver from happiness.
+
+Narhilda smiled. “Please, it's Narhilda... in private, at least.”
+
+Angeilin's eyes widened. “Yes, My La... ah... N-N-Narhilda.”
+
+Narhilda chuckled. “I've only been called 'Lady' over the last few weeks.” She said. “And that's all because of Ren. Before that, I hadn't heard that title since my husband died 12 years ago.”
+
+“I'm sorry to hear that, My L... Narhilda.”
+
+“What are you planning on doing now?” Nathalia chimed in.
+
+“I'm going to keep my job.” Angeilin said. “I'm really good at it, and I practically run the place when Lady Longore isn't there.”
+
+“That's great.” Narhilda said. “I'm glad you're doing something that you want to do.”
+
+“So am I.” Angeilin said, then lowered her head. “You didn't have to reduce the garnish on my wages by so much, My... Narhilda.”
+
+“By law, I can't go lower than 1%.” Narhilda said. “Otherwise I would.” She put a hand on Angeilin's arm. “Your money is yours. The 1% will be used for maintenance on your house.”
+
+“My... my house?”
+
+Narhilda had a shocked look on her face for a moment. “Oops.”
+
+*
+
+Ren filled the crates up with diamond crystals, and stored them in the same slot. He now had nearly half of his slots open, and looked at all the gold ore he still had. Ren ran over to his workshop and piled it all inside, right next to the forge. There was quite a lot of it, but at least he had cleared several more slots.
+
+I'd better smelt it soon, though. Ren thought, then walked over to the far corner of the workshop. He unloaded nearly everything extra that he carried. All of his portable workstations, the 2 dozen springy trees, the woodworking toolbox, the box of knick-knacks he'd bought, all of his extra clothes, the spare stone bricks he'd enchanted back at the campsite by the mountain diamond mine, and anything else that wasn't essential. Ren walked over to the paving stone floor and unloaded the 180 stone bricks he still had in inventory. He then went outside and dropped off the campsite tent. When he was done, Ren felt absolutely buoyant.
+
+I didn't realize how much weight I'd been carrying all this time. Ren thought.
+
+“The only time you put anything down, was when you handed things off to Ruck.” Teepo chittered in laughter. Ren grinned.
+
+Wait until you see what I'm picking up next. Ren thought and ran back inside the house. He came to a stop in the main room and walked into the kitchen. “Sorry for interrupting.” Ren said. “Nathalia, can you bring out the french toast to Barnar and his crew?”
+
+“Of course, Ren.” She said and stood.
+
+“Thank you.” He said and tried to give her a quick kiss. Nathalia had a different idea and held on to him instead. They kissed for a full minute, then Nathalia broke the kiss and let him go.
+
+“You're welcome.”
+
+“I sure am.” He grinned and took off running.
+
+*
+
+“That was so sweet!” Angeilin said, and turned to Narhilda. “Is it always like that?”
+
+Nathalia chuckled as she piled the warmed up french toast onto several plates.
+
+Narhilda nodded. “Yes, it's getting to be a regular thing.” She said as her daughter left the kitchen. Once she was gone, Narhilda leaned in close to Angeilin. “I nearly walked in on them yesterday.”
+
+“You didn't!” Angeilin squeaked.
+
+Narhilda smiled. “He nearly had her laying across the counter, right there.” She said and pointed.
+
+“I wonder....” Angeilin said. “...was it because of him?”
+
+“What was?” Narhilda asked.
+
+“Oh, Dorcot...” Angeilin squeaked. “...he got... frisky last night.”
+
+“Let me guess.” Narhilda chuckled. “It was right after he left here.”
+
+“It was!”
+
+Narhilda smiled crookedly. “I take it he was... ah... more...”
+
+Angeilin let her teacup go, as she was shaking too much. “Like we were teenagers again!”
+
+They both laughed.
+
+*
+
+Ren arrived at the spot where the house was supposed to be. “You have got to be kidding me!”
+
+In front of Ren was a tiny little house, squeezed between two really large buildings. There was a tiny yard and a small white fence. Ren walked all the way around it in about 15 seconds.
+
+“They live here?” He shook his head. “Oh, well.” He took out his mining pick and dug all around the tiny house and down far enough to see if it was attached to anything. It wasn't, and Ren looked in one of the windows to see where the kitchen was, then dug along underneath the house to see where the pipes to the sink went. He didn't hit anything, so he knew it was all self-contained. Ren went back to the front of the house and dug up the fence. He selected it and stored it in inventory.
+
+“I'm tempted to take the lawn, too.”
+
+“Go ahead.” Teepo said. “Anything on this lot is theirs.”
+
+Ren grinned, took out a shovel and pried up the edge of the lawn, then rolled it up and stored it. Remind me which way it goes, Teepo.
+
+“Sure.” Teepo said.
+
+“It's a good thing I barely have anything left in inventory.” Ren said, touched the building, and selected 'store in inventory'. The house disappeared and Ren fell to his knees. “Dammit... that's... really... really heavy.” He took a deep breath and stood up. The house had taken only a single slot, but it grayed out 4 dozen others. It's a good thing no burden will slow my speed. Ren thought. That doesn't mean it's not freaking heavy, though!
+
+“You could have hired movers or something.” Teepo said as Ren started walking.
+
+I could have, but how would they have moved the house without destroying it? Ren thought. I think... I think this is different from a normal burden.
+
+“No, really?” Teepo chittered in worry. “Ren, you're carrying a house!”
+
+It's okay, Teepo. I can do this.
+
+“I know you can, Ren.” Teepo said in encouragement. “I know you can!”
+
+Thanks, buddy.
+
+Ren walked normally, but there was no way he was going to try and run. It took him about 20 minutes to get back to the main road, and he'd gained 2 points in Strength and 1 in Endurance. Ren took the corner to go up the long road to get back to House Neram, and sighed at the long distance yet to go.
+
+“It's only a few miles, Ren.” Teepo said. “You can stop and take a break.”
+
+Actually, I can't. Ren thought. My Stamina is still dropping steadily, even when I stand still.
+
+“Oh... well, you better hurry up then.” Teepo said and Ren chuckled.
+
+I would if I could. Ren thought and trudged along at a slow walk. I would if I could.
+
+*
+
+The driver of the cart stopped in the spot for deliveries to House Lodur and parked there. “I was told to wait and bring you back.” Dorcot and Wohrum hopped out of the back and picked up a large sack each.
+
+“Thanks.” Dorcot said. “This shouldn't take long.”
+
+Dorcot and Wohrum carried the heavy sacks into the Main House of Lodur and stood in line. When it came to their turn, a clerk at the end motioned for them to come over. Dorcot shook his head.
+
+“We're waiting... for him.” Dorcot said in a mean voice, and pointed to the clerk that has insulted his wife. The dwarf behind them went to the free clerk and Dorcot waited patiently. Three more dwarfs were served before the clerk in question had finally finished with the dwarf he was trying to serve. Dorcot stepped up to the desk and looked at the clerk in the eye.
+
+“Get. Your. Manager.”
+
+The clerk left the desk, and came back a minute later with the manager.
+
+“Is there a problem?” The manager asked, then he saw the old House Guard standing behind Dorcot, wearing a color of uniform he hadn't seen before. The manager rubbed his forehead and sighed. “Please, don't do this.”
+
+Dorcot smiled and pointed to the clerk. “This idiot insulted my wife, right here, in the House that she loves.” He said. “She's worked for you, for years, and never once complained! Then this fool literally gave her no choice but to leave!” Dorcot snarled. “I want to wring his little neck as hard as I can, and then laugh when it snaps.” He said. “I want to step on his arms and legs, just to enjoy the sound of his crunching bones.”
+
+Silence filled the Main House and everyone was looking at Dorcot.
+
+“Please, don't do this.” The manager said, as the clerk shook in terror.
+
+Dorgot looked with scorn at the manager. “Thanks to a very convincing argument, by both my wife and my new House, do you know what I'm going to do?”
+
+The manager shook his head, but glanced at the clerk.
+
+“Nothing.”
+
+“W-w-what?!?” The manager exclaimed.
+
+“I won't reduce myself to his level, or cause a duel between House Champions that would only get yours killed, for no other reason than he's an idiot.” Dorcot said and motioned to the clerk. “I won't sully my hands with either him, or this House any longer.” He said, then turned to address the crowd staring at him. “My wife has more Honor in her little pinky finger, than he has in his whole body.”
+
+Gasps were heard, and Dorcot ignored them, and turned to look at the clerk.
+
+“If you ever... ever... come near my wife again, or say anything bad against her... for any reason... I'll throw away all of my Honor, and grind you into dust.”
+
+“Witnessed.” “Seconded.” “I wanna see that!” “Me, too. That guy is an idiot.”
+
+“I've said my piece.” Dorcot smiled. “Now for the main event.” He stepped aside and Wohrum stepped up.
+
+“I'm here to arrange payment of my gold penalty.”
+
+The manager moved the chair from the desk, that the clerk that was sitting in, out of the way. “Here's the mandatory indentured servant form...”
+
+“No, I said payment.” Wohrum said. “I'm here to pay it.”
+
+“But...”
+
+“I want to pay it. All of it. Right now.”
+
+“But... everyone works it off!”
+
+“Not anymore.” Wohrum said to several more gasps.
+
+“W-w-well, then.” The manager said and took out another form. “That will be... 200 gold coins.”
+
+Wohrum grinned and hefted his sack onto the desk. “Here's a hundred.” He said and turned to let Dorcot drop the other sack. “Here's the other hundred.”
+
+A short scream was heard, and then a thud soon after. The manager looked at the sacks like they were playing a joke on him. Wohrum untied one of the sacks and the gold spilled out onto the desk.
+
+“You can count it if you want, but it's all there.”
+
+The manager stared at them in shock as he handed over the form. Wohrum signed it and handed it back. “Have yourself a good day.” He said then turned to Dorcot. “After you, sir.”
+
+“Thank you.” Dorcot said and the pair left the Main House, and were followed by the eyes of everyone that was still conscious. Dorcot and Wohrum climbed into the cart, and it took off at a fast trot, back to House Neram.
+
+*
+
+“Al... most... there.” Ren huffed as he slowly stepped along the road. His Stamina bar had run out 20 minutes before and his Health had steadily dropped ever since. He'd gained 3 more points in Strength and another in Endurance, though.
+
+“Come on, Ren... you can do it!” Teepo nearly shouted. “It's right there!”
+
+Ren struggled the last few feet, as he reached the spot where he had decided to put the house. I just hope they like it here. Ren thought, then looked at the spot. “Dammit. I forgot to clear it out.”
+
+“Just put it on the road for now. No one's coming.” Teepo suggested.
+
+“Good... idea.” Ren said and took the house from inventory and let the system place it, so that it was on a flat surface, then collapsed to his knees in relief. “Holy crap.” Ren said and let his Stamina bar recover a little bit. He stood up and pulled out his hammerpick.
+
+“I have to do this quick.” Ren set the plow end into the ground about a foot from the edge of the road, and ran back and forth until a lot big enough to hold the house was dug up. He took out the shovel and used up his Stamina bar again, clearing the lot out to be flat. “Whew.”
+
+“Ren there's a cart coming!” Teepo said.
+
+“Crap!” Ren ran to the road and stored the house again. “Teepo, remind me to never do this again.”
+
+“Ren, never do this again.” Teepo said and tried not to chitter in laughter.
+
+Ren laughed and nearly fell down. “Geez, don't make me laugh.” Ren huffed and stumbled to the dug up lot. “Here goes nothing.” Ren took the house out and set it right in the exact spot it needed to go. Ren knelt and took several deep breaths. His Stamina bar started to slowly refill and he took out the rolled up lawn.
+
+“The other way, Ren.” Teepo said.
+
+“Right, right.” Ren said and walked to the other side of the house and unrolled the lawn. It just fit in the last bit of space he'd dug up. The cart drove by while Ren stamped the lawn down into place.
+
+“By the GODS!” Dorcot shouted as he stared at the tiny house.
+
+Ren didn't hear the shout, and took out the fence to put it where it needed to go. He used the end of his hammerpick to poke holes in the earth for the fence posts, then slid the fence into place. Ren walked to the road and turned back to look at it.
+
+“I think that's perfect.” Ren said, then his vision went blurry, and he sat down. “Teepo, I'm kinda tired.”
+
+“Ren, don't lay down!” Teepo said.
+
+Ren looked at his Health bar and it was just about gone, with only a couple of points left. “I'm just going to rest here for a while.” He said and tried to lay down, but sprawled out on the road instead.
+
+“Ren! Not on the ROAD!” Teepo shouted, but it was too late. Ren didn't respond to his plea.
+
+*
+
+The cart stopped at House Neram and Dorcot and Wohrum got out. Dorcot knocked on the door first, then ran inside the house and into the kitchen.
+
+“Sugarplum! You've got to see this!” He said.
+
+“What is it?” Angeilin asked and she wrapped her arms around Dorcot's neck as he picked her up. He ran back outside and out through the gate. Nathalia and Narhilda walked out behind them. When they got outside the gate, however... they ran, too.
+
+********
+
+“Oh, Ren!” Barbara said. “What were you thinking?” She looked at him laying in bed and his breathing was nice and steady. She'd checked his vitals and everything seemed to be normal. Barbara shook her head. “You're trying to do too much!”
+
+*
+
+Lucy was sick of staying at home all day, and decided to go out. She hadn't been to a bar in months, but it didn't take her long to convince Stella to come along. She put on her best party dress, a bit of perfume that only had a slight smell of vanilla, and 3 inch high heels. She heard a horn outside and grabbed her coat and purse.
+
+*
+
+Stella sat in the taxi and waited for Lucy to come out of her house. I hope she doesn't do what I think she's going to do. Stella thought. I'll try to stop her, if I can.
+
+*
+
+Gloria sat at her computer and growled. I can't believe I only got a 75% on that engineering exam! She looked through the answers for 20 minutes, and grimaced. I did really well on the math questions, but that rat bastard professor red marked every single one of the written answers to the essay questions... and I can't even complain about it, because he's the one that sets the questions and the answers!
+
+She looked at her VR headset and frowned. As Elerlyth, I searched every corner I could find in the starter city, and I didn't find a trace of that Mitchell guy anywhere. She sighed. If Ren had been there, I'm sure I would have found Mitchell easily... or at least had fun while I searched. I hope Ren is having fun, wherever he is.
+
+Gloria looked back at her computer and had a thought that she hadn't had before. She typed up a search pattern macro in about 15 minutes, and set it to look for 'Ren', 'VR' and 'Game', logged into the VR forum server, and let it go. I could have used one of my old search macros, but I like redoing them for the practice.
+
+*
+
+Lucy was having the time of her life. She'd forgotten how fun it was to just go out and do something. Stella on the other hand, was having a hard time trying to reign Lucy in.
+
+“Lucy, you don't have to dance with every guy that asks!” Stella said.
+
+“Why not?”
+
+“Lucy, you're a nurse. You know why.”
+
+Lucy laughed. She'd had quite a bit to drink. “I haven't been a nurse since I started working in the lab.”
+
+“Lucy...” Stella sighed. “...you're still a nurse.”
+
+“Not for another week and a half, I'm not!” She said and then someone caught her eye. “Hey, I know him!”
+
+“Don't call him over!” Stella said.
+
+“Hey! Over here!” Lucy said and waved. The big burly man walked over and stood by their table.
+
+“Hey, Lucy. Howarya?”
+
+“I'm good! Wanna dance?” Lucy asked and stood up.
+
+“Always.”
+
+Stella grabbed her arm. “Lucy, who is he?”
+
+“It's okay, Stella. I've dated him before.” Lucy said. “Stella, this is Clint. Clint, Stella.”
+
+“Ma'am.”
+
+Stella nodded to him, and Lucy danced away with Clint hot on her tail.
+
+“Oh, crap.”
+
+*
+
+“He's fine.” Doctor Hobbard said. “Look at the screen.”
+
+Barbara turned and saw the feed was still coming through. Several figured were standing around Ren. The screen hadn't gone black, and no popups had appeared. According to the game, nothing was wrong.
+
+“He probably just exhausted his game body.” He said. “Otherwise, he'd have logged out himself.” Doctor Hobbard put a hand on Barbara's arm. “Let him sleep. If he's not awake by morning, we can log him out ourselves and see if anything's wrong.”
+
+“But... shouldn't we do that now?” Barbara asked, concerned.
+
+The doctor shook his head. “We have to wait for them to move him to a safe zone.”
+
+“A what?”
+
+The doctor chuckled. “I know more about this game now than I know about my children.” He said. “That's one of the reasons I've allowed his unlimited use of the VR system. If he's not in a safe zone when he logs out, he can be hurt and possibly die; but in a safe zone, nothing can hurt him.” He looked at Barbara. “You should know all of this.”
+
+Barbara sighed. “Sorry, I guess I'm not thinking straight.” She said and looked at Ren. “Okay, doctor. If you think it's best to wait.” Barbara said, worry in her voice.
+
+Doctor Hobbard smiled. “He just needs rest, and he should get plenty of it in there.”
+
+*
+
+Lucy didn't come back to the table after several songs, and Stella was getting worried. She'd lost sight of Lucy only a few minutes ago, then looked at Lucy's purse and coat on the chair and sighed. Stella picked them up and searched the whole bar, both bathrooms, and even asked the bouncer to check out back. Stella took out her cell phone and dialed Lucy's phone, and cursed when Lucy's purse rang.
+
+“Dammit, Lucy!”
+
+********
+
+“I'm out of healing.” Nathalia said, concern in her voice.
+
+“What should we do?” Wohrum the House Neram Guard asked. “We can't let anything happen to him.”
+
+Narhilda stepped forward. “Let's get him inside.”
+
+“How?” Dorcot asked. “I don't want to risk carrying him if he's hurt.”
+
+“Me, either.” The guard said.
+
+“The cart!” Angeilin squeaked and pointed to a cart that came off the road Ren had made.
+
+“Great idea, Sugarplum!” Dorcot waved to the driver and she pulled over.
+
+“By the gods! What happened?”
+
+They all pointed to the tiny house.
+
+“He built the house?”
+
+Dorcot laughed for a moment, then stopped. “No, he... he... carried it here.”
+
+“He WHAT?!?”
+
+Nathalia concentrated on her Command Aura. “Let's get him loaded in the back and take him to the house.” She said. “Dorcot, his chest and arms. Wohrum, his legs.” Nathalia stood and glared at them. “Be. Careful.”
+
+“You don't have to tell us that, Ma'am.” Dorcot bent down and gripped Ren under the arms, and Wohrum grabbed his knees. They lifted together and Ren sagged between them. He was gently placed in the back of the cart and the driver walked the pony all the way over to the house. A group of sad people followed it. When they entered the courtyard, Nathalia had an idea. They got Ren into the house and settled him in Narhilda's old bedroom. Everyone left Nathalia alone with him, and tears came to her eyes.
+
+“Oh, Ren.”
+
+********
+
+Gloria waited for an hour and the search came up with nothing. She thought that was odd, considering there should be some record of him on it somewhere. Ren plays the game. There should be an account of his posts and comments! She closed the VR server window and looked at her internet browser. Maybe I'm over-thinking this.
+
+Gloria opened her browser and just typed 'Ren' into the search bar. There were several thousand results, and she shook her head, and clicked the 'pictures only' option. Her screen was filled with different images that had nothing to do with what she wanted, and she scrolled down several pages.
+
+“Ugh... nothi-” Gloria stopped talking as she saw his face staring back at her. She clicked on the picture and it opened in a new window. His hair wasn't as fluffy, but it was definitely him. There wasn't any information on the image except his name, Ren Haddon.
+
+I can't believe he used his real name in the game! Gloria shook her head and closed the image. She went back to the browser and typed in his name. When the results appeared, her eyes widened.
+
+“Oh, my god.”

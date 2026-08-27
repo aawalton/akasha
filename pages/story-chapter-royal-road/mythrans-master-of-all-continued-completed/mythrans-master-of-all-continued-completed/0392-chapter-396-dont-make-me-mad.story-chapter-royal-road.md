@@ -1,0 +1,287 @@
+---
+id: 9c47bde0-4203-5550-a8ec-3a385fe31c89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 396 - Don't Make Me Mad"
+slug: 0392-chapter-396-dont-make-me-mad
+partOf: mythrans-master-of-all-continued-completed
+position: 392
+ownLength: 3587
+unit: words
+publishedAt: 2017-10-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169487/chapter-396-dont-make-me-mad"
+royalRoadId: "169487"
+---
+
+Ren woke up several hours later, and discovered that he was alone in the bed. “Huh? What?”
+
+“Hi, Ren.” Teepo said.
+
+Ren sat up and rubbed his eyes. “Where's Elerlyth?”
+
+“Elerlyth left an hour ago.”
+
+“Why didn't she wake me?” Ren asked and moved to the end of the bed. “Why didn't you wake me?”
+
+“She said you needed your sleep.” Teepo said. “She also asked me not to.”
+
+“Teepo, you're my friend.” Ren said and stood up. “But this is the second time you've done something like this to me. First with Nathalia, and now with Elerlyth.”
+
+“I... I know.” Teepo said, and he felt Ren's anger.
+
+“You will not do this to me again.” Ren said, suppressed his anger, and remained calm. “You are supposed to help me, not hurt me.” He said. “You will do your job and wake me when it's necessary. Do you understand?”
+
+“Yes, Ren.” Teepo said. “I'm sorry.”
+
+Ren took a deep breath and let it out, then equipped his Travelling Clothes. “Did she tell you where she was going?”
+
+“She said that a friend had messaged her and she needed to go.” Teepo said. “She also said to tell you not to worry, and that she would see you again soon.”
+
+“Well, that's just great.” Ren said through gritted teeth. “That means she's going into danger and she didn't want me along.”
+
+“But...”
+
+Ren concentrated on Elerlyth. “Elerlyth, where are you?”
+
+“Elerlyth, where are you?” Ren heard his own voice repeated from beside the bed. He walked over to the dresser and picked up Elerlyth's Spider Aura brooch. “She didn't want me following her, either.” He said and stored the brooch, despite the urge he had to crush it; then he left the apartment at a fast walk.
+
+Teepo flew behind him and didn't even try to take his normal perch on Ren's shoulder. Ren went down the stairs and saw that the Mayor's door was open. He looked in and saw that Patty was there.
+
+“Good morning, My Lord.” Patty said.
+
+“Good morning.” Ren said, not quite happily like he usually spoke.
+
+“She said you would be angry.” Patty said and handed him a note. Ren took it and read it.
+
+Dear Ren,
+
+I'm sorry I had to leave in such a rush, but when Hailey messaged me for help I had to go. I promised her that I would never reveal her location to anyone, so I must leave you in the dark. I'll see you at supper, assuming I'm not stuck in something that I can't get out of.
+
+Please don't be mad.
+
+Elerlyth
+
+Ren read the note again and took a deep breath, then enchanted the paper with a single Fire rune.
+
+“AhhH!” Patty yelled as the parchment burst into flames. It disappeared an instant later and Ren looked at her.
+
+“Please accept my apologies for scaring you.” Ren said and reached out for the empty plate on her desk and stored it. “I hope you enjoyed breakfast.”
+
+“I... I did. T-thank you.” Patty said, a little flustered.
+
+“If you will excuse me, I have some errands to do.” Ren said and left her office. “Princess? Do you feel like a quick run to Aurora? I need to see Jen about making more houses.”
+
+Of course, My Lord. Princess thought to him and stood up. Ren took her outside and climbed up onto her saddle, and Teepo landed on Princess' helm. He could still feel Ren's anger, and he didn't want Ren to tell him that he couldn't land on his shoulder; so, he didn't even try because he didn't want to feel the rejection. Not from his best friend, Ren.
+
+I'll take better care of you from now on, Ren. Teepo thought.
+
+Princess trotted out onto the road and then ran faster, then faster, and then she ran as fast as she could. They arrived at Aurora a couple of minutes later and she had to slow down because of the traffic. Rather than wait to get through the West Gate, Princess took the path Ren had made before and then ran around the city to the North Gate. Almost no one was there so they entered the city proper and Princess brought Ren over to the lumber yard. He slid off of her back and walked into the business with Teepo hovering beside him.
+
+“Hi, Ren.” A familiar voice said.
+
+Ren turned to look at Jhulune as she walked over to him. “I haven't seen you in a while.” He said, but he didn't smile like he usually did.
+
+“I've had some things to deal with.” Jhulune said. “How are you?”
+
+“I'm feeling angry at a couple of friends.” Ren said. “That's a new sensation for me, and I don't know what to do about it.”
+
+“Oh, Ren.” Jhulune said and gave him a hug. “It hurts a lot more when it's friends, doesn't it?”
+
+Ren nodded and hugged her back. They stood that way for several minutes, and Ren felt someone move through his Aura.
+
+“What's going on... oh, hello.” Jen said to Ren.
+
+“Hi.” Ren said and let Jhulune out of the hug. “I need more houses built.”
+
+Jen laughed. “We just finished yesterday!”
+
+Ren smiled, even though he didn't feel like it. “I had 30 more people move to my county, so they need a place to live.” He said. “They're in a Refugee Center right now, so a couple of days to wait is okay.”
+
+Jen nodded. “All right, we'll do up another caravan.”
+
+Ren took out some money, and Jen waved it away.
+
+“I haven't worked through what you've already paid.” Jen said. “Oh, and before I forget.” She took out a handful of gold coins. “Here's the last few payments for the loan, and the next few.”
+
+“Thank you.” Ren said and stored the money without counting it. Jen could tell something was bothering him, and she pointed to the large saw.
+
+“It needs some repair.” Jen said to distract him, and Ren looked at it.
+
+“Actually, I know what it really needs.” Ren said and walked out of the business.
+
+“Ren?” Jen and Jhulune said together and followed him outside. Ren took out his Instant Tower and activate it, and it sprung into existence.
+
+“Oh, my.” Jen said and marveled at it. “I... I can't believe...” She looked at Ren. “You made this?”
+
+“Come on in.” Ren said, in a bit of a better mood from feeling Jen's wonder and Jhulune's fascination. He opened the door and they went inside, and both women stopped and stared at the 4 businesses inside. He could feel their awe and looked at them.
+
+“Jhulune... Jen...” Ren closed his eyes. “ I... I've recently gained an ability that lets me feed on emotions, but I won't do that without your permission.” He said. “I need physical contact as well, and...”
+
+Ren gasped when both of his hands were taken and he felt both women offer up what they could. He opened his eyes and looked at them, and they both had smiles for him.
+
+“Ren, what you did for me was... well...” Jhulune remembered what they did and what she felt, and Ren absorbed it. “I'll give you anything you want.”
+
+Jen chuckled. “All you gave me was my dream property and a pile of money.” She said. “You scared me once, and I'm still not quite comfortable with that yet.” She smiled, and Ren felt a trace of her apprehension and it dried his tongue out a little. “But I could tell as soon as I saw you that you needed something. Just like Jhulune, if I can give you what you need...”
+
+Ren felt her offer up her wonder at his creation, and he sighed. “Thank you. Both of you.” He said and absorbed their emotions. He stayed like that for a few moments, then let their hands go. “Please, have a seat. This shouldn't take long.”
+
+Jen and Jhulune sat at the kitchen table and Ren went to the blacksmith section. He made 6 large circular saw blades, and with his current knowledge of spring coils and gears, he put them side by side on an axle with geared spacers in between so that they could be adjusted with a lever on the side. They had lots of torque, thanks to the gear ratio, and he made a box to surround it to cover over the blades and stop any debris from being flung out. He also added viewing windows so they could see how the blades cut and the size of the wood planks it would make. The last thing to add was the crank to charge the large coil springs to spin the blades.
+
+With his Fast Crafting skill that granted him a 25% crafting speed bonus, and his just recently gained Faster Crafting skill that granted another 25% speed bonus, he was done only 10 minutes later.
+
+“That... is that... it... it can't be.” Jen said and came over to Ren and took his hand. He gasped at her emotions, and he absorbed as much as she was willing to give.
+
+“I... made it so that...” Ren swallowed loudly and continued. “You can adjust the thickness of the planks you want.” He said. “Just... move this lever.” He pointed, and Jen pulled it. The saw blades moved closer together, and when she pushed it, they moved farther apart.
+
+“Oh, Ren!” Jen exclaimed, and Ren closed his eyes as he felt how happy she was. “We can quadruple production! This thing can cut an entire tree up by itself!”
+
+Ren nodded, and opened his eyes. “Let's... try it.”
+
+Jen turned to Jhulune. “Tell the workers to bring me one of the big logs...”
+
+“I have one.” Ren said and stored the new saw apparatus, and the three of them went outside. Ren took out the saw apparatus, made a really long table to lead up to it, then took out the large tree he had felled while he showed off to the work crews.
+
+“You've been carrying that around with you this whole time?” Jhulune asked, and Ren nodded. She took his hand, and he felt how turned on she was.
+
+“Jhulune...” Ren said and closed his eyes.
+
+“Sorry.” Jhulune said, but he could tell that she was lying and wasn't sorry at all. “You're just so... so...”
+
+Ren felt a thrill go through her, and he had to let her hand go before he did anything to feel that thrill from her again. He took a deep breath and took out an axe, chopped off the branches with one swipe each, much to the two women's surprise, and put the large tree on the table. He cranked up the saw, moved the blades to a thin cut, and looked at Jen.
+
+“I added a limiter so it doesn't spin out all of the stored energy at once, so when you hit the button, it goes fast but not uncontrollably.”
+
+Jen nodded and he pointed.
+
+“Go ahead.” Ren said and pushed the tree towards the saw blades. Jen pushed the button and the saw sprang to life. Ren eased the large tree through the blades, and right away, he saw his mistake. He stopped pushing and pulled the tree back out.
+
+“Why did you stop?” Jhulune asked. “It was working.”
+
+“I forgot to add the squaring blades.” Ren said and stored the saw. “Be right back.”
+
+Jen and Jhulune stood there as Ren went into his Instant Tower, and 15 minutes later, he came back out with a much larger saw box.
+
+“What is that?” Jen asked.
+
+“A redesign.” Ren said. “I thought about the limits I had unintentionally placed on the other one, and fixed it.”
+
+“How?” Jen asked, and looked at the bank of 8 levers. “What am I supposed to do with this?”
+
+Ren chuckled. “It's simple. I marked them.” He pointed. “This adjusts the spacing between the blades like the other one did. The next lever is the height of the first vertical blade.” He pulled the lever all the way down and the blade dropped out of sight. He pushed it back and it came up. “Each saw blade can be retracted, so you can use it for any size piece of wood you want.”
+
+“You... oh, my god.” Jen said.
+
+“You want a 4x4?” Ren pulled the two outside levers and the two inside ones to leave a 4x4 space between them. “A 6x6?” He pulled the fifth lever down to drop that saw blade and pushed the sixth up to leave a 6x6 space. “If you just want a square log without bark, then...” Ren pulled the second lever to drop that saw blade and pushed the first to make an 8x8 space.
+
+“Ren!”
+
+Ren could feel her emotions in turmoil over the possibilities. “The last 2 levers are for the horizontal blades.” He pointed through the window at the two large saw blades, one near the table surface and one near the top of the box. “They move up and down, so you can adjust the bark removal to each log.”
+
+Jen shook her head in disbelief. “I can't believe this!”
+
+“Me, either.” Ren said, and chuckled at her surprised expression and emotions. “Once I started thinking about it, I just kept adding more and more options.”
+
+Jhulune came over to him. “Now do the tree.”
+
+“Right!” Ren said and turned the crank a bunch of times to charge the saw. He moved the tree into position and looked through the viewing windows, adjusted the blades to remove the bark and make it square, then raised all the vertical blades to make planks.
+
+“Jen, hit the button.” Ren said.
+
+Jen hit the button, and the saws came to life. Ren eased the tree into the biting blades, and through them. It cut them so easily that he had pushed the 30 foot tall tree through before he knew it. Jen hit the button again to stop it, and the three of them looked at the large pile of planks that had come out the other side.
+
+“Hey, it worked.” Ren said. He felt a hand on his chin turn his face, and a flood of mixed emotions hit him. It left him speechless, and then Jen kissed him. It lasted for several moments, and Ren couldn't do anything but stand there as she poured her feelings out. Frustration, gratitude, fear, lust, and a jumble of others that he couldn't figure out in the few moments that he had to absorb them.
+
+Jen broke the kiss and tried not to giggle at his expression. “I think that's how I looked that first time you kissed me.”
+
+Ren stared at her with wide eyes.
+
+“Yes, just like that.” Jen said and then she laughed. “Yes, I know... you'll never do anything more than that, just like you promised.” She said. “Plus, I don't think Jhulune would forgive me if I stole her crush.”
+
+“He's not my crush, Jen!” Jhulune said, a bit hotly. “I love him!”
+
+Ren felt that she actually did love him, and he took her hand. “Jhulune...”
+
+“No, it's all right, Ren.” Jhulune said. “We made a promise, too.”
+
+“But...”
+
+“I wouldn't ask you for a relationship, and you weren't going to give me one.”
+
+“But...”
+
+Jhulune looked at their hands. “You can feel it, right? It's not painful, is it?”
+
+Ren sifted through everything she was feeling and found her love. He could tell that it wasn't hurting her like an unrequited love would. He felt that it was, in fact, making her a better person.
+
+“Jhulune.” Ren said and cupped the side of her face. “Now it's my turn to regret that I didn't meet you first.”
+
+Jhulune chuckled. “I'm too young to be the one that got away.”
+
+Ren felt her amusement and smiled. “Is there an age limit on things like that?”
+
+“I have no idea.” Jhulune said and stepped close.
+
+Ren felt the shift in her emotions towards seduction, and he almost moaned.
+
+“I never did thank you for leaving my mother that gift to remodel the house.” Jhulune said and kissed his cheek. “Thank you.”
+
+“I... by the gods, Jhulune...” Ren closed his eyes and took a deep breath. He opened them when he felt her pleasure that she was affecting him so much. “I... really need to go.”
+
+Both Jhulune and Jen chuckled at his admission.
+
+“We'll get one of the crews over to carry this monstrosity into the building.” Jen said.
+
+“No, no. I'll do that.” Ren said and stored the saw apparatus and the long table, ran into the building to drop it off beside the other one, then came back out a few seconds later.
+
+“How did...” Jen shook her head. “Go on, get going.”
+
+Ren collapsed his Instant Tower and stored it, stored the fresh planks and left the bark, then hopped on Princess. “Bye!” He said and braced himself, then Princess disappeared.
+
+“What the... where did he go?” Jhulune asked, surprised.
+
+Jen shook her head and shrugged. I think he's having a hard time with his new ability. She thought. I just hope he can get a handle on it before the party.
+
+Ren told Princess to stop at his business and she went around to the back. He climbed down and told her he would be right back, then went inside. When he came through the door at the back of the shop, Anabelle stood there. She had been waiting for him.
+
+“You're back.” Anabelle said.
+
+“I am.”
+
+“You came to see me first.”
+
+“I did.”
+
+“I'll tell Katie to watch the counter.”
+
+“I don't have ti-” Ren stopped talking when Anabelle covered his mouth, and he felt her desperate need to be with him.
+
+“I'm telling Katie to watch the counter.”
+
+Ren nodded, and Anabelle left him to do what she said. Oh, boy. He thought. Okay, Ren. Calm down. You do not have to have sex with her. All she really wants is to be bossed around a little.
+
+Anabelle came back over to him, and he opened his mouth to tell her that he had to leave. Once again she covered his mouth with her hand, then walked around him to rest her arm across his shoulders and kept his mouth covered. She opened the back door with her free hand, and led Ren up the stairs to the apartment. Ren couldn't help himself and absorbed some of her need of him, and Anabelle closed the apartment door.
+
+“What are you doing?” Anabelle asked. “I can... feel something... are... are you...” She looked at him with wide eyes. “You have Elerlyth's ability!”
+
+Ren nodded, and Anabelle was filled with sympathy for him.
+
+“I'm so sorry.” Anabelle said and knelt. She kissed him, and he could feel her trying to suppress her desperate need so she could take care of him.
+
+“Stop.” Ren said when he broke the kiss, and Anabelle looked at him. He felt her surprise, and he cupped the sides of her face with his hands. “Don't stop needing me, Anabelle.”
+
+Anabelle's heart went pitter-patter and her feelings for him welled up. “Ren...”
+
+“I knew it in my head, but... feeling it in you is...” Ren sighed and kissed her. Anabelle let her need out, and Ren absorbed some of it. He picked her up and carried her to the bed, and he could feel her anticipation. He put her down, and she stored her clothing while he took off his Dire Wolf Hooded Cloak and stored his own clothing. He could feel her admiration, and her desperate need blossomed into full-on desire as he climbed onto the bed with her and they embraced.
+
+Ren fed her need to be with him, and she fed his need to feed on her emotions. It took nearly half an hour for Anabelle to feel satisfied, and Ren kept going until she was much more than just satisfied. He left her in the bed half an hour later, and he could feel that she was floating on the sensations he had made her feel. Her need was always there and it needed to be fed, just like his Emotion Siphon ability.
+
+“Th-thank you.” Anabelle said, when Ren stood up.
+
+“Anabelle, you don't have to thank me for-”
+
+“Not for that.” Anabelle said and tried to sit up; but, she was too relaxed to move properly and laid back down. “You came to me first.” She said, and he felt how overjoyed she was about it. “I was first.”
+
+Ren stroked the side of her face, then traced a line down the side of her neck. He splayed his fingers out wide and gently ran them across her chest, her abdomen, and stopped at her belly button. He flipped his hand over and reversed the movement to end right back at her face.
+
+There wasn't any real point to the movement, since neither of them had felt anything sexual while it was happening; but, the both of them felt better about themselves that he could touch her like that and it didn't have to devolve into sex if they didn't want it to.
+
+“I'll see you later.” Ren said and equipped his Travelling Clothes, then put on the Dire Wolf Hooded Cloak. Anabelle watched him as he fastened it into place, and Ren felt how much she liked him. He leaned down and gave her a quick kiss, then left the apartment.

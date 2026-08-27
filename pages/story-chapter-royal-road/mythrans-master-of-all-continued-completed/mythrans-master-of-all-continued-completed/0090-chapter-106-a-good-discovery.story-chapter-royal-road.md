@@ -1,0 +1,259 @@
+---
+id: 258933a3-76c6-59de-aec9-ccd28e679ea3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106 - A Good Discovery"
+slug: 0090-chapter-106-a-good-discovery
+partOf: mythrans-master-of-all-continued-completed
+position: 90
+ownLength: 3142
+unit: words
+publishedAt: 2016-12-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106302/chapter-106-a-good-discovery"
+royalRoadId: "106302"
+---
+
+Ren had several hours to kill, so he figured now was a good opportunity to go over some of Lord Neram's patterns. They were all designed for dwarves; but Ren knew that with just a few tweaks here and there, they were easily adaptable for other humanoids to wear as well. He opened each pattern and studied it, altered it and saved the copy, keeping the original intact, and opened the next one. After 3 patterns, he got a popup.
+
+Stat Change!
+
+Pattern Making Level 3 (Beginner 0%)
+
+I only had 10% left to level that; so if it took 3 patterns, then on average, it's about 3% to 5%, depending on the alterations. If I have that right, then it'll only take 25 patterns, give or take, to go up each Beginner level. Ren smiled and continued to work. He kept an eye out for anything happening, but a good portion of his concentration was on the patterns. He sat there for nearly 4 hours, and altered 120 more patterns past the first, and almost had Pattern Making up to level 8 {it was currently at Level 7 (Beginner 80%)}.
+
+Only 5 more patterns and I'll level it up. Ren thought, then heard Nathalia roll over in the bed and get up. Ren stood as well and brought the chair into the tent.
+
+“Good morning.” Ren said, put the chair by the table, and took out a few plates of food.
+
+“Good morning.” Nathalia said, in an even voice.
+
+“Is everything okay?” Ren asked.
+
+Nathalia nodded slightly and came over to sit at the table. “I didn't get much sleep.”
+
+Ren reached out and put a hand on her shoulder. “You can go back to bed. Breakfast can wait.”
+
+Nathalia stiffened for a moment and then relaxed. “That sounds great, but you've got some mountaineering to do.” She said and put a hand on his. “If you want to get any mining done today, you better head out as soon as you can.”
+
+“You're right.” Ren said and sat down opposite her. “In fact, I should leave most of the food with you.” He said and took out all the plates of food he had in inventory. “I'm going to need the extra room if I'm going mining.”
+
+Nathalia looked at all the food. “You really did take enough to last the week.”
+
+Ren smiled. “I wasn't sure how long I was going to be out here, so I brought enough that if I rationed, it would last a long time.”
+
+“I don't know if I should be sad that I'm messing up your plans, or happy that I'm not stuck in that place and away from you.”
+
+“Be happy.” Ren said and chuckled. “I was tempted to sit on the mountainside during meal times to eat, and wave at you through the windows.”
+
+Nathalia laughed. “You would, wouldn't you?”
+
+Ren grinned. “Once or twice, at least. I wouldn't want you to get in trouble or anything.”
+
+She reached out to put a hand on his. “Thank you.”
+
+Ren's eyes widened. “What are you than-” Nathalia squeezed his hand and interrputed him.
+
+“You were going to keep me company, and make sure my mother was still in contact with me.”
+
+Ren opened his mouth slightly, closed it, then nodded.
+
+“You're a really good man, Ren.” Nathalia said and started eating. Ren joined her and they ate in silence. It wasn't uncomfortable, though. He glanced at her several minutes later, and caught her staring. Nathalia blushed a little, and Ren winked at her. She snorted a laugh and Ren chuckled. They finished eating and Nathalia stored both the full plates of food and the empty ones.
+
+“I don't know how long I'll be gone, so I want to give you something.” Ren took off one of his Protection rings and absorbed the enchantment. He then took out his remaining unequipped gold ring and held the both of them in one hand and placed a single finger on the inside of each one. Ren brought the double glyph he'd made for the Dwarf Rune: Speak, to his mind, then concentrated on his Connection ability, and enchanted the rings. It took a minute for the Mana to soak into the rings, and then they stopped glowing. Ren put his ring back on his index finger and stood up to walk around the table, and knelt in front of Nathalia.
+
+“With this, you'll be able to contact me once an hour.”
+
+Nathalia looked at Ren in surprise. “You're giving me a ring?”
+
+Ren nodded. “The rune is on the inside, so you're always touching it. All you have to do is think that you want to speak to me, just like you would if you were using the big Sending Stone. I'll hear you on mine and can respond.”
+
+“Ren, I... you're too generous.”
+
+Ren smiled. “I won't have you here with no way to contact me.”
+
+“You're not going to be that far away.”
+
+“Right. So if you need me for anything, anything at all, I'll come running.”
+
+“Ren, I don't want you at my beck and call.” Nathalia said and shook her head.
+
+“That's too bad, because these things work both ways.” Ren smiled. “If I need you, you'd better come running.”
+
+“What could you need me for?”
+
+“I'm going to be in a deep, dark hole, mining.” Ren said. “I might need an emergency bone breaking hug.”
+
+Nathalia snorted a laugh.
+
+Ren held the ring out. “Nathalia, will you stay in contact with me?”
+
+Her face flushed a little red at the intimacy of the moment, and held her hand out. “I will.”
+
+Ren slipped the ring onto her index finger, matching it's position to his own. It shrank to fit her finger and she smiled as she admired it's gleaming gold surface.
+
+“I better get going.” Ren said and stood. Nathalia stood as well and followed him to the tent flap.
+
+“You'd better be careful, Ren!” Nathalia said and stood on her tippy toes to give him a quick kiss on the cheek, then waggled her hand in front of him. “I expect a call every hour to make sure you're okay, mister!”
+
+Just then the Sending Stone brick started glowing and her mother's voice came out of it.
+
+“You better be up and eating breakfast by now, sleepyheads! Or I'm gonna come over there and drag you both out of bed!”
+
+Nathalia had a shocked look on her face, at the image that scenario had produced, and Ren started to laugh. “You can break the news to her that I only stood guard...” He said. “...and I didn't take advantage of you.” Ren kissed Nathalia quickly on the lips. “Tell your mother I said 'Hi'.”
+
+Ren left the tent and gave a bowl of food to Princess. She dug in with aplumb and Ren smiled.
+
+“I'll be back tonight to feed you again.”
+
+Ren knocked on Ruck's cabinet. “I need you to hold a few more things for me, Ruck.”
+
+Ruck opened the cabinet and Ren passed him the 2 dozen springy trees, minus the two holding up the tent, the extra weapons he had, and all the bolts of cloth. Ruck ended up being completely full and Ren nearly empty of extra things that he didn't need to use right away.
+
+“Thanks, Ruck. I won't leave you carrying that for long.”
+
+Ruck gave Ren the 'okay' gesture and closed the cabinet.
+
+Ren looked in the direction that Teepo had gone. Hey, Teepo. How far did you get?
+
+“I'm halfway up the slope.” Teepo said.
+
+Ren chuckled. Sweet! Ren thought as he started to run. I assume you checked the area before going up so high?
+
+“Of course. It's clear right up to where I am right now.” He said. “Plus, I can see quite a ways from this vantage point.”
+
+I'll be there in a bit. Ren thought and kept his pace at a good level, only draining his Stamina slowly. By the time he got to the mountain half an hour later, his Stamina was only down by a quarter.
+
+Teepo?
+
+“Over here.” Teepo said.
+
+Ren looked around and saw Teepo jumping up and down a good ways up the slope. Ren half-walked-half-climbed up to Teepo, being careful of where to step, and focused on Metal Detection. He felt a few pulses, but they were really weak and Ren knew there wouldn't be much there, ore-wise. He stopped where Teepo was, and there was a small crack in the side of the slope.
+
+Let me guess. There's a nice little cave inside.
+
+“You betcha!” Teepo said and chittered in delight as he slipped inside the crack. “It's great!”
+
+How far in?
+
+“Only about 10 feet or so to an outcropping, then it really opens up.”
+
+Ren took out his mining pick, walked about 10 feet away from the crack, and started digging. He didn't make his normal sized hole, though. The hole was only about 3 feet wide and 5 feet high. Once he was in about 2 feet, he dug it out enough to swing the pick like normal. Ren went back outside, cut a piece of fabric to fit over the hole, dyed it a color as close to the rock as he could get it, and nailed it in place on the top 2 corners and down one side. He took out a stone brick, stepped inside the hole, and tucked the last corner of the fabric in to put the brick on it.
+
+That should stop prying eyes. Ren thought. Assuming anyone cared to look for it. He stopped. I better let Nathalia know. The ring glowed slightly, and Ren spoke.
+
+“Hi, Nathalia. I just got to the mountain and made an entrance, part way up the slope. I covered it in fabric to hide it, though. I didn't want to leave it open, because it could probably be seen pretty far away if I did. I'll guide you to it, if I need your help.” Ren said and the glow faded. He waited a moment and it glowed again.
+
+“If you call, I'll be there as fast as I can.” Nathalia said. “It's pretty far if it took you this long to get there. Take care, okay?” The glow faded and Ren smiled.
+
+“I'll be as careful as I can be while having thousands of tons of mountain on top of me.” Ren said and chuckled. He noticed that the ring had glowed again when he spoke. No way!
+
+A moment later, it glowed again. “Ren? I heard you!” Nathalia said in surprise. “I thought these things were only supposed to work once an hour?” The glow faded and Ren was surprised.
+
+“I guess when I combined multiple runes when I enchanted them, instead of increasing the distance, it must have increased the usage.”
+
+“That's so great!” Nathalia exclaimed. “We don't have to wait a whole hour, worrying if the other person is okay!” She said and sighed a moment later. “Now I have to decide if I want to tell Ma.”
+
+Ren chuckled. “You don't have to; but it's better for her to know, for the same reason you just gave me.”
+
+“All right, I guess I better tell her.” Nathalia laughed. “You still have to be careful, though!” She said. “Call me again when... if... you take a break.”
+
+Ren laughed. “If I take a break, I'll call right away. Talk to you later, Nathalia.”
+
+“Bye, Ren.”
+
+The ring stopped glowing and Ren started to dig again. He dug over to where Teepo had said that the outcropping was and Ren felt the pick break through the rock wall. He stepped out into the small area and over to where Teepo was waiting for him.
+
+“Holy crap!” Ren said, and it echoed back to him half a dozen times.
+
+“I told you it really opened up.”
+
+“You weren't kidding, Teepo!”
+
+The cave was about a mile long, and about half that wide. With Ren's perfect night vision, he could see in the nearly total darkness easily. Ren stood in awe of the natural wonder. The outcropping he stood on was only about 10 feet from the floor of the cave. Ren decided that he didn't want to jump down every time or have to climb back up when he wanted to leave, so he used his pick to dig a 4 foot wide ramp opening in the rock. He misjudged it a little and it ended about 6 inches above the floor, so he dug it out to match as closely as he could get it.
+
+“You know, caves are usually filled with bats and things.” Ren said to Teepo.
+
+“Usually, but there's no openings to this one.”
+
+“How do you know that?” Ren asked.
+
+“Look up.”
+
+Ren looked up and about a hundred feet up, saw that the ceiling had a few stalactites, but otherwise it was completely bare.
+
+“If there was any kind of opening, it would be covered in bats.” Teepo said.
+
+“Teepo, I just made an opening.”
+
+Teepo chittered in laughter. “If they can somehow find that, it would still take a long time for them to populate the place.”
+
+“I'll take your word for it.” Ren said.
+
+“Teepo is smart, Teepo is wise.” Teepo said.
+
+Ren laughed and it echoed across the cave. “Come on, Teepo the Wise.” Ren said and picked Teepo up. “Let's take a good look around.”
+
+*
+
+“I can't believe this works so well.” Narhilda said. “He's an amazing man, dear.” The stone's glow faded and a moment later, Nathalia touched it to speak.
+
+“He's more amazing than that.” She told her mother. “He keeps surprising me with everything he can do.” She ran a hand over the armored breastplate. “The things he's given me to protect me... it's worth more than any other woman has ever received as courting gifts... and he said he'd make more for me when he builds a forge!”
+
+“I knew I was right when I said he'd make a good courter.” Her mother said. “You just have to look at what having him around has done for us and the House! When he joins the family officially in 2 years... our House will continue to live on, with a real man at it's head again.”
+
+*
+
+“This place is enormous.” Ren said and approached the wall of the cave on the other side. It only took about 20 minutes to cross the wide open space. He'd only felt a few small pulses of iron ore in the floor during the walk. There was barely any stalagmites or anything inside, either.
+
+“I'd better go along the walls and see if I can find something to dig up in here.” Ren said. “I don't want this to be a complete bust.” He walked along the wall and got about a third of the way back to the entrance and felt a really strong pulse. It wasn't iron, though. “Ooo, right here.” Ren said and started to dig. About 15 feet in, he hit a huge vein of gold, and smiled. Ren dug it out and followed it for a good hundred feet before it petered out to only a trickle. He went back and dug out all of the surrounding rock to make sure he got all the main ore pieces that he could find. When he was done, he'd almost filled 4 slots with ore pieces.
+
+“If I had crates, I could fill them with ore first, and then store the crates instead.” Ren said. “I should go back to that forest and harvest some trees, but cutting planks takes a while and then a couple of days to dry.” Ren shook his head. “No, I'm just going to fill my inventory as much as possible and go to House Neram. I'll rent a cart or something and come back... maybe with crates already made.”
+
+Ren looked at his communication ring.
+
+*
+
+“Ma...” Nathalia said. “Right now, we don't have any income at all. You can't order things for the ceremony without-”
+
+“Hi, Nathalia. I found a bit of ore, but it wasn't what I was looking for. I'm going to keep looking for a while, and if I find a good haul of iron, I'll call again and let you know I'll be late for supper.”
+
+Both the ring and the stone stopped glowing. A moment later, the stone glowed.
+
+“Is Ren there? I thought you were touching the stone to talk, dear.” Narhilda said.
+
+Nathalia looked at her hand, and the ring Ren made for her was touching the Sending Stone. I have to remember to tell him! She thought. He'll be so happy! She took her hand off the stone and thought of talking to Ren. The ring glowed and she spoke.
+
+“I'm going to hope you find something! The food can be ready anytime, you know that. See you later.”
+
+Nathalia touched the Sending Stone with her other hand and told her mother what had happened.
+
+“He'll be so happy!” Her mother said.
+
+“That's what I thought, too!”
+
+*
+
+Ren walked all around the perimeter of the cave and only found a few spots with iron ore. He ended his walk at the far side of the cave, opposite the entrance.
+
+“I know I'm missing something.” Ren said. “For this cave to exist, there has to be a reason.” Ren wracked his brain, but couldn't come up with anything. He sat down and felt something jab his thigh.
+
+That's odd. I'm wearing my leather armor. I shouldn't feel something jab me so much. Ren moved his leg away from the spot, but it just looked like a rock. He shifted aside and was poked in the other leg.
+
+“Dammit!” Ren said and stood up. “I don't see anything! Do you, Teepo?”
+
+“No.” Teepo said. “Maybe you should try using a lantern or something.”
+
+“That's a great idea!” Ren said and took out his old lantern. He filled it with oil and lit it. “It might show us something that can only be... HOLY CRAP!”
+
+The lantern normally would only light up about 30 feet, but small bits of reflective surfaces that were embedded in the rocks, spread it out to nearly three times that.
+
+“Teepo! Tell me that's not what I think it is.” Ren said to his friend.
+
+“That's not what you think it is.” Teepo said.
+
+“It's not?!?” Ren asked, surprised.
+
+“Ha ha, it is.” Teepo chittered in laughter. “You told me to tell you it wasn't, though.”
+
+Ren rolled his eyes and knelt on the floor, close to one of the reflective surfaces that had poked his leg when he sat on it. It was the edge of a clear, uncut diamond crystal, about the size of his fist.
+
+“Diamonds!”

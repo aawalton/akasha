@@ -1,0 +1,205 @@
+---
+id: 9609e2d9-2680-5cd9-b16d-f9a0f899cee5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96 Formation"
+slug: 0101-chapter-96-formation
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 101
+ownLength: 2182
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3672377/chapter-96-formation"
+royalRoadId: "3672377"
+---
+
+Adjusting the cloak upon his shoulder, he stepped out of the manor with Sera close behind him.
+
+Lucien couldn't help but let out a breath at the sun beating down on him. If this was how he felt, the men digging the ditch beyond the northern palisades were likely faring far worse beneath the heat.
+
+He returned the greetings from the two guards at the courtyard entrance before turning to Talia's shop. She was either there or was waiting at the ditch site by now, it was best to make sure first.
+
+As he passed, a few women glanced in their direction.
+
+They were not looking at him specifically but at Sera, walking beside him.
+
+It was not the first time he had noticed conversations lowering whenever she passed nearby these past few weeks.
+
+Since that day when he had called for volunteers, there had been a subtle change within Ashridge. There were no additional women who stepped forward in the weeks since then but people were clearly having their own discussions about it in private.
+
+Lucien took out a cloth to wipe the sweat from his brow, his gaze briefly shifting toward the quiet girl walking beside him.
+
+'How is there not even a drop of sweat on her?'
+
+Sera's eyes flicked toward him, her head tilting slightly in question.
+
+Before he could say anything, two women began to approach them.
+
+"Pardon the intrusion, My Lord...could we speak to Sera here for a moment? It's regarding the...volunteer militia? We would like to ask her a few questions."
+
+Lucien turned to face them fully, noting that one of the women was the same younger one that had attempted to step forward but ultimately chose not to at the very last moment.
+
+His brow creased faintly at their phrasing before a light voice cut in.
+
+"Lord Lucien! Sera!"
+
+Talia, standing at the entrance of her shop, waved energetically at them before hurrying over.
+
+She stopped near them, her eyes flicking toward the two villagers before she spoke. "Ah My apologies, am I interrupting something?"
+
+One of the women quickly raised both hands. "Oh no, Lady Talia, We were just wondering if we could ask Sera here a few questions regarding volunteering for the militia."
+
+Talia let out a deliberate hum, tapping her cheek. "Oh? Why not ask the guards for that?"
+
+The younger woman glanced away to the side. "The guards are...well, a little hard to approach when it comes to things like women fighting..." she sounded uncertain about her words.
+
+Talia gave an agreeable nod, a practiced smile resting on her lips. "I see...but wouldn't it be better to hear it from one of the guards in the end? Sera isn't involved in Ashridge's military affairs after all."
+
+The other woman stepped forward, her expression slightly uncertain. "Lady Talia, we feel more comfortable asking another woman than a guard...it would only take a moment."
+
+Talia's smile sharpened slightly, but before she could speak, a child's voice rang out.
+
+"If its questions then we have the answers!"
+
+The boy with the wooden sword declared as he pointed it outward in what he likely believed was a heroic manner if not for the sweat soaking his face.
+
+Another child, walking over more slowly, let out a tired breath, his hoop dangling from his arms. "Roland...you...why did you rush all the...way here?"
+
+Roland turned back, pointing his sword needlessly at the boy with the hoop. "Leo! You're too slow! How's my underling supposed to keep up with me in our future heroic entrances!"
+
+"Its Leofric! Le-o-fric! Stop calling me Leo!" Leofric exclaimed before he began panting again. His eyes drifted before resting on him, widening in realization.
+
+"L-Lord Lucien!"
+
+Lucien's brow lifted as he regarded him, a faint twitch at the corner of his lips. "Leo. Playing with Roland again?"
+
+Leofric slumped at his words. "Yes, Lord Lucien...no wait. We aren't playing!"
+
+Roland puffed his chest up, though it didn't last long when he had to take another breath. "That's right! We are here to request for Sera to accompany us! It's Cora's quest!"
+
+The sharp smile on Talia's lips shifted to something more teasing. "Oh? Receiving quests from a lady already?"
+
+Roland gave a serious nod, sword planted downward. "She said to request Sera for her...compan...companionship...? Or was it compansionship?"
+
+Leofric's hand rubbed at his temple. "It's companionship. And you don't have to use the word if you don't know it, Roland."
+
+Talia glanced briefly at Sera, as she gave her a light nudge. "Someone's popular. Well, what do you think, Sera? You wanna go with them to complete their very important quest?"
+
+At her words, Sera's head tilted in consideration before she turned toward Lucien.
+
+Lucien inclined his head slightly. “It is up to you, Sera.”
+
+Sera remained still for a moment before giving a small nod, her pale eyes briefly shifting toward the two women nearby.
+
+The younger woman quickly shook her head. “Oh no. If you're busy, then that's fine. We don't want to take up your time.”
+
+Beside her, the other woman lowered her head apologetically. “We will ask one of the guards instead. Sorry for bothering you, Lord Lucien...Sera.”
+
+He inclined his head once more, and the two women quietly withdrew soon after.
+
+Leofric let out a cough, folding his arms behind his back. "Lord Lucien. We will escort your lady from here and ensure her safety."
+
+The words caused Lucien's brow to twitch even as a soft chuckle escaped Talia's lips.
+
+Roland however had other ideas, with his wooden sword pointed at another direction he declared loudly. "Wait! We must move in formation first! Sera, stay behind me while we travel to distant lands!"
+
+"...We are just going to Cora's house, Roland." Leofric muttered as he exhaled through his nose.
+
+Sera however gave a firm nod at the words and moved to stand behind the boy.
+
+Pointing his sword toward the other boy, Roland puffed up. "See Leo! Sera understands the need for it! Now come, we mustn't delay any longer or she'll eat all the snacks again!"
+
+He immediately marched off. Sera followed close behind him with such a serious look on her face that Lucien briefly wondered if she was genuinely treating this as a proper formation.
+
+Leofric let out another breath before he bowed. "We'll be off then, Lord Lucien, Lady Talia."
+
+The boy turned and ran to catch up. "Roland, wait for me! And stop calling me Leo!"
+
+Lucien watched them leave, the sight of Sera intentionally slowing her pace so she remained behind the boy earned another amused chuckle from Talia.
+
+She watched the children disappear down the road before letting out a small hum. “Looks like I didn't need to do a patch this time around.”
+
+Lucien’s gaze lingered briefly on Sera walking among them before he glanced toward Talia. "I didn't expect you to still be here."
+
+Talia shook her head lightly, a smile still on her face. "I had to check a few things with Maris. Gotta get ready for summer's stock before it comes."
+
+He shot her a dry look. "At least you're still handling that portion of the work. Bran has been telling me his wife is busier than ever now."
+
+She rubbed the back of her head sheepishly. "Hey, I've been trying to find someone to help her too! It's hard to find extra help nowadays."
+
+Lucien let out a breath as he gave a nod.
+
+The ditch work had taken up a significant portion of Ashridge's available labor. With three different groups rotating through the ditch work alongside family members helping where they could, there were essentially no free hands available without straining the people further.
+
+Lucien glanced toward the northern palisades. “We should speak with the masons while they're still at the sluice gate site.”
+
+Talia stretched her arms with a satisfied sigh. "Let's go then! You're leaving for Helvarn soon right? Best not waste time while you're still here."
+
+They made their way toward the northern edge of Ashridge, where the newest foundation of the village’s future was steadily taking shape.
+
+Even before they reached the ditch site, the sound of labor carried clearly through the air. The scrape of shovels against dirt mixed with the murmur of voices and the occasional splash of water near the riverbank.
+
+As Lucien's eyes swept across the workers, he quickly recognized many of them.
+
+Most belonged either to the western fields or the surviving villagers from Cragwatch, though a handful from the eastern villages worked among them as well.
+
+A few faces stood out more than others. Men who had once nearly come to blows during Mid-spring now worked beneath the same sun, hauling dirt and timber.
+
+The men naturally divided amongst themselves while digging, speaking more often to those they already knew. It was subtle enough that most might not have noticed it at a glance.
+
+Their families, however, made the divide far less clean.
+
+Wives carried water between both groups without much thought while children wandered freely between shade cloths and stacked timber, entirely unconcerned with whatever tensions still lingered beneath the surface.
+
+Together, it created a faintly awkward atmosphere, one Lucien suspected the men themselves were increasingly aware of whenever their wives spoke too casually with the other side nearby.
+
+Despite that, he could see the irrigation ditch beginning to take shape, cutting through the land in a long uneven line.
+
+Sections nearer to the river had already widened considerably, reinforced with timber supports driven deep into the softened ground to prevent the banks from collapsing inward.
+
+Near the Easthollow River itself, Harlon stood with Garrick and two unfamiliar men near the partially completed water gate, their discussion occasionally shifting toward the structure beside them.
+
+Thick wooden beams stood anchored along the riverbank beside partially fitted stonework that had only recently begun replacing sections of packed earth.
+
+Several workers moved carefully through the shallow water while others hauled timber or shaped stone nearby.
+
+The structure still carried the look of a frontier project built through labor and necessity rather than refinement. Fresh tool marks lined many of the beams while sections of stone remained uneven where mortar had only recently been set.
+
+As they approached, Harlon spotted them first causing the rest of the group of men to turn.
+
+To Lucien’s mild surprise, one of the masons held a pipe similar to Harlon’s, smoke curling steadily upward from it. The other was younger with a short well trimmed beard and dressed a little more finely compared to his counterpart.
+
+They were in the midst of bowing when Lucien waved them off.
+
+"No need for that. You are busy enough with the work here to stand in ceremony for me."
+
+The two masons exchanged brief looks while Garrick and Harlon simply accepted his words. The miner's gaze returned back to the half-built structure soon after.
+
+Beside him, Harlon with a pipe in one hand blew out a stream of smoke. "Lord. You're here to check the progress of the water gate before you leave for Helvarn?"
+
+Garrick’s eyes flicked briefly toward Lucien, who responded with a subtle nod. The miner returned the gesture before his attention moved back to the water gate.
+
+Lucien folded his arms behind his back. "Among other things."
+
+He turned toward the two masons who were watching silently. “How have you two settled in Ashridge? The houses you were provided with are only temporary while we begin constructing homes near the new quarter.”
+
+They dipped their heads at his words though the finely dressed one spoke first.
+
+"We look forward to being involved in Ashridge's future growth, My Lord. The guild has sent us here to ensure that the lime mortar being made here is...sound."
+
+Trade guilds from Helvarn rarely paid much attention to frontier villages. The fact that one had sent trained masons already spoke volumes about how valuable Ashridge’s mortar production could become.
+
+At those words, Talia shot the man an indignant look that was only half in jest. "Oh? Already criticizing my work, I see. And here I thought I was on good terms with your guild!"
+
+The man shook his head quickly. "Of course not, Lady Talia. We are merely ensuring that the mortar's ratios are measured correctly."
+
+Talia gave him a curious look. "And? What do you think about it?"
+
+Beside him, the mason with the pipe blew out a smoke before he spoke next. "Good for a beginner. It's got a consistent feel to it...means you slaked it proper."
+
+The corner of Lucien's mouth lifted at Talia's exasperated look. Sensing where the conversation was about to head, he cut in first.
+
+"We are beginning to increase production for it. With the rock being extracted from the ridge outpost, we will have need for your expertise in the coming months ahead."
+
+The two men straightened before the finer dressed mason carefully asked. "The map that Harlon showed us, My Lord?"
+
+Lucien gave a slow nod, turning back toward the direction of the village. "Yes. Ashridge will no longer be just a village made of wood alone."

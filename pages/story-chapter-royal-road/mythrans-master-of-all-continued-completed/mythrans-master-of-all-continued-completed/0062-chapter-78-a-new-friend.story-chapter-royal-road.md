@@ -1,0 +1,187 @@
+---
+id: 595906d6-74b3-5de7-bf99-8415c4540850
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78 - A New Friend"
+slug: 0062-chapter-78-a-new-friend
+partOf: mythrans-master-of-all-continued-completed
+position: 62
+ownLength: 2988
+unit: words
+publishedAt: 2016-11-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102142/chapter-78-a-new-friend"
+royalRoadId: "102142"
+---
+
+The kiss turned from a quick one into a more passionate one, and Lucy's heart started to flutter. It definitely feels a lot more real. She thought as Ren raised a hand to stroke her face. She closed her eyes and let herself go a little crazy and eased herself down onto the bed, pushing Ren ahead of her. He didn't hesitate like he did after his birthday party, and caressed both of Lucy's breasts. Ren was glad that he'd modified her outfit with the party dress top, because the cloth had formed around her breasts to give them support... that wasn't needed while she was leaning over him. The cloth became quite soft and Ren had free reign over feeling all of Lucy's curves. He massaged her thouroughly while they made out and Lucy made a few sounds that Ren hadn't heard her make before, and it drove him a little crazy, too.
+
+Ren let go of her breasts and pulled on one of her supporting arms, and Lucy toppled onto her side. He quickly rolled over on top and Lucy gave one of those little 'yips' and Ren smiled. He kissed her again and ran one of his hands along her thigh. The pants of the travelling clothes weren't as tight as her jeans had been, but the spider silk cloth was much softer and Ren took advantage of that. He switched to the inside of her thigh and slowly eased his way to her forbidden place. Unlike the last time, Ren didn't tease or stop. He put his hand there and Lucy tensed up, but didn't say no and when he started to rub it in slow circles, she moaned.
+
+Ren had to stop kissing Lucy so he could concentrate on her down there, and Lucy's breathing sped up. He kept rubbing her there, and Lucy started shifting her hips to let the motion go more freely. Her eyes were closed and Ren nuzzled the side of her neck.
+
+“Ren...” Lucy said. “Ren... i.... lo...” Her breath became faster. Ren sped up his hand movements and she could barely speak.
+
+“Ren...... i... lo...... lo.......... Logout!” Lucy said when she finally caught her breath.
+
+Lucy's avatar became like a phantom and Ren's hand slipped through her and landed on the bed.
+
+“Ah... dammit.” Ren said and sat up.
+
+********
+
+Lucy took off the VR headset and tried to calm down. “Oh... my... God!” She said and looked down at herself. Her jogging pants were damp in the front and she got out of the chair. “That was... that was... what the hell...” She said and cleaned herself up and changed clothes. “It felt like he was really touching me there.”
+
+********
+
+Ren gave her an in game hour, what he thought was enough time in the real world, to see if she would come back in. “I hope I didn't scare her off again.” He said and stood up, gazing at Lucy's phantom form on his bed. Ren closed the bedroom door, then the apartment door, and went downstairs to his workshop.
+
+“Now what do I...” Ren cut off his own words when he saw the bracers on his work bench. “Right.” Ren opened the messaging system and chose Clint from his friends list. He typed up a quick message, giving Clint directions to his building, and said that he had new bracers made for him. Ren closed the messaging system and looked around the shop. He'd left his box of tools out after all the funiture making, his tailor's kit on the other bench, and some of his blacksmithing tools. Ren shook his head. “I have to clean this place up.”
+
+Ren put everything away and the place was all nice and tidy when he was done. He even stored Clint's bracers. Ren didn't know what to do now. On a whim, he looked through his recipes and found one that he had completely forgotten about. One he had received when he'd leveled up. He turned on the forge and added several iron bars then went to his work bench. He pulled out his last piece of parchment and started to draw. The basic design of the Pack Mule wasn't a good one. The decription he'd read was quite true. It really was only a backpack. It had arms and legs, but they were made of cloth and seemed to be too weak to keep a steady pace, or to lift things out when asked. Reinforcement was needed. Rather than having the backpack standing up vertically, he put it on it's back, horizontally. The cloth legs would never hold it up in this position, and Ren had an idea.
+
+Teepo? Can I talk to you for a minute?
+
+“Sure, Ren.” Teepo said and a couple of minutes later, crawled out through the slot Ren had made in the floor's paving stone by the wall. “What's going on?”
+
+I need your help again. Ren thought and smiled.
+
+“For what?” Teepo said and Ren picked him up and put him on the bench.
+
+I need a model for reference.
+
+“Oh, okay.” Teepo said and crawled over the parchment.”What's this?”
+
+It's called a Pack Mule... but I don't like how it looks, or what it can barely do. The first thing I thought of when I wanted to switch the legs, was you.
+
+“But Ren... I can't go very fast. These are too short!” Teepo said and lifted one up to show Ren.
+
+Ren nodded. At that size, yeah... but, if they were... about 6 times that size?
+
+He could feel Teepo's surprise at that thought. “I've got to see that!” Teepo held out his leg for Ren to study. Ren chuckled and drew out the basic shape of Teepo's leg, and used the system to make it 6 times the size. It was almost the right size for the backpack, so Ren had to scale it down a little to fit. Once that was done, He copied it 5 times and positioned them around the backpack, and it kinda looked like a beetle. Ren reinforced the backpack with metal to hold the legs in place, and to keep the strain off of the fabric. He'd be using up quite a bit of spider silk fabric to make it, but it would be worth it.
+
+Ren wasn't sure how many inventory slots it would have, so he made the backpack thicker and put metal bands around it to hold it in place. Ren noticed the arms it had, and replaced then with longer metal ones like the legs, but kept the softer cloth hands and only reinforced those with metal strips. He assumed since the backpack would be using magic to move, that replacing almost everything with metal, rivets, and hinges, that it would still work.
+
+Ren finished drawing and Teepo marveled at how much the new backpack looked like him. Ren emptied the small thin mold of the steel he'd left in it and poured new steel into it. Not letting it set, Ren hammered out long strips to use for the supports and reinforcements. He poured it again and again, then hammered out 6 copies of the leg pieces he needed, then riveted them together with the system's help. Once they were done, he made the 2 arms, and then just for the heck of it, made 2 thin strips for antennae. If it was going to look like a beetle anyways, he might as well go all the way with it.
+
+Ren poured out the last of the metal from the smelter into the big mold, after removing what he'd poured into it before. On a whim, he hammered out a breastplate, making it a lot different than the one he'd made for Elerlyth. Ren made it white, and added a fire motif to it, starting at the waist and getting more intense as it reached the top of the breastplate, and it engulfed the rounded parts. Ren extended it down slightly to partially cover the waist, but it didn't restrict movement. He took off the smelter and opened up the ends of the forge, took the other large piece of steel he had and heated it up. Once it was a nice molten color, but not to the point of being a liquid, he took it out and cut it in half. Ren hammered it out into a flat plate that would hang off the side of the breastplate to cover the hips and tops of the thighs. He did the same with piece he had cut off and then attached them to the breatplate with hinges. He lined everything with spider silk cloth to make it easily wearable and not chaffe when you moved. Ren stored it and turned off the forge.
+
+Ren cut out the parts of the backpack that he'd need from spider silk cloth and sewed it together around the metal bands, that looked more like a kind of skeleton, and added the legs, arms, and antennae with pompom like ends made out of bundled cloth. He dyed everything black and when it was finished, Ren stood back and admired his handiwork. Teepo admired it, too.
+
+“That really does look like me.” Teepo said and crawled over it. “Except for the arms. What are they for?”
+
+It's to reach into the backpack and to pass out things that are asked for.
+
+Teepo looked into the opening at the top. “How will it know what it's grabbing? I don't see any eyes in there.”
+
+Ren chuckled. I'm just going to assume that it will only grab what I ask for, and not have to sort through everything first.
+
+Ren examined the design he'd made, and then the original, to make sure he didn't forget anything. It was all there. He looked at the directions on the original plans, on how to activate the backpack. His eyes widened at the requirements.
+
+“You have got to be kidding me.” Ren said, surprised.
+
+“What is it?” Teepo asked.
+
+“I was wondering why it wasn't up and walking around... and now I know.” Ren sighed. “I need to 'feed' it gold worth the cost of the materials to make it...”
+
+“That's not too bad...” Teepo said.
+
+“...and a pint of my blood.”
+
+“W-w-what?!?” Teepo exclaimed.
+
+“That's what it says.” Ren said and sighed. “It needs to have a physical bond with me in order to become 'alive' and serve as a familiar.”
+
+Teepo skittered off the backpack and looked at Ren. “Are you going to do it?”
+
+Ren sat down on the floor. I really should make some stools to sit on.
+
+“Ren?”
+
+“Yes, Teepo?”
+
+“Are you going to?”
+
+Ren sighed. “If I want to keep getting better in my class skills as an Artificer, I'll have to do it.” He said and crossed his legs. “If I stop now, I won't advance as quickly... but... I don't know what doing this will lead me to.”
+
+Ren shook his head and stood. “No, I won't be indecisive now. I made my choice. The only way to go is forward.” Ren took out a dagger and placed a hand on the bug-shaped backpack.
+
+“Activate.”
+
+Notice!
+
+You have chosen to activate a familiar: Pack Mule (Modified).
+
+Please deposit the correct amount of value.
+
+A small opening appeared on the backpack, right over it's center. It kind of looked like a small portal that funneled right into the backpack. Ren reached into his coin pouch and then floundered over how much to put in. I know the spider silk cloth is expensive, and I used a lot to make the thing, so at least 30 gold for that... but the steel has never been sold around here as steel. What value should it have? Ren thought for a moment. Ah, screw it. He thought and put in a platinum coin. The small portal closed and Ren got another popup.
+
+Notice!
+
+You must include a pint of blood to complete Activation. Please deposit the correct amount now.
+
+Another small portal appeared closer to the backpack's head and Ren used the dagger to slice his hand open across the palm. Blood dripped out and Ren carefully squeezed his hand over the portal. It took a few minutes, but eventually the portal closed and Ren wrapped his hand in a scrap of cloth and drank some Health potion. He'd have to get someone to heal the wound later.
+
+Notice!
+
+All ingredients have been collected and you have constructed a suitable body. Your familiar will now be infused with your will. Please place a hand on the familiar when ready. Do not remove your hand under any circumstances.
+
+Ren's eyes widened at that last sentence as he gripped one of the straps that he'd sewn on it's back, with the hand that didn't have Teepo's ring on it. Ren didn't want to make that mistake again. A slight glow encompassed the backpack as two thirds of Ren's Mana Pool drained away.
+
+“Come on... come on! You can do it!” Ren said to the backpack and the glow became brighter. It started to shake and the strap started to slip from his hand and Ren used Iron Grip to hold on. It was the hand with the wound, and unknown to Ren, it tore open and more blood seeped through the cloth and into the strap. Just in case, Ren pushed the rest of his Mana Pool into the backpack and then shut his eyes. The glow was too bright for him to see now. A moment later, the backpack stopped shaking and Ren slowly opened his eyes. He saw a leg lift slightly, then an antannae flex.
+
+Notice!
+
+Congratulations! You have successfully created a familiar!
+
+Due to your high quality materials, crafting skills, excessive value added, and extra mana infusion, your familiar will be loyal to you until the end of time.
+
+Ren blinked at the description and then dismissed the popup. The backpack shifted all of it's legs and then slowly lifted itself off the table. It shook for a moment, as if it had never stood up before.
+
+Ren smiled. I'm watching it's first steps right now.
+
+It took a step, and then another... then lifted each leg in turn, almost as if it was unsure of why it had multiple legs. Ren still had a hold of the strap, and let it go. He reached out and rubbed it on the 'head'.
+
+“Hi, there. I'm Ren.”
+
+The backpack turned at Ren's voice and hunched back on it's legs, tipping it's 'head' up to look at Ren. It's antennae whipped around and Ren was glad he'd added the pompom like ends. Thin steel strips whipping around like that would hurt if they were unprotected.
+
+“I should probably give you a name.” Ren said and the backpack nodded. “I was thinking along the lines of 'Shellshock'.”
+
+The backpack shook back and forth.
+
+“That's a no, then.”
+
+The backpack nodded.
+
+“Teepo, what do you think?”
+
+“Mantica?”
+
+The backpack shook back and forth again.
+
+“I think I'm overthinking this.” Ren said and looked at his new friend. “ I made you a lot bigger than a backpack, so you're more like a rucksack. Maybe a name appropriate for that? Hey! How about 'Ruck'?”
+
+The backpack nodded and reached out a hand. Ren laughed and shook it.
+
+“It's nice to meet you, Ruck.” Ruck skittered back and forth, knocking things off of the work bench and Ren kept laughing. “All right, get off of there before you wreck the place.”
+
+Ruck hopped off the table and it's legs clacked on the paving stones.
+
+“No leaving the building without my permission, okay?”
+
+Ruck put up a hand and gave Ren a thumbs up.
+
+“Ruck, can I see how much you can hold?” Ren asked his new friend, who opened his back and Ren looked inside. There were 28 inventory slots and Ren whistled. “I wonder if they stack like mine?”
+
+Ren took out 5 of his Health Potions and passed them to Ruck, who put them in the same slot. “Ha ha! That's great!” Ren said and handed over 5 Mana potions, all of the daggers, wooden shields, potion ingredients, and all the animal parts that he still had in inventory. That took up 18 of the slots, and Ren asked Ruck to walk around and see if it was too much for him to carry. Ruck walked around and made another thumbs up gesture.
+
+“Okay, Ruck... hand me a... rat tail!” Ren asked and Ruck passed him a rat tail a second later. He didn't have to search for it or anything. Ren smiled. “Mana potion!” Ruck passed one over. “Sunfower!” And a sunflower was handed over. “Thank you, Ruck.” Ren said, passed the things back, and walked away a little bit. “Oh, I think I'm hurt!” Ren said and held out his hand. Ruck skuttled over and handed Ren a Health potion. “Thank you very much, Ruck.” Ren pretended to drink some and passed it back.
+
+Ren looked around and wondered where he could put it. “I'll need to get some more wood to make you a cabinet to stay in.” Ren said and opened the Order Menu. He chose Jen as the contact and ordered a dozen more planks. When he closed the order, he saw Ruck was kind of dancing. “You like that idea, do you?” Ren asked and Ruck nodded. “It'll be delivered tomorrow. For now, I guess you can just hang out.”
+
+Ruck nodded again, skittered across the floor, and crawled up the wall. It got about 5 feet off the floor and then stood as if it hung there. Ren and Teepo stared at Ruck in surprise.
+
+“I didn't know it could do that.” Teepo said.
+
+“Neither did I.” Ren said as a popup appeared. It was a message from Clint.
+
+He was coming by to visit tomorrow.

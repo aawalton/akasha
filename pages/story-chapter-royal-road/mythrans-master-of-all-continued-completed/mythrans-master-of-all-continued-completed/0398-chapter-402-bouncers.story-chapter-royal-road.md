@@ -1,0 +1,313 @@
+---
+id: c65375ec-d01a-5d67-af77-75528e4054f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 402 - Bouncers"
+slug: 0398-chapter-402-bouncers
+partOf: mythrans-master-of-all-continued-completed
+position: 398
+ownLength: 3251
+unit: words
+publishedAt: 2017-10-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170426/chapter-402-bouncers"
+royalRoadId: "170426"
+---
+
+The dance competition was over and Jennifer was declared the winner, so the dancers enjoyed eating the steak and potatoes Ren had prepared for them. Tee-one and Ruck came down the stairs and walked over to Ren, who stood near the dancers in case they needed anything else.
+
+“Dalli is all set up.” Tee-one said. “Ruck and I even made her some new clothes.”
+
+“That's great!” Ren said. “Thanks a lot, both of you.”
+
+Ruck gave Ren a 'thumbs up' gesture, and Tee-one held in his automatic protest that he didn't need to be thanked.
+
+“Now that you're here, I had an idea for temporary bouncers.” Ren said.
+
+“You can't be seriously thinking that...” Tee-one started to say, then thought about it. “...actually, that's not a bad idea.”
+
+Ren chuckled. “I could make the old joke that you mean it's not a good idea; but, we both know this technically should work.”
+
+“It's a really sneaky work-around.”
+
+“I certainly hope so.” Ren said and chuckled again. “Plus, if it doesn't work, I'll see about making a staff for it instead.”
+
+“Now that is a good idea.” Tee-one said.
+
+Ren clapped Tee-one on the shoulder and turned to the dancers. “Ladies, my friends and I need to go for a while to make your bouncers.” He said. “Please enjoy the meal.”
+
+“You should sit down and join us.” The Manager said. “This is all here because of you.”
+
+Ren smiled. “Ma'am, ladies.” He said. “You're wrong. All of this is here because of you. You're intelligent, you're resourceful, you know what you want and are willing to do anything you can to get it.”
+
+The women sat there and basked in his compliments, but they also had a strong feeling of disbelief.
+
+“Oh, I forgot that.” Ren said and picked up the Amulet of Interrogation he had left on the table. He felt the realization that he was telling the truth spread to all of them, and he stored the amulet. “I'll be back soon.”
+
+The Manager nodded, along with several of the other women; then Ren, Tee-one, and Ruck left the Pleasure Palace and ran down the road to the big warehouse and the giant forge.
+
+“Okay, mold time.” Ren said and they made a giant mold in the shape of a muscle man. Muscular legs, arms, and chest were carved into the stone mold, and they laid it down in front of the middle satellite smelter. They set it to pour and opened the main smelter, then let the molten metal run down the trough and out through the smaller smelter into the mold. They had only carved the front half, because Ren wanted it to be able to stay out of the way next to the wall when not in use.
+
+Ren absorbed the heat from it so it would cool evenly, and then popped it out of the mold. They now had the front half of a 6 and a half foot tall muscle man. He stored it and they poured another.
+
+“I really hope this works.” Ren said and absorbed the heat from the second bouncer. “If it does...”
+
+“...you won't need to worry about hiring tons of troops.” Tee-one said.
+
+Ren took out a Level 5 wand and changed the spells in it to Animate Object, then examined it.
+
+Wand Of Inanimate Life (Level 5)
+
+The Animate Objects spell lets you imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks or subdues whomever or whatever you initially designate. An animated object can be of any non-magical material.
+
+Different caster or wand levels have different effects:
+
+Level 1: You can animate 1 small object.
+
+Level 2: You can animate 2 small objects, or 1 medium object.
+
+Level 3: You can animate 3 small objects, or 1 normal object.
+
+Level 4: You can animate 4 small objects, or 2 medium objects, or 1 large object.
+
+Level 5: You can animate 5 small objects, or 2 normal objects, or one huge object.
+
+Range: Within 100 feet (Medium)
+
+This spell cannot animate objects carried or worn by a creature or person.
+
+Animate objects can be made permanent with a Permanency (Level 5) spell.
+
+Time limit: 20 minutes (Level 5)
+
+Ren popped the second muscle man out of the mold and stored it.
+
+“You're not going to try and cast it yourself?” Tee-one asked.
+
+“Not if I want it to work as a bouncer. I'll need the Manager to cast it.”
+
+“I guess that makes sense, since she is the one that will control them.”
+
+Ren nodded. “I'll be back in a little while.”
+
+Ren walked by Janice's place and saw that all the lights were off. I'll have to wait until tonight to see if she knows how to make mirrors. He thought and went to the Pleasure Palace. The girls had finished eating and now stood near the main stage and talked animatedly about their performances. He walked over to them and stopped beside the Manager, then waited for a lull in the conversation.
+
+“Ma'am? Can I get your help, please?” Ren said, and she turned to him.
+
+“Sure, Ren.” The Manager said. “What can I do for you?”
+
+“I've got a test I need to do, and I need your expertise.” Ren said. “If you'll follow me to the front door, I can see if my idea will work.”
+
+“All right.” The Manager said and followed him over to the door, and Ren took out the 6 foot 6 inch tall muscle man and stood it against the wall. “That's a nice decoration.”
+
+“Only for now.” Ren said and held out the wand to her. “This wand has the Animate Objects spell in it.” He said, then explained what it did.
+
+“You're kidding.” The Manager said. “This is going to be the bouncer?”
+
+“Only until you hire someone.” Ren said. “Then again, if this works like I think it will, you might not want to hire someone to do what you can do for yourself.”
+
+“I... okay, I'll try it.” The Manager said, and Ren told her that she needed to imagine what a bouncer did when it went into action, and then she should cast the spell on the steel muscle man. It took her several minutes to bring to mind what she thought a bouncer would do, then cast the spell.
+
+The muscle man stepped away from the wall and looked around, then crossed his arms when he didn't see any kind of ruckus that needed his attention. It looked odd, since he was flat on one side and his arms didn't quite fold together like real arms would; but, it had worked.
+
+“It lasts 20 minutes normally.” Ren said and used Enchanted Eyes on the steel man. It glowed, so he knew it was now an enchanted object, and examined it.
+
+Animated Guard of Steel (Pleasure Palace)
+
+This half-statue made of metal has been brought to a semblance of life using an Animate Objects spell to act as a Security Guard. It will break up fights and expel rowdy customers when necessary.
+
+Animated objects can be made permanent with a Permanency (Level 5) spell.
+
+Time Limit: 20 minutes
+
+“Okay, the only variable I can change is the time.” Ren said and used his Retain Essence skill to store the enchantment. “Hm... well, I think I need a new rune.” He took out his Book of Runes and flipped to a blank page, and drew a small clock, with the minute hand pointing at the 5 minute mark. He thought about putting it at the 1 hour mark; but, he knew that there would be a limit to what he wanted to do, and kept the '5' theme that most of his runes had. Just like everything else, he didn't want to be greedy. He poured some Mana into the rune and it disappeared, then reappeared at the top of the page in the same ink as all the other runes, and he examined it.
+
+Notice!
+
+You have created a new rune: Time. This rune grants an enchanted object a 5 minute extension to it's time limit, if it has one.
+
+Ren smiled and did his mental trick and imagined all the glyphs with 2 runes up through to 10. Once he had the glyph with the max runes, he could now make a combined glyph with 50 runes, altered the enchantment, added the needed extra Mana, then put the enchantment back onto the steel muscle man.
+
+Animated Guard of Steel (Pleasure Palace - Advanced)
+
+This half-statue made of metal has been brought to a semblance of life using an Animate Objects spell to act as a Security Guard. It will break up fights and expel rowdy customers when necessary.
+
+Animated objects can be made permanent with a Permanency (Level 5) spell.
+
+Time Limit: 270 minutes, or 4 hours and 30 minutes
+
+Ren used his Widen Effect spell and it doubled the time limit to 9 hours.
+
+“Oh, wow.” The Manager said. “That's going to last most of the night!”
+
+“Until well after closing.” Ren said and smiled and took out the second steel muscle man. “Now do it again.”
+
+The Manager chuckled and the two of them repeated the process. The club now had 2 steel bouncers, and they stood on either side of the door and kept watch.
+
+“Ren, you don't get my motor running, but you sure do get my brain excited.” The Manager said and gave him a one-arm hug.
+
+“I can't believe you only like me for my brains!” Ren exclaimed, and she chuckled.
+
+“Don't tell me you're a sexist pig!” The Manager exclaimed back.
+
+“Mmm... bacon.” Ren said and pretended to drool, and she burst out laughing.
+
+“Hey, we've got everything ready.” Caramel said as she came over to them. “The bartender will be here just before we open.”
+
+“Who did we get?” The Manager asked.
+
+“Candy's boyfriend said he'd be here for tonight.”
+
+“I've sent some messages out myself but haven't heard back yet.” The Manager said.
+
+“Well, we don't really need a bartender until we get different kinds of ale in here.”
+
+“You're not going to want different ale.” Ren said and smiled. “This stuff is delicious.”
+
+“We'll have to take your word for that.” Caramel said. “None of us drink.”
+
+Ren was about to comment about being able to drink on their off-hours, then smiled instead. “Actually, you're smart for keeping your heads on straight and being responsible.”
+
+“Despite how some of us act...” Caramel said and turned to look at Nancy, who was the one that liked being ordered around. “...we actually like being the one in control.”
+
+“I know.” Ren said, and both the Manager and Caramel looked at him. “I'm intimate with a woman that needs to have discipline and order in her life, and Nancy is only indulging in a fetish. She's not even close to the same level of liking orders.”
+
+“Is that why you don't give Nancy orders, no matter how many times she asks?”
+
+“Caramel.” The Manager said, and Ren put a hand on her arm.
+
+“Asking questions is still okay with me.” Ren said and turned to Caramel. “Yes, Nancy only wants someone to tell her to do sexual things, and I'm not going to order her to do things like that.”
+
+“So, you've got us all figured out?” Caramel asked.
+
+“No, of course not.” Ren said. “I haven't really spent any time with you, and I barely know your names.” He chuckled. “I only learned Nancy's name because someone said it after her performance.”
+
+Caramel opened her mouth to call him ignorant, then realized he was right. None of them introduced themselves to him, and he'd taken them in, gave them a place to live and a place to work, and didn't ask anything from them.
+
+“I'm sorry.” Caramel said and stuck out her hand. “Hi, I'm Caramel.”
+
+“Hi, Caramel, I'm Ren.” Ren said and smiled. “It's nice to meet you.”
+
+The Manager chuckled and held a hand out. “Hi, Ren. I'm Gina.”
+
+“Gina!” Ren exclaimed, flung his arms out to the sides, then hugged her. “I've been calling you 'Manager' in my head this whole time.”
+
+Gina laughed and hugged him back.
+
+Ren let her go and looked at Caramel. “I had a sandwich with caramel spread on it once.”
+
+“Really? How did you like it?”
+
+“It tasted wonderful at first.” Ren said. “Then I had an allergic reaction and almost died.”
+
+Caramel stared at him for a moment, then started to laugh. “Is... is that you're subtle way... to tell me... I'm killing you?” She said between laughs.
+
+“I'm just telling you the truth.” Ren said and grinned. “You can take what you want from it.”
+
+Caramel reached out and gave him a hug. “I like you a lot better now.”
+
+“Um... thanks. I think.” Ren said, and she laughed more.
+
+“My spot's all set up.” Jennifer said as she walked over to them. “Hey, get your sticky hands off of my first date!” She said, and Caramel snorted a laugh.
+
+“No worries.” Caramel said and let Ren go. “We were just coming to an understanding.”
+
+“Yeah.” Ren said. “I get to suffer her endless uncomfortable questions, and she gets to enjoy her namesake almost killing me.”
+
+Jennifer looked from Ren to Caramel. “Wh-what?”
+
+“I'll explain on the way over to your spot.” Ren said and took Jennifer's hand. He felt her confusion, and figured this was the best time to tell her about his ability with Gina the Manager there. “Jennifer, I have the Emotion Siphon ability.”
+
+“I know.”
+
+“Wh-what?”
+
+“Clint told us.” Jennifer said.
+
+“Who told him?” Ren asked, and Jennifer started to walk across the room.
+
+“One of his abilities is to identify abilities in others.”
+
+Ren went with her and absorbed some of her amusement. “He didn't tell me that.”
+
+“You didn't ask.” Jennifer said and chuckled. “I did.”
+
+“Well, damn.” Ren said. “I'm just full of being ignorant today, aren't I?”
+
+Jennifer laughed and opened the door to her private room. She didn't have the lights on, but Ren could see everything.
+
+She got her dungeon. Ren thought, and explained about what he and Caramel were talking about while he glanced around the room. Whips, ropes, spiked weapons, leather straps, shackles on the walls, a water tub for some reason, and a bed that had had metal rings on posts at all 4 corners with a manual crank on the side.
+
+It's a torture rack. Ren thought in surprise, then turned around to look at her.
+
+“You and I are going to have so much fun.” Jennifer said and smiled as she shut the room's door.
+
+“No, we aren't.” Ren said.
+
+“But... you agreed to have the first dance with the winner.” Jennifer said and walked around Ren. He didn't turn his head to watch her, because he could feel her teasing emotions as she thought she was sneaking around in the dark.
+
+“She doesn't know you can see in the dark.” Teepo said.
+
+Or she doesn't care if I can. Ren thought.
+
+“She's picking up a big whip, and it's frayed at the end.” Teepo said. “It's got 3 tails and metal studs on the ends.”
+
+“Jennifer, don't.” Ren said. “This isn't dancing.”
+
+“It's a kind of dancing.” Jennifer said and lifted the whip.
+
+“It's coming from the right side.” Teepo said. “I'm guessing she's aiming for your butt.”
+
+Thanks, Teepo. Ren thought and sent Teepo his appreciation. The whip went out and just as it was going to snap on his butt cheek, Ren turned and caught it with his hand. The ends wrapped around his hand and he held it.
+
+“You caught it.” Jennifer said, surprised.
+
+“You have Dark Vision.” Ren said and smiled. “Even though it's not supposed to be a human trait.”
+
+“It's limited to 20 feet, because my character has a grandmother that's half-elf.”
+
+“You can set things like that?” Ren asked.
+
+“Let me guess.” Jennifer said and pulled on the whip. Ren didn't move, and neither did his hand; so, she walked forward instead and gathered the whip in her hands. “You had someone else create your character.”
+
+Ren nodded. “I had someone assist me when I first started playing.”
+
+“Please tell me you didn't stick with the standard skill set.” Jennifer said, and when she stood in front of him, he let the end of the whip go. She tossed the bundle across the room and it landed on the hook she had taken it from.
+
+“I'm a special class.” Ren said. “I don't have a standard skill set at all.”
+
+Jennifer smiled. “Is that why you're so... scrumptious?”
+
+“Scrumptious?” Ren said and chuckled. “I'm not sure what you mean.”
+
+“Since I won the competition, all I can think about is how good you'll look on my bed.” Jennifer whispered. “Your arms and legs are shackled, and I'm straddling your naked body while I whip your chest and pleasure myself.”
+
+“Is that really what the 'first dance' is?” Ren asked.
+
+“Yes.” Jennifer said and pulled her hand back to slap him.
+
+“Careful.” Ren said. “You'll hurt yourself if you do that.”
+
+Jennifer swung as hard as she could, and Ren didn't try to stop her or avoid the hit. Her palm struck the cheek of his face and the sound of the slap reverberated off the bedroom's walls. Jennifer gasped and grabbed her hand, and Ren had heard at least one broken bone.
+
+“You... your head didn't move.”
+
+“I have Rock Steady, Unstoppable, and Improved Toughness (3).” Ren said and held a hand out to her. “I've also spent a lot of time in an extreme high pressure environment.”
+
+Jennifer placed her hurt hand in his, and he examined it.
+
+“Two broken fingers.” Ren said and took out a Major Healing wand to heal her.
+
+“Th-thank you.” Jennifer said. “So, you won't let me do what I want?”
+
+“Is that what you want? Just something to ride and hurt while you enjoy yourself?” Ren asked, and felt that she really wanted it.
+
+“It... it's my fantasy.” Jennifer said. “No one I've been with can take it. They'll let me hit them lightly once or twice, then they take over and we just have sex.” She said sadly. “Even Billy can't do it. I love him so much, and yet... he can't give me what I want. What I need.” She pleaded and put her hands on the sides of his face. “Ren, you... you can take it. You've proven that you don't have to; but, I want you to.”
+
+Ren could feel her desperation and unfulfilled need and absorbed some of it. He also felt that she had hidden her desire for it for far too long.
+
+“If I agree to this, it's a one-time thing only.” Ren said. “I'm not going to follow up with this, and nothing will ever happen between us again.”
+
+“I promise!” Jennifer said. “If I intended to do this with you again, we'd be upstairs in my apartment and not here at work.”
+
+“All right.” Ren said, and his ability leveled up as Jennifer let an enormous amount of repressed desire flood into him. She moved her hands down his armor bodysuit and took one of his hands with both of hers, then walked backwards as she led him over to the bed.
+
+“I'm going to have so much fun!” Jennifer said, and Ren absorbed some of her happiness.

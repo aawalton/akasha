@@ -1,0 +1,295 @@
+---
+id: 0c956a18-d000-5b06-a257-423a54477a94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 409 - Shargon Caverns"
+slug: 0406-chapter-409-shargon-caverns
+partOf: mythrans-master-of-all-continued-completed
+position: 406
+ownLength: 3558
+unit: words
+publishedAt: 2017-11-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171651/chapter-409-shargon-caverns"
+royalRoadId: "171651"
+---
+
+Ren sighed at the situation, equipped his full armor set, then tried to open the message system.
+
+System Notice!
+
+Normal menus are not available within the walls of the restricted area.
+
+Business Menu:  Out of Range  Land Owner Menu:  Out of Range
+
+Help Menu:  Disabled  Message System:  Disabled
+
+“It seems like we're cut off.” Ren said, then remembered the tarantula tucked into his Dire Wolf Hooded Cloak. He reached for it, and then remembered that the cloak was folded on a table beside the bed back in his house in Aurora. “Dammit, I can't call Lylyth for a portal.”
+
+“What do we do?” Teepo said. “This place is really bad, Ren.”
+
+“There's only one thing we can do now, buddy.” Ren said.
+
+“What's that?” Teepo asked.
+
+Ren looked at the All-Seeing Mirror again and thought about how deep Shargon Caverns were, and the map shifted to show him the side view. They were nearly 10 miles down from the surface.
+
+“Forget trying to explore this place to find a way out.” Ren said and grinned. “We're going to cheat.”
+
+“How?”
+
+“By going straight up.” Ren took out his Staff of Earth and concentrated on the 10 foot area around him, then raised an 8 foot tall and 1 foot wide wall around himself. Then he concentrated on what he stood on, then raised both himself and the walls up and up until it touched the ceiling. Once there, he started to dig.
+
+“That's brilliant.” Teepo said. “You can just keep an eye on the All-Seeing Mirror so you can tell where the next cave is going to be!”
+
+Ren nodded as he climbed and dug, and the dirt he dug fell by him. He felt like a ground hog as he burrowed up through the dirt fairly quickly. He checked the All-Seeing Mirror every couple of minutes when he got to the point that he had estimated the floor of the next cave would be. When his mining pick met air, he stopped and quickly pulled it back.
+
+Teepo. Ren thought.
+
+Teepo squeezed out through the hole and looked around. “It looks clear, but you know what that means.”
+
+Ren smiled and dug out the hole enough to squeeze through and climbed out. They were in a tiny cavern, barely 20 feet wide and only 10 feet deep. Something shiny caught his eye and he looked at it. It appeared to be a gleaming gold chest that was covered in jewels, and looked like it could be worth a fortune.
+
+Ren took out the Staff of Earth and shifted the dirt around the chest and covered it from sight, then made walls around himself. He climbed up the wall and started to dig again.
+
+“You weren't even tempted to go look at it, were you?” Teepo asked.
+
+Nope. Ren thought in amusement. That was a greed trap if I ever saw one.
+
+“Definitely.” Teepo said. “It sure was pretty, though.”
+
+Ren chuckled. I can go back and get it for you if you want.
+
+“No, that's okay.” Teepo said. “I've already got the most precious thing I could ever want.”
+
+Ren thought about asking what it was, but he didn't want to get emotional out here in the middle of nowhere. He continued to dig and checked the map on the All-Seeing Mirror.
+
+There's a series of crisscrossed tunnels coming up. Ren thought. I think we should go around them.
+
+“Agreed.” Teepo said. “I've seen tunnels like that before, but never that big.”
+
+It took three times as long to dig around the tunnels than it would have to go right through them, but both Ren and Teepo knew it was smarter to go slow. After another half an hour of digging, Ren had to come to a stop. Above him was something that looked like solid rock. He tried using his mining pick on it, but it just bounced off. He had never had anything like that happen before. It had been difficult to dig sometimes, but he hadn't encountered anything that he couldn't dig through.
+
+Ren dug out a good-sized area, and took out his hammerpick. “Spirit of Earth, please forgive me.” He said and enchanted the hammerpick with 50 runes of Antiearth, then used Double Infusion to make it 100 runes. The hammerpick's green glow was covered in a thin layer of brown sludge, and Ren leaned down to get as much swinging leverage as he could, then swung up with all of his might and jumped.
+
+The impenetrable rock dissolved before he could hit it and he was flung up and into the next cavern unimpeded. It was the first time he had jumped as hard as he could, and with the new enchantments and the force of his momentum, he went almost 50 feet straight up... and up... and up.
+
+Notice!
+
+You have entered the lair of the Abyssal Terrors. Due to the creature's innate ability to counter it's own overly massive weight, all those within it's area of effect will also benefit (or suffer) from this ability.
+
+“We're in trouble!” Teepo exclaimed as a large winged creature caught sight of Ren.
+
+*
+
+“Where is he?” Frikara asked Lara, the Sage of Ages.
+
+“I don't know.” Lara said. She had come over to Ren's house in the Housing District when he hadn't come to the Library right away.
+
+“But... you're the Sage of Ages!” Frikara said, frantically. “Shouldn't you know?”
+
+Lara sighed. “I'm getting better at predicting things, but I'm far from being an all-seeing...” She stopped talking and took out the Far-Seeing Mirror she had received from the giants. She concentrated on Ren and put her hand on the glass. “Ren, can you hear me?”
+
+Frikara and the other maids waited expectantly, and then Lara received a popup that surprised her.
+
+System Notice!
+
+The player you are trying to contact has been transported to a restricted area. Normal game functions (menus and messages) have been disabled. Any further attempts to contact this player by other means to circumvent this process will result in a warning for game interference.
+
+Current Warnings:  2
+
+“I... need to leave right away.” Lara said when she had made her decision. “Can I use the bed?”
+
+“Of course.” Frikara said. “Please, find him.”
+
+“I'll be back when I know something.” Lara said and laid down on the bed. “Logout.”
+
+********
+
+Lisa slipped off her VR headset and set it aside, then ran to her room's door. She went outside into the hallway and ran down to the elevator. She went past it and down the sweeping staircase to the second floor and ran to Ren's room at the end of the hallway.
+
+“What's going on?” Stella asked as Lisa ran over to Ren and looked at the television screen.
+
+“Ren's not in the starter city anymore.” Lisa said, then screamed a little as she saw Ren being attacked by a huge winged creature.
+
+********
+
+“Duck!” Teepo said.
+
+How? Ren thought as a massive beast, with a 30 foot wide wingspan, swooped over to him and swatted him with it's large clawed hand. With his momentum and direction changed, Ren spun through the air much faster than he was travelling previously. Ren had tried to block the blow with the hammerpick; but without anything to brace against, he couldn't swing it properly. With his path uncontrolled, he stored the hammerpick so he wouldn't drop it, and slammed into the impenetrable rock face.
+
+“GAHHH!” Ren yelled as the impact went right through him and he lost 1,100 points of Health. He bounced off the rock and continued to tumble through the air, and it took him a moment to recover from the shock.
+
+It was a moment that he didn't have.
+
+A large open mouth, full of jagged and sharp teeth clamped down onto his legs, and Ren screamed as three of the large teeth crushed through his armor and penetrated his leg. He lost another 1,800 points off his Health, and managed to activate Serene State of Mind to kill the pain.
+
+Notice!
+
+You have been Poisoned. Thanks to your Hardy ability, you won't die right away; but, if it is left untreated, it will consume your Health until you are dead.
+
+Time until death: 30 minutes
+
+The abyssal terror landed on the side of the gigantic cavern and shook him from side to side, almost like a dog with a bone. Ren remained calm as he thought about what to do and concentrated on the creature.
+
+“Identify.”
+
+Abyssal Terror (5 Years Old)
+
+This giant creature is both living and dead. A product of Arcane (Void) magic and Dark Ritual Summoning, it's thick hide is immune to normal weapons. It's wings are partially insubstantial, and cannot be cut or damaged in any way. It's sharp teeth can tear through the heaviest armor, and it's claws can render and cut up even the toughest hides.
+
+It was designed as a tremendous fighter that can fight with it's arms and legs, but it can also be ridden. Since it is a magically-created creature, it has certain powers and abilities depending on how long it has survived.
+
+1 Years Old: Can run on ground. Wings unformed. Can only float short distances.
+
+2 Years Old: Wings partially formed. Can jump and glide 200 feet.
+
+3 Years Old: Wings formed. Can fly normally.
+
+4 Years Old: Has dive bomb attacks, spits poison.
+
+5 Years Old: Ferocious Fighter. Doubles move and flight speed. Ambush. Breath weapon: Acid Cloud.
+
+Health: 20,000 (4,000 per year of life)
+
+Movement: 50 feet per second (Ground), 100 feet per second (Air)
+
+Special Abilities: Antivoid/Antiarcane Immunity, Dark (Gravity) Negation Aura (300 foot radius), Frenzy, Killing Blow, Dark Vision (2) (can see as if it is daytime), Toughness (5), Terror Aura (300 foot radius).
+
+It worked. Ren thought, and then smiled. I didn't see anything at all about immunity to Fire.
+
+Ren took out his hammerpick and enchanted it with 50 Fire runes and used Double Infusion for another 50. The Earth enchantment was replaced with a 1 inch thick layer of bright blue flame, just like when he had used it against the ghouls. He concentrated on his Deep Impact ability, that caused internal injuries in his target; and on his Skull Cracker ability, that gave him a 20% chance to stun.
+
+Ren reached for one of the creatures large teeth that had impaled his legs, and used Iron Grip on it. The tooth shattered and the creature opened it's mouth and let out a bellowing howl of pain. He grabbed the front of it's nose and used Iron Grip to hold on, pulled himself off the other teeth, then swung the flat end of the hammerpick as hard as he could at the creature's forehead.
+
+It jerked when it saw the weapon, and the hammerpick smashed the creature right between the eyes instead. The spot caved in a little, then the ripple of the shock wave and Fire enchantments happened. It's eyes were covered in enchanted flame and burst from the intense heat, but it didn't feel it. Ren's attack had beaten the 5 to 1 odds and stunned the creature, and thanks to his Deep Impact ability, it's brain had taken a tremendous amount of damage. It had lost almost 8,000 Health just from that one attack, and it continued to take damage as the enchanted fire started to consume it through it's now heavily bleeding eye sockets.
+
+Ren hit it twice more, and that finished it off. Once it was dead, it's Aura vanished and both the creature's body and Ren fell to the cavern wall. He absorbed the flames to refill his Health, which was quite low by this point, and he took out his alchemy kit. He gathered some of it's poison and made up an antidote for it, drank it, and sighed as the poison counter disappeared.
+
+Now that Ren had a moment to take a breath, he looked at the creature. It was even uglier and more grotesque than he originally thought. It had skin like an elephant, arms and hands like a giant, rear legs like a lizard, and a long tail that he assumed helped with their movement. The wings were huge, and even flat on the ground, they were almost 15 feet long each. Bones protruded from it's back, all along it's spine, and it had two very large pointed horns on it's head and one at the end of each wing.
+
+With it's visage well imprinted on his mind, Ren examined his own wounds and picked out the shards of teeth that remained inside. He used a Major Healing wand to fix the damage, topped off his Health, and refilled his Mana Pool. He was tempted to harvest everything from the new creature; but, he had to survive however many of them that were there, so he tried to think about a way to get out instead.
+
+“You can just attack with the Antiearth-enchanted hammerpick again.” Teepo said.
+
+Where? Ren asked. I'm pretty sure I'm standing on the wall of the cavern and that there's no other abyssal terrors around; but, then what? It could take days to dig around this cavern.
+
+Ren took out the All-Seeing Mirror and thought about his position.
+
+There, see? We have a huge cut off coming up, and if I dig out of here now... Ren traced a line all the way over to the spot he had to dig to just to find a vertical spot to dig up. No, we can't go out. We have to go up.
+
+“Try the Staff of Earth.” Teepo suggested.
+
+Ren took out the staff and concentrated on a very small area. It didn't move at all, just as he had expected.
+
+“Then you're right, we have to go up.” Teepo said. “Somehow.”
+
+I have an idea about that. Ren thought and took out the 50 rope bundles he had.
+
+“You're kidding.” Teepo said. “That's not going to work.”
+
+It doesn't hurt to try. Ren thought and proceeded to use his Knot Tying ability to attach all 50 ropes together to make one very long one.
+
+Stat Change!
+
+Knot Tying Level 5 (Advanced 0%)
+
+Ren took out a level 5 wand and replaced the spells with Rope Trick.
+
+“Ren, I'm telling you. The top of this place is higher than 2500 feet.”
+
+The rope is only just over 2400 feet. Ren thought. I lost 2 feet from each one tying the ends together.
+
+“It's not going to matter.” Teepo said. “What are you going to do when we get there?”
+
+Improvise. Ren repaired the damaged armor pieces on his legs, then remembered his rings that he had changed the enchantments on. He activated his Craft Wondrous Item ability and chose the Ring Of Boosted Sustenance recipe, placed an Ultimate Terror ring on it, then waited for 10 seconds. When it was done, he smiled because the diamonds had their enchantments restored.
+
+Ring of Boosted Sustenance (Rare Wondrous Item)
+
+This ring continually provides its wearer with life-sustaining nourishment. It refreshes the body and mind as well, and the wearer only needs to sleep for 2 hours per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full week before it attunes to the wearer's needs. If it is ever removed, it must be worn for another week to attune it again.
+
+Bonus: +10 to all stats
+
+Ren used his Retain Essence skill to absorb the enchantment, then altered it. He added 12 runes of Antitime to reduce the sleep time required to only 1 hour to get 8 hours of sleep, then changed the week attunement to a single day by adding a platinum coin, then added Reinforcement runes to hold the extra enchantments. Ren put the enchantment back on the ring after paying the appropriate Mana to do so, then used Double Infusion to drop another 50 runes of Protection on it.
+
+Ring of Sustained Boosted Protection (Unique Wondrous Item - Binds on Equip)
+
+This ring continually provides its wearer with life-sustaining nourishment. It refreshes the body and mind as well, and the wearer only needs to sleep for 1 hour per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full day before it attunes to the wearer's needs. If it is ever removed, it must be worn for another day to attune it again.
+
+Bonus: +10 to all stats, +500 Defense to armor, Reinforced (cannot be damaged by normal means)
+
+One step too far. Ren thought and put the ring on, then did the next ring without adding in the Double Infusion.
+
+Ring of Sustained Boost (Rare Wondrous Item - Binds on Equip)
+
+This ring continually provides its wearer with life-sustaining nourishment. It refreshes the body and mind as well, and the wearer only needs to sleep for 1 hour per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full day before it attunes to the wearer's needs. If it is ever removed, it must be worn for another day to attune it again.
+
+Bonus: +10 to all stats, Reinforced (cannot be damaged by normal means)
+
+There we go. Ren thought and did 2 more rings to finish the 4 on one hand. He had 2 raised platform rings, his Sending Ring, and the Beetle Crown ring on the other. He left the two raised platform rings enchanted with Ultimate Terror, then used Double Infusion to add Lightning to one and added Water and Wind to the other. With his prep work and repairs done, he examined the wand he had enchanted with Rope Trick.
+
+Wand Of Rope Ladder (Level 5)
+
+The Rope Trick spell can be cast on a regular 50 foot rope to make it extend straight up into the air. It will remain stiff enough to be climbed to the top, and will stay that way until dismissed.
+
+The Master level of this spell can be used on any rope, no matter the thickness or length, and will expand into a ladder for easy climbing.
+
+Cast Distance: Within 25 feet (Short)
+
+Area of Effect: One rope (any length)
+
+Time Limit: Lasts until dismissed
+
+Oh, nice. Ren thought, then stopped to think about how he was going to survive climbing through the middle of the cavern. He looked at the carcass of the large dead creature and smiled.
+
+********
+
+“Oh, my god.” Stella said, and put an arm around Lisa's shoulders. The younger and smaller woman was crying, and Stella handed her a tissue.
+
+“I don't know why I'm crying.” Lisa said and wiped off her face. “I know he can handle himself.”
+
+“You love him.” Stella said, and Lisa looked at her with wide eyes. “We always cry when someone we love is hurt.”
+
+“How do you know...”
+
+“You agreed to move into a strange man's house, and you haven't even gone on a real date with him.” Stella said. “Plus, you've been hugging and kissing him like he means the world to you.”
+
+“I... okay, yes.” Lisa said. “I do love him.”
+
+“Then trust him.” Stella said. “You saw how he handled that creature.” She smiled and hugged Lisa. “If anyone is going to get out of there, it's going to be him.”
+
+“Can you bring up the other footage?” Lisa asked. “When the game loaded?”
+
+“Sure.” Stella said and used the laptop to run the footage back.
+
+“He went into the white loading area?” Lisa asked and watched the footage at 4x speed. When the game appeared around him, she slowed it to 1x and read the popups. “Oh, my.”
+
+“What is it?” Stella asked.
+
+“He... he's in the Arcane Training Area called Shargon Caverns.” Lisa said. “It...” She shook her head. “He's not supposed to be there.”
+
+“Why not?”
+
+“It's the 'How To Be A Proper Villain' path.” Lisa said, surprised. “Tristan took it when he lost his Fame and became Infamous.” She chuckled. “He should have taken that right away, instead of playing that Heroic Prince crap.”
+
+“What?” Stella looked at the paused video and the popups. “But... Ren is still famous! He just got a maxed Fame bonus during that last quest with the ghouls.”
+
+“Wait, what?” Lisa grabbed Stella's arm. “Tell me he didn't get bitten!”
+
+“He didn't.” Stella said. “Do you want to see what happened?”
+
+“Yes.” Lisa said. “It might tell me why he started where he did instead of back where everyone else is.”
+
+Stella brought up the footage and Lisa watched at an accelerated rate of 8x as Ren defeated the ghouls, and then they went to the town hall.
+
+“Stop there!” Lisa said when she saw Ren talking to the marked people. She watched the scene in 1x speed and then she gasped when the tarantula bit him and gave him the Ghoul Kissed (Skull) mark. “Oh... oh, no.”
+
+“What?”
+
+“He actually is supposed to be there.” Lisa said and sighed. “After the update, the game recognized him as a Ghoul Lord.”
+
+“A what?”
+
+“He can...” Lisa shook her head. “I can't say. It's against the game rules.”
+
+“What can you tell me?” Stella asked.
+
+“I can tell you to cross your fingers and hope.” Lisa said. “That's all that any of us can do now.”

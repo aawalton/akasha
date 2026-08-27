@@ -1,0 +1,443 @@
+---
+id: e31f5c56-382e-508e-88ab-de6cc4d009c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145 - Picked Up"
+slug: 0130-chapter-145-picked-up
+partOf: mythrans-master-of-all-continued-completed
+position: 130
+ownLength: 4561
+unit: words
+publishedAt: 2017-01-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/112452/chapter-145-picked-up"
+royalRoadId: "112452"
+---
+
+Ren had Nathalia and Narhilda on his arms as he left the Council chamber, and everyone watched them go. Several people nodded to them, and Lady Narhilda smiled and gave nods back. They went outside and the guards at the gate held it open for them. Once outside, Ren took the two women over to Princess and helped them get in the front cart. He unhooked the back cart and stored it. A few gasps were heard and Ren turned around and smiled at them.
+
+“Adventurers can do great things.” Ren said and went to the front of the cart, then hooked Princess up to it. “Take it slow until we're out of the main city, okay?”
+
+Princess nodded and Ren took the reins and climbed up into the driver's seat. They left the Main Keep behind and made it back to House Neram several minutes later. Ren slowed down at the sight of about a hundred Warriors gathered in front of House Neram Keep. They weren't on the road, so Ren had Princess drive right into the courtyard with the cart. He climbed down and helped Nathalia and her mother climb down, too. They went inside as Ren unhooked Princess, walked her into the stable, and fed her some food. He went back out to the courtyard to talk to the guards.
+
+“How did everything go?” Ren asked them.
+
+“Great!” Golir said. “Croggart and Dorcot rounded up the stragglers pretty fast.” He smiled and Ren nodded slightly. “They've just been standing there.”
+
+Ren smiled himself. “They're waiting for orders, I think.” He said and went outside to talk to Croggart and Dorcot. “I hear you did well.”
+
+They nodded. “It was just like herding sheep.” Croggart said. “By the way, I hate sheep farming.”
+
+Ren chuckled. “I saw all the farms on the mountainside on the way into the bay.”
+
+Croggart nodded slightly. “Yeah, my family has one of them, near the bottom.” He shook his head sadly. “It's not the life for me.”
+
+“Are they a part of a House?” Ren asked.
+
+“Yeah.” Croggart said. “I left it years ago, and took my little sister with me.”
+
+“What about Groggot?”
+
+“He left not long after I did.” Croggart said. “Signed on to a ship, and was bored out of his mind again.”
+
+Ren laughed. “Yeah, boredom sucks.”
+
+“Speaking of Groggot.” Croggart said. “Guess who we found?”
+
+“No way!” Ren said and Groggot stepped forward from the group of Warriors, and still wore his recruit uniform. “They were using recruits, too?”
+
+“50 of them.” Dorcot said. “No armor, and only a sword; no shield. Except for this guy.” He pointed to Groggot, who carried a battle axe as tall as himself.
+
+“I'm sorry you got caught up in all of this, Groggot.” Ren said.
+
+“I'm not.” Groggot said. “You weren't kidding about the adventure stuff.” He grinned. “How the hell did you get a regiment sent out to capture you?”
+
+“Over-active imaginations of the Council, I think.” Ren said, concentrated on his Command Aura, House Neram pendant, and made a Connection to his Screaming Terror ring. He turned to the gathered Warriors, and several of them stepped back.
+
+“Your Commander surrendered to me, so I won this battle.” He said. “I released him and the other officers at the Council meeting, so I'm going to do the same to you.”
+
+The Warriors all had surprised looks on their faces.
+
+“This shouldn't have happened.” Ren said. “None of you should have been here.” He shook his head. “If you meet any of the missing soldiers, tell them that; and to go back to the Garrison.”
+
+The Warriors all looked at each other, and Croggart grabbed his brother's arm.
+
+“Don't just stand there!” Ren nearly shouted. “About FACE! MARCH! DOUBLE-TIME!” Ren shouted. “MOVE IT! MOVE IT! MOVE IT!”
+
+The Warriors all turned towards the city and trotted away.
+
+“What about you, Groggot?” Ren asked. “Are you sticking with fighting Giants?”
+
+“I haven't finished training yet.”
+
+Ren nodded slightly. “My offer is still open.”
+
+Groggot nodded slightly, and Croggart smacking him in the back of the head.
+
+“You don't have to be so stubborn.” Croggart said. “I'll come visit the rat cage when you want.”
+
+Groggot laughed. “It's more of a mouse trap.”
+
+“That's what I said.”
+
+“I better go.” Groggot said. “See you later.” He nodded to Ren. “Ren.”
+
+“Have fun.” Ren said and Groggot ran after the Warriors that were marching away.
+
+“Now what?” Dorcot asked.
+
+“Well, you could stay here and have a nice meal.” Ren said. “My wife and her mother are great cooks.”
+
+“I heard you're pretty handy in the kitchen yourself.”
+
+“I don't like to brag.” Ren said and grinned. “Come on. Lets go inside.”
+
+“What about the armor?” Croggart asked. “We barely got to use it.” He said. “Do you want it back?”
+
+Ren shook his head. “I could melt it down and reforge it, but if I'm doing that anyways, it's just as easy to make it new.”
+
+Ren told the guards to keep an eye out; but, they didn't all need to be on duty now. He went into the house and was introduced to everyone. Teepo flew around their heads as Ren talked to them. The most interesting one of the group of people was Croggart's sister, Ereka. She was 3 feet and 10 inches tall; was only 22 years old, and had shoulder-length blonde hair. She used to be a secretary for House Lodur; until the incident with Croggart came up, and she lost her job over it.
+
+“Have you met Lady Narhilda and my fiance Nathalia?” Ren asked.
+
+“Only briefly, sir.” She said in a soothing voice. Ren held a hand out to her, and she took it.
+
+“Please allow me to introduce you to them.” Ren said. She blushed a little, and nodded slightly. He took her into the kitchen and told Narhilda and Nathalia about her, then asked her to tell her story in greater detail.
+
+“Why, sir?” Ereka asked.
+
+“We've been looking for someone to help run House Neram's accounts.” Lady Neram said. “You're the first person we've met that hasn't been tied to another House or already had a job that they didn't want to leave.”
+
+Ereka frowned a little. “So, you're saying that if someone else had come along, you'd be offering them the job instead?”
+
+Ren chuckled. “No. We're saying that you were first, and you get the top spot. Head Secretary, Lead Assistant, or Head of Accounts. You can call it what you want.”
+
+Her eyes widened. “I can name my job?”
+
+Lady Neram nodded slightly. “The House hasn't needed someone with your skills before.” She said. “When my husband was alive, he took care of everything.”
+
+“I... I see.”
+
+“Perhaps you do.” Ren said. “You'll be handling payments, wages, incoming money, appointments, ordering things we need, keeping records, and pretty much everything else that we might be too busy to do ourselves.”
+
+Ereka smiled. “It sounds like fun.”
+
+“I knew I liked you the moment I met you.” Ren chuckled. “Having fun while you work is the best feeling!”
+
+She nodded. “When can I start?”
+
+Narhilda grinned at her. “Is last week too early?”
+
+Everyone laughed. After a bit of chit-chat, Ren led her back into the main room and went back into the kitchen to help make supper for everyone. It was decided to eat inside, as most of the picnic area Ren had made was quite the mess after the battle. There wasn't much actual damage, just lots of knocked over tables and chairs from all the fleeing dwarves. They enjoyed supper, and the impromptu gathering broke up afterwards. Lady Neram bid everyone a good night, and sighed as the door shut behind the last guest as they left.
+
+“I think that was more exhausting than the Council meeting today!” Narhilda said and laughed.
+
+Ren was sitting on the couch, and nodded slightly. Nathalia sat down on his lap and kissed him.
+
+“You were wonderful today.” She gushed, and Ren smiled.
+
+“I would have had you out there, if I'd needed more help.” Ren smiled. “It was more important that you were in here and kept your mother from strangling some of the guests, though.”
+
+Narhilda snorted a laugh. “That little boy was running around like he owned the place, and she didn't do a single thing to stop him.”
+
+Nathalia nodded slightly. “Thankfully, we'd gotten all the precious things stored in Ma's and my room, right before everyone came in.”
+
+Ren smiled. “I guess that means I'm going to have another chaperoned night of sleep.”
+
+“Of course not!” Narhilda said. “I'll be staying out here in the main room.”
+
+“No, you're not.” Ren said. “There's plenty of room in that huge bed.”
+
+“But what about... you know...”
+
+Ren smiled. “I think Nathalia's had enough of me pawing at her.”
+
+“I have not!” She exclaimed, then blushed as she realized what she'd said.
+
+“I was kidding.” Ren said and laughed. “I've got Adventurer's business to take care of tonight.”
+
+Nathalia sighed. “Oh, all right.” She got out of Ren's lap and stood up. “Let's get you out of that dress, Ma.”
+
+“I'm not so decrepit that I can't undress myself.” Narhilda said, then grinned as her daughter rolled her eyes.
+
+“Of course not.” Nathalia said. “Extra hands just help it go faster.”
+
+Narhilda nodded slightly and went into the hallway to go to the old bedroom.
+
+“See you later.” Nathalia said and kissed Ren briefly and left him alone in the main room. He took out a paving stone and several stone bricks, set them up into a pen, and enchanted two of the sides with fire runes. Ren reached into his hood to grab the baby fire elemental, then activated the enchantment. The baby fire elemental hopped into the pen and stretched out to luxuriate in the heat.
+
+“I'll feed you soon.” Ren whispered, and rubbed it's back. He heard a crackling fire and smiled. “Stay inside.” It's color changed slightly for a moment, and he grinned. Ren looked around at the disheveled state of the main room, and decided to clean it. He even put some things into the pen for the baby to eat. It took about an hour, and because he was using Sneak, no one heard him as he worked. Ren sat back down and sighed.
+
+I better check my status. Ren thought. I need to see what it gave me. “Show status.” He whispered.
+
+Status
+
+Name  Ren  Level  25
+
+Gender  Male  Class  Artificer/Noble
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  341,470 (Lord)  Honor  55,250 (Prestigious)
+
+Titles
+
+Blacksmith - Grants 5 level bonus to Blacksmithing Skills
+
+Tailor - Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice - 20% stat gain at his shop
+
+Lemming - 5% resistance to falls
+
+Son of the Pelt - 20% stat gain using craft station
+
+Honorary Dwarf - Grants Dwarf Race abilities
+
+A Fool And His Money - Automatic 5% gratuity, plus perks
+
+Ren, The First - Grants Command and Camaraderie Auras
+
+Crazy Like A Fox - Intelligence +20, Wisdom +20
+
+Atlas - Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming - Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge - Grants 5 level bonus to Speed Reading and Hidden Knowledge Skills
+
+Father Of Fire: Grants Absorb Fire and Fire Manipulation Skills
+
+Health  971  Mana  1134
+
+Strength  158  Dexterity  93
+
+Vitality  97  Agility  91
+
+Endurance  98  Intelligence  126
+
+Luck  34  Wisdom  126
+
+It's getting too big to see on one screen! Ren thought as he scrolled it slightly. I wonder if there's a limit to the number of titles you can get? He closed the popup, then remembered about his class restriction for leveling. Oh, crap! He thought. What if I was supposed to get more levels from that battle?
+
+“Show info for Slow and Steady.” Ren whispered.
+
+Slow and Steady (Passive)
+
+The XP required to level up is increased by 110% (Capped). XP gains are reduced by 25% (Capped). Skills gain XP 60% faster (Capped). 10 stat points will be gained for each level instead of 5.
+
+I'm glad it didn't screw me out of a ton of XP. Ren thought, then smiled. Although, 25% of over half a million points is still a lot; but, at least my Fame bonus is maxed at 100%, so my gain is actually 75%. Ren sat back in relief.
+
+I'll see you in a few hours, Teepo.
+
+“Bye, Ren.” Teepo said.
+
+“Logout.”
+
+********
+
+Barbara helped take off the headset and smiled at him.
+
+“Hey, you.” She said. “You did a great job.”
+
+Ren smiled. “I felt bad that I sprung such a huge trap for only a few hundred troops.”
+
+Barbara snorted a laugh and shook her head. “Only a few hundred, he says.”
+
+Ren chuckled. “Bathroom break.” He got out of bed and went to the bathroom to take care of business. When he came back out, Denise was there talking to Barbara. Ren climbed into bed and pulled over the laptop, and slipped a small bundle of toilet paper into his cubbyhole on the rollaway table. He went back to the footage of when he was in the Library with the Sage of Ages, and had her deliver the books. He waited, and the screen went black. A portal opened, there was a blue flicker for a few seconds, and he was in Nathalia's room. His eyes widened as he stepped back into the portal, there was a blue screen for about 30 seconds, and then he was back in the library. Ren watched the clip again, slowing it down frame by frame, and there was nothing at all about the fire realm, or about him fathering a child with the Goddess of Fire.
+
+Ren sat back and smiled. No one knows! He thought.
+
+Denise served him breakfast, and he went to physical therapy in a great mood.
+
+Talk about a huge secret!
+
+*
+
+The head programmer, Max, was not a happy camper. He'd gotten the power drain warning last night; but, it was only a temporary thing and lasted barely 30 seconds. Once he got into work and started digging, however... things changed. He'd traced it down to the secondary backup server and pulled up the usage logs.
+
+Yeah, there it is. Max thought as he looked at the 300% jump CPU usage, and the subsequent power drain. What the hell was going on for those 30 seconds?
+
+*
+
+Ren got back from his therapy session and took a shower. It was a lot harder than normal, since he only had one usable arm and it was almost as sore as his dislocated elbow.
+
+I know therapy is supposed to help; but, dammit if all I want to do is sit still and not move afterwards.
+
+*
+
+Using the usage logs, Max followed the trail all the way to the main server hub and dug through the code. He found the video reference file ID number, and followed that back to his own tracking program for watching the contest winner's movements.
+
+“Son of a bitch.” Max said and sighed. “Why didn't I check here first?”
+
+He pulled up the time sequence in the general area of the power surge, and only one of the players had a weird portal appear. He watched the same video as Ren, and frowned.
+
+“That shouldn't happen.” Max said, and pulled up the raw footage from the backup server. It was uncompressed and not encoded. He hated leaving it that way, because anyone could watch it if they knew where to find it. It was the only way to verify what was going on in the game. He watched the actual footage, and there wasn't a blue screen at all. He saw 30 seconds of something, then ran it at game speed, then saw 2 minutes of something all on fire.
+
+“What the hell is that?” Max thought and pulled the raw footage into a video editor. Even going frame by frame, he could barely make out what was going on, but when he realized what he was actually seeing, he froze.
+
+“No way.” Max said, and then did something he never did at work. He cursed and yelled at the same time. “NO FUCKING WAY!”
+
+Everyone in the tech department looked at him with surprise.
+
+“Sorry folks.” He said as he stood, and put his hands up in surrender. “I just got a little excited.”
+
+Several people laughed. “There's a first.” Someone said, and another person snickered a laugh.
+
+Max sat down and transferred the new video file to a thumb drive. He typed furiously for about 10 minutes, sighed, then left the tech department.
+
+*
+
+Ren finished his shower, and tried to dry off. His arm was still sore and didn't work right. Ren sighed and asked Denise to help dry off.
+
+“I wouldn't bother you if I didn't need the help.” Ren said.
+
+Denise rolled her eyes. “I'm sorry, okay? How many more times do I have to apologize for the way I acted?”
+
+“Only a few dozen more.” Ren said and smiled. “I should be happy by then.”
+
+“I could always poke your elbow again, you know.” Denise snorted a laugh. “This time on purpose.”
+
+Ren nodded. “The whole thing with Lucy set me on edge, and I was more defensive than usual.” He said. “I'm sorry.” He handed her a towel. “Help, please.”
+
+Denise nodded and it only took a few minutes with the two of them working, to finish drying everything.
+
+“Thanks, Denise.” Ren said, and put on a set of pajamas. He went out to his bed and climbed up into it. She helped him get settled and held out his VR headset.
+
+“Have fun in there.” Denise said, and his eyes widened for a moment.
+
+“Damn! Bathroom break.” Ren said and slid a hand into his cubbyhole to palm a foil packet. He got out of bed and went to the bathroom. He flushed the toilet and came back to the bed and climbed in again. “Okay, now I'm ready.”
+
+Denise smiled and helped him put the headset on.
+
+“See you at lunch.” Ren said and logged back into the game.
+
+*
+
+“You'll need to be a little sneakier than that if you want to keep things from me.” Denise smiled and reached into the cubbyhole Ren was using, and took out a foil packet. “They make noise when they crinkle.”
+
+*
+
+“What is it you're showing me again?” Edward Torren, the CEO of Sid Tec, asked Max.
+
+Max sighed and slowed the video down to a single frame. He zoomed it in, and it was full of digital boxes, but you could clearly see someone holding a baby up high next to a large fireball. Max pointed to the baby.
+
+“That.”
+
+“It's a baby.” Edward said.
+
+“No, sir.” Max said. “That is a randomly generated AI that was not programmed by me, or anyone else in the tech department.”
+
+“How do you know that?”
+
+“I wrote the Fire Deity scenario.” Max said. “She was supposed to degrade down to almost nothing, and the fire realm was supposed to lose it's restriction of no entry unless you have 100% immunity. Once it was down to players only needing 10% immunity, portals were supposed to open up in random fields in the game so players could go there and farm higher level experience.”
+
+“What about the Fire Deity?” Edward asked.
+
+“If enough players enter the realm, she starts to regain her abilities and the fire resistance raises up.”
+
+“You made it a progressive level?”
+
+Max nodded. “The more people playing it, the more resistance you need, and the bigger creatures that are generated.”
+
+“And bigger XP rewards.” Edward said. “So, what happened?”
+
+“I don't know.”
+
+“What?”
+
+Max shrugged. “All I know is, Ren got in there somehow. Now the Fire Deity is at about half-strength, and the fire realm still has the 100% restriction.”
+
+“So what's the new AI for?”
+
+“No idea.”
+
+“You don't know a lot.” Edward said and frowned.
+
+Max chuckled. “As soon as I saw it, I came right here after checking a few things. This is the raw footage, and that is the only clear image in the whole 2 minutes that was captured.”
+
+“2 minutes? How did he mess up your whole scenario in only 2 minutes?”
+
+Max shook his head. “I'll keep digging, but the only reason I found this is because the system drew a ton of power for the 30 seconds it needed to create a new AI.”
+
+“Are you going to delete it?” Edward asked.
+
+“I can't.” Max said. “According to the system, there's no new AI... and I can't find one in the logs.”
+
+“Well, shit.”
+
+“Succinctly put, boss.”
+
+*
+
+Elise walked into the office and saw Mr. Torren's office door was shut. She shrugged and sat down at her desk. She started her day in a very good mood, because she'd spent nearly the whole night watching footage of Ren as he progressed through the game. She'd intended to only watch it for a few hours, but it had been so addicting that she couldn't help but keep watching until the next thing happened.
+
+He's such a great person! Elise thought, as she automatically sorted through the piles of emails the company had received during the night.
+
+********
+
+Ren got up from the couch and stored his red royal suit, and equipped his armor's bodysuit.
+
+Anything happen, Teepo?
+
+“Everything's quiet.” Teepo said.
+
+You don't have to stay up all the time, Teepo.
+
+“I might as well do something.” Teepo said. “I could go back in the ring, but I kinda forget everything when I'm in there.”
+
+Ren nodded slightly. I understand. See you in the morning.
+
+“Goodnight, Ren.”
+
+Ren crept down the hallway and into the old bedroom, and saw two lumps under the blanket. They were on their sides, but close together. He knew he wasn't going to be able to slip between them to hug like he did the last 2 times, so Ren went to the side at their backs and lifted the blanket just enough to slide in. He cuddled in close, and put an arm over them. The one in front grabbed onto the arm and held it tight against her abdomen. Ren hugged them both as he drifted off to sleep.
+
+********
+
+Sera Loris ran back up to her room after forcing herself to eat brunch. She pretended to slam her bedroom door, and walked over to her closet.
+
+“Dammit, Mother!” Sera exclaimed. “You know how much I hate it when your 'friends' come over!” She said to herself, because she'd never say such things to her mother's face. Sera looked in the mirror and admired the latest fashion as it hugged her well-toned body. She was only 21, but she worked hard to maintain her figure. She looked like a Miss Universe contestant with her flowing red hair halfway down her back.
+
+No plastic surgery needed for this chick! Sera thought, then smiled as she opened her closet door and stepped into her VR studio. Every piece of equipment ever invented for the VR industry was there, even the free-floating magnetic couch. The jewel of her collection was the new Sid Tec VR headset, specifically designed to be used for F.L.O.W., and she grinned as she remembered her last venture into the VR world.
+
+“I'm sure the company will love my new show idea.” Sera said, picked up the headset, and walked over to the mainframe installed in the corner. “I better get that video I recorded edited right away.” She picked up her cell phone and speed-dialed her contact at the television studio's editing department.
+
+“Hi, John.” “Yeah, sent it this morning.” “Uh huh.” “Yes, standard package.” “Hold on, what did you say?” “You have got to be kidding me!” “They can't do that!”
+
+Sera hung up the phone and threw it across the room. “Son of a BITCH!”
+
+*
+
+Sid Tec's secretary, Elise Stanford, was elated with joy because she had just hung up the phone with the television studio.
+
+“They bought the pilot for Ren's show!” She hopped up and ran into her boss' office. “Sir! They bought it!”
+
+“Bought what?” Edward asked, perplexed.
+
+“Mr. Haddon's show idea, sir!” Elise said, and had to stop herself from jumping up and down.
+
+“That, Ms. Stanford...” Edward smiled. “...is wonderful news!”
+
+*
+
+Lisa Everet stepped off the city bus and tried to avoid all the stares. She always hated it when people stared at her, and undressed her with their eyes.
+
+He said to try and think positive thoughts. She sighed. I'd like to shove a positive thought right up his ass!  Lisa stopped walking and smiled. Does that count as a positive thought?
+
+She kept walking down the street and around the corner. She'd lived in this neighborhood since her family had moved here when she was in kindergarten 13 years ago (making her 18), and it still hadn't changed one bit. Lisa was depressed because not one thing had changed in her life in all that time. She went into the house, and her mother tried to get her to talk about her visit to the psychiatrist.
+
+“Maybe later.” Lisa said, and went upstairs. She entered her bedroom and looked at her meager shelf of third-hand books she'd picked up at flea markets and swap meets. She loved books; but, they were expensive and hard for her to get. Lisa wasn't allowed to work anymore because of the frequent anger outbursts she was prone to, and the court ordered therapy sessions were pure torture for her.
+
+She sighed, then looked at her 3 year old computer, and at the oldest VR headset ever made. “Okay, something finally changed in my life.” She said, and sat down in the chair at the desk. She regretted having to log out of F.L.O.W. again, but her mother warned her that if she missed another appointment with the psychiatrist, Lisa wouldn't be allowed online for a week.
+
+“At least in the game, I can do what I want.” She said as she put on the VR headset. It had cost her almost as much as she had paid for the VR headset in the first place, to get that punk girl to mod it for her 6 months ago. It was well worth the money, though. After that, everything felt so real! Lisa thought. It's still going to be nighttime in the game; but, the time of the day doesn't matter when you're inside most of the time anyways.
+
+“Flow Login Start.”
+
+********
+
+Lara, the Sage of Ages, woke up in the 'space' made available to her at the Library. The closet was small; but it let her go to any Library in the game. She just picked it from the menu and opened the door.
+
+She gasped when she got all the XP notices from Ren's battle.
+
+“Good god!” Lara exclaimed, as she leveled up 30 times, and it unlocked a Secret Class Skill bonus for nearly every level. She got the notice that her Fame had maxed out at 10,000; the extra Fame converted to XP, and she leveled up twice more. Tears came to her eyes as her brain was flooded with new information.

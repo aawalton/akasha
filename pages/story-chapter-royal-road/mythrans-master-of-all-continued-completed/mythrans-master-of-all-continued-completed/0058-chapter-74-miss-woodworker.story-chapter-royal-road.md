@@ -1,0 +1,429 @@
+---
+id: 73a03d52-31e7-52f5-838c-84c2f07dd123
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74 - Miss Woodworker"
+slug: 0058-chapter-74-miss-woodworker
+partOf: mythrans-master-of-all-continued-completed
+position: 58
+ownLength: 4149
+unit: words
+publishedAt: 2016-11-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101567/chapter-74-miss-woodworker"
+royalRoadId: "101567"
+---
+
+Lucy called the hospital just after 2pm and told Ren she was ready to log in. He gave Lucy a few minutes to get ready and then settled into bed and put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the VR world and everything seemed fine. He didn't feel like he was suffering any effects from anything and smiled. “That's a relief.”
+
+“What is?” Lucy asked.
+
+“I don't feel any different from normal.”
+
+Lucy nodded. “That's good. Say, Ren... why don't you make up the potions that you used up? The mana potions, specifically.”
+
+“That's a great idea.” Ren took out his alchemy kit and made up 7 Mana potions.
+
+“Ren... do you have any antidote potions?” Lucy asked.
+
+“What? Why would I need those?”
+
+Lucy sighed. “Of course you don't need them. I need them.”
+
+“You do?”
+
+“Of course I do. I'm not as strong as you, and I won't survive if I don't have anything to protect me from poison.”
+
+Ren thought about it for a minute. “You're right. I should be trying to protect you more.”
+
+Ren made up one vial of antidote and gave it to Lucy. “There you go. It should help you from almost any poison.”
+
+“Thank you, Ren!” Lucy said and opened the vial.
+
+“What are you doing?” Ren asked.
+
+“I'm just going to taste it, to see if it's okay.” Lucy said and put it to her lips. “Ugh... that seems a little off.”
+
+Ren looked at her sceptically. “It's probably because of the settings in your VR headset.”
+
+Lucy nodded. “Yeah, I was scammed by this guy into buying the cheapest helmet for the most expensive price.”
+
+“You WHAT?!?”
+
+Lucy nodded. “Yeah, it was pretty stupid of me to buy it off of F-Bay, But he had the expensive box, and when it arrived, the cheap one was in it.”
+
+“Did you complain?”
+
+“I tried, but the sale was for 'the box and contents, not necessarily for the high quality I believed it would be'. That's a direct quote from both the seller and F-Bay.” Lucy explained.
+
+“Lucy, I'm so sorry.”
+
+“It's okay... but what you said could be true. I don't know.” Lucy said. “Here. You try it and see if it tastes okay.”
+
+Ren shook his head. “I don't need to taste it. I know it's good.”
+
+“How?”
+
+“I've tasted it before.”
+
+“Then you'll know how it should taste, right?” Lucy asked.
+
+Ren nodded.
+
+“Then do what I just did. Slip a little into your mouth and see if it really does taste the same. You're the only one who can make the comparison.” Lucy said sweetly. “You said you wanted to protect me, how will I know it's any good if you don't try it for me to make sure?”
+
+Ren sighed. “Fine. Just a sip. I don't want to waste it.”
+
+Lucy handed it over and Ren put the vial to his lips. He tipped it up a little and Lucy grabbed Ren's nose and the end of the vial and tilted it all the way. Ren sputtered and choked a little but he swallowed it involuntarily. Ren knocked her hands away and the bottle hit the ground and broke.
+
+(cough) (cough) “What was that for?” Ren stood up and tried to spit out the antidote, but he'd already swallowed it.
+
+“For your own good.” Lucy said, satisfied.
+
+“I know you're mad about Elerlyth, but you don't have to try and choke me to death!”
+
+Lucy shrugged. “I didn't try to choke you at all, even though that sounds like a good idea.”
+
+Ren stared at her.
+
+“Ren, you're not the first guy to cheat on me, okay?” Lucy said and crossed her arms. “I thought you would be different from them.”
+
+“Lucy... I'm sorry that happened... but I...” Ren grabbed his stomach and went pale.
+
+“R-Ren?”
+
+Ren shook his head and turned sideways as a wenching pain doubled him over. Ren opened his mouth to throw up and this black ooze came out. He wretched a few times until nothing else appeared, then stood up again. Lucy walked over to him and rubbed his back. They looked down together at the foot wide puddle of black ooze.
+
+“Is that...” Lucy said.
+
+“A present from Elerlyth.” Ren said. “Several in fact.” Ren took one of his concealment rocks that he had in inventory, absorbed the glyph, then enchanted it with a glyph of 2 wind and 2 fire. He wasn't sure if this was necessary, but it didn't hurt to do it. Ren pointed it at the black puddle. Activate. A blast of fire shot out and hit the puddle. Ren moved it back and forth, making sure to engulf the whole thing. After a few minutes, the puddle was all burned up. [/i]Deactivate.[/i] Ren stored the rock back into inventory. He might need it again later.
+
+“Lucy... I...” Ren said. “Thank you.”
+
+“You said you needed my help. That's what friends do.” Lucy said and went back to the side of the building.
+
+“You're not staying?” Ren asked.
+
+Lucy shook her head. “I think I've had enough of the game for a while.”
+
+“But... Lucy...” Ren sighed. “I understand.” Ren walked over to her and knelt in front of her. “I can never apologize enough for hurting you like that.” Ren reached out and took Lucy's hand, and she didn't pull it away. “I know you've probably heard this before; but, I'll do everything I can to earn your trust back.”
+
+Lucy nodded. Ren wasn't sure what she was nodding for, his promise or hearing it again. He didn't ask her to clarify what she meant, though... and let her hand go.
+
+“Thanks again, Lucy.”
+
+“You're welcome.” Lucy said and leaned back against the building. “Logout.”
+
+Ren stared at Lucy's phantom form for several minutes, then turned away. Ren walked over to where Mitchell's shop was, but there were no soldiers, barricades, or even ropes. He walked to the front and there was a 'Closed Until Further Notice' sign. When he approached it, a popup appeared.
+
+Notice!
+
+This business has recently closed due to unforseen circumstances.
+
+You may not enter the premises at this time.
+
+Ren dismissed it and thought for a moment.  You can still buy bows at General Goode's General Goods, but I'm a little suprised the game hasn't appointed another NPC for this store already. There's probably a lot of players getting mad about it, especially if they don't know why it's closed. He walked around the building and the back door was covered with wood. Ren nodded and walked up the street and noticed an older style building behind Sally's place. Ren walked up to it and reached for the door handle.
+
+Notice!
+
+This old storage warehouse has long stood empty. Your current standing within the Artesian District is high enough that you have been given the option to buy this property.
+
+Current Price: 50 Platinum Coins
+
+Purchase Building: Yes / No / Negotiate
+
+Holy crap! 50 platinum?!? Are they serious? Ren thought, then looked at the Negotiate option. There's an idea. If I can convince them it's so run down, maybe I can get a better deal. I really need my own place to work. I can't make bows and things in Donan's, or even in Sally's shop. There's no room.
+
+“Negotiate.”
+
+Negotiation Initiated.
+
+Please proceed to the small business across the road to continue.
+
+Ren turned around and saw a small business, just like the popup indicated. Ren had walked by it a bunch of times, but never noticed it before. It was just another building. No signs or anything adorned the outside. Ren crossed the street and entered. An old man sat behind the counter. Ren approached him and immediately felt at ease.
+
+What was that? Ren activated Enchanted Eyes. Ren looked around and saw that a paperweight on the desk glowed slightly, but couldn't see any glyphs or runes. It must be on the underside. Ren thought then stopped. No, it needs to be facing outwards. It's... it's invisible!
+
+“Down the hall, third door on the right.” The old man said.
+
+Ren looked at him and the old man pointed.
+
+“Down that hall.” The old man held up 3 fingers. “Third door.” Then thumbed to the right. “On the right.”
+
+Ren was tempted to laugh, but figured the old man might get so mad he'd blow his top or something. He walked down the hall to the third door on the right and knocked. There was no answer, so Ren opened it and went inside. A small table was there with 2 chairs, on opposite sides of each other. Ren sat down to wait. A few minutes later, the door opened.
+
+“Sorry, I had to finish what I was working on befo- Ren!” Sally said when she stepped into the room.
+
+“Sally!” Ren stood to give her a hug.
+
+“You're the one that wants to buy my old warehouse?”
+
+Ren nodded. “I've been meaning to find my own space for a while. I've got so many things that I need to do, and running around to every shop to do them is fun... but I want someplace where I can just work on what I want.”
+
+Sally sat down and Ren did as well.
+
+“Will you be opening a store?” Sally asked.
+
+Ren thought about it for a minute. “I'm not sure. If I do that, a lot of my time will be taken up with orders for everything. Right now, I just want to make stuff to get better at it. Can I make a storefront later?”
+
+Sally nodded. “Once you own the property, you can do what you want with it. You can keep it for storage, use it for target practice... which you better not do, since it's right behind where I sleep... or make a storefront to sell things. This is the Artesian District. You can do what you want. That's the whole point of this place.”
+
+“It sounds great!” Ren smiled, then put on a straight face. “The price though... 50 platinum? Is that for real?”
+
+Sally laughed. “Yes, it's real. It's so high because we only want serious buyers to even think about coming in here.”
+
+“You're serious? 50 platinum... or 5,000 gold... or 500,000 silver... or 50,000,000 copper...” Ren said and Sally laughed again.
+
+“It's a great investment. It covers the cost of the land, pays the taxes for 10 years, and it hires Ms. Nacide to do the restoration.”
+
+“Ms. Nacide? Who's that?” Ren asked.
+
+“She's the local woodworker, of course. You don't think these buildings build themselves, do you?”
+
+Actually, I did. Ren thought and smiled.
+
+Sally smiled as well. “So... have you decided?”
+
+“That depends... was this really a negotiation, or was it just you convincing me the price was cheap enough as it was?” Ren said and laughed.
+
+Sally laughed as well. “I could cut out the restoration and the taxes, but you get a really good deal paying upfront with them... and the place is a shambles.”
+
+Ren nodded. “No, you've convinced me.” Ren opened his coin pouch and mentally crossed his fingers to try and take out 50 platinum... and then put the money on the table as the shadow coin disappeared.
+
+Notice!
+
+You no longer have access to Hidden Currency.
+
+Ren sighed in relief mentally and smiled at Sally, who scooped up the money and smiled in return. She stood and reached over to shake Ren's hand. He stood up as well and shook back.
+
+“Welcome to the Artesian District.” Sally said.
+
+“Thank you.” Ren grinned.
+
+They stepped out of the room together and walked down the hallway. Sally walked over to the old man and handed him a platinum coin. A grin spread across his face and he nodded at Sally, then at Ren. They both waved to the old man and he waved back as they left the small business that didn't have a name.
+
+“How long will the restoration take?” Ren asked Sally.
+
+“About 4 days.” A woman's voice said from beside Ren. He turned and look at her with a raised eyebrow. “Ms. Nacide?”
+
+Ms. Nacide nodded. “Just call me Jen.”
+
+“Okay, Jen. Only 4 days? Really?” Ren looked back at the place. Sally was right, it did look like it was in shambles. It made him wonder what the inside was like.
+
+“Sure. These old ones are easy to fix up.” Jen said.
+
+“Can I discuss it's design with you?” Ren asked.
+
+Jen shrugged. “You've paid for the work already, so why not?”
+
+Sally laughed and handed her 4 platinum coins. “You might regret that.”
+
+Jen looked at her, a bit perplexed.
+
+“You'll see.” Sally said and gave Ren a quick hug.
+
+“Hey!” Ren said and hugged Sally back. “I'm not that bad, am I?”
+
+“You don't think you are, no.” Sally chuckled and let Ren go. “Have fun.”
+
+“Bye, Sally.” Ren and Jen said together.
+
+They smiled at each other for a moment and then Jen waved for Ren to follow her. “My shop's over this way.”
+
+Ren followed Jen down the street and around Mitchell's old shop to a good sized building that sat between the Artesian District and the Housing District. It had a large fenced in area and Jen went inside the building. Ren followed closely behind and stared at all the woodworking tools mounted on pegboards that covered the walls.
+
+“How do you know what tools to use?” Ren asked, admiring them all.
+
+Jen chuckled. “You just do. When you're making something, you just reach for the right tool for the job. It's more instinct than practice, but I'm sure if you had years to do it, you'd know what to use, too.”
+
+Ren smiled. If I work hard at it, maybe only months. He looked around the shop and saw several people working. Some sanding, some cutting, some carving, but there was one thing he didn't see.
+
+“You don't have a table saw?”
+
+“A what?”
+
+“Table saw. A big circular blade that is mounted under a table, that sticks up so you can cut wood planks with it.” Ren said.
+
+“What are you talking about? We split the wood the way it's supposed to be split.” Jen said and walked out through a big opening in the side of the building. She pointed to several people standing on platforms. They were hammering large axes into logs to split them into planks. Ren stared at them as they made planks of nearly the same thickness and tossed the odd sized ones to the side with the rounded ends they'd already cut off.
+
+“Do... do you have a lot of planks already made?” Ren asked and Jen led him to another area where stacks and stacks of slightly different sized planks were piled together. “How do you get them all to fit together as a flat surface when you nail them?”
+
+Jen looked at him like he had 2 heads. “We pick similar boards, of course.”
+
+Ren shook his head slightly. There's nothing I can do about this right now. Ren thought. “Thank you for the grand tour, Jen.” Ren said. “Can we look at the plans for my place now?” Ren smiled. My own place!
+
+Jen nodded and Ren followed her back into the building and into her office. She dug around through piles and piles of large parchment sheets until she found the one she wanted.
+
+“Here you go.” Jen said and put it on her desk.
+
+Ren looked at it, and it really was just a big empty warehouse. A large square building with a slightly pitched roof 2 stories high, and a small third story nearly half the width of the building. Ren examined the plans and got a popup.
+
+Notice!
+
+You have learned the plans for: Warehouse (2 Story, W/Addition)
+
+Ren dismissed the popup and saw that the staircase up to the third floor was too small and steep.
+
+“Can we change the stairs?”
+
+Jen looked at them. “What's wrong with them?”
+
+“They're too small and steep.”
+
+“You're small. I think you'd fit.” Jen said.
+
+Ren glared at her.
+
+“You are.” Jen said and smiled, taking some of the sting from her comment. Ren huffed and asked for a piece of parchment.
+
+“That stuff's expensive.” Jen said and handed over a similar sized piece. Ren handed her a silver coin without thinking. Jen took it with a shocked look on her face and Ren got to work. Using the system's options menu, he widened the stairs and moved them to the back of the warehouse, making them go up only one floor, to end in a platform that you'd walk halfway across and turn around, then another set of stairs to go up the rest of the way to the third floor. Ren added a wall and doorway at the top, essentially making the third floor a seperate space.
+
+“Can you add a second floor?”
+
+Jen looked at Ren with raised eyebrows.
+
+“The space is already there. Can we add extra large supports around the outside walls, with free-standing supports down the middle... here, and here, and here... and just make a new floor on top of it?” Ren drew what he meant on the parchment paper and Jen's eyes widened.
+
+“You want us to build a whole floor, a storey high, inside an empty warehouse?”
+
+Ren nodded.
+
+“Do you know how much wood that's going to take?” Jen asked.
+
+Ren thought about it. “Probably most of the stock you have right now, I think.”
+
+Jen shook her head. “I can't empty my business like that. That's a lot more than 400 gold's worth.”
+
+“I thought so.” Ren nodded. “What about just making the supports and I can add the floor later?”
+
+“You're going to add it yourself?” Jen asked, surprised.
+
+“Sure, why not?” Ren replied.
+
+“Once reason could be that you don't know how.” Jen said, and chuckled.
+
+“I can learn.”
+
+Jen looked closely at Ren. “I heard that about you.”
+
+Ren looked back at her. “I've got 4 days of your services ahead of me. I'd like to use them as much as I can.”
+
+Jen chuckled again. “Okay, Ren. Keep going and show me what you want.”
+
+Ren nodded and drew out a section of the floor that he wanted bare, and filled with interlocking stones. “What's that for?” Jen asked.
+
+“I need to have a spot for a forge, and I don't want a wood floor around it.”
+
+“You're putting in a forge?” Jen asked. “What kind of shop are you making?”
+
+“Do I have to pick?” Ren said and grinned.
+
+Jen rolled her eyes. “No, but it would make my job a whole lot easier.” Jan said. “Now I know what Sally was talking about.”
+
+They laughed together for a minute and Jen told him to finish his drawing. Ren completed it by adding walls and storage spaces, even using the area under the staircases. When he was done, he carried it with him as he and Jen went out into the street, and they slowly walked over to where Ren's new place would be, discussing the drawing.
+
+********
+
+Edward Torren's office phone rang.
+
+“We just got a call from the hospital. Ren's in.” Max said.
+
+“Why couldn't you just track his IP or something?” Edward asked.
+
+“We did, but that doesn't tell us where he is in the game.”
+
+“Can't we track that, too?”
+
+“Sure, but if we start that code, we'll get info on where everyone is in the game, then have to filter out everyone else to find him. It was just easier to ask them where he was.”
+
+Edward sighed. “I want that done later.”
+
+“But...”
+
+“No buts. It should have been done when we selected the winners of the contest.” Edward said. “Actually, get me the info on the other winners, too. I want to know where they are.”
+
+“Are you sure, boss? You don't think that's invading their privacy or something?” Max asked.
+
+“It's our game... and I want to see what they've been doing with the special classes I gave them.”
+
+“No problem. I'll have it done by the end of the week.”
+
+“Thanks, Max.” Edward said. “Are you taking Elise in?”
+
+“If you want me to.”
+
+It doesn't sound like you want to. Edward sighed. “No, I guess I better go in myself. Message me Ren's location and what he's up to, when I log in.”
+
+“Sure. Have fun.”
+
+Edward laughed and hung up. He stood up, walked around his desk to his office door, and stepped out to stand next to Elise. “He's in.”
+
+Elise's face lit up and she smiled.
+
+“You're only going to apologize, right? No grabbing, feeling, or anything like that?”
+
+Elise nodded. “I'll be good. I promise.”
+
+“Let's get to the lounge.” Edward said and started walking, with Elise close behind.
+
+********
+
+Ren and Jen walked around the corner of the street and saw 2 people standing in front of his building. Ren kind of recognized the man, and when he got closer to them he definitely recognized the woman, and stopped walking.
+
+“I'm sorry to be rude, but...” Ren said. “...what do you want?”
+
+“To offer an apology.” Edward said. Ren's eyes widened and stepped closer.
+
+Edward held out his hand. “I'm Edward Torren, CEO of SID Tec.”
+
+Ren took his hand and shook it.
+
+“And this... this is my secretary Elise Stanford.”
+
+Elise didn't put out a hand for Ren to shake. He raised an eyebrow and she giggled. Edward looked at her and she coughed and composed herself.
+
+“Ren, I'm very sorry for the way I acted.” Elise said and dropped her head. “It was inexcusable for me to behave that way.” She said. “I know you can't forgive me for what happened, especially after how things turned out; but, if there's anything that I can do to make it up to you... I want you to let me know, okay?”
+
+“You're not just saying that so I won't complain, are you?” Ren asked.
+
+Elise got a shocked look on her face. “Of course not! I...” She frowned. “I really am sorry, Ren. I get excited over things easily. When I saw you that day I thought...” Elise shook her head. “...it doesn't matter what I thought. I was wrong and I'm truly sorry.”
+
+Ren looked at Elise's sad and slumped figure, and remembered having a similar pose while trying to explain things to Lucy, and sighed. “Apology accepted.” Ren said.
+
+Elise took a deep breath and sighed herself. “Thank you.”
+
+Edward put a hand on her shoulder. “The offer goes for myself as well. If there's anything that I or the company can do to make up for this, please let me know.”
+
+Ren thought for a minute and got an idea.
+
+“Well... there is something...”
+
+********
+
+Around 4:00 pm, Lucy sat at her kitchen table and tried to eat a frozen tv dinner. She didn't bake it in the oven, but used her microwave. The turkey was like rubber and the stuffing was hard as a rock. The potatoes were runny and the corn was burned.
+
+Maybe I was a bit hard on him. Lucy thought as she ate the meat and stirred the potatoes, but eventually she just dumped the food in the compost bin and washed out the plastic dish and put that in the recycle bin. There was a knock on her front door and Lucy went to see who it was. The Fed-UPS man was there and Lucy opened the door.
+
+“Package for you, ma'am.” The Fed-UPS guy said.
+
+“I didn't order anything.” Lucy said.
+
+The man shrugged. “I just deliver them, ma'am.” He held out the clipboard and Lucy signed her name. He bent down and picked up a brown wrapped package and handed it to her. “Have a good day.” He said and tipped his hat at her. Lucy took the package inside and closed the door.
+
+What is this? She thought and went back to the kitchen table. Lucy grabbed a knife from the cutlery drawer and opened the top. There was an envelope inside and another box. Lucy took out the envelope and opened it. Inside was a rebate check from SID Tec for the cost of a top of the line VR headset, and a typed note apologizing for the mix-up with her old one. Lucy sat down in the chair and stared at it in shock.
+
+What... what... Lucy tried to think of how something like this could happen and nothing came to mind. She put the check down and took out the other box and opened that, too. Inside was another typed note, and a brand new high-end VR headset. Lucy almost cried when she read the note.
+
+Lucy,
+
+Friends help friends when they can.
+
+- Ren
+
+“Oh, Ren!”
+
+********

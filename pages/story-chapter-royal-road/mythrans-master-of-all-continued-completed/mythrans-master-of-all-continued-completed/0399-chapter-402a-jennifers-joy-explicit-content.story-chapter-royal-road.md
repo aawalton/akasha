@@ -1,0 +1,257 @@
+---
+id: 8f035e79-5ef7-56c0-8514-abef87484818
+page-type-slug: story-chapter-royal-road
+title: "Chapter 402A - Jennifer's Joy (EXPLICIT CONTENT)"
+slug: 0399-chapter-402a-jennifers-joy-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 399
+ownLength: 3538
+unit: words
+publishedAt: 2017-10-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170686/chapter-402a-jennifers-joy-explicit-content"
+royalRoadId: "170686"
+---
+
+Ren let Jennifer lead him to the bed, and his ability absorbed her anticipation. She turned him around and sat him down on the bed, then slowly started to swing her hips as she unbuttoned her blouse. She could have just stored it into inventory, but Ren could feel that she wanted to put on a bit of a show for him and to build up her own anticipation more, so he sat there and watched.
+
+Jennifer opened her top and Ren saw that she still had the metal covers on the tips of her breasts. She let her blouse slide down her arms and it landed on the floor, then she turned around and undid her pants. They weren't jeans, but they were still pretty tight; so, she had to shimmy a little to pull them down. Ren saw that she hadn't put underwear back on, and still only had that single piece of metal to cover her private place. She bent over in front of him to pull the pants down all the way, and the movement stuck that shiny piece of metal right in his face.
+
+“May I?” Ren asked.
+
+“P-please.” Jennifer said, and he reached out to touch it. He rubbed his fingers across it, and with her bent over like that, he could see that it shifted slightly. Jennifer caught her breath as he moved it around a little, and Ren wondered how it was attached. Since she had given him permission, he traced the edge of the metal with a single fingertip, and caressed her sensitive skin. She moaned as he traced the outline again, and then he tried to dig his fingernail under the edge and pulled slightly.
+
+“Oh!” Jennifer gasped, and a bit of fluid flowed out around the metal.
+
+“Wow, you went just from that?” Ren asked, and he felt her desire spike and how much she wanted him to keep going.
+
+“It... it's because...” Jennifer tried to tell him how the metal was attached, and then he licked the skin around it. “Oh, FUCK!” She yelled as she went again, and a lot more liquid came out. Her legs started to buckle, and Ren caught her hips before she fell. He held her up effortlessly and felt how happy she was; so, he kept licking around the metal.
+
+Jennifer started to hyperventilate. “Ohgodohgodohgod!” She said in a continuous stream as Ren kept licking her around the metal. He worked his tongue in on the bottom edge, which was actually her front, and licked the top of her little nub. “Ren! God!” She said and went again.
+
+Ren felt her trying to struggle and hold onto something, so he lifted her a little bit and laid back onto the bed. This position had her sitting on his face, and her legs were straight out.
+
+“Let... god, let me... get my knees...mmm... under.... under me.” Jennifer managed to get out.
+
+Ren lifted her up and she folded her legs back so she could kneel on them, and he put her back down and kept licking her.
+
+“Why... why are you... OH!” Jennifer went again when he managed to get his tongue under the edge of the metal again. “Every... every man says that... it's a sh-sh-SHAME!” She yelled as she went again. “It's a shame to... to cover myself up...”
+
+Ren stopped licking her so he could speak. “I feel sorry for them.” He said and gave the inside of her thigh a kiss. “It's like a hunt for buried treasure.” He said and kissed her other thigh. “It makes me wonder what secrets it's hiding.”
+
+“You've already seen me naked.” Jennifer said as she bent over to give Ren easier access. “A couple of times.”
+
+“Yeah, so?” Ren kissed her pelvic bone, then started licking her again.
+
+“Why do y-y-you...” Jennifer's voice wavered as he managed to get his tongue under the metal and licked her nub again. “...want... want... Oh, GOD!”
+
+Ren had gotten his tongue in far enough that he could feel something, and traced it with his tongue. He closed his eyes and traced it again, then pulled his tongue out from under the metal.
+
+“AHH!” Jennifer hollered and his face was covered in warm liquid. He waited until she stopped quivering before he spoke.
+
+“I figured it out.” Ren said and licked between her legs and around the metal piece to clean up the fluid. Jennifer started to rub his very hard erection through his armor bodysuit. “You've got a piercing.” He said. “No, wait! Two piercings!”
+
+“That... that's right.” Jennifer said. “One... one on the... the top, and one... one below.” She moaned as Ren cleaned her off. She tugged on his armor bodysuit so he would store it, then nearly shouted. “Holy fuck!”
+
+“How do I get this metal off?” Ren asked, and then Jennifer grabbed his shaft and licked it from the tip to the bottom.
+
+“Can't.” Jennifer said and slipped him into her mouth. Ren spread her legs as far as they would go and she didn't protest, and he put his eye as close in as he could. He shifted the metal aside the small bit it could, then tried to lift it slightly. Her whole body twitched and more liquid came out, and he caught a glimpse of it.
+
+“There's no clasp or anything?” Ren asked, and she stopped sucking on him.
+
+“It has to be equipped.” Jennifer said.
+
+“Then store it please.” Ren said, and she went back to sucking him off. “Jennifer, store it.”
+
+She kept sucking on him and ignored him, and Ren felt that she was going to keep doing what she wanted. He lifted his hand an inch from the cheek of her ass, then quickly brought it down and slapped her.
+
+“MmmMM!” Jennifer mumbled.
+
+The sound of the slap was loud in the small room and her skin turned a bright red right away.
+
+“Store it!” Ren said.
+
+“Mu mu.” Jennifer mumbled and kept sucking. Ren slapped her other cheek and she screamed around him and went again. A lot of warm fluid came out of her, and both of her cheeks were now bright red. She still didn't store it, and Ren sighed.
+
+“I'm not going to give you what you really want unless you store it.”
+
+“Muh.” Jennifer moaned, and then the metal disappeared.
+
+“Thank you, Mistress.” Ren said, and Jennifer froze when he dove into her with his lips and tongue. He dominated her in this one respect, and she couldn't do anything as he worked her over better than anyone she'd ever been with before. She finished again, and this time there was no metal stopper. The fluid gushed out in a stream and soaked Ren's face, the bed, and some of his hair.
+
+Ren didn't stop, though. He felt her disbelief that he would keep going after she had sprayed herself all over his head. He added a finger, then two, and continued to work on her. Jennifer had become accustomed to the feeling of his tongue inside of her, and started to move her mouth on his member again. He felt her determination to get him off before he got her off again, and he wasn't going to let that happen. Ren took as much of her flesh as he could into his mouth, and then bit down gently. Jennifer pulled him out of her mouth and screamed.
+
+“OH FUUUUCK!” Jennifer had an orgasm so hard that even Ren couldn't contain it all. He had to open his mouth before he choked on it, and it gushed out the sides of his mouth. “You... you fucker!” Jennifer said and grabbed onto his member with both hands, then pumped him up and down as hard as she could. “Cum for me! Give it to me, you fucking bastard! I wanna see you cum! CUM FOR ME!!!”
+
+Even with his self control, Ren couldn't deny the direct stimulation and let her have her way.
+
+“You better open wide, because even your big fucking mouth can't take what I'm gonna give you!” Ren said, and he felt how much she liked him cursing at her.
+
+Jennifer felt his member throb, and she covered the tip of it with her mouth as she waited expectantly for it.
+
+“Get ready to swallow it all, you bitch!” Ren said, and felt a burst of pleasure from her. “AHHHHH!”
+
+He went, and Jennifer's eyes widened as it wasn't a little spurt like she'd had from other men. It filled her mouth almost instantly and she tried to swallow it. The sheer amount was too much even for her experienced throat and she stopped jerking on him as she slid her mouth off the tip. Another spurt came out and splashed her face and she gasped, then another and another.
+
+“Are you a cum fountain or something?” Jennifer asked and rubbed a hand over her face. It was covered in his expulsions, and he was still shooting out a little bit. She licked her hand, then licked his member. He shot another spurt at her, and she laughed. “I'm going to call you 'Old Face-full'.”
+
+Ren laughed. “I warned you.”
+
+“I'm not even gonna ask how you can do that.”
+
+“I am.” Ren said and sat up. “How can you spray so much?” He asked. “I've seen a couple of sprays, and quite a bit of liquid before; but, I've never seen anything like what you do.”
+
+“I didn't know I could.” Jennifer said. “You made me cum so hard!”
+
+“Does this mean the dance is over?” Ren asked.
+
+“Fuck, no!” Jennifer said. “You said you'd give me what I wanted if I stored my pussy block.”
+
+“Your what?” Ren asked, just because he wanted to hear her say it again.
+
+“It's my pussy block.” Jennifer said. “Guys grab and feel me up when I'm working, so this stops them from getting to the good stuff until they pay.”
+
+“That's... actually very smart.” Ren said when he thought about it. “You can let them grope you, and they won't get anything until you let them.”
+
+Jennifer's face flushed red at Ren's compliment. “You know, I really like that even though we just did what we just did, you're still admiring my brains.”
+
+Ren tilted his head to the side and stuck his tongue out a little, then lifted his arms like Frankenstein's monster. “Brains! Braaaiinnnsss!”
+
+“Oh, no!” Jennifer said and rolled off of the bed. “A zombie!”
+
+Ren followed her and shuffled around the room.
+
+Jennifer fake screamed and collapsed onto the bed. “I fell! No! Don't eat me!”
+
+Ren shuffled over and knelt by her crotch. “Brains?”
+
+“Well, I guess you can eat me.” Jennifer said and spread her legs for him. “But just a little.”
+
+“Mmmm... brains.” Ren said and dove between her legs. He could feel how much she enjoyed it, and he absorbed the feelings she offered him. He wrapped his arms around her thighs and just kept eating her. After she had finished twice more, he could feel a shift in her emotions. Without a word, he stood up and climbed over her, then laid down on the middle of the bed. Jennifer rolled over to look at him, and he had his arms and legs spread out like a star.
+
+Ren felt her joy as she hooked his right leg to the post with a shackle, then his left leg. Jennifer climbed over the bed and put his left wrist into the shackle, then his right wrist.
+
+“Oh, Ren.” Jennifer said and reached for a 6 inch thick piece of leather. It almost looked like a wooden paddle, but it was made of leather. “You're still so hard for me, even after all of that playing.” She said and used a hand to stroke his member.
+
+“It's what you want.” Ren said and made it throb for her. She gently stroked it from the tip and down the shaft. “Please, be gentle.”
+
+Jennifer grinned at him and brought the leather strap down onto his chest. The sound of leather on skin was loud and Ren pretended to flinch. It sent a shiver of pleasure through her, and Ren could tell it was a completely different type of pleasure.
+
+“You can't cum until I tell you that you can.” Jennifer said and slapped his chest with the thick leather strap.
+
+“Y-Yes, M-mistress.” Ren said in a scared voice, and Jennifer caught her breath. She closed her eyes and slapped his chest again with the leather. He could feel how much she liked it and spoke again. “I-I-I'll be good, M-mistress.”
+
+“Yes, you will be.” Jennifer said and straddled his waist. She rubbed his still hard member with her private part, and she moaned and brought the strap down again and again. Ren gave her pitying moans and light sobs, and he begged her over and over to let him finish.
+
+“OH FUCK!” Jennifer yelled as she froze still and finished. Another large spray came out and covered his chest and his thighs.
+
+Where is she getting it all? Ren asked himself. We haven't even had intercourse yet!
+
+Jennifer sat on his member and stared at the huge mess she had made. “I've... good god, that...”
+
+“Th-thank you, M-mistress.” Ren squeaked. “Can... can I have another?”
+
+“Fuck, yes!” Jennifer said and brought the strap down on his chest again and again. Ren fake flinched each time and Jennifer finished again. She leaned over and braced her arms on his shoulders to stop herself from collapsing. She had been breathing heavy for a while now, and Ren wasn't sure if she could keep going.
+
+“Do you need a rest?” Ren asked, and she looked at him.
+
+“I... I think... no, I can keep going.”
+
+“Would you like an Energize spell to refill your Stamina?”
+
+“How? Your hands are tied.” Jennifer said.
+
+“I don't need my hands.” Ren said and used the wand around his neck. Jennifer's Stamina bar refilled and she stared at Ren. “How many times have you used it on yourself?”
+
+“Um... 2, I think.” Ren said. “Yes, 2. I only used it after my Controlled Berserk Rage so I wouldn't pass out.”
+
+“Your controlled what?”
+
+“The first was after a battle, and the second I scared the crap out of a bunch of Dark Elves.” Ren smiled. “I sure surprised them, let me tell you.”
+
+Jennifer blinked her eyes at him. “I... I meant tonight.”
+
+“Oh.” Ren said. “I haven't used it.”
+
+“But...”
+
+“You're the one doing all the work.” Ren said and smiled. “I'm just laying here and relaxing.”
+
+Jennifer brought the leather strap down onto his thigh. “No relaxing! You're my toy until I have to go to work!”
+
+There was a discreet knock on the door.
+
+“WHAT?!?” Jennifer hollered.
+
+“We open in 5 minutes and you need to get ready.” Gina, the Manager said.
+
+“FUCK!” Jennifer yelled.
+
+“Tell Sugar to cover your tables for you.” Ren suggested.
+
+“Get Sugar to cover for me!” Jennifer said.
+
+“For how long?” Gina asked.
+
+“An hour.” Ren said. “Then I have to go.”
+
+“An hour!” Jennifer said, and then what Ren said hit her. “Did you... you said an hour, right?”
+
+“I know that's cutting it short; but, I do have to get home and see my maids.” Ren said. “I've been away for a few days and I miss them.”
+
+“We're cutting it short.” Jennifer said, and Ren could feel her shock.
+
+“I'm sorry, I have to.” Ren said. “You better hurry, though. The time is going to go by fast.”
+
+Jennifer still sat on the front of his member, and her private part twitched. Ren was still rock hard, and she got up onto her knees. She used a hand to put his member in the right position, then rubbed it across her nub. She closed her eyes and went a little, and Ren figured she just needed a little bit of lubrication.
+
+Jennifer rocked her hips forward a little and looked down at herself. She eased herself down onto him, and her body gripped him tightly after the tip went in. She stopped moving and let her body try to adjust to him, and Ren pulled on his arms and broke both posts that the shackles were attached to, grabbed her hips and shoved her down onto himself.
+
+“FUCK!” Jennifer yelled and finished. She gushed out onto his abdomen, and she dropped the leather strap to try and pull Ren's hands off of her. “Wait... you... you broke my shackles!”
+
+“Fuck the shackles!” Ren said and picked her up and shoved her back down again. He felt her bursts of pleasure, but he didn't know if it was the physical stimulation or the mental one with him cursing. “If you're not going to hurry up and fuck me, then I'm going to fuck you!”
+
+Jennifer froze solid at his tone and his words, and Ren felt a wave of anticipation from her.
+
+“That's right!” Ren said and rolled her over and got on top. “You're such a bitch! Strutting across the stage and teasing all those men!” He said and pulled almost all the way out. “Fulfilling all their fantasies and never getting anything for yourself!” He jammed himself into her, and she gasped as he reached all the way inside. “You do so much for them and don't take anything except money!”
+
+Jennifer gasped again when he pulled almost all the way back out.
+
+“Well, I'm not gonna stand for it! I'm gonna fuck you so hard that you'll have no choice but to enjoy it!” Ren said and jammed himself back into her. Jennifer's body started to respond, and then she wrapped her arms around him.
+
+“R-R-Ren!” Jennifer gasped as he started to pound her over and over again.
+
+“Take it!” Ren said. “Open up and take the pleasure you fucking deserve!”
+
+“I AM!” Jennifer yelled, and Ren felt her emotions open up. All of her sexual frustrations, her anxiety over having a weird fetish that people didn't understand, and her worry that she wasn't good enough for someone to love; it all came out for him. Ren's ability took everything she gave him and absorbed it. Her enjoyment and pleasure he left alone, though. It welled up inside of her, and he could feel her getting close.
+
+“Ren! I'm gonna... oh, FUCK!” Jennifer yelled and had an orgasm. She dug her fingernails into his back and he didn't feel it at all. He only concentrated on making her feel good, and his Improved Toughness wouldn't let her nails penetrate his skin. He kept having sex with her, and she went two more times.
+
+“P-p-please... Ren... give... give it to me!” Jennifer said. “Oh, god... please...”
+
+“You asked for this, YOU BITCH!” Ren yelled in her face, and she kissed him hard. He had been building it up for a while, and when he felt her insides tense up, he let himself go and finished. Jennifer screamed into his mouth as he filled her up; then she went, and went, and went again. Her legs had clamped around him and wouldn't let him go as he poured himself into her.
+
+Jennifer convulsed several times after that from the overload of pleasure, and then the moment passed. She let her grip on his back go and pulled her hands up to cup the sides of his face. She unwrapped her legs from around him and let them fall to the bed as she broke the kiss.
+
+“Who... who are you?” Jennifer asked.
+
+“Prince Charming for a day, at your service.” Ren said, and then chuckled. “Well, was at your service.”
+
+Jennifer smiled, and gave him a nice soft kiss. “Thank you, Prince Charming.” She said and moved her hands down and along his neck. She rubbed his chest where she had hit him so many times that it had tired her out, and there wasn't a mark on him at all. “You're amazing.”
+
+“You're just saying that because you saw me naked.” Ren said, and she laughed.
+
+“Yes, I am.” Jennifer said.
+
+“Ren, there's about 10 minutes left to the hour.” Teepo said.
+
+Thanks, Teepo. Ren thought. “We better get changed and clean up.”
+
+Jennifer nodded and got up off the bed. Ren did as well, and they looked at it.
+
+“Oh, wow.” Jennifer said. The entire bed was soaked from the headboard to the foot of it. “That's quite the mess we made.”
+
+“Allow me.” Ren said and stored the bed and put it back. It was all clean, but the posts were still damaged. “I'll fix these, too.” He said and held out his hands. Jennifer undid the simple lock and he took the chains to the top of the bed. He replaced the posts and attached the shackles in the same place they were before, then equipped his red suit. He walked over to Jennifer and offered her an elbow.
+
+“Ma'am, may I escort you to work?”
+
+“Please do, kind sir.” Jennifer equipped the metal piece to cover her private area, and then equipped one of the classy business suit and skirt outfits. She took his arm and they left Jennifer's work room.

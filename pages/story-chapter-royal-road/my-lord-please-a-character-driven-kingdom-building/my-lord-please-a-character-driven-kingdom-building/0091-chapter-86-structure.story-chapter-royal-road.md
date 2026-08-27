@@ -1,0 +1,247 @@
+---
+id: 4ac0c345-56e1-51e7-a39d-3a08318c2eaf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86 Structure"
+slug: 0091-chapter-86-structure
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 91
+ownLength: 2482
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3595507/chapter-86-structure"
+royalRoadId: "3595507"
+---
+
+Lucien had barely slept after his discussion with Talia the previous night. Thoughts of how unreliable his memories truly were, along with the existence of the Goddess's blessings, lingered in his mind long after she had left.
+
+Judging from how Talia had looked during breakfast earlier that morning, she had not slept much either.
+
+It was a relief that he had coffee now.
+
+Sunlight spilled across the old ledgers and rough land sketches cluttering his desk, making the disorder seem even worse than usual.
+
+Elias let out a soft cough as he placed another stack of compiled records onto a separate corner, the steward visibly uncomfortable with the disorder before him.
+
+“My Lord, these are the remainder of the older household registries you requested earlier in the spring season.”
+
+The sight of his steward reminded him faintly of the suspicion that had surfaced the night before, that this body might still have living family.
+
+Keeping his expression neutral, Lucien inclined his head as he sorted another pile aside, this one detailing livestock numbers.
+
+“Was there any trouble collecting the information from the villagers?”
+
+Elias shook his head lightly. “There were the usual complaints, but nothing beyond what was expected, My Lord. I accompanied the men at first to ensure the records were taken properly.”
+
+He gave a nod as he regarded the pile of ledgers before him.
+
+When Lucien had first arrived in this world, he had seen how unreliable and disorganized Ashridge’s records were. But he had hesitated to implement changes too quickly, wary of how suspicious his steward might grow at the differences in his behavior.
+
+Yet if his assumptions about his memories could be wrong in the first place, then perhaps it was time to become a little bolder with Ashridge’s administration.
+
+Lucien leaned forward, resting his hands against the edge of the table.
+
+“It is time we begin implementing a proper census record, Elias. One where all records follow the same format.”
+
+He gestured toward the stack of grain ledgers.
+
+“We will begin with household and grain records first. If more people arrive in the coming months, we must know how many additional mouths Ashridge can realistically feed.”
+
+Elias’s gaze shifted toward the two tall stacks gathered across the desk, records compiled over years of Ashridge’s governance before he spoke carefully.
+
+“Our current scribe may not be...suited for the volume of work such changes would require, My Lord.”
+
+Before Lucien could reply, a soft voice spoke from the side of the room.
+
+“U-um, I could help with that, My Lord.”
+
+Both men turned toward Alicia, who had been seated quietly behind another desk with a blank parchment and quill laid before her.
+
+Earlier that morning, when Lucien had asked her to have a desk brought into the study, she had complied with the practiced composure she usually carried herself with.
+
+That composure had quickly faltered when he informed her that it would now be her place within the room while assisting him with administrative work.
+
+He had to admit, it was mildly entertaining seeing the girl who had gradually grown more composed lose her bearings as she sat there looking around while their discussion began.
+
+Lucien gave a nod at her words. “You can assist with the initial work for now. Though I have another task in mind for you, Alicia.”
+
+She clenched her fists lightly in front of her. “What is it, My Lord? I learned my letters well from Master Elias.”
+
+He leaned back in his chair. “Which brings me to the next matter.” His gaze shifted toward the steward. “Elias, how feasible would it be to hire skilled workers such as scribes, blacksmiths, and masons from Helvarn?”
+
+Alicia tilted her head at the abrupt shift in topic, though she remained silent.
+
+Elias lowered his gaze briefly in thought before answering.
+
+“It would be possible, My Lord. Though skilled labor is not easily retained within frontier settlements unless suitable incentives are provided.”
+
+Lucien inclined his head, gesturing toward the maid. “Then we will provide such incentives. That is where your role comes in, Alicia. I need you to draw a map of Ashridge, as accurately as you are able.”
+
+Alicia blinked once before lowering her gaze toward the parchment before her. “A map, My Lord?”
+
+Lucien tapped his fingers lightly against the desk. “Yes. If we wish to attract skilled workers from Helvarn, we must ensure there is proper land prepared for them within the village.”
+
+He gestured toward the window overlooking Ashridge. “For now, begin with the houses and existing buildings. Try to...imagine the layout first and draw it as clearly as you can.”
+
+Alicia followed the direction of his gesture. “But how would that help attract skilled people to Ashridge, My Lord?”
+
+Lucien gestured toward the ledgers spread across the desk. “Before Ashridge expands further, we need to understand how much space we actually possess and how it can be reorganized.”
+
+“For now, assist the scribe with the census records until additional scribes can be hired from Helvarn.”
+
+Elias, who had remained silent until now, finally spoke.
+
+“My Lord...you intend to restructure the village into designated sectors?”
+
+Lucien gave a slow nod, unsurprised that his steward had already grasped the direction of his plans.
+
+“The homes in Ashridge were built far apart because of the Tithe. But if we are to become more than merely a frontier settlement, we cannot afford to waste so much space between buildings.”
+
+He leaned forward, steepling his hands. “Before more refugees arrive, we need to ensure that our household and grain records are properly documented. Once that is complete, we can begin allocating land for the village’s future sectors.”
+
+Alicia’s gaze shifted from the window back toward him. “So that’s why you need a map...”
+
+Lucien met her eyes as he replied. “The first draft will likely remain simple. But as we continue recording more information, the map itself will naturally grow more complex.”
+
+His gaze flicked briefly toward the parchment before her. “You will likely require more than one parchment once the different sectors are properly outlined.”
+
+Elias let out a soft cough before speaking carefully.
+
+“My Lord...would it not be more prudent to hire a proper cartographer rather than entrusting such an important responsibility to a maid who merely happens to draw well?”
+
+Alicia’s shoulders lowered, though she remained silent.
+
+He showed no outward reaction as he replied. “A proper cartographer would certainly be valuable eventually. But for now, begin with what I requested, Alicia.”
+
+She perked up at his words. “What details should I include besides the buildings, My Lord?”
+
+Lucien cupped his chin as he considered it.
+
+“Focus first on the spacing between the buildings. Then include the roads, along with which homes belong to which families where possible. Use the palisade walls as the boundary of the map for now.”
+
+Elias quietly watched as Alicia gave a firm nod before lowering her head and immediately beginning her work.
+
+Lucien turned his attention back toward the steward.
+
+“Have the scribe focus on the household census first. The grain ledgers remain acceptable for now, but they will need improvement. Particularly in how spoilage and reserve quantities are being tracked."
+
+Elias inclined his head slightly. “What changes did you wish made to the household census, My Lord?”
+
+He leaned forward, resting a hand against his chin. “The old census already records the number of households. We can expand on that to include details such as household size and available labor.”
+
+Lucien exhaled lightly through his nose before continuing. “If additional people arrive in the coming months, we can't afford to waste time determining which households are capable of taking in extra hands.”
+
+Elias inclined his head. “Should we include those who are not part of the labor force as well, My Lord?”
+
+He fell silent briefly in thought. “Include them. But pay particular attention to households with widows or no available labor at all.”
+
+The steward was quiet for a moment before asking, “Would those households require separate allocation records?”
+
+Lucien gave a slow nod. “The men who died during previous Tithes would have left families behind. Ashridge cannot afford to neglect them now that spring has come.”
+
+Alicia’s quill stilled for a brief moment before the soft scratching resumed once more.
+
+“Right now, the widows and their children are being cared for by those close to the men who died.” Lucien’s gaze lifted toward the steward. “But once the population increases, we cannot expect that arrangement to last forever.”
+
+The issue had been on his mind ever since Dalen’s death. That concern had only deepened when he saw Dalen’s daughters quietly trailing behind Tomas after returning from Helvarn.
+
+Elias folded his hands behind his back. “A prudent decision, My Lord. If the villagers know their families will be cared for, they would likely be more willing to serve within the militia...perhaps even the guard.”
+
+Lucien's gaze shifted briefly toward the ledgers spread across the desk. “It would also allow us to better assess future labor capacity once construction begins on the craftsmen’s quarters.”
+
+The faint scratching of quill against parchment lingered in the background as Lucien gave a small nod.
+
+“Remember to involve Joren and Harlon once discussions regarding recruitment begin. In fact, before we proceed, have them prepare a list of what additional hands and materials they would require.”
+
+Elias paused briefly at that. “Is it necessary for the craftsmen themselves to be involved in such matters, My Lord?”
+
+Lucien’s fingers tapped lightly once against his chin. “Yes. We are not seeking masters of their trade, Elias.”
+
+“They would not be willing to leave Helvarn even if we approached them. Besides, our own craftsmen should be rewarded for supporting Ashridge all these years.”
+
+His gaze lowered briefly toward the documents spread across the desk. “If our estimates regarding the incoming refugees prove accurate, the number of newcomers may soon rival the villagers already living here.”
+
+Elias immediately grasped the implication. “That would lead to increased resentment if left unattended. So we ensure the locals are properly situated before the newcomers arrive.”
+
+Alicia’s quill continued moving across the parchment without interruption, though it paused briefly at the steward’s words.
+
+Lucien gestured lightly toward the map before her. “That is why the map will become important. There will inevitably be people seeking the more desirable parts of the village first. We should establish those boundaries before they arrive.”
+
+He glanced at the window. “It would also make it easier for Harlon to determine where future structures should be built during the planning stages.”
+
+Elias inclined his head slightly. “Then Master Harlon will effectively oversee construction moving forward. Most of the village’s expansion efforts have already been directed by him thus far.”
+
+Lucien leaned back in his chair. “The masons we recruit will report to him as well. He may not possess their experience with stonework, but much of Ashridge was still built under his supervision.”
+
+“We should be ready to begin extracting stone from the ridge outpost soon as well.”
+
+The steward picked up a blank sheet of parchment and began making note of it. “And Master Joren, My Lord?”
+
+Lucien exhaled faintly, shaking his head once. “When you speak to him, he will likely have very...specific expectations regarding the journeymen.” A dry note entered his tone. “Try to accommodate them where possible.”
+
+A restrained cough left Elias's mouth at that even as he wrote Lucien's instructions down.
+
+“Aside from that, Joren will likely oversee the expansion of the forge operations themselves. We will need additional forges eventually.” Lucien continued, his eyes resting briefly on the stack of drawings Alicia had made from his descriptions.
+
+“Once he has streamlined the crossbow production, I will have other work for him as well.”
+
+Elias followed the direction of his gaze and understood immediately. “I will ensure he is informed, My Lord.”
+
+As the meeting gradually drew to a close, the scratching of Alicia’s quill was interrupted by a knock at the study door.
+
+Elias cast a brief glance toward Lucien before moving to open it after receiving a slight nod.
+
+Dorian stood outside with a hard expression upon his face.
+
+“My Lord. There has been an incident at the western fields.”
+
+Lucien stilled briefly before rising from his chair, clasping his cloak and putting on his gloves.
+
+“Elias, ensure Harlon and Joren are kept informed of what we discussed.”
+
+The steward inclined his head. “Yes, My Lord. I will sort the ledgers and pass the revised instructions along to the scribe.”
+
+Lucien returned the gesture before walking toward the door.
+
+Alicia looked up from the parchment, concern flickering briefly across her expression.
+
+“Alicia, continue with the map. I will review it later.”
+
+Her brow creased faintly before she gave a firm nod, already lowering her head.
+
+As Lucien passed by, his eyes briefly swept across the parchment, catching sight of familiar symbols marked beside several homes.
+
+'Once again, she’s going beyond what I actually instructed her to do.'
+
+Setting the thought aside for now, Lucien stepped from the study with Dorian falling into step behind him.
+
+As Lord Lucien departed the study, Elias immediately began organizing the ledgers and loose papers spread across the desk.
+
+The sound of Alicia’s quill had not ceased since the meeting began, lingering quietly in the background as he sorted through which reports would be required for the revised census records.
+
+Once again, the young lord continued to prove himself unexpectedly prudent with his decisions. Though today’s meeting had been more...surprising than usual.
+
+Most nobles did not concern themselves with what their subjects thought. Especially those tasked with administering little more than a frontier settlement rather than lands tied directly to their family’s influence.
+
+Had Lord Lucien always possessed this capability, with life in the capital merely obscuring it?
+
+House Varentis had never governed territory directly before, nor had the young lord been assigned the sort of tutors one would expect for someone capable of this level of administrative planning.
+
+Perhaps those back in the capital would think differently of the young lord now if they could see this side of him.
+
+Elias gathered the ledgers in his arms, intending to pass them along to the scribe for the revised census before leaving the study.
+
+His steps slowed when he glanced toward the quiet maid still working at the desk.
+
+Already, the outline of Ashridge had begun taking shape across the parchment in clean charcoal lines. Each building bore a familiar symbol beside it.
+
+Elias’s gaze lingered briefly.
+
+If he recalled correctly, those were the same markings marked beside the names on the militia ranking board.
+
+There were one hundred and twenty-eight households within Ashridge.
+
+Alicia had marked every home that housed a militia member.
+
+A moment later, Elias straightened, his composure settling back into place before he left the study.
+
+It seemed his lord was not the only unusual presence within Ashridge.

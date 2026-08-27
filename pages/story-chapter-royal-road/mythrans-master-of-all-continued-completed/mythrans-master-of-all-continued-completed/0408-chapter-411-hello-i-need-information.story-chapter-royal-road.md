@@ -1,0 +1,279 @@
+---
+id: 12a86daf-9899-5ede-996e-d088442889b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 411 - Hello? I Need Information"
+slug: 0408-chapter-411-hello-i-need-information
+partOf: mythrans-master-of-all-continued-completed
+position: 408
+ownLength: 3402
+unit: words
+publishedAt: 2017-11-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172010/chapter-411-hello-i-need-information"
+royalRoadId: "172010"
+---
+
+“That... was... amazing.” Stella said as she watched Ren crawl up the tunnel. “How the hell did he do all of that?”
+
+“Run the footage back to the popups.” Elise said. During important events, the game footage automatically slowed down so they could watch it unfold; and even then it was almost too fast to see. “Pause it.” Lisa said and read that Ren had gained the Spell Caster ability. “How is that possible?”
+
+“I... don't know.” Elise said. “His class is only supposed to make wands and use spells he learns that way, not cast them himself.”
+
+“Is it because of where he is?” Stella asked. “Or is it because he shouldn't be there?”
+
+Elise sighed. “I guess I have no choice.”
+
+“About what?”
+
+“Calling in the big guns.” Elise said and used her cell phone to call her boss, Edward Torren. He was the CEO of Sid Tec and had specifically designed Ren's character. If anyone would know what was going on, it would be him.
+
+*
+
+Ren climbed for another 3 hours, and occasionally stopped to check the All-Seeing Mirror. He was making good progress and had travelled up the smooth tunnel a very long way. He only had 5 more miles to go to reach the surface, and hadn't encountered anything inside the perfect tunnel since he had entered it after the lair of the abyssal terrors. As soon as Ren started to think that he was going to get out of the caverns without having to meet anything else, Teepo told him that something was above them.
+
+“I can't tell what it is; but, something is moving around up there.” Teepo said.
+
+I'm tempted to send you out to scout; but, we both know being separated is not a good idea right now. Ren thought.
+
+“It's never a good idea.” Teepo said. “Can you use the Staff of Earth?”
+
+Ren shook his head. Not without seeing the ground that I need to move.
+
+“Just lift the tunnel.” Teepo suggested.
+
+From where? Ren thought. We could be in a kind of smoke stack, or in the middle of an island and an underground lake might flood us, or the tunnel might collapse if I shift the dirt away from the sides.
+
+“Aren't you worrying about things too much?” Teepo asked.
+
+I'd rather worry and not die. Ren thought. I don't know where I'll end up if I do. He sighed. My spawn point is inside my Instant Tower, which is sitting in my inventory.
+
+“Well, then... keep worrying.” Teepo said. “The last thing I would ever want you to do is die.”
+
+Ren nodded and slowly crept up the tunnel to the opening. Teepo did a little hop and looked around, then landed on Ren's shoulder.
+
+“It's a big room, and there's two women tied up.” Teepo said. “I'm not sure how either the room or the women could be there, though.”
+
+Ren poked his head up just enough to see with his own eyes through his helm, and it was a room filled with items. Cabinets, dressers, beds, paintings, statues, and several dozen storage chests could be seen, and they were all of various quality. He also saw two red-headed women as they sat demurely in two fancy chairs, with their wrists tied behind the chair backs. He climbed up a little further, and one of the women saw him.
+
+“Oh, help!” She said and pretended to struggle with her ropes that his Knot Tying skill told him were only slip knots. “Please! I've been captured!”
+
+“Me, too!” The other woman said and did the same thing. Ren knew that they could both just stand up and wouldn't be tied anymore. They were also well within Ren's Aura, and his Emotion Siphon ability let him know that they were lying. Instead of feeling relief like rescued people would normally feel when they saw someone to rescue them, what they actually felt was pleasure that they had caught another Adventurer, and mischievousness because they were trying to trick him. Ren looked around at the floor, and saw it was wood planks over the smooth dirt.
+
+Something is weird. Ren thought. Teepo? Touch that wood and tell me if it's real.
+
+Teepo crawled down Ren's arm and touched it with a front leg. “It's just dirt.”
+
+Someone went to a lot of trouble to make Silent Images of a room and a bunch of stuff. Ren thought. Do you think it's a test?
+
+“If it is, it's a pretty poor one.” Teepo said. “If you had set this up, you would have made the chairs collapsible and the ropes real.”
+
+I was just thinking the same thing. Ren thought.
+
+“Wh-what's wrong? Why do you hesitate?” One of the women asked.
+
+“Please, great Adventurer! Rescue us!” The other one said.
+
+Ren chuckled, and the two women stared at him in surprise.
+
+“We're trapped.” The first one said. “Why do you laugh?”
+
+“Because I'm not stupid.” Ren said, and he felt their emotions shift from anticipation of a good catch, to anger that their catch was not willing to be caught.
+
+“Then our little deception didn't work.” The first said and stood up. The ropes that held her fell away, and the other one gasped.
+
+“Seldanna, no!”
+
+“It's all right, Wynphine.” Seldanna said. “He was not fooled.”
+
+“But...”
+
+“I wasn't.” Ren said. “This was all a bit too contrived.”
+
+“What gave us away?” Seldanna asked.
+
+“Can you tell if I lie?” Ren asked.
+
+“Yes.”
+
+“It was the ropes that gave me the biggest clue.” Ren said. “Plus, you being right here at the tunnel exit.”
+
+Seldanna sighed. “I knew we should have set up further down the cavern.”
+
+“I could give you pointers on how to make it more believable; but that's not what you want, is it?” Ren asked.
+
+“No.” Seldanna said. Her clothing melted away to leave a small black bra and black thong bikini underwear. Large red bat-like wings unfurled from her back, and her skin changed from a normal skin tone to a deep red. Her physical looks remained the same for the most part, with her long flowing red hair, but her hands and fingers had extended slightly and grew long fingernails. Her feet did the same thing and ended with long toenails. Both sets of nails looked as sharp as razors, and a long tail swished behind her.
+
+“She's a succubus.” Teepo said, surprised.
+
+Ren felt Seldanna's feelings turn from disappointment to ferocity, and he activated his Fear Aura and one of the Ultimate Terror enchantments to funnel through it. The one that hadn't revealed herself moaned and writhed on her chair, and her hands pulled free from her temporary bindings.
+
+“So, you have talent.” Seldanna said and took a step forward. “You will be a delicious meal.” She said and smiled, and her teeth extended into points and twice their normal length.
+
+Ren concentrated on his Command Aura as well as his boosted Fear Aura. “STOP.”
+
+Both women froze at his command voice, and they stared at him.
+
+“H-how?” Seldanna asked.
+
+Ren climbed out of the hole and walked over to them. Both women's mouths dropped open in surprise to see that he was only 4 feet 10 inches tall in a full set of armor. When he was close enough, the one that still sat in the chair started to cry openly.
+
+“P-please... don't... don't kill us...” The seated woman, Wynphine pleaded.
+
+“You were going to kill me.” Ren said, and the two women didn't say anything. “Respond!” He ordered them.
+
+“Y-yes.” Seldanna said. “R-right after we drained you of sexual energy.”
+
+“So, what should I do with you?” Ren asked them.
+
+“L-let us g-g-go.” Wynphine said.
+
+“Okay.” Ren said, and the two women gasped. They knew he was telling the truth.
+
+“You... you'll really let us go.” Seldanna said.
+
+“Sure.” Ren said. “Even if I wasn't wearing my armor, you couldn't touch me.”
+
+“I... I know that now.” Seldanna said. “When you entered my Aura, I... I could feel you.”
+
+“Me, too.” Wynphine said.
+
+Now that they weren't trying to hide their feelings, Ren could tell how hungry they were. It triggered his Emotion Siphon ability, mainly because it really bothered him that people with similar abilities always used them for their own reasons and never to help.
+
+“All right, who wants to feed first?” Ren asked and felt shock go through them.
+
+“Wh-what?”
+
+“I'll do Wynphine first, since she's so much hungrier than you.” Ren said to Seldanna and held a hand out to Wynphine. “I won't have sex with you, but I will share memories and feelings. Is that okay?”
+
+“Are you for real?” Seldanna asked, but Wynphine didn't have any reservations at all. She stood up from sitting in the chair and reached out a hand to him.
+
+“Transform first.” Ren said and pulled his hand back. “This illusion isn't you.”
+
+“Oh?” Wynphine said. “Are you so sure of that?”
+
+“I can feel how much you hate hiding.” Ren said. “I can order you, if you want.”
+
+Wynphine shook her head. “I don't like being ordered.”
+
+“Then please... make yourself pretty... just like your sister.” Ren said, and he felt the two women's shock again. Wynphine transformed just like Seldanna did, and when she was done, she was almost an identical version. She was slightly younger, and her mass of flowing red hair wasn't as fluffy.
+
+“How do you like me now?” Wynphine asked.
+
+“I'd like to say you look more appealing, but your bra is fraying along the edges.” Ren said. “May I repair it for you?”
+
+Wynphine blinked her eyes at him, surprised that he wanted her naked so soon, then shrugged and slipped her top off. It revealed very dark red tips, as Ren had expected, so the two women didn't get the sudden spike of desire that they had expected.
+
+“Who are you?” Seldanna asked.
+
+Ren used his Master Tailor Sewing Needle to repair the bra. “I'm an Adventurer.” He said and handed the bra back to Wynphine. “Do you need direct skin contact, or can you take it through your Aura?”
+
+“I... I can do the Aura, but...” Wynphine put her bra back on, and he could feel how much she didn't like using her Aura.
+
+“I like hugs.” Ren said. “Can I give you one?”
+
+Wynphine looked at Seldanna, and her sister shrugged. “If you take off the armor.”
+
+Ren chuckled. “Right. It's hard to have skin contact if I'm covered in metal.” He said and stored his armor, then stepped close and gave Wynphine a hug. When his face nestled between her breasts and he looked up at her, something clicked inside of her.
+
+Wynphine didn't know if it was his innocent expression, his take charge but respectful attitude, or just a fetish she never knew she had. Whatever it was, she knew that this Adventurer was someone that she would consider giving up her wicked ways for. She never would, because that was against everything she believed in; but, since he gave her doubt about it after all these years, it definitely made him something special.
+
+Ren felt the shift in her emotions, and grinned at her. “Prepare yourself.”
+
+Wynphine readied her ability for a nice little treat, and assumed that when she had him feeling good, she could take as much as she wanted when his guard was down.
+
+Ren thought about the last time he had sex, which was with Jennifer in the Pleasure Palace, and he gathered up everything he had felt from her. With such a large reservoir to use, Ren started to pour the feelings into Wynphine. Her entire body tensed up as feelings of desire and sexual satisfaction flooded into her. She didn't know what to do with so much to feed from and she started to shake as her ability choked on the sheer amount.
+
+“I'm sorry.” Ren felt her struggling and he eased the flow. “I'll slow down.”
+
+Wynphine took several deep breaths as the flood trickled down to a steady river, and her ability adjusted to the new stream of feelings. Seldanna stood there and felt as all those precious feelings were given to her younger sister instead of her. She made a fist and hauled back, then tried to punch Ren in the back of the head.
+
+Teepo had kept Ren updated with everything going on, and Ren turned Wynphine to the side so that she wouldn't get hit if her sister's attack missed. Seldanna's fist connected with the side of his head instead of the back, and Ren heard several of her fingers break. The succubus screamed in pain as she fell to her knees.
+
+“Is that enough, Wynphine?” Ren asked, and completely ignored the attack.
+
+Wynphine nodded, too surprised at the tremendous meal Ren had given her without even trying to have sex with her, and she stared at her sister. Ren let her go and knelt in front of Seldanna.
+
+“You didn't have to be jealous.” Ren said. “Can you use the energy to heal?”
+
+Seldanna nodded, and Ren cupped the sides of her face and laid his forehead against hers. He poured more of the feelings Jennifer had shared with him into her, and she gasped as she had a hard time parsing out what she needed over what she wanted.
+
+“Don't try to pick it apart.” Ren said. “Do you want just satisfaction?”
+
+“N-no... I want... d-desire...”
+
+Ren nodded and gave her the desire he felt from Jennifer when she played with him without restriction or having to be careful. Seldanna moaned as Ren poured it into her. It healed her hand, and she reached up and held Ren's face in the same manner as he held hers. He could feel that her ability was the same as her sisters; but, it needed what she personally needed, and not necessarily everything that the ability itself could take.
+
+“Is that enough, Seldanna?” Ren asked.
+
+“N-no.” Seldanna said. “I want more.”
+
+“I guess it's pointless to tell you not to be greedy.” Ren said.
+
+“Seldanna, let him go.” Wynphine said. “He's given us more than we could have forcefully taken from him, even upon death.”
+
+“No! I want it all!” Seldana exclaimed, and Ren felt how much she desired it.
+
+“Okay.” Ren said. “Open wide.”
+
+“NO!” Wynphine said and grabbed Ren's head to pull him away from her sister. Ren opened up the reservoir of sexual desire he had made from Jennifer's feelings.
+
+“AAGGGHHHH!” Both women screamed as their abilities were jammed full, overloaded, and shut down. Their hands fell away from him and they collapsed to the floor, unconscious.
+
+“You should have stopped while you were ahead.” Ren said and stood up. He used enchanted eyes to look around the 'room', and saw several similar-shaped stones that glowed. Rather than dispelling the Silent Image spells, he took out his hammerpick and smashed the rocks instead. He wasn't sure if they had the spell themselves or had the rocks made, so breaking them was the best course.
+
+When he was done, everything had disappeared except for a normal wooden chest. It didn't glow at all, and he used both Detect Magic and Detect Traps on it. Nothing showed up, so he opened it. Inside the chest was several sets of very badly worn bras and bikini bottoms, and a month's worth of dry rations. There were no gold coins, special items, or even anything worth stealing. There was no treasure at all.
+
+They're really bad off, aren't they? Ren thought, repaired the cloth items, and made them a dozen more of different kinds. He made a few pairs of boots, and then looked at their bodies. Ha. That's why they only wear bras and bikinis! Their wings and tails stop them from wearing anything else.
+
+Ren made a special set of pants with a spot for the tail to fit, then a nice fancy blouse and tunic with wing holes. He knew they wouldn't have any way to know how to put them on, so he took out 2 Strong Rings of Storage that had 50 slots each and +40 Strength. He took out a piece of parchment and wrote on them what the rings were, and that they weren't allowed to sell or give them away. He dropped a special outfit into each one and used Double Infusion to make the rings binding, then slipped the rings onto their fingers.
+
+Because he knew they would probably try to sell the rings anyways, Ren took out one of the bags of 1 gold coin diamonds and sprinkled a handful of them inside their clothing chest, closed it, and put the note on top. It made him laugh that they were probably going to wake up and think that he had robbed them instead.
+
+What's the best way out of here? Ren asked his friend as he equipped his armor again.
+
+“Straight up, of course.” Teepo said. “The wall of this cavern is about a hundred feet to the left.”
+
+Right. Ren thought and ran over to the spot. He dug out a good-sized indent to step into, then used his Staff of Earth to pull the dug out dirt back into place and the cavern wall closed behind him. It was as if he hadn't just dug through it, and now that he was closed off from being discovered, he started to dig straight up again.
+
+********
+
+“I did not just see Ren defeat 2 succubus.” Stella said.
+
+“It's succubi.” Elise said and smiled.
+
+“He beat 2 succubi, then.” Stella said. “Shouldn't they have sucked him dry or something?”
+
+Elise chuckled. “Ren's not that weak.”
+
+“He had the drop on them, but he didn't attack them.”
+
+“He's being smart about it.” Elise said. “He could be going through every cavern while he searched for treasure and then killed everything in sight; but, instead he's doing the bare minimum to get by and go up to the next cavern.” She felt proud of him. “He hasn't even checked the loot from that abyssal terror, or looked at the XP he gained when he left the cavern after killing a bunch of others.”
+
+“I'd ask why, but I already know the answer.” Stella smiled and Elise nodded.
+
+“He won't care about it until he gets a few spare minutes to think about it.” Elise said. “When he's not busy, he'll go over everything.”
+
+“I still can't believe what your boss said when you called him.” Stella shook her head. “He doesn't have any restriction on the skills he can gain, as long as he's in the right situation to unlock them.”
+
+“I know! That's just crazy.” Elise said, and then both women laughed. It fit Ren perfectly.
+
+********
+
+“He's such a great warrior.” Verwynn said, and all the maids felt how turned on she was. “To attack an abyssal terror's spawning ground, and then he killed so many!” She closed her eyes and tried to get a hold of her emotions. The other maids loaned her their support and she sighed as her passion was metered out to the others so she wasn't drowning in it.
+
+“He's not out of the woods yet.” Lara, the Sage of Ages said.
+
+“Woods? I thought he was underground?” Frikara asked.
+
+“Um... that's just a figure of speech Adventurer's use.” Lara said. “It means he still has a ways to go before he can leave.”
+
+“Then why not just say that?” Frikara asked. “You can tell us directly, and not use metaphors to describe things.”
+
+Lara nodded. “All right. I'll try to keep my descriptions accurate from now on.” She said and stood up. “I'm going to head over to Ren's shop and let Anabelle know what happened.”
+
+“We can do that.” Frikara said and put a hand on Lara's arm. “You should stay here in case Ren needs you.” She looked at the other maids. “Lusinia, Andrela, and Navruth. Spread the word. Let the others know what's going on and that we will tell them as soon as Ren contacts us or comes back.”
+
+The three women nodded, equipped their protective items and appropriate clothing for travelling outside, and left the bedroom.
+
+“You really care a lot about him, don't you?” Lara asked.
+
+“We do.” Frikara said and pat her arm. “More than any of us thought we would after we met him.”

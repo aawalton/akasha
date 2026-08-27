@@ -1,0 +1,353 @@
+---
+id: 0f99c431-f52e-5563-8a8b-722cf41ceb37
+page-type-slug: story-chapter-royal-road
+title: "Chapter 235 - Confrontations"
+slug: 0224-chapter-235-confrontations
+partOf: mythrans-master-of-all-continued-completed
+position: 224
+ownLength: 3485
+unit: words
+publishedAt: 2017-04-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132139/chapter-235-confrontations"
+royalRoadId: "132139"
+---
+
+“Don't do anything foolish!” The lead soldier said. “We're just taking you in for questioning.”
+
+The Tracker laughed. “We know all about human questioning.” He said. “We'll enter your dungeon and never see the light of the precious day again.”
+
+“We've never kept someone...”
+
+“Do not insult my intelligence.” The Tracker said, and did a little twist with his fingers. “I believe you call it 'hard labor'.” He brought his hands up to near chest level, and it looked like he was going to cross his arms.
+
+“Ren... he's doing something weird.” Teepo said.
+
+I know. Ren thought. But what?
+
+The Tracker splayed his fingers out flat, rubbed them across his arms, then clamped his hands together. Ren felt a wash of Mana flow out from him, and then the elves disappeared.
+
+“OH, CRAP!” Ren yelled and turned to the soldiers. “By the gods! Run!”
+
+“We don't run!” The lead soldier said, and held his sword at the ready. Ren switched to his Command Aura and equipped his Dire Wolf Hooded Cloak to get the extra distance.
+
+“I command you to run!” Ren said. “You can't fight them while they're invisible!”
+
+“Nothing is ever invisible.” The lead soldier said, picked up a handful of dirt, and threw it into the air in front of him. He had been lucky; it hit the elf in the face and threw off the sword swing that would have taken off his head.
+
+Ren thought about the spells in the Level 1 spell book, and took out one of the three remaining Minor Healing wands that he had, and absorbed the charges from it.
+
+I have got to make more wands. Ren thought as he replaced the spell with Sleet Storm.
+
+Wand Of Winter Squall
+
+A Sleet Storm spell creates a sleet storm that provides cover, puts out flames, and leaves the ground covered in ice and snow.
+
+Cast Distance: Within 200 feet (Long). Area of Effect: 20 foot wide circle, 20 feet high
+
+Time Limit: 2 minutes (Level 1)
+
+“Ha!” The lead soldier said, and swung his sword. It hit nothing but air, however.
+
+“This might be messy!” Ren said, and used the new wand. He shot the ground near the soldiers and the Ballista, then 10 feet away from that, then shot up along the street. He heard the jaguars roar, and he assumed it was from the intense cold.
+
+“Sorry, kitties!” Ren said and finished his shots near the other Ballista at the other end of the street. The sleet was heavy and the winds were kind of strong, and the 'invisible' elves had clear and distinct outlines in the spray the spell had created. The soldiers saw that the elves had been going for the Ballistas and stepped in front of them. Once the elves realized they could be seen, they abandoned their objectives and took off to the sides of the street; then escaped through the relative safety of the alleys.
+
+Teepo? Any luck following them?
+
+“I'm sorry, Ren.” Teepo said. “I can't see out through the spells.”
+
+Ren sighed, and looked at his Health. He'd lost another 200 points from the poison, and used a Major Healing wand on himself. It restored his Health to full, but he was still Poisoned and would stay that way without an Antidote. Three seconds later, he started losing Health again.
+
+“Turn it off!” The lead soldier said to Ren.
+
+“It'll be over in...”
+
+“80 seconds.” Teepo said.
+
+“...just over a minute.” Ren said to him. “We have to wait.”
+
+“Bah!” The lead soldier said, and huddled with the closest soldiers. A minute didn't take long to pass, and then the sleet spells slowed down, then came to a stop.
+
+“Wow.” Ren said as he looked around. The entire street, including the buildings from top to bottom, were covered with about an inch of ice and snow. Of course, so were the soldiers and himself. He smiled as he brushed himself off, and walked over to the soldiers.
+
+“Okay, I have to admit, that was a lot messier than I thought it was going to be.” Ren said.
+
+“You let them get away!” The lead soldier said.
+
+“What I did was use your idea to make them visible.” Ren said. “It worked, thankfully.”
+
+“They could attack again, and we still can't see them!”
+
+Ren pointed down. “Step on that.”
+
+The lead soldier frowned at him, and stepped where Ren pointed. A loud crunch was heard, and the soldier looked around to see that none of the snow was disturbed around them.
+
+“All right, I admit that's a good warning system if they try another up close attack.” The lead soldier looked up at the top of the buildings close by. “What if they go for ranged attacks?”
+
+Ren shook his head. “The spell goes up 20 feet.” He said. “The roofs of the buildings are just as covered as the street.”
+
+“Okay, we'll stay here for a few minutes.” The lead soldier said. “I'm tempted to send a squad after the elves...”
+
+“They'd be slaughtered.” Ren said. “And that's assuming that the elves stuck around, and didn't run as fast as they could.”
+
+The lead soldier nodded. “I'll have the patrols keep an eye out from the top of the walls.” He looked at Ren. “What spell was that, anyways?”
+
+“Sleet Storm.” Ren said. “Any basic magic user can cast it.”
+
+The lead soldier nodded. “I'll see if there's any magic users in the ranks, and spread them out.”
+
+“That's a good idea.” Ren said. “I'd say use Color Spray, too; but, that has the potential to stun or put people to sleep if they're caught in it.” He said. “Anyone caught in it.”
+
+The lead soldier looked at Ren. “That's why you didn't use it here.”
+
+Ren nodded. “I didn't want to take the chance that it would knock you all out, and do little or nothing to the elves.”
+
+The lead soldier grunted, and turned to look at the shivering soldiers. “Pack it up! Let's go! Move it, move it, move it!”
+
+Ren walked carefully up the street, and then saw several townspeople and their children come out of their houses.
+
+“Is the danger over?” One of the women asked him as he walked by.
+
+“I believe so.” Ren said, and heard one of the children scream in delight as they slid down the street. “Something would have happened already if it wasn't.” He said, bent over and scooped up a handful of snow. My Trouble recipe wouldn't let this opportunity go by.
+
+“Having the elf die wasn't enough Trouble?” Teepo asked.
+
+Oh, I'm sure there's something going to come from that. Ren thought, and lightly tossed a snowball at one of the kids. I can almost guarantee it.
+
+The kid laughed at the splatter of snow, then all of the children scooped up snow and started throwing it at each other. Ren walked up the street to get to a clear section, then ran back to the business with the sound of children's laughter in his ears.
+
+*
+
+Elerlyth stared at Nathalia. “You...”
+
+“Know all about your world.” Nathalia said. “What I can understand about it, anyways.”
+
+Ren, what did you do? Elerlyth shook her head. “You aren't supposed to know about it.”
+
+“Why not?”
+
+“It'll change what you do, and how you think about things.”
+
+“Ren did that all by himself.” Nathalia smiled. “Long before I found out where he came from.”
+
+Elerlyth sighed. Now what do I do? She thought. Do I try to handle this myself, or report this to the game developers?
+
+“I'm sorry, Nathalia. I can't let you keep that knowledge.” Elerlyth said, and opened her user menu.
+
+“And how would you take it from me?” Nathalia asked, and then they heard a door shut on the level below.
+
+*
+
+Ren came in through the second level back door and ran up to the apartment. “Nathalia!” He said, and took her into a hug. “What are you doing here?”
+
+“Looking for you.” Nathalia said, and kissed him.
+
+“I'm glad you're here. You won't believe what just happened.” Ren said, let her go, then looked at Elerlyth. “You aren't going to believe this, either.” He frowned when he recognized the position of her hands. “What are you doing?”
+
+“I'm sorry, Ren.” Elerlyth said. “Nathalia told me she knows about our world.”
+
+“Of course she does.” Ren said. “I told her all about it.”
+
+“She's not supposed to know!” Elerlyth said, and kept typing. “You don't know what that information will do!”
+
+“Elerlyth, stop.” Ren said. “Even if you somehow hack her and delete it, I'm going to tell her again, anyways.”
+
+“Wh-what?” Elerlyth stopped typing.
+
+Nathalia moved to the side as Ren approached Elerlyth.
+
+“She's gone through something important with me, and she deserves to hear about anything she wants to know.”
+
+“Ren!” Elerlyth said. “Why? Why would you tell her?”
+
+“It's hard to explain, especially since I can't discuss a lot of what happened.”
+
+“Then how...”
+
+“Now's not the time.” Ren said. “Talk to me out there, and I'll tell you everything.”
+
+Nathalia stepped behind Elerlyth and looked at Ren. “You're going to tell her everything, too?” She said. “Oh, Ren.” She sighed as tears came to her eyes. “I thought I was the only one you did that with.”
+
+Ren looked at her. “You are.” He said. “What I meant was, I'm going to tell her everything about what happened between you and I, not everything like... like what happened.”
+
+Nathalia smiled and the tears flowed faster. “I'm glad you didn't lie.”
+
+“Nathalia...”
+
+“Now I have a question for you.” Nathalia said. “Do you love Elerlyth?”
+
+Ren clamped his mouth shut, and Nathalia let out a sob.
+
+“A... a lie... of omission...” Nathalia equipped the short sword Ren had given her, and shoved it into Elerlyth's completely unprotected back. Elerlyth screamed as the weapon went through her heart and the tip of the short sword popped out through her chest. It spurted a little bit of blood onto Ren's face.
+
+“No!” Ren said, and caught Elerlyth when Nathalia withdrew the short sword that held her up. He gently laid Elerlyth on the floor, and stared at her. “E-Elerlyth?”
+
+“R-R-Ren...” Elerlyth whispered, then spoke no more.
+
+“According... to Dwarf Law, I... I have enacted retribution for your crime.” Nathalia said to Ren, her face covered in tears. She didn't even try to wipe them away, because she knew there were more to come. “You broke your word to me.” She sobbed. “You fell in love with someone else while engaged to me.” She stored the short sword, dropped to her knees, and put her face in her hands. “By the gods!” Nathalia said as she cried her heart out. “I can't believe you made me do that!”
+
+********
+
+Detective Ramirez pulled up in front of the mayor's house and came to a stop.
+
+“We're really doing this?” Officer Stonewall asked.
+
+“Officially, no.” He said, and looked at her. “Set your device to record.”
+
+She did so, and slipped it back into her pocket.
+
+“Let's go.” He said and got out of the car. She followed him, and walked closely behind until they came to the front gate. It was only a fake one and didn't actually work, but it marked the property's boundary. Detective Ramirez sighed and walked through the gate and up to the front door. Officer Stonewall went in as well, and stood beside her partner as he knocked on the door.
+
+“Yes, yes!” A man's voice said, and a moment later, the front door opened to reveal a middle-aged man dressed in a shirt and pants, with a slightly bald head and a bit of a paunch on his belly. “Yes, officers?”
+
+“It's 'Detective', actually.” Detective Ramirez said, and held up his badge. “We've found evidence that a crime has been committed, and would like permission to come in to make sure everything is okay.”
+
+Mayor Danicot blinked his eyes at the two people on his front step for a moment, then smiled. “Of course. Please, come in.” He said and stepped back. “I'm always glad to be of service to the police.”
+
+“Thank you, sir.” Detective Ramirez said, and Officer Stonewall kept the surprise off her face. It was nearly 10:30 at night, and it shouldn't have been that easy to get permission to come inside. The mayor shut the door and looked at the two people standing in his foyer.
+
+“Now, what was this crime that was committed?”
+
+“Unlawful surveillance and invasion of privacy.” Detective Ramirez said. “The evidence is insurmountable, and we had to come here to check things out.”
+
+“Oh.” The mayor said. “Well, go ahead and check.” He said. “The last thing I want is to be a victim of that!”
+
+Detective Ramirez smiled and nodded. “Thank you, sir.” He said. “Would you walk us through and show us around?”
+
+“Sure.” Mayor Danicot said. He took them to the living room, they had a look around, and then the mayor took them through the kitchen.
+
+“What's it like living here?” Detective Ramirez asked as he looked through the window to the outside.
+
+“It's great.” The mayor said. “Much better than my old place.”
+
+“Didn't you like your old place?” Office Stonewall asked, to distract the mayor.
+
+“It was a great house, and the neighborhood was nice...” The mayor sighed. “...but the commute to work every day killed nearly an hour of my day.”
+
+“I hear that!” Detective Ramirez said. “It's 45 minutes for me, both ways.” He shook his head. “If I could afford to move as close to the city center as this, I'd have done it years ago.”
+
+The mayor laughed. “You're not going to ask me for a raise, are you?”
+
+“Ha!” Detective Ramirez said and smiled. “I can't get approval to replace my stapler. I'm sure as hell not going to ask for a raise!”
+
+Officer Stonewall chuckled, and the three of them moved to the upstairs. They checked the bedrooms and the bathroom, then went back down the stairs.
+
+“Where's your wife and son?”
+
+“They're visiting her sister in the Clampetts.”
+
+“That must be nice.” Officer Stonewall said. “I've always wanted to visit there.”
+
+“It's a rest spot for the rich and famous.” Detective Ramirez said and stopped by a door they never went in. “It's full of cement ponds and movie stars.” He said and turned the handle.
+
+“That's just my office.” Mayor Danicot said. “You don't need to check in there.”
+
+“It'll only take a second.” Detective Ramirez said, and stepped inside. The office was a little cramped, like all functioning offices everywhere, except for the fact that there was nothing at all on the desk. No files, no phone, not even one of those blotters to save the surface from normal wear and tear.
+
+“It looks mighty clean in here.” Detective Ramirez said, and the mayor sighed.
+
+“I was cleaning up when you knocked.”
+
+“You were?” Officer Stonewall asked. “Why?”
+
+“It was messy.” The mayor said, half-heartedly. Even he didn't believe that lie.
+
+Detective Ramirez walked around the desk, then froze. A beautiful blonde woman was staring up at him from under the desk, with shock and embarrassment clearly on her face.
+
+“Well, I think that's everything checked out.” Detective Ramirez said without missing a beat. He walked back around the desk and shut the office door.
+
+“Will that be all, detective?” The mayor said, with a touch of anger in his voice.
+
+“Actually, no.” Detective Ramirez said. “Does this look at all familiar to you?” He said, and pulled out a polaroid picture of Ren. The mayor's eyes widened when he saw the photo. Officer Stonewall kept her mouth shut about removing evidence from a crime scene, because she had heard the mayor sigh.
+
+“So, you found it.”
+
+“Found what?” Detective Ramirez asked.
+
+“Please.” The mayor said, turned around, and walked to the kitchen. “Don't insult me.”
+
+Detective Ramirez and Officer Stonewall followed the mayor to the kitchen, and watched as he opened a beer and sat at the table.
+
+“That poor boy.” Mayor Danicot said. “He's been through so much, and now he's going through even more.”
+
+“You've met him?”
+
+The mayor smiled. “Not that he remembers.”
+
+Oh my god. Officer Stonewall thought as the mayor kept talking. He described some of the experiments that he had witnessed, and that a lot of his campaign funds had come from contributors that directly benefited from the results.
+
+“You have got to be kidding me.” Detective Ramirez said. “How could you do that to him?”
+
+The mayor laughed. “I didn't do anything to him.” He said. “I saw it, and made more money than I'd ever seen in my life from it; but, I never touched him.”
+
+Officer Stonewall snorted a laugh. “Are you serious?” She asked the mayor. “You stood by and watched it happen!”
+
+The mayor shrugged. “It was happening anyways.” He said. “It's not like I could have stopped it at the time.”
+
+“What? Why not?” She asked.
+
+Mayor Danicot shook his head. “I was a nobody then.” He said. “Look at me now.” He smiled. “I run this city.”
+
+“Not anymore.” Detective Ramirez said. “You're finished.”
+
+The mayor shook his head. “I don't think so.”
+
+“This has all been recorded.”
+
+“So?”
+
+“Everyone will know what you did.” Officer Stonewall said.
+
+“Like I said, I didn't do anything.” The mayor replied. “I can even give you proof.”
+
+“You what?!?” Detective Ramirez exclaimed.
+
+“Nothing I ever did or said came near that boy.” The mayor said. “Until I turned the parents in.”
+
+“IT WAS YOU?!?” Officer Stonewall shouted.
+
+“Calm down, please.” Mayor Danicot said. “I was the one in the best position to do it.”
+
+“Then how did your fingerprints get on the photos in that surveillance room?”
+
+“That's easily explained.” He said. “I was given several stacks of them to look through, to show that the results of the tests were genuine.”
+
+Goddammit. Officer Stonewall thought. John was right! He can explain it away easily.
+
+“And what about the little blonde floozy you have stashed under the desk in your office?” Detective Ramirez asked, and Officer Stonewall held in her gasp of surprise.
+
+“That's my secretary.” Mayor Danicot said. “We were working late, and rather than try to explain it was perfectly innocent, which you wouldn't believe anyways; I told her to hide if someone opened the door.”
+
+No one said anything, as it was all easily explained.
+
+“I'll send over the appropriate paperwork to the police station in the morning.” The mayor said. “Now, if you will excuse me, I have some more work to finish.”
+
+The mayor escorted Detective Ramirez and Officer Stonewall to the front door.
+
+“Thank you for visiting, and making sure I'm perfectly safe in my own residence, detective.” Mayor Danicot said. “Officer.” He nodded to Officer Stonewall, and shut the door in their faces. Detective Ramirez and his partner walked back to the car that was parked in the street.
+
+“Goddammit!” Detective Ramirez said as he opened his door.
+
+“My thoughts exactly.” Officer Stonewall said, and climbed into the passenger seat. The detective drove away at a sedate pace, because he was too angry to enjoy peeling the tires on the pavement.
+
+*
+
+“Did they buy it?” The woman that had hidden under the desk in his office asked, when the mayor came into the room.
+
+“Lock, stock, and barrel.” The mayor said, and she squealed in delight as she hopped into his arms and kissed him.
+
+“The arrogant fools.” The woman said. “Such a simple tale, and they didn't even question it!”
+
+“It was a brilliant move, darling.” Mayor Danicot said. “That was a stroke of genius on your part.”
+
+“Yes it was.” The woman said. “How are you going to reward me?”
+
+The mayor pulled out a small baggie with a red colored pill inside.
+
+“The only way you want me to thank you.” The mayor said, and the woman grinned as she popped the pill into her mouth.
+
+“Oh... oh god...” She said as the drug took hold, and she laid back on the desk. “Mmmm... hurry! Before I hit stage two!”
+
+Mayor Danicot opened his pants and lifted her skirt. Neither of them had been wearing underwear, and he was already prepped and ready. He started in on her, and she moaned appreciatively for several minutes; then her eyes glazed over and a look of pure euphoria appeared on her face.
+
+“Now we can have some real fun.” The mayor said, and the woman giggled uncontrollably. There was a beep sound from under the desk; but the mayor ignored it, and the woman didn't care by this point. It had been her cell phone that made the noise. She'd received another text from her contact at the FBI. He asked, again, if he could get another one of the pills.

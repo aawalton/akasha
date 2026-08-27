@@ -1,0 +1,311 @@
+---
+id: 0c9b9956-db30-53b0-b482-0f5c2b62ff09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 399 - Good Intentions"
+slug: 0395-chapter-399-good-intentions
+partOf: mythrans-master-of-all-continued-completed
+position: 395
+ownLength: 3445
+unit: words
+publishedAt: 2017-10-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170071/chapter-399-good-intentions"
+royalRoadId: "170071"
+---
+
+Mrs. Bautman told Ren what she needed to get the pig production doubled, and Ren did it all for her while she went into the barn and butchered the 3 cows he wanted. He made a large open corral for the pigs, a huge water and mud pen for them to play in, a feed station with a churner to chop up old vegetables and mix with grains to add to a trough, and a big barn to house the pigs in during the night.
+
+Ren even used his Staff of Earth to make a water delivery system of angled troughs to spread water over the barren land next to hers, so she could have the cows graze more. When he was done, he went and got her to show her the new setup.
+
+“How... how did you...” Mrs. Bautman shook her head. “You've done in hours what my entire family took years to build!”
+
+“Please, don't let my speed in building take away from what you've worked so hard to make.” Ren said. “I'm a crafter, and building things is my specialty. It's what I do.” He said. “Once I have a plan, I can execute it quickly, assuming I have the resources available.”
+
+“You mean that.” She said and pointed to his Instant Tower.
+
+“I've only just recently made it, and it's come in handy several times already.” Ren said. “Does it bother you that much?”
+
+“You built a castle tower in the middle of my grazing field!” She said, a little angrily. “A castle tower!”
+
+“I'll get it out of your way, then.” Ren chuckled, deactivated the Instant Tower, and stored the 2 inch wide cube. Her mouth dropped open when the very solid tower disappeared, and there wasn't even a trace of it's presence. No marks on the ground, no flattened grass, nothing.
+
+“What... what...”
+
+“I think that's everything.” Ren said. “How much do I need to bid on the first batch of piglets?”
+
+“My Lord.” Mrs. Bautman said. “You just... they are free, My Lord.”
+
+“You need to make or buy extra feed for them, so let me give you the money for that at least.”
+
+She looked around at the nice new barn, the corral and mud pen, and the feed station. She couldn't even guess at what that would have cost her in traded favors and cuts of animal meat.
+
+“Build me another feed station for the other pigs, and you will only have to pay for the butchering when your piglets are butcher size.”
+
+“Well... I guess that's a fair deal.” Ren said and held a hand out, and he didn't try to feed from her when she shook it.
+
+“How long will it take to make it?” Mrs. Bautman asked and looked at the thing. Inside was a twisting and turning blade that chopped everything up. She turned the crank like Ren had shown her, and she pushed the button. It churned around slowly and she nodded because that would make the right kind of sludge that the pigs just loved to eat.
+
+“I already made it.” Ren said. “It's installed in the old barn and ready to be used.”
+
+“Wh-what?”
+
+“It wouldn't be fair if only my pigs benefited from a better feed system.” Ren smiled. “I want them all to eat and be happy.”
+
+Mrs. Bautman closed her eyes and sighed. “I just gave away 3 months of feed for nothing.”
+
+“I offered to pay for it.” Ren said. “But, I suppose I could pay for the butchering now.”
+
+“Wh-what?” Mrs. Bautman opened her eyes. “You don't even know how many pigs you'll have!”
+
+Ren shrugged. “It doesn't matter.” He said. “As long as I can get at least one pig with 25 pounds of bacon...” He almost drooled, but caught himself before he did. “...I'll be a happy man.”
+
+“You're crazy.” Mrs. Bautman said.
+
+“Yep.” Ren said. “So, how much is a normal butchering?”
+
+“It's usually a portion of the cuts, most times some of the best cuts.” She said.
+
+“That's what you're taking from the cows I wanted?” Ren asked, and she nodded. “I'll want the whole pig for most of them.” He said. “Minus the heads, hooves, and insides of course. You can keep those.”
+
+Mrs. Bautman chuckled. “You can make some great soup-”
+
+“No, thank you.” Ren said and cut her off. “I'll stick with the normal parts.”
+
+“It usually takes half an hour to butcher an entire pig.” Mrs. Bautman said. “The cows took an hour each.”
+
+“I can't believe you just give the meat away.” Ren said.
+
+“People usually provide the feed for their animals, so it doesn't cost us anything extra, except for the time it took to look after them.”
+
+“Then since I didn't pay for the feed for those three cows, let me give you something for them, too.”
+
+“You're our Lord, My Lord.” The woman said. “Even charging for the butchering makes me feel uncomfortable.”
+
+“Nonsense.” Ren said. “I am not leaving here until you accept some kind of payment.”
+
+“My Lord, you just gave us 64 acres of land and built a barn that we would have to owe nearly the entire village at least one cut of meat.” Mrs. Bautman said. “I made the mistake of not accepting your generous offer for feed for the first set of pigs. Please don't embarrass me further.”
+
+“Ma'am.” Ren stepped close to her. “I am going to want more than just the first set of pigs.” He said. “When the rest of the county gets up to speed, we are going to be producing lots of everything that people will need. Food, wheat and grains, animals, everything.” Ren said. “I want us to get to the point that we can make so much more excess than we need that we can sell it and not worry about our own citizens having to go without.”
+
+“M-my L-lord.”
+
+“I'll give you a down payment for all future pig production.” Ren said. “You seem to have enough cattle, and I might be back to get more; but, my focus is bacon... ah, I mean pigs.” He smiled. “Do you have a coin pouch?”
+
+Mrs. Bautman nodded, and Ren handed her a platinum coin. She stared at it and held it like it was going to bite her, and he laughed.
+
+“It's just money.” Ren said. “Is that enough?”
+
+“I... I don't know.”
+
+“If you need anything, send a message to Patty at the Main House. She's got the budget for the county, and if a platinum coin isn't enough for you to buy what you want, she'll get it for you.”
+
+“M-my Lord.”
+
+“It's getting late.” Ren said. “Can I pick up the butchered cows?”
+
+Mrs. Bautman nodded and took Ren to the old barn and he helped wrap up the meat and stored it.
+
+“Thank you, ma'am.” Ren said and gave her a slight bow. “I'll see you again when I come to visit my bacon.”
+
+“You mean pigs.”
+
+“That's what I said.” Ren grinned. “Goodbye, Mrs. Bautman.”
+
+“Goodbye, My Lord.”
+
+Ren left the farm and ran as hard as he could back to the Main House. Once there, he detoured into the bakery and stopped just inside the door.
+
+“Oh, I love that smell!” Ren said, and several customers turned to look at him. He waved to them and went to the counter. “How's the bread today?”
+
+“Rising.” Ramona, Russell's mother said seductively. Ren smiled at her, because he could feel that she was trying her best to exude sexiness. She leaned on the counter and her apron gaped at the top, and Ren saw that she was only wearing a small low cut top underneath.
+
+“Give me two of your best loaves.” Ren said in a slightly lower voice.
+
+“Right away, My Lord.” Ramona purred and leaned forward just enough to show Ren most of her chest. She stood up straight and turned around, and he was surprised to see that she was wearing pants. She walked over to a shelf and her hips swayed from side to side. It was almost hypnotic, especially since she wasn't trying to exaggerate it at all. She stood up on her toes to reach the top shelf and braced herself with a hand.
+
+Ren could see her struggle, and she started to lose her balance. He jumped over the counter in an instant and crossed the short distance; and when her hand slipped and she started to fall, he caught her in his arms and she looked up at him with wide eyes.
+
+“You need to be a little more careful when reaching for things.” Ren said.
+
+Ramona's face flushed a little red. “I was... trying... to seduce you.”
+
+“I know.” Ren said and leaned in close to whisper. “You're even wearing pants.”
+
+Her face flushed to a deeper red. “I heard that... you were back, and...”
+
+“You didn't have to wear odd clothes just for me.”
+
+“They felt weird at first, but... they are oddly comfortable.” Ramona said. “It's also easier to bake wearing them instead of a dress.”
+
+Ren smiled. “Thank you for thinking of me.” He said. “I'll give you a step ladder, so you won't have to reach so far.”
+
+“I would appreciate that, My Lord.” Ramona said and touched his cheek.
+
+“You can stand her up now.” Betsie said, and Ren looked up at her. “You caught her already. You don't have to keep holding onto her.”
+
+With Ren's new ability, he could tell how envious Betsie was of her sister. Ren wasn't sure if it was because her sister had a much larger chest, more curves, or attracted more attention; but, it didn't really matter.
+
+Ren stood up and helped Ramona stand up. He straightened out her apron and wiped off some imagined dust from her shoulder and looked at Betsie.
+
+“Please accept my apologies for rescuing a damsel in distress.” Ren said. “I acted out of chivalry and without regard to anyone else.”
+
+Betsie started to feel like Ren was mocking her, and he took her hand to stop her thoughts from going in that direction.
+
+“Please, don't worry. If I am here and you start to fall, I will do what I can to rescue you as well.” Ren said. He moved his thumb in a slow circle on the side of her hand, and he could feel that it was distracting her.
+
+“Your sister was kind enough to get me 2 loaves of bread when I asked, and now I think I'd like some fried dough as well.”
+
+Betsie took several shallow breaths and tried not to look at the hand Ren still held. “I'll get you some.”
+
+“Thank you very much.” Ren said. “Would a dozen be too much?”
+
+“The deep fryer you made can handle twice that, easily.”
+
+“Then please, make me 2 dozen.” Ren smiled at her. “I'll leave it in your capable hands.”
+
+Betsie nodded, but she didn't try to take her hand back.
+
+“Come on, I'll help.” Gemma said and pulled Betsie's hand from Ren's. They both went to the deep fryer and added 2 dozen pieces of dough.
+
+“That was nice of you.” Ramona said.
+
+“Hm?” Ren looked at her.
+
+“You're using your charm on her to distract her from hating me.”
+
+Ren leaned in close to whisper. “She doesn't hate you.”
+
+“No, she just wants to be me and hates that she can't be.” Ramona said with a sad smile and gave Ren two loaves of bread.
+
+“How much do I owe you?” Ren asked.
+
+“2 copper coins each.”
+
+“That... that's all?”
+
+“No one has a lot of money here.” Ramona said. “Besides you.”
+
+Ren smiled. “Let me change that.” He said. “I assume this is the very first purchase you've had?”
+
+Ramona nodded, and Ren gave her a coin pouch. He also gave her 2 gold coins, and her hand shook as she put the two coins into the pouch.
+
+“M-my L-lord.” Ramona said. “You could buy out the entire bakery with 2 gold coins.”
+
+“Shh. That's your money.” Ren said and gave her 4 copper coins for the loaves of bread. “I'd suggest increasing your price when people not originally from the village start to come in here.”
+
+No sooner had the words left his mouth when a man came in through the door.
+
+“What is that wonderful smell?”
+
+“They are called doughs.” Ren said immediately. “They're 2 copper each, and if you buy a dozen they are only 20 copper!”
+
+“Wow, 4 copper coins off?” The man said. “I'll take a dozen!”
+
+“But... you haven't even tasted them yet.” Ramona said, surprised.
+
+“If they taste half as good as they smell, I'll buy another dozen.” The man said and took in a deep breath through his nose. “You better give me a loaf of bread, too.”
+
+“They're only 10 copper each.” Ren said and took out the two loaves he had. “I had to buy 2 of them at that price!”
+
+“They're 15 copper where I came from.” The man said. “You're right. That's a good deal.” He said and came over to the counter. “Make it two loaves.”
+
+Ramona looked at the man, and then at Ren. Ren winked at her, and she nodded slightly. He took out a step ladder for her, and she grabbed two loaves of bread.
+
+“Here are your doughs, My Lord.” Betsie said and handed Ren a plate with 2 dozen butter and sugar coated doughs on it. He picked one up and bit into it, and Ramona put the two loaves of bread on the counter in front of the man.
+
+“Oh, yeah.” Ren almost moaned, and he felt a spike of want from the man. “Betsie, you need to put on another batch.” He said. “This gentleman wants 2 dozen as well.”
+
+Ren felt like the man was going to protest and say only 1 dozen, and held the plate out to him. “Try one.”
+
+The man took one and bit it, chewed it a little, then shoved the rest of it into his mouth. “Mesh, mwo mozen.”
+
+Betsie laughed and nodded, and went back to the deep fryer. Ren finished eating the dough he had and stored the plate to save the others for later, then walked around the counter.
+
+“Excuse me.” Ren said to the man. “Can I ask what you did in your other town?”
+
+“I used to run the Inn.” The man said. “Of course, once my wife was... well, you know.”
+
+Ren nodded. “I'd like to come over to the Refugee Center and talk to you all about what you're going to do now.”
+
+“You're a step ahead of us, then.” The man chuckled. “We're just trying to figure out where the next meal is coming from.”
+
+“I've been delivering the meals.” Ren said.
+
+“Not for lunch you haven't.”
+
+“Oh, dammit.” Ren said. “I'm sorry. I had something happen this morning that completely threw me off.”
+
+The man smiled. “That seems to be going around.”
+
+“Here are your doughs, sir.” Betsie said, and the man counted. He reached into his coin pouch, and Ren put a hand on his arm.
+
+“It's on me.” Ren said and handed Betsie 60 copper coins, then 3 more for the tip. “Thank you, Betsie.”
+
+“You're welcome, My Lord.” Betsie said and Ramona held open her coin pouch. Betsie piled the money inside and both women stared at Ren.
+
+“Ladies, if you will excuse me, this gentleman and I need to rectify a mistake I made this morning.”
+
+“Have a good day, My Lord.” Ramona said.
+
+Ren and the man left the bakery and walked over to the Refugee Center. They gathered everyone together, and Ren apologized for missing their meal for lunch.
+
+“You almost missed supper, too!” The young marked man said. “Ow!” He said when his sister hit him.
+
+“I normally only eat breakfast and a late supper, since I'm usually too busy to do anything else.” Ren said and handed out plates of food. “Even today, when I had nothing that needed to be done, I ended up being busy anyway.”
+
+“That's always the way.” The older marked lady said. “I've lost count of how many days I had off at the kitchen in the town hall, and still had to cook for the old goats.”
+
+Several people laughed, and Ren nodded.
+
+“How are your cooking skills now?”
+
+“Considering I was still working there when I was kidnapped two weeks ago, they're pretty good.”
+
+“How would you like your own cafeteria that provides affordable meals for Adventurers, and anyone that visits the county?” Ren asked her.
+
+“I'd ask you if you like sleeping with older ladies.” She said, and several people laughed.
+
+“I... ah... don't think you need to thank me that much, Ma'am.” Ren said, and that made them laugh more.
+
+“You have dashed my hopes, young man!” She said and laughed. “But... once again, I'll gladly take your generous offer.”
+
+“Good.” Ren said. “I suggest that if you need helpers, see if anyone here wants the job before asking the locals.” He smiled. “Actually, now that you're going to be living here, you're the locals, too.”
+
+The older lady nodded.
+
+Ren looked at the man he had met in the bakery. “I'll build an inn down the road as well, so you can get back to work.” He said. “You might not have a lot of business right away, but I hope to change that soon.”
+
+The man nodded and hugged his wife.
+
+“I'd like to hear what everyone else used to do, now that I've got you all here.” Ren said.
+
+One of the marked men used to be a member of the militia for the town, and had learned various fighting tactics. He had even trained as a town guard before being kidnapped.
+
+“I'd like to hire you right away.” Ren said. “I don't expect any trouble, but there's supposed to be guards posted at the Main House.” He smiled. “I'd also like to have people placed at strategic locations around the county.”
+
+“Basic defensive tactics.” The man said. “I don't know if I can train any of the locals in everything I know, but...” He smiled. “I know a few tricks that can help.”
+
+“Thank you.” Ren said. “I'll have some kind of Barracks built by tomorrow.”
+
+“How are you... no, I don't want to know how you can do so much so quickly.” The man said. “I look forward to working for you, My Lord.”
+
+“I'm having 60 horses delivered sometime this week, so transportation won't be a problem soon.” Ren said. “Which reminds me, again, that I need to build carts.”
+
+Two of the women had been teachers. One had been taken with a small group of children, and ended up becoming marked. The children had been too small for the process and hadn't made it, and because the both of them had lost their students, the other teacher had come along with her friend into exile. Ren walked over to the marked woman and knelt, and she had tears in her eyes after telling the story.
+
+Ren had felt her sorrow and had surprisingly fed from it. It tasted horrible, but he could tell as he consumed it that the woman felt better and better about it. She reached out and touched the back of Ren's hand, where the skull and spider mark was, and she touched the spot over her heart where her skull mark was.
+
+“You're taking it for me.” She said. “How?”
+
+“I don't know.” Ren said, and his tears matched her own. “I just know that I can carry some of your burden, and I'm going to do that.”
+
+“My Lord... I... thank you.” The woman sobbed and Ren hugged her.
+
+“I'm not going to lie and say that things are going to be all right from now on.” Ren said, and the woman's sobs broke apart and she chuckled.
+
+“But that's the best lie to tell.” She said and let him out of the hug.
+
+“It's also the most damaging.” Ren said. “What I can say is that you will get through this.” He pat her hand, stood up, and looked at the others. “We all will.”
+
+They all nodded, and Ren felt a general sense of hope from them.
+
+“Now, what else can you do?” Ren asked, and they all told him what they could do. He listened to their list of skills and abilities, then smiled as he realized that he had received the best and broadest skill set that anyone could have ever asked for in such a small group of people.

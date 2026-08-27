@@ -1,0 +1,313 @@
+---
+id: 880e4ac9-75dd-5625-a632-1e54fa998f51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90 - The Fine"
+slug: 0074-chapter-90-the-fine
+partOf: mythrans-master-of-all-continued-completed
+position: 74
+ownLength: 3023
+unit: words
+publishedAt: 2016-11-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103865/chapter-90-the-fine"
+royalRoadId: "103865"
+---
+
+Ren let Nathalia's mother's hand go and she saw the change in Ren's face.
+
+“What is it?” Narhilda asked.
+
+Ren shook his head. She had enough to worry about without knowing he'd been given a fine. Narhilda looked at him for a moment more and once again told them to wait there. She left the main room and Ren waited for her to return.
+
+“Okay, what is it?” Nathalia asked.
+
+“I'll need directions to the Main Keep. I've been given a fine for using a false House name.”
+
+“How could they do that?” Nathalia asked. “Ma just said she'd file the paperwork.”
+
+“I'm an Adventurer. I guess once I accepted her condition, it was automatic.”
+
+“That still doesn't sound...” Nathalia started to say when her mother came back into the room.
+
+“It's done.” Narhilda said. “It was just a formality, really. Now that you're working for me, you can't have your own House.”
+
+They both looked at her in surprise.
+
+“What?” She asked.
+
+“You couldn't just tell us that?” Nathalia said, exasperated.
+
+“As soon as I thought of it, I tried to stand up... and you saw what happened.” Narhilda said as her face flushed a little red again. “I was a little distracted.” She glanced at Ren.
+
+“Ma.”
+
+“Yes, dear?”
+
+“You can file paperwork from here?”
+
+Narhilda nodded. “Your father had the Sending Stone installed ages ago. Connects right to the Main Keep's filing room. He needed a way to bill the Nobility without bothering them with the petty details.”
+
+“Sending Stone?” Ren asked, intrigued. “What does it do?”
+
+“It connects to another stone just like it at the Main Keep. You activate it, and when you speak, someone else hears it as if you were standing right next to them.”
+
+Ren's eyes widened. “No way!”
+
+Narhilda nodded. “It works for 5 minutes at a time, but it's only one way.” She said. “Once an hour, it can be used.”
+
+“That's a great thing!” Ren said, then thought about it for a minute. “I wonder what the range is...”
+
+“From here to the Main Keep at least.” Narhilda said. “About 2 miles.”
+
+Ren whistled. It was the first time he'd heard of anything in the game that would let you talk to someone that wasn't standing right next to you.
+
+“Can I see it?” Ren asked.
+
+“I don't think that's a good idea.” Narhilda said and blushed slightly. “It's... in my bedroom.”
+
+Ren blinked a few times.
+
+“Ma, stop teasing him.” Nathalia sighed. “She hasn't slept in that room since Da... left.”
+
+“Oh, you're no fun, dear.” Narhilda smiled. “My bedroom is this way.” She said to Ren and bat her eyelashes, then walked down the hallway.
+
+I'm really glad I sent Teepo in first. Ren thought and followed her. This woman would have definitely been trouble, otherwise.
+
+“That's what I'm here for.” Teepo said.
+
+Everything going alright?
+
+“Kind of. I think... yes, I found where all of the spiders are coming from.”
+
+Let me guess. One of the walls in the lower Keep opened up into a cavern and there's a giant nest at the end of it.
+
+“How did you know that?” Teepo asked, surprised.
+
+They had to come from somewhere. Ren thought. At least it's not actually inside the Keep.
+
+“Here it is.” Narhilda said and showed Ren a huge workbench. At the top corner, under what looked like thick glass, was a stone tablet. A single marking was on it and Ren wondered what it was. He activated his Enchanted Eyes, Read Rune, and Decipher to examine it. The tablet didn't glow, but Ren didn't really expect it to. Nathalia's mother had said that she'd just used it. and it would be another hour before it could be used again. Ren stepped close and examined it closely. He was about to say that he didn't know what it was, then he realized what it meant, and smiled.
+
+Stat Change!
+
+Decipher Level 3 (Beginner 0%)
+
+Ren deactivated his abilities and turned around. “Thank you very much for allowing me to see such a great item up close, My Lady.”
+
+“You're quite welcome.” Narhilda said and led Ren out of the old bedroom. It's so nice to finally hear my title in a man's voice. She thought as they went back out into the main room to where Nathalia waited.
+
+“Was it everything you expected?” Nathalia asked. She hadn't gone in the bedroom herself because she just wasn't interested in seeing something that was used for filing paperwork.
+
+Ren nodded. “It was quite the sight.”
+
+Nathalia's mother turned around and grabbed Ren's arm with both of her hands and smiled. “You will be staying for supper.”
+
+It wasn't a question, but Nathalia shook her head. “Ren wanted to visit the Main Keep before it gets dark. If we leave now, we can be back by tonight.”
+
+Her mother pouted and let Ren's arm go.
+
+Yes, she'd definitely be trouble. Ren thought. Hey, Teepo. I'm going to the Main Keep. I think I should have my best scout along.
+
+Teepo chittered in laughter. “I'm your only scout!”
+
+That's what I said. Ren smiled and Teepo chittered again
+
+Nathalia gave her mother a quick hug and a kiss on the cheek. “We'll be back as soon as we can, and we'll eat something then, okay?”
+
+Her mother nodded and held her hand out to Ren with a huge smile on her face.
+
+“Ma! He doesn't have to do that every time!” Nathalia said, a little exasperated.
+
+Ren took her mother's hand and bent over it. He didn't kiss it, though. Outside of a contract negotiation it meant something slightly different. Ren let her hand go and her mother winked at him.
+
+“Let's get out of here before she gets you to rub her feet or something.” Nathalia said, and laughed when her mother tried to swat at her. They left her mother in the main room and left the house.
+
+“Alright, summon me back.” Teepo said. “There's no way I can crawl all the way back right now.”
+
+Okay. Hold on. Ren thought and then tried something he hadn't thought of before. Summon Teepo! He thought and tapped the ring. An instant later, Teepo materialized at his feet and crawled up to Ren's shoulder. Ha ha! It worked!
+
+“What did?” Teepo asked.
+
+I didn't say it out loud when I summoned you!
+
+“Really?” Teepo asked. “I heard you the same as I usually do.”
+
+It'll be easier to keep you a secret if I don't have to speak when I call.
+
+“Good idea.” Teepo said as Ren followed Nathalia out to the courtyard.
+
+“You don't need your mount and backpack, do you?” Nathalia asked. “It's a long walk there and back.”
+
+Ren shook his head. “No, but I better drop off your boxes first.”
+
+Nathalia had a shocked look on her face. “I completely forgot about them!” She said and put a hand on his arm. “You've been carrying them around this whole time, and didn't say anything?”
+
+“When was I supposed to get a word in?” Ren grinned and Nathalia swatted him on the arm.
+
+“You can put them in the stable for now. It might not look it, but it's pretty solid.” She said.
+
+Ren nodded. “I'll be right back.” He walked over to the stable and unloaded the boxes inside. They were stacked neatly and Ren turned around to face Princess and Ruck. “I'm going to the Main Keep a couple of miles away.” He said and Princess looked at him. “No, I don't need a ride. I just wanted to let you know where I was going and that I'll be back later tonight.”
+
+Ruck gave a quick 'thumbs up' gesture and Princess huffed.
+
+“See you in a little while.” Ren said and came back to the courtyard.
+
+Nathalia looked at him like he was crazy. “Did you just explain where you were going to your mount?”
+
+Ren nodded. “I just got her before getting on the ship to come here.” Ren said. “I'll be leaving for a while and I don't want her to worry.”
+
+“Okay.” Nathalia shook her head and laughed. “Let's go.”
+
+The walked back towards the city and it didn't take as long this time. Both Ren and Teepo had seen most of it on the way to Nathalia's house, so Ren walked at a good pace. After about 15 minutes, Nathalia asked him to slow down. She was slightly out of breath and Ren stopped to let her recover a little.
+
+“I could carry you.” Ren offered.
+
+Nathalia stared at him with wide eyes. “I... I'm fine. Thank you.”
+
+Ren looked around while he waited and didn't notice the blush that spread across Nathalia's face, as she remembered how Ren had held her mother after that slip and fall.
+
+I can't believe I'm actually jealous of my mother! She thought, then told Ren she was ready.
+
+They continued to walk at a more moderate pace and made their way back to the main part of the city. Once there, they had to slow down because of all the dwarves in the streets, and it took that much longer to get to the Main Keep. They finally arrived and had to wait in line to get to the door. Ren looked ahead to see what the hold up was, and saw Warriors were searching the men that went inside. He was glad that he hadn't equipped his leather armor or his Dire Wolf Hooded Cloak. They might get confiscated, and Ren wouldn't like it if that happened.
+
+Soon it was their turn, and after giving Ren a quick pat down to check for weapons, they were admitted. They didn't check Nathalia. It was against dwarf law to physically assault a woman in such a manner. She could have carried a battle axe strapped to her back and they wouldn't even blink twice at her. Nathalia led Ren to the big desk in the lobby, and they waited for their turn again. When the one in front of them moved off, they stepped forward and the female dwarf behind the desk took a deep breath and spoke.
+
+“Petitions, Registrations, Complaints, Records, Fines, Administration, Taxes, Armory.” She took another deep breath. “Dwarf Rites, Military, Education, Agriculture, Foreign Office, General Information.” She said, almost blue in the face, and took another deep breath.
+
+“Fines, please.” Ren said and smiled. I bet Nathalia could say all of that in a single breath.
+
+Teepo chittered in laughter. “That's a sucker bet.”
+
+“Ninth door, second hall to the right.” She said and pointed.
+
+Ren and Nathalia walked over to the indicated hallway and then down to the ninth door, with 'Fines' written on it in fancy letters.
+
+Teepo. Ren thought and Teepo hopped off his shoulder and slipped under the door.
+
+“There's just a really fat dwarf and a desk, Ren.”
+
+Thanks.
+
+Ren looked at Nathalia. “You don't have to come in with me.”
+
+“Yes I do. It's partly my fault.” She said.
+
+“No, it wasn't. The fake House name started after my first fight on the deck.”
+
+Nathalia shook her head. “That didn't count. You didn't gain Influence until the duel, remember? That was for me.”
+
+Ren sighed. “Just... don't say anything, okay?”
+
+Nathalia looked at him in surprise.
+
+“Please.” Ren pleaded and put a hand on her arm. “I'll explain why you shouldn't speak right afterwards, okay?”
+
+She reluctantly nodded.
+
+“Thank you.” Ren said and knocked on the door. There wasn't a window or anything for the person inside to see who was in the hallway, so knocking was the only way they'd know.
+
+“Come in.” A deep voice said.
+
+Ren opened the door and stepped inside. A dwarf, who was bigger around than he was tall, sat behind a huge desk. He had a full head of red hair, a fluffy mustache and full beard. He'd shaved the chin part of the beard and then braided the sides. It was an odd look, considering it let you clearly see his triple chin. Ren knew this was supposed go bad for him, when he confirmed there were no chairs on this side of the desk. Teepo dropped from the wall onto Ren's shoulder as Nathalia shut the door.
+
+“Name.” The fat dwarf said.
+
+“Ren.”
+
+“Ah, yes. The false House claim.” He said and smiled. “Congratulations! You're the first one this year.”
+
+Ren didn't respond, as that would only invite comments that he didn't want to hear, or have to answer. The dwarf stopped smiling when he saw the amount of the fine. “That high? This can't be right.” He said and then shrugged. “There must be a reason for it.” He turned around in his chair to a Sending Stone and touched it.
+
+Ren activated Enchanted Eyes and saw the stone glow.
+
+“Balbold, I've got the false House claim here. About the fine... is that right? Why so much?” The dwarf said, then sat back and the stone stopped glowing. A minute later, it glowed again.
+
+“Gurndim, as far as I know, it's right. Thanyur himself signed off on it.”
+
+The fat dwarf froze, which was quite the feat considering the size of him, and the stone stopped glowing. He sat that way for several minutes, then turned around.
+
+“Well, then. 100 gold coins is the fine.” The dwarf said as Nathalia half-gasped and caught herself. The dwarf handed over three slips of paper. “Here's the contract for labor in the mines, the garnished wages form, and the indentured servant living quarters form. Sign on the bottom, please.”
+
+“Can't I just pay the fine?” Ren asked and deactivated Enchanted Eyes.
+
+Gurndim looked at him like he was crazy. “W-w-what did you say?”
+
+“I want to pay the fine.”
+
+“That's what these are for. It should take you about 6 months to pay it.” The dwarf said.
+
+“No, I mean right now.” Ren said and smiled at Gurndim's shocked expression. “I want to pay the fine right now.”
+
+Gurndim's mouth opened and closed several times before he could make himself speak. “You...” He swallowed. “You want to pay the fine, in full, right now?”
+
+Ren nodded.
+
+“That's never happened before.” Gurndim said in disbelief. “I have to talk to my supervisor.” He stood, or Ren assumed he stood, as his height didn't change at all. He stepped to the side of his office to the wall, knocked on a picture frame and waited. The picture slid into the wall and another dwarf's face appeared in the hole.
+
+“What is it? I'm busy.” He said.
+
+“I have a claimant that wants to pay his fine.” Gurndim said.
+
+“Then just give him the forms. That's what they're for.” He said and started to slide the picture back into place. Gurndim put his hand out and stopped it.
+
+“He wants to pay it right now.”
+
+The supervisor had a shocked look on his face. “You're pulling my leg! No one pays fines right away.”
+
+“This one wants to.” Gurndim said.
+
+“Just a minute.” The supervisor said. Gurndim moved his hand and the picture slid closed. A few minutes later, the picture opened again. “Take the money. It's form 1138.”
+
+Gurndim looked shocked. “We have a form for that?!?”
+
+The supervisor nodded. “I just found that out myself.” He said and slid the picture closed.
+
+Gurndim walked back to his desk, sat down and shook his head. “I didn't know we could handle actual money.” He reached into his desk and searched for a few minutes. “Well, would you look at that!” He said as he pulled out the form and smiled. “It's real!”
+
+Ren smiled. It's always nice to get pleasure out of your work.
+
+Gurndim filled out the form and handed it to Ren. “Just sign there, and there, and initial here.” He said and pointed to 3 different spots. Ren didn't sign it right away, though. He stood there and read it all first. He wanted to make sure that he wasn't signing up for anything he didn't want to sign up for. It took a while, and Gurndim started to get impatient. Ren finished it, signed the 2 spots, and then initialed the last. He handed it back to Gurndim who checked Ren's signatures and initials, then nodded.
+
+“Payment, please.”
+
+“Do you want the hundred coins, or will a platinum coin do?” Ren asked.
+
+Gurndim's mouth dropped open and Ren smiled as he handed over a platinum coin.
+
+Notice!
+
+You have paid your fine in full before the deadline. As this has never happened before, word will spread quickly about your accomplishment.
+
+Influence: +50
+
+Fame: +100
+
+Ren turned around and saw that Nathalia had the exact same expression on her face. He led her from the room and glanced back. Gurndim still sat there with his mouth open, staring at the coin in his hand. Ren smiled and shut the door.
+
+“That went better than I expected.” Ren said.
+
+“R-R-Ren!” Nathalia stammered.
+
+“What?”
+
+“You... you..... you paid your fine!” She exclaimed and then covered her mouth.
+
+Ren chuckled. “Come on. Let's go outside to talk.”
+
+Nathalia nodded and they went outside. Once they were far enough away from prying ears, Ren turned to her.
+
+“Of course I paid the fine.” Ren said.
+
+“No one does that!” Nathalia said. “Everyone works it off. No one actually pays it!”
+
+Ren grinned. “Sorry, but I'm going to be too busy to worry about working off a fine that was completely outrageous.”
+
+“But... but you paid it! If you thought it was outrageous... then why would you do that?” Nathalia said.
+
+“Think about it.” Ren said. “What better way was there to get rid of me, than to send me off to work in the mines for 6 months?”
+
+Nathalia stared at Ren in surprise.
+
+“I know it seems a little selfish of me to think someone would want me out of the way; but, I literally just got here. No one knows I'm here... except for everyone on the ship.”
+
+Nathalia's eyes widened. “Then that means...”
+
+Ren nodded. “After everything that happened on the ship, someone still holds a grudge against me.”

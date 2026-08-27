@@ -1,0 +1,319 @@
+---
+id: 840db55e-5f5c-592f-a9c1-ab25ca999bd7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 249 - Window Dressing"
+slug: 0238-chapter-249-window-dressing
+partOf: mythrans-master-of-all-continued-completed
+position: 238
+ownLength: 3921
+unit: words
+publishedAt: 2017-05-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135048/chapter-249-window-dressing"
+royalRoadId: "135048"
+---
+
+Ren didn't take a lunch break, and smashed boulders until they were gone; then he helped dig access tunnels to new veins of iron ore. After he got the artificial relief and happiness feeling, he worked for two more hours and leveled his Mining Skill up to Intermediate Level 4. He equipped his armor bodysuit for a second to clean up, then equipped his Travelling Clothes again before he went to the medical tent.
+
+“Have you decided to take me up on the offer so quickly?” Deresdra asked, surprised.
+
+Ren shook his head. “I just came to tell you that I worked an extra two hours today, and will keep doing that each day, if I can.”
+
+“That's great.” Deresdra said. “It should only take a couple of weeks to get you back on schedule.”
+
+“Hopefully.” Ren said. “Goodnight.”
+
+“Goodnight.” She said, and gave him a little wave.
+
+Ren left the mine, stopped concentrating on the House Neram pendant, and ran back to House Neram Keep. He still had about 2 hours left before supper, so he went to the workshop to work on the stained glass picture window he'd set up. He needed copper foil to wrap the edges of the glass, and took out one of the copper squares he'd made from the poorly-made copper lamps he'd bought from General Goode's General Goods store. It was too thick to act as foil, but Ren had a simple solution to that. He took out his hammer, pounded the metal, and stretched it out until it was as thin as foil.
+
+Stat Change!
+
+Hammering Level 3 (Advanced 0%)
+
+It was easy to cut up into strips now, and he cut the entire thing up. Ren took a single piece of glass and a piece of foil, wrapped it around the edge, careful to not cover too much of either the front or the back so that the light would shine through, trimmed it to fit, then put it down.
+
+Notice!
+
+You have gained a new skill: Foil Wrapping Level 1 (Beginner 0%)
+
+This sub skill under Glassworking allows you to wrap glass pieces in copper foil so they can be soldered together. Higher levels will allow less foil to be used to achieve the same result, and faster wrapping.
+
+Once that was done, he picked up each individual piece of glass, and wrapped the edges with the copper foil. There were 50 pieces left to do, and after 10 were done, he leveled Foil Wrapping up to Level 2.
+
+Huh. Ren thought. I've forgotten how easy it is to level new things at the Beginner stage. He smiled. I've gotten a lot of my other skills up to Advanced, and they take forever to level up.
+
+With all the pieces done and back in place, and Foil wrapping up to Level 6, all he needed to do was solder them together.
+
+“Supper time.” Teepo said.
+
+That time went fast. Ren thought, and left the workshop. He ran down to the road, and met Nathalia as she came from the restaurant.
+
+“Good evening, Ma'am.” Ren said, and she looked at him with a bit of surprise on her face, then she noticed the guard looking at them.
+
+“Hello, Sir.” Nathalia said a moment later, and the guard opened the gate for them. Ren let Nathalia go in first, then went inside himself and shut the gate.
+
+“This is going to be harder to hide than I thought.” Nathalia said, and Ren kissed her.
+
+“We don't really have to hide it.” He said. “We just can't be obvious about it.”
+
+“Really?” Nathalia chuckled. “How is that possible?” She asked. “We've been all over the city arm-in-arm, and now we can't be obvious about it?”
+
+Ren chuckled. “Okay, that's a good point.” He said, took out his Wand of Entanglement, and shot several web spells into the fire elemental's pen. It came out of the fire and wind enchantments and jumped into the center of the closest web and started to consume it.
+
+“You're going to spoil it.” Nathalia said, then smiled because she saw how much fun the fire elemental was having. “Never mind.”
+
+“Let's get inside.” Ren said. “Supper isn't going to make itself.”
+
+Nathalia nodded and they went into the house. Ren took off his Dire Wolf Hooded Cloak and laid it on the small table, then added a bit more Health potion to the small plate that was there.
+
+“Hi!” Ereka said. “You're just in time.”
+
+“Just in time for... what is this?” Nathalia asked as she saw the small dinner table was set up with plates of food on it, napkins, and silverware.
+
+“It's an intimate dinner for my friends.” Ereka said. “Come on, come on! Hurry up and relax!”
+
+Ren and Nathalia laughed as they sat down.
+
+“You know you really don't have to do things like this every night.” Nathalia said.
+
+“I know.” Ereka said. “You both work so hard, though; and I can't help myself but try and do something nice for you.”
+
+“You work just as hard as us.” Ren said. “When did you get here?”
+
+“About 10 minutes ago.” Ereka said and smiled.
+
+“I appreciate this.” Ren said, and glanced at Nathalia because he could feel how she felt. “We both do.” He said. “We are not going to sit here every night and not include you in our meals, however.”
+
+“It's okay.” Ereka said. “I already ate.” She pointed to the dirty plate on the sink for proof. “You two just enjoy your dinner, and I'll see you in the morning.”
+
+“Ereka...” Nathalia started to say.
+
+“If it makes you feel any better, I'll wait to eat with you tomorrow night.” Ereka said. “For tonight, just enjoy each other's company.”
+
+“You could sit with us and just watch us eat.” Ren suggested with a smile on his face.
+
+“Yes, that would be enjoyable.” Ereka said sarcastically, and then laughed. “Goodnight.”
+
+“Goodnight.” Ren and Nathalia said at the same time, and Ereka left the kitchen as they started to eat.
+
+“She's trying really hard to stay on your good side.” Ren said, when Teepo told him Ereka had gone into the old bedroom.
+
+“Or on yours.” Nathalia said. “Have you thought about her offer?”
+
+“I have.” Ren said. “Have you?”
+
+“I want to hear what you think before I say anything about it.” Nathalia said, and took another bite of food.
+
+“That kind of defeats the point of asking for your advice first.” Ren said and smiled. “Actually, we both know what it's like to be with someone that you care about for the first time being intimate.”
+
+Nathalia nodded slightly.
+
+“If I can give that to her, knowing that it would be better for her if it was with someone she cared about, instead of some stranger who couldn't care less about her feelings...”
+
+“That's what I was thinking, too.” Nathalia said. “She reminds me of that girl you told me about.” She said. “Jhulune, wasn't it? From the lumber yard?”
+
+Ren nodded slightly.
+
+“She had a bad experience with her first intimate contact, and it almost went horribly wrong.” Nathalia said and took his hand. “She was traumatized by it; and then you helped her get over that a little.” She smiled. “Rather than try to repair the damage after the fact this time, perhaps helping her first might be better.”
+
+“Yeah.” Ren said, then thought about it. “I hope Jhulune's doing okay.” He said. “I haven't seen her since she helped build the restaurant on the Aurora side.”
+
+“That long ago?” Nathalia asked, a bit surprised. “I thought...”
+
+Ren smiled. “That I was running around and trying to catch up with all the women I know?”
+
+“Yes, actually.” Nathalia said and grinned.
+
+“I only slept with Elerlyth while I was in Aurora.” Ren said. “And that was just to feed her.” He took a deep breath and let it out. “Now that you've reminded me, I'll tell you about how I met the Queen of the Dark Elves.”
+
+Ren went through the story, and Nathalia ate absently as he relayed the events as they had happened.
+
+“Wow.” Nathalia said, afterwards. “I agree with Elerlyth. How in the world did you get away from her after only...”
+
+“I think it's because she doesn't normally feed that way.” Ren said. “It was new enough for her to meet someone that was willing to feed her, who wasn't so terrified of her that they couldn't give her a good meal.”
+
+Nathalia had wide eyes as he explained, and then she smiled. “That's why she gave you the mark.”
+
+“What?”
+
+“She wanted to thank you... I think.” Nathalia said. “If all she's ever had was terror...”
+
+“... then getting almost anything else to eat would fill her up quickly.” Ren finished the sentence.
+
+“Exactly.” Nathalia said. “Even if she'd kept you, it would have taken her a while to feel hungry again after that.”
+
+“Breaking both of my arms kind of ruined the mood for me, too.” Ren said, and Nathalia shook her head.
+
+“She could have killed you, and you're making a joke about it?”
+
+“I've met lots of things that can kill me.” Ren said. “If things keep going the way they're going, I'm more than likely to meet more of them.” He smiled. “If I can't look back at it and laugh, then it wasn't a good experience to have.”
+
+“Hold on.” Nathalia said. “Are you telling me that...” She shook her head. “By the gods, Ren!” She stared at him. “Do you think being stepped on by a giant was a good experience?”
+
+“Actually, yes.” Ren snorted a laugh. “How many people can say that they know what a bug feels like?”
+
+“You're crazy!” Nathalia said. “That was not a good experience for you to have!”
+
+Ren smiled and took her hand. “Nathalia.” He said in a soft voice. “You've seen some of the experiences I've had.”
+
+Nathalia nodded slightly, her face covered in sadness.
+
+“I've even told you about some of the others that I can remember.” Ren said. “Can you honestly tell me that getting stepped on was the worst thing that has happened to me?”
+
+Nathalia sighed, and shook her head.
+
+“There's degrees of good and bad.” Ren said. “Experiences can be good or bad. Or they can be both good and bad.” He smiled. “It all depends on how you look at it.”
+
+“Ren...”
+
+“A lot of bad things happened to me, but I got through it.” Ren said. “I've also met some great people.” He squeezed her hand. “I won't let things like that make me sad.” He smiled. “I don't want them to make you sad, either.”
+
+“Oh, Ren.” Nathalia said. “What am I going to do with you?”
+
+“You asked me that before.” Ren grinned. “What was my answer then?”
+
+Nathalia smiled. “Anything that I want.”
+
+“Right you are, My Love.” Ren stood up, and Nathalia stood up with him. “So, what do you want to do with me first?”
+
+“I want you to throw me over your shoulder and carry me off to bed.” Nathalia said.
+
+“As you command.” Ren said, picked her up and put her over his shoulder, then took her to her bedroom. Nathalia laughed as he dumped her onto the bed, then he climbed onto the bed himself. After an hour or so of having fun, they snuggled under the blanket together, then went to sleep.
+
+*
+
+Lylyth wasn't sure what had happened at first. Her connection with Ren had disappeared for several days, and she thought he was dead; but when the spider didn't return to her after the first day, she remembered that he was an Adventurer. More than likely he would disappear occasionally, and without explanation. It was frustrating for her, because she had grown accustomed to his little spurts of emotions in only a short while. While she fed normally on fear and terror, he had shown her that even though the other emotions weren't as tasty, they were still good enough to eat.
+
+The last series of emotions from him had been absolutely scrumptious. She was only getting traces of it, and not the full effect like she would if she were touching him. At this point, though... she didn't care. The constant flow of emotions from him, weak though they were; were still far in excess of anything she had ever felt from any of her other marked ones.
+
+*
+
+The night passed quickly, and Ren woke up early the next morning. He wanted to get as much time in at the mine as he could, so he could come back to his workshop and finish his first stained glass window. He kissed Nathalia goodbye, and she mumbled something. Ren thought she had said 'have a good day'; so, he left the house with a smile. He put on the Dire Wolf Hooded Cloak and Teepo landed on his shoulder.
+
+Ren didn't bother with breakfast this time and gave Princess some food instead; even though he knew she would be getting more later for her regular feeding. He concentrated on his House Neram pendant and ran down the road, through the city, then out to the mine in only a few minutes. With no one on the streets so early in the morning, he didn't have to slow down at all. When he arrived at the mine, he didn't recognize the guard at the gate; but, the guard opened it for him when he approached.
+
+“Good morning, sir.” The guard said. Ren nodded slightly to him, then ran through the open gate and up the road. He arrived at the medical tent, and was surprised by what was inside. It wasn't Deresdra like he had expected.
+
+It was a man.
+
+“Who are you?” Ren asked the man wearing a healer's tunic.
+
+“I'm the replacement healer for when the regular healer has the day off.” The man said. “You must be Ren.” He said. “You already know that the curtained-off area is where the examinations are held; so, go on in and take your clothes off.”
+
+Ren's breathing sped up and he shook his head. He bent over and tried to do his calming exercises.
+
+“Is anything wrong?” The healer asked, and Ren stood up fast and held his hands up.
+
+“Yes.” Ren said. “I... I can't take having...” He shook his head again. “I don't...” He took a deep breath. “Is there someone else that can do the examination?”
+
+“I'm sorry.” The healer said. “The other healer isn't here... and even if she was, her examination on her day off wouldn't count because I am the registered healer for today.”
+
+“So, only you can...” Ren clenched his fists to stop himself from trembling. “Will the normal healer be back tomorrow?”
+
+“Yes.”
+
+Ren turned around and walked out of the medical tent.
+
+“Hey! Wait a minute!” The healer said and ran to catch up to him. “You can't work if you haven't been examined!”
+
+“I'm not going to work.” Ren said. “I'm taking the day off.”
+
+“According to the notes, you just started working here again only yesterday.” The healer said. “You can't take the day off today!”
+
+“I'm allowed to take a day off once a week.” Ren said. “If I show up and you're here, it'll be that day.”
+
+“That's very rude of you.” The healer said. “What did I ever do to you?”
+
+“Nothing.” Ren said. “And I'm going to keep it that way.”
+
+Ren ran down to the gate, and the guard was surprised to see him back so soon.
+
+“Is everything all right?” The guard asked as he opened the gate.
+
+“No.” Ren said, and ran down the road.
+
+********
+
+“I'm so sorry, Ren.” Barbara said as she held onto his hand. She was proud that he'd handled the situation as well as he did; but, she was also saddened by it. Ren's phobia of having men manhandle him, had plagued him for years.
+
+He can never remember why he is always so afraid to have men examine him. Barbara thought and looked back at the television screen to see Ren enter his workshop. But, after seeing that footage of the experiments he relived in the game... Barbara shivered. I honestly can't blame him, either.
+
+********
+
+Ren just stood there in his workshop and repeated his breathing exercises to calm down.
+
+“Dorcot coming in.” Teepo said as he skittered under the door and flew to Ren. The door opened, and Dorcot came in.
+
+“Ren!” Dorcot said and came over to him to give him a handshake. “It's so nice to see you.”
+
+“I've been meaning to come in and change out another crate of diamond crystals for you.”
+
+“Yes, I've had almost nothing to do for nearly two weeks.” Dorcot said, then clapped Ren on the shoulder. “That's okay, though.” He smiled. “Angeilin has been keeping me busy.”
+
+“I'm glad.” Ren said. “I've been a little negligent in keep track of everything.”
+
+Dorcot laughed. “You were gone for a month!” He exclaimed. “I'm surprised you remember anything that you have going at all!”
+
+Ren chuckled. “Yeah, it's a lot.”
+
+“Come on over to my workbench.” Dorcot said. “All of my nooks and crannies are full of 1 gold coin diamonds that I don't know what to do with.”
+
+Ren went with him to the desk and took the enormous amount of small diamonds from his drawers, shelves, and even two small sacks. Ren dumped them into inventory, and was surprised by the amount.
+
+“15,300!” Ren nearly exclaimed, and Dorcot laughed.
+
+“My boy, having to cut so many diamonds, all the exact same size, from every different size crystal that was in the two crates you left me...” Dorcot grinned. “I was surprised there wasn't more.”
+
+“The amount of diamond dust you must have now...”
+
+Dorcot moved one of the crates out of the way, and behind it was a stack of diamond dust encrusted cloths, just over 2 feet high.
+
+“Can I have some of them?” Ren asked.
+
+“Help yourself.” Dorcot said. “I make more of them every day, and I haven't even worn out the first one I made yet.”
+
+Ren took about half of the stack, which turned out to be 130 pieces of cloth. “Thanks.”
+
+“This is all yours anyways.” Dorcot said. “You don't need to ask me to take your own things.”
+
+Ren gave him 138 platinum for the 1 gold coin diamonds, which was the cost minus 10%. Dorcot shook his head as he looked at the money.
+
+“By the gods, what am I going to do with all of this?”
+
+“Hide it, of course.” Ren said as he sewed up a bunch of sacks that were the same size as the other two sacks of diamonds that he had. “If your kids find out how rich you are now...”
+
+Dorcot laughed and laughed as Ren piled the diamonds into the sacks and stored them. He looked into the two crates, and saw they were nearly three-quarters full of 1 inch wide diamond ovals.
+
+“These are perfect.” Ren said, and stored the two crates into their own slot, so that they wouldn't get mixed up with the uncut diamonds, or with the already cut diamonds that were different sizes. “Thanks, Dorcot.”
+
+“You're welcome.” Dorgot said. “Now hurry up and give me another crate before I go mad with boredom.”
+
+Ren laughed and gave him two more crates of oddly-sized diamond crystals. “Make whatever you want from these ones.” He said. “I've pretty much got enough of the same-sized ones to last a lifetime.”
+
+“Good.” Dorcot said. “I know I told you before that having a task to do... making diamonds all the same size... would get me focused and working hard.” He smiled. “It did, but... by the gods, it was boring!”
+
+Ren pat his friend on the shoulder. “Have fun.”
+
+“You can count on that.” Dorcot said, grabbed a random crystal from one of the crates, and sat down to work. Ren went over to his own workbench to get back to work himself. He looked at the over-sized workbench, then looked across the workshop to the forge room.
+
+“I guess I'll have to use a crucible instead of just using my hands.” Ren said and went to the forge room. He took out the crucible that he had used to hold molten metal when he'd joined the steel bars together for both molds of the Main Houses that he had built. He dipped it in one of the smelters and scooped out a large amount of molten metal. Using his finger, he cleaned the molten metal off the outside and stored the crucible, then wiped off his finger on the edge of the smelter.
+
+Ren went back out to the workbench and looked at the great picture of Fire Dancer that he'd made. He didn't want to ruin it before testing if he could solder it like he thought he could. He picked up one of the scrap pieces of glass, scored it with his scoring tool, and wrapped the edges in copper foil. He took the same care and attention that he did with the real picture, and laid the two pieces together.
+
+“Here goes nothing.” Ren said as he took out the crucible of molten metal, dipped the tip of his finger into it, and caught the excess on the edge of the crucible. “Okay.” He stored the crucible, held the two pieces of glass together, then lightly dabbed his finger on several spots where the copper foil of each piece touched the other. He used his other hand to absorb the heat, so the copper wouldn't change colors from the temperature change. It didn't melt the metal away, and Ren smiled. He rubbed his fingertip with the molten metal along the seam and absorbed the heat. He waited a moment, then picked the piece up.
+
+Notice!
+
+You have gained a new skill: Soldering Level 1 (Beginner 0%)
+
+This sub skill under Smithing allows various metals to be attached to each other using molten metal. Higher levels will allow faster speeds and less visual evidence soldering has occurred.
+
+“Yes.” Ren said as he saw the soldering had held, and hadn't broken the glass as it cooled. “I'll test this a bit more before doing the real picture.” He said, and picked up another piece of glass to wrap the edge in foil. “Just to make sure this first time wasn't a fluke.”
+
+Ren did the same procedure again, took his time, and successfully joined another piece to the two he'd already done. The solder didn't look as nice, because he had tried to spread the molten metal out too much.
+
+“Okay, dab the corners and center of the join, then the middles of those, and then run the line of molten metal in between.” Ren said to himself as he did the next piece. “I have to keep an even amount of metal going, or it messes up.” He said, and did another piece. “Ah, that's better.”
+
+Ren picked it up and looked at his creation. Five different colored pieces of glass were successfully joined together, and it was actually quite sturdy. He'd even leveled up Soldering to Level 2.
+
+“Once it's mounted in the proper frame and window treatment, it's going to look awesome.” Ren said, put the test piece aside, and looked at the actual picture. He smiled, dipped his finger into the crucible, and started to work.

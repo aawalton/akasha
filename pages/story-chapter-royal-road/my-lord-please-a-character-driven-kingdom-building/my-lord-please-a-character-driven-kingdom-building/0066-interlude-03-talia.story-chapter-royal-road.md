@@ -1,0 +1,575 @@
+---
+id: 9e65f328-7ce0-5708-adb9-dcb49213e6ec
+page-type-slug: story-chapter-royal-road
+title: "Interlude 03 Talia"
+slug: 0066-interlude-03-talia
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 66
+ownLength: 4861
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3408384/interlude-03-talia"
+royalRoadId: "3408384"
+---
+
+Sarah grew up in a pretty standard household.
+
+If she had to name anything unusual about her life, it would be her sickeningly affectionate parents. Even after years of marriage, they still made kissy faces at each other in the mornings. It had made her cringe when she was younger.
+
+She learned to appreciate that sort of thing as she grew older though.
+
+Her own social life throughout school had always been easy. Say the right things at the right time. Laugh just before the silence stretched too long, and shift the topic when the air grew heavy.
+
+Friends? She had dozens by her first year in junior high, and she had never tried for them. People were easy to get along with when you knew how to smooth things over.
+
+It worked.
+
+That was the problem.
+
+One evening, over dinner with her parents, her mom asked her a simple question.
+
+Which of them would she consider her closest friend?
+
+For once, she couldn’t answer easily, and the realization made her oddly self-conscious.
+
+After that, her dad pulled her aside, exchanging a knowing look with her mom. The kind parents gave when they already knew the answer to life’s problems.
+
+“What is it, Dad? I’m busy,” she muttered petulantly.
+
+He raised a brow. “Busy, huh? Didn’t know homework was giving you that much trouble.”
+
+Sarah winced. They both knew she never had problems with her grades. Her schoolwork was usually done within an hour of getting home.
+
+Dad didn’t press, he was cool like that. “It’s hard making a friend, huh?” he said instead.
+
+She stared at him blankly. “Dad, you know I never have trouble with that sort of thing.”
+
+He let out a light chuckle. “And you know I wasn’t talking about that.”
+
+Sarah sighed and simply looked out the window of their suburban home. Their neighbors were arguing again, she realized, watching the couple next door walk toward their car.
+
+“Ugh, he’s going to try to get me to go out for a drink again.” Dad groaned in mock despair. He had followed her gaze and caught it too.
+
+“Yeah. You gonna turn him down like usual, Dad?”
+
+“Nice try, kiddo,” he replied easily.
+
+“Ugh, what do you want me to say anyway?”
+
+“Nothing, actually.”
+
+Sarah gave her dad an incredulous look. He simply leaned against the wall beside the window, his gaze drifting out toward the ordinary streets of their suburban neighborhood
+
+She sighed again, then moved to take a seat. They were going to talk anyway, might as well get comfortable.
+
+For a time, they simply looked outside, and the silence settled easily between them. Despite her initial reluctance, she enjoyed moments like this with her parents.
+
+“It’s boring, isn’t it?”
+
+Her eyes flickered to her dad, then back out again. “Yeah. Kinda.” A rare solemn tone crept into her voice.
+
+“I had the same problem once. When I was your age,” he replied lightly.
+
+“Does it get better?” Sarah asked. She wasn’t sure if she wanted to know the answer.
+
+“Maybe. Depends on your luck, I guess,” he answered easily, his eyes drifting toward the kitchen for half a beat.
+
+She let out a soft groan. “Guess I shouldn’t complain that much. There are worse problems in life,” she mumbled.
+
+“Well, luck’s overrated anyway. If you think it’s too easy, make it a little more difficult yourself, then.” He looked over to meet her eyes.
+
+“Ehhh...that’s a little...” she trailed off, prompting her dad to bark out a laugh. He reached over and lightly flicked her forehead, drawing an indignant squawk from her.
+
+“Come on, your mother’s been wanting to watch that series again,” he said as he pushed off the wall and stretched.
+
+“Ugh, isn’t that the second time this month? Can’t I pass?”
+
+“Nope. If I have to suffer through it, you do too. Besides, I thought you girls loved that kind of show,” he shot back as he turned toward the living room.
+
+“Yeah, the first time. Not the hundredth,” Sarah replied, following him anyway.
+
+It hadn’t been much of a talk, but she found her steps lighter.
+
+Her dad was cool like that.
+
+They never had to say things directly.
+
+She probably got that from him.
+
+Sarah didn’t think too hard about her career choice when the time came. There were many, far easier options she could've gone with. Instead, she decided to try something a little more difficult and new.
+
+And so, she chose to be a programmer. Her dad laughed when she told him but didn’t say much after that. Mom just shook her head ruefully though she did remind her not to cause issues at work, like she was a little kid again.
+
+The company she picked after graduating was a pretty average one. The others were too high-strung for her taste. It’s not like she cared all that much about the salary just as long as it was enough to pay the bills.
+
+As for the workplace itself, the people there were pretty blunt compared to what she was used to. Their interests were different too, though she had expected that much.
+
+Despite those differences, she got used to the environment at work pretty quickly too and while her own skillset was somewhat lacking, she could keep up if she tried harder and spent a little more time at it.
+
+Sarah assumed it would become like any other place, given enough time. The only thing unusual about her office was the constant gossips about a certain colleague.
+
+She had thought it was just someone socially awkward and despite their age, people didn’t really change much when it came to things like this, even after school.
+
+Sarah was having lunch with a group when gossips about him came up again.
+
+"He really doesn't speak much huh? I asked him out for lunch with us but he just shook his head." someone said, a slight snark in her tone.
+
+One of the guys, sitting at her side let out a sigh tinged with envy. "That guy's pretty good at his work though. He fixed up a bug I had been struggling with before I even came back with coffee for him."
+
+"Ah, yeah. That's pretty much the only thing anyone knows about him in the office, I swear, that guy loves that drink a little too much." the snarky woman muttered, shuddering.
+
+"...You know the reason why." Another woman cut in, something like morbid wonder in her tone.
+
+"Ugh, don't remind me. Who the hell doesn't have social media in this day and age?"
+
+Sarah couldn't help but cut in. "Wait, he doesn't have social media? At all?"
+
+"Heh, Sarah. He's someone we like to call the office miracle worker." The guy sitting at her side said, a hint of schadenfreude in his tone.
+
+"Maybe he frequents a forum or something? Youtube comments? Some people go for that sorta thing." Sarah asked, a little more curious now.
+
+"If he does, then he must be using some weird ghost account method because I am one of those people." The snarky woman pointed out.
+
+"...So he doesn't have an online presence? Not even a little?" Sarah pressed, a crease in her brow.
+
+"He doesn't have any presence at all. Real life or online. That guy just doesn't talk to people." The guy beside her replied.
+
+"...It's not even like he can't do it. I had to work with him a few times and we were talking just fine, that's the strangest thing about it." The woman who had the morbid tone sighed, "It's like he actively chooses not to engage in anything social with others."
+
+...Now that was strange. Most people like that had reasons, like being too shy or awkward. She hadn't encountered anyone that simply chose not to do so.
+
+And really? No social media at their age? That's a weirdo right there in her books! Sarah inwardly chuckled to herself.
+
+Their lunch was pretty much spent gossiping about their company's miracle worker. Before long, the conversation drifted as it usually did, moving from one topic to another before settling into nothing in particular.
+
+By the time Sarah returned to her desk, the earlier curiosity had already begun to fade into the background. She reluctantly resumed her work, once again going through the usual routine stuff. Nothing that was particularly difficult, just the kind of things that needed to be done on a daily basis.
+
+Or at least, that was how it should have gone.
+
+A small prompt blinked on her screen.
+
+Sarah let out an exasperated sigh, leaning in to read through it again. It didn't seem like a complicated problem, just a minor bug buried within a larger function. It was the sort of thing that could've been resolved with a few adjustments.
+
+"Hmm..." Her fingers moved across the keyboard, testing one approach, then another. She scoffed inwardly, wondering whose idea it had been to choose a line of work where the flow of things wasn't as clear to her compared to other stuff.
+
+Yep, nice going, past me.
+
+The prompt blinked once more, her eyes narrowing slightly as she leaned forward from her desk. Surely the solution couldn't be that difficult, it was just a little off.
+
+“Okay…” she muttered under her breath, fingers moving again.
+
+Sarah made a few more adjustments, clicking the execute button a little harder than she needed to.
+
+And as if the code she'd been trying to fix was mocking her, the test ran fine for a brief moment. Then the error came back again, this time with something extra tagging along with it.
+
+She blinked. "...Huh."
+
+What should have been a simple bug no longer looked simple anymore. And for the first time since she had joined, the solution didn't come as easily.
+
+She stared at the screen for a breath longer. "...Okay. That's new."
+
+The error hadn't gone away despite Sarah’s repeated attempts. Each one felt close enough to work, just a little off in a way she couldn't quite pin down.
+
+She leaned back in her chair, exhaling through her nose as her gaze lingered on the screen. The logic was right there, dangling in front of her yet remaining just far enough out of reach.
+
+'Might as well ask', she inwardly sighed.
+
+It’s not like it was anything complicated. Someone would probably spot it at a glance.
+
+Sarah made her way over to the nearest desk, leaning slightly against the edge as she gestured vaguely toward her screen. "Hey, can I get a second opinion on something?"
+
+The guy from lunch glanced up briefly, then back at his monitor. “Hmm? What is it?”
+
+“Just a small bug,” she said easily. “It’s probably something obvious.”
+
+“Ah.” His response came a beat slower this time. “I’m in the middle of something right now. Maybe check the documentation first?”
+
+“Mm, I did,” she replied lightly. “Didn’t quite match what I was seeing.”
+
+“Then...maybe try running it through again?” he offered, already turning his attention back to his work.
+
+“…Right.”
+
+Sarah straightened, stepping away as she moved toward another desk instead.
+
+“Hey-”
+
+“Oh, uh...” The snarky woman from lunch hesitated, her eyes flicking briefly toward Sarah’s screen before shifting away. “I’ve got something due soon. Maybe later?”
+
+“Sure,” Sarah replied easily as she stepped back.
+
+It was only after she sat down that something felt...slightly off. Their exchanges didn't seem wrong or anything but...the way it had flowed didn't seem like the usual thing.
+
+She rested her chin lightly against her hand, her gaze drifting across the office. Nothing stood out to her, the mood around the office was just like any other day.
+
+And yet—
+
+A small pause, just a fraction too long, when she had approached. And the responses that came just a beat later than it should have.
+
+She had seen this before.
+
+Many times.
+
+Her fingers tapped lightly against the desk.
+
+…Ah.
+
+The realization came quickly, a stark contrast to the error in front of her.
+
+Sarah leaned back in her chair, her gaze returning to the monitor. She exhaled softly through her nose.
+
+That was new too.
+
+It was pretty much the same thing for the rest of the day. If anything, the distance became easier to notice once she had seen it.
+
+Conversations that would have included her before now curved around her instead. Small discussions ended just as she drew near whenever she went to take a breather. Even the casual back-and-forth that filled the space felt...slightly out of reach.
+
+Sarah didn’t comment on it, she knew this was the sorta thing that was normal. People reacted to mistakes made by others in much the same way.
+
+Her gaze drifted back to the prompt on her screen, earning another tired breath from her. Seems like today was gonna be a long day, she rolled her shoulders once before leaning forward again.
+
+If no one was going to point it out, then she would just have to work through it herself. It wasn’t the first time she had needed to spend a little longer on something.
+
+This time around, it would just be longer than usual.
+
+The office gradually thinned as the day wore on, the earlier noise settling into a quieter rhythm. A few people left, others remained, the soft hum of work continuing without much change.
+
+At some point, Sarah pushed herself back from her desk, stretching lightly as she stepped away to go to the restroom.
+
+As she made her way back to her cubicle, she paused. Her gaze fixed on the screen that now showed...nothing. That persistent prompt that had been plaguing her all day was no longer there.
+
+Sarah sat down, leaning forward to examine the structure of the code. The changes had been minimal, just a few lines adjusted here and there. One of the conditions rewritten in a clean way that had minimal overhead.
+
+Sarah blinked once.
+
+“...Huh.”
+
+Her eyes scanned through it again, slower this time.
+
+This wasn’t someone brute-forcing a workaround. It was properly fixed and it was definitely not by her hands.
+
+Sarah’s gaze lifted from the screen, drifting across the office. Like before, no one met her eyes or said anything. The earlier distance remained as if nothing had happened at all.
+
+Her fingers tapped lightly against the edge of her desk. Someone had clearly stepped in and yet they hadn't said anything to anyone. Not a single word or call for validation that they had solved it.
+
+She looked around the office once more, giving it a more thorough look before she stilled.
+
+At the far end of the office, someone sat alone.
+
+His head was lowered, focus fixed on the monitor before him. A cup with coffee stains rested near his hand, long forgotten as its contents had clearly gone cold.
+
+The rhythm of his keystrokes was subtly different from the others, it was only because she was paying attention that she could even hear it.
+
+He didn’t acknowledge anything around him.
+
+Yet when the woman with the morbid tone approached to ask a question, he immediately turned to face her. They spoke only briefly but his attention remained fixed on the woman he was speaking with. He didn't turn toward his screen during their brief exchange, only doing so when it was done.
+
+She had seen that before.
+
+Just not from them.
+
+Sarah watched him for a moment longer. She already knew who it was that had fixed it. There was literally no one else that it could be.
+
+She leaned back slightly in her chair, her gaze lingering there for just a breath before returning to her screen.
+
+No one had said anything or stepped forward. That didn't surprise her, it was the normal thing to do. People prioritized their own image first and avoided mistakes that weren’t theirs.
+
+Her eyes lowered from her screen toward the sterile office desk.
+
+“...And one person didn’t.”
+
+A moment later, Sarah lifted her eyes toward the monitor in front of her once more, resting her chin against her hand.
+
+The corrected portions of the code had no signature or comments. No trace had been left behind, like a certain man who had no presence both online and in the real world.
+
+“…Weirdo.” She muttered, the word carrying a different meaning than before.
+
+Sarah decided not to choose her usual approach this time around. Even for her, walking up to the office’s resident weirdo and asking if he had fixed her mistake felt a little too direct.
+
+Still, there were other ways to see if she was right.
+
+The next morning, she arrived a little earlier than usual. Not too early, but at just the right time to avoid looking suspicious.
+
+The office was quieter at that hour, with only a few of the monitors lit. Someone in the corner was setting down a bag with far more force than necessary. The air carried that familiar stale chill offices always seemed to have before the day properly began.
+
+And there he was.
+
+Right where she had last seen him, sitting in the same posture with the cup placed in the same spot as yesterday.
+
+Sarah slowed just as she passed his desk on the way to hers, only to pause a few steps later as though remembering something.
+
+Then she turned back. “Morning, miracle worker,” her tone light and teasing.
+
+The man looked up, no visible change in his expression.
+
+He gave a small nod. "Morning."
+
+She let the silence stretch for half a breath before tilting her head. "You always come in this early?"
+
+"Yes."
+
+His voice remained unchanged, a calm, even cadence to it. There wasn't even a hint of confusion over why she was talking to him. He just answered and looked back at his screen as if that alone should've concluded the exchange.
+
+The monitor was angled away, but from what little she could see, he had already opened several windows. Bits of code, logs, and something else she didn't recognize at a glance.
+
+He worked fast.
+
+Not in the frantic sort of way some people did whenever they wanted to look busy. His pace was efficient, clean. Like the fix she saw yesterday. It was like he already knew where he was going before his hands moved across the keyboard.
+
+"...You know," she said casually, "someone fixed a bug for me yesterday."
+
+There was no reaction, at least on the surface. His fingers paused only for a fraction before continuing.
+
+Sarah caught it.
+
+"Oh?" he replied.
+
+That was all. No fake surprise or curiosity. No follow-up questions about it.
+
+Just a single word.
+
+"Mm." She rocked back lightly on her heels. "Pretty neat fix too."
+
+This time, he gave a small nod without looking away from the screen. "That's good."
+
+Sarah stared at him for a breath, the corner of her mouth twitched upward.
+
+What a strange person.
+
+Most would've said something about it by now. Claimed the credit in some roundabout way or at the very least, hinted at it.
+
+The man before her did none of those things, he just kept working. Like none of it had anything to do with him.
+
+“…Right,” she said at last. “Well, see you around then, miracle worker.”
+
+Sarah turned and walked back to her desk before he could answer. By the time she sat down, her suspicions had already been confirmed.
+
+He really had done it.
+
+And for some reason, he had done it like it was the most natural thing in the world.
+
+Sarah didn't approach him again later that day. Or the next several days after.
+
+Instead, she decided to watch in between breaks.
+
+The air in the office remained the same.
+
+People still talked the same way they always did. Conversations flowed easily when things were going well and shifted just as quickly when they weren’t. Small mistakes became passing topics. Larger ones lingered a little longer, softened just enough to avoid naming anyone directly.
+
+Yet there were gaps beneath them. Places where things didn't quite line up.
+
+The man who had told her to check the documentation first, laughed a little too easily when someone else mentioned a mistake during lunch.
+
+The snarky woman still leaned in when conversations drifted toward problems, but never when they needed solving.
+
+It was the normal thing, people simply protecting their own image. Sarah had always been pretty good at it too.
+
+Which was why the difference stood out so clearly to her. And she found her gaze drifting once more, almost unconsciously toward a certain spot in the office.
+
+Leon was sitting at his desk, as he always did. His eyes remained fixed on the screen in front of him. And when conversations drew close to him, he made no attempts to join in.
+
+And yet—
+
+When someone approached him, he turned away from his monitor to respond. His full attention remained on the exchange before him.
+
+She had seen it twice now.
+
+Once, when a senior developer stopped by with a question, Leon turned fully toward him, listening quietly before replying in a few short sentences. The exchange ended quickly, but there had been no impatience in it.
+
+Another time, when someone hesitated at the edge of his desk, unsure whether to speak, he had looked up first.
+
+“…What is it?”
+
+The words were simple.
+
+Like he had already decided that if someone came to him, then they mattered enough to listen.
+
+Sarah leaned back in her chair, gaze lingering on him from the corner of her eye.
+
+Weird and unsociable. That was how people described him. But the more she watched, the less that felt accurate.
+
+Leon simply didn’t move unless there was a reason to.
+
+Most people in the office were always adjusting in small, constant ways. Conversations shifted depending on who was listening. Reactions were measured, and even silence carried intent. It was all part of maintaining a certain image, whether consciously or not.
+
+Leon did none of that.
+
+If something needed to be done, he did it. If someone spoke to him, he answered. And when neither applied, he continued working as though the space around him didn’t require anything more.
+
+Her fingers tapped lightly against her desk. “...He doesn’t optimize for himself,” she murmured under her breath.
+
+It was an odd way to phrase it, but it fit too well to ignore.
+
+Everyone else had seen her mistake and reacted to it in their own way. Some avoided it entirely. Some acknowledged it just enough to distance themselves. Others circled around it, letting the conversation carry the implication without ever saying anything directly.
+
+Leon had fixed it.
+
+Not to stand out or gain anything from it, but simply because it was there.
+
+Sarah’s gaze lowered to her screen, though she wasn’t really seeing it anymore.
+
+That kind of behavior didn’t align with anything she was used to. Not when people were constantly aware of how they appeared to others.
+
+And yet, he had done it without hesitation.
+
+“...What a waste,” she muttered, though a breath later, her lips curved faintly. “...Or maybe not.”
+
+The next day, she walked up to his desk again without a reason.
+
+“Senior.” The word slipped from her lips naturally.
+
+Leon looked up, pausing briefly before repeating it. “…Senior?”
+
+“Mm.” She nodded, a teasing look on her face. “You look like one.”
+
+He regarded her for a moment longer before giving a small nod. “…I see.”
+
+That was all he said before turning back to his screen.
+
+Sarah blinked, then a grin formed naturally on her lips.
+
+'Interesting.'
+
+The next few days went by without much change on the surface.
+
+Sarah continued her usual routine at work, slipping back into conversations when it suited her and stepping away just as easily when it didn't. From the outside, it would've looked no different from before.
+
+But there was a shift in how she chose to spend her time. She found herself walking past the same desk more often.
+
+"Senior."
+
+Leon looked up. Despite the past few days of her addressing him that way, he hadn't questioned it since the first time.
+
+"Yes?"
+
+"I'm bored!"
+
+"...I see."
+
+That was all he said. No follow-up or attempt to fill the silence.
+
+Sarah leaned slightly against the edge of his desk, completely unbothered by the lack of response. "Aren't you gonna say something?"
+
+"What would you like me to say?"
+
+She tilted her head before grinning. "Wow, you're really bad at this."
+
+Leon regarded her for a brief moment, before returning his attention to the screen. "I have work to do."
+
+"Cold," she muttered, though there was no real bite to it.
+
+She didn't leave, her eyes drifted toward his monitor. The lines of code moved steadily as he worked, the pace unchanged from what she had come to expect. His movements were as efficient as always.
+
+"...You always work like this?"
+
+"Yes."
+
+"Doesn't it get tiring?"
+
+"No."
+
+Sarah narrowed her eyes slightly, as if trying to find the flaw in that answer. Then, a curve appeared naturally on her lips.
+
+"You're weird!" The words carried an easy teasing tone.
+
+"I've heard that."
+
+"Doesn't bother you?"
+
+"No."
+
+Their exchanges were short and the words were cold. Yet she found herself returning again the next day.
+
+And the day after that.
+
+Sometimes she asked questions about work but most of the time she just came over, leaning against the edge of his desk in what had become her usual spot now. She talked about whatever came to mind, shifting topics mid-sentence without warning just to see if he would react.
+
+He didn't.
+
+Not in the way she expected. Leon didn't stop her once, or tell her to leave. He never showed a hint of irritation but he also never adjusted himself to match her pace.
+
+He simply responded when spoken to and immediately continued working after.
+
+At some point, she started bringing an extra cup of coffee along. She placed it on his desk without comment the first time.
+
+Leon glanced at it briefly. "This is yours."
+
+"Nope!"
+
+"...I didn't ask for one."
+
+"Mm. I know."
+
+He paused, then inclined his head once. "Thank you."
+
+That was it, no further questions or any attempt to return the gesture.
+
+Sarah watched him for a time, before letting out a soft breath through her nose.
+
+Consistent.
+
+That would probably be what she would say if asked to describe the man before her.
+
+Not warm or cold.
+
+Just an unchanging way in how he interacted with the people around him.
+
+Her eyes lingered on him before she straightened. "Senior."
+
+"Yes?"
+
+"You should take a break sometimes!"
+
+"I do."
+
+"...When?"
+
+"When it is necessary."
+
+She huffed lightly. "That's not what I meant."
+
+Leon didn't respond which was what she had come to expect until he spoke once more, "I take my leave days, like everyone else."
+
+Sarah stared at him, slightly caught off guard. Not at the words themselves but that he had actually followed up with something.
+
+"So what do you do during those days?" she asked curiously.
+
+"Read."
+
+The answer drew a soft laugh from her. That sounded like a hobby her senior would like. "What kinda books do you read, Senior?"
+
+"Light novels."
+
+Sarah tilted her head, it was not a category she was familiar with.
+
+Once again, Leon surprised her. His hand moved unhurriedly toward the drawer on his desk where he kept his phone. He unlocked it then tapping something on the screen before handing it to her without a word.
+
+She glanced at the screen, seems like it was some kind of young adult fiction. It was a rather unexpected genre her senior was interested in.
+
+Sarah made a note to investigate her senior's hobby later. Instead, she tapped on the screen a few times, committing something to memory before she handed the phone back.
+
+Leon was not even looking at her anymore. Like usual, his eyes had shifted to the screen in front of him even as he took the phone from her hands.
+
+He only paused when it rang once. His eyes glanced toward it then a brow lifted when he noticed Sarah with her own phone in her ears.
+
+She winked. "That's my number, Senior! Remember to save the name as cute junior, kay?"
+
+"...Sure."
+
+She would later find out that Leon had saved her number as "Nosy Junior" instead. And that her investigation would lead her to become an addict far worse than her senior. But that was a story for another time.
+
+Instead, she turned back to head to her desk, the smile on her face shifting to something more solemn. A memory surfaced, of that day at lunch when people mentioned how nobody knew anything about him besides his love for coffee.
+
+And yet, she had learnt more about him in just a few days and short conversations.
+
+'Because nobody bothered to ask him.'
+
+She had only taken a few steps before she came to a stop.
+
+Then without looking back. "...See you tomorrow, Senior."
+
+"Yes."
+
+As she made her way to her desk, she murmured. "...What a waste."
+
+The soft words lingered in the air.

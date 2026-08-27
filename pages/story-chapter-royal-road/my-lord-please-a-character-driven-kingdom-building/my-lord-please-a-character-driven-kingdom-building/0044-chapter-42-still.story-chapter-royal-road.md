@@ -1,0 +1,221 @@
+---
+id: 44a7d65b-2b59-5e0f-aca8-3b568220c7d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 Still"
+slug: 0044-chapter-42-still
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 44
+ownLength: 2322
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3318244/chapter-42-still"
+royalRoadId: "3318244"
+---
+
+The riders left Cragwatch beneath the thinning darkness of the northwestern ridge.
+
+The road descended slowly from the broken settlement, winding down the bare stone slopes where frost clung stubbornly to the shaded ground.
+
+The survivors moved quietly among them as the narrow road descended from the broken settlement into the frost covered land below.
+
+Two battered handcarts followed near the rear of the column, carrying blankets, tools, and a few of the injured who could no longer manage the road on foot.
+
+Some of the elderly and the wounded had been lifted onto the spare horses or seated behind the riders where space allowed, while the rest walked beside the column in exhausted silence.
+
+No one spoke as they made their way down the winding track, the long night had drained what little strength remained in those who followed them.
+
+From the road below, the shattered palisade was barely visible now, only a dark outline crowning the ridge where the village had been built to overlook the valley.
+
+No horn sounded there anymore and all one could hear were the restless cries of goblins and kobolds fading into the night as the Tithe continued north through the hills beyond.
+
+The riders did not look back.
+
+Lucien rode near the middle of the column while the survivors who could walk moved between the guards, a few of the villagers stumbled now and then on the uneven road, their strength failing after the hours spent hidden within their homes before the rescue.
+
+Bran moved among them, offering a steady arm where it was needed while the reeve walked not far behind with his injured side bound tightly beneath rough linen.
+
+Farther ahead Dorian guided the column down from the ridge, his eyes moving constantly between the road and the exhausted villagers.
+
+Dawn had not yet broken when the low farmland and wooded hills around Ashridge began to take shape through the fading dark.
+
+The fields lay pale beneath the last of the night frost as the narrow road wound between the sleeping farmland toward the wooden palisade that guarded the village.
+
+A pair of figures stood upon the raised platform above the gate.
+
+The column reached the ditch as the light began to gather above the eastern approach.
+
+The guards upon the wall had already seen them. One stepped down from the platform while the other remained above the gate, watching the slow line of weary figures moving along the road below.
+
+By the time the column reached the palisade gate, the bar had already been lifted. The heavy gates opened slowly inward, the timbers creaking softly in the cold morning air.
+
+A small gathering of villagers had already formed inside the gate, they stood in silence as the riders entered.
+
+The survivors of Cragwatch stepped hesitantly through the gate behind them. Many slowed as they crossed the threshold, their eyes moving uncertainly between the unfamiliar buildings and the villagers watching from the open space beyond the palisade.
+
+For a long moment, no one spoke.
+
+Then someone from Ashridge stepped forward with a blanket.
+
+The riders dismounted slowly inside the gate while the guards moved first to help the wounded and elderly down from the horses, steadying stiff limbs and lifting children carefully to the ground.
+
+Villagers had already begun gathering along the inner road, some carrying blankets, others bringing water or simply standing in silence as the people from Cragwatch stepped uncertainly into unfamiliar ground.
+
+The column moved slowly through the waking village, past shuttered homes and the first thin smoke rising from morning hearths, until they reached the open space near the central well where more blankets and hot water had already been brought from the manor.
+
+Lucien stepped down from his horse near the edge of the gathering crowd.
+
+The light of dawn had begun to creep over the eastern hills now, casting a pale glow across the frost-covered roofs of Ashridge as the village stirred around the returning column.
+
+Behind them, the manor courtyard had begun to stir.
+
+Word had already spread through the village by the time they had returned, and more of Ashridge’s people emerged from the surrounding buildings as the rescued villagers were guided toward central well.
+
+Alicia stepped quietly from the manor doorway and paused upon the steps when she saw the small crowd gathered near the well below, her hands tightening around the folded blankets she carried. Her eyes rested on the tired faces waiting in the cold.
+
+Then she descended the steps and moved toward them.
+
+Within moments, she was passing blankets among the survivors while several women from the village arrived, carrying small baskets of bread that had been hastily gathered from their hearths.
+
+Others moved around the well, filling cups and passing water through the crowd while a pair of older men began clearing space near the long shed where spare tools and winter supplies were usually kept.
+
+A few steps away, Sera stood near the edge of the central square, her long bow slung across her back and one hand resting upon the bow that had brought the variant down. Her gaze drifted briefly across the gathered crowd before settling upon Alicia as she knelt beside an exhausted woman.
+
+After a moment, the silent hunter crossed the open space and came to stand nearby.
+
+Alicia noticed her there after a time and placed a folded blanket into her hands. She continued moving quietly among the survivors, pausing beside one of the older women to settle a blanket more firmly around her shoulders. Her attention lingered on the group near the well, making certain each of them had been given water before moving on to the next.
+
+Sera moved to stand near the edge of the gathering crowd.
+
+The hunter had accepted one of the folded blankets from Alicia, though it remained draped loosely over her arm while her dull eyes remained fixed toward the western road beyond the waking village.
+
+One watched over the people gathered beside the well.The other watched the road.
+
+The people of Cragwatch accepted the help in muted silence.
+
+Some sank down along the stone edge of the well, their strength finally giving way now that the night behind them had finally ended. Others remained standing beside the riders, as though uncertain whether they were truly allowed to rest.
+
+Children were the first to break the stillness.
+
+One of the smaller boys clung tightly to his mother’s cloak until the girl who was rarely seen without her rag doll appeared beside them. The worn toy hung loosely from one arm as she approached with a cup of warm water taken from a bucket.
+
+She stopped a short distance from the frightened boy and held the cup out without speaking.
+
+The boy stared at the girl for a breath, before slowly accepting the cup in both hands.
+
+The girl remained there a moment longer, watching to be certain he drank before quietly stepping back toward the edge of the well stones.
+
+Alicia noticed the girl standing near the well with the rag doll tucked beneath her arm. Her gaze rested on the frightened boy before she stepped closer and draped a blanket gently around the child’s shoulders.
+
+A woman standing nearby watched the small exchange in silence.
+
+She had arrived in Ashridge only days earlier among the refugees who had fled the eastern villages. Her gaze paused upon the rag doll in the girl’s arm before drifting toward the frightened boy.
+
+The tightness in her expression eased.
+
+Around them, low murmurs began to spread through the central square.
+
+Bran made his way among the gathered survivors, speaking with several of them in turn while the reeve leaned heavily against the stone rim nearby. The older man’s face remained drawn with exhaustion, though the tightness in his brow eased as he watched the villagers of Ashridge moving among his people.
+
+Nearby, Tomas stood with the other riders beside the hitching rail where the horses were being watered. His gaze drifted across the small crowd, his grip on the reins tightening.
+
+Dorian arrived a moment later, removing his helm as he stepped into the gathering near the well. The captain looked over the survivors briefly before turning toward Tomas. “Count them,” he said, his jaw tight.
+
+Tomas looked toward them before giving a firm nod, he began walking toward the gathered villagers while another guard began guiding the riders’ horses toward the stable yard.
+
+One of the women who had arrived from the eastern villages days earlier began directing several of the Cragwatch survivors toward the long shed at the edge of the common square.
+
+“Inside there,” she said gently, gesturing toward the open door where blankets had begun to pile along the wall. “You’ll be warmer.” The words were spoken with the certainty of someone who had stood in the same place not long before.
+
+Near the long shed, Harlon had already begun examining one of the broken carts that had been brought in. The carpenter crouched beside the axle with a thoughtful frown while Joren stood nearby with his arms folded, one hand resting against the iron rim as he studied where the wheel had warped against the stone road.
+
+One of the men from Cragwatch remained beside them, his hands still blackened with the dust of ridge mines. He spoke softly as he gestured toward the damaged cart, describing the narrow roads that wound between the quarry cuts above the village.
+
+Joren listened without interrupting, his thumb tracing once along the bent iron as the miner spoke with the easy familiarity of someone who had spent years along the ridge face, where stone and iron were pulled from the earth.
+
+Lucien had stopped at the edge of the gathering since stepping down from his horse. For a long moment, he stood in silence, watching the small cluster from Cragwatch gather themselves.
+
+Fewer than forty remained.
+
+The thought settled heavily as morning light spread across the roofs of Ashridge.
+
+More than three hundred had lived there once. Now fewer than forty had made it down from the ridge. The rest had been left behind among shuttered doors and broken streets.
+
+The count did not take long.
+
+Dorian spoke with Tomas briefly before crossing the open space toward him.
+
+The captain glanced once toward the gathered villagers. “Thirty-seven,” he said, his voice low.
+
+Lucien inclined his head faintly.
+
+After a lingering moment, the captain turned back toward the riders. “I will see the horses settled,” he said, the words clipped.
+
+He gave a quiet nod in return, his attention still fixed on those who remained.
+
+Dorian moved away toward the stable yard where the guards were already loosening saddles and leading the tired mounts toward water.
+
+In the slow hours after dawn, Ashridge busied itself to what could still be done.
+
+A few of the villagers had already begun guiding the more exhausted toward the long shed near the well where space had been cleared along the walls.
+
+Some continued moving between them with blankets and cups of water, while others carried baskets of bread from their hearths. The reeve of Cragwatch rested against the stone ring of the well, speaking with Bran as the small group slowly gathered itself.
+
+It was Elias who approached him next.
+
+The steward had stepped down from the manor. He paused beside Lucien, his attention passing slowly over the people gathered near the well. “Fewer than we expected,” he said at last.
+
+Lucien kept his eyes on the villagers from Cragwatch. “Yes.”
+
+The morning had begun to brighten, pale light spreading across the frost covered roofs while the low murmur of the village continued around them.
+
+Elias studied the group briefly. “The lord of Cragwatch will eventually hear of this from Helvarn,” the steward said, his voice measured.
+
+Lucien said nothing at the steward’s words.
+
+“When he does,” Elias continued carefully, “he may expect those who remain to return with him once the winter roads open again.”
+
+He continued watching the small gathering before them.
+
+Thirty-seven.
+
+Cragwatch had once held more than three hundred.
+
+For now, the village upon the ridge would stand empty.
+
+“They will have shelter here,” he finally replied.
+
+Elias inclined his head. “Yes,” he said. “For now.”
+
+The steward fell silent as his attention drifted once more across the village. “When spring comes,” Elias said quietly, “the matter of Cragwatch will need to be decided.”
+
+Lucien’s gaze lingered upon the small group. “Spring is some time away.”
+
+The steward regarded him briefly, then dipped his head before turning back toward the manor steps.
+
+He remained where he was, his gaze shifting toward the western road that ran beyond Ashridge, the same path that led back to the broken village upon the ridge.
+
+For now, the road was empty and Ashridge had room enough.
+
+The seam lay silent beneath the cold light of morning.
+
+Frost clung to the ditch where the wall had once given way, timber braces holding the repaired slope in place.
+
+Lucien stood where the wall had once broken.
+
+The repaired timbers held firm along the slope, newer boards set against the older wood that had survived the collapse. A scar across the earth remained visible where the Tithe had broken through.
+
+A few steps behind him, Sera stood near the repaired section of the wall.
+
+Her gaze rested upon him, her head tilting as though listening to something carried in the still morning air. Then her attention shifted outward and she turned her eyes toward the road.
+
+Lucien’s gaze remained upon the seam.
+
+The place had not stood empty that night.
+
+Men had gathered here in remembrance where the wall had failed. Low voices had filled the ditch then, carrying the stories of the man who had stood that line.
+
+The memory surfaced briefly before he lifted his gaze toward the road beyond the gate.
+
+Lucien watched the road in silence.
+
+Nothing moved there now.

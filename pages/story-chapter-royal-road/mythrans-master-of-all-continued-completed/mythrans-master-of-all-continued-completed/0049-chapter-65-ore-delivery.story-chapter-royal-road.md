@@ -1,0 +1,239 @@
+---
+id: 049ab225-1d42-5277-9b72-155399adf575
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65 - Ore Delivery"
+slug: 0049-chapter-65-ore-delivery
+partOf: mythrans-master-of-all-continued-completed
+position: 49
+ownLength: 2753
+unit: words
+publishedAt: 2016-10-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100078/chapter-65-ore-delivery"
+royalRoadId: "100078"
+---
+
+All the miners worked throughout the day and cartload after cartload was delivered to the weighing station. The miners were happier because they were making the same amount of mony per cart, but were averaging a third more carts per shift. Smiles could be seen on everyone's faces as the mine's production rose by 30% at the end of the day.
+
+Fritz on the other hand... never stopped digging. Ren would stop his own digging to put an empty cart in front of the holes Fritz dug and take the full cart up for weighing. Each time Ren showed up at the weighing station he'd say 'Fritz' and the weighing foreman would pay the appropriate fee. Occasionally, Ren would get his own cart filled and say his own name and the foreman would just nod. Not once did it occur to Ren to say 'Fritz' when he produced his own cart of ore.
+
+When the final shift ended and the end of the day whistle blew, Ren had sucessfully filled Donan's order. With the whole mine working so fast, Ren wouldn't need to stay overnight to finish it. Fritz came out of his most recent hole with Teepo on his shoulder. Teepo had kept Ren informed about Fritz' movements and Ren kept the carts in the right spots to stay up with him.
+
+Ren started to laugh again as soon as he saw Fritz... or rather, as soon as he saw a Fritz-like shape. Fritz was covered from head to toe in dirt. Not a little bit of dirt, either. It was an inch thick and layered all over. You couldn't even see the red beard. If Fritz hadn't smiled when he saw Ren, someone could have assumed it was some kind of dirt golem.
+
+“Fritz... if I didn't know better, I'd say you might have enjoyed yourself a little.” Ren said.
+
+Fritz shook his head. “Only 2 things are fun for dwarves. Women and ale.” Fritz hefted the pickaxe up to his face. It was still a gleaming green and not a speck of dirt was on it. “But... if this were a woman...” Fritz said and grinned. Ren laughed again. Teepo hopped over to Ren's shoulder when he was close enough. Ren and Fritz pushed the carts they'd almost filled, up to the surface and to the weighing station. Ren went first and the weighing forman nodded. Ren stepped aside and Fritz dumped his. The foreman paid him and Fritz turned to go to the cafeteria. “We eat.”
+
+Ren nodded and followed Fritz to the cafeteria. They both got the stew and a piece of bread each and sat at a table.
+
+“Oh, before I forget.” Ren said and handed over Fritz' pay for the day.
+
+Fritz stared at the huge amount. “What's this?”
+
+“I've been taking your carts up for you all day.” Ren said. “What? Did you think all the ore you were digging just magically disappeared?”
+
+“I didn't think of that at all.” Fritz grunted. “I just dug.”
+
+Ren smiled. “I know.”
+
+“You should keep some.” Fritz offered and Ren shook his head. “Nope, I'm working for the mine for free today... so if I take anything, it just goes to them instead.”
+
+Fritz eyes widened. “I saw you didn't get paid. You agreed to work for free?”
+
+Ren nodded. “I needed to make sure Donan wasn't losing money on the order and had Earl wave half the ore fees in exchange for enchanting the carts and working for today and tonight.”
+
+Fritz shook his head. “Ren, you under-value yourself.” Fritz stared Ren in the eyes. “Enchantments alone would cost thousands.”
+
+It was Ren's turn for his eyes to widen. “Really?”
+
+Fritz nodded.
+
+“I'll have to be a bit more aggressive in negotiating in the future, I think.” Ren said and started eating. Staying Power had leveled up during the day and was now Intermediate Level 6. Ren and Fritz finished eating and Ren stopped Fritz when they left the cafeteria.
+
+“If I don't see you again before I leave... it was nice seeing you again.” Ren said.
+
+Fritz clasped forearms with Ren again and nodded.
+
+“I won't tell anyone I saw you cry.” Ren whispered and started laughing at Fritz' shocked expression.
+
+“If you even think of telling anyone about that... I'll... I'll...” Fritz swung at Ren's head with an open hand and Ren ducked, still laughing.
+
+“Once in the head was enough, thank you.” Ren said and smiled. “Don't worry, Fritz. I won't even tell my girlfriend.”
+
+Fritz' expression changed immediately to one of intrigue. Dwarves always took proven friends at their word. “Tell me of this woman you have.”
+
+“Ha! I don't think so.” Ren said. “She's kinda into short guys, and if she sees you...”
+
+Ren wasn't quite quick enough this time and Fritz hooked the top of his head. “Ow...” Ren said and rubbed his head. "I think your hand felt harder.”
+
+Fritz chuckled. “Of course it is. I can crush rocks with it.” Fritz looked down and picked up a palm-sized rock. Ren saw him strain and grunt, then cracks started to form and a moment later, it broke into shards and Fritz wiped his hands together. “There, see? I crush rock.”
+
+Ren grinned and picked up a similar rock.
+
+“What are you-” Fritz words cut off as Ren used Iron Grip and the rock was ground into dust instantly.
+
+Fritz' shocked expression made a dramatic return and Ren wiped off his hand. Fritz didn't say anything and just stared at him. Ren smiled.
+
+“Say, how do I get to Dornrach? Is there a map or something?”
+
+Fritz slapped a hand over Ren's mouth to keep him quiet.
+
+“Don't say that name in public. It's a secret city.” Fritz whispered. “You'll be contacted when it's time.”
+
+Ren nodded and Fritz let go. Ren spit out the dirt that Fritz had accidentally shoved in his mouth.
+
+“Be well, Ren.” Fritz said and walked to the rest tents.
+
+“Be well, Fritz.” Ren said and went to Earl's office. Ren arranged to have the ore delivered first thing in the morning and went to a rest tent himself. If he had judged the timing right, Barbara was still on shift and he had plenty of time left before having to go to physical therapy.
+
+********
+
+Ren logged out, spent some time with Barbara. Bonnie had the day shift this time and came in when the shift changed. Ren ate breakfast, did his physical therapy, and took another shower. Bonnie wasn't much of a talker, and after a short awkward silence Ren said he had to log back in. Bonnie was relieved and Ren settled down to enjoy another great day in the game.
+
+********
+
+Ren woke up in the rest tent and went outside. Ren looked around and eventually found the horse and cart train that was going to Donan's shop. Ren found the man who ran it and asked if he could enchant the carts to make them lighter. The man was skeptical at first until Ren enchanted one cart and had the driver move it. After Ren convinced him about how much better it would be for the horses, Ren enchanted the other 14 carts and they departed for the city of Aurora.
+
+They made good time and it only took an hour and a half, because they didn't have to stop and rest the horses as many times as usual, despite the large loads they carried. They arrived at the shop and Ren hopped off the front cart to get Donan, and saw Donan was already waiting by the shed that Donan used to store the ore.
+
+“Earl sent a messenger ahead to let me know the shipment was on the way.” Donan took Ren into a one armed hug. “I don't know what you did there, but he only charged be half the usual price!” Donan said and gave Ren a little shake. “You must have performed a miracle, Ren. I didn't think we'd get the ore so soon.”
+
+Ren shrugged and smiled. “A lot of it was Fritz. He really liked the new pickaxe and dug all day without stopping.”
+
+“What?!?” Donan exclaimed. “You... you... you gave that wonderful pick to Fritz?”
+
+Ren nodded.
+
+Donan shook his head. “Ren... the last thing you should ever do is give a gift so valuable to a dwarf.”
+
+Ren was shocked to hear this. “Why?”
+
+Donan sighed. “If I knew you were going to do that, I'd have warned you sooner.” Donan said. “Dwarves absolutely love precious things. If it's shiny, or glows, or has gemstones in it, or magic properties, they want it.” Donan said and shook his head. “If you give something like that to them... especially if you made it yourself... they'll try and recruit you into their Order.”
+
+Ren stood in silence and watched the carts being unloaded into the shed.
+
+“I can see that look on your face, Ren.” Donan put a hand on Ren's shoulder. “Let me guess. Fritz asked you to go somewhere for training.”
+
+Ren's eyes widened in surprise.
+
+“I thought so.” Donan said and dropped his hand. “You can always say no.”
+
+“I can?” Ren said.
+
+“Sure you can. You don't have to do what they want... and I suspect that what they want is for you to make stuff for them.” Donan said and sighed again. “I won't tell you not to go. It will be a great opporunity... but you have to make sure that they don't drag you into their petty squabbles or coerce you into joining their army.”
+
+“A-a-army?”
+
+“Yes. I'm surprised you don't know about it. Dwarves are a stand-offish people. They won't enter someone else's territory unless invited, and will retaliate if you enter theirs without permission. They amass weapons upon weapons to fight a war that never comes.” Donan explained. “If you don't stand up for yourself when you're around them, they will suck you under and you'll be working their forge for the rest of your life.”
+
+Ren was speechless. I... Is Fritz really like that? Ren shook his head. I can't believe that's true.
+
+“I'll do my best to make sure I won't get tricked into staying.” Ren said.
+
+Donan shook his head again. “You'll still go, knowing that they'll try and keep you?”
+
+Ren nodded. “Fritz said I had to go. I'll honor that... but staying the rest of my life?” Ren shook his head. “That's not going to happen. I've got too much left to learn.”
+
+Donan had a sad look on his face. “When are you supposed to go?”
+
+“In a month.” Ren answered.
+
+Donan nodded. “Then I better teach you everything I know until then. When we finish these shields by the end of the week, I'll show you how to make everything from spoons to mining carts.”
+
+“Mining carts?” Ren asked.
+
+“Where do you thing Earl got them from?” Donan said.
+
+While they waited for the ore to finish unloading, Donan took Ren inside and showed him the 50 finished shields. “Your idea worked like a charm. I don't know how you came up with it, but these shields are thinner and stronger than anything I've ever seen before.” Donan said and picked one up. It gleamed a dull silver color. “Look what happened when I tried to polish it! It's almost a silver color!”
+
+Ren smiled. That's what happens when you have a rudimentary steel making process. Ren thought. “Now that I'm back, we should be able to smelt twice as fast.” Ren said. “Are we making blanks, or are we just going right to the forging?”
+
+“Blanks. We can use the big square molds. It holds enough metal to make a shield.” Donan said. “Let's get to work.”
+
+Notice!
+
+You have been given an opportunity to join a Quest already in progress.
+
+Join Quest now? Yes / No
+
+“Yes, of course.” Ren said.
+
+New Quest!
+
+You must complete the order for 500 shields within the required time limit.
+
+Difficulty: B
+
+Rewards: ????
+
+They started up all 3 forges and smelted ore in all of them. It took a lot longer to fill the big one, but that was understandable, as it was almost triple the size of a normal forge. After a bit of shifting around and mis-timed pourings, Ren and Donan decided that the big forge would be for smelting ore only, and the other 2 were for forging the shields. Once that was decided they took turns tending the big forge and making shields with the other 2. They worked throughout the day and into the night, but Donan called a stop close to midnight.
+
+“I need food and sleep.” Donan said. “I don't know which I want more.”
+
+“Food for me.” Ren said. “I can sleep later.”
+
+Donan nodded and brought out a basket with sandwiches, fruit, and orange juice.
+
+Ren took a sandwich and some juice. “Thanks, Donan.”
+
+Donan waved the thanks away and ate a sandwich himself. 2 sandwiches later, Donan yawned and stood up. “Definitely need sleep.” Donan turned and walked out of the shop.
+
+“See you in the morning.” Ren said and Donan grunted.
+
+Ren closed the basket and got back to work. Thanks to the system's help, Ren only had to hit the metal a couple of times and it became the proper shield shape. Ren had outpaced Donan, doing 80 shields to his 50, much to Donan's surprise. Ren felt like he was cheating because he wasn't doing the majority of the work himself, but Ren also didn't want to slow down the pace and try to do it by hand, either. Once the order was done Ren would try and do it the right way, but until then, Ren let the system handle the details. Ren worked through the night and took a break at dawn. Ren ate another sandwich and a piece of fruit. Just as Ren finished the sandwich, Donan came in.
+
+“Morning.” Ren said and started chuckling.
+
+Donan stopped walking and looked at him.
+
+Ren smiled. “The mines. I found out the healer's last name.”
+
+Donan tried not to smile; but he failed, and it snuck out the side of his mouth.
+
+“There's still a couple of sandwiches left.” Ren said.
+
+“Save them for lunch.”
+
+Ren nodded and they got to work. It took another 3 days, but they finally finished making the shields. Ren logged out and did his real life chores of eating and therapy and came back in. It took another day to clean the shields up and to attach leather straps for handholds. Donan decided to have them all polished as well and that took yet another day, with Ren staying both nights to finish the tasks. Ren's Smelting was almost up to Intermediate Level 7. Even with the extra XP gains from working in Donan's shop, it was still taking a long time to level up. Ren didn't mind, though. That wasn't why he was doing it. Ren was doing it because a friend needed his help, and that help was going to be given. When the last shield was packed away in the crates, Ren got a popup.
+
+Quest Complete!
+
+You have helped Donan complete another order.
+
+Difficulty: B
+
+Rewards: 4000 XP
+
+Fame Bonus: 12%
+
+Due to your forward thinking and innovation, the ore needed was delivered a full day ahead of schedule, giving you enough time to complete the order.
+
+Extra Bonus: 2000 XP
+
+“Whew... that's a relief.” Ren said.
+
+Donan chuckled. “They'll be here to pick them up soon. Why don't you take a few days of and get some rest.”
+
+Ren nodded. “That's a good idea. I'll see you later, Donan.”
+
+Donan waved and Ren left the shop to go around the corner of the building where Lucy's phantom form still sat.
+
+Extra days in here makes it seem like I haven't seen you in a month, and it's only been about a week in real life.
+
+“Ren, I've been right here the whole time.” Teepo said as he crawled over the roof of the building and hopped onto Ren's shoulder.
+
+Ren laughed. Sorry Teepo, just talking to Lucy.
+
+“She can hear you in her head, too?” Teepo asked.
+
+No... I'm just pretending she can.
+
+“Oh.”
+
+I'm probably going to sleep for a few days, Teepo. Keep watch, okay?
+
+“Will do. See you when you get back.”
+
+Ren nodded and sat down. If he had timed it right, he should be 'waking up' for breakfast.
+
+“Logout.”

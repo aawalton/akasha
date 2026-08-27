@@ -1,0 +1,331 @@
+---
+id: eb127876-7357-5c6e-b6dc-256248c8e76a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 451 - A Beacon Of Light"
+slug: 0451-chapter-451-a-beacon-of-light
+partOf: mythrans-master-of-all-continued-completed
+position: 451
+ownLength: 3206
+unit: words
+publishedAt: 2017-12-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180173/chapter-451-a-beacon-of-light"
+royalRoadId: "180173"
+---
+
+While they ate, Ren told Nathalia that he was moving everyone out to his county. He explained that he had been delaying for no reason, and with Princess being able to run as fast as she does, even without spells, he can be back to Aurora in only minutes.
+
+Nathalia was saddened by the news; but, she understood his reasoning. The people he was gathering around him couldn't stay in a starter city, not without causing a lot of trouble. They talked about meeting regularly; but, since neither of them knew when Ren would be available, they pushed that idea aside.
+
+“I'll have a mount available for Xuunah, so she can keep coming to visit.” Ren said when Nathalia said she had to go.
+
+“That would be wonderful.” Xuunah said. “Although, I believe Nathalia has been neglecting her duties when we visit.”
+
+Nathalia chuckled. “I only come here in the hopes to visit with you.” She said, and felt their surprise. “Both restaurants have several great cooks now, and I only supervise when I'm in the kitchen.”
+
+“Now I feel bad about moving.” Ren said and Nathalia took his hand.
+
+“Ren, you need to take care of your people.” Nathalia said. “Don't concern yourself with anything else.”
+
+“But...”
+
+“I know you love me, and you know I love you.” Nathalia kissed him, despite not being allowed public displays of affection with someone other than her betrothed. “No matter where we are, or how far apart we are... we will always be together where it counts.”
+
+Ren took her hand and put in on his chest. “Yes, one of these days I'll figure out how to make this connection so strong, that it won't matter where we are and we will still feel each other.” He closed his eyes and took a deep breath, then felt his chest grow warm. Nathalia felt it and looked down, and a white light formed around her hand.
+
+“Wh-what are you doing?” Xuunah asked.
+
+“I'm giving her my heart.” Ren said, and activated Soul Bind.
+
+“NO!” Xuunah exclaimed and reached out to pull Nathalia's hand away from his chest, and the glow engulfed her hand as well. She froze as she was caught in the ability, and all three of them were encompassed with a bright glow as her pure Light was added to the effect.
+
+A thick white beam emanated from Ren's chest and split into two. One end went to Nathalia and the other went to Xuunah. A similar beam formed beside that on Xuunah's chest and went back to Ren, then one formed on Nathalia's chest and went back to Ren. He felt something shift in his perception, and then he received a popup.
+
+Notice!
+
+You have formed a bond with a pure Light Being and a member of the Children of Light. This bond is permanent and cannot be broken, subverted, or altered by you or anyone else.
+
+Notice!
+
+You have gained the condition: Devotion. Making the ones you are bonded to happy is your top priority. It grants +10 Light affinity and Regeneration, which lets you regain 5% Health every second, and regrow missing parts when they are lost.
+
+For several moments, Ren saw and experienced everything that both Nathalia and Xuunah had ever experienced in their lifetimes, and those things became as much a part of his past as his own past was.
+
+Notice!
+
+You have been touched by Light in it's purest form. It fills you and makes you happy, and despite any hardship you may suffer, you need to share that feeling with others.
+
+You have gained: Reassurance Aura Level 1 (Beginner 0%)
+
+Notice!
+
+Due to the nature of the knowledge of Light you have gained, it has been expanded well beyond all requirements.
+
+Light affinity and resistance has been increased to 100% (Mastered).
+
+Notice!
+
+Trouble Recipe ingredient: 'Nathalia' has been completed.
+
+“Whoa.” Ren said as the glow faded. He blinked his eyes several times, and felt the tears on his face. I don't remember crying. He thought and looked at Nathalia and Xuunah. Their faces were covered in tears as well, and they still had their hands on his chest.
+
+“What's going on in here?” The woman who sat customers at their tables said when she came in through the curtain. “That bright light nearly blinded half of the customers!”
+
+Ren's Reassurance Aura popped into place immediately and he stood up. Nathalia's and Xuunah's hands fell away from his chest; but, he could still feel their touch.
+
+“Please accept my apologies.” Ren said and walked around the table and approached her. With his Emotion Siphon ability, he could feel her awe of him. “I'll visit everyone personally to make sure they are okay.”
+
+“Y-you don't have to do that.” She said.
+
+“Yes, I do.” Ren said and took her hand. “Can you show me the ones most affected?”
+
+She nodded her head several times, and led him around the restaurant. Ren checked everyone and healed the ones that had suffered some damage, and he apologized for the accidental display. Everyone forgave him and thanked him, and he went back to the curtained-off area.
+
+“Wh-what do we do now?” Nathalia asked.
+
+“We live with it.” Xuunah said and stood up. “We don't have a choice about that now.”
+
+“I know I should apologize.” Ren said, and they felt how happy he was. “I'm too happy to be sorry.”
+
+Xuunah shook her head. “How could you do that?”
+
+“I wanted to bond with Nathalia permanently.” Ren reached out and touched Nathalia's face. “I didn't know we would share everything.”
+
+“Would you have-”
+
+“Of course.” Ren said and kissed her. “I am yours, and you are mine.”
+
+“As am I, now.” Xuunah said, and Ren turned to her.
+
+“You chose to touch us.” Ren said. “You could have pushed the chair, or the table, or even slapped me.” He smiled and reached out to her. She stepped close and he cupped the side of her face. “You missed being needed that much?”
+
+Xuunah opened her mouth to say no, but she could feel what both of them felt and she knew they wouldn't believe her.
+
+“I am in so much trouble.” Xuunah said.
+
+“What are they going to do?” Ren chuckled. “They know why you're here.”
+
+“I... you wouldn't!”
+
+“No, but they don't know that.” Ren said. “Plus, I might activate my Angered condition on purpose and...” He held up his hand and formed a Void elemental grenade in an instant.
+
+Xuunah's mouth dropped open and he felt her shock.
+
+“You never know what could happen.” Ren smiled, and Nathalia chuckled.
+
+“I have to go.” Nathalia said and gave him a long and lingering kiss. “Try not to...” She glanced at the Void grenade and smiled. “Never mind.”
+
+“Goodbye.” Ren said and whispered in her ear. “My Love.”
+
+*
+
+Nathalia left them at the table and walked across the restaurant to the back exit, then stepped through the portal. She caught her breath on the other side because she could still feel Ren. It wasn't as strong as standing next to him; but, it was there all the same. Her heart was filled with happiness, because he had made his promise of someday be today.
+
+She would always feel his love, no matter where he was.
+
+*
+
+Ren dismissed the elemental grenades and Xuunah relaxed. “That really bothered you.” He said, and she nodded.
+
+“It's... very scary to know something could consume you and you can't fight against it.”
+
+“Who told you that you couldn't fight it?” Ren asked, and she looked at him like he was crazy. “Like I tell Zetaya, if you ever find yourself surrounded by water, or under attack by it, burn. Burn as hard and as brightly as you can.”
+
+“I guess that would work for fire and water.” Xuunah said. “But...”
+
+Ren smiled and stepped close. “You have it within you. I saw it once, and now I've felt it.”
+
+“But...”
+
+“I know you don't believe that you can overcome it; but, I believe that you can.” Ren said and held an arm out for her to take. She wrapped her arm around his, and he took her out to the main part of the restaurant.
+
+Teepo? How many people are here? Ren asked his friend.
+
+“146.” Teepo said. “I counted when you checked on them.”
+
+Thanks. Ren smiled. At a gold and 50 silver per plate, that's almost 220 gold. He thought and went to the woman that sat customers at the tables.
+
+“L-leaving already?” She asked, and Ren nodded.
+
+“As an apology to everyone for what happened, I'd like to pay for all of their meals.”
+
+“Wh-what?”
+
+A general murmur of disbelief spread across the restaurant, and Ren took out 3 platinum coins.
+
+“Use the rest as tips for the workers.” Ren said and he felt how happy she was. He walked out the door and he felt happiness spread to everyone in the restaurant when they realized the food was free.
+
+Stat Change!
+
+Reassurance Aura Level 2 (Beginner 0%)
+
+“You didn't have to do that for them.” Xuunah said.
+
+Ren chuckled. “I don't have to do anything.” He said and stopped in front of Sally's Shop. “It's what I want to do that matters.” He took her inside the shop and told Sally that he was moving to his county.
+
+“I wish I could go with you.” Sally said as she hugged him. “My loyal customers would be in an uproar if I did!”
+
+“I know they would.” Ren said as she let him go, and he took her hands in his. “These fingers are magic.”
+
+Sally blushed at the compliment, and then even harder as he kissed the backs of both of her hands.
+
+“You are an inspiration, and you helped me when no one else would.” Ren said. “Thank you very much, Sally.”
+
+“Oh, Ren.” Sally said. “If I was a little younger...”
+
+“If only you didn't love your deceased husband so much, you mean.” Ren chuckled, and she laughed. “I might be back around sometime, but you know how these things go.”
+
+Sally nodded. “I won't hold my breath.” She said and bent down to give him a kiss on the cheek. “It was more than a pleasure to know you.”
+
+“Likewise.” Ren said and kissed her cheek back. “Goodbye, Sally.”
+
+“Goodbye, Ren.”
+
+Ren and Xuunah left the shop and walked down the street to Donan's blacksmith shop. After a brief greeting and heated discussion, Donan finally agreed and Ren handed him 100 platinum coins for any and all future sales.
+
+“Don't forget to give 1% of that to your own mentor.” Ren joked, and Donan slapped him on the shoulder like he used to.
+
+“That only counts for things I sell!” Donan laughed, and they said their goodbyes as well. Ren and Xuunah left the shop and walked down the street.
+
+“Is there anyone else you need to visit and say goodbye to?” Xuunah asked.
+
+“Actually, yes.” Ren said and turned up the next street. “Let's walk this way.”
+
+Xuunah went where Ren led, and it was to a lumber yard. They went inside, and everyone stopped working to look at him.
+
+“Hi, everyone.” Ren said and they all greeted him back. “Is Jen around?”
+
+“Right here.” Jen said and walked around a stack of lumber. “What can I do for you?”
+
+“You can say goodbye.” Ren said, and he felt her surprise. “I'm moving out to my county.”
+
+Jen took a deep breath and let it out. “I thought you would be doing that sooner or later.”
+
+“I meant to do it before.” Ren said. “Then things happened.”
+
+Jen laughed. “Don't they always?”
+
+Ren nodded.
+
+“You were one of my best customers.” Jen said and took him into a quick hug, then let him go. “I made a ton of money from you.”
+
+Ren chuckled. “Is that all I was? A money bag?”
+
+Jen laughed. “You even gave me a ridiculous loan agreement.”
+
+“About that.” Ren said and gave her a coin pouch. “Just put it in here and keep it for me.”
+
+“So, you're really not coming back here.”
+
+“Not for a while.” Ren said. “Unless the finance minister's wife throws another party for me to miss.”
+
+Jen laughed. “She delayed the last one just for you.”
+
+“You're kidding!”
+
+“When she couldn't have your invitation delivered, she postponed the party until you returned.”
+
+“Oh, wow.” Ren said. “Can you thank her for me?”
+
+Jen nodded. “I'll let her know you're back and staying at your county.”
+
+“Thanks.” Ren said and looked around. “Where's Jhulune?”
+
+“She has the day off, so she's probably at home.”
+
+“I'll check there, then.” Ren said. “Thanks for everything, Jen.”
+
+“I was about to say the same thing to you.” Jen said and smiled. “It's been... interesting... knowing you.”
+
+Ren chuckled. “Is that because I turned you on and kept my promise of not following through?”
+
+“Mostly.” Jen laughed. “Goodbye, Ren.”
+
+“Goodbye.”
+
+Ren and Xuunah left the lumberyard and walked down the street, around a corner and down the long road towards the West Gate of the city. They turned up a side street and stopped at a nice two story house. He knocked on the front door and waited. A few moments later, it opened.
+
+“REN!” Jhulune's mother yelled and jumped on him as she wrapped her arms around his neck and kissed his cheek several times. “Mwah! Mwah! Mwah!”
+
+Ren laughed and didn't know what to do.
+
+“Mom, get off of him.” Jhulune said as she came down the stairs. “I think you've thanked him enough.”
+
+“Oh, all right.” She said and let him go. “Oops! I missed a spot!” She said and kissed his other cheek. “There! Now I'm done.”
+
+Jhulune shook her head and pulled her mother back into the house. “That's the price of making mom happy.” She said, and her mother laughed and disappeared into the kitchen. “Hi, Ren.”
+
+“Hi, Jhulune.” Ren said. “I just came by to tell you that I'm moving to my county.”
+
+“You didn't have to come all the way over here to tell me that.” Jhulune said, and Ren felt how flattered she was.
+
+“I kind of have an ulterior motive.” Ren said, and she smiled.
+
+“Let's hear it.”
+
+“It depends on how long it's going to take for you to finish your apprenticeship with Jen.”
+
+“Oh? Why's that?”
+
+“I'd like to hire you, of course.” Ren said. “Well, my county would hire you. You'd be working for the county, not just for me.”
+
+“Are you serious?” Jhulune asked. “Even when my apprenticeship is over, I won't have enough experience for-”
+
+“You'll be fine.” Ren said. “You can hire experienced staff to help run it.”
+
+“Wh-what?”
+
+“I've got a woodcutter to chop trees, but no one to run a lumber mill when I build it.”
+
+“You... want me to... to...”
+
+“Only if you think you can handle it.” Ren said. “I know Jen's job can be difficult sometimes, but look at what she has to take care of.” He chuckled. “My city's just starting out and we don't have anywhere near this kind of industry... yet.”
+
+“I... Ren, I...”
+
+Ren felt her disbelief, and he touched her hand. “You don't have to decide right away. Take your time. Think things through.”
+
+Jhulune took a deep breath and let it out, then nodded.
+
+“When you make a choice, just send word to the Main House in Gaogan City.”
+
+“I will.” Jhulune said and stepped close. She was his exact height, had similar fluffy hair except that it was red, and she wrapped her arms around his neck just like her mother did.
+
+“I want to say goodbye; but, depending on your decision, it could only be a 'see you soon'.” Ren said as he put his arms around her, and she hugged him tightly.
+
+“How about we don't say anything?” Jhulune said and leaned back. “Hey, I found a spot that mom missed.” She said and kissed him on the lips.
+
+Ren smiled. “I'm kind of glad you found that spot and not her.”
+
+“Hey!” Her mother shouted from the kitchen, and they looked to see her head as she peeked around the doorway. “My husband would kill me if I kissed you like that!”
+
+That made Jhulune and Ren laugh, and they let each other out of the embrace. She went back inside the house and shut the door, then Ren and Xuunah walked back down the road to the main street, and followed it to the Housing District turnoff.
+
+“You have had more successful encounters with women than anyone I have ever met.” Xuunah said, and Ren grinned.
+
+“Yes, and none of these goodbyes have been influenced by my Prince Charming title.”
+
+“Why does it bother you to use all the skills at your disposal?” Xuunah asked.
+
+“It's overpowering.” Ren said. “If I went into every situation with everything on or activated, it would change the situation.” He said. “If I go in armed for bear, then I'm guaranteed to meet a bear.”
+
+“I don't understand.”
+
+“Look at it this way.” Ren said as they approached the street his house was on. “If you saw a normal man walking down the street towards you, with a smile on his face, what would you think?”
+
+“He was a man who was happy going for a walk.” Xuunah said. “I'd probably like to meet him.”
+
+“Now, imagine that same man coming towards you, except this time he's wearing a set of bright gold armor, with a glowing weapon just as big as him, riding a mount with similar armor, and his eyes glowing red from his abilities.” Ren smiled. “What would you think then?”
+
+“That I was in deep trouble, and I would arm myself and prepare for battle.” Xuunah said as they stopped in front of the house. “You make an excellent point.”
+
+“I know.” Ren said and grinned. “Do you have anything to pack or gather up?”
+
+“No, only myself.”
+
+“Then if you will kindly wait, I'll make us a suitable transport.”
+
+Xuunah stepped to the side of the street to watch, and Ren opened the cart pattern he had. Rather than use it as is, he made it more like a bus with double rows of seats for people to sit in, and instead of the bus driver and an engine, he kept the normal horse attachment and doubled it as well. He thought he wouldn't actually need two horses to pull it, since the burden becomes that of the driver; but he wanted two, just in case. He added a large space in the back for Princess and the two dogs, and then got to work.
+
+Ren didn't bother trying to make anything fancy, since the Phantom Steeds could fly and it was only going to touch the ground a couple of times. He made the seats comfortable and the sides low enough that passengers could see out if they wanted to. When he was done, he took out the Wand of Transport and cast two Phantom Steeds to attach to the harnesses at the front, then turned and held a hand out to Xuunah.
+
+“Your ride awaits.” Ren said and smiled.

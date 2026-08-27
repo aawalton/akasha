@@ -1,0 +1,307 @@
+---
+id: 7b36a7d5-de6d-591d-83e1-3ee9e825a76f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 231 - A New Book"
+slug: 0220-chapter-231-a-new-book
+partOf: mythrans-master-of-all-continued-completed
+position: 220
+ownLength: 3417
+unit: words
+publishedAt: 2017-04-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131255/chapter-231-a-new-book"
+royalRoadId: "131255"
+---
+
+“WHAT?!?” The three women said at the same time.
+
+“They... giants are just in old children's tales.” The Librarian said, as she remembered the children's book she had let Ren read. “They're not...”
+
+“They're real.” He said. “I've got well over a hundred of them in a camp out beyond the Garrison.”
+
+“By the gods.” Lady Longore said, walked back to her chair, and sat down. “Giants.” She stared at the book on the table in front of her, but she didn't see it at all. “Giants are real.”
+
+“It gets better.” Ren said. “I'll tell you about it, but I'd rather have the book get made while I do.”
+
+“Of course!” The Librarian said and pulled out a chair for him to sit in. It looked like she did something when she sat down across from Ren, then she smiled at him.
+
+“It's all set.” She said. “If you want the occasional picture, just concentrate on what you want to appear.”
+
+Ren nodded slightly, then started the tale. He went through Groggot getting kidnapped, getting rescued by him and Croggart, then dealing with the crazy giant and finding the first Brain Arthropod Grub. The three women sat and stared at him, while he went through the trip back to giant lands and the encounter with the Guardians of the Land on the Giant Kingdom's border, and the reception they received. He skipped over the part about sending Rubella and Groggot into the giant lands, though. There was no need to tell anyone that just yet; and continued with waking up in the Garrison and the crazy giant's attack.
+
+The women never spoke a word as he described the giant pit trap, and his plan to lure the giants to it. It had worked, then he was dragged inside. The Librarian and Angeilin gasped appropriately, but Lady Longore only frowned slightly. He continued about finding his mount, fighting the giants until he could clear a path for the healer to get to her, then his triumphant defeat of them all, and then his unfortunate death by being stepped on.
+
+The three women stared open-mouthed at him as he went on, and found the giants still in the pit a day later, unfed, then helping them out by providing food, clothing, medical care, and shelter for them. He ended the book with his plea to the giant lands, to ask for asylum for the giants, as they couldn't be sustained for very long where they were now.
+
+Silence filled the Library when Ren stopped speaking, and the Librarian ignored the popups she received.
+
+“Um... shouldn't you... ah...” Ren smiled. “Is the book ready?”
+
+The Librarian shook herself out of her shocked trance-like state, then attended the making of the book.
+
+“It says you're about three pages short.” She said, and looked at him expectantly. Ren thought about his last encounters at the giant camp, sighed, then added his discussion with Laurelia about her calling him the Dreaded Foe. He was tempted to add the little magic show that he did for the child, but he didn't want the book to seem too fantastical. He wanted it to be believed, not thought of as a fantasy.
+
+“Mark it as a true story.” Ren said. “The healer and the Commander of the Garrison saw most of it.”
+
+“You can get corroboration to... to all of this?”
+
+Ren nodded and took out the Steel Square that matched the one he had given the Commander. He touched it and thought of the Commander.
+
+“Good morning, Commander. It's Ren. My apologies for bothering you.”
+
+“You just scared the new recruits with your disembodied voice.” The Commander said. “So, it's fine.”
+
+Ren chuckled. “I'm at the Library, and I've written a book about the crazy giant menace, and how we're stuck with them and want to send them back to their own lands. The Librarian wants some corroborating testimony about the giant pit battle, and what happened to the Garrison.”
+
+“Of course.” The Commander said, then described what he had seen in the pit, and how Ren had been like a demon, taking down giant after giant, killing the grubs when they tried to escape, and then his heroic death.
+
+“I could argue the heroic part.” Ren said.
+
+“Go ahead.” The Commander said. “I told the truth, so let's see how far you get with your argument.”
+
+Ren chuckled again. “Thanks, Commander. I'll be heading to Aurora soon to disperse the books. Hopefully we can get the giants as far away from dwarf lands as soon as possible.”
+
+“That's good to hear.” The Commander said. “Good luck.”
+
+The Steel Square stopped glowing, and Ren looked at the Librarian.
+
+“Was that enough?” He asked her. She checked the status, and smiled.
+
+“Just barely.” She said. “Now, I want you to describe yourself as you were in the pit. What you wore, the enchantments you used, and your Aura.”
+
+Ren thought it was a bit of an odd request, but described the glowing shield, his hammerpick and it's green glow, and after a bit of prodding, told her of the Controlled Berserk Rage. When he had finished, she had a look of surprise mixed with wonder on her face.
+
+“I'll be right back!” The Librarian said, and dashed down the stairs.
+
+“You... you...” Lady Longore tried to talk, but she couldn't get anything but the word 'you' past her lips.
+
+“I think she's fighting her denial.” Teepo said as he landed on Ren's shoulder after yet another quick patrol of the building. “She doesn't want to believe, but she knows you and the Commander told the truth.”
+
+I think you're right. Ren thought, then looked at Angeilin. She had a huge smile on her face, and looked like she was on the verge of giddy laughter. “What is it?”
+
+“I knew Dorcot and I made the right decision to change our family name!” Angeilin said, enthusiastically. “Not only did you accept us with open arms, then moved our house by yourself... and now you've fought an entire horde of giants!” She squeaked. “GIANTS!”
+
+Ren chuckled. “I didn't really have much choice.”
+
+Angeilin snorted a laugh. “Yes, you did!”
+
+“I was dragged into the pit, remember?” He reminded her.
+
+She actually laughed this time. “You can't tell me that you weren't going to go into the pit eventually anyways.” She looked at him. “Can you?”
+
+“I...”
+
+“She's got you there.” Teepo chittered in laughter.
+
+“All right, I was.” Ren admitted.
+
+“Ha!” Angeilin squeaked, then looked at Lady Longore. “I told you he was a great man, Lady Longore.”
+
+“You...” Lady Longore said, and her face didn't show any expression at all. A minute later, the Librarian clomped back up the stairs to the second floor, almost out of breath, and held the book to her chest.
+
+“You... just need... huff... a name for it.”
+
+“Close Encounters of the Giant Kind.” Ren said without thinking about it.
+
+“That's...huff... perfect!” The Librarian said and looked at the cover of the book as the golden letters formed itself on the cover and spine.
+
+“I'll need 12 copies.” Ren said. “8 for the Libraries, 1 for Nathalia, 1 for the Main House, and 2 spares, just in case.”
+
+“It's a rank B book, though.” The Librarian said, once her breath evened out. “I couldn't cut anything out of the story, because then it would lose it's full impact.”
+
+“That's okay.” Ren said. “I'll have to do up a letter or something for the copy I'll be sending to the Library in the giant lands anyways, just to make sure the ones in charge there read it.” He said. “I hope they can get back to me about the displaced giants quickly.”
+
+“I'll go and get those copies.” The Librarian said, stopped, and turned back to Ren. “You should see the cover first.” She said and held it out for him to see.
+
+The gold letters of the name were across the top of the book, with an image emblazoned below it. It was Ren, standing in the middle of a group of crazy attacking giants, his dull gold-colored armor scratched and dented, red ruby jewel in the chest, blood red eyes of rage, a glowing gold shield and hammerpick, partially covered in blood and gore, and the Dire Wolf Hooded Cloak fluttering in the wind.
+
+“Wow.” Ren said. I really look like I'm a demon or something!
+
+The Librarian didn't say anything in response; she just walked back to the stairs and clutched the book to her chest.
+
+“Please, excuse me for a moment.” Ren said. “I just remembered something.”
+
+Angeilin and Lady Longore nodded slightly, and Ren opened the messaging system. He sent a quick message to Lara, the Sage of Ages, and asked for her help with the book delivery. She responded with her standard 'any little bit of info he wants' line, but said she was already at the Aurora Library and would wait there for him. He thanked her, and said he would be there in about an hour, and closed the messaging system.
+
+“I just had to set up a meeting with the Sage of Ages.” Ren said.
+
+“You...” Lady Longore said.
+
+“I think she's still stuck in her denial.” Teepo chittered in laughter. “I guess some people need more convincing that you're awesome.”
+
+Ren smiled at Teepo's words. “You might want to read a book called 'Fire, Fear, and Death'.” He told Lady Longore. “When you've got some spare time.”
+
+She put a bookmark in the book she was reading, closed it, and showed him the cover. It was the book he had just mentioned, and he laughed.
+
+“Here... you... go...” The Librarian said as she came up the stairs carrying the large stack of books.
+
+“Ma'am!” Ren ran over to her and took them from her. “You left them at the bottom of the stairs the last time.” He said. “I would have come with you, otherwise.”
+
+“It's... huff... alright.” The Librarian said.
+
+“No, it isn't.” Ren said, and stored the stack of books. It included his special copy, that went into it's own slot automatically. “But you aren't going to listen to me, are you?”
+
+“No.” She said as he helped her walk over to sit at the desk. “I just need to rest for a bit.”
+
+Ren shook his head. “I'll stop coming here for things like this, if you don't start taking better care of yourself.”
+
+The Librarian's eyes widened in surprise at Ren's ultimatum.
+
+“Look who's talking!” Angeilin squeaked, then laughed. Ren heard the sound of tinkling glass, and smiled at her.
+
+“Do as I say, not as I do.” Ren said, and the Librarian laughed.
+
+“How are you doing that?” Lady Longore asked him.
+
+“Doing what?” He asked back.
+
+“How can you talk to...” She looked at Angeilin and then the Librarian.
+
+“She means us 'common' people.” The Librarian said.
+
+“I don't mean that in a bad way.” Lady Longore said.
+
+The Librarian raised her eyebrows at her.
+
+“I don't.” Lady Longore said. “I deal with lower class people all the time.” She sighed. “By the gods, that sounds so pretentious.” She shook her head. “What I meant was, how can he talk to you so informally, and yet you still call him 'your highness' and 'Lord'. I can never bridge that divide.”
+
+“I can answer that.” Ren said and looked at her. “I wasn't a part of the nobility at all. In fact, I wasn't even up to commoner status when I got here.”
+
+“And look at you now.” The Librarian said in admiration. “A self-made Lord.”
+
+“I didn't intend...”
+
+“That's what makes it so great.” The Librarian said. “You earned it. It wasn't given to you because you married someone, and you weren't born with it.”
+
+“But...”
+
+“You've done amazing things, and helped the people of this land start to break away from the stranglehold House Lodur had on all of us.”
+
+Ren glanced at Lady Longore, and saw her frown. “Can I ask what's wrong?”
+
+“I don't agree with how that all played out.” She said. “I read the book, and there were a few things that should have been handled differently.”
+
+Ren chuckled. “You don't have to tell me that.” He said. “All they had to do was wait a week.”
+
+“What do you mean?” Lady Longore asked.
+
+“I would have been sequestered at the Garrison, and I wouldn't have discovered anything was going on.” Ren said.
+
+“By the gods...” The Librarian said. “You never would have come to the Library!”
+
+Ren smiled. “Among other things.”
+
+“Then despite the events that transpired, the outcome I can't dispute.” Lady Longore said. “You have helped the people.”
+
+Ren nodded slightly. “And now I have to go, so I can help even more people.” He said and took the Librarian's hand. “Ma'am. Until next time.” He gave her a kiss on the cheek, and she giggled because his beard tickled her face. Lady Longore's mouth dropped open at the gesture, and Teepo chittered in laughter.
+
+“I don't think your new Honor ritual has made it's way into the high society circle yet.” Teepo said.
+
+Angeilin stuck out her hand, and giggled just a much as the Librarian did when he gave her a kiss on the cheek, and thanked him for the Honor.
+
+“You... you...” Lady Longore tried to speak.
+
+“I think you broke her again.” Teepo said.
+
+Ren looked at her, but she didn't extend her hand. He smiled and bowed slightly. “Ma'am.” He turned to go, and heard a sharp intake of breath.
+
+“Wait.”
+
+Ren turned around and saw that Lady Longore had her hand held out slightly, and waited for it to be taken. He stepped close to her, took the offered hand, and bent in close.
+
+“It's an Honor to meet you again, Lady Longore.” Ren said, and pressed his lips to her cheek. He held them there, because he remembered that while she conducted business, she let the Honor rituals lapse to make the men she dealt with on a regular basis more comfortable. After about 10 seconds, he stopped kissing her cheek, and she gasped at the huge amount of Honor Ren had just given her.
+
+Running Quest Update!
+
+You have shown an influential member of society what you can do.
+
+Rewards: 2,000 XP
+
+Ren saw Lady Longore blush as he stood up straight, and nodded slightly to the three women.
+
+“I hope you all have a good day.” Ren said, then left the second floor to head to the front door.
+
+*
+
+“By the gods.” Lady Longore said.
+
+“How much did you get?” The Librarian asked her, and she shook her head.
+
+“He gave me 15 Honor.” Angeilin said. “It might have been more; but his beard tickled, and I laughed.”
+
+“Me, too!” The Librarian said, and the two of them discussed how it had felt on their faces, and giggled.
+
+It was a hundred. Lady Longore thought to herself. Why did he give me 100 Honor? She stared at the stairway Ren had disappeared down. Why?
+
+*
+
+Ren walked out the front door of the Library, then ran through the alleyway, and down the street to the main road. Once there, he poured on the speed and was back at House Neram Keep only two minutes later.
+
+“Hi, Princess.” Ren said as he went into the stable. “Are you ready?”
+
+Always...
+
+He took her reins and led her out to the road. He felt her disappointment that she couldn't bash through it, and he smiled.
+
+“If I find another potion of giant strength, I'll be sure to give you some more.”
+
+Princess huffed, and he climbed up in the saddle.
+
+“Let's go!” Ren said, she took off at her fastest speed with him riding her, and Teepo chittered in delight.
+
+*
+
+There he goes. Nathalia thought as she felt Ren pass by. I wonder if I should tell them he's coming? She handed another cooked dish to one of the servers, and smiled. No, I think I'll let it be a surprise.
+
+*
+
+It took Ren just under and hour to ride Princess to the warehouse, and Princess gobbled up most of the french toast and syrup during the trip.
+
+“You don't have to stop so much, you know.” Ren said with a grin when he climbed down from her saddle at the warehouse. “I know you can last longer than that.”
+
+Heavy weight today...
+
+Ren felt her trying to hide her amusement. “I've still got a couple of slices left for you; but you aren't getting them until I come back, all right?”
+
+Princess huffed, and he led her inside the warehouse.
+
+“I shouldn't be too long; but, you know how these things go. I could be ten minutes, or I could be 2 hours.”
+
+Will wait... Princess thought to him. Tasty food worth it...
+
+Ren laughed, pat her neck, and ran up the stairs.
+
+“See you on the other side.” Teepo said, and dissolved into the ring. Ren opened the cabinet that surrounded the portal, then thought of something he'd forgotten. He took out one of the brooches he'd made a while ago, enchanted it with the Spider Aura, then stored it and stepped through the portal. He opened the cabinet on the other side, stepped out, and secured it.
+
+“Finally.” A woman's voice said, and Ren grinned as he turned around to see Elerlyth standing in the bedroom doorway. She still wore armor bodysuit he'd made for her; but it was tattered and torn from the attack she had suffered. Elerlyth had her arms crossed and leaned on the door jamb. “I thought you'd never get here.”
+
+“Hello to you, too.” Ren said. “Long time no see.”
+
+Elerlyth uncrossed her arms, took two steps forward, and punched him as hard as she could in the face.
+
+“How could you scare me like that?” She asked him, then gripped her hand. “Ow.”
+
+“I didn't really have much choice.” Ren said and took out a Major Healing wand. He'd lost about 5% of his Health with that shot, but otherwise didn't show any outward sign that he'd been hit at all. “I was unconscious, after all.” He said, took her hand, and healed it.
+
+“I couldn't log in all week!” Elerlyth raised her arms in frustration. “If my ability activated, you couldn't help me with it, goddammit!”
+
+“I can only say that I'm sorry.” Ren said, used the wand on himself to recharge his depleted Mana Pool, then stored it. “You know I'd never leave you to deal with it alone. Not on purpose, anyways.”
+
+Elerlyth looked like she was going to try and punch him again, then her face crumbled as tears formed in her eyes, and she threw her arms around him to hug him tightly.
+
+“Oh, Ren!” She said, loosened the hug a little, and kissed him. It was kind of awkward at first, with her a foot taller than him; but he held onto her waist and she wrapped her legs around him. With their faces close to the same height now, he stood there and held her in his arms while they kissed. A few minutes later, he had to stop their make out session.
+
+“What... what is it?” Elerlyth asked, a little breathless. That was intense... and delicious!
+
+“I have an appointment at the Library.” Ren said. “I need to have the Sage of Ages deliver my new book.”
+
+Elerlyth took a breath, and let it out slowly. “All right.” She got her legs under her, and knelt. Ren let her go, and touched the side of her face.
+
+“I'll be quick.” Ren said, and took out one of the books. “You can read some of it while I'm busy.”
+
+Elerlyth looked at the cover, and her eyes widened. “Is... is this... you?!?”
+
+Ren chuckled. “Yeah. Mental pictures come out really well, apparently. Even on copies.”
+
+“H-h-hurry back.” Elerlyth said to him, but she only had eyes for the book. Ren kissed her cheek, and left the apartment. He was tempted to stop in to see Anabelle, and ask how the shop was getting along; but, he was going to be late if he didn't get to the Library within the next few minutes. Ren went down the stairs to the second level and left through the back door. Once outside, he summoned Teepo; who then appeared at his feet.
+
+“Let's go.” Teepo said, and flew up into the air to scout ahead.

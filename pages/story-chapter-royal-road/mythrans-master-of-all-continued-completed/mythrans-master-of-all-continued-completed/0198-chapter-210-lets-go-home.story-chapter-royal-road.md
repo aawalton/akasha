@@ -1,0 +1,311 @@
+---
+id: df76e248-1bd6-5e62-8456-986090c12897
+page-type-slug: story-chapter-royal-road
+title: "Chapter 210 - Let's Go Home"
+slug: 0198-chapter-210-lets-go-home
+partOf: mythrans-master-of-all-continued-completed
+position: 198
+ownLength: 3142
+unit: words
+publishedAt: 2017-03-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126966/chapter-210-lets-go-home"
+royalRoadId: "126966"
+---
+
+Groggot tried his best to explain; but, she wouldn't accept it.
+
+“No!” Rubella, the female giant, exclaimed. “I did not let you... you didn't...”
+
+“You thought I was your child...” Groggot explained again. “...and I had no other source of food.”
+
+Rubella slid a hand between Groggot and her breast and held it tight. Some milk came out from that action, and tears came to her eyes.
+
+“I... no, that's only... only for my baby...” She said, and large water droplets fell to the ground from her eyes.
+
+“I'm really sorry.” Groggot said. “I'm also really grateful.”
+
+She blinked damp eyes at him.
+
+“If it wasn't for your care, I would have died.” He said, and she sighed.
+
+“According to your story, I was the one trying to kill you.” Rubella said, still unwilling to accept that she had been a crazed monster that had attacked mindlessly. “How can you be grateful that I kept you alive?”
+
+“You may be 4 times my size, but over the last few weeks you did your best to take care of me, even though you didn't know what you were doing... I...” He smiled. “I want to thank you for everything that you've done for me.”
+
+“I killed your partner!” Rubella exclaimed. “I don't remember doing that...” She looked at Croggart. “...and I doubt he saw me do anything of the sort...” She sighed. “...but, I can't deny that I don't remember much about anything that's happened.”
+
+“You don't even know how long you've been out here?” Ren asked her.
+
+“I don't even know where here is.” She admitted, reluctantly. “You've told me that I'm between some fictional land and my homeland; but, that's all I know.”
+
+Croggart looked at everyone. “Hey, look. She's fine. Let's get the hell out of here and back to the Garrison.”
+
+“We can't do that.” Ren said. “We need to take her home.”
+
+Everyone looked at him like he was crazy.
+
+“She just said she has no idea where she is. We do. I won't leave her out here to die.” Ren said, and Groggot nodded his agreement.
+
+“You're making a mistake.” Croggart said. “She had no clue what we were! Do you really think taking her back to the giant lands is a good idea?” He shook his head. “They might just kill us on sight!”
+
+“He... he's right.” Rubella said. “My people don't believe that the little people exist.”
+
+Ren walked over to her, and she cringed. “Please put this on.” He said and handed her a bra.
+
+“What is that thing?” Rubella asked. She didn't take it, even after Ren explained what it was and what it did. “No, thank you.” She said. “It would interfere with my... my baby... when he...” Her face flushed red as she looked at Groggot, who was still holding her steady, and she still had one arm around him. Ren stored the bra and handed her the underwear, and she equipped it. Groggot let her go so she could equip the shirt, tunic, and skirt next; then she tossed the rags she had been wearing aside.
+
+“Thank you.” Rubella said, and then she tried to stand up.
+
+“Whoa, hold on!” Groggot tried to keep her sitting. “That thing that came out of your ear hurt you.” He said. “You should rest for a little while.”
+
+“No, I... I need to get back to my baby.” Rubella said. “I've been away from him for far too long already.”
+
+Groggot nodded slightly to her, and she struggled to stand up. She was 20 feet tall, and Groggot was only 4 foot 7 inches; so, he really did look like a child next to her. She smiled down at him, and he smiled back up at her.
+
+“Goodbye, Ro.” Rubella said, turned around, and started to walk away.
+
+“W-wait!” Groggot said and followed her. “You can't just go wandering off! You don't even know which way to go!”
+
+“Neither do you.” She said, and kept walking.
+
+“I do.” Ren said, and she stopped walking. Rubella turned around and looked at him.
+
+“You do?”
+
+Ren nodded. “I saw a map that led right to the Land of the Giants.”
+
+“Where did you see that?!?” Croggart asked.
+
+“That doesn't matter.” Ren said. “I can lead you to the land; but, not to where you live in that land.”
+
+Rubella sighed. “You're really going to risk your lives to help me get back home?”
+
+“I'm not.” Croggart said, and handed the Wand of Slickness to Ren. “I think I've had enough of adventures for a while.”
+
+Ren walked over to Princess and the two dogs guarding her. “Well, what do you think?” He asked them. “Want to come along and help her get home, or just go home?”
+
+I can run some more... Princess thought to him. It will be slow... She looks heavy...
+
+Ren smiled and scratched her chin. “What about the two of you?”
+
+They barked at him, and he felt their agreement with Princess. Ren gave a Health potion to Croggart, and some food.
+
+“Head back to the Garrison and let them know we rescued Groggot.”
+
+“You're crazy.” Croggart said. “I'm not going back there.”
+
+“You still have to face the charges against you.” Ren said.
+
+“You got those dismissed.”
+
+“No, I only got you released into my custody.”
+
+“What charges?” Groggot asked.
+
+“I don't know what happened to Nershan.” Ren said. “I couldn't have the charges dropped if I didn't know if you were guilty or not.”
+
+“Hey! I'm NOT guilty!” Croggart nearly shouted.
+
+Ren shrugged. “Like I said. I didn't know that.”
+
+“You're going to let me rot in jail for something I didn't do?”
+
+Ren chuckled. “You won't rot in jail, even if they find you guilty. They'll probably sentence you to time in the mines, just like they did with me.”
+
+“I don't think so.” Croggart said, and turned to walk away. “They won't get a chance to take me again.”
+
+Ren sighed. “Come on, Croggart. If you're really innocent, why are you worried about what might happen if you go back?”
+
+“Because...” His brother Groggot sighed. “...he's just as guilty of Nershan's death as I am.”
+
+“Not as guilty as I am.” Rubella said. “Even if I don't remember what happened, he's still dead.”
+
+“Yes!” Croggart said, turned around, and pointed to the giant. “She's the one that's guilty! We should take her back to the Garrison!”
+
+“Not a chance.” Ren said. “Do you know what would happen if they take her into custody?” He shook his head. “I will not hand someone over to be experimented on.”
+
+“They might do some tests, but they won't exper-”
+
+“Quiet!” Ren said, and cut off Croggart's words. “I know they experiment on anything that's different!”
+
+“So what?” Croggart asked. “What's she to you?”
+
+“That doesn't matter!” Ren said, and concentrated on his Command Aura. “I'm taking her home, and you are reporting to the Garrison.”
+
+Croggart laughed. “Make me.”
+
+Ren shot him with the Wand of Entanglement and a 20 foot wide circle of web stuck to him and the ground.
+
+“What the-HEY!”
+
+“I'm sorry.” Ren said, and walked over to him. “I can't let you just walk away from your responsibilities.”
+
+“You have no right to do this!”
+
+“Actually, I do.” Ren said. “It's right in your release papers.”
+
+Croggart opened his mouth to protest, and Ren put a piece of cloth in his mouth.
+
+“Yeah, I know I'm being an ass.” Ren said, and wrapped the web around Croggart. “But if you aren't going to go back to the Garrison willingly, then I'll have to take you with us.”
+
+“Mmowww!”
+
+“I'm sorry.” Ren said, and used some rope to tie him up. He turned to Rubella. “Please pick him up, and put him in the back of the cart.”
+
+“Your friend is right.” She said and easily picked Croggart up and laid him in the back of the cart. “You're crazy.”
+
+Ren chuckled and shot another web into the space between Croggart and the cart. He built a large cart, big enough for the giant to sit in comfortably, and attached it to the back of the first cart. Ren enchanted the cart to make it stronger and the contents lighter; then took out several steel squares. He enchanted them with Antidark and attached them to the cart, making it that much lighter. Ren was tempted to add enough squares to make the cart weightless; but that wouldn't be a good idea, especially once they started to move. It would be hard to control that much mass without any weight to help keep it steady. The giant, Rubella, climbed into the large cart; and much to her surprise, Groggot got in with her.
+
+“Wh-what are you...” She started to say, and Groggot held up a hand.
+
+“I'd like to spend some time getting to know you.” Groggot said, and smiled shyly. “If that's okay?”
+
+Rubella took a deep breath, and let it out slowly. The gust of expelled air ruffled Groggot's hair and beard, and she chuckled.
+
+“Oh, all right.” She said, and lifted an arm. Groggot sat down beside her and she put the arm around him. “It's not like I have anything else to do while we travel.”
+
+“You should hold on.” Ren said. “This is going to be quite a ride.”
+
+They both nodded and Ren went to the front cart and attached Princess to it. Riley and Stacy hopped up and sat on either side of Ren after he sat in the driver's seat.
+
+“Meh me mow o mere!” Croggart tried to yell from the back of the cart.
+
+“I'll let you out in a few hours.” Ren said as he recharged the Wand of Entanglement and shot Croggart again. “Once you cool down a little.”
+
+“Mmowww!”
+
+“Sorry, not right now.” Ren smiled and looked at Princess. “Let's go slow at first.”
+
+Princess did go slow at first, and when she got a good feeling for the weight, she started to trot, then ran. There still wasn't any roads to follow, or even paths; but the terrain was flatter now and not as bumpy. Once they got to a certain area, Teepo flew over to land on Princess' helm, and she ran as fast as she could with all the weight.
+
+*
+
+Groggot and Rubella talked, and discussed things, and Groggot shared what it had been like for the month that they had spent together. Rubella shook her head.
+
+“I... I still can't believe that... that I let you...”
+
+“It was a shock to me, too.” Groggot said. “I'd never seen anything like you before, and then... then I...” He smiled at her. “Would you be insulted or offended if I said that it was delicious?”
+
+Rubella's eyes widened slightly, and she blinked her eyes at him a few times. “It... it's what?”
+
+“Delicious.” Groggot said. “In fact, it was the best thing I've ever tasted; and I've had food from all over the world.”
+
+Rubella blushed a bright red. “I... I don't know if I should slap you, or thank you.”
+
+“I've had the slap, so I definitely prefer the thanks.” Groggot said.
+
+“Wh-what?!?”
+
+Groggot chuckled. “I was a bad boy quite a lot, and I've felt your slap a few times.”
+
+“I... don't see any marks on your face.”
+
+“That's not where you slapped me.”
+
+“Oh.” Rubella said, then thought about it. “Oh!” She exclaimed and laughed. Groggot laughed as well and they talked a bit more before falling into a companionable silence.
+
+*
+
+They drove on for another 3 hours, stopping several times for food and rest, and kept going. If Ren and Teepo's estimation from the blank map they'd seen when Lara, the Sage of Ages, had told him where the legendary blacksmith was hiding, then they only had another 6 hours of traveling to do before they hit the Giant's Kingdom.
+
+*
+
+“Ow.” Rubella said an hour later, and put her free arm over her chest.
+
+“What is it?” Groggot asked, concerned.
+
+“It... it's nothing.” Rubella said, and Groggot winced.
+
+“Please, if I can help, I will.” He said, and she sighed.
+
+“They're full.” She said and moved her arm to show that her shirt was damp from milk.
+
+“Oh.” Groggot said, then started to unbutton her shirt.
+
+“Wh-what are you doing?” She asked and covered her chest again.
+
+“The pain is only going to get worse if we don't relieve the pressure.” Groggot said. “I grew up on a sheep farm. I know it must really hurt.” He looked at her face. “Please, let me help.”
+
+“I...” Rubella didn't say anything else, but also didn't stop Groggot as he moved her arm out of the way. He unbuttoned her shirt to reveal her breast. It was quite swollen; so, he took the tip into his mouth and started to suck. She picked him up slightly to reposition him, to make it easier on the both of them, then she sighed in relief as the pressure eased slightly. A few minutes later, she shifted Groggot over to her other breast automatically, and he suckled there, too.
+
+*
+
+“So, how long do you think it will take them to get to the cave?” The Commander asked the scout.
+
+“It was nearly 3 days out, so since the cart can go a lot faster than us, they should reach it by tomorrow morning.” The scout said. “Then if nothing happens, they should be back a day after that.”
+
+The Commander nodded slightly. He just hoped that Ren had remembered to leave the Deed to the Garrison somewhere safe before he went in to save Groggot.
+
+He had no idea that Ren had completely forgotten about doing that, and the scout had greatly underestimated the speed the cart could go; because the group was now headed towards Giant lands which was much farther away than the cave.
+
+*
+
+Another 5 hours passed without any incidents, and Ren was glad for that. The last thing he needed was to come across another crazed-
+
+“GIANT!” Teepo shouted, and Princess swerved out of the way of the giant that was running towards them.
+
+“DUCK!” Ren shouted as the 6 foot long sword swung towards the cart. It swished over his head, barely missed the cart, and Rubella ducked down. The cart shifted slightly to the left, and with her weight bent over the same way and Princess turning, the attachment to the front cart broke away. The tire of the large cart dug into the ground and Rubella and Groggot held on as the cart tumbled over it's side, then they were thrown out as it flipped several times.
+
+“Go back around, Princess!” Ren shouted to her, and she whipped around almost faster than the cart could handle; but, since she'd had so much practice with the cart in it's current form, she knew exactly what it could handle. Ren held on as she made the turn easily and he saw what they faced.
+
+A 25 foot tall giant stood there, wearing heavy plate mail armor, and had a sword at the ready. He stood next to the inert form of Rubella, and raised his sword.
+
+“We have to stop him! Ram his foot!” Ren said, and Princess took off as fast as she could. “Riley! Stacy!” He said. “Get ready to jump! Both arms!”
+
+They barked and braced to jump. Ren took out his helm, put it on, and braced to jump himself.
+
+“Now!” He said and jumped, then equipped his shield mid-air. Ren and the dogs shared the momentum of the cart; so when they jumped away, they were going just as fast as it was. Princess rammed the giant's shin at the same time that Riley and Stacy hit the giant's arms, one on each. Ren's jump took him a little too high, however. He had intended to hit the giant in the chest to knock the wind out of him; but, he had forgotten that his new boots doubled his jump, and he hit the giant in the face with the shield.
+
+The combination was devastating to the giant. With his balance knocked away by Princess' impact on his lower leg, the dogs weight on his arms, and Ren's massive hit to his face, he was completely caught off-guard. Thanks to Ren's Skull Cracker ability that grants a 20% chance to stun with a hit to the head, the giant was unconscious before he fell backwards to land on the ground. Ren and the dogs held on until he hit the ground, and hopped off in case he started to swing. Ren took out the Wand of Entanglement and shot the giant a bunch of times, and covered him in webs. It would only last 10 minutes, but that would give them time to think of what to do.
+
+“Is everyone all right?” Ren asked, and Princess trotted over.
+
+“No, I'm not all right!” Croggart said from the back of the cart. Ren had only released him a couple of hours before, and now he was livid. “I said I didn't want any more adventure for a while! What the hell was that just now?!?”
+
+“He was going to kill Rubella.” Ren said.
+
+“So what?” Croggart said. “She's a giant. Let them deal with her.”
+
+Ren pointed to Rubella, and Croggart saw her sit up. She held Groggot gently in her arms.
+
+“NO!” Croggart hollered and ran over to them.
+
+“I'm fine!” Groggot said, and looked at Rubella. “Thanks to Rubella.”
+
+“What?”
+
+“If she hadn't protected me with her body, or held me close and rolled out of the cart when it flipped, I'd be dead.” Groggot said, and stroked the side of her face. “Thank you.”
+
+Rubella blushed. “You're welcome.”
+
+“Aaahhhhh!” The giant Ren had secured yelled. “Kill it! Before it spreads!”
+
+“Kill what?” Ren said.
+
+“That!” The giant said and nodded towards Rubella.
+
+“You mean Rubella? The one we helped and brought back to her people?” Ren asked him.
+
+“Wh-what?”
+
+“She's not running around and screaming, is she?”
+
+The armored giant looked from Ren to Rubella, and back again.
+
+“Hi.” Rubella said. “You really shouldn't attack before asking questions.”
+
+“What... what...”
+
+The ground shook and Teepo chittered in laughter.
+
+What is it, Teepo? Ren thought.
+
+“You're going to laugh at this.” Teepo said. “Turn around.”
+
+Ren turned around and discovered Teepo was right. He started laughing and everyone looked at him.
+
+“What's so funny?” Groggot asked as Rubella put him down and stood up.
+
+“That.” Ren said between guffaws, and the group looked and saw several dozen more giants. They wore full plate armor, and each face they could see looked angry as they ran closer. Ren took out the giant gold-colored automated Ballista from inventory.
+
+“This is going to be fun.” Ren said sarcastically, and prepared to fire.

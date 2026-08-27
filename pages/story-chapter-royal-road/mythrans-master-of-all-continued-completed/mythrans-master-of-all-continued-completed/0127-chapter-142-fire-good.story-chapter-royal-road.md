@@ -1,0 +1,281 @@
+---
+id: f4686227-f941-5045-bdc5-c438fd9fce71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 142 - Fire Good!"
+slug: 0127-chapter-142-fire-good
+partOf: mythrans-master-of-all-continued-completed
+position: 127
+ownLength: 2910
+unit: words
+publishedAt: 2017-01-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111977/chapter-142-fire-good"
+royalRoadId: "111977"
+---
+
+“FIRE!” Teepo yelled.
+
+Ren was awake instantly and sat up. Since his arms were hugging Nathalia and her mother, he dragged them into a sitting position, too.
+
+“Wha...?” Nathalia said.
+
+Ren threw off the blanket and hopped out of bed. He landed on the floor, and in the fire. “What do I do? What do I...” He looked down and saw the flames didn't light him on fire. “Right! I have that ability now.” Ren brought his hands down, ran them through the flames, and started to absorb them. It didn't take long, and the fire in the bedroom was out. Thankfully, it was just the area rug on the floor that was burned, and the stone floor underneath was undamaged.
+
+“Teepo! What happened?” Ren asked his friend.
+
+“I was in the hall watching the front door, and I saw the flickering light reflecting on the walls.”
+
+“How long was I asleep?”
+
+“About 10 minutes.”
+
+Ren frowned, and he looked down. “How did a fire get started in here?”
+
+“On it!” Teepo said, and skittered around the floor, under the workbench, then under the bed. “Ren! It's under here!”
+
+“Ladies, please stand for a minute.” Ren said, and Nathalia and her mother stood up. He stored the bed into inventory and revealed Teepo standing about 2 feet away from a small blob of fire, barely 3 inches in size. It made a sound like wood popping in a fire, and Ren knelt down.
+
+“Hey, there.” Ren said in a gentle voice. “Don't be scared.” He held a hand down to the floor, palm up. “It's okay. No one's going to hurt you.”
+
+The ball of fire rolled side to side a couple of times, then rolled over to Ren's hand. It stopped and 4 little stubs of flame popped out of it like legs, then it poked Ren's hand. He heard a low whistle, and the blob of fire climbed onto his hand.
+
+“There we go.” Ren said, and stood up slowly. “Where did you come from?”
+
+“Isn't it obvious?” Teepo said. “It hitched a ride from the fire realm.”
+
+Ren looked at the fire blob closely, and turned his head to the side. “I never saw anything like this there.”
+
+“Me, either.” Teepo said. “But, it's made of fire. It had to come from there.”
+
+Ren nodded. “Yeah, but how?” He examined the creature.
+
+Baby Fire Elemental
+
+This tiny flame has been given life by the Deity of Fire, as a gift for the Father Of Fire. It will eventually grow into a Guardian suitable to protect his august presence.
+
+Ren smiled. “It's from Fire Dancer.” The little ball of flame grew brighter.
+
+“So you finally found it.” A disembodied voice said, and Ren stored his bodysuit.
+
+“REN!” Nathalia yelled. “What are you doing?!?”
+
+“Stopping anyone else from seeing or hearing anything.” Ren said. “Adventurer's business.”
+
+Nathalia sighed and nodded.
+
+“Put your clothes back on, Dad!” Fire Dancer said. “I'm blocking everything.”
+
+“I didn't get a chance to explain about you, Fire Dancer.” Ren said, and sighed as he equipped his bodysuit again.
+
+“Sorry.” She said. “You getting naked like that, threw me for a minute.”
+
+Ren chuckled. “That happens sometimes.” He said. “Thank you for the gift.”
+
+“I had to give you something for everything that you've done.”
+
+“You being here was a gift bigger than I thought I'd ever have.” Ren chuckled. “This...” He held the baby elemental up. “...wasn't necessary; but, I really like it.”
+
+“I'm glad.” She said, pleased.
+
+“Nathalia.” Ren turned to her. “When I went to rescue Fire Dancer, things turned out a little different than I thought they would.” He said, then explained what had happened.
+
+“By the gods...” Nathalia said.
+
+“Yes?” Fire Dancer responded.
+
+Nathalia's mouth dropped open, and she didn't know what to say. “I... I...”
+
+“Honey, don't tease her.” Ren said, and took Nathalia into a hug. “Finding out you're my daughter was enough of a shock, I think.”
+
+Fire Dancer chuckled. “Sorry, dad. I couldn't resist.”
+
+“She... she's got your sense of humor.” Nathalia said a minute later, and looked at Ren with wonder. “You have a daughter, and she's the Goddess of Fire.”
+
+Ren nodded.
+
+“I... I need to sit down... for a day or two.” Nathalia said, and Ren helped her to where the bed was supposed to be, and he took it out of inventory. Nathalia sat on the bed, and Ren looked at Narhilda, who just stared at him.
+
+“Narhilda? Are you okay?”
+
+She didn't respond and Ren went to her.
+
+“It's okay.” Ren said and took her into a hug. “I know it's a lot to take in at once.”
+
+“You... you...”
+
+“Come and sit by Nathalia.” Ren led her over to sit beside her daughter. “We can talk about it later.”
+
+Narhilda nodded and sat in silence, while Ren continued his conversation with Fire Dancer.
+
+“How are you, honey?” Ren asked.
+
+“I'm fine.” She said. “I miss you and Uncle Teepo, though.”
+
+“Do you have to do the whole 'booming voice' thing?”
+
+“It helps with the ambiance.” Fire Dancer said. “Is that better?”
+
+Ren smiled. “It doesn't matter to me, but Nathalia and Narhilda are kind of shell-shocked right now.”
+
+“Yeah, I understand.” She chuckled. “It's like seeing your dad naked.”
+
+“I'm sorry about that.” Ren laughed. “It was automatic for me to try and keep you hidden.”
+
+“You didn't have to unhide yourself, though!” She laughed, and after a moment, Ren changed the subject.
+
+“I was wondering how I was going to contact you.” Ren said. “I thought about lighting a huge fire for you.”
+
+“Yeah, that would have gotten my attention.” She said, and Ren could hear the amusement in her voice. “You can just use the fire elemental, though.”
+
+“Really?” Ren said and held the little thing closely. “That's really cool.” He said and tickled it. It made a sound like a pile of burning wood crackling in a fire, and Ren grinned.
+
+“I needed a way to contact you anyways, so I killed two birds with one stone.”
+
+Ren nodded. “I'm sorry I didn't find it before now.” He said sadly. “It's only been hours here, but it's been years for you.”
+
+“I've been watching you.” She said. “It's like a slow moving painting. Every time I look, only a little bit has changed.”
+
+He nodded again. “Is everything going okay there?”
+
+Fire Dancer sighed. “Actually, there's a group of old elementals that have been causing unrest at the outskirts of my realm.”
+
+“Do you want me to come and deal with them?” Ren asked.
+
+“I've got it for now, dad.”
+
+“If they so much as lay a hand on you...” Ren growled. “...I'll come over there and kill them all.”
+
+Fire Dancer chuckled. “You would, wouldn't you?”
+
+“In an instant.” He said. “No one touches my daughter.”
+
+“Thanks, dad.”
+
+“You're welcome.” Ren said.
+
+“I have to go.” She said. “Goodbye, dad. Bye, Uncle Teepo.”
+
+“Bye, Goddess!” Teepo chittered in delight.
+
+“You can call me at any time, Fire Dancer.” Ren said. “So don't be afraid to, okay?”
+
+“Me? Afraid?” She laughed. “Not at all. No sir.”
+
+“That's my girl.” Ren grinned. “Goodbye, honey.”
+
+The little fire elemental dimmed down and Ren put it on his shoulder. He walked over to the bed and knelt down in front of the two shocked women.
+
+“It's okay.” Ren said. “Just breathe. Take it easy.”
+
+“You... you...” Narhilda said, and swallowed audibly. “You were naked!”
+
+Ren and Nathalia stared at her for a few seconds, and then they started laughing because Narhilda had completely missed meeting the Deity of Fire from the shock of seeing Ren without his clothes. Narhilda joined them in laughter a moment later, and Ren leaned in to hug them both. They laughed for a few minutes together, and Ren let them go.
+
+“I had intended to tell you everything over breakfast...” He started to say, then was interrupted.
+
+“...naked?” Narhilda asked, and kept laughing at Ren's surprised expression.
+
+“I... I guess I would have had to.” He said, and his face flushed a little red.
+
+Nathalia hugged him. “I'm glad it didn't come to that.” She said and let him go. “I don't know if Ma could take it.”
+
+“Now that I'm kind of over the shock, I can take it.” She said, defiantly. “I can take it all!”
+
+Ren clamped his mouth shut; but couldn't help himself, and snorted a laugh.
+
+“What's so funny about that?” Narhilda said and frowned. “I'm sure I could take anything you showed me.”
+
+Nathalia grinned. “Ma.”
+
+“What?”
+
+“Never mind.” Nathalia shook her head. “Come on. Since were up, we might as well get breakfast started.”
+
+“Okay.” Narhilda said, and Ren helped them both stand. They went into the kitchen and started to make breakfast. The baby fire elemental jumped off Ren's shoulder and tried to get in the oven when Narhilda opened it to put the food in. Ren had caught it before it could light anything else on fire, though.
+
+“Hey, take it easy.” Ren said and held it close. “Are you cold?” He got no reaction. “Hungry?”
+
+The flame changed color slightly and Ren smiled.
+
+“I'll be outside trying to feed it.” He said, then went out into the courtyard. Teepo flew out behind them and landed on Ren's other shoulder. Ren put the baby fire elemental on the paving stone and took out a piece of wood. He broke it up into small pieces and sat down.
+
+“Try this.” Ren said, and put some splinters in front of the elemental. It grabbed the splinters and shoved them inside of itself. They stuck out it's back, or Ren assumed it was the back, and after a minute, the fire elemental consumed the wood and burned a little hotter. Ren smiled and handed it a slightly bigger piece. It tried to fit it in, but the piece was just too big and all that happened was it caught fire. Ren picked the piece up and broke it again, then handed the pieces back.
+
+“I'm sure when you get bigger, you'll be able to eat normally.” Ren said, then his eyes widened. “You were trying to eat the rug, but it was too big for you and it caught fire.”
+
+The fire elemental's color changed slightly, and Ren grinned. He kept feeding it splinters of wood for an hour, until Nathalia came out to get him for breakfast. Ren let it finish the splinter and picked it up.
+
+“Don't go jumping off, okay?” Ren said as he went inside. “You'll cause fires like that.”
+
+Ren ate breakfast, and tried to not blush as Narhilda kept glancing over the table, and waited for him to take his clothes off again, just so she could prove that she could take it.
+
+Nathalia asked him what he was going to do today, and he said he would be working on the Keep, and then probably a track for Princess to run on.
+
+“Ren, that will be out in plain view of everyone.” Narhilda said.
+
+“Only if they're looking.”
+
+She shook her head. “No building anything outside, okay?”
+
+Ren sighed. “Okay.” He said and got up from the table. “I'll be back in a few hours.”
+
+Nathalia kissed him goodbye and he went out to his workshop. Ren was disappointed that no one was working the silt anymore, and he gathered up all of the remaining bags of cement. He turned on the forge and threw a few pieces of ore into the smelter. The fire elemental crawled down Ren's arm and near the forge.
+
+“Go ahead.” Ren said, and the elemental hopped into it. It laid down and stretched out like it was sunbathing. “So you were cold, but didn't realize it.”
+
+It wiggled a little limb, and Ren chuckled. “Don't leave there until I come back, okay?”
+
+It wiggled the same limb as Ren filled the smelter with ore. He went down the secret passageway and ran all the way to the bottom of the Keep. Once there, he took apart the bottom 16 feet of the wooden mold from the entire Keep, and saw the cement was set. He went up to the top of the cement partition he'd made and dug out the next 30 feet of dirt and let it fall into the space down below, rather than crate it and take it to the surface. Now that he had enough room to work and a set method, he made more cement and used up the last of his 1 foot long, 1 inch wide rebar to make the next mold, then put the wooden wall back around the Keep. Ren filled it with cement and left it there to dry for the day.
+
+Ren went back up to the forge and made more 1 foot long rebar. While doing that, he reforged the swords and shields he'd made a few days before. After folding the metal and forging them a dozen times, he sharpened and polished them. He stored them and then smelted more rebar. There was a knock on the workshop's door and Ren went to answer it.
+
+“Nathalia? You don't have to knock.” Ren said.
+
+“I was checking to see if you were there.” She said. “Come to the house.”
+
+“Sure. Just give me a minute.” Ren went back to the forge and was about to pour out the molten metal, then had another idea. He took out the giant ruby he had and enchanted it with a double glyph of Illuminate (8 runes total), then took out his gold armor chest piece.
+
+My shield worked like a charm with this on it. Ren thought. I hope a piece of gold armor works just as well. He smiled. I really like my Grip of the Earth enchantment, and want to get it back on my shield as soon as possible.
+
+Ren poured out some of the metal into his hand and played with it a little. “That feels so weird.” He said, then felt the metal start to cool and slapped it on the chest plate, then set the ruby right in the center. He moved it around a little to get it to sit securely, and used his fingers to pull some of the molten metal over the edges, almost like claws. Ren absorbed the heat from the molten metal carefully, so the metal wouldn't crack from the rapid cooling, and stored the chest plate. He picked up the baby fire elemental from inside the forge, turned it off, and followed Nathalia down to the house. Once inside, they went to the kitchen and saw Narhilda sitting at the table, a piece of parchment in front of her.
+
+“You got what you wanted, Ren.” She said and handed it to him. “It'll be this afternoon.”
+
+“No way!” Ren said and took the piece of parchment. “Well, would you look at that.” He said and grinned. “A month and a half early, too.”
+
+*
+
+“What the hell is this?” The Lord of House Lodur asked the other 3 members of the 'real' Dwarf Council, and held out a crumpled scroll.
+
+The Lord of House Breakwater chuckled. “It's a summons to an emergency meeting of the Dwarf Council.” He said. “We all got them.”
+
+“I know what it is.” The Lord of House Lodur scowled. “I'm asking you why it even exists!”
+
+“Obviously, someone has been doing their homework.” The Lord of House Greentree said. “No one has used the Right to Challenge in hundreds of years.”
+
+“How do we stop it?” The Lord of House Faldihr, Thanyur said.
+
+Breakwater chuckled again. “Stop it? It's happening this afternoon. We couldn't get messengers out fast enough to counter the summons.”
+
+“Wait.” Lodur said. “What did you say?”
+
+“You didn't read it all, did you?” Breakwater said and pointed to his own scroll. “This went out to every House, Major and Minor, and not just to the member Houses of the Council.”
+
+Lodur sat down. “That means...”
+
+“Instead of our usual Quorum, where we meet the minimum members needed for a decision, we'll have a Plenum with a complete assembly of members.” Greentree said. “Everyone gets to vote today.”
+
+“Dammit!” Thanyur Faldihr exclaimed. “What do we do now?”
+
+“The only thing we can do.” Lodur said, and turned to the Commander of the Garrison. “Send in the troops.”
+
+The Commander nodded, turned around, and left the small Council chamber quickly. He stepped out of the building and got in the waiting carriage, then touched a Sending Stone mounted inside.
+
+“A need a Battalion assembled right now. Full Battle Rattle. Use the recruits if you have to.” The Commander said and sat back as the stone stopped glowing.
+
+“Sir! Right away, sir!” A voice said and the stone stopped glowing again.
+
+“The Garrison.” The Commander said to the driver. The carriage took off at a full run down the street and other carts had to swerve to get out of the way. “I really, really hate complications.” The Commander said and sighed.
+
+The carriage pulled up to the Garrison 10 minutes later, and the ponies pulling it were exhausted. The Commander climbed out and saw the troops assembling on either side of the road.
+
+Four hundred men should be enough for the Council's show of force. He thought, and watched the men get handed swords and shields. I hope the guy doesn't do anything foolish, like try to run.

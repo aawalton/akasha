@@ -1,0 +1,341 @@
+---
+id: 8a00276d-0ed9-59a5-8cf5-a20e9454564b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 232 - Not Now!"
+slug: 0221-chapter-232-not-now
+partOf: mythrans-master-of-all-continued-completed
+position: 221
+ownLength: 3520
+unit: words
+publishedAt: 2017-04-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131481/chapter-232-not-now"
+royalRoadId: "131481"
+---
+
+“Ren, my scout sense is going crazy.” Teepo said. “Someone is watching you.”
+
+Teepo, it's the middle of the day, and I'm wearing a red suit and running down the street. Ren thought to his friend. Can you tell if they mean me harm?
+
+“No.” Teepo said. “Only that they're close.”
+
+You can't see them?
+
+“Unfortunately, no.” Teepo said, a little disappointed in himself. “They're either concealed really well, or they're invisible.”
+
+But you're invisible, too. Ren thought. I thought you'd be able to see other invisible things.
+
+Teepo chittered in laughter. “Other astral forms, sure.” He said. “If someone is concealed in a spell, or is just that good with camouflage?”
+
+Ren felt Teepo's growing disappointment.
+
+“My eyes are just as blind as yours.” Teepo said.
+
+It's all right, Teepo. Ren thought as he reached the steps of the Library. I'll take a different route back, so they'll have to move to follow.
+
+“Ha!” Teepo said and flew down to land on Ren's shoulder. “That's a smart plan.”
+
+Only if it works. Ren walked up the steps and went into the Library. He heard a little squeal off to the right, and immediately thought of Angeilin. He knew it wasn't her, though; and turned just in time to catch Rosie in an embrace.
+
+“Oh, Ren!” Rosie whispered in his ear.
+
+A man off to the side spoke. “Hey! What gives!” He said. “You were helping me!”
+
+Rosie turned to look at the man, but clung to Ren. “I'll be right there.” She said. “This will only take a moment.”
+
+The man sat down again, crossed his arms, and kind of sulked.
+
+“I see you've found someone else that wants to spend time with you.” Ren said, and she turned to look at him with wide eyes.
+
+“What...” Rosie started to say, then smiled. “Someone else, huh?”
+
+Ren smiled. “Hey, you know I like spending time with you.”
+
+Rosie smiled. “Well, we could spend more time with each other... if you want.”
+
+Ren took a deep breath. “I'm still engaged.”
+
+Rosie shifted her body slightly, and sort of fit herself next to Ren's body, and it was a nice fit. “Thanks to some of the clues you gave in your other book, I was able to ask certain people great questions.” She said as she held him much closer than she had intended for such a public place. “So, I know dwarven marriage contracts are open until the ceremony.”
+
+Ren opened his mouth to say that he also had a girlfriend who might not be happy if he started dating someone else, then closed his mouth; because that would only confirm Rosie's position that he could see other people. Rosie saw his failed attempt to argue, and her heart beat faster.
+
+“I... I'm really busy, Rosie.” Ren said, to stall for time.
+
+“So am I.” Rosie said, then put her mouth right next to his ear. “Your beard tickles, but not in a funny way.” She said, and kissed his ear. “I wonder where else it would tickle?”
+
+“R-R-Rosie?”
+
+“Yes?” She whispered in his ear.
+
+“People are staring at us.” Ren whispered back.
+
+“No, they aren't.” Rosie said. “They're staring at you.” She smiled. “This place has been full of people asking about you.”
+
+“It has?”
+
+“Every third and fourth day.” She said. “For the whole month you've been gone.”
+
+“Oh.” Ren said. “I'm sorry for the trouble.”
+
+Rosie giggled, and it was a pleasant sound. “It's no trouble.” She said. “They read a lot while they're here.”
+
+“That's good.” Ren said, and didn't know how to extract himself from her. She had a good hold of him, and he could feel pretty much all of her pressed against him.
+
+“I want to hear why you were gone for so long, but that can wait.” Rosie said, let him go, and stared at him. “I'm really glad that you're back.” She said. “I missed you.”
+
+Ren wasn't sure what to say to that, and she smiled as she saw his confusion.
+
+“We can stay friends, if that's what you want.” Rosie said, and Ren relaxed. She leaned in and gave him a quick kiss on the lips. “I still want to spend time with you, though.”
+
+“O-okay.” Ren said. “Um... I have to... um...”
+
+“The Sage of Ages is in the back, like always.” Rosie said. “She's waiting for you.”
+
+“Thanks, Rosie.”
+
+She nodded and went back to help the man that had made the outburst earlier.
+
+“Wow.” Teepo said. “That was kind of a surprise.”
+
+You're telling me! Ren thought. I mean, we've been friends for a while, and there have been hints she might want more, but...
+
+“That was a lot more than a hint.” Teepo chittered in laughter.
+
+It's a good thing she was wearing a skirt. Ren thought. Or she might have straddled me right there in front of everyone!
+
+Teepo chittered in delight at the spectacle that would have made, and Ren walked over to the doorway at the side of the room. He ignored the Restricted sign, and opened the door. Thanks to his Patron of Knowledge title, all of the doors in the Library were unlocked for him. He moved down the hallway and entered the back storage room, that was filled with shelves, filing cabinets, and everything else that Libraries used for storage. He walked along the aisle, and came to the desk Lara always used.
+
+“I'd say you were late, but you said 'about an hour', so I can't really complain.” Lara, the Sage of Ages, said from her seat on the other side of the desk. She was reclined in it, with her feet up on the corner of the desk.
+
+“Wasn't that a complaint?” Ren said and smiled. Lara snorted a laugh, and smiled.
+
+“Good point.” She said, took her feet off of the desk, then sat up. “Hurry up and hand them over.”
+
+“You seem really eager to do this.” Ren said, and took out 7 copies of the book.
+
+“The faster I do it, the faster I can get back.” Lara said.
+
+Ren looked at her with his head tilted slightly to the side. “Do you have a spare piece of parchment?”
+
+Lara opened the desk and took a piece of parchment out, and a writing instrument.
+
+“I need to write a letter to the leader of the Giant Lands. Do you know who that is?”
+
+Lara pointed at him. “Ha!”
+
+Ren rolled his eyes. “Okay, okay!” He said, and handed her the parchment back. “You don't have to tell me who it is, for pete's sakes! You write it.”
+
+Lara took the parchment back from him, and wrote out someone's name at the top. “What do you want it to say?”
+
+Ren gave her a quick rundown about the Brain Arthropod Grubs, the impact that they have on giant people, and how to deal with them. Lara stared at him as she saw it, and her eyes widened.
+
+“You have one in your inventory.”
+
+“I took one for evidence, in case I needed it for proof.”
+
+“Don't take it out!” Lara said, and Ren closed his inventory. He was just about to take it out to show her. “I believe you.”
+
+“Oh. Right.” Ren said and smiled. “Okay, back to the letter.” He said, and told her to write an impassioned plea to let the giants back onto giant lands; because they can't live where they are now, and won't survive without their help.
+
+“Good god.” Lara said as she saw the conditions the giants had to live in. “Those poor people.”
+
+“It was the best I could do on such short notice.” Ren said. “You better sign it yourself. They won't know me at all.”
+
+“Really?” Lara looked at him and picked up one of the books. She froze stiff, and her eyes went wide. A moment later, she let the book go, and sat down. “Oh, GOD!”
+
+“Lara?” Ren walked around the table, but he knew better than to touch her. “What is it?”
+
+She blinked her eyes and shook her head. “No, Ren. You have to sign it.” She said. “Use your new title, too.”
+
+Ren looked at her with surprise on his face, and signed the letter as 'Ren, the Dreaded Foe'. “I hope that works.”
+
+“Oh, don't worry.” Lara said. “It's definitely going to get someone's attention.”
+
+*
+
+“Sir!” One of the elves said to the head scout. “We've found a fresh scent!”
+
+“Where is it?” The head scout said, and unrolled the map they'd drawn of the town.
+
+“It came from this building here.” The elf said, and pointed to the map. “It went down these streets, to this building here.”
+
+“That's the Library.” The head scout said. “What in all the realms would a dark elf want in a human Library?”
+
+“We don't know, sir.” The elf said. “We didn't go inside.”
+
+“That was a rhetorical question.” The head scout said. “They wouldn't want anything in a Library.”
+
+“Oh! Sorry, sir.”
+
+The head scout smiled. “Send in the jaguars. We want it captured before it escapes again.”
+
+“Into the Library?” The elf asked, surprised.
+
+“No, you fool.” The head scout said. “We'd be banned the second the jaguars entered the building if we did that. Set up an ambush site just up the street from the Library. Use the nets if you have to. I want that dark elf!”
+
+“It will be done.” The elf said, and took off at a run.
+
+*
+
+Lara rolled up the letter, tied it with a piece of string, and stored it.
+
+“Are you sure you can have that delivered to where it needs to go?” Ren asked.
+
+“Please.” Lara said, stored the books, and stood up. “I'll be back in a few minutes.”
+
+“Check to see if there's a message at the Library in the Giant Kingdom for you.” Ren said. “I told a friend to leave one if he needed me to come and get him.”
+
+“Oh, great!” Lara said as she started to walk away. “Now I'm your mailman, too!”
+
+“You know I appreciate your help.” Ren said, and she blew him a raspberry as she disappeared around the corner of a shelf. “I really do!” He nearly yelled, heard her snort a laugh, and then a door closed.
+
+“I hope she delivers the one to the giant lands first.” Ren said, and looked at the stuff on the desk. There wasn't anything interesting, so he made a chair for himself and sat down. Now that he had a moment to think about Lara, he remembered her telling him to check through the box of knick-knacks he'd bought from the vendor in the dwarf lands. Ren looked through his inventory for it, and pulled it out.
+
+“I really did forget that I had this.” Ren said, and opened the box. Inside were a bunch of little things that looked to be carved from wood. Most of it was just junk, but he remembered that there were a couple of them that he was interested in. He moved the contents around, until one of them caught his eye.
+
+“There's one I remember.” Ren said, and took out what he thought was a child's toy. It was a wooden boat about 6 inches long. By itself, it was nothing special; but the thing Ren had noticed about it though, was that it had wooden wheels on the bottom... and a key.
+
+It was a wind-up toy.
+
+Ren turned the key a couple of times, and put the boat on the desk. The boat moved along at a good pace, then stopped.
+
+“Sweet!” Ren said, then looked at where Lara had disappeared. “She was right.” He said. “This is definitely going to help that farmer and his plow problem.”
+
+*
+
+Lara appeared in the closet at the Library in the Giant Kingdom, and opened the door. Her door was the only one that was made for a little person, and it came out on the floor behind the Librarian, that sat at the main reception desk. The little door was hidden behind a tall stack of giant-sized books, so that no one else would see it, and wonder why there was a little door there. Lara rang the little bell she had been assigned exactly once, and the Librarian put the small 'be right back' sign for just such an occasion on her desk, and got out of her chair and knelt on the floor by the wall.
+
+“What can I do for you today, Sage of Ages?”
+
+“Sorry for bothering you again so soon.” Lara said. “But, this is important.”
+
+“Of course.” The Librarian said. “You've helped us with several things already, and your Respect is quite high. Anything that you say is important, will be dealt with accordingly.”
+
+“The first.” Lara said, and handed her a copy of Ren's book. “It's a Rank B, but it should be read by everyone in the government. At least.”
+
+The Librarian's eyes widened at her words, and took the book. It was so small, and yet the giant Librarian knew as soon as she entered it into the system, it would expand to a size she could read.
+
+These little people and their magic! She thought, and left for a minute. She put the book into the system, and sure enough, it made a copy and it was now normal-sized. The Librarian gasped at the title, and stared at the cover. She took a quick flip through the pages, and saw several images inside.
+
+“Oh... my.” She said, closed the book, and brought it back to the Sage of Ages. “Is this a fantasy book?”
+
+“Unfortunately, no.” Lara said. “It happened only 2 days ago.”
+
+“Y-y-you're serious?!?” The Librarian asked. “This is... this is real?”
+
+“You need to read it.” Lara said. “You'll understand why afterwards.” She held out the rolled up letter. “This needs to get to the Chancellor, right away.” She said. “With a copy of the book.”
+
+The Librarian nodded, and went to her desk. She rang a similar bell to the one Lara had rung, and a young giant ran over to the reception desk.
+
+“Store this and hand it back.” She commanded the young giant, and he did so. The letter resized to full size, and she put it and the book into a large envelope. She sealed it, and handed it to the young giant, who stored it.
+
+“Chancellor Sagradia, immediately.” The Librarian said.
+
+The young giant ran off and out the door, and the Librarian went back to kneel beside Lara.
+
+“He'll have it within minutes, Sage of Ages.”
+
+“Thank you.” Lara said. “You're always so nice.”
+
+“I like little people.” The Librarian smiled. “That you're also the Sage of Ages just makes it that much better.”
+
+Lara chuckled. “Please make copies for the ones who need it.” She said and reached into her coin pouch.
+
+“That won't be necessary.” The Librarian said. “If this really is a government matter, there's no charge for it.”
+
+“Please let me know if that changes.” Lara said.
+
+“Of course.” The Librarian said. “If that's all, I should get back to work.”
+
+“Actually...” Lara said, a little uncomfortable. “...did anyone leave a message for me here?”
+
+“Let me check.” The Librarian said and went back to her desk. A few moments later, she came back. “No, there's nothing for you.” She said. “Are you expecting something?”
+
+“I think so.” Lara said. “I'm not sure when it will get here, though.”
+
+“I will watch for it.” The Librarian said.
+
+“Thank you very much for all of your help.” Lara said.
+
+“It was my pleasure.” The Librarian said, stood up, and went back to her desk. Lara turned around, stepped into her closet, and shut the door. She chose the next Library on the drop down menu, and opened the door to deliver the next book.
+
+*
+
+Ren had examined the boat as much as he could, without taking it apart. He couldn't get the plans for it, though. He was tempted to use his tools to open it right here, but if he dropped anything, or made a mess, Lara would get angry at him. He stored the box of knick-knacks, and then the toy boat. He sat there, and remembered the farm equipment book. He smiled as he thought about adding the plow and harvest mechanisms to a wind up toy.
+
+*
+
+Oh my GOD! Elerlyth thought as she skimmed through the book and Ren's encounter with Rubella. Ren! You crazy idiot!
+
+She flipped the pages through his encounter at the giant land border next, and started to skim over the details of him at the Garrison, and how he dealt with the crazy giants.
+
+Oh, my GOD! She thought when she got to the part about the pit trap, and kept reading.
+
+********
+
+Detective Ramirez was in charge of the whole operation in the hidden room Officer Stonewall had discovered. The techs were working on removing the backup hard drive from the crumpled mess it was in, and tried their best to not damage it any further. The forensics team was in the middle of dusting every single photograph for prints. So far, they had nothing.
+
+Come on, come on! The Detective thought as he watched them work. Give me something!
+
+“Everything's been photographed and videotaped.” The photographer said.
+
+Officer Stonewall looked at him sternly. “It's digital.” She said. “They haven't made actual videotape in years.”
+
+The photographer chuckled. “It's just an expression.”
+
+“Then say 'recorded' instead.” She corrected him. “If someone heard you call it videotape, when none actually exists, we could be accused of concealing or destroying evidence.”
+
+“Sorry, officer.”
+
+Officer Stonewall sighed. “No, it's okay.” She said. “Staring at all these pictures is making me antsy.”
+
+“Tell me about it.” One of the other officers said. “To think they had someone this close to him.” The officer said, and pointed to a series of pictures of Ren, asleep in his hospital bed.
+
+“They wouldn't have to be close to him.” Officer Stonewall said. “Just have access to his room.”
+
+“That's a pretty big list, though.”
+
+“We've eliminated the nurses, at least.” Detective Ramirez said. “The only one that was even questionable, we already have in protective custody.”
+
+“Do you think it was the doctor?” Officer Stonewall asked.
+
+Detective Ramirez shook his head. “No. I think he's either a red herring, or so deep in this that he wouldn't need the pictures anyways.”
+
+“No luck finding him, then?” The other officer asked.
+
+“Not a trace.” Officer Stonewall said. “His car is gone and his bank accounts were emptied.” She said. “He even left his house unlocked.” She shook her head. “There were already two parties thrown there, and half a dozen squatters when we got there.”
+
+The other officer laughed. “Who does that?” He asked. “I mean, that's like something out of a movie or something.”
+
+“His house is in a swanky neighborhood.” Detective Ramirez said. “Some people actually showed up to have a party, while we were there trying to gather evidence.” He shook his head. “Whoever set it up made sure there was too many other people in the house for us to find anything.”
+
+“I couldn't even look in the bathroom.” Officer Stonewall said. “Good god, the smell!”
+
+The other officer laughed again. “Been there, done that.” He said. “When it's not your bathroom, and you don't care what happens...” He looked at the detective. “How many needles did you find?”
+
+“They filled two containers just from what was in the bathroom.” Detective Ramirez said. “They haven't finished with the rest of the house yet, and it's been three days.”
+
+The officer shook his head. “We should leave the place open after the investigation.” He said. “We could have half of the druggies off the streets by the end of the month.”
+
+“I got one!” One of the forensics members exclaimed. There were several cheers and high fives, and Detective Ramirez and Officer Stonewall rushed over to see.
+
+“Tell me it's a full print!” He demanded, and the tech grinned.
+
+“One full index print, right here.” She said, and held up one of the polaroids. “Someone wiped off the front of every picture... but this little guy, he wasn't completely glued down like the others.” She said and turned it over to show him a clearly-defined dusted fingerprint.
+
+“I could kiss you!” Detective Ramirez said, and the tech blushed slightly. “That's excellent work.”
+
+“T-thank you, sir.”
+
+“Get it to the lab, asap.” He said. “I want it run on any database that we have access to.”
+
+“Y-yes, sir!” The tech said, bagged the photo, and the other officer volunteered to escort her out.
+
+“This could blow this whole case wide open.” Detective Ramirez said.
+
+“Yes, it could.” A bland male voice said from the doorway. “Thank you.”
+
+Detective Ramirez turned towards the voice, and saw who it was. “Ah, dammit.”
+
+It was Agent Smith, with his partner Agent Smith. “I think we can take it from here.”
+
+“Goddammit!” Detective Ramirez shouted, and Officer Stonewall sighed.

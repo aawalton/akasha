@@ -1,0 +1,497 @@
+---
+id: e4792266-562b-5bc1-abb8-64dcb93720fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 251 - Physical Problems"
+slug: 0240-chapter-251-physical-problems
+partOf: mythrans-master-of-all-continued-completed
+position: 240
+ownLength: 4850
+unit: words
+publishedAt: 2017-05-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135424/chapter-251-physical-problems"
+royalRoadId: "135424"
+---
+
+When it was time, Ren sat in the wheelchair and Denise took him into the next room.
+
+“There's my favorite patient!” The male therapist said, came over and knelt in front of the wheelchair, and put a hand on his knee.
+
+“Don't do that.” Ren and Denise said at the same time, and the therapist smiled and pat Ren's knee.
+
+“I don't mean anything by it.” He said. “It's just a friendly greeting.”
+
+“Just 'hello' is a friendly greeting.” Ren said. “You don't have to touch me for that.”
+
+“Hey, it's all good.” The guy said. “Come over to the balance ball and we'll work on your arms for a bit first.”
+
+Ren nodded, and got out of the wheelchair. He walked over to the balance ball and very carefully sat on it.
+
+“Give me some curls.” The therapist said, and Ren did arm curls for a few minutes. “Okay, here's the 1 pound weights.” He said and passed them to Ren. “Give me a few more reps.”
+
+Ren held onto the weights and did the exact same motions.
+
+“Keep your hand tight, and your elbow relaxed.” The therapist said, and put a hand over Ren's hand and braced his elbow with the other. “Like this.” He said and did the same motion Ren just did.
+
+“I just did that.” Ren said, and trembled a little bit. “And would you please stop touching me?”
+
+The guy smiled and let him go. Ren did arm curls for a few minutes, and then they worked on squats. Ren hated these exercises in particular, because it always made it harder for him to walk afterwards. He did several of them slowly, so he could show the therapist that he had technique right while he kept his balance, and didn't over-exert himself. The therapist wasn't happy with that, though.
+
+“No, you have to keep your back straight.” He said, put a hand on Ren's lower back.
+
+“Stop!” Denise exclaimed, but the therapist ignored her. Ren froze solid, and all of his muscles tensed up at the same time as the guy put a hand on the top of his chest and gently pushed on his back. Denise ran over to stop the therapist, but it was too late. Ren had already lost his balance. Denise gasped as he slid out of the therapist's hands and fell forward.
+
+Thankfully, the balance ball was there and Ren landed on that, instead of directly on the floor. It still hurt, however; and it knocked the wind out of him.
+
+“Ren!” Denise said and she slid him off the ball and onto the floor.
+
+Ren tried to catch his breath. “...can't... breathe...”
+
+Denise took in a lungful of air and gave Ren mouth to mouth. She blew into his lungs and hoped it opened his airways and forced him to relax his diaphram. Ren froze as the therapist knelt beside her, and he stopped trying to breathe.
+
+“Get away from him, you idiot!” Denise practically yelled at the therapist, and he was surprised at the hatred in her voice. He moved away, and Ren relaxed.
+
+“Try to catch your breath, Ren.” Denise said, and blew another lungful of air into his lungs. “Come on, you can do it!”
+
+Ren opened his mouth, and Denise heard him struggle to take air in. It was going in, but slowly.
+
+Oh, god. Denise thought. I hope he didn't get a pulmonary contusion or a collapsed lung. She leaned in close and listened to his breath. I can't hear any fluid or wet sucking sounds. She leaned back and gently slid up his t-shirt to the top of his chest, careful to not compress his chest while doing so. She traced each rib to see if any were broken, bent or out of place; but, they were all fine.
+
+“I think you just got the breath knocked out of you.” Denise said and put a hand on his forehead. “I can't find anything wrong at the moment, but we'll have the physician check you out, just in case.” She smiled. “Just lay there and keep breathing for a few minutes.”
+
+Ren nodded and Denise stood up to walk over to the therapist.
+
+“What the hell is wrong with you?” Denise asked him, her voice full of scorn. “How many times do we have to tell you to stop touching him?” She asked. “Ten? A hundred?”
+
+“Hey, I'm a physical therapist.” The guy said to defend himself. “I have to touch him to correct his mistakes.”
+
+“That wasn't what you were doing.” Denise said. “You can't tell me that you didn't feel him tense up when you put your hand on his back!” She snarled, and he didn't say anything. “Yeah, that's right. I was across the room and I could see Ren's reaction after you touched him like that, and you knew exactly what you were doing after I clearly yelled at you to stop!”
+
+“Look, he has to learn to deal with things like...”
+
+“SHUT UP!” Denise yelled into his face, and he clamped his mouth shut. “You have no idea what he's had to deal with!” She said. “The last thing he needs is some egotistic asshole trying to cure him of a phobia, when what you should be doing is helping him recover physically!”
+
+“There's no need for name-calling!” The therapist said, and started to get angry at her verbal abuse. “If you and the other nurses didn't coddle him so much, maybe... just maybe... he wouldn't be such a pu-”
+
+*SLAP*
+
+“Don't you dare use that word to describe him!” Denise said, and the therapist stared at her like he'd never seen her before.
+
+“You... slapped me.” He said, completely shocked.
+
+“You're lucky it wasn't my fist!” Denise said. “You've been callous and unprofessional the entire time you've had Ren for physical therapy sessions, despite the many conversations everyone has had with you about his case.” She said. “Even the doctor warned you about it!”
+
+“I'm not going to let someone with no therapy experience, tell me how I should do my job.”
+
+“Are you really that thick-headed?” Denise shook her head. “We weren't trying to tell you how to do your job. We were trying to tell you to not hurt him!”
+
+“I didn't hurt him!”
+
+“Really?” Denise stepped back and pointed to Ren. “The physical evidence is right there.” She said. “If the doctor checks him out and he doesn't have one, or even both lungs bruised after that, then I'm going to be surprised.”
+
+The therapist didn't say anything in his defense.
+
+“I'm not even going to mention the emotional abuse you made him suffer through.” Denise said. “He does not need that kind of thing in his life.”
+
+“You're right, I don't.” Ren said. He sat up, and you could clearly see a large round bruise start to form on his chest already. “I won't be coming to therapy here anymore.”
+
+“I don't think you can make that decision.” The therapist said.
+
+“I don't care what you think.” Ren said and stood up. He was a bit wobbly, but he walked over to the wheelchair and sat down. “I'm not coming back. What are you going to do? Drag me back? Force me to work out?”
+
+The therapist didn't say anything, and Ren smiled.
+
+“I thought I didn't have a choice about doing therapy here.” He said. “While my wonderful nurse berated you on your inability to listen, I realized something.”
+
+Denise smiled as she walked around the back of the chair and took the handles.
+
+“You require my cooperation for therapy to work.” Ren said. “So, I've decided that you're not getting it from me anymore.” He looked at Denise. “Take me back to my room, please.”
+
+“Of course.” Denise said, and pushed Ren by the speechless therapist. They were out into the hallway, then into his room barely a moment later.
+
+“I've already called the doctor.” Barbara said and hung up the phone. “Oh, that looks bad.”
+
+Ren chuckled and looked down at himself. He'd forgotten to pull his t-shirt back down.
+
+“It could have been a lot worse.” Ren said. “I landed on a balance ball instead of the floor.”
+
+“Oh, Ren.” Barbara said and came over to him. “Are you all right?”
+
+“Thanks to Denise.” Ren said. “You should have seen her.”
+
+“I didn't have to.” Barbara smiled. “I think everyone in the facility heard the whole thing.”
+
+Denise shook her head. “I shouldn't have slapped him, though.”
+
+“Was he really going to...”
+
+Denise nodded.
+
+“Then you're right.” Barbara said. “He's lucky it wasn't a fist.”
+
+“So am I.” Denise said and flexed her fingers, because her hand still tingled from the impact. “He has a strong jaw.”
+
+Barbara chuckled and Ren smiled. A few minutes later, the doctor came in. She had really short black hair, trimmed close to her head, and wore a white shirt with black dress pants. She also carried a briefcase that Ren assumed held her medical equipment.
+
+“Good god.” She said, and knelt by the wheelchair. She traced the line of the bruise around his chest and down to his abdomen. “Exercise ball?”
+
+Ren nodded. She opened her briefcase and took out her stethoscope. She rubbed her hands on it, and huffed on the cold metal. She put the ends in her ears, and pressed the metal end to his chest.
+
+“Deep breath in.” She said, and Ren did it. “Let it out.”
+
+She repeated this several times, and moved the stethoscope to different parts of his chest.
+
+“Okay, I didn't hear any fluid.” She said and smiled. “That's a good sign.”
+
+Ren nodded, and she looked at him seriously.
+
+“I'm tempted to do an endoscopy.” She said. “More specifically a bronchoscopy, so I can get a good look down there.”
+
+“Really?” Ren said, a little worried.
+
+“Don't worry. I'm jumping the gun a little.” She said. “I'll order an X-ray first, and if that shows anything, then we can schedule the out-patient procedure.”
+
+Ren sighed. “Okay.”
+
+“It's not that bad.” She said and stood up. “It should only take a few minutes.”
+
+Denise pushed Ren down the hallway behind the doctor, around the corner, and into the small X-ray room.
+
+“Hi, Gina.” The doctor said. “I've got another quickie for you.”
+
+“Doctor!” Gina exclaimed.
+
+“What?” She asked, and looked around. “It's going to be quick. No one else is here.” The doctor went into the next room to wait, after telling Gina to take an X-ray of Ren's chest and lungs.
+
+“That's not what 'quickie' means.” Gina whispered, and Ren and Denise chuckled. “Let's get you up on the table.” Gina said to Ren, laid out a fresh sheet of paper for him to lay on, and Ren climbed up to sit on the edge of the table.
+
+“Should I take off the t-shirt?” Ren asked, and Gina shook her head.
+
+“It's out of the way, so it's fine.” She said. “Do you have any metal or magnetic things on or in your pockets?”
+
+“No.”
+
+“Then lay back and relax.” Gina said and slid something into the table in the area under Ren's chest. “It really will be quick.”
+
+Both Denise and Gina walked behind a protective screen, there was a soft hum for a few seconds, and then a click. Gina came back out and asked him to turn onto his side. She changed the plate in the table, and disappeared behind the protective screen again. Another soft hum and click later, and it was over.
+
+“There, all finished.” Gina said as she took the second plate, and Denise came over to help Ren pull his t-shirt down. He got off the table and sat in the wheelchair.
+
+“Do we wait here?” Ren asked Gina.
+
+“No, you can go back to your room.” She said and smiled. “It's going to take a few minutes for the doctor to look these over.”
+
+“Okay.” Ren said. “Thank you.”
+
+“You're welcome.” Gina said and she went into the next room to give the X-rays to the doctor.
+
+Denise pushed the wheelchair back to Ren's room and he looked at the bed.
+
+“I'm really tempted to just climb into bed and forget this morning ever happened.” Ren said. “But, I need to finish my workout.”
+
+“No, you don't.” Denise said. “Your chest is going to be sore for a while, and that's assuming nothing is wrong with your lungs.”
+
+“But...”
+
+“Let's wait to hear from the doctor first, before you try to exercise again.” Denise said. “If there's already damage, the last thing you need is to cause more damage.”
+
+Ren sighed, and waited for the doctor.
+
+*
+
+Officer Stonewall hadn't slept well, and was bleary-eyed when her partner picked her up.
+
+“What the hell happened to you?” Detective Ramirez asked her as she flopped into the passenger seat and shut the door.
+
+“No sleep.” Officer Stonewall said, and then yawned. “Dammit, I can't stop yawning.”
+
+“I can get you to stop.” He said.
+
+“How?” She asked. “It's not like...” She started to yawn and Detective Ramirez stuck up his finger for her to see, and moved it towards her mouth. Her eyes widened because it looked like he was going to put his finger in her mouth.
+
+“Wha... ah!” Officer Stonewall clamped her mouth on the yawn when his finger was about an inch away. “What are you doing?”
+
+“It's a yawn deterrent.” Detective Ramirez laughed. “Every time you start to yawn, I'm going to try and stick my finger in your mouth.”
+
+“WHAT?!?”
+
+Detective Ramirez grinned at her outraged expression, put the car into gear, and drove down the road. “When I was growing up, my sister used to do it to me all the time.”
+
+“Hold on.” Officer Stonewall said. “Your sister used to stick her fingers in your mouth?”
+
+He snorted a laugh. “Boy, did she!” He said. “I was always tired as a kid, and used to fall asleep in class all the time. She'd do her best to stop me from yawning by using the finger trick.”
+
+Officer Stonewall shook her head. “What made her think up such a thing?”
+
+“No idea.” Detective Ramirez said. “It worked like a charm, though.” He smiled. “After the first time I didn't close my mouth in time, my sister hooked my cheek and pulled.” He laughed. “I yelled, and got detention for disrupting the class.”
+
+“And that's funny?”
+
+“Of course it is.” Detective Ramirez said. “I bit her finger and she yelled, too.”
+
+Officer Stonewall laughed. “Okay, I have to admit that was funny.”
+
+“She's a great sister.” Detective Ramirez said. “I make it a point to visit her every time I go out to the Point.”
+
+“I've never been there.” Officer Stonewall said. “What's it like?”
+
+“It's the nicest place you'll ever see.” Detective Ramirez said. “Rolling hills, great big houses, rocky cliffs by the water, a beach you need an appointment to get on, and it's got one of the biggest lighthouses on this side of the country.”
+
+“That does sound nice.” Officer Stonewall said.
+
+“I'm heading up there tomorrow for the weekend, actually.” Detective Ramirez said. “Why don't you come along?”
+
+“What?”
+
+“It's only a couple hours drive.”
+
+“I don't know...”
+
+“I'll even show you around all my old haunts.” He said. “It's my niece's birthday on Sunday, but that will only be an hour or so anyways. I won't have anything else to do all weekend while I'm there.”
+
+“John...”
+
+“Before you answer...” Detective Ramirez smiled. “...my sister makes the best lasagna.”
+
+“Lasagna?!?” Officer Stonewall exclaimed. “Well...” She smiled. “I guess I could let you drag me along.”
+
+Detective Ramirez laughed. “I figured that would pique your interest.” He said. “I'll pick you up at the same time tomorrow.”
+
+“I'll be ready.”
+
+“Now that I've gotten the pleasant things out of the way...” Detective Ramirez reached over and pushed a button on the police radio and turned it off. “Did you split the list of names up?”
+
+“Yes.” Officer Stonewall said. “I also read everything, to see if there were any other names.”
+
+“Did you find any more?”
+
+“Unfortunately.”
+
+“You're trying to tell me that I don't want to know, aren't you?” He asked her.
+
+“You catch on fast.”
+
+Detective Ramirez pulled over, and Officer Stonewall handed him his half of the names. He read through them quickly, then cursed long and loudly when he got to the last one.
+
+The last name on the list was the Chief of Police.
+
+“I wondered why he was so hard on us.” Officer Stonewall said.
+
+“Was that the worst one?”
+
+“That we didn't know about.” Officer Stonewall said. “You were right about Senator Eddlemere.” She sighed. “His name was mentioned, too.”
+
+Detective Ramirez stuffed the list into his front shirt pocket, and drove out into the street.
+
+“Are we really going to try and find all these people?”
+
+“Yes.” He said. “Quietly.”
+
+“How are we going to do that?” Officer Stonewall asked. “Once we start adding these names into the database search, someone is going to see it.”
+
+“Don't look them all up at once. Use someone else's computer for some. Google search something stupid and then look up the name.” Detective Ramirez suggested. “You can just ask different people if they know them, and they'll look the name up for you.”
+
+“You've done this before.”
+
+Detective Ramirez smiled. “If you do something long enough, you learn some tricks to hide your tracks.”
+
+“Teach me, oh great Jedi Master.” Officer Stonewall said.
+
+“Very well Young Padawan, I will teach you the ways of the force.” Detective Ramirez said. “The police force...” He said and grinned. “...surrounds and encompasses us.”
+
+“I've unleashed a monster.” Officer Stonewall said, and he laughed.
+
+*
+
+“You're in luck.” The doctor said when she came into Ren's room. “No abnormalities, dark spots, or signs of trauma.” She looked at his still exposed chest. “Except for that gigantic bruise that's forming quite fast on your chest.”
+
+Ren glanced down and saw it was getting darker. “Damn.”
+
+“I recommend taking a few days off from physical therapy.” She said. “Once that bruise starts to heal, you can start working out again.”
+
+Ren sighed. “If I don't keep moving, I'll start to decline again.”
+
+“You can get up and move around; but, you aren't to do anything strenuous.” The doctor said. “You took a hard blow to the chest, and it's going to slow you down for a few days.” She ruffled his hair. “I'll check back after the weekend to see how you're doing.”
+
+“Okay, doctor.” Ren said. “Thanks for checking me out right away.”
+
+“It's my job.” She said. “Have a good day.”
+
+“I better head out, too.” Barbara said as the doctor left. “I'm glad you aren't seriously hurt.”
+
+Ren stood up, and she gave him a very light hug. “See you tonight.”
+
+“I'll be here.” Ren said and she chuckled.
+
+“You better be.” Barbara said. “Or Elise will be pissed that you stood her up for your date to watch the show.”
+
+Ren laughed. “Bye, Barbara.”
+
+She talked to Denise and let her know that nothing much happened overnight, and then left. Ren started to take off his t-shirt, but the cloth bundled up and dug into the sides of his chest. He tried to pull it lose, and winced.
+
+“Denise? Can you give me a hand with this t-shirt?”
+
+“Sure.” She said and pulled it back down.
+
+“I wanted it off, not back on.” Ren chuckled.
+
+“I am taking it off.” Denise said and grinned. “Lift your arms up.”
+
+Ren lift his arms above his head, she grabbed the bottom of the t-shirt, and pulled it off over his head in one smooth motion.
+
+“Thanks.” Ren said. “Even though I didn't do a full workout, I might as well get a shower.” He said, and walked to the bathroom. He took off his jogging pants and tossed them aside.
+
+“You don't have to make a mess, just because you're frustrated.” Denise said as she came into the bathroom with the t-shirt, then picked up his pants and tossed both items of clothing into the hamper.
+
+“I would have picked them up when I was done of my shower.” Ren said, and took off his underwear.
+
+“Don't you dare throw them on the floor with me standing right here.” Denise said, and he smiled.
+
+“Okay.” Ren said and tossed them at her. “Catch!”
+
+She reached up quickly and caught them, then tossed them into the hamper with the jogging pants.
+
+“Hey, good reflexes.”
+
+“My dad loved playing catch.” Denise smiled. “He didn't care that I was a girly girl growing up, as long as I caught the ball just as good as my brothers.”
+
+Ren chuckled as he turned on the water, set it to the right temperature, and switched it to the shower head. “I'm really jealous.” He said and stepped into the shower.
+
+“Why?” Denise asked automatically, then sighed. “Forget I asked that.”
+
+“It's okay.” Ren said and started to lather up. “It's not just the fact that your dad would do those things with you, it's that you could do them.”
+
+Denise heard him hiss, and came over to him. “Are you okay?”
+
+“Yeah.” He said, and took several breaths. “I just forgot that I shouldn't scrub my chest so soon.”
+
+Denise unzipped her top and hung it on the towel rack. She picked up a soft cloth, took the bar of soap from Ren, and lathered up the cloth. Ren stared at her custom-made bra, because it showed off her breasts to full advantage, gave her all of the support she needed, and let her wear clothing that fit.
+
+“Stella was right.” Denise said and laughed.
+
+“What?” Ren asked and looked at her face. Denise took the lathered-up cloth and gently rubbed it across his chest.
+
+“Stella said you'd probably never look at our faces if we kept our tops off.”
+
+“Hey, that's not... entirely accurate.” Ren said and grinned. Denise snorted a laugh and finished lathering his chest.
+
+“Turn around and I'll do your back.”
+
+“Thanks.” Ren said and turned around. “I was looking at the custom-made bra to see how well it fit you.”
+
+“Uh huh.” Denise said and scrubbed his back. “You didn't look at my boobs at all, right?”
+
+“Of course I looked.” Ren chuckled. “When a pretty woman takes off her top and lets me see her body, the least I can do is admire the sight.”
+
+Denise smiled. “I'm done scrubbing your back.” She said and Ren turned around. “Can I ask you something?”
+
+“Sure.” Ren said as he lathered his arms.
+
+“You enjoy seeing them like this, even though you saw them completely only the other day?”
+
+“I do.” Ren said, and lathered his legs. “It could be animal instincts, or hormonal urges, but...”
+
+“But what?”
+
+“I don't really think it's any of that.”
+
+“So what do you think?”
+
+“I think they're just delightful.” He said. “Any man that doesn't appreciate the beauty of a woman, needs to have his head examined.”
+
+“All right, Mr. Casanova.” Denise chuckled. “Step into the spray and get rinsed off.”
+
+Ren stepped into the spray, hissed when the water hit his chest, and stepped back out.
+
+“Oh, damn!” Denise said and turned the nozzle of the shower head to a gentle stream. “Sorry, Ren.”
+
+“It's not your fault.” Ren said. “Thanks.”
+
+“I'll be right back.” Denise said, and went out to the room. She came back in with a water jug and dumped the cold water out into the toilet.
+
+“What are you doing?” Ren asked her as she held water jug up under the shower head.
+
+“Getting some water to help rinse you off.”
+
+Ren wasn't sure what she meant at first; but a few moments later, she asked him to face her and hold onto her shoulders. He did, and she slowly poured the water over his chest and rubbed the skin with her hand.
+
+“That feels nice.” Ren said as Denise got the soap off of him. It hurt a little where she touched, but that was over-shadowed by the feel of her hand and the cascading water. He'd never had a woman caress him like that before.
+
+Denise refilled the jug and rinsed off his arms, and when she knelt to rinse the soap from his legs, her eyes widened at his quite obvious enjoyment of the situation. She saw it was still covered in soap; but ignored it for the moment, and rinsed the soap from his legs. When that was done, she stood up to get more water from the shower head.
+
+“Thanks, Denise.” Ren said. “I can do the middle part.”
+
+“Are you sure?” Denise asked. “The water jug is kind of heavy.”
+
+“Well, you can pour it then; but, I'll do the rubbing.” Ren said. “If you do both... um...”
+
+“I understand.” Denise chuckled. “Do you want me to close my eyes?”
+
+Ren shook his head. “I usually only over-react when a woman touches me there.” He said. “It should be okay.”
+
+Denise poured the water out slowly onto his mid-section. “We're going to have to switch to baths for a while.” She said and watched in fascination as Ren rubbed off the soap. How can it be so big in comparison to the rest of his body? She thought. There's shouldn't be enough blood in him for... well, that.
+
+“Baths take forever.” Ren said.
+
+“And this isn't taking long?” Denise said, and he laughed.
+
+“Point.”
+
+“Did you get the soap from underneath it?”
+
+“I think so.” Ren said and tried to bend over to look. “Ow.”
+
+“Stop.” Denise said. “Don't bend over like that. You're compressing the bruised skin. I'll look.”
+
+Ren nodded and Denise knelt. He held himself up and out of the way, and she nodded.
+
+“All clean.” She said. “Now to shampoo your hair.”
+
+“Oh, right!” He said, and picked up the shampoo bottle.
+
+“Wait!” Denise said.
+
+“What? Why?”
+
+“If you shampoo your hair standing up, you'll have to rinse everything off again.”
+
+“Ah, dammit.” Ren said. “What should I do?”
+
+“Let's get the rest of you dried off first.” Denise said and used a towel to dry as much of him off as she could, then handed him his bathrobe.
+
+“I can't wash my hair wearing this.” Ren said.
+
+“You're not going to.” Denise said. “I am.”
+
+“Oh.” Ren said and looked around. “How are you going to do that?”
+
+“Carefully.” Denise said and told him to sit right beside the tub. She folded a towel up and held it on the edge of the tub. “Lean back, and rest your neck on this and your shoulders on the edge of the tub.”
+
+Ren had to move out slightly to do that, and it left his head over the tub with his face looking up towards the ceiling. Denise refilled the water jug, poured it over his forehead, and used her other hand to spread the water out to get all of his hair wet. Once that was done, she took the shampoo from Ren and squeezed out a little bit into the palm of her hand, then rubbed her hands together. He was going to ask her what she was doing that for, but then she put her hands into his wet hair and moved them around.
+
+The shampoo lathered up quickly as Denise scrubbed his head. Ren closed his eyes and took long even breaths while her fingers massaged his scalp. After a few minutes, Denise used the water jug to rinse the lather out of his hair. She used the same technique that she used to make his hair wet in the first place, and all of the shampoo was washed out.
+
+“There, all done.” Denise said, and picked up another towel to dry his hair.
+
+“Can you wash it again?” Ren asked, and kept his eyes closed.
+
+“It's clean.” Denise said. “I wouldn't say it was done if it wasn't.”
+
+“I know.” Ren said and opened his eyes to look at her. “That was really relaxing.”
+
+Denise nodded, and he closed his eyes. She picked up the shampoo and did the same little trick to start the lather up, then plunged her hands into his hair. He sighed as she massaged his scalp again, and rather than stop after a few minutes, she kept going. It seemed like it went on forever, and Ren basked in the sensations.
+
+Eventually, Denise picked up the water jug and rinsed out his hair. He sat up at her prompt, and she dried his hair. When she was done, her eyes widened when she saw what she'd done.
+
+“Oh, my.” Denise said.
+
+“What is it?” Ren asked. “Is something wrong?”
+
+“It's nothing.” She said as she tried to hide her smile.
+
+“Denise...” He said and looked at her.
+
+“It's nothing.” She said and grinned.
+
+“Now I have to see it.” Ren said, carefully stood up, and walked to the mirror over the sink. “Oh, wow.”
+
+His hair was the softest and fluffiest it had ever been.

@@ -1,0 +1,263 @@
+---
+id: 12e03695-5eaf-54cc-9d7a-8b0d9b345004
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111 - Getting Ready"
+slug: 0095-chapter-111-getting-ready
+partOf: mythrans-master-of-all-continued-completed
+position: 95
+ownLength: 2628
+unit: words
+publishedAt: 2016-12-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107076/chapter-111-getting-ready"
+royalRoadId: "107076"
+---
+
+“Ren...” Teepo whispered, then waited 10 seconds.
+
+“Ren...” Teepo said in a normal voice, and waited 10 more seconds.
+
+“REN!” Teepo shouted and chittered in delight as Ren sat up in the bed, sitting Nathalia up with him.
+
+“I'm up!” Ren said and blinked his eyes a few times.
+
+“Shhhhh!” Teepo said. “Nathalia's still asleep.”
+
+Ren looked at her in his half-hug, still sound asleep. He smiled as he lay her back down on the bed, far enough away that she wouldn't accidentially touch him after he logged out. Ren lay down himself, and looked at Teepo. See you in the morning.
+
+“Bye, Ren.”
+
+“Logout.”
+
+********
+
+“Good morning.” Barbara said as she lifted off the VR headset.
+
+“Barbara? I thought I might have missed you when I slept in.”
+
+“It's just about at shift change, so you almost did.” She said and smiled. “You definitely did a lot last night.”
+
+“I know!” Ren said. “There's still so much more to do!” He said and the door to his room opened.
+
+“Hey there, little stud.” Stella said as she came into the room.
+
+“Stella!” Barbara said, slightly scandalized.
+
+“Sorry, Barbara. Just joking with him.” Stella said and turned to Ren. “You've had quite the time lately, haven't you?”
+
+“I sure have.” Ren said. “It feels like a while ago, though.” He said and his eyes widened. “Wow Barbara, you were right.”
+
+Stella smiled. “She almost always is.”
+
+“What do you mean, 'almost'?” Barbara said and everyone laughed. “I guess that's my cue to go.”
+
+“Thanks, Barbara.” Ren said. “For everything.”
+
+Barbara nodded and held his hand for a moment. “Don't let her bully you, Ren.” Barbara smiled and glanced at Stella, who rolled her eyes.
+
+“If you thought I could reign in her wicked ways, Barbara...” Ren said and grinned. “...you're sadly mistaken.”
+
+“Okay, enough Stella bashing.” Stella said. “Ren, get into that bathroom and do your business and I'll get breakfast ready.” She said. “Therapy in half an hour.”
+
+“Got it.” Ren said and slid out of the bed. He avoided banging his elbow and went into the bathroom.
+
+*
+
+“I heard the gist of the story, but can you tell me what actually happened as we go to the breakroom?” Stella asked Barbara.
+
+“It's quite the mess.” Barbara said. “When Lucy visited yesterday...”
+
+*
+
+Ren came out of the bathroom about 10 minutes later, and climbed back into bed. It was a lot harder to do with only one arm, but at least he was going to start working with it today.
+
+It's pretty stiff already, and it's only been a day. Ren thought, then watched television until Stella brought in breakfast.
+
+“I think I'm getting spoiled with the food in the game.” Ren said and looked at the porridge and apple slices.
+
+“You know what they say... 'Just because it's good for you, doesn't mean it won't taste good'.”
+
+“But... I ate a pound of bacon in the game. A whole pound!” Ren said, and Stella laughed.
+
+“This isn't going to taste that good. Sorry.”
+
+Ren grinned and started eating. “Hey, this tastes like apple pie!”
+
+“I'd hoped you'd like it.” She said.
+
+“It's great! Thanks.” Ren said and took his time eating. Stella sat down next to the bed and waited for him to finish. When he was done, she took the tray and came back with the wheelchair. She took him to down the hall to therapy and the therapist nearly had a conniption fit when she saw the state of his arm.
+
+“No no no... this just won't do!” She said and had Ren move from the wheelchair to a chair without arm rests. “Can you make a fist?”
+
+Ren closed his hand almost all the way and she sighed.
+
+“It's going to be a hard three weeks ahead for you, Ren.”
+
+Ren chuckled. “When has it been an easy week?”
+
+She opened her mouth to respond, then smiled. “Point taken.” She said. “Let's get to work.” She did as many single finger and hand exercises that Ren could stand. His hand and arm were sore, but at least he didn't have to walk this time.
+
+“Okay, time for your walk.” She said when the hand exercises were done.
+
+“W-what?”
+
+“We can't ignore your knee just because your elbow is a priority.”
+
+Ren sighed and walked the 100 feet. Now both his arm and leg were sore, and he complained about it.
+
+“Good!” The therapist said. “Sore means it's healing.”
+
+Ren rolled his eyes. “It feels like it's healing fast, if that's the case.”
+
+She laughed and Stella came in to take him back to his room. He carefully got undressed and hopped in the shower, which took nearly twice as long because he only had one arm to use. Stella offered to help and waggled her eyebrows up and down. It made Ren laugh, but he declined and did it himself. He did let her dry him off, however; since it was really hard to hold a towel with only one hand and still reach all the spots that needed drying. He got dressed, Stella put the sling back on his arm, and he climbed back into bed. She sat beside the bed and put a hand on his good arm.
+
+“So, do you want to talk about it?” She asked and Ren nodded.
+
+*
+
+Lucy woke up on the couch, with a sore neck. “Ugh.” She said and rubbed it. “I should have gone to bed instead of watching television all night.” She looked down and saw the remains of the potato chips spilled on the floor. “Dammit.”
+
+She picked up as much as she could and put them back in the bag, then tossed the chips into the compost bin and the bag in the garbage. She got the vaccuum out and cleaned up the crumbs on the floor and the couch, then put it away. Breakfast was next, and she made a poor man's grilled cheese with 2 pieces of toast and a slice of cheese, then microwaved it.
+
+“The breakfast of champions.” She said, then froze. That's one of Ren's favorite sayings. She thought and sighed. She sat down at her computer to check her email. After sorting through lots of spam, she found one from Ren. I should just delete it without reading it. She thought. He's just going to be begging me to go out with him again. She sighed, and decided it was better to read it and then ignore it, then to never know what it said at all.
+
+Dear Lucy,
+
+I know you don't really want to hear from me, especially after the message you sent to me in the game; but after talking with Barbara, I decided that it was better for me to get my feelings out in the open.
+
+I know you don't believe me when I tell you what happened was okay, and that I'm fine. I also know, now, that saying that only makes things worse for you. I'm sorry that you're suffering a lot more from my accident than I am, and there's nothing that I can say or do to change that. You feel how you feel, and that's how it is.
+
+As for me... I won't get to see your smiling face anymore. I won't get to hear you laugh, or see your angel's wings. That makes me feel really sad. (I'm ignoring the fact that I'll never feel your soft lips on mine again, because I really don't want to think about that right now).
+
+I'm not trying to guilt trip you. That's not why I'm writing this. I'm writing this because I want you to know something. If you feel like you have to leave me, I'm not going to beg you to stay. It's your decision, and I won't force you to do anything against your will. You know how I feel about things like that.
+
+What happened may be hard to forget, but don't you ever... ever... think that I don't love you, or for a single minute believe that I'd forget about you. I've learned so much from you, Lucy. You're the woman that saved my life, and the reason that I survived. You've made me strong, stronger than I ever thought I could be.
+
+But sometimes, things just don't work out right, and you have to say goodbye. It hurts so much to say that to you, especially since I don't want to say goodbye at all; but, I have to face reality... and so do you. I am who I am, and that's all I can ever be. I've come to accept that; and maybe someday, I hope you can, too.
+
+With Everlasting Love,
+
+Ren
+
+“Oh, Ren.” Lucy wiped the tears away, took a deep breath, and sighed. She turned off her computer and stood up. “I think... I think I have some Rocky Road Ice Cream in the freezer.”
+
+*
+
+“Miserable piece of goddamn shit!” Gloria shouted. “The nerve of that professor! Making me wear a hat so my hair wouldn't distract the other students during the exam! Arrrgghh!” Gloria exclaimed and punched her dashboard, leaving a small dent. “Oh! Sorry, girl.” She said and rubbed the dash. “I'm just so mad at myself for actually wearing the hat, and not punching the smug bastard in the face.” Gloria started the car and squealed the tires all the way out of the college's parking lot. “If he doesn't give me full marks on that exam...”
+
+*
+
+Stella had listened to Ren tell her about everything that was going on. It was pretty much the same thing that everyone else had said. She could feel he was really hurting over Lucy, though.
+
+“First loves are always the most painful.” Stella said and squeezed Ren's arm. “The first time you make yourself so vulnerable, it also hurts the worst when it goes bad.”
+
+Ren took a deep breath and nodded. “It does, and I'm really glad I've got all of you to help take care of me.”
+
+“Oh, not just us.” Stella said and smiled. “I saw that cute little dwarf snuggling up to you the other night.”
+
+“You mean Nathalia?” Ren asked, and Stella nodded. “She's my fiance, and she cares about me.”
+
+“I'm sure she does.” She said and waggled her eyebrows.
+
+Ren chuckled. “No, I've avoided that for now. I told her I wasn't ready.”
+
+“Why?”
+
+“Why what?”
+
+“Why aren't you ready?”
+
+“I... I don't know if I should... I mean, I know my body reacts here while in the game, but if I do something like that...”
+
+“Oh... oh, I see.” Stella said and smiled. “It's a good thing this didn't come up when Barbara was here. She'd be horrified, I think.”
+
+“Stella!”
+
+Stella laughed. “There's a simple solution, really.”
+
+Ren looked around. “The bedpan?”
+
+She shook her head. “Too obvious. You'd look pretty weird with that tucked under the sheets, trying to catch anything that might come out.”
+
+“Then what...”
+
+“A condom, of course.”
+
+Ren's eyes widened. “A condom?” Then he thought about it. “Um, I... I don't have any.”
+
+Stella chuckled. “It's kind of hard for you to pop out to the drug store and pick up a pack.”
+
+“Tell me about it.” Ren said. “I also don't know what... ah... size...” He tried to say and his face flushed a little red from embarrassment.
+
+“Don't worry, I'll take care of it.” Stella said. “I'll grab several sizes, just in case.”
+
+Ren took her hand and squeezed it. “Stella, I... I don't know what to say... except, thank you.”
+
+She squeezed his hand back and let it go. “I'd say it's part of the job, but I'm pretty sure buying prophylactics isn't in my contract.” She said.
+
+“I'd say it is, but it's just not worded that way.” Ren said and grinned. “It's probably, 'items necessary for bodily functions'.”
+
+Stella smiled. “More than likely.”
+
+Ren's watch beeped and he looked at it. “I better log in. I've got tons of deliveries today.”
+
+She helped him get settled on the bed and put on the VR headset.
+
+“See you at supper.” Stella said and Ren nodded.
+
+“Flow Login Start.”
+
+*
+
+Gloria pulled into the garage parking lot and slammed on the brakes. The car slid sideways and she hit the gas to straighten out at the last second. The car slipped into the parking spot and came to a stop. She locked up and went in to work.
+
+“Hey, Frank.”
+
+“Gloria, I told you not to do that with client cars around.”
+
+Gloria sighed. “Sorry, Frank.” She said, and then told him all about the exam and the professor while she put on her overalls. Frank nodded at all the right times. “He just doesn't understand!” Gloria said. “This is who I am!”
+
+Frank nodded again and looked Gloria over for the umpteenth time. She was 20 years old and about 5 foot 7 inches tall. She was a little thin, but had good muscles, a decent-sized chest, and most of a head of hair. Frank smiled. He thought of Gloria as one of those old time punk rockers, with a third of her head shaved on most of the left side. Her hair was a bright bubblegum pink with blue streaks, teased almost into a puffball and combed over to the right. A piercing was in her nose, and 6 piercings were in each ear from her lobes to halfway up the outside edge.
+
+“Not everyone can see past the flashy exterior.”
+
+Gloria looked at him with a scowl.
+
+“Hey, don't get mad at me.” Frank said. “I can.”
+
+“Sorry.” She sighed. “It just...”
+
+“...puts your panties in a twist.” He said and grinned.
+
+Gloria laughed and nodded.
+
+“Well, you can take your frustrations out on that old Chevy Cavalier. It's springs are shot.”
+
+“Nice!” She said and went over to the car lift. “Where's Mr. Spanner?”
+
+“Over in the corner.” Frank said and pointed. “Scott tried to use it today, and nearly broke his hand.”
+
+“Ha!” Gloria chuckled and went over to pick up the 3 foot long double open-ended wrench. “That's because he doesn't treat Mr. Spanner with the proper respect.” She went back to the lift and jammed the wrench up and under the top of the spring, to use it as a lever to pry the spring out. “We've got some work to do, Mr. Spanner.” Gloria said and grabbed the airtool, and started to loosen the bolts holding the suspension on the car. “I've got some aggression to work out!”
+
+********
+
+Ren woke up in the game and it was still slightly dark out. Hey, Teepo.
+
+“Hi, Ren.”
+
+Anything happen while I was out?
+
+“Not a thing.”
+
+Ren relaxed and looked at Nathalia. She was turned on her side again, facing him. How much time do I have before breakfast?
+
+“About an hour.”
+
+Deliveries won't start until after that, so I've got about 2 hours to get some more sleep. Ren thought and shifted closer to Nathalia and whispered in her ear. “Roll over.”
+
+She half-opened her eyes to see Ren smiling at her. She smiled back and then rolled over to face away from him. He put an arm around her waist and gently pulled her close to spoon with her. She was just the right height that they fit together perfectly. Nathalia gripped his arm tightly at first, and then relaxed. Ren kissed the side of her neck, and she giggled.
+
+I'll have to remember she's ticklish there. Ren thought and closed his eyes. Wake me up if I'm not up already, Teepo.
+
+“Sure.” Teepo said. “Have a good nap.”
+
+Thanks, buddy. Ren thought, and took a deep breath. He exhaled and then immediately fell asleep.

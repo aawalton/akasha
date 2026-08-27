@@ -1,0 +1,347 @@
+---
+id: 88eaefcc-6897-5862-802c-47ad34481a9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102 - Not You, Too!"
+slug: 0086-chapter-102-not-you-too
+partOf: mythrans-master-of-all-continued-completed
+position: 86
+ownLength: 3524
+unit: words
+publishedAt: 2016-12-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105678/chapter-102-not-you-too"
+royalRoadId: "105678"
+---
+
+Ren woke up in the game and looked down at his arm. Relief filled him as he flexed his hand and bent the elbow with ease. He definitely felt a whole lot better in the game.
+
+At least in the game, my body is normal. Ren thought. If only Lucy played more, she'd see what I can really be like, if my body wasn't so messed up in real life. Ren widened his eyes at a realization. That's it!
+
+He opened the messaging system and sent Lucy an impassioned email. He explained that his arm was fine and that only a few weeks of therapy would have him using it again. Ren also told her that his game avatar worked fine as well, so there wasn't any actual nerve damage. He apologized for what had happened, stating that it was his body's fault and not hers at all, and that he'd like to see her again. If she couldn't bring herself to see him in real life, then maybe she could see him in the game instead.
+
+Ren sent the message and sighed. I hope that's enough to make her re-think her decision. Ren thought, then got out of bed. Teepo?
+
+“I'm in the kitchen.”
+
+What's going on?
+
+“Something you're probably not going to be happy about.”
+
+What is it? More Warriors?
+
+“Nothing like that.” Teepo said. “Just come and see.”
+
+Ren opened the door and went out into the hallway, then into the main room. He didn't notice anything out of the ordinary, and went to the kitchen. When he passed the doorway, Teepo dropped into the hood of his cloak.
+
+“You're up early.” Narhilda said and smiled at Ren. “It's still dark out.”
+
+Ren sat down at the table, opposite Nathalia, who he saw had an unhappy expression. “I couldn't sleep.”
+
+“I'm sorry.” Nathalia said. “Did we wake you?”
+
+Ren shook his head. “No, I just woke up.” He said, then looked at the two women. “What's going on?”
+
+Narhilda sighed. “Something else has come up, that my daughter and I forgot about in all the excitement.”
+
+“What's that?” Ren asked.
+
+“I have to leave for my courtship training.” Nathalia said.
+
+Ren stared at her. “You're leaving?”
+
+Nathalia nodded slightly. “The convent is about a day's travel away, along the mountain range. It's near the summit of Mount Vongurhm.”
+
+Ren opened his mouth, then shut it. A moment later, he spoke. “If I wasn't awake, you were just going to leave without saying goodbye, weren't you?”
+
+A tear formed in the corner of her eye, and she wiped it away before it fell. “I'd have to. The caravan leaves in an hour.”
+
+Ren put his elbows on the table and covered his face with his hands. “If I remember correctly, it takes a year for courtship training.” He said. “Are you really going to be gone for a whole year?”
+
+Nathalia's face went from unhappy to dismayed. “Yes.”
+
+“Well, that's just great.” Ren sighed. “First my girlfriend leaves me, and now you're leaving, too.” Ren dropped his hands. “This is turning out to be just a wonderful day, isn't it?”
+
+“Your... your girlfriend left you?” Nathalia said, surprised.
+
+Ren let a crooked smile spread across his face. “Yeah, we just broke up.” He said. “I've sent her a message trying to change her mind, but I doubt she'd even look at it right now.”
+
+“Ren, I'm really sorry.” Nathalia said.
+
+“So am I.” Ren said and the smile slipped from his face.
+
+“I'm sorry, too.” Her mother Narhilda said. “The arrangements were made years ago, to delay Nathalia's enrollment until House Neram was in order. When our debts were paid, a notice was sent to the convent; then one of the convent's caretakers showed up here last night, about an hour after you went to bed.”
+
+Ren nodded slightly. That figures. Ren thought, not really surprised. When it rains, it pours. “Are you taking any bags with you?”
+
+Nathalia shook her head. “I can't even wear this.” She said and tugged on the edge of the dress.
+
+“What?!?” Ren exclaimed.
+
+“Everything will be provided for me.”
+
+Ren frowned. “What about your locket?”
+
+Nathalia's eyes widened. “I... I forgot about that!” She said. “I'll have to leave that, too.”
+
+Ren shook his head. “That's not right.”
+
+Nathalia took out the locket and her mother gasped. “Where did you get that?” Narhilda asked.”What happened to your old one?”
+
+“This is the old one.” Nathalia smiled and caressed the locket. “Ren fixed it for me.” She unhooked the clasp and passed it to her mother. “Hold onto this for me, until I come back.”
+
+Narhilda took the locket and opened it, then caught her breath. A tear came to her eye and she rubbed a finger over the perfect portrait of her husband. “It looks like it's brand new.”
+
+Nathalia nodded. “It won't have to be repaired ever again.” She said and smiled at Ren.
+
+Narhilda put it around her neck and hooked the clasp. She pulled out the collar of the white chiffon dress she wore, and tucked the locket underneath; wearing the locket just like her daughter did.
+
+“I'll keep it safe.” She said and pat it. You could clearly see it's outline through the thin fabric of her dress. Everyone was quiet for a minute, and then Ren stood up.
+
+“Well, there's only one thing that can be done about this.” Ren said and walked around the table. Nathalia's eyes widened at him as he approached her, and Ren held out a hand to her. “May I have this dance?”
+
+“W-w-w-what?” Nathalia stammered, surprised beyond belief.
+
+“The proper send off would have been a party in your Honor; but seeing as we only have about half an hour before you have to leave...” Ren said and smiled. “The only thing I can think to do is this.”
+
+Nathalia reached out to take Ren's hand and he gently helped her stand.
+
+“I... I don't know any...” She said and blushed, embarrassed.
+
+“That's all right. It's easy. I'll show you.” Ren said and showed her the basic steps.
+
+“I don't know if I can...”
+
+“Just follow my lead.” Ren grinned and activated Sneak, then concentrated on his Etiquette ability. He took her left hand in his right, and he put her right hand on his shoulder. Ren stepped in close to her and put his left hand on her lower back.
+
+“But... there's no music.” Nathalia said and tried to not blush again.
+
+Ren turned his head to Narhilda. “My Lady... hum the House Neram anthem, please.”
+
+Narhilda smiled and hummed the anthem, and Ren danced with Nathalia. He led her around the main room, stepping lightly and slowly at first; then when he saw that Nathalia was following him easily, he went faster. He added in a small spin here and there, and kept dancing. When Narhilda finished humming, he stepped forward and braced his knee, then dipped Nathalia backwards over it. She gave a little yip and gripped his shoulder tightly, as her braid flipped around and landed on the floor. Ren stood and brought Nathalia up to stand with him. Ren stepped back from her, still holding her hand. He bowed deeply over it, and Nathalia blushed a little.
+
+“Thank you for the dance.” Ren said and stood up.
+
+Nathalia gripped his hand hard. “Thank you, Ren. That was... magnificent.”
+
+Narhilda clapped and came over to them. “That was beautiful, Ren!” She said and smiled. “Where did you learn to dance so regally?”
+
+Ren smiled. “A nice librarian showed me the basic moves at a party once. I just took it from there.”
+
+“I hope they teach something like that at the convent.” Narhilda said and hugged her daughter. “It's going to be a bit empty here with you gone.”
+
+“I feel the same.” Nathalia said. “I'm going to have a little room all to myself, but I'm going to miss eating supper with you.” She put a hand on Ren's shoulder. “Both of you.”
+
+Ren stepped forward and gave her a hug. “I'm going to miss seeing you every day.”
+
+Nathalia hugged him back, and after a few moments, she let him go.
+
+“Will we be allowed to visit?” Ren asked.
+
+Nathalia shook her head. “I won't be able to come home for a visit, either.”
+
+“For the whole year? Why?” Ren asked, perplexed.
+
+“It's to make her more receptible to men.” Narhilda said.
+
+Ren looked at her mother in surprise.
+
+“After so long without a single man anywhere near her, she'll be both eager and willing to be courted.”
+
+Ren reached out and cupped the side of Nathalia's face. She closed her eyes and sighed.
+
+“I know it's not my place to question another society's beliefs...” Ren said and let his hand fall. “...but to deny contact like that for a year... it's almost torture.”
+
+“That's the way it's always been done, Ren.” Narhilda said.
+
+Ren thought for a moment. “What about letters?”
+
+Narhilda smiled. “Yes, letters are acceptable.”
+
+Ren smiled, too. “What about Sending Stones?”
+
+“I don't see why not... but there's no Sending Stone at the convent... for personal use, anyways.”
+
+Ren grinned. “Perfect.”
+
+“What is?” Nathalia asked.
+
+“If the convent is a day's travel away, and there's a Sending Stone there...” Ren said. “...then the range can be amplified.”
+
+“What are you talking about?” Narhilda asked.
+
+Ren took out 2 stone bricks from inventory and his Book of Runes. He flipped to the Dwarf Rune: Speak, and set the quadruple glyph in his mind. He put the 2 stone bricks side by side, then placed a hand on them, touching both.
+
+I hope this works. Ren thought, then dumped a pile of Mana from his Mana Pool into enchanting both stones at the same time, concentrating on Connection. It took nearly a quarter of his Mana Pool, and the stone bricks glowed a bright blue for a few moments. The double glyphs etched themselves into the faces of the stones and the glow faded.
+
+“You're an Enchanter?!?” They said at the same time and looked at each other.
+
+“I thought you just had those fire bricks on you.” Nathalia said. “The ones you put in the stove.”
+
+“He has fire bricks?” Narhilda said. “Wait, what are those?”
+
+“Apparently, they're bricks he enchanted himself to spew fire.” Nathalia said and shook her head.
+
+“Just so you know, I'm a Blacksmith, too.” Ren said and grinned.
+
+“You're what?!?” They said together.
+
+Ren chuckled. “I know how to do a lot of things.” He said. “All that matters right now, is that Nathalia needs a way to talk to us.” Ren pointed to one of the stone bricks. “I'm hoping that this will work. If it doesn't reach all the way, I'll figure something else out.”
+
+Nathalia put a hand on his arm. “Ren, you don't have to do that.”
+
+Ren shook his head. “I know, but there's no way I'm letting your mother go a whole year without hearing your voice.”
+
+“Just my mother?” Nathalia asked, her voice full of hope.
+
+Ren grinned. “Yep.”
+
+Nathalia's mouth fell open, she dropped her hand, then her face fell into a frown. “You... don't want to hear from me?”
+
+Ren smiled. “Of course I do... but, I'll be right there with you.” Ren said.
+
+“W-w-what?” Nathalia said.
+
+“I've been meaning to dig up some more ore.” Ren smiled. “What better place is there, than a mountain so far away from where everyone else is digging?”
+
+“But... but...” Nathalia tried to speak, but was at a loss for words.
+
+“The least I can do is escort you on your journey.”
+
+Nathalia opened her mouth to speak, and Ren put a finger on her lips.
+
+“I've got to test the Sending Stones anyways.” He said. “As we go along, I'll have Narhilda use the stone every hour. If I get to a point that they don't work, I can mark the spot and maybe set up a relay.”
+
+“A... a what?” Nathalia asked.
+
+“If my guess is correct, each stone sends to the other, no matter how many are in the circuit. If one set of 2 can't reach that far, then maybe a bunch in a row might do the trick.”
+
+Nathalia looked at him like he was crazy, and Ren laughed.
+
+“Don't worry about the details.” Ren said. “For now... I'm coming along... mainly because I want to make sure that nothing happens to you.”
+
+Nathalia put a hand on his arm again. “You don't have to, but... thank you, Ren.”
+
+“You don't have to thank me.” Ren said. “Friends help each other when they can.”
+
+She squeezed his arm and let it go. “Yes, we do.”
+
+“So, you're both leaving me here all alone?” Narhilda said with a sad look on her face.
+
+Ren turned to her and took her into a hug. “I'm not leaving you.” He said, and rubbed her back to console her. “I'm just gathering some resources.” He leaned back and looked her in the eyes. “I'll be back before you know it.”
+
+“I don't know...” Narhilda said and smiled. “...you've been a really big part of our lives lately.”
+
+Ren smiled himself and let her go. “I see you both in the same way.” He said. “I don't know what I'd do with myself, if I didn't have you in my life.”
+
+Narhilda and Nathalia's faces flushed a little red, then there was a loud bang of metal on wood.
+
+“That'll be the gate.” Narhilda said.
+
+“I'll get it.” Ren said and left the two women in the main room. He went outside and opened the gate, to see a large caravan of 20 or so carts being pulled by ponies. He saw some women walking alongside the carts, armed for battle.
+
+“We're here to pick up a new convert.” A female dwarf said, and handed Ren a simple brown robe. He examined it and got the recipe for it. It was just a piece of cloth with arm holes cut into it, that wrapped around the body, but Ren stored the pattern anyways. Ren bowed slightly to the female dwarf, and her eyes widened slightly.
+
+“I'll go and get her.” Ren said and went back inside the house to give Nathalia the robe. He passed it to her and turned his back, to wait for her to change. A few minutes later, she tapped him on the shoulder and he turned around. The robe fit her nicely, and the ties highlighted her tiny waist and emphasized her chest to prominence. Ren's eyes traveled from the top of Nathalia's head, down to her feet, and then back up to her eyes.
+
+“You can make any outfit look spectacular.” Ren said. “Even a basic robe.” He turned to her mother, and didn't see Nathalia blush a bright red. She turned away from him to try and hide it.
+
+“My Lady, don't forget. Every hour.” Ren said and picked up one of the Sending Stone bricks. “We need to know if they'll work or not.”
+
+Narhilda nodded and touched the stone to speak, and then both stones glowed.
+
+“I'll remember.”
+
+“I'll remember.”
+
+“Hey! It really worked!”
+
+“Hey! It really worked!”
+
+“Does my voice really sound like that?”
+
+“Does my voice really sound like that?”
+
+Narhilda took her hand off the stone and they stopped glowing, then she grinned. “Well, we know they work this closely.”
+
+Ren smiled. “Do that again in an hour. I'll respond right after.”
+
+Narhilda nodded and Ren took her hand.
+
+“My Lady, I'll be back as soon as I can. Probably in a couple of days.” Ren said. “I'll take good care of your daughter.”
+
+“You better!” She said and smiled. “She's the only one I have.”
+
+Ren bent over her hand and let it go. “We better get out there, before they send in a search party.” He said to Nathalia, and she laughed.
+
+“All right.” Nathalia said and hugged her mother. “Goodbye, Ma. I'll see you in a year.”
+
+“Goodbye, dear.” Narhilda said. “I'd tell you to have fun, but I know where you're going.” She said and laughed. Nathalia sighed and gave her mother a kiss on the cheek.
+
+“Yes, it's going to be a barrel of laughs.” Nathalia said and Ren snorted a laugh. He raided the icebox and took enough food for several people, to last for about a week. He turned to Narhilda and held several gold coins in his hand.
+
+“I've taken a lot of food.” Ren said. “Is this enough to replace it?”
+
+Narhilda smiled and closed his hand over the coins, stepped close, and gave him a quick kiss on the cheek. “Take all that you need, dear.”
+
+“Thank you, My Lady.” Ren said and bowed to her. He took Nathalia's hand and led her out to the courtyard.
+
+“Just a second.” Ren said and went into the stable. “Hey, Ruck...” Ren said and knocked on the cabinet. “I'm going on a short trip. Do you want to come along? I might need some of the things you're carrying.”
+
+The cabinet opened and Ruck came out with a 'thumbs up' gesture. Ren turned around and Ruck climbed up onto his back. Ren concentrated on his Camaraderie Aura and turned to his mount.
+
+“What about you, Princess?” Ren said and rubbed her neck. “Feel like a trip of a few days?”
+
+Princess huffed and stood up.
+
+“Great! I'm glad you want to get some fresh air.” Ren said and put her saddle and harness on her. She looked at him and he laughed. “No, I'm not going to ride you.” Ren said, stored her crate, and led her out to the courtyard. Nathalia looked at him with wide eyes.
+
+“What?” Ren asked. Nathalia shook her head and opened the gate. The female dwarf was still standing there, and saw Ren coming out with a mount.
+
+“I'm sorry, but he can't come with you.” The female dwarf said. “That defeats the whole purpose of your training.”
+
+Ren led Princess out of the courtyard and turned to lock the gate behind him. “I'm not going with her to the convent.” Ren said and smiled. “I'm going mining. Hopefully, I'll find something nice and shiny.”
+
+The female dwarf looked at him like he was crazy, and Ren chuckled.
+
+“I'll be traveling alongside your caravan, if that's okay?”
+
+The female dwarf frowned at him. She knew he was lying about something, but couldn't detect what it was. “If you can keep up, then be my guest.”
+
+Ren reached out and took her hand, and bent over it slightly. “Thank you, Ma'am.”
+
+The female dwarf's face flushed a little red and Ren let her hand go.
+
+“Um... well... ah...” She stammered.
+
+“Why don't you climb up into the cart, so the caravan can be on it's way?” Ren suggested.
+
+“Ah... yes... yes, that's right.” She said and turned to Nathalia. “Climb aboard. We need to go.”
+
+Nathalia smiled at Ren, then climbed up into the closest cart. There were several women in the back, and they helped her up. She sat down and introduced herself to the other women.
+
+The female dwarf climbed into the driver's seat of the front cart. “Roll out!” She shouted, and the carts started to move. There was lots of room on the street for Ren to walk alongside the cart that Nathalia was on, and he easily kept pace with it. They made their way along the back roads and once they got close to entering the main part of Dornrach, they turned and followed the road that went along in the same direction as the mountain range on this side of the city.
+
+I really should have found a map or something. Ren thought. I wonder if there's a road on the other side of the city, too.
+
+Teepo chittered in laughter. “When would you have found a map? You've been going non-stop since we got here.”
+
+Ren chuckled. Yeah, I guess I can't beat myself up over that. He thought. I don't even know if there's a Library here.
+
+“I'm sure there is, somewhere.” Teepo said. “Good luck finding it, though.”
+
+Why?
+
+“Dwarves aren't known for sharing knowledge like that.”
+
+Ren smiled again. I got a taste of that in that stonemason's plush office. Ren thought. He was genuinely insulted that I wanted to learn from him!
+
+Teepo chittered in laughter. “He was an extreme case. I would have warned you about it beforehand, otherwise.”
+
+What do you think about this situation? Ren thought to his friend.
+
+“I'd say we are in for some interesting times.”
+
+Ren widened his eyes. Why do you think that?
+
+“Well, we're in a caravan that's full of women, who are on their way to spend an entire year with other women, to learn how to be courted by a man. Once we get there, we're going to be near a building that has hundreds of other women who haven't seen a man in nearly a year.” Teepo chittered in delight. “This is going to be fun!”
+
+Oh, crap. Ren thought, and Teepo kept chittering in laughter.

@@ -1,0 +1,327 @@
+---
+id: 13707147-384e-503b-bcf1-a92cc6145961
+page-type-slug: story-chapter-royal-road
+title: "Chapter 372 - In The Pool"
+slug: 0366-chapter-372-in-the-pool
+partOf: mythrans-master-of-all-continued-completed
+position: 366
+ownLength: 3417
+unit: words
+publishedAt: 2017-09-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164843/chapter-372-in-the-pool"
+royalRoadId: "164843"
+---
+
+Gloria came out of the first change room, and she wore a light blue one piece bathing suit that covered her completely; but, Ren stared at her anyways.
+
+“What?” Gloria asked. “What is it?”
+
+“You're naked.” Ren said and reached up to touch his ear and then his nose.
+
+“I don't wear them all the time, you doofus.” Gloria said and laughed. “You don't think I sleep with the piercings in, do you?”
+
+“I didn't know you could take them out at all.” Ren said. “So, yeah. I did think you slept with them in.”
+
+Gloria wasn't sure how to respond to that.
+
+“And that's our cue to get in the water.” Stella said and offered an arm for Ren to use. He took it without hesitation and they walked over to the shallow end of the pool. “Take it easy. Don't push yourself like you did the last time.”
+
+“Yes, ma'am.” Ren said, and waded into the water. “This is great!” He said and let himself float in the water. “I'm so glad I have a pool.”
+
+“It's definitely relaxing.” Stella said and tread water nearby as Lisa and Gloria swam past them.
+
+“It's not that.” Ren said. “Look at you! Look at Lisa and Gloria!” He almost laughed, but stopped himself and relaxed. “Never, not even in my wildest dreams, did I think I would ever see such a beautiful sight with my own eyes.”
+
+Ren couldn't see that all three women had blushed, since he was looking straight up.
+
+“I could die right now, and I wouldn't have any regrets.” Ren said.
+
+“Ren!” Lisa said and swam over to him. “You shouldn't say things like that.”
+
+“Why not?” Ren asked as he floated. “It's the truth.”
+
+“People will... they'll start to think that...”
+
+“Don't get me wrong, I don't want to die.” Ren said. “I did that enough when I was younger.” He said and Lisa stopped swimming and tread water like Stella. “I want to keep going for as long as I can, so I can see even more beautiful things.”
+
+None of the three women said anything, and Ren changed from floating to treading water.
+
+“I don't think that any of you realize just how lucky I am.” Ren said and looked at them. “Look at my life when I was in the hospital, and look at my life now.” He said, then swam over to the side of the pool and held on. He was too tired to swim back to the shallow end, so he pulled himself along the side of the pool instead.
+
+“Before I started playing FLOW, my life... well, it was kind of empty. I'd sleep, watch television, eat, watch television and spend time with the nurses, and sleep.” Ren said and walked up a few steps, then sat down in the water. “That was it. My whole life in a nutshell.”
+
+“Ren, it wasn't that bleak.” Stella said.
+
+“At the time? No, it wasn't bleak at all.” Ren said. “In fact, It was the best life I'd ever had. People took care of me, gave me steady meals, and I had a bed to sleep in.” He smiled. “What a life to have after... after...” He shook his head. “No, I won't think about that part of my life anymore. It doesn't deserve the attention.”
+
+“Ren...”
+
+“My life then was great, because I didn't know I could have a different one.” Ren said. “Then I started playing FLOW. New things opened up for me. Exciting things. Things that I would laugh my head off at you for saying I could do, and it was just a game.” He chuckled. “Now look at me.” He said. “I live in a big fancy home with everything I could possibly need. I have beautiful women who actually like me and want to spend time with me. I even own my own bed!” He laughed. “Can you imagine what that's like? How happy I am that my life has turned out like this?”
+
+Lisa swam over to the shallow end, went up a couple of steps and sat down next to him. “Yes, Ren. I can.” She said and took his hand. “My life was... well, it was a disaster. I don't know if it was my own personality that drove it to be that way, or if the disaster gave me my personality.”
+
+“Just like me.” Ren said and sighed. “Am I the way I am because of what I went through, or would I have always been the way I am no matter what?”
+
+Lisa nodded. “My life changed when I started playing the game, too.” She said. “I was calmer, less confrontational, and I didn't lash out at everyone that...” She shook her head. “No, I agree with you. That part of my life doesn't deserve the attention, either.” She smiled. “I was getting a little better, and then I met you.” She chuckled. “That sounds so cliche, doesn't it? Oh, Ren! You changed my life!”
+
+“I'm okay with being a cliche.” Ren chuckled. “It's better than being a stereotype.”
+
+Lisa laughed and let his hand go, then put an arm around his shoulders, and he put his arm around her waist.
+
+“You're my cliche, too.” Gloria said and swam over, then stood up in the shallow end in front of him. “When we met that first time, I thought... look at this guy. He's so innocent and trusting.”
+
+Ren snorted a laugh. “We met in jail.”
+
+“That's my point. You had no idea what that place was like. You had no clue.” Gloria shook her head. “Emanon wanted to rob you right away.” She said. “I convinced him not to.”
+
+“I'm glad, because that wasn't going to happen anyways.” Ren said and smiled.
+
+“What do you mean?”
+
+“I had my Spider Silk Coin Vault by that time. He wouldn't have gotten anything at all if he tried to rob me.”
+
+“Oh.” Gloria said, then smiled. “So, you weren't that trusting after all?”
+
+“I was even more trusting, actually.” Ren said. “My money might have been safe, but I wasn't.” He smiled. “You let me sleep on your lap for most of the night. I trusted you with my life.”
+
+Gloria thought about it, and realized he was right. It hadn't crossed her mind to kill him; but, she easily could have and looted his body.
+
+“After you paid to get me out of jail, I started to question the things I did.” Gloria said. “I didn't enjoy them as much as I did before, either.”
+
+“That's me.” Ren said. “The wet blanket.”
+
+Gloria chuckled. “That's so true.” She said. “As time went on, I did less and less questionable things, and then I did a job for Tristan.” She sighed. “When he killed the guy I found for him, I knew my mercenary days were over.”
+
+“He almost killed you, too.” Ren said, and Gloria nodded.
+
+“You saved my life, though.” Gloria said. “Your armor protected me from his punch.”
+
+That reminded Ren about Tristan's enchanted gauntlet, and he made a mental note to ask Issac about it the next time he logged in.
+
+“I quit and did normal adventuring after that.”
+
+“No, you didn't.” Ren said. “I hired you as security.”
+
+“Which lasted, what? 2 weeks?” Gloria asked.
+
+“You're still listed as head of security at my business.” Ren said. “Although, I haven't paid you in a while.”
+
+Gloria laughed. “I haven't worked for you in a while, either.”
+
+“You've been busy in real life.” Ren said.
+
+“So have you.” Gloria said and motioned to the house. “You have a hit television show and bought a mansion.” She said. “A goddamn mansion!”
+
+“What else am I going to spend the money on? Trips around the world?” Ren laughed. “I have a hard time walking 75 feet by myself!”
+
+Gloria sighed and nodded. “The biggest thing you did for me was feed me in the game.” She said. “You dropped everything to come to me when I called, no matter when or where you were, and I had no reasonable expectation for you to do that.” She walked over and sat down on his other side. “You helped me so much, and shared so much of yourself.”
+
+“I had to.” Ren smiled. “I wanted to see what would happen when you mastered it.”
+
+“I can... taste everyone now.” Gloria said. “I can't feed on them like I do on you, though.”
+
+“So, it really is easier for you if the participants are willing.”
+
+Gloria nodded. “You don't know how refreshing it was to...” She glanced at Lisa.
+
+“Go ahead.” Lisa said. “I saw it all, anyways.”
+
+“You did?!?” Gloria exclaimed, and Lisa nodded.
+
+“When Ren and I...” Lisa's face flushed red. “When we got together the first time in the game, he told me everything; and I saw everything.”
+
+“I thought my ability was awesome and scary.” Gloria said. “That would be terrifying.”
+
+Lisa chuckled. “It is terrifying, especially if I see something involuntarily, or if it's about someone trying to hide their secrets.”
+
+“I never hid anything, though.” Ren said.
+
+“No, you didn't.” Lisa said and hugged him a little tighter. “I'll use Gloria's words, Ren. You don't know how refreshing it is to meet someone like you that doesn't mind me using my ability on them.”
+
+“That's it exactly.” Gloria said. “I felt so guilty the first time I tried to eat his emotions all up... and he just laughed at me because he'd been sharing everything the whole time anyways.”
+
+“I didn't laugh right away.” Ren said and smiled. “It took me a few seconds.”
+
+Gloria snorted a laugh. “You are always so open and honest, that it almost hurt to feed on you.”
+
+“Does the fact that the sex was great make up for that?” Ren asked.
+
+“Yes.” Gloria said and grinned. “Especially now that I can use it to level up.”
+
+“Yeah, that was a surprise.” Ren said. “Sex for XP.”
+
+Gloria laughed. “That's not how it works, remember? Sex just makes sharing a lot easier.”
+
+“It breaks the emotional barrier between people.” Lisa said, and Gloria looked at her. “It's hard not to feel something for someone when you're... ah... intimate.”
+
+Gloria nodded. “Feeling good like that, brings all the other emotions so close to the surface that it's so easy to feed.” She said. “It's almost criminal how much people open up at the moment they let everything go.”
+
+Lisa nodded. “When he and I are together, I can...” She stopped talking and her face closed down.
+
+“She can't talk about it.” Ren said squeezed her hip. “Game rules.”
+
+“Really? That sucks.” Gloria said. “You must be full of pent up frustrations about that.”
+
+“I...” Lisa sighed. “I'm really glad Ren doesn't bug me about it.”
+
+“That's because I don't need an explanation.” Ren said. “You said you can't talk about it, and that's all I needed to hear.”
+
+“You're so understanding.” Lisa said and leaned close. “I really like that.”
+
+“Well, that's fair...” Ren turned his face to her. “...because I really like you.”
+
+Lisa puckered her lips for him and he gave her a quick kiss.
+
+“Aw, that's so cute.” Stella said and swam over. “Is it my turn to give my 'Ren changed my life' story?”
+
+“We already know that one.” Gloria said. “Lucy left, which put a huge hole in Ren's life. You took over a good portion of it, and when he was attacked, you left the hospital with him to make sure he had the best care anyone could give him.”
+
+“You also convinced Barbara and Denise to come along, even though you didn't know where it was you were going.” Lisa said. “As long as you were there for Ren, the rest didn't matter.”
+
+Stella chuckled. “I've told this story before, huh?”
+
+“Nope, we're psychic.” Gloria said and they all laughed.
+
+*
+
+Detective John Ramirez thought about going through official channels to find Ren; but, if there was one thing he didn't want to do, it was tip off the Chief of Police that John and Holly were still sticking their noses where he told them not to stick them.
+
+“I got it!” Officer Holly Stonewall said and dug through her notebook. “Where is it... where is... found it.” She said and held up her notebook with Elise Stanford's number written on it.
+
+“Ha. Good one.” John said. “Do you want to do the honors?”
+
+“You're driving, so yeah.” Holly said and took out the burner phone. “I just hope she answers the number.”
+
+*
+
+Elise was working at her desk. She had filed all the paperwork her boss at Sid Tec had given her that morning, and was going through the reams of emails that had backed up while she was busy. She heard her cell phone ring, and picked up her purse to get it. She looked at the number, but didn't recognize it.
+
+I wonder who got a new cell phone? Elise asked herself and answered it.
+
+*
+
+“Hello?”
+
+“Hi, Elise. This is Officer Holly Stonewall.”
+
+“Oh.”
+
+“You shouldn't sound so disappointed.” Holly said.
+
+“I'm sorry, Officer. What can I do for you?”
+
+“I'm just calling to check up on Ren.” Holly said. “How is he?”
+
+“Why didn't you call him yourself? Or one of the nurses?”
+
+“Because I'm sure I'll get an honest answer from you.” Holly said and chuckled. “At least, I hope I'll get an honest answer.” She said. “You care a lot about him.”
+
+“I do.” Elise said. “He's doing well.”
+
+“Just well?” Holly asked. “How does he like the new place?”
+
+Elise chuckled. “He loves it.” She said. “It's a little big for just him, but he's asked a couple of the nurses to stay with him during the week.”
+
+“Really?” Holly's eyes widened in surprise. “Is his bed big enough for all of them?”
+
+Elise laughed. “It is, but that's not what I meant. There's 4 other rooms for them to choose from, not counting the guest house.”
+
+Holly chuckled. “That makes a lot more sense. I'm sorry for jumping to conclusions.”
+
+“You're the police.” Elise said. “That's what you do.”
+
+Holly laughed. “You got me there.” She said. “So, he really is doing well.”
+
+“He is, now that the bruise on his chest is healed.” Elise said. “I'm actually going over there tonight to see him and watch his show.”
+
+“That must be better than watching it at the temporary care facility.”
+
+“Without a doubt.” Elise said. “It should be fun seeing it on such a large screen.”
+
+“I imagine it would.” Holly said. “Thanks, Elise. I better let you get back to work.”
+
+“Yes, I suppose the spam emails must be dealt with.” Elise said and sighed. “Goodbye, Officer.”
+
+“Goodbye.” Holly said and hung up.
+
+“So...” John said.
+
+“He's in a 5 bedroom house, with a really large television screen of some kind, and a guest house.”
+
+“Damn, he's a lucky kid.” John said.
+
+“Pull over on Pekoe Street.” Holly said. “There's an internet cafe where we can check this info.”
+
+“Dressed like this?” John asked. He was in a nice blue suit and Holly wore her police uniform.
+
+“No, I guess not.” Holly said. “We'd definitely draw attention if we did.”
+
+“I've got my gym bag in the trunk.” John offered.
+
+“You want me to wear your old sweaty clothes?”
+
+“You don't have to sound so indignant.” John said and laughed. “I haven't worn them yet.”
+
+“Oh.” Holly said. “That's okay, then.”
+
+John pulled into an alleyway a street over from Pekoe Street and stopped the car. He got out and popped the trunk, grabbed his gym bag and closed the trunk, then got back into the driver's seat and passed the gym bag to Holly.
+
+“Where am I supposed to change?” Holly asked, and John thumbed over his shoulder. “You're kidding.”
+
+“I can't think of anywhere else to do it without being seen.” John said. “Can you?”
+
+Holly sighed and climbed into the backseat of his car. “Tilt the rear view mirror down.”
+
+John did it without question, and she nodded as she unbuttoned her shirt. What Holly and John didn't realize was that the mirror had two settings. One for normal driving and it faced straight, and one for bright lights behind the car when you tilted it down; it reflected the light away from your eyes and still let you see. Holly slipped off her shirt to reveal a thick sports bra, and John froze because he could still clearly see Holly in the mirror.
+
+“Holly...”
+
+“Don't talk to me while I'm changing.” Holly said. “This is awkward enough without hearing your voice, too.”
+
+John kept quiet, and he couldn't reach up to move the mirror, because Holly would accuse him of trying to peek at her. He watched in silence as she put on his t-shirt and it slid over her head easily. When she started to undo her pants, he tried to look away; but, the alluring scene played out in front of him and he just couldn't stop himself from looking at her.
+
+Holly pulled her pants down over her hips and watched the back of John's head. He didn't try to turn and take a peek, and she slid the pants down her thighs and over her knees. She pulled her shoes off and took her feet out of the pant legs. She felt a little self conscious because she sat in the back of John's car in just a t-shirt and underwear, then she picked up her uniform pants and folded them.
+
+Holly grabbed his jogging pants and put one foot in them, then the next. She pulled them up over her knees and up her thighs, then lifted her butt to slide them all the way up to her waist. She sighed as she covered herself, then she slipped her feet back into her shoes.
+
+“You can look now.” Holly said, and John flipped the mirror up.
+
+“Holly...”
+
+“Thanks for not trying to peek.” Holly said.
+
+“I didn't have to peek.” John said to her as he looked her reflection in the mirror. “I-”
+
+“Just because you've seen me naked already?” Holly asked and cut him off. “Don't tell me you're like that, John.”
+
+“Holly, you know I could stare at you all day.” John said. “I fought hard not to turn around and look at you.”
+
+Holly could see the honesty in his face, and she let a small smile out.
+
+“You'd kill me if I tried to look at you unprofessionally.” John said and saw her tiny nod. “No matter how cute you look in your uniform.”
+
+“John! I do NOT look cute in uniform!”
+
+“You just keep telling yourself that.” John said and smiled at her reflection. “Denial isn't just a river in Egypt.”
+
+Holly snorted a laugh and got out of the back seat on his side of the car. She stepped to the driver's side window, put her hands on her hips, and bent over.
+
+“I am not cute.” Holly said.
+
+“Even wearing my workout clothes, that are at least two sizes too big for you, you're cute as hell.” John said as he looked at her. “By the way, I can see your sports bra.”
+
+Holly glanced down and looked at herself, and saw the neck of the t-shirt gaped open and let John see all the way inside. “That's okay. Nothing's showing.”
+
+“Your bra is showing.” John said and chuckled. “Do you know how sexy that is?” He asked her. “I'm glad I'm sitting down, because you'd probably punch me if I was standing up.”
+
+Holly took a deep breath and let it out. “Don't be an ass.”
+
+“Hey, it's not my fault you're so attractive.” John said and smiled. “Blame your parents.”
+
+Holly stood up straight. “We'll talk about this later.” She said. “I'll walk over to Pekoe and check the house listings.”
+
+“I'll be waiting right here for you.” John said, then passed her the burner phone. “Unless you need me, then I'll be there as soon as you call.”
+
+Holly nodded. She was both angry and not angry at him, and for the same reason. She didn't really know how to feel about his comments, and walked out of the alley without a word to search for information that would help them find Ren.
+
+What she didn't know, or couldn't possibly guess, was that it would help others find Ren, too.

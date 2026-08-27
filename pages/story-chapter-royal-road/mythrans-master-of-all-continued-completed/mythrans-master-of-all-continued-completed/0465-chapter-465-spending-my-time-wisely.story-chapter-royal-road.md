@@ -1,0 +1,293 @@
+---
+id: 99bb49fd-ee70-5986-85df-f382ce5530c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 465 - Spending My Time Wisely"
+slug: 0465-chapter-465-spending-my-time-wisely
+partOf: mythrans-master-of-all-continued-completed
+position: 465
+ownLength: 3288
+unit: words
+publishedAt: 2017-12-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183031/chapter-465-spending-my-time-wisely"
+royalRoadId: "183031"
+---
+
+Ren spent the next 2 hours with the other elflings, talking, joking, eating and drinking. When things started to get a bit too rowdy, he called an end to the night. He didn't want their gathering to be known as a thing that shouldn't happen, and he made sure no one was drunk as he used a concealed Minor Healing wand to heal them as they left the hall.
+
+The elflings didn't know why they suddenly felt clear-headed, and they didn't much care; mainly because they had met a great elfling, had good food and a good time, and one of their own was raised to the rarefied heights that were normally only associated with High Elves. When everyone was gone, Yllana turned to Ren, who had stayed by her side for the entire time they were at the meeting.
+
+“M'lord, this went even better than I had hoped.” Yllana said. “Even with my daughter Allynna's word, I never expected that you would be this... this...”
+
+“Entertaining?” Ren asked, and she laughed.
+
+“M'lord...”
+
+“I'm pretty sure you can call me Ren now.” Ren said. “Both of our Honor totals are at the same height.”
+
+“I can't believe you had a whole nation of dwarves kneel to you.” Yllana said and shook her head. “No wonder your Honor was so high!”
+
+Ren smiled. “I'm just glad my bracelet still applied after I lost half of my Honor to you.”
+
+“Imagine... someone artificially boosting their Honor without earning it first.” Yllana said, almost disgustedly. “What a criminal and a cheat!”
+
+“Lord Lodur paid for his mistakes with his life, and that's that.” Ren said and touched her hand. “M'lady, I have a question.” He said, and she put her hand on top of his.
+
+“If I can call you... Ren... then you can call me Yllana.”
+
+Ren smiled. “Yllana, where can I get enough food, or food-like supplies, for about 2,500 High Elves?” He asked. “Three days worth, perhaps more.”
+
+“I'll take you over to the Cooking District.” Yllana said. “You can buy anything that you need there.”
+
+“Thank you.” Ren said and looked at the remains of the feast the elflings had left. “There's almost nothing here to take to them instead.”
+
+“All of the ale is gone as well.” Yllana laughed. “My fellows never pass up free... well, anything.”
+
+Ren laughed, too. “Then M'lady Yllana, please lead the way.”
+
+“Then come with me, M'lord Ren.” Yllana said and took his hand. “It's not far.”
+
+“Oh?” Ren followed her outside. “Does that mean I can't carry you there?”
+
+“That's what I meant.” Yllana said and put her arms around his neck and jumped up. He caught her and she pointed. “Far corner of the city, half a mile that way.”
+
+“I think I'm spoiling you.” Ren joked, crouched slightly, and jumped. Yllana's laugh and Teepo's chitter of delight merged as Ren soared through the air with them.
+
+********
+
+“Okay, we're coming up on the time he logs out.” Denise said after she came downstairs to warn everyone. “He's just getting food for the High Elves, and then he should be out.”
+
+“He doesn't have any idea we have all of this set up, does he?” Lisa asked.
+
+“Wouldn't you know that?” Elise asked with a smile.
+
+“Only if the Sage of Ages had been next to him and asked about it.” Lisa said and smiled. “Which would defeat the purpose of asking about it.”
+
+Elise chuckled. “Touche.”
+
+“Barbara, get the candles out and on the cake.” Stella said, and Barbara went into the kitchen.
+
+“Elise? What did you get him?” Stella asked as she put out the plates.
+
+“Something he really should have right now.” Elise said, a little worried. “I just hope he likes it.”
+
+“I'm sure he'll like it, no matter what it is.” Lisa said.
+
+“He'll like anything he gets.” Barbara said when she came back into the room. “He always has.”
+
+“I'll go back up and get him ready.” Denise said and left the dining room.
+
+********
+
+Ren had landed only slightly away from where they needed to go, and he walked arm-in-arm with Yllana to get there. Thanks to her presence and a thorough explanation, Ren had no trouble securing enough food for the healing High Elves. He paid for and stored the food, then picked up Yllana in his arms again without being asked.
+
+“Where am I dropping you off?” Ren asked and crouched down.
+
+“About 50 feet that way.” Yllana laughed and pointed to a short round building.
+
+“Oh.” Ren said and put her back on her feet. “My apologies.” He said. “I presumed too much.”
+
+“I didn't mind being held like that again.” Yllana said and put her arm around his elbow. “Escort me home, M'lord.”
+
+“Of course, M'lady.” Ren said and they strolled over to the building. They went inside and up the stairs to the second floor, and Yllana stopped at one of the two doors.
+
+“It was a pleasure meeting you, Ren.” Yllana said, and her face flushed a little red as she looked at him longingly. Ren could feel her emotions, and knew she wanted very badly to kiss him goodbye.
+
+“M'lady, what happened to your promise to never show your infatuation with me after the duel?”
+
+Yllana smiled and her blush went to a deeper red. “That was only if I lost.” She said. “If I had won...”
+
+“...I guess I'd be on my knees right now and begging you to bless me with your touch.” Ren said and smiled.
+
+“It's a good thing neither of us won.” Yllana said and stroked his cheek. “I suppose you can't come in for another... ability exchange.”
+
+“I'd like to, but I need to deliver the food.” Ren said. “I also have Adventurer business to attend to.”
+
+“Well, damn.” Yllana said, and then sighed. “Don't make me wait another hundred and fifty years before...”
+
+“Yllana, I'll be back in 3, maybe 4 days.” Ren interrupted her. “I've got to bring back the healed.”
+
+Yllana nodded. “I'll look forward to that.” She said. “I'll even start talking to the Central Council about it in the morning.”
+
+“Don't endanger yourself.” Ren said. “Be careful.”
+
+“I will.” Yllana said, and felt his concern.
+
+“Do you need any funds for bribes or anything?” Ren asked, and Yllana chuckled.
+
+“We are not dwarves, Ren.” Yllana said and grabbed his shoulders, and she felt how much he wanted to kiss her. “Now kiss me and get out of here!”
+
+Ren took her into his arms and kissed her like she wanted him to, and he felt her happiness that he wanted to kiss her back. She broke the kiss when she felt his need to go override his playfulness.
+
+“You shouldn't tease me and deny me a kiss.” Yllana said a bit sternly, but he could feel her teasing emotions.
+
+“I wanted to see how long it would take for you to ask for a kiss.” Ren said and grinned, and she shook her head.
+
+“Go on, get going!” Yllana said and waved him away with both hands. “Or I won't let you leave!”
+
+Ren laughed and ran to the stairs, gave her a quick wave, and ran downstairs and outside.
+
+“Women seem to be saying that a lot to you.” Teepo commented as Ren used his Permanent Air Walk to run up into the air and across the city.
+
+“Yeah.” Ren said. “I don't have my Prince Charming effect active right now, either.”
+
+“I can't say if that's a good thing or not.” Teepo said. “What should I say?”
+
+Ren chuckled. “Just say what you think, buddy.”
+
+“I think you're actually Prince Charming, and the title is becoming superfluous.” Teepo said. “You've only been using it when necessary, and for each woman you meet, you adapt and become what they need.”
+
+Ren came to a stop beside Princess and took out the Permanent Enlarge and Reduce wand. “I guess that's a lot easier to do because I can feel their emotions.”
+
+Ren cast the spell on Zetaya, who started to protest with sounds of breaking branches in a fire. The fire elemental liked it's colossal size and didn't want to be small again.
+
+“Don't worry, it's only for the trip back to the county.” Ren said. “I'll be gone for a couple of days, and then we're coming back here to finish the job.”
+
+Zetaya's sounds changed to a crackling fire and it stopped resisting, and Ren cast the same number of spells to put the fire elemental back to it's original size... only, it was now 6 feet tall instead of 4 feet.
+
+“Oho!” Ren said and hugged it. “You ate so much you grew bigger than a colossal size!”
+
+Zetaya hugged him back, and he felt it's thankful feelings.
+
+“It's going to be a little awkward with you this big, so you're going to have to duck a little more.” Ren said and turned around, and Zetaya climbed up onto his back. It was almost comical that he was carrying a creature 2 feet taller than himself like a backpack; but, neither he nor Zetaya wanted any other kind of arrangement.
+
+Ren mounted Princess and sat down on the saddle. “Go slow at first, then pour on the speed.” He said, and the fire elemental bent down awkwardly to stay behind him and out of the direct flow of wind. Princess trotted up into the air and started to run faster, then faster, and then disappeared from sight. They crossed the High Elven Kingdom, the no-man's-land divide, and part of the countryside of the Human Kingdom to end up back at the healer to drop off the food for the High Elf patients.
+
+The healer and her assistant thanked him profusely, as did several of the High Elves. They were up and mobile enough to help distribute the food, and Ren told them that no thanks were necessary and he would take them back to their respective homes when they were better. Ren left there and rode Princess through the air back to the county.
+
+“Let's check the skeleton knights on the wall before we land.” Ren said, and Princess ran over to the guarded section. “Anything to report?”
+
+“Nothing, My Lord.” The first skeleton knight said. “No activity, and no enemies sighted.”
+
+“Thank you, and stay on guard.”
+
+“Yes, My Lord.”
+
+This scene was repeated for the other 7 skeleton knights on the wall, and also for the two patrolling the city street when Princess went back to the Main House to land. Ren built Princess a nice little house right beside the Main House building. It only had one room, one big enough for her and the two dogs to stay in, and he went into the Main House to get her mattress and the dogs. He put them in the house, then assigned Princess, Riley, and Stacy as the occupants.
+
+“Welcome home.” Ren said and pointed to the door. Princess walked over to it and pushed it with her hoof, and it swung open freely. “You can come and go as you please, and you don't have to wait for someone to let you out.”
+
+“Thank you, My Lord.” Princess said and went inside. She laid down on her comfy mattress and sighed. “My own home.”
+
+Ren had a moment of inspiration and used Magic Mouth on the two dogs. “How do you like your new home?”
+
+“Bark. Bark, bark.” Riley said and went inside.
+
+“Bark bark.” Stacy said and went inside as well.
+
+Ren laughed and used the Dispel Magic spell to dismiss both useless spells, then ran across the road to the large warehouse. He opened the door to the giant forge and Zetaya hopped off his back and went inside.
+
+“You did really well today.” Ren said and hugged the fire elemental again. “I'll see you in a few days to do it again.”
+
+Zetaya poked his face with it's head stub, and Ren kissed it back.
+
+“Goodnight.” Ren said and shut the door, then ran back across the road. He concentrated on his Contact Aura so that it would merge with the shared Aura the maids had, and he felt their surprise and delight that he had returned. He went inside the Main House and up the stairs, and went into the apartment.
+
+“We thought you would be gone for several days.” Frikara said. “We're so happy that you're back!”
+
+Ren smiled and kissed her, then kissed the others. “Actually, I am going to be gone for a couple of days.” He said. “I have Adventurer's business to take care of.” Like eating, and maybe spending a bit of time with Lisa if she's not busy, and then watching the next episode of the show. He thought.
+
+“Oh.” Andrela said, and Ren felt her happiness fade away.
+
+“It's all right.” Ren said. “When I come back, I'm going to do the same thing I did today, and work on clearing out the ghoul infestation; but, I'll be staying here for the entire night afterwards.”
+
+“You... don't have to do that for me.” Andrela said, sheepishly.
+
+“I'm not doing it for you.” Ren said, and she looked at him with wide eyes. “I'm doing it for me, because I'm a bit greedy when it comes to you.”
+
+Andrela's white skin flushed red. She was slightly embarrassed and also grateful that he wasn't lying.
+
+“You're just so cute.” Ren said and touched her face, and it flushed even redder. He gave her another quick kiss, did the same to the others, and took off his Dire Wolf Hooded Cloak. The tarantula was fine, and he refilled the saucer with Health potion, then laid down on the bed.
+
+“See you when I get back.” Ren said and closed his eyes. “Logout.”
+
+********
+
+Ren slipped off the VR headset and Denise took it from him and set it aside.
+
+“You found another one, you little Casanova.” Denise said.
+
+“Technically, she found me.” Ren said and sat up. “I had met her daughter earlier and she just had to meet me after hearing how awesome I was.”
+
+“Are we going to argue semantics?” Denise chuckled. “Let's get you cleaned up. We're eating lunch downstairs.”
+
+“I assume that it's too messy for bed?” Ren asked and slid off the side of the bed and stood up. Denise helped him walk to the bathroom.
+
+“Stella and Lisa are eating with us.” Denise said.
+
+“Great!” Ren said. “I was hoping Lisa wasn't busy.”
+
+“Were you planning on a little cuddling with your cuddle bunny?” Denise teased.
+
+“Actually, yeah.” Ren said. “The programmers are forcing an update on my character, so I figure I won't be logging back in for a while.” He said and she helped him clean up. He used the bathroom, and then looked at the shower. “Do you think lunch can wait while I get a quick shower?”
+
+“Of course it can.” Denise said and helped him. She took off her top and left on her bra and pants, and she did a quick lather, scrub, and rinse on him. She dried him off, and gave him a bathrobe to wear.
+
+“Okay, that was the fastest shower I've ever taken.” Ren said, and Denise chuckled.
+
+“I can do it faster than that; but, it borders on being too rough.” Denise said and put her top back on.
+
+“I can imagine.” Ren said and they went out to the bedroom. “The red set today, please.”
+
+“Oh, planning on looking swanky, are you?” Denise asked.
+
+“Yes, my entire goal is to drive women wild.” Ren laughed. “I just like the color.”
+
+“Me, too.” Denise said and helped him get dressed and sat him in the wheelchair. They went to the elevator and went downstairs, and she rolled him across the house to the large dining room.
+
+“Why is it dark in-”
+
+“SURPRISE!” Everyone yelled and Barbara turned on the lights.
+
+“What's going on?” Ren asked and looked around. “Is that a... wait, is today...”
+
+“Happy Birthday!” Elise said and bent down to kiss him. “Barbara was right.” She smiled. “You did forget!”
+
+“Did I ever!” Ren chuckled. “I had no clue!”
+
+“For someone who plans a lot and thinks ahead, you missed everyone planning this thing.” Donald said and chuckled himself. “I knew about this a month ago.”
+
+“That's only because I had you order the cake, dear.” Barbara said and bent down to kiss Ren's cheek. “He wouldn't have had any idea either.”
+
+“Does that mean you've all been sneaking around behind my back to put this all together?” Ren asked with a smile on his face.
+
+“Who has to sneak?” Stella asked and kissed his other cheek. “We have huge chunks of time during the day where you're pretty much just in your bedroom.” She said. “We just came into the house with everything, and you never knew.”
+
+“Well, this place is huge.” Ren laughed. “Even if I was downstairs in one of the living rooms or something, you could still just walk by and I wouldn't have seen anything.”
+
+“It was the same way at my old place.” Lisa said and came over, and gave him a kiss on the lips. “The only time my mother noticed anything was when I walked by the living room and she wasn't glued to the television.”
+
+Ren reached up and touched her cheek. “When is she coming over for dinner?”
+
+“When you got hurt, I changed it to next week.” Lisa said. “She was a little disappointed, but she understood.”
+
+Ren smiled. “I can't wait to meet her.”
+
+“I can.” Lisa said and chuckled. “I tried to move it to next month, but she wouldn't hear of it.”
+
+Ren laughed and glanced at Barbara. “That sounds familiar.”
+
+“I won't let you pussyfoot around and not do your work.” Barbara said. “Your leg is almost healed, so you're starting therapy again in the morning.” She said and put a hand on her husband's shoulder.
+
+“I even changed the boot camp workout so it won't kill you right away.” Donald said, and everyone fell silent... except for Ren, who laughed.
+
+“I can't wait!” Ren said excitedly, and Donald nodded his approval. It was then that the doorbell rang, and Elise said she would go and get it. Ren looked around at who was there, and counted. Lisa, Barbara, Donald, Denise, Stella, and Elise going for the door. He thought. “Where's Gloria?”
+
+“Ren, I... I don't think she's coming.” Stella said.
+
+“I'd ask why not, but I'm pretty sure she's just being stubborn.” Ren said. “Call her for me, and tell her to get over here.”
+
+“I tried already, and she's not answering.” Stella said. “Maybe she's just busy?”
+
+Ren frowned. “After finally admitting how she felt about me, she's too busy to visit me on my birthday?”
+
+“I don't know what to tell you.” Stella said, and Elise came back into the dining room.
+
+“Ren, I have to give you your present early.” Elise said and went to the side table, picked up her present, and brought it over to give to him. “This is part one.”
+
+Ren blinked his eyes for a moment, accepted the gift, and opened the box. Inside was a portfolio. It was filled with stocks and bonds, and Ren flipped through them. He caught sight of several companies he recognized, including the television station and Sid Tec, and he looked at Elise.
+
+“Elise, what...”
+
+“Here's the rest of your present.” Elise said and a blonde woman he thought he recognized stepped into the living room. Barbara and Lisa gasped, Stella squinted her eyes, and Ren stared at her.
+
+“You got me a woman for my birthday?” Ren asked, incredulous.

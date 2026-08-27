@@ -1,0 +1,429 @@
+---
+id: 641a53a1-a72d-594e-bd24-78249bf78df5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 149 - Start Shoveling"
+slug: 0134-chapter-149-start-shoveling
+partOf: mythrans-master-of-all-continued-completed
+position: 134
+ownLength: 4409
+unit: words
+publishedAt: 2017-01-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114541/chapter-149-start-shoveling"
+royalRoadId: "114541"
+---
+
+Ren stared at Princess for a moment, then held a hand up to get her to stop. “Hold on for a minute.” He said and placed a hand on her chest plate and enchanted it with the same double glyph of Intelligence (8 runes total) that was on the helm. He did it again on top leg piece on her front leg, then tried to enchant the bottom piece, and he ran out of Mana.
+
+“I'll be right back!” Ren ran into the house and into the kitchen to where Nathalia was helping her mother clean up. “My Love, can you use your Major Healing on me? I'm out of Mana.”
+
+“Of course, Ren.” She said. “It's only a once per day, though.”
+
+“I'll try and not burn through it so quickly.” Ren said. “I did a lot of work yesterday, and forgot to ask you to use your Minor Healing to recharge it.”
+
+Nathalia shook her head and came over to him. “You always forget to take care of yourself.”
+
+“It's not my fault that sometimes I-”
+
+“I'll take care of you.” Nathalia said and put her hands on the sides of his neck. “Anything that you need.” Her hands glowed and Mana poured into Ren's body. His eyes widened as his normal Mana bar filled quickly, then his entire Mana Pool filled in only a few moments, and he felt completely energized.
+
+“Wow.” Ren said, took Nathalia into a tight hug, and kissed her passionately. The kiss lasted longer than the healing did, and they stopped only because Narhilda tapped each of them on the shoulders.
+
+“I assume you needed the recharge for a reason?” She asked.
+
+“Yes! Right!” Ren let Nathalia go. “I'll fill you in!” He said as he ran out of the kitchen, and then out of the house.
+
+*
+
+“That man...” Narhilda shook her head. “He'd forget to eat if we didn't make him.”
+
+“Ma.” Nathalia chuckled. “If we didn't feed him such great tasting food, he'd be eating those dry ration packs that he showed me on the ship.”
+
+“W-what?” Her mother looked at her in surprise.
+
+“He used to only eat to live.” Nathalia said. “He never made meals for himself. Ever.”
+
+“That poor man.” Narhilda put a hand on her daughter's arm. “He doesn't realize there's more to food than just eating it.”
+
+Nathalia nodded slightly. “Do you think...” She started to say one thing, then changed it to another. “Is he ready?”
+
+Narhilda shook her head. “Not yet.” She said. “He's got too many things to deal with right now. Once things get settled down to a normal routine, he will be able to dedicate enough time to us so we can show him what food can really do.”
+
+*
+
+Ren went back to the stable and over to Princess. He looked at the armor and frowned, then enchanted the top of the back leg with the Intelligence Augment double glyph, then the bottom piece. Ren absorbed the one on the front leg top piece and replaced it with a double glyph of Protection (8 runes total), then put Strength on the bottom piece. He did the same for the other front leg, Protection and Strength, then enchanted her other back leg's top and bottom pieces with Intelligence. He enchanted her back plate with Antidark, making anything she carried 32% lighter.
+
+When he was done, he opened her stat window. Princess now had another 40 points added to her Intelligence stat, and Ren's eyes widened as he discovered the armor as a full set added another 10 points to all of her stats. He closed the window and looked at her.
+
+“Okay, Princess. Let's try this again.” Ren said.
+
+...yes..... me..... princess.....
+
+“I know you can understand me.” Ren tilted his head to the side. “I had hoped giving you so much Intelligence would help with...”
+
+....hard...... think....... to.... human......
+
+Ren's eyes widened. “Oh! I'm sorry.” He said and rubbed her neck, as that was the only thing not completely covered in gold metal. “I didn't even think about the differences between us as a barrier.”
+
+Princess huffed, and Ren felt her amusement a little.
+
+...you.... don't..... see...... difference.......
+
+Ren shook his head. “I always treat friends the same.”
+
+...other...... friends.... not.... pull....... carts......
+
+Ren chuckled. “That's because they physically can't.” He said. “I've pulled a cart a bunch of times myself.” He turned around and pointed to the courtyard. “I even have my own, right there.”
+
+.... your.... words....... are...... true........
+
+“I'd still be using it if it wasn't for you.” Ren said. “You really have been a big help.”
+
+....if..... not........for....... hooves......
+
+Ren shook his head. “I'd still have asked you to pull that much weight without those Legendary Hooves of Speed.” He said. “If I thought you weren't strong enough to handle it, I wouldn't have asked at all.”
+
+Princess was quiet for a minute. .....thank..... you...... for...... gifts........
+
+“Do you mean the nice new armor, or the tasty treats?” Ren asked, amused.
+
+.....both.....
+
+Ren laughed. “It's the least I can do.” He said. “Now that the restrictions are off of me, I can work openly again. I'll make your track today.”
+
+....not..... nececc....neccc..... Princess huffed in resignation. ....not.... needed........
+
+“Of course it's not needed.” Ren pat her neck. “The extra food and armor aren't 'needed' either.” He said. “I want you to have your own space, where you can run as hard, and as fast, as you can.” He grinned. “And bust some things up with these.” He pointed to her golden horns, and she bleated in pleasure.
+
+.....much.... gratitude...... help...... from..... shock.....
+
+“Oh, yeah.” Ren nodded. “I had half a mind to add Damage or something to them at first.” He said. “I'm glad that I went with Intelligence instead.” He scratched her chin absently. “You can do enough damage by yourself, anyways.”
+
+...yes..... helped...... big....... boar.......
+
+Ren smiled. “You sure did. If you hadn't hit it right then, I didn't know what I was going to do.”
+
+....happy..... help......
+
+Ren stepped back. “I'm really happy you can help, too.” He smiled. “Ready for a bit more running around the countryside and picking up passengers?”
+
+Princess nodded. .... will..... help.......
+
+“I might have to attach the big cart on the back, depending on how many workers I get today.”
+
+.....feel..... stronger.......
+
+“I added more Strength, gave you some Protection, and made anything you carry lighter.” Ren said. “Normally, I wouldn't add Strength, because now it'll be harder for you to get stronger on your own; but your armor is heavy, and I've seen what heavy armor can do to someone that's not strong enough to handle it.” Ren led her out to the cart and hooked her up, only this time he attached it to her back plate instead.
+
+....no..... straps........ Princess thought with a question.
+
+“Nope.” Ren smiled. “I hated that the straps dug into you like they did.” He went to her head and attached the reins to the helm. “It's just for show.” He said. “I know you don't need direction at all, but if people saw you running without anyone holding the reins, they'd assume you were out of control and would panic.”
+
+....under..... understand.......
+
+“Thank you.” Ren smiled. “I put the House Neram crest on your helm, too. Can you close your eyes for a moment?”
+
+Princess blinked a few times, then closed her eyes. Ren concentrated on his Aura, and the House Neram pendant that he always wore, and used his Connection ability. His Aura jumped out to 45 feet (20 for personal, 15 for the dire wolf cloak, and 10 for the House Neram crest pendant) and he asked Princess to think about the crest; about her time spent in the stable, eating great food, and spending time with friends. Her Aura snapped together with his, and Princess' eyes opened wide as her Aura jumped out to 55 feet, matching Ren's expanded Aura with Princess' added to it.
+
+....amazing......
+
+Ren chuckled. “You might get a headache after a while, so you don't have to keep concentrating on it.” He said. “I just wanted you to feel what it was like.”
+
+......felt...... different..... before.....
+
+Ren held up the hand with the Screaming Terror ring. “I can boost it, if you want.”
+
+....try.... please.....
+
+He used his Connection ability again, activated the Screaming Terror ring, and saw Princess' eyes widen.
+
+“Are you all right?” Ren asked.
+
+.....never..... better......
+
+He looked at her. “You like causing Fear in others.”
+
+.....way..... of.... life......
+
+Ren smiled. “Then I'll keep it on until we get to the city.” He said. “I can't be scaring the people I'm trying to get to work for me.”
+
+Princess bleated a laugh. ....may..... work..... faster....
+
+Ren chuckled. “You can catch more bees with honey than with vinegar.”
+
+....don't.... know.... saying.....
+
+“The carrot or the stick? Pat them or kick them?” Ren asked as he led her over to the gate.
+
+....human.... speech..... weird.....
+
+Ren laughed. “All it means is, I can get more workers... better workers... by treating them well, than I would if I was mean.”
+
+....ah.... understand.... now....
+
+Teepo?
+
+“Yes, Ren?”
+
+Can you check to see what's on the other side of the gate for me?
+
+“Why not get Princess to check?” Teepo asked.
+
+Ren frowned. Teepo, what's wrong?
+
+“Nothing.” Teepo took off and checked. “It's Wohrum.”
+
+Teepo came in for a landing, and Ren picked him up.
+
+Teepo. You're my best friend. Tell me what's bothering you.
+
+“I'm supposed to be the only one you can talk to in your head.”
+
+Ren smiled and scratched the back of Teepo's head. I know this is a new development, but it doesn't mean you're being replaced.
+
+“But it's not a new development.” Teepo said. “Ruck is your familiar. He can do it, too.”
+
+Ren's eyes widened as Teepo's words surprised him. Ruck can talk to me in my head? Ren thought. Why doesn't he?
+
+“He chooses not to because he didn't want to interfere with our conversations.” Teepo explained. “He's been really good about it, actually.”
+
+Ren stood there and didn't say anything. Why didn't you tell me this before?
+
+“It didn't matter before.” Teepo said. “Ruck is pretty reclusive. Being in your head was a bit too much for him to handle, so he keeps his thoughts to himself. If you didn't make him come out to help, he'd just stay in his cabinet all the time.”
+
+“Well, damn.” Ren said out loud and sighed. “I could have been talking with him this whole time.”
+
+“You have been talking with him this whole time.” Teepo chittered in laughter. “You made all those mouth noises and everything.”
+
+Ren chuckled. “Yeah, but I could have heard his responses.”
+
+“You saw them.” Teepo said. “You'd only get the same responses in your head if he did speak like that.”
+
+“Yeah, I guess you're right.” Ren said. “I'm going to have a conversation with him about this later.”
+
+“Good luck with that.” Teepo said. “You know what he's like.”
+
+Ren opened the gate, greeted Wohrum, and took Princess out to the road. “Yeah, I know what he's like.” He said and equipped his gold colored armor to match Princess, climbed up to the driver's seat of the cart, and picked up the reins. “The stables.”
+
+Princess started slow to get the feel of the new weight, both on her and in the cart, and after a minute, she took off running. Ren thought she had actually gotten a little faster.
+
+“Yes, she's a little faster.” Teepo chittered in delight.
+
+They approached the city and Ren let the Connection to his Screaming Terror ring lapse and Princess slowed down. They got to the stables a couple of minutes later and Ren went inside to the office.
+
+“Come in, Your Highness.” The female dwarf said before Ren could knock. He opened the door and she was standing there, waiting for him. “I felt you approach.” She rubbed her arms through her red jacket. “It was just like in the Council chamber.”
+
+Ren smiled. “I figured it was about time that people start to realize that House Neram is not to be ignored like it has been.”
+
+She nodded slightly. “You've definitely got a lot of people talking.” She handed him the list of workers and their addresses. “It's after breakfast, so they should be ready for you to pick them up.”
+
+“Thank you very much for your help.” Ren said and took out several gold coins to give to her. She shook her head and politely refused.
+
+“You paid me a huge amount the last time; then canceled the contract so that neither I, nor my House, would lose Honor. Giving you names and addresses for good workers is the least I can do to thank you.”
+
+“Ma'am.” Ren took her hand and bent over it. “I hope we can do business again in the future.”
+
+She blushed at the Honor gain, then she chuckled. “Unless you have a dozen or so carts I can hook my spare ponies to, you're not going to get a rented cart for a long time.”
+
+Ren looked up at her, still bent over her hand. “That's all that's stopping you?”
+
+She nodded slightly, and Ren grinned.
+
+“How much to rent the horses, drivers, and the workers to take care of them?” He asked. “For... well, for as long as I want them?”
+
+“W-w-what?”
+
+“I've got a transportation problem.” Ren said and let her hand go. “I'm starting to get residents living near House Neram, but it's pretty far from the city. They have to leave their houses before breakfast to get to work.”
+
+“So you want them to ride a pony?” She asked, surprised.
+
+Ren chuckled. “No, I want them to have access to a cart.” He looked around. “Actually, I was thinking of building a stable like this, but I don't know where to get horses.”
+
+The female dwarf smiled. “Then you're in luck.” She said. “You're looking at the local breeder.”
+
+Ren raised a single eyebrow at her. “Is there a contract for breeding, or can anyone do it?” He let a smile spread across his face. Her face flushed a little red at first; but as his smile grew, her blush deepened.
+
+“H-h-horses.” She stammered, flustered. “I... breed horses. Just horses.”
+
+Ren let his eyebrow drop and grinned. “Then, can I rent your spares, with the option to buy new ones? Or do you want to sell the spares?”
+
+“You can rent some for now, and I'll sell them to you when you hire a good staff to take care of them.”
+
+“I'd rather it if you hired them for me.” Ren said. “Then you'll know the horses are being taken care of properly.”
+
+The female dwarf smiled. “That is an excellent idea, Your Highness.”
+
+“Do you have the plans for the stable? Or do I need to go to the Main Keep?”
+
+“I'm supposed to tell you to go to the Main Keep to get them.” She said and sat down. “It costs a gold coin for every copy.”
+
+“I know. I've gotten a few copies of plans from them.” Ren said. “I'm going to assume I can't get the stable plans for that, though.”
+
+The female dwarf chuckled. “Without it being your main building? It'll be a bit more; maybe 10 gold or more, assuming they let you have the plans.” She said. “They're pretty stingy about things like that.”
+
+Ren nodded slightly. “I tried getting a copy of the city map and was politely and firmly refused.”
+
+“You actually tried to get a map of the city!” She laughed as she dug out the plans for the stable, and put them on her desk. “If there's one thing the Council doesn't want, is for people to know where everything is.”
+
+“Why is that?” Ren asked. “Why is information that should be general knowledge, held like secrets?”
+
+“Isn't it obvious?” She asked back. “They want you to go to them. For everything.”
+
+Ren put a gold coin on the desk and leaned over to examine the several pieces of parchment the plans covered. It didn't take long before he had them memorized, and he stood up straight.
+
+“Aren't you going to take them?”
+
+“I did.” Ren said and tapped his temple. “Thank you.”
+
+She picked up the gold coin and tried to hand it back. “But you didn't take a copy!”
+
+“Yes I did.” Ren smiled. “It's just in my head and not on paper.”
+
+Her mouth dropped open, and Ren grinned.
+
+“Yes, it's a loophole.” Ren said. “Can I show you another?”
+
+She nodded, and Ren took out a platinum coin.
+
+“No! You're not paying me...” She started to say, and Ren interrupted her.
+
+“It's a shiny new toy.” Ren said, then spun it on the desk. “Hours of fun, until you get bored with it.” He said, then spun it and left it there. “Have fun playing with it.”
+
+She watched the coin spin, and Ren opened her office door to leave.
+
+“I'll send a messenger over when I get the stable built.” Ren said. “Then you can send over the workers and horses.” He shut the door and left the female dwarf alone in her tiny office.
+
+*
+
+She sat there with shock on her face, as the coin finally stopped spinning and landed face up. She stared at the face of the dragon, and it's frozen gaze stared back at her.
+
+“A... a toy...” She said. “He's giving them away... as toys...”
+
+*
+
+Ren went to Princess and looked at the list of names and addresses, then was surprised when he got a popup.
+
+New Quest!
+
+You have to gather the workers quickly in order for them to get a full day of work done in time to be home for supper.
+
+Rewards: 100 XP per worker, if they finish their work today.
+
+Penalty for Failure: No XP, No Bonuses, and a chance workers will not return tomorrow.
+
+“Princess! We have a Quest!” Ren said and climbed into the drivers seat, and told her the first address. “Let's go!”
+
+They went to each address on the list, and picked up each worker. Thankfully, there was enough room in the cart for the 12 women to fit, albeit a bit snugly. Ren had warned each of them that it was only temporary, and he'd have a bigger cart tomorrow; assuming he didn't have the stable built by then and multiple carts ready. They made it back to House Neram quickly, and Ren drove the cart up to the workshop. Ren hopped down and ran around to the back of the cart.
+
+“It's an easy job today.” Ren said and helped each woman climb out. “I just need some of you to shovel silt from the pile into the opening on the side of the building.”
+
+“Some of us did that before.” One woman said, and 4 of the women raised their hands. “The others were busy today and couldn't make it.”
+
+Ren nodded slightly. “I changed it slightly inside.” He said. “Two bags can be filled at the same time now.”
+
+“That's much better!” Dorathy said. “Can I get Ruck to help this time, too?”
+
+“I think so.” Ren said. “I'll go check.”
+
+*
+
+A few of the women looked to the ones that had done it before.
+
+“Don't worry.” One of them said. “This is easier than cleaning out a cow stall.”
+
+“You're kidding!” A woman said. “I had heard it was easy money...”
+
+“We take turns, too. Half shovel for a while and the others bag, while Dorathy sews them shut.” She said. “Then we switch.”
+
+“Is he slow or something?” Another one asked.
+
+Dorathy stepped over to her and got in her face. “Don't you dare say such things!”
+
+“Why is he throwing his money away like this?”
+
+“He's a kind and generous person.” Dorathy said and stepped back, calming down a little. “And he's not throwing the money away. We were hired to do the work that he obviously can't do himself.”
+
+“He can't shovel?”
+
+Another woman snorted. “Of course he can shovel! Did you see the huge pile of dirt over there?”
+
+They all looked to see the 5 to 6 foot tall mounds of dirt all along the whole back of the Keep.
+
+“He's just too busy to do this kind of work.”
+
+Princess huffed and they all turned to look at her.
+
+“Just look at that!” Dorathy said. “Doesn't that show you how considerate he is? He took the time to make armor for his mount, and it even matches his own!”
+
+“I guess.”
+
+“You'll see things differently by the end of the day. Trust me.” Dorathy said, then turned to wait for Ren to come back. “By the way, don't be frightened. Ruck is a walking backpack that looks like a giant beetle.”
+
+“Ruck's a WHAT?!?” Several women said together, and Dorathy laughed.
+
+*
+
+Ren ran to the stable and knocked on the door to Ruck's area. “Hey, Ruck. Dorathy, the woman you helped sew up those sacks, wants to know if you can help her again.”
+
+Ruck opened the door and gave Ren the 'okay' gesture.
+
+“I really do feel bad you can't ride on my back anymore.” Ren said as they left the stable. Ruck pat him on the leg and pointed. Ren nodded and they ran up to the workshop. He was surprised that no one gasped as Ruck appeared, though. He got everyone positioned, made sure they knew what to do, and started the oven.
+
+“By the GODS!” One woman exclaimed, and several other women chuckled. “What?” She asked. “No one is surprised it just lit up like that? He didn't light it! Where's the stoking? Where's the wood burning smell?”
+
+“It obviously doesn't need any of that.” One woman said. “I've seen something like it.” She turned to look at Ren. “It's enchanted, isn't it?”
+
+Ren nodded slightly. “Yes. No wood or fuel needed.”
+
+She smiled and turned back to the woman who had exclaimed. “It's just like the stone torches in the Main Keep.” She said. “Someone activates them, and poof! Fire.”
+
+“Oh. Okay.” The woman who exclaimed said. “I guess that makes sense.”
+
+“All right, everyone, let's get to work!” Dorathy said and the women outside started shoveling.
+
+Ren left them to it and went to his room with the forges. He took out a paving stone and dug out a 2 inch square from it's surface with a chisel, using his Stonemasonry skill. He dismissed the popup that he'd gotten Level 1 in it, and kept working. He took his time and let the system highlight where to cut. When he was done, he had 100 of the little squares cut out of the 2 foot by 2 foot surface, leaving a slight divide between each square. They were only half an inch deep, so when he poured in the molten metal, it didn't take much to fill them all.
+
+Ren spread the metal out with his hand to make sure it was even, and absorbed the heat from it. He enchanted each of them with the House Neram crest, granting it the House Neram 10 foot Aura. Ren knelt on the floor and tipped the mold over, letting the hundred metal squares fall out. He gathered them up, stored them, and went out to where the women were working. They had several dozen sacks done already and he smiled.
+
+“You're all doing great work.” Ren said. “I'll be back in a few minutes.” He left the workshop and led Princess back to the stable by the house and unhooked the cart. “I'll need your help again, before supper.” Ren said and dropped several pieces of french toast into her bowl.
+
+....bribe..... accepted.....
+
+Ren chuckled and left the stable, then ran to the Main House. He went inside and to Ereka's office, then knocked on the door.
+
+“You don't have to knock.” Ereka said, and Ren opened the door. “It's your House, after all. You built it.”
+
+Ren smiled, and noticed she wore the same red skirt and white blouse. “Is this your professional outfit?” He said and motioned to her clothing.
+
+Ereka got a surprised look on her face, looked down at herself, then pat several places with her hands, trying to find something. “Is there something wrong with it?”
+
+“Of course not.” Ren chuckled. “You look great.”
+
+Ereka stopped patting her clothing; with one hand on her breast and the other on her hip, then looked at Ren.
+
+“I was just wondering if we'll make that the official uniform for working here.”
+
+“Oh.” She said and dropped her hands. “If you're going to do that, a nice suit top would be a good idea.”
+
+“Why's that?” Ren asked, curious.
+
+“So the men and women would match, of course.”
+
+“Then that's what we'll do.” Ren said, and took out some fabric. He made her a red suit top, like a blazer, and added the white edge along it. He handed it to her a few minutes later, then made her a skirt to match. “There you go.” Ren said, and handed that to her as well. “If I can get around to it, I'll have several copies made.”
+
+Ereka stood there and marveled at how quickly Ren had made her a new set of clothing. “I thought you were a blacksmith.”
+
+“I can do lots of things.” Ren said, and took out the House Neram brooch he had made for her. “Before I forget, here's the House Neram brooch.”
+
+Ereka gasped as Ren handed her the diamond brooch. “It's... it's beautiful.”
+
+“Put it on.” Ren said, then taught her how to activate it herself. Since he was standing right there, it matched up with his and she sat down.
+
+“Oh... oh my...” Ereka said and clutched the brooch.
+
+Ren smiled and attached several of the House Neram metal squares he'd made around the office. He proceeded to put them all around the Main House and went back to Ereka's office.
+
+“If you liked that...” Ren grinned. “...you're going to love this.” he concentrated on all of the small metal squares with the House Neram enchantments. Activate!
+
+He'd put 50 squares all over the Main House, and with Ren activating them himself, they combined into a single Aura and went out 500 feet.
+
+“By the GODS!” Ereka said in shock.

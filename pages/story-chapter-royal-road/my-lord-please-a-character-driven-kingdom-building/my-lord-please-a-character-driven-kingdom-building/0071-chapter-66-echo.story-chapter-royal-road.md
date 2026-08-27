@@ -1,0 +1,249 @@
+---
+id: fbee42a6-2377-50b6-9553-62bf8fe9d78d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66 Echo"
+slug: 0071-chapter-66-echo
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 71
+ownLength: 2353
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3445222/chapter-66-echo"
+royalRoadId: "3445222"
+---
+
+The lack of guards around the shed, along with the sight of Dorian without his armor, made Lucien slow before coming to a stop a short distance away.
+
+“You were waiting.”
+
+Dorian inclined his head slowly. “Yes, My Lord.”
+
+No report followed, which told Lucien enough given the captain’s current state.
+
+“This is not an official matter, then.”
+
+Dorian’s gaze lowered briefly before he answered. “No, My Lord.” For a time, neither of them moved before the captain spoke again, his tone slower than usual.
+
+“I have a request.”
+
+The captain's brows furrowed faintly. “One of the variant remains. From the goblin.”
+
+Lucien folded his arms behind his back. “You want one of them?”
+
+A slight nod followed, though there was a faint uncertainty to the expression that lingered across his face.
+
+He regarded him for a moment before asking, “For what purpose?”
+
+The pause that followed was brief, but it was the words that came after that caused him to still.
+
+“…I do not know,” Dorian muttered.
+
+He studied the man more closely. In the short time they had known each other, Dorian had held formation under pressure, acted without delay, and made decisions without hesitation.
+
+Lucien turned toward the entrance of the shed. “Come,” was all he said as he stepped inside without waiting for a reply.
+
+The scent of treated materials, mundane or otherwise, lingered faintly in the air.
+
+He walked past the stacked hides and sorted bone without pause.
+
+The remains of the variant corpses lay there unchanged even after processing, with the extracted organs sealed inside labeled clay pots set apart from the rest.
+
+Lucien crouched and reached into the arranged pile before drawing out one of the larger fangs from the goblin variant. The surface had been cleaned, its edge dulled of anything unnecessary, leaving only its shape and weight.
+
+He turned back toward the captain and extended it without a word.
+
+Dorian hesitated briefly before taking the fang, his grip tightening around it as he brought it to eye level. His gaze remained fixed on it as the silence in the room stretched.
+
+Lucien broke that silence carefully. “Was it a goblin variant that killed him?”
+
+The question referred to the older brother Dorian had once mentioned losing.
+
+For a time, the captain simply stood there as his grip tightened around the fang hard enough that the tendons along his hand stood faintly against the skin.
+
+Finally, he gave a small shake of his head, "No, My Lord."
+
+Dorian’s jaw tightened a moment after, the muscle along it stiffening once before stilling.
+
+“…Orcs.”
+
+Lucien’s gaze sharpened slightly. It was the first time the name had been spoken without the distance of books and journals from his library.
+
+“How do they compare to what we have faced so far?”
+
+Dorian’s tongue pressed once against the inside of his cheek before he answered. “They’re not as many. Not like the goblins or kobolds.”
+
+His gaze dropped for a moment before he added, “They move in bands. Thirty. Sometimes fifty.”
+
+The captain’s grip on the fang shifted, his thumb pressing once along its edge. “They are larger...near a grown man in size and stronger.”
+
+“A single one of them matches the strength of two, if not more.” The captain did not repeat their name, as if even that was something he chose not to give weight to.
+
+Lucien’s gaze lowered in thought as he considered the words, only to still completely at what came next.
+
+“They are all male, and they do not wait for the Tithe,” Dorian growled, his shoulders held still. His breath left him slowly through his nose. “They roam, be it in the frontier or the heartlands. Doesn’t matter.”
+
+His fingers tightened again, this time with enough force that the edges of his knuckles began to pale. “If they find a way through, they take it. And they don't move north when it's done either...”
+
+“They take what they came for.”
+
+The implication of his words lingered between them, and in that moment Lucien found himself at a loss for words.
+
+He had understood, in theory, that this world was not bound by the same assumptions he had once held. But understanding it intellectually and hearing it spoken plainly were not the same thing.
+
+The memory of Ashridge’s own Tithe surfaced unbidden, along with the number of militia and guards they had.
+
+If it had been orcs instead—
+
+He did not complete the thought, forcing himself to focus on the present instead of what could have been.
+
+For a moment, Lucien considered ending the exchange there. Before he could say anything, however, Dorian spoke first.
+
+“By the time my militia duties were done...I had no one left.” A long pause followed, his grip tightening briefly around the fang before easing again.
+
+“By your leave, My Lord?”
+
+He gave a small nod, but Dorian had already turned by then, not waiting for the motion to finish as he made his way toward the door.
+
+It closed behind him, firm enough that the sound carried through the shed.
+
+Lucien remained where he was, his gaze fixed in the direction his captain had just left.
+
+The silence lingered.
+
+He did not break it this time.
+
+Lucien found that he had to cut his visits short despite still having other matters to address. The conversation he had with Dorian lingered in his mind as he sat down in the chair within the manor’s study, a soft exhale leaving him through his nose.
+
+Idly tapping his fingers against the desk, Lucien lowered his gaze as he considered what he had just learned. Even outside the Tithe, this world was far from safe.
+
+He had to admit he had grown somewhat complacent after winter’s end. With spring approaching, he had assumed the months ahead would be relatively peaceful aside from the occasional wandering beast.
+
+Instead, he had learned that dangers still lingered beyond winter, and worse, some actively sought out villages like Ashridge.
+
+Before his thoughts could spiral further, the door to his study opened without warning.
+
+“Senior! I can’t believe how many sly old foxes you have in this village!” Talia’s voice carried a hint of complaint as she barged into the room.
+
+A moment later, she stopped after stepping inside. The amused expression on her face softened as her gaze settled on him, catching what must have been the dark look on his face.
+
+"...What happened?"
+
+He exhaled softly through his nose, not bothering to hide his thoughts from his perceptive junior. Besides, the information concerned her as well.
+
+Talia had already moved to take a seat across from him, leaning forward with an unusually serious expression as she waited.
+
+“…I learned some disturbing information just now from Dorian, my guard captain,” he began, his tone low.
+
+Lucien told her everything, leaving nothing out aside from Dorian’s personal circumstances, such as the loss of his entire family. Though, judging from Talia’s expression, she had likely inferred their fate even without him saying it outright.
+
+Throughout his explanation, Talia’s expression gradually shifted into visible disgust once she grasped the implication behind what exactly the orcs were taking from those villages.
+
+“I knew this world wasn’t all sunshine and rainbows, but to think it was to this extent…” she murmured heavily after he finished.
+
+“And the locals do not speak of it openly,” Lucien added as he leaned back in his chair, a trace of fatigue settling into him after speaking at length. “Because in their eyes...it is simply something everyone grows up knowing.”
+
+Talia fell silent, her brows furrowed in thought. It was only at his next words that her gaze lifted.
+
+“There is more.”
+
+Lucien let out a soft breath. “There seems to be a sort of...mana-infused area near a path to the southwest of Ashridge.”
+
+This time, Talia’s eyes sharpened as she lifted a hand to her chin.
+
+“Mana?"
+
+“Sera was the first to spot it. I verified it with Harlon just a while ago.”
+
+Immediately, she clicked her tongue. “So that’s why that smell was so familiar…”
+
+Lucien stilled at her words. “…Smell? You recognize the scent from Harlon’s pipe?”
+
+Instead of replying, Talia reached into the pouch strapped to her belt on the right. In a motion that spoke of familiarity, she took out a flask and placed it carefully on the desk between them.
+
+The flask itself was made of glass, faceted delicately in what looked like a custom order. That alone would not have drawn his attention. It was the liquid within that did.
+
+The reddish hue caused it to almost glitter in the afternoon light spilling across his desk, and before he could stop himself, the word left his lips.
+
+“Potion...?”
+
+She simply nodded in response, her expression conflicted as she looked at it. “I found this with me when I...woke up in this body. It was wrapped in cloth, like something precious, so I’ve been carrying it around with me.”
+
+Lucien understood immediately, the memory of his first day in this world still lingered. Despite their different starting points, they had likely shared the same thoughts upon waking here.
+
+“So, since this was the only clue I had, I started investigating what the liquid inside it was,” she explained, brushing past her discomfort by moving the conversation forward.
+
+“And you found out about the existence of magic from there,” he finished.
+
+Talia nodded, her gaze still resting on the bottle before her. “Alchemy too. I thought maybe I could make a good sale of it. Get some extra starting funds for my plans...“
+
+Lucien waited, cupping his chin in thought as he examined the potion.
+
+“I couldn’t sell it in the end...” she murmured after a breath. “It was something this body kept as precious, after all.”
+
+He could see why she made that choice. Unlike his own circumstances, when he had taken over this body, Talia had not inherited the reputation of someone who had forcibly taken a girl from her family. He wasn't certain he would have made a different choice if placed in her position.
+
+“Speaking of magic, I attempted the same thing you did in the cathedral at Helvarn as well.”
+
+Talia’s eyes lifted to meet his before she let out a light chuckle. “Didn’t work either, huh?”
+
+Lucien gave a small nod in affirmation before rising from his seat to stretch lightly. “I was likely in about the same condition you were in, given how busy I was in Helvarn,” he said as he walked over to the window, the afternoon light casting across his face.
+
+“So that’s a dead end too...is it really because we’re transmigrators?” Talia’s brows scrunched together before she scratched her head in mild frustration causing her messy bangs to fly about.
+
+“Ahhh! Senior! What’s with this mystery genre setting? Change it! Change it to another genre, please!” she exclaimed in exasperation.
+
+He turned to face her, a brow raised. “I would have done so already, right on our first day here,” he replied dryly.
+
+Talia merely sank lower in her chair in an unladylike posture, slouching as if to melt into the seat, only to blink at his next words.
+
+“Besides, you raised a good point that we nearly overlooked.”
+
+“Huh? What is it?”
+
+“There might be additional threats we have yet to contend with,” he said slowly, before a faint, sharp smile appeared on his lips. “But there are also tools we can use to deal with them.” He gestured toward the potion on the desk.
+
+“And what’s more, it is not as though we lack methods from our own world. You could even say we have twice the number of tools at our disposal, so long as we prepare well.”
+
+Talia’s eyes widened for a heartbeat before a smile of her own spread across her face. She chuckled as she reached for the potion, slipping it into her pouch before moving to stand beside him at the window.
+
+“Can’t believe you’re stealing my role in cheering you up, Senior!” she said casually, stretching her arms overhead. “Leave that side of things to me! I’m still developing my trade contacts now that winter’s ending, after all!”
+
+She gave him a light slap on the back.
+
+Lucien turned slowly toward her, eyes narrowing. “...You are just avoiding the part of the work you don’t like, aren’t you?”
+
+Talia immediately put on an innocent expression that lasted all of a second before her gaze drifted away from his.
+
+“…No?”
+
+'This damn junior...speaking of which...'
+
+His hand rose in a flash of motion, a finger flicking Talia’s forehead with just enough force to sting.
+
+She yelped, her hands flying up to rub the spot. “W-what was that for!?”
+
+“Don’t think I’ve forgotten what you did yesterday. All my efforts to fix my reputation are gone now because of you,” he muttered, still tempted to flick her one more time. For good measure, of course.
+
+“Eh...? Senior, your reputation was already kinda...” she trailed off, stopping immediately when Lucien’s brow twitched.
+
+Before he could respond further, the sound of footsteps outside the room reached his ears.
+
+The door opened gently, Alicia stepping in. “My Lord, do remember to...” she trailed off as her gaze moved to Talia, still rubbing her forehead, then toward Lucien, whose hand remained raised near her.
+
+“Alicia! Lord Lucien is such a brute!” Talia immediately exclaimed, moving quickly toward her as if fleeing something.
+
+Lucien exhaled through his nose, though he was mildly surprised by what came next.
+
+“Lady Talia, you didn’t do something mischievous again, did you?” Alicia said, faint reproach in her voice.
+
+“Eh?”
+
+“Yesterday as well, you shouldn’t say such things in public,” She continued. Despite her soft tone, there was a firmness to it that caused Talia’s eyes to widen.
+
+“...You’re surprisingly strict about certain things, huh...?”
+
+As Alicia continued to lecture her, Talia’s gaze shifted toward him pleadingly. He ignored it and simply watched, a faint crease forming at the corner of his lips.
+
+Lucien’s eyes remained on the scene before him, committing it to memory.
+
+He would ensure that it would not be the last.

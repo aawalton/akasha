@@ -1,0 +1,317 @@
+---
+id: 2313ee7e-e45e-5b02-a5c5-f4959f977ef3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 264 - Recruitment"
+slug: 0254-chapter-264-recruitment
+partOf: mythrans-master-of-all-continued-completed
+position: 254
+ownLength: 3764
+unit: words
+publishedAt: 2017-05-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138697/chapter-264-recruitment"
+royalRoadId: "138697"
+---
+
+A few minutes later, Ren was at the mine entrance. He pretended to tie Princess to the stand there, and the guard opened the gate.
+
+“I guess you're not working today.” The guard said when he opened the gate.
+
+“I might be back this afternoon, depending on how things go at the Garrison.” Ren said.
+
+The guard nodded slightly, and Ren ran up to the foreman's office. He knocked on the door, and went inside when called in.
+
+“I've got to deal with a giant attack out beyond the Garrison today.” Ren said. “I might be in this afternoon, though.”
+
+The mine foreman shook his head. “You've altered the contract to have working at the Garrison count on your sentence; so you don't have to worry about it.”
+
+“I've skipped working here a few times to work at the Garrison, but I always felt a little bad I didn't tell you I was doing that.” Ren said. “I had the time to spare, and I was going in late enough that you'd be here to talk to; so, here I am.”
+
+The mine foreman laughed. “Well, you better tell the healer you're skipping, or she'll be in here again to tear my ear off to complain that you're missing work.”
+
+Ren snorted a laugh. “Sorry about that.” He said. “I'll go see her right now.”
+
+“I hope you can deal with the giants as easily as you did the last time.”
+
+“Easily!” Ren laughed. “I'll see you later.”
+
+The mine foreman waved as Ren left the office and Ren ran up to the mine entrance to see the healer.
+
+“Oh, you're early today.” Deresdra said. “Come on back to the examination area.”
+
+“I'm sorry, but I can't work this morning.” Ren said. “I might be in this afternoon, though.”
+
+“What? Why?”
+
+“I've got a giant attack to deal with, and I don't know how long it'll take.”
+
+“Giants again!” Deresdra exclaimed. “You have to stop stirring things up like this.”
+
+Ren shrugged. “I thought contacting their homeland would help, not cause this.”
+
+“Are you going to have a healer close by?” Deresdra asked, and took out the two wands Ren had given her. “Can you recharge these, please?” She asked. “They're almost empty.”
+
+Ren recharged them and handed them back. “I don't know if there's a healer available, but I'll ask when I ask for volunteers to help.”
+
+“Well, then.” She said, and grabbed her medical bag with the wands in it. “Let's go.”
+
+“Wh-what?”
+
+“I'm not letting you go out, to the gods know where, without someone with medical knowledge.” Deresdra said.
+
+“But...”
+
+“If anyone gets hurt you're going to need someone to help.”
+
+“But...”
+
+“I'll stay well away from the fighting, so you don't have to worry about that.”
+
+“But...”
+
+Deresdra walked over to a cabinet and opened it. Inside was a large tent that could be quickly set up as a portable medical station. She handed it to Ren and he stored it. A dozen folding cots were next, and he kept trying to protest. She ignored him and walked out of the medical tent and down to the mine foreman's office. Ren followed behind her, kind of like a lost puppy. Deresdra knocked on the door once and went in without waiting.
+
+“Can you call the temporary healer?” Deresdra asked. “I'm heading out with the boss in case he needs my help.”
+
+The mine foreman chuckled. “He's already on the way.”
+
+Deresdra nodded slightly and turned to Ren. “Well, don't just stand there. Let's go!”
+
+“But...”
+
+“You can try and outrun me, but I'll come to the Garrison anyways.” Deresdra said.
+
+“That's not what...”
+
+“You can't argue that you have someone else, because you won't know that until you get there.”
+
+Ren opened his mouth to say that she couldn't come, and he saw the determination in her eyes. He sighed and stepped out of the doorway.
+
+“Fine. Let's go.”
+
+Deresdra grinned at him and stepped by him to walk to the gate.
+
+“Good luck.” The mine foreman said to Ren. “With both the giants and her.” He said, and laughed. Ren waved and closed the office door, and followed Deresdra to the gate.
+
+She was taking her time walking, and Ren sighed.
+
+“What?” Deresdra asked. “Are we in a hurry?”
+
+“Kind of.” Ren said. “I need to get to the Garrison and ask for volunteers.”
+
+“Why didn't you say so?” Deresdra said and started to run. Or at least, she tried to. Her long skirt prevented her from taking long strides, and it looked like she was only shuffling along. Ren held in his laugh, and grinned as he scooped her up into his arms.
+
+“Wha-!” Deresdra exclaimed, and then she caught her breath as Ren ran to the gate. It opened as he approached, and he slowed down and then stopped at the cart. Deresdra's eyes were wide as he sat her in the front of the cart, next to the driver's seat. Ren went around and grabbed the reins from the stand, and climbed up into his seat.
+
+“Let's get to the Garrison.” Ren said. and Princess turned the cart around gently. “Let me take your bag.” He said to Deresdra. She reluctantly handed it to him, and he stored it. “You better hold on.” He said. “This is quite the ride.”
+
+Deresdra wrapped an arm around his, and held onto the brace beside her. Ren took out the Sending Square that was connected to the Commander.
+
+“Good morning, Commander.” Ren said. “I'm on my way.”
+
+“The front gate is already open.” The Commander said.
+
+“I'd like to request you gather some of your elite fighters together.” Ren said. “They're probably the same ones that dug the giant pit trap.”
+
+“I thought you said you wouldn't send them out to die.” The Commander grumped.
+
+“I'm not going to.” Ren said. “I'm going to ask for volunteers, and provide outrageous weaponry.”
+
+The Commander laughed. “Okay, that will definitely get you some volunteers.”
+
+“See you in a few minutes.” Ren said, and put the Sending Square away. Princess took off at a run, and while everyone else enjoyed the ride, Deresdra hadn't quite gotten to that feeling yet. She was too shocked at the sheer speed to realize that it was actually fun, and then it was over. She hit fear, terror, acceptance, then exhilaration; the ride had ended before she felt the fun part.
+
+Princess took them through the Garrison to the section with the Commander's office, and came to a stop. Ren hopped down, equipped the overall command uniform, and knocked on the Commander's door. He came out of his office and pointed across the space to the obstacle course. Ren looked over and saw a pile of dwarves. Some were in full armor, some wearing just underwear; they were all going through the course no matter what they wore.
+
+“Only some with full armor?” Ren asked.
+
+“The others were on another shift the day of the attack.” The Commander said. “They missed your 'volunteer for armor' offer.”
+
+“Hey, they volunteered first.” Ren said. “Then I gave them armor.”
+
+“I seem to remember several more joined in when they saw the armor.”
+
+Ren chuckled. “Okay, that's true.”
+
+The Commander put his fingers in his mouth and blew a whistle. The entire group of dwarves stopped where they were, abandoned their individual tasks, and came right over. They formed 2 lines of 10 men in front of the Commander, and stood at attention. Ren then looked at the Commander.
+
+“May I address the troops?”
+
+The Commander nodded slightly, and Ren stepped forward as he concentrated on his Command Aura.
+
+“Gentlemen.” Ren said, and started to pace in front of them. “Today, the giants have sent a group of their finest troops to attack their own kind.” He said, and watched the dwarves faces as he walked. “Some of you have seen the ones to be attacked.”
+
+Some of the dwarves nodded, and Ren stopped in front of one that had the dent of his knuckles in the front. It was the dwarf that Ren had hit with the back of his hand during his Controlled Berserk Rage in the giant pit trap, when the dwarf had started to make fun of Princess' name. Ren faced the dwarf, and the dwarf did his best to keep his composure.
+
+“I can repair that dent.” Ren said and took out his blacksmith hammer. The dwarf didn't protest, so he held the hammer against the metal. “Repair.”
+
+The chest piece was engulfed in a slight glow, then the dent pulled out and disappeared. Ren stored the hammer and walked on.
+
+“As I was saying, I worked hard to defend this land from the giant menace, and even gave my life for it.” Ren said, and paced back the other way. “I saved those poor people from a plague that has the potential to wipe out nearly all of the giants... and nearly all of the dwarves.”
+
+Some of the dwarves gasped, because not one of them had detected any kind of lie.
+
+“Yes, that's right.” Ren said and stopped pacing at the front of the group to turn and face them. “I've just recently acquired the knowledge that the crazed giants were supposed to destroy the Garrison, and then kill an untold number of dwarves.”
+
+Silence filled the area, and Ren was pretty sure no one was even breathing.
+
+I figured it would come as a shock to learn they were supposed to be exterminated. Ren thought, and took a deep breath. “They didn't succeed!”
+
+Because it was so quiet, it sounded like Ren had yelled. It startled the dwarves into breathing again, and he smiled.
+
+“That's right. I stopped the nefarious plan before it could overwhelm the Garrison.” Ren said, and looked at each of the dwarves. “Some of you saw the devastation that a couple of handfuls of giants can do to the Garrison.” He said. “Imagine if my plan to lure them into the pit hadn't worked, and all 135 giants had attacked the Garrison instead.”
+
+All of the dwarves eyes were wide as he continued to speak.
+
+“Fortunately for all of us, it did work. The pit that most of you dug for me, worked like a charm.” Ren smiled. “It put them all together in one spot, and made it much easier for me to deal with them.” He took another deep breath. “Now, the giants I saved that day are being targeted by their own people. I had reached out to them for help, and they're coming to wipe them out.” He shook his head. “The attack is going to happen sometime within the next few hours; assuming they haven't been delayed by anything.”
+
+“What are you going to do?” One of the dwarves asked.
+
+“The same thing I always do.” Ren said. “I'm going to help where I can.”
+
+“That's not what I meant.” The dwarf said. “How are you going to fight giants that are also trained soldiers?”
+
+“It's not going to be easy.” Ren said. “There's only one of me, and with all of that wide open terrain an hour from here, there's lots of approaches that the giants can take to attack the camp.” He said. “I've had the giants in the camp dig a 20 foot wide and 20 foot deep trench around the campsite, and I filled it with water to make it a big moat. I've also set up fire enchantments all around the outside of that moat, that I'll activate at the right time.”
+
+“That's all?”
+
+“I've got a lot of early warning enchantments about half a mile out, that scream if the giants are close.” Ren said. “At that point, I'll be able to both see and shoot them.”
+
+“WHAT?!?” Everyone exclaimed, even the Commander.
+
+“I sincerely hope you don't think I'd fight hand to hand with a giant as a first choice, do you?” Ren asked them, and laughed. He laughed for 5 seconds, then stopped dead. “Of course not!” He said, seriously. “Knowing they are coming to kill, I have no problem unleashing hell on them.”
+
+Ren took an Automatic Ballista out of inventory and set it in front of the group.
+
+“BY THE GODS!” The dwarf standing in front of the loaded artillery device yelled and jumped out of the way.
+
+“It won't fire until you pull the trigger.” Ren said.
+
+The dwarf stood up and resumed his place, because he heard the truth in Ren's words.
+
+“It's 9 feet long, and 15 feet wide. It has wheels for turning and movement, and a horse mount for good measure. It also auto-loads the next bolt, and it can continuously fire.”
+
+One of the dwarves let out a low whistle, and one dwarf looked like he was drooling.
+
+“It has 100 bolts in the magazine, and can shoot up to three-quarters of a mile; but, it's difficult to stay accurate at that distance.” Ren smiled. “Of course, that's with normal-sized objects.” He grinned. “At half a mile, I'm pretty sure we can pick off a 25 foot tall armored giant.”
+
+A few dwarves started talking, and a few others nodded slightly in agreement. One dwarf at the end of the line put their hand up.
+
+“Hands aren't necessary.” Ren said and smiled. “This isn't a classroom.”
+
+The dwarf chuckled and put his hand down. “You said 'we'.” He said. “You didn't mean you and the woman in the cart, did you?”
+
+“No.” Ren said. “She's the healer. She has graciously decided on her own that she wanted to come along on this mission; to heal any wounds that may occur.”
+
+All of the dwarves looked at Deresdra, and she blushed as they all nodded to her. She gained 200 Honor and held in her gasp. If there was one thing that dwarves appreciated, it was bravery in the face of danger.
+
+“I might have been a bit premature in saying 'we', there.” Ren said. “What I would like to do, is ask for volunteers.”
+
+“I'll go along, if I get to fire that weapon.” The dwarf that had drooled said.
+
+“Me, too.” Another one said. “Damn, that's a fine weapon.”
+
+“I'd go, too; but, you're not going to need more than two people for a single weapon.” A dwarf said. “I'm tempted to go just to take a turn, though.”
+
+Ren chuckled. “Who said this was the only one I had?”
+
+“You have another one?!?” The tempted dwarf said. “I'm in!”
+
+“Me, too!” Another one said, and Ren held up a hand.
+
+“I better save us some time, and tell you that I have one for myself, and 6 that need crews.” Ren said. “Well, I should ask for a crew for mine as well. I might have other things to do during the battle, and leaving a weapon unused would be beyond stupid in a battle.”
+
+The dwarves laughed, and then they all stepped forward, both the armored and unarmored ones.
+
+“We'd be happy to crew them, sir.” They said together, and Ren nodded to them.
+
+“Thank you.” Ren said. “Now, to make it official.” He said and opened up the Business menu. Normally, he wouldn't be able to access it outside of his business; but because he now had the Quest Giver skill, it gave him access to the Quest menu that was inside the Business menu. He typed furiously, and thought about how that Charles guy wanted to alter things to the way he wanted, and smirked.
+
+Ren chose the rewards to give out for participation, success, damage done, number of kills, Honor and Influence gains, and anything else he could think of. If it had been a real keyboard, his fingers would have been sore by the time he was done typing. The best part of it was that he let the system generate the rewards, instead of having to pay for it himself. Also, he knew the giant attack was one of the tech guys evil plans that had been set into motion; so, as overall commander, no matter the outcome of the attack, Ren would be awarded a hundred shadow markers when the attack was over. He would not let evil triumph; and the money would pay to run the Garrison for over 5 years.
+
+Let the tech guys suck on that! Ren thought happily, and sent the quest popups.
+
+“A QUEST!” Nearly all of the dwarves yelled.
+
+“By the gods!”
+
+“How in the world?!?”
+
+“I thought only Adventurers could go on quests!”
+
+Ren heard a little squeak from the cart, and turned to glance at Deresdra. She stared in front of herself with her mouth open in a little 'o' of surprise, and Ren smiled as he thought about how she must be feeling.
+
+“I got a popup, too!” Teepo said. “Yes, I accept the quest!”
+
+Ren glanced at Ruck, and saw him reach out and touch something in mid air. Princess brayed softly, and Riley and Stacy barked. Deresdra smiled sweetly at him, and gave him a slight nod as she accepted the quest. Ren looked back at the Quest menu, and saw that everyone had accepted. He grinned and closed it, then folded his hands behind himself.
+
+“Thank you all for accepting this quest.” Ren said. “Like I said before, this won't be easy; but, I'll do everything that I can to keep you safe and protected.”
+
+“Forget that!” One of the dwarves said. “We're going to protect everyone!”
+
+“Yeah!” “Damn right!” “Down with the evil giants!” “Protect the innocent!” “Defend the land!” “To the death!” “YEAH!”
+
+Ren waited for the fervor to die down, and then spoke. “The camp is an hour away from the Garrison, so I'll go there and drop off the cart's current contents, and come back to pick you up.” He said. “I'll only be a few minutes.”
+
+“A few minutes?” One of the dwarves asked as Ren stored the Automatic Ballista. “That must be some mount you have there!”
+
+“She's definitely very special.” Ren said, and Princess huffed. “I'll provide armor for those that don't have any, and repair the armor for the ones that do.” He said. “I'll give you swords and shields if you need them, too.”
+
+Ren turned and shook the Commander's hand, and thanked him. He went to the cart, and Princess turned them around and trotted off through the gate to the main road, and then ran to the outside gate.
+
+*
+
+“Is he for real?” One of the dwarves asked out loud, and the Commander snorted a laugh.
+
+“It's hard to believe, but yes. He's real.” The Commander said. “I've never felt a Command Aura like that before, though.”
+
+“Well, he's an Adventurer. You can't class them as the same as us, that's for sure.” Another dwarf said.
+
+“Why's that?” Someone asked.
+
+“They don't think like us.” The dwarf responded. “Who in their right minds could come up with a crossbow so big, that even a giant couldn't hold it?”
+
+The dwarves laughed, and the Commander chuckled.
+
+*
+
+Princess pulled her passengers out to the giant campsite, then went all the way around the moat to the side most likely to be attacked. Ruck climbed off of the cart, and Riley and Stacy hopped down. Ren climbed down, and held a hand out for Deresdra.
+
+“You're just going to leave me all alone out here?” She asked. “In the middle of nowhere?”
+
+Ren chuckled. “Ruck is right there.” He said and pointed as Ruck walked around the cart to the front.
+
+“AHHH!” Deresdra yelled. “I thought the cart was full of supplies or something!”
+
+Ren laughed. “No, just my very first familiar and my two dogs.” He said. “I'm coming right back.”
+
+Deresdra sighed and took the hand Ren held out to her. He helped her climb down from the cart, and gave her back her medical bag.
+
+“Ruck, this is Deresdra. Deresdra, this is Ruck.”
+
+Ruck held out a hand for her to shake, and she slowly reached out to take it. He turned it and bent over it, and she gasped. Ren chuckled, and handed Ruck the large medical tent and the 12 folding cots.
+
+“That's Riley, and that's Stacy.” Ren said, and pointed to each dog. “They'll guard you until the battle.”
+
+Ren climbed up into the driver's seat of the cart.
+
+“Just until the battle?”
+
+“Well, I can't order them to not join in on the fun.”
+
+“FUN!?!” Deresdra exclaimed.
+
+Ren laughed and Princess took off at a run. They were back at the Commander's section a couple of minutes later, and the dwarves climbed in. He took them back to the spot he'd dropped Deresdra off, and by the time Ren had hopped down to the ground and walked to the back, they had already climbed out and formed 2 lines of 10 dwarves.
+
+Ren went to each of them, and repaired armor if it needed it, and gave them a sword and a shield if they wanted it. The ones without armor, he gave them a set after making it a mottled gray color to match the others. Four of the dwarves declined the offer of a sword and shield, and instead hefted their crossbows. He went along and enchanted the shields with Protection glyphs, and the weapons with whatever enchantment the dwarves wanted. Some took Fire, some Lightning, some Ice, and a few even took Earth and Wind.
+
+While Ren was doing that, Ruck was taking directions from Deresdra. They had set up the large tent already, and were setting up the cots.
+
+“I should have brought a desk or something.” Deresdra said, as she helped Ruck unfold the last cot and set it by the door. “It's not like I really need one; but, I don't like putting things on the ground, either.”
+
+Ren overheard her, and when he finished with the last weapon enchantment, he took out some wood and made a simple desk. He brought it over to the medical tent, left it by the entrance, and went back to the dwarves. He hadn't noticed Deresdra's surprise at the sudden appearance of a table she'd just commented about, because he had forgotten to enchant Protection glyphs on the new sets of armor. He did that quickly, and looked at the dwarves.
+
+“Let's get the Ballistas set up to give us a good field of fire.” Ren said.
+
+“A good field of fire, he says!” One of them said. “They can shoot accurately at half a mile!”
+
+All the dwarves laughed, and Ren joined them.

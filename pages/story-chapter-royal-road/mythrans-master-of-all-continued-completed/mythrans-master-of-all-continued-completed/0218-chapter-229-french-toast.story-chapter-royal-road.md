@@ -1,0 +1,355 @@
+---
+id: f8fa9bd9-9de8-5c1a-a3b7-df44c0df4ba0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 229 - French Toast"
+slug: 0218-chapter-229-french-toast
+partOf: mythrans-master-of-all-continued-completed
+position: 218
+ownLength: 3498
+unit: words
+publishedAt: 2017-04-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130797/chapter-229-french-toast"
+royalRoadId: "130797"
+---
+
+Ren woke up on the couch and looked around. Teepo?
+
+“Hi, Ren.” Teepo said. “It's just about morning.”
+
+I know. Ren thought. I ran a little late.
+
+“Then I'm glad you didn't run a lot late.” Teepo said, and chittered in laughter. “You'd have missed half of the day.”
+
+Ren smiled, and stood up. Nathalia's not up yet, is she?
+
+“No.” Teepo said. “But I don't go in the bedrooms on my patrols, so she could be awake and just not up and moving around.”
+
+How's the time?
+
+“You've got half an hour before breakfast.”
+
+Thanks, Teepo. Ren used Sneak to creep over to Nathalia's bedroom door, went inside, and shut it behind him. He got to the bed, and saw she was tucked under the blanket and laid on her side. He stored his clothing, climbed under the blanket with her, and snuggled up close behind her.
+
+Ren thought he felt her move slightly, so he reached an arm around her front to grip her stomach. She moved her hand to hold his, and he kissed the side of her neck. She twitched a little, so he nuzzled her there for a few minutes. She relaxed and he stopped doing it.
+
+“I hope you slept well.” Ren said to her.
+
+“Would you be angry if I said not really?”
+
+“Of course not.” He said. “Concerned, yes. Angry, no.”
+
+Nathalia sighed and rolled over to face him. “The bed seems so empty when you aren't here.”
+
+“I'm sorry.” Ren said, and kissed the tip of her nose. “Do you want me to make you a bed-buddy?”
+
+“A... a what?”
+
+“It's something I've been thinking about for a while.” He said. “It's just a pillow with arms and legs, but at least it will be something to help you believe the bed isn't so empty.”
+
+“So a really big doll.”
+
+“Pretty much.”
+
+“No, thank you.”
+
+“Huh?” Ren looked at her. “Why not?”
+
+“I want you here, not some imitation.” Nathalia said, and kissed him. “I'd rather be alone in the bed, than wake up thinking you're here to find it's only a pillow.”
+
+He cupped the side of her face, and caressed her cheek with his thumb. “Okay. No full-size Ren doll for you.”
+
+“I already have one.” Nathalia said. “I don't need another.”
+
+Ren kissed her, and they held each other close. “Teepo says we've got about 25 minutes before breakfast.”
+
+Nathalia sighed. “Nowhere near enough time.”
+
+“I don't have Adventurer's business to deal with tonight.” Ren said, and Nathalia looked at him.
+
+“You're staying all night?” She asked.
+
+He nodded, and she beamed a smile at him.
+
+“Thank you.” Nathalia said, and kissed him.
+
+“You don't have to thank me.” Ren said.
+
+“Yes, I do.” She said. “With the both of us so busy, the only real time we have together is at night. So when you have Adventurer's business to take care of...”
+
+Ren put his forehead on hers, and sighed. “I'm sorry.”
+
+Nathalia chuckled. “You don't have to apologize for that. If you didn't take care of it, something bad would happen. I just know it would.”
+
+Ren nodded slightly, because if he didn't normally log out to eat and take care of things, it would be bad for him. They cuddled for the remaining time that they had before breakfast, and he told her about what he had to do today.
+
+*
+
+Laurelia had stayed up for most of the night, preparing food for everyone, and made sure more of the trench had been dug, like Ren had wanted.
+
+I can't believe what he did with that child's clothing. Laurelia thought as she ducked into her tent and slid into the bedroll inside. More and more parts of the stories I read as a child are coming true. She smiled as she looked up at the top of the tent. I wonder what he'll prove is true to me next?
+
+*
+
+Ereka got up and went into the kitchen to see what she could find to eat. Nathalia had been spending more and more time at the restaurant, and didn't make food for fun anymore. She looked in the icebox and saw that it was almost completely empty.
+
+*
+
+Ren got up when he heard Ereka pass by, and told Nathalia to stay in bed so he could get her breakfast.
+
+“Are you making french toast?” She asked.
+
+He nodded, and she pulled the blanket up to her neck.
+
+“Then hurry up. I'm starving!”
+
+He laughed and left the bedroom. Since he still had sneak on, he made almost no noise as he went through the main room and into the kitchen. He saw Ereka slightly bent over, with her head in the icebox, and he was tempted to grab her sides to scare her.
+
+Ereka sighed, stood up and half-turned to close the icebox door go to the pantry... then gasped and nearly screamed as she saw Ren as he stood right behind her.
+
+“REN! You scared me!”
+
+“Sorry.” Ren said, and grinned as Teepo chittered in laughter from his perch on the ceiling. “I'm making breakfast.”
+
+Her mouth opened to say something, then she closed it.
+
+“Go ahead and say it.” He said. “Nathalia told me you've been brutally honest for a while now.”
+
+“Making breakfast doesn't make up for scaring me, dammit.”
+
+Ren chuckled. “Would a hug be enough?”
+
+Ereka looked at him for only a moment, then nodded slightly. He stepped close to her, and wrapped his arms around her. Since she was a couple of inches shorter than Nathalia, making her 3 foot 10 inches tall, the top of her head only came up to his chin. She wrapped her arms around him and held on tightly, and she completely ignored the fact that she only had her thin slip on.
+
+Ren felt her breasts through the thin fabric of her slip as they pressed against his skin, then looked down at himself and remembered that he hadn't bothered to equip his clothing when he got out of bed. All he had on was his underwear, but Ereka didn't seem to mind as she put the cheek of her face on his chest. She sighed a few moments later, and let him go.
+
+“That was a good hug.” Ren said and smiled. “I should scare you more often.”
+
+“Don't you dare!” Ereka said as she put her fists on her hips and scowled at him.
+
+She looks like she wants to tear me apart. He thought, and smiled crookedly. “Go have a seat at the table. I'll have breakfast ready in a few minutes.”
+
+She started to walk to the table then turned back quickly to see if he was going to try and scare her again. Ren hadn't moved, and held his hands up in surrender.
+
+“I promise to make more noise in the future.”
+
+Ereka walked towards the table and sat down to face the kitchen. “You should wear a bell or something.”
+
+Ren chuckled and went into the pantry to gather the ingredients he needed, then equipped his armor bodysuit for the ease of movement it gave him. “That would completely defeat the purpose of Sneak.”
+
+“You're using Sneak?!?” Ereka asked, surprised. “In the house?”
+
+“I didn't get back until nearly dawn.” Ren said and came out from the pantry with what he needed. “I didn't want to wake either of you up by making noise.”
+
+“Well... I guess that's okay.”
+
+Ren started the grill and looked at her. “Don't tell me...”
+
+Ereka nodded slightly. “My brothers used to scare me a lot when they were around.”
+
+Ren sighed as he started making french toast. “I really am sorry for scaring you like that.” He said and dipped the first couple of slices of bread into the egg, milk, and spices mixture he'd whipped up in a big bowl. “But if I'm going to be honest, when I saw you bent over with your head in the icebox, I wanted to grab your sides and scare you.”
+
+Ren saw her starting to get angry, and raised his hands in surrender again. “It was completely innocent.” He said, then added the bread he'd dipped in the mixture to the grill. “I thought you'd enjoy a good scare like that.”
+
+Ereka sighed, because she heard the truth in his words.
+
+“I know you hate it now, so I'll try my best not to scare you.” Ren said. “Either on purpose or by mistake. Okay?”
+
+Ereka nodded, and he dismissed the Honor gain popup. He finished the first few slices and served them to her on a plate.
+
+Stat Change!
+
+Cooking Level 8 (Beginner 0%)
+
+“They're good with syrup, too.” Ren said as he dismissed the popup, and pointed to the large jar of syrup on the counter.
+
+“I'm not going to lift that thing, just so I can pour a little bit out to try it.”
+
+Ren laughed and picked up a small ladle, and scooped some out for her.
+
+“Oh.” She said. “That works.”
+
+“Either you need a little more sleep, or you're not much of an early morning person.” Ren said as he poured some of the ladle's contents over the corner of one of the slices.
+
+“Both.” Ereka said, then her eyes widened as she tasted the french toast with syrup. “By the gods!”
+
+“More?” He asked her.
+
+“More!” She said. Ren poured out the rest of the syrup over the several slices of french toast, and she dug into them with a passion. He made another stack, added syrup and butter, and brought a tray in to Nathalia.
+
+“Mmm. Thank you.” She said, and started to eat.
+
+Ren went back out to the kitchen and kept making french toast. He filled Ereka's plate again, then Nathalia's, and ate some himself while he used up nearly all of the mixture, then poured what was in the bowl onto the grill. He still had a good stack of french toast left, added the cooked egg mixture, then took a cup with some syrup in it and stored them.
+
+Nathalia came out carrying her tray, and he saw she was also dressed for work. She wore one of the many outfits he'd designed for her, with a tight sleeved blouse and dark pants.
+
+“That was delicious.” Nathalia said, and left the tray on the table. “I have to go to work, though.”
+
+Ren walked over to her, and gave her a kiss. “Have a great day at work.”
+
+“That's supposed to be my line.” Nathalia said with a smile, and kissed him again. “See you tonight.”
+
+She left in a bit of a hurry to make it to the restaurant in time for the breakfast rush, and Ren went back to the pantry.
+
+“What are you doing?” Ereka asked him.
+
+“My icebox is nearly as empty as that one.” Ren said. “I'm nowhere near as good of a cook as Nathalia, but I can make a few things.”
+
+“A few?” Ereka asked as she saw the piles of ingredients.
+
+“I'm making a lot of the dishes I know.” He said, then stopped. “I better go and feed Princess first, before I get started.”
+
+“Wait!” Ereka said as he tried to walk past.
+
+“What is it?”
+
+“I agree with Nathalia. That was delicious.” She said, and gave him a quick hug.
+
+“Is that what's this hug is for?” Ren asked as she stepped back.
+
+“No.” Ereka said. “It's in case you scare me again.” She said. “But you can only do it once more. After that...” She shook a fist at him, and left the kitchen. Teepo chittered in laughter and flew out of the house to check the stable. Ren shook his head in disbelief, and went out of the house and into the stable.
+
+“Good morning, Princess.”
+
+Good morning My Lord...
+
+“I've got something special for you.” Ren said.
+
+Come... sit before me...
+
+Ren raised an eyebrow at her, and she huffed at him. He walked over, and sat down in front of her. She lifted a hoof and he reached out to greet her properly, then the hoof shifted to the center of his chest and pushed him to the ground.
+
+“Hey! What-” Ren tried to say, but then Princess' tongue licked him from chin to forehead. He started to laugh, because her tongue tickled, and she kept pressure on his chest with her hoof.
+
+“What... haha... are you... hahaha... doing?”
+
+You died... She licked his neck, his cheeks, and his hair. Over and over and over...
+
+“Wait, you... ha...”
+
+Felt it... She thought as she licked one of his ears. So much pain... She licked his face again. You were brave... *lick* Strong... *lick* Faced death as if it were nothing... *lick*
+
+“Wait... haha... stop...”
+
+Princess gave him one more long lick, and stepped back. Ren sat up and took out a scrap piece of cloth. His face and hair were covered in her slobber, and he wiped as much of it off as he could. Teepo had flown down and landed on the floor to chitter in laughter, because he didn't want to fall from the ceiling again. Ren stood up after he stored the cloth, and then Princess knelt.
+
+Honored to be yours... She bowed her head.
+
+“Hey, don't do that.” Ren said, put a hand under her chin, and lifted her head. “I thought we had an understanding.” He smiled. “I wouldn't treat you like you were only a mount, and you wouldn't treat me like I was only your owner.”
+
+Ren thought he could feel her desire to argue about it, then she huffed and he felt her acceptance.
+
+Very well... She stood up. You want to be... friends...
+
+He smiled. “I thought we were already friends.”
+
+Only tolerated you...
+
+Ren felt her amusement, and he chuckled. “I hope you can tolerate me for a bit more.” He said. “In a little while, I'm going to need a ride to the warehouse, so I can go through the portal to Aurora.”
+
+I await your return... She plopped down on the mattress in her crate, and settled down.
+
+“You should have stayed standing.” Ren said, and took out the plate of french toast. Princess froze stiff at the sight, and he laughed. “It gets better.” He said, and took out the cup of syrup. He poured some on the top piece, and Princess drooled as the smell hit her. She took in a huge breath of air through her nostrils, bleated softly at the aroma, and stared at him. Ren stored the cup and picked up the top piece.
+
+“Doesn't this look delicious?” Ren asked, then tossed the piece to her. She stood up in a flash, caught the piece in her mouth, then it was gone a split second later. He chuckled, repeated this several times, and stored the plate with more than half of the stack left. He felt her disappointment, and smiled at her.
+
+“Don't worry. I made them all for you, but I want to save some for the trip.” Ren said. “Okay?”
+
+Agreed... Princess plopped back onto the mattress. Thank you...
+
+Ren walked over to Ruck's door and knocked. There was no answer, so he left the stable.
+
+“I'm going to do my hourly patrol flight of the grounds, Ren.” Teepo said. “I'll be back in a few minutes.”
+
+Have fun. Ren thought, and went back into the house to make some meals. He started preparing everything, and Ereka came out of the old bedroom dressed for work.
+
+“I'm heading out.” Ereka said as she went to the front door.
+
+“Hold on!” Ren said and ran from the kitchen to meet her. “Before I forget, can you contact Dorathy? I promised her a new job before I...”
+
+“What happened while you were gone?” Ereka asked. “Nathalia said something about how you couldn't get back?”
+
+Ren nodded slightly, and told her an abbreviated version of what happened. Her face went from concern, to shock, to anger, then to relief.
+
+“I'm so sorry!” Ereka said, and hugged him. “Now I'm even happier that you're here, and that you're okay.”
+
+“Thanks.” He said and hugged her back.
+
+“Ren?”
+
+“Yeah?”
+
+“Why are you all sticky?” Ereka asked, and leaned away from him. Her white blouse was wet on the front, and she had a bit of drool on her face and hands. Ren laughed, took out the cloth to wipe her face and hands, and explained what it was.
+
+“Eww.” Ereka said, then looked down at herself. “Look at my blouse.”
+
+“I'm sorry about that.” Ren said, equipped his Travelling Clothes for a moment, then equipped his armor bodysuit again. “Hand me your blouse and I'll clean it.”
+
+Ereka looked at him with surprise on her face, and he waggled his hand in front of her.
+
+“It'll only take a second.” Ren said. “I just have to store it and hand it back.”
+
+Ereka did a long slow blink of her eyes, then smiled. “Okaaay.” She said, hung up her suit coat next to the door, then started to unbutton her top. Ren waited while she took her time opening the buttons, then his eyes nearly popped out of his head as she slipped the blouse off.
+
+She wasn't wearing anything underneath.
+
+“Oh, my...” Ren said, and got a popup.
+
+Notice!
+
+You have gained the condition: Distracted
+
+For as long as the object of your attention is within your sight, you must look at it. You will also suffer penalties to both Intelligence (-20) and Wisdom (-20).
+
+He discovered why he was Distracted. Ereka's breasts were perfect. Ren has had some experience now with seeing different shapes, sizes, and colors of the tips... but when he saw these... all he could think of was 'perfect'. The size was perfect, the shape was perfect, and the colors and shapes of the tips were perfect. In the real world, he had told Elise about a man losing 50% of his IQ (per boob) when he saw a woman's chest; but, he thought it was only a joke, not an actual fact.
+
+Ereka handed him her blouse, and he took it without looking at it. He only had eyes for the perfection in front of him.
+
+“Ren?”
+
+“Hm?”
+
+“Store it and hand it back.” She said with a huge smile on her face.
+
+“What?”
+
+Ereka moved the hand that he held the blouse in, and he glanced at it.
+
+“Oh, right!” Ren said, stored it, and handed it back. “I'm sorry... I...”
+
+She chuckled as she put the blouse on, and he watched as the cloth slipped over her. It covered most of her chest, and she started to button it back up.
+
+Notice!
+
+You are no longer Distracted.
+
+“I'm not sure how that happened.” Ren said, and shook his head. “Normally I can ignore stuff like that, but...”
+
+“But what?” Ereka asked, and stopped after two buttons.
+
+“Um...” Ren's face flushed a little red, because he glanced down to see that her top hung open and it showed off most of her chest.
+
+“I'll know it if you lie.” Ereka reminded him needlessly.
+
+“What if I don't say anything?” Ren asked her, and glanced down at her chest again. Why can't I stop looking?
+
+Teepo squeezed through the space at the top of the door. “What are you looking at?” He asked as he flew over Ereka and started to turn and face her. “Why is her top ope-” *thunk* He stopped talking when he flew into the wall, bounced off, and fell to the floor. “Ow.”
+
+“Even if you don't say anything, a lie of omission is still a lie.” Ereka said and smiled.
+
+Ren sighed. “They're perfect.” He said. “I can honestly say that I couldn't take my eyes off of them.”
+
+“What's so perfect about them?” Ereka asked as she blushed.
+
+“The size, the shape, the color.” Ren said. “Even the shapes of the tips...” He glanced down at her chest again when he saw the cloth move. Ereka held her top open just enough to reveal herself, and he got another Distracted popup. Ren's eyes were drawn to them automatically; so he stared at them, and didn't hear her speak.
+
+“Hm?”
+
+Ereka chuckled and buttoned up her top the rest of the way. “I said I have to go to work.”
+
+Ren blinked his eyes when the popup for losing his Distracted condition went away, and looked at her. “Okay.” He said. “Have a great day.”
+
+“I will.” Ereka said, put on her suit coat, and opened the front door. “I'll send a messenger for Dorathy, and she should be here in a little while.” She gave him a little wave, and shut the door behind her when she left.
+
+“What was that?” Teepo asked as he fluttered up from the floor and landed on Ren's shoulder. “I just flew into the wall!”
+
+“It was Trouble.” Ren said, and took a deep breath. “Trouble with a capital T.”

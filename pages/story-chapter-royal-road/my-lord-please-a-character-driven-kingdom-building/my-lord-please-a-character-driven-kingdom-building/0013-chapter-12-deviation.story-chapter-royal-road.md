@@ -1,0 +1,223 @@
+---
+id: 9a5022fc-0cbe-56de-91d3-b41cc0557470
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 Deviation"
+slug: 0013-chapter-12-deviation
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 13
+ownLength: 2271
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3204564/chapter-12-deviation"
+royalRoadId: "3204564"
+---
+
+On the way back to the manor, Lucien's thoughts were filled with what the next steps would be.
+
+He had to ensure Dorian knew what had been planned during the meeting and make arrangements with Elias so the board in front of the tavern would be updated every cycle. Not to mention finding a way to ensure the men in the village would be able to tell who were at the top to prevent misunderstandings.
+
+‘I doubt all of them can read their own names. A symbol might be simpler. Or…this could be a chance to teach them, gradually.’ Lucien considered. It would have to be done carefully, without disrupting their daily routines.
+
+He was interrupted by the sound of Alicia's stomach growling rather loudly for someone as petite as her.
+
+It was so sudden that he could not help but glance at the girl walking behind him.
+
+The flush on her face, along with what was clearly an attempt to hide it, would have been amusing if not for the fact that it was his fault she was currently starving in the first place.
+
+Lucien let out a soft cough, deciding it would be tactful not to react overtly. He continued onward as if nothing had happened. Or that was what would have happened if it were not for the soft voice of the maid sounding out behind him a moment later.
+
+"M-my Lord?" Alicia hesitantly piped up.
+
+His gaze turned back to her, an eyebrow raised in question. It was unusual for the quiet girl to initiate conversation with him. Come to think of it, this might even be the first time she had done so.
+
+"The board in front of the tavern... some of the men, they might not be..." she trailed off, looking uncertain if she should continue as she twirled her fingers.
+
+"I am aware, Alicia. It would not do to repeat the same mistake," he replied calmly, remembering the incident with the maid the day before. Judging by the increased twirling and the deeper blush on her face, she remembered as well.
+
+"What would you suggest?" he asked, curious to see if the girl had something in mind.
+
+"I-I could draw simple marks for them? If you are fine with it, t-that is!" she suggested anxiously, yet with an enthusiasm that seemed to characterize her whenever she wanted to help.
+
+"It is something I had considered, but Alicia," he met her eyes, careful not to appear too forward, especially in a public space like this, "are you sure that is something you want to do?" he asked seriously.
+
+"My Lord?" She tilted her head, not quite understanding what he meant.
+
+"It is a lot of work. And there are unpleasant aspects to it as well," he clarified.
+
+"I-I do not mind! I happen to like drawing, so something like this is..." she exclaimed, clutching her hands together in determination.
+
+He resisted the urge to sigh. It was not the drawing aspect of the task that concerned him.
+
+‘I could have someone else update the board. Assign a pair of guards, perhaps.’ Lucien considered the thought before giving a small nod. "Very well. If you are certain, I will leave it to you, Alicia," he replied as they continued on their way.
+
+"Y-yes! Leave it to me, My Lord!" she chirped, clearly pleased that she had been given something to contribute.
+
+There was a slight lift to her steps now, though she still attempted to maintain her escort posture, smoothing her expression into something calm and composed. The effort to appear serious while her steps betrayed her excitement was almost endearing.
+
+Lucien kept his concerns to himself. He would not dampen the eager look on her face.
+
+It seemed he would simply have to be ready to shield her if any of the less pleasant aspects he anticipated surfaced.
+
+The manor came into view not long after, and Lucien could not help but feel the difference from where he had just come from.
+
+Where the forge had been heat and motion, the manor stood in composed silence. Its stone walls held the afternoon light without warmth, windows shuttered halfway against the shifting wind. Order lived here, or at least the appearance of it did.
+
+Two guards stationed at the entrance straightened at his approach. There was a noticeable adjustment in posture that had not been present just yesterday.
+
+Lucien acknowledged them with a small nod before stepping inside.
+
+Elias was waiting for them already.
+
+The ever implacable steward stood near the base of the main staircase, hands folded neatly behind his back, posture immaculate as ever. His expression gave nothing away, but his eyes had already taken in Lucien’s return, Alicia’s presence, and the absence of any accompanying craftsmen.
+
+“My Lord,” Elias greeted, inclining his head with practiced precision. “I trust the meeting proved...productive?”
+
+There was the slightest pause before the final word. The tone remained carefully measured.
+
+Lucien slowed to a stop before him. “It was sufficient,” he replied evenly. “There are preparations to be made.”
+
+“Of course, My Lord.”
+
+He gave a slight nod before continuing onward toward his study. Elias fell into step behind him. As Alicia made to follow, Lucien spoke calmly.
+
+“Alicia, bring a light snack for me.”
+
+He glanced slightly toward her. “And remember to have something yourself before you begin your task. We have much to do. You will need your strength.”
+
+The maid bowed. The motion was still not entirely natural, but there was purpose in it now rather than uncertainty. Elias’s eyes flickered briefly, his expression unreadable.
+
+The moment Lucien seated himself behind the large ornate desk in the study, he began without preamble. He already knew Elias would be prepared without needing to check.
+
+“I will be implementing a labour rotation system to prepare for the Tithes,” Lucien said, fingers steepled before him. “It will be a three day rotation. The best men in the drills will assist either Harlon or Joren with their preparations.” His tone was calm, almost administrative.
+
+Elias merely nodded. He did not ask why the men would agree to additional labour. Lucien did not know whether that restraint stemmed from an assumption that peasants would obey their lord regardless, or from the steward himself choosing not to question him yet.
+
+This was not the same atmosphere as the forge. With men like Joren, authority had to be shaped into cooperation. With Elias, Lucien chose something different. A steward raised among nobles would expect instructions to flow one way.
+
+So he continued without embellishment, “Every three days, a board in front of the tavern will be updated with the top performing individuals. The top five will assist in the crafting of spears and shields.”
+
+“They will be paid. The coin will come from my personal treasury. Elias, I am counting on you to determine an amount sufficient for a peasant household.”
+
+That was when Elias reacted. It was subtle, but there was the faintest crack in his composure. “You are certain this is wise, My Lord?” he asked carefully.
+
+Lucien replied calmly, “I have plans for the village treasury after the Tithe. We must also ensure enough remains for repairs.”
+
+Elias inclined his head. “I will ensure the amount is sufficient, My Lord.”
+
+There was a brief pause afterward. The steward’s posture remained immaculate, yet something unspoken lingered in the stillness between them. It was subtle, the sort of hesitation most would have missed.
+
+Lucien did not.
+
+“Yes?” he prompted.
+
+Elias chose his words with care. “With such preparations underway, I assume Your Lordship intends to remain...personally involved in overseeing them.”
+
+Aside from the slight pause, the steward’s tone was as neutral as ever, so Lucien merely inclined his head in response. Without hesitation, he continued, “If the men are to labour beyond their usual duties, it would be improper for me to be absent.”
+
+He would avoid overseeing every minor detail, but it was important that his presence be felt during a difficult period for Ashridge. A leader had to be seen standing with his people. Though he would be of little use in a fight, showing his face was, to him, simple logic.
+
+Elias’s fingers tightened almost imperceptibly behind his back. “As you wish, My Lord.”
+
+There was no objection or any further inquiry. Lucien had grown accustomed to that restraint so he continued as though nothing of note had passed between them.
+
+“Have the notice drafted by tomorrow evening. I want it posted before the first rotation begins. The payment schedule should be prepared at the same time.”
+
+“It will be done.”
+
+“And adjust rations accordingly on work days. If we push them harder, they must eat accordingly.”
+
+The steward paused for a fraction before replying. “Of course, My Lord.”
+
+Lucien gave a small nod, already reaching for the ledger set neatly upon his desk. “That will be all for now.”
+
+Elias inclined his head once more. “As you command.”
+
+He turned smoothly and made for the door, steps measured, unhurried. The study fell quiet once he departed, the soft click of the door sealing the room behind him.
+
+Lucien did not look up.
+
+He was already marking revised totals along the edge of the ledger.
+
+Elias did not allow his pace to change as he left the study. The door behind him closed with the same soft finality as always.
+
+He continued down the corridor of the manor, a place he was still learning the intricacies of, hands folded neatly at his back, expression composed as ever.
+
+Yet the words he had just heard lingered with him in a way routine orders never did. Not because they were unreasonable, nor because they were difficult, but because they had been delivered without hesitation, without performance, and without the familiar edge of impatience.
+
+For the first time in longer than he cared to admit, Elias found himself listening for what was absent rather than what had been spoken.
+
+He had served House Varentis for many years.
+
+Always at the periphery, yet long enough to understand the shape of its members.
+
+The greater portion of his service had been spent within the capital, attached first to the treasury and later to the administrative wing of the palace. His duties placed him nearer to ledgers and ministers than to nurseries and private tutors. He had observed the late Lord Varentis in matters of state, had watched coin move at his command and bore witness to how a noble’s temperament could shape the Kingdom’s policy.
+
+Lord Lucien, in those years, had been a presence rather than a fixture.
+
+The heir.
+
+Lord Varentis had been younger than Elias himself. The steward had long assumed he would retire before ever needing to serve the son directly. As such, he maintained a careful neutrality toward the young man.
+
+Polite when required. Distant when not.
+
+Elias had not raised him. He had not guided his education nor had he overseen childhood lessons or private reprimands. What he knew of the young lord had been assembled from formal dinners, court appearances, and the quiet reports that circulated through the capital like drafts beneath closed doors.
+
+In those settings, Lord Lucien had behaved as many young nobles did.
+
+Sharp tongued at times, easily bored and prone to indulgence. Careful with etiquette when watched, less so when he believed himself unobserved.
+
+Nothing extraordinary.
+
+Nothing alarming.
+
+Nothing that suggested...this.
+
+Elias turned a corner, steps measured.
+
+The young lord who now ruled Ashridge spoke differently. Not softer in volume, but in intent. His authority was direct and unadorned. His coin was spent with deliberation and he reached for obedience without resorting to humiliation.
+
+Such restraint could be learned.
+
+But it was rarely learned overnight.
+
+On the journey to Ashridge, the young lord had been visibly unsettled. Wine had been requested with regularity, sometimes before dusk had fully settled. His temper had run closer to the surface then.
+
+Yet in recent days, not a single order for more wine had been given. Instead there had been mention of something called coffee, a term unfamiliar to Elias. Perhaps it was some novelty from the capital. Young nobles were prone to chasing such fashions.
+
+Still, the shift was abrupt.
+
+Then, there were the other inconsistencies.
+
+His grasp of formal etiquette had sharpened in places where it had once wavered. Yet in more personal interactions, particularly with the maid, he displayed an unfamiliar restraint. Too careful. Too deliberate.
+
+A young noble of the capital would not hesitate in asserting his claim by bedding the maid by now.
+
+Elias’s expression did not change, though the thought lingered.
+
+The fall of House Varentis had been swift. Public disgrace stripped men of illusion as easily as coin stripped a treasury. It was not impossible that the weight of exile, of diminished standing, of tensions long buried within the household even before their departure from the capital, had fractured something within the young lord.
+
+There had been changes in the family long before Lucien’s exile to Ashridge.
+
+Elias had observed them. He had not commented.
+
+Men did not always break loudly.
+
+Sometimes they altered.
+
+Sometimes they refined themselves into something harder.
+
+Or something unstable.
+
+He reached the end of the corridor and paused, gaze steady.
+
+If Lord Lucien had always possessed this capacity for restraint and calculation, then the capital had concealed it well. If the change had come after their fall, then its cause required patience.
+
+House Varentis could not endure another fracture.
+
+Nor could those who depended upon it.
+
+Elias resumed walking.
+
+He would watch.
+
+And in time, he would learn whether House Varentis had been strengthened...or broken.

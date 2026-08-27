@@ -1,0 +1,295 @@
+---
+id: f0510a10-ba38-5ede-962e-c6cbfa5e7a7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 270 - Under My Command"
+slug: 0260-chapter-270-under-my-command
+partOf: mythrans-master-of-all-continued-completed
+position: 260
+ownLength: 3672
+unit: words
+publishedAt: 2017-06-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139896/chapter-270-under-my-command"
+royalRoadId: "139896"
+---
+
+Laurelia put Ren down after a few minutes, but she could still feel his warmth between her breasts. Despite Ren only being a quarter of her size, she was definitely thinking inappropriate thoughts, and was trying to think about how it could work out between them.
+
+*
+
+Ren was relieved when Laurelia put him down. It was nice to be squeezed between giant breasts, but he couldn't take full advantage of them because he was so small in comparison to her. He had seen the size of them when he had woken Laurelia up a few days before, and he seriously doubted he could get one of the tips into his mouth.
+
+The only one that would get anything out of this kind of relationship, would be her. Ren thought. Not that I'm thinking along those lines anyways. He smiled. I have enough women waiting for me now. He placed the female giant's clothing beside the bath, and cleaned and repaired the second female giant's clothing.
+
+“Thanks!” One of them said, and Ren smiled at them because he wasn't sure who had spoken. Both of their chests were covered in lather, and he wasn't sure if they had done it themselves, or if they'd lathered each other up. He pushed that thought out of his mind, and went back to work.
+
+“Laurelia, is it possible to get a list of names of everyone here?”
+
+“Sure.” Laurelia said. “Actually, that was something Nikaia wanted right away.” She walked away, and Ren assumed she went to her tent. When she came back, she handed him several rolls of parchment.
+
+“I... I don't want to ask this... but, can you tell me which ones... didn't make it back?” Ren asked her. Laurelia smiled sadly and knelt beside him, and pointed to the names of the 31 giants that hadn't returned. Unfortunately, two of them were Nikaia and Telaka; both giants that had inventories.
+
+“Thank you.” Ren said, and stored the scrolls of names. “The Ambassador, who's also the Librarian, is going to pass this list along to your families.”
+
+“Really?” Laurelia asked. “That's wonderful!” She said. “They'll at least know we're okay.”
+
+Ren nodded, and told her that he had to get back to work. She said she had to as well, and they parted ways. Ren went over to his table and the waiting giants, sewed up robes for each of them, then cleaned and repaired their clothing. He did all 105 of them, with 2 and 3 pieces of clothing repaired and cleaned for each of them. He even repaired their metal things like rings, bracelets, chains, belt buckles, etc. He finished an hour and a half later, with the female giant and her nephew.
+
+“I can't thank you enough.” She said, when she came out from behind the curtain with her robe on. “If you hadn't taken him when you did...”
+
+“That's why I did it.” Ren said and cleaned and repaired her clothing. “I saw you falter, and I wanted to get you both back here to safety before the battle.”
+
+Stat Change!
+
+Repair Level 1 (Advanced 0%)
+
+Metal Repair Level 1 (Advanced 0%)
+
+Cloth Repair Level 1 (Advanced 0%)
+
+The female giant knelt, and her nephew stepped close and gave her a hug. She held him close, and looked at Ren.
+
+“I'm so sorry that I went along with such a foolish idea to leave.” She said. “I just...” She glanced at her nephew that clung to her. “He... he wanted...”
+
+“That doesn't matter now.” Ren said. “You made it back, and they aren't coming for either of you anymore.”
+
+Tears flowed from her eyes, and she nodded.
+
+“Don't worry, things are going to be better from now on.” Ren said. “Once the supplies start arriving, you're not going to recognize this place.”
+
+“Thank you.” She said, and stood up to take her place in line by the hot bath.
+
+“Just a second!” Ren said when he had an interesting thought. “Let's see if this works.” He reached into inventory, chose one of the Ram and Cart toys, and thought for a giant child as he took it out. It came out 4 times it's normal toy size, and became the perfect size for the child giant. The child's eyes lit up at the toy, and Ren pointed to the key.
+
+“Just turn that a few times, and push this.” Ren said, and pointed to the box in the back of the cart. “Like this.” He said, turned the key a bunch of times, and pushed the button. The cart's wheels spun furiously for about 10 seconds, and then rolled to a stop. “Put it on the ground first, though. It won't roll by itself, otherwise.”
+
+“I... I can have it?” The child said in wonder.
+
+“Sure.” Ren said. “It'll even fit in your backpack.”
+
+The child beamed a smile at him and took the toy. He wound the key a bunch of times, put the cart on the ground, and pushed the button. The cart's wheels spun in the dirt a little, then took off through the middle of the camp. The child laughed and chased after it, and the female giant looked at Ren.
+
+“I haven't heard him laugh like that before.” She said.
+
+“I hope you keep hearing it.” Ren said. “You better go and tell him not to let it go into the moat, though.”
+
+“Right!” She said. “Thank you!”
+
+Ren waved her thanks away, and she went after the laughing child giant. He smiled and left the camp, and went out to where the medical tent was. All 7 Ballistas were there instead, and the dwarves were waiting for him.
+
+“Sorry to make you wait.” Ren said and stored the artillery weapons and bolts after he repaired them and loaded them back into the cartridges on the Ballistas. “I gave my word I would clean and repair the giant's clothing before I left.”
+
+All the dwarves nodded slightly. They knew all about it being important to keep your word. Ren took out the cart to hook it to Princess, and she trotted over to him to let him do it.
+
+“You're really good for doing this.” Ren said. “I wouldn't know what to do if you weren't such a great help.”
+
+You would find a suitable substitute. Princess thought to him, as the dwarves climbed into the back.
+
+“Yeah, me.” Ren said, and chuckled. “No one else but us could possibly haul all of this.”
+
+Princess huffed and he felt her amusement matched his own. Teepo flew down from keeping an eye on everything, and landed on his shoulder.
+
+“Aahh!” Deresdra exclaimed, and took out a wand. “A bug!” She turned the wand around and prepared to squish it with the handle.
+
+“Wait!” Ren said. “This is my friend, Teepo.”
+
+“Wh-what?”
+
+“He's my scout. If it wasn't for him, none of this would have been possible.”
+
+“Oh.” Deresdra said, and put the wand back in her bag. “Sorry.”
+
+Ren smiled. “Ruck, Riley, Stacy.” He said. “Watch and protect Deresdra. I'll be right back.”
+
+“You're leaving me alone again?” Deresdra asked, half-jokingly.
+
+“You can come along for the ride if you want.” Ren said. “But I'll be back in a couple of minutes to pick up Ruck anyways.”
+
+Deresdra nodded slightly. “I'll wait here, then.”
+
+Ren climbed into the driver's seat of the cart. “Let's go.”
+
+Princess took off like a shot around the moat and camp, and ran back to the Garrison. The ride was really fast, since she'd gained so many stat points and put most of them into Vitality and Endurance. Teepo had barely started to chitter in delight when they had to come to a stop at the Commander's office. The dwarves in the back hopped out right away, and formed lines before Ren's feet had hit the dirt.
+
+Ren walked over and knocked on the Commander's door. He came out and saw they were all fine.
+
+“So, it went off without a hitch.”
+
+“Well, instead of just having the Guardians of the Land show up, the refugees that left a couple of days ago were being chased by them.”
+
+The Commander snorted a laugh. “That figures.”
+
+“I delayed them long enough so that the refugees could get back to the camp, then we had the battle.”
+
+“You should have seen it, sir.” One of the dwarves said. “I've never seen anything like it.”
+
+“None of us have.” Another dwarf said. “That awe-toe-mat-ick bail-east-a was sure something.”
+
+“It's ba-list-a, not bail-east-a.” Another said. “But I agree. They were awesome.”
+
+“That reminds me.” Ren said, and took out 6 of the Ballistas. “Have one of these delivered to the crafting section. If they take their time, they should get the plans for it by tonight and can make as many as you need.” He smiled. “I'd say a few hundred or so should be enough to line the top of the garrison, and give each of these fine gentlemen their own to use. I didn't leave them at the site, because then anyone could come and take them.”
+
+“Sound logic.”
+
+“Be prepared to deploy again on short notice.” Ren said to the dwarves. “We shouldn't have to, but you know how things go.”
+
+“Yes, sir!” All the dwarves said and saluted him.
+
+“I have to go.” Ren said to the Commander. “I need to get back to the mines and finish my shift.”
+
+The Commander nodded to him, Ren climbed up into the driver's seat, and Princess took him back out to the giant camp.
+
+*
+
+“They aren't as awesome as him.” One of the dwarves said and pointed to the gate that closed behind Ren. “When all those giants showed up, I was standing there shaking in my boots and shooting the Ballista as fast as it would go.” He laughed. “I ran dry fast, then switched off. We all ran dry fast... then there he was. He rode his mount and charged the remaining enemies, made a wall appear out of nowhere, then a ramp up that wall, and smashed one of the giants smack dab in the face.”
+
+The Commander stood there silently and listened.
+
+“I'm sure the giant died, because his neck broke right after.” The dwarf shook his head. “Then a stone bridge appeared... and get this... it joined two of the giants together and he rode his mount across it to hit the next giant in the face!”
+
+“For as long as I live, I'll never forget that sight.” He smiled. “He took down two giants in just under half a minute.”
+
+“What else happened?” The Commander asked.
+
+“We interrogated one of the wounded giants before finishing him off...” The dwarf said.
+
+*
+
+Ren went back and picked up Deresdra and the two dogs, and was surprised Ruck didn't quite fit inside the cart anymore.
+
+“It upgraded your storage space again?” Ren asked, and Ruck nodded. “Okay, just a minute.” Ren made two small attachments for the sides of the cart, for Riley and Stacy to sit in. Once they were out of the way, Ruck climbed into the back of the cart and tucked his legs in, then held onto the sides with his hands.
+
+Ren climbed into the driver's seat again. “A little slower, so Ruck isn't shaken too much.”
+
+Princess huffed, and trotted at a moderate pace.
+
+“I said go slower, not crawl.” Ren said, and Princess brayed at him. He felt her amusement, though; and she ran at a much better pace. They made it back to House Neram in just under 10 minutes, even at the slower pace; and Ren dropped off Ruck and the two dogs. After getting the tent and folding cots from Ruck, Ren and Deresdra had Princess take them to the mine. When they came to a stop at the gate, Deresdra was breathing hard.
+
+“Are you all right?” Ren asked her.
+
+“Yes, I'm fine.” Deresdra said. “I just think...” She smiled. “...the ride needs to be longer for me to start enjoying it.”
+
+Ren chuckled, hopped down, and helped Deresdra to climb down. He pretended to tie Princess to the post there, and undid the cart to store it.
+
+“Welcome back.” The guard said, and opened the gate for them. Ren nodded slightly to him, and walked with Deresdra up to the medical tent.
+
+“It's nice to be back.” Deresdra said.
+
+“I'm glad to have you back.” The male healer said. “Thanks for the extra work today.”
+
+“No problem.” She said. “See you in a couple of days.”
+
+The male healer bowed slightly to her, looked at Ren, and his eyes widened slightly. “Sir.” He said, bowed slightly to him, and left the medical tent in a hurry.
+
+“I've been on my feet all day!” Deresdra said and flopped into the chair behind her desk. Ren chuckled, and made a chair for himself. He upholstered it, and sat down.
+
+Stat Change!
+
+Upholstery Level 3 (Beginner 0%)
+
+There's one I never thought of. Ren thought and smiled. Teepo, how much time left before the SPECIAL bonus runs out?
+
+“About 25 minutes.” Teepo said as he took off and went outside to keep watch. “Give or take a few minutes. I couldn't count while I was in the ring.”
+
+Thanks. Ren stood up. “Let's get our inspections over with, so I can finish my shift.”
+
+Deresdra nodded sightly and stood up herself. She led the way to the curtained-off area, closed it behind him when he entered, and started to take off her clothes. Ren took off the Dire Wolf Hooded Cloak and hung it on the back of the chair, and stored the rest of his clothes. He stood there in his underwear, and waited for her to finish getting undressed.
+
+When Deresdra had tossed her clothes on the floor and stood there in just her underwear, he turned around for her to check him. She let out a very low sigh in disappointment that he hadn't stared at her, and did the part of his physical that covered his back. Ren smiled as she didn't linger, or grip his muscles too tightly, or anything of the sort that would indicate that she was actually enjoying it, instead of doing her job.
+
+“Your back is done.” Deresdra said, and Ren turned to face her. She checked him over efficiently, and didn't find anything wrong. No pulled muscles, aches, or pains. She bent down to check his legs, and glanced up at his face.
+
+He's not even admiring my breasts. Deresdra thought, and tried to shake them a little. Come on, Ren! Look at them! They're hanging enticingly right here, and they long to be grabbed!
+
+When Ren didn't react, or even notice, she sighed.
+
+He's not taking the bait. Deresdra thought, then stood up to look him in the eyes.
+
+“Your turn.” Ren said.
+
+“What?”
+
+“Turn around, Deresdra.” Ren commanded. Deresdra took in a quick sharp breath, nodded slightly, and turned around immediately.
+
+Stat Change!
+
+Command Aura Level 7 (Expert 0%)
+
+Ren smiled and proceeded to check her back muscles. He massaged them to see if she had strained herself at all, and diligently checked every muscle in her back.
+
+Deresdra closed her eyes, and tried not to enjoy having a man massage her, especially after that man had commanded her to turn around.
+
+The gall of him! She thought, and forced herself to get angry at him. Ordering me around like some... Her thought was interrupted as Ren reached her lower back. She held her mouth tightly closed when his fingers caressed a sensitive spot right at the top of her behind. She really didn't want to moan out loud.
+
+I won't give him the satisfaction!
+
+Whoa. Ren thought, as he felt Deresdra's reaction to his touch just above her behind. I think I just found one of her erogenous zones. Just to make sure that it wasn't just her reaction to him about to check her gluteus muscles, he lightly ran his fingers up and over the spot again, and received the same reaction.
+
+What is he do- OH! Deresdra put her hand on the back of the chair to keep her balance. By the gods!
+
+Yep, that's definitely an erogenous zone. Ren thought. I'll avoid that from now on. He gripped and massaged her behind, just like she'd done with his; but, he had taken her previous healing lessons to heart. Even though the action was the same, the motion would be different. He thought, moved his hands down her thighs, and to her calves.
+
+I will not let him see that I like this! Deresdra thought. I will not!
+
+“The back is done.” Ren said and stood up. He thought about asking her to turn back around, but he'd seen the look on her face when he'd commanded her. He was tempted to switch to his Camaraderie Aura; but, he figured since she'd teased and tempted him ever since they'd met, a little payback was in order.
+
+“Face me, Deresdra!” Ren commanded.
+
+He'd said it a little loudly, and she'd jumped slightly as her head whipped around to stare at him with wide eyes, and her body followed a second later. She stood very still, practically frozen stiff, as Ren reached out and caressed her neck with both hands. He checked the muscles there, then moved to her shoulders.
+
+Deresdra stopped breathing when his hands moved to touch her chest. He's just going to maul them, just like every other man that gets their hands on them. She thought in satisfaction, then didn't know how to react as Ren checked the underlying muscles, instead of kneading the flesh that covered it.
+
+Ren checked the muscles of her chest, and completely ignored her breasts; since they didn't contain any actual muscle. He moved on, went down to her abdomen, and checked the muscles there. When he reached her pelvis, he dug his fingers into the flesh to see if there was any pain or distention present. He didn't find anything, so he knelt and checked her front thigh muscles. He ignored the part covered by her underwear, despite it being significantly wet there, then checked her knees and finished the inspection at her feet.
+
+“There, all done.” Ren said and stood up.
+
+Stat Change!
+
+Healing Level 8 (Beginner 0%)
+
+“Under my own authority...” Ren said in his command voice. “...and as someone who just thoroughly checked your body properly from head to foot.” He smiled. “I declare you cleared for work.”
+
+Deresdra nodded several times rapidly, because she wasn't sure if she could speak yet. Ren gained about 50 Honor, and smiled at her as he equipped his clothing. He picked up the Dire Wolf Hooded Cloak, made sure it still had it's passenger, and put it on.
+
+“Deresdra.” Ren said and looked at her intensely. “Tell me I'm cleared for work.”
+
+Deresdra opened her mouth a little bit, and let a sigh escape. “You...” She swallowed loudly. “You're cleared for work.” She said with more composure than she actually felt.
+
+“Thank you.” Ren said, gave her a small bow and 15 Honor, then left the curtained-off area and the medical tent.
+
+*
+
+By the gods! Deresdra thought and sat down on the chair. She caught her breath when her tender part touched the wood through her soaked underwear, and stood up quickly. She looked down at herself and at the mess she made on the chair.
+
+“Oh, dammit!” She exclaimed.
+
+*
+
+Ren chuckled as he heard Deresdra, and ran to the blacksmith shop at the mine. They didn't need anything repaired, so he ran into the mine to work. Teepo flew in with him, and rather than get his new body full of dirt, Ren took off the Ring of Recall and summoned Teepo into his astral projection form and stored the new body.
+
+“What have you got for me?” Ren asked the first dwarf he came to.
+
+“You've already smashed the biggest boulders we could find.” The dwarf said. “Why don't you find a new vein for us?”
+
+“You got it.” Ren said, and used his Metal Detection ability. Since he was still under the effects of the SPECIAL bonus, his ability went out twice as far as normal. “This way!”
+
+Ren grabbed a nearby empty cart and started to push it. He walked farther and farther down into the mine for several minutes, and a pile of dwarves followed him. When he stopped walking, so did they.
+
+“You and you.” Ren said and pointed to two of the dwarves. “Dig there. It's about 20 feet in.” He said. “The rest of you, keep going.”
+
+They walked on down the main tunnel, and then off on a side one. Along the way, he would dispatch a dwarf to dig in certain spots. After about 10 minutes, he came to another stop, and only had 4 dwarves left.
+
+“Oho!” Ren said, as he felt a really big pulse off to his right. “There's a big one!” He said excitedly. “You and you! Right there! You and you, on my other side!” He said and pointed to the spots on either side of him in the tunnel. “It's going to take a long time to mine this one out, guys!” He took out his mining pick and started to dig. The dwarves joined him and after nearly 40 feet of digging, the edge of the vein was revealed.
+
+“Ha ha!” Ren said, excitedly. He had found a huge vein of gold that was nearly 10 feet high and an unknown length. His ability couldn't feel the end of it, even with the boost; so, he knew it was a huge find.
+
+Stat Change!
+
+Metal Detection Level 2 (Intermediate 0%)
+
+“By the gods!” One of the dwarves said. “We're gonna be filthy rich!”
+
+“Yes!” One of the other dwarves said. “Now we can afford another child!”
+
+“Well, don't just stand there!” Ren grinned at them. “Have fun!”
+
+The dwarves laughed as they all started to dig.

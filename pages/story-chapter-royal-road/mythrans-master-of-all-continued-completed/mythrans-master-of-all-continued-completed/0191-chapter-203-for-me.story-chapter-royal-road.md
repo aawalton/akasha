@@ -1,0 +1,363 @@
+---
+id: 651ee21b-f6b0-58b5-a8b2-f426e701e6eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 203 - For Me?"
+slug: 0191-chapter-203-for-me
+partOf: mythrans-master-of-all-continued-completed
+position: 191
+ownLength: 4921
+unit: words
+publishedAt: 2017-03-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125681/chapter-203-for-me"
+royalRoadId: "125681"
+---
+
+The next morning passed for Ren without incident. He had asked Ereka to make all the arrangements to move the silt operation out to the mines at the end of the week, and even managed to give the list of items to be made for the shop to Tee-one. Ren was a bit surprised when he arrived at the mines for his medical inspection, and the healer Deresdra never mentioned anything that had happened the other day; then he remembered that Nathalia had told him that if he didn't mention it, neither would the healer. Everyone was back to working in the mines, and Ren worked his full 8 hours before he knew it. After checking on the baby fire elemental, he gave it more food; then decided to work on the stained glass windows now that he had a bit of spare time.
+
+Ren called Nathalia on the Sending Ring to tell her he would be working at the mines for a little while longer, and would see her at supper. He took out one of the crates of diamonds that he had, picked a good-sized one, and grabbed a handful of molten steel from the smelter. He worked it into a formed handle, and set the diamond into the tip of it, with the pointed end sticking out instead of the flat end. Once he had a good scoring tool made, he needed a larger place to work. The baby fire elemental's pen took up most of the space on the workbench that he had there, so he built another larger one to use.
+
+Ren wanted to do the Fire Deity stained glass window first, to honor Fire Dancer, so he took out several panes of glass and dyed them red, orange, yellow, white, and blue. He thought about an appropriate picture for light to pass through, and smiled as he drew out a design. Once the design was done, he memorized it, and repeated it on each pane of glass. He took out one of the normal panes of glass to practice on, used his new scoring tool and ran it along one edge of the practice pane, firmly gripped the cut part and the pane of glass, and broke the piece of cut glass off. Ren stepped back to wait for the popup.
+
+Notice!
+
+You have unlocked a new skill: Glassworking Level 1 (Beginner 0%). This skill allows you to manipulate glass, by cutting, sanding, and shaping it. Higher levels will allow greater speed to be used when performing these tasks, and reduces the chance of breakage.
+
+Notice!
+
+You have unlocked a new sub skill: Glass Cutting Level 1 (Beginner 0%). This sub skill under Glassworking allows you to successfully cut glass with ease. Higher levels will allow greater speed, and more intricate cuts to be made.
+
+“Nice.” Ren said, then for the next hour, used the scoring tool to cut the pane into as many pieces as he could. Or, at least he tried to. He broke just about every second piece that he tried to cut. “Apparently, pressing too hard on the glass with the scoring tool is not a good idea.” Ren said to himself, and kept working. He eventually got the pane down to 2 inch squares, and a whole lot of shards. He was glad for his Toughness ability that made it harder for him to be hurt, otherwise his hands would have been covered in cuts and glass pieces. Ren swept the glass pieces up and tossed them into the glass forge. He took out another pane of glass and kept cutting for another 2 hours; but, no matter how simple of a cut he made, he had a tendency to use too much pressure when trying to break it free.
+
+“Suppertime.” Teepo said, and Ren sighed.
+
+Thanks, Teepo. Ren thought, and tossed the broken glass pieces into the glass forge. I am going to need a lot more practice to get this thing right. I haven't even leveled the ability once.
+
+He left the workshop at the mines and ran down to the gate. The guard opened it for him and bid him a good night, and Ren waved to him and ran by. He was back home a few minutes later, and went inside the house to have a great meal. After telling Nathalia and Ereka that he had Adventurer's business to take care of, he sat on the couch and logged out.
+
+********
+
+Ren took off the VR headset and Barbara was there. “Hi, Barbara!”
+
+“Hello, little man.” Barbara said as she took the headset from him. “Stella will be here in a few minutes.”
+
+Ren looked at his watch, and smiled. “I managed to log out early and see you, so it's all good.”
+
+Barbara laughed and put the headset down on the dresser, out of the way. Ren wasn't sure why she was putting it so far away, and then he looked at the rollaway table where the headset was usually stored.
+
+“What's all this?” Ren asked, as he saw several small bundles of flowers, 2 boxes of chocolates, and half a dozen greeting cards.
+
+“Some tokens of affection from your adoring fans.” Barbara said. “They would have been given to you yesterday, but the chocolates had to be checked first.”
+
+“Checked, huh?” Ren said, and opened one of the boxes. Quite a few of the pieces inside were gone, and he laughed. “How did they taste?”
+
+“Delicious, of course.” Barbara said. “We took out the ones that wouldn't be good for you.”
+
+“Uh huh.” Ren said, and took one out and popped it into his mouth. He sighed as he chewed the chocolate-covered soft caramel. “Oh, yeah!”
+
+“Don't eat a pile of them.” Barbara said and smiled. “Breakfast will be ready soon.”
+
+Ren closed the box and put it back on the rollaway table. “Dom wommy.” He tried to say, chewed a bit more, then swallowed. “Don't worry.” He said much more clearly. “I know how to pace myself.”
+
+Barbara snorted a laugh, and Ren grinned at her.
+
+“You need to pace yourself with that glass working thing.” She said. “You're gripping it too hard.”
+
+“I know.” Ren said. “I don't know what I'm doing wrong.”
+
+“You need to get someone to show you how to do it properly.” Barbara said. “Trying to do it by yourself is going to take a lot longer.” She smiled. “If you do it wrong, you'll never get better at it.”
+
+Ren nodded. “I'll see if I can stop in at the window place during my next lunch break.”
+
+The door to his room opened, and Stella came in wearing her nurse uniform.
+
+“Good morning!” Ren said enthusiastically.
+
+“I guess you had a good night last night.” Stella said and grinned.
+
+“Not like that.” Ren said. “I spent the day with Nathalia in Aurora, then worked a day in the mines.”
+
+“Ah.” Stella said. “You took her to all your favorite spots.”
+
+Ren nodded. “It was great showing her around.” He said. “She'd never been off the ship she was cooking on, so she'd never seen anything on that side of the water before.”
+
+“No wonder you're in such a good mood.” Stella said. “There's nothing better than spending time with the one you love.”
+
+“Yeah.” Ren said, and smiled as he remembered how Nathalia had felt. “Sharing her feelings was the best.”
+
+Stella nodded. “You'll have to tell me later how you managed that again.” She said and looked at Barbara. “Can you stick around while I get breakfast for him?”
+
+“That's why I'm still here...” Barbara smiled. “...and to make sure he doesn't pig out on chocolates.”
+
+Ren raised a single eyebrow at her, and Barbara laughed as he very carefully took another chocolate from the box, then slowly put it into his mouth and chewed it.
+
+“I see you've got your hands full.” Stella said. “I'll be back in a few minutes.”
+
+She got him breakfast quickly, and while he ate, Barbara said goodbye to Ren and took Stella into the hallway to fill her in on what had happened overnight.
+
+*
+
+After the quick rundown, Stella asked a question.
+
+“What's with all the gifts?”
+
+“Some of the nurses felt really bad about what Cheryl did.” Barbara said. “They snuck it all in last night.”
+
+Stella smiled. “Which one is from you?”
+
+Barbara took a bag of sour gummy worms out of her pocket. “I haven't given it to him yet.”
+
+“His diet is completely shot for this week.” Stella said and laughed. “What's one more sugar dose?”
+
+Barbara smiled. “They're made from natural sugars, so it's not too bad.” She said. “Just make sure he drinks an extra supplement during the day.”
+
+Stella nodded. “I was planning on that, once I saw the chocolates.”
+
+“They're diet chocolates, so they're okay as well.” Barbara said. “I replaced them last night, and since the box had to be opened for that, I left some out so he would think I ate them.”
+
+“Oh, that's sneaky.” Stella said. “I knew I liked you.”
+
+Barbara chuckled. “I left the actual chocolates in the break room's fridge if you want some.”
+
+“Yes, I definitely like you.” Stella grinned. Barbara gave her the gummy worms to give to Ren, and left.
+
+*
+
+Ren finished eating and drank some of the supplement. Either it tasted a little better this time, or he was getting used to the awful taste. He took another drink, and smacked his lips.
+
+It does taste a little different. Ren thought, then Stella came in the room. “What did you put in this?” He asked and held the glass up.
+
+“Just a touch of vanilla.” Stella said. “You've been drinking the same stuff day in and day out. I thought a small change would be nice.”
+
+“It is.” Ren said and took another drink. “I was just thinking it tasted a little better, and wondered if I was finally getting used to the awfulness.”
+
+Stella laughed. “That's always possible.”
+
+“If that's the case, then anything is possible.” Ren grinned. “Thanks, Stella.”
+
+“It's no trouble.” She said, took the food tray, and left the room. Ren went to the bathroom, used it, and cleaned himself up. He went back out to his room, changed into his workout outfit, and sat in the wheelchair. Stella came back in the room and took him to his physical therapy session. Once that was done, Ren got a shower and his arm worked a little better. It was sore as hell; but it also moved easier. He asked Stella to help dry him off, and she also helped him get dressed afterwards. Ren went back to bed and relaxed.
+
+“Boy, I'm exhausted.” Ren said. “Working out really takes it out of me.”
+
+“Maybe this will help.” Stella smiled and took out the bag of sour gummy worms. “These are from Barbara.”
+
+“No way!” Ren said, and accepted the bag. He opened the top and took in a deep breath in through his nose. “Oh, that is a wonderful smell!” He said and took one of the worms out, and put the end in his mouth. Ren made a slurping sound, and sucked the worm in. It flopped around and smacked his nose before disappearing into his mouth. He moaned in pleasure as he chewed on the sour gummy goodness, and Stella laughed. Ren checked the greeting cards, and read the words written within while he ate another gummy worm. He even smelled the flowers, and then laid back on the bed.
+
+“I better log in and get some rest.” Ren said, and Stella handed him the VR headset.
+
+“That still sounds weird when I hear it.” Stella said as she helped him put it on. “I'm sure once we get the research going next weekend, I won't find it so odd.”
+
+“I do it, and I still find it odd.” Ren said and smiled. “I'll see you at lunch.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, said goodnight to Teepo, and went to bed with Nathalia. They cuddled together for the whole night. Teepo woke him up the next morning, and Ren had an early breakfast. He was by himself because he let Nathalia sleep in, and crept out of the house quietly. Ren ran to the mines, and Deresdra the healer still didn't mention their encounter. He wasn't sure why she didn't even hint at it; but he accepted that Nathalia had been right. Deresdra didn't want to even acknowledge that anything had happened at all.
+
+Ren worked for 4 hours, and when Teepo told him it was time for lunch, he left the mines and went to the minor House that made stained glass windows. After another brief negotiation and another nominal fee, he again received permission to witness how to make stained glass windows. He glossed over the forging process, since he'd already gotten well past that point, and moved on to the actual cutting process. He was a little excited to see the female dwarf take out a small-handled tool, just a little larger than a pen, and it had a small diamond worth 1 gold coin mounted on the end of it, and the point was angled down.
+
+“Can I ask where you got that?” Ren asked her, and she smiled.
+
+“My mother used to work for the King and Queen, and this...” She held up the tool. “...was made by their personal gemcutter and blacksmith.”
+
+Ren smiled, and tried not to laugh. It never even occurred to me to ask Dorcot about using a gem inside a tool.
+
+She took out a piece of scrap glass, and ran the tool across the surface. She picked the piece up and snapped it easily.
+
+“Can you do that again, please?” Ren asked. “I'd like to know how you broke it so easily.”
+
+“There's a huge secret to it.” She said. “Don't score the glass too deeply.”
+
+“What?”
+
+She chuckled. “I know. It sounds wrong, doesn't it?”
+
+Ren nodded.
+
+“You have to remember that you're not trying to cut the glass; you're trying to separate it.” She said. “You only need a small amount of pressure to make the score line.” She ran the tool across the glass. “Then, you pick it up like this.” She picked the piece of glass up and held it over the side of her closed fists and under her thumbs. “Don't hold too tightly, or use your fingers. You'll cut yourself on the edges when the glass snaps if you do.” She put a little bit of pressure on the glass, and it popped apart like it was supposed to. There wasn't any shards or broken pieces, either.
+
+“Can I try it?”
+
+She took in a breath, and looked at her tool. “I don't know if I should...”
+
+Ren took out his custom made tool, that had a handle that was formed to his hand and had a half-inch wide diamond embedded in the tip that was angled downwards, and she gasped.
+
+“By the gods, where in the world did you get that?!?” She exclaimed.
+
+“I made it.” Ren said. “I needed a tool to cut the glass, and I didn't know where to buy one.”
+
+“You... made it.” She looked at him in wonder.
+
+“I'm a blacksmith, and a friend cut the gem for me.” Ren said. “I haven't learned how to cut the gems myself yet.”
+
+Her mouth dropped open and she stared at him.
+
+“So, can I try it?” Ren asked. She didn't say anything as she handed him a piece of glass. Ren took in a calming breath, and used his tool like she had used hers. He scored the glass, and picked it up.
+
+“No, not like that. Like this.” She said, going into full teaching mode. She moved his hands to where they should be, and positioned his thumbs properly. “Okay, now only put a little bit of pressure on the thumbs.”
+
+Ren did that, and nothing happened.
+
+“Now turn your wrists out and roll your hands down your fingers like this.” She did the motion a couple of times, and Ren nodded. He looked at the glass in his hands, and did the motion. The piece popped apart and didn't break.
+
+“Ha ha!” Ren said as he put the pieces down, then picked the woman up and swung her around. She squealed, half in delight, half in terror, and Ren put her down. “Sorry!” He said in apology. “I broke so many pieces trying to do it myself.” He chuckled. “That was the first time it actually worked for me.”
+
+The woman tried to catch her breath. “That.. that's okay.” She said and looked at him warily. “I'm glad you're happy.”
+
+“I have to try it again.” Ren said, and laughed as he saw her reaction. “I meant cutting the glass.”
+
+Relief passed over her face, and she smiled. Ren scored another straight cut, then repeated the separating process. It snapped cleanly, and he laughed. The woman braced herself to be picked up again, but Ren cut another piece instead and successfully repeated the technique. He turned to her expectantly.
+
+“What else can you show me?” Ren asked excitedly, and she smiled.
+
+“A lot.” She said, then proceeded to show him how to cut gentle curves, then hard curves, and then showed him a couple of special metal tools and pliers for working the glass, and for breaking apart the hard curves.
+
+“You can use tools for that?” Ren asked. “I thought it was only by hand!”
+
+She chuckled. “It is by hand mostly.” She said. “Sometimes you need the extra leverage, though; especially since hands can't reach some of the spots that need to be separated.”
+
+Ren examined the tools she was using, and got the plans for them. He saw they were worn and well-used, and looked at her.
+
+“I can repair them if you want.”
+
+“Can you?” She asked. “I didn't know anyone even knew what they were, let alone could fix them.”
+
+Ren chuckled. “That was true until now.” He took out his blacksmithing hammer and repaired the tools.
+
+“First you show me a custom scoring tool you made, that I thought was only in my family's possession; then you fix all of the tools that my mother had since she was a young girl.” She shook her head and looked at Ren again with a smile on her face. “Who are you again?” She asked, jokingly.
+
+“I'm tempted to say I'm a student of learning; but, I've been too busy to learn much of anything new lately.” Ren responded.
+
+“I'm sorry to hear that.” She said.
+
+“Me, too.”
+
+“Ren, you've still got 4 more hours to work at the mines.” Teepo said.
+
+Right! Thanks, Teepo. Ren thought and looked at the female dwarf. “I've got to get back to work. Thank you so much for showing me how to do things properly.”
+
+“Learning to cut is just the start.” She said. “There's a lot more to this profession than that!”
+
+“I know.” Ren said. “If I had more time to spare today, I'd stay and learn as much as I can.” He said. “Can I stop by for lunch tomorrow?”
+
+“Are... are you asking me out?” She asked.
+
+“I'm engaged.” Ren said.
+
+“Yes, I know.” She said. “My question still stands.”
+
+He opened his mouth to say that being engaged meant he couldn't date anyone else, then remembered where he was and the culture he was dealing with.
+
+“Um... no, I'm not asking you out. I merely want you to teach me as much as you can, in as short a period of time as possible.”
+
+She laughed. “I assume you mean only for stained glass working.”
+
+“Yes, only glass working.” Ren said and smiled.
+
+“Okay, as long as we're clear. Professional time only.”
+
+Ren nodded slightly.
+
+“Then I'll see you at lunch time tomorrow.”
+
+Ren took out his icebox and gave her a plate of meat and vegetables. “I'm sorry you missed lunch today. Please accept this as a token of thanks.”
+
+The female dwarf took the plate of food with a surprised look on her face, and Ren stored the icebox.
+
+“I'll take the empty plate back tomorrow.” Ren said. “Bye!” He took off running, left the business, and ran back to the mines. He called Nathalia on the way, to tell her he was going to be late again today. She said that was fine, and he made it to the mines and went to the medical tent.
+
+“You again.” Deresdra said. “I should restrict you to the mines for the rest of your sentence.”
+
+Ren looked at her in surprise. “Please don't do that.” He said. “I've been doing my best to try and get everything done before I have to leave. The sentence itself is hard enough without having to stay here all the time, too.”
+
+“Hard?” Deresdra said. “You only work 8 hours, and can leave whenever you want.”
+
+“You can leave whenever you want, too.” Ren said. “You're not under contract, remember?”
+
+Deresdra opened her mouth to say that she was under contract, then frowned as she looked at her wrist.
+
+“I'm... not under contract.” She said.
+
+“Of course you're not.” Ren said. “I bought it for you and destroyed it.” He said and looked at her in concern. “Are you feeling all right?”
+
+“I thought I was.” Deresdra said, and looked at Ren. “I think I need a little time off.”
+
+“Sure.” Ren said. “Let me just ask the owner.” He took a step to the right and looked left. “Ren, I think Deresdra needs a few days off.” He took a step to the left and looked right. “I think you're right, Ren. I'll get the mine foreman to bring out a temporary replacement.” He took a step to the right and looked left. “Why not just hire another healer? Then they can split the shifts and not have to work so hard.” He took a step to the left and looked right. “That's a great idea, Ren! I'll do that right after the medical inspection.” He turned to face her. “You're all set. The owner says you can take a few days off.”
+
+Deresdra had her hands over her mouth and tried not to laugh. Ren smiled as he walked by her and stepped into the curtained-off area. She followed him and gave him the medical inspection. Her fingers seemed to linger a little longer on his muscles than they had the day before; but other than that, she was completely professional.
+
+“Thank you.” Ren said and equipped his clothing. “I'm sorry that you have to keep inspecting me; but, I am going to keep leaving and coming back.” He said. “There's no getting around the fact that I have to leave every day.”
+
+Deresdra sighed. “Yes, I know.” She looked at him. “At least you don't complain about having to do it.”
+
+Ren frowned. “Is someone else complaining?”
+
+She shook her head. “I won't discuss other patients with a patient.”
+
+“Then discuss it with the mine foreman.” Ren said. “He won't be happy about someone complaining, either.”
+
+Deresdra nodded. “I'll do that.”
+
+“Good.” Ren said. “If there's one thing that both I and the mine foreman agree on, is having a dedicated healer available. If you're not happy, then we aren't happy.”
+
+She smiled. “Thank you.”
+
+Ren nodded slightly and went back to work, after making the appropriate arrangements with the mine foreman for Deresdra to have some time off and to hire another healer. Ren worked another 4 hours in the mine, and went home just in time for supper. He told Nathalia he needed to make a delivery to the shop that night, and wouldn't be back until late. He sat down on the couch to log out, and once again, was disappointed that Elerlyth hadn't messaged him in the game.
+
+********
+
+Ren took off the VR headset and checked his emails, deleted the spam, and still didn't see a message from Gloria. He ate lunch quickly and logged back into the game.
+
+********
+
+Ren left the house, went to the workshop to meet Tee-one, and picked up the orders for the store. He took Princess and the cart on the hour long drive to the warehouse, and Teepo dissolved into the ring as Ren went through the portal to Aurora. He dropped off the customer's orders after apologizing to Anabelle for waking her up. He picked up a new list from her desk downstairs, then went back up to the apartment and asked Anabelle about hiring a delivery Adventurer. When she stopped laughing, she discovered that Ren was serious.
+
+“You're joking.” She said. “You want to hire an Adventurer, just for deliveries.”
+
+Ren nodded. “They have to be strong, though. I want them to be able to carry several furniture pieces without a struggle.”
+
+“That's going to be an odd job posting.” Anabelle said.
+
+“I know.” Ren said. “I was going to say it'll be an easy job most of the time, but that all depends on if everyone wants their things delivered once they find out that we do deliver.” He chuckled. “And you know they will.”
+
+Anabelle smiled and nodded.
+
+“See you in a couple of days.” Ren said.
+
+“Just a minute.” Anabelle said. “Now that you're here, can you... kiss me... goodnight?”
+
+Ren looked at her and saw that she was blushing slightly. He walked over to the bed and she slid the blanket off of her, to reveal the see-through nightgown that she always wore. It left nothing to the imagination; and he noticed she wasn't wearing underwear, either. He stood beside her, and she looked at him expectantly as she raised her nightgown slightly with her hands. Ren smiled as he leaned over her, took her face in his hands, and gave her a gentle kiss on the lips.
+
+“Goodnight, Anabelle.” Ren said, and walked back around the bed to the cabinet that held the portal.
+
+“That... that's not...” She tried to say, and reached a hand up to let her fingers touch the lips Ren had just kissed. “I didn't mean...”
+
+“I know it's not what you asked for...” Ren smiled. “...but, it's what you really wanted.” He closed the cabinet, nailed it shut, and stepped through the portal.
+
+*
+
+Anabelle stared at Ren as he closed the cabinet. She let her hand drop and sighed. I wanted you to kiss me like you did before. She thought, and pulled the blanket back over herself and snuggled down into the bed. A moment later, she licked her lips and smiled. At least, I thought I did.
+
+*
+
+Ren summoned Teepo, ran downstairs, and fed Princess some food. He hooked her to the cart again, and was back at House Neram Keep an hour later. He put Princess back in the stable, and went into the house to go to bed. He climbed into bed under the blanket, and fell fast asleep.
+
+The next few game days passed by quickly. Ren worked the mornings at the mine, learned about stained glass for a few hours at lunch, then finished his shift at the mine. He barely had an hour to spend with Nathalia each day; but, she never complained. She was almost as busy as he was, however. The restaurant was coming together nicely, and since she had two of them to set up and run, it was taking up twice as much of her time. Ren helped her when he could, with job postings and setting things up; but it was all hinged on her decisions, so she had to shoulder most of that burden herself.
+
+The healer Deresdra had to wait those same few days for another healer to become available so she could take her time off; but she didn't complain, either. She was happy to know that she could take time off and wouldn't have to worry that her job wasn't being done.
+
+********
+
+Ren logged out to eat breakfast and to do his physical therapy session. After a quick shower, Bonnie helped him dry off and he got dressed in one of his new pajama sets. He climbed into bed and relaxed, then Bonnie came in with a delivery man behind her.
+
+“There's a package here for you, Ren.” Bonnie said. “They said they need your signature.”
+
+Ren nodded, and the the guy handed him a small electronic device and a thin plastic stick. Ren signed the little screen, passed them back, and the guy handed him a 1 foot square box. He nodded and left the room, and Ren looked at the box closely.
+
+“What is it?” Bonnie asked.
+
+“No idea.” Ren said. “There's no return address.” He noticed small puncture holes near the top of the box, and that made him really curious. “Any chance there's a sharp knife around?”
+
+“Sure.” Bonnie said and left. She was back a couple of minutes later with a steak knife from the break room. Ren cut the tape that held the box closed, and saw that the edge went all the way around. He used the knife to cut it open all the way, and when he was done, he let the hand holding it together go. The box flopped open, the sides fell down, and the contents were revealed.
+
+Bonnie screamed as a hand-sized tarantula flopped out of the box and landed on Ren's chest.

@@ -1,0 +1,267 @@
+---
+id: 433ebf62-2b92-5b39-b20c-9353018528b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 311 - Shoal Island"
+slug: 0302-chapter-311-shoal-island
+partOf: mythrans-master-of-all-continued-completed
+position: 302
+ownLength: 3299
+unit: words
+publishedAt: 2017-07-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149477/chapter-311-shoal-island"
+royalRoadId: "149477"
+---
+
+“By the gods!” Lusinia exclaimed. “What's happening?”
+
+They could feel everything Ren felt, and his cold anger burned through them.
+
+“I think something really bad happened.” Verwynn said. “He's so angry!”
+
+“I'm glad we're connected to him.” Navruth said. “I can't imagine what it's like to be on the other side of this!”
+
+Andrela and Frikara hadn't said anything, and the other three maids looked at them. The two maids were calm and relaxed, and didn't react at all.
+
+“Why aren't you...”
+
+“He's protecting us.” Frikara said. “We should be drowning in Terror right now.”
+
+Andrela nodded. “Close your eyes and feel what he's sharing.” She said. “He's trying so hard not to lose himself to his anger; so, let's help him keep it in check.”
+
+Lusinia, Verwynn and Navruth laid back and closed their eyes, and listened to Andrela's advice. They concentrated on Ren and his feelings, and ignored their own reactions to it. Once they did, they believed what Frikara and Andrela said was true and became a buffer for him. The anger didn't touch them like it had at first, and they accepted it easily and absorbed it. The anger eased away; and just as they were about to rejoice in their success, a deep sadness replaced it.
+
+“By the gods.” They all said together, and their tears flowed unbidden.
+
+********
+
+Stella sat and watched the scene in the engine room play out, and tears came to her eyes. “Oh, Ren.” She said and wiped her eyes as she started to cry. “This seems to be a recurring theme for you.”
+
+********
+
+Ren stood up and clenched his fists. His was still angry; but it was a little distant at the moment. He could think clearly, and wasn't blinded by it; and he could also feel the reassuring presence of his maids. Ren walked over to the wall and grabbed a piece of rope, cut it into several pieces, and tied up everyone in the engine room.
+
+“I... I didn't... do anything!” One of them managed to say through his Terror as Ren tied him up.
+
+“You knew, though.” Ren said. “Did you say anything? Report it? Protest? Object at all?”
+
+The worker didn't say anything and Ren searched them to remove anything that could be used to cut the rope, then tied them all together, back-to-back, almost in a bundle.
+
+Stat Change!
+
+Knot Tying Level 4 (Beginner 0%)
+
+Now that they were all secure, Ren let the Connection between his Screaming Terror ring and Command Aura lapse.
+
+Stat Change!
+
+Connection Level 8 (Beginner 0%)
+
+“You're all my prisoners.” Ren said. “You'll be held until such time as I can find another water elemental, then you'll be released into their custody.”
+
+“You can't do that!” Smeg said. “It was just a stupid elemental that drifted into the shipyard docks! It's not sentient...”
+
+“..and you think that gives you the right to use it like that?” Ren asked. “Didn't you hear it crying?”
+
+“Crying? What are you talking about?” Smeg asked. “They all make that sound.”
+
+Ren froze still. “What do you mean they 'all' do?”
+
+“Everyone that works at the docks sees them occasionally.” One of the workers said, and Ren relaxed. “They usually find their way back out to sea pretty fast; but, this one...” He shook his head. “...it just didn't understand it could turn around and go back.”
+
+“What happened?” Ren asked.
+
+“It crawled out of the water and onto the dock.” The worker said. “No matter what we did, it wouldn't go back in. After a few days, we started to feed it.”
+
+Ren sighed. “Let me guess. You gave it ale.”
+
+“Not... not at first.” Another of the workers said, a little surprised that Ren had guessed so quickly. “We gave it plain water in a bottle and it drank it.”
+
+“After a while, it started to change it's head for the bottle to fit.”
+
+“You went to a bigger bottle.” Ren said.
+
+“Yeah.” The worker said. “It loved clean and fresh water, so we started to give it more and more.” He said. “We were up to a 10 gallon bucket at one point...”
+
+“By the gods.” Ren said and sat down on the now empty engine. “You gave it so much, the excess was expelled.”
+
+“Like a hose.” The worker said. “Smeg poured ale into the next 10 gallon bucket, and when it drank it...”
+
+“All it wanted was more.” Smeg said. “So we kept giving it some.” He smiled. “Of course, we were all drunk by then, and I had the crazy idea about using the ancient rune.”
+
+“You stupid, ignorant fools.” Ren said, his heart straining not to burst from sadness. “It didn't want more ale.” He shook his head and rubbed his hands on his face. “You starved it by not giving it water.”
+
+“What?” One of the workers said. “It drank more ale than the captain! It couldn't starve like that!”
+
+Ren chuckled. “Water, water everywhere, and not a drop to drink.”
+
+“What's that mean?” One of the workers asked.
+
+“It means, when you attached it to the engine, it was so starved that it drank as much as it could. When it couldn't hold any more... after this 'charge time' you discovered... it had no choice but to expel it.”
+
+“But... we thought... it's supposed to work like that! It's a water elemental. It processes water!”
+
+“For itself!” Ren said and stood up. “Just like everything else, it needs to eat to live!” He said and stalked over to them. “What you did... force-feeding it until it...” He clenched his fists again, and looked at the large iron door of the engine room. “I wondered why you'd have a door like that.”
+
+Ren looked at all of the upgrades he'd received and saw one he could make use of right now.
+
+Charge! (Party Skill)
+
+Everyone in your party can act as if they had the Haste and Giant Strength spells cast on them, with a 5 minute limitation. Cost: 100 Mana
+
+Ren was in the bowel of the ship when he activated the Charge! skill; but, he didn't get a chance to use it himself. There was a soft crash of wood, then a moment later a loud crash of wood, then 2 moments later there was a loud clang of metal on metal. The engine room door deformed and bulged inwards, and one of the large metal hinges stretched and pulled out. There was a second clang a moment later, and the door was torn off it's hinges and flew across the room as Princess entered the engine room behind it.
+
+“Thank you, Princess.” Ren said. “I might have hurt my shoulder doing that myself.”
+
+You're welcome, My Lord. Princess thought to him. Are they next?
+
+“Unfortunately, no.” Ren said. “They have to be kept until I can find another water elemental.”
+
+You are in luck. Princess thought. They are here.
+
+“What?” Ren asked, surprised.
+
+Water elementals surround the ship.
+
+“Ah, dammit!” Ren said and grabbed the rope that connected the prisoners together. He lifted and picked them all up.
+
+“By the gods!” Smeg said. “Put me down!”
+
+“Not yet.” Ren said and took them through the door and up the stairs, with Princess right behind him. He had to kind of turn them so they would fit in the stairway, and several heads hit the wall and their feet hit the other wall. He wasn't too bothered by that, though. He brought them out onto the main deck and looked around after putting them down.
+
+Water elementals were everywhere.
+
+“Oh, boy.” Teepo said. “That's not something you see every day.”
+
+Small elementals ran across the deck and jumped on the deckhands, while larger ones were being held off with lit torches and swords with fire enchantments. It was almost like the crew knew what was here, and what would happen if they came here.
+
+It's quite interesting that the captain didn't tell me about this as a possibility when he accepted my order to come here. Ren thought as he took in a deep breath and connected his Screaming Terror ring to his Command Aura.
+
+“STO-OOO-OOO-OOPPPPP!” Ren yelled, and everyone stopped moving. The dwarves because of the Screaming Terror, and the water elementals because his yell had wavered in the middle, and for an instant, had sounded a little like a bubbling brook.
+
+Ren wasn't sure what to do, now that he had everyone's attention; then the main cabin's doors opened and his 5 personal maids came out fully dressed. Frikara was in the lead, and she held Lusinia's hand; behind them was Verwynn, and she held Lusinia's other hand and Navruth's. Andrela was at the end, as always, and the 5 of them surrounded Ren.
+
+“We thought you might need a hand.” Frikara said and pointed to Andrela, who held her hand out. Ren took it with his free hand, because the other one still held the rope tied to the engine room workers. Calmness flowed through the shared Aura, and Ren smiled at them all. Frikara walked over to the closest water elemental, a quite large one, and dragged the other maids behind her. She held her hand out to the water elemental, and Ren heard a low rumbling like a churning sea.
+
+Frikara kept her calm and waggled her hand at it. The low rumbling changed to the sound of rushing water, and it extended one of it's large arm stubs to touch her hand. With the maids all holding hands, it made a direct line from the water elemental to Ren.
+
+The moment it contacted Frikara's skin, it stopped making any sounds. It stood there for several minutes, then it did something odd. Frikara's hand sank into it's arm stub, then it encompassed her arm. As it started to flow over her chest, the rest of it's body changed to accommodate extending itself. Frikara didn't scream or struggle as the water elemental moved to her other arm and along it to Lusinia, then went across to Verwynn, Navruth, Andrela, and then finally to Ren.
+
+Ren was pretty sure it was checking to see why he and the maids were connected like they were, then the water elemental finished pulling itself along their joined hands and reformed itself into the same large body with head and limb stubs as it stood in front of Ren. It leaned forward and it's head stub dabbed small spots on Ren's chest and clothing, then it poked Ren's cheek where the small water elemental had drank from.
+
+Ren didn't react at all from the probing, and the water elemental moved back a step and made the sound of a crashing wave. All of the water elementals let out the sound of a gush of water, and a moment later, a small splash was heard. A kind of eel-shaped water creature slithered onto the deck of the ship and came over to the water elemental in front of Ren. It slithered up and around the elemental and stopped at it's head.
+
+Ren kind of had an idea of what was going to happen; so he took several deep breaths and closed his eyes. The eel-like water thing extended itself and engulfed his head and the head of the water elemental.
+
+“What the hell is he doing?!?” The short captain asked. He was still terrified and couldn't move very much; but, he could still talk and wanted to know what was going on.
+
+“He's letting the water elemental know what happened.” Frikara said as she walked closer to Ren. “I wish he could tell us.”
+
+“Ren's desperately trying to let it know.” Andrela said. “Some of it's getting lost... it is a different species, after all. I can feel his frustration, but I think...”
+
+They saw several air bubbles escape Ren's mouth, and then a few more.
+
+“He's running out of air!” Andrela said as she felt what Ren felt. She let Navruth's hand go, took a deep breath, then shoved her face into the water creature and pressed her lips to Ren's. He opened his eyes and felt what she was trying to do for him. He took in her offered air and held it. Andrela pulled her face away and waited. When she felt Ren needed more air, she did the same thing again and gave it to him. After she had done this several times, the eel-like thing pulled away from his head and Ren took several deep breaths. The eel-shaped water creature slithered down the water elemental's body, then across the deck of the ship and over the side.
+
+“Thank you, Andrela.” Ren said. “I wouldn't have been able to maintain contact otherwise.”
+
+“I'm glad I could help.” Andrela said.
+
+“We all are.” Frikara said. “Andrela was pretty lucky to be on the end, though.”
+
+“Frikara...” Lusinia said.
+
+“What?”
+
+“We can feel your envy.” Verwynn said.
+
+“Of course you can.” Frikara said. “We all feel it, don't we?” She looked at the others, and they could all feel that they were a tiny little bit envious. “Andrela got to kiss him.”
+
+“I didn't kiss him.” Andrela said. “I was giving him air he needed to breathe.” She smiled. “It just looked like a kiss.”
+
+“A salty underwater lip-bruising air exchange.” Ren said. I'm glad the air works a little differently in the game, or that wouldn't have worked. He thought. “I don't count that as a 'kiss', either.”
+
+Andrela's face went slightly red and he felt a spike of something from her; but it quickly disappeared before he could tell what it was, even though they were still holding hands.
+
+“Andrela.” Ren said.
+
+Andrela looked at him with wide eyes, because she could feel the intensity of his attention.
+
+“You'll know it when I kiss you for real.” Ren said. “Believe me.”
+
+“I... I do.” Andrela said and her face flushed red. There was a loud rumbling around the ship, and then it rocked from side to side. Nearly everyone started to lose their footing, except for Ren, Princess, and the water elementals.
+
+“Hold on to me.” Ren said to his personal maids, and they all grabbed onto him. They held onto him, and he gave each of them an Amulet of the Spider. He told them what it did and how it worked, and once they were equipped, the personal maids were just as stuck to the deck as he was.
+
+Most of the crew were almost thrown off their feet; but, most of them managed to grab guide ropes and handholds to stop themselves from losing their footing completely. The short captain held onto the steering wheel and kept his footing almost as well as Ren did. The rocking stopped as suddenly as it had started, and then something emerged from the water about a hundred feet in front of the ship.
+
+Ren watched as the top of a head appeared, then a face with only basic details, then the massive being made of water finished sitting up. Everyone on the ship gasped as they beheld a figure that was about a third the size of a mountain, and water cascaded over the deck of the ship.
+
+Ren on the other hand, didn't react with surprise at all. Unlike them, he knew exactly what this was. It was a display of both power and finesse. A 20 foot wide water hand came out of the water and reached for Ren. He let Andrela's hand go and stepped forward, so that neither she nor the other maids would be caught in the grip.
+
+“Ren!” Andrela said and reached for him, but it was too late. The large hand covered Ren completely and picked him up. Since he still held the rope that had the engine room workers tied to it, they were lifted up as well.
+
+“No!” The short captain said. “You can't take all of them!”
+
+The other large water hand came out of the water and spilled a ton of water on top of the short captain, extended a single finger, then poked the main mast of the ship. It snapped like a twig, despite being several feet thick, and toppled over to fall across the back deck and just missed the short captain and the steering wheel.
+
+“HEY!” The short captain yelled and raised a fist. “That was uncalled fo-”
+
+*WHACK*
+
+One of the deckhands hit the captain over the head with a piece of wood, which made him collapse to the deck, unconscious.
+
+“Shut up!” The deckhand said to the captain, then looked at the biggest humanoid creature he'd ever seen, and bowed. “We're sorry he upset you.”
+
+The face of the massive water being smiled, cupped its other hand over the engine room workers, then laid back down in the water.
+
+“REN!” The personal maids yelled together as he disappeared from their shared Aura.
+
+*
+
+“I can't believe the amount of XP we got for that!” Billy said as he hopped into the back of the cart full of wolf carcasses.
+
+“Man, oh man!” Tommy said and climbed into the front seat beside the driver. “Clint, you're a goddamned genius!”
+
+Clint laughed and sat in the driver's seat. “Ah'm shore glad ah maxed mah Fame las' week.”
+
+Hank hopped into the back and held a hand out for Dillon, then pulled him into the cart.
+
+“Do we have to ride with these things?” Dillon asked, and tried to sit where there wasn't any blood. “I'll even spring for a second cart.”
+
+Hank laughed. “And who's going to drive it?”
+
+“Oh, right.” Dillon said. “Never mind.”
+
+Clint laughed again and flicked the reins to get the horse into motion.
+
+“Don't worry, Dillon.” Tommy said. “We'll be back at Clint's ranch in no time.”
+
+“Three days isn't 'no time'.” Dillon said.
+
+“We've got a couple of stops on the way, remember?” Billy said. “I've got a gold coin with Jennifer's name on it!”
+
+“I thought you were saving up for a new bow?” Dillon asked.
+
+“I am.” Billy said. “This is my spending money.”
+
+“Every time you pass by her place?” Tommy said and laughed. “You're never going to get a new bow at that rate.”
+
+“It's worth it.” Billy said. “She does this thing with her tongue... ah, never mind.” He clamped his mouth shut. “Forget I said anything.”
+
+“Don't worry about that. We will.” Hank said and laughed. “We don't wanna hear about your kinks.”
+
+“It's not kinky what she does!” Billy said. “She just... look, she's special, okay? Just leave it at that.”
+
+“You're the one that keeps talking about it, man.” Tommy said and they all laughed.
+
+*
+
+Ren was surrounded by a large bubble of air as he was submerged below the surface of the water. He was pulled down into the water for only a short distance when he saw a familiar shape in the water.
+
+Teepo! Ren thought, and Teepo dissolved into the ring to pass through the portal safely. When he appeared on the other side, he had the sharp pain in the mark on his right hand, and the spider reappeared on it. Ren knew he wasn't only in another part of the ocean, because the evidence was right before him. He could see as if it was daytime, and saw that he stood just outside a gigantic underwater castle. He was also completely surrounded by water elementals in all shapes and sizes.
+
+Summon Teepo! Ren thought.
+
+Teepo appeared at his feet and crawled up to stand on his shoulder, and the massive humanoid water being shed off all of it's components and reduced in size. It took a few minutes for the being inside to be revealed; but when it was, Ren was surprised.
+
+It was male.

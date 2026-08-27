@@ -1,0 +1,293 @@
+---
+id: 79a6ec59-4aba-5ca7-a9f6-471002001885
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105 - What's Everyone Doing?"
+slug: 0089-chapter-105-whats-everyone-doing
+partOf: mythrans-master-of-all-continued-completed
+position: 89
+ownLength: 3137
+unit: words
+publishedAt: 2016-12-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106137/chapter-105-whats-everyone-doing"
+royalRoadId: "106137"
+---
+
+The group gathered in the tent and Ren gave them a quick rundown of what they could do. Before spending any of their ability points, they'd have to choose a class. This didn't apply to Princess and Ruck, as she was a Mount and he was a Familiar; but Teepo for some reason, had access to the Scout class. Ren told him to pick it, as he already benefited from a lot of the Scout abilities anyways. Nathalia on the other hand, didn't know what she should choose. She wanted to give Ren as much help as she could, and asked him what he needed most.
+
+“Oh, no... I'm not forcing you to do anything like that. It doesn't matter what I think I need.” Ren said and pat her hand. “What matters is what you think you will need.”
+
+Nathalia thought about it. “I want to help protect my House. I've been on the sidelines for far too long, and I don't want to be a burden anymore.”
+
+“Then, if my knowledge of dwarf culture is as good as you and Teepo have been teaching me...” Ren smiled. “Your choice is either a Fighter, where you can gain general fighting skills; or you can pick Warden, that gives you specific skills to be the last line of defence, to be used when the House gets attacked.”
+
+“I think... I think I'd like to be a Warden.” Nathalia said.
+
+“Then choose it.”
+
+She did and her eyes widened.
+
+She must be looking at the popups for her class. Ren thought and waited for her to finish. She dismissed the popups and smiled.
+
+“I've got weapon fighting, shield use, armor proficiency, and a few other things.” Nathalia said and took Ren's hand in hers. “I've even got a Minor Healing ability!”
+
+Ren squeezed her hand. “That's great!” He said. “I'd hoped you'd get something like that.”
+
+“Why didn't you say so?”
+
+“I told you... I didn't want to influence your choice. You're going to have that class for a long time.” Ren said and smiled. “I didn't want you stuck with something you didn't want, or that you only took for me because I might need it.”
+
+“You need healing?” Nathalia said, surprised and checked Ren over quickly to look for any wounds.
+
+“I'm not hurt.” Ren chuckled. “My Mana Pool just needs to be refilled.”
+
+“I can do that for you?” She asked.
+
+“Yes, and it'll help you level up that skill, too.”
+
+Nathalia smiled and activated her Minor Healing ability. Since she was holding Ren's hand, it started to add to his Mana Pool right away. It was slow going, but while she did that, Ren helped Teepo assign stat points to benefit the skills that he would need. Ren found out Teepo had leveled up several times.
+
+Nathalia's Mana ran out and she looked a little tired. Ren gave her a Mana potion and told her to sip it until her Mana bar was full.
+
+Stat Change!
+
+Camaraderie Level 5 (Beginner 0%)
+
+The Sending Stone activated and they listened to Narhilda congratulating them and welcoming Ren to the family, even though it wouldn't be official until the ceremony in 2 years. The glow faded and Nathalia touched it and told her mother all about joining Ren's Adventurer party. When the glow faded, She continued to heal Ren as he helped Ruck assign stat points, because he'd leveled up several times as well.
+
+Stat Change!
+
+Due to your familiar's new ability to gain levels, it has increased your skill level as well.
+
+Craft Familiar Level 2 (Beginner 0%)
+
+If that's right, then for every 4 levels Ruck goes up, I'll go up a basic level in Craft Familiar. Ren thought. No doubt that'll change once it gets to Intermediate, though.
+
+Ren turned to Princess, and figured he'd try something that should work. “Access Mount Stats.”
+
+A window popped up in front of Ren and it showed Princess had leveled a few times as well. They all started at Level 0. Ren thought. And their XP requirements for levels must also be low. Players might have gone from Level 1 to 3, but they're all nearly to Level 6.
+
+“It'll let me assign your points for you.” He said to Princess. “I assume because I have fingers.”
+
+Princess huffed and Ren smiled. “So... what would you like?” He asked. “Put it all in Strength? Endurance? Spread them out?”
+
+Princess just looked at him.
+
+“I'll read each stat, and you huff or pat the floor with your hoof, to tell me where to put the point, and how many. How's that?”
+
+Princess huffed. Ren ran through the options and she put half the points into Strength, and the rest into Intelligence. It was kind of an odd choice, but he did it for her and she was happy with it.
+
+Ren turned to Nathalia and smiled. “Your turn.”
+
+“What?” Nathalia asked, after drinking a little more potion.
+
+“I'll help you assign your points.”
+
+“There's no need. It's automatic.” She said.
+
+“Really?” Ren said. “So is mine.”
+
+Nathalia smiled. “That's another thing we have in common.”
+
+********
+
+The CEO of Sid TEC was a little beside himself. “Elise, get Max on the phone.” He said to his intercom.
+
+“Right away, sir.” Elise said. The phone rang on an internal line a minute later.
+
+“Hey, boss.”
+
+“Max, are you seeing this?”
+
+“Seeing what?”
+
+“One of the contest winners, Ren, invited NPCs into his party.”
+
+“Yeah?”
+
+“Can he do that?”
+
+“Sure. It's an equal opportunity system. No one knows you can invite NPCs, though. It takes a really smart cookie to figure it out.”
+
+“So, he's not breaking any game rules, then?”
+
+“Nope. You designed that character class. I just put it in the game for you.” Max laughed. “He hasn't even gotten to the good stuff yet.”
+
+Edward smiled. “Right, right. I just thought it might be a little over-powered that he can have a whole party of NPCs.”
+
+Max chuckled. “You've seen what these preliminary A.I.s are made of. They are notoriously hard to manipulate. That code is tight. If Ren's managed to wiggle his way into their sub-routines enough to convince them to join a party, then he's definitely something special.” Max said. “In fact, he should have some kind of achievement for doing that.”
+
+“I think he's getting quite enough perks in the game.” Edward said and chuckled himself.
+
+“Whatever you say, boss.” Max said and smiled, even though Edward couldn't see it. “Anything else?”
+
+“About this Tristan kid...”
+
+“Yeah, we've been monitoring him like you asked. He hasn't done anything outrageous yet, but we can see something is coming.” Max said.
+
+“I assume you've been throwing in the roadblocks.”
+
+“Of course. He's getting frustrated, though. Each member of his little posse are sending complaints in every day.”
+
+Edward smiled. “That was a great idea you had about hiding that Mitchell guy.”
+
+“I know, right? He's right there under their noses, and they don't have a clue.” Max said and laughed. “Just by changing his call function from Mitchell to Michael, and they're running around looking for the wrong guy! Best delay tactic I've ever had. They even sent him out to look for himself once!”
+
+Edward laughed, too.
+
+“The others are all behaving normally. Well... within their class abilities, that is.” Max said.
+
+“All right. Thanks Max.”
+
+“Anytime, boss.”
+
+*
+
+Elise stared at the feed she was siphoning from the system. It had only taken a little tweak to duplicate the boss' screen. It was the only way she could think of to keep an eye on Ren, and not raise a bunch of flags in the system.
+
+My little Ren is engaged to be married. Elise sighed as she stroked the tiny screen. Oh, how I wish it was me!
+
+*
+
+Barbara, Ren's night nurse, got ready to go to work. Her husband wasn't happy with her again, but that was to be expected. He was on a doctor ordered diet, and she'd made him eat his salad before giving him dessert. She looked at the clock and grabbed her car keys from the rack by the door. It was coming up on shift change at the hospital and she wanted to be there, just in case Ren needed her.
+
+*
+
+Lucy dug into a big bag of low salt potato chips. She wore a pair of baggy jogging pants and a loose fitting t-shirt, sat on the couch, and mindlessly watched television. After what had happened with Ren, it had been... politely... suggested to her by Doctor Hobbard, that she take a few days leave to let the incident blow over, and to pull herself together. She'd cashed in one of her three weeks of vacation instead, and now she had absolutely nothing to do for a whole week.
+
+********
+
+“What do you mean we can't get in there?” Tristan said. “It's the starter city, for cripes sakes!”
+
+“I don't know what to tell you.” The hooded underling said. “When we approach the newbie areas around the gates, we get a notification telling us that as outlaws, we'll be either arrested or shot if we enter.”
+
+“They can't do that!”
+
+“Why not? We are outlaws. They don't want us anywhere near the newbs.”
+
+Tristan scowled and sat down behind the desk. “The information I paid good money for, said that Mitchell is in there. I want that marker back!” Tristan said and smashed his gauntleted fist into the desk, shattering it into splinters. This enchanted glove is awesome! He thought and kicked the remains of the desk out of the way. “I didn't want to do this, but I guess I have no choice.” Tristan sighed. “Contact that Dark Elf you know, and tell her I have a job for her.”
+
+“You know she's not cheap.”
+
+“Just do it!”
+
+“Sure thing.” Emanon said and smiled as he left the room.
+
+*
+
+“Dude! Where can I get bracers like those?” Tommy asked as he shot another arrow at the pile of snakes slithering towards the group. It hit one snake in the belly, but it kept coming.
+
+“Ha! Sorry, buddy. These're one-ofa-kind, special builds!” Clint said and killed another snake with a single bolt. He'd switched out the special enchanted ones for the basic ones, once he realized just how easy the snakes were to kill. He was also really glad he'd invested in another 1000 bolts to refill the 10 normal cartridges. They ran out fast in horde groups like this.
+
+“Come on, man! I'm losing ground!” Billy said. “Shoot faster!”
+
+Clint laughed, went to rapid fire, and killed 15 snakes that were closing in on his party member. He went back to single shots and kept the mass of snakes at bay while his friends recovered their stamina.
+
+“I can't believe how easy you got it now.” Tommy said.
+
+“Tell me about it!” Billy said. “Maybe I should switch my class when I get the chance.”
+
+“Ah reckon that'd be a might sorry thing ta do.” Clint said and kept firing. “Ya'd lose all yer XP an yer skills.”
+
+“But, look at you go!” Billy said, and stepped back up to Clint's side. He started firing again and Clint popped out his empty clips and put in new ones. “I wanna do that!” Billy said and missed the next snake he shot at. “Dammit!”
+
+“Watch yer flank, Billyboy!” Clint said as he shot a snake sneaking up on Billy. “An' yer front.” He said and shot the snake Billy had missed. “Ren made these all special like fer me, an' I don' think he'd make 'em fer jus' anybody.”
+
+“Ren made those?” Tommy asked and took his place on Clint's other side. He opened fire and the tide of snakes started to ebb, and he smiled. “Does he make bows, too?”
+
+*
+
+Ren got everyone squared away and tied the loose rope to the trunk of the same tree that the giant boar had broken. Princess was back in her crate, Ruck was in his cabinet, and Teepo was on top of the tent. He was trying out one of his new Scout abilities, Spot. Ren didn't think Teepo would find anything, but Teepo was having fun keeping lookout anyways, so it didn't hurt for him to keep using Spot continuously.
+
+Ren went back into the tent and saw that Nathalia had stored all of her equipment. She was looking at the bottom of her dress in consternation. There was a large slit, cut from the hem and nearly all the way to her waist.
+
+“What happened?” Ren asked.
+
+Nathalia jumped a little and yipped. “Ren! You scared me!” She said and her dress slipped open and Ren saw one of her well defined legs, right up to her hip. Nathalia blushed and tried to close the slit.
+
+“Sorry, I still have Sneak on.” Ren said.
+
+“I had to cut the fabric with my sword, so I could ride your mount properly. During the charge, it... it must have split like this.” Nathalia said. “I didn't notice it until now.”
+
+Ren took out the Master Tailor's Sewing Needle. “Let me repair your dress.”
+
+“No!” She said. “No... it's okay. I can... I can fix it myself.”
+
+“Nathalia...” Ren smiled and walked over to her, and she shied away a little. “...just hold it closed and I'll fix it.” He knelt in front of her, well away from the opening she was trying to keep closed. “I promise not to look.” He said, reached out a hand to touch the dress, and closed his eyes. “See? I'm not looking.”
+
+“What... what if I wanted you to look...”
+
+Ren froze for only a second, and then smiled. “I'd say that in the middle of the wilderness wouldn't be the best place for... ah... things... to happen.”
+
+“But... but... we vanquished a powerful foe in battle!” Nathalia said and grabbed Ren's hand with both of hers, letting her dress flop open. “I've never felt more...” She took a deep breath. “I've never felt like this before.”
+
+Ren stood up, with his eyes still closed. “Yeah, it's quite a rush.”
+
+“My blood feels like it's boiling.” Nathalia said, took another deep breath, and stepped close to him. “I... I want you, Ren.” She said in a seductive, almost raspy, voice.
+
+“Nathalia... I...” Ren opened his eyes, saw the longing on Nathalia's face, and swallowed. “I'm... I'm not ready.”
+
+She smiled sweetly, sighed, and gave Ren a gentle hug. He hugged her back and she ducked her head down onto his chest.
+
+“It's okay, Ren.” Nathalia said as her body quivered from his touch. “I won't pressure you.”
+
+“Nathalia...”
+
+“You don't have to explain.” She said. “I know you're not lying.” Nathalia broke the hug and smiled. “It really is okay.” She took another breath. “It's my job to wait; and I'll always be right here waiting for you.”
+
+It was Ren's turn to take a deep breath. “Thank you, Nathalia.” He said and cupped the side of her face with his hand. “You don't know how much that means to me.”
+
+Nathalia leaned into his hand. “I think I do.” She said and smiled. “But... I'm going to try and get some sleep now.” She turned her head and kissed his hand lightly. “It'll be light soon, so I think you should be on guard duty until then, don't you?”
+
+Ren nodded and took his hand from her face. “I'll walk around the edge of the trees and make sure nothing bothers you.” Nathalia nodded and Ren put the hand holding the Master Tailor's Sewing Needle on her shoulder. “Repair.” The dress was repaired and he stored the needle in inventory.
+
+“Thank you.” She said and walked over to sit down on the bed. “I should only need a few hours.”
+
+Ren nodded and left the tent.
+
+*
+
+Nathalia climbed onto the bed and curled up into a fetal position. By the gods, I want him so bad! She thought. When everyone was here, this feeling was so easy to ignore... but... when he came in, and my dress was open like that... and I remembered how he fought that giant boar...  Her body quivered in anticipation. He... he wasn't scared or anything! She held herself still and hoped that a few hours would be enough to calm herself down. I can't lose control like that again. I'm a woman. A strong woman! Nathalia took a deep breath. I won't let my feelings for him drive him away.
+
+*
+
+Find anything Teepo?
+
+“Yep. There's lots of squirrels trying their best to get back to their trees.”
+
+Ren smiled. Keep a good eye out... I'm going to walk the perimeter and see if there's anything I can find.
+
+“I'll warn you if anything's coming.”
+
+Thanks, Teepo.
+
+Ren stepped over the barrier and walked until he could see the road. Ren looked both ways to see if there was anything moving, but didn't see anything at all. He walked to the left, parallel to the road, back towards Dornrach for a few minutes. Still seeing nothing, he walked into the underbrush and all the way back towards the tent, then passed it and kept going for another few minutes, then headed to the road.
+
+There's no good trees here, either. Ren thought.
+
+“There's a forest back about 4 hours.” Teepo suggested.
+
+I don't remember seeing that.
+
+“That's because you were too busy staring at Nathalia.” Teepo said.
+
+I was not! Ren thought as he walked back to the tent. I was just making sure she wasn't slipping off the saddle, and trying to keep an eye out for Trouble at the same time.
+
+“Uh huh.” Teepo chittered in laughter. “Every 10 seconds.”
+
+I haven't been here before. I had to keep looking around!
+
+“I know.” Teepo said. “I'm just teasing you.”
+
+I can live without that, thank you! Ren thought, and Teepo chittered in delight.
+
+Ren made it back to the tent without incident, and went inside to get a chair. He saw that Nathalia was lying motionless on the bed, and breathing evenly. Ren left the tent and put the chair right behind the protective barrier he'd set up, and sat down.
+
+Once Nathalia gets enough sleep, I'll be checking out the mountains behind us. Ren thought.
+
+“She'll be out for a few hours. Do you want me to scout ahead?” Teepo asked. “I'll be able to get pretty far now.”
+
+You just want to show off. Ren smiled. Just be careful.
+
+Teepo chittered in delight and climbed across the rope to the nearby tree. He climbed halfway down, jumped to the ground, and then skittered away at about twice as fast as he used to.
+
+Go for it, buddy! Ren thought as Teepo's form disappeared from sight.

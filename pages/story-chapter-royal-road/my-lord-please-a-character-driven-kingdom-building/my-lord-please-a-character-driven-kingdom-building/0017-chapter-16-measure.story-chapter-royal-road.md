@@ -1,0 +1,237 @@
+---
+id: aa227a17-9305-594c-954a-cebd541e40cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 Measure"
+slug: 0017-chapter-16-measure
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 17
+ownLength: 2038
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3216665/chapter-16-measure"
+royalRoadId: "3216665"
+---
+
+By the fourth morning after the accident, the hardening of the gates was completed.
+
+Lucien stood upon the interior wall walk as the final iron rivets were set. The platform beneath his boots was narrow, the planks still rough where they had been replaced. Below him, the reinforced gates filled the entry gap in the palisade, thicker now with cross braces set tight against the timber.
+
+Iron bands had been riveted into place, their dull sheen catching the pale light of dawn. Fresh pitch sealed the seams where wood met metal, dark and tacky against the grain. What had once looked temporary now carried weight.
+
+Barrels of lamp oil had been rolled up beneath the southern wall in limited quantities, sufficient if the line ever collapsed into close quarters.
+
+An earthen ramp rose from the yard to the wall walk behind him, packed hard from years of use. Two militia stood spaced along the parapet, spears angled outward between the sharpened logs. Beyond them, the forest stretched in cold stillness.
+
+Men moved quieter along the palisade below. Dorian had ordered doubled watch duties as more apparent signs of the beasts began to appear.
+
+Lucien rested a gloved hand against the reinforced gate and looked outward through the narrow gaps between the logs.
+
+Beyond the walls, the forest had grown restless.
+
+The hunters were sighted before midday, approaching from the southern treeline at a controlled pace. The gate was unbarred only long enough to admit them before being secured again. Boots thudded against the earthen ramp as they climbed toward the wall walk to report.
+
+Judging by the state of their appearance, they did not seem to have had any direct contact with the beasts. But their expressions carried something that did not belong to what should have been a routine patrol.
+
+More tracks had been spotted, clusters of them congregated in various parts of the forest, and yet their movements indicated they were heading in this direction.
+
+Lucien listened without interrupting as the report was delivered beside the reinforced gate. Broken undergrowth and heavier impressions in the frost. Their trails crossing and recrossing as though something larger pressed behind the smaller shapes, driving them forward.
+
+He caught a faint shift in Dorian’s expression, a stiff resolve that had settled over him.
+
+“The numbers have increased,” Lucien noted after the hunters had left.
+
+“Yes.” The captain paused. “There may be a variant among them,” he continued, though he sounded unsure, unable to confirm it, and that vexed him. He had come to know that Dorian did not like uncertain information and was reluctant to give weight to it.
+
+Variants were rare, larger specimens that sometimes emerged among the beasts. Stronger and harder to bring down but the greater danger was what gathered around them. Lesser beasts did not scatter when a variant appeared. They clustered around them, as if answering to a hierarchy only the creatures themselves could sense.
+
+Dorian’s jaw tightened almost imperceptibly.
+
+“Hobgoblin or Great Kobold?” Lucien asked, tone low. The two men had deliberately positioned themselves away from potential ears to prevent undue panic.
+
+“…Uncertain,” the captain replied with a faint scowl.
+
+Lucien stepped closer to the outer edge of the wall walk and looked toward the treeline beyond the palisade. The sharpened logs framed the forest in narrow vertical slits, beyond them the branches lay still, no wind stirring the frost along the undergrowth.
+
+“We will keep that in mind, but our approach remains the same,” he said at last.
+
+Dorian nodded in agreement as they continued their observation upon the wall, the only barrier that stood between them and the growing tide of beasts.
+
+The shield distribution had been completed by the time the response from Cragwatch arrived. It had taken longer than Elias had expected, but perhaps that was for the best, considering the cold answer they had received.
+
+Lucien broke the seal cleanly and unfolded the parchment.
+
+Elias stood opposite the desk, hands clasped behind his back. The steward’s expression was as implacable as ever.
+
+He read in silence. The opening was courteous. Seasonal regards. Acknowledgment of Ashridge’s diligence. He was more interested in the substance.
+
+“Current production commitments prevent diversion of supply at this time,” Lucien read, his voice hardening slightly. It was a refusal framed in velvet cloth, restrained but unmistakable.
+
+His eyes moved further down, skimming the formalities in search of anything substantive.
+
+“All surplus stock has been assigned in accordance with prior obligations,” he continued, flatly.
+
+There was no mention of reconsideration or an alternative proposal. It was clear that there would be no renegotiation even after the Tithe. The language was impersonal, structured as though the answer had been decided long before the letter was written.
+
+Lucien folded the parchment once along its crease, the movement calm and controlled. “They refused,” he stated.
+
+“Yes, My Lord,” Elias replied, his expression unreadable.
+
+Lucien’s eyes sharpened. “You knew they would.” It was not phrased as a question.
+
+Elias’s silence was answer enough.
+
+Lucien’s thoughts drifted back to the day they had discussed the trade request, to Elias’s careful phrasing.
+
+His gaze lingered on the words prior obligations. “They have stock,” he said after a moment. “They have simply chosen not to release it.”
+
+“Cragwatch answers to its own obligations,” Elias replied carefully.
+
+“The ruling noble instructed the reeve to refuse regardless,” Lucien concluded, tone even. It was a conscious effort not to let irritation surface.
+
+“House Varentis never required allies in the frontier,” Elias said. “There was no need to.”
+
+He did not add what remained unspoken, that the house now stood with fewer allies in the capital as well.
+
+His family.
+
+Lucien had avoided dwelling on it. Even the name of his house rarely lingered in his thoughts. Part of it was the press of recent days. But if he were honest, most of the reason was simpler.
+
+He did not consider them his.
+
+Leon had one family. That had been enough.
+
+So he had avoided examining too closely the circumstances of the name he now carried.
+
+“Very well,” he said at last. He kept his tone carefully even, anger would not help matters here. “We will proceed with their refusal accounted for.”
+
+Later that afternoon, Harlon met them near the inner scaffolding where spare planks had been stacked beneath a canvas sheet.
+
+The carpenter wiped his hands against a strip of cloth tucked at his belt before inclining his head. “Lord.”
+
+Lucien acknowledged him with a slight nod. Alicia stood half a step behind, hands folded neatly, gaze lowered in habitual deference.
+
+“The reinforcement is sound?” Lucien asked, deferring judgment to the carpenter who understood timber better than he did.
+
+Harlon ran a rough palm along one of the iron bands, pressing where metal met wood.
+
+“They’ll hold,” he said at last. “Depends on how long they’re leaned on.”
+
+Lucien’s gaze followed the motion to the dark seams where fresh pitch sealed the boards.
+
+“We have braced the crossbars and reinforced the hinges,” he said. “Impact should distribute more evenly.”
+
+Harlon gave a faint grunt. “Impact’s one thing,” he replied. “Weight’s another.”
+
+Lucien glanced at him.
+
+“If it’s a hard push, the frame answers back,” Harlon continued. “But a steady press wears anything down.”
+
+The words lingered between them, he considered the statement in structural terms. A sustained force would lead to increased fatigue. But the militia's drills had been sharpened to account for it.
+
+“It will not be steady,” he said after a moment. “They test. They strike. Then withdraw.”
+
+Harlon did not argue. “Maybe,” he said simply.
+
+A brief silence followed before Harlon added, “Ore’s near spent. What we set into the hinges and braces was the last of it worth shaping.”
+
+Lucien absorbed that without visible reaction though the memory of Cragwatch’s rejection surfaced unbidden.
+
+“And the men?” he asked. As a founding member of Ashridge, Harlon would have a clearer sense of the village's mood than either Dorian or himself.
+
+The carpenter exhaled slowly through his nose. His hand drifted toward his pipe before he caught himself.
+
+“They’ve shifted,” he said.
+
+“In what manner?” He kept his tone neutral.
+
+“Quieter. More careful in the drills. Less pushing to overtake the ranking.”
+
+The usually blunt man paused, weighing his next words. “There’s grumbling,” he added at last.
+
+He waited without interrupting.
+
+“Most say Tomas deserved it,” Harlon continued plainly. “But some think stripping both of rank was too much. Dalen...he did what he was trained to do.”
+
+Alicia’s fingers tightened slightly in the fabric of her skirts.
+
+Lucien did not look at her.
+
+“Yes,” he said. “That is precisely why both were removed.”
+
+Harlon’s brow lifted a fraction.
+
+“I did not punish two men,” Lucien continued evenly. “I corrected the fault at its root. If only the first had been disciplined, the lesson would remain personal. The instability would remain.”
+
+Harlon regarded him for a long moment.
+
+“You look at them like timber,” he said at last. “Not as men. As a beam. If one splits, you brace the whole.” There was no accusation in his tone despite the words.
+
+He could not deny it. In his previous life he optimized systems, corrected faults, and reduced failure wherever possible. “The shield wall is the structure that holds,” he replied. “Individual strength does not matter if the formation fails.”
+
+Silence lingered between them. Harlon neither approved nor objected. He was a practical man.
+
+As Lucien prepared to continue, he was interrupted by the one voice he least expected.
+
+“That isn’t true.”
+
+Both men turned.
+
+Alicia stood straighter than usual, as though forcing herself upright. Embarrassment colored her face, yet beneath it was a quiet determination when she became unexpectedly earnest.
+
+“Milord cares,” she said quickly, the words tumbling over one another. “He-he thinks about the men. More than they know.”
+
+Lucien blinked.
+
+Harlon’s brows rose.
+
+Alicia swallowed, clearly unaccustomed to speaking so directly, but she pressed on.
+
+“He notices when someone hasn’t eaten. Or when someone is limping after drills. He-” Her fingers twisted together. “He just doesn’t show it loudly.”
+
+Her breath shortened slightly from the effort and her words hung between them, fragile and sincere.
+
+Color deepened across her cheeks as she seemed to realize how forward she had been. “I-I spoke out of turn,” she stammered, lowering her gaze at once. “Forgive me, My Lord.”
+
+She retreated half a step, mortified, fingers twining together as though attempting to fold herself smaller.
+
+Harlon’s mouth twitched before he suppressed it.
+
+Lucien regarded her for a moment longer than necessary.
+
+Alicia truly believed her own words, not as a maid repeating what she ought to say, nor as someone seeking favor.
+
+She had spoken because she thought it true.
+
+Lucien had spent the past days weighing words for leverage. Reading refusals wrapped in courtesy and parsing silence for implication. Even Harlon’s observations carried the weight of a founder protecting his village.
+
+Everything around him required interpretation, forcing him to read between the lines. To discern hidden meanings or social cues from a different world.
+
+But there had been nothing to interpret in the quiet girl’s heartfelt defense, instead her words carried a simple conviction that lacked the fear that she had displayed when they had first met.
+
+He had not expected anyone to look at his actions so closely, much less to speak for them.
+
+For a brief moment, something tightened in his chest.
+
+He had been calculating systems.
+
+She had been watching him.
+
+He had known, intellectually, that five hundred lives depended on him. That men watched his orders while women whispered about his decisions. That every adjustment carried consequence.
+
+Lucien had understood it as responsibility but he had not considered the overt attention that would be placed on him.
+
+Not only his directives.
+
+Him.
+
+For a moment, the realization settled heavier than the gates he had ordered reinforced.
+
+He was no longer merely correcting a system.
+
+He was becoming its measure.
+
+For a brief instant, Alicia’s lowered eyes lifted to meet his. He gave the smallest nod before turning toward the palisade once more.
+
+Lucien drew a slow breath. “The line must hold,” he said quietly.
+
+And this time, he understood that it was not only wood and iron that would be tested.

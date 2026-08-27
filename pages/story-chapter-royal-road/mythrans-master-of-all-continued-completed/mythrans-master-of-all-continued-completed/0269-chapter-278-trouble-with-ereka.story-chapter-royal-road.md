@@ -1,0 +1,339 @@
+---
+id: d5b7bbbc-6a92-5203-9832-a97b05f4aab3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 278 - Trouble With Ereka"
+slug: 0269-chapter-278-trouble-with-ereka
+partOf: mythrans-master-of-all-continued-completed
+position: 269
+ownLength: 3600
+unit: words
+publishedAt: 2017-06-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141909/chapter-278-trouble-with-ereka"
+royalRoadId: "141909"
+---
+
+Stella and Ren finished their shower and got dressed. With Ren in his pyjamas and Stella in her spare uniform, they went back into the room and Stella helped Ren climb onto the bed.
+
+“Boy, that was a long day!” Ren said, and yawned.
+
+“80 hours isn't that long.” Stella said, but she couldn't keep a straight face and grinned.
+
+“I can't believe we did all of that in only one day.” Ren said.
+
+“Me, either.” Stella said and looked at the clock. “Barbara should be here any minute.”
+
+“I wonder if she's going to surprise me again tonight?” Ren asked.
+
+“Surprise!” Barbara said when she came into the room. “Who wants brownies?”
+
+“NO WAY!” Ren yelled.
+
+“Yes, way.” Barbara said. “It's diet, but it still tastes great.”
+
+“You know... if I didn't know better, I'd swear you were trying to fatten me up.” Ren said to Barbara. “You don't have a big oven prepped and ready to cook me in, do you?”
+
+Barbara laughed and came over to the bed. “Despite the fact that you're so sweet sometimes that I want to gobble you up; no, I'm not going to bake you in an oven.”
+
+“That's a relief.” Ren said. “You had me worried for a second.”
+
+“Only for a second?” Barbara asked, and picked up a brownie for him. She dangled it in front of him, just out of his reach.
+
+“A micro-second!” Ren said, and she brought it a little closer. “A nano-second!”
+
+Barbara shook the brownie from side to side.
+
+“Okay, I wasn't worried at all.” Ren smiled and held a hand out with the palm up. “Now hand it over.”
+
+Instead of handing one over, Barbara stood beside the bed and fed it to him in pieces.
+
+“This is the only way to stop you from wolfing it down.” Barbara explained, and Stella laughed.
+
+“You do realize he's not chewing it at all, right?” Stella asked, and Barbara looked at Ren. No sooner had she fed him a piece, and it was gone and his mouth was open again.
+
+“Well, damn.” Barbara said and they laughed.
+
+*
+
+Detective John Ramirez was completely exhausted. He didn't remember ever being so drained of energy before. He had a hard time keeping his eyes open, but he did manage to glance down at the 5 foot tall woman snuggled on his chest. She was unconscious and her short blonde hair was messed up; but, she was still the most beautiful thing he'd ever seen. Once he had her image locked in his mind, he closed his eyes to let sleep take him.
+
+*
+
+“Did you guys have fun working today?” Barbara asked.
+
+“Did we ever!” Ren said, then explained how Stella and Gloria had come up with the best way to get extreme emotional reactions.
+
+“I'm glad I haven't tried VR myself.” Barbara said. “I don't think I could have stood there and watched all of that!”
+
+“You wouldn't have watched.” Stella laughed. “You'd have been on those rides with us.”
+
+“Ohhhh, no.” Barbara said. “Not a chance!”
+
+“If I'd asked you to help me on a ride, what would you have done?” Ren asked her.
+
+“I'd have held you down on the ground and tickled you.” Barbara said. “As punishment for thinking and doing such crazy things!”
+
+Ren laughed. “I'm tempted to joke and ask you to help next week, but I don't need a tickle attack.”
+
+“Good!” Barbara said and looked at the clock. “It's getting close to when you have to log back into the game.”
+
+“Yeah, I've been away for two days; but, at least I made sure everyone knew I was going to be gone.”
+
+“What about tomorrow?” Barbara asked. “Are you staying out again for Elise?”
+
+“I'm tempted to.” Ren said. “I'll decide for sure in the morning.”
+
+Barbara and Stella helped Ren get settled and prepped for his adventures in the game, and he put a hand on Stella's arm.
+
+“Thanks a lot for today.” Ren said. “I know you had a hard time relaxing your strict rules for a few things...”
+
+“Like proper procedure and not mixing test subjects together?”
+
+Ren snorted a laugh. “It wouldn't have been half as enjoyable if I had to do them all by myself.”
+
+“I know.” Stella said. “I was guilty of it myself.” She smiled. “Gloria's modifications to the helmet and program let me keep the data separate, though; so, it's all good.”
+
+Ren nodded. “I'll see you on Monday.”
+
+“Sleep tight.” Stella said, and Ren looked at Barbara.
+
+“Barbara...”
+
+“Yeah, yeah. I know.” Barbara chuckled. “I might see you at midnight, or I might not.”
+
+“Actually, I was going to say that I'll see you at midnight.” Ren smiled. “I haven't spent much time with you lately, and I think it's about time I do.”
+
+Barbara's face lit up. “Only if you want to.” She said. “I know you get so busy sometimes that you can't leave sometimes...”
+
+Ren shrugged. “I don't have any pressing matters to attend to, now that I've dealt with the giants and the refugees.” He said. “Even if something does come up over the next 2 game days, I'll come out anyways.”
+
+Barbara nodded, and he put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch and stood up. Teepo?
+
+“Hi, Ren!” Teepo said as he flew into the main room from the kitchen. “Welcome back.”
+
+“Thanks.” Ren said. “How is everything?”
+
+“Good.” Teepo said. “Nathalia's making breakfast.”
+
+“I meant for the two days I've been gone.” Ren chuckled as he walked into the kitchen.
+
+“Same old, same old.” Teepo chittered in laughter. “If you're not around, nothing seems to happen.”
+
+“I'm glad for that... I think.” Ren laughed. “Good morning, Ladies.”
+
+“Good morning.” Nathalia and Ereka said at almost the same time. Since it came from two different spots in the kitchen, one at the table and one at the counter, the sound was in stereo. Ren smiled and walked over to Nathalia to give her a hug from behind. He kissed her cheek and went back to the kitchen table. He kissed Ereka's cheek as well, and she blushed a little.
+
+“I'm glad you're back.” Nathalia said and put a plate of food in front of him. “I missed you.”
+
+“I missed you, too.” Ren said. “Thankfully, I didn't sleep at all while I was gone; so, I didn't have to worry that I couldn't hold you.”
+
+“You WHAT?!?” Nathalia yelled. “You've been gone for 2 days, and you haven't slept yet?”
+
+“Not since I slept with you before I left.”
+
+“Then eat fast, and get to bed!” Nathalia said and put a plate of food in front of Ereka. “By the gods, how can you be so reckless?”
+
+“I was too busy to even think about sleeping.” Ren said. “Now that you mention it, though...” He yawned. “I think it's catching up to me.”
+
+Nathalia shook her head. “You won't be of any use to anyone if you're too tired to function.”
+
+“Hey, I'm not arguing.” Ren said and chuckled. “I'll go to bed right after I eat, just like you ordered.”
+
+“Good.” Nathalia said, and went back to the counter to get herself a plate of food. Ren glanced at Ereka, and saw that she looked unhappy. He reached over and took her hand. It startled her slightly, and she looked at him.
+
+“I didn't say I was going alone.” Ren whispered to her, and her face flushed a brighter red. He let her hand go, Nathalia sat down at the table, and they ate breakfast together. When they were done, Nathalia took the empty plates and put them in the sink.
+
+“I'm going to work now, so you better get to bed!” Nathalia said to Ren, gave him a kiss goodbye, and left the house.
+
+“Ren... you... you really should get some rest.” Ereka said. “I... um... I can wait...”
+
+“Yes, you can.” Ren said. “You've also waited long enough.”
+
+“Wh-what?”
+
+Ren stood up and held a hand out to her. “Please allow me to show you the joy that two people who care for one another can share.”
+
+Ereka was a little shaken by the formal words; but, she took his hand as she stood up with more confidence than she thought she had. Ren led her out of the kitchen, and into the main room.
+
+“Have you contacted the Main House-”
+
+“I made arrangements yesterday.” Ereka said. “Anything that requires my input, was either taken care of right away or delayed until tomorrow.”
+
+Ren smiled and led her down the hallway to the old bedroom.
+
+“Ren... I...”
+
+“What is it, Ereka?”
+
+“I've never done this before.” Ereka said. “I don't know how to start, what to do, or even... even...”
+
+“Shh.” Ren said and stepped close. “Don't worry about anything.” He said and cupped the side of her face. “I'll walk you through it, step by step.” He smiled. “You'll understand soon enough what you can do to drive men wild, believe me.”
+
+Ereka smiled. “What's the first step?”
+
+“Kissing.” Ren said. “We've already done that, but when you know sex is coming afterwards... it's a different experience.”
+
+“It... it is?” Ereka asked, and Ren nodded.
+
+“Like this.” Ren said, and cupped both sides of her face with his hands as he kissed her.
+
+By the gods! Ereka thought, as a thrill went through her. She was only 3 feet 10 inches tall, so Ren had to bend over a little to do it. He... he's right! Even though we've kissed before, it... it didn't feel like this!
+
+Ereka wrapped her arms around his neck to pull him down a little further, to try and bring him down to her level and ease the angle on her neck. Ren felt her try to tug on him to get him closer, so he knelt instead. It put her head above his, and he felt her lips smile as he kept kissing her.
+
+Ereka was wearing a dress, so picking her up and having her legs wrap around him wasn't an option. Ren put both of his hands on her ankles, and he heard her take in a sharp breath. It was his turn to smile as he ran his hands over her calves and up to her thighs. She broke the kiss and closed her eyes as his hands approached her waist.
+
+“This dress is in the way.” Ren said, and ran his hands back down her legs. Ereka undid the buttons on the top, then unhooked the belt from around her waist that held the bottom together. The cloth, now loose, fell to the floor around her feet. She stood there in only her slip, and Ren could see how excited she was.
+
+“Ereka.” Ren said as he stood up. “Can I suggest you don't take your slip off right away?”
+
+“Why?” Ereka asked, then smiled because she knew why.
+
+“Because...” Ren smiled himself. “...if you reveal your perfect chest, I'll be too distracted; and I won't be able to give you the attention you deserve.”
+
+“What if I really like that I can distract you like that?” Ereka asked, and held the thin straps of her slip by her thumbs.
+
+“You can show me them, and I'll stare at them.” Ren chuckled. “I don't think I'll be able to do much else if you do, though.”
+
+Ereka laughed. “I'll save it for later, then.” She said and left her slip in place.
+
+“Thank you.” Ren said, then picked her up. She gave that little yip of surprise he liked, he laid her on the bed, then he stored his clothes. Ren left his underwear on, and climbed onto the bed with her. “Not every man is going to want to do this part.” He said. “Some women don't want it to happen, either.”
+
+“Wh-what p-p-part?” Ereka stammered as Ren moved down to her waist. He slid the edge of her slip up to expose her underwear; or lack thereof. He widened his eyes as he glanced at her, and she blushed a deep red.
+
+“I... I didn't want to waste any time when... ah...”
+
+Ren smiled. “That's fine with me.” He said and proceeded to show her how much he liked that she had thought ahead.
+
+*
+
+I really hope he's being gentle with her. Nathalia thought as she cooked in her restaurant's kitchen. When I had my first time with him... it was... a little daunting. She smiled and handed more plates of food to the waitress. Look how far I've come since then, though!
+
+*
+
+Ren had to stop himself before he went overboard. He wanted to keep going, just so he could watch Ereka as she reacted to the stimulation; but he wasn't here to enjoy himself like that. He was supposed to be there for her. He moved back up the bed to her face and she kissed him so hard that he couldn't tell if she was even breathing. Since they both enjoyed kissing, this went on for several minutes. Ren had to break the kiss himself and looked at her.
+
+“It's time for the main event.”
+
+“Yes, please.” Ereka moaned. “I'm... I'm ready.”
+
+Ren stored his underwear, and very gently merged with her. Ereka gasped and he stopped moving. He waited until she caught her breath, and he started to move. Tears came to her eyes, and Ren kissed them away.
+
+“Th-thank you.” Ereka said as he kept moving. “I'm so happy!” She said, and the tears kept flowing. “Thank you. Thank you! Thank YOU!” She yelled at the end as she went.
+
+Ren disengaged and laid beside her and listened to her panting.
+
+“By... by the... by the gods!” Ereka said, and stared at him. “Is it always... always like that?”
+
+“No.” Ren said. “I had to take it easy for your first time.”
+
+“WHAT?!?”
+
+Ren chuckled. “Well... it... takes a while to work up to the whole experience.”
+
+“By the gods.” Ereka said. “No wonder Nathalia loves you so much.” She reached down and checked something. “You didn't go.”
+
+Ren shook his head. “This is your time, not mine.” He said. “My job is to make you feel good, not myself.”
+
+“Ren! I wanted us to go together!” Ereka said, then looked down at him to see that he was still quite ready to go. “Show me what else a woman can do to please a man.”
+
+Ren looked at her. “That... that wasn't what I agreed to.” He said. “I'm just supposed to be your first ti-”
+
+Notice!
+
+You have gained the condition: Distracted
+
+For as long as the object of your attention is within your sight, you must look at it. You will also suffer penalties to both Intelligence (-20) and Wisdom (-20).
+
+Ereka had pulled down her slip to reveal her chest, and Ren was left quite dumbfounded.
+
+“It's your turn to feel good.” Ereka said. “Show me what to do.”
+
+*
+
+An hour later, Ereka slid out of bed and put her slip back into place. I'm sorry, Ren. She thought as she watched his sleeping form. After they'd made love twice more, she ordered him to go to sleep, and he did. She had to stay topless the entire time, and it was a little embarrassing how fixated he was on her chest; but, she had used that fact to her advantage.
+
+Ereka now knew exactly what Ren wanted from a woman, and what he was willing to do for them. What he wanted was affection; what he was willing to do for a woman was pretty much anything. She smiled as she left the old bedroom and went out into the kitchen. She was starving after all of that activity.
+
+*
+
+Ren woke up a few hours later after a fitful sleep, and rubbed his face. “Ugh.” He said, and then he received a popup.
+
+Notice!
+
+You are no longer Distracted.
+
+“Dammit.” Ren said, and equipped his clothing. “She did it to me again!” He slid out of bed and went out to the main room. Ereka sat on the couch where he usually did, and she still only wore her slip. “Ereka!”
+
+“I'm sorry, Ren.” Ereka said. “You weren't going to let yourself feel good, after making me feel things... that I never thought I could feel.” She explained, and then stood up. She walked over to him, locked her gaze to his, and put her hands on her hips. “Now that I've thought about it, the only thing I regret is that you didn't concentrate on the House Neram Aura while we were together.”
+
+Ren blinked his eyes a few times. “I didn't forget.” He said. “Sharing emotions is too much for you to handle for your first time.”
+
+“I think I'm a better judge of what I can handle.” Ereka said.
+
+“Really?” Ren said, and concentrated on his House Neram pendant. His Aura merged with the artificial Aura around the Keep, and Ereka gasped.
+
+“What... what... by the gods!” Ereka exclaimed and lost all of her bluster. She could feel his annoyance with her, and his growing anger.
+
+“Now, do you really think you could have sex like this?” Ren asked. “I can't believe you Distracted me like that!”
+
+“I had to!” Ereka said. “I love how I can make the all-powerful Ren, the man that makes all the women he knows swoon and fall for him, into a blubbering idiot! You like my breasts so much that you can't think of anything else!” She yelled. “Do you know how much that turns me on?!?”
+
+Ren felt how much it did turn her on, and his anger and annoyance faded away. “That... you really...”
+
+“Yes!” Ereka said. “My whole life I've felt so powerless. An older brother that was huge and muscular, and a younger brother almost as muscular, and there I was between them; a short little thing, thin and frail in comparison to them, and everyone treated me that way!”
+
+“Ereka...”
+
+“Let me finish!” Ereka said, and Ren nodded slightly. She felt his acceptance, and nodded slightly herself. “Then there was that incident with a member of House Lodur.” She said. “I had thought the way I was treated was bad before; but, after that...” She shook her head. “Then you came along.”
+
+Ereka stepped close to him, and he opened his arms for her. She slid into them and pressed her head against his chest.
+
+“You gave me a job, accepted me into your House with no questions asked, and then you made me a Lady.” Ereka said. “To think that I... I had such luck to be given a second chance...” She looked up at him as he felt her immense gratitude. “After hearing about, and even witnessing, your feats and accomplishments, I knew I was blessed beyond compare.” She smiled. “Then I discovered I had a power that even you couldn't overcome.”
+
+Ren felt how much that meant to her. “I thought you were being malicious with it, and used it to your advantage.”
+
+“It wasn't malicious; but, I did take advantage of you with it.” Ereka said, and remembered how much fun she had with him. “I couldn't let the opportunity pass once I had you in bed.”
+
+“You do realize I wanted to enjoy them for myself, right?” Ren asked.
+
+“Wh-what?”
+
+Ren let the hug go and turned her around.
+
+“What are you... oh... mmm.” Ereka said as he massaged her chest from behind.
+
+“I didn't even get to play with them.” Ren said. “I had access to the perfect breasts, and you Distracted me.”
+
+“I... I said... oh... I was... sorry.”
+
+“What about my missed opportunity?” Ren asked. “How will you make it up to me?”
+
+Ereka grabbed his hands and held them on her chest. “You can play with them whenever you want.” She said. “No one else has ever seen them, and no one else ever will.”
+
+“I can't ask you to do that.” Ren said. “You have to go for your training in a few years.”
+
+“You don't have to ask me for anything.” Ereka said and turned around. “When I go for my training, I'll always wear something to cover my chest.”
+
+“Ereka...”
+
+“They are for your eyes only.” Ereka said and put his hands back on them. “Please accept my gift as an apology.”
+
+“I...” Ren smiled as he felt her determination. “I can't refuse such a generous gift.”
+
+Notice!
+
+Trouble Recipe ingredient: 'Ereka' has been completed.
+
+“Thank you.” Ereka said and kissed him. “Now get to work.” She said. “You should have just enough time to get 8 hours in before supper.”
+
+Ren nodded slightly and looked at the small plate on the table. He poured more Health potion in it and checked to see that the tarantula was okay. He left the cloak there, and looked up at the ceiling.
+
+“Let's go, Teepo.” Ren said to his friend, who flew down to land on his shoulder. He ran out of the house and went to the pen with the fire elemental in it. He dropped in some wood and more webs, gave it a cuddle and a kiss, and went into the stable. He greeted his mount Princess properly, then said hello to his familiar Ruck, and also to his construct dogs Riley and Stacy. He thought about going to greet Tee-one, then tapped his own temple and smiled.
+
+Ren left the stable and ran out through the gate, greeted the guard, and ran down the road to go to the mines.

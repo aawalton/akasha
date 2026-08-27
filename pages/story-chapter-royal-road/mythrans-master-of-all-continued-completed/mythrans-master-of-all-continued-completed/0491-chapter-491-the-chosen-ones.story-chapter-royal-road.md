@@ -1,0 +1,329 @@
+---
+id: 5a13cc7b-5117-57bd-b5a6-09c701fc17a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 491 - The Chosen Ones"
+slug: 0491-chapter-491-the-chosen-ones
+partOf: mythrans-master-of-all-continued-completed
+position: 491
+ownLength: 3732
+unit: words
+publishedAt: 2018-01-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189430/chapter-491-the-chosen-ones"
+royalRoadId: "189430"
+---
+
+Ren only had to sleep for an hour to gain the same benefit of sleeping for 8 hours, and he didn't bother getting up when he first woke up. The maids slept for another hour, and all he did was lay there and hold them. When the maids woke up, they changed sleeping positions so that they could all touch as much of him as possible.
+
+“What are these things?” Frikara asked as she ran a hand down the back of his arm along the web markings under his skin.
+
+“I wished to heal the ghouls, and the mark on my right hand shot out webs that moved over my shoulders to end on my left hand.”
+
+“That's an odd thing to have happen.” Frikara said. “I wonder what it means.”
+
+“I can worry about the implications later.” Ren said and put an arm around her. “Right now, I just want to cuddle with you all.”
+
+They stayed that way for another half an hour, and lazily dozed in and out of consciousness; then Ren was woken up by a strong feeling of desire. He looked at Frikara, who stirred at his attention, and she looked back at him.
+
+“That's not me this time.” Frikara said and looked at Ren's crotch. Andrela had cuddled with it, rubbed her face on it, then kissed it. She felt Ren's reaction to that and looked up at him over Verwynn's head on his abdomen.
+
+“I love you.” Andrela said and started to please him.
+
+“By the gods.” Frikara said for Ren, because he couldn't speak at the moment. Andrela was making him feel too good to say anything. The other maids woke up as they felt Ren's emotions in the shared Aura, and they all noticed Andrela working him over.
+
+“Look at her go.” Lusinia said, then she gasped as Andrela found a particular spot on Ren that he hadn't realized was a particularly sensitive spot, and his emotions spiked in the shared Aura.
+
+“Wh-wh-what... h-h-how...” Ren tried to speak.
+
+“Well, she does have immediate location knowledge.” Frikara said and smiled. “Although, I didn't know it could be so specific.”
+
+Andrela stopped her administration of her talent and looked at Frikara. “I didn't, either.”
+
+“D-don't s-stop!” Ren said, and Andrela kept going. “S-someone k-kiss m-me!”
+
+Navruth was the closest to his mouth, so she turned her head and started to kiss him. Frikara, Lusinia and Verwynn exchanged glances, nodded as one, and started to kiss the spots they could reach. They had done something similar before, where they had kissed him all over; but, this was the first time sex could be involved with it. They didn't bother trying to restrain their feelings as they kissed him, and hoped it would go much further than just kissing.
+
+Ren couldn't believe the sensations he was getting, both physically and emotionally, and wanted to reciprocate this time, unlike what he did with the elfling Yllana. His hands fumbled around and found 2 special places, and started to play with them. He heard 2 gasps as 2 pairs of the lips kissing him stopped, and one of them was Navruth.
+
+“Keep kissing.” Ren said, and she tried to; but, he was just too skilled in his touch for her to concentrate on two different things at once.
+
+“Frikara.” Ren said, and Navruth's head was gently moved aside and Frikara started kissing him instead. They stayed that way until Andrela decided that playing and teasing wasn't as appealing if he wasn't going to finish, so she skipped her special technique and used as much brute force as she could instead. Ren gasped into Frikara's mouth when Andrela changed her strategy, and they all felt it building in him.
+
+Frikara broke the kiss when he was close and looked at the others. “Do it.”
+
+They nodded slightly, and just as Ren was about to finish, they all leaned close and gently bit him.
+
+“GODS!” Ren yelled and finished, and so did the two maids he was playing with. There was no chance whatsoever that Andrela could hold it all, or even stem the flow from him. She deftly avoided the majority of the mess and stroked him as she waited until he was done.
+
+It took a while.
+
+“Wow.” Frikara said as she stopped biting him to watch. Her teeth had left little indent marks that quickly faded, thanks to Ren's regeneration ability. The others stopped as well and watched what was happening, too.
+
+“You were right, Frikara.” Navruth said, her eyes wide at the sight. “He definitely liked that.”
+
+“O-only a l-little.” Ren said, and that made the maids laugh. “I think I need to thank you properly.”
+
+“Ren, we did this for yooooouuuuuu!” Frikara said as he picked her up and put her down on the bed on her back. “Ren!”
+
+“Thank you.” Ren said and made sweet and passionate love to her as he flooded the shared Aura with his feelings. It drove all the maids wild with desire, and Frikara's Desire Aura popped into place automatically. It bumped up everything they felt, and Ren made sure Frikara was thanked truly and completely.
+
+Ren then did the same with each of the maids in turn, and made sure they each had an equal amount of both time and pleasure. He thanked them all as much as he could for the rest of the night. Teepo warned him about 2 hours before morning, so that they could all rest in bed together to get enough sleep so they wouldn't be tired for the coming day.
+
+Thanks, Teepo. Ren thought to his friend, and told the maids. They thanked Teepo as well, and after Ren quickly logged out to take care of things, they slept for the time they would need to get a full night's rest.
+
+*
+
+Lylyth, Queen of the Dark Elves, felt like she had run a marathon the entire night. All of Ren's feelings came through to her in full force, and she was too distracted by the sensations to feed as much as she wanted. She had lost count of how often she had finished, and when the night was over, she was too exhausted to climb out of her funnel web.
+
+The healer came in to attend to her, and she felt Ren's residual touch. “I knew I should have stayed by your side and not gone to bed.” She said and touched the Queen's forehead. “Well, he's sleeping now at least.”
+
+“Y-yes.” Lylyth managed to say as she looked at the healer. “Wait, how did you get in here without my help?”
+
+“My Lord gave me a gift.” The healer moved her top slightly and touched the amulet, and Lylyth's eyes widened at the sight.
+
+“That is quite the gift.” Lylyth said, and the healer took out the Mana potion Ren had given her.
+
+“It's not as important as this.” The healer said and used her innate ability to replenish herself. Because she was still touching her Queen, some of that Replenishment went into her as well.
+
+“Oh, thank you.” Lylyth said and sat up.
+
+“It's my job to attend to you, My Queen.” The healer said. “I'm just glad our tighter connection allows this to be possible.”
+
+“As am I.” Lylyth said and stood up.
+
+“My Queen, I have a question.”
+
+“Go ahead and ask.”
+
+“Do you regret meeting him?” The healer asked.
+
+“I... don't know.” Lylyth said. “He's been a boon beyond compare, but he is also a vexing presence.”
+
+The healer chuckled. “You should ask him to visit.” She said. “I'm sure he would come if...”
+
+“I do not want him to politely decline.” Lylyth said and left her bedroom and went out into hallway. “I would lose Influence if that were so.”
+
+“I suppose that could be true.” The healer said. “He is the Royal Consort, and if he refused...”
+
+“I will visit him instead.” Lylyth said as they reached the throne room, and her familiar met her beside her throne. The 10 foot long spider patiently waited for his Queen's command, and she waved her arm to call forth a portal. Her familiar used it's ability to enlarge it to the proper proportion for Lylyth to walk through, then crawled in itself.
+
+“My Queen, what will I tell...”
+
+“Don't worry. We will be back long before anyone shows up.”
+
+“W-we?” The healer asked.
+
+Lylyth put a hand behind the healer's back and eased her through the portal, then stepped through herself.
+
+*
+
+“Ren! REN!” Teepo yelled when the portal appeared. Ren woke up and quickly dislodged himself from the pile of maids and equipped his platinum armor. Artemis had already come around and took aim at the portal, just in case. The maids started to stir at the disturbance, and he ignored them as he stood up beside the bed. The portal was in front of the chair with his cloak on it, so he couldn't get the cloak without going around the portal.
+
+Ren did so as the portal expanded to a much greater size, then ran back around to the front and put on the cloak as a giant 10 foot long spider came out of the portal and stepped aside. Ren relaxed slightly at the sight and told Artemis to stand down, then the Dark Elf healer stepped out of the portal.
+
+“My Lady, this is quite unexpected.” Ren said and gave her a slight bow.
+
+“For me as well.” The healer said and stepped aside like the spider did, then the Queen of the Dark Elves stepped out of the portal.
+
+“My Queen.” Ren said and ducked his head.
+
+“Royal Consort.” Lylyth said. “We need to talk.”
+
+“I've almost finished with the main part of the ghouls.” Ren said. “I'm just waiting for another attack before I head out to face them again.”
+
+“Not about that.” Lylyth said. She looked at his right hand and at his left to see the new spider mark there, and pointed. “About that.”
+
+“How did you know about...” Ren thought about the pain he had felt at the time, and about her ability to feel all of his feelings, then noticed the similar web markings on Lylyth's arms that he now had on his own. “...ah, never mind.”
+
+Lylyth chuckled. “So, you agree things should be discussed?”
+
+“Yes.” Ren said and looked at the maids. “I'll be back soon, so go back to sleep.”
+
+The maids started to protest him having to leave, and he held his hands up to stop them.
+
+“If anything relevant comes up, I'll tell you.” Ren said. “There's no need to keep you awake for the discussion, though.”
+
+Lylyth was about to say that they didn't have to leave, but she could feel his concern for them getting their sleep and kept quiet. Ren felt resignation and agreement from the maids and gave each of them a quick kiss. Teepo dissolved into the Beetle Crown Ring, then Ren and Artemis went through the portal. They were quickly followed by Lylyth, the healer, and the spider familiar. Once on the other side, Ren summoned Teepo and walked slightly away from the portal and towards the throne.
+
+Ren waited until the portal closed before he spoke. “Before we talk, I should show you something.” He said and activated his Heat Sense Aura and looked around the throne room. He didn't see anyone else besides them and a bunch of spiders, and deactivated the Aura. He equipped his Travelling Clothes, then stored the tunic and shirt.
+
+The healer gasped as he turned around and showed them the extent of the webs across his shoulder and arms, and turned back around to see their surprised faces. He had felt shock from both the healer and Lylyth, and for some reason felt satisfaction from Lylyth's spider familiar. Lylyth glanced at the 10 foot long spider and the healer stepped close to Ren.
+
+“May I?” The healer asked and held out her hand. Ren nodded and her hand glowed slightly as she touched his forearm. “It's...” She looked at her Queen and the identical pattern on her arm. “...I don't know how this is possible.” She said and looked back at Ren and ran her hand up his arm to his shoulder, then walked around him and followed the web pattern across his shoulders and down the other arm to end at the new spider mark. “This is... very odd.”
+
+“What does it mean?” Ren asked.
+
+“How did you get it?” The healer asked.
+
+“I made a wish to heal the ghouls.” Ren said, and Lylyth caught her breath. “What is it?”
+
+“N-nothing.” Lylyth said and quickly turned away.
+
+“Ow, that hurt.” Ren winced as the lie stabbed him right in the heart. “I think the more powerful connection I have to someone, the more their lies hurt me.”
+
+Lylyth sighed, because she had felt that pain. “I don't want to talk about this anymore.”
+
+“I'll tell him.” The healer said, and Lylyth didn't protest it. Ren felt the emotions in the room cool off to almost freezing, and he looked at the healer.
+
+“Only Great Vasalor's chosen could turn people into ghouls with a touch, then heal them with a touch if he so choose.” The healer said.
+
+“Well, that can't be true.” Ren said. “I'm not one of his chosen, and I gained the Ghoul Touch after I leveled up in Shargon Caverns.” He said. “Of course, I've neither had it active to cause pain to someone, nor infected anyone with it.”
+
+“WH-WHAT?!?” Lylyth turned back around and looked at Ren. “No, it's not possible!”
+
+“You're really shocked by that.” Ren said.
+
+“Of course she is.” The healer said. “She's one of the chosen.”
+
+“Tiatha.” Lylyth said, and the healer's mouth snapped closed.
+
+Ren looked at Lylyth. “Does that mean you can make and heal the ghouls if you want?”
+
+“No, I don't have that ability.” Lylyth said, a bit disgustedly.
+
+Ren looked back at the healer. “Tiatha is your name?” He asked her, and she nodded. He took her hand and bent over it, and kissed the back of it. “It's a pleasure to officially meet you.”
+
+The healer looked at her Queen, who sighed and nodded. Tiatha's mouth relaxed and she smiled. “Royal Consort, my name is Tiatha Miarora.”
+
+Ren knew that name sounded familiar, and he thought about where he could have heard an elvish name like that... and then he remembered.
+
+“You wouldn't happen to know a Tanelia Miarora, do you?” Ren asked, and the healer stiffened up.
+
+“T-T-Tanelia!” The healer said, shocked. “S-she... is my s-sister.”
+
+“Really?” Ren felt her emotions, and activated his Reassurance Aura to calm her, then activated his Hands of the Gods ability and chose Restoring Hands, and poured good feelings into the healer. “I appointed her to run the new High Elf city I'm going to build.”
+
+The healer's mouth clamped shut again, and Ren felt her resentment. He used his free hand to touch the healer's cheek and stepped close.
+
+“Can I ask what's going on?” Ren asked.
+
+“I...” The healer sighed. “I was cast out of my family when they noticed my height.”
+
+Ren looked at Lylyth, then back at the healer. “Wait, does... does that mean...”
+
+“Yes, I'm an elfling.” The healer said.
+
+“I thought you were just a short Dark Elf.” Ren said, and he felt gratitude from both the healer and Lylyth.
+
+“She is just a short Dark Elf.” Lylyth said. “We don't hold to the High Elf prejudices here.”
+
+Ren smiled and gave a strong feeling of gratitude back to Lylyth. “That's great to hear.”
+
+Lylyth nodded, and Ren concentrated on the healer to give her as much good feelings as he could manage.
+
+“M-my L-lord... w-what...”
+
+“Your sister is a Ghoul Kissed, and when I healed her, she became my vassal and a part of my domain.”
+
+“Wh-what?”
+
+“It's a side effect of the healing.” Ren said. “I had said the wish without any qualifications, and apparently if you do that, things go... a little off.”
+
+“A little?!?”
+
+Ren chuckled. “Yeah, I spoke without thinking.” He said. “I've already been called an idiot for it.”
+
+The healer closed her eyes and sighed. “My Lord...”
+
+“Once I get the city built, I'm sure she wouldn't mind a visit from you.” Ren said. “Of course, that's assuming Dark Elves and High Elves are even allowed to mix.”
+
+“They aren't.” Lylyth said. “Our outlooks on life are quite a bit different.”
+
+“I can imagine.” Ren said. “I'll make sure to tell her I know you, and I'll gauge her reaction.” He said and let the healer's face and hand go. “If she doesn't throw a temper tantrum, I'll mention you meeting her.”
+
+“You don't have to do that.” The healer said.
+
+“I've said this before, and I'll keep saying it.” Ren smiled. “I don't have to do anything.”
+
+The healer opened her mouth, closed it, then stepped forward and kissed him. Ren was always a sucker for a good kiss, so he kissed her back quite enthusiastically. After several moments, the healer broke the kiss and stepped back.
+
+“Now, about this chosen thing...” Ren said, and she looked at the Queen.
+
+“Go ahead.” Lylyth said.
+
+“Legend says that Great Vasalor only chooses those that are worthy, or deserving of his gifts.” The healer said. “When someone appears with his abilities, it's supposed to herald the coming of a new age for Elvenkind.”
+
+“But... I wished for...”
+
+“It doesn't say how the gifts are gained, or how many are needed.” The healer said.
+
+“Well.” Ren said. “Now what?”
+
+“We don't know.” The healer said.
+
+“Wait, what?”
+
+“It's never happened before.” The healer said and looked at her Queen. “My Queen has been the closest we've ever come, and when she appeared, it did herald a new age for Elvenkind.”
+
+“Oh, it did.” Lylyth spat with venom in her voice. “When I was corrupted... on purpose... then discarded, I...” She grit her teeth. “I took it upon myself to take a section of the population with me.”
+
+“The Arcane energies that were unleashed at the time she was cursed had changed her followers into what you see before you.” The healer said. “We became the Dark Elves, a people of our own.”
+
+“Wow.” Ren said and looked at Lylyth. “I never thought... I mean...”
+
+“That someone like me could be discarded?” Lylyth asked, and Ren nodded. “If I had survived the ritual unscathed, I wouldn't have been.”
+
+“Ritual?” Ren looked from her to the healer, and back again.
+
+“It happened so long ago that no one knows what happened.” The healer said. “Not even the Queen.”
+
+Lylyth nodded. “I was blindfolded of course.” She said. “I couldn't even tell you who was present.”
+
+“I'm sorry you don't know.” Ren said. “I kind of suffer the same thing with everything I've been through since I was young.”
+
+“Well, there's nothing anyone can do about it now.” Lylyth said and smiled. “All we can do is move forward.”
+
+Ren nodded. “Then that's what I'll do.” He said. “Can you open a portal back?”
+
+“Of course.” Lylyth said. “Thank you for...”
+
+“There's no need to thank me.” Ren said. “All we did was talk.”
+
+Lylyth held a hand out to him, and he walked over to her and took it. “Would you have done more than that?” She asked. “I know of the restrictions you have set upon yourself.”
+
+“You were already a part of this before that went into place.” Ren smiled. “You're an exception to the rule.”
+
+“What about me?” The healer asked.
+
+“The potential is there, but I stand by my decree. No sex with anyone new, because I don't have the room in my life to have another woman I would need to spend quality time with.”
+
+“Is that why...”
+
+Ren nodded. “I've got just enough time to divide between everyone, and I can't add another to the mix, even if the others approved of it.”
+
+“So, it's not that you can't or won't do it, it's that you're worried you can't give them the time they would want to be with you?” Lylyth asked, and he nodded again. “Do you always consider others before yourself?”
+
+“Well, I've got about 45 minutes before I have to get to sleep.” Ren said and smiled. “...and I haven't seen your bedroom in a while.”
+
+Lylyth chuckled. “Tiatha, prepare my bed chamber.”
+
+“Yes, My Queen.” The healer said and ran from the throne room.
+
+“That's not necessary.” Ren said.
+
+“It should only take a moment.” Lylyth said and turned towards the hallway. Several Dark Elves were walking up the hallway towards the throne room. “Wait inside, and I will return in 45 minutes.” She commanded, and they nodded and went into the throne room.
+
+“Is this going to make you delaying anything?” Ren asked.
+
+“No, dearest.” Lylyth said. “We are only waiting for the ghoul outbreak to finish before we launch the campaign.”
+
+“I guess that means you are preparing for a large army battle.”
+
+“I always have been.” Lylyth said. “It's only recently that our numbers have been marginally close to having a chance to win.”
+
+They arrived at the Queen's room and went inside. They walked up and into the large funnel web to the bedroom inside, and the healer had changed the lighting and the bed sheets to bright red.
+
+“Thank you, Tiatha.” Lylyth said, and the healer bowed slightly and started to leave.
+
+“My Queen? Can she stay?” Ren asked, and he felt surprise from both women.
+
+“Why?”
+
+“I've only recently learned that there are a few things that can be done without actually having sex.” Ren said. “If it's okay with you, I'd like to include Tiatha for some of it.”
+
+“But...”
+
+“She's going to be feeling a lot of it while within my Aura anyway.” Ren said. “Please allow me to give you some of her pleasure as well as mine.”
+
+“Tiatha? Would you like to join us?” Lylyth asked the healer, but she didn't have to. Both she and Ren could feel how happy the healer was.
+
+“I'd love to!” The healer said excitedly and stored her clothing without being asked, and Ren chuckled as he held a hand out to her. She took it and held on tightly as the three of them climbed onto the oversized bed.

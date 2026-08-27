@@ -1,0 +1,169 @@
+---
+id: 378af820-b1a2-56c1-8350-2f707ec1a951
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 Ashridge"
+slug: 0007-chapter-6-ashridge
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 7
+ownLength: 2083
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3195105/chapter-6-ashridge"
+royalRoadId: "3195105"
+---
+
+Lucien wondered whether he had procrastinated too much when the moment finally came to leave his manor after being tossed into this world.
+
+It brought back certain memories of a time when he had been working on a particular task but found himself stuck in the planning stages instead of facing the parts of his work he hated, even with the deadline looming overhead.
+
+He remembered that feeling rather well, and it was that very same feeling he was experiencing inwardly as he finally stepped out of his manor for the first time.
+
+He was always a rather homely person, to be honest. He drew comfort in staying at home, working and coding rather than stepping outside.
+
+Of course, that did not mean he was a shut-in.
+
+He still bought his own groceries on a weekly basis, and he had no issues holding casual conversations with his fellow colleagues and juniors, but extrovert was not a word that could be used to describe the man known as Leon.
+
+He supposed, in a mildly self-deprecating way, there was nothing quite like having one’s very survival at stake to push a man out of his usual comfort zone of research, ledgers, and planning.
+
+It was an alien feeling, he could not help but think to himself. Instead of considering how to work around machines, he now had to consider people, in all their greatest strengths and the worst of their nature, as all sentients inevitably would have.
+
+And wasn’t that something else to get used to? That there were now other races besides humans in this world.
+
+Perhaps it had not sunk in yet, given that he had seen no trace of those other fantasy races, considering the current cold war and the inherent hostility that existed between different beings of this world.
+
+Speaking of the nature of sentients, there was another thing he had been deliberately avoiding. The last time the villagers had seen him was during an execution. Bran’s execution, to be exact.
+
+‘So,’ Lucien noted dryly to himself, ‘I suppose it would make sense for the villagers to be rather fearful of me.’
+
+When he had looked at his reflection in the mirror yesterday, he had been struck by how villainous he appeared.
+
+Narrowed amber eyes that seemed fixed in a glare, darkened circles from a late night with Dorian, and jet-black hair falling messily across his face did little to soften the impression.
+
+He could hardly blame his subjects for the wary looks they gave him. Even he would have kept his distance.
+
+Men shifted tools from one hand to another without meeting his eye. A woman gathering laundry from a line turned her back a fraction too early, as though preoccupied by sudden urgency.
+
+A pair of children playing with wooden sticks froze as he passed, their mock duel collapsing into stiff silence. One boy held his stick aloft a moment longer than the other, as though reluctant to surrender the pose, before lowering it.
+
+Another child stood farther back, a wooden hoop forgotten at his feet as he watched with narrowed concentration, as if he was studying a puzzle rather than a lord.
+
+A little girl clutched a rag doll tightly against her chest and half-hid behind an older child, peeking around his shoulder before retreating when their mother called sharply.
+
+The woman lowered her gaze when Lucien’s attention drifted her way. Her head dipped in something resembling a bow. It was more of an attempt not to offend than any real respect.
+
+The conversation that had been unfolding between them did not resume once he passed. It thinned instead, words turning sparse and careful until distance made it safe again.
+
+That stung more than open resentment would have, because resentment could be confronted but this wary restraint simply lingered. And he could hardly pretend he had not contributed to it, not when one of his first acts as lord had been to claim a pretty girl as his maid.
+
+Even now, he still had no idea what the cultural norms were or what sort of authority a noble of this world truly held. Was it actually within his power to simply declare someone his maid? Was such a thing commonly practiced among the nobility?
+
+The answers to those questions were important, especially to someone who still felt like a mummer acting a role he had not yet grown into.
+
+Regardless of the answers, it seemed what the original Lucien had done was not viewed favourably. And now, it was he who had to bear the consequences of that action, despite the fact that it was not his fault in the first place.
+
+He could not help but feel a little wronged by that, but there was no one left to blame. The one responsible was far beyond his reach, and he alone now controlled this body.
+
+Lucien might not have been the most skilled at communicating with people, but he was rather good at observing and analysing things. And if there was one thing he had often observed about people, it was that they tended to have selective and short memories.
+
+They remembered the bad more than the good. Moreover, they remembered a person’s most recent actions rather than the collective whole of that individual.
+
+And of course, his most recent impression had been that of a lord presiding over an execution.
+
+One rooted in his authority, considering the cause of why such an execution had even been ordered in the first place.
+
+Only the fact that he had managed to stall it could be considered a bright spot. Otherwise, he could not imagine how much more difficult things would have been.
+
+‘I suppose those who lead carry a greater weight than they show, huh?’ Lucien noted wryly as he continued making his way toward the village palisades, still affecting the walk and stature of a lord he was only beginning to learn how to wear.
+
+Doors that had been half open eased shut as he approached, neither slammed nor hurried, only enough for the interior shadows to swallow whatever had been visible moments before.
+
+Five hundred people lived within these palisades.
+
+Not one of them walked beside him.
+
+He had seen the ledgers. Elias had briefed him on the grain yields and projected income. Dorian had outlined the number of men fit for militia. He had even stood at his study window on his first evening, watching the sun dip below the horizon as if observation alone could prepare him.
+
+But it was not until he walked among them that the weight of five hundred lives truly settled upon him.
+
+Children dueled with wooden sticks, declaring themselves knights. Women bartered and wove baskets in the modest market square. Men repaired their uneven homes with tools that looked as though they had survived three generations too many.
+
+Only then did he grasp how different a village was from the cities he had known. Ashridge was larger than he had expected.
+
+From the manor window, it had seemed contained, manageable. But walking toward the palisades revealed its true sprawl. Five hundred people stretched across wide, uneven ground, homes separated by generous strips of open space, storage barns standing apart rather than clustered together.
+
+In his former world, that same number could fit neatly inside a single apartment building.
+
+The village breathed differently than a city. Its buildings were practical, almost utilitarian, yet arranged in a pattern no planner would ever approve. The gaps between structures felt excessive, inefficient even.
+
+And yet, beneath that seeming disorder, there was a logic to it. A rhythm shaped by caution rather than convenience. Even he could sense it, though he could not have explained why.
+
+As expected, his manor stood at the village’s heart. Three stories of stone and timber, encircled by thick oak fencing nearly eight feet high. It was, without question, the most imposing structure in Ashridge.
+
+The second most prominent building, surprisingly, was the tavern. He had seen it from afar, but up close it dwarfed his expectations. Given the era, he supposed there were few entertainments besides drink.
+
+Its long rectangular frame reminded him of the longhouses described in the fantasy novels he once devoured. Wagon space lay open before it, likely for the rare merchants passing through, with hitching posts lining the front.
+
+A dog barked somewhere behind the tavern, sharp and territorial. The clatter of wooden wheels echoed faintly from the opposite end of the village, someone hauling grain toward storage before the chill deepened. Smoke drifted lazily from low chimneys, carrying with it the scent of burning oak.
+
+The smell reached him before the door did. Horse manure. Ale. Something sour that might once have been stew. Cleanliness, it seemed, was another matter for the future.
+
+And wasn’t that another problem waiting to unravel? How exactly was he meant to persuade people that regular bathing reduced illness? He had yet to assess this world’s medical knowledge, and he doubted his modest library held much information regarding that.
+
+One problem at a time.
+
+He repeated it not unlike a mantra, as he always did when confronted with something too large to solve at once.
+
+What surprised him most was not the blacksmith’s forge, but the carpenter’s workshop being positioned closer to the manor.
+
+He had expected the opposite. How many stories had he read where the protagonist marched straight to the forge, revolutionizing tools and reshaping civilization? He had absorbed that bias himself.
+
+But Ashridge was a grain village built almost entirely of wood. Its homes, its defenses, even its palisades were oak. Of course the carpenter would hold prominence here.
+
+He had been surprised there was even a blacksmith at all. He had assumed tools would need importing from distant towns. Ashridge, it turned out, was more established than he had initially assumed.
+
+‘Where does the ore come from?’ He filed the question away.
+
+This walk had been necessary, because it stripped away the illusion of distance. From the manor's window, Ashridge was a holding to manage. On foot, it was five hundred lives moving within reach of his decisions.
+
+Change too much, too quickly, and he might shatter something these people had relied upon their entire lives.
+
+In his former world, people had jobs they could leave if they chose. They could pivot careers, relocate and replan their lives with enough savings and discipline.
+
+Here, profession was not preference. It was survival etched into bone.
+
+There was no concept of quitting. Only endurance. And the frail hope that tomorrow would come.
+
+Lucien had the luxury of viewing Ashridge and even the Beast Tithes as problems to solve.
+
+For its people, it was simply life. Blood spilled. Names lost. Another winter endured.
+
+He was not certain he would ever fully understand that.
+
+But he would try.
+
+He had never been one to turn away from a problem simply because it was difficult.
+
+As he neared the palisades, the structures grew increasingly ramshackle, as if the homes had been built hastily so their occupants could at least have a roof over their heads, however poor.
+
+A shelter from the elements rather than a home, that was his first impression as he approached the wooden gates of Ashridge.
+
+‘These buildings must have been destroyed multiple times over,’ Lucien noted grimly as he heard the distinctive voice of Dorian drilling the militia.
+
+There were fewer villagers here, mostly men resting between what must have been gruelling drills, judging by the sweat soaking their dirty forms. Dorian was clearly a harsh taskmaster.
+
+Beyond the homes stood makeshift defences. Claw marks scarred the wood, signs of past beast attacks, along with old but stubborn repairs holding sections of the palisade together.
+
+A section of the palisade had been reinforced with mismatched timber, newer wood stark against older, weathered beams, the repairs uneven and clearly made in haste.
+
+He ran his gaze along the length of the wall, tracing old impact marks and splintered scars. Whatever had struck these defenses in previous winters had not done so gently.
+
+It was brutal, but practical, befitting a place that had likely seen the most battles over its lifetime.
+
+‘I wonder if a lord is even expected to come here,’ Lucien idly thought.
+
+It did not matter.
+
+Whatever expectations this world’s nobility held, he would not shy away from the men expected to fight and die for him.
+
+It was time to see what military preparations were needed for his first winter in this world.

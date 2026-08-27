@@ -1,0 +1,229 @@
+---
+id: 9db36f42-f8f9-5fc9-aaf3-4452f5cb507a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 568 - Paperwork"
+slug: 0568-chapter-568-paperwork
+partOf: mythrans-master-of-all-continued-completed
+position: 568
+ownLength: 3041
+unit: words
+publishedAt: 2018-04-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211153/chapter-568-paperwork"
+royalRoadId: "211153"
+---
+
+Ren figured that Frikara would be right and it would take several hours to submit the petitions, especially if the clerk in the Hall of Records wanted to read them all and didn't just toss the stacks into the filing system. With nothing really to do while he waited, he thought about the new skill he had gained.
+
+“Show info for the skill: Autocracy.”
+
+Autocracy
+
+This skill grants you absolute power over your lands, the people that live there, and those within your domain (no matter where they live). You can issue them orders, give rewards (knighthoods, land parcels, etc.), dole out punishments (imprisonment, banishment, dismemberment, death, etc.), elevate citizens to a higher class (or lower them as the case may be), and also make deserving citizens members of your monarchy.
+
+“Cool.” Ren said out loud, then thought about what he wanted to do for the next few hours. He couldn't really think of anything important, so he left the apartment and went downstairs to visit Xuunah. He knocked on the door, and she opened it a moment later.
+
+“You didn't have to knock.” Xuunah said. “Please, come in.”
+
+“Actually, I want you to come with me.” Ren said and held a hand out to her.
+
+“Where are we going?” Xuunah asked and took his hand without hesitation.
+
+“My Sanctuary.” Ren said.
+
+“Yours?”
+
+Ren nodded. “Unlike the one you have, mine can hold up to 4 people.”
+
+“It can?”
+
+Ren led her over to the warehouse and retrieved Artemis, and the three of them walked down the street to the building next to the Library.
+
+“Lara's not here, so I figured I could spend some time with you instead.” Ren said. “I would have asked to go into yours, but I can't take Artemis or Teepo in with me.”
+
+“I don't think... can we really...”
+
+“I've got a few hours to spare with nothing to do, except watch Frikara and the others do my dirty work.” Ren said as he showed her on the All-Seeing Mirror and explained what he had asked them to do.
+
+“The clerk can't complain, because the maids are a part of your unregistered house.” Xuunah said. “That was a smart way to get around not being able to deliver them yourself.”
+
+“I thought about getting Nathalia or you to do it; but, that would have seemed like it was selfish on your part if I did.”
+
+Xuunah nodded. “It would have been self-serving to have Nathalia or me deliver petitions on your behalf, especially since they concern Nathalia.”
+
+“Maybe I should get more parchment paper.” Ren said and stopped in front of the Sanctuary.
+
+“Don't you want these 4,000 to go through before doing more?” Xuunah asked.
+
+Ren thought about it for a few moments and nodded. “Okay, I'll wait and see if there's any complications before I continue the campaign.” He said and opened the door to the Sanctuary. “Now come into my parlour said the spider to the fly.”
+
+“Ren, I... I can't.” Xuunah said and let his hand go.
+
+“Xuunah?”
+
+“Just being around you and feeling you has been the best thing I've ever experienced.” Xuunah said and pat the mark on her chest. “If it's just us... all alone for...” She shook her head. “I don't know if I can resist your charm.”
+
+Ren smiled. “You have my word that I won't do anything except kiss you and fondle you a little.”
+
+Xuunah caught her breath as she thought about him touching her private places directly, and she shook her head several times. “I definitely can't resist if I let you do that.”
+
+“But...”
+
+“I can take kissing you, and the occasional loving touch; but, I know this body can't take the stimuli you offer without either going crazy or begging you to continue.” Xuunah said, almost sadly. “Please, don't make me suffer like that.”
+
+Ren stepped up into the air and looked her in the eyes. “I won't ever do anything to compromise your beliefs.” He said and kissed her. “I just thought you would enjoy spending some alone time together, with no pressing matters for either of us to attend to.”
+
+“I would... I do...” Xuunah tried to explain, and Ren stroked the cheek of her face. “It's just...”
+
+“I'm too temping to be around without supervision.” Ren said, and she nodded. “You don't think Artemis or Teepo counts.”
+
+Xuunah shook her head. “They would side with you on all things.” She said, and her face turned red. “As would I.”
+
+Ren smiled. “Thank you.”
+
+“What are you thanking me for?” Xuunah asked, surprised. “I'm turning you down!”
+
+“You just told me that if I press you, even just a little, you will toss aside your beliefs to be with me.” Ren said. “That's very flattering.”
+
+Xuunah looked at him with wide eyes, because she could feel what he was feeling.
+
+“Just so you know, I talked to the other Adventurers in my life and asked them about being with you.” Ren said. “I told them about wanting to have a deep sharing with you, and that if it turned to sex, not to get angry about it.”
+
+Xuunah couldn't believe what she was hearing. “You talked to them before we... we...”
+
+“Share-bonded as Light beings.” Ren said. “I wanted them to know that if you and I did take that extra step in these bodies, that it was just an extension of what we've already done mentally.”
+
+“Ren, I...”
+
+“Now I feel bad for making you walk all the way down the street.” Ren said and shut the door to the Sanctuary, took her hand again, then started to walk back to the Main House.
+
+“You don't have to escort me.” Xuunah said, and Ren chuckled.
+
+“I don't have to do anything.” Ren said. “I want to.”
+
+Xuunah didn't try to protest as Ren led her back to her apartment, then he took her inside while Artemis waited in the street.
+
+“Ren, I'm sorry.”
+
+“Don't be.” Ren smiled. “You'll get stronger in time, and you'll be able to resist me without having to try too hard.”
+
+“Ren, that's not...” Xuunah sighed. “It's me not wanting to resist you that I'm afraid of.”
+
+Ren chuckled. “I was tempted to use the Polymorph helm again, then I thought it was a little too soon to be with you like that again. Since that wasn't an option, I thought you would want to just spend time with me normally.” He said. “That's when I had the idea about the Sanctuary.”
+
+Xuunah felt his disappointment, and gave him a hug. “Well, we can sit here on the couch and...”
+
+“We would still have the same problem.” Ren said. “If you think only having a couple of hours alone with you instead of the months we could have had in the Sanctuary would stop me from wanting to hold you, then you need to reevaluate your thought processes.”
+
+Xuunah sighed, because she knew he was right. “What are we going to do?”
+
+“Take things day by day, of course.” Ren said and gave her a kiss. “See you later.”
+
+Xuunah watched him leave her apartment and she didn't try to stop him, even though she wanted to. She thought about giving in a little bit, just so she could have him near, and she shook her head.
+
+That's the problem. Xuunah thought. Once I start compromising, I won't stop.
+
+Ren had felt her indecision and kept walking, because he knew if he did stay around and only had a short time with her, he wouldn't be able to say no if she changed her mind. He met Artemis outside and they went back down the street to the Sanctuary... and then he had an idea. He ran over to the warehouse and opened the giant forge.
+
+“Zetaya? Do you feel like spending a little bit of time with me?” Ren asked, and the fire elemental let out the sound of a crackling fire as it tackled him and tried to jump into his arms. He laughed at how happy Zetaya was, and he, Artemis, Teepo and Zetaya went down the street to the Sanctuary and went inside.
+
+*
+
+“What in the world is this?” Beryl, the clerk in the Hall of Records asked as Frikara dropped the stack of 800 petitions for law changes onto her desk.
+
+“Just some paperwork My Lord Ren asked to have filed.” Frikara said and took out a pile of platinum coins. “What's the fee for...”
+
+“Ren's money is no good here.” Beryl said. “He saved this kingdom from... well, everything. Including itself.” She smiled. “If there's something he wants filed, I'll file it.”
+
+“That's great to hear.” Lusinia said and dropped her stack of 800 petitions to relax the laws for fraternization between different races.
+
+“I agree.” Verwynn said and dropped her stack of 800 petitions that referred to cultural implications and how applying the dwarf culture rules to non-dwarves was against their laws and non-dwarf laws.
+
+“I'm really sorry about this.” Andrela said and dropped her stack of 800 petitions onto the desk. Her stack referenced the financial implications of having foreigners and Adventurers getting involved with dwarfs, and how it could keep their economy going if it started to falter.
+
+“I'm not sorry, because you asked for it!” Navruth said jokingly and dropped her stack of 800 sheets. These referenced public greetings and asked for alterations of the protocols between the known races to reflect cultural boundaries and to stop any potential misunderstandings.
+
+All in all, the petitions had a common theme. The dwarves themselves were still held to their own cultural devices, while other races were not held by the same standard (except in their own culture). Ignorance of that standard not withstanding, they shouldn't be held accountable by dwarf law unless they agree beforehand that they planned to initiate interpersonal contact and marriage in accordance to those laws.
+
+In essence, it would stop what happened to Ren when he first came to the dwarf lands from happening to anyone else.
+
+Beryl stared at the stacks of paper and then at the 5 maids. “He really wants me to file all of this?”
+
+“Of course he does.” Frikara said. “That's why he gave us so much money for the fees.”
+
+Beryl took a breath and let it out. “Well, okay. I better get started.” She said and picked up the first stack and walked over to the large filing cabinet behind her. All 4 drawers opened and she started to read and toss the pages into different drawers. “Law. By-law. Ritual reference. Law. Cultural. Law.”
+
+Frikara and the other 4 maids watched in amazement as Beryl read each sheet in a second and then filed it appropriately the next second. If she kept that pace, then it would take approximately 8,000 seconds to file everything, or just over 133 minutes. That was 2 hours and 13 minutes, which was close to Frikara's estimate for how long it would take to file. She didn't know that the clerk would read everything, too.
+
+“This is amazing!” Andrela said. “Only the clerk can touch anything in here!”
+
+“You're kidding.” Navruth said and pointed to a large 1 foot thick book. “Look, there's no way that huge book there can't be touched.”
+
+“The damn things are heavy, too.” Beryl said without looking. “You can try to pick it up if you think you're strong enough.”
+
+Navruth accepted the challenge and braced her legs to accept the weight, then reached out to grab the book... and her hands went right through it. She overcompensated without the weight she was prepared to lift and she bounced off the edge of the desk and fell backwards and sat down hard on the floor.
+
+“What the hell?” Navruth exclaimed. “Ow! My butt!”
+
+The other maids laughed at what happened.
+
+“It's not funny!” Navruth said as she stood up and rubbed her backside.
+
+“You should have equipped the armor bodysuit Ren gave us before you did that.” Frikara said and pat her shoulder. “You'd be laughing with us right now.”
+
+Navruth sighed. “I'm not used to wearing it yet.”
+
+“It's form-fitting and not very ladylike, but it makes us so strong!” Verwynn said and pulled the edge of her conservative dress down to show that she was wearing it. “I love it!”
+
+“I can't believe it doesn't count as armor, even though there's more platinum than cloth in the thing.” Frikara said. “I have to agree with Verwynn, though. It's wonderful, despite it's unladylike appearance.”
+
+“Do you think we can get him to make a... a more womanly version?” Lusinia asked.
+
+“This is the more womanly version.” Frikara said and smiled.
+
+“Oh. Well, never mind.”
+
+Frikara moved her hand from Navruth's shoulder to pat Lusinia's shoulder. “It's designed to cover as much of us a possible to protect us.”
+
+“I know, it's just...”
+
+“If you wore it all the time like I do, you would be more comfortable wearing it.” Verwynn said. “You can feel that, right?”
+
+Lusinia nodded, as did Navruth.
+
+Frikara turned to look at Andrela. “You haven't said anything about this, little one.”
+
+“If you want my opinion, I think Ren only gives us the things we need and not anything that could be considered superfluous.” Andrela said. “He knew we needed armored protection without wearing armor, so we could still wear the clothes we all like so much.”
+
+The other maids looked at her, too.
+
+“He's always considerate and only wants us to be happy.” Andrela said. “I love him and trust him, so I'll wear anything he gives me without question or doubt.”
+
+“That's very mature of you.” Beryl said as she kept sorting the first stack of parchment papers. “He's a lucky man to have you in his life.”
+
+“He has all of us in his life, and he makes it all work somehow.” Andrela said. “You would think he would get tired of us after so long; but instead of spending less time with us, he tries to spend more.” She smiled. “I've never felt so needed in my life.”
+
+Frikara and the other maids remembered Ren coming to them after being in the Sanctuary the last time, and how surprised they were over how much he needed them, even though he had been with Lara The Sage of Ages the whole time. All of their faces flushed red as they thought about him and what happened afterwards. Andrela felt them reliving it, and her face flushed red as well.
+
+Beryl could see them out of the corner of her eye and she saw their reaction to the conversation, and she wondered how a single man could keep all of them so satisfied that they blushed just thinking about him.
+
+Was he that charismatic? Beryl asked herself as she kept filing, then she remembered the first time he had used his newly registered greeting ritual on her. When he had taken her hand and didn't bend over it, she had been surprised; when he leaned in and kissed her cheek instead, it made her heart flutter.
+
+I guess he was. Beryl thought as her face flushed slightly red as well.
+
+*
+
+It had taken Clint, Tommy, Hank and Dillon several game days to track Billy down when he hadn't shown up for their weekly quest night. They had finally caught up with him and confronted him about what had happened.
+
+Billy denied any wrong-doing on his part, and that it was all Ren's fault it happened. Clint and the guys tried to argue the point, but Billy wouldn't listen. When Clint threatened to cut him from the Reckless Rough Riders if he didn't at least try to explain to them what was going on, Billy finally relented and told them what his life was like.
+
+None of the guys spoke as Billy poured his heart out about all of his problems, and how he couldn't deal with them until he had found Jennifer at the Pink Pearl. He fell in love with her right away, and it gave him the strength to face his life in the real world because he had her as his backbone in the virtual one.
+
+He went on to say that he told her everything and she gave him emotional support, because she had similar problems in real life, and they were there for each other. When the Pink Pearl closed down, it was a stumbling block for them, because it changed their relationship slightly. When Ren had built them a new place and taken her away from the immediate area, it put a strain on their relationship.
+
+When Billy found out that Ren had slept with her, it broke something inside of him. It was one thing to do that as a client; but, Ren knew Jennifer was Billy's and that he loved her, and Ren slept with her anyway. It made him so angry that he couldn't deal with it, and he had hit her. He had apologized profusely to her, then Ren came in and killed him.
+
+Clint and the guys didn't know what to say. It was a sad story, and bad things had happened; but, it was a mistake and Billy freely admitted to it. They didn't think that was enough of a reason to end their years-long friendship, and they told him that. Billy thanked them over and over, and he said that he would try and deal with his issues before they got out of hand again.
+
+Now that they were back together, Clint told him about the quest they were supposed to go on and had missed because they had to look for him. Billy apologized for it, and asked if it was a recurring one. Clint told him it was, and they agreed to try the quest when the availability timer reset. They all went back to the ranch to rest in the safe zone and got comfortable.
+
+Billy had been worried that Clint would have deleted his spawn point, then felt relieved as he quietly checked and confirmed that his spawn point was still there. He sprawled out on one of the couches by himself, because he was so tall, and relaxed.

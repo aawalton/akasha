@@ -1,0 +1,283 @@
+---
+id: 8f5051df-0a98-5791-99f2-973484612d97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 221 - Out Of Proportions"
+slug: 0209-chapter-221-out-of-proportions
+partOf: mythrans-master-of-all-continued-completed
+position: 209
+ownLength: 3122
+unit: words
+publishedAt: 2017-04-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129215/chapter-221-out-of-proportions"
+royalRoadId: "129215"
+---
+
+With two giants digging with picks, and four giants digging with shovels, it didn't take long for them to dig a tunnel ramp up to the surface, even at a 20 degree angle. When the first pick broke the surface, the other giants quickened their pace.
+
+“Careful!” Ren said. “Brace up that top part, then dig back about 10 feet. It's the thinnest part of the tunnel roof, and we don't want it caving in.”
+
+They followed his instructions, and then they dug out the rest of the ramp.
+
+“It's nice to get out of that stinking pit!” One of the men said, and dropped the shovel he was using. “I was getting claustrophobia being all cooped up like that.”
+
+Ren looked at the male giant with the inventory. “Can you gather up the shovels and picks? I'm sure we're going to need them again at the campsite.”
+
+The male giant took the tools from the other giants, and stored them.
+
+“Now what?” Laurelia asked.
+
+“I'd like to get you all checked out by a healer, to make sure you're all okay.” Ren said. “I don't want anyone that's sick or hurt to stay that way.”
+
+“You really do care about us.” Laurelia said.
+
+“You shouldn't sound so surprised; but I can't blame you for it, either.” Ren said. “It's not like I've had lots of time to prove it to you.”
+
+“You've made a great start.” Laurelia said. “Do you want me to put you down now?”
+
+“Yes, thank you.” Ren said. “Can you cup your hands in front of your belly for me?”
+
+“Sure.” Laurelia said, and cupped her hands like Ren asked. Since he was sitting on her shoulder, all he had to do now was stand up on her forearm and took two steps to her hands, then turned to face her.
+
+“I can't thank you enough for helping me today.” Ren said, then leaned in and gave her a hug around the neck. “You made everything so much easier.”
+
+“It was no trouble.” Laurelia said, a little embarrassed at Ren's show of affection; especially after they had joked about being a couple. Ren let the hug go and stood up straight.
+
+“If you hadn't let me use you as a podium, I would have had a hard time getting people to just see me, let alone listen to what I had to say.”
+
+“I'm sure someone else would have...”
+
+“No. Don't downplay it.” Ren said. “Like I told you before; out of the 135 giants in the whole pit, you were the only one that waved back.” He smiled. “That makes you exceptional.”
+
+Laurelia's face flushed red, and her cheeks turned a rosy color. “Are you sure you can't make yourself 20 feet taller?” She asked, her voice full of hope.
+
+Ren chuckled. “I'm still engaged.”
+
+“I know.” Laurelia said. “I just... I want to kiss you, but I don't want to hurt you, either.”
+
+“Well...” Ren said. “...you can put me down now.”
+
+“But...”
+
+“Please.”
+
+Laurelia sighed. “Okay.” She knelt down close to the ground, and Ren hopped out of her hands. She stood up straight, and looked at him sadly. Ren took out a Minor Healing wand and absorbed the charges from it, then filled it with the Enlarge Person Spell.
+
+Wand Of Engorgement
+
+An Enlarge Person spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8. This increase changes the creature’s size category to the next larger one. (Small becomes Normal, Normal becomes Large, etc.) The target gains a bonus to Strength (as it is now larger and stronger), a penalty to Dexterity (it is unused to this size and is clumsy), and a penalty on attacks and armor due to its increased size.
+
+A humanoid creature whose size increases to Large has a space of 5 to 8 feet and a natural reach of 10 feet. This spell does not change the target’s speed. All equipment worn or carried by a creature is similarly enlarged by the spell.
+
+Enlarge Person can be made permanent with a Permanency (Level 5) spell.
+
+Warning: Multiple Enlarge Person spells do not stack. The first must expire before another will work.
+
+Cast Distance: Within 25 feet (Short). Area of Effect: One humanoid within cast distance.
+
+Time Limit: 2 minutes (Level 1)
+
+“Don't look so sad.” Ren said and stored the wand. “I'm going to grant your wish.” He grinned as he took out some wood and made a simple workbench, then took out some fabric. “Kind of.”
+
+“What... what do you mean?” Laurelia asked, slightly worried.
+
+“I can't make myself 20 feet tall like you want.” Ren said and looked at her. “Do you prefer to wear pants or a dress?”
+
+“Um... a dress.” She said, and Ren chose a nice dress pattern.
+
+“Like I said, I can't do 20 feet, but I can make myself twice as tall.”
+
+“You can?!?” Laurelia asked, surprised; then frowned a moment later. “That's still way too short.”
+
+Ren nodded slightly, dyed the fabric a blue color, and cut out the pieces he needed. “I can also make you half as tall, too.” He said, and her mouth dropped open.
+
+“You're kidding!”
+
+“It'll only last 2 minutes; but that should be plenty of time for you to kiss me.” Ren said and sewed up the pieces of cloth to make a dress. He added all the little details, then remembered to make a pair of underwear for her, too. He then made a large curtain, and gave it to the female giant with the inventory to store it. She took it out, and it had resized to the right proportions.
+
+“Can you hang that on those trees over there?” Ren said and pointed to a clump of trees. “It should provide some privacy to change.”
+
+The female giant took the curtain over to the clump of trees, and draped the curtain over them.
+
+“Laurelia, take these behind the curtain. Equip the dress first to clean yourself up, then the underwear.” Ren held up the two clothing items for her. Laurelia blushed slightly a she took the tiny little underwear and dress, then looked at herself.
+
+“Are you sure this is going to fit?”
+
+“It always has before.” Ren said.
+
+Laurelia walked over to the clump of trees, and stepped behind the curtain to change.
+
+*
+
+I don't know about this. Laurelia thought as she slipped off her old underwear. It just seems so... magical.
+
+She equipped the tiny little dress, and the old tattered clothing she had tied around herself, fell away as the dress instantly resized to fit her. Laurelia felt better right away, as all the dirt and grime she had been covered with was whisked away. She equipped the underwear next, and it's comforting softness embraced her as if they had been made specifically for her.
+
+Her heart was filled with joy, and she came out from behind the curtain. She was greeted with stares from the giants, and a huge grin from Ren.
+
+*
+
+“You look great!” Ren said when Laurelia came over to him.
+
+“Thanks to you.” She said, and Ren took out the Wand of Shrinkage.
+
+“Have you decided if you want to try being shorter?”
+
+“I have.” Laurelia said and grinned as she opened her arms wide. “Make me small!”
+
+Ren shot her with the Wand of Shrinkage, and nothing happened. I wonder what the percentage is for a successful spell against an awake giant is? He thought, and shot her several times. The fourth spell worked, and Laurelia's form reduced in size from almost 24 feet tall to half of her height, or 11 feet 8 inches tall.
+
+“Wow, this feels really weird.” Laurelia said, and looked around at the giants staring at her. “Hey! You guys are huge!”
+
+The giants laughed at her statement, and Ren used the Wand of Engorgement on himself, and he doubled in size. He went from his normal 4 feet 7 inches tall, to 9 feet 2 inches tall. He was still 2 feet 6 inches shorter than her; but, they were on the same scale now. Laurelia stared at him, and he smiled.
+
+“It seems like it wor-” Ren tried to say, but his lips were engulfed by Laurelia's as she kissed him, and then she hugged him tightly. She broke the kiss a few moments later, and smiled.
+
+“Thank you for granting my wish.” She said, and let him out of the hug.
+
+“You're welcome.” Ren said.
+
+“The time is almost up.” Teepo said, and Ren stepped back from her. A few seconds later, Laurelia went back to her giant size, and Ren went back to his normal height.
+
+“That was amazing!” Laurelia said, and smiled at him.
+
+“I told you that I'm just too awesome sometimes.” Ren grinned at her, and she laughed. “Wait here, while I go and get the healer and send for the camping supplies.”
+
+“Okay.” Laurelia said, and Ren ran towards the Garrison.
+
+*
+
+“I can't believe you kissed him.” The female giant with the inventory said.
+
+“Why?” Laurelia asked.
+
+“He... he's a little person! They aren't even supposed to exist, and you kissed him!”
+
+Laurelia laughed. “After everything we've seen him do, and have yet to see him do, it's kissing him that's bothering you?”
+
+“That's not the point!”
+
+Laurelia smiled. “I've dreamed about kissing a little person ever since I was a kid, after I read the story about the little person Brunhilda, who fell in love with the Prince.”
+
+The female giant laughed. “So, it didn't matter if it was this little person in particular, as long as it was a little person?”
+
+“Well...” Laurelia said, sheepishly. “...he had to be male, at least.” She smiled. “I'm just lucky I found a cute one.” She touched her lips with her fingertips. “His beard tickled, too.”
+
+*
+
+Ren found the healer, and asked the Warrior for the camping supplies. Tents, bedrolls, blankets, lanterns, and even a week's worth of ration packs for 135 people, if they had them.
+
+“A.. a hundred and thirty five?” The Warrior asked.
+
+“That's right.” Ren said. “I'm not sure I'll need them all; but I'd like to have them, just in case.”
+
+“Yes, sir.” The Warrior said. “Anything else?”
+
+“I'll need about 10 bolts of cloth. Basic weave, nothing expensive.” Ren said. “I'll be making clothes for them later.” He said. “Gather as many people as necessary to carry everything if you need the help.”
+
+“Yes, sir.” The Warrior said, and left.
+
+“Are you up for this?” Ren asked the healer.
+
+“I am.” She said, determined.
+
+“Do you want me to hold your hand until we get over there?”
+
+She looked at him with her eyebrows raised, and he smiled.
+
+“Yes, I remember that you're married.” Ren said. “I'm just offering a hand to hold if you need it.”
+
+The healer took a deep breath, and held her hand out for Ren to take. He held it gently, and then led the healer over to the giants she was to examine, then heal if necessary. She checked the giants that were there, and healed some minor cuts and bruises; and Ren sent one of the giants down to tell the others to come up in single file.
+
+The healer did her job well, and most of the giants didn't need anything healed. Several giants didn't feel like having a little person examine them, and it turned out that was because they were the ones that had been chasing Ren with broken arms through the trees, before falling into the pit. The other giants talked to them, and told them to just close their eyes, so the healer could do her work. She had one of the biggest giants set the arms properly, and used the wands Ren had given her. After an hour, she was done.
+
+“Thank you.” Ren said to her, and recharged the wands as she grinned at him.
+
+“I can't wait to tell everyone back at the hospital wing about this... oh, damn. Nevermind.”
+
+“I know, giants are still a national secret.” Ren said. “Until tomorrow.”
+
+“Excuse me?”
+
+Ren smiled. “I'm going to publish a book about all of this tomorrow, and it'll be distributed worldwide. Once it's out, you won't have to worry about keeping giants a secret anymore.”
+
+“You... you can't do that!” She said, surprised.
+
+“Why not?”
+
+The healer opened her mouth to respond, and nothing came out. If Ren is running the Garrison, then he is the one that decides what the public should know. She thought.
+
+“I'm being exiled from the dwarf lands in 3 months, anyways. I'll be in the same boat as these people.” Ren said, and the gathered giants looked at him in surprise. “I have a home here. A life. A family.” He said, and sighed. “I'll be leaving most of it behind.”
+
+“Why only most?” Laurelia asked.
+
+“I'll see my fiance every day, hopefully.” Ren said. “Or mostly every day. It all depends on how things work out.”
+
+“That's... kind of sad.” She said.
+
+“Yeah.” Ren said. “I'll worry about that when I have to, though.” He said and smiled as several Warriors came over to them, and carried a dozen large crates of camping supplies, and a crate of cloth. “That's great. Thanks.” He said to them as they dropped the crates off and hurried back to the Garrison, with the healer close behind. Ren waved to her, and she nodded back to him. He dismissed the popup about the Honor gain.
+
+With that and the Honor Guard, I've gained almost 1000 honor. Ren thought. So did Lady Neram. He smiled. I probably should stop that pledge one of these days.
+
+“They all seem afraid of us.” The male giant with the inventory said when the dwarves were gone.
+
+“I'm not sure it's you; it's more of the idea of giants in general.” Ren said as he stored the crates and the workbench. Teepo? Want to go over and tell Princess, Riley, and Stacy that we're leaving?
+
+“We'll be right back.” Teepo said and flew away.
+
+“I'm glad you're all feeling better.” Ren said.
+
+“Hey, something's coming!” One of the giants said.
+
+“It's my mount and dogs.” Ren said.
+
+“Not from there.” He said. “There!”
+
+Ren turned around to see where the giant pointed, then heard a familiar howling growl that a crazy giant usually let out before it attacked. Ren looked in his inventory to pick his armor, and it was too damaged to equip. He equipped his shield and hammerpick, and several giants stepped back.
+
+“I'm sorry, but I have to activate my Fear Aura.” Ren said. “It's the only way to drive out the brain grubs.”
+
+“Go ahead.” Laurelia said. “We can take a little fear.”
+
+“Oh, it's much more than a little.” Ren said, and concentrated on his Fear Aura.
+
+“That's not too bad.” She said and smiled. “You're almost like one of... good god!” She said, and put a hand over her heart as Ren made the Connection between his shield and Dire Wolf Hooded Cloak, and activated the Screaming Terror enchantment. “What... what...” Sweat beaded on her forehead, and she looked at Ren like she'd never seen him before.
+
+“I really am sorry.” Ren said, and formed a Connection between his hammerpick and shield, then activated that enchantment, too. Laurelia gasped, along with most of the other female giants, and a lot of the men started at Ren.
+
+They remember this feeling. Ren thought as he turned around and waited until the crazy giant cleared the group of trees, then ran towards the oncoming giant. Once Ren's Aura hit it, it stumbled, and started screaming. By the time Ren got to it, the Brain Arthropod Grub had already burrowed out and the male giant was unconscious. Ren stabbed the grub with the sharp end of the hammerpick to kill it. He opened his inventory to store the grub's body, then remembered the sack he had been using was still in the center of the pit.
+
+Ren deactivated the Screaming Terror enchantments and let the Connections lapse, stored the shield and hammerpick, then put the grub's carcass into inventory without the sack. He used a Minor Healing wand on the giant's ear, then ran back to the giants from the pit. They stepped back from him, and he sighed. Even Laurelia looked like she was afraid of him.
+
+“I... I remember that feeling.” Laurelia said with tears running down her face, and knelt down to be close to Ren. “I'd never been so scared in my life.” She said, and wiped the tears away. “I don't remember much of anything else that happened, but that I remember.”
+
+“Like I said, I'm sorry.” Ren smiled sadly.
+
+“D-don't be.” She said. “You did for us what you just did for that man, didn't you?”
+
+Ren nodded. “He was far enough away that he couldn't attack me, though.” He said. “Unlike when I was in the pit with all of you.”
+
+“You were in the pit when we were all like that?” One of the male giants asked, and Ren nodded again. “How did you survive?”
+
+“Lots of luck, mostly.” Ren said. “But, I didn't survive. I died at the end when it was over.”
+
+“You're so brave.” Laurelia said.
+
+“Maybe.” Ren said. “But you're afraid of me now.”
+
+She looked like she was going to protest, then changed her mind. “Yes, I am afraid.” She said. “Not of you, but of what you can do to us.”
+
+“What do you mean?” Ren asked.
+
+“I... I was frozen stiff.” Laurelia admitted. “I think we all were.” She sighed. “Not once did I think I had to fight, or had to run.”
+
+Ren looked past her at the other giants, and they all shook their heads. They hadn't thought that, either.
+
+“Then I'm more sorry than I can ever say.” Ren said, his heart deflated. “I had hoped to have the biggest friends in the world; but, it's hard to be friends with someone that can scare you like that.”
+
+Laurelia didn't say anything in response to that, but Ren saw her response in her expression.
+
+“We should head to the campsite you've picked out.” She said, and stood up.
+
+“Can a few of you help carry him as well?” Ren asked the giants and pointed to the unconscious one. “I don't want to just leave him there.”
+
+One of the giants took the curtain and a couple of trees, and made a stretcher. They put the new giant on it, and Ren led the wary group of giants out into the wilderness when Teepo, Princess, and the two dogs joined them.

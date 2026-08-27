@@ -1,0 +1,243 @@
+---
+id: 74ea4a98-4fc3-56dd-89d6-80a4eeaca5c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 528 - You're Kidding!"
+slug: 0528-chapter-528-youre-kidding
+partOf: mythrans-master-of-all-continued-completed
+position: 528
+ownLength: 2572
+unit: words
+publishedAt: 2018-03-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199216/chapter-528-youre-kidding"
+royalRoadId: "199216"
+---
+
+“We surrender!” Dennis said again as he waved the white flag of surrender enthusiastically and hoped beyond hope that he wasn't killed immediately for his audacity. What he didn't know was that his audacity was what had saved him. Despite being within Ren's Aura and having the Ultimate Terror enchantment being pushed through it, he had managed to speak coherently. Chris and the other men in the party stood up next to their magic user.
+
+The 6 men were surrounded almost instantly, which made Dennis jump from their sudden closeness. Seeing the succubi and monsters from far away was bad enough, but having them suddenly appear around him with murderous intent, absolutely terrified him.
+
+“Tell me why I shouldn't have you killed for what happened here.” Ren said.
+
+“Ah... ah... ah...” Dennis stared up at the 24 foot tall constructs around him, at the 40 foot tall fire elemental, and at the succubi that licked their lips and half-snarled half-purred at him.
+
+“Ren.” Xuunah touched the side of his face. “You can feel their emotions. They are already intimidated enough without the menacing feelings.”
+
+“What?” Ren looked at her, and she filled him with calmness. He lost his Angered condition and smiled at her. “Thanks.”
+
+Xuunah slid her hand down and around to the back of his neck and let her hand rest there. Ren felt the warmth on his neck and took a deep breath. He ended his Controlled Berserk Rage and used Energize on himself again, as he had been doing to keep it active and shared the aura with the succubi. He also deactivated his Ultimate Terror ring and stopped pushing it through his Fear Aura.
+
+The constructs and succubi stepped back to give the party of Adventurers a little more breathing room, and the men visibly relaxed.
+
+“All right.” Ren said. “Now you can tell me why I shouldn't feed you to my friends.”
+
+“We're sorry.” Dennis said.
+
+Ren frowned at him. “That's it? You're sorry?”
+
+“We can tell you everything that happened if you want.” Chris said, and Ren nodded. “We were hired by Lord Grasham to break the wall around your county. I didn't ask why, and we were paid handsomely for it.”
+
+“We also received 5,000 Infamy for it, too.” One of the other guys said disgustedly. “Even though we weren't fighting on their side and only gave them access to your county through your wall, it was enough to be considered going against the Hero of Aurora and we were severely penalized.”
+
+“We didn't know that's who you were, though.” Dennis said. “There's so many lords and ladies around that it's hard to keep them all straight. When we heard a rumor that one of you claimed they had a dispute with another...”
+
+“We jumped on the quest without thinking.” Chris said. “We're paying for it, too.” He said. “It took us a while to gain 500 Fame as a group, and now we're at 4,500 Infamy.”
+
+Ren could feel how much that bothered them. “Is that why you started to attack the troops as well?” He asked. “Before you ask how I know, I could see everything when I was observing from above.”
+
+“Yeah, we're starting our redemption story.” One of the men said. “Just what we did here took off 100 Infamy.”
+
+“Is that what you want? To remove your Infamy?” Ren asked.
+
+“If we'd known beforehand what would happen...”
+
+“Hindsight is always 20/20.” Ren said and looked at Dennis. “You're the magic user.”
+
+Dennis nodded. “It was me that...”
+
+“I know.” Ren said. “I saw the Disintegrate scroll.”
+
+“What? How?”
+
+“Magic, obviously.” Ren said. “I'm glad I didn't have to hunt you down.”
+
+“H-h-hunt us?” Dennis whispered.
+
+“You didn't honestly think I wouldn't find out what happened, did you?” Ren asked. “Despite the good that came out of fighting this battle, for both the succubi and the pixies, it was still an unnecessary fight.” He said. “I dislike fighting needlessly.”
+
+Xuunah caressed the back of Ren's neck, and he sighed at her gentle touch.
+
+“But... I can't put all the blame squarely on your shoulders.” Ren said. “I seem to have missed a very vulnerable weakness to my defensive wall.”
+
+“Dispel Magic.” Dennis said, and Ren nodded.
+
+“I never imagined that using the spell twice would remove Permanency first and then remove the Iron Wall it was on.”
+
+“Hold on... you... you cast Permanency on the walls?” Dennis asked, and Ren felt his shock. “How in the world did you pay for all of the spells to cover the county walls?”
+
+“I didn't have to pay for them, because I did them myself.” Ren said, and the group of Adventurers stopped breathing.
+
+“Oh, god.” Chris said and hung his head. “We are so screwed.”
+
+“What do you mean?” Ren asked.
+
+“We haven't been playing that long; but, one of the first things Dennis told us was that there were certain spells that he wouldn't get until he was a really high level.” Chris said.
+
+“Permanency is one of those spells.” Dennis said, and then looked at Ren with wide eyes when he realized something. “You recognized the Disintegrate spell.” He said. “You know it, too.”
+
+Several of the guys sighed and groaned.
+
+“What are you going to do to us?” Chris asked.
+
+“I don't know.” Ren said and felt how forlorn the guys in front of him were. “Like I said before, I was just going to kill you.” He said, and felt the men resign themselves to that fate. “I'd let you go on your way after that.”
+
+“Then do it.” Chris said and looked at Zetaya. “I'll take the fire elemental route.” He said. “It might not be painless, but it will be quick.”
+
+“Succubus, please.” One of the guys said and pointed to Seldanna. “The pretty one.”
+
+Seldanna's face flushed a slightly darker red.
+
+“Well, if we can choose how we die, then I want a hug from the 6 armed metal babe.” Dennis said and looked at Symmetra. “Dying in her arms wouldn't be bad at all.”
+
+One of the guys turned to Officer Holly with a look of lust in his eyes, so she took out her sword and held it against his throat.
+
+“You guys are joking, right?” Officer Holly asked. “If he was going to kill you, he would have done it already.” She looked at the guy at the end of her sword, and saw he was going to step closer. “Don't even think about it.”
+
+The guy held his hands up and backed away, and she stored the blade.
+
+“No one needs to sacrifice themselves.” Ren said.
+
+“So you're not going to just let us go.” Chris said.
+
+“Do you really want me to?”
+
+Chris opened his mouth to say yes, then sighed. “To be honest, we could have left and gone on our way after what we did, but we came into your county to try and make a difference.”
+
+Ren looked at the constructs and Zetaya, who had done the most damage and killed the most soldiers. “Did they make a difference?”
+
+The constructs nodded, as did Zetaya, and Ren felt relief from the party of Adventurers.
+
+“Upon the advice of some of my friends, you won't be summarily executed.” Ren said with a smile, and the pixies and succubi laughed as the men visibly relaxed. “Now I just have to decide what to do with you.”
+
+A couple of the guys sighed, and Xuunah leaned in close to Ren and whispered in his ear. Ren chuckled at her idea, and when she leaned away, he looked at her.
+
+“You're not joking?” Ren asked, and Xuunah shook her head.
+
+“I think they might be just what you need.”
+
+Ren thought about it for a minute. “Well, I guess I could use them for that.”
+
+The party of Adventurers exchanged glances, and thought they were going to be used for some kind of testing. It would be a kind of test, but not what they thought.
+
+Ren looked back at them. “It seems I do have a use for you and your party.” He said. “I had planned something like this a while ago; but, I've been so busy that I just never got around to it.”
+
+“What is it?” Chris asked.
+
+“Your presence here has given me an opportunity, which I am going to extend back to you.” Ren said. “I was just reminded that it was partially my fault for what happened to you, just because I was here and presented too tempting of a target to resist. So, I'm going to make an example of you in the same fashion.”
+
+“He's going to draw and quarter us!” Dennis gasped.
+
+“I'm not going-”
+
+“You're going to hang us on the outside wall as a deterrent for others?” Chris asked.
+
+“No, I...”
+
+“You're going to cut off our hands so we can't use weapons anymore, right?” One of the other men asked.
+
+Ren concentrated on his Command Aura. “Shut up.” He said, and their mouths clamped shut. “I'm not going to maim, or hang, or dismember you. You would be useless to me that way.” He said. “What I am going to do, is sponsor you.”
+
+Their mouths dropped open in surprise, and Ren smiled at them.
+
+“I need Adventurers to go out and gather supplies for me. Mainly just ingredients, but sometimes those can only be obtained by doing quests.”
+
+One of the adventurers raised a hand, and Ren told them they could speak.
+
+“Why can't you do them?” He asked. “You're plenty powerful.”
+
+“I've only just recently discovered that I'm only getting certain quests, usually class specific ones, and not quests that are available to everyone.” Ren said. “I've also discovered that being powerful doesn't mean a whole heck of a lot to some of the people that I've met.”
+
+“You want us to be... what? Your quest emissaries?” Chris asked.
+
+“Something like that.” Ren said. “I've got a list of ingredients that are difficult to get, and I don't have the time to run off and gather them myself. So, I'll give you the list and a Running Quest to get as much and as many of them as possible.”
+
+“Wait, does that mean we won't get anything until the quest is complete?” One of the others asked.
+
+“No, a Running Quest updates constantly. The more you get, the bigger the rewards.”
+
+“I don't know.” Dennis said. “It seems like a lot of dangerous work, and we can't take more than one quest at a time. It's too hard keeping track of everything.”
+
+Ren chuckled. “Running Quests are just that. Running. You can take other quests and not worry about it, because it's going on in the background. There's no rush to get the ingredients back to me, unless you have a lot of them and want to drop them off.” He said. “Just message me and I'll come and pick them up.”
+
+“What about doing normal quests for you?” Chris asked. “What do you get out of it?”
+
+“If I wanted to be greedy, I'd ask for half of all quest rewards while I'm your sponsor.” Ren said, and he felt the instant refusal in their emotions. “You're in luck, because I'm not greedy.”
+
+The party of Adventurers relaxed.
+
+“You can keep any copper, silver, gold, and platinum coins you find. I don't need, or want, a cut of that.” Ren said. “What I do want is to examine any special items you find.”
+
+“You're going to cherry pick the good stuff.” One of the guys said.
+
+“In a sense.” Ren said. “If I can't get a recipe for an item or duplicate it's effects, I'll buy it from you for a fair price.”
+
+“But, if you're our sponsor... won't we be your employees? Won't you own anything we find anyway?”
+
+Ren shook his head. “I won't deprive you of your hard work like that.” He said. “You'll get to keep pretty much everything you find, except for the ingredients I need, or anything new you find that I may want.”
+
+“Are you crazy?” Dennis asked. “You can't be in your right mind if you're offering this kind of a deal to us.”
+
+Ren chuckled. “I haven't even told you what I can do for you as a sponsor.”
+
+“I assumed you would pay our expenses and provide or buy equipment and clothing for us.” Chris said.
+
+“That sounds about right.” Ren said. “Of course, it will all be level appropriate items, with free repairs and replacements.”
+
+“Anything else?”
+
+“Yes.” Ren said. “Do any of you have a shadow marker?”
+
+“A what?” Chris asked.
+
+Ren took one out of inventory. “One of these.” He said and held it up. He felt a spark of recognition from one of the men and looked at him. “You've seen these before?”
+
+The guy nodded. “I saw a few of them exchange hands when we were in Lord Grasham's throne room and accepted the quest.”
+
+“With your Infamy so high, you might be getting a lot of odd quests that deal with these.” Ren said. “I suggest not accepting those quests if you don't have to. If you do, come to me and tell me the quest, and then sell me the marker.”
+
+“Sell you the marker?”
+
+Ren nodded. “These markers signify an evil deed, and whenever I meet someone with them, I offer to buy them for 30 gold each.”
+
+“30 gold!” One of the Adventurers exclaimed. “That's like...”
+
+“...as if you had found a nice pair of expensive boots.” Ren finished the sentence for him and stored the marker. “So, what do you say?” He asked. “I give you all better equipment and clothing, and you go out and gather special things for me.”
+
+“We're really going to get to keep everything we find?” Chris asked.
+
+“Except for the things I can't duplicate, and those I'll buy.” Ren said.
+
+Chris exchanged looks with the other guys, and they all nodded. He turned back to Ren and held a hand out. “Then it looks like we have a deal.”
+
+Ren shook the man's hand, and didn't detect any deception from him. “I'd suggest starting right away; but, I've got a few things to do first.” He said. “What can you tell me about Lord Grasham?”
+
+“Only what we've said so far.” Chris said and let Ren's hand go.
+
+“You haven't really said anything about him.” Ren said.
+
+“Exactly.” Chris said and smiled. “You know just as much as we do about him.”
+
+“Okay, then.” Ren said and looked at everyone around him. “Princess and I will take the pixies home and then come right back.”
+
+“I want to stay with you.” Suniva said.
+
+“I can't let you jeopardize your budding wings.” Ren said.
+
+“But...”
+
+“No buts.” Ren said. “You will go home and admire yourself in the mirrors.”
+
+“I can keep them?!?” Suniva asked, and Ren nodded. “Then I'll go home, but only because you asked so nicely.” She said and stored the two 1 foot tall mirrors.
+
+Ren chuckled and looked at the other pixies. “I'll have Tee-one make pairs of them for you, too.”
+
+“Yay!” The pixies yelled and hopped around. Ren took out the open carriage and attached it to Princess, and all the pixies climbed up and sat down on the modified seats. He climbed onto Princess' saddle, and she trotted up into the sky.

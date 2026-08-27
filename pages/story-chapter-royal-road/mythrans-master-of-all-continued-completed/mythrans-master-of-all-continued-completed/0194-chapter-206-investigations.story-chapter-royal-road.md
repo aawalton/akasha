@@ -1,0 +1,723 @@
+---
+id: 459746fb-bc75-57a4-a63b-b5419e86c079
+page-type-slug: story-chapter-royal-road
+title: "Chapter 206 - Investigations"
+slug: 0194-chapter-206-investigations
+partOf: mythrans-master-of-all-continued-completed
+position: 194
+ownLength: 6867
+unit: words
+publishedAt: 2017-03-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126245/chapter-206-investigations"
+royalRoadId: "126245"
+---
+
+It hadn't taken much convincing for Denise to join the mini-exodus from the hospital. She knew that there was going to be a huge fallout from all of this, and she didn't want to get caught up in any of it. While Stella and Barbara were submitting their resignations, she took the few minutes she had alone to text Lucy. Even though Ren had told her that his relationships were none of her business, she couldn't in good conscience let Lucy stay in the dark about the situation.
+
+*
+
+Ren was on the examination table again. His head was clamped into a padded vise, and he could only look around with his eyes. He saw two people in scrubs looking at him.
+
+“Are you sure we should do this?” A young man's voice asked. “He's not even under anesthetic.”
+
+“Don't worry.” Ren's mother said. “My boy can take a lot of pain before he even starts to cry.”
+
+“But still...” The young man said. “...this procedure...”
+
+“Yes, it's invasive, but we need to set up the proper connections. How else are we supposed to get the proper readings?”
+
+The young man sighed. “Can we at least cover his eyes? He's staring at me.”
+
+Ren's mother laughed. “That's okay. He won't remember any of this anyways.” She pat Ren's shoulder. “You've become very good at blocking bad memories; haven't you, dear?”
+
+Ren tried to nod his head in agreement, but it was clamped too tightly to move. He looked at the young man and watched as a sterilized electric screwdriver was passed to his mother. He heard it whirl a few times, then felt pressure on the top of his skull. His mother was right, though. This was nothing compared to some of the other experiments he went through. He felt the drill several times in various spots, and he ignored it as much as he could.
+
+“Hand me the bone saw.” His mother said, and the electric device was loud in the practically silent room. Ren felt it jerk and pull on his skin and smiled as it dug into the bone.
+
+Ha! It'll take more than that to make me cry! Ren thought, and closed his eyes as his mother continued to work.
+
+*
+
+Lucy's phone beeped at her, and she looked at it. “Denise?” She asked herself, then read the text about Ren. Her eyes widened at what Denise had written, and she put the phone away. She finished the blood work sample she had been working on, added it to the stack with the proper paperwork, then told the staff she had something to take care of. Lucy walked calmly to the elevator and went up to the floor Ren's room was on and went to the break room.
+
+*
+
+A few minutes later, Denise was surprised that Lucy hadn't messaged her back. I really thought she cared about Ren. She looked at her phone again, then put it away just as the door to the break room burst open.
+
+“Tell me everything!” Lucy demanded to the startled Denise.
+
+*
+
+“Ugh.” Ren said as he opened his eyes. “What... ugh!” His arms were still secured to stop him from moving. He looked from side to side and realized he didn't know where he was. He started to panic and struggle against his bindings. “No! Nooo!”
+
+“Ren!” Stella exclaimed. “It's okay!” She stood over him so he could see her clearly. Ren's eyes focused on her face, and he saw the relief there. He calmed down and looked at his arms.
+
+“What... where am I?”
+
+“You're in a temporary care facility.” Stella said. “When Elise found out what had happened, she got you out of the hospital as soon as she could.”
+
+“She WHAT?!?” Ren shouted, and looked around again. He could see out the window, and there was a tree there. The window wasn't open; but he could see the leaves moving, and imagined the sound of rustling leaves.
+
+“I don't know how she managed it, either.” Stella said. “Since you're a ward of the state, I thought that they got to decide where you'd be housed and taken care of.”
+
+“Me, too.” Ren said.
+
+Stella took out her cell phone and dialed. “Hi, Elise.” “Yes, he's awake.” “Okay.” She hung up and dialed again. “Hi, Barbara.” “Yes, he's awake.” “Uh huh.” She hung up and dialed again. “Hi, Denise.” “Yes, he's awake.” “Yes, it's a relief.” “Okay, bye.”
+
+Ren looked at her with wide eyes, and she smiled.
+
+“We all agreed that whoever was here when you woke up, they would tell the others right away.” Stella said. “No matter what time it was.”
+
+Ren tried to look at his watch, and she put a hand on his arm.
+
+“It's 6 p.m. on Tuesday.”
+
+Ren looked at her in surprise. “I lost a whole day?” He asked. “What kind of pain pill did they give me?”
+
+Stella had a worried look on her face. “I don't know how to tell you this, without it giving you a shock.” She said, and put a hand on the side of his face. “Please stay calm, okay?”
+
+Ren took a deep breath and nodded.
+
+“You didn't lose a day, Ren.” Stella said.
+
+He looked at her like she was crazy. “But you just said it was Tuesday.”
+
+Stella sighed. “It's actually next Tuesday.” She said. “You've been unconscious for a week.”
+
+“Oh, god.” Ren said and closed his eyes. “A... a week. A whole week.” He opened his eyes and stared at Stella. “Do you realize what that means?”
+
+“Whatever they dosed you with hit you hard.” She said.
+
+“No, Stella.” Ren said. “You don't understand! I missed...” Tears sprang to his eyes. “I missed a month of game-time.” He looked at Stella beseechingly. “Nathalia... she... she hasn't seen me in a whole month!”
+
+“Oh, Ren.” Stella said as leaned down to touch her forehead to his. She wiped his tears away, and let him cry it out. It took about 10 minutes for him to calm down, and when he did, he asked to have the IVs removed.
+
+“We can't yet.” Stella said. “We've been flushing your system to make sure whatever it was they gave you, is out of your system completely.”
+
+Ren sighed. “How much longer will it take?”
+
+“Considering this is the first time you've been fully awake, probably another few days.”
+
+“How... how am I supposed to use the bathroom?” He asked, just as he was hit with a huge urge to do so.
+
+“The same way you've been going all week.” Stella said, and picked up what looked like a large squeeze bottle; but instead of a spout, it had a funnel like attachment. She folded down the blanket that covered him from the waist down, slid his pajama pants and underwear down, then gently placed him into the opening.
+
+“Go ahead.”
+
+Ren blinked wide eyes at her.
+
+“What?” Stella asked.
+
+“How... I mean...” Ren looked sheepish as he spoke. “It's not like I could ask when I had to go.”
+
+“Oh.” Stella said. “The first few times it was a close call.” She grinned. “Surprisingly, you go like clockwork. Once we found out your schedule...”
+
+“I... ah...” Ren looked around.
+
+“I can close my eyes if that will help.” Stella suggested.
+
+“Please.”
+
+She closed her eyes and even turned her head, and Ren let loose the flood of fluids his body was so desperate to expel. His eyes widened as the level in the bottle rose steadily; and just as he became concerned that it was going to overflow, the stream trickled down to almost nothing and he relaxed.
+
+“I'm done.” Ren said, Stella jigged him a couple of times, and set the bottle on the floor. She grabbed a baby wipe and cleaned him off, then another to clean her hands, and pulled his clothing back into place and covered him with the blanket again. Stella disappeared into the bathroom with the bottle and Ren heard the toilet flush. Water ran in the sink, then the sounds of the bottle being scrubbed, and Stella was back at his bedside with the clean bottle.
+
+“No matter how many times you tell me that you'll do anything to take care of me, it still amazes me that you do.” Ren said, and Stella chuckled.
+
+“It's just the body's normal function.” Stella said. “You know my views about that.”
+
+Ren nodded. “I know.” He tried to lift a hand to her, but it was still secured because of the IV tubes. She saw what he was trying to do, and held his hand. “Thank you.”
+
+“It's my job.” Stella said, and then it hit Ren where he was.
+
+“Wait! How is it your job? We're not in the hospital!”
+
+Stella smiled and squeezed his hand a little. “We resigned.”
+
+“W-w-we?”
+
+“Barbara, Denise, and I.” Stella said. “You need full time care, and we weren't going to let some stranger come in and take over our responsibility.”
+
+“S-Stella!”
+
+She let his hand go and ran it through his hair. “We've all grown quite fond of you.” She said. “Even just the thought of having someone else take care of you, bothered me too much to let it go.”
+
+“But.. but...”
+
+“You're wondering who's paying for it all?”
+
+Ren nodded.
+
+“Sid Tec footed the bill for the first few days; but once the law firm that took care of your case got involved, they were reimbursed for the full amount and now it's all being handled by the lawyers.”
+
+“Wow.”
+
+Stella nodded. “Uh huh. It's... well, it's all being blown open, Ren.”
+
+“What do you mean?” He asked.
+
+She sighed. “I'll let them explain.” She said, and walked over to the door to the room and opened it. “All right, he's awake.”
+
+Ren heard several pairs of shoes clack down the hallway.
+
+“He's not a hundred percent, so take it easy.” Stella admonished them. “He wants to know what's going on.”
+
+Stella stepped back and several people came into the room. Three men and two women. Two of the men wore identical suits, haircuts, and blank expressions. If Ren had to guess who they were, it would be FBI. The third man had a clean cut suit, thin hair, and was pushing 50. A police badge hung on his belt, and one of the women had one hanging around her neck. She was quite pretty, in that girl-next-door kind of way; where if she had just a touch of makeup, she'd be drop-dead gorgeous. She also had brown curly hair down to her shoulders, and if he guessed from her standing next to Stella, she was only about 5 feet tall. Ren really liked the look on her face, though. She looked like she wouldn't take crap from anyone, and he smiled at her. She had a surprised look on her face for a moment, then smiled a tiny little bit. Ren moved on to the last woman, and didn't know what her profession was. Her appearance was as nondescript as anything Ren had ever seen.
+
+“I'm Detective-” The man in the clean cut suit tried to say, and was cut off by one of the two men that had matching suits.
+
+“I believe we have priority here.” One of them said. Ren blinked his eyes and stared at them. He honestly couldn't tell which one had moved their mouths to speak.
+
+“Now listen here-”
+
+“Quiet!” Stella said to their surprised faces. “This is not a pissing contest.”
+
+Ren chuckled at her use of words, considering what he'd just done. I'd have won that contest. He thought, and Stella smiled.
+
+“You will keep a civil tongue, or you will be out of here.” Stella said. “He's gone through enough, without having to deal with your jurisdiction problems.”
+
+The detective turned to Stella. “Sorry, Ma'am. I was just going to introduce myself, and then I was rudely interrupted.”
+
+“I wasn't being rude about it. I only interrupted.” One of them said.
+
+Nope, I still can't tell who spoke. Ren thought in amazement.
+
+Stella pointed a finger at the FBI agent who spoke.
+
+“Sorry.”
+
+The detective smiled. “Like I was saying.” He said. “I'm Detective Ramirez, and this is my partner, Officer Stonewall.”
+
+Ren shifted his gaze to her. “That's a cool name.”
+
+“Thanks.” She said in a cold voice. Ren's smile grew large as he realized she was trying to act tough because of all the men in the room that had more authority than she did; not to mention they were a lot bigger than her physically. Her eyes flicked across Ren's exposed skin and traced the receding bruises, and she tried not to shiver at how painful it looked. She almost succeeded, then turned to look at Stella.
+
+“Does he have to remain uncovered like that?” Officer Stonewall asked her.
+
+“Unfortunately.” Stella said. “We're still treating the severe bruising. Plus, we'd have to remove the IVs to put anything on him.”
+
+Ren looked back at the two FBI agents.
+
+“I'm Agent Smith, and this is Agent Smith.”
+
+“You're joking!” Ren said.
+
+“The FBI never jokes.” One of them said.
+
+“You know, I've been watching you this whole time...” Ren said. “...and I still can't tell which one of you opens your mouth when you talk.”
+
+Detective Ramirez grinned and Officer Stonewall laughed. Stella shook her head and the last woman didn't even bat an eyelash.
+
+“It's a talent.” One of them said.
+
+“It's amazing, is what it is.” Ren said.
+
+“We're getting off-track.” The last woman said, with no inflection in her voice at all.
+
+“Right.” One of the agents said. “To put it bluntly, we're investigating bank fraud.”
+
+“Wh-what?!?” Ren said, surprised. “This isn't about the tarantula?”
+
+The detective raised his hand slightly. “We'll get to that part later.”
+
+Ren nodded and looked back at the FBI agents.
+
+“Someone has been stealing your settlement. For years, apparently.” The agent said. “Thanks to Ms. Stanford's help, and her very willing accomplice that works at the bank; we've apprehended the bank manager and seized all of his financial records.”
+
+“Oh, wow.”
+
+“It gets better.” The other agent said. “We've been on this all week. One of the main benefactors of the scam was Doctor Hobbard.”
+
+Ren's mouth fell open and his face drained of it's color. “No!” He looked at Stella, who nodded.
+
+“There are quite a few others, but he's the only one we've found that was directly tied to you so far.” One agent said.
+
+“What about Suzie?” Ren asked.
+
+“Who?” The agent asked.
+
+“She was his psychiatrist.” Stella said. “She isn't anymore.” She looked at Ren. “I haven't heard his version of the story yet, though.”
+
+“She's been telling someone... she wouldn't say who... all about me and the experiments my parents did to me.”
+
+“She WHAT?!?” Stella yelled.
+
+“Yeah, I pretty much reacted the same way. I was going to file a restraining order against her because of it, but... then... I...”
+
+Ren closed his eyes for a moment, and the darkness took him again.
+
+*
+
+“Dammit.” Detective Ramirez said. “I didn't even get a turn.”
+
+“He's not a toy to be passed around!” Stella said.
+
+“I didn't mean it like that.” Detective Ramirez said and held his hands up in surrender. “I meant about telling him about the spider.”
+
+“What can you tell him about it?” Stella asked.
+
+“Nothing.”
+
+“Excuse me?”
+
+“There's nothing. No sales receipt. No customs papers. No nothing. It's like it just appeared out of thin air and showed up on his doorstep.”
+
+“Well, that's disappointing.” Stella said. “We had hoped there would be some way to track it.”
+
+“There were dozens of fingerprints on the box.” He said. “None of them are in the system, except for two of the nurses.”
+
+“Which two?”
+
+“I... shouldn't really say.”
+
+“I'm his personal care giver. I need to know if they show up here.” Stella said with a glare.
+
+“One was the desk nurse.” He said after taking out a small notebook. “We interviewed her. She only touched the box to tape it back up.” He flipped a page. “The other was... here it is. Cheryl-”
+
+“NO!” Stella exclaimed. “She wouldn't!”
+
+“Wouldn't what?” Officer Stonewall asked. “Try to get revenge on the boy who got her fired?”
+
+“He did not get her fired.” Stella said. “She did that all herself, by telling everyone who he was.” She sighed. “She violated his privacy rights. If it had only been to friends or family, she might have only gotten a fine; but, she said it on national television. The hospital board had to get rid of her, just to delay the lawsuits.”
+
+“Uh huh.” Officer Stonewall said. “That's not reason enough to cause all of this?”
+
+Stella looked at her, and didn't know what to say. Just then, the door to Ren's room opened and Elise Stanford came in.
+
+“What is going on in here?” She asked heatedly, and everyone turned to her.
+
+“We were just trying to let Mr. Haddon know the situation.”
+
+“And did you do that?”
+
+“Partly.”
+
+“Then he lost consciousness again?”
+
+“Yes.”
+
+“Then why are you all still in here?” Elise asked them and looked at each person in turn. “Out. Now.”
+
+They filed out of the room to take their places in the waiting room.
+
+“They're going to stay here for as long as it takes, so they can question him.” Stella told her, and Elise sighed.
+
+“I know.” She said. “I want them to help him; but I don't want him hurt more to do it.”
+
+Stella put a hand on her arm. “He'll be fine. I think he's just exhausted.”
+
+“Exhausted? He's been asleep for a week!”
+
+Stella chuckled. “Mentally exhausted. I can only imagine the dreams he's been having.”
+
+*
+
+Ren was hanging upside down in a gravity workout machine. The one where you strap your feet in and it flips you upside down to let the blood rush to your head. He was told that if he shifted his weight, he would flip right-side up again; and his mother warned him that he was not to do that. Ren hung that way for what felt like hours, but was really only about 30 minutes.
+
+“Okay, it's time.” His mother said and came into the room with a steel briefcase.
+
+“No.” Ren said. “Nonono!”
+
+“It's okay, sweetie.” She said. “This isn't what you think it is.”
+
+Ren visibly relaxed, and she walked around behind him. He heard the case hit the table, and the clasps unlocking.
+
+“Don't worry.” His mother said. “This will only pinch a little.”
+
+“Mommy, NO!” Ren screamed as the large needle pierced the top of his neck and sent a searing pain into his brain.
+
+*
+
+“AhhhhHHHHH!!!” Ren screamed as he woke up, covered in sweat. His arms were still secured to the bed, and he went into full panic mode. “Nonononono!” He struggled hard against his bindings, and they dug into his arms. Pain lanced up his arms from the bruises running on the straps, and he struggled harder.
+
+“Ren! REN!” Stella yelled into his face as she grabbed the sides of his head to stop him shaking it from side to side. He blinked his eyes a few times, then they focused on her.
+
+“S-S-Stella?”
+
+“It was just a dream, Ren.” Stella said, and let his head go. “Just a dream.”
+
+“I think it was more of a nightmare.” Elise said, and smiled at Ren when he looked at her. She was sitting by his bedside, with her legs crossed and hands folded on her knee. She wore faded jeans and a man's dress shirt. Both were blue in color, and she uncrossed her legs to lean towards him.
+
+“How are you?” She asked in a soft voice.
+
+“That... that depends.” Ren said. “How long was I out this time?”
+
+“It's only been an hour.” Elise said. She used a hand to move some of his damp hair out of the way, and gave him a light kiss on the forehead. “I'm really glad that you're awake.”
+
+“M-m-me, too.” He stammered.
+
+Elise smiled and sat back in the chair. “Do you feel up to talking to someone again?”
+
+Ren sighed. “I guess so.”
+
+She looked at Stella. “You said that the FBI already told him that Doctor Hobbard was one of the ones taking his money?”
+
+Stella nodded.
+
+“What about the link to one of the hospital board members?”
+
+Stella shook her head. “They only said the one directly in contact with Ren.”
+
+“That makes sense, I guess.” Elise said, and looked at Ren. “They can't find Doctor Hobbard.”
+
+“Wh-what?”
+
+“When I forced the hospital board to let me transfer you here, he suddenly disappeared.” Elise said, and sighed. “It never occurred to me that your actual physician was the one stealing from you.”
+
+“But... but why?”
+
+“They won't say.” Elise said. “It's still under 'investigation'.” She said, and made air quotes with her fingers. “They haven't tied it to any of the nurses or staff, though.”
+
+“That's a relief.” Ren said.
+
+“Not... really.” Elise hedged, and looked a little uneasy. “The lawsuits against the hospital, the board, and Doctor Hobbard, are probably going to bankrupt the hospital.”
+
+“No!” Ren said. “Please, stop it!”
+
+“I didn't know this would happen, Ren.” Elise said. “I only wanted to get you out of there.” She sighed again. “The rest... with the FBI, the police, the medical review board, the IRS...” She shook her head. “It's a royal mess.”
+
+“What about the tarantula?” Ren asked.
+
+“The police think... Cheryl had something to do with it.” Stella said.
+
+“No way.”
+
+“I know.” She said. “They think she wanted revenge on you for making her lose her job.”
+
+“But, I didn't!” Ren said.
+
+“We know you had nothing to do with it.” Elise said. “It was her own stupid fault.” She looked at Ren sadly. “That doesn't mean she wouldn't hold you responsible for it, though.”
+
+“Did... did they arrest her?”
+
+“Not really.” Detective Ramirez said from the doorway. The two women glared at him, and he shrugged. “I heard you talking, so I assumed he was awake.” He smiled. “Can we come in?”
+
+They all looked at Ren, and he nodded. Detective Ramirez waved to his partner and they came into the room.
+
+“We have her in protective custody.” Officer Stonewall said.
+
+“What's that mean?” Ren asked.
+
+“It means they can hold her for a long as they want, without charging her.” Elise said, and Detective Ramirez tapped the tip of his nose.
+
+“Right now, she's our only real lead. If we charge her, she'll stop being helpful and won't tell us what we need to know.”
+
+“Like what?” Stella asked.
+
+“Like how she touched the box the spider came in, when she wasn't working at the hospital at the time.” Detective Ramirez said and grinned. “We've had a couple of avenues open for us with the information she's been providing.”
+
+“And you can't tell us where they are leading.”
+
+“It's still under investigation.” He said.
+
+Ren glanced at Elise, and saw her crooked smile.
+
+“I'd like to get your version of the story, Mr. Haddon.” Detective Ramirez said, and Ren told them everything that he remembered. They grilled him over the delivery man's appearance, how tall he was, the color of his eyes, and Ren shook his head for most of it.
+
+“I remember signing for the package.” Ren said. “That was neat.”
+
+“Why was that?” Officer Stonewall asked. Now that she wasn't trying to act tough in front of the FBI, she had lost the cold tone to her voice.
+
+“It was one of those electronic pads and a plastic pen.” Ren said. “I mean, I've heard about them; but, that was the first time I've ever seen and used one.”
+
+Detective Ramirez and Officer Stonewall looked at each other briefly, then back at Ren.
+
+“Thank you for talking with us today.” Detective Ramirez said and held a hand out for Ren to shake.
+
+“Sorry, I'm a little tied up at the moment.” Ren said, and the detective's face flushed red as he looked at Ren's bound arms. Officer Stonewall snorted a laugh, Stella covered up her smile, and Elise winked at Ren.
+
+“Ahem... ah... yes, well...” Detective Ramirez said, flustered. He had no clue how to recover from his social blunder until Officer Stonewall saved him.
+
+“Have a good day, Mr. Haddon.” She said, and nodded her head at him.
+
+“I think I just did.” Ren said and grinned at her. She smiled a little bit and tugged on her partner's arm.
+
+“Let's go, John.”
+
+“Yes, good day.” He nodded to them and the pair left the room. When the door closed, they waited for a minute, then Elise, Ren and Stella burst out laughing.
+
+“Oh, that was a good one, Ren!” Stella said a few seconds later. “I think he was about to have a stroke!”
+
+Ren's laugh dropped to a chuckle. “I know! The look on his face!”
+
+“I think you two are a bad influence.” Elise said as she calmed down. “Even Officer Stonewall enjoyed that.”
+
+Ren grinned at her. “Did you notice how much nicer she was when the feds weren't in the room?”
+
+Elise nodded. “She's got a big chip on her shoulder.”
+
+“Should I get the FBI?” Stella asked.
+
+“There's no need.” One of the agents said as he came in the room. “We are here.”
+
+They proceeded to ask Ren a bunch of questions, a lot of which didn't have anything to do with what he thought were pertinent details. When they were done and went to leave the room, he spoke up.
+
+“Before you go, what was with all the random questions?” Ren asked. “I'm just curious.”
+
+“They're sanity checks.” One of them said. “We always ask random questions, so that you aren't concentrating too hard on the ones we want you to answer.”
+
+They left the room and shut the door.
+
+*
+
+“You aren't supposed to tell him that.” Agent Smith said, once they were outside.
+
+The other Agent Smith shrugged. “No one's ever asked us about it before.” He said. “I thought it deserved an answer.”
+
+“You're not supposed to feel sorry for him.” The first one said. “We're working.”
+
+“I don't feel sorry for him.” The agent smiled, completely breaking the characters they had created. “He just seems like a smart kid. He knew we were playing him a little.”
+
+“Okay, I'll give you that.” The first one said as he got in the standard car issued to agents in the field. “Do you think he'll guess that other woman is CIA, and not an IRS agent?”
+
+“I'd bet you 10 bucks he does.” The other said as they pulled out of the parking lot. “But it's not like we can ever confirm it.” He smiled again. “Either he does, and when we ask, he'll know we knew; or he doesn't and will find out when we ask, and he'll also know we knew.”
+
+The first agent laughed as they took the corner and sped out of sight.
+
+*
+
+The woman the FBI agents were talking about sat beside Ren. Unlike the others, she insisted on sitting while she conducted her interview. Just like the FBI, she asked Ren a whole range of questions, and almost nothing that pertained to the IRS. After one particularly stupid question about which tax forms Ren fills out, he looked at her with his head tilted slightly to the side.
+
+“How long have you worked for that other three letter agency that I won't name for security reasons?”
+
+“Wh-what?” Surprise had pulled her out of character, and she looked at Stella and Elise quickly, then slipped back into character. “I don't know what you're talking about.” She said and tapped the little badge she had on her jacket. “I work for the IRS.”
+
+“Uh huh.” Ren said and looked at Elise. “Elise, would you be so kind as to ask this delightful lady something only a real IRS agent would know?”
+
+*
+
+“Oh, crap!” The agent in the van said. “She's blown!”
+
+“Not yet.” The tech guy said. “Let's hear the question first.”
+
+*
+
+Elise grinned. “I was supposed to file a normal 1040 last year, but I made a mistake and filed a 1040NR. I was late with the payment return, mainly because of the wrong initial form. Should I file an 8814 to correct the problem, or a 4868?”
+
+*
+
+“We're screwed!” The agent said.
+
+“Nicole, don't answer!” The tech guy said. “Give me a minute to look it up!”
+
+*
+
+Nicole sat there in silence as the tech guy tried his best to find the answer.
+
+“Oh, come on.” Elise said. “That was an easy one.” She shook her head. “Why would you even pretend? Is it a test for you? For your team?” She looked at the window and tried to see the parking lot. “Please tell me you don't have a panel van out there.”
+
+*
+
+“Yeah, we're blown.” The tech guy said as he looked up the information. “She's right. It was an easy question.” He sighed. “You wouldn't file either of those forms to correct it.” He said. “The first is a child income supplement form, and the second is a 6 month extension on payments.”
+
+*
+
+Nicole sighed. “Okay, fine.” She said. “I'm not with the IRS.”
+
+“Why not just say so?” Ren asked. “It's not like I'd say no if you want to ask questions.”
+
+“We're supposed to be covert.”
+
+“You've had a week to prep.” Elise said. “It would have been smarter to get an actual IRS agent and put a wire on them.”
+
+“The agent pulled out at the last minute.” Nicole said. “I had to fill in.” She looked at Ren. “How could you tell?”
+
+Ren chuckled. “You used the same questioning technique as the FBI agents.”
+
+“Well, damn.” She said and stood up. “I'll be going then.”
+
+“Why?” Ren asked.
+
+“If you know I'm not real, then...”
+
+“Do you see anyone else in this room?” Ren asked her, and she shook her head. “Then only we know, right?”
+
+“What are you saying?”
+
+“Help us get to the bottom of this.” Ren said.
+
+“If there's one thing that people fear more than the FBI...” Elise said and smiled. “...it's the IRS.”
+
+“So, stop beating around the bush.” Stella said. “Ask the questions you want to ask.”
+
+Nicole sat down, and grilled the three of them about everything that she could think of. Everything was recorded, so she wouldn't have to come back and have them repeat anything.
+
+“I think that's everything.” Nicole said.
+
+“Good.” Ren said, and yawned. “I need more sleep.”
+
+“Thank you.” She said and stood up. “All of you.”
+
+“Catch these people.” Stella said. “That will be thanks enough.”
+
+Nicole nodded and left the room, then the facility. She climbed into the white paneled van that was standard issue for undercover missions, and it drove away.
+
+*
+
+“That was interesting.” Elise said. “So at least we know there's a couple of the three letter agencies looking into things.” She looked at Ren. “Was that yawn for show, or are you actually tired?”
+
+“Both.” Ren said. “It got her out of here faster, but I am tired.” He looked at the VR headset that was on a rollaway table just like the one he had at the hospital. He closed his eyes and sighed.
+
+“It's okay.” Elise said.
+
+“No, it's not.” Ren said, opened his eyes and looked at her. “I've been out of the game for a month.” He shook his head. “I don't think Nathalia will ever forgive me for that.”
+
+“Oh, I wouldn't worry about that.” Elise said.
+
+“Why not?” Stella asked. “He hasn't been able to keep the store stocked, either.”
+
+“The store!” Ren exclaimed. “I totally forgot about that!” He sighed again and let his head drop to the pillow. “Boy, I really messed things up for myself.”
+
+“Ren, everything is fine.” Elise chuckled. “Your familiar... T1 wasn't it?”
+
+Ren nodded and looked at her.
+
+“He's been keeping the orders going, and Nathalia has been bringing them across through her portal.” Elise said, and leaned in close. “That was a smart move on your part.”
+
+Ren sighed. “What about the restaurants?”
+
+Elise laughed. “It's making more money than your store.”
+
+“W-what?!?”
+
+“That's why I told you not to worry.” Elise said. “Nathalia's been very busy, and she knows you're an Adventurer. She's going to be worried sick over how long you've been gone; but she'll forgive you, especially if you tell her what happened.”
+
+“I can't tell her what I'm like out here.” Ren said.
+
+“You don't have to.” Elise said. “Just explain that other Adventurers drugged you and held you captive.” She smiled. “Then see how long it takes for her to forgive you.”
+
+“Can... can it really be that easy?” Ren said, his voice full of hope.
+
+“I guarantee it.” Elise said. “I can also guarantee that your sentence of working in the mines was paused while you were out of the game.”
+
+“Wh-WHAT?!?”
+
+Elise ran a hand through his hair absently. “The game automatically pauses things like mandatory jobs and things if you're out of the game.” She said, then smiled. “You've been doing so well in the game that I keep forgetting your character didn't get a help guide.”
+
+“Me, too.” Ren said. “I can look up some things; but, it's a complete blank when I look for stuff for me personally.”
+
+Elise nodded. “I'll have one of the tech guys edit one of the basic guides for you.”
+
+“Thanks, Elise.”
+
+“Oh, Ren.” Elise said as she kept touching his hair. “It's no trouble.”
+
+“Not just for that.” Ren said. “Thank you for everything that you've done.”
+
+Elise opened her mouth to speak and Ren shook his head.
+
+“Don't you dare say that it was no trouble.” He said, and smiled.
+
+“Okay, then. I won't say it.” Elise laughed.
+
+Ren looked at Stella. “Is there any chance I could have a sponge bath?” He asked. “I've been laying in these sweaty clothes for a while.”
+
+“Of course.” Stella said. “I'll get everything ready, and be back in a few minutes.”
+
+“Thanks.” Ren said, and looked at Elise. “Um... ah...”
+
+“Yes, Ren. I'll step out of the room while you get cleaned up.”
+
+“Thank you.” Ren said.
+
+“I'm tempted to get you to promise that you'll let me give you a sponge bath some day... or a regular bath... or a shower...” Elise grinned as Ren's face flushed red, then she stood up. “...but, I'd rather do this instead.” She leaned over him and gave him a gentle kiss on the lips. It only lasted for a brief moment, then Elise leaned back. “See you in a little while.”
+
+Stella came back with a water basin, cloth, sponge, and soap, and Elise nodded to her and left the room. Ren stared at the closed door, and Stella chuckled.
+
+“What's so funny?” He asked as he looked at her.
+
+“I'd say you not knowing how to handle a pretty woman that just kissed you.” Stella said.
+
+“But... but I don't know how to handle it.” Ren said. “I mean... I've only had one girlfriend, and she was my nurse first.” He sighed. “What the hell do I do?”Stella laughed as she put a big towel under Ren, and lathered up her hands. “You don't have to 'do' anything.” She looked at his arms. “This is going to hurt.”
+
+“A lot.” Ren said and grit his teeth. “Go ahead.”
+
+Stella gently rubbed his arms to get them clean, and kept well away from the IV needles. “Elise seems to be taking things slowly; so you only have to let her make the moves.” She moved on to his upper arms, and Ren winced. “Sorry.” She said, and moved on to his shoulders.
+
+“What if I want to make a move?” Ren asked, as Stella rubbed lather over his chest.
+
+“Do you?”
+
+“I... don't know.” Ren said, and looked at his arms. “Well, it won't be for a while.”
+
+Stella smiled. “You don't really need your arms to make a move.”
+
+“Then what...”
+
+“You can tell her how pretty she is, or how smart she is, or how nice her humongous boobs are.” Stella said and grinned.
+
+Ren laughed and shook his head. “I can't believe you just said that.”
+
+“Don't tell me you wouldn't enjoy getting your face mashed between them.” Stella said. “It's like every man's dream to use large boobs like pillows.”
+
+“Okay, I won't tell you.” Ren said, and Stella tickled under his arms a little bit. “Do-don't.” He said and laughed. “My... my arms are tied.”
+
+“Oho! You can't get away from my magic tickling fingers!” Stella said, and wiggled her fingers in front of his face.
+
+“No, don't!” Ren said, and she stuck a single finger under each pit and wiggled them. Ren laughed, and she wiggled her fingers to make sure his underarms were clean, then she stopped.
+
+“Hoo... hoo...” Ren took several breaths. “You could have used the cloth or the sponge!”
+
+“Where's the fun in that?” Stella laughed as she dried her hands off, then moved the blanket out of the way and undressed his bottom half. She lathered him up and made sure she got every spot, from his waist to his toes. Stella used the basin and cloth to rinse and wipe him off, then used the towel to dry him.
+
+“What color today?” She asked as she went to the closet.
+
+“Blue.” Ren said, and Stella brought over the blue silk-like pajama pants, then went to the dresser and picked out the matching underwear.
+
+“Are you going into the game?” Stella asked, and Ren nodded. She took out a foil packet from the rollaway table and stimulated him with her hand a little bit; just so she could apply the foil packet's contents easier. It was for his protection, after all. She slipped the underwear on him after that, then his pajama pants, and folded the blanket up and over him up to his waist.
+
+“You're awesome.” Ren said, his voice full of amazement. “You know that, right?”
+
+“Yep.” Stella said and grinned. “You can keep reminding me, though. It's always nice to hear.”
+
+Ren laughed, and Stella went to the door of his room. Elise came in and they talked about what was going to happen, and what needed to happen.
+
+“This really is only a temporary care facility.” Elise said. “We have to find somewhere to keep you permanently.”
+
+“That's easy.” Ren said. “I'll buy a house.”
+
+“Wh-what?” Stella asked, surprised.
+
+“I wasn't going to stay in the hospital for the rest of my life.” Ren said. “I didn't think I'd be leaving it in such... ah... spectacular fashion.”
+
+Stella snorted a laugh.
+
+“I also figured I'd be a lot older when it happened; but, I'm at this point now. All I can do is move forward.”
+
+“That's very mature of you.” Elise said.
+
+“It's also realistic.” Ren said. “It'll have to be a half-decent size, though.”
+
+“Why's that?”
+
+“I really liked my bathroom at the hospital.” Ren said. “I doubt I can afford the same contractors that did it, though.”
+
+“You didn't even look at the checks, did you?” Elise asked, and Ren shook his head. “You won't have to worry about anything for a long time, Ren.”
+
+“That's good.” He said. “We can look at some properties tomorrow.”
+
+“I have to work.” Elise said. “I'd like to be here; but, I took last week off to be here for you.”
+
+“You... you were here all week?” Ren asked, surprised.
+
+“Of course I was.” Elise said. “I had to make sure you were okay.”
+
+Ren looked down at his hand, and Elise looked, too. He wiggled his fingers, and she smiled as she took his hand. Ren looked at Stella, and she put her fingers in her ears and turned around. He smiled and looked at Elise.
+
+“I can't thank you enough for taking care of me.” Ren said. “I don't know why you like me so much, with you being such a beautiful woman, and me being... well, me.”
+
+“You just answered yourself.” Elise smiled. “You're you, and that's all you can be.”
+
+Ren glanced at Stella, and smiled. “My arms aren't available right now, so I can't hug you like I want; but, someone told me that I didn't need my arms to make a move on you.”
+
+“Is that what this is?” Elise asked coyly, and squeezed his hand slightly.
+
+“I have no idea.” Ren said. “I've never done anything like this before.”
+
+“Then yes; telling me that I'm beautiful and holding my hand, counts as a move.” She said.
+
+“Did it work?” Ren asked.
+
+“You tell me.” Elise said as she bent over, and her flowing red hair fell over both of their heads and concealed them from sight. Ren's eyes widened as she kissed him like she had wanted to kiss him, ever since the first time they'd met.
+
+Oh, my! Ren thought, as Elise's soft lips locked onto his.

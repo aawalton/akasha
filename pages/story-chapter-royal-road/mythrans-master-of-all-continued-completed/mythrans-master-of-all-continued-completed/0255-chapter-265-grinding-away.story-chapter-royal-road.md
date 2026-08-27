@@ -1,0 +1,265 @@
+---
+id: 80ea8ecd-0c1b-555f-a455-5e9833d15760
+page-type-slug: story-chapter-royal-road
+title: "Chapter 265 - Grinding Away"
+slug: 0255-chapter-265-grinding-away
+partOf: mythrans-master-of-all-continued-completed
+position: 255
+ownLength: 3268
+unit: words
+publishedAt: 2017-05-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138946/chapter-265-grinding-away"
+royalRoadId: "138946"
+---
+
+Ren and the dwarves discussed the best places to set up the Automatic Ballistas. The dwarves were surprised at first, that Ren would even consider asking them their opinion; but, once they started talking, they realized he really wanted their input. Their lives were on the line, and if they didn't like how things were, it wouldn't help the situation at all.
+
+They eventually decided on spacing the 7 Automatic Ballistas a hundred feet apart, so they spanned an arc 600 feet across. The field of fire ended about half a mile out from that. Since the moat around the giant camp was a full circle, they'd positioned the artillery weapons on one-third of that circle, and the field of fire expanded out from there. If they were quick, each Ballista could turn slightly and shoot anything within that range that any other Ballista could shoot at.
+
+Ren ran out to just within the half mile mark and built a 25 foot tall wooden stand. He covered it in white fabric, then used black fabric to cut out a figure the size of a giant and quickly tacked it to the fabric. It could be shot a bunch of times and not be destroyed, or have to be repaired like a wooden target would be.
+
+Ren ran back to the dwarves and told them all about the Ballistas, how they worked, and how they were modified. If anything went wrong, they were to tell him immediately so he could fix them right away. The dwarves were eager to try it out, and he told them they could each shoot up to two shots. He thought they'd try and fight over who got to shoot first; but they lined up calmly behind his Ballista and waited.
+
+“Now, I made the target intentionally off-center, so you have to move the Ballista slightly to use it.” Ren said. “Aim carefully, then shoot. I'm assuming you need a ranging shot, so that's why you can shoot twice.”
+
+The dwarves nodded slightly.
+
+“Once the fighting starts, though... you're going to be shooting on the fly. You won't have a long time to aim. You might have to move it, or you might just be able to sit there and unload.” Ren smiled. “We won't know until the battle what will happen.”
+
+“I know what'll happen.” The first dwarf said as he stepped up to the Ballista. He shifted the end slightly to use the sights, lined up on the target, and pulled the trigger. The 6 foot long metal tipped bolt shot out, flew across the distance, and went right through the chest of the target.
+
+“We're gonna kick their giant asses.”
+
+“Yeah!” “Ha ha!” “That's my partner for you!”
+
+The dwarf adjusted the lift crank half a turn, then fired again. The bolt went right through the head of the 'giant', and he turned the lift crank back down to where it was, and moved the back slightly off-center, so the next dwarf would have to adjust it for himself.
+
+Ren nodded to the dwarf, who stepped back to let the next dwarf take his two shots. The same thing happened with him, and then with each of the other dwarves. By the time the last dwarf shot, Ren was grinning from ear to ear.
+
+“The Commander wasn't kidding when he said you guys were the elite fighters.” Ren said. “I'm really glad you came along.”
+
+“So are we.” One of them said. “We're the first to use these awesome weapons in actual battle!”
+
+“It's the first full scale battle against giants.” Ren said. “We needed giant weaponry.”
+
+“Let them come.” The same dwarf said. “They are not getting to our land!”
+
+“Yeah!” “Kill them all!”
+
+“Keep watch. I've got to gather the expended bolts, and then get some food to the giants in the camp.” Ren said. “Take your positions!” He ordered.
+
+They saluted him and ran to their designated artillery weapons. He nodded slightly at their quick hustle, and then ran out to the target.
+
+Stat Change!
+
+Running Level 5 (Intermediate 0%)
+
+When Ren got to the target, he saw that most of the chest and the head of the target was gone. He stored it and ran around to gather the bolts that had been shot. Nearly all of the shots were just beyond the target, and were sticking up out of the ground. He didn't even have to deactivate the early warning enchantments to gather up the 40 bolts.
+
+Ren repaired each of the bolts before he stored them, then ran back to the defensive line. He reloaded the cartridge of the Ballista that had fired them, and then went to the medical tent. He told Deresdra, the healer, that he was going into the camp to give the food to the giants.
+
+“Do you want me to come with you?” She asked.
+
+“That's not necessary.” Ren said. “Unless I come across someone that's hurt.”
+
+She nodded slightly, and he turned around to leave. She grabbed his arm, and he stopped moving.
+
+“Thank you.” Deresdra said.
+
+“For what?” He asked.
+
+“You didn't have to include me in on this quest.”
+
+“You voluntarily put yourself in more danger than the rest of us.” Ren chuckled. “The least I could do was give you a share of everything.”
+
+“You're a really nice guy.”
+
+“Please tell me you're not just realizing this now.” Ren said half-jokingly, and she blushed.
+
+“I... I thought... you... um...” Deresdra stammered.
+
+“You're not the first person to assume this is all just an act.” Ren said and sighed. “You probably won't be the last, either.”
+
+Ren left the medical tent and walked over to Princess. “I'm sorry, I should have unhooked you before.” He said, and undid the attachments, then stored the cart.
+
+You were busy. Princess thought to him.
+
+“I still am.” Ren chuckled, pat her neck, and told her she could run around; but, she should stay within the half mile of the warning enchantments. Princess huffed, nodded slightly, then turned away. She started to trot, then went faster, then she went all out and took off.
+
+“By the GODS!” One of the dwarves said. “She runs like the wind!”
+
+Ren laughed and walked over to the moat. I have a spell for this. He thought and took out one of the Level 2 Web wands that he had. He absorbed the charges from it, loaded it with the Bridge spell, then examined the wand.
+
+Wand Of Spanning
+
+A Bridge spell creates a 5 foot wide stone bridge that is 1 foot thick, and arches slightly over a distance of 20 feet, and merges itself into the surrounding area. The distance can be increased to double it's size, but the bridge will only be half as wide and have a much higher arch.
+
+Range: Short (Within 25 feet).
+
+Time Limit: 5 minutes (Level 2)
+
+Ren used the wand to create the 20 foot long bridge, and a 5 foot wide bridge appeared in front of him. He ran across it into the giant's camp, and switched his concentration to his personal Aura. He saw that several giants were up and around, and ran to the middle of the camp. Laurelia was at the cooking area, and was reheating the last of the food.
+
+“Ren!” She exclaimed as she saw him. “I'm so glad you're here!”
+
+“Me, too.” Ren said. He walked over to her, took a deep breath, and thought giant size and I'm giving it to Laurelia over and over, and took out several sacks of potatoes. They popped into existence at the proper giant scale, and Ren almost jumped for joy. He knew it would work for money; but, he wasn't sure he could scale the food to that size himself.
+
+Laurelia nearly cried as she saw the sacks of potatoes appear, and stopped herself from picking Ren up to hug him. Ren, unaware of her thoughts, proceeded to take out sacks of vegetables, fruits, and half a dozen already skinned and prepped ram carcasses that were ready to be cut up and cooked.
+
+“Oh!” Laurelia said as a tear escaped her eye, and didn't fight her urge anymore. She reached down, picked him up gently, and tucked him in close to her chest. “Thank you so much!”
+
+“Y-you're w-welcome.” Ren said, and wasn't sure what to do. One of her hands was on his back, and the other held him under his butt. His head was over her shoulder, and his upper body was between her breasts. He really liked hugs, though; so, he tried to hug her neck. It was a little awkward; but, Laurelia didn't seem to mind that. After a few moments, she started to shift; so, he let her neck go and she put him down on the ground.
+
+“We'll get this made up right away.” Laurelia said, and motioned to the large table. There was already several giants there chopping up the vegetables, and one started cutting up a ram carcass.
+
+“Fresh fruit!” One of the men said, and grabbed one of them. A wooden spoon smacked his hand and he pulled it back. “Dammit, woman! That hurt!”
+
+“You have to wait for the youngest to eat first.” She said. “Pallida? Come on out, dear.”
+
+A young woman came out of the nearest tent when she heard the woman call to her. She looked rail thin, and walked slowly over to the table. Ren could hear her take in a lungful of air, and a smile spread across her face as she picked up a piece of fruit and bit into it. She moaned as she chewed, and a bit of the juice ran down her chin.
+
+“What am I going to do with you?” The woman said and laughed as she wiped off the young woman's face for her. The young woman grinned and took another bite. The man slipped a hand into the bag of fresh fruit and picked up two of them. No one said anything to him, so he bit into one and walked over to sit in front of another tent.
+
+“Is there anything wrong with her?” Ren asked Laurelia.
+
+“Not really.” Laurelia said. “Once food is a day or two old, she can't stomach it for some reason.”
+
+“I didn't realize that.” Ren said and looked at the food. “Should I have things sent here every day?”
+
+“No.” Laurelia said, as the woman slipped several potatoes and pieces of fruit into her pockets when she thought no one was looking. “Her mother has things under control for now.”
+
+“Laurelia.” Ren said. “Should we tell them about...”
+
+“No.” Laurelia said. “They might... ah... interfere.”
+
+Ren nodded, because he knew what she meant. They would try to stop Ren, and not their own people; despite the fact that their people wanted to kill them, and Ren wanted to save them.
+
+“I better get back.” Ren said. “I'll see you later.”
+
+“I hope so.” Laurelia said. “If I don't...”
+
+Ren smiled. “I'll make sure to come and see you afterwards, just so you'll know it's over.”
+
+Laurelia put her hand beside him, then stroked his face with the tip of her finger. “Good luck.”
+
+Ren put a hand on her finger and gave it a little squeeze. “Tell people I'll be back this afternoon to clean and repair their clothes.” He said, then left the cooking area in the direction of the Garrison. He didn't want people to follow him out the other way because they would see the defenses easily.
+
+Ren ran around the moat all the way to the side that the defense line was set up on, and picked a spot opposite the medical tent to take out his forge and smelter. He was amazed that he could fall, turn upside down, and even tumble; and yet, nothing in his inventory spilled, messed up, or mixed together. The smelter was still full of molten metal, and Ren looked at his skills. He concentrated on his Command Aura, and received a popup.
+
+Stat Change!
+
+Command Aura Level 6 (Expert 0%)
+
+What's next? Ren asked himself. Ah, Elemental Grenades. He smiled, and ran a few hundred feet out and took the giant target out of inventory. He repaired the fabric, ran back 50 feet, and used the Elemental Grenades ability while thinking about Wind. Two small Mana balls appeared in his hand, and he tossed them up to the top of the target. When they got to within 5 feet of the top, they exploded in a 10 foot blast of Wind each. It hit the target, made several tears in the fabric and did some light damage. He repeated this several times, until he received a popup.
+
+Stat Change!
+
+Elemental Grenades Level 2 (Beginner 0%)
+
+It looks like I get about 10% every time I use it at the Beginner stage with the bonuses. Ren thought, generated Elemental Grenades 10 more times and confirmed his estimation when he received the next level popup. For the next 5 minutes, all he did was toss Elemental Grenades at the 25 foot tall target. When he reached Level 5, it gave him another grenade, and he had to use a Major Healing Wand to get his Mana Pool back to full. He continued on for another 5 minutes and stopped when he received the popup he was waiting for.
+
+Stat Change!
+
+Elemental Grenades Level 1 (Intermediate 0%)
+
+You can now generate four (4) elemental grenades at a time, and they do double damage.
+
+Ren heard a rustling sound from the bushes 50 feet away, then he heard clomping hooves. He turned around to watch Princess as she passed by, and the small furry creature that had been hiding in the bushes decided it couldn't take any more. It ran faster than Princess as it sped away out into the wilderness.
+
+Ren turned his head to look at whatever it was, and Princess stuck out her tongue as she ran by and licked his face.
+
+“Hey!” Ren said and laughed. “No fair! I wasn't even looking!”
+
+Princess brayed laughter as she followed the furry creature. Ren wiped his face off and looked at his skills again.
+
+“Who said I only have to do one skill at a time?” He said out loud, and made a table for himself. He took out piles of items from inventory; amulets, wands, and a crate of diamond crystals. He activated Enchanted Eyes that let him see enchanted items glow, and the whole table of items lit up. He picked up a Web wand and examined it. He dismissed the popup of the description, then received another.
+
+Stat Change!
+
+Identify Level 4 (Intermediate 0%)
+
+It must have been close to leveling already. Ren thought, and used Appraisal on it. He stored it and picked up the next wand, identified and appraised it, and stored it. He cleared off the table, then moved on to the crate of diamond crystals. He did the same thing to all of them, and didn't stop until he had leveled up both Identify and Appraisal.
+
+Stat Change!
+
+Identify Level 5 (Intermediate 0%)
+
+Appraisal Level 7 (Intermediate 0%)
+
+Ren looked around and saw that all the dwarves glowed, as well as the steel squares he'd enchanted. He grinned, stored the crate of crystals and the table, then ran around the moat twice. He even saw all of the steel squares he'd tossed into the trench to create the moat. When he made it back to the defense line, he'd leveled up Enchanted Eyes to Beginner Level 8 and Running to Intermediate Level 6.
+
+My Hold Breath skill is only Beginner Level 2! Ren thought in surprise when he checked his skill list. In a stroke of inspiration, he ran over to the moat and stuck his head into it. He stayed there for a couple of minutes, and stared at the glowing steel squares, and activated both Decipher and Read Rune. He wasn't sure if that would work, since he knew the runes in the glyphs already; but, figured he should use as many skills as he could before he lost the SPECIAL bonus. He couldn't hold his breath anymore, pulled his head from the water, took a deep breath, and stuck it back in.
+
+Ren had to use a Major Healing wand to refill his depleted Mana Pool. Iron Grip! He thought, and took out one of the small gold bars he'd made before coming to the dwarf lands. He held it in front of his face in the water and enchanted it with a glyph of Illumination. It glowed because of his Enchanted Eyes and he saw the runes in the glyph because of his Decipher skill; but when he checked the Read Rune description, it was only for unknown runes. He deactivated that skill and used Iron Grip on the gold metal.
+
+Ren crushed it easily, took out his blacksmith hammer, and repaired it. The enchantment was no longer on it because it had been so damaged; so he enchanted it again, waited a moment, then crushed it. He couldn't hold his breath anymore, so he pulled his head out of the water, and then gasped for air.
+
+Stat Change!
+
+Hold Breath Level 3 (Beginner 0%)
+
+Ren grinned, took a deep breath, and plunged his head and hands back into the water.
+
+*
+
+“What... what is he doing?” One of the dwarves asked.
+
+“I dunno.” His buddy said. “Maybe he's trying to breathe underwater.”
+
+“Ha! That's crazy.” The dwarf said. “No, I think he's trying to hurt himself.”
+
+His buddy laughed. “We just watched him throw... what? A hundred or so wind bombs at the target?”
+
+The dwarf nodded.
+
+“There's lots of easier ways he could hurt himself.”
+
+“I'm going to go get the healer.”
+
+“Suit yourself.” His buddy said. “But I'll bet you first shot that he's going to laugh in her face.”
+
+“You're on!” The dwarf said excitedly and ran over to the healer.
+
+“Sucker.” His buddy whispered. “Can't he hear Ren laugh when he sticks his head up?”
+
+*
+
+Ren continuously used Iron Grip and Metal Repair while holding his breath, and had just gotten Hold Breath up to Level 4, when he felt someone tug on his cloak. He pulled his head out of the water, shook it out, and turned to see who it was.
+
+“Yes?” Ren said as he saw Deresdra standing behind him.
+
+“Are you trying to kill yourself?” She asked, and Ren laughed.
+
+“No, Ma'am.” Ren said. “I'm trying to make it easier to hold my breath.”
+
+Deresdra blinked her eyes at him a few times, shook her head, and walked back to the medical tent.
+
+*
+
+“Aw, damn.” The dwarf said.
+
+“I told you.” His buddy said. “I get first shot.”
+
+“All right, fine.” The dwarf said. “I was wrong.”
+
+His buddy grinned. “By the gods, I can't wait to fire this thing on full automatic!”
+
+“Only the first 50 shots!” The dwarf said. “We're splitting, remember?”
+
+“I might forget in the heat of battle.” His buddy joked.
+
+“You better not!” The dwarf said. “I'll never forgive you if you take all the Honor.”
+
+His buddy laughed. “Don't worry, my friend. By the time this is over, we're all going to have lots of Honor.”
+
+*
+
+Ren dunked his head and arms back into the water. Once I get Hold Breath up to Intermediate, I'll do something else.
+
+Stat Change!
+
+Iron Grip Level 3 (Intermediate 0%)
+
+Enchanted Eyes Level 1 (Intermediate 0%)
+
+Sweet! Ren thought and kept working. This SPECIAL bonus is freaking awesome!

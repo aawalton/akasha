@@ -1,0 +1,195 @@
+---
+id: 761f37bb-40e8-5609-ad9e-35fb89021674
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110 Future"
+slug: 0116-chapter-110-future
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 116
+ownLength: 2114
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3792209/chapter-110-future"
+royalRoadId: "3792209"
+---
+
+When Talia unfurled the parchment flat on the table before him, Lucien's attention was immediately drawn toward the center of the mechanism.
+
+The framework itself was one thing.
+
+It was what lay within that made him stare.
+
+Bundles he had vaguely described had been drawn inside the frame...but the supporting brackets and anchor points went far beyond the explanation he had given.
+
+His eyes shifted toward the notation written neatly beside them. "...Torsion? I am assuming you told her that term, Talia?"
+
+She gestured toward the twisted bundles. "She kept calling it a vertical crank, so I decided to come up with a name for it on the spot."
+
+"Since you already named the bolts for the crossbows, I figured it should be my turn this time. Otherwise people might start asking questions."
+
+Lucien gave an absent nod, his gaze fixed on the drawing. "Did she consult Harlon or Joren for this?"
+
+He wasn't particularly surprised when Talia shook her head. "Not that I know of. And before you ask, I only came up with the names for several of the parts when she asked for suggestions."
+
+She shrugged in a rare display of uncertainty. "I was barely involved in the whole process."
+
+Lucien rested his hands on the table. "How long did she take to draw this? I had only described it to her the night before I left."
+
+Talia remained unusually quiet for a moment before finally muttering.
+
+"She finished it before your letter arrived, Senior."
+
+A chill ran down his spine as he stared at her. "...What? That could not have been more than a week after I left."
+
+"She left that drawing in your room after the fifth day, I kept track of it." Talia scratched her head, her eyes still fixed on the parchment. "Senior...she only worked on it at night. In the day, she was doing her usual duties around the manor or helping the scribes."
+
+Lucien's gaze lowered to the parchment between them once more.
+
+The speed alone would have been remarkable. Combined with the level of detail she had somehow captured...
+
+"Did she happen to talk about the process while she was drawing it?" he asked after a moment.
+
+Talia leaned forward, resting her hand on her chin. "That's the thing. When I asked her about it, she mentioned how the torsion springs reminded her of the sluice gate that she had drawn."
+
+"To put it in her words, 'I imagined how it would look if the water gate was lying flat and in the shape of a giant crossbow...' "
+
+A slight frown formed on Lucien's expression. "Is her blessing somehow filling in the gaps using knowledge she already had?"
+
+His eyes lowered in thought. "When she first drew the crossbow back then, Harlon and Joren had to correct some of her mistakes. But those corrections had lessened as time went on."
+
+"...If I recall correctly, I don't think Joren even had to say anything about the windlass crossbow or the water gate drawings."
+
+Talia shook her head. "I don't think she even understands the concept, Senior. When I tried asking her to explain what a torsion was..."
+
+She let out a breath, looking slightly unsettled. "It sounded less like she understood the mechanism and more like she was describing a picture she could see."
+
+For a moment, the two of them stared at the drawing between them.
+
+Lucien shook his head. "We will have to continue to observe for now...and perhaps we should consider telling her sometime soon."
+
+"...Are you sure? What if it affects her the way Sera's blessing did, Senior?" Talia asked quietly, concern evident on her face.
+
+He exhaled through his nose. "We don't even know what would happen if she continues to draw the things I describe."
+
+Lucien's gaze lowered briefly to the parchment. "At the very least, she deserves to know. If this is truly related to her blessing, then she should be made aware of it and decide for herself whether she wishes to continue."
+
+Talia shot him a look. "We both know she's gonna want to help. And knowing her...she might even try to help even more."
+
+Based on what he knew of the diligent maid, Talia was right. If they told Alicia about it, she would immediately volunteer to help regardless of the risks.
+
+Lucien's finger lightly traced the edges of the parchment. "Sera's blessing manifested right before she came to Ashridge...Alicia's case is different."
+
+She let out a hum, brows creasing. "You're thinking she might not undergo the same negative effects because of how long she's had it?"
+
+Lucien met Talia's gaze. "It is a possibility. Considering the time she's likely had it, perhaps there might not even be one. So before we push this any further by asking her to draw more tools from our world."
+
+"I want her to make that choice of her own accord."
+
+A conflicted expression grew on Talia's face as she let out a rough breath. A moment later, she shook her head. "Alright...I guess that's the best we can do. You planning to tell her before asking to draw anything more?"
+
+Slowly, Lucien inclined his head. "I don't know what the next one would be yet. Do we need her help for whatever you have planned for making coke? Lord Vaelric will be sending a small shipment of it to Ashridge sometime in the summer."
+
+Talia's expression lightened slightly from the shift of topic, waving her hand lightly. "Ehh...we're probably gonna start with the clamp method first. It's too early to jump straight to the beehive oven."
+
+"Though we could probably make a small one depending on how things go by the end of this season? It depends on our needs though!"
+
+When Lucien simply stared at her uncomprehendingly at the terms she'd used, Talia leaned back in her chair and raised a finger toward the ceiling, looking entirely too pleased with herself.
+
+"I suppose it's up to your cute junior to educate you in the finer points of coke making."
+
+Lucien's hand twitched.
+
+This nosy junior...another flicking was becoming necessary.
+
+He pushed the urge down for the moment. "Tell me more about it then."
+
+Talia tilted her head. "Eh?"
+
+"Before Lord Vaelric sends us the first batch of coal, I would rather know what we are doing. The last time we were testing out the limestone...I would rather not repeat that incident again."
+
+Her expression brightened immediately.
+
+Lucien found himself regretting his words almost at once.
+
+Despite having only been away for a short while, he couldn't help but feel a touch of nostalgia at the sight of his study.
+
+There was, however, a new addition to the room.
+
+A large map of Ashridge had been put up, drawn by Alicia. Unlike the one they used for planning, this one simply showed the outline of the village rather than the various future constructions.
+
+His gaze lingered on it for a moment before drifting toward the open window.
+
+It was unfortunate that summer was beginning to settle in. Thankfully, the manor remained cooler than the outside air, though the stone walls tended to trap heat and make the nights stuffy.
+
+That was likely why Talia's nightwear had been so thin last night.
+
+Their conversation the previous night had lasted far longer than he would have preferred. He had briefly shared the reasons for the refugee crisis in Helvarn and the raids by the elves along Arcencia's eastern borders.
+
+Talia had confirmed it when she mentioned that several merchants she knew had been forced to divert their trade routes. Apparently, the elves had been unusually aggressive this year, raiding and burning multiple villages along the border.
+
+It was another thing neither of them had expected. In most of the fantasy settings they were familiar with, elves were rarely depicted as being so aggressive.
+
+Once again, it was a reminder that while this world contained elements familiar to them, they couldn't allow those assumptions to cloud their judgement.
+
+Sitting behind his desk, Lucien let out a soft breath as he took a sip of coffee.
+
+A knock sounded at the door to his study. He set his cup down and called.
+
+"Enter."
+
+Elias stepped into the room and the large bundle of papers in his arms nearly made Lucien sigh. He approached the desk and set them down, the bundle landing with a soft thump.
+
+Only then did he take a step back and bow.
+
+"My Lord. These are the intake and labor forms that have been gathered by the scribes. We have categorized them by those able to work and those who are still too young or otherwise unable to perform meaningful labor."
+
+The steward folded his arms behind his back. "A significant amount of the refugees are families, My Lord. They make up three quarters of the total count."
+
+"The rest are split between able-bodied single men and widows with children. The widows with children are willing to work, My Lord. But with the need to take care of their children, it would be difficult for them to find meaningful work anytime soon."
+
+Lucien folded his hands atop the table. "It is fine. I was the one who requested that those with children be prioritized for the first wave. How many widows are there, Elias?"
+
+Reaching into the pile, Elias took out a parchment from within the stack. "There are twenty two widows, My Lord. Most only have a single child but there are a few with multiple children."
+
+"Total count for this group including the children stands at fifty-six, My Lord."
+
+Lucien's fingers tapped lightly on the table, eyes lowering in thought.
+
+Fifty-six out of the three hundred and fifty...it was a significant amount and he couldn't afford for them to be idle.
+
+Typically, women whose husbands had died defending their villages still had some support through relatives, neighbors, or long-standing ties. That meant the women could still find the odd jobs while their children were being taken care of communally.
+
+But for a group of widows who had only recently arrived in the village, it would take time for such a support structure to form naturally.
+
+'Perhaps I could introduce...'
+
+His thoughts were interrupted by a cough from Elias. Glancing toward the steward, his brow raised in question.
+
+"We could have a few of the widows take care of the children, My Lord. Such arrangements are common amongst people in larger towns."
+
+Elias straightened slightly. "And perhaps it would be prudent to have the children educated as well. If Ashridge continues to grow at this rate, it would need skilled labor from future generations."
+
+The suggestion caught him mildly off guard. He had expected Elias to focus on logistics rather than long-term concerns such as education.
+
+It must have shown on his face when a dry look appeared on the elderly steward's face, though he remained silent.
+
+Lucien inclined his head. "That is a good idea, Elias. What do you know of these establishments from your experience? We likely can't dedicate a building to them yet, but once the immediate housing situation is stable, that can be arranged."
+
+The steward cleared his throat. "It would depend on the size of the town as well as the number of children, My Lord. Typically, such an establishment would require a scribe and numerous women to handle the daily operations."
+
+"If we are to encourage participation, the people working must be paid using the village treasury. Commoners do not have the leeway to spend coin on such things."
+
+Rubbing his chin, Lucien's eyes shifted toward the window. "The scribes are too busy now with the influx of people and Alicia already has enough on her plate."
+
+Elias gestured toward the parchment. "For now, the widows could oversee them during the day, My Lord. A proper educational arrangement can be established later, once the next wave of refugees has arrived and the population count is more stable."
+
+Lucien gave a slow nod. "Then the women taking up those roles should learn how to read and write first. That way, we won't have to rely on the scribes forever."
+
+It struck him then how much Elias had changed over the past few months. The steward once waited quietly for instructions. Now, he offered suggestions of his own without hesitation.
+
+The rest of the meeting proceeded with them discussing how such an arrangement might be organized.
+
+It was only interrupted when a brief but deliberate step sounded from outside his study.
+
+There was a rare crack in Elias's composure as the door opened and Sera's head slowly appeared through the doorway.
+
+Lucien couldn't help the twitch at the corner of his mouth.

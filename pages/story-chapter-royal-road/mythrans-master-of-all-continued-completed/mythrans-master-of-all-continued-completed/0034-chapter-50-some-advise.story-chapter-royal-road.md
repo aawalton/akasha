@@ -1,0 +1,271 @@
+---
+id: d0d7336d-0523-5823-9c2e-7ec524568fb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50 - Some Advise"
+slug: 0034-chapter-50-some-advise
+partOf: mythrans-master-of-all-continued-completed
+position: 34
+ownLength: 3264
+unit: words
+publishedAt: 2016-10-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97554/chapter-50-some-advise"
+royalRoadId: "97554"
+---
+
+Ren turned off the tv when it was time to log back into the game.
+
+“I'll see you in a few hours.” Stella said and smiled.
+
+Ren nodded and put on his VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the spare room and Teepo was perched on his chest.
+
+“Good morning, Teepo.”
+
+“Morning, Ren. Did you sleep well?”
+
+Ren shook his head and sat up. “I didn't sleep at all.”
+
+“Oh, I'm sorry to hear that. Maybe you should take the day off.” Teepo suggested.
+
+Ren shook his head again. “No, I'm pretty sure that Aimus has lots for me to do today.”
+
+Teepo nodded and crawled onto Ren's shoulder. Ren got out of bed and opened the spare room door. The smell of bacon filled his nostrils. It made Ren a little sad, because if Lucy wasn't going to be there for him every day, then this would be the only way he would ever smell bacon again. Ren sighed and went into the kitchen. Aimus was at the table finishing his breakfast when Ren sat down.
+
+“Morning.” Ren said.
+
+Aimus raised his eyebrows at Ren's less than enthusiastic greeting and looked at his wife. Abigail looked just as surprised when she put a plate of food in front of Ren and began to eat as if the food wasn't really there. Ren ate the eggs and bacon in mere moments as if he couldn't taste them and thanked Abigail for the meal. Aimus thought about asking what was wrong, but it was better if Ren volunterred the information. If Aimus pried, Ren might not ever say what was bothering him.
+
+“Ren, we need to make shelves in the new shack and then replace all the lumber we used up.” Aimus said. Ren nodded and left the kitchen. Aimus stood and went over to his wife. “I'll try and see what's up, but if he doesn't take the hint, we may never know if there's anything wrong.”
+
+Abigail nodded. “If I was to venture a guess, I'd say it was because he didn't really meet anyone yesterday at the party.” Abigail said and kissed her husband. “I don't think anyone even introduced themselves to him.”
+
+Aimus thought about it. Abigail was right. Aimus couldn't remember one person that even looked at Ren, let alone talked to him all day... except for himself and Ana. Aimus nodded to his wife and left the kitchen.
+
+Ren saw Aimus come out of the kitchen and went into the new shed. The remaining pelts were stacked nicely in the available space. There was not a lot of room left for shelves.
+
+“We'll have to stack the leather pelts up to the ceiling.” Aimus said when he came into the shed. “It should clear about half the shed for shelves.”
+
+Ren and Aimus got to work and had the pelts re-stacked to fit in a smaller space. They still took up a good portion of the shed, but at least they got the majority of it against the back wall.
+
+“Pass me a plank and the saw.” Aimus said, and Ren did.
+
+Aimus cut a piece off the end, about 4 inches long, then cut that piece in half. Aimus cut the rest of the plank lengthwise. One piece was 4 inches wide, the other 8 inches. Ren handed over the hammer and nails without being asked and Aimus nailed the 4 inch wide piece to the end of the 8 inch wide piece at a right angle, then nailed the two small pieces he'd cut first to the ends, making a shelf.
+
+Notice!
+
+You have learned a new recipe: Basic Shelf.
+
+“Want to give it a try?” Aimus asked Ren.
+
+Ren sighed and took out a plank. Ren took the saw and was about to start cutting when Aimus spoke.
+
+“Stop.” Aimus commanded.
+
+Ren was startled to hear that tone in Aimus' voice and looked up.
+
+“I won't have you using my tools in that kind of mood.” Aimus said and took the saw. “Tell me what's going on.”
+
+Ren just stood there and didn't say anything.
+
+“Is it because people ignored you yesterday?”
+
+Ren shook his head no. It hadn't even occured to Ren to lie and say that it was. Aimus sat down on the nearest stack of pelts and patted his hand on the pelt next to it. Ren sighed again and hopped up onto the pelt next to Aimus.
+
+“I... I may have messed something up.” Ren said. “I really like this girl. I've known her for years, and she's always been by my side, helping me get through things... I only came to realize how I felt about her recently... after that incident at the lookout... and when I tried to tell her how I felt, she... after we kissed... well, she ran away.”
+
+Aimus nodded and sat in silence for a few minutes. Ren wasn't sure what to say after that, so he kept quiet as well.
+
+“It seems to me that you might have surprised her by trying to tell her too much too soon.”
+
+“Too soon?” Ren said.
+
+“Yes. I think you should have taken your time and not sprung it on her all at once. You might have been better off just complimenting her more, or holding her hand longer than usual, or even just keeping eye contact. Women just love that stuff.” Aimus said and smiled. “Going slow is usually the better plan.” Aimus reached over and put a hand on Ren's shoulder. “But... since you dropped it all on her shoulders in one go, I'm sure it just scared her a little bit. If she really has been by your side for a long time and taken care of you... she should come around eventually.”
+
+Ren wasn't sure if he believed Aimus; but since Ren hadn't had a relationship before, it was best to go with the words of someone that was a lot more experienced than him, so Ren nodded.
+
+“Good. Now get off your butt and make me some shelves.” Aimus said.
+
+Ren hopped off the stack of leather pelts and then blushed a little.
+
+“Was it something I said?” Aimus asked and stood up.
+
+Ren shook his head. He didn't want to tell Aimus that when he said 'butt' that it reminded Ren of what Lucy had said about it. Ren blushed harder and then got to work. An hour later, Ren leveled up Sawing once and Woodworking twice, and 15 shelves hung on the walls around the one Aimus had made. Each one was at the right height for the boots to fit with almost no room. Ren took out each pair and set them on the shelves in the order that he'd made the flames grow. When Ren was done, 78 pairs of boots with designs stood on the shelves and Aimus admired them.
+
+“You really captured the essence of the forest fire, Ren.” Aimus said and tenderly touched the boots. “These are amazing.”
+
+“Thanks.” Ren said. “I hope you can get a good price for them.”
+
+“Me?” Aimus said, a bit shocked. “These are your boots, Ren.”
+
+“What?!?”
+
+“You didnt think I'd keep these for myself, did you? I'll sell them, but the profits will be all yours.”
+
+“No... that's not right.” Ren said and shook his head. “I wouldn't have done any of this if you hadn't let me learn from you.”
+
+“I guess that's true... but I also wouldn't have these at all if you hadn't been along.” Aimus countered. “I might have hunted and caught a few dozen rats eventually, but nothing like this.” Aimus waved his hand to indicate the stacks of leather pelts and the boots.
+
+Ren took a deep breath. “Okay, how about this... you sell the boots, and we'll split the profits.”
+
+Aimus started to protest, but Ren raised his hand. “No, we just agreed that these boots wouldn't exist at all if either one of us wasn't there. It's only fair that we split it, 50/50.”
+
+Aimus begrudgingly nodded.
+
+Ren grinned. “Then that's settled. Let's go and get some more wood.”
+
+Aimus nodded again and they walked across the field to where they'd cleared out a good portion of the trees. Aimus pointed out similar trees to what Ren had cut before and Ren got to work. After 4 dozen trees were felled and the tops cut off, Ren had leveled Chop again. Aimus cleaned the branches off and Ren stored the logs into inventory. They were all close enough in size that they all stacked into the same inventory slot.
+
+Aimus and Ren went back to the homestead and they pulled out the saw and table to clean off the logs and cut them into planks. It didn't take long for them to get the rythym back that they had a few days ago and had all the logs cut into planks. Ren stored them as they came through the saw. Ren gathered the last plank and went into the barn to climb up the ladder into the hay loft. Ren spread the lumber out so that it would dry faster. Ren didn't want to make the same mistake of stacking them again.
+
+Ren came back outside and saw the day was just about over and that his Saw was almost at Intermediate level. Ren was tempted to saw a few more little things to push his skill up just enough, but that could wait until tomorrow. It had been a long day.
+
+“Come on, you little beaver.” Aimus said and ruffled Ren's hair. “Let's get something to eat.”
+
+Ren tried to straighten his hair, but it was well and truly fluffy now, and sighed. I might as well leave it. It won't be long before someone else does it. Ren thought and sat down at the kitchen table.
+
+Teepo hopped off Ren's shoulder. “I'm sure it won't happen again for a while.” Teepo said and crawled across the table.
+
+Ana walked in to the kitchen from outside a moment later, ruffled Ren's hair, and giggled.
+
+Ren sighed mentally and smiled. Told you. Ren thought and Teepo chittered in laughter.
+
+Aimus greeted Abigail with a quick kiss and sat down. Abigail served steak and potatoes and they all enjoyed yet another great meal at the Blackmeadow Homestead. Ren finished his meal first, even though he'd had a lot more food on his plate. Ren sat back and watched the others eat. Ren wished he'd had times like this with his own family and then sighed mentally again.
+
+Ha. Ren thought and then said goodnight to Aimus, Abigail and Ana. Ren left the kitchen and walked down the hall to the spare room. Teepo jumped off the table to follow.
+
+Can you imagine? Having to sit down to eat with people like my parents?
+
+“Your parents? What were they like?” Teepo asked as he crawled on the floor next to Ren.
+
+Teepo, you don't want to know about them. Ren thought. They aren't the kind of people that would want to know about you, either. Or care, now that I think about it.
+
+“Sounds like my uncle.” Teepo said. “He was a right assh... ah... bad person.”
+
+Ren shut the spare room door and chuckled. Teepo crawled up the side of the bed and Ren sat down.
+
+Well, that's all under the bridge now.
+
+“What does that mean? What bridge?” Teepo asked.
+
+Ren chuckled. It's just a saying. It means what happened is all behind us now.
+
+“Oh. Why didn't you just say that, then? It would have made more sense.” Teepo said and crawled up the wall to the ceiling.
+
+“You're right.” Ren said and chuckled again. “I'm really glad I found you, Teepo.”
+
+“Me too, Ren.”
+
+“Goodnight, Teepo.”
+
+“See you in the morning!” Teepo said.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and put it on the table beside the laptop. “Hi, Stella.”
+
+So... Lucy didn't come back yet. Ren thought.
+
+“Hey, Sweetie. Are you ready to eat? I know it won't measure up to steak and potatoes, but at least it will taste good.”
+
+Ren smiled. “Of course.”
+
+“I'll be right back with it.” Stella said and left the room.
+
+Ren turned on the television just so that there would be something on. Ren wondered why it was always so quiet in the hospital. Ren was in the long term care ward, so the other residents almost never changed. Since they lived there like Ren did, why weren't they making any noise? There should be other televisions, or radios, or something. Didn't they have visitors? All these thoughts passed through Ren's head before Stella came in with a tray.
+
+“Here you go. Eat up!” Stella said and lifted the cover off the plate with a flourish.
+
+A head of broccoli sat on the plate.
+
+“Blah!” Ren said and almost gagged. Stella laughed.
+
+“Just kidding, Sweetie.” Stella said and replaced the plate with one full of french fries and gravy, with a slice of salisbury steak on the side.
+
+“That wasn't funny.” Ren said and crossed his arms.
+
+“Oh, don't be like that.” Stella said and ruffled his hair. “Hurry up and eat before it gets cold.”
+
+Ren sighed and tasted the fries. They were the mass produced frozen ones, but when smothered in beef gravy, they were actually pretty good. By the time Ren finished the fries and most of the salisbury steak, the joke Stella had played on him was forgotten.
+
+“Thanks, Stella. That was good.” Ren complimented.
+
+“Even for hospital food, right?” Stella said and grinned.
+
+“Especially for hospital food.” Ren responded and grinned, too.
+
+Stella took the tray and Ren sat back in the bed. Ren felt doubly full. His mind had been full in the game, and now his body was full in the real world. Ren pat his stomach. It was sticking out a little bit and Ren hoped that his body would digest his meal fast.
+
+A big belly feels weird. Ren chuckled at the thought. I'm more used to my smaller body than I thought.
+
+Stella came in a little later and sat with Ren and watched some shows together. A couple other nurses came in an hour later because their favorite show was on. Ren couldn't understand what they saw in that show about a bunch of guys competing for one girl. She dated them all and made out with them all, over and over, until she was down to just two. Ren chuckled as the nurses discussed why their favorite was going to win, and at the other nurses as they called their choice a few names that made Ren laugh harder.
+
+“Okay, you bunch... get a move on.” Barbara said in a no-nonsense voice from the doorway and pointed a thumb over her shoulder. You could clearly see the twinkle in Barbara's eyes and a slight smile on her face, so the nurses left quickly but still greeted her as they went by. Stella was the last to leave and she whispered something to Barbara for a minute. Barbara nodded and Stella left. Barbara walked over to the bed and sat down in the chair next to it.
+
+Barbara leaned in to whisper in Ren's ear. “My personal favorite was Chuck, but they gave him the boot 2 shows ago.” Ren laughed.
+
+“Hi, Barbara. It's nice to see you again.” Ren said in a serious and deadpan voice. “It's been a while. How have you been?”
+
+“Same old, same old.” Barbara responded in the same tone of voice. “I missed you, Ren.”
+
+“I think I missed you, too.” Ren said with an almost straight face... then laughed and grabbed Barbara in a big hug. “I know I did.” Ren said in a small voice, and held on.
+
+It was Barbara's turn to be surprised by how strong Ren's grip was. His physical therapy is coming along well.
+
+“B-Barbara...” Ren said and Barbara could hear Ren's voice break up a little. “L-L-Lucy left.”
+
+“I know.” Barbara said in an equally small voice. Barbara didn't know why Lucy had left on such short notice, but Barbara wouldn't forgive Lucy for hurting Ren like this. “It's all right, Ren.”
+
+“No... no it's not. It's my fault.” Ren said and let Barbara go. “If it wasn't for me...”
+
+“Don't you dare think that for one second, Ren Haddon!” Barbara said in a strict voice. “If it wasn't for you, none of us would be here in the first place. They'd have only one nurse to maintain all the residents in the day, and a part time care-giver at night... and that's it.”
+
+Ren's eyes widened at the vehemence in Barbara's tone. “I'd already had my 20 years finished before you came here, Ren. They'd have made me retire 5 years ago if it wasn't for you.”
+
+“Barbara...” Ren tried to interrupt, but Barbara put a hand on his arm.
+
+“No... let me finish.” Barbara said. “I've been taking care of you every night since then. Even my husband complains that I spend too much time here with you.” Barbara sighed. “I know he's right, since I haven't had a night off in 5 years... but I just can't let myself ignore my duty to be here when you need me.”
+
+“I didn't realize...” Ren whispered.
+
+“You're like the son I never had, Ren.” Barbara said and a tear came to her eye. “You're kind, and funny, and you treat everyone here as if they were important, and try to spend time with all of us when you can. You even put up with us when we tease you, hang out in your room for no reason, or hug you more than we're supposed to.” Barbara said and chuckled. “I just want you to know that, because of who you are, I'll always be here when you need me.”
+
+“Barbara... I...” Ren stammered. “...thank you.” Ren reached out and hugged Barbara. They held the hug for a while and then Ren leaned back.
+
+“How did you do it?” Ren asked.
+
+“Do what?”
+
+“How did you work every night for 5 years?” Ren said.
+
+Barbara laughed. “Oh, it was easy. I just traded shifts with the other nurses when it was their time to work the night shift, and then traded back when those nights came up.”
+
+Ren stared at Barbara. “Isn't that... ah... illegal? I thought you couldn't work more than 6 days in a row or something.” Ren thought he'd heard that on a tv show.
+
+“I'm only on the books for the regular shifts. I haven't broken any laws... officially.” Barbara said and winked.
+
+Ren shook his head. “I'd tell you to take the next few nights off, but you're just going to come here anyways, aren't you?”
+
+Barbara nodded and smiled.
+
+Ren sighed. “I've only got about 15 minutes before I need to log back in.”
+
+“Um hm. You think I don't know your schedule by now?” Barbara said. “I've been watching you every night for weeks.”
+
+Ren chuckled. “All right. Give me a hand to the bathroom. I better go before I 'have' to go.”
+
+Barbara helped Ren to the bathroom and Ren did his business and washed his hands. Barbara acted like a third leg for Ren and they made it back to the bed without incident. Ren settled down and Barbara sat down in the chair. Ren put on the VR headset and relaxed.
+
+“Thanks, Barbara.” Ren said. “For everything.”
+
+Barbara pat Ren's hand. “See you in a few hours.”
+
+“Flow Login Start.”
+
+********

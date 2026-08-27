@@ -1,0 +1,233 @@
+---
+id: ae3e56b3-293b-5fbf-8c70-56eb2fdf5b50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45 - Decorations"
+slug: 0029-chapter-45-decorations
+partOf: mythrans-master-of-all-continued-completed
+position: 29
+ownLength: 2367
+unit: words
+publishedAt: 2016-10-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96725/chapter-45-decorations"
+royalRoadId: "96725"
+---
+
+When Ren had finished the 305th pelt, leaving 60 with fur for Aimus to make boots from, he got a popup.
+
+Ability Increase!
+
+Your diligent work has raised your Scudding to an unpresidented level. It now takes you almost no time to trim the fur from a pelt.
+
+Scudding Level 1 (Advanced 20%)
+
+This sub skill under Leatherworking allows you to remove fur from a pelt to make good quality leather.
+
+Ren's eyes boggled at the ability change. My first Advanced level! Ren thought then jumped up and down. “Hahaha!”
+
+Aimus came into the shack to see Ren jumping up and down. “Hey, I know you're happy to be done after so long, but you don't have to over-react like that.” Aimus said and dropped the first stack of Ren's bat wings onto the rack.
+
+Teepo came into the shed and congratulated Ren for doing a great job. Teepo had seen the shed a few times already, so he turned around and went off to keep exploring.
+
+Don't go far! Ren smiled at Teepo's astral projection as it crawled out the door. Ren cleaned the bat wings standing up and was so fast that he had to wait for Aimus to bring in the next batch. Thankfully, since the bat wings were thinner than the pelts, they didn't take long to dry and the hundred leathery wings were trimmed into good quality leather pieces and Ren stored them all.
+
+“Where do you want the rat pelt leather?” Ren asked Aimus.
+
+Aimus stood still for a moment. “I... I don't know.” Aimus said and rubbed his hand over his scraggly beard. “I've never had so many before. I usually just leave them here on the workbench, but that won't do for so many. Let me think.”
+
+Ren waited while Aimus thought about the problem. Ren was going to suggest the hay loft, but then they'd be hard to get to when Aimus needed them. The barn didn't have a lot of room to store so many pelts, either.
+
+Aimus sighed. “Remember when I told you that something would come up and I'd need that lumber that I used for the hatches and I wouldn't have any ready?”
+
+Ren nodded.
+
+“If that lumber was dry right now, we could just build a shed to hold the pelts.” Aimus said and went into the barn. Ren followed him and watched as Aimus climbed the ladder.
+
+“They're actually not too bad. The top ones can be used right away. If I'd thought about it, I would have had you spread them out instead of stacking them.”
+
+“Sorry. I should have thought of that myself.” Ren said.
+
+Aimus waved Ren's apology away. “Don't worry about it. Give me a hand and we'll do it now.”
+
+Ren climbed the ladder and Ren stored the top layer and helped Aimus spread out all the remaining lumber. Once Aimus was satisfied that the lumber planks would get the most heat and dry out quickly, they climbed down into the barn.
+
+“They should be good for tomorrow.” Aimus said with hope in his eyes.
+
+“What about the tent?” Ren said. “There's lots of room in there.”
+
+Aimus shook his head. “No, we'll need that space for something else.”
+
+Ren raised his eyebrows.
+
+“I'll explain later.” Aimus said.
+
+“Supper! Get in here or you're not getting any!” Abigail shouted from the house.
+
+Aimus laughed. “She's not kidding. Hurry up! I don't want to be starving all night and have to wait until morning to eat.”
+
+Ren smiled and followed Aimus into the house. They sat down at the table and Ana was there. She seemed even more depressed than before; but when Ren tried to talk to her, she wouldn't say anything. Ren had a hard time trying, though. Every time he ate something on his plate, Abigail pushed something else onto it. Ren liked eating, but even for him it seemed like she was stuffing him like a turkey. Ren held his hand up after the third helping of potatoes.
+
+“Thanks for the food, but I'm too full to breathe, let alone eat any more.” Ren said. He covered his mouth and turned his head just in time.
+
+*BUUUURRRRRPPPP!!!*
+
+Everyone had shocked looks on their faces.
+
+“I think I have a bit more room, now.” Ren said and Ana burst out laughing.
+
+Aimus and Abigail joined her as Ren's face flushed a little red.
+
+That was a bit embarrassing, but at least I got Ana to smile. Ren thought and laughed, too.
+
+A few moments later, they finished laughing and cleaned up the table.
+
+“It's pretty dark out, so you can head to bed.” Aimus said while looking at Ana.
+
+Ana sighed as the laughing mood she was in evaporated.
+
+“Goodnight!” Ren said, and Ana waved as she left the kitchen.
+
+“Come with me.” Aimus said to Ren and stood.
+
+Ren nodded and followed Aimus out to the barn and the secret hatch that Aimus had stored all the packages from his trip to the other farms. Aimus opened it and handed them out to Ren, who stored them. Aimus closed the hatch and kicked dirt over it again. Ren was still amazed that it would disappear so easily... and realized it must be enchanted. Ren activated Enchanted Eyes, and sure enough, the hatch glowed. After Read Rune and Decipher, Ren saw that it was the same glyph that was on the lookout and the trees surrounding it. Ren hadn't examined the trees after everything else that had happened, but he could clearly make out all the individual runes mixed into it now. Once Ren connected them all together, a popup appeared.
+
+Notice!
+
+You have learned a new glyph
+
+Glyph of Hiding
+
+Ren took out his Book of Runes and looked it up while he followed Aimus out to the tent. It was near the end of the book.
+
+Glyph of Hiding
+
+Will successfully hide a small opening from prying eyes.
+
+Ren looked at it closely. I'm going to have to wait to be able to use that one. Ren thought. It was actually 3 glyphs mixed together, with 5 runes each. That has to be Advanced level, at least. Maybe even Expert!
+
+Ren closed the book when he got to the tent and followed Aimus inside.
+
+“Unload the packages and bags, please.” Aimus said. Ren did so and there was quite the pile in the middle of the tent. “Oh, the hammer. Be right back.” Aimus said and left.
+
+Ren stood there and wondered what Aimus was doing. Aimus came back a minute later with a hammer, saw, and some nails.
+
+“Hand me a few planks, Ren.”
+
+Ren passed the 8 foot planks to Aimus and watched as Aimus built a table. One plank was cut into 4 equal pieces, then another in half, then took 4 planks for the top. The half cut one was nailed to the 4 full planks on each end, and the 4 small equal pieces were nailed onto those to make legs. A final plank was cut slightly and nailed as a brace across the legs.
+
+New Recipe!
+
+You have learned how to make a basic table.
+
+“Another plank, Ren.” Aimus said.
+
+Ren handed it over and Aimus cut the plank in half, then one piece in half again then nailed the pieces together to make a chair.
+
+New Recipe!
+
+You have learned how to make a basic chair.
+
+Ren asked if he could try, and Aimus shrugged. Ren took a lot longer to make the table, but the chair was easy. Two cuts and then nails.
+
+Aimus nodded. “That's enough tables, but we'll need a bunch of chairs.”
+
+Ren got to work and had two dozen chairs done in about half an hour.
+
+“Definitely going to miss having you around.” Aimus said and clapped Ren on the shoulder. “That was fine work.”
+
+Ren blushed.
+
+“I'll be right back with the ladder. Open up those two packages and spread the stuff over the tables.” Aimus said and pointed to two big boxes.
+
+Ren opened one of the packages and there were party supplies inside. Ren put them on the table, then opened the other one. More supplies were inside. Ren took them out and spread them around the other table. Empty balloons, streamers, noisemakers, crazy hats, and a bunch of other stuff covered the tables. Ren opened a bag of balloons and started to blow a blue balloon up. Ren had it full and tied when Aimus came back in.
+
+“Good thinking! Keep going, there's lots to do!” Aimus said and set the ladder up in the middle of the tent. Aimus came over to the table and grabbed a small cardboard thing that was tied together with string. Aimus took it to the top of the ladder and tied it's hook to the top of the tent. There were several pieces of canvas straps placed all along the edges of the tent and along the spine, with various ones spaced around the top. Ren hadn't noticed them before, but now that he did, he saw they were in a distinct pattern.
+
+“Aimus, is that a-” Ren started to say, but Aimus cut him off.
+
+“Shhhhh! Don't say anything. If I know Ana, she's listening to everything and is on the lookout for anything suspicious.” Aimus said and climbed down the ladder and moved it to the next spot. “Why do you think we're doing all this in the dark?”
+
+Ren looked around. Hey, it really is dark out. Ren thought, surprised. I guess I've gotten so used to my elfling night vision that I didn't even notice.
+
+Aimus and Ren continued to put up decorations and Aimus kept hanging those string wrapped cardboard decorations at each canvas strap. When they were done, Ren stood back to admired their work and Aimus tied all the strings from the cardboard decorations together into one big knot that hung about 8 feet from the ground.
+
+“She's going to be so surprised!” Aimus said and clapped Ren on the back. “Come on. Time for bed. Early day tomorrow.”
+
+Ren nodded and went back into the house as Aimus took the ladder out of the tent and then tied the tent flaps closed.
+
+Teepo?
+
+“Yes, Ren?”
+
+I'm going to bed, so be careful wandering around.
+
+“I will. See you in the morning.”
+
+Goodnight.
+
+Ren nodded to Abigail as he passed the kitchen and went into the spare room. Ren shut the door and then climbed into bed.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Barbara placed it on the rolling table that the laptop was on.
+
+“Bathroom?” Barbara asked.
+
+“Bathroom!” Ren confirmed and tried to slide out of bed.
+
+Barbara caught him just before he put his weight on his collapsed knee. “Whoa, there. Don't be so hasty.”
+
+Ren looked down at is knee. It wasn't swollen anymore, but he could still feel an occasional throb from it. “Oh, I forgot.” Ren said, his voice sounded a little down. “Sorry.”
+
+“It's okay, Ren. I got you.” Barbara said and smiled.
+
+“Thanks, Barbara. I'd be tasting floor again if it wasn't for you.”
+
+Barbara looked at him in shock. “You... you tasted the floor?”
+
+Ren grinned at her as she helped him to the bathroom. “Yeah, when I was at physical therapy and my knee gave out that first time.”
+
+Barbara helped Ren sit down on the toilet. “Splat!” Ren said and clapped his hands together once. “Face first.”
+
+“That must have hurt.” Barbara said and turned around.
+
+“Like the dickens!” Ren said and smiled.
+
+Barbara laughed. “Where did you hear that from?”
+
+“I can't remember... but I liked the sound of it. It reminds me of 'A Christmas Carol'.” Ren said and flushed the toilet.
+
+Barbara turned and helped Ren stand at the sink to wash his hands. “You know that has nothing to do with the saying, right?” Barbara said as Ren washed his hands.
+
+Ren nodded and Barbara half-carried Ren back to the bed. It would be a week or so before Ren would be able to stand on that leg again, but Barbara didn't mind. Ren needs me. Barbara thought and Ren settled into bed.
+
+“Any chance I could get something to eat? I missed supper.” Ren said.
+
+Barbara nodded. “Yes, of course. I've had it ready for you since I got here a little while ago. I'm sorry Denise didn't have it ready when you were out before.”
+
+“She didn't get in trouble for that, did she?” Ren said. “She looked like she needed the nap, so I didn't wake her.”
+
+Barbara huffed. “She wasn't supposed to be sleeping at all.” Barbara ruffled Ren's hair and chuckled when Ren squirmed. “If there's a next time, make sure you wake her up! She's supposed to be here to care for you.”
+
+Ren nodded and Barbara said she'd be right back with something to eat. Ren didn't have to wait too long and Barbara was back with a bowl of thick stew. A well-buttered slice of thick bread and a piece of apple was on the plate. A glass of apple juice washed it all down and Ren sat back, contented.
+
+“Thanks, Barbara.”
+
+Barbara nodded and took the tray out of the room. Ren turned on the TV and watched it for a little while. There was about 3 hours before he had to log back into the game and he had to pass the time somehow.
+
+Barbara came back into the room and sat down next to the bed and watched some TV with Ren. There wasn't anything on the television, but they passed the time chatting, and enjoying each other's company. 3 hours later, Ren noticed the time and told Barbara that he had to get back into the game.
+
+Barbara nodded. “It should be a nice birthday party for Ana.”
+
+Ren was surprised. “Ha ha! That's what it was! I figured out it was a party for her, but I couldn't figure out why.”
+
+“Just make sure you have fun, dear.” Barbara said.
+
+“I will!” Ren said and put on the VR headset. “Thanks, Barbara.”
+
+“Anytime.” Barbara said and patted Ren's arm.
+
+“Flow Login Start.”
+
+********

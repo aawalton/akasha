@@ -1,0 +1,251 @@
+---
+id: bcaeff44-b4ba-560e-bda6-fcfbfb9f8545
+page-type-slug: story-chapter-royal-road
+title: "Chapter 376 - Episode Four"
+slug: 0370-chapter-376-episode-four
+partOf: mythrans-master-of-all-continued-completed
+position: 370
+ownLength: 3207
+unit: words
+publishedAt: 2017-10-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165664/chapter-376-episode-four"
+royalRoadId: "165664"
+---
+
+The theme music of Ren's show started right at 7 o'clock, and the show played a quick rundown of the things Onscreen Ren had done so far; sewing, alchemy, smithing, mining, and saving the mine by working as a blacksmith. The review ended with him leaving the mine, and the episode started with Onscreen Ren walking along the road out in the wilderness. He found what looked like an abandoned mine shaft, used his new Metal Detection skill which showed up on screen as sound pulses, and he started to dig.
+
+Onscreen Ren filled his inventory and ran back to dump it into the cart he had borrowed from the mine foreman, and did it again. He received the Running skill, and after another short montage, where they compressed a weeks work into less than a minute, it showed Onscreen Ren as he dug towards something. A slightly glowing green rock was revealed, and when he picked it up, the cave shook and he received a notice that he had caught the attention of the Spirit of Earth.
+
+The back of the cave started to move, and then a lumbering rock golem formed out of it and reached for Onscreen Ren.
+
+The scene cut to a group of Adventurers outside, and they discussed where the dungeon was, and they stared as Onscreen Ren ran by them and screamed “WHY MEEEEE?!?”. He was being chased by a rock golem that was hot on his heels, and it continued to swipe at him in an attempt to grab him.
+
+It was then that the scene faded to black and the first commercial played.
+
+*
+
+“Oh, man.” Ren said and shook his head as he let both Elise and Lisa's hands go to pick at the candy he had. “That was embarrassing.”
+
+Elise chuckled. “That was my idea to show the different perspective for that last scene.” She said. “When we saw it from yours, we couldn't see how close the rock golem was.”
+
+Ren nodded. “I didn't think it was that close to me, not for that long.” He said and ate a candy. “That's... how many times I almost died so far?”
+
+“I don't know.” Elise said and smiled. “It's a lot... and it makes for great television.”
+
+Ren chuckled. “I guess it's okay as long as people are entertained.”
+
+Lisa reached over and took a couple of candy from Ren's bowl. “Despite the imminent mortal danger, it really is a good show.” She said. “You definitely have an interesting game experience, since it's a lot different than a regular player.”
+
+Elise nodded. “Not having the traditional 'kill monsters to level up' motif was what caught my attention, and was also a huge selling point for the pilot.” She said. “Of course, once the television station saw the additional footage and game data they had access to...” She smiled. “...it was a deal almost too good to be true.”
+
+“It's starting again.” Barbara said, and everyone fell silent.
+
+*
+
+Onscreen Ren eventually outran the rock golem and made it back to the mine and his waiting cart. He dropped the last load of ore into it, almost overflowing it, and the mine foreman said he and the other men would miss having him around.
+
+Onscreen Ren thanked him and went to talk to Fritz, the dwarf that had taught him everything about mining. He thanked him as well, and then he received a quest to make Fritz a new pick.
+
+“Wait and see! You'll become the envy of the mine!” Onscreen Ren said, and the caravan leader came over and told him they were leaving. Onscreen Ren said goodbye to Fritz, and the caravan leader's son showed Ren how to drive a cart, and the caravan left the mine to go back to the city. Once there, he left the caravan and drove the cart and horse to Donan's shop.
+
+“Ren! Welcome back. I thought you'd gotten lost out there.” Donan said.
+
+“No, it just took longer than I thought.” Onscreen Ren said. “I worked at the mine for a while, then left to gather my own ore... and a few other things happened.”
+
+“Sounds like an interesting story.” Donan said. “You'll have to fill me in later, hm?”
+
+Onscreen Ren nodded and asked if he could drop off the ore behind the shop, and Donan agreed. After the cart was emptied and left, they went inside and Donan taught him how to properly smelt ore. He learned the Smelting skill, and then a montage of him adding ore to the smelter, skimming off impurities, and making iron ingots was shown.
+
+Once Onscreen Ren had a lot of iron ingots done, Donan came over and showed him how to forge a metal blank, which was a rod that could be heated in the forge to make things later. Once the blank was cooled, Donan made a chef knife for Onscreen Ren and asked him to make one, too. Onscreen Ren did so, and unlocked 3 new skills. Blade Forging, Sharpening, and Polishing.
+
+After another short montage of Onscreen Ren making chef knife after chef knife, a messenger appeared in the shop and gave Donan a letter. He read it out loud, which didn't happen the first time, and told Ren that he couldn't use the forge because he was the one going.
+
+“Eeeeehhhh!?” Onscreen Ren exclaimed, and the screen faded to black.
+
+*
+
+“Those montages really speed things along, don't they?” Barbara asked. “It took weeks and weeks to gather ore, and a couple of weeks to make those knives.”
+
+Ren nodded. “It also cuts out all the times I logged out to eat and sleep.”
+
+“Even though it's only short, the montages actually take much longer to do.” Elise said. “With all that footage to go through to find different shots so it's not the same scene repeated over and over, takes a long time.”
+
+Ren picked up the chocolate bar he was allowed to have and opened it. “I'm actually glad they went through the trouble to do that.” He said and took a bite of candy bar, chewed it up and swallowed. “Can you imagine what people would say if the whole episode was just me hammering on an anvil?” He chuckled. “I think Barbara and I would be the only ones watching it.”
+
+Barbara laughed. “I watched it in full length the first time; so yes, I'd watch it with you again.”
+
+“I don't think the show would survive with only two fans.” Gloria said, and it was her turn to laugh. “Unless those two fans were television executives.”
+
+“That's true.” Stella said. “They've kept some god-awful things on television over the years.”
+
+Ren laughed. “Do you remember that one with the talking bear that everyone hated?”
+
+“Mister Ned!” Stella said and laughed, too. “When they made him an ordained minister at the end, and he performed the first marriage in the forest, I nearly lost it!”
+
+“That was a great episode.” Barbara said. “Especially when the deer and doe licked the salt lick together.”
+
+“Bahahaha!” Ren laughed and pointed. “Barbara liked it!” He said. “She actually liked it!”
+
+“It was sweet!” Barbara said in her defense. “It didn't matter that they were animals!”
+
+“It's all Barbara's fault!” Ren said and laughed. “We were stuck with three years of Mister Ned because she liked the show!”
+
+Barbara snorted a laugh. “I think it's a bit of a stretch to assume that I was responsible for the whole thing.” She said. “It was a good show, though.”
+
+Everyone laughed at that.
+
+*
+
+Onscreen Ren was given a letter of recommendation by Donan, and he left to go to the mansion in the middle of the city. He was brought inside and into Lord Eric's office, and he sat there and waited for a moment. A well-dressed man with short hair and a neatly trimmed beard came in and looked at the letter of recommendation.
+
+Instead of taking Donan at his word, he asked Onscreen Ren to perform a repair task. He took out an old rusty sword used in knighting ceremonies, and Onscreen Ren used his Repair skill on it. It was reformed into an ornate and pristine sword. Lord Eric was ecstatic at the result, and invited him to join the expedition. Lord Eric brought him to see the Captain of the Guard and introduced them, then told Onscreen Ren he had 3 days to prepare and a little timer appeared on the screen.
+
+“I'll return when it's time to leave, sir.” Onscreen Ren said, and left the mansion. He ran back to the Artesian District, and rather than go back to Donan's shop, he stopped in to see Issac the Enchanter instead. After a quick reintroduction, Issac told him his knowledge was lacking and gave him a note to go to the Library. It was a list of 4 books to be read.
+
+“Thank you, sir.” Onscreen Ren said. “I'll learn about the four base elements as quickly as I can.” He said and ran back to near the center of the city to the large Library there. He looked at the imposing building, straightened his clothing to look more presentable, opened the large door, and slipped inside as the screen faded to black.
+
+*
+
+“Elise? Wasn't that an odd spot to stop?” Ren asked, and she shrugged.
+
+“If I remember correctly, there should be another montage of you reading, learning to enchant next, then it's the start of the expedition.” Elise said. “I don't know if they'll run the full footage or not, to fill the time and finish that episode, or if they managed to compress it down.”
+
+“Wait, does this mean you don't know everything about it?” Ren asked and put a hand over his heart. “Oh, no! My expectations!”
+
+Elise chuckled. “I can find out if you want, smart aleck.”
+
+“No, no.” Ren sighed dramatically and put a hand over his eyes. “The illusion is ruined forevermore!”
+
+Stella snorted a laugh. “If I didn't know better, I'd say someone took acting lessons.”
+
+“More like over-acting lessons.” Barbara said as she turned up the lights, and everyone laughed.
+
+“I guess it's time for me to go.” Lisa said and stood up.
+
+“Gloria and I don't have to go into the game until 9 o'clock.” Ren said and hit the button to put the recliner back into the sitting position.
+
+“I know, but I'm pretty sure your girlfriend wants to spend some time with you.” Lisa said.
+
+“I do, but...” Elise smiled. “...relaxing on the couch like we were before was kind of nice.”
+
+“I didn't even notice you were there until we got up.” Lisa said and Elise chuckled.
+
+“That was nice, too.” Elise said. “It's not often I can walk into a room and not be noticed.”
+
+Lisa's face flushed a little red and she looked at Ren. “My mother might be a little worried about me.”
+
+“Grab a bag full of candy and bars for her.” Ren said and smiled. “Bribe her with sugar.”
+
+“That mainly only works on you.” Stella said to him.
+
+“Are you saying I'm easily swayed by sweet things?”
+
+“Yes.”
+
+“Okay.” Ren said and grinned. “I'm just making sure we're on the same page.”
+
+Stella chuckled and Lisa helped herself to more candy.
+
+“Stella? Can you call a taxi, and then help me walk Lisa out?”
+
+Stella nodded and Ren got in the wheelchair while she called the taxi, and then they went with Lisa down to the first floor.
+
+“Thanks a lot for coming over.” Ren said when they reached the front door and stood up. “I really had fun today.”
+
+“So did I.” Lisa said and hugged him. “Even when not so pleasant things are going on, it's still fun being around you.”
+
+Ren chuckled as he hugged her. “I'll take that off-handed compliment.” He said, then slid his hands from around her back to her face when she leaned back. “Goodnight, Lisa.”
+
+“Goodnight, Ren.” Lisa said, and they both leaned in close and kissed briefly. A horn honked, and Lisa sighed. “I have to go.” She said and let Ren go, then picked up her backpack. “See you later.”
+
+Stella stepped forward and gave her some more money for this taxi ride and the next one.
+
+“You know you don't have to keep doing that.” Lisa said, and reluctantly accepted the money.
+
+“What kind of friend would I be if I didn't give you money for the transportation to come and visit?” Stella said. “Plus, I'm charging Ren double for not having the cash ready himself.”
+
+Lisa chuckled. “Ren! Stella's milking your good nature!”
+
+“That's what it's for.” Ren said and grinned. “Bye, Lisa.”
+
+“Bye!” Lisa said as the horn honked again, and she left the house at a jog.
+
+Stella took Ren back upstairs to the theatre room to see that Barbara, Gloria, and Elise were still watching television. She brought him over to Elise and Ren thought about getting back into the middle recliner, but looked a question at Elise instead and touched her arm. Elise turned her head at the touch and saw his face, smiled, and got up. She took over pushing the wheelchair, and she left the theatre room with a happy Ren.
+
+*
+
+“Don't worry about me, I'll just stay here for a while.” Stella said to their backs as they left, and sat down. “What are we watching?”
+
+“Big Sister.” Barbara said. “30 women from all walks of life live in the same apartment for 3 months, and compete in different events and games to eliminate each other for $100,000.”
+
+“That sounds... kind of pointless.” Stella said and chuckled. “No story to follow? No plot to discover?”
+
+“You obviously haven't watched the show.” Gloria said. “What you said is the story, and the contestants are plotting all the time.”
+
+“Gloria? Shall we initiate the uninitiated?” Barbara asked and smiled evilly.
+
+Gloria nodded. “The first thing you need to know is that Candi, she's the stripper that's wearing the thigh-high skirt and peekaboo top, has been secretly conspiring with Vanessa. She's the one with the long blonde hair and wearing blue yoga pants. They want to overthrow the stranglehold that Molly, she's the one wearing the sports bra and short shorts, has on the voting panel...”
+
+Stella watched the screen as Gloria filled her in on all the dirt that had been flung between contestants up to this point, and she shook her head mentally.
+
+Why do people like these shows so much? Stella asked herself, then became engrossed in the action before her on the large theatre screen.
+
+*
+
+Elise took Ren to his room, and once there, climbed onto the big bed. They sat down side by side, and Ren reached out and touched her chest through the thin blouse.
+
+“You wore this for me.” Ren said, and rubbed his hand over the soft mounds of flesh that were barely contained. Elise unbuttoned her blouse and showed Ren the three-quarter cup bra.
+
+“I was tempted to not wear a bra at all, but these things needed something to hold them.”
+
+“Please, allow me.” Ren said and unhooked her bra. Her breasts spilled out as the bra was flung aside, and he dug his hands into the warm mounds of her massive chest and massaged them. Elise couldn't help but moan as his hands gripped her firmly. She laid back and her long flowing red hair fanned out underneath her to highlight her white skin. Ren kept massaging her, and she put a hand in his hair.
+
+“K-k-kiss them.” Elise whispered, and Ren obliged. She tried not to gasp as his mouth found her tender tip. He didn't stop his massage and did what she wanted, and kept going. “Good god, how can you... Ren, you... Oh!”
+
+Ren felt her body jerk slightly, and he smiled. “That's my cue.” He said and moved down to her waist. When he slid a hand under her skirt, he felt what she had on. He lifted up the loose skirt and saw with his own eyes what his fingers had found. “You really are like a dream come true.”
+
+“So are you-OHHH!” Elise gasped when Ren started to do his favorite thing and kissed her special place.
+
+It was almost 20 minutes later before Elise started to beg him to stop.
+
+“R-R-Ren, please... hold... hold off... I... AHHH!” Elise yelled as she finished again.
+
+“But... I'm not done.” Ren said. “You want me to be happy, right?”
+
+“I... yes, but... Ren, I...” Elise took several deep breaths, and Ren moved away and crawled up to lay beside her. He saw her visibly relax when he did, and he gave her a kiss with the taste of her on his lips.
+
+“I want you to be happy, too.” Ren said and smiled. “So, I'll stop... for now.”
+
+Elise chuckled, and her chest jiggled a lot. “Ren, god...” She sighed. “I don't know what to do with you!”
+
+Ren chuckled, too. “I have a few ideas about what you can do.”
+
+“Then... tell me.” Elise said and hugged him close. “I'll do... anything... for you, sweetheart.” She said and kissed him like she'd been thinking about doing to him all day.
+
+*
+
+The taxi brought Lisa home and she paid him, then went into her house.
+
+“I'm home.” Lisa said.
+
+“There you are, young lady!” Her mother said and stormed out of the living room to confront her daughter. “Do you know how worried I've been all day?”
+
+“Yes.” Lisa said.
+
+“Of course you don't!” Her mother said, because she had ignored what Lisa said. “You know your psychiatrist recommended only venturing out occasionally! You can't disappear for this long!”
+
+“I didn't disappear. I told you where I was going.”
+
+“Yes, your boyfriend's place.” Her mother said. “Do I even have to ask what you've been doing all day?!?”
+
+“For your information, I had a game of bowling, had a good lunch of chicken strips and fries, swam in a pool for a few hours, read a chapter in a good book, had 3 pieces of pizza and garlic fingers for supper, then watched some television.” Lisa said. “Does knowing that make you happy?”
+
+Lisa's mother was surprised her daughter had done so many different things in one day, and didn't know what to say to continue her argument. If Lisa had said she'd done one thing, she could have argued it was a waste of a day; but, since she did so many things, her mother couldn't come up with a reasonable objection.
+
+Lisa smiled slightly at her mother's surprised expression, and was tempted to tell her that Ren had asked her to sleep over; but, she was pretty sure that would make her mother blow up at her.
+
+“I'm going up to my room to take a nap.” Lisa said instead. Her mother didn't respond, so she smiled and took out the bag of candy and candy bars. “Ren said to give you these.”
+
+Her mother took the bag with wide eyes and stared at it.
+
+I should take a picture. Lisa thought in amusement, then went up the stairs with a huge smile on her face.

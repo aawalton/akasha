@@ -1,0 +1,213 @@
+---
+id: 8741767f-ca84-51d3-8a42-bc8b86191401
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 Shift"
+slug: 0015-chapter-14-shift
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 15
+ownLength: 2030
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3208739/chapter-14-shift"
+royalRoadId: "3208739"
+---
+
+Lucien found himself once more seated amidst a spread of books and records, the study quiet save for the faint rustle of turning pages. It seemed Alicia had been learning her letters from Elias well, considering she had been the one to deliver them this time.
+
+Though he wondered why she had worn such a shy look when she handed them over. Perhaps she was still uncertain about her literacy skills...or it had something to do with him instead.
+
+‘I spend more time in this chair than anywhere else,’ Lucien noted wryly to himself as he pored over the agricultural reports he had first studied on his second day in this world. He had finally found the time to review them properly.
+
+He had begun to doubt his earlier conclusions from his second day in Ashridge. Back then, he had been working from incomplete information, drawing structure from scattered reports and assumptions. In his previous life, revisiting an initial assessment after gathering more data had been routine. Systems rarely revealed themselves fully at first glance.
+
+It proved to be a useful habit once more. The inconsistencies he had noticed before were not errors in record keeping. They were gaps in his own understanding.
+
+He now understood why so many irregularities had unsettled him the first time he read through the reports.
+
+Lucien had trusted that surface conclusion too quickly. Three fields rotated cleanly on parchment. In practice, the system assumed hands that did not exist and winters that did not wound. The flaw was not in the yield figures. It was in the assumptions beneath them.
+
+A small portion of the village did rotate three fields, but the majority relied on a two field cycle instead. The system on parchment appeared orderly enough, yet in practice it depended on variables rarely met. It required uninjured labour, stable households, and a winter that did not strip men from the fields. Only those families with enough uninjured hands, be it extra sons, surviving brothers or shared manpower, could afford the risk of planting winter crops after the Tithe.
+
+It seemed the Beast Tithe typically surged once per winter. After that single wave, whichever families retained enough strength would attempt winter planting. Some households even grouped together to farm a single field due to the shortages of manpower, dividing whatever yield they managed to harvest among themselves.
+
+Lucien rested his chin lightly against his knuckles.
+
+‘There is opportunity here. The numbers just need to move in the right direction.’
+
+If this year’s Tithe could be weathered with minimal loss, the agricultural ceiling would rise naturally. Fewer deaths left more hands to expand the fields. This would allow Ashridge to produce greater yield and ultimately, coin.
+
+His options would open up if he gained access to that coin, to enact plans that would undoubtedly be expensive.
+
+It was a tempting thought, to imagine Ashridge not merely surviving but stabilizing. He allowed himself the indulgence for a moment. After the strain of recent days, a measured degree of optimism did not feel entirely irresponsible.
+
+Lucien exhaled quietly and leaned back into his chair.
+
+Even in this world, he remained what he had always been at heart, an engineer. He was more at ease when dealing with numbers and systems rather than faces and expectations. Planning felt natural. Authority did not.
+
+His gaze drifted toward the window, noting the position of the sun.
+
+Duty did not wait for preference.
+
+He rose from his chair, shrugging on his coat and adjusting his gloves. The composure expected of a noble settled over him, deliberate and measured, as he prepared to leave for the forge.
+
+There were matters of iron to discuss.
+
+And the forest would not remain patient forever.
+
+The forge was already alive with a controlled sort of expediency by the time Lucien arrived.
+
+Heat from the crackling furnace rolled outward in slow waves as he stepped beneath the timber awning, and the rhythmic clang of hammer against iron carried across the yard. He endured the thick scent of burning charcoal and scorched metal that lingered in the air as he crossed the threshold, refraining from approaching the surly blacksmith just yet.
+
+Joren stood near the anvil, sleeves rolled to the elbow, guiding a newly shaped spearhead into a trough of water. Steam rose in a violent hiss before fading into the colder early afternoon air.
+
+A stack of finished spearheads rested neatly along a bench nearby. Their forms were as uniform as a frontier forge would allow. The man did good work, it seemed.
+
+The blacksmith did not look up immediately as he placed the spearhead he had been working on at a sharpening bench nearby. It was likely one of the helpers that would be responsible for refining the edges.
+
+“Lord,” he said at last, more an acknowledgment than a greeting.
+
+Lucien inclined his head slightly. “Joren.”
+
+His gaze shifted briefly across the yard before returning to the forge.
+
+Bran stood near the timber racks, hauling lengths of shaped wood toward a covered pile. His posture was steady, his movements controlled, though there was stiffness in the way he kept his back angled slightly toward the forge’s interior.
+
+It was clear to Lucien that he was attempting to listen, but he paid it no mind. Instead, he turned his attention to the stack of iron ingots.
+
+“How much remains?”
+
+Joren wiped his hands on a worn cloth before answering. “Enough for the gate reinforcements. Barely, but enough.” His jaw shifted as he continued. “After that, we begin cutting into what we would normally hold in reserve for repairs.”
+
+Lucien nodded, expecting that answer, though it was not one he wished to hear. Rather than show disappointment, he asked, “And the shields?”
+
+“Wood for the cores won’t trouble us,” Joren rubbed a hand along his chin. “It’s the iron that bites. Bosses. Rims.” He nudged the crate with his boot. “We make them all the same. Plain. No fancy work. No wasted hammering.”
+
+“That was already the intention,” Lucien affirmed calmly.
+
+Joren grunted in response. “For now, we hold.” His tone stiffened slightly. “If the Tithe comes late, we might have enough left to patch what breaks. If it comes early…” He did not finish the sentence.
+
+Lucien considered the iron bars stacked along the rear wall thoughtfully.
+
+“There is another option,” he said after a moment.
+
+Joren’s eyes narrowed slightly. “What option?”
+
+“Ashridge trades surplus grain for iron with a settlement beyond the western ridge,” Lucien replied. “A frontier village, smaller than ours but closer to exposed deposits.”
+
+The blacksmith grunted softly. “Cragwatch.”
+
+“You know it,” Lucien observed.
+
+“I know of it,” Joren corrected. “They pull ore from the rock and smelt what they can. Ground’s poor there. They grow enough to eat, not much more.”
+
+“That is why they trade,” Lucien replied evenly. “Grain for iron.”
+
+Joren leaned one hip against the workbench, considering. “They trade when the smelts run clean. When crops fail, they hold tight to what iron they’ve got.”
+
+“It is the same for us,” Lucien said. “When the harvest is strong, we have leverage. When it is poor, we do not.”
+
+From the side of the yard, a voice entered the conversation.
+
+“My wife’s brother settled there.”
+
+Bran had set down the timber he was carrying, though he had not stepped forward. His tone was controlled, respectful, but not submissive.
+
+“It was where they went,” he continued, “after our own village fell. Years ago.”
+
+Joren shot him a brief look but said nothing.
+
+Lucien turned slightly, not enough to face him fully, yet enough to acknowledge the interruption without inviting familiarity.
+
+“You have kin there still?” he asked.
+
+Bran nodded. “They’re alive. I had word last year,” he continued. “Some winters near took them. If the ore runs poor or a smelt goes wrong, they feel it hard. They trade iron when they’ve no choice. Not because they’re sitting on piles of it.”
+
+Lucien inclined his head once. “Their reeve remains the same?” he asked.
+
+Frontier settlements typically answered to a reeve appointed by their lord. Ashridge once had such a man, but he departed with the previous lord. The position remained unfilled.
+
+“Aye,” Bran replied.
+
+“And would they receive grain before winter, if offered fairly?” Lucien pressed. Whether trade could take place would determine his actions in the coming months.
+
+Bran hesitated, then nodded. “If they’ve iron to spare.”
+
+The implication that without surplus there would be no trade was left unsaid.
+
+Lucien kept his expression impassive. Even knowing that trade was possible would prove beneficial for his medium term plans.
+
+“Then we will send word soon,” he confirmed, tone deliberately light.
+
+Bran’s jaw tightened slightly. The man looked as though he wanted to say something.
+
+Lucien had been watching him from the corner of his eye out of habit more than necessity. The memory of that first day, the open hostility in Bran’s gaze, had not faded easily.
+
+He knew the caution was excessive.
+
+Logically, Bran had little cause to move against him. Alicia was unharmed and the execution had been halted.
+
+Yet it had been the first time in his life he had stood before someone who meant him dead.
+
+“And Your Lordship means to stay here...” Bran said carefully, “see it through?”
+
+Because he had been watching closely, Lucien caught the pause. Yet the phrasing was respectful and he detected nothing overtly unusual in it.
+
+“Of course,” he replied evenly. “There is work to be done.”
+
+Joren’s hammer slowed for a fraction of a breath before striking iron again, while Bran held his gaze a moment longer than customary before giving a short nod.
+
+“As you say, My Lord.”
+
+‘I may not be the most socially aware man, but even I can tell something is off,’ Lucien frowned inwardly. He was tempted to order the man to speak plainly.
+
+Before he could decide, hurried footsteps approached from beyond the forge yard.
+
+A militia runner appeared at the entrance, breath misting in the afternoon air.
+
+“Milord. Captain Dorian sends word. A hunter returned from the southern treeline.”
+
+Whatever thoughts lingered vanished at once. Lucien turned fully toward the runner, his eyes sharpening.
+
+“What did he find?” he asked, tone calm and focused.
+
+“Tracks, Milord. Larger than before. Closer to the outer traps. Fewer animals caught these past two days,” the runner reported concisely.
+
+The yard stilled.
+
+Anyone who lived on the frontier recognized the signs of a coming Tithe. It reminded Lucien grimly of migratory patterns before a disaster, animals retreating before something greater moved in.
+
+Even Joren’s steady ringing of hammer against iron seemed altered.
+
+His gaze drifted briefly toward the distant line of trees beyond the palisade.
+
+“How recent?” he asked, voice low.
+
+“This morning, Milord.”
+
+He nodded once. “Inform Captain Dorian I will speak with him before nightfall.”
+
+The runner bowed and withdrew.
+
+Lucien remained where he stood for a moment longer after the runner departed.
+
+The forge resumed its rhythm slowly. Hammer on iron. The low murmur of men returning to their work. Timber shifting. Tools lifted.
+
+But perhaps he might be overthinking it, all of it felt like an attempt to dive into a routine, to focus on work with increased urgency than to think of the coming ordeal.
+
+Beyond the yard, beyond the palisade, the treeline stood dark against the fading afternoon light. The forest had always loomed beyond the palisade, a constant presence at the edge of Ashridge’s sight. It had not moved. The distance remained the same.
+
+Yet the signs told a different story.
+
+Fewer animals in the traps. Larger tracks pressed into softer earth. Closer to the outer lines than before.
+
+The pattern he had been working from was changing.
+
+Lucien drew a slow breath, forcing his thoughts into order.
+
+If the beasts were moving earlier than expected, then the timeline he had been working with would need adjustment. Trade would need to be initiated sooner. Shield production could not be delayed. Drills would have to tighten.
+
+The system would be tested sooner than planned.
+
+He turned at last, boots grinding lightly against the packed earth.
+
+“We will send word to Cragwatch,” he said without looking back. “Today.”

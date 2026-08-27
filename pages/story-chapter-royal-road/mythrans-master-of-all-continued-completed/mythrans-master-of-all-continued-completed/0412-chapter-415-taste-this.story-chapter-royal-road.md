@@ -1,0 +1,271 @@
+---
+id: 8129dff6-9e7f-54f0-ac95-46e1032455e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 415 - Taste This"
+slug: 0412-chapter-415-taste-this
+partOf: mythrans-master-of-all-continued-completed
+position: 412
+ownLength: 3128
+unit: words
+publishedAt: 2017-11-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172865/chapter-415-taste-this"
+royalRoadId: "172865"
+---
+
+“Oh, no.” One of the succubi said. “What do we do now?”
+
+“When is the next delivery due?” Ren asked.
+
+“Tonight, when the moon is at it's apex and the sky is as clear as newly formed glass.”
+
+“Geez, give it a rest, Fayeth.” The one sitting beside her bench said, then looked at Ren. “It's at the stroke of midnight, just like every other night.” She laughed. “Not that we ever see the night sky anyway.”
+
+“Oh, can you imagine that, Crakasia?” Fayeth said. “To be borne upon the wind! To rise up into the depths of the sky! To have the-”
+
+“I said to give it a rest.” Crakasia said and cut her off before she could get going. “We usually have just enough time to finish the quota and he delivers it.” She said and waved to a large crate by the wall. “We've got about 6 hours left before we have to finish.”
+
+“Where does it have to be delivered?” Ren asked.
+
+“This is why Wynphine and I are free.” Seldanna said. “He needed our help to push the crate.”
+
+“You also pledged to stay by his side and do his bidding.” One of the others said, disgustedly. “Why would you let that scum touch you?”
+
+“It got us free.” Seldanna said. “He wasn't that bad when he was unconscious.”
+
+That made everyone laugh, except for Ren. He felt how all of them felt about Murdrasu, especially how much Seldanna and Wynphine had hated him, and his anger came to the surface unbidden.
+
+“RraaaHHHH!” Ren yelled as his Controlled Berserk Rage activated. He took two steps and jumped up into the air as hard as he could. The succubi were frozen in shock as a brightly glowing hammerpick appeared in Ren's hand as he arced through the air. He had switched the enchantment to Fire, and as he landed, he brought the hammerpick down onto the large lock that held the succubi's chains in place.
+
+A loud clang rang though the cavern as the Fire-enchanted hammerpick smashed through the lock and crushed it instantly. The Fire rushed up the chains to the shackles that held the succubi in place, and all the succubi started screaming; even Seldanna and Wynphine.
+
+“SHUT UP!” Ren yelled in his command voice as he concentrated on his Command Aura, and they all went quiet; even though tears streamed down their faces. “STAY STILL!” He said as the chains and shackles melted around their wrists and ankles.
+
+The succubi trembled at the intensity of his voice and presence, and watched wordlessly as the metal that had held them for so long dripped away from them. The entire incident lasted for only about 30 seconds; but, it was the longest 30 seconds that any of them had ever experienced.
+
+Ren had used his Fire Manipulation skill in a way he hadn't before, and was able to keep molten metal next to someone's skin without hurting them. Once the molten metal had fallen to the floor, he absorbed the heat from it. He was surprised to discover that he didn't have to touch it to do that. As long as it was within his Aura, it would work and he could manipulate it if he wanted to.
+
+Stat Change!
+
+Fire Manipulation Level 6 (Expert 0%)
+
+Ren saw the succubi were all trembling, and he sighed as he used an Energize spell to stop himself from passing out from his Controlled Berserk Rage.
+
+“You can talk and move now.” Ren said and stored his hammerpick, and almost as one the succubi dropped to their knees and started sobbing as they rubbed their wrists and ankles. He could feel the shock they felt, and then the surprise that they weren't burned or even hurt from the intense heat they had felt.
+
+“Wh-why did you do that?” Wynphine asked.
+
+“No one deserves to be treated like this.” Ren looked at her wrists and saw she still had shackles. They had been welded on, and he could see the scars from the heat she must have endured to have that done. He took her hand with one of his and grabbed the shackle with the other. He used Iron Grip and crushed it, then did the same for her other wrist and both ankles.
+
+Seldanna had knelt to hold onto another succubus who was still crying uncontrollably. “Keep away!” She said when Ren stepped close.
+
+“No.” Ren said and knelt beside her. He did the same thing to her wrists and ankles and crushed the shackles that held her.
+
+“How could you do this to her?” Seldanna asked. “She wasn't as lucky as we were!”
+
+Ren looked at the succubus' wrist, and saw a very old and deep burn wound along her forearm. He reached out for her hand, and she screamed.
+
+“Give me your hand.” Ren commanded, and she screamed again as she held her hand out to him against her will. He held onto it and could see that the wound must have been from spilled molten metal. He activated Serene State of Mind and thought about what to do. It angered him that someone was treated this way, and that his own action in freeing her made her relive her trauma; but, it wasn't a hot anger like before, so he used it to think of what to do.
+
+“Calm down.” Ren ordered her, and she did. He could feel she was still panicked, but that would fade when he finished what he had to do. “Can you use your ability to heal?” He asked, and she shook her head.
+
+“She isn't strong enough for that.” Seldanna said, crossly.
+
+Ren nodded and looked at the wound. “I'm going to overload her.”
+
+“NO!” Wynphine yelled. “That could damage...”
+
+“I have to cut out the old wound to heal it.” Ren said. “Do you want her awake for that?”
+
+No one said anything, and then the succubus spoke.
+
+“Pleasure.” She whispered. “I... I can... ignore pain if... distracted.”
+
+“Are you sure?” Ren asked. “This is not going to feel good.”
+
+“I... can... do it.” She said, and Ren felt her determination. She was still terrified, but because he told her to be calm, she was. Ren thought about how much he enjoyed pleasing a woman by going down on her, and built up a small reservoir. He knew that they couldn't take everything he could give them, so he metered out how much to store, and stopped concentrating on his Command Aura.
+
+“Please, forgive me.” Ren said, so that it wasn't an order, and started to pour pleasure into her.
+
+“OhhhhhHHHH!” The succubus moaned loudly and gripped Seldanna tightly with one arm, and all the succubi got a trace of what she felt and moved closer. Ren took out the hammerpick and deactivated the enchantment, then turned it around and used the plow end to touch her skin. Her body shook from pleasure, and Ren poured a double dose into her to distract her.
+
+“AHHH!” The succubus yelled as she shuddered from the pleasure, and Ren gently dug out her old wound at the same time. The plow end of the hammerpick cut through her skin like butter, and blood welled up as the chunk of old mangled skin fell to the floor. He stored the hammerpick and took out a Major Healing wand and healed her. Ren took out a piece of cloth and rubbed it over the skin to push the blood out of the way, and several succubi gasped that her old wound was completely gone.
+
+Notice!
+
+You have been corrupted! You have absorbed Succubus blood directly from the source through your skin. It's effects vary by those infected, and by the amount of blood absorbed.
+
+Current Corruption Level: 30%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+“Dammit.” Ren said, because her blood had soaked through the cloth and went all over his hand. He stopped sending her pleasure and let her hand go. He stood up and tried to walk to a clear space, but the succubi blocked his way.
+
+“You healed her.” One of them said, and he felt their emotions as they changed from ambivalence to gratitude.
+
+“I didn't mean to cause her grief when I melted the chains.” Ren said. “It just made me so mad that you were treated like that, and I just couldn't stand it!” He said and felt his anger rise, then took a deep breath and let it out to calm down. “I have the Angered condition, and I have to be careful.”
+
+Ren made fists and used Iron Grip to crack all the knuckles at the same time. He had wanted to startle them; but, it sent a spike of pleasure through them instead. They had never seen anyone do that before, and it was exciting for them.
+
+“I need room to repair my armor.” Ren said, and they moved out of the way.
+
+“You're not going to find a forge down here.” One of them said. “Not outside the Dispensary.”
+
+“I don't need a forge.” Ren said and stepped away slightly, then took out the damaged pieces of his armor. He used his blacksmith hammer and Repair skill to fix the damage, much to their surprise, and then he felt a hand on his shoulder.
+
+“Thank you.” A female voice said, and Ren turned to see the one he had healed. “I can use this hand without pain now.” She said, and gave his shoulder a squeeze. “My name is Ellaria.”
+
+“You're welcome, Ellaria.” Ren said, then walked over to one of the workbenches. He picked up one of the pieces of meat and examined it.
+
+Dretch Meat (Rare Choice Cut)
+
+This meat is considered a delicacy and is worth quite a lot of money in the right market. This grants +1 Strength and +1 Endurance for 1 hour.
+
+Warning: Raw corrupted meat. If consumed, increases corruption by 2%.
+
+Ren thought about the popup and smiled. He took out a stone brick with a Fire enchantment and cooked the meat to a nice golden brown, then examined it again.
+
+Dretch Meat (Rare Choice Cut)
+
+This meat is considered a delicacy and is worth quite a lot of money in the right market. This grants +1 Strength and +1 Endurance for 1 hour.
+
+I guess cooking it removes the blood contamination. Ren thought. “So, these things just spawn in corrupted underground areas?” He asked out loud, and several of the succubus nodded. “How did this corrupted area come to be?”
+
+“It was normal dirt that was tainted by a faulty summoning spell.” Ellaria said. “It was gathered up and spread around, which corrupted a larger area, to make a suitable home for us.”
+
+Ren built two large crates in less than a minute, then looked at the succubi. “Gather up as many of the Dretches as you can, while I dig up a pile of dirt.”
+
+“You can't leave this place by digging like that.” One of them said.
+
+“I'm not leaving, I'm gathering dirt to take with us.”
+
+“Take... with us?”
+
+“I'm not leaving you here.” Ren said. “I have your contracts now.”
+
+“You're taking us away from here?” One of them asked, surprised.
+
+“I'm not going to abandon you, if that's what you mean.” Ren said. “I'll worry about what to do with you once I've got time to think about it.”
+
+The succubi just stood there and looked at him, and he could feel their disbelief.
+
+“Don't make me order you.” Ren said and fought not to grit his teeth. “I don't like giving orders like that.”
+
+“Let's get to work!” Wynphine said and walked over to the wall and grabbed two of the 1 foot long slugs with legs. “I want out of this place as soon as possible!” She tossed the dretches across the cavern and they landed in the closest crate. Each of the others started to do the same thing, and then one stopped to look at Ren.
+
+“What's to stop us from leaving?” She asked.
+
+“Nothing.” Ren said and made two more large crates and started to fill them with corrupted dirt. “I haven't even read your contracts, so I don't know what would happen if you just walked away.”
+
+The succubus stopped talking and doubled her efforts to gather dretches.
+
+“It must be bad.” Teepo said.
+
+I can feel how frantic she is. Ren thought and kept digging. He made another crate and filled it with dirt, and then another. When the two crates he had made for the dretches were almost filled half an hour later, he told them it was enough. He had dug out a good 30 feet of the wall by this time and had over 2 dozen large crates of dirt already filled, then stored them.
+
+Ren took out a table and started to chop up the dretches the succubi had gathered, and they marvelled at how quickly he was doing it. He was through both crates about 10 minutes later and had refilled them with the choice cuts. He made another large crate and filled it with all the discarded legs, then stored that crate, the two new crates, and the one meant for an offering.
+
+Notice!
+
+You have been corrupted! You have absorbed Dretch blood directly from the source through your skin. It's effects vary by those infected, and by the amount of blood absorbed.
+
+Current Corruption Level: 60%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+“Hey, we need that!” One of them said.
+
+“Yes, we do.” Ren said. “If you will all wait here, I'll deliver the offering early and we can leave.”
+
+“It's not going to like you changing the schedule.” Seldanna said. “It hates change.”
+
+“Hm.” Ren rubbed his chin. “If it's pointless to give it early, then forget it.” He said and walked over to his Phantom Steed, mounted it, and took out the All-Seeing Mirror. He asked for the way up to the next level, and the map appeared and showed him the route.
+
+“Show enemies, dangers, hidden traps, hidden rooms, hidden passages, alternate routes, and safe spots.”
+
+The map populated with everything he asked for. He and Teepo memorized it and he put the All-Seeing Mirror away.
+
+“Gather your things, assuming you have something to take with you.” Ren said. “We're leaving.”
+
+“You can't...”
+
+“He's serious...”
+
+“I don't have anything.”
+
+“Me, either.”
+
+“We can't...”
+
+“It'll hunt us!” One of them said. “It can't be killed!”
+
+“We've got over 5 hours to get as far away from here as we can before it doesn't get it's offering.” Ren said and smiled. “How long after that will it send someone to check on you? An hour? 2 hours? A day?”
+
+The succubi exchanged glances and then started to smile.
+
+“We'll be ready in a few minutes!” Ellaria said and ran to her table and picked up her favorite knife, then grabbed a bra and bikini bottom, then the other succubi started to do the same thing.
+
+“Seldanna and Wynphine? Hold out your hands.” Ren said. “Before I forget, I believe these are yours.”
+
+The two succubi held out their hands and Ren put 11 of the 1 gold coin diamonds into Seldanna's hands, and 11 of them into Wynphine's.
+
+“But... what... how...”
+
+“You found them in your clothing chest, didn't you?”
+
+The two succubi nodded.
+
+“Then Murdrasu stole them from you.”
+
+They nodded and he felt their anger.
+
+“I'm glad you kept the rings.” Ren said.
+
+“That's why he was so mad.” Wynphine said and smiled. “He thought you had proposed and we accepted.”
+
+“Ha.” Ren said, and then laughed. “Haahahahahaa!”
+
+“We have what we can carry!” Ellaria said and came over to him with her arms full of odd things.
+
+“Oh, dammit.” Ren said. “I'm sorry.” He took out 18 of the Strong Ring of Storage, used Double Infusion to make them binding, and gave her one. “Store everything in that.”
+
+Ellaria dropped all of her things on the floor and held onto the ring like it was the most precious thing she had. She very slowly slipped it onto her finger and it resized to fit her hand, and she gasped as it gave her access to 50 slots of storage and +40 to her Strength.
+
+“THANK YOU!” Ellaria yelled, flapped her wings once to raise herself high enough into the air, and kissed Ren briefly on the lips. It had happened so fast that he had barely blinked and it was over. She landed and started to laugh as she put all her things into the storage space of the ring.
+
+“Ooo, me! Can I have one?”
+
+“ME!”
+
+“I want one!”
+
+“Don't fight!” Ren said and started to hand out the rings. “I have enough for everyone.”
+
+When they all had one, he could feel how happy they were that they didn't have to choose what they could take and what they had to leave behind. It took another few minutes for them to gather everything, and then they were ready.
+
+Ren equipped his full armor set, now that it was repaired, and rode his steed across the workshop to the tunnel on the other side. The 20 succubi took flight almost as one and followed him.
+
+*
+
+“Okay, I know I didn't see that.” Barbara said. “He just... 20 of them?!?”
+
+Stella shook her head. “I don't know what he's going to do now.”
+
+“He's going to be smart about it.” Elise said. “He hasn't looked at their contracts, so I can't say for sure what he'll be able to do; but, I know he's not going to keep them for... well, that.”
+
+Stella chuckled. “He hasn't even slept with the maids yet.” She said and stood up. “He'll never get around to the succubi if he keeps them.”
+
+“He's not keeping them!” Barbara said. “I've given him some leeway with some of this nonsense, but I am drawing the line at beings that can kill by sucking you dry!”
+
+“I'm going to bed.” Stella said and put a hand on Barbara's shoulder. “Don't get too indignant over this, okay? You can talk to him about it when he logs out at midnight.”
+
+“But he doesn't normally log out overnight.” Elise said. “That's why I usually don't stay.”
+
+“He hasn't rested since he went in.” Stella said and yawned. “Neither have I.”
+
+“Then get some rest, and we'll keep an eye on him.” Elise said. “Goodnight.”
+
+“Goodnight.” Stella said and left the bedroom, and Elise and Barbara watched the television as Ren led 20 sex-starved succubi into the next cavern to face the next potential threat.

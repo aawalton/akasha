@@ -1,0 +1,559 @@
+---
+id: 8a46a492-6692-556c-ae7a-b2ce81c459ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 138 - Time To Relax"
+slug: 0123-chapter-138-time-to-relax
+partOf: mythrans-master-of-all-continued-completed
+position: 123
+ownLength: 5112
+unit: words
+publishedAt: 2017-01-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111338/chapter-138-time-to-relax"
+royalRoadId: "111338"
+---
+
+Ren pushed himself a little harder than he should, and it drained his Stamina faster than he wanted. He had to slow down and let it recover, then ran at his normal pace again. The food he was feeding Princess was almost gone, and he warned her that she wouldn't make it if she kept running full out. She slowed down and ran beside him after that, and they made it back to House Neram around 2pm. He had 6 hours left of daylight to spend with Nathalia.
+
+She's not going to be happy! Ren thought as he approached the gate. Golir, and a dwarf he didn't know, stood guard on either side of it. The new dwarf looked woefully inadequate standing next to Golir in full plate mail.
+
+“Good afternoon, sir.” Golir said and saluted. Ren returned the salute and looked at the second guard. “This is Broxor.”
+
+Ren held out a hand, and Broxor shook it after a moment of hesitation.
+
+“Sorry for not meeting you sooner, but I've been busy.” Ren said. “You've been assigned a house, I assume?”
+
+“Sir! Of course I have, sir. Thank you, sir!”
+
+“At ease.” Ren chuckled. “We don't go all formal here, unless we're trying to impress visitors.”
+
+“Yes, sir.”
+
+Ren took out a set of armor and gave it to Broxor.
+
+“But, sir... I haven't earned that, yet.”
+
+Ren smiled. “I hope you won't have to 'earn' it; but I'd rather you have it, before anything happens.”
+
+“Thank you, sir.” Broxor said and equipped it.
+
+“I've got some swords and shields made, but I still have to forge them several times before they can be used.”
+
+The guards nodded slightly.
+
+“That won't happen today, as I promised the wife I'd spend it with her.”
+
+Golir grinned and opened the gate. “You shouldn't keep her waiting then, sir.”
+
+“Good day, gentlemen.” Ren said and led Princess into the courtyard. He took her to the small stable and set her crate in its proper position. She got in it and Ren put the last of the food he had in her bowl. He went inside the house and heard movement in the kitchen.
+
+“Nathalia?” Ren heard a dish clatter and then running feet. He caught her as she leaped at him.
+
+“You're back!” She said and hugged him tightly.
+
+“I'm sorry I'm late.” Ren said. “I'd intended to leave during the night and be back here by morning, but...” He took a deep breath, and continued. “Lucy showed up before I could feed Elerlyth, they had a fight, then Lucy and I had a long talk.” He sighed. “After that, it took an hour or so before I could feed Elerlyth, then her ability leveled. I didn't finish feeding her until this morning.”
+
+“You don't have to explain everything to me.” Nathalia said.
+
+Ren kissed her lightly. “I'm not going to lie to you, Nathalia.” He said. “Either by distorting the truth or by not telling you something. I want to be honest with you, and I want you to know what's going on.”
+
+“Okay.” She said and kissed him again. “What else?”
+
+“I visited my blacksmith mentor, Donan. It didn't take long, and I paid a tithe to him. Then I went to Sally's Shop to visit her.”
+
+“She's the one that taught you to sew clothes.” Nathalia said.
+
+“Right. I showed her some of the things your father was working on.”
+
+“That's what that was!” Narhilda said and came over to Ren and Nathalia. “10,000 Influence!” She shook her head. “I was so shocked, I nearly passed out!”
+
+Ren opened his arms and hugged her, too.
+
+“Luckily, I was right there to catch her.” Nathalia said. “We didn't know what was going on.”
+
+“Sorry.” Ren said, and kissed both of them on the cheek in apology. “I had no idea that telling Sally about Lord Neram would do that.” He smiled. “I'd have warned you, at least.”
+
+“It's okay.” Narhilda said. “You're doing great things for this House, and on your day off, too!”
+
+Ren chuckled. “I picked up some things from Sally as well; but I promised to spend the day with Nathalia, and that's what I'm going to do.”
+
+“You're down to only half the day, now.” Nathalia said, and smiled crookedly.
+
+“Well...” Ren started, then winked at her. “...I don't have Adventurer's business tonight.”
+
+Her eyes lit up and she grinned. “I won't have to sleep alone for a few hours while you're gone!”
+
+Ren glanced at Narhilda. “You haven't been sleeping alone at all.” He said and chuckled.
+
+She ran a hand through his hair. “That doesn't count, mister.”
+
+He grinned. “Some people think it does.”
+
+Narhilda snorted a laugh. “I know some of them. If they knew I'd spent the night in the same bed as my daughter and her fiance...” She shook her head. “...the scandal that would cause!”
+
+“Even though all we did was sleep?” Nathalia asked.
+
+“And cuddled.” Ren said. “You can't forget to mention the best part.”
+
+“Oh, you!” Nathalia said and swatted him on the arm. “You just liked that you had 2 women in your bed!”
+
+“Two beautiful women, that I love very much.” Ren said.
+
+Both Nathalia and her mother Narhilda, blushed slightly at Ren's truthful statement.
+
+“Now. What do you want to do, My Love?” Ren asked Nathalia. “I'm all yours.”
+
+“Well... I was thinking...”
+
+It started out with a cook-off, and it evolved into a bit of a food fight. At that point Narhilda got involved trying to stop them, and the three of them got quite messy. They laughed, carried on, and just had fun. After a while, they finished their dishes and Ren won handily with his creation of hamburgers and french fries. Of course, he had to teach them how to make it afterwards. They all cleaned up the kitchen and Ren and Nathalia went into the old bedroom. Ren drew out one of the patterns he got from Sally, that he slightly modified, and showed Nathalia one of the current styles of dress for royal wear. She admired it for it's simplicity and it's regalness, and Ren took out a bolt of fabric from the closet to made it for her.
+
+“You're not supposed to work on your day off.” Nathalia said.
+
+Ren put the bolt of cloth on the workbench and turned to her. “Making a hundred uniforms for the army is work.” He cupped the side of her face and kissed her gently. “Making you something pretty to wear...” Ren took her into a hug. “...that will hug you like my arms are hugging you...” Ren stared at her. “...that's not work. That's pure joy.”
+
+“Oh, Ren.” Nathalia said and kissed him. They stayed that way for several minutes, and Ren broke the kiss. “You just have to decide on the color.”
+
+“Surprise me.”
+
+Ren chuckled. “Rainbow it is.”
+
+“Ren!”
+
+“What? That would be a surprise, wouldn't it?”
+
+Nathalia shook her head. “Red, then.”
+
+“Yes, My Love. Red it is.”
+
+He cut the fabric easily and dyed it red, then cut out the pieces he needed. He assembled them and sewed them together, added the thick ribbon of lace around the waist and left that white, then added white trim around the bottom and the cut out for the cleavage. He made a huge ribbon bow for the back to attach to the waist, and then stood back.
+
+“Ren! It's beautiful.”
+
+“Can you try it on for me?”
+
+“Of course.” Nathalia stored her father's dress and stood there in just her slip.
+
+“Every time I see you like that, it still surprises me.”
+
+“Why?” Nathalia asked, and looked down at herself.
+
+“I told you before.” Ren said. “Have you looked in the mirror? You're amazing.”
+
+Nathalia chuckled. “Ren, they're just boobs.”
+
+Ren laughed. “You know I don't see them when I look at you; but they're amazing, too.”
+
+“Then what?”
+
+“You have a man looking at you in only a thin slip and small pair of underwear... and you're completely comfortable with it.”
+
+She looked at him. “You're my fiance.”
+
+“Even so.” Ren smiled. “You're not afraid to reveal yourself like this, when I know full well that most women usually hide as much of themselves as they can, under almost any circumstances.”
+
+“Is that what it's like where you come from?”
+
+Ren nodded. “Even looking at a woman for too long makes them think you're a creep.”
+
+“That... must make it hard to find someone you like.”
+
+He laughed. “Does it ever.”
+
+Nathalia took the dress and equipped it. It shrank to fit her, and she stood still to look at it.
+
+“Where's the mirror?” Ren asked.
+
+“My room.”
+
+Ren took her hand and led her to her room. He looked for the mirror and stood Nathalia in front of it.
+
+“By the gods.” Nathalia said, as a regally dressed Lady faced her. “Who is that woman?”
+
+“My Love, that's the woman I see when I look at you.”
+
+Tears came to her eyes as she turned to Ren.
+
+“Th-th-thank y-you!” Nathalia said and hugged him, crying onto his clothes because she didn't want to get anything on the new dress. When she calmed down, she turned back to the mirror. Ren walked out of her room and into the kitchen.
+
+“Narhilda, you need to see this.” Ren said, and took her hand to lead her to Nathalia's room. Once inside, she gasped; Nathalia turned to her and smiled.
+
+“You're so beautiful!” Narhilda said and started crying. “I'd hug you, but I don't want to ruin such a pretty dress!”
+
+“Go ahead.” Ren said and held up the Master Tailor's Sewing Needle. “I can fix it.”
+
+Narhilda ran to Nathalia and they started sobbing, hugging, commenting on the dress, and crying some more.
+
+“You see? It's all rumpled and wrinkled.” Narhilda said as she finally let her daughter out of the hug. Ren walked over to them and touched the dress with the needle.
+
+“Repair.”
+
+The dress glowed for a moment and reformed into it's perfect state. Nathalia stored it and equipped her fancy green dress again.
+
+“You can leave it on if you want.” Ren said. “It's made to wear. I adapted it from Sally's design to use Lord Neram's techniques.”
+
+Narhilda stared at Ren. “You what?”
+
+“I changed it so that it can be used as fluently as Lord Neram's clothing.”
+
+“That... that shouldn't be possible.” Narhilda said. “His clothing was designed with his techniques. You shouldn't be able to...” She shook her head. “You're amazing, Ren.”
+
+Ren smiled. “I've been hearing that a lot.”
+
+Narhilda shook her head again. “Don't you understand? It shouldn't work for other clothes.” She said. “I knew you deserved the Tailor title, but this...” She waved at the dress that Nathalia had equipped again. “...even my husband couldn't do it!”
+
+Running Quest Update!
+
+You have shown an influential member of society what you can do.
+
+Reward: 1000 XP
+
+Fame Bonus: 68%
+
+“Ren.” Teepo said. “I feel funny.”
+
+“I'll be right back.” Ren said and left the room, shutting the door behind him. He ran outside and into the stable, out of sight. He picked Teepo out of the hood and looked at him.
+
+“What is it, buddy?”
+
+“I... leveled... up to... 10.” Teepo said and started to shake. Ren held his hands cupped as if he was catching something. Teepo stood in the center and his body started to glow brightly. “R-R-Ren! What's happening?”
+
+Ren could only stare as Teepo shouted in anguish, then he heard a bone cracking sound. Teepo's little body collapsed and stopped moving. The glow faded and Ren froze in shock.
+
+“Teepo!” Ren exclaimed. “TEEPO!”
+
+Ruck came out of his cabinet, and Princess came out of her crate. Ren dropped to his knees and held the inert body close. “Teepo.”
+
+He heard another bone cracking sound, and the beetle carapace split open slightly. A bright light escaped through the crack, and little legs followed it. 2 more legs joined them, and pushed the split apart. The carapace fell away and dissolved, and left a nearly identical beetle in it's place.
+
+“Teepo?”
+
+“Hi, Ren.” Teepo said. “Sorry for scaring you.”
+
+“Scaring me?” Ren said. “You nearly broke my heart!”
+
+“I didn't die, thank the Fire Dancer.” Teepo chittered in surprise. “It gave me a present!”
+
+“A... a present?”
+
+“I didn't know this, but It noticed me because of you! It wants me to keep spreading It's word!” Teepo chittered in delight. “Watch this!”
+
+Teepo's carapace split from his mid-section and down his back, and folded up. A large pair of wings slid out and started to beat furiously. A moment later, Teepo took off and flew.
+
+“HOLY CRAP!” Ren yelled. Thankfully, he was safely shut away in the stable and no one heard him shout. Teepo flew around Ren's head and then went to the ceiling. He stuck out his front legs, grabbed onto the ceiling, and flipped over to land.
+
+“Wow.”
+
+“I know, right? It's AWESOME!” Teepo let the ceiling go and fell until he was a foot from the floor. He deployed his wings, flipped right side up, and took off flying again. “Hahahaha!”
+
+Ren could feel his joy and grinned.
+
+“I guess you won't need a ride anymore.” Ren said, and Teepo flew over to hover near his face.
+
+“I still need a ride, Ren.” Teepo said, and then his wings started to slow down. “My Stamina bar is running out.”
+
+Ren held his hands out, and Teepo landed in them.
+
+“If you pace yourself, you'll be able to go longer.” Ren said.
+
+“I still have to assign my stat points.” Teepo said. “Where should I put them?”
+
+“If you want to fly longer, you'll need Vitality.” Ren advised. “Your Stamina bar will increase with each point.”
+
+“Okay.” Teepo said and put the 5 points into Vitality. “Hey, it worked!” He said and took off again.
+
+“Easy, buddy.” Ren said. “Make sure you have somewhere to land before your Stamina runs out.”
+
+“Got it.” Teepo said, and slowed his speed down from humming bird to butterfly. “How's that?”
+
+Ren nodded. “If you're going slow enough, the Stamina bar will regenerate slowly. If you stop, it'll regenerate faster.”
+
+“Thanks, Ren.” Teepo said and came in for a landing. “Fire Dancer told me what to do.”
+
+“I'm listening.”
+
+“You have to tell people the story. As many people as possible, and as quickly as possible.”
+
+Ren frowned. “Can I ask why?”
+
+“It's dying.”
+
+“No!”
+
+Teepo nodded. “It wants as many people to hear of it before it's gone.”
+
+Ren stood up. “Consider it done.”
+
+“But... what about spending the day with Nathalia?”
+
+“I'm still going to do that.” Ren said. “Princess? Did you level up?” She nodded and Ren opened her stat window. “Strength?” Princess pawed the ground twice. “Vitality?” She pawed the ground 3 times. “Okay, got it.” Ren said and closed the window. “Ruck?”
+
+He gave the 'thumbs up' gesture, then the 'okay' gesture, and Ren nodded.
+
+“Let me know if you need any advice about it.” Ren said and Ruck pat his leg. “I'll see you both later.” He turned and left the stable and went inside. He saw that Nathalia and her mother were still talking about the dress, so he went into the old bedroom and took out his Elven High Court Uniform pattern, and adapted it to be the same as Nathalia's new dress, with an undershirt instead of showing off his own cleavage. Ren chuckled as he cut more fabric, dyed it red and made the pieces needed. He finished it and equipped it, to replace his Travelling Clothes. The Durability was really low in comparison, but the outfit looked a lot nicer with the red cloth and white border. Even the lace sash around his waist looked really good. Ren kept his Dire Wolf Hooded Cloak on as well.
+
+He took out a bunch of scrap cloth, cut it into 100 strips, folded them and sewed them together, dyed them red, and recalled the fire patterns he'd carved into the leather of all those boots he'd made for Aimus. Ren embroidered them onto the cloth bookmarks and stored them. Once that was done, he went into Nathalia's bedroom, and she saw him in the mirror. She gasped, and turned around to look at him with her own eyes.
+
+“Ren! You... you look...”
+
+“Like a matching set.” He said, and walked over to her. Narhilda stepped out of the way and back enough to see the two of them together.
+
+“You really do look like you belong together.” She said and started crying. Ren walked over to her and hugged her.
+
+“Your husband would be so proud of how you've raised her.” Ren said, and Narhilda sobbed harder. He stood there for a few minutes and let Narhilda cry herself out. When she started sniffing, he gave her some cloth to wipe her face, and he repaired his clothing.
+
+Ren walked back to Nathalia and smiled. “My Lady, I need to go to the Library for a very important reason.”
+
+Nathalia started to open her mouth to protest, and he kissed her. A moment later, he broke the kiss.
+
+“I won't be working there today, so equip your cloak and come with me.”
+
+“I might need a little more convincing than that.” She smiled.
+
+Ren chuckled and kissed her again. After a few minutes, they said goodbye to Narhilda, left the house, and went out into the courtyard. There was a cart there, but without a pony. They walked over to it and a note was attached.
+
+Ren,
+
+We bought the driver a new cart, so you can keep this one.
+
+- Dorcot
+
+Ren smiled and looked at Nathalia. “Wait right here.” She nodded, and Ren went into the stable. He went to Princess.
+
+“I have a big favor to ask.”
+
+Princess stuck out her tongue and blew a raspberry. Ren laughed.
+
+“No, I won't ask you to carry me until I dump everything I'm carrying.” He said. “I'd like for you to pull a cart.”
+
+She shook her head.
+
+“It'll make you stronger.”
+
+She shook her head.
+
+“Your Endurance could go up.”
+
+She shook her head.
+
+“I'll make you french fries for supp-”
+
+BANG! Princess rammed the stable door and was standing next to the cart before Ren could finish the sentence. He laughed and walked out to where Nathalia stood.
+
+“You're making her do this?” She asked.
+
+“Nope.” Ren said and grinned. “French fries are.”
+
+Nathalia laughed and pet Princess' neck as Ren hooked her up to the cart. He walked over to face Princess.
+
+“I promise I won't flick the reins, as long as you go at a normal pace in the city.”
+
+She snorted.
+
+“Yes, we can go fast until we get there.”
+
+Princess huffed and Ren helped Nathalia climb up to the driver's seat. He was tempted to let her ride in the back, but if Princess was going to run fast, Nathalia needed the handholds. Ren led the cart over to the gate and opened it. Wohrum and the second guard he didn't know was there.
+
+“Sir.” Wohrum said. “This is Kharpik.”
+
+“Sir! It's nice to finally meet you, sir!”
+
+“At ease.” Ren said. “We only go formal when visitors are here.”
+
+“Understood, sir.”
+
+Ren took out the set of armor, and gave it to Kharpik. He equipped it without a word and nodded. Ren dismissed the 10 Honor gain popup, and told him the same thing he told the other guards about weapons and shields being available soon. Ren led Princess out to the road and positioned her to face the right direction, then turned back to the guards.
+
+“No one gets through that gate.” Ren said, and the guards nodded slightly. “We'll be back in an hour or so.” He walked around to face Princess. “Take it slow at first. You've never pulled a cart before. Get used to the balance, okay? I don't want you to get hurt because you rushed.”
+
+She huffed and nodded slightly. Ren pat her neck and climbed up beside Nathalia.
+
+“You should hold on, My Love.” Ren said to Nathalia, and she grabbed the two handholds.
+
+He tugged the reins slightly, and Princess walked a little bit. It took her a minute to get a stride going; but once she got a feel for the weight, she picked up the pace. A mile down the road, she ran. The cart shook as Princess essentially dragged it behind her. Ren and Nathalia hung on as the last few miles to the city passed quickly. Princess slowed down as she neared the city, and Ren guided her with little tugs on the reins for right and left. Dwarves stared at them as they passed. Princess followed the directions without fault, and Ren asked her to stop beside the Library. Ren hopped down and walked in front of Princess.
+
+“That was great.” Ren said. “Stay here, please. Don't go anywhere.” He looked at her. “If anyone tries to take you or hurt you, you stomp them and run them over, okay?”
+
+Princess huffed.
+
+“You don't have to kill them, but it's okay if you do.”
+
+She nodded and Ren helped Nathalia down out of the cart, then checked their clothes to see they had survived the trip unscathed. He took her hand, asked her to concentrate on her personal Aura, and led her into the Library.
+
+“Your Highness!” The Librarian said as the door opened and Ren led Nathalia inside. “And Your Highness.”
+
+“Ma'am.”
+
+“What can I do for you today?”
+
+“I was wondering.” Ren said. “How does someone publish a story?”
+
+The Librarian's eyes lit up. “Ooo, do you have a book that no one has?”
+
+“It's not a book yet.” Ren said. “I'd like to make it one, though.”
+
+“Can you tell me what it's about?”
+
+“Of course.” Ren said and smiled. “Can you make it into a book?”
+
+The Librarian smiled. “If the story's good enough.”
+
+“Let's go upstairs and have a seat.” Ren said. “This may take a while.”
+
+The trio went upstairs to the second floor and sat down, and Ren told them the tale of the Fire Dancer. Nathalia and the Librarian sat in silence as he recited the entire thing from memory, and Teepo didn't have to help him at all. When he was done, he got a popup.
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 50 XP
+
+“So.” Ren said. “What do you think?”
+
+“It's a great story, but...” The Librarian said. “...it's not enough for a book.”
+
+“It's not long enough?” Ren asked, and she nodded. “What if I add another story?”
+
+“Possibly.” The female dwarf said. “Tell me.”
+
+Ren told her about the Battle of the Deathgore. When he got to Nathalia's participation, he let Nathalia tell it. The librarian stared at them, then she looked at Nathalia's cloak.
+
+“That's it, isn't it?”
+
+Nathalia nodded slightly.
+
+“May I?”
+
+Nathalia grinned, and nodded slightly again. The Librarian came around and felt the pelt and sighed. After a minute, she sat back down. “Do you have anything else?”
+
+Ren told her of the dire wolf and the cloak he now wore as well.
+
+“I think... I think that might be enough.” She went downstairs and didn't come back for a while. Ren started to get worried, and then the Librarian came up the stairs. “Yes, it was enough.” She walked over to them and gently placed a book on the table. “All it needs is a title.”
+
+Ren thought about it for a minute. “How about... Fire, Fear, and Death.” He said. “Tale of the Fire Dancer, Fear of the Dire Wolf, and Death of the Deathgore.”
+
+The book glowed for a moment, and the words Ren said etched themselves onto the cover in gold. His name appeared underneath the subtitle as the Author, and he picked it up. He flipped through the pages, and everything he had said was in there.
+
+“This is fantastic!” Ren said. “What Rank is it?”
+
+“You can choose that now.” The Librarian said. “There's some adult themes in it, though.”
+
+Ren nodded slightly. “I'd say C for this version.” A large C appeared on the spine of the book.
+
+“How can I get copies?”
+
+“How many do you want?”
+
+“I'd say a thousand, but I don't know how much copies are.” Ren said.
+
+“A... a thousand? Why so many?”
+
+“I want as many people to read it as possible.”
+
+“That many copies won't be necessary.”
+
+“Why not?” Ren asked.
+
+“Each Library only needs one copy of a book. Once it's in the Archive, any copies that are needed can be produced.” She said to Ren's surprised face. “It's why you never have to wait for a book to be returned to the Library to read it yourself.”
+
+“That's great!” Ren said. “Then... 10 copies would be good.”
+
+“They're a gold each.” She said, and Ren gave her 10 gold. “I'll need the original, too.”
+
+Ren handed her the book and she disappeared down the stairs. 10 minutes later, she came back with 11 books.
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 5000 XP
+
+Knowledge Of Fire Level 7 (Intermediate 0%) Fire affinity and resistance increased to 35%
+
+“The original.” She said and handed Ren the golden-lettered book. He stored it and she handed him the silver-lettered copies. “Just give a copy to a Library, and they can make as many copies that they need for people to read them.”
+
+“Thank you so much.” Ren said, then had another idea. “Can the Tale of the Fire Dancer be a children's book?”
+
+The Librarian's eyes widened, and then she grinned. “You know what? It's a great tale about greed and how it corrupts. Sit right there, and I'll be back.” She disappeared again, and 20 minutes later, she came back with 11 copies of a colorful children's book. “Here you go.”
+
+She put them on the table. The top one was golden-lettered and Ren stored it, then he handed a copy to Nathalia to flip through and he did the same.
+
+“I... I can't believe...” Ren said. The pictures showed every scene the story had brought to his mind, and the simple text lines at the bottom of each page told the story in detail.
+
+“It's wonderful!” Nathalia exclaimed.
+
+The Librarian chuckled. “I'm always shocked at how they come out, too.”
+
+Ren handed her another 10 gold and stored all of the books.
+
+Running Quest Update!
+
+You have spread the word of the birth of Fire Dancer, Deity of the Fire Element.
+
+Rewards: 3000 XP
+
+Knowledge Of Fire Level 1 (Advanced 0%) Fire affinity and resistance increased to 45%
+
+Level Up!
+
+You have gained a level and are now Level 7!
+
+New Familiar Recipe unlocked: Arbalest - Sentient Crossbow
+
+“I don't know how I can thank you for this.” Ren said.
+
+The Librarian laughed. “It's one of the main functions of the Library.” She said. “I even put a copy of each into my Archive.”
+
+Ren stood up and gave her a hug. The Librarian sighed, and a moment later he let her go.
+
+“I'd like for you to make a copy for anyone that wants one. For free.” Ren said. “Put a copy in the front window.”
+
+“I can't give them away!” The Librarian said. “It costs almost that much to produce them.”
+
+Ren smiled and took out 5 platinum. “Here's enough to cover 500 copies.”
+
+Her mouth dropped open. “But... but...”
+
+“I'd also like to make a donation to the Library, for it's operation, maintenance, and maybe a salary for it's owner.”
+
+The Librarian stopped breathing. Ren pat her on the back and she started again.
+
+“You're crazy.”
+
+“I sure am.” Ren chuckled. “Will you accept it?”
+
+She took a deep breath and looked at Nathalia, who nodded. “Who am I to deny a Prince and his Princess?”
+
+“Do you have a coin pouch?”
+
+The Librarian nodded and Ren gave her 50 platinum.
+
+She sat down and fanned her face. Ren heard her whispering something over and over.
+
+“By the gods... by the gods... by the gods... by the gods... by the gods.”
+
+“You'll be okay.” Ren said. “Just don't give it all to your brother in the Hole.”
+
+The Librarian looked at Ren for a minute, then she calmed down and smiled. “I... I might give him one. To see his reaction.”
+
+Ren smiled. “It'll be a sight, that's for sure.”
+
+She laughed and sat up straight. “Thank you, Your Highness.” She looked at Nathalia. “Highnesses.”
+
+Nathalia laughed and stood up. “I think my husband has done quite enough here today.” She reached a hand out and Ren took it.
+
+“Ma'am.” Ren said and bowed to her. They started to walk away, and Ren remembered something. “I almost forgot!” He said and took out the 100 embroidered cloth bookmarks. “You can keep these for the books, or let people use them.”
+
+The Librarian took the pile of cloth bookmarks and stared at the spectacle. She fanned them out and saw the growing fire consume the forest. “These are beautiful.”
+
+“They're yours, so you can do what you want with them.” Ren said. “Have a good day.”
+
+Ren and Nathalia went outside and no bodies were around Princess, so he assumed she didn't kill anyone. He helped Nathalia climb onto the cart and then got on himself. He led Princess back out of the main part of the city, and she ran as hard as she could back to House Neram. She slowed down just before the gate and Ren had her stop right in front. He climbed down and Wohrum opened the gate for him to lead Princess and the cart inside. The gate closed behind them, and Ren helped Nathalia down. She pat Princess as Ren unhooked the cart, and waited while Ren took Princess into the stable.
+
+“That was great, Princess.” Ren said, and she nosed her bowl. He chuckled. “I already made them for you.” He said and dumped a huge pile of french fries into the bowl. She dug in and fries flew all over the place and Ren laughed, then left her to enjoy them.
+
+“What now, My Love?” Ren asked Nathalia.
+
+“How about we go inside and sit on the couch? We haven't had a chance to talk in a while.”
+
+Ren gave her a quick kiss. “I'd like nothing better.”
+
+For the rest of the day, Ren and Nathalia enjoyed each other's company.

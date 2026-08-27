@@ -1,0 +1,283 @@
+---
+id: e6411559-a0bd-5062-a7aa-67bf229b85fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 448 - Light Shines Not So Brightly"
+slug: 0447-chapter-448-light-shines-not-so-brightly
+partOf: mythrans-master-of-all-continued-completed
+position: 447
+ownLength: 3337
+unit: words
+publishedAt: 2017-12-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179601/chapter-448-light-shines-not-so-brightly"
+royalRoadId: "179601"
+---
+
+Xuunah stirred in her sound sleep when she felt the call, and it woke her up instantly. She jumped out of bed and stood up to her full height of 5 foot 8, which was a foot and a half taller than her dwarf form. Her movements weren't awkward at all as a full set of armor formed around her and her sword and shield materialized in her hands. A bright white portal opened in front of her and she stepped through it without hesitation.
+
+*
+
+Officer Holly felt the Light element fill her, and she calmed down as a bright white portal appeared in front of her. A being that wore white and gold armor from head to foot stepped out, and they had a glowing sword and shield.
+
+Wow. Officer Holly thought. What a beautiful sight.
+
+Xuunah wasn't surprised to see a Paladin on their knees in front of her; but, she was surprised that it was a woman and so low level. “I have heeded your plead for aid, Paladin.”
+
+“Thank you.” Officer Holly said and stood up. “Four powerful undead roam the street, and I think they are looking for something.” Or someone. She thought. “Even one is too much... uh.” She felt another poke in the side. “One of them is right there!” She said and pointed.
+
+Xuunah felt her desperation and turned to face the foe, leaped out from behind the building they were hiding behind to confront the enemy, with Officer Holly close behind with her own sword drawn.
+
+*
+
+Ren felt something flare in his Aura from the next room, as did the maids through him; and Frikara stopped immediately and slid off. Ren switched to his Heat Sense to detect anyone within his Aura, and activated his Undead Adept skill to see where his skeleton knights were. Xuunah's presence disappeared from his Aura, then her presence reappeared down the street near the edge of his Aura beside someone else.
+
+“What the hell is going on?” Ren said as he gained the Angered condition. He stood up and equipped his clothes, ran to the window, and didn't see anything; then felt Xuunah quickly move to attack one of his skeleton knights. “Dammit! What is she doing?”
+
+*
+
+Xuunah landed and swung her sword at the threat, and it already had it's sword and shield ready to parry the blow. She was shocked at first, then she saw her opponent and recognized it's disguise because she had seen 9 others just like it.
+
+“Please accept my apologies.” Xuunah said to the disguised skeleton knight, and lowered her weapon. “I attacked you on false pretenses.”
+
+The skeleton knight hesitated for a moment, then nodded and continued on its patrol of the street as per Ren's orders. Xuunah looked around and saw she was on the far end of the street from Ren's house, so she turned around to see a surprised Officer Holly.
+
+“You didn't kill it?!?” Officer Holly exclaimed, and couldn't believe what her eyes had just witnessed. “We're supposed to rid the world of the undead!”
+
+Xuunah's sword and shield faded away. “These are... special cases.”
+
+“Special cases?” Officer Holly asked. “How are they special? They are undead! Their corpses were ravaged by the Raise Dead spell to create monstrosities, and they are a blight to be disposed of!”
+
+Xuunah sighed as the woman in front of her spouted the direct doctrine of the Paladin Knights. “If you would just listen...”
+
+“No! I summoned you for help, and you are supposed to help-URK!” Officer Holly's words were cut off when Xuunah's armored hand grabbed her around the throat and picked her up.
+
+“I said listen.” Xuunah said, and Officer Holly struggled in her grasp. “Instead of just attacking every creature you meet, you might want to check what they are doing first!” She said. “You noticed the pattern, but did you discover what the pattern was for? Did you scout around to see what they were actually doing?”
+
+Officer Holly tapped the back of the armored hand, and Xuunah put her down and let her go. “What...” She coughed. “...are they doing?”
+
+“Patrolling for threats to the one they guard.” Xuunah said. “Haven't you noticed that they aren't going away?” She asked, and Officer Holly's eyes widened. “Even the most powerful Raise Dead spell has a time limit.”
+
+“B-but...”
+
+“That's one of the reasons why these undead are special.” Xuunah said. “I've been here for 2 days now, and they show no signs of weakening, or signs that the spell is losing power and fading.”
+
+“Wh-what?” Officer Holly was surprised. “How is that possible?”
+
+“I don't know the specifics, only that they were gifts from the Lost Knights.” Xuunah said, and she saw no reaction from Officer Holly. “Never mind.” She said as her armor faded away. “I'm just glad I don't have far to go to get back to where I was.”
+
+“B-but... shouldn't another portal open?”
+
+“I didn't complete the task I was summoned for.” Xuunah said and started to walk away. “He would be so angry if I had.”
+
+“Wait!” Officer Holly said and ran to catch up to her. “Who would be so angry?”
+
+“My ex-almost-son-in-law.” Xuunah said. “I'm even staying in his guest room.”
+
+“Hold on just a minute!” Officer Holly said.
+
+Xuunah stopped walking and held in her annoyance as she turned to look at the woman. “Yes?”
+
+“Your ex-son in law brought undead into a city of unsuspecting people, and you're fine with that?”
+
+“They were here before I was, and he graciously offered me a place to stay.” Xuunah smiled. “Is a guest supposed to make demands upon the one hosting them?”
+
+“Are you serious?” Officer Holly asked. “What is wrong with you?”
+
+Xuunah chuckled and started walking again. “Nothing is wrong with me; it's you that's in the wrong.” She said. “A Paladin's job isn't to go on a crusade to wipe out every single undead they come across. Their job is to keep the peace, to do what's right, and to help people in need.”
+
+“But...”
+
+“If the undead are a threat, then you remove them.” Xuunah said and came to a stop in front of a house with two undead guarding it. “These undead are anything but a threat... unless you threaten him or what's his.”
+
+“I don't believe this.” Officer Holly said. “You're the embodiment of Light! How can you stand to be around these things?” She said and motioned to the two disguised skeleton knights. “They make my skin crawl!”
+
+Xuunah turned and put a hand on Officer Holly's shoulder. “There are much worse things in this life than a feeling of unease, Paladin.” She said, pat her shoulder, then opened the front door.
+
+“Wait!” Officer Holly said and tried to step forward. She was met by two crossed swords that barred her way. “Are you going to let them attack me?”
+
+Xuunah smiled. “You would already be dead if they were going to attack.” She said and shut the door.
+
+*
+
+Officer Holly stepped back from the door and the crossed swords, and shook her head in disbelief. How can she... “Oh... my... god.” She said out loud when she realized where she was. “This is Ren's house!”
+
+As she stood there and took several deep breaths, she felt the other skeleton knights. 2 in front of her, 2 in front of the tower next door, 2 on top of that tower, and 4 moving around on the street.
+
+He has 10 of them. Officer Holly thought in surprise, slowly turned around and started to walk down the street. 10 undead guards that never need to eat, sleep, or get tired.
+
+*
+
+“Why is this happening now?” Ren asked as he felt the stirring emotions of Xuunah and whoever it was she was with. “This is interrupting my special time with Frikara!” He said and ran out of the bedroom and down the stairs. “What's going on?” He asked Xuunah just inside the front door.
+
+“A Paladin thought your guards were a threat to be dealt with, and prayed for my assistance.” Xuunah said as she successfully ignored Ren's silver-blue eyes with a red glow.
+
+“You attacked without provocation?” Ren asked and frowned.
+
+“Now that I know the circumstances, yes.” Xuunah said and sighed. “I thought she had a legitimate reason for calling me.”
+
+Ren took a deep breath and let it out. “I'll speak to her, and straighten this out.” He said and reached by Xuunah for the door handle. She tried to stop him and caught is hand.
+
+“It's all right, I-” Xuunah gasped when her own Light reacted to his.
+
+Ren felt the change in her emotions, and how shocked she was. “Are you all right?”
+
+“I... yes, I...” Xuunah felt Ren's Collective connection to her daughter, just as she had felt it in Nathalia. It was so strong that she knew his Light affinity must be quite high. Ren felt something poke him in the head several times, and he smiled.
+
+“Are you trying to influence me?”
+
+“Wh-what?” Xuunah blinked her eyes, and he felt her surprise.
+
+“I can feel you poking me.” Ren said and tapped his temple, now unsure of his conclusion.
+
+“N-no, I... that's not...” Xuunah let his hand go, but she could still feel him.
+
+Ren felt the presence on the other side of the door move away. “She's leaving.” He said and opened the door and stepped out. He saw a woman walking away and ran over to her. “Hey, you!”
+
+Officer Holly turned around at the shout, and came face to face with Ren. Oh, damn. She thought, then activated her Charm Person ability. “Hello! It's such a nice night for a walk.”
+
+“Cut the crap, ma'am.” Ren said as her feeble probe barely touched his brain. He could feel her emotions, and knew she was trying to put one over on him. “First you try to attack my guards, and now you're trying to influence me.” He said. “What's your deal?”
+
+“N-nothing.” Officer Holly said, and finally noticed the red glow around his eyes. “I... I was only walking down the street.” She said, and he felt her unease.
+
+“I've met you before.” Ren said when he recognized her. “You bought a bunch of things in my store.”
+
+“Yes! That's where we met.” Officer Holly said, and Ren immediately detected the lie.
+
+“Holly!” Frikara nearly yelled as she hung out the second floor window of the bedroom, and waved to the woman. “What are you doing here?”
+
+Officer Holly looked up at her and didn't know what to say, because she knew Frikara could tell when she lied.
+
+“Holly.” Ren said. “I know that name.”
+
+Officer Holly looked down at Ren, and saw his frown.
+
+“Holly... Holly...” Ren said, and then his eyes went wide. “Officer Stonewall.”
+
+“I don't know who that is.” Officer Holly said, and she saw Ren wince. Oh, damn.
+
+“Yes, Officer. I can tell when you're lying.” Ren said when he felt her dismay. “It's neat to see you quite a bit taller than your real height.”
+
+“It's a mod.” Officer Holly said and pointed to her boot to distract him. “It adds 6 inches to your height.”
+
+Ren wasn't fooled and didn't look down. “That's sneaky.” He said. “You changed your face, too.”
+
+“Wh-what?”
+
+“You made full use of the character creation options.” Ren said and chuckled. “You must have some really odd sensations when doing things like eating in here.”
+
+“How do you know that?”
+
+“There's a reason most people don't bother with extensive changes.” Ren said. “It lessens the sensations, because your brain can't handle the changes properly.”
+
+Officer Holly didn't say anything, mainly because he was right.
+
+“Now that I know it's you, and I've seen you around a few times... why don't you tell me why you're here.”
+
+“I told you.” Officer Holly said. “I was just...”
+
+“Lie to me again, and I'll bend you over my knee to spank you.” Ren said with a huge smile.
+
+“You can't do that!”
+
+Ren thought about his Prince Charming title and thought on. Officer Holly's eyes widened slightly, and he felt an automatic reaction from her.
+
+“It seems it did work for a title, Ren.” Teepo said.
+
+It sure did, buddy. Ren thought happily, because his interactions since turning it off meant they were all genuine; including both Rosie and Frikara. “Officer Stonewall, tell me why you are here.”
+
+Officer Holly didn't say anything.
+
+“Found that loophole of not speaking, did you?” Ren asked, and she didn't respond. “You're a police officer, so I'm pretty sure I know something about you.” He said and took out a chair from inventory. “You believe an omission of fact is still a lie.”
+
+Officer Holly opened her mouth to contradict him, and he put his hands on her hips and turned her around. “Hey!” She said as he picked her up. “Let me go!”
+
+“You need a good spanking.” Ren said and sat down, bent her across his lap, and kept a hand on her lower back to hold her in place.
+
+“S-stop!”
+
+“I'm glad you're wearing pants, because this would have been awkward with a dress on.” Ren said and slapped her butt.
+
+“NOO!” Officer Holly yelled as pain lanced through her backside and she lost a quarter of her Health.
+
+“That was only half an inch away.” Ren said. “Why are you here?”
+
+“Screw you!” Officer Holly said, and he slapped her butt again. “AHH! STOP!”
+
+“Only if you tell me.” Ren said and slapped her again.
+
+“You're killing me!” Officer Holly said, and he knew she was telling the truth.
+
+“I'm sorry.” Ren said and took out a Major Healing wand to heal her. She felt instant relief and her Health refilled, and then he slapped her butt again.
+
+“STOOOP!”
+
+“Tell me, Officer.” Ren said and caressed her butt where he had slapped her. Her emotions turned from indignation and embarrassment to arousal and embarrassment. “I don't want to hurt you any more than you want me to hurt you.” He said. “Please, just tell me.”
+
+Officer Holly didn't say anything, and he slapped her butt again. “All right! ALL RIGHT!” She exclaimed. “I'm here to protect you!” She said. “I was supposed to watch you covertly, and see if anyone from the evidence file tried to contact you!”
+
+Ren used the wand again to heal her, and she relaxed. “Why not just tell me?” He asked and caressed her backside again; first one side, and then the other. He could feel that she really liked it, despite the fact that she hated the position she was in.
+
+“It was... supposed to be... covert.” Officer Holly panted. “No one... was supposed to know.” She took in a deep breath and closed her eyes as his fingers touched every part of her backside. She was a little surprised that he didn't try to grope her chest or push his hand between her legs.
+
+“What about the skeleton knights?”
+
+“I didn't know... they were yours... until I saw the house.” Officer Holly said. “Go a little lower.” What am I saying?
+
+Ren moved his hand down a little and gripped the top of her thigh right under her butt cheek. She gasped at the strength in his hand, and his fingers were so maddeningly close to her special place that it drove her a little wild. Ren felt her desire spike and saw the heat increase between her legs, so he leaned close to her ear to speak.
+
+“Do you want me to touch it?” Ren whispered.
+
+Officer Holly's brain wanted to say no, to say that she was supposed to be protecting him; but, her head nodded instead. What am I doing? She thought and doubted her decision, then Ren slid his hand between her legs and her whole body tensed up at how good it felt.
+
+“It's so hot down there.” Ren said and watched it with his Heat Sense. It turned bright red as he rubbed it, and Officer Holly's breath sped up quickly. “Let me take some of that heat for you.”
+
+Officer Holly was lost to the sensations he was giving her as Ren deftly used his fingers to probe her through her clothing. She started to grind herself against his hand to help, and Ren smiled as he felt her getting close.
+
+“I'd like an apology.” Ren said and slowed his hand movements.
+
+“I'm sorry! I”M SORRY!” Officer Holly yelled. “God! Don't stop!”
+
+Ren rubbed her faster than anyone had ever rubbed her before, and then she went.
+
+“OH, GODDDDD!” Officer Holly screamed as she finished and clamped her legs together. Ohgodohgodohgod. She thought as her pants were soaked through from one of the best orgasms she had ever had. Ren didn't try to pull his hand back when he felt the dampness, and just calmly waited for Officer Holly to come back to her senses. He felt how much she had enjoyed it, and didn't want to ruin the moment by distracting her from what she was still feeling.
+
+“Wh-what... the hell... was that?” Officer Holly managed to say. Her body was flooded with endorphins and she took several deep breaths to try and gather enough strength to get up off of Ren's lap.
+
+“If I had to guess, that was the greatest thing you've ever felt.” Frikara said from beside her.
+
+Officer Holly turned her head to try and look up; but, she couldn't lift her head up that far yet. Frikara felt her frustration through Ren, and she knelt in front of Officer Holly's head and held it up for her.
+
+“Are you really trying to protect Ren by following him?” Frikara asked.
+
+“Yes.” Officer Holly said, and blinked her eyes to try and bring Frikara into focus.
+
+“Adventurers are here somewhere and are trying to hurt him?” Frikara asked.
+
+“Yes.”
+
+“Rather than hide from me, since you look so different than you do in real life, you could have just stayed around.” Ren said. “No one would have known who you were.”
+
+“T-tried that.” Officer Holly said. “Your maids are... lie detectors.”
+
+Ren felt her regain some of her composure.
+
+“I couldn't stay and... keep my cover.”
+
+“That was a mistake.” Frikara said. “We will do anything to protect Ren, and keeping you under cover to do that would have been easy if you had told us.”
+
+“I... I see that now.” Officer Holly said, then looked at Ren. “Can I get up now?”
+
+“Only if you give me my hand back.” Ren said, and smiled as he felt her embarrassment. “Oh, and have clean clothing to equip.”
+
+Officer Holly nodded and opened her legs to release his hand, then equipped a nice dress that let her blend into a crowd. She stood up and sighed at the mess she had made of her assignment.
+
+“John is going to kill me.”
+
+“Why?” Ren asked. “You haven't failed your mission yet.”
+
+Ren stood up and glanced at his wet hand, then looked directly at Officer Holly. He smiled a little and watched her as he very slowly brought the wet hand to his mouth and licked it. She let out a little gasp, and Ren felt how much she liked that he did that; almost as if he was accepting a reward for pleasing her. He cleaned off his fingers and Officer Holly watched him intently; and she thought it was the most erotic thing anyone had ever done for her.
+
+“It's a good thing I'm moving tomorrow.” Ren said and smiled. “We'll need the extra room now that my entourage has just increased by one.”
+
+“Wh-what?”
+
+“You don't seriously think that I'm going to just let you roam around to spy on me, do you?” Ren asked, and he felt her surprise. “If you really want to protect me from people that try to contact me, then the only way to do that is by staying right beside me.”

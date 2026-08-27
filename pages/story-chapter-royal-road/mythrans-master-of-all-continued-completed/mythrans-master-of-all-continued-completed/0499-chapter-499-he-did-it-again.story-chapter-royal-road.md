@@ -1,0 +1,287 @@
+---
+id: e63bdee6-1533-50d6-84f4-29655c0c6ac5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 499 - He Did It Again"
+slug: 0499-chapter-499-he-did-it-again
+partOf: mythrans-master-of-all-continued-completed
+position: 499
+ownLength: 3324
+unit: words
+publishedAt: 2018-02-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191465/chapter-499-he-did-it-again"
+royalRoadId: "191465"
+---
+
+Ren and Princess arrived at the Giant Refugee settlement 5 minutes later, since they had to cross part of a continent, an ocean, and then part of another continent to get there. It was in the complete opposite direction than the High Elven Kingdom, and Ren had checked with the All-Seeing Mirror and asked for the shortest distance.
+
+It would take Princess 8 minutes to get them back to the no man's land between the Human Kingdom and High Elven Kingdom, so he had 2 minutes of time to spare. Now Ren had to use those 2 minutes very sparingly to pull off what he intended to do. He had Princess slow down and come in for a landing right in the middle of the settlement, and he saw there were several hastily constructed houses among the camping tents as her hooves touched the ground.
+
+“He's back!” Someone shouted, and all the giants that were cooking turned and looked at Ren. There was a sound of a tent flap rustling, and several loud footsteps. Ren smiled as a 22 foot tall giant woman ran into the clearing. Her brown wavy hair was a little longer than it had been the last time he saw her, and it was now several inches past her shoulders. He stopped himself from licking his lips as her emotions flooded into him.
+
+“Ren.” Laurelia said, almost reverently. “Is it really you?”
+
+“Is the new armor throwing you off?” Ren asked jokingly as he opened the covered cart, so that Xuunah, Officer Holly, Artemis, and Symmetra could see what was happening.
+
+“Maybe a little.” Laurelia said and smiled.
+
+“I'm really sorry I haven't been back in so long, Laurelia.” Ren said and turned towards her. “I can give you a pile of excuses for why that was, and I will come back to explain everything.”
+
+“Come back?” Laurelia stared at Ren as he walked up into the air towards her, and several of the female giants gasped as he did so.
+
+“I'm in a crunch for time at the moment.” Ren said. “I'm going to do something that's going to change things, and I had to come to you and let you know.”
+
+It touched her heart that he had done that, and Ren stood in the air in front of her face. He reached out and touched her cheek, then closed his eyes as her emotions poured into him.
+
+Is this what it was like when Elerlyth first met me? Ren asked himself, then opened his eyes. “If this works like I expect it to, then you and the rest of the refugees will have somewhere to actually live, and not keep camping like this.”
+
+“You've done so much for us already.” Laurelia said. “Just getting us into contact with our families has been so wonderful.” She said. “I even got to see my mother.”
+
+“Oh?” Ren smiled, and couldn't resist teasing her. “Did you tell her about me?”
+
+Laurelia's face went a little red. “Mom? Ren wants to know if I told you about him.”
+
+Another giant woman, one of the cooks, stepped towards them. She had brown wavy hair as well, except that it was quite long and was currently tied into a ponytail at the back of her head.
+
+“No, she never mentioned her rescuer, or her savior, or her protector, or her provider, or even the little person she dreams about and can't get out of her head.” The woman said.
+
+“Mom!” Laurelia's face flushed completely red.
+
+“Well, I guess I didn't mean as much to her as I thought I did.” Ren teased.
+
+Laurelia's emotions spiked as she started to protest. “Ren, that's not true!” She said. “I told her everything!”
+
+“I know.” Ren chuckled, and felt her relief. “I can feel your emotions, and I know she was joking.”
+
+“So what's this thing you're going to do?” Laurelia's mother asked.
+
+“I'm making a city for you, right next to this camp.” Ren said. “You won't have to live in a tent and share baths anymore.” He smiled. “Unless you want to, that is.”
+
+“Are you propositioning me, young man?” She asked, and Ren felt that she was teasing him.
+
+“That would depend on if you're married, Ma'am.” Ren said without missing a beat, and her face went red.
+
+“She is.” A male giant about 25 feet tall came through the gathered crowd and stood beside Laurelia's mother and put a protective arm around her shoulders.
+
+“Then it's just a statement of fact, sir.” Ren said and smiled at him. “I hope you all enjoy the new accommodations.”
+
+“Ren we have to leave to make the deadline.” Teepo said.
+
+“I have to go.” Ren said and pat Laurelia's cheek. “I'll be back in about 20 minutes.”
+
+“Wait!” Laurelia said. “Can... can I have a kiss?”
+
+Ren smiled and kissed the tip of her nose. “I'll give you a proper one when I come back.”
+
+Laurelia's heart skipped a beat at the thought of a proper kiss from him, and Ren quickly walked down to the ground and closed the cart, mounted Princess, and she trotted up into the air.
+
+*
+
+“It's taken months to build these few houses to the proper size.” Laurelia's father said. “How long will it take to make an entire city?”
+
+“Was there a reason he had to warn us before he started?” Laurelia's mother asked.
+
+“If... if it's Ren...” Laurelia said and watched the cart land 3 miles away. “It's going to be wondrous.”
+
+“I don't see what you see in him.” Her father said and shook his head. “He's kind of full of himself.”
+
+“I know it seems that way, but...” Laurelia stopped talking as she saw the cart go up into the air again and disappear from sight.
+
+“But what?”
+
+“Even though he's only a little person, he's done great things.” Laurelia said. “He even negotiated with the Chancellor himself, who acknowledged him.” She smiled as she saw something grow larger in that direction. “Wouldn't you feel confident in yourself after gaining the Chancellor's Respect?”
+
+Her father closed his mouth and looked in the direction where his daughter now looked, and saw a humongous metal, stone, and wood cube that hadn't been there a moment before. I guess I would.
+
+*
+
+Ren had dropped Symmetra off at the site for the Giant City, and they rode back across the sea and across the continent to land in an appropriate spot that was right in the middle of the no man's land.
+
+“20 seconds!” Teepo exclaimed.
+
+Ren jumped off of Princess. “Go three miles out, Princess!”
+
+“Yes, My Lord.” Princess said and trotted up into the sky and out of the expansion zone. Ren took out the city model cube and used his Enlarge and Reduce Anything wand 9 times to make it the appropriate size.
+
+“5 seconds!” Teepo said.
+
+Ren took a deep breath as his friend counted down.
+
+“NOW!” Teepo yelled, and Ren spoke the Sea Dweller's command word for the cube. Time seemed to slow down as Ren was gently picked up and pushed away from the city when it expanded and grew out to it's full size. It took nearly 10 seconds, despite the recipe being an 'instant tower'. When it was done, Ren stood just outside the now very large draw bridge that was the entrance to the city.
+
+“It... it worked.” Ren said. “I can't believe it.” He said and looked at the colossal walls before him. “I wonder why I haven't...”
+
+Ren's words were cut off when he received a series of popups.
+
+System Notice!
+
+You have created a self-contained Human City that will benefit it's residents for all time. It's enchantments will allow it to exist forever, and it never needs to be repaired. Even new buildings built within it's walls will benefit from the enchantments.
+
+Please note: Thanks to the last minute code alteration to the plans, it has gained a special designation as a Starter City. All of the necessary Business Owners and Essential Services will randomly generate within it's walls to maintain the city's continued function.
+
+System Notice!
+
+You have created a self-contained Giant City that will benefit it's residents for all time. It's enchantments will allow it to exist forever, and it never needs to be repaired. Even new buildings built within it's walls will benefit from the enchantments.
+
+Please note: Thanks to the inherent code in the plans, it has gained a special designation as a Starter City. All of the necessary Business Owners and Essential Services will randomly generate within it's walls to maintain the city's continued function.
+
+System Notice!
+
+You have created a self-contained High Elven City that will benefit it's residents for all time. It's enchantments will allow it to exist forever, and it never needs to be repaired. Even new buildings built within it's walls will benefit from the enchantments.
+
+Please note: Thanks to the last minute code alteration to the plans, it has gained a special designation as a Starter City. All of the necessary Business Owners and Essential Services will randomly generate within it's walls to maintain the city's continued function.
+
+Important System and Administration Addendum (Player Version)
+
+A Cathedral of Communication to the Prime Deity has been detected within the High Elven Starter City. Due to it's highly restrictive protocols, its normal function will be severely limited until further notice.
+
+Quest Complete!
+
+You have completed Lord Tathalyn's life-long work. It was a herculean task, but you have prevailed in record time. His central tower is fully functional, and all appropriate buildings (minimum of 1 each) have been completed.
+
+Rewards: You have gained Fame throughout the High Elven Kingdom. Everyone will know your name, visage, and works. Any quests or tasks performed within the kingdom will provide both XP and Fame bonuses in addition to other bonus gains.
+
+XP: +25%, Fame : +25%
+
+Your Honor Stat (currently maxed) has been Locked, and no further gains or losses are possible. Once locked, it can't be unlocked.
+
+Honor: +50,000
+
+You have gained 100,000 XP + 25% = 125,000 XP
+
+You have gained 10,000 Fame + 25% + 75% (Maxed Fame 100% - Slow and Steady 25%) = 20,000 Fame
+
+Secret Plans (Hidden)
+
+Notice!
+
+Excess Honor and Fame have been converted to XP.
+
+50,000 Honor x 10 XP = 500,000 XP
+
+20,000 Fame x 10 XP = 200,000 XP
+
+Notice!
+
+You have gained 3 levels! You are now Level 143 and 30 stat points have been automatically allocated. You have unlocked: Book of Quickness (Item), Book of Exercise (Item), Improved Toughness (5) (Skill), Robe of Ranged Weapons (Recipe)
+
+“I just gained 3 levels... wait, did that say hidden Secret Plans?” Ren asked and looked at the popup again. “No, I am not going through that again.” He said and took out the All-Seeing Mirror. “Please show me what's in the Secret Plans that I have in my inventory.”
+
+The All-Seeing Mirror showed Ren what the plans were that he had gained from completing the tower, and his eyes widened as he read them.
+
+*
+
+Lord Tathalyn's social life had dried up overnight because he could no longer call upon his long-time friend Yllana Arthion. He was tempted to defy the Adventurer's mandate that he could not call upon her; but, he was worried if he did that, the Adventurer wouldn't build his tower for him.
+
+That was something he dared not risk.
+
+His own people had shunned him decades ago. It wasn't because of his hidden criminal activity, it was because he was just too much of an odd personality for them to deal with on a regular basis. His views on how things should be compared to how things were, was too different of an opinion from the High Lord's own view, and his peers couldn't take his constant commentary of how things could be better.
+
+He sat alone in his tower apartment, and contemplated how long it would take to build a mile high tower, and wondered if he could survive for that long without seeing Yllana's face. Her bright smile and lively attitude was always a pleasure to have around, and he thought about what it would have been like if he had crossed the line she had made him swear that he would never cross with her.
+
+It was then that he received a notification that he thought would be decades before he would see... if at all.
+
+Quest Completed!
+
+The Adventurer, Ren the First, has completed your life-long work. It was a herculean task, and he has prevailed in record time. Your central tower is fully functional, and all appropriate buildings (minimum of 1 each) have been completed and placed around it.
+
+Your Secret Plans (Hidden) can now be fulfilled.
+
+Lord Tathalyn jumped to his feet in shock and reached out for the popup window, stumbled over his feet, and fell to the floor on his knees.
+
+“It's done? How?” Lord Tathalyn asked out loud, and the popup disappeared. “No! Where is it?” He asked and swatted the air where the popup was. “Tell me!”
+
+He pushed himself up and hurried over to his wall safe, dismissed the spell that held everything in place, and opened it up to retrieve the only thing inside. It was the thick scroll of parchment he had stopped Ren from reading, and he picked it up reverently. Lord Tathalyn walked over to his workbench, then once again pushed everything out of the way and onto the floor. He unrolled the scroll and spread out the parchment papers inside to find the one he needed.
+
+Lord Tathalyn used a dagger to cut his finger and placed his hand onto the blank sheet of parchment, and sighed as a map appeared with a large X where the tower was, right in the middle of the no man's land between the Human Kingdom and High Elven Kingdom.
+
+“He really did it.” Lord Tathalyn said, his voice full of awe. “The tower is complete.”
+
+He kept the map out and rolled the other parchment pieces together back into a scroll and stored it. He looked around his messy apartment and knew there wasn't anything else inside of it that he needed. He went to the door and down the lift to the ground floor, and walked hastily towards the closest city exit. He could rent a cart and driver there, and with enough payment, would even drop him off outside of the High Elven Kingdom.
+
+********
+
+*BEEP* *BEEP* *BEEP* *BEEP* *BEEP*
+
+The howl of the server overload warning screamed through the tech department, and the programmer who worked at night almost had a heart attack at the sound. He recovered from the shock quickly and typed in several commands at his terminal, then brought several of the backup servers in to share the load. The warning siren cut off, and he sighed as the silence he enjoyed so much returned.
+
+“What the hell just happened?” He asked out loud, even though he was the only one there. He brought up the activity logs and his mouth dropped open in surprise at what they said. “No, this... it can't... how is this possible?”
+
+The programmer contemplated how it could have happened, and was at a loss to explain it.
+
+“I can't believe I have to call him again in the middle of the night.” He said, and picked up the phone. “He is not going to be happy.”
+
+*
+
+Max, the Head Programmer for Sid Tec, was in the middle of the best dream he had ever had when his phone rang. His dream shattered as reality intruded on it's perfection, and his anger bubbled up when he saw what time it was.
+
+It's 2:30 A.M.! Max thought as he grabbed the land line telephone beside his bed and put it to his ear. “If this is anything besides the servers breaking down, you're fired.” He growled into the phone.
+
+“That almost happened, sir.” The night programmer said, and Max's anger fled as quickly as it had risen.
+
+“What?” Max asked in a more reasonable voice.
+
+“The overload sirens were set off only moments ago, sir.” The programmer said. “I brought in three backups to cover the load.”
+
+“Good god, what happened?”
+
+“Sir, I... I checked the activity logs, and... I don't know how to explain it.”
+
+“Just tell me.” Max said, and the programmer sighed.
+
+“I don't know how this happened, but... despite seeing the logs and the server load triple in only a few seconds...”
+
+“Spit it out!”
+
+“Sir, 3 new starter cities have appeared in the game simultaneously.”
+
+“WHAT?!?” Max yelled into the phone. “That's impossible!”
+
+“I thought so, too.” The night programmer said. “It just happened, though. One city is in the Human Kingdom, one is in the space between the Dwarven Kingdom and the Giant Kingdom, and the last one is between the Human Kingdom and High Elven Kingdom.”
+
+Max shook his head in disbelief. “Are you sure they're starter cities?”
+
+“Hold on, and I'll send you the data.” The night programmer said and typed in a few commands into the terminal to gather the relevant data, and sent it in an email to his boss. “Okay, it's on it's way.”
+
+Max's cell phone beeped at him, and he braced the land line with his chin and shoulder as he picked up the cell phone to scroll through the data.
+
+“A human starter city, a Giant starter city, and a High Elf starter city.” Max said into the phone as he browsed the data. “Oh, damn.” He said as he saw what had happened. “I know why the server almost overloaded.”
+
+“It wasn't because three race spawning cities just appeared?” The night programmer asked.
+
+“The High Elf city has a tower in the center.” Max said.
+
+“All of them have towers.”
+
+“Not a mile high, they don't.” Max said.
+
+The night programmer didn't know what to say to that, until he thought about how big the tower had to be to stay standing at a mile in height.
+
+“Geez, it's base must be a mile wide, too!”
+
+“No, it's only half a mile.” Max said. “The city around it? That's 5 miles wide.”
+
+“Five... five MILES?”
+
+Max laughed. “Yeah, and I just checked the other two 'starter' cities. Unlike the circular High Elf city, they are square and 5 miles wide, too.”
+
+The night programmer sat back in his chair and shook his head. “What do we do?”
+
+“Well, they've been registered with the system and are fully integrated into the code.” Max said. “There's nothing we can do with them.”
+
+“Can't we just delete them?” The night programmer asked. “I mean, this shouldn't happen, right? Even if it's done part of our work for us by making the Giant and High Elf starter cities, shouldn't we ask why those cities, spread out over half of the game world, just popped up for no reason?”
+
+“Well, since those two cities aren't in their home nations, I doubt it's for 'no reason'.” Max said. “Give me the location of the human one.”
+
+The night programmer checked the terminal and found the location. “It's Walin county, and-” He stopped talking when he read who owned it.
+
+“What is it?” Max said.
+
+“I shouldn't say, sir.” The night programmer said.
+
+“Goddammit.” Max said and sighed. “Ren owns that county, doesn't he?”
+
+“Yes, sir.”
+
+“I'll be right there.” Max said and hung up his home phone, and ended the data transfer on the cell phone. It's going to be a long night. He thought as he got out of bed and started to get dressed. He started to think about the awesome dream he was having before being woken up, and nothing came to mind.
+
+Dammit! I hate it when I can't remember the good ones. Max thought and picked up his keys to drive into work 6 hours earlier than he was supposed to.

@@ -1,0 +1,223 @@
+---
+id: 9927ec49-cd8e-5240-a80e-e18f214a8556
+page-type-slug: story-chapter-royal-road
+title: "Chapter 520 - Next, Please"
+slug: 0520-chapter-520-next-please
+partOf: mythrans-master-of-all-continued-completed
+position: 520
+ownLength: 2716
+unit: words
+publishedAt: 2018-02-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196600/chapter-520-next-please"
+royalRoadId: "196600"
+---
+
+“While the Earth beings are working, why don't we go topside and make all the parks and things that the city needs?” Ren asked the pixies.
+
+“A lot of us won't be much help.” One of them said.
+
+“I'd like anyone with Earth and Water affinities to come with me, at least.” Ren said. “I've never done anything like this before, and I could use a few guiding hands.”
+
+“Count us in.” Shanna the Earthkin said, and 6 of the other pixies came over to him. They all had different shades of green and brown hair, and once they stood together, you could tell they were touched by the Earth element.
+
+“Us, too.” Rainie said, and 2 others came over to join her by his side. That made 10 pixies in total.
+
+“I'll try not to work you too hard.” Ren said and smiled.
+
+“Ha!” Suniva said and walked over to him, crawled up his armor, and sat down on his shoulder. “We are the first pixies to have gained both Toughness (5) and Regeneration.” She said and dug her hand into his hair and kissed his ear. “There is no task we won't be able to perform for you.”
+
+Ren chuckled. “Why do I get the feeling you said that suggestively on purpose?”
+
+“Because I did.” Suniva said and pat his earlobe. “We better get a move on if you want to be done of the parks and things before the Earth beings are finished.”
+
+“Okay.” Ren said and looked at Princess. “Are you coming or staying?”
+
+“I'll stay and keep the others company.” Princess said. “Go and have fun.”
+
+Ren unhooked the carriage in case she needed to react to something, and she huffed her thanks. He walked up into the air and the 10 pixies followed and stayed with him, as did Artemis. They exited to the surface through one of the sunlight mirror buildings.
+
+“That looks like a spot there!” Shanna said and pointed.
+
+“Good eye.” Ren said, and they went over to a curved section that he had set aside for a few trees, hedges, grass, and some bushes. “Shanna, you're the expert here.” He said. “Tell me what to do.”
+
+“I'm the expert?!?” Shanna asked, surprised. The pixies let out a low chuckle, and Ren knelt by her.
+
+“I'm pretty sure you're the only one to call forth full trees and things with nothing but Mana.” Ren said. “We're going to follow your lead until we get the hang of it.”
+
+“Well, the first thing we need to do is get some dirt in there.” Shanna said. “We should fill it up to the retaining walls, just to make sure the trees have something good to grip.”
+
+“Okay.” Ren said and held his hands out over the space. He activated his Hands of the Gods special ability and chose Rocky Hands. He started to generate Earth from his hands, and a stream of clumps of dirt came out and started to fill the space.
+
+Ren didn't have the Earth Manipulation skill, so he had to walk around and distribute the dirt to make it kind of even. It didn't take long for him to realize that he could increase the amount of Earth he produced by pouring Mana through his hands. It went much faster after that, and he stopped when it was full.
+
+“Now what?” Ren asked.
+
+“Now we all put a hand on the dirt, thank the Earth deity, and choose what we want to grow.” Shanna said.
+
+“I'll do the grass!” One of the males said. “I'm good at grass.”
+
+“I'll help.” A female beside him said.
+
+“I'll make the bushes.” Another female said. “That's about all I can do, though.”
+
+“Don't underestimate yourself.” Ren said. “I've got tons of Mana for you all to draw upon, so don't hesitate to use it.”
+
+“Then we'll do the outer hedges.” A female said. “How tall do you want them?”
+
+“It's for High Elves, so about 6 feet.”
+
+“I'll try making a tree.” One of the males said. “I've only ever managed a sapling before; but, if what you say is true...”
+
+“Make sure it's a big tree.” Ren said to him and looked at Shanna. “What should we make?”
+
+“I was thinking a nice path of thin trees with intertwined branches.” Shanna asked. “Like a tunnel.”
+
+“Nice.” Ren said and knelt by her again. She reached out and touched his hand, and put her hand down on the dirt. The next pixie touched her shoulder and put their hand on the dirt, and each of the others did the same.
+
+“Rainie? Want to give us some wet soil to work with?” Shanna asked.
+
+“You bet!” Rainie said and held hands with the other two. A small storm cloud formed above them and it started to rain. Ren offered his Mana, and the small cloud covered the whole space. It poured rain for a few seconds, and then Rainie dismissed it.
+
+“Thanks.” Shanna said. “Okay, we've got what we need. Start growing!”
+
+Ren offered up his Mana, and they could take it themselves this time without Rainie having to filter it, which he attributed to the flesh bond. He closed his eyes and imagined the tall tree tunnel, with the intertwined branches over the walkway, and it was big enough to handle even the tallest High Elf. When he opened his eyes, he was surprised that a lush green space greeted him.
+
+“Wow.” Ren said, and he felt the same surprise from the pixies.
+
+“Apparently, we can accomplish a lot more than we used to.” Shanna said, and everyone agreed.
+
+“Where's the next space for us to fill?” One of the others asked excitedly.
+
+“Right over there.” Ren said and pointed to a small round spot.
+
+“I can fit a tree in that!” He said, and the others laughed. When Ren filled the spot with Earth, the pixie actually managed to get a tree in it. Now that Ren and the pixies knew how quickly they could create a green space, they went around the entire city and filled in all the spots set aside for greenery. They had to stop occasionally as Ren went down under the city to give more Mana to the Earth beings, then they all continued their work. After a few hours, they were all done and went back down under the city to meet with Princess.
+
+“This place looks great!” Ren said to the Earth beings when he saw the difference in the land they had made.
+
+“I can imagine the city looks a lot better as well.” The Earth being that took care of his county said.
+
+Ren cast Viewing Cloud and Permanent Widen Effect to make it twice as big, and it showed the Earth beings the changes he and the pixies had made.
+
+“You definitely have a flair for greenery.” She said. “Nice job.”
+
+“It's all thanks to my friends.” Ren said, and praised the pixies. “Now to adjust this place.”
+
+“What?”
+
+“I can't have farmland and no water.” Ren said and smiled as he looked at Rainie. “Give me a hand?”
+
+“Always.” She said, and took the hands of the other two Water-adept pixies. “What do you need us to do?”
+
+“Help fill the trenches.”
+
+“What trenches?”
+
+“These trenches.” Ren said and took out the Staff of Earth, and used the Move Earth ability. He made a series of trenches that could deliver water to every part of the farmland, then made a huge reservoir in the center of the city to feed it. He added Water runes inside for a continuous flow, then Anti-water runes on the top edge to stop any overflow. He even added steel squares at the ends of the trenches to stop them from overflowing as well.
+
+“You Adventurers and your crazy plans.” One of the male Earth beings said half an hour later when Ren and the pixies were done.
+
+“Has everyone had a good rest?” Ren asked, and most of the pixies laughed.
+
+“We've done nothing but rest.” One of them said.
+
+“Then you need a treat for being so patient.” Ren said. “Who wants to meet some giants?”
+
+“I do!” Suniva said. “Anyone that Ren knows, I want to meet.”
+
+Ren chuckled. “That's the spirit.” He said and Princess stood still so he could reattach the uncovered carriage. The pixies all got back inside and he turned to the Earth beings. “Here's the second offering I promised when this job was done.” He said and took out another handful of gold coins and gave them another 1,000 Mana.
+
+“Thank you.” One of the male Earth beings said and took the offering.
+
+“Can I recruit your help for the next starter city that I made between the dwarf and giant lands?” Ren asked, and the Earth beings nodded.
+
+“With 8 of us here, the job didn't take as long as I thought it would.” One of them said.
+
+“In fact, it was almost fun.” One of the females said. “I don't think any of us has had to convert so much unusable land before.”
+
+Another of the females laughed. “It felt disgusting before we fixed it.” She said. “I wouldn't mind spawning an elemental here.”
+
+“Hey! No sex talk in front of the mortals.” One of the males said.
+
+“I'm not as prudish as you.” She said and laughed, then looked at Ren with a 'come here' look on her face. “Should we assume you know nothing about spawning?”
+
+Ren held his hands up in a clear stop gesture. “I don't know you well enough to help you spawn an elemental.”
+
+Several of the female Earth beings chuckled.
+
+“A pity.” She said. “I think an elemental you helped create would be quite powerful.”
+
+No one said anything for a moment.
+
+“Can you meet me at the next city?” Ren asked. “If we get this done quickly, we should be finished before the night is over.”
+
+“Wait, does that mean you actually want to make an elemental with me?” The female Earth being asked with wide eyes.
+
+Ren chuckled. “No, I meant reformatting the land and adding the greenery.” He said. “I hope you're not too disappointed that all I want to do is work with you.”
+
+She smiled. “I think I can deal with it.”
+
+“Then let's go!” One of the pixies said. “I want to see how much bigger a giant is than me!”
+
+Ren chuckled again. “Okay, okay.” He said. “Is everyone aboard and holding on?”
+
+“Everyone but me.” Suniva said from his shoulder, and her hand rubbed his earlobe. “Do you want me to sit with the others?”
+
+“You're fine where you are, as long as you brace yourself.” Ren said and climbed up to sit in the driver's seat on the carriage. Suniva snuggled into the side of his head and held onto his ear. Ren activated Burning Hands and shunted the flames up to his ear, and she gasped as the flames engulfed her. She shivered at their comforting warmth, and started to kiss and lick his ear as a thank you.
+
+I'm really glad Nathalia desensitized me from that. Ren thought in amusement. “Princess, up to the surface, please.”
+
+Princess trotted up into the air and went up the closest sunlight vent, and stopped when they were outside.
+
+“Why did we stop?” One of the pixies asked.
+
+“I need to tell Tanelia, the High Elf I appointed to run the place, that the farmland is ready to be farmed.” Ren took out the All-Seeing Mirror and asked it for her location, and Princess took him there. He told Artemis to stay with Princess and the pixies, then went inside the administration building Tanelia had chosen to set up her office in, and knocked on the door.
+
+“Come in.” A female voice said, and Ren opened the door.
+
+“Well, hello.” Tanelia said warmly.
+
+“How are you?” Ren asked.
+
+“Run ragged.” Tanelia said and laughed. “I've hired a staff with money I don't have, approved loans for new businesses that I don't have the money for, and started planning a city-wide festival to celebrate our new home that I can't pay for.”
+
+“How much do you need?”
+
+“Only a few hundred platinum coins.” Tanelia said and shook her head. “Great Vasalor, did I just say that?”
+
+Ren laughed. “It doesn't take long for the scale of money to get exorbitant, does it?”
+
+“Try instantly.” Tanelia said and smiled. “Going from a shanty town to a 20 square mile city is quite the change.”
+
+“Let me check something.” Ren said and opened the Land Owner menu. He looked under assets, and he was only slightly surprised to see that a new tab was there. He picked the Starter Cities tab, and under it was the three city tabs. Inside each was the same as the options he had for Goagan City. He checked to see that Tanelia was already assigned as the Mayor in the High Elven city, checked the Giant city tab and saw Laurelia was the Mayor there, and no one was assigned in the Human city.
+
+Ren added budgets for the two cities with mayors and dropped 999 coins of copper, silver, gold, and platinum into each of them. He approved the new budget, and saw the popup appear in front of Tanelia.
+
+“What... what is this?” Tanelia asked and read the popup again. “Great Vasalor, Ren!”
+
+“It's your annual budget.” Ren grinned. “I won't keep you from your work.” He said. “I just popped in to tell you the farmland under the city is ready for farming.”
+
+“Wait, what?” Tanelia asked.
+
+“The entire land under the city has been converted into farmland.” Ren said. “So you can start growing your own food and become self-sufficient now.”
+
+Tanelia stumbled a little and sat down at her desk. “You... how...”
+
+“I asked the Earth deity for help.” Ren said. He felt her shock as she stared at him. “Some people believe they can do everything themselves; but, sometimes a little help is just what they need.” He said and walked to the door of her office. “See you later.”
+
+“W-wait.” Tanelia said, and Ren turned back to her. “Thank you.” She said. “Thank you very much.”
+
+“You're welcome.” Ren said. “There's a message option in the Mayor menu if you need me for anything.”
+
+Tanelia nodded.
+
+“If I may make a suggestion?” Ren asked, and she nodded again. “You should appoint your sister as the temporary Ambassador to the Dark Elves.” He said, and felt her shock again. “You can have preliminary meetings and see if the whole ambassador thing will work or not.”
+
+Tanelia didn't say anything, so Ren gave her a little wave and left her office. He ran out to Princess, Artemis, and the waiting pixies. He climbed into the driver's seat of the carriage and Princess took off. Artemis flew beside them as they went across the continent, then across the sea, and came to a stop at the Giant starter city.
+
+“It's huge!” One of the male pixies exclaimed when they landed in front of the main administration building. “I've felt small before, but this...” The pixie shook his head. “It's unbelievable.”
+
+“I thought seeing a colossal cow was unbelievable, right up until I saw it.” Ren said and laughed. Teepo chittered in delight and Artemis laughed, too. Ren checked the All-Seeing Mirror and saw that Laurelia was inside and working a late night just like Tanelia had been in the High Elven city, and he jumped off the carriage and went inside the building to talk to her. It went almost the same as when he talked to Tanelia, except that he had already given her the outrageous budget.
+
+Ren left the office and then he, Princess, Artemis, and the pixies went under the city to meet the Earth beings and to get the next job started. The Earth beings arrived not long after, and set about the work Ren needed them to do, while he and the appropriate pixies added the greenery that the city needed above ground. The pixies initially said that they couldn't make giant-sized items, and Ren told them they only needed to make normal-sized ones and he would enlarge them.
+
+The work went quickly after that.

@@ -1,0 +1,437 @@
+---
+id: 878b91f3-8955-53b7-b0a7-dba76c8c2415
+page-type-slug: story-chapter-royal-road
+title: "Chapter 303 - Lisa's Visit"
+slug: 0294-chapter-303-lisas-visit
+partOf: mythrans-master-of-all-continued-completed
+position: 294
+ownLength: 5075
+unit: words
+publishedAt: 2017-07-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147745/chapter-303-lisas-visit"
+royalRoadId: "147745"
+---
+
+“Well, hello there.” Stella said. “You must be Lisa.”
+
+Lisa stood there and didn't know what to say. As soon as she had seen Ren, her body had frozen stiff. She saw how weak and frail he was, and she'd seen how he needed help getting dressed. It went against everything she 'knew' about him; but, it also brought out a very strong protective instinct in her that she didn't even know she had.
+
+Stella saw what she thought was a look of confusion, and she smiled. It must be quite a shock to see the real thing. She thought. “Ren, I need to go study your new meal plan. Do you mind if I leave you alone for a little while?”
+
+“That's fine.” Ren said. “If I need you before you come back...”
+
+“Just yell.” Stella said. “I'll be across the hall in the kitchen, so I'll hear you.”
+
+Ren nodded and Stella walked over to the door. Lisa still stood in the doorway, so Stella eased around her, and discovered Lisa was a few inches shorter and her short blonde hair was styled in a fancy hairdo.
+
+If they stay standing up, it'll be a little awkward for Ren. Stella thought and went across the hall. She propped open the kitchen door, and stepped out of view.
+
+*
+
+“Hi, Lisa.” Ren said, and she shook slightly. He couldn't tell if it was a good reaction or a bad one.
+
+“Your voice...” Lisa said. “It's...”
+
+“Is it better or worse?” Ren asked her.
+
+“I don't know.” Lisa said. “It's the same, mostly; but...”
+
+Ren smiled because he thought he knew what she meant. “It's more 'real', isn't it?”
+
+Lisa's eyes went wide, and then she nodded.
+
+“You don't have to hold the door open.” Ren said. “Come on in and sit down.”
+
+“What?” Lisa looked down and saw she had a death grip on the door handle and her foot was jammed against the bottom of the door. “Oh, sorry.”
+
+“It's okay.” Ren said as she stepped into the room and let the door shut behind her. “It must be quite a shock.”
+
+“What do you mean?”
+
+“Look at me.” Ren said and walked around the bed. The clothes fit him well and showed off his slight muscular build. “It's quite the difference from what I look like in the game.”
+
+“No, it's not.” Lisa said. “If you had a set of Travelling Clothes, you'd look almost the same.” She smiled. “Except for the beard.”
+
+Ren smiled and rubbed his bare chin. “I guess I can get rid of it, now that I'm not in the dwarf lands anymore.” He chuckled. “I don't have a clue how to do that, though.”
+
+“Use soap.” Lisa said.
+
+“Wait, what?” Ren asked, surprised.
+
+“That magic hair creme isn't water soluble.” Lisa said. “That's why your beard didn't just rinse off when you had your head underwater.” She smiled. “It needs a reactive agent to break down.”
+
+“Wait, wait, wait!” Ren said. “All this time I was stuck with it, and I could have just washed it off with soap?” He started to laugh. “Soap that can be bought anywhere?” He held his sides. “Ha ha! It even comes in the standard camping package! Ha ha ha! Oh... oh, that's funny!”
+
+Lisa laughed with him because his laugh was infectious, and after a few moments Ren calmed down.
+
+“I needed that laugh.” Ren said. “Thanks, Lisa.”
+
+“You're welcome.” Lisa said and walked over to him. “Ren, I...” What is this feeling? She thought. My chest feels tight, like it's being compressed by something. “This... this feeling...”
+
+Ren smiled at her, and took her hand. Lisa took in a sharp breath when his hand touched hers, and he lifted it to put it on the side of his face.
+
+“It's so soft.” Lisa said, and caressed the skin. “Ren, I... before we... I mean... I don't just casually visit people that I meet online...”
+
+“Me, either.” Ren said. “Of course, I thought I was meeting people from all over the world, and then I found out that most of you live close by.” He chuckled. “Not that I could go and visit them anyways.” He said. “I've had one person come and see me before, though.”
+
+“Who?” Lisa asked as she stepped close and used both of her hands to run them through his hair. It's even better in real life!
+
+“Elerlyth.” Ren said. “She was attacked by a rival of mine, and he wanted her to hunt me down.” He grinned. “She did, except she came to me in real life and warned me instead of turning me in.”
+
+“I'm glad.” Lisa said and leaned close to take in a long breath through her nose. “You smell so good.”
+
+“It's the soap.” Ren said and grinned.
+
+Lisa smiled back and moved a hand from his hair to his chest, and felt it beating so much faster than normal. She was surprised, because her heart was beating almost as fast. She wanted to prove it to him, so she took his hand and put it on her chest. Ren's eyes widened as he felt her heart going so fast; but, he could also feel how excited she was through her top.
+
+It didn't look like thin fabric from a distance. Ren thought as the bottom of his palm rested on the tip of one of her breasts. He remembered how nice they were in the game, and he also remembered what she enjoyed. He slid his hand down slightly, and pinched it very, very lightly. Lisa caught her breath and froze.
+
+“Not... not yet.” Lisa said. “I... I want...”
+
+“What do you want?” Ren whispered to her, his voice full of wicked promise.
+
+“Kiss me.” Lisa whispered back. “I... I need to know...”
+
+“Me, too.” Ren said and leaned in close. “We've only met in the game, but... the way you touch me... your reactions...” He placed a gentle kiss on her neck and she shivered. “I am so turned on right now.”
+
+“You... you also have a girlfriend...” Lisa said.
+
+“I do, and she knows all about the things I've done.” Ren said. “Just like you do.”
+
+“But... what if...”
+
+“She also knows I invited you over to see if anything would happen between us.” Ren said and wrapped his arms around her. “I didn't expect... I mean...” He sighed against her skin, and she shivered again from the feeling of his hot breath. “I want to tear your clothes off and make you feel good.” He said and moved a hand to her backside. “You're even wearing a skirt for easy access.”
+
+“That... that's not... I didn't wear it for...” Lisa stammered, and Ren chuckled.
+
+“You wore it for me, so you could show off your wonderful legs.” Ren said, and moved his hand down her thigh. “How many guys stared at you while you came here?”
+
+“A... a lot.” Lisa said. “I hated every moment of it, too.”
+
+“I know you did.” Ren said. “And you should know I love the fact you would put yourself through all of that, just so I could see how pretty you looked wearing it.”
+
+“Ren, I... oh, god.” Lisa said as she closed her eyes.
+
+Ren moved the hand from her thigh and cupped the side of her face. He pulled her head close and pressed his lips to hers. All the tension left Lisa's body and she relaxed into his embrace. The kiss went from a gentle pressing of lips into a full on passionate one, and Lisa had to restrain herself. She clenched her fists before she unintentionally hurt him with how much she wanted to hold and touch him. Ren on the other hand, didn't have that restriction; but, he also didn't want to influence how she felt about their first real kiss. He broke it a few moments later, and let her go.
+
+Lisa opened her eyes and turned to put her hands on the bed and braced herself. Ren stood there and watched her shiver and shake slightly, and he was pretty sure he knew what was happening. He handed her some tissues, even though he knew it had only been a small one.
+
+“It... it's okay.” Lisa said, her breath quite fast. “I... I'm... wearing...” She shook her head and then looked at him. “You... you made me... just from a kiss.”
+
+Ren smiled. “Some things are definitely better in real life.”
+
+Lisa nodded slightly, and the feeling faded enough that she could move. She took several deep breaths and turned to face him. Ren pat the bed and climbed up onto it and sat down, and she climbed onto the bed herself and sat down next to him.
+
+“So.” Ren said. “Now we know.”
+
+Lisa nodded. “It's not just in the game.” She said, and then her face flushed a little red. “Wh-what do we do now?”
+
+“I'm not sure.” Ren said. “I know what I'd like to do; but, it might be too soon to do that.”
+
+Lisa looked at him. “What do you want to do?”
+
+“First off, I want to see you without your underwear.” Ren said. “I know the virtual scan is pretty extensive, but...”
+
+“You want to make sure...”
+
+“That what I saw was real.”
+
+“Ren...” Lisa started to say. “There's... well, I mean... even with shaving, after a day it...”
+
+Ren put an arm around her back. “It's okay.” He said and hugged her with one arm. “We don't have to go that far. This is a lot to take in at once.”
+
+“It's not that...” Lisa tried to explain.
+
+“What's bothering you?” Ren asked and looked at her.
+
+“I...” Lisa sighed. “It's itchy.” She said and looked back at him. “I've been fighting the urge to scratch myself like a baseball player.”
+
+Ren snorted a laugh. “I am so glad I don't have that problem.”
+
+“What?” Lisa said, surprised. “You mean... you're really... like that?”
+
+“Hairless? Yeah.” Ren said and rubbed his chin. “I don't even have to shave.”
+
+“You're kidding!” Lisa said. “I just thought you had a really good razor or something.”
+
+“Nope.” Ren said and grinned. “Baby, this is all natural.”
+
+Lisa blinked her eyes at him several times. He... he just called me 'Baby'. She moved her arm and wrapped it around his back, to match the one he had around her. “Honey, I'd like to see if what I saw was real, too.” She said boldly, then her face flushed a deep red. I did not just said that out loud!
+
+“You look so cute when you blush.” Ren said to her, then kissed her.
+
+Lisa's mind reeled at his compliment and the feel of his lips on hers. She hadn't known she liked kissing so much, until she kissed Ren that first time in the game. She had kissed other guys before, but it wasn't the same. It was like they were kissing for themselves, just to say that they did it and they didn't take her feelings into consideration at all. With Ren, she felt like he wanted to kiss her just as much as she wanted to kiss him.
+
+Lisa moaned in pleasure as they kissed and her mind was at ease; because Ren didn't push her, grope her, or even imply that he wanted her to do anything but kiss. She'd had other guys maul her, and try to force her into moving too fast or doing things when she wasn't quite comfortable enough to do them. They both lifted their free hands at the same time, and intertwined their fingers without stopping the make out session.
+
+This feels so much better than in the game. Lisa thought. I can't believe I'm making out with a guy I only met online!
+
+Ren felt Lisa's hesitation and he stopped kissing her and leaned back. “Is everything okay?” He asked her. “I know this is a little odd.” He said. “Your lips feel so right on mine, though.”
+
+Lisa was surprised to hear her thoughts out loud.
+
+“My fingers are aching to touch you.” Ren said. “I want to rub my hands all over you, just to see if you'll shiver from my touch.”
+
+Lisa shivered, and she wasn't sure if it was a good shiver or a bad one. She was actually confused about what she wanted to feel. The last thing she wanted was for him to rush things, but she also didn't want him to stop.
+
+“I'm pretty sure you're a little reluctant to go much farther than this.” Ren said. “I'm also tempted to ignore the fact we just met, and ask you to come with me to the bathroom.”
+
+“To the what?” Lisa asked, surprised.
+
+“The bathroom.” Ren said. “Unlike my room, it has a lock on the door.”
+
+Lisa was tempted to accept. “What would you do if I went with you?”
+
+“Only what you want me to.” Ren said. “If all you want to do is kiss, it'll give us a little more privacy.” He smiled. “If you want to do a little more, the door locks so no one can walk in on us.”
+
+“I... Ren... we...” Lisa stammered.
+
+“Shh.” Ren gave her a quick kiss. “I'm just telling you some of the options we have.” He said. “We can even wait until I move before we do anything.”
+
+“You're moving?” Lisa asked.
+
+“Yeah. The realtor will be by with the papers soon.”
+
+“What?!?” Lisa said. “We're making out on the bed, and you're waiting for someone to come here?”
+
+Ren nodded. “That's another reason why I mentioned the bathroom.”
+
+“So... I'm just... something for you to do while you wait?” Lisa tried to let his hand go, but Ren kept a hold of it.
+
+“Lisa, that's not true.” Ren said. “Neither of us knew we'd even like each other when we met.” He explained. “I also didn't know when you would show up today.”
+
+“But... you invited me over...”
+
+“I did.” Ren said. “Long before I was told the new house papers were arriving today.”
+
+Lisa sighed and closed her hand on Ren's again. “So, I'm not...”
+
+“Helping me waste time?”
+
+Lisa nodded.
+
+“Shouldn't I ask you that?”
+
+“Excuse me?”
+
+“I'm not just something to occupy your time, am I?” Ren asked her. “I imagine you could have any guy that you wanted.” He said. “Am I just your latest plaything?”
+
+“Now that's something I should ask you.” Lisa said. “How many women are you with now?”
+
+“Virtual or real?”
+
+“What?”
+
+“If you want a total, I could probably give you one for each.” Ren said. “Mind you, the virtual one just dropped by... by...” His eyes teared up, and Lisa's protective instinct kicked in and she hugged him.
+
+“I'm sorry, I shouldn't have brought it up.”
+
+“No, you're right.” Ren said with his head on her shoulder. “I have a steady relationship with one woman, and a casual one with another.” He said. “There's potential for another one, and now there's you.”
+
+“Hold on.” Lisa said and let the hug go. “Real or virtual?”
+
+“Real.”
+
+So... so many? Lisa thought with wonder. “And virtual?”
+
+“Nathalia was... was... the main one.” Ren said, a little choked up. “Ereka gave me her first time, but it never went anywhere because of my banishment.” He said. “I've fed Elerlyth a lot, so that's pretty steady; but, I haven't seen her in a while. You and I... I'm not sure if we're casual in the game or not.”
+
+“What... what do you mean?”
+
+“When we're together in there, I lose myself in you.” Ren said and smiled as he wiped off the tears. “It's a little scary how much I want you.” He smiled. “And now, here we are, and you're just as alluring.”
+
+“E-even though... um... I mean... I'm not a disappointment?” Lisa asked. “The real me?”
+
+“That's definitely my question.” Ren said. “I'm not like I am in the game.” He said. “I can't lift you up or do anything too strenuous.”
+
+“I saw that when I first opened the door to your room.” Lisa said. “You needed help getting dressed.”
+
+“Yeah.” Ren said. “I'll be able to do it myself in a couple of days, though.”
+
+“What?” Lisa asked. “So quickly?”
+
+Ren smiled. “I was hurt last week and it makes it hard to move around and dress myself.” He said. “I'm almost healed.”
+
+“Can you show me?”
+
+“Sure.” Ren said and started to unbutton his shirt. Lisa's eyes widened because he didn't even hesitate to show her, then she caught her breath when he opened his shirt up and showed her the nearly healed bruise that covered his chest and abdomen.
+
+“Oh, my god.” Lisa said and reached out to touch the skin. “May I?” She asked, and Ren nodded. Her fingers grazed the edge of the bruise, and she marvelled at how muscular he was. It wasn't as prominent as it was in the game, but that was because she knew it reflected his character more than his actual physical appearance. Lisa traced the edge of the bruise down his side and to the top of his pants, then she felt his intake of breath. She could see that he was still excited, even though they'd been talking for a while.
+
+“So that's real, too.” Lisa said, instead of just thinking it. “You can stay ready for a while.”
+
+“Only when I've got a good reason.” Ren said and she looked at him.
+
+“I said that out loud?” Lisa blushed, and he chuckled.
+
+“I do that sometimes, too.” Ren said.
+
+“You do?”
+
+Ren nodded. “The last time was really embarrassing.” He said. “My girlfriend Elise, my nurse Denise, and I went to buy bathing suits.”
+
+“Bathing suits?” Lisa asked as she continued to probe his bruise. “For what?”
+
+“The pool.” Ren said. “When I saw it at the new place, I had to try it.”
+
+“You have a pool?!?” She asked, surprised.
+
+“Yeah.” Ren said. “It's Olympic-sized, has a shallow end with a Jacuzzi, and a diving board.”
+
+“No way!”
+
+“Yes way.” Ren said. “Anyways, we got to the shop, and the sales clerk asked us what kind of bathing suits we wanted.” He grinned. “I said 'see-through'.”
+
+“You didn't!” Lisa exclaimed, and started to laugh.
+
+“I did. Out loud and in front of two very surprised witnesses.”
+
+Lisa laughed and let her hands wander over Ren's chest. He wasn't sure if she was doing it consciously or not; because her eyes were kind of unfocused as she gave him a little bit of a massage. Surprisingly, it didn't hurt. She was both gentle and thorough, and Ren looked her in the eyes as her laughter died away. She kept moving her hands, and neither of them spoke for several minutes.
+
+What am I doing? Lisa thought. I'm... I'm touching him so much... and he... he's letting me. Her hands stopped moving and Ren put his hands on hers.
+
+“Don't stop on my account.” Ren said and slid her hands over his chest. “That actually feels pretty nice.”
+
+“Doesn't it hurt?” Lisa asked. Please say it doesn't! I don't want to hurt you.
+
+“Not even a little bit.” Ren smiled and let her hands go.
+
+Yes! Lisa thought, and kept feeling his chest. “It's fascinating.” She said. “You look so strong, and yet you're so weak.”
+
+“It disappoints me a lot.” Ren said. “Whatever was done to me, degenerated the ligaments and tendons. I could probably pick you up and toss you on the bed if I wasn't like this.”
+
+Lisa took a deep breath as she thought about that. “I don't think I would like it much if you were that forceful.”
+
+Ren nodded, and moved back to the center of the bed. Lisa was going to ask him what he was doing, and then he laid down on his back and held a hand out to her.
+
+“Feel like cuddling for a while?”
+
+“O-okay.” Lisa said and laid down beside him. “I've... well, I've never done anything like this before.”
+
+“That's okay. Nathalia gave me lots of practice.” Ren said, turned slightly onto his side to put his head on the pillow, and motioned for her to come closer. Lisa did so, and put her head on the pillow as she faced him.
+
+“Like this?” Lisa asked, and he nodded.
+
+“We were together for a long time before we crossed that last line.” Ren said, and used a hand to touch the side of her face. “When we did, we didn't do it every time we went to bed.” He said. “I actually like to cuddle.”
+
+“You do?” Lisa asked, surprised.
+
+“Sometimes there's not enough time to do much more than that.” Ren said. “Either something happens or we were just too tired.”
+
+“So, if I said that we weren't going to... um... that you and I...”
+
+“I won't get mad.” Ren smiled. “Actually, with my condition, we'd have to be careful. I could get hurt easily, especially if you get... energetic... about it.”
+
+“R-really? You can get hurt like that?”
+
+Ren nodded. “This is from falling on an exercise ball.” He said and indicated his chest. “Can you imagine what would happen...”
+
+“Oh... oh, my.” Lisa said as she thought about the consequences. “What can we do?”
+
+Ren smiled. “Do you want to know so you can use the information, or are you just curious?”
+
+Lisa smiled back. “A little bit of both.”
+
+Ren propped himself up on an elbow, and leaned over her ear. He started to whisper to her about what they could do as he ran a hand through her hair. Lisa closed her eyes as she listened to his voice, and enjoyed the feel of his hand as he touched her. Each time he said something that he could do for her, his voice went deeper, and every time he said something that she could do for him, he gave her earlobe a light kiss.
+
+A few of the things he mentioned she really wanted to try; but, only because it was Ren. She would never even consider some of them if it was anyone else. Ren stopped talking and leaned back, and she put a hand on his arm.
+
+“Is... is that all?” Lisa asked as she opened her eyes and looked at him.
+
+“You just want me to keep whispering to you.” Ren said, and she nodded. He leaned back over her and caressed her neck, then told her that she could ask him for anything, and he would give it to her. Her body shivered slightly, and he told her that he liked it a lot that she would lay there and let him touch her.
+
+“But... don't you...”
+
+“I do.” Ren said. “Very much.” He smiled. “I won't force myself on you, though.” He said, and removed his hand. “If you decide that you want something to happen...”
+
+Lisa took his hand and put it back on her neck, then moved it lower. She turned to lay on her back, and the hand she still held moved to her chest. Her breathing stopped as his hand grazed her breast, and he felt she was very excited. She didn't tell him to stop like she did the first time, so he cupped the small mound of flesh and she started breathing again. He could feel her heart racing in her chest as he massaged the sensitive flesh through the thin fabric of her top.
+
+Lisa opened her mouth and sighed as he shifted to her other breast and gave it the same amount of attention. His touch was gentle and a little rough, which turned out to be the perfect combination for her; and it drove her a little wild. It was just enough for pleasure, but not enough to trigger her fight or flight response. She writhed and squirmed on the bed as he played with her, and she fought to respond and not respond at the same time.
+
+When Lisa grabbed his hand with one of hers, Ren thought he might have pushed it a little too far; but, she grabbed his neck with her other hand and pulled him down for a kiss while she pushed his other hand down to her waist.
+
+She kissed him like he was the last drink of water in a desert, and his hand slid past her waist, across her hip, and slipped under the edge of her skirt. Unlike what she had expected though, he didn't try and play with her. What he did was scratch her itch instead.
+
+“Oh, my GOD!” Lisa exclaimed as he generously scratched her private area. “A little... left... left... OH!” Her whole body fell limp as Ren took care of something that she was too much of a lady to do in public. He kept it up for nearly a full minute, until he heard her sigh and he removed his hand.
+
+“How was that?” Ren asked, seductively, and she laughed.
+
+“That felt sooo goooood!” Lisa said. “I finally let you touch me there, and I can't believe you did that!”
+
+Ren chuckled. “I couldn't let you suffer anymore.”
+
+“Thank you.” Lisa said and kissed him. “Thank you so much.”
+
+They made out for several minutes, but Ren didn't try to push things. Lisa's mind and heart were at ease, because even though she'd let him touch her before, he didn't take it for granted that he could touch her like that again. She kissed him more enthusiastically, and Ren kissed her back.
+
+There was a knock on the room door, and Lisa froze stiff. Ren stopped kissing her and leaned back on his elbow.
+
+“Come in.” Ren said. “We're decent.”
+
+Stella opened the door and came in. “Sorry to interrupt.” She said, when she got a look at Ren's open shirt. “I'm going to start making lunch soon, and I wondered if Lisa would like to stay.”
+
+Ren looked at Lisa, and saw her face was a deep red. “I'm sure when she gets over her embarrassment, she'll want to stay and have something to eat.”
+
+“I'll make sure there's enough, just in case.” Stella said. “Carry on.” She smiled and shut the door.
+
+Lisa put her hands over her face. “Oh my god!”
+
+“Don't worry about it.” Ren said. “Stella's great about these things.”
+
+“She caught us making out on your bed!” Lisa exclaimed. “And your shirt is open!”
+
+Ren chuckled. “She's my nurse, Lisa. She's seen me naked lots of times.”
+
+“Oh... oh, right.” Lisa said. “I'm sorry! I didn't mean...”
+
+Ren cupped her face. “I said not to worry about it.” He said. “Do you think we can talk for a while?” He raised the bed up to a sitting position. “I'd like to know more about you.”
+
+“Really?” Lisa asked. “Don't you want to keep kissing me?”
+
+Ren smiled. “Like you wouldn't believe.”
+
+Lisa held out a hand for him, and he took it. They sat there and just talked about their lives. After almost half an hour, there was another knock on the door.
+
+“Come in.” Ren said, and the door opened to reveal a woman he'd never met before. She did look a little familiar, though.
+
+“Hello! I'm Barbara's sister, Melanie! I came with the papers for the house!” Melanie said excitedly.
+
+“Great!” Ren said. “Stella! The papers for the house are here!”
+
+Stella came over from the kitchen and shook Melanie's hand. “It's nice to meet you.”
+
+“Same here!” Melanie said and looked around. “I don't see a table or anything we can sit around.”
+
+Stella pulled the rollaway table from the side of the room and slid it in front of Ren and Lisa.
+
+“Thank you!” Melanie said and opened her large purse. She pulled out a big folder and put it on the rollaway table. “There's a few places to sign!” She said and put a pen on the table. “I'll take you through it step by step!”
+
+“You're really excited.” Ren said.
+
+“I am!” She said. “I'm making more on this sale than I've made at my regular job in the last two years!”
+
+“What?!?” Lisa exclaimed, then put a hand over her mouth. “Sorry.”
+
+Ren chuckled. “Let's get this done.”
+
+It took nearly 20 minutes for Melanie to walk Ren through all the paperwork. He signed all the spaces he needed to, and put his initials on the spots for initials, and Melanie gave him his copies of the documents.
+
+“There!” Melanie said. “You are now the owner of a brand new house!” She said, happily. “To be so young and can afford such a place! You must be so proud!”
+
+“I am.” Ren said. “Thank you for coming over.”
+
+“You're quite welcome!” Melanie said. “If that's everything, I'll run this over to the bank!”
+
+“Actually, I think there is something...” Ren said and smiled.
+
+*
+
+Elise sat at her desk and gathered all the information that she thought she needed. She was glad that she had access to Ren's raw data from two different sources, and could compare the two. She found the discrepancies between the server side information and the client side; and discovered the time stamps were only slightly different.
+
+Since she knew that Ren didn't know about it, or could have done it himself, the server side files must have been altered to reflect what the tech department wanted, and not what had actually happened. Elise added in the actual footage from Ren's feed that used the unmodified data, and highlighted all of the relevant popups. It was a massive amount of information to sift through, but that was what she excelled at. Her mind was like a sieve for numbers and she could do calculus in her head.
+
+It had taken her several hours to gather all of the evidence she thought would convince her boss to give Ren what he was due, and even added footage of her conversation with Max, the head programmer. She smiled as she copied everything onto a USB drive.
+
+It will have to wait until lunch. Elise thought. I can't take up company time with this. She tucked the USB drive into a pocket. Despite it having an effect on the company, it's still a personal grievance.
+
+She smiled. I know the boss will do something for Ren! Mr. Torren likes him almost as much as I do!

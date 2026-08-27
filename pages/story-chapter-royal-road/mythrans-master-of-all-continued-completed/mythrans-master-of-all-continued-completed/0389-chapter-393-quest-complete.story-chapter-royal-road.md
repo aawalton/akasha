@@ -1,0 +1,283 @@
+---
+id: 928ba8cb-a431-57ec-91fc-ae56f01b2308
+page-type-slug: story-chapter-royal-road
+title: "Chapter 393 - Quest Complete?"
+slug: 0389-chapter-393-quest-complete
+partOf: mythrans-master-of-all-continued-completed
+position: 389
+ownLength: 3658
+unit: words
+publishedAt: 2017-10-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169034/chapter-393-quest-complete"
+royalRoadId: "169034"
+---
+
+Ren and Gloria came out of the bathroom wrapped in large towels, and Denise hovered near Ren to make sure he had help if he needed it. She helped Ren get dressed in a new set of pyjamas, and Gloria changed into another outfit; and both of them were prepared for doing certain things in the game.
+
+“You're staying to finish the quest, right?” Ren asked, and Gloria nodded as she picked up her VR headset. They climbed onto the bed at the same time, and laid down next to each other. Gloria slipped her headset on and relaxed, and Denise passed Ren his.
+
+“I'll see you at lunch.” Ren said and put the headset on and relaxed as well.
+
+“Flow Login Start.” They said together.
+
+*
+
+Ren and Elerlyth woke up in each other's arms, and remembered that they had cuddled before logging out. Elerlyth looked at Ren and he looked at her, and they could each feel what the other felt. Their Spider Auras were active and merged; so, they were getting double the feelings and both of them activated their Emotion Siphon ability.
+
+“How can you... you brought what you felt in the shower in here!” Elerlyth said surprised, and kissed him. He rolled her over and on top of him, and she broke the kiss to sit up. “God, Ren!” She exclaimed. “If I'd known how you felt then, I... I would have...”
+
+“Not in real life until you talk to Stella.” Ren said. “But we're not in real life right now, are we?”
+
+Elerlyth gasped as she felt his urgent need to be with her, and it matched her own. They both stored their armor bodysuits that they had left on, and they made love to each other and fed.
+
+For the next 4 hours, they shared themselves with each other, over and over. Since they knew they had until morning in the game before they had to stop, they took full advantage of the time they had. Ren leveled up his ability to Advanced, and Elerlyth had gained another main level.
+
+“Good god, I could sleep for a day!” Elerlyth said as she collapsed on top of Ren, and he laughed.
+
+“I can use the Energize spell.” Ren said, and she chuckled.
+
+“I can convert emotions to anything I want, remember? Health, Stamina, Mana, and XP.”
+
+Ren looked at her. “You can convert to Stamina?”
+
+Elerlyth nodded. “It's energy, so...”
+
+“If that's the case, then I should have been able to use my Absorb Fire ability for that, too.” Ren said. “Now I feel bad that I missed doing that.”
+
+“When was the last time you had to absorb a bunch of Fire?” Elerlyth asked.
+
+“I... well, damn. Never mind.” Ren said, and she laughed.
+
+“Aren't you always telling people not to worry about what you could have done in the past and be grateful for what you have now?”
+
+Ren caressed the side of her face, and poured how grateful he was into her. Elerlyth held back her tears, but Ren could feel her trying to hold them back. He kissed her cheek where the tears would have been, and then he kissed her lips.
+
+“Ren, it's time.” Teepo said.
+
+Thanks, Teepo. Ren thought and leaned back from Elerlyth. “The guys are waiting.” He said to her, and she sighed.
+
+“I suppose we can't disappoint them.” Elerlyth said and sat up, then equipped her armor bodysuit and armor. Ren did the same thing, got off the bed, and held a hand out to her. She took it, and he helped her stand up.
+
+I will come, too. Princess thought to him and stood up.
+
+“Gah!” Elerlyth gasped when Princess stood up. “We... we just... we did all of that, and... god!” Her face turned to a deep shade of grey, and Ren felt her shame and embarrassment. Ren stepped between them and sent Elerlyth an urgent feeling. She looked down at his face.
+
+“Princess didn't even look at us.” Ren said. “She has no interest in Adventurer mating rituals.”
+
+Elerlyth felt the truth in his words, and she looked at Princess. The large ram nodded it's head in clear agreement, and she sighed.
+
+“I didn't even notice her. All I cared about was being with you.” Elerlyth said to Ren. “I think you're right. We have to be careful around each other.”
+
+Ren smiled. “I'm a little happy to know that I'm as big of a temptation for you, as you are for me.”
+
+“Don't let it go to your head.” Elerlyth said, but Ren could feel that she was happy about it, too.
+
+The three of them went down the stairs and out the front door, and Teepo landed on Ren's shoulder. Ren spoke the command word of bubbles and gurgles to make the Instant Tower return to it's original state and stored it.
+
+“Yer jus' in time.” Clint said. “Tha healers and Clergy jus' finished up.”
+
+Ren and Elerlyth walked over to stand beside him and looked down into the collapsed cavern to see several groups of people come out of the tunnel with the Clergy blessing the ground in front of them.
+
+“Ah don' know how we're gonna git alla 'em back ta town.”
+
+“Leave that to me.” Ren said and jumped down into the cavern and ran over to the group of people. “Ladies and gentlemen, if you can wait patiently, I'll make up enough transport to get you all home.”
+
+“Why didn't you have it made already?” The Clergy asked.
+
+“I was away for Adventurer's business and just got back.” Ren explained.
+
+“Well, I guess that's fine.” The Clergy said.
+
+Ren started to make slightly modified carts with doors on the sides. Instead of each cart having a horse attachment, he made them like the train cars of the toy he had the design for. Each one, except for the first, had an axle attachment so that they could turn when the first cart turned. He knew there were about 200 people ready for transport, and he could cram 20 people tightly into each one; so, he made 12 carts and attached them to each other to make a long train.
+
+Everyone stared at Ren as he built the train, and since he usually lost himself when he worked, he hadn't noticed the awe and wonder people felt until he was done.
+
+“How tha hell are we gonna haul tha'?”
+
+Ren chuckled. “I designed it for Princess to haul.”
+
+My Lord. Princess jumped down into the collapsed cavern and sauntered over to him. The people stared at her armored form, and Ren felt a few pangs of envy from the crowd. He shared it with Princess, and she held her head high and took her position at the front of the train. Ren hooked her up to it and stepped back.
+
+“All aboard!” Ren said to them, and they all looked at each other.
+
+“Um, how... how are we getting out of this...” A woman near the front of the group said.
+
+“Not to worry!” Ren said and took out his Staff of Earth. He concentrated on the nearest wall of the collapsed cavern, and pulled it out and down to make a nice smooth ramp for Princess to pull the carts up.
+
+“Oh, my god.” The woman said.
+
+Ren closed the tunnel they had come out of and walked over to the first cart. He opened the door on the side and held a hand out to the woman.
+
+“There are seats inside, so it should be a comfortable ride.” Ren said. “Please.”
+
+She looked at the people around her for a moment, then took a step. She took another, and then took Ren's hand. He helped her up into the cart and she sat down.
+
+“This is actually really nice.” She said, and Ren felt relief from the crowd. Once one of them had done it, the others didn't hesitate and came forward. Some of the women took his offered help, and some didn't. When the cart was full, Ren was going to go to the next cart; but, he saw that Clint was helping people into it. Hank, Tommy, Billy and Dillon were also helping people into carts, and Ren walked down along all 12 carts and helped people climb in until everyone was loaded.
+
+The two healers had waited for everyone to be seated before they asked for the same ride they had to get there. Ren smiled as he cast the Phantom Steed spell for the guys of the party, and Dillon took one of the healers, and Billy took the other.
+
+“I'll ride on the first cart, if that's all right.” The Clergy said and backed away from the steeds.
+
+“Take the passenger seat.” Ren said. “I'll be driving.”
+
+The man walked to the front of the train of carts, and Ren looked around for Elerlyth. He saw that she still stood above them and looked down into the cavern. Elerlyth had stayed well away from the captives, so they wouldn't associate her with their ordeal, and Ren sent her a burst of love and appreciation, then cast her mount called Etheria. Elerlyth waved to him and hugged her mount, then climbed up into the saddle.
+
+“Moun' up!” Clint said, climbed onto the saddle of his mount. Ren ran to the front of the train carts and told Princess to take it easy, and climbed into the driver's seat. Clint twirled his hand over his head like a lasso and pointed up the ramp. “Le's go!”
+
+Princess had a lot of weight behind her now, but she didn't let it stop her. She dug her hooves into the dirt and pushed. Once the carts started to move, it became easier to keep them moving, and she hauled them up the ramp. Ren could feel everyone's disbelief that a single mount could haul so many carts, and he shared that with Princess. She huffed at it, and once they were up on flat ground, Ren kept using the staff to clear her a flat area.
+
+They took their time so that the people wouldn't be shocked at the speed Princess could achieve. Ren didn't know what kind of effect high speed would have on the train of carts when they tried to slow down. He didn't want to test what would happen, especially while the carts were full of passengers.
+
+It took nearly two hours for them to make it back to the town, and when the passengers saw the outskirts and then the short town walls, they started to cheer. Of course, the people in the town heard the cheers, and since they were all suffering and in pain, it made them angry. When the townspeople came out of their houses to yell at the people to stop cheering, they saw who it was making the noise.
+
+Ren gasped as he felt the ripple of shock go through the townspeople, and the despair changed almost instantly to hope. He told Princess to take them to the town hall, and she hauled the train of carts to there while they were followed by more and more people looking for their loved ones.
+
+*
+
+Elerlyth had hung back, well away from the liberated captives, and she had felt the ripple of shock when Ren did. She was still within his Auras range, and felt everything he felt. The happiness and joy he was picking up from the townspeople was almost too much for her to handle.
+
+I... I wonder if... is it because they had fed me willingly that I can feel so much of it now? Elerlyth asked herself and came to a stop outside of the town to wait.
+
+*
+
+Princess came to a stop at the town hall and Ren hopped down from the lead cart. He opened the door on the side of it and held a hand out to the woman that had talked so openly with him.
+
+“Welcome home.” Ren said.
+
+She stood up and took his hand with a huge smile on her face, and he helped her down to the ground.
+
+“Rinna!” A man's voice yelled, and the woman turned to the sound.
+
+“H-Hormel?” She asked, and her face crumbled. “Hormel!”
+
+A man came out of the gathered crowd and took her into his arms. “I thought you were dead!”
+
+“I thought you were dead, too!” She cried onto his shoulder.
+
+Once again, now that one person had done it, all of the carts doors opened and there were tearful reunions all along the train of carts.
+
+“Ren, coming up on the right.” Teepo said.
+
+Ren turned to see the 14 year old girl and her mother that he and Elerlyth had talked to and helped first. They had a tall man with them, and the girl saw Ren looking at her. She grinned and ran over to him, and he held his arms open to give her a hug.
+
+“You found him!” The young girl said and hugged him.
+
+Ren could feel her pure and gushing gratitude, and absorbed some of it. Since it was directed at him, it was quite satisfying for his ability.
+
+“Thank you so much!” She said and gave his neck a tight squeeze.
+
+“I'm so happy for you.” Ren said and looked at the tall man's face. He could see the man knew the reality of the situation. If he had been a bit more ghoul than human, Ren wouldn't have hesitated to dispose of him. He did give Ren a small feeling of grudging respect, though.
+
+“Are you married?” The young girl asked as she leaned back.
+
+“Wh-what?” Ren asked, and she laughed at his surprised face.
+
+“I see all those rings on your fingers.” She said, and Ren chuckled in relief.
+
+“I almost was once.” Ren said. “It didn't work out quite the way we wanted it to, though.”
+
+“Oh, I'm sorry.” She said, and he felt she really was sorry. He absorbed a small amount of it, and it was almost bitter.
+
+How can dark elves with this ability stand taking negative emotions? Ren asked himself. “It's okay. We still love each other very much, even though we can't be together.”
+
+The teenage girl's emotions did a complete 180 turn and he felt joy from her. “I'm happy to hear that.”
+
+Ren closed his eyes and absorbed some of her joy, and he almost drooled because it tasted so good. He felt a small spike of naughtiness from her as she pressed her lips to his. It came with a quick burst of infatuation from her, and he opened his eyes. She broke the kiss and let him out of the hug, and he saw that her face was bright red. He took a deep breath so that he wouldn't try to absorb her embarrassment.
+
+“I'm sorry about that.” The mother said and pulled her daughter away slightly. “She's a little emotional right now.”
+
+“That's...” Ren took another deep breath because he felt that the girl's mother wanted to thank him as well. “Ma'am, I'm grateful for any thanks that I receive, even if it's a kiss from a pretty girl.”
+
+The 14 year old girl's face burned at Ren's compliment, and he felt how happy it had made her that he liked her thank you. The mother stepped forward and gave him a hug, then kissed his cheek.
+
+“Thank you for bringing my love back to me, great Adventurer.” The woman said and stepped back. Ren felt her gratitude and absorbed some of it, and looked at the tall man. He stepped forward and held a hand out.
+
+“Thanks for not killing all of us as soon as you saw us.” The man said, and his wife and daughter gasped.
+
+“Thanks for not holding that against me.” Ren said and shook the man's hand. “You don't know how much I regret...”
+
+“I do.” The man said and let his hand go. “My brother was in the first cage.”
+
+“I... I'm so sorry.” Ren said and let a tear out. He could feel all of the sad people around them that didn't have loved ones that came back, and he let those feelings out.
+
+“Oh, Ren.” The young daughter said and gave him another hug. He held her and let more tears out, and she cried as well. They were silent tears for both of them, and Ren did what he could to take that sorrow from her. After a few moments, he felt the last of her sorrow disappear and she shuddered.
+
+“You... you took it.” She said and looked at him with wide eyes. “How...”
+
+“It doesn't matter.” Ren said. “Thank you for giving it to me.”
+
+She smiled and glanced at her mother, and when Ren felt her naughtiness again, she had already given him another kiss and let him go.
+
+Okay, relying on feelings as precursors for actions is not a good idea. Ren thought, and Teepo chittered in laughter.
+
+“We are going to have a talk when we get home.” Her mother whispered in her daughter's ear.
+
+“It's worth it.” The daughter said. “He's a good kisser.”
+
+The mother turned away from Ren and looked at her daughter. “How would you know the difference?”
+
+Ren felt the girl's giddiness and then they heard a booming voice speak.
+
+“Everyone, everyone!” The town elder said from a pedestal in front of the town hall. “Thanks to these Adventurers, the scourge that has plagued our little town has been vanquished!”
+
+Most of the townspeople cheered and hollered, and the town elder let them go for several moments, then raised a hand to quiet them.
+
+“I was saddened to see that not all of those taken could be saved, but I am also grateful that no more than that were lost.” The town elder said. “Now, if the party of Adventurers would be so kind as to come into the town hall, we can bring an end to this event, once and for all.”
+
+The crowd cheered, and Ren went along the train of carts and unhooked each one and stored it. They were identical, so they stacked into the same slot except for the first one. Ren took Princess over to the post near the front of the town hall and pretended to tie her to it, and went into the building. He was so boosted up by the young girl's feelings that he hadn't noticed that everyone, including his teammates, had stared at him as he stored a dozen full-sized carts and didn't show the burden at all.
+
+Clint tied up his mount next to Princess, and the other guys did the same with their mounts and went inside the town hall with Ren. They came to a stop in the main chamber and waited as the town council took their seats and sat down. The town elder came into the room and stood at his position, rather than sit down like the others.
+
+“I've had a talk to the Clergy and the healers, and they tell me that a few of the survivors have been permanently marked by their experiences.” The town elder said. “I do not mean scars or memories, I mean they have the mark of the ghoul on their skin.”
+
+The guard walked into the room with a woman behind him. “Show them.” He said, and the woman started to open her top.
+
+Ren concentrated on his Command Aura immediately. “STOP!” He commanded, and everyone froze. He walked over to the woman and took her hand. “Ma'am, please accept my sincere apologies. You do not need to disrobe to show us.”
+
+“But... it's...”
+
+“It's above your heart, isn't it?” Ren asked.
+
+The woman looked at him with wide eyes. “How did you know that?”
+
+“May I see it?”
+
+The woman nodded, and Ren moved the cloth over just enough to see a faded skull imprint on her skin.
+
+“Thank you.” Ren said as he closed up her top, and he felt gratitude from the woman for saving her modesty in front a bunch of strangers.
+
+“As you have seen...” The town elder sighed. “...you haven't completed the quest.”
+
+“Excuse me, sir.” Ren said and turned to the council. “Please clarify.”
+
+“They are marked.” Another on the council said. “They will attract others to come here and claim them.”
+
+“No, they won't.” Ren said. “But, if you believe they will and don't want them to stay here, then I'll offer them sanctuary.”
+
+“Wh-what?!?” Everyone said at almost the same time, including the other members of Clint's party.
+
+“I will not leave them here if they are going to be vilified or ostracized.” Ren said. “I'll take them to the county I own and give them a home there.”
+
+“But...”
+
+“If we remove them from the town, then the conditions of the quest are fulfilled, correct?”
+
+“Yes.” The council member reluctantly admitted. “Assuming you have proof of the cause of all this.”
+
+“Then please, bring the marked people in here.” Ren said.
+
+The town elder nodded to the guard, and he left for several minutes.
+
+“Ren wha' are ya doin'?” Clint whispered to him.
+
+“Helping complete this quest.” Ren whispered back.
+
+“By takin' these people from their homes?”
+
+“Clint.” Ren sighed. “They are going to kill them as soon as we leave.”
+
+Clint stared at Ren like he was crazy to think that, then he looked at the council members. They all stared at the woman that was marked, and he could clearly see hatred on their faces. The guard came back into the meeting room followed by 7 people of various ages and genders, and he had them stand around the woman.
+
+“Ah'll go and git tha evidence from tha thin tower ya gave me.” Clint said and left the room at a fast walk.
+
+Ren turned to look at the new people. “I have an offer for you.”

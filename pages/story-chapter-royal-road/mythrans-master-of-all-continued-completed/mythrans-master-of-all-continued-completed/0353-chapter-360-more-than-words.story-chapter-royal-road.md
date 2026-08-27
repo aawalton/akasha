@@ -1,0 +1,321 @@
+---
+id: d12ac1bc-a500-59d5-b0cb-903f1025cca9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 360 - More Than Words"
+slug: 0353-chapter-360-more-than-words
+partOf: mythrans-master-of-all-continued-completed
+position: 353
+ownLength: 3738
+unit: words
+publishedAt: 2017-09-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162721/chapter-360-more-than-words"
+royalRoadId: "162721"
+---
+
+Ren woke up only slightly early the next morning, and found Navruth was laying face down on top of him. Her head was on his shoulder, with her face towards him, and her arms were spread out to either side. His arms on the other hand, were almost straight up. One was over Navruth's shoulder and tucked between two other maids that were on top of her, and his other arm was jammed between the thighs of another maid.
+
+Ren couldn't tell who was who, since most of his vision was blocked by two torsos, and he wasn't sure who else was where. There was even someone under his legs, somehow.
+
+“You look like the knot deckhands tie on a docked ship.” Teepo said from the ceiling and chittered in laughter.
+
+I assume it was still amazing to watch? Ren asked his friend.
+
+“It really is like magic.” Teepo said. “I watched it, and I still don't know how they did it!”
+
+Ren chuckled, and that was enough to make the maids start to stir.
+
+“Ugh.” One of them said. “Another hour, please.”
+
+“I'm hungry.” A voice said from above Ren.
+
+That's Verwynn. Ren thought.
+
+“I'm trying to sleep.” Navruth mumbled and then sighed when someone else spoke.
+
+“Who's hand is that?” The voice asked. “Wiggle your fingers.”
+
+Ren wiggled the fingers on the hand that was between the two people above him, and he heard one of them giggle.
+
+“That tickles.” A voice said.
+
+It wasn't the same voice, so Ren wiggled the fingers on his other hand and a thrill went through the shared Aura as someone gasped. Ren now knew what his fingers were touching, and wiggled them again. The same feeling of a thrill went through the Aura, and no one objected to what he was doing. He kept moving his fingers and massaging the only part he could reach, and all of the maids breathing sped up.
+
+The thighs around his arm hadn't tensed up at all, so he knew it wasn't that maid he was touching this way; but, with their feelings all tied together like they were, it didn't really matter who he was touching. After only another few minutes, they all gasped together and finished as one. The wave of pleasure from them was pretty strong, but Ren had ridden waves like it before and didn't let it affect him as he rode it calmly.
+
+*
+
+“I demand you let me go!” Lylyth, the Queen of the Dark Elves commanded her attendant.
+
+“Your connection is close at hand.” The healer said. “If we let you go to him now, your chance will be lost.”
+
+“AAHHHH!” Lylyth stood up to her full height and strained as hard as she could against the magically enchanted chains. They didn't move at all as she struggled to break free of them. She looked down at the floor and saw that the chain was attached to the floor with only a normal bracket.
+
+“Stop her!” The healer said to the attendant, but it was too late.
+
+Lylyth's spider body formed around her in an instant and she gripped the chain with 2 of her legs and braced the other 4 on the floor. She pulled up with all of her might with the intention to break that bracket. Much to her surprise, it didn't break. The 5 foot wide 3 foot deep block of stone it was attached to pulled out of the floor instead, popped out like a cork, and was flung up into the air. Lylyth's concentration was broken when that happened and her spider body disappeared. She fell to the floor on her back, and the large and heavy stone block arced over her and landed right beside the top of her head.
+
+“MY QUEEN!” The attendant yelled and rushed to Lylyth's aid.
+
+“I shouldn't have done that.” Lylyth said.
+
+“No, My Queen.” The attendant said. “You shouldn't have.”
+
+Lylyth sighed. “It didn't work, anyways.” She said and looked at her arms that were still wrapped in chains. “Now I'm just a mobile prisoner.”
+
+Several of the large spiders came over and moved the stone block from where it was, and shifted it to be in front of her. Lylyth sat up and sighed again at the mess she'd made of the floor.
+
+“I really am becoming impulsive and unreasonable.” Lylyth said.
+
+“More impulsive and unreasonable, My Queen.” The attendant said as the healer checked Lylyth over to make sure she wasn't hurt.
+
+“I'm fine.” Lylyth told the healer. “Thank you.”
+
+“Have you calmed down?” The healer asked.
+
+“Like someone threw a bucket of cold water on me.” Lylyth said.
+
+“Someone should throw a bucket of cold water on him.” The attendant said. “He shouldn't be teasing you like this.”
+
+Lylyth chuckled. “He's not teasing me.” She said. “In fact, I think... he... he...”
+
+“He's only trying to keep the maids happy.” The healer said. “Surprisingly.”
+
+“Yes, they should be below his notice.” The attendant said. “They should serve him, and that should be the end of it.”
+
+Lylyth had felt what Ren felt, and she didn't think that he thought that way at all.
+
+*
+
+Ren and the maids got up after a short rest, and he discovered it had been Lusinia that he had massaged with his fingers. When they had untangled themselves and got out of bed, she had hugged him closely.
+
+“Thank you for choosing me next.” Lusinia whispered in his ear and kissed his cheek. “You've made me so happy.”
+
+She didn't have to tell Ren that, because he could feel it just as much as the others did. It buoyed the maids emotional states up, and all of their happiness levels were pretty high. Ren took out meals for them to eat for breakfast, equipped his Travelling Clothes, and put on his Dire Wolf Hooded Cloak. Teepo dropped down onto his shoulder when Ren passed underneath him, and they left the bedroom together. Ren went to the guest room, opened the door, and knocked on Janice's front door.
+
+“What! What! What!!!” Janice nearly yelled and opened the door. “What do you want?!?”
+
+“I'm sorry for disturbing you.” Ren said and handed her a plate of food. “We're leaving soon. Do you feel like coming-”
+
+“NO!” Janice yelled and slammed the door in his face.
+
+“I think someone's not a morning person.” Ren said, and Teepo chittered in laughter.
+
+Ren took a plate of food down to Princess, then told Riley and Stacy what their duties were going to be that day. They barked once at him, and he pat each of them on the head.
+
+“Remind me later to update your enchantments.” Ren said, and replaced the Level 1 Fireball wands in their mouths with Level 1 Web wands. “I'll figure out how to add extra protection to the two of you as well.”
+
+Ren left them and went to Railyse's room. He knocked once and opened the door, then was splashed with a pile of water that drenched him.
+
+“Good morning to you, too.” Ren said to the small water elemental. It bubbled and gurgled at him for a few seconds, then dove back into the water.
+
+“I see you've met my new sentry guard.” Railyse said when she hopped out of the in-ground pool.
+
+“He warned me that I'd get the same if I just barge in again.” Ren said and she laughed. “I even knocked.” He said and equipped his armor bodysuit to dry himself off.
+
+“I'm sorry about that.” Railyse said. “He decided that I needed protection, and he was going to provide it no matter what I said.” She smiled and put a hand on his arm. “It reminded me so much of a certain someone that I didn't even try to object.”
+
+Ren chuckled. “It didn't do you any good to argue the first time, either.”
+
+“I'm glad it didn't.” Railyse said.
+
+“Do you want another fish this morning?” Ren asked.
+
+“No, thank you.” Railyse said. “I should be good for a few days.”
+
+“Okay” Ren said and started to pull up his sleeve.
+
+“I said I'm good.” Railyse said.
+
+“Railyse.” Ren said. “You can't go too long without eating.”
+
+“You know how I feel about...”
+
+“Yes, I know you don't love me like that, and you know I don't love you like that either.” Ren said. “However, I'm getting tired of reminding you that I have no problem with letting you take what you need from me, just the same as if you did love me as a husband.”
+
+“Ren...”
+
+“Don't start arguing that I don't get anything out of it.” Ren said and smiled. “You know how happy I am that I can make you happy... especially without causing political upheaval.”
+
+Railyse gave him a hug. “I might not love you like I would a husband, but... but I...”
+
+“Just hurry up and bite me.” Ren said and put his arms around her. “I'm not going to get any tastier.”
+
+Railyse laughed and leaned back. “I'm not so sure about that.” She said and looked him in the eyes, then looked at his cheek.
+
+“You would honor me.” Ren said and closed his eyes.
+
+“Oh, Ren.” Railyse said and kissed his cheek with her lips together, then opened her mouth and bit him. Blood flowed as she pulled her teeth out of his skin, and she french kissed the wound. She sucked and licked his cheek to get as much out of it as she could, and because Ren was only wearing his armor bodysuit, she felt his body's reaction to her kisses.
+
+“You...” *kiss* *lick* “...are so...” *kiss* *suck* “...delicious.” *lick* *suck*
+
+Ren knew she was completely serious when she spoke while she was in a feeding frenzy, and his face went red.
+
+“Mmm!” Railyse moaned at the increased flow of blood, and after a minute, she felt quite sated and stopped kissing his cheek. She used her healing ability and licked the wound a couple of times, and it closed over. She sighed and tried to step back to let him go; then was surprised when he held onto her.
+
+“Just a second.” Ren said and weaned his sharing of feelings in the shared Aura to just a trickle. He then thought about the chances that Railyse would have of ever finding a husband of her own species, especially after so long being alone and away from the Water Realm, and he welled that sorrow up and let it form into tears.
+
+Railyse saw the tears form, kissed his right eye, and gasped. “Oh, Ren!” She exclaimed because she had tasted that the tears were all about her, and they were the most exquisite taste she had ever had. A water tendril formed from her hair and attached to his left eye while she sucked on his right. This lasted for almost a full minute; and then she started to glow.
+
+The water of the pool started to churn even more than normal, and it splashed up and over the sides. Outside the sun was obscured by a cloud that had formed out of nowhere, and it cast a shadow over the Housing District. It became thicker and darker over the next few minutes, then grew bigger; big enough to encompass nearly half of the city in shadow. The water in the harbour started to churn and splash on the dock as the water became choppy, and then the cloud over the city opened up and it started to rain.
+
+********
+
+“Holy shit!” One of the programmers said when a warning popped up on his screen and interrupted his work vibe. He was the only one who had wanted the night shift at Sid Tec, mainly because he liked working alone and being left alone while he worked.
+
+He had been surprised because it was a warning about a game environment alteration for FLOW. He typed quickly to check on the static environmental settings, and couldn't believe his eyes when he saw what the warning was for.
+
+“You have got to be kidding.” He said. “Divine Intervention? What the hell does that mean?”
+
+********
+
+Railyse's entire body glowed a bright gold color as she absorbed Ren's tears, and the pool behind them sloshed up and out of the pool in a solid mass. The water elemental was suspended in the middle of it and bubbled and gurgled furiously.
+
+Railyse felt the water elemental's fury, and it brought her back to herself. The mass of water the elemental was in dropped and splashed back into the pool, which in turn splashed up the sides and coated the inside of the room with water.
+
+Outside the rain had continued to fall at a faster and faster rate; and then it suddenly stopped. The large dark cloud broke apart a few seconds later and disappeared. The water in the harbour stopped crashing against the dock and settled down, then stopped moving completely as if nothing had ever happened.
+
+*
+
+The programmer at Sid Tec was about to call the head programmer about it, and then the warning popup disappeared. He checked the static environmental controls again, and saw that everything was fine.
+
+“Okay, that was weird.” The guy said. He added the incident to the log file with the time index where it happened, marked it as a significant occurrence, and sent it to Max.
+
+*
+
+“What happened?” Ren asked when he opened his eyes. He was soaked again, and he let Railyse out of the embrace and equipped his Travelling Clothes to dry off.
+
+“Overflow.” Railyse said as her face flushed with small swirls of water behind her translucent skin.
+
+“Overflow? Really?” Ren looked at the room and saw that everything was soaked, including the ceiling. “If my guess is right, you had the entire pool of water suspended behind us.”
+
+The swirls inside Railyse's face sped up, and he touched her face.
+
+“You don't have be embarrassed.” Ren said. “I'm happy you can get so much out of me.”
+
+“That's because you give me a lot more than I ever thought you could.”
+
+“Railyse!” Ren fake gasped. “Were your expectations of me that low?!?”
+
+Railyse chuckled. “Far from it, my friend.” She said and kissed him on the lips.
+
+Notice!
+
+You have been anointed by the heir to the Water Realm. You will have a 10% bonus to any water-based spells, enchantments, and effects for the next 24 hours.
+
+“Railyse, the bonus you give is at 10% now.” Ren said when he dismissed the popup.
+
+“It is?” Railyse asked and examined herself. “I don't feel any different... or more powerful.”
+
+“Are you supposed to?” Ren asked. “Maybe you just gave me a double dose or something.”
+
+Railyse kissed him again, and Ren received another popup.
+
+Notice!
+
+Anointment blessings of the same type do not stack. You must wait for one to expire before another one of the same type can take effect.
+
+“Oh.” Ren said. “Never mind.”
+
+Railyse chuckled and turned around, and held her hand out. All the water that had splashed up onto the walls and ceiling slowly pulled away from the wood and was drawn to her hand. She gathered it into a ball and eased it back into the pool.
+
+“Did that feel any easier?” Ren asked, and Railyse shook her head. “Well, keep a close eye on what you do for the next little while, and see if you notice any differences.”
+
+“Okay.” Railyse said. Ren turned to open her room's door and she touched his arm. “Ren.”
+
+“Yeah?” Ren turned back to face her.
+
+“Thank you.”
+
+Ren chuckled. “I just had a beautiful woman make out with my face.” He said, stood up on his toes and kissed her cheek. “There's only 2 things I regret. One is my lips weren't involved until the end.”
+
+Railyse laughed. “You land dwellers and your lip fetish.” She said. “What's the second thing?”
+
+“That I don't have the right teeth to bite you back.” Ren said and opened her door. “See you later.”
+
+*
+
+Railyse touched the spot Ren had kissed on her cheek, then rubbed it with her fingertips after Ren had closed the door behind himself when he left.
+
+“I regret it too, my friend.” Railyse whispered, then dove into her pool.
+
+*
+
+Ren went to Princess' room and asked Riley and Stacy to follow him, then took them outside. He saw that everything was soaked and almost laughed out loud. Boy, when Railyse gets excited, she really gets excited. He thought, and Teepo chittered in laughter.
+
+Ren ran down the street and to the end of the Artesian District, and approached the market stall section. He chose a spot with nothing on either side, and when he tried to step into it, he met an invisible wall and a popup.
+
+Empty Market Stall
+
+If you wish to sell goods without having a storefront, a Market Stall is the best option.
+
+This stall costs 5 gold coins a day to operate. Do you wish to open it? Yes / No
+
+“Yes.” Ren said.
+
+Market Stall Options:
+
+Low Quality (-2 gold)  Normal Quality (0 gold)  High Quality (+2 gold)  Royal Quality (+5 gold)
+
+“High Quality.” Ren said.
+
+Market Stall Time Options:
+
+1 Day  3 Days  5 Days  7 Days
+
+“3 days.” Ren said and a popup asked for 21 gold. He tossed it into the small portal that appeared, and then a High Quality Market Stall appeared in the spot. It was 10 feet wide, 8 feet high, and 6 feet deep, with a counter across the front and a canopy over the top of it. He stepped inside and it asked for who would be operating it, if shelves were needed, and if they wanted to advertise. Ren put Verwynn as the operator, took as many shelves as could fit in the 10 foot wide stall, added a step ladder to get at the higher shelves, and paid the 10 silver coins for advertising Janice's Glass Wares.
+
+Ren told Riley and Stacy to stay at the stall, and ran back to the house. Verwynn was already dressed in a fancy dress that wasn't revealing; but, it showed off her figure to full advantage and Ren nodded slightly.
+
+“Thank you.” Ren said, and Verwynn's face flushed a little red. She could feel how much he appreciated that she would go through all the trouble just for him.
+
+“We'll keep an eye on her, too.” Frikara said. “We'll pass by occasionally in pairs, or even hover around the stalls.”
+
+“You don't have to do that.” Verwynn said.
+
+“We know we don't.” Lusinia said. “We're going to do it, anyways.”
+
+Ren chuckled and he led Verwynn down the stairs and out of the house, and over to the market stall.
+
+“Oh, my.” Verwynn said when she saw the High Quality Market Stall. “You're really going to push her glassware, aren't you?”
+
+“Only for a couple of days.” Ren said, and then they started to load the shelves up with everything. He was glad he had brought Verwynn to help, because she directed him where to put everything for the best visual impact. When they were done, he dropped off the remainder of the items underneath the counter so that Verwynn could easily access it.
+
+Ren stepped out of the stall and looked back at it. “It looks good, but...”
+
+“But what?” Verwynn asked.
+
+“It's missing something.” Ren said. “But, I'm not sure...” He remembered having to install lights in the underground storage so that people could see, and he smiled. “I got it.” He said as he took out two steel squares, enchanted them with Illumination glyphs of 5 runes each, and hung them on the inside of the canopy. He activated them, and they made the glass sparkle.
+
+“That's a nice touch.” Verwynn said.
+
+“The canopy is blocking them from the sunlight, and they looked dull.” Ren said, then went into the stall. “I want you to close a few hours early, long before everything else closes.” He told her. “Riley and Stacy will guard you well; but, I still don't want you out after dark.”
+
+Verwynn smiled, because with the both of them outside the shared Aura, they could only feel each other. She took his hand and put it on her face.
+
+“You do care about our safety.” Verwynn said.
+
+“Of course I do.” Ren said. “You're my responsibility, and I'm going to do everything I can to keep you safe.”
+
+“Sticking me out in the middle of the street, with a thousand or so unknown people, isn't quite keeping me safe.” Verwynn said, so she could feel his reaction. She caught her breath at his immediate anger at some unknown person that would do her harm, and Riley and Stacy growled together.
+
+“If you feel threatened at all... or nervous... or even a little uncomfortable... you close this thing down and go back to the house.”
+
+“R-Ren...” Verwynn could barely speak, because she was trying really hard not to get turned on.
+
+“Riley and Stacy are pretty independent, but they are still parts of me. They will judge any threat against you, and will deal with it accordingly.”
+
+Verwynn turned her head and kissed the palm of his hand. “Thank you.”
+
+“I hope they won't be needed.” Ren said. “They will stay by your side in my stead, just in case.” He pulled his hand away from her face, and he felt her slight disappointment. He leaned in close and whispered. “When I come back tonight, remind me that it's your turn in the morning.”
+
+Verwynn's heart sped up because it was only the two of them sharing, and she could feel how much he liked her reactions. Ren gave her a quick kiss on the lips, left the stall, and knelt in front of the two dogs.
+
+“Remember. Keep on the flanks. Use the wands if you have to, and keep the teeth and claws retracted unless there's an immediate threat.” Ren said and smiled. “You have my permission to go all out if it happens.”
+
+Both dogs barked once and Ren pat their heads, then stood up.
+
+“Remember what I said.” Ren looked directly at Verwynn, and she shook slightly from his intense stare. “Stay safe, close early, and leave if you're uncomfortable.”
+
+Verwynn nodded slightly. “I'll remember.”
+
+“I'll see you later.” Ren said and left at a run.

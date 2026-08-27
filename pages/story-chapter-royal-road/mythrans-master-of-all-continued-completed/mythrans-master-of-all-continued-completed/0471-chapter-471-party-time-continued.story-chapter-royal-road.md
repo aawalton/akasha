@@ -1,0 +1,303 @@
+---
+id: d2bf7a47-46a1-5a3b-86d8-95d11dc7c465
+page-type-slug: story-chapter-royal-road
+title: "Chapter 471 - Party Time Continued"
+slug: 0471-chapter-471-party-time-continued
+partOf: mythrans-master-of-all-continued-completed
+position: 471
+ownLength: 3234
+unit: words
+publishedAt: 2018-01-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184259/chapter-471-party-time-continued"
+royalRoadId: "184259"
+---
+
+“What are you men talking about?” Barbara asked when she, Lisa, and Stella came into the kitchen with the dirty dishes from the party.
+
+“Men stuff.” Donald said.
+
+Barbara snorted a laugh. “Like how big of a pain stick you can take a beating from?”
+
+Donald grinned at her. “How did you guess it so quickly?”
+
+“I know my husband.” Barbara said and put the dishes on the counter, and turned on the water after plugging up the sink with a stopper on the drain.
+
+“You don't have to wash them, Barbara.” Denise said. “I'll do them when Ren logs into the game tonight.”
+
+“I'm just setting them to soak.” Barbara said and added some dish washing soap to the hot water. “You can put them in the dishwasher later, and not have to worry about anything sticking.”
+
+“That's a good idea.” Denise said. “Thanks.”
+
+“Anytime.” Barbara said, and went back to the dining room with Stella to get more dishes. The others came in and stood and sat around the kitchen table, and when Stella, Barbara and Lisa came back in with the last of the dirty dishes, Lisa noticed the bag on Ren's lap.
+
+“Ren? Let me take that for you.” Lisa said and pointed to the bag. “I'll put it in your room, along with your other presents.”
+
+“Thanks.” Ren said and passed it to her. “Can you put them on the bed, please?” He asked. “I want them close by so I can sort through and use them.”
+
+Lisa nodded.
+
+“You can leave Barbi here, though.” Ren said as he looked at the tall blonde woman. “She has to eat first.”
+
+“You're going to milk that all night, aren't you?” Elise asked and Barbi laughed.
+
+“Milk what?” Gloria asked.
+
+“Barbi was my gift from Elise.” Ren said.
+
+Gloria and Officer Holly's mouths dropped open. “WHAT?!?” They exclaimed at the same time.
+
+Everyone else laughed at their reactions, and while Lisa took the presents up to Ren's room, they explained the circumstances of Barbi being given to him as a gift.
+
+“Ren, you shouldn't joke about things like that.” Officer Holly said. “It objectifies women.”
+
+“That's the joke.” Ren said as Lisa came back into the kitchen. “Since that was the first thing I thought when she showed up, and Elise said she was my present.” He held a hand out to Elise, and she took it. “I apologized right away to Barbi for the misunderstanding; but, I neglected to apologize to my girlfriend for assuming she would get me a woman for my birthday.”
+
+“Ren, you don't have to...”
+
+“Elise, I am very sorry for assuming you would do such a thing without talking to us first.” Ren said and turned her hand over and kissed the inside of her wrist. “Please accept my apology.”
+
+“Of course I do.” Elise knelt and gave him a kiss. “Sweetheart, you're right. I wouldn't try to bring another woman into this without at least talking to you first.” She smiled. “To be fair, the misunderstanding did make me laugh.”
+
+“Hold on.” Officer Holly said. “Are you trying to tell me that... that if you had talked about it first, Barbi really would have been a gift for Ren?”
+
+Ren looked at her, then at Stella, Elise, and then at Barbi. “Not in the sense you think, Officer Holly.” He said and reached a hand out for Barbi. “There's a certain... dynamic... at work here in the house.” He explained as Barbi took the offered hand and he held it. “It's a careful balance of time, caring, understanding, some passion thrown in for good measure, and a lot of enjoyment... both emotionally and physically.”
+
+Barbi's face had flushed red as Ren talked, and so did Officer Holly's.
+
+“Most of all, there's love.” Ren said. “All different kinds of love. Love for who we are, love for each other, and love to keep everyone happy.” He said and very slowly kissed the back of Barbi's hand. “Adding someone new to the mix without a long discussion first, is not only asking for trouble, it could also ruin what we already have.” He said. “That's why I overreacted when you appeared out of the blue, and I apologize if I insulted you and for not greeting you properly.”
+
+“I understand.” Barbi said as her face went to a deeper red. “I... I wasn't insulted.”
+
+Ren let her hand go and looked at Officer Holly. “No one is tricked, or pushed, or pressured, or anything like that.” He said. “We're all adults, and we all made the conscious decision to be here; but, only in the capacity that we want, or need, or desire.” He said. “We are what we are. Nothing more, nothing less.”
+
+“Wow.” Lisa said in the silence that followed. “That was amazing.”
+
+“Geez, Ren.” Stella said. “How long have you been practising that speech?”
+
+“Ever since the first time I met Officer Holly.” Ren said and grinned. “How was it?”
+
+“It was a little cheesy, but it definitely got the point across.” Stella said. “Right, Officer Holly?”
+
+“Yes, I got the point.” Officer Holly said and smiled. “My self-righteous anger at the time was both misplaced and unnecessary.” She said. “I've already apologized for my behavior then, and I meant it.” She looked at Ren, and then at everyone else. “I still don't know what kind of dynamic he's talking about, since I'm pretty sure at least two or more of you are his girlfriends.”
+
+Officer Holly observed Elise's smile, Lisa's face flushed a little red, and Denise's face went red as well. Gloria's face almost went red and she tried to smile, because she didn't know if she was or not.
+
+“I know it's none of my business.” Officer Holly said. “You can't blame me for being curious about it, though.” She smiled. “Look at you, all living together and you're happy.” She said. “I'd like to ask for details so I can figure out what's going on; but, I won't because it really isn't any of my business.”
+
+“Ren?” Stella asked, and Ren smiled.
+
+“Do you want to shock her?” Ren asked, and Stella chuckled. “Go ahead.”
+
+“Barbara, cover Donald's ears.” Stella said.
+
+Barbara did it, and Donald put his hands over hers.
+
+“Okay, here goes. Elise is his official girlfriend. Lisa isn't official yet, but we all know she is.” Stella said, and Lisa's face went bright red. “Gloria is the most recent, and the most reluctant in real life.”
+
+“Wait, you mean...”
+
+“They've been together in the game for a long time.” Stella said. “Their relationship changed recently, and it's trying to migrate to real life. The transfer isn't going smoothly, though.”
+
+Gloria's face did flush red at those words and she clamped her mouth shut so she wouldn't say anything.
+
+“Elise, Lisa, myself, and Denise have had sex with him in real life, and Lisa and Gloria have in the game.” Stella said, and tried not to laugh at Officer Holly's shocked expression. “I keep meaning to go in and see what it's like for myself, mainly because I want to compare real life to the game experience; but, I just never get around to it.”
+
+“Me, either.” Elise said. “I'll be changing that fact shortly, though.”
+
+“You will?” Ren asked, and she nodded.
+
+“I've got a lot more free time now that I've taken a leave of absence from work.” Elise said.
+
+“You WHAT?” Ren exclaimed.
+
+“I've pretty much done everything I could do there.” Elise said. “My job became... repetitive.” She sighed. “All I did was create new accounts, handle calls, and redirected comments and complaints.”
+
+“But...”
+
+“I was reduced to little more than a basic secretary, and that is not how I envisioned my life.”
+
+Ren took her hand and he gave it a squeeze. “If you think it's best, then I'm glad to take you on as my financial adviser full time.”
+
+Elise chuckled. “You shocked me with that title out in the hot tub.”
+
+Ren grinned. “I know I did.”
+
+“But...” Officer Holly blinked her eyes. “How... I mean, he's...”
+
+“Very carefully.” Stella said. “He's pretty fragile, but he loves women.”
+
+“I really do.” Ren said and glanced at Elise. “You're so soft.” He glanced at Lisa. “You're so pretty.” He glanced at Denise. “You're so tasty.” He glanced at Stella. “You're so sexy.” He glanced at Gloria. “You're so strong.”
+
+They each had red faces as Ren looked at them all again.
+
+“Each of you are also everything I've said.” Ren said. “Soft, pretty, tasty, sexy and strong.” He smiled. “Also, you are all very smart and funny, and are more than I could have ever asked to have in my life.”
+
+Officer Holly couldn't believe what he was saying, and then he turned to her.
+
+“They are everything I've said and much, much more.” Ren said. “They're wonderful, fantastic, delightful, unbelievable, and they take care of me even when I don't deserve to have them by my side.” He said. “They have a special place in my heart, and I'm truly blessed.”
+
+“That's so sweet.” Barbi whispered, but once again, everyone heard her in the silence.
+
+“Does that give you enough information for the dynamic?” Stella asked.
+
+“What about Barbara?” Officer Holly asked.
+
+“She's my mother.” Ren said. “She raised me and loves me, and seeing her topless has scarred me for the rest of my life.”
+
+Everyone laughed, and Barbara took her hands from Donald's ears.
+
+“Ren, that's enough of that.” Barbara said sternly, and he looked at her. “If I was your birth mother, you would have seen them already.”
+
+“But...”
+
+“Now you listen, and listen good.” Barbara said. “You would have seen them a lot. Even more than my loving husband has.”
+
+“Not possible.” Donald said. “I love your breasts.”
+
+“Hush.” Barbara said and smacked the top of his head. “That's not helping.”
+
+“Sorry.” Donald said and smiled.
+
+“I want you to take Stella's view on it.” Barbara said. “They are just a part of my body. Nothing more, nothing less.”
+
+Ren smiled as Barbara used his own words against him. “I'll try.”
+
+“Hmm. Do, or do not. There is no try.” Lisa said in a reasonable impression of Yoda from Star Wars.
+
+“I've been out-nerded!” Ren said, and everyone laughed, even Officer Holly.
+
+“Supper's ready.” Denise said. “Stella, Barbara? Give me a hand with carrying everything.”
+
+Elise pushed Ren's wheelchair to the big dining room, and the others went with them. Denise, Stella, and Barbara brought in three large dishes. One had the broiled pork chops, one had the mashed potatoes, and one had the gravy. Barbara went back to the kitchen and grabbed a new stack of plates and silverware, and put the stack beside the pork chops.
+
+“Okay, who wants what?” Denise asked and picked up a plate, then pointed to Elise.
+
+“One scoop of potatoes, one middle piece of a pork chop.”
+
+Denise added the meat and handed the plate to Stella, who added the potatoes and gave the plate to Elise.
+
+“Thank you.” Elise said and squished the potatoes with a fork and poured some gravy over them and the pork chop.
+
+They served a plate of food to everyone in the same fashion, then served Ren and themselves last. Everyone sat down and ate, and enjoyed the meal.
+
+“This really does melt in your mouth.” Barbi said and put another forkful of meat into her mouth. “How did you get it so tender?”
+
+“I beat it to death with a meat tenderizer that was the size of my head.” Denise laughed, and so did everyone else. The meal went by surprisingly quickly, and after everyone helped clear up the dirty dishes, they had some time to waste before the show was going to air.
+
+“What are we going to do?” Barbi asked and looked at her watch. “We've got like an hour or so before it starts.”
+
+“We could watch some television.” Ren suggested. “Or go bowling.”
+
+“We can't get to a bowling alley, play, and come back in only an hour.” Officer Holly said.
+
+“Sure we can.” Ren said. “It's only up on the second floor.”
+
+“You have a bowling alley.” Officer Holly said. “In the house.” She exchanged looks with Barbi. “On the second floor.”
+
+“Yeah, I think whoever built the place decided 7 bedrooms was a tad too much and changed one to a bowling alley.” Elise said. “I tried looking up the construction firm, but they went out of business.”
+
+“Probably from building this place, and the old owner jumped out on the check.” Stella said.
+
+Elise nodded. “I was thinking the same thing.”
+
+“You're not kidding.” Barbi said and stood up. “Now I've got to see it for myself.”
+
+Ren chuckled. “Show of hands! All for bowling?”
+
+Everyone put their hands up, except for him.
+
+“I'm outvoted, apparently.” Ren said and grinned. “Bowling it is.”
+
+“You can keep score again.” Lisa said. “With 8 people, you should be too busy to get turned on.”
+
+“You're kidding, right?” Ren chuckled. “You know what happened the last time I saw you jumping around all excited.”
+
+Lisa bent down slightly and gave him a kiss. “I'll help you when it happens.”
+
+“Thanks.” Ren said. “Now who's driving this crate?”
+
+“I'll do it.” Elise said and took over control of the wheelchair. “It'll give your nurses a rest.”
+
+“We get a rest every second day.” Denise said. “Except for today. This was a long one.”
+
+“I'm going to be so tired tonight.” Barbara said, and then yawned, and it jumped to several other people who also yawned.
+
+“It's contagious!” Ren said and covered his mouth; but, it was too late. He yawned, too. “Dammit!”
+
+Everyone laughed, and went over to the elevator. It took two trips, and everyone made it up to the second floor and went into the bowling alley.
+
+“Four lanes!” Barbi exclaimed.
+
+“Two candle pin and two normal.” Ren said and transferred from the wheelchair to one of the record-keeping seats, and hit the buttons for all 4 lanes.
+
+“This is great!” Officer Holly said and looked around. “Somebody tell me that is not a candy bar over there.”
+
+“It's not a candy bar.” Ren said. “It's a bar that has candy.”
+
+Stella chuckled, and Officer Holly rolled her eyes.
+
+“Come and get your shoes.” Lisa said from behind the shoe counter. Elise and Barbi walked over first and exchanged their shoes, and Lisa handed them back the same-sized bowling shoes. “That'll be a 50 dollar rental fee.”
+
+“I left my purse downstairs.” Barbi said. “I'll be right back.”
+
+“She's just kidding, Barbi.” Elise said and caught the woman's arm before she left. “There's no fee.”
+
+“Oh.” Barbi said. “That joke went right over my head.”
+
+“That happens to me sometimes, too.” Lisa said and exchanged her own shoes. “Once you're around for a while, you'll pick up on them more and more.”
+
+Everyone but Ren changed shoes and chose their lanes. Since there were 4 lanes and 8 people, they decided on the same teams as they had for the water polo game, and each team put one competitor on each lane. Ren wrote down who was going against who, and then the games were on.
+
+Lisa had been right, and Ren was quite busy keeping 4 score sheets going. The televisions above each lane gave him the pins and scores for each ball, so all he had to do was write them down. He would occasionally see Lisa's cute little backside as she bowled, and then he would look the other way and see Elise wearing his favorite jeans.
+
+By the time the first full string was over, he couldn't take it anymore. He caught Lisa's attention and she came right over to him.
+
+“B-bathroom, please.” Ren said as he carefully moved over to his wheelchair.
+
+“We're taking a break.” Lisa said and started to roll Ren to the bathroom. “Everyone help yourselves to the candy at the bar.”
+
+Stella nodded to her as she passed, and went behind the bar. “The candy bar has actual candy bars, for those that want one.”
+
+“Right here.” Officer Holly said, and Stella pointed to several different kinds. “That one.”
+
+Stella tossed it to her. “Anyone else?”
+
+Denise held up a hand and Stella tossed her one as well.
+
+Barbi walked over to the bar. “Um... no bar, but... I'd like to try some of those.” She pointed to a bright red candy.
+
+“I think those are hot.” Stella said and picked up a small paper cup and used the little scoop to put some in it. She handed it to Barbi, who picked one from the small pile she had and started to chew on it.
+
+“Oh! Is it ever hot!” Barbi said and started to wave her hand in front of her mouth. She kept chewing, and then swallowed. “They're great!” She said and ate another one. “I haven't eaten something like this in a long time.”
+
+“Give me some of the peppermint ones.” Elise said, and she received a paper cup with some in it.
+
+“Black Licorice.” Donald said with a bit of a grunt, and Stella picked up a small paper bag and put several long pieces into it for him. “Thanks.”
+
+“I'll have a candy necklace.” Barbara said, and everyone looked at her. “What?”
+
+“Nothing.” Stella said and handed her one.
+
+“I haven't had one of these since I was a teenager.” Barbara said and put it around her neck, then put part of it in her mouth and started to chew on it. The little candy beads broke up into powder and she swallowed. “It even tastes the same.”
+
+“I was about to joke that it's probably been here that long; but, I know you've only been in the house for a little while.” Gloria said.
+
+Barbara chuckled. “That would have been a good joke.”
+
+“Give me some of the mixed jellybeans.” Gloria said, and Stella handed her a paper cup with them in it, then took some of the chewy caramels for herself. Everyone went back to the bowling lanes and sat down to eat their candy.
+
+“Anyone want soda pop?” Denise asked, and nearly everyone raised their hands. “I'll bring the tray.”
+
+She left and the silence grew; but, it wasn't uneasy or awkward as they enjoyed their chosen candy. A few minutes later, Denise came in with a push cart and it had all different kinds of soda pop on it, the same as they had at the party downstairs. Those that wanted some helped themselves, and then Lisa pushed Ren's wheelchair out of the bathroom. Ren had a relieved expression on his face, and Lisa had a very happy one.
+
+“Is everything all right?” Stella asked.
+
+“Everything is great!” Ren said. “I'm so glad Lisa helped me.”
+
+“I guess with our scorekeeper back, we can get back to the game.” Officer Holly said.
+
+“I'm sitting this one out.” Lisa said and gently sat beside Ren at the little desk, almost as if she was sore. “I need a bit more of a break.”
+
+“Well, you didn't really have one; so, go ahead and take a nice rest.” Stella said. “I'll bowl your string for you.”
+
+“Thanks.” Lisa said as she took Ren's hand and intertwined her fingers with his, then leaned against him slightly to watch everyone else bowl.

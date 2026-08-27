@@ -1,0 +1,239 @@
+---
+id: a0b70f8a-1174-5a0e-a73b-23c63ae1be0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 559 - Making Choices"
+slug: 0559-chapter-559-making-choices
+partOf: mythrans-master-of-all-continued-completed
+position: 559
+ownLength: 2442
+unit: words
+publishedAt: 2018-04-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/208818/chapter-559-making-choices"
+royalRoadId: "208818"
+---
+
+“It's a Non-Aggression Pact and not an ultimatum, Your Highness.” Ren said as he walked towards the king. “If your people had agreed to it, there wouldn't be anything that you could perceive as an ultimatum.”
+
+“Ordering us to divert all of our shipping or they will be destroyed, is an ultimatum.”
+
+Ren smiled and stepped up to the podium. “It was a warning, Your Highness. The ships won't be destroyed, only stopped.”
+
+“Semantics.” King Alamast said and stepped away from the podium. “The floor is yours.”
+
+Ren took two steps into the air and rested his hands on the podium. “I actually came here in a last ditch attempt to convince you to not let the Land Dwellers and the Sea Dwellers return to hostilities.”
+
+There was no reaction to his statement, and he sighed.
+
+“I shouldn't have bothered, apparently.” Ren said. “I had this whole speech prepared to tell you that your troops are having a difficult time with fighting off the ghouls; but, you would counter-argue that they don't fight on ships. I was going to argue that you can't fight two wars on two different fronts, with one on land and one at sea... and then I realized you don't see either of them as wars.”
+
+No one said anything and he shook his head.
+
+“I should complain that you're being stupid and ignorant, then I realized you were going to be that way no matter what happened or what I said to try and convince you.” Ren said and took out the All-Seeing Mirror and brought up one of the ghoul infected wards, then enlarged the mirror to 3 times it's normal size. “Do you see this? If you treat people you are trying to save like this, what are you going to do to people you don't care about?”
+
+Princess Diana got up and walked out far enough to see what the All-Seeing Mirror was showing, and she gasped.
+
+“Yes, Your Highness.” Ren said as he felt her shock. “The soldiers assigned to guard the sick from me are wasting their time.”
+
+“How did you know...”
+
+“I'm not stupid, Your Highness.” Ren said to Diana. “I felt how your father felt when the sick were mentioned. He doesn't want me stealing his people.”
+
+“Lord Ren...”
+
+“It's all right, Your Highness. King Alamast seems to believe that people I save and become my people, are somehow exempt from his rule.” Ren turned and looked at King Alamast. “I am very tempted to make that true, Your Highness.”
+
+King Alamast stood up. “Are you threatening me?”
+
+“You know what? I just decided that I don't care.” Ren said. “I hereby withdraw my petition. As far as I'm concerned, you can just sit here and watch your kingdom fall.” He reduced the All-Seeing Mirror to it's normal size and stored it. “I'm going back to my county and I'm going to watch you let yourselves be destroyed.”
+
+“You can't talk to me like that.” King Alamast said, and a bead of sweat appeared on his forehead.
+
+“Yes, I can.” Ren said. “You've believed this whole time that I am not under your rule, therefore I am not.”
+
+“That's not how it's supposed to work.” Diana said, and Ren chuckled.
+
+“Your Highness, I can feel his emotions. He doesn't want me to erode his power away.”
+
+Diana looked at her father. “Is that true?”
+
+King Alamast didn't answer, and Lady Eleanor turned her head so she wouldn't meet her daughter's eyes.
+
+“Mother? You believe this, too?” Diana asked. Neither of them answered, and she sighed. “Lord Ren, I'm sorry.”
+
+“I said it was all right.” Ren said. “This just makes my life a lot easier.”
+
+“What do you mean?”
+
+“I'll visit the hospitals and wards with the ghoul infected and give them the option to come with me or stay, and then I can stop worrying about the Human Kingdom.” Ren said. “I'll provide aid and sanctuary to anyone that requests it, but I won't involve myself in any more internal politics because it's not worth the hassle.”
+
+“But... but you're a Lord!” Princess Diana said. “You're supposed to see the Human Kingdom as a priority!”
+
+“I should, and I did; but, I wasn't appointed by the others, Your Highness. I'm the outsider that earned it the hard way.” Ren looked around the room and no one would meet his gaze. “They know I won't do deals and trade favors like the other Lords, because I'm not like them.”
+
+“My Lord...”
+
+“Once the agreement deadline is over for the Sea Dweller's Non-Aggression Pact, I'll be sending the Ambassador to the Land Dwellers back home to keep her safe.” Ren said. “I also have a few things ready if you still want to trade for the plans of that recording device.”
+
+“Um... yes, I...” Diana shook her head. “This isn't the time for that.”
+
+“I know, I was just reminding you.” Ren said and stepped away from the platform. “I'll come back after the deadline to trade.”
+
+“You... you can't just... walk away...” Diana said softly.
+
+“I'm not.” Ren said and walked over to her. “I'm not going to care about the kingdom anymore; but, that doesn't mean I don't care about the people inside of it.”
+
+“Ren.” Diana whispered his name.
+
+“I'm sorry if you feel like I'm abandoning you.” Ren said softly. “I'm not.”
+
+“But...”
+
+“I'd like to try something to prove it, with your permission.”
+
+“Wh-what?”
+
+“I want to make you a member of my domain.” Ren said.
+
+“NO!” King Alamast yelled. “You already have my wife! I won't let you take my daughter, too!” He stepped around the table. “Guards!”
+
+A group of armed guards came into the meeting room, and in the next moment they were quickly removed of all their weapons and armor by the 8 women Ren had with him. Everyone had frozen at the sudden reversal of fortune, and they all stared at Ren.
+
+“It... it's true.” Diana said. “You really are afraid that he will take it all from you.”
+
+“He can command my wife to do anything now, because he rules her personally. I will not allow you to fall under his influence as well.” King Alamast said. “So yes, I am afraid he will take everything from me.”
+
+“Father, he doesn't want it.” Diana said. “If he did, he could have done so much that day you lost the bet and he had command of everything in the kingdom.” She said. “Not only that, he's saved us several times already, both as a kingdom and as a family. If he had wanted to take over, he could have done it easily.”
+
+“Your Highness, he isn't going to listen.” Ren said. “I can feel his defiance.”
+
+“Of course I'm defying you!” King Alamast said. “If I don't, you-”
+
+“SHUT UP!” Crown Princess Diana yelled in her command voice. The king's mouth clamped shut and stayed that way, and she turned to Ren. “My Lord, how will taking me under your domain protect me?”
+
+“When you are in mortal danger, I'll know it right away and I'll rescue you.” Ren said.
+
+Diana stared at him with wide eyes, because that was just like her favorite storybooks she had read as a child. The gallant hero always comes to save the princess. She felt very flattered that her childhood fantasy was within her grasp, and she let that feeling fill her up and give her strength.
+
+“Give me until you return in two days to make a decision.” Diana said. “I won't just arbitrarily put myself under your rule without examining the consequences, or discussing it with my parents.”
+
+“That's very wise of you, Your Highness.” Ren said and gave her a warm smile. “I'm glad you are taking my advice and not let things influence you, or let yourself make rash decisions.”
+
+Diana squinted her eyes at him. “If I had just arbitrarily said yes, you wouldn't have done it, would you?”
+
+“We'll never know, because it didn't happen.” Ren said, then gave her a quick wink.
+
+“My Lord...”
+
+“I will see you in 2 days, Your Highness.” Ren said and gave her a regal bow. “If you will excuse me, I have another important meeting to get to.”
+
+“You are excused, My Lord.” Diana said, and Ren stood up straight. “Should I even ask how important the meeting is?”
+
+“The fate of my friends hangs in the balance, and I need to make sure I learn everything I can to help them.”
+
+“Then go with my blessing.” Diana said.
+
+“Thank you.” Ren said and turned to the women with him. “Give the guards back their things. We're leaving.”
+
+“Yes, My Lord.” Xuunah said and they piled the armor and weapons into the arms of the waiting guards. Ren walked over to Patty, who had sat in her seat the whole time and watched the whole mess play out. Xuunah, Officer Holly, Artemis, and the maids formed a circle around Ren and Patty, then they left the meeting room to complete silence.
+
+*
+
+The man with the shrill voice stood up. “No other business?” He waited for barely a moment, then spoke again. “I call this meeting adjourned.”
+
+Everyone stood as one and gathered into groups to discuss what had happened, and King Alamast and Lady Eleanor went to Crown Princess Diana and ushered her out of the room. They quickly made their way to their living quarters and shut the door.
+
+“Diana, you can't possibly be thinking about accepting his offer.” Lady Eleanor said.
+
+“Why not?” Diana asked. “It's the most flattering offer I've ever heard.”
+
+“Do you really think...”
+
+“He didn't sweat, mother.” Diana said. “Not just for that offer, but for the entire time he was speaking.” She took a quick breath. “Nothing Ren said was a lie.”
+
+“He can't possibly come to your rescue every time you are in mortal danger.” Lady Eleanor said, and then she felt a hand on her shoulder. She looked at her husband, then at her daughter. “Tell your father he can speak now.”
+
+Diana crossed her arms and thought about it.
+
+“Diana.” Lady Eleanor admonished.
+
+“Fine.” Diana said and used her command voice. “Daddy, you can speak.”
+
+King Alamast's jaw unlocked and he rubbed it with a hand. “You've definitely learned your Command skill well.”
+
+Diana smiled. “Once I gain an Aura, I'll be able to command squads of troops.”
+
+“We're avoiding the issue here.” Lady Eleanor said. “What are we going to do with Lord Ren?”
+
+Diana chuckled. “Do with him? You make it sound like something we have power over.”
+
+“Diana...” King Alamast started to speak.
+
+“No, Daddy. Ren's right. It's my decision, and I'll make it.” Diana said. “If you are smart, you will remove the guards on the hospitals and wards.”
+
+“They have orders to not let anyone pass. No one else will be infected by them.”
+
+“But...”
+
+“He will have to deal with trained soldiers trying to protect the sick.” King Alamast said. “We will find out how the people will see him when he tries to get past them.”
+
+“You're joking, right?” Diana asked. “He appeared inside the meeting room today with 9 other people, and no one saw him... and I was specifically looking for him!”
+
+King Alamast didn't have an answer for that.
+
+“Ren won't have any trouble either getting in or leaving.” Diana said, and she turned away from her parents to hide her smile. He won't let anything stop him once he decides something. She thought and her admiration for him grew.
+
+*
+
+“Are we going to the visit the sick today?” Xuunah asked.
+
+“No, I really do have an important meeting.” Ren said. “We're going to see Nathalia, remember?”
+
+“Then we can't keep her waiting.” Xuunah said as they walked through the front door of the castle, and Princess was there waiting for them. Ren helped everyone get in that needed to, and he mounted Princess as Artemis floated beside him to await their take off.
+
+“We aren't saving people's sensibilities anymore and we don't have to hide what you can do, Princess.” Ren said. “Just take off.”
+
+Princess obliged and trotted up into the sky in full view of everyone. Several gasps and yells were heard as they saw a giant ram and large cart fly through the air, and Ren felt the people's surprise. They ran across the sky back to his county and the Main House to drop off Patty, the maids, and Officer Holly.
+
+“I think I should come along, just in case.” Officer Holly said.
+
+“Are you sure? We both have an early morning coming.” Ren said.
+
+“Sleeping in the game for an hour sure beats trying to get a full night's rest in real life.” Officer Holly said.
+
+“If you want to come along and keep watching out for me, that's fine.”
+
+“I'll look around and see if I recognize anyone.” Officer Holly said.
+
+“Unobtrusively if you can.” Ren said, and she chuckled.
+
+“This is not my first attempt at covert surveillance.”
+
+“Should we take the cart or do you want to ride your own mounts?” Ren asked.
+
+“Mounts, I think.” Officer Holly said. “It'll give us more mobility.”
+
+“Agreed.” Ren said and turned to the maids. “I'll be back to spend the night.”
+
+“You know we're tempted to go with you, too.” Frikara said, and Ren nodded. “We'll see you when you get back.”
+
+Ren gave each of them a kiss and they went inside the Main House.
+
+“I envy them.” Patty said. “They're strong, powerful...”
+
+“They didn't start that way, so you don't have to be envious.” Ren said. “Heck, none of us started this way.” He looked at Xuunah. “Not even My Angel.”
+
+“Ren, no private talk in public.”
+
+“Hm? Oh, sorry.” Ren smiled. “I was staring at you and forgot that we weren't alone.”
+
+“Uh huh.” Xuunah chuckled. “Unhook and store the cart while we retrieve our mounts.”
+
+Ren did so as Xuunah and Officer Holly jogged around the Main House to the small stables in back. They were back a few moments later and rode their white mounts, and Ren climbed onto Princess.
+
+“See you tomorrow, possibly.” Ren said to Patty. “Barring complications and unforeseen events.”
+
+“I'll hope for a smooth evening, then.” Patty said. “Goodnight.”
+
+“Goodnight.” Ren said and nodded to Xuunah and Officer Holly, then the three of them rode their mounts into the air with Artemis flying next to them.
+
+I can't wait to learn this new cooking method. Ren thought happily as they travelled to Aurora and to the love of his life's restaurant, Nathalia's Nourishment.

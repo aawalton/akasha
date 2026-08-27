@@ -1,0 +1,195 @@
+---
+id: 04a54520-8c65-51f1-a242-6bcd0e653a1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104 Understanding"
+slug: 0109-chapter-104-understanding
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 109
+ownLength: 2119
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3733943/chapter-104-understanding"
+royalRoadId: "3733943"
+---
+
+It was early evening when Lucien approached the planning room, Dorian behind him to his right.
+
+The servant waiting beside the door dipped his head. "My Lord. Lord Rathenfell and Lord Vaelric are already inside."
+
+Lucien inclined his head in return before turning to Dorian.
+
+"Could you wait outside? I would like to go alone this time."
+
+The captain regarded him for a moment before inclining his head. "By your command, My Lord."
+
+Lucien glanced toward the servant and gestured toward Dorian. "Could you ensure his meal is delivered to him here?"
+
+He shot the man behind him a look. "I do not know how long the meeting will last and I suspect he would likely skip dinner, waiting here."
+
+The servant bowed his head while Dorian glanced at Lucien, one brow raised.
+
+Lucien shook his head. "I won't skip either. Lord Rathenfell will likely have refreshments brought in if the discussion continues for some time."
+
+At his response, Dorian gave a nod before moving to stand beside the door.
+
+Adjusting his cloak, Lucien opened the door and stepped inside.
+
+The evening sun had begun to dip beyond the manor windows, leaving the room illuminated by both fading sunlight and the candles arranged around the table. Shadows stretched across the polished wood as the flames flickered gently.
+
+Lord Rathenfell and Lord Vaelric were already seated in the same position as before.
+
+At his entrance, both men looked over. Lord Vaelric's eyes narrowed slightly at the sight of him alone, while Lord Rathenfell studied him for a moment before a chuckle escaped him.
+
+The older man gestured to the seat on his right. "Lord Varentis. I trust the gardens proved to be a relaxing place to spend the afternoon?"
+
+Lord Vaelric's eyes flicked toward Lord Rathenfell, something unreadable crossing his expression before he let out a snort and turned away.
+
+Inclining his head, Lucien took his seat. "It has, Lord Rathenfell. My thanks for allowing me to enjoy your hospitality and the coffee."
+
+Lord Rathenfell's smile deepened before he shook his head. "Of course, Lord Varentis. Let it not be said that House Rathenfell doesn't know how to treat its guest well!"
+
+"Now. Shall we begin the discussion again?"
+
+Lord Vaelric waved a hand impatiently. "What is there to discuss? Lord Varentis has already agreed to compensate my subjects and write a letter to His Majesty."
+
+"The matter is resolved."
+
+Lord Rathenfell let out a slow breath, one hand rising to rub at his temple. Whatever response he had been preparing was cut off when Lucien spoke first.
+
+"Was that truly the purpose of this meeting, Lord Vaelric?"
+
+At his words, Lord Vaelric met his gaze, a frown forming on his face. "What are you insinuating, Lord Varentis?"
+
+Lucien held his gaze briefly before speaking.
+
+"Why did you agree to delay the meeting until late spring if it was merely to seek compensation? You could have asked Lord Rathenfell to hold it sooner."
+
+Lord Vaelric gave him an uncomprehending look. Lucien briefly wondered if he had misunderstood something before Lord Rathenfell raised a hand with a chuckle.
+
+"You are mistaken, Lord Varentis. It was Lord Vaelric who insisted on delaying the meeting until now. He merely requested that I host it here and send a letter to you."
+
+Lucien's brow lifted at the unexpected revelation, but he recovered quickly, turning his attention back to Lord Vaelric.
+
+"My mistake then. But it only strengthens my point. Lord Vaelric, why did you want this meeting held so late? Would it not have been better for your house if the matter were settled sooner?"
+
+For a long moment, Lord Vaelric's gaze held his own before it gradually lowered toward the table. His hands clenched once before slowly uncurling.
+
+"I plan to resettle Cragwatch before spring ends. The arrangements have already been made with the merchants and the survivors who fled the village during the Tithe."
+
+Lucien's eyes widened slightly before they flicked toward Lord Rathenfell. The older man looked just as surprised, his hand already moving to stroke his beard as he leaned forward.
+
+"...I had my suspicions, but you're even bolder than I had thought, Lord Vaelric."
+
+A snort left Lord Vaelric at the older man's words. "I had intended for Lord Varentis's letter to include a petition for the restoration of Cragwatch."
+
+He shook his head firmly. "But I have come to realize...such a thing done in coercion would only mean I am not certain about my ambitions."
+
+"I will not have the beginning of House Vaelric's future settlement be mired in such things."
+
+'So that's why he wanted me to...'
+
+Lord Vaelric glanced briefly at Lucien. "...The letter I had requested you to write. I retract my request for it." He looked away from him even as he spoke. "You need only pay for the compensation."
+
+Before Lucien could reply, a light clap from Lord Rathenfell sounded. "Still trying to hide behind that, Lord Vaelric? Come now. We both know that was never the point."
+
+The younger man shot him an annoyed look, his lips pressed in a thin line.
+
+Lucien rested his hands on the table, fingers tapping lightly before stilling. "You have been making arrangements to resettle Cragwatch...before even hearing my answer about writing the letter to His Majesty."
+
+"Then there's the compensation. Why not just send a letter to me personally instead of calling for this meeting? Even if I had tried to contest it, you would at least be able to take that into account in your plans."
+
+Lord Vaelric's gaze shifted toward him, though there was little heat behind it now. He remained silent for a moment before letting out a rough exhale through his nose.
+
+"I called this meeting to discuss closer cooperation between our villages while seeking support from Lord Rathenfell."
+
+He clenched his fists. "But you came into the meeting as though we already stood on opposite sides, so I...lost my temper and threw out that request for the letter."
+
+"The compensation is true. House Vaelric has need of all the coin it can secure for the resettlement efforts."
+
+He glanced to the side, gritting his teeth. "About the grain merchants and their collusion...I was the one who told them about Ashridge's increase in population. But I didn't expect them to take it that far. I had thought you would come to me so we might..."
+
+His words trailed off as Lord Rathenfell began to chuckle, causing the younger noble to glower at him.
+
+"It seems in matters of trade, you still have much to learn, Lord Vaelric. Merchants will interpret our words whenever it suits their purposes. I suspect they assumed the two of you held grudges against one another, so they sought to profit from it."
+
+A more open laugh escaped him as he gestured toward Lucien. "And Lord Varentis here acted in a manner that none of us expected. Instead of accepting the price or coming to you to discuss it, he did what House Varentis always seems to do and found a third option."
+
+"See? I told you this was all a series of misunderstandings between the two of you. This could have all been avoided if you two weren't so prideful."
+
+This time, both Lucien and Lord Vaelric shot dry looks at the older man, who merely smiled at them.
+
+It was not exactly pride, though he supposed Lord Rathenfell was not entirely wrong.
+
+Lord Vaelric's eyes flicked to his cloak. "A noble wearing that should have known better..."
+
+"And yet it was that very same noble who inspired you to take such a drastic action in the first place, Lord Vaelric," Lord Rathenfell said, even as he wiggled his brows teasingly at the younger man.
+
+'...What?'
+
+Lucien couldn't help but stare at Lord Vaelric in confusion.
+
+The tips of Lord Vaelric's ears reddened as he sputtered before quickly recovering. He shot Lord Rathenfell an irritated look. "W-who would be inspired by such recklessness!"
+
+Lucien's gaze drifted toward Lord Rathenfell before returning to Lord Vaelric. "...Starting a village from scratch in the frontier. Lord Vaelric, that is something even I would hesitate to do," he replied dryly.
+
+Lord Vaelric glanced briefly at him before looking away. "It is not just pure recklessness. There is value in Cragwatch's ridges."
+
+"In the months since I have been in Helvarn, I scoured Lord Rathenfell's library for anything that might aid the resettlement."
+
+He leaned forward, hands tightening into fists. "The survivors told me of a black stone that occasionally surfaced in the deeper tunnels. They usually ignored it and focused on the iron ore instead."
+
+"After reading Lord Rathenfell's records, I no longer believe they should have."
+
+Lucien's eyes sharpened at the mention of the black stone.
+
+"So that's why you've been spending so much time in my library..." Lord Rathenfell muttered, stroking his beard.
+
+Reaching into his pocket, Lord Vaelric pulled out a small, almost unassuming rock wrapped in a cloth. "Yes. And some time after speaking to them, I sent a few people to confirm it."
+
+He set it down on the table and unwrapped it, revealing a dull black stone that Lucien could barely see beneath the candlelight.
+
+Lord Rathenfell regarded it, still stroking his beard in thought. "I have heard that the heartlands use a black stone to fuel many of their forges."
+
+He shook his head faintly. "But I do not know the process behind it. We have always bought our higher-grade weapons from the heartlands."
+
+For the first time since the meeting, a small frown appeared on the older man's face. "But the current skirmishes with the elves...it has grown more difficult to acquire them for a good price."
+
+Lucien kept his expression carefully neutral. He was tempted to ask more questions, but as he had come to learn throughout this meeting, nobles grew suspicious when someone acted contrary to what should have been common knowledge.
+
+Slowly, Lord Vaelric inclined his head before waving toward it. "We might not know how to process it. But it is still valuable as a raw material to be sold. And we can always begin to learn and understand how it is used."
+
+Leaning back in his chair, Lucien deliberately rubbed his chin. "I believe there is someone who might know what to do with it. Or at least, would be willing to try and find out."
+
+At his words, both men turned toward him in question.
+
+Lucien gestured toward the black stone. "Lady Talia has been involved in several of Ashridge's newer ventures, including the production of lime mortar. I have come to learn that she is rather...passionate about discovering new things."
+
+It was rather ironic that the coal he had hoped to find near Ashridge had instead been discovered through Lord Vaelric's ambitions.
+
+Despite the slight smile on his face, Lord Rathenfell clicked his tongue. "It seems you have stolen a more valuable person than I had thought, Lord Varentis."
+
+The corner of Lucien's mouth twitched, though he remained silent, giving only a small nod.
+
+Lord Vaelric, by contrast, narrowed his eyes at him before he snorted. "One should not be living with an unmarried lady while being unwed yourself. I have heard of the rumors, Lord Varentis. To spend so many nights at a tavern drinking with her..."
+
+He let out a breath, shaking his head instead of finishing his words.
+
+Lucien's brow twitched at the implication. It did not help that he could hardly explain himself without revealing the history he shared with Talia.
+
+Lord Rathenfell laughed openly before he waved his hand. "Let us not begrudge a younger man's vices, Lord Vaelric. You should quickly find a wife yourself rather than concern yourself with Lord Varentis's reputation for seeking out the finer joys of life."
+
+"...I will have to ensure my daughter doesn't meet you. Thank the Goddess she's at the capital with her brother," Lord Rathenfell muttered under his breath.
+
+He didn't know if the older man was doing this on purpose, but his words were not helping at all.
+
+Looking away, Lord Vaelric gave a firm nod. "...I will be too busy at this time to do so. But I won't neglect to find a proper wife, Lord Rathenfell."
+
+Lord Rathenfell looked between the two of them as something sharper began to grow in his expression.
+
+"Now...it seems you two have come to an understanding."
+
+His tone lowered slightly as he studied each of them in turn. "But so far, we have only spoken about what you two want."
+
+"Let us speak about what you both can offer me for my own cooperation."
+
+Lord Vaelric and Lucien exchanged looks briefly before turning toward the man, whose smile had become almost amused.

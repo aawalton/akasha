@@ -1,0 +1,181 @@
+---
+id: 6b869250-8c98-5409-8a79-f3dd016d8e11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90 Channel"
+slug: 0095-chapter-90-channel
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 95
+ownLength: 2062
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3628179/chapter-90-channel"
+royalRoadId: "3628179"
+---
+
+Talia’s eyes shifted to the side at Harlon’s words. “I was busy with the tests, Harlon. And I haven't been using that much lately.”
+
+Harlon let out a low huff as he shook his head. “Seen that mixture before in Helvarn, Lady Talia. Would’ve saved trouble if you told me what you were making.”
+
+She stared at the older man in disbelief while Lucien raised a hand to rub at his temple.
+
+“The stone walls in Helvarn use lime mortar?”
+
+The carpenter shook his head faintly. “I don't know if that is what they call it, Lord. But they have likely used the same material before.”
+
+He took another drag from his pipe before exhaling a thin stream of smoke. “Saw the kilns you had built, it looked solid enough to me.”
+
+Lucien and Talia exchanged brief looks before she turned toward Harlon, pointing toward him accusingly.
+
+“Then why didn't you say anything? I have been working at the slaking pits for weeks now!”
+
+The carpenter’s brow lifted. “You didn't ask. And you walked off every time you see me.”
+
+At Talia’s indignant expression, he exhaled softly through his nose. "I know what it is, but not the process of making it, Lady Talia. Only those who shape stone would know that.”
+
+The people of this world were not ignorant. It was something Lucien had reminded himself of often during his first days here.
+
+Even so, both he and Talia still found themselves forgetting that now and again.
+
+Talia let out a sharp breath, a hand on her hip. “I suppose I should’ve known Helvarn’s walls used something like mortar.”
+
+Harlon’s shoulders lifted faintly as he removed the pipe from his mouth. "Not many people do. As you have come to know, the pits give off a stench. Those who make it are usually kept well away from settlements."
+
+He rubbed his thumb along the stem of his pipe. “Helvarn likely has their own somewhere deeper in the inner regions. Frontier settlements like ours never had the leeway to make any ourselves, even if we managed to attract masons.”
+
+She let out another breath, less indignant this time.
+
+Lucien's eyes moved toward the Easthollow River. "Then you know why we are here, Harlon."
+
+The older man gave a slow nod, following the direction of his gaze. "Aye. Planning to build a gate to hold the water, Lord?"
+
+Talia perked up and immediately cut in. "With the mortar of course! Though it won't be a full stone one."
+
+Lucien stepped closer to the bank of the river. "The headwall will be made out of stone reinforced with mortar."
+
+Henric and Merek lingered several paces behind the group, keeping a watchful eye of their surroundings.
+
+Harlon placed his pipe back in his mouth, a thoughtful expression on his face. "The stone must be tested against water first to see if it could hold."
+
+He glanced at Talia, brow raised. "How long before the mortar fully rests?"
+
+She flicked three fingers with a grin though some of the confidence slipped from her face when Harlon shook his head.
+
+"Not just hardened, Lady Talia. It must be fully rested. I have heard it takes a few weeks for that."
+
+She tapped her cheek lightly, her eyes lifting in thought. “I think it should take around...a month? Maybe?”
+
+The carpenter exhaled a puff of smoke as his gaze shifted toward the riverbank. “Six weeks then. Need to be certain about the stone. Water is patient. It finds every gap you leave it.”
+
+Talia gave Harlon an uncomprehending look, her mouth parting slightly before she spoke. “Water doesn't work like that. As long as the material hardens properly, there shouldn't be many leaks.”
+
+Harlon let out an amused huff. “You ever built a water gate before?”
+
+Talia's eyes shifted to the side. “No. But the concept remains the same, right?”
+
+The carpenter gave a slow nod, smoke drifting from his pipe. “Holding still water is one thing. Holding a river is another.”
+
+He gestured toward the riverbanks. “Build it wrong and it won't endure once the spring thaw swells the river.”
+
+Talia’s shoulders dropped. “But that means we won't even be able to test it until Lord Lucien returns from Helvarn.”
+
+His attention shifted from the river toward her, his brow lifting slightly. “...Is that why you are in such a hurry, Talia?”
+
+Talia’s fingers curled against the edge of her skirt as she looked away. It was rare for him to see his junior appear uncertain.
+
+The carpenter’s eyes met Lucien’s briefly before he folded his arms. “You were hoping to begin the digging of the ditch sooner.”
+
+At her small nod, Harlon’s gaze moved back toward the river in thought. “Building the water gate only needs one or two who know what they are doing. But the ditch is another matter.”
+
+Talia looked up at the older man’s words, though he had already begun walking away to join Lucien at the riverbank. She let out a small huff beneath her breath before following after him.
+
+Harlon pointed toward the edge of the bank. “First, we build the gate where the ground holds firm. The bend slows the current enough that the pressure will not strike it directly.”
+
+Cupping his chin in thought, Lucien nodded slightly. “That would reduce the strain against the water gate.”
+
+Leaning forward slightly, Talia studied the area Harlon indicated more closely. “So while the mortar is curing, we can begin digging the ditch itself?” Her gaze shifted toward the carpenter. “But wouldn't it be risky to start before the gate is finished?”
+
+The carpenter took a slow drag from his pipe. “Might be. But if we only connect a small section first, we can test the gate before opening the rest.”
+
+“It would save time,” Lucien said, lightly stomping against the softened ground as his boots sank slightly into the earth.
+
+“While the mortar cures, the ditch work can begin at the same time. And the soil is soft enough to begin digging now.”
+
+Harlon inclined his head before gesturing toward Talia. “I will need you to show me how your mortar hardens. Never worked with it myself.”
+
+A faint curve appeared on her lips. “Oh? I thought you knew everything about building, Harlon.”
+
+The older man shook his head lightly. “No one knows everything, Lady Talia.” He shifted the pipe between his fingers. “Been a long while since I worked stone alongside wood.”
+
+Lucien turned from the river to regard the stretch of land between it and the western fields. “We will need to begin planning work groups. I intend to mix the different groups within the village together.”
+
+Harlon glanced at him briefly before following the direction of his gaze. “I will have some of my men handle the water gate alongside Lady Talia. But the digging itself will be harsh work even with the softened ground, Lord.”
+
+He exhaled through his nose. “And we will need to watch for heavy rain while they dig. Flooding could ruin the work before it is finished.” Harlon glanced toward the riverbank. “Good thing the land’s still bare. Less for the river to destroy if the banks give way.”
+
+Lucien inclined his head, his attention lingering on the distance between the riverbank and the western fields. “Then the work must be done during clear weather. How many men would we need, Harlon?”
+
+The carpenter rubbed a hand across his beard. “Fifty men could cut the first stretch before late spring if the weather holds.” He drew from his pipe briefly before exhaling smoke into the air. “We would need another dozen to support them while they work.”
+
+Harlon waved toward the palisade walls in the distance. "I heard of your plan to restructure the village, Lord. If we keep growing, folk will start building out here eventually. Best not leave them problems to fix later."
+
+Future districts spreading gradually outward from the original walls of Ashridge.
+
+The scale of the undertaking began to dawn on him. It would require a significant portion of their labor force, and this was only the first ditch they would need to dig.
+
+In the future, he intended for more than just irrigation channels to spread across the surrounding land.
+
+Talia crossed her arms, tapping her foot lightly against the ground. “I wonder if we even have enough shovels for that. I should check with Joren later.”
+
+The carpenter let out a snort. “You avoid me but not that grumpy oaf?”
+
+She covered her mouth elegantly. “Unlike you, that grumpy oaf treats me nicely all the time.”
+
+Harlon shot her a dry look. “He treats you nicely because you gave him a cart full of iron ore as a gift. Meanwhile, you used up most of my wood stockpile instead.”
+
+The corner of Lucien’s mouth twitched faintly before he spoke. “Speaking of Joren, we will need his help for the gate itself.”
+
+At the mention of the blacksmith being involved, Harlon gave a faint shrug. “Iron isn't as much of an issue lately, so he won't grumble about that at least.”
+
+He gave a nod toward Lucien. “And we have our people beginning to learn how to make the crossbows as well, Lord. We spread the process between several of them.”
+
+It was something they had discussed in an attempt to slow the spread of the crossbows themselves. Though he doubted it would remain a secret for long, they could at least delay it by ensuring no single person knew the entire process.
+
+Talia gestured with both hands as though lifting something upward. “Wouldn’t a lifting drum work best? We could use a wooden drum with rope for it.” She mimed pulling at an invisible rope. “That way we won't need nearly as much iron. Waste not, want not after all!”
+
+Harlon considered her words, his pipe resting between his fingers. “A rotating drum like the crank for a well?” He gave a slow nod. “Might work. But the rope would need to be thick enough to bear the weight.”
+
+He placed the pipe back into his mouth, drawing from it slowly. “And the wood matters too. Oak would be best if we are building with water in mind.”
+
+Lucien rubbed at his chin in thought. “Parts such as the handles should be removable. And the size of the drum itself would depend on the weight of the gate.”
+
+His gaze drifted toward the riverbank once more. “Preferably, it should allow one man, at most two, to raise it gradually.”
+
+Talia’s eyes brightened at his words. “Then we can regulate the flow of water as well! If the gate opens slowly, the ditch wouldn't be at risk of flooding immediately.”
+
+She gestured toward the open stretch of land behind them. “I heard spring floods can get pretty bad here sometimes. So we can frame this as more than just an irrigation ditch. It would help control flooding for the village too.”
+
+Harlon’s brow creased slightly, smoke curling upward from his pipe. “Then the drum itself must be able to withstand the strain, but not so thick that a man cannot turn it.”
+
+He exhaled another puff of smoke into the air. “And keeping it maintained is another matter. We want it to last for more than just a few years.”
+
+Talia began excitedly speaking about the possible size of the gate while Harlon occasionally interrupted with short remarks regarding the strain the river would place upon it if it grew too large.
+
+Lucien listened as he turned to regard the open stretch of land beside the Easthollow River.
+
+Men from different parts of Ashridge working side by side beneath the sun.
+
+A ditch cutting across the land, water flowing through it toward the western fields, and even a stone-lined culvert beneath the road leading toward Helvarn.
+
+It would be the first sight people would see when they arrived in Ashridge.
+
+Beside him, Harlon removed the pipe from his mouth, his eyes still on the river itself. “Once men start digging, there is no stopping halfway, Lord.”
+
+Talia stretched her arms wide, a bright grin on her face.
+
+“But once it’s complete, they would see a different sort of Ashridge too!”
+
+Harlon shook his head lightly though he remained silent.
+
+Lucien gave a nod, his gaze remaining on the land before him.
+
+“Then we will see it through properly.”

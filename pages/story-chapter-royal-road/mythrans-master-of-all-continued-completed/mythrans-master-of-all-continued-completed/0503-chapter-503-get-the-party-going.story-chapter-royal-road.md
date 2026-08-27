@@ -1,0 +1,325 @@
+---
+id: 042393ec-e012-5ead-945b-894236007ed4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 503 - Get The Party Going"
+slug: 0503-chapter-503-get-the-party-going
+partOf: mythrans-master-of-all-continued-completed
+position: 503
+ownLength: 3295
+unit: words
+publishedAt: 2018-02-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192543/chapter-503-get-the-party-going"
+royalRoadId: "192543"
+---
+
+Clint wasn't too surprised when he saw 2 large horse-drawn carts come down the road towards his ranch the next in-game morning. About 30 people climbed out of the two carts, and they were already dressed in swimwear.
+
+“Damn, girl.” Clint said to the woman he had met yesterday and had invited over. “Ah 'spected ya ta show up with jus' ah few people.”
+
+The woman laughed. “Friends of friends?” She said, and pointed out 7 people. “My fellow admins.” She said and waved to the rest. “Random people that overheard the shouts about a real swimming pool.”
+
+Clint laughed and shook his head. “Ah shouldn' rightly ask some of ya ta leave now tha' yer here.”
+
+“I told you he was an actual southern gentleman!” She said loudly to the other people.
+
+“Git yer scantly-clad butts over ta tha pool an' have some fun.” Clint said to them.
+
+“That's some gentleman!” One of them said, and several people laughed.
+
+“Go on! Git!” Clint said and waved to the grass-covered hill. “Ah'll be righ' over.”
+
+A few of them cheered and thanked him, then they all started walking over the hill, except for the woman he had invited over.
+
+“Thanks for not being angry.” The woman said.
+
+“It's hard ta be angry at such a pretty filly.” Clint said.
+
+“Did... you just call me a pretty horse?” She asked, and he laughed.
+
+“Naw, tha's slang fer a fine young lady.” Clint said. “Ah was gonna call ya darlin'; but, ah did tha' once and it were taken tha wrong way... an' ah didn' wanna insultcha.”
+
+“I think 'darling' might have been more appropriate.” The woman touched his arm. “Thank you for at least trying to consider my feelings.”
+
+Clint chuckled. “Ah try ta be considerate an' ah still messed up.” He said, and she smiled. “Ah'll bring out the ale and food.”
+
+“Wait, what?”
+
+“Ya didn' 'spect me ta have people over an' not feed an' water'em, didja?” Clint asked, and she gave him a big warm smile.
+
+“Thank you so much.”
+
+“Ya don' haveta say that, ma'am.” Clint said. “Seein' tha' smile is thanks enough.”
+
+The woman squeezed his arm and nodded, then walked over to the grassy hill. Clint went into his house and gathered up the food and ale he had picked up the last time he was in the game. He had a few people there to help him with that, too. Billy the High Elf and his in-game girlfriend Jennifer from the Pleasure Palace, Tommy and his real life girlfriend, and Dillon were there to help. A couple of the other dancers from the Pleasure Palace were also there.
+
+“I hope you guys are going to come to the new place tonight.” Jennifer said. “You have got to see it!”
+
+“Ah was plannin' on movin' tha party ta relax there tonigh'.” Clint said.
+
+“That's assuming the girl he's sweet on is okay with it.” Hank said from outside. “You really should ask her first.”
+
+“Ah don' havta ask 'er nothin'.” Clint said and his face went a little red.
+
+“Aha!” Jennifer said. “You do like her!”
+
+Clint clamped his mouth shut and the guys laughed.
+
+“Jennifer?” Hank said. “I've been meaning to ask you a question.”
+
+“Go ahead.”
+
+“How do you like Billy's High Elf body upgrade?”
+
+“Geez, Hank!” Clint said.
+
+“What? I'm just curious.” Hank said. “Jennifer doesn't mind questions like that.”
+
+“I really don't.” Jennifer said and smiled. “I was a bit surprised that his penis was twice as long.” She said. “There was no way I could take it all.”
+
+“Heaven have mercy.” Clint said and rubbed his face in exasperation, while the dancers from the strip club laughed.
+
+“Did it feel good?” Caramel asked.
+
+“Kind of.” Jennifer said, and it was Billy's turn to rub his face in exasperation. “I've had better screws from smaller screwdrivers.”
+
+“Jennifer...” Billy started to tell her to be quiet about their bedroom antics.
+
+“It's okay, babe.” Jennifer said and pat his arm. “Once you get used to using something so big in such a small space, I'm sure I'll enjoy it a lot more.”
+
+“TMI! TMI!” Dillon said and covered his ears.
+
+“Timmy?” Jennifer asked. “I thought you liked Candy.”
+
+That made everyone laugh because Dillon's mouth dropped open in shock.
+
+“It's tee-em-eye.” Sugar said. “That's short for 'too much information'.”
+
+“Oh.” Jennifer said. “Why didn't he just say that?”
+
+“It doesn't matter.” Billy said to try and change the subject. “We need to go out to the pool.”
+
+“Righ'!” Clint said. “Billy an' Tommy, store tha' tables an' chairs an' follow us.”
+
+They all went out to the pool and saw how many new people were there. They set everything up, and Clint looked at Hank.
+
+“No drinkin' tha ale!” Clint warned him.
+
+“But... I love ale!” Hank said.
+
+“Ah don' care.” Clint said. “At yer size, ya could drink everythin' ah have in less than a minute!”
+
+Hank opened his mouth to argue, then sighed. “Yeah, I can't argue that.”
+
+“Don't worry, big guy.” Billy said and grinned. “I'll drink your normal share.”
+
+“Bastard.” Hank mumbled, and everyone laughed.
+
+“This pool is fantastic!” The woman Clint had invited over exclaimed and came over to him.
+
+“Ah'm glad ya like it.” Clint said and looked at all the people around the pool. Even with 30 of them there, it wasn't even close to being crowded.
+
+“I should have invited more people.” She said with a huge smile.
+
+“Abusin' mah hospitality already, an' ah barely known ya a few hours!” Clint said and laughed.
+
+“Come and have a swim.” The woman said and held her hand out.
+
+“Don' mind if ah do.” Clint said and took her hand, then they ran to the pool and jumped in. Hank stood up to his full height and took a step.
+
+“HANK! NOOO!” Tommy yelled, and Hank stopped just before he jumped into the water.
+
+“What?”
+
+“You're a flipping giant, man!” Tommy said. “You'll kill someone if you jump into the pool like that!”
+
+“Oh, right.” Hank said, and he frowned. “Being a giant is starting to suck.”
+
+“Just wade into the pool for now.” Caramel said and pat his knee. “Try not to step on anyone.”
+
+Hank nodded and stepped into the pool, then sat down. The water only came up to his waist, and he sighed. She walked over to him and carefully climbed up onto his shoulder and sat down.
+
+“Yeah, I definitely didn't think this through.” Hank said sadly. “I can't even kiss you.”
+
+“Turn your head this way and pucker your lips a little.” Caramel said.
+
+Hank did as she asked, and he expected her to try and kiss him. What she actually did surprised the hell out of him. Caramel slid up her bathing suit top and rubbed her chest on his lips.
+
+“Mmm.” Caramel said and kept rubbing herself on his lips. No one had noticed them yet, since they were all trying to avoid looking at the giant sitting in the pool. Hank couldn't even ask her to stop, because his mouth was busy. After a minute, he couldn't resist the urge to lick his lips, and the end of his tongue rubbed across her chest.
+
+Caramel gasped at the rough sensation and grabbed onto his face so she wouldn't collapse. Hank cupped his hands behind her to help hold her in place, and flicked the tip of his tongue on her. It didn't take long for her to finish, even with all the people around them, and she sat down in his hands and reclined back as she dangled her calves and feet over the end of his palms.
+
+“Wow.” Hank said.
+
+“Don't even think about what I think you're thinking about.” Caramel chuckled.
+
+“No one can see what we're doing.” Hank whispered to her, and she turned her head. The tips of his fingers barely blocked her sight, so all anyone could see was the top of her head and her dangling feet. She turned back to look at him and stored her bikini bottom.
+
+“Go easy.” Caramel said and propped her feet up onto his palm and spread her legs for him. “Your tongue is really rough at this size.”
+
+“You are so sexy.” Hank said, and he very carefully stuck out the tip of his tongue and licked her. It was quite big, so he actually licked the inside of both of her thighs, her special place, and her abdomen at the same time.
+
+“AH-” Caramel covered her own mouth to stop her yell. She looked around and no one paid them any attention, then she looked back at Hank. “That was... a bit too much.” She smiled. “Stick out your tongue and let me do it.”
+
+Hank smiled and stuck out the tip of his tongue for her, and she used it as much as she wanted. The rest of the day seemed to pass by quickly after that.
+
+********
+
+Almost like a switch had been thrown, Ren woke up just under 3 hours later. He was still snuggled into Elise's large and very warm breasts, and it was the best feeling in the world. He rubbed his face on them and kissed them, and that made her laugh.
+
+“Good morning, sleepy-head.” Elise said, and Ren lifted his head to look at her.
+
+“I didn't think I could love you more, and then you let me put the world on hold and cuddle you like this.” Ren said and slid up the bed a little and kissed her on the lips. “Oh, I forgot!” He said and pulled back. “I'm sorry for the morning breath.”
+
+“Don't you dare!” Elise said and stopped him from moving away.
+
+“But...”
+
+“I've got morning breath, too.” Elise said and pulled him back in to kiss him. It was a bit gummy because their saliva was a little dried up, and Elise broke the kiss. “Okay, you can dare.” She said, and it was Ren's turn to laugh.
+
+“Bathroom breaks all around!” Ren said and rolled over to the side of the bed and sat up.
+
+“Was 3 more hours enough to recharge you?” Elise asked.
+
+“I'm pretending it was.” Ren said and stood up, then walked over to the bathroom. Elise was right behind him, and they used the facilities, brushed their teeth, and made out for a couple of minutes before going back out to the bedroom.
+
+“Hurry up and eat, you two.” Stella said.
+
+“Thanks a lot, Stella.” Ren said and started eating quickly. He didn't feel too bad about telling Stella to make everyone wait for him; but, he wasn't going to make them wait anymore.
+
+“Rushing isn't always a good idea.” Elise said and put a hand on his arm.
+
+Ren smiled. “I've inconvenienced you all enough for today.” He said. “I've got to get my workout done and showered before going back into the game to meet the guys.”
+
+“Meet the guys?” Stella asked.
+
+“Yeah, Clint invited me over to relax this weekend.” Ren said. “I couldn't go this game day because I died last night, but if I hurry, I'll get there just as the night is starting.”
+
+“Leave it to you to want to hurry up so you can go and relax.” Elise said, and Ren chuckled. He finished eating at a more reasonable pace, then sat down in the wheelchair.
+
+“Stella, please take me to the exercise room.” Ren said.
+
+“Yes, sir.” Stella said and saluted.
+
+“That was sloppy.” Ren said and returned a very crisp salute. “Carry on.”
+
+Stella and Elise chuckled at his antics, then Stella brought him downstairs to the exercise room and a very strict-looking Donald.
+
+“Atten-hut!” Donald said, and Ren quickly stood up from the wheelchair. “You're late, recruit!”
+
+“Sir! No excuse, sir!” Ren said.
+
+Donald smiled evilly. “You're not gonna claim you needed your beauty sleep?”
+
+“I can only claim to need a beauty so I can sleep, sir!” Ren said, and Stella snorted a laugh.
+
+“If you can flap your gums to give me lip, you can move your feet while you do it!” Donald said. “Give me 10 paces forward and back!”
+
+“Sir!” Ren clenched his butt like Donald had shown him and took 10 strides forward, turned around in a very good imitation of an about-face, then took 10 strides back. When Ren faced Donald again, he saw a hint of a smile on the older man's face.
+
+“I think you and I are going to get along just fine.” Donald said.
+
+Ren finished the odd workout 20 minutes later, and was only breathing hard instead of being exhausted like he usually was after a workout. He sat down in the wheelchair and thanked Donald for his help, then Stella took Ren back upstairs to his room. Elise had just gotten out of the shower, so Stella helped Ren get one himself. He was a bit too tired to enjoy it like he wanted to, and he told Stella that.
+
+“Ren, we don't have to play with each other every time we get in the shower together.” Stella said.
+
+“But, I want to.” Ren said, and she chuckled.
+
+“You have access to how many women now?” Stella asked, and Ren stood up and cupped the sides of her face.
+
+“I could have a hundred women and it wouldn't matter.” Ren said. “I'd still want to play with you in the shower.”
+
+Stella looked at him with an odd expression on her face. “I'm not sure how I should take that statement.”
+
+Ren closed his eyes and very carefully traced his hands down her neck and over her shoulders, and down to her hands, then moved to her hips and ran his hands up the sides of her body and cupped her breasts.
+
+“I love you.” Ren said and opened his eyes to look into hers as his thumbs flicked over the tips of her breasts. “I can't give you all the time that you deserve for being so good to me.” He said and stepped back to show her how excited he was. “I'll always desire you... and as you can see, I've gotten quite excited just from caressing you.”
+
+“Ren...”
+
+Ren moved his hands up to her face. “I always want you to be happy, too.” He said, then sighed. “Damn, I've gotten used to walking on air in the game.” He said and let her face go to move the stool closer, then climbed it to get his face close to hers and cupped her face again.
+
+“I swore to Nathalia that I would never look for another wife, because once the marriage contract with her fell through, I didn't want to think about the pressure I had to go through because of it.” Ren said and gave Stella a feather-light kiss and let her face go. “I just want you to know that I don't need a stupid piece of paper to tell me who matters in my life.”
+
+“Ren... are you...” Stella tried to speak as her face went red.
+
+“No, I'm not asking you that.” Ren said. “I'm keeping my word this time.”
+
+“But...”
+
+“I'll have to say no if you ask, so don't.” Ren said and put his arms around her. He put his mouth by her ear as he pressed himself against her stomach. “Sweetheart, it's starting to hurt.” He whispered. “Can you help me?”
+
+“A-always.” Stella whispered back, then helped him and helped herself.
+
+They left the shower 20 minutes later after they cleaned up and dried off, and came out of the bathroom. Ren climbed into bed as Elise put on a suit jacket to finish getting dressed.
+
+“Did Barbi show up yet?” Elise asked Stella, who nodded.
+
+“An hour ago, and she brought some things with her.” Stella said.
+
+“Good.” Elise said and looked at her watch. “The equipment delivery should be here just after noon.”
+
+“Right after the game night starts.” Ren said and picked up the VR headset. “I'll see you both at supper.” He said and put the headset on. “I hope I'm not too late.”
+
+“You said they were relaxing for the whole weekend, so you've only missed one day.” Elise said. “You've got the whole game week to go yet.”
+
+“I don't know if I can relax for a whole week.” Ren laughed. “I have a hard time just getting a few hours to do that!”
+
+“At least try, darling.” Elise said and bent over to kiss him on the lips. “Have fun.”
+
+“Thanks.” Ren said.
+
+“Flow Login Start.”
+
+********
+
+Ren appeared in the white loading area of the game for some reason. “Huh? What's going on?”
+
+System Notice!
+
+The new World Event 'Ghoulpocalypse' now permeates the game environment.
+
+Quests and tasks are optional, as they always are, and can be found at regular intervals from normal quest givers or randomly while out in the wilderness zones.
+
+Can you make a difference? Can you stand by and let the world be overrun by the undead ghoul hordes?
+
+“Ha.” Ren smiled. “That notification is way too late to matter to me now.” He said. “I'm a little surprised I had to die to get it, though.”
+
+System Notice!
+
+Congratulations! Your character level is high enough that new options are now available to you.
+
+Dual Class Upgrade: You will stop gaining levels in your current class, and can choose a complimentary class and will gain skills and levels at half the normal rate, and still be able to use your old skills.
+
+New Class Upgrade: You can give up your current class (and all related skills) completely and start another class entirely. You will gain XP and Skill bonus percentages based on your old level. Current Bonuses: +48%
+
+New Species: Because of the current addition of two new Starter Cities, if you choose an upgrade, you can also choose the option to change species.
+
+Giant: Grants bonuses to Strength, Toughness, Endurance, Spell Resistance, Race-specific Skills
+
+High Elf: Grants bonuses to Dexterity, Agility, Vitality, Inherent Spell Casting (limited class spells, unless magic user is chosen), Race-specific Skills
+
+“No way!” Ren nearly yelled. “Having them be starter cities caused this option to become available?” He read the popup again. “Wow!”
+
+System Notice!
+
+Do you wish to change or alter your class and / or race?
+
+Yes / No / Ask Me Later
+
+“Ask me later.” Ren said. “I'm not done of my Artificer class yet.”
+
+The popups disappeared and the upstairs of the Main House faded into existence around him. He had appeared on the spawn point in the middle of the meeting room, and he knew the next few minutes were going to be emotional.
+
+Notice!
+
+Your willingness to go above and beyond all other actions, and to sacrifice yourself to keep the integrity of the world intact, has earned you a new title: Vasalor's Chosen.
+
+It didn't tell me what the title gives me. Ren thought, and was about to ask about that when he heard a shout.
+
+“REN!” Teepo yelled and flew out of the apartment to land on his shoulder.
+
+Hey, buddy. Ren thought, then felt his connections with Xuunah, Nathalia, and all 5 of the maids. He looked down at his hands where the Lightning being had tried to convert him just before he died, and saw that the armored fingers on his gauntlets were still peeled back. He took off the gauntlets and repaired them in an instant, then put them back on and stored his armor as he equipped his Travelling Clothes. He activated his Auras, except for Fear, Hatred, Spider, and Heat Sense, then walked over to his apartment door.
+
+“They've all been waiting for you.” Teepo said.
+
+I know. Ren thought and smiled, then opened the door.

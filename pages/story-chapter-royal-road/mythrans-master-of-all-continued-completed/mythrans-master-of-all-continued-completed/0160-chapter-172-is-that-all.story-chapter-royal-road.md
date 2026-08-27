@@ -1,0 +1,349 @@
+---
+id: 95ff391c-f897-5ab3-a92b-9b0a87b99b68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 172 - Is That All?"
+slug: 0160-chapter-172-is-that-all
+partOf: mythrans-master-of-all-continued-completed
+position: 160
+ownLength: 3583
+unit: words
+publishedAt: 2017-02-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119096/chapter-172-is-that-all"
+royalRoadId: "119096"
+---
+
+“Three years in the mines? Okay.” Ren asked. “Thank you.” He said. “I'm glad you didn't specify which mines, so I'll sign a contract with myself for indentured servitude in my own mines.”
+
+Gasps were heard from both inside and outside of the chamber, and Lord Lodur's mouth dropped open.
+
+“That's right.” Ren said. “I started up my own set of mines, where people can work to get paid a decent wage, work decent hours, and will eat decent food.”
+
+Lord Lodur scowled at Ren.
+
+“Yes, I tried to get your mines changed, to help the people that worked there. It was great for a while, until you found out the ideas were mine. You not only changed everything back to the way things were, but you got rid of the best mine foreman you ever had.” Ren shook his head. “I was even getting rid of the mountain-sized pile of silt you have there, for free.”
+
+Several more gasps were heard, but Ren thought he heard a few voices saying it was true, and they were paid more money than they'd ever had before.
+
+“I'm sorry, I'm rambling a bit.” Ren said. “To make a long story short, I accept your sentence.” He looked out through the open wall. “And I hope to see a lot of new workers there.”
+
+“Hold on.” Thanyur Faldihr said to Lord Lodur. “You can't just let him do that!”
+
+Lord Lodur opened his mouth to speak, but another voice cut him off.
+
+“Ren is right.” Fritz said. “The sentence was 3 years in the mines. Not House Lodur's mines.”
+
+“That's right!” “Yes!” “You tell them, Your Eminence!”
+
+Fritz stood and looked into the crowd to see who had said that; but couldn't find them, and sat back down.
+
+“Three years is not a just sentence, however.” Fritz said. “Taking into account your service to the Crown...” He looked at the young Alchemist who was still standing. “...and for making it possible for a valuable member of the court to be restored to his youth...” He said. “...I will reduce the sentence to 3 months.”
+
+“NO!” Lord Lodur shouted. “You can't do THAT!”
+
+Fritz looked at his old trusted friend. “I really have been lax in my duties, if you can shout like that in my ear.”
+
+Lord Lodur had a surprised look on his face for a moment, then clamped his mouth shut. Fritz turned to look at the criminals.
+
+“Now that that unpleasantness is out of the way.” Fritz said. “For murdering, or aiding in the murder, of the next ruling member of the Royal Family, you are hereby sentenced to death by hanging.”
+
+The guard went along and tied a noose around each of the men's necks, then nodded slightly back at Fritz.
+
+“As is your right, is there any last words you would like to say before the sentence is carried out?” Dural asked.
+
+“It was all Lord Lodur's idea.” One of them said.
+
+“We were only supposed to kill Ren.” Another said.
+
+“I didn't do it, I tell you!” Jogloch shouted, and nearly everyone winced.
+
+None of the others said anything, and Fritz nodded to the hangman, who pulled a lever and the floor of the gallows opened up. The men dropped several feet, and hung by their necks. It took a long time for the men to stop moving and twitching, so their Health bars must have been pretty big. A few minutes after the last one stopped twitching, the hangman looted them and handed the contents to a man in the front row. He had tears in his eyes, and nodded slightly to the hangman.
+
+“Justice has been served.” Dural said. “Long Live The King.”
+
+“Long Live The King.” The audience said automatically, and Ren felt it wasn't a sentiment that they believed in the least. The noise and chatter of the people picked up, both inside and outside the chamber. Ren looked around and it seemed that everyone was getting ready to leave.
+
+“One more thing.” Fritz said into the chamber, and everyone stopped moving as things became quiet again. “Unfortunately, because of certain events that have happened...” He looked at Ren. “...or that came about because of your presence here...” Fritz said. “When your 3 month sentence is up, you will have one month to finish your tasks, gather your things, and be gone from this land.” He took a deep breath. “At that point, I will rescind your invitation to be here.”
+
+“NO!” Narhilda and Nathalia said at the same time. Several people in the chamber, and a lot more in the crowd, were upset by these words. Ren took Nathalia's hand again, and put his other hand on Narhilda's shoulder, then squeezed them both slightly.
+
+“I am the ruling monarch!” Fritz nearly yelled. “If Ren hadn't been here, none of this would have happened!”
+
+Everyone fell quiet.
+
+“That's right.” Fritz said. “His stumbling around blindly in our society has cost this land it's next ruler.”
+
+“I object to that statement!” Narhilda exclaimed, infuriated at Fritz. “It's you that's cost us our next ruler!” She clamped a hand over her mouth and stopped speaking, but it was too late. People from both inside the chamber and out in the general populace starting asking questions about what she meant.
+
+“I... I didn't mean to...” Narhilda whispered.
+
+“You might as well tell them now.” Fritz said.
+
+“Our King...” Narhilda sighed. “...cannot have children.”
+
+After a brief moment of silence, an uproar began. Several Council members smirked at the implications, and others had shocked looks on their faces, just like the rest of the people in the Council chamber. Guards shouted for quiet, but it wasn't helping.
+
+“How can we be quiet?” “He's doomed us!” “What will we do without an heir to the throne?”
+
+“You'll do the smart thing.” Ren said. “Begin a search. Trace the Royal Family back a few of generations. Look at brothers and sisters, nieces and nephews, and even distant cousins if necessary.”
+
+Everyone looked at him.
+
+“Isn't that obvious?” Ren asked. “The King is unfit to rule, so a replacement must be found.”
+
+Gasps and murmurs permeated the crowd.
+
+“If the King can't provide an heir, then someone must be found to do so.” Ren looked around. “Until then, you have someone who can shepard the throne right here.”
+
+Everyone stared at him in shock as he asked Narhilda to stand.
+
+“W-w-what?!?” Narhilda stared at Ren as well.
+
+“You were the Queen. Then the Queen Mother.” Ren said. “Do you see anyone else that fits the definition of a monarch here?”
+
+“But... but...”
+
+“Would you rather Fritz stay in power, and abandon the people again?” Ren whispered to her, and she sighed. She took several deep breaths, then stood up.
+
+“Very well.” Narhilda said. “I will resume the throne from my barren son, until a suitable heir can be found or made.”
+
+“You... you... you can't do that!” Lord Lodur exclaimed. “The Council will decide who the next heir will be!”
+
+“EXCUSE ME?” Narhilda hollered in her best indignant royalty voice. “I believe the Royal Family will decide who will be the Royal Heir. The Council does NOT have that ability, you spineless worm!”
+
+Lord Lodur sputtered in shock. “N-n-now s-see here, you strumpet!” He said, and everyone gasped. Fritz stood up and grabbed Lord Lodur by the back of the neck.
+
+“That is enough!” Fritz said. “Calling any woman that in public is both shameful and disrespectful.” Fritz lifted Lord Lodur up, forcing him to stand. “But that woman is my mother!”
+
+Lord Lodur looked at Fritz, then back at Lady Neram. “My... my apologies.”
+
+“I'd challenge him over this, but he can just call his Champion.” Ren said.
+
+“That won't be necessary.” Fritz said, and looked at the guard beside the back door to the chamber. “Bring in the Scroll Mage.”
+
+The guard opened the door and called the Scroll Mage. She came into the chamber and stood in the middle of the floor.
+
+“Let's have Lord Lodur's trial right now.” Fritz said, and everyone fell silent. Ren on the other hand, had a huge grin on his face and chuckled slightly.
+
+“Madam Mage.” Fritz said. “Who ordered the attack on Ren, of House Neram?”
+
+“Lord Lodur.”
+
+“Why did he do that?”
+
+“He's a vindictive bastard and wanted Ren dead, because he couldn't stand that Ren had undermined his plans, and had revealed some of how twisted and corrupted the Council has become.”
+
+“What else was there?”
+
+“Thanyur Faldihr tried to take over House Neram to destroy your mother.”
+
+“Wh-what?” Fritz sputtered.
+
+“They have been wearing away House Neram's Honor and Influence since Thern Neram's death over 12 years ago. They almost had it to the point where just a simple signature by Lady Neram would have given them everything.”
+
+Everyone stared at the Scroll Mage as she continued.
+
+“If it wasn't for Ren's timely and fortunate intervention, your mother would be Thanyur's personal indentured servant right now.”
+
+“What... what does that mean?” Fritz asked her.
+
+“It means they knew who she was, and would have taken the remainder of the Royal Family as personal servants and hostages, ensuring the Council's rule and the destruction of the monarchy.”
+
+“I really have been a fool all these years, haven't I?” Fritz asked her.
+
+“Yes, Your Eminence.” The Scroll Mage said. “The Council has groomed you to ignore their plots since you were a child.”
+
+Gasps spread around the chamber, and Fritz sighed.
+
+“Then I really am unfit to rule.” He looked at his mother. “I appoint you Steward of the Throne, and may the gods have mercy on you.”
+
+Narhilda nodded, and Fritz looked at Lord Lodur.
+
+“For your hiring of an assassination squad, and attempted murder of a noble, then contributing to the murder of a member of the Royal Family, I sentence you to hang until you are dead.”
+
+“You can't do this!” Lord Lodur said. “This wasn't a trial! It was a farce!” He started to struggle, but Fritz had a good hold on his neck. “I call challenge! I call CHALLENGE!”
+
+“I'm sorry, but that won't work this time.” Fritz said as he walked Lord Lodur over to the gallows. “Criminals would get off with little to no sentences, by having a big and powerful Champion fight for them.”
+
+“But... but it's the LAW!”
+
+“No, it's a Council edict.” Fritz said, and nodded slightly to the guard who reset the platform and then tied a noose around Lord Lodur's neck. “I don't remember signing anything like that into law.”
+
+“Please... Fritz... you can't do this...” Lord Lodur pleaded. “I helped raise you.”
+
+Fritz stepped back and looked at the man he'd known for nearly all of his 45 years of life. “According to my mother, that was the problem.” He walked away and back to the Council bench, then sat down. “As my final act as ruler, I declare that the sentence be carried out, and the loot to be given to the intended victim; Ren of House Neram.”
+
+Fritz picked up the hammer and slammed it into the desk, shattering the wood. The guard pulled the lever, and Lord Lodur hung until he was dead. The guard picked up a large sack, looted the body, and put the items inside. He carried it across the chamber floor and up to where Ren stood, handed it to him, then returned to his position by the gallows. No one spoke the entire time, and Ren stored the sack without looking in it.
+
+“I... I believe that concludes... the events for today.” Dural said. “Long Li... ah...” His face flushed a little red. “Good day, everyone.”
+
+The crowd started to disperse immediately, with loud conversation permeating the air, and the Council chamber filled with voices as well. There was some dissent to what had happened, mostly from Lord Lodur's family; but, the majority of the people gathered thought it was a just punishment, and about time. Ren agreed with the majority, wholeheartedly.
+
+Lady Neram stood up to greet the members of the Major and Minor Houses that came over to talk to her, and Ren and Nathalia stood there and waited.
+
+“Ren, you have to go.” Teepo said, half an hour later.
+
+Thanks for reminding me, Teepo. Ren thought and leaned close to whisper in Narhilda's ear. She nodded slightly and bid everyone a farewell. She led Ren, Nathalia, the two dogs, and 4 guards out of the Council chamber and back through the passage to the castle. After the long return trip to the royal apartments, Narhilda ordered the guards to stand outside and shut the door on them.
+
+“By the gods, why did you do that?!?” Narhilda asked Ren.
+
+“Do what?”
+
+“I'm the Steward of the Throne!”
+
+“Yeah. And?”
+
+“I can't leave the castle now!” Narhilda exclaimed, then Ren took her into a hug.
+
+“You weren't going to be allowed to leave the castle anyways.” He said, and she opened her mouth to protest, then closed it. “Did you really think they'd let you go, after finding you after all these years?”
+
+Narhilda pulled out of the hug and started to pace. “Ren, you don't understand.” She said, and walked faster. “Now I'll have to rule the Kingdom. The KINGDOM!”
+
+Ren chuckled. “You've done it before.”
+
+“No, I haven't!” She nearly yelled, then sighed. “My father ruled, then Fritz' father ruled when we were married. When he passed away, Fritz took the crown. I was only the Queen.”
+
+“Narhilda.” Ren said, and took her arm to stop her from pacing. “You've never been an 'only' anything.”
+
+She sighed. “I... yes, I know.”
+
+“You have an Advisor already, that you know and trust. You'll have a new Council, hopefully, within the next month and a half.” Ren said. “You've got this.”
+
+“Oh, Ren!” Narhilda said, and hugged him tightly. “What am I going to do about you?”
+
+“I wouldn't worry about that.” He said. “I won't ruin your image for long. I'll be gone in 4 months, remember?”
+
+“Ruin my image!” She said, then started to cry. “Ren, you'll be GONE in 4 months! I won't get to see you again!”
+
+Ren held her close. “I'm really sorry about that.” He said. “But you're not going to be seeing a whole lot of me anyways. You need to run an entire Kingdom, and there's not going to be a lot of room for me while you do that.”
+
+“I... I...” Narhilda couldn't say anything else, and she ducked her head down and kept sobbing. After a few minutes, she calmed down and composed herself as she let him out of the hug. “Thank you.”
+
+“You're welcome.” Ren smiled at her. “How often does a man have a beautiful woman cry over him?”
+
+“At... at least twice.” Nathalia said and started to cry, and Ren took her into a hug. He kissed her tears, then kissed her lips. “By the gods, I love you so much!”
+
+“I love you, too.” Ren said, and stroked her face. “My own personal goddess.”
+
+Nathalia snorted a laugh through her tears and ducked her head down and sobbed onto his chest, just as Narhilda had done. After another few minutes, she finished and let him out of the hug.
+
+“I'm going to be gone for a while.” Ren said. “Possibly a few days.”
+
+Both women nodded, and Ren knelt to face the two dogs.
+
+“Stay with Narhilda. Guard and Protect Narhilda and Nathalia.”
+
+They gave soft barks, and Ren pat them on their heads.
+
+“I'll be back as soon as I can.”
+
+“I can't promise we'll be here when you get back.” Nathalia said. “Things are going to be hectic here for a while.”
+
+Ren nodded slightly, and took out two steel squares. He enchanted them with glyphs of the Sending Rune, and gave one to each of them.
+
+“So you can contact each other when you need to.”
+
+“Oh, Ren.” Narhilda said, and hugged him.
+
+“You're always thinking of others before yourself.” Nathalia said as she hugged him, too.
+
+“Not this time.” Ren chuckled. “If I keep you both happy, then I'm happy.”
+
+Nathalia kissed him, then Narhilda kissed him.
+
+“I'll see you soon.” He let them go, walked over to the couch, and sat down. Bye, Teepo.
+
+“Bye, Ren. I'll give you a full report when you get back.” Teepo said.
+
+I'd expect nothing less from my best scout. Ren thought in amusement.
+
+“We've had this conversation before.” Teepo said, and chittered in laughter. “I'm your only scout.”
+
+That's what I said. The best. Ren thought. “Logout.”
+
+********
+
+Ren started to slip off the VR headset and Stella helped him.
+
+“Boy, you've got a good harem going.” She said and grinned.
+
+“Hey, I've only slept with a few women.” Ren said, reluctant to say exactly how many, without giving away the existence of Fire Dancer.
+
+“I'm not counting only the women you've slept with.”
+
+“Oh.”
+
+Stella chuckled. “Barbara was right, you're becoming quite the little Casanova.”
+
+“She said that?!?” Ren asked, surprised.
+
+“Yeah.” Stella said. “Right after she told me about you kissing a teenage girl in front of her boyfriend, and making her boss... what was it she said? Oh, right. Have an embarrassing public reaction to your seduction.”
+
+Ren blushed at that description, and Stella laughed.
+
+“You've got to be more careful about things like that.”
+
+Ren looked at her. “To be fair, Jhulune kissed me in front of her boyfriend, or at least someone she's dating... and the boss accused me of trying to seduce her, and I had to prove that if I actually tried, she would know it.”
+
+“Ha!” Stella barked a laugh. “I'm glad that it worked for you.” She said. “If you'd tried and failed miserably...” She shook her head. “It's better to not think about that result.”
+
+Ren smiled. “Did Barbara happen to mention the cook?”
+
+“The cook?” Stella asked. “No, she didn't. When did that happen?”
+
+Ren told her when and she went to the chart on the wall. She flipped the page and saw what had happened.
+
+“Barbara was on a bathroom break.” Stella said. “I think she would have been angry if she saw you sleeping with someone else.” She grinned. “Besides the women you're already sleeping with, that is.”
+
+“I hope not.” Ren chuckled. “The cook was something else.”
+
+“Ooo, tell me.” Stella got a gleam in her eyes, and Ren grinned as he relayed the details. “She has Iron Grip, too?”
+
+Ren nodded.
+
+“Then yeah; she must have to be really careful.”
+
+“I completely understood her perspective, too.” Ren said, and motioned to himself.
+
+“So do I, little stud.” Stella smiled. “So do I.”
+
+There was a knock on the room's door, and Stella and Ren looked at the door as it opened.
+
+“Hi, Ren! Hi, Stella!” Elise Stanford, the secretary from Sid Tec, said as she walked into the room wearing a blue-colored business suit coat, black skirt, and white blouse.
+
+“Elise!” Stella said, surprised. “What are you doing here?”
+
+“It's nice to see you, too.” Elise said and laughed. “I brought over the check from the television studio.” She said, then put her briefcase on the dresser by the wall. “I was going to send a delivery man at first; but since I had to come over for a minor server update anyways, I brought it myself.”
+
+Elise opened her briefcase and took out a thumb drive. She plugged it into the micro-server and went back to the briefcase.
+
+“Here it is.” She said, and took out a thick envelope to hand to Ren.
+
+“Why is it so big?” Ren asked as he took it.
+
+“Open it and find out.” Elise said and grinned.
+
+He opened it and slid out 2 smaller envelopes, and he could clearly see that they were both checks. He pushed them aside and slid out several papers that were stapled together. He read some of it, then started to have a panic attack. Stella went into action and removed the cause, laid him back on the bed and stared at Ren's eyes.
+
+“Ren! I'm right here. Look into my eyes.” Stella said. “Focus on them. That's it. Breathe. In. Out. In. Out.” She said. “Use your relaxation technique.”
+
+Ren started to calm down, and took Stella's hand. His breathing evened out to a steady rhythm, and he smiled as he squeezed her hand.
+
+“Thanks, Stella.”
+
+“What... what happened?” Elise said, shocked.
+
+“Ren was having a panic attack.” Stella said.
+
+“Oh, god. I'm so sorry.”
+
+“What was in that letter?” Stella asked, and Ren responded.
+
+“It's a contract for the first season of a television series.” He said.
+
+“I got it late last night.” Elise said. “The producers at the television station showed the preliminary footage to their staff, and they loved it. They told me that they didn't want to wait for the pilot to air to buy it, in case another station tried to buy it out from under them.”
+
+“Oh, my god.” Stella said, then looked at Ren. “A pilot is one thing.” She said. “That can flop or not, and sometimes no one will even see it.” She held his hand and sighed. “A whole season?” Stella shook her head. “They are going to promote it as much as they can to get the views to justify the expense.”
+
+“You... you mean?” Ren asked.
+
+“Yes, Ren. Everyone will know who you are.” Stella said. “The hospital's very own television star.”

@@ -1,0 +1,473 @@
+---
+id: 08f50ec6-f130-59ec-b7da-a1ed8db4e044
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135 - A Farmer Visits"
+slug: 0120-chapter-135-a-farmer-visits
+partOf: mythrans-master-of-all-continued-completed
+position: 120
+ownLength: 4368
+unit: words
+publishedAt: 2017-01-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110840/chapter-135-a-farmer-visits"
+royalRoadId: "110840"
+---
+
+Ren woke up in the comfy bed and looked over at Elerlyth's phantom form. “Okay, I've got 2 days to get back here. If I allow for the 5 hours travel time each way, and almost 2 hours I'll be logged out for lunch, that's 12 hours out of 48.” He got out of bed and equipped his clothing. “I'll have 36 hours to work on things I have to do, assuming I don't sleep for some of that.” He walked into the living room and into the cabinet. He nailed it shut and stepped through the portal. He nailed that cabinet shut and ran downstairs.
+
+Summon Teepo! Ren thought and Teepo appeared at his feet. “How are you feeling, buddy?” He asked his friend.
+
+“I... I...” Teepo stammered. “I'm fine, now.”
+
+Ren chuckled. “I think you enjoyed going that fast a little too much, huh?”
+
+“I didn't know anything could go that fast!” Teepo chittered in delight.
+
+“Hi, Princess. Feeling better?” Ren asked.
+
+She huffed and nodded. He put some food in her bowl and she gobbled it up. He gave her some more and Ren ate some himself. He knocked on Ruck's little cabinet that was attached to Princess' crate.
+
+“I'm heading out.” Ren said, and Ruck came out and climbed onto his back. Ren closed the cabinet and Princess got out of the crate. Ren stored it and put the saddle and harness on her, but didn't tighten them. He led her outside and locked the door of the warehouse. They went to the road, and once on the flat surface, he could see that Princess was raring to go. Her breath was pumping through her nose faster than normal, and she was pawing her hooves.
+
+“Okay, but only 2 miles!” Ren said and smiled. “You can go 2 that way...” He said and pointed towards the city. “...then 2 this way.” He said and pointed towards the convent. “I'll be running myself, so you'll have lots of time to run.”
+
+Princess huffed and nodded several times.
+
+“Teepo? I assume you want a ringside seat.”
+
+“I sure do!” Teepo said and hopped out of the hood and onto the saddle.
+
+“Be careful.” Ren said to Princess and scratched her chin. “There might be carts traveling from the convent.”
+
+Princess nodded again and Ren tied the reins to the saddle.
+
+“Oka-”
+
+She took off like a shot and Ren laughed as Teepo yelled.
+
+“WHHHEEEEE!!!”
+
+Ren had guessed right that she wouldn't be anywhere near as fast without the giant strength, but it was still a significant velocity. Ren started to run himself and Princess passed him several times over the next few minutes. He waved her down on the sixth pass and she slowed down to trot beside him.
+
+“Time for a break.” Ren said, and fed her some food as he ran. She ate it eagerly as her Stamina bar refilled. “You don't have to run full out every time.” He tried to explain, but Princess huffed and he gave up. “Okay, but I won't wait for you if you get too tired to keep going.”
+
+Princess nodded and took off again, and they repeated this process over and over again until Ren was about an hour outside the city. He took out his land deeds and the attached maps to see if he was still on the land he owned. He went to the side of the road and dug out a good sized lot, laid down paving stones, and built an 8 foot high, 10 foot by 10 foot single storey building/room with Ruck's help. It didn't take long, and Ren got the popup for a new dwelling that fulfilled his Land Owner duties. He didn't know who to assign as the occupant, so he left it blank for now. He took out some stones and enchanted them with Warding runes for a chance of concealment, then continued to run back to Dornrach's city limits. Even though it was light out, Ren had to take Princess' reins and hold onto her so she wouldn't run anyone over. They made it back to House Neram in just over 5 hours.
+
+“Hi, Wohrum.” Ren said as he passed through the gaping hole that used to be the gate. The guard nodded slightly, and Ren led Princess to the stable as Teepo jumped onto his arm and crawled up it and into the hood. There was still about 5 hours left before nighttime, so Ren took out Princess' crate and put it back where it used to be. He took off her saddle and harness and handed them to Ruck, who stored them and climbed off Ren's back to open the big cabinet by the wall.
+
+“Thanks, both of you.” Ren said. “You did great.”
+
+Ruck waved, and Princess huffed. Ren turned to her and straightened the fur that was ruffled from her running so fast.
+
+“You can't go running without me around.” He said and she looked at him. “Now that you've got a taste for it, I know you really want to.” Ren chuckled. “I'll make you a nice track out back. With obstacles and everything.”
+
+Princess bleated her dismay, and Ren grinned.
+
+“Yes, you can go through them if you want.” He pat her neck and she huffed. Ren took out her bowl and gave her more food, then left the stable and went to where Wohrum stood. “Sorry you had to stand guard.”
+
+Wohrum shrugged. “Without the gate to lock, someone has to be on watch constantly.”
+
+“I should have told Nathalia to raise the drawbridge.” Ren said and smiled.
+
+“You mean it works?” Wohrum asked, surprised.
+
+Ren nodded slightly. “I fixed it a couple of days ago when I was up early.” He said. “I'm glad you're here now, though.”
+
+“Why's that?”
+
+“Now I can repair the gate and not worry about anyone coming by while I'm smelting in the workshop.”
+
+“Of course, sir.” Wohrun said and stood at attention.
+
+Ren frowned and looked at the side of the road. Even with the 8 foot moat, there's still about 5 feet of space. He thought, and smiled. “Would you like to have somewhere to sit instead of standing here all the time?”
+
+“I don't know, sir.” Wohrum said. “Standing at attention is the best way to beat the tedium.”
+
+“I do remember the guard at the Brig mentioning that a comfortable soldier is a lazy soldier.”
+
+“Exactly, sir.” Wohrum said. “If I'm comfortable, I'll fall asleep faster than your mount nearly ran over Golir.”
+
+Ren's eyes widened. “Is he okay? I didn't think he was standing close enough to the gate to be hurt.”
+
+“He's fine.” Wohrum said. “He jumped out of the way, and landed in the ditch.”
+
+“I honestly didn't see him.” Ren said. “Tell him I'm sorry, if you see him before I do.”
+
+“Of course, sir.”
+
+Ren looked around. “Who cleaned up the pieces?”
+
+“Lady Neram's daughter, sir.”
+
+I'll have to thank her properly. Ren thought, went into the house, and stopped just inside the front door. “Nathalia? Narhilda?”
+
+“REN!” He heard from two similar voices. Nathalia and her mother came out of the kitchen, and Ren stepped into the main room to meet them. He took them both into a hug at the same time, and they hugged him back.
+
+“How did it go?” Nathalia asked.
+
+“I made it in time.” Ren said. “It was close, though. She was pretty bad.”
+
+“I'm sorry to hear that.”
+
+“I have to meet her again tomorrow night to feed her properly.” Ren said and let the two women go. “I was only there an hour before we had to deal with Adventurer's business.”
+
+“Was that enough until tomorrow night?” Nathalia asked, concerned.
+
+“She'll be gone until then, so it should be fine.” Ren said. “I'll leave a little early myself so I can be there on time.”
+
+“You're so good to do all of this for her.” Narhilda said. “All this trouble...”
+
+Ren chuckled. “I've had trouble before. This isn't it.”
+
+“Supper will be ready in a couple of hours.” She said and smiled.
+
+“Thank you.” Ren said and kissed her on the cheek, then turned to Nathalia. “Thank you for cleaning up what was left of the gate.”
+
+“I can't believe you did that!” Nathalia laughed. “I tried to tell Ma about it; but she didn't believe me until I showed her where the sound had come from.”
+
+“You really rammed the gate with a ram!” Narhilda said and shook her head.
+
+“I was going to replace it anyways.” Ren laughed and took Nathalia's hand. “I'm going to the workshop to make the new one.”
+
+Narhilda nodded and turned around to go back into the kitchen. “See you when you're done.”
+
+Ren pulled Nathalia close, and stared at her. “I love you.”
+
+“I love you, too.” She said and they kissed passionately. After several minutes, Nathalia broke the kiss and smiled. “You'll never get the gate built if you keep this going.”
+
+Ren smiled, too. “I thought it was more important to kiss you first.”
+
+“You've done that.” Nathalia said and laughed. “Get going!”
+
+“Yes, My Lady.” Ren said, kissed her again, and left the house. He walked by Wohrum and spoke. “I'll be back in about an hour with the new gate.”
+
+“I'll be here, sir.” Wohrum said.
+
+Ren ran up to the workshop and stopped just outside. He looked at the piles of wood, brick and paving stones he had, and frowned. Teepo, those piles look like they are the same size, and it's been 2 days.
+
+Teepo looked at them. “Yes, there's nothing new since you took some of them.”
+
+I'll have to make the rounds and see what's up. Ren thought. I'm pretty sure I know what it is, though.
+
+Ren looked around, and noticed that there was only 6 people shoveling silt. He went inside the workshop and saw no one was there. He sighed and started the forge, then tossed in some ore. While he smelted metal until it was nearly to the top, he stacked up all the bags of cement powder into 5 bag square piles, 5 feet high. He was running out of room for them, but that was okay; several hundred bags would be used later that night. Ren stirred the molten metal quickly, and decided that he'd need a huge mold to make the gate door. He laid out enough stone bricks to make a huge square area; and because he wanted the gate door thick, he topped off the smelter and skimmed off some of the impurities.
+
+Ren took out the several bolts of special fabric he'd bought and opened the bodysuit pattern. He removed the top part of the arms, the top part of the thighs, and the top of the chest to leave a center piece. He replaced the normal fabric with the see-through fabric, added frills along the edges of the arm and leg pieces. He added lace across the chest area and the hips, to cover over everything. Once that was done, he cut the various fabric types into pieces that he needed, and put them together to be sewed. He dyed everything red and assembled everything. He stored his creation and saved the pattern, then checked the smelter. It needed only a little more time, so he decided to check his status.
+
+“Show Status.” Ren said and looked at the popup.
+
+Status
+
+Name  Ren  Level  6
+
+Gender  Male  Class  Artificer/Noble
+
+Race  Elfling  Fame/Infamy  6750 (Renown)
+
+Dwarven Kingdom:
+
+Influence  101,570 (Prince)  Honor  7020 (Honorable)
+
+Titles
+
+Blacksmith - Grants 5 level bonus to Blacksmithing Skills
+
+Tailor - Grants 5 level bonus to Tailoring Skills
+
+Sally's Student - 20% stat gain at her shop
+
+Issac's Novice - 20% stat gain at his shop
+
+Lemming - 5% resistance to falls
+
+Son of the Pelt - 20% stat gain using craft station
+
+Honorary Dwarf - Grants Dwarf Race abilities
+
+A Fool And His Money - Automatic 5% gratuity, plus perks
+
+Ren, The First - Grants Command and Camaraderie Auras
+
+Crazy Like A Fox - Intelligence +20, Wisdom +20
+
+Atlas - Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming - Attracts attention, +5 levels to Aura (Personal)
+
+Health  806  Mana  864
+
+Strength  138  Dexterity  73
+
+Vitality  75  Agility  71
+
+Endurance  80  Intelligence  96
+
+Luck  24  Wisdom  96
+
+“Not bad. Not bad at all.” Ren said, then closed the popup. He checked his XP and saw that he was close to reaching Level 7. “I wonder if I'll get anything?” He asked himself. “It kinda sucks there's no help file or info for my special one-of-a-kind class; but, I'm not going to complain. I love it!”
+
+The metal looked like it was mixed enough to be used, so Ren poured the entire thing out into the mold on the floor. He didn't have a forge big enough to smelt it again, so he settled for just casting and hammering it once, relying heavily on the system to do the detail work, like the reinforced hinges and border. He finished it, dyed it red, and put more ore into the forge to smelt. It was filled again, and left to simmer. Ren ran down to where the gate used to be, removed the old hinges and used repair on the metal casing, then hung the new gate. Wohrum stared at the metal, and when the gate was shut, he knocked on it. The gate gave a nice even ring when struck.
+
+“Perfect.” Ren said as he opened it, and grinned.
+
+“Sir? What kind of metal is that?”
+
+“It's the same metal as your armor.” Ren said and turned to Wohrum.
+
+“I don't have any armor, sir.”
+
+“Yes, you do.” Ren said and took out one of the 6 sets of armor that he had in inventory. Wohrum stopped breathing for a moment, as Ren presented him with a set of red gleaming steel armor.
+
+“S-s-sir!” Wohrum said, saluted, and equipped the various pieces.
+
+“Only the jewel in the chest plate has Protection on it right now.” Ren said.
+
+“Did you say... jewel?” Wohrum asked, then stared at the diamond oval sticking out of the chest plate. “Is that a DIAMOND?!?”
+
+“Shhh!” Ren said, and waved him to be quiet. “People don't need to know that.”
+
+“Sorry, sir. It's just...”
+
+“It's expensive, I know.” Ren said. “So are the ones on the other 5 sets of armor.”
+
+“The other 5 sets of armor?”
+
+“One is for Golir, and I made 4 more, in case you found someone else to be guards.”
+
+“I did, sir.” Wohrum said. “2 of the people I talked to the other day showed up yesterday, and took the oath.”
+
+“That's great!” Ren said. “Are they staying in the barracks?”
+
+“Barracks?”
+
+“Oh, right. I didn't finish it.” Ren said. “Never mind. I built new barracks behind the Main House, but there's no windows in it, yet.”
+
+“I saw the building there, but I didn't know what it was.”
+
+“It's supposed to be somewhere for you to work out of.” Ren said. “I'll have it properly equipped with weapons and workout materials when I get the chance.”
+
+“That sounds great, sir.”
+
+Ren looked down at Wohrum's belt and saw he only had a short sword. “Do you want another short sword, or a longsword?”
+
+“A longsword would be great, sir.”
+
+“I'll be right back.” Ren said and went into the stable and had Ruck pass him one of the 2 longswords. He took out some bat leather and sewed up a sheath and strap for it, both for a belt and across the back. Ren went back to the gate and gave it to Wohrum.
+
+“There you go.”
+
+Wohrum stared at Ren for a moment, and then nodded.
+
+“I better get inside. There's only a few hours left before night.” Ren said.
+
+“Goodnight, sir.”
+
+“Goodnight.” Ren stepped into the courtyard. “You can head home, too. I'm pulling up the drawbridge.”
+
+“Of course, sir. Thank you.” Wohrum said, and started to walk down the road. Ren pulled up the drawbridge, secured it, then shut the gate with a clang.
+
+Is that a nice sound or what?
+
+“Yeah, good and solid.” Teepo said. “With the reinforced walls and the new gate, this place is pretty secure.”
+
+It's going to be a lot more secure before I'm done. Ren thought and entered the house. He sat at the table and enjoyed another meal, and told them about building another building on his land and completing his land owner obligations. They finished the meal and Ren heard something banging on the drawbridge.
+
+“I'll get it.” He said and went out to the gate, then tossed Teepo into the air.
+
+“Its a dwarf I've never seen before.” Teepo said.
+
+“I'm dropping the drawbridge!” Ren said. “Step away, please.” Ren waited for a moment and tossed Teepo again.
+
+“He's on the road.” Teepo said and Ren caught him.
+
+Thanks. Ren let the drawbridge down and then opened the gate, before it could be banged on.
+
+“I see I've got new overlords.” The dwarf said, angrily. “I went down to the Main Keep, stood in line for an hour, and when I finally got to the Taxes department, they told me I wasted my time.”
+
+Ren thought about who in the world it could be, and then he remembered the names Nathalia had said. “Nonyar?” He asked. “Did I say that right?”
+
+“So, you do know the names of your chattel!”
+
+Ren scowled at him, concentrated on his Command Aura, and unconsciously made a Connection to his Screaming Terror ring. “My WHAT?!?”
+
+The farmer backed away, and Ren clenched his fists.
+
+“Did you just accuse me of KEEPING SLAVES?!?”
+
+“What's all this yelling about?” Nathalia asked as she came out of the house and hit the edge of Ren's Aura. “By the gods, Ren! What are you doing?”
+
+Ren took several deep breaths and calmed down. “This... man...” He said and shook his head. “I don't want to say it again.” He pointed at the dwarf. “You can tell her what you said.”
+
+The farmer shook his head. “I won't speak like that to a woman.”
+
+Ren barked a laugh. “You have some Honor left, then.”
+
+The farmer frowned. “Are you questioning...”
+
+“QUIET!” Nathalia shouted, and both men looked at her. “Nonyar, what did you say?”
+
+Nonyar sighed. “I called him an overlord, and my family his...”
+
+“His what?” Nathalia asked.
+
+“...his chattel.”
+
+Nathalia gasped and put a hand over her heart. “Nonyar! How could you!”
+
+The farmer dropped his head.
+
+“Ren's the best thing that's ever happened to us!” She said, shocked. “To accuse him of slavery...”
+
+“I'm sorry.” Nonyar said.
+
+“Don't apologize to me.” Nathalia frowned. “Apologize to my husband!”
+
+Ren's Connection ended and the farmer relaxed.
+
+“I'm sorry, your highness.” Nonyar said, and looked at Ren, who nodded slightly.
+
+“What's this all about?” Nathalia asked. “Why are you here?”
+
+“Taxes.” Ren said. “He found out that we own his land when he went to pay the taxes today.”
+
+“Today?” Nathalia said. “They aren't due until next month.”
+
+“This is last years.” The farmer said. “It needs to be paid before the next bill is due.”
+
+He held a hand out with 6 gold coins in it.
+
+“Your farm is only 3 square miles?” Ren asked, surprised. It looked bigger than that on the map. Ren thought as the farmer nodded slightly.
+
+“There's only enough of us to work one, though.”
+
+“Why keep it then?”
+
+“What?”
+
+“Why are you paying for 3 square miles if you're only working one?”
+
+“It's prime farm land. I worked for a year and a half in the mines for it. I'm not giving it up!”
+
+“Good.” Ren said. “You can keep your money. I already paid the taxes for 5 years, anyways.”
+
+“You WHAT?!?”
+
+“I paid the taxes.” Ren looked at Nathalia. “People really don't pay anything beforehand?”
+
+“No.” She said. “We were behind a few years, too.”
+
+“What?” Ren said, surprised. “Why didn't you tell me?”
+
+“You settled all of our debts, remember?”
+
+“Oh. Right.” Ren said and looked back at the farmer. “Did you have to take out a loan for that?” He said, and motioned to the gold the farmer still held in his hand.
+
+Nonyar shook his head. “We've been scrimping and saving for months.”
+
+“Who do you sell food to?”
+
+“The mines and the Garrison, mostly.” The farmer said. “Nearly all the farms do. They both need a lot of food.”
+
+Ren nodded slightly. “There must be lots of farms on the other side of the mines.”
+
+“There are.” The farmer said. “One farm even has a big plow that's pulled by 6 ponies, and can do a whole square mile in a day.”
+
+Ren frowned. “I'll have to think about this for a while.” He said. “I'm sure I'll come up with something.”
+
+“For what?” Nonyar asked.
+
+“Your farming problem.”
+
+“But...”
+
+“Don't worry about it.” Ren said. “If I think of anything, I'll let you know.”
+
+“But...”
+
+“Have a good night.” Ren said and shut the gate with a solid clang, then pat the metal. “That is definitely a great sound.”
+
+“Ren.”
+
+“What?”
+
+“You just shut the gate in his face.”
+
+“Yeah.”
+
+“Why?”
+
+“Once I took away his reason for being here, he didn't know how to end the conversation.”
+
+Nathalia looked at him with wide eyes.
+
+“You saw how he held the gold coins in his hand. He was going to throw them at me.”
+
+She opened her mouth to say something, then she closed it. “You're right. I think he was.”
+
+Ren gasped and put a hand on his chest. “I was right! You can't take it back!” He said and grinned. “You said I was right!”
+
+“Don't get used to that feeling.” Nathalia said and laughed.
+
+“I've still got some metal in the smelter I need to pour. I'll be inside in a little while.” Ren said and kissed her.
+
+“See you soon.” Nathalia said and went into the house.
+
+Ren tossed Teepo up into the air.
+
+“All clear. The farmer's gone.”
+
+Ren caught him, went out through the gate, and shut it behind him. He ran to the workshop and for about an hour, Ren poured floor molds for swords and shields. He didn't have the time to forge them again, so he just left them piled beside the forge and turned it off. Ren went back down to the house, pulled up the drawbridge, and closed the gate to lock it. He went into the house and stopped just inside the door. The place was silent.
+
+I spent too much time working. Ren thought. If I go into the bedroom now, I'd have to wake Nathalia up just to tell her I have Adventurer's business to take care of. He stepped into the main room and stood in the corner. Here's as good a place as any.
+
+“Logout.” Ren whispered.
+
+********
+
+Ren took off his VR headset and Bonnie put it aside.
+
+“I bet you're hungry again.” She said.
+
+Ren smiled. “I could eat.”
+
+“I'll be right back.” Bonnie said and went to go get Ren's lunch.
+
+*
+
+Gloria sat in the classroom and waited for the bell to ring. Only a few more minutes! She despised this course so much that it hurt to think about it. The professor berated her constantly, gave her poor grades for no reason, and picked her to answer questions when he knew she hated it.
+
+I only need this one course credit, and I can move on to the next stage. She thought and sighed. It's too bad this asshat isn't more like Ren. He'd be able to deal with me properly! Gloria's eyes widened at that last thought; because she now remembered how Ren had dealt with her earlier that morning, and she blushed slightly.
+
+*
+
+Ren enjoyed lunch and thanked Bonnie for her hard work. She smiled and helped him put on the VR headset.
+
+“Have fun.” Bonnie said.
+
+Ren chuckled. “I'm too tired to have fun.” He said and yawned. “See you at supper.”
+
+“Flow Login Start.”
+
+********
+
+Ren crept down the hallway and into the old bedroom he normally slept in. There were two lumps under the blanket on the bed, however; and his eyes widened. Ren slipped the blanket down and saw that Nathalia, and her mother Narhilda, were sound asleep. He thought it was odd that they were in the same bed, but also on opposite sides and facing each other. Ren walked around the bed to Nathalia's side.
+
+“Nathalia.” Ren whispered, and she opened one eye to look at him. “Move over.”
+
+“Thismyside.” Nathalia whispered back half-asleep. “Climb over.”
+
+Ren sighed and stored his clothing, then equipped his armor's bodysuit because it wouldn't catch on anything. He slid in under the blanket, over Nathalia's shoulder, and settled down in the middle of the bed. It wasn't really a comfortable position, laying on his back with his arms crossed in front. He tried his best to not touch anything; but, then Nathalia tugged on his arm. Ren looked at her, and she had both eyes open and a look of longing on her face. He smiled, lifted an arm to put around her shoulders, and she snuggled in to his chest.
+
+That's a little bette- Ren's thought was interrupted when there was a tug on his other arm, and he turned to look at Narhilda. She had a similar look of longing on her face, and Ren's eyes widened for a moment; then he smiled at her, lifted his other arm to put around her shoulders, and she snuggled in to his chest, too.
+
+I guess when I was taken away like that, it was a bit hard for them to deal with.
+
+“I know I'd be devastated if you were taken away from me.” Teepo said as he skittered up the wall and onto the ceiling.
+
+I feel the same way about you, Teepo. Ren thought. No matter how many new friends I make, you'll always be my best friend.
+
+“Thanks, Ren.”
+
+Goodnight, Teepo.
+
+“Goodnight.”
+
+Ren closed his eyes and drifted off to sleep. Tomorrow was going to be a long day.

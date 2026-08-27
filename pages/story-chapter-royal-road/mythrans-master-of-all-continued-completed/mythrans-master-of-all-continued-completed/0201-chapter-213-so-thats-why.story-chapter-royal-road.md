@@ -1,0 +1,203 @@
+---
+id: 08ae28e0-cd85-5662-90ac-9b509ab68572
+page-type-slug: story-chapter-royal-road
+title: "Chapter 213 - So That's Why"
+slug: 0201-chapter-213-so-thats-why
+partOf: mythrans-master-of-all-continued-completed
+position: 201
+ownLength: 2804
+unit: words
+publishedAt: 2017-04-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127756/chapter-213-so-thats-why"
+royalRoadId: "127756"
+---
+
+Ren and Princess dealt with 4 more giants in a very similar manner, and ran to the next giant they could find. It had only gotten in through one wall, and was now trying to smash it's way through the next. Ren stopped and looked down at the giant, and sighed.
+
+It was a child.
+
+It never occurred to me that could happen. Ren thought as he pondered how to deal with the 10 foot tall child. It's hands were bloody, and possibly broken; but, it kept hitting the gate as hard as it could. Ren Left Princess and the dogs on top of the battlement walls and backtracked to the last staircase they had passed, then went down to ground level. The gates were opened for him to pass through without question this time.
+
+Maybe word has started to spread about me dealing with the giants. Ren thought.
+
+*
+
+The Commander stood there in shock as several reports came in about giants being defeated and secured. When they got to the part about Ren doing it, he sighed.
+
+“You can't tell what he's doing, can you?”
+
+“Besides using a wand that makes webs, no.”
+
+“And you're saying the giants haven't moved since?”
+
+“They haven't, sir.” One of the Warriors giving his report said. “They haven't woken up, either.”
+
+“Get a healer to one of them. See if they can help.”
+
+“A... a healer, sir?”
+
+“Yes, a healer. If we can get one of them awake, maybe we can find out what the hell is going on with them.”
+
+“I can answer that one, sir.” The previously fat dwarf said. “I recovered this next to the fallen giant Ren dealt with. I saw him squash it with a chunk of stone.” The dwarf opened a sack and the mushed remains of one of the grub-like creatures flopped out onto the ground.
+
+“What, by the gods, is that?” The Commander asked.
+
+“It came out of the giant's head, sir.” The dwarf responded. “Through it's ear.”
+
+The Commander examined it closely, and sent word for one of the people from the crafting section.
+
+“Tell them I need this checked right away.” The Commander said to one of the messengers nearby, then looked back at the group of dwarves. “Where's Ren now?”
+
+“Last I heard, he was headed out to the edge of the wall.” One of them said.
+
+“So, he's not doing them in any specific order, just the next one in line from where he started.” The Commander nodded slightly. “Normally, that's a good plan; but, we need to have this one dealt with fast.” He pointed to a map of the Garrison, and to a point nearly halfway through. “It's almost to the Barracks.”
+
+“Spread the word to the other messengers. Get them to flag Ren down if he's on the move. Tell him about this giant!”
+
+“Sir! Yes, sir!” The other messengers said and took off running.
+
+*
+
+Teepo? What should I do? Ren asked his friend, only a gate away from the child giant.
+
+“Use the web wand to secure it, then use your Fear Aura. It should work much quicker with a small child.”
+
+Ren nodded slightly, then waved to the guard on the gate controls. The gate opened, and the giant child turned to look at Ren.
+
+“Rawr!” It tried to bellow; and since it was only a child, it almost sounded cute. It raised it's bloody, and slightly mangled hands, then charged. Ren shot it's feet with the web wand, and because the spell covered a 20 foot wide area, the child was covered from head to foot with it.
+
+“NO!” Ren hollered and ran forwards. The child struggled, but it was no use. It was caught in the web mid-stride, and it's face was completely covered. Without even thinking about it, Ren took out his hammerpick and enchanted it with fire. He turned it around and carefully swiped it across the child's head. The webs burst into flames, and Ren used his Fire Manipulation ability to keep the fire from burning the child, and focused it on the webs. The child's face was cleared a few moments later, and Ren sighed in relief as he absorbed the fire, then the child took in a deep breath and tried to bellow at him again.
+
+“Rawr!”
+
+Ren laughed, because it did sound cute, then he concentrated on his Fear Aura, made the Connection between the Dire Wolf Hooded Cloak and a Screaming Terror Ring, and then a Connection between the two Screaming Terror rings. He pumped the terror through his Fear Aura, and the child's roar turned into an ear-piercing screech as the grub-like creature burrowed it's way out of the child's ear.
+
+It didn't take long for the child to become unconscious as the grub-like creature crawled out, fell to the ground, and landed on the web that encased the child. It's little legs got caught in the webbing, and it couldn't move away. Ren glanced around to see if there was anything he could use to drop on the grub-like thing, but couldn't see anything; so, he decided to use the hammerpick. He swung it gently, because he knew the things were soft and easily killed.
+
+“Ren, no!” Teepo said, and Ren stopped just before hitting it.
+
+What is it?
+
+“If you use the hammerpick, the creature will probably explode and cover everything with... ah... itself.”
+
+Got it. Ren thought about it, and looked at his boots. I don't want to use my boots, either. He looked up at the Warriors looking down at him. “Can someone come down here and use their axe to kill this thing? I'd use my weapon, but it'll make a huge mess.”
+
+“Of course, Sir! I'll be right down!” One of them said, and ran towards the closest staircase.
+
+“Bring rope!” Ren yelled, then stood there and waited.
+
+*
+
+Several messengers had been sent out in a large array, to try and catch Ren before he moved on to another giant. One of them made his way along the top of the battlement walls, and met the dwarf running the other way.
+
+*
+
+Ren turned as the gate opened again, and two dwarves came inside. One went to the grub-like creature and dispatched it quickly, then tied up the still unconscious child giant. The other came over to Ren.
+
+“Sir! There's a giant nearly at the Barracks in the center of the Garrison.”
+
+“Dammit, I was worried about that! Which way?”
+
+The messenger told Ren which way the giant was, and Ren ran back to the staircase and up to the top of the wall. Princess was already there waiting for him, and he climbed up.
+
+“Let's go!” Ren said, and Princess took off at a safe run. She couldn't go all out because of the way they had to go to get to the spot the giant was smashing things.
+
+*
+
+Alinar Keacaryn, Leader of the High Elves, was upset. “What do you mean, you 'lost it'?” He scowled at the Tracker. “I left the comfort of the Spire just to come out here to talk to you, and you have the nerve to tell me that you LOST IT!”
+
+“My sincere apologies, sire.” The Tracker said. “It's true that my jaguars will never lose the scent, but if that scent was everywhere, there's nothing they can do.”
+
+“What?!?”
+
+“We tracked it to the human city of Aurora in Aurora Principality quite easily. It was pretty much a straight line.”
+
+“Then how...”
+
+“The scent was literally everywhere, sire.”
+
+“How is that possible?”
+
+“I don't know, sire.” The Tracker said. “Whatever it was we were following, made sure to go to every building, inside and out, every hiding spot, tree, bush, shed, shack, and anywhere else they could possibly go. Even under the docks.”
+
+Alinar shook his head. “That's not possible in the time they had.” He said. “You were sent out the next day!”
+
+“I don't know what to tell you, sire.” The Tracker said. “We could only search during limited hours at night; but it has taken several weeks to search the whole city.” The tracker knelt before him. “I have failed you, and couldn't find the prey.”
+
+Alinar sighed. He was tempted to hold the Tracker responsible for the failure, but he knew it wasn't the Tracker's fault if the entire city had the prey's scent.
+
+“At least you tracked it to the city.” Alinar said, and motioned for the Tracker to stand. “Send a two-man scout party to watch the city. A dark elf will stand out, or make themselves known eventually.”
+
+“Right away, sire!” The Tracker said, and bowed deeply as he retreated backwards to relative safety several feet away, then turned and ran. Alinar turned away before the Tracker was gone from his sight, which was not his normal behavior. He had forgotten he was supposed to wait for his audience to leave before he left himself; but because he had a rogue dark elf to worry about, he conveniently forgot the niceties of his position.
+
+I will have it caught! Alinar thought as he went back into the blue and white Spire he called his home. They must be contained, or all is lost!
+
+*
+
+Ren made it to the spot that the giant had been digging to, and discovered that he had almost been in time. The giant had broken through the thick outer wall of the courtyard, that contained lush gardens and trees that all living things needed to be around. Giant footprints marred the well-tended beauty, and Ren rode Princess down the stairs and followed the trail of destruction at a moderate pace. They passed several uprooted trees, dodged overturned and uprooted boulders, then eventually found the giant. It rammed a fresh tree into the crumbling structure at the center of the courtyard, and Ren saw the remains of several statues.
+
+“Ren.” Teepo said.
+
+Yes, Teepo?
+
+“We're almost back to where we started.”
+
+What?
+
+“I know this might seem weird; but if I didn't know any better, I'd say this thing was following us.”
+
+Why do you think it's following us?
+
+“While you were unconscious, you were brought this way to pick up a healer, then brought over to where they kept you.”
+
+That is weird. Ren thought as the giant stopped it's relentless attack on the offending building. I wonder how it... oh, crap.
+
+The giant turned around and spotted Ren, let out a bellow, and charged at him.
+
+“Back to the stairs!” Ren said, and Princess turned around and ran back across the courtyard. Riley and Stacy had just arrived at the stairs themselves, and he told Princess to detour to the opening the giant had made in the wall. They went though, and turned around to wait. They didn't have to wait long, as the giant barreled through the opening only a minute later, and Ren shot the web wand at the arm that held the tree. It hit and spread out 20 feet, covered a good portion of the tree and the giant's front, including it's face. That didn't stop it, however.
+
+It swung the tree at where it thought Ren was. The swing missed because Princess had already run around behind the giant, and took Ren with her since he was still on her back. Ren shot the giant with the web wand in the back, this time hitting the ground as well, to try and keep it from moving. That didn't work, either. It used it's free hand to pull the webbing off of it's head, taking most of it's hair with it, and let out another bellow as it bled and pulled it's legs free. The giant turned around and tried to swing the tree, and Ren used several more spells to cover the tree. It was now attached to the nearby wall, and the giant couldn't pull it free. As it's hand was still webbed to the tree, he was trapped as well. Ren used his Fear Aura and Screaming Terror trick, and the giant started to freak out. Fearing the giant would somehow break free again, Ren shot the web wand at it's feet several times, securing it in place. It bellowed again, and Ren watched as both of the giant's ears started to bleed.
+
+“That's new.” Ren said out loud, as a grub-like thing popped out of the giant's ear and landed on the mass of webbing. Then another one from his other ear, and another. The giant started to calm down as more of the creatures left it's bloody ears, then seemed to pass out as his mouth opened. A large grub-like creature, twice the size of Ren's head, slid out of the open mouth. Ren guessed that it was nearly 5 feet long, as it came out of the giant and fell to the ground.
+
+“You're a big one.” Ren said, and shot it with the web wand because it's legs were long enough that it started to crawl away without getting caught in the webbing like it's much smaller fellows. Ren took out a fireball wand, and shot the webbing to set it ablaze. The fireball engulfed the webs and Ren could hear all of the little creatures screaming. The mass of webbing moved and danced as the large one tried to struggle free. Ren shot the wand again, to keep the fire going, and used his Fire Manipulation ability to keep the fire away from the giant. It didn't matter, though. The giant hadn't breathed after the large grub-like thing had left it.
+
+Ren let the fire burn, adding more webs when necessary, and absorbed some of the fire's energy as he recharged the wand. It didn't take long for the little creatures to be consumed by the fire, but the large one only struggled more as it squealed. Ren shot it once more with the web wand, then took out his hammerpick. Since the creature was under the webbing, there shouldn't be a danger of it covering everything with it's gore; so he swung the hammerpick and squished it. The creature exploded, just like Teepo had guessed it would, and gore soaked the webbing as the lump that was the creature, deflated. Ren used the web wand again, and used the fire to consume everything on the ground. When the fire was done, all that was left was the giant, partially covered in webs, and several crispy carcasses on the ground.
+
+Stat Change!
+
+Fire Manipulation Level 2 (Intermediate 0%)
+
+I didn't think I had used that ability enough to level it again. Ren thought.
+
+“Maybe it scales with the size of the fire.” Teepo said. “You leveled it a lot that night of the fire in Aurora.”
+
+That's true.
+
+A minute later, the web holding the giant upright dissolved, and the body fell backwards. Ren walked over to the large grub-like creature's remains, and looted it.
+
+Congratulations!
+
+You have killed a creature that has never been seen before: The Brain Arthropod Grub! It gestates for years in the host body, before laying it's eggs and sending it's progeny out into the world to invade other hosts, to make a home suitable for itself to live in.
+
+Rewards: 8,365 XP
+
+First Time Bonus: +5,000 XP; +1,000 Fame
+
+Loot: 30 grub legs (full size), 2 mandibles (venom covered), 2 venom glands (numbness), 1 platinum coin.
+
+Notice!
+
+Extra Fame converted to XP.
+
+1,000 Fame x 10 XP = 10,000 XP
+
+Notice!
+
+Special Loot found! 1 vial of Brain Arthropod Pheromones.
+
+The Brain Arthropod Grub (in any form) emits pheromones through it's exposed skin, and other grubs are attracted to it's presence. The contents of this vial, that can only be obtained from a fully-grown Brain Arthropod Grub, is guaranteed to attract the others of it's like, even more so than it's exposed body does.
+
+“Oh, crap!” Ren said after reading the special loot popup. He looked around at the devastation the fully grown grub had caused, and hoped he could find the Commander of the Garrison to let him know what was coming, and to set up proper defenses. Princess took off at a run at Ren's command, up the path of destruction that the giant had carved out of the Garrison. This was the most vulnerable spot, since it went so far into the Garrison; so, this was where Ren decided to mount the first defense. If he was lucky, he would make it to the spot the giant had first entered the Garrison, before another one showed up to continue the giant's work.
+
+What Ren didn't know, was that it was already too late. Three more giants, just as big and pissed off as the first one he'd just defeated, were already running down the opening towards him.

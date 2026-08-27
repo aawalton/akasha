@@ -1,0 +1,237 @@
+---
+id: 1926c562-d7b2-5a46-bdca-a741457a34b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 495 - A Quick Library Visit"
+slug: 0495-chapter-495-a-quick-library-visit
+partOf: mythrans-master-of-all-continued-completed
+position: 495
+ownLength: 3082
+unit: words
+publishedAt: 2018-01-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190442/chapter-495-a-quick-library-visit"
+royalRoadId: "190442"
+---
+
+Princess pulled the cart through the air towards the capital city of Bore-Reale, and Ren took out the All-Seeing Mirror and asked it for the Library's location in the city. Surprisingly, it was pretty far from the castle, if you travelled by normal means, and Ren told Princess where to go.
+
+“Should we land first?” Teepo asked.
+
+“I don't know.” Ren said. “Should I announce my appearance to everyone, or try to keep a lower profile?”
+
+“Without your Aura active, you're as low profile as you can be.” Teepo said. “Unless someone sees you.”
+
+“Teepo, that's a great idea.” Ren said and took out the Illusion wand and cast it on Princess. She became a horse of a similar size, and Ren used the Permanent Widen effect on the illusion to make it last that much longer. He then equipped his platinum armor and cast Disguise Self on himself to change his hair color, gave himself a generic male face, and added a foot to his height. His physical dimensions didn't change, but they looked like they did, and he cast Permanent Widen Effect on himself as well.
+
+“Princess, we should land just out of sight of the main gate into the city.” Ren said.
+
+“I don't like looking like a common nag, My Lord.” Princess grumbled as she quickly darted around out of sight of the main gate, then came in for an easy and soft landing.
+
+“It's only for a short while, and we all know how pretty you really are on the inside.” Teepo said.
+
+Ren felt Princess' gratitude for the statement, and he hopped off of her back and went to the cart, then knocked on it. “I've cast Disguise Self and changed my looks, so don't freak out when I open the cart.” He cautioned them and opened the cart top. The three women looked at him with wide eyes.
+
+“Ren, you look like the skeleton knights.” Officer Holly said. “That's really disconcerting.”
+
+“I'm sorry.” Ren said and pointed the Disguise Self wand at her. “Keep your armor on, and just imagine new clothing.” He said and cast the spell. Officer Holly's Holy Armor disappeared and was replaced by a tight pair of black jeans, a t-shirt with a Motley Crue logo on it, and a black leather jacket. She climbed out of the cart before Ren could offer to help her, and he had watched her with wide eyes.
+
+“Yeah, I know that's not what you meant about imagining new clothes, but these are my favorite clothes.”
+
+“You are going to stand out like a sore thumb.” Ren said.
+
+“Like a 6 foot tall metal woman isn't?” Officer Holly said and grinned.
+
+“She's not going to look like metal in a minute.” Ren said.
+
+“It won't be as bad if we all wear similar things.” Xuunah suggested, and Ren felt Officer Holly's happiness.
+
+“Fine.” Ren said and cast the spell on Artemis to give her normal looking skin and a similar outfit appeared around her. The jeans were a dark blue instead of black, her t-shirt had a Micheal Jackson 'Thriller' logo on it, and the leather jacket was red instead of black and had a bunch of extra zippers. He hadn't given her the actual Thriller leather jacket, because that would have been a bit too much.
+
+“I don't need the spell, Ren.” Xuunah said and her armor faded as another outfit replaced it. She now wore a light pair of blue jeans with a Def Leopard 'Rock It' t-shirt, and only her arms and shoulders were covered in a small blue leather jacket that couldn't zip up, even if she had wanted it to. It also highlighted her long brown hair nicely.
+
+“Wow.” Ren said as he helped her climb out of the cart. “You look very nice.”
+
+Xuunah's face flushed red as she felt how much Ren liked her choice of outfit. “Thank you.”
+
+“Hurry up and put your eyes back in your skull, Romeo.” Officer Holly said.
+
+“Hey, I appreciate beauty where I see it.” Ren smirked at her and helped Artemis out of the cart, even though he didn't have to.
+
+Officer Holly frowned at him. “You didn't stare at me like that.”
+
+“You didn't catch me staring at you like that.” Ren grinned.
+
+Officer Holly couldn't tell if he was joking. She also couldn't decide if she liked that he had looked, or hated that she had missed catching him at it. Ren chuckled at her mixed feelings, then cast Disguise Self again on himself and changed his outfit to pitch black jeans, a dress shirt, and a fancy black leather biker jacket. It had several 1 inch spikes on the shoulders, dozens around the wrists, and just as many around the waist. He used Permanent Widen Effect on himself and the three women to make the disguises last longer.
+
+“Wait, aren't you supposed to be a lot shorter than this?” Officer Holly asked and reached out to touch the shoulder spikes on his disguise, and her hand went right through it.
+
+“It's just an illusion, so you can't touch it.” Ren said. “Isn't it neat?”
+
+“You chose it because it looks cool, right?” Officer Holly asked, and he nodded. “Then who am I to complain?”
+
+“I am not going to answer that obvious trap.” Ren chuckled and unhooked the cart from Princess and stored it.
+
+“What are you doing?” Xuunah asked. “We need that cart, don't we?”
+
+“I'm not taking three beautiful women into the capital city in the back of a cart.” Ren said and took out the cube that could become his shop tower. “Give me a couple of minutes.”
+
+The three women stood there as Ren activated the tower and went inside.
+
+“That thing just appeared out of nowhere.” Officer Holly said. “How did he do that?”
+
+“It's called an Instant Tower.” Xuunah said. “If you didn't see it, it's just a cube this big.” She held her fingers 2 inches apart. “When it's activated, it becomes what you see before you.”
+
+“That's great!” Officer Holly said. “You can carry a place to live with you wherever you go!”
+
+“It's also a great defensive structure and has a spawn point.” Ren said when he came out of the door. “I forgot to set my spawn point to the Main House back at the county, though.”
+
+“I'll remind you when we go back.” Teepo said.
+
+Thanks, Teepo. Ren thought as he deactivated the tower and stored the cube, then took out a carriage that only had the bottom half and attached it to Princess.
+
+“Where did...” Officer Holly started to say, then stopped. “You just made it.”
+
+Ren nodded and opened the door for them. “Ladies, your coach awaits.”
+
+“A hand, please.” Xuunah said and held her hand out.
+
+Ren felt that she was gently teasing him, so he took her hand with a flourish and guided her up into the carriage, then eased her into the comfortable seat at the back in one smooth motion, much to her surprise.
+
+“T-thank you.” Xuunah said, a little flustered.
+
+Ren gave her a slight bow and turned to look at Officer Holly.
+
+“Don't even think about it.” Officer Holly said and climbed into the carriage unassisted. She sat down beside Xuunah and folded her arms across her chest. Ren chuckled and held a hand out to Artemis, who took it like a lady and Ren helped her into the carriage. She sat down across from the other two women and faced them, and Ren hopped down and shut the door. He climbed into the driver's seat and picked up the reins that were attached to the carriage and not to Princess.
+
+“You shouldn't talk while we're in the city, Princess.” Ren said and brought up the map of the city on the All-Seeing Mirror. “I'll direct you if you need it.”
+
+I know where the Library is, My Lord. Princess thought to him and started to saunter as she pulled the carriage. If she went any faster, it would look suspiciously like she was running. She went around the corner and over to the main gate, and they entered the city without incident.
+
+Going this slow is quite maddening. Princess thought as they moved through the streets and dealt with traffic for the first time in a while.
+
+“Why do you dislike being treated with care?” Xuunah asked as she turned to look at Officer Holly.
+
+“I'm a grown woman and I don't need to be babied.” Officer Holly said, a bit defiantly. “It's completely unnecessary.”
+
+“I thought so to, and even had a slight argument with Ren about it.” Xuunah said and glanced at Ren. “When he helped me into the carriage, I realized that... sometimes... it's nice to have someone care enough to treat you that way.” She smiled. “Despite how much you think you don't want to be treated differently.”
+
+Officer Holly didn't say anything in response, and Xuunah didn't really expect her to.
+
+“We're almost there.” Ren said, more for the women's benefit than for Princess.
+
+“I don't mind being treated like a lady.” Artemis said. “Not only does it reflect well on Ren's social status, it lets him practice for when he might really need the skill.”
+
+“Are you both trying to convince me?” Officer Holly asked and frowned.
+
+“No.” Xuunah chuckled. “We're just sharing points of view.”
+
+“I don't see anywhere to tie the carriage up.” Ren said as he looked around the Library entrance. He checked the All-Seeing Mirror and it pointed out an appropriate spot 2 blocks away. “Take a left here and then a right, Princess.”
+
+Princess followed Ren's directions and found a relatively empty lot that was being used as a horse corral.
+
+You are not leaving me here with the nags, My Lord. Princess thought in disgust.
+
+“It's only for a few minutes.” Ren said and hopped down to pretend and secure her to the closest post. “Just don't eat anything.”
+
+I would never! Princess almost gagged at the thought, and he chuckled as he walked over to the carriage door and opened it.
+
+“Reverse order, please.” Ren said and held a hand out, then helped Artemis out of the carriage. He looked at Officer Holly, and she sighed.
+
+“Okay, fine!” Officer Holly said and held her hand out.
+
+“Thank you, M'lady.” Ren said graciously and tenderly took her hand. He guided her out expertly and stood her beside Artemis, and he successfully ignored Officer Holly's red face and didn't comment on it. He turned and reached in for Xuunah, and repeated the process. When he was done, he unhooked the carriage and stored it, then motioned towards the street. They all started walking together, and followed the directions back to the Library.
+
+People stopped and stared at them and their outrageous outfits. It was mostly city residents; but, there were quite a few players that openly gawked at them, too. Once they arrived at the Library, Ren rushed up the steps and opened the door for them to enter. They all went inside, and the Library was twice as big as the ones in Aurora and his county.
+
+“What the...?” Ren looked around in awe at the sight.
+
+“Neat, isn't it?” Lara said as she walked over to them. “It used to be an identical Library, then after a few expansions and some judicious spell casting, it was like this.”
+
+“You can't tell me the spells, even if I ask officially, can you?” Ren asked, and she shook her head.
+
+“You know the rules.”
+
+“I have to discover them myself and then you can give me the fine points.” Ren said and held a hand out to her. “You must be frustrated all the time about that.”
+
+“You have no idea.” Lara said as she took his offered hand and smiled.
+
+“Hurry up and lead us to these building plans.” Officer Holly said. “This place is full of people.”
+
+Lara smiled and guided them over to the side of the room and opened the door to the hallway. Everyone in the Library couldn't help but look at the jeans and leather clad group as they all went inside, then Lara shut the door.
+
+“That was nice of you all to dress up like me.” Lara said and led them down the hall to the door at the end.
+
+“It was all her idea.” Ren said and indicated Officer Holly. “She likes leather and jeans as much as you do, apparently.”
+
+“You can't beat the comfort, or looking like a bad-ass.” Officer Holly said. “I just wish these things were real.” She said and pat her thigh.
+
+“Mine are.” Lara said and pat her own thigh, then opened the door to the back room. “Someone very special to my heart made them for me.”
+
+“I'm just glad you liked them.” Ren said and followed her over to a large desk that was covered in layers and layers of building plans. “Holy crap!”
+
+Lara chuckled as she received the exact reaction that she wanted. “I had a few minutes to dig through the archive.”
+
+Ren gave her a quick and passionate kiss. “Thank you.”
+
+“Y-you're welcome.” Lara said, then flipped through a few of them. “A lot of them are for odd buildings, like an all wooden 40 foot tall watchtower with an entire room at the top with only a thin base in the center to hold it up, or a half-buried hovel for a hermit, or a 5 storey single family home that gets bigger on each higher level.” She shook her head. “There's even one for a storage area that will attach to any house, except that it's barely 4 feet wide and looks like a chimney.”
+
+Ren chuckled. “I'm sure there's something I'll want in this stack.” He said and started looking through them himself. “Hey, that looks like a lighthouse.” He said and pulled the plan out and kept searching. “Oh, nice! A castle!” He said and pulled out a small stack of parchment. “That might be a nice attraction for people.”
+
+“Attraction?” Lara asked.
+
+“Yeah, my county is a little lacking in population, and I figure if I get some interesting things for them to look at, people might want to move there.”
+
+“What about all the High Elves and elflings you've saved so far?”
+
+“I'm making them a city in no man's land to live in instead.” Ren said. “When Tee-one and I designed it, we came up with making a self-contained human city, too.”
+
+Ren felt Lara 's shock at the idea and looked at her. “What is it?”
+
+“I'll be right back.” Lara said and ran across the room to an aisle, then disappeared down it.
+
+Ren kept looking through the plans and found, surprisingly enough, a medieval apartment building. It was labeled as a multi-family home, but Ren knew what it actually was. He found a farm house with an integrated barn, another watchtower with a better design, a few more houses, several businesses, an administration building, and something that looked like a cathedral.
+
+Ren copied all those plans, along with the castle and lighthouse, and put them back into the stack where he had found them. He was about to ask what was taking Lara so long, when she came back into the Library and ran over to him. She had a smile on her face and came to a stop beside him.
+
+“I want you to make this, too.” Lara said and took out a small stack of parchment sheets.
+
+“You aren't going to get a warning for giving me these, are you?”
+
+“No, it's all standard designs.” Lara said. “There's nothing new for you to learn there.”
+
+Ren took the stack and flipped through them, and when he was done, he gave her a big smile.
+
+“You... are... brilliant!” Ren said and gave her another kiss. “Thank you for reminding me about this.”
+
+“You're welcome.” Lara said. “When do you think you can finish it?”
+
+“With the plans already done? Maybe 20 minutes.” Ren said, and Lara's mouth dropped open.
+
+“But... but...”
+
+Ren reached out and touched her forehead with a single fingertip. “I'm cheating.”
+
+“Oh, my god.” Lara said after a second. “Ren, you have to make them as fast as you can before they realize what you're doing!”
+
+“That's what I plan to do.” Ren said. “I know as soon as it's discovered, something is going to happen.”
+
+“Yes, pandemonium.” Lara said and smiled. “Have fun.”
+
+“I will.” Ren gave her the plans back. “Thank you very much for your help.”
+
+“It was my pleasure.” Lara said and stored the plans, then stored the plans on the table as well. “I'll walk you out.”
+
+Ren took her hand and she led them back through the hallway and out of the Library. “I'll see you back at the county Library.”
+
+Lara nodded and watched him walk away with Xuunah, Officer Holly, and Artemis. Ren led the three women back to Princess and attached the carriage to her.
+
+“I guess that means we're still keeping this pretense up.” Officer Holly said.
+
+“Why blow cover?” Ren commented and opened the door and held a hand out to Xuunah. “We may have to come back again sometime.”
+
+Xuunah took the offered hand and Ren helped her into the carriage, then he turned to Officer Holly. She had her hand out already, and he smiled as he helped her climb in and sat her down. He helped Artemis next, shut the carriage door, and climbed up and sat in the driver's seat.
+
+“Princess, to the main gate, please.”
+
+Yes, my Lord. Princess thought and sauntered out into traffic, then made her way through the city and back to the main gate. It actually took longer to do that than to travel across the country to get to the city, and by the time they reached the outside again, Ren completely understood Princess' aversion to going so slow. It really was maddening to have people force you to go much slower than even normal traffic would allow.
+
+Once they were through the gate, Princess trotted along the wall and went around the first corner and out of sight. Ren helped the three women out of the carriage and stored it, then replaced it with the covered cart and helped them climb back in. Ren hopped onto Princess' saddle and she ran up into the air and poured on the speed.

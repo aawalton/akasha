@@ -1,0 +1,219 @@
+---
+id: 1b07c6e1-8c5b-5c26-993a-9a26f58accd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 Survey"
+slug: 0050-chapter-46-survey
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 50
+ownLength: 2062
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3334172/chapter-46-survey"
+royalRoadId: "3334172"
+---
+
+The miner’s gaze lingered on him for a brief moment before he spoke. “Lord.” His voice carried the rough ease of a man more used to open air than walls.
+
+He returned the gesture. “Joren tells me you know the southwestern ridge?”
+
+Garrick rubbed a hand across his jaw. “Walked most of it before in my time. Some areas twice over.”
+
+Lucien glanced briefly toward the forge behind them. The place smelled of iron and timber, not hills and stone.
+
+He turned back toward the road leading west. “Then we should not waste the explanation beside a forge,” his gaze moved briefly between the three men before settling again on Garrick.
+
+“Walk with me.”
+
+Harlon fell into step beside them without comment, pipe resting loosely between his fingers while Garrick walked on Lucien’s other side, his stride steady and unhurried.
+
+Joren remained where he stood. “Hills and stone aren’t my trade,” the blacksmith muttered. He jerked his chin toward the forge behind him. “Iron won’t shape itself.”
+
+Lucien inclined his head, though the blacksmith had already turned back toward the doorway.
+
+The road sloped gently downward from the forge before widening into the main path that wound through the village. Morning light lay thin across the packed snow, and the distant sound of axes still carried faintly from the southern clearing where Harlon’s crews continued their work.
+
+Beyond the outer cottages, the ground opened gradually, the village thinning into scattered sheds and fenced winter pens before giving way to the open stretch of land sloping toward the distant hills.
+
+Lucien stopped when the western view opened fully before them. The western palisade stood a short distance ahead, its gate open where the road continued toward the ridge.
+
+The southwestern ridge stretched there in a long uneven line of dark stone and winter trees, bare rock breaking through the snow along its higher slopes and cutting against the pale sky.
+
+He studied it briefly before speaking. “Show me,” he said.
+
+Garrick followed his gaze toward the ridge, and for the first time since leaving the forge, his expression lost some of its guarded neutrality.
+
+He walked a few paces farther until the palisade no longer blocked the slope beyond, then lifted one gloved hand and pointed toward the far end of the ridge where the land dipped gently before rising again.
+
+“Stone runs shallow there,” he said. “You can pull rock from it easy enough, but you’ll fight the soil for every crop.”
+
+He kept his hand raised for a moment longer before shifting it slowly along the ridge line. “Runs along the spine for most of that stretch,” he continued. “Soil’s thin up there and the trees grow crooked.”
+
+Harlon followed the line of the miner's gesture, his expression thoughtful. “You’d spend more time fighting that ground than building on it.”
+
+Garrick inclined his head. “Aye. You’ll see the same along the north side too. Wind keeps the snow from settling deep.” His hand lowered, pointing now toward the shallow dip where the ridge sagged before climbing again. “Down there though,” he added, “the ground changes.”
+
+Lucien’s gaze followed the motion. “How so?”
+
+“Water runs through that fold in the spring,” Garrick said. “Cuts the soil deeper every year.” He paused, studying the line of trees clustered along the dip. “Means there’s more earth over the stone.”
+
+Harlon drew slowly on his pipe. “Better place to build an outpost,” he said.
+
+The miner gave a small nod, and for a time the three of them stood quietly, the ridge stretching across the winter sky before them.
+
+Garrick was the one to break the silence. “There’s an old quarry cut farther along that line,” he continued, pointing farther along the ridge, beyond the shallow dip where the land climbed again.
+
+“Collapsed now, but the stone was good enough someone tried working it once.” His hand lingered in the air for a moment before dropping back to his side.
+
+Lucien studied the place Garrick had indicated, tracing the ridge line past the shallow dip until he found the broken scar of exposed stone farther along the slope.
+
+“How far does that stone run?” he asked at last.
+
+Garrick glanced back toward the slope. “Hard to say without walking it proper,” he replied. “But there’s enough stone there to matter.”
+
+Harlon shifted his weight, pipe resting between his fingers. “Enough for an outpost, if the ground sits right.”
+
+Lucien gave a faint nod. “We could establish a working site there,” he said, “flush against the ridge.”
+
+The carpenter studied the ridge a moment longer before his gaze shifted to him. “You’re thinking a permanent hold, not just a quarry.”
+
+“Eventually,” he kept his gaze on the slope. “the rock itself would serve as the southern wall.”
+
+Garrick considered that briefly before nodding slowly. “Aye,” he said. “Nothing’s climbing that face easy.”
+
+Harlon exhaled a thin stream of smoke. “Winter’s not the season to start building something like that.”
+
+Lucien inclined his head. “No,” he agreed. After a brief pause, he added, “But it is a good season to decide where it should be built.” He gestured lightly toward the open ground stretching between the palisade and the ridge. “Surveying the land takes time.”
+
+Garrick shifted in the snow, following the line of his gesture across the field. “Well,” the miner said, “a ridge like that might give you decent stone.” He glanced toward Lucien. “But there won’t necessarily be gold or silver there.”
+
+Beside them, Harlon gave a quiet huff of amusement as he drew on his pipe, though he said nothing.
+
+Lucien answered without hesitation. “Stone and iron are more useful.”
+
+Garrick studied him for a moment, as though weighing that answer against the kind of lord he had expected.
+
+Harlon tapped the bowl of his pipe lightly against his glove. “If the stone holds,” the carpenter said, “we could cut blocks straight from the ridge.” His gaze returned to the slope. “Better than hauling it from riverbeds.”
+
+Lucien’s gaze shifted to the open land between the ridge and the village. “The greater concern would be the ordinary months.”
+
+Garrick scratched his stubble thoughtfully. “Strays,” he said.
+
+“But for now,” Lucien said, “we begin first by understanding the land.”
+
+Harlon studied the ridge again through the thin winter light before speaking. “If we’re serious about working that stone,” he said slowly, “we’ll need men.”
+
+Lucien turned toward him. “How many men would it take?”
+
+The carpenter considered the question for a breath. “For a proper outpost?” he said. “At least a dozen to start.”
+
+Garrick gave a small grunt. “Half that if you’re only cutting stone.”
+
+Harlon shook his head. “Not just cutting.” His pipe lifted as he gestured toward the ridge. “You’ll need shelter, a cutting floor, maybe a small shed for tools.”
+
+Lucien rested his hands behind his back and turned his attention to the ridge.
+
+“Eight men could manage the first phase,” Harlon continued. “Carpenters, laborers. Maybe two who know how to shape stone.”
+
+Garrick rubbed the edge of his glove along his beard. “Depends what we find when we get up there,” he said.
+
+Lucien’s gaze remained on the ridge. “Which is why we explore first.”
+
+“Aye,” Harlon replied, exhaling smoke slowly. “Though winter’s not the best time to send men wandering hills either.”
+
+Garrick glanced toward the tree line along the ridge. “Snow hides bad ground,” he said. “One wrong step and you’re in a ravine.”
+
+After a moment, Lucien asked, “How long would a proper survey take?”
+
+The miner squinted toward the ridge again, measuring distance the way a man weighed iron in his hand. “A day to walk it,” he said at last.
+
+“Two if you want to understand it.”
+
+Harlon shifted, pipe resting between his fingers. “An exploration team would need supplies.”
+
+“Light ones,” Garrick added. “You want them moving, not hauling.”
+
+Lucien let that settle for a moment. “How many men?”
+
+“Three,” the miner replied immediately.
+
+Harlon’s brow lifted as he turned toward him. “Four would be safer.”
+
+Garrick gave a short shrug. “Four leaves more tracks.”
+
+“Tracks matter less than broken ankles,” Harlon replied plainly.
+
+For a moment, Lucien let the two of them measure the problem against each other before he spoke. “Four men.”
+
+Both men looked toward him.
+
+“One who knows the ridge,” Lucien said, his gaze shifting briefly to Garrick. “One woodsman. Two laborers.”
+
+Harlon gave a slow nod. “That would do.”
+
+Garrick rubbed at his beard, eyes returning to the ridge. “If we’re walking it, we start early.”
+
+He turned back toward them. “Tomorrow.”
+
+The miner was quiet for a moment, the brief pause enough to show he had expected a longer wait.
+
+“The sooner we know the ground,” he said, “the sooner we can stop guessing.”
+
+The three men fell briefly silent again as the light across the snow shifted, the pale gold of morning slowly brightening toward midday.
+
+A faint crunch of footsteps sounded behind them. A moment later, a familiar figure stepped from the narrow path between the outer sheds.
+
+Sera walked toward the palisade, a pair of rabbits hanging loosely from one hand, their gray fur dusted lightly with snow. She slowed when she noticed the small gathering. Her pale eyes moved briefly across the ridge before settling on Lucien.
+
+He regarded her for a moment. “Successful hunt?”
+
+Sera lifted the rabbits in answer, her head tilting slightly in acknowledgment, though her attention remained on him.
+
+Garrick watched the silent exchange with mild curiosity.
+
+Harlon merely drew slowly on his pipe, though his eyes lingered on the long bow slung across her back.
+
+Lucien turned back toward the ridge. “Then it seems we have one woodswoman available.”
+
+Sera’s gaze followed his toward the distant slope. After a brief moment, she gave a small nod and stepped closer, stopping a few paces from the group. The rabbits swung lightly from her hand as she glanced once more toward the ridge.
+
+Garrick watched her briefly before he spoke. “You’ve hunted those woods,” he said. It was not phrased as a question.
+
+Sera inclined her head once, her eyes shifting to meet the miner’s.
+
+Garrick turned and lifted a hand toward the ridge again. “Tell me something,” he said, pointing toward the shallow dip where the land sagged before rising again. “If you were tracking deer coming out of those woods, where would they cross?”
+
+Sera followed the line of his hand, her gaze moving slowly along the ridge. She studied the trees clustered near the fold where the spring runoff cut through the ground. After a moment, she gave a small shake of her head.
+
+Her eyes shifted farther along the slope instead. She stepped forward a few paces and pointed toward a narrow stretch where the ground flattened briefly before the stone rose again, where the trees thinned and the ground opened into easier footing.
+
+Garrick followed the line of her hand and gave a small grunt. “Aye,” he said. “Game won’t waste effort climbing stone if they don’t have to.” His gaze shifted toward Lucien. “She knows those woods.”
+
+Lucien inclined his head. “And you have walked those ridges.” He looked from the slope back to the two of them. “You’ll both walk it tomorrow.”
+
+The miner gave a short grunt, as though the decision had been expected.
+
+“Start at the western fold and follow the spine north. Mark where the stone breaks through the soil and where the ground will take a foundation.”
+
+Garrick’s eyes drifted back toward the ridge as he measured the path. “That’ll take most of the day.”
+
+“Take the time you need.”
+
+Lucien turned toward Sera. “Watch the land between the ridge and the woods.”
+
+Her pale eyes lifted to meet his.
+
+“I want to know how beasts move through it.”
+
+Sera inclined her head in acknowledgment.
+
+Harlon tapped the bowl of his pipe lightly against his glove. “I’ll have two men ready by morning,” the carpenter said. “Men who know how to keep their feet in the snow.”
+
+Lucien folded his arms behind his back and looked toward Garrick. “Travel light. If the weather turns, you return immediately.”
+
+The miner gave a small shrug. “Ridge’ll still be there tomorrow.”
+
+Tomorrow they would begin walking its length, and sooner or later, Ashridge would begin building against it.
+
+He turned back toward the village.
+
+“Let me know what the land tells you.”

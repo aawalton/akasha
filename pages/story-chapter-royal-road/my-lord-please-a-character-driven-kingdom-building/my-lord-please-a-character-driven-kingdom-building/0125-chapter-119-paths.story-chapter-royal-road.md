@@ -1,0 +1,191 @@
+---
+id: 6ecd77e9-c7ed-5d45-83b3-89f697e75b22
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119 Paths"
+slug: 0125-chapter-119-paths
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 125
+ownLength: 2338
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3859727/chapter-119-paths"
+royalRoadId: "3859727"
+---
+
+A few days after his conversation with Talia, word that the lord was to make an announcement to the whole of the village had spread.
+
+The refugees gathered outside the gathering hall, most of them having learned where to go from the original villagers whenever Lucien declared a village wide decree.
+
+Lucien had instructed Dorian and Elias to make the necessary arrangements beforehand. Ashridge had grown large enough that it was no longer possible to hold these functions for the entire village without preparation or a security presence.
+
+From a distance, he could hear the work still being done at the northwestern housing site. The urgency from a month ago had not fully faded yet as they continued to prepare the rest of the longhouses.
+
+A messenger from Helvarn had arrived yesterday, bringing word that the second wave of people had left the town and would be arriving any day now.
+
+A few farmers remained in the fields. Even after the spring planting had passed, the crops still needed water, weeding, and watchful eyes.
+
+Even with a portion of the villagers still busy with the work, the crowd gathered before the hall was large enough that Dorian had placed several guards along the edges to keep the path clear.
+
+The militia ranking board stood near the entrance, its rows of names drawing more than a few glances from those who waited. Some of the younger militia members lingered near it with the uneasy pride of people pretending not to look at their own standing.
+
+That board had become one of the few places in Ashridge where effort could be seen plainly. Names rose and fell there. Men who had once been only farmers, hunters, refugees, or spare hands could point to a mark and say they had earned it.
+
+Today, he intended to place another path beside it.
+
+Even with most people keeping their voices down, enough had gathered that their murmurs reached him from a distance.
+
+The sound began to fade once the villagers noticed him walking toward them, only to stir again a moment later when they realized he was not alone.
+
+Talia walked slightly behind him to his right, a smile on her lips more elegant than her usual grin. When a few villagers met her eyes, she greeted them cheerfully, even as they returned uncertain smiles in return.
+
+People began speaking quietly among themselves, clearly confused why a merchant would be beside the lord. He did not blame them. On the few occasions he had given public announcements, he had usually stood alone or with Elias and Dorian nearby.
+
+Those voices began to die down when Lucien and Talia made their way toward the ranking board, their path cleared by Henric and Merek along with a few other Ashridge guards that Dorian had assigned.
+
+Once they reached the open space before it, Lucien turned to face the gathered villagers. Talia came to a stop beside him rather than behind him, drawing another ripple of murmurs through the crowd.
+
+He exchanged a nod with the captain, who stood with his arms crossed at the edge of the gathering. Talia waved energetically at Harlon and Joren, causing the carpenter to shake his head while Joren chuckled and nudged the older man.
+
+To the side of both men, Garrick exchanged quiet words with the other carpenters. The miner seemed to have grown closer to their group, though that was not unexpected after the months he had spent overseeing the ridge outpost and several new projects around the village.
+
+Bran stood among several farmers from the eastern fields, dirt still clinging to his boots and his arms folded over his broad chest.
+
+The western farmers had gathered closer to the ranking board, Tomas's cousin near the front. Even from where Lucien stood, he could see that their faces held a sense of ease compared to before, now that the water gate had begun proving its worth.
+
+Farther back, the refugees from Helvarn stood in smaller clusters, many still wearing the dust and wood shavings of the housing site on their sleeves.
+
+Lucien let his gaze pass over the gathered villagers one last time before raising a hand, waiting as the voices filling the area before the hall gradually began to fade.
+
+He folded his arms behind him. “The last time we gathered here, it was to announce that Ashridge would take in the people from the eastern villages during winter.”
+
+Some of the villagers nodded, while a few he recognized from that day dipped their heads toward him.
+
+“Ashridge has grown beyond its initial population of five hundred since then. I have received word that the second wave of people will be here any day now.” His gaze moved across the crowd briefly before he continued.
+
+“When they arrive, the village’s population will reach over thirteen hundred people.”
+
+The people before him likely already knew, but with him voicing the number aloud, it seemed to take on a physical weight. A ripple passed through the crowd, moving from one group to the next before Henric let out a loud cough.
+
+The zealous guard said nothing, but the hard look on his face was enough to make those nearest to him lower their voices, the rest following soon after.
+
+Once they faded completely, Lucien inclined his head. “As such, we can no longer remain as a farming village alone.” He looked briefly at the ranking board beside him. “Many of you have already experienced what happens when effort is given a place to be measured.”
+
+A few younger militia members lifted their heads at his words. They were the ones who had taken the ranking board seriously even after the monetary rewards had stopped, once they realized the marks beside their names changed how others looked at them.
+
+“Today, Ashridge will open another path.”
+
+Before the voices could rise again, Lucien gestured toward Talia, who had remained silent so far. The moment attention shifted to her, that restraint vanished as she grinned brightly.
+
+“I have spoken with Lady Talia, and we have decided to hold a hearing for proposals. Any person in Ashridge may bring forward an idea that could be of use to the village.”
+
+Lucien looked slowly across the various clusters gathered before him, meeting their eyes before he continued.
+
+“It may be a craft, a tool, a method, or a service. It may concern preserving food, producing goods, improving work already done in the village, or creating something that can be sold beyond our walls. From those proposals, five will be chosen first, and Ashridge will provide what support it can.”
+
+He let the words settle for a moment before adding, “That support may come in the form of materials, workspace, coin, skilled hands, or help bringing the result to market.”
+
+“Are there any questions?”
+
+When Lucien fell silent, it did not take long before the voices began to rise, though no one stepped forward until someone from the eastern fields cleared his throat.
+
+“Milord. Would us farmers be allowed to take part as well?”
+
+Turning toward the man, Lucien vaguely recognized him as one of the farmers under Bran who had taken part in the four field rotation.
+
+“Yes. Any farmer may bring forward a suggestion.”
+
+When the man looked as though he had more to say, Lucien gestured for him to continue.
+
+“But what of those with fields to their name, Milord? We can't simply leave them to work another trade or start something new.”
+
+Lucien’s brow lifted before his gaze moved briefly toward Bran. “If a farmer has an idea he believes would serve Ashridge, then he may still bring it forward.”
+
+He let his gaze pass over the farmers gathered before him. “It does not need to mean abandoning his fields. Some ideas may improve the work he already does.”
+
+“And if the work requires more time, then he may work with others or hire help where he has the means. There is already precedent for that.”
+
+The man's eyes widened in realization before glancing toward Bran, who gave a small nod.
+
+Once the first question had been asked, one of the braver refugees stepped forward, raising his hand slightly.
+
+“Milord...I have kin coming with the others from Helvarn. Would they be allowed to take part in this too?”
+
+“Yes. This includes the second wave of refugees who have yet to arrive in Ashridge as well,” Lucien replied. “Everyone will need time to think about what they wish to propose, so we will only begin accepting them after one month.”
+
+A few people exchanged brief looks now that a timeline had finally been given.
+
+To Lucien's mild surprise, it was Tomas's cousin who asked the next question.
+
+“Milord. What if someone were to propose something that would only benefit a small portion of the village?”
+
+At those words, a few of the eastern farmers cast dirty looks at the group Tomas's cousin stood in. Before anyone could respond, Lucien spoke first.
+
+“We will consider each proposal carefully before agreeing to support it. In return for Ashridge’s support, a fair share of what is earned will return to the village treasury, so that roads, gates, storehouses, tools, and other works may continue to be improved.”
+
+Someone from the eastern fields spoke next. “How will that be determined, Milord?”
+
+Lucien gestured lightly toward Talia. “Take Lady Talia’s kilns for producing lime mortar. She arranged for the first kiln to be built so she could test the slaking process and the proper ratios. That work allowed us to build the water gates, and soon, it will help with the sawmill as well.”
+
+Upon being mentioned, Talia winked at the crowd, earning both chuckles and grimaces from those who remembered the smoke from her testing pits.
+
+When Harlon stepped forward to speak next, she immediately made a face, causing the chuckles to grow louder.
+
+“Lord. What if someone asks for more than the village can afford to provide? There’s always someone with grand ambitions like that.”
+
+The carpenter pointedly ignored Talia when she gave him an indignant look. Lucien had a feeling that she would childishly stick her tongue out at the older man if not for the crowd.
+
+Lucien shook his head. “The proposal must be something Ashridge can reasonably provide.” His eyes passed over the crowd briefly. “I trust that everyone here should know where those limits are. If not, direct your questions to one of the scribes, and they will bring them to Elias.”
+
+“Lady Talia will also be available to answer questions. As a merchant, she will have better insight into what may hold value for the village, so feel free to approach her.”
+
+It had been something they discussed beforehand as a way to give the villagers someone easier to approach. Despite his unusual behavior as a noble, the social hierarchy was too embedded for villagers to casually approach him.
+
+Joren was the next to speak, rubbing a thumb along his beard as his gaze moved briefly toward the gathered refugees.
+
+“And if the proposal needs materials like iron, Lord? There’s only so much we can spare before every idea in the village suddenly requires hinges, brackets, and twice the nails of a proper door.”
+
+A few chuckles moved through the craftsmen gathered nearby while Harlon gave a low huff, clearly agreeing with the sentiment.
+
+Lucien inclined his head. “Then the materials required will be considered as part of the proposal. The same applies to stone, timber, coin, and skilled labor. An idea that uses less of what Ashridge lacks will naturally be easier to support.”
+
+Garrick, standing near the carpenters rather than fully among them, lifted his voice. “What of those who know where something is lacking, Lord, but not how to shape the answer themselves?”
+
+The question drew several looks from the refugees farther back.
+
+Lucien turned toward him. “Then they may still bring it forward. A proposal does not need to be complete when first spoken. If the idea has merit, those with the proper skill may help refine it.”
+
+Harlon’s brow rose. “Meaning us, Lord?”
+
+“In many cases, yes.”
+
+The carpenter stared at him for a moment before removing the pipe from his mouth with a sigh. “Thought so.”
+
+When it seemed like there were no more questions, a child's voice cut in.
+
+“I propose we create a knightly order within Ashridge!”
+
+Lucien's brow twitched when he turned slightly to see Roland standing on his toes at the side of the crowd as the people nearby began trading amused glances.
+
+“Rejected,” he replied immediately, causing the boy to slump over.
+
+At some point, Cora had appeared beside him and slapped the boy on the back in an attempt to comfort him, though judging by his wince, the small girl apparently did not hold back.
+
+She turned toward Lucien and raised her hand needlessly even though he was already looking at her.
+
+Lucien exhaled when she made no move to speak until he gave her a wave. “Yes, Cora?”
+
+“Lord Lucien! Can children give proposals too?”
+
+Talia's teasing look made him tempted to say no before he inclined his head slowly. “Yes. But the same limitations apply as well. It must be something that the village can feasibly provide.”
+
+“And ridiculous proposals will be rejected.”
+
+He was slightly alarmed when instead of dejection, a thoughtful look came over Cora's expression. The kind that reminded him of a certain someone and of trouble soon to come...usually at his expense.
+
+The children's antics caused the gathering to relax as others began to talk among themselves, already exchanging ideas with each other.
+
+When Lucien looked over the group, he noticed the two women who had approached him a few days ago. The woman with the plaited hair met his eyes then bowed toward him.
+
+He returned the gesture before turning to Talia. “Looks like you're going to have quite a few questions to answer in the coming weeks.”
+
+Talia said nothing, but the bright expression on her face was answer enough.

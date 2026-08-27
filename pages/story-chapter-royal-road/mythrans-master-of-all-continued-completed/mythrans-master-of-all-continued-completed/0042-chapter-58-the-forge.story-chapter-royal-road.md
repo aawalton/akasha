@@ -1,0 +1,337 @@
+---
+id: e7f76fa0-a4ee-583f-9997-de47c789df33
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58 - The Forge"
+slug: 0042-chapter-58-the-forge
+partOf: mythrans-master-of-all-continued-completed
+position: 42
+ownLength: 3948
+unit: words
+publishedAt: 2016-10-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98942/chapter-58-the-forge"
+royalRoadId: "98942"
+---
+
+Ren arrived at the building next to Donan's place and stopped. Lucy almost ran Ren over, but caught herself in time and Lucy ended up giving Ren a quick hug from behind.
+
+“Lucy... what do I say?” Ren asked in a small voice.
+
+Lucy turned Ren around and looked him in the eye. “The truth.”
+
+“But... but I can't tell him that I forgot about him! It makes me feel bad just knowing I did forget him... how is Donan going to feel if I tell him that?” Ren said, exasperated.
+
+Lucy shook her head. “Come on, Ren. If someone did that to you, would you want them to make up excuses?”
+
+Ren opened his mouth and then closed it. “Yeah, you're right.” Ren sighed and hunched over a little bit. “Plus, I'm a horrible liar.” Ren said and smiled.
+
+“Yes, you are.” Lucy said and turned Ren around. “Now go in there and be honest with him.”
+
+“You... you're not coming?” Ren stammered and looked over his shoulder.
+
+“I'll be right here if you need me, but this is a moment that should be just between the two of you.” Lucy said and tried to give Ren a little shove. Ren didn't budge, however. He really is a lot stronger than me in here. Lucy thought.
+
+Teepo hopped out of Ren's hood and landed on Lucy's shoulder. “She's right.”
+
+Ren sighed and straightened his back. “Okay. Here I go.”
+
+Ren walked the rest of the way and then cautiously stepped into Donan's shop through the double wide entryway. Ren could hear metal being pounded on an anvil and looked over to Donan's regular working spot. Donan stood there with his back to Ren and was hammering something that Ren couldn't see clearly.
+
+“So... the prodigal hero returns to grace me with his presence.” Donan said without turning around.
+
+Ren winced at the disappointment that oozed through the room and hit Ren in the face. “I have a really good explanation for not coming sooner, Sir.” Ren said in as respectful a voice as he could muster.
+
+“Alright then.” Donan said and put his hammer down on the anvil. Donan turned around and crossed his arms, making himself an imposing figure. “Let's hear it.”
+
+Ren squared his shoulders again. “I forgot.”
+
+Donan had a shocked look on his face. “You... you forgot?!?”
+
+Ren nodded. “Yes, sir. I won't make excuses. After I woke up in the mansion and several other things happened, I needed to get away from the city for a while. It never even crossed my mind to come and see you.” Ren said. “I should have come to you first, to let you know I was leaving for a while.” Ren bowed deeply. “All I can offer is my sincere apology, Sir.”
+
+Donan uncrossed his arms and walked heavily towards Ren. “Did you know that I came to see you while you were healing at the mansion?”
+
+Ren shook his head. “No one told me, Sir.”
+
+Donan snorted. “That doesn't surprise me. I guess they didn't tell you that Sally came to visit, either.”
+
+Ren looked at Donan in surprise.
+
+Donan smirked. “Yeah, I didn't think so. They don't think of us working folk as real, you know?”
+
+Ren nodded.
+
+“I'd heard you woke up... and then saw you running around town... but you didn't come here once.” Donan said and scowled down at Ren.
+
+“You do realize that I've had to do all the work here by myself.”
+
+Ren nodded.
+
+“I even had an order for a thousand short swords... that I couldn't do.” Donan said without inflection in his voice.
+
+“I didn't know that... but that's no excuse. I've been negligent in my duties as your apprentice. I'll do anything you say to try and make it up to you.” Ren said. Ren lowered his head again then said something that hurt to have pass his lips. “I... I won't even protest if you don't want me to be your apprentice anymore.” Ren clenched his teeth so that he wouldn't start crying in front of Donan.
+
+“Well... it would be quite the punishment to take that from you.” Donan said.
+
+Ren felt a couple tears fall from his face and they hit the floor. Donan reached out a hand to rest on Ren's shoulder.
+
+“That would be too harsh to do to you.” Donan said and made Ren stand up. “If my mentor had tried to take that title away from me when I was his apprentice, I'd have hollered and cried and screamed at him for being an idiot.” Donan said and grinned. “You wouldn't do that to my face, would you... but you'd be thinking it.”
+
+Ren nodded and Donan laughed a big belly laugh.
+
+Donan ruffled Ren's hair. “I know Adventurers need to travel sometimes... and I knew you would come back... eventually.”
+
+Ren chuckled and took out the 15 gold coins that Lord Eric had paid him for the Aurora Expedition.
+
+“This is yours.” Ren said and handed over the 15 gold coins.
+
+“What's this? Are you trying to bribe me?” Donan said and almost shouted the last word.
+
+“No... of course not.” Ren said and Donan calmed down. “That's the fee Lord Eric paid to have a blacksmith along on the Aurora Expedition.”
+
+Donan tried to hand it back. “No, you earned this. If I hadn't sent you in the first place, you wouldn't have been hurt and stuck in the mansion all that time.”
+
+Ren refused the money. “If you hadn't sent me, I wouldn't have learned a ton of new skills that I wouldn't have learned otherwise. Plus, Lord Eric hired your business and I'm your apprentice. It's your money.”
+
+Donan grinned and kept the money. “I'm glad you were honest about it.”
+
+Ren raised an eyebrow.
+
+Donan chuckled. “I had a bet going with all the other shopkeepers that you would tell me about the fee. They bet that you would just keep it and not say anything... and now you're giving it to me because you believe it's mine.” Donan laughed. “That's pure honesty right there.” Donan turned around and went to a cabinet next to his work station. Donan put the money inside and came back with something he hid behind his back.
+
+“Now that that's out of the way, here you go.” Donan said and handed over a sack of gold coins.
+
+Ren stared at the gold. “What... what's this?”
+
+“You remember all those chef knives you made from your poor quality ingots the last time you were here?” Donan asked and Ren nodded. “I sold them all.”
+
+Ren's eyes widened as he looked at the gold and then at Donan.
+
+“I know you gathered the materials and did the forging; but this is my shop, and I worked hard to sell them all.” Donan said. “All your other ingots are still here, btw. I kept half of the profits... some of which was to cover the storage.”
+
+“That's only fair, Sir.” Ren put the money into his coin pouch and 53 gold was added. Ren now had 1 Platinum, 37 gold, 20 silver, and 25 copper.
+
+Donan clapped Ren on the shoulder, but Ren had seen it coming, braced himself and didn't stumble this time. Donan smiled again. “Now... lets get to work, shall we? A thousand short swords aren't going to make themselves.”
+
+New Quest!
+
+You have to help Donan complete a nearly impossible task.
+
+Make 1000 short swords in the alloted time frame.
+
+Difficulty: A
+
+Rewards: ????
+
+Penalties for Failure: ????
+
+Ren stared at Donan. “What? I thought you said you couldn't fill it?”
+
+“I couldn't... but with you here, I can beat the delivery due date.” Donan said and grinned.
+
+“When is it?” Ren asked, knowing it was going to be ridiculous.
+
+“2 days from now.” Donan shook Ren's shoulder. “Come. I'll show you what to do and we can get to work.”
+
+“That sounds great... but can you wait for just a minute? I have someone waiting outside.” Ren said, sheepishly.
+
+Donan let Ren's shoulder go. “Make sure you tell her you're going to be busy for a while.”
+
+Ren stared at Donan. “How... do you know...”
+
+Donan laughed. “I've impressed you with my magical perception powers, haven't I?”
+
+Ren nodded.
+
+Donan turned around and led Ren over to his work station. Donan had Ren stand in his spot and Donan pointed. Right at Donan's eye level was a mirror pointed slightly to the left. Ren stepped up in his toes and hoisted himself up a bit and could clearly see the whole shop and most of the street outside... including a patiently waiting Lucy.
+
+Ren laughed. “That's both smart and sneaky.”
+
+“Go on and talk to your girl.” Donan said and pushed Ren towards the entryway. “We need to get started right away.”
+
+Ren went outside to Lucy and Teepo.
+
+“How did it go?” Lucy asked and Ren smiled.
+
+“It was torture at first. I even offered to let him take the apprentice title back.” Ren said.
+
+“What? Why would you do that? That's like a game enhancer, isn't it?” Lucy asked.
+
+Ren nodded. “I just wanted to apologize for forgetting him all this time, and if he didn't want me as an apprentice anymore, that I'd understand.”
+
+“Obviously, he refused.” Lucy said, confidently.
+
+Ren nodded again. “Yep. In fact, I need to get to work. We've got a big order due in a couple of days so I'm going to be busy for a while.”
+
+Lucy nodded. “It figures... but at least it's working out well.” Lucy said and touched Ren's arm. “I was trying to figure out how to tell you I had to go myself.”
+
+Ren raised both eyebrows.
+
+“I got my new schedule, remember? I have to get a good night's sleep if I want to make it to work in the morning.” Lucy looked around. “It must be after midnight out there.”
+
+Ren nodded.
+
+“Thanks for showing me around. I had fun shopping, even though we had to cut it short.” Lucy said.
+
+“Oh yeah! Just a second.” Ren said and took out the mundane necklace that he had bought at General Goode's General Goods. Ren looked at his Mana bar and saw it wouldn't be enough for what he planned and took out another Mana potion.
+
+Lucy looked at it and then at Ren. “I thought you told the Sage that fourth Mana potion was the last one you had?”
+
+Ren grinned. “She would have taken all of the ones I had if I hadn't haggled a better price.” Ren said and drank it. A fifth of Ren's mana was restored and Ren took out his Book of Runes. Ren flipped through the book until he got to the protection rune. Ren fixed the 4 rune glyph in his mind and enchanted the necklace. The rune etched itself onto the front of the amulet and Ren smiled when it didn't explode or melt. Ren identified it.
+
+Notice!
+
+Infusing this amulet with mana has activated the residue of a previous enchantment.
+
+Ren's eyes widened when it was identified.
+
+Shadow Necklace of Protection
+
+This mundane necklace has been enchanted with a powerful protection glyph.
+
++40% to Defense
+
++10% to all stealth abilities.
+
+Ren grinned and gave the necklace to Lucy.
+
+“Ren! I... I can't accept this. You keep it.” Lucy said and tried not to take it.
+
+Ren shook his head. “I bought it for you. I enchanted it with protection so that if I'm somehow not around, I can still protect you.”
+
+Lucy's face flushed a little red, but she didn't completely blush as she bent over to let Ren put the necklace around her neck. Teepo took this opportunity to hop off of Lucy's shoulder and into the hood of Ren's cloak. Lucy stood up straight and fondled the amulet.
+
+“Thank you, Ren.” Lucy said in a soft voice that made Ren's heart flutter a little, because Lucy's voice had sounded slightly seductive. Ren got a popup, but ignored it.
+
+They stared at each other for a minute, then Lucy broke the silence.
+
+“Um... where do I go to log out here?” Lucy asked and looked around. She didn't see an inn anywhere close by.
+
+Ren smiled. “This is a safe zone, so you can just sit right here by the building and log off like I used to do.”
+
+Lucy looked skeptical at first, but then remembered that Ren used to just log off anywhere he wanted to and didn't even use a bedroll.
+
+“You don't have to worry. I'll be right inside for the next week, at least.” Ren assured Lucy.
+
+“Okay.” Lucy sat down next to the building. “See you in a few days.”
+
+“I'll be here.” Ren said.
+
+“Logout.” Lucy said and Ren watched as her body became immaterial like a ghost. Ren reached out and tried to caress Lucy's cheek, but his hand went right into her face. Ren pulled his hand back and went inside. There was work to be done. Ren left Lucy's side and went in to learn how to make a short sword from Donan. Ren felt a little out of practice because it had been so long since he'd forged anything. Ren went to take off the hooded cloak and Teepo hopped out of the hood and onto Ren's head. Ren put the cloak into inventory and got a popup.
+
+Notice!
+
+The skill Aura Level 3 (Beginner 0%) has been deactivated. This skill cannot be activated again until the basic requirements have been met.
+
+Ha... I forgot I still had that ability on. Ren thought as Teepo crawled down to his shoulder. I guess that's what the popup window was for. It had leveled up again
+
+Donan nodded to Ren and went to the secondary forge that Ren had used before. Ren pumped the bellows as Donan melted 2 blanks he took from a huge bin. Instead of just hammering it into the proper shape, Donan put a stone mold down next to the forge that was in the general shape of a sword.
+
+“Hammering the shape out would take too long and would weaken the blade. Some hammering is needed if there's any impurities in the metal... but otherwise you just melt and pour. Once we get them all done, we can worry about strengthening and sharpening them.” Donan said and used his pliers to pick up the cooling blade and dunked it into a barrel of oil. After a few seconds, he took the blade out and it lit on fire.
+
+“Still too hot.” Donan dunked it again and waited a few more seconds, took it back out, and it didn't go afire. Donan nodded and flicked the blade over the barrel to shake off the excess oil, then wiped the blade off. “There we go. An unfinished short sword.” Donan tossed it into a small pile that was in the middle of the room. “Keep doing that. With the 2 of us working day and night, we might just finish the order.”
+
+Ren stood there for a minute to think. Half the time we're melting the blanks, we're pumping the bellows to keep the heat up... Ren thought then had an idea... or at least modified an idea he'd had before.
+
+“Donan... I discovered something while I was away and I wondered if you'd let me do some... experimenting on this forge.” Ren said.
+
+Donan looked at Ren and shrugged. “As long as you don't ruin it, or... God's forbid... break it... you can do what you want with it.”
+
+Ren grinned and Donan went back to his own forge to continue working. Ren stared at the forge, trying to determine how it was put together. Ren used his tongs to shift things around so he could see what was on the inside. Ren ignored the bellows because they wouldn't be needed anymore if the experiment was a success. After about 20 minutes of checking over the forge, Ren got a popup.
+
+Notice!
+
+You have learned the plans for constructing a basic forge.
+
+Ren smiled and opened the plans. Yes, the stone bricks needed to be stacked this way and that way to keep the heat concentrated... but if the edge of this brick and this brick were trimmed just a little and then if this one and this one was enchanted with wind, and the side ones were enchanted with fire...
+
+When Ren was finished, he got another popup.
+
+Notice!
+
+You have learned the plans for an enchanted forge.
+
+Stat Change!
+
+Intelligence +2
+
+Ren drank another Mana potion and another fifth of his mana was restored. Ren took the smelting apparatus off the top of the forge with thick gloves and put it aside. Ren opened up the end of the forge and used a small shovel to clean out the coals into a bucket.
+
+Donan heard the clinking of the coals and turned to see Ren emptying the forge. Donan's eyes bulged as Ren undid an hour's hard work of prepping the forge, and then stared as Ren moved the bellows away. Donan forgot to continue working and shook his head in disbelief as Ren used a thick cloth doused in oil to cool off the stone bricks.
+
+He's lucky that cloth didn't catch on fire. Donan thought as Ren finished wiping off the coal residue from the bricks.
+
+Ren needed it to be clean for his idea to work. Ren took the top row of stone bricks to the stone grinding wheel in the corner and ground off the edge just enough so that when placed back on top of the forge, it would point slightly downwards. The stone bricks were designed to withstand really high heat so Ren enchanted quadruple fire rune glyphs on each of the side bricks, and then quadruple wind rune glyphs on the end bricks. Ren placed the sanded down bricks on the top, angled inwards, to keep the heat concentrated and to stop the wind glyphs from blowing the fire everywhere. Ren wasn't sure if it was really necessary to do that, but it was better to be safe than sorry. Ren really hoped that this worked and leaned over the forge to speak.
+
+“Activate.”
+
+A blast of heat hit Ren and he recoiled in shock. Ren had lost about 10% of his health. I... probably shouldn't have leaned over so closely to see if it would work. Ren thought.
+
+Stat Change!
+
+Wisdom -2
+
+Luck +1
+
+Ren reached up and touched his face. “Ow.” Ren said and looked over at Donan who started to laugh.
+
+“That... that might take a while to grow back.” Donan said between laughs and pointed to his own eyebrows.
+
+Ren reached up and felt his face. Dammit. Yep, they're all gone.
+
+Teepo chittered in laughter when Ren turned to look at him.
+
+“Hey... it's not that funny.” Ren said, but both Donan and Teepo kept laughing.
+
+Of course, once others were laughing it was hard to not join in. Ren had to laugh with them and they stopped a few moments later.
+
+“Okay, okay... that was stupid of me.” Ren said. “But I wanted to make sure it worked.”
+
+“Just use a piece of wood or a set of tongs next time.” Donan said and smiled.
+
+Ren nodded and put the smelting apparatus back on top of the modified forge. After only a minute it was hot enough for Ren to start smelting. Ren grinned as the blanks he added to the crucible melted slightly quicker than they did with the normal forge and Ren skimmed off miniscule bits of impurities and poured it into the short sword mold. While Ren waited for it to cool slightly, 2 more blanks were put into the smelter. Ren took the short sword with tongs and did the same trick with the oil barrel that Donan did, wiped the blade off and tossed it into the pile. Ren turned around and took the crucible with the same tongs, saw no impurities and poured it into the mold. Donan was still staring at Ren and how fast he was working.
+
+“We'll never finish if you just keep staring at me.” Ren said as he dipped another sword into the oil.
+
+Donan shook his fist at Ren and made Ren laugh. Soon after that, there was silence, except for the clanking of the swords after being made and Ren activated Serene State of Mind. Ren and Donan worked continuously throughout the night. Teepo had jumped off Ren at some point and had explored the whole shop. When Teepo crawled back onto Ren's shoulder, Ren heard a shout.
+
+“Breakfast!” Donan said unexpectedly.
+
+Ren was shaken out of Serene State of Mind and took the sandwich that Donan passed him. “Isn't this your lunch?” Ren asked as he bit into the sandwich. Ren hadn't eaten since the morning before, but didn't get a Rationing popup. It'll take a lot longer now that it's Intermediate, I guess. Ren thought and kept chewing.
+
+“Ha! You catch on quick.” Donan said and ate a similar sandwich. “We'll have to stop and eat a proper meal by then, anyways.” Donan said. “I'm not as young as I used to be.”
+
+Ren laughed and almost choked on the sandwich. Donan smacked Ren on the back and Ren swallowed. “Geez, don't make me laugh when I'm eating.” Ren said and Donan laughed.
+
+Donan stopped laughing when he got a good look at Ren's face. “I'll be right back.” Donan said and left the building.
+
+Ren was puzzled at Donan's abrupt departure. I wonder what's gotten into him?
+
+“Maybe he's getting the food for lunch?” Teepo offered.
+
+Ren finished the sandwich and he gained another 40 points. Ha. Almost as good as a weak healing potion. Ren thought as Donan came back into the blacksmith's shop with someone right behind him.
+
+“There. Look.” Donan said and the person stepped out from behind him.
+
+The man wore a bright white tunic that had a big red cross on it. “Yes, I see. You were right to come and get me as soon as you did.”
+
+Ren stared at the man as he raised hands to Ren's face. They glowed and Ren felt that familiar tingle cover his face and some of his neck. Ren watched as his Health bar filled fairly quickly and when it was done, Ren's Mana Pool started to fill as well. The healer's eyes widened as Ren absorbed more and more of his mana. After a few more minutes, Ren's Mana Pool was full and the healer's hands stopped glowing.
+
+“You must have been hurt a lot more than I could see.” The healer said.
+
+“I told you that it was bad. When it first happened, it was funny and looked okay... but once I saw it in the daylight...”
+
+“How much?” Donan said and reached into his money pouch.
+
+“Let's say 2 gold... but only because it took nearly half of my mana to heal him.”
+
+Ren stared at the healer as Donan passed over the 2 gold coins. Boy, was Lucy right or what! Ren thought as the healer took the money, nodded to Donan and left. I really, really overpaid that healer, Camilla. Ren thought and smiled. “Thanks, Donan.” Ren said and tried to hand over 2 gold.
+
+Donan shook his head. “Keep your money. You were hurt in my shop.”
+
+Ren chuckled. “I was acting stupid in your shop.”
+
+“Well, you can just act stupid again.” Donan said.
+
+Ren looked at Donan in confusion. “What do you mean?”
+
+“I want you to change my forge, too.” Donan said and grinned.

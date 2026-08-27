@@ -1,0 +1,269 @@
+---
+id: cc9f404d-bd3d-5612-a051-067338055852
+page-type-slug: story-chapter-royal-road
+title: "Chapter 590 - Fight Because You're Right"
+slug: 0590-chapter-590-fight-because-youre-right
+partOf: mythrans-master-of-all-continued-completed
+position: 590
+ownLength: 2680
+unit: words
+publishedAt: 2018-05-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216694/chapter-590-fight-because-youre-right"
+royalRoadId: "216694"
+---
+
+Gloria had logged out and figured she needed to wait for 45 minutes, just in case there was a problem with the game update, then looked at the time on the wall and sighed. It was way too late to call or text anyone, since they would all be in bed. That reminded her to check her phone, and she did so for the first time since yesterday.
+
+It was then that she noticed that both her ringer and the vibrate function were turned off, and kicked herself mentally for doing it. She turned both back on, then checked to see how many calls and texts she had missed. When she saw the deluge of them she had received from both Stella and Elise, she sighed again.
+
+“Damn, I messed up again. I completely forgot I was supposed to work with Stella today.” Gloria said and waited for the game's update to finish, then logged back in to send a message to Ren. She dismissed the popup for the World Event: Water Works without reading it and waited for Ren's response. When it didn't come, she wondered if he had logged back in at all. She logged out again and opened up her hacking tools, and pinged his Player ID.
+
+“Dammit, he's not back in yet.” Gloria said when there was no response to her query. “He usually stays in overnight, so something must be going on.” She picked up her phone and checked all the messages again. No details were given, only that she should call or text as soon as she could. It was against her better judgment, since she knew everyone was in bed; but, she hit reply and sent off a short text to Stella.
+
+She wasn't going to get a response.
+
+Gloria had been right about Stella, and she was unconscious at the moment. Lisa on the other hand had heard the beep from Stella's phone on the nightstand beside the bed. She was currently locked in a tight embrace with the other woman, and not only couldn't she move, she didn't want to. Not in the least. The only other time she had been held so lovingly was by Ren, and she wasn't going to interrupt that just to see who was being an ass by texting so late at night.
+
+*
+
+Ren, Elise, and Barbara had talked for the entire time and discussed different things, and Elise mentioned seeing Stella and Lisa talking. Ren knew what had happened, so he gave them a condensed version of the events that Lisa had been through.
+
+“That poor girl.” Barbara said. “I hope she's okay.”
+
+“If Stella's looking after her, she's going to be fine.” Ren said. “Stella kind of has a knack for these things.”
+
+“I assume you know this from personal experience?” Elise asked, and Ren nodded.
+
+“She helped me a lot after... well, my Lucy phase.”
+
+“A phase? I believe that's what's called a 'dumpster fire'.” Barbara said.
+
+“Yeah, it was a complete disaster that no one wanted to deal with.” Ren chuckled. “Me least of all.”
+
+“You're okay now, though.” Elise said, and Ren sighed. “Ren?”
+
+“It's always going to be a sore spot for me.”
+
+“That doesn't mean you're not okay.” Elise said. “You've got us here to help you whenever you need us.”
+
+“Thanks...” Ren pat her arm. “...and thank you for staying awake with us this whole time.”
+
+Elise smiled. “Did you expect me to sleep right here in your bed and ignore you?”
+
+“Kind of. I just assumed you were exhausted after being up all day, and I wouldn't have held it against you if you dozed off.”
+
+Elise leaned over and gave him a kiss. “I'll pay for it tomorrow, but I wouldn't have missed this time with you for anything.”
+
+“Well, since I'm technically your boss, I hereby grant you a short reprieve.” Ren said and preened a little. “You can show up for work half an hour late, and I won't report you for slacking off.”
+
+“A whole 30 minutes!” Elise exclaimed and started to tickle him. “Why, thank you sir!”
+
+Ren laughed and squirmed around.
+
+“I'll be sure to use the extra time off wisely.” Elise said and her tickles became caresses, then she snuggled in and gave him a hug.
+
+“Okay, you can have 45 minutes.” Ren said, and Elise laughed.
+
+“Always so generous.” Elise said and let him go, then helped him put on his VR headset. “Have fun.”
+
+“You know I'm joking, right?” Ren asked. “You can sleep in for the whole day if you want to.”
+
+“I would, if I could spend it with you.” Elise said and kissed his cheek.
+
+“I believe that can be arranged.” Ren said with a smile. “Flow Login Start.”
+
+Elise looked at his inert form and then at Barbara. “I was kind of joking. I've got too much to take care of to take the whole day off.”
+
+“I'm sure he knows that; but, you should be more careful what you ask for.” Barbara smiled, and Elise nodded. Now she had to figure out if she could shuffle a few things around in case Ren took her up on her offer.
+
+********
+
+Ren appeared in the white loading area for the game and received a popup.
+
+System Notice!
+
+Welcome, Adventurer!
+
+It's time for you to experience what it's like to be at the mercy of one of the most powerful elements that exist! It can cause such havoc that people flee from it's churning! It can accumulate so quickly that entire counties can be flooded in mere minutes! It can even carve into solid rock and wear it away to dust!
+
+Beware the power...
+
+...of Water!
+
+“That's a little dramatic, isn't it?” Ren asked.
+
+System Notice!
+
+The World Event: Water Works is now in effect. New quests, content, and dialogue is available from all NPCs. New weaponry, armor, equipment, and artifacts will be available as the event progresses.
+
+Warning: Occasional inclement weather will cause some quests to become unavailable until it ends.
+
+Good luck, and have fun!
+
+“I wonder if the new things will be available for player characters that craft things?” Ren asked himself, then the bedroom faded in around him. “Hi, Teepo.”
+
+“Hi, Ren!” Teepo said.
+
+Ren sat up and saw Denise's phantom form beside him, and he smiled at it. He opened the Home Owner's menu and added Denise as an occupant to the house, and the small key appeared around her neck. He closed the menu and noticed the new message icon on his display and tapped it.
+
+To Ren:  I finally logged back in and you weren't here. Please message me back and let me know when you can see me. - Elerlyth
+
+Ren looked at the timestamp and saw it had been sent after the update. He clicked reply and said he had just logged back in, and he could meet her right now if she wanted. He didn't get a response, so he closed the messaging system and got out of bed. He equipped his platinum armor and left the bedroom, then went down the stairs. “Hi, Artemis.”
+
+“Hi, Ren.” Artemis said. “I think it's getting cloudy out.”
+
+“What?”
+
+“I can see out the windows, and something keeps passing over the sun.”
+
+Ren went outside and looked up, and saw there were large billowy clouds floating through the air. “So, they really did add the potential for random storms.”
+
+“It looks like it.” Elerlyth said, and Ren turned around to see her. She looked a little angry, and he could feel it; but, it wasn't necessarily directed at him.
+
+“Hi!” Ren said enthusiastically and walked over to her to give her a hug. “When you didn't message back, I thought I had missed you.”
+
+“I've been running errands while I waited for you and came right over when I got your reply.” Elerlyth said.
+
+“How did you know I was here?” Ren asked and let her go, and she looked at him like he was stupid. “Yeah, sorry. Stupid question.”
+
+“Uh huh.” Elerlyth said. “Who was your date with?”
+
+“Denise.” Ren said. “I spent the whole morning with her, then had to log out because of the update.”
+
+The whole morning? Elerlyth thought, a little surprised. She had assumed she was the only one that could take being with him for more than a few hours. “I hope she had fun.”
+
+“I made sure she did.” Ren said and grinned. “So, what's this news you have to tell me?”
+
+Elerlyth glanced at Artemis, who covered her ears.
+
+“Go ahead. I can't hear anything. La lala lala.” Artemis said and turned around to face down the street. Ren laughed and Elerlyth sighed.
+
+“Yes, I know I'm being silly.” Elerlyth said. “Ren, I... I had a job interview.”
+
+“Hey, that's great.” Ren said. “What kind of job is it?”
+
+“Tech design, specifically microchips.” Elerlyth said. “I spent the whole day at the company taking a tour.” She said. “I was even in a clean room and they showed me some of the things I'd be working on.”
+
+“The whole day?” Ren asked. “You must have had your phone off.”
+
+Elerlyth nodded. “I didn't realize I had the ringer and the vibrate functions off.”
+
+“Is that why you didn't answer today?” Ren asked, and she nodded. “Then... when did you know you'd be going to the tech company?”
+
+“Yesterday.” Elerlyth said. “I did a crap load of research most of the day to prepare for it.”
+
+“I guess that makes sense to know everything you can for a job interview.”
+
+“I didn't!” Elerlyth exclaimed. “He surprised me during the tour!”
+
+Ren frowned a little. “Then why do all the research?”
+
+“So I could ask relevant questions.” Elerlyth said. “I didn't want to get caught not knowing something.”
+
+Ren stopped frowning and gave her a blank face instead. “So, you knew yesterday and didn't say anything to anyone.” He said, and Elerlyth sighed. “You do realize you were supposed to work with Stella today.”
+
+“Not until I got home a little while ago.” Elerlyth said. “Ren, I know I messed up.”
+
+“Yeah, and it looks like you did it on purpose.” Ren said. “Why?”
+
+Elerlyth opened her mouth to respond, and sighed again. “I was just too excited about the prospect of seeing inside a tech company that's developing new technology.”
+
+“So excited by it that you didn't want to tell anyone about it? Not even your current boss or main squeeze?” Ren asked, and she didn't respond. “Should I even ask what the company is?”
+
+“DewTech, and Barley Bitterdew is the owner.” Elerlyth said. “It's okay, though. I didn't find any connection to you during my research.”
+
+Ren let a smile appear on his face. “That's because the court case hasn't happened yet.” He said, and her dark grey face turned lighter. “He's one of the two litigants in a patent case coming up next month, and it's based on technology developed from a few of the experiments performed on me.”
+
+“N-no. That's not true!”
+
+“Oh, but it is.” Ren said. “I hate to burst your bubble, Elerlyth, I really do. If you'd taken a few seconds last night, or even this morning, to let us know where you were going, we could have warned you before you got so excited.”
+
+“No, it... it's a great job with... tons of opportunities and... and money...”
+
+“Uh huh.” Ren said. “Is that what you want? Opportunities and money?”
+
+Elerlyth didn't say anything, and he shook his head.
+
+“I thought I was giving you those things, but I guess it wasn't enough.”
+
+“Ren, it's not like that.” Elerlyth tried to defend herself. “It would take me years, maybe even a decade, to get this kind of a job offer!”
+
+“Yeah, I know. Why are you getting the offer now?”
+
+“The Dean of Sciences at the college put in a good word for me!” Elerlyth said. “They've been reviewing your research project...”
+
+“Goddammit!” Ren said and made his hands into fists as he gained the Angered condition, and Elerlyth heard all of his knuckles crack. “Elerlyth, turn the job down. Politely decline, tell them to kiss your ass, spit in their faces, anything!”
+
+“Ren, I...”
+
+“They are trying to get to me through you! Can't you see that?!?”
+
+“This isn't always about you!” Elerlyth said, and Ren laughed.
+
+“You're kidding, right?” Ren said. “It's always about me! It always is!”
+
+“You're pretty full of yourself, aren't you?” Elerlyth sneered. “The whole world doesn't revolve around you!”
+
+“Yes, it does!” Ren said. “This whole world exists because of me! ME!”
+
+He really believes that. Elerlyth thought in surprise, and she could feel his deep seated rage. It started to scare her. “Ren, calm down.”
+
+“No! You have to listen! Don't take that job!”
+
+“I'm a grown woman, Ren. I can make decisions on my own, thank you.”
+
+“Uninformed decisions! Flights of fancy! Craziness without reason!”
+
+“REN! SHUT UP!”
+
+“NO! I'm tired of staying quiet!” Ren said. “I forbid you from taking that job, Elerlyth! Don't take it!”
+
+“You can't tell me what to do!”
+
+“I'm not telling you, I'm warning you! You're making a huge mistake!”
+
+“It's my mistake to make!” Elerlyth said.
+
+“No, it's mine! Mine, goddammit!” Ren nearly yelled. “Don't make me hurt you!”
+
+Elerlyth took two steps back and equipped her armor, then took a fighting stance.
+
+“Not like that, stupid!” Ren said, derisively. He had never spoken to her in a tone like that before, and it unnerved her.
+
+“Who... are you?” Elerlyth asked as she stood up straight.
+
+“I'm me.” Ren said as he felt her emotions, and calmed down. He lost the Angered condition, and sighed. “I'm someone that loves you, and I don't want to ruin your life.” He said and rubbed his face, then ran both hands through his own hair to fluff it up. “Elerlyth...” He stepped close. “...Gloria... please, listen.”
+
+Elerlyth stared at the person in front of her as she felt his emotions, and she didn't recognize him.
+
+“When it comes out what they did to create the technology they're using...” Ren sighed. “...it's going to destroy that company.”
+
+“I think you're overestimating...”
+
+“Why? Why are you trying to deny this? Why are you denying me when you can feel what I feel?”
+
+“I... I don't...” Elerlyth sighed, too. “I don't know you anymore. Those old emotions are there, but... you feel almost completely different from the last time I was near you.”
+
+“That's because I really am me, now.” Ren said. “The Ren you know is still here, but he's complete. He's not fragmented or tormented anymore.”
+
+Elerlyth blinked her eyes for several moments and just let his emotions wash over her. She knew he was telling her the truth, and she also had no clue how it was possible.
+
+“Call Stella first thing in the morning, and she'll tell you everything that's happened.” Ren said. “Then call Elise and she'll tell you about the legal side of things.”
+
+“Ren...”
+
+“No, I won't discuss this with you anymore, because you know I'm telling you the truth, and yet you won't believe me.” Ren said and stepped around her. “So, I'm done talking.”
+
+“Ren!”
+
+“Done. Talking.” Ren said and kept walking, and Artemis walked beside him. She hadn't turned around once while they were discussing things, and Ren let her feel his appreciation as they walked down the street together.
+
+“Where are we going?” Artemis asked.
+
+“To the business.” Ren said. “I've got to try and figure out what new things are available to be made, or I'll start losing business.”
+
+Artemis chuckled. “You haven't lost business yet, and you don't even have some of the more powerful things you can make for sale.”
+
+“That's because no one can afford them.” Ren said. “I'd put myself out of business if I start stocking items that no one can buy!”
+
+Artemis and he laughed as they walked to the Artesian District, and people nodded or waved to him, then started to whisper behind his back.

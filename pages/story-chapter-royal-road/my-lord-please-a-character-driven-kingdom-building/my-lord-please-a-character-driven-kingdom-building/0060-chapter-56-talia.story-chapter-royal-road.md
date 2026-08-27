@@ -1,0 +1,291 @@
+---
+id: eb456799-0e61-519e-8f72-f827a8ebdfa4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56 Talia"
+slug: 0060-chapter-56-talia
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 60
+ownLength: 2274
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3375779/chapter-56-talia"
+royalRoadId: "3375779"
+---
+
+“…Senior?”
+
+The word lingered in the air between them.
+
+Lucien’s gaze did not waver. In that instant, there was no uncertainty left. There was only one person who had ever addressed him that way across both worlds.
+
+“…Junior?” The response left him before he had time to consider it.
+
+For several breaths, neither of them moved. They simply stood there, as though breaking the moment too quickly might cause it to collapse into something less certain.
+
+Then, as before, it was Talia who moved first.
+
+“Senior...!”
+
+She stepped forward at once, arms opening as she closed the distance between them, the motion bright and unrestrained in a way that felt entirely like her.
+
+Lucien shifted, just a little. It was a small movement, instinctive, made before his thoughts could intervene.
+
+She stopped, her arms lowering slowly while her eyes narrowed at him. "...You were going to dodge, weren't you?"
+
+"No, I was preparing to receive you." Lucien replied automatically.
+
+She held his gaze, clearly unconvinced. “...Don’t dodge, okay?”
+
+Then she moved again, jumping for real this time.
+
+Lucien stepped aside.
+
+She missed him entirely, catching herself against the wooden floor with a soft thump as though some part of her had expected it.
+
+“Aah! You dodged!” she exclaimed, pushing herself up with a huff. “You actually dodged! That’s so mean!”
+
+“...It was a reflex,” Lucien replied. He felt a trace of guilt, though not very much considering who it was.
+
+She stared up at him, her expression caught between disbelief and exasperation. “That was supposed to be a proper reunion,” she muttered, though the complaint lacked any real heat.
+
+There was a faint tremor at the edge of her voice, something she did not quite manage to hide. The corners of her eyes glistened, even as her smile refused to disappear.
+
+Lucien stilled, then stepped closer. Despite the time that had passed, the familiarity of it felt both distant and immediate.
+
+“Even here,” he said quietly, “you're still as noisy as ever.”
+
+Talia let out a small breath that might have been a laugh, lifting a hand briefly toward her face as if to steady herself. “And you’re still the same,” she shot back. “Seriously...not even a little?”
+
+Before he could respond, the door behind him opened.
+
+“I heard a noise—”
+
+Tomas stopped at the threshold, his gaze moving from Lucien to the girl on the floor and back again, the moment stretching for several breaths.
+
+“My Lord,” he said at last, his pause just long enough to acknowledge what he had seen without commenting on it. Then he stepped back as the door closed behind him, leaving the shop in silence once more.
+
+Lucien exhaled faintly. “…You should get up now.”
+
+Talia let out a soft laugh under her breath as she pushed herself fully to her feet. “Yeah,” she replied. “Probably.”
+
+It seemed his standing as a lord would continue to be...misread in more ways than one.
+
+The silence did not last as long this time after Tomas’s abrupt exit.
+
+It settled briefly, then gave way to something quieter, more measured. The initial shock had passed, leaving behind a clarity that neither of them seemed willing to disrupt with unnecessary words.
+
+They began exchanging information naturally after that, as if they were discussing a particularly complex problem they had both encountered at work.
+
+The exchange carried a familiarity he had not expected to feel again. It seemed he had missed this more than he had realized. Judging by the faint smile on Talia's lips, he was not the only one.
+
+“...I see,” he said as the topic turned toward their respective identities in this world. “So you became Talia at the exact moment I became Lucien...Sarah.”
+
+The name left his mouth without hesitation, and despite the time apart, it did not feel foreign to him.
+
+Talia stilled at that. The ease she carried faltered, something quieter passing briefly through her expression.
+
+“...Yeah,” she replied after a beat, her voice lighter than the weight behind it. “I don’t know if it was the exact same moment, but it couldn’t have been that far apart.”
+
+Sarah.
+
+A junior who had worked beneath him, though the distinction had rarely felt that simple. She had been quick to speak, quicker to act, and far more willing to step into spaces others hesitated to approach.
+
+At some point, without him noticing, she had become someone he had grown close to in his former workplace.
+
+And now—
+
+Lucien exhaled softly. “Talia,” he corrected quietly.
+
+Her lips curved, the moment passing as easily as it had come. “You can still call me that, you know. Its not like I’ll forget.”
+
+He gave a nod at her words, though he did not repeat the name.
+
+“It suits you,” she added suddenly, her voice shifting with familiar ease. “The whole lord thing.”
+
+Lucien looked at her. “...Me? A lord?” he repeated, his tone flat. “What have you been eating in this world?”
+
+Talia blinked once, then let out a short laugh. “Hey, I’m serious!” she said, lifting a hand as if to defend her statement. “You’ve always been like that.”
+
+“Like what?”
+
+She shook her head faintly. “You never chased authority, but people kept handing it to you anyway.”
+
+Lucien considered her words with a weight he didn’t dismiss outright. “...That was a matter of circumstance,” he said at last.
+
+Talia rolled her eyes with a faint grin. “Sure. If that helps you sleep.”
+
+His gaze lingered on her for a moment longer before shifting away.
+
+There was still much he wanted to ask her. Their conversation could likely last through the day and more, but there were more immediate concerns.
+
+He decided not to dwell on the past for now, there would be time for that later. The timing of their transmigration was another matter worth noting.
+
+Instead, he turned his attention back to the present. “I came to Helvarn for trade,” he began evenly. “Ashridge requires supplies.”
+
+"I began negotiations when I met the merchants in the market," he explained, his tone measured, though there was a faint edge to it that had not been present before.
+
+“No,” Talia cut in immediately, shaking her head once as she lifted a hand.
+
+“You began negotiations when you walked through the gate.”
+
+“…What?”
+
+“Think about it, senior.” Her tone shifted as she straightened, one hand resting against her arm as she adopted an exaggerated stance, as if stepping into the role of a lecturer. “The merchants here don’t have the convenient tools we had back in our world.”
+
+Lucien’s eye twitched.
+
+His right hand moved, just a fraction.
+
+“E-erm—hm!” Talia coughed lightly into her hand, straightening at once like nothing had happened.
+
+A shame.
+
+It seemed she had noticed.
+
+“But just because they lack those tools doesn’t mean they’re ignorant,” she continued smoothly, “their skills have simply grown in a different direction.”
+
+Her words pulled his thoughts back toward something he had realized once before. Long hours spent reviewing Ashridge’s agricultural records surfaced unbidden in his mind, along with the inconsistencies buried within them.
+
+“...Information control,” he said at last, his tone more deliberate now.
+
+“From the moment I stepped through Helvarn’s gates, I was categorized as a potential customer. My actions would have been observed, noted.”
+
+“Right!” she exclaimed, nodding with satisfaction as she folded her arms. “Marketing 101. Perception is everything.”
+
+Lucien’s eyes lowered, his thoughts already moving ahead. “And by immediately moving to engage in trade. I gave them the impression that I was operating under urgency.”
+
+His voice dropped further. “That I was desperate.”
+
+Talia’s expression softened as she watched him.
+
+He exhaled softly. “So...” he muttered, the word carrying a weight he did not usually allow to surface so plainly, “I had failed before it even began.”
+
+The conversation fell still for several breaths.
+
+Then, as always—
+
+“Not necessarily.”
+
+Talia's light voice cut cleanly through it.
+
+Lucien’s gaze lifted, settling on her with a faint trace of something sharper beneath it.
+
+“We just need to shift things a little,” she continued, a grin forming. “There’s still plenty we can work with.”
+
+For a brief moment, something tightened faintly in his chest.
+
+A familiar rhythm.
+
+One he had not realized he had missed until now.
+
+“So,” she continued, the shift in her tone immediate as she leaned forward slightly, her expression turning bright once more, “Seniooor…wanna grab dinner with me?”
+
+She punctuated it with a small, playful tilt of her head.
+
+He blinked.
+
+“…Hah?”
+
+Talia only smiled, as though his confusion was the most natural response she could have expected.
+
+Lucien exhaled quietly through his nose, he had a feeling it would be something he would do often now.
+
+It seemed his junior would continue to vex him—
+
+Even in this world.
+
+Talia did not lead him back toward the inn.
+
+Instead, she turned into one of the side streets, the flow of the crowd thinning briefly before opening into a broader stretch filled with light and noise. The sounds reached them first, voices layered over one another, punctuated by the dull clatter of mugs and the low hum of evening trade winding down.
+
+A tavern stood there, its doors open to the street.
+
+Warm light spilled outward, cutting through the cooling air as people moved in and out without pause. The scent of cooked food and ale drifted into the street, carried along with the steady rhythm of conversation within.
+
+Lucien slowed as they approached. Behind them, Tomas remained at his usual distance.
+
+“Tomas.”
+
+The young guard stepped forward at once. “My Lord.”
+
+Lucien’s gaze lingered briefly on the tavern before returning to him. “Return to the inn,” he ordered calmly. “Ensure the others have settled. You will not be required for the remainder of the evening.”
+
+Tomas blinked once. Then, almost immediately, he straightened. “Understood, My Lord.” The response came a little too quickly.
+
+Lucien regarded him for a brief moment, noting the faint shift in his expression, something that did not align with his earlier insistence on remaining nearby.
+
+“...Is there an issue?”
+
+“No, My Lord,” Tomas replied at once.
+
+After a brief pause, he dipped his head and turned away, his steps carrying him back toward the street without further question.
+
+Lucien watched him before he turned back. Beside him, Talia said nothing but there was the faintest curve at the corner of her lips.
+
+She stepped forward as if nothing of note had occurred, pushing the tavern door open.
+
+The sound changed at once as they entered.
+
+Where the street carried noise outward, the tavern gathered it instead. Voices overlapped beneath the low rhythm of evening activity as merchants, travelers, and laborers filled the room.
+
+Warm lamplight cast uneven shadows across the interior, leaving parts of the tavern dim while others remained clearly visible.
+
+Talia moved through the space with familiarity, weaving easily between tables before stopping near the side of the room where conversation could be held without complete isolation.
+
+Lucien followed, taking his seat across from her.
+
+She leaned forward, one elbow resting lightly against the table as her gaze swept briefly across the room before returning to him. “So, what have you got to work with in Ashridge?”
+
+He regarded her for a moment before answering. “Very little that holds immediate value in a conventional exchange. Ashridge’s current output is limited.”
+
+Talia hummed softly. “Food, tools, manpower...those take time to scale,” she murmured. “So short term leverage is what you need.” Her eyes lifted back toward him. “And do you have anything that’s...unusual?”
+
+He rubbed his chin briefly before answering. “Two variant corpses.”
+
+Talia stilled at that as her attention sharpened. “…Oh.”
+
+Her posture shifted as she leaned forward slightly. “That’s...actually kinda significant,” she admitted.
+
+Lucien’s gaze narrowed. “Explain.”
+
+“They’re valuable,” she replied simply. “More than most people here would admit outright.”
+
+Her fingers tapped lightly once against the table. “The hides can be processed into leather. Stronger than normal leather, some of the smiths and armorers pay well for that.”
+
+Talia's gaze shifted briefly before returning to him. “And the rest...I don’t know everything. But I’ve seen buyers come through asking for specific parts. For mages back in the heartlands, I think.”
+
+His eyes sharpened at that. “So it's confirmed then. Magic exists in this world.”
+
+“Yep. Though I haven’t seen it myself,” she admitted, leaning back in her seat. “But people talk about it like it’s normal.”
+
+She tilted her head. “Just not here. Or at least, not often enough to matter.”
+
+He absorbed that in silence, filing it away for future reference.
+
+Across from him, Talia’s demeanor softened, the sharper focus easing as something lighter returned to her expression.
+
+“Oh, but don’t do anything trade-related tomorrow, kay?” she declared.
+
+“...What?”
+
+“Seriously,” she continued, raising a hand. “No merchants. No negotiations. Nothing.”
+
+Her lips curved as she leaned back. “Just walk around Helvarn. Leisurely.” She placed just enough emphasis on the last word for it to stand apart.
+
+Lucien regarded her for a moment before responding. “To reset the board?”
+
+Talia’s smile widened. “Sooomething like that.”
+
+She straightened, her usual excitement slipping into her posture. “And let’s meet again tomorrow. Same time!”
+
+Her eyes carried a spark of anticipation. “Something interesting might happen.”
+
+Lucien exhaled through his nose. 'This girl moves at her own pace as always,' he wryly noted.
+
+“Understood,” he said at last.
+
+Talia brightened, as though that had been the only answer she had expected.
+
+The exchange drifted after that, away from strategy and trade into lighter exchanges that carried a familiar feeling, one that neither of them needed to force.
+
+At some point during the conversation, the corner of Lucien’s mouth lifted faintly.

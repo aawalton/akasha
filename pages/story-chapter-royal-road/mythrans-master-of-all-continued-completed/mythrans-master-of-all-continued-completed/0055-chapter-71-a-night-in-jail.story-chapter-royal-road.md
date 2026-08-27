@@ -1,0 +1,529 @@
+---
+id: ca65612d-8f1c-5f55-a01c-cabe280ca64e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71 - A Night In Jail"
+slug: 0055-chapter-71-a-night-in-jail
+partOf: mythrans-master-of-all-continued-completed
+position: 55
+ownLength: 5218
+unit: words
+publishedAt: 2016-11-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101113/chapter-71-a-night-in-jail"
+royalRoadId: "101113"
+---
+
+Ren was taken to the guardhouse and then to the Armory out back. “Do you have any weapons on you?” The captain asked and Ren nodded.
+
+“Okay, hand them over. They'll be stored here in the Armory until this gets resolved.
+
+“Why are you doing this?” Ren asked.
+
+“I have to. You said that you were at the scene and found the body. No other suspects are here.”
+
+Ren sighed. “I told you, he was an adventurer! We fought. I won. His body...”
+
+“Faded away, I heard you the first time. Mitchell wasn't an adventurer, he was a shop owner and has been here for years.” The captain said. “His body didn't fade away.”
+
+Ren sighed again. “I figured as much. The story Mitchell, the fake one, told me... it had hurt, but I knew it wasn't true. I came to Mitchell's shop to see if anything was wrong.”
+
+The captain made a 'give me' gesture and Ren took out the crude iron dagger he'd been given with the starting items. The captain nodded, opened a cabinet, and put the dagger inside.
+
+“I hope there's lots of room in there.” Ren said then started handing over the 28 small iron daggers he'd repaired and enchanted, leftovers from the Aurora Expedition after he'd given one each to everyone there.
+
+The captain's eyes widened as he put the 29th dagger into the cabinet. “You... you've been carrying these this whole time?” Ren nodded and tried to pass over a wooden shield.
+
+The captain shook his head. “I'm only required to take weapons.”
+
+Ren put the shield back into inventory and then handed over the 2 short swords, the 2 longswords, and the 2 battleaxes he'd made from the first batch of crude steel.
+
+The captain looked at the contents of the cabinet. “Anything else?”
+
+“Well... I do have another short sword, but it's low quality.” Ren said.
+
+“That doesn't matter. Hand it over.” The captain said.
+
+“But I got it from the fake Mitchell.” Ren said. “Did Mitchell even own a sword?”
+
+The captain shook his head. “For the moment, I need to secure it.”
+
+Ren sighed and handed it over. The captain locked the cabinet and then the Armory. He turned to Ren and frowned. “I know you're a blacksmith, and can use the tools to pretty much do anything with metal... so I want you to promise me you won't use your tools to escape... or I will have to take them.”
+
+Ren nodded.
+
+“Your word?” The captain said.
+
+“I won't try to escape.” Ren said.
+
+“Weston, take Ren to the cell.”
+
+“Wait, what?” Ren said as Weston took his arm and tried to drag Ren away and he didn't budge. “I need to leave soon! I'm an Adventurer. I can't be locked up in a cell! Put me in a room or something!”
+
+It was the captain's turn to sigh. “I'm sorry Ren. Until we can get one of Lord Eric's mages in here to verify your story, you'll have to stay here in the cell.”
+
+“But...but... but...” Ren stammered and reluctantly went with Weston who'd been trying his best to push Ren along. They went to the mansion and through the back door, down a small staircase, and to a room with metal bars making up the majority of the front wall, and metal bars covering the window. Teepo hopped onto the soldiers shoulder just as Ren was put into the 15 foot square cell.
+
+“You have got to be kidding me!” Ren said as he was locked in with 3 other people. “You can't leave me in here like this! I'm innocent!”
+
+“I'll see what I can find out.” Teepo said.
+
+Thanks, Teepo. Be careful.
+
+The soldier left the room and shut the door.
+
+“Yeah, that's not gonna work.” A voice said from behind him.
+
+Ren turned around and saw a man leaning in the corner and another man trying to creep around the edge of the cell on the other side.
+
+“All of us are innocent in here.” The man said and laughed.
+
+“But... but I really am!” Ren said.
+
+“Like that matters.”
+
+The other man was pretty close to Ren now, not realizing that Ren could clearly see him in the near darkness of the cell. When the man was close enough to touch, Ren turned to face him and raised his fists.
+
+“Just try it.” Ren said.
+
+The guy had a shocked look on his face and backed away.
+
+“Ha! You saw him coming, didn't you?” The leaning man said.
+
+Ren half-turned back to the leaning man and keep both of them in view.
+
+“Of course he did. He's an elfling, you idiot.” The woman that sat on the bench said. “He can see you when you're that close to him.”
+
+Ren could see everything as if it was daytime, actually... but didn't correct her. There's no point in giving away his secrets.
+
+“Nice.” The leaning man said. “We could use a boy with that talent.”
+
+Ren scowled and took a step forward. The Dire Wolf Hooded Cloak's given ability Aura touched the 3 people.
+
+“Ooooo...” The woman said. “Do you feel that? It kinda tingles.” The woman purred. “Oh... a little more, please.” She said and rubbed her tummy. “Mmmm.”
+
+Ren felt that she was mocking him and concentrated, pushing his willpower into the ability to create as much fear as possible. He'd never done that before. Normally, Ren just left the Aura on by default.
+
+Stat Change!
+
+Aura Level 4 (Beginner 0%)
+
+Notice!
+
+New sub skill unlocked: Fear Level 1 (Beginner 0%)
+
+This sub skill under Aura will cause Fear instead of Awe in those around you.
+
+Higher levels will increase the distance the Fear covers.
+
+“Yes, that's the spot.” The woman said and laid down on the bench she'd been sitting on.
+
+“Hey, kid! What are you doing to Elerlyth!” The man who'd tried to sneak up on him said.
+
+Hate quickly filled Ren's thoughts as he shifted his gaze to the man without turning his head, but was still concentrating on his Aura. Another popup appeared.
+
+Notice!
+
+New sub skill unlocked: Hatred Level 1 (Beginner 0%)
+
+This sub skill under Aura will grant you stat modifiers against those you hate.
+
+Level 1: Strength +1, Endurance +1, Dexterity +1, Agility +1, Intelligence -3, Wisdom -3
+
+Elerlyth started to writhe on the bench and stared at Ren. “Ohhh...”
+
+The leaning man stepped forward. “Stop whatever it is that you're doing. Right now, boy!”
+
+Ren's anger flared at the boy comment and the man lifted a fist to punch. “I'm warning you.”
+
+The man threw the punch, but Ren saw it coming and reached up to catch it easily. The man winced when his fist hit the hand and then winced again as Ren's fingers closed. Ren had no intention of repeating the same mistake he'd made with the fake Mitchell. There would be no fight.
+
+“No... I'm warning you.” Ren said and started to squeeze with Iron Grip. The man dropped to his knees immediately. “I'm in no mood to play any silly little games. I'm in here for a murder I didn't commit, and I don't intend to stay here for long.” Ren said and bared his teeth in a grin. “You will leave...” Squeeze. “...me... alone.” Squeeze.
+
+Some of the bones in the man's hand snapped and he nodded. Ren let him go and he clutched the hand to his chest, but didn't say anything about it. Ren looked at the other man. “Is that clear?”
+
+The other man nodded and Ren glanced at the woman, who had a satisfied look on her face. Ren wasn't sure what had happened with her, but she hadn't done anything to him yet. He didn't speak to her but did raise an eyebrow. She smiled and nodded.
+
+“I'm Elerlyth, Rogue Extraordinaire.” She said and grinned. “That's Emanon.” She waved to the sneaking guy. “Thief and scoundrel. The guy who's hand you just crushed is Beltach.”
+
+Ren looked at Beltach and saw him wince in pain.
+
+“Guard!” Ren shouted. “GUARD!”
+
+The door to the cell room opened and a soldier stepped in. “Jeezus! What is it?”
+
+“We need a healer.” Ren said.
+
+“What for?”
+
+“Someone's hurt, obviously.” Ren motioned to the man holding his partially crushed hand to his chest. The man obliged and held the hand out. The soldier almost threw up, nodded, and left the room. While they waited for a healer, Ren finally got a chance to look at his cellmates.
+
+Emanon the thief wore rags that looked to be badly sewn together, but that was just a facade. Ren recognized the excellent stitching and ease of movement that the outfit gave him. He had basic brown hair and seemed to have a fopish nature.
+
+Beltach wore basic traveller's clothes without the cape. Elerlyth didn't say what his class was, though. His hair was a dark auburn and he seemed to be in command of the little group.
+
+Elerlyth on the other hand, wore a skin tight dark blue leather bustier that pushed her ample breasts up and out to be admired. Black leggings covered her lower half and dark blue leather boots clung to her legs and rose up to the middle of her thighs. Her dark grey skin was offset by the raven blackness of her shoulder length flowing hair, that would probably shine a blue color in the light. Her eyes had bright red pupils, and if Ren had to guess her race, he'd call her a Dark Elf, or even a Drow. He hadn't seen anyone like her in the game before, but he'd seen plenty of them in other games. A few minutes later, a healer came in and stood near the bars.
+
+“Let me see the injury.”
+
+Ren stepped away from the bars and next to the wall. The man came forward and was barely able to push his hand out between the metal bars. The healer shook his head.
+
+“What did you stick this in, a vice? It's almost completely crushed!” The healer said and activated his minor healing ability. It took about 5 minutes for the man's fingers to finally straighten out and he flexed them. The healer turned to leave and Ren stopped him.
+
+“Hold on, he's not the only one.” Ren said.
+
+The healer looked around. “I don't see anyone else hurt.”
+
+“That's because I'm hurt inside.” Ren said and stepped towards the bars. “I'll need some major healing.”
+
+“Ha! You think I'm that stupid? You're not hurt, and then you're just going to attack me when I have the cell opened.”
+
+Ren shook his head. “I'm not lying. I really do need healing.” Ren's mana pool was pretty low. “Give it a try and see.”
+
+The healer scoffed at Ren, but stepped closer to the bars and used his minor healing ability and Ren soaked it up like a sponge.
+
+“Huh... I guess you're right. Just a minute.” The healer stepped away and opened the door. “I need the key.”
+
+The soldier handed it over and then shut the door. Beltach stepped away from the bars and Ren stepped forward. The healer opened the cell and Ren came out and sat in the guard chair by the wall, that a guard should have been sitting in. The healer activated his major healing ability and Ren waited as his Mana Pool filled back up.
+
+“How are you even walking around?” The healer asked as Ren's Mana Pool finally filled up and the healer stopped healing him.
+
+“With my legs.” Ren said and smiled. “Thanks a lot.”
+
+“You're welc-” The healer collapsed mid-word right there on the floor. Beltach had whacked him in the head from behind.
+
+Notice!
+
+You have successfully completed the recipe: Trouble.
+
+Aw, crap.
+
+“Nice going, kid.” Beltach said.
+
+“Is anything wrong?” Teepo asked.
+
+Not really. It's just the prisoners escaping.
+
+“Should I come back?” Teepo asked.
+
+No, just let me know if anyone's coming in the outside door or down the stairs. Thanks, Teepo.
+
+Elerlyth stepped around Beltach to stand beside the chair Ren sat in and put a hand on his shoulder. “Mmm. Dire wolf. Very nice.” She rubbed her hand up and down the cloak, stroking the fur.
+
+“I couldn't have come up with a better plan myself.” Beltach smiled. “That was pure genius.”
+
+“I could have done it.” Emanon said as he stepped out of the cell. Beltach and Elerlyth laughed. “I could have!” He said and they laughed harder. A few moments later, Beltach spoke.
+
+“I don't think we'd make it if we broke into the armory to get our stuff back.” He said. “It'll be hard enough killing these idiots to get out of here as it is.”
+
+“Don't kill anyone.” Ren said and stood. “They may not be my favorite people right now, mainly because they're being so stupid, but there's no need to kill them to escape.”
+
+“Oh? Are you going to stop us?” Beltach asked.
+
+“If I have to, yes.” Ren said.
+
+“You got lucky with that grab, kid. We're not in that cell anymore, though.” Beltach stood close to Ren, nearly a foot and a half taller and Ren laughed. “What's so funny?”
+
+“I've been small my whole life. If meeting someone so much bigger intimidated me at all, I'd be a nervous wreck right now.” Ren said. “Do I look scared to you?”
+
+Elerlyth stopped petting the dire wolf cloak and stepped away from the confrontation.
+
+Beltach stared at Ren for a full minute... and then smiled. “You've got balls, kid. I like that.” Beltach said and tried to slam a hand down on Ren's shoulder, who saw it coming and turned slightly. The incoming hand missed and Ren held out his fist. Activate
+
+A small lightning bolt shot out and struck Beltach in the chest. He stood there and shook as if his body was being hit by a taser. Ren felt a cool hand lay across his neck and a fingernail poked his skin. Ren couldn't see what it was, but he could feel the tendrils of poison slowly spread through his body. It wasn't anywhere near as painful as the stuff the fake Mitchell had used, however.
+
+“That's enough, sweetheart.” Elerlyth whispered in Ren's ear. “You should be quite easy to control, now that I've got my venom in you.”
+
+Ren raised an eyebrow to her and she smiled.
+
+“You're really cute, but stop attacking my friend.” Elerlyth said.
+
+“I'm not attacking him. I promised myself earlier that there wouldn't be a fight. I'm just preventing him from starting one.” Ren said and smiled.
+
+“Point your ring somewhere else.” Elerlyth commanded.
+
+“Okay.” Ren said and pointed it at Emanon, who didn't dodge in time and was struck.
+
+“No! That's not what I meant!” She shouted.
+
+“You should be more specific when you command me.” Ren said and put the ring back on Beltach, who had recovered enough to regain his senses, but was still kneeling on the floor.
+
+“Please, stop!” Elerlyth pleaded.
+
+“Okay.” Deactivate. “You just had to ask nicely.” Ren smiled again at Elerlyth's shocked expression. “Like I said, I don't want a fight. That's how I got into this mess in the first place.”
+
+Ren went over to Beltach and tried to hand him a Health potion. Beltach just stared at it and Ren put it away. “Suit yourself.” Ren said and went over to Emanon. “Are you alright?”
+
+Emanon nodded and Ren stepped away. He knew the guy was sneaky and didn't want to give him any opportunity to try anything. “Shall we all get back in the cell, now?”
+
+The 3 people stared at Ren and he smiled. “I am asking you nicely.”
+
+Beltach looked at Elerlyth and she shrugged and went into the cell. Emanon followed her and Beltach sighed, got up from the floor and went inside the cell, too.
+
+“Thank you.” Ren said and shut the door.
+
+“Hey! What are you doing?!?” Beltach said.
+
+“Hm? I told you I didn't intend to stay here longer than I had to.” Ren said and picked up the healer and sat him in the chair. Ren tipped some Health potion into the healer's mouth and took the key from his pocket. Ren walked over to the cell, unlocked it, stepped inside, and then tossed the key at the feet of the healer.
+
+“GUARD!” Ren shouted.
+
+The soldier came in a moment later. “Shut UP! Why are you hollering so much?”
+
+Ren pointed to the healer. “He tired himself out healing and I think he dropped the key.”
+
+The soldier looked down at the floor and there was the key right by the healer's foot. The soldier did a double take to Ren and the key, then picked the key up and pocketed it. The soldier tried to pick up the healer, but had a difficult time getting under the arm to hold the weight. After some fumbling, the soldier managed to get the healer in a good grip and shuffled out of the room and shut the door. Ren sighed and turned around to the mixed expressions of the other 3 people in the cell.
+
+“I'm sorry... but I couldn't have an escape from jail added to the charges against me.” Ren said and shrugged.
+
+“Hold on.” Emanon said. “You didn't let us escape because you didn't want to get into more trouble?”
+
+Ren nodded. “The last thing I needed was to try and explain how I masterminded an escape and then stayed behind to get caught.”
+
+Elerlyth laughed. “You... you were going to stay behind, even if we'd managed to escape?”
+
+Ren nodded again.
+
+“Oh... oh, you naive little darling.” Elerlyth said and laughed again. “That won't make any difference.”
+
+Ren looked at her. “What do you mean?”
+
+“There's no trial or tribunal or anything like that. We're brought to a room, sentenced, and then brought back here to serve our sentence, assuming we don't get hard labour.”
+
+“You've gone through this before, then?”
+
+Elerlyth nodded. “Twice... and you know what they say... third time's the charm.”
+
+Ren walked over to the bench and sat down next to her. Beltach and Emanon stared at Ren in shock as he crossed the room to sit down, like it meant nothing to approach such beauty. Elerlyth had a similar look, but it was for a different reason. No one had ever approached her like that... like she was normal.
+
+“What happened?” Ren asked.
+
+“Does it matter?” Elerlyth said and chuckled.
+
+“Not really... but I'd like to hear the story anyways.” Ren reached out and put a hand on hers. “Please. Tell me how you got here.”
+
+Elerlyth looked down at Ren's hand and felt the Aura pouring into her. She'd always had an affinity for them since she started playing. She wasn't sure if it was a secret class skill or what, but this was the first time it had made her feel... well, full. She'd enjoyed feeling people's fear of her appearance, assuming that she was evil and intended them harm, but it seemed somehow hollow. Now she could feel Ren's genuine curiosity and ease with how she looked. It was definitely a surprise for her. So much so that she told Ren of how she got there, completely ignoring the fact that she'd tried to poison him earlier.
+
+Ren listened to her intently as she relayed what she'd gone through, and how she ended up back in a cell. Ren had been feeding her ability the entire time and when she finished her story, Elerlyth felt quite energized. No one she knew would have willingly held her hand for so long. Of course, he didn't know he was feeding me, though. She thought and smiled.
+
+“That's... quite the story.” Ren said. “Now I feel really bad about not letting you go.”
+
+Elerlyth showed genuine surprise at Ren's sincerity. “You believe me?”
+
+“I do.” Ren laughed. “I don't think I've ever met someone else who's as prone to trouble as I am.”
+
+“You?”
+
+Ren nodded. “Yes, me. Some of the things I've been through...”
+
+“Tell me.” Elerlyth said.
+
+Ren widened his eyes. “I guess turnabout is fair play.”
+
+Ren regailed her with the stories of the adventures he'd had and Elerlyth laughed when he told her of how he used to run at any scary thing that happened... and her eyes widened when he got to the rock golem on the mountain.
+
+“You defeated a rock golem? By yourself?” Elerlyth asked.
+
+Ren nodded again. “I couldn't have done it without the trap I borrowed... but when I met 2 more giant golems later on, the trap wouldn't work because it was too small.” Ren said. “Although, I won't have that problem anymore.”
+
+“Why not?” Emanon asked. He'd gotten wrapped up in Ren's tale.
+
+Ren smiled and pulled out the giant leg holding trap he'd made at Donan's shop and dropped it on the floor.
+
+“Holy crap!” Emanon said. “That's the biggest trap I've ever seen!”
+
+Ren laughed. “It's the biggest trap that's ever been made, so that's understandable.”
+
+Elerlyth got off the bench and knelt on the floor. “Did you made this?”
+
+Ren smiled and nodded.
+
+“You're a blacksmith?” She said and Ren nodded again.
+
+“But you're so little.” Betrach said. He'd been caught up in Ren's tale as well.
+
+“That's what everyone says.” Ren said.
+
+“I haven't.” Elerlyth said. “I think you're just right.”
+
+Ren's face flushed a little red at her compliment and she sat back on the bench beside Ren, taking his hand again.
+
+“Hold on... you said 2 more giant golems?”
+
+Ren chuckled. “Yeah... it all came about like this...” Ren told the story, and glossed over Aimus' name and where the homestead was. Ren didn't want anyone finding out he was there. Nothing was to get back to Aimus and his family. The 3 of them didn't even blink when he told the dire wolf story, and then called Aimus down to the lowest for taking the crafting station back. Ren chuckled at the vehemence in their cursing. They changed their tune when he revealed how he got the cloak.
+
+“No way!” Betrach said. Emanon just sat in silence. Elerlyth stroked the cloak as if it were a pet.
+
+“I know... I was so surprised.” Ren said and smiled. “I didn't even know this could be done with a pelt.”
+
+Ren kept going and told them about how things happened since then and how he ended up here, accused of a murder he didn't do.
+
+“So, you did kill a guy, but not the guy they think you did.” Emanon said.
+
+“Right.” Ren answered.
+
+“That sucks.”
+
+Ren nodded. “I have to wait for a mage to come and verify my story. If you guys had escaped... I'd have been up shit creek without a paddle.”
+
+They all laughed.
+
+“All right... we'll forgive you. This time.” Betrach said.
+
+Emanon nodded and Elerlyth snuggled closer to Ren.
+
+“What about you guys? How'd you get in here?” Ren asked.
+
+“Robbery.” Emanon said. “Only a few gold, but a soldier was right there and the guy said I'd taken a platinum. When they couldn't find a platinum coin on me, I was tossed in here.”
+
+Betrach didn't volunteer anything and Ren glanced at Elerlyth.
+
+“We don't know, either.” She said.
+
+Ren shrugged. “You can keep it to yourself. I was just curious.”
+
+Betrach huffed. “Affair.”
+
+“What was that?” Emanon said.
+
+“I was caught having an affair with a woman, okay!” Betrach said loudly.
+
+“Please tell me it wasn't with the minister of trade's wife.” Emanon said.
+
+“It wasn't.” Betrach said. “It was the minister of finance's wife.”
+
+Elerlyth smacked Betrach in the back of the head with her open hand.
+
+“You're such an idiot.” She said and grinned. Emanon started laughing, and then they all laughed, Ren included. A short time later, a soldier came in and pointed to Ren.
+
+“You. This way.”
+
+Ren nodded and let Elerlyth's hand go. The soldier opened the cell, Ren stepped out, and the soldier closed it again.
+
+“Good luck.” She said then smiled a sad smile. “See you in a little while.”
+
+She widened her eyes when Ren winked at her, and then he left the room behind the soldier.
+
+I'm coming up the stairs, Teepo.
+
+“There's a hallway off the side and there's a couple of people in the second room.” Teepo said.
+
+Thanks, Teepo. Good job. Ren thought I'll be right there.
+
+The soldier led the way up the stairs and at the top opened a second door that couldn't be seen when the outside door was open. They went through that and down the hallway to the second door. The soldier knocked on it and it was opened from the inside. Ren was waved in and ordered to sit down in a chair facing a table. On the other side of the table was Lord Eric in the middle, the captain of the guard on the right, and someone Ren hadn't seen before on the left. Then the questions began. After a while, Ren had had enough.
+
+“I didn't kill Mitchell, I killed Mitchell!” Ren said and stopped. “That didn't come out right. I mean I killed the fake Mitchell, then found the real one dead.” Ren dropped his head. “Geez, no matter how I explain it, it still sounds bad.” Ren sighed. “Look, I've told you the story 3 times already. You keep asking me the same questions. Did the captain show you the short sword I handed over?”
+
+Lord Eric nodded. Ren looked to the mage.
+
+“I'm sure there's some kind of ownership spell or something, right? What did you find when you examined it?” Ren asked the mage.
+
+“I didn't examine it.”
+
+“What? Why not?”
+
+“My job is to determine if you are guilty of the crime, not to examine evidence.” The mage said.
+
+Ren let out a bark of laughter. “Either you are an idiot, or you don't know what you are doing.”
+
+The mage stood up. “I won't stay here and be insulted.”
+
+Lord Eric put a restraining hand on the mage and glared at Ren. “I'm sure Ren didn't mean to say such things. He's under a lot of pressure.”
+
+The mage huffed and then sat down.
+
+“The question is... is Ren telling the truth?”
+
+The mage nodded.
+
+Lord Eric clapped his hands once. “Good. We're done here. Ren, you are free to leave.”
+
+Ren stared at the trio. “That's it?”
+
+Lord Eric looked at Ren. “What did you expect?”
+
+Ren opened his mouth and then closed it. Elerlyth was right. They really don't weigh evidence or look at the facts. All that matters is how they see things.
+
+Ren took a breath and spoke. “First off, I'd like all my items back. Second, there's three slightly innocent people in the cell.”
+
+“Slightly?” Lord Eric said and smiled.
+
+“They did the crimes, but there were extenuating circumstances.” Ren said.
+
+“Really?”
+
+Ren nodded. “If this is your system, then they'll be convicted of the crimes and punished.”
+
+“That's how things work here.” The mage said.
+
+Ren nodded. “I see that. But... if, just if... someone did steal a few coins, what would they get?”
+
+“Several days in jail and a fine.”
+
+“And if it was a platinum coin?”
+
+“Minimum time for grand theft is 100 days, with option for heavy labor.” The captain of the guard offered.
+
+“So... if the person that was robbed said it was a platinum coin instead of a few gold coins, how would you know what the truth was if you only ask the accused if they did the crime?” Ren asked.
+
+“You're assuming the victim lied.” Lord Eric said.
+
+“I am... and you're assuming the victim told the truth.” Ren said.
+
+Lord Eric opened his mouth and closed it, just like Ren did.
+
+That's it... just think about that for a minute. Let it stew.
+
+Lord Eric sighed. “I assume you have a point to make.”
+
+“Yes. If you only ask people if they did the crime, and they lie, they're assumed to be guilty and are punished by the account of the charges... and you don't look at those charges at all, to see if they're true or false... or question the witnesses to see if they are lying or telling the truth.” Ren said and sat back.
+
+Lord Eric looked at Ren and sat back himself. “Very well. I was going to just ignore the charge against you for breaking and entering because you brought the murder to our attention, but since you're so adamant we question everything, we shall.” Lord Eric looked at Ren. “Did you break into Mitchell's shop.”
+
+“Yes.” Ren answered, truthfully.
+
+“Why?”
+
+“I was hunting for evidence.”
+
+“For what?”
+
+“I wasn't sure what to look for at the time. I wanted something to link Mitchell to Tristan... so I guess that was my main goal.”
+
+After each question, Lord Eric looked at the mage, who nodded.
+
+“Alright then.” Lord Eric said and clapped his hands once. “You are sentenced to spend the rest of the night in the cell.”
+
+Stat Change!
+
+Fame: -10
+
+“Thank you, sir.” Ren said to Lord Eric, stood up, and bowed. Ren did the same to both the captain and the mage, who was a bit shocked at the display. The captain waved to a soldier who came to take Ren's arm and lead him out of the room. Ren didn't move, however.
+
+“One more thing.” Ren said and smiled when Lord Eric sighed. “How much are the fines for the three people in the cell with me?”
+
+Lord Eric raised his eyebrows and turned to the captain of the guard. “The thief, if it was a platinum, is a hundred gold and 30 days in shackles at the mines.”
+
+Ren's eyes widened at the harsh penalty. “And if it wasn't a platinum?”
+
+The captain sighed this time. “Reparations of the amount stolen and the night in the cell.”
+
+“The other two?”
+
+“The man is accused of adultery. It's 30 days in the cell. It would have been longer, but the minister of finance isn't well liked, and his wife likes him even less.”
+
+The mage snorted a laugh and covered it up with a cough.
+
+“The woman... she's a special case. We see her a lot.” The captain said. “I'm tempted to just throw her in the cell permanently, but you won't stand for that, would you?”
+
+Ren shook his head. The captain sighed again. “I'll let her off this time with a fine of 50 gold and a night in the cell.”
+
+“I know I'm kind of stepping out of line here... but... would you let the man out as well if I pay the same fine for him as for the woman?”
+
+The 3 men's eyes nearly popped out of their heads at Ren's offer.
+
+“Are you crazy?” The captain said, dumbfounded. “You just met these people!”
+
+Ren shrugged. “I think they just needed someone to listen to them for once.”
+
+Lord Eric stood. “Done.”
+
+Ren walked over to the desk, dragging the soldier with him, and put a platinum coin and 5 gold coins onto the table. “Thank you very much for your time.” Ren said and smiled. “See you in the morning.”

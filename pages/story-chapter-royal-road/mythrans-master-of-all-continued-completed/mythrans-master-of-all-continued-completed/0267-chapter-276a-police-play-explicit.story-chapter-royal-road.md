@@ -1,0 +1,113 @@
+---
+id: aaad652b-9b20-521a-a385-e29747a09c85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 276A - Police Play (Explicit)"
+slug: 0267-chapter-276a-police-play-explicit
+partOf: mythrans-master-of-all-continued-completed
+position: 267
+ownLength: 1944
+unit: words
+publishedAt: 2017-06-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141701/chapter-276a-police-play-explicit"
+royalRoadId: "141701"
+---
+
+Holly and John explored each other's mouths as they kissed.
+
+Oh, god! Holly thought, as John french kissed her. He can kiss!
+
+John rolled her onto her back and rested a hand near her neck. He ran his hand down her side, grazed the side of her breast, and put the hand on her hip. Holly writhed when he stopped kissing her, and he moved down the bed to do the same move with his other hand on her other side. John hooked the bottom of her over-sized t-shirt and moved it up slightly. He caught a glimpse of the frilly lace panties that she wore, and his mouth watered.
+
+“Over.” John said, and Holly started to turn over, but it wasn't fast enough for him. He grabbed her thighs and flipped her onto her stomach so he could see her wonderful ass. She had teased him all day with it, and had practically shoved it in his face several times. Now that he saw it's delicate beauty framed perfectly in high cut lace, he couldn't help himself and kissed one of her cheeks, and then the other. Holly wiggled a little at the touch of his lips on her soft and firm skin, and she lifted her hips a little.
+
+“Good lord.” John said, put his hands under her hips and lifted her up further, then pushed his face between her legs. He played with her through the thin cloth, and Holly grit her teeth so she wouldn't yell at him to move the cloth out of the way.
+
+It's right there! She thought in frustration. Just move the... “OH!”
+
+John's tongue was warm in the flesh of her opening, and his breath was hot against her exposed skin. He had felt her stiffen when he tried to play with her through her underwear, so he had moved the edge of the lace out of the way so he could give her some direct attention. He licked and played with her perfectly-shaped opening, and he was a little surprised she didn't have a bit of hair on it at all. With a completely clean surface to explore, he went to the task with abandon.
+
+Holly buried her head in the pillow and chewed on the fabric as John found spot after spot to tease and please her. She groaned, moaned, and shook as he worked her over. John smiled between licks as he saw her reactions to his technique. He took one long lick, from the tip of her to the end of her, and she shuddered. He slipped her underwear over her hips and down to her knees. She took the hint and rolled over onto her back, and he slipped the underwear all the way off.
+
+Holly looked into his eyes, and she saw in them how much he wanted her. She was already wet from his ministrations in that area; but even more came out in anticipation of what was to come. She sat up and grabbed the end of her over-sized t-shirt, then flipped it off and over her head. It landed on the floor a few feet away, and he tossed her underwear on top of it.
+
+“Your turn.” Holly said, and John got up onto his knees, then undid the tie of his jogging pants. They slid down passed his hips, and she saw him completely for the first time. He wasn't circumcised.
+
+“I hope it's not a problem.” John said.
+
+“I don't know.” Holly said. “I've never seen one like this before.”
+
+“My mother couldn't stand the sight of blood, or someone hurting her little boy.” John said. “So, for the rest of my life, there's a bit more of me to wash than the average man.”
+
+“That's because it's bigger than average.” Holly moved closer to look at it. “Does it hurt all bundled up like that?”
+
+“No.” John chuckled and moved the skin down the shaft to reveal the tip. “The only thing that hurts is having a beautiful woman in front of it, and all she's doing is just sitting there.”
+
+Holly laughed, and reached out to wrap a hand around it. She moved her hand up and down a few times, and she felt how much more loose skin there was. She wasn't sure how he could get the same amount of pleasure as someone who was circumcised and the skin is tighter; but, she shrugged mentally and leaned forward to lick it.
+
+I'm really glad we both just had showers. Holly thought as she tasted soap, clean skin, and him. She looked up at him as she slipped him into her mouth, and he stared at her as she slowly sucked and licked the tip. John reached down, and she thought he was going to grab her head and shove himself into her mouth, but all he did was rest his hand on her head. Holly relaxed after that, and he felt the change in her. She started to move more vigorously, but didn't go too far past the tip.
+
+“H-Holly...” John said and closed his eyes. She stopped sucking and looked up at him.
+
+“Don't you dare close your eyes!” Holly said, and he opened them right away. “I don't do this with just anybody, so you better watch!”
+
+“But... if you keep going, I...”
+
+“I'm good at dodging!” Holly said and started sucking him again. She got both of her hands involved and moved them up and down. This feels so weird! She thought as the skin kept trying to cover up the part she wanted to suck. It's like it's trying to play hide and seek!
+
+Holly started to smile, grazed the loose skin with her teeth, and John went.
+
+“Holly!” John nearly yelled, and she whipped him out of her mouth and pumped him as hard and as fast she could. “Good god!” He exclaimed, as his first shot burst out about 6 feet. “Ahhh!”
+
+It crossed the bed, the pillow, the headboard, and had even reached the wall.
+
+“Wow!” Holly said, completely surprised at how much was coming out. “How long have you been saving this up?”
+
+John wanted to answer that it had been a long time, but because she was still pumping him with her hand, he couldn't speak. After about 30 seconds, she eased her pace, and he started to relax. Holly reached over and grabbed a few tissues, then flexed her hand on each up stroke in an attempt to squeeze him dry. She made sure to wipe it all off with the tissues, and she grabbed her towel to put on the bed over the stains. She knelt and tried to make sure she wasn't going to lay in anything she didn't want to lay in, and then John rolled her over onto her back.
+
+“J-John!”
+
+“Holly, I can't wait anymore!” He said, and eased the tip of himself inside of her. She gasped, because she wasn't quite ready for him yet. It had been too long since he'd pleased her there, and she'd tightened up again.
+
+“W-wait!” Holly said. “I'm not rea-OH GOD!”
+
+John shoved himself all the way into her in one thrust, and she wrapped her arms around his shoulders.
+
+“I said wait, you jerk!” Holly nearly yelled into his face.
+
+“I'm sorry!” John said and pulled nearly all the way out. “You're making me feel way too good!” He said, kissed her, and started to move in and out of her at a pace that neither of them knew that he had in him. This went on for several minutes, and Holly broke the kiss.
+
+“Oh... oh... oh FUCK!!” Holly yelled as she orgasmed. She clamped down on him and hugged him tightly.
+
+John didn't take the hint that he should stop, however; and kept going.
+
+“Oh... oh, John! Oh FUUUCK!” Holly yelled as she orgasmed again. Her legs and arms were now wrapped around him, and she had him in a death grip.
+
+John still didn't take the hint, and she looked at him.
+
+“I... John... give me... a minute...” Holly panted. “You... you're being too rough...” She said. “Be... be more gentle.”
+
+“You said you were mine for the weekend, and I'm yours.” John said. “I'm going to make you feel so good that you'll never forget this.” He was breathing hard, but he increased his pace somehow. “Just like me! I'm never going to forget this!”
+
+Holly was going to say that she wasn't going to forget it for a completely different reason than what he thought; but then, John kissed her passionately and she forgot what she was going to say. She stopped thinking about anything at all when the next orgasm hit her.
+
+“I'm getting close...” John said a few minutes later, when his pace started to falter.
+
+“Out... outside...” Holly managed to say, but her feelings betrayed what her brain wanted, and her body wouldn't let him go. All of her muscles clenched at the same time when John tried to pull out, and her stranglehold on him stopped his movements completely.
+
+“H-Holly!” John said and then started to convulse. “GOOOOOOD GOD!” He yelled, and she kissed him to keep herself from screaming as she orgasmed from him going inside of her.
+
+What... what am I doing? Holly thought, with her lips clamped to his. I have to let him go... oh, god... I can't... this feels so good! “Don't... don't stop!” She said out loud. “More, John! Give me more!”
+
+John wasn't sure what had come over her, but his body didn't care. Holly wanted more, and he wanted to give it to her. He picked her up and rolled over to lay down on the bed. It put her on top, and Holly grinned as she realized what he wanted her to do.
+
+“I hope you appreciate this.” Holly said and started to move. “I've never let anyone... anyone... go inside of me.” She closed her eyes and shifted her hips until he hit just the right spot. Her eyes flew open, and she grabbed onto his shoulders. “I'm going to ride you so hard, you're going to beg me to stop!”
+
+John saw the determination in her eyes as she got a good rhythm going. “Never!” He said. “I'll never beg you to stop!”
+
+“You will!” Holly moved faster. “Oh... oh god... you... you'll beg!” She stammered.
+
+“Shut up!” John said, and grabbed her hips. “I'll make you beg!” He said, and pushed up as she pushed down. They both grit their teeth and scowled at each other as they both tried to make the other give in. Holly kept moving, and wanted him to tell her to stop so she could finish; John kept going because he didn't want to tell her to stop. If he ended now and gave in to her, he'd never be able to look her in the eyes again.
+
+The battle of wills continued, and then their bodies started to take control instead of their minds as it devolved into a battle of desperation. Their wills eroded away as the battle raged; and by the end, they both gripped each other tightly and pressed their mouths together. They yelled their frustration and lust into each other's mouths, and they both finished at the same time.
+
+Holly didn't even try to get off of John, and collapsed onto his chest. John's warmth filled her, both in liquid and flesh; and she wondered why something that she thought was more than a little disgusting, would feel so great that she contemplated giving up her morality and values just so he would take her again.

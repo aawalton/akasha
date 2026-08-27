@@ -1,0 +1,451 @@
+---
+id: fc81e1e9-2aab-5e89-ac9c-2a86747bb6fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96 - The First Order"
+slug: 0080-chapter-96-the-first-order
+partOf: mythrans-master-of-all-continued-completed
+position: 80
+ownLength: 4804
+unit: words
+publishedAt: 2016-11-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104618/chapter-96-the-first-order"
+royalRoadId: "104618"
+---
+
+Ren ran all the way back to the main city, then took the turn to get back to House Neram. He ran at full speed and his Stamina bar dropped steadily. Ren made it back to the House long before the bar could empty and entered the gate. He waved to Princess and told her he'd be right out with something to eat. She huffed and Ren entered the house. The smell of food assailed his nostrils and his stomach rumbled. He walked into the main room and then into the kitchen, to see a large spread of food.
+
+“Good evening, Lady Neram.” Ren said to Narhilda, then bowed slightly to Nathalia.
+
+“Ren! Welcome home.” Narhilda said and beamed a smile at him.
+
+“Hi, R-Ren.” Nathalia said without blushing, and smiled.
+
+Ren walked over to the table to gather some food for Princess. “You're getting better at being able to say my name.” Ren said to Nathalia and smiled himself. He took some meat, vegetables, and a piece of pie. “I'll be right back.” He said to their surprised faces and went back outside to the stable.
+
+Ren served Princess the meat and vegetables first, then rinsed the bowl. He gave her some water after that, and then the piece of pie. She ate it delicately, slowly chewing it and enjoying every moment of flavor. Ren gave her more water and told her he had to go eat himself and went inside to the kitchen. Ren sat down at the table and started eating, ignoring the looks of the two women staring at him. He didn't want to explain, yet again, that he was taking care of the mount first. They ate in silence for several minutes, and then Narhilda spoke.
+
+“I had an interesting visit from a messenger, just after lunch today.” Narhilda said and looked at Ren. “Something about an order of uniforms for the military.” She said and held up a folded piece of parchment that had already been opened.
+
+Ren smiled. So, I did guess right. Ren thought. “May I see it?”
+
+Narhilda passed it to him and he read it, then grinned.
+
+New Quest!
+
+The military has heard of House Neram's High Quality Uniforms and has decided they need proof. You must complete 100 uniforms in 2 days.
+
+Rewards: 1000 XP
+
+1000 Gold Coins (Quoted Purchase Price for a small order 10gc each)
+
+Influence: +100
+
+Honor: +50
+
+“You wouldn't know anything about it, would you?” Narhilda asked, slyly.
+
+“Of course I would.” Ren said. “The Commander noticed your husband's uniform design and asked me about it.”
+
+“And?” She prodded.
+
+“I told him it cost 15 gold... and that the military would get a discount to 10 if they ordered some... and if they ordered in bulk, it might drop to 7.”
+
+Narhilda and her daughter caught their breath.
+
+“Are you serious?” Narhilda asked. “A military contract?”
+
+Ren nodded slightly. “I'm going to assume that this is a test at the 10 gold level. If it's completed...”
+
+Narhilda sat back in her chair. “We'd be set to provide the uniforms for the whole military.”
+
+“Possibly.” Ren said. “It all depends on if you still have some of your husband's bolts of cloth or not.”
+
+Narhilda grinned and stood. “Follow me.”
+
+Ren stood and followed her to her old bedroom. She opened the closet, and there were bolts upon bolts of plain white cloth that filled the whole closet. “My husband was a bit of a packrat.”
+
+“This is wonderful!” Ren said and picked Narhilda up in a hug and swung her around in almost a full circle. He put her down and she started to swoon. “Oh! I'm sorry!” Ren said. “I got too excited.” Ren picked her up just like he did when she had slipped and fallen after they'd first met, cupped her to his chest, walked over to the bed and laid her down on it. “Just lay there and relax.” Ren said. “I've got work to do.”
+
+Narhilda nodded and dozily watched him as he worked. Ren took out a bolt of cloth and saw that even though it had been stored in a closet, it's quality was actually a little better than the cloth he had. He must have made it himself! Ren thought and started cutting out the uniform pieces that he needed to sew the pattern. Since he'd already done it before, it was just slightly easier this time. Rather than sew this one up, Ren kept cutting out uniform pieces. He used up the whole bolt of cloth and had enough pieces to make 30 uniforms. Ren took out the dying station and dyed everything a mottled grey, then sat and sewed each and every piece together to make full uniforms. When he was done of those 30... he slapped himself on the forehead.
+
+Just dye the bolt of cloth first, you idiot! Ren thought and Teepo chittered in laughter.
+
+He dyed 2 bolts of cloth mottled grey, cut out the pieces for 30 more uniforms, and sewed them. It went much faster when he didn't have to dye each piece of cloth. After each uniform he made, he got faster and faster. Ren cut out the pieces needed from the last bolt of cloth, and was only 10 uniforms shy. He cut off enough from another bolt of cloth for the 10 uniforms he was missing, then made those. Ren thought he could make them just a little bit better, and he sewed the House Neram name on every label, adding his own in small letters underneath.
+
+He then had the brilliant idea to make a uniform for a Warrior, a Knight, and a Commander, and smiled. Ren dyed the cloth a mottled black and made the 3 uniforms, spending extra time and care with the Commander's. He knew that the Commander would appreciate a uniform of a higher quality that would last longer. When Ren was finished, he sat back and smiled. It had only taken most of the night, and Ren stored all of the uniforms into inventory. He yawned and stretched.
+
+“....mhmmn.... come to bed... darling...”
+
+Ren froze, and slowly turned around. Narhilda was laying on her side, and her face was partially buried in a pillow. It looked like she was asleep.
+
+“...mgh... up all... night..... sleep....”
+
+Ren got up from where he sat and slowly walked across the room to leave, but Narhilda's body shifted slightly and her face fell into the pillow. He waited a moment, then sighed.
+
+I can't leave her like that. Ren thought and went to the bed. He leaned over it, grabbed Narhilda's shoulder, gently pulled her out of the pillow, and heard her take a breath.
+
+Whew... she really was suffocating! Ren thought. She could have died! He rolled her onto her back and she grabbed his hand on her shoulder.
+
+“...don't... Thern... work done...” Narhilda said and snuggled her head down on his hand.
+
+Now what do I do? Ren thought.
+
+“Whisper to her that you'll be to bed soon. You only have a little bit more to do.”
+
+I can't do that!
+
+“Why not? She thinks you're her dead husband... I think.”
+
+Ren sighed. I hope this works. Ren leaned in close to Narhilda's ear and whispered what Teepo had told him to.
+
+Narhilda turned her head slightly, and kissed Ren's hand. “...love....you...” Then her body lost all of its tension and she started to snore. Ren slipped his hand from her now loose grip, activated Sneak, and left the room.
+
+That was close! Ren thought in relief. Thanks for the advice, Teepo.
+
+“No problem.”
+
+I better head out before it gets too late... or too early, I guess. Ren thought and smiled. He made a pit stop at the kitchen table and stored quite a bit food into inventory. He wasn't sure how long he would be kept in the brig; but it was better to assume at least the rest of the day, just to be safe. Ren took a lot more than he actually needed, but he didn't know what kind of situations he was going to get in now and it was better to be prepared for anything.
+
+If I can get you in there beforehand, it shouldn't be too bad.
+
+“I'll do what I can to help.” Teepo said.
+
+Ren nodded and left the house. He fed Princess some of the food he had, bid her farewell until the next night, then left House Neram and closed the gate. Ren deactivated Sneak and started to run. Teepo enjoyed it this time, as Ren was in a better mood, too.
+
+I wonder if I can get some sleep in the brig? Ren thought as he left the main city and came to the outskirts. He passed the rolling hills and then over the large one before the Garrison. Ren could see the sunrise and smiled. Just in time. Ren sprinted the last bit of distance and slowed down as the guard at the gate opened it for him. Ren went inside, then followed the pattern. 3 in, 3 right. Ren walked over to the Commander's office and knocked.
+
+“Enter.”
+
+Ren opened the door, stepped inside, and shut the door. “Sir! Recruit reporting as ordered, sir!”
+
+The Commander chuckled. “You don't have to report to me every morning. Just show up in your designated squad area.”
+
+“Sir! Yes, sir!” Ren said. “I have a delivery, sir!”
+
+The Commander lifted his eyebrows slightly. “You don't mean...”
+
+“Sir! House Neram thanks you for you order, sir!”
+
+Ren pulled out 100 folded uniforms from inventory and stacked them on the desk.
+
+“By the gods! How did you...” The Commander started to ask, then changed what he was going to say. “You worked all night, didn't you?”
+
+“Sir! Yes, sir!” Ren said. “I made you something as well, sir!”
+
+The Commander's eyes widened at Ren's words, then he frowned. “I'm not in the habit of accepting bribes, Recruit.”
+
+“Sir! No, sir!” Ren said and smiled. “Just examples of my work, sir!”
+
+Ren pulled out the Warrior Uniform first, then the Knight Uniform. Ren waited a moment for him to look at them, then gave him the Commander's Uniform. Ren kept the smile on his face as he watched the Commander compare the one he wore with the brand new one Ren had made for him.
+
+“How much extra for these?” He asked.
+
+“Sir! I can't in good conscience charge you for examples, sir!” Ren said. “Just like my own uniform, these are the first of their kind that I've made. They are not for sale, but you can keep them, sir!”
+
+The Commander looked at Ren like he was crazy, then voiced that opinion. “Are you crazy?” He asked.
+
+“Sir! Most people think so, sir!”
+
+The Commander shook his head and laughed. “All right. I'll accept these 'examples' of yours.” He reached into a drawer and passed Ren a small coin bag. “This is for the uniforms.”
+
+Quest Complete!
+
+The military has accepted the proof you have provided of House Neram's High Quality Uniforms.
+
+Rewards: 1000 XP
+
+1000 Gold Coins (10 Platinum coins)
+
+Influence: +100
+
+Honor: +50
+
+“Sir! Thank you, sir!”
+
+“Dismissed.”
+
+Ren left the Commander's office and followed the pattern back to the main gate, as that was the only spot he'd seen any dwarves. He approached one of the guards and asked where the brig was. He told Ren it was 6F5L, and couldn't miss it. Ren grunted and assumed the name was actually directions, then went 6 areas forward, and 5 areas left, and arrived at the brig. It was a building inside the walled off area. There was only 1 gate to the whole area, and only 1 door into the building, without a handle. No guards were posted outside, either.
+
+Teepo, you're up! Ren thought and Teepo hopped out of the hood and slipped under the door.
+
+“There's 10 dwarves, and another door. Going under.”
+
+Ren stood there and waited several minutes.
+
+“Just a single guard at a desk inside and a bunch of individual cells. 3 dwarf prisoners, too.”
+
+Thanks a lot, Teepo. Ren thought and knocked. He heard several sliding pieces of metal clank together and the door opened.
+
+“Sir! This Recruit has been confined to the brig, by order of Ghomhan the Knight, sir!”
+
+“Knock that off, you fool. I'm not an officer.” The dwarf said. “I work for a living.”
+
+Ren smiled and the dwarf stepped back to let Ren walk inside. He saw the 10 dwarves wore identical mottled black outfits, and some wore plate armor over half of their torso.
+
+That's an interesting design. Ren thought.
+
+He recognized one of the dwarfs, as one of the pair of Warriors that had picked him up the day before.
+
+“It didn't take you long to get sent here.” Darohm said and laughed.
+
+“I would have been in here yesterday, but I had to go to work first.” Ren said and the other dwarves laughed, too.
+
+Stat Change!
+
+Camaraderie Level 2 (Beginner 0%)
+
+“Follow me.” The dwarf that opened the door said, then led him through the second door and to the guard sitting at a table.
+
+“This guy says Ghomhan ordered him to the brig.” The dwarf thumbed at Ren.
+
+“Name and Unit?”
+
+“Recruit Ren, A-113.” Ren said.
+
+“Put him in cell 2. It was just cleaned.”
+
+The dwarf grunted and took Ren to the second cell in the row and opened the door. The cell was stone inside and the door was the same as the iron bar one at the mansion. Ren stepped inside and the dwarf shut the door with a clang, and walked away.
+
+He didn't lock it? Ren looked at the door. Actually, there's no lock to lock! Ren activated Enchanted Eyes and saw why. Read Rune and Decipher let Ren know that the same runes were on the jail cell back in Aurora. I still don't know what that last rune... oh! Ren thought. Spell Resistance! He smiled. I don't know why I didn't think of that before. Ren looked around at the damp cell. They must have just dumped a bunch of water in here to 'clean' it. He took out some scraps of cloth and dried off a spot on the bench. He sat down and took out his Book of Runes, flipped through the single rune pages to near the end, and saw that he had been right.
+
+Rune of Resist Spell
+
+This rune grants a 5% chance to resist spell effects.
+
+Sweet! Ren thought, and did his glyph ritual of making the double, triple and quadruple versions. He could just do the quad, but he wanted to be thorough in his Enchanting. Some things might only be able to take a double or triple glyph. Ren then turned another page to the rune he'd seen on the sending stone.
+
+Dwarven Rune: Speak
+
+This rune allows instant communication (one way) between paired stones.
+
+Time Limit: 5 minutes, once per hour.
+
+Ren did the same ritual, and filled the page. He didn't know if doing that would make any difference; since it seemed like it had set perameters, but figured it was good practice anyways. He flipped back another 2 pages and saw the 2 runes he still didn't know, one that he'd picked up at Mitchell's business from the door, and one from the hidden passsages in the dwarf ship's hold. The one from the hold could be either 'illusion' or 'solid', but Ren didn't know how he could test that. He also had no clue what the one he found at Mitchell's was. Ren closed the book and sat back. He was tired, but after that run to the Garrison, he was kind of wired. He thought of Groggot's happy expression with the battle axe and smiled. He took out a few pieces of bat leather and made up an appropriate sized sheath for it, and an adjustable strap to go across the chest. When Ren was done of that, he got a popup.
+
+Stat Change!
+
+Stitching Level 8 (Intermediate 0%)
+
+I must have been right on the cusp of leveling that up, after sewing all those uniforms. Ren yawned and stretched then looked around. Okay, now I'm tired. There wasn't anything to sleep on, except the floor and maybe the bench. Considering that both were still soaked, that wasn't going to happen. Ren pulled out his bed from inventory and it barely fit in the available space. He made himself comfortable on it, and fell fast asleep.
+
+*
+
+“Where the hell is he?” Ghomhan nearly shouted. Dawn had passed nearly 2 hours ago and there was no sign of Ren. The other Recruits shrugged their shoulders. There was no way for them to know where Ren actually was, since they were in the barracks all night.
+
+“I'll be right back.”
+
+Ghomhan stomped his feet the entire time he walked to the brig. “He's never going to see the light of day again!” He came to the brig area and knocked on the door. It opened and he stepped inside, ignored the dwarves, and entered the second door.
+
+“I'll need a 2 man pickup team. I have an errant Recruit.”
+
+“Name and Unit?”
+
+“Recruit Ren, A-113.”
+
+The guard looked at him like he was crazy. “What do you need a pickup team for? He's been here since the crack of dawn.”
+
+“Whaaaatt!” Ghomhan said, surprised.
+
+“He got here just after I came on shift.” The guard said. “Tall fellow. Fluffy hair. Dire wolf cloak.”
+
+Ghomhan nodded slightly.
+
+“He's in cell 2.”
+
+Ghomhan walked down the aisle and looked in cell 2, and sure enough, saw that Ren was there... and was sound asleep. Ghomhan huffed and turned around.
+
+“Keep him here until I say otherwise.” He told the guard as he walked past.
+
+“Does it work any other way?” The guard said and chuckled.
+
+*
+
+“Thern!” Narhilda said and sat up in bed, wide awake. She looked around, and rubbed her shoulder where she could have sworn he'd touched her last night, then sighed. “It... it was just... a dream...” She said, and tears came to her eyes. “I miss you so much...”
+
+*
+
+*CLANG* *CLANG* *CLANG*
+
+Ren woke up in the bed, then sat up to look at the guard.
+
+“Breakfast.” The guard said, holding a metal tray with what looked like porridge in a lumpy pile. If Ren's guess was right, it was watered horse feed.
+
+“No, thank you. I brought my own.” Ren said and pulled out a plate of food.
+
+The guard stared at Ren as he ate, and the smell of good food soon filled the brig.
+
+“Hey! What smells so good?”
+
+“I don't want to eat this gruel!”
+
+“I'll have what he's having!”
+
+The three other prisoners shouted.
+
+“Keep it down, you mongrels!” The guard shouted back, then turned to Ren. “You shouldn't have that in here.” The guard said. “Or the bed.”
+
+“Sorry.” Ren said.
+
+“Come on... gimmie some of that!” One of the prisoners shouted, and the guard disappeared from Ren's doorway. A splat was heard and a shout, then the guard came back with the empty tray. Ren smiled and slid off the bed. He stored it in inventory, and motioned to the tray in the guard's hand. The guard held it out.
+
+“I'm sure the men on duty might like a bit of home cooking.” Ren said and filled the tray with cooked meats and hearty vegetables. The guard stared down at the big pile of food and then stared at Ren.
+
+“I'm sorry... I don't have anything for dessert. I forgot to bring pie.”
+
+The guard shook his head and walked away. He heard the brig's door open and the shouts of 'where did you get that?', 'damn, this is good', and 'I liked him right away'.
+
+Ren chuckled. How much do you want to bet that was the Sucker-punch Guy? Ren thought to Teepo.
+
+“Nothing. You'd win that bet.” Teepo said. “I can see him.”
+
+Ren smiled and pulled out one of the medium-sized steel shields he had in inventory, and took out his Book of Runes. He flipped to the Resist Spell Rune page, fixed the glyph of double runes in his mind and put the book away. Ren was tempted to do the quadruple one, but it used up too much Mana too quickly, and he didn't have that much left in his Mana Pool. The double was only a fraction of the cost, and by absorbing the enchantment again, he could recoup some of the used Mana. Sometimes quantity had a quality all on it's own.
+
+I might as well do some Enchanting level grinding while I'm just sitting here. Ren thought and got to work.
+
+*
+
+Later that afternoon, after all of his urgent paperwork was done, the Commander donned his new uniform and was surprised at the superb stitching and how well it fit. He flexed his arms and twisted around, and the uniform didn't impede his movement in the least. He dropped his arms, the cloth fell back to it's original form, and it wasn't wrinkled at all.
+
+“Damn, that guy's a good tailor.” The Commander said. “I wonder how his training is coming along?”
+
+*
+
+Ghomhan was working hard to get the Recruits to do a simple overhead strike. He'd tried his best to get them to do it right the night before, but after Recruit Ren had left, they seemed to lose all of their energy.
+
+Even that big lummox Groggot isn't trying very hard. Ghomhan thought. “Put your backs into it, Recruits! Those dummies aren't going to kill themselves!”
+
+*
+
+Ren had emptied his Mana Pool, and most of his Mana bar several times, before he finally got a popup.
+
+Stat Change!
+
+Enchanting Level 8 (Intermediate 0%)
+
+Absorb Enchantment Level 3 (Intermediate 0%)
+
+Ren sat back on the bench. It only took 50 enchantments to get the 5% I needed to get to Enchanting Level 7, then another 1000 to get to Level 8. Ren stored the shield and had an idea. He stood up and walked to the door of his cell.
+
+“Guard?” Ren said. He didn't have to shout, as he could see the edge of the table from where he stood, and the guard was sitting behind it. Ren heard the chair move and the guard came over.
+
+“What is it?”
+
+“Is there any chance I could get a medic? With a major healing ability?”
+
+“What for?”
+
+“I'm an Adventurer. I'd just like to get patched up a little.”
+
+The guard nodded and went to the door. He came back a moment later. “They'll be here in about 10 minutes or so.”
+
+“Thanks.” Ren said, then had an idea. Using his comfy chair plans, he scaled it down slightly and cut the wood for it.
+
+“What are you doing in there?” The guard asked.
+
+“Making a chair.” Ren replied and nailed the chair together.
+
+The guard stood there and watched Ren as he took out some cloth, dyed it blue, then sewed up the Upholstery for the chair and attached it properly. It had only taken about 20 minutes to make.
+
+“A female healer coming in.” Teepo said.
+
+Thanks, Teepo.
+
+“Where's the patient?” A woman's voice asked.
+
+“Right here.” The guard said.
+
+A female dwarf stepped up to the door and smiled. “Hello, soldier. I hear you have a boo-boo.”
+
+Ren smiled. “I'm an Adventurer. I always have a boo-boo.”
+
+“You're just my type, then!” She said and then frowned. “You aren't going to try anything, are you?”
+
+Ren grinned. “Nope. I have a girlfriend.”
+
+It took her a moment to get what he meant, then laughed. She waggled her hand at him with an iron ring on it. “Married.”
+
+The soldier opened the cell door and let the healer in. Ren waved to the chair and she sat.
+
+“Ooh, this is a nice chair.” She said and made herself comfortable. “Now, what seems to be the problem?”
+
+“I just need some Major Healing, if that's okay?” Ren asked.
+
+“Major Healing?” She said, then looked Ren over. “I don't see any large wounds.”
+
+Ren held a hand out to her. “Trust me, I can take a lot of Mana.”
+
+“All right, but it seems like a waste to use it.” She said, actvated her ability, and widened her eyes as Ren sat there and absorbed it. “You weren't kidding!” She said, and kept pouring Mana into him. It only took about 10 minutes, and his Mana bar filled up.
+
+“Ah, thank you.” Ren said and gave her a slight bow.
+
+Her eyes widened slightly at his gesture and giving her Honor.
+
+“Ma'am? Are you busy after this?”
+
+“I thought you said you wouldn't try anything?” She said and smiled.
+
+“Medically, I meant.” Ren said and smiled back.
+
+“This far from the front, you're only the second patient we've had today.”
+
+“I have an idea that I'd like to try, and I was wondering if you would help me with it?” Ren asked.
+
+“That would depend on your idea.”
+
+“I've been enchanting, and it uses up a lot of Mana. If you would keep healing me with your Minor Healing, it would keep me from draining my own Mana.”
+
+“You're an Enchanter?!?” She said, surprised.
+
+Ren nodded.
+
+“I suppose I could help a fellow professional.”
+
+Ren smiled and pulled the bench out a little so he could turn around. He took out the steel shield again and his Book of Runes. He looked up the Resist Spell rune, then fixed the quadruple glyph in his mind, and stored the book again.
+
+It should only take 500 enchantments with the quadruple glyph. Ren thought, then glanced over his shoulder at the healer. “Ready?”
+
+She nodded and held her hands near his back.
+
+“Go.” Ren said and enchanted the shield. The healer activated her Minor Healing. Enchanting was still draining Ren's Mana Pool, but only marginally. The constant influx of Mana let him go all out. He'd enchant a glyph, then absorb it, about every 5 seconds. Ren had dismissed the first popup he got after 500 enchantments, then handed the healer a Mana potion. When he got the second popup after another 1000 enchantments, he stopped. It had taken just over 2 hours to achieve what he wanted.
+
+Stat Change!
+
+Enchanting Level 1 (Advanced 0%)
+
+Notice!
+
+You have reached Advanced in Enchanting. You now have the ability to combine 2 seperate glyphs into one.
+
+Whoa! Ren thought. I expected to get a fifth rune to add to a glyph, not a double glyph!
+
+He sat in silence while waiting for his Mana Pool to fill up that last little bit. Without him constantly draining it, it only took another 15 minutes to fill. He stored the shield and turned to the healer.
+
+“Thank you very much for your help!”
+
+She dropped her hands, and looked tired. Ren gave her another Mana potion and she drank it. He stored the empty bottles and smiled.
+
+“That actually worked out better than I thought.” Ren said to her. “I'd like to properly thank you, if I could.”
+
+She looked at him oddly, and he chuckled.
+
+“I meant that I will enchant something for you, if you want.”
+
+She had a surprised look on her face, then smiled. “I'm sorry, I don't have anything on me for you to enchant.”
+
+Ren glanced down at the iron ring on her finger.
+
+She followed his gaze and laughed. “I guess I do.” She slipped it off her finger and carefully handed it over. “That's very precious to me. Please be careful with it.”
+
+Ren nodded. He rubbed his fingers over the iron ring to detect any flaws, and found that it was well crafted. Flat on the inside and rounded on the outside. Ren put a fingertip on the inside of the ring, and enchanted a glyph with 4 Augment runes (each rune gives +1 to a single stat) and thought, Wisdom. The glyph etched itself on the inside of the ring, and Ren handed it back to her.
+
+She took it and put it on her finger, and her eyes widened. “T-t-thank you.” She stammered.
+
+“It was the least I could do.” Ren said. “Thanks again for your help.”
+
+She got up and walked over to the cell door. “I'm leaving now.” She said to the guard. Ren looked out the window and saw it was getting dark out. The guard opened the door and the healer stepped out.
+
+“I'm leaving too.” Ren said and stood up. “Commander's orders. I'll be back at dawn.”
+
+Ren picked up the chair and handed it to the surprised guard. “You can have that.” He said and stepped out of the cell.
+
+“See you in the morning.”

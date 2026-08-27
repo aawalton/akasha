@@ -1,0 +1,223 @@
+---
+id: b1f23c3b-534f-5bb2-bd5c-c6245e5fce45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71 Imbalance"
+slug: 0076-chapter-71-imbalance
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 76
+ownLength: 2239
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3488712/chapter-71-imbalance"
+royalRoadId: "3488712"
+---
+
+Adjusting the cloak around his shoulder, Lucien stepped out into the manor courtyard.
+
+Garrick was already waiting for him, standing at the same spot where they had spoken about the ridge outpost before Lucien's departure for Helvarn.
+
+Even as he approached, the miner's eyes remained fixed on the distant southwestern ridge. Only when he stopped a short distance away did Garrick turn and offer a slight bow.
+
+"Garrick, I heard from Harlon. How goes the construction at the ridge outpost? " Lucien asked, his gaze shifting toward the ridge as well.
+
+The miner's voice carried the same rough ease as before. “We’ve cleared some space, Lord. Nothing large yet, just tents and a shed for tools. We chose ground that would hold.”
+
+Lucien inclined his head. “Has the thaw caused any issues?”
+
+Garrick’s gaze shifted back toward the ridge, his hand brushing along the stubble of his jaw. “A little, nothing unexpected. Lower ground’s changing and water’s moving through it now. Not fast, but enough that you notice when you step wrong.”
+
+The conditions were not ideal, but the thaw had not slowed the work to a halt. For now, that was sufficient.
+
+The miner continued, his eyes still fixed on the ridge. “The marks we set during winter helped. Made it easier for Harlon’s men to start building.“
+
+“We took some stone and started cutting it. We wanted to see if any of it would hold.”
+
+Lucien rubbed his chin briefly. “Has Dorian sent men yet? I know he has posted more patrols around the road construction.”
+
+Garrick inclined his head in affirmation. “He sent two guards along with the workers during the day.” His gaze shifted toward Lucien. “They stayed near the ridge while the men worked.”
+
+“Good. We can consider having men remain there for a night or two once the thaw settles.”
+
+Lucien gestured toward the ridge. “How long before the ground stabilizes, in your experience?”
+
+Brows furrowing, Garrick ran a hand through his messy locks. “…A month, maybe two weeks if the weather improves.”
+
+He hesitated for a moment before speaking slowly. "...There's been talk among the men, Lord. That some of the survivors from Cragwatch are still alive. Word has it they're in Helvarn now."
+
+Lucien's eyes widened slightly. "I don't recall hearing anything about that while I was there."
+
+The miner let out a soft breath. "Not surprising, Lord. They might be staying somewhere under Lord Vaelric's arrangements."
+
+"Helvarn's quite the large town, and you were busy with trade. Plenty of places they might be staying."
+
+Lucien glanced toward him. "You have been to Helvarn before?"
+
+Shifting slightly, Garrick looked away toward the ridge. "...Once. A long time ago, Lord."
+
+The man's reaction reminded him faintly of the guarded neutrality when they had first met.
+
+Lucien shook his head. "I won't pry, Garrick. But did you ever visit the cathedral while you were there?"
+
+At his question, the man relaxed slightly. "I have. People usually do when they pass through the place."
+
+Keeping his expression carefully neutral, Lucien deliberately rubbed his chin. "I assume you have seen the priestess as well then?"
+
+Garrick finally met his gaze, slightly confused though he gave a slow nod. "Of course. Why else would anyone visit the cathedral?"
+
+"...I was just wondering how it was compared to the capital. There were quite a few worshippers when I visited so I didn't stay as long as I had wanted."
+
+The miner shook his head. "It was a long time ago when I visited so I'm not sure how much has changed."
+
+"I did feel better after it though."
+
+Slowly, Lucien inclined his head. "I should make arrangements to visit in the future then. But let us set that aside and focus on the work."
+
+"Have you found any traces of iron yet? Or anything unusual?"
+
+A slight frown formed on Garrick's expression. "No iron yet, Lord. There's more stone showing where it’s been worked before.”
+
+He rubbed at his stubble. “Most of it's the usual...good, solid stone. But there's another kind mixed in.”
+
+Lucien glanced toward him, brow raised in question.
+
+The miner pointed at the stone well outside the courtyard. "They look something like that but paler. It often shows near the surface in places.” His brow creased faintly. “It breaks easier than it should.”
+
+He gave a small shake of his head. “Not much good for building either. It could be why the folks who opened the previous quarry stopped when they found too much of it. It wears down faster than it should, and the edges soften, leaving a kind of white dust behind.”
+
+Lucien cupped his chin in thought. The miner's description reminded him of something he had heard before.
+
+Garrick didn't seem to mind the silence, but before Lucien could continue, a light voice cut in.
+
+“Mm...Lord Lucien, that doesn’t seem like something you should ignore.”
+
+He turned to see Talia approaching from the side, her eyes moving between the two of them as she drew closer.
+
+Garrick did not look at her at first, but he did when she continued speaking.
+
+“Breaks easily...softens with water and leaves a trace of white residue…” she voiced aloud even as she cast Lucien a knowing look.
+
+“It shows up in ridges,” Garrick replied simply. “Miners often find it in these parts.”
+
+Talia stepped closer, turning her attention back to him. “Where did you see it?”
+
+“Mid-slope,” the miner answered without hesitation. “Where the ground’s opened some. They're usually not buried very deep.”
+
+“Close to the surface…” she murmured.
+
+Tapping her cheek briefly, Talia gave a small nod to herself. “Hmm...could you bring some back next time?” she asked, then added a moment later, “Only if you’re alright with it, Lord Lucien. I just need a bit to test.”
+
+Lucien's gaze rested on her. It was clear to him that Talia had noticed something as well. Perhaps more than he had.
+
+“Do as she says, Garrick. Bring some of it back next time you visit.”
+
+Garrick dipped his head in response, he remained for a moment, as if waiting for anything further, then turned and left without another word.
+
+Once the miner had left out of earshot, Lucien jerked his head toward the side of the yard where the sheds were. At this time of day, there was little movement here, and they could speak without being overheard.
+
+“You know what that white stone is?” he asked once they were sure no one was nearby.
+
+Talia gave a quick nod, though her expression remained thoughtful. “It’s just a suspicion…”
+
+“Ah, and even the source of my information might be a bit...iffy,” she trailed off, looking sheepish.
+
+At the strange response, Lucien raised a brow. “Just tell me what it is, Talia. At most, it will be confirmed once Garrick brings some back.”
+
+“Well...doesn’t it sound like he was talking about limestone?”
+
+Upon hearing the word, something clicked into place in his mind.
+
+“…It does now that you mentioned it.”
+
+If it were truly limestone, then Ashridge had secured something far more valuable than it first appeared.
+
+“How did you come to that conclusion? Our previous work had little to do with something like that.”
+
+Lifting her hands as though reading a book, Talia flapped the imaginary pages. “Weeell...you know about a lot of the novels you read? It shows up quite often, right?”
+
+Lucien shot her a dry look. “...Aren’t you even more of an addict than I am?”
+
+She looked away at his words. “Anyway! If it’s limestone, then we have a real chance of making significant changes to the village.”
+
+“It would. Though that depends on your assessment being correct, and we would still need to determine the mixture.”
+
+His eyes narrowed slightly. “You didn't remember something like that, did you?”
+
+Talia glanced around briefly before lightly slapping his shoulder. “Of course not! I am not that much of an addict!” There was a brief silence before she added in a much smaller voice. "...Maybe I might know a bit of the process and mixture...just a little."
+
+Lucien exhaled softly through his nose, shaking his head at the thought. She had remembered this, yet failed to retain any of the coding lessons he had once tried to teach her.
+
+“A-anyway, remember to pass it to me once he brings some back!” she said, her tone lifting again. As quickly as she had arrived, she turned and headed toward her shop’s construction site near the gathering hall.
+
+Lucien watched her leave for a moment before a thought struck him. He had meant to tell her about what Garrick had mentioned regarding the cathedral. By the time he remembered, she had already left.
+
+'It can wait till later.'
+
+He turned at the sound of boots crunching against packed earth.
+
+Lucien found Tomas standing there, looking hesitant. It seemed he had spotted them together from a distance.
+
+The younger man wore the new guard equipment, and for a moment, it did not sit on him as naturally as the militia clothes he had been wearing.
+
+He now wore a brigandine with reinforced plates set beneath layered fabric that still carried the stiffness of something recently made. A shirt of mail showed at the seams where the coat parted, dull steel catching the light in uneven glints.
+
+A helmet rested firmly on his head, its shape cleaner and more defined than the older pieces the militia had once relied on, though the way his shoulders held suggested he was not yet used to the weight of it.
+
+It was an improvement, that much was clear. Where before there had been gaps and worn padding, there was now more coverage, something that could turn more than a glancing blow.
+
+In his grip was a crowbar-like tool with an iron tip. It seemed Joren had made good on his word to have one ready, though it was clearly a rushed job and likely made by his apprentice judging by how crude it looked.
+
+“My Lord, Master Joren said you would be needing this?” Tomas asked, approaching once Talia left.
+
+"Yes. You will escort me to the western fields today."
+
+The younger man seemed to understand the implication as his brows furrowed faintly. “…Are they causing problems for the village, My Lord?” he asked.
+
+“Not yet, Tomas. Which is why we are going there first. To ensure it does not become one.”
+
+Tomas looked like he wanted to say something but hesitated. He only spoke after Lucien gave a small gesture. “They aren’t bad people, My Lord. They’re just...” he trailed off.
+
+"Not pleased that my attention has been directed toward the eastern fields and the refugees," Lucien finished the sentence for him.
+
+The younger man opened his mouth briefly, then closed it again, uncertain how to respond.
+
+“It is true,” Lucien continued. “I have been too focused on the eastern fields. For them to be disgruntled is only natural."
+
+His eyes shifted toward the crowbar still held in Tomas’s hands. “That is why I am bringing you and that along.”
+
+Tomas followed his gaze, tightening his grip on the tool.
+
+"I have heard from Bran that you have kin working there?"
+
+Tomas nodded. “Yes, My Lord. A cousin...a few years older than me.”
+
+"Good. A familiar presence will ease their response. I did not announce my visit."
+
+“Yes, My Lord. Leave it to me.” He saluted, his movements smoother than the last time Lucien had seen. Dorian had been training him well.
+
+Lucien inclined his head in return before turning toward the manor gate. Tomas fell in behind him to his right as they left the courtyard together.
+
+The path to the western fields narrowed as they moved beyond the outer edge of the village. Fewer feet had passed this way, and the soil carried a rougher, less settled look than what he had seen in the eastern fields.
+
+Land broke unevenly, divided by shallow rises and scattered stone, with smaller plots pressed closer together and boundaries that followed the ground rather than shaping it.
+
+The forest pressed closer as well, its edge uneven where the clearing of the trees had slowed, even stopped completely.
+
+Scars from the last Tithe could still be seen here and there.
+
+Yet it was clear that the people here worked hard. Perhaps it would be more accurate to say they had to work harder than those on the eastern plots.
+
+Cut stumps lined the edges of the fields, while freshly turned soil and narrow stretches of crops showed where the land had begun to recover.
+
+Lucien continued forward without slowing, his eyes moving across the terrain as the differences became clearer the closer he was.
+
+Some plots held firm, dark and workable, while others thinned where stone surfaced through the soil, breaking the flow of planting and forcing the farmers to adjust.
+
+Bran's words surfaced, of how the land did not yield in the same way.
+
+When he stopped at a distance, Tomas slowed with him. From here, the stiffness in the younger man’s posture became apparent.
+
+The farmers slowed as word of their arrival began to spread. A few figures paused where they worked, tools lowering, eyes shifting in their direction. No one approached, and the distance between them remained.
+
+Lucien did not acknowledge it. His eyes traced the uneven lines of the fields and the treeline that pressed too close.
+
+It seemed he needed more than a crude crowbar for this.

@@ -1,0 +1,249 @@
+---
+id: 69c0ba9b-b8c4-57d7-9b79-8564c2cafd34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 601 - You Deal With It"
+slug: 0601-chapter-601-you-deal-with-it
+partOf: mythrans-master-of-all-continued-completed
+position: 601
+ownLength: 2819
+unit: words
+publishedAt: 2018-05-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219578/chapter-601-you-deal-with-it"
+royalRoadId: "219578"
+---
+
+Gloria had put her cell phone on speaker mode and stared at it as Stella told her everything that had happened to Ren over the last three days. Her heart hurt as Stella talked, and she discovered that she hadn't just messed up like she thought she did. She had missed two major events in Ren's life, two events she should have been there for, if she hadn't been so self-centered.
+
+“That's everything on the emotional side.” Stella's voice said from the speaker, almost angrily. “Here's Elise to give you the legal side of things.”
+
+Gloria's pipe dreams began to crumble as Elise told her about all of the regular lawsuits that were going to be landslide victories, then she talked about all of the new lawsuits that were going to be filed against both persons of interest and their related companies. The gravity of the situation finally hit home for Gloria, and she sighed. She remembered what Ren had said in the game about destroying the company that had offered her the job, and she had to reluctantly agree.
+
+“There's no way they can survive the public backlash, even if they somehow find a way to defend themselves in the civil suit.” Elise's voice said confidently. “The court of public option is going to crucify them.”
+
+“But... but...” Gloria tried to speak.
+
+“I know this looks like a golden opportunity, and normally it would be.” Elise said “Instead, it's a ship that's about to be blown out of the water, Gloria. You do not want to be on it.”
+
+“What if I take the job and work on gathering intelligence?” Gloria asked in a stroke of inspiration and tried to hide her excitement. “The only thing better than having information on a subject is having inside information on that subject.”
+
+“You can't justify...” Elise sighed from the phone. “You know what? Ren had the right idea. I'm done talking.”
+
+There was silence on the phone until Stella spoke a few moments later.
+
+“Unlike Elise, I'm not done talking.” Stella said. “I'll also finish her thought. You can't justify working for a company that directly benefited from experiments performed on Ren on the pretext of gathering information.” She said. “It's been years since it happened, and anything you think you might uncover has long since been swept under the carpet.”
+
+Gloria didn't say anything in response.
+
+“I doubt any of the original employees work there anymore.” Stella said. “We've got people at the law firm hunting down everyone Ren mentioned, and also all of their associates. We don't have a complete breakdown yet, but...”
+
+“But what?” Gloria asked automatically, even though she didn't want to.
+
+“The fallout from this is going to spread far and wide, Gloria.” Stella warned her. “I'm sorry to say this; but, any high tech job you get scouted for has to be viewed as suspect until everything is out in the open.”
+
+“Goddammit!” Gloria said in frustration.
+
+“Believe me, I know.” Stella said. “Unlike what Ren said, I don't think you should turn the job down right away. You want them to think you're seriously considering taking it.”
+
+I am seriously considering taking it. Gloria thought.
+
+“If you drag it out a little, they may believe they don't have you hooked.” Stella said. “They could offer you something else, something no fresh-out-of-college student would be offered. If they do...”
+
+“...then it's a blatant lure to reel me in.” Gloria admitted reluctantly.
+
+“Exactly.” Stella said. “Look, don't beat yourself up over this... or hold Ren responsible.” She said. “It's not his fault that they did those things to him.”
+
+“No, of course it isn't his fault.” Gloria said. “It's just...”
+
+“If you didn't know him, you'd be all over this job offer without a second thought, wouldn't you?”
+
+Gloria stayed silent, and Stella sighed.
+
+“Gloria, we're not your conscience. You're a grown woman and you can do whatever you want with your life.” Stella said. “You just have to ask yourself something.” She waited for a moment, then continued. “Would you have been offered this job, or been anywhere close to being considered for this job, if you didn't know Ren?”
+
+*
+
+Lisa had left the room during Stella's phone conversation, because she didn't care much for how Gloria was dithering about Ren. How can she even think about doing something to hurt Ren? She asked herself. That defies all logic. She picked up her VR headset and laid down on her bed, then logged into the game.
+
+“Flow Login Start.”
+
+********
+
+Lara, the Sage of Ages stepped out of her closet into the Library in Ren's county and went to her desk and picked up one of the newest books that had become available for the new World Event. She propped her feet up on her desk and started to read. It wasn't long before someone came into the back room of the Library to find her.
+
+“Ms. Sage?” Rosie said as she approached the desk. “Are you busy?”
+
+“Yes and no.” Lara said and put a bookmark in the book and closed it. “What can I do for you?”
+
+Rosie had been a little taken aback with the Sage of Ages' recent attitude change, but she didn't want to question it in case that reverted her back to her normally arrogant and dismissive personality.
+
+“There's someone in the Library to see you.”
+
+“Do I know this person?” Lara asked.
+
+“You're the Sage of Ages, Ms. Sage.” Rosie said. “You would be the only judge for that.”
+
+Lara was tempted to accuse her of being smart with her, but she knew Rosie hadn't been like that the last little while. She wasn't sure what brought about the change in her demeanor, but she wasn't going to question it in case Rosie decided to change back to her normally standoffish personality.
+
+“Then lead the way.” Lara said and stood up. Rosie smiled at her and walked away, and Lara equipped the special bodysuit Ren had given her, then covered it in her normal clothing which was also armor but didn't count as armor. Just for fun she equipped the mage robes he had given her. She always wore the large necklace of Pearls of Wisdom, both bracelets of magic boosting, the amulet with various enchantments like Unnatural Armor and Spider Walking, and the two diamond rings to boost her stats.
+
+When they left the side hallway, Lara caught a glimpse of the person waiting for her. He was decked out with the best enchanted armor and equipment that anyone anywhere could get, without access to what Ren could make. She easily identified everything the man wore, and was surprised when she used Identify Person on him and an empty popup appeared.
+
+Lara didn't let that show on her face as she quickly invoked a hidden magic spell that only a high level Sage of Ages had access to, and another popup appeared to replace the blank one.
+
+Name  Glastor Killdane  Level  200
+
+Gender  Male/Unique  Class  Hunter/Lord
+
+Race  Human/Demon  Fame/Infamy  -10,000 (Hated)
+
+Titles
+
+Master Bowman  Master Crossbowman
+
+Master Flailman  Master Longswordsman
+
+Master Pikeman  Master Shieldman
+
+Master Short Swordsman  Master Swordsman
+
+Master Unarmed Fighter  Master of His Domain
+
+Weapon Smasher  World Walker
+
+A second popup appeared that listed all of his skills and abilities, and then a third popup appeared and showed all of the people and creatures he had defeated.
+
+Oh, my god. Lara thought, and still didn't let anything show on her face. “What can I do for you?” She asked in a pleasant voice, despite not feeling that way.
+
+Glastor took out an Amulet of Truth and hung it on his neck. “I have it on good authority that you always tell the truth when asked a question; but, I can't take that chance.” He said and let an evil smile spread across his face. His mouth distorted and pulled apart to reveal a hundred sharp and pointed teeth. “Tell me how to kill Ren the First.”
+
+*
+
+Ren woke up on the bed, opened his eyes, and saw his friend on the ceiling. Hi, Teepo.
+
+Hi, Ren. Teepo thought to him and dropped from the ceiling and landed on his shoulder. Nothing to report.
+
+Same here. Artemis thought, so she wouldn't wake the succubi.
+
+Ren turned his head and saw that she sat on the floor right beside the bed. Why are you... oh, you didn't have to stay right beside me. He thought, and sent her feelings of happiness that she was so diligent.
+
+I could respond that you brought me into this world to do that; but, I really want to. Artemis thought back and leaned in to give him a kiss.
+
+I better sleep for an hour, just in case. Ren thought.
+
+Artemis thought about climbing onto the bed to join him, but there wasn't a lot of room for her to do that. Ren smiled and pat his chest, and she didn't need any more prompting than that. Artemis stood up and laid down on top of him, so that their faces were right next to each other.
+
+This isn't a comfortable way to sleep. Artemis thought.
+
+Move down a little. Ren thought, and she eased down enough so she could rest her head on his chest. There you go.
+
+Artemis laid her head down and Ren ran a hand through her red metallic hair. Ren...
+
+I'm going to be relying on you a lot for a while. Ren thought. I hope you can handle it.
+
+I'll handle anything you can give me. Artemis responded. Anything.
+
+Ren put his arms around her shoulders and they drifted off to sleep holding each other.
+
+*
+
+“N-no!” Lara said and took a step back. Her hands started to shake as she fought to not answer.
+
+“You can't resist the impulse to speak the truth.” Glastor said. “You've been asked an honest question, Sage of Ages. Answer it!”
+
+“N-n-no! NOOO!” Lara turned and tried to run, and he was suddenly there. She bounced off his chest and landed on the floor. She wasn't stunned, but she was quite afraid.
+
+“Stop this right now!” Rosie said and stepped in front of the man. “I will not have any violence in my Library!”
+
+“I offered no violence, so your power is limited.” Glastor said. “I only asked a question, an unrestricted question, and the knowledge is not forbidden.”
+
+Rosie opened her mouth to say he had hit Lara, but he hadn't. “You're scaring her.” She said instead.
+
+“No, she is not afraid of me in the least.” The man said. “What's scaring her is her answer.”
+
+Rosie turned and looked at Lara, and she saw her shaking uncontrollably.
+
+********
+
+Stella hung up the phone and held onto it tightly.
+
+“So, do you think she's going to listen to reason?” Elise asked, and Stella sighed.
+
+“I certainly hope so, but...” Stella looked at the television screen and saw Ren was asleep in bed. “...she's... I can't describe what I think she's doing.”
+
+“I can't believe that she tried to tell me she would take the job to gather information for Ren.” Elise said.
+
+“That girl...” Stella shook her head. “Even with all the evidence laid out in front of her, she's still debating on taking the job anyway.”
+
+“It is a dream job for her.” Elise said. “I can understand her reluctance to admit it's a bad idea.”
+
+“I know.” Stella said. “If she does take the job, then you know what's going to happen.”
+
+Elise nodded. “Unfortunately.” She said. “They'll try to mine her for information about Ren.”
+
+“I'll start the paperwork to terminate her employment with the research project.” Stella said. “If she calls back and tells us she's taking the job, I don't want her associated with the project anymore.”
+
+“I assume you'll be submitting it to the peer review board.” Elise said, and she nodded.
+
+“They need to know they can't get to Ren though her, either physically or electronically.” Stella said. “Elise, can you handle the electronic side?”
+
+“Yes, I'll get Barbi to do it.” Elise said. “You know Ren won't be happy if we do this.”
+
+“He's not going to be happy if she ignores him and takes that job, and he's going to be really unhappy when her career is ruined because of one stupid decision.”
+
+“It's not just one stupid decision, Stella.” Elise said, sadly. “If she does this, there's no way Ren is going to want her around. Not for a while. She has to give up the research project, all of us, and Ren as well.”
+
+Stella thought about that and looked at her with wide eyes, then Elise spoke again.
+
+“Remember when she attacked him that last time in the game, and he warned her that if she did anything like it again, he would have to rethink their relationship?”
+
+Stella looked at Ren on the television screen and then at his inert form on the bed. “You're right. He's not going to want her near him if she decides to ignore him on this.”
+
+“I don't want her around, either.” Elise said. “She's been a bit of a thorn in his side ever since they met, and it's just been twisting little by little and annoying him this whole time, and putting a strain on his other relationships.” She sighed. “I see what she's doing to him and I can't say anything about it, all because he cares so much about her.”
+
+“I completely understand.” Stella said.
+
+“You do?” Elise asked, slightly surprised.
+
+Stella nodded. “I'm in a unique position to see everyone he's been interacting with, and I've observed a lot of things.”
+
+It was Elise's turn to have her eyes go wide as Stella explained about not wanting Elise around him at first. Her observations and her opinion of Elise had been pretty low at the time.
+
+“Stella, I... I didn't realize...”
+
+Stella chuckled. “You know what you were like back then.” She said, and Elise nodded. “I'm glad I didn't say anything and kept my thoughts to myself, because look at where we all are now.”
+
+“I knew I needed to earn your approval, but I didn't realize how important that was at the time.” Elise said. “Once I started coming around and spending time with you and Ren, though... I discovered that you and Barbara and Denise weren't just his nurses.” She said. “You were his family, and I needed to treat you that way.”
+
+“Is that what caused the dramatic shift in your behavior?” Stella asked, curious.
+
+Elise nodded. “I fan-girled all over him at first, because I wasn't too aware of how inappropriate that was.” She said. “I was only concerned with myself and how I imagined I felt about him.”
+
+Stella sat down on the bed next to her. “Imagined?”
+
+Elise sighed. “I was infatuated with what I thought he was, and I didn't consider how he felt about having me be that way with him... not until the incident in front of the Library.”
+
+“Where you almost killed him with your breasts?” Stella asked with a huge smile on her face and Elise chuckled.
+
+“Lethal Hugs should have been my character name.” Elise said, and Stella chuckled, too. “After that, I started to look back at the things I did, and was still doing at the time, and I didn't like it.” She said, took a breath and let it out, then continued. “I didn't like myself much, either.”
+
+Stella put a hand on hers and squeezed it slightly.
+
+“After a long self-evaluation, and a scathing talking down from my boss, I had to try and make things up to Ren.” Elise said. “When I started to visit more often, I knew what little I was doing wouldn't be enough to satisfy his family.”
+
+Stella and Elise smiled at each other.
+
+“Now look at us.” Elise said. “It feels like we've always been together here in this house, and it hasn't been that long since we came here.”
+
+“Things do move at a surprising pace sometimes.” Stella said.
+
+“I never thought I would even consider moving in with someone, and here I am living with 4 people in a house, not counting Barbara and Donald in the guest house.”
+
+Stella chuckled. “I was saying something like that to Lisa last night.” She said. “I haven't been home to sleep since Ren asked me to pick a room here to keep my things in.”
+
+“He's a charmer, isn't he?” Elise smiled and looked at Ren. “Who would have thought that someone so small could have a heart big enough for all of us?”
+
+“His heart?” Stella asked and grinned, and Elise laughed.
+
+“Yes, his heart!” Elise said and gave her hand a squeeze. “The other thing is just a bonus.”
+
+“I think all of him is a bonus.” Stella said as her gaze fell upon Ren, too.

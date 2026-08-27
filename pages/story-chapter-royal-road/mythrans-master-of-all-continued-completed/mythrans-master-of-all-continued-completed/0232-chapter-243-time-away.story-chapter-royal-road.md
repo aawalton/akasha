@@ -1,0 +1,311 @@
+---
+id: 24863a0c-2c68-56d8-8c5d-afaebf0b83ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 243 - Time Away"
+slug: 0232-chapter-243-time-away
+partOf: mythrans-master-of-all-continued-completed
+position: 232
+ownLength: 3290
+unit: words
+publishedAt: 2017-05-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133774/chapter-243-time-away"
+royalRoadId: "133774"
+---
+
+Ren landed on the other side of the portal, felt a sharp pain on the back of his right hand where the Queen of the Dark Elves mark was, then summoned Teepo while he ran down the stairs. Because he wasn't actively attacking anything with his Controlled Berserk Rage, it was only going to last for a short time, and he would be completely exhausted afterwards. Princess felt him coming and stood up immediately.
+
+Who are we going to kill?
+
+“I'm sorry, Princess.” Ren said, and Teepo landed on his shoulder. “I was showing off for Elerlyth.”
+
+Princes huffed, and he felt her disappointment.
+
+“I'm going to be too tired to hold on properly.” Ren said as he led her outside and the door locked behind him. He took out more food than she needed right then, and a bit of rope for himself. “I need to tie myself to your saddle.”
+
+Very well.
+
+Ren climbed up on her and tied the rope around his waist, and then to Princess. He had made it just in time, because the Controlled Berserk Rage ended and a wave of exhaustion hit him.
+
+“Uhhh...” He said, laid forward on her, and wrapped his hands in the reins. “Eat... and... go home.” He said and yawned, and glanced at the spider. “Don't... bite anyone... and hide... in cloak...” He managed to get out, then fell fast asleep.
+
+*
+
+Princess felt him lose consciousness, and knelt instead of putting her head down to eat. If she did that, Ren might slide forward and fall off. She ate half of the food he had given her, and she thought about the trip ahead. If she paced herself, she should be able to make it before her Health ran out completely.
+
+No more food... will hurt...
+
+The spider crawled down to the remaining food, wrapped it loosely in webbing, and hauled it up to hang it from the saddle.
+
+Thank you. Princess thought to it, and it crawled into Ren's cloak. Let us go.
+
+“I'll let you know if he starts to slip.” Teepo said, and Princess started to trot. Once on the road, she poured on the speed and thankfully, Ren had secured himself quite well. About halfway back, Princess stopped, pulled the webbing off of the saddle, and ate the rest of the food. She ran at a good pace after that, and they made it back to House Neram Keep only a few minutes later than if Ren had been awake.
+
+The guard opened the gate when he saw Princess coming, then let surprise show on his face at the way Ren was tied to his mount.
+
+“Is he all right?” The guard asked, and Princess huffed at him. “Okay, then.” He said, and Princess trotted through the gate and into the courtyard. She wasn't sure what to do next, though.
+
+“Ren!” Teepo said. “REN!”
+
+Ren didn't respond, except with a loud snore.
+
+“This calls for more drastic measures.” Teepo said, flew into the house for a moment, then came back out. “Can you lightly kick the door of the house?” Teepo asked. “Nathalia's in there, and she can get Ren off of you.”
+
+Princess sauntered over to the front door of the house turned around, and kicked backwards with one of her back legs. It had been a good idea, but Teepo had forgotten Princess' enhanced Strength. The hoof impacted the wood and splintered half of the door to pieces. It had the desired effect, though; and brought Nathalia outside.
+
+“What, by the gods, is going on out here?” Nathalia asked as the front door swung open freely. “Ren!” She said, and came over to him, then examined him and shook her head. “He's only asleep.”
+
+Nathalia untangled his hands from the reins, and untied the rope that held him to the saddle.
+
+“Ren! Wake up!” She said, and slapped the side of his face a couple of times. She looked at him, and how he was positioned, shrugged her shoulders, and pulled on his arm. It took a bit of tugging to get his body moving, and then it shifted slightly and Ren slid off of Princess' back and fell to the ground. He hit his head and it bounced slightly, and Nathalia knelt beside him.
+
+“Ow.” Ren said, and opened his eyes. “Nathalia?” He looked around. “We're back already?”
+
+“No, you're just dreaming.” Nathalia said.
+
+“I am?” Ren asked, and blinked his eyes. He reached up and stroked the side of her face. “Would that make you my dream girl?”
+
+Nathalia felt how he felt, and he felt how she felt, and neither of them had to concentrate on their House Neram pendants.
+
+“Of course I am.” Nathalia said. “Who else would put up with your antics?”
+
+Ren chuckled, even though he was still half-asleep and exhausted.
+
+“Come on, and get up.” Nathalia said. “I'm not even going to think about trying to pick you up myself.”
+
+Ren nodded slightly and rolled over, then got up to his knees. “Damn, I need to sleep, but I have Adventurer's business to take care of.” He said, and got to his feet.
+
+“There's nothing you can take to energize yourself?” Nathalia asked, and Ren looked at her.
+
+“No, there's nothing I can take; but, I can convert Fire energy to heal myself and refill my Mana.” Ren said and walked over to the fire elemental's pen. “Hi.”
+
+Ren climbed into it and almost fell, because he was so tired. He sat down by the flame and wind section and the fire elemental came over to him. It rubbed it's head stub on his face, and he smiled.
+
+“I missed you, too.” He said, took out a piece of wood, and held it in the flames for a few seconds. It caught fire and he pulled it out, broke it in half, and gave a piece to the fire elemental. It started to consume it, and Ren used his Absorb Fire and Fire Manipulation abilities. He used it to fill his Mana Pool, then just sat there and held it. He absorbed the energy, but since his Mana and Health were both full, the energy wasn't going anywhere. Ren didn't feel energized by it, so he gave up that idea and handed the wood to the fire elemental.
+
+“It was worth a shot.” Ren said, pat the elemental, and stepped out of the pen. “I'm going to be gone for a couple of days.” He said, then froze. “Ah, crap.”
+
+“What is it?”
+
+“I need to deliver some food to the giants.”
+
+“Just call the Commander of the Garrison and have him deliver it.” Nathalia said.
+
+“I have to pick some up first.” Ren said. “136 people eat a lot of food over a few days.”
+
+“You're telling me that?” Nathalia said and laughed. “How many people do you think the restaurant serves every day?”
+
+Ren looked at her, and sighed. “Sorry, I'm too tired to think straight.”
+
+“Then how are you going to get food for them, and deliver it in the state you're in?”
+
+Ren sighed. “I can't just ignore them.”
+
+“Then don't.” Nathalia said. “Call the Commander. Have him send men out to buy the food and deliver it.”
+
+“All right.” Ren said. “But, just so you know, I feel like I'm ignoring my responsibilities.”
+
+“Just do it!” Nathalia said, and he nodded as he took out the Sending Square. He called the Commander, and asked him to do what Nathalia said. The Commander responded and said that soldiers were much too busy to be a delivery service.
+
+“Fine.” Ren said. “As the overall commander of the Garrison, I am ordering you to send a competent unit of soldiers, with carts, to the local farms first thing in the morning. They are to buy enough food ingredients - sacks of potatoes, vegetables, and meat - for 140 people to eat for 4 days, then deliver it to the edge of the giant camp.” He said. “There's a giant trench there, so they'll have to yell and holler to get the giant's attention. I'll reimburse you for the food when I get back in a few days.”
+
+“Understood.”
+
+“Good.” Ren said. “Have a good evening, Commander.”
+
+The Commander didn't say anything further, and the Sending Square stopped glowing.
+
+“Now, put Princess in the stable and get inside the house.” Nathalia said. Ren nodded slightly and did as she said. When he went into the house, Nathalia was sitting on the couch. He sat beside her, and sighed because he could feel her anger.
+
+“Please don't be mad.”
+
+“About what?” Nathalia huffed.
+
+“About me leaving for the next few days.”
+
+“Why would I be mad about that?” Nathalia asked. “You were gone for a month, then you left to rescue Groggot, and then you were barely here when you came back from that because you were dealing with the giants.” She crossed her arms. “Today you had to go and feed Elerlyth, and now you'll be gone for several more days.” She huffed again. “Why in the world would I be mad about that?”
+
+Ren reached over to her, picked her up and sat her on his lap.
+
+“Ren, what are you-mmhh” Nathalia tried to say, but his kiss interrupted her words. She resisted at first, but then gave in to her impulses and their shared feelings for each other, and kissed him back. They both started to get excited, then Teepo spoke.
+
+“I'm sorry, Ren.” Teepo said and interrupted them. “You have to go.”
+
+Ren stopped kissing Nathalia, and her eyes widened as she put a hand over her mouth.
+
+“Ren, we... we're in the same House and not under contract. We can't...”
+
+“It's all right.” Ren said, gave the hand she held in front of her mouth a kiss, and leaned back. “I checked at the Main Keep. As long as we don't try to make anything official, we can pretty much do what we want.”
+
+“We... we can?” Nathalia said, and Ren felt how happy that made her. “Oh, Ren!” She said, and kissed him passionately. He let it go on for a minute, then broke the kiss.
+
+“I still have to go.”
+
+“Okay, but you had better get back here as soon as you can.” Nathalia said. “You and I have some catching up to do.”
+
+“We sure do. I have to tell you about how I met the Queen of the Dark Elves.”
+
+“You WHAT?!?”
+
+“That reminds me.” Ren said. “Come on out.”
+
+“AHHHHH!” Nathalia screamed as the 5 inch long tarantula came out of Ren's cloak.
+
+“It's okay.” Ren said and picked it up. “It's joined to the mark she gave me.”
+
+“It's WHAT?!?”
+
+Ren showed her the spider-shaped mark on the back of his right hand, and she stared at it. “I'm not sure what it eats, so I want to leave some Health potion for it to drink.” He said. “Can I have a small plate, please?”
+
+Nathalia nodded quickly and ran to the kitchen. She came back with a small plate, and Ren took it from her to put on the small table in front of the couch. He poured some Health potion into it, then looked at the spider.
+
+“I hope this is okay for now.” Ren said, and left the still mostly full Health potion bottle beside the plate. “I'll be back in a few days. Please, don't bother Nathalia or Ereka.” He said and smiled. “You need to make a good impression on them without scaring them.”
+
+The spider twitched it's mandibles a couple of times, and Ren took that as agreement. He put the spider down on the table and sat back.
+
+“You're just going to leave it here?” Nathalia asked, trying to contain her uneasiness about the whole situation. “Unattended and roaming free?”
+
+“It's not like I can let it stay in the cloak while I'm gone.” Ren said, then a moment later, he smiled. “Actually, that's not a bad idea.” He said, took off the cloak, and laid it on the small main room table. The spider crawled into it right away, and Nathalia sighed in relief.
+
+“I'll be back as soon as I can.” Ren said. “I love you.”
+
+“I love you, too.” Nathalia said.
+
+See you later, Teepo. Ren thought. “Logout.”
+
+********
+
+Ren took off the VR headset, and Stella was there with Barbara.
+
+“Well, look at you.” Stella said with a big smile on her face. “What were you thinking, showing off for Elerlyth like that?”
+
+“Showing off, obviously.” Ren said and laughed. “Did you see the look on her face?”
+
+“I checked the footage after Barbara filled me in.” Stella said. “So yeah, I saw it.” She shook her head. “You know she's going to beg and plead with you to do that again, right?”
+
+“She can beg all she wants.” Ren said. “Unless I'm in a situation where I can use it for more than a few seconds, I'm never activating my Controlled Berserk Rage ability again.”
+
+“I thought it used your Stamina bar as a timer.” Stella said.
+
+“It does, but the ability says that I can 'continuously attack' and use it as a timer. If I don't attack, it exhausts me completely.”
+
+“That's both good and bad.” Barbara said. “I think you're right. You shouldn't use it anymore, unless you have to.”
+
+Ren nodded, and then his stomach rumbled loudly. “My stomach would like to order breakfast.”
+
+Barbara and Stella laughed, and he grinned.
+
+“I'll be back in a few minutes.” Stella said and left to get him something to eat.
+
+“So you got a pet spider anyways.” Barbara said.
+
+“Yeah.” Ren said. “And it can't die.”
+
+“I saw.” Barbara said. “I wonder how it works?”
+
+“I don't know.” Ren said. “If it was a familiar, I'd understand how it does that, but I still have a familiar slot free.”
+
+“You do?”
+
+Ren nodded. “I've been too busy to make something that I meant to make a while ago, but if I make it where I am now, it'll be stuck in the dwarf lands until the ship brings it over. If I make it in Aurora, it'll be alone a lot until I come back.”
+
+“So, you think it's better to wait, rather than condemn it to either of those situations.”
+
+“Right.” Ren said. “I've waited this long to make it. A little while longer isn't going to matter much.”
+
+“It will if you find out you need it for some reason, and don't have it.” Barbara said, wisely.
+
+Ren was going to ask what she would do, but Stella came in with a tray of food. He took in a long breath through his nose, and he smiled.
+
+“Pancakes!” Ren exclaimed, and his stomach rumbled again. “Endless Stomach approves!”
+
+Stella grinned and put the tray in front of him. “Take it easy on the syrup.”
+
+“As if!” Ren said, opened the large packet of it, and smothered the pancakes. “Oh, baby.” He said, picked up the fork, and cut into them. He put the first forkful into his mouth, and chewed it up well. “Mmm. Sweet buttery softness!” He said, and took another forkful.
+
+“It's like watching food porn.” Stella said.
+
+“Stella!” Barbara nearly shouted, then she laughed. “Food porn.”
+
+Stella grinned, and they talked about the events for the day while Ren ate. He took his time, and made sure he chewed everything up before he swallowed it. Even so, he finished quickly and Stella took the tray from him.
+
+“How are you feeling?” Stella asked.
+
+“I'm feeling okay.” Ren said, and flexed his hands and bent his elbows. “This one still hurts, but at least I don't have to keep it in a sling anymore.”
+
+“Let's get you to physical therapy.”
+
+Ren sighed, and slid out of bed to get changed into his workout clothes. Stella heard his reaction and put a hand on his shoulder.
+
+“I'm going in with you.” Stella said. “I'll make sure he doesn't maul you too much.”
+
+“Thanks.” Ren said and finished getting changed.
+
+“Now get in the wheelchair so I can deliver you to the torture room.” Stella said and smiled.
+
+“Yes, Ma'am.” Ren said and sat in the wheelchair. “See you tonight, Barbara.”
+
+“Bye, Ren.” Barbara said, and Stella took him to therapy.
+
+Thankfully, with Stella to run interference every time the therapist tried to manhandle Ren, the session actually went pretty well. Ren wasn't as stressed as he had been after the last time he had therapy, and he also wasn't as tired.
+
+“I'm glad that's over for today.” Ren said and tried to peel off his sweat-soaked t-shirt. “Help me out of these clothes.”
+
+“Ooo, I thought you'd never ask.” Stella said and Ren chuckled.
+
+“You might want to keep your hands to yourself.” He said as she gently pulled off his t-shirt. “I've apparently got a girlfriend now.”
+
+“I heard.” Stella said. “Brown chicken, brown cow.”
+
+Ren snorted a laugh. “What was that?”
+
+“You know.” She said. “That funky music they play in the old movies when something sexy is going to happen.”
+
+“I think you mean 'boom-chicka, bow-wow'.”
+
+“That's what I said.” Stella said, put a hand on her hip, and the other hand on the back of her head. She swung her hips and gyrated. “Brown chicken, brown cow.”
+
+Ren started to laugh. Stella turned around and said it again as she shook her butt at him, then exaggerated the motion.
+
+“Stop! I can't take it!” Ren laughed and tears came to his eyes.
+
+“Suffer at the sight of my sexiness!” Stella grinned and over-exaggerated the movement, started to lose her balance, and caught herself against the dresser before she fell. “Oops.”
+
+Ren leaned against the bed and held his sides, and tried his best to stop laughing. Stella let him laugh a bit more, helped him dry his eyes, and took him to the bathroom to finish getting undressed. He had a quick shower, with only a little bit of help from Stella in the back-washing department, and she wrapped him in a towel.
+
+“Are you heading back into the game before we go to the television studio?” Stella asked him as she helped to dry him off.
+
+“No.” Ren said. “I don't want to take the chance that I'll get sweat-soaked again, especially if I'm in the bed for several hours before we leave.”
+
+“Yeah, that's always a risk.” Stella said and dried his hair. “I heard that Elise wanted to be there.”
+
+Ren nodded, and she smiled at him.
+
+“I also heard that you put an end to that idea for her.”
+
+“I tried to explain to her how much I appreciate everything she's been doing for me; but, she can't give up her job just so she can spend time with me.” Ren said. “I'm not sure she got the message, though.”
+
+“It's hard to tell people something that they don't want to hear.”
+
+Ren nodded. “Is it ever.”
+
+“What did she say?”
+
+“That I shouldn't tell people how to live their lives.”
+
+Stella smiled crookedly. “I can tell that's not all she said. I see that glimmer.”
+
+“What glimmer?” Ren asked, and put a hand on his face.
+
+“That glimmer.” Stella said, and pointed to his eye. “She said something else. What was it?”
+
+“She said...” Ren sighed. “...that nothing was as important as me.”
+
+“Oho!” Stella said and grinned. “Way to go, little stud!”
+
+Ren chuckled. “I still don't know why she likes me so much.”
+
+“You're handsome, funny, rich, humble, young, innocent...”
+
+“Hey, I resemble those comments!” Ren joked, and she laughed.
+
+“I said you were humble, not obnoxious.” Stella said, and it was Ren's turn to laugh.

@@ -1,0 +1,173 @@
+---
+id: dcc64eb0-dd91-5499-b110-ce3c92c8ff7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107 Growth"
+slug: 0113-chapter-107-growth
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 113
+ownLength: 1993
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3764787/chapter-107-growth"
+royalRoadId: "3764787"
+---
+
+The journey back to Ashridge took much longer than usual.
+
+Even with enough carts to carry most of the refugees, a convoy of their size could only move so quickly. They were forced to spend several nights on the road instead of the one-day journey.
+
+There had been no complications of note, though Dorian didn't let his guard down for even a moment, maintaining a constant guard patrol whenever they set up camp for the night.
+
+As the village came into view, the people in the carts began to relax, knowing their journey was at an end.
+
+Lucien didn't share their relief. From the moment he had agreed to accept seven hundred people, he had known the problems would only continue to grow.
+
+That became more apparent when Lucien saw Harlon and Talia at the northern palisade gates. Talia had a smile on her face but the older man beside her didn't look particularly pleased.
+
+Riding up to them, Lucien dismounted before handing the reins to a guard stationed at the gates.
+
+Harlon gave a slight bow while Talia's smile widened before she spoke.
+
+"Lord Lucien! The meeting must've been...exciting, considering what you brought back." Her eyes drifted to the convoy behind him.
+
+Lucien rubbed his temple. "There's a lot to discuss but right now, let us focus on the immediate problems first." He turned to Harlon. "I tried to send word ahead of time. How many shelters have been constructed?"
+
+Letting out a breath, the carpenter took out his pipe from his pouch. "As soon as your message arrived, we began to construct temporary shelters...Talia had chosen the site where they would be housed. It's at the northwestern edge of the village."
+
+Lucien's brow lifted before he glanced at Talia, who gave a slight nod.
+
+"From the map Alicia drew, I figured you'd want them housed where it would be convenient for future planning." She looked toward the convoy. "But let's get them inside first. Your steward is already there with the scribes too."
+
+Before leaving for Helvarn, Lucien had ordered Elias to prepare intake records and labor rolls in anticipation of Lord Rathenfell’s request.
+
+Neither the steward nor himself had expected that the number would be seven hundred people.
+
+"Let's get them settled inside then."
+
+Lucien walked ahead of the convoy with Talia and Harlon as it wound slowly through Ashridge.
+
+Villagers lined the roadside as the carts passed, some standing in doorways while others paused in the midst of their work. A few raised hands in greeting toward familiar guards returning home, though most of their attention remained fixed on the refugees filling the wagons.
+
+He could already see Cora and Leofric peering at them from a distance. Upon catching sight of him, Cora immediately waved, though she didn't come running this time, more interested in the unfamiliar faces.
+
+Beside them, Roland posed with his wooden sword planted down in what he likely believed was a heroic manner, though the wind repeatedly brushing his hair into his eyes ruined the image entirely.
+
+He wondered where the other two children were until he spotted Matthias and Elin watching from Talia's shop. The quiet boy seemed focused on the people in the wagons until he caught Lucien's eye and jumped slightly.
+
+The corner of his mouth lifted as the boy flushed and turned away in a hurry.
+
+As they approached the site, he could already see the temporary shelters Harlon had spoken about.
+
+They were crude compared to proper homes, little more than timber frames covered by planks and treated canvas, but there had been no time for anything else.
+
+Glancing at the carpenter, Lucien could already see the slight grimace on the older man's face whenever he looked at them.
+
+At least the shelters were placed in an orderly fashion. Rows of them followed a rough line rather than the scattered arrangement most frontier villages naturally developed.
+
+In front of the shelters, four tables had been set up, each occupied by a scribe along with...Alicia?
+
+Lucien paused at the sight of the girl in a maid uniform sitting primly beside three ink-stained men with quills in hand.
+
+The scribes were looking toward the approaching convoy with the expressions of men who had already realized how many names would need to be written before sunset.
+
+Alicia looked toward him and a smile bloomed on her face. She lifted both hands in front of her and gave a firm nod.
+
+"She's been working a lot these days, ya know. When we heard about the people coming over, she started to help the scribes fill out the forms." Talia remarked, a slight tint of exasperation in her tone.
+
+She shook her head. "Honestly, I've had to remind her to eat a few times. Then she's also been drawing that...thing you've got her to do before you left for Helvarn."
+
+Lucien exhaled through his nose. "I told her not to rush that one. She should've stopped instead of neglecting her health like that."
+
+Talia shot him a look, a teasing grin on her face. "You're saying that? Lord Lucien, you're hardly setting a good example yourself."
+
+At her words, Lucien glanced away before spotting Elias, carrying another stack of parchments to the table.
+
+The steward placed the stack down before stepping aside, folding his arms behind his back. A brief moment later, he caught Lucien's eye and inclined his head faintly.
+
+Lucien returned the gesture before turning toward the convoy. Dorian was already directing the guards, gathering the refugees into orderly lines.
+
+Ever since they had entered through the gates, relief had been visible on the refugees’ faces. After months spent outside Helvarn’s walls, many of them had likely not expected to be allowed inside Ashridge so easily.
+
+When they were told to divide themselves evenly before the tables, a noticeable number began drifting toward Alicia’s line. Only the presence of the guards, specifically Henric standing beside her with his arms crossed, kept the lines mostly even.
+
+Lucien's brow twitched at the sight. He chose not to dwell on whatever ridiculous thought the zealous guard must have been thinking about now.
+
+Tomas helped a small girl down from the cart before leading her and her mother toward one of the tables. He exchanged a few quiet words with them before turning to help the people who looked uncertain about what to do.
+
+A small cough drew Lucien's attention toward Harlon. The carpenter jerked his head toward a quieter spot nearby where Talia was already heading.
+
+Lucien gave a nod before following them.
+
+As soon as they were out of earshot from the crowd, Harlon lit his pipe and spoke first. "Lord. We've built as much as we can. The other shelters at the southern edge of the village would also help offset the amount."
+
+He drew on his pipe. "We can manage the first three hundred and fifty people. The next wave will be the problem."
+
+Talia pointed toward the open space nearer to the western walls of Ashridge. "It's not just housing, Lord Lucien. Sanitation becomes a problem too, that's why I figured you'd want them placed here."
+
+Lucien rubbed his chin in thought. "Yes. I had planned for this side of the village to eventually become a residential area. The waste disposal will be downhill, toward the southwestern forest."
+
+"It seems we will have to begin digging another ditch for that with the new workers. Harlon, how is the progress with the irrigation ditch?"
+
+Smoke curled from Harlon's pipe as he gestured toward the workers carrying lumber and tools. "The irrigation ditch is mostly done. With the spring planting completed, Bran had sent along more men to help after we heard about the amount of people coming."
+
+"...I sent them to clear out the western forest this time. Figured we might as well help clear the treeline there if we are likely to expand those fields too."
+
+The older man shot Lucien a dry look. "My wood stockpile is dwindling again, Lord. It likely won't recover anytime soon with the amount of building we'll be doing throughout summer."
+
+Lucien exhaled through his nose. "I will assign more people to help clear the trees and process the lumber."
+
+"Don't forget to assign more for the ridge outpost too! We'll need a lot of materials for the courtyard houses after all!" Talia piped in, her eyes bright with excitement.
+
+At her words, Harlon's already tired expression deepened as he rubbed his temple.
+
+Lucien's brow raised as he regarded the two of them. "...Courtyard houses?"
+
+Before Talia could respond, Harlon spoke first.
+
+"Speak some sense into your woman, Lord. She wants to put up a few of these...large buildings to house the new residents."
+
+The older man ignored the indignant look Talia sent his way. "It takes too long to build them. A single one would take over a month to finish and house only a hundred people at most. Maybe a dozen more if we squeeze them in."
+
+Ignoring the comment about Talia being "his" woman, Lucien turned toward her in question.
+
+Talia lifted both palms face up. "Now, it's not as crazy as he's making it sound. And since we are gonna be building houses anyway, we might as well do it properly!"
+
+A huff left Harlon's mouth as he shook his head. "Longhouses are easier to make and would serve just as well. We don't have the leeway to be constructing a new type of building with the amount of people coming in."
+
+Lucien had been thinking along similar lines, though with small improvements such as shared rear waste channels and chimney walls.
+
+The foundations could be laid in stone from the start, allowing the buildings to be converted into permanent housing later.
+
+Talia waved a hand at the open spot. "If we are focusing on solving the current problem? Yeah, longhouses with planned rows are better."
+
+She looked toward the refugees. "But if we start thinking about security and getting people to actually live together instead of just sleeping near each other, my idea helps with that."
+
+At her phrasing, Lucien's eyes sharpened. "What's your suggestion? I would hear it first before making a decision."
+
+Instead of responding, she took out a folded piece of parchment from her satchel at her side and passed it to him.
+
+When he unfolded it, Lucien recognized Alicia’s hand immediately. It reminded him of the numerous sketches she had made based on his descriptions of various tools.
+
+This time, the drawing resembled an architectural blueprint, complete with notations indicating where the shared oven, well, and waste disposal channel would be placed.
+
+Even from a glance, Lucien could see the benefits. With the village growing so rapidly, maintaining order within its walls would become increasingly important, and this design would make guard oversight far easier.
+
+It must've shown on his face as Harlon was already shaking his head.
+
+"...At least the amount of wood used isn't too different from your proposal, Harlon." Lucien said as he continued to examine the drawing.
+
+Harlon answered by taking a long draw from his pipe, though he shot Talia a dirty look when she grinned at him.
+
+"Come on, you were interested too when you saw the drawing. Half of those suggestions Alicia wrote down came from you!" Talia teased, causing the older man to huff.
+
+The carpenter shifted his gaze toward the open space. "...If we are going to attempt this, then I won't have it built poorly. But with seven hundred people...we can't afford to build seven of them all at once, Lord."
+
+Even Talia remained silent as she tapped her cheek in thought.
+
+After a moment, a thought occurred to him. "We won't need to."
+
+At his words, both Talia and Harlon turned toward him, while Lucien continued studying the open space before them.
+
+"We will build the longhouses first. But in the shape of this drawing."
+
+He could already see the future buildings in their place now.

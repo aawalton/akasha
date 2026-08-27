@@ -1,0 +1,157 @@
+---
+id: a85f44ef-8047-5766-8df8-695a70b36675
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 - Hard At Work"
+slug: 0028-chapter-44-hard-at-work
+partOf: mythrans-master-of-all-continued-completed
+position: 28
+ownLength: 2602
+unit: words
+publishedAt: 2016-10-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96615/chapter-44-hard-at-work"
+royalRoadId: "96615"
+---
+
+Ren took off the VR headset and set it next to the laptop. “Hi, Denise.”
+
+“Hm?” Denise mumbled. She had dozed off in the chair.
+
+Ren smiled and went on the internet on the laptop. Searching through the forums and videos, Ren finally found traces of the Sage of Ages. It was mostly complaints, though. Ren shook his head as he read through some of them. It was unfortunate that she either wasn't good at her job, or the special class was not a good fit for the girl playing her. After a bit more digging, he found the girl's screen name.
+
+“Lara.” Ren said and tried to remember what she looked like. Nothing came to mind so he searched for the introduction video for the contest winners. Ren watched it again and saw her. Lara had blonde hair and full sized elfin ears. Ren studied her features so if he saw her in the game, he would know who she was. Ren closed the video and kept searching the message boards. Ren kind of missed this part of his life. He used to spend hours and hours looking for stuff. Nothing important, just occupying his time between physical therapy, meals, and visits from the nurses. Just for fun, he tried to look up Clint, to see how his adventuring was going. Ren found a few posts, but they seemed kind of bland... and then he found the video.
+
+Ren stifled a laugh as Clint was thrown off the back of a giant boar. It was about the size of a horse and Clint had a few arrows stuck in it's flank. Ren watched as Clint told the boar that it wasn't getting away, in his signature Texas speech, and used a rope lasso to hook around the boar's neck. It yanked Clint right off his feet and dragged him around a bit. Clint flipped the rope over a stump and the boar tugged at the rope hard enough to make itself stagger. Clint almost lost it then, but a well placed arrow in the ground near the beast's face made it reel back. Clint took up the slack and hopped onto the boar's back. The boar bucked and heaved, just like the bulls do in a rodeo, but Clint held on.
+
+After a few minutes, the boar tired out and stopped fighting so hard. It eventually stopped completely and stood still. Clint looped the rope in his hand around the other side of the boar's neck and now had makeshift reins. Clint trotted the boar over to where the video was being filmed. Ren could see that the boar was not happy in the least. Clint slid off the side of the giant boar and held onto the reins tightly. The boar's bright red eyes were filled with hatred... until Clint tossed it a huge piece of meat. The boar chewed the meat happily and even wagged it's tail.
+
+“ 'N tha's how ya wrangle a steed.” Clint said and winked at the camera.
+
+Geez, what's he going to do next? Start a business? Ren thought and scrolled down the page. An add was there, and sure enough, it was Clint advertising in-game steeds. Ren smiled and shook his head. He actually started a ranch in the game to make money! Ren followed the link to Clint's website and whistled at the prices that were charged. Clint must be really good at domesticating animals.
+
+Ren closed the site and went back into the forums and message boards. Ren browsed a bit more at random, not really searching for anything and came across the 'rant' section. Ren usually didn't go into that one, because there's almost never anything good in it, but clicked on it anyways. Ren was right. There was nothing but people arguing over stupid things, like the quality of the sky texture and how the clouds move at the same interval no matter where you were in the game.
+
+Ren shook his head again. Why are they arguing over that? There is so much more to the game than how the clouds work in the sky! Ren browsed a bit more and noticed Tristan's name. Ren clicked on the thread labeled 'Pet Peeves' and started to read. It was more and more of the same little things; people were picking at things in the game, and how they couldn't get the higher level items they wanted because they didn't have enough money. When Ren finally got to Tristan's post, his eyes widened in surprise.
+
+It won't be long now.
+
+Soon, all my planning for revenge will come to pass.
+
+The little b*st*rd will never know what hit him.
+
+He will regret what he did to me.
+
+Ren re-read the post several times. I wonder why he's so mad. Ren thought, but then he realized something. He doesn't mean me, does he? Ren clicked Tristan's name but no other posts popped up. I never did anything to him! Ren closed the laptop and shut his eyes. I wasn't even there when he disappeared.
+
+Ren opened his eyes and looked at Denise sitting in the chair, sound asleep. Ren was a little hungry, but he didn't want to disturb her. Ren felt guilty enough as it was for making her sit there all day. Ren put on the VR headset and settled down into the bed.
+
+“Flow Login Start.”
+
+********
+
+Ren 'woke up' behind the drying lumber planks in the hayloft, right where he had 'gone to sleep'. “Teepo?”
+
+“Right here, Ren!” Teepo said and skuttled over the top of the lumber.
+
+“Is Aimus back yet?”
+
+“No. You've only been asleep for about 2 hours.” Teepo said.
+
+Ren nodded. That was about the right time difference. Ren had been in the real world for almost a half an hour. Ren picked Teepo up and climbed down the ladder. No sooner had Re stepped out of the barn when he saw a horse and cart approaching the homestead.
+
+Well, that's perfect timing. Ren thought and Teepo chittered in laughter.
+
+Aimus came into the homestead and sauntered the horse into the barn. Ren stepped out of the way and followed the cart in. Aimus hopped off the cart and opened the hidden hatch in the middle of the barn.
+
+“We have to be quick, or Ana will see.” Aimus said and started unloading the cart. Ren helped and they moved most of it into the hidden area. Aimus closed the hatch and kicked dirt over it again. They unhooked the horse from the cart and put it in it's pen.
+
+“Help me carry this stuff into the house.” Aimus said, motioning to the half dozen boxes of vegetables and fruits. Ren put them into his inventory and Aimus shook his head. “You're spoiling me with all this carrying everything like it was nothing.” Aimus clapped Ren on the shoulder. “Let's take it in to Abby.”
+
+Ren nodded and they went into the house to give the produce to Abigail. Abigail told Ren where to put them and Ren complied. The food was stored away easily and their usual hour long task was done in only moments.
+
+“Yeah, definitely going to miss that ability when you're gone.” Aimus said as he shut the pantry door.
+
+“Did you get everything?” Abigail said quietly, and smiled as Aimus nodded and winked.
+
+Nothing more was said and Abigail made stew for everyone. Ana came out of her room and sat down at the kitchen table, looking a little depressed.
+
+Ren turned to her. “Hi, Ana. Anything wrong?”
+
+Ana shook her head no but didn't say anything. Ren noticed Aimus and Abigail as they shared a smile. The stew was ready soon after and Ren enjoyed yet another meal at the Blackmeadow Homestead. There seemed to be something going on; but Ren didn't ask Aimus about it, since if he wasn't let into the secret so far, it must be either important or didn't concern him. Aimus stood and Ren followed him out of the house.
+
+“There's no way we can dry out all of those giant rat pelts at once. We'll have to do them in stages.” Aimus said and walked towards the shed. Aimus picked up a hammer and nails then went to the trench behind the shed. “Grab the stir stick, would you?”
+
+Ren took the stick and Aimus lifted up the first hatch. “Dig out a few pelts and spread them over the other hatch.”
+
+Ren did so and fit 10 pelts on the hatch. Aimus closed the one he held and then nailed the pelts on their edges, 4 nails in each. Aimus lifted that hatch and Ren spread 10 more on each of the hatches closest to the open one. Aimus closed that one and then nailed each pelt like the first set. They went to the second last hatch and Aimus held it while Ren took out another ten pelts. 40 pelts in total were set out to dry.
+
+“Okay, that'll take an hour or so.” Aimus said as he nailed the last pelt. “I've got some basic chores to do, so you've got an hour or so free to do what you want.”
+
+Ren nodded and headed off to the barn, then climbed up into the hayloft. It seemed to be the best spot for privacy. Ren wondered why Ana didn't use it more often, then he remembered her story about what had happened to the last barn she was allowed to stay in. Ren wasn't sure how she'd started the fire, but figured that it was why Ana wasn't allowed to hang out up here anymore.
+
+Ren settled down behind the lumber and Teepo hopped off to go explore. Ren opened up the player message system and typed out a message to Lara, the Sage of Ages.
+
+Hi, Lara!
+
+My name's Ren, and I'm one of the contest winners that won a special class just like you. We also met briefly during the Aurora Expedition. I'm sorry to bother you, but I have a bit of a problem. I'm not asking you for a prediction, or for anything else that will happen in the future. I found something that I can't identify, and I was reminded that the Sage of Ages was here, and I thought you might know what it was. Please let me know if you can help me with my problem.
+
+Thanks for reading this, and I'll eagerly await your response, if any.
+
+Ren finished typing and sent the message. Ren wasn't sure how long the system would take to get it to Lara, since he had no idea where she was in the game, or even if she was logged in right then. Ren would probably have to wait for a while to get a response from her.
+
+Ren stood up and brushed the hay from his clothes. Now what do I do to waste time until the pelts are dry? I've got another hour or so to wait. No sooner had he thought that when he got a popup. It was a message... from Lara.
+
+Hi, Ren.
+
+I'm not a library or a magical item index for you to use whenever you find something you can't identify. Normally, I wouldn't even respond to such a request; but since you asked so nicely and you DON'T want to have me predict anything, I'm not adverse to at least looking at whatever it is that you've found.
+
+Ren sat back down and smiled. He took his time writing a response.
+
+Hi, Lara.
+
+Thank you so much for getting back to me so quickly. I know you're probably busy and I appreciate you taking the time to listen to my problem. I dug up something a while ago... it was a strange gem like ore that had a slight green glow. I've been unable to identify it, and if anyone could tell me what it was, or even where it came from, it would have to be you. You're the Sage of Ages! You're one of the most important characters in the game.
+
+I'm currently not in Aurora at the moment, and won't be back for about another 2 weeks. If at all possible, could you meet me at the library there at that time? I know it's a burden to go back to the starter city, but it's the only place I've been, besides a mine and a homestead several days away. I'll message you again when I head back, so you'll know when to meet me. I'd be willing to pay you for your time as well.
+
+Ren finsihed typing and revised it a few times. He hoped he didn't lay the compliments on too thickly, because that could have the opposite effect than what he wanted, and sent the message. Shortly afterwards, he received a response.
+
+Ren.
+
+You want me to go back to that place? (sigh) Fine. I expect to be compensated well for degrading myself like that. You better have something really good for me to look at, or I'll never forgive you.
+
+Ren laughed and typed a quick response.
+
+Hi Lara.
+
+Of course! I wouldn't want to waste your time any more than you would want me to waste it. I'll message again in 12 game days, or 3 real life days, when I leave here and head back to Aurora. Thanks again for your help!
+
+Ren closed the message system and stood up again.
+
+“You contacted the Sage of Ages?” Teepo asked and skittered across the ceiling of the barn.
+
+Ren nodded. “She'll meet us at the library when we get back to the city.”
+
+Teepo chittered in delight. “I can't wait! I get to meet the Sage of Ages!”
+
+“REN!” Aimus shouted. “HEY, REN!!!”
+
+Ren went to the ladder and climbed down.
+
+“There you are. What were you doing up there?” Aimus asked.
+
+“Just hanging out with Teepo.” Ren said.
+
+“No time for that now. The first pelts are dry enough for scudding.”
+
+Ren nodded and followed Aimus out to the trench and the first hatch.
+
+“Mostly, the fur is useless on rat pelts. It's too rough and coarse. It provides a lot of warmth, though. I'll probably save a few dozen to make boots, but all the rest are to be cleaned and used for leather.”
+
+Aimus took the hammer and pulled out the nails on the ten pelts and handed them to Ren, who stacked them into his inventory. They went into the shed and to the workbench inside. Ren took out a pelt and Aimus sat down with the scudding tool. Ren watched Aimus as he carefully scraped the tool across the rough fur and cleaned it down to the dark leather. Aimus did the whole pelt and then held it up to the light. The only holes were where the nails were and Aimus smiled.
+
+“Perfect.” Aimus said and stood up. “Go ahead.”
+
+Ren smiled and took out a pelt himself. Using the tool and going a lot slower than Aimus, since it was the first actual pelt that Ren had done, but when it was finished Ren held it up to the light and it was just as good as the one Aimus had done.
+
+Aimus put his hand on Ren's shoulder. “Keep going. I'll put out more and then bring in the next batch.”
+
+Ren nodded and kept working. Aimus would bring in a new stack just as Ren would finish the last pelt of the previous stack and stored it. It seemed to go on forever, but Ren was in his element.

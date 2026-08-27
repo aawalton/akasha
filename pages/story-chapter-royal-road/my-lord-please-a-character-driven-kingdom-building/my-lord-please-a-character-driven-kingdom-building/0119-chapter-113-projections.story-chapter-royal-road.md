@@ -1,0 +1,155 @@
+---
+id: d478a5f7-9e83-5bed-8102-d2694219b1a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113 Projections"
+slug: 0119-chapter-113-projections
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 119
+ownLength: 1864
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3814359/chapter-113-projections"
+royalRoadId: "3814359"
+---
+
+Lucien sat down behind his desk with a sigh, idly taking out a cloth to wipe the sweat from his brow. Had Harlon and Garrick not been occupied at the ditch, he would have preferred to hold their earlier discussion in the study instead.
+
+When Sera learned he was returning to the manor, she had moved to follow, only to freeze when he mentioned that he was meeting with Dorian next. The hunter immediately changed her mind and decided to remain at the ditch site for a while longer.
+
+He shook his head lightly at the thought. It was something he had noticed about the girl. Wherever Dorian was, one could be assured that Sera would not be anywhere nearby.
+
+Perhaps, in Sera's mind, Dorian was someone to be avoided whenever possible.
+
+When a knock sounded at the door, he called out.
+
+"Enter."
+
+The captain stepped in, a hint of fatigue softening his usually impassive expression. He dipped his head once he came to the usual distance from his desk.
+
+Lucien waved off the gesture. "Please sit, Dorian. We have both been rather occupied these past few days. I believe we can set aside the usual formalities for today."
+
+Dorian took the offered seat, folding his hands upon his knees. "My Lord, all refugees have been accounted for. Most have been settled at the northwestern site, but we had to use the southern shelters once the available housing reached capacity."
+
+He exhaled lightly. "More militia have been assigned to help keep the peace, but we lack the numbers to maintain those rotations, My Lord."
+
+Lucien leaned forward, resting his hands on the desk. "How many more guards and militia do we need, Dorian? We will have to account for the second wave of people coming next month as well."
+
+The captain straightened from his seat. "Before we left for Helvarn, our guard numbers were bolstered to forty-two in preparation for the expected increase in population. I would prefer if we have slightly more but it is the militia numbers that concern me, My Lord."
+
+"We will likely need to increase our militia numbers from seventy to at least a hundred and fifty, My Lord."
+
+Lucien's fingers tapped lightly on the desk as he considered his next words carefully. "Dorian, I recently found a journal in Lord Rathenfell's library...is it true that the more people live within a settlement, the more beasts it draws during the Tithe?"
+
+He had taken care to phrase it as curiosity rather than ignorance.
+
+A frown formed on the captain’s face as he gave a slow nod. "I do not know for certain, My Lord. But when I was in Helvarn years ago with your father during one of the winters, the number of beasts attacking the fortress was substantially greater than what I had faced in my own village."
+
+He shook his head faintly. "But that might be because Helvarn sits as the first line of defense in the migratory path north for this side of the frontier, My Lord. Sometimes the beasts would simply pass through villages without attacking."
+
+"...But they are beasts in the end. They never think like we do, My Lord."
+
+Lucien let out a slow breath, gaze lowering. Once again, he found himself cursing the fact that he had little means to gather information without risking the safety of the village.
+
+Aside from their appearance, the goblins and kobolds that had attacked Ashridge last winter didn't seem to possess any unusual biological traits. But he lacked the knowledge to draw any meaningful conclusions from that alone.
+
+"...The mages in the capital might know more, My Lord." Dorian's voice interrupted his thoughts.
+
+At Lucien's questioning look, the captain continued. "As you know, the academy often requests variant ingredients or even live captures of certain beasts to conduct their...arcane studies."
+
+Lucien kept his face carefully neutral. "Yes, I have heard of such things. Though I must admit, I never paid much attention to them when I was younger."
+
+His gaze shifted to the window, keeping his tone deliberately casual. "Is it possible to have a mage travel to Ashridge, Dorian? I would be interested to learn more about the behavior of the beasts to better aid our defense."
+
+At his words, Dorian shook his head firmly. "They can't travel to the frontier, My Lord. Mages from the capital are forbidden from it."
+
+Lucien's brow rose at the certainty behind the man's words. He wondered briefly whether to ask further when, to his relief, Dorian elaborated of his own accord.
+
+"I do not know the reason, but it is a law that has been upheld for as long as anyone can remember, My Lord. I had wondered about that and asked your father myself when I was younger."
+
+He shook his head. "But that only applies to mages in the capital. Those that are not affiliated with the academy might still visit if something interests them enough."
+
+"But even they would not stay in the settlements near the frontier for winter, My Lord."
+
+There were many questions he wanted answered, but he wasn't sure which were common knowledge and which were safe to ask. He resisted the urge to sigh and decided to shift topics.
+
+"Then let us assume that the number of beasts attacking us during this year's Tithe will be higher than before, and plan accordingly, Dorian."
+
+Lucien gestured toward the captain. "We will increase production of the crossbows to match the increased militia numbers. But I would like to increase our guard numbers too...perhaps fifty would do for now."
+
+As they were finalizing the military preparations, they were interrupted by a knock at the study door.
+
+Once Lucien gave permission, Bran stepped inside. The farmer paused briefly when he noticed Dorian already seated within the study.
+
+"You asked to speak to me, My Lord?"
+
+Dorian made to rise, only to pause when Lucien raised a hand. "Stay, Dorian. This concerns you as well."
+
+The captain's brow lifted slightly before he leaned back.
+
+Lucien turned toward Bran. "Please, have a seat. We need to discuss the recent arrivals into Ashridge."
+
+Waiting until Bran had settled into his seat, Lucien leaned forward, resting his hands upon the edge of the desk.
+
+"Let's start with the food situation first, Bran. I believe you have heard of the arrangement I made with Lord Rathenfell?"
+
+Bran scratched the corner of his beard. "Yes, My Lord. Out of the seven hundred refugees, Lord Rathenfell has agreed to supply four hundred and sixty of them until next year's harvest."
+
+"...That means we would have close to two hundred more people to feed ourselves, My Lord."
+
+Earlier this year, Bran had been startled when Lucien and Elias suggested Ashridge's population might grow beyond a thousand. Now, only a few months later, it seemed the farmer was still adjusting to that reality.
+
+Lucien inclined his head. "We will need to ensure that our food production can keep up with the growth by next year. Bran, is our current expansion enough?"
+
+The farmer's brows furrowed slightly. "When we had enough seeds from our trade with Helvarn, we started expanding another six fields outward."
+
+He let out a breath. "They won't be giving us full yields anytime soon, My Lord. But with the original fields and the new expansions...we can feed them by next year should the harvest go well."
+
+Lucien leaned back in his chair, gaze shifting toward the window. "The western fields, along with any others that have yet to adopt the four-field rotation, will serve as our reserve. But we will need to expand more than what we have, Bran."
+
+The farmer's eyes widened slightly, but it was Dorian, who had remained silent, who spoke first. "If we continue to clear the eastern approach, we will be vulnerable to attacks from wandering beasts, My Lord."
+
+"We won't be expanding outward, Dorian. Instead, we will be clearing and preparing fields along the northern approach by the Easthollow River."
+
+The captain's brow lifted before understanding dawned on his expression. "You spoke to Lord Rathenfell about this, My Lord."
+
+Lucien gave a nod. "Once I decided to take in seven hundred people, I approached him about this. He has agreed as long as we stay on the other side of the river and do not extend too close to Helvarn."
+
+"The land there should allow us to establish another five fields...perhaps six if we extend slightly east as well."
+
+It had been the first thing he had asked for while they were making preparations to move the refugees.
+
+Bran ran his hand across his beard. "It would, My Lord. The former lord had asked us folk to estimate it before. But Lord Rathenfell had forbidden it at the time..."
+
+He hesitated briefly, only continuing at Lucien's gesture. "Why did Lord Rathenfell agree this time, My Lord? The former lord's request wasn't that long ago."
+
+Lucien rubbed his chin in thought. "He didn't tell me about that request, so I can't be certain. But if I were to guess...the circumstances have changed since the former lord asked for it, Bran."
+
+Both men before him looked at him in question.
+
+At that, Lucien gestured toward the window. "I had already informed Harlon and Garrick earlier, but we plan to build a sawmill beyond the northern walls of Ashridge. The craftsmen's quarters will also be built there in the future."
+
+"The seven hundred refugees from Helvarn will not be the only new arrivals, Bran. Craftsmen...their families...and if you include merchants who will inevitably be drawn to Ashridge? We need to take into account more than just thirteen hundred people."
+
+Dorian followed his motion toward the window. "So even fifty guards and a hundred and fifty militia might not be enough..."
+
+The captain didn't seem particularly surprised at the implication while Bran, by contrast, reacted much more openly.
+
+"My Lord...are you saying Ashridge might grow beyond fifteen hundred before the year's end?" There was a faint trace of dread in his voice. Lucien had little difficulty guessing where the farmer's thoughts had gone.
+
+To Bran's dismay, Lucien shook his head slowly. "Bran, when we first predicted Ashridge would grow beyond a thousand, the refugees from Helvarn weren't part of those calculations."
+
+"If we take into account more people migrating over from elsewhere in the frontier...? Or those who decide to leave Helvarn's shanty camp of their own accord and head to Ashridge?"
+
+He exhaled through his nose. "The village's population might approach two thousand by the year's end."
+
+Neither Bran nor Dorian spoke for a long moment before Bran's gaze lowered toward the floor, his weathered hands slowly clasping together.
+
+Beside him, Dorian remained silent as well, though Lucien noticed the captain's eyes had drifted toward the map of Ashridge hanging upon the wall.
+
+The village they had planned for only a few months ago no longer existed.
+
+Lucien let out a breath. "...It is not just housing and food. The more fields we cultivate, the more granaries we will need to build as well."
+
+"Which is why we had best prepare now, before something unforeseen forces our hand."
+
+Both men exchanged glances before giving Lucien a slow nod.

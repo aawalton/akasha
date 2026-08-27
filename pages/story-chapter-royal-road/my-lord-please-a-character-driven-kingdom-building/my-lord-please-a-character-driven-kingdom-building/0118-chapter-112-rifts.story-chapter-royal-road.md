@@ -1,0 +1,181 @@
+---
+id: f3b1e51b-4ca2-5a00-83dd-879a1422e2e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112 Rifts"
+slug: 0118-chapter-112-rifts
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 118
+ownLength: 2060
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3805369/chapter-112-rifts"
+royalRoadId: "3805369"
+---
+
+As Lucien approached the two men, Garrick noticed him first. The miner dipped his head slightly as he drew near.
+
+"Lord."
+
+He returned the greeting while Sera walked on ahead toward the sluice gate.
+
+The hunter had been here when they tested it weeks ago. Since then, it had become clear she was curious about it. Or more specifically, the lifting mechanism. Had Alicia not intervened, Sera would likely have spent the entire afternoon raising and lowering it.
+
+Garrick and Lucien watched her stop beside Harlon, who only gave her a slight nod before the two of them stood there in silence.
+
+A huff left the miner at the sight before he turned back toward him.
+
+"She's come by a few times while you were away, Lord. Mostly to watch the gate...don't know why she's so curious about it."
+
+Lucien's hand rose to rub his temple. "I am sure she will get used to it soon enough once we build a second one."
+
+At his words, Garrick's eyes widened slightly. "A second one already?"
+
+Shaking his head, Lucien gestured toward the workers digging the ditch.
+
+"I will explain later. For now, how much longer until the work here is finished? We have other work that will soon require labor."
+
+Garrick turned toward the ditch, a slight frown on his face. "The work itself is almost done, Lord. We had to send a few more people to the northwestern edge of the village to build the longhouses for the refugees."
+
+"But the rift between the western fields and the rest of the village remains. Folk aren't blind, Lord. They've noticed what we're trying to do."
+
+Lucien's brow creased. "I suppose it was wishful thinking to believe they wouldn't catch on."
+
+Garrick shook his head. "It doesn't help that word of Cragwatch's resettlement has spread..." The miner's words trailed off.
+
+At Lucien's questioning look, he continued. "Some of the folks from Cragwatch have been talking about moving back, and when the people from the western fields heard about it, it made the mood even worse."
+
+Lucien's eyes sharpened. "Was there another confrontation?"
+
+The miner let out a rough breath. "No, Lord. Just pointed looks and grumblings for now."
+
+Lucien remained silent, considering the matter briefly. "If the people from Cragwatch wished to return to their village, let them know that I would not forbid them to do so."
+
+Garrick rubbed his stubble for a moment before shaking his head. "I doubt they were being serious about it, Lord. It's just talk from men who are missing home a little."
+
+The man shifted slightly, glancing away. "And they are wary about my...Lord Vaelric's reaction to them staying here. It's unlikely they'd uproot themselves again when the worst they've faced so far are a few quarrels with the western fields."
+
+Lucien gave a slow nod. He doubted Lord Vaelric would have held it against them, but the people here had no way of knowing that. He wondered how they would react if they learned the lord intended to visit later in the season.
+
+His gaze drifted toward the workers along the ditch. To his eyes, the worksite appeared much the same as it had before he left for Helvarn.
+
+Yet there was a subtle difference now.
+
+The people working still spoke and labored alongside one another, but their families seemed more aware of the silences that followed certain conversations.
+
+He exhaled lightly at the sight. "If they are aware of what we're trying to do, forcing them together like this may have the opposite effect."
+
+Garrick followed his gaze, his brow furrowing further though he remained silent.
+
+A rough voice cut in.
+
+"It'll take more time, Lord. And the problem isn't just between the newer arrivals alone. The older villagers from the western and eastern fields have just as much bad blood between them."
+
+Harlon approached, puffing away at his pipe before coming to a stop beside them.
+
+He gestured toward a group of men from the western fields. "And they know that all the recent arrivals you brought in yesterday were from the eastern frontier."
+
+Lucien glanced toward him. "Would they be angry about that? I had requested only people from the frontier to ensure the problems wouldn't worsen."
+
+The carpenter adjusted his pipe. "Maybe. People from the heartlands don't all come from the same place. So they might not care as much as you'd think."
+
+He shook his head faintly. "But it's not something you can prepare for, Lord. Just be aware that they are watching to see how the newer arrivals are treated. They'll compare it with how they were treated...men always do."
+
+Lucien's hands rose to rub his temple. He knew there would be more problems beyond food and shelter when he had accepted the refugees.
+
+As his eyes drifted toward the sluice gate, he spotted Sera lingering near the lifting mechanism, staring intensely at it.
+
+'I suppose once the ditch has been completed, I could have her be the first to lift it since she's so curious about...'
+
+The thought trailed off as an idea occurred to him.
+
+Lucien folded his arms behind his back. "Harlon. How long till the ditch is complete and we can lift the water gate?"
+
+Both men glanced toward him at the shift in topic though Harlon answered anyway.
+
+"Won't be long now, Lord. Would take another few days at most."
+
+Slowly, Lucien inclined his head. "Then we should gather those who were involved in the work to hold a small celebration for them. Their families as well since most of them had helped with the hauling and cooking meals for the laborers."
+
+Harlon's brow rose slightly though understanding dawned on his face a brief moment later. "Another opportunity for the men with grudges to gather together, Lord?"
+
+Running a hand through his hair, Garrick regarded the group of workers in consideration. "It would help. Rewarding their efforts while having a meal and drink would make men less stubborn."
+
+Lucien gestured toward the lifting mechanism. "We will have it when it comes time to lift the water gate. It won't be anything grand like a feast but we can set up some tables around the area to watch."
+
+At some point, Sera's hand had begun to hover near the crank. She stopped when she noticed them looking and shuffled back a bit, her expression deadpan as usual.
+
+He let out a breath. "I suppose we can have Sera test it since she's so curious about it."
+
+It seemed she heard his words despite the distance between them as her head snapped toward him before she gave a firm nod.
+
+The corner of Harlon's mouth twitched while a light chuckle left Garrick as he spoke.
+
+"Better to give your lady what she wants beforehand, Lord. It'll cause less headaches for you, as my father used to say."
+
+Lucien shot Garrick a dry look though he ignored the implication beneath his words. "I will announce the construction of another water gate as well at the celebration. It should soften the complaints before people start thinking about another ditch that needs digging."
+
+Turning toward him, Harlon's brow raised. "Another one? Why would we need another water gate, Lord?"
+
+Lucien gestured toward the carpenter. "Primarily for your work, Harlon. I assumed you must have heard of a sawmill before?"
+
+As expected, Harlon understood immediately, stroking his beard. "The village I lived in before Ashridge used to have one. Not a particularly big sawmill but it made processing timber much faster."
+
+"Why didn't Ashridge build one before that, Harlon? I would have thought you would suggest it, maybe even build it yourself in your free time over the years." Lucien asked, slightly curious.
+
+It had been something he was wondering about considering the size of Ashridge even before his arrival and how the majority of the structures were made of timber.
+
+Harlon shook his head before gesturing toward the Easthollow river. "I had intended to but the eastern fields use the same river for its fields."
+
+He drew on his pipe, letting out a trail of smoke. "A carpenter's work isn't as dirty as a blacksmith's, but a sawmill throws bark, chips, and sawdust into the water. The folk from the eastern fields wouldn't have appreciated that flowing into their irrigation channels."
+
+"And building it down the river would place it too close to the Deep Woods...no point wasting effort on something that we can't defend reliably."
+
+It wasn't difficult to understand Harlon's reasoning. Even before his arrival, the farmers of the eastern fields had maintained their own irrigation channels from the Easthollow.
+
+Lucien gave a slow nod. "With the amount of construction we're doing, one of the bottlenecks would be the processing of timber. By digging another ditch, we can solve that problem."
+
+Garrick looked toward the cart tracks cutting across the worksite.
+
+"We would need better roads to transport the goods, Lord. Not just here but at the ridge outpost as well. Transporting the limestone mixture caused a few carts to get stuck with how heavy they were."
+
+Smoke curled from Harlon's pipe as he nodded in agreement. "Aye. We've been managing so far, but the road from the ridge outpost is still rough. Heavy carts will tear it up if we keep using it like that."
+
+He regarded the Easthollow River. "And building another water gate...that should go quicker, but it would still take a considerable amount of time, Lord. Not to mention the ditch that comes with it."
+
+Lucien rubbed his chin. "I had intended to hold off on building one too but recent circumstances have changed my plans a little, including where to construct the craftsmen's quarters for the village."
+
+His words caused both men to glance at him curiously.
+
+Lucien waved toward the northwestern approach where Cragwatch lay. "Garrick, your brother wasn't being reckless when he decided to resettle Cragwatch again. They have discovered coal and I intend to have Ashridge be one of its main buyers in the future."
+
+At the mention of his brother, Garrick went still for a brief moment. Only after that did his brow furrow at the unfamiliar word. "Coal...I haven't heard the term before. Is it that valuable?"
+
+Lucien inclined his head. "Yes. Perhaps not immediately, but it will become very valuable to us in the future."
+
+"The second water gate won't just be for the sawmill, Harlon. Your workshop, the forges...all of it would require a separate channel so the waste wouldn't affect the eastern fields."
+
+Harlon studied Lucien for a brief moment before turning slightly toward the open space in the north. "You are going to extend the walls to the north, Lord? It would make sense if you plan to build the craftsmen quarters here."
+
+Lucien followed the direction of the carpenter's gaze. "Yes. Before I left for Helvarn, I had wanted to keep the craftsmen quarters within a section of the village. But with the arrival of so many people and when I found out that Cragwatch has coal..."
+
+"We will need more space for what I have planned in the future."
+
+He gestured toward the Easthollow River. "But for now, let's start with another water gate and ditch first. We can build the sawmill at the same time once we mark where the channel will go."
+
+A wry look appeared on Harlon's face as he turned back to face Lucien. "And here I had thought Lady Talia was the overly eager one, Lord."
+
+He couldn't quite place it, but being compared to his junior in that regard was a little annoying somehow.
+
+It must have shown on his expression when a small cough escaped Garrick, who quickly looked away.
+
+The sight caused Lucien to remember something. "Garrick, I should mention that your brother intends to visit later in the summer along with your stepmother."
+
+His words caused Garrick's eyes to widen slightly before he gave a slow nod. "I...see. Would you happen to know when, My Lord?"
+
+Lucien's brow rose slightly at the sudden formal phrasing while Harlon gave Garrick a look.
+
+The carpenter shook his head. "Don't tell him, Lord. He'll find some reason to be out of the village then."
+
+Garrick shot Harlon an annoyed look, but the carpenter merely puffed calmly on his pipe and ignored it.
+
+Perhaps the village was not the only place where old rifts remained.

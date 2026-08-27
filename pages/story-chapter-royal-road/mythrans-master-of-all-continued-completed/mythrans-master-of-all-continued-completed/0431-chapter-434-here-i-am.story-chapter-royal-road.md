@@ -1,0 +1,331 @@
+---
+id: d4a8d655-68e2-5ea3-9a07-026b1d6211c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 434 - Here I Am"
+slug: 0431-chapter-434-here-i-am
+partOf: mythrans-master-of-all-continued-completed
+position: 431
+ownLength: 3977
+unit: words
+publishedAt: 2017-11-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176739/chapter-434-here-i-am"
+royalRoadId: "176739"
+---
+
+Denise, Lisa, and Elise had brought up the footage of the scene on the laptop after the blue screen had disappeared, so they could hear what was being said in real time. Elise gasped when she heard that Ren had leveled up and received nothing.
+
+“What is it?” Lisa asked.
+
+“Max told me that if Ren didn't discover his hidden things before he levels up, it won't give him anything else until he does.”
+
+“Oh, no.” Lisa said. “How much do you think he missed?”
+
+“I don't know.” Elise said. “If it's a pivotal level, he could get more than one thing.” She said. “Or having whatever it was could open other options for him that he won't have otherwise; so, if he doesn't have those things...”
+
+“Should I check on that when I go back in?” Lisa asked.
+
+“No, don't go poking around.” Elise said. “You're on your last warning, remember?”
+
+“How do you know that?” Lisa asked, surprised.
+
+“Do you really think I wouldn't check up on you once you started hanging out with Ren?”
+
+“You stalker!” Lisa exclaimed.
+
+“I am.” Elise said and laughed. “I stalked him so much after he started playing the game.”
+
+“She really did.” Denise said. “It was quite a mess for a while there.”
+
+“It sure was.” Elise said and sighed. “I'm so glad Ren forgave me.”
+
+“I think if he can forgive me for being an arrogant... witch... he can forgive just about anything.” Lisa said and chuckled.
+
+“Hey, let's stop harping on the past.” Elise said and gave Lisa a squeeze. “Let's focus on the present.”
+
+“Good idea.” Lisa said and looked at the television screen. “I can't believe he made her such nice armor.”
+
+“And bracers.” Elise said.
+
+“And a necklace that any woman in her right mind would kill for.” Denise said, and the other two women looked at her. “What?”
+
+Lisa leaned her head against Elise's. “Elise, are we supposed to admit out loud that diamonds really are a girl's best friend?”
+
+“Absolutely not!” Elise exclaimed.
+
+“Oh, shut up.” Denise said and chuckled. “I like how they sparkle.”
+
+“Me, too.” Lisa said. “He once gave me a necklace in the game as a thank you.”
+
+“Really?” Elise asked. “I don't remember ever seeing you wear it.”
+
+“I wore it when he gave it to me.” Lisa said. “I stashed it away after that and had it hidden ever since.”
+
+“They make you feel pretty, don't they?” Elise asked, and both women nodded.
+
+“You don't even have to wear them.” Lisa touched the spot right below her neck where the necklace would have been if she was wearing it.
+
+“Hey, what was that popup?” Elise asked, and Denise pulled up the footage. “He... good god.”
+
+“What is it?”
+
+“He unlocked the recipe for a polymorph helm.” Elise said, shocked.
+
+“What's so special about that?” Denise asked.
+
+“Ren can temporarily change his physical form into any creature he uses to create the helm.” Elise said. “Well, the male versions of them.” She sighed. “I can't believe he gained access to it, though.”
+
+“Why is that?”
+
+“It's a Singular item.” Elise said. “Only one can exist at any given time.”
+
+“Wait, you mean in the entire game?” Lisa asked, and Elise nodded. “Oh, wow.”
+
+“What are you talking about?” Denise asked.
+
+“If Ren makes that helm, then no one else in the game can find or make another.” Lisa said. “Ever.”
+
+“What? Why would you put stuff like that in there?” Denise asked.
+
+“I didn't, and apparently the tech department decided it was still a good idea after my recommendations.”
+
+“They might be good programmers, but they sure don't know what people really want in a game.” Lisa said.
+
+“You don't know the half of it.” Elise said and told them about her argument with the head programmer Max, and what he had said about his reasons for getting Ren out of the way.
+
+*
+
+“Ma-am? MA'AM!” Ren gently tried to shake the unconscious Marilith demon awake, and sighed. She's out cold. He thought, and that made him wonder about her body temperature. She had flopped down and her body was completely uncoiled, so any body heat she may have, was probably dissipating quickly. He felt along her underside to check, and he could feel it was a lot colder than the top part.
+
+Ren opened his Instant Tower recipe and removed everything except for the stone floor with metal cross beams, then added Heat runes all over it's surface and saved it as Warming Pad. He activated his Craft Wondrous Item ability and added the necessary ingredients, said the activation word and thought about the Marilith demon. The Warming Pad cost almost nothing, and a half-inch wide cube appeared.
+
+Ren put it down and activated it, then lifted the still unconscious Marilith demon up and placed her on it. It took a couple of minutes to gather up her limp serpentine body and get it onto the Warming Pad, but he managed to do it; hopefully without hurting her.
+
+“Ren, look at her face.” Teepo said, and Ren saw that she had a look of pure bliss. He could feel a trace of it through the shared Aura, but without her actively sharing, he wasn't getting much. “So, what are you going to do now?”
+
+I'm tempted to just leave. Ren thought.
+
+“How?” Teepo asked. “There's no other opening except to her lair.”
+
+That's why I'm not leaving. Ren chuckled, and Teepo chittered in laughter.
+
+“Well...” Ren said out loud. “It looks like I've got a bit of time on my hands; so, why don't I finish making my guards?”
+
+Ren took out his shop tower and activated it, then went inside. He made 8 more full sets of armor and enchanted them the same as the other 2 skeleton knights to stop blunt force attacks and give them as much Protection as possible. He also made all of their helms into a Helm of Foolishness, just because he could. Now that he thought about it, he made them all swords and shields, also with the proper enchantments to protect them, and when he was done, he took each skull out individually and used the Raise Dead spell.
+
+Ren knew that the spell itself could raise 5 at a time, but since he had raised the other two individually and it let them bypass the spell's limitation, he didn't want to take the chance that raising them in a group would defeat that very powerful advantage. When the skeleton knights were all raised from the dead, he gave them each a Strong Ring of Storage with 50 slots and +40 Strength, and a Bracelet of Unbelievable Magic with +105 to both Intelligence and Wisdom, +1020% to Mana generation and +10,200 to their Mana.
+
+After that, he gave them their sets of armor, sword, and shield, then walked out of the Instant Tower with them. He gave the other two skeletons their new shields, and Ren looked over his completed set of 10 skeleton guards.
+
+“You are all my guards, until told otherwise by me and me only.” Ren said, then thought of a line from one of his favorite movies. “This is for all you new skeletons. I have only one rule. Everyone fights. No one quits. If you don't do your job, I'll kill you myself.” He said and grinned. “Do you get me?”
+
+“We get you, sir!” The skeleton knights responded without opening their mouths.
+
+“That is so cool.” Ren said happily.
+
+“It truly is.” A woman's voice said from behind him.
+
+“Oh, you're awake!” Ren said as he turned to look at the Marilith demon. “Are you okay?”
+
+“I am.” She said. “What happened?”
+
+“You fainted.” Ren said, and she shook her head.
+
+“I don't faint.” She said.
+
+“You collapsed into unconsciousness inexplicably, then.” Ren said and smiled, and she snorted a laugh.
+
+“What is this thing I am on?”
+
+“After you fell to the ground, I checked your body heat, and it was almost the same as the cavern floor.” Ren said. “So I made that for you.”
+
+“It's so nice and warm.” She said silkily and her body slithered over it enticingly. “Please, join me.”
+
+“I... ah... really should be moving on.” Ren said, and she coiled a part of her body in front of herself and pat it. He sighed and walked over to her, then turned around and sat down. Her arms wrapped around him and pulled him in close, and her red hair cascaded over his shoulder as she tried to put her face beside his from behind.
+
+“Tell me.” She said. “Did you make it?”
+
+“No.” Ren said, and she sighed.
+
+“Why?”
+
+“I don't want to hurt you.” Ren said. “If I make it and become another like you, it's only going to cause you pain that I can't be with you like you would want me to.”
+
+“Please, just let me see you like that.” She said. “Only for a second.” She pleaded. “I won't even ask you to hug me.”
+
+“But...”
+
+“I know it's asking a lot of you, especially after everything you've done for me.” The Marilith demon said. “Please, Ren.”
+
+Ren could feel how much she wanted it, and he turned his head. “It's going to hurt me to hurt you like this.” He touched her face and turned her head to face him. “I'll do it, but... only if you will try to forgive me for doing it.”
+
+“I'll forgive you anything if you do this.” She said.
+
+“I don't think you will.” Ren said and gave her a kiss, stood up and walked about 10 feet away, and took out his storage tower with all of his things in it. He went through it all and gathered up all of the loot he had gained from everything he had killed that was even close to being humanoid in shape, and not just the things he had found in Shargon Caverns. Claws, pieces of fur, glands, bones, and anything else he had an excess of. He even took a piece of the tough hide of an abyssal terror.
+
+If it stood up like that boar demon did, it could technically be humanoid in shape. Ren thought and chuckled.
+
+“I don't think it works like that.” Teepo said. “But, I guess it doesn't hurt to try it.”
+
+Ren nodded and came across the items he had found when he had looted the first giant he had met. A large pair of boots, a broken watch, and a bit of hair in a ribbon. He took the hair and added it to his growing pile. On a suspicious hunch, he pulled out some of his own hair and added it to the mix.
+
+“Why are you doing that?” Teepo asked.
+
+For some reason, I'm thinking that there's a drawback to making it. Ren thought. If there is, I believe it's that I won't be able to change back, even if I take off the helm. So, I just want to make sure I can at least go back to my own form if that's true.
+
+“That's... really smart thinking.” Teepo said.
+
+Thanks. Ren smiled and kept searching.
+
+Once he had gone through everything, he opened the recipe for the Polymorph helm and added all the new ingredients to it. He then added the maximum amount of Time runes he could to the 5 minute time limit; 50 of them at 5 minutes each. That added another 250 minutes to the helm's effect, which was a complete workaround on the helm's obviously imposed limitation. Once that was done, he activated his Craft Wondrous Item ability and added all the new ingredients to it, then placed the helm from his own armor onto the platform.
+
+Since the helm had 6 enchanted diamonds on it, and it was already enchanted with Protection and Durability itself, it took the platform nearly 10 minutes to convert the helm into what Ren had changed the recipe to. It had even asked for more Mana, and Ren had obliged. He waited, and when it was done, the helm didn't look any different; but, when he picked it up, it almost vibrated in his hands.
+
+Supreme Helm of Polymorph (Singular Wondrous Item - Indestructible - Permanently Bound)
+
+This helm will allow you to transform into other humanoid-type creatures. Due to the immense quality of the ingredients used, and the unqualified variety of materials, this helm cannot be damaged by any means. It is also permanently bound when equipped.
+
+Please note: Time limit resets when another form is chosen
+
+Time limit for each transformation: 255 minutes
+
+“WHOA!” Ren yelled as he read the popup, then read it again, and then again. “I don't believe it!”
+
+“That's amazing!” Teepo said. “You can... well, I guess as long as you keep switching back and forth, you can stay as whatever you chose for as long as you choose.”
+
+“It's... there's no way that this... it can't be real, can it?” Ren asked as he walked out of the storage tower, then deactivated and stored it without taking his eyes off of the helm.
+
+“You really made it.” The Marilith demon said, and Ren nodded wordlessly. “Well! Don't just stand there! Put it on!”
+
+Ren blinked his eyes for several moments, took a deep breath, then equipped the helm. He both felt and saw the glow cover him and waited. It took a few minutes for the glow to fade, and when it did, the helm faded away with it.
+
+“Wh-what?” Ren reached up and tried to touch where he thought the helm was, but his hand met nothing but air. He felt around his head and couldn't find any trace of it.
+
+“I-it's gone?” The Marilith demon said sadly, and Ren could feel just how sorry she was.
+
+“No, I... let me test something.” Ren turned to the closest skeleton knight. “Give me your helm.”
+
+It handed the helm over without question and Ren used his Craft Wondrous Item ability and reset it to an unused Helm of Foolishness, then picked it up and tried to equip it. He couldn't. He put it into his inventory, and when he tried to select it, it said that it couldn't be equipped because he already wore a helm that couldn't be replaced.
+
+“Even though it's 'gone', I'm still wearing it.” Ren said, amazed; then handed the skeleton knight back his helm. “I didn't know something like that was possible.”
+
+“If it's still there, even though it's not...” The Marilith demon said, and Ren felt her sorrow change to a faint hope. “Dear one...”
+
+“I've never done anything like this before, so... if I flop around like a fish, try not to laugh too hard.”
+
+“I promise to only laugh when you're not looking.” She said, and Ren chuckled.
+
+“Okay.” Ren said and took a deep breath. “Here goes.”
+
+Ren braced himself, even though he didn't know what was going to happen, and thought Marilith Demon. His entire body glowed and then he felt intense pain as every bone in his body broke at once. “AGGHHH!” He yelled as his now jelly-like body flopped to the ground and he landed on his back.
+
+“REN!” The Marilith demon yelled and slithered close, because she had felt his intense pain.
+
+“N-n-no, I'm... okay. It was just a surprise.” Ren said through gritted teeth. “I haven't felt that in a while, and I almost forgot what it was like.”
+
+“You... oh, Ren.” She said and reached out for him, then his body started to expand. She watched as 2 extra arms sprouted out from each of his sides, and his legs twisted around, over and over, then extended out to form a long snake tail. His chest expanded and his head grew, and after almost 4 minutes of excruciating pain and shredding his armor bodysuit, Ren was fully transformed into a male Marilith demon.
+
+Notice!
+
+You have successfully transformed into a Marilith demon (Level 83) and can now benefit from all of it's advantages. Your multiple arms can attack without pause in a relentless flurry. Your tail can grab and crush those unlucky enough to be caught with it, or you can lash out and strike opponents like a whip.
+
+Damage Resistances: Elemental - Ice, Fire, and Lightning; Physical - Bludgeoning, Piercing, and Slashing from both magical and non-magical attacks.
+
+Immunities: Poison, Acid
+
+Inherent Abilities: True Sight (can see as if daytime in any conditions, and can Spot anything within your sight, hidden or not), Multi-attack, Multi-weapon Fighting, Telepathy (Range: 100 feet), Damage Reduction, Spell Resistance, Natural Armor.
+
+Permanent Conditions: Corrupted, Combative (loves fighting)
+
+“This feels really weird.” Ren said and lifted his right hand to look at it. The other 2 hands on that side moved at the same time, and he looked at them. “I guess that's appropriate, since I'm only supposed to have 2 arms normally.”
+
+“You... you're really real.” The Marilith demon said and he felt her shock. “You're just like me.” She said, then she remembered what Ren had said about the polymorph helm and it's 5 minute limit. “Oh, dear one!” She slithered over to rest on top of him, and matched her body to his. “Hold me before you have to change back!”
+
+“I thought you said...”
+
+“I lied, you ignorant fool!” She said and kissed him as her arms picked his arms up and placed them around herself, because he couldn't do it himself. Ren hugged her, and she moaned as he kissed her back. Now that he had a mouth as big as hers, they matched up well and she lost herself to the sensations. They still shared their Heat Sense Aura, so they could both feel how the other felt. She knew he would never go any farther than this, and Ren felt that she accepted that. He broke the kiss when he had the chance and looked at her.
+
+“I'd like to try and stand up, if that's okay.”
+
+“But... we only have... mere... mere moments left.” She said, and he felt her deep sadness. Ren tried to cup the side of her face, and his other hands moved to do that as well, and he sighed.
+
+“I told you this would hurt you.” Ren said.
+
+“I know, I... I just...” She started to cry.
+
+“Let's move over to the Warming Pad.” Ren said. “This ground is freezing.”
+
+“I... okay.” She said and helped him turn over.
+
+Ren tried to move like he still had legs and was on the ground, and didn't go anywhere.
+
+“Don't try to walk or push with your foot.” She said, wisely. “It's a tail, not a leg.”
+
+Ren chuckled. “What do I do?”
+
+“Wiggle.” She said.
+
+“Wiggle?”
+
+“Pretend you're a worm, and just... wiggle.”
+
+Ren thought about it, and with some encouragement from Teepo, started to wiggle the end of his tail.
+
+“Good, good.” The Marilith demon said. “Now do that with your hips.”
+
+Ren did so, then did the logical next step and added wiggles in between. He felt the dirt churn underneath his tail and used his arms to lift himself up, then his tail slithered forward and pushed him up into an upright position. He picked up his last two hands that held him steady, and he shot forward 10 feet and flopped onto his side in the dirt because he couldn't keep his balance.
+
+“REN!” The Marilith demon exclaimed as she slithered over to help him up, and felt how overjoyed he was.
+
+“Bwahahaha! Did you see that?” Ren asked as she picked him up and set him on the Warming Pad. “I actually moved forward without legs! Hahaha!”
+
+She slithered around him and held him steady, then tucked herself around behind him. “Lean back a little.” She said, and Ren did. She wrapped her arms around him, between his own, and caressed his chest. “You could have seriously hurt yourself.”
+
+“Is that concern I hear in your voice?” Ren teased, and she turned her head and bit his ear. “By the gods!” He almost yelled as a thrill went through him, right down to his tail. “What was that?”
+
+“Your time is up, and I couldn't let you go without a little bit of foreplay.” She said, then kissed the spot she had bitten. “Why would you think I wouldn't want to touch such a handsome specimen when you offered it to me?”
+
+“I guess I really need to stop trusting villainous monsters.” Ren said, and that made her laugh.
+
+“You are too amusing for your own good.” She said. “What am I going to do with you?”
+
+“You can give me passage from here and let me leave.” Ren said. “I've given you what you wanted.”
+
+“And more, dear one.” She said and kissed him. Their long tongues played with each other in their mouths, and when she broke the kiss, she sucked on his to draw it out.
+
+“Bay, lash ma money. (Hey, that's not funny)” Ren mumbled, which made her laugh and let it go. He tried to pull it back in; but, he didn't have the motor skills to do it properly, so he had to use his hands to shove it into his mouth. He fumbled it because his brain was still using all 6 hands as if they were two, and the Marilith demon laughed and laughed at his comical appearance.
+
+Ren had hammed it up a little to make her laugh so much, because he knew she would be sad when he left; so, he wanted to leave her with a smile on her face.
+
+“Oh... oh, you... get... get out.” She said, and turned to look at a different section of the cavern. It shifted slightly and opened up to reveal a very steep exit tunnel. “Leave before I hurt myself from laughing so much!”
+
+Ren laughed with her and deactivated the Marilith demon form. It didn't hurt as much as he transformed back into his normal self, but he could feel the depression take a hold of her as he repaired his armor bodysuit.
+
+“Everyone! Up the tunnel!” Ren said.
+
+The 20 succubi left their hiding places and flew across the cavern and up the tunnel, and the skeleton knights marched over and up it with the two skeleton-like Phantom Steeds right behind them. He called over his own Phantom Steed and mounted it's saddle.
+
+“I am going to miss you.” The Marilith demon said.
+
+“I know you are.” Ren said, then stood up on the steed. “Come here.”
+
+She slithered close and he hugged her around the neck. “Are you sure you won't stay?” She asked, and hugged him back with all 6 of her arms.
+
+“You know I can't.” Ren whispered in her ear, then did something naughty and bit it.
+
+“AHH!” The Marilith demon yelled as the thrill went through her, right down to her tail. Ren let her go, and she let him go, and he sat down on his steed.
+
+“Goodbye, ma'am.” Ren said.
+
+“Goodbye, dear one.”
+
+Ren had the Phantom Steed trot over to the tunnel entrance, then turned around. “Before I go... I need to clear something up.”
+
+“You are still sharing an Aura with me.” She said. “I've felt everything you've felt, so what could you possibly have to clear up?”
+
+“It's nothing much.” Ren said, and she felt the distinct feeling of naughtiness from him, and it stirred things inside of her.
+
+“Wh-what is it?”
+
+“The 5 minute limitation? That was on the old helm recipe. I made a new one and changed it to over 4 hours.” Ren said and grinned. “Bye!”
+
+“RENNNNNNNN!” The Marilith demon yelled at the top of her lungs, and Ren took off at the Phantom Steed's fastest speed up the tunnel to the safe zone.

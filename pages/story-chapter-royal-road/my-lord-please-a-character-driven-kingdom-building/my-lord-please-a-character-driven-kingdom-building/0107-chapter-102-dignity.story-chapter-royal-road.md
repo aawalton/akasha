@@ -1,0 +1,185 @@
+---
+id: ae609b6a-d370-5bfb-8adc-cd3b889a03fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102 Dignity"
+slug: 0107-chapter-102-dignity
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 107
+ownLength: 2010
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3721056/chapter-102-dignity"
+royalRoadId: "3721056"
+---
+
+It was decidedly cooler within Lord Rathenfell’s manor compared to the crowded streets they had ridden through yesterday.
+
+The window of his room overlooked a large portion of Helvarn though from this height, the people moving through its streets appeared little more than scattered figures below.
+
+Lucien wondered briefly if Lord Rathenfell had chosen this room specifically for that reason. The meeting yesterday had been both revealing yet puzzling in equal measure.
+
+The knock at the door interrupted his thoughts. He turned toward it and called.
+
+"Enter."
+
+Dorian walked in, this time without his armor while wearing something slightly more formal than usual.
+
+The captain dipped his head once he reached the usual distance though he seemed more rigid than usual, even for him. "My Lord. The meeting is about to begin soon."
+
+Letting out a soft breath, Lucien walked over to the chair where his cloak rested before clasping it on as usual. He had already ensured his clothes were in order the moment he woke up this morning.
+
+Dorian looked like he was about to say something which caused Lucien's brow to lift in question.
+
+"...You aren't going to ask about why I didn't tell you that I had met Lord Rathenfell before, My Lord?"
+
+At his question, it finally dawned on him the reason why the captain had a strange look of unease last night when they were being escorted back to their rooms. They didn't have the chance to speak alone because of the presence of the maid.
+
+Lucien shook his head lightly. "I am not going to pry into your personal matters, Dorian. Besides, you met him only once and we both know from yesterday...that man isn't easy to read at all."
+
+The captain relaxed slightly at his words causing the corner of Lucien's mouth to twitch.
+
+"Hmm...if you’re that concerned, perhaps I should be just a little suspicious of you," he said, a dry tone in his voice.
+
+Dorian shook his head, turning slightly away even as he let out something close to a chuckle.
+
+Adjusting his cloak idly, Lucien glanced toward the mirror in his room for one final check. “Come. Let us not be the last to arrive.”
+
+He stepped out of his room, Dorian falling into step behind him to his right.
+
+It was the same servant that had escorted them to their rooms that met them near the manor’s central stairwell. They were led deeper into the manor until the servant finally stopped before a heavy wooden door and turned toward them.
+
+"My Lord. Lord Rathenfell and Lord Vaelric are already inside," he said, bowing his head.
+
+Lucien gave a nod while Dorian made to stand at the side of the door when the servant spoke again.
+
+"Lord Rathenfell mentioned that you may bring your guard captain, if you so wish."
+
+At the man's words, Lucien and Dorian exchanged brief glances before the captain inclined his head slowly.
+
+'...Another one of his subtle maneuvers?'
+
+Keeping his expression unchanged, Lucien opened the door and stepped inside, Dorian slightly behind him.
+
+The room was not particularly grand, with weapons displayed along its walls and a few portraits of what seemed to be the past lords of house Rathenfell. It was the large table in the middle that caught his attention first.
+
+A large map lay spread across the table, making the room feel more like a strategy chamber than an audience hall.
+
+It was an odd place to hold a discussion between nobles.
+
+Lord Rathenfell stood at the head of the table, hands folded behind his back with a slight smile on his face. That smile only widened upon seeing him as he gestured toward the empty space on the right side of the table.
+
+Walking toward them, Lucien inclined his head while observing Lord Vaelric seated on the older man's left from the corner of his eye.
+
+The man was not much older than Lucien himself. He wore a dark blue coat that looked almost black in the dim lighting of the room. It was a little more decorated and lavish compared to Lord Rathenfell's, just about crossing the line of what would be considered overly garish.
+
+Even from a brief glance, he could see the slight resemblance with the miner.
+
+His brown hair was kept shorter than Garrick's, exposing sharp facial features and a carefully kept stubble rather than the rougher one his half-brother wore.
+
+Lord Vaelric's eyes narrowed by a fraction at the sight of him, his gaze flicking to the cloak on his shoulder. The crease in his brows deepened when he spotted Dorian behind him before he quickly stilled it, a stony expression coming over his face.
+
+When he reached the empty spot at the table, Dorian moved to stand further back to his right, arms folded behind his back.
+
+Once Lucien had taken his seat, Lord Rathenfell finally sat as well, continuing smoothly as he did so. “Ah, Lord Varentis. It is good to have you join us. I believe this is the first time you have met Lord Vaelric?”
+
+Glancing toward the man across from him, Lucien gave a nod. "Yes. Well I wished it were under better circumstances, it is good to finally meet you, Lord Vaelric."
+
+Lucien knew what Lord Rathenfell likely wanted, but Lord Vaelric’s intentions were harder for him to discern. From Garrick’s own words, he had gathered that the man before him likely wished to restore some measure of his house’s prestige.
+
+Hence, he would attempt to leave at least a neutral impression as long as Lord Vaelric did not ask too much of him at Ashridge’s expense.
+
+To Lucien’s surprise, the stony expression on Lord Vaelric’s face cracked slightly, his eyes narrowing at him.
+
+"...It is good? Hmph, hollow words from one who had rejected my invitation to Cragwatch last year."
+
+'...Rejected? I did?'
+
+Lucien kept his expression carefully neutral even as he fought the urge to deny ever doing such a thing. Then, the words 'last year' came to the forefront and he realized "who" exactly it was that rejected the invitation.
+
+Leaning forward in his chair, Lucien rested his hands on the table. "...Last year was a...tumultuous year for me, Lord Vaelric. I had no intention of insulting you with my rejection."
+
+Lord Vaelric's expression softened slightly even as a chuckle escaped Lord Rathenfell, who gestured lightly between the two of them.
+
+"See? I told you it's merely a misunderstanding after all, Lord Vaelric." The older man’s smile deepened with amusement. "As much as I am proud to be a lord of these lands, I can see how troubling it must be for Lord Varentis to suddenly be exiled so far from his home."
+
+Perhaps that was why Cragwatch had rejected his trade request back then as well. Lucien could see how a noble would find it insulting that someone who had rejected his invitation then turned around and asked for a trade request soon after.
+
+'Maybe this meeting would actually...turn out to be surprisingly smooth?'
+
+Lord Vaelric shook his head, waving his hand lightly. "Fine. Let us move past that then and get to the heart of the matter."
+
+His eyes moved to meet Lucien's. "You took responsibility for my subjects without ever speaking to me directly. And while I understand you did so for good reasons."
+
+“Why did you not visit me in Helvarn when you came here to trade?”
+
+'Because I wasn't ready to meet with a noble yet back then.'
+
+But even as that thought came to him, Lucien knew it was only half of the truth.
+
+The memory of his meeting with Elias just before he left for Helvarn surfaced unbidden, of how he wanted to avoid meeting Lord Vaelric on his terms.
+
+He had been treating the man before him as someone to overcome from the very beginning.
+
+Leaning back on his chair, Lucien gestured toward the window overlooking Helvarn. "The trade had taken longer than I had anticipated because of the...difficulties in securing a favorable price."
+
+Lord Vaelric didn't look entirely convinced by that and was about to speak when Lord Rathenfell spoke first.
+
+"As I told Lord Varentis yesterday, the matter with the iron ore has been dealt with." He glanced briefly at Lord Vaelric whose expression stiffened slightly. "Although the grain merchants and their collusion were not my subordinate’s doing."
+
+Lord Rathenfell shook his head faintly, a light smile at the edge of his expression.
+
+"Now, it is clear that the two of you had gotten off on the wrong foot because of a series of misunderstandings. Surely, it would not be too late to let bygones be bygones after we've aired our grievances?"
+
+Exhaling sharply through his nose, Lord Vaelric stilled his expression even as he muttered. "Matters of trade should be conducted by your subordinate, or even your steward."
+
+Before Lucien could reply, Lord Rathenfell raised a hand lightly. "Come now, Lord Vaelric. Perhaps like his father and his house, Lord Varentis merely enjoys mercantile challenges. And the one placed before him was too tempting for him not to get involved personally."
+
+Lord Vaelric's gaze flicked to the cloak on Lucien's shoulders for the briefest moment, his eyes narrowing slightly.
+
+A small scoff escaped him. "And standing upon the wall during a Tithe? Coming personally to aid in the rescue of peasants? Are those mercantile challenges too?"
+
+At the pointed words, Lucien’s brow creased faintly. "I do not believe my own personal actions are in question here, Lord Vaelric. Let us focus on what is to be done with the people of Cragwatch instead."
+
+Lord Vaelric made a curt wave of his hand. "A year's worth of taxes for my subjects that you took in. Is that offer satisfactory for you, Lord Varentis?"
+
+If not for the subtle sarcasm beneath the man's words, Lucien would have found the offer surprisingly...reasonable. Though the idea of paying for a person's life like that made it inherently distasteful, he could accept it as long as this matter was solved peacefully.
+
+Lucien gave a careful nod which only seemed to cause Lord Vaelric's eyes to hardened.
+
+As Lord Rathenfell was about to speak again, Lord Vaelric shook his head, resting his hands upon the table.
+
+"That is not all. I would request that Lord Varentis writes a letter to His Majesty." Lord Vaelric's eyes narrowed at him even as he spoke in a deliberately casual tone. "That he agrees to pay compensation for the loss of my subjects."
+
+'...perhaps that was his goal all along?'
+
+If that was the case then that was fine. It was not like he cared all that much about prestige when his own house's reputation was likely already in shambles in the capital.
+
+Lucien inclined his head. "Those terms are acceptable."
+
+Of all the reaction he had expected from the man before him, it was not what came next.
+
+Lord Vaelric's hands clenched tight before he uttered a single word.
+
+"Acceptable?"
+
+The man stood up abruptly. "Time and time again, you disregard the dignity of your house, Lord Varentis." A rough breath left him through his nose. "If you find it so easy to toss aside a noble's responsibility to his house..."
+
+Lord Vaelric jabbed a finger toward the cloak resting upon Lucien's shoulder.
+
+"Then you have no right to be donning that upon your shoulders."
+
+Lucien could hear Dorian shift from behind him while Lord Vaelric looked ready to continue speaking again until a voice cut in.
+
+"You forget yourself, Lord Vaelric."
+
+Despite the faint smile still resting on Lord Rathenfell's face, his voice had lowered significantly. "The right of House Varentis to wear a red half-cloak is not up to you to judge."
+
+"Do not besmirch your own house any further."
+
+Lord Vaelric remained silent for a moment, his jaw tightening.
+
+Then he inclined his head slowly. "Apologies. I must clear my head."
+
+With that, he turned and left, visibly making the attempt to appear calm even as his hands continued to clench tightly.
+
+The door closed behind him with a firm sound.

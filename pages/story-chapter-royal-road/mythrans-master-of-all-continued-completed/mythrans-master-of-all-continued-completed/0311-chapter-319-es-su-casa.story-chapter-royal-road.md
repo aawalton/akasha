@@ -1,0 +1,363 @@
+---
+id: 924a0fcf-89f8-5ad3-a546-04375b097749
+page-type-slug: story-chapter-royal-road
+title: "Chapter 319 - Es Su Casa"
+slug: 0311-chapter-319-es-su-casa
+partOf: mythrans-master-of-all-continued-completed
+position: 311
+ownLength: 4069
+unit: words
+publishedAt: 2017-07-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151248/chapter-319-es-su-casa"
+royalRoadId: "151248"
+---
+
+Stella grabbed Ren's swim trunks from his room, Denise's from the box of her things, and her own bathing suit from her room, then went back downstairs to the living room. She handed Denise hers, gave Ren his, and pushed the wheelchair out through the patio doors. Lisa stepped out of the changing room wearing her dark blue one piece, and it showed off her slim figure to great effect.
+
+“Wow.” Ren said. “Lisa, you look marvelous!”
+
+“Thanks.” Lisa's face flushed a little red as she turned to show him the back, and how it hugged her body and highlighted her hips.
+
+“Um... it's going to take me a minute to get changed.” Ren said and put his hands in his lap. “I... ah... shouldn't stand up right now.”
+
+That might be a better compliment from him than marvelous is. Lisa thought in amusement and walked towards the pool. Ren watched her closely the entire time. He wasn't leering at her like any other guy would do, though. She could almost feel his appreciation for her, and she added a little bit of sway to her hips. She stopped suddenly, turned around, and walked back.
+
+“I forgot a towel.” Lisa said, and sneakily kept her eyes on Ren's face. She saw that he looked at her with wide eyes; but, his gaze didn't drop from her own face at all. Not even once. Her heart beat fast from joy because in the back of her mind, she had thought that he would make her drop her opinion of him, especially if she flaunted herself around like this and he wouldn't be able to help himself and ogle her.
+
+Lisa grabbed a towel from the rack in the change room, then turned around to run a hand down Ren's cheek, and walked over to the pool and put the towel on one of the patio chairs and sat down to wait.
+
+“Okay, even I have to admit that she looks sexy in that one piece swimsuit.” Denise said in a low voice.
+
+“So, it's not just me, then?” Ren asked just as quietly.
+
+“No.” Stella said. “I agree. She's pretty sexy.”
+
+Ren stood up and adjusted himself so he wouldn't cause himself pain, and went into the change room. He came out a couple of minutes later with just his swim trunks on and a towel hung over his shoulders. Denise had changed in the other room while Ren did, came out with her bikini on, then Stella went in to get changed herself. Ren walked over to sit next to Lisa by the pool, and she watched him as he came over.
+
+“I was tempted to wear a Speedo.” Ren said and sat down. “It's a bit too restrictive when I get... ah...”
+
+“Excited.” Lisa said, and Ren nodded. “That's okay.” She said. “I'll just imagine you're wearing one.”
+
+Ren smiled. “I'm sure you'll see me in it eventually.” He said. “Assuming you want to come back and visit, that is.”
+
+“Just from what I saw so far, this place is great.” Lisa said. “I'd like to come back and... see more of it.”
+
+Ren smiled, and then Stella came out of the change room in a nice two piece bathing suit.
+
+“Stella? No string bikini?” Ren asked her, jokingly.
+
+“I can't shock you like that the first time you see me in a bathing suit.” Stella said, and then laughed.
+
+“You're always looking out for me.” Ren said and smiled.
+
+“I try to.” Stella said to him, then looked at the on-duty nurse. “Denise, are you going in the water right away?”
+
+“I can lounge for a bit.” Denise said and picked up a bottle of sunscreen. “I'll keep watch, in case anything happens.”
+
+Stella nodded, and then walked into the pool. “Ooo, that's nice.” She said, then dove forward and swam a little. Lisa and Ren watched her swim a couple of leisure laps, then looked at each other.
+
+“Shall we take the plunge?” Lisa asked, and held out her hand.
+
+“Only if you promise we can practice mouth-to-mouth later.” Ren said and took her hand after dropping his towel on the chair.
+
+“Don't worry, I'm great at first aid.” Lisa said and they stood up together.
+
+“That's not what I meant.” Ren said and gave her a quick kiss.
+
+“Oh.” Lisa said, then nodded slightly. “On three.” She said. “One.”
+
+They stepped close to the pool's edge.
+
+“Two.”
+
+“REN!” Denise yelled. “YOU CAN'T SWIM!”
+
+“Three!” Lisa said, then she and Ren jumped into the deep end of the pool.
+
+“Oh my god!” Denise exclaimed and jumped into the pool to save him. She swam over to where they had jumped in, and both of them were gone. “What... where... Stella!”
+
+Stella had just surfaced herself and looked around. “What?”
+
+“Ren's in the pool!”
+
+“No!” Stella dove under the water to look for him, and saw Ren and Lisa as they swam towards her and the shallow end. Stella changed her direction, so she wouldn't run into them, and came to the surface. Ren's head broke the surface of the water a moment later, followed by Lisa's.
+
+“REN!” Stella yelled. “What the hell do you think you're doing?”
+
+“Swimming.” Ren said. “What else would I be doing?”
+
+“Drowning!” Denise nearly yelled at him. “You can't swim!”
+
+“I've been swimming for almost a year now.” Ren said. “I had to take a fast water course.”
+
+“Wait, what?”
+
+“In the game.” Ren said. “I wasn't allowed to move around without guide wires or anything, until I learned how to swim properly.”
+
+“You... you can swim now?” Denise asked. “Is that even possible?”
+
+“I'm exhausted right now, since I'm so weak here; but, I know the moves and what to do.”
+
+“I'd say he's a natural at it, but I know he had to do a lot of training in the Water Realm to survive the rough seas.” Lisa said.
+
+“I can't believe it.” Stella said. “You learned how to swim in the game.”
+
+Ren nodded. “This body isn't used to it, though.” He said and walked over to the Jacuzzi. “I'm gonna feel that tomorrow.” He said, and slid into the water.
+
+“Is it okay if I keep swimming?” Lisa asked.
+
+“If you don't mind me watching you.” Ren said.
+
+“Of course not.” Lisa said. “You can watch me all you want.”
+
+“Thanks.” Ren said and turned on the Jacuzzi. “Ah, that's nice.” He said and sat down. “Have fun and show me some fancy moves.”
+
+Lisa smiled, and dove into the water. A moment later, she came up at the side of the pool with the diving board.
+
+“Get ready to be amazed!” Lisa said and pulled herself out of the water. She shook herself off and took two quick steps along the board, then hopped on the end to spring up into the air. “Cannonball!” She said, and tucked her knees to her chest and held onto them. A large splash followed after she hit the water, and Lisa surfaced to the sound of Ren's laughter.
+
+“How did you like that fancy move?” Lisa asked him as she rubbed the water out of her eyes.
+
+“It was great!” Ren said. “What else have you got?”
+
+For the next ten minutes, Lisa showed off for Ren, and let him enjoy himself.
+
+“Whew, okay... I'm done.” Lisa said, and slowly walked over to the Jacuzzi. Ren held a hand out to her, and helped her climb in. “Oh, that feels nice.” She said as the jets of water and air hit her tired muscles. A minute later, sweat dripped down her face.
+
+Huh. Lisa thought. That sales girl was right. It is too hot with a one-piece bathing suit in a Jacuzzi. “I'll be right back.” Lisa said, got out, and went to the change room. Once inside, she didn't know what to do. Do I wear the push-up? She asked herself. Or do I wear the potential see-through?
+
+Lisa debated for a few minutes, then gave in to temptation and put on the very small yellow string bikini. She wrapped a towel around herself and went out to the Jacuzzi. She looked around, and saw that both Stella and Denise were swimming in the pool and they weren't looking at the moment. Happy that she was only going to reveal herself to Ren, she turned her back to the pool and looked at him.
+
+“I hope you're ready for this.” Lisa said, then slowly opened the towel. The more she opened it, the more her face flushed red. “Surprise.”
+
+Ren's mouth dropped open at the barely-covers-anything bikini. “Lisa... I... please forgive me.” He said. “I have to look.”
+
+“That's why I got it.” Lisa said, and her face burned a deep red as Ren looked at her. The yellow cloth set off her short blonde hair nicely, and the small bits of cloth made everything else seem that much larger.
+
+“You look absolutely stunning.” Ren said when he looked back at her face. “I'm tempted to say beautiful; but, I don't want you to think that you need to dress like this for me to call you beautiful.”
+
+Lisa nodded and dropped the towel as she stepped into the water. She sat down across from Ren, then smiled.
+
+“There's another bit of a surprise for you.” Lisa said, then almost stood up so that only her chest came out of the water.
+
+“By the gods.” Ren whispered, because the partially see-through fabric revealed the tips of her breasts almost as if she wasn't wearing anything at all. “Lisa... you...” He swallowed loudly. “Thank you... thank you very much.”
+
+Lisa's face burned the deepest red it had ever been, and she slid over to sit beside him. He put his arm around her shoulders, and used his other hand to turn her face towards his.
+
+“I'd really like to kiss you now.” Ren said softly to her. Lisa nodded slightly, and he pressed his lips to hers. Her heart beat almost as fast as his while they continued to kiss.
+
+*
+
+Elise, the secretary at Sid Tec, regretted having to take a shower that morning. She didn't want to lose anything that Ren had given her; but, she knew that it wasn't healthy for her if she didn't take a shower after having sex.
+
+I kept it for as long as I could. Elise thought to herself as she worked through her lunch break. Her boss didn't complain that she had left the office for over an hour that morning so she could go with the tech team to help Ren move the gear over to his new place. That didn't mean she wouldn't make up the time, though.
+
+Ren was right. I'm really good at this job and I don't want to lose it. Elise remembered being with him the night before, and she smiled. Waking up next to him was another dream come true!
+
+*
+
+Clint laughed as one of his ranch hands was thrown from the saddle of a bronco they were trying to tame.
+
+“Ah tol' ya ta double-up on tha' there rope.” Clint said, and helped the guy stand up. “Are ya alrigh'?”
+
+“I'm good.” The guy said. “How do you do this every day?”
+
+“Ah don'.” Clint said. “Ah gets ah new one ah ya each time.”
+
+“Really?” The guy asked, and Clint laughed.
+
+“Nah, ah'm jus' yankin' yer chain.” Clint said. “Come on. Ah'll show ya howta do it righ'.”
+
+The guy nodded and he watched closely as Clint showed him how to do it right.
+
+*
+
+Lisa was in high spirits because Ren didn't paw at her, or try to fondle her, while they kissed. She didn't know how he could have such great self control, because she herself wanted to rub her hands all over him, and had given into the impulse several minutes before. Her breasts ached to be touched, and she moved herself to rub them on his chest. The thin fabric provided no barrier, and they both caught their breath as she pressed herself against him.
+
+“Lisa... good god...” Ren said when he finally broke the kiss. “You're driving me crazy.”
+
+“Me, too.” Lisa said, and turned to straddle him. She kissed him again, and then sighed. “Ren, I...”
+
+“Yes, Lisa?”
+
+Lisa leaned down and put her mouth by his ear. “I can hold my breath for almost 2 minutes.” She whispered to him, and he shivered slightly.
+
+“Lisa... you... you shouldn't...”
+
+Lisa slid off of his lap, took two very deep breaths to expand her lungs, then dunked her head under the water.
+
+“Good god.” Ren whispered, and was almost overwhelmed with what Lisa was doing. Two minutes later, Lisa's head came up out of the water and she gasped for air. Ren reached out and put a hand under her chin to stop her from dunking again.
+
+“Lisa.”
+
+“I want to do this.” Lisa said. “You've been so good to me, and I want to be good to you.”
+
+“But...”
+
+Lisa slid forward and kissed him, then moved back and smiled. “I'm almost done.”
+
+“Me, too.” Ren said, and she grinned.
+
+“I'll be right back.” Lisa said, took several deep breaths, and dunked her head again. Ren closed his eyes, leaned back, and let himself enjoy it.
+
+“Where's Lisa?” Stella asked as she came out of the pool and started to dry herself off with a towel.
+
+“Guess.” Ren said, and didn't open his eyes.
+
+“You're kidding!” Stella said. “She's... right now...”
+
+Ren nodded. “Almost... almost...” His eyes flew open and he held onto the sides of the Jacuzzi. “Good god!”
+
+“What's going on?” Denise asked as she stepped out of the pool to dry off, too.
+
+“Lisa's giving new meaning to the phrase 'fun in the water'.” Stella said.
+
+“No way!” Denise said. “She's... right now...”
+
+Lisa's head came up out of the water and she gasped for air. She took several deep breaths and wiped water out of her eyes. Stella and Denise had started to walk away when Lisa had emerged, and they sat down in the lounge chairs nearly half the pool's length away.
+
+“How was that?” Lisa asked, and ran her hands through her own hair to get the water out of it.
+
+“What's better than amazing?” Ren asked her, and she chuckled.
+
+“Stupendous?” Lisa asked. “Mind-blowing?”
+
+“That'll do.” Ren said. “Now double that and it might describe how great you are.”
+
+Lisa slid over to him and he took her into a tight embrace.
+
+“I can't hold my breath like that; but...” Ren told her. “...I would like to return the favor.”
+
+Lisa shook her head. “I didn't do that so you would-”
+
+Ren kissed her and cut off her words. “Please.”
+
+“Oh, all right.” Lisa said, and Ren let her go. She turned around and put her hands on the side of the Jacuzzi to brace herself to get out of the water, and Ren put a hand on her hip. She froze, and looked back at him. “R-Ren?”
+
+“This is good enough.” Ren said. “Use the towel to lean your elbows on.”
+
+“But... shouldn't we...”
+
+“Towel.”
+
+Lisa put the towel on the edge of the Jacuzzi and leaned on her elbows. She could clearly see Stella and Denise on the lounge chairs, and she blushed because bent over like she was, her behind was just slightly out of the water. The thin fabric of the bikini was practically see-through when it was wet, so Ren had an up-close-and-personal view of her.
+
+“Lisa...” Ren said. “I can't help myself.” He said. “Please... may I?”
+
+He leaned in and kissed one cheek, then the other. Lisa shivered from his touch, then she nodded because she didn't think she could say 'yes' out loud. Ren slipped her bikini bottom off, and she put her head down onto the towel so she could gasp and not make much noise.
+
+Ren helped himself to her, and after a minute, Lisa stuffed the towel into her mouth to stop herself from screaming in pleasure. After a while she couldn't stand anymore, and started to slide into the water. Ren used his arms to prop her up, and her feet came up out of the water. Lisa bit down on the towel and growled while Ren kept returning the favor that she did for him.
+
+When he thought she'd taken as much as she could before she'd start to complain that he was going too far, he eased her down into the water and sat back. Lisa turned to look at him with her eyes wild, and the towel still stuffed into her mouth.
+
+“I can't kiss you with the towel in the way.” Ren said, and Lisa shook her head when he tried to take it from her. She eased close to him and straddled his lap. “Lisa?”
+
+Lisa ran her hands through his hair, then put both hands into the churning water.
+
+“Oh, Lisa.” Ren whispered while Lisa took control. He saw her wince as she settled lower into the water, and he hugged her close. It took a while for them to finish their fun in the water, and when it was time, Lisa did her holding breath technique to catch everything so it wouldn't dirty the water. They sat in the Jacuzzi afterwards, both of them tired and happy.
+
+“I think we should all go inside.” Stella said. “It's almost time for supper.”
+
+“That's a good idea.” Ren said. “I think I'm starting to get water-logged.”
+
+Lisa chuckled and reached for the towel to wrap around herself. “I call dibs on the shower first.”
+
+“It's cold water.” Denise warned her. “Just do a quick rinse.”
+
+“There's 6 bathrooms with full showers inside.” Ren said. “You can pick one of them to use.”
+
+Lisa nodded and did a quick rinse, followed by Stella, Ren, and Denise. Stella went to the kitchen to start supper, and Denise took Ren in the wheelchair up to his room, with Lisa close behind.
+
+“Do you want to get a shower first?” Ren asked Lisa, and she shook her head. “Second?” He asked, and she shook her head again. “You want to share it at the same time?”
+
+Lisa nodded, and Ren smiled.
+
+“Denise? Can you stand by the shower in case I need help?”
+
+“Of course.” Denise said. “That's my job.”
+
+“Thanks.” Ren said and stood up. “After you.” He said to Lisa, and she went into the bathroom. She stepped into the shower with her bathing suit on, and Ren did, too. Denise stood with her back to the shower, so she wouldn't see anything and it gave them at least the illusion of privacy.
+
+“You don't have to do this, Lis-” Ren tried to say, then Lisa kissed him.
+
+“I've never taken a shower with anyone but myself.” Lisa said. “What do I do?”
+
+Ren smiled. “The same thing you always do, except there's extra hands to help and extra parts to wash.”
+
+Lisa looked at him with wide eyes as he lathered up his hands, and he scrubbed up his own chest. She had to turn around to take off her bikini, because she was still embarrassed about being completely naked around other people. When she turned back, she saw that Ren faced away from her and she liked him that much more for that simple gesture. She lathered up her hands, and gently touched his back. She liked the feel of the soap on his skin, so she gently scrubbed his back.
+
+“Thanks.” Ren said. “Can I do your back?”
+
+“Y-yes.” Lisa said and turned around. Ren glanced at her, lathered up his hands, and scrubbed her back. He did her arms and legs as well, and Lisa stood still while he did it.
+
+“There's only your front left to do.” Ren said, and Lisa didn't say anything; but, after a moment, she lifted her arms out of the way. He slid off his shorts so they wouldn't get covered in soap and lathered his hands up again, then rubbed her belly from behind. He moved his hands up to scrub her chest, and Lisa took in a sharp breath. Ren wasn't stupid enough to try and play with her at this point, since she said she only wanted a shower. He finished with her chest, then lathered up his hands again. He scrubbed her waist, and then moved his hands down her front, and she stopped him with her hands before he reached her intimate part.
+
+“You're not thinking anything sexual, are you?” Lisa asked softly.
+
+“You can check if you want.” Ren said and stepped to the right slightly.
+
+Lisa glanced down at him and saw that he wasn't ready.
+
+“You said you wanted a shower, so all I'm doing is cleaning you.” He said. “If you want it to become...”
+
+“No.” Lisa said, and let his hands go. Ren scrubbed her there, and Lisa bit her lip so that she wouldn't react to having someone else touch her there. Even though the touch wasn't sexual, it was still a sensitive spot to be touched. Ren finished scrubbing her, scrubbed himself, and then they rinsed themselves. They got out of the shower and dried off, and went into the bedroom to get changed.
+
+“You can stay in the bathroom to get changed if you want.” Ren said to Lisa.
+
+“That's okay.” Lisa said. “You... you've been... well, you didn't... I mean...”
+
+“I know what you mean.” Ren said.
+
+“You treated me with respect.” Lisa finally got out. “I shouldn't hide... not after... that is, we...”
+
+Ren took her into a hug. “It's okay if you're not comfortable having someone see you nude.” He said. “I don't let just anyone see me, either.”
+
+“You don't?” Lisa asked, surprised. “But... you've been...”
+
+Ren chuckled. “Yeah, I've had sex a lot, but that doesn't mean I want to walk around naked in front of everyone.”
+
+Lisa took in a deep breath, and nodded. “Then... I think I will change in the bathroom.”
+
+Ren smiled and let her out of the hug. Lisa picked up her backpack and went into the bathroom. Denise helped Ren get dressed, and he was ready by the time Lisa came out in a slightly baggy shirt and an old pair of jeans.
+
+“I was thinking...” Lisa said. “I... um... I should...”
+
+“Your mom must be pretty worried by now.” Ren said and smiled. “I don't think another half an hour will make that much of a difference.”
+
+Lisa chuckled. “Then, I think I'll stay for supper.”
+
+“That would be great.” Ren said.
+
+Lisa stayed for supper, and they ate in the large dining room downstairs. After that, Lisa really had to go. Stella did the same thing that she did the last time, and gave Lisa the money to take a taxi home, and to come back. Lisa thanked her for everything, especially for the swimsuits, and Stella gave her a hug.
+
+“Well see you again soon, I hope.” Stella said. “Take care, okay?”
+
+Lisa nodded, waved to Denise and kissed Ren goodbye, then left when the taxi arrived.
+
+“Well, this day was just the best!” Ren said, and looked at Stella and Denise. “I really need to thank the both of you for everything you did today.”
+
+“You're welcome.” Stella said. “I'm glad you had fun.”
+
+“Me, too.” Ren said. “But... I think it's time I went back into the game.”
+
+“Are you sure you're okay with that?” Denise asked.
+
+“I'm sure they've figured out a way to stop it from happening again by now.” Ren said. “Don't worry, I'll be fine.”
+
+“If anything else happens, you make sure to tell us, okay?” Stella said. “Anything at all.”
+
+Ren nodded. “If anything else happens, you'll be the second to know.” He said. “Or third. Hold on, it's fourth.”
+
+Stella laughed. “Just tell us, Ren.”
+
+Ren grinned and got into bed. “I will.”
+
+Denise handed him the VR headset.
+
+“I'll probably be staying in the game tonight.” Ren said, then remembered something. “I almost forgot to take care of business.” He put the headset down and grabbed a foil packet. He was in and out of the bathroom a minute later, and got back on the bed. “Bye, Denise.” He said. “I'll see you in the morning, Stella.”
+
+“Goodnight, little stud.” Stella said.
+
+“Flow Login Start.”
+
+********

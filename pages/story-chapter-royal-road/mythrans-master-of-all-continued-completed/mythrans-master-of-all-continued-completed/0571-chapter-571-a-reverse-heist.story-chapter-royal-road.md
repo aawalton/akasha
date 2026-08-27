@@ -1,0 +1,209 @@
+---
+id: 876f446f-e9f3-5c55-a790-67e6070415e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 571 - A Reverse Heist"
+slug: 0571-chapter-571-a-reverse-heist
+partOf: mythrans-master-of-all-continued-completed
+position: 571
+ownLength: 2850
+unit: words
+publishedAt: 2018-04-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211840/chapter-571-a-reverse-heist"
+royalRoadId: "211840"
+---
+
+Ren and Artemis stepped out of the portal, and Ren summoned Teepo again. He cast the spells necessary to make Teepo solid and gave him a voice, and he landed on Ren's shoulder.
+
+“It's a good thing you don't have anything else to do today.” Teepo said. “The day's almost over.”
+
+“Actually, I think I should warn Railyse about going home tomorrow.” Ren said, and led Artemis over to the large pool he had made for her and the water elementals. He knelt and stuck his finger into the water, and wiggled it. A 6 foot tall water elemental slid up out of the water, and Ren bubbled and gurgled as he asked to see Railyse.
+
+The water elemental nodded and slid back into the pool and disappeared. After a few moments, Railyse and the two elementals rose up out of the water.
+
+“You pay me yet another visit so soon?” Railyse asked and walked over to him. “I cannot take another feeding, and you interrupted my rest.”
+
+“Please accept my apologies. I only came to remind you about going home tomorrow morning.” Ren said and remained kneeling. “Your mother's deadline will expire at noon, and I want you safely back home before then.”
+
+“Ren, I'm not going.” Railyse said. “I want to stay here with you.”
+
+“What?” Ren was surprised to hear this. “No.”
+
+“Ren...”
+
+“Absolutely not.” Ren said. “I will not have a Sea Dweller in your condition anywhere near land when this thing starts.” He took her hand and kissed it. “I can't be here to protect you all the time, and you know if anyone realizes this is where you are, they will try to come for you.”
+
+“I don't care about the danger.” Railyse said. “I've made my decision, and...”
+
+“Then forget about waiting until tomorrow.” Ren said and stood up as he let her hand go. “Gather your things if you have anything you want to take with you. I'm bringing you back to the portal right now.”
+
+“Ren, I'm not going.”
+
+“I wasn't asking.” Ren said.
+
+Railyse frowned. “You can't tell me what to do.”
+
+“Actually, I can.” Ren said and looked at the two water elementals. “I was empowered and entrusted with the safety of the Future Queen by the current Queen.” He told them. “She is putting not only herself, but her potential spawn and the future of her people in danger by staying here after hostilities resume.”
+
+The two water elementals vibrated with agitation, because they needed to follow Railyse's orders and keep her safe. At the moment, those two things were in opposition.
+
+“You must keep her safe, and the best place to do that is back with her family.” Ren said.
+
+Railyse turned and looked at the water elementals. “You will not move until I say so.”
+
+“Railyse, please be reasonable.” Ren said, and she looked back at him.
+
+“You are the one not being reasonable. I am old enough to make my own decisions.”
+
+“If you were making the right one, I wouldn't argue about it.” Ren said.
+
+“I am staying right here for the foreseeable future.” Railyse said.
+
+Ren took out the All-Seeing Mirror and asked it to show him Railyse's possessions. There were shells and odd-shaped rocks, and a kind of shrine with several weapons around it, which included her 2 pronged trident. A bed of seaweed and several other trinkets were scattered around her cave bedroom.
+
+“You've made a nice place for yourself.” Ren said.
+
+“No, you made it.” Railyse said and rubbed her belly. “As is your duty.”
+
+“Railyse, we discussed this. Not only would your family hunt me down and do horrible things to me, we aren't even the same species.” Ren said. “You need to find a suitable mate for your spawn.”
+
+“I have found one.” Railyse said. “No one can compare to you.”
+
+Ren opened his mouth to try and explain again, then decided to try a different tactic. “You and I have been friends for a long time.” He said and she nodded. “We both know a romantic relationship can never work out between us.”
+
+“Romantic?” Railyse thought about that. “You've done everything, more than everything actually, that a potential mate could possibly do. You've given me multiple places to live, given me sustenance well beyond anything I've ever imagined, allowed me to create devoted followers, and provided for all my material needs.” She smiled. “You've even induced my spawning years in advance.”
+
+Ren thought about arguing, then realized he would only be arguing semantics. He really did all those things, and his intentions at the time didn't matter.
+
+“You might not have done it as a romantic gesture; but even by human standards, it was romantic.” Railyse said. “My culture doesn't see it as romantic, though. As you know, we see it as a mate's duty.”
+
+Ren sighed. “You aren't going to listen to me at all, are you?”
+
+“When you start making sense, I'll listen.” Railyse said.
+
+“Then I'm sorry for disturbing you.” Ren said. “Please return to your rest.”
+
+Railyse leaned forward and gave him a kiss on the lips. “I'll see you in a few days.” She said and moved her head over to his cheek and bit him. She licked his blood as the wound healed over, and she leaned back and cupped the side of his face. Ren didn't say anything to her, and she let his face go and walked over to her guards, then the three of them sank into the water.
+
+“What are you going to do now?” Artemis asked.
+
+“I'm going to do what I promised.” Ren said and walked a hundred feet away from the pool and knelt. He touched the ground and made an offering to the Earth. A few moments later, an Earth being poked her head up out of the ground.
+
+“It's about time you called.” She said.
+
+Ren smiled. “Can I give you all my excuses later? I need a quick favor.”
+
+The Earth being chuckled. “This should be good.”
+
+“Actually, it's going to be bad.” Ren said and explained what he wanted done.
+
+“Oh, that's sneaky.” The Earth being said. “When do you want it done?”
+
+“Right now, but make sure...”
+
+“Yes, I understand what you are trying to do.” She said. “If you had your Earth understanding completed, you could have gained the ability and done this yourself.”
+
+“I haven't had time.” Ren said and touched her face. “I'll try to make time later.”
+
+“I've heard that before.” The Earth being said, then gasped as Ren gave her 5,000 Mana in an instant. Her body glowed brightly and she sighed, then slipped back into the ground.
+
+“What are you planning?” Artemis asked.
+
+“Can't you tell?” Ren asked and smiled.
+
+Artemis sighed, because she had worked long and hard to keep Ren's thoughts out of her head, just like the other familiars did, when those thoughts weren't needed. She dropped the barrier she had, and saw his idea.
+
+“Okay, that really is sneaky.”
+
+Ren chuckled. “She's going to be so angry when she finds out.” He said and reached into the arm hole of his Dire Wolf Hooded Cloak and retrieved his pet tarantula. “My Queen, I have a request...”
+
+When Ren explained what he wanted, a portal opened up beside him, and 4 large spider legs came through. They pushed on the edges of the portal and expanded it out, then a 10 foot tall spider crawled out.
+
+Ren stood up as the portal closed. “Thanks for doing this.”
+
+The giant spider clicked it's mandibles at him, and he chuckled as he felt the spider's emotions.
+
+“You would have done it anyway, even if she didn't want you to.” Ren took several steps into the air to reach the top of it's head and scratched it. “Thank you.”
+
+It clicked its mandibles again and Ren felt it's need.
+
+“Oh! Of course.” Ren said and remembered the first time he had been in the hospital and had felt so afraid of the doctors, and poured that into the spider. It shuddered as it fed on the emotion, and when it had enough, clicked it's mandibles again.
+
+“If you need any more, just let me know.” Ren said and pat it, then stepped away. He activated his Craft Wondrous Item ability, and chose the Necklace of Air recipe. He combined it with the Unnatural Armor recipe and added the Ring of Regeneration recipe. He made it into an amulet and gave it to the 10 foot tall spider, and it resized to fit around it's large head.
+
+Breath Of Air Amulet of Unnatural Armor Regeneration (Binds on Equip)
+
+The magic of the necklace wraps the wearer in a shell of fresh air, making the wearer immune to all harmful vapors and gases (such as acid fog and cloud effects, as well as inhaled poisons). This allows the wearer to breathe, even underwater or in a vacuum.
+
+Nonlethal damage heals at a rate of 5% every second. If the wearer loses a limb, an organ, or any other body part while wearing this amulet, the amulet regenerates it as if the spell Regeneration had been cast. Only damage taken while wearing the amulet can be regenerated.
+
+This amulet also grants the wearer a natural armor bonus, and protects the wearer as if they were wearing thick heavy armor. This does not cause the wearer to suffer heavy armor penalties, however.
+
+It grants: +200% to Protection, +200% to Defense, +100% to Concealment.
+
+Ren felt how happy it was, and that it could go anywhere it wanted with it. He pat its head and stepped down to the ground, then cast both Permanent Air Walk and Permanent Water Walk on it. A moment later, Ren felt the Earth being come over to him.
+
+She poked her head up out of the ground and reached a hand up for him. “It's ready.”
+
+“I'll be right back.” Ren said to the spider and Artemis, and the Earth being pulled him underground. She brought him around the pool and then underneath it to the right spot, and he saw there was a small cave there. He checked the All-Seeing Mirror to see where Railyse was, and she was on her bed. He checked the elementals and saw they were right there with her, and he wouldn't have to lure them in.
+
+“Perfect.” Ren said and nodded to the Earth being, and she held him up and pushed him up into the rock bed. Ren reached up and felt his hand leave the rock, so he cast the Sleep spell. It caught Railyse and the two elementals, just like he wanted, and they fell asleep immediately. The Earth being pulled him back and stood him on the cave floor.
+
+“I can't believe you thought of this.” The Earth being said. “This is so devious, it's almost scary.” She said, then wrapped her arms around him. “I love it!”
+
+Ren chuckled. “Thanks, I think.”
+
+Ren equipped his armor to give himself massive stats, then activated his Hands of the Gods ability and his Water Manipulation ability. He filled in all the spaces the Earth being had made around Railyse's bedroom with Water and held it steady.
+
+“Okay, I've got it.” Ren said.
+
+“Are you sure?” The Earth being asked. “When I take out the last supports...”
+
+“I'll hold the water back so you can fill this back in.” Ren said and took a deep breath, then nodded. The Earth being let him go and waved her hand, and the last bits of rock that held the bedroom in place pulled away and he used his ability to keep the water at bay, then surrounded the bedroom with Walls of Water spells so he wasn't taxing his ability completely.
+
+Ren had to use both hands to lift the bedroom and the water, and took several steps up into the air, then several steps into the water he held back from flooding the cave. He nodded to the Earth being and she waved her hands and filled in the space the bedroom's removal had left. He walked up through the pool and breached the surface of the water, and he felt the giant spider's surprise.
+
+“I... had to show you... how big it was.” Ren said. “Geez, this thing... is heavy.” He said. “Let's go.”
+
+Ren stepped back under the water and it took some of the weight, and he could use his Water Manipulation ability to help hold it as well. The spider and Artemis walked over to him through the water, and Ren took out the All-Seeing Mirror and checked the water near the portal to the Water Realm. He was surprised when he saw that the portal wasn't there.
+
+“Dammit.” Ren said. “I didn't want to create one directly in.” He felt a tap on his shoulder and looked at the giant spider, who made a circle motion and pointed to the bedroom. “Yeah, I need to deliver it no matter what.”
+
+The spider pointed to the side of the pool, and Ren nodded. He checked the Water Realm and chose a good distance from the castle, so hopefully he wouldn't be seen as a threat, then stored the mirror and cast the portal. Lylyth's giant spider familiar scurried over to it and started to pull on the portal's edge. It took a minute for it to stretch the portal out to make it big enough to fit the bedroom through.
+
+Ren used both his Strength and his Water Manipulation ability to move and carry the bedroom over to the portal, and he gave the giant spider a 'thumbs up' gesture. It waved to him with one of it's front legs, and Teepo dissolved into the ring. Ren and Atremis entered the portal and came out the other side, then Ren dismissed the portal and the two of them stood there in the water with the bedroom suspended above them.
+
+Ren summoned Teepo, and his astral body floated up and landed on his shoulder. “I'm sorry you have to do that so much lately.”
+
+Teepo chittered in laughter. “You always summon me right away, rather than wait until you pass back through the portal, so I'm okay with it.”
+
+“At least this shouldn't take long.” Artemis said, because she had seen movement in the corner of her eye. “Cross your fingers and hope for the best.”
+
+“I don't have fingers.” Teepo said and crossed his two front limbs. “How's this?”
+
+“Good enough.” Ren said as a group of Sea Dwellers riding seahorses came into view. He used his Water Manipulation ability and shifted the enclosed bedroom from over his head to behind him. When the patrol hit the edge of his Aura, two of the troops stopped; but, the others kept coming forward.
+
+“Two smart ones out of twelve isn't bad.” Teepo said and chittered in laughter, and Ren smiled.
+
+The patrol spread out in an array in front of him with their spears and harpoons at the ready to run him through, and he and Artemis held their hands up to show that they didn't mean any harm. The patrol bubbled and gurgled at them furiously, mainly because they could see the two water elementals and one of their own people in the enclosed room behind them.
+
+“I am the assistant of the Ambassador to the Land Dwellers.” Ren said in the Sea Dweller's language and ignored their angry words and accusations. “I've come to return her to her family.”
+
+The two Sea Dwellers that had stopped at the edge of his Aura, quickly came over and stopped in front of the patrol.
+
+“We can feel your Importance and Honor.” One of them gurgled at him. “We have been waiting for the Lost Daughter to return.”
+
+“She wasn't lost.” Ren said. “She was tasked by the Queen to present a Peace Treaty to the Land Dwellers.”
+
+“She has been gone for over a thousand years, Land Dweller.” He said. “Over 1,200 in fact.”
+
+“That was the risk, and she accepted that when we left.” Ren said. “Now that we have returned, I request an audience with the Queen.”
+
+“You cannot just show up in our realm unannounced and make demands.” One of them said, and was quickly hushed by the others. Speaking out of turn was not tolerated.
+
+“Send word to her that I am here.” Ren said. “Let her make the decision to see me or not.”
+
+One of the Sea Dwellers that had felt Ren's Aura, closed his eyes. Ren could see the currents under the Sea Dweller's translucent skin swirl faster, and then the being shivered as the currents slowed down to a crawl. He opened his eyes and turned to the patrol.
+
+“Royal Greeting protocol!” He practically shouted, and the patrol split into two right away and spread out to make a lane for Ren to pass through. “The Queen awaits you in the throne room.”
+
+“Thank you.” Ren said, used his ability to drag the bedroom behind him and Artemis, and walked towards the castle.

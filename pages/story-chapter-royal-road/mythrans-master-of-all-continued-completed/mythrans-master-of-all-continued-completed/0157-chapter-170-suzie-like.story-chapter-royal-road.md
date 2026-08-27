@@ -1,0 +1,325 @@
+---
+id: 952f0549-bff0-5baa-9650-e716e78ea85c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 170 - Suzie Like!"
+slug: 0157-chapter-170-suzie-like
+partOf: mythrans-master-of-all-continued-completed
+position: 157
+ownLength: 2820
+unit: words
+publishedAt: 2017-02-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118797/chapter-170-suzie-like"
+royalRoadId: "118797"
+---
+
+Ren didn't enjoy his sandwich. He felt as grilled as the bacon with Suzie the psychiatrist analyzing everything that he did and said; and what he didn't say.
+
+“You've got an unhealthy association with bacon.” She said, when he finished eating.
+
+“Not any more.” Ren said and pushed the plate away. “You've well and truly cured me of wanting bacon for a while.”
+
+“Was it the way the pigs are treated while alive that bothered you, or the method of slaughter?” Suzie asked, genuinely curious.
+
+“Both.” Ren said. “Thanks for filling me in about how bacon is made, while I was chewing on it.”
+
+“You're welcome!” She said, and made a note on a memo pad she had made appear out of thin air. Ren had been speaking sarcastically; but she apparently lost her ability to pick up subtle conversation clues in her excitement. He glanced at Stella, who had stood near the door, and tried her best not to laugh at him. Ren drank the supplement and followed it with the orange juice to clear the taste out of his mouth.
+
+“Now...” Suzie began, as Stella took the tray away. “...about this video.”
+
+“I don't know what I can tell you.” Ren sighed. “The video pretty much covers everything that happened.”
+
+“Yes, yes.” Suzie said. “But I want you to go back to that moment.”
+
+“Which one?”
+
+“The exact moment when you felt Stacy's pain.”
+
+Ren groaned, and closed his eyes. He used the technique she'd taught him when he first started seeing her, in order to clear his mind. “I went through this several times already.” He said. “Almost every time I close my eyes.”
+
+“You only have to do it once more.” Suzie said. “Relax. Take a deep breath. Let it out slowly.”
+
+Ren did so, and relaxed.
+
+“Listen to the sound of my voice.” Suzie said. “How soothing and relaxing it is. Listen to the tones and the tremble in my words. Concentrate on what you hear, not what I say.”
+
+Ren took in another breath and let it out slowly.
+
+“You are one with your mind, and your mind is one with you.” Suzie said the hypnotic catch phrase, and Ren went completely limp.
+
+“Ren, can you hear me?” Suzie asked, and he nodded. “Nothing you say will bother you, or make you uncomfortable. It's all just a dream, and can't hurt you.” She said. “Do you understand?”
+
+Ren nodded again.
+
+“I need you to tell me what happened.” Suzie said.
+
+“I went to the lab to get my dogs back. While I was talking to the woman, I felt a stabbing pain in my head, just like when dad did the bone marrow extraction on my hips.”
+
+Stella took in a sharp breath.
+
+“It hurt. God, did it hurt!” Ren started to squirm, and Suzie took his hand.
+
+“It's just a dream, Ren. You're only looking at it, not feeling it. Nothing is hurting you.”
+
+Ren stopped squirming, and relaxed again.
+
+“How old are you?”
+
+“Almost eight.” Ren said, his voice a slightly higher pitch. “My birthday is next week. Mom said I might get a puppy if I'm good today.”
+
+“What happened?”
+
+“They put metal rods in my head.” Ren said and scratched his head in a few spots. “It's itchy.”
+
+“It's not itchy now.” Suzie said, and he stopped scratching.
+
+“They didn't let me sleep like I wanted to.” Ren said, and started to shiver. “The metal table was cold.”
+
+“It's a nice warm table now.” Suzie said, and he stopped shivering.
+
+“The big needle...” Ren started shaking.
+
+“It's okay, Ren.” Suzie said. “The needle isn't going to hurt, remember?”
+
+Ren sighed and relaxed. “I was on my belly, and they stuck it in my back.” He said. “It took a while to fill it.”
+
+“That's normal.” Suzie said. “What happened next?”
+
+“Then they got another needle and filled that, too.” Ren said, and Stella gasped.
+
+Suzie looked at her, and Stella held up a hand in silent apology.
+
+“Then they did the other hip and filled 2 more needles.” Ren said. “I was sick for 2 months after that.” He started to cry. “I missed my birthday, and didn't get a puppy; even though I was good and never screamed once.”
+
+“You were a good boy.” Suzie said, and Ren's tears eased. “Now, go back to the alchemist's lab. What happened when you tied him to the table?”
+
+Ren's demeanor changed. “I was so angry!” He gripped Suzie's hand tightly, and she winced.
+
+“It's okay, Ren.” Suzie said, through gritted teeth. “You're not angry now.”
+
+He relaxed again and eased his grip. Suzie pulled her hand away and held it close.
+
+“Are you okay?” Stella whispered. “Do you want me to get you an ice pack?”
+
+Suzie nodded and Stella left the room quickly. She came back a minute later with a wrap and an ice pack.
+
+“Then what happened?” Suzie asked Ren.
+
+“I told him I couldn't let him hurt anyone else like he hurt me.” Ren said. “He didn't understand what I meant, but I didn't care. I gripped his fingers and squeezed. Two of them broke right away. I had to use Iron Grip to break the others.”
+
+“What's Iron Grip?” She asked.
+
+“It's an ability that lets me hold on to anything, or lets me crush things.” Ren answered. “I used it today to hurt.” Ren started to cry again. “I shouldn't hurt people.”
+
+“It's okay, Ren.” Suzie said, as she clutched the ice pack to her hurt hand.
+
+“No, it isn't.” Ren said and clenched his fists. “I wasn't thinking straight. I used my healing wand to heal him and broke his fingers again.” He took in a deep breath. “I got the bright idea that if I held his hand while the fingers were broken, then they would stay that way if I healed them.”
+
+“How did that make you feel?”
+
+“Satisfied.” Ren said. “He couldn't hurt anyone else.”
+
+“Then what did you do?”
+
+“The other hand, of course.” He said. “One good hand can still be used, and I didn't want that to happen.”
+
+“You were methodical.”
+
+Ren nodded. “It was the only way.”
+
+“You could have killed him instead.”
+
+Ren shook his head. “He bought his life with the book.”
+
+“What kind of life did he buy with mangled hands?”
+
+“A different one.” Ren said. “And that's what I gave him.”
+
+“Then what happened?”
+
+“I brought the daughter in to prove he wasn't dead and dropped a pile of money on the table.”
+
+“Did you think the money would make up for what you did?”
+
+“Of course not.” Ren said. “Nothing can make up for it.” He sighed. “I'll probably be sent to prison for a few years, or even to the mines.”
+
+“You could just kill them all and not worry about it.” Suzie suggested, and Ren got a shocked look on his face. “I couldn't do that!” He exclaimed. “I care about them too much to just... just... wipe them out like that.”
+
+“You couldn't torture a man before today, either.”
+
+“That wasn't torture.” Ren chuckled. “I didn't ask him any questions, despite having tons for him; but, I know what real torture is like.” He shivered. “No, that wasn't torture.”
+
+“Can you tell me about what you think is real torture?” Suzie asked, and Ren took in a sharp breath, then started to shake. He clamped his mouth shut and his muscles started to twitch.
+
+“No! It's okay, Ren! Nothing is happening! Everything is fine! Forget I asked you about it!” Suzie said frantically. Stella had come over to the bed to help Ren deal with the seizure; then Ren's twitching eased down to nothing a minute later, and his body relaxed. He breathed as if he was in a deep sleep.
+
+“Ren, you aren't going to remember anything that happened while you talked to me.” Suzie said. “When I clap my hands, you'll wake up feeling refreshed, and all you'll remember is the sound of my voice, and not what I said.”
+
+Ren nodded, and Suzie looked at her hands. She still had the ice pack wrap around her hand, and she looked at Stella, who nodded and clapped her hands once. Ren blinked his eyes a few times and looked around.
+
+“Don't tell me I dozed off during our session again.” Ren said. “I'm really sorry, Suzie.”
+
+“That's okay.” Suzie said. “My voice is a bit too soothing for my own good.”
+
+“You do have a wonderful voice.” Ren said and smiled. “I could just lay here all day and listen to it.”
+
+“Lay here and sleep all day, you mean.” She said, and he chuckled.
+
+“I guess that would be the outcome.” Ren said, then looked at his watch. “Stella, I have to get ready to go to physiotherapy.”
+
+“I've got your outfit ready in the top drawer.” Stella said.
+
+“We'll give you a bit of privacy to let you get changed.” Suzie said and stood up, holding her hurt hand behind her. “It was nice seeing you again, Ren.” She said. “I'll be back in a few days to check up on you.”
+
+“I can't wait.” Ren said, slid out of bed, and walked over to the dresser. Suzie left the room and Stella followed her.
+
+*
+
+Once they were far enough away from Ren's room, Stella turned to her.
+
+“What the hell was that?”
+
+“I was so close this time!” Suzie said, excitedly. “Whenever I get on the subject of his experiments during our sessions, he always reacts like he did at the end.”
+
+“You gave him a seizure!” Stella accused.
+
+“I didn't give him one.” Suzie said. “His body reacted in the only way it's been programmed to.”
+
+“Wh-what?”
+
+Suzie grinned. “Why do you think he never talks about what his parents did to him?” She asked, and Stella shrugged slightly. “It's because he can't! Whatever conditioning they did to him, his body goes into shock whenever he tries to remember!”
+
+“Good god.” Stella said. “What... what can we do to help him?”
+
+“The same thing we always do.” Suzie said. “Take each day as it comes, deal with the problems, and move on to the next.”
+
+“What about what happened?” Stella asked. “He really did ruin that man's hands.”
+
+Suzie waved it away. “Ren's fine. He really regrets that it happened, and he knows now that it's possible for him to do something so dark.” She smiled. “He's really growing into a proper adult!”
+
+“Wh-what?”
+
+“Is that your standard response to shock?” Suzie asked. “I'd like to talk to you about that!”
+
+“No.” Stella rolled her eyes. “What do you mean about Ren growing into a 'proper adult'?
+
+Suzie put a hand on Stella's arm. “Everyone has darkness in them, Stella!” She said, and shook Stella slightly. “We have all done things that were questionable. Speeding, stealing a candy bar, kissing a man who's not your boyfriend or husband, having inappropriate thoughts about strangling someone.”
+
+Stella looked at her, and Suzie grinned.
+
+“Yes! That thought right there!” Suzie said and pointed at Stella with her hurt hand. “We all have them. Everyone does! Some of us go through with these thoughts, while a lot of people suppress them.” She said. “I was worried that Ren was too good for his own good; but now, I can rest assured.”
+
+“You are a weird person, Suzie.” Stella said, and smiled.
+
+“Ha!” Suzie said. “It's good to let some things out.” She gave Stella a half-hug, then gave her the ice pack wrap.
+
+“How's your hand?” Stella asked.
+
+“It's okay, now.” Suzie said and flexed her fingers. “He's got quite the grip.”
+
+“He practices every day.” Stella said. “I better get back in there.” She smiled. “He's probably stuck getting dressed with his elbow not working completely.”
+
+Suzie nodded. “I'll see you again in a few days, Stella.” She said, then walked down the hallway.
+
+“Bye, Suzie.”
+
+*
+
+Ren had indeed gotten stuck trying to put on the long sleeved t-shirt. He was about to holler for Stella, when she came into the room. She smiled at him and helped get his arm unstuck, then got the shirt on right.
+
+“Why did you pick a long sleeved t-shirt?” Ren asked her, as he sat in the wheelchair.
+
+“The physiotherapist said we needed to keep pressure on that elbow for the session today.”
+
+“Oh, great.” Ren said. “This is going to be so much fun!”
+
+Stella laughed as she pushed him down the hallway. “You do realize we are trying to help you, right?”
+
+“I know you are.” He smiled. “It's just that... some days... I don't want to deal with it, you know?”
+
+“If we don't keep you moving every day...”
+
+“Yeah, I don't want to go back to being confined to the bed again.” He said.
+
+“Then you know what I'm going to say.”
+
+“Yeah.” Ren grinned. “Suck it up, princess.”
+
+“You got it!” Stella laughed, then opened the door to the physiotherapy room and wheeled him in. Ren was finished after nearly an hour of grueling exercises, and Stella took him back to the room.
+
+Spoiler :  See Chapter 170A
+
+Ren got into bed after his shower, and got comfortable as Stella sat in the chair beside the bed.
+
+“When I asked you what you wanted for breakfast...” She smiled. “...you said there was something else that you wanted, and would tell me after therapy. What was it?”
+
+Ren held up the empty box of condoms, and Stella chuckled.
+
+“I take it you've had a lot of blue screens lately.”
+
+“More than I thought I would.” Ren said. “Is there any chance...”
+
+“I brought a couple of boxes with me today.”
+
+“Stella, you're a life saver.” He sighed in relief. “I can't imagine the mess if I...”
+
+“That's what they're for.” She said. “It's still messy; but, at least it's contained.”
+
+Ren gave her the empty box and the tissue wrapped packages.
+
+“Was there anything else?”
+
+“One more thing.” He said. “Barbara told you what I... what I did.”
+
+Stella nodded.
+
+“I don't know how I could have done that.” Ren said. “It was so... so...”
+
+“Normal.”
+
+“What?!?” Ren asked, surprised.
+
+“I talked to Suzie before she left.” Stella said. “She told me that she had been worried that you were too good for your own good; but, now that she's seen what happened and you told her why...” She smiled. “She said that you are finally growing into a proper adult.”
+
+“And what do you think about it?” He asked.
+
+“I think it was a horrible thing for you to go through.” Stella said. “Out of all the things to happen so far, this was the worst one for you.”
+
+Ren nodded as a tear appeared in the corners of his eyes. “What I wanted from you...” He took in a breath and let it out. “...was to tell me that I... that I wasn't a monster.”
+
+Stella leaned in and took him into a gentle hug. “You are not a monster, Ren.” She said. “I would have been, though.”
+
+“Really?”
+
+Stella let him out of the hug and leaned back. “If they had been my dogs, I'd have done to him what he did to them.”
+
+Ren's eyes widened, and she grinned.
+
+“Tell me I'm a monster.”
+
+He pointed a finger at her. “Ma-ma-ma-monster!” He yelled in mock horror.
+
+Stella grinned as she grabbed his hand, then pretended to bite on his finger and closed her mouth over it. “Grrrr!” She growled and moved her head slightly from side to side.
+
+Ren laughed. “S-stop.” He said as her tongue flicked against his finger. “That tickles!”
+
+I'll have to remember that. Stella thought, then stopped flicking her tongue and laid it against his finger. He stopped laughing and relaxed; then he caught his breath as she slid the finger out of her mouth with her lips still closed over it, and he felt his body react to the sensation.
+
+Stella smiled as she saw his wide eyes, and glanced at the blanket covering him. “I think somebody liked that.”
+
+“N-n-not me.” Ren said to try and deny it; but, the evidence was plain to see. Stella grinned as she got his VR headset.
+
+“You've only got about an hour before visitors are allowed into the hospital.” She said. “That delivery man should be here with the package not long after that.”
+
+“That gives me 4 hours.” Ren said. “It should be enough time for the trial.”
+
+“If it's not, I'll have to log you out forcefully.” Stella warned him. “None of us can accept the package on your behalf.”
+
+“I'll be sure to get to the Safe Zone before then.” Ren said, then took her hand. “Thanks for making me feel better, Stella.”
+
+“Anytime, little stud.”
+
+Stella helped him put on the headset and he settled into the bed.
+
+“Flow Login Start.”
+
+********

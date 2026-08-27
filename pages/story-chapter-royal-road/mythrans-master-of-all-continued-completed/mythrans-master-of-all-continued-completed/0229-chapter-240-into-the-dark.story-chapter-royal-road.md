@@ -1,0 +1,313 @@
+---
+id: 5be98fd0-0d99-5f3c-b331-cf90997f8392
+page-type-slug: story-chapter-royal-road
+title: "Chapter 240 - Into The Dark"
+slug: 0229-chapter-240-into-the-dark
+partOf: mythrans-master-of-all-continued-completed
+position: 229
+ownLength: 3704
+unit: words
+publishedAt: 2017-04-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133162/chapter-240-into-the-dark"
+royalRoadId: "133162"
+---
+
+Ren let Elerlyth go, and rolled off of the bed as he equipped his clothing. He stared at her as she stopped convulsing, and a small portal opened from her abdomen.
+
+“By the gods.” Ren said, as the tip of a spindly spider leg came out. It was nearly a foot long, and it was only the first segment of the leg. Another came out, and they pushed the portal open further. It expanded to a much larger size, and 2 more legs joined the first two. Once the legs had opened the portal far enough, the spider stuck it's head out.
+
+Eight large eyes stared at Ren, and he could only watch in amazement as the 10 foot long spider crawled the rest of the way out of the horizontal portal. It stepped off of the bed and stood in front of the portal.
+
+“I never thought that she would be the one to complete it.” A woman's voice said.
+
+Ren looked at the spider. “Excuse me?”
+
+“Can you give me a hand?”
+
+Ren shrugged, held a hand out to the spider, and the woman's voice laughed.
+
+“That's so cute!” She said. “But, I'm still in the portal.”
+
+“Oh.” Ren said and looked behind the spider. A woman's head and an arm were stuck partially out of the portal. She had long flowing white hair and dark gray skin, and a huge smile on her face. He walked around the spider and over to her. The spider followed his movements, but didn't try to stop him.
+
+“Are you stuck?” Ren asked as he climbed up onto the bed, then took her hand. He discovered that it was nearly twice the size of his own.
+
+“Not really.” She said, and gripped his hand. “For some reason the portal is facing up instead of forward, and I can't walk through it like I normally do.”
+
+“I think it's because Elerlyth is laying down.” Ren said. “Hold on.” He said, and lifted her out of the portal easily.
+
+“Oh, my.” The woman said.
+
+Ren wasn't sure if she was referring to him lifting her out, or to Elerlyth laying down.
+
+“Thank you.” She said as he set her down on the floor next to the portal. She was just over 9 feet tall, and was actually a little taller than the High Elves he'd seen. She wore a mix of clothing and armor pieces, and Ren couldn't see how any of it protected her, with how little flesh it actually covered. He couldn't be sure that they were even attached to each other.
+
+“What happened to her?” The woman asked, and pointed to Elerlyth. Ren saw the portal close, then looked at the tall woman.
+
+“She told me to run just before the portal opened, and now she's unconscious.” He said.
+
+The woman smiled. “You didn't run, though.”
+
+“I wasn't going to leave her alone with whatever was going to come out.”
+
+“You're so brave.” She said, and reached a hand for his neck. Ren leaned away, and she smiled. “Yes, you would know about that already.”
+
+“May I ask why you're here?”
+
+“So polite.” She said, and crossed her arms under her chest. Ren completely ignored the gesture, and how it pushed her moderate-sized breasts together, and kept looking at her face. He saw her frown for an instant, then she smiled.
+
+“She mastered her ability.” The tall woman said. “Once a member of the Dark Elves reaches that point, a portal opens, and they earn the privilege of meeting me.”
+
+“My apologies for being ignorant, but I don't know who you are.”
+
+“That's because I haven't introduced myself yet.” The woman smiled and held out her hand. “Hello. My name is Lylyth.”
+
+Ren looked at her hand, then back at her face. She grinned at him, and waggled her hand.
+
+“I promise I won't inject you.” She said.
+
+“And I should take a stranger's word because...”
+
+“I didn't do it when you helped me out of the portal.” Lylyth said. “If you can't take the word of the Queen of the Dark Elves, who's word can you take?”
+
+Ren nodded and took her hand. Rather than shaking it like she expected Adventurers to do, Ren's Etiquette ability kicked in. Lylyth's eyes widened in surprise as he turned her hand, bent over it, and placed a kiss on the back of her fingers.
+
+“It's a pleasure to meet you, Your Highness.” Ren said, and let her hand go. “Although, I think a less spectacular way might have been preferable.”
+
+Lylyth laughed, and he felt spider legs crawl up his spine. She had intended to cause some fear for her to feed on, but Ren had felt that feeling a lot when he was younger, so he was quite used to the feeling. When she saw that he didn't react to the sensations that the power of her laugh caused, she stopped laughing. “I expected to meet a Dark Elf that would be humbled, and probably grovel, as they finally met their queen.” She smiled. “Then I arrived, and I met you instead.”
+
+“I'm sure Elerlyth should wake up soo-”
+
+“Ugh!” Elerlyth said and opened her eyes. “Good god, that hurt.” She said, then the next words she wanted to say got caught in her throat as she saw the very tall Dark Elf standing beside her, and the 10 foot long spider standing behind her.
+
+“Congratulations!” Lylyth said. “You are the first Adventurer to ever receive this ability, and now you've mastered it.” She smiled. “You are really going to enjoy the benefits it will bring you.”
+
+Elerlyth didn't say anything, and just stared at the woman. Lylyth turned to look at Ren.
+
+“You see? She's humbled and speechless.” Lylyth said, then licked her lips. “Mmm. Yes, and she's afraid.”
+
+“What?” Ren looked at her, then at Elerlyth. He couldn't feel that she was afraid.
+
+“She's blocking it from you.” Lylyth said. “She thought she could block it from me, too.” She smiled slyly at Elerlyth. “You're one of my chosen. You can't block me from feeling your emotions.”
+
+Elerlyth frowned and tried harder, and Lylyth laughed.
+
+“You're only wasting energy, young one.” Lylyth said. “Even if your ability wasn't mastered, I could still feel everything you feel.”
+
+Elerlyth sighed, and stopped her efforts.
+
+“That's better.” Lylyth said. “Now, before anything else, I'll tell you that this was a once-in-a-lifetime occurrence.”
+
+“That's a relief.” Elerlyth said. “I never want to go through that again.”
+
+A strong ominous feeling filled the room.
+
+“You are not paying your queen the proper respect.” Lylyth growled.
+
+“Please accept my apology.” Ren said to distract her, much to both Lylyth's and Elerlyth's surprise. “She hasn't had much experience with someone of your prominence, and she doesn't know how to act properly.”
+
+“Why are you apologizing for that?” Lylyth asked.
+
+“I'm her friend. It never occurred to me that I should have tried to teach her.”
+
+“You didn't know that I would be arriving.”
+
+“That doesn't matter.” Ren said, and succeeded in his attempt to keep her attention away from Elerlyth. “I was lacking in my duties, and I throw myself upon your mercy.”
+
+“REN!” Elerlyth exclaimed. “You-”
+
+The 10 foot long spider reached out and dabbed Elerlyth's mouth with the tip of it's leg. When it moved the leg away, Elerlyth's mouth was covered in webbing. It then quickly covered her arms and legs, which pinned her to the bed.
+
+“You would give yourself up for her?” Lylyth asked Ren. “You will let me feed upon you for her mistake?”
+
+New Quest!
+
+You have been tasked to feed the Queen of the Dark Elves. Do it well, and she will reward you. Fail, and you will suffer the consequences (which may also include death).
+
+Rewards: ????
+
+Penalty for Failure: ????, Possible Death
+
+“Yes, if it will stop you from hurting her.” Ren said.
+
+Lylyth smiled and turned to Elerlyth. “How have you finished your ability so quickly?” She asked. “When my raiding party found you, you had a long way yet to go.”
+
+“Mmmuh mmm mah.” Elerlyth mumbled.
+
+“Was it this that helped you?” She asked, and took out the Spider Aura brooch that had been taken from Elerlyth when she was attacked, then tucked it back wherever it had come from. “I punished him for testing you too soon.”
+
+The 10 foot long spider laid a dark elf arm on the bed beside Elerlyth. It was covered in webbing, but you could see that it started at the elbow and still had the hand attached. It only had three fingers, though. Ren thought the spider might have tried to taste it before handing it over.
+
+“I give you this as an apology.” Lylyth said.
+
+“Mmmuh mmm mah!” Elerlyth mumbled again.
+
+Lylyth laughed, and Elerlyth squirmed as she felt spiders crawl up her spine. Ren still didn't react, though.
+
+“You can still hunt him down for doing what he did to you.” Lylyth said, then leaned over. “I'll even tell you where he is.” She said, then whispered something in Elerlyth's ear. “Now.” She smiled. “How did you master your ability?”
+
+Elerlyth didn't try to say anything this time, but Lylyth could feel the emotions coming from her, and turned to look at Ren.
+
+“It was you, wasn't it?” Lylyth asked him, and he nodded. “I have only just met you, and yet you have amazed me several times already.”
+
+“Thank you, Your Highness.” Ren said. “I humbly accept the compliment.”
+
+Stat Change!
+
+Etiquette Level 5 (Advanced 0%)
+
+“You are an enigma.” Lylyth said. “I normally don't like enigmas.”
+
+“I'm sorry you feel that way.” He said.
+
+“I am only getting some of what you are feeling.” Lylyth said and tilted her head to the side. “So, I don't know if you really believe that or not.”
+
+So, she isn't a lie detector like the dwarves. Ren thought, and reached over and hovered a hand above a bare patch of skin on her shoulder. “May I?”
+
+Lylyth nodded slightly, because skin contact made the feelings stronger, and he touched her skin. She took in a sharp breath as he gave her the sorrow he felt. He didn't say that it was sorrow because he had made this meeting happen, and not because she didn't like enigmas.
+
+“Oh, my...” Lylyth said as she drank it in. “You're... delicious.”
+
+“MUH!” Elerlyth exclaimed.
+
+“Don't worry, young one.” Lylyth grinned as Ren removed his hand from her shoulder. “I do not intend to steal your main food source.”
+
+“Moh.” Elerlyth said.
+
+Lylyth laughed again to make Elerlyth squirm, then looked at Ren. “I won't steal him; but, he did offer himself up to me as an apology.”
+
+“MUH!” Elerlyth exclaimed.
+
+“Such indignation!” Lylyth said, her voice full of amusement. “I haven't tasted that in a while.” She looked at Elerlyth. “That's the first time it was aimed towards me, however.”
+
+“Meh.”
+
+Lylyth smiled. “Should I feed from him here, right in front of you?”
+
+“Muuuhhh!” Elerlyth responded, and Lylyth grinned.
+
+“I'll take that as a no.” Lylyth said, and waved her hand. A portal opened up next to the wall of the bedroom. The 10 foot long spider walked over to it, and used it's limbs to expand it enough for them to step through easily.
+
+“How is it doing that?” Ren asked. “I thought portals were a set size.”
+
+“I can't fit through a standard portal.” Lylyth said and motioned to herself and her slightly over 9 feet of height. “My familiar has the ability to make portals bigger.”
+
+“That's pretty cool.” Ren said, then thought about Teepo. Dissolve into the ring, my friend. We're going on a little trip.
+
+“I know.” Teepo said. “I've been listening at the door.”
+
+Oh, right. Ren thought, and deactivated the Sealed enchantment on the bedroom door. Sorry about that.
+
+“That's okay.” Teepo said and skittered into the room, then saw the giant spider as it stepped into the large portal. “Whoa.” He said. “That's a big spider.”
+
+“Shall we?” Lylyth held out her hand to help him down from the bed, and Ren hopped off of it without her assistance. He saw slight disappointment on her face, and didn't want her to feel that way. So, he touched the icebox and stored it, to show her a reason why he didn't take her offered help. Ren figured that the longer he kept her in a good mood, the better off he would be; then he held out his elbow for her to take. She smiled because he was only half of her height, and he still offered to escort her through the portal. Teepo dissolved into the ring, and Ren looked up at her face.
+
+“You're a gentleman, too.” Lylyth said, and placed a hand on his forearm. “Lead the way.”
+
+Ren nodded, then walked through the portal with the Queen of the Dark Elves on his arm.
+
+*
+
+Elerlyth screamed after the portal closed, but since her mouth was covered in webs, it was muffled to almost nothing. She started to struggle, but she was still secured to the bed with webs.
+
+Dammit! What do I... yes, that should work.
+
+She closed her eyes and concentrated on her Spider spell and cast it. The 6 inch long tarantula appeared near her hand, and she willed it to attack the webbing that held her immobile. It started to swipe with the hooks on it's feet, and the web strands parted easily. When the spell expired, the spider had freed her hand and part of her arm.
+
+That should be enough. Elerlyth thought, and took a dagger out of inventory. With her hand free, she turned the dagger over and worked it back and forth to slice at the web that held the other side of her arm. The more she cut, the more of her arm that it freed; then she jerked up with her arm and freed it up to the elbow. She used the dagger to cut away at her other arm, and freed that one completely. Once one arm was free, she used that one to finish the other, and then sat up. She cut her legs free of the web, then turned the dagger towards her mouth.
+
+No, I need a mirror. Elerlyth thought, and looked at the sitting table. It didn't have a mirror, because Ren had never replaced it. She hopped out of the bed and equipped her old set of clothing, then left the bedroom. She glanced around for a mirror, and saw one in the bathroom.
+
+Yes! Elerlyth went to it, and used the dagger to carefully cut a hole for her mouth. “Bah!” She said. “Dammit, Ren!” Elerlyth said, and started to try and peel off the webbing. “Why did you go with her?!?” She asked herself, but she knew the reason. She'd felt that he wanted to keep the queen distracted, and to stop her attention from staying on Elerlyth. “You stupid fool.” She said as she kept peeling the webbing away. “I'm not going to cry. I'm not. I'm not!”
+
+She did her best to not watch her reflection as it cried.
+
+*
+
+Ren stepped through the portal into a much darker room than what they had just left. Thanks to his Darkvision and Elfling sight combined, he could still see as if it was daytime. Summon Teepo. He thought, stopped walking, and looked around. The 10 foot long spider was nowhere to be found.
+
+“I know it's dark for you here, but you must bear with it.” Lylyth said as she saw him looking around and felt his curiosity. “Light does odd things this low underground.”
+
+“How would you know that?” Ren asked as Teepo flew up to land on his shoulder. “If it's always this dark...”
+
+“Dark Elves are not savages.” Lylyth tried to muster anger at him, but she felt his innocence and honesty, and she smiled instead. “Despite what rumors have been spread about us, we do have basic things like fire.”
+
+Ren blinked his eyes at her, then dropped his head. “I didn't mean to insult you.”
+
+“I know you didn't.” She said, and shifted her hand from holding his forearm to hold his hand. “Come.”
+
+Ren held her hand and she led him across the room towards a wall. As they walked, the wall had caught his attention when part of it moved. There was a loud skittering sound, and the wall parted. It hadn't been a wall at all. It was just a pile of large spiders that made up the shape of a wall.
+
+“Are you controlling them all?” Ren asked as they walked through the opening the spiders had made.
+
+Lylyth laughed, and he felt the spiders crawl up his spine again. “Does your laugh always do that?”
+
+“I don't control the spiders like you think.” Lylyth said. “I only ask them to do things, or command them.” She smiled. “Does my laugh bother you?”
+
+“Of course not.” Ren said and smiled back at her. “You'd have felt it if it did.”
+
+Lylyth nodded. “Then why ask about it?”
+
+“I think you're trying too hard to scare me, or make me uncomfortable with it.”
+
+“You... are brutally honest for a human.” Lylyth commented, and stopped walking when she came to her throne; but, she didn't sit down. “I can... what is the phrase? Tone it down a little; but, I can't turn it off.”
+
+Ren shook his head. “I don't want you to do anything like that.” He said. “I was just wondering if everyone that gets to hear it would feel the same thing.”
+
+“Obviously not.” She said and smiled crookedly. “Some scream in abject terror.”
+
+Ren snorted a laugh, and Lylyth was surprised that he really was amused by that.
+
+“You aren't the least bit afraid of me, are you?”
+
+“Besides coming out of my friend's belly like you did, you haven't done anything scary yet.”
+
+“Then... maybe I should.” Lylyth said in a rough voice, and held his hand tightly. “I'm not making the right impressions on you, apparently.”
+
+Ren watched her, and felt a wash of Mana from her. A large protrusion came out of her lower back, and expanded out. It was followed by two large spider legs, then by four more. Her sparse clothes and armor fell away and revealed her nude form. The spider legs took the weight off of her humanoid legs and she felt the intensity of his surprise; but, she thought it was because of her monstrous form.
+
+Unknown to her, Ren was actually surprised by the sudden nudity; and how her skin glistened, even with almost no light to reflect from it. Lylyth had to let go of his hand as she rocked back to let her humanoid legs fold up like mandibles.
+
+“Wow.” Ren and Teepo said at the same time. Lylyth was still about the same height, maybe slightly taller; but, now she had a giant spider body, too. It kind of looked like she was sitting where the spider's head should have been, and then Ren realized that wasn't far from the truth.
+
+She is the head of the spider. He thought in surprise.
+
+“That's kind of appropriate.” Teepo said. “She's the head of the Dark Elves, too.”
+
+Lylyth extended her left leg, or mandible, as that was what it was being used as, and she wiggled her toes at him.
+
+“I felt your surprise while I was changing.” She said in a gravelly voice. “Are you sufficiently terrified now?”
+
+Ren reached out and held on to her offered foot. She gasped, because she didn't get a hint of terror; or disgust, or even revulsion. All Ren could think about was that her womanhood was right in front of his face, and it was completely exposed.
+
+“Who... who are you?” Lylyth asked, her voice back to normal, because she was too shocked to make it sound menacing. She could feel he was a bit uncomfortable, but also felt a trace of desire from him.
+
+“My name is Ren.” He said and smiled up at her.
+
+“How am I supposed to feed from you, if you aren't afraid?” Lylyth shook her head and took out the brooch with the Spider Aura. “Do I need this bauble?”
+
+“That won't work for you.” Ren said. “It's a design that I made especially for Elerlyth and myself.”
+
+“Oh.” Lylyth said, crumpled the metal around the diamond, and tossed it aside. “Then I kept it for no reason.” She said a little sadly. “Hm. What can I do to scare you?”
+
+“You don't have to-”
+
+“Shh! I'm trying to think.” Lylyth said and put her other foot/mandible over his mouth to keep him quiet. “Now.” She looked around and thought about the spiders. “I could probably have the spiders trample you.”
+
+“Muh.”
+
+Lylyth laughed because his lips tickled her foot, and felt that he wasn't fussy on the idea. “No, you're right. You're no good to me if you're flattened and punctured.”
+
+“Mwuh mlah mum.”
+
+“Hush!” Lylyth said, and moved her foot slightly from side to side. “What if I strung you up and hung you upside down, then let some of my pets play with you?”
+
+Ren shook his head. “Muh mo.”
+
+“No?” Lylyth sighed. “Then I don't know what to do.” She said. “Torture is out, because once again, you would be no good to me if you are bleeding out and almost dead.”
+
+Ren had had enough of her trying to think up ways to scare him, and licked her foot. Lylyth pulled her foot/mandible away quickly and giggled, then put a hand over her mouth. She looked like she was going to get angry that he had made her laugh like that, and he beamed a smile up at her.
+
+“You don't have to scare me.” Ren said, and looked at her womanhood that was still right in front of his face. You agreed to do this. He thought, and braced himself mentally. I will complete this quest!
+
+Ren took a deep breath and concentrated on creating as much emotion as he could; then stepped forward and kissed her right between the legs.

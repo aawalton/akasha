@@ -1,0 +1,221 @@
+---
+id: 2af57f1c-6b26-57e9-85d9-e0d3264f7c88
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54 - Done Travelling"
+slug: 0038-chapter-54-done-travelling
+partOf: mythrans-master-of-all-continued-completed
+position: 38
+ownLength: 2621
+unit: words
+publishedAt: 2016-10-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98289/chapter-54-done-travelling"
+royalRoadId: "98289"
+---
+
+Ren took of the VR headset and set it on the rolling table next to the laptop. Ren blinked and wiped his eyes to see Barbara sitting in the chair. “Good morning, Barbara!”
+
+“Good morning, Ren.”
+
+“Did you see what happened?” Ren asked.
+
+Barbara nodded. What happened to Lucy went a long way to Barbara forgiving her for leaving Ren like she did. Barbara smiled. “I was more surprised than you were... I think.” Barbara laughed.
+
+Ren smiled. “You have no idea! When I found out she'd been playing the game for me...” Ren looked at Barbara. “...I mean, it really sucks that she had to leave. I don't know what's going to happen here with her gone.” Ren sighed. “Will I get a new day nurse? Will the other nurses have to do more shifts to cover the empty spot?”
+
+Barbara patted Ren's hand. “Don't worry about any of that. I'm sure that things will settle down and you'll be back to a regular routine in no time.” Barbara said. “You can worry about a new nurse after we get one... assuming one of the other girls doesn't jump at the chance for the full time spot.”
+
+Ren nodded and the door to his room opened.
+
+“Hi, cutie!” Bonnie said.
+
+“Hi, Bonnie.” Barbara responded before Ren could.
+
+“I was talking to Ren.”
+
+“You were? Color me surprised.” Barbara said and chuckled.
+
+Ren grinned. “Hi, Bonnie.”
+
+Bonnie came over to the bed and gave Ren a quick hug. “Don't pay any attention to that old biddy.” Bonnie said and stood. “You're the only thing in this room I'm going to call 'cute'.”
+
+“Old biddy, is it?” Barbara said and stood. “I'll have you know I'm only 10 years older than you, missy.”
+
+“See what I said, Ren.” Bonnie grinned. “Oooooold.”
+
+Ren snorted and laughed.
+
+Barbara smiled. “One of these days...” Barbara shook a fist at Bonnie. “POW! Right to the moon.”
+
+Ren laughed harder, but a moment later covered his mouth with a hand and started coughing. Barbara leaned in and massaged Ren's back and chest while Bonnie grabbed a bottle beside the bed and held it for Ren to drink. The coughing eased once Ren drank a bit of the honey and lemon tea mixture and Ren leaned back in the bed.
+
+“I'm sorry, Ren. I didn't mean to...” “Sorry, Ren. I only meant to...” Barbara and Bonnie spoke at the same time and they stopped and smiled at each other.
+
+“It... it's okay.” Ren said when he caught his breath. At least there wasn't any blood this time. Ren thought. “I just shouldn't find you both so funny.” Ren smiled.
+
+Barbara had a sad smile on her face. Just trying to cheer him up can backfire.
+
+“I'll try to be a bit less funny in the future.” Bonnie said.
+
+“No, don't do that.” Ren said and touched Bonnie's arm. “I want you both to keep trying to make me laugh.” Ren smiled. “How else will I know I'm getting better?”
+
+Barbara and Bonnie nodded.
+
+Ren turned to look at Barbara. “Thanks for staying up all night.”
+
+“You're welcome. I just have to talk to Bonnie for a minute and then I'll be heading home.” Barbara said.
+
+“See you tonight.” Ren said.
+
+Barbara smiled and walked to the door. Bonnie followed and they whispered back and forth for a few minutes.
+
+It would be nice to have my elfling ears so I could hear what they were saying.
+
+Barbara waved to Ren and left the room. Bonnie came back to the bed and moved the rolling table to the side of the room.
+
+“Let's get you ready for physiotherapy.” Bonnie said and helped Ren get changed. “I'll be right back with breakfast, okay?”
+
+Ren nodded and sat back in the bed. A few minutes later Bonnie came in with a bowl of porridge and 2 pieces of toast. A glass of milk and a chocolate chip cookie was on the tray and Ren raised an eyebrow.
+
+“You can't have a glass of milk without a cookie.” Bonnie said and winked.
+
+Breakfast went fast and Bonnie got the wheelchair to take Ren to therapy. Ren did his normal exercise routine and the leg and knee exercises. Ren was tired from the workout and Bonnie brought Ren back to his room. There was already a towel on the bed and Bonnie helped Ren get on it. The sponge bath went by without incident and Bonnie helped Ren put on another set of pyjamas.
+
+“Cookie Monster?” Ren said and held out the Sesame Street pyjamas.
+
+Bonnie laughed. “It seemed appropriate.”
+
+Ren rolled his eyes and adjusted himself to lie flat in the bed. I haven't worn these in a long time... and they still fit.[i] Ren sighed mentally and asked Bonnie to pull the rolling table over to the bed. Ren picked up the VR headset and put it on. “See you in a few hours.”
+
+“I'll be here.” Bonnie said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up and Teepo was still on his chest, but facing the other direction. [i]Good morning, Teepo.
+
+Teepo turned around. “Good morning!” Teepo said and clung to Ren's chest as Ren got out of the bedroll and put it away. A strong chicken smell permeated the air. “Anything happen last night?”
+
+Aimus sat by the fire. “Nothing important. A chicken thought it would be fun to pick at my trip wire about an hour ago.”
+
+Ren walked over and saw that Aimus had a chicken on a spit across the fire. It looked well and truly cooked. “No wonder I could smell chicken.” Ren sat down on the other side of the fire and Teepo crawled up onto Ren's shoulder.
+
+“Help yourself.” Aimus said.
+
+Ren tore off a chicken leg and ate it in silence. Ren looked at his abilities and saw that his Staying Power was almost at Intermediate level 4, and Rationing was close to getting to Intermediate. Ren smiled. If he rationed a little more, he could level both up before arriving in Aurora.
+
+“That was great. Thanks, Aimus.” Ren said.
+
+Aimus only nodded but didn't comment. I guess Ren is sticking to his old ways. Abby and I had hoped we'd helped him to stop starving himself. Aimus thought as he watched Ren go back over to the cart.
+
+Ren sat down and pulled up the message system. I better message Lara and let her know I'm going to be a little early. Ren sent off a quick message stating that he would be back in Aurora in about 2 days and would like to meet her then. Ren didn't wait for a response this time and closed the message system.
+
+Aimus finished eating and Ren helped hook the horse up to the cart. Aimus had gathered a few pelts while Ren had slept and one was a wolf pelt. Ren raised an eyebrow while holding the pelt up.
+
+“If it had been a leg holding trap, It would have gotten away, but instead it found the snare trap where I'd left one of the rabbits. I had to finish it off.”
+
+Ren nodded and climbed up onto the cart. Ren still wasn't sure if he liked the snare trap, but it was effective. “Want me to drive for a bit?” Ren asked as Aimus climbed up onto the cart to sit beside him.
+
+Aimus shrugged and Ren drove the rest of the day. Teepo commented on how some things were different, seeing them again in another direction, and how some things didn't change even though they had been gone for almost a month. Ren kept the horse at the same pace that Aimus had set and Aimus didn't complain that Ren was going too slow. Ren got a popup about 9 hours later.
+
+Skill Increase!
+
+Cart Driving Level 3 (Beginner 0%)
+
+Aimus pointed to a clearing 2 hours later. “Might as well stop here for the night.”
+
+Ren pulled the cart over. Aimus hopped off the cart and helped guide Ren to put it in a good position with the back facing away from the road. The horse was unhooked and then tethered to the back of the cart. Aimus took out the wire he used for the early warning system and Ren perked up.
+
+Ren had an idea. “Aimus, would you mind if I come, too? I think I could do a few enchantments to help ward off anything that might come along.”
+
+Aimus shrugged and Ren followed Aimus as he set up the wire around the edge of the clearing. Ren walked behind and on one tree he put an Immense Terror glyph that was 4 Runes of Terror combined, so each tree Ren enchanted would give a 40% chance to cause fear and to flee. The second tree Ren put a Slight Warding glyph of 4 Runes of Warding. It was only a 20% chance of them not being found, but at least it was something. Ren wished he'd thought of it the other 2 times they'd had to stop overnight. Ren alternated glyphs on each tree he stopped at, and his Mana Pool drained quite a bit. The Mana Pool was down to nearly half by the time Ren was done.
+
+“Do you think I should do a few stones and put then towards the road?” Ren asked Aimus when they got back to the clearing.
+
+“You didn't have to do so many trees, Ren.” Aimus said and sat down. “But... since you did, we've got almost complete coverage. You might as well do a couple of rocks to cover the empty space.”
+
+Ren picked up a few large rocks and moved them into position. 2 Immense Terror glyphs and 1 Slight Warding glyph later and the clearing was completely surrounded. Ren sat down next to Aimus.
+
+“Want me to do some of your arrows? You used up the last two ice ones on the dire wolf, didn't you?” Ren asked.
+
+Aimus nodded, shrugged, and handed over his quiver. There were 17 arrows left.
+
+“Ice or Lightning?”
+
+Aimus thought about it. “I'd ask for some of both, but I wouldn't know which ones were which until I shot them.”
+
+Ren grinned. “Oh, that's easy to fix.” Ren took out the portable dying station and dyed an arrow blue. Ren enchanted the tip (that was a small triangle of metal) with a triple ice glyph and put it back in the quiver. Ren took out another arrow, dyed it white, and put a triple lightning glyph on it. Ren thought about trying to put a 4 rune glyph on them, but didn't want to potentially blow an arrow up by overcharging it. Ren knew a triple would work well and used them. Ren alternated enchantments until all 17 were done and handed the quiver back to Aimus.
+
+“Well, damn. I didn't think a dying station could be used like that.” Aimus said and laughed. “It definitely has the right owner now.”
+
+Ren's face flushed a little red and he put the dying station away. Ren's Mana Pool was down to about one third. Ren would be able to recover some of that back when he absorbed the surrounding enchantments in the morning.
+
+“I'm heading to bed, Aimus. Goodnight.”
+
+“Night.” Aimus said and lit a fire.
+
+Ren took out his bedroll and got in it. Teepo crawled onto Ren's chest again.
+
+Thanks for keeping an eye on me, Teepo.
+
+“It's what friends do. Goodnight, Ren.”
+
+Goodnight, Teepo.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Bonnie put it next to the laptop.
+
+“Ready for lunch?” Bonnie asked.
+
+“Bathroom first.” Ren said and Bonnie helped him out of bed and into the bathroom. Ren was tempted to just use the bedpan, but if he didn't try to keep his stamina up and just stayed in bed, he ws afraid that his health would slowly decline to the point where it was before. Ren didn't want that to happen because he had worked so hard to get to where he is now.
+
+After a quick bathroom break and trip back to bed, Bonnie left to go get lunch. Ren laid in bed and wondered how much longer Lucy would be logged out. Ren wasn't sure what would happen if they entered the safe zone of the city limits with Lucy still 'unconscious' in the back of the cart.
+
+Bonnie came in with a couple of sandwiches, half of an orange cut into wedges, and a juice box. Ren lifted it and raised an eyebrow.
+
+Bonnie smiled. “Sorry. The cafeteria was out of bottles.”
+
+Ren shrugged and ate the sandwiches. The orange slices soon followed and Ren saved the juice for last. Bonnie took the tray and came back a few minutes later. She sat down next to the bed and discussed how Ren could enjoy playing the game when most of the time it was all long and boring. Ren laughed and said that just being outside and enjoying the scenery was enough to keep him happy. Ren explained that not collapsing from exhaustion every 10 minutes helped, too. Bonnie nodded.
+
+For the rest of the 2 and a half hours Ren had to wait before logging back into the game, Ren and Bonnie turned on the television and watched a few game shows. Ren's favorite was 'That Price Is Wrong!', while Bonnie preferred 'Take It Or Leave It'. They laughed at some of the contestant's costumes and wondered if people actually did make it themselves, or if the studio provided them when the audience showed up. Either way, it was an entertaining show.
+
+Ren noticed the time and Bonnie handed him the VR headset.
+
+“I'm not sure if I'll be logging out in 3 hours or not. It depends on the situation.” Ren said.
+
+“Lucy.” Bonnie said.
+
+Ren nodded.
+
+“No problem. I'll run interference with the doctor if he comes by.” Bonnie said and winked.
+
+“Thanks, Bonnie.” Ren said and smiled. “See you later.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up and absorbed all of the enchantments he had placed around the clearing. Ren's Mana Pool was back up to half. It wasn't much, but any replacement was a good thing. Ren thought about getting a healer to fill it up, but would worry about that after getting to the city. Aimus and Ren got the cart and horse hooked up and set out again. Aimus let Ren drive again and they made it to the city limits just before dark. Ren pulled the cart over before they got to the city's gate.
+
+Ren exlained that he needed to wait for Lucy to wake up before he could enter. Aimus didn't ask why, just shrugged and helped Ren unload Lucy and set her a good distance away from the road. Aimus went back to the cart and brought over the crafting station.
+
+“I believe this is yours.” Aimus said and handed it to Ren.
+
+“What? But I thought...”
+
+“I needed it back for a reason.” Aimus said. “Open it.”
+
+Ren set it on the ground and opened it. All the tools were there and nothing was missing. There didn't seem to be anything added, either. All the tool spots were taken. Ren looked up at Aimus.
+
+“Open the Drying compartment.” Aimus urged.
+
+Ren opened the compartment and saw something in the single inventory slot inside. Ren's eyes widened at the sight.
+
+“It needed 2 days to treat and 2 days to dry. I finished making it just before you woke up, actually. You almost caught me doing it.”
+
+Ren took it out of the compartment and lifted it up. It was a hooded cloak.
+
+Made from a dire wolf pelt.

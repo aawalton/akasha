@@ -1,0 +1,357 @@
+---
+id: 1bd47160-502f-5ceb-bc65-cda836d71160
+page-type-slug: story-chapter-royal-road
+title: "Chapter 288 - Accepting Gifts"
+slug: 0279-chapter-288-accepting-gifts
+partOf: mythrans-master-of-all-continued-completed
+position: 279
+ownLength: 3797
+unit: words
+publishedAt: 2017-06-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144075/chapter-288-accepting-gifts"
+royalRoadId: "144075"
+---
+
+Barbara's husband stared at Ren, and he could see how emotional Ren was. He knew it must have been hard for him to ask so much from someone he had just met.
+
+“I don't know if I can.” He said. “It's one thing if we were moving because we had to; but to uproot ourselves, then move all the way over here just because you want my wife closer to you...”
+
+Ren nodded. “It is a lot to ask, I know. The thought of Barbara being walking distance away at all times is a great feeling for me; but, it should also be a great feeling for you.”
+
+“What?”
+
+“She'll only be walking distance from work; but she'll also only be walking distance from home, too.” Ren explained. “No more travelling expenses. No extra wear and tear on the car. No more having to wait for her to come home.”
+
+It looked like he was thinking about it, so Ren kept talking.
+
+“If anything happens, to either of us, she'll be right there.” Ren said. “Before you ask, I'm not going to ask her to work longer hours or anything. She's been working every day now for years, sneaking in and around the other nurses, and tricked everyone into thinking she's been taking days off when she wasn't.”
+
+Barbara's husband nodded.
+
+“That bothered me when I found out.” Ren said. “I was tempted to try and get a second night nurse, but...” He grinned. “Barbara would kill me if I even offered to have someone else share in what she thought as her duty.”
+
+He laughed. “Yes, that's my wife.” He said. “Any time I tried to talk to her about doing just that, she damn near tore my head off.”
+
+Ren nodded. “I couldn't have asked for a better woman to raise me, sir.”
+
+“No, you couldn't.” Barbara's husband said. “We've always wanted children; but, we were both always too busy to fit a baby into our lives.” He sighed. “When she was almost forced to retire after her 20 years as a nurse, you came along. It was a godsend at the time, since I wasn't bringing in the money I was supposed to, and we really needed at least one normal income.”
+
+He looked at the guest house and sighed.
+
+“Things were hard on her while I was away in the Marines, and you kept her happy and working.” He said. “You took up a lot of her time; much more time than I thought was healthy for a nurse and a patient. When I retired, after serving more tours than I should have, I saw how much she really cared about you.” He sighed. “At first I thought...” He shook his head.
+
+“You thought she had romantic feelings for me.” Ren said, and looked at him with wide eyes.
+
+“I did.” Barbara's husband said. “She talked about you constantly. Ren this and Ren that.” He chuckled. “I couldn't help but think that she...”
+
+“You shouldn't worry about that.” Ren said. “Our relationship isn't like that at all.” He said, then gave her husband a serious look. “I do love her, though.”
+
+“I know you do.” He said. “Just watching the two of you together told me that.”
+
+“S-s-she...” Ren closed his eyes and held back the tears that wanted to flow. “She might not have given birth to me, sir... but...” He took another breath and opened his eyes. “She... she...”
+
+“You don't have to say it, son.” Barbara's husband said, and a tear escaped Ren's eye when he put a hand on Ren's shoulder. “You're the son she never had.”
+
+Ren wiped the tear away and nodded.
+
+“By the way, my name is Donald; not 'sir'.” Barbara's husband said and reached out a hand for Ren to shake. “If I'm going to be living here, you should at least know my name.”
+
+*
+
+Detective John Ramirez and Officer Holly Stonewall had played in bed for most of that two hours, then hopped in the shower together. It was a good thing that they had gone in early, because once they started washing each other, the novelty drove them a little crazy. They spent almost the entire hour they had left making sure that every single spot on each other's bodies was as scrubbed clean as they could possibly make it, while doing other things as well.
+
+*
+
+After Ren had calmed down from his little emotional breakdown, he took the guest house key ring from the main set and handed the guest house keys to Donald; then asked him to push the wheelchair over to the house. Once inside, they didn't say anything to the women about what they had talked about; but, Barbara could see the state Ren was in, even though he was trying his best to hide it. She leaned down and gave him a little hug.
+
+“Thank you for showing us around the new house.” Barbara said and let him go. “It's a great place.”
+
+“It sure is.” Ren said. “My room at the temporary care facility seems so small now.”
+
+Barbara laughed. “The entire care facility seems small in comparison.”
+
+Ren chuckled. “I'll see you there tonight.”
+
+“You bet you will.” Barbara said. “We've got a few things to discuss, too.”
+
+Ren grinned at her. “That part I'm not looking forward to.”
+
+Barbara smiled crookedly at him, pat his head, and left the house with her husband.
+
+*
+
+Donald and Barbara went outside and stood beside their car. They didn't say a word as they stared at the guest house.
+
+“Donald.”
+
+“Yes, Barbara.”
+
+“I... I assume Ren...”
+
+“He did.” Donald said, then didn't say anything else. Barbara turned towards her husband.
+
+“Donald?”
+
+“I only have one question.” Donald said, and Barbara took his hand. “How fast can your sister sell our old house?”
+
+“Oh, Donald!” Barbara exclaimed, and kissed him.
+
+Donald's eyes widened at the sheer passion he felt from her. It stirred things within him and ignited his own passion for her, and Barbara felt his reaction when he hugged her tightly.
+
+“Oh, Donald!” Barbara exclaimed again, and he took out the set of guest house keys and dangled them in front of her. “We... we can't!”
+
+Donald saw the wicked gleam in her eyes, grabbed her hand, and pulled her behind him as he jogged over to the guest house. He unlocked the door and shoved it open, then turned and grinned at her.
+
+“What are you-oooop!” Barbara said as he picked her up into a 'princess carry' and lifted her through the doorway. “Donald! You're going to throw your back out!”
+
+“Not today.” Donald said as he kicked the door shut, then carried her up the stairs. “I'm going to be sore as hell tomorrow, though.”
+
+“Then put me down!” Barbara said as he took her into the large bedroom.
+
+“I won't be sore from carrying you, darling.” Donald said, then dropped her on the bed.
+
+“Donald!” Barbara said with wide eyes as he tore off his shirt to reveal muscles that had been neglected for a while, but still had some definition to them. He undid his pants and dropped them to the floor, then climbed onto the bed with her.
+
+Barbara didn't talk much after that.
+
+*
+
+“Do you think they're looking to see where they can put their things?” Ren asked as Elise pushed him out through the front door and saw that Donald's car was still there.
+
+“I'm sure Barbara is helping her husband put something somewhere.” Denise said and chuckled.
+
+“What do you mean?” Ren asked. “I only just asked him to move here. He couldn't have brought something over already.”
+
+“I'm sure something just came up, and they went into the house to deal with it.” Elise said, and exchanged knowing smiles with Denise.
+
+“Is it okay to just leave them here?” Ren asked as they loaded him into the Hummer H2.
+
+“They'll be fine.” Denise said. “You gave them the keys, and we'll be back soon.”
+
+Ren nodded and Elise drove them to the big mall on the east side of the city that had the custom clothing store called Jacques. They went inside and the sales clerk greeted them happily. When they said they needed custom bathing suits, she leaned into the back room.
+
+“Lily! He's here again!”
+
+“Awesome!” Lily said and came out of the back room. “Hi! You brought the knockout this time!”
+
+Ren chuckled. “I figured you haven't seen her in a while, so I wanted to surprise you.”
+
+Lily laughed. “I always enjoy your visits.” She said. “So... bathing suits. Any preferences?”
+
+“Support.” Elise said.
+
+“Coverage.” Denise said.
+
+“See-through.” Ren said, and the 4 women looked at him. “I said that out loud, didn't I?”
+
+“No, you just thought it so hard that we all heard your thoughts.” Elise said and smiled, and Ren's face went red.
+
+Lily laughed again. “This is why I like you people so much.” She said. “The swimwear is over this way.”
+
+*
+
+“We're just fashionably late.” Detective John Ramirez said.
+
+“Your sister is going to kill you.” His partner Officer Holly Stonewall laughed. “Not to mention your niece.”
+
+John sighed. “Yeah, I know.” He said. “I just hope she likes her present.”
+
+“What did you get her?” Holly asked.
+
+“That depends.” John said. “What did you get her?”
+
+“Me?” Holly asked, surprised.
+
+“You're going to her birthday party, and you didn't bring a present for her?” John asked.
+
+“John, I'm sorry! I...”
+
+John burst out laughing. “I'm just kidding.” He said. “You didn't have to get her anything.”
+
+“Now that you've pointed it out, I feel bad about it.” Holly said. “I never thought about getting her anything.”
+
+“Holly.” John said as he pulled up in front of his sister's place. “I sprung this little trip on you with 2 days notice. I didn't expect things to turn out like they did, and I certainly didn't expect you to worry about buying a gift for a someone you didn't even know.”
+
+“John...”
+
+John reached by her and opened the glove compartment, and handed her a small bag.
+
+“What's this?”
+
+“It's a present for Nancy from you.” John said. “It's an antique cameo of the Virgin Mary.”
+
+“John, I... you should give it to her.” Holly said and tried to hand him the bag. “It'll mean more to her coming from you.”
+
+“I'm not trading gifts with you.” John said and got out of the car. He went to the trunk and took out a much bigger bag. “You give her the serious gift, I'll give her the fun gift.”
+
+“What is it?” Holly asked.
+
+“You'll find out when she does.” John said. “Come on, let's head inside and get changed. I can already hear splashing from the pool.”
+
+Holly nodded and grabbed the small bag that had their change of clothes in it, and they went to front door of the house. They didn't even have to ring the doorbell this time, because the door opened before they got to it.
+
+“I'm going to kill you.” His sister Tanya said. “Nancy was so upset that we had to start the party without you.”
+
+“It was my fault.” Holly said, and accepted the blame for their lateness. “I lost track of time and took a really long shower.”
+
+“Well, I guess that's okay.” Tanya said and looked at her brother. “Nancy's going to be mad at you.”
+
+“I know.” John said. “But, I'm still here before the actual time she was born.” He said and smiled. “It's in another 32 minutes.”
+
+Tanya blinked her eyes at him. “How did you remember that?”
+
+“She's my only niece.” John said. “I remember everything about her.”
+
+“You better tell her that as soon as you see her.” Tanya said and smiled. “She might just forgive you for being late.”
+
+*
+
+Ren sat in his wheelchair just outside the platform with all the mirrors around it. The change room was behind the middle mirror, and both Elise and Denise had tried on a few normal bathing suits. They didn't like how restrictive the one piece suit was; so, they moved on to bikinis. Ren thought he was in heaven as they modelled them for him. He would barely get to take in what they were wearing, then he would blink and they would be wearing something else. He had lost count of how many different ones he had seen, but he knew that they had saved the best for last.
+
+“Oh... my... god.” Ren whispered as Elise came out of the dressing room wearing the skimpiest bikini the store had. It wasn't supposed to be the skimpiest; but because her breasts were so large, a normal bikini top didn't cover a whole lot on her.
+
+“The straps just barely reached.” Lily said as she came out from the dressing room behind Elise. “No wonder you guys wanted custom ones!”
+
+Denise came out behind Lily, and it looked like she was wearing a top that was two sizes too small for her. The string between the cups of the bikini top wasn't long enough for the cloth to hold her properly, and the sides of her breasts hung out quite a lot. Ren closed his mouth so that the women wouldn't see him drool.
+
+“Do you see this?” Denise asked Ren, and pointed to the top as she turned from side to side. “This is why I don't own bathing suits.”
+
+“I... yes... I can see...” Ren mumbled, and his heart rate sped up a little.
+
+“This is definitely the style I want.” Elise said, and looked at herself in the mirrors. She turned around and bent over slightly, and gave Ren a spectacular view of her backside. “This cloth is way too flimsy, though.” She said and plucked at the top to try and get it to cover more of her skin. “Can you replace these with a more supportive insert? The straps are digging in a little.”
+
+“I can try.” Lily said. “We can definitely make the strap a little wider, and adding the extra fabric in the front won't be a problem.”
+
+“What do you think, Ren?” Elise asked him, and turned back around.
+
+“I... ah...” Ren wasn't sure what to say. “I think you look great.”
+
+Since Elise stood in the middle of the mirror platform, he could see all the way around her. Ren didn't know where he could look so they wouldn't think that he was staring at them.
+
+“Hey, are you all right?” Lily asked him. “You look a little flushed.”
+
+Denise walked over to him and knelt as she put a hand on his forehead and nodded. “In my professional opinion, I believe he's suffering from boob overload.”
+
+Lily snorted a laugh, and Elise grinned. Ren mumbled something, but she didn't hear what he said.
+
+“What was that?” Denise asked.
+
+“It's not just your breasts.” Ren said and looked at her, and then at Elise. “Getting to see you like this is... it's a little overwhelming.” He said. “With all the reflections in the mirrors, I'm having a hard time deciding where to look without getting caught staring.”
+
+“Oh, Ren.” Elise said and walked over to him. She knelt on the other side of his chair and smiled as she took his hand. “You don't have to worry about that.” She smiled and pulled his hand to rest the back of it on her cleavage. “You can stare all you want.”
+
+“R-really?” Ren asked. “You don't mind?”
+
+“I don't mind it at all, as long as it's you doing it.” Elise said.
+
+“I feel the same way.” Denise said. “I mean, look at me. I'm only 5 foot 3, and my torso is a bit too wide for me to wear normal clothes.” She said. “If you don't mind seeing a body like this, then I don't mind you looking.”
+
+“Aww.” Lily said, and put a hand over her heart. “Now I want to wear a bikini so he can stare at me, too.”
+
+Ren, Elise, and Denise laughed.
+
+“Don't you have a boyfriend?” Ren asked.
+
+“I do, but...” Lily blushed a little. “He doesn't look at me like you look at them.”
+
+“Why not?” Ren asked, then shook his head. “I'm sorry, I shouldn't ask you such personal questions.”
+
+“Yeah, don't mind Ren. He's always been pretty straight-forward.” Denise said.
+
+“It's okay. I brought it up.” Lily said. “He... well, I guess he's just not as into me as you are with them.”
+
+“Is it okay to call him an idiot?” Ren asked her, and Denise swatted his ear. “Ow.”
+
+Lily laughed. “I'll let it slide this time, because you guys are always fun to hang with; but, don't make it a habit.”
+
+“I can't promise that.” Ren said and smiled. “Denise should keep me in check, though.”
+
+“It'll be difficult, but I'm up for the challenge.” Denise said and tugged Ren's earlobe, then stood up and looked at Lily. “This is the best bikini out of all of them, and the bottom fits perfectly.” She said and turned to show them off. Since Ren's face was right there, he really had no choice but to look.
+
+She said it was okay to look. Ren thought, and didn't try to move his head away or close his eyes.
+
+Denise turned back to face Lily. “Can this short string be replaced without ruining the suit?”
+
+“Sure.” Lily said. “I have the right color string out back.”
+
+“Great.” Denise said. “Let's go into the changing room and figure out the right measurement for me.”
+
+They went into the changing room and shut the door.
+
+“Do you love her?” Elise asked, and Ren looked at her.
+
+“I've only seen her three times in this store, and she has a boyfriend.” Ren said. “I like her, but it's that friend kind of like, not the 'boy, I wanna have sex with her' like.” He smiled. “So, of course I don't love Lily.”
+
+Elise snorted a laugh. “I meant Denise.”
+
+“Oh!” Ren said, then he had to think about it. “It's not love... I mean, it's not like I've had a lot of experience with it, but...” He shrugged. “She's nice, and pretty, and she can be a pain sometimes.” He smiled. “She's a good friend.”
+
+“With benefits.”
+
+“Kind of.” Ren said. “I've only seen her completely naked when she gave me a shower this morning. A while ago, I did play with her breasts a little.” He frowned. “She made me angry at the time and I stopped, though.”
+
+“You aren't going to deny it? Or tell me it's all just a misunderstanding?”
+
+“Why would I do that?” Ren asked. “The last thing I'd ever do is lie to you.” He said. “You should already know all about my relationships with everyone, Elise. Why are you asking me about this?”
+
+Elise looked down at the hand she held to her cleavage and sighed.
+
+“It's just...” A tear came to her eye, and she wiped it away. “I don't want you to fall in love with anyone else before... before you fall in love with me.”
+
+“Would that be so bad?” Ren asked her.
+
+“Yes!” Elise said, and didn't bother wiping the tear away this time. “Five more women, Ren! You... you have... 5 more of them to please you... and... and I... we... we haven't even...”
+
+“Shh.” Ren said and took his hand from her grip to put it on her shoulder to brace himself. He leaned over and gave her a gentle kiss. “Before you say anything else, I want you to help me break in my new bed.”
+
+“Wh-what?”
+
+“I'm sorry, Elise.” Ren said. “I didn't just want you to see the house. I had an ulterior motive for inviting you over.”
+
+Elise wiped at her tears as she chuckled. “You... you little devil...”
+
+“I know.” Ren said and smiled. “I'm the most horrible person in the world.”
+
+“The worst.” Elise said. “I'm kneeling beside you, in a bikini that barely covers me, and you won't even try to play with me.”
+
+“That's because if I start, I don't know if I could stop.” Ren grinned. “I don't think I would want anyone else to see such a beautiful woman being ravaged by such a beast.”
+
+Elise laughed. “You always know just what to say to cheer me up.”
+
+“It's only the truth.” Ren said, then gave her another kiss.
+
+*
+
+John and Holly had gone into one of the spare bedrooms to change. He was fast, because he just hauled off his clothes and pulled on a pair of swim trunks. Holly on the other hand, took a few minutes more to get ready.
+
+“Wow.” John said as he saw the bikini that Holly wore. “Can I tell you again how sexy you are?”
+
+“Geez, John!” Holly said. “You literally just saw me naked!”
+
+John laughed. “I did, but... damn, that is a nice bikini.”
+
+Holly shook her head. “The pool is calling my name.” She said and walked past him.
+
+“That was me.” John said. “All last night.”
+
+Holly snorted a laugh and slapped his arm. “Come on, you horn-dog.” She picked up Nancy's presents and they left the spare bedroom, then went out to the back yard.
+
+“Uncle John!” Nancy said, and ran over to him. She hopped up into his arms, and he laughed as he caught her easily. “What did you get me?”
+
+“You don't want to wait until later?” John asked her, and she shook her head.
+
+“I already know what everyone else got me.” Nancy said, and a large group of her friends came over. “Yours is going to be the only surprise.”
+
+John put her down, and Holly passed him the small bag. “This is from Holly.”
+
+“Thanks, Holly!” Nancy said with a big fake smile, and opened the present. A few of her friends gasped at the Virgin Mary antique cameo and silver chain. “I...” She looked at Holly. “Thank you.” She said with sincerity.
+
+“Happy Birthday.” Holly said, and handed John the big bag.
+
+“This is from me.” John said, and gave it to Nancy. She opened the present and everyone gasped.
+
+“Oh my GOD! Dr. Dre's Beat wireless headphones!” Nancy yelled, danced around a little bit, then passed them to Holly. “Thank you! Thank you! Thank you!”
+
+“You're welco-” John's words were cut off when Nancy wrapped her arms around his neck and gave him a big kiss.
+
+“You're the BEST!” Nancy said as she let him go, then took the headphones back from Holly. John stood there with wide eyes and his mouth open in surprise as Nancy walked away with her group of friends to play with her very expensive new toy.

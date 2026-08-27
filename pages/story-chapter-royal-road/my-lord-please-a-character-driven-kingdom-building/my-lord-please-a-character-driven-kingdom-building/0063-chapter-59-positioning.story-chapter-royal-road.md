@@ -1,0 +1,269 @@
+---
+id: fa5eba4e-a302-58ab-bd6e-a3dd0c4e1437
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59 Positioning"
+slug: 0063-chapter-59-positioning
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 63
+ownLength: 1980
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3391678/chapter-59-positioning"
+royalRoadId: "3391678"
+---
+
+The sun had barely risen over Helvarn when the same man from the night before was shown into Lucien’s room.
+
+The thick-bearded merchant entered calmly, though without the same effortless ease he had observed last night.
+
+“My Lord,” he greeted with a respectful incline of his head.
+
+Lucien returned the gesture with a faint nod, motioning across from him. The merchant lowered himself into the seat, resting both hands against his knees.
+
+The door swung open slowly as Tomas entered carrying a tray with a kettle and teacups. He set them down between the two men before withdrawing.
+
+Only after the door closed did the merchant speak. “I hope your night was...pleasant, My Lord.”
+
+Lucien’s brow lifted at the peculiar topic. “It was. Talia’s insights on Helvarn’s markets proved informative.”
+
+Something unreadable flickered across the merchant’s face before it smoothed over once more.
+
+He gave a slow nod. “Ah yes, of course. Though perhaps it would be wise to hear from another perspective as well. It would not do for a capable ruler such as yourself to narrow your vision.”
+
+Lucien took a sip of tea before replying. “My house is not known for its rulership.”
+
+The man let out a small laugh. “Yet you are well known in Helvarn as the lord who ensured his village suffered little during the Tithe.”
+
+He remained silent, though the merchant continued smoothly. “Helvarn does not often receive visitors of note this time of year.”
+
+Lucien set his cup down lightly. “I had little choice in the timing of my visit.”
+
+The man rubbed a hand across his beard slowly. “Mm. Winter and beasts tend to make matters...inconvenient this time of year.” He glanced briefly around the room before returning to him. “I trust Helvarn has been accommodating thus far?”
+
+He leaned back in his chair. “It has been enlightening...in more ways than one.”
+
+The answer appeared to satisfy him, or at least, the merchant chose not to press further.
+
+The conversation drifted after that, touching lightly upon the roads and the surrounding lands. Casual topics on the surface, though he quickly realized the man was circling around something.
+
+It did not take long.
+
+The merchant reached for his cup, lifting it slowly to his mouth. “Yesterday, we spoke of the matter of...grain, was it?”
+
+Lucien doubted a merchant involved in Helvarn’s grain trade would forget the details so easily.
+
+“Seeds,” he corrected evenly.
+
+The man took a slow sip before setting the cup back down. "Of course. Apologies, My Lord."
+
+Silence lingered briefly between them before the man leaned back, posture easing by a fraction.
+
+“Helvarn’s supply has begun to stabilize after the Tithe,” he began. “Though, as you may have noticed, certain goods remain...less flexible than others.”
+
+Lucien watched him closely, the words themselves were similar to before, yet something about the delivery had changed. The pacing in particular.
+
+The merchant did not wait for his response this time.
+
+“If you are still seeking to secure a supply. There may be room to discuss terms.”
+
+It was a subtle but unmistakable shift. The man before him had come to negotiate and more tellingly, he had come prepared to concede.
+
+Lucien did not allow the hint of a smile to surface. Instead, he gestured lightly toward him.
+
+“Then let us discuss them.”
+
+The merchant scratched the corner of his beard. “Of course, My Lord. To speak plainly, supply has begun to recover, though not evenly across all categories. Seed stock in particular remains...selective.”
+
+He rested his hands against the edge of the table. “Availability, then, is the concern?”
+
+The man waved his hand lightly. “Preservation as well, My Lord. The seeds must be stored properly or the losses would prove...ruinous to most of the smaller merchants.”
+
+Lucien's finger tapped the table lightly as he considered the words. It was the same justification as before, but this time, something had changed.
+
+His finger stilled. “And yet, you came to me.”
+
+The merchant stiffened. Only briefly, but enough for him to notice. “I believed it would be…prudent."
+
+Lucien regarded the man before him. He allowed the silence to linger before speaking.
+
+“You have assessed that securing a consistent buyer now would offset the uncertainty of holding stock through the season.”
+
+His approach remained unchanged, he would not contest the merchant within his own domain. So instead of playing by their rules, he had the leeway now to ensure they played by his.
+
+The merchant's expression did not change, but the stillness in it carried a different weight now.
+
+Lucien leaned back, resting an arm against the chair. “A supply that moves is preferable to one that waits. Particularly when the latter carries risk of their stock degrading.”
+
+The man's fingers shifted against his knee before stilling again. “That is one way to view it,” he admitted.
+
+"It is the most practical one."
+
+The room fell quiet once more.
+
+The merchant let out a soft breath. “Then let us speak in terms of volume. What quantity were you seeking to secure?”
+
+Committing to a number too early would only narrow the discussion.
+
+Lucien tapped his finger once against the arm of the chair before replying. “An initial allotment. Sufficient to expand several fields within the summer.”
+
+The merchant’s gaze sharpened. “A prudent approach. Though smaller volumes tend to carry higher costs per unit.”
+
+“As expected,” Lucien replied simply.
+
+The merchant studied him for a moment longer before continuing. “In that case, I can offer a rate adjusted for current conditions.”
+
+He named a number that was lower than before.
+
+But not enough.
+
+Lucien remained silent for a breath, his gaze fixed on the merchant. "That rate assumes I have no alternative," he said, his tone carefully neutral.
+
+The thick-bearded merchant held his gaze. "...Do you?"
+
+Another subtle test. He did not bother answering the question directly.
+
+“You approached me this morning. Before the market had fully opened," he leaned back slightly. “You did not wait for me to return to it.”
+
+The man stilled, but before he could respond, Lucien spoke first.
+
+“You also chose to discuss terms here. In private.”
+
+Lucien met his gaze evenly. “If there were no alternatives, there would be no urgency.”
+
+The merchant's composure tightened by a fraction before easing again. “...You are well-informed, My Lord.”
+
+He remained silent, waiting for the man to continue.
+
+The thick-bearded merchant exhaled softly through his nose. “Very well, let us revisit the rate.”
+
+He named another figure.
+
+This time, it was much closer.
+
+Though their discussion had not concluded immediately, the remainder of the talks no longer involved the negotiation itself. Instead, it concerned logistical details such as quantities, delivery intervals, and the conditions to be upheld.
+
+By the time the final terms had been spoken, the shape of the agreement had already been formed between them. A man's word carried more weight in these times than ink upon parchment.
+
+Another knock came at the door, drawing Lucien’s gaze toward it. A faintly dry thought crossed his mind. It seemed the newest addition to Ashridge’s guard had already been entrusted with the duties the more seasoned men were less inclined to handle themselves.
+
+That thought faded as the door opened, revealing Tomas's troubled expression. It was far more pronounced than earlier that morning.
+
+"What is it?" Lucien asked.
+
+Tomas hesitated, his gaze flicking briefly toward the merchant still seated across from him.
+
+He followed the motion, then returned his attention to Tomas. “It is fine, Tomas. The important matters have concluded.”
+
+A subtle change passed through the merchant at that, one that did not go unnoticed.
+
+Lucien gestured lightly toward him. “There is no need to withhold it.”
+
+Tomas straightened slightly. “My Lord, there are others requesting an audience...More than one this time.”
+
+Across from him, the thick-bearded merchant stiffened.
+
+“What kind?” Lucien asked, brow raised a fraction.
+
+Tomas hesitated again, then answered, “Ore merchants, My Lord.”
+
+Tension left the grain merchant as quickly as it had come, replaced instead by something more measured. “Independent traders,” the merchant commented idly. “They tend not to coordinate.”
+
+He met Lucien's eyes calmly. “Iron is easier to hold than grain, My Lord. Their stock often exceeds what the town requires.”
+
+Lucien inclined his head without comment. “We will finalize the terms this afternoon.”
+
+The merchant pushed himself off his seat. “As you wish, My Lord.” He took his leave without further delay.
+
+Lucien’s gaze moved back to Tomas.
+
+“Let them in.”
+
+The door had barely closed behind the grain merchant when it opened again.
+
+This time, it did not remain open for just one.
+
+Several men stepped in, their movements lacking the same measured restraint. Their gaze moved quickly across the room before resting on Lucien, each carrying a different kind of assessment in their eyes.
+
+“My Lord.”
+
+The greetings overlapped, lacking the uniformity he had come to expect.
+
+Lucien regarded them in silence for a brief moment before motioning toward the space within.
+
+“You may enter.”
+
+They did so without hesitation, but unlike the previous exchange, none of them waited.
+
+“I hear you have come into possession of variant materials.”
+
+“The hides in particular—”
+
+“We would be willing to offer—”
+
+The merchants spoke over one another, their offers overlapping as each attempted to establish precedence before the others could. Prices surfaced in fragments, conditions half-formed, promises made too quickly to be measured.
+
+Whatever understanding existed among the grain merchants was absent here.
+
+They were clearly eager, which he had expected. But eagerness alone did not account for how precise they were.
+
+“I hear you are looking to secure ore in volume-”
+
+“We can supply iron in sufficient quantity-”
+
+“Transport can be arranged within-”
+
+Lucien raised a hand in a subtle motion, causing the voices to taper off as the merchants restrained themselves.
+
+His gaze moved across them once before resting on a random man before him. “Ore,” he repeated, as though weighing the word.
+
+No one spoke. They had already let slip that information more than once.
+
+He leaned back in his seat. “That was not a matter I raised within the market."
+
+The men before him didn't answer but neither did they attempt to deny it.
+
+Lucien’s eyes lingered on them, noting the brief glances that passed between them and the momentary tightening of their posture that spoke more clearly than any response could have.
+
+He did not press further on the matter. Instead, he inclined his head once.
+
+“It is, however, a secondary objective.”
+
+Various expressions sharpened, interest now plainly visible across their faces. Where the earlier exchange had been disordered, it now drew inward, centering on him.
+
+Lucien took a slow sip from his cup. “Given your number...it would be inefficient to proceed individually.”
+
+He allowed the silence to linger a moment longer.
+
+“We will begin with an initial bidding.
+
+For a brief moment, the tension held.
+
+Then, just as quickly, the room erupted once more.
+
+“I can offer—”
+
+“Five percent below—”
+
+“Delivery within the week—”
+
+“Higher volume, reduced rate—”
+
+The voices returned, louder this time, urgency threading through them as restraint gave way to competition. Numbers rose and collided, terms adjusted mid-sentence, each man pushing forward as though the delay of even a breath might cost him the advantage.
+
+Lucien did not interrupt, allowing natural demand to drive the prices. Though he had to restrain his expression at some of the figures being offered.
+
+Yet despite the desperation within them and the lack of cohesion, the men before him had come prepared.
+
+A suspicion lingered in his chest as he lowered his gaze.
+
+This had not begun here.
+
+A faint shift touched the corner of Lucien's expression, gone almost as soon as it appeared.
+
+The pieces had been set in motion before he ever sat down for this exchange.
+
+And there was only one person within Helvarn who would move in such a manner.
+
+He exhaled softly through his nose.
+
+…Talia.

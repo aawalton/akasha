@@ -1,0 +1,343 @@
+---
+id: 5737eeb4-7fb2-5963-aa79-3c1533fe1503
+page-type-slug: story-chapter-royal-road
+title: "Chapter 475 - Gifts Galore"
+slug: 0475-chapter-475-gifts-galore
+partOf: mythrans-master-of-all-continued-completed
+position: 475
+ownLength: 3568
+unit: words
+publishedAt: 2018-01-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185088/chapter-475-gifts-galore"
+royalRoadId: "185088"
+---
+
+Teepo and the tarantula had jumped off of Ren just before he had entered the closet holding Lara's hand, and they patiently waited. They didn't have to wait long, just like every other time Ren visited Lara and spent time in the closet.
+
+Ren and Lara spent almost 3 full minutes inside her closet, and came back out. The relative time inside the closet was just over 10 days, and Lara nearly collapsed against the closed door as she stared at Ren. She thought back to the time when Ren had asked to sleep with the maids to complete their contracts. She had offhandedly stated that as long as he could spare her a few minutes in the game, that he could do what he wanted with them; and it made her so happy because those few minutes gave her the opportunity to spend so much relative time with him. Much more than anyone else in his life.
+
+“Ren.” Lara whispered.
+
+“Now that we're back here, I can give you your gifts.” Ren said. Now that they were out of the compressed time zone, he could feel how happy Lara was; and that made him happy, too. He was always tempted to make something so they could share Auras and feelings; but, things like that didn't normally work inside the compressed time zone, so there wasn't much point.
+
+“You don't have to...” Lara gasped when he took out a pair of jeans and leather jacket. “What... how...”
+
+“It's still only Spider Silk cloth; but, I took the time to make it look like their real life counterparts.”
+
+“Oh, Ren.” Lara said and caressed the leather jacket. “It's beautiful.”
+
+“It's only the top layer.” Ren said and smiled, and took out the steel threaded Spider Silk bodysuit he made and had enchanted for her.
+
+“Oh, my god.” Lara said. “Ren!”
+
+“I know you can't wear armor, so I came up with a workaround for it.” Ren said and smiled. “There's gloves and a hood, too.” He said and took them out. “These aren't that fashionable, so I made them separate. You can wear the bodysuit under the clothes and no one will know, until you equip the gloves and hood.”
+
+“Ren, you...”
+
+“Go ahead and try them on.” Ren said.
+
+Lara equipped the bodysuit and it reformed to hug her all over. “It's... you really made this... just for me.”
+
+“I told you I would.” Ren said. “Put on the jeans, blouse and jacket.”
+
+Lara equipped them and they fit over the bodysuit, just as he had designed them.
+
+“Walk around a bit, to see if they fit.” Ren said, and she took several strides, and he watched her cute backside in the tight jeans. “Perfect.”
+
+Lara turned around and saw where he was looking, and smiled. “You just wanted to stare at my butt.”
+
+“Guilty.” Ren chuckled and looked at her face. “I wanted to make something that highlighted your best asset.”
+
+Lara walked over to him, and swayed her hips a little. “My best asset, is it?” She asked and leaned in close. “Does that mean my front doesn't measure up?”
+
+“Hell, no.” Ren said. “I just love seeing you bend over.”
+
+Lara chuckled. “Well, at least you know what you want.”
+
+“I want to keep you safe.” Ren said and took out the heavily modified Amulet of Natural Armor. “Please, wear this.”
+
+Amulet of Unnatural Armor Protection of the Spider (Binds on Equip)
+
+This amulet grants the wearer a natural armor bonus, and protects the wearer as if they were wearing thick heavy armor. This does not cause the wearer to suffer heavy armor penalties, however. The wearer has the ability to climb as if a permanent Spider Climb spell had been placed upon them. In addition, it grants immunity to entrapment by web spells or webs of any sort. You can also move in (or on) webs at normal speed. It also increases resistance against poison from spiders by 30%. Only one point of contact must be maintained for the enchantment to work.
+
+Once per hour, the wearer can cast the Web spell for free. It is generated from the amulet and can be shot anywhere in a 45 degree arc forward. The wearer also gains +2 bonus to Luck.
+
+It grants: +200% to Protection, +200% to Defense, +100% to Concealment.
+
+Lara's mouth made that little 'o' of surprise as she took the amulet. “Ren... you... how?”
+
+“With Tee-one's help.” Ren said and took out the two boosted bracelets. “I have these for you, too.”
+
+Boosted Bracelet of Unbelievable Magic (Binds on Equip)
+
+This bracelet has been enchanted to boost Mana, Mana Production, Intelligence, and Wisdom. It is the only item a Magic user could ever want. It grants: Intelligence: +158, Wisdom: +158, Mana Production: +1,530%, Mana: +15,300
+
+Boosted Bracelet of Magical Balance (Binds on Equip)
+
+This bracelet has been enchanted to boost all stats as well as Mana and Mana Production. It is a useful item for any generic user to have. It grants: Strength +113, Vitality +113, Endurance +113, Luck +113, Dexterity +113, Agility +113, Intelligence: +120, Wisdom: +120, Mana Production: +30%, Mana: +300
+
+“Ren.” Lara said as she equipped the items. “Oh, my god.”
+
+“I've got one more thing.” Ren said and took out the Non-Necklace of Epic Wisdom and held it out it to her. Lara's mouth dropped open as she stared at it.
+
+“Wh-what...” Lara touched it with her fingertips and caressed the pearls on a necklace that looked just like her diamond one she had stashed in her closet.
+
+Non-Necklace of Epic Wisdom (Rare - Binds on Equip)
+
+This heavily modified necklace has been enchanted to it's fullest potential and cannot be modified further, without destroying it. There are 180 pearls on it, each granting +30 Wisdom, for a total of +5,400 Wisdom.
+
+Durability: N/A
+
+“Ren, I... I can't take it.”
+
+“It's only a small Wisdom boost.” Ren said and smiled, and Lara almost choked.
+
+“S-s-small?!?”
+
+“You can see my armor, right?” Ren asked, and Lara nodded.
+
+“I... I guess in comparison...”
+
+“The best part is, it doesn't count as a necklace.” Ren said and gave it to her. “You can wear it and the amulet at the same time.”
+
+Lara took it and equipped it, and it appeared underneath the amulet she wore without replacing it. “Ren, I don't know what to say.”
+
+“I should give you two rings as well.” Ren said and handed her 2 rings.
+
+“B-but...” Lara looked at the rings.
+
+Ring of Sustained Boost (Rare Wondrous Item - Binds on Equip)
+
+This ring continually provides its wearer with life-sustaining nourishment. It refreshes the body and mind as well, and the wearer only needs to sleep for 1 hour per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full day before it attunes to the wearer's needs. If it is ever removed, it must be worn for another day to attune it again.
+
+Bonus: +10 to all stats, Reinforced (cannot be damaged by normal means)
+
+“I... don't think I need 2 of them.”
+
+“The +20 to your stats is good enough for now.” Ren said. “When I come up with something else, I'll make it for you.”
+
+“Ren.” Lara shook her head. “What... what can I ever do to thank you?”
+
+“Give me a kiss.” Ren said, and Lara put her arms around him and kissed him like he was air and she needed to breathe as much of him as she could. His hands slid down her leather jacket and caressed her denim-covered backside. He gripped her ass to make her gasp into his mouth, and then he broke the kiss and let her go.
+
+“You're welcome.” Ren said, and she laughed.
+
+“You're unbelievable.”
+
+“I sure am.” Ren said and grinned. “Now, unbelievably, I have to go.”
+
+Lara laughed again and he gave her a goodbye kiss, then he ran out of the back room, down the hallway, and into the Library. He waved to Rosie, and quickly walked over to the door and went outside, then ran over to the warehouse.
+
+“So, did she like her gifts?” Elerlyth asked.
+
+“You know she did.” Ren said and smiled.
+
+“Then let's get going.” Elerlyth said. “We don't have much time to waste.”
+
+“Just a minute.” Ren said and disappeared.
+
+“What the...” Elerlyth said.
+
+Ren appeared in front of the Barracks, and knocked on the door. It opened, and one of the 13 guards opened the door.
+
+“Is everyone up?” Ren asked.
+
+“Sir, yes sir.” The guard responded.
+
+“Then muster out front to receive your mounts.” Ren said.
+
+He saluted and turned to the barracks. “You heard the man! Double-time! Hut! Hut! Hut!”
+
+Ren stepped back as all the soldiers came out and stood in a line. “Very nice.” He said. He could feel their determination, and their eagerness to get to work. He took out his Wand of Transportation and concentrated on the first guard and cast a Phantom Steed for him. He did this for all 13 of them, and all of the guards looked at their steeds in wonder. Each was subtly different, and Ren made them permanent.
+
+“They are loyal to you, and you only.” Ren said. “Keep them close, care for them, and they will never let you down.” He said. “There are disguised skeleton knights on the wall on that side of the county.” He said and pointed. “They have access to spell artillery.”
+
+“Wait, what?”
+
+“It's a 10 foot long spell wand mounted on a Ballista base.” Ren explained. “They are in command of them, and the squads of animated statues below them.”
+
+“Wow.” One of the guards said. “What do you want us to do?”
+
+“There's a lot of you, so spread out over the rest of the walls.” Ren said. “Patrol them and keep watch, and if anything happens, don't panic and just defend the walls.”
+
+“That's all?”
+
+“For now.” Ren said. “When I come back tomorrow, I'll give you all your own squads of animated soldiers.”
+
+“Sweet.” Weston said. “Do we get our own spell artillery?”
+
+“Only if you want to remain in one spot.” Ren said. “They can't be left unguarded.”
+
+“Understood.” Weston said. “We'll prove our worth.”
+
+“I'll have...” Ren started to say, and Tee-one came over.
+
+“I have their armor ready.” Tee-one said.
+
+“Always ahead of me.” Ren chuckled and gave each of the guards a Strong Ring of Storage. “Gentlemen, equip your armor.”
+
+Tee-one gave them each a set of red armor, and the guards put them on.
+
+“Sir, thank you, sir!” Weston said and made fists. “We're as strong as a whole platoon of soldiers!”
+
+Ren looked at Tee-one. “I assume...”
+
+“Of course.” Tee-one said and took out 13 swords and shields that were also red. “I even stopped at the grove of springy trees to make bows and arrows.” He said and gave the guards a bow and a quiver each.
+
+“This is... unbelievable.” One of the guards said. “I feel like we could take on a whole army by ourselves!”
+
+Ren chuckled. “Don't try it, not without support.”
+
+“No, sir.” He said.
+
+“I assume Mayor Cake assigned you a shift rotation?”
+
+“Yes, sir.”
+
+“Then get to it.” Ren said, and the 13 soldiers saluted. 5 of them tied their steeds to the posts out front and went back into the Barracks, 6 mounted their steeds and took off to patrol the walls, and the last 2 told him they were to man the front gate and rode their steeds to their posts.
+
+Ren went back to the Main House and to the small single room house next to it and knocked. Princess came out and he gave her some food, even though she didn't need it, and he told her where they were going. She gobbled the food down and followed him across the road, and saw Elerlyth's mount, Etheria.
+
+“Do not tell me I will have to run slowly because of him.” Princess said, and Elerlyth's mouth dropped open.
+
+“No, we're using the cart.” Ren said and took out the ghoul storage cart.
+
+“Thank you, My Lord.” Princess said and he hooked the cart up to her.
+
+“Ren!” Elerlyth grabbed his arm. “Your mount talked!”
+
+“Uh huh.” Ren said. “She's been talking to me almost since we met.”
+
+“But... but... but...”
+
+Ren pointed to his temple. “It was hard making her out at first with the mental connection; but, after a lot of hard work on her part and Intelligence boosts from me...”
+
+“But... but...”
+
+“We thought of using it at the same time, too.” Ren said. “Magic Mouth, I mean.”
+
+“But...”
+
+“No, I can't add armor or anything else to Etheria, because the spell prevents that.” Ren said. “I would have done it already if I could.”
+
+Elerlyth didn't say anything else, and Ren opened up the enormous cart.
+
+“Hop in, and brace yourselves.” Ren said. “Maybe lay down at the back or something.” He smiled. “Princess is really, really fast now.”
+
+Elerlyth and Etheria climbed into the cart and braced themselves at the back.
+
+“I'll start off slow, so it won't be as much of a shock.” Ren said closed the cart and locked it. He went into the large warehouse and opened the large forge, and Zetaya jumped onto him with the sound of a crackling fire. “Ha ha! It's nice to see you, too.”
+
+Ren hugged the fire elemental and walked out of the forge. Tee-one shut the door for him, and Zetaya moved around to Ren's back. He climbed up onto Princess' saddle and Zetaya ducked down.
+
+“Easy at first, Princess.” Ren said. “I know you want to show off, but they can't see you.”
+
+“You're right, My Lord.” Princess said and trotted up into the air.
+
+“Actually, let's stop in to see Railyse.” Ren said. “We should bring her back here now that I've got the chance.”
+
+“Yes, My Lord.” Princess said and ran faster and faster, then came in for a landing in front of the house in the Housing District of Aurora. Ren felt Railyse's sadness and jumped down from Princess. Zetaya let him go and stood on the road as Ren ran inside the house, then knocked on Railyse's door. The door opened, and she held out a piece of parchment that King Alamast had sent to her.
+
+“No.” Ren said after he had read it. “How can they be so stupid?”
+
+Railyse shook her head. “I don't know.” She said. “At least the ships under his command have diverted.”
+
+Ren sighed. “I hope that makes a difference.”
+
+“It will for some.” Railyse said and then sighed. “It looks like I won't be going home for a while.”
+
+“It's a good thing I finished your new place, then.” Ren said. “I'll take you there right now.”
+
+“We should visit the capital city before my mother's deadline, to try and convince the idiots to change their minds and move their shipping.” Railyse said.
+
+“That's a good idea.” Ren said. “I don't think it will work, but it's still a good idea.”
+
+Railyse chuckled and turned to the large pool in her room. She made several bubble and gurgling sounds, and the two water elementals jumped out of the pool.
+
+“Wow, you're both getting big.” Ren commented. The first one was almost 3 feet tall, and the second was over a foot tall.
+
+“I believe it was because a considerate person donated some very powerful fluids to them.”
+
+Ren smiled. “I'm glad it worked, and I'll see about making another donation soon.”
+
+Both elementals bubbled and gurgled excitedly.
+
+“Yes, I meant tonight.” Ren said and motioned to the front door. “I'll stop in before I stay the night with the maids.”
+
+The water elementals jumped and rolled over each other, then the smaller one stood on the other's shoulders and opened the door. Railyse laughed as she took Ren's arm, and he led her outside and to the large cart.
+
+“Before you freak out.” Ren said to the water elementals in the Sea Dweller's language of bubbles and gurgles. “That's Zetaya, a fire elemental.”
+
+The two water elementals froze stiff at the sight of the 6 foot tall fire elemental.
+
+“You have nothing to fear.” Ren gurgled at them. “You'll be safe inside the cart, and Zetaya rides with me on Princess.”
+
+The two water elementals moved slowly towards the cart, and kept their head stubs pointed right at Zetaya. Ren felt their wariness, and thought about telling them that Zetaya was just as wary of them. He didn't, because having a healthy respect for those that can hurt you would only help them in the long run.
+
+Ren opened the cart and looked inside. “I just have a quick side trip to do.”
+
+“It's a good thing we only moved a little bit.” Elerlyth said. “How long is the side trip going to take?”
+
+“It's already half over.” Ren said and helped Railyse into the back of the cart, then passed in the two water elementals.
+
+“We're in Aurora?” Elerlyth asked, surprised.
+
+“It took longer to talk to Railyse than to get here.” Ren said and looked at the water being. “You might want to use your ability to keep the water elemental's shapes stable.” He said. “Princess runs really fast now.”
+
+Railyse nodded, and Ren closed the cart. He heard some loud bubbles and gurgles, and opened it again.
+
+“Sorry, I forgot you can't see in full darkness.” Ren said and enchanted a steel square with a few Illumination runes and stuck it on the inside of the cart. He activated it, then shut and locked the cart. Zetaya climbed onto his back, and Ren climbed onto Princess.
+
+Princess trotted up into the sky and turned around, then ran back to the county and came in for a landing next to the 300 foot long by 300 foot wide by 100 foot deep pool Ren had made for Railyse and the water elementals. He jumped off of Princess on the side away from the pool, and Zetaya climbed off of him. He went to the cart and opened it, and saw the surprise on Railyse's face.
+
+“I'm glad you warned me.” Railyse said. “They would have been puddles.”
+
+She passed the two water elementals out, and Ren put them on the ground on the inside of the dividing wall he had constructed, and turned around so he could help Railyse climb out. He could feel the surprise that the water elementals felt at the sheer size of the pool, and then he felt Railyse's surprise match their own when she climbed out of the cart and saw it for herself.
+
+“Ren! This is amazing!” Railyse said and peered into the depths. “So much detail.” She said and looked at him. “It's like a reef back home!”
+
+Ren nodded. “That's what I was going for.”
+
+“I don't see any currents or churning water, though.”
+
+“That's because I needed your input about it.” Ren said. “With the way the bottom is structured, I didn't want to wreck everything by putting in a cross-current that would churn up the dirt, or make a swirling vortex, or something.”
+
+Railyse smiled and touched his cheek. “That was very considerate of you.”
+
+The two water elementals bubbled at him, then jumped into the water to explore their new home.
+
+“I've placed Anti-water runes all along the thin shelf near the top to stop any overflow.” Ren said. “I'm pretty sure that the water elementals can't get in there; but, you should warn them of the danger anyways.”
+
+“I will.” Railyse said. “When do you want to set up the currents?”
+
+“I'll do them tonight before my donation.” Ren said. “Until then, let me know if there's anything you want to change or add.”
+
+“I think everything is perfect.” Railyse said, and kissed him. “Thank you, Ren.”
+
+“You're welcome.” Ren said and licked his lips. “Thank you for the blessing.”
+
+“It's the least I can do for such a great gift.” Railyse said and walked out over the water. “Until tonight.”
+
+“See you then.” Ren said, and she slowly sank into the water.
+
+“Okay, that was cool and classy.” Elerlyth said when Railyse had gone completely underwater, and Ren turned to see her and Etheria's heads were poked up out of the cart and had watched the whole thing. “It was like she was on an elevator or something.”
+
+Ren chuckled. “Yeah, it was neat.” He said. “Let's get to the next High Elf city and see who we can save.”
+
+“You mean kill, don't you?” Elerlyth said.
+
+“Nope.” Ren said. “I'm going there to save as many of the ghouls as I can.”
+
+“That sounds so wrong.” Elerlyth said and chuckled.
+
+“If dooooing it is wroooong...” Ren sang. “...then I don't waaaanna be riiiiight.”
+
+“If loving you is wrong, you mean.” Elerlyth corrected.
+
+“Loving me isn't wrong.” Ren said and grinned. “You should know that by now.”
+
+“I walked right into that one.” Elerlyth said and rolled her eyes. “Close this thing and let's get going.”
+
+“You got it.” Ren said, closed and locked it, then went to Zetaya. The fire elemental climbed up on his back and he climbed up onto Princess and sat in the saddle. “Let's go.”
+
+“Yes, My Lord.” Princess said and trotted up into the air, then poured on the speed.

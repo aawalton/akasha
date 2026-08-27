@@ -1,0 +1,189 @@
+---
+id: 247be238-3c7d-5865-830a-c707a7a27b81
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 Alignment"
+slug: 0012-chapter-11-alignment
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 12
+ownLength: 1977
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202966/chapter-11-alignment"
+royalRoadId: "3202966"
+---
+
+The blacksmith's shop had long since settled into a steady rhythm by the time their discussion narrowed into the specifics.
+
+Though Lucien and Joren had gotten off on the wrong foot at the start, the initial friction had burned away as Lucien got used to speaking with the surly blacksmith.
+
+The man himself stood near a stockpile of raw materials, his arms folded as he ignored the soot darkening the lines of his forearms, a thoughtful frown on his face.
+
+Harlon had pulled his stool nearer to the wall of the seating area, puffing his pipe as he balanced a rough plank over his knee. The carpenter was absently marking measurements into it with a bit of charcoal, already preparing for the future production of the hafts.
+
+Alicia remained slightly behind Lucien, quiet but clearly listening.
+
+"You are asking for one hundred spearheads," Joren said at last, breaking a stretch of silence that had grown thick with numbers. "And the shields to match them."
+
+"Not to match," he corrected calmly. "Focus on the spears first. We can start making the shields once iron permits and production of the spears have stabilized."
+
+The blacksmith's eyes narrowed slightly at the adjustment, assessing his words and the new parameters.
+
+"And the gates," Harlon added without looking up. "You want the crossbeams reinforced and its hinges replaced before the ground hardens as winter begins."
+
+"Yes." He nodded without hesitation. They were no longer just debating whether something should be done. Now, they were narrowing the how of things.
+
+Lucien clasped his hands loosely behind his back as he continued, "The rotation will be every three days."
+
+Harlon's charcoal paused mid mark. "That's...quicker than what you had first suggested."
+
+"It gives more men the incentive to perform during their drills," Lucien replied. "A week might be long enough for resentment to fester. Three days will keep the competition sharp."
+
+Joren grunted, a low rumble. "And it keeps them tired."
+
+"It keeps them useful," Lucien corrected, though not sharply. "None of the men will remain at your workshops long enough to believe he belongs there."
+
+"They will return to the field before habits can take root," he finished, tone firm. Lucien could not afford the already limited amount of labour he had to shrink further.
+
+Harlon finally looked up from his measurements, a wary gaze falling on Lucien. "You push the men this hard before winter, they'll start snapping at each other, Lord."
+
+He tapped his pipe onto a tray beside him before continuing, "The fatigue will make fools of steady hands. One wrong strike, I lose a helper or Joren loses a finger."
+
+Joren scoffed. "Won't be mine."
+
+Lucien inclined his head slightly, agreeing with the point. "Then we account for that. The drills will largely be overseen by Dorian. I will stop by once in a while, keep them alert instead of complacent."
+
+He gestured to the two craftsmen. "While the crafting work will be overseen by you and Joren. If the first man grows too reckless, we remove him from the rotation. Permanently. To set an example for the rest."
+
+"And replaced by who?" Joren asked immediately.
+
+"The next best man in the drills." The silence returned, heavier this time, the implications settling in.
+
+Lucien continued before it could grow sour. "The payment will be in coin after every three days. A modest amount but visible. Enough that it would matter to a family."
+
+He closed his eyes briefly, considering his next words. "It will come from my personal treasury," he added finally, eyes snapping open.
+
+That made both of the craftsmen look at him fully even as he heard a slight hitch in Alicia's breath. Harlon's brows rose a fraction but Joren's expression did not change, though his arms slowly unfolded.
+
+"...You are not drawing from the village treasury?" Harlon asked slowly.
+
+"No."
+
+"Why?" Joren pressed, narrowing his eyes slightly.
+
+"Because if this fails," Lucien replied evenly, "I will not have it said that Ashridge paid for my own miscalculation."
+
+The room went still at his words, save for the faint rasp of Joren’s thumb against calloused knuckles.
+
+Joren's jaw stiffened once before he spoke carefully. "If this fails...it won't just be coin that we lose." His gaze remained fixed on Lucien.
+
+He held the blacksmith's gaze but did not answer immediately. The weight of those words deserved further consideration.
+
+"I am aware, Joren," Lucien replied at last. Joren did not look away, and the initial scepticism in his eyes did not vanish, but it was no longer as certain.
+
+It was Harlon who broke the stillness. "Morale's already as fragile as timber in foul weather, Lord. They might look sound until the strain sets in..."
+
+Releasing a puff of smoke, he continued, "By stirring competition amongst them, you best be certain that it binds them instead of splitting them apart."
+
+Lucien nodded. "Then we best make sure they do not crack." His tone was calm, edged with resolve.
+
+Joren continued to study him while he replied to Harlon's concerns. The hostility in his eyes from earlier had lightened, just a little.
+
+"You speak plain for a lord," he muttered at last.
+
+Harlon's gaze sharpened as he added, "You speak differently than I remember."
+
+Alicia stiffened faintly behind him while he kept his own posture indifferent, casual. It was something he had slowly grown used to.
+
+"Circumstances change," he replied. "Ashridge has survived for twenty years. I would prefer it survive twenty more."
+
+"...That wasn’t what I meant," Harlon grunted, though without heat.
+
+He merely answered evenly. "It is the answer you are receiving."
+
+The carpenter held his eyes only a moment longer before he huffed softly through his nose. His attention once again dropped to his plank as he murmured, "Three day rotation...We'll need a posted tally. The men will want proof of who is leading."
+
+"I will have one drafted and posted at the front of the tavern," Lucien replied. "It will be visible, in neutral ground, and updated each cycle."
+
+Joren turned back to the stockpile he had been looking at earlier. "Iron stock is tight, but I can stretch what we have if the spearheads are standardized. No custom grips, same sockets and lengths..." he muttered thoughtfully.
+
+"Standardize them," Lucien agreed immediately. "Right now, we need quantity over frivolous ornaments."
+
+At his words, Joren's eyes snapped to him once more. A flicker of approval, or something akin to it, crossed his expression.
+
+"And the shields?" Harlon asked. "When should we start producing them? Any specifics?"
+
+"After the second cycle, we will decide once we have a firm projection of how many spears we can make first," he answered, twisting his hand left and right as he continued. "As for the shields, use a wooden core from what you can spare without weakening any repairs."
+
+"Iron rims only if the supply allows for it. Focus on the grips and boss instead," Lucien finished.
+
+"...Seems you have thought this through," Harlon observed, though the carpenter had not paused in his marking.
+
+"I have considered the constraints," Lucien admitted. "I will have Dorian send the specifics, but in the end, the final measurements should be decided by you two based on what we have."
+
+There was a subtle change in the room now, a current of wary attention settling over the space.
+
+Men like Joren and Harlon would not be so easily won over in a single day. But at least there was a certain level of alignment between them.
+
+"Three days," he continued. "By then, I want a preliminary count of the workable iron and timber we have. I will ensure the Captain knows before nightfall so he can begin adjusting drills at first light tomorrow."
+
+Joren gave a short nod. "You will have the count." Harlon grunted in agreement.
+
+For a moment, none of the men spoke. The silence settled between them, taut but controlled.
+
+It was Alicia who finally broke it. "My Lord..." she began softly, clearing her throat. "It is past midday."
+
+All three men blinked, as though pulled from deep water. Joren swore under his breath. "No wonder my stomach's biting."
+
+Harlon rolled his stiff shoulders, finally placing the plank carefully to the side as he stood up from the stool he had been sitting on, joints cracking audibly. "I thought someone would have come looking for you by now."
+
+"Master Elias sent someone a while ago," Alicia admitted quietly, eyes lowering. "A runner came, but I told him you were still speaking."
+
+Lucien inclined his head. "My thanks, Alicia."
+
+He looked back to the two craftsmen. "We proceed as discussed. Three day rotations with standardized spears first. After the second cycle, we will proceed with the shields while taking into account the reinforcing of the gate."
+
+"The payment can be finalized before the first cycle completes," he finished calmly.
+
+"We will see if the men can swing hammers as well as they thrust a spear," Joren muttered as he took a look at the measurements Harlon had marked, nodding consideringly as he focused on his portion of the work.
+
+"They will learn," Lucien replied as he adjusted his coat, preparing to leave.
+
+Harlon scoffed as he took a drag from his pipe. "Or they will complain."
+
+"They may," he allowed. "But in the end, they will work. For their own sakes and the extra coin."
+
+A faint, almost reluctant smile tugged at the corner of Harlon's mouth. "Different," the carpenter muttered again, softer but not unkindly.
+
+Lucien did not respond. Perhaps it was better if he did not. It was wiser to cloak himself with plausible deniability whenever he could.
+
+The meeting dissolved without ceremony at the end, Harlon carefully taking the plank as soon as Joren had finished with it. The blacksmith was already preparing to return to work with the results of their meeting in his mind.
+
+Lucien adjusted his gloves and made for the wide front doors of the smithy, Alicia already moving into position. He felt a slight twinge of guilt. He had not been the only one to skip lunch.
+
+Still, he had started the first of his plans in motion. The workshop no longer felt quite like a place he had come to negotiate.
+
+It felt like somewhere he had given direction based on plans of his own rather than reacting to another man's will.
+
+Outside, the air had grown colder than it had been in the morning.
+
+Lucien paused just beyond the threshold of the forge, Alicia falling into step a pace behind him to his right as the doors shut with a dull wooden thud.
+
+Already, he could hear the hammering resume within moments, steady and unbothered by his departure.
+
+Across the village, trails of smoke rose in thin columns from scattered hearths. The midday sun hung pale behind a veil of drifting cloud, and though it gave light, only a faint hint of warmth could be felt.
+
+Lucien's gaze turned toward the palisade. From here, it appeared sturdy enough, a ring of sharpened timber standing against open land.
+
+But he had seen the gates up close. He knew where the joints were strained, how the iron had thinned, and where the wood had been replaced more than once.
+
+‘Twenty years, and the gates would likely still fall.’ Lucien sighed inwardly, keeping his expression carefully neutral.
+
+A breeze stirred, sharper than before. It tugged faintly at his coat, carrying with it the scent of distant fields already stripped bare.
+
+It seemed that even in this world, winter crept slowly rather than boldly announcing itself.
+
+Behind him, the forge continued its rhythm. Ahead, the palisade stood in quiet defiance of a changing horizon.
+
+Lucien drew a slow breath before walking toward the manor. He did not look back. His mind was already moving on to the next task.
+
+Above the village, the wind shifted again.

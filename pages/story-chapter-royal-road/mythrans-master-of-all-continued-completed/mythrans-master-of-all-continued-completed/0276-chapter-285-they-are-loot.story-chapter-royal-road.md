@@ -1,0 +1,375 @@
+---
+id: 69bb6f48-89b5-5fb4-91db-e09b7de442f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 285 - They Are Loot"
+slug: 0276-chapter-285-they-are-loot
+partOf: mythrans-master-of-all-continued-completed
+position: 276
+ownLength: 3928
+unit: words
+publishedAt: 2017-06-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143359/chapter-285-they-are-loot"
+royalRoadId: "143359"
+---
+
+“What do you mean you have 5 more personal maids?” Nathalia asked, incredulous. “Ren, what did you do?!?”
+
+Ren explained about what had happened with the rescue of the girls, how they had gotten away, and what he did when he was captured.
+
+“I understand that part.” Nathalia said. “Tell me about the women.”
+
+Ren told her about taking care of the rest of the thieves by burying them, and coming across the hidden room. When he opened it, the women had been inside and trapped, and he had healed them and stored the things inside.
+
+“That must be when it happened.” Nathalia said. “Once you took possession of the items in the room...”
+
+“I'm sorry.” Ren said. “I didn't think that storing something I didn't own, gave me ownership of everything inside.”
+
+“It wouldn't normally.” Nathalia sighed. “But you killed the previous owner, then took his things.” She explained. “His personal maids are included in that, apparently.”
+
+“I can't apologize enough for this.” Ren sighed. “I even gave them their contracts and they tore them up.”
+
+“You did WHAT?” Nathalia asked.
+
+“I gave each of them their contracts, and they tore them up into little pieces.” Ren said. “When they were done, I was fined and charged for the replacements.”
+
+“Oh, no.” Nathalia said. “You... you have Binding Contracts.”
+
+“I've had binding contracts before.” Ren said. “But, that sounds like something different when you say it like that.”
+
+“It is.” Nathalia said. “It's something that...” She sighed. “...more unscrupulous people put as a condition of the contract. The contracts don't expire, even if one or both of the participants die; either the holder, or the one under contract.”
+
+“By the gods.” Ren said. “They literally signed their lives away.”
+
+“Yes.” Nathalia said.
+
+“What do I do now?” Ren asked her.
+
+“There's nothing you can do.” Nathalia said. “If the contracts are what I think they are, then you can't give them away, change the contents, or alter in any way the agreements made.”
+
+“Dammit.” Ren said and sighed. “I'll be home soon.” He said. “I just have to stop off at the dwarf's place to pick up the reward for this quest.”
+
+“You've already missed supper, and you're late for your Adventurer's business.”
+
+“I'll deal with it when I can.” Ren said. “I love you.”
+
+“I love you, too.” Nathalia said, and the Sending Ring stopped glowing. She sat down at the kitchen table, and put her head in her hands.
+
+“Wow.” Ereka said. “I'm so sorry.”
+
+Nathalia let out a bark of laughter. “You don't have to be sorry.” She said. “It's not your fault that 5 more women have been added to Ren's life.”
+
+“No, it's not; but, I know how much spending time with Ren means to you.” Ereka said. “I'm sorry that you have to deal with it.”
+
+Nathalia nodded slightly. “Thank you.”
+
+Ereka walked around the table and knelt by Nathalia to give her a hug.
+
+*
+
+That went a lot better than I thought it would. Ren thought. I'm going to keep my promise, though. I'll spend as much time with Nathalia as I can.
+
+“There's Princess!” Teepo said, and Ren smiled as he looked and saw her as she raced down the road towards the spot where the castle used to be.
+
+“AHHHHH!” Several of the women screamed and jumped to their feet as they noticed Princess as she barrelled down the road towards them.
+
+“It's okay!” Ren said. “It's just my mount coming to pick us up.”
+
+The women calmed and sat back down to finish eating, and Princess skidded to a stop right in front of Ren.
+
+You! *Lick* Scared me! *Lick* Don't you EVER! *Lick* Do that to me AGAIN! *Lick*
+
+Ren laughed as Princess slobbered all over him. He could feel her annoyance at him; but, he could also feel her great relief.
+
+“I won't let a few tons of dirt stop me from getting back to you.” Ren said. “Do you want something to eat?”
+
+Yes, please.
+
+Ren took out a plate of food for her and let her eat. He stored his armor and bodysuit to clean it, and equipped his set of Travelling Clothes at the same time. The slobber magically disappeared, and he took out the Staff of the Earth. He concentrated on the dirt around the hole that he and the female dwarves had escaped through, and watched as the dirt rippled, slid forward, and entered the hole. It didn't take much to fill the room, and then he flattened the dirt out to make it look like nothing had ever been there.
+
+Ren went around to each spot where remnants of the castle stuck up from the ground, and used the staff to pull dirt over and covered them. Near the entrance of the castle, or where the entrance to the castle used to be, were several almost completely buried bodies. He looted them and they disappeared; and he used the staff to cover up any mess what was left. When he was done, you couldn't tell that there was anything supposed to be there, except for it being a big clearing.
+
+“We're done eating.” One of the women said. They had gathered the dishes into a stack, and Ren gave them scraps of cloth to clean up with. He stored the plates and table, then the chairs when the female dwarves stood up.
+
+“Please allow me to help you into the cart.” He said to them. “Right this way.”
+
+The women followed him over to the cart and he introduced them to Princess, then helped them climb into the back.
+
+“I'm sorry it's not plush like my other carts.” Ren said. “It's borrowed, and I left most of my crafting supplies back at the Keep.”
+
+*
+
+“Why is he being so nice?” One of them whispered when Ren went to the front of the cart to talk to Princess. “He doesn't have to try and win us over. He knows he already owns us.”
+
+“I... I don't think that's what he's doing.” One of them whispered back. “I think he's just acting normally.”
+
+Another one chuckled. “Now I really regret not meeting him first.” She said. “I wouldn't have had to deal with Throgg for the last two years.”
+
+*
+
+“How does the cart feel when you run?” Ren asked Princess.
+
+It's old and unbalanced. Princess thought to him. Like the people you just introduced me to.
+
+Ren chuckled. “I'll check the cart and see if I can fix it.”
+
+Princess huffed and Ren checked the cart. It was cheaply made, and the materials weren't quite up to a standard that should be used for a transport; but, it did technically work. Ren saw one of the wheels was slightly smaller than the other, and there wasn't really anything that he could do with it.
+
+“The right wheel is more worn than the other.” Ren said. “I don't have anything on me to replace it.”
+
+Princess huffed sadly, because it had been her idea for Ren to lighten his load for the trip to the giant lands.
+
+“I wasn't complaining.” Ren said, then pat her neck as he felt her regret. “I would have done it to lessen the burden on you, anyways.”
+
+Princess nodded, Ren climbed up into the saddle, and Teepo flew over and landed on his shoulder.
+
+“Please take it easy. There's no real handholds back there.”
+
+Princess huffed her agreement and started to trot. She felt the balance was still off, but it wasn't as pronounced with the extra weight in the cart, so she ran faster. The cart started to vibrate as Princess picked up speed, and Ren glanced at the women in the back. They all had smiles on their faces as they were shaken around, and one even laughed.
+
+At least they're enjoying it. Ren thought and faced forward.
+
+“I think there's going to be a lot of things for them to enjoy.” Teepo said. “If my calculations are right, none of them even know who you are.”
+
+Wait, what? Ren asked his friend.
+
+“You haven't been in the dwarf lands for that long.” Teepo said. “They've been locked up for a year or more.”
+
+Oh. Ren thought. I wonder if I should tell them about everything that's been happening?
+
+“Don't bother.” Teepo said. “If they want to know, they'll ask.”
+
+Ren smiled. I don't know if I want to be there to see their reactions or not.
+
+“I do!” Teepo said. “I definitely want to see their faces when they find out you're the Dreaded Foe, and that you just saved the entire Dwarven Kingdom from two invasions.” He chittered in delight. “From giants!”
+
+*
+
+“Please have this delivered to House Neram.” Queen Narhilda Neram said to the messenger, and handed him a rolled up scroll. “Take the fastest cart from the stables.”
+
+“Yes, Your Majesty.” The messenger said and ran from the office.
+
+“What makes you think he'll even look at it, let alone read the instructions?” Barnar Slatebreaker, the Stonemason, asked.
+
+“He has to.” Narhilda said. “I addressed it to both of them, and Nathalia will make him.”
+
+Barnar chuckled. “Make him? Are you kidding?”
+
+Narhilda chuckled herself. “I'm joking, of course.” She said. “She'll read it and tell him about it.”
+
+“Is two days enough time?”
+
+Narhilda nodded. “If there's one thing that the staff here can do, it's throw parties.”
+
+“That's true.” Dural, the Advisor to the Throne, said. “Plus, we haven't had a reason to celebrate in a long time.” He said and smiled. “Having the Kingdom saved from an invasion from the giants is definitely a reason to throw a party.”
+
+*
+
+We are almost there. Princess thought to Ren, and slowed down to take a turn onto a side road. She didn't pick up speed again, and Ren didn't have to wonder why for long. They approached a driveway to a small house, and he saw the dwarf stood there with all seven girls around him. They waved frantically at him, and Princess came to a stop on the road. Ren hopped down from her saddle, and he braced himself for what was to come.
+
+“YAY!” The girls yelled as they mobbed him. He laughed as they all tried to hug him at once. They had divided themselves up and had attacked their chosen spots in earnest. Two of the shortest girls had his legs, one slightly taller one had him by the waist, two moderately tall ones had his arms, one had him around the back, and the last one who was also the tallest at 4 feet, snuggled into his chest.
+
+Ren could feel a dampness on his shirt, and a soft sob came from the girl in front of him. He looked at the girls that had a hold of his arms.
+
+“I need my arms for this.” Ren said, and they let him go. He gripped the girl in front of him, and she cried.
+
+“Thank you.” She whispered. “Thank you so much.”
+
+“It's okay now.” Ren said and rubbed her back. “You're safe, and they are never coming for you again.”
+
+“How... how do you know that?” She asked, and looked up at him with tears in her eyes.
+
+“I killed every Thieves Guild member that was there.” Ren said. “I made sure that no one was left to come and get you.”
+
+“T-t-thank you!” She sobbed, hopped up, and kissed him on the lips. It lasted for only a moment, and Ren had wide eyes as she blushed a deep red and stepped back. He handed her a piece of cloth to dry her face, and she accepted it gracefully.
+
+“My turn!” One of the other girls said, then wrapped her arms around Ren's neck.
+
+“W-wait!” Ren said; but, she pulled herself up and kissed him anyways.
+
+“Me, too!”
+
+“Me next!”
+
+Ren wasn't sure how it had happened; but before he knew it, he had received a kiss and a thank you from each of the girls. He'd even knelt for the youngest one to kiss him on the cheek.
+
+“I'm just going to say thank you.” The dwarf said, then glared at his daughter who stood surrounded by the other girls. “Like someone else should have done.”
+
+The girl giggled. “But daaaad! He's so handsome and strong!”
+
+“All right.” The dwarf sighed. “I'll let it go this time.” He said. “But you better not be doing that with anyone else!”
+
+The other girls giggled, even the young ones, and the dwarf turned back to Ren.
+
+“Kids these days.” He said, and Ren chuckled.
+
+“I was given some great advice by a healer once.” Ren said. “She told me that sometimes it's just best to accept things for what they are when they are given, and move on.”
+
+The dwarf looked at him. “You just took my daughter's first kiss.”
+
+The girls giggled again and he turned to them.
+
+“It better be your first kiss!” He said, and she covered her mouth so he wouldn't see her laugh. He sighed and looked back at Ren. “Never mind.” He said and handed Ren the All-Seeing Mirror. “Thank you for getting my daughter back.”
+
+Quest Complete!
+
+You have successfully rescued your employee's daughter from her kidnappers.
+
+Rewards: All-Seeing Mirror
+
+Influence: 3,000
+
+Honor: 1,000
+
+Notice!
+
+You have wiped out the Dwarf Branch of the Thieves Guild, and have looted it's treasures. You have gained Influence and XP based on the number of members you have killed.
+
+Influence: 35,000 (350 members x 100 Influence average)
+
+XP: 52,500 (350 members x 150 XP average)
+
+Treasures looted: 3 gold cabinets (slightly damaged), 5 gold dressers (slightly damaged), 1 gold table, 2 gold end tables (slightly damaged), 5 gold beds (damaged), 6 gold chairs, 4 expensive paintings, 4 gold candlesticks, 1 iron and gold chest (partially looted), Personal Contracts: 15, Business Contracts: 25, Property Deeds: 15, List of Illicit Contacts: 1, Shadow Coins: 555, Unidentified Ring, 15 swords, 8 crossbows, 3 helms, 6 pairs of gauntlets, 5 pairs of boots, 18 platinum coins, 35 gold coins, 56 silver coins, 3 copper coins
+
+It included the things I looted from the bodies, too. Ren thought. Neat.
+
+“I'm glad I could help.” Ren said, and shook the dwarf's hand. “Did you find out where the girls have to go?”
+
+The dwarf nodded slightly. “I've got their addresses here.” He handed Ren a piece of parchment. “They're all on the way back to Dornrach.”
+
+“Thanks.” Ren said and stored his small cart that was behind the dwarf in the driveway, then looked at the girls. “Who wants to go home?”
+
+“ME!” They all said, except for the dwarf's daughter.
+
+“I'm going to miss you all.” She said, and started to cry. Ren, unable to handle the sound of crying for very long, had a brilliant idea. He took out 7 Sending Squares and held onto them in one hand. He enchanted them with the Sending Glyph he'd designed, and he lost nearly a thousand points from his Mana Pool. He stepped over to them and held out the Sending Squares.
+
+“Please don't cry.” Ren said. “You can still talk to each other if you want.”
+
+“WHAT?!?” They all yelled.
+
+“Just think of who you want to talk to, and the rest will glow.” Ren said. “When one of you talk, all of you will hear it.” He said and looked at the dwarf's daughter. “Try it.”
+
+She took one of the Sending Squares and closed her eyes as she gripped the Sending Square, then spoke. “I hope this works!”
+
+Her voice was repeated 6 times as the rest of the Sending Squares had glowed and relayed her words. All of the girls screamed, grabbed one of the Sending Squares for themselves, and tried to talk. Their words were repeated from each of the other Sending Squares, and they laughed; which was also repeated.
+
+“By the GODS!” The oldest one exclaimed, completely shocked.
+
+“If you keep talking to each other, you can all still be friends.” Ren said. “Now let's get you home.”
+
+They nodded slightly and Ren led them over to the cart. He helped them get inside, and there was plenty of room this time. They settled in, and Ren climbed up onto Princess' saddle.
+
+“Let's get them home.” Ren said to Princess, and she turned the cart around and ran at a modest pace. She had delicate cargo to take care of now.
+
+*
+
+“By the gods!” Nathalia said as she read the scroll that the messenger had dropped off.
+
+“What is it?” Ereka asked.
+
+“The... the Queen... she...” Nathalia handed Ereka the scroll, and she read it for herself.
+
+“By the gods!” Ereka said. “Is she serious?”
+
+Nathalia nodded slightly. “She's having a celebration... and Ren is the guest of Honor.”
+
+*
+
+It only took half an hour to get the girls back to their families. When he dropped each one off, the reception was the same; screaming in disbelief at first, then crying, then laughter, and surprise that it was over. Ren had apologized to each family and said that he was sorry for not rescuing them sooner, then quietly asked the parents how much they had paid in ransom. All of them were reluctant to say, until the child was sent into the house at Ren's suggestion.
+
+When they finally told him how much the ransom was, and how long they had paid it for, Ren gave them their money back. Each and every father vehemently denied the need for Ren to pay them for that, and Ren replied that it wasn't his money he was using; it was the loot from the Thieves Guild. When saying that didn't work, Ren told them that he was just going to leave the money on the side of the road if they didn't take it. They all shook their heads at his foolishness; but then, they accepted the money in the end.
+
+Ren rode Princess all the way back to House Neram Keep, and had her take him up to the workshop in behind. He smiled as he saw that Tee-one outside and was in the middle of building wall partitions.
+
+“That's great!” Ren said, and ran over to him. “Let me give you a hand with that.”
+
+“Thank you.” Tee-one said, and they assembled the large one storey building in only a few minutes.
+
+“How long have you...”
+
+“Since you discovered the contracts were yours.” Tee-one said. “I put everything else on hold.”
+
+Ren chuckled and pat Tee-one's shoulder. “I appreciate it.”
+
+“I know you do.” Tee-one said. “Do you want to use their old furniture for now?” He asked. “I'll make replacements for them over the next few days.”
+
+Ren nodded slightly. “Great idea.” He said, went inside, and unloaded all of the cabinets, dressers, and beds that he had stored. He took out the tables and chairs as well to fill out the space. “I'll be right back.”
+
+When Ren ran out to get the female dwarves, he saw that they were still inside the cart.
+
+“I'm sorry for not helping you get out of the cart right away.” Ren said and reached a hand in for the closest woman. “I was putting together the place for you to stay in.”
+
+“You were what?” She asked as she took his hand. He helped her climb down from the cart, and she looked at the building in front of her. “We're staying in that?”
+
+Ren helped out the next female dwarf. “I know it's not much.” Ren said. “I'll have Ereka order windows for it, and either Tee-one or I will install them when they get here.”
+
+“Tee-one?” She asked.
+
+“Yes?” Tee-one said as he came out of the hastily-made building.
+
+“Ahh!” She said and turned around to look at him. “You startled me!”
+
+“Please accept my apologies.” Tee-one said.
+
+“What are you?” The third female dwarf asked. “You have a metal face.”
+
+“I am Ren's Dedicated Servant Crafter.” Tee-one said, and the female dwarves gasped.
+
+“How... how...”
+
+“I'd say it's a long story, but it's not.” Ren said and laughed as he helped the fourth female dwarf out of the cart. “When I reached a certain level, I unlocked the recipe to make him; then I did.”
+
+“You're right. That is a short story.” The last one said, and climbed down out of the cart. “I'd like to hear the full story sometime.”
+
+“I'm sure at some time in the future, I'll be able to talk with you about such things; but, as it is right now, I have to get you settled and then I need to take care of some Adventurer's business.”
+
+She nodded slightly, and Ren led all 5 female dwarves into the building.
+
+“Like I was trying to say before, this is only a quick build and not where you'll actually be living.” Ren said. “It'll do for now, though.”
+
+“We have to use all the old furniture?” One of them asked.
+
+“Only for a few days.” Ren said. “Tee-one will make replacements in his spare time over the next few days.”
+
+“What about you?” Another one asked as Ren walked around and repaired all of the metal furniture.
+
+“I might be gone for a day or two.” Ren said. “I want to introduce you to my fian... ah... girlfr... ah... the woman I lo...” He sighed. “Well, dammit.”
+
+One of them laughed. “A forbidden public relationship?”
+
+Ren nodded slightly. “But, I really have to go... so it'll have to wait until I come back.” He said and started to leave.
+
+“Wait!” One of them said, and he turned around to look at her.
+
+“Yes?”
+
+“Can... can you order us not to leave the room?” She asked, and the other women nodded. “We've had... all of the outside we can handle for a while.”
+
+“Was it the cart ride, or the screaming girls?” Ren asked, and they all laughed. “I order you not to touch anything dangerous, and to stay in this room until I come back.”
+
+They breathed a sigh of relief, and Ren took out his icebox.
+
+“There's plenty of food in here, but it's cold.” Ren said. “I'll make arrangements for better meals when I get back.”
+
+“Thank you.” One of them said and took a few steps over to him, and put a hand on his arm. “Thank you for everything.”
+
+“Thank you.”
+
+“Thank you so much.”
+
+“Thank you!”
+
+“My bed is really comfortable.” The last one said, and everyone looked at her. “What? I want to thank him.”
+
+They all laughed, including Ren, then he left the building. He unhooked the cart from Princess, stored it, and led her down to the Keep. The guard there opened the gate and Ren took Princess into the stable. He got her settled, checked on Ruck, the dogs, and the fire elemental. They were all fine, so he went into the house.
+
+“There you are!” Nathalia said, and walked over to him. “Guess what Narhilda did?”
+
+“You can tell me later.” Ren said, and kissed her passionately for about 10 seconds, then broke the kiss. “I have to go. I love you. The maids are in a building beside the workshop, and I'll introduce you to them when I get back. I'll see you in a day, maybe two.”
+
+“But...” Nathalia said. “You...”
+
+“I promise I'll be back as soon as I can.” Ren said and sat down. “Have Ereka order 6 standard windows for Tee-one.” He said and sighed. “I am so late!”
+
+“Logout.”
+
+********

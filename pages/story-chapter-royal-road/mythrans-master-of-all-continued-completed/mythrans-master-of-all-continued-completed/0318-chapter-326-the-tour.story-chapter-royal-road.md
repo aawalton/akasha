@@ -1,0 +1,393 @@
+---
+id: b1cdf417-bbfa-5ff3-9b22-c76045daf0cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 326 - The Tour"
+slug: 0318-chapter-326-the-tour
+partOf: mythrans-master-of-all-continued-completed
+position: 318
+ownLength: 4846
+unit: words
+publishedAt: 2017-08-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154220/chapter-326-the-tour"
+royalRoadId: "154220"
+---
+
+Anabelle moaned as Ren kissed her like she always wanted him to. She'd teased and played with him and his emotions, and practically begged him to treat her as if she was his; but, he had almost always pushed her away. She thought it was a little odd that she didn't have to bend over, even a little bit, because she had become accustomed to accommodating him when they did something like this. It never occurred to her that he would accommodate her instead by using a step ladder of all things.
+
+Ren could feel her body respond to his forcefulness; with him taking charge instead of her begging him to do it. Even though he had been gone for so long, he clearly remembered telling Anabelle that he wouldn't fight the situation he had gotten himself into, and he would treat her the way she wanted to be treated. His hands slid inside her suit coat, and he massaged her breasts through the cloth of her blouse as he kissed her.
+
+Anabelle, despite it happening right there in the store where anyone could walk in and see them, relaxed and sighed instead of tensing up. She had waited so long for him to accept her like this, and she didn't care where it was as long as it happened.
+
+“Oh, Ren.” Anabelle said when he moved from kissing her lips to kissing her neck. “We... we're in the shop...”
+
+“Yes we are.” Ren said. “But don't worry. I won't go any further than this.”
+
+“What?” Anabelle asked in shock. “I wasn't complaining!” She nearly yelled, and looked at him. “I... I want...”
+
+Ren took his hands out of her coat and cupped the sides of her face again. “I only meant for right now, because we're in the shop.” He said. “I didn't mean that this would be all I'll ever do.”
+
+“Oh, thank god.” Anabelle said. “You scared me for a second there.”
+
+Ren chuckled and kissed her briefly, then stepped down off the stool and stored it. “I'm taking the others on a tour of the city, then I'll be heading to Clint's ranch for the day.” He said. “When I get back tonight...”
+
+“T-t-tonight?” Anabelle asked, her hopes so high that she didn't think she could believe it was true.
+
+Ren nodded. “Pick something nice to wear.” He said, took her hand, and kissed the back of it.
+
+“Oh... oh, my...” Anabelle said, and then the door to the shop opened.
+
+“I heard this is the place to buy bras.” A woman said as she came through the door. “I'll take a dozen of them.”
+
+“You haven't even seen them yet.” Anabelle said. She went from being seduced right into salesperson mode without missing a beat.
+
+“That doesn't matter!” The woman said and walked over to her and Ren. “Look at these things!” She said, cupped her breasts with her hands, and she almost spilled out of her well-fastened tunic. The tunic had hidden them well, and Ren was surprised she would brandish them like that, especially because he stood there right in front of her.
+
+They're even bigger than Elise's. Ren thought. I didn't think that was possible.
+
+“I'll take out a loan at the bank if I have to!” The woman exclaimed.
+
+“That won't be necessary.” Ren said. “Anabelle, please show this woman our wares.” He said. “You can give her the Tommy Treatment.”
+
+Anabelle smiled, bent over, and kissed Ren on the lips. “You're a good man.”
+
+“Darn right I am.” Ren said and laughed. “I'll be back in an hour or so.”
+
+*
+
+Anabelle and the woman watched Ren go out the door at the back of the shop.
+
+“He seems a little full of himself.” The woman said, and Anabelle looked at her.
+
+“He was only joking.” Anabelle said. “Don't you realize what he meant?”
+
+The woman shook her head.
+
+“He could have taken you to the change room and helped you, instead of telling me to do it.” Anabelle said, and the woman blinked her eyes for a moment.
+
+“You mean...”
+
+“He loves breasts in all shapes and sizes, and didn't want to tempt himself with such a bountiful chest.” Anabelle smiled. “Not in a small, enclosed, and private space like the change room.”
+
+The woman looked at the door and then back at Anabelle. “Then, I'll have to agree. He is a good man.” She chuckled. “I haven't met a man that could ignore these things before.”
+
+Anabelle laughed. “The bras are right this way. I'm sure you'll find that several of them should be perfect for your needs.”
+
+*
+
+Ren went up the stairs and gathered the maids and Railyse, and they went downstairs and out the back door. He went out front to get Princess, and brought her around to the street beside the business, and helped the women climb into the back of the cart. He pat Riley and Stacy and told them to enjoy the tour, since it was their first time seeing the city, too. They barked at him once, and he climbed up into the driver's seat.
+
+“Slow and steady, Princess.” Ren said. “Let's show off the best parts of the city.”
+
+Princess huffed and trotted down the street, and Ren started pointing out the various shops in the Artesian District. They went down and around the corner to the main street of the district and came to Sally's Shop.
+
+“We have to stop here.” Ren said and Princess stopped. “There's someone I'd like for you all to meet.”
+
+Ren helped everyone out of the cart and they went inside the building. Sally looked up from her work at all of the commotion that had just entered her store, and saw the largest group of people she'd ever had in her shop at the same time. She counted the number of heads and looked at who they belonged to. Six of them were female and richly dressed, with jewelry and fancy fabrics and designs; the last head was male and had a very distinct fluffy head of hair.
+
+“Ren!” Sally exclaimed, and the maids moved to the side to make way for her.
+
+“Hi, Sally.” Ren said and beamed a smile at her.
+
+“You lost the beard!” Sally said and hugged him.
+
+Ren chuckled. “I did.” He said. “You're not going to believe how it happened.”
+
+Sally laughed as he told her the cure had been just simple soap, and the maids confirmed the story and the scary results. She put a hand on the closest maid's shoulder.
+
+“I know you value beards, but... when Ren had one... it... it was...”
+
+“It hurt her for me to have it.” Ren said. “I stayed away a lot longer than I should have because of it.”
+
+“Oh, Ren.” Sally said and kissed the top of his head. “I don't know if I should be mad that you stayed away, or happy that I didn't have to look at you.”
+
+Ren laughed. “I think it's a bit of both, Sally.” He said, then introduced everyone to her. She greeted them like a proper lady would, and they browsed her shop. When Ren tried to pay for the things the maids wanted, Sally wouldn't take anything at first; but, he showed her a handful of platinum coins to prove to her that he wasn't going broke by buying so much from her, and she relented.
+
+The group left Sally's shop and moved on to the other districts, and Ren pointed out everything. He even included the colorful commentary about the damage from the Aurora Fire, and what was repaired. They stopped several times and got out to browse the shops, and Ren told them to get whatever they wanted.
+
+The shop owners liked hearing this, and tried to sell their items to the women Ren was showing around. Most of the people they met didn't comment on Railyse and her exotic look, and even complimented her on her high quality clothing. Ren saw a few people move out of her way, and when he activated Enchanted Eyes, he saw they had a few magical items on them and assumed they were actually players. He understood that they must have thought she was a bit too different than the normal people they meet; but, that was no reason to avoid her.
+
+Ren made sure he touched Railyse affectionately when he saw this reaction. Rather than trying to tell people she was safe to be around, he showed them that she was. Both she and the maids bought several things, and Ren paid for them. He included tips when necessary, and they continued on the tour of the city.
+
+*
+
+“Ren!” Donna, the cook at the mansion said, when she felt a slightly familiar Aura pass over her. “It has to be him!” She said and ran from the kitchen.
+
+“I guess it's a good thing that breakfast is over and we're just cleaning up.” Tait, the baker said.
+
+“Yeah.” Alina, the kitchen helper said. “She even mumbles about him under her breath.”
+
+“She's got it bad.” Sandra said. “I wonder if he feels the same way?”
+
+“Nope.” Tait said. “I overheard them talking.” He said. “It's just supposed to be a temporary thing, when he comes to town to visit.”
+
+“No way!” Alina said. “She's a booty call?!?”
+
+“She's a what?” Tait asked.
+
+“Nothing.” Alina said. “It's just something I heard Adventurers say.” Dammit, I can't slip up like that if I want to keep blending in with the NPCs. She thought. This is the best job I've ever had, and I don't want to lose it or have them treat me differently if they find out I'm really an Adventurer.
+
+Donna ran out to the hallway and expected to see Ren, but he wasn't there. She frowned slightly, then went down the hall, through the lobby and out the front door of the mansion. She still didn't see him, then she heard a bit of a ruckus down the street. She looked in that direction, and about 250 feet away, was a large cart being hauled by a gold-covered mount.
+
+His Aura is so large! Donna thought. It's got to be about... She thought about when she felt it and looked at the progress of the cart. It's over 350 feet!
+
+*
+
+Donna's guess was pretty close. Ren's 300 foot Aura was merged with the personal maids 75 feet shared Aura, for a total of 375 feet.
+
+Ren pointed to the town square where he'd completed his first quest, and told the women in the back of the cart that it was where he and Elerlyth had turned the tide of the Aurora Fire; then he turned to point at the mansion.
+
+“This is the mansion where the Lord of the City lives.” Ren said and saw a tall blonde muscular woman as she stood at the top of the stairs of the mansion and stared at him.
+
+“Princess, stop here.” Ren said and looked at the passengers in the back of the cart. “I'll be right back.”
+
+They nodded slightly, and Ren jumped down from the cart and walked calmly over to the side of the mansion. Donna saw where he was going and quickly walked over to meet him. They met at the corner of the building and kept walking, then Ren pulled out a large already made tent and held the flap open for her. She glanced at Ren and stepped by him, and he stepped into the tent after her.
+
+“Donna, there's something I have to tell you.” Ren said.
+
+Donna held her hand out and wiggled her fingers, and Ren took her hand and they activated Iron Grip at the same time.
+
+“You're back for good.” Donna said.
+
+“Yes.” Ren said as they tried to crush each other's hand. They were both still unsuccessful, and were overjoyed at the thought. “Also, I'm not overall commander of the Garrison anymore.”
+
+Donna knelt in front of him and was only a little bit shorter than him like that. “Honorable discharge?”
+
+Ren chuckled. “No, I made the Garrison into their own supplementary House, and the deed dissolved.” He said. “I don't own it at all now.”
+
+“Oh... oh, Ren!” Donna wrapped her other arm around him. “You made them an independent faction in their own government!”
+
+Ren nodded as Donna moved in close to snuggle him. “I knew I'd be leaving soon, and I didn't want them to be under the same restrictions that they'd been under before.” He said. “I even paid for it's operation and taxes for the next 10 years, so it won't be dependent on or be a drain for the local economy.”
+
+“Good god.” Donna said, kind of in shock; then she beamed a smile at him. “I love you!” She exclaimed and kissed him.
+
+Ren broke the kiss a moment later and looked at her. “Donna? What are you saying?”
+
+“You've broken the government's hold on an elite military force, that they've had a stranglehold on for centuries! The Garrison can choose to defend the Dwarven Kingdom on their own, and not on the government's orders.” Donna said with awe in her voice. “I don't know how you could have accomplished so difficult a task in so short a time!” She said and kissed him multiple times in quick succession. “Ren.” *kiss* “Ren.” *kiss* “Ren.” *kiss* “You're a dream come true!”
+
+“But... but... I'm not a soldier anymore!” Ren countered.
+
+Donna stopped kissing him and looked him in the eyes. “Don't lie to me.” She said. “What did they give you when you gave it all up?”
+
+Ren took a breath and then sighed. “I'm an Honorary Commander, and will always have a position there.”
+
+Donna chuckled. “You shouldn't look so sad when you say that.”
+
+“But... Donna... I don't want to lead you on like this.” Ren said.
+
+“You aren't leading me anywhere.” Donna said. “I choose who gets my affection.”
+
+“But...”
+
+“Ren, it's okay.” Donna said. “I know we can't go on forever; but, I've waited a long time for you to come and visit me.”
+
+“I'm sorry about that.” Ren said. “I've just been so busy...”
+
+“...saving the dwarves from themselves.” Donna said.
+
+Ren nodded slightly. “And the giants.”
+
+“Ren, how can you expect me to not want you after telling me all of this?” Donna asked him.
+
+“But...”
+
+“Our deal still stands.” Donna said. “I won't ask for any kind of relationship.” She smiled. “Just come and visit me every so often.”
+
+Ren opened his mouth to argue, but he could tell she wasn't going to budge on the issue. He nodded, and she kissed him again.
+
+“You better get back to your tour.” Donna said, then looked at their locked hands. “My time is almost up.”
+
+“I don't have a limit anymore.” Ren said to her surprised face. “Break in 3... 2... 1... now.”
+
+They let their Iron Grips go at the same time so that they wouldn't hurt each other. They left the tent a moment later, and Ren stored it.
+
+“See you later.” Donna said, gave him another quick kiss, and walked away. Ren went back to the cart and climbed back into the driver's seat.
+
+“Can I ask what that little meeting was about?” Railyse asked, but Ren could feel intense curiosity in the shared Aura. The maids wanted to know as well. They had felt the feelings he'd felt and wanted to know why he felt them.
+
+“A prior commitment that I thought might have been over.” Ren said. “I forgot that it was only me that was away for so long, and not her.”
+
+Railyse nodded slightly because she understood the problem, and Princess trotted off down the street and around the corner. Ren showed them the Library, which was the last large building left to show them in the city.
+
+“I'd take you inside, but we have to get back to the shop.” Ren said. “I've got to head out with Clint to skin some wolves for him.”
+
+Princess trotted quickly back to the shop and Ren helped everyone out, then unhooked the cart to store it. He took the women, the two dogs, and Princess up the back stairs to the second floor and through the back door, then up the stairs to the apartment.
+
+“Please wait here until I come back.” Ren said to the maids. “I'll have better accommodations ready by tonight.”
+
+“How will you do that if you're not here?” Frikara asked, a little confused.
+
+Ren smiled. “I'll have someone else build it, of course.” He said and put Princess and the dogs in the kitchen with the fire elemental, then made Princess a nice mattress to lay on. He went back to the living room and kissed each of his personal maids on the cheek. “I'll see you all later.”
+
+“Ooo, kiss my cheek, too!” Railyse said and turned her head to wait for it. Ren chuckled and kissed her cheek.
+
+“There, are you happy?” Ren asked her.
+
+Railyse nodded. “I still don't understand the significance of it, but it feels nice and kind of tickles a little bit.”
+
+“Then you understand one of the main points of it.” Ren smiled, told her and the maids goodbye, and went downstairs to the shop. Clint wasn't there, so he went outside and ran over to the Housing District and chose a lot between the two houses on that side. He was tempted to use the Refugee Center to stay in, but he needed to alter parts of the house for it's occupants, and figured getting a new house built would be better.
+
+Ren chose the two storey option, and expanded it to fill the lot. He could have made it himself, but he wanted to give Jen the business. He paid the fee and set the occupants as himself, his maids, Railyse, Princess, and Ruck. He added a very generous tip like he always did, and finalized the purchase. A minute later, he spotted movement at the end of the street and smiled.
+
+“Ha! I knew it was you!” Jen laughed as she approached him with her build crew behind her. “You're the only one that always tips so much!”
+
+Ren laughed. “I tip well because I always need some modifications done.” He said. “I need one of the bottom rooms to be solid with no windows.”
+
+“Which one?” Jen asked as she brought up the plans, and Ren pointed. “The whole living room? That room is huge!”
+
+Ren nodded. “I was tempted to do it on the top floor, but it's easier to waterproof the bottom floor.”
+
+“Waterproof? What for?” Jen asked.
+
+Ren explained what he wanted her to do, and Jen shook her head.
+
+“You're crazy!” Jen said. “You want us to make an in-ground pool inside the house?”
+
+Ren chuckled. “It's not for me.” He said, and told her about the Sea Dweller's Ambassador.
+
+“Okay, that makes sense.” Jen said. “I'll tell them to leave out the floor there, and we'll start digging right away.”
+
+“You can get the paving stones from my warehouse.” Ren said.
+
+“So, you're back to stay, huh?” Jen asked, and he nodded. She put an arm around his shoulders and gave him a hug. “I'm sorry.”
+
+Ren smiled sadly, and put an arm around her waist. “Thanks.” He said. “By the way, how much do I owe you for the warehouse?”
+
+Jen chuckled. “Just knock a platinum or two off my bill for the loan you gave me to buy the land.”
+
+“Done.” Ren said, and she looked at him with surprise.
+
+“I was joking!”
+
+“I'm not.” Ren said. “You don't know what a relief it was to come to shore, fully prepared to dig out a huge space to build something to store all of my stuff, only to find a big warehouse already assembled and ready to fill.” He gave her hip a bit of a squeeze. “The stable was a nice touch, too.”
+
+“Oh?” Jen grinned evilly. “Did you meet Prancer?”
+
+“Is that her nickname?” Ren asked, and Jen nodded.
+
+“So... did she trick you into... well...”
+
+“Kind of.” Ren said, and told her about the bet. Jen laughed for nearly a minute before she could catch her breath.
+
+“Oh... oh, that's funny!” Jen said. “She did trick you!”
+
+“How?” Ren asked. “The bet ended in a tie.”
+
+Jen laughed again. “I'm giving her free rent and the run of the land, as long as she has her crew help you load and unload your ship. She also has to give you use of the carts when you need them.”
+
+“Oh.” Ren said and sighed.
+
+“You might be all high and mighty with how powerful you are, Mr. Unnamed King; but, you're still a babe in the woods when it comes to women.” Jen said, then bent down and gave his cheek a kiss. “You poor thing.”
+
+Ren chuckled. “I'd ask you to help me with that, but I'm pretty sure you can't dedicate the rest of your life to tell me everything I need to know.”
+
+Jen grinned at him. “Sorry, Ren. You're on your own.”
+
+Ren nodded and let her out of the one-arm hug. “I better go. I've got an important errand to run.”
+
+“This should be done in a couple of hours.” Jen said. “No promises, though.”
+
+“I don't need it until tonight, so you don't have to rush on my account.”
+
+“That's a relief.” Jen said. “See you later.”
+
+Ren stepped back and gave her a small regal bow, and turned to walk away. A dash of fluffy red hair caught his eye, and he stopped to look at her. Jhulune was just as striking as she was all that time ago, and he smiled as he saw her strain to move several boards at once.
+
+“Jen? Can I borrow Jhulune for a few minutes?” Ren asked.
+
+“Sure.” Jen said. “Hey, Jhulune! The customer wants to talk to you!”
+
+Jhulune looked up from unloading the cart and waved to Jen, then came over to Ren. “Hi.” She said, a little shyly.
+
+“Hi, Jhulune.” Ren said. “Can we go for a walk?”
+
+“Sure.” Jhulune said, and Ren held a hand out for her to take. Her face flushed a little red as she took it; but she didn't hesitate at all and Ren led her down the street a little ways and into an alleyway. Ren took out the ready-made tent and held the flap open for her. She went inside and turned to look at him.
+
+“Jhulune, I'm sorry I've been away so long.” Ren said when he stepped in with her. “I've just been so busy...”
+
+“That's all right.” Jhulune said. “You told me when we... um... you know. Well, you said that we wouldn't be dating, or have a relationship or anything.” She said, and looked at the floor of the tent. “Ren, I... I've dated other guys while you've been gone.”
+
+Ren put a hand under her chin and lifted her head so she would look at him. “I always thought you would.” He said. “Who could resist such a beauty?”
+
+Jhulune's face flushed red. “I... well, there was... a bit of...”
+
+“Yes?”
+
+Jhulune took a breath and let it out. “They never got past the bra you gave me.” She said. “You were right! It did stop their roaming hands.”
+
+Ren smiled. “I had hoped that giving you more control over that would make you happy.”
+
+“It did.” Jhulune said. “When I said no, they stopped.” She smiled. “Of course, they couldn't go any further without knowing how to unhook it, either.”
+
+Ren chuckled. “I'm glad.”
+
+“Me, too.” Jhulune said and stepped close. She was the same height as him, and her hair was the same fluffy mass, except hers was red and fluffed by hand while his was blonde and naturally fluffy. She slid her arms around his neck and snuggled into his body, and they fit together like two puzzle pieces. She sighed when she felt his reaction to her attention, and he put his arms around her back as she put her head on his shoulder.
+
+“Jhulune.” Ren sighed. “I've got... well, a few women that require my attention.”
+
+Jhulune put a gentle kiss on his neck. “I know.” She said. “Nathalia at the restaurant. Anabelle at the shop. Donna at the mansion. Rosie at the Library.” She whispered. “So many women that want to be with you.”
+
+“I haven't slept with Rosie.” Ren said. “I'm pretty sure she wants me to, though.”
+
+Jhulune kissed his neck again. “Why are you so desirable?” She asked and started to suck on his neck. Ren closed his eyes and let the sensation of her lips on his skin fill his perception.
+
+“It's my Prince Charming title.” Ren whispered, and started to massage her back. “Some women will see me as the perfect man.”
+
+“I don't believe it.” Jhulune whispered when she stopped sucking and lifted her head from his shoulder to face him. “I met you long before you had that title.”
+
+Ren thought back, and his eyes widened. He'd met Jhulune when he'd bought the warehouse from Sally, and Jhulune had worked on it with Jen and the lumberyard crew. He hadn't gotten the Prince Charming title until he had been in the dwarf lands for a while.
+
+“I've liked you since all the way back then.” Jhulune smiled. “Before you were so strong and rich.” She said and stroked the spot she had sucked on. There was now a large red welt in the shape of her mouth on his skin. “You've always been with someone, so I knew I wouldn't have a chance with you.”
+
+“Jhulune...”
+
+“It's all right.” Jhulune said and kissed him on the lips. Ren gave himself over to the feeling and kissed her back. She broke the kiss a few moments later and looked at him in the eyes. “I resigned myself to only hoping, to only...”
+
+“Shh.” Ren said. “You don't have to explain.”
+
+“Yes, I do.” Jhulune said. “After what happened with Brian, and then what you did for me afterwards...” She gave him another kiss. “I knew I wanted to share myself with you.”
+
+“Jhulune...”
+
+“I don't care if it will only happen one time.” Jhulune said. “One time will be enough.” She said. “I know it will.”
+
+“I agreed a long time ago that I would do this.” Ren said. “I just wanted to let you know that I didn't forget about you... not in all this time.”
+
+“All this time?” Jhulune asked. “Ren... what do you mean?”
+
+“I can't really explain.” Ren said. “What I can say is that it was Adventurer's business, and I was away for a very long time.”
+
+“I... okay, I won't ask you about it.” Jhulune said. “I'm really glad you're back.”
+
+“I hope you can still say that after tomorrow night.” Ren said.
+
+“T-tomorrow night?” Jhulune asked, and Ren nodded.
+
+“I've made you wait for far too long for this to happen.” Ren said. “I'll make good on my promise with you tomorrow night. Would you like to join me for supper at Nathalia's Nourishment?”
+
+“Wh-what?” Jhulune said, surprised. “We... we're not just... you know... gonna do it?”
+
+Ren gave her a quick kiss. “I'd like to take you out for dinner first, if that's okay?”
+
+“I...” Jhulune nodded. “I'd like that very much.”
+
+“Then I'll see you tomorrow night, just before supper.” Ren said, and let her out of the tight embrace he had her in. “Shall I walk you back...”
+
+“No, thank you.” Jhulune said and stepped out of the tent with a big smile on her face. “I'm pretty sure I can find my way back down the street.”
+
+Ren chuckled and stored the tent. “Oh, before you go...” He took out one of the 100 blank gold rings he had in inventory and enchanted it into a Strong Ring of Storage. It gave her 50 slots of storage and +40 Strength. “I want you to have this.”
+
+“Wh-what?!?” Jhulune exclaimed and looked at the ring, and her heart beat faster than it ever had before. “What... what...”
+
+“I saw you struggle while you unloaded the cart of supplies.” Ren said. “This should help you with that.”
+
+Jhulune held her hand out and Ren slipped it on her finger.
+
+“Please, accept this ring as a sign of our friendship.” Ren said, just so she wouldn't mistake it for anything else, and he heard her sigh in relief.
+
+“Good god, you scared me!” Jhulune said and laughed. “I'm too young to get married.”
+
+Ren laughed, too. “Bye, Jhulune.”
+
+*
+
+“Bye, Ren.” Jhulune said and watched Ren walk around the building and disappear. Jhulune hugged her arms around herself because they ached to wrap around his neck again. It felt so right to have them there. She thought and rubbed her hands over her arms. What's it going to be like to... to... She shivered in anticipation. I can't wait!

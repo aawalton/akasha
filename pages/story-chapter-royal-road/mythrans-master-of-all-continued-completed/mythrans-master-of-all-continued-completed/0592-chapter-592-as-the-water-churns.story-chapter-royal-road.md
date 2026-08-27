@@ -1,0 +1,213 @@
+---
+id: 6f7d2851-ae9d-5ab7-8d1a-e6b9fcdc7a1c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 592 - As The Water Churns"
+slug: 0592-chapter-592-as-the-water-churns
+partOf: mythrans-master-of-all-continued-completed
+position: 592
+ownLength: 2479
+unit: words
+publishedAt: 2018-05-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217245/chapter-592-as-the-water-churns"
+royalRoadId: "217245"
+---
+
+Ren told Anabelle that he was going down to the docks to check on that woman, and left the shop with Artemis. It was almost a straight walk over to one of the East Gates that led to the docks, so Ren didn't bother running through the air. Townspeople greeted him as he passed, and he greeted them back. He could feel their curiosity about him and he wondered what was making them feel that way.
+
+“You are a king instead of a lord now.” Teepo said.
+
+Maybe. Ren thought.
+
+“Your Aura is huge, too.” Artemis said. “Of course, you're leaving them on all the time, so a lot of people can feel you coming, even the ones that normally can't or choose not to.”
+
+They're waiting until I'm too far away to whisper. Ren thought. I can't hear what they are saying about me.
+
+“Want me to fly over and listen?” Teepo asked.
+
+No, I think we should stay close together. Ren said. We need to be a lot more careful of you know what.
+
+“Yeah, I have a feeling something is brewing.” Teepo said. “Maybe this is a symptom of that?”
+
+That's always possible. Ren said, and stopped walking. He had felt a strong Void Presence near the edge of his Aura.
+
+“I'll check it out.” Artemis said and flew up into the air. It looks like it's in an alleyway two streets over.
+
+What is it?
+
+A large dark shadow. Artemis thought to him. They knew what large dark shadows could contain, so Ren ran over to the spot as Artemis flew over to it. Once Ren had his eyes on it, he activated his Light runes and Anti-void runes in his armor.
+
+“AahhhhhHHH!!!!” A blood curdling scream echoed as the shadow collapsed in on itself, then a slightly deformed hand and a twisted foot landed on the ground where the shadow was.
+
+Notice!
+
+Good Work! You have repelled an attack by a Void empowered creature and caused mortal wounds to it. It may survive the damage, but the prospects of that are low.
+
+Rewards: 1,250 XP
+
+Void Bane (Title) Bonus: 1,000 XP
+
+Ren looked at the hand and foot and used Identify on them, and all it said was what they were. Severed parts. “Now I'm wondering if I should keep them and try to loot them when the creature dies.”
+
+“I don't think so.” Teepo said. “You could be carrying them around for a long time, especially if it gets healing from somewhere.”
+
+“Yeah, that's true.” Ren said and activated his Hands of the Gods ability. He chose Rocky Hands for the Earth element and formed a fire pit under the pieces. He then chose Burning Hands and used the Fire element and his Fire Manipulation ability to roast the hand and foot to ashes. He added a bit of water to stop the ash from blowing around, then covered the small pit with earth.
+
+“I'm not sure going that far was necessary; but, I have to agree that you don't want to leave things like that just lying around.” Artemis said as she landed beside him.
+
+“It's better to be safe than sorry.” Ren said, and they walked back to the street that the closest East Gate was on. There were a few soldiers at the gate and they looked him and Artemis over with a scrutinizing eye. They didn't say anything as Ren and Artemis passed, however.
+
+“I think I see her.” Teepo said when they arrived at the docks. “On the left, 200 feet down the dock and in front of that fish stand.”
+
+Ren saw her and walked down the dock. He easily avoided the townspeople, sailors, and workers as he approached her, and he saw that the All-Seeing Mirror had captured her dishevelled state perfectly.
+
+“Ma'am? Can I talk to you?” Ren asked.
+
+It startled the poor woman and she visibly trembled, then her sword swung towards him automatically. Artemis was suddenly there and easily caught the sword and held it, and the woman stared at her metallic red hair.
+
+“Ma'am?” Ren said again and took out a chair, then sat down in front of her to get her attention. “I want you to tell me your story.”
+
+The woman looked from Artemis to Ren and tried to pull on the sword, but it didn't move. She looked back at Artemis and pulled again, to no avail. The woman sighed and let the sword handle go and looked at Ren.
+
+“It's not a story.” She said, a little too calmly. “It's a tragedy that's befallen my family, and I am seeking justice for my husband.”
+
+“Please tell me what happened.” Ren said and tried to take her hand. She pulled her hand away before he could and clutched it to her chest.
+
+“You should already know, I think.” She said and her eyes darted to Artemis, then back to Ren. “You're one of them.”
+
+Ren felt her derision and was surprised. It was rare for anyone to instantly dislike him. “One of who?”
+
+The woman lifted her hand and pointed. Ren and Artemis looked to where she indicated and saw nothing but open water.
+
+“That doesn't clarify...”
+
+“You're a Sea Dweller.” The woman said, and Ren looked back at her.
+
+“Excuse me?”
+
+“You look human, but you're one of them somehow.” She said. “Is it a Polymorph spell or something? Why would you make yourself so short?”
+
+Ren blinked his eyes at her for several moments, then stood up. “I'll be right back.” He said, then ran up into the sky. The woman watched him in fascination, as did a lot of the other people on the docks. He stopped when he was several hundred feet up and Artemis flew up beside him.
+
+“What is it?” Artemis asked. She still had the woman's sword in her hand.
+
+“I think it's time I looked at the popups I received when we came back from the Water Realm.” Ren said and opened them.
+
+System Notice!
+
+You have inadvertently heralded in a new age for the Water Realm. The influx of new Royal citizens has increased their population potential by 250% and has diversified the gene pool exponentially. This in combination with the 1,200% mine efficiency increase you provided, as well as a restless Guardian Construct that never needs to be repaired or replaced, has given them opportunities unheard of in previous generations.
+
+Notice!
+
+Your actions have benefited the Water Realm even more than you had anticipated. Your Waterkin title and Waterkin Aura have been upgraded. While in or near water or water-based environments, all XP gains are doubled.
+
+Sea Dweller (Honorary) Title: Grants Water Manipulation Skill, Water Conversion Ability, and Sea Dweller (Aura)
+
+Sea Dweller Aura (Mastered) - All beings recognize you as one of the Sea Dwellers and will treat you accordingly. Current Distance: 50 foot radius (Land) 100 foot radius (Water). Will combine with other Auras to increase in strength and distance.
+
+Notice!
+
+Trouble Recipe ingredient: 'Water Realm' has been completed.
+
+“Well, damn.” Ren said. “Now what do I do?”
+
+“Well, I'd suggest turning the Aura part off.” Teepo said. “Maybe she'll be more forthcoming.”
+
+Ren shook his head. “It's too late for that now.”
+
+“What do you mean?” Artemis asked.
+
+“I've already covered most of the city with my Aura by running around.” Ren said and sighed. “Now I know what they were whispering behind my back.”
+
+“Crap.” Teepo said, and Ren chuckled.
+
+“Yeah, even if I turn it off, they already know I had it and it'll spread quickly that I'm trying to hide it if I turn it off now.”
+
+“So, you're damned if you do and damned if you don't.” Teepo said. “If changing it won't make a difference, then we should just ignore it and keep going like we normally would.”
+
+“Sounds good to me.” Ren said. “Artemis?”
+
+“I've always got your back, even if you smell like fish.”
+
+Teepo chittered in laughter and Ren laughed.
+
+“Forward and onward, then.” Ren said, and ran back down to the dock and came to a stop in front of the woman. He sat in the chair he had left in front of her and smiled. “Apparently you're right, and I am considered a Sea Dweller.” He said and waved to Artemis. “Give her the sword back.”
+
+Artemis handed it back to the surprised woman without a word of protest.
+
+“Please accept my apologies for what happened with your husband.” Ren said sincerely. “If you remind me of the story, perhaps I can help.”
+
+“Why would you go against your own kind?” The woman asked.
+
+“I don't like having innocents hurt for no reason.” Ren said, and that placated the woman. “Please, tell me.”
+
+The woman took in a deep breath, then told him about her husband. He was a sailor for one of the big shipping companies, and had a well-paying job as a deckhand. Then out of the blue, Sea Dwellers came out of the water and warned them to change course or they would regret it. The captain didn't think anything of it and continued on... then the ship popped out of the water like a cork.
+
+Ren nodded as she described that a ship was designed to sit in the water, and when it wasn't in the water anymore, it tilted onto the side and kept going because of the momentum it had. Unfortunately, several of the deckhands were working at the time, and went right overboard. Ren sighed when she said the Sea Dwellers told the captain that they would keep his crew members until the captain decided to change course.
+
+“Of course, the captain and some of the crew are still there with the ship.” The woman said. “Several members hopped into a small boat and tried to row back to shore. They were lucky that another ship happened by and picked them up instead.”
+
+“They came back and shared their story?” Ren asked, and she nodded.
+
+“The Sea Dwellers took my husband, and they are coming for the rest of us!” She exclaimed and waved her sword around. “I won't let them take me, too!”
+
+New Quest!
+
+Investigate the case of the missing crewmen and try to find out what really happened. No time limit has been set for this quest.
+
+Rewards: ????
+
+Penalty for Failure: None
+
+“Thank you for telling me what happened.” Ren said and stood up, then stored the chair. “You wouldn't happen to know where those crew members are?”
+
+The woman pointed down the dock to a seedy dockside bar that wasn't there before. “You'll find them telling it in there.” She said. “I'll warn you, though. People have been buying them drinks since yesterday to hear the story.”
+
+Ren sighed. “I understand.” He said. “Ma'am, can I help you in any other way? Fix your clothing? Bring you something to eat?”
+
+“A nice meal would be good.” The woman said. “Thank you.”
+
+Ren ran off the dock and stopped in the street, then took out his shop tower. People gasped at the 20 foot by 20 foot tower that was blocking the street, and Ren went inside to make several meals. He came back out several minutes later and stored the tower, then ran back onto the docks and over to her.
+
+“Enjoy.” Ren said and gave her a large plate of meat and vegetables, and she stared at the pile of food. “I'll find out what else I can from the sailors, and let you know if I discover anything different.”
+
+“Th-thank you.” The woman said and took the plate of food. She sniffed it and chose a piece of meat, then took a small bite out of it. Her eyes lit up and her back straightened, and her shivering eased slightly.
+
+Ren and Artemis left her and walked down the docks to the new bar. They saw it was run down and had seen better days.
+
+It can't have seen better days, since it wasn't here before. Ren thought in amusement, then he entered the bar. The smell of stale ale and dirty drunks filled his nostrils, so he stepped back out for fresh air. He made a Non-Necklace of Wisdom and added the Necklace of Air enchantment to it, and put it on.
+
+Ren was surrounded by a layer of fresh air and went back inside the bar. He smiled because he couldn't smell the awful smell anymore, and walked over to the bartender. He was a grizzled old man in a captain's hat, and he sneered at Ren.
+
+“What can I getcha?”
+
+Ren took out a silver coin and held it up. “You can point me to the sailors telling the story about the Sea Dwellers.”
+
+“Are ya coming fer revenge?” The bartender asked. “If ya are, I ain't telling ya nothing.”
+
+“No, I want to find out what I can about the missing crewmen.”
+
+The bartender took the coin and pointed to a booth at the back of the bar. “You'll find them passed out over there.” He said. “They've been drinking free ale since yesterday.”
+
+“Thanks.” Ren said and walked over to the booth. He was disgusted by the looks of them and was really grateful for the fresh air enchantment. He took out a Minor Healing wand and used it on both men, which sobered them up instantly.
+
+“Wh-what? What happened?” One of them said and lifted his head to look around. “I don't feel drunk anymore.”
+
+“Me, either.” The other man said.
+
+The two men sat up and tried to straighten their clothing without standing up, then they shrugged after giving up the fruitless gesture and looked at Ren.
+
+“What do you want?” One of them asked.
+
+“I want to hear your story.” Ren said.
+
+“Sorry, kid.” He said. “I'm not drunk enough to tell it.”
+
+“I am not going to sit here for hours and wait for that.” Ren said.
+
+“Then you're out of luck.” The other guy said. “Bartender! Give us another ale! The kid's paying!”
+
+Ren looked at the bartender and made a fist. The bartender shrugged and Ren nodded to him, then turned to the two men. “It seems the bartender doesn't mind me messing up the place.” He smiled and punched the table.
+
+The table splintered and splashed wood chips all over the two men, who yelled that they were being attacked again. Ren reached out and grabbed both men by the collar. They tried to fight and get out of his grip, and when that didn't work, they stared at Ren with wide eyes as he easily lifted them out of the booth and up into the air.
+
+“Now, before I lose my temper, you better tell me what happened on the ship.” Ren said and grinned as they both started to talk and tell him everything he wanted to know.

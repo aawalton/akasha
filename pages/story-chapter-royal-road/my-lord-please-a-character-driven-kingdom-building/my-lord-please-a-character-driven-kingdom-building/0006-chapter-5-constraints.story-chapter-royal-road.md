@@ -1,0 +1,309 @@
+---
+id: 4c0a5f26-da0d-51a6-a882-78bb14c2cf41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 Constraints"
+slug: 0006-chapter-5-constraints
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 6
+ownLength: 2626
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3192942/chapter-5-constraints"
+royalRoadId: "3192942"
+---
+
+As Lucien continued to pore over what little agricultural record the territory possessed, the grim reality of a frontier holding began to settle in more fully.
+
+Ashridge practiced a three field rotation system.
+
+At first, a grin surfaced before he could stop it. It was reflexive, almost nostalgic.
+
+Here was something familiar. At last, a problem that could be solved.
+
+Countless stories he had read followed this exact pattern. The transmigrated protagonist arrives in a technologically inferior world, introduces a method half remembered from novels or trivia, and neatly resolves an immediate crisis.
+
+Three fields meant he could introduce four. Higher yields. Better soil recovery. A clean, elegant improvement.
+
+For a brief moment, it felt like a victory.
+
+As he continued to read on, the grin he had in the beginning started to fade.
+
+The denizens of this world were not ignorant.
+
+The four field rotation system already existed. Not as theory, not as an experimental curiosity, but as common practice within the heartlands of Arcencia. In territories closer to the capital, where land endured and settlements expected to survive beyond a single generation.
+
+Lucien leaned back slightly, exhaling through his nose.
+
+He suspected there was a reason Ashridge did not follow the same method, one rooted less in ignorance and more in necessity.
+
+Ashridge had existed for twenty years.
+
+It had a name. Its Lordly Seat came with a humble manor. That alone set it apart from many frontier settlements.
+
+Only after reading further did he realize how rare that truly was.
+
+The longest surviving frontier village on record within Arcencia’s borders had endured for fifty years. Even to him, that sounded less like a lifespan and more like a countdown.
+
+Names had always mattered, whether in his former world or the current one.
+
+Only now did the meaning of this village’s name truly sink in.
+
+Ashridge.
+
+A name born of residue, carrying the quiet promise of disappearance.
+
+And now, it was his to govern.
+
+The people here lived hard lives. That much was undeniable. But he could no longer mistake hardship for ignorance. Just because this world lacked the conveniences and technologies he once took for granted did not mean its people were incapable of understanding progress.
+
+They were practical.
+
+They did not adopt the four field system because they could not be certain Ashridge would still exist long enough to benefit from it.
+
+Why invest in long term yield when survival itself was uncertain?
+
+The realization sat heavy in his chest.
+
+It was not all bleak, however.
+
+At the very least, he would not need to convince the villagers of the system’s validity. The method was proven. It was practiced elsewhere in the kingdom. If anything, adopting it would signal confidence.
+
+A declaration that their lord believed Ashridge would endure.
+
+In a frontier where settlements vanished with unsettling regularity, that belief alone might lift spirits. A four field system was not merely an agricultural choice. It was a statement of intent. A claim of permanence.
+
+‘Or,’ he acknowledged dryly, ‘They might simply see it as reckless overconfidence from yet another doomed lord.’
+
+Either way, it was not a decision he could afford to rush.
+
+Before any long term reform, there were more immediate concerns.
+
+The Beast Tithes.
+
+If Ashridge did not survive the coming winter intact, discussions of crop rotation would be meaningless. The first and most critical task was ensuring the village endured the crisis ahead with as few lives lost as possible and minimal damage sustained.
+
+Competence bred trust.
+
+He knew this well. People were remarkably forgiving of odd behaviour so long as results followed.
+
+His own world had no shortage of brilliant, eccentric individuals whose flaws were overlooked because they delivered outcomes no one else could.
+
+Lucien did not consider himself a genius.
+
+But he did possess experience. Perspective. Knowledge of systems that worked, if applied carefully and adapted properly.
+
+That would have to be enough.
+
+First, he would need to perform. To prove himself during the coming crisis. Only then would he earn the space to experiment, to reform, to introduce changes that might otherwise be resisted.
+
+Beyond that lay logistics.
+
+His treasury. His available reserves. What resources he could afford to divert without risking collapse.
+
+What tools the farmers currently used. What seeds were available. What would need to be purchased, imported, or produced locally.
+
+Every change he wished to enact would come from his own coffers.
+
+The villagers would never accept reforms that demanded they shoulder the cost and risk alone. Nor should they. Any failure would fall squarely on his shoulders, as it should.
+
+He frowned slightly, rubbing at his temple.
+
+‘In the end, money still ruled all things,’ he noted dryly to himself.
+
+In this world and in the one he had left behind.
+
+The difference was that here, failure did not mean bankruptcy or disgrace.
+
+It meant starvation.
+
+And he would see that it never came to that.
+
+Lucien, or Leon as he would have been known in his former life, had been a software engineer.
+
+It was not a particularly glamorous profession, nor had it been one that drew much attention outside of its own circles. He had not worked for any of the titanic corporations that dominated headlines, nor had he been involved in projects that reshaped the world overnight.
+
+His days had been filled instead with quiet problem solving, lines of logic written in languages this world could never hope to comprehend.
+
+Languages that spoke not to people, but to machines.
+
+Here, that knowledge was worthless.
+
+There were no computers. No circuits. No servers humming quietly in temperature controlled rooms. There was no code to debug, no abstract systems to optimize with keystrokes and coffee fuelled persistence.
+
+And yet, as Lucien sat hunched over ledgers and parchments in the fading light of his study, he could not shake the feeling that he was still very much an engineer.
+
+Not in profession, perhaps, but in disposition.
+
+Once again, he was tasked with understanding a system. Once again, he was faced with incomplete data, inefficiencies, edge cases, and looming failure states. The scale had changed. The medium had changed.
+
+The consequences had not.
+
+It was true that being a mechanical engineer might have served him better here. Or a civil engineer. Someone who understood structures, levers, metallurgy. Someone whose skills translated more directly into the physical world of timber, stone, and iron.
+
+But he still possessed the mindset.
+
+Rigid logic. Structured thinking. The habit of breaking impossible problems into smaller, survivable pieces. The discipline of seeking root causes rather than treating symptoms.
+
+And if he allowed himself a moment of uncharacteristic pride, he had been good at it.
+
+Objectivity had been his strength. Identifying goals, constraints, and the paths that lay between them. Designing solutions that were not elegant, but functional.
+
+Where he had always struggled, however, was not the work itself.
+
+It was people.
+
+Delegation. Communication. Trust.
+
+Those were skills he had learned poorly in his former life, and he suspected this world would be far less forgiving of such deficiencies.
+
+“You asked to see the previous lord’s ledgers, My Lord?” Elias’s voice cut gently through his concentration.
+
+Lucien blinked, his eyes still tracing the neat columns of last year’s harvest yields. He had not heard the man enter.
+
+“Yes,” he replied absently. “Put them somewhere there.”
+
+He waved vaguely toward a portion of the table that had long since lost any claim to organization.
+
+Elias complied without comment, his movements quiet and unobtrusive, as though it were second nature to leave no impression unless invited to do so.
+
+The soft rustle of parchment followed as the documents were placed precisely, not atop the most chaotic pile, but adjacent to it. Close enough to be reachable, far enough to avoid disrupting Lucien’s current work.
+
+His eyes continued to scan the records even as his mind raced ahead.
+
+Certain farms consistently outperformed others. Soil composition varied. Labour distribution differed subtly. Methods that worked for one family did not always translate cleanly to another, but patterns existed.
+
+If he could isolate those patterns, standardize them, adapt them…
+
+A polite cough sounded behind him.
+
+Lucien stiffened slightly, only then realizing that Elias was still present.
+
+The man had a talent for absence that bordered on the supernatural. Years of standing quietly in rooms where nobles argued, schemed, and forgot servants existed had refined that skill to an art.
+
+“My Lord,” Elias asked carefully, “perhaps I could be of some service?”
+
+The phrasing itself was tentative.
+
+Lucien turned in his chair, studying him.
+
+Elias stood with his usual impeccable posture, hands folded neatly before him. His expression was composed, but Lucien detected a trace of uncertainty there. Not fear, exactly. More like unfamiliarity.
+
+This was a man accustomed to receiving tasks, not requesting them.
+
+Lucien knew that instinctively, drawn from the fragmented memories of the body he inhabited. Elias had served Lucien’s father for decades. Orders had always flowed one way.
+
+Now, that flow was uncertain.
+
+Lucien hesitated.
+
+It struck him then how strange it was that he felt more at ease speaking with Alicia than with the man who had served his family since before he could walk.
+
+Stranger still, he felt more comfortable with Dorian, whose blunt honesty and martial worldview were as far removed from his former life as possible.
+
+In the end, it came down to trust, something he found himself withholding even as he knew how necessary it was.
+
+And if he was honest, the fault for that distance lay not with Elias, but with himself, and the uneasy truth of the life he had inherited.
+
+Elias had known the original Lucien well enough to recognize patterns, to remember habits and moods, to understand his failings, and that depth of familiarity made Lucien cautious.
+
+He was aware the feeling was irrational. Avoidance would solve nothing. In fact, it would only deepen suspicion.
+
+No matter how carefully he mimicked what little he understood of the former Lucien’s behavior, Elias would notice differences. Pretending could only carry him so far, and he had never been skilled at it.
+
+After all, even in the short time he had spent observing the man, it was clear that Elias was anything but foolish.
+
+And the most compelling reason to change his approach was simple.
+
+He had no choice.
+
+Lucien might not have possessed much experience as a leader in his former life, but even he understood the fundamentals. A leader needed a measure of implicit trust with those closest to him, or any grand design he harbored would collapse long before it could be realized.
+
+Plans built in isolation were fragile things.
+
+And so, he chose to ease his caution, if only slightly.
+
+Not to abandon it entirely, but to set it aside long enough to speak plainly, to begin delegating some portion of the growing burden he had taken upon himself.
+
+If Elias harboured any suspicions, Lucien decided he would leave that problem to his future self.
+
+Right now, he simply did not have the capacity to worry about it. His thoughts were already stretched thin, pulled between numbers, looming threats, and responsibilities he was still learning how to shoulder. If cracks formed in his composure, he would deal with them later.
+
+“My Lord?”
+
+Elias’s voice cut through the silence, cautious but steady.
+
+Lucien realized only then how long he had been quiet. He straightened slightly, letting the weight of his thoughts settle before answering.
+
+“How fares our current treasury?” he asked, deliberately sidestepping the pause.
+
+“Yes, My Lord.” Elias answered without hesitation. “After the most recent Autumn levy was collected, a standard harvest year by all accounts, Ashridge’s treasury currently holds two hundred and fifty Arde. This is after all necessary expenses have been deducted.”
+
+As he spoke, Elias lifted one of the parchments he had brought, glancing over it briefly before returning it to its place.
+
+Lucien frowned. “That is lower than I expected,” he said after a moment. “Considering the village earns roughly seventy five Arde per year.”
+
+Elias inclined his head. “It cannot be helped. Though Ashridge has endured longer than most frontier settlements, grain production still fluctuates greatly. The yearly Beast Tithes take a heavy toll, both in labour and in damaged land.”
+
+Of course they did.
+
+Once again, winter reared its head.
+
+Ashridge’s twenty years of existence, Lucien reflected grimly, was already considered impressive by frontier standards. That fact alone was unsettling.
+
+“There is another matter,” Elias continued evenly, though not without a brief pause.
+
+Lucien looked up.
+
+“Your predecessor,” Elias said carefully, “was...liberal with the treasury upon his departure.”
+
+He stiffened. “You mean he skimmed gold.”
+
+“Skimming may be too strong a word,” Elias replied quickly. “It is not uncommon for nobles to take a portion upon leaving their holdings, particularly in frontier regions such as Ashridge.”
+
+Lucien’s expression darkened.
+
+“What I mean,” Elias clarified, his tone growing drier, “is that the former lord took an advance upon learning of your appointment. A departure bonus, of sorts.”
+
+He stared at him. “...Is that not a crime?” he asked slowly. “I cannot imagine a lord being permitted to simply take what he wishes from a territory upon leaving it.”
+
+“Ordinarily, it would not be,” Elias said. “Especially not so openly. However...after your father’s crimes were exposed, there was little appetite at court to examine matters tied to this appointment too closely.”
+
+Lucien drew a slow breath through his nose. “And I suppose it would be unwise of me to complain to the Crown,” he added dryly, “given the nature of my family’s recent history.”
+
+Elias did not respond.
+
+He resisted the urge to sigh, part of him wanted some acknowledgment, some small sign that he was not the only one feeling the weight of the conversation. But Elias remained silent, professional as ever, his composure unbroken.
+
+“Well,” he said after a moment, breaking the tension himself, “let us move on.”
+
+He paused briefly before continuing. “What of my family’s personal funds? What was brought with us from the capital?” He shifted the subject deliberately, hoping to ease the heaviness that had settled over the room.
+
+It was not an unreasonable expectation. His fragmented memories painted his family as old court nobles, beneficiaries of generations of service to the Crown. Some measure of wealth should have survived the fall.
+
+Elias’s expression tightened.
+
+Lucien’s expectations sank.
+
+“Your personal funds amount to one hundred Arde, My Lord,” Elias said gently.
+
+The number struck with dull finality.
+
+He leaned back in his chair, fingers lacing together, his expression carefully controlled. Disappointment flickered across his thoughts, quickly followed by a sharper edge of bitterness that he forced himself to bury.
+
+Elias looked as though he would rather be anywhere else. He could hardly fault him for that. No subordinate relished delivering bad news, especially when it came wrapped in implication and history.
+
+“I assume,” Lucien said lightly, “that this too is related to my father’s actions.”
+
+“Yes, My Lord,” Elias replied, a hint of relief slipping into his voice, a rare fracture in his otherwise composed demeanor.
+
+“I see.”
+
+Lucien’s gaze drifted to the ledgers scattered across his desk, their neat columns and cold figures offering no comfort.
+
+“Well then, Elias,” he said, his tone easy despite the circumstances, “it seems we have a fair amount of work ahead of us, cleaning up someone else’s mess.” Whether he meant the former lord of Ashridge or his own father, he left unspoken.
+
+At the very least, some small inroad had been made with his distant, meticulously polite steward. Elias, for all his restraint, was competent, and competence was a rare and valuable thing in a place like this.
+
+Lucien settled back into his chair.
+
+He was going to need all the help he could get.

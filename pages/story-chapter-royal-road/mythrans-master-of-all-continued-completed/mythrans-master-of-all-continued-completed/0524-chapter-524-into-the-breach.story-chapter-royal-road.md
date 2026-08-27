@@ -1,0 +1,209 @@
+---
+id: 50778a50-9c36-5e4e-952e-f612ce6cf21b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 524 - Into The Breach"
+slug: 0524-chapter-524-into-the-breach
+partOf: mythrans-master-of-all-continued-completed
+position: 524
+ownLength: 2580
+unit: words
+publishedAt: 2018-02-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197533/chapter-524-into-the-breach"
+royalRoadId: "197533"
+---
+
+“Okay, you lot.” The platoon captain said to a small group of guys after his unit had deployed the first moat-crossing bridge. “Do your job.”
+
+The small group of Adventurers nodded and stepped out of the troop's formation. The fighter pat their powerful magic user on the back.
+
+“Go for it, Dennis.”
+
+“Are you sure about this, Chris?” Dennis asked. “Doesn't this seem a little off to you?”
+
+“Hey, who are we to decide who's right and who's wrong in a land dispute?” Chris asked. “We're being paid a lot of money to bring part of that wall down, so go do it.”
+
+“It's just that... he must have paid a lot of money to build that thing...”
+
+“So what? It's not our fault he wasted his money.” Chris said. “Make us proud.”
+
+Dennis nodded and stepped ahead of the group. Since he was a magic user, he didn't carry any weapons openly or wear protective armor. He always felt sorely unprotected when they went on quests. His party kept their promise and protected him, more than he thought they would, even at their own detriment. They had told him a magic user was the most important part of the party, so he had chosen that class for them.
+
+Dennis walked across the moat-crossing bridge, and he could swear the 24 foot tall muscle men designs on the walls were looking at him. He instinctively held his hands out in a submissive gesture, and the prickling feeling he had on the back of his neck eased. He made it across the moat and stood about 10 feet away from one of the muscle men designs that he now saw was actually half of a statue.
+
+Dennis has seen the wall was covered in a magic shimmer, so he knew it was protected by a spell of some kind. With his hands still up in a submissive gesture, he cast Dispel Magic. A 40 foot wide section of the wall stopped glowing, as did three of the statues in front of him. He turned to the right and cast the spell, then turned to the left and cast it again. He had cleared 120 feet of the wall and unknowingly disabled 6 more statues, for a total of 9.
+
+Dennis looked back at the wall and saw it still had a magic shimmer, so he cast Dispel Magic again. A section of the Iron Wall disappeared to reveal the solid dirt wall underneath.
+
+Geezus Cripes! Dennis thought, shocked. He looked to the right and then to the left. The wall itself is cast with spells!
+
+With that knowledge, Dennis knew that this barrier would be no match to any seasoned magic user or anyone with a special, and probably very expensive, spell scroll like the one he had. He took out the scroll from his inventory and unrolled it, then started to read. He felt a ripple in the magic nearby, then no less than 2 dozen of the closest 24 foot tall statues stepped away from the wall and drew their swords.
+
+“Hurry up and Fire!” Chris said to the troops behind him, and hundreds of arrows pelted the animated statues. Of course, this got their attention and the attention of another 40 statues on that part of the wall. Dennis didn't stop reading, because Chris had told him to keep going no matter what happened. When he was done, a wide cone of Disintegration emanated out from him and carved a huge 80 foot wide swath through the exposed wall and destroyed 6 of the statues he had already disabled. He stared at the destruction he had unleashed, then turned to look at his party.
+
+“Don't just stand there!” Chris said and dodged a huge metal blade. “Give us a hand!”
+
+“Right!” Dennis said and started to cast Dispel Magic on the statues. It was burning through his Mana quickly, but the statues were so big that he was hitting two and three of them with each spell. Most fell over because they were in mid-stride or mid-swing, and then the other animated statues saw their fellow's fall. When they realized that Dennis was the biggest danger to the county, they turned almost as one towards him.
+
+“AHHH!” Dennis yelled. “HELP!”
+
+“Don't be stupid! Keep casting!” Chris said and tried to trip the closest statue with a spear. It broke under the pressure and the 24 foot tall statue almost stepped on him.
+
+“CHRIS!” Dennis yelled.
+
+“Hail Mary!” Chris said and started to run away. “Do your Hail Mary!”
+
+“Dammit.” Dennis said, because he always hated this part. He quickly ran around to get as many of the statues after him as possible, then curled up into a ball and came to a stop.
+
+“GET BACK!” Chris yelled just in time, because one of the swords of the animated statues swung down towards Dennis. There was a blinding light for a moment, and then everything went silent. Dennis felt a hand on his shoulder, so he uncurled from the ball and looked up at his party.
+
+“See? I told you the magic user was the important part of the party.” Chris said, and helped Dennis stand up. There were cheers and hollers from the troops around them, because all of the statues had been petrified and turned to stone. The troops deployed more moat-crossing bridges and started to cross them to enter the now completely undefended breach in the county's wall.
+
+“Did you copy that spell scroll Lord Grasham gave you?” One of the others asked.
+
+“Of course.” Dennis said. “I used my special ability to store it in my spell book.”
+
+“Sweet.” Chris said as Lord Grasham's troops poured through the breached wall. “We're going to have a much easier time with a lot of things with that spell at our disposal.”
+
+“Yeah.” Dennis said and looked at the 80 foot hole he had made in the wall and all of the frozen animated statues. “Easy.”
+
+Chris laughed and pat his shoulder. “Don't worry, we won't have to do things like this again for a while.” He said. “The money we're getting for this is crazy.”
+
+“Good work.” The platoon captain said as he walked over to the group of Adventurers they had hired. He took out a large bag of gold and held it out. “You definitely earned this and the extra bonus inside.”
+
+“Thank you.” Chris said as he accepted the gold. The platoon captain ran to catch up with his troops and the party of Adventurers received a popup.
+
+Quest Complete!
+
+You have fulfilled (and exceeded) the terms of the quest: Breached Barrier
+
+You have given access for Lord Grasham's troops to attempt to seize control of Lord Ren's only legal land holding within the Human Kingdom. If successful, it will remove any validity of the Hero of Aurora's claim that Lord Grasham's activities were illegal.
+
+Rewards: 5,000 gold coins; Restricted spell (Disintegration - Advanced); +5,000 Infamy
+
+Bonuses: 1,000 gold, Lord Grasham's Favor.
+
+Fame Bonus: Negated
+
+Notice!
+
+You have gained Infamy that is much greater than your current Fame value. Your status has changed from Liked (Fame 500) to Despised (Infamy 4,500).
+
+“What? NO!” Dennis yelled. “What... what did we do?”
+
+“Something really bad, apparently.” Chris said and looked at the other party members. “Guys, I'm sorry. I didn't know...”
+
+“Yeah, you just saw the money.” One of the others said. “I'd ask to see the quest, but I know they usually leave extra stuff like that as just x's.”
+
+“Yeah.” Chris said, sadly. “I guess they do leave it up to you to decide who's right and who's wrong.”
+
+“What do we do now?” Dennis asked. “It took us a month to gain 500 Fame as a party!” He exclaimed. “How are we going to dig out of 4,500 Infamy?!?”
+
+“One good deed at a time, I guess.” Chris said and sighed. “Or...”
+
+“No!” Dennis said. “I am not going that route!”
+
+“We could start over from scratch.” One of them suggested. “It'll suck to lose all our gear and money, though.”
+
+“We made this mistake... no, I made this mistake.” Chris said. “I'm not going to avoid the consequences. I'll play it out and see where it takes me.”
+
+“Me, too.” Another said, and looked at the other members of the party and held his hand out in the middle of the group. “So, are we doing this? The longest redemption arc ever?”
+
+“Yeah, I'm in.” Chris said and put his hand in, too.
+
+“Me, too.” Dennis said. “We'll get through it!”
+
+The other guys put their hands into the center as well.
+
+“What do we do first?” Dennis asked.
+
+“Do you still have that carrier pigeon spell?”
+
+“Good idea!” Dennis said and did a small bit of conjuring. A pigeon appeared in his hands a moment later and he held it up to his lips. “Go to Lord Ren and tell him where the breach is.”
+
+The pigeon took off quick as a flash and disappeared.
+
+“Will he know it was us that caused it in the first place?” One of them asked.
+
+“Only if we tell him.” Chris said.
+
+“Now what?” Dennis asked.
+
+“Can you undo that?” Chris asked and pointed to the petrified statues.
+
+“Nope.” Dennis said. “They aren't alive.”
+
+“Is that a prerequisite?”
+
+Dennis walked over to the closest stone statue and kicked it. The entire thing crumbled to dust in only a few seconds. “It transmutes non-living materials into stone and robs them of any enchantments.” He said. “Even if it did somehow change back, it would just be bare metal.”
+
+“That is so overpowered it's not funny.” One of the others said.
+
+“It only works on things and not people, though.” Dennis said. “Plus, it's a once a week thing.”
+
+“That works well, because we only go adventuring on the weekends anyways.” Chris said. “I'm sure when you're a higher level the time between uses will drop.”
+
+“I hope so.” Dennis said. “It's pretty much my only defensive spell.”
+
+Chris and the party of Adventurers watched as the last of the troops went through the breach in the wall. When they were far enough away, Chris turned to his party.
+
+“Now we have a choice to make.” Chris said. “Do we hightail it out of here and go somewhere well away from this mess, or do we start our redemption story right now and go in after those troops?”
+
+“There's like 10,000 of them!” Dennis exclaimed.
+
+“Yeah, I admit that's a lot.” Chris said. “They are also running away from us and exposing their vulnerable rear that has no guards and no other sources of protection.”
+
+The party members exchanged looks, and smiles spread across their faces.
+
+*
+
+Ren was about to take out the All-Seeing Mirror and ask it where the attack was going to happen, when a pigeon tapped it's beak on the window of Patty's office. He ran over and opened the window, and the pigeon hopped inside and opened it's beak.
+
+“The breach is happening 15 miles away from the front right corner of your county, between the corner and the entrance.” It said in a plain voice, then it puffed away in a small burst of pink smoke.
+
+“Oh, no! We're too late!” Patty said.
+
+“It's never too late.” Ren said and took out the All-Seeing Mirror. “Show me the breach, please.”
+
+The All-Seeing Mirror showed him an image of the breach. It was an 80 foot wide devastating hole, and he could see the remains of several animated statues through it. A small party of Adventurers stood amidst the rubble he could see.
+
+“Show me what came through it.” Ren said, and he saw the mass of troops as they reassembled into proper ranks inside the walls of his county. “How was this accomplished?”
+
+The All-Seeing Mirror showed him a copy of the scroll, and Ren sighed as he saw the Disintegrate spell.
+
+“We have to get out there before the troops hit the first farmhouse.” Ren said.
+
+Xuunah pulled her sword out of the scout, and Officer Holly tied him up.
+
+“What? What happened?” The scout asked. “Hey! Let me go!”
+
+“I'll let you go after the battle.” Ren said. “I'll even take you back to your home.”
+
+The scout looked at him with doubt in his eyes. “That's... nice of you.”
+
+“You won't think that when you see what I'm going to do to your home when I get there.” Ren said and activated his Fear Aura. “If any of my people are hurt because of you, you are going to regret it.”
+
+“Ha.” The scout said. “I already disabled your guards and knocked them unconscious, so your threat is meaningless.”
+
+Ren looked at Patty, and she nodded. He grabbed the scout by his tunic and ran from the Main House. Xuunah and Officer Holly ran after him, and Artemis flew beside him. Ren ran across the road and over to the mountain of Impenetrable Rock that covered the succubi roost, ran up into the air and in through one of the balconies.
+
+“Ren!” A succubus said as she saw him enter her living space. “What's going on?”
+
+“Our lands are being invaded, Katori.” Ren said and filled his Aura with a feeling of urgency. “By the people of the neighbouring county.”
+
+Katori's entire body stiffened as she stood up, and she was covered in a red glow. “No one is allowed to invade our lands!” She almost yelled as her Frenzy ability activated. Ren felt all of her other emotions be pushed aside and she was filled with vindictiveness and the strong urge to rip people's hearts out.
+
+“What is...” Zunala started to ask when she entered the room, then she felt Katori's Frenzy. “When do we attack?”
+
+“Right now.” Ren said as the rest of the succubi came into Katori's living space. “I was going to order their capture, since killing them should have been the last resort; but, with them flooding into my lands to take over, they leave me no choice.” He said. “I want them stopped.”
+
+“Are... are you...” Seldanna was about to ask, and Ren tossed her the scout. She caught the surprised scout easily and held him at arm's length.
+
+“You all have my permission to consume the enemy troops, and deal with them just like you did with the harpies.” Ren said, and he felt something ripple out from him and go into the succubi. They all shivered for a moment, then they all activated their Frenzy abilities at the same time.
+
+“Hold off on storming the neighbour's lands for the enemy until all of them have been dealt with inside this county's walls.” Ren said, and they nodded. “Start with him.”
+
+“Ladies.” Seldanna said, and her voice dripped with malice. “Who wants to share?” All 20 of the succubi reached out and touched the scout somewhere on his body, and they activated their specialized Emotion Siphon absorption ability. The scout was sucked dry instantly, and then all the succubi grabbed onto him and pulled. They let the 20 pieces of the body fall to the floor as they rubbed his fresh blood on their faces, and their Frenzy ability doubled in effectiveness.
+
+“You have their scent now.” Ren said, and all the succubi took flight and hovered in place. “Make them pay!”
+
+“Yes, My Lord!” The succubi said as one, and flew out through the balcony and into the sky.

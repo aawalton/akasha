@@ -1,0 +1,403 @@
+---
+id: ccb9c6cb-4564-54c7-a27f-59ab4c3e8f7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 189 - Tuned In"
+slug: 0177-chapter-189-tuned-in
+partOf: mythrans-master-of-all-continued-completed
+position: 177
+ownLength: 3991
+unit: words
+publishedAt: 2017-03-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122331/chapter-189-tuned-in"
+royalRoadId: "122331"
+---
+
+Ren slid off the VR headset and Bonnie took it from him. She looked at him with a slightly crooked smile, and he chuckled.
+
+“Yeah, I know.” Ren said. “I have to try and avoid things like that for a while.”
+
+Bonnie let her smile straighten out. “You know I don't mean the business, right?”
+
+He nodded. “Anabelle and Jhulune.”
+
+“Just Anabelle.” Bonnie said. “Jhulune is sweet and cute, and you really did help her.”
+
+“I helped Anabelle, too.” Ren said in his defense.
+
+Bonnie chuckled. “I'm pretty sure she helped herself there.”
+
+Ren opened his mouth to argue, then he remembered how Anabelle had started the whole thing. He sighed as he looked at Bonnie.
+
+“I didn't fight it too much.” He said. “I could have pushed her away, but... it... it did feel really good.”
+
+Bonnie smiled. “I think that's because in all of your physical interactions like that, you were always the one making the moves.”
+
+“Wh-what?”
+
+“It was always your decision to have sex, and what to do during it.” Bonnie said. “This time, Anabelle made that decision for you, and you went along with it.”
+
+Ren took in a deep breath, and let it out slowly. “Maybe.”
+
+“No 'maybe' about it.” Bonnie grinned. “She took control, and you let her.”
+
+Ren didn't say anything, and Bonnie put the VR headset on the dresser.
+
+“Go to the bathroom to take care of business, and I'll bring supper in.”
+
+Ren nodded and slid out of bed, then went to the bathroom. When he came out after cleaning everything up, he climbed back into the bed and Bonnie brought in a light meal. He looked at her with a question on his face.
+
+“You've got a big night ahead of you.” Bonnie said. “I don't think you want to be too full to enjoy it, or to get sleepy while watching your broadcast debut.”
+
+“You make good points.” Ren laughed. “But I reserve the right to a light snack later.”
+
+Bonnie snorted a laugh. “I'll get you a candy bar and a diet soda from the break room after the show.”
+
+“Sweet!” Ren said, and instead of digging in and gobbling down the food like he usually did, he took his time and enjoyed the flavors. “This is great!” He said between bites.
+
+“You don't have to eat so slowly.” Bonnie said and smiled. “You can eat it normally.”
+
+“No way.” Ren shook his head. “You went through all the trouble to make this look like a meal from a professional restaurant, so I'm going to savor every bite.”
+
+He put the fork full of food into his mouth, slowly drew it out, then chewed like he was a cow chewing cud. He kept his mouth closed and exaggerated the movement almost to a comical degree; then he swallowed the mouthful and smiled.
+
+“Even I don't eat that slowly.” Bonnie said and laughed. “You better hurry up, if you want to get changed before we go down to the therapy room.”
+
+“Right.” Ren said, then ate at a faster pace. It was still slow in comparison to his normal wolf-it-down style; but, he finished it and went to the closet. “I'm tempted to take a quick shower, but 'quick' hasn't been part of my abilities for a while.” He said, and held up the arm still in a sling.
+
+Bonnie nodded. “We can do a quick sponge bath, if you're feeling sweaty.”
+
+“Can we?” Ren asked. “We're running short on time.”
+
+“It'll only take a few minutes.” Bonnie said. “I can do it quick.”
+
+Ren took out the silvery-blue pajama set that matched his eye color, and put it on the bed. “Then get your sponge ready.” He said and grinned. “Ah needs ah scrubbin'!”
+
+Bonnie snorted a laugh and helped him get undressed. She put the blue pajamas in the small basket in the bathroom and got her sponge ready. She gave him a good cleaning, and helped him get dressed again.
+
+“Thanks, Bonnie.” Ren said. “That really was quick.”
+
+“I told you.” She said. “Now get your butt in the wheelchair.” She grinned. “Your adoring public await your majestic arrival.”
+
+“Of course, my lady.” Ren said in as snooty a voice as he could muster, and sat down in the wheelchair. “You may escort us to the royal viewing.” Bonnie laughed as she opened the door to the room, then wheeled him out into the hallway. Ren did the royal wave to people that he passed, with his hand straight up and only twisting it slightly, and Bonnie kept laughing. She pushed him into the therapy room, and there were several dozen chairs set up, and half of them were filled already.
+
+“Wh-what's all this?” Ren asked, surprised.
+
+“I told you.” Bonnie said. “Your adoring public.”
+
+“I...I thought you were joking!”
+
+Barbara, Ren's night nurse, who's shift wasn't supposed to start for another two-and-a-half hours, waved to them from the front of the rows of chairs. Bonnie pushed Ren over to her.
+
+“Hi!” Barbara said. “I'm so excited!”
+
+“Why?” Bonnie asked. “You've seen most of it already.”
+
+“This is different.” Barbara said. “I did some reading online about it. Thanks to their co-operation with Sid Tec, they extrapolated the footage to make it 3-D.” She said. “Instead of just seeing it in one direction like we do on the television screen when you're playing.”
+
+“Wh-what?” Ren said, surprised.
+
+“You didn't know?” Barbara asked. “They have a website up for it, and they've been running the promos for it and the show all day!”
+
+“So that's how we saw what the wolves did during the promo.” Ren said.
+
+“Yes!” Barbara said. “They said that... oh, what was it?” She squinted her eyes. “Now I remember! They said that the data was always there, and that all they did was render it into actual footage.”
+
+“That's... actually pretty cool.” Ren said.
+
+“It is!” Barbara said. “It'll be like a whole new experience.”
+
+Ren was about to respond, and then the therapy room's door opened. Elise came in, wearing a nice form-fitting blue business coat and skirt with a white blouse underneath, and she looked around. Ren waved to her, and her face broke into a huge smile. She half-waved back and came over to him.
+
+“So, are you as excited as I am?” Elise asked him as she knelt by his wheelchair.
+
+“I don't know.” Ren said. “This...” He looked around the room. “...is all kind of unreal.”
+
+Elise took his hand and gave it a light squeeze. “Don't worry about any of that.” She said. “All you need to do is sit back and enjoy the show.” She let his hand go and stood up. “Where are we sitting?”
+
+Bonnie looked at Barbara, and Barbara looked at Ren, who smiled.
+
+“I got a message from her this morning, asking if she could come over and watch it with me.” Ren said. “Of course, I thought it was only going to be me and a couple of nurses watching it.” He chuckled and motioned to the rest of the room. “Not this.”
+
+Most of the other chairs were being filled by nurses and patients, a couple members of the cleaning staff, and even Doctor Hobbard was there. He sat at the back of the room, and tried to look happy about being there.
+
+“I left a spot in the front there for you.” Bonnie said, and pointed to a spot in the middle of the front row, where there was a chair missing. The wheelchair would just fit into the empty space.
+
+“We're sitting over there, Elise.” Ren said, and Bonnie pushed him over to the spot. Elise took off her business coat, hung it on the back of the chair on the right of him, and sat down. Bonnie looked at Barbara, who sat at the end of the row.
+
+“Do you want this chair, Barbara?” Bonnie asked her, and pointed to the chair on the left of Ren.
+
+“You don't mind?”
+
+Bonnie shook her head. “You spend more time with Ren than any of us, combined.” She smiled. “I think he'll want you close by for this.”
+
+“Thank you.” Barbara said, and came over to sit beside Ren. Bonnie sat beside her, and they sat in silence for another few minutes. Ren glanced at his watch, and saw he only had less than a minute left to wait. He was so focused on the television as the time counted down, that he didn't notice when another person came into the therapy room. She sat at the back, and the lights dimmed as the time hit 7 p.m.
+
+*
+
+The show started, and it was just a white screen. Real-life Ren blinked his eyes a few times, and then he saw himself as he materialized on the screen.
+
+“New user detected. Starting orientation.” Little yellow arrows popped up, and Ren watched as he did the things needed to calibrate the helmet. It seems to go a lot faster this time, and then Elise materialized on the screen behind him.
+
+“This... this is amazing!” Onscreen Ren exclaimed. “I've never been able to run so much ever!”
+
+“Since you’re not yet in game the stamina system isn’t in effect, technically you could run forever and never run out of breath.” Onscreen Elise said, and onscreen Ren jumped and spun in surprise.
+
+*
+
+Ren looked at Elise as their interactions continued on the screen. “They took out my full name.” He whispered, and she nodded.
+
+“People will still know who you are, but not your real last name.” Elise whispered back.
+
+Ren looked back at the screen as he heard onscreen Elise screech in delight.
+
+*
+
+“Eeeeeeeee! Such a cutie!” Onscreen Elise said, as she squeezed Ren into her ample chest. He flailed his arms for a moment, and she let him go. “ah... Sorry.” She said, and eyed him like a choice piece of meat. She ran him through the character creation, and again, it all seemed to go a lot faster than it did when it happened.
+
+*
+
+“They've altered the timing, haven't they?” Ren asked Elise in a whisper, and she nodded.
+
+“They needed to pick the pace up, so it wouldn't be 'boring' to watch.”
+
+Ren nodded and looked back at the screen.
+
+*
+
+Onscreen Ren accepted his new class, and onscreen Elise grinned at him.
+
+“Ok! That’s everything then! Good luck!” She exclaimed, then pulled him into another hug that buried his face into her chest again. A brief description was voiced over about his class as Ren vanished from the white area, and then the show's name, 'Master of All, Jack Of None' appeared on the screen, with a 10 second glimpse of some of the things Ren had done. It faded to white, and then Ren appeared in the game. There was a brief montage of him walking around that showed the different districts, and ended with him in the Artesian District at Sally's Shop. He got the quest for the coin pouches, made them quickly, and completed his first quest. He left Sally's Shop, then went to Donan's.
+
+*
+
+Ren winced as he witnessed his first, and nearly disastrous, meeting with Donan. A commercial came on, and people started to chat about it.
+
+“What do you think so far?” Elise asked in a low whisper.
+
+“It's as close as you can get, without showing it in full length, I think.” Ren responded in a voice just as low, and looked at her. “Why did you leave yourself in?”
+
+Elise smiled. “You were the first person I ever met in the game.” She said. “I wanted to keep that memory unaltered.”
+
+Ren raised a single eyebrow at her, and she grinned.
+
+“I wanted to see myself on the screen.” She said, and blushed a little. “With you.”
+
+The commercials ended, and the show started up again.
+
+*
+
+There was another brief montage as Ren visited every shop, then stopped at the Apothecary. He got another quest, and gathered herbs. Once again, the time seemed to speed up, or skip, and then he had the encounter with the wolves in the forest.
+
+*
+
+Some of the people gathered in the therapy room laughed, some were shocked, others were interested in what was happening. Ren noticed that the encounter with the wolves was a bit longer than it was in the promo trailer; but it ended the same, and he winced again as his onscreen version screamed.
+
+*
+
+“WAAAHHHHHHHHHHHHHAAAAAHHAAAAAAAAAA.” Onscreen Ren screamed, and ran across the field with his clothing in tatters, as a couple of wolves chased him and nipped at his heels. The wolves gave up before Ren had reached the city gates, however; and the wolves ignored the other players in the area and retreated back to their forest. Ren dropped off the herbs at the Apothecary, then got another quest to make potions. He completed that quest, then made a bunch of potions for himself. He left the Apothecary, and walked down the street.
+
+*
+
+This is where I logged out. Ren thought, then his eyes widened as his onscreen self went into Sally's Shop without stopping. He looked at Elise, and she smiled crookedly at him.
+
+“There is a lot of editing.” Elise whispered. “We couldn't have people sitting at home, waiting for you to log back into the game.”
+
+“So the show is in-game only.”
+
+She nodded. “I thought it was best that way.”
+
+Ren took her hand, and she froze in shock for a moment, then took a breath and intertwined her fingers with his.
+
+“Thank you.” Ren whispered to her.
+
+“You're welcome.” Elise breathed back.
+
+*
+
+Onscreen Ren patched up the tattered clothes he wore, then there was a brief montage of his learning to sew properly.
+
+*
+
+“Boy, they're really skipping a lot.” Ren whispered. “I was there all day doing that.”
+
+Elise chuckled. “Yes, and once again, it would be boring watching that all day.” She said. “A few seconds showing your progress, is all that's needed for the same impression; and the light getting darker.”
+
+*
+
+Onscreen Ren went back to the Apothecary, and started making money. Another montage showed the night turning into day, and Ren left the Apothecary. He had a determined look on his face as he went to Donan's Shop.
+
+*
+
+There was another commercial break, and Ren could hear people asking what was going to happen next. The show came back on, and everyone went quiet.
+
+*
+
+Onscreen Ren, very respectfully, asked Donan the Blacksmith to teach him how to swing a hammer. Donan clapped him on the shoulder and took him over to an anvil. He handed Ren a hammer, and asked him to break it. Onscreen Ren looked at the hammer, a little popup said it had 25 Durability, and then he looked at the anvil that had an 'x' marked on it. He swung the hammer and hit the mark, and you could see his arm shiver and shake from the impact.
+
+*
+
+Several of the nurses gasped, as onscreen Ren swung the hammer 18 more times, and they saw his fingers and then the hand go numb. Real-life Ren gripped Elise's hand tightly.
+
+*
+
+*CLANG!* The hammer rang against the anvil. *CLANG!* Onscreen Ren gripped the hammer harder and pounded the anvil again. *CLANG!* Then again. *CLANG!*
+
+“..Two more...” Ren said, and you could see him struggling so hard that his whole body shook from the effort; and from the excruciating pain he was going through. “AARRGGGGHHHHH!”
+
+*CLANG!*
+
+“I… WON’T….GIVE….UP!!” Onscreen Ren yelled, Donan jumped in surprise, and the hammer crashed down a final time. It shattered upon the anvil, and the pieces rained across the floor.
+
+*
+
+Several of the people that had gathered to watch the show, cheered for him, then they stopped abruptly as they saw onscreen Ren collapse to the floor in exhaustion. The show ended there and faded to white, then the credits rolled. Everyone was quiet.
+
+“Wow.” Barbara said into the silence. “No wonder they picked up the series. That was more exciting than seeing it the first time.”
+
+Ren nodded as the lights came up. “It was both the longest, and shortest, half an hour that I've gone through in a while.”
+
+Elise laughed. “That's quite literally true.” She said, and Ren looked at her. “Half an hour here is 2 hours in the game.”
+
+Ren smiled and nodded again. “Thanks for coming over and watching it with me.”
+
+Barbara coughed beside him.
+
+“Okay, with us.” Ren said, and chuckled.
+
+Elise grinned. “It was my pleasure.”
+
+Several people came over to Ren, and congratulated him on a great show.
+
+“That was a good cliffhanger ending.” One of the nurses said. “I can't wait for the next episode!”
+
+After some chatting and small talk, the gathering broke up and everyone started leaving.
+
+“I guess I better go, too.” Elise said, and looked at Ren.
+
+“Before you go, I want to tell you something.” Ren said. “I finally opened the storefront of my business.”
+
+“You did?” She asked.
+
+Ren nodded. “I wanted it open before the show aired, and I just made it back to a Safe Zone in time to log out, get cleaned up, and come here.”
+
+“That's great!” Elise said. “The business should be posted with you as the owner on the main website.” She grinned. “People will see the show and go to the site, and see the store is open.” She squeezed his hand. “You did really well to get it up and running so soon.”
+
+“Thanks.” Ren said.
+
+“It was really nice seeing you again.” Elise said, her voice a little sultry.
+
+“It sure was.” Ren said, then his face flushed a little red. “Ah... I meant me seeing you... not you seeing me.”
+
+“I know what you meant.” Elise smiled as she stood up and let go of his hand. She turned towards him, leaned way over, and gave him a kiss on the cheek. The top two buttons of her blouse were undone; and since Ren's face was pointed right at her, he got a very up-close and personal view of her enormous cleavage.
+
+“Th-thank you.” Ren stammered, his eyes wide and face flushed even more red. Elise leaned back and saw the expression on his face.
+
+“You're so cute.” She said as she stood up straight, and took her coat from the back of the chair she had sat in. She put the coat on and buttoned it, and smiled again as Ren had watched her as she moved. Elise reached out and ran her hand through his fluffy hair, then winked at him.
+
+“Same time next week?” She asked, and Ren nodded. “I'll see you then, assuming the studio doesn't need you for a voice-over or something before then.”
+
+“O-okay.”
+
+Elise looked at the two nurses, and nodded to them in turn. “Barbara. Bonnie.”
+
+They nodded back, and Elise gave him a little wave as she walked away.
+
+“Did I just see what I thought I saw?” Bonnie asked.
+
+Barbara nodded. “She's definitely a handful.”
+
+“A handful?” Ren smiled. “She's an armful!”
+
+The two nurses looked at him with surprise on their faces, and his face flushed a bright red.
+
+“I meant her personality!” He said. “Not her... ah... assets.”
+
+Bonnie snorted a laugh as she stood up and went behind his chair. “Come on, lady-killer.” She said and turned him around. “Let's get you back to your room.”
+
+Ren nodded, and when he looked at the doorway, he saw a familiar figure with blonde hair walking out of the therapy room behind Doctor Hobbard.
+
+“L-Lucy!” Ren exclaimed.
+
+She kept walking; either she didn't hear him, or she had ignored his shout. Ren sighed as he realized that it didn't really matter which it was. She'd come to watch the show with him, just like everyone else had. Bonnie and Barbara shared a look with each other, but didn't comment about it.
+
+“Are you sticking around until your shift starts, Barbara?” Ren asked.
+
+“I might as well.” She said. “I'd just have to come back in an hour anyways.”
+
+“Great!” Ren said. “We can all have a snack together.”
+
+“A snack?”
+
+Ren nodded. “I only had a light supper, and Bonnie said I could have a candy bar and a diet soda after the show.”
+
+“She did, huh?” Barbara asked, and looked at Bonnie.
+
+“I cleared it with Doctor Hobbard already, and I marked it on his diet sheet with the adjustment.”
+
+Barbara nodded. “Then I'd be happy to have a snack with you.” She smiled. “The both of you.”
+
+They stopped by the break room and picked up the snacks, and went back to Ren's room. He climbed into the bed and settled in to enjoy a rare dose of chocolate and root beer.
+
+“So, what did you think about the first episode?” Barbara asked Bonnie, and the discussion began. The three of them talked for nearly an hour about it, about how much had changed, how much was added or cut out, and the highlight with the smith trial.
+
+“That really was a good ending.” Bonnie said.
+
+“I'm surprised they could compress a few days worth of footage into only half an hour.” Ren said. “At that rate, they'll burn through the footage faster than fire through a dry forest.”
+
+Barbara chuckled. “I wouldn't worry about that.” She said. “Once they get to the juicy bits, it'll slow down to let everyone see what happened.”
+
+“I think so, too.” Bonnie said. “If they do that, then they've got several seasons of footage to go through.”
+
+“Several seasons?!?” Ren asked. “What are you talking about?”
+
+Bonnie laughed. “If the audience tonight was any indication, then a good portion of the people that watched it are going to be hooked.” She grinned. “The viewership will skyrocket.”
+
+“No way!”
+
+Barbara put a hand on his arm. “You're going to be popular.”
+
+“I think you're both crazy.” Ren laughed. “Who's going to want to watch my adventures for that long?”
+
+Both women raised their hands, and his eyes widened.
+
+“You saw the people there tonight.” Barbara said. “More people were interested in it than any of us thought.”
+
+“All right.” Ren took in a deep breath and smiled at them. “I'll try to not let fame and fortune go to my head.”
+
+“Like we'd let that happen.” Barbara said and chuckled. “We'll keep your swelled head right here on Earth.”
+
+“Starting tomorrow.” Bonnie said. “Right now, you've got to get back to the game.”
+
+Ren looked at his watch. “You're right. It's almost morning.” He slid out of bed with a foil packet in his hand, went to the bathroom, and took care of business. He came back out and got into bed again. “Thanks for... well, everything.” Ren said to Bonnie. “Tonight was great!”
+
+“That's just the chocolate talking.” Bonnie said.
+
+“Or the kiss from a certain red-headed amazon.” Barbara commented.
+
+“It was just on the cheek!” Ren said.
+
+“We know.” They said at the same time.
+
+“It's still there.” Barbara said.
+
+“Wh-what?” Ren asked, surprised.
+
+“What color is that, Barbara?” Bonnie asked her. “Cherry Red or Fire Engine Red?”
+
+“Like I'd know!” Barbara laughed. “It's just red to me.”
+
+Ren looked at them. “Is... is there really...”
+
+Barbara nodded. “You can admire it in the mirror tomorrow morning.” She smiled and helped him put on the VR headset. “Goodnight.”
+
+“I might not be able to log out overnight.” Ren said. “I've got stuff to make for the store; or just deliver, if I can get Tee-one to make them for me while I'm at work.”
+
+“That's fine. I got to spend the last hour and a half with you.” Barbara said. “And I'll be here if you need me before morning.”
+
+“Thanks, Barbara.” Ren said. “You're always so understanding.”
+
+“It's what I do.” Barbara chuckled. “Have fun.”
+
+“Flow Login Start.”
+
+********

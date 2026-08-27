@@ -1,0 +1,189 @@
+---
+id: be3926b0-fc89-5512-a4e6-2f25c412cad4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91 Boundaries"
+slug: 0096-chapter-91-boundaries
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 96
+ownLength: 2022
+unit: words
+publishedAt: 2026-07-05
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3636208/chapter-91-boundaries"
+royalRoadId: "3636208"
+---
+
+Lucien took a sip of the sacred beverage as he leaned back in his chair, his body loosening while he silently cherished the quiet of a mid-spring morning.
+
+Yesterday had been a flurry of activity that only ended with a more mundane dinner back at the manor. Talia had spent much of it excitedly speaking to Alicia about the irrigation work while the maid listened quietly nearby.
+
+That ended the moment Sera entered carrying an unfamiliar hunting bow in her hands before presenting it to him with a grave nod.
+
+Another round of teasing from Talia had naturally followed afterward. Fortunately, his junior would be busy today and absent for what would likely become an embarrassing memory. Such things usually were whenever one had to learn something entirely new.
+
+Lucien didn't even know when Sera had found the time to have the bow made, nor how she had managed to commission one from Harlon without him noticing.
+
+He strongly suspected the older man had deliberately kept it from him.
+
+A knock sounded at the door to his study just as he finished his drink.
+
+“Enter.”
+
+As the door opened, Elias stepped inside first before gesturing toward the interior of the room. Bran gave a nod and entered shortly after, making his way toward the desk.
+
+The older man dipped his head. “My Lord.”
+
+Lucien returned the gesture. “Bran. Take a seat. We have much to discuss.”
+
+Bran took the seat across from him while the steward remained standing quietly to the side.
+
+He leaned forward, steepling his hands. “I assume you have heard about the plans for the ditch beyond the northern palisade walls?”
+
+At his words, Bran let out a cough before speaking dryly. “The whole village has likely heard already, My Lord.”
+
+Lucien’s brow lifted slightly in surprise. “It has barely been a day.”
+
+The older man gave a slow nod. “Your Lady...” Bran caught himself before continuing more evenly. “Lady Talia mentioned it to my wife while closing the shop...”
+
+“She might have mentioned it to a few others along the way to Joren’s as well.”
+
+'Of course she had.'
+
+No doubt Talia was already spreading the news while reframing it as a flood control measure just as she had suggested during the discussion with Harlon.
+
+At Bran’s side, Elias lowered his gaze, though the faint tightening at the corner of his mouth betrayed his disapproval.
+
+Lucien exhaled softly through his nose. “Well, I suppose that saves time then. The work will require a great many people, Bran. How goes the progress at the fields? Start with the eastern ones first.”
+
+The middle of spring was among the busiest periods for any farming village.
+
+Bran rubbed a hand across his beard, his brows creasing slightly in thought. “Most of the oats and spring wheat have already been planted, My Lord. The rest is still being sown.”
+
+“The eastern expansion’s been cleared as well. But the ground still needs time before we can work it proper.” He shook his head faintly. “For now, we planted crops that won’t wear the soil down too hard.”
+
+Lucien rested his hands atop the desk. “And the western fields? Have they kept you informed of their progress?”
+
+At the mention of the western fields, Bran’s expression stiffened. “They have, My Lord. But only after I sent a few reminders to them first. More than once...” He exhaled through his nose. “They would claim to be too busy.”
+
+He shook his head faintly. “Still, it's a minor thing compared to what happened that day.”
+
+Elias spoke calmly from beside the desk. “They understand where the boundary lies, My Lord. So long as they do not cross it openly.”
+
+Bran’s eyes drifted briefly to the side at the steward’s words.
+
+Lucien’s finger tapped lightly against the desk. “It is expected. I had hoped that assigning people from Cragwatch and the eastern fields together would ease the resentment over time.”
+
+His gaze lowered in thought. “But since the problem persists, we will have to address it in a more...overt manner.”
+
+Elias inclined his head. “By starting a village-wide improvement project...as Lady Talia has framed it. Then no one side would claim they are receiving special attention from you.”
+
+A small cough escaped Bran before he spoke carefully. “My Lord. There will be little labor to spare for now. The western fields are still being cleared, and only part of the land has been sown.”
+
+Lucien gave a nod. “We will draw what we can from both sides. The ditch will take most of spring, perhaps even into early summer. But we must begin now, Bran. You know the other reason for it.”
+
+Bran’s brow creased faintly. “You mean to mix the groups?”
+
+At his nod, the older man’s furrow deepened. “There may be more fights, My Lord. Hard labor under the sun makes tempers short.”
+
+Lucien leaned forward, resting his chin against his hand. “Ignoring it would only allow it to fester. This resentment has lingered beneath the village for years. We cannot afford to let it grow when more people may move into the village this year.”
+
+His gaze shifted toward the window. “They may even arrive sooner than we anticipate.”
+
+Silence lingered in the room for a brief moment before Bran finally nodded.
+
+“Then we should make the work as fair as possible, My Lord.” He rubbed a hand across his beard. “We can draw labor based on how many hands each field can spare. Spread the grumbling evenly.”
+
+Lucien leaned back in his chair. “How many men can be drawn altogether?”
+
+Bran scratched at the corner of his beard. “If we stretch it as much as we can, forty men. But it will slow the current work at the fields.”
+
+He gave a slow nod. “I can pull more from the eastern side for now. The new ploughs sped things along enough that we began sowing earlier.”
+
+Forty men were not as many as he would have preferred if they intended to clear the first stretch before late spring as Harlon had estimated. Still, it was more prudent not to draw too heavily from people already burdened with field work.
+
+Lucien rested his arms against the sides of his chair. “Then we will organize three rotating groups, forty men each. Only one group will work the ditch at a time, and each group will be drawn from the different parts of Ashridge.”
+
+His fingers tapped lightly against the armrest. “The women and children can support the work through lighter hauling and meal preparation.”
+
+Elias folded his arms behind his back. “If their families are present, they would be less likely to fight amongst themselves.”
+
+Bran cleared his throat before speaking. “Or they might become more...eager to show which side is better in front of them.”
+
+Lucien shook his head faintly. “Better they direct that energy toward something productive than let it fester.”
+
+The steward’s gaze moved toward the side of the room where Alicia’s desk stood. “The ditch placement will affect future development beyond the northern boundary, My Lord.”
+
+Bran straightened at the steward’s words. “I heard something about that. Moving folk into different parts of the village?”
+
+He gestured toward the parchment resting atop the maid’s desk. “Bring the map here, Elias. Bran should hear about this as well.”
+
+When Elias brought over the map Alicia had drawn and spread it open across the desk, Lucien’s hand stilled against the armrest.
+
+The map had grown even more detailed than the day before as the revised census information gradually came in from the scribe. Yet it was the additional line drawn beyond the northern palisades that drew his focus.
+
+It marked the intended route of the future ditch.
+
+That route had only been discussed aloud during dinner yesterday.
+
+Elias glanced briefly toward him before returning his attention to the map while Bran let out a slow breath.
+
+“Are we going to have the different groups living near each other as well, My Lord?”
+
+Lucien dragged his gaze away from the map to meet the older man’s eyes.
+
+“Yes. But we will only begin construction on the new buildings during summer, after the spring sowing is finished. By then, most of the ditch itself should already be dug.”
+
+Bran gave a slow nod. “So we tell the people first and give them time to settle to the idea. Still...” He rubbed a hand across his beard. “I don't know how many will be happy about moving their homes, My Lord. Especially if they are made to live beside folk they dislike.”
+
+Elias cleared his throat softly. “Well, Lord Lucien could certainly compel them in that manner. However, it may be more prudent to frame it as an...improvement of their current homes.”
+
+At the steward’s words, Bran glanced toward him. “Improvement...?” The word trailed off briefly before his eyes widened slightly. “Does this have something to do with those strange kilns Lady Talia has been moving toward the ridge outpost?”
+
+Lucien leaned back in his chair. “Yes. By summer, we should have enough mortar to begin constructing homes for the villagers who are relocated. Their foundations will be reinforced with stone rather than wood, and they will be placed within the prime sectors of the village.”
+
+He exhaled softly through his nose. “If they complain, at least it will be directed at me this time rather than their fellow villagers.”
+
+Bran shook his head faintly. “It would quiet certain worries, My Lord. But a change this large was always going to become a little messy.”
+
+Elias folded his arms behind his back. “Master Joren and Master Harlon have already been informed of the future plans as well, My Lord.”
+
+The steward let out a small cough. “Master Harlon agreed, provided the new workshop is built properly. Master Joren...insists upon a larger forge within the future craftsmen’s sector.”
+
+Something between a cough and a chuckle escaped Bran.
+
+Lucien’s hand rose to rub at his temple. “Of course he does. And what of the hiring of skilled labor?”
+
+The dry look on Elias’s face deepened ever so slightly. “The message has already been sent, along with...the extensive list of requirements regarding the smiths, as requested by Master Joren.”
+
+This time, Bran’s chuckle escaped fully before he quickly stifled it beneath the steward’s disapproving look.
+
+Lucien let out a slow breath. “Then ensure they meet it. I would rather not deal with another dispute between our master smith and the newcomers.”
+
+Bran gave a slow nod at his words before pushing himself up from the chair.
+
+“I will begin speaking with the field hands then, My Lord. Best they hear it early before rumors start twisting things further.”
+
+Lucien inclined his head. “Make certain the eastern and western sides receive the same explanation.”
+
+“That part I expected already.” A dry sort of amusement touched Bran’s expression briefly before fading. “Farmers remember when one side hears something first.”
+
+Elias stepped forward slightly as the older farmer adjusted his posture. “I will have the scribe begin drafting the labor rotations and future district allocations as well, My Lord.”
+
+Lucien rested a hand against the arm of his chair. “Good. We should finalize the first sectors before construction begins during summer.”
+
+The steward inclined his head in acknowledgment.
+
+Bran’s eyes lingered on the map his daughter had drawn. “Going to be strange seeing fields and homes stretching out past the walls.”
+
+Lucien tapped a finger lightly against the arm of his chair. “Ever since we accepted the refugees during winter, we knew this was always going to happen.”
+
+Both men before him fell silent for a brief moment at his words.
+
+Eventually, the older farmer dipped his head once more before taking his leave. Elias gathered several of the scattered parchments from the desk.
+
+Much like before, the study gradually grew quiet once more as Lucien’s gaze rested on the map before him.
+
+He was about to call Alicia over for another cup of coffee when quiet footsteps approached the study door before coming to a stop outside.
+
+Lucien closed his eyes briefly.
+
+…Sera had likely come to collect her promised lesson.

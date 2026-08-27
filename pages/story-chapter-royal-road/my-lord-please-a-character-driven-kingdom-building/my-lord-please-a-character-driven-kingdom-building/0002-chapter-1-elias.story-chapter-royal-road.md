@@ -1,0 +1,229 @@
+---
+id: b9169db2-6893-563b-ac3f-557c8edfb9d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 Elias"
+slug: 0002-chapter-1-elias
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 2
+ownLength: 2240
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191535/chapter-1-elias"
+royalRoadId: "3191535"
+---
+
+He ran.
+
+He fled his chamber as though angels from his former world were in hot pursuit, blurting something about needing the library as he brushed past his newly acquired maid without sparing her a second glance.
+
+Well, perhaps saying that he ran was a bit of an exaggeration.
+
+It was closer to an attempt at a dignified power walk, befitting a nobleman, while muttering syllables that vaguely resembled the word library.
+
+He could hardly be seen sprinting through his own manor like some uncouth fool, after all.
+
+‘At least there’s a library in this backwater place,’ he noted inwardly.
+
+Seated in a surprisingly comfortable chair, Lucien leafed through a thick volume, a basic primer on the Kingdom of Arcencia detailing its borders, geography, and political structure. Several other books lay stacked nearby, hastily chosen as the most immediately useful to his continued survival.
+
+Conveniently, the library adjoined what appeared to be the lord’s study, sparing him the trouble of hauling armfuls of texts through the halls and drawing unwanted attention.
+
+Arcencia, it seemed, was considered a mid-sized human kingdom.
+
+Human, being the key word.
+
+Which implied, of course, that other races existed.
+
+So far, he had come across scattered mentions of elves and beastmen, referenced vaguely and often with caution. The lack of detail and the blatant prejudices became clearer the further he read. Relations between the races seemed to exist in a perpetual state of fluctuation, wavering between open hostility and uneasy truces.
+
+‘Though we’re apparently in one of the longest ‘cold’ periods on record,’ Lucien noted grimly.
+
+This world was far from the light-hearted fantasy novels he’d once enjoyed back in his former world. While it wasn’t an unrelenting abyss of misery either, it certainly wasn’t a land of sunshine and heroic destiny.
+
+'For one,' he thought, shuddering inwardly as he read on, ‘there are things like “Beast Tithes”.’
+
+Beast Tithes.
+
+A seasonal phenomenon in which creatures poured out from what the locals called the Badlands each winter and battered the frontier settlements in recurring waves. It was so reminiscent of a monster rush from a strategy game that Lucien could not help but see the pattern for what it was.
+
+Only here, there were no resets.
+
+Which, of course, was precisely where he had been exiled.
+
+‘King Abel, you goddamn son of a—’ Lucien bit back the rest of the curse, confining it safely to his thoughts. Even within his own manor, it wouldn’t do to be overheard maligning the Crown of the Kingdom he belonged to.
+
+‘There’s no way this wasn’t intentional,’ he continued bitterly.‘You chop off “my” father’s head, then dump me here to be eaten alive by beasts?’ Cursing an absent King in the privacy of his own thoughts brought a strange sort of relief.
+
+Naturally, it was Lucien’s father who had committed the fraud but that detail failed to stir any sense of filial responsibility. Whatever identity the original Lucien had possessed seemed to have been erased entirely when Leon’s consciousness took over.
+
+‘That probably explains why the memories are so fractured,’ He reasoned.
+
+This wasn’t a merging of souls. It was a replacement. And perhaps callous as it was, Lucien felt no guilt over it.
+
+‘I didn’t choose this,’ he told himself. The notion that the original Lucien had been something of a scoundrel only made it easier.
+
+Before he could continue his research further, a knock echoed through the study.
+
+“My Lord, have you recovered from your headache?”
+
+Elias’s voice carried through the door. His steward of all clichés, Lucien had mistaken him for a butler at first but the inherited memories made it clear that Elias’s duties extended far beyond serving meals and announcing guests.
+
+He oversaw the household accounts, coordinated supplies, and managed the staff. A steward in truth, not merely a domestic attendant.
+
+‘Ah. Right. The headache, that excuse I threw out at him earlier...’
+
+“Elias? Yes, enter. I was expecting you,” Lucien said, clearing his throat and slipping back into his lordly persona.
+
+The door swung open smoothly.
+
+Elias stepped in with rigid precision, posture straight and movements exact. A neatly folded cloth was draped over his arm, his steps measured as though each had been rehearsed. Even the closing of the door followed some silent ritual, the click barely audible, almost reverent.
+
+He halted two paces from the desk, at a distance neither too familiar nor too distant, and only then did he speak. “My Lord, will you be taking your luncheon in the study today?”
+
+'So that’s what the cloth is for,’ Lucien eyed it with dry amusement. ‘I assumed it was part of the uniform.’ The thought drew a faint, private amusement he did not allow to reach his face.
+
+“My Lord?” Elias frowned faintly as Lucien failed to respond.
+
+“Yea-Yes, Elias. I will dine here today,” Lucien replied quickly, narrowly stopping himself from adding a please out of ingrained habit.
+
+“Very well, My Lord. If you permit me to set these books aside, I shall have the servants bring the meal at once.” Elias continued smoothly, whether out of courtesy or deliberate ignorance of the near miss, Lucien could not tell.
+
+“Do so. And afterward, I have questions regarding the state of my territory,” Lucien said, leaning back into his chair, being careful not to relax too much.
+
+“If this one may be of service, I shall answer as I am able.”
+
+Elias smoothly removed the book Lucien had been reading, producing a bookmark from seemingly nowhere before clearing the desk with efficient grace.
+
+Lucien couldn’t help but notice that, despite the short distance between them, Elias moved with practiced precision, never once brushing against his clothing. It was a subtle but unmistakable mark of training and restraint.
+
+‘For someone who’s served this family since birth, he’s awfully stiff.’
+
+‘Is that the proper conduct...or am I the problem?’
+
+He had no real sense of what kind of noble the original Lucien had been...only fragments and impressions but Elias’s rigid distance spoke volumes. Whatever reputation his former self had cultivated, it was not one that invited ease or familiarity.
+
+Before that line of thought could spiral any further, Elias produced a small silver bell from somewhere upon his person and rang it once, then again with its clear chime neatly cutting off Lucien’s ruminations.
+
+“E–Excuse me…” A soft, gentle voice sounded from outside. The door opened hesitantly, utterly unlike Elias’s precise entry. Alicia emerged, carefully pushing a small wheeled tray bearing Lucien’s meal before her.
+
+Elias cleared his throat softly before Alicia could advance any further. A small, restrained sound that nonetheless carried unmistakable authority.
+
+“O–Oh!” the petite girl gasped. She spun around at once to shut the door, doing so with far more haste than grace. It closed with an unceremonious thud.
+
+Alicia froze where she stood, terror flashing openly across her face.
+
+‘Oh, for God’s sake,’ Lucien groaned inwardly. ‘I don’t have tastes like this.’
+
+Outwardly, his expression remained perfectly composed.
+
+At a second, gentler cough from Elias, Alicia seemed to remember herself. She resumed pushing the tray forward, flinching at every rattle of wood and metal as though each sound were a reprimand.
+
+‘Nothing about this is appealing,’ he reminded himself sharply. ‘Least of all the part where she’s terrified.’
+
+“H-Here, Mi-My Lord,” she squeaked, lifting a broad, thick-rimmed plate of hammered metal capped with a polished silver cloche, the sort of overbuilt thing meant to impress rather than serve.
+
+Her hands trembled as she struggled to set the dish before him, movements awkward and uneven.
+
+The contrast between her and Elias was stark enough to sting even to his own unfamiliar eyes.
+
+‘I can’t dismiss her. Not yet.’ Lucien realized with a sinking weight in his chest. Doing so now wouldn’t simply remove her from service, it would mark her and her family irrevocably.
+
+The rumours alone would be enough to ruin her, he could already hear the story being told in his mind.
+
+‘Did you hear? The Lord took a pretty girl into his service, only to cast her aside the very next day once he was “finished” with her.’
+
+‘Oh my, What a scoundrel our Lord is. How is that poor girl meant to live now, after being “tainted”?’
+
+‘That family is cursed, I say. The father is a criminal and the daughter a former plaything of the Lord.’
+
+““They’re finished!””
+
+That, Lucien knew, was precisely how it would go if he acted rashly...if he indulged in his misplaced conscience without thinking through the consequences.
+
+Alicia and her family would be crushed beneath rumour and implication long before any blade or decree touched them.
+
+Thoughts like these churned through his mind as he watched the timid girl retreat from the study, the door closing a little too loudly behind her once again.
+
+A faint, muffled eep drifted through the wood before silence once more settled over the room.
+
+“By your leave, My Lord,” Elias continued politely. “I shall return once you have finished your meal,” he added, as though the entire exchange had been nothing out of the ordinary.
+
+“Now then, My Lord, you wished to speak with me after your luncheon?”
+
+After hastily devouring his admittedly excellent meal and enduring another round of Alicia’s awkward fumbling as she cleared the table, Elias once again stood before Lucien’s desk, positioned at that same precise, courteous distance he seemed to favor.
+
+“Ah, yes.” Lucien inclined his head slightly. “Elias, this morning’s unpleasantness. How much, exactly, does the village owe me in taxes?”
+
+He drawled the question, affecting the air of a bored noble seeking clarification rather than a man desperately trying to understand why he might have forgotten something so fundamental.
+
+Elias was, after all, his most reliable source of information. But that made him dangerous as well. Someone who had known the original Lucien since childhood would be the first to notice if something was amiss.
+
+And Lucien had no desire to discover what happened to impostors in this world.
+
+“About a sack of grain’s worth, My Lord,” Elias replied politely, his tone matter of fact. “Not a large sum, but noticeable all the same.”
+
+A sack.Lucien nearly froze.
+
+How much was a sack worth? And what, exactly, was he even counting in? Gold? Silver? Copper? Elias’s careful phrasing offered no numbers, no familiar anchors, only that stiff politeness that made everything harder to read.
+
+He had been hoping for something simple. Two coins. Five coins. Anything.
+
+“Hmph. A sack of grain, is it,” Lucien muttered aloud, as though grumbling to himself.
+
+“Yes, My Lord.” Elias inclined his head. “While it may sound considerable, one must remember the deficit accounts for the entire village. A sack of grain typically fetches four to five silver coins, hardly a ruinous sum.”
+
+The clarification followed quickly, as though Elias had mistaken his words for displeasure.
+
+‘Not what I intended, but I will take it.’ Lucien cheered inwardly.
+
+“Well,” Lucien said, waving a hand dismissively, “so long as it does not breach the threshold of gold, I suppose it is of little consequence.”
+
+“That would be highly unlikely, My Lord.” Elias replied carefully. “A single Arde is worth a hundred Vire. The shortfall would need to be extraordinary for such a matter to arise.”
+
+Vire.
+
+So that is what silver coins were called.
+
+He already knew the conversion, one hundred silver coins to a gold, but names mattered. Names, contexts, and the unspoken assumptions everyone else carried without thought.
+
+And those were precisely what he lacked.
+
+Still, he had something else.
+
+Experience.
+
+Specifically, the memory of a certain infuriatingly competent manager from his previous life, one who asked vague, probing questions until others revealed far more than they had intended.
+
+‘That guy was an asshole,’ Lucien noted dryly. ‘But a clever one.’
+
+So the conversation continued much the same way. Lucien posed open ended questions and murmured half formed observations. Elias answered carefully and politely, sweat beading just slightly as each clarification demanded more explanation.
+
+By the end of it, Lucien had pieced together a rough picture.
+
+The village produced grain roughly worth 25 Arde per season, 75 Arde a year, assuming no work was done during the Beast Tithe season.
+
+By contrast, a typical household of three or more lived on the equivalent of 220 to 300 Vire per year.
+
+And Lucien, doing little more than sitting in this chair, was collecting roughly 30 times that.
+
+Right. Feudalism.
+
+And this was merely a frontier holding. He could only imagine what the entrenched nobles of the heartlands or the parasites lounging in the capital were raking in.
+
+Though, he supposed he did not yet know what the nobles actually did. His memories of Lucien's father were frustratingly vague.
+
+“And so,” Elias continued, “the Autumn tax collection was completed as of yesterday, My Lord.”
+
+Lucien stiffened. “Wait. Autumn?” he blurted, forgetting his cultivated tone entirely.
+
+“Yes?” Elias paused briefly, “We concluded Autumn’s levy yesterday, which was why today’s scene occurred.”
+
+Fuck.
+
+The air had told him before his mind bothered to catch up. It was autumn. That explained the chill from earlier that morning, the way it had clung to him longer than it should have.
+
+He had not questioned it then. He was questioning it now.
+
+His thoughts slid back to the book he had been reading. Beast Tithes began in winter.
+
+And winter, he realized with a slow, sinking feeling, was far closer than it had any right to be.

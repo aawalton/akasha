@@ -1,0 +1,537 @@
+---
+id: 51419f99-89ef-5e7b-ad90-6b30d42377e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 153 - Print That"
+slug: 0139-chapter-153-print-that
+partOf: mythrans-master-of-all-continued-completed
+position: 139
+ownLength: 4973
+unit: words
+publishedAt: 2017-01-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115380/chapter-153-print-that"
+royalRoadId: "115380"
+---
+
+After sharing their Auras for a while, Ren started getting caught in a kind of feedback loop; The more he felt, the more feelings he was getting back.
+
+“By the gods.” He said, as he stared at the two women. “I love you both.”
+
+The two women looked at each other, then at Ren.
+
+“I don't know when it happened, and the love I have for Nathalia is different than the love I have for you, Narhilda.” He explained. “I can feel how much you each love me, now...” He said. “...and I can't help but love you both back even more!”
+
+Nathalia ran her hand through his hair, and Ren closed his eyes at the sensation. He didn't see that her hand glowed for a moment, and he fell into a deep sleep before he even realized what was happening.
+
+“He'll be out for about half an hour.” Nathalia said. “I can't guarantee any more than that.”
+
+Narhilda nodded and slid out of the bed, and Nathalia followed her. They went into the kitchen, and Narhilda sat down at the table.
+
+“What are we going to do?” Nathalia asked.
+
+“I... I don't know.” She said. “I... I really...” She put her hands over her face. “I really love him.”
+
+“So do I.” Nathalia said. “And he loves us both.”
+
+Narhilda nodded slightly. “He does. He genuinely loves us both for who we are.”
+
+“I think... I think we should tell him.”
+
+“No!” Narhilda said. “We can't!” She exclaimed. “If we tell him... you know what will happen.”
+
+Nathalia sighed. “Yes. The deal will be done, and you'll have to pay the price you agreed to, all those years ago.”
+
+“If he had said something, even a week ago, this might not be so hard for me.” Narhilda sighed. “But... I'm greedy for this life now.” She looked at Nathalia. “I don't want to give it up.”
+
+Nathalia nodded slightly. “I know you don't.” She said. “You and I have shared more than even Ren realizes.”
+
+“Yes, you've been so good to me.” Narhilda said. “Your devotion has been the only constant that I've had in this life.”
+
+Nathalia smiled and walked over to where Narhilda sat. “It has been an Honor serving you all these years, My Lady.”
+
+Narhilda chuckled. “I know that's the truth, but you know you don't need to keep the charade going when we're alone.”
+
+“He really does need to know.” Nathalia knelt. “It's going to eat him up inside, loving the both of us so strongly.”
+
+“I... I know.” Narhilda said, and started to cry silently. “But I... I'm not...” The tears flowed quickly. “He may never forgive either of us, if he finds out that I'm not your real mother.”
+
+*
+
+Teepo had stopped his patrol of the house when he'd heard the two women talking, and diverted to the kitchen to see what was going on. He'd heard every word and tried to get Ren's attention. “Ren!” Teepo said. “REN!” He yelled, but to no avail. Ren wouldn't wake up.
+
+*
+
+“We better get back to bed.” Nathalia said. “The sleep spell is only a temporary thing. Ren's so strong, he might be able to fight it.”
+
+Narhilda nodded, and the two women went back to the bedroom and slid into bed. Ren didn't move at all, and they draped his arms around them, so he wouldn't notice anything was different. They nodded slightly at each other, and snuggled down onto his chest.
+
+*
+
+Ren woke up the next morning with a bit of a headache, and tried to rub his head; but since he had two armfuls of women, he couldn't do what he wanted. Imagine if I had this problem all the time.
+
+“Ren!” Teepo exclaimed.
+
+What is it, Teepo?
+
+“I... I have something... something important... to tell you.” Teepo said. “I don't know what you're going to think of it, though.”
+
+It's okay, Teepo. No matter what it is you have to say, just say it. Ren thought. If you've become so flustered over telling me, then I know it's important.
+
+Teepo sighed, and told Ren exactly what he had witnessed the night before in the kitchen. Ren's eyes widened as he was told everything, and he closed his eyes.
+
+I... well, damn. Ren thought. I thought it was a little odd that they were nearly exactly alike, but I thought it was just good genetics. Ren opened his eyes and looked at Nathalia, then at her 'mother' Narhilda. Now I wonder which one is the real one.
+
+“What do you mean?”
+
+Well, if Nathalia is the real one, then she's the heir of House Neram and I'll be marrying into the family. If Narhilda is the real one, then she's the heir and I'll be marrying... well, just a normal woman and not the princess of House Neram.
+
+“Oh. Right.” Teepo said. “I hadn't thought about that.”
+
+That's okay. Ren thought. You've done the important part. You've let me know the truth.
+
+“What are you going to do?” Teepo asked. “Now that you know.”
+
+Nothing. Ren chuckled, and the two women stirred. If they don't want me to 'know', then I'll play along until they feel like they can trust me with it; then hopefully tell me what the consequences are.
+
+“I'll help in any way I can.” Teepo said.
+
+Thanks, buddy. Ren thought and the two women lifted their heads. “Good morning, beautiful.”
+
+They looked at each other, then back at him. “Who are you talking to?”
+
+Ren chuckled again. “I'm really glad you asked that.” He said, and kissed Nathalia on the lips. “I'm also glad that neither of you thought, 'oh, he meant her' or 'oh, he means me'.” He kissed Narhilda on the lips, too.
+
+Both women had surprised looks on their faces.
+
+“So.” Ren said. “Which one of us is making breakfast?”
+
+They looked at him, and he smiled.
+
+“No offers?” Ren asked. “Okay. Eggs and toast it is.” He said and stood up with the blanket. He hopped off the bed and flipped the blanket over them and smiled. “Go back to sleep.” Ren said. “I'll come and get you when it's ready.”
+
+“Ren.” Nathalia said.
+
+“Yes, My Love?”
+
+“Are you feeling okay?”
+
+“Never better.” Ren said, and walked around the bed to her side. “I just woke up in bed with 2 beautiful women, who didn't know which one I was talking to.” He kissed Nathalia again, and caressed her cheek. “I can't think of a better way to wake up... well... okay, I can.” He chuckled and stood up. “But we'd never leave the bed and would probably starve to death.”
+
+Nathalia laughed, and Narhilda's mouth fell open. Ren walked around the bed, and knelt beside Narhilda.
+
+“I love you, but I can't... I can't let those feelings show... unless we're alone.” Ren said, caressed her cheek, and kissed her gently. “In the bedroom, I'll let myself go; but everywhere else, I have to keep you at a distance.”
+
+Narhilda looked a little sad, and nodded slightly. “That... that would be for the best.”
+
+“Don't be sad about that.” Ren said. “I'm the one that's going to be tortured by not being able to touch you all day; even though I want to, and know I shouldn't.”
+
+“Ren.” Nathalia said. “What about me?”
+
+Ren chuckled. “You I can touch.” He said. “And I will. Every single time I get the chance.”
+
+She snorted a laugh. “You're pretty sure of yourself.”
+
+“You're my fiance.” Ren said. “I'm going to be spending the rest of my life with you.”
+
+Nathalia's eyes widened as his words rang true. “You...”
+
+Ren smiled. “If I can't be sure about that, what can I be sure about?”
+
+She didn't know what to say to that, and Ren stood. “I'll get breakfast ready.”
+
+He left the room and went to the kitchen. Eggs and toast was the easiest thing to make, so he finished it pretty quickly; then made enough to feed Princess, too. He made the serving trays up and brought them into the bedroom.
+
+“Here we go.” Ren said. “Breakfast in bed with two of my favorite women.”
+
+They looked at him, and he smiled.
+
+“Yeah, I suck at hiding the truth.” Ren said, and they laughed. “You two are my favorite women.”
+
+They nodded and started to eat.
+
+“You're not joining us?” Nathalia asked, between mouthfuls of egg. Ren shook his head. “I've got too much to do today.”
+
+She nodded slightly, and Ren walked to the bedroom door.
+
+“I'll keep you informed, assuming I remember to.” Ren said, and held up the Sending Ring. “Otherwise, I could be gone until tonight.”
+
+“Have fun.” Nathalia said and took a bite of toast.
+
+Ren raised a single eyebrow. “I always do.” He said, and he saw her blush slightly. “See you both later.”
+
+“Bye, Ren.” They said together. He left the room and shut the door. Do you think I laid it on a little too thick?
+
+“We could just stand here and listen to find out.” Teepo suggested as he landed on Ren's shoulder.
+
+Ren shook his head. I'd rather not know for now. He thought, and ran out of the house. He fed Princess, and told her the track was ready.
+
+...run... later...
+
+Ren chuckled. “I was just telling you it was there.” He said. “When you want to go for a run, let me know; and I'll come and get you.”
+
+...very... well...
+
+Ren left the stable and went over to the gate.
+
+“It's Kharpik.” Teepo said and landed again. “When do you think we can get more guards?”
+
+I'll say we'll have to beat them away with a stick once the book comes out.
+
+“What book?” Teepo asked, as Ren opened the gate and greeted the guard.
+
+The Chronicles of Ren: Adventures in The Dwarven Kingdom.
+
+“That sounds like a great book.” Teepo said. “I guess we'll be visiting the Library today?”
+
+Ren nodded. I'll be doing the same deal I did with the other 2 books.
+
+“Oh, boy!” Teepo chittered in laughter.
+
+Ren chuckled as he ran to the stable. Yeah, and I'm tempted to edit out some of the scary stuff, just so I can leave the rating off the book.
+
+“And then?”
+
+I'll give a copy to everyone. Ren thought, and stopped when he reached the open area in front of the stable, then started making carts.
+
+“You're going to give everyone a copy?”
+
+Ren nodded. I was upset when I learned that the Council has been white-washing the whole thing, and made me out to be the bad guy. He thought. I am not going to let their version of events be the only one that people hear about.
+
+He kept working and had several carts built by the time Dorcot and Angeilin came over, holding hands.
+
+“Good morning, your highness!” Angeilin squeaked. “You're up early.”
+
+Ren chuckled. “Actually, I think you're up late.”
+
+She grinned and looked at Dorcot. “It's his fault.”
+
+Ren held up a hand, then dropped to his knees. “I don't want to know!” He covered his face. “Don't tell me he... he...”
+
+“Not that!” Angeilin laughed, letting out the sound of tinkling glass. “Dorcot found my brother yesterday, and invited him to stay at the house.”
+
+Ren peeked out through his hands. “So... so he didn't...”
+
+She smacked Ren on the shoulder. “Stop that.”
+
+“Sorry.” Ren chuckled. “I couldn't help but tease you.”
+
+Angeilin shook her head. “You've seen the size of the house! We couldn't... we... ah... with my brother there, we...”
+
+“I know.” Ren grinned. “You don't have to say it out loud.”
+
+She looked sternly at Ren. “You shouldn't tease a woman about such things.”
+
+Ren laughed. “No, Ma'am.” He said. “I'm just in a good mood today.”
+
+“I can see that.” Angeilin said, then looked at the carts. “Is one of those...”
+
+“Yes, Ma'am.” Ren smiled. “I was just finishing this one up.” He put a hand on the side of the cart, and imagined the House Neram crest appearing on both sides. The crest etched itself into the wood, and Ren activated it.
+
+“There.” Ren said. “Now anyone wearing the House Neram crest will get bonuses for doing work in it, as long as that work benefits the House.”
+
+“Wow.” One of the workers said, as they came over to the cart. “That's really neat how the symbol just appeared.”
+
+Ren looked at the woman, and saw she wore basic clothing. It was a bit stylish, with a pattern in the fabric; but it was just a cheap pair of tight pants and a thin blouse that were quite badly sewn in a hurry. She had somehow managed to push her chest up close to her neck for some reason, and was nearly falling out of the dress slip she wore underneath her unbuttoned blouse as she bent over to look at the House Neram crest.
+
+“Please get a horse hooked up to the cart right away.” Ren said to her, and she turned to him. She twirled a finger in her long brown hair and smiled; then ran the hand from her curled hair, down across her chest, and to her waist. She frowned slightly, because Ren had looked at her in the face the entire time. They both stood up, and she found that Ren was nearly 5 inches taller than her. He concentrated on his Command Aura.
+
+“Right away means right now.” Ren said. “I know this is your first day here, so do I need to get another worker?”
+
+“No, no.” She said, and bowed slightly. Ren dismissed the popup without looking at it. “I'll get the horse right away.” She walked back into the stable, and Ren turned back to Angeilin and Dorcot.
+
+“It should only be a minute.”
+
+“Ren.” Angeilin said. “That woman is trouble.”
+
+Ren smiled at her. “Thank you for telling me, but I know.” He said. “I've met someone like her before.”
+
+“You have?” Dorcot asked, and Ren nodded slightly.
+
+“She'll treat me all nice at first, to try and get as much from me as she can, before leaving without a word.”
+
+Angeilin put a hand on his arm. “She hurt you?”
+
+Ren smiled. “At first.” He said. “Now we're really good friends.”
+
+Their eyes widened. “You... you're friends with her?”
+
+He grinned. “She's actually a really great woman; once you get past her gruff exterior.”
+
+Dorcot looked at the woman as she brought out a horse. “This one isn't like that.”
+
+“I wouldn't be lucky enough to meet two of them.” Ren chuckled. “Not in this lifetime.”
+
+Dorcot put a hand on his shoulder. “Yes, my friend. Enjoy what you have.”
+
+“You don't have to tell me twice.” Ren said and watched as the woman hooked the pony to the cart.
+
+“There we are, sirs and madam.” She said and smiled at them.
+
+“You need to keep practicing.” Ren said, and told her to watch as he went over everything and secured it properly. “The horse would work itself free eventually if you don't make sure the straps are tight.” He said. “But not too tight that the animal is hurt.”
+
+She looked at him in surprise, and he smiled.
+
+“I've done this a few times.” Ren said, and turned to the stable. “Ready for a driver.” He said and sewed up a cushion for them to use in the back. He put a hand out to Angeilin, helped her climb up into the back, and she settled down comfortably on the cushion.
+
+“I could get used to this.” Angeilin squeaked, and Ren grinned as Dorcot climbed into the back with her. “Riding in style is nice.”
+
+“You can get used to it.” Ren said. “This will be your cart from now on.”
+
+“What?”
+
+“It will always be available for you to use.”
+
+“Really?”
+
+Ren nodded slightly. “Just tell the driver when they need to come and get you.”
+
+“Thank you.”
+
+Ren waved her thanks away. “It should have been available a while ago.” He said. “I've just had so much other stuff happen...”
+
+Angeilin chuckled. “Yes, I've heard.”
+
+“Have a great day at work.” Ren said and looked at the driver. “Go ahead.”
+
+The driver waved and flicked the reins, then the cart left the stable's lot, and went down the road.
+
+“You treat some of the people here really nice.” The woman said and held out a hand. “Hi, I'm Delilah.”
+
+Ren raised a single eyebrow at her, and her face flushed a little red as she realized that he knew the social custom she'd just thrown at him.
+
+“I'm sorry, Ma'am.” Ren said, and stepped away. “I won't enter a relationship with you.”
+
+“W-wh-what?” She stammered badly, trying to sound shocked. “I just... I was introducing myself!”
+
+“My apologies.” Ren said, and bowed slightly to her. “If you will excuse me, I have work to do.” He enchanted the House Neram crest on the other 3 carts he'd made, activated them, and turned to the stable. “Can I get 3 more horses and drivers, please?”
+
+Workers came over and hooked up the horses, and Ren gave the drivers the addresses of the workers that needed a ride.
+
+“Drop them off up the road at House Neram Keep.” Ren said. “There's a 300 foot long road beside it, and a workshop at the end of that. Bring them there, please.”
+
+“Yes, sir.” They said, climbed into the carts, and left the stable.
+
+“I've got to visit the Main House.” Ren said. “If they haven't decided on the details for the medical building, I'll be back to make more carts.”
+
+“A medical building?!?” One of the workers asked.
+
+“I've already hired 2 dedicated healers.” Ren said. “I just have to make somewhere for them to work.”
+
+“But... but... no one has their own medical building.” Another one said.
+
+“That's right.” Ren said. “But I want anyone that works or lives here to have access to help if they need it, rather than send for someone, or have to go all the way to the city for it.”
+
+“That's... that's amazing.”
+
+Ren shook his head. “I didn't want anyone moving here without providing basic living requirements.”
+
+“Like what?”
+
+Ren turned to the woman who spoke. “Free medical care and free housing.”
+
+“I saw the big building on the way by.” She said. “The thing out back looked like a Barracks.”
+
+Ren chuckled. “The big building is the Main House, and that is a Barracks behind it.” He said. “But that's for the House Neram guards.”
+
+“Oh.” She said. “Then where...”
+
+“I'm having houses built.” Ren pointed. “There's only a dozen so far, but more will be started in a few days.”
+
+“Did you say a house?” Someone said, and a woman gasped. “You're giving away houses?!?”
+
+Ren laughed. “Nearly half of them are full already.” He said, then thought. “Or over half. It depends on if the healers took a couple for themselves.”
+
+“You're crazy.”
+
+Ren nodded slightly. “I hear that a lot.” He waved and started to walk towards the Main House. Delilah stepped in front of him.
+
+“Did I hear you say that if someone moves here...”
+
+“When someone joins the House, they get a house.” Ren said, and tilted his head as he looked at her. “A job as well, if they need it.”
+
+“I... I have a job...” She said.
+
+Ren grinned. “I know you do.”
+
+Delilah looked at him with wide eyes. “What... what do you mean?”
+
+Ren leaned in and whispered in her ear. “Whoever provided you with clothing to come out here and pretend to be someone who works around horses, doesn't have a clue how to make proper clothing.”
+
+Her mouth dropped open and she stared at him.
+
+“You... you know that I...”
+
+Ren smiled and leaned back.
+
+“Why aren't you upset, or having me kicked out like-” She clapped a hand over her mouth, and Ren grinned.
+
+“Yeah, I thought so.” Ren said. “It would have been better to wait a week before coming here.” He sighed. “I wouldn't have been suspicious at all.” He said. “I'd have just thought you were scraping money together, and barely had enough to get the clothing made.”
+
+“Boy, did I blow this job.” Delilah sighed.
+
+“What was your cut?”
+
+She snorted a laugh. “Half of the value of that pretty ring of yours.”
+
+“Which one?” Ren said and lifted a hand to her. “This one?” He pointed to the pinky finger, and she nodded. He slipped it off and held it out between his thumb and forefinger, then crushed it.
+
+“Ahh!” She gasped as she reached for it, then let her hand drop. “How could you!”
+
+“Is it worth a lot now?” Ren chuckled, as she shook her head with a tear in her eye.
+
+“It's worthless.”
+
+“That's how much only one of them is worth.” He said. “They only work if you have both of them.”
+
+She stared at him, and didn't say anything.
+
+“He didn't tell you that?” Ren said, then shook his head. “He didn't know that to tell you.”
+
+She nodded slightly.
+
+“Well, unless you've got another normal job to get to, you're welcome to stay here and keep working.”
+
+“W-what?!?”
+
+“I'm a big believer in second chances.” He said. “If you work well, you get paid well.”
+
+“I... I have another... ah...”
+
+“Yeah, I know.” Ren chuckled. “I hope it goes better for you than this one did.”
+
+“You're not going to turn me in?”
+
+“For what?”
+
+“I was trying to rob you!”
+
+“You were?” Ren looked around. “I thought we were just talking.”
+
+Her mouth dropped open again.
+
+“Be safe, and take care.” Ren said, and smiled.
+
+She turned around and started to walk away. Ren took out a gold coin and enchanted it with Screaming Terror, thinking of Delilah.
+
+“Hey.” Ren said, and tossed the coin to her when she turned around. “You can give Ogshorn that, and tell him it was all you could get.”
+
+She slipped the coin into a pocket. “I assume you have a message for him?”
+
+“When he has the coin in his hand, say 'activate'.” Ren grinned. “He'll know what it means.”
+
+Delilah nodded slightly and walked away down the road. He repaired the ring and enchanted it with Protection again.
+
+She didn't have a clue that it wasn't the Sending Ring. Ren thought as he made another cart, dyed it white and enchanted it with the House Neram crest, then turned to the workers.
+
+“This cart is reserved for the medical staff.” Ren said. “No one but the healers can use it.”
+
+They nodded, and Ren switched to his personal Aura; then he ran down the road to the Main House. He went inside and to Ereka's office. He knocked, and she laughed.
+
+“How many times do I have to tell you...”
+
+Ren opened the door, and grinned as he felt her amusement. He saw she wore the outfit he'd made the day before, and he let her feel how pleased he was about that.
+
+“As many times as I come in here?” Ren said, and she blushed slightly as she felt how much he liked seeing her wearing his clothes.
+
+“Sir...”
+
+Ren raised a hand. “I'm always going to knock, unless you get rid of the door.” He said. “Then I'll knock on the door frame.”
+
+Ereka laughed again. “All right, I'll stop telling you to stop.”
+
+“She learns a valuable lesson!” Ren exclaimed. “And it only took 2 days!”
+
+She shook her head, as she felt his amusement. “What can I do for you?”
+
+“Did the healers decide what kind of building they wanted? Did they pick a house? Any word about the armory?”
+
+“Yes, yes, and yes.” Ereka said, and Ren grinned. “Here's the plans for the building.” She said and handed him several sheets of parchment. “They picked the house closest to the spot for the medical building.”
+
+“House?” Ren said. “They're living together?”
+
+Ereka looked at him as she felt his surprise. “Is that a problem?”
+
+Ren felt her indignation start to flow. “Of course not.” He grinned. “People can love whoever they want. It's really none of my business, anyways.”
+
+“Oh.” She said. “Okay, then.”
+
+Ren looked at her. “You're a little jealous of them.” He said, then felt her utter surprise.
+
+“I... I'm not!”
+
+He held up a hand. “Not of them specifically.” He said. “Of having someone to be with.”
+
+“I...” Ereka blushed slightly. “I'm not supposed to worry about any of that yet.”
+
+Ren chuckled. “When are you supposed to worry about it?”
+
+She opened her mouth, then closed it. “I don't know.”
+
+“Then do what you want.” Ren said. “You can worry over it, or be content that you don't have to worry about it.”
+
+“What are you saying?”
+
+“I'm saying...” Ren looked at her. “...when the time comes, you're not going to have a problem finding someone to fawn over you.”
+
+Ereka felt his sincerity, and she blushed.
+
+“Now.” Ren said. “The armory?”
+
+“Yes!” She said. “The crafters at the Garrison will have it built by the end of the week.”
+
+“Good.” Ren said. “I've been carrying these weapons and shields around for a while.”
+
+“How many?”
+
+“More than I'll probably ever need.” Ren chuckled, waved to her, and turned to leave the office. “I'll begin the medical building when I get back from the Library.”
+
+“I'll see you later.”
+
+“More than likely.” Ren said as he got to the door. “Despite being so busy, I'm still coming here to find things out.” He chuckled. “Bye, Ereka.” Ren ran out of the building and poured on the speed when he hit the main road. I hope they start delivering the paving stones soon. Ren thought. I need to finish the lot around the Main House. And the Barracks. And the road in the housing sub-division.
+
+Teepo chittered in laughter. “Narhilda was right. You are doing more than one person can.”
+
+Ren laughed. I'm happy about that, though!
+
+*
+
+Ereka felt how happy Ren was just as he passed the Aura's outer limit.
+
+“How can anyone feel so happy?” She sat down and waved a hand in front of her face. “He's... by the gods... his fiance is so lucky!”
+
+*
+
+Ren went to the Library, and told the Librarian what he wanted, and she hugged him so hard, he thought he was going to stop breathing. She let him go, and they sat down as Ren laid the entire tale of his encounters with the Council and it's members; starting with Tegwen's duel on the ship and ending with the Council telling people a different version of events.
+
+“Dammit, can you hold the book there for a bit?” Ren said. “I need to head to the Main Keep to get something.”
+
+The Librarian nodded, and Ren ran to the Main Keep. He went inside and to the General Information desk, which was also the Hall of Records, and was greeted warmly by the female dwarf there. Ren asked her for the transcript of the last Council meeting, and she handed him several copies of that, and the Council's edicts. Ren asked to register a new ritual, and he wrote it out on a piece of parchment. He folded it and handed it to her. He paid the fee and she dropped it into the magic filing cabinet. A moment later, she brought a letter of notice. Ren read it, and grinned.
+
+Congratulations!
+
+You have registered a new ritual for thanking someone. Word of it, and it's origin, will spread quickly. It will change how people deal with each other in many different situations.
+
+Influence: +10,000
+
+Honor: +5,000; Lady Neram +5,000
+
+Ren walked around the desk to the female dwarf, and she looked up at him.
+
+“Thank you very much for all of your help.” Ren said, and took her hand. She smiled as he bent down, but her mouth dropped open as he gave her a kiss on the cheek.
+
+“But... but...” She put a hand on her cheek where he'd kissed her. “By the gods!”
+
+Ren walked back around the desk, and bowed deeply to her. “Good day, Ma'am.”
+
+She stared at him as he left the room
+
+*
+
+“He... he just...” She rubbed her face. “How in the world did he...” She went to the cabinet and looked at a copy of what he'd written. “By the gods.” She said and sat down. “He... he made it an Honor to do!”
+
+*
+
+Ren ran back to the Library and added all the information the Hall of Records had given him, and the Librarian nearly fell out of her chair when she saw it all. She had no idea that the Council had been that corrupt. Ren had the book made, and gave her a hundred platinum to make as many copies of the book as she could, and as quickly as possible.
+
+She told him it would take an hour for that many books, and Ren ran back to the house to pick up his own cart that he could pull himself. He went back and waited as the books were copied, and picked them up to add to the cart. The book itself didn't have a rating; as the Librarian had helped him leave out the details that would require it to be rated. Ren went along the streets and gave a book to everyone he could see. He left one at every business, and one on every doorstep. It took another 2 hours to do that, but once he was done, he only had 20 or so left. He stored the books, and then the cart.
+
+“Let's go home, Teepo.” Ren said, and ran back to House Neram. “I've got more work to do.”

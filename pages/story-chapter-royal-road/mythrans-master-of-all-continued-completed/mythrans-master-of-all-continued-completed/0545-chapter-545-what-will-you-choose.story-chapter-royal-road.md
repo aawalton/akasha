@@ -1,0 +1,261 @@
+---
+id: 11f8a812-9f57-579a-9b7c-28fc1bcfb5d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 545 - What Will You Choose?"
+slug: 0545-chapter-545-what-will-you-choose
+partOf: mythrans-master-of-all-continued-completed
+position: 545
+ownLength: 2538
+unit: words
+publishedAt: 2018-04-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205523/chapter-545-what-will-you-choose"
+royalRoadId: "205523"
+---
+
+After Ren made his threat, two dozen beings entered his Aura from all around, and he waited for them to enter the main room.
+
+“Mortal! You are under arrest for trespassing on sacred ground!” A Light being said.
+
+“Ha!” Ren said, and they all flinched. “Your charge is invalid. As you can clearly see, I am not standing on what you claim as sacred ground.”
+
+The Light being polymorphed right there in front of everyone and formed armor around himself, then formed his sword and shield.
+
+“You are arguing semantics!” He said, and Ren noticed the other 11 newcomers change as well.
+
+“Yes, I am!” Ren said. “Like I told the mage and her family, it's not the building that's sacred! It's the Collective itself! It doesn't matter where it is!” He said. “Since I never entered the Collective, I have not violated it's sanctity!”
+
+No one had a response to that, because they could tell he was speaking the truth.
+
+“Ren.” Xuunah said, and he turned to look at her as she approached. “You've done what you can.”
+
+“Have I?” Ren asked and dropped his Mana Shield so she could enter it. Three spells were cast at him and he dispelled them long before they could reach him. He put the Mana Shield back into place without blinking an eye. “I can feel their emotions, Xuunah. They are not reacting well to a mortal telling them what to do.”
+
+“That's because they've been taught for untold generations that mortals are evil and only want to destroy everything.” Xuunah said. “Two visits from you is not going to change their opinion, especially since on this visit, you're showing them that they are right.”
+
+Ren sighed. “I made a threat, but only because they wanted me to.” He said. “This place should be full of happiness and love, the way it was when it was first created. Instead it's full of distrust and fear, and it makes me feel bad just being around so much negativity.”
+
+Xuunah sighed. “Ren.”
+
+“Yes, I know I can't make them change by giving them even more to be afraid of.” Ren deactivated his Ultimate Terror ring, and the Light beings all sighed in relief. “It was worth a shot, though.”
+
+“Does this mean you're not going to come back and kill us?” Bilious, the mage's son asked as he peeked out from behind his father.
+
+“No, I won't do that.” Ren said and knelt to be closer to the ball of light. “I'm not going to hurt your mom after saving her.” He said and smiled. “That would kind of defeat the purpose of saving her.”
+
+“Mommy saved the Light Realm!” Bilious said as loudly as he could, and his sisters took up the chant as they sped around their mother.
+
+“Mommy saved the Light Realm!”
+
+“Mommy saved the Light Realm!”
+
+“Yes, she did.” Ren said as he stood, then bowed to her. “I will leave if she says so.”
+
+“Tell him to go! Tell him to go!” Her kids chanted.
+
+“Begone from our realm, mortal.” The mage said. Her emotions didn't match her words, and Ren listened to both and obeyed the spoken words..
+
+“As you wish.” Ren said and picked Xuunah up, then ran towards the wall with Artemis right behind him.
+
+“Stop him!” One of the polymorphed Light beings said and they all lunged forward to follow him.
+
+“HALT!” The mage commanded.
+
+They all stopped as Ren smashed through the wall of the main room and disappeared from sight.
+
+“If you pursue, you will only provoke him and cause even more damage.” The mage said.
+
+“But he is a threat to the realm!” One of the Light beings said.
+
+“Only if we want him to be.” The mage said, and everyone quieted. “You heard what he said. If it will unite us again, he will be the villain we want.”
+
+Ren carried Xuunah all the way back to the portal building and entered the same hole he had made when he left it. The portal he had made was still there, because he hadn't dismissed it, and he saw the mages were guarding it.
+
+“I'm leaving.” Ren said and put Xuunah down.
+
+“You have trespassed into our realm yet again.” Zagatro said. “The first time we could forgive, since you didn't know any better. This time you knew we didn't want mortals in our realm.”
+
+“Your argument is invalid.” Ren said. “Your people caused me to come here to save one of your own people that you hurt because of me.”
+
+“Zagatro, don't press this.” Xuunah said.
+
+“He can't be allowed to come into our realm whenever he wants, Xuunah.” Zagatro said. “What if he makes a portal and a Light being goes through? You know the damage that could cause!”
+
+“Not only would I not do that, if you used your observation instruments, you'll see the portal I made is in the exact spot you make your own portals, and none of your people ever cross that threshold unless they are intentionally going through a portal.” Ren said. “I'm not stupid enough to open a portal to a random location and then hope I don't hit something or someone.”
+
+“Even so, you have caused untold damage to our things and buildings we...”
+
+“Don't trump up charges.” Ren said. “I know these constructs are Light manifestations and you can repair them with just a bit of concentration by the Collective.”
+
+“What?” Zagatro was surprised. “How?”
+
+“You don't need to know how I know, just that I do.” Ren said. “The only way I could completely destroy anything is by Voiding it.”
+
+Zagatro and the mages around the portal froze. “You... wouldn't dare.”
+
+“No, because Xuunah would hate me forever if I caused the realm any permanent damage.” Ren said and looked at the mages. “Move aside.”
+
+Half of the mages floated out of the way, an half let doubt flow out and didn't know what to do.
+
+“You need to answer to the Collective for what you've done here.” Zagatro said.
+
+“I was just there, and they let me go.” Ren said. “Do you see any pursuers?”
+
+Zagatro calmed and let his consciousness enter the Collective, and he experienced everything they had witnessed. Ren felt anger from him, and then felt resignation.
+
+“Yes, the mage is right. Pursuing you would cause you to do even more damage.” Zagatro said. “You even left a large slab of iron in the meeting hall attached to the wall.”
+
+“It's not permanent.” Ren said. “The spell will end in about 15 minutes.”
+
+Zagatro sighed. “You have an answer for everything, don't you?”
+
+“Yes.” Ren said. “Sometimes it's not the right answer; but, I'm working on that.”
+
+“The rest of you can move aside.” Zagatro said to the mages, and they floated out of the way to leave the portal unguarded. “Xuunah...”
+
+“This will be the last time you will hear from me.” Xuunah said. “I won't be making my daily reports anymore.”
+
+“You know I...”
+
+“Like Ren said, it doesn't matter what you decided.” Xuunah said. “Goodbye, Zagatro.”
+
+“Xuunah, you could polymorph and...”
+
+“No.” Xuunah said firmly. “I know who wants me and who doesn't.”
+
+Ren smiled warmly at her as he dismissed the Mana Shield. “Let's go home.” He said, then his smile turned into a huge grin. “Um, give me a second.”
+
+She watched as Ren disappeared for a few seconds, then he was back.
+
+“Okay, now we can go.” Ren said and took Artemis' hand as Teepo dissolved into the ring, then he took Xuunah's hand and the three of them stepped through the portal. He summoned Teepo on the other side and cast the spells to make him solid, then dismissed the portal.
+
+“That was hilarious!” Teepo chittered in delight.
+
+“That was not a funny experience at all.” Xuunah said and dismissed the magical barrier.
+
+“Oh, not that.” Teepo said. “What Ren left as a present.”
+
+Xuunah felt Ren's amusement and looked at him. “What did you do?”
+
+“Nothing really.” Ren said and grinned. “I just left a friendly reminder.”
+
+*
+
+Zagatro and the mages floated out of the portal room through the hole Ren had made, rather than go through the door. When they arrived at the outside of the building, he heard someone gasp. When he turned to see what had surprised them, he saw what Ren had left.
+
+“Great Vasalor!” Zagatro exclaimed.
+
+A 100 foot tall semi-transparent Colossal Ren sat on top of the portal building. The feet were planted firmly on the ground and the thing spoke random sentences.
+
+“I'm watching you.” Colossal Ren said in a normal voice, instead of the loud voice such a large thing should have had. “You are all equal.” He said a few moments later. “Take care of each other.”
+
+“Mages!” Zagatro said. “Someone dispel that right now!”
+
+One of the mages cast the spell and nothing happened. “What? It didn't work?” He asked, then cast it again. There was a small flash and the dispel spell was dispelled. “How is that possible?”
+
+“What is it?” Zagatro asked.
+
+“It's absorbing the spell and shooting it back somehow.”
+
+“Then try another spell.”
+
+“No.” The mage said and turned to the others. “No one else is to try, either.”
+
+“You can't just leave it there!” Zagatro said.
+
+“I won't risk having a spell rebound on anyone.” The mage said. “What if someone cast Fireball? Or Lightning? Or even Disintegrate? What would happen to us when it rebounds?” He asked. “It could increase the size of the spell and destroy everything within it's range, whatever the range on something that big is.”
+
+Zagatro wanted to argue with him to get him to try anyway; but, he knew it would be pointless. Colossal Ren kept spewing out phrases, and Zagatro had to think about what to do with the thing.
+
+*
+
+“Great Vasalor!” Xuunah exclaimed when Ren took out the All-Seeing Mirror and showed her what he had left there and told her what it did. “Ren! Undo it!”
+
+“I can't dismiss it from here, and I'm not allowed back in the Light Realm, remember?” Ren smiled. “They're stuck with it until they adjust their ways, or ask me to come back and remove it.”
+
+Xuunah shook her head. “I can't believe you did that.”
+
+Ren shrugged. “I wasn't going to, but Zagatro pissed me off so I wanted to piss him off, too.”
+
+“Ren, you can't just-”
+
+“Sure I can.” Ren said and stored the mirror. “I just did, didn't I?”
+
+“Ren...”
+
+“I'm sure they'll get sick of it in a few decades and they'll try to contact you again.”
+
+“Wh-what?”
+
+“Well, they won't try to contact me, will they?” Ren chuckled and turned his back to Xuunah to talk to Artemis. “I'll come over to the warehouse in a minute.”
+
+Artemis nodded and left the apartment, and Ren stayed facing the door.
+
+“We're alone now.” Ren said. “Go ahead, Xuunah.”
+
+“Ren...”
+
+“I know, so go ahead.” Ren said. “Like I told the Collective, I know you've been ordered to use your Light Spirit Blade.”
+
+“Ren, I...”
+
+“I'm just going to stand here. I won't move or cast a spell. I won't do a single thing to defend myself.” Ren said and held his arms out to the sides and equipped his new armor bodysuit, which stored his platinum armor. “Go ahead.”
+
+Xuunah formed her Light Spirit Blade and held it up to the back of his skull. “Ren, I... I'm sorry.”
+
+“It's okay, Xuunah.” Ren said. “Just in case I forget about what you mean to me after you do this, I want you to know that I love you.”
+
+Xuunah felt his complete acceptance of what was about to happen and that he wasn't going to try and stop her. She gripped her sword hilt tightly, tensed her arm to push forward, and a tear fell from her eye.
+
+“Ren, I... Great Vasalor, I...” Xuunah sobbed. “I... I can't!” She let her sword go and it clattered to the floor, and she wrapped her arms around him and hugged him from behind. “I love you too much, Dearest!”
+
+Ren hugged her arms for a moment, then turned around in her arms and kissed her as he put his arms around her. The sword on the floor dissipated into mist, and Ren broke the kiss.
+
+“I should say that you have no idea how sad I am that they threw you away like that; but, you know how sad I am.” Ren said.
+
+“I do, and you're just as sad as I am.” Xuunah said. “Dearest, what am I going to do now?”
+
+“For now, you can stay here and keep doing your job.”
+
+“But, I told Zagatro I wouldn't give reports anymore.”
+
+“Not that part.” Ren said. “I meant staying by my side and keeping an eye on me.”
+
+“Oh.” Xuunah said. “Can you stand to have me around? I was just going to skewer you with a blade that can cause permanent Confusion.”
+
+“Were you?” Ren asked. “I don't remember seeing that.”
+
+“You were facing the other way.”
+
+Ren smiled. “I was, wasn't I?”
+
+“You did that on purpose?”
+
+Ren nodded. “I didn't want you to see my face while you made your decision.”
+
+“You... you didn't know I would stop?”
+
+“Nope.” Ren moved his hands from behind her back to cup the sides of her face. “That was a bit foolish of me, wasn't it?”
+
+“It was downright foolhardy.” Xuunah said and kissed him. They stayed that way for a couple of minutes, then Xuunah broke the kiss. “I won't break my people's mandate.”
+
+“I know.” Ren said. “Why else do you think I haven't torn your clothes off and had my way with you already?”
+
+Xuunah chuckled. “You're incorrigible.”
+
+“Only on important things.” Ren said and let her go. “I'll see you in the morning.”
+
+“Goodnight, Dearest.”
+
+“Goodnight, My Angel.” Ren said and left her apartment, then left the Main House and ran across the street to the warehouse and went inside the forge. “Sorry about that.” He said and positioned himself right back where he was, and put Zetaya's head stub back onto his lap. “Now you have a choice. Do you want me to keep going with Vasalor's story, or tell you the one Teepo and I just went through?”
+
+Zetaya made the sound of a crackling fire, and Ren chuckled.
+
+“Right, it doesn't matter as long as I'm spending time with you.”
+
+“If we're voting, I'll pick Vasalor first.” Teepo said. “I wasn't around for that one.”
+
+Ren nodded and relaxed as he rubbed Zetaya's head stub. “Well, I was surprised as anyone could be when Vasalor saved me when I tried to polymorph into a Light being.” He laughed. “Then I kind of tricked him into letting me stay for a while...”
+
+For the next 5 hours, Ren held Zetaya and enraptured the fire elemental and Teepo with the story of Vasalor and the time Ren had spent with him. With the remaining time left in the night, he told them about being in the Light Realm both times he was there.
+
+Zetaya had made the sound of a crackling fire the entire time.

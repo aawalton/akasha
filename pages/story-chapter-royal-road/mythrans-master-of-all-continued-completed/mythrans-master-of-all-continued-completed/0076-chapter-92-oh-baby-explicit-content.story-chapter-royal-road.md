@@ -1,0 +1,181 @@
+---
+id: f951af34-caa8-5772-9b70-e35bc509fa64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92 - Oh, Baby! (Explicit Content)"
+slug: 0076-chapter-92-oh-baby-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 76
+ownLength: 2170
+unit: words
+publishedAt: 2016-11-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104168/chapter-92-oh-baby-explicit-content"
+royalRoadId: "104168"
+---
+
+Lucy and Ren made out for a few minutes, sprawled out on the couch. Neither of them remembered how they ended up laying down, but by that point it didn't matter. They were nearly lost in the feeling of touching each other. They stopped kissing to catch their breath, and Lucy looked down to see a large protrusion trying it's best to escape Ren's loose fitting pants. She ran her hand quickly over it and Ren caught his breath.
+
+“Oh...”
+
+She felt how hard he was and she smiled. He's this excited from just kissing me! She thought and gently got up from the couch.
+
+“Lucy...” Ren said with longing in his voice.
+
+She reached down and pulled him up to stand. She led him into her bedroom and sat him on the bed. She went back and shut the bedroom door, then turned around and slipped off the blouse she wore and Ren saw that she was wearing the blue bra.
+
+“It really does bring out your eyes.” Ren said, and Lucy's heart leaped.
+
+He's still just seeing me... even with my shirt off! Lucy thought and undid the zipper of her jeans.
+
+“Wait.” Ren said and Lucy stopped.
+
+“But-” Lucy tried to say.
+
+“Turn around and take them off.” Ren said and smiled.
+
+Lucy blushed and turned around. I thought he was going to tell me to stop. She thought and unbuttoned the top button and peeled the jeans down. Ren sat on the bed and watched as some of the promised land was revealed. Lucy peeled the jeans down over her wonderful behind and bent over to get them off.
+
+“Oh... my...” Ren said.
+
+Lucy stood up after flipping off the jeans into the corner, then turned around. She blushed again when she saw that the bulge in Ren's pants looked like it was actually bigger. Lucy walked over to the bed and Ren stood up to take off his shirt. He undid his pants and let them slide to the floor. Lucy tried not to look, but his manhood stood out almost as if he wasn't wearing any underwear at all. She shifted her gaze to Ren and he was staring at her in the eyes, and not at her breasts.
+
+It's time to change that. She thought and unhooked her bra.
+
+Ren's eyes widened at the perfect shape of Lucy's breasts. The nipples were the size of a dime, and the areolas were the size of dollar coins. They were pink, round and firm, and protruded out about half an inch.
+
+“Lucy... they're perfect.” Ren said and looked her in the eyes again.
+
+Lucy had always been self conscious of her large nipples; and bought thick bras, and even pasties, to keep them restrained. She'd even had one boyfriend complain they were too big and that she should have them fixed, or get implants to offset their size.
+
+Ren didn't need a written invitation and reached over to touch the tip of her nipple. Lucy's breath went a little faster and Ren cupped her breast with a hand and kissed the nipple. Her breath caught as he sucked on it. She ran her hands through his hair as he played and pulled on one, and then did the same to the other. After a minute, Ren stopped and sat down on the bed. Lucy looked at him.
+
+“Sorry, my knee hurts.”
+
+“Ren, I'm sorry! I forgot!”
+
+Ren grinned. “Thank you.”
+
+“F-for what?”
+
+“For forgetting I'm like this.” Ren said and tapped his knee lightly.
+
+“Oh, sweetheart!” Lucy said and gently pushed him to lay back on the bed and kissed him. Ren felt her breasts and discovered that they were just as firm hanging down as they were when she was standing up. She kissed him on the lips, on the chin, then kept kissing him down his chest, and to his waist. Lucy got to the top of his underwear and Ren spoke.
+
+“Lucy... there's something you should know... I'm... well, down there I'm...”
+
+Lucy pulled his underwear off and saw what Ren was talking about. “Wow.”
+
+Ren covered himself and tried to move away, but Lucy held him in place with her hands. Ren was embarrassed that he was so out of proportion down there, compared to the rest of him. He was also completely devoid of hair.
+
+“My... my parents... when they did all those experiments on me... some of them... it... it made my penis...”
+
+“Fantastic!” Lucy said.
+
+“W-w-what?” Ren stammered.
+
+“I've never seen a more handsome penis.” Lucy said, then blushed as she realized what she'd just said. “I mean... I'm a nurse. I've seen hundreds of penises.”
+
+Ren nodded.
+
+Lucy smiled. “I've even seen yours; but never at... full mast.” She said and blushed. And he's circumsized. She thought. It'll make some things easier.
+
+“You... you aren't turned off by it? It's not too big?” Ren asked.
+
+“I think it's just perfect.” Lucy said and Ren smiled.
+
+He was going to say something else, until Lucy flicked out her tongue and quickly touched the throbbing skin. He froze at the sensation and if he didn't know any better, it felt like he actually got harder.
+
+I didn't think that was possib- Ren's thought was interrupted as Lucy took a long lick from the base of his penis to the tip.
+
+“Oh, god.” Ren said and looked at Lucy. She stared at him as she licked the shaft once more and his breath quickened. She grasped his penis with her hand and lifted it slightly. Ren's eyes widened as Lucy slipped the tip into her mouth.
+
+“Good god!”
+
+Lucy worked the shaft as she slipped the tip of his penis in and out of her mouth. Her tongue flicked the edges of the tip as she worked her mouth further and further down the shaft. Ren closed his eyes and enjoyed the feeling of her mouth.
+
+“Lucy...” Ren said. “...if you...” He caught his breath. “If you keep going...” Ren said and looked at her. “...like that...” Lucy looked at him as she finally got his penis all the way down her throat and touched his belly with her top lip. “I'm gonna...”
+
+Lucy slipped it out of her mouth, smiled, and took a deep breath.
+
+Ren smiled back. “Thank-”
+
+Lucy jammed his penis down her throat and held it there.
+
+“Oh my GOD!” Ren yelled and had no choice but to let himself go. It seemed to go on forever, but was only about 15 seconds. Lucy felt him stop spasming and slid Ren's penis out of her mouth, making sure to swallow so nothing could escape. A bit more came to the tip, and Lucy licked it off.
+
+“Oh, god... don't do that yet.” Ren said and Lucy chuckled. She reached out and touched the silky skin lightly, and Ren winced.
+
+“Does it hurt?” Lucy asked, concerned.
+
+“Hell, no... I'm just afraid I'll go again.” Ren said through gritted teeth.
+
+“Really?”
+
+Ren nodded. “Just give me a minute.”
+
+His reactions are really turning me on! Lucy thought and smiled.
+
+Ren did a breathing exercise and calmed down. His penis didn't get any softer, however. It was still thick and hard, and quite ready to continue. Ren knew if Lucy kept going, he'd be spent and wouldn't be any good for anything else, so he decided to stall.
+
+“Your turn.” Ren said and sat up.
+
+“W-what?” Lucy asked, surprised.
+
+“Get up here and let me return the favor.”
+
+Lucy stared at him as he tugged her hands and she stood up.
+
+“Lay down, please.”
+
+Lucy climbed onto the bed and rolled over. “You... you really don't...”
+
+Ren eased her underwear down over her hips and saw that Lucy was just as hairless as he was. “Wow.”
+
+Lucy blushed a little at his comment. She'd spent a lot of time getting ready down there, and was really happy all that work had been worth it. Ren positioned himself so he was half on his side and half laying down (to keep the pressure off his penis) and eased Lucy's legs apart. Ren kissed her thigh and kept kissing his way up her leg until he came to the area she'd worked so hard to 'clean up'. Lucy caught her breath, waiting for the sensations to start, and Ren skipped it to start down the other thigh. He glanced at her and she glared at him. He smiled, blew her a kiss, then leaned in to kiss her other set of lips.
+
+Lucy moaned in appreciation as Ren kissed her there as if he was kissing her mouth. He did that for several minutes, then switched to Lucy's tactic of licking from the base to the tip. Her breath came faster and faster as Ren licked and sucked different parts. He stayed there for about 10 minutes and her breathing evened out but was still fast. I'm missing something. Ren thought and smiled. He moved his mouth to the top of her opening and lightly sucked, then put a fingertip inside her. He had to push, because she was so tight, and her breath caught. He slid the fingertip out, then jammed two fingers in as far as he could and that was enough. Lucy grabbed the back of his head and held him on her opening as she came.
+
+“Oh, GOD!” She said as all her muscles tensed up. Ren took it all into his mouth and swallowed. He sucked a bit more and another small squirt came out and he swallowed again. Ren kept sucking and playing, and Lucy kept a hold of him and kept cumming. About 5 minutes later, she let Ren's head go and laid back on the bed. Ren gave her another lick and she writhed on the bed.
+
+“Don't...” Lucy said and shivered. “Good god...” She took a deep breath. “I've never... so much... god, that was...”
+
+“Amazingly mind-blowing?” Ren offered and Lucy nodded without lifting her head. “Now you know how I felt after your performance.” He said and smiled. “It was awesome.”
+
+Ren climbed up the bed and looked at Lucy, and she looked at him.
+
+“We can stop for a while... if you need a rest.” Ren said, and Lucy laughed.
+
+“I was about to say the same thing to you.” She said and kissed him.
+
+Ren pulled back from the kiss and glanced down. Lucy looked as well and saw he was still rock hard and throbbing.
+
+“I need to deal with this little problem.” Ren said and smiled.
+
+“Little!” Lucy said and shook her head. “Come here.” She took Ren into a hug and rolled him on top of her. After a bit of fumbling and shifting of positions, Ren was ready for entry. He kissed her and slid down a bit. Ren was tempted to tease her a little, and just rub her a little with his penis, but he guessed that she'd get mad if he did. He slid the tip inside and Lucy caught her breath again.
+
+“So... tight.” Ren said and slid the tip out again. It took a few tries, but Lucy's body made enough room for Ren to fit in completely and she wrapped her legs around him.
+
+God! He's so big! Oh, god! Lucy then lost all thought as Ren started moving. He slid in and out slowly and Lucy's body gripped him hard. Ren took his time, and slowly, oh so slowly, worked in and out. Lucy could feel the pressure building, as with each stroke, Ren touched that spot in her.
+
+“Oh... oh...... oh........” Lucy squealed each time he filled her up. Ren felt her trying to urge him to go faster, but he knew if he did that, he wouldn't last at all with her holding onto him so tightly.
+
+“Close...” Lucy whispered and Ren kept moving in and out. Lucy's breath evened out again. Ren didn't stop, but he knew he needed something... and he threw caution to the wind and jammed himself hard into her. It only took 3 good slams and Lucy clamped down hard on him and she came, bucking underneath him.
+
+“AhhhhhhhHH!” Lucy hollered. She kept cumming, and Ren couldn't hold it anymore and came, too.
+
+“AhhhhhhhHH!” Ren hollered with her.
+
+After they both stopped twitching from another mind-blowing orgasm, Lucy opened her legs and Ren slid out then rolled off of her.
+
+“Wow.” They said at the same time, then looked at each other and smiled. A moment later, Ren's smile vanished and he looked down at Lucy's belly.
+
+“Lucy! I... I came...”
+
+Lucy put a hand on his chin and moved his head to face her. “It's okay.” She said and smiled. “I'm on the pill.”
+
+Ren's eyes widened.
+
+“I wanted your first time to be real.” She said. “I didn't want anything between us, not even a thin piece of plastic.”
+
+Ren leaned over and gently kissed her. “I love you.”
+
+“I love you, too.” Lucy said and kissed him back.

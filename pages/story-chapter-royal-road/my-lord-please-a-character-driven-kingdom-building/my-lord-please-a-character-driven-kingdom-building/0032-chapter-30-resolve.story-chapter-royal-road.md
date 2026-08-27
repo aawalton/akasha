@@ -1,0 +1,173 @@
+---
+id: 0a79e9d5-565f-55ee-8222-71fa132f6177
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 Resolve"
+slug: 0032-chapter-30-resolve
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 32
+ownLength: 2050
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3273704/chapter-30-resolve"
+royalRoadId: "3273704"
+---
+
+When the discussion finally came to an end, the others departed the study one by one.
+
+Dorian was the first to leave, offering Lucien a brief nod before stepping quietly through the door. Bran and Harlon followed not long after, their expressions still thoughtful as they spoke in low voices with Elias while the steward gathered his parchments. Within moments the room had emptied, and the soft sound of the door closing behind them left the study wrapped in a deeper silence.
+
+Beyond the window, the village continued its slow winter rhythm. Somewhere in the distance a hammer struck wood in steady intervals, and faint voices drifted from the road outside the manor walls as the villagers went about their day.
+
+Yet within the study the air felt heavier, as though the decision left behind by the departing men still lingered in the air.
+
+Lucien remained seated behind his desk, his fingers steepled before him as he stared down at the wood grain of the polished surface, his thoughts turning slowly over the problem that had been laid before him.
+
+'At times like this, my own experience in my former world is a curse,' Lucien noted darkly to himself.
+
+Part of him felt the instinctive urge to simply accept the refugees. By every practical measure, Ashridge possessed the food and space to spare for now, and the values he had grown up with in his previous life urged him toward that conclusion almost instinctively.
+
+But that instinct was precisely what made him hesitate.
+
+This situation demanded far more careful deliberation than simple sympathy could provide. He was no longer merely an observer weighing a moral dilemma from a comfortable distance.
+
+Now, he was responsible for the survival of an entire village and the choice he had to make would shape not only the fate of the refugees waiting within Ashridge’s walls, but the future of the settlement itself.
+
+Could Ashridge survive not only the next Tithe, but the arrival of others who might follow if word spread?
+
+If he accepted these people now, the fragile balance he had carefully constructed over the past month might unravel entirely. The plans he had made for Ashridge’s gradual growth would be swept aside, forcing him instead to react to a future shaped by circumstances beyond his control.
+
+Before his thoughts could spiral further down that path, a soft cough broke the stillness.
+
+Lucien’s eyes lifted to find Alicia standing beside the desk, though he had not noticed when she moved from the place she had occupied near the wall.
+
+She leaned forward and placed a small plate of food upon the desk with care, setting it within easy reach before adjusting the position of the bread as though making sure he would not overlook it.
+
+“My Lord,” she said, the reproach in her voice softened by concern, “please have something for lunch. You skipped again.” Though she spoke lightly, he could not miss the faint worry lingering in her tone.
+
+Lucien blinked, he didn’t realize how late it was. “Ah...thank you, Alicia,” he muttered absently.
+
+He reached for the plate without looking up, breaking off a small piece of bread more out of habit than hunger and for a time, the room fell quiet.
+
+Alicia remained where she was beside the desk, her hands folded neatly before her apron as she watched him.
+
+“My Lord has been thinking about the refugees,” she observed after a moment, keeping her voice low so as not to disturb his thoughts.
+
+Lucien gave a small nod as he looked down at the plate before him. “There are nearly a hundred of them,” he said quietly, the weight of the number seemed to settle more heavily in the room once spoken aloud.
+
+Alicia lowered her gaze as she considered that. “That is a great many people, My Lord,” she replied, the words leaving her slowly.
+
+Lucien leaned back in his chair, one hand resting against his temple as a faint, tired breath escaped him. “A great many problems,” he corrected, though there was little harshness in his tone.
+
+“They will need food, shelter, work,” he continued after a brief pause, his tone thoughtful but weary. “And if I accept them, others may follow once word spreads. Ashridge could grow far faster than I intended.”
+
+Alicia remained beside the desk, her hands folded before her apron as she listened without interrupting. After a moment she spoke again, her voice slightly wistful now.
+
+“When I came to Ashridge...my family had also left our village.”
+
+Lucien’s gaze lifted toward her. “You fled during a Tithe,” he said, the words sounding less like a question than a realization.
+
+“Yes, My Lord.” Alicia nodded faintly, though her fingers tightened slightly against the fabric of her apron. “Our village was small. When the Tithe passed nearby, many people chose to leave.”
+
+She paused briefly as though recalling the memory. “Some traveled west. Others went east.”
+
+Lucien watched her more closely now, the analytical distance he usually kept from such stories softening. “And the village?” he asked.
+
+Alicia shook her head slowly. “I do not know if it still stands.”
+
+For a brief moment neither of them spoke, then Alicia continued softly. “Many villages along the frontier change like that, My Lord. Some grow. Some disappear. Sometimes people leave...and sometimes others arrive later and build again in the same place.”
+
+Lucien leaned back in his chair as he considered her words. “So the land changes,” he said after a moment.
+
+“Yes.”
+
+“And the people move with it.”
+
+Alicia nodded gently. “Most families have kin in other villages somewhere along the frontier,” she explained, her voice calm as though describing something long familiar to those who lived along the same lands. “When a Tithe is worse than usual, people often travel between them.”
+
+That was simply the nature of life along the frontier. Villages rose and vanished with the passing of beasts, and the people who lived there learned early that permanence was a fragile thing.
+
+Roads that were empty one year might carry entire families the next, seeking relatives, work, or simply a place where the beasts had not passed.
+
+Alicia watched him silently for a moment before speaking again. “My Lord has done much for Ashridge already,” she said gently.
+
+Lucien gave a faint, distracted hum of acknowledgement as he took another bite of bread.
+
+Alicia hesitated, her fingers tightening against the folds of her apron before she finally asked, “What sort of Ashridge would you want it to be in the future, My Lord?”
+
+The question lingered in the study, though Alicia did not stay to hear his answer. She gave a small bow and reminded him gently, “Please remember to finish your meal.”
+
+Before turning away, she nudged the plate slightly closer to where his hand rested, as though worried he might forget it entirely.
+
+He barely noticed her leaving, his thoughts already turning over the question she had left behind.
+
+Lucien’s gaze drifted toward the window as he realized that many of the refugees now waiting in Ashridge likely still had cousins, siblings, or parents scattered among other settlements all over the frontier.
+
+The study door closed with a soft click, leaving Lucien alone with his thoughts.
+
+He finished the meal slowly, barely tasting the bread as Alicia’s question continued to circle through his thoughts.
+
+The future of Ashridge…
+
+He settled deeper into the chair, his eyes drifting toward the window where the pale winter light filtered across the frost covered fields beyond the village.
+
+What sort of village did he wish to build now that he found himself in this world? It was a question he had only considered vaguely during those first tumultuous days after awakening here.
+
+Back then the answer had seemed simple. He had declared to himself, with a certainty that now felt almost naive, that he would drag this land and perhaps this entire world, forward kicking and screaming into something kinder.
+
+The memory drew a faint breath from him.
+
+And now, when that moment had finally arrived, the first true decision placed before him had brought him to a standstill.
+
+That was the trouble with grand ideals, it was easy to declare them when they remained distant and abstract. But the moment one was forced to act upon them in the real world, the path forward rarely appeared as simple as those ideals suggested.
+
+Lucien rested his elbows lightly against the desk as his thoughts began turning over the problem once more.
+
+Nearly a hundred refugees, food supplies that could sustain them for now though not without consequence, and housing that could be built with time and labor.
+
+Added to that was the possibility, perhaps even the certainty, that others would follow once word spread across the frontier. What stood before him was not merely a question of compassion, but a question of stability.
+
+Ashridge had only just begun to recover from the Tithe. The fields were still adjusting to the new crop rotations he had introduced, and the fragile balance of food, labor, and land had only recently begun to settle into something workable.
+
+Introducing nearly a hundred additional mouths into that balance would change everything.
+
+Lucien exhaled slowly as he continued to examine the situation, and the more he considered it, the more another possibility began to take shape in his mind.
+
+A larger population did not merely mean more mouths to feed. It also meant more hands to work the fields and more labor to expand them. In time, it would also mean more people who could be trained for work beyond simple farming once the harvests became stable.
+
+The crop rotations would begin to strengthen the village's food security if the coming seasons proved successful. That meant grain production would increase to an amount more than it required for simple survival.
+
+And once that happened, the true development of Ashridge could begin.
+
+Workshops, trade, and the development of tools and industries that they currently lacked the manpower to support.
+
+With enough people, the village could begin producing more than simple survival demanded. Smithing could expand beyond repairing tools. Carpentry could move beyond the constant work of rebuilding homes lost to winter and the Beast Tithes.
+
+Even simple crafts such as pottery, textiles, and preserved goods might find their way onto the trade roads leading toward Helvarn and the deeper territories beyond.
+
+Many of the ideas he had once considered distant possibilities suddenly appeared far more plausible when viewed through the lens of a growing population, and as that realization took hold Lucien leaned back in his chair.
+
+In his previous world, development had always followed population, where more people meant greater specialization and specialization produced progress. And progress was precisely what this land lacked.
+
+For a time, he remained still, his thoughts drifting back to Alicia’s quiet question.
+
+‘What sort of Ashridge would you want it to be in the future?’
+
+Lucien allowed the words to linger in his mind.
+
+In the end, Alicia had reminded him of something important, something he had nearly lost sight of while weighing numbers, projections, and the fragile balance of the village’s survival.
+
+The future he wished to build here was never meant to be safe, and likely not the most efficient path either. It was meant to be better, not merely for himself, but for the people who would one day live under his rule.
+
+He straightened in his chair as the path forward became clearer in his mind, though he knew it would not be without risk.
+
+Responsibility had defined him once. It would define him here as well.
+
+If this land was ever going to become something kinder, then someone would have to take the first step.
+
+Lucien’s gaze lingered on the frost covered fields beyond the window as the weight of the choice finally sank in. Then he reached for the small bell resting at the corner of his desk and gave it a single, measured ring.
+
+The sound had barely faded when the door opened and Elias stepped inside, the steward already holding a small notebook as though he had anticipated the summons.
+
+“My Lord?”
+
+“Arrange a meeting tomorrow morning,” he ordered calmly. “Have Dorian, Bran, Harlon, and Joren present. We have matters to discuss regarding the future of Ashridge.”

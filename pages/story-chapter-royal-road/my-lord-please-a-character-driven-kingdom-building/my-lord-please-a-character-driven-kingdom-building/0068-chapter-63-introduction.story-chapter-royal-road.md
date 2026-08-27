@@ -1,0 +1,197 @@
+---
+id: ea9c0fcc-06c6-5324-9987-20b3983ff67d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63 Introduction"
+slug: 0068-chapter-63-introduction
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 68
+ownLength: 1897
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3423760/chapter-63-introduction"
+royalRoadId: "3423760"
+---
+
+The courtyard came into view as Lucien guided his horse through the inner gate.
+
+The manor was much the same as when he had left it, though Lucien doubted that would last for long now that a new addition to the household had arrived.
+
+He brought his horse to a stop near the stables. The rest of the convoy followed suit a beat later.
+
+The carts were guided toward the side of the courtyard near the storage sheds, wheels dug into place as they came to a halt. Tomas and a guard dismounted first, moving toward them to begin untying the ropes that held the goods Ashridge needed for the coming seasons.
+
+One of the villagers approached to aid Tomas with unloading the cart containing the grain seeds. Those needed to be moved under cover quickly. The journey here from Helvarn had not been long, but even a few days might spoil seeds left open to the elements.
+
+The rest of the guards moved to the other, heavier cart. The ore from the first delivery had weighed heavily enough to nearly sink the cart into the thawing road.
+
+Talia had halted her own to the side, a small space set between the other two larger ones. She hopped down from the front of the cart with an ease that would have seemed natural if he had not known the reason behind it.
+
+One of the men approached, offering to unload it for her.
+
+Talia gave an easy grin while gesturing toward Lucien. “He decides where things go.”
+
+When the man looked toward him, Lucien’s gaze passed over the goods she had brought. “Store them in one of the empty storage sheds and ensure they are kept dry.”
+
+Her cart was filled with smaller containers, packed with care rather than volume. The arrangement alone spoke of goods chosen with Ashridge in mind.
+
+The man inclined his head in response. Another had already begun to open the door to air out the space within.
+
+Talia’s eyes met his from across the yard, lingering just long enough for a light wink to follow. Lucien shook his head in exasperation.
+
+The doors of the main hall opened, and Elias stepped out onto the stone landing before descending into the courtyard.
+
+Below the steps, the steward bowed toward him. “My Lord. It seems the road did not slow your return.”
+
+Lucien gave a slow nod. "There were some delays due to the thaw, though nothing severe enough to affect the ride back."
+
+Elias’s attention drifted from him, moving across the courtyard as the guards began unloading the carts. His gaze passed briefly over them before pausing at the third cart.
+
+By the time it shifted again, Talia had already stepped closer to stand just behind Lucien on his left.
+
+The steward’s eyes lingered on her for a breath before he inclined his head. “…I see.”
+
+Before Lucien could respond to that, the doors opened once more.
+
+Alicia emerged onto the stone landing, her eyes finding him immediately. Some of the tension in her shoulders eased as she descended the steps, only for her movement to falter when she noticed the unfamiliar figure beside him.
+
+Sera, trailing behind the maid, tilted her head at that. Her pale eyes lingered on Alicia briefly before moving to Talia, who had gone unusually silent.
+
+He didn't need to look back to know what expression was forming on his junior's face.
+
+Before anyone could say anything, Lucien spoke first.
+
+“I brought this one back myself, this time.”
+
+Alicia’s lips pressed together at his words, the reaction coming quickly enough that a faint crack appeared before she covered her mouth.
+
+Beside her, pale eyes flicked briefly toward the maid’s expression before studying Talia more carefully.
+
+Talia moved first, just as he had expected. She stepped forward from his left and lowered herself into a formal curtsey.
+
+For a moment, Lucien felt a faint sense of pride. His junior had grown, carrying herself with a formality that suited the setting. First impressions mattered here.
+
+Then she opened her mouth.
+
+“My, Lord Lucien...I didn’t realize your manor housed so many unmarried young women.”
+
+She paused deliberately, her bright green eyes flickering between the two girls before her.
+
+“How bold.”
+
+Tomas had just stepped back from the storage sheds when the words reached him. His pace slowed for half a step as his gaze drifted toward the group in the courtyard before he continued on as though nothing had happened.
+
+A faint exhale escaped Lucien even as Alicia’s smile gave way to a flustered look. A shade of pink bloomed across her face as she gripped the fabric of her apron.
+
+Sera’s attention remained on Alicia now, her eyes quietly fixed on the maid’s reddening face.
+
+The corner of Lucien’s mouth twitched as he caught the shift in his steward’s expression, the composure there cracking for a moment before smoothing over.
+
+'At least, I won’t be the only one to suffer.'
+
+Talia didn't let the silence linger, she straightened from her curtsy and stepped forward, her expression easing into something warmer as her attention settled on Alicia.
+
+“I’m Talia,” she greeted, her tone shifting with practiced ease. “A merchant from Helvarn, here to set up a shop.”
+
+Alicia had not been expecting to be addressed first, nor so casually. The color in her cheeks began to fade as she lowered her head gently. “My name is Alicia.”
+
+She hesitated, her gaze lifting toward Lucien as if seeking permission to continue. He gave a small nod.
+
+“It would be new for Ashridge to have a merchant’s shop here,” she said, a wistful note entering her voice.
+
+Talia’s lips curved as she stepped closer to the maid. “Oh, I am sure there will be plenty of new things coming to Ashridge soon enough.”
+
+Alicia’s smile returned, soft and certain. “Yes, I believe so too.”
+
+At her words, Talia’s eyes widened for a beat before she gave a knowing nod. “Seems like Lord Lucien has loyal people in his household.”
+
+The glance she sent him afterward carried enough amusement that Lucien already knew this conversation would return later.
+
+Nearby, Sera had returned to staring at Talia over the course of the exchange.
+
+Talia did not leave it there. Stepping forward without hesitation, she addressed Sera instead.
+
+Lucien watched the exchange, ready to step in if needed.
+
+In front of the silent girl, Talia gestured lightly toward the bows. "Those are yours? Pretty rare to see someone with two bows walking about! What's your name?"
+
+Alicia looked ready to speak before stopping herself, turning her head to regard Sera for a brief moment. She seemed to come to a decision and remained silent, watching quietly.
+
+Sera did not answer at first. Her pale eyes remained on Talia as one hand lifted to rest lightly against the curve of the bow at her back before lowering again.
+
+A beat later, she inclined her head once.
+
+Talia watched her for a moment. Then her smile softened slightly, as though something had clicked into place. Her gaze flickered briefly toward the hunting bow before returning to Sera. "I see...that kinda suits you!"
+
+Throughout it all, Elias had remained where he was, silently observing the exchange. He chose to step in only now.
+
+“My Lord, arrangements for the goods have been prepared. And your room has been cleaned should you need to rest from your journey.”
+
+Elias's attention turned toward Talia. “You will require accommodation, Lady Talia?”
+
+Talia’s expression didn't change as the steward regarded her. “That won’t be necessary. I’ve already paid Lord Lucien for the space.”
+
+Her gaze drifted briefly toward the direction of the gathering hall. She had likely seen it when they were on the way here.
+
+“The one with the board out front, I’ll be setting up my shop near there.” She paused, then added just as easily, “I’ll be staying here in the meantime.”
+
+For the briefest moment, Elias stilled. It showed only in the way his gaze held a fraction longer than before, the composure in his expression faltering just enough to be noticed.
+
+Lucien saw it and the corner of his mouth twitched. It seemed an additional source of his steward’s troubles had just increased.
+
+He did not particularly mind it.
+
+Elias remained where he was for a time, after the courtyard had settled.
+
+Movement resumed around him as it always did. He stepped forward to organize the effort, ensuring the unloading continued without disruption. Voices rose among the villagers as they worked, the topic shifting toward the newest addition to the household.
+
+Lord Lucien and the others had already entered the manor. For a while longer, the merchant girl’s voice carried faintly from within before fading as they moved deeper inside.
+
+The elderly steward’s gaze lingered on the space where she had stood, his expression kept carefully neutral.
+
+Talia Mervaine
+
+It was a name he had not expected to hear again. He had believed it would remain buried after that day.
+
+He had seen her before, far from the frontier in the heartlands of Arcencia. She had been younger then, trailing behind the young Lucien as the children ran about in the capital, causing the sort of mischief common to their age.
+
+The reports he had received regarding their antics had been confounding.
+
+The Mervaine family did not hold formal power as a merchant family but their influence extended beyond trade nonetheless. Such was the power of gold, when applied properly with deliberate intent.
+
+Lord Varentis had shown interest in a path forward with the family and they had reciprocated. To have one of their own join House Varentis had long been a likely ambition.
+
+The treasury of Arcencia had not simply managed coin. It had directed it under Lord Varentis's hand and with Mervaine beside it, the flow would have become something far more controlled.
+
+With a house as old as Varentis and the finances of the Mervaine family, it would have been the convergence of authority and wealth.
+
+Then House Varentis fell, and that path collapsed with it. What talks regarding their future had been withdrawn and the Mervaine name receded from the lips of those who once spoke of such things.
+
+He had assumed that with Lord Lucien’s exile to the frontier, it would remain that way.
+
+Until now.
+
+Elias continued watching the men as they finished unloading the last of the goods, giving no hint of the thoughts running through his mind.
+
+He could not help but note the timing of Lord Lucien’s journey to Helvarn. He may have known she would be there and perhaps, that was the true reason for his journey to the fortress town.
+
+The Mervaine family as well, would not have sent her there without reason.
+
+Elias drew a slow measured breath, his gaze lowered in thought.
+
+She had arrived in Ashridge alongside Lord Lucien, as though it required no explanation. More importantly, she had paid for such arrangements which implied it was a deliberate exchange.
+
+Such arrangements could have come from the girl herself, or from the family behind her.
+
+This would not remain unnoticed beyond Ashridge.
+
+Something new had entered the order of things, carrying weight beyond its appearance.
+
+Elias straightened, the last trace of disturbance receding beneath his usual composure.
+
+His gaze lifted toward the manor.
+
+The doors remained closed.
+
+...
+
+He had believed that path remained sealed.

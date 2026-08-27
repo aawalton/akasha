@@ -1,0 +1,435 @@
+---
+id: 8f5af48a-8848-5ab7-bdf6-3ad9d55072ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121 - Building Shelves"
+slug: 0106-chapter-121-building-shelves
+partOf: mythrans-master-of-all-continued-completed
+position: 106
+ownLength: 4714
+unit: words
+publishedAt: 2016-12-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108621/chapter-121-building-shelves"
+royalRoadId: "108621"
+---
+
+Ren lifted off the VR headset and Barbara took it from him. “Barbara? What are you... oh, crap.”
+
+Barbara chuckled. “Yes, Ren. You spent the night working in the game and missed supper. It's 10pm right now.”
+
+“I'm sorry.” Ren said. “When I logged in after lunch, I spent the day sleeping. It's messed up my timing.”
+
+“Sleep does that, sometimes.” Barbara said. “I've kept the food warm for you, though.”
+
+“Thanks, Barbara.” Ren said and Barbara went to get it. He watched television until she returned with the tray and he ate supper quietly.
+
+“I'd suggest you sleep tonight in the game, though.” Barbara looked at Ren sternly. “You've got therapy in the morning, and Doctor Hobbard won't let you skip it twice in a row.”
+
+Ren nodded. “I'll be there.”
+
+Barbara smiled. “I like your new metal suit.”
+
+Ren chuckled. “Yeah, it's pretty cool.” He said. “I'm going to change the enchantments on some of the pieces, or modify them at least.”
+
+“Why's that?”
+
+Ren shrugged. “I think the Protection it has now isn't versatile enough, and I need something else.”
+
+Barbara nodded. “It's always good to be prepared.”
+
+Ren smiled. “I try to plan for everything I can think of, but...”
+
+She sat down next to the bed. “You shouldn't worry too much about things.” Barbara said. “Go in there and have fun playing the game. That's what it's for.” She smiled. “I'm having almost as much fun watching you, as you are playing it.”
+
+“Then be prepared to be amazed!” Ren chuckled. “Like the Librarian is going to be.”
+
+“Ooo, what do you have planned?” Barbara asked.
+
+“You'll see.” Ren said and motioned for the VR headset. “So will everyone else.”
+
+“Go get 'em, tiger.” Barbara said and put it on him.
+
+Ren laughed. “See you in the morning.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the bed alone and rolled off the side to stand up. “Coming, Teepo?”
+
+“Always.” Teepo said and hopped into the cloak's hood. Ren opened the bedroom door and walked out through the hallway, then into the main room and into the kitchen.
+
+“Whoa.” Ren said as he saw all of the plates, bowls, platters, and cooking pans that covered every available space in the kitchen.
+
+“Hi, darling.” Nathalia said and came over to him. Ren leaned down and gave her a quick kiss.
+
+“You've both been busy.” Ren said.
+
+“This?” Nathalia said. “We're about half-way done.”
+
+“Half-way?!?” Ren said, surprised.
+
+“Ren. The giant boar was bigger than a full-sized horse.” Nathalia said and chuckled. “There's a lot of meat.”
+
+Her mother Narhilda opened the oven and pulled out another cooking pan, dumped out the contents onto a platter piled high with meat already, and filled it with raw meat to put back in the oven.
+
+“I didn't think...” Ren shook his head and smiled. “I'll be right back.” He went out into the courtyard and built a new icebox. It was nearly 4 times the size of the old one, with a lot more shelves and several more enchanted stones with both Ice and Wind runes. It was dyed to match the kitchen table, and Ren went back inside the house and moved the old one aside, and put the new one in it's place. He loaded all of the plates of cooked meat into it, then the bowls and platters. The icebox was now half full.
+
+“Did you send someone to buy more plates?” Ren asked.
+
+“Better.” Narhilda said. “We sent word to the farm that we had a pile of extra meat, and let the workers out there know that supper would be served here, and they could bring their families.”
+
+“Are you serious?” Ren's eyes widened as he looked at her. “Everyone will be eating in here?”
+
+Narhilda laughed. “Not in here.” She said and waved at the kitchen. “We need a big strapping man, who's handy with a hammer and nails, to make a bunch of tables out in the field across the road.”
+
+Ren chuckled. “I'll do it right away, My Lady.” He said and left the kitchen, walked outside, and gathered up the pile of wood that was there. He unlocked the gate and went across the road, and examined the ground. “It's a little uneven.” Ren took out his hammerpick and did his lot clearing technique to make a space 100 feet by 100 feet, then cleaned it with his shovel.
+
+“Much better.” Ren said as he took out a pile of wood and made 40 tables, 8 feet long and 4 feet wide. They were put in 5 rows of 8 tables at a right angle to the road, leaving a good amount of walking space around them. If they had 8 people per table, 4 per side, that was enough seating for 320 people. Ren then made 320 chairs and leveled up Woodworking twice, and Saw once.
+
+Since he was making chairs anyway, he finally got the chance to make the 30 comfy chairs that the Stonemason's Guild tried to order, and stored them. He put the normal chairs in the right spots around the arranged tables. Once that was done, Ren made one long table that was 64 feet long and put it parallel to the road, so food could be placed on one side and then taken buffet style from the other. Ren looked at the tables and frowned. He'd dyed them all dark brown, but they looked plain without tablecloths. He ran back across the road and into the kitchen.
+
+“I've got to run to town and buy some more cloth.” Ren said.
+
+“There's quite a bit left in the closet.” Narhilda said and put another pile of meat in the oven.
+
+Ren shook his head. “I won't use such great fabric for simple tablecloths. It should be saved for something important.”
+
+Narhilda looked at Ren and smiled. “You're right, of course.”
+
+Ren smiled back. “My Lady, do you still have that request from the Stonemason's Guild?”
+
+Narhilda nodded slightly and took off her apron. “I'll go and get it.” She said and left the kitchen.
+
+“How's the table building coming along?” Nathalia asked as she put another platter into the icebox.
+
+“It's not.” Ren said, then laughed at her surprised expression. “It's already done. That's why I need the tablecloths.” He smiled. “The chairs are done, too.”
+
+“Chairs?” Narhilda asked as she came back into the kitchen and handed Ren the piece of parchment.
+
+“Once I started making tables, I figured people would want somewhere to sit while they ate.” He said and stored the parchment.
+
+“That makes sense.” She said. “I was just going to put the food out for people to get it themselves.”
+
+Ren grinned. “There's a long table for that, too.”
+
+“There is?”
+
+“You can go look if you want.” Ren said and turned around. “I'll be back soon.” He left the kitchen and the house, then closed the gate behind him to lock it.
+
+Ready, Teepo? Ren thought.
+
+“Am I ever!” Teepo said, and Ren ran as hard as he could down the road.
+
+“Wheee!” Teepo chittered in delight as the hood bounced him up and down. The small crowd around the statue watched Ren as he ran by, quick as a flash.
+
+“Was that?” “Did you see?” “He's pretty fast.” “He's in full plate armor!” “How can he run like that?”
+
+Some of the carts passing the other way to go to House Neram slowed down to watch Ren run by, and he chuckled. He made it back to the main part of the city a few minutes later and slowed down. He avoided the street with all the market stalls, as he didn't want to deal with haggling at the moment. Ren went several blocks over and stopped at the end of the street.
+
+Teepo, same deal. The main lobby, and anything that can be seen from there.
+
+“Give me a couple of minutes.” Teepo said and hopped out of the hood. He skittered down the street and past the guard. Ren stood there on the corner and waited patiently. After several minutes, Teepo spoke.
+
+“It's the same setup as House Longore. Main lobby and desk, offices off the hallway behind. 2 guards this time. One inside, one out.”
+
+Excellent. Thanks, Teepo. Ren thought and walked down the street to the House and up the steps. The guard opened the door for him and nodded. Ren dismissed the Honor gain popup and stepped inside. He walked over to the reception desk and asked to see some of the fabric they had for sale.
+
+“Of course, sir.” The female dwarf said and pulled out several different kinds of colors and weaves. “We have basic cloth, strong weave for toughness, thin weave for breathability...”
+
+“How much is a bolt of basic cloth?”
+
+“3 silver.”
+
+“Do you have a tight weave, that can hold something like sand?”
+
+“We do. It's 6 silver.”
+
+“I'll take 3 bolts of the basic cloth, and 100 bolts of the tight weave.” Ren said. “White, please.”
+
+“Did... did you just say... a hundred?”
+
+Ren nodded slightly. “It should be enough for my immediate needs, but I might be back for more.”
+
+“M-m-more?”
+
+“Do you have that many in stock?” Ren asked.
+
+“I'll have to check.” She said and stood. “Please wait here.”
+
+Teepo, can you follow her?
+
+“I can.” Teepo said and Ren saw him skitter across the ceiling after the female dwarf's retreating figure. Several minutes passed and then Teepo spoke.
+
+“She's talking to the textile foreman.” Teepo said. “They've only got 20 in stock... and they're arguing over putting a rush on tight weave over the normal cloth.”
+
+Damn. Ren thought. I had hoped they'd have more.
+
+“It's not like you can sit there and sew the sacks yourself.”
+
+Not exclusively, no. Ren thought. I can do it while waiting for other things to be done, though.
+
+“The foreman's going to task 2 of the 10 looms they have to the tight weave you want. It'll take 2 days for the full order.”
+
+Thanks, Teepo. Ren thought. Come on back.
+
+The female dwarf came back to the reception desk and Teepo was on her shoulder. He hopped off and landed on the desk. Ren put his hand on the desk's top and Teepo crawled up his arm.
+
+“We don't have that many, sir.” She said. “We'll have that many in a couple of days, though.”
+
+“That's fine.” Ren said. “I'll take the 3 basic, and any tight weave that you do have in stock, and you can deliver the remainder to House Neram in a couple of days, when you get them made.”
+
+The female dwarf smiled and reached into a drawer. Ren pulled out 6 gold and 9 silver and put it on the desk. She took out the order form, and Ren signed it as she took the money. She left the desk again and went in the back. Ren waited about 10 minutes and she came back with a worker that pushed a small cart filled with bolts of cloth.
+
+“Do you have a cart outside, sir?” She asked.
+
+“No, I'm an Adventurer. I'll carry them.” Ren said, and then stored the 20 bolts of tight weave cloth, and 3 bolts of basic cloth.
+
+“Thank you for your order, sir.”
+
+Ren nodded slightly and left. He walked over several blocks to the lumberyard and walked inside. The female dwarf there recognized him right away and stood.
+
+“Is there a problem with your order, sir?”
+
+Ren smiled. “Of course not.” He said and approached the desk. “In fact, you've delivered more than the promised amount for this week.”
+
+She smiled. “When we sent the end of week delivery, the workers noticed all the contruction and we rushed the next delivery.”
+
+“That won't put you behind, will it?” Ren asked.
+
+“No, sir. We've brought in extra workers to handle the demand.”
+
+“Can you bring in more?” Ren asked. “I've got a big project that needs taking care of immediately.”
+
+The female dwarf put a hand on her chin. “What kind of project?”
+
+“I've got a 1 storey building, about 50 feet by 50 feet, that needs another level built on top of it.” Ren thought about how many books there were at the Library, and changed his mind. “Better make that 2 levels, and possibly a third, depending on how things turn out.”
+
+“When would you like a crew sent?”
+
+“Is now too soon?” Ren asked.
+
+“Now?” She asked.
+
+“I said I'd have it done as soon as possible.”
+
+“Let me go and talk to the foreman.”
+
+“I'd appreciate that, thank you.” Ren said. Teepo.
+
+Teepo hopped out of the hood and followed the female dwarf out the back. “She's talking to him, and asking if there's a crew available for heavy construction.” Teepo said. “He's nodding and pointing to several people.”
+
+Ren smiled and waited patiently.
+
+“They're gathering together materials and loading some carts.” Teepo said. “I'm coming back.”
+
+The female dwarf came back with Teepo on her shoulder and smiled. “It seems we do have a crew.” She said and sat down at the desk. “It's a big job you've requested, and on short notice.” She pulled out an order form and looked at Ren. “Is there a limit to how many workers you want?”
+
+Ren shook his head. “If more hands will get it done faster, and without getting in each other's way...”
+
+She nodded.
+
+“Then I'll hire them.” Ren said. “How much for all the materials and extra labor?”
+
+“We have 10 people available right now, and it's a gold each per day.” She said. “Heavy labor is more expensive than basic labor.”
+
+“That's understandable.” Ren said. “What about the materials?”
+
+“It's another 15 gold.” She said. “The extra long supports for crossing the distance are more expensive.”
+
+“That's fine.” Ren said, handed her 25 gold, and signed the work order. “Can I ride with them? I need to show them where to go.”
+
+“Of course, sir.” She stood up and walked down the hallway again. The female dwarf came back a minute later and smiled. “They'll meet you out front.”
+
+Ren reached a hand out to her and she took it. “Thank you very much for your help.” He said and bent over it. Teepo crawled across and up into the hood.
+
+“Y-you're welcome.” She said, a little flustered.
+
+Ren left the building and waited a few minutes for the line of carts to come around to the front. They pulled over and Ren climbed onto the seat next to the driver. He gave the driver directions and the driver took him to where he wanted to go, then shook his head then they arrived at the alley.
+
+“We can just go around.” He said.
+
+“You'd just be coming up the other end of the alley to get to the building.” Ren said and smiled.
+
+“Okay.” The driver flicked the reins and led the train of carts down the alley and came to a stop in front of the small building. “Hey, there is a building here!”
+
+Ren chuckled and hopped off the cart. “No one comes down here, so you can set up what you need right here.”
+
+The driver nodded and the couple of workers in the back hopped out as well and started to unload everything. The other 4 carts started to do the same thing and Ren went into the building. He made his way though the stacks of books to the desk at the back of the room.
+
+“Why, hello there!” The female dwarf said and smiled at Ren. “How are you going to work while wearing your fancy armor?”
+
+“The same way I do while not wearing it.” Ren said and smiled. “Carefully.”
+
+She chuckled. “Alright, let's get to work.”
+
+“Ma'am?”
+
+The female dwarf stood up and grinned. “You don't think I'd let you touch these books without my supervision, did you?”
+
+“No, Ma'am.” Ren said. “I was hoping you'd tell me where to start, since I don't know your filing system; but I don't expect you to help build anything.”
+
+“Why?” She said and scowled. “Because I'm a woman?”
+
+“No, Ma'am.” Ren said. “Some of the best workers I know are women.”
+
+“Then what...”
+
+“You have to tell me what books are going where, how high to make the shelves, if you want them floor to ceiling, which way to point the freestanding shelves so you can see them, and then sort the books to put on the shelves. You won't have the time to help build anything.”
+
+“Oh.” She said and smiled. “Then that's okay.”
+
+Ren smiled, too. “So, where does the filing system start?”
+
+The female dwarf walked to the right and Ren followed her over to the wall. “Right here.” She said and pointed to the book on the very bottom of the floor to ceiling stack. “It's alphabetized and catagorized.”
+
+“How do you reach the books at the top?” Ren asked and looked up the 8 feet to the ceiling.
+
+She smiled, went back to her desk, and came back carrying the chair she was sitting in. “The most versatile piece of furniture ever invented.” She put it down on the floor in front of the stack and Ren climbed up onto it.
+
+“I'd like to try something, if I may?” Ren reached up and touched the top book, then stored it. He stored each book in the stack until he got down to about 4 feet. He looked into his inventory and saw that they'd all stacked into the same slot.
+
+That could be good or bad. Ren thought and pulled out a book from the slot and put it on the stack, then again and again.
+
+“They're in the right order.” The female dwarf said and smiled. Ren didn't tell her they were actually in reverse order of how they were stored. First in, last out. Ren stored enough stacks to clear a 10 foot section, then the female dwarf told him how high to make the shelves. Ren modified his cabinet recipe and took off the doors, and was fortunate that there was enough room for a cabinet with 7 shelves at 8 feet long, and there was 7 stacks of books that were almost 8 feet high. Ren didn't have to cut the wood at all and assembled the cabinet. He took the books from his inventory and put them on the shelves, starting with the bottom shelf and working his way up until he'd filled the shelves.
+
+“That's perfect!” The female dwarf exclaimed. Ren kept repeating this process, only taking enough stacks of books to fill the next cabinet of shelves. He heard banging and saws and things happening outside, but the female dwarf didn't mention hearing anything, so Ren finished the whole row of cabinets along the length of the building, and turned to the female dwarf.
+
+“Six cabinets fill the length of the room.” Ren said. “That's one row done.” He turned to the next stack. “Where does your filing system go to now?”
+
+“Back down the end.”
+
+“Really?” Ren said. “I thought it would be right here.” He said and pointed to the stack they stood next to. The female dwarf shook her head.
+
+“I couldn't keep track if I alternated them.”
+
+Ren nodded. “No problem.” He said. “I'll keep everything single sided.”
+
+They walked down the aisle and to the next row of stacks. Ren kept working and finished that row of cabinets, and then another. He ran out of wood and told the female dwarf he'd be back in a little while when he picked up more wood. She waved at him and marveled at all the nice shelves she had. Ren went outside the small building, and when he turned around, saw that it wasn't so small anymore. The frame was already up and half of the second floor was already covered. The foreman walked over to him.
+
+“Where did you want the stairs?” The foreman asked and showed Ren the basic plans.
+
+“Right here. 4 feet wide, at the back of the building.” Ren took out a piece of charcoal and drew what he wanted, and drew in the small bedroom at the back. The stairs would only fit where the female dwarf's desk was, and would end above her bedroom. “Put the stairs to the next level beside that in the other direction.” Ren drew in where to put them. “Hold off on the main floor for now. I've got to clear it out before you can add them.”
+
+“Thanks for letting us know.” The foreman said and turned back to supervise the crew. Ren took off running and ran all the way back to House Neram. He ignored the stares from everyone he passed and ran up the road he'd made, and to his workshop. The pile of lumber on the side was still there, and Ren stored piles and piles of lumber, filling 10 slots in his inventory to their modified capacity of 199 items. With almost 2000 planks he felt that would be enough to make the shelves, assuming his count of 7 stacks per 10 feet was accurate. Ren looked around and noticed that the tent was gone.
+
+“Someone took my tent!” Ren said, surprised.
+
+One of the women that was on break from shoveling silt came over. “Your highness? The guards are using it.”
+
+“What guards?”
+
+“The House Neram guards.” She said. “It's on the other side of the house.”
+
+“Oh.” Ren said. “Thank you for telling me.” He started to walk away, then turned back to her. “How did you know about the tent?”
+
+“My husband is one of the guards.”
+
+“I thought Wohrum wasn't married.”
+
+The woman chuckled. “He's not. I'm married to his best friend, Golir.”
+
+Ren looked at her in surprise. “Will you be moving here?”
+
+She nodded her head slightly. “As soon as the loan is approved.”
+
+Ren's face lost all of it's expression. He took in a deep breath and stepped over to her. “How much is the loan for?”
+
+“I-it's for 40 gold.” She said and dropped her head.
+
+“Don't do that.” Ren said. “Look at me, please.”
+
+She looked up with surprise on her face.
+
+“Where are you getting the loan from?” Ren asked.
+
+“H-House Lodur.” She said. “I-it's the only place to get loans.”
+
+Ren frowned at her words. “Please cancel your petition for a loan.” He said. “I will not have people going into debt to move here, then have to work for months somewhere else, just to have a basic living requirement!” Ren handed her 40 gold as several other women came over. “I'll try and get a crew out here tomorrow to build houses.” He said and turned away from her. Ren ran down the road and then towards the city.
+
+*
+
+“By the gods!” “Did he just...” “I can't believe...” “He's really generous.”
+
+The other women kept talking, but Golir's wife just stood there in shock, and didn't say a word as she stared at the pile of gold in her hands.
+
+*
+
+Ren turned around and ran back up the road and towards the group of women that had gathered around Golir's wife. He slowed down and walked over to her. She held the money out towards him.
+
+“Sorry, I nearly forgot...” Ren said and took the money back, and heard several gasps from the other women. He pulled out a coin pouch. “You're going to need this.” He handed it to her and told her to equip it. When she did, he gave her the 40 gold coins back, and she put it in the coin pouch without saying a word. Ren smiled and stepped away, gave her a nod, then turned and ran down the road again.
+
+*
+
+“I thought he was taking it back!” “I thought that, too.” “I can't believe he gave it to her again, like the shock from the first time wasn't enough.”
+
+Golir's wife stood there in shock, and watched Ren's figure run down the road until he disappeared from sight.
+
+*
+
+Ren went to the tables and took out the 3 bolts of basic cloth and dyed them red, measured and then cut it to the proper length to cover the tables. Once that was done, Ren ran back to the main part of town, and stopped at the Stonemason's Guild. The guard opened the door for him without asking him what he wanted or where he was going. Ren went inside and up to the floor where the office of the dwarf that Narhilda had arranged for him to see the first time. He knocked on the door and the dwarf told him to come in. When he saw Ren's armor, he nearly choked on the piece of bread he was eating. Ren saw that the ugly chair was still in front of his desk, but saw a blue tint on the one behind the desk.
+
+“Y-y-yes, yes” *cough* “Please come in.” *cough* The dwarf said and wiped the crumbs off of his desk. “What can I do for you?”
+
+Ren took out the piece of parchment and held it out. “I've got that delivery for you.”
+
+The dwarf sat up straight in the chair. “Really?” He said. “Excellent. Excellent.” He looked at Ren expectantly. “How much?”
+
+Ren's Haggle skill kicked in, he smiled, then looked at the ugly chair. “That one was 10 gold, wasn't it?”
+
+The dwarf looked at the offending chair. “Yes, the piece of trash was 10 gold.”
+
+“The chair I lost around here somwhere would be much better, if someone had found it.”
+
+“Yes, much better.”
+
+“Then wouldn't double that...” Ren motioned to the chair. “...be fair?”
+
+“Double?” The dwarf shook his head. “No, no... not that much. It's a nice chair... assuming someone found it.” He said. “Perhaps... it's worth the same as that one.”
+
+Ren chuckled. “Surely you jest. I sat in that once. I can still feel it.”
+
+The dwarf laughed. “I do, too!”
+
+“How about we split the difference.” Ren said. “15 gold per chair.”
+
+The dwarf squinted his eyes, looked back at the offending chair, and smiled. “Deal.”
+
+Ren took the 30 chairs out from inventory and the dwarf handed him 450 gold.
+
+“A pleasure doing business with you.” Ren said and opened the office door. He turned around and the dwarf was already laying aross the chairs. Ren grinned, shut the door, and walked downstairs. He left the Stonemason's Guild and ran over to the Library. The second floor was completely closed in and Ren nodded slightly to the foreman, who nodded slightly back. Ren worked the rest of the day storing books and building cabinet shelves. He was running out of room and had to push the shelves together. He'd made it about halfway across the room when he saw the female dwarf yawn.
+
+“Ma'am? Why don't you head to bed.” Ren said. “I'll finish this row and then come back tomorrow to keep working.”
+
+“That's a good idea, young man.” She said and stood up. “Goodnight.” She went around several stacks and Ren walked out to the workmen that were starting to pack up.
+
+“I've got the room for the stairs now.” Ren told the foreman.
+
+“Sorry, but the day's over. We're all heading home.” He said. “We can come back tomorrow and finish them.”
+
+Ren shook his head. “Dont worry about it. I'll finish them myself.”
+
+“Are you sure? It's no trouble to come back.”
+
+“Actually, it might be.”
+
+“Why?”
+
+“I'd like to hire you and your crew to build a house or two out at House Neram.”
+
+“A house or two?” The foreman asked, squinting a little. He'd detected a slight lie.
+
+“Okay, a dozen or so.” Ren said.
+
+“You're crazy.” The foreman said and smiled.
+
+“That's what everyone says.” Ren said and chuckled.
+
+“Alright, we'll head out there tomorrow.” The foreman said. “Do you want them all to be the same house?”
+
+Ren shook his head. “Different, if possible.”
+
+“Oh, it's possible, but it'll cost ya.”
+
+Ren grinned and pulled out a couple of platinum coins to show the foreman. “I'm good for it.”
+
+The foreman whistled and then grinned himself. “I'll bring 2 crews.”

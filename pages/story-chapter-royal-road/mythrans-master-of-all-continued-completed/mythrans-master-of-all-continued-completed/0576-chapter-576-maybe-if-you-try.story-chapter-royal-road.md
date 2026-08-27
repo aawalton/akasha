@@ -1,0 +1,217 @@
+---
+id: 27864a11-fe1d-5648-8153-cee9d386cb5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 576 - Maybe If You Try"
+slug: 0576-chapter-576-maybe-if-you-try
+partOf: mythrans-master-of-all-continued-completed
+position: 576
+ownLength: 2832
+unit: words
+publishedAt: 2018-05-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213170/chapter-576-maybe-if-you-try"
+royalRoadId: "213170"
+---
+
+The Sea Dwellers finished their meal, and not one of them had offered Ren anything. They hadn't asked if he wanted to participate, either; which cemented his opinion that it was a demonstration and not them offering to have a meal with a Land Dweller. When it looked like they were about to gather up the few remaining fish, Ren did the lure gesture to get attention. One of the water elementals came over and bubbled and gurgled, and Ren responded.
+
+The water elemental nodded and went back over to Railyse, and then she waved her hand in the air. All the water in the room came to a standstill and all of the Sea Dwellers in attendance turned to look at her.
+
+“It's come to my attention that I've been a less than desirable host for this meal.” Railyse said.
+
+“That's not true!” One of the males said. “Unlike the normal restrictions, you gave us free reign to hunt as we like this time!”
+
+“Not all of us.” Railyse said. “I invited my friend to a meal, and yet I didn't offer him anything to eat.”
+
+Ren felt the ripple of unease go around the room, and more than half of the Sea Dwellers' eyes fell upon him. He gave them a smile in return, and looked back at Railyse.
+
+“He has requested to hunt a fish for himself.” Railyse said, and surprise from everyone followed the unease they had just felt. “Yes, it's unorthodox for a Land Dweller to participate; but, I did invite him.”
+
+“We've already eaten.” One of the females said. “What would be the point of him requesting it now?”
+
+“If I may speak?” Ren bubbled and gurgled in their language, rather than in Adventurer's language.
+
+“You may.” Railyse said.
+
+“I didn't mention it before, because you were all making a strong point to exclude me.” Ren said, which called them out on their intentional snub. “I wanted to wait until you were done showing off.”
+
+“That's very insulting.” The female Sea Dweller said.
+
+“As was making me float here all this time just so I could watch you all rub my face in your abilities.”
+
+“Well, then.” The female said. “Go ahead and choose a fish, you arrogant Land Dweller!” She said as if she was cursing. “We will watch you try and subdue it, then we will watch you get sick as you try to eat it.”
+
+“Lord Ren, you don't have to do this.” The old Queen said.
+
+“Oh, but I do.” Ren said and floated forward. “By the way, I'm a King now and you will address me properly.”
+
+The old Queen was surprised by this, then gave him a nod. “Then proceed, King Ren.”
+
+“Thank you.” Ren said. “I'll choose that fish right there.”
+
+The fish was the liveliest of the remaining ones, and a few of the males laughed.
+
+“Good luck! Even (gurgle bubble gurgle) couldn't catch it!” One of them said.
+
+Ren smiled and watched the fish as it swam.
+
+“You can begin.” The female who had spoken earlier said, a little impatiently. She wanted to see the Land Dweller fail, even if he was a friend to the Queen. “What are you waiting for?”
+
+“A clear shot.” Ren said and used his Water Manipulation ability to hold himself in place.
+
+A moment later, the pattern he had seen the fish use started to repeat, and Ren chose the right spot for his target. The fish hit it and Ren activated the enchantment on the giant ruby on his chest. A foot wide red laser beam burst out and cut through the water as if it wasn't there. All of the Sea Dwellers screamed and hollered as they darted to the sides of the room, then all the water within 5 feet of the beam boiled away in the instant it passed through.
+
+The fish was hit with the beam and it tore through the head, which decapitated it; then the beam went through the wall, the next wall, and the outside wall of the castle. Ren deactivated the enchantment and water poured in to fill the space the water had been boiled away from. The Sea Dwellers calmed down with the bright red light gone, and they all stared at him. Including Railyse.
+
+Ren felt their shock and smiled at them, then used his Water Manipulation ability combined with his own strength to swim through the water and across the room in an instant. He grabbed the fish and used his teeth to tear into the spot behind where the head used to be.
+
+“Hey, not bad.” Ren said between bites. “It might need a bit more cooking time, though.”
+
+“NO!” Railyse yelled, then took a breath and let it out. “No, Lord... King Ren. You have made your point.”
+
+“I don't think I have.” Ren said. “Artemis? Be a dear and kill the other fish.”
+
+Mana bolts seared across the room in less than a second and killed the last few fish with perfect shots right through their heads. Ren could feel the arrogance of the Sea Dwellers go back to a more manageable level, and their respect went up slightly.
+
+“Now I think I have.” Ren smiled and stored the fish. “Thank you for indulging my request.”
+
+Railyse didn't know what to say to that, or to the things he had just done. Ren swam over to Artemis and held out his elbow, and she took it. They floated there and waited to be dismissed with the rest of the meal guests. Railyse waved her hand and the meal was officially over. Several of the Sea Dwellers swam for the doors right away and left, while others floated around to mingle like normal.
+
+Ren and Artemis floated over to where Railyse was, and he bowed his head slightly. “Don't worry, Your Highness.” He said. “I understood your message quite well, and I will deliver it when I leave the Water Realm.”
+
+“It was supposed to be a demonstration that we could take care of ourselves.” The old Queen said. “We weren't trying to...”
+
+“I didn't sweat or feel any Heat as I spoke, Your Highness.” Ren interrupted, and she exchanged looks with Railyse. They had noticed that as well. “I will emphasize your capabilities with the message like you intended; but, all you had to do was ask.” He said. “This whole spectacle was unnecessary.”
+
+Railyse sighed. “I told you, mother.”
+
+“If you had included me in your demonstration, it would have shown that we could meet and have common ground.” Ren said. “Or at least shown your people that we can talk and not have it devolve into what this became.”
+
+Railyse reached a hand out towards Ren, and her mother stopped her. “Ren, I... I have to think of my people now.”
+
+“Yes, I know. I get it. I understand.” Ren said and gestured to the 1 foot wide hole in the wall. “I'll fix that when I come back tonight.”
+
+“You should fix it right now.” The female Sea Dweller that had spoken earlier said as she swam over to them. “I looked out through it, and it goes all the way outside.”
+
+“O-outside?!?” The old Queen asked.
+
+“It also goes up at an angle, so part of the ceiling of the next room is gone as well.” The female said. “There's already a gathering of people outside looking in.”
+
+“Now I'm wondering how far out it went and could be seen.” Ren said and looked at Railyse. “I have a question.”
+
+“Ask it.”
+
+“Is the castle community property?”
+
+“What?”
+
+“Is the castle owned by the Queen, or is it owned by the people?”
+
+“It's been the seat of power for untold generations, but it hasn't always been my family running things.” The old Queen said. “I suppose it is for the people.”
+
+“Good enough.” Ren said and swam over to the hole. “Hey, there!” He bubbled and gurgled out the hole. “Everyone get back! Something's happening!”
+
+Ren heard several shouts and all the faces he could see disappeared. “Geez, you unleash one Death Ray and people start to overreact.”
+
+Sweat appeared on his forehead and he chuckled as it was washed away.
+
+“Okay, it's not a Death Ray. It could be used for one if I cared a little less about people, though.”
+
+None of the Sea Dwellers thought it was funny, since it was still technically a Death Ray, so Ren reached out to put a hand on the wall next to the hole he had made with it. He concentrated on the outside wall of the castle first and poured Mana into the castle. The glow covered the hole, then ran along the ceiling damage to the next hole, then along that ceiling and floor to the hole outside of the castle.
+
+Ren could feel their intense curiosity as the outside wall glowed brightly and filled in as if nothing had happened to it, and then the glow receded as the damage was repaired and the castle regrew into it's fixed state. The next hole filled in and the ceiling repaired itself, and then the hole next to his hand filled in. The glow stopped and he took his hand away from the wall.
+
+Ren turned to the female Sea Dweller and grinned. “There, are you happy? It's all fixed.”
+
+She floated over to the hole that had been there and pat it with her hand. “It's fake.” She said and frowned as she punched it. “It has to be just an illusion.” She punched it several times, and then there was a crunching sound. She hissed and pulled her hand back, and Ren saw some of the shells on the wall had broken and had dug into her skin.
+
+“Please, allow me to help.” Ren said and held his hand out.
+
+She both looked and felt angry; but since fluid was leaking from her, she needed it stopped right away. She held her hand out reluctantly, because she knew it would take a while to find a proper healer.
+
+“Thank you for trusting me.” Ren said, reassuringly. He examined her hand and saw the shell pieces were only part way through her skin. “I don't think any shards made it all the way inside.”
+
+She hadn't thought of that and started to worry.
+
+“Hey, it's okay. I'll check you with this.” Ren said and took out the All-Seeing Mirror. “Please show me any foreign objects inside (bubble gurgle).”
+
+She was shocked that he knew her name, and he smiled when nothing appeared on the mirror surface.
+
+Ren showed it to her and gave her a big smile. “See? Nothing inside.”
+
+She relaxed, despite having her hand held by a Land Dweller, and Ren felt her consternation and conflict about it.
+
+“Now, let's get those pieces out.” Ren concentrated his Water Manipulation ability on her hand and held it perfectly still. “This might tickle a little.”
+
+Ren took out a Minor Healing wand, then made an inch of water above her hand go completely solid. Her eyes widened as the solid water gripped all the pieces of shell, and Ren pulled her hand down. She gasped at the sensation, and he used the Minor Healing wand in quick succession to heal all of the cuts and gouges the shell pieces had left in her hand.
+
+“There we are! Good as new!” Ren said happily, and she stared at her hand. While she was distracted by her completely healed hand, Ren held his hands out and turned the solid water back into regular water and scooped up all the shell pieces. He rubbed his hands together and ground the shells up into a very fine powder.
+
+By this time, they had a large gathering around them and Ren held in his chuckle at their intense curiosity. The shells had been sparkly and reflective, and when he opened his hands, a cloud of sparkly and reflective dust hovered there.
+
+“Ma'am, if I may borrow your bracer?” Ren asked, and she slipped it off her wrist. “Thank you.”
+
+Ren activated his Craft Wondrous Item ability and added the sparkly dust and the bracer to it and made a new recipe with the Unnatural Armor enchantment, +5% Regeneration, 50% Warding, +50% Speed, and just for fun, added the Sunder enchantment that knocked weapons away and disarmed opponents. Everyone was awed at the sight of the golden glow, and then it was finished.
+
+“Ma'am, here's your bracer back.” Ren said. “I'm sorry you hurt your hand.”
+
+The Sea Dweller's stare moved from her hand to her bracer and her eyes widened. “Th-that's not my bracer.” She said. “Mine is old and damaged and barely provides any protection. It also doesn't glitter like jewels or grant so many things.”
+
+“It's yours.” One of the other females said and her hand reached out and stroked the shimmering bracer. “By the Queen's trident, we just saw him change it into that.”
+
+“It can't be.” The female Sea Dweller said and put it on. “Mine was worn in and comfortable, but this... wait... no, it really is mine!” She said and made a fist. “I can't believe it!” She swung her arm in a familiar and well-practised way. “It's the same bracer and it's different at the same time!”
+
+Ren chuckled. “What's old is new again.” He said and touched the wall to pour a bit more Mana into it, and it repaired the broken shells.
+
+“Ren, you're going to be late for work.” Teepo said.
+
+“If you will excuse me, I must return to the mines and continue my sentence.” Ren said.
+
+“O-of course.” The female Sea Dweller said and moved back, as did the others. Ren floated over to Artemis and held out his elbow. She took it, and they both gave a nod to Railyse. She nodded back, and she watched them as they left the dining room.
+
+Ren and Artemis met the guide in the hallway, and he led them out of the castle and to the mines. Ren didn't complain that they didn't need a guide, since they knew where to go; but, he also knew it was to keep him under observation as much as possible while he was outside his assigned room with the observers.
+
+The day at the mines passed just like his first day did, and he helped everyone as much as he could for his allotted time. The guide led him and Artemis back to the castle and to their room. Once inside, Ren sighed.
+
+“Ugh! What a long day!” Ren said and equipped his blue suit. “I'm not quite tired, though.”
+
+“I doubt we can roam around or go for a float in the coral gardens.” Artemis said. “Although, if we asked...”
+
+“Only after the second day?” Ren chuckled. “Maybe after a week or two they might say yes.”
+
+“Then let's go for a walk around the room.” Artemis said. “It's big enough.”
+
+“We did have fun running around it last night.” Ren said and smiled.
+
+Artemis equipped her jeans, shirt, and leather jacket outfit, then put her arm over his shoulders. “Walk with me, My King.”
+
+“I would be more than happy to do that.” Ren said and put his arm around her waist. “Let's take the grand tour!”
+
+Artemis chuckled. “That is the small table beside the bed that we haven't used yet.” She said and started to stroll around the room. “That's the corner where I almost caught you the first time.”
+
+Ren snorted a laugh. “That's what you think.”
+
+They moved down the wall and pointed out the coral growths and the decorations around the room.
+
+“That's the door we enter and leave through.” Artemis said and they walked on. “That's the spot where you practically fell over your own feet and I tackled you.” She pointed up in the air at a spot about head height.
+
+“I'm really glad you were taking it easy on me.” Ren said and gripped her hip. “That could have hurt if you were being serious.”
+
+“I promise I will only tackle you for fun.” Artemis said and kissed the top of his head.
+
+“Thanks.” Ren said. “Oh! There's that painting we've never looked at!”
+
+They walked over to it and leaned in close.
+
+“Look at the details!” Ren said. “Is that a real scene, I wonder?”
+
+“A giant octopus fighting a giant kraken?” Artemis asked and smiled. “In this place? It's more than likely true.”
+
+“With weapons, though?” Ren asked and put a hand on the painting right where one of the observer's faces was. “Could they have made spears that big?”
+
+“Could you?” Artemis asked.
+
+“It depends on if it's magical or not.” Ren chuckled. “Dammit, now I'm trying to figure out how to make it!”
+
+Artemis laughed. “Shall we continue on and finish the tour?”
+
+“Sure.” Ren said and took his hand away from the painting, then moved on to see the rest of the room.

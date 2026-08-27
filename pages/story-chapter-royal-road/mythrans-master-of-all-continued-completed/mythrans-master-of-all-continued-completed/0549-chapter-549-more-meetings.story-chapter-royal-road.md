@@ -1,0 +1,161 @@
+---
+id: 6443e2b4-cd4f-5c8b-9586-08ae8f7fa76d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 549 - More Meetings"
+slug: 0549-chapter-549-more-meetings
+partOf: mythrans-master-of-all-continued-completed
+position: 549
+ownLength: 2612
+unit: words
+publishedAt: 2018-04-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206432/chapter-549-more-meetings"
+royalRoadId: "206432"
+---
+
+It was decided by everyone, except for Ren, to leave such an important decision for last, and they all settled down for a long day of meetings. Commerce, trade, taxes, zoning regulations, infrastructure financing, balancing the budget, and everything else that was the bread and butter to government officials no matter where they worked, was discussed all morning until the King decided that he was hungry and declared that it was lunchtime.
+
+Ren had thought about leaving several times, and each time he had resolved to just get up and leave, Princess Diana caught his eye and she discretely shook her head no. He was unable to resist staying around and ask why he shouldn't leave, and when the king had declared lunch, he knew this would be the best time to find out. When everyone stood up to gather their things, he quickly made his way over to the table she sat at.
+
+“Your Highness, why do you want me to stay around?” Ren asked. “I need to go and visit representatives for the High Elves, then I need to get back to Aurora for another important meeting.”
+
+“You've brought forward two problems for the kingdom as a whole to consider.” Princess Diana said. “You can't just do that and leave, despite your agenda to meet with as many high ranking people as you can in a single day.”
+
+Ren could feel her emotions and she wanted him to stick around, and he sighed. “I'm sorry I didn't come back right away with an offer.”
+
+Diana's face went red. “This isn't about that.” She said. A bead of sweat appeared on her forehead, and she sighed. “Okay, not just that.” The sweat disappeared. “If you aren't here when we finish the normal meetings, neither problem will be looked at until you are here to petition the King again, assuming they will let you bring it up again after abandoning this attempt.”
+
+Ren sighed. “I don't suppose there's any point in asking you to try and get the king to speed things up, is there?”
+
+Diana smiled as her father came over to the table. “Of course you can join us for lunch, Lord Ren.” She said loudly for everyone to hear. “It's a little unorthodox, but a welcome change.”
+
+“I agree.” King Alamast said. “Lady Eleanor might enjoy seeing someone else sit at the table with us.”
+
+No sweat appeared on his face, so Ren had to assume it would be true. He turned and nodded to the maids, and they stood up with Patty and came over to him, with Xuunah and Officer Holly on either side of the group and Artemis at the back to guard them.
+
+“Several other someones.” Diana added.
+
+Ren chuckled. “Lead the way, Your Highness.”
+
+Diana and her father, King Alamast, led Ren and his group out of the meeting room and down several hallways to their private dining area.
+
+“Mother! We have guests!” Diana exclaimed loudly as the door to the dining area opened. Ren felt a spike of annoyance from the person in the room, which he assumed was Lady Eleanor, and the annoyance was quickly suppressed and replaced with both curiosity and cunning.
+
+Ren thought that was a bit weird, considering the circumstances, and then he realized that she would almost always be in this position and would try to give herself the best advantages no matter who showed up. He nodded mentally and followed Diana and her father into the room.
+
+“Lady Eleanor, may I present to you Lord Ren and his... ah...”
+
+“Mistresses and recently personal guards.” Ren said and pointed to his maids. “Mayor of my capital city.” He said and pointed to Patty, then motioned to Xuunah and Officer Holly. “My offensive guards.”
+
+Lady Eleanor nodded to each as Ren spoke, then she turned back to Ren. “Lord Ren, it's nice to see you again.” Beads of sweat formed on her forehead as she stepped forward and held a hand out. Ren's Etiquette skill kicked in and he stepped close and bent over slightly as he reached for her hand, then he realized what he was doing and equipped a gauntlet to cover the skin before their hands touched.
+
+Princess Diana and Lady Eleanor gasped at the sight, and Ren felt anger from the king.
+
+“How dare you!” Lady Eleanor nearly yelled and pulled her hand back before the formal greeting could be completed. Ren felt her embarrassment as she made a fist and turned away.
+
+Notice!
+
+You have been rebuffed by King Alamast's wife for insulting her.
+
+Penaties: -1,000 Fame; -1,000 Honor
+
+System Notice!
+
+Honor Loss cancelled. Your Honor stat has been frozen and will remain untouched.
+
+“REN!” Princess Diana yelled in disbelief. “Why would you refuse to touch her?”
+
+“I should banish you from the castle for this.” King Alamast said through gritted teeth. “I would have done it already if you hadn't saved my daughter's life.”
+
+“Your Highness.” Ren gave King Alamast a slight bow. “Your Highness.” He gave Diana a slight bow, and then he knelt before Lady Eleanor. “Your Highness Lady Eleanor. Please forgive me. I meant no disrespect.”
+
+“You covered your hand before touching me.” Lady Eleanor said without turning around. Disgust for him filled both her voice and her emotions. She could see in the mirror across the room that Ren was kneeling behind her, and it placated her that a man as powerful as he was, had knelt for her without being asked or even commanded.
+
+That assumed Ren would have knelt if her husband had commanded him, which was not a certainty.
+
+“It wasn't her fault that she's been tainted!” Diana said heatedly, and she was tempted to smack him for insulting her family in such a manner. She thought about what would have happened if he had done this in public, and her heart shivered at the backlash it would have caused in both the officials Lady Eleanor dealt with on a daily basis and with the public. Diana's opinion of Ren fell low because of that one simple gesture.
+
+“Please allow me to explain.” Ren said. He felt their emotions and sighed mentally that one little action had caused so much trouble. He waited to see if they would refuse, and no one said anything. “Thank you.” He said. “To make a long story short, I can heal ghoul-infected people. Since there is always a catch to such things, they become members of my domain when I touch them.”
+
+Princess Diana and King Alamast's emotions churned like tides at this information.
+
+“I didn't want to make Lady Eleanor a part of my domain by accident, which is what would have happened had I touched her without a glove on.” Ren said. “I would have mentioned it, but my Etiquette skill compelled me try and complete the greeting before I could say anything.”
+
+King Alamast's emotions settled down to simmering anger. “It is still a grave insult.” He said. “Not just for a woman, but especially so for the wife of the king.”
+
+“I know it is, Your Highness.” Ren said. “I just lost 1,000 Fame because of it.”
+
+Lady Eleanor and Princess Diana gasped at the outrageous total, because he had lost one tenth of his Fame in an instant.
+
+“Please accept my deepest apologies.” Ren said sincerely. “I would take your hand and kiss it to make it up to you, if not for the same reason.”
+
+Lady Eleanor looked at Diana and the Amulet of Interrogation she wore, then looked in the mirror. Ren wasn't sweating at all. “What does being under your domain mean?” She asked and turned around to face him. “I know what being under someone's rule is. Is it the same?”
+
+“In a sense, Your Highness.” Ren said without looking up at her face. He wasn't allowed to meet her gaze until he was forgiven. “I would be responsible for you and your actions. I would provide proper housing if required and monies to ensure you have the best life possible.” He said. “It would never be necessary to call upon you to defend the land, since I and my friends can do that easily.”
+
+“It sounds like people in your domain need to move to your lands.” Diana said.
+
+“Not at all.” Ren said. “In fact, I made an entire city for the infected High Elves that have been cured. It's nowhere near my lands, despite a good portion of them being under my domain.”
+
+“An entire city?!?” Lady Eleanor exclaimed, and Ren nodded.
+
+“In fact I made 3 of them. One for the High Elves in the no man's land between the Human Kingdom and High Elven Kingdom, one for the Giants between the Dwarven Kingdom and Giant Kingdom, and one for the humans in my county.”
+
+“How big are these cities?” Diana asked.
+
+“The High Elven one is round and about 20 square miles, with a mile high tower in the center.” Ren said. “The giant one is square and 25 square miles, but since the buildings are much bigger, it can't hold the same amount of people.” He said. “The human one is 25 square miles as well. It's unoccupied, though.”
+
+“Good lord.” King Alamast said, surprised. “I won't ask about the cost, since I know how much a city costs to establish. How long did it take you to build them?”
+
+“Including design time?” Ren asked, and he nodded. “About a day.”
+
+Shock and surprise came from King Alamast, Lady Eleanor, and Princess Diana. Ren remained quiet and let them absorb what he said for a few minutes.
+
+“Lunch is served.” A young woman said as she entered the private dining room. She pushed the cart of food over to the table and started to set out the dishes in a quick and timely manner. She hummed softly as she worked, and everyone stayed silent as she set out the plates and silverware. When she was done, she pushed the cart over to the wall beside the door and stood there, then she looked around the room and saw who was there.
+
+“Lord Ren!” The young woman said and covered her mouth with a hand for speaking without being spoken to, and everyone looked at her. Ren studied her for only a moment and saw her shoulder length brown hair, and remembered that it was deceiving because she had most of it tied in a knot on the back of her head. He had first seen it when he had returned her family's sewing needle.
+
+“Miss Morgan.” Ren said and gave her a slight bow. “It's nice to see you again.”
+
+“Belinda? You know him?” Diana asked, and the young woman nodded.
+
+“I was there when he gave the heir loom to my mother.” Belinda said. “I was honored to meet such a kind and generous man.”
+
+Ren glanced at her hands and didn't see the Mana boost ring he had given her.
+
+“We are getting far afield of what we were discussing.” Lady Eleanor said haughtily, and everyone looked back at her. “Lord Ren, you are still on bended knee before me and your hand is still covered.”
+
+“Your Highness, people under my domain do not need to move anywhere, leave their jobs or loved ones, or even change how they live.” Ren said. “I would not touch you without your permission, not without warning you beforehand.” He said and stored the gauntlet. “I did it to protect you, not to insult you.”
+
+Lady Eleanor had watched Ren closely, and not one drop of sweat had appeared anywhere on him as he spoke. All of his words were true, and she looked at her husband. She saw the worry there, and she assumed it was because he was concerned about what it would mean for her to be under the domain of another man.
+
+King Alamast saw the question on his wife's face; but, he had been a ruler for far too long and knew that if he tried to influence her decision in any way, she would never forgive him for it. It didn't matter what the outcome was, good or bad. He glanced at his daughter and he realized that Diana had inherited that trait from her mother. He kept his expression as blank as he could and looked back at his wife.
+
+Lady Eleanor didn't need to read her husband's expression. She could tell from the look in his eyes what he thought. It was her decision, and she decided that she needed to erase the insult Ren had given her, unintended or not. It had hurt her feelings more than her reaction had shown, mainly because she had never felt the same since she had been sick and healed. She always felt dirty and somehow grime-ridden. No matter how much she washed herself or had someone else wash her, she never felt clean. She took a deep breath and let it out, then held her hand out to Ren.
+
+Ren had felt her emotions run through the whole spectrum, and he admired her restraint because not one iota of it had showed up on her face. She had held her composure and kept herself from letting those emotions rule what she did. He looked at her face directly because he was now allowed to, and he reached up and took her hand.
+
+Lady Eleanor gasped as his touch sent a shock through her, and the mark on her skin above her heart burned for a moment. She blinked her eyes and stared at Ren as her body tingled, and then she felt better than she had ever felt before. She took a deep breath and let it out again, and for the first time in a long time, she let a genuine smile appear on her face.
+
+“Welcome to my domain, Lady Eleanor.” Ren said and gave her a bright and warm smile. He partially stood to kiss the back of her hand, just like he had said he would if he wasn't restricted from touching her, then knelt again.
+
+“Please rise.” Lady Eleanor said, and Ren stood up. She squeezed his hand and let it go, then she walked over to her husband, the king.
+
+“You look radiant.” King Alamast said, and Lady Eleanor slid her arms around his neck.
+
+“I feel radiant.” Lady Eleanor almost purred. “Like a huge weight has been lifted from my heart.”
+
+King Alamast was a bit surprised she would openly hug him like this, and then she kissed him. It was only a quick kiss and looked quite platonic; but, she didn't normally stand for public shows of affection like that.
+
+“Are you all right?” Diana asked, and Lady Eleanor let her husband go and gave her daughter a hug.
+
+“Thanks to you.” Lady Eleanor said, and Diana stiffened in her arms. “Don't be shocked that I know it was you that sent for the healers.” She said. “My smart and resourceful daughter.”
+
+Diana had been surprised that her mother knew, and now she was shocked at the compliment. “Who are you and where is my mother?”
+
+Lady Eleanor gave a subdued laugh and let her daughter go. “I'm still me, except I...” She looked at Ren. “I don't know how or why, but... you've taken away a lot of my worries.”
+
+“I tried to explain that would happen.” Ren said. “You can't really explain feeling good, though.”
+
+Lady Eleanor nodded. “Please have a seat and join my family and I for lunch.”
+
+“Your Highness, I would be delighted to.” Ren said. “I haven't eaten a full meal for weeks and I'm absolutely starving!”

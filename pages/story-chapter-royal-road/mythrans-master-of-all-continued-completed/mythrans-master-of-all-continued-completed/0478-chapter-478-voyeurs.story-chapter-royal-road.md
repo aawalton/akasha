@@ -1,0 +1,299 @@
+---
+id: 7107b04b-ffeb-50b7-b766-eb04406b0f12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 478 - Voyeurs"
+slug: 0478-chapter-478-voyeurs
+partOf: mythrans-master-of-all-continued-completed
+position: 478
+ownLength: 3245
+unit: words
+publishedAt: 2018-01-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185746/chapter-478-voyeurs"
+royalRoadId: "185746"
+---
+
+“Did that just happen?” The female High Elf asked in wonder.
+
+“Do you mean meeting an elfling Adventurer with the highest Honor we've ever seen, or starting another nation where no nation should be?” Allynna asked.
+
+“Both.”
+
+“Then yes.” Allynna said. “It happened.”
+
+“Our lives will never be the same.” The female High Elf said, and looked around at the makeshift town. “Imagine, living in a proper city after so long being an outcast.” She whispered, her voice full of wonder.
+
+“You won't have to imagine it for long.” Allynna said. “He will keep his word.”
+
+“It took the architects 20 years to build this city.” The female High Elf laughed. “If it's just him, or even him and a bunch of workers, it's still going to take a long time to build an entire city.”
+
+“Don't forget the walls.” Carcan said. “Those alone took 5 years of hard labor.”
+
+“A drop in the bucket of time for us.” Allynna said. “For him? I don't know.”
+
+“We will soon discover that.” The female High Elf said. “I wonder if he will need our help?”
+
+“I can ask.” Allynna said as she cast another bird, and sent it to her mother with the question.
+
+*
+
+Ren and Princess reappeared next to Elerlyth and Zetaya. “Hey, Zetaya. How do you feel?”
+
+The colossal fire elemental disguised as a colossal cow let out a crackling fire, with several snapping branches in it.
+
+“Okay, just lay here and relax for a while.” Ren said. “We can move on to clearing out the nests when I get back.”
+
+“From where?” Elerlyth asked.
+
+“I'm heading over to the last city I saved to talk to someone about getting building plans.” Ren said. “Apparently, the High Elves don't want the Ghoul Kissed anymore than the ones in the human town did.”
+
+“Those bastards.” Elerlyth said, and Ren felt her anger.
+
+“Yeah.” Ren said. “So, I'm going to make a city in the no man's land between the Human Kingdom and High Elven Kingdom for them.”
+
+“Ren, that... that's a lot of work.”
+
+“Naw, I've got a plan.” Ren said.
+
+“What is it?”
+
+“I'm going to cheat, of course.” Ren said and grinned. “I've got about an hour before I have to meet with the healers; so, I'll use that time to get as many building plans as possible, check the healers, then come back here.”
+
+“What am I supposed to do in the meantime?” Elerlyth asked.
+
+“Be careful? Maybe go for a flight? Relax and protect Zetaya? Pout?”
+
+Elerlyth snorted a laugh at the last part.
+
+“I told you there wouldn't be much for you to do.” Ren said.
+
+“What about the nests?”
+
+“When we start, you can kill the big ghouls.” Ren said. “Most of the ghouls will be contained anyways, and their morale doesn't matter.”
+
+“Sweet.” Elerlyth said. “Okay, I'll stick around for that.”
+
+Ren chuckled. “You're just wasting time until we go on the hunt, anyways.”
+
+Elerlyth smiled and bared her teeth. “Damn right.”
+
+“See you later.” Ren said, and Princess trotted up into the sky and disappeared. They came to a stop outside the two story building Yllana lived in, and Princess landed on top of it. He gave her some food, and walked down the side of the building and went inside and up the stairs. He knocked on Yllana's door and waited.
+
+I hope I gave her enough time to change. Ren thought, and that reminded him to equip his High Elven court uniform. The apartment door opened, and Yllana stood there with her long black hair done up in a stylish hairdo and wore a form fitting blue gown. It had stylish vines and flower designs in a darker blue on it that covered the entire surface. It also had a high neck that went up to the top of her head.
+
+Yllana could only see through the 8 inch wide space where her face was, and not to either side because the collar blocked her sight. The 8 inch wide space also went from the top of her head straight down to her waist. It left a surprising amount of flesh exposed; and yet, it was also conservative at the same time and held everything in place.
+
+“Thank you.” Ren said and gave her a regal bow.
+
+“Now, now.” Yllana said and smiled demurely as she dismissed the Honor popup. “We don't have to exchange such formal greetings, Ren.” She said. “We are on equal footing Honor-wise.”
+
+“I was bowing to the dress, Yllana.” Ren joked, and she laughed with a slight sound of birds chirping.
+
+“Is it that much of a sight that it deserves Honor?” Yllana asked and stepped out of her apartment. Ren held out his elbow for her, and she wrapped her arm around it and rested her hand on his.
+
+“M'lady, it deserves an award for just staying in place and keeping you covered.” Ren said and smiled.
+
+“Yes, it's almost magical, isn't it?” Yllana asked and ran her hand down the fabric from her neck to her waist. Ren's eyes followed the movement as she had intended, and when she brought the hand back up to her face, they locked gazes.
+
+“As tempting as you are, we still can't have sex, M'lady.” Ren said. “What I have in my life works for me right now, and I won't jeopardize that.”
+
+Yllana once again smiled demurely. “As I've stated previously, there's a lot we can do and not have sex.” She said. “I'm more than pleased that you find me tempting.”
+
+Ren motioned to the stairs, and she nodded. “M'lady, only a fool or an idiot would deny being tempted by you.”
+
+Yllana's face flushed slightly red as they walked to the stairs. “Since you are neither, does that mean you are doubly tempted?”
+
+Ren chuckled. “I'd be lying if I said I wasn't.”
+
+They left her apartment building and started to walk down the street. High Elves passed them occasionally; but, the crowd seemed sparse for being so early in the day.
+
+“How far do we have to go?” Ren asked.
+
+“Not far.” Yllana said. “He's an old friend.”
+
+“I guess that means I've already met him.” Ren said.
+
+“Yes, he was at the meeting.”
+
+They walked on in silence for a few minutes, and then Ren sighed.
+
+“M'lady, I have to apologize.” Ren said. “When I asked your daughter to send you a message, I used a viewing apparatus to see if you received it.” He sighed. “I saw you taking off your dress... and I also saw what you didn't have on underneath.”
+
+Yllana didn't say anything for a moment, and Ren brought them both to a stop.
+
+“M'lady, I didn't intend...”
+
+“You can view me from so far away?” Yllana asked. “The Viewing Cloud spell we use only allows up to several miles away.”
+
+“It's an object called the All-Seeing Mirror.” Ren said.
+
+“...and it let you see all of me, without my knowledge.”
+
+“Yes, M'lady.” Ren said, and ducked his head.
+
+“You truly are Honorable.” Yllana said and touched his cheek, and he lifted his head and looked at her. “You could have kept that to yourself, and I would never have known.” She let his elbow go and turned to face him. “If someone admits to something like that, it would usually cause an Honor loss.” She smiled. “You didn't receive one, did you?”
+
+“No, M'lady.” Ren said.
+
+“There's 2 reasons for that.” Yllana said and stepped close. “The first reason, you admitted what you believe was a wrong-doing to the injured party without being coerced, and to accept any punishment they deemed appropriate.”
+
+Ren nodded.
+
+“The other reason.” Yllana gave him a quick kiss. “I like being watched.”
+
+“B-but...”
+
+“Shh.” Yllana said and took one of his hands and held it against her chest. Ren could feel her heart beating fast, and he could also feel the exposed part of her breast. “Over the decades since Allynna's father died, I've been celibate.” She said. “My desires have... changed... to enjoying having men look at me with longing, because they knew they couldn't have me.”
+
+“M'lady, I...”
+
+“Why else do you think I don't mind your 'no sex' policy?” Yllana asked and slid his hand down the open part of her dress to her waist. “I'm sure we would both enjoy sex... possibly extremely.” She smiled wickedly as she used her other hand to pull the dress out slightly. “I see the way you look at me when I'm naked in front of you.” She took in a sharp breath as she put his hand inside her dress. “The desire in your eyes for me, makes me feel sooo good.”
+
+Ren blinked his eyes at her as he felt exactly how much she liked it. “M'lady...” He looked at the High Elves that walked past, but they never even glanced his way. They kept to themselves and didn't even acknowledge the elfling's presence.
+
+“Y-yes, M'lord.” Yllana said, and gasped as Ren's fingers moved of their own volition. “You could lay with me... right here in the middle of the street... and they will pretend they can't see us.” She moaned a little at both his fingers and at the thought. “Even though they can see us as plain as day.”
+
+“M'lady, you'd like that, wouldn't you?” Ren asked, and teased her with his fingers. “To show these High Elves your sumptuous body, and let them know they can never have you.”
+
+“Y-YES!” Yllana gasped at his words and finished, and put her arms around him to hold herself up. “M-M-M'lord, you...” She panted heavily for several moments, then gave him a quick kiss. “T-thank y-you.”
+
+Ren took out a piece of cloth for her, and she shook her head.
+
+“I... I can't move just yet.” Yllana admitted. “I may collapse if I do.”
+
+“Then let me help you.” Ren said and scooped her up into a princess carry. He walked over into a nearby alley, only slightly out of sight, and he braced her against the side of a building. “Store your clothing.”
+
+Yllana did so without question, and Ren used the cloth to wipe her off. An occasional shadow passed by the alleyway, and each time one did, she had another small finish and made a bit more of a mess.
+
+“Is this a losing battle?” Ren asked and smiled up at her, and she chuckled.
+
+“I'm naked out in public, with a handsome man on his knees tending to me.” Yllana said. “The battle was lost long ago.”
+
+Ren chuckled, too. “I have no choice, then.” He said and dove between her legs. Yllana gasped as Ren pleased her, and as a shadow passed by the alley, and the threat of being discovered grew, so did her pleasure.
+
+Yllana grabbed his head and pulled him in tightly. “MY LORD! MY LOVE! AHHH!”
+
+Ren caught her as she collapsed from finishing so hard that it consumed the last of her Stamina, and he held her gently as tears formed in her eyes. He could feel how happy she was as she cried.
+
+“Wh-what's wrong with me?” Yllana asked as she tried to wipe at her face. “I'm so happy, but I'm crying, too.”
+
+Ren stroked her face. “It happens sometimes.” He stored the cloth he had been using, took it back out, and wiped her tears away. “You're so happy, you don't know how to react.”
+
+“Yes, I... I think that's it, exactly.” Yllana said. “M'lord, I...”
+
+“Shh, it's okay.” Ren said. “Do you want an Energize spell to get your Stamina back?”
+
+Yllana opened her mouth to say yes, so they could get to the architect's house, then smiled instead. “Can you hold me for a little while?”
+
+“Of course I can.” Ren said, and they stayed that way and cuddled without saying anything. After about 10 minutes, she sighed and pat his shoulder, and Ren stood her up on her feet and she equipped a dress that had a more traditional Elven cut to it. It still had the vines and flower design; but, it was green instead of blue.
+
+Yllana saw the slight twitch in Ren's eyes as he saw the different dress. “I think I can do without the lust of others, M'lord.” She said and caressed his cheek. “As long as you promise to watch me on your viewing device.”
+
+“M'lady, I will check it as often as possible.” Ren said. “You will never know when that will be, or what I will see.”
+
+Yllana caught her breath for a moment, then started to breathe again. “Ren, you are too good to be true.”
+
+“I believe that's because my friend Teepo is right.” Ren said. “I seem to have a knack for finding what a woman needs and then give it to her to make her happy; even without the effect of my Prince Charming title.”
+
+Yllana smiled and took his arm. “What does your Prince Charming title do?”
+
+“It makes women that are susceptible to my charms, or predisposed to like me, give their attention to me.” Ren said and led her out of the alleyway to continue their walk to the architect. “They'll see me as a desirable mate, both physically and emotionally.”
+
+“That is a powerful title.” Yllana said, and pointed to a short spire down the street. “Are you sure that you didn't...”
+
+“No, M'lady.” Ren said and they walked down the street. “Once I gained the ability to turn it off, I did so.”
+
+Yllana thought about that for a few moments. “Then... all of this...”
+
+“Is solely based on attraction, mutual pleasure, and I believe a highly repressed sexual desire on your part.”
+
+Yllana laughed, with a slightly louder sound of birds chirping. “It's not polite to blame a lady like that.”
+
+“It wasn't blame, M'lady.” Ren said as they arrived at the tall building. “Merely an explanation.”
+
+“It sounds like blame.” Yllana teased as they went inside.
+
+“I would be blaming myself if blame was warranted.” Ren said, and she pointed to a doorway. “Any interactions with women are usually initiated by me.”
+
+Yllana and Ren walked over to the doorway and it opened for them. They stepped inside, and Ren felt like he was being lifted up for several moments, and then the door opened.
+
+“Okay, I need to know how that happened.” Ren said as they stepped out of the magical lift.
+
+“All the spires have a moving platform.” Yllana said and knocked on the door they were now in front of. “How else would one get to the top floor from the inside?”
+
+The door opened and a 9 foot tall High Elf opened the door. He wore long grey robes that covered him from shoulder to foot, and had white hair down to his waist. Surprisingly, he didn't have any kind of facial hair whatsoever. No beard, no mustache, not even eyebrows. It was weird, to say the least.
+
+“Greetings, Lady Arthion.” The High Elf said and gave her a nod.
+
+“Greetings, Lord Tathalyn.” Yllana said and nodded back.
+
+“Is this who you spoke of?” Lord Tathalyn asked.
+
+“No, this is another elfling Adventurer that I met in the few minutes it took to arrive here.”
+
+Lord Tathalyn chuckled. “Your barbs are still sharp.” He said and stepped back. “Please, come in.”
+
+“Thank you.” Yllana said and she led Ren inside.
+
+*
+
+The scout tasked to watch Ren's county, watched in both shock and a bit of horror as someone on a flying black horse landed next to the oddest Ballista he had ever seen. According to the other scouts, there were 7 more, one set every mile down the wall along this side, and they were aimed straight out at his county. The man on the horse talked to the man that stood next to the Ballista for a moment, then took off. He watched as it flew a mile away and came in for a landing.
+
+“Okay, go and let the captain know.” He said to the messenger below him, and gave the details he had seen through his enchanted goggles. The messenger nodded and ran away through the forest. It took 15 minutes to reach the command post, even with the messenger's top running speed, and he delivered the scout's message.
+
+“Goodness gracious.” The captain said. “It seems every day the defenses of the place increase.”
+
+“What are we going to do?” The lieutenant beside him asked. “That's all of the scout reports.”
+
+“Send our own messenger to the capital city to ask the Lord what he wants us to do.” The captain said. “We shouldn't expect a response for a day or so.”
+
+“Why so long?” The lieutenant asked. “It's only a 6 hour round trip with the horses.”
+
+“He has to make an appointment.” The captain said. “He'll be lucky if he gets in today. If he does, the Lord won't respond until tomorrow.”
+
+“That's not very efficient.” The lieutenant said. “It's too bad we don't have these flying horses.”
+
+The captain sighed. “I'm beginning to see why that scout resigned.”
+
+“Sir?”
+
+“Just imagine what is going to happen if we try to assault that wall.” The captain said. “After crossing that deep moat, we have to scale a 44 foot tall iron wall and climb down the other side. If we don't encounter any forces, we then have to cross 25 miles of open countryside to get to this supposed capital city of theirs.” He sighed. “Assuming we can do that, we then have to capture workers to try and discover how they did all of the things they've done, and steal those secrets for ourselves.”
+
+“Sir, that...” The lieutenant sighed as well. “It's a stupid plan.”
+
+The captain chuckled. “Now you're also seeing why I think the scout resigning was a good idea.”
+
+“You aren't going to follow his lead, are you?”
+
+“No, and I'm also not holding his family hostage.” The captain said. “They all packed up and left yesterday.”
+
+“All, sir?”
+
+“His wife, brother-in-law, his two sisters and their husbands, all of their children, and even his grandmother decided to go.” The captain said.
+
+“So many?” The lieutenant asked. “How many skilled workers is that?”
+
+“That's 8, if you count the grandmother.” The captain said. “A messenger brought word from the scout, and they all packed up and left.”
+
+“Lord Grasham can't be happy about that.”
+
+The captain chuckled again. “Are you kidding? He doesn't know.”
+
+“But...”
+
+“He would have ordered me to keep the family members here against their will.” The captain said. “I wasn't going to do that; so, he doesn't know and I didn't have to disobey a direct order.”
+
+“Sir, that's...”
+
+“Out of sight, out of mind, lieutenant.” The captain said. “I expect this...siege...” He sighed. “...to be ordered within two days, and we will have to carry it out.”
+
+“I'm not happy about it, either.” The lieutenant said. “If it comes, I will follow orders as I swore to do.”
+
+“As will I.” The captain said. “Have the men start assembling the siege weapons.”
+
+“Sir.” The lieutenant nodded and started to walk away.
+
+“And ladders.” The captain added. “Lots of 50 foot long ladders.”
+
+“Yes, sir.” The lieutenant said and walked over to the group of squad leaders to give them their orders.
+
+“This is not going to be fun.” The captain said to himself and crossed his arms. “Not at all.”

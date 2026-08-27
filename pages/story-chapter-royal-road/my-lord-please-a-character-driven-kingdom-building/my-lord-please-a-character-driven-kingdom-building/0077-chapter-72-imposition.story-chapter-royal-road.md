@@ -1,0 +1,209 @@
+---
+id: bf5894ee-3878-55bb-8d8f-075fab34385a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72 Imposition"
+slug: 0077-chapter-72-imposition
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 77
+ownLength: 1920
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3497789/chapter-72-imposition"
+royalRoadId: "3497789"
+---
+
+They didn't have to wait long before one of the farmers broke away from the nearer plots and began walking toward them. Men nearby slowed in their work, some stopping entirely to watch as he came to a halt a short distance away.
+
+His features bore a resemblance to Tomas even from this distance, though his face carried deeper lines, worn by years spent working against ground that did not yield easily.
+
+“Milord,” he greeted, giving a stiff bow that was respectful enough without crossing the line. His eyes shifted soon after, falling onto Tomas, and his expression softened.
+
+“Tomas.”
+
+“Cousin,” Tomas replied, holding his place beside Lucien to his right with the iron-tipped crowbar resting against his shoulder.
+
+The man’s attention lingered there for a moment, noting Tomas’s new equipment before shifting to the tool, then returning to meet Lucien’s eyes.
+
+Around them, the farmers had given up all pretense of looking busy. A few men straightened from where they had been crouching while others simply looked over, disgruntlement plain on their faces.
+
+Instead of commenting on it, Lucien spoke to Tomas’s cousin. “You work this section?”
+
+The man folded his arms in front of him. “Aye, Milord. This side and the next two fields over.”
+
+Inclining his head, Lucien gestured toward the surrounding plots. “Bran mentioned you've been having difficulties here. Is that what slows your work?”
+
+At the mention of the name, something in his eyes hardened before he replied. "That's how it is, Milord."
+
+Tomas stiffened beside him, but Lucien didn't react outwardly.
+
+The farmer seemed to realize belatedly that a noble was speaking to him as he let out a rough cough, hand rubbing his beard. “The ground pushes back, Milord. You clear one stretch and another turns up the same. Our plow catches on something hard and breaks the line.”
+
+He exhaled through his nose. “We spend more time pulling it free than we do farming some days.”
+
+A man farther back crossed his arms in agreement, though he remained silent.
+
+The farmer’s eyes moved toward the crowbar in Tomas’s hand. “We use iron where we can get it...when we can afford it.”
+
+Lucien followed the glance, his own gaze settling briefly on the tool before returning. “That tool will be produced for your use. Joren will see to it.”
+
+The name carried through those who had gathered closer. A scoff came from one man while another turned his head and spat to the side. Nearby, a third shifted his weight, muttering under his breath.
+
+Tomas’s cousin was more restrained, only stiffening slightly. “Joren,” the man repeated flatly.
+
+Lucien decided to continue speaking before the reactions deepened. “The tools will be supplied through the village treasury.” He directed the words toward the men who had gathered closer. “None of you will be required to pay for them.”
+
+That drew a more immediate response. The man who had scoffed straightened fully while the other who had muttered under his breath rested both hands on the handle of his tool as he watched.
+
+The farmer before him studied Lucien more directly now. “For all of us here?” he asked, a note of skepticism in his voice.
+
+“Yes. For the western fields.”
+
+The man held his gaze for a moment longer before shifting it toward the others who had drawn closer, then back again.
+
+“We’ll see them when we see them,” he said, his brows furrowing faintly.
+
+Lucien inclined his head in response, then gestured to Tomas. “Show them.”
+
+Tomas straightened at once, stepping forward as he adjusted his grip on the crowbar. A few of the men exchanged brief looks, their eyes now fixed on the younger man as he moved past them toward a nearby patch where stone broke through the soil.
+
+“He’s taken to carrying iron now,” the one who had spat muttered, not bothering to lower his voice.
+
+“Guard work suits him, does it?” the farmer who had scoffed added, his tone unreadable.
+
+Tomas showed no outward reaction as he set the tip of the crowbar into the earth beside an exposed stone. He leaned his weight into it, driving it down with force before shifting his stance to lever it upward.
+
+The ground resisted at first before giving way as the iron bit deeper. After a moment the stone shifted, loosening enough for Tomas to lever it free.
+
+A few watched the motion closely, but none looked particularly impressed.
+
+One of the older men snorted. “Aye lad. You’ve done that plenty of times before.”
+
+Tomas paused, glancing back once before stepping away from the loosened stone.
+
+“Used to,” the man who had spat said, a jeer in his tone. “Before he put that on.” His words drew a few snorts, not quite laughter, but close.
+
+Tomas’s grip on the crowbar tightened. “It saves time instead of hauling the rocks by hand.”
+
+Someone pointed to the crude-looking crowbar. “When the iron holds and Joren doesn't cut corners to spite us.”
+
+“And when you’ve got more than one to go around,” another added.
+
+Lucien did not comment on the jeers. He stepped forward instead, his gaze passing over the disturbed ground before settling on the group. “Then all of you know the method.”
+
+No one answered, though several expressions hardened in agreement.
+
+He folded his arms behind his back. “What you lack is consistency. Enough tools to apply it across all your fields without stopping to wait or share what little you have.”
+
+Tomas's cousin did not respond immediately this time. His gaze moved once toward the loosened stone, then to the crowbar still in Tomas’s hand.
+
+“…Aye,” he said at last.
+
+“From now on, that will change.”
+
+That statement held their attention longer than the demonstration had.
+
+No one spoke immediately, though the looks exchanged among them shifted, a few murmuring to each other in soft voices. They were not fully convinced, but the earlier dismissive looks had eased by a small degree.
+
+Lucien waited until the discussion died down. “The tools will be shared across the western fields. They are provided by the manor and will be used for that purpose.”
+
+One of the younger farmers furrowed his brow. “Shared...?” His tone carried a clear edge.
+
+The man beside him gave a short scoff. “So we wait our turn again.”
+
+“We already do that,” someone else added bluntly. “Now we answer for it too?”
+
+Tomas’s cousin did not speak at first, though his expression tightened as his gaze shifted between the men beside him.
+
+Lucien allowed the complaints to run their course. “One of you will manage distribution. The tools will be given as needed, and usage will be tracked.”
+
+“Tracked? Why?” the man who had spat repeated, his brow furrowing.
+
+“And who’s doing that?” another asked, though his tone suggested he already expected the answer.
+
+“The one managing the distribution will report to Bran.”
+
+The name drew a far sharper reaction than when he had mentioned Joren. A few men looked away with obvious irritation while others muttered under their breath.
+
+“Bran?” the man who had spat muttered, though it was loud enough that he could hear it.
+
+“A farmer’s farmer now, is he?” another said, as he crossed his arms.
+
+A third man let out a short breath. “We’re to answer to him?”
+
+When Bran had spoken of the tension, he had likely not realized the extent of it. It ran deeper than both of them had expected.
+
+Tomas’s cousin exhaled slowly, his jaw tightening as he looked toward the ground before lifting his gaze again. “He’s from the eastern side,” he said, his tone rougher than before. “What does he know about this land?”
+
+Lucien did not raise his voice. “He knows how to manage fields under strain. That is sufficient.”
+
+"That's not the same, Milord," Tomas's cousin insisted.
+
+“Aye, and we're the ones that are working it,” another added.
+
+The tension held, no longer contained to looks and mutters. It had found voice now, carried openly between them.
+
+Lucien watched them for a moment before speaking again. “Do you want to report to a noble every week at the manor?” A dry note entered his voice.
+
+For a moment, no one seemed to know how to answer.
+
+Then one of the men let out a short breath that almost turned into a laugh before he caught it. Another shook his head, a faint grin tugging at the corner of his mouth despite himself.
+
+Tomas’s cousin exhaled through his nose, some of the tightness easing from his shoulders.
+
+“…No, Milord.”
+
+Lucien inclined his head. "Then you will report to Bran. He will organize the distribution and resolve disputes. Only if he cannot do so will it be brought to me."
+
+As the murmurs began to die down, Lucien considered his next words for a brief moment before continuing.
+
+“The eastern field expansion is necessary for Ashridge. That is why I have assigned the newer arrivals to that area.”
+
+The field went still at his words, and before anyone could voice their objections again, he continued.
+
+“This year, there will likely be more people arriving in Ashridge. Enough that only the fields to the east would be able to feed them.”
+
+Tomas’s cousin held himself still, a stony expression settling over his face. He was not the only one.
+
+“What do strangers from outside the village have to do with us?” he asked flatly.
+
+Lucien met the man's gaze evenly. “Because with more people, Ashridge would not have to pay a Tithe every winter again.”
+
+For the first time since his arrival, the only sounds came from the fields around them. A few shifted their footing while others stared into the distance, no longer as quick to answer.
+
+The man who had spat looked away, muttering something low.
+
+He could not hear the words, but Lucien knew whose name was passing through his lips.
+
+Dalen had worked these fields alongside Tomas.
+
+The younger man stiffened for a brief moment before forcing himself still.
+
+Lucien allowed the weight of his words to settle before he spoke.
+
+“The eastern fields are also Ashridge’s greatest weakness.”
+
+The conflicted expressions shifted as their attention fixed fully on him.
+
+He gestured toward the eastern approach. “If a wandering group of beasts is drawn to the expansion, Ashridge risks losing its primary source of food. That is why the western fields must be improved.”
+
+“I will begin assigning additional labor to this section. From the eastern side.”
+
+The stony expression on Tomas’s cousin shifted into something harder to name. “They’re not too busy with the expansion?” he asked carefully.
+
+Lucien gave a slow nod. “They are. But they are also ahead of schedule, and I can afford to assign some of that labor here.”
+
+“Those assigned here will likely be from Cragwatch, with a few from the eastern villages,” he continued when no one spoke. “Men more used to clearing stone will be chosen.”
+
+A few of the men exchanged glances at that.
+
+“They will work the ground. You will focus on cultivating the land.”
+
+Bran had been wrong about one thing.
+
+While it was true that no one, man or woman, would be pleased to hear that their work held less weight than another’s, it was equally true that the people of the frontier understood the risks they faced each year.
+
+He had chosen not to follow that advice as it was given. Instead, he decided to speak to them honestly.
+
+Alicia’s words surfaced briefly in his mind.
+
+'No one stands alone on the frontier.'

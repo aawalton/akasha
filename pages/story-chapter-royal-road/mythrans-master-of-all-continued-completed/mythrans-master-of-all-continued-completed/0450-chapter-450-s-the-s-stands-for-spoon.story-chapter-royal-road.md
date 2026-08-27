@@ -1,0 +1,137 @@
+---
+id: 584987b8-2377-58d4-ad8c-ef90ed7f53c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 450 S - The 'S' Stands For Spoon!"
+slug: 0450-chapter-450-s-the-s-stands-for-spoon
+partOf: mythrans-master-of-all-continued-completed
+position: 450
+ownLength: 2020
+unit: words
+publishedAt: 2017-12-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179994/chapter-450-s-the-s-stands-for-spoon"
+royalRoadId: "179994"
+---
+
+The spoon Ren had in his hand that was flung out through the curtain, hit the pants leg of a passing Adventurer and it slid down to lodge it's handle in the top of his boot. Unaware of his passenger, the man left the restaurant with his party members.
+
+“This is gonna be great, Matt!” Steven said as they all climbed into their cart. “A full day of riding in a cart to get to the next city, a quick jaunt through the woods nearby to meet with that old man who lost his daughter, and then we're on a world event quest!”
+
+“I can't wait.” Matt said, less than enthusiastically. He was the Adventurer with the spoon stuck in the top of his boot, and the cart left the starter city of Aurora through the North Gate. The spoon slowly worked it's way down inside the boot as the day wore on, just from normal leg movements by Matt. By the time they arrived in the next city, the spoon was well and truly wedged in the boot. Since it was on the outside of his pants inside the boot, he didn't feel it at all.
+
+The party started to walk through the forest to get to the small cottage that the old man lived in, the spoon had moved even further down in the boot. They talked to the old man and accepted his quest, and he told them the path his daughter walked every day. They left the cottage and went through the woods to reach the path and followed it. Nothing happened for a while, and then the spoon managed to slip down past the edge of Matt's pants and the head of the spoon dug into his ankle.
+
+“OW!” Matt yelled and immediately picked the foot up, and he narrowly missed getting caught in the snare that foot had triggered. “Geezus!” He yelled and fell backwards, which knocked his fellow Adventurers off of their feet. A large branch filled with spikes swung over their heads as they landed in the bushes on the side of the road, and they all rolled away from the danger.
+
+“What the hell is going on?” Matt asked and tried to stand up, and felt the spoon cut into him. “Gah!” He grunted and kicked his leg out just as a ghoul lunged over the bushes. His foot connected with the ghouls face and he heard a crunching sound as they fell to the ground, and it clawed at it's broken nose. It couldn't screech that it had found more meat, then a sword decapitated it and it's blood sprayed out over Matt.
+
+“Dammit, Steven!” Matt said and tried to wipe the blood off. “It went in my mouth!”
+
+“Sorry.” Steven said. “It's better than being dead, right?”
+
+“Fine. Just get my boot off.” Matt said.
+
+“I'm not touching your bloody boots.” Steven said.
+
+“Something's sticking in me!” Matt complained, and Steven sighed.
+
+“You owe me.” Steven said and grabbed the boot.
+
+“Easy! Don't take my foot!” Matt yelled.
+
+“Stop being such a baby.” Steven said and yanked on the boot as hard as he could. The boot came off with an accompanying small spurt of blood as the spoon cut a deep swath from the ankle to the toes, and it was flung through the air nearly 50 feet. It landed beside a ghoul, and it smelled fresh blood. It knelt down on all fours and sniffed, screeched and pointed, and the rest of it's pack darted forward. It's clawed hand clumsily picked up the spoon and licked the edge of it. It liked the taste so it jammed the thing into it's mouth and ran forward. As it sucked, the spoon slid down into it's throat and lodged there.
+
+The ghoul didn't need to breathe, since it was undead, but it did need to eat without choking; so, it gagged on the metal spoon. It kept running and reached the party of Adventurers, and it saw that the fight was in full swing. It wasn't sure where it wanted to go first, then decided it didn't matter as it tried to swallow the spoon and it wouldn't go any further.
+
+The ghoul hunched over and tried to spit it out instead, but it just wouldn't move. It reared back to try and swallow again, and a spiked club hit it in the back.
+
+“BLAHHHHH!” The ghoul spit blood, and the impact had worked like the Heimlich Maneuver and the spoon dislodged from it's throat. It shot out across the battle, flipped end over end, and landed on the shoulder of a King's Guard that had just happened across the ambushed Adventurers. They helped make short work of the ghouls when they coordinated their efforts with the Adventurers, then followed their trail back to their nest. Inside the dirty rat-infested hovel, they found several young women of consenting age who were very thankful for being rescued. Once the group of King's Guard had been reassured by the party of Adventurers that the young women would be returned to their families in due course, the soldiers continued on their journey to the capital.
+
+It took several days for them to reach there, even after receiving a ride from a local farmer that brought food to the capital, and they reported directly to the Captain of the Guard. Once he had heard the story of their patrol across the countryside and how many ghoul sightings they had, he asked for an audience with King Alamast.
+
+When the soldiers told of their harrowing encounter with the ghouls and that they had rescued several young girls of similar age to the King's daughter, he called for his sword. Everyone was surprised by this, since he wasn't a fighter; but, then he asked the soldiers to kneel.
+
+“For your bravery in confronting a perilous threat to the people and rescuing it's citizens, I grant thee Knighthood.” He said and tapped his sword on the first soldier's shoulder.
+
+The blade hit the spoon instead of the armor, and made a clink sound instead of the normal clang sound a sword on armor would make. It sounded fine on the other shoulder, and all 10 of the soldiers became Knights. Food and drink were brought into the room afterwards, and the new knights cheered and thanked the King. As they congratulated each other, one of the knights touched the first one's shoulder and felt the odd shape.
+
+“There's something there.” He said and looked, then laughed. “It's a spoon!”
+
+“You're kidding!” He said. “I share my knighthood with a spoon?”
+
+All the soldiers laughed at the ridiculousness, and then his friend grabbed the end of it.
+
+“It's in there tight.” He said, gripped it firmly, and pulled. It popped out much easier than he expected and the spoon flew from his hand and across the small gathering and landed on the top of the King's crown. It had the nice plush top with gold and jewels around the outside, and the spoon landed without being noticed by anyone. Not even by the King himself.
+
+“Where did it go?” The knight asked.
+
+“I don't know.” His friend said. “I just know it didn't hit the floor, because we would have heard it.”
+
+“A knight has been lost.” One of the others joked. “A toast in his honor!”
+
+The other knights raised their glasses in tribute.
+
+“To Sir Spoon! He travelled the countryside and fought against the ghouls valiantly! May his legend live on!”
+
+“SIR SPOON!” The other knights said and they all drank.
+
+The King left the impromptu gathering and walked back to his family's private dining room.
+
+“What was all that ruckus?” Lady Eleanor asked as her husband came through the door.
+
+“A group of soldiers celebrating being knighted.” King Alamast said.
+
+“Dear, you give those knighthoods away too easily.” Lady Eleanor said and chuckled. “Soon we won't have any actual soldiers left!”
+
+King Alamast chuckled. “Perhaps you're right.”
+
+“Of course I am.” She said as she stood up and smiled. “I'm your wife.”
+
+“...and I'm your daughter.” Princess Diana said from across the room, and she didn't see her parents exchange a chaste kiss. She sat with her back to the room and stared out the window. He'll be here soon. She thought and touched the Amulet of Truth that hung around her neck.
+
+“Now take off your crown and sit down so we can eat together.” Lady Eleanor said. She already had a bowl of soup dished out for herself, and turned to pick up the cover from the small cart of food they had so she could get the king a bowl as well. King Alamast took off the crown as instructed, and the spoon slid off and plopped into Lady Eleanor's bowl.
+
+“What was that?” Lady Eleanor asked, and turned around to hand a bowl of soup to the king; who was looking in her bowl.
+
+“I think it's a spoon.” He said and used another spoon to dig it out of the bowl. “Yes, a very well crafted spoon.”
+
+“Where did it come from?” She asked and looked at the table. All of the utensils were still there.
+
+“I don't know.” King Alamast said and dried off the spoon to put it aside. “It's a mystery.”
+
+Lady Eleanor chuckled. “One we can solve another day.” She said. “Sit. Eat.”
+
+“Yes, dear.” He said and sat down.
+
+“Diana!” Lady Eleanor said, and Diana sighed.
+
+“I'm coming.” She said and left the silent vigil she had at the window, to have a meal with her family.
+
+Two days later, Lady Eleanor became sick. None of the healers in the city could find any explanation. They did everything they could to discover the cause, and no one knew what was wrong with her or why she had fallen deathly ill. King Alamast was despondent and didn't know how to handle this inexplicable situation; but, his daughter Diana was also grief-stricken and didn't let it stop her from thinking things through.
+
+It took her a day to think of the solution, and without asking her father, sent their fastest coach to retrieve a specially-trained healer. The healer and her assistant arrived that evening and Princess Diana gave them access to her mother's private bed chamber.
+
+By the next morning, Lady Eleanor was up and moving around, and the King was beside himself with joy. When he had thanked the healer and her assistant for saving the life of his wife, he asked what had happened. The healer told him it was his daughter that had found the solution and sent for them. He ran to her room, completely unlike what a king should do, and found Diana as she sat in front of her window.
+
+“Diana!” King Alamast exclaimed, and she turned to look at him.
+
+“It worked?” She asked.
+
+“Yes, sweetheart.” King Alamast said and strode across the room and took her into a tight hug. “You saved my heart from breaking.”
+
+Diana hugged her father and sighed. “That's why I did it.”
+
+King Alamast let her out of the hug. “Tell me, how did you know who to send for?”
+
+“After thinking about it, and about all the things that have been happening across the realm...” ...and by listening to Ren's advice... “...I realized that she somehow must have been infected by ghouls.”
+
+“Wh-what?”
+
+“I don't know how it could have happened, and I know it sounds crazy.” Diana said. “But... if you eliminate all the possible causes, then the impossible cause that remains has to be the truth.”
+
+“Oh, Diana.” King Alamast said. “That really is crazy.”
+
+“I know.” Diana laughed. “But it still worked, daddy.” She said. “Mother is going to be fine.”
+
+King Alamast hugged his daughter once more, and left her alone to return to his recovering wife. He thanked the gods, and his daughter, for the miracle.
+
+Sir Spoon, Knight of the Human Kingdom, was downstairs in the kitchen. He sat in a pile of nearly identical freshly washed utensils, and waited patiently for his next big adventure.

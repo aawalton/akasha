@@ -1,0 +1,329 @@
+---
+id: 186ca15b-3cfb-5223-b081-0c9bd2bd580f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101 - A Taste of Stone"
+slug: 0085-chapter-101-a-taste-of-stone
+partOf: mythrans-master-of-all-continued-completed
+position: 85
+ownLength: 3684
+unit: words
+publishedAt: 2016-12-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105520/chapter-101-a-taste-of-stone"
+royalRoadId: "105520"
+---
+
+Ren opened the small gate to the courtyard, after storing both his leather armor and the Dire Wolf Hoofed Cloak. The radius of Aura dropped back to just 10 feet, and Ren walked over to the building.
+
+Got anything for me, Teepo? Ren thought.
+
+“There's just a few people working. One dwarf is standing behind a big workbench, looking at some kind of plans. I'm going to assume he's the stonemason.”
+
+Thanks, Teepo. Do you think I should knock?
+
+“Nobody would hear it over all the racket, so no.”
+
+Ren opened the front door and stepped inside. A cloud of dust enveloped him and he held his breath, stepped back outside, and took out a piece of scrap cloth to tie over his face. Ren went back in and made his way over to the large workbench, and to the 4 foot 2 inch tall dwarf that stood there.
+
+“Sorry to bother you...” Ren had to yell over the pounding of hammers on chisels. “...but I was wondering if I could learn a few things from you.”
+
+The dwarf shook his head. “I can't teach anything today.” He said. “I need to get this finished by tonight.” He waved at the plans. Ren leaned over and examined them, and saw that it was for an ornate fireplace, carved from stone.
+
+Notice!
+
+You have learned the plans for: Stone Fireplace (Ornate)
+
+“What seems to be the problem?” Ren asked, trying to see where the trouble was.
+
+“This.” The dwarf said, and pointed to the stone female figure on each side of the fireplace. “There's no problem with the carvings themselves, even a novice can do that. It's the thinness of the neck. Once we get to that point, the head snaps off every time.”
+
+Ren thought about it. “I assume you tried to use mortar to reattach the head?”
+
+The dwarf nodded. “It looks horrendous, but it sets properly and is stronger than the original... then the neck breaks off at the chest.” The dwarf shook his head. “Why the client would want human females is beyond me.”
+
+That statement could be said by every race about every other race, though. Ren thought. “What if you cast it instead of carving it?”
+
+“What if I what?”
+
+“Cast it. It's done in blacksmithing all the time. You cut out a mold from stone and pour molten metal inside and let it cool. Pop open the mold, and you're done.”
+
+“Do you see a forge anywhere around here?” The dwarf laughed. “Metal would conduct the heat too much.”
+
+Ren shook his head. “I didn't mean for you to use metal... use mortar instead. You'll need to cover the inside of the stone mold with oil or something, just so the mortar won't stick to it.” Ren said and smiled. “Other than that, it should work.”
+
+Notice!
+
+You have adapted knowledge from one trade to be used in another.
+
+Intelligence: +1
+
+Wisdom: +1
+
+The dwarf looked at Ren like he was crazy, and then with an appraising eye. He clapped Ren on the shoulder and grinned. “Come! Let us try your crazy idea!”
+
+Ren told him how he needed to leave the whole bottom open to pour the mortar in, and how to make the stone sides interlock so that they lined up. It only took about half an hour for the stonemason to carve out the front of the female figure into a stone slab, then he did the back of the female figure on a similar slab. He covered the inside with some kind of powder (Ren found out later that it was just chalk dust) and put the 2 sides together, and Ren tied a piece of rope around them. They took the finished mold and went to the mortar maker. They had a good-sized batch of mortar made, and carefully poured it into the mold. The stonemason tapped it several times on the side to get it to settle into all the crevices.
+
+“Now we wait.” He said, smiled, and put out a hand for Ren to shake. “Barnar Slatebreaker, at your service.”
+
+“It's nice to meet you. I'm Ren.”
+
+“Well, Ren... I still can't teach you anything today.” Barnar said.
+
+Ren smiled. “I'd like to just hang around, if that's okay.”
+
+Barnar smiled. “As long as you lend a hand where it's needed, you can stay as long as you want.”
+
+“Thanks.”
+
+“I've got to finish the main body of the fireplace.” Barnar said. “Have a look around for about half an hour. This should be dry by then.”
+
+Ren nodded slightly and Barnar went back to the half-finished fireplace. Ren walked around and saw the different parts that went into stonemasonry. The gatherers, sorters, trimmers, carvers, stone grinders, mortar makers, and finally the assemblers.
+
+He's going to have to find a spot for casting now. Ren thought, amused.
+
+“This place is great!” Teepo said. “So many nice cubby holes!”
+
+I like it, too. Ren thought and smiled. They're all working hard, but it's not really a job. It's more of a passion, I think.
+
+After another quick walk-through, Ren decided to help out at the stone grinding station. They even had the same mortar and pestle that he used in his Alchemy kit. There were several sets and only 2 people were working, so Ren joined them and started grinding.
+
+New Sub Skill!
+
+Stone Grinding Level 1 (Beginner 0%)
+
+This sub skill under Stonemasonry allows you to grind small stones into powder.
+
+Higher levels will allow larger stones to be ground, and faster grinding.
+
+After about 20 minutes, Ren found out that it was limestone and sand being ground into powder for the mortar. Once the right balance of ingredients was made, you just added enough water to make a paste, and it became hard as rock when it dried.
+
+Notice!
+
+You have learned the recipe: Mortar (Stonelaying)
+
+Ren heard a shout from across the room, and went to see what it was. Barnar had opened the mold and had popped out a perfect mortar casting of the female figure. He grabbed Ren around the neck, bent him over, then ruffled his hair.
+
+“You crazy genius!” Barnar said. “There's small lines on the sides, but that's easily cleaned off.” He smiled. “Do you know how much time and money you've saved me today?”
+
+“Enough to pay for you to teach me?” Ren said and grinned.
+
+“Ha!” Barnar said and let Ren go. “That and more, my friend! That and more.”
+
+Ren smiled and went back to the stone grinding table after that. An hour later, he gained a point in Strength and leveled up Stone Grinding to Level 2. At that point, the other 2 people told him to stop because they had enough, and laughed when Ren looked at them with disappointment on his face.
+
+“I'm sure they need more stackers.” One of them said. Ren thanked them for letting him help and he went over to the stackers. He watched them to see if there was any kind of trick or pattern, but they were just stacking similar bricks together. He helped them for an hour and then they had everything stacked and had to wait for the sorters to bring over another bunch. Ren then went to the sorters and watched as they picked through all the different stones, but couldn't tell how they were determining which stone was good and which one was bad. He asked one of the workers, and they shook their head.
+
+“You just know.”
+
+Ren smiled, because he knew what that meant. It was a special skill, kind of like his Metal Detection that Fritz had taught him. Ren walked over to the trimmers next and watched them for a while, but didn't ask to join them. He'd have to learn a bit more about that before he could help. Ren glanced outside and saw that it was getting dark.
+
+Teepo, I'm heading home! Ren said. Are you coming?
+
+“Sure... just a minute.” Teepo said and Ren turned around to watch him pop out from between two stacks of stone bricks. He skittered over to Ren and then climbed up to his shoulder. Ren walked over to Barnar and said goodbye.
+
+“Come back anytime, my friend!” Barnar said and Ren left.
+
+Ren switched out his clothes momentarily to shake the dust off of them, and when he equipped them again, both Ren and the clothes were clean. He took off the cloth that covered his face and then equipped his cloak. Teepo climbed into the hood and Ren ran as fast as he could back to House Neram.
+
+He fed Princess and went inside to enjoy a great meal. Once that was done, Narhilda sat back and looked at Ren with a question on her face.
+
+“Ren, did anything happen today?” Narhilda asked.
+
+“Sure. I learned about the different steps that needed to be done before stone bricks are ready to be used, and then how to grind limestone and sand into powder.” Ren responded.
+
+“How did you learn that?” She asked, surprised.
+
+“I spent the evening at Barnar Slatebreaker's.”
+
+Narhilda frowned. “I thought you were going to consult with the Stonemason's Guild?”
+
+“I did.” Ren said. “The man you set up the appointment with, advised me to find someone else to learn from.”
+
+“Oh.” She said and pulled out a rolled piece of parchment. It looked like it had a round wax seal, that was broken open. “I had another messenger visit today.” Narhilda said and unrolled the parchment. “I thought it was really odd that my old friend wasn't going to work on the House, but wanted to try and order... oh, what was it...” She ran her finger down the parchment. “...here it is...” Narhilda looked at Ren. “30 really comfy blue chairs.”
+
+Ren laughed. “I was wondering where I'd left that chair.” Ren said, continuing the charade.
+
+Narhilda shook her head. “That's why I asked you what had happened today. How in the world did this comfy chair come up?”
+
+Ren smiled. “While I was consulting with your friend, I didn't like the chair he had there; so I used my own to sit on. While we talked, I just happened to come across a name of someone that could help me, and forgot the chair when I left the office.”
+
+“Well, I guess that would explain it.” Narhilda said. “Did you really make it? He said the chair came from you.”
+
+Ren nodded slightly. “I made it while I was in the brig at the Garrison. The benches in there are horrible, and they wouldn't let me use my bed again.”
+
+“You had a bed in jail?!?” Narhilda asked, surprised.
+
+“Is that the same one you had in the hold?” Her daughter Nathalia asked.
+
+Ren nodded slightly again. “It just barely fit.”
+
+Nathalia smiled. “Ma, it's a really comfy bed. If the chair was half as nice as that was...”
+
+“He was already asleep in the chair by the time I got to the door of his office.” Ren said and the three of them laughed.
+
+“Will you be making them?” Narhilda asked.
+
+Ren shook his head. “Not right now.” He said and yawned. “On the advice of an intelligent woman... I have to get some sleep.”
+
+Narhilda's face flushed slightly red and she smiled. “Then get yourself to bed! You won't be getting any sleep just sitting there.”
+
+Ren grinned and bowed to both women. “Goodnight.”
+
+“Goodnight.” They said, almost at the same time.
+
+Ren left the kitchen and walked through the main room to the hallway. Ren entered the old bedroom and lay down on the bed. I'll be out for a bit, Teepo. Ren thought and got comfortable. See you when I get back.
+
+“Bye, Ren.” Teepo said and crawled onto his chest.
+
+“Logout.”
+
+********
+
+Ren took off the helmet and Denise was there to put it on the rollaway table.
+
+“Bathroom!” Ren exclaimed and Denise tried not to laugh as he scrambled to get to the bathroom before it was too late.
+
+“Go easy there, Speedy Gonzalez!” She said. “You don't want to damage that knee again.”
+
+Ren nodded and left the bathroom door open. “My back teeth are floating!” He said and Denise laughed as, what sounded like a fire hose, hit the water in the toilet. “Ahhhh....”
+
+A minute passed and the sound eased down to a trickle, and Ren flushed. He washed his hands and came out to climb back into bed.
+
+“Boy, did you ever need to go!” Denise said and grinned.
+
+Ren settled down into bed and grinned himself. “I don't know how the VR system does it; but once I'm out, everything I should have done during the time I was in, hits me all at once.”
+
+“You're lucky it wasn't a number 2.” Denise said. “You might not have made it.”
+
+Ren nodded. “Thankfully, that hasn't happened. I've been really careful about that.” He said and looked at her. “Your job is hard enough as it is, without having to deal with cleaning that up.”
+
+Denise put a hand on his arm. “You're really sweet, worrying about something like that.”
+
+“That's me. I'm just made of sugar! I can't even go out in the rain because I might melt.” Ren said and laughed.
+
+Denise laughed, too. “Okay, Mister Funny Man. Are you ready for some grub?”
+
+“I could eat.” Ren said and smiled. “Assuming it's actual food, and not a bowl of boiled water and celery.” He said and half-gagged. “Blah!”
+
+Denise laughed. “I apologized for that, you little frigger!” She said and tickled him under his arms. “It's not my fault the soup mix stuck together and sat on the bottom of the pot, and I didn't have time to make anything else.”
+
+“St-stop!” Ren said and laughed. “Or I'll have to go again!”
+
+Denise stopped tickling him and smiled. “I check expiry dates all the time now.”
+
+Ren smiled. “Then it was a sad, and a happy day for stomachs everywhere.”
+
+“Quiet, you!” She said and shook her fist at him, and laughed. “I'll be back with sandwiches. Sandwiches!”
+
+Ren laughed. “I'll be here.” He turned on the television to watch a game show while he waited. It didn't take long, and Denise came back with several sandwiches cut into 4 pieces. One was egg salad and the other one was cold cuts. A small glass of pop was on the side, and Ren took his time eating it all. He saved the pop for last, as that was the best part.
+
+“That was good, Denise. Thank you.”
+
+“You're welcome.” She said and smiled.
+
+“Looks like I'm just in time to visit.” Lucy said, as she entered the room.
+
+“Lucy!” Ren said, surprised. “What are you doing here?”
+
+“I can't just come by and visit whenever I want to?”
+
+Ren grinned. “Of course you can!”
+
+Denise smiled. “I'll take the tray back to the break room.” She said, picked up the tray, and winked at Ren. “This might take me an hour or so.”
+
+Ren smiled and Denise left the room. Lucy shut the door, locked it, and came over to the bed. Ren was already sitting up, so he shifted over a little to make enough room for Lucy to sit down, too.
+
+“Hello, Angel.” Ren said and smiled. “Are you really just here to see me?”
+
+Lucy nodded. “After I had you over for dinner last week, I... I can't stop thinking about you.”
+
+Ren cupped the side of her face with his hand and leaned in to kiss her gently.
+
+“Root beer?” Lucy asked.
+
+“Sorry, I just ate. I'll go brush my teeth.” Ren said, and started to get out of the bed. Lucy stopped him with a hand on his arm.
+
+“It's okay. I like root beer.” She said as her face flushed a little red.
+
+“It's great, that's for sure; but, not as great as this.” Ren said and lightly ran a thumb over Lucy's lips. “That's the best thing in the world.”
+
+“Oh, Ren.” Lucy said and kissed him.
+
+They started making out, caressing each other's faces and kissing like there was no tomorrow. Lucy moved over a little, and she eased Ren back onto the bed. They kept kissing and Ren's arm ended up half-jammed under Lucy's weight. He didn't notice however, as his concentration was completely focused on how great Lucy felt as she nuzzled his neck. Lucy didn't notice, either... and when she shifted her weight to get more comfortable, it shifted Ren as well.
+
+*POP*
+
+Ren froze as a familiar sensation was felt in his elbow. It was the same feeling he'd had in his knee when he'd collapsed in physiotherapy. Lucy kept kissing him, and he responded in kind a moment later, but she started to notice that he was only using one hand, when he had been using two only a few minutes before.
+
+“Ren, what is it?” Lucy asked.
+
+“It's nothing.” He said and tried to kiss her.
+
+“Don't lie to me.” She said and sat up. “I can always tell, you know that.”
+
+Ren sighed, then used his still functioning arm to sit himself up... and his left arm flopped over the edge of the bed, the joint clearly out of place.
+
+“REN! Oh my god!” Lucy exclaimed and got off the bed.
+
+“It's okay, Lucy.” Ren said. “It's probably just dislocated.” He tried to pick it up with his good hand, but she bat the good hand away, and examined Ren's elbow as tears came to her eyes. She eased the arm onto the bed and felt around the joint. She wiped her eyes and went to the door, unlocked it, and hollered for the doctor. She came back to the bed and the tears flowed freely.
+
+“I'm... I'm so sorry, Ren!” Lucy said and started to sob.
+
+“I told you it's okay, Lucy.” Ren said. “It doesn't even hurt.”
+
+Lucy cried and wiped more tears away. “That usually means... the... the nerve is pinched.” Lucy sniffed. “Can you move your fingers?”
+
+Ren looked down at his arm, and as the ring finger twitched a little bit, he mentally cursed at it. The doctor and Denise came in and saw the state of Ren's arm. The doctor gave a stern look to both Denise and Lucy, and examined Ren's elbow. He checked Ren's pulse, and felt that it was weak.
+
+“Can you move your fingers?”
+
+Ren mentally cursed his hand again and shook his head.
+
+“Nurse, get the sedatives. An immediate Reduction is necessary. We'll worry about the possible nerve damage after it's properly set.”
+
+“I don't need sedatives.” Ren said.
+
+“This is no time to be brave.” The doctor said.
+
+“I'd rather be awake, if that's okay.”
+
+The doctor sighed. “Nurse, a hand please.”
+
+Denise stepped forward and Ren laid back in the bed. She held his upper arm steady, and the doctor felt around the now swollen elbow. He nodded to Denise and she gripped hard. Ren winced as the doctor gently turned his forearm back and forth slowly, and then the elbow popped back into place. The doctor checked that it was properly set, and checked Ren's pulse at his wrist.
+
+“That's better.” He said and smiled. “You're lucky, Ren. We won't need surgery.”
+
+“I'll get the sling and the wheelchair.” Denise said and left the room.
+
+“I'll call X-ray and get the room ready.” Doctor Hobbard said and left as well.
+
+Lucy had stood off to the side and didn't say a word until the doctor left. “Ren... I... I'm so sorry!”
+
+“It's okay.” Ren said and flexed his fingers a little. “See? Getting better already.”
+
+Lucy sobbed and came over to the bed. “I hurt you so badly, just from being around you.” She said and wiped more tears away. “I shouldn't... I can't be doing this to you, Ren.”
+
+“Lucy, don't!”
+
+“Ren... I can't... I can't see you anymore.” Lucy said and cried.
+
+Ren reached out and put a hand on her face. “Please, Lucy... don't leave me!” Ren said as tears came to his eyes. “I love you!”
+
+Lucy held his hand on her face and rubbed it like a cat. “I love you, too... but, I won't hurt you like this anymore.” She said. “ I can't let myself hurt you like this.” Lucy took his hand from her face. “G-g-goodbye, R-Ren.”
+
+“Lucy!” Ren hollered, but she ignored him and left the room. A moment later, Denise came in with the wheelchair and arm sling. She gently placed Ren's arm in the sling, and Ren climbed out of bed and into the wheelchair. Denise tried her best to ignore his quiet tears as she pushed the wheelchair to the elevator to take Ren to X-ray. She gave Ren a tissue to wipe his face once they got there, and it didn't take long to confirm the doctor's prognosis. His elbow was damaged, but wouldn't need surgery. After only a few weeks in a sling, and some physical therapy, would have the elbow back to almost full function.
+
+“What do you mean, almost?” Ren asked the doctor.
+
+“Any kind of damage like this, there's going to be consequences.” Doctor Hobbard said. “In this case, your arm won't completely straighten anymore.”
+
+Ren sighed. “Thanks, doctor.”
+
+Doctor Hobbard pat Ren on the head and told Denise to take him back to his room. She did, and Ren climbed into bed, with a little difficulty.
+
+“Is there anything I can do for you?” Denise asked.
+
+“I'd like to be alone for a while.” Ren said.
+
+Denise nodded and took the wheelchair back to the nurse's station as Ren let the tears flow again. A few minutes later, he wiped his eyes and glanced at the rollaway table, and on it was the only escape Ren had for his troubles. He pulled the rollaway table over and picked up his VR headset. He had a hard time getting it on with only one hand, but he managed it eventually and laid back on the bed.
+
+“Flow Login Start.”

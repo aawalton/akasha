@@ -1,0 +1,337 @@
+---
+id: 2c643602-c293-5978-af2d-7b14803494ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 436A - I Found You (EXPLICIT CONTENT)"
+slug: 0434-chapter-436a-i-found-you-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 434
+ownLength: 3955
+unit: words
+publishedAt: 2017-11-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177280/chapter-436a-i-found-you-explicit-content"
+royalRoadId: "177280"
+---
+
+Ren didn't try to engage Denise in any witty banter, and she dutifully scrubbed him; even his private place. He watched her body as she moved, and he let it get him excited; mainly because he knew that she wanted him to show her that he saw her as attractive. He also didn't want to insult her by not showing her that she excited him, so he made sure that she noticed his excited condition.
+
+Denise took him out of the shower and dried him off, dried herself, then gave him a robe to wear and put one on herself. He sat down in the wheelchair and she brought him out to the bedroom. She helped him onto the bed, and she joined him.
+
+“What am I going to do with you?” Denise asked.
+
+“Anything you want.” Ren said. “Like I told you... I'm all yours.” He opened the robe and laid back on the bed. “Ravish me!”
+
+Denise snorted a laugh. “What if all I wanted to do was cuddle?”
+
+Ren closed the robe and opened his arms. She looked at him with a question on her face, and he waved her closer. She move in, and he took her into his arms.
+
+“If all you want is for me to hold you tight all day, then that's what I'll do.” Ren said, and kissed her cheek.
+
+“You really would, wouldn't you?” Denise asked, with wonder in her voice.
+
+“I will do anything you want... barring any strenuous physical activity.” Ren said and smiled. “My endurance is really low right now.”
+
+“Then... I want you to keep your promise.” Denise said. “Prove what you said yesterday.”
+
+“That I can do foreplay all day?”
+
+Denise nodded.
+
+“Then lay back and get ready.” Ren said, and she laid back on the bed. Ren pulled on the tie around her robe, then used a hand to push one side of the robe aside, and then the other. “I don't normally start down here, but I've seen this a few times now, and I can't waste time anywhere else until I see it all.”
+
+Denise held her legs together, and he ran a hand down her thigh, then he eased her legs apart and laid down between them.
+
+Ren kissed the inside of her thigh, and her body shook slightly. He smiled and kissed the inside of her other thigh, and she shivered again. He inched forward and she moved her legs further apart, and then he tapped the underside of her thigh.
+
+“Geez, are you going to give me a thorough examination?” Denise asked and smiled as she lifted her legs and bent her knees, then put her feet on either side of his back.
+
+“You bet your sweet ass I am.” Ren said and use a hand to touch the spot between her legs. Denise gasped, because she hadn't had anyone touch her there in a long time, and Ren eased it open slightly.
+
+“Good god.” Ren said. “It's... it's...”
+
+“Wh-what?”
+
+“Perfect.” Ren said. “There's no excess skin, discoloration, or even that kind of waviness some of them have.” He said. “It's just two straight lines from the top to the bottom.” He lifted his head and looked at her. “It's beautiful.”
+
+“Ren, you... you can't say things like that about...” Denise shook her head. “It's only-”
+
+“It's not an 'only' anything.” Ren said and looked back at it. “I've never seen one so...” It was his turn to shake his head. “I thought something like this was only a fantasy.” He said and used a finger to poke her nub. It was only slightly extended, but it was bright pink and really sensitive.
+
+“GAH!” Denise yelled and a tiny bit of warm liquid came out.
+
+“Wow.” Ren said, and used a finger to trace the perfect line of skin down one side. Denise was already breathing heavily, and he had barely started. He traced the perfect line up the other side and poked her nub again.
+
+“GAH!” Denise yelled, and covered her mouth, and a bit more warm liquid came out.
+
+“Is it okay if I kiss you now?” Ren asked, and she nodded without saying anything. “Thank you.” He said and kissed her nub.
+
+“MMMmmMMM!” Denise moaned into her hand, and Ren felt her body as it shook with every movement of his lips and his tongue.
+
+“There's the little man in the boat.” Ren said and licked her nub.
+
+“MMM!”
+
+“Oh, there's a leak in the boat.” Ren said. “I better clean it out before it gets flooded.”
+
+Denise had to use her other hand to stop from screaming as Ren licked every bit of the 'boat' out. He teased, licked, and kissed every bit of it for almost half an hour, and every few minutes Denise would moan uncontrollably and he would get a little bit more warm fluid that he would happily clean up. He stopped working her over with his mouth and looked at her.
+
+“This is usually where I have to stop, or they make me stop.” Ren said.
+
+Denise shook her head and mumbled something, but he didn't hear what she said.
+
+“What was that?”
+
+“D-d-d-don't.” Denise managed to get out. “P-p-please... k-keep g-going.”
+
+“Are... are you serious?” Ren asked. “You mean I... I can keep going?!?”
+
+Denise nodded several times, and Ren beamed a smile at her.
+
+“I finally found you!” Ren said and gave her special place a passionate kiss. “I've been looking for you for so long!” He said and kissed her special place again. “I was hoping I'd meet you someday!” He said and dove between her legs and indulged himself.
+
+It wasn't until almost another half an hour later that Denise's legs started to convulse. She quickly sat up and pulled her special place away from Ren's mouth, hopped off of the bed and ran to the bathroom. He rolled to the side and waited for a few minutes, then she came back out.
+
+“I'm sorry, I... I needed to use the bathroom.” Denise said, then got back on the bed. “I... it's not my fault... you're just... I couldn't hold it in anymore.”
+
+“Thanks for not peeing on me.” Ren said, and her face went bright red.
+
+“Ren!”
+
+“What?”
+
+“You're not supposed to... I mean... people are supposed to ignore things like that!”
+
+Ren chuckled. “I'm pretty sure I wouldn't be able to ignore getting pee in the face.”
+
+“Ren!”
+
+Ren laughed. “Lay down so I can keep going.”
+
+“Wh-what?”
+
+“Please, let me keep going.”
+
+“B-but... don't you want to...”
+
+“I really do.” Ren said. “But, I am not passing up the opportunity you have given me.” He said. “I am going to keep going down on you for as long as you will let me.”
+
+Denise took in a deep breath, then wrapped her arms around him and gave him a kiss. She did that for several moments and broke the kiss.
+
+“You've given me a lot of proof so far, but... I don't want you to stop, either.” Denise whispered in his ear, then laid down on the bed.
+
+“Unfortunately, we'll have to stop for lunch... and probably supper.” Ren said. “I'm not going to stop for anything else, though.”
+
+Denise's body shook a little as he laid down between her legs and started to make out with her special place again. She only had little orgasms the entire time, and Ren figured that was why she could go on and on with them; and he was more than happy to keep going. He was making both her and himself happy at the same time.
+
+Before they knew it, there was a knock on the door. “Lunch.” Stella's voice said, and Denise tapped Ren's head to get his attention. He looked up at her but didn't stop licking.
+
+“L-l-lunch!” Denise said and went again.
+
+Ren licked it up and spoke. “Come in.”
+
+“Ren!” Denise exclaimed and grabbed the blanket to pull over them. Stella walked in with a tray filled with sandwiches and put it on the rollaway table as Denise scrambled to cover herself.
+
+“Ren, get out from under there and eat something.” Stella said to the lump under the blanket.
+
+“I am eating something.” Ren said, and Denise closed her eyes and tried not to moan. Stella shook her head and pat the lump.
+
+“Now, mister.” Stella said.
+
+“Oh, all right.” Ren said and came out from under the blanket. He was completely naked and didn't even try to cover himself with the blanket.
+
+“Denise.” Stella said, a little sternly.
+
+“Wh-what?” Denise asked.
+
+“You aren't taking care of Ren.”
+
+“Wh-what?”
+
+“Look at him.”
+
+Denise looked at him, and then her eyes saw his swollen member. “Oh, my.” She said and looked at Ren's face as he picked up a sandwich. “Ren, why didn't you say anything?”
+
+“It doesn't hurt yet.” Ren said and started to eat. “I was having too much fun pleasing you to worry about myself.”
+
+“Ren, you need to keep us informed.” Stella said and held the plate of sandwiches out to Denise. “You don't want it to get to the point that it did last week.”
+
+“Yes, you're right.” Ren sighed. “I'm sorry.”
+
+“Denise you need to take care of that right after you eat.” Stella said.
+
+“But...”
+
+“No buts.” Stella said. “You have to take care of his needs, even while he's taking care of yours.” She said, and saw Denise's doubt. “Do you want me to do it?”
+
+“Wh-what?”
+
+“If you're uncomfortable with going down on him, I'll do it for you.” Stella said.
+
+“B-but...”
+
+“I know it can be a bit intimidating at first.” Stella said and leaned over Ren and touched his member. It throbbed for her, and she smiled. “Once you make peace with it, though... it provides hours of pleasure.”
+
+“You mean me, right?” Ren said and picked up another sandwich.
+
+“Yes, since it is a part of you, and you control it... to some extent.” Stella said, and Ren chuckled.
+
+“B-but...” Denise looked at Stella as she stroked Ren. “I'll do it... since he... he's supposed to be mine today.”
+
+Stella smiled and ran her fingers from the tip to the base. “Then take care of him.” She said and put the plate of sandwiches down, then walked out of the bedroom without looking back.
+
+“R-Ren, I... I'm sorry.” Denise said and ate her sandwich.
+
+“It's not your fault.” Ren said, and finished the second sandwich. “Stella's right. I should have asked you to at least play with it.” He said and smiled. “I was just so lost in you that... well, I didn't care what happened to me, as long as you were happy.”
+
+“Oh... oh, Ren.” Denise said and kissed him. “Where have you been all my life?”
+
+“Stuck in a hospital bed.” Ren said and chuckled, then his hand touched her between her legs. “I could ask you the same thing.”
+
+“It's been wanting you for a long time.” Denise said and finished her sandwich while Ren played with her. “I didn't realize just... how much... until today! AH!”
+
+“Me, either.” Ren grinned as he felt her go. “If I had known that this was the one I was looking for...” He put his fingers in his mouth and sucked them clean. “...well, it doesn't matter. I have you here now.”
+
+“L-lay back.” Denise said.
+
+“Gladly.” Ren said and laid back on the bed and Denise looked at his member. “You can just use your hand like you did this morning.”
+
+“N-no, I...” Denise did what Stella did and used just the tips of her fingers to stroke him. It throbbed appreciatively, and she looked at his face. “Can you... I mean... close your eyes or something? I... ah...”
+
+“You don't want me to see you doing it?” Ren asked, a little surprised.
+
+Denise nodded.
+
+“You're not like any other woman I've been with.” Ren said and touched her face, then put his head on the pillow and closed his eyes. “Usually they want me to watch, probably because they want to see my reactions.”
+
+“It's embarrassing.” Denise said. “Having it in my mouth, it... it's not...”
+
+“If you think I won't respect you for doing this, then you're completely wrong.” Ren said, and kept his eyes closed. “It takes a lot of trust for me to let a woman see me like this.” He said. “That you'd be willing to do other things with me, even though my body is like this... you've already earned all the respect I could ever give you.”
+
+Denise couldn't believe what he was saying, and she had watched him. He had kept his eyes closed like she asked; so, she leaned in and kissed the tip. Ren gasped and a bit came out, and the words Elise had whispered to her came back to her.
+
+Just wait until you taste it.
+
+Denise thought about ignoring it, or getting a tissue; but, Ren had dutifully cleaned her up after every one that she had for the entire morning, and Elise's words rang in her ears as her tongue very carefully caught a drip from the tip before it fell. When it hit her tongue, her pupils dilated slightly, and she felt a tingle as the most wonderful flavor registered in her brain. She couldn't tell you what that taste was, but it didn't matter. She let it consume her as it mixed with her desire for him, and she slid him into her mouth.
+
+“D-Denise!” Ren said, and she looked at him. He still had his eyes closed as she sucked on him. “There's going... to be... a lot!” He said and dug his hands into the bed sheet and made fists.
+
+Denise couldn't get as much of him into her mouth as she wanted, because when he approached the back of her throat, it constricted and stopped his member from choking her. She concentrated on the tip and a bit of the shaft and she worked it as hard as she could.
+
+“D-D-Denise!” Ren exclaimed when he got that feeling that he was about to go.
+
+Denise stopped sucking on him and laid her head on his abdomen and jerked her hand up and down.
+
+“It... it's coming!” Ren said, and her tongue darted out to lick the tip. “GOD!”
+
+Denise opened her mouth to try and catch it all as Ren poured himself out, and she got most of it. She had remembered how powerful it was when she had jerked him off in the shower, and knew if she had positioned herself just right, the mess would be negligible. Her entire mouth was filled with his boiling hot fluid, and the sensations of tingling and taste almost drove her wild.
+
+Denise stopped jerking on him and held his member over her mouth as it calmed down, then she closed her mouth and carefully tried to swallow. She had never had so much of anything in her mouth before, so it was a little awkward at first; but, after a big swallow and a small one, her mouth was empty. She pulled him down a little and sucked on the tip to get the last little bit, and he gasped.
+
+“W-wait!” Ren said, but it was too late. Denise's eyes widened as he went again, and she drank that as well. She was glad that there wasn't as much this time, because she wasn't sure if she could take any more.
+
+I shouldn't have eaten a sandwich. Denise thought, and stopped herself from laughing. She looked at Ren's face, and his eyes were still closed. She carefully slipped him out of her mouth and sat up, and she saw she had missed several dribbles. She licked them up and his member throbbed, and she thought about giving him another kiss, then decided that she didn't want to feel bloated.
+
+“A-are you okay?” Ren asked. “Is it a huge mess?”
+
+“You can open your eyes.” Denise said, and Ren opened them and looked at her, then down at himself.
+
+“Where did it all... wait, you... oh, wow.” Ren said.
+
+Denise smiled as she straddled his waist and rested herself on his member. “Let's get you... properly lubricated.” She said and propped herself up on her knees and started to move back and forth across his member. “It's so hot.” She said and closed her eyes and gave herself over to the feeling of his hard flesh against her most sensitive spot. She moved faster and faster, and just when he was going to tell her to stop, she went. A little bit of warm liquid came out of her, and she moved twice more so that it covered him from base to tip.
+
+Denise got off of him and took a foil packet from the dresser and opened it. Once again, she applied it expertly and it just fit over him. She used her hand for a moment to make sure it was going to stay in place, and she straddled him again.
+
+“It... it's going to be a... tight fit.” Denise said, and positioned herself over him. She used a hand to guide him and she tried to sit down; but, the tip barely went in. “T-too t-tight!”
+
+“R-Relax.” Ren said and reached down to use his fingers to play with her nub. She went after a few moments with him pressed against her opening, and the muscles there relaxed. She slid down a bit further onto him, and her body squeezed him like a vise. “GOD!” He yelled and finished.
+
+“So soon?” Denise felt it inside of her, and eased herself up and off of him. “Oh, my.”
+
+The foil packet's contents had swelled up like a balloon, and she was surprised that it hadn't burst. She carefully took it off of him, tossed it in the trash, and grabbed another foil packet.
+
+“This might take a while.” Denise said and put it on him. She got back into position and eased down onto him. It wasn't as bad this time, and she got almost halfway down before her body contracted from having something so big inside of her.
+
+“GOD!” Ren exclaimed again and went.
+
+“Ren, you need some self control.” Denise said and eased herself off of him, tossed the used contents in the trash and reached over to the still open dresser drawer and grabbed another foil packet.
+
+“But... you're so tight!” Ren said. “Seeing you like this, and being with you... I... I can't hold it back!”
+
+“That's...” Denise saw the pleading look in his eyes, and it touched her heart. “You're so sweet.” She said and put the foil packet back in the drawer without using its contents. She straddled him again and she used a hand to position him at her opening. She eased herself down onto him without anything between them, and for some reason, her body made room for him completely and she didn't have to force it at all.
+
+“Oh, GOD!” Denise exclaimed as he slid all the way inside of her, and she closed her eyes as her body enveloped him like a glove. “Ren!”
+
+“D-d-don't... don't move!” Ren said. “Good god, Denise!”
+
+“I... I know!” Denise said and leaned down to kiss him. He fit perfectly inside of her, and she was wrapped perfectly around him. “I can't... how can... it's...”
+
+“Perfect.” Ren said, his voice full of wonder. “I've never felt anything like this before.” He said. “If you even twitch, I'm going to fill you up!”
+
+Denise chuckled, which shook her abdomen, and Ren let the bed sheets go to wrap his arms around her.
+
+“AHHH!” Ren yelled as he went inside of her.
+
+“AHHH!” Denise yelled as she went with him inside of her. “Oh, god... god... Ren!” She went again as Ren kept pouring himself inside of her. “S-stop. Stop! We have to stop!”
+
+“I can't!” Ren said and kissed her. “I was meant to be in you!”
+
+“R-Ren!” Denise kissed him back, and they stayed that way for a long time. Both of them kept finishing as Denise tried to move off of him, and each time she came close to removing him, she kept losing her willpower and pushed her hips back down. She didn't want the feeling to end, and neither did Ren. For the next hour, all they did was stare at each other and let their bodies do the talking.
+
+“I... it's never been like this...” Ren said. “Denise, I... god, you...”
+
+“I know, darling.” Denise whispered and kissed him. “I've never had anything like this before, either.” She smiled. “I barely have to move and I can make you go.”
+
+“S-Same, here.” Ren said and shifted his hips. “It's like... like... we were made for each other.” He said and thrust, then went inside her again. She went, too; and they held onto each other as they caught their breath and tried to calm down.
+
+“Ren, we... we should stop.” Denise said.
+
+“I... agree.” Ren said and panted. “I've still got... several hours left... before I have to stop eating you out.”
+
+Denise chuckled and it tightened her abdomen, which brought them both close to finishing again. “I have to stop laughing.”
+
+“Only if you plan on getting off of me within the next hour or so.” Ren said, and she grinned.
+
+“Let's take a break and not say or do anything for a few minutes.” Denise said.
+
+“You have to stop gripping me so hard.” Ren said a minute later.
+
+“You have to stop being so hard.” Denise countered, but she had a huge smile on her face.
+
+“So... maybe just... if you slide off quick enough...”
+
+“You'll make a complete mess over yourself.”
+
+“Do you really think there's not a huge mess over me already?” Ren chuckled. “I've lost count of how many times...”
+
+“Okay, okay. I'll try it.” Denise said. “On three.” She said. “One... two...” She pulled herself forward and up off of his member.
+
+“AHH!” Ren said and squirted all over her special place, her backside, and even up onto her back.
+
+“Ren... you're amazing.” Denise said and tried to grab some tissues.
+
+“Let me.” Ren said and slid over to grab the tissue box and took out a handful. He held it under her special place for several moments, then wiped off her back and backside.
+
+“I could have done that.” Denise said.
+
+“Then grab some and keep wiping.” Ren said. “There's no way more's not coming out after everything I put in you.”
+
+Denise chuckled and grabbed a handful of tissues and held it against her opening. “We really shouldn't have had unprotected sex.” She said, now that she had a moment to think about what they had done.
+
+“You're kidding right?” Ren asked. “It was nice with the protection, but...” He cupped the side of her face. “You felt perfect.”
+
+“So did you.” Denise said. “I... I think I... I'd do anything to feel like that again.”
+
+“Well, then you know what has to be done.” Ren said.
+
+“What's that?”
+
+“You need to give me a shower.” Ren said and grinned. “I'm a little sticky for some reason.”
+
+Denise laughed. “I'm a little sticky, too.”
+
+“Ooo! Mutual shower!” Ren said. “Can you make it to the bathroom?”
+
+“Can you?”
+
+“If I lean on your shoulder.”
+
+“Then let's go.” Denise said and slid off the bed as she held the tissue over her opening to stop more from coming out. She used her other arm to be Ren's support and they went into the bathroom and got in the shower. Ren sat down and Denise lathered him up, and he used his soapy hands to diligently wash her.

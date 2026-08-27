@@ -1,0 +1,227 @@
+---
+id: 9dfaa8bc-c0ea-5656-869f-12bab85b981f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 557 - Picking Them Up: Conclusion"
+slug: 0557-chapter-557-picking-them-up-conclusion
+partOf: mythrans-master-of-all-continued-completed
+position: 557
+ownLength: 2714
+unit: words
+publishedAt: 2018-04-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/208339/chapter-557-picking-them-up-conclusion"
+royalRoadId: "208339"
+---
+
+Ren was both surprised and not surprised as Frikara and the maids quickly ushered him inside of the building, kept him completely protected on all sides, and brought him up to the second floor to Narshan's apartment.
+
+“Okay, I'm impressed.” Officer Holly said. “That was great teamwork.”
+
+“Thank you.” Frikara said. “We've shared an Aura ever since Ren gave it to us when we first met. We've been using it to coordinate our movements, and it lets us have all of our senses available to everyone at once.”
+
+“That is definitely an advantage.” Officer Holly said.
+
+“It can also be a drawback.” Ren said. “If one of you is caught by surprise and injured...”
+
+“We fold them into the group to protect and heal them, then keep going.” Frikara said. “Like I said, we've been practising.”
+
+Ren flooded the shared Aura with approval and pride, and appreciation for all their hard work. They gave him gratefulness in return, and Artemis knocked on the apartment door.
+
+“I felt you coming.” Xuunah said as she opened the door and stepped back. “I'm glad you're here. My Reassurance Aura isn't working on them. Perhaps you can help calm them down.”
+
+Ren let his concentration on the maids fade and then stepped into the apartment. “I'll see what I can do.” He felt emotional chaos from two people, and resignation from another. When he entered the single bedroom, he saw that Narshan was trying to pack things, and two women that looked eerily similar as they putted around the room and tried to help each other get ready.
+
+“Oh, my god! Mother! Fix my hair!” One woman said.
+
+“I am, dear!” The other woman said and shoved a large hairpin into the fancy hairdo of the first woman, then she quickly turned around. “Now tie my sash!”
+
+“I am, mother!” The first woman said and expertly tied the sash around her mother's waist and gave it a fancy knot and bow. “Oh, no! My feet!”
+
+“I have your shoes!” Her mother said and passed them to her.
+
+“I can't put these on!” The first women said when she tried to bend over and her dress stopped her.
+
+“Narshan! Help your sister!” His mother said. Narshan sighed and helped his sister sit on the bed, then she flopped onto her back and lifted her feet so he could put her shoes on.
+
+They're like frantic penguins. Ren thought as he watched the mother waddle to the other side of the bed. She flapped her arms uselessly in the tight dress, because she couldn't reach the hat she wanted.
+
+“Narshan! Help!” His mother exclaimed.
+
+“Just a second.” Narshan said and helped his sister stand up, now that she had her shoes on, then went over to his mother. “Which hat do you want?”
+
+“The bright feathered one!” His mother said. “Hurry! My head is bare!”
+
+She just finished doing the fancy hairdo, and now she's covering it with a hat? Ren asked himself.
+
+Maybe it's like a ritual. Teepo thought back, so he wouldn't speak out loud and disturb the scene playing out in front of him.
+
+It has to be. Ren thought as Narshan put the hat on his mother's head. It's a bit too ridiculous to just be a random thing.
+
+“Get my hat, too!” The sister said, and Narshan pointed to another hat, and she nodded. He helped her put that hat on, and both women turned as one and pointed to the closet.
+
+“Get our wraps!” They said together, and Narshan went to the closet and took out two similar wraps and placed them across their shoulders and tucked them in tightly.
+
+“How do we look?” His mother asked.
+
+“You look fine.” Narshan said, and Ren felt the two women's anger.
+
+“Fine? Only FINE?” The mother yelled. “I don't want to look fine!” She reached up to pull her wrap off, and Ren had seen enough to know that the scene would continue until Narshan told her she looked her best.
+
+“M'lady, you can't honestly expect your son to be an unbiased observer and see you as a woman instead of his mother.” Ren said in his command voice. “He's seen you too many times for that.”
+
+Narshan, his mother, and his sister stopped moving, and the three of them turned to look at Ren.
+
+“My Lord.” The woman said, and he felt her emotions switch from annoyance to seduction. “What do you think of my appearance?”
+
+“Unfortunately, I am not an unbiased observer, either.” Ren said. “I have no right to judge you or your appearance.”
+
+“My daughter...”
+
+“Also suffers the same condition, I'm afraid. She can't expect her half-brother to see her as a woman, or expect me to look past the women I have in my life and give her an honest opinion.”
+
+“Did you say women?” The sister asked, and Ren nodded.
+
+“I won't list them, because that would be a disservice to them.” Ren said. “They know what they mean to me, and that's all I care about.”
+
+“You can handle yourself quite well in conversation.” Narshan's mother said. “I feel like I should be insulted somehow, and yet your pleasant tone has eased the potential harshness in your words.”
+
+Ren smiled. “Now you understand why I won't just pay you a false compliment, M'lady. You would have known it wasn't genuine.”
+
+The woman smiled, as did her daughter. “Will there be more like you where we are moving to?”
+
+“No, M'lady.” Ren said. “Although a lot of Adventurers do pass through my county every week, I am the only male that lives there.”
+
+“You have female Adventurers living in your county?” Narshan asked with wide eyes.
+
+“Quite a few, actually.” Ren said. “Besides the other people that live there.”
+
+“I can't wait!” Narshan said, and his mother and sister stared at him. “Ah, I mean moving and getting a new job.”
+
+“How is the packing going?” Ren asked.
+
+“I've stored all the things from the living room; but, I wasn't allowed to touch anything in the bedroom.” Xuunah said. “They were using it all.”
+
+Ren nodded. “M'lady, may I assist in packing?”
+
+“You may.” Narshan's mother said.
+
+Ren moved as quickly as he could and packed their things inside their dressers and cabinets. When he ran out of room, he stored them and took out an empty crate and filled it. He felt Narshan's family's shock as he made short work of it, and he stored the crate.
+
+“I believe that's everything.” Ren said. “Unless you want the bed?”
+
+“That horrible thing?” Narshan's sister shook her head. “I'd be glad to see it burn.”
+
+Ren thought about lighting it on fire and burning it up, then changed his mind. “Please allow me to escort you to the waiting cart.”
+
+“Thank you.” Both women said at the same time, and he held his elbows out for them. The mother took the right arm and the daughter took the left arm, and Ren led them out of the bedroom and the apartment, while Frikara and the maids did the same rolling protection that they did on his way in. The two women on Ren's arms were impressed with their professionalism. They all went outside and Narshan's mother and sister gasped as they saw Princess, a giant armored ram attached to a large covered cart.
+
+“Th-that's our transportation?” The mother asked.
+
+“She's unbelievably fast, and the cart is quite opulent inside.” Ren said and Artemis opened it for them so they could see inside. They admired the plush seats and the color of the fabric, and Ren helped the two women climb inside. He helped Frikara and the other 4 maids climb in, as well as Xuunah and Officer Holly, then took out two modified Amulets of Unnatural Armor with the Spider enchantment.
+
+“Please accept this token of welcome.” Ren said and held them out to Narshan's mother and sister. “It will protect you and keep you safe.”
+
+Both women held in their gasp as they beheld the shiny gold amulets.
+
+“My Lord, you are too generous.” The mother said, and her fingertips grazed the metal.
+
+“I've been told that on occasion.” Ren said and smiled. “You must equip them and keep them on to benefit from their magic.”
+
+“Thank you.” They said together and took the amulets. When they equipped them, they gasped at the abilities they gained, and then they started to panic at the implications for receiving such an impressive gift. Ren activated his Hands of the Gods ability and chose Restoring Hands, then held their hands and poured good feelings into them. They calmed down and took several deep breaths.
+
+“It's all right.” Ren said. “If you look at the others, you will see most wear a similar amulet.”
+
+The mother looked around and counted. “Why doesn't she have one?” She asked and motioned to Xuunah.
+
+“If she needed one, she would have it.” Ren said. “Her abilities are far beyond the need for an enchantment that gives her the benefit of heavy armor.”
+
+“Yet you sent her to gather us.” The sister said.
+
+“I couldn't come myself until now, so I sent her instead.” Ren said and stepped out of the cart to let Narshan climb in. “I trust her with important things.”
+
+Ren felt them preen a little at those words, and he deactivated his Restoring Hands as everyone settled in. He closed the cart and climbed onto the driver's seat, then Princess took off at a easy pace and then poured on the speed while Artemis flew beside them. They made it back to the county and unloaded Narshan, his mother, and his sister at the Refugee Center.
+
+“Look at the size of this place.” The sister said and took her mother's hand. “Is it an apartment building, too?”
+
+“It only has large bedrooms inside and not full apartments.” Ren said. “You'll be staying here for a day or two, until the Mayor assigns you a house.”
+
+“Wait, what?” The mother looked at Ren. “Did you say a house?”
+
+“Yes, M'lady. Probably a bigger one, since there's three of you.”
+
+“A... a big house.” The sister said. “We're going to have a big house.”
+
+“With your own separate rooms, assuming you want that.”
+
+“Hell, yes!” The sister exclaimed, then clamped her mouth shut and her mother gasped as the both of them covered their mouths. “M-m-my L-lord, I... please forgive my unladylike outburst.” She said and he felt her deep embarrassment.
+
+Ren gave her a genuine smile and tried not to laugh. “Believe me, I've seen, heard, and said much worse than the word 'hell'.”
+
+The sister's embarrassment eased a little at his admission.
+
+“In fact, one of the women in my life can curse with the best of them.” Ren said. “Although, lately she hasn't been doing that much.” He chuckled. “I think I'm a bad influence on her.”
+
+That made Officer Holly and the maids laugh, and Xuunah followed Ren inside the Refugee Center to drop off all the things they had stored for Narshan and his family. They chose rooms on the bottom floor and Narshan thanked Ren for moving them so quickly.
+
+“I'll have someone over to help you move your things into the new house when it's assigned.” Ren said, and shook his hand. “Good luck.”
+
+*
+
+After Ren left, Narshan felt something on his wrist. He looked down to see a coin pouch and wondered where it had come from, then assumed it must have been Ren. He equipped it and it appeared on his belt, then he looked inside to see a single platinum coin.
+
+“Good luck, he says!” Narshan said and walked over to his mother and sister. They were searching through their things to make sure everything was still there, and Narshan told them what Ren had given him. They swooned dramatically and flopped down onto the soft and comfy bed, then a moment later swooned at how the bed felt.
+
+*
+
+“Dammit, I'm running late.” Ren said as he and Xuunah came out of the Refugee Center. “I hope I've got enough time to discuss things with Yllana and Allynna before I have to be back at the capital.”
+
+“The king didn't look too happy about making the meetings last longer if they end up short.” Artemis said as Ren helped Xuunah into the cart and closed it up.
+
+“I hadn't planned on being gone for the entire time, but it looks like I'm going to have to be.” Ren said, and Princess took off and quickly got up to speed. They made it to the High Elven Kingdom 10 minutes later, which meant he only had 40 minutes left to get back before the hour and a half time limit he had told the king.
+
+Ren checked the All-Seeing Mirror and saw that Yllana was fully dressed and was talking with her daughter Allynna in the kitchen, and he had Princess land on top of Yllana's building.
+
+“Do you want us to wait here?” Artemis asked as she opened the cart and Xuunah and the maids climbed out.
+
+“No, I think you should come along.” Ren said. “Yllana and her daughter are actually nice people, and they should be happy to meet you all.” He took out an amulet and handed it to Xuunah. “You'll need this to walk on walls.”
+
+“Thank you.” Xuunah said and equipped it.
+
+“I was tempted to just carry you.” Ren said and smiled, and she chuckled.
+
+“Move it.” Xuunah said and pointed, and Ren walked over to the edge of the roof and stepped over it and walked down the wall. Artemis floated beside him and watched as the 5 maids, Officer Holly, and Xuunah walked over the edge of the roof and down to Ren. They went in the front door and to Yllana's apartment, and Ren knocked. The door opened a moment later, and Yllana saw Ren and who was with him, then changed what she was going to say.
+
+“Hello, M'lord.” Yllana said.
+
+“I want to ask what you were really going to say, but a man shouldn't ask a woman to speak like that in public.” Ren said, and she gave him a knowing smile.
+
+“Please, come inside.” Yllana said and stepped back.
+
+“I can't believe you said it!” Ren said and kissed her cheek as he walked by, and she laughed.
+
+“Don't joke about things like that.” Yllana said and waved everyone inside. “Make yourselves at home.”
+
+“Thank you.” Frikara said and they all walked over to the living room and found seats. “You have a lovely place here.”
+
+“It's not much compared to some of the nicer places nearer to the city center, but it's home.” Yllana said, then she pointed to the beautiful elfling that stood in front of the counter that separated the kitchen from the living room. “This is my daughter, Allynna. First attendant to the High Lord of the Elves.”
+
+Ren stepped forward. “Please allow me to introduce you both to everyone on my side.” He said, and started with Frikara and the maids, then Xuunah, then Artemis, and ended with Officer Holly. They all exchanged pleasantries back and forth, and everyone was quite amicable.
+
+“I was just preparing an early supper and talking to my daughter about the current state of the High Elven Kingdom.” Yllana said as she walked back into the kitchen. “Would you care to join us?”
+
+“Why don't you and your daughter fill us in on what you've discussed so far, and I'll give you a hand with the cooking.” Ren said.
+
+“A man in the kitchen?” Allynna asked. “Am I dreaming?”
+
+A ripple of chuckles escaped from all the women in the room.
+
+“We all thought the same thing.” Frikara said and motioned to the maids. “When we tasted his cooking, we knew we were really dreaming.”
+
+Ren chuckled as he put on an apron and rubbed his hands together. “Let me show you what I can do.”
+
+Yllana smiled demurely. “I thought you wanted to help me cook?”
+
+“I thought you said not to joke about that?” Ren asked.
+
+“No, I said you shouldn't joke about it.” Yllana said “I'm allowed to do whatever I want.”
+
+“Mother!” Allynna exclaimed, and everyone laughed.

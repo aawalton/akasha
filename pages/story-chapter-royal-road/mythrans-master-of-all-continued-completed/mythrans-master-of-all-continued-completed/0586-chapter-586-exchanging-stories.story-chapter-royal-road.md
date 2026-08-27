@@ -1,0 +1,289 @@
+---
+id: d5d163ec-145c-519a-b63a-ce9f37bc0334
+page-type-slug: story-chapter-royal-road
+title: "Chapter 586 - Exchanging Stories"
+slug: 0586-chapter-586-exchanging-stories
+partOf: mythrans-master-of-all-continued-completed
+position: 586
+ownLength: 2879
+unit: words
+publishedAt: 2018-05-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215546/chapter-586-exchanging-stories"
+royalRoadId: "215546"
+---
+
+Denise and Ren cuddled in bed together, both still fully dressed, and waited for Denise's shift to be over.
+
+“So...” Ren said. “...just the once.”
+
+“I said I wouldn't fight this anymore.” Denise smiled and ran her hand through his hair. “I didn't say I'd be all over you constantly.”
+
+“Is it okay to say that I feel a little disappointed about that?” Ren asked, and she chuckled.
+
+“Even if I've devoted myself to you, I'm still my own woman, Ren.” Denise said. “I have needs, and wants, and I have a life to live.”
+
+“What? You're not going to be my eternal sex slave? Really?”
+
+Denise laughed. “If anyone other than you said something like that to me, I'd be so angry I could spit.”
+
+Ren chuckled and lifted his head, kissed the side of her neck, then laid his head back on her shoulder. “That's because I would never say that in a serious tone or mean it in any way.”
+
+“You're not trying to reverse psychology me, are you?” Denise asked.
+
+“Actually, if it was going to happen in that kind of context, it's me that wants to be yours.” Ren said. “I told you before we started this that you could come to me at any time and do whatever you wanted to me.”
+
+Denise took in a deep breath and let it out. “Ren, I... I don't think I could come into this room at random times and just have sex with you.”
+
+“I'm glad you feel that way, because it means you care a lot more about me than you want to admit.” Ren said, and she turned her head to look at him. “I didn't mean just sex, though.” He said and let his hand rub her belly through her top. “A kiss. A cuddle. A conversation. Everything was on the table.”
+
+“Like an instant boyfriend.” Denise said, and he nodded. “What if someone else was here with you?”
+
+“You expect me to say, 'it depends on who it is', don't you?” Ren asked, and she sighed.
+
+“Yes.”
+
+“Then you're lucky I hold you all in different, but equal, regards.” Ren said.
+
+“Wh-what?”
+
+“You are all special to me, in your own way.” Ren said. “None of you are higher in rank than the others. In my opinion, that is.”
+
+“But...”
+
+“Elise and Lisa are my girlfriends; but, that's only because it's what they want to be.” Ren said. “It makes them happy that they can be that, and that makes me happy.” He smiled. “I still remember the smile Elise gave me the first time I called her my girlfriend, because she lit up the room with it.”
+
+“You... really remember everything?” Denise asked.
+
+“Yeah.”
+
+“Then... why do you still want to... I mean, if you can just remember it, why...”
+
+Ren lifted his head and looked back at her. “Denise, I could have sex with you a thousand times, and I'll still want to feel what it's like to be with you.”
+
+Ren's words touched her heart, and she gave him a slow and slightly sloppy kiss.
+
+“Ren, that's so sweet of you to say.” Denise said. Even if it's a lie, no one's ever said something like that to me before. She thought and kept kissing him.
+
+There was a quick knock on the bedroom door, and it burst open a second later.
+
+“Hey, Ren!” Lisa said and shut the door. “God, what a horrible day!”
+
+Denise and Ren stopped kissing and looked at her. She was already dressed for bed in a pair of jogging pants and a small t-shirt. They could see that she wasn't wearing a bra as she walked over to the bed.
+
+“Can I join you? I really need a cuddle right now.”
+
+“As long as you're careful.” Denise said and eased back from Ren, then sat up. “He's still weak from yesterday.”
+
+“Hey, don't go.” Lisa said. “I didn't say 'just from Ren', did I?”
+
+“But...”
+
+Lisa looked at the clock. “You've only got half an hour before Barbara shows up. Do you have anywhere else to go?”
+
+Denise smiled. “No, I still have to stay here for Ren.”
+
+“Then lay back down and cuddle our man.” Lisa said and climbed onto the bed. “When I tell you about the day I had, you're going to want to hold onto something.”
+
+Denise laid back down and slid in close to Ren and assumed her previous position, and Lisa snuggled up on Ren's other side. He put his arm around her shoulder and pulled her in close, and she put her head on his shoulder. Denise smiled and extended the arm under Ren's neck to put it under Lisa's.
+
+“Hey, baby.” Ren said and kissed Lisa's cheek. “Tell me all about your day.”
+
+Lisa sighed contentedly and closed her eyes for a moment, then started to talk. “Mom called me early this morning and asked me to rush over, because she had something important to discuss with me.” She said. “Since I thought it was going to be about coming here for supper, I went over right away.”
+
+Denise and Ren stayed quiet; but, the both of them felt something bad was coming, so they each put a hand on her arm.
+
+“When I got there, she had a surprise for me.” Lisa said. “My father had come back from one of his 'trips'.”
+
+“Oh, no.” Ren said and kissed her cheek again. “Please, tell me...”
+
+“He cleaned himself up this time before coming back.” Lisa said. “Even so, you could almost smell it on him.”
+
+“Then what happened?” Denise asked, and caressed her arm.
+
+“They started discussing getting back together, and I protested like I always do.” Lisa sighed. “It usually works, because I can convince Mom that he hasn't changed.”
+
+“But.” Ren said.
+
+“But, this time my defense about not wanting him in the house was much weaker.”
+
+“I'm sorry.” Ren said and rubbed her arm as well.
+
+“It's not your fault for getting me out of there.” Lisa said. “I was... wasting away there.”
+
+“Lisa.” Denise said. “What happened next?”
+
+“It was my Mom that let it slip I wasn't staying there anymore, and Dad... he... he didn't take it well.”
+
+Ren stopped rubbing her arm and gripped her shoulder. “Tell me he didn't take it out on you.”
+
+“He was relatively sober this time and wasn't strung out on drugs, so he couldn't hit me and claim he was impaired.” Lisa said. “Unfortunately, that defense didn't apply to Mom.”
+
+“Oh, Lisa.” Denise said and leaned over Ren to give Lisa a kiss on the cheek. “I'm so sorry.”
+
+Lisa was a bit surprised at the show of affection, then she remembered some of what Denise had gone through. “Thank you.” She said and reached up and cupped the side of Denise's face. “I managed to stop it before it went too far, but... then the cops showed up.”
+
+“Oh, my god.” Denise said. “Why didn't you call?” She asked. “We would have come running!”
+
+“It was bad enough that I was dragged into that mess. I didn't want to drag you guys into it, too.” Lisa said and let her hand fall to rest on Ren's chest.
+
+“But, that's what we're here for.” Ren said. “We love you.”
+
+“R-Ren...” Lisa held back her tears, because he had said it for everyone, not just himself.
+
+“You've been dealing with this on your own all day, and you don't have to do that anymore.” Ren gave her a kiss on the lips. “If you'll forgive my crassness, when you love someone, you should let them help you deal with your shit.”
+
+Lisa snorted and clamped her mouth shut to stop from laughing out loud.
+
+“Geez, Ren.” Denise chuckled.
+
+“What? It's true.” Ren said and smiled.
+
+“Yes, but... never mind.” Denise said and looked at the clock. “It's getting close to shift change.”
+
+There was a knock on the bedroom door and it opened.
+
+“Hey, there!” Barbara said. “Just letting you know I'm here a little early, so you can go ahead and get ready for your date.” She said. “Hi, Lisa. I'm glad to see you're back. We all missed you a lot today.”
+
+“Hi, Barbara.” Lisa said as her face flushed red, because she knew Barbara was telling the truth. “It's really nice to be back.”
+
+“Did they tell you what happened today?” Barbara asked.
+
+“No.” Lisa said and looked at Ren and Denise. “What happened?”
+
+“I'll tell you about it while Denise gets changed.” Ren said. “It's... well, not as bad as what happened to you...”
+
+“Ahem.” Denise fake coughed.
+
+“It wasn't as bad; but, it was also worse.” Ren corrected, and Denise nodded.
+
+“I'll be back in a few minutes.” Denise said, and she left with Barbara.
+
+“All right, spill it.” Lisa said, and Ren told her about going in to the lawyer's office to give a deposition. She didn't think that was a big thing, and then Ren told her about what he had said and described. Her face drained of color as he told her about the lawyer's reactions and how long it took to tell them everything that he remembered. Which was everything.
+
+Lisa let the tears flow as he kept talking, and she started softly kissing his face in different places. Ren finished that story and told her a very condensed version of the Water Realm, and promised to tell her all about it in detail the next time they met at the Sanctuary.
+
+“Oh, Ren.” Lisa said and kissed him on the lips. “I'm sorry you had to go through that.”
+
+“I needed to.” Ren said. “Once I remembered everything, I needed to get it all out, just in case something else happens to me and I lose it all again.”
+
+“You make it sound like you're expecting it to happen.” Lisa said.
+
+“It's because he's pretty lucid right now.” Denise said, and it startled Lisa.
+
+“Wh-what? When did you get back?”
+
+“I tossed my uniform in the laundry, grabbed shorts and a t-shirt, and came right back.” Denise said. “I've been here the whole time.”
+
+Ren looked at his watch and saw they were late for the start of the next day. “Crap, we need to log in.”
+
+“I've got my headset ready.” Denise said. “How long does it take to set up a character?”
+
+“No idea.” Ren said. “Lisa?”
+
+“Maybe 20 minutes.” Lisa said. “Assuming you know what you want to be.”
+
+“Dwarf Amazonian Barbarian.” Denise said right away, and Ren and Lisa stared at her. “What?”
+
+“That's really specific.” Lisa said.
+
+“Well, the class is Barbarian, but I did some research online and found out that you can choose your parent's lineage.” Denise said. “Since I'm short and muscular, I figure I can benefit from both races.”
+
+“Wait, is Amazonian a race choice?” Ren asked.
+
+“Yes.” Lisa and Denise said together.
+
+Ren looked from Lisa to Denise and back again. “Why haven't I heard of this before, and why haven't I seen anyone like that in the game?”
+
+“To be honest, you have a very narrow play experience.” Lisa said. “Your class limits you a lot more than you realize, and...” She stopped talking and sighed. “...I can't explain.”
+
+“That's why I'm supposed to be a part of party, isn't it?” Ren asked. “So I can gain access to normal quests?”
+
+Lisa didn't say anything as she nodded, and he thought about what she didn't say.
+
+“That would also mean I'm limited by the quests they have access to as well.” Ren said. “If you don't have a wide variety of people with different races and skills available in your party, you won't get the quests you can be getting if you did.”
+
+Lisa smiled and tapped the tip of his nose, and he took that hand and kissed it.
+
+“You know, if Denise is going to be a few minutes with her character creation...” Ren started to say, and Lisa cut him off.
+
+“I'll meet you in front of the Sanctuary!” Lisa said happily and kissed him, then jumped out of bed and ran from the room.
+
+“She left so fast that I didn't even get to grab her cute little butt.” Ren said.
+
+Denise laughed. “You just lay there you little horn-dog, and I'll get your VR headset for you.”
+
+“Thanks.” Ren said, and laid there to wait.
+
+Denise got off the bed and grabbed his VR headset and passed it to him, then she leaned over him so she could help him put it on properly. “How's that? Does it feel good?”
+
+Ren smiled as his hand reached out and touched her hip, then slid it down and grabbed her butt. “It feels great, thank you.”
+
+“I meant the headset.” Denise said sternly, but it didn't match her expression. He couldn't see that she had a big smile on her face.
+
+“That, too.” Ren said and gave her backside a pat. “You'll probably start in Aurora, so meet me in the Housing District when you have your character done.”
+
+“I'll be waiting.” Denise said, and Ren chuckled.
+
+“No, you won't. I'll be waiting for you, because I can be there in only a couple of minutes, even without riding Princess.”
+
+“You're meeting Lisa...” Denise prepped everything so that he wouldn't make a mess while they had fun, and grabbed a towel for herself.
+
+“...and you're forgetting I only need to spend a minute or two with her.” Ren said.
+
+“I did forget that.” Denise said and picked up her own VR headset and laid down beside him, then put it on. She had already gone through the setup and calibrations already, so all she had to do was speak the command words. She moved her hand over to find Ren, and then held his hand.
+
+“See you soon.” Ren said.
+
+“Flow Login Start.” They said together.
+
+********
+
+Ren woke up on the bed with the maids arrayed beside him, and he sat up to look at them. “Even though I see it every time I'm here, it's still a pleasure to see every time.”
+
+Frikara smiled at him. “You're late.”
+
+“Yeah, my Adventurer business ran over what I had intended.” Ren said. “I've got that date this morning, too.”
+
+“Then you better get going.”
+
+“Not before giving you some attention.” Ren said and kissed her lovingly. Frikara couldn't help but succumb to the feelings he shared with her. His desire for her and to make up for his absence was just what she wanted. Ren gave each of the maids a similar kiss and feelings, and he felt how grateful they were that he cared so much.
+
+“I'm the one that's grateful.” Ren said and stood up. Since he already had his special armor bodysuit on, he didn't have to equip any other clothing. “I'd actually take you with me, but you won't have anything to do except stand around and look pretty.” He smiled. “That job's way too easy for you all.”
+
+All the maids laughed.
+
+“Go and have fun, and we'll see you later.” Frikara said.
+
+“By noon, hopefully.” Ren said. “The Sea Dweller's deadline ends then, and then things should start happening over the next week or so.”
+
+“You're going to be busy again?” Andrela asked.
+
+“Not at all.” Ren said. “I'm staying out of it.”
+
+The maids had mixed feelings about that, as did he. Ren didn't like having to sit out when he could help; but, which side would he try to help if he did intervene? He honestly didn't know, because both sides had legitimate claims, and both were stubborn in the defense of those claims.
+
+“See you later.” Ren said and left to meet Lara, the Sage of Ages, at the Sanctuary down the road. He gathered Artemis from the warehouse first and they met Lara at the door. They went inside for two minutes and came back out, and Lara had her arms around Ren's neck.
+
+“Always remember that I'll never let you go, no matter what happens.” Lara said and kissed him. “I love you.”
+
+“I love you, too.” Ren said and kissed her back. “Have fun finishing all those quests you sent those Adventurer's on.” He smiled. “It's funny how the deadline you set for them is the same as the Sea Dweller's deadline for the Peace Treaty.”
+
+“Yes, that is funny.” Lara said and grinned. “Have fun on your date.”
+
+“Thanks.” Ren said. “See you later.”
+
+Lara walked back to the Library and Ren and Artemis went over to Princess' house and knocked.
+
+“Hi, Princess.” Ren said. “I'm just heading to Aurora and wanted to know if you wanted to go, too.”
+
+“Only a short trot, My King?” Princess asked. “No, thank you.”
+
+Ren smiled and scratched her chin. “I thought so; but, I wanted to ask just in case.”
+
+“Have fun.” Princess said and went back into her house and laid down.
+
+“It looks like we're running.” Ren said to Artemis, and she smiled.
+
+“No, you're running. I'm flying.”
+
+Ren nodded and stepped up into the air, and she floated beside him. They grinned at each other and then Ren ran off through the air as fast as he could, and Artemis flew right beside him.

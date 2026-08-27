@@ -1,0 +1,333 @@
+---
+id: be480e1e-8f65-5149-9b76-293be64aa5c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 302 - Job's Done"
+slug: 0293-chapter-302-jobs-done
+partOf: mythrans-master-of-all-continued-completed
+position: 293
+ownLength: 3445
+unit: words
+publishedAt: 2017-07-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147144/chapter-302-jobs-done"
+royalRoadId: "147144"
+---
+
+Nathalia had climbed into the carriage with tears on her face, and Ereka hugged her.
+
+“How did he take it?”
+
+“Not... not very well.” Nathalia said through her sobs. “He... he wanted... to share everything with me...”
+
+“Of course he does.” Ereka said, then knocked on the front of the carriage, and the driver flicked the reins to get the ponies moving. “He loves you.”
+
+“He kept sending me party invites, and I...” Nathalia took a deep breath to try and calm down. “It hurt every time I had to say no.”
+
+“It's okay.” Ereka said. “It was the right thing to do.”
+
+“It didn't feel like it was.” Nathalia said. “I... I had to... abandon him...”
+
+“You're not abandoning him.” Ereka said. “You're just.. letting him go on his way.”
+
+Nathalia laid her head on Ereka's shoulder, and they didn't speak again until they arrived back at House Neram Keep 20 minutes later. They went inside and Ereka went to her bedroom, and Nathalia went into her own bedroom to get changed, then yelled.
+
+“REN!”
+
+Ereka ran from her room and into Nathalia's, and stopped short at the sight. Nathalia had collapsed to her knees in front of a large pile of golden treasures. There were several pieces of parchment on the bed, and Ereka picked up the top one and read it aloud.
+
+My Dearest Nathalia,
+
+It has always been my intention to complete the tasks I undertook; the most important of which was the marriage contract to you. I have provided you with clothing appropriate for a wife; the kitchen items (stove, grill, icebox, etc.) needed to cook meals, and I've even ensured that in case the marriage contract failed (which unfortunately it did), not only would you have a steady income (from the restaurant and the mines), it would be enough to carry you (and the entire House) for as long as you would need it to. The deeds to the lands around the Keep and the city of Dornrach that I've included, ensure this. It's all your land anyways, so you should have the deeds to them.
+
+The only thing I hadn't provided, was a place for us to live in. I had started the repairs to the Keep a long time ago; but it wasn't until Tee-one came along that the work began in earnest. Once the cement bags and iron ore started flowing in large quantities, for 24 hours a day, 7 days a week, my Dedicated Servant Crafter completed my task. It had been a close thing, especially with my recent banishment; but, Tee-one came through in the pinch. I even had him complete the 30 foot deep reinforced moat.
+
+While he worked and repaired the Keep, he entered each room and cleared them of the spider infestation, then looted it. Most of which you can see before you, with a separate smaller pile in Narhilda's room. She said I could keep anything that wasn't hers, so anything that was identified as House Neram, Narhilda's, Thern's, or even owned by the kingdom, Tee-one put in her room. Everything else was placed in yours.
+
+With this final task done, even though the marriage can never be official, please accept these tokens of affection and devotion on behalf of a heart that couldn't have survived without you or your love.
+
+Yours Always and Forever,
+
+Ren
+
+“He... he did it.” Nathalia cried. “Even with... with everything working against him... he said he would try, but...” She sobbed loudly. “By the gods! He actually did it!”
+
+Ereka put the note down, knelt beside her friend, and hugged her while she cried.
+
+********
+
+Ren slipped off the VR headset and Stella took it from him.
+
+“Good morning.” Stella said. Her long black hair was pulled back into a ponytail that bobbed when she moved her head. “That was quite a night for you.”
+
+Ren felt an overwhelming urge to cry, and Stella saw it in his eyes. She put the headset down and leaned over to hug him. She tried to be careful of his chest, but Ren didn't care at the moment and wrapped his arms around her and hugged her tightly. He didn't sob or make any noise, but his face streaked with tears and his body shook slightly. This lasted for several minutes, and eventually Ren calmed down and let go. Stella held on for another few moments, then she let go, too.
+
+“I'm sorry.” Ren said. “I... I don't know what came over me.”
+
+“I'd say it's a bit of a broken heart.” Stella said. “Nathalia might have been thinking of your well-being in the long run; but, she had to hurt you right now to do it.”
+
+Ren sighed and nodded reluctantly.
+
+“What did I miss?” Barbara asked when she came in with Ren's breakfast.
+
+“A good crying session.” Stella said. “He held it in like a trooper until he logged out.”
+
+Barbara put the tray of food on the rollaway table, then went to Ren. “Are you okay now?”
+
+“I... think so.” Ren said and sniffed. “It all depends on what's on the tray.”
+
+Barbara snorted a laugh. “You're so easily swayed.” She said, and lifted the cover.
+
+“Waffles and syrup!” Ren exclaimed. He took in another long sniff. “Is... is that real butter? And powdered sugar?”
+
+“He's like a bloodhound.” Stella commented as she raised the bed into a sitting position and Barbara moved the rollaway table in front of Ren.
+
+“This isn't a joke, right?” Ren asked and looked at the plate. “Three waffles? Three whole waffles? Covered in butter and syrup?!?”
+
+“Dig in.” Barbara said. “The nutritionist delivered your new menu this morning.”
+
+Ren picked up the fork and cut into the soft fluffy waffles. Syrup dripped down the sides and swirled on the plate.
+
+“I think I could die and go to heaven right now.” Ren said as he took a bite. “Mmm, that's delicious.”
+
+“We'll give you some privacy.” Stella said. “I think the two of you want to be alone.”
+
+Barbara chuckled as she and Stella went out to the hallway.
+
+*
+
+“That's some start to the new menu.” Stella said. “You don't think it's a little too much for his first time?”
+
+Barbara put a hand on Stella's arm. “I knew you cared a lot more about him than you let on.”
+
+“What do you mean?”
+
+“This isn't just a job for you, is it?” Barbara asked.
+
+Stella opened her mouth to say that she was just taking good care of her patient, then she realized who it was that she was talking to, and smiled instead.
+
+“About as much of a job as it is for you, I think.” Stella said, and Barbara nodded.
+
+“The nutritionist said we just have to replace certain things.” Barbara explained. “That's diet syrup, but it still has natural sugars. The waffles are light and airy, but look huge and will fill him up faster than twice as many pancakes would.” She smiled. “I've even changed his supplements to reflect the new diet.”
+
+“You've done a lot of work for this, haven't you?” Stella asked.
+
+“Of course I have.” Barbara said. “Just like you did all that work to make Ren's participation in your medical research as easy as possible.”
+
+Stella's eyes widened as Barbara had caught onto her ruse so easily.
+
+“Like I wouldn't notice that you're trying so hard not to remind him of how things were the last time he was subjected to experiments.”
+
+“But...”
+
+“I would have been all over you and screamed bloody murder if he'd mentioned it was like what happened before.” Barbara said and raised a fist. “I'm really glad that I didn't have to pound some sense into you.”
+
+It was Stella's turn to snort a laugh. “Like you could hurt me with those little things.”
+
+“Women's All Star Boxing Champion two years in a row.” Barbara said, held up her other fist, and did a little hop from side to side.
+
+Stella's eyes widened. “You're kidding!”
+
+“Yes.” Barbara said, and dropped her fists. “The look on your face was priceless, though.”
+
+Stella laughed. “You're right, I don't want to mess with you.”
+
+“Good choice.” Barbara said. “Bluffing is as much a sport as boxing is.”
+
+“Ain't that the truth.” Stella said. “Let's get back in there before Ren eats the plate.”
+
+Barbara nodded and opened the door.
+
+*
+
+“What are you doing?” Barbara asked. She couldn't see Ren's face, only the bottom of the plate.
+
+“Eating.” Ren said between licks. “Boy, this is good!”
+
+“Put that down.” Barbara said.
+
+“I'm not done with it, yet.” Ren said and kept licking the plate. Barbara shook her head and tried to take the plate from him.
+
+“It's already licked clean, Ren.” Barbara said when she looked at the front of the plate.
+
+“There's still a bit on the side.” Ren said.
+
+“Where?” Barbara asked.
+
+“Right... there!” Ren said, and licked the last bit of syrup off of the edge of the plate by Barbara's finger.
+
+“Eww.” Barbara said. “You just licked my finger!”
+
+“Sorry.” Ren said and let the plate go, now that all the syrup was gone. “It was in the way.” He said and smiled. “Interference requires a penalty.”
+
+Barbara shook her head again. “I have half a mind not to give you syrup again for a while.”
+
+“Then I suggest you listen to the other half and watch where you stick your fingers.” Ren said and grinned. Barbara smiled as she put the plate on the tray and moved the rollaway table to the side of the room.
+
+“Stella, clean up the poor slob.” Barbara chuckled. Ren's face and hands were covered in syrup residue. “I'll be back after I take care of the dishes... and wash off the drool.” She left the room with the tray and Stella brought out the wash bin and cleaned him up. When she was finished, Ren climbed out of bed.
+
+“Where are you going?” Stella asked him.
+
+“I need to start working out.” Ren said. “I had a hard time walking around yesterday. I'm getting out of shape.”
+
+“You're not going to physical therapy.”
+
+“No, I'm just getting changed and going for a walk.” Ren said. “Would you like to come along?”
+
+“Sure.” Stella said. “Do you want me to bring the wheelchair, just in case?”
+
+“No.” Ren said. “I know my limits pretty well.” He said. “Plus, if it gets too difficult for me, you can always carry me.”
+
+Stella chuckled. “I guess you're not that heavy.”
+
+Ren took off his pyjama top and laid it on the bed, then took a t-shirt out from the dresser. He slipped his head through the neck hole, then tried to put an arm through the sleeve. He winced a little, but kept going. The next one was harder and hurt more, but he got both arms in and pulled the t-shirt down. He slid off the pyjama pants and grabbed a pair of basketball shorts and put them on. He grit his teeth because he had to bend all the way over to do it and it compressed his abdomen; but, it didn't hurt like it had before and he powered through it.
+
+“Whew!” Ren sighed as he stood up straight. “That's the first time I've dressed myself in a while.”
+
+“Congratulations.” Stella said. “Now do it again.”
+
+“What?” Ren looked at her. “Why?”
+
+“Your basketball shorts are on backwards.” Stella said and smiled.
+
+Ren looked down at himself and saw the pockets were facing the wrong way. “Goddammit!”
+
+*
+
+“What the hell is this?” Elise, the secretary at Sid Tec, asked Max, the head programmer as she showed him a printout of Ren's email about the Honor gains error.
+
+“It's an error.” Max said, and tried to be funny, but Elise wasn't having any of it.
+
+“Fix. It.” Elise said.
+
+“We can't.” Max said.
+
+“What?!?” Elise exclaimed. “Why not?”
+
+“He blew the Honor gains cap to hell.” Max said. “We set up the system a while ago, and no one, me included, had ever thought that anyone could gain more than 250,000 Honor in a single action.” He said. “Jonah had set it as a joke, actually.”
+
+“What?”
+
+“It was originally set at 50,000... which is completely ridiculous, by the way. The average gain for Honor is anywhere from 5 to 50. How in the world would someone gain 50,000 Honor in one shot? But, Jonah was always a kidder and thought making the cap 250,000 instead was a good joke. ” Max said. “Having the gain cap as high as the most you could ever have was pretty funny, actually.”
+
+Elise shook her head. “Ren has been blowing your stat records all along.” She said. “Why can't you change them?”
+
+“It's part of the coding in the game.” Max said. “The most we can do is reset the error, without fundamentally changing the mechanics in the game. If he gains more than 250,000 Honor in one shot, it'll give the same error.”
+
+“So, what you're telling me, is that Ren not only lost out on gaining... what was it?” Elise looked at the email. “331,200 Honor, but he also lost out on 3,312,000 XP.”
+
+“Unfortunately.” Max said.
+
+“What are you going to do to make it up to him?” Elise asked.
+
+“Nothing.” Max said.
+
+“Excuse me?”
+
+“He broke the game mechanic, Elise.” Max said. “We can't reward him for doing that.”
+
+“But he earned it!” Elise said. “He had almost an entire population kneel for him!”
+
+“Yeah.” Max said. “He must feel really good about himself right now.”
+
+“Shut your mouth!” Elise crumpled the piece of paper and threw it at him. “Do you know how much it's hurting him to leave the dwarf lands like this?” She asked him. “He's being cut off two months early from the relationships he's built there!” She snarled. “He's had to get on a ship and won't be in a safe zone for another two weeks of game time!”
+
+Max shrugged. “That's not my problem.” He said. “Players play and take their chances.”
+
+“You...” Elise stood there and clenched her fists. “You...”
+
+“You can get mad all you want.” Max said. “I already told you everything I can do.”
+
+“And everything you won't do.” Elise spat at him.
+
+“It's not like he needs another XP boost.” Max said. “I heard about how Charles messed up Ren's character build by letting him gain so many levels so quickly.”
+
+Elise frowned at him, because she knew what he was going to say next.
+
+“The boss wouldn't be too happy if I just arbitrarily gave Ren millions of XP.” Max said and smiled.
+
+Elise couldn't dispute that because Max was right. If Ren did get another XP boost from the tech department, someone's head was going to roll.
+
+“Fine.” Elise said through gritted teeth. “I'll have to let this drop for now, but mark my words. If something like this happens again...”
+
+“Don't worry, Elise.” Max said. “I've already taken steps to ensure it won't.”
+
+“Good.” Elise said, and turned to walk away.
+
+I'm changing the excess gains converting to XP part of the game. Max thought as he watched Elise's retreating figure. Nothing like this should ever happen again.
+
+*
+
+Ren, Stella, and Barbara went outside for a walk. It was a beautiful day for the activity. The sun shone, the birds sang, and the light breeze kept Ren cool. He was working up quite a sweat as they walked down the sidewalk to the little park he could see out his bedroom window.
+
+They could have just walked around the building and used the shortcut to get there; but, that would defeat the point of walking there in the first place. Ren needed the exercise, and he was going to get it.
+
+“How are you doing?” Stella asked Ren as she heard his breath come out faster.
+
+“I'm fine.” Ren said. “I can't remember the last time I walked this far, though.”
+
+“It's been almost a month.” Barbara said. “The last time was while you were still at the hospital and used the walking track.”
+
+“It's been that long?” Ren asked. “Wow, I am really out of shape.”
+
+“Take my hand, and let me help a little.” Barbara said. “That way, you're using your arms, too.”
+
+“Okay.” Ren said and slipped a hand into hers. He held on with a good grip; and much to his surprise, it actually was a little bit easier to walk that way. Ren's pace evened out slightly, and Stella took his other hand.
+
+“We can't have you walking lopsided.” Stella said, and smiled. Ren chuckled and held on, and his pace went up to almost a normal walk. They entered the park, and Barbara pointed to a bench for them to sit on. The three of them walked hand-in-hand to the bench, then Stella and Barbara helped Ren sit down before sitting themselves.
+
+“Thanks.” Ren said. “I needed a break.”
+
+“We know you did.” Barbara said and handed him a drink container with his supplement in it. “Don't guzzle it.”
+
+“Why would I do that?” Ren asked her and took a sip. “Sweet mother of tastiness! Is that-”
+
+“Chocolate milkshake.” Barbara said, and Ren tried to upend the container. She laughed and stopped him from draining it in one go. “I said not to do that.”
+
+“But, Barbara!” Ren exclaimed as he licked the chocolate milkshake off of his lips. “You can't give me something like that...”
+
+“...and expect him to behave himself.” Stella finished for him.
+
+“Oh, I know.” Barbara said. “I've been giving you little treats for all these years and letting you wolf it down was best; but, now I don't have to sneak them in anymore and you need to pace yourself.”
+
+Ren sighed. “Okay, I'll be good.” He said, and she handed him back the drink container. He took a small sip and smiled at her, then tipped it upside down for a split second to fill his mouth up.
+
+“Ren!” Barbara said. “You said you'd be good!”
+
+Ren swallowed. “I was.” He said. “It was only one mouthful.”
+
+Stella snorted a laugh, and they sat there for about 5 minutes. Ren drank the supplement and handed the empty container to Barbara.
+
+“Okay, I think I can make it around that tree.” Ren said. “Then let's get back to my room. I've got a couple of visitors coming today.”
+
+Stella, Barbara and Ren stood up and held hands, and they made it around the tree easily and left the small park. They went back to the temporary care facility and Barbara said she had to go.
+
+“Thanks for the walk, Barbara.” Ren said. “I'll see you tonight.”
+
+“Bye, Ren.” Barbara said. “Bye, Stella.”
+
+“See you later.” Stella said to her, then took Ren inside to get a shower. With him feeling better than he had in a while and with Stella's help, he took a shower almost completely by himself. “You really are feeling better.” She said as she helped him dry off. “You almost didn't need my help at all.”
+
+“I'll always need your help.” Ren said. “Even if I somehow got better tomorrow, which is never, ever, going to happen.” He smiled. “I'm always going to need a good friend to look out for me.”
+
+“You really mean that, don't you?” Stella said.
+
+“Yeah.” Ren said and gave her a hug. “I don't ever want you to leave.”
+
+Stella hugged him back. “Let's get you dressed, just in case one of your visitors shows up.”
+
+“I messed it up the last time.” Ren said and looked up at her face. “Give me a hand, will you?”
+
+“Of course.” Stella said and took him out to the dresser and picked out a really nice outfit. “Even if it turns out that Lisa doesn't like you in real life, she'll at least like seeing you in these clothes.”
+
+“That's all I can ask.” Ren said and held his arms out. “Dress me!”
+
+Stella laughed and tossed the shirt on his head. “You don't need that much help.” She said, then helped him put on his pants. She tucked the half-buttoned shirt into the top of the pants and finished buttoning it. “There. Now you look presentable.”
+
+“Thanks, Stella.”
+
+“You're welcome.” Stella said. “Now, should we take bets on who will show up first?”
+
+“It's going to be Lisa.” Ren said.
+
+“Oh?” Stella looked at him. “Why are you so sure?”
+
+“She's standing right behind you.” Ren said and pointed. Stella turned around and saw a young woman, in her very early 20s, as she stared in at them.

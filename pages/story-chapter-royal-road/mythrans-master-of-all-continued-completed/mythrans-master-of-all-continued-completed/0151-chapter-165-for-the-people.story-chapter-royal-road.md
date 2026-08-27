@@ -1,0 +1,313 @@
+---
+id: da38ea02-9d78-50eb-9371-58914d8114df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 165 - For The People"
+slug: 0151-chapter-165-for-the-people
+partOf: mythrans-master-of-all-continued-completed
+position: 151
+ownLength: 2995
+unit: words
+publishedAt: 2017-02-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117806/chapter-165-for-the-people"
+royalRoadId: "117806"
+---
+
+“You know Jen wanted you to stay and keep talking, right?” Teepo asked.
+
+“Yeah, that's why I left.” Ren said. “Plus, I need to get to the mansion and let the people know they have actual beds to sleep in.”
+
+“You could have slept in Jen's bed.” Teepo chittered in laughter.
+
+“Teepo. No teasing me about it.” Ren said. “I took teasing her a little too far.”
+
+“She was pretty receptive to your charms.” Teepo said. “I think you caught her off-guard.”
+
+“No doubt.” Ren said and chuckled. “Once I realized she liked handy men...”
+
+“She was putty in your hands.” Teepo suggested.
+
+“More like molten metal.” Ren said. “I have a feeling she'd give me a run for my money in bed.”
+
+“300 platinum wasn't enough of a run for her?” Teepo asked.
+
+“I'd say that definitely got the ball rolling.” Ren said, and came around the corner to the mansion. He went to the front door and the soldiers stationed there stared at him. He walked up to the door and opened it himself. The lobby and hallways were still full of people, and they were pretty loud with everyone talking at once. The ones closest to the door looked at him.
+
+How do I get everyone's attention?
+
+“Use the Water Spray ring.” Teepo said, and chittered in laughter again. “That will get their attention.”
+
+And piss them off. Ren smiled. A non-invasive way would be better.
+
+“Then just stand here.” Teepo said. “Look.”
+
+Ren did as he said, and the ones closest to the door had turned and told the next people, and the word spread to everyone quickly, and soon everyone was looking at him.
+
+Damn, it worked. Thanks, Teepo.
+
+“Like I did anything.” Teepo said.
+
+You made me stay still and not act like a yelling fool. Ren thought, and he felt Teepo's gratitude.
+
+Once it was quiet enough, Ren spoke.
+
+“Everyone! If I could have your attention, please!” Ren spoke loudly, and it carried in the high ceiling room. “I bought half of the Housing District this morning, and had a Refugee Center built on the land. It's mostly finished, with the exception the beds are being made right now. It's just rooms and beds, and it only has one kitchen and living room; but, at least it will be somewhere you can actually lay in a bed until the city is repaired.”
+
+“How long is that going to take?”
+
+“Ms. Nacide said about 2 weeks.”
+
+“We can't wait 2 weeks!” Someone shouted.
+
+“2 weeks is to have all of it repaired.” Ren said. “I'm going to assume that as each of the houses are fixed or built, you'll be able to return to them.”
+
+“That's not too bad.” Someone said.
+
+“It would be nice to sleep on a bed, instead of the floor again.” Someone else said.
+
+“Yeah, this floor is harder than my wife's baked bread.”
+
+“Hey!” The wife said, a slap was heard, and several people laughed.
+
+“Gather your things, if you have any with you.” Ren said. “By the time you walk up to the Housing District, all of the beds should be ready for you.”
+
+People started to walk towards the door and Ren stepped aside to let them pass. He smiled and nodded to each one as they spoke to him.
+
+“Thank you.” “Thanks.” “This was nice of you.” “Come and visit me.”
+
+Ren blinked at the woman, as she blew him a kiss and kept walking.
+
+“I think you're drawing a lot more attention than you usually do.” Teepo said. “Since I can see everyone, I know it's not the Trouble recipe.”
+
+I think it's my Prince Charming title; but it's not like I have a choice what some random woman will do. Ren thought, then nodded at the next person to speak to him. I can reduce the size of my Aura by storing the cloak; but my personal Aura is at 50 feet now, and it's always on. I can concentrate on different aspects of it, but that's it.
+
+“I'm starting to be surprised you don't have a trail of women following you wherever you go.” Teepo chittered in laughter. “You know quite a lot of them now.”
+
+Ren smiled. That would be a little daunting. He thought. I'd be like a Pied Piper for women.
+
+“A pied what?”
+
+Ren told Teepo the story of the Pied Piper, who was hired to lure all of the rats out of a city by blowing a flute, and when the city didn't pay, instead of sending the rats back, he lured the children away instead. Teepo was quiet for a few minutes as more people passed and greeted Ren.
+
+“Oh, I get it now. Little Ren is the flute.” Teepo said, and Ren coughed and sputtered.
+
+“Are you all right?” Rosie asked as she stepped out of line.
+
+“I... I'm fine.” Ren said, and cleared his throat. “My throat is just a little dry.”
+
+“I can get you a glass of water, if you need one.” She offered as her grandmother stepped out of line, too.
+
+“No, thank you.” Ren said. “I'm okay now.”
+
+“I'm glad.” Rosie smiled, then put a serious look on her face. “You've done so much for the city.”
+
+Ren looked at her with concern on his face. “Please tell me you didn't lose your house.”
+
+“We didn't, thanks to you.” Rosie smiled. “There's still damage, though. We lost the front door for some reason...” Rosie gave Ren a stern look, and his face flushed a little red. “...and one of the rooms upstairs is gone; but the books in the study are fine, and we weren't home.”
+
+Ren tried to remember which house it was, but he'd worked on so many of them that it was just a blur. “Wait, how did you know the door was because of me?”
+
+“I was walking Grandmother home from the Library, and saw you down the street.” Rosie said. “I didn't come over and say anything, because you were so busy.”
+
+“You could have said something.” He said. “I'd have replaced the door for you at least.”
+
+Rosie chuckled. “I couldn't let Grandmother stay in a house missing her room.”
+
+Ren turned to her Grandmother. “I'm sorry I didn't get there sooner.”
+
+“You stopped the house from burning down, sonny.” The woman laughed. “And we weren't in it, so it's all good.”
+
+“I'm really glad you weren't home.” Ren said. “I was at a few homes where people were.”
+
+“We know.” She said, and turned around as the group of people Ren had personally saved came over.
+
+“We really can't thank you enough.” A woman said. “You rescued us, healed others, and then brought us to safety.”
+
+“I was glad to help.” Ren said.
+
+“Now you're giving us shelter.” She shook her head. “You've done so much for us already. What's left for you to do?”
+
+“I... really shouldn't say...” Ren hedged.
+
+“Okay, now you have to tell us.” Rosie said. “Don't make me ask you twice.”
+
+Ren smiled sheepishly. “While I was talking to Ms. Nacide, she told me that the repairs would be coming out of the townspeople's taxes.”
+
+Everyone stopped walking, and turned to look at him with shock on their faces.
+
+“It's WHAT?!?” Rosie yelled.
+
+“The money is supposed to come out of your taxes.” Ren said and took her hand. “You'd never be able to pay for the repairs that way, though.”
+
+“Of course not!” Rosie exclaimed. “This much damage... it... it must be...”
+
+“A few hundred platinum.” Ren tried to whisper, but with everyone so close, they all heard him clearly. Several gasps followed his statement, and one woman fainted.
+
+“Oh my god.” Rosie said, shocked. “What... what will we do?”
+
+“Don't worry about it. It's all okay.” Ren told them. “I took care of it.”
+
+“You WHAT?!?” Rosie yelled again.
+
+“I paid the repair fees already.” Ren explained. “No one will need to...” He looked around as everything went quiet and silence filled the space. The people stared at him and his face flushed a little red again.
+
+“You paid...” Rosie took a deep breath and continued. “You paid a few hundred platinum to fix the city.” She said. “Why would you do that?”
+
+“I didn't want the townspeople to suffer higher taxes that they can't afford, especially right after this disaster.” Ren said. “Getting through the fire was bad enough, but if you had to pay for it, too...” He shook his head. “I couldn't let that happen.”
+
+Notice!
+
+You have told the general populace about your outrageous generosity. Not only are they grateful to you, but word of this will spread like wildfire.
+
+Fame: +10,000
+
+Notice!
+
+Your excess Fame has been converted to XP.
+
+10,000 Fame x 10 = 100,000 XP
+
+Level up!
+
+You have gained a level and are now Level 30. 10 stat points have been automatically allocated. You have unlocked a new skill: Craft Wondrous Item
+
+“Oh, Ren!” Rosie said, wrapped her arms around him, and kissed him passionately. Several men hollered for him to 'go for it', and a few women sighed at the public display of affection.
+
+“I wish you'd kiss me like that.” “Me, too.” “They make a cute couple.” “Granny looks like she's getting mad.”
+
+Rosie's Grandmother tapped Rosie on the shoulder, and Rosie broke the kiss and let Ren go.
+
+“My turn.” The old lady said, and grabbed Ren by the neck and kissed him.
+
+“Ewww!” “Oh, my god!” “I think I'm going to throw up!” “It's disgusting, but I can't look away!”
+
+The kiss only lasted for a moment, then the old lady let Ren go. He stared at her, and she laughed.
+
+“I still got it.” She said, waddled out the door on her cane, and slowly walked down the steps. Teepo had chittered in laughter the entire time.
+
+“I'm so sorry, Ren.” Rosie said. “I knew she wanted to thank you, but I didn't realize...” She looked at Ren, who still had a shocked look on his face. “Ren?” Rosie put a hand on his face. “REN!”
+
+He blinked his eyes a few times, and looked at her.
+
+“I think you better walk with me to the shelter.” Rosie said. “You've had quite a shock.”
+
+“I can't...” Ren said. “I... ah...”
+
+Rosie giggled. “Is the Hero of Aurora afraid of an old woman?”
+
+Ren smiled. “I'm not afraid of her.” He said. “I'm afraid if she gets her hands on me, she might keep going.”
+
+Rosie laughed. “That's always been a danger.”
+
+He looked at the old woman, who was part way down the steps, and shook his head. “I don't doubt that.” Ren grinned and took out the latest book he had made about his adventures in the Dwarven Kingdom, and gave it to Rosie.
+
+“You made another book?” Rosie asked, surprised.
+
+Ren nodded. “This is a copy for you. I'm going over to the Library to put one in.”
+
+“Don't.” Rosie said. “The Head Librarian is there, and she's really strict about submission guidelines.”
+
+“I take it she doesn't want non-ranked books in her library.”
+
+Rosie nodded. “I'll add this one tomorrow when I go in to work, and give it a provisional 'D'.”
+
+“Thanks, Rosie.” He said.
+
+“You're welcome.” Rosie said.
+
+He took out another copy of the book and handed it to her. “You can put this one in and keep that one.”
+
+Rosie took the second copy and looked at him. “Ren, I... I don't want you to think about my Grandmother, when... when you remember kissing me.” She smiled. “And you will remember it.” She said sternly. “Before I go, I better give you this, just in case.”
+
+“Wha-” Ren tried to say, but Rosie gave him another kiss and cut off his words. When the kiss ended a few moments later, he spoke. “You know you could have just said, 'forget about Grandma'.”
+
+“Where's the fun in that?” Rosie said and giggled as she blushed. “Bye, Ren.”
+
+“Bye, Rosie.”
+
+She ran down the mansion's stairs and caught up to her Grandmother easily, as she had just reached the bottom of the stairs herself.
+
+Ren smiled at them as they walked slowly up the street. That was surprising.
+
+“Which part?” Teepo asked. “The cute girl kissing you, or the old woman slobbering on you with lips like shoe leather?”
+
+Both. Ren thought, and grinned. The rest of the people left the mansion, and Ren went inside. “It seems downright empty in here now.” He said and walked down the left side hallway and knocked on Donna's office door.
+
+“Enter.”
+
+Ren opened the door and Donna looked up at him.
+
+“Ren!” Donna said, stood up, and came around the desk. “I thought I felt you come into the mansion.” She took him into a hug, and Ren smiled. She wore a loose fitting shirt made of a thin weave fabric, so his face slid in between her breasts easily and pushed them aside. Ren's face flushed a little red as he looked up at her.
+
+“Thank you for saving so many people.” She said and gave him a squeeze. His cheeks pushed her breasts aside a little more, and he hugged her back.
+
+“You're welcome.” Ren said. “I'm always glad to help.”
+
+“Is that why you're here?” Donna asked. “I can always use a good worker in the kitchen.”
+
+Ren tried to shake his head, but it was wedged pretty tight in her chest. They're really nice and warm. He thought, then spoke. “I came in here to find out what the food situation was like, and to see if I could hire a cook or two to make meals for the refugees.”
+
+“We were doing that already.” Donna said and laughed, and her breasts jiggled against his face. The thin fabric didn't restrain them in the least. “We'll have breakfast ready on time, don't worry.”
+
+“I just sent the refugees to the building I had Jen make in the Housing District.” Ren said. “Can your assistants deliver the food there?”
+
+“Sure.” Donna said, then frowned. “Wait a minute. How did they all fit in a single house?”
+
+“I bought half of the District, not a single lot.” Ren chuckled, and her breasts shook slightly. “Jen let me make the whole space one building.”
+
+“Wow.” Donna said. “That's...” She gave him another squeeze. “You're a genius.”
+
+Ren laughed. “I do have my moments.”
+
+She laughed, and her breasts slapped against the sides of his face. “More than a few.” Donna said. “You're a Lord now.”
+
+“Yeah. Lord Eric gave me a Knighthood to get me out of the public eye, and didn't realize it would make me a Lord instead.”
+
+“It's good that you escaped his plans for you... but... now you're exempt from service.” Donna said, kind of sadly.
+
+“I'm what?” Ren asked.
+
+“Exempt.” She said. “Nobility never serves in the military. They think it's beneath them, and passed the by-law so they wouldn't have to serve.” She said with a trace of hostility.
+
+“I was drafted into the dwarf army when I went to the Dwarven Kingdom.” Ren said.
+
+“Y-you were?” Donna asked. He's a real service man! She thought, surprised. “Tell me you have your military uniform with you.”
+
+“I do.” Ren said.
+
+“Please put it on.” Donna said, and let him out of the hug. “As a favor for me.” She stepped back. “I'd really like to see it.”
+
+“Sure.” Ren said, and equipped his dwarf recruit uniform. She looked him up and down, and smiled.
+
+“Thank you.” Donna said, and took him into another tight hug. “To know you were responsible enough to do military service.” She grinned. “I'm proud of you.” She looked him in the eyes. “I assume you've been honorably discharged?”
+
+“Of course.” Ren said as he nodded, and it rubbed her chest. She finally noticed his slightly compressed face jammed between her breasts, and she blushed a little.
+
+“I'm... I'm sorry, Ren.” Donna said and let her arms drop. It eased the pressure being applied against his face. “I didn't realize...”
+
+“It's okay.” Ren said, and kept hugging her. “You didn't hear me complain, did you?”
+
+“You cheeky little...” Donna laughed and her chest jiggled, but since she wasn't squeezing them while hugging Ren with her arms, he didn't feel it as much. “I only intended to give you a hug, not let you... ah...”
+
+“Enjoy the feeling of your wonderful chest against my face?” Ren suggested, and she smiled warmly at him.
+
+“Yes, that.” Donna said softly, and ran a hand through his hair. “Ren?”
+
+“Yeah?”
+
+“How do you get your hair so fluffy?” She asked, then wrapped her arms around him again.
+
+“It's always been like that.” Ren said, snuggled into her chest, and sighed. “Thank you.”
+
+“For what?” Donna whispered, turned her head to the side, and rested it on top of Ren's.
+
+“Nearly every woman I try to talk to, or get into a questionable situation with, thinks I'm trying to make a pass at them, or trying to sleep with them. It's... it's really nice to just hug someone and not worry about that.”
+
+“Who said you didn't have to worry about it?” Donna asked, and lifted her head as Ren looked up at her. Her face was flushed a little red, and her lips were slightly puckered. Before he knew what was happening, she had picked him up and sat him on her desk.
+
+Even Princess, a mount designed to hold my weight, can barely lift me! Ren thought, completely shocked that Donna was so strong. “Donna... I'm... I'm engaged...”
+
+“That means you're not married yet.” Donna said and grinned. “Perfect.” She stepped close to him, pushing his legs to the side. With her standing up and Ren sitting on the desk, his face was at the same height as hers.
+
+“Donna! What are you...”
+
+“You're all mine right now, soldier!” Donna said, grabbed his tunic tightly, and kissed him.

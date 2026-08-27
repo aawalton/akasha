@@ -1,0 +1,301 @@
+---
+id: 1116135b-0634-5ac5-990b-2450b095a47a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 418 - Let's Go This Way"
+slug: 0415-chapter-418-lets-go-this-way
+partOf: mythrans-master-of-all-continued-completed
+position: 415
+ownLength: 3489
+unit: words
+publishedAt: 2017-11-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173454/chapter-418-lets-go-this-way"
+royalRoadId: "173454"
+---
+
+Ren walked out of the tower and looked to make sure none of the succubi were on it, spoke the command word to deactivate it, then stored the 2 inch wide cube.
+
+“Is anyone hungry?” Ren asked, and was immediately surrounded by all 20 succubi. “I'll take that as a yes.” He said and chuckled. “Emotions or actual food first?”
+
+“FOOD!” They said together.
+
+“Do you want it warmed up or-”
+
+“Just hand it over!” One of them said and cut him off.
+
+“Okay, okay!” Ren said and took out his large icebox, then started to hand out plates of food.
+
+“Wh-what is this?” Zunala asked as she took a plate. She had expected the crate of dretch legs for them to eat from.
+
+“It's food.” Ren said, and he could feel the disbelief from them. “Look.” He said and took a plate out for himself and stored the icebox, then ate a bit of food. “See? You can eat it.”
+
+“I can eat dirt, but that doesn't mean it's food.” One of them said, and Ren laughed.
+
+“I think I'd rather just eat the raw legs of the dretches.” Another one said.
+
+“Just try it.” Ren said.
+
+Wynphine picked up a small piece of meat from her plate, then put it in her mouth. She started to chew, then her eyes lit up. “That's so good!” She said and grabbed a handful of food and shoved it into her mouth. All the other succubi did the same thing because they could feel that she really liked it and wanted the same experience. The plates were empty barely a minute later, and Ren gathered them up to store and clean them.
+
+“How many times a day do you eat?” Ren asked.
+
+“A... a day?” One of them asked.
+
+“Is he serious?”
+
+“He eats a meal like that every day?”
+
+“That's crazy!”
+
+Ren looked at their startled faces. “You... don't eat every day?”
+
+They all shook their heads, and he felt a strong pang of sorrow. The succubi all took in a quick breath when they felt it. Ren concentrated on protectiveness, then went to each one and gave them a brief hug so they would feel a direct dose. Some of them couldn't believe it, and some of them almost melted in his arms and held on a little longer than the others.
+
+“I promise that you won't go hungry ever again.” Ren said after he had hugged them all. “Please, get ready to feed your abilities.”
+
+Zunala came forward and knelt in front of him, and the others touched her. Ren looked at Ellaria and Wynphine, and they ducked their heads a little.
+
+“It was a bit too much when we touched you directly.” Ellaria admitted.
+
+“That's okay.” Ren said and smiled crookedly. “I'm hard to handle sometimes.”
+
+Several of the succubi chuckled, and Ellaria was a little embarrassed. Ren remembered the last time he was with Donna, the cook in the mansion, and built that up for them.
+
+“It... it's different.” Zunala said, surprised.
+
+Ren touched the sides of her face to establish a connection. “I can share what I've shared before if you prefer that.”
+
+They all shook their heads.
+
+“New is good.” Seldanna said, and held her sister's hand tightly.
+
+“Then brace yourselves.” Ren said and grinned. “I know your limits now.”
+
+“Oh... oh, god!” Zunala said when she realized he was going to pour it all into her first. “I'm not ready!”
+
+“Liar.” Ren said and put his forehead on hers. “You want this more than the others and are just too afraid to admit it.”
+
+Zunala didn't say anything as she stared at him; but since they were all touching, everyone knew that was exactly how she felt. Ren opened up the reservoir and they all gasped as each of them got exactly what they wanted as quickly as possible. The feeding was over barely 2 minutes later, and when they all let go, their eyes held the glow for several seconds. He poured the last of the reservoir into Zunala, and let her go.
+
+Ren took out 20 strong rings of storage and used his Craft Wondrous Item ability to make them modified Rings of Sustenance, with the 1 hour sleep gets you 8 hours of rest, and only a 1 day attunement requirement.
+
+“This will only keep you from food starvation, not emotional starvation.” Ren said and gave them each a ring. “It doesn't kick in until tomorrow at this time, though.”
+
+“When does yours 'kick in', as you say?” One of them said.
+
+“This evening.” Ren said. “Until then, we have to eat normally.”
+
+“Does that mean we can't eat normally after that?” Another asked.
+
+“No, you can still eat and enjoy food. All this does is give you life-sustaining nourishment, and keeps your Health from dropping when you don't eat.”
+
+“So, if we eat more than that, will our Health increase?”
+
+Ren thought about what she said. “Um... how many of you are not at full Health?”
+
+They all raised their hands except for Miastina, who he had fully healed after she had crashed into the tower and fell to the ground.
+
+“I'm sorry for not checking before.” Ren said and went to each of them and used a Major Healing wand to fill them up. “Now that I have you all here, I have presents for you.”
+
+“Wh-what?” Several of them said.
+
+“I was worried about keeping you all safe, so I made up some things to help.” Ren said and took out a pair of boots that didn't have feet on them. “I knew it wouldn't be comfortable for you to wear normal boots all the time, so I changed them for you.” He smiled. “I guess they are technically greaves, but they're really just footless boots.”
+
+“You... made us special boots?”
+
+“I also made you gauntlets without hands.” Ren chuckled as he took a set out. “I guess you could call them bracers, even though they're a solid metal and not something you strap on.”
+
+“You... why...”
+
+“I told you. I was worried about your safety. So, if anything happens and you don't want to fight, these will help you get out of the line of fire.”
+
+Ren gave the first set of footless boots and bracers to Seldanna, and she didn't know what to do with them.
+
+“Just store them in your ring, then choose them to equip.” Ren said.
+
+Seldanna stored them and then equipped them. The bright steel and small diamond covered items appeared around her calves and her forearms, and she gasped as their enchantments took effect.
+
+“I'll explain how to use the Displacement enchantment as I hand the rest out.” Ren said and walked around to each of them and gave them a set, then explained about the Displacement ability and that it creates a duplicate of them and they disappear; then told them about being able to stick to walls like a spider. Right away, several of them ran over to their Instant Tower and climbed up it easily.
+
+“I didn't have to use my claws even once!” One of them exclaimed. Ren felt how happy they were, and then the rest of them ran over to the tower and quickly climbed up. Once they were all on the top, they unfurled their wings and jumped at the same time. They gently floated down to land all around him and folded their wings up.
+
+“That was... beautiful.” Ren said to them, and they felt his appreciation.
+
+“Thank you for the gifts.” One of them said. “You have made us formidable.”
+
+Ren turned to say they were welcome and he got a kiss instead. Of course, the others couldn't let that stand, especially when they felt his surprise, and each of them kissed him. Since the succubi were almost identical, except for the color and style of their hair, it was like he had a complete make-out session with only a single succubus.
+
+“Um... I'd like to repair your clothing, if it's not too much trouble.” Ren said when he recovered from getting a kiss from so many women. Even for him, that was a new experience. “I gave Seldanna and Wynphine an extra outfit, but I ran out of time to make any more.”
+
+“We saw that outfit.” Wynphine said. “You also left us 12 more bras and bikini underwear in the chest.”
+
+“Did you try on the outfit?”
+
+“No.” Seldanna said. “It looks uncomfortable.”
+
+“If you don't want it, you don't have to keep it.”
+
+“How do you put it on again?” Wynphine asked.
+
+“You can equip it just like the footless boots and handless gauntlets, assuming you kept it in the ring and didn't put it in the chest.”
+
+Wynphine equipped the pants and blouse that had been modified to fit over her wings and tail, and she turned around to let everyone see. She flapped her wings and swished her tail, then bent her knees and elbows. None of her movements were impeded.
+
+“It fits; but, Seldanna is right. It's uncomfortable.”
+
+“Is it the fabric, or just that you're not used to wearing full clothes?”
+
+“Having my skin completely covered bothers me.” Wynphine said. “I can't feel the air around me like this.”
+
+Ren nodded. “I won't bother to make any more full outfits for you, if that's the case.” He said. “If it limits you, then it's not good for you to wear.”
+
+Wynphine and Seldanna handed over the two outfits he had made for them and he stored them.
+
+“Is everyone ready to head out? We've got a lot of ground to cover to get to the next level.”
+
+The succubi agreed, and Ren went to store their Instant Tower... and it didn't work.
+
+“Hm.” Ren went inside and looked around, with the succubi behind him. All he saw were beds, so he stored them and didn't see anything else. He put the beds back and went up the stairs and didn't see anything. When he went to store the beds, he did 6 of the 10 and then found one that he couldn't store.
+
+“I think this is the culprit.” Ren said and lifted the blanket to reveal a dretch.
+
+“I hope you're not mad.” One of the succubi said as she came forward and picked the dretch up. “Nozac won't cause any trouble.”
+
+“I told you to leave that thing back in the dungeon.” One of the others said.
+
+“I've had it since I came here.” She said and hugged it close. “I'm not leaving him!”
+
+“You can take it with you.” Ren said and sewed up a small harness and bag for it to be carried in. “Just put it in here when we're travelling so you don't lose it.”
+
+“Thank you!” The succubus said and equipped the harness. The bag hung in front of her abdomen and she put the dretch inside. “Do you like that, Nozac? You can stay with me all the time now!”
+
+“Great, now she's going to be talking to it all the damn time.” One of them said, and several of them laughed. Ren put the beds back and they left the Instant Tower. He deactivated and stored it, cast Phantom Steed for himself with his Level 5 Wand of Transport, then equipped his full armor set. He cast Widen Effect to make the steed last 7.5 hours, and mounted it's saddle.
+
+Ren used the All-Seeing Mirror to check the level, and marked where the closest enemy was. He looked at it, and saw it was an Ogre.
+
+“First up is an ogre.” Ren said. “It should be a piece of cake.”
+
+A strong ripple of shock went through the succubi, and several of them started to shake.
+
+“You're not fighting it, I am.” Ren said.
+
+“W-we k-know.” Ellaria said. “We're afraid for you.”
+
+“Don't be.” Ren chuckled. “My mount could take it by herself if she were here.” He said and pat the one he was on. “This one won't have any trouble with it, either.”
+
+The Phantom Steed huffed, and a pile of insubstantial smoke like it's hooves and mane came out. Ren took out his hammerpick and changed the enchantment to Earth, and smiled as the newly reformed drill bits started churning while it waited for it's next sacrifice.
+
+“Follow me!” Ren said, and the Phantom Steed took off at it's increased speed.
+
+“W-wait for us!” Zunala said and flew after Ren, and she surprised herself with how much faster she was. “WhoahhH!”
+
+“Let's go, everyone!” Wynphine said, and they all flew at their new top speed to catch up to Ren.
+
+*
+
+Lara, the Sage of Ages, was in a bit of a weird situation. For some reason, even though she had laid down as far away from the other maids as she could the night before, mainly because she knew what was going to happen, she was now on the bottom of the pile they had made.
+
+It really did happen like magic, just like Ren told me. I'm so glad I asked them to wear nightgowns. Lara thought in amusement. I was going to stay in the spare room; but, they wanted me to stay as close as possible in case Ren messaged me.
+
+Lara wasn't sure what she should do, then decided that it didn't matter what she did. It would all have the same result; so, she took a deep breath and spoke normally.
+
+“Good morning.” Lara said, and the maids stirred immediately. They sorted themselves out and sat up around her.
+
+“I'm sorry.” Frikara said. “It's just...”
+
+“I know I'm a Ren substitute.” Lara said and smiled. “I figured it might happen.”
+
+“He really does tell you all about us.” Frikara said.
+
+“Ren decided that he wasn't going to hide anything from us.” Lara said, then the bedroom door burst open.
+
+“Did he contact you yet?!?” Anabelle asked, a little frantically.
+
+“No, he hasn't.” Lara said, and Anabelle sighed dramatically and sat down next to the bed. “Don't worry about him. He can take care of himself.”
+
+“I know that.” Anabelle said. “I just miss him.”
+
+“We all do.” Frikara said and looked at Lara. She nodded and held a hand out, and all the maids joined hands and sighed.
+
+*
+
+Ren rode the Phantom Steed down a tunnel and came out into a small cavern. It was a den of sorts with piles of bones, cloth, and treasure. There were no enchantments or traps in the place, and he saw the ogre was asleep in the middle of a pile of clothes. He had a half-eaten severed leg in his hand, with armor pieces that looked like they had been peeled off scattered around him.
+
+Ren hopped off his mount and ran over to the ogre. He let his anger well up like Barbara had told him to, said a prayer to the Spirit of Earth to accept his offering of another life, then hefted the hammerpick over his head and brought it down on the ogre's face. The ogre didn't feel a thing as it was stunned from the hit, then had it's head crushed and mulched an instant later. Blood sprayed out from the neck, and when Ren lifted the hammerpick, his anger subsided and he saw there was just a puddle that was once the head.
+
+“Once again, that was both disgusting and cool.” Teepo said and chittered in laughter.
+
+“You killed it!” Zunala said as she landed beside him. “You really did it!”
+
+There was a general cheer as the rest of the succubi landed around him, and several of them hugged each other. Ren looted the ogre and gained the half-eaten severed leg, a half-crushed helm with a skull still in it, and a large wooden club as tall as him.
+
+“Garbage!” Ren said and took out the club from inventory and crushed it, then kicked the splinters away. He took out the severed leg and tossed it aside and tried not to think about who it might have belonged to, then took out the helm and repaired it so the skull could be taken out of it.
+
+Helm of Foolishness
+
+This helm has been imbued with the essence of the Fool. The wearer gains the Entertainer (Intermediate) skill and can use the Disguise Self spell for free (for 1 hour per day) while the helm is worn. If the wearer already has this skill, it bumps to the next available stage instead. Use of the helm causes Distraction to those within sight, and they cannot take their eyes off of the wearer.
+
+Please note: It cannot be used to max out a skill and is limited to boosting up to Expert only, and it cannot be used against creatures or people who are Stupid.
+
+Ren got the recipe for it and reached inside the helm to remove the skull. When his right hand touched it, it sent a sharp pain into his hand and a tingle went up his arm. His mouth dropped open as the spirit of a knight appeared in front of him.
+
+“You have slain that which has slain me.” The ghostly knight said. “Thank you, Adventurer.”
+
+“You're welcome.” Ren said. “Is there... ah... anything I can do for you?”
+
+“Find my friends.” The ghost knight said. “Gather them together once more.”
+
+New Optional Quest!
+
+You have been tasked with gathering the remains of the Lost Knights. If you gather the entire group, an appropriate bonus will be granted.
+
+Rewards for completion: Bonus XP, +10% Light affinity
+
+“I'll do my best to try and find them for you.” Ren said. “Anything else?”
+
+“No, for I am being called home now.” He said and a bright light appeared behind him. It almost looked like a portal, and Ren wondered where a spirit portal would go. “Before you ask, you have my permission to raise my remains. It will serve you well, if equipped properly.”
+
+“Um... thanks.” Ren said, and then the spirit waved, turned around and stepped into the portal.
+
+Notice!
+
+Your unlocked (HIDDEN) skill has been revealed: Undead Adept Level 1 (Beginner 0%). You have an affinity for the undead in any of it's forms. You can feel and see them within your Aura, and if you concentrate, can Command friendly undead with simple instructions. Higher levels will allow more undead to be controlled. Current Limit: 5 undead
+
+“Oh, wow.” Ren said.
+
+“Who are you talking to?” One of the succubi asked.
+
+“The spirit of a knight.” Ren said.
+
+All the succubi took a step back from him, and he felt their fear and worry.
+
+“I'm not losing my mind, if that's what you're worried about.” Ren said and pulled the skull out of the helm. “I've got the Undead Adept skill.”
+
+Their fear and worry increased, and he chuckled as he stored the helm. Ren held the skull up and thought about what the ghost knight had said.
+
+He gave me permission to raise his remains. Ren thought. How would I do that?
+
+“That must be your hidden spell!” Teepo said. “Raise Dead!”
+
+No way. Ren thought. How would I get that? He closed his eyes and thought about it. I had my Ghoul Kissed mark when I leveled up. It must have changed what I should have gotten and gave me these hidden things instead.
+
+“You might as well try it.” Teepo said.
+
+How can I use a spell I don't know? Ren asked.
+
+“You have it, it's just not giving you the name.” Teepo said. “You know what it does, right? Raises the dead? Just infuse some Mana into the skull and raise it.”
+
+It can't be that simple. Ren thought. Can it?
+
+“Give it a shot and see.” Teepo said. “At the very least it should tell you if that's the spell or not.”
+
+Ren nodded and held the skull up with both hands as he poured Mana into it. Raise Dead. He thought, and the skull started to glow. The pile of clothes the ogre had laid on shifted a little, and a ribcage with the neck bones still attached rolled out and floated up to attach to the skull.
+
+“Ahh!” A succubus screamed a little when an arm bone flew past her and attached itself to the shoulder. The severed leg Ren had tossed aside split open and the leg bones lifted up and hung in the right place, then the rest of the skeleton materialized in front of him.
+
+I guess the other bones were... ah... not around anymore. Ren thought as the glow of the skull faded and reappeared in the skeleton's eyes.
+
+Notice!
+
+Your unlocked (HIDDEN) spell has been revealed: Raise Dead. This spell can reanimate or regenerate the dead (either skeletons or zombies). Undead raised in this manner last for 20 minutes per caster or wand level. Level 1: Limit 5 undead
+
+“Cool.” Ren said and smiled.

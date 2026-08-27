@@ -1,0 +1,307 @@
+---
+id: 6998d0a0-dc66-5072-9e82-787d0e03ca29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 426 - Sweet Nectar"
+slug: 0423-chapter-426-sweet-nectar
+partOf: mythrans-master-of-all-continued-completed
+position: 423
+ownLength: 3594
+unit: words
+publishedAt: 2017-11-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175216/chapter-426-sweet-nectar"
+royalRoadId: "175216"
+---
+
+A rag-tag group of Adventurers made their way across a damp and dark swamp, to the spot marked on the map. Once there, the magic user set up the summoning ritual needed to call forth the quest's objective on the 30 foot wide stone circle used for the purpose.
+
+“I'm really glad this major quest finally became available.” One of the fighters said.
+
+“Me, too.” Another fighter said. “It's taken us months to earn enough of a reputation to get it!”
+
+“Tell me about it.” The archer said. “I hate grinding missions.”
+
+“You're gonna hate the first stage of this, then.” The first fighter said. “It's 100 demon spawn.”
+
+“Ah, dammit.” The archer said. “Getting arrows back after grinding sucks!”
+
+“You're really gonna hate the world event.” The healer said and laughed. “I read up on it. It's all ghouls.”
+
+“You're kidding!”
+
+“Nope.” The healer said. “A buddy of mine already had a quick skirmish out by the High Elven Kingdom, and he said it's nasty.”
+
+“At least that's really far away.” The archer said.
+
+“For now.”
+
+“What do you mean?”
+
+“It's a world event.” The healer smiled. “Where is it gonna take place?”
+
+“You're killing me, dude!”
+
+The two fighters laughed.
+
+“Okay, here goes!” The magic user said and completed the quest's summon function. The portal opened and the first wave of small demons poured out.
+
+“Woo-hooo!” The two fighters waded into the melee with abandon and the entire party got into the fight. After about 10 minutes, the small demons were defeated and a large portal opened up. The Minor Demon, their main objective in the quest, stepped out. The fighters activated their abilities that they held in reserve and prepared to attack, when the Minor Demon took two steps then fell to it's knees.
+
+“Whoa! Look at it!” The archer said. “It looks like it's been beat to death already!”
+
+A lot of it's major wounds had healed; but, all the cuts and slices Ren had covered it's back with were still healing. Even something with such high regeneration couldn't heal all of the damage quickly.
+
+“Matt, is it's Health low enough?”
+
+“Yeah, by a wide margin.” Matt the magic user said. He took out the small metal box and slid it across the stone, and he actually felt sorry for the thing. “The guys on the message boards are not gonna believe it was this easy.”
+
+“I wonder what happened to it?” One of the fighters asked.
+
+The Minor Demon took in a deep breath as the metal box activated, then let it out. “RENNNNN.” It moaned as it was pulled into the small metal box and sent back to wherever it had come from.
+
+“It spoke just then, didn't it?” The archer asked. “I know it said something.”
+
+“It sounded like 'Ren'.”
+
+“No way!” One of the fighters said. “He's the top scorer on the XP leader board!”
+
+“He must be some big and scary guy if he can do something like that to a Minor Demon!”
+
+“We should try and find him to thank him.” The magic user said.
+
+“Or kick his ass for taking a good fight away from us.” The other fighter said. “I wanted to fight that thing!”
+
+The other guys laughed.
+
+“Come on. Let's get back to town and finish this quest.” The healer said.
+
+“That's going to be the hardest part of this quest.” The archer said. “I hate swamps.”
+
+The other guys laughed again and they headed back to town.
+
+*
+
+Ren woke up with a splitting headache, and he could feel that something was on top of him. His Waterkin Aura was still active, and he felt Rainie was contented and relaxed. He thought that was a little odd with him unconscious, so he opened his eyes to see what was going on. He saw the backs of 20 succubi and their folded wings, then looked at his chest.
+
+No less than 6 pixies were snuggled on his chest and arms, but he couldn't see Rainie's light blue hair among them. He thought he caught sight of Shanna's green hair, but since there were over a dozen green-haired pixies, he couldn't be sure. Of course, he could also feel pressure over most of his body and knew there were even more pixies on his legs. He wasn't sure what to do at first, then figured it was just like the maids and it didn't matter what he did because it would get the same result.
+
+Thinking of the maids made him homesick, then he thought about Railyse. I'm really glad I gave her so much blood before I was shunted away. He thought. She would have been in dire straights if she'd only taken what she normally did. He sighed mentally. Even so, it's not going to last much longer. She's going to start starving herself again if I don't get back to her soon.
+
+“Excuse me, miss.” Ren said to the closest pixie. “I need to get up.”
+
+She sighed and propped herself up on an elbow. “You've only been unconscious for a couple of hours.” She said. “Can't you let us warm ourselves for a little longer?”
+
+“Warm yourselves?”
+
+“They've been sprawled out on you almost since you stunned yourself.” Teepo said. “The succubi were fine with it, though.”
+
+Ren smiled. That's because they're getting a free and willing meal out of it.
+
+“You're like... a big warm fire.” The pink-haired pixie said and laid back down to rub her hands and her face on his chest. “You're so cuddly!”
+
+Ren chuckled, and the other pixies on his chest stirred a little.
+
+“He's awake.” One of them said.
+
+“That was a good nap.” Another one said and sat up. Ren saw that she had shoulder-length bright orange hair with red streaks, and she spread her arms out and stretched. Her tiny dress had inched down slightly while she slept; so when she lifted her arms, it wasn't in the right position to contain her and her chest popped out to reveal bright pink tips on her bare white breasts.
+
+Ren immediately averted his eyes and looked up. “Um... you've popped out of your top.”
+
+“Oops!” The pixie said and giggled, then pulled her dress up and tucked her chest back in. “You can look now.”
+
+Ren looked back at her, and she had a huge smile on her face.
+
+“Did I embarrass you?” She asked and stood up, then walked over the couple of pixies between her and Ren's face. She stepped onto his neck and sat down on the closest pixie's back. “That's so cute.” She said and crossed her legs.
+
+Since she was right in front of his face, Ren clearly saw the very small pair of panties she wore under her short dress. She lifted her leg a little and rubbed her own calf against her knee, then put it back down. Ren blinked his eyes a couple of times, and she giggled.
+
+“You really are flustered.” She said. “You faced all those dangers to get to this point in the caverns without blinking an eye, and yet...” She uncrossed her legs and left her knees a quarter of an inch apart. “...if I uncross my legs, you become uncomfortable.”
+
+“Um...” Ren wasn't sure where to look, because he didn't want to insult her; but, he also didn't want to stare at the view in front of him, either.
+
+“Or is it that you're turned on?” She asked as she stood up, and Ren laid his head back. She bent over and braced her hands on her hips, and he could see right down her dress. “Do you think I'm sexy?”
+
+“Yes.” Ren said.
+
+“Ha.” The pixie said and stood up straight, then carefully stepped up onto his chin. “I thought Rainie was joking.” She said, and stepped over Ren's mouth and sat down on the tip of his nose. “You really do see us as equals... and potential bed partners.”
+
+To an outside observer, it looked like Ren had a barbie doll with orange and red hair sitting on his face.
+
+“I've met everyone when I passed out the coin pouches.” Ren said and saw the one on her hip. “I don't remember seeing you.”
+
+“Are you trying to say that I'm unforgettable?” She purred.
+
+“Yes.” Ren said, and she smiled sexily.
+
+“Are you always this honest?”
+
+“Yes.”
+
+“I disguised my hair so I wouldn't stand out.” She said and leaned forward and put her hands on her knees so he could see her face better. “I always attract attention, both good and bad, if I don't hide.” Her dress moved up past her backside and Ren could feel just how little her small underwear actually covered as he felt a very distinct warmth on his nose.
+
+“W-why aren't you hiding it now?” Ren asked.
+
+“You seemed to hit it off with both Shanna the Elfkin and Rainie the Waterkin.” She smiled and wiggled her butt a little. “It made me wonder if you could handle a smoking hot Firekin.”
+
+“You're a Firekin.” Ren said. “It's nice to meet you: but, I'm sorry. I don't have that title.”
+
+“Does that mean you can't take the heat?” She asked and leaned over even further. Her hands and eyes started to glow, and the heat on his nose became quite intense.
+
+“It just means I can't share Auras with you.”
+
+“Aww.” She said. “I'm the only Firekin here, and everyone I try to touch complains that I'm too hot for them.”
+
+“That's why you're flirting so much with me.” Ren said, now that he understood. “Rainie told you I had a Healing wand, and you know I can heal myself if you... ah...”
+
+“...become too hot to handle.” She puckered her lips and started to move her hips.
+
+“You... are you really going to... I mean, right here? On my nose?” Ren asked.
+
+“I've... concealed us.” She said. “As far as... everyone else is concerned... ah... all they see is us sta... sta... staring at... at... each OTHER!” She closed her eyes as her hair turned to actual fire, and Ren felt a huge burst of heat on his nose.
+
+“Wow.” Teepo said, surprised. “She really did.”
+
+Ren absorbed the heat she had given him and felt the succubi consume the pixie's desire and fulfillment. The pixie breathed heavily for almost a full minute before she started to calm down. Her hair stayed lit and she kept her eyes closed until her breathing evened out. She opened her eyes and looked at Ren, and he saw dancing flames in the pupils that matched her hair.
+
+“That... I haven't done that...” The pixie sighed and her hair went back to it's solid state. Her eyes went back to just an orange pupil with a red center. “I'm sorry, I...” She started to cry. “I couldn't help it, and now I've burned your nose!”
+
+“It's okay.” Ren said. “I'm-”
+
+“No, it's not okay!” She said and stood up with tears on her face. “Look at these horrible burns!” She exclaimed and pointed at the tip of his nose.
+
+“What burns?” Ren asked, and she looked down. She had to wipe her eyes to clear her vision, then she knelt and rubbed her hands all over the small wet spot she had made.
+
+“It... I can't believe... it's not... how?” She looked at Ren with shock on her face, and he felt her tremble. “You should have second degree burns at least!”
+
+“More like third degree, with a lot of charred flesh.” Ren said, and the pixie sobbed. “Hey, I said it's okay. I have 100% resistance to Fire.” He looked at his arms. “I'd give you a hug, but my arms are a little occupied right now.”
+
+The pixie chuckled through her tears. “I know. That's why I...” She smiled. “You were an easy target like this, and I knew you couldn't push me away.”
+
+Ren smiled, and it knocked her off balance a little. She put her hands down to brace herself, and one of her wet hands touched his lip. He was quite surprised when he received a popup, then felt a little disgusted at what it meant.
+
+Notice!
+
+You have discovered Pixie Nectar. This rare and valuable Alchemy ingredient is used for making the most powerful potions, tonics, and elixirs. Depending on the method of gathering, the nectar can be more potent and even more valuable.
+
+The pixie looked at his smeared lip, then at her hand. “You... you know.” She closed her eyes and he felt her deep regret.
+
+“I will never tell anyone, nor will I ever use it.” Ren said. “I don't care what can be made from it.”
+
+“Are... are you serious?” The pixie braced a hand on his nose and looked him in the eyes, and she hoped beyond hope that he was sincere.
+
+“Is there a solemn vow I can take to prove it?” Ren asked. “Something like...” He closed his eyes. “Something borne from an intimate act shouldn't be used for... well, whatever it can be used for.”
+
+Ren heard a small stream of words from the pixie and felt a small wet hand rub across one eyelid, then across the other.
+
+Notice!
+
+You have been permanently blessed by a rare Pixie, and you can no longer be fooled by Pixie Magic unless you choose to be.
+
+Ren slowly opened his eyes and looked at her, and her hair was once again fire. “Thank you... ah...”
+
+“My name is Suniva Sunnyvale.” Suniva said. “I can't have you make a sacred vow to me, because then we would be bound together.”
+
+Ren blinked his eyes a couple of times, and then he stopped himself from smiling so she wouldn't lose her balance again. “Thank you for telling me, and not just doing it and then tell me I was trapped so easily.”
+
+“Sweetie.” Suniva chuckled. “I thought about doing exactly that.”
+
+Ren chuckled, too; and the other pixies on his chest were shaken awake.
+
+“Oh, damn!” Suniva said and looked at his nose. “I need to clean that up before I drop the glamour.” She stood up and quickly looked around for something, looked down at herself for a second, then slipped off her dress as she bent over. Ren had been so surprised that he didn't even think about closing his eyes as she wiped up the dampness and used her hot hands to dry the cloth and his nose. She stepped back into the dress and pulled it back up and into place, then turned and looked at his surprised face.
+
+“Did you enjoy the show?” Suniva asked.
+
+“Immensely.” Ren said honestly, and she giggled.
+
+“Close your eyes, sweetie.” Suniva said and sat down on his nose again. “I'm dropping the glamour.”
+
+Ren closed his eyes and he felt a small tingle. The blessing actually works, even if my eyes are closed.
+
+“Wake up, little big guy.” Suniva said, and Ren opened his eyes. “You're laughing in your sleep.”
+
+Ren looked at her and smiled. “That's because even if I'm unconscious, I'm happy to have a bunch of beautiful women sprawled over me.”
+
+“You sure are!” Rainie said, and Ren felt her surprise and shock, and then her fascination. “It's almost as big as me!”
+
+“Wh-what?” Suniva stood up and carefully stepped from his face to his chest. The other pixies had slid off of Ren's chest and arms to get out of her way, and she stopped at his abdomen when she saw what Rainie was talking about. With just his armor bodysuit on, it didn't leave much to the imagination; but, Rainie had been sleeping on it before it's full appearance, and now her body blocked a good portion of it from sight.
+
+“By Fire Dancer's Flame.” Suniva whispered, then looked up at the backs of the 20 succubi. “Well, that makes a lot more sense now.” She said in a normal voice, and all the female pixies giggled.
+
+Ren felt surprise from the succubi when he didn't correct Suniva's assumption, then they were amused that the little pixie thought Ren could please them all. A couple of them took in a sharp breath when they felt his confidence that he could satisfy them all.
+
+“I think I've wasted enough time with my self-imposed nap.” Ren said. “Suniva? Rainie?”
+
+“Okay.” Rainie said and pat him there. “We'll get off.”
+
+Suniva's hair burned a little brighter at her comment; but, no one else noticed her embarrassment as Rainie carefully stood up and the two pixies jumped down. Ren sat up and saw several wet spots in different places on his armor bodysuit.
+
+“When was the last time we drooled like that when we were asleep?” Shanna asked and pointed at the wet spots. Ren could see her hair was actually vines and leaves.
+
+“When was the last time we slept that good?” Rainie asked, and he saw that her hair was made of waves of water.
+
+“I'm going to miss it, even though it was only once.” Suniva said and looked at Ren longingly.
+
+“The beds in your apartments are really comfortable.” Ren said. “Just think of me when you sleep in them.”
+
+“We'll do that!” A pixie said, and Ren saw that her hair was a mix of mud and rocks. He was tempted to ask if she was an Earthkin of some kind; but, that would reveal that he could see through her illusions, and he was pretty sure Suniva didn't want them to know.
+
+Ren leaned down and put his mouth by Suniva's ear. “You should just sleep normally.” He whispered. “The bed isn't fireproof.”
+
+Suniva chuckled and kissed Ren's cheek. “I can't wait to see you again.” She said and pat the tip of his nose. “Come back soon, okay?”
+
+“I'll do my best.” Ren said, then stood up. “Ladies, thank you for sharing a nap with me.”
+
+“Ladies!” One of the pixies exclaimed. “He called us ladies!”
+
+“I'm sorry.” Ren said when he felt her surprise. “Is there a better word to call you?”
+
+“No, sir!” The pixie said and grinned. “Ladies is just fine with me!”
+
+“And me.” Another of them said.
+
+“Me!” One of them waved. “I'm a lady!”
+
+Ren beamed a smile at them, and he felt how much they liked it.
+
+“You joked with us, gave us a home and a pile of gold, didn't get mad after waking up with us sleeping on you, and then complimented us.” Shanna said. “You're the strangest Adventurer I've ever met.”
+
+“Thank you.” Ren said and bowed to her. “I must go. If I'm lucky, I can get through the next level before I have to take care of Adventurer's business.”
+
+All the succubi stood up as one and flew up into the air to hover above him.
+
+“Be careful.” Rainie said. “There's several different caverns...” She took a breath and looked up at him. “Ren, take me with you.”
+
+“I can't.” Ren said, and he felt how sad she was. “I'm not saying I wouldn't.”
+
+“I can be useful!” Rainie said. “I can quench your thirst even in the driest desert!”
+
+“It's not that.” Ren said and knelt to one knee. “I can't protect you like I'd want to.” He said. “I'll be constantly worrying if you'll be hurt, and I won't be able to fight as effectively.”
+
+“You're saying I'll slow you down, even though I'm so small.” Rainie said.
+
+“I'm saying I'd be putting your welfare above my own and if I got hurt because of you, you would never forgive yourself.”
+
+“I... dammit, you're too smooth of a talker!” Rainie said and stomped her foot. “You make everything sound so reasonable!”
+
+Ren chuckled. “It's a talent.”
+
+“You still haven't lied.” Rainie said, and sighed. “All right. I'll stay here and be safe.”
+
+“I hope so.” Ren said. “If I come back here and find out you tried to follow me and got hurt, or even killed... I'll be really mad at you.”
+
+Rainie chuckled and climbed up onto his knee. “No, you wouldn't.” She said. “You'll be sad, and mad at yourself for not taking me with you.”
+
+Ren nodded and she wiggled her finger in a 'come here' gesture. He leaned down and she hugged his chin and kissed his top lip again.
+
+“I'll set up wards to make sure that if you show up anywhere on this level, an alarm will go off.”
+
+“I'd expect nothing less.” Ren said and kissed the tip of his finger and touched her lips with it. “Goodbye, Rainie.”
+
+“Goodbye, Ren.”
+
+Rainie jumped down and Ren equipped his Travelling Clothes for a moment, then equipped the armor bodysuit and his armor. He gave her a wave and walked over to his Phantom Steed.
+
+“Thanks for staying back out of the way.” Ren said to it and the two skeleton knights on their steeds. They nodded to him, and he climbed up onto the saddle. “Let's go.”
+
+“BYE!” A chorus of pixies yelled and waved as Ren and his group left the cavern and flew up the tunnel to the safe zone. After a brief discussion with the succubi and Teepo, Ren decided that it would be best if he left now to take care of his Adventurer's business, took out his shop tower and the tower for the succubi to sleep in, then raised up the walls to protect everyone while he was gone. He went inside his tower and up the stairs, then laid down on the bed.
+
+“Logout.”

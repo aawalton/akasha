@@ -1,0 +1,347 @@
+---
+id: 72efb95c-c679-5f6a-8b3b-7ebefc8cb76c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 318 - Mi Casa"
+slug: 0310-chapter-318-mi-casa
+partOf: mythrans-master-of-all-continued-completed
+position: 310
+ownLength: 3310
+unit: words
+publishedAt: 2017-07-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151022/chapter-318-mi-casa"
+royalRoadId: "151022"
+---
+
+After a bit of discussion, they decided to have lunch first and ordered pizza. While they waited for the delivery, they talked about what to do for the rest of the day. Ren said he wanted to log in, just to keep his presence in the game, since he'd missed three days already and he needed to keep up with his responsibilities.
+
+“Would those responsibilities be your 5 personal maids?” Stella asked with a knowing smile.
+
+Ren nodded. “I need to make more food to put in the icebox.” He said. “It's probably pretty low, with me being gone so long.”
+
+“That's not what I meant.” Stella said.
+
+“I know.” Ren said and grinned.
+
+“You've been spending a lot more time outside of the game lately.” Denise said. “Is everything okay?”
+
+Stella and Ren exchanged glances.
+
+“Actually... there's... well, I don't know how to say this to make it less of a shock.” Stella said. “Ren just spent a year and a half in the game.”
+
+“HE WHAT?!?” Denise yelled. “What are you talking about?”
+
+Stella and Ren explained what had happened, and Denise sat there and stared at them.
+
+“How... how is that possible?”
+
+“I don't know.” Stella said. “Elise said the most anyone has ever endured without side effects was 8 times normal time.”
+
+“Wait, what?” Ren asked. “When did she tell you this?”
+
+“Just before she left.” Stella said. “That's why she was so worried about you. No one was ever supposed to go into those pocket realms.”
+
+Ren was about to tell her that he'd been in one before, but kept his mouth shut. If he told them he was, then he'd have to explain why he was there; and that was something he didn't want anyone to know.
+
+The telephone rang, and Ren looked at the nightstand. “We have a phone in here?”
+
+“There's one in every room.” Stella said and picked it up. “Hello?” She waited a moment. “Thank you. We'll be right over to get it.” She hung up and looked at Denise and Ren. “Pizza is at the gate.”
+
+“I'll go get it.” Denise said. “I'm the one with the car.”
+
+“Take the golf cart.” Ren said. “It's in the garage.”
+
+“What?”
+
+“I assume that's what it's for.” Ren said. “I've seen a few of them driving around.”
+
+“Isn't it just for golfing?”
+
+Ren chuckled. “Do I look like I'll go golfing? Ever?”
+
+Denise shook her head. “I'll try it, then.” She said and left the room.
+
+Stella went down to the kitchen to get plates and silverware, and went back to the bedroom. About 10 minutes later, Denise came into the bedroom with the pizza box.
+
+“That golf cart can really go!” Denise said and put the pizza on the rollaway table.
+
+“Had fun, did you?” Stella asked and opened the box. “Hey, there's...”
+
+“I gave the guard a slice.” Denise said. “You should have seen his face when I offered.” She smiled. “He tried to say no while he was drooling.”
+
+Stella and Ren laughed.
+
+“It's a good thing we got a large.” Ren said as Stella handed him a piece on a plate.
+
+“Do you want a fork?” Stella asked him.
+
+“Pizza is the ultimate finger food.” Ren said and picked the piece up. “You're supposed to use your hands.” He said and took a bite. A bit of sauce slid out past his mouth and landed on his chin. “Ow! Hot! Hot!” He said and dropped the piece of pizza onto the plate and tried to lick and wipe off the sauce at the same time. Denise had grabbed a napkin before Stella could and wiped off his chin. “Are you okay?”
+
+“I'm fine.” Ren said and touched the spot. “That hurt.”
+
+“Aw.” Denise said. “Want me to kiss it and make it better?” She asked, teasingly.
+
+“It won't magically heal it, but it should make me feel better.” Ren chuckled and held his chin out for her. “Please.”
+
+Denise leaned forward and puckered her lips to kiss the spot, and Ren turned his head and kissed her instead.
+
+“Ha!” Stella said and laughed. “He got you again!”
+
+Denise shook her head. “You can't keep doing that, Ren.”
+
+“Why not?” Ren asked and smiled. “You let me do it.”
+
+“I didn't... well, I did; but...”
+
+Ren put a hand on her arm. “If I just asked you for a kiss, would you do it?”
+
+“Not while I'm working.” Denise responded automatically, and her eyes widened. “Well, damn.”
+
+Ren and Stella laughed.
+
+*
+
+Lisa Everet, or Lara, the Sage of Ages in the game, looked at her phone and wondered if she should call Ren. She'd spent all night in the game, and he never responded to her messages. She was dying to try out her new swimwear, and didn't know if she should just show up, call first, or wait until he saw her messages in the game.
+
+“Text!” Lisa said, and typed up a message; then she deleted it. She typed up another, and read it over. “No, too desperate.” She said and deleted it and typed another. “Too needy.” She sighed and thought about what he would want her to say, then smiled and typed up a message and sent it.
+
+*
+
+The cell phone beeped, and Stella picked it up.
+
+“It's for you.” Stella said and handed it to Ren, and he read the text message.
+
+Lisa:  Hi, Ren. Can I come over? I miss your face.
+
+Ren chuckled and typed a response.
+
+Ren:  We're having pizza right now for lunch. I'll save you a slice.
+
+*
+
+Lisa grinned and sent a message back.
+
+Lisa:  Nice! I'll be there in half an hour!
+
+Lisa called a taxi and then looked down at herself. She debated if she should change her old faded jeans for a slightly newer pair, then shrugged. She would be changing out of them soon to get into the pool anyways; so, it didn't really matter if she wore a better pair or not. She went into her closet and grabbed the small bag from Jacques Clothing Store that she'd hidden in the sleeve of a coat, and thought about the contents.
+
+Should I leave one of them home? Two of them? Will there be time for anything else? Lisa asked herself, then smiled. Screw it! She shoved the bag into her backpack and left her room.
+
+“Mom! I'm going out for a few hours.”
+
+“Where are you going, young lady?”
+
+My boyfriend's place. Lisa thought in response, and her face flushed a little red. Imagine what she'd say if I told her that!
+
+“Why are you blushing?” Her mother asked. “Lisa! Where...”
+
+“I... I'm going...” Lisa heard a car horn beep outside, took a deep breath, and straightened her back to stand up straight. “I'm going to my boyfriend's place.” She said, quite boldly.
+
+“You're WHAT?”
+
+“Don't wait up!” Lisa said to her mother's shocked face, and ran out of the house.
+
+“Lisa!” Her mother said and ran to the front door. “LISA!”
+
+Lisa got into the back of the taxi, and waved to her mother, who stared in shock at the taxi as it drove away.
+
+*
+
+Ren had logged into the game to check on things, and made as much food as he could in the game hour he had given himself to take care of things. The personal maids weren't too happy that he had been gone for so long; but Ren was genuine in his apology, and told them he would have presents for them when he came back. He gave them each a kiss, pet Princess, his dogs, and the fire elemental Zetaya, then logged back out.
+
+“She'll be here soon.” Stella said. “You've got time for a quick shower.”
+
+“Great idea!” Ren said as he slid off the bed and walked towards the bathroom. “Denise? Are you coming?”
+
+“Not yet.” Denise said, and Stella laughed.
+
+“He doesn't have time for that.” Stella said as the three of them took off their clothes. “You do the back, and I'll do the front.”
+
+“I thought you said he didn't have time for that?” Denise asked and they stepped into the shower with Ren between them.
+
+“You know what I meant.” Stella said and handed her a bar of soap to lather up her hands, and she did the same. “This is going to be the quickest shower in history.”
+
+“I've got two women, two naked and sexy women, in the shower with me; and it's going to be the quickest shower in history?” Ren asked and laughed. “I think I feel cheated.”
+
+Denise and Stella laughed and scrubbed him in only a couple of minutes, then they did themselves and shampooed everyone's hair, then rinsed off. They got Ren out and dried him off in record time, and he put on a bathrobe.
+
+“Yeah, I definitely feel cheated.” Ren said and watched them dry themselves off. “I didn't even get to lather you up.”
+
+Stella chuckled and tossed her towel over his head and put on a robe. “Easy there, little stud.” She said and rubbed his face with the damp towel, then pulled it off of him. “You've got to get dressed.”
+
+“What should he wear?” Denise asked as she put on a robe, then looked at Ren. “What are you planning to do?”
+
+“No idea.” Ren said. “She just said she wanted to come over because she missed my face.”
+
+Denise chuckled. “That's a good one. I have to remember that.”
+
+They put the wet towels in the clothes hamper, and went out to Ren's room.
+
+“I'd say something casual. You're not going out anywhere, so no need for anything fancy.” Stella said. “Jogging pants? No, too casual.” She said. “Here. Dress pants.”
+
+“But...”
+
+“They're loose-fitting, and can be slipped off quickly.” Stella said. “They can function like jogging pants, but look a lot better.”
+
+Ren nodded and slipped them on. “What kind of top?”
+
+“A t-shirt should do.” Stella said, and flipped through the piles of them Ren had. “I think Elise is right. You do need new clothes.”
+
+“I know.” Ren said and looked in the drawer, too. “Is there one that... ah! That one!”
+
+Stella pulled out the one Ren wanted, and read the catch phrase on it. “Yes, I think that's appropriate.”
+
+“Where did you get that?” Denise asked.
+
+“Barbara gave it to me a few years ago.” Ren said. “I've never worn it.”
+
+“I think she'll love it.” Stella said and helped Ren put it on. “You're all set.”
+
+“Thanks.” Ren said and sat in the wheelchair to wait while Stella and Denise got changed. It didn't take them long, and they brought Ren downstairs to the living room to wait for Lisa. The house phone rang and Denise picked it up.
+
+“Thank you.” Denise said and hung up. “Taxi's coming.”
+
+“Great timing.” Ren said. “We just made it.”
+
+Stella pushed Ren in the wheelchair out to the main lobby, and Denise was about to open the front door when the doorbell rang. Ren stood up as Denise opened the door, and they all saw a very surprised-looking Lisa.
+
+“This really is the house?!?” Lisa asked, and looked around with very wide eyes. “It's like a mansion!”
+
+Ren chuckled. “Mi casa es su casa.” He said. “Come in.”
+
+Lisa stepped into the lobby and looked up at the large sweeping staircases on both sides of the room. “Oh, wow.” She said. “It's like a movie set!”
+
+“That's what I said when I first saw it.” Ren smiled and stepped close to give her a hug. “It's nice to see you again.”
+
+“You... you, too.” Lisa said and her face went a little red. Why do I feel embarrassed? She asked herself. It's just a hug!
+
+“Let's go into the living room.” Ren said, let her out of the hug, and sat down in the wheelchair. Lisa got a good look at his t-shirt.
+
+HEAVEN
+
+Doesn't Want Me, And
+
+HELL
+
+Is Afraid I'll Take Over
+
+“I really like your t-shirt.” Lisa said. “My mother would kill me if I wore something like that.”
+
+Ren gave her a small tour of the place as they went, and he moved from the wheelchair to one of the couches. Lisa took off her backpack and sat down almost a foot away from him, and he smiled at her. Her face flushed red again, and he leaned back on the couch to spread his arms out on the back of it. It was one of those short-top couches, so it was the perfect height for him to do that.
+
+“I'm sorry I wasn't in the game last night.” Ren said. “I popped on just after your text message, and saw the ones you left for me in the game.” He said, and Lisa inched closer. “Something happened, and I... well, I took a short break from the game and spent some quality time with Elise.”
+
+“Three game days isn't a short break.” Lisa said, and slid a little closer. “Can you tell me what happened?”
+
+“I can.” Ren said, and she slid next to him. “I should wait until later, though.”
+
+“Why's that?” Lisa asked and she leaned back against his arm and took a deep breath. “Was it bad?”
+
+Ren shook his head, and Stella coughed to get his attention.
+
+“I didn't see it as bad; but, that opinion isn't shared by others.” Ren corrected.
+
+Lisa smiled and leaned into his body. “That's understandable.” She said, and Ren very carefully put a hand on her shoulder. She didn't protest, and he hugged her with the one arm. Why does this feel so nice? She asked herself and snuggled into him. She put a hand on his chest to feel his fast-beating heart.
+
+“While Ren was playing the game yesterday; he got abducted into a pocket realm.” Stella said.
+
+“Which one?” Lisa asked.
+
+“What?” Stella asked, surprised.
+
+“There's 9 official ones.” Lisa said. “One for each element.”
+
+“Oh.” Stella said. “I should have guessed you'd know about them.”
+
+“I'm the Sage of Ages for the game.” Lisa said and smiled. “I better know about them, or I'd really suck at my job.”
+
+Ren chuckled. “It was Water.”
+
+“Really? They're really reclusive.” Lisa said, surprised. “How did it happen?”
+
+Ren told her the story, and when he got to the part about finding the water elemental in the engine, her face showed her anger.
+
+“Those... those... Ugh!” Lisa said and clenched the hand on Ren's chest into a fist. “I assume you dealt with them.”
+
+“I did better than that.” Ren said and told her how it had died, how he took the engine crew up on deck to find the water elementals as they attacked, and then being taken into the Water Realm.
+
+“That's sneaky.” Lisa said. “Players have been locked out of the pocket realms since you were in the Fire Realm.”
+
+“Ren!” Stella nearly yelled. “You were in another realm before?!?”
+
+Ren sighed. “Thanks, Lisa.”
+
+“I'm sorry.” Lisa said, and rubbed his chest as a kind of apology. “I thought you told her you met the Fire deity.”
+
+“No, he didn't.” Stella said, and looked a little angry.
+
+“I didn't think it was relevant.” Ren said. “I'd only been in there for 30 or so seconds real time, and about 2 minutes game time.”
+
+“And how long in the realm?”
+
+“About a week and a half.” Ren said. “Give or take a day or two.”
+
+“And that wasn't relevant?!?” Stella asked.
+
+“I didn't think it was at the time.” Ren said. “I had no idea about pocket realms or anything like that.”
+
+“Now that you've been in the Water Realm for a year and a half, is it relevant now?”
+
+“A year and a half?!?” Lisa exclaimed and looked at Ren. “Finish the story.”
+
+Ren nodded and told her how he negotiated for the prisoners lives in exchange for hard labour for a year and a half, and then about some of the things they did during that time.
+
+“Oh, my god.” Lisa said and lifted a hand to cup Ren's face. “You are a good man, Ren.” She said, and kissed him passionately. Denise and Stella didn't know what to say, because they thought she would react with outrage, just like they did. Lisa broke the kiss, and slid down slightly to tuck her head onto Ren's shoulder.
+
+“Why are you okay with this?” Denise asked Lisa.
+
+“Don't you see what he did?” Lisa asked. “He not only saved their lives, he stayed with them so that they couldn't have 'accidents' and be killed off while they served their time.” She said and smiled, then turned her head up to kiss his neck. “You were brilliant in how you negotiated so little time for them to serve.”
+
+Ren smiled, and stroked the side of her face. “Thank you.”
+
+“This is not going how I thought it would go.” Stella said. “Lisa, it's very dangerous for a mind to encounter the pocket realms like that.” She explained. “The brain can adapt to some things, but...”
+
+“It takes some getting used to at first; but if you practice and take it slow, you can adjust to it just fine after the first month.” Lisa said. “At least I did, anyways.”
+
+“WHAT?!?” Stella yelled. “Lisa, how...”
+
+“I can't divulge game secrets.” Lisa said and tapped her temple. “The VR headset scans you constantly. Even if you say things in real life, it can be discovered in the game.”
+
+“Like me telling Gloria that I loved Elerlyth.” Ren said.
+
+“Exactly.” Lisa said. “It's not foolproof, obviously.” She said and smiled. “Little things can be slipped past; but, anything major that you think about a lot? It'll find it.”
+
+“It's the preliminary scan when you log into the game.” Stella said, and understood what Lisa meant. “It compares it to the last time you used it.”
+
+Lisa nodded. “It's not as effective for people that only play occasionally, because it's too much for the system to keep track of; but, someone like Ren or myself that plays it all the time?” She chuckled. “We have no secrets from it.”
+
+Ren kissed her forehead. “I wonder if that's part of our connection with each other?”
+
+“It's definitely a factor.” Lisa said, and her face flushed a little red. “It helps a little that you're so cute and cuddly, too.”
+
+“Hey, isn't that supposed to be my line?” Ren asked her.
+
+“You can still use it.” Lisa said.
+
+“You... are... really... cute.” Ren whispered seductively to her, and she blushed. “Especially when you blush.”
+
+“That's... not true.” Lisa said sheepishly, and covered her face with a hand, and Ren grinned.
+
+“Hey, do you feel like going for a swim?” Ren asked her.
+
+“Yes!” Lisa said, her excitement quite apparent. “Ah... I mean, sure. I could take a dip in the pool.”
+
+Ren snorted a laugh over Lisa trying to act nonchalant about it. “I hope you brought a swimsuit.”
+
+“I didn't.” Lisa said. “I brought three.”
+
+Ren laughed. “Then hurry up and get changed so we can have some fun in the pool.”
+
+Lisa nodded and carefully got up off of him, opened her backpack and took out the small bag from Jacques.
+
+“The change rooms are there by the pool.” Ren said and pointed. “It's even got showers and a sauna.”
+
+“A full service pool area?” Lisa asked. “That's so cool!”
+
+“I know, right?” Ren said. “I'll grab my own swimsuit and be right out.”
+
+Lisa looked out the patio doors, then back at Ren. It looked like she was trying to decide something. Ren was about to ask her what she was thinking, when she quickly leaned down and kissed him on the lips, then walked out through the patio doors just as fast as she could.

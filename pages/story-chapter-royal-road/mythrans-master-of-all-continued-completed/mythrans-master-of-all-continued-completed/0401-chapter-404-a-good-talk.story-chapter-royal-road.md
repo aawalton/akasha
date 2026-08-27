@@ -1,0 +1,421 @@
+---
+id: 14fc9327-3b55-533c-ab65-19d84ea96dcf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 404 - A Good Talk"
+slug: 0401-chapter-404-a-good-talk
+partOf: mythrans-master-of-all-continued-completed
+position: 401
+ownLength: 3543
+unit: words
+publishedAt: 2017-10-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170796/chapter-404-a-good-talk"
+royalRoadId: "170796"
+---
+
+Ren typed up a text message to see if Elise was busy, and she texted back that she wasn't. The phone rang a moment later, and Ren answered it.
+
+“Hello? Who the hell is this?” Ren asked.
+
+“It's me, you numb-skull.” Elise laughed. “I'm just between meetings at the law firm. What's up?”
+
+“Oh, not much.” Ren said. “I finally completed my promise to the Queen of the Dark Elves.”
+
+“That's great!” Elise said. “Did you use the Enlarge Person spell like I suggested?”
+
+“I did, and she was just as shocked as you said she would be.” Ren chuckled. “It was almost a little too much for her.”
+
+“Just almost?” Elise asked.
+
+“Hey, I save all the good stuff for you, remember?”
+
+“I don't know if I should be grateful for that or not.” Elise laughed. “No, wait! I am.”
+
+Ren laughed, too. “The party finished the quest as well.”
+
+“You're kidding!” Elise said. “What was the cause?”
+
+“Ghouls.” Ren said, and Elise went quiet. “Elise?”
+
+“Hold on for a minute.” Elise said and put her cell phone down on her briefcase and took out her tablet. She checked the server logs, and then checked the tech team support schedule. When she saw the reports, she nearly dropped the tablet. She took a deep breath and picked up the phone.
+
+“Ren, please tell me you killed them all.”
+
+“I did.” Ren said. “I also found the Dark Elves were involved and went to Lylyth to ask her about it.”
+
+Elise sighed. “Oh, Ren.”
+
+“What is it?”
+
+“That was the right thing to do, but...”
+
+“But what?”
+
+“By doing that, you met the conditions for the event.”
+
+“What event?”
+
+“I... I can't tell you what it's called. It's still a secret.” Elise said. “What I can tell you is that it's a world class event.”
+
+“Is there anything I can do to stop it?”
+
+“No. Once it's triggered, it's only a matter of time.”
+
+“I'm sorry.” Ren said, and Elise chuckled.
+
+“It's not like you would have done something differently if you did know.”
+
+“I... no, you're right. I still would have done it the same way.” Ren said.
+
+“I know you would.” Elise said. “All you can do now is deal with the consequences.”
+
+“Can you give me a hint on how to do that?”
+
+“Your free casting ability for a certain element will be very, very handy.” Elise said. Ren didn't even have to think about it. He knew that she meant Fire, because that was the element that was instrumental to deal with the ghoul horde that his party had fought.
+
+“Thanks.” Ren said. “I've got something else to tell you, too.”
+
+“What is it?”
+
+“Do you remember the dancers I rescued from that exploiting idiot at the Pink Pearl?”
+
+“I do.” Elise said. “The game hasn't replaced that business yet.”
+
+“It doesn't have to.” Ren said. “I just did that.”
+
+“You did?”
+
+“It's called the Pleasure Palace. It's an 80 foot wide by 80 foot long castle in my county, and they gave me the first dance.”
+
+Elise was quiet for a moment. “Did you like it?”
+
+“You're kidding, right?” Ren chuckled. “I wasn't getting out of there without doing something, not after paying 12 dancers for a week's work.”
+
+“You have got to stop being so damn nice to the women you meet.” Elise chuckled. “How many of them did you have to sleep with?”
+
+“Just the one.” Ren said. “They had a competition to see who had the best talent, and the winner got to give me the first dance of the night.”
+
+“Did you enjoy it?”
+
+“It was okay at the end.” Ren said. “I did it for her, and she enjoyed it.” He smiled. “That's all that matters.”
+
+“Thanks for telling me.” Elise said.
+
+“Of course I'd tell you.” Ren said. “It might have been virtual, but it was still sex with someone other than you.” He explained. “I'm never going to hide anything from you.”
+
+Elise chuckled. “You called me right away, didn't you?”
+
+“Yeah.” Ren said. “Plus, Denise is standing here and staring daggers at me.”
+
+Elise laughed. “Put her on.”
+
+“Sure.” Ren said and held the cell phone out to Denise. “She wants to talk to you.”
+
+Denise took the phone. “Hello, Elise.”
+
+“Hi.” Elise said. “Thank you for looking after Ren.”
+
+“It's my job.” Denise said, then sighed. “You're okay with what he did?”
+
+“I'm pretty sure it was only a one time thing.” Elise said. “Otherwise he would have said he was seeing someone else.”
+
+“But...”
+
+“He gave those women a pile of money, Denise.” Elise said. “You know what they can be like with rich clients.”
+
+“I... yes. I have some idea.” Denise said.
+
+“I'm surprised he snuck out of there with only having sex with one of them.”
+
+“Me, too.” Denise said.
+
+“Put Ren back on.” Elise said, and Denise handed the cell phone back to Ren.
+
+“Yeah, what do you want now?” Ren asked and started to laugh.
+
+“Keep it up, smart-aleck.” Elise said. “I might change my mind about coming over to visit tomorrow.”
+
+“Wait, wait!” Ren said and stopped laughing. “I'll be good!”
+
+“You better be.” Elise said and smiled.
+
+“Oh! Now that I'm talking to you, do you know why there's hidden skills and recipes?”
+
+“You don't meet the requirements to see what the things are.”
+
+“What? How can I unlock skills when I level, but not have the requirements?”
+
+“They must be either against your character build, or you need to see or do something before you can use them.”
+
+“Well, damn.” Ren said. “How would I do or see something I don't know what I need to do or see, to get something that I don't know what it is or what it's for?” He laughed. “That was rhetorical by the way, so you don't have to answer it.”
+
+“That's good.” Elise said. “I didn't follow your thoughts there at all.”
+
+Ren laughed again.
+
+“They're ready for me again, so I have to go.” Elise said when a legal aid came out to get her. “I'll see you tomorrow.”
+
+“Bye, Elise.” Ren said. “I love you.”
+
+“I love you, too.” Elise said and ended the call.
+
+Ren hung up the cell phone and put it back on the dresser.
+
+“She's a forgiving woman.” Denise said.
+
+“Yeah, she's great!” Ren said. “Of course, I was already with a few women when she came onto the scene, but she was okay with that.” He smiled. “Both with the real and the virtual.”
+
+Denise sighed. “Ren, I... I don't know if... I mean, I like you. I like you a lot.”
+
+“I know you do.” Ren said, and he didn't need his Emotion Siphon ability to know she was surprised. “I've seen the way you look at me sometimes.” He held a hand out to her, and she came over to the bed and sat down as she took it. “I've seen both desire and missed opportunities in your eyes.”
+
+“Ren...”
+
+“It's all right.” Ren said. “I told you. There's no rush. I'm going to need your help for a long time, and if at some point you decide that you want to kiss me like you've always wanted to...” He used his other hand to reach up and touch her lips with a single fingertip. “...I'll pucker up for you.”
+
+“Ren, I... I don't... if it happens, I don't know if I can share.”
+
+“You did pretty well at the clothing shop that time, when we were shopping for bathing suits.”
+
+Denise closed her eyes. “It's still not my fantasy.”
+
+Ren chuckled. “You don't know how disappointed I was when you leaned in to tell me that the sales girl Lily was watching, and you weren't trying to kiss me.”
+
+Denise opened her eyes and stared at him. “You... wanted me to kiss you then?”
+
+“Did I ever.” Ren said and smiled. “It's not like it was a fantasy or anything; but, you and Elise had me turned on and I was making out with her... and the both of you were gripping my behind...”
+
+Denise chuckled. “You little scamp.”
+
+Ren moved his finger to her cheek, and then her ear. “That time it was me that thought it was a missed opportunity.” He said and cupped the side of her face. Denise tilted her head and he caressed her skin, then ran his hand through her short blonde hair.
+
+“Ren...”
+
+“I'm not pressuring you at all.” Ren said and laid a hand over her heart. “I know more than anyone what it means to start something with me.” He said. “Even Gloria only just admitted to herself that she wants to change what we are to each other, and I've known her in the game for a really long time.” He chuckled. “Hell, I've been having sex with her for most of that time, and it's still taken this long for her to just tell me what she wants.”
+
+Denise looked at Gloria's inert body on the bed. “I'm sorry she just left you like that.”
+
+“So am I.” Ren sighed. “But, it's just like I told Patty. What bothered me about it was that she left and didn't tell me about it to my face, then made sure I couldn't contact her.”
+
+“You do realize you don't own her, don't you?” Denise asked. “She can come and go whenever she wants, right?”
+
+“She doesn't have to spend any time with me at all.” Ren said. “But, she came with me to spend time with me; then she snuck out, left me a note, and told me not to be mad about it.” He said. “To be honest, that pissed me off.”
+
+“You?” Denise asked, and he nodded.
+
+“I'm not sure why it bothered me so much, though.” Ren said. “Maybe... just maybe... it's because it shows that she's always going to do it?”
+
+“That's possible.” Denise said. “I read her note, and that does seem like she would leave any time her friend called.”
+
+“Son of a BITCH!” Gloria yelled and pulled off her VR headset. “Goddamned motherfu-” Her words cut off as she saw both Ren and Denise staring at her. “Oh, right. I'm still here.” She sighed. “I'm sorry for my outburst.”
+
+“I'd ask what's going on, but I'm pretty sure I know what happened.” Ren said.
+
+“Yeah, I died.” Gloria said and put her headset down, then held her head in her hands. “It was horrible!”
+
+“I'm glad.” Ren said.
+
+“Excuse me?”
+
+“Ren, don't.” Denise said. “Leave her alone for a bit.”
+
+“No.” Ren said. “This is the perfect time to talk about it.”
+
+“About what?”
+
+“About running off to face unknown dangers alone, obviously.” Ren said. “I'll toss in getting yourself killed, too.”
+
+“Look, I don't have to answer to you.” Gloria said, angrily.
+
+“No, you don't.” Ren said. “I didn't ask for an itinerary of every move you do in the game.” He said. “Hell, I never ask you for that!”
+
+Gloria lifted her head and looked at him.
+
+“You came to my new place to spend time with me, then I woke up and you were gone.” Ren said. “You didn't even bother to tell me you were going.”
+
+“I told Teepo!”
+
+“Yeah, and told him to stay quiet about it.” Ren said. “Despite my specific instructions to always wake me, he listened to you instead.” He sighed. “I'm not happy with him, either.”
+
+“I also left a note!” Gloria said.
+
+“Yeah, with the NPC Mayor.” Ren said. “What if I had just stayed upstairs? Or if she had to leave before I woke up? Would I have gotten your note then?”
+
+Gloria closed her mouth before she could argue about it. “I'm sorry.”
+
+“You should be.” Ren said. “You know I'm trustworthy, right?”
+
+Gloria didn't say anything.
+
+“I'd never reveal any information you tell me not to.” Ren said. “You could have blindfolded me, or any other tactic to keep Hailey's location secret.”
+
+Gloria looked down at her hands. “Ren.”
+
+“I don't want to hear any kind of justification for abandoning me.” Ren said. “You're supposed to be a part of my party. Your danger is supposed to be my danger.”
+
+Gloria shook her head. “I couldn't, Ren!” She said. “It's Hailey's quest, and I can't just invite anyone along that I want!”
+
+Ren laughed. “Were you invited to Clint's quest by Clint?”
+
+“I... no.”
+
+“There's no game rules about bringing along others to fight.” Ren said. “They just don't share in the party's copy of the XP split.”
+
+“I got enough XP to level up twice from that quest.” Gloria said.
+
+“No, what you got was a split of a copy of the XP that I earned.”
+
+“Wh-what?”
+
+“Clint's party earned over 2 million XP for that quest. It put the entire team at the second spot of the XP leader board.” Ren said. “Just above my second best score, and below my permanent top spot.”
+
+“How did you get that, anyway?” Gloria asked.
+
+“I broke the XP conversion system.” Ren said.
+
+“You WHAT?!?” Gloria stared at him with wide eyes. “H-how did you do that?”
+
+“It doesn't matter.” Ren said. “I would have gained a ton of levels from it, but it crashed.” He smiled. “I won't let you distract me.”
+
+“Ren, please...”
+
+“You ran off, then got yourself killed.” Ren said. “I knew you were running into a dangerous situation when you left behind the only way I could contact you.”
+
+“I couldn't have you call me when I was in the middle of something, so I left it.”
+
+“Yeah, and you also couldn't contact me for help.” Ren said. “How did that work out for you?”
+
+“Ren.” Gloria said. “I told you not to be mad about this.”
+
+Ren chuckled. “You know, saying that actually made me mad.” He said. “I was going to just push it aside and say it was no big deal, and then you wrote that.” He looked at her with squinted eyes. “You knew what you were doing was something I wouldn't like, and what did you do? You did it anyways and died.”
+
+“I might not have, though.” Gloria said, and Ren chuckled again.
+
+“I said I didn't want to hear any justification.” Ren said.
+
+“Geez, Ren! What do you want from me? I already said I was sorry!”
+
+“I want you to know that what you did was unnecessary.” Ren said. “Getting up and going is fine. Helping your friend is fine. Dying for that friend is fine.” He smiled. “Sneaking away and not telling me yourself wasn't.”
+
+“I did that because you would have insisted on coming along!” Gloria blurted out, and Ren looked at her.
+
+“I can't deny it.” Ren said. “I could also just follow you and see what was going on.”
+
+“You see? I didn't want you to do that.”
+
+“You didn't give me that option, though.” Ren said. “I might have only given you a few wands and things to help, then wished you good luck, too.”
+
+Gloria didn't say anything and he smiled.
+
+“You didn't give me the chance to do that, either.” Ren said. “I don't know if it would have made any difference at all; but, it could have.”
+
+“Ren...”
+
+“Now you're stuck waiting for 6 hours to regenerate.” Ren said. “Did you set a new spawn point?”
+
+Gloria nodded. “It's at Hailey's place.”
+
+“Well, if you go back in when the timer's up, send me a message and let me know what you dropped when you died.” Ren said. “I'll try to replace it.”
+
+“You don't have to do that.” Gloria said. “Whatever it is that I dropped, I'll just have to deal with it's loss.”
+
+“You do remember the requirements, right?” Ren asked. “One stored item, one equipped item, and a percentage of your money.”
+
+Gloria sighed. “I know.”
+
+“Well, it's time for supper.” Denise said. “Ren, do you want to eat here or downstairs in the kitchen?”
+
+“That depends on what we're having.”
+
+“Beef stew.” Denise said. “You gave me the idea.”
+
+Ren smiled. “I hope it tastes good.”
+
+“Well, 9 out of 10 canines preferred it; so, it's the best dog food in a can you can buy.” Denise said, and Ren laughed.
+
+“It's not really dog food, is it?” Gloria asked.
+
+“No, but depending on the brand you buy, it sure smells like dog food.” Denise said. “I actually bought a can once to compare, and I found something disturbing.”
+
+“Oh, god.” Gloria said. “Don't tell me it was a finger or something.”
+
+“No.” Denise laughed. “That would have been preferable I think.”
+
+“What did you find?”
+
+“The dog food looked like a higher quality meal.” Denise said. “Bigger chunks of meat and vegetables, thicker broth, and it came in a can twice the size for half the price.”
+
+Gloria blinked her eyes for a few moments. “Okay, yes. I think finding a severed finger isn't as bad as seeing dog food as a much better meal!”
+
+Ren laughed. “Denise, I think you've disgusted her enough that she's not going to stay for supper.”
+
+“My plan worked!” Denise said, and Gloria chuckled.
+
+“I think I will eat in the kitchen.” Ren said. “Right after a quick visit to the bathroom.”
+
+Ren went into the bathroom and Gloria gathered up her gear and packed it away. She looked at what she was wearing and figured it was good enough to get her home in without having to change. Ren came out of the bathroom and sat down in the wheelchair.
+
+“Gloria.” Ren said, and she turned to look at him. “I'm sorry you died in the game.”
+
+“So am I.” Gloria said.
+
+“Did you learn a lesson from it?”
+
+“Yes.” Gloria said. “Sneak attacks only work when they don't know you're coming.”
+
+“That's just common sense.” Ren laughed. “I meant about letting me help you before running off.”
+
+“You've never cared about that before.” Gloria said. “I've left the business apartment lots of times without telling you.”
+
+“We've never been asleep in bed together before when it happened.” Ren said. “I would have mentioned it before now if it had.”
+
+“But...”
+
+“You'd do it again, wouldn't you?” Ren asked her, and she sighed.
+
+“I still can't tell you where she lives.”
+
+“I don't care about that!” Ren said. “I care about you!”
+
+“Ren, it... it's just a game.”
+
+“Maybe to you it is.” Ren said. “To me, it's...” He sighed. “Never mind.” He looked up at Denise. “Please take me to the kitchen.”
+
+Denise pushed the wheelchair to the door of the bedroom and took Ren over to the elevator in the lobby on the second floor. Gloria gathered her things and walked down the hallway. The elevator door opened and Denise pushed Ren into it facing the back of the elevator, hit the first floor button and the door close button, then stepped back out.
+
+“Hey!” Ren said and the elevator door closed.
+
+Denise turned and looked at Gloria. “Look, I know I don't really have a right to say anything; but, Ren cares a lot about you. Waking him up and explaining things would have just been common courtesy.”
+
+“Look, I know I messed up; but, it's not that big of a deal.” Gloria said.
+
+“You're wrong. It is a big deal.” Denise said. “He's supposed to trust you. If you just leave as soon as a friend calls, how is he supposed to trust that you're going to stay around from now on?”
+
+“What do you mean?”
+
+“You were cuddled in bed together. You comforted him, and he felt safe.” Denise said.
+
+“How do you know how he felt?”
+
+“Experience.” Denise said. “Then you snuck out and left him all alone.” She said. “He didn't go into panic mode because of it, thank god.”
+
+“I only left because-”
+
+“You didn't leave him.” Denise said and squinted her eyes at Gloria. “You abandoned him.”
+
+“I... I didn't!”
+
+“Those were his words, remember? That's how he described it.” Denise said.
+
+“You're right about what you said before.” Gloria felt her anger rise. “You don't have a right to talk to me about it.”
+
+“I'll stop talking about it if you promise that you'll never do it again.”
+
+“I'm not going to promise you anything.” Gloria said and walked around Denise to push the elevator button. “It's between Ren and me, and...”
+
+There was a dull ringing sound, and they didn't hear the elevator move. Gloria hit the elevator button again, but the light was still on and the elevator wasn't coming back.
+
+“Don't tell me it's broken.” Denise said, then what she said hit her. “REN!”
+
+Denise ran across the lobby to the set of stairs that led down to the main floor. Gloria had dropped her things and ran after her, then beat her to the bottom of the stairs. The dull ringing was significantly louder as she ran across the large space between the sweeping staircases and through the large double doors to the elevator, then staggered to a stop with Denise right beside her. Before them was an overturned wheelchair, it's wheel slightly warped as it spun, and Ren was sprawled out on the floor.
+
+He wasn't moving.

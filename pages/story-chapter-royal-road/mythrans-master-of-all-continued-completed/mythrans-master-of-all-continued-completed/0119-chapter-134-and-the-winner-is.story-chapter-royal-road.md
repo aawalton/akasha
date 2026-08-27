@@ -1,0 +1,383 @@
+---
+id: f1e4649b-ba3e-5ad1-8814-175544016d3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 134 - And The Winner Is..."
+slug: 0119-chapter-134-and-the-winner-is
+partOf: mythrans-master-of-all-continued-completed
+position: 119
+ownLength: 4124
+unit: words
+publishedAt: 2017-01-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110674/chapter-134-and-the-winner-is"
+royalRoadId: "110674"
+---
+
+Notice!
+
+You have entered PvNPC Mode: Duel
+
+Ren watched as the fat dwarf waddled over to the edge of the Hole where Ren stood. Six Warriors came over with several sets of ladders and braced them against the wall. The fat dwarf walked down them, and they bent considerably. Once he was on the floor of the Hole with Ren, the Warriors gathered up the ladders and went back to their positions.
+
+“You are the challenger.” The fat dwarf, Khirbor said. “You choose the rules.”
+
+“No weapons, since that's the rule here in the Hole.” Ren said, then looked around. “Submission or unconsciousness to win.”
+
+“Agreed.” The fat dwarf said. “I forego the substitute challenger rule.”
+
+“As do I.” Ren said.
+
+“Witnessed.” A Warrior said. “What are the conditions?”
+
+“If I win, I'm free to leave.” Ren said. “I get reparations for the scammed gold, all future cuts will be forwarded to House Neram, and I'm taking Croggart with me.”
+
+“And if I win?” Khirbor asked.
+
+“I'll pay you 50 platinum.”
+
+“By the gods, he's crazy!” “He doesn't have 50 platinum!” “He didn't lie, though.”
+
+“Why are you doing this for me?” Croggart asked.
+
+“You're Groggot's brother.” Ren said. “That's reason enough.”
+
+Croggart snorted a laugh, and nodded slightly. The fat dwarf waddled over to the 20 foot square depression in the middle of the room, and Ren followed him. They stood on either side of it, and Khirbor smiled.
+
+“You made a mistake when you set the rules.” The fat dwarf said as he threw off his clothing. “You didn't mention armor! I'm not fat you fool! This is all muscle and metal!” He laughed when he revealed a set of full plate iron armor, then put on armored gauntlets.
+
+“You're right, I didn't mention armor.” Ren said, then equipped his set of golden steel plate armor. “But I'm no fool.”
+
+Gasps were heard around the room, especially from Khirbor. “Where did that come from?!?”
+
+“Didn't you know I was an Adventurer?” Ren said and smiled. “I'm sure your contact at House Lodur told you all about me.”
+
+The gasps were followed by growls. “So it was a setup!” “He was right!” “Those bastards!”
+
+“The rules and conditions have been set.” A Warrior said. “FIGHT!”
+
+The fat dwarf waddled forward and Ren stared at him.
+
+“You can barely move?” Ren asked. “I thought you were playing along with your cover.”
+
+Khirbor grinned. “I was.” He ran towards Ren easily, and Ren grinned as a huge fist swung for his head. He grabbed it, turned and yanked it over his shoulder. The fat dwarf had a lot of momentum at that point, so he sailed over Ren's back and landed several feet away with the sound of a few clangs of metal. Khirbor put his armored hand down and felt the dirt floor.
+
+“What?!?” He said in surprise, then looked over at Ren, who held the gauntlet and half of an armored arm.
+
+“Iron is really weak if grabbed properly.” Ren said, crushed the metal in his hands, then tossed it aside.
+
+“How did you...” Khirbor said.
+
+“I'm a blacksmith.” Ren said. “I could take your armor apart with my eyes closed.”
+
+The fat dwarf scowled and stood. “I will have that 50 platinum!” He said and started to stomp his feet when he walked. Ren felt the tremors, and raised an eyebrow.
+
+Teepo, is this a special attack?
+
+“Probably.” Teepo said. “I've seen something similar; but that was a Royal Steed with Thunder Stomp.”
+
+What does it do?
+
+“Crushes anything it steps on.”
+
+Then I won't stay on the ground. Ren thought, and ran back towards the wall. The dwarves got out of the way, and he took off running. He heard gasps of surprise and hollers of support as he crossed the distance in only a second and then jumped into the air to deliver a classic clothesline move. Ren saw shock on Khirbor's face for a split second and Ren's arm hit the chest plate. He tackled the fat dwarf to the ground with a resounding crash of metal on metal. Ren stood and looked at Khirbor trying to right himself. An arm-sized dent was in the chest plate, and Ren shook his head.
+
+“Whoever made that wasn't using enough metal.” Ren said and punched the chest piece near each shoulder where his Vision of Impurity said there were flaws in the metal. “It's too brittle to take many impacts.” The spots he'd punched crumbled, and Ren picked up the chest plate. He used Enchanted Eyes, Read Rune and Decipher. There wasn't anything on the metal at all.
+
+“You don't even have any enchantments on your armor.” Ren shook his head again. “Why did you accept a challenge without proper equipment?”
+
+“I thought I had an overwhelming advantage, you idiot!” The fat dwarf spat. “Prisoners aren't supposed to have full plate armor!”
+
+Ren chuckled. “So you're just as short-sighted as you are arrogant.” He leaned in and stared at the dwarf. “You should always think ahead about how things might turn out. If you had, you'd have chosen the substitute fighter.”
+
+“Why?”
+
+“Then I wouldn't have been able to do this.” Ren said and punched all the weak spots of the armor. It crumbled and Ren picked up each piece, then crushed it. The dwarf was left with a loose-fitting piece of cloth around his body. “Do you submit?”
+
+“I'm not finished yet! That's just armor!” Khirbor rolled out of reach and stood up. Now that the armor didn't impede him, he moved much faster. He was only 2 inches shorter than Ren; but nearly 5 times Ren's size, and it was all muscle. Ren unequipped his golden steel armor, and silence fell across the room.
+
+The fat dwarf grinned. “Ha! You're a bigger fool than I realized!” He said and stepped forward. “Only fools give up their advantage like that!”
+
+Ren stood there and pointed to the cheek on the left side of his face. Khirbor's face flushed purple and he hauled off and punched Ren in the face. Ren's head didn't whip to the side from the impact, and Ren started to laugh.
+
+“I know women who can hit harder than that!” Ren said, and he let the fat dwarf punch him over and over. He watched his own Health bar drop down to 95%. Khirbor's punches got weaker and weaker, however; and Ren smiled.
+
+Ren made a fist with his right hand, and lifted it over his head, then did the classic windmill motion. All eyes watched the clenched fist make 2 circles, then Ren stepped forward and slammed the fat dwarf under the chin with an uppercut. Khirbor was knocked out instantly, thanks to Ren's Skull Cracker ability, that granted a 20% chance to Stun immediately. Ren followed through with the punch and Khirbor's massive unconscious body lifted 2 feet into the air, and dropped to the ground on his back, with a loud thud.
+
+Notice!
+
+Congratulations! You have defeated your opponent in hand-to-hand combat.
+
+Rewards: 1000 XP
+
+Fame Bonus: 58%
+
+Notice!
+
+You have defeated an opponent 100 Levels higher than you.
+
+Fame: +1000
+
+Because Khirbor Tarum was a Prince of House Tarum, and you soundly defeated him in front of more than 350 witnesses (including members of his own family), you have gained both Honor and Influence.
+
+Influence: +1000
+
+Honor: +1000
+
+Notice!
+
+PvNPC Mode has ended.
+
+After a moment of silence, cheers erupted and Croggart grabbed Ren in a bear hug, then lifted him up onto his shoulder.
+
+Well, I said I had to put on a show. Ren thought, and Teepo chittered in laughter.
+
+*
+
+Elerlyth woke up in the comfy bed and stretched. “I really have to ask where he got this bed.” She sat up and got a familiar feeling in her abdomen. Elerlyth rubbed it and sighed. “Damn.” She said and lay back down. “And only 2 hours left before sunrise.” She opened the message system and typed up a quick message. “He'll never get here before I have to log out, though.”
+
+*
+
+While everyone celebrated, Ren received a message from Elerlyth. Crap. Ren thought, then tapped Croggart on the shoulder to be let down. Ren and Croggart walked over to the 4 dwarfs that still stood in the fat dwarf's observation room. “I hope I can count on you to make him keep his word.”
+
+“You should have no worry on that account.” The dwarf that had confronted Khirbor earlier said. “It will be taken care of.” He took out a piece of parchment and wrote several sentences on it, and handed it to Ren, along with 7 gold. “Your release papers.”
+
+“You can do that?” Ren asked, surprised.
+
+The dwarf nodded slightly. “The Lord of the House is our father.”
+
+Ren's eyes widened. “My apologies for not greeting you properly.”
+
+He chuckled. “Princes don't have to greet each other.”
+
+“Oh.”
+
+“New to the life are you?”
+
+“Yeah, by about a week.”
+
+The dwarves around them laughed, and Ren laughed, too. A minute later, the dwarf spoke again.
+
+“You're free to go.”
+
+“Thank you.” Ren said and nodded slightly to Croggart and walked across the Hole to the Brig's entrance. Ren received several nods and pats on the back. Teepo dropped down into the hood as Ren passed, and the Warrior on the Brig side put a ladder down. Ren and Croggart climbed it and went out the door. A Warrior let them through the cage across the hallway, and when they approached where the ramp was supposed to be, there was just a blank wall.
+
+“What do we do now?” Croggart asked.
+
+Ren looked around and frowned. “Knock, maybe?” He said and walked to the wall. When he was next to it, it dropped automatically. “That's neat.”
+
+“Forget that!” Croggart exclaimed. “We're getting out!”
+
+Ren laughed as Croggart didn't wait for the ramp to finish dropping and climbed up it and ran for the cell's door, then hollered for the guard. Ren walked up the ramp at a leisurely pace and by the time he got to the cage door, the guard was there.
+
+“What the hell?” He asked, then Ren held up the release papers.
+
+The guard grinned. “We just can't seem to hold you here!” He opened the door and Ren led Croggart out of the Brig and through the path to the main gate of the Garrison.
+
+“How do you know where to go to get out?” Croggart asked and looked around. “All these things look the same!”
+
+“I spent a week here.” Ren said. “A couple days of that in the Brig.”
+
+Croggart laughed. “No wonder my brother likes you.”
+
+“Not enough to quit the army, though.”
+
+“What?”
+
+“I asked him to come with me when I got my Honorable Discharge.”
+
+Croggart shook his head. “Well, he wanted an adventure.”
+
+Ren snorted a laugh. “He doesn't know what he's been missing.”
+
+Croggart clapped Ren on the shoulder. “I'll tell him.”
+
+They passed out through the front gate and Ren told him he had to stop and send a message. Ren typed up an apology, telling Elerlyth where he had been. She messaged back and said that she had to log out in just under 2 hours and to not bother trying. He responded that he would try anyways, and she should wait for as long as she could. She thanked him and Ren closed the message system.
+
+“What was it?”
+
+“A friend needs my help, and I have to get to her.”
+
+“How long?”
+
+“2 hours.”
+
+“What are we waiting for? Let's run!” Croggart said and Ren grinned as they took off running. It took about half an hour to get all the way back to House Neram and Ren went into the house, ignoring the surprised look on Golir the guard's face.
+
+“Nathalia!” Ren hollered and she came out of his bedroom.
+
+“Ren!” She ran to him and he kissed her deeply.
+
+“I can't stay.” Ren said. “Elerlyth messaged and I have to get to her as soon as possible.”
+
+Narhilda came out of her bedroom and smiled. “Ren.”
+
+He went to her and gave her a kiss on the cheek. “I'll be back soon.”
+
+She nodded slightly and Ren kissed Nathalia again.
+
+“Who's this?” Narhilda asked.
+
+“Groggot's older brother. I'll explain later. Bye!” Ren said and left the house and went to the stable. “Princess! I need your help!”
+
+She hopped up and stepped out of her crate. Ren stored it and smiled. “Ruck! You, too!”
+
+Ruck opened his cabinet and crawled out and onto Ren's back.
+
+“By the gods! What's that?!?” Croggart exclaimed.
+
+“No time to explain.” Ren said. “Ruck, saddle and harness, please!” Ren put the saddle and harness on Princess when Ruck passed them to him, and tightened everything securely. “Princess, I have a present for you.”
+
+Ren took out the Legendary Hooves of Speed, and Princess huffed and nodded her head quickly. Ren opened her inventory and dropped the hooves inside.
+
+“Equip them, please.” Ren said, and Princess' hooves changed color from black to a bright gold color. She took in a deep breath and looked at them. She bleated in delight and licked Ren's face. “Don't thank me yet.” He said. “I have to ride you.”
+
+Princess stopped mid-lick and looked at him.
+
+Ren laughed. “It's okay, I have the solution for that.” He said and took out the potion of Giant Strength. “Drink this.” Ren said and poured it into her bowl. She drank it eagerly and was encompassed in a blue glow for a few moments. She stood up to her full height and nodded to Ren. He stored the bowl and climbed up into the saddle easily. Princess didn't sag at all from the weight.
+
+“There's a tent beside the House if you want to stay for the night, or I can give you a house to live in, if you want to move here.” Ren said to Croggart's shocked face, then Nathalia came outside and Ren turned to her. “I'll be back sometime tomorrow, My Love.”
+
+“I'll be here.” She said and smiled.
+
+“I'll fix the front gate when I get back.” Ren said and grinned.
+
+“Fix the what?”
+
+“Princess! Go!” Ren said and Princess took off running. There was a blur and a loud bang, followed by a wood crunching sound. The remains of the gate flew into the air as it shattered, and the splinters scattered across the road like it had exploded. Ren didn't see Golir jump aside at the crash; because he was too busy holding on to the reins. “Hahahaha!” Ren laughed as Princess covered the several miles to the city in about 30 seconds. He was glad there wasn't anything traveling on the roads, as he didn't think Princess would even bother trying to go around anything she met.
+
+Teepo was stunned completely speechless at the unrelenting speed that he was traveling at.
+
+It took about 20 minutes for them to arrive at the warehouse by the mountain. Ren pulled Princess to a stop before she overshot the spot.
+
+“Easy girl.” Ren said as she breathed really hard. “The potion must have worn off.” He slid off the saddle and Princess nearly collapsed in relief. “You did great!” Ren said, and kissed her muzzle.
+
+Princess froze solid and stared at Ren.
+
+“Thank you!” He said, not noticing her reaction as he removed the saddle and harness for Ruck to store. He led Princess inside the warehouse and took out her crate. She settled down onto the cushion and Ren took out her bowl and filled it with food. He opened the small cabinet mounted on the side and Ruck climbed into it.
+
+“I'll be back as soon as I can.” Ren said and ran up the stairs. He took the nails out of the cabinet door and asked Teepo to get back in the ring. Teepo stayed quiet as he dissolved, and Ren waited for a moment, then stepped through the portal. He opened the cabinet on the other side and concentrated on his Fear Aura.
+
+*
+
+“Ohhh...” Elerlyth let the moan slip before she could stop herself. He's here. She put a hand on her abdomen. He's really here!
+
+*
+
+Ren heard a woman's voice, and went into the bedroom. He saw that Elerlyth's skin was a light ashen color, and he let his concern for her flow out. She drank it in eagerly, and smiled.
+
+“I don't know how you did it...”
+
+“I told you I'd come as fast as I could.” Ren said and grinned.
+
+Elerlyth felt his amusement at making a pun, and she grinned, too. “We've only got an hour and 15 minutes left.”
+
+“Plenty of time to screw your brains out.” He waggled his eyebrows up and down. Elerlyth laughed and stored her armor and bodysuit into inventory. Ren stored his clothing, but kept the Dire Wolf Hooded Cloak on, so she could keep feeding on the Fear. He went to the bed and stood beside it, already ready for the encounter.
+
+“It hit you harder this time, didn't it?” Ren asked, then ran his hands along her thighs and pulled her over to the edge of the bed. He let his admiration of her, and then sorrow for how she looked, flow into her.
+
+“It did.” Elerlyth said and nodded. “I went three whole days and nights with nothing at all, and then it felt like a black hole was sucking me in.” She sighed. “I was tempted to log out just so I wouldn't feel it.”
+
+Ren shook his head as he slipped himself inside of her. “You'd get it a lot worse when you logged back in.” He said, and Elerlyth caught her breath as he started to move. “When I fell that first time into that nearly bottomless pit and logged back in, it was almost too much to handle.” Ren thought a little about how he felt at that time, and she stopped breathing.
+
+“Good god, Ren! That's how you felt?” Elerlyth asked, then she started breathing again.
+
+“Some of it.” He smiled and kept moving.
+
+“And I thought I felt bad with this ability... oh, a little to the... yeah, right there...” Elerlyth licked her lips. “I... I still have no idea why you taste so good.” She said, then put her hands on his shoulders and pulled herself up to look him in the eyes. “Thank you for getting to me so fast.”
+
+“You're welcome.” Ren said. “I think you like how I taste so much because I'm both able, and willing to feed you. Plus, I don't suffer the same consequences as the others who've tried.”
+
+Elerlyth nodded, and Ren went faster and her eyes widened.
+
+“I had to use a set of magic hooves and a Potion of Giant Strength to get here.” Ren explained. “20 minutes to get here, and the trip back will take about 5 hours.”
+
+“You used a what and a what?” Elerlyth asked surprised, then closed her eyes as Ren hit his stride.
+
+Ren chuckled. “The hooves were for my mount, and I gave her the Potion of Giant Strength so she could hold my weight for such a long time.”
+
+Elerlyth's breath went faster and faster, and so did Ren. She fed on his enjoyment that she was getting so much enjoyment from him, his worry that he almost missed this visit, and happiness that he'd made it in time.
+
+“Close... so.... Ohhhhh!” Elerlyth wrapped her legs and arms around Ren, and they finished together. She let her own feelings go this time, and Ren saw them pass over her face as they stared at each other. She admired him for doing this for her, appreciation for how he'd worked so hard for her, and then gratitude for doing the impossible to get to her in so short a time. Ren let her feel how he liked that he didn't have to be gentle, didn't have to hold back, and didn't have to be careful if he didn't want to be. He then reciprocated the same emotions she had back to her; admiration, appreciation, and gratitude. Elerlyth drank it all down. She spent a few minutes drinking in the afterglow they shared as well, then she let him go and lay back on the bed.
+
+“You're... you're... indescribable!” Elerlyth said. “You know that, right?”
+
+“Indescribable is a description.” Ren chuckled as she snorted a laugh, and Elerlyth smacked his arm a few times. “Can I assume you're feeling better?”
+
+“A lot better!” Elerlyth said. “You do good work.”
+
+“That?” Ren said. “That was foreplay.” He grinned. “I've got you for almost another hour yet!”
+
+“You cheeky little shit!” Elerlyth said and grinned herself as Ren dove for her chest.
+
+Ren fed her his strong emotions for another hour, and then they both had to log out.
+
+“I'll see you tonight.” Ren said. “That is, real life tonight. Or 2 days game-time.”
+
+“You better be back here!” She chuckled. “This time was only a light snack.”
+
+“I know.” Ren smiled. “I barely got started, and now it's over.”
+
+She grinned as she shook her head. “I don't know who's getting more out of this. Me or you!”
+
+“Neither.” Ren said and glanced down at himself. “Little Ren's got it the best.”
+
+Elerlyth laughed and leaned over to give Little Ren a kiss, then leaned back and gave Ren a kiss. “Until the next time.”
+
+“Bye, Elerlyth.” Ren said.
+
+“Logout.” They said together.
+
+********Ren took off the VR headset and Bonnie helped him put it on the rollaway table.
+
+“Hi, Ren.”
+
+“Good morning, Bonnie!” Ren said, a little excitedly. “It's nice to see you. How have you been?”
+
+Bonnie stared at him with her eyes slightly widened, and Ren smiled.
+
+“Sorry, I'm a little worked up.” He said.
+
+Bonnie smiled crookedly. “I saw.” She said and motioned to the now blank television screen. “20 minutes of blue screen here is 80 minutes of 'activity' in there.”
+
+Ren blushed a little and Bonnie chuckled.
+
+“Stella explained it all to me the other day.” Bonnie said. “I'm not going to say anything about it, okay?”
+
+“Thanks, Bonnie.” Ren said in relief, then changed the subject. “What's for breakfast?”
+
+“Homemade porridge with raisins, and freshly squeezed orange juice.”
+
+“That sounds great!” Ren said. “I like raisins.”
+
+Bonnie looked at him quizzically. He usually complains when I make something extra like that. She thought. “I'll just go and get it ready.”
+
+“Thanks.” Ren said, and changed the channel on the television. When Bonnie left the room, he went into the bathroom and cleaned himself up after his blue screen activity.
+
+*
+
+Gloria was out of the recliner and getting breakfast herself. She was a little sick of ToasterTarts, but she had bought a ton of them when the bulk store had a huge sale. They also had icing the same color as her hair, bubblegum pink. It even had blue sparkles like her blue streaks.
+
+That sure was great of him to get to me so quickly! Gloria thought, then remembered what he'd said he did to get to her. She frowned and went to her computer. She brought up the forum and info pages, and started looking for magic hooves. There were several different sets, but only one was for speed. Her eyes widened.
+
+“It's a Legendary Item!” Gloria looked at the value and dropped her ToasterTart. “He... he...” She shook her head and looked up the Giant Strength potion. It was also a very rare item, and she looked at the value. “How could he... he wasted...” Gloria took a deep breath. “Good god!” She slumped back in her chair. “He... he used them for me!” She blinked her eyes really fast to stop the tears before they started.
+
+*
+
+Ren enjoyed a great breakfast and thanked Bonnie for it. He went to physical therapy, sweat a lot, then took a shower afterwards. After getting changed and climbing back into bed, Ren had a strange thought. He pulled the laptop closer and sent a quick message.
+
+*
+
+Gloria had calmed down and taken a shower. She got out of the bathroom just as her cell phone beeped, because it received a text message. She dried her hair with a towel and checked the phone.
+
+“What kind of fool would text me so early in the morning?” Gloria asked, then read the message.
+
+Samantha! I hope you have a great day crunching numbers and scraping knuckles. - Ren
+
+Gloria shook her head and smiled. “A stupidly sweet fool, apparently.”
+
+*
+
+Ren put on the VR headset with a little help from Bonnie, and he relaxed in the bed.
+
+“Flow Login Start.”
+
+********

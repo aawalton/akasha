@@ -1,0 +1,373 @@
+---
+id: 03a28c2a-aa2d-5dff-9618-317570d4cff3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 223 - Help Me!"
+slug: 0211-chapter-223-help-me
+partOf: mythrans-master-of-all-continued-completed
+position: 211
+ownLength: 3114
+unit: words
+publishedAt: 2017-04-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129626/chapter-223-help-me"
+royalRoadId: "129626"
+---
+
+“I thought you were exhausted?” Ren asked Nathalia when she broke the kiss, and she sighed.
+
+“I am.”
+
+He picked her up off of the floor and went to her bedroom, then put her into bed. He climbed in with her, and she snuggled up to him.
+
+“Thank you.” Nathalia said, and ducked her head onto his chest.
+
+“You're thanking me?” Ren asked. “After everything we just did?” He laughed. “You gave me bacon!”
+
+Nathalia laughed, lifted her head, and kissed him. “For loving me, stupid.”
+
+“What's not to love?”
+
+“I... Ren, I... there's a few things... um... I don't know how to tell you this...”
+
+“I'd say just tell me, but something is really bothering you.” Ren looked at her because he could feel guilt and a bit of shame fill their shared Aura. “Whatever it is, I'm sure it's nothing too bad.”
+
+“I don't know if you'll think that, after I tell you what happened.” Nathalia said, then explained about the healer at the mines. She felt disbelief for a few moments, then Ren frowned and she felt the stirrings of anger from him.
+
+“Hold on.” Ren said. “You can hypnotize people?”
+
+“No! That's not what it does at all!” Nathalia said, and Ren felt her determination for him to understand.
+
+“So, what is it that you actually do?” He asked, wanting to understand.
+
+“It removes false feelings.” She explained. “If someone is trying to convince themselves they feel a certain way, it removes that temptation.”
+
+Ren looked at her. “So, the healer at the mines, Deresdra. She still remembers that we slept together, but she doesn't have any feelings about it, or me, anymore?”
+
+“Yes! That's it exactly!” Nathalia said, and Ren felt her relief. “In our society, you know how we feel about fooling around while engaged. She accepts that it happened, but it doesn't affect how she felt about you before.”
+
+“You stopped her from developing feelings for me.”
+
+“False feelings.” Nathalia corrected him. “How many times have you told me that she didn't particularly like you?”
+
+“A few.” Ren said and smiled.
+
+“When she gave you that beard, all of a sudden she was all over you; then you 'accidentally' slept with her.”
+
+Ren opened his mouth to say it didn't happen like that; then closed it. “Well, damn.”
+
+“Ren, I... I couldn't let that go.” Nathalia said. “It's one thing for you to go out and help people who need it; but what happened with her? That was different. She was using you.”
+
+Ren took a deep breath, and let it out slowly. “I guess you're right.”
+
+Nathalia sighed, and put her head back onto his chest. “I'm glad you're not angry.”
+
+“You were doing your best to protect me.” Ren said, and hugged her. “Was that the first time you've done that?”
+
+Nathalia froze, and he felt trepidation fill the Aura.
+
+“What did you do?” Ren asked her calmly.
+
+Nathalia shook her head and rolled over to face away from him.
+
+“My Love, I promise that no matter what you say, I won't hate you for it.” He said.
+
+“I... I can't.” Nathalia said. “Even though it was almost the same situation, it hurt you to have it happen.” She explained. “You'll hate me if you know I was responsible for it.”
+
+“You can't say you're protecting me, then say you hurt me.” Ren said. “Now you have to tell me what happened.”
+
+“I...” Nathalia started to shake her head, then rolled back over to face him. “You have to give me your Word of Honor that you won't be angry.”
+
+“You have it.”
+
+“No, you have to say the words for it to count.” Nathalia said. “I'll warn you, though. You'll lose a lot of Honor if you break your word.”
+
+“I give you my Word of Honor, that I won't get angry about whatever you tell me.”
+
+Nathalia sighed, and tears came to her eyes. “I'm sorry, Ren.” She said. “Narhilda.”
+
+Ren's eyes widened, and he stared at her in shock. “You... no.” He got out of bed and equipped his clothing. “No, that's not...” He left the bedroom, and Nathalia jumped out and equipped her clothing as well, and ran after him.
+
+“Ren! Wait!”
+
+“I don't want to believe it.” Ren said as he stood by the front door, with his hand on the handle, and his head against the wood. “I felt her feelings.”
+
+“So did I.” Nathalia said. “A lot longer than you have.” She said. “When I was alone with her, I questioned her about you and how she felt.”
+
+Ren shook his head. “No, she was just pushing me away because she's ruling the kingdom.”
+
+“I'm sorry, Ren.” Nathalia said. “It was... it was just... infatuation. She... she lusted after you. That's all.”
+
+“But...”
+
+“My ability wouldn't work, otherwise.” Nathalia said. “I can prove it.”
+
+Ren turned around with a sad face, and it nearly broke her heart to see it.
+
+“How?” He asked.
+
+“Let me use it on you.”
+
+“Wh-what?”
+
+“I'll use it on you, and then you can tell me if you feel any different.”
+
+“I...” He shook his head. “How will I know if it did?”
+
+“I'll tell you.” Nathalia said. “Please.”
+
+Ren sighed. “Okay.”
+
+“Come back to bed.”
+
+He shook his head. “If I forget anything, I don't want it to be in your bed.” He said. “Can we do it on the couch?”
+
+“If that's where you feel more comfortable.” Nathalia said, and Ren went into the main room and sat on the couch.
+
+“I'm ready.” He said, and she came over to sit beside him. “It's not going to hurt, is it?”
+
+“It never has before.” Nathalia said. “Just relax.”
+
+Ren did a breathing exercise to relax, and he nodded slightly.
+
+“Close your eyes.”
+
+“No.” Ren said. “I want to see you.” He smiled. “All of you.”
+
+Nathalia held a hand up in front of him, and mist-covered dagger formed in her hand. It was as insubstantial as fog, but looked solid at the same time.
+
+“That's pretty cool.” Ren said. “Go ahead. Let's see if you can make me forget my feelings for Narhilda.”
+
+“That's not a good test.” Nathalia said, sadly. “It's your feelings for me I'm going to try to make you forget.”
+
+“NO!” Ren exclaimed.
+
+Nathalia plunged the mist-covered dagger into his forehead.
+
+“AAAAAHHHH-GHUH!” Ren screamed, then it was cut off as he lost consciousness.
+
+*
+
+“BY THE GODS!” Nathalia yelled as Ren slumped onto the couch. “NOOOO!”
+
+**
+
+Ren woke up on a stretcher in a partially-dark room, to the sound of the heart monitor's constant fast beeping of his heartbeat. He felt groggy, and pain stabbed him in several places around his body. He looked around lazily, and didn't recognize anything that he saw.
+
+“What... what's going... on?” He asked, and a woman dressed in surgical scrubs stepped into his field of vision.
+
+“It's alright, dear.” His mother said. “You just woke up again.”
+
+“A... again?”
+
+“You have a bad habit of waking up during invasive procedures.” His mother said. “Don't worry. It's taken a while; but thanks to some of the other experiments, we've finally come up with a nice little cocktail to help you sleep for a while.”
+
+“Wh... what... no...” He tried to say, and she held up a needle. “Mommy! No!”
+
+She pulled down the surgical mask, and smiled reassuringly at him. “I'm putting it in the IV, not you.”
+
+Ren relaxed as she pulled the mask back up to cover her face again, then she injected the needle into the IV stem. The clear liquid mixed with the IV fluid, and changed to a deep red color.
+
+“M-mom...”
+
+“It's alright.” She said. “It's not going to hurt.”
+
+Ren nodded and watched the fluid as it flowed down the clear tube and reached his arm. He screamed and screamed as it felt like thousands of needles had jabbed themselves into his arm, then kept jabbing into his upper arm, and even more needles jabbed into his shoulder. When it got to his chest, the feeling pierced his heart; and it stopped beating. The heart monitor fell to a flat line, and the incessant beeping of his heart changed to a long steady tone.
+
+“NO!” His mother said, then she started to panic. “Crash cart! Crash cart!”
+
+“Use the antidote first.” Ren's father said. “Squeeze the IV bag, too.”
+
+“Right! Right!” She said, and did as she was told with the second needle. The fluid changed from red to blue, and she squeezed the IV bag to force the solution into Ren's body. She performed a few chest compressions and CPR while his father brought over the crash cart and charged it for her.
+
+“Thank you!” She said, and grabbed the paddles when the machine beeped. “Clear!” She said, and shocked Ren's chest. It left a burn marks on the top and side of his chest, and she gasped. “Goddammit!”
+
+“Yes, use the gel this time.” His father said, and she squirted the protective gel on the pads, and the machine beeped that it was ready.
+
+“Clear!” She said, and used the paddles on slightly different spots. Ren's little body jumped from the electricity again, and there was no response. She looked at her husband desperately. “What do I do?”
+
+“Go to the highest setting.” He said calmly, and she cranked the machine as high as it would go. A low whine accompanied this action, and 10 seconds later, it beeped.
+
+“Please work!” Ren's mother said. “CLEAR!” She yelled, and shocked him again. The heart monitor jumped, jumped again, and she watched it with desperate hope. The beeping started up at the same fast rhythm it had before, and she dropped the paddles as she hugged Ren. “Thank god!”
+
+A thin, frail arm reached up and hugged her back.
+
+Ren had finally gotten the one thing he had always wanted from his mother.
+
+**
+
+Nathalia tried to pull the dagger out, but it wouldn't move. “No! Nooo!” She let the dagger go, which always made it dissolve faster; but, this time it stayed in Ren's forehead and didn't look like it was going to dissolve at all.
+
+*
+
+Xuunah, a Light elemental, floated in the collective. She was embraced by the overwhelming joy, and felt contentment. It had taken her nearly 10 millennia before she could get over losing her family, while she served her sentence for failing to return to her realm. It took another 50 millennia before she was strong enough to vanquish the beings that had killed her husband and child; and 50 millennia more to serve her sentence for vanquishing those same beings.
+
+She smiled and floated up, as she remembered that everyone she had ever spent collective time with, also felt her feelings... and shared them. It didn't justify her actions in any way; but, she did take comfort that they had all felt that justice had been served. For the last 20 millennia, Xuunah obeyed the tenets of her faith; and never once questioned them or what she had to do.
+
+She left the large gathering area and drifted along the path to her assigned area. She greeted several others as she passed them, and floated into her space.
+
+“Ahhh.” She sighed. “It's so relaxing to... AGH!”
+
+A searing pain passed through her being, and she didn't know what had happened. She examined herself, and saw a small piece of her glowing form was now missing.
+
+“No! It's not possible!” She said, and flew out of her area and to the Officiate. On her way there, the missing piece reappeared. “No. Nonono!” She stormed through the waiting light elementals and into the main collective. She slammed into one of the Greater Light Elementals, and the two of them went spinning off into a corner.
+
+“What are you doing?!?” Zagatro asked her. “Oh, it's you.”
+
+“I need your help!” Xuunah said.
+
+“Like the last time?”
+
+“You didn't help me the last time!” She said. “So, no.”
+
+He sighed. “Very well. What do you...”
+
+“Come with me!” She said as she felt a familiar feeling again, and flew off. He sighed and followed her out of the Officiate and to a secluded area.
+
+“What is it?”
+
+“This!” Xuunah said, turned slightly, and he saw that a part of her form had disappeared.
+
+“No.” He shook his head. “NO!”
+
+“Yes!” She said, and the piece reappeared. “If I don't go right now...”
+
+“This might not mean what you think it means.”
+
+Xuunah laughed. “What did they do to the others?”
+
+Zagatro didn't say anything, and she nodded.
+
+“Right.” She said. “Open a portal, please.”
+
+“It's not that simple anymore.” He tried to say, and she huffed in frustration.
+
+“Just do it!”
+
+“Fine.” Zagatro said and opened the portal. “But let the consequences be upon your head.”
+
+“AGGHHH!” She screamed, as the same piece went missing; but this time, light started to leak out of her.
+
+“Xuunah!”
+
+“It... it's all right.” She said, and stepped through the portal.
+
+*
+
+“By the gods!” Nathalia said and started crying. “What do I do?”
+
+The room was encompassed with a bright light, and she had to partially cover her eyes.
+
+“What...” She tried to say, then a white portal opened up in the main room. A woman that looked remarkably like her, stepped out of it and held her side. The portal closed, and the woman smiled at her.
+
+“You've grown into a beautiful young woman, Nathalia.” Xuunah said, and took a deep breath. She didn't feel the pain of the loss in this body, and she let her hand drop.
+
+“How... how do you know me?”
+
+“I'll explain that in a moment.” Xuunah said, and walked over to the couch. “I see.” She said, and looked at Nathalia. “You used it for impure reasons.”
+
+“I... I what?”
+
+“It was intended to help, not hinder.” Xuunah said, and sat beside her. “If he had false feelings for someone, and you were removing them, it would have worked fine.”
+
+Nathalia stared at her.
+
+“You were testing to see if he could forget his feelings for you, weren't you?”
+
+“How do you know that?”
+
+Xuunah laughed and cupped the side of Nathalia's face, just like she did when she was a little girl. “It didn't work on your father.”
+
+Nathalia put a hand on top of Xuunah's hand, and the tears she was crying for Ren, became tears she cried for herself.
+
+“M-m-mommy?” Nathalia said in a soft voice, barely above a whisper. Xuunah nodded slightly, and Nathalia hugged her tightly. “Mommy!”
+
+“I'm so sorry, baby.” Xuunah apologized. “I thought both you and your father had died all those years ago, or I would have been back for you.”
+
+“I... I...” Nathalia shook her head and let her mother out of the hug. “There's so much I want to know!”
+
+“There's no time for that.” Xuunah said, and looked at Ren. “The man you love is dying.”
+
+“He's WHAT?!?”
+
+**
+
+Ren laid in the ice-filled tub, and the uncontrolled shivering had stopped only a minute before.
+
+“How do you feel?” His mother asked him.
+
+“I was really cold.” Ren said in a child's voice. “But it's warm now.”
+
+“That's good.” She said to him, and wrote down the percentage of Ren's body that had turned blue already.
+
+“I'm really tired.”
+
+“Just stay awake a little while longer.” His mother urged, and Ren nodded. He floated there, and stared at his mother, then the room started to go black.
+
+“No, mommy! Don't leave me!”
+
+“I'm right here.” His mother's voice said, but it sounded like it was far away. Ren started to cry, but the tears wouldn't form. He just sobbed without the tears, then stopped when his heart did.
+
+“Mark!” His mother said, and went over to the table by the wall. “How long should we go this time?”
+
+“We were paid handsomely for the data.” Ren's father said. “If we can prove someone can survive hypothermia for an extended period of time...”
+
+“The theory of induced hibernation in humans can be validated!”
+
+“We can also sell the data to the cryogenics companies.” He said. “Solid numbers like these will increase their sales a hundredfold.”
+
+Ren's mother nodded. “What about the medical field?”
+
+“We can't do anything publicly, remember?”
+
+“But...” She frowned. “...it's an untapped market.”
+
+“For now.” He said. “I know a friend of a friend.” He grinned. “There's a hospital that deals with long term care patients, and the board is looking for a good investment.”
+
+**
+
+“What do you mean, Ren's dying?” Nathalia asked her mother.
+
+“The longer the blade is inside of him, the more of his life it takes.”
+
+“How do I get it out? It's stuck!” Nathalia said, exasperated. “It should have dissolved when I let it go!”
+
+“Normally it does.” Xuunah said. “But you have a deep connection with him. Several, in fact.”
+
+Nathalia blinked her eyes at her. “I... I love him with all of my heart.”
+
+“I know you do.” Xuunah said. “What else?”
+
+“We're engaged to be married.”
+
+Xuunah shook her head. “A piece of parchment doesn't make a connection.”
+
+“I... we said parts of the marriage ritual together.”
+
+Xuunah smiled. “Yes, that would do it.” She smiled. “Your father and I did that, too.”
+
+“You... you did?”
+
+“It's not like we could just fulfill a normal marriage contract.”
+
+“Why not?”
+
+Xuunah shook her head. “Now's not the time for that.” She said. “We have to save him.”
+
+“Okay.” Nathalia said, determined. “How do we do that?”
+
+“Very carefully.” Xuunah said, and stood up. “Sit on his lap, facing him.”
+
+Nathalia did so, and she looked at her mother.
+
+“No, don't look at me. Look at him.” Xuunah said, and formed her mist-covered sword. “Hug him close.”
+
+Nathalia hugged Ren, and put her head over his shoulder. “Like this?”
+
+“That's perfect.” Xuunah said and positioned the sword between Nathalia's ribs, where the blade could pierce the heart without killing her. “This is going to hurt.” She emphasized. “A lot.”
+
+“I don't care!” Nathalia said. “Please, help him!”
+
+“I'm not helping him, Nathalia. I'm helping you.” Xuunah said. “You're the one that has to save him.”
+
+“What do you mea-AAGGHHH!!!” Nathalia screamed as Xuunah's sword cut through her back, pierced the side of her heart, and came out through her chest. The sword kept going and cut through Ren's chest, pierced the side of his heart and came out his back, then pinned the both of them to the couch. Nathalia collapsed into unconsciousness on top of Ren, and Xuunah let go of the sword. It stayed corporeal, and she sat down to wait.
+
+“Good luck, little one.”

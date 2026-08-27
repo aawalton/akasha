@@ -1,0 +1,383 @@
+---
+id: 2a775fcc-a640-5195-88a3-cbffba90361e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 510 - Getting Back To It"
+slug: 0510-chapter-510-getting-back-to-it
+partOf: mythrans-master-of-all-continued-completed
+position: 510
+ownLength: 3897
+unit: words
+publishedAt: 2018-02-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194187/chapter-510-getting-back-to-it"
+royalRoadId: "194187"
+---
+
+Tommy's girlfriend Jamie and Clint's date had followed Apple into her work room, and saw the frilly fake curtains, frilly pillows and bedspread, and several dozen plush stone golems. Everything was also pink.
+
+“Wow.” Jamie said. “Now this is a girl's room.”
+
+Apple chuckled. “Yes, it is.” She said. “Girls only, in fact.”
+
+“What?”
+
+“No man has ever been in here, and no man is welcome.” Apple said. “Except for Ren.”
+
+“Wait, what?” Jamie asked. “He just killed Billy!”
+
+“The bastard deserved it.” Apple said. “He hit Jennifer.”
+
+Both women gasped at that.
+
+“Oh, no.” Clint's date said. “I thought... well...”
+
+“That Ren was trying to steal Jennifer or something?” Apple asked, and she nodded. “He wouldn't do that... and Billy attacked him first and tried to stab him.”
+
+“WHAT?” Jamie exclaimed.
+
+“Jennifer told us all about it.” Apple said. “Ren even told Billy to log out and cool off, but he wouldn't. So, Ren had to kill him to stop him.”
+
+“Oh, wow.” Jamie said. “Clint and the guys, they... they didn't treat Ren well because of that.”
+
+“Yeah, we heard that, too.” Apple said. “They don't know all the facts, so we can't hold it against them... even if some of us want to.”
+
+“Do you?” Clint's date asked.
+
+“Kind of.” Apple said and stroked Jamie's face. “Ren saved one of us from being beaten, and that's what any good man would do.” She stepped close and whispered into Jamie's mouth. “I know Clint and the guys would do the same thing if they'd known.”
+
+“Tommy definitely would.” Jamie whispered back.
+
+Apple gave her a very gentle kiss. “He does have great taste.”
+
+“I'm not sure why I'm here.” Clint's date said.
+
+Apple moved Jamie over to the bed and had her sit down, then held a hand out to Clint's date. “You're the willing audience, of course.” She said. “There's no way she would be comfortable being in here alone with me.”
+
+“We only just met today.” Clint's date said and took the offered hand.
+
+“We form friendships a lot faster than men.” Apple said and had Clint's date sit down next to Jamie. “Be honest, now.” She said to the two women. “You've enjoyed each other's company almost right from the start, right?”
+
+Tommy's real life girlfriend and Clint's date exchanged glances, smiled at each other, then looked back at Apple and nodded.
+
+“Good.” Apple said and gently pushed Tommy's girlfriend on the shoulder. She took the cue and laid back onto the bed, and Apple looked at Clint's date. “Hold your friend's hand while I kiss her as much as she wants me to.”
+
+Clint's date took Jamie's hand and held on, and Apple leaned over the bed and looked down at Jamie. The look of anticipation on Jamie's face made Apple almost giddy. She used a fingertip to touch Jamie's lips.
+
+“So soft.” Apple moaned, braced herself on an elbow, then caressed the side of Jamie's face. She slowly leaned down and pressed her lips against the other woman's mouth, then started to kiss her in earnest.
+
+Why is this turning me on so much? Clint's date asked herself as she watched two women making out right in front of her. Is... is it because... I... I want to be?
+
+Apple started to let her hands wander, and touched Jamie while they kissed. Jamie responded with slight moans as Apple's fingers grazed her breasts through her top, then caught her breath as Apple massaged them.
+
+“Store your top.” Apple whispered and kissed Jamie's ear. When Jamie's top disappeared, Apple leaned back and looked at her. “Oh, nice.” She said and caressed the edge of the tiny bra that barely contained Jaime's breasts, now that she was laying down. “Someone else buys things at Ren's shop.”
+
+Jamie nodded slightly and Apple kissed her again, then moved lower and kissed her neck, then went even lower. Jamie took in a breath, which inadvertently pushed her chest up. She couldn't decide if taking the deep breath had been an automatic reaction when she remembered to breathe, or an invitation for Apple to go further.
+
+At this point it didn't matter, and Clint's date felt her hand be squeezed tightly and Apple took full advantage of the situation. Jamie turned her head and looked at Clint's date, then her eyes widened as the other woman leaned in close.
+
+“Apple was right.” Clint's date said, almost breathlessly. “You are pretty.”
+
+“So... so are you.” Jamie mumbled, then Clint's date kissed her.
+
+*
+
+Tommy managed to find Jasmine fairly quickly, and thanks to a bit of coaxing and a higher than normal tip, she agreed to come over to the private booth and entertain the guys. When she got there behind the still closed curtain, she felt bad that they were all alone. She asked about why they were, and they told her where everyone had went.
+
+Jasmine almost laughed at that, especially the bathroom excuse, then she realized that the other women had pretty much abandoned the guys. She put a little extra pizzazz in her new routine, and she saw the desire in their eyes as she teased and titillated them. That was always the best part of what she did. She could give them a fantasy, even within a fantasy world, and that made her happy; and really, really horny.
+
+Clint, Tommy, Hank and Dillon easily noticed the change in her, mainly because it was quite apparent as she started to rub herself and moan for them. Of course, that made them happy and horny, too.
+
+It was always nice to see someone enjoy their work.
+
+*
+
+Santa Ren was having quite a fun time, much to Jennifer and Candy's delight. Teepo warned him that an hour had passed since he had entered the room, and that he really should leave before anyone else showed up.
+
+Good point, buddy. Ren thought, and tapped Jennifer's thigh.
+
+“Yes, Santa?” Jennifer asked, but didn't stop moving.
+
+“I need to go and check on the elves.” Santa Ren said.
+
+“Can you give me one more present before you go?” Jennifer asked.
+
+“That depends. Are you going to be a good girl from now on?” Santa Ren asked back.
+
+“Hell, no.” Jennifer laughed.
+
+“Then hold on tight.” Santa Ren said and gripped her hips tightly. “Candy, move back a little.”
+
+“Aw.” Candy said when she stopped licking them. “Why can't I... oh, my!”
+
+Santa Ren moved in and out of Jennifer so fast that it almost looked like he wasn't moving at all.
+
+“AaaaaaahhhhhhhhHHHHHHHHH!!!!” Jennifer yelled as she finished, and Candy dodged out of the way as a deluge of warm liquid came out.
+
+“Oh, my god.” Candy whispered as the stream continued and Jennifer kept finishing over and over again.
+
+“S-s-s-s-st-st-stop!” Jennifer managed to say, and Santa Ren stopped. She collapsed backwards on top of him, and her whole body twitched and shook uncontrollably. “Oh... oh... oh, god.” She whispered. “What... what was... what the hell was that?”
+
+“Me trying to finish you off.” Santa Ren said. “How do you feel?”
+
+“Like... like... I don't know!” Jennifer exclaimed. “I've never finished so many times so quickly!”
+
+Santa Ren laughed the signature. “Ho, Ho, Ho.”
+
+“No, don't!” Jennifer almost yelled. “I can't handle it!”
+
+Santa Ren lifted her off and Candy caught a hold of him and squeezed, which helped make him finish, and she made sure none of it was wasted. Santa Ren put Jennifer down on her bed, then sat up.
+
+“I hope you both enjoyed your presents.” Santa Ren said and took out a platinum coin for each of them. “Thank you for a great time, but I really have to go.” He pulled his pants up and closed his coat and belt.
+
+“S-S-Santa!” Candy exclaimed and held out the platinum coin. “This... you... you made a mistake!”
+
+“It's an apology for what happened when you first entered the room, and a tip for great personal service.” Santa Ren said, then gave her a quick kiss, much to her surprise. He kissed Jennifer next, then went to the door. “Ladies, until next time.” Santa Ren said, and slipped out of the room and shut the door behind him.
+
+*
+
+“N-next time?” Jennifer asked, and her body trembled. “I... I'm still... from the first time.”
+
+“He... he kissed me... even after...” Candy shook her head and moved onto the bed, then licked Jennifer between the legs.
+
+“AH!” Jennifer yelled and finished again. “D-don't!”
+
+“I'm going to keep licking until you tell me who that was.” Candy said and gave her another lick.
+
+“N-n-no!” Jennifer said, despite almost being in pain from finishing so much, then finished again.
+
+“Come on, Jennifer.” Candy said and gave her another lick. “You know I don't like girls, but I want you to tell me who...” *lick* “...that...” *lick* “...was.” *lick*
+
+“S-s-s-stop! Okay! Okay!” Jennifer panted heavily. Candy stopped licking her, despite getting the taste of Santa's presents from her, and moved up to look at Jennifer's pained expression.
+
+“I'm sorry. I shouldn't have kept licking you.” Candy said and gave her a tender kiss. “You just tasted so good after that.”
+
+“I... I know.” Jennifer said.
+
+“So, who was it?” Candy asked.
+
+“Lean... lean in close.” Jennifer whispered, and Candy turned her head and put her ear by Jennifer's mouth. “It... it was...” She started to say as she wrapped her arms around Candy's neck, then bit her earlobe and held it tightly between her teeth.
+
+“Ow! Ow! Ow!” Candy said and flailed her arms. “Okay! Okay! I won't ask! Let go!”
+
+Jennifer flicked her tongue over the earlobe several times, let it go from her teeth and sucked on it for another moment. Candy took in a deep breath and let it out as she calmed down, because her earlobe was one of her sensitive spots. Jennifer let her go and Candy sat up.
+
+“That was a little mean.” Candy said and rubbed her ear.
+
+“We don't ask about clients, remember?” Jennifer said in an almost normal tone. She was starting to recover already, and her breathing evened out.
+
+“But... everyone's going to want to know who it was.”
+
+“Did you see that tall ugly guy that came in a while ago?” Jennifer asked.
+
+Candy shook her head. “No.”
+
+“Gina's on the door tonight, so you can ask her about him.” Jennifer said. “God, what an ugly sack of crap.” She said, and Candy laughed. “It almost made me gag, and then I asked him if he could make himself look like someone else.”
+
+“You superficial tramp!” Candy said and playfully swatted Jennifer's shoulder, which made her laugh.
+
+“I really am.” Jennifer said. “Of course, once he agreed to be who I wanted...”
+
+“The Reindeer Games began.” Candy said, and Jennifer nodded. “I'm not asking for it, but... do you even know his name?”
+
+“I have no idea what that ugly thing called itself.” Jennifer said. “He became Santa for me, and that's what I called him.”
+
+Candy smiled. “Thanks for letting me share, even though you don't normally do that.”
+
+“Like Santa said, it was an apology for when you first came in.” Jennifer said. “We did make a mess on you.”
+
+Candy chuckled and touched her damp fur bikini top. “A huge mess.”
+
+Jennifer chuckled, too. “Help me sit up.”
+
+Candy helped her friend sit up, and Jennifer took several breaths.
+
+“I'm going to be feeling that last move for a while.” Jennifer said and rubbed her belly.
+
+“I've never seen anyone move like that during sex before.” Candy said.
+
+“Me, either.” Jennifer said. “I can still feel it inside me.”
+
+“If it's not an insult, I'd really like to feel it, too.” Candy said. “Boy, that was a nice penis!”
+
+“Hey, no poaching!” Jennifer laughed. “Do you want me to attack your earlobe again?”
+
+Candy looked away, then back again. “It might be worth it.”
+
+Jennifer leaned in close and kissed her cheek. “I'll ask the next time I see him; but, don't be disappointed if it's only oral again.”
+
+“I'd rather have crumbs from your table than eat them from the floor.” Candy said.
+
+“Ha ha!” Jennifer laughed. “You think Dillon's floor crumbs!”
+
+“Dillon!” Candy said and stood up. “I completely forgot about him!” She equipped a school girl outfit and ran from the room, and Jennifer kept laughing.
+
+*
+
+Santa Ren left Jennifer's work room and was tempted to change the Full Illusion spell; but, since everyone had seen him enter the room, there wasn't much point. Making a spectacle of himself wasn't a good idea, either... so he activated Sneak and crept along the wall to try and not draw too much attention to himself.
+
+Santa Ren actually made it most of the way around the room without being noticed, despite wearing the big red suit. He was only 10 feet from the 2 metal animated bouncers at the door when Teepo warned him that Gina had seen him. Santa Ren kept moving and then he felt a hand on his shoulder.
+
+“I don't remember letting you in here.” Gina said, and the two bouncers by the door turned to look at him. Santa Ren cast Full Illusion again and the only thing he changed was the face and voice, to made them into the ones he had when he came in.
+
+“I found a dancer to spend time with, Ma'am.” Ugly Santa Ren said as he turned around, and Gina saw who it was.
+
+“Oh, it's you.” Gina said and smiled.
+
+“You've got a great establishment here.” Ugly Santa Ren said and took out another silver coin. “The dancers seem to really enjoy themselves.”
+
+“Not just the dancers.” Gina said and accepted the coin, then put her arms around his neck. “If you're not busy later...”
+
+Ugly Santa Ren was surprised she was acting this way, and he could feel her getting excited. “I... ah...”
+
+“Yes, you're probably sore and exhausted after spending time with Jennifer.” Gina said, sadly. “Maybe... maybe next time you can start with me?”
+
+“Wh-what?”
+
+“You can lose the Santa suit, though.” Gina whispered and kissed his cheek. “That does nothing for me.”
+
+“But...”
+
+“I want to see what else is ruggedly handsome on you.” Gina said and looked at him with lust in her eyes, and he felt how much she wanted to see him naked. “I may have hung up my dancing shoes, but...” She bit her bottom lip and ducked her head slightly. “...that doesn't mean I don't want someone to hold me.”
+
+Ugly Santa Ren felt her sincerity and longing, and she looked so endearing that it touched him deeply. “I... I'd like to, but...”
+
+“Oh, I... I guess you're really into... ah... that kind of stuff.” Gina said, and he felt her deep disappointment.
+
+“No, I'm not.” Ugly Santa Ren said. “I only had sex with her today, and even if Candy hadn't come in and joined us, I wouldn't have let-”
+
+“Candy joined you?” Gina asked, surprised.
+
+“Not... not how you think.” Ugly Santa Ren defended himself. “She only used her hands and mouth.”
+
+“Oh.” Gina said and smiled. “I was going to get angry at you for not inviting me, too.”
+
+“I didn't realize you would want to be invited.”
+
+“If it's someone like you, I don't mind.” Gina said.
+
+“But...”
+
+“The next time you come here, you better see me first.” Gina said, and he felt her determination and her resolve. “Skipping me again is not an option.” She said, sternly.
+
+“I... I didn't... skip...” Ugly Santa Ren tried to say, but her emotions were so strong that he was having a hard time trying to think straight.
+
+“You better come back soon.” Gina said and kissed him passionately, and Ren's Emotion Siphon Ability activated and absorbed the emotions she was pushing out. Gina broke the kiss a few moments later, and she saw the surprise on his face.
+
+“Yeah, that's right.” Gina purred seductively and gave him a quick kiss. “I've got the stuff, and you want it.”
+
+Ugly Santa Ren didn't say anything, and she smiled crookedly and let him out of her embrace. He backed up two steps away from her, turned around and walked to the door, then looked back. Gina held up her hand and wiggled her fingers in a tiny wave. He returned it and went out the door.
+
+Wow. Ren thought and ran around the Pleasure Palace, then over to the impenetrable rock mountain that was the roost for the succubi.
+
+“Yeah, it's hard to believe after all that, you could turn yet another woman on.” Teepo said and chittered in laughter.
+
+Ren was going to argue about it, then had to admit Teepo was right. I guess if you put it that way, it's not that much of a surprise.
+
+“Not at all.” Teepo said. “Succubus above and to the left.”
+
+Ren dismissed his Full Illusion spell and ran up into the air to meet the flying succubus. “Hi.”
+
+“Ah!” The succubus said when he startled her. Her flight faltered and she started to plummet to the ground, so he quickly ran down and caught her.
+
+“I didn't mean to scare you, Wynphine.” Ren said.
+
+“My Lord.” Wynphine said and folded her wings up under her so he could hold her properly. “I haven't seen you in a while.”
+
+“I'm sorry about that.” Ren said. “I can give you excuses if you want.”
+
+Wynphine chuckled. “Only if you save them for when you come over to feed us.”
+
+“That's where I was going.” Ren said and started running through the air towards their roost.
+
+“You... are a lot more powerful now.” Wynphine said.
+
+Ren smiled. “You should see me when I'm wearing my new armor.”
+
+“I'd like that.”
+
+“Should I ask where you were coming from?”
+
+“Patrol.” Wynphine said.
+
+“Patrol?”
+
+“Yes, this is our home.” Wynphine said. “We will protect it... and you.”
+
+Ren felt her need to do that, and he kissed her cheek. “Thank you.”
+
+Wynphine's face flushed to a darker red. “You brought us out of the darkness that has kept us hidden for...” She stopped talking, then smiled. “No, that time is past.” She said and touched his cheek. “Now is what we have, and now is what we live for.”
+
+Ren arrived at the roost and asked her which entrance was hers. She pointed to a balcony about a third of the way down from the top where the tower was, and he ran over to it.
+
+“I can't feel your Aura, My Lord.” Wynphine said as Ren put her down.
+
+“Oh, right.” Ren said and made a connection between all of his Auras except for the bad ones, then activated it. Wynphine gasped and staggered a little when the Aura hit her, and he held Wynphine steady.
+
+“M-my L-lord!” Wynphine said. “What... you feel so...”
+
+Artemis felt Ren's Aura snap into place, and she flew quick as a flash out of the warehouse and over to him and cut off Wynphine's words as the succubus stared at the oddly-dressed woman that flew without wings.
+
+“Oops!” Ren said and took Artemis' hand. “I'm sorry! I didn't think I was that far away.”
+
+“That's okay.” Artemis said. “It's nice talking to the others, but we don't have a lot in common.”
+
+“I... never thought of that.” Ren said.
+
+“Oh, no! You aren't perfect like we all thought!” Artemis said, gave his hand a squeeze, and let it go.
+
+“Ha.” Ren smiled and turned to Wynphine. “Is everyone here?” He asked. “Never mind, I'll find out for myself.” He said and activated his Heat Sense Aura as well. He found all 20 of the succubi were inside the roost in different areas, and also found several other people were there, too. “I assume there's some sleepovers going on tonight?”
+
+Wynphine nodded. “Zunala, Kelfaren, Miastina, and Crakasia all have mates staying over.” She said. “I'm pretty sure they all know you're here.”
+
+Ren chuckled. “Let's go to the meeting room.” He said, and they walked inside and down a hallway, then down the stairs. “I wonder if I could add a lift to an already existing structure?”
+
+“A what?”
+
+“It's a magical platform that moves people from floor to floor instead of using stairs.”
+
+“We just fly.” Wynphine said. “It's much faster than walking.”
+
+“I really need to learn how to do that, just so I can use my Winged Flight skill properly.”
+
+“I will gladly help you, My Lord.” Seldanna said as she landed beside him. “Just come and get me whenever you want a lesson.”
+
+“Thank you, Seldanna.” Ren said.
+
+“I will do anything for you, My Lord.” Seldanna said, and he felt that she really would.
+
+“Are you angry that I haven't been around?” Ren asked.
+
+“Extremely.” Seldanna said. “But, since you are a great Adventurer, I cannot demand your time when you are so busy.”
+
+Ren reached out and took her hand, and he fed her his regret that she was angry at him. “I'll explain what's been going on, and hopefully you won't be as angry with me.”
+
+When they arrived in the large meeting room, Ren stood there to wait; and his Heat Sense Aura showed him that everyone was coming to meet him, so he didn't have to send the two succubi with him to go and get them.
+
+********
+
+Edward sat in his office and stared at the message his head programmer, Max, had sent him. After a bit of investigation on his own, he had discovered that Ren really had been chosen by the AI running the game to be one of it's representatives.
+
+How the hell did he manage that? Edward asked himself, almost proudly. I knew the kid was resourceful, but to actually gain the attention of the game's AI? He smiled and held in his chuckle. I should hire him to help find even more bugs in the system!
+
+Edward folded his hands and rested his chin on them, then rested his elbows on the desk.
+
+Max is right. Edward thought. It is potentially dangerous for such contact, even if it is indirect and they aren't actually 'speaking'. He started to twiddle his thumbs as he contemplated the problem. Those starter cities were brilliant, and even Max had to admit that. He smiled. That one move saved us a month of programming headaches about trying to integrate a new starter city for both of those races.
+
+Edward stopped twiddling his thumbs and sat back in his chair and crossed his arms.
+
+The people that changed to both the Giant and High Elf races, and subsequently opened up all that new content, went from zero to 20% in one night! Edward chuckled. The message boards are on fire about it, too.
+
+Edward made his decision about what to do, uncrossed his arms as he leaned forward, then typed up a response to Max.
+
+*
+
+Max had sat quietly as he waited for his boss to get back to him, and then he received a priority message.
+
+Inter-personal Memo
+
+Max, you are to follow this order immediately:
+
+Do nothing.
+
+- Edward
+
+“Well, damn.” Max said. “I guess he wants to see what the kid will do with it.” He said. “I hope your trust isn't misplaced, boss.” He said and closed the message. “I also hope that he doesn't crash everything.”

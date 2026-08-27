@@ -1,0 +1,337 @@
+---
+id: d1f12f49-2155-5812-9763-063b8046c74c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 286 - To The House"
+slug: 0277-chapter-286-to-the-house
+partOf: mythrans-master-of-all-continued-completed
+position: 277
+ownLength: 3278
+unit: words
+publishedAt: 2017-06-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143573/chapter-286-to-the-house"
+royalRoadId: "143573"
+---
+
+Ren slipped off the VR headset, and Denise took it from him. He saw that her short blonde hair was styled slightly differently than it normally was, and she looked a little taller than her 5 foot 3 height.
+
+“You are so lucky you don't have physical therapy.” Denise said and put the headset aside. “You're also lucky that I only had cereal and toast ready for breakfast.”
+
+“I'm really sorry.” Ren said and looked around. “Dammit, I missed Barbara, too.”
+
+Denise nodded. “She said she'd talk to you about what went on when she sees you tonight.”
+
+“Talk to me?” Ren asked. “Yeah, she'll talk to me... and probably wring my neck.” He said and laughed. “Boy, what a mess.”
+
+“I know.” Denise said. “I saw that last little bit.”
+
+“What do you think?”
+
+“I think there's going to be a lot of unhappy people in your life for a while.”
+
+“I'm one of them!” Ren snorted a laugh. “What a situation to get in!”
+
+Denise smiled. “Well, that's kind of the downside of helping people.” She said. “There's always a chance it'll backfire on you.”
+
+Ren laughed. “And quite spectacularly.”
+
+“I'll be right back with your breakfast.” Denise said and left.
+
+Ren took this opportunity to try and get to the bathroom by himself. He moved to the side of the bed, slid out of it and onto the floor, then went to the bathroom. He came back out just as Denise came into the room with a tray of food. She put it on the rollaway table and raised the bed into a sitting position, then helped him get back into bed. She slid the rollaway table in front of him and he started to eat.
+
+“Hey, it's not soggy!” Ren said, and ate several spoonfuls.
+
+“That's because I always wait until just before giving it to you before I add the milk.” Denise said. “I reheated and buttered the toast again, too.”
+
+“Fangs!” Ren said with half a piece of toast stuck in his mouth.
+
+“Swallow before you speak.” Denise said. “Try not to choke, okay?”
+
+Ren nodded and kept eating. When he was done, he sat back and sipped on the supplement shake. “Thanks.”
+
+Denise pushed the rollaway table to the side and took the tray back to the kitchen. Now that he was sitting up, he could reach the phone on the dresser and picked it up. He went through the call list, selected Elise's number, and hit dial. She answered after it rang twice.
+
+“Hi, handsome.” Elise said.
+
+“Hi, Elise.” Ren said. “I want to apologize...”
+
+“There's no need.” Elise said. “I have your micro-server set to send me updates when major events happen.” She said, then she laughed. “Max is going to be so pissed tomorrow about what you did.”
+
+“Hey, it's not my fault the Thieves Guild wouldn't let me escape.”
+
+“He could argue that.” Elise said. “But, what's done is done.”
+
+“If you saw that, did you see the aftermath?”
+
+“I did.” She said. “I'm not happy about you having 5 more women in your life.”
+
+“That's the thing.” Ren said. “I told them I didn't have room in my life for them, and I'm keeping my word.”
+
+“What do you mean?”
+
+“The head of the Thieves Guild only had sex with a couple of them, then lost all interest in it.” Ren said. “He didn't have sex with any of them at all for the last few years, game-time.”
+
+“I must have missed that part.” Elise said. “I thought they were personal maids.”
+
+“They are, but one of them told me she signed on with him just for the possibility she could have children; which I took to mean that it's not in the contract itself. Either sex or children.” Ren said. “I didn't have a chance to read it through myself, though.”
+
+“Okay.” She said. “That should buy you some time.”
+
+“Time for what?”
+
+“To figure out how to get rid of them.” Elise said.
+
+“Um, I don't think I can...” Ren said, and explained the warning popup he had received.
+
+“Goddammit!” Elise exclaimed. “I'm going to kick Max's ass!”
+
+“What? Why?”
+
+“I told him not to add those contract options!” Elise said. “It... kind of... breaks the game.” She sighed. “It's a way for a player to add NPCs, and their abilities, to their party without impacting the party limit.”
+
+“What the HELL?!?” Ren exclaimed right back at her, then paused. “I'm sorry, Elise. Please continue.”
+
+Elise laughed. “That was my reaction when he told me about it, too.” She said. “It's such a blatant exploit that I figured once word of it got out, everyone would be scrambling to get their hands on those contracts.”
+
+Ren nodded, because he had forgotten that he was on the phone and she couldn't see him. “Everyone would want them, that's for sure.” He said. “I figured my Trouble recipe helped with all of it, too.”
+
+“I'm sure it did.” Elise said. “I saw the transcript of your email to the tech department, and they're right. It really is a key feature when you find it, and it triggers special events for the player.”
+
+“So, does that mean other people have the Trouble recipe, too?” He asked.
+
+“Yes.” Elise said. “I can't tell you how many, or who; but, I can tell you that they are all building to something.”
+
+“Is it something specifically for me, or will it impact the game?”
+
+“Both.” Elise said. “But, you didn't hear that from me.”
+
+“My lips are sealed.” Ren said. “Now that we have that out of the way, do you feel like coming over?”
+
+“Sundays are my only day off.” Elise said. “I don't really want to spend it inside on such a nice day, even if it's with my favorite tv star.”
+
+“Me, either.” Ren chuckled. “I had another idea besides sitting on the bed and watching television today.”
+
+“Really? What is it?” Elise asked, curious.
+
+“I just so happen to have the keys to my new place.” Ren said. “How would you like to join me for a tour?”
+
+“WHAT?” Elise exclaimed. “How did you... Janice said the paperwork wouldn't be ready until tomorrow!”
+
+“Barbara's sister gave her the keys last night.” Ren said. “She gave them to me, and I also have permission to go.” He smiled. “So, do you want to come or what?”
+
+“Of course I do!” Elise said. “I'll be there in an hour!”
+
+“See you then.” Ren said. “Bye.”
+
+“Bye!” Elise said and hung up.
+
+“You have permission to go, do you?” Denise asked, and Ren grinned as he put the cell phone down.
+
+“Yep.” He said. “I gave myself permission.”
+
+Denise shook her head. “You're letting this whole 'independent of the hospital' thing go to your head.”
+
+“Yeah, a little.” Ren said. “Isn't it fun?”
+
+Denise laughed, and Ren called Barbara to tell her that they were going to the new house in an hour, and that if she wanted, she could meet them there. He hung up the phone and looked at Denise.
+
+“You look really nice today.” He said. “Isn't that...”
+
+“...one of the outfits you bought for me? Yes, it is.” Denise said. “It's comfortable and fits well, and it can be worn as a casual outfit at work, or as an outfit for wearing normally.” She smiled. “It's really nice to be able to grab something from my closet, and not have to worry if it's going to pinch, dig in, or tear when I move.”
+
+“I'm glad.” Ren smiled back at her. “Now take it off.”
+
+“Excuse me?”
+
+Ren laughed. “I need a shower, and I don't want your new clothes to get wet or dirty.”
+
+“Not a shower.” Denise said. “It has to be a bath, remember? We went through this last time.”
+
+“Things have changed.” Ren said. “When I was at Stella's place, she came up with the brilliant idea of using a plastic step stool for me to sit on.”
+
+“Wow.” Denise said. “That is brilliant.”
+
+“I know!” Ren said. “It was so much easier. I was a little upset that I hadn't thought of it myself.”
+
+Denise chuckled. “All right, come on.” She said, and helped him climb down off the bed. “Let's get you all spiffied-up for your girlfriend.”
+
+“Stella left her step stool here for me.” Ren said and walked into the bathroom as he unbuttoned his pyjama top. “So this should be fast.” He said and tossed the top onto the clothes hamper, then undid his pants. Denise got undressed as well, helped Ren get in the shower and sit down, then turned on the shower. She lathered up a sponge and scrubbed his back and arms from behind, then moved around to the front. She couldn't use the sponge, so she switched to the soft cloth.
+
+“You know, I really appreciate you doing this for me.” Ren said as Denise gently scrubbed his chest and abdomen.
+
+“I think any man would appreciate taking a shower with a woman.”
+
+Ren laughed. “Yeah, they would; but, that's not what I meant.” He said. “You only just recently got the full time job at the hospital, then gave that up to come with me when I left.”
+
+“Well, there wasn't much choice.” Denise said as she switched back to the sponge and scrubbed Ren's legs. “I could have stayed as the hospital imploded, somehow find another hospital to work at, or...” She shivered. “...go to the clinic.” She chuckled. “Tagging along with two other experienced nurses to take care of you full time was definitely the best option.”
+
+Ren sighed. “I still feel bad about what happened to Bonnie, though.”
+
+“We all do.” Denise said. “Stella went to visit her the other day, and Bonnie wouldn't stop crying.”
+
+“What?” Ren said, surprised. “Is... is she still...”
+
+“Traumatized that she could cause you so much damage, and not realize it.” Denise said. “We've tried to convince her it wasn't her fault.” It was her turn to sigh. “We even had the investigators show her the evidence of who really was at fault.”
+
+“She wouldn't even look at it.” Ren said.
+
+“Not one bit.” Denise said. “She's in complete denial.”
+
+“I think I have to go visit her.” Ren said. “I want her to see that I'm okay.”
+
+Denise snorted a laugh as she finished cleaning him, then rinsed him off. “You do realize what you look like, right?”
+
+Ren looked down at himself, and saw the bruises on his arms and shoulders were almost completely healed; but, the one on his chest was still a sickly yellow and purple color.
+
+“I should probably wait for a week or so.” Ren said.
+
+“At least.” Denise said. “Let's get you dried off.”
+
+“What?” Ren looked down again. “I didn't scrub myself yet.”
+
+“I took care of it already.” Denise said. “When you're thinking about serious things, you apparently don't notice being touched there.”
+
+Ren looked at her with wide eyes. “I'm so sorry!”
+
+Denise chuckled. “What are you sorry for?”
+
+“I... it's just... if you were going to touch me there, I...” Ren's face flushed a little red. “I wanted to at least enjoy it.”
+
+Denise laughed and got out of the shower to grab a couple of towels. “Next time I'll warn you that I'm scrubbing it, okay?”
+
+Ren laughed. “I never thought I would actually need a warning, so okay.”
+
+Denise dried him off, and then herself. She passed him his bathrobe, got dressed, and they went out to his room to pick out something nice for him to wear. Ren was dressed during a long discussion on the merits of loose clothing over form-fitting ones, and had finished just in time for Elise to show up.
+
+“Hi, Ren!” Elise said as she came into the room like a hurricane. The 6 foot 3 inch tall redheaded amazon wore 3 inch high heels today, with a billowing blouse and a pair of tight faded jeans.
+
+“Wow, Elise.” Ren said as he took in her outfit. “You're a sight for sore eyes.”
+
+“You're such a charmer.” Elise said, and leaned down to give him a kiss on the lips. Even with Ren standing at his full 4 foot 7 inch height, she had to bend over quite far to do it. She was quick about it, then stood back up. “Are you all ready?”
+
+Ren nodded. “You came in just as I was about to get in the wheelchair.” He said. “You've got perfect timing, along with everything else.”
+
+Elise laughed and helped him sit down. “How are you feeling?”
+
+“I'm actually pretty good.” Ren said. “The bruises on my arms are almost healed, and my chest should only feel like jello for another few days.”
+
+Elise shook her head. “Don't joke about that.” She said. “You were seriously hurt.”
+
+Ren chuckled. “For the last little while, I've always been seriously hurt.” He said. “I really am getting better.”
+
+“It's true.” Denise said. “He only needs a helping hand to sit and stand, instead of being lifted or lowered.”
+
+“I'm glad.” Elise said. “Now grab the keys and let's get going.”
+
+“I think someone is eager to see the new place.” Ren said. “I wonder who it could be?”
+
+“I don't know what you're talking about.” Elise said. “Now hurry up!”
+
+Ren laughed, and Denise took the room's cell phone and handed him the set of keys.
+
+“Would you like to do the honors?” Denise asked Elise, and motioned to the wheelchair's handles.
+
+“Sure.” Elise said, and Denise got the room's door for her. She pushed Ren out into the hallway, and they left the temporary care facility in Elise's Hummer H2.
+
+“Have I mentioned how much I like riding in this?” Ren said from the front passenger seat.
+
+“Only every time you get in it.” Elise said and chuckled. “I agree with Stella, though. You don't need to buy one yourself.”
+
+“Okay, fine.” Ren said. “It's not like I know anyone that could drive it for me anyways.”
+
+“That's true.” Denise said. “I'm nervous riding in it, I'd never be able to handle something like this!”
+
+“It does take some getting used to.” Elise said. “Having to pick the little cars out of the grill every week is a pain, too.”
+
+Denise and Ren laughed. They drove for about 10 minutes, and the traffic was kind of light. It didn't take long for them to get to the address where the new house was.
+
+“You have got to be kidding me!” Ren said, excitedly. “It's a gated community!”
+
+“That is a surprise.” Elise said. “It doesn't say that anywhere on the advertisement for the property, and Janice didn't say anything about it.”
+
+They pulled up to the driveway, and stopped at the large metal gate. A security guard came over to them and Elise rolled down her window.
+
+“We're here to see the foreclosure house.” Elise said to him. “I have the new owner with me, and we have the keys.”
+
+The guard nodded. “Name?”
+
+“Ren Haddon.”
+
+“Keys.” The guard said, and Ren gave Elise the keys, which she passed to the guard. He took them, unhooked a garage door opener from them, and handed the keys back. He went to the guard shack for a few moments, then came back out. “It's set to the right frequency.” He said and handed it back to Elise. She put it back on the key ring and handed them to Ren. “Welcome to Emerald Estates.”
+
+“Thanks!” Ren said, and pushed the garage door opener. The metal gate opened up, and the guard nodded.
+
+“If you need anything from me, hit Star and 9 on the phone. It's a direct line to my post.”
+
+“Does everyone need one of these things to get in?” Ren asked, and held the keys up.
+
+“No, just the owner.” The guard said. “You can give me a list of approved people and I'll open the gate for them.”
+
+“Can I do that now?” Ren asked.
+
+“If you want.” The guard said. “I'll get the form.”
+
+“Thanks.”
+
+The guard went back into the shack and came out with a clipboard and a pen. Elise took it and wrote down Stella, Barbara, Denise, and herself.
+
+“Who else?” Elise asked Ren.
+
+“Barbara's husband.” Ren said. “Gloria Rayford, Lisa Everet.” He thought about who else. “Just in case, you better add Bonnie, too.”
+
+“You can always call and add people later.” The guard suggested. “If someone shows up that's not on the list, I'll page you with a double beep on the phone.”
+
+“That's a great idea!” Ren said. “Thanks.”
+
+“It's my job.” The guard said as Elise handed him the clipboard back. “Have a good day.”
+
+“You, too.” Ren said, and Elise pulled into the Emerald Estates.
+
+“Wow.” Denise said. “Get a load of this place!” She said as they drove past a huge sprawling three storey house with 4 cars out front. “Is that a Porsche?”
+
+“Yes!” Ren said. “And that's a pony!”
+
+Denise stared as a kid was led around a small grass covered lot on the back of an all white pony.
+
+“This is so cool.” Ren said, then his eyes widened. “There it is! That's my house!”
+
+The pictures online didn't do it justice. The lot was huge, and the house was nestled right in the center of it. It was also three stories, but it seemed grander somehow. They pulled into the driveway, and it actually made the Hummer H2 look small by comparison.
+
+“I think the driveway was made for a tank.” Denise said when she got out and came around to help Ren climb out. “It's gigantic!”
+
+Elise laughed as she got out as well. “I think it was planned for several people to come and go, and they wouldn't have to worry about getting blocked in by other cars.”
+
+“I noticed that at the first house.” Ren said. “They were in a line, and they'd have to pull each one out to leave.”
+
+Elise nodded. “Or drive onto the lawn.”
+
+“I think the first three cars are just for show.” Denise said as she got the wheelchair out of the back and Elise stayed by Ren. “They only ever use the last car.”
+
+“Probably.” Ren said and sat down. “I wonder...”
+
+*Beep* *Beep*
+
+A horn honked and a car pulled into the driveway beside them. It was a man Ren didn't know, and he smiled as he saw the woman in the passenger seat.
+
+“Hi, Barbara!” Ren said when she got out of the car.
+
+“Hi, Ren. Long time no see.” Barbara said.
+
+“Sorry about that.” Ren said. “I was a little busy.”
+
+The man, who Ren assumed was her husband, got out as well.
+
+“Good morning, sir.” Ren said. “It's nice to finally meet you.”
+
+The man grunted a greeting, and Ren nodded slightly.
+
+“I'm glad you could make it on such short notice.” Ren continued. “It was my fault, actually.” He said. “I got caught up in other things, and I even almost missed breakfast.”
+
+“I know all about you playing that game.” Barbara's husband said. “It must be nice to escape like that.”
+
+“Sometimes.” Ren said, and glanced at Barbara. “I miss a lot of important things when I do, though.”
+
+The man nodded. He knew what it was like to miss something when you were too busy to pay attention to them.
+
+“Well! Let's go on inside, shall we?” Ren said and smiled at everyone. “Let's get a look at the house that I want to make my home.”
+
+The group went over to the front door, and went inside.

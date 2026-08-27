@@ -1,0 +1,439 @@
+---
+id: 49231564-ff81-5f6e-88ae-69280daf71b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80 - Bow Bracers"
+slug: 0064-chapter-80-bow-bracers
+partOf: mythrans-master-of-all-continued-completed
+position: 64
+ownLength: 4449
+unit: words
+publishedAt: 2016-11-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102500/chapter-80-bow-bracers"
+royalRoadId: "102500"
+---
+
+Ren slept well and woke up next to the woman he had wanted to really be there. “Maybe next time.” He said and slid off the bed. Ren stretched and then left the bedroom, shutting the door behind him. Ren took out a ration pack and ate half of it. He'd worked all evening yesterday in a kitchen, and still didn't eat a thing. Ren laughed as he went downstairs. I was surrounded by tasty food, and not once did I think about eating! Ren equipped his cloak when he got to the main floor. Morning, Teepo.
+
+“Good morning, Ren.” Teepo said.
+
+“Morning, Ruck.”
+
+Ruck waved and Ren went over to Teepo's place. Teepo crawled out and Ren picked him up.
+
+“Did you have a good rest?” Teepo asked.
+
+Ren nodded and put Teepo into the hood. I did, actually. I think having my own place is relaxing. Ren thought. It's not like I was worrying about anything before, but it all just seems so much better, you know?
+
+“I do.” Teepo said. “My place is great! You did a lot of work down there, Ren. Thank you.”
+
+Ren chuckled. I told you before, Teepo. You don't have to thank me. I actually liked making it for you.
+
+Ren opened the messaging system and didn't see any new messages. He was tempted to send another one to Clint, to see how far away he was, but decided that Clint would be there when he got there. Ren walked over to the door and unlocked it. He poked his head outside, just for the heck of it, and saw someone pulling a cart around the corner at the end of the street. They were having a difficult time with it and Ren went out to help. He ran over and saw it was the red-haired girl from the lumber mill.
+
+“Need a hand?” Ren asked.
+
+“Ahhh!” The girl said and jumped.
+
+Ren stopped himself before he laughed, but Teepo chittered in delight. I didn't even have Sneak on. Ren thought and smiled.
+
+“W-where'd you come from?” She asked with a hand on her chest.
+
+Ren thumbed over his shoulder to his building. “I just looked out my door and saw you might need some help.”
+
+“Oh. S-sure, Mister Ren.” The girl said. “I could use some help.”
+
+“No problem.” Ren said and gently moved the young woman out of the way and grabbed the handholds for the cart. “Where are you headed?”
+
+“Y-y-your place.” She said and blushed a little. “First.”
+
+“Well then... first stop, my place!” Ren grinned. “Climb aboard!”
+
+The girl had a shocked look on her face. “But... but...”
+
+“Come on, I can't wait here all day!” Ren said.
+
+The girl reluctantly climbed onto the cart with Ren's help, and sat where the driver would be if there was a horse. Ren smiled. I guess I'm the horse today. “Hold on.” Ren said and glanced back to see she had a good grip on the seat. Ready, Teepo?
+
+“You bet!” Teepo said and chittered a laugh.
+
+Ren enchanted the cart with a quadruple Antidark glyph and ran, pulling the cart behind him.
+
+“Ahhhh!” The girl shrieked, and just as she finished they were there. “What... what was that?!?”
+
+Ren laughed. “Sorry, I didn't realize I'd be quite that fast.”
+
+The red-haird girl shook her head and climbed down. She took a folded piece of parchment out of her pocket and marked Ren's name off the list. She only had a few names on it.
+
+“A dozen planks for you.” She said.
+
+Ren went around to the back of the cart and put a dozen planks into inventory, opened his door, then placed them just inside and locked up. “How much do I owe you?” Ren asked when he went back to the cart.
+
+The girl shook her head again. “Nothing. The boss said you get free lumber for a while.”
+
+Ren smiled and passed her 10 copper, just in case his new title decided that free didn't quite mean free in the same respect that he did.
+
+“M-Mister Ren! I can't take this!” She exclaimed.
+
+“You've got a hard job, today.” Ren said. “You're doing it all alone, too. That's the least I can give you for such an early delivery.”
+
+The girl opened her mouth, shrugged, and put the coins into a pocket.
+
+“Where to next?”
+
+“W-what?” She asked.
+
+“I can't let you take all this around by yourself, not if I can help.” Ren said.
+
+“Are you serious?” She said, surprised.
+
+“With me pulling the cart, your deliveries should go by fast.”
+
+The girl came over to Ren and put a hand on his arm. “You really do want to help me, don't you?” She said in a soft voice. “None of the guys back at the lumber yard wanted to.” She whispered.
+
+“Of course I want to help.” Ren said and smiled. “I can't just stand by and watch while a young lady struggles. You need help, and I'm only too happy to provide it.”
+
+“It's... it's Jhulune, not young lady.” She said and blushed a little.
+
+Ren smiled and held out a hand. “It's nice to meet you, Jhulune.”
+
+She shook Ren's hand and blushed. “T-thanks, Mister Ren.”
+
+“No need for the Mister. It's just Ren.”
+
+“O-o-okay, R-Ren.” Jhulune said and blushed really hard.
+
+“Climb aboard.” Ren said and helped her up to the seat. “Now, where are we headed?”
+
+“A building behind the Library. 6 planks and 2 posts.”
+
+“I'll try not to run too fast.” Ren said.
+
+“Awww...” Teepo said and Ren chuckled.
+
+“Hold on!” Ren ran and dragged the cart behind him. He didn't go full out this time, and slowed way down when he reached the corner of the street, then picked up speed again. It was early enough that there was no one on the street, so Ren didn't feel bad about running so fast. They arrived at the building and Jhulune made the second delivery.
+
+“Say, why don't you have a horse?” Ren asked.
+
+“Oh, the horse is sick.” Jhulune said. “We're still waiting for the healer.”
+
+“That's awful.” Ren said. “Any idea what happened?” Ren said as he started running for the next stop in the Market District.
+
+Jhulune shook her head, then realized that Ren couldn't see her and she smiled. “No. It was out grazing yesterday, and last night it became sick and the boss called a healer.”
+
+They arrived at the Market District and made another delivery. The cart was nearly empty now and there was only 1 delivery left.
+
+“And you decided that taking a cart full of wood, without a horse, was a good idea?” Ren said and laughed as he ran down the street until he came to the North Gate / South Gate street, and took the corner to go north.
+
+Jhulune wondered how Ren could run like this, pulling a cart, and could still carry on a conversation. He's even laughing! She thought. I was exhausted just pulling the cart down to the corner by the mill!
+
+They passed the Town Square and went west on West Gate street for 2 blocks, then made the final delivery.
+
+“Whew! Finished.” Jhulune said and pretended to wipe sweat from her forehead.
+
+Ren laughed. “Are you tired? If you want, you can rest in the back while I take the cart to the mill.” He said and grinned.
+
+“Okay!” Jhulune said and climbed into the back. “Go slow so I can take a nice nap!” She said and laughed.
+
+Ren shook his head. “I know you're only joking... but...” Ren pulled out a length of cloth and bundled it up into a makeshift bed. “It's only proper to treat you like a lady.”
+
+Jhulune had a surprised look on her face as she sat down onto the cloth.
+
+Ren went to the front of the cart and took the handholds. “Here we go.” Ren said and gently pulled the cart at a good walking pace up the curving side street. He avoided any divots and bumps that he could see and it took about 20 minutes to get back to the mill.
+
+“I'm not sure where this is supposed to go.” Ren said to one of the workers that had stared at him pulling the cart with Jhulune in the back. The worker pointed to a small stable across the street and Ren took the cart there. If I didn't know any better, I'd say they're a little jealous that it wasn't them pulling the cart. Ren thought and smiled as he passed them.
+
+“We have arrived at your destination, My lady.” Ren said loudly, and looked around. He saw a scowl on a few faces. Oh, yeah. Definitely jealous. Ren walked around to the back of the cart and held a hand out for Jhulune to take. She took Ren's hand and stepped down from the cart. Her face was a deep red and she tried her best to not look at anyone as she folded up the cloth Ren had put in the cart for her to rest on.
+
+“T-thank you, R-Ren.” Jhulune said and handed him the folded cloth.
+
+Ren bowed. “It was my pleasure.” Ren said leaned towards her. “I didn't mean to embarrass you, but they should know to help a lady when they can.” Ren whispered and leaned back to see that the color of Jhulune's face now matched that of her hair. That was quite an accomplishment. He thought and grinned.
+
+“O-o-okay.” Jhulune said and looked around. Everyone watched her and Ren as they stood there by the stable. Ren turned away from her and saw the horse, laying on it's side. A worker was trying to get it to drink water.
+
+“Would you mind if I took a look at the horse?” Ren asked.
+
+Jhulune looked surprised. “Are you a healer, too?”
+
+Ren shook his head. “No... but if that horse ate something to make it sick, then there is something I can do to help.”
+
+Jhulune looked at the other worker, who shrugged. “Go ahead.” She said.
+
+Ren stepped into the stable and looked at the horse's neck. Nothing there. He kept looking and eventually made it to the horse's belly. There. It was the telltale dark veins of poison he'd seen several times already. They were only faint, thankfully.
+
+“I think it ate some poison herbs by mistake.” Ren said and sat down. “Maybe an antidote potion will help.” He pulled out his Alchemy kit and Jhulune and the worker stared at him in shock as he made up a weak antidote potion.
+
+“He won't eat or drink.” The worker said.
+
+“Well... he will if you know how to tempt him...” Ren said. “I'll be right back.”
+
+Ren put the Alchemy kit and antidote potion into inventory, stepped around Jhulune, and ran full out.
+
+“Wheee!” Teepo shouted.
+
+Ren wasn't sure if he heard other people shouting or not, but it didn't matter right then. 2 minutes later, he was in the mansion and knocked on Donna's office door.
+
+“Come in.”
+
+Ren opened the door and cut right to the chase. “Hi, Donna. I need one of your sweet pastries, please. A horse is sick and won't eat. I want to put an antidote potion in it.”
+
+Her eyes widened at Ren's appearance and sudden request. Donna stood up and nodded. “Anything else?”
+
+Ren shook his head. “No. I'll be back soon to work, even if I have to tell my friend to cancel his visit.”
+
+“That's okay.” Donna said and went into the kitchen. She came back with several pastries. “Just in case one isn't enough.”
+
+Ren stored them in inventory and grinned. “Thanks, Donna!” He gave her a quick hug and took off running.
+
+“At least walk until you get outside!” Donna said to Ren's disappearing figure.
+
+Ren was already out the front door and Donna heard his response before it closed. “Sorry!”
+
+Donna chuckled. He's just like Donan described.
+
+Ren ran back to the stable and came to a stop when he got to Jhulune, who was waiting for him.
+
+“I got it.” Ren said and took out a pastry. Jhulune's eyes widened at the sweet in Ren's hand.
+
+“Where did you get that?” She asked.
+
+“From the mansion's kitchen.” Ren said and took out the antidote potion, and didn't notice the shocked look on Jhulune's face.
+
+Ren slowly added the antidote to the pastry, and it could only hold about half of the potion. Ren smiled. Thanks again, Donna! He thought and passed the pastry to Jhulune. “Don't eat it.” Ren said and smiled again. Jhulune rolled her eyes and Ren took out another pastry and filled it with the rest of the antidote, and stored the bottle. “Here goes nothing.”
+
+Ren took both pastries, walked around the horse to it's head, and knelt down. The horse didn't move at all, even though Ren was so close. He took one of the pastries and slowly passed it near the horse's nose. Only a little, then a bit more, then closer. The horse's nose twitched and sniffed. Ren smiled. He moved the pastry side to side and the horse moved it's nose to follow. Ren gave the pastry to the worker who held it in their open palm. The horse's tongue swiped the pastry off the open hand and into the horse's mouth. Ren passed over the next one, and the horse did it again.
+
+“Now we wait.” Ren said and stood.
+
+“What's going on here?” Jen asked as she approached the stable and the growing crowd.
+
+“I heard about your horse being sick; so, I thought I'd try and help.” Ren answered.
+
+“A professional will be here this afternoon.” Jen said with her hands on her hips.
+
+“Boss!” Jhulune said.
+
+“What? He's not a healer.”
+
+“No, but he did make an antidote potion!” Jhulune said, exasperated.
+
+“He did?” Jen stared at him, and Ren nodded.
+
+“I recognized the dark veins on the horse's belly. I think it ate some poison herbs by mistake.”
+
+“Oh.” Jen said, mollified.
+
+“All we need to do now is wai-” Ren tried to say when the horse half-jumped up and then stood.
+
+There were a couple of shouts and Jhulune gave Ren a hug. “You did it, Ren!”
+
+Jen looked at him with raised eyebrows, and Ren smiled.
+
+“He should still be looked at.” Ren said. “He definitely needs healing after being sick all night.”
+
+Jen nodded and Ren started to walk away. Jhulune caught up to him a moment later and walked with him.
+
+“Thanks a lot, Mist... ah, Ren.”
+
+“I've never been a horse pulling a cart before.” Ren said and smiled at Jhulune's surprised expression. “It was fun.” They kept walking. “Besides, I think you'll be getting a lot more offers to help from now on.” Ren said and nodded to the other workers that watched them walking down the street.
+
+Jhulune looked around and most of them averted their gazes, and she blushed.
+
+“You better get back to work, before the boss get mad.” Ren said and grinned.
+
+Jhulune nodded and stopped walking. Ren did too, and turned around.
+
+“R-Ren... um... would... ah... would you...” Jhulune stammered, and Ren held up a hand.
+
+“I'm tempted to let you finish, just so you'd know that you can ask something like that of a boy and not be embarrassed.” Ren said and Jhulune blushed. “But... I don't want you to be embarrassed.” He said. “I'm already seeing someone.”
+
+Jhulune sighed and nodded. Ren took her hand.
+
+“You're gonna break some hearts, Jhulune. I can see that clearly.” Ren said and waved at the guys waiting for her. “I'm a little sorry that the first one won't be mine.” Ren said and grinned.
+
+Jhulune was quiet for a minute and then smiled. “S-s-she's a lucky girl.”
+
+“That's what I keep telling her!” Ren exclaimed.
+
+Jhulune laughed and nodded. Ren waved to her as she walked away and he saw the face of several guys light up when she smiled at them.
+
+Yep, she's a heartbreaker.
+
+Ren walked around the corner and down the street to his building. He unlocked the door, but didn't open it because he could hear something coming down the street. Ren turned around and saw a big warhorse clomping down the street, and on it's back was Clint. Ren waved and Clint waved back. The warhorse sauntered over and Clint slid off the saddle.
+
+“Howya doin' Ren?”
+
+“I'm fine. It's nice to see you after so long.”
+
+Clint nodded. “Yeah, ah was just wondrin th' other day about when you'd be makin' me new bracers, an' then ah got yer message.” He said. “Came 'ere as fas' as ah could.”
+
+Ren opened the door to his building. “I appreciate that, Clint... but, I'm not sure what we can do with your mount.” Ren said. “I don't have a stall or anything. Maybe tie it up out back?”
+
+Clint shook his head. “No need. She'll stay righ' 'ere by th' door ifin ah tell her to.”
+
+“Really?” Ren said. “That's great!” He stepped through the doorway and then stepped back. “Does she like sweets?”
+
+Clint's eyes widened as Ren handed over a pastry.
+
+“I'm saving the last one.” Ren said and went inside.
+
+Clint's mount had frozen stiff when it had caught the scent of the sweet.
+
+“Ah don' normally give ya things like this, but bein' as how it's from Ren.” Clint said and held the pastry out to his mount. It very gently reached out and plucked the sweet from Clint's outstretched hand and then slowly moved it around the inside of it's mouth. The warhorse shivered as the sugar hit it's system and it chewed the pastry slowly... and neighed in delight as the pastry dissolved and the horse swallowed it. Clint rubbed it on the head.
+
+“Ya see? Tha's why ah don' give ya these things.” Clint said and laughed. “Ah reckon Ren's yer favrite now, huh?” The warhorse nodded and Clint laughed again. “Stay 'ere by th' door, okay?” The warhorse nodded again and Clint went inside, and saw Ren coming down the stairs. Clint looked around and only saw the forge, anvil, stack of wood, and a backpack on the wall. “Tis a mite empty.”
+
+Ren nodded and pulled out 2 comfy chairs from inventory. “I haven't had a chance to make any furniture to put down here yet.” Ren said and sat down, inviting Clint to sit in the other one. “How have you been?”
+
+“Ah been doin' fine. Mah business has been goin' steady fer a while now.” Clint said. “Ah was glad ta hear from ya, an' tha' yer doin' well, too.”
+
+Ren chuckled. “Not yet. I haven't opened a storefront or anything. I literally just bought the place a couple days ago, real time.”
+
+“No kiddin'?” Clint said and grinned. “Then it looks a lot better'n ah thought.”
+
+“Ha. Ha. Ha.” Ren said and smiled. “Very funny.”
+
+Clint chuckled. “Since ah saw you come down wit these, ah assume ya got more up there?”
+
+“Just a couch in the living room. A bed, end tables, and a dresser in the bedroom. Table for the kitchen.”
+
+“Sounds like yer makin' an apartmen' up there.”
+
+“I am.” Ren said. “I figure since this is my own place, I might as well make it my own place.” Ren shook his head. “That didn't come out right. What I meant is, I can come here to work, but I also wanted a place to live.”
+
+Clint nodded. “Ah getcha. Havin' yer own space ta go to, is always a good thing.”
+
+They sat in silence for a minute and Ren started to laugh.
+
+“Whahso funny?” Clint asked.
+
+“I've been trying to delay showing you them; but it's killing you, isn't it?” Ren laughed.
+
+“How canya tell?”
+
+“You've been fidgeting ever since you sat down.”
+
+“Alrigh'.” Clint said. “Hand'em over.”
+
+Ren opened his inventory and took out the bow bracers. Clint whistled as Ren handed them over.
+
+“Ren... these shure are beauties.”
+
+“I didn't know what color you wanted them, so I just left the main bracer a dull silver. Is that okay?”
+
+“Tis more'n okay!” Clint said and equipped them, then sat back in the chair in shock. “Did ya look at these stats?”
+
+Quick Shot Bow Bracer (Upgraded - High Quality)
+
+Strength  +10  Dexterity  +10
+
+Accuracy  +50%  Piercing  +10%
+
+Critical Hit  +30%  Damage Bonus:  +50%
+
+Durability  550/550
+
+How'd ya do it?” Clint asked as he examined them.
+
+“Just some secret ingredients and a few enchantments.” Ren said. “I should probably tell you that I upgraded the cartridges, too.”
+
+“Whadaya mean?”
+
+“They're 14 shots each, now. Pop one out and see.”
+
+Clint took out the cartridge and most of the outside of the bracer came off in his hand. “What? How?”
+
+Ren shrugged. “I remember how many times you had to change the things out during the battles in the cave, and I wanted to give you a little more time before you had to switch them out for new ones.”
+
+“Ren...” Clint tried to say as he put the clip back into the bracer.
+
+“I know, I know... 2 cartridges isn't enough. I didn't know what kind of offensive punch you wanted, so I made these for you.” Ren took out the 4 cartridges with the color-coded bolts. “This one's Lightning, here's Fire, Holy in case you meet any undead, and Ice. That one's always a favorite.”
+
+Clint sat there, stunned into silence.
+
+“The bolts have steel tips, too... and you know that damage is boosted by your stats. The basic bolts should do anywhere from 25 to 75 damage each, depending on where you hit and your stat bonuses. That's a lowball count by the way. Since you're a range weapons expert, it's probably a lot higher than that. Also, it'll be about 25% higher for the enchanted ones. I only enchanted 4 cartridges full of special bolts, though. I'm not made of mana, you know!” Ren said and laughed at Clint's face. “Okay, okay! I'm sorry that I'm teasing you so much. Here's the rest of the cartridges I made.” Ren said and pulled out the other 8 cartridges of bolts and stacked them on the floor, 14 in total.
+
+“Ren... ah... ah don' know how I can thank ya enough fer this!” Clint said and shook his head. “How much do ah owe ya?”
+
+“Nothing.”
+
+“REN!”
+
+“You're money's no good, Clint. I should have had these made for you a while ago.” Ren said. “Of course, I only just learned how to make a bow... but, the first thing I did was make these with that knowledge. I'm sorry it took so long.”
+
+“Ren... yer crazy if'n ya think I'm not gonna pay fer all these!”
+
+“I won't take any money for them.”
+
+Clint sat in silence for a minute, and then had an idea. “If'n ya won't take mah money... then by God, I'll give ya a mount!”
+
+“A-a what?”
+
+“A mount! Just like Izabeal!”
+
+“Clint, I really don't think...”
+
+“Ren! Ya'll givin' me a fortune in weapons an' ammo. Yer takin' a mount, whetha ya like it er not!”
+
+Ren sighed. “Okay... but Izabeal is way too big for me.” Ren said. “In fact, I thought she was too big for you.”
+
+Clint laughed. “She thinks she's too big fer me, too.”
+
+Ren chuckled.
+
+“Ah'll find somethin' fer ya. Don' you worry 'bout it none.” Clint said.
+
+“If you're going to give me a mount, you'd better deliver it at the end of the game week. I'm leaving next week, and I don't know how long I'll be gone.”
+
+Clint nodded. “Ah'll have it here.”
+
+Ren nodded. “Now, pick up all your stuff!” Ren said and pointed. “I can't believe you're such a slob, leaving this mess on my new floor.”
+
+Clint guffawed, stood up, and stored everything into inventory. “Ren, ah don' see no mark o' yours on these things.”
+
+“Mark of mine?”
+
+“Ya know... somethin' that someone would see an then they'd know it was you that made it.” Clint said.
+
+“Oh. I never thought of doing that, actually.” Ren said. “I'll look into how to make one.” Ren stood up. “Thanks for the idea.”
+
+Clint nodded. “Ren...”
+
+“Clint...” Ren said and stepped forward with his arms open... and Clint punched him in the shoulder.
+
+“Ow!” Ren said and rubbed his arm. “What was that for?”
+
+“Fer trying ta hug me. They ain' nothin' wrong with it, but ah don' swing tha' way.”
+
+“You don't... swing that...” Ren started laughing.
+
+“Whahso funny now?” Clint asked.
+
+“It... it was just a hug!” Ren said between laughs. “I wasn't... I wasn't making a pass at you or anything.”
+
+“Oh. Sorry.” Clint said, a little embarrassed.
+
+“That's okay.” Ren waved his apology away. “I don't think there's anything wrong with it, either... but I am firmly on the 'liking girls' side of the fence.” Ren grinned. “Trust me.”
+
+Clint nodded. “Ah better git goin'.” Clint said. “Ah got a few things to pick up before ah head home.”
+
+Ren led Clint to the door and opened it. “It was nice seeing you again, Clint.”
+
+“Ah reckon it really was nice fer ya.” Clint said and grinned.
+
+“Get outta here, you old cowpoke.” Ren said.
+
+Clint stopped in the threshold of the door and put a hand on Ren's shoulder. “Ya'll be safe, and take care, Ren.”
+
+Ren nodded. “You, too.”
+
+Clint walked over to his mount, climbed up the stirrups, and sat in the saddle.
+
+“Bye, Izabeal!” Ren said and waved. Izabeal nodded her head and Clint laughed as he guided her in a 180 degree turn and then down the street. He kicked her into a trot and then they disappeared around a corner.
+
+Ren went back inside and grabbed the 2 comfy chairs. He took them upstairs to his apartment and put them back where they were. He opened the bedroom door, and Lucy's phantom form was still there on the bed. Ren walked over to the end table and took out a big piece of cloth, dyed it bright blue and put it on the table. He wrote a quick note on the cloth and put the last pastry he had on it.
+
+“If she wakes up while I'm gone, she'll have a nice treat to tide her over until I get back.” Ren left the apartment and then locked up the building. “Teepo, we've got some cooking to do!” Ren said and took off running down the street.
+
+“Wheee!” Teepo said as people and buildings whizzed by.
+
+He always enjoyed it when Ren ran.

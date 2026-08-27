@@ -1,0 +1,311 @@
+---
+id: 1967a72d-1a3b-54c6-9dff-3d5b7a4880e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 283 - Cleaning Up"
+slug: 0274-chapter-283-cleaning-up
+partOf: mythrans-master-of-all-continued-completed
+position: 274
+ownLength: 3475
+unit: words
+publishedAt: 2017-06-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142935/chapter-283-cleaning-up"
+royalRoadId: "142935"
+---
+
+Ren dug his way over to the spot Teepo indicated, and exposed a foot wide spot in the wall.
+
+If anyone's inside, they're going to hear this. Ren thought, and dug one of the bricks out.
+
+“We're saved!” A male voice said. “We can't get out through the door! Help us!”
+
+Teepo.
+
+Teepo flew into the room, saw the contents, and flew back out. “There's three male dwarves in there, and it looks like an armory.”
+
+They were either guarding it, or were handing items out. Ren thought and touched the Staff of Earth Moving to the wall. He opened a passage for the dirt to go in, and it quickly filled the room. The dwarves didn't even have time to yell before they were buried. Ren went inside and examined several items, but they were all of medium to low quality, and weren't worth taking up the inventory slots to store.
+
+Where's the next spot? Ren asked his friend.
+
+“The next room.” Teepo said. “About 10 feet to the left.”
+
+For the next half an hour, they checked every room that they could get access to. Ren was tempted to go inside and search that way, but then he'd have to fight anyone he met. It was much easier to let the dirt do the dirty work, because that's what it was; dirty work to finish cleaning up the thieves.
+
+“I think we hit pay dirt.” Teepo said when he entered the latest room, then chittered in laughter. “Sorry, that was a bad pun.”
+
+It's hard not to laugh at this. Ren thought. We're flooding a mostly buried castle with dirt, and looting what we can.
+
+Teepo flew back out to Ren and landed on his shoulder. “It looks like a high class room and no one is inside.”
+
+Ren dug out a space big enough to fit through, then stepped inside. “You're right, Teepo.” He said and walked over the angled floor. “This looks like a room a king could stay in.”
+
+Nearly everything was covered in gold, but it was also all tumbled to the side of the room.
+
+“All of the rooms are like this.” Ren said and activated Enchanted Eyes. “I sure made a mess of the place.”
+
+“Only on the inside and outside.” Teepo chittered in laughter.
+
+Ren smiled and noticed a spot on the wall that glowed. He walked part-way to it, then activated Decipher and Read Rune. He couldn't see anything, but it still glowed.
+
+“What do you think it is?” Ren asked.
+
+“I'd say a secret stash.” Teepo said. “I'm thinking this is the head of the Thieves Guild's personal quarters.”
+
+Ren thought about what to do. “I can't approach it too closely, in case it's a trap; and I can't deactivate it, in case it needs the enchantment to keep it intact.”
+
+“Try making a passage in the wall.” Teepo suggested.
+
+“I could, but... it makes a huge opening. If it opens up to the outside, it'll bury anything that's inside.” Ren said. “Hm. I wonder...”
+
+Ren stored his mining pick and took out another Level 2 Web wand and absorbed the charges, then filled it with the Knock spell. He examined the wand with Identify and read the popup.
+
+Wand Of Entering
+
+A Knock spell opens stuck, barred, locked, held, or arcane locked doors. It opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold closures shut). If used to open an arcane locked door, the spell does not remove the arcane lock but simply suspends its function for 10 minutes. In all other cases, the door does not lock itself afterwards or become stuck again on its own.
+
+Limitations: Knock does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, etc.
+
+Range: Within 100 feet (Medium).
+
+Target: One door, large box, or a medium-sized chest. (Level 2)
+
+“Perfect.” Ren said and pointed the wand at the glowing spot on the wall, and used the spell. There was a knocking sound, then a door-sized piece of the wall pushed back and moved aside.
+
+“Ahhh! Nooo!” A woman's voice screamed, and several gold plates flew out through the opening. “Stay away!”
+
+Ren switched his Command Aura to his Camaraderie Aura, and Teepo flew into the room.
+
+“Ren you aren't going to believe this.” Teepo said.
+
+Let me guess. Ren sighed. He had several personal maids.
+
+“Okay, maybe you are going to believe it.” Teepo chittered in laughter.
+
+“I'm not that idiot!” Ren hollered into the room, and the barrage of plates stopped.
+
+“Wh-what?” The woman's voice said. “I don't recognize your voice. Who's speaking?”
+
+“I'm the man that killed the head of the Thieves Guild.” Ren said. “I'm coming to the entrance of the room. Is that okay?”
+
+He could hear furious whispering, even from this far away.
+
+“Yes, but be warned! If you try anything, we have weapons!”
+
+“They have a few more plates, and handfuls of silverware.” Teepo said. “Even if you weren't wearing your armor, they couldn't hurt you.”
+
+Thanks, buddy. Ren walked slowly over to the secret door and peeked inside. He saw the place was just as messed up as everything else was; but, at least the room was much smaller than anything else he'd seen up to this point. The things inside didn't have far to fall when the castle had tilted into the dirt and was buried. There were 5 female dwarves inside, and there were a few visible injuries on them.
+
+“I'm coming in!” Ren said, and stored his shield, the staff, and the Knock wand. He was tempted to store his armor as well, but changed his mind because he didn't want the women to think that he went there and fought the Thieves Guild in only his clothing. He also took out one of the swords he'd looted to hold in his hand, so they would see he had a weapon. He stepped inside, and the women all gasped when they saw it really was someone that wasn't the head of the Thieves Guild or one of his personal guards.
+
+“I'm putting the weapon away.” Ren said and stored the sword and held both bare hands up. All of the women relaxed visibly, and a few of them sighed; and one even started to cry in relief. “Is everyone all right?” He asked and walked into the room.
+
+“How are you doing that?” One of the women asked. “We can't even stand up properly, and you're walking on the floor like it's not tilted over at all!”
+
+“It's a Wondrous Item that I own.” Ren said. “It lets me walk on walls.”
+
+“Throgg would have killed for something like that!” She said, and another woman laughed.
+
+“He killed whenever he wanted, and didn't need a reason.”
+
+“He paid well for companionship, though.” Another woman said, then shivered. “I'm really glad I never had to actually go through with anything besides hugs and kisses.”
+
+“Lucky you.” The first woman said. “I got here before his obsession with money took over everything.”
+
+“It wasn't that bad.” The other woman said. “He was a lot better than my trainer.” She said. “That idiot barely showed me what to do, finished, and threw me out of the room.”
+
+“You, too?” Another woman said. “I thought it was just me!”
+
+“Quick poll! Who had a horrible first experience with their trainer?”
+
+Four of the female dwarves raised their hands, and they looked at the fifth.
+
+“He was sweet and treated me like a Lady.” She said. “I've never met anyone else like him.”
+
+Ren stood there and felt surprise as he listened to the women talk like they were sitting around a table and gossiping, and not buried underground with injuries and sitting in the corner of a room on top of debris.
+
+“I always knew that women were amazing.” Ren said.
+
+The female dwarves stopped talking and turned to look at him.
+
+“Excuse me?” One of them said.
+
+“You were in a locked room, tumbled around and buried underground, and some of you got hurt. Now, you're sitting on top of what's left of the things in this room, and are talking like you're meeting over tea or something.” Ren smiled. “That's pretty amazing.”
+
+Several of them stared with wide eyes at Ren, and the one that had cried in relief when she saw him, actually blushed because they all knew he was telling the truth.
+
+“May I approach you?” Ren asked. “I have some healing experience.”
+
+The women looked at each other and leaned in close. They talked pretty fast, and then they all nodded.
+
+“If you give your word you'll get us out of here.”
+
+Ren looked at the 5 female dwarves. “I assume you all came here of your own free will?”
+
+They all nodded.
+
+“Did any of you help in the kidnapping of the girls?”
+
+“What girls?” One of the women asked.
+
+“The Thieves Guild had 7 girls, all various ages, kept in the dungeon here.” Ren said, and he saw the shock on their faces.
+
+“Oh, no!” One of them said. “You don't think...” She looked at the first woman. “Is that why he lost interest in us?”
+
+The first woman laughed. “No, it's like I said. He's obsessed with money. He lost the desire for sex years ago.”
+
+“Thank the gods.” The other woman said, and looked at Ren. “We've been required to stay in here since we signed our contracts.” She said. “It was Throgg's first order to us.”
+
+The other 4 female dwarves nodded slightly.
+
+“I'm glad.” Ren said, and walked over to them. “I give my word that I'll take you out of here.”
+
+The female dwarves nodded and Ren knelt by the first one.
+
+“Where does it hurt?” Ren asked her.
+
+“My arm.” She said, and Ren carefully examined it. From his experience with the injuries he treated on the giants, and his own injury in real life, he knew the elbow was dislocated. He took out a Major Healing wand, used a single spell, then stored it again.
+
+“How's that?” Ren asked her, and she flexed her arm.
+
+“It... it's fine.” She said, surprised. “Thank you.”
+
+“Are you hurt anywhere else?”
+
+“I... I'm not sure.” She said. “It's hard to tell after a while.”
+
+Ren smiled at her and nodded slightly. “I understand.” He said. “May I give you a full examination?”
+
+The female dwarf blinked her eyes a few times at him. “You... want me to take my clothes off?”
+
+Ren chuckled. “I don't think we have to go quite that far.” He said. “But I am going to have to touch you extensively to make sure you aren't bruised or hurt anywhere else.”
+
+“Um... I think you should check the others for their obvious injuries first.”
+
+Ren looked at the woman next to her. She had a grip on her leg, and it looked like her ankle might be broken.
+
+“I think that's a good idea.” Ren said. “Please excuse me for a few minutes.” He went to the woman holding her leg, and asked her for permission to touch her. She gave it gratefully, and Ren very carefully used his hands to feel around and find the parts that were damaged.
+
+“Okay, I'm sure your ankle is broken, and you've got a deep bruise on your thigh.” He said as he pulled his hands out from under her dress.
+
+“It was that stupid chest!” She said, and pointed to a large iron and wood chest that sat at an odd angle a few feet away. “The damn thing rolled right over me.”
+
+Ren put a hand on her arm. “I'm so sorry.” He said and took out the Major Healing wand. “I'll fix it right away.” He used a charge on her ankle, and then lifted her dress just enough to heal the bruise on her thigh. “I'll be back to check you thoroughly.”
+
+She nodded slightly, and Ren checked the next woman. She had a bruise on her back that covered more than half of it.
+
+“You're lucky it's just a bruise.” Ren said, and healed it. “If what you hit had been a few inches to the right...”
+
+The female dwarf sighed. “Thank you.” She said. “I was having a hard time breathing because it hurt so much.”
+
+“Is that all of the major injuries?” Ren asked them, and they nodded slightly. He went over to the first one he examined. “This should only take a minute or two.” He said. “I learned this from a good healer.”
+
+The female dwarf stayed as still as she could manage as Ren gave her a physical examination with her clothes still on. He was true to his word and checked her as completely as he could; but, didn't find anything else wrong.
+
+“It seems you're fine.” Ren said. “Thank you for letting me examine you.”
+
+“No, thank you.” She said, her face a little red. “I haven't had a man touch me like that in... well, I've never had a man touch me like that.” She admitted. “I'm tempted to fake something just so you'll examine me again.”
+
+Ren chuckled. “Sorry, Ma'am. Only once per customer.” He said and looked at the next woman. Her face was slightly red as well, and he saw that she hadn't bothered to pull her dress back down from before. He gave her a full examination, and he could tell she was gritting her teeth to stop from moaning in pleasure.
+
+I guess they're pretty starved for attention. Ren thought and then he found a bruise on her upper arm. He healed it and leaned back. “All done.” He said, and went to the next woman. When he asked her for permission to touch her, she responded in a slightly unexpected way.
+
+“Oh, yes.” She said. “Please touch me.”
+
+“I'm just examining you for injuries.” Ren said. “This isn't...”
+
+“I don't care.” She said and took his hand. “Make sure you pay extra attention to my chest.” She laid back and pushed her chest up into the air. “I have a lot of tension built up there, and the muscles feel like they're too tight.” She smiled. “Please help me by massaging them.”
+
+Ren gave her an examination, and he did find that she had tension in her chest muscles. He massaged them like she asked, and she didn't even bother trying to hide her moans of pleasure. He shook his head as three of the other dwarf women laid back and wanted him to relieve their tension as well.
+
+“I'm sorry.” Ren said and looked at the only one that he hadn't examined at all. “I only have one of you left to examine.”
+
+The female dwarf shook her head and tried to back away.
+
+“It's all right.” Ren said. “Despite how the others are reacting, I really am only examining for injuries.”
+
+“It's... it's not that.” She said. “I... I'm really turned on right now.”
+
+“Wh-what?”
+
+“I'm afraid that if you touch me, I'll...” She blushed.
+
+“You don't even know me.” Ren said. “How can you want to...”
+
+“You came in here, rescued those girls, killed the whole guild, and now you're healing personal maids after sinking the castle into the ground.” She shuddered. “I want you so bad right now!”
+
+“Oh.” Ren said and noticed her hand. She had been hiding it up until now, but he could clearly see that her wrist was broken. He slowly walked over to her and knelt. “Ma'am, I'm sorry you feel that way.” He said. “I didn't intend to cause you such distress.”
+
+“Distress!” She exclaimed. “I want to tear your clothes off and have my way with you, right here in this... this... tomb!”
+
+“Can you fight the feeling off for a little bit longer?” Ren asked her. “I need to heal your hand.”
+
+She looked down at her dangling hand, and tucked it back into her clothing. “It's nothing.” She said, but he could see how much pain that little movement had caused her.
+
+“Ma'am, please.” Ren pleaded. “I'll only touch your hand, and possibly your wrist.”
+
+“No, even that... I'll...” She shook her head. “Do you know how hard it is for me to not throw myself at you?”
+
+“It's one of the things I don't quite understand about dwarf culture.” Ren said. “I'm apparently a good mate because I prove how strong I am.” He shook his head. “It doesn't matter if I'm good or bad, rich or poor, or anything else like that.”
+
+“Right.” She said. “Everything like that can be earned and doesn't matter.” She smiled. “All that really matters is the potential for your children to be even more powerful than you.”
+
+Ren blinked his eyes at her. “Wait... that's the imperative for females to judge a male's worthiness?”
+
+She nodded. “The reason I signed a contract with Throgg was the chance, the very slim chance, that he would want children.”
+
+“Oh.” Ren said, and thought about all of the reactions of the female dwarves since he came to the Dwarven Kingdom. “Well, I guess that does explain a lot of what's happened to me.” He said and smiled. “Thank you for explaining it to me.”
+
+“You're not angry?” She asked. “When people find out that we only think of men as sexual objects that can give us children, they usually freak out, yell at us, or run away.”
+
+Ren chuckled. “I try not to judge people for what they feel.” He said. “Has talking to me eased your lust a little?”
+
+“By the gods, no.” She said and grinned. “I want you to pound me so hard that our grandchildren will be born with headaches.” She laughed. “I am a lot calmer, though.”
+
+Ren grinned back at her. “I think that's the weirdest request for sex I've ever heard.” He said. “Would you be upset if I politely decline?”
+
+“Yes.” She said, and winked at him. “But it's understandable. We're buried underground and aren't alone right now.”
+
+“It's not that.” Ren said. “I've got too many women to take care of properly as it is. I don't have the time to spare, or the room in my life, to have yet another one thrown into the mix.”
+
+“Hold on.” One of the other female dwarves said. “Are you saying you'd have sex with her if you didn't have someone else?”
+
+“No, I'm saying I can't even consider the possibility, because I'm having a hard enough time with the women I have now.” Ren said. “I honestly can't start seeing another woman.”
+
+“Why couldn't we have met you first?” The female dwarf with the broken wrist said, and held her hand out for him. “I'm sure I can suffer through your touch now.”
+
+“Are you sure?” Ren asked. “It's bad enough you're suffering physical pain because of me, but I don't want you to suffer emotional pain as well.”
+
+“Yes, I definitely regret not meeting you first.” She smiled sweetly at him. “Please heal me.”
+
+Ren nodded slightly, and carefully examined her hand and wrist. When he gently probed her lower arm, he found where the break was. He had to use two Major Healing spells, but her wrist and arm were healed in no time, and he let her hand go.
+
+“Let's get you out of here.” Ren said and stood up.
+
+“You aren't going to loot the place?” One of them asked.
+
+“What for?” Ren asked.
+
+“The things in here are worth hundreds of platinum coins.” She said and pointed to the chest that had hurt one of the other female dwarves. “That chest alone is worth 15 platinum.”
+
+Ren shrugged. “I don't need the money.”
+
+“WHAT?!?” The female dwarves yelled. It echoed loudly from the bare walls.
+
+“Come on, let's go.” Ren said and helped the closest female dwarf stand up. “I need to get home.”
+
+The first female dwarf shook her head. “We can't leave.”
+
+“Excuse me?”
+
+“We were ordered to stay in this room, and we haven't been able to leave since.”
+
+“But he's dead now.” Ren said.
+
+“He never rescinded the order.” She said. “Until you find the contracts, we're not going anywhere.”
+
+Ren looked at her, then at the piles of things they sat on.
+
+“They should be in here somewhere.” She said and pat the cabinet she sat on. “Start looking.”
+
+“I have a better idea.” Ren said and helped her stand up, reached down and touched the cabinet, then stored it. “I'll clean up the place first, then look.”
+
+The other female dwarves stood up and watched as Ren walked around and stored everything, then marvelled as his pace didn't slow down or falter, despite having to carry so many things.

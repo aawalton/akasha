@@ -1,0 +1,327 @@
+---
+id: f1451ca1-028f-5af6-8634-4e4fc05e973a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 335 - I'll Try That"
+slug: 0328-chapter-335-ill-try-that
+partOf: mythrans-master-of-all-continued-completed
+position: 328
+ownLength: 3739
+unit: words
+publishedAt: 2017-08-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156208/chapter-335-ill-try-that"
+royalRoadId: "156208"
+---
+
+Ren and Anabelle had a great time for their 'date', even though they only had a brief amount of time to spend together. He left her well and truly sated in her bed, and left the apartment on the third floor of the shop. He went out through the back door, down the stairs, and down the street; then he felt his Aura merge with the shared Aura that his personal maids had. He ran over to the Housing District and his new home that he shared with the maids, Princess, Ruck, and Railyse. He went inside and up the stairs, then into the master bedroom.
+
+“Did you have fun?” Frikara asked. She laid upside down on the bed with her head towards the door, rather than towards the headboard like the other maids. Ren could feel that she was being playful, and she lifted her arms and put her hands behind her head as she arched her back. It showed off her chest to full advantage, and Ren let his appreciation of the sight flow into the shared Aura.
+
+“R-Ren?” Frikara looked at him with wide eyes. “You really like them?”
+
+Ren chuckled, walked over to the bed and knelt. “No, they're horrible.”
+
+Frikara winced hard, and he felt the other maids wince, too.
+
+“I'm sorry for joking about it.” Ren said, cupped the sides of her face with both hands, and kissed her on the lips upside down. He felt her surprise that he would kiss her like that, and he stopped and looked at her. “They're fabulous, and you know it.” He said and gently stroked her cheeks with his thumbs.
+
+“R-Ren...” Frikara said. “...I'll forgive you... if... if you kiss me like that again.”
+
+Ren could feel how much she wanted it, and how happy she was that he'd already done it. He glanced up at the other maids, and saw that they all sat up and looked at him. They also had similar feelings.
+
+“Please... forgive me.” Ren said in a deep voice, looked back down at Frikara, and kissed her. Frikara took her hands from behind her head and wrapped her arms around Ren's head instead. She moaned as he kissed her for nearly a full minute; then he felt the bed shift and the other maids moved through the Aura. When he broke the kiss and looked at them, he saw that they all were at the end of the bed, laid down on their backs with their heads facing him, just like Frikara was.
+
+“We'll forgive you, too.” Navruth whispered and held her hands out to him. Ren went to each of them and gave them upside-down kisses. They each reacted differently to it. Frikara enjoyed it immensely and actively kissed him back. Navruth had wrapped her fingers in his hair and held on for dear life. Verwynn went limp and couldn't lift her arms to hug him because she was so lost in the sensations. Lusinia used her tongue ruthlessly and gave Ren's tongue a good workout. Andrela was the calmest of the bunch and only gently stroked his cheek while he kissed her.
+
+“You're going for a while, aren't you?” Andrela asked.
+
+“Maybe for the whole night.” Ren said and climbed onto the bed. “It all depends on what kind of Adventurer's business I have to take care of when I go.”
+
+The maids moved from the foot of the bed to where Ren was, and he shook his head.
+
+“We're inside the city, and in a personal home.” Ren said. “I'm going to phase out when I leave.”
+
+“Aw.” Frikara said. “How are we supposed to cuddle you while we sleep, if you're insubstantial?”
+
+“I'm sorry.” Ren said. “You can't.”
+
+A feeling of resignation entered the Aura, and he looked at them.
+
+“I'll try to get back as soon as I can, but I can't promise anything.” Ren said. “I'll see you when I get back.”
+
+“All right.” Frikara sighed and laid down with her head on the pillow next to Ren. “No touching until you come back.”
+
+Ren nodded slightly, and laid down. “Goodnight.”
+
+“Goodnight.” The personal maids said together.
+
+“Logout.”
+
+*
+
+Ren's avatar went from solid to phantom form.
+
+“Wow, look at that.” Navruth said. “He wasn't joking.”
+
+Frikara reached a hand out and put it into Ren's chest to where she thought his heart was. I'm the first to touch his heart. She thought and pulled her hand out.
+
+“That's a little scary.” Andrela said.
+
+“It's okay.” Frikara said. “He's a great Adventurer. Nothing Ren does is scary.”
+
+“Ha!” Lusinia said. “You read his last book. His Controlled Berserk Rage is pretty scary.”
+
+“No, it's not!” Verwynn said adamantly, and they looked at her. “It's so sexy that I can't control myself when I read it!”
+
+“Is that why the book is always damp when I borrow it?” Frikara asked, and Navruth snorted a laugh.
+
+“That was me.” Navruth said. “The book Ren gave us is great for stimulation...” She grinned. “...I didn't read it the last time, though.”
+
+The other maids laughed, mainly because they didn't just read the book, either.
+
+********
+
+Ren slipped off the VR headset and Denise took it from him.
+
+“Good morning.” Denise said. Her short blonde hair was slicked back, and it made her look like she had just gotten out of the shower. “You had quite the night.”
+
+“I sure did.” Ren said and sat up. “Is Barbara still around?”
+
+“She's outside with her husband, with the first truckload of their stuff.”
+
+“What?!?” Ren said and slid out of bed. He did a little stretch, then looked at Denise. “We have to go and help!”
+
+Denise laughed and pointed to the bathroom. “Go and take care of things. Barbara and Donald have a whole moving crew to help.”
+
+“They do?” Ren asked.
+
+“Don't worry about them.” Denise pointed to the bathroom again. “Go.”
+
+“I'm going! I'm going!” Ren said and went to the bathroom to take care of things. Denise stood just outside the door in case he needed help. He didn't need any assistance and came back out a few minutes later. “Can we go and watch?”
+
+Denise snorted a laugh. “Sit. Eat.”
+
+Ren climbed back onto the bed and sat near the edge, and Denise slid over the rollaway table with breakfast already on it. There was a bowl of some kind of weird-looking cereal he'd never seen before, half of a banana, half of an orange, and a supplement drink.
+
+“What kind of cereal is this?” Ren asked.
+
+“The healthy kind.” Denise said.
+
+“There's no loops of fruit or puffs of corn.” Ren said. “There isn't even crisps of rice.” He looked at her skeptically. “That's not cereal.”
+
+“You've gotten a much broader menu for us to choose from, and this was practically the top of the list as the perfect breakfast.”
+
+“I don't know...” Ren looked back at it and picked up the spoon to move the contents of the bowl around, and the cereal clanked against the side of the bowl. “Is that flakes... no, clumps? Clumps of what?”
+
+“Oats, granola, nuts, and a few other things.” Denise said.
+
+Ren's face went from skeptical to a frown as she described the ingredients.
+
+“Just try it.” Denise said. “One spoonful. For me.”
+
+Ren opened his mouth to say that he just wanted something simple instead, like a toast and cheese sandwich, then he saw her face. It had a pleading look and sad puppy-dog eyes, and he sighed. He used the spoon to pick the smallest clump up, and very slowly put it in his mouth. Denise watched him expectantly as he chewed on it.
+
+“It kinda tastes like one of those power bars I sometimes had after physical therapy.” Ren said.
+
+“It's good, right?” Denise asked and plucked one of the clumps off the top and ate it. “I had a bowl of it myself before you logged out.”
+
+“You liked it that much?” Ren asked, and Denise motioned to the bowl. He took another spoonful with two clumps in it, and dumped them into his mouth. The milk didn't soften them up at all, and he had a difficult time chewing them up. It really was like chewing on broken up pieces of power bars.
+
+“Do you like it?” Denise asked.
+
+“It's okay.” Ren said. “The milk isn't softening them up, though.”
+
+“It's because they're coated.” Denise said. “You can leave them in milk for an hour and they'll stay crispy. They won't get soggy at all!”
+
+“That's not really a selling point for me.” Ren said and took another spoonful. This one had several pieces of peanuts in it, and he had to take his time to chew them up. He knew that if he didn't mulch everything up as much as he could first, he was going to have a really hard time when they came out the other end.
+
+That wasn't a pleasant thought. Ren thought and looked at the still nearly-full bowl. “Denise, I'm sorry for being picky... but... I don't like this cereal.”
+
+Denise smiled. “That's okay, Ren.” She said and took the bowl away. “This is new for all of us. We have to find what you like, and the only way to find out...”
+
+“Is for me to try it.” Ren said.
+
+“You still have to eat the banana and orange.” Denise said. “I'll be right back with some toast and cheese.”
+
+“Thanks, Denise.” Ren said and picked up the piece of banana and took a big bite out of it. “Sweet potassium! Don't fail me now!”
+
+Denise laughed and left the bedroom to make him something else to eat.
+
+*
+
+Gloria had worked for days and days in the virtual reality space. She had created it for herself to work on the fluid dynamics problem that her professor had assigned her, and she had come up with the perfect solution. She'd kept detailed records of everything, to make sure to satisfy his completion-complex, and brought her scale model and notes into the auditorium with the other students in her class.
+
+I can't wait for him to choke on these test results! Gloria thought and set up her experiment. It was almost 20 minutes later that the professor finally arrived and started to go through the class projects. He praised several people that only had papers and no actual physical models, despite his distinct instructions to build them, and he saved her display for last.
+
+Gloria gave her presentation, and while she did, she watched as the professor's face grew into a frown, and then into a scowl.
+
+“That wasn't the point of the problem, Gloria.” The professor said when she had finished.
+
+“Excuse me?”
+
+“You were supposed to struggle with the incomparable math, the inconsistency of the fluid, and the improper conception model.” The professor said. “I don't see any of that in your notes.”
+
+Gloria's heart plummeted, because she had reams of papers where she had worked on the math and failed horribly with it, then worked her ass off to get the experiment to work. She wrote out the proper way it should have been done, and left her scrap papers at home.
+
+“I'm sorry, but I have to fail you.” The professor said and smiled.
+
+“WHAT?!?” Gloria yelled. “You can't do that! I did the work!” She said and held up the thick report. “You should have told me that you wanted my scrap papers! I'll go and get then and show you what I did wrong, before I got it to work!”
+
+“You should have brought it with you.” The professor said. “I told you there wouldn't be an extension on this.”
+
+“But, professor!” Gloria exclaimed. “I took your impossible problem, something that even you didn't think would work, and I fixed it!”
+
+“That doesn't matter.” The professor said. “This was a significant portion of the class grade, Gloria.” He smiled, and had a wicked gleam in his eye. “You have failed this class.”
+
+Gloria felt something go through her heart, as her dream of becoming an engineer was just destroyed. Tears came to her eyes, because he was the only teacher to give the course she needed, and he was never going to pass her.
+
+The professor revelled in his power; because he had finally broken Gloria of her defiant and I'm-better-than-you attitude.
+
+“So, it's true.” A very strict voice said from behind the professor, and he whipped his head around to look at the Dean of Sciences.
+
+“Wh-what do you mean?” The professor asked.
+
+“I've been hearing rumors all semester that you've been tormenting one particular girl.” The Dean said. “You don't know how sorry I am to discover that they weren't rumors at all.”
+
+“Sir, I can explain...” The professor said.
+
+“There's no need.” The Dean said. “Even if I'd never heard of the other complaints against you, this right here would be enough to cause a review of your classroom practices.”
+
+“But... but...” The professor tried to speak. “I... I was only...”
+
+“If you can't teach any and all students the knowledge they need to pass your course, then I believe we will need to find another teacher to do so.”
+
+All of the color drained from the professor's face. “I... I have tenure!” He said, and started to get his defense going. “You can't do that!”
+
+“I believe you just heard the same thing from your student.” The Dean said. “Since your teaching skills have come into question in such a spectacular and public way, I am suspending all grades given out by you this morning.”
+
+“You... you...” The professor glanced at Gloria; but, she only had eyes for the Dean and stared at him intently.
+
+“Your presence is no longer required.” The Dean said to the professor. “I will correctly assess these 'projects' of yours, and give the grades your students actually deserve, and not what you believe they deserve.”
+
+The professor took a deep breath and let it out slowly. “This isn't over.”
+
+“Of course it isn't.” The Dean said and smiled. “You will report to my office first thing tomorrow morning for a full panel review of your conduct.”
+
+The professor stopped himself before he said anything that would hurt his chances at the review panel, and stalked off and out of the auditorium.
+
+“Th-thank you.” Gloria said, through her tears. “Even... even if I still fail, at least... at least he won't... won't...”
+
+The Dean put a hand on her shoulder, and that small consoling gesture was enough to let Gloria sob out loud. All of the students stared at her as she sobbed and cried, and let out all of the frustration she had over the torment she'd gone through at the hands of the professor. The Dean knew his place and didn't offer to hug her, despite knowing that she would have gladly accepted, and even needed, the extra comfort.
+
+Gloria calmed down a couple of minutes later, and nodded to the Dean. “Thank you, sir.”
+
+The Dean smiled. “Do you feel up to running me through this impossible problem he gave you? I missed most of it the first time.”
+
+“I'd be more than happy to, sir.” Gloria said and composed herself. She very expertly described everything about the problem, what she did to overcome the burdens it gave her, and the solution she came up with. The Dean listened intently as she ran through every permutation of her scale model, then showed him the actual model and how it had worked when the proper solution was applied.
+
+“That was quite the presentation.” The Dean of Sciences said. His face had closed down at some point during Gloria's speech, and he kept that immobile face as he spoke. “Ms. Rayford, pack up your things.”
+
+“Wh... wh... excuse me?” Gloria stammered.
+
+“You are no longer going to need them.” The Dean said.
+
+“But... sir...”
+
+“You're done.” The Dean said, then smiled and held a hand out for her to shake. “Congratulations on passing this course.”
+
+“WHAT?!?” Gloria yelled, then absently took the offered hand and shook it. “You... you mean...”
+
+“You can pick up your graduation certificate from my secretary at the end of the week.” The Dean said.
+
+“But... but... you can't be serious!” Gloria said. “I have 2 more courses to take next term!”
+
+“Not any more.” The Dean said. “You see, when I heard some of the rumors about what was happening, I took it very seriously. I looked into your background and your situation, especially with relation to the faculty of this institution... and I found out a few things.”
+
+Gloria looked at him with wide eyes.
+
+“I wondered why all you had was morning classes, and no afternoon or evening classes.” The Dean said. “To my surprise, I discovered that you had a full-time job during those times and couldn't take classes even if you wanted to.”
+
+How did he find that out? Gloria asked herself. I didn't add that to any official records!
+
+“During my investigation, I also came across some very important data.” The Dean of Sciences said. “I never imagined that any of this program's students could have a registered student internship on a ground-breaking state-of-the-art medical research project.”
+
+Several other students nearby started to talk openly when they heard that bit of gossip.
+
+“It... it's only on the weekends.” Gloria said, and the Dean chuckled.
+
+“Modesty will only get you so far.” The Dean said. “But in this case, I've checked the first submitted data.”
+
+“You have?!?” Gloria exclaimed, and he laughed.
+
+“Of course I have.” The Dean of Sciences said. “Each stage is submitted for peer review.”
+
+“But... but...”
+
+“Your exemplary work in engineering new hardware for the project was highly praised by the woman who runs it.”
+
+“Stella!”
+
+“Is that her first name?” The Dean smiled. “She's a striking woman. Hard as nails and strict on procedure.” He said. “Thanks to her recommendation and the extensive report on your work, your last two courses have been credited to you.”
+
+“So... really... I...” Gloria stammered.
+
+“Yes, you really are done of your classroom time.” The Dean of Sciences said and grinned. “Now go out there and show them what a properly accredited engineer can do.”
+
+*
+
+Denise had given Ren a toast and cheese sandwich, which he ate gratefully, and then he washed up.
+
+“Denise? Can we go for a walk?”
+
+“Sure, Ren.” Denise said. “Do you want to change first?”
+
+“Only into jogging pants and a t-shirt.” Ren said and she took them out of the drawer by the bed. She helped him change into his workout clothes and they went for a walk. They went down the hall to the elevator, then outside to look at the people moving Barbara and Donald's stuff.
+
+“Hey, take it easy with that!” Donald nearly yelled at two guys that had picked up his ratty-old recliner and tossed it out of the back of the truck.
+
+“Sorry, man.” One of the guys said. “I thought it was junk.”
+
+“It's not.” Donald said and rubbed a hand over the torn leather surface. “This chair is a part of our family.”
+
+“What about the couch?” One of the other movers asked. “Is it part of the family, too? I hope it doesn't get jealous of the lazy boy because you spend so much more time with it.”
+
+The other mover laughed and Donald frowned as he clenched a fist. Ren saw this and walked over to stand beside him, with Denise right behind.
+
+“You're being paid to do your job, not to make jokes.” Ren said in a commanding voice to the movers, and everyone looked at him with surprise on their faces. “I suggest you keep your thoughts to yourself.”
+
+“Ha.” The guy said. “Who are you to-”
+
+The other mover grabbed the guy by the arm and tugged on it to cut off his words. “Let's get to work, man. The faster we get this done, the faster we can get out of here.”
+
+“Yeah, yeah.” The mover said, and they picked up the couch and brought it down the ramp. The movers went into the house and the front door closed behind them.
+
+“Thanks.” Donald said without looking at Ren, who had glanced down to see Donald's fist wasn't clenched anymore.
+
+“He's the one that should be thanking me.” Ren said and pointed to the guy inside the house. “I didn't want any blood on my brand new driveway.”
+
+Donald snorted a laugh. “You're a good kid.” He said and pat Ren's shoulder lightly. Surprisingly, Ren didn't feel like Donald was being derogatory when he called him 'kid'. “Now go on back inside and do your physical therapy.”
+
+Ren looked at him with wide eyes.
+
+“Yes, I know all about you and your daily schedule.” Donald said. “You're all Barbara talks about, remember?”
+
+“I'm sorry about that.”
+
+“Don't be.” Donald said. “You make her happy by letting her take care of you.”
+
+“I meant...”
+
+“I know what you meant.” Donald said and smiled. “You know you're as big a part of her life as I am.”
+
+Ren nodded slightly.
+
+“So go and keep your strength up.” Donald said. “You can't stay in bed all day and not suffer for it.”
+
+“...and you can't sit in a recliner all day and not suffer for it.” Ren chuckled. “Your spare tire is fully inflated.”
+
+Donald looked at Ren with raised eyebrows. “Excuse me?”
+
+“You're getting fat, old man.” Ren said and poked Donald in the belly. He expected it to jiggle and move; but, it just sat there like a solid lump. “That's going to take a lot of work to get rid of.”
+
+“Hey, I'm in shape.” Donald said and flexed his arm muscles. They were big, but they weren't well defined.
+
+“Round is a shape.” Ren said and laughed. “I'm going inside to use some of the fully-stocked workout room right now.” He said and walked towards the house. “If you feel up to it, why don't you join me?”
+
+Donald looked back at the moving truck and saw that it was just little things and a multitude of brown boxes left to move, then looked at Ren.
+
+“Are you having that much fun just standing there and supervising them?” Ren said and goaded Donald a little, grinned, and went inside the house with a surprised Denise right behind him.

@@ -1,0 +1,389 @@
+---
+id: 7d539718-c889-54bb-a364-0d0a017a8946
+page-type-slug: story-chapter-royal-road
+title: "Chapter 297 - Load Me Up"
+slug: 0288-chapter-297-load-me-up
+partOf: mythrans-master-of-all-continued-completed
+position: 288
+ownLength: 4444
+unit: words
+publishedAt: 2017-07-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146077/chapter-297-load-me-up"
+royalRoadId: "146077"
+---
+
+Ren rowed slowly away from the dock, because he didn't want to take the chance that the boat might capsize if he rowed too quickly with Princess in the back. He heard two distinct barks and looked up to see his two dogs, Riley and Stacy, as they stood on the edge of the dock. It was almost 60 feet away now.
+
+“Well, don't just stand there!” Ren said to them as he drifted further away. “Jump!”
+
+Stacy gave another single bark and ran away from the edge. Ren and Riley watched as she sprinted to the end of the dock, jumped, and unfurled her metallic wings. The wind caught them, and Stacy rose up into the air.
+
+“Don't flap the wings!” Ren cautioned her. “Keep the lift!”
+
+Stacy listened to his advice and kept her wings rigid as she glided over the distance towards the rowboat. When she reached it, Ren stopped rowing and moved to the bow of the boat to make room for her. She slowly pulled her wings in as she came in for a soft landing in the middle of the boat.
+
+“That was great!” Ren said and gave Stacy a hug around the neck. “You're a natural!”
+
+Riley barked a couple of times, and ran away from the dock. He had a bit farther to go than Stacy, so he took a longer running start. He sprinted for the end of the dock, jumped just like Stacy did, and unfurled his wings. The wind caught them and lifted Riley into the air. Because he had run a lot faster than Stacy, he went about twice as high as her in the air.
+
+“Easy now!” Ren said to Riley. “Don't panic!” Teepo, can you give him a hand?
+
+“On it!” Teepo said and flew up to Riley to give him advice. “Pull them in slightly. Not too much! You want to lose height, not drop like a rock.”
+
+Riley did what Teepo said and pulled them in slightly. He dropped a good distance steadily, and Teepo told him to push them out. The wings caught the air again and Riley glided at almost the same height as Stacy did.
+
+“That's great!” Ren said.
+
+“Slowly, now... ease up a little...” Teepo told Riley. “Get ready to pull them in.”
+
+Stacy saw Riley coming in a little fast, and moved to the front of the boat.
+
+“Easy... almost there... okay, this is good enough.” Teepo said.
+
+Riley pulled his wings in all the way.
+
+“No! Not completely!” Teepo exclaimed.
+
+Riley dropped down right in front of the boat and splashed into the water.
+
+“RILEY!” Ren yelled and hopped over the side of the boat without rocking it. He hit the water and swam towards the rapidly sinking metal dog. He was glad that he had leveled up his Hold Breath ability because Riley had just landed on the bay floor and looked like he was in full panic mode.
+
+Ren concentrated on Riley and swam towards him. Calm. Calm. I'm here. He thought to the dog, and he saw Riley as he stopped moving and relaxed. He reached him a moment later, and picked him up.
+
+It's all right. Ren thought, and then thought about what to do. Iron Wall! He held the dog with one arm and took out the Wand of Iron Barrier. He kicked a few rocks and things out of the way to make a relatively flat surface, and cast the normal 10 foot square wall, then cast it again at an angle from the ground to the top of the first wall, adjusting the width and thickness of it to fit. With an angled path set, Ren cast the spell several more times as he walked up the angled iron wall.
+
+If I wasn't just about to run out of air, this might actually be fun. Ren thought and used two more spells to break the surface of the water. “Whew!” He said after taking in a deep breath, then looked around for the boat. It had continued to float on and he had almost chosen the perfect angle to reach the spot where it would end up. Ren had only missed it by about 30 feet. He recharged the wand and used it a few more times to reach the boat, and put Riley inside it next to Stacy while Teepo flew overhead to scout.
+
+“Don't worry, I'll get you dried off as soon as we reach the ship.” Ren said and got in the rowboat himself. “You did a great job right up until the end.” He said. “But, that's only because we're on the water and you only had a small landing spot.” He smiled and pat Riley on the head. “It wouldn't have mattered if you were on land.”
+
+Stacy licked Riley's muzzle, and he gave a little bark of acceptance. Ren rowed the boat back to the side of the ship, and the side cargo hold hatch was already opened and waiting for him.
+
+“That was some stunt.” The short captain said. “I didn't know you could walk on water.”
+
+Ren laughed. “It's an Iron Wall spell cast just under the surface of the water, actually.”
+
+“Really? That works?” The short captain asked as he waved some of the crew forward to tie the rowboat to a pulley.
+
+“Apparently.” Ren said as he took out some cloth and dried Riley off. “I'm glad it did, though. It's a long walk back to shore, and I couldn't hold my breath that long.”
+
+The short captain laughed, and they pulled the boat into the cargo hold. “Is your mount going to be okay?”
+
+Ren nodded. “She was severely hurt, but I healed her.” He said. “If there's a healer as a part of the crew, I'd appreciate an extra pair of eyes to check her over again. She'll be unconscious from her Berserk Rage for another half an hour or so.”
+
+“How did you manage to give your mount that?” The short captain asked. “I'd like to give my Wimsey that, too.”
+
+Ren raised an eyebrow at him, and he chuckled.
+
+“She's a hedgehog.”
+
+Ren thought about a bloodthirsty rampaging hedgehog and laughed. “I think you need to have a disposition for it to unlock.” He said and rubbed Princess' neck. “I just wish it didn't exhaust us when we used it.”
+
+“It's a survival mechanism.” The short captain said. “You're overwhelmingly powerful and hard to kill for a short period of time, and then it's really easy to kill you.” He smiled. “It gives the little guy a chance to beat even the most powerful opponents.”
+
+“Do you mean the one with Berserk Rage, or the one they attack?”
+
+“Both.” The captain said and laughed as the cargo hatch closed. “What are you going to do with her?”
+
+“I'm putting her in one of the spare cabins.” Ren said.
+
+The captain looked at him like he was crazy, and he chuckled.
+
+“On my last boat ride, she had to stay in the hold.” Ren smiled. “I stayed there with her.”
+
+The short captain nodded slightly. “Men! Top hatch!”
+
+Two of the dwarves ran over to the side of the hold and unhooked the end of a rope, then the two of them turned a crank. The top hatch opened and a wooden platform lowered down into the hold. When it reached the bottom, Ren picked Princess up and carried her over to the platform. Riley and Stacy walked over beside him and sat down to wait by their owner.
+
+*
+
+The captain waved at the dwarves working the crank, and watched as Ren and the dogs were raised up out of the hold and to the deck of the ship.
+
+“You saw that, right?” One of the deckhands asked the captain. “He picked her up like she was nothing.” He shook his head in disbelief. “I thought I was strong, and even I needed help hauling in the boat.”
+
+The captain nodded slightly. “I think he's going to be full of surprises.”
+
+*
+
+Ren carried Princess through the main cabin doors and down the hallway, with his two dogs and Teepo close behind. Ren came to the door beside his cabin, and opened it. It was a nice room, and had lots of things in it to show a person's high status; and Ren ignored them all as he brought Princess over to the bed and laid her down on it. The healer came to the door and looked in.
+
+“Ah, there you are. You're making her comfortable.” The female dwarf said. “Good work.” She came into the room and looked at Princess' armor. “Can we get this stuff off?”
+
+Ren nodded slightly and stored her armor into her inventory.
+
+“Thank you.” The healer said and examined her thoroughly. “The captain said you examined her and healed her yourself?”
+
+“I did.” Ren said, then explained all of the major and minor injuries he had found and healed.
+
+“You really shouldn't do that kind of major healing without at least a healer to supervise or consult.” The healer said. “Other than that, you did a good job.”
+
+“Thanks.” Ren said. “I care about her a lot.”
+
+“I can tell.” The healer said. “I've never met anyone that made armor for their pet before.”
+
+“She's my mount, not my pet.” Ren said.
+
+“I'm sorry.” The healer said and ducked her head. “I didn't mean to insult you.”
+
+Ren sighed. “No, I'm sorry.” He said. “I'm tired, and people not treating her properly is a sore spot with me.”
+
+The healer nodded slightly. “You should get to bed, then. If there's nothing else, I'll head to bed myself.”
+
+“Um... actually...” Ren started to say, then he stored the shirt from his Travelling Clothes.
+
+“Oh, my!” The healer exclaimed when she saw the growing bruise that covered Ren's chest and abdomen. She reached out and started to examine him closely and probed the edges of it. He thought it had felt familiar, and when he looked down, it was the same size and shape as the one he had in real life.
+
+Art imitates life. Ren thought.
+
+“Okay, I think I have enough Mana left for an injury of this size.” The healer said.
+
+“Use this instead.” Ren said and handed her his Major Healing wand. “Save your Mana for an emergency.”
+
+“Is this? Oh, my!” The healer said. “It was you!”
+
+“It was me, what?”
+
+“You're the one that gave the wands to the head of the Medical Wing in the Main Keep.”
+
+Ren nodded slightly.
+
+“We've helped so many people because of you.” The healer said and started to heal Ren's wound. She expertly applied the healing to the edges and worked her way into the center where the most damage was. “I think she would have given you every contract she had if you offered her a wand for each of them.”
+
+“I told you that you should have offered the Major Healing wand first!” Teepo said, and chittered in laughter.
+
+“I didn't really understand their true value until they came in so handy.” Ren said. “I've mainly just been using them to refill my Mana.”
+
+“You WHAT?!?”
+
+Ren chuckled. “I know it's a little excessive, but it works instantly and gives me full Mana.” He said. “It's become a bit of a habit for me, now.”
+
+The healer shook her head. “Using Major Healing just to replenish Mana.” She said. “I've never heard of such a travesty.”
+
+“You're not going to call me crazy?” Ren asked her.
+
+“I just assumed you understood that was a given.” She said, and they both laughed.
+
+The healer finished healing him and tapped his chest. “There you go.” She said and held out the wand. “All patched up and ready to do it again.”
+
+“Are you under contract to the ship, on loan, being paid, or what?” Ren asked when he took the wand.
+
+“My brother's the captain.” She said. “He asked me to come along when he and the crew were hired.”
+
+“Any House affiliation?”
+
+“No.” She said. “I couldn't stand all the politics and backstabbing they do; so, I signed up for healer training as soon as I was of age.”
+
+“Then you can keep this.” Ren said and handed her the wand back.
+
+“But... I just told you that you can take this to the Main Keep and get any of the healer's contracts that you want.”
+
+“If she still holds yours, trade it for that.” Ren said. “Actually, that would leave you without one, wouldn't it?” He said and took out a Level 1 wand. He absorbed the charges in it and replaced the spell with Major Healing. “Trade one for your own contract, and keep this one.”
+
+“But... but...”
+
+“Thanks for your help.” Ren said, and ushered the healer out of the cabin. “Goodnight.”
+
+“Did you see the look on her face when you gave her the second wand?” Teepo asked. “I thought her eyes were going to pop out of her head!”
+
+Ren chuckled, and then yawned. “Boy, I'm tired.” He said and thought about going back into his own room, then looked at the bed. He couldn't leave Princess alone, because if she woke up and didn't know where she was, she might panic. Ren sighed and moved her over slightly.
+
+The bed was just big enough for the both of them to fit on it, if he hung her hooves off the edge and laid down on the other side. Ren did that, and equipped his armor bodysuit because it was a lot more comfortable to sleep in than his Travelling Clothes. He yawned again and fell asleep. Riley and Stacy tried to climb up on the bed as well, but there just wasn't any more room for them, so they laid down at the foot of the bed.
+
+*
+
+Tee-one was happy. Despite all the feelings and thoughts he'd been getting from Ren all night, he had finally managed to break through to the surface of the ground where the moat was. He had already drained it into a nearby ditch before opening it up from below, and had built the frame around the top layer of the Keep and filled it with cement.
+
+In 12 hours, it'll be done. Tee-one thought. Finally.
+
+Tee-one stored the various tools that he had used into inventory and walked over to the workshop. He had a few things to build before the supplies could be brought to Ren in the morning.
+
+*
+
+When morning came, Frikara was the first one to wake up and she reached for Ren with her eyes closed. Men are always ready to go in the mornings. She thought, then her hand passed through only air and touched the bed. NO! She thought in surprise, and opened her eyes to see that Ren was gone. The only ones in the bed were her and her fellow personal maids. Where did he go?
+
+*
+
+Ren woke up in bed, and felt a huge weight on top of him. He opened his eyes, and all he could see was fur. He tried to talk, but the fur clogged his mouth and the most he could do was murmur. His arms were pinned at his sides and he didn't have any leverage to push Princess off on him. He remembered that he was on the edge of the bed and stuck out an elbow. It met air, and he smiled mentally.
+
+Yes! Ren thought as he managed to wiggle his arm out from under Princess, and grabbed the bottom of the bed. He pulled and shimmied, and slowly worked himself out to the side of the bed. He was still caught by her large and heavy body; but, now his arm had full movement with his shoulder free. He braced himself as best as he could, and pushed with the one arm. Princess' body was lifted and Ren breathed a sigh of relief as he managed to slide out from under her and onto the floor.
+
+Ren stood up and looked at her. She had somehow managed to turn from sleeping on her right side with her feet hanging off that way, to sleeping on her left side and faced the other way and had completely covered him.
+
+How did that not wake me up? Ren thought and chuckled. She was laying on top of me for cripes sakes!
+
+Teepo chittered in laughter. “You were more tired than you thought, maybe?”
+
+“Probably.” Ren said out loud and rubbed his chest. “I'm glad I let the healer heal me last night.”
+
+“Me, too.” Teepo said. “I couldn't wake you up to warn you she was rolling over.”
+
+Princess stirred at the sound of Ren's voice and opened her eyes. My Lord! I found you!
+
+“Yes, you did.” Ren said and pat her neck. “What did you think you were doing last night?”
+
+She hurt you. Princess thought to him. I wanted to hurt her back.
+
+“Did you?” Ren asked.
+
+No. Princess huffed. She is with child.
+
+“So, she wasn't lying or misleading me.” Ren said. “I was a little worried it might have been a ruse.”
+
+I scared her. Princess thought with satisfaction. The soldiers were weak against me.
+
+“Princess, how many giants have we fought now?” Ren asked and laughed. “You are so far above fighting normal soldiers.”
+
+I am. Princess thought in amusement. Because of you.
+
+Ren pat her neck again. “Rest here for a while. I've got some work to do.”
+
+Princess huffed and Ren left the room with Teepo on his shoulder.
+
+*
+
+Princess looked at the two dogs. You missed a good fight.
+
+They barked at her, and she huffed.
+
+Very well. I'll tell you about it.
+
+The dogs wagged their metal tails as Princess told them about the destruction she had unleashed.
+
+*
+
+Ren went to his cabin door and knocked.
+
+“You don't have to knock on your own cabin door.” Frikara said as she pulled the door open. She was wearing the dress he'd make for her, and Ren was relieved that she didn't answer it topless. “We're kind of angry at you.”
+
+“No, you're angry at him.” One of the others said. Ren hadn't been around them long enough to distinguish who was speaking. “He was gone before you woke up.”
+
+“Yes.” Frikara said. “I wanted to play a little, and you can't imagine my disappointment.”
+
+“I don't have to.” Ren said. “You just told me about it.”
+
+Frikara smiled. “So, what can we do for you?”
+
+“I'm going outside and wondered if you wanted to come with me.”
+
+Frikara turned to the other maids. “Do any of you want to go out?”
+
+“No.”
+
+“Not me.”
+
+“I'll pass.”
+
+“I'd go if you held me the whole time.”
+
+Frikara laughed. “You took my line!”
+
+“Sorry.” Navruth said and smiled. “It's a good line.”
+
+“I think we're all saying no.” Frikara said and looked back at Ren.
+
+“I'll be back later to see if you change your minds.” Ren said and walked away down the hall towards the main cabin doors.
+
+“Bye.” Frikara said and shut the door.
+
+Ren went outside and looked towards the docks. “I wonder when... there they are.”
+
+There wasn't a lot of activity on the docks so early in the morning, so it wasn't hard to see several large carts come down the road to the docks.
+
+“We should wait to open the side of the ship.” The short captain said. “At least until they're almost here with all of that stuff.”
+
+“Have you ordered extra provisions?” Ren asked him.
+
+“Of course.” The short captain asked. “Just in case the trip takes longer, or you bring more people along.”
+
+“I'm not expecting more people.” Ren said. “But, my mount eats a lot.”
+
+“I've got feed coming.”
+
+Ren shook his head. “She eats normal food.”
+
+“She sleeps in a normal bed and she eats normal food.” The captain shook his head. “I wouldn't be surprised if you told me she could talk next.”
+
+Ren gave him a knowing smile, and he laughed.
+
+“Supplies coming aboard!” The short captain said and walked off. Several dwarves ran around and made it look like they were doing something important; but, Ren thought it was just something the game designers decided they needed players to see, just to make it look like something was happening.
+
+It didn't take long for the carts of supplies to get to the water, and Ren watched the work crew as they assembled several large pieces of wood and slid the completed item into the water. He wasn't sure what it was, and then the carts started to unload their contents onto it.
+
+“It's a big barge.” Ren said. Tee-one used my idea. He smiled. “It shouldn't take long to transfer things back and forth now.”
+
+The barge was quickly filled to overflowing with Ren's things, and then Tee-one stepped onto it. The work crew climbed back onto the dock, and the barge started to move. Ren smiled at the surprised faces of the dwarves on the dock when they noticed no one was rowing on the barge.
+
+He couldn't have used full enchantments on the steel squares. Ren thought. It should be going a lot faster.
+
+“Maybe he's going slow so nothing falls off.” Teepo said.
+
+Probably. Ren thought. There's a lot of stuff.
+
+Teepo chittered in laughter. “You had it all in inventory, too.”
+
+I did. Ren thought in amusement. I've had to change the things I've done without access to all of it, too.
+
+“Are you going to store it all again?”
+
+I don't know. Ren sighed. I kind of like having all this space available to carry things, but... I miss carrying the things I've always carried.
+
+“Maybe you should make another backpack.” Teepo said. “An actual one, not a familiar or anything.”
+
+I probably could use more portable storage space. Ren thought. I've even got a rune for inventory spaces.
+
+“The extra weight won't slow you down, either.” Teepo said, and Ren nodded slightly. He waved to Tee-one when he was close enough to the ship, then ran for the closest stairway to the cargo hold. He arrived as the cargo hatch was opened and lowered, and he walked over to the edge of it.
+
+*
+
+“He walks like he's already got his sea legs, and he's only been on the boat since last night.” One of the deck hands whispered.
+
+“They told you what he did last night, didn't they?” The dwarf he was talking to whispered back. “It was a sight, let me tell you.”
+
+*
+
+Tee-one brought the barge to a stop right beside the open cargo hatch, and Ren stepped over.
+
+“Thanks for this.” Ren said and started storing the things he thought were absolutely necessary. “I can start the rest of the stained glass windows now.”
+
+“I've got the top of the Keep finished.” Tee-one said. “I'll be taking the wood mold down when I go back.”
+
+“That's great!” Ren said. “It's such a relief to have that done.”
+
+Tee-one nodded. “Are you filling the dirt back in, or leaving a deep moat?”
+
+“Moat.” Ren said, then told the waiting deckhands to move what he didn't store in inventory into the hold. Stone bricks, wood planks, paving stones, and several other things like tables, workbenches, and cement bags. While they did that, Ren absorbed his Water Spray enchantment from one of his raised platform rings and thought about the 5 rune glyph for Water. Since he could now combine 3 glyphs of 5 runes each into a single enchantment, he used 2 Water glyphs and 1 Wind glyph to enchant the ring.
+
+Ren pointed the ring out towards the bay and activated it. A huge gush of water and air burst out and flew through the air for a good 40 feet, then it arced down and hit the water. He took out 2 steel squares, enchanted them with the new glyph, and gave them to Tee-one.
+
+“Use those to fill it, once you square off the sides.”
+
+“You want it in cement.” Tee-one said.
+
+“We won't have to worry about it collapsing later if we do.”
+
+“It'll be done by tonight.”
+
+“Thanks, Tee-one.” Ren said. “Can you pick the windows up tonight?”
+
+“If you want me to.” Tee-one said.
+
+“It would be a nice surprise if the Church opened the day after my banishment.” Ren said and smiled.
+
+Tee-one nodded slightly. “I'll be back with the next load of equipment and supplies.”
+
+“Can you bring the fire elemental on the next trip?”
+
+“You want the fire elemental brought to the ship.” Tee-one said, and Ren nodded slightly.
+
+“I'll have the room modified by the time you get back.” Ren said. “Send the things stored on the second floor of the Main House, too.” He said. “It's all the stone carving supplies I ordered from Barnar's shop.”
+
+“No problem.” Tee-one said. “I'll be back in a little while.”
+
+Ren stepped off the barge and back onto the ship and stored piles of paving stones and stone bricks. The barge threw out gushes of water and air as it moved away from the ship, then went towards the shore. Ren left the cargo hold and went back up the stairs to the deck, then went through the main cabin doors and down the hallway. He went into Princess' room and cleared out the corner. He built a large stone box that filled nearly half of the room.
+
+“You're going to have a hot roommate.” Ren said to Princess, and she huffed in amusement at him. He enchanted part of the walls of the box with Wind and Fire runes to reproduce the conditions of the pen the fire elemental was currently in. “I think that's it.” He said. “Now I really have to get to work.”
+
+Have fun. Princess thought to him as he left the room.
+
+Ren ran down the hallway, outside, and back into the hold. He picked up the large workbench that he had previously used for making the stained glass windows, walked over to a part of the hold not being used, then put the workbench down and thought about the next picture he wanted to make.
+
+Earth is an easy one. Ren thought, and dyed three panes of glass. One brown, one green, and one blue. I'll use an image of a large rock formation, with a bit of grass and some blue sky behind it. He smiled as he took out his scoring tool and started to work on the brown pane of glass.

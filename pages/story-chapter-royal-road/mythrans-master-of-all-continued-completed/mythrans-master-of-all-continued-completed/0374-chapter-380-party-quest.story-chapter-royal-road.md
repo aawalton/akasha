@@ -1,0 +1,371 @@
+---
+id: ec4a0b77-43ca-5899-bb7a-5d52af5192e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 380 - Party Quest"
+slug: 0374-chapter-380-party-quest
+partOf: mythrans-master-of-all-continued-completed
+position: 374
+ownLength: 3345
+unit: words
+publishedAt: 2017-10-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167075/chapter-380-party-quest"
+royalRoadId: "167075"
+---
+
+“Did that just happen, man?” Tommy asked. “I mean, I saw it; but, damn.”
+
+Hank laughed. “It's too bad that we're leaving for the quest, or we could have enjoyed them practising.”
+
+“We can still...” Billy started to say.
+
+“No, we bettah leave.” Clint said. “It's ah long ride ta where we gotta go.”
+
+“I'll get the cart.” Tommy said. “You get the horse.”
+
+“We can take Princess.” Ren said.
+
+“Hell, no!” Billy said. “I remember the last time.”
+
+Princess brayed at him, and Hank laughed.
+
+“I think she just called you a p-”
+
+“Shut up!” Billy said, and they all laughed.
+
+“Well, I do have another option.” Ren said. “It's a lot faster than a normal horse and cart, but still nowhere near as fast as Princess.”
+
+“Ahl righ'.” Clint said. “Show us yer option.”
+
+Ren took out his Wand of Transport and cast a Level 5 Phantom Steed.
+
+“Good god.” Tommy said. “Is that...”
+
+“It looks like a Nightmare Horse, but without the flaming mane and hooves.” Dillon said and examined it.
+
+Phantom Steed (Level 5)
+
+This large mostly-solid horse-like creature can only be ridden by the person for whom it was created for. It's black head and body and gray mane and tail provide the visage of an imposing figure. It's smoke-colored, insubstantial hooves make no sound, and is already equipped for riding. No further equipment can be added.
+
+It cannot fight, but other equal-sized or smaller creatures will actively shun it and refuse to attack it. If it loses all of it's Health, it disappears and leaves no physical remains. Since it is a magically-created mount, it can bear it's rider's weight without penalties. It has certain powers and abilities depending on the caster or wand level. A mount’s abilities include those of mounts from lower caster or wand levels.
+
+Level 1: The mount can ride over normal terrain.
+
+Level 2: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed.
+
+Level 3: The mount can use Water Walk at will.
+
+Level 4: The mount can use Air Walk and Displacement at will.
+
+Level 5: The mount can fly at its speed with average manoeuverability.
+
+Health: 1000 (200 per caster or wand level)
+
+Movement: 100 feet per second (20 feet per caster or wand level)
+
+Time Limit: 5 Hours (1 hour per caster or wand level)
+
+“That's insane!” Dillon said, surprised. “It can move 100 feet per second and can FLY?!?”
+
+“No way, man!” Tommy said. “How long does it last?”
+
+“5 hours!” Dillon said, and everyone stared at the horse.
+
+“Oh, that reminds me!” Ren said and took out another wand and absorbed the charges from it, then replaced it with the Widen Effect spell. He examined the wand and smiled.
+
+Wand Of Spell Boost (Level 5)
+
+The Widen Effect spell can be used to increase the effective use of a spell (time limits, area of effects, etc.). Can be cast in conjunction with another spell, or to enhance an already existing spell with a numerical value that can be modified.
+
+Range: Within 100 feet (Medium)
+
+Effective Increase: 50% (10% for every caster or wand level)
+
+Warning: Successive spells do not stack. One spell must expire for the next Widen Effect spell to work.
+
+Ren used the new wand on the Phantom Steed, and Dillon nearly choked and coughed several times.
+
+“Wha' happened?” Clint asked.
+
+“I boosted it's stats.” Ren said. “It has 1,500 Health instead of 1,000; can move at 150 feet per second instead of 100, and lasts 7.5 hours instead of 5.”
+
+Clint shook his head. “Ren, yer unbelievable.”
+
+“That one's yours.” Ren said and cast Phantom Steed for the other 4 guys and Elerlyth, then boosted them to match the first one.
+
+“Oh, wow.” Elelryth said and ran a hand over her horse. “Ren, I... I love it!”
+
+Ren chuckled. “I'm glad.” He said. “Clint, where are we headed?”
+
+Clint took out a piece of paper and handed it to Ren. He read the directions and handed it back.
+
+“Elerlyth?” Ren looked at her, and she was staring at the horse.
+
+“Yeah?”
+
+“Give me your Spider Aura brooch.”
+
+Elerlyth handed it over without looking at him, and he took his own off. He held them in the same hand and used Double Infusion to enchant them with Sending glyphs.
+
+“The Phantom Steeds will land before the time runs out.” Ren said and handed the Spider Aura brooch back to her. “If it's not long enough to make it all the way, call me and I'll come over and cast them again.”
+
+Elerlyth nodded and put the brooch back on. The steed licked her face, and she laughed.
+
+“Moun' up!” Clint said, and Ren ran over to Princess. He took out the All-Seeing Mirror and showed her where the town was on the map and traced the route she needed to follow. She huffed and dug her hooves into the dirt while Ren climbed into the saddle.
+
+“Princess, do you want Haste and Giant Strength?” Ren asked her as he leaned forward to brace for when she started to run.
+
+No, My Lord. Princess said. I no longer need them.
+
+Ren grinned and she felt his pride in her.
+
+“Since these phantom horse things can fly, we can just go straight there!” Tommy said and looked at Ren. “Wait, you're riding your mount?”
+
+Ren nodded.
+
+“But...”
+
+“Princess is my mount, and no one else can get me there faster.” Ren said.
+
+Clint pointed to where they had to go. “Jus' follow me, an' I'll lead y'all there.”
+
+“I'll wait for you guys to arrive.” Ren said and hunkered down as close to Princess as he could get. “Princess, full speed.”
+
+Princess huffed and then disappeared from sight, while Teepo stuck his head up and felt the exhilaration of going so fast that it taxed his mastered Spot ability.
+
+*
+
+“Wha' the?” Clint looked around. “Where'd he go?”
+
+“He's racing us there!” Elerlyth said and took off in the direction Clint had pointed. The Phantom Steed she rode soared up into the sky and started to fade from sight.
+
+“Hey, wait!” Tommy said and took off after her.
+
+“Come on, we bettah go.” Clint said and took off to follow Tommy and Elerlyth.
+
+Hank, Dillon, and Billy took off as well, and were surprised that the Phantom Steeds responded to their thoughts. They didn't need to know how to handle a horse at all; they just needed to hold on and let the steed do all the work. It would take them anywhere they needed to go.
+
+*
+
+Ren and Princess made it to their destination about 55 minutes later, and Ren only had to use the Energize spell once to refill Princess' Stamina bar near the end of the run. She hadn't drained it completely; but it had been close, and Ren didn't want to take the chance it would run out and she might hurt herself.
+
+“That. Was. AWESOME!” Teepo chittered in delight, and Ren laughed.
+
+“We're going to have a long wait.” Ren said and climbed down from the saddle and pat Princess' neck, then gave her some food to eat. “Hey, why don't I modify your armor?” He asked her. “We just have to decide what you want.”
+
+They discussed the best mix of Antidark, Protection, Speed and Armor boosts for the base enchantment on the armor, and Ren enchanted them and made it a full set. Since there were so many pieces covering her, the set turned out to be a large one; and Princess gained +20 to all of her stats when he completed the armor enchantments. He then took out a couple of handfuls of wand diamonds and enchanted them with Stat boosts, and then again with his Double Infusion ability, and spread them out over the armor pieces.
+
+Since each armor piece was limited to 6 gems, no matter how big it was, he put 6 gems on the back side of the saddle where they couldn't be easily seen, and 6 gems on the lower part of her chest plate. He didn't want to overload her with diamonds, since he didn't have Tee-one here, so he put as much diamonds as he could fit on her without impeding her movement.
+
+Princess gained +170 to all of her stats when Ren was done, and he had used up a good portion of the molten metal before it started to cool. He made a quick mold for an iron ingot and poured the last of the molten metal into it and absorbed the heat from it. He couldn't leave it in the crucible, because it would harden and he'd have to make a forge to heat it up again to get it out.
+
+“So, how is that?” Ren asked. “I'll have to reforge everything when we get back to Tee-one so we can do it all up properly.” He said. “I can redo my armor then as well.”
+
+My Lord, you are amazing. Princess thought to him. I've never felt so... powerful.
+
+Ren nodded. “It's a neat thing to have so much boosting you up.” He said. “I normally don't like doing that, since it stunts normal stat growth so much; but, I can't go into battle with whatever it is Clint's dug up for us, and not enchant as much as I can first.”
+
+You make more work for yourself later, to protect us now. Princess thought. Thank you, My Lord.
+
+“I always do what I can for my friends.” Ren said. “Now I just have to figure out what else I can do while we wait.”
+
+*
+
+Elerlyth had flown the Phantom Steed for almost 6 straight hours, and she had enjoyed every single second of it. They had passed over miles upon miles of grasslands, farmlands, hills, rivers, forests, and mountains. She hadn't realized there would be so many different kinds of terrain in so small a space, and then she laughed.
+
+If we travelled at 150 feet a second for 60 seconds... then that's 9,000 feet a minute, or just over 1.5 miles. Elerlyth thought. If we did that for 6 hours, then... that's just over 550 miles.
+
+The Spider Aura brooch glowed, and she heard Ren's voice.
+
+“You're coming up on me now.” Ren said. “Look at the sparks ahead.”
+
+Elerlyth saw a flare ignite half a mile away and over a bit to the right. “I see it, Ren.” She said, and waved to the others. “There's Ren!” She yelled and pointed to the spot. The guys waved to her and turned to follow the Mana Flare.
+
+*
+
+“Hey, it's about time.” Ren said and grinned as they came in for a landing. “I've been here for ages.”
+
+Elerlyth laughed and slid off the Phantom Steed. “I seriously doubt you've been here that long.”
+
+Ren watched as she pat the horse absently. “I was here long enough to make Hank some new armor.”
+
+“You WHAT?!?” Hank said and dropped off the horse. “Aw, man! I am gonna be sore tonight.”
+
+“Ah warned ya ta ease off on yer grip ah little.” Clint said and slid off his Phantom Steed. “Ren, wha' happens ta tha moun'...”
+
+“If you're done with them, I'll dismiss the spells.” Ren said and took out the Wand of Transport.
+
+“No!” Elerlyth said and hugged her Phantom Steed around the neck. “I want to keep mine!”
+
+Ren chuckled. “You can keep it for another hour and a half, then the spell ends anyway.”
+
+“I want to keep him.” Elerlyth said.
+
+“Unless you know the Permanency spell, or can find someone that knows it, it's not staying.” Ren said and dismissed the other 5 horses.
+
+“But, Ren!”
+
+“I'm sorry.” Ren said, and she could feel that he was. “I can cast it again when its gone.”
+
+Elerlyth took several deep breaths and wouldn't look at him.
+
+“Ren, with everythin' tha happened, I never asked abou' it.” Clint looked at Elerlyth. “Wha's she doin' here?”
+
+“I know we're a party member short, so I asked Elerlyth to be a member of my party to make up the spot.”
+
+“What do you mean your party?” Dillon asked, and the guys all looked at him. Ren smiled, because he knew they must think that he was trying to claim Clint's party.
+
+“I'm the leader of my own party, but I'm also allowed to join another.” Ren said.
+
+“Wait, what?” Tommy asked. “No one can be in two parties!”
+
+“It's a special class skill of mine called Tricks of the Trade. I can join a second party, and it lets me boost all party member's abilities for up to 10 seconds at a time.”
+
+“Hold on, man.” Tommy said. “You can boost our abilities?”
+
+Ren nodded. “I know 10 seconds isn't a long time...”
+
+“It is when you're in a desperate fight.” Tommy said and looked at Hank. “Imagine what could have happened when we fought that group of trolls and your charge hadn't failed?”
+
+Hank laughed. “They wouldn't have wiped the floor with us.”
+
+Dillon nodded. “A few more seconds and you would have run them down.”
+
+“So, do you want new armor?” Ren asked Hank. “Or would you rather a new sword?”
+
+“Armor.” Hank said. “I'm sure you can easily fix what I have now, but I was planning on getting a new set soon anyways.”
+
+“Okay.” Ren said. “What color do you want it?”
+
+“What?”
+
+“Red, blue, white, black, green... pick a color.”
+
+“Yellow.” Billy said and chuckled. “I want to see him in all yellow!”
+
+Tommy smiled. “He'd definitely stand out in a fight.”
+
+“I'm not wearing anything yellow.” Hank said. “Not unless my girl wants me to.”
+
+“You're so whipped!” Billy said.
+
+“Look who's talking.” Dillon said. “Mr. Jennifer.”
+
+“Hey!” Billy exclaimed, and the guys laughed.
+
+“I'll try it in black.” Hank said. “If I don't like it, can I change it later?”
+
+“Sure.” Ren said and took out the set of black armor he had made. He had even made a nice crate to put it in, and Hank looked at the polished black steel with lust in his eyes.
+
+“How much do I owe you?”
+
+“How much do you have?” Ren asked, and they all laughed.
+
+“You just gave away over 7 platinum to the girls, and you want my measly money?” Hank asked.
+
+“Sure.” Ren said. “How about just the cost of the materials?”
+
+“How much is that going to be?”
+
+“Well, there's high quality steel for the metal that no one else but me uses, so... 1 platinum is a steal.” Ren grinned at his pun. “It's enchanted to make you and your burden lighter, with added Defense and Speed. It also has 8 diamonds embedded into it that are worth 3 platinum each.” He said, and the smiles disappeared from the men's faces. “The diamonds are enchanted to give a bonus of +100 to each of your stats, too.” He smiled. “I won't charge you for the enchantments, though.”
+
+“No way, man.” Tommy said. “That's...” He shook his head. “Even at 80% off, that's...”
+
+“20% of 25 is 5 platinum coins.” Ren said.
+
+“Geezus.” Hank said. “I don't think I've ever had that much on me at one time.”
+
+“Ren.” Clint said. “Can ya make a cheaper version?”
+
+“This is the cheaper version.” Ren chuckled. “Right, Dillon?”
+
+Dillon opened his mouth to give his opinion, and Ren pointed to Elerlyth. Dillon looked at her and blinked his eyes a few times.
+
+“Uh.” Dillon said. “Yes, it's a much cheaper version.”
+
+Clint waved the guys over into a huddle and they started to whisper to each other. Ren walked over to Elerlyth, but the both of them could easily hear the men as they talked.
+
+*
+
+“What do we do, man?” Tommy asked. “It's fantastic armor.”
+
+“A hundred points added to my stats is beyond awesome.” Hank said.
+
+“The price is awesome, too.” Dillon said. “You don't want to know how much her armor is worth.”
+
+“Ya don' really need it, though.” Clint said. “Ah know it's ah grea' deal...”
+
+“How much have you got on you?” Hank asked, but the guys didn't laugh this time.
+
+“Even combined, I don't think we have enough.” Dillon said.
+
+“If'n ah hadn't splurged aftah tha las' quest...”
+
+“I might get a hundred gold for my old armor, after it gets repaired.” Hank said and sighed. “I guess I'll have to say no to this deal.”
+
+“Ah'm sorry, Hank.” Clint said.
+
+“We all are, man.” Tommy said, and Billy and Dillon nodded silently.
+
+*
+
+“How long are you going to let them sweat?” Elerlyth whispered very low.
+
+“Just until they walk back over to me.” Ren whispered back and smiled.
+
+“The things you're feeling.” Elerlyth said and licked her lips. “You're really tasty right now.”
+
+Ren chuckled softly. “Concentrate on your Spider Aura.” He said, and did it himself. Their Auras merged, and Elerlyth gasped. She put her forehead on the Phantom Steed's neck and sighed.
+
+“Good god, I want you so much right now.” Elerlyth said.
+
+“It'll have to wait for a little while.” Ren said. “Here they come.”
+
+Ren turned and watched as the 5 men walked over to him, and you could almost see the feelings of sadness and disappointment that covered them.
+
+“So, what do you think?” Ren asked. “Is it a good deal or what?”
+
+“It's unbelievable.” Hank said. “It's too good to be true.”
+
+Ren chuckled. “That's me in a nutshell.”
+
+“Ren, I...” Hank sighed. “I can't-”
+
+“Before you give me your decision, what are you doing with your old armor?” Ren asked.
+
+“I was going to sell it.” Hank said.
+
+“Let me see it.” Ren said, and Hank took it out and handed it over. Ren examined it saw it was down to below half of it's Durability, and it's appraised value was almost 100 gold coins. He took out his blacksmith hammer and repaired it, and brought it's value up to just over 150 gold.
+
+“I can sell it for you.” Ren said, and the men looked at him. “I'm a registered business owner. I can sell things back to the system for a 10% discount.”
+
+“Oh, man!” Tommy said. “That is so neat!”
+
+Ren laughed.
+
+“But...” Hank said, then Ren sold the armor and it disappeared. “Hey, wait!”
+
+Ren handed Hank 138 gold coins, and Hank just stared at it.
+
+“Oh, shit.” Billy said and looked at the other guys, and they all had surprise and shock on their faces. They were stuck in a bad spot, because Hank still couldn't afford the new set. They were going to start the new quest soon and the tank of the party didn't have any armor at all now.
+
+Ren fought hard not to laugh, and he heard Elerlyth breathing heavily behind him. “Well, what do you say? Do you want the new armor or what?”
+
+Hank moved his gaze from the gold in his hands to Ren face, but he didn't say anything.
+
+“Oh, I almost forgot to tell you.” Ren said. “For really large purchases, I put my friends on a payment plan.”
+
+“You WHAT?!?”
+
+Ren grinned. “I don't expect my friends to somehow come up with the outrageous prices I have to charge.” He said. “Imagine if you had to pay full price with all the enchantments!” He laughed. “I'd never sell anything!”
+
+Hank looked at the other 4 guys, and they still had surprise on their faces. “Ren, even if...”
+
+“The payments are pretty steep, though.” Ren said and smiled evilly, and Teepo chittered in laughter.
+
+Hank sighed, because Ren had him over a barrel and could screw him over for the rest of the time he played the game. Since he had no armor at all, he was going to have to accept whatever deal Ren gave him.
+
+“What are the payments?” Hank asked.
+
+“It's 1 gold coin a week until it's paid off.” Ren said, and Hank lost motor function in his arms and dropped the pile of gold.
+
+“WHHHAAAAAATTTTTT?????!!!!!?????” Hank yelled.

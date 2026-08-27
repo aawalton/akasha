@@ -1,0 +1,177 @@
+---
+id: f76d6638-a268-5bf0-838e-10f959682d57
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115 Confluence"
+slug: 0121-chapter-115-confluence
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 121
+ownLength: 2109
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3826744/chapter-115-confluence"
+royalRoadId: "3826744"
+---
+
+He rubbed the sleep from his eyes, staring blearily at the mirror in his room.
+
+Sometimes making the difficult choice for her is the kinder thing.
+
+Joren’s final words had remained with him through the night.
+
+After returning from the forge, Lucien had gone through the rest of the day by habit, handling his duties while keeping his thoughts hidden. For the most part, he had succeeded.
+
+The door to his room swung open.
+
+"Senior, let’s go! Sera already went ahead with Alicia! If we delay it any longer, she's gonna lift that gate up without us there."
+
+When Lucien turned, Talia was leaning against the doorframe, a knowing look in her eyes despite the brightness of her voice.
+
+Alicia and Sera hadn't suspected anything was wrong, partly because he had claimed to be tired from the recent work and retired early to his room.
+
+Of course, his junior immediately caught on when he mentioned being "tired from work" during dinner yesterday, her eyes narrowing at him across the table.
+
+Lucien exhaled through his nose. “There is no need for us to be there anyway, Talia. I suspect the villagers would rather not have a noble hovering over what should be their celebration like that.”
+
+Even as he spoke, he adjusted his cloak and put on his gloves before walking toward her.
+
+Talia began tapping her foot impatiently. “Sure, if you were just any noble, but you're not. We both know the villagers will be more than happy to have you there, Senior,” she shot back, a brow raised.
+
+As he neared her, his steps slowed.
+
+'...Perhaps it would be easier if I were just an ordinary noble.'
+
+“Ah, ah! No brooding, Senior!” Talia’s voice cut across his thoughts. When he lifted his head to give her a look, she merely wagged a finger back and forth.
+
+“I don't know what Joren said to you yesterday, but whatever decision you choose to make? I'll be there to help ya out, kay?” she said, winking as she slapped his back lightly.
+
+For a brief moment, he stared at her before a corner of his mouth lifted.
+
+“I suppose I shouldn’t let it come to that. Who knows what you would do just to cheer me up,” he replied dryly, walking past her.
+
+"Maybe...an extra batch of coffee for the next month or so? Your last batch is-"
+
+Lucien spun around with a serious expression on his face. "Yes. Thank you very much."
+
+She blinked before a teasing grin formed. "Oh? Then what about a few encouraging words from your cute junior? Won't you-"
+
+"I will take the coffee. Thank you."
+
+Talia stared at him for a breath before she gritted her teeth in exasperation. "I know that's just like you and all so I shouldn't be surprised...but couldn't you at least pretend to consider it?"
+
+He turned without another word and walked away quickly, causing her to let out an indignant yelp. “Hey! Come on, consider it a bit please!”
+
+Lucien's mood lifted just a little as he ignored her rambling complaints, the two of them making their way toward the irrigation ditch site.
+
+The sun had already climbed well above the eastern trees by the time they reached the irrigation ditch, its warmth spreading over the damp earth left behind by weeks of digging while the smell of turned soil, river water, and cooking smoke drifted through the gathering.
+
+Most of the people involved in the digging had already gathered near the finished channel.
+
+A few long tables had been set up off to the side, laden with food prepared by others in the village for everyone who had helped with the work.
+
+It had been Talia’s idea, considering the women who had spent the past few weeks cooking meals and hauling dirt alongside their husbands would finally have the chance to simply rest and eat for a day.
+
+When they neared the gathering, Talia went on ahead to oversee the food and drinks while Alicia had already been drawn into helping near the tables, moving between the villagers with her usual diligence.
+
+Lucien remained at the edge of the celebration. No matter how familiar he had become to Ashridge, no one would feel fully comfortable with a noble placing himself at the center of what was meant to be their celebration.
+
+It was hard to tell with so many people gathered, but he could still make out the distinct groups forming around the area.
+
+Tomas’s cousin stood among the farmers from the western fields, his expression neutral as the men around him exchanged brief words while their eyes lingered on the water gate.
+
+There was a wary hope there, as though they still could not quite believe the ditch before them had been built primarily for their fields.
+
+Farther away from them stood a few men with their arms crossed, their gazes occasionally shifting toward the western farmers.
+
+Lucien recognized one of them after a moment. If he was not mistaken, it was the man from Cragwatch who had nursed a blackened eye after the fight in the western fields. Some within the same group wore the distinct clothing of the eastern refugees.
+
+The man from Cragwatch was staring at someone among the western farmers. When Lucien followed his gaze, he found the farmer with the bruised lip, the one who had admitted to throwing the first punch only a few weeks earlier.
+
+Harlon and Garrick were speaking with a few carpenters near the water gate, making the last few checks before the lifting. Sera stood nearby, her pale eyes fixed on the mechanism while several villagers watched her more than the gate itself.
+
+She glanced briefly in Lucien’s direction when he arrived, gave him a small nod, then turned back.
+
+Cora and Roland were right next to the hunter, arguing over who would be Sera’s companion in some imagined scenario where the water gate came under attack.
+
+The girl puffed herself up and declared that Sera would much prefer a fellow hunter like herself, while Roland shot back that a hunter needed a warrior and held his wooden sword upward in what might have been a knightly stance if he had not nearly tripped on the soft ground near the riverbank.
+
+Leofric shook his head tiredly, trying to corral the group into what he believed was a more mature gathering, only to slump as Sera finally dragged her eyes away from the lifting mechanism, looked between Cora and Roland, then stepped beside Cora with a firm nod as though agreeing to the imaginary arrangement.
+
+Elin stood a short distance away, exchanging a glance with Matthias, who was doing his best not to burst into laughter. She nudged him once, only for him to look away quickly, his lips pressed tight.
+
+Lucien regarded the scene with faint amusement, though he couldn't help but notice more people than he had expected near the water gate.
+
+As expected, it seemed word of its lifting had spread throughout Ashridge, and now, a number of the newer refugees from Helvarn had come to watch. Most of them didn't approach, still uncertain whether they were even welcomed in the first place.
+
+Among the newer refugees, he noticed Zara standing with Aisha near the back of the gathering. The woman’s posture was composed, but her hand rested lightly near the girl’s shoulder, as though uncertain whether to guide her forward or keep her close.
+
+Aisha herself was not looking at the water gate, her eyes resting instead on the group of children gathered around Sera with a wistful look on her face.
+
+He wasn't surprised when it was Cora who came running over to her a brief moment later, Elin following behind at a more sedate pace.
+
+Cora slowed to a stumble before rising onto her toes as though searching for a certain face. When Elin tugged at her sleeve and pointed toward Aisha, her eyes brightened.
+
+“Aisha! There you are, I thought you weren't coming!” she cheered, running over to her.
+
+Coming to a stop near her, she turned toward Zara. "Hello, Miss Zara, can Aisha come and play? She's my...hmm what was it..."
+
+Elin let out a soft breath before bending down slightly to whisper something to Cora, only to draw back just in time when the girl bounced once, nearly hitting her in the head as though Elin had expected it.
+
+“Oh! Spotter! Yeah! Sera said a hunter needs someone watching too!”
+
+A soft chuckle escaped Zara before she glanced down toward her daughter. "Well, Aisha? It's up to you."
+
+Aisha nodded immediately before her mother even finished speaking, though she flushed at the woman’s chuckle. “If...you are fine with me not knowing how to be a...spotter?”
+
+Instead of answering, Cora reached out to grab her hand, pulling the taller girl along. “Come on! I'll teach you! It's so easy that even Lord Lucien could do it!”
+
+Lucien's brow twitched as he wondered if Cora would need to undergo a round of flicking as well.
+
+The refugees around them stiffened, eyes widening as they quickly looked around. When they spotted him, they looked as though they were about to panic, if not for Zara offering him a small smile.
+
+He returned the gesture, and the refugees around her slowly lost the rigid stillness in their shoulders, though several continued glancing between him and Cora as though waiting for the offense they had expected to appear.
+
+When it didn't, their fear gave way to a sort of bewilderment that made Zara’s smile deepen.
+
+Cora and Aisha were already walking away, unaware of what had just occurred, while Elin turned in his direction and gave a slight bow in apology. Only when Lucien waved a hand lightly did she turn to follow after them.
+
+For a time, Lucien remained where he was, arms folded behind his back as he watched the gathering, turning slightly when he heard footsteps behind him.
+
+Bran dipped his head before coming to a stop beside him.
+
+"My Lord."
+
+The sight of the farmer caused Joren's words to echo faintly in his memory even as he kept his expression carefully neutral.
+
+"Bran. Not planning to join the celebrations?"
+
+The older man shook his head. "It'll just sour the mood they have now, Lord." He exhaled softly through his nose. "Some of the lads from the eastern fields didn't come either...even those who helped with the digging."
+
+At those words, Lucien's brow creased. "Why? I gave leave from work today to everyone who had been involved."
+
+Bran folded his arms in front of him. "There's been...a bit of talk about how the western fields are getting better treatment."
+
+When Lucien stared at him, the farmer nudged his head toward the water gate. "The farmers at the eastern fields have had to dig small channels for their farms without aid. Then they see the village putting men, food, and time into an irrigation ditch for the western fields."
+
+"They think that's unfair when they're the ones providing most of the food for the village."
+
+Lucien's hand rose to rub his temple. "I assume you have told them the reason?"
+
+"Aye. Most of them understand, Lord. It's just a few of them...especially those who aren't part of the four field system under me." Bran replied, a tired look on his face.
+
+Lucien's gaze lowered in thought. "Maris had told me that the former lord had chosen not to get involved...perhaps this was the reason why."
+
+Beside him, Bran glanced toward Lucien, studying him for a moment before he carefully spoke. "It would have been worse if you had chosen not to, My Lord. All the more now, with so many new people in Ashridge."
+
+"Ignoring the problem would simply make it worse."
+
+The words from the older man only made Lucien’s chest tighten. His eyes dragged over to where Alicia stood near the tables.
+
+A few of the children lingered near her as she bent down to wipe a boy's mouth with her apron, a gentle smile on her face.
+
+Bran followed the direction of his gaze, a smaller smile forming on his own expression. “Without your help, My Lord, there wouldn't be a sight like this in Ashridge.”
+
+A loud call from Harlon caused the gathering to shift as people began looking toward the water gate where Sera was already in position, her hands gripping the lifting mechanism.
+
+As soon as the carpenter gave the word, she began lifting the gate, and the water from the Easthollow River, held back until now, started coursing through the irrigation ditch.
+
+Even as cheers rang out across the area, Lucien's eyes remained on Alicia.

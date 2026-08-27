@@ -1,0 +1,399 @@
+---
+id: 338a155f-9775-5752-a511-5794e31fb24a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120 - A Library?"
+slug: 0105-chapter-120-a-library
+partOf: mythrans-master-of-all-continued-completed
+position: 105
+ownLength: 3298
+unit: words
+publishedAt: 2016-12-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108467/chapter-120-a-library"
+royalRoadId: "108467"
+---
+
+It took the female dwarf several minutes to recover enough to do the proper paperwork, and Ren sewed up a sack to put the coins in. She counted the coins out and added them to the sack, tied it to the paperwork, and dropped it into the filing cabinet.
+
+Notice!
+
+You have registered a land claim at the Main Keep. You now co-own 900 square miles of unclaimed land from the outskirts of Dornrach to near the land border of Convent Vongurhm, and 50 square miles of registered city land within Dornrach's city limits.
+
+The female dwarf opened the bottom cabinet and took out 2 rolls of parchment. She came over to the desk and handed one to Ren and one to Nathalia. Ren opened his and read it.
+
+Land Deed
+
+This Deed indicates co-ownership of 900 square miles of unclaimed land (Map Included), and 50 square miles of city land (Map Included). Copies can be purchased at the Hall Of Records for 1 gold coin.
+
+Note: A permanent structure must be built on both sections within 1 year.
+
+Notice!
+
+Your aquisition of such an expansive plot of land has gained you Influence.
+
+Influence: +95,000 (100 Influence per square mile)
+
+Notice!
+
+Your Influence has reached an unprecedented level (20,000+). You are now considered a Knight by all that see you.
+
+Notice!
+
+Your Influence has reached an unprecedented level (80,000+). You are now considered a Prince by all that see you. Aura Bonus: +2 levels.
+
+Aura (Personal) is now Level 6 (Beginner 0%)
+
+Ren heard Nathalia gasp, and saw her pull out a chair from her inventory and she sat down.
+
+He turned to her and knelt.
+
+“Did you get...”
+
+Nathalia nodded slightly. “I... Ren...” She swallowed then waited a moment to regain her composure. “I was a princess because I was the daughter of the Lady of House Neram, but... I guess it was in name only... because now...”
+
+Ren took her hand. “Are you going to be okay?”
+
+She nodded slightly again and took several deep breaths. Ren turned towards the female dwarf.
+
+“I knew I'd gain a pile of Influence for buying so much land, but I never thought...”
+
+The female dwarf smiled. “Yes, your highness?”
+
+Ren motioned to her and she chuckled.
+
+“You can always rescind your claim.” She said and grinned. “And forefit any money paid.”
+
+Ren's eyes widened at her, and then shook his head.
+
+“Or not pay taxes for a year.” The female dwarf said, and leaned over the map. “For your particular lots... let's see...” She counted up the square miles he had. “1 gold for the unclaimed land per year, and 2 for the city limits.”
+
+Ren raised a single eyebrow, and she smiled.
+
+“You want to know why are the taxes so low?” The female dwarf asked, and Ren nodded slightly. “It's simple, really. Our economy can't support a high taxation rate.”
+
+“But...”
+
+“People can only buy so much land with what they make. If they somehow do manage to get a loan, they have to work it off before taking possession. That doesn't include building a house on it, either. It's a lot of money right off the bat.” She shook her head. “Unfortunately, most of the land reverts back to the Kingdom before the debts are paid.”
+
+“So, all that land I just bought was previously owned?”
+
+The female dwarf shook her head. “Only the land within the city limits. The land out here...” She said and pointed. “...really is unclaimed.”
+
+“Then what about the city land?” Ren asked. “Is there anyone living there right now?”
+
+She nodded slightly. “People have been renting the land there from us.” She smiled. “A big farm about a mile from you.”
+
+“That's the farm we get our food from.” Nathalia said, finally recovered from the shock. “Nonyar and Magdhal's Farm.”
+
+“Congratulations. You've become their new landlord.” The female dwarf said.
+
+“We already have a couple of residents.” Ren said and smiled. “The more the merrier.”
+
+“If word gets around that you're looking for tenants, you might get flooded with petitions for residency.”
+
+“We're planning on building a Main House first.” Ren said. “You wouldn't happen to have the plans for that, do you?”
+
+“There's another stupid question.” The female dwarf said and laughed, and Ren joined her. She turned around and rummaged through another shelf.
+
+“Another one?” Nathalia asked.
+
+“The last time I was here, I asked if she had a map.”
+
+Nathalia snorted a laugh and the female dwarf turned around with a big grin on her face.
+
+“Isn't he just a jewel?”
+
+Nathalia nodded slightly and squeezed Ren's hand, then let it go. The female dwarf showed Ren the plans for a Main House, and he studied them. Once he learned them, he smiled.
+
+“Thanks.”
+
+“Do you want a copy?” She asked.
+
+Ren shrugged. “Sure, why not.” He said and dug out a gold coin. “Say, I better pay 5 years of taxes while I'm at it.”
+
+“W-w-what?!?”
+
+Ren took out another 50 platinum and 75 gold. “I was only going to pay this years, then I was tempted to pay 10 years; but I've only got enough left on me to cover 5 years.”
+
+“But... but...”
+
+“I guess people don't prepay their taxes.” Ren said and smiled.
+
+“They don't want to pay it when it's due!” The female dwarf said, and Ren laughed. She took the money, filled out another form, and dropped both into the filing cabinet. While Ren waited, he stored the deed and copy of the Main House plans and remembered his inventory had been modified. He examined it and saw he didn't have any more slots than he had already.
+
+“Show info on Inventory (Modified)”
+
+Inventory (Modified)
+
+Your normal slot carrying capacity (99) has been increased (199).
+
+Ren stared at the popup as the female dwarf came back to her desk and sat down.
+
+“Will there be anything else, your highness?”
+
+Ren closed the popup and looked at her. “Now that you've reminded me, can we subdivide the land any way we want? Or is there a set pattern? Do we lease it, or can we deed it? Do we lose Influence if we do? What about-”
+
+“Stop! STOP!” The female dwarf said and then laughed. “You apparently have questions.”
+
+Nathalia laughed and Ren grinned. The female dwarf opened a drawer in her desk, took out a small pamphlet, and handed it to him.
+
+“The answers to your questions are in there.” She said. “Only about land ownership, though.”
+
+He took it and smiled. “Thank you.”
+
+“Anything else, your highness?”
+
+Ren thought about it and shook his head. “Not that I can think of.”
+
+“Thank the gods!” Nathalia exclaimed, stood up, then stored the chair. “I don't know if I can take another one of your surprises today!”
+
+“What other surprises did he give you?”
+
+Nathalia fluttered the cloak out and motioned to her armor. The female dwarf stared at her in surprise.
+
+“He gave you all of that TODAY?”
+
+Ren chuckled and looked at the female dwarf. “You don't happen to need a replacement for that 'toy' I left here the last time, do you?”
+
+The female dwarf laughed, shook her head, and took out the gold coin Ren had given her. She spun it on the desk and smiled.
+
+“Let me know when you want a replacement.” Ren said and held a hand out to her. The female dwarf looked at Ren curiously.
+
+I thought he would be different than those other 'nobles' that want people to bow to them. She thought and took Ren's hand. I better do it. I don't want to lose Hon-
+
+Ren bent over her hand in a show of respect, and her eyes widened as he gave her Honor instead. He let her hand go and turned around. Teepo dropped from the ceiling and was caught by Ren's outstretched hands. He crawled up into the hood as Ren walked with Nathalia down the aisle to the exit.
+
+*
+
+She's one lucky woman. The female dwarf thought and spun the coin again.
+
+*
+
+Ren opened the door for Nathalia and they walked down the hallway. He stopped at the other door and turned to her.
+
+“You gathered a lot of attention when we came in here, because of your beauty and prowess.” Ren said. “You're really going to get it now.”
+
+“And you're not?” Nathalia asked.
+
+Ren leaned in close and whispered in her ear. “With you in the room, I'm practically invisible.”
+
+“Ren, that's not true.” Nathalia put a hand on his chestplate and put her head against his. “You stand out just as much as I do.”
+
+Ren leaned back to look her in the eyes. “Who looks at the moon, when they can see the sun?”
+
+Nathalia smiled as she recognized part of the Devotion ritual. “Without the moon, the sun has no reason to shine.”
+
+Ren gave her a light kiss on the lips and stepped back to take her hand. “Concentrate on your Aura ability again.”
+
+Nathalia nodded slightly and Ren opened the door. They were greeted with gasps and stares as they walked across the large lobby area. Several dwarfs pointed openly at them, and hushed conversations ensued. The 2 guards on duty inside the Main Keep, opened the front doors as Ren and Nathalia approached it and nodded. Ren led Nathalia outside the building and they were greeted with the same kind of reception outside as they'd had inside. Ren kept walking while holding Nathalia's hand, and the guard opened the exit gate and let them through, and nodded as they passed. Once outside, they walked down the road, and most of the dwarves that they passed, all glanced their way.
+
+“Can I stop concentrating now?” Nathalia asked. “I think I'm getting a headache.”
+
+“Sorry, Nathalia. I should have told you that after we were outside the gate.”
+
+Nathalia sighed as the strength of her Aura dropped. It was still there; just not as noticable. She looked at Ren.
+
+“You're still concentrating on it, aren't you?”
+
+“I am.”
+
+“Why?”
+
+“I'm trying to train it.”
+
+“Train it?”
+
+“The longer you concentrate on it, the more it will level up.”
+
+“Then maybe I should...”
+
+Ren shook his head. “No, you're right. Don't try and do it all at once.”
+
+“But you are.”
+
+“Yeah, but I'm me.” Ren grinned. “I can ignore a lot of pain.”
+
+“So it hurts you eventually, too?
+
+Ren nodded slightly. “I think it's from over-use; like a muscle that you exercised too much.”
+
+“That's what it feels like!” Nathalia said. “I was trying to come up with something to compare it to.” She looked around. “Um, Ren... where are we going?”
+
+“To the Library.”
+
+“The what?”
+
+Ren looked at her. “You don't know what a library is?”
+
+“I know what it is, you nut.” Nathalia chuckled. “We don't have one here.”
+
+Ren grinned and stopped in front of a small alleyway. Another job for you, buddy.
+
+“One is pleased to serve.” Teepo chittered in laughter as he hopped out of the hood, then skittered down the alleyway.
+
+“What if I told you that there actually was one?”
+
+“Ren...” Nathalia sighed. “I've lived here all my life. I've never even heard that there was a Library in Dornrach, let alone seen it.”
+
+“It's just a small room and a female dwarf sitting behind a desk.” Teepo said.
+
+Thanks, Teepo.
+
+Ren smiled and walked down the alleyway, and pulled Nathalia with him.
+
+“Why are we going through this alley?” Nathalia asked. “The street corner is just around the building.”
+
+“I told you.” Ren said. “I'm going to the Library.”
+
+Nathalia chuckled. “Ren, I-” Her words cut off as she saw a small 1 storey building, barely bigger than the main room of House Neram. “What the?”
+
+Ren knocked and waited for a response.
+
+“You may enter.”
+
+Ren opened the door and entered. Nathalia stumbled in after him. There were stacks and stacks of books from floor to ceiling. There wasn't any shelves at all, just books. Ren had to turn sideways part way down the space he was walking in, to avoid knocking over one of the stacks. They arrived at the back of the room and came to a stop at a small desk and the female dwarf that sat there stared at them.
+
+“Hi.” Ren said. “I'm looking for a book on dwarf runes.”
+
+The female dwarf smiled. “Library card, please.”
+
+Ren handed his over and the female dwarf examined it. She looked at Ren and then frowned.
+
+“I'm sorry, sir.” She said with regret, and held the Library card out to him. “You're only a Rank D reader. Everything in here is Rank B or higher.”
+
+Ren stared at her with wide eyes. Holy crap! Rank B and higher only! He sighed and took his card back. “Sorry for wasting your time.”
+
+“It's no trouble.” The female dwarf smiled again. “You're the first visitor I've had in decades.”
+
+Ren held a hand out to her and she took it. He bent over it and smiled at her quick inhale of breath. “I'm pleased to be the first in so long.”
+
+The female dwarf waved a hand in front of her face when Ren let her hand go. He turned to leave and she spoke.
+
+“Wait.”
+
+Ren stopped and turned around.
+
+“I may have something.” She said and stood. “I'll be right back.”
+
+Ren and Nathalia stood there and waited as the female dwarf disappeared around the stacks of books.
+
+Teepo?
+
+“She's going into a tiny bedroom at the left of the room.” Teepo said. “There's stacks of books there, too.”
+
+A few minutes later, the female dwarf came back and handed Ren a brightly colored children's book.
+
+“This isn't actually a part of the Library.” She said. “I saw you've read another child's story, and remembered that I still had one of my own.”
+
+Ren took it from her gently and read the cover.
+
+Brunhilda and the Water Sprite
+
+Her Further Adventures in the Land of Giants
+
+“May I read it?” Ren asked before opening it.
+
+The female dwarf nodded slightly and Ren smiled. “Thank you.”
+
+He opened the cover and saw that it was a picture book and had a few words on the bottom of each image. Ren took his time examining each picture and then read the text underneath. Even doing that, it only took a few minutes for the book to be finished, and he closed the cover.
+
+Notice!
+
+You have read a story from the Lore Of The Ages Series
+
+Notice!
+
+Your Hidden Knowledge skill has allowed you to find secret information in this book.
+
+You have learned the Dwarf Rune: Illuminate, and a name: Kytal
+
+“Thank you very much, Ma'am.” Ren said and handed the book back.
+
+“You are quite welcome, young man.” The female dwarf said. “It's so nice to finally meet someone who respects books as much as I do.”
+
+Ren looked at the stacks and stacks of books and then back at her, with a raised eyebrow. The female dwarf giggled and then had a shocked look on her face.
+
+“Did... did I... just giggle?”
+
+Ren grinned. “I sometimes have that effect when I use my awesome eyebrow powers.”
+
+Both Nathalia and the female dwarf giggled at the same time, and then they stared at each other.
+
+“It's true?” The female dwarf asked Nathalia.
+
+“So far.” She said and grinned at Ren's surprised expression.
+
+The female dwarf snorted a laugh and sat down behind her desk. “They may look disorganized, but everything is in perfect order and in perfect condition.” She said. “I can't afford to put up all the shelves needed for everything, let alone find the space to put up the shelves in the first place.”
+
+“I could.” Ren said and the two women looked at him. “Now that I see what's needed, I'd like to offer to build the shelves, so you can put these treasures where they belong.”
+
+The female dwarf looked at Nathalia. “Is he crazy?”
+
+“So far.” Nathalia said and laughed.
+
+The female dwarf looked at Ren. “I can't pay you.”
+
+“Ma'am, I wouldn't accept any money from you, even if you offered it.”
+
+“What?” She said, surprised. “Why?”
+
+“For one, I don't need it.” Ren said. “For another, it's something I'd like to do... for the books.”
+
+She had a surprised expression on her face for a moment, and then she grinned. “You sir, have a deal.”
+
+New Quest!
+
+You have volunteered to build enough shelves to hold all of the books contained in the Library. No time limit has been set to complete this quest.
+
+Rewards: 1000 XP, ????
+
+“I'll have it done as soon as possible.” Ren said. “I have to head home for now to take care of a couple things, but I'll be back with enough wood for the shelves.”
+
+The female dwarf nodded slightly and smiled. “I'm looking forward to it.”
+
+Ren and Nathalia walked across the room and reached the door. Teepo dropped into the hood of Ren's cloak and Ren opened the door. Nathalia stepped passed him and he shut the door behind him. He took her hand and they walked down the alley and out onto the street. Once there, they made it to the main road and walked all the way back to House Neram. Carts filled with silt passed them constantly and Ren grinned at all the hard work everyone was doing for House Neram.
+
+As they approached the house, there was still a crowd gathered near the statue. A lot of them stared at him and Nathalia as they passed. Ren nodded slightly to them and he led Nathalia to the gate. Barnar's group were working on the blank side now, and several waved at Ren. He waved back and led Nathalia through the gate and into the courtyard. He shut the gate behind them and locked it. Nathalia looked at him in surprise and Ren smiled.
+
+“I've got Adventurer's business to do, and I don't want any unexpected visitors while I'm out.” Ren explained.
+
+“Are you expecting any?”
+
+Ren shook his head. “No, but it's better to be safe than sorry.”
+
+Nathalia nodded slightly and they entered the house.
+
+“Ma! We're back.” Nathalia said and Ren followed her through the main room and into the kitchen.
+
+“Did you have a good ti- By The Gods, Nathalia!” Narhilda ran over to her and gave her a hug. “H-how?”
+
+Nathalia nodded at Ren. “He bought a bit of land for us.”
+
+Narhilda raised her eyebrows, and Nathalia chuckled.
+
+“Okay, he bought a LOT of land.” Nathalia said.
+
+Narhilda looked at Ren and he smiled. “How much land?”
+
+“You don't want to know that right now.” Nathalia said. “I'll tell you later.”
+
+Narhilda nodded slightly. “So, what are you up to now?” She asked Ren.
+
+“I've got some Adventurer's business to take care of.” Ren said. “I also have something for the both of you to do.”
+
+“What's that?” Nathalia asked.
+
+Ren cleaned off the kitchen table and took the giant boar's carcass from inventory. “I've got a little bit of ham and bacon for you to harvest.”
+
+“We...we're going to eat it?!?”
+
+Ren grinned. “Why not? Boar is a rare meat I hear.” He said. “Don't cut it apart or throw it away once all the meat is off of it, though. I want it back.”
+
+“There's not enough room in the icebox for this much meat.”
+
+“That's okay.” Ren said. “I'll make a bigger one.” He walked out of the kitchen. “Make sure there's lots of bacon!” He said and walked down the hallway to the bedroom. Teepo hopped out and Ren climbed onto the bed.
+
+I'll see you in a little bit, Teepo.
+
+“Bye, Ren.” Teepo said.
+
+“Logout.”

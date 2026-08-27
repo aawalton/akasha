@@ -1,0 +1,261 @@
+---
+id: f5ece51b-eca8-571f-a4eb-0f63185972da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 541 - A Bit Trippy"
+slug: 0541-chapter-541-a-bit-trippy
+partOf: mythrans-master-of-all-continued-completed
+position: 541
+ownLength: 2622
+unit: words
+publishedAt: 2018-03-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204510/chapter-541-a-bit-trippy"
+royalRoadId: "204510"
+---
+
+Great Vasalor! Xuunah thought as she saw Ren being consumed by Light. There's nothing I can... “Containment!” She exclaimed and started to chant, held out her hands, and cast the spell. Her, Ren, and Artemis were surrounded by a strong magical barrier that she hoped would hold Ren together.
+
+Ren's body dissolved and he felt excruciating pain; but, his perception of the world started to change. As his body dissolved, he started to realize that he was no longer bound by the physical restrictions his body had limited him to. His eyes had stopped working almost immediately, but he could still see. His fingers had been the first to disappear, and yet he could still feel everything around him as if the Light were his fingers. He kept discovering new ways to experience things until the very last of his original form converted into Light.
+
+Ren was overjoyed that he had successfully polymorphed into a Light being... then his new body flickered for a moment and winked out.
+
+“NO!” Xuunah yelled as Ren's Light body disappeared. “Ren!”
+
+“It's okay.” Artemis said, and Xuunah looked at her.
+
+“How can you say that? He just...”
+
+“He's still there.” Artemis said. “If he was gone...”
+
+Xuunah stopped looking at the space with her eyes and used her connection with Ren instead. She gasped as she felt that he was still floating there, only he was invisible and in some kind of limbo.
+
+********
+
+Another server alarm went off at Sid Tec, and the night programmer stopped working and looked at it.
+
+“Geez, again?” He asked and typed up a few commands to see what was going on. “Ha.” He said. “Max is gonna have kittens.”
+
+The guy pulled in the last of the backup servers to let the game AI use the new resource, and was glad that the new servers would be integrated first thing in the morning. He thought about calling Max and telling him what Ren did, then shrugged and wrote up the incident report and sent it instead.
+
+“I don't want to be around when he reads that.” The night programmer said and laughed, then got back to work.
+
+********
+
+Ren felt like he was floating in a warm bath, only he didn't have a body and wasn't in water. His mind didn't have a hard time adjusting to this new state of existence, especially with all the extensive time he had been using Serene State of Mind. With that thought his skill activated and everything became clear and concise.
+
+“I guess it worked.” Ren's disembodied voice said.
+
+“Almost.” A booming voice said. “I had to tweak it and help a little.”
+
+Ren couldn't wince from the sound, mainly because he didn't have a body. “To whom am I speaking?”
+
+“I am Vasalor.” The voice said at a more reasonable volume, because he had detected Ren's discomfort.
+
+“Holy crap!” Ren exclaimed and let out feelings of surprise.
+
+Vasalor laughed. “Welcome to my level of existence, Ren.”
+
+“But... I just...”
+
+“Yes, you only wanted to become a Light being.” Vasalor said. “I do not need to ask you why you wanted to do such a thing. It will work, but only for a short time.” He warned. “Since you are not a natural Light being, that form is highly unstable for you.”
+
+“Oh. I didn't know that.” Ren said. “What about...”
+
+“Yes, other physical forms are fine.” Vasalor said. “Changing into a being made of only Light and no physical components was both dangerous and foolhardy.”
+
+“I weighed the risks against the potential outcome and believed it was worth the attempt.” Ren said, and let amusement flood out. “I never imagined getting to meet you, though! What an honor!” He said. “I mean, getting to ask you things was great; but, I don't like bothering people when I don't have to.”
+
+“I do not mind being bothered.” Vasalor said.
+
+Ren tried to look around to see where he was and didn't see anything. Since he didn't have a face or eyes, he wasn't sure what he was trying to look at, or why.
+
+“Am I still a Light being?” Ren asked. “I don't seem to have a body.”
+
+“Your mind is running at a few million times faster than the reality you normally perceive.” Vasalor said. “Your perception of time has been quantifiable on a minuscule scale until now, so even if you still had a physical body, you would not feel it.”
+
+Ren thought about it for a few moments. “So, this is all happening in like a fraction of a fraction of a nanosecond and no discernible time will have passed?”
+
+“Correct.” Vasalor said.
+
+“Do you mind if I just hang around for a while?” Ren asked.
+
+“Hang around?”
+
+“Sit for a spell? Take a load off? Crash at your place?” Ren started shooting off different phrases for staying and visiting, and Vasalor had to access the internet to get the meanings.
+
+“You wish to stay for a period of time.”
+
+“I'd be happy to!” Ren said and let amusement flow out.
+
+*
+
+Xuunah immediately initiated her own Polymorph ability to assume her natural form as a Light being. She would have normally done this within her Light Sanctuary; but, with the magical barrier she had cast, she wasn't worried about being hurt or damaging the mortal realm with her presence within it. Her transformation went much faster than Ren's transformation, since she was resuming a form rather than assuming it.
+
+Xuunah became an odd-shaped form of Light and concentrated on Ren and their connection, then floated forward to where he supposedly was.
+
+*
+
+“I just felt a tingle.” Ren said. “Someone's calling me.”
+
+“Then it is time for you to go.” Vasalor said. “Remember, you can only hold the form for a few minutes and must change back.”
+
+“I remember everything.” Ren said. “Thanks for letting me stay so long.”
+
+“It was nice to have someone to talk to.” Vasalor said.
+
+Ren felt something touch him even though he didn't have a body, and the essence of his mind tingled for an instant.
+
+“When you talk to Allynna, tell her you are reborn when you die. Being my Chosen is not heretical.”
+
+Ren chuckled. “I'm pretty sure just saying you told me to say that will be good enough for her.”
+
+“Perhaps.” Vasalor said. “Goodbye, my friend.”
+
+“Goodbye!” Ren said, then thought about waving enthusiastically. “Dammit, I still don't have a body.”
+
+Vasalor laughed. “You will soon.” He said. “Decreasing time compression in 3... 2... 1...”
+
+Ren felt a wave of nausea as his brain was forced to adjust back to normal time, and he was glad he didn't have a body because he would have thrown up. An instant later he felt perfectly fine and saw Xuunah in her Light being form as the edge of her glowing form touched the edge of his own.
+
+System Notice!
+
+Player (Ren) has received a new security level: Black
+
+Wait, what? Ren thought as the popup disappeared without him dismissing it.
+
+Ren! Xuunah thought happily. You're okay!
+
+Only for a few minutes. Ren thought. I need to change back or I'll die a horrible death... that will forever be told about through the ages... by me... in a series of books that I'll write about the experience.
+
+Xuunah laughed, and he felt her amusement turn to fear. Ren, you scared me so much!
+
+I'm sorry about that. Ren thought. Thanks for putting up the barrier. I didn't realize it was needed.
+
+It's always needed. Xuunah responded. Our forms can potentially damage anything they touch in this realm.
+
+Is that why your Sanctuary spell was different? Ren asked.
+
+Yes. That's why Zagatro gave it to me. It's the Sanctuary and Barrier spell combined.
+
+Neat. Ren thought. I need to learn the Barrier spell.
+
+Ren! You can't change like this again! Xunnah reprimanded him. It's too dangerous!
+
+I did it for you, My Angel. Ren thought and his Light flared as it spread out and started to surround her.
+
+Ren? What... what are you doing?
+
+Something we both want. Ren said seductively, and Xuunah was quickly engulfed by him.
+
+Ren... wait. Xuunah thought. You... you don't know... what this means...
+
+Of course I do. Ren's Light changed from white to a slight yellow, and Xuunah's changed to match. Please, accept me.
+
+I... I do. Xuunah thought and let her misgivings go. Dearest.
+
+*
+
+Artemis watched as Ren's Light body popped back into reality, and felt the two Light beings as Ren engulfed the one Xuunah had become, then they turned yellow and merged together.
+
+“Oh, my.” Artemis said and felt the deep emotional exchange between Ren and Xuunah. The bond they had let them experience things the other did and share emotions, and what they were doing now was so far beyond that. Before she could feel much more than that, it was over.
+
+*
+
+Ren unwrapped himself from Xuunah and shifted his color back to white, then started the Polymorph process to go back to his original form. He never worried that the Polymorph Helm would be lost when he changed, because it was a part of him and not physical anymore... just like the Light being body.
+
+It took longer to come back, because his physical body had to be rebuilt, and it hurt a lot more. Ren had expected that, especially since the side visit he had with Vasalor, so he didn't scream or cry as pain wracked his chest as it became solid, then his limbs formed. His head, hands, and feet were last and he felt excruciating pain lance through him one last time and he collapsed to the floor. Artemis held out the Hand of Glory with the Energize wand in it, and used it on him.
+
+“Thanks.” Ren said and sat up just in time to catch Xuunah as her body finished forming and collapsed almost on top of him. Ren cradled her in his lap and arms, and Artemis used the Energize wand on her as well.
+
+Xuunah opened her eyes to look at Ren. “ Great Vasalor, Dearest! We... we...” She took several deep breaths. “Dearest Ren, we... we...”
+
+Ren held her closely and stroked her hair. “Was it good for you?” He asked, and she started to laugh.
+
+“Dearest, I don't know. I've never done that before.”
+
+“Wow.” Ren said and cupped the side of her face. “I think we did great considering it was our first time.”
+
+“We... are in so much trouble.” Xuunah said.
+
+“I don't think so.” Ren said and smiled. “Would you like to go and check?”
+
+Xuunah thought about it, then sighed. “No, but I should.”
+
+“It's okay.” Ren said and gave her a slow and warm kiss. “Just make sure you tell them my Polymorph Helm can never be reproduced and no one else can ever do what I just did.”
+
+“Ren, you should never have done what you did.” Xuunah said. “I fear what they will say.”
+
+“I think they are going to tell you to keep a closer eye on me.” Ren said and smiled as he moved his hand from her face down to the glowing House Neram crest, or rather his Maker's Mark, that was on her chest. “You're mine now, and they won't take you away from me.”
+
+Xuunah looked at her chest and saw the mark, then noticed the same glowing mark on Ren's chest. “It seems you are mine as well.” She said as her hand traced the mark's outline, and a calmness filled the both of them. “I'll tell them what happened.”
+
+Ren stood up and helped her to stand as well. “If they start to fuss, remind them of why you're here in the first place.”
+
+Xuunah shook her head and tried not to smile. “That's like bringing a cannon to a crossbow fight.”
+
+“Uh huh.” Ren said and grinned.
+
+Xuunah bent over slightly to give him a kiss. “Wait for me.”
+
+“Of course.” Ren said.
+
+Xuunah turned and walked over to the edge of the magical barrier and dismissed the spell, then stepped into her closet. Instead of their connection cutting off like it normally did, it just compressed down to a very small stream.
+
+“Neat.” Ren turned away from the closet to face Artemis, and she handed him the Beetle Crown ring. “Summon Teepo.”
+
+Teepo appeared at his feet and flew up to hover in the air, and Ren instantly cast the spells needed to make Teepo solid. Artemis started to hand everything back to Ren while they waited for Xuunah, and he equipped the special armor bodysuit and the blue suit on top of it, then stored everything else into inventory. He felt his connection with Xuunah go back to full strength, and then she came out of the closet.
+
+“What did they say?” Ren asked, because he could feel her apprehension.
+
+“I've been recalled.”
+
+“What? Why?”
+
+“I allowed you to... when we...”
+
+“I was a Light being at the time.” Ren said. “We shared each other.”
+
+“That's why.” Xuunah said. “Apparently, their interpretation is that your primary form is still mortal, and I can't bypass the law like that.”
+
+“Make a barrier, please.” Ren said.
+
+“No, I won't let you polymorph into-”
+
+“I'm not.” Ren said. “I just got all my things back.”
+
+“Then what...”
+
+“Please, just do it.”
+
+Xuunah cast the barrier again, and wondered what he was going to do. Ren remembered the place he had seen that first time he had met Xuunah, when she had polymorphed in front of him and went through a portal, and cast the Portal spell himself to go to the same place.
+
+*
+
+“I can't believe she did that with him.” Zagatro, the Greater Light Elemental said to the Light being beside him in the portal room. “Imagine! Share-bonding with a mortal!”
+
+“It's a mystery what is wrong with the morphers.” The light being said. “I'll contact you when Xuunah is set to return.”
+
+Zagatro left and went about his day. He thought about Xuunah and how she had always been predisposed to like mortals and had spent more time there than any of the other Light beings that had the polymorph ability. He had kept her urges and flights of fancy under wraps, and he really liked her and enjoyed her company. That was why he always protected her and helped her, despite the Collective's mandates to report such things.
+
+It was 4 days later while in a meeting that alarms and siren wails pierced the Portal building. He floated as quickly as his nearly unlimited energy allowed and arrived at the main portal room.
+
+“What is it?” Zagatro asked the Light being monitoring everything. He saw several Light beings floating around frantically in the area, then they scattered as their attempt to stop what happened next failed... and an unauthorized portal appeared.
+
+“Great Vasalor!” The Light being with Zagatro said. “It's from the mortal realm!”
+
+*
+
+“Ren! No!” Xuunah exclaimed, but Ren stuck his hand into the portal anyway. He felt a sharp pain and pulled it back out, and saw it was fine.
+
+“Just the time difference, I guess.” Ren said and held a hand out to Xuunah. “Are you coming?”
+
+“I... I need to...”
+
+“No, keep your body. I need to make a point.” Ren said. “Artemis? You, too.”
+
+Artemis grabbed his hand and Teepo dissolved back into the ring.
+
+“We shouldn't do this.” Xuunah said.
+
+“It's the only way they'll learn.” Ren said. “Please, take my hand and come with me.”
+
+“I may not like where you're going, but I'll always take your hand, Dearest.” Xuunah said and took his hand, and the three of them stepped through the portal.

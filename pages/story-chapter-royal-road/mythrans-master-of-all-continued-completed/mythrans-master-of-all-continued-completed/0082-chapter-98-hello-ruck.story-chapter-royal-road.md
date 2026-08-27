@@ -1,0 +1,281 @@
+---
+id: 69d64186-fccb-576c-84ea-3189ab66e619
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98 - Hello, Ruck!"
+slug: 0082-chapter-98-hello-ruck
+partOf: mythrans-master-of-all-continued-completed
+position: 82
+ownLength: 3988
+unit: words
+publishedAt: 2016-11-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104966/chapter-98-hello-ruck"
+royalRoadId: "104966"
+---
+
+Ren worked all night and finished 150 Warrior uniforms, gaining 3 points each in Dexterity and Agility, because they required a bit more hand movements to construct than the basic Recruit uniforms. He was definitely getting faster with each uniform completed, and even had Stitching up to Level 5 (Intermediate). His main Tailoring skill was only up 10%, though... and that was including the 100 he'd made 2 nights before. Ren had discovered that trying to grind skills after reaching Advanced level takes a lot of time and work. He ate breakfast, fed Princess, and headed to the Garrison. When he reached his squad's area, he saw a table with various food items on it and smiled.
+
+I guess my Command Aura won't be needed today. Ren thought and switched to Camaraderie Aura instead. The squad finally learned the overhead strike, with Groggot actually splitting his dummy in half, from chest to groin, with the battle axe. After several congratulations and some applause, he was given another dummy. Ren had squashed his dummy using the hammerpick with his first swing, and just hung around to watch and shout encouragement to the others.
+
+Ghomhan taught them the thrust movement next. Groggot was having trouble with that, until Ren suggested he turn the battle axe around and use the knob on the handle instead. Groggot practiced it for a while, getting the hang of the balance using the battle axe backwards, but then Ren told him he could combine the moves. Groggot grinned as he used an overhead strike, slid his hand up the handle, flipped the battle axe around, and jammed the knob into the dummy's face, shattering it. Groggot needed another dummy after that.
+
+They finished yet another day full of exercises and food rewards, and Ren leveled his main Aura skill and Camaraderie again. He headed back to House Neram when it got dark, fed Princess, then went inside and ate himself. They talked and enjoyed each other's company during the meal, and Ren realized something that he'd been missing. He stood up from the table when the meal was done and walked over to where Nathalia sat. He knelt on one knee beside her, so that they were face to face.
+
+“I'm sorry I haven't been spending any time with you, like we were on the ship.” Ren said to her surprised face. “I've been so busy with everything that's been going on, that I've been unintentionally ignoring you.”
+
+Nathalia's face flushed a little red. “Ren, that's okay. You're the man of the House now... you have a lot of responsibilities.”
+
+Ren shook his head. “That's no reason to ignore good friends.” He said and took her hand. “I do consider you a good friend. If it wasn't for you, I'd be in a bunch more trouble.”
+
+Nathalia laughed. “It was because of me you got in loads of trouble.”
+
+Ren smiled. “That's what friends do. We get into trouble, and then help each other get out of it.”
+
+Nathalia smiled. “It sounds so reasonable when you say it like that.”
+
+“That's because it happens to me a lot.” Ren said and grinned, then let her hand go.
+
+Nathalia laughed, and her mother joined her.
+
+“You've surprised me by not kicking and screaming about all of this, actually.” Her mother said. “We've pretty much caught you up in our troubles.”
+
+“I kind of let myself be caught.” Ren said and stood. “You're letting me stay here, the least I can do is help you as much as I can.” He looked around at all of the food that was left on the table, and shook his head. “I'm not going to need as much of this now. What are we going to do with it all?”
+
+Narhilda chuckled and stood. “We usually give anything that's left back to the farm next door. That's where we get a lot of the ingredients, anyways.”
+
+Ren nodded. “That sounds fair... but it's a shame that we can't keep such good food for more than a day...” Then he had an idea. He'd meant to make one when he was back at his business, but never got around to it. “I'll be right back.”
+
+Ren went outside to the stable on the side of the house and took out enough wood to make a big crate. He changed the plans to a rectangle about 4 feet high, 3 feet wide and 2 deep, added shelves with holes for airflow, then made a box to sit on the bottom. He put air holes in that as well, and before closing it, put in a stone enchanted with a double Ice rune, and one with a double Wind rune facing it. Ren closed the box and activated the enchantments. A nice cool breeze came out of the box, and he attached it to the bottom of the crate. A hinged door was made and he was done. It was a little crude, since it wasn't made of metal like he wanted it to be originally, but it worked. He stored it and went back inside, picked a good spot for it, out of the way but still accessible, and placed it there.
+
+“What is it?” Narhilda and Nathalia asked.
+
+“It's something to help keep the food from spoiling, and let it be stored for days on end.” Ren said.
+
+“You're joking!” Nathalia said and jumped out of her chair to open the crate's door. The cool air inside hit her face and she smiled. “Ma! It's true!”
+
+Narhilda came over and felt the nice cool air, then shook her head. “Is there anything you can't do?”
+
+Ren grinned. “I can't fly... yet.”
+
+They all laughed.
+
+“I'm sure you'll figure that one out, too.” Nathalia said and closed the door. “Lets put some of this food away.”
+
+Ren helped them clear the table and most of the dishes actually fit in the available space. He bid the two women goodnight, and went to Narhilda's old bedroom.
+
+I've got to go for about an hour or so, Teepo. Ren thought. I'll be back soon to keep working.
+
+“See you in a little bit, then.” Teepo said and hopped out of his hood and onto the wall. He skittered up onto the ceiling and took up a watch position. Ren settled onto the bed and relaxed.
+
+“Logout.”
+
+********
+
+Ren had a quick supper and used the bathroom. He liked it when Bonnie was working, as she didn't pester him if he was busy. Before climbing back into bed, he gave her a quick hug.
+
+“Thanks, Bonnie.”
+
+“W-what for?” She said, a little surprised at his sudden affection.
+
+“Just for being you.” Ren said and climbed into bed. He didn't notice the slight blush Bonnie had as he put on the VR headset and got comfortable.
+
+“Flow Login Start.”
+
+********
+
+Ren had only been out for about 15 minutes, so he only lost an hour of game time. Only 11 hours left! Ren thought and got to work. An hour later, he had an amazing thought. Ren was really surprised that he hadn't thought of it before. He stopped working and activated Sneak, then went out to the stable and Ruck's cabinet. He very lightly knocked, trying not to wake Princess. Ruck opened the door and Ren motioned for him to climb up. Ruck did and Ren closed the cabinet and went back into the house. Once back in the old bedroom, Ren had Ruck climb off.
+
+“Ruck, I've had a neat idea. I've been working hard to make uniforms for the military, but it's taking longer than I'd like to do it.” Ren said. “I need your help.”
+
+Ruck gave the 'okay' gesture and Ren smiled. “Great!” Ren drew up the cut out pattern for the uniform, so Ruck could easily see what to do and how to do it. He made wood cutouts for the parts, so Ruck could trace the outlines, then gave Ruck a pair of shears and a bolt of cloth.
+
+“Take your time at first. Get used to the feel of the shears as they cut the cloth. Don't rush. The more you do, the more you'll be able to do.” Ren advised Ruck and let him get to work. Ren had cut out and sewn 2 uniforms before Ruck had finished cutting out one set of uniform parts. Ren checked Ruck's work and grinned at how straight the cuts were, and he didn't have to fix anything at all.
+
+“Nice job!” Ren said and pat Ruck on the back. “Keep going! We've got a lot of work to do tonight!”
+
+Ruck gave Ren the 'thumbs up' gesture and Ren sewed up the pieces into another uniform. They kept that pace all night. Ren did another 150 uniforms, but for every 2 Ren did, Ruck had cut out one and Ren sewed it up. That was an extra 75 uniforms Ren had to sew, making the total 225 for the night, and a grand total of 375. Ren sat down on the bed, a little tired. He'd gained another 3 points each for Dexterity and Agility, leveled Stitching up to Level 9, and even gained 2 points in Endurance.
+
+“Whew... that was a lot!” Ren said and pat Ruck again. “You did a great job, Ruck. Thank you.”
+
+Ruck gave a 'thumbs up' gesture and Ren stored all the uniforms into inventory.
+
+“I've got to get back to the Garrison. Want me to take you back to your cabinet?”
+
+Ruck shook back and forth, clearly indicating 'no'. He pointed to himself and then at the bolts of cloth. Ren widened his eyes.
+
+“You want to keep going?” Ren asked, surprised. Ruck gave the 'thumbs up' gesture again and Ren grinned.
+
+“That'll be a huge help, Ruck!” Ren said, picked Ruck up and gave him a hug. It was a little awkward because of all the legs, and Ruck hugged him back. “We might even be finished by tomorrow night!” Ren put Ruck down and let him get to work. “See you tonight.”
+
+Ruck waved and Ren went to the kitchen to eat breakfast. He got some food for Princess and fed her, too. After a quick sprint to the Garrison, Ren got a popup.
+
+Stat Change!
+
+Running Level 3 (Intermediate 0%)
+
+Ren did another day's training, doing all of the tasks assigned to the squad easily. Ren was almost at the point that he started to think that the dwarves could learn more from him than he could from them. He slept during supper and then when it got dark, he ran back to House Neram to continue working. When Ren entered the main room of the house however, he was pounced upon by two very afraid women. He caught them with one in each of his arms, and they grabbed him in similar bone crushing hugs. Ren was almost overwhelmed by the sheer amount of flesh being pressed against him, and feeling it through their thin clothing. Both women were also talking at the same time, nearly in hysterics, one in each of his ears. Ren languished for a moment, in both agony and pleasure, then finally got a word in.
+
+“Ladies! Please!” Ren pleaded. “My delicate ears can only take so much!”
+
+Narhilda and her daughter Nathalia quieted down, with mutters of apology. Ren rubbed their backs in an attempt to calm them down.
+
+“I'm sorry for yelling.” Ren said in apology. “Now tell me what's gotten you all worked up.” Ren said, and they both started talking again. “Wait, wait! One at a time, please.” Ren looked at Narhilda. “My Lady, you first.”
+
+Narhilda sighed. “I went into my old bedroom this afternoon, to clean and maybe make up the bed... and I saw this thing crawling around and eating all of my husband's fabric!” Narhilda said, nearly screeching. “Then I screamed.”
+
+Nathalia nodded. “I heard Ma scream, and went to see what was going on... and I saw something, too!” She said and shuddered. “I screamed, and then we barricaded the door.”
+
+“It's been moving around and bumping things in there, ever since.” Narhilda said. “Oh, my poor heart! It's eating all of my husbands things!”
+
+Ren held the two women closely and they quieted down again. “I'm really sorry about this.” Ren said and they looked up at him. “Once again, this is all my fault.”
+
+Narhilda and Nathalia had surprise on their faces and Ren smiled sheepishly.
+
+“I left in a hurry this morning and didn't get a chance to tell you what was going on.” Ren said. “He's not eating your husband's things, My Lady. He's storing them for me.”
+
+Ren felt it as the two women he held, gasped together.
+
+“I haven't had the chance to introduce you.” Ren said, and gently let the two women go. “Let me just go and get him.” Ren walked down the hallway and saw the pile of furniture and things in front of the door. He smiled and stored them all, rather than trying to move them back to where they came from. He opened the door and saw Ruck was still working.
+
+“Hi, Ruck.” Ren said and walked over to him. “Interesting day, huh?”
+
+Ruck shook up and down, clearly nodding.
+
+“Sorry about that.” Ren said and saw Ruck was just finishing up another pattern. He waited until the pattern was done and Ruck stored the pieces. “I want you to come and meet the people we're staying with.”
+
+Ruck gave the 'okay' gesture and Ren told him to climb on. Ruck did so and Ren went back out to the main room and to the waiting women.
+
+“Aaahh!” They screamed.
+
+“It's attached itself to you!” Nathalia said and started throwing things at Ren. He blocked them easily and shouted for her to stop.
+
+“It's okay!” Ren said, holding his hands up in a surrender gesture. “Nathalia...” He said, then turned to her mother. “Narhilda...”
+
+Narhilda caught her breath. He knows my first name!
+
+“I'd like you both to meet Ruck. He's my friend, and he's been helping me.” Ren stepped over to where the two women stood. “You don't have to be afraid. He's my backpack, and he carries a lot of my stuff for me.”
+
+“H-h-how is this possible?” Narhilda said. “I saw it walking around!”
+
+Ren nodded. “It's one of my special class skills. Once I reached Level 5 not too long ago, I could create a familiar.”
+
+“You're only level 5!?!” They said together, astonished. They also had similar thoughts. All the things he can do, and he's only Level 5. What's he going to be like in the future?
+
+“I know.” Ren said and laughed. “I have a long way to go, and Ruck is helping me get there.”
+
+Ruck waved to them and they jumped a little.
+
+“It really is okay! He won't hurt you.” Ren said. “Ruck, 2 sunflowers, please.” Ren whispered.
+
+Ruck pulled out 2 giant sunflowers, one in each hand. The flowers were nearly as tall as Nathalia and her mother, and the tops were as big as their heads.
+
+“An introductory gift, from Ruck to you.” Ren said, and Nathalia gingerly stepped close to take one.
+
+“I've never seen a sunflower so big!” She said and took a big sniff. “I can almost smell the sunlight!”
+
+Narhilda came over as well and took the other one. She put it to her face and sniffed, then her eyes widened. “It really does smell like that!” She looked at Ruck. “Thank you.” Ruck waved to her and she smiled.
+
+“When I made him, instead of giving him 2 weak little cloth legs like he was supposed to have, I had the bright idea of designing him like a bug, with 6 legs instead. He became a lot more stable that way... and I wanted to make him strong.” Ren explained, and reached out to put a hand on each woman's shoulder, and squeezed slightly. “I'm really sorry he unintentionally scared you.”
+
+Ruck reached out himself and pat each woman on the head twice, and they started to laugh.
+
+“Well, I guess we did over-react a little bit.” Narhilda said.
+
+“Over-react? We ran around like panicked little girls!” Nathalia said and laughed.
+
+“I know.” Ren said and laughed. “I can feel the bruises already.”
+
+“Aww!” Nathalia said and rubbed Ren's side where she'd grabbed him earlier. “Did we really hurt you?”
+
+Ren shook his head and smiled. “The both of you give really good hugs, though.”
+
+Nathalia poked Ren in the side. “Don't tease us like that.” She said and smiled.
+
+“Sorry.” He said and laughed.
+
+“Okay, you two... break it up.” Her mother said. “Or I'm going to start planning the wedding.”
+
+Ren and Nathalia looked at her with shocked faces, and Narhilda laughed. “I'm going to remember that look for a while!” She said and walked out of the main room, then turned around to look at them. “Don't forget to put the furniture back where it's supposed to go, Ren. Goodnight.”
+
+“Goodnight, My Lady.”
+
+“Night, Ma.”
+
+Narhilda waved and Ruck waved back. She shook her head and muttered. “That's going to take some getting used to.” Then walked down the hallway to her bedroom.
+
+Ren turned to Nathalia. “There's still a lot I don't know about the Houses. About how they're set up, or what they control, or-”
+
+Nathalia laughed. “I get it. You need my help again.”
+
+Ren nodded and she smiled. “Just like old times?”
+
+“Old times was only a week ago!” Ren laughed. “Thanks to Ruck, I've got a lot of things to sew, and you can keep me company if you want.” He said, then waggled his eyebrows up and down. “ 'Come into my parlour', said the spider to the fly.”
+
+Nathalia laughed. “I'm already caught up in the web, I might as well let you drain me of information.”
+
+Ren laughed and Nathalia told him where to put the furniture he'd stored into inventory, then they entered her mother's old bedroom. Ruck climbed down and put out the cut pieces for 200 uniforms.
+
+“Ruck! You're amazing!” Ren said. “We only need another 425 to complete the order!”
+
+Ruck gave the 'okay' gesture and started cutting up more fabric for sewing. Nathalia sat on the bed and Ren started sewing up the pieces. Now that he wasn't cutting them out himself, making uniforms went a lot faster. Ren had averaged about 5 minutes per uniform, cutting them out and sewing. He was down to just over 3 minutes with just having to sew the pieces together.
+
+Nathalia marveled at how fast Ren was going, then started to fill Ren in on the Houses and how they fit together. About how they started out as just family names, then grew into almost corporations, with mergers, contracts, and even hostile takeovers. Ren listened to it all and drank it in. He followed the details that Nathalia was giving him, and traced them back to the members on the ship. Out of all of them, there were only 3 major House representatives on the ship. The captain, Gausen the Ambassador, and the engineer, Hevaz. Ren kept working and thought about it.
+
+“Where does Tegwen fit in there?”
+
+“Tegwen? Why are you mentioning him?” Nathalia asked.
+
+“He's the only one that had a major beef with me on the ship. Over you, I might add.” Ren said and smiled.
+
+Nathalia blushed a little. “I had no idea he even thought of me that way.” She said. “I don't think we even exchanged 3 words in the 6 months that I've been on the ship.”
+
+Ren widened his eyes and glanced at her. “That doesn't make sense.” He said and looked back at his sewing. “I could understand his infatuation with you, if you'd spent some time with him...” Ren pondered and kept sewing, almost without paying attention. “Was he just after your great looks, or is there something else I'm missing?”
+
+Ren was so busy wondering about the problem, that he didn't notice the deep blush that had blossomed on Nathalia's face as he spoke. She took several deep breaths and calmed down. There's a lot that you're missing, Ren. You don't even realize that you've given me two very high class compliments, without even thinking about it. Nathalia thought as Ren kept working.
+
+“Is he a Prince?” Ren asked after a few minutes of silence. Nathalia had lost her blush by then, and nodded when Ren glanced at her. “What House is he in?”
+
+“House Faldihr. They're a major trading partner.”
+
+Ren smiled. “I think... I think I just figured it out.”
+
+“Figured what out?” Nathalia asked.
+
+“The head of the House is his father, Thanyur Faldihr.”
+
+Nathalia nodded. “And?”
+
+Ren grinned. “Remember my fine? My outrageously high 100 gold fine?”
+
+Nathalia nodded.
+
+“It was approved by Thanyur.” Ren kept working as Nathalia sat there in shock.
+
+“No, that can't be right.” Nathalia said a minute later. “It can't be...”
+
+“Why not?” Ren asked as he finished another uniform and looked at Nathalia, and saw the tears she had in her eyes. Ren dropped the uniform, sat on the bed, and took her into a hug. “No! It's not your fault, Nathalia!” He said and hugged her tightly. “It's not your fault.” Ren said and let her out of the hug to wipe her eyes with a scrap piece of cloth. “The issue with you was solved after the duel.” He said and took her hand. “It's my fault! I insulted his repair work right after that, remember?”
+
+Nathalia's eyes widened, and Ren nodded.
+
+“He must have been really angry that I said his work was so poor...” Ren said. “...but he wouldn't challenge me again; not right after I'd finished the duel so quickly.” He smiled. “He must have had his father arrange the higher fine, then when that didn't get me sent to the mines, they had me drafted.”
+
+Nathalia shook her head. “To go through so much...” She said and squeezed Ren's hand. “I'm so sorry, Ren.”
+
+Ren smiled. “I'm going to do the best that I can with what I've been dealt.” He said. “For now, that means I'll be living with 2 women and sewing my fingers off.”
+
+Nathalia snorted a laugh. “I can't even offer to help.” She said. “I never could get the hang of it.”
+
+“That's okay. You've given me as much help as you could.” Ren said and bent over the hand he still held, giving her the same gesture of Honor he gave her mother, and Nathalia caught her breath.
+
+“It's getting late, though. You better head to bed.” Ren said and let her hand go. “I've got a lot more uniforms to make before morning, and I've kept you up too long as it is.”
+
+Nathalia nodded and stood. Ren stood as well, and she gave him a nice gentle hug, unlike her usual bone crushing ones. “You really are a good man, Ren.” She said and left the bedroom.
+
+Ren finished 300 uniforms during the night, and got Stitching up to Level 1 (Advanced), and a few more points in Dexterity and Agility. Ruck kept cutting out pieces, and Ren set out enough bolts of cloth for him to cut out enough for the remaining 325 uniforms.
+
+“I have to head out, Ruck. Thanks a lot for your help! I couldn't have done all of these without you.” Ren said. “At this pace, we really will be done tomorrow night.”
+
+Ruck gave the 'thumbs up' gesture and Ren left the bedroom to get some breakfast. He ate, fed Princess, and started running as hard as he could to the Garrison.
+
+“Wheee!” Teepo said from his perch in Ren's hood. He'd stayed there the whole night while Ren had worked.
+
+“Just another wonderful day in the game!” Ren said and grinned.

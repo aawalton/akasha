@@ -1,0 +1,315 @@
+---
+id: a061108e-67e0-5adf-b223-11f838a04e4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 486 - Fixing Mistakes"
+slug: 0486-chapter-486-fixing-mistakes
+partOf: mythrans-master-of-all-continued-completed
+position: 486
+ownLength: 3677
+unit: words
+publishedAt: 2018-01-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187650/chapter-486-fixing-mistakes"
+royalRoadId: "187650"
+---
+
+“Yee-haw!” Ren said as the entire group were magically pushed along the tunnel.
+
+“RENNNNNN!” Elerlyth yelled and flailed around.
+
+Ren, Teepo, and Artemis laughed, while Princess brayed in amusement. The group shot out the open end of the tunnel a moment later.
+
+“NOOO!” Elerlyth screamed as she was flung across the small cavern towards the wall, then Etheria was in front of her and caught her easily. “Oh, my god!” She said and gripped her mount tightly. “REN! WHAT THE HELL WAS THAT?!?”
+
+“What do you mean?” Ren asked.
+
+“You just shot us out of a tunnel like cannonballs!”
+
+“Yeah!” Ren laughed. “Wasn't it fun?”
+
+“FUN?!?” Elerlyth sat up on Etheria's saddle and glared at Ren. “I almost died!” She said and pointed dramatically at the wall next to her.
+
+“What? Why?” Ren looked at her, and she felt that he was completely puzzled by her reaction.
+
+“If Etheria hadn't saved me, I would have hit the cavern wall!”
+
+Ren frowned for a moment. “Hold on.” He said. “Did you forget that you had Permanent Air Walk?”
+
+“Wh-what?”
+
+“You can stop your movement at any time.” Ren said. “Running, falling, jumping, being flung through the air... it all means nothing except having fun.” He said and motioned around at the others in the group. “We all came to a stop just outside the tunnel when the ride was over.”
+
+Elerlyth looked at them, and realized that she was the only one that had travelled across the small cavern to the other side, and that had included her mount before it came over to save her.
+
+“I'm sorry.” Ren said. “I'll remind you if this happens again.”
+
+Elerlyth sighed as her anger at him faded away. She had thought that he didn't care if she got hurt from his stunt, and it was actually just the opposite. He believed that she could save herself whenever she wanted, and didn't try to interfere with her fun.
+
+“No, it's me who should be sorry.” Elerlyth said. “I misunderstood your intentions.”
+
+Ren felt her feelings and went over to her. “Elerlyth, I honestly thought you didn't need to be saved.” He said. “If you had been hurt, or even died, I...” He shook his head and pat Etheria's neck. “Thanks for looking after her in my negligence.”
+
+The Phantom Steed neighed and nodded.
+
+“Like I said, I'll try and give you some warning if something like that happens again.” Ren said. “In fact, maybe I'll just make sure it doesn't.”
+
+“Wh-what?”
+
+Ren dug into his Dire Wolf Hooded Cloak and took out his pet tarantula, then held it up to his mouth. “I apologize for disturbing you, My Queen...”
+
+*
+
+Lylyth, Queen of the Dark Elves, froze as Ren's disembodied voice spoke politely to her, and informed her that he was just attacked by Dark Elven Spider Riders.
+
+“Call them off! Quickly!” Lylyth said.
+
+The Dark Elf Lord's aide that had passed the order to attack the first time, ran from the room. Lylyth and the Dark Elf Lords listened as Ren told the Queen that he didn't kill either the Dark Elves or their spiders, and had healed the two spiders he had inadvertently hurt.
+
+He's so considerate. Lylyth thought, then waved her hand and formed a portal. “Go to him and apologize... profusely... for the mistake.” She said to the healer, who had become her new attendant.
+
+“Yes, My Queen.” The healer said and stepped through the portal without any questions or reservations.
+
+*
+
+Ren wasn't surprised when a portal appeared while he was talking, and then the healer stepped out of it. He felt how happy she was to see him again, and it made him smile as the portal disappeared.
+
+“My Queen wants me to apologize on her behalf for attacking you.” The healer said. Her long dark hair was tied up in a mass on the back of her head, and if Ren didn't know any better, it kind of looked like a spider with the strands sticking out like they were.
+
+“Even though it was me that set them off?” Ren asked as he tucked the spider back into the cloak, and the healer chuckled.
+
+“I was about to say that.” She said, and Ren chuckled, too. “Why did you enter in the enemy's lands?”
+
+“That's where I was at the time.” Ren said. “I've been fighting the ghoul hordes to clean them out, before they can turn around and go for the Human Kingdom.”
+
+“Really?” The healer asked. “How do you know they will do that?”
+
+“It's Adventurer's business.” Ren said. “Believe me, they were designed for it.”
+
+“Oh, I believe you.” The healer said and touched her heart. “But, there's something you should know.”
+
+“What's that?” Ren asked.
+
+“I spend my time with the Queen, and I've seen that over the last day or so, nearly everyone that's been infected by ghouls has turned.”
+
+Ren's emotions were suddenly cut off from her, and she gasped at their sudden absence. Elerlyth gasped as well.
+
+“Princess!” Ren said and she was instantly by his side. He climbed up onto the saddle and used the Staff of Earth to make a tunnel a mile and a half long straight up. Artemis floated up beside him, then he, Princess, and Artemis disappeared from sight.
+
+“Wh-what... what happened?” The healer asked.
+
+“R-Ren... he...” Elerlyth shook her head. “Before he cut off his emotions, for an instant... I thought that I... I felt... horror.”
+
+Ren rode Princess up through the tunnel. “Faster! Go faster, Princess!”
+
+Princess felt his desperation and ran as fast as she could. They made it to the last walled city that had been attacked, and stopped in the air just above the shanty town outside of it. He couldn't feel any undead in his Aura, and he relaxed.
+
+“To the healers! Full speed!” Ren said, and Princess ran as hard as she could. They were at the healers 3 minutes later and she landed in front of the ward. Ren hopped off and told Artemis to remain beside Princess, and ran inside. The healer and her assistant were chatting with a few of the latest healed High Elves and he went over to them.
+
+“Please forgive me, but I need your services immediately.” Ren said. “I've got several hundred High Elves that are infected and need to be looked after as quickly as possible, or they'll turn.”
+
+“O-of course.” The healer said and turned to her assistant. “Get enough herbs for that many patients.”
+
+“Right away!” The assistant said and ran from the ward.
+
+“How long have they been infected?” The healer asked.
+
+“Since before I brought you back here from the castle.” Ren said. “I had just cleared out that horde, and delivered the ghouls from that.” He sighed. “I just learned that nearly all of the newly infected will turn instead of die.”
+
+“Then let's go.” The healer said and she and Ren left the ward. He took out the normal cart that now had a top on it, and opened it up for them to get inside. He made a nice soft bench seat for them and attached it to the back of the cart, and added hand holds for them. The assistant came back with the proper amount of herbs, and he helped the healer and the assistant climb into the cart.
+
+“Hold on.” Ren said and closed the cart, then climbed up onto Princess' saddle. “Easy at first, then pour it on.” He said, and Princess trotted up into the sky and did as he said. It took a few extra minutes to get back to the High Elven city because they didn't want to hurt the healer or her assistant, and they landed in front of the shanty town.
+
+Ren told Artemis to stay beside Princess and opened the cart, then helped the two women climb out. He ran around until he found the female High Elf that he had talked to the last time he had been there. When he told her about the new infection rate, she told him they had disposed of 2 dozen High Elves already. Ren closed his eyes and sighed, and apologized for not bringing the healers sooner. The female High Elf put a hand on his shoulder, and he opened his eyes to look at her.
+
+“You've gone above and beyond anything that anyone else has ever done for us.” The female High Elf said. “That includes the Unnamed Princess Allynna Arthion.”
+
+“I didn't hear the elfling qualifier there.” Ren said, and she smiled.
+
+“None of us here have had elfling servants, or even access to elfling servants.” She said. “Not treating you like a servant isn't that difficult.”
+
+Ren nodded slightly, and saw the healers were already spreading out and giving the High Elves the initial treatment. “I wish I could heal the ghoul-infected instantly, then I wouldn't have to worry about this anymore.”
+
+Notice!
+
+The One Wish Ring has been activated.
+
+“What? Oh, sh-AHHHHHHH!” Ren yelled as he was covered in a pitch black glow. The female High Elf stepped back from the menacing sight, and Ren dropped to his knees from the pain. The Ghoul Kissed mark on the back of the spider image on his right hand glowed, and he was surprised as he watched the spider image shoot out webbing. He physically felt the webs as they flowed up his arm, with an accompanying searing pain. It went across his shoulders and down the other arm, and the web stopped there.
+
+Ren felt a sharp pain on the back of his left hand as another spider image bubbled up from inside and appeared on the end of the web. Unlike the one on his right hand, it didn't have a Ghoul Kissed mark on it's back. The pain slowly faded, as did the black glow, and Ren blinked his eyes for a moment.
+
+Notice!
+
+Your wish has been granted.
+
+Ren looked down at the One Wish Ring on his Hand of Glory, and the ring faded to black. “Well, damn.” He said, and the ring dissolved into dust and disappeared.
+
+“Wh-what was that?” The female High Elf asked.
+
+“Hopefully not a mistake.” Ren said. He stood up and didn't feel any different, despite his belief that he was definitely different somehow.
+
+“How will you know if it is or not?” The female High Elf asked.
+
+“There's an easy way to find out.” Ren said and held his hand out. “Take my hand.”
+
+“B-but...” The female High Elf looked at his hand. “You... you've been marked by the Dark Elf Queen.”
+
+“I've been that way for a while.” Ren said and wiggled his fingers. “You've accepted my help before.”
+
+“You weren't encompassed by a black glow before.”
+
+“It's gone now.” Ren said.
+
+“No, it isn't.” She said and pointed at his face.
+
+Ren took out the All-Seeing Mirror and looked at his reflection, and he saw the black glow was around his eyes. “I bet that looks neat with my Heat Sense Aura on.” He said and activated it. The glow flickered between red and black as the two effects intermingled. “Yep, that's pretty neat.”
+
+“You are a strange man.” The female High Elf said, and Ren chuckled.
+
+“At least it didn't make one eye solid black.” Ren said. “That would look weird, and probably a little scary.” He smiled. “Of course, with my Controlled Berserk Rage active, my eyes turn red; so, with that and the black glow, I guess that would be scary, too.”
+
+The female High Elf shook her head. “You Adventurers are truly odd.”
+
+“I think it's just me.” Ren said and deactivated his Heat Sense Aura to stop the red glow and stored the All-Seeing Mirror. He turned his hand palm up, to make it a more appealing offer. “I won't take your hand without your permission.”
+
+“So, it's my choice?”
+
+“It's always your choice.” Ren said. “I could just dart forward and touch your forehead or something to heal you; but, I know it works much better when people want what you offer.”
+
+The female High Elf looked at his smiling face and then at his hand. “I hope nothing happens.”
+
+“Me, too.” Ren said. “Shall we find out together?”
+
+The female High Elf stepped close and put her hand on top of his, and she caught her breath. She felt better instantly, felt refreshed with no more aches and pains, and then she felt a slight burning sensation above her heart for a second.
+
+Notice!
+
+You have become a new vassal in Ren the First's domain.
+
+“Wh-what...” The female High Elf took her hand back and turned away from Ren, and opened her top up enough to look at her chest to see that a small skull had formed above her heart.
+
+“You actually were infected.” Ren sighed. “Welcome to my domain, M'lady.”
+
+“B-but...”
+
+“I'll have a place built for you tomorrow.” Ren said. “I don't require my vassals to live on my lands; or even near me, for that matter.” He said. “But, you are my responsibility now, and I'll take care of you.”
+
+The female High Elf turned back to look at him in surprise, and Ren took three steps up into the air and quickly tucked her top back up into place to cover the Ghoul Kissed mark up. Her heart beat fast at the chivalrous act, and Ren smiled at her.
+
+“Please excuse me while I see who else wants to be healed instantly.” Ren said.
+
+“M-m-my L-lord.” The female High Elf said and watched as Ren walked over to the closest High Elf and asked them if they wanted to be healed instantly, and warned him about what it might mean if he was infected. The High Elf reached out and took the offered hand without hesitation.
+
+By the time Ren had approached the tenth High Elf, the rest of them had stood up and waited to take his hand. He greeted them all and shook their hands, and there was only two of them that weren't actually infected; which meant that they weren't Ghoul Kissed and didn't convert to being his vassals. He felt their disappointment and pulled the two of them aside.
+
+“You might not be members of my domain; but, that doesn't exclude you from moving to the city I'm going to build.” Ren said. “There's no restrictions about who can live there.”
+
+“Wait, you... you mean that...”
+
+“Come with everyone, and bring your families.” Ren said and looked at everyone. “You all can bring as many of your family as you want.”
+
+“How can you say that?” One of the others asked. “If I brought everyone in my family, there's over 30 of us, not including cousins.”
+
+“Immediate family, then.” Ren said, and several of the High Elves laughed. “Once I get everything built, then you can decide if you want to invite others to come as well.”
+
+The female High Elf came over to Ren and bowed to him.
+
+“Please, don't do that.” Ren said as he dismissed the Honor popup. “It's not necessary, especially with my Honor maxed.”
+
+The High Elves exchanged glances, then looked back at him.
+
+“You don't want us to Honor you?” One of them asked.
+
+“Not right now.” Ren said.
+
+“But... you just healed us...” Another said.
+
+“...and put us out of a job.” The healer said, and her assistant laughed.
+
+“I'm sorry.” Ren said to her, then turned back to the female High Elf. “You were about to say something?”
+
+“Yes, My Lord.” She said. “Did Yllana ask you if you needed our help in building the city?”
+
+“Ah... no.” Ren said, and remembered why she hadn't told him. She had been too distracted by the revelations about her longtime friend Lord Tathalyn. “Thank you for the offer; but, I don't need your help.”
+
+“What about with the layout of the foundation for the outer wall?” A male High Elf asked, and Ren remembered his name was Carcan. “Surely we can help with that at least.”
+
+Ren felt his enthusiasm about helping. “I really do appreciate the offer, Carcan.” He said. “When I say your help isn't necessary, I'm not saying your help or experience is lacking, I'm saying it's not needed.” He smiled. “Now, once it's built, I'm definitely going to need good people to take care of it and to maintain the place.”
+
+Carcan smiled. “Then I would be happy to help.”
+
+“You'll need a staff for a job this big.” Ren said. “I'll leave it in your hands to find like-minded people to have working with you.”
+
+Carcan nodded. “I'll start looking right away.”
+
+Ren turned to the High Elf. “M'lady, it seems to be a failing of mine; but, once again I can't invite a beautiful woman to dinner to discover your name in a proper setting.”
+
+The female High Elf blushed slightly, and she nodded. “My name is Tanelia Miarora, My Lord.”
+
+“Thank you, Lady Miarora.” Ren said. “I've seen that you've been the one in charge here in this town.”
+
+“Well, someone had to be in charge.” Tanelia said and smiled. “Otherwise, we would have had houses and streets all over the place, not to mention disputes over land placing and where to live.”
+
+“Then I want you to continue in that capacity.” Ren said. “If you want, you can choose a staff from people here, or wait until you enter the city and meet the other population and choose from them.”
+
+“Wait, you're just giving me the job? No election? No consensus? No Central Council approval?”
+
+“The city's going to be in no man's land, so they don't have jurisdiction.” Ren said, and smiled as the shock rippled through the High Elves. “Before you start questioning that, there will be 10 spires, with 5 in a counter circle to the normal 5 for the Central Council.”
+
+A hush fell across the crowd.
+
+“Start your preparations and get packing for the big move.” Ren said into the silence. “I better get the healer and her assistant back home, before the High Elves there declare the ward a Sanctuary or something.”
+
+No one said anything as Ren turned around and led the healer and her assistant over to Princess, and helped them get back into the cart. He climbed onto Princess' back and sat on the saddle, waved to Lady Miarora, then they rode up into the air and then faded from sight in the distance.
+
+They arrived at the healer's ward back in their town and came in for a landing. Ren helped the healer and her assistant out of the cart, detached and stored it in Princess' saddle bag, and followed the healers inside.
+
+“Are you going to make the same offer to these people as well?” The healer's assistant asked.
+
+“I will, but I doubt they'll accept.” Ren said. “Even knowing they aren't welcome back to their own lands, they wont accept being a vassal to an elfling.”
+
+“Your opinion may change when you go upstairs.” The healer said.
+
+“Why?”
+
+“You'll see.” She said. “I'll get the patient's attention.”
+
+“That won't be necessary.” Ren said, and she turned to see that all the High Elves were looking right at Ren. “I forgot I still have all my Auras active.”
+
+“Then leave them active and make your sales pitch.” The healer said. “It can't hurt.”
+
+Ren smiled at her and looked at all the High Elves, and he explained that if they tried to return to their homes to live, the High Elves would kill them. Most of them didn't believe him, and he held his hand up and pointed to the skull on the back of it.
+
+“If you have this mark, they do not want you mixed with the normal population.” Ren said. “I will be building a city in the no man's land between the Human and High Elven Kingdoms for you to live in.”
+
+“Why?” One of them asked.
+
+“Because I don't have the room to take you back to my county in the Human Kingdom.” Ren said.
+
+“Wait, what?”
+
+“I provide a safe place for those infected, because I claimed the Ghoul Kissed mark as my own.”
+
+“He really is crazy.” Another of the High Elves said.
+
+“I can heal you instantly now; but...” Ren started, then explained about becoming a vassal in his domain. He had been right and every one of the High Elves chose not to accept his offer because the healers had them almost cured. He told them they still had to move to the new city when it was built, and they just shrugged.
+
+“Now go upstairs and give them the same speech.” The healer said and shooed him away with her hands. “Go, go!”
+
+“All right.” Ren chuckled and left the ward, then went up the stairs and into the door of the holding area. He stopped in the doorway when he saw what was inside. “Holy crap.”
+
+“Hello, M'lord!” Kalyn and Gaelira said together and waved. They were the two elflings he had met the last time he was in the ward. He couldn't wave back because he was too surprised by what filled the ward.
+
+Nearly a thousand elflings were being tended to, even though the healers had told him that elflings were the first to die when infected and almost no one converted.
+
+“Ha.” Ren said and looked around at them all. “Ha hahaha!”
+
+“What's so funny, M'lord?” Kalyn asked as she came over to him.
+
+“I think this is the first time that interference from other Adventurers actually turned out better!” Ren said happily and kissed her cheek. She gasped as she was healed instantly, and she felt a slight burning sensation on her chest and she saw something she had never seen before. A popup.
+
+Notice!
+
+You have become a new vassal in Ren the First's domain.
+
+Kalyn's face flushed red from both the kiss and the popup. “Wh-what...”
+
+Ren dismissed the popup he had received for claiming a new vassal. “Oops.”

@@ -1,0 +1,329 @@
+---
+id: 14259e89-1dd5-5436-87b2-abc8f9181d51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 257 - A Good Distraction"
+slug: 0246-chapter-257-a-good-distraction
+partOf: mythrans-master-of-all-continued-completed
+position: 246
+ownLength: 3245
+unit: words
+publishedAt: 2017-05-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137375/chapter-257-a-good-distraction"
+royalRoadId: "137375"
+---
+
+“That was about 2 weeks or so of work that they compressed into 10 minutes.” Ren said and chuckled as the show ended. “They burned through so much footage!”
+
+“It's long and nothing is really happening during that footage, so it's okay.” Elise said. “If it makes you feel any better, I watched it all.”
+
+“You watched all of it?” Ren asked, surprised. “I figured you'd do what they did, and skipped to the important parts.”
+
+“Who do you think pointed the important parts out to them?”
+
+“Wow.” Ren said. “You're really dedicated to your work.”
+
+“Yes, it's my work that I'm dedicated to.” Elise rolled her eyes, and Barbara chuckled.
+
+“What?” Ren asked her.
+
+“Nothing.” Barbara said. “Let me get that plate out of your way.”
+
+“Thanks.” Ren said automatically, even though the plate was on Elise's lap. Barbara took it and piled it on top of her own, and looked at Denise.
+
+“Give me a hand, will you? I've got a surprise for you-know-who.”
+
+Denise chuckled and stood up. “You do realize that he can hear you, right?”
+
+“He didn't know it was for him until you said so.” Barbara grinned, and they left the room together.
+
+“Now I know they are deliberately leaving us alone.” Elise said, and looked at Ren. He was still tucked under her arm, and he still had his arm wrapped around her back.
+
+“Hold on.” Ren said and looked at her. “The plate was on your lap, and Barbara said she wanted to get it out of my way.” He said, and Elise took his free hand. “What did she mean... oh.”
+
+Ren stopped talking as Elise slid his hand up along the inside of her thigh. She was glad she'd worn a loose-fitting skirt, because Ren didn't need any more of an invitation than that. He caressed the skin to the top of her leg, and Elise held her breath as he stopped just before his fingers reached her underwear.
+
+“We've got an hour and a half before I have to log back into the game.” Ren said. “But there's no way Barbara and Denise will stay in the kitchen that long.”
+
+“I'm fine with just a little playing.” Elise breathed. “I know I'm going to regret that we can't go further later, but right now...” She pushed on his elbow and his hand moved that last little bit and she caught her breath. “...I want to feel your hands on me.”
+
+Ren felt around, and discovered that Elise wasn't wearing anything. He realized that she must have taken them off before she arrived, and he smiled as he explored her. She kissed him as he played with her, and her breathing sped up. He was a little surprised that she didn't need a lot more time to get worked up; but, he wasn't going to complain about it. It only took a couple of minutes, and Elise stopped breathing as he brought her. Since they were still kissing, she held onto the sides of his head and moaned into his mouth. She broke the kiss and leaned back as Ren pulled his hand out from inside her skirt. He looked at it and saw there wasn't much on his fingers, then licked them clean.
+
+“That was a quiet one.” Ren said, grabbed a few tissues and slid his hand back under her skirt, then wiped her off.
+
+“I'm trying to restrain myself.” Elise smiled, and was happy he was so considerate. “What I want to do is roll you over on the bed and have my way with you.”
+
+“That sounds... well, really fun.” Ren grinned and tossed the used tissues into the trash, then let the grin fade. “We can't, though.”
+
+“I know.” Elise sighed. “Time limit.”
+
+“Actually...” Ren unbuttoned his pajama top. “...it's because of this.”
+
+Elise gasped as he opened the top and showed her the blossoming bruise that covered his chest and abdomen.
+
+“Oh, my god!” She exclaimed. “What happened?”
+
+Ren told her about the incident with the physical therapist that morning, how he fell on the exercise ball, and how Denise had handled the whole situation.
+
+“Yes, she's right.” Elise said. “He's lucky it wasn't her fist.” She clenched her fist and almost growled. “If I had been there, it would have been a fist!”
+
+“It's okay.” Ren smiled and put a hand on her fist. “Relax. I'm not having therapy for a while. Doctor's orders.”
+
+Elise sighed and opened her hand, and Ren intertwined his fingers with hers. She eased him back slightly, and slid down on the bed. She laid a gentle kiss on one of his chest muscles, and he winced a little.
+
+“Oh, my poor Ren.” Elise said, and gently kissed his other chest muscle. She was tempted to keep kissing her way down, then gave in to that temptation. Her kisses were as light as butterflies as she worked her way down his abdomen. When her lips reached the top of his pajama pants and her chin touched the bulge contained there, Ren spoke.
+
+“I think now is a good time to start looking for a house.” Ren said, and she looked up at him.
+
+“You haven't done that already?” Elise asked. “I thought you would have several places to look at by now.”
+
+Ren chuckled. “I haven't had the time.”
+
+“You're using that excuse a lot.” Elise said, and smiled as she sat up straight. He's distracting me again.
+
+“Is it still an excuse if it's true?” He asked her.
+
+“Yes.” She responded, and Ren laughed.
+
+“Okay, fine! No more procrastinating for me.” He said. “Grab the laptop.”
+
+Elise blinked her eyes at him. “What for?”
+
+“I've got a beautiful woman sitting right here beside me.” Ren said. “You're temptation galore.” He smiled. “I have to distract myself by looking at houses.”
+
+“You don't have to...”
+
+“Yes, I do.” Ren said. “I have to stop myself before I tear off your top, and plunge my face into your cleavage like I desperately want to.”
+
+Elise shivered a little, and he grinned as she glanced down at his bulge.
+
+“I know the feeling.” She said, ran a hand through his hair, and reached for the laptop. She laid it on her lap and brought up a trusted Realtor. “Okay, give me some specifics.”
+
+“I need a bedroom, obviously.” Ren said, and when she glanced at him, he wiggled his eyebrows. She chuckled, and looked back at the screen. “Anything else?”
+
+“A nice kitchen. One that people can move around and not have to worry about bumping into each other.” Ren thought about it. “A room I can do therapy in. It doesn't have to be a big room, though. Maybe convert a bedroom or den?”
+
+“It's a thought to keep in mind.” Elise said. “What about a separate room for VR things?”
+
+“That's a good idea.” Ren said. “Laying in the bed is fine; but if I sweat more than normal like I did today, the sheets have to be changed.”
+
+“What about a pool?” Elise asked.
+
+“A pool?”
+
+“I've been thinking about your therapy sessions, and I wondered why working in the water has never come up.”
+
+“Would that help?”
+
+“It should.” Elise said, and opened another search window. “It's especially good for people with weak joints, tendons, and ligaments.” She showed him a quick video, and Ren nodded.
+
+“That's a great idea.” Ren said. “I don't know if we can get a house in the city with a pool, though.”
+
+“If you have the right amount of money, anything can be bought in the city.” Elise said. “We can always add a pool, too.”
+
+Ren grinned and gave her a kiss. “A pool it is.” He said. “Now... I know I'm going to want to have someone stay over, and they're going to need their own space.”
+
+“You don't want them in yours?” Elise asked. She was a little surprised, because she knew that he meant her.
+
+“They'll be all over my space.” Ren said, and she grinned. “But, I don't know what it's like to sleep in the same bed with someone else for the whole night.” He said. “I also don't think automatically sharing everything is a good choice, either.”
+
+Elise opened her mouth to argue that she would love to share everything with him; but, then she thought about her life. She thought about everything she had accomplished before she met him and everything she had at her place, then nodded.
+
+“You're right.” Elise admitted.
+
+“Of course I'm right.” Ren said, and rubbed her back with his hand. “The last thing I want is for someone to give up their life to try and join mine, only to hate it later.”
+
+“You're worrying about something that might happen after something else happens.” Elise said, and Ren nodded.
+
+“Right. There's no point in chewing on something I haven't even bitten into yet.”
+
+“What else would you like in the house?” Elise asked, and tried to ignore his hand as it caressed her back, even though it felt so good.
+
+“My nurses are going to need rooms for their stuff as well.” Ren said and looked around the room they were in. “This place is getting more and more cluttered every day.”
+
+“I know.” Elise said, and her face flushed a little red. “I've got extra clothes and things stashed in the closet, too.”
+
+Ren chuckled. “You're spending more time here.” He said, stopped moving his hand, and slid his arm around her back. “It makes sense for you to have something here, just in case.”
+
+They looked at several property listings, and picked a few good prospects. Barbara and Denise came back into the room, and were surprised that Ren and Elise were still sitting on the bed, and weren't in the bathroom.
+
+“What are you two doing?” Barbara asked, with a covered plate in her hands.
+
+“Looking at potential houses for me.” Ren said. “I can't stay here for much longer, just like I couldn't stay at the hospital.”
+
+Barbara nodded and put the plate on the rollaway table. “Show me what you've picked so far.”
+
+They showed Barbara the ones they had marked, and she deleted one right away.
+
+“Only 2 bedrooms?” She shook her head. “It had a nice pool, but there wouldn't be room for everyone.”
+
+“We're in only one room here.” Ren said.
+
+“Yes, and look at the state of it.” Barbara said, and sighed. “Clutter everywhere.”
+
+Ren chuckled. “I just told Elise that.” He said, and she smiled. “I know we need a minimum of 4, but it had a big rec room.”
+
+Barbara shook her head. “You won't convert anything like that into a bedroom.” She said. “The permits alone would be costly, not to mention the raise in taxes for adding another bedroom.”
+
+“How do you know about stuff like that?” Ren asked.
+
+“My little sister sells houses on the side.” Barbara said.
+
+“Really?” Ren asked. “Any chance we can hire her to do all of this work for us?”
+
+“I don't see why not.” Barbara said. “What kind of things are you looking for?”
+
+Ren pointed at the screen and Barbara clicked on the next listing they'd marked.
+
+“Oh, my.” She said, when she saw what Ren wanted. It had 5 bedrooms, 6 and a half bathrooms, an exercise room, an in-ground pool, 2 living rooms, a sauna, a den, a guest house with 2 more bedrooms and bathrooms, a 3 car garage, and an enormous kitchen. The one thing it didn't have was a basement. It was the one thing Ren was absolutely adamant about. There was to be no basement.
+
+“You have got to be kidding me.” Barbara said, and Ren laughed.
+
+“Out of the dozens of listings we saw, this one had everything I could possibly need.”
+
+“You need a sauna, a pool and a guest house?!?”
+
+“I'm spending the money anyways, why bicker over the little things?”
+
+“Little things!”
+
+Elise chuckled. “It also includes a big back yard, in case Ren wants to add a track to walk on.”
+
+“But...”
+
+“Check the price, Barbara.” Ren said.
+
+Barbara looked at the listing, and frowned. “No way.” She said. “That's not possible.” She looked at Elise. “Is there something wrong with it?”
+
+“It's in foreclosure.” Elise said. “I had only marked it for fun, because it was way beyond what I thought he would need; but, once Ren started to tell me what he actually needed, it's becoming more than likely the best option.”
+
+“But... but it's on the other side of the city.” Barbara said. And far away from where I live. She thought.
+
+“Nothing's set in stone.” Ren said and put a hand on her arm. “The thing is, Elise is right.” He said, and nodded to Elise, who brought up a map of the city and the surrounding countryside. It already had the house locations marked on it.
+
+“The next listing is even farther out.” Elise said.
+
+Barbara sighed. “I guess I'll just have to put up with a long commute every day.”
+
+Ren shook his head. “No, you won't.”
+
+“Wh-what?” Barbara's eyes went wide. “Are... are you... fir-”
+
+“NO!” Ren exclaimed quickly. “If I get this property, I want you to live in the guest house.”
+
+“You WHAT?!?”
+
+“I haven't talked to anyone else about it; but, you're the only one that has someone else at home.” Ren said. “You leave them every night to take care of me.” He smiled. “If this place works out, you won't have to travel at all. You can just walk out the door and across the driveway, and you'll be at work.”
+
+Barbara looked like she had tears in her eyes. “Ren...”
+
+“Hey, I know this is a big decision.” Ren said. “But look at me. I'm not getting any younger.”
+
+Barbara laughed and wiped her eyes. “You're incorrigible.”
+
+“That's what they all say.” Ren said and looked at Elise. “What do you think? Is this the place?”
+
+“It's not as far of a commute for me.” Elise said. “I don't know about Stella or Denise, though.”
+
+“Me, either.” Ren said. “Denise? Where's your place?”
+
+Denise pointed to a high rise building near the downtown center. “Fortieth floor.”
+
+“No way!” Ren said, and looked where the temporary care facility was on the map. “You drive this every time you come here?”
+
+“Twice, every second day, like clockwork.” Denise said. “I spend more money on gas than I do on food.”
+
+“Why didn't you say anything?” Ren asked.
+
+“What could you do about it?” Denise asked, and chuckled. “Offer me another job that pays more money?”
+
+“I...” Ren sighed. “...can't do anything, I guess.”
+
+“This place is a lot closer than the hospital, so it hasn't been so bad the last few weeks.” Denise said. “But, if you're moving all the way out there...”
+
+“One of the rooms is yours.” Ren said. “Obviously.”
+
+“Wait... you want me to move in with you?” Denise asked, surprised.
+
+“Not like you think.” Ren said, and held a hand up to stop her response. “I was thinking more like you'd be a house guest on your days off, and you'd only have to commute back to your own place when you wanted to go home, rather than every second day.”
+
+“I... I'll think about it.” Denise said, kind of reserved.
+
+“We're jumping ahead here.” Elise said. “We don't even know if we can make an offer on the place yet.”
+
+“Can't we just pay the money and move in?” Ren asked, and the three women laughed.
+
+“If only it were that easy!” Barbara said. “Hold on, let me call my sister.” She said, and picked up the cell phone. After some quick banter, Barbara told her about the foreclosure house and that Ren wanted to make an offer on it. Barbara had to hold the cell phone away from her ear for a minute, while her sister screamed with joy.
+
+“She's going to get a huge commission, apparently.” Barbara said.
+
+Ren and Elise exchanged smiles, because they knew what getting a nice commission can do to someone. Barbara waited for the screaming to stop, then put the phone back to her ear.
+
+“Yes.” “No.” “If you can low-ball it, sure.” “Uh huh.” “Yes.” “Really?” “Okay.” “We'll wait for the call.” “Bye.”
+
+“She's on it right now.” Barbara said, and looked at Elise. “The foreclosure is at Ren's new bank.”
+
+“No way!” Elise took out her own cell phone. “Call your sister back!” She said to Barbara, and dialed a number quickly.
+
+*
+
+Janice always worked late nights, and tonight wasn't any different; until her phone rang.
+
+“Vice President of Accounts, Janice speaking.” She said when she picked up her office phone. I'm never going to get tired of hearing that. She thought, and grinned as she heard her friend's voice on the phone.
+
+“Hi, Janice.”
+
+“Elise! To what do I owe the pleasure?”
+
+“I've got another favor to ask.”
+
+“Really, now.” Janice said, with a slightly evil taint to her voice. “What can I do for you now?”
+
+Elise laughed, and gave her a rundown of the house, the foreclosure, and the listing.
+
+“You want me to broker the sale?”
+
+“Only if you want to make the bank a ton of money right away.” Elise said, and Janice grinned.
+
+“I've already brought them 2 multi-million dollar accounts. The least I can do is give them a repayment on a defaulted loan worth hundreds of thousands.”
+
+“That's my girl!” Elise said, and Janice laughed. “What do we need to do?”
+
+“Tomorrow's Saturday, so nothing official is going to happen until Monday.” Janice said. “Do you have a Realtor?”
+
+“Ren's nurse is on the phone with her right now.” Elise said. “Just a second.”
+
+The phone went quiet for a minute, and then Elise got back on with Barbara's sister's name and phone number.
+
+“This usually takes months to go through, you know.” Janice said. “But this is going to go much faster than that. You're lucky no one's actually lived in the house.”
+
+“What?”
+
+“It was part of a huge purchase, but the client bailed at the last minute and took off with a good chunk of the collateral.”
+
+“That's horrible.”
+
+“Yes, it is.” Janice said. “The president of the bank is going to fall in love with me, when I tell him that I'm getting a good amount of that back.”
+
+Elise laughed again. “I think your expectations are a little high. If he didn't fall in love with you over a few million dollars...”
+
+Janice laughed, too. “All right, I'll call the Realtor right now.”
+
+“Thanks, Janice.”
+
+“Hey, that's two you owe me now.”
+
+“I'm sure I'll be able to do something nice for you soon.” Elise said. “Bye, Janice.”
+
+“Bye, Elise.”
+
+Janice hung up the phone and grinned. She just keeps handing me money on a silver platter, and she thinks I'm the one doing her a favor! She thought and dialed the phone to call the Realtor. If I can convince her to come over tonight, we can file the paperwork right away and get this money ball rolling!
+
+*
+
+Elise hung up the phone and looked at Barbara. “Janice is calling her now.”
+
+“She's calling you now.” “Yes.” “Bye.”
+
+“Well, that's that.” Elise said and looked at Ren. “We'll know more on Monday.”
+
+“Or later tonight if my sister can't keep it to herself.” Barbara said, and they all laughed.

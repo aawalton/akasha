@@ -1,0 +1,243 @@
+---
+id: 966a26b4-9a91-5538-a9e3-a5e1113dba2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 147 - Setting Things Up"
+slug: 0132-chapter-147-setting-things-up
+partOf: mythrans-master-of-all-continued-completed
+position: 132
+ownLength: 3801
+unit: words
+publishedAt: 2017-01-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114093/chapter-147-setting-things-up"
+royalRoadId: "114093"
+---
+
+Ren was about to tell Princess to go when Teepo spoke.
+
+“Wait!” Teepo exclaimed. “Ruck's waving to us!”
+
+Ren turned and saw Ruck skittering towards the cart. “Hi, Ruck. You're finished already?”
+
+Ruck came to a stop by the cart and gave Ren a 'thumbs up' gesture.
+
+“I'm making a quick run out to the mines, then into town. Want to come along?”
+
+Ruck shook his body back and forth in a clear 'no' gesture.
+
+“Hop in. I'll take you back to the house.” Ren said, and Ruck climbed into the back of the cart. “Let's go.”
+
+Princess took off and a minute later stopped in front of the gate.
+
+“I'm just dropping off a passenger.” Ren said to Wohrum, who opened the gate and Ruck hopped out of the cart. “I'll make you a bigger cabinet when I get back.”
+
+Ruck gave the 'okay' gesture and Ren had Princess turn the cart around, then she took off running. After about 15 minutes, they arrived at the mines and Ren pretended to tie Princess and the cart to a post by the mine gate.
+
+“I'm just going in to see the foreman.” Ren said, and the guard opened the gate for him. He went inside and over to the foreman's office, and knocked. A different voice than he expected told him to come in. When he opened the door, the man behind the desk snarled.
+
+“You!” The fat dwarf from the Hole said. “You cost me everything!”
+
+“No, you cost you everything.” Ren chuckled. “I just happened to be there when it happened.”
+
+“Get the hell out of here before I have the guards shoot you!” He nearly shouted. “Here they will follow my orders without question!”
+
+“Okay.” Ren said and stepped back. “Tell your boss I was only going to spend a few hundred platinum anyways.” He shut the door and quickly ran around the office. It only took the fat dwarf a minute, but he got out from behind the desk and waddled to the door.
+
+He must have gotten new armor. Ren thought.
+
+When the fat dwarf opened the door, Ren clearly heard him sigh.
+
+“I don't know why I even tried to catch him.” He said. “Even if he was actually telling the truth.”
+
+The door shut and Ren ran over to where the huge pile of silt was. It was a lot smaller than it used to be, but Ren could clearly see a new pile replacing the silt that had been moved to House Neram. He snuck over behind the guard that stood there.
+
+“Sorry to keep you waiting.” Ren said, and the guard jumped.
+
+“AAAHH!” He shouted and turned around.
+
+“It must be lonely, standing out here day after day, with no one to guard.” Ren said. “At least you won't have that problem anymore.”
+
+The guard stared at him in surprise.
+
+“Yes, you're fired.” Ren said. “You can keep the money I paid you, though. Good luck finding work.” He walked by the guard and towards the road. “It seems House Lodur is getting rid of anyone that's dealt with me in the past.”
+
+The guard watched Ren walk all the way back to the mine gate.
+
+“It seems I can't do any business here after all.” Ren said to the guard at the gate. “The new foreman wants to have me shot.”
+
+The guard held the gate open, and Ren went to the cart and climbed in.
+
+“To the city!” Ren said, and Princess ran for all she was worth. Teepo chittered in delight the whole way. They made it there in about 12 minutes and Ren told her to go to the Minor House where the windows were made. He left her and the cart by the road, and went inside. After some tense negotiations and a nominal fee, Ren was allowed into the workroom to see the process of window making; under the vow to not reveal what he saw there to anyone else. Once he saw the process, however... he was less than impressed.
+
+“You... have got to be kidding me.” Ren said to the workman. “That's it? That's all there is to it?”
+
+The old workman looked at him like he was crazy. “Son, it takes years to perfect the technique of making glass.”
+
+“My apologies for seeming to make light of it.” Ren said, and bowed slightly to make amends. “I just meant I was surprised that all you needed was a fire hot enough to melt sand, turn it into liquid, then pour it into molds.” He smiled. “If it's not too much trouble, I'd like to learn the glass blowing part if you'll show me.”
+
+“The what?”
+
+Ren sighed. “I'll let you get back to your work. Thank you for your time.” He left the workroom and then left the building. I should have known it would be that simple. Ren thought as he climbed into the driver's seat of the cart. “Home, please.”
+
+Princess took her time leaving the city, then poured on the speed. They were home a few minutes later, Ren led her into the courtyard, and unhooked the cart.
+
+“Thank you for doing this.” Ren said and rubbed her face. “You've been so good to haul everything around.” He looked at her big horns and had a neat idea. “Princess? Do you mind if I touch your horns?”
+
+She blew a raspberry and Ren laughed.
+
+“Please? I just had a cool idea and I need to know their shape.”
+
+She took in a deep breath, and then let it out in a long huff.
+
+“Thank you.” Ren said, and slid his hands around the base of the right horn. She tilted her head to the side a bit to make it easier for him, and he smiled as he ran his hands around the long curve of bone and ended at the tip. Ren closed his eyes and memorized the shape and feel of it, then did the same movements with his hands to the other horn, and memorized the shape and feel of it as well.
+
+“Actually, now that I'm doing this... I might as well go all the way.” Ren said. He ran his hands along Princess' muzzle, over her forehead, over her ears, chin, and neck. Ren didn't notice that Princess had frozen stiff at his caresses, and he kept moving his hands down both of her front legs to the hooves. He moved to the side and hugged her around the chest and moved down along her back. He did the back legs to the hooves and closed his eyes again.
+
+“Yeah, that's got it.” Ren said, opened his eyes to look at Princess, then went to her head and scratched the sides of her chin. “Thanks for standing so still for me.” He said and smiled. “I'll have another nice gift for you soon, Princess!”
+
+Princess just stood there and stared at him, and Ren chuckled.
+
+“Okay, I think I've bothered you enough for today.” He said, walked out of the stable, and went up to his workshop. “First thing's first.” Ren said, and started up the forge. He put some gold and iron ore into the smelter and stirred it up. He walked over to Dorcot's workbench and saw that he was right. The crate he had left was already done, so Ren switched it out for one full of uncut diamonds. He emptied the drawer full of 1 gold coin diamonds, left 8 platinum coins on the workbench, then had to make another sack to hold the diamonds.
+
+“I really have to find a way to use these things.” Ren said, stored the two sacks, and went back to the smelter. “That looks good.” He said and opened the brooch plans he'd gotten from Ereka, and modified it to hold a diamond. Ren poured a little of the molten metal into his hand and went to the anvil. He folded the metal a few times and then let the system make it into a brooch. He put another dollop of molten metal on it and set the diamond he'd enchanted with the House Neram crest onto it.
+
+“Perfect.” Ren said, then made a dozen brooches, enchanted similar-sized diamonds with the House Neram crest, and set them into the metal. He stored them and refilled the forge with gold and iron ore until it was nearly full. He went over to the oven and took off the chute he'd made for the cement powder, placed it on the floor, and took out a stone brick. After enchanting the brick with a single Wind rune and 7 Fire runes, he activated it and heat up the center of the chute to a bright red color, nearly to the molten state. Ren used his chisel to cut the metal and made one long chute into two. He took the two halves to the anvil and used his Fire brick to heat the metal again, then re-bent it so the powder would go into sacks. He reattached the two chutes to the oven, so a sack could be filled from each, and it still covered the whole space coming out of the oven.
+
+“With that, I've doubled the production.” Ren said and unloaded all of the empty sacks that he'd used up. He nodded and went down through his secret passage to the bottom of the Keep and checked the next stage. It had sat for an extra day, but it was also twice the size of the first one he'd done. In total, he'd covered about 90 floors in cement so far. Ren removed the wooden mold in sections, just as he did for the first part, and stored them. He started digging around the next set of floors and let the dirt drop into the space he had just taken the mold from. Ren was tempted to pack it in tighter, but figured it's own weight would do that well enough. He moved tons of dirt from above to below as he moved along. When he came to the first corner, Teepo spoke up.
+
+“Ren, we're coming up on the breech in the wall where the spider cave is.” Teepo said.
+
+“How big is it?”
+
+“The hole is about 20 feet around.”
+
+“That's not too bad.” Ren said.
+
+“The cave opening on the other hand, is about 30 feet high and nearly 100 feet wide, and exposes a huge part of the Keep on that side.”
+
+“Oh.” Ren said and stopped digging. “That might be a problem.”
+
+Teepo chittered in laughter. “I'd say so.” He said. “Unless you can somehow build a wall before you build a wall.”
+
+“Actually, I can.” Ren chuckled. “I'll go back to the surface and make a wall 96 feet long and 28 feet high, with an angle at the top to lean against the Keep and the end closed off. Once it's in place, the cave and the Keep will be separated. We can clean out the Keep once I fix the hole in the stone wall.”
+
+“What about the outside wall?” Teepo asked.
+
+“I kind of have an idea about that.” Ren said and smiled. “I'll make a door in the end of it.”
+
+“For what?”
+
+“So we can go hunting in the cave.”
+
+“You really are crazy.” Teepo chittered in laughter.
+
+“I never said I wasn't when people accused me of it.” Ren chuckled and turned around to dig the other way. Once he got around the Keep to the other side of where Teepo said the cave was, he stopped and went back up to the surface. He stored his clothes and equipped them again, to clean both them and himself up. Ren went to the forge and checked the molten metal.
+
+“Yeah, that's good.” He said and poured some into the blank mold. After letting it set for a minute, he took it to the anvil and folded it a dozen times, reheated it every time and hammered it out. He stuck it back into the forge and opened his full plate mail plans, and altered them to the dimensions he'd made from measuring Princess. Ren took out the red-hot metal and hammered out a chest plate for her. With his Blacksmithing skills at the Advanced Level, it didn't take long to make the entire suit for her. He even made a back plate with a saddle built in so Princess wouldn't have to deal with straps and buckles digging into her anymore.
+
+Ren had saved the helm for last, as the system didn't have anything like her horns available. I'm going to have to make them completely by hand. He thought and smiled. Actually, I really can make them by hand! He hammered the metal out a dozen times, just like the other pieces, then heat it in the forge to the point where it was soft and malleable. Ren used his hands and formed the metal into the proper shape and ran his hands over the surface to absorb the heat from it evenly. When he was done, he held it up to examine it, and grinned at the popup he received.
+
+Bighorn Ram Helm (Unique)
+
+This helm was made by the hands of an artisan blacksmith, Ren the First. It has been so well crafted, and with such exquisite care, that hammer marks cannot be seen on it's surface.
+
+Can be worn by: Mount Only
+
+Durability: 1000/1000
+
+Ren enchanted it with a double glyph of Augment (8 runes total) to give the wearer Intelligence +8. He checked the helm again; it was now the 'Bighorn Ram Helm of Learning' and he stored it. He emptied the smelter of the remaining molten metal by pouring it into the big stone mold, then popped it out and tossed it into the pile of gold ore beside the forge. Ren filled the smelter with iron ore only and let that simmer for a while, then built a second forge next to the first, and another beside that one. Ren turned around and built one that was the same size as the three of them combined; but modified the design so that he could remove a single brick, and anything inside would pour out onto the floor.
+
+Ren checked the molten metal and stirred it, skimmed off some of the impurities, and made a smelting apparatus for both of the other same-sized forges. Ren didn't need one for the big forge, as that was going to be used for making glass only. All he needed was sand. Lots and lots of sand. Ren got the other 2 forges going and smelting iron ore, then used the metal in the first one to make 1 foot long by 1 inch wide steel rebar. When it was nearly empty, Ren refilled it and started using the molten metal from the other 2. Once he'd refilled those, he had nearly a thousand more bars made.
+
+“How's my time, Teepo?”
+
+“You've got about an hour before supper's ready.” Teepo said.
+
+“Thanks.” Ren said and let the metal simmer for a while. He went outside and dropped off most of the stone bricks he still had in inventory, then set about building the 28 foot tall, 96 foot long wall he needed. It took a while to get the frame built; but once that was done, it was easy to add the planks and fill it in. A door was added at the end, and then the angle part was built. He added braces and supports all along the wall because he knew they would be needed for protection against any spiders that might want to get back in, then added spots to secure it to the Keep. The last thing he did was cut out small spaces along the length of it so you could see what was coming.
+
+“Suppertime.” Teepo said.
+
+Perfect timing! Ren thought and reached out to store the wall, then stopped. I better wait, just in case it does the same thing to me as Dorcot's house. He turned and went down to the gate to see Broxor standing guard.
+
+“Good evening, sir.” Broxor said.
+
+“Good evening.” Ren said, then stopped beside the guard. “Is there any chance I could make an appointment with your sister? I'd like to learn some spells.”
+
+Broxor looked at Ren like he was crazy. “I'm sorry, sir.” He said. “My sister trained in magic for most of her life. Years of grueling work to learn everything she knows. I don't think she'd come all the way out here just to give you lessons.” Broxor's eyes widened as he realized what he'd said. “I meant no offense, sir.”
+
+“It didn't hurt to ask.” Ren said and smiled. “By the way, were you paid yet?”
+
+“No, sir.” Broxor said. “I assumed it wouldn't be until the end of the week.”
+
+“I'd usually pay for a bunch of weeks work right away, but we've hired someone to take care of everything. She's at the Main House. You can tell her to pay you early this week.” Ren started to walk away, then turned back. “The Barracks are done as well. I just have to get an armory ordered to store all the weapons and shields.”
+
+“That's great, sir.” Broxor said. “The tent is starting to smell.”
+
+Ren chuckled. “It wasn't intended to be used this long.” He waved at the guard and went inside the house. Ren went to the Sending Stone for the Main House and touched it. “Hi, Ereka, it's Ren. If you're there, a guard or two might pop by tomorrow to pick up their pay for this week. I know it's early, but pay it anyways. It's 10 gold a week for the guards.”
+
+“Yes, Ren. I'm still here. You caught me as I was about to leave.” Ereka said. “I'll pay the guards early this time, but it'll be a regular schedule from now on.”
+
+“Of course.” Ren said. “I wouldn't have it any other way... except I already paid Wohrum and Golir for 10 weeks, and they've worked almost 2 so far... so you don't have to pay them again until then.” Ren waited for a minute, and Ereka didn't respond. “Are you still there?” Ren asked. “If you are, I may have forgotten to tell you that these Sending Stones work better than normal ones.”
+
+“R-R-R-R-R-REN! YOU HAVE CONTINUOUS SENDING STONES!!!” Ereka shouted. Ren took his hand off the Sending Stone and leaned into the kitchen.
+
+“Sorry about that.” He said to Nathalia, who was laughing as she helped her mother Narhilda serve the plates of food.
+
+“I didn't tell her when I gave it to her, either.” Narhilda said, trying not to laugh herself. Ren went back to the sending stone and touched it.
+
+“Yes, they can keep going.” Ren said. “I've used them so often that I didn't even think about telling you they were different.”
+
+After a minute, Ereka responded. “I'm really glad I didn't find that out while someone else was here.” She said. “Otherwise this secret would be out.”
+
+“What secret?”
+
+“That you have these stones!” Ereka said, exasperated. “If people knew they could get them...”
+
+“How would they get them?” Ren asked, and Ereka didn't know what to say. “Exactly. Only a select few know they even exist right now.”
+
+“O-okay.” Ereka said. “I'll try to not use them if clients or residents are here.”
+
+“Why?” Ren chuckled. “If they see something here that they can't get anywhere...”
+
+“I... I see.”
+
+“By the way, your salary is 60 gold a week.” Ren said, then corrected himself. “Sorry, I meant 10 gold a day, with a day off if you want.”
+
+“But... but...”
+
+“You're already earning it.” Ren smiled. “By the way, can you find out if I can buy a weapon armory for the Barracks, or if I have to build one? Tomorrow that is, not right now. Thanks.” He said. “I have your brooch done and will drop it off in the morning. Goodnight.”
+
+“G-goodnight.” Ereka said and Ren took his hand off the Sending Stone. He went into the kitchen and sat down to eat.
+
+“What else can we do to send the poor thing into shock?” Narhilda said, and Ren laughed.
+
+“I'm sure something else we take as normal, will send her into fits when she finds out.” Nathalia said, and Ren reached a hand over to caress the side of her face.
+
+“That's definitely true.” Ren said. “I know I'm amazed every time I come in here and see your smiling face.”
+
+Narhilda made a fake gagging noise, and Ren turned to her.
+
+“My Lady, I hope you realize that your face is nearly identical to your daughter's.”
+
+Narhilda's mouth made that little 'o' shape.
+
+“Ren! You finally made Ma speechless!” Nathalia said and laughed.
+
+They ate supper together and then had pastries and cream for dessert. Ren took some food out to Princess, and when she was done, he told her he had a surprise for her. Princess looked at him with concern, and he laughed.
+
+“I'm not going to measure you again.” Ren said and placed a pastry in her bowl. “Go ahead.”
+
+Princess inhaled it and he didn't think she even tasted it. He shook his head.
+
+“You know, it would taste better of you chewed it, even only a little bit.” Ren said, then built a wall with a door around Ruck's cabinet, making his own little space with the cabinet inside. He knocked and Ruck opened the cabinet. “I made you a bigger cabinet.” Ren said and showed Ruck the new door. “Do you want to keep this one, too?” Ren asked and tapped on the old cabinet.
+
+Ruck gave a 'thumbs up' gesture, and came out of his cabinet. Ren left him there and shut the door. He turned to walk away, then tossed another pastry into the air to Princess. She caught it in her mouth and stared at Ren as she chewed it exactly once, then swallowed it. Ren laughed and waved as he left the stable. He went back inside the house and told Nathalia that he had some Adventurer's business to take care of, but it would only be an hour or so. She kissed him and went to the old bedroom, and Ren sat on the couch in the main room. He looked at the baby fire elemental on the table and smiled. There was still several squares of Spider Silk Cloth left, and it was lounging in the flames he'd left on.
+
+“I'm glad you're happy.” He said to it, and tickled it's back. The flame's color changed slightly and he leaned back to relax.
+
+See you in a bit, Teepo.
+
+“Bye, Ren.”
+
+“Logout.”
+
+********

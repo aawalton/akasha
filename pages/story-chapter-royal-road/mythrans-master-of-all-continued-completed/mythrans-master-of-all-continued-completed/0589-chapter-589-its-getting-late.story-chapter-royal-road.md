@@ -1,0 +1,299 @@
+---
+id: 0da53aa7-305a-5447-b3bf-4339f213563f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 589 - It's Getting Late"
+slug: 0589-chapter-589-its-getting-late
+partOf: mythrans-master-of-all-continued-completed
+position: 589
+ownLength: 3135
+unit: words
+publishedAt: 2018-05-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216452/chapter-589-its-getting-late"
+royalRoadId: "216452"
+---
+
+Barbara had grabbed a quick snack and went upstairs to the theatre room to watch a bit of television, since she knew Denise had everything handled, and she waited until she thought they had started their date before trying to go back in. She left the theatre room and went to the bedroom door, and overheard Lisa and Ren talking. Rather than interrupt, she went back to the theatre room to wait.
+
+After a little while, Barbara heard one of the other room's doors open and close. It didn't bother her because that happened frequently with so many people in the same house. All of their schedules were slightly different, so their sleep times were off a little from normal. She smiled, since her own sleep schedule had always been off, because she slept in the afternoon to be ready for the evening shift.
+
+Her husband Donald had always accepted her choice to do the night shift, and he did his best to not complain about it; but, she knew he didn't like her working so late all the time and kept trying to suggest she switch shifts occasionally. She would just laugh and kiss him to shut him up; but, since they had moved into the guest house, that playful kiss had led to a bit more playing, and now it had become their signal for full blown sex.
+
+Barbara couldn't tell when it had transitioned to that, and she honestly didn't care. They were more in love now than they had been during their entire marriage, and they were a lot more relaxed with each other as well. She wasn't about to question it or try to figure out how it happened. All that mattered was that it did, and they were both happy about the change.
+
+At 9:30pm, she went back to Ren's room and saw Denise and Ren were in their VR headsets and the television was only showing a Blue Screen. She chuckled and sat down on the chair beside the bed and took out her cell phone, and brought up the latest episode of Big Sister. She plugged in the ear buds and only put one in her left ear, so she could use her right ear to listen for anything that might happen with Ren, Denise, or anyone else that needed her attention.
+
+Around 10:30pm, Barbara heard another series of door openings and closings, and she looked up when Ren's bedroom door opened.
+
+“Hey, Barbara.” Elise said. “Easy night ahead of you, I think.”
+
+Barbara paused the video on her cell phone. “I'm not going to complain.” She said. “He promised to log out at midnight, remember?”
+
+Elise smiled back and went over to the closet. “It's been a while since the last time he did that.”
+
+“I felt kind of bad that I forced him to promise, but he needs the real world interactions to keep him grounded.” Barbara said. “Plus, Officer Holly can't get back online until the weekend, and I don't want him wandering around and possibly meeting you-know-who again without her there.”
+
+“I'm glad she kept him safe like she did.” Elise said and took off her shirt and business skirt. “Getting us that tracking info and server IDs for Suzie's computer setup was just icing on the cake.”
+
+“Will it be useful?” Barbara asked.
+
+“In a sense.” Elise said and slipped on a pair of jogging pants and an oversized t-shirt. “Every computer online has a digital location that can be traced. Whether that computer still exists right now is another story.”
+
+Barbara nodded. “That's why I asked if it will be useful. Can you track a computer that's probably been wiped?”
+
+“I don't think it matters. All we need is the records from her service provider, because that can tell us where the computer was at the time of the incident.” Elise said and walked over to the bed. “When she tried to hypnotize him, she really got the ball rolling in his life, didn't she?”
+
+Barbara sighed. “He's always been confident and sure of himself; but, after hearing what he remembers, which is pretty much everything, I... I've been more afraid for him than I normally am.”
+
+Elise nodded. “You and me both.” She said and climbed onto the bed on Ren's other side. “Once it gets out what he remembers...”
+
+“...everything will either stop or get much more hectic around here.” Barbara said. “For all of us.”
+
+Elise rested her head on the pillow to stare at the cute little man she had attached herself to, and she hoped that it was the former that would happen. She wanted it to stop and for him to be safe; but, she knew it was only a faint hope and planned for his life to become a lot more hectic.
+
+********
+
+Elerlyth had appeared inside her small one room house in Ren's county and hopped out of bed. She equipped her armor and ran outside to where she had stored her mount, Etheria.
+
+“Hey, boy!” Elerlyth said happily. “Let's go for a quick ride to see Ren!”
+
+Etheria neighed back happily, and Elerlyth took his reins as she climbed onto the saddle. They took off up into the sky and flew over to the city, and she landed right in front of the Main House. She hopped off and went inside, and ran up the stairs. She knocked on the apartment door, and Frikara opened it.
+
+“Hi, Frikara.” Elerlyth said and darted into the apartment. “Ren, you're not going to believe what... wait, where's Ren?”
+
+“He's in Aurora on a date with an Adventurer.” Frikara said. “What's the happy news?”
+
+“I... it's Adventurer's business.” Elerlyth said. “I'm sorry for disturbing you.”
+
+“That's all right.” Frikara said. “I'm sure your disrespect to us for barging in like that was unintentional.”
+
+Elerlyth opened her mouth to respond hotly, then sighed. “Yes, it was.” She said and left the apartment.
+
+“I think she's a bad influence on him.” One of the maids said before Frikara could shut the bedroom door.
+
+“It doesn't matter what we think.” Frikara said. “He loves her, and we will give her as much leeway as he wants us to.”
+
+The bedroom door shut and Elerlyth couldn't hear if the discussion continued, so she went downstairs and outside.
+
+I wonder if I should go to Aurora and interrupt his date, or just message him? Elerlyth thought, and Etheria neighed at her. “Yes, a message would be more appropriate.” She said out loud. “I should have done that to check on where he was, instead of riding here first.”
+
+Elerlyth opened the messaging system and started writing a message to Ren, to ask him if he was busy and if he had the time to see her in person. The messaging system closed abruptly, just before she was about to hit send, and she received a couple of popups.
+
+System Notice!
+
+Congratulations, Adventurers! You have survived the first successful World Event: Ghoulpocalypse!
+
+You will now receive the appropriate XP and rewards for your contributions in fighting off the ghoul infestation.
+
+Notice!
+
+Your contributions were quite decisive in nature, ensuring that the hordes didn't get a secure foothold in the High Elven Kingdom. Your ferocity in dispatching the undead and the sheer amount of deaths by your hand was impressive.
+
+Unfortunately, since it was your own race (The Dark Elves) that started the whole thing, your actions were counter-productive to their agenda.
+
+Rewards: 558,235 XP
+
+Race Penalty: -15,000 XP
+
+New Title: Dispatcher (Ghoulpocalypse)
+
+Oh, nice! Elerlyth thought as she dismissed that and the level gain popups. I gained a ton of XP and 9 levels! She smiled. I've got 45 more stat points to spend! Then she frowned as the popup fully registered. What the hell is a Race penalty?
+
+System Notice!
+
+The new World Event: Water Works is about to start! In order for the new content to be loaded, you need to log out for: 30 minutes (real time)
+
+“SON OF A BITCH!” Elerlyth yelled, and several people turned to stare at her. “What are you looking at?”
+
+The townspeople shrugged and moved on, and she made a fist.
+
+“Dammit, if everyone got that popup, then he's already logged out.” Elerlyth said and climbed onto Etheria. “Let's get back to the house.” She said. “I'll come back in later and send a message then.”
+
+********
+
+Denise slipped off her VR headset and rubbed her eyes. “Damn, that... what a change from... whew.” She said and looked over at Ren. “Oh! Hi, Elise.”
+
+“Hi.” Elise said.
+
+“Nobody move.” Barbra said. “You'll make a huge mess if you do.”
+
+Everyone stayed still while Barbara removed the bedpan and wiped Ren off, then she tucked everything away and put his pyjamas back in order.
+
+“Okay, the danger's past.” Barbara said and helped Ren take off his headset.
+
+“I'm going to ignore what you just did for me.” Ren said. “Yep. It never happened.”
+
+Barbara laughed and looked at Denise. “How was your first time in the game?”
+
+Denise rubbed her eyes again. “Does the transition get easier?”
+
+“It's a little jarring going from quadruple time compression to real time.” Elise said. “Some adapt much better than others, though.”
+
+“Like me.” Ren said and smiled. “Just like everything else, it takes time and practice to get good at it.”
+
+“I'll have to take your word for it.” Denise said and leaned in to give him a kiss. “Thank you for the date.”
+
+“You're not going back in after the update?” Ren asked, and she shook her head.
+
+“I think moderation is the key.” Denise said and got out of bed. “We can try again later.”
+
+“I'll look at what I can make for Barbarians; but, I don't know anything about Amazonians.” Ren said. “I'm sorry.”
+
+“That's okay. We can worry about that the next time.” Denise said. “See you later.”
+
+Ren, Elise, and Barbara gave her a wave, and she left the room.
+
+“Does that mean your date was a success?” Elise asked.
+
+“I rocked her world, so yes.” Ren said and grinned.
+
+“Now it's my turn to say I'm going to pretend that didn't just happen.” Barbara said and smiled.
+
+“I'd apologize, but you're way too intelligent not to know who did what with whom.” Ren smiled back.
+
+“What's the update?” Elise asked.
+
+“The Ghoulpocalypse just ended, and now it's going to be something called Water Works.” Ren said. “We have to stay out for half an hour for the update.”
+
+“Oh, damn.” Elise said. “Ren, this could get nasty.”
+
+“Don't I know it.” Ren said. “It's going to be all nicey-nice at first...”
+
+“But, if the Land Dwellers don't comply, even a little bit...” Elise said. “Sea Dwellers are vicious creatures.”
+
+“Yeah, even to people they care a lot about.” Ren said. Elise took his hand and held it, because she remembered that Railyse had bitten off a chunk of his arm.
+
+“So, what are we going to do for half an hour?” Barbara asked.
+
+“Half an hour?” Ren looked at her. “Since Denise doesn't want to go back in, I might as well stay out myself.” He said. “I'd only be in for another hour real time, anyway.” He smiled. “We can get a big head start on hanging out right now.”
+
+“Do you want to watch television here or in the theatre room?” Barbara asked.
+
+“I'd rather just talk to two beautiful women, if that's okay.” Ren said.
+
+“I'm okay with that.” Elise said and looked at Barbara. “What do you say?”
+
+“I think that's just fine.” Barbara said and put her phone away.
+
+*
+
+Lisa had talked for quite some time, and Stella's cuddling had become tighter and more intimate as the evening wore on. When Lisa finished talking, Stella had practically cooed to her.
+
+“You poor thing.” Stella said and kissed her cheek. “You should have called or sent a text. We would have come running!”
+
+Lisa smiled. “That's what Denise said.”
+
+“That's because she's smart and cares about you, too.” Stella said. “I'm sorry you had to deal with that all alone.”
+
+“Ren kind of said the same thing, too.” Lisa said, then told Stella what Ren said about letting the people that love you, help you.
+
+Stella laughed. “He used a colorful word choice, but he's right as well.” She said. “Lisa, from now on, please contact me if anything like this happens again.”
+
+“Just you?” Lisa asked and smiled.
+
+“Any of us will do, smarty-pants.” Stella said. “None of us want you to be left alone like that, okay?”
+
+Lisa nodded. “Thanks, Stella.”
+
+“You don't thank people who care about you, for caring about you.” Stella looked at the clock and saw it was almost 11:30pm. “Well, it's pretty late now.” She said and let Lisa out of the embrace, then stood up. “I've got work in the morning, so I should head to bed.”
+
+“I should probably get back to the game.” Lisa said. “I completed all of the player quests I had given out before coming downstairs... to... eat.”
+
+Stella and Lisa looked at each other in realization. “THE CHICKEN!” They yelled at the same time and they ran for the kitchen. Stella grabbed a pair of oven mitts and opened the oven, then pulled out the glass dish with 3 pieces of chicken in it.
+
+“Whew! It might be a little dry, but otherwise it's fine.” Stella said. “I'm glad I had it on low heat.”
+
+Lisa nodded and grabbed a fork and a plate, and took two of the pieces.
+
+“You might as well take the last one.” Stella said. “You can keep it in your room.”
+
+“That's a little disgusting.” Lisa said, and Stella laughed.
+
+“You have a kitchen and a refrigerator in your room, Lisa. It's not going to spoil.”
+
+Lisa looked at her like she was crazy, then remembered she did have a fridge in the room and laughed.
+
+“You'll get used to the convenience of this place eventually.” Stella said as she turned off the oven and then put the glass dish in the sink to let it soak. “I actually don't remember the last time I went home to sleep.”
+
+“You don't?”
+
+Stella shook her head. “I've only gone home for errands or to work on the research project. I've been staying here overnight ever since Ren asked me to.” She saw the surprise on Lisa's face and pat her shoulder. “I'll walk you up to your room.”
+
+Lisa nodded and they left the kitchen together, then walked across the house to the elevator. They got in and Stella pushed 3 for the top floor, and they stepped out and walked down the hallway. Stella opened Lisa's room door for her, and Lisa looked inside. For some reason, she noticed how big and empty it was, and she didn't want to enter.
+
+“Stella, I...” Lisa took in a breath. “I know this is going to sound weird...” She said. “I... I don't...”
+
+Stella looked at her face and then at the room, and shut the door. “I just had an idea. Why don't you eat that in my room.”
+
+“Wh-what?”
+
+“I'm a little shaken after what Ren and you went through, and I don't feel like being alone right now.” Stella said. “Can you keep me company for a little while?”
+
+Lisa didn't say anything as she nodded, and they went back to the elevator and went down to the second floor. They went inside Stella's room and sat down at the small kitchen table, and Lisa ate the two pieces of chicken she had wanted and drank her water. Stella put the last piece of chicken in her fridge and got changed for bed while Lisa washed up in the bathroom.
+
+“Stella.” Lisa said when she came out and saw Stella fold down the blanket of the bed. “Thanks for letting me...”
+
+“No need to say thanks, remember?” Stella said. “Now come here and get in bed.”
+
+“Wh-what?”
+
+“Can I impose on you a bit more? I'm still nervous about being alone.” Stella said. “The thought of being in this big room all alone is a little too much to handle right now.”
+
+“I... I don't know...”
+
+“Unlike Ren, I can promise to keep my hands to myself.” Stella said, and Lisa snorted a laugh.
+
+“He is a bit grabby, isn't he?”
+
+“By choice, I believe.” Stella said. “He's never had anyone to hold while sleeping in a real bed before, so he's taking full advantage of it while he can.”
+
+Lisa had never thought of it that way, and she had to agree. “I guess I can understand that point of view.”
+
+“Then get over here and get in.” Stella said and pat the bed, then climbed in herself. “Good lord, I'm tired.”
+
+“Stella, I'm sorry.” Lisa said and went right over to the bed. “I've kept you up well past midnight.”
+
+“Don't worry about it.” Stella said and yawned, then did a little stretch and laid down. “I am going to crash hard, so forgive me if I doze off.”
+
+Lisa climbed into the bed and laid down about a foot away and pulled the blanket up. “Goodnight, Stella.”
+
+“Goodnight, Lisa.” Stella said and closed her eyes. After a few moments, Lisa spoke again.
+
+“Stella?”
+
+“Mm?”
+
+“Um... you... you don't... have to keep your hands to yourself.” Lisa admitted.
+
+Stella opened her eyes to see Lisa's deep blush, smiled warmly at her, and opened her arms. Lisa slid close and tucked herself against Stella.
+
+“I'm so glad you finally admitted that.” Stella said as she put her arms around her and kissed the top of her head. “I've been having a hard time not hugging you.”
+
+Lisa chuckled. “I've been getting in my own way, haven't I?”
+
+“You just need to be honest with yourself.” Stella said and Lisa lifted her head and looked at her. “We've all had a hard day, and it's okay to want someone to hold you.”
+
+“Even if it's not Ren?” Lisa asked.
+
+“If my guess is correct, you were already held by him tonight.” Stella said. “You were up those stairs as soon as you came in the house and didn't even look at the elevator.”
+
+“You saw that?” Lisa asked, surprised.
+
+“I... See... Everything!” Stella said ominously.
+
+“You've been watching my game footage, you sneak!” Lisa laughed.
+
+“Guilty.” Stella grinned. “You make a great Sage, Lisa.”
+
+“Thanks.”
+
+“Now go to sleep.”
+
+“Huh? Oh, right. Sleep.” Lisa said, and then sighed.
+
+“Be honest with yourself.” Stella reminded her when she saw the indecision on her face.
+
+“Can... can I...” Lisa sighed again. “I want... a goodnight kiss.”
+
+“Of course.” Stella said and pressed her lips to Lisa's for several moments. “Goodnight.”
+
+“G-g-goodnight.” Lisa said, her face blood red.

@@ -1,0 +1,197 @@
+---
+id: 463163be-b734-5c41-bd60-439a89150790
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100 Strain"
+slug: 0105-chapter-100-strain
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 105
+ownLength: 2182
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3703125/chapter-100-strain"
+royalRoadId: "3703125"
+---
+
+When Lucien had first traveled to Helvarn, it was the towering stone walls rising against the mountain slopes that had captured most of his attention.
+
+This time, he found himself watching the people moving in and out of the fortress town closely.
+
+Back during late winter, the number of travelers had largely been limited to merchants and those fleeing the Tithe. Now, there were far more people gathered along the edges of the road while the shanty camp he had spotted months ago had grown visibly larger even from this distance.
+
+“…There’s more of them than last time, My Lord,” Tomas muttered, glancing briefly toward the makeshift camp.
+
+Riding beside him, Henric gave a slow nod. “And they are not all from the frontier either.”
+
+Lucien’s gaze shifted toward the man. “How do you know they are not all from the frontier?”
+
+Straightening slightly in his saddle, Henric gestured toward a group of men gathered around a ramshackle shack. “The clothes they wear and the way they carry themselves, My Lord. People from the heartlands have a certain look to them.”
+
+Dorian shook his head faintly. “It is not always accurate. Once they have lived long enough on the frontier, those differences begin to fade.”
+
+Glancing back toward the shanty camp as they rode past, Lucien could not tell what exactly Henric had noticed. Instead, what stood out to him was the way the people naturally divided themselves throughout the crowded camp.
+
+It reminded him of the western farmers and the newer villagers within Ashridge itself. Even here, people stood apart from one another despite the cramped conditions around them.
+
+“…How long are we supposed to stay here? We should just find another village somewhere on the frontier,” a woman sitting near the roadside muttered.
+
+The man beside her spat onto the ground. “And go where? If the next village falls apart from this year’s Tithe, then we’ll just end up back here again.”
+
+Standing nearby, another woman gestured toward the camp. "I heard Ashridge took in refugees not long ago. Didn't the lord send people here to look for labor?"
+
+The man scoffed harshly, shaking his head. "Skilled labor, not people like us. There’s no chance he’d accept people who only know field work and hauling."
+
+Slumping over, the seated woman let out a breath. “Better to try surviving out there than die here from sickness...Just yesterday, another child...” Her voice faltered before she covered her face with dirt-covered hands.
+
+“…It’s Lord Rathenfell’s fault. He forbade us from setting up another camp elsewhere. And after we begged him so many times...” The other woman glanced toward Helvarn with a scowl across her face.
+
+The man immediately glanced around before his eyes landed on Lucien and the others riding past. His expression tightened. “…Keep your mouth shut before someone drags us out for a whipping,” he hissed.
+
+The small group quickly fell silent after noticing the armed riders passing nearby. The woman who had spoken Rathenfell’s name quickly turned away, fear flickering briefly across her face.
+
+Henric and Dorian gave no visible reaction, their expressions remaining neutral throughout the exchange. By contrast, Tomas’s brows had creased faintly, his grip tightening slightly around the reins.
+
+Lucien exhaled softly through his nose before shifting his gaze away from the camp. He gestured toward the others and the group continued riding up the road.
+
+As they neared the gates, there was a long line of people waiting to enter the town.
+
+The two guards stationed there checked each one of them and he noticed that those allowed in were the ones who showed some sort of parchment while the others were told to wait to one side.
+
+A guard came out from a door, guiding a woman in dirt-stained clothes with a small girl trailing behind them.
+
+"Please...we have coin. At least for the night." the woman begged.
+
+The guard's expression remained neutral as he shook his head firmly. “I am sorry. But even if I were to let you in, there isn't any rooms left in the inns. We can't have any more staying in the streets.”
+
+He released the woman and when she tried to beg once more, he shoved her lightly away. “Don't linger here. Go to the shanty camp or we'll have you removed from Helvarn's outskirts.”
+
+The child huddled close to her mother as she looked around with frightened eyes at the people watching the exchange. Some of the people waiting in line had hard expressions on their faces while others cast nervous looks toward the guards.
+
+At the guard's warning, a sob escaped the woman before she turned slowly, taking the child's hand. As they walked back down the road, the girl continued to look back, briefly meeting Lucien's gaze before quickly looking away, only to find Tomas watching her.
+
+Tomas looked away first, his jaw tightening though he remained silent when Henric shot him a warning look.
+
+Lucien kept his expression carefully neutral as he glanced toward Dorian before gesturing subtly toward the two guards.
+
+The captain inclined his head before guiding his horse forward alongside Lucien while Tomas and Henric followed slightly behind them.
+
+As they approached the gates, the murmurs among the waiting line gradually quieted. More than a few eyes shifted toward the armed riders, lingering briefly on the weapons at their sides before quickly lowering once they noticed the quality of their clothing and equipment.
+
+Upon seeing them, the two guards stationed there exchanged brief looks before one of them stepped forward.
+
+He dipped his head slightly. "My Lord, Lord Rathenfell has arranged for your stay in his manor if you would prefer it."
+
+Lucien's expression remained unchanged as he inclined his head. "Very well. And my guards?"
+
+The man's gaze passed over the group before he bowed. “Their quarters are near yours as well, My Lord.”
+
+At Lucien’s nod, the man stepped aside while the other guard quickly followed suit.
+
+The people waiting in line watched silently as the mounted group passed through the gates, though more than a few expressions had hardened at the sight.
+
+Entering into Helvarn proper, they continued riding in silence for a moment before Tomas spoke up hesitantly behind him.
+
+"My Lord...must Lord Rathenfell keep them all in one place like that?"
+
+Henric shot Tomas a look before speaking. “Tomas, it is not our place to question how another lord governs his lands.”
+
+Before the man could continue, he fell silent at Lucien's gesture. "It is fine, Henric. As long as Tomas does not voice such things openly before Lord Rathenfell’s guards."
+
+Slowing his horse to ride beside Tomas, Lucien glanced toward him before he spoke. "Helvarn has about two thousand five hundred people living within its walls, Tomas."
+
+At his words, Tomas's eyes widened. "T-that many, My Lord?"
+
+Lucien gave a nod before he gestured toward the town around them. "Yes. But how many guards do you think they would have?"
+
+The younger man's gaze lowered in thought for a brief moment before he answered slowly. "I don't know, My Lord...maybe two hundred?"
+
+Shaking his head, Lucien raised one finger up. "A hundred at most. And that is the best estimate considering the size of this town. The number might be as low as seventy or so."
+
+"But for a town this size...surely it could support..." Tomas said slowly before trailing off.
+
+Letting out a breath, Lucien gestured toward the armor the younger man was wearing. "Outfitting and training guards is expensive, Tomas. And every guard Helvarn has is one person that is not providing the town the means to earn coin from their labor."
+
+“That is why Lord Rathenfell has to keep all the refugees in one place like that. With the number of guards needed to man the walls, serve as the town watch, and remain on standby in the event something happens…”
+
+Lucien shook his head. “He likely doesn't have the leeway to post guards in two locations to watch the refugees.”
+
+The younger man remained silent for a moment before he hesitantly spoke. "...But the people out there will fall to sickness if they remain so close together like that."
+
+"The people out there are not Lord Rathenfell's subjects, Tomas." Lucien replied, his gaze shifting toward the town around them.
+
+"If he makes the wrong decision, it is his own people who will bear the consequences. And while I do not claim to know Lord Rathenfell's mind...someone whose house raised Helvarn up to where it was today would not take that duty lightly."
+
+Tomas's brow creased as he fell silent, gaze lowered in thought.
+
+Lucien could understand the reasoning behind Lord Rathenfell’s actions. But knowing why he had made the decision and agreeing with it were two entirely different matters.
+
+As they continued deeper into Helvarn, the signs of strain gradually became harder to ignore.
+
+The streets remained orderly, but there were far more people moving through them than Lucien remembered from his previous visit during late winter.
+
+Several merchants had set up temporary stalls along the roadsides while groups of weary travelers lingered near alleyways with bundles and bedrolls gathered around them.
+
+Nearby, several people sat beneath awnings and overhangs, wrapped in blankets despite the warmer weather. The smell of sweat, damp cloth, and smoke lingered heavily through parts of the street.
+
+Lucien’s eyes shifted toward another building where the lower floor had been converted into a temporary sleeping area, the windows left open despite the chillier evening air.
+
+“…They have started housing people inside the storefronts now,” Dorian observed quietly.
+
+Henric gave a faint grunt. “At this rate, there’ll be fights breaking out before summer fully arrives.”
+
+Lucien remained silent as they continued riding through the increasingly crowded streets.
+
+The guards patrolling the town were noticeably more numerous than during his first visit, many of them watching the streets with wary expressions while keeping hands close to their weapons whenever groups gathered too closely together.
+
+As they neared the bell tower at the heart of Helvarn, groups of weary people rested beneath the covered arches while exhausted clergy moved between them carrying buckets of water and bundles of cloth.
+
+Some of them kneeled at the bronze statue of the goddess at the center, muttering prayers and pleas out loud.
+
+"...Please let my husband be safe..."
+
+"...Oh Goddess, I beg you. My son...he's fighting near the border right now..."
+
+"...Why? They didn't have to burn the entire village down..."
+
+Lucien's brow creased at the words he overheard from them. It did not sound like they were talking about beasts.
+
+They rode past the square, coming upon a familiar stretch of the road where the inns were.
+
+The ones where people had to share rooms were fully occupied as a group of people argued with a tired-looking innkeeper who gestured toward an already packed stable.
+
+“…I already told you there’s no room left! Unless you plan on sleeping beside the horses then find somewhere else!”
+
+Even the inn Lucien had stayed in during his previous visit was showing signs of the same strain.
+
+Several horses had been tied outside beneath hastily erected coverings while a pair of weary-looking servants carried bundles toward a side entrance already crowded with crates and travel belongings.
+
+Near the doorway, a small group of finely dressed women stood beneath the shade of the awning, speaking in lowered voices while fanning themselves against the warmth.
+
+Lucien caught the occasional glance they cast toward the crowded streets further down the road, unease lingering beneath their carefully composed expressions.
+
+It seemed even establishments such as this were now being forced to make room wherever they could.
+
+Leaving the inn district behind, the roads gradually widened as the overcrowding gradually began to lessen the deeper they traveled into the fortress town.
+
+Ahead of them, another wall rose within Helvarn itself.
+
+Though nowhere near as imposing as the outer fortress walls surrounding the town, it still stood high enough to separate the manor district from the rest of the settlement. Guards armed with spears stood watch atop the gatehouse while others remained stationed near the entrance below.
+
+Lucien’s gaze swept briefly across the area as they approached.
+
+Unlike the streets they had just passed through, there were almost no civilians present here.
+
+Only the occasional servant, messenger, or mounted rider crossed through the district beyond the gates, their movements orderly and purposeful beneath the watchful eyes of Helvarn’s guards.
+
+Tomas straightened slightly in his saddle as they neared the entrance while Henric settled into the rigid bearing of a household guard beside him. Dorian, meanwhile, rode on with the same neutral expression he had worn since entering Helvarn.
+
+Before Lucien’s group could fully approach, one of the guards near the gate stepped forward.
+
+The man’s eyes briefly passed over the four riders before he dipped his head respectfully.
+
+“Lord Varentis. Lord Rathenfell has been expecting your arrival. Someone will escort you and your guards to your rooms.”
+
+Lucien inclined his head in acknowledgment. “You have my thanks.”
+
+The guard dipped his head slightly before gesturing.
+
+The heavy gates slowly began to open inward.

@@ -1,0 +1,231 @@
+---
+id: b03652bd-7f2c-53ba-9023-3b26f3e0bdb5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 227A - Almost (Explicit Content)"
+slug: 0216-chapter-227a-almost-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 216
+ownLength: 2846
+unit: words
+publishedAt: 2017-04-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130409/chapter-227a-almost-explicit-content"
+royalRoadId: "130409"
+---
+
+Elise unhooked the clasp of the bra, it opened up dramatically, and was flung to the sides as it unleashed it's gigantic contents.
+
+“Wow.” Ren said as he stared at the overflowing bounty before him.
+
+“Ren?”
+
+“Hm?”
+
+“Go ahead.” Elise said. “I already gave you permission to touch them.”
+
+“Can't I just admire them for a while?” Ren asked. “Like, maybe for a year or two?”
+
+Elise chuckled, and the flesh jiggled hypnotically. “You don't have to just look.” She said. “I know all about the dwarves, Ren. Enjoying another woman is expected, and even encouraged sometimes.”
+
+Ren gave her a slight nod. “Okay.” He said, and smiled as he touched one, then massaged it. “They really are as soft as pillows.” He got both hands going, then teased and played with her. Elise's face flushed a deep red as the tips became hard and Ren bent down to give one of the tips of her breasts a kiss, then kissed the other one.
+
+“Good god...” Elise moaned in a low whisper when Ren moved to sit up. “...don't stop.”
+
+“We really can't go any further than this.” He said as he glanced at her face, and then at the door. “Coffee doesn't take that long, and the door doesn't lock.”
+
+Elise took in a deep breath, and her chest heaved up. “Dammit, you're right.”
+
+“Unfortunately.” Ren said, then looked at the bathroom. “Although...”
+
+“What is it?” She asked.
+
+“There is a lock on the bathroom door.”
+
+Elise smiled and sat up, then got out of the bed. Her breasts hung down a little; but, their shape didn't change that much.
+
+“How many men have told you that your chest was perfect?” Ren asked as he slid out of bed.
+
+“Not many.” Elise said as they walked to the bathroom. Ren sat on the porcelain throne while she shut the door and locked it.
+
+“Were they blind or stupid?” Ren asked as she came over to him. “No, don't answer that.” He said. “It was probably both.”
+
+Elise laughed, and took off her top, and slid the bra off of her shoulders so she was now completely nude from the waist up.
+
+“By the gods...” Ren whispered as she knelt in front of him. Because she was so tall, with her kneeling on the floor and him sitting, his face was only slightly above her chest. He reached out, and started to play with them again. He used both hands to lift one and popped the tip into his mouth.
+
+“Oh, god!” Elise put her hands against the wall to brace herself as Ren suckled on her breast. He licked, kissed, and then slightly bit it, and she moaned in pleasure. He moved to the other breast, and she bit her bottom lip to stop herself from making too much noise as she watched him work.
+
+This... this is really happening! Elise thought in amazement. Her body convulsed slightly as a small orgasm hit her. Oh, Ren!
+
+Ren stopped sucking on her as he felt her shiver slightly, and looked up at her face. “Can you turn to the side a little?”
+
+Elise nodded and shifted her upper body to the side for him, and he grinned at her reaction when he licked up the whole side of her breast right up to her shoulder. She didn't even have to be asked to move to the other side; she just turned her torso and he did the same thing to her other breast. She tried to keep her breathing slow and steady, then attempted to compose herself.
+
+I... I never imagined... She looked at his happy face, and smiled. When he asked her to stand up, she was surprised at first. Doesn't he want to keep... oh!
+
+Ren ran a hand up along the outside of her thighs, and dragged the hem of the skirt up to her hips. Elise froze stiff; because she'd had to wear a normal pair of underwear for the pad to fit, and not the sexy underwear that she had wanted to wear. She was a bit embarrassed as Ren was seeing it now, in all it's plain white glory.
+
+“May I?” He asked as he looked up at her.
+
+Elise blinked her eyes at him a few times, confused for a second, then smiled. “Please.” She said and pulled her underwear down and stepped out of them. “Yes, please!”
+
+A bright red tuft of hair greeted him, the same color as the hair on her head. Ren grinned at her and slid a hand along her hips, then massaged the area right above the spot between her legs. He dug his fingers into the tuft of hair, and she put her hands back on the wall.
+
+“Ren...” Elise said as he played and tugged slightly on the hair. “...don't... don't tease...”
+
+He nodded slightly, and put a hand between her legs. She took in a sharp breath, because she was finally being touched there after so long. She'd even dreamed about doing this, and moaned as he massaged her tender part. Her breath started to get faster, despite her attempts to not get too excited too fast; but he was fulfilling one of her fondest wishes at the moment, and Elise couldn't help herself. Almost as if he knew she was too close to another orgasm do anything about stopping it, he clamped his lips onto her womanhood and sucked for all he was worth.
+
+“Oh, god!” Elise said as she went. It was a strong one this time, and she leaned her head against the wall as she let the pleasure of his mouth on her take over. She stared at him as he worked her over quite well, and was amazed he wasn't complaining about the mess she was making. After her third time, her legs started to weaken, and Ren felt the tremors in her muscles. He stopped pleasing her, and looked up at her enraptured face.
+
+“I'm sorry.” Ren apologized. “I kind of forget about everything else when I do this kind of thing.” He said. “I want to keep going, but I don't think your legs can hold you up for much longer.”
+
+“Are... are you for real?” Elise asked as she pushed herself away from the wall, then knelt on the floor in front of him. “I mean.. look at... at the mess I made...”
+
+“That's what towels are for.” Ren said and pointed. Elise took one from the rack to wipe off his face and chin, then cleaned herself up.
+
+“You really want to keep going, don't you?” Elise asked.
+
+“Of course I do.” Ren said. “That look on your face was the best thing I've seen all day.” He smiled. “And that's saying something, because I've seen you naked.”
+
+Elise laughed and kissed him. She tasted herself on his lips, and it almost drove her wild. I can't believe he enjoys pleasing me like that! She thought as they made out. I think... yes, I'll return the favor. She stopped kissing him and put her hands on the edge of his pajama pants. Even though I don't really like doing that.
+
+“Elise.” Ren said. “Before you see me like that... there's something you should know.”
+
+“Wh-what is it?” She asked, then her eyes widened. “Please tell me they didn't... didn't... remo-”
+
+“No! Nothing like that.” Ren cut off her words before she said what she was thinking. “It's just...” He sighed. “It's not a normal size compared to my body.”
+
+“Oh, is that all?” Elise smiled. “All men have different sizes. It's okay.”
+
+Ren nodded, and she leaned back to get the full view as he pulled his pajamas down.
+
+He really does look better in matching underwear. Elise thought, then stopped thinking when she noticed the size of the bulge. She stopped breathing when she saw the bulge as it was revealed.
+
+“Oh, my god.” Elise said, and looked at Ren's face.
+
+“I told you it wasn't the right size for this body.” He said. “Some of the... experiments... and operations...”
+
+“Oh, Ren.” Elise said and kissed the tip. “It's all right. I know what it's like to be self-conscious about extra large body parts.”
+
+Ren looked at her with surprise on his face, and then he smiled. “Thank you.”
+
+“Don't thank me yet.” She said. “Sit.”
+
+He sat again, and she took him into her mouth. She only worked on the tip for a minute or two, and he saw her eyes widen slightly.
+
+I was worried it was going to smell or... or taste bad. Elise thought, and pushed it further into her mouth. This actually tastes g-uh! Her thought was cut off as she almost choked when she had about 6 inches of it in her mouth, and the tip hit the back of her throat.
+
+“Be careful.” Ren said as she slid off, coughed, then swallowed.
+
+“Sorry.” Elise said, and blushed a little. “I went a little too far that time.”
+
+Ren ran his hands through her hair and nodded. “It's a lot to take in.”
+
+She eased her mouth over it and put a hand around it, to grip at the spot just before it hit the back of her throat. Then she went to work with what she had available.
+
+“Oh, Elise!” Ren said in a low voice, while she pleased him as fast as she could move her head up and down. She looked up at him while she moved, and watched him as he stared at her. This went on for several minutes, and she felt him throb in her mouth.
+
+“I'm... close...” Ren said and braced himself. “I'm... I'm gonna...”
+
+Elise made a loud sucking sound as she popped him out of her mouth, then leaned back to present her large breasts for him to go on. He grabbed himself and it only took a couple of strokes and he went. Her eyes widened as he spilled himself all over her chest, and it dripped down onto the floor.
+
+“It... it's not stopping?” Elise asked, as Ren continued to go.
+
+A few seconds later, he gasped, stopped stroking himself, and leaned back as the last vestiges of the act came out and splashed onto her white skin.
+
+“There's... there's so much!” Elise said, surprised. “How in the world can you... oh my god!”
+
+“What?” Ren asked as he sat back up to look at her. “What is it?”
+
+“You're still rock hard!”
+
+He looked down at himself. “Yeah.”
+
+“But... every man I've ever known... or seen on video... when they go, they were done.”
+
+Ren smiled at her as she picked up the towel and used it to wipe off her chest, then went to wipe him off, too.
+
+“No, not yet.” Ren said. “Give me a minute.”
+
+Elise nodded, waited for him to nod, then used the towel to clean him off. She looked at his member, and there was still some on the tip.
+
+I just wiped that. She thought, lifted the towel to wipe, then stopped. If his skin tasted so good... She leaned in close to look at it. I've never liked the taste before, but... what... what will his taste like?
+
+Elise debated the thought of the awful taste for only a moment, then flicked out a tongue and licked it. Ren's member throbbed from the quick touch of her warm tongue, and her eyes widened as she tasted it.
+
+I... Elise looked at the towel. I wasted it all. She thought, disheartened. I'll have to wait until the next time for...
+
+“Good god, don't do that.” Ren said. “I'll go again.”
+
+“You'll what?” She asked, surprised.
+
+“It doesn't take much for me to go after I go the first time.” Ren explained.
+
+“You have to be lying.” Elise said. “That's... not...” She shook her head slightly and stared at Ren. “Is... is that possible?”
+
+“There's an easy way to find out.” Ren said. Elise leaned close and gave him another lick. His member throbbed in appreciation, and she smiled as she took him into her mouth again. It only took a few strokes and licks, and he went again. Elise stopped moving as it filled her mouth, and she swallowed as much as she could. After a minute of sitting still, she slid her mouth off of him, and a little spurt went on her lips. She stared at him, and licked her lips to get it all.
+
+“That was...” Elise shook her head. “If I keep going, so will you. Won't you?”
+
+“It'll slow down after the third or forth time, or if I try really hard to ignore the feeling.”
+
+“You're just the gift that keeps on giving.” Elise said under her breath, but he heard her, since she was right there in front of him. She noticed his growing smile, and blushed. “I mean... I... I don't normally like... having... a man in my mouth.”
+
+“You don't?” Ren's eyes widened. “You... ah...” He smiled. “I couldn't tell.”
+
+Elise chuckled and ran a hand lightly along the shaft of his member. “Unlike every other one that I've...” She blushed. “...had to taste...” She smiled shyly. “...yours was...”
+
+“It's okay to say it was good.” Ren said, and her face flushed a deep red. “I liked your taste, too.”
+
+“You did?” Elise asked, surprised.
+
+“Yeah.” He said. “It was like... strawberries, whipped cream, and vanilla all mixed together.” He grinned. “I could just stay there all day...”
+
+Elise thought about him doing that to her for hours and hours, and convulsed a little as she had a small orgasm. She trembled slightly as she stood up and looked at him.
+
+“Do you feel up to a bit of... um...” Elise took a deep breath. “I want to feel it inside me.”
+
+“Elise, I...” Ren looked at her pleading face. “I'm too weak to do a lot right now, and I really, really don't want to disappoint you for our first time together.”
+
+“You can't disappoint me, Ren.” Elise said. “You're amazing.”
+
+He looked down at his still rock hard member, then at her soaked opening.
+
+“I think... if we're careful...” He smiled. “We can at least get the tip in.”
+
+Ren saw her opening contract just from him saying that, and she nodded as she straddled over where he sat. He leaned back so that she would have a clear approach, and he put his hands on her thighs. Elise half-bent over and grabbed hold of him, then swiped the tip of his member across her opening. She made herself gasp, and positioned it in just the right spot, then gently eased herself down a little bit.
+
+“Almost.” Ren said, because he could clearly see it starting to enter her. Elise dropped a little further, the tip passed into the very tight opening, then it gripped him like a vise. “Good god, you're so tight.”
+
+“I haven't been with a man in...” Elise shook her head. “No, that doesn't matter.”
+
+*KNOCK* *KNOCK*
+
+“Hey, are you two finished in there yet?” Denise asked. “It's getting a little late.”
+
+Ren and Elise froze at the sound of her voice, and stared at each other.
+
+“I normally wouldn't say anything, but Ren has to clean up before getting into bed.” Denise explained. “That's assuming he wants to get back into the game soon.”
+
+“I do.” Ren said, loud enough for Denise to hear.
+
+“Then get a move on. You'll have no one to blame but yourself if you're late.” She said. “We'll wait out in the hallway.”
+
+Ren and Elise listened closely, didn't hear any footsteps, then heard the door when it closed. Elise still had a hold of him with her hand, so she held on and pulled herself off. It was difficult, because it didn't want to let him go; and Ren gasped as it practically popped out. She smiled as she let her grip on him go, and he relaxed.
+
+“Your body didn't want to let me go.” Ren said, and Elise shook her head. She stepped back, knelt, and kissed him.
+
+“I didn't want to, either.” She said, and glanced down. “How long with it stay like that?”
+
+“It depends on how long I use it.” Ren said, and her eyes widened as she looked at him.
+
+“You're kidd... no, you're not kidding.”
+
+He shook his head. “Let's get cleaned up.”
+
+Elise nodded, and cleaned herself and him up, put both of their clothes back into place, and opened the bathroom door. No one was in the room, so they went to the bed and climbed back onto it. Elise laid back like she had been before, and Ren sat up on the bed beside her. They were now back in the same positions they had been in before going to the bathroom.
+
+“Do you think they'll notice we did anything?” Elise asked him seriously.
+
+“They know we did something already.” Ren said and grinned. “I'll leave the details to their imaginations, though.”
+
+Elise laughed, and he bent over to give her a kiss.

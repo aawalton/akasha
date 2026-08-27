@@ -1,0 +1,293 @@
+---
+id: f4bf4349-5e9c-5e6a-8e33-569acece2a56
+page-type-slug: story-chapter-royal-road
+title: "Chapter 484 - Different Views"
+slug: 0484-chapter-484-different-views
+partOf: mythrans-master-of-all-continued-completed
+position: 484
+ownLength: 3299
+unit: words
+publishedAt: 2018-01-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187217/chapter-484-different-views"
+royalRoadId: "187217"
+---
+
+“No.” One of the programmers at Sid Tec said, as he watched a colossal cow jump down into the manufactured ghoul horde. “No no no no no!”
+
+“Aw, he's cleaning them out again.” Another one said. The small pool of programmers had gathered again in the viewing room to watch the saved video file from the last major battle at a walled High Elven city.
+
+“I worked so hard to change those numbers!” The first programmer said. “A bit of a tweak here, add in a minus sign there...” He sighed. “That was such a big horde!”
+
+“At least we got to see the start of a nice battle.” One of them joked. “Try loading one of the town files.”
+
+The programmer brought up the next file and started it, and the group watched as the small ghoul horde easily overran the weak defenses of the town's guards. Only a small percentage of the population was killed outright as food, and the rest were converted.
+
+“Holy crap.” One of the other programmers said. “What did you do?”
+
+The first programmer smiled. “I switched the conversion and kill modifiers.”
+
+“Are you serious?”
+
+“Don't worry, it's set for the High Elven Kingdom only.” The first programmer said. “It thins down the population to make them be on a more even footing with the Dark Elves... and I can't wait for that epic battle... and if the ghouls attack anyone else, the old numbers are still in effect.”
+
+“What about players in the High Elven Kingdom?” The other programmer asked. “You know the boss said that no players are to be infected.”
+
+“There's no immunity to it, so the players just get sick and die.” The first programmer said. “We've only had a few die so far, though.”
+
+A couple of the others shook their heads. “You were supposed to take out that mechanic, not change it.”
+
+“I tried, but it wouldn't work.” The first programmer sighed. “The test games kept crashing, because it couldn't figure out why it wasn't infecting everyone like it was supposed to.”
+
+“That's messed up.”
+
+“Hey, I had all this in the update memos I sent out after each build.” The first programmer said.
+
+“Ha ha!” Another one said. “We don't have the time to read your pages long memos! We have work to do!”
+
+“You don't read them?” The first programmer said, dejectedly.
+
+“It's good for record keeping.” One of them said. “Other than that, I skim them to look at your changes. I don't need a detailed explanation.”
+
+The first programmer brought up the next file, and the next. They came out the same as the other towns that were overrun.
+
+“This is getting boring.” One of the others said.
+
+“Look, I timed this perfectly.” The first programmer said and opened up the latest file from the game. “The horde should be all assembled in the underground staging area by now.”
+
+The television screen changed from a file access window to show the massive horde of ghouls in a cavern. Their slathering jaws and rending claws were overshadowed by their incessant screeching, and a few small dominance fights were happening.
+
+“There, see? Another big battle is about to happen.” The first programmer said. “Once they reach a certain amount, they come out and attack the high priority cities.”
+
+They watched as the small fights ended, and then the whole mass started to move as one. In the next instant, the top of the cavern was opened up and peeled back as if by magic, and a colossal cow jumped down into the middle of the horde.
+
+“NO!” The first programmer shouted and grabbed the keyboard. He typed quickly on it and brought up the date and time stamp on the file, and saw the battle had already happened. “Dammit! He did it again!”
+
+“I'd say better luck next time; but, you know he's not going to stop.” One of the other programmers said. “He's got a hard on for wiping them out.”
+
+“He sure does.” Another said. “Not only does he fight the masses, he hunts down their nests, too.”
+
+“No! I won't let him ruin another event!” The first programmer said.
+
+“You can't do anything against him.” One of the others said. “Boss' boss direct order.”
+
+The first programmer sat there with his fingers on the keyboard. His fingers itched to do something about the guy wrecking everything he had set up.
+
+“You do realize we've messed with his character a lot so far, right?” The other one said. “I am actually surprised he hasn't sued us so we would leave him alone.”
+
+“That wasn't all our fault.” Another said.
+
+“It doesn't matter.”
+
+“But if he keeps going, there won't be a battle between the ghouls and the Human Kingdom.” The first programmer said. “Players won't be recruited to join the massive army that would be needed to fight the undead horde, and they are going to miss out on the largest army battle in gaming history!”
+
+“Does anyone else think we're going a bit too far with this?” One of the others said, and everyone looked at him. “It's a living and evolving game world, and it was set up that way.” He said. “The more players interact with the environment, the more it changes.”
+
+No one said anything, so he continued.
+
+“Don't get me wrong. I don't mind changing things a little, or introducing twists the players don't expect.” He said. “That keeps the game interesting and stops it from becoming stagnant.” He sighed. “But this last little while, we haven't been doing that.” He looked at the others. “What we've been doing is specifically targeting this one guy, and changing our plans around the things that he does.”
+
+Everyone remained quiet as they thought about it.
+
+“Why don't we give him a break... or better yet, just leave him alone?” He asked and looked at the first programmer. “I suggest that you put the odds back to their original settings for the High Elves, and let things play out normally.”
+
+“That's just it.” The first programmer said. “They won't play out normally! This guy can just run over everything and destroy all of our hard work!”
+
+“Is that what he's doing?” Another asked. “If you look at it objectively, all he's trying to do is save people.”
+
+The first programmer rolled his eyes. “They aren't people yet, just bits of data.”
+
+“Someone's prejudice is showing.” Someone commented, and a few people chuckled.
+
+“Look, a lot of them aren't even rendered until the ghoul code touches them! They don't even exist until then!” The first programmer said. “All they are is potential ghouls.”
+
+“They are a playable race, thanks to this world event.” One of the others said. “No one's signed up for it yet; but, it's only a matter of time.”
+
+“Most players that are already in, don't want to restart as another race.” The first programmer said. “It's only going to be new players that are going to take that option.”
+
+“Don't worry about that.” Someone else said. “All we have to do is keep this boat afloat.”
+
+“Are...are we really going to just ignore this guy wrecking everything?” The first programmer asked as the next file played automatically and showed ghoul nests being exterminated. “If this keeps up, all that will be left are the ghoul scouting parties.”
+
+“Since most of them have already moved into the Human Kingdom, the main quests have already started being given out to players.” One of them said. “Not to mention the hundreds of side quests for disappearances.”
+
+“Now that was a stroke of genius on my part.” Another said. “It introduces the players to the danger, and shows them what to expect.” He said and smiled. “There's no way a single person can do all of them, either.”
+
+“Okay, I have to agree there.” The first programmer said. “That was a good idea.”
+
+The guy who had that idea stood up and pat the first programmer on the shoulder. “It's getting late, so let's head home.”
+
+“Yeah.” The first programmer said and turned off the television. “I need sleep, and I need to not watch the ghouls get gutted again.”
+
+The guy laughed. “No matter how big and bad someone is, there's still only so much that one person can do.”
+
+“You're preaching to the choir again.” The first programmer said, and everyone laughed as they left the viewing room and turned off the lights.
+
+*
+
+Ren and his group had just finished off their half of the ghoul nests, and went back to the meeting point to wait for Elerlyth and Princess. He dismissed the Illusion around Zetaya and used the Permanent Enlarge and Reduce wand to shrink the fire elemental back down to a manageable size. When he saw that the fire elemental was closer to 7 feet tall now, he whistled.
+
+“Look at you.” Ren said and gave the fire elemental a hug. “The more fuel you consume, the bigger you get!”
+
+Zetaya let the sound of a crackling fire out, and Ren let it go and tickled it's underside.
+
+“Tickle attack!” Ren said and Zetaya squirmed and twisted; but, didn't fight back or try to run away. He stopped tickling the fire elemental and pet it instead, and the crackling fire died down and was replaced by a low hum. “Thank you for doing all of this for me.”
+
+Zetaya put it's arm stubs around him to give him a hug. The fire elemental's head stub poked the top of Ren's head several times, and then it let him go.
+
+“I better check the All-Seeing Mirror again for the others.” Ren said, and took out the mirror and asked it for Elerlyth's and Princess' location. He had checked the All-Seeing Mirror constantly to check on their progress, and now he saw that they were still working on clearing out the last nest.
+
+“They're going to be a few more minutes.” Ren said and stored the mirror.
+
+“You should check on Yllana.” Artemis said, and Ren glanced at her. “It's getting late in the day, so... there's a good chance...”
+
+Ren chuckled as he took the mirror back out and asked it to look in on Yllana Arthion, even though he thought it was a bit of a misuse of it's power. Sure enough, the elfling was laying in bed, the covers half off, and one breast and part of her womanhood was peeking out.
+
+“Wow.” Ren said as he marvelled at how erotic she looked. “I really shouldn't be doing this.”
+
+“She wanted you to.” Artemis said, and then the image of the elfling moved. Ren stared as Yllana pleasured herself. There wasn't any sound; but, since he had heard her making those sounds before, he could easily imagine the sounds she was making now.
+
+Ren felt Elerlyth and Princess enter his Aura, so he stored the mirror and took out his shop tower. Etheria and Princess landed in front of him, and he looked at Elerlyth.
+
+“I need you.” Ren said and opened the door to his tower. Elerlyth could feel his desire, and it sparked her own.
+
+“Ren, what...”
+
+“Right now.” Ren said and reached a hand out for her. She took it, and he pulled her off of her Phantom Steed, caught her in his arms, and ran up the stairs. He tossed her on the bed, and they both stored their clothing.
+
+“What's gotten into you?” Elerlyth asked Ren as he took off the Dire Wolf Hooded Cloak and hung it on a chair he took out of inventory. Ren smiled and took the All-Seeing Mirror out and asked it to show him Yllana, and put it on the bed. Elerlyth rolled over to look at the elfling pleasing herself, and then she gasped as Ren joined with her.
+
+“Oh, GOD!” Elerlyth yelled as Ren has his way with her, and they both watched Yllana in the mirror.
+
+“She's doing that for me.” Ren whispered in Elerlyth's ear and then bit it.
+
+“AHHH!” Elerlyth screamed as she finished. She was breathing heavily already, and they had just barely started. “R-Ren... god...”
+
+“She likes being watched.” Ren said and turned Elerlyth onto her side so she could still see the mirror and Yllana's image. “I promised to look in on her at random times, and when I saw this...”
+
+“It... it turned you on.” Elerlyth said and he entered her again. “Oh!”
+
+“She knows I can't have sex with her, and she's okay with that.” Ren said and started to move again. “With you here, I won't waste the opportunity this presents.”
+
+“Wh-what opportunity?” Elerlyth asked, and tried to keep her wits about her as Ren pleased her.
+
+“To show you that it's okay if someone sees us.” Ren said and doubled his speed. He had noticed Yllana's hand movements had sped up, and he matched them.
+
+“R-R-Ren! S-slow d-down!” Elerlyth said through her moans.
+
+“No way.” Ren said and kept an eye on Yllana. “I'm going to finish when she does.”
+
+“B-b-but... I... I can't...”
+
+“There's a reason I'm doing this.” Ren said and went faster when Yllana did.
+
+“Oh... oh.... oh...” Elerlyth moaned.
+
+Ren leaned down as he kept moving, and Elerlyth gasped from the pressure he was exerting on her. “You see, I'm going to tell Yllana what I'm doing to you, while she's doing that for me.”
+
+“OH GODDDDDDDD!” Elerlyth hollered as she finished, Yllana's image bucked and shook as she finished, and then Ren finished. He stayed that way for several moments, then eased back into an upright position, pulled out, and laid down behind Elerlyth.
+
+“I... I can't believe... you... you just... did that to me.” Elerlyth panted.
+
+“Me, either.” Ren said; but, he could feel how much she had liked it. “That was... well, I've never done anything like that before.” He said and knew she could feel that he liked it as well, and looked down at himself. “Damn, I better log out and check that I didn't just make a gigantic mess of myself.”
+
+Elerlyth chuckled at the thought and nodded.
+
+“Logout.” Ren said, and his avatar changed from solid to it's phantom form. Elerlyth looked at the All-Seeing Mirror and the elfling there used a cloth to wipe herself, then stored it. She didn't pull the blanket up to cover herself, though.
+
+She really is letting him see her on purpose. Elerlyth thought. There's no reason to be there like that, otherwise.
+
+Ren was back 12 minutes later. “That was a close one.” He said. “I have to message the company and thank them for their superb quality products.”
+
+Elerlyth laughed and shook her head. “You should buy stock in the company, considering how much you use their product.”
+
+“I did... or, I should say Elise did.” Ren said. “It was in the portfolio of stocks and bonds she gave me.”
+
+“You're kidding!” Elerlyth turned to him. “I was making a joke.”
+
+“I know you were.” Ren said and reached over her, dismissed Yllana's image from the All-Seeing Mirror, and stored it. “It's true, though.”
+
+“Wow.” Elerlyth turned back and went quiet.
+
+“What is it?” Ren asked.
+
+“Nothing.”
+
+“I can feel your emotions, you know.” Ren said. “That lie almost hurt.”
+
+“All right, fine.” Elerlyth said. “You're rich and I'm practically dirt poor.”
+
+“Do you mean in here, or in real life?”
+
+“Both.” Elerlyth sighed. “I figured I could at least get close to you in here, but out there?” She shook her head.
+
+“You've been on the payroll for how long now?” Ren asked. “Shouldn't you be getting another check soon?”
+
+Elerlyth didn't say anything, and Ren sighed.
+
+“Don't tell me you spent it already.”
+
+“No, of course not.” Elerlyth said. “The problem is, I... I don't want to spend it.”
+
+Ren smiled as he moved her black hair out of the way and kissed the back of her neck. “You've been so frugal all your life, you don't know how to splurge?”
+
+“I bought some new circuit boards, and a few chips to test out.” Elerlyth said.
+
+“That doesn't count.” Ren said. “Give the receipts to Stella and she'll add it to the budget and reimburse you.”
+
+“But...”
+
+“No buts.” Ren said and used a hand to grab hers.
+
+“Hey!” Elerlyth said and rolled over, to see a huge smile on his face. “I thought you said I had a great butt!”
+
+“It's absolutely wonderful.” Ren said as he grabbed it with both hands and rolled onto his back to put her on top. “Now sit up and turn around so I can enjoy watching it while you have fun.”
+
+Elerlyth laughed and sat up, which pressed her private part onto Ren's private part, then she turned around to face away from him and sat back down onto him.
+
+“Like this you mean?” Elerlyth asked and looked back at him over her shoulder.
+
+“Up on your knees a little.” Ren said, and she moved up and he positioned himself. “Okay, sit.”
+
+Elerlyth moaned as they joined again, and it felt much sharper this time. “Oh, god.”
+
+“Have fun.” Ren said. When she didn't start to move, he grabbed her hips and started moving her up and down himself.
+
+“N-no, wait!” Elerlyth said. “I wanted to... to feel... oh, god... oh, god... oh god!” She couldn't think anymore and lost herself to the sensations. It took about 20 minutes before she collapsed onto the bed beside him, completely spent. She had felt so good that nothing else had entered her mind while they were going at it.
+
+“Did you have fun?” Ren asked, and she nodded several times. “In real life, I can't lift you like that.” He said, and she put a hand on his chest, and tenderly caressed it. “Other than that, it's almost the same.”
+
+“A-almost?” Elerlyth asked.
+
+“It takes a heck of a lot longer to clean up afterwards.” Ren said, and she laughed.
+
+“Can you imagine having a storage system like an inventory in real life?” Elerlyth asked. “The cleaning industry would almost completely die out overnight!”
+
+Ren chuckled. “That would be a tragedy, especially since it would remove the fun of showering together.”
+
+“Even after having fun in bed?”
+
+“I usually have to sit down in the shower, and that puts me at the right height for... you know.”
+
+“Yeah, your favorite thing.”
+
+“Hey, I can't help it.” Ren said. “The look of it. The feel of it.” He smiled. “Even the taste.”
+
+Elerlyth chuckled. “I don't know why you like it so much.”
+
+“Once I discovered the joy of it, I just can't get enough of it.”
+
+Eerlyth frowned. “You didn't do it at all tonight.”
+
+“That's because this wasn't for me.” Ren said and moved her hand from his chest and sat up. “Get dressed, and let's go find that stupid ass that nearly drained you.”
+
+“Ren, I... I want you to...”
+
+“We don't have time for me to indulge like that.” Ren said as he stood up and equipped his platinum armor. “You know I would camp out and just stay there for hours if you'd let me.” He grinned and put on the Dire Wolf Hooded Cloak and stored the chair. “Right now, though... we're in the High Elven Kingdom, and I would bet my left nut there's a doorway to the Underworld close by.”
+
+Elerlyth snorted a laugh as she stood up and equipped her bodysuit and armor. “Your left nut?”
+
+“I like the right one more.” Ren joked, and she laughed.
+
+“I don't want you to bet either one.” Elerlyth said and touched his cheek. “I haven't used them as much as I want, yet.”
+
+Ren smiled and led her downstairs to the door, and they left the tower on a mission.

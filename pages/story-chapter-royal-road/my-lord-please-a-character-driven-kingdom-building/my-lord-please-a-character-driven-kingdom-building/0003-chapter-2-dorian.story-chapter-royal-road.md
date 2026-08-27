@@ -1,0 +1,223 @@
+---
+id: ca0a0d3b-da0c-551d-b96f-4ae2e892486e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 Dorian"
+slug: 0003-chapter-2-dorian
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 3
+ownLength: 2045
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191537/chapter-2-dorian"
+royalRoadId: "3191537"
+---
+
+Lucien could not afford to delay any longer.
+
+The word winter lingered in his thoughts like a threat left half-spoken. Each time his mind drifted, the pages he had read forced their way back in. Clawed silhouettes. Splintered palisades. Villages erased until only scorched earth remained.
+
+By the time his meeting with Elias drew to a close, the day had already slipped toward late noon. The sun hung low, pouring orange light through the study windows and bathing the room in dusk hues that should have offered comfort.
+
+They offered none.
+
+Autumn’s chill seeped through the stone and timber alike, and the promise of winter pressed in from every corner of Lucien’s thoughts. It settled in his chest, tight and unyielding, feeding the low thrum of panic he had been carefully ignoring since this morning.
+
+This body did not belong to him.
+
+This world wasn’t his own.
+
+And the consequences waiting beyond the season’s turn were far larger than anything he had ever been prepared to face.
+
+Before he could lapse into the familiar refuge of delay and rationalization, Lucien forced himself forward. He straightened, drawing on borrowed authority and donning his lordly bearing like an ill-fitting skin he had no choice but to wear.
+
+“Summon Dorian” he ordered Elias curtly. “I wish to speak with him. Immediately.”
+
+Elias inclined his head without comment and withdrew, leaving Lucien alone with the fading light, the quiet study and the knowledge that winter was no longer a mere environmental problem.
+
+In this world, winter came bearing teeth.
+
+Lucien stood quietly by the study window, his arms folded behind his back as he watched the distant movement of the settlement below. From this height, he could see villagers moving with purpose, his subjects making their final preparations for the coming season.
+
+The Autumn levy being collected had not marked the end of their labour, he realized. There was always more to be done, more to secure, and still more to brace for should any of those preparations fail.
+
+‘Was it fear that drove them,’ he wondered. Or were they simply accustomed to it, hardened by repetition, moving forward on instinct and endurance alone.
+
+The thought sat uneasily with him.
+
+A knock sounded before his mind could spiral any further.
+
+“Enter.”
+
+The door opened without hesitation.
+
+Dorian stepped into the room, his gaze fixed forward. At once, Lucien sensed the difference between the entrance of a servant and that of a soldier. His movements were precise and economical, intent carried cleanly into action.
+
+At this distance, the man appeared even more imposing. His broad shoulders strained slightly against well-polished plate armour. The metal was carefully maintained, yet bore the subtle marks of age and use, dulled edges and faint scars earned over time.
+
+‘Perhaps not time alone,’ Lucien noted grimly, ‘but by the chaos of battle.’
+
+Dorian’s posture was rigid and disciplined, the stance of someone who had learned early that relaxation invited death. It stood in stark contrast to Elias’s formal bearing, which spoke of etiquette, ritual, and the orderly traditions of nobility.
+
+“My Lord.” Dorian said, dropping to one knee at what was clearly an established distance. His bright blue eyes remained lowered, as though meeting his lord’s gaze unbidden would be improper.
+
+Lucien had no idea what constituted the proper distance.
+
+‘Was this expected, or was it Dorian alone who observed such formality?’
+
+He pushed the uncertainty aside, keeping his expression neutral, determined not to reveal how out of depth he truly felt.
+
+“At ease.” Lucien said calmly, lifting a hand. “And stand. This is not a court audience.”
+
+The words came a little more easily now, the tone of authority settling over him like a mantle he was still learning to wear.
+
+Dorian rose at once, tucking his helm beneath one arm. His eyes remained forward, though slightly lowered, attentive yet guarded.
+
+Lucien studied him in silence.
+
+Without the chaos of his sudden arrival in this world pressing at his senses, he could finally observe the man before him properly, not merely as a loyal guard captain but as an individual.
+
+Up close, Dorian was not as young as Lucien had initially assumed. Fine lines marked the corners of his eyes, and faint scars traced his jaw and neck, half concealed beneath rough stubble.
+
+This was no vain bodybuilder sculpting his body for frivolous reasons to gain the admiration of women.
+
+The man before him had not trained for display, nor for idle vanity. He had trained because survival demanded it, in a profession where most men rarely lived long enough to grow old and grey.
+
+Perhaps it was only now beginning to sink in. Lucien wondered if this was the kind of world that shaped men like him.
+
+“You were eager to carry out the execution this morning.” Lucien said at last.
+
+Dorian did not flinch at the sudden statement. “Yes, My Lord.”
+
+“No hesitation at all?” Lucien pressed lightly.
+
+“No.” Dorian replied, his voice even, betraying nothing of his inner thoughts.
+
+“Why?” Lucien asked, the word sharpened, his eyes narrowing slightly.
+
+“Because hesitation kills,” Dorian answered without pause. After a heartbeat, he continued, as if recognizing that more was required. “And because mercy is a luxury we cannot afford.”
+
+There it was. An opening he could make use of.
+
+Another chance to observe how a man of this world thought and endured, not through the eyes of a noble’s servant like Elias, but through a soldier who lived closer to the edge of it.
+
+Lucien exhaled slowly, keeping his expression neutral, careful to appear like a lord seeking understanding rather than a man grasping for context he did not possess.
+
+“Explain.”
+
+Dorian hesitated then, but only briefly. It did not feel like fear. More like restraint. A sense of deliberation. Lucien wondered why.
+
+“The Season of Beasts draws near,” Dorian said carefully, his tone measured, as though gauging whether such bluntness would earn rebuke.
+
+“The Beast Tithes tend to begin before the first snowfall. They always do. When they come, every able body matters. Every sack of grain counts. Disorder spreads faster than fear.”
+
+“And killing a farmer helps with that?” Lucien asked. He could not see how executing a man the villagers might well love would strengthen anything.
+
+“It reminds the rest that order still exists.” Dorian replied flatly. “That the Lord’s law is not weakened by sympathy or perceived weakness.”
+
+Lucien frowned, his modern instincts recoiling even as he forced himself to listen.
+
+“You believe Bran’s death would have strengthened us,” he said, phrasing it as a question rather than a challenge.
+
+“I believe it would have prevented others from doing the same,” Dorian answered flatly. “Desperation spreads. If one man forces his way into the manor and lives, others will follow. Then we face more than beasts.” he continued, leaving the implied meaning of his words unsaid.
+
+The implication was clear. Lucien had made a mistake by sparing Bran.
+
+He did not, perhaps even could not, chastise Dorian for it. He had no desire to posture or moralize with his own misguided views that were so ill suited to a foreign world like this. Instead, he studied the man again, more carefully this time.
+
+“You’ve seen the Tithes before.” he guessed.
+
+Dorian’s jaw tightened, the first crack in his composure since the conversation began.
+
+“Three times,” he said. “This year will be the fourth.”
+
+That alone explained much about the events this morning.
+
+Elias had counselled restraint, but that same Elias had lived most of his life in the capital, far from the frontier's bloodshed of winter.
+
+He had served Lucien’s family since childhood, but he had not stood upon a wall while beasts clawed their way through it. It was likely the steward had no more personal experience with Beast Tithes than Lucien himself.
+
+“The first,” Dorian continued, unprompted, “I was stationed at a watchtower in another village, further east. A smaller settlement than this, with fewer people. They believed a short wooden palisade would be enough.”
+
+His voice remained calm, though something darker stirred beneath it. “It was not.”
+
+Lucien said nothing. Perhaps it would be more accurate to say he could not. He was unaccustomed even to thinking about violence like this, let alone hearing it recounted so plainly.
+
+“The second time,” Dorian went on, as though recounting the weather, “We had better walls, taller. A better trained militia. Still, we lost a third of them. Including my older brother.”
+
+An uncomfortable silence stretched between them.
+
+“And the third?” Lucien asked quietly, uncertain whether he wanted the answer.
+
+Dorian lifted his gaze then, meeting Lucien’s eyes for the first time since the conversation had begun. Until now, his attention had remained fixed just below, respectful and distant, but in this moment he looked directly at his lord.
+
+“The third time, we were prepared,” he said. “Harsh. Efficient. No mercy for miscreants. No tolerance for unrest.”
+
+He held Lucien’s gaze as he finished, his tone flat as ever. “We lost fewer people in the end.”
+
+Lucien felt the weight of those words settle heavily over him. Once again, the implication of this morning’s decision returned.
+
+His decision had been made in haste, with good intentions perhaps, but the world cared little for intentions. Only outcomes.
+
+Responsibility settled on his shoulders with a heaviness he had never known before.
+
+Whatever nobles elsewhere believed or practiced, this was his burden now.
+
+He was not much of a fan of it, quite frankly.
+
+“So you believe fear saves lives.” Lucien said at last, breaking the silence before it grew too heavy, pushing his own spiraling thoughts aside in favor of matters that could not wait.
+
+“I believe fear keeps people where they belong.” Dorian answered. “Alive.”
+
+Lucien turned back toward the study's window.
+
+Below them, the village looked almost peaceful. The sun dipped lower, shadows stretching as mothers called their children home. A tavern opened its doors, laughter spilling into the street as men celebrated the end of the day’s labour.
+
+A cart creaked along the road. Someone laughed.
+
+“How many guards do we have?” Lucien finally asked, tone low.
+
+“Your household guard number five, myself included,” Dorian replied. “Ashridge itself has twenty-five fit for duty. Another eight can fight if pressed, though their training is poor.”
+
+Ashridge
+
+At last, the name of the place he was meant to rule. Grim and fitting.
+
+“As for the militia.” Dorian continued, “we can muster roughly sixty able bodied men. Most are farmers. Their hands are more accustomed to tools than spears.”
+
+Lucien nodded slowly. There was still so much he did not know. Was what they had enough? Could he even ask without appearing to be too suspicious?
+
+“And what of the town's morale?” He questioned instead, filing the task away for later. There was already too much to do, and this was only his first day.
+
+Dorian hesitated. “Uncertain.”
+
+Lucien turned slightly, glancing back at him. “Meaning?”
+
+“The villagers are watching you closely.” Dorian said. “Today’s decision will be discussed. Some will call it mercy. Others will call it weakness.”
+
+“And you?” Lucien's eyes narrowed slightly, his tone carefully neutral.
+
+Dorian considered him for a long moment. “I believe,” he said carefully, “that if mercy is followed by preparation, it may yet save us.”
+
+Lucien exhaled, already bracing himself for what seemed to be a long night for his first day here.
+
+“Then that is what we will do,” he replied. “Prepare. Bring me a map of the local area, I believe it is time I learn about the area around...Ashridge.” A slight pause at the name, as if testing it for the first time.
+
+“At once, my Lord.”
+
+As the man turned to leave, Lucien spoke again.
+
+“And Dorian?”
+
+The captain paused at the door.
+
+“Sparing Bran from his execution.” Lucien said slowly, unused to the word, “you followed my command without hesitation.”
+
+Dorian inclined his head. “It is my duty.”
+
+Lucien nodded. “Good. But understand this. I will not rule through fear alone.”
+
+Dorian held his gaze, then bowed. “Then I will ensure your mercy does not get us killed.”
+
+The door closed behind him.
+
+Lucien remained by the window, watching the village settle beneath the darkening sky as the air began to carry the bite of the coming cold.

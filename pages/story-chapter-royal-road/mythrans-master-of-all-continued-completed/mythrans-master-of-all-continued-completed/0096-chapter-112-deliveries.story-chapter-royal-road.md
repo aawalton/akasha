@@ -1,0 +1,579 @@
+---
+id: 9993d373-9c49-57d4-8b9d-6ea8d815dc17
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112 - Deliveries"
+slug: 0096-chapter-112-deliveries
+partOf: mythrans-master-of-all-continued-completed
+position: 96
+ownLength: 5780
+unit: words
+publishedAt: 2016-12-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107222/chapter-112-deliveries"
+royalRoadId: "107222"
+---
+
+Is that vanilla I smell? Ren opened his eyes and saw his face was nestled into a mass of brown hair. He took a deep inhale through his nose. Yeah, definitely vanilla.
+
+Nathalia tensed up slightly and Ren smiled.
+
+“Sorry, I didn't mean to wake you. I just smelled something really good and had to take a deep breath.” Ren said. “I couldn't help myself; and before you ask... yes, I meant you.”
+
+He saw that Nathalia still had a hold of his arm, and when he tried to take his arm away, she held on tightly.
+
+“Just a few more minutes.” She said softly, and Ren smiled.
+
+Teepo, how much time left?
+
+“About 10 minutes.”
+
+Thanks. Ren thought, then cuddled in a little tighter. They both took a breath and exhaled together.
+
+*
+
+“They still aren't up.” Narhilda said, perplexed. She'd had breakfast ready for nearly an hour now, and Ren usually came running long before this. “I'm tempted to go in there and drag them out of bed, but Nathalia made it perfectly clear that I wasn't allowed to do that.” Narhilda snorted a laugh. “Imagine, not being allowed to do something in my own house.”
+
+*
+
+Barnar and his workers had all the carts loaded up and ready to go. “This is going to be fun!” He said, and the workers cheered. “Let's go!”
+
+*
+
+The female dwarf running the stables had worked all night to get all 6 carts ready for work. The drivers had readily agreed to do some shoveling, once they found out that it was extra pay. She had found 2 extra workers for each cart, too. Once word had gotten out that she needed workers to shovel, and that they didn't have to show up until after breakfast and could leave early for supper, they practically begged her for spots on the carts. Shoveling was easy money, apparently.
+
+*
+
+The lumber yard was scrambling to finish filling the carts they had to deliver the 1,000 planks of lumber to House Neram.
+
+“They're not all going to fit, Ma'am.” The foreman said to the receptionist. She rolled her eyes at him and then smiled.
+
+“Send them in a train. Spread them out so that it looks like there's a constant flow of carts. When the first one comes back, fill it, and send it out again.”
+
+“That's a great idea!” The foreman said. “I guess that's why you run the place, Ma'am.”
+
+*
+
+The caravan of carts delivering ore to various businesses and Houses left the mines in a single row. The eighth one was tasked to House Neram, with it's quota of a quarter ton of ore.
+
+*
+
+“Time's up.” Teepo said and crawled over to the door. “Everything should be coming soon.”
+
+Thanks, Teepo. Ren thought and shifted away from Nathalia a little.
+
+“Just a little longer.” She said, and Ren chuckled.
+
+“I'd love to stay in here all day with you, Nathalia...” He said as he rolled her onto her back, and she kept a hold of his arm. “...but I've got a lot of work to do.”
+
+Nathalia sighed. “I know. I just...”
+
+Ren leaned in and kissed her. She let his arm go and put her hands on the sides of his face. Ren gently slid a hand up along her side and stopped when his thumb rested along the underside of her breast. Nathalia took in a quick breath and Ren broke the kiss.
+
+“I really would like to stay here, but I can hear a pile of carts already at the gate.” Ren started to move away and Nathalia grabbed the hand that had almost cupped her breast, lifted it, and placed it on top. Ren's eyes widened as he felt how happy she was that he was touching her. She closed her eyes as he moved his hand slightly from side to side, and kneaded her breast with his fingers. Nathalia took in another breath and arched her back. It pushed her chest into his hand and Ren smiled. He let her breast go a moment later, and cupped the side of her face. She opened her eyes and he gave her a quick kiss.
+
+“Okay, now I really have to go.” Ren said, stood up, and glanced down at himself. It was Nathalia's turn for her eyes to widen, as she saw how happy Ren was that she'd let him touch her. A loud bang of metal on wood resounded through the house.
+
+“I'll get it!” Ren shouted and then he bowed to Nathalia. “My Lady.” He quickly turned and left the room to go and answer the gate. Teepo dropped into his hood as he passed.
+
+*
+
+“Oh... my...” Nathalia whispered, then curled into a ball and shivered with anticipation.
+
+*
+
+Ren ran through the hallway and the main room, into the kitchen. “Sorry, My Lady, we over-slept.”
+
+“Over-slept. Uh huh.” Narhilda laughed.
+
+Ren smiled, took her hand and bent over it. “Thank you for making breakfast. I'll be in soon to grab a bite to eat.”
+
+Ren ran through the main room and out the front door. He stopped in the courtyard and put a hand near the hood of his cloak. Teepo.
+
+Teepo climbed onto his hand and Ren tossed him up into the air, about 15 feet.
+
+“It looks like it's mostly Barnar's group.” Teepo said as Ren caught him. “Toss me again.” Ren threw him a little higher this time and Teepo confirmed it was Barnar's group, and that there were more carts coming, several miles down the road.
+
+Thanks, Teepo.
+
+“Anytime. That was kinda fun, actually.” Teepo chittered in laughter.
+
+Ren smiled and opened the gate. “Barnar! You're here bright and early.”
+
+Barnar clapped Ren on the shoulder and grinned. “You've inspired me, Ren. I've got to get these horrible walls fixed!”
+
+“I tried to warn you.” Ren chuckled. “You can set up your workspace right over here.” Ren said and pointed to a good sized area just off the road. Barnar told his workers where to set things up and turned back to Ren.
+
+“Where do you want your bricks?” Barnar asked.
+
+“I'm going to make a spot out back.” Ren said. “I need extra room, more than I could get inside the Keep. It would be safer if I did it above ground, too.”
+
+“What are you doing?”
+
+“Making several forges.”
+
+“Yes, definitely better to do that out here.” He said. “Where do I send the cart?”
+
+Ren walked over to the side of the walled off house and pointed. “About a hundred feet behind the house.”
+
+Barnar looked at the uneven ground. “I don't think so, my friend.”
+
+Ren looked down as well. “Oh, right! I needed to make a path.” He said and took out his hammerpick.
+
+“What the hell is that?” Barnar asked, and stared at it.
+
+“This? It's my Great Earthshaking Hammerpick of Reaping.”
+
+“That's it's name? What does it do?”
+
+“I've only ever used the hammer part to squish things.” Ren smiled. “It's about time that I used the other end.” He walked over to the road and picked a good spot, let the system draw a straight line to where he wanted to go, then jammed the sharp end of the hammerpick into the ground. “Be right back.” Ren said and started to run.
+
+“By the gods!” Barnar exclaimed as Ren dragged the hammerpick through the dirt and tore up about 6 inches of it. Ren ran about the length of a football field, turned around and ran back. The earth parted for the hammerpick like it was water, and Ren ran back and forth for about 5 minutes. He stopped and looked at the 10 foot wide dug up path that he'd made.
+
+“How in the world... no, don't tell me.” Barnar said. “You made that, didn't you?” He pointed to the hammerpick.
+
+“Yep.” Ren responded.
+
+“You've made it worse with all the churned up dirt, though.” Barnar shook his head. “It would have been difficult with the uneven ground, but with all that mulched up, the cart will never get through.”
+
+“I was just making the path.” Ren grinned, stored the hammerpick, and took out a shovel. “Now I've got to clean it.” It took another 10 minutes, and Ren had all the loose dirt shoved to the sides and left a nice and flat dirt path. Ren got to the end and waved.
+
+“Damn, that is a nice path.” Barnar said and waved the cart and pony forward. It easily went down the improvised road and dropped off the 200 stone bricks that Ren had ordered. It had plenty of room to turn around and came back with Ren right behind it.
+
+“Your crew are almost set up.” Ren said. “I can't wait to see what the outer wall is going to look like when you're finished.”
+
+“You're not sticking around to help?” Barnar asked.
+
+“I'd like to, but there's too much other stuff going on.” Ren turned at the sound of another round of carts coming. “Speaking of which...”
+
+The carts were from House Longore and were full of the paving stones Ren had ordered.
+
+“Perfect timing!” Ren said to the head cart and the driver smiled. “Go all the way to the end and unload, please.”
+
+The driver nodded and turned in to drive up the improvised road. The next cart pulled in, and Ren told them to go almost to the end and unload. He told each cart where to unload, and by the time the tenth (and last) cart was in front of him, he helped them unload right there by the roadside. The first cart finished and came down the road. Ren stood back and held out a silver coin to the driver.
+
+“Thank you for the extra work of unloading.” He said and the driver's eyes widened, then took the coin. Ren repeated this for all the other drivers, even the one he'd helped. Each driver had wide eyes, but still took the coin anyways.
+
+“You know, you didn't have to pay them for unloading.” Barnar half-whispered, once the last driver had left.
+
+Ren smiled. “I know, but when I order more things, they'll be the first to come when I call.”
+
+Barnar smiled, too. “You've always got your big brain thinking ahead, huh?”
+
+“I try to.” Ren said. “I still forget things, though.” He looked over Barnar's shoulder and saw another group of 5 carts, widely spread apart, come up the road. “If my guess is right, I'll bet that's my lumber.”
+
+When the carts were close enough, Ren looked inside the first cart and saw that it really was the lumber. It looked to be about a hundred planks, and Ren told the driver to unload in the courtyard. He said the same thing to the driver of the second cart a minute later. A minute after that, the third cart came and Ren told it to go to the end of the improvised road. When the driver of the first cart finished unloading, he mounted up and rode away quickly.
+
+They must be going back for another load. Ren thought as the fourth cart came and he sent it down the road as well. The second driver mounted up and left, just as quickly as the first driver. He past the fifth driver about a hundred feet away from where Ren stood, and Ren told him to unload at the end of the road. As soon as the cart took the turn, Ren started to place the paving stones. Since they were exactly 1 foot across, 10 fit perfectly into the space he'd dug out.
+
+“Sweet!” Ren said and turned to Barnar. “When the lumber carts come back, can you send them down the road?”
+
+“Sure.”
+
+“Thanks.” Ren said and kept laying the paving stones. It was taking longer because he didn't have an open slot, and then Ren slapped himself on the forehead. He ran back to the house and took out the crest he'd made that first time with the mold, and hung it on the front gate. He put a couple of nails around it to stop it from sliding, and smiled. He ran back to the road and stored the stack of paving stones, then dropped one after the other in a row. He criss-crossed the road over and over, laying each row of paving stones. They interlocked, so he didn't even have to worry about using mortar or even packing them in with dirt. The work went much faster after that. He got about a hundred feet in and a different cart appeared. Ren dropped the last paving stone he had in inventory onto the road, and ran over to see who it was.
+
+“Someone rented carts and workers here?” The female driver asked.
+
+“I did.” Ren said.
+
+“So, what's the job?” She asked, looking around. “You've got lots of things going on here, but I don't see where 6 carts and 18 people shoveling would be needed.”
+
+Ren chuckled. “That's because I'm having stuff moved to here, not from here.”
+
+“Oh, that makes sense.” She said. “Where do we go?”
+
+“The mines.” Ren said. “I'll ride along for the first time, if that's okay?”
+
+“Sure.” She said. “Hop in.”
+
+“Can you hold on for a minute? I need to get my fiance out here.” Ren said and the driver nodded. He ran back inside the house and called for Nathalia. He made a few egg, bacon, and toast sandwiches and stored them into inventory. Ren went outside and gave one to Princess.
+
+“Sorry, I almost forgot to feed you.” Ren said, then went back inside to get Nathalia. She came out of the old bedroom a moment later and Ren told her what he wanted.
+
+“Ren, I don't have any idea what you're doing.” She said. “How can I direct people?”
+
+Ren smiled. “There's only a few carts of lumber coming, and a cart of iron ore. Just send them down the road.”
+
+“What road?”
+
+“The one I've got partially built beside the Keep.”
+
+“You... you built a road...”
+
+“It was the only way to get the silt from the mines to where I need it.”
+
+“Oh.”
+
+“I just have to go with the carts to the mines the first time, to show them where to dig, and then where to drop the silt off.”
+
+“Okay.” Nathalia said, then had a thought. “Why didn't you just use the ring to ask me to come out?”
+
+Ren smiled. “I forgot.” She snorted a laugh and her mother joined her. Ren took Nathalia's hand and switched his Camaraderie Aura to just Aura, and asked her to do the same.
+
+“Come on, I'll introduce you.” Her face flushed a little red and she nodded. They went out past the gate and stopped in front of Barnar. “Everyone...” Ren said and they all stopped working and turned to look at him. “I'd like to introduce the Princess of House Neram, and my fiance, Nathalia Neram.”
+
+A few of the workers clapped, and Barnar took Nathalia's hand and bent over it.
+
+“It's an Honor to meet you.” He said and straightened up, then leaned in close. “You know, your fiance is crazy.”
+
+Nathalia laughed. “Yes, it's part of his charm.”
+
+Barnar let her hand go and looked at Ren. “You caught yourself a good one, there.”
+
+“I'd like to say that I did, but she caught me, actually.” Ren laughed at Barnar's shocked face.
+
+“You don't mean?”
+
+Ren grinned. “Yes, she proposed to me.”
+
+Several tools and stones were dropped in the silence that followed Ren's words. Gasps were also heard, and workers quickly picked up the dropped tools.
+
+“She'll be in charge while I go on a short trip to the mines.” Ren said and turned to Nathalia. “I'll be back as soon as possible.” He said, stepped close, and gave her a kiss on the lips. Another tool was dropped, and then several oo's and ah's were heard, mostly from the 6 carts of married women. Ren broke the kiss, walked over to the lead cart, and climbed into the back.
+
+“Let's roll.” Ren said and the driver turned the cart around and galloped down the road. The other 5 carts followed them and they quickly disappeared from sight.
+
+*
+
+“You've got a special one there, Ma'am.” Barnar said to Nathalia.
+
+“I know.” She said and smiled. “I know.”
+
+*
+
+The cart Ren was in, took the corner and passed the cart of ore going to House Neram. There were 2 people in it and it was loaded with ore.
+
+“I just missed it.” Ren said, and about 5 minutes later, they arrived at the mine's gate. He hopped out and walked over to the guard.
+
+“Hi, again.” Ren said.
+
+“Good morning.” The guard said, then looked around. “Say, you don't happen to have...”
+
+Ren grinned and handed over one of the sandwiches he'd made and the guard opened the gate without even checking the carts.
+
+“They'll be coming and going a lot over the next few weeks.” Ren said. “Hopefully, we'll be out of your way as soon as possible.”
+
+The guard nodded and Ren hopped back into the cart, and directed them to the mountain of silt that was off to the side of the mines.
+
+“By the gods!” One of the women said. “We can't move that!”
+
+Ren had all the women get out of the carts and gathered them together. “I know this looks like a lot...”
+
+“It doesn't just look like a lot, it is a lot!” Another woman said.
+
+Ren chuckled. “It looks that way now, but once you start shoveling it... every little bit is a little bit taken away. Trust me, it won't take long. With all of you great women working, you'll make short work of this.”
+
+“I don't know...” The first cart driver said.
+
+Ren looked at each woman in the eyes until he had looked at them all. “I don't want all of you shoveling all of the time.” He said. “With 2 workers, half of you can stay here and fill the carts, and the other half can stay at House Neram to empty the carts.”
+
+“Why didn't you say that before?” One woman said. “You could have saved some of us a trip out here.”
+
+Ren chuckled. “It wouldn't be fair to leave the same group here all day. If we have an 8 hour day, I'd like you to switch spots at 4 hours.”
+
+“Well, that would be fair.” Another woman said.
+
+“It saves the extra wear and tear on the carts as well. They'll move faster, making more trips without the extra person on board.” Ren said. “And you'll have a good 15 minute rest between each cart load.”
+
+“Hey, that does make it a lot easier.” Someone else said.
+
+“I don't want you to work hard, I want you to work well. The more you do, the more that gets done.”
+
+“We can still leave early to make supper, right?”
+
+Ren nodded slightly. “That's the schedule. The carts bring you after breakfast, then take you back an hour before supper.” He said. “I assume an hour is long enough?”
+
+Most women agreed.
+
+“Are there any questions?” Ren asked.
+
+“Can we stay longer?” One of the extra workers asked.
+
+“You can stay as long as you want.” Ren said and smiled. “I'm paying for the cartloads, not the time it takes to move them.”
+
+“I guess that's fair, too.” One of the drivers said.
+
+“Let me make this clear.” Ren said and everyone looked at him. “Don't hurt yourselves trying to fill carts as fast as you can. Take your time, fill them, then rest until the cart comes back. The same goes for unloading. Take your time, empty it, then rest until it comes back.” Ren said. “Your cart is the one you came in. For the next few weeks, that's your team.” He smiled. “Look around you. This place is filled with men, digging silt up to make this pile bigger. I want you to show them what a real woman can do.”
+
+The women gathered smiled and a few chuckled. One cheered and another lifted her shovel above her head. Ren saw the state it was in, and mentally shook his head.
+
+“Everyone, please hold out your shovels.” Ren said and everyone did. He pulled out his blacksmith's hammer and repaired each one, much to every single woman's surprise.
+
+“My grandpa's shovel!” One woman exclaimed. “It looks brand new!”
+
+“I'll keep repairing them when it's needed.” Ren said. “For free.”
+
+Nearly everyone gasped and Ren smiled. “You're working for me, I won't have you using damaged equipment.”
+
+“Thank you, sir.” “Thanks.” “Can I bring another shovel?” “Quiet, Mari.” “Ow.”
+
+“Yes, you can bring another shovel for me to fix.” Ren chuckled. “Actually, I'll repair your clothing if it needs it, too.”
+
+“Really?” “Hey, he's really nice.” “He's already engaged.” “You're married, Mari.” “Dammit.”
+
+Ren laughed. “Let's get to work, shall we?” He said and took out his own shovel. Ren helped fill each cart up to a safe, and respectable height. “Keep it at this level, please.” He said when they were all done. “It's the best for weight and balance. Don't over-fill it.”
+
+“Got it.” “No problem.” “He really knows what he's doing.” “You're still married, Mari.” “Dammit.”
+
+“Have you decided who's staying first?” Ren asked. “One person from each cart.”
+
+Six Women stayed there in a group, and Ren stepped over to them. “I'll have a guard sent over to keep an eye out, if that's okay?”
+
+“We'd appreciate that, sir.” A woman that had been in the first cart with him, said.
+
+“No problem.” Ren climbed into the cart and asked to stop at the foreman's office. The cart stopped there and Ren hopped out and knocked on the door.
+
+“It's open.”
+
+Ren opened the door and the foreman smiled. “You found a cart.”
+
+Ren smiled back. “Six, actually. I was wondering if a guard could be assigned to the silt pile.”
+
+“They make regular patrols.”
+
+“I know, but I'd like one exclusively, to stand there and keep watch.” Ren said. “What about the guard at the gate?”
+
+“Well...” The foreman hedged.
+
+Ren chuckled. “I'll pay his salary for as long as I need him, and the hours are from after breakfast until an hour before supper.”
+
+The foreman's eyes widened. “Are you serious? You'll pay him to watch the dirt for only 9 hours?”
+
+“As long as he's trustworthy.”
+
+The foreman snorted. “I wouldn't hire anyone that wasn't trustworthy.”
+
+“Excellent. You just need someone to take over at the gate.” Ren said. “I'll let him know on the way out.”
+
+The foreman waved acknowledgement. Ren turned to leave and then turned back.
+
+“Have you thought about my cafeteria idea?”
+
+The foreman nodded slightly. “I'll need to think about it for a while.”
+
+“No problem.” Ren said. “If you decide to go with it, I know a great cook that can teach the staff.”
+
+“You?”
+
+Ren smiled. “I could, but my fiance is a much better cook.”
+
+“I'll keep it in mind.”
+
+“That's what good ideas are for.” Ren chuckled. “Have a good day.” Ren shut the door and climbed into the cart. “Onward!” he said and pointed. The driver laughed and drove the cart over to the gate. The guard opened the gate and Ren had the driver stop the cart by the guard.
+
+“Are you interested in a job?” Ren asked.
+
+The guard raised his eyebrows.
+
+“You'll still be here and standing guard, but not at the gate. You'll be over by the mountain of silt, where my workers are waiting to fill these carts.”
+
+“Sounds easy.” The guard said.
+
+“Your job is to guard six women from any advancing men from the mines.” Ren said in a seriuos tone.
+
+The guard stood straight and nodded.
+
+Notice!
+
+You have gained Honor: +10
+
+“I'd be Honored, sir.”
+
+“I'll pay your salary, and the hours are from after breakfast until an hour before supper. Every day for several weeks, with 1 day off each week.”
+
+The guard saluted and he saluted back. Ren heard footsteps as they approached, and smiled.
+
+“I believe that is your replacement for the gate.” Ren said and another guard came over.
+
+“You're relieved.” The new guard said.
+
+“I stand relieved.” The old guard said, nodded slightly to Ren, and ran down the road to his new station.
+
+Ren looked at the new guard. “These carts will be coming and going from here, several times an hour.”
+
+“Understood.”
+
+“Would you like a sandwich?” Ren asked him.
+
+The guard blinked and then shook his head. “No, thank you.”
+
+Ren turned to the driver. “House Neram, please.”
+
+“Yes, sir.” She said and flicked the reins. The pony trotted down the road, and led it's 5 companions along behind it. 10 minutes later, they arrived back at House Neram and Ren told the driver to go down the road, and to be careful. The cart went down the road and Ren didn't feel the bump at the point where he'd stopped laying the paving stones. Ren looked down to see that the road was finished.
+
+What the? Ren thought and a minute later, the cart reached the end of the road. He got out and told the cart driver to turn the cart around, and to shovel the silt out onto the ground at the end of the road. Each cart did the same, unloading the extra worker as well. Ren spread the silt out over a large area to show the workers what to do with each cart.
+
+“But sir...” One woman said. “...you'll run out of room here at the end of the road, in a day or so. With so much silt coming...”
+
+Ren chuckled. “Don't worry. I'm putting it here, but it's not staying here.”
+
+“Oh.”
+
+“You'll see... eventually.” Ren said and left the six women to ponder at his words. He saw the pile of ore to the side, and that the rest of the lumber had been delivered. There was a crate of nails and the 4x4s, too. Ren lifted the crate of nails and the women gasped as he carried it down the road and brought it into the courtyard. Nathalia came out of the house and saw Ren carrying the crate.
+
+“I'm sorry. I didn't know that you-”
+
+Ren chuckled. “I didn't tell you about it, so how could you have known?”
+
+“But...”
+
+Ren put the crate down and took her into a hug. “You can't expect to know what I'm thinking, Nathalia.” Ren smiled. “Even I don't know what I'm thinking sometimes.”
+
+She laughed. “That I believe.”
+
+He gave her a quick kiss on the nose. “Who finished the road?” Ren asked. “When I left, it was only a third done.”
+
+Nathalia blushed a little. “When you left with the carts, I saw it wasn't done. Barnar told me what you were doing, so I did that, too.”
+
+Ren widened his eyes. “You stored a stack and dropped them into place?”
+
+She nodded and Ren grinned. “Thank you so much, Nathalia.” He said and kissed her on the lips. “I was worried about the carts having to go from the paved part to the dirt, and you saved me from that.”
+
+“It... it was nothing.” She said, then Ren looked at her with a raised eyebrow. She smiled and rubbed it with her thumb to make Ren laugh.
+
+“You're still carrying all those diamond crystals, too.” Ren said and she nodded slightly.
+
+“It's been making me stronger.”
+
+“I'm glad.” Ren said and snuggled her a little.
+
+“Ahem.”
+
+Ren broke the hug, and stepped back to see Narhilda standing at the door to the house.
+
+“There's someone here to see you, Ren.”
+
+“Who?”
+
+“He says he's the mine foreman's brother-in-law.”
+
+“Right!” Ren said. “He was in the cart I passed when I left.” Ren walked over to Narhilda and gave her a kiss on the cheek. “Thanks for keeping him company for me.” He walked passed her and into the house.
+
+*
+
+Narhilda put a hand on her cheek. “That wasn't part of any ritual I know.” She said and blushed a little as she smiled. “I wonder if we should register a new one.”
+
+“Ma...” Nathalia said.
+
+“What?”
+
+“It doesn't mean the same to him as it does to you.” Nathalia said. “He really was only thanking you.”
+
+“I know, dear.” Narhilda said. “But it's nice to dream, isn't it?”
+
+Nathalia walked over to her mother and gave her a hug. “Not with my husband, it's not.”
+
+“He's not your husband yet.” Narhilda said, and laughed at her daughter's shocked expression. “Oh, stop acting so surprised. I'm just joking.”
+
+“It's hard to tell sometimes.”
+
+“I know! Isn't it fun?”
+
+*
+
+Ren went into the kitchen and saw a dwarf sitting at the table. As he walked over, he saw the dwarf had a salt-and-pepper beard and mustache, and a completely shaved head. Ren sat down on the other side of the table to face him.
+
+“Hi, I'm Ren. I asked for you.”
+
+“I'm Dorcot.” The dwarf smiled. “You have need of my various and fabled skills.”
+
+Ren smiled. “I do.”
+
+“What do you need cut?”
+
+Ren took out the mangled diamond and passed it to Dorcot. The dwarf winced at the horrible job that was done to it, and examined it.
+
+“Yuncith!” The dwarf spat, and stood to throw the gem across the kitchen.
+
+“Wait!” Ren nearly shouted and Dorcot stopped. “I took it to him to try and get it cut, and he tried to scam me out of the pieces he'd cut off.” Ren took out the tied cloth and opened it, revealing 3 pieces and the dust. “If I'd known beforehand, I would have thrown the crystal into the ocean, rather than let him butcher it.”
+
+Dorcot sat down and grunted. He looked at the gem again and kept wincing as he turned it to see all the damage done.
+
+“Do you have somewhere I can work?”
+
+Ren smiled and led the dwarf to the old bedroom and the huge workbench.
+
+“Very nice.” He said, sat at the desk, and pulled out a kit similar to the one Yuncith had sold Ren. He took out a small piece of that wax like substance, warmed it up with a flame, and placed the mangled stone in it.
+
+“You're going to lose a lot of the weight.” Dorcot said.
+
+“That doesn't matter.” Ren said. “Make it gleam like it should.”
+
+The dwarf smiled and got to work. Ren watched closely as Dorcot used various tools and files, and slowly worked the stone into a smaller shape. When he was done, he popped the stone out of the holding material and passed it to Ren.
+
+Diamond - Round Cut (High Quality)
+
+This diamond was cut by an Expert Gemcutter, and it's quality reflects that.
+
+Ren appraised it at 50 gold coins and smiled. “This is beautiful, sir.”
+
+The dwarf grinned. “It is, but it's only half the size of what it should be.”
+
+Ren nodded slightly. “Can you do anything with the pieces?”
+
+The dwarf worked for another 15 minutes, and gave Ren a small handful of tiny diamonds, each worth a gold coin.
+
+“What about the dust?”
+
+Dorcot shook his head. “It's only good for polishing, if attached to a thick cloth.”
+
+“You can polish things with it?” Ren asked, surprised.
+
+Dorcot smiled and took out a piece of cloth from his kit. He unrolled it and it glittered in the light. “Anything with an edge can be polished and sharpened, if done carefully.”
+
+“How did you get the dust to stick to the cloth?”
+
+“Just give the cloth a quick rub with oil, and sprinkle the dust on it. When it dries, you've got a polishing cloth.”
+
+“Sir, you are a rare find.” Ren said and handed back the tiny diamonds.
+
+“What are these for?” Dorcot asked. “That's 15 gold worth!”
+
+“A payment for more work.”
+
+“More work?”
+
+Ren smiled. “A lot more, since I'm going to be busy doing my own work for a while.”
+
+“How many of these do you have?”
+
+Ren took out the handful of small diamond crystals that Nathalia had given him and the dwarf's eyes nearly bulged out of his head.
+
+“W-w-where did you get those?” He stammered
+
+“I dug them up.”
+
+Dorcot's eyes squinted.
+
+Ren smiled. “From the ground, that I own. I have the deed and everything.”
+
+The dwarf relaxed and went back to work. It didn't take long for him to cut up the diamonds into proper shapes. Ren asked him why he chose some shapes for some stones, and different shapes for the others.
+
+“It's the shape of the crystal. Rounder ones, use a round cut. Chunks? Use the square cut. Long ones? Rectangular.” Dorcot shrugged. “You could just cut them all the same, but then you'd have a bunch of similar shaped gemstones and a gigantic pile of small ones. Where's the beauty in that?”
+
+Ren grinned. “Beauty is in the eye of the beholder.”
+
+Dorcot's eyes widened and then he grinned, too. “It surely is.” The dwarf gathered up the dust from all the work he did, into the same cloth Ren had used before. There was a large pile of small diamonds, and a pile of oddly shaped ones as well. They were all different cuts, and Ren was already seeing himself smelting metal to set them into.
+
+“I really do have work to do, despite my slacking off in here with you.” Ren said and chuckled. “Are you busy today?”
+
+Dorcot shook his head. “The wife is out working, the kids are off on their own, and I'm just sitting at home doing nothing.”
+
+“How would you like to do something instead?”
+
+“Like what?”
+
+“I've got a one storey building to make out back. If you give me a hand, I'll give you something really nice to dig your Gemcutting teeth into.”
+
+“Ha... if it's more of them things, I could do those in my sleep.”
+
+Ren grinned and pulled out one of the fist-sized ones he had in inventory.
+
+“Holy CRAP!”
+
+“Those were my words exactly when I found it.” Ren said and chuckled. “So... are you interested?”
+
+“Sir, I'd give you one of my kids to work on that!”
+
+“That won't be necessary.” Ren smiled. “Your help is good enough.”
+
+“Are you sure?” Dorcot asked. “I'm not too fond of Garmon. He's becoming a pompous ass.”
+
+Ren laughed and stored the diamond crystal. “Yeah, I'm sure.”

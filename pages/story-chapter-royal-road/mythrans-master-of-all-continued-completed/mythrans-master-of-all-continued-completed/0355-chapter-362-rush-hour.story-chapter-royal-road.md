@@ -1,0 +1,325 @@
+---
+id: 4c4b9ebb-e78d-567a-bbe9-b40a17fd6fb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 362 - Rush Hour"
+slug: 0355-chapter-362-rush-hour
+partOf: mythrans-master-of-all-continued-completed
+position: 355
+ownLength: 4486
+unit: words
+publishedAt: 2017-09-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163117/chapter-362-rush-hour"
+royalRoadId: "163117"
+---
+
+“Let's get this conveyor belt up and running.” Ren said, and Tee one waved from the ceiling.
+
+“I had to make a bigger skimmer.” Tee-one said and dumped the slag into a large stone basin.
+
+“We should make a bigger everything for this thing.” Ren said and chuckled. “I'll start making the rollers.”
+
+“Are you using a two part mold?” Tee-one asked.
+
+“I was tempted to try and drill a hole into one of those large stones there.” Ren said and pointed to one of the stones Ruck had dropped off. “But yeah, a two part mold would be easier.”
+
+Ren used 2 paving stones, one for each side of the mold. Since they were 2 feet wide and 2 feet long, he carved out 8 half cylinder holes that were an inch and a half wide from each of them, and let the system measure where to put them to match them up. He made the holes almost the entire length of the paving stone, but left an inch on each side flat. He then cut a much smaller cylinder half out of it, so that when the molds were cast, he would have 8 cylinders that were an inch and a half in diameter, 1 foot 10 inches long, and with a 1 inch axle on each end.
+
+Ren went to the forge and chose the middle smelter, hit the lever to switch the dispenser to that trough, and pulled the release lever. A section of the large smelter opened up and molten metal poured out and down the trough, then into the smaller smelter it was attached to. He pushed the lever back to where it was, cut off the flow of molten metal, then walked to the small smelter. Since it was all preheated, the metal retained it's molten state and Ren poured the metal from that smelter into the mold. He absorbed the heat from the metal evenly, popped the mold apart to store the rollers, and did it again.
+
+“Are we making it in one piece?” Tee-one asked and stirred the molten metal. “Or a better question is, can we make it in one piece?”
+
+“Hm.” Ren stopped making rollers and looked at the setup. With the forge next to the wall like it was, there wasn't a lot of room to have a single conveyor belt to go up from the floor and straight to the smelter.
+
+“Let's do two smaller ones.” Ren said and pointed. “We can put one from the middle of the wall there and along the back to above the smelter, then the other one along the side wall from the floor and above the end of the other conveyor.”
+
+“Like stairs.” Tee-one said.
+
+“Yeah, and we can get away with only having an ore catch rail on the outside, because the wall can act as the other.”
+
+“Nice.” Tee-one said and walked down the wall. “I'll start the rail to hold the rollers.”
+
+Ren nodded and kept working, Ruck took over stirring the metal, and Tee-one set up the mold for the long piece of metal with holes in it for the axles on the rollers. Ren had guessed that they would need about a hundred rollers, and kept casting 8 at a time. When he did it the twelfth time, he stopped.
+
+96 should be close enough. Ren thought and went over to help Tee-one. He was having a bit of a hard time absorbing the heat from the metal, since he wasn't immune to Fire like Ren was; but, he did have a Minor Healing wand out and used it after he had burned all of his fingers.
+
+“I can take over that part.” Ren said.
+
+Tee-one stepped back to heal himself, and Ren absorbed the heat from the second piece of metal. He popped it out of the mold and they moved the mold in because the wall pieces didn't need the rail part. Tee-one poured the molten metal out and Ren made sure it covered everything and was even, then absorbed the heat and popped it out. They did it again to complete the sides, then they made the braces to hold it in place, gears on the ends to pull the conveyor belt, and then added the crank and spiral coil springs so that they could just charge the thing up and it would go on by itself.
+
+Now that the components were done, Ruck came over and helped Ren sew up the Spider Silk cloth in a long line to cover the belt. They added reinforced holes for the gears on the ends to turn the belt, then made another belt for the second conveyor and slipped them on the sides without rails. Ruck held the first conveyor against the wall while Ren and Tee-one secured it in place, added the braces to hold it, and then they did the same with the second conveyor belt along the back wall. Once it was in place and they had attached the two belts with a joining set of gears that let both operate in the same direction, Ren turned the crank and charged up the spring coils to load them with potential energy.
+
+Ruck and Tee-one dropped several handfuls of ore onto it, and Ren hit the release button. Both conveyor belts spun as fast as the coils could turn them and the ore shot up the first conveyor belt, hit the wall, and bounced in several different directions.
+
+“Oops.” Ren said and laughed as the conveyor belts spent all of their energy and stopped moving. “I forgot to add the limit levers like we have on the farm vehicle.”
+
+Tee-one nodded as Ruck gathered up the scattered ore pieces. They only had to take apart the bottom conveyor to fix the problem, and after half an hour of changing parts and gears, it was back in place.
+
+“Okay, test number 2.” Ren said and hit the button; then nothing happened. “Oh! The limit lever!” He said and pulled it. The conveyor started up at a slow pace, and he moved the lever to half-speed. The belt moved at a good pace, and the test ore rode up the first conveyor, dropped onto the second, and rode that up to the top of the smelter and dropped into it.
+
+“Yes!” Ren said and pulled the lever back to stop the belt. “Nice work everyone!”
+
+Ruck came around the back of him and Tee-one, and hugged them both from behind.
+
+“Time for lunch.” Teepo said.
+
+“Right.” Ren said and looked at his friends. “Can you start building the Church? I've got to drop off meals for the lumber yard workers, go back to town and see about hiring a couple of healers, and then pick up some parchment and ropes that I ordered.”
+
+“Sure.” Tee-one said. “We should at least have a good portion of it up by the time you get back.”
+
+“I'll start the stained glass windows when I come back.” Ren said. “Since I already have the image patterns, it won't take me long to cut the glass pieces for the pictures and assemble them.”
+
+“You're not going to have a lot of visitors.” Tee-one said. “Not like in the dwarf lands.”
+
+“I know.” Ren said. “There's barely 800 people in the whole county, and nearly 650 of them live in the village.”
+
+“Then why is there 61 bakeries?” Tee-one asked. “That's a bakery for every ten people!”
+
+Ren chuckled. “Maybe they just like baking.” He said. “Actually, I think it's because they are so used to spreading out the haul from the harvest, they needed all the bakers to work just to feed everyone.”
+
+“We're not going to build 61 different bakeries, are we?”
+
+“Actually...” Ren said and smiled.
+
+“You can't be serious.” Tee-one said. “I don't think they are going to want to share.”
+
+“Before we do anything, I'll ask them what they want.” Ren said. “After lunch. I have to go.”
+
+“See you.” Tee-one said and Ruck waved to him.
+
+Ren left the warehouse and ran across the road to the Main House and the subdivisions behind it, and the work crews were just gathering together into several groups.
+
+“Just in time.” Jen said to Ren, then looked at her workers. “Okay, everyone! Show of hands! Who brought a lunch?”
+
+Ren chuckled when no one lifted a hand. “It's a good thing I came prepared.” He said and took out one of his large iceboxes, then took out two stone bricks and enchanted them with Fire. He opened the first icebox and took out two plates, held them over the flames for a few seconds because that was all he needed to warm up the food, then gave them to the two closest people. He did this for the first work crew, then started to hand them out to the next.
+
+“Hey, these look professionally made.” One of the workers of the second group commented when he got a plate.
+
+“That's because they were.” Ren said and handed over the next two plates. “I ordered them from Nathalia's Nourishment last night.”
+
+Everyone went quiet when they heard that.
+
+“Ren.” Jen said. “Everyone knows it's expensive to eat at that restaurant.” She said. “How much did this cost?”
+
+“Hm? Do you mean for just these 30 meals, or for everything that I ordered?”
+
+Jen blinked her eyes at him for a second. “How... how many meals did you buy?”
+
+“200.” Ren said. “I asked for a hundred first, but I figured with feeding your workers for a couple days, and since I need like 20 meals a day for my own people and friends...”
+
+“H-h-how much?”
+
+“Almost 4 platinum coins, including a generous tip.” Ren said and tried to hand the next two plates to the waiting workers, but they didn't take them. “What?”
+
+“How can you spend so much on just food for us?”
+
+Ren chuckled. “It's only 1 gold coin and 50 silver coins a plate.”
+
+“But...”
+
+“I'm not going to have people work for me and not feed them.” Ren said. “I'd buy the ingredients and make the meals myself if I had the time.” He said. “I'd probably save a gold coin per plate on the food; but, then I'd need to buy the plates anyways, so... this way, I kill two birds with one stone. I get a pile of plates I can refill, and you get to eat.”
+
+“I guess.” The worker said and took the plate. “I could eat for a week for that price, though.”
+
+Ren chuckled again. “Trust me. This food is worth it.”
+
+The workers started to eat when they all got plates, and every single one of their faces lit up because of the flavors.
+
+“Jen? Here's yours.” Ren said and handed her a plate. Jen took it gingerly and tasted it, and her face lit up, too.
+
+“That's really good.”
+
+“It should be. My ex-fiance runs the place and taught the cooks there.”
+
+Jen looked at him with wide eyes. Ren deactivated the stones and absorbed the enchantments, stored them and the icebox, and stepped close to Jen.
+
+“I forgot to ask you something.” Ren said.
+
+“What?”
+
+“Did Catalina tell you what I did after I destroyed the gate?”
+
+Jen flinched a little and spoke. “You walked away from the stable and took Catalina to the carriage, then left the city.”
+
+“Not before I gave Maude 2 platinum coins to buy a city gate that was properly made.” Ren said, then smiled at her reaction as Jen's mouth made that little 'o' of surprise. “See you later.”
+
+“B-bye, Ren.” Jen managed to say, and Ren ran back towards the Main House. He went inside and fed Princess, and asked if she wanted to go for a supply run.
+
+I will go anywhere you wish. Princess thought to him and stood up. You indulge me and listen to my suggestions, even when you don't have to.
+
+“What kind of friend would I be if I ignored you?” Ren said and scratched her chin. “Plus, we can use the Giant Strength and Haste wands there and back.”
+
+Thank you! Princess thought emphatically, and Ren chuckled as he led her outside. He climbed up into the saddle and took out both wands.
+
+“You'll have to slow down when we hit the turnoff to the capital.” Ren said. “The traffic is going to be really heavy from there to Aurora.”
+
+I know, My Lord. Princess thought. Let us be off!
+
+Ren cast both spells on her and held on. Princess let the feeling of joy overtake her, and she ran as hard and as fast as she could. Not because she had to; because she wanted to.
+
+“Wheee!” Teepo said and chittered in delight.
+
+********
+
+“What the f-” Officer Holly Stonewall caught herself before she cursed again. She had watched the monitor and seen Ren moving at an outrageous speed when he had left the starter city, and she almost spit out her mouthful of coffee. This time, he was moving so fast that the monitor was having a hard time displaying his movements.
+
+“How the hell is he doing that?” Holly asked herself, then shook her head and leaned back. “Only one way to find out.” She said and slipped on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren had just as much fun as Teepo and Princess, and then they hit the traffic. Princess didn't have to just slow down, she had to practically stop before she ran someone over.
+
+They're moving so slow! Ren thought, and Princess huffed and almost spit in frustration. If the people in front of us knew that, they would have been grateful that she didn't. Ren smiled mentally at the thought, and how the people would freak out if she did spit on them. He didn't let that amusement show on his face, however. They were in the middle of a medieval traffic jam and it was not a laughing matter.
+
+“Screw this.” Ren said. “Princess? We're going off-road.”
+
+Yes, My Lord. Princess thought happily and turned to the right and trotted off the road and into the woods. When they were in far enough away from the road, Ren took out the Staff of Earth and concentrated on the ground 20 feet in front of Princess. He had done something similar before when they approached the Thieves Guild stronghold, and he made a 4 foot wide path a hundred feet long. Since he was only slightly shifting the earth to make it flat ground, it barely took a second.
+
+“Let's see if this works like I hope.” Ren said. “Go slow at first, until I get the hang of it.”
+
+Princess nodded and started to trot. Ren waited until she was about halfway down the path before he started to concentrate on making the next section.
+
+“I'll try and keep it directly in front of you; but, it might shift to the side if there's a tree that's too big to move aside quickly.” Ren said. Teepo, you're my eyes.
+
+“I always am.” Teepo said.
+
+Princess trotted faster and Ren extended the path. He realized making a hundred foot section was a bit too much at once, so he reduced his concentration to only 30 feet and there was no discernible time for it to appear. Princess saw the change in how quickly the path formed in front of her and ran faster.
+
+Once he got the hang of it, Ren was surprised at how simple and quick it was to make flat ground for Princess to run on. She was already up to half of her normal speed, and Ren didn't feel any strain on his concentration at all. They made their way through the woods until they came to the open area near the West Gate into Aurora, then they slowed down and saw what the problem was.
+
+A long extended cart designed to carry full logs had tipped over somehow and rolled over; which spilled it's load over the road, jammed itself across the city gate, and wrecked several carts that had carried iron ore. The mess was spread out over a large area, and several people were trying to clean it up.
+
+“Geez, doesn't anyone want to help clean it up?” Ren asked rhetorically, because he knew that no one would, and told Princess to go over to the accident.
+
+“You can't go into the city through these gates.” One of the guards holding the traffic back said. “You'll have to go around.”
+
+“I'd rather help clean up, if that's okay.” Ren said and climbed off of Princess, and the people cleaning up looked at him like he was crazy.
+
+“If you want to help clean this up, go ahead.” The guard said.
+
+“Thanks.” Ren said and walked over to the large extended cart.
+
+“We've got a team of horses coming to help put that upright, but they can't get here with everything in the way.” One of the cleaners said.
+
+“Is there anything wrong... oh, I see.” Ren said as he examined it. “Shattered wheel.”
+
+“Yeah.” The driver of the cart said. “I don't know what happened. All I heard was the crunch of wood and twisting metal, then I was looking up at the sky.”
+
+“You were lucky, you mean.” One of the other cart driver's said and pointed. “Not like that guy.”
+
+Ren turned to look and saw several healers working on a man with two broken legs and a broken arm. His face had a massive bruise blossoming on it, and it looked like they were trying to feed him some kind of potion.
+
+“Actually, he was lucky, too.” Ren said, and the two drivers looked at him. “He could be dead.”
+
+The two driver's didn't say anything as Ren got the plans for the extended cart and realized he would need some molten metal.
+
+“I'll be back to replace the wheel.” Ren said, and they stared at him as he ran over to the city wall, then their mouths dropped open as he crawled up it like a spider. He jumped down the other side and ran to Donan's shop. There was no one waiting to be served, so Ren went right inside.
+
+“Ren!” Donan said and hugged him. “I haven't seen you in a long time!”
+
+“I'm sorry, but it's going to be a bit longer.” Ren chuckled. “I just need a bit of molten metal.”
+
+Donan chuckled. “Help yourself to the smelter, my boy.”
+
+“Thanks!” Ren said and took out the wood to make a reinforced cart wheel, then dipped his hand into the smelter.
+
+“REN! WHAT ARE You... oh, you're okay.” Donan said as Ren spread the metal over the wheel's center for the axle to hold it better, then took more metal to spread over the outside of the wheel.
+
+“There was an accident at the West Gate.” Ren said and stored the new wheel, then grabbed another handful of molten metal and added it to the crucible he had in inventory. “I'll be back soon to visit, I promise!”
+
+“I look forward...” Donan started to say, then Ren disappeared from his shop and he laughed. “Boy, he sure can run now.”
+
+Ren ran back to the West Gate and climbed the wall.
+
+“My Lord, you really shouldn't be...” One of the guards on top of the wall started to say, but Ren ignored him and jumped off the wall to land on the ground outside. “...doing that.”
+
+Ren ran over to the large extended cart and took out the wheel.
+
+“Where did you get that?” The stunned driver asked.
+
+“I made it.” Ren said. “Hold it for a second.”
+
+The driver took the wheel and Ren looked at the large cart.
+
+“I think just storing it should work, rather than trying to flip it back.” Ren said. “Less strain on the other wheels that way.”
+
+“Did... did you say store it?”
+
+Ren nodded and stored it, then took it back out and put it on the ground upright. “There, see? It's upright.” He said and looked at the axle. It was a little warped and deformed, probably because it turned while the old wheel broke up, and he took out the crucible of molten metal.
+
+“Hey, you can't fix that just by pouring metal on it.” The driver said.
+
+Ren smiled at him, then stepped between him and the axle, and poured some of the molten metal out onto the axle. He used his hand to spread it out and used his Fire Manipulation ability to put a lot of the heat into the axle, then used his Iron Grip to bend it back straight with the system's help. He was tempted to use his Repair skill, but he wasn't sure how fixing a metal axle attached to a wooden cart would work.
+
+The driver heard the metal groan, and stood up. “Hey! HEY! What are you doing?”
+
+“Fixing it.” Ren said and stepped back.
+
+The driver stared at the straightened axle and didn't know what to say.
+
+“Wheel.” Ren said, and the driver rolled it over to him. He lifted the side of the large extended cart off the ground, slipped the wheel onto the axle, and eased the cart back to the ground. Ren used the crucible to add enough metal to the end of the axle to hold the wheel on, then examined it. He smiled at the great repair, and looked at the driver.
+
+“Now that the cart is fixed, I'll put the logs back.” Ren said.
+
+“We tried rolling them, but they're too heavy.” The driver said, then stopped talking when Ren stored the three logs closest to them and put them in the extended cart. The other people that were trying to clean up the ore around the logs stopped working and watched as Ren ran around, stored logs, and dropped them into the repaired cart.
+
+By this point, even the people waiting in traffic had taken notice of him and what he was doing, and had left their carts and horses to watch. Ren, completely oblivious to the scrutiny kept working, and finished loading the logs.
+
+“I guess you lost the straps holding the logs.” Ren said to the driver of the cart, and he didn't respond. “I'll just make new ones, then.”
+
+Ren used some Spider Silk cloth to sew up half a dozen long straps, and tied them to each side of the cart to hold the logs inside.
+
+“That's got it.” Ren said. “Where are the horses?”
+
+The driver pointed and Ren saw the horses were grazing in the field between the North and West gates, so he walked calmly over to them and took out a plate of food. He picked two nice pieces of meat and stored the plate, then held out a piece of meat in each hand.
+
+“Hey, you two.” Ren said and slowed his walk so that he wouldn't spook them. “You'd both like a piece of tasty meat, right?”
+
+The horses stopped eating the grass and looked at Ren, who moved his hands lower to show the nice pieces of meat.
+
+“Mmm, delicious.” Ren said and walked closer. The horses lifted their heads and he saw their noses twitch. “That's right.” He said and stopped a couple of feet away. “You can have it.”
+
+One of the horses was bolder than the other and turned to take a piece of meat. When it started to chew and neighed a little bit, the other horse couldn't resist and took the piece Ren had for it.
+
+“There you go.” Ren said as they chewed, and then rubbed their noses. “Take your time with it, it's really good.” He slid his hand along their faces and very carefully took a hold of the reins attached to them. “Come on. You've got work to do when you're done of your snack.”
+
+The driver watched in astonishment as Ren led the horses back over to the large extended cart and reattached them properly.
+
+“Who are you?” The driver finally managed to ask.
+
+“Just someone who wants to help.” Ren said. “You should get a healer to check you over completely, or at least rest for a bit more before driving.”
+
+The driver nodded and watched as Ren went over to the now almost cleared road and started to gather up all of the ore that was there. The other people who had stopped cleaning it up to watch Ren, started working again.
+
+Unlike them, Ren just piled it all into inventory and didn't have to carry it to the carts at all. When he had gathered up everything that he could see, he went to the carts where it was to be stored. He saw the damage they had taken, and since there wasn't anywhere else to put the ore, that was where everyone was putting it.
+
+Unable to take someone using a broken cart to haul things, he made replacement carts for the damaged ones and filled them with the ore in the other carts first, then emptied his own inventory into them and topped them all off. The horses for those carts had already been caught by their drivers before they had escaped, except for the driver who had been seriously hurt. His horse didn't make it.
+
+“I'm so sorry.” Ren said to the driver.
+
+“I won't be driving the cart until I can get a replacement horse.” The driver said. “I have no idea how I'm going to make this delivery, though.”
+
+“Is it going to Donan?” Ren asked, and the driver nodded.
+
+“Then I'll take it.” Ren said. “I'm going there anyways.”
+
+“Are you sure?” The driver asked as the healers kept working on him. “That's a lot for you to...”
+
+Ren chuckled and stored the entire cart.
+
+“...ah, never mind.” The driver said and several people chuckled.
+
+“You can pick the cart up from Donan's later.” Ren said and the driver nodded.
+
+“Okay, people!” The guard holding traffic back said. “Thanks to Lord Ren, the way is clear! Please return to your carts and horses, and be careful of the pits and divots the accident left in the road!”
+
+“Don't worry about that.” Ren said and took out the Staff Of Earth. “I'll fix them.”
+
+“You'll fix... wow.” The guard said and watched as the road filled out to be nice and flat again. “That was amazing.”
+
+Ren stored the staff and walked over to Princess, climbed into the saddle, and then heard a smattering of applause. He turned and looked to see the cart drivers, several guards, and some of the spectators were clapping their hands.
+
+“Hey, I had to clean it up.” Ren said. “It was blocking my way in.”
+
+A few of them chuckled, and Ren rode Princess in through the now cleared West Gate.

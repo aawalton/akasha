@@ -1,0 +1,179 @@
+---
+id: 6aa6ce63-c381-504e-a022-bc2b4b1bd778
+page-type-slug: story-chapter-royal-road
+title: "Chapter 527 - Is It Over?"
+slug: 0527-chapter-527-is-it-over
+partOf: mythrans-master-of-all-continued-completed
+position: 527
+ownLength: 2600
+unit: words
+publishedAt: 2018-03-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199010/chapter-527-is-it-over"
+royalRoadId: "199010"
+---
+
+Lord Grasham's invading army never had a chance.
+
+It was besieged on three fronts; the front blocked by any number of invisible walls, the right side was being assaulted by monsters, and the back by the group of Adventurers they had hired to take down the wall.
+
+You can never trust infamous Adventurers. The commander of the army thought as he oversaw his command through a Viewing Cloud. The army of 12,000 troops fell apart not long after the tragic encounter with those monsters, and it degenerated into small skirmishes instead of a large field battle. He had suspected he would lose the battle at some point, just because the Lord of the county had so many powerful resources at his disposal; but, he never imagined that he would lose it in less than 20 minutes.
+
+The commander could see the Terror on his men's faces and in his mind could hear the screams as they died. “Well, that went a lot worse than I thought it would.” He said out loud. “Pack up, and let's get back to Lord Grasham.”
+
+“But, sir! What about the troops?” His aide asked.
+
+“I'm not going to order more good men to die.” The commander said. “I warned Lord Grasham that this was a fool's errand.”
+
+The commander stood there as his command tent was quickly packed up, and he and his team left the area and climbed into the carts set aside for them. There were hundreds of other carts there for the supplies the army had needed, and he would have to send squads back to gather them up. He sighed at the thought of losing so much of his command in one shot, and was glad he had convinced Lord Grasham to only send 25% of his forces against such a small county.
+
+“We can't just leave them.” The commander's aide said softly.
+
+“You can go in after them if you want.” The commander said and dismissed the Viewing Cloud. “From now on, I'm staying well away from that county's borders.”
+
+*
+
+Ren and Princess had easily destroyed all the heavy weapons and made sure they couldn't be used while Artemis shot the weapon crews before they could retaliate. Ren had Princess run up into the air above the battle and looked down at the carnage that was progressing below them.
+
+Artemis had been right in her thoughts about not needing to worry about getting surrounded. Most of the soldiers when presented with a choice to fight or flee from the onslaught, chose to run. Unfortunately, since they were in a tight formation, there wasn't far for them to run before they were caught and dealt with.
+
+With nothing to hold them back, the succubi slaughtered efficiently and quickly. They weren't enjoying it to it's fullest potential, because they didn't have the time to savour the emotions they consumed or to bathe in each victim's blood; but, their abilities and skills leveled up over and over as they progressed through the ranks of soldiers. Their individual Frenzy Auras increased in size with each level up and they merged with each other to cover a much larger area than they ever thought was possible.
+
+The taste of the enemy's sweet heart blood, and the merged Aura between them, gave the succubi such a sense of accomplishment that they almost moved as one being.
+
+Grab a soldier, slash the neck and lick spurt of blood, catch soldier's swinging arm and break the wrist, plunge free hand into chest, remove heart, bite and squeeze and swallow, empty hands and grab the next soldier.
+
+They moved like a machine as they tore through the soldiers, and when their Aura touched Ren, all 20 succubi stopped and looked up at him. Their Frenzy Aura morphed and became Controlled Berserk Rage and merged with his, and they felt everything he did. They felt his cold calculation as the assault progressed through the soldier's formation and estimated how long it would take to finish them all off, and it touched them deep inside.
+
+With their shared feelings, they knew that he didn't see it as an abomination, or a waste, or even wrong; and then they felt him flood the shared Aura with Reassurance. He gave them a nod and waved, and they nodded back and continued their attack on the soldiers. With Ren overlooking them, they were relentless in their pursuit to prove that his estimate of the task being done was going to be accurate.
+
+The army was completely decimated in just under 20 minutes, and the succubi had saved 20 of the platoon captains for last. They gathered them together in the center of the piles of remains, and Ren had Princess land beside them.
+
+“You... you won't... get away with this!” One of the men almost spat at Ren, despite his terror.
+
+“To the victor go the spoils.” Ren said and looked at the succubi. “Please take these men up into the air, high enough for them to see what happens to those that attack our lands, and bring them back down.”
+
+The succubi did as he asked without question as the rest of Ren's group gathered around him. Some of the men shouted, others cried, and some shook their head in disbelief. The succubi landed again, and the men stared at him with hatred and disgust.
+
+“I can feel your emotions.” Ren said, then motioned to the succubi. “As can they.”
+
+“So what?” One of the men said. “Just hurry up and kill us already!”
+
+Ren chuckled. “Oh, you're going to die, don't doubt that.” He said. “Right after the succubi savour your emotions.”
+
+Everyone but the succubi were surprised by this.
+
+“You see, I would have held you off outside the walls almost indefinitely; but, you broke my wall down and invaded.” Ren shook his head. “That is not allowed.”
+
+“You did a great job stopping it from happen-HRK!” The man's words were cut off as the succubus holding him grabbed his throat.
+
+“I was still reluctant to kill you all, until I discovered what you were going to do to everyone that lived here.” Ren said. “You're still alive right now, because I have a question for you.”
+
+Everyone fell silent and waited for the question.
+
+“Would the rest of the soldiers still on your lands have followed the same order?” Ren asked, and the men didn't say anything. He could feel their emotions, and knew why they refused to answer. “Go ahead.” He said to Zunala, and he felt extreme gratitude from her and the other succubi.
+
+“I was wrong to try and defy you and subvert the others, My Lord.” Zunala said, in reference to her attempt a while ago to form permanent submissive bonds with the other succubi behind his back, before he had intervened and made them too powerful for it to work. “You really do have our best interests at heart.”
+
+“Just telling you that over and over wasn't enough?” Ren chuckled. “Well, at least you know for sure now.”
+
+“I do.” Zunala said and caressed his face with her bloody hand. “Thank you.”
+
+“You're welcome.” Ren said. “Enjoy it, and then I can end this quest.”
+
+“Yes, My Lord.” Zunala said, with reverence and respect in her voice that he hadn't heard from her before. The succubi moved away from the group and sat down with their captives, and after a few minutes, they heard moans from the men as their emotions were manipulated to provide the succubi exactly what they wanted, and then the only sound was chewing and swallowing.
+
+“You know, that's really disgusting.” Officer Holly commented.
+
+Ren turned to her and looked at her scowl. “They're not having sex, if that's what you think.”
+
+“It might not be sex in the normal sense, but to them it very well might be.”
+
+“It's not my place to judge other cultures.” Ren said. “I made that mistake before and it cost me a lot. Now I just ignore what doesn't affect me personally and move on.”
+
+“Isn't that a bit like turning a blind eye to what's going on?” Officer Holly asked.
+
+“No, because I know it's happening. I'm just choosing to not let it color my perception.” Ren said, and he could feel the satisfaction that the succubi felt as they carefully consumed their prey to make it last as long as possible. They were filled both emotionally and physically with the meal, and after only a few minutes, let the empty bodies fall to the ground to join the others.
+
+“Good work, everyone.” Ren said when the succubi came over to him, and they equipped a different set of clothes to clean themselves up without being asked. He opened the Land Owner menu and saw a tab called 'Current Quest' and chose it. “I was tempted to have you all go around and loot all these bodies first, but I think I finally found a better way to do it.”
+
+“How?”
+
+“I declare this quest complete.” Ren said after choosing the 'add loot to the Rewards' option. All the bodies disappeared and everyone received a popup, except him. The constructs didn't receive a popup, though. He was going to ask about that when Symmetra told him they were hers.
+
+Suddenly, all the pixies fell to their knees and screamed. The armor they wore dissolved and fell away to dust, which left them naked, and Ren knelt by them.
+
+“What is it?” Ren asked and reached out to touch the closest one, Suniva. His hand hit a barrier of some kind, and he ran his hand over it. Several of the pixies near where he touched the barrier gasped, as did Suniva.
+
+“S-some... something... AHHH!” Suniva screamed as her back arched, then she fell forward almost unconsciously. There was a cracking sound from her back as it bent a bit too far forward than it should have, and the skin split open. Resounding cracks were heard from all of the pixies as they fell forward as well, and their backs split open.
+
+Ren was going to try and absorb the barrier when he saw a small bit of flame exit Suniva's back. It was about half an inch long, and he looked at all the other pixies. A lot of them had their elements come out of the wounds, and then the elements solidified. The skin closed over the now solid half an inch long protrusions, and their backs popped back into place.
+
+The barrier fell and Ren reached out and touched Suniva's back just below the spot where the wound had been, and realized what he was seeing. The very tip of a tiny pair of wings were now stuck out of her back.
+
+“Wh-what... what was...” Suniva panted as she tried to catch her breath.
+
+“Symmetra!” Ren said, and she handed him two 1 foot by 1 foot square mirrors. Since the pixies were 1 feet tall, they were the perfect size. “Look, Suniva!” He said and positioned them to show the pixie her own back.
+
+“Wh-what... no, it can't... that's not... how?” Suniva asked and looked at Ren.
+
+“I don't know.” Ren said. “I can take a guess.”
+
+“P-please.”
+
+“Protecting your new home, and putting yourself in danger for everyone else that lives here, is letting you earn back your wings.”
+
+A ripple of shock went through the pixies at his words, and they all started to try and reach back to feel it for themselves. Symmentra took out two large mirrors and two of the constructs held them for the pixies to look at themselves.
+
+“It's true! I have wings!” One of the males exclaimed and started to try and flap them. When they didn't move, he flapped his arms to try and stimulate them.
+
+“It's just the tips, you idiot.” Another male said. “We can't fly yet.”
+
+“I don't care!” The first male said and ran around flapping his arms like a bird's wings. A lot of the pixies laughed at his antics, and a lot more than a few were tempted to join him in his attempt.
+
+“It's going to take a while.” One of the female pixies said. She was the calmest of them, and studied her wing tips carefully in the mirror, then turned and looked at Ren. “I can never thank you enough for this.”
+
+Ren put his hands up in a 'not me' gesture. “You all came with me out here and willingly put your lives on the line, even though you knew you could possibly die and might not gain anything for it.” He said. “I don't deserve your thanks for that.”
+
+The female pixie smiled. “You don't take praise well.”
+
+“I do if I deserve it.” Ren said. “I'm really glad this let you start on the right path again.”
+
+“But...” One of the other females spoke. “...how can we do what you said? We can't keep tricking people! I don't want to lose my wings again!” She said and almost screeched.
+
+Ren chuckled and reached a hand out to her. She took several deep breaths and gripped his finger with one of her hands. He activated his Hands of the Gods ability and chose Restoring Hands to fill her with good feelings.
+
+“Your reasons for doing it have changed, remember?” Ren smiled. “It's a job for you to entertain people, not to rob them.”
+
+“But we're still robbing them.” She said.
+
+“They're going to know you are.” Ren said. “Make it a game. Try and let them guess a few times about what you take. If they guess correctly, hand it back. If they don't, hand it back anyway and warn them to be more mindful of their possessions.”
+
+“But... what about...”
+
+“They'll pay a fee before entering your place, so that no matter what happens, you'll always have money.” Ren said to reassure her.
+
+“That's a really good idea.” Suniva said. She had finally recovered from the shock of the reemergence of her wings.
+
+“You don't have to keep sucking up to him.” One of the other females said. “He already likes you.”
+
+Suniva snorted a laugh. “This isn't me sucking up to him.” She said, and walked up into the air and stopped by his cheek. “This is me sucking up to him.”
+
+Suniva reached out and grabbed his cheek and kissed it over and over.
+
+“Thank you!” *kiss* “Thank you!” *kiss* “Thank you!” *kiss* “Thank you!”
+
+All the pixies started to laugh, as did everyone else.
+
+“Okay, okay! She gets the idea.” Ren said.
+
+Suniva stopped and then rubbed the spot where she had kissed him. “Being around you just keeps getting better and better.” She said. “What do we do next?”
+
+“I'll take you back home.” Ren said and stood up, and the pixies all sighed loudly. “What I'm going to do after that will not let your wings grow.”
+
+“What are you going to do next?” Suniva asked.
+
+“I'm going to ask Princess to ram that rock over there and shatter it into pieces.” Ren said and pointed.
+
+Everyone turned to see a 3 foot tall and 8 foot wide rock about 200 feet away. Princess huffed and took two steps towards the rock, and then it rippled and fell away as the magic user stood up. It had been his oversized cloak disguised as a rock, and not an actual rock.
+
+“We surrender! We surrender!” Dennis almost yelled and raised his hands to hold the cloak up as high as he could, then he changed the brown color of the cloth to white.

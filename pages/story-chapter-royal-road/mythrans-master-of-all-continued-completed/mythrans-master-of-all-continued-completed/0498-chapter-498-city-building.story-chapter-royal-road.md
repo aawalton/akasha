@@ -1,0 +1,199 @@
+---
+id: fc1eb75e-7a39-5cf4-b8e7-a2bea094b306
+page-type-slug: story-chapter-royal-road
+title: "Chapter 498 - City Building"
+slug: 0498-chapter-498-city-building
+partOf: mythrans-master-of-all-continued-completed
+position: 498
+ownLength: 2961
+unit: words
+publishedAt: 2018-02-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191207/chapter-498-city-building"
+royalRoadId: "191207"
+---
+
+Ren ran next door to the warehouse, and Tee-one was there with the human city model designed.
+
+“It can't hold the same number of people as the High Elf city because it doesn't have a mile high tower that thousands of people can live in.” Tee-one said.
+
+“Should we include farmland in the designs?” Ren asked.
+
+“I don't know.” Tee-one said. “We would have to remove quite a bit of the internal buildings to include enough farmland needed for that many people.”
+
+“What if we made full ledges on the inside of the angled wall?” Ren asked.
+
+“No, that's too much weight for the walls to hold without external support.” Tee-one said. “That goes for both cities.”
+
+“Hm.” Ren activated Serene State of Mind and thought about the problem for almost a full minute, then a smile spread across his face. “I got it.” He said and deactivated Serene State of Mind. “We lift the city model an eighth of an inch, when it's enlarged 9 times, it will leave a space of 40 feet for us to play with that's the size of the entire city.”
+
+“I assume we're lifting the walls an appropriate amount?” Tee-one asked.
+
+Ren nodded. “We can use some of the open areas we left and add funnels for sunlight, then add mirrors to spread it out.”
+
+“We'll have to add mirrors on the nearby buildings to direct the sunlight into the funnels, so we're not restricted by the height of the walls.”
+
+“Good idea.” Ren said, and opened the High Elven City model pattern to make the alterations they discussed while Tee-one did the same for the human city. “Now that we have that done, add in a church for the elements.”
+
+Tee-one added in a church to the human city pattern, and Ren ignored Xuunah's advice and added two of them to the High Elven city. He put them near the living area, between the elfling wall and the ring of large and small houses. Ren had intermixed the High Elf and elfling houses so that no one was segregated, and they could live where they wanted. He had done the same with the apartment buildings as well.
+
+Ren opened one of the plans that he had found in the stack at the central Library, the one that looked like a cathedral, and added it to the city on a direct path from the main entrance to the city. He was tempted to add one to the human city; but, he knew he would set off some kind of race war if he did that. It needed a Mana point, which confirmed his suspicion of what the plan actually was, and he saved the modified city model.
+
+With that done, he put a hand on Tee-one's shoulder.
+
+“Have you decided on the familiar you want as a friend?” Ren asked.
+
+“Well...” Tee-one looked up at Ruck. “We talked it over, and we wouldn't mind having another presence with us. It doesn't matter what it is.”
+
+“How about a modified dedicated servant crafter?” Ren asked, and Tee-one smiled as he picked up Ren's thoughts.
+
+“You have to give her legs instead, just so she isn't knocking everything over.” Tee-one said, and Ren chuckled as he nodded. They got to work designing her, gave her all the extra Mana generation and Protection that she would ever need. He also gave her as many Speed runes as she could handle, and then gave her the same Amulet of Unnatural Armor he gave to Lara, the Sage of Ages, combined with the modified Amulet of the Spider. Lastly, he made her inherent imbued spell Regeneration, then modified it with Time runes.
+
+Ren let the system give her a generic female face so it wasn't influenced by his own tastes. He and Tee-one set up the mold they would need and poured out the molten steel they required. Ren bent over and plunged his hand into it, just like he had when he created Artemis, and let the system do all the work.
+
+The steel formed into the shape the recipe called for and pushed the mold out of the way, and Ren poured all the Mana and platinum coins it asked for into it. He kept his hand there as it formed the connection with his mind, and he didn't try to block or alter it's assimilation of his knowledge and experiences, despite knowing it may feel exactly like Artemis did. The familiar came to herself and opened her eyes, then looked at him.
+
+“Thank you for giving me everything.” She said, and put a hand on his hand that was on her armored chest. “I know you feel regret for having Artemis love you right away, because you don't know her at all; but, you didn't restrict my creation at all.” She reached up with another hand and ran it through his hair, while one cupped his cheek, and two others gripped his shoulders.
+
+Ren opened his mouth to speak, and she used her last hand to press a finger to his lips.
+
+“Yes, I feel the same way.” She said and removed her finger. “It is also tempered with both knowledge and the need to work above all else.”
+
+“Does this mean every familiar I create will love me?” Ren asked.
+
+“Of course.” She said. “Ruck and Tee-one love you, too.”
+
+Ren looked at Tee-one, who nodded; and then looked up at the ceiling to see Ruck give him a 'thumbs up' gesture. “You guys hide it well.” He said, and the new familiar chuckled.
+
+“You are a proponent for all different kinds of love, Ren.” She said and let him go, then held a hand out to him. Ren took it and helped her stand, and she was almost 8 feet tall. Her metal hair wasn't as prominent as Artemis' was, and it only went to just past her top set of shoulders. Her legs were almost as long as Ren was tall, though.
+
+“Big.” Ren said as he stared at her, and she laughed as she bent over and picked him up. She hugged him with all 6 of her arms, and it reminded him of the Marilith demon; especially since he had designed her upper body with the same arms and flexible armor. She let him out of the hug and put him down a moment later.
+
+“Ah, I see you've decided on a name for me already.” She said and smiled. “Symmetra is a good choice.” She said and splayed out all 6 of her arms.
+
+“That kind of makes you look like a spider.” Ren said, and she smiled.
+
+“That seems appropriate, don't you think?” Symmetra said. “Considering that Lylyth and the Marilith demon are sisters.”
+
+Ren's mouth dropped open. “I completely forgot to tell Lylyth about that!”
+
+Symmetra laughed. “You'll have plenty of time to discuss it with her the next time you see her.”
+
+“As long as I remember.” Ren said and then smiled. “Let's get your city pattern ready.”
+
+“Mine?” Symmetra asked, and Ren sent her the plans Lara had given her. “Oh! I see.” She said. “Yes, you regretted having to leave before finishing that task.”
+
+“I really did.” Ren said. “It's only recently that I've gained the ability to get there without crossing the dwarf lands.”
+
+“What do you want changed?” Symmetra asked as she opened the Instant Tower recipe and added in the plans for the Giant-sized city at the proper scale.
+
+“I want a church added, and make the walls angled as well.” Ren said. “We might as well make each one difficult to assault.”
+
+Symmetra nodded and made the modifications. “Anything else?”
+
+Ren looked at the model plans. “I'm sure we can do the same thing as we did for the other two cities; but, is that a reasonable amount of farmland for Giants?”
+
+“Because it's so large, we can't get even a fraction of the same number of people inside as the High Elves.” Symmetra said. “That should be plenty of land for food, if we make sure to very politely ask the Earth beings to pay the city farms special attention.”
+
+“Good point.” Ren said.
+
+“What about a castle?” Symmetra asked. “Of course, this is assuming they would want someone to be their ruler.”
+
+“Yeah, I don't know.” Ren said. “It seems like asking for trouble; but, then again, it does have an administration building, too.”
+
+“Combine them.” Tee-one suggested. “Make the administration building a part of the castle.”
+
+“Ha.” Ren said and nodded to Symmetra, and she made the modification and added it to the Giant city model. “Okay, let's have a look.” He said and checked it over, and saw something in the assembled plans that he didn't notice in the separate ones. “Hello.”
+
+“What is... oh, you're kidding!” Tee-one said. “There's no way that's going to work.”
+
+“Once it's made, there's nothing they can do about it.” Ren chuckled. “Let's add it to the High Elf and Human city models, too.”
+
+Tee-one chuckled. “This is just asking for that 'T' recipe, you know.”
+
+“I'm pretty sure that was going to happen anyways.” Ren said. “This will just make them trying to mess with what we're doing that much harder.”
+
+“Okay.” Tee-one said. “It's added.”
+
+“Same here.” Ren said. “Get the resources ready, as we'll make them at the same time.”
+
+“I don't think making the models is going to set anything off.” Tee-one said.
+
+“It's better to be safe than sorry.” Symmetra said as they gathered together the things they needed. Wood, stone, glass, and steel were set beside each of them, and Ren gave Tee-one and Symmetra 1,000 platinum coins each. He hoped that they wouldn't need that much for making just the models, and they could keep the rest for anything else they made or would need to buy.
+
+Ren then made a Major Healing wand and an Enlarge or Reduce Anything wand for each of them. “Okay, this is it.” He said. “Activate your Craft Wondrous Item ability and choose the appropriate city plan.”
+
+The three of them did so, and chose the plans they had made, then started adding in the supplies they had stacked beside themselves. They each added in the money it asked for, then the Mana needed. Ren had to heal himself to refill his Mana Pool three times to complete the High Elven city, with it's Mana points and magic lifts. He had been tempted to add them into the other cities, but since they didn't have anything large enough to require a lift, he didn't bother.
+
+Symmetra's cube finished first, since hers had the fewest buildings. Tee-one finished next, because his buildings weren't as big. Ren's took another few minutes to finish, and when his was done, the three of them sighed in relief as they held a 1 inch wide cube in their hands.
+
+“Okay, let's prep the diamonds and enchantments we have to add to the models when we activate them.” Ren said took out several hundred 1 gold coin diamonds and the three of them used their Enlarge and Reduce Anything wands to make them full-sized diamonds, then they started adding the enchantments for Protection, Durability, Warding, Reinforcement for the structures, Empowerment to increase the effects of the enchantments on the other diamonds, Regeneration, and Mana Production.
+
+The best part about it was that Ren could enchant each one and use Double Infusion to enchant it again, then Tee-one could use Double Infusion and enchant it, and Symmetra used Double Infusion to enchant them once more. They could feel that 200 runes was the maximum that a diamond of that size could hold, and finished enchanting them all. They each took their allotted diamonds and stored them.
+
+“Oh, I just had an awesome idea.” Ren said.
+
+Tee-one and Symmetra laughed, and Teepo chittered in delight.
+
+“Go for it.” Teepo said, and Ren went to the smelter and made a set of basic armor, then used the Craft Wondrous Item ability to make it Holy Armor. He used his Retain Essence ability to store the enchantment on the armor, and took out the High Elven city model cube and transferred the enchantment to it.
+
+“Oh, that's brilliant!” Symmetra said and held out her cube. Ren made the basic armor into Holy Armor again, transferred the enchantment to Symmetra's cube, then did it again and transferred it to Tee-one's cube.
+
+“Now the cities will have Reassurance, Command, Camaraderie, Sense Undead, and Sense Void Auras automatically, and people inside will benefit from them, even if they don't have the Auras themselves.” Tee-one said. “Not to mention that the cities should glow slightly on the outside of the walls and buildings.”
+
+“Don't forget the people inside will also have access to the inherent spells for Detect Undead, Turn Undead, Minor Healing, Major Healing, Cure Poison, Cure Curse, and Full Restoration.” Ren chuckled. “Once people find this out...”
+
+“You did say you wanted an attraction to draw new people to the county.” Tee-one said, and Ren laughed.
+
+“Now we just have to activate the models and add the diamonds.” Ren said. “There's not enough room in here for that.”
+
+“We should head out to the spot where we're going to put the human city.” Tee-one suggested, and Ren nodded.
+
+“I'll go and get Artemis, Xuunah, and Officer Holly.” Ren said and left the warehouse and went to the bakery, where he felt that Xuunah had sat and waited patiently for him. “I've got the city models done, and we're going out into a field to activate them.”
+
+“Can we come with you?” Xuunah asked.
+
+“That's why I'm here.” Ren said. “To ask if you want to come along.”
+
+“This I've got to see.” Officer Holly said and stood up, as did Artemis.
+
+“I've made another familiar, by the way.” Ren said and held the door of the bakery open, and he felt mixed feelings from Xuunah and Officer Holly.
+
+Another one? Both women thought at the same time as they glanced at Artemis.
+
+Artemis didn't have any conflicted feelings at all about it. She knew another familiar would be created as a companion for Tee-one and Ruck, and she couldn't wait to meet her. The three women followed Ren next door to the warehouse, then Xuunah and Officer Holly stopped walking in shock when they saw the 8 foot tall and 6 armed metal woman. Artemis kept walking and held a hand out to the 2 foot taller woman.
+
+“It's nice to meet you.” Artemis said.
+
+“Likewise.” Symmetra said and shook the offered hand, then rubbed all 6 hands together in anticipation. “This is going to be fun.”
+
+“Fill your crucibles.” Ren said and they each took out a large crucible, filled them with molten metal and stored them, then he led his three familiars and the two women out of the warehouse and over to Princess' house. “Princess, can we have a ride?”
+
+“Yes, My Lord.” Princess said and came out to meet him.
+
+“Princess.” Symmetra said and ducked her head.
+
+“Symmetra.” Princess said and nodded her head in response.
+
+“It's just a short ride out to the field over there.” Ren said and pointed. “Then a couple of longer rides.”
+
+Princess huffed as Ren took the covered cart out of her saddlebag and attached it to her, then helped everyone climb in, then he rode Princess over to the spot.
+
+“That was quick.” Officer Holly said and climbed out of the cart. “We just got in.”
+
+“We could have run it ourselves in a couple of minutes, but why?” Ren chuckled. “Should I waste Princess' benefits by not using her?”
+
+Officer Holly chuckled, too. “Point taken.”
+
+Everyone else climbed out of the cart and Ren cast Permanent Air Walk on Symmetra, then Ren, Tee-one, and Symmetra walked away from the cart in three different directions, and ended 120 feet apart. They stood in a line with Ren on the end, Tee-one 60 feet away from him, and Symmetra at the end of the line 60 feet away from Tee-one. The three of them put their cubes on the ground and spoke the Sea Dweller passwords, then the three 50 foot wide city models popped into existence and pushed them back 25 feet without hurting them.
+
+“Activate your Artisan skills and start applying enchanted diamonds.” Ren said and took his own instructions, brought out the large crucible, and started adding the diamonds to the tops of buildings so that they didn't impact the looks or aesthetics of the High Elf structures. Tee-one and Symmetra were doing the same thing, so that the diamonds wouldn't interfere with how things were supposed to look.
+
+Thanks to their Artisan skills to make everything more appealing and valuable, they finished the application of the enchanted diamonds in about 10 minutes and the cities looked that much better because of it. The three of them spoke the Sea Dweller command words and deactivated their city models, then Ren and Symmetra stored theirs.
+
+“Tee-one, wait for 15 minutes, then enlarge that cube 9 times.” Ren said, and Tee-one nodded. “It should give us enough time to get into position with ours, and we'll do it all at the same time and speak the command words.”
+
+“This is going to be epic!” Symmetra said. “I was just born, and I'm making an entire magical city that's going to change the entire world!”
+
+Ren nodded to her, and they helped Xuunah, Officer Holly, and Artemis into the cart. Symmetra climbed in herself and Ren closed it, then mounted Princess' saddle.
+
+“To the Giant Refugee Settlement between the dwarf and giant lands, please.” Ren said to Princess, and she trotted up into the sky and poured on the speed.

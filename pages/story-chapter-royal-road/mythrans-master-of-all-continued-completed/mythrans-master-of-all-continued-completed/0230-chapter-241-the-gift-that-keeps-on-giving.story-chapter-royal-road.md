@@ -1,0 +1,317 @@
+---
+id: f4e9364c-f957-5bbf-bf00-5def72e94e34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 241 - The Gift That Keeps On Giving"
+slug: 0230-chapter-241-the-gift-that-keeps-on-giving
+partOf: mythrans-master-of-all-continued-completed
+position: 230
+ownLength: 3494
+unit: words
+publishedAt: 2017-05-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133359/chapter-241-the-gift-that-keeps-on-givin"
+royalRoadId: "133359"
+---
+
+“What are you... oh... oooh!” Lylyth gasped and looked down at Ren as he kissed her between the legs. He worked her over well, and pushed as much of his emotions into her as he could. He didn't want to think about what he was actually doing; so, he intentionally lost himself in the sensations. That way, all Lylyth could get from him was what he was feeling; and he let his emotions rule his actions.
+
+Lylyth caught her breath at the sheer flood of emotions that flowed out of Ren, and she had a hard time as she tried to consume them. Fear, terror, greed, anger, and any of the darker emotions, she had lots of experience with. Lust on the other hand, she'd never had anyone feed her that before. She wrapped her mandible/legs around his back, and intended to pull him away; but Ren misunderstood the action, and thought she was offering him encouragement. He grabbed onto her thighs and dug in with a passion.
+
+Lylyth felt amazed when, for the first time in centuries, something started to build inside of her. She could feel how much Ren enjoyed what he was doing, and she fed on that; then her own growing excitement showed as her body reacted to the pleasure, and it added to the intensity of the actions he applied to her. He remembered the last time he had performed this act, and added those feelings to what he offered to her.
+
+Lylyth's eyes widened as his emotions doubled in size and complexity. She gave up her efforts to chew on the emotions and sample what he was feeling, and opened herself wide to let the emotions pour in unfiltered. Just like with Elerlyth, he felt his emotions being drained away.
+
+It's working! Ren thought, kept working on her, and remembered a few more of the other times he'd done this to women, and added them to the flow. He felt Lylyth's breath get faster, and his pleasure at giving her pleasure added into the flow of emotions she consumed. A few minutes later, her hands grabbed the sides of his head, her legs tightened around his back, and he heard her hiss.
+
+Taking that as a sign that she was close to finishing, Ren used his fingers and pushed Lylyth over the edge.
+
+“AAAhhhhhHHHH!!!” Lylyth screamed, clamped her legs together, and broke both of Ren's arms.
+
+“Gah!” Ren grunted as his arms flopped down to his sides and he stopped kissing her. Lylyth felt the change in his emotions, and consumed them without realizing what the change meant. She bucked a little when Ren rested his forehead on her pelvic bone, and a few moments later, unwrapped her legs.
+
+“You... oh, you...” Lylyth said, and moaned in the afterglow. “I can't believe you did that to me.” She licked her lips. “I haven't felt like that since...” She shook her head. “...no. I swore I wouldn't speak his name again.”
+
+“I... I'm glad I... could be of service... Your Highness.” Ren said between breaths.
+
+“What is it?” Lylyth asked. “You weren't out of breath before.”
+
+“It's... it's nothing.” Ren said as he stepped away. “May I go home now?”
+
+“You have fed me well and truly.” Lylyth said. “Of course you can.”
+
+Quest Complete!
+
+You have successfully fed the Queen of the Dark Elves. You did it well, and far beyond what she had expected.
+
+Rewards: 25,000 XP
+
+Influence: 13,000
+
+A gift from the Queen of the Dark Elves
+
+Ren felt a wash of Mana from Lylyth. Her legs straightened out and she tipped forward to put her weight on her humanoid legs, as the spider legs and the rest of the spider's body was absorbed into her lower back, much faster than it had come out.
+
+“You have given me something that I haven't had in a very long time.” Lylyth said. “It's only fitting that I give you something as well.” She held a hand out to him. “Give me your hand.”
+
+“I'm sorry, Your Highness.” Ren said, and she felt his regret. “I can't.”
+
+“Do you refuse my gift?” Lylyth said, surprise clearly in her voice.
+
+“Of course not, Your Highness.” Ren said and bowed his head. “I would gladly accept anything that you would offer me.”
+
+“Then what...”
+
+Ren sighed. “I can't move my arms to take it.”
+
+“You can't...” Lylyth looked down at his arms, and saw that his hands were clearly facing the wrong way. “No!” She exclaimed, and knelt to look at them closely.
+
+“I thought I could leave before you noticed.” Ren said.
+
+“Great Vasalor.” Lylyth said softly. “I broke your arms.”
+
+“Actually, I did.” Ren said. “If I hadn't been holding onto your thighs at the time...”
+
+“You would take the blame for this away from me?” She asked.
+
+“There's no blame to take, Your Highness. You didn't have much choice at the time.” Ren said and smiled. “They moved on their own at the end.”
+
+Lylyth shook her head. “You are even more foolish than Elerlyth believes.”
+
+“Wh-what?”
+
+Lylyth sighed and looked down at him. Even while she knelt, her 9 feet of height only dropped to just under 7 feet, until she sat back and dropped to just over 5 feet. Since Ren was only 4 feet 7 inches, she still had to look down slightly.
+
+“Why am I not feeling your anguish?” Lylyth asked. “Where is your pain?”
+
+“It's there, but I'm ignoring it right now.”
+
+“You...” Lylyth shook her head again. “No wonder Elerlyth doesn't want to lose you.”
+
+Ren wasn't sure what to say to that, so he didn't say anything.
+
+“Let's get you healed.” Lylyth said, turned towards the wall of spiders, and let out two quick whistles. “She will be here in a minute.”
+
+The wall of spiders shifted slightly, and a 10 foot long spider skittered down the wall. When it reached the floor it came over to them, and Ren saw that a dark elf woman sat comfortably on it's back.
+
+“Thank you.” The dark elf woman said to the queen's familiar, climbed down, and came over to Ren and Lylyth. She looked like she was only about 6 feet tall. “Your Highness.” She said, and bowed. “What do you require of...” She gasped as she caught sight of Ren. “By Lylyth! Your arms are broken!”
+
+“That is how it happened.” Lylyth said, and the dark elf woman looked at her in shock.
+
+“I'm so sorry!” The dark elf woman said and bowed deeply. “I shouldn't take your name in vain like that.”
+
+“Yes, yes. I accept your apology.” Lylyth said. “Now help this man.”
+
+“Right away!” The dark elf woman said and turned to Ren. “This is going to hurt.”
+
+“It always does.” Ren said. “Go ahead.”
+
+The dark elf woman smiled at him. “Had this done before, have you?”
+
+“More times than I can count.” Ren said, then held in his yell as the dark elf pulled and turned one of the arms to face the right way. Lylyth felt some of the intense pain he felt, but because she wasn't touching him, she was only getting a small taste.
+
+“You can touch my forehead.” Ren said. “It's the only bare skin I can offer right now.”
+
+Lylyth looked at him with surprise on her face, then she smiled. “Thank you.” She said, and laid a hand across his forehead. “Oh, my.” She said, and tried to stop herself from licking her lips. “You aren't blocking it now.”
+
+Ren shook his head. “If you can get something from this, then...AHhhh!” He yelled as the dark elf woman pulled on and twisted his other arm back into place.
+
+Lylyth's eyes lit up as she felt his emotional pain. “Why can't I take as much as...”
+
+“I've gotten used to sharing as much as I can during... ah... intimate contact, Your Highness. Just touching skin isn't going to be an easy meal for you.” Ren smiled. “Maybe just an appetizer.”
+
+Lylyth nodded, because she could feel his honesty. Like he had said, it wasn't as strong as if she was scaring him; because causing intense emotions removed people's inherent ability to hide those emotions. It was still pretty strong, though. The dark elf woman that had been summoned to heal him, placed her hands on one of his arms, and they started to glow as she used her healing ability.
+
+“Elerlyth was very lucky to have found you.” Lylyth said. “In all my years, I have never found anyone that would willingly feed us.”
+
+“Never?”
+
+Lylyth shook her head. “Even the ones that enjoy things like pain and torture, were still reluctant to volunteer themselves for an encounter with us.”
+
+“I'm sorry to hear that.” Ren said, and the pain in one of his arms lessened. Lylyth felt his sorrow and then relief when the healer let his arm go. Ren flexed the fingers and bent the elbow.
+
+“How is your Mana?” Ren asked the healer.
+
+“It's almost down to half.” The dark elf woman said. “I have another Major Healing I can use today, so it's enough.”
+
+“You can use Major Healing twice?” Ren asked, astonished. “And from your own Mana, too.” He said. “That's amazing!”
+
+The dark elf woman's face flushed to a darker gray, the dark elves version of a blush, and she put her hands on his other arm. Once there, her hands started to glow again.
+
+“Your emotional range is quite astounding.” Lylyth commented after she watched, and felt, his exchange with the healer. “How can you switch so completely like that?”
+
+“I'd say practice, but I've always done that.” Ren said and smiled as the pain of his other arm eased away, and he let relief and happiness flow out to her. Lylyth shook her head in disbelief, and looked at him.
+
+“I swore to Elerlyth that I wouldn't steal you from her; but, I am tempted to ask you to stay.”
+
+“Your Highness.” Ren said. “I would be most honored to be chosen by you for such a thing; but, you said it yourself. I have been Elerlyth's main food source.”
+
+Lylyth sighed as she felt his resignation and regret. “Yes, I will not break my word to her.” She said, and looked at him. “What you did for me was a complete surprise.” She moved her hand from his forehead to the side of his face. “But, a physical relationship would not work between us.”
+
+Ren opened his mouth when he remembered that he had a spell to make himself twice as tall, then thought better of it and nodded. Lylyth felt his pensiveness, then his acceptance.
+
+“You are a wonder.” Lylyth said and removed her hand from his face. “You really did consider having sex with me, even though I am twice your size.”
+
+Ren's face flushed slightly red because he did think about it. Especially when he thought he would have to feed her the same way he fed Elerlyth. Lylyth felt some of his embarrassment and smiled at him.
+
+“I know you would have tried, and I imagine quite valiantly; but, it's been even longer since I've been satisfied that way.”
+
+Ren was surprised to hear that, and reached out to cup the side of her face. “I'm so sorry, Your Highness.”
+
+Lylyth stared at him, as his sadness came through his touch, and it was followed by tenderness, and then confidence. She smiled at the last feeling, and Ren removed his hand. The two of them stood that way for a moment, then the healer spoke.
+
+“He is all healed, Your Highness.” The dark elf woman said.
+
+“Thank you.” Ren said, and handed her a Mana potion.
+
+“What's this?” She asked him.
+
+“It's a Mana potion.” Ren said. “It should give you some of your Mana back.”
+
+The dark elf woman held the potion in her hands as it if was worth a fortune, and stared at him with wide eyes.
+
+“You are giving this to me?”
+
+Ren quickly leaned close to Lylyth's ear and whispered. “Am I breaking some sort of social protocol?”
+
+“No.” She whispered, and Ren stood up straight.
+
+“Yes, I am giving it to you.” He said with confidence.
+
+The healer looked at her queen. “May I accept this generous gift?”
+
+Lylyth nodded, and the dark elf woman grinned.
+
+“Thank you, my Queen!” She said, and bowed to her. “Thank you, My Lord!” She said, and bowed to Ren.
+
+Notice!
+
+You have gained Influence +10
+
+Ren waited for the popup stating that it wasn't the same Influence as in the Dwarven Kingdom, and it didn't appear.
+
+No way. Ren thought as the healer climbed back onto the Queen's familiar. The Influence is the same!
+
+“You are surprised.” Lylyth said.
+
+“I am.” Ren said as the spider skittered over to the wall and climbed up and out of sight.
+
+“It's not often that a noble grants a boon to others.” Lylyth said. “Like this.” She smiled. “Give me your hand.”
+
+Ren held his right hand out to accept her gift. Lylyth took his hand and held it with one hand, then turned it as if she was going to bend over it.
+
+“This is going to hurt.” Lylyth said, bent over his hand, and bit him.
+
+*
+
+Elerlyth had peeled all of the webbing from her face, and now sat on the bed.
+
+I don't know what to do. She thought. If there was somewhere I could go to help him... She sighed. I guess all I can do is wait. She had wiped away her tears before leaving the bathroom, and now just felt kind of numb inside. Please, Ren! Come back!
+
+*
+
+Ren felt the punctures of Lylyth's teeth as they sank into his skin; but thankfully, it didn't feel like needles. Lylyth could feel Ren didn't mind it at all, and then she felt his relief.
+
+You are just full of surprises. She thought, and concentrated on giving Ren the gift. She sucked out some of his blood, then injected her venom.
+
+Ren felt something enter the back of his hand and tensed up for a moment; then relaxed as the feeling stayed there. He couldn't see what Lylyth was doing, because her hair blocked his view; so, he stood there and waited to see what her gift would be.
+
+A couple of minutes passed, and Ren felt her pull her teeth out of his skin. A moment later, he felt her tongue lick his skin over the puncture wounds. It sent a tingle up his arm, and Ren's eyes widened as that tingle went all the way down below his waist, and made him excited.
+
+Whoa. Ren thought.
+
+Lylyth lifted her head and looked at him, because she had felt his reaction. “That... hasn't happened before.”
+
+“Experiencing things that haven't happened before seems to happen to me a lot, Your Highness.”
+
+Lylyth smiled, and held up his hand. On the back of it, was a spider emblem. It looked like it was blue, and it was a top down view.
+
+“Is that a tattoo?” Ren asked, and ran the fingers of his other hand over it. The emblem didn't smudge or shift, and he couldn't feel any difference from how it had felt before.
+
+“It is my mark.” Lylyth said. “Very few have ever received it.” She snapped her fingers and several tarantulas, about 5 inches long, crawled over to her. “Now... which one... hmm.” She poked one, and it bobbed. “No.” She tried to poke another, and it weaved to the side. “Don't be cocky.” She said, and poked it. It didn't bob at all, and she smiled. “Yes, you'll do.”
+
+“Your Highness...”
+
+“Don't say you are going to refuse.” Lylyth said and picked the tarantula up.
+
+“I wouldn't dare say such a thing.” Ren said. “I am an Adventurer, though. I can't carry one of them on me.”
+
+“I can feel your concern.” Lylyth said. “Why can't you take it?”
+
+“I don't want it to get hurt.” Ren said. “It's bound to be killed at some point.” He said and sighed. “Please don't condemn it to death.”
+
+Lylyth felt his sadness at the thought, and it touched her heart. She gasped, because having someone worry about that hadn't happened before. She held the tarantula in her hand and took several deep breaths.
+
+He really is concerned about the spider's welfare. Lylyth thought. He's truly worthy of the gift. “Do not concern yourself over that.” She said and handed Ren the spider. When he cupped it in his hands, the spider started to glow. He felt a sharp pain on the back of his right hand where the mark was, then the spider stopped glowing.
+
+“There.” Lylyth said, and took the spider from him. Her familiar came back down the wall from wherever it had come from, and crawled over to them. She put the spider she held down on the floor, then her familiar lifted a leg and stepped on it.
+
+“No!” Ren said, and felt a sharp pain on the back of his hand. When he turned his hand over, there was the spider. “What the?!?”
+
+“That was delicious, even though it was barely a taste.” Lylyth said and grinned at him.
+
+“What happened?” Ren asked. “Did... did it die?”
+
+“No.” Lylyth said. “It's now joined to your mark, and is as much a part of you as your hand.”
+
+“WHAAAATTTT?”
+
+Lylyth laughed as she fed on his shock and wonder. “Why does Elerlyth ever let you leave her sight?” She reached over and picked up the spider with her hand. “Any time it would be killed, it is recalled to the anchor.” She said, and clapped her hands together. Ren caught his breath, then felt a sharp pain on the back of his hand.
+
+“Your mark is the anchor?” He asked as she looked at the spider that was on his hand again.
+
+“Any dark elves that see it, will know you have my favor.” She said, and opened her hands to show Ren that there was no squished spider. “If they hurt you, they will suffer.”
+
+“Do you mean they will suffer right away, or that if you find out about it, you'll make them suffer?”
+
+“If I find out about it.” Lylyth said, a little surprised at the question.
+
+“Okay.” Ren said. “I don't want to meet any dark elves and make a claim that they'd be hurt right away if anything happened to me, if it wasn't true.”
+
+“If you tell me about it, they will be hurt.”
+
+“Understood.” Ren said and held the tarantula up. “What can this little guy do?”
+
+“Anything a normal spider can do.” Lylyth said. “Or it can do nothing.”
+
+“What about food?”
+
+“It can fend for itself.”
+
+“How?” Ren asked. “I'm not questioning you, Your Highness. I'm just curious.”
+
+“I know you are.” Lylyth said, because she could feel it. With her mark on him, she could taste more of his emotions. It still wasn't as good as skin contact, but it could be used from anywhere. “Every once and a while, it will find suitable prey and eat it.”
+
+“Can I give it normal food, or if it's a liquid diet, can I feed it drops of Health potion?”
+
+“I think I better take you home before you start to annoy me.” Lylyth laughed. “You cannot be this amusing all of the time.”
+
+Ren smiled. “You're right. I can be morose sometimes.”
+
+Lylyth felt his amusement, and stood up from her kneeling position. “I look forward to that.” She said, and held out her hand.
+
+“You aren't going to inject me, are you?” Ren asked her, and she grinned at him.
+
+“I'm not going to catch you like that, am I?”
+
+“That depends.” Ren said and took her hand. “If a physical relationship between us won't work, what's the point of injecting me?”
+
+“To make you feel Fear, obviously.” Lylyth said and started walking towards the wall of spiders.
+
+“It's never worked before.” Ren said as the spiders parted to let them through. “I had a really high dose, too.”
+
+“It still didn't make you afraid.” Lylyth said.
+
+“No.” He said. “I'm not sure why.”
+
+“Now I'm going to wonder if a pure dose would work on you.”
+
+“I hope you can keep on wondering.” Ren said as they came to the spot where the portal had been. “I don't want to go through that again.”
+
+“Did it bother you that much?”
+
+“I've always hated throwing up.” Ren said. “I never usually have a lot to eat; so, when it comes back up...”
+
+Lylyth felt how he felt about that, and smiled as she waved her arm to create a portal.
+
+“Be well, Ren.” She said, and Teepo dissolved into the ring.
+
+Ren shifted his grip on her hand, and kissed her fingers. “Goodbye, Your Highness.” He said, let her hand go, and stepped through the portal.

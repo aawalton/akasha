@@ -1,0 +1,449 @@
+---
+id: eb1bafa3-f565-552e-b82b-b7360257280d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 367 - Teach Me"
+slug: 0360-chapter-367-teach-me
+partOf: mythrans-master-of-all-continued-completed
+position: 360
+ownLength: 5136
+unit: words
+publishedAt: 2017-09-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163837/chapter-367-teach-me"
+royalRoadId: "163837"
+---
+
+Patty really was fascinated by Ren and his work, and she sat there and watched him as he worked tirelessly to make stained glass picture after stained glass picture. He didn't slow down, or take breaks, or anything of the sort. She watched him as he colored and cut glass, wrapped them in copper, soldered them together, then made frames for them.
+
+It was almost hypnotic as Ren moved to each thing; from the workbench to the glass forge and back, to the anvil and back when he ran out of copper foil, to the smelter and back, over and over. After a couple of hours, Patty became tired despite her fascination with his work, and eventually dozed off.
+
+“She's asleep.” Teepo said. “Are you going to wake her?”
+
+When I'm done. Ren said and kept working. She needs the rest after that scare.
+
+“I think that was the fastest I've ever seen you move from a dead stop.” Teepo said. “You usually need a good running start to go that fast.”
+
+I surprised myself with that, too. Ren thought.
+
+Ren worked for another hour and finished with the last two windows, which were just solid black for the Void (Arcane), made frames for them, and stored all the stained glass windows. He walked over to Patty, and saw she had laid down and was curled up on her side. He knelt near her and touched her shoulder to shake her a little bit.
+
+“Patty.”
+
+“Mmm?”
+
+“Wake up.”
+
+Patty rolled over onto her back with her eyes still closed, stretched out her arms and yawned. Ren couldn't help but look at her chest as it peeked out through her shirt, and then she arched her back and he got a good look as they strained against the buttons that held it closed. Ren started to shake his head to stop himself from staring, and Patty's arm snaked around his neck.
+
+“Hold me...” Patty mumbled. “Like that...” She sighed. “No, kiss me there...” She took in a deep breath. “Yes, there.”
+
+Ren wasn't sure what to do. He thought about pulling away, but she had a good hold of him with her hand, and then her other hand reached out and grabbed him by the hair.
+
+“Harder...” Patty said and pulled his head onto her chest. “Mmmm.”
+
+Ren could only stare at her as she moved his head back and forth, and twisted her body from side to side to rub her chest all over the side of his head. When she got excited, he discovered the tips weren't near as big or as prominent as Lucy's was, and he relaxed.
+
+So, they only used a basic template for her, and didn't get the entire model from Lucy. Ren thought and smiled. This really isn't Lucy.
+
+“It's a good copy, though.” Teepo said, and Ren nodded; which rubbed his face on Patty's breasts. She caught her breath, and Ren figured this was a good time to try and wake her up.
+
+“Patty, wake up.” Ren said. “It's time for me to go.”
+
+“No, don't... I... I need...” Patty whispered.
+
+“You need to work.” Ren said, and reached up to pull her hand from around his neck.
+
+“No... please...” Patty said. “Don't leave me... again.”
+
+“I'm sorry, Patty.” Ren said and carefully took her other hand from out of his hair. “My friends need me.”
+
+“But... I need you, too.” Patty said, and then she opened her eyes and froze as she saw Ren. “Wh-what are... why are you in my...” She looked frantic for a moment, then she remembered where she was. “Oh, damn.”
+
+Ren smiled. “You fell asleep, and... well, I assume it was a... nice dream.”
+
+Patty put her hands over her eyes. “Oh, god.”
+
+“Hey, it's okay.” Ren said.
+
+“No, it isn't!” Patty said. “Now you know I... that I have... oh, god!”
+
+Ren reached out and took her hands. She tried to fight the movement, but not very hard. He removed them from her face and smiled at her.
+
+“Was I tall and muscular at least?” Ren asked, and she sighed.
+
+“Just let me keep my shame private, okay?” Patty asked, and Ren chuckled.
+
+“You shouldn't be ashamed.” Ren said. “I'm pretty sure it's healthy for a woman to have fantasies.”
+
+“But... the things we... I mean, what I imagined we...” Patty shook her head.
+
+“If it makes you feel any better, I'm not planning to seduce you or take you to bed.” Ren said. “Although, I should thank you for the cuddle.”
+
+Patty looked at her chest and how much her shirt was ruffled, and she covered her breasts with her hands and her face turned to a deep red.
+
+“I can't believe I did that.” Patty said.
+
+“Me, either.” Ren said and stood up, then held a hand out to her.
+
+Patty waited for a moment, then let her breasts go and took his hand. It was warm after she had touched herself like that, and Ren pulled her up to stand.
+
+“Thank you for the cuddle, Miss Patty.” Ren said and let her hand go.
+
+“Um... I... I think... after this... you...” Patty's face stayed red. “...you can call me Patty.”
+
+“Okay, Patty.” Ren said. “I've got to go.” He said. “Don't forget to tell the council they can come here for the town meetings if they want to.”
+
+“Th-they can?” Patty asked and looked around.
+
+“That's what I made this meeting room for.” Ren said. “See you later.”
+
+Patty nodded and Ren ran down the stairs and outside. He ran down the road a little and stopped.
+
+“Holy crap!” Ren said. “You finished it?!?”
+
+Tee-one came over to him. “Just the outside.” He said and Ruck came over, too. “It seemed like the most important part to finish first.”
+
+“Oh, it was!” Ren said. “Let's get these windows installed!”
+
+They took half an hour to install the 18 windows in the Church, with one window in the personal rooms, and 1 of each in the main chamber. They took another half an hour to build the internal walls and hallways, then all the chairs and pews they needed.
+
+Notice!
+
+You have finished construction of a Church in Walin County. Unfortunately, is a very sparsely populated area, and the daily visitors will be few and far between.
+
+Do you wish to combine Church Visitor notifications? Yes / No
+
+“Yes!” Ren said. “It's done! Let's make the big bakery next!”
+
+The three of them went outside and down the street to almost across from the Main House, and built a large building with 3 sets of ovens inside. It had 3 of the old large brick ovens, 3 normal metal ovens, and 3 large ovens. They made 9 workbenches and a storage area for anything they would need. They lined one wall with shelves, and Ren remembered the things he had used in the mansion's kitchen and in Nathalia's kitchen. After a quick trip to the large forge next door, they stocked the shelves with steel bowls, pans of all shapes and sizes, and utensils.
+
+“We can't make anything else for them until we find out what they need besides this.” Ren said.
+
+“My Lord, we need something to heat the grease in.” A woman's voice said from the doorway. Ren, Tee-one and Ruck turned to look, and saw a group of 4 women. They stared at the bakery like they'd never seen anything like it before.
+
+“Grease?” Ren asked.
+
+“Yes, for deep frying.” Gemma, Fern's wife said.
+
+Ren looked at her with wide eyes. “What do you deep fry?”
+
+“They are called 'doughs'.” Gemma said. “When we make bread, there's usually scraps of dough left over. We take the scraps and flatten them, then toss them into hot grease for several minutes.”
+
+“Where do you get the grease?”
+
+“From the animals.” Ramona, Russell's mother said. “There's nothing better than animal fat to make grease for cooking.”
+
+Ren turned to Tee-one and Ruck. “My friends, we're making a deep fryer!”
+
+The three of them high-fived each other.
+
+“Tee-one! Make a long counter for the lovely ladies to sell things from!” Ren said. “Ruck! Tables and chairs for people to eat at!” He said and ran to the door. “I'll make the stand and the fryer!”
+
+“My Lord! You don't know what...” Gemma tried to say.
+
+“Leave it to me!” Ren said and ran from the bakery and next door to the forge. “It's gotta be big! I want it big!” He said and took out his Iron Wall wand and made a 2 foot by 3 foot by 3 foot block. “Ha ha! This is so awesome!”
+
+Ren used paving stones to mark the outer boundary, then poured molten metal over the iron block to fill the instant mold. He spread it with his hand to make it even on the top and to make sure it was thick enough, then absorbed the heat from it. He stored it and then made another one, and another.
+
+“Why make one when you can make three?” Ren said, dismissed the Iron Wall spell, and used more paving stones to make a mold for a stand and shelf underneath the steel tubs. He filled that mold 3 times and stored them, stored the paving stones, and ran back to the bakery.
+
+“My Lord, please... you have to listen.” Gemma said. “It's difficult to make them, and the grease can be too hot and can hurt when it splashes.”
+
+“Don't worry about that.” Ren said. “I'll make something in a minute, assuming you don't already have what I need.”
+
+“I have what you need?” Gemma's eyes widened, and Ren chuckled.
+
+“I mean, what do you use to get the doughs out of the grease?”
+
+“Oh!” Gemma said, and her face flushed red. “Betsie?”
+
+Betsie held out a box of utensils that they used, and Ren looked through them.
+
+“Ha!” Ren said and picked up a wire mesh strainer and got the plans for it.
+
+“How did you know it was that one?”
+
+“I knew what to look for.” Ren said and put it back in the box. “I'll be right back!”
+
+*
+
+“Where is he running to?” Ramona asked as Ren disappeared out the door. “He runs almost as much as my little Russell.”
+
+“He's making a better strainer.” Tee-one said. “Can you send someone to get some grease?”
+
+“Russell!” Ramona said, and her son came into the bakery.
+
+“Hey! Look at this place!” Russell said. “I've never seen anything like it!”
+
+“Go to my place and get the bucket of grease.”
+
+“Mom, that'll take forever to haul back here!”
+
+“Ruck can carry it.” Tee-one said, and Ruck waved to Russell.
+
+“Holy moley!” Russell said and pointed. “It's a giant backpack!”
+
+“Russell!” Ramona said. “Just go!”
+
+“Yes'um.” Russell said and left through the door with Ruck right behind him.
+
+“He never was very tactful.” Ramona said.
+
+“He's right, though. Ruck is a giant backpack.”
+
+“We didn't want to say anything about it.” Gemma said. “We weren't sure if it was proper or not.”
+
+Tee-one smiled. “I can assure you that Ruck was not insulted.”
+
+*
+
+Ren knew what to make now that he had the plans for a flat wire mesh strainer. He altered that design and added sides, front, and back to it to make it a basket; then extended the handle up and back so that the contents could be held easily and the excess grease could be shaken off. He knew he wouldn't be able to make the thing by hand, so he let the system make it for him and used the appropriate amount of molten metal.
+
+Since it was just a wire mesh and not solid, it didn't take much metal at all, and he made three of them the same size as the large steel tubs, and then a little hook on the backs so that they could hang on the side of the tubs to let the items from the grease drain if necessary.
+
+“Oh, I can't wait!” Ren said and ran back to the bakery. “I've got them made!” He said and went to the first spot and took out the metal stand, enchanted it with Fire runes, and then added the 2 foot wide by 3 foot long by 3 foot deep steel tub, then took out the large wire basket and laid it inside.
+
+“I'd comment on the enormous size of the thing...” Betsie smiled. “...but, I'm pretty sure Ramona would make a crude joke about it.”
+
+“It wouldn't be crude.” Ramona said, and looked at Ren. “It would be both funny and appropriate.”
+
+“Where do I get the grease for this thing?” Ren asked her, and ignored her attempt to flirt.
+
+“It's on it's way.” Ramona said. “Although, I don't know what you expect. We don't have the things with us to make dough.”
+
+Ren slapped his forehead. “Sinks and grinders!”
+
+“Wh-what?”
+
+“You need a water source, and something to grind the wheat to flour.”
+
+“We have mortar and pestles.” Gemma said.
+
+“You do it by hand, but that's not going to work with a big bakery.” Ren said. “Tee-one?”
+
+“I think one of the stone slabs could work.” Tee-one said. “If we use one of the big round stones and cut it down...”
+
+“...we can make a mold and cast it in cement!” Ren said. “If we do that...”
+
+“...then we can make the support structure and add gears to the giant pestle.”
+
+“We could go with the coil springs, or...”
+
+“...if we had a high enough waterfall, or even just strong jets of water... a large water wheel could be adapted to do the grinding for us.”
+
+“We'd have to add in a lever so it's not going all the time.” Ren said. “We'd need to put it on a swivel or a hinge so it can be dumped.”
+
+“We'll also need a really big sifter.”
+
+“That I now have the plans for.” Ren said. “I just have to scale it up once we have the rest built.”
+
+“I'm glad we made this place so big. We can make the addition in the back.” Tee-one said. “I'll make the brace and hinge assembly.”
+
+“I'll prepare the slab and one of the big stones!” Ren said and ran out of the bakery while Tee-one went to the back of the building and started making the supports the thing would need, and a container to hold the cement.
+
+*
+
+“Okay, I honestly have no idea what's going on.” Gemma said.
+
+“Men are working and are excited about it.” Ramona said and laughed. “But, I don't know what they are doing, either.”
+
+A few minutes later, Russell and Ruck came into the bakery.
+
+“We brought the buckets!” Russell said, and Ruck took out three of them.
+
+“We should only need one.” Gemma said and struggled to pick one of them up. Ruck took it from her, and motioned to the steel tub Ren had made. Gemma nodded, and Ruck skittered over to it and carefully dumped the large bucket of grease into the tub. It only went up about a quarter of the way, and Gemma looked at it.
+
+“Well, I was wrong.” Gemma said. “Add in another one.”
+
+Ruck took another one and it half-filled it.
+
+“That's better.” Gemma said. “It's deep enough.”
+
+“Russell, can you bring me my baking things?” His mother Ramona asked.
+
+Russell sighed. “Why didn't you ask for them before?”
+
+“I didn't think I needed them before.” Ramona said and looked at the shelves. “I'll only need the flour, eggs, milk, and other things. Apparently, everything else is here already.”
+
+“That's a relief.” Russell said. “Hey, Ruck... want to make another run?”
+
+Ruck nodded and left the bakery with Russell.
+
+*
+
+Ren carefully carved the stone slab into a half-sphere, to set in cement and make a mortar that would be big enough to grind a lot of wheat in; then he took one of the large stones and slowly trimmed off the excess bits to make it perfectly round on the bottom, then on the top trimmed it to be square in shape. It looked weird to have a round ball with a square top, but it would fit much easier inside a wheel if it was square.
+
+Ren thought about how to get it to move around the mortar, and smiled as he remembered his old failed hand-powered saw. He had set it so when a smaller wheel turned, a swing arm would turn the larger wheel as well; but, if he attached the swing arm to the axle of the second wheel instead of to it's side, when the first wheel turned, the second wheel would be moved along the path of the swing arm rather than just spin in place.
+
+Ren smiled and made a new plan with two wheels and a swing arm, replaced the first wheel with a gear, and put the axle of the second wheel on the end of the swing arm and added a square hole on the bottom of it to fit the large pestle into. He added gears to make it turn, and used Tee-one's idea for a water-powered water wheel to drive the mechanism. With the plan almost complete, Ren added a lever that would disengage the pestle from the gears and allow the flour to be removed.
+
+With the plan complete, Ren set up the molds to make the gears needed, one in front of each of the satellite smelters, which made him smile because he didn't think he would ever need all 5. He tipped them all to pour out, then he pulled the lever to open all the bottom ports of the large smelter. Molten metal flowed down all 5 troughs and into the smaller smelters, and it continued out onto the floor and into the prepared molds. He cut off the flow and went to each smelter and tipped it up, and absorbed the heat from the gears.
+
+Once they were done, Ren thought about the water wheel, and figured that it would be lighter and move faster if it was made of wood instead of metal, but he would need metal braces for it. He made a mold for triangle piece with a hole at the top of the triangle for an axle, then cast it three times. He made the axle next, with square spots on the ends for a gear and the water wheel to attach to. He stored the gears, the braces, and the stone pieces and ran next door to the bakery. He went by the 4 women and to the back of the building.
+
+“That's great, Tee-one.” Ren said when he saw the large support structure. “I like the lock and hinge!”
+
+“Thanks.” Tee-one said. “Flip the lock, and the whole thing tips to get the flour out.” He said and did just that. Half of the support structure tipped down with the use of a lever, and Ren could imagine how easy it would be to scoop out flour.
+
+“Did you have one of the women try it?” Ren asked, and turned to the 4 women that stood there and watched them. “Can one of you come here for a moment and try this?”
+
+Ramona didn't even look at the other women as she smiled and came right over to Ren. “What do I do?”
+
+Ren showed her how it worked, and Ramona shook her head.
+
+“I can't lift that.”
+
+“It's okay.” Tee-one said. “It's counter-weighted.”
+
+“I don't know what that means.”
+
+“It means only a small amount of force is needed to move it.” Ren said. “Please, try it.”
+
+Ramona took a deep breath, and did what they instructed and unlocked it. The thing moved easily when she pushed the lever and it tipped down. She pushed the lever back and it tipped up and she locked it in place.
+
+“That was easy.” Ramona said, and Ren chuckled and turned to Tee-one.
+
+“Mix up the cement, my friend!” Ren said and took out the large stone half-sphere. “I'll make the water wheel.”
+
+“I'll go back over there and wait with the others for... well, whatever it is that you're doing.” Ramona said.
+
+“Thank you for your help.” Ren said, took her hand, and gave it a light kiss. “It'll be done soon.”
+
+Ramona nodded and went back to the other women, and Ren examined his plans.
+
+“Okay, if the main gear and arm are here, and this gear is here, with the torque gear here and attached gear here... then I need a round hole... right... there.” Ren said and pointed, then used a hand drill to make the hole, then put one of the metal braces to hold the water wheel on the inside of the building and it fit right over the hole on the wall. “Ha, perfect.”
+
+Ren ran outside and put another brace over the hole there, then looked at the setup. “Okay, self contained. I don't want anyone getting hurt by a spinning wheel or torrent of water.”
+
+Ren built an 8 foot tall shed around the space he would need, added a door, then made the water wheel with lots of partitions to catch as much water as possible so it would spin fast. He slipped the end of the axle into the hole in the wall, held it in place, and slipped the water wheel onto it. He added the third metal brace on the end, so the wheel was completely supported, and put in a lynch pin so the wheel could be removed if it needed repair.
+
+Ren secured the bottom and took out a dozen steel squares and enchanted them with full glyphs of Water and Wind combined, attached the steel squares to the top of the shed above the end of the wheel, then added a paving stone basin on the floor under it and added the same number of Antiwater glyphs to them.
+
+“Time for a test.” Ren said, and spun the wheel so the blast of water wouldn't damage it, and activated the enchantments. A huge burst of water came down and hit the wheel, spun it freely and very fast, splashed into the basin, and then out onto the floor and over Ren. He laughed and deactivated half of the enchantments, and the wheel moved at a solid speed, and the catch basin on the bottom caught the water easily and absorbed it.
+
+Ren nodded and deactivated it, then equipped his Travelling Clothes to dry off. He left the shed, nailed it shut, and ran back around and into the bakery.
+
+“Hi, Ruck!” Ren said. “Where have you been?”
+
+Ruck pointed at Russell and at the piles of baking ingredients on the counter that the women had already sorted, and they prepared to make the dough for bread.
+
+“Nice.” Ren said. “I can't wait to see if the deep fryer works!”
+
+“My Lord?” Gemma asked. “How do I add the wood to these ovens?”
+
+“Oh, sorry!” Ren said. “They don't need wood.”
+
+“Wh-what?”
+
+“They're enchanted to provide the heat needed.” Ren said. “I made them while concentrating on bakers, so any baker can activate them, or adjust how much heat they need.”
+
+“My Lord, we're just simple folk.” Gemma said. “We use wood for heat. I didn't understand a word you just said.”
+
+Ren opened his mouth to respond, and then smiled. “Once again, I've messed up and assumed someone would know how to work what I give them.” He said. “Please accept my apologies.”
+
+Gemma's face flushed red. She almost ducked her head to avoid his gaze, then caught herself.
+
+“It's simple, really.” Ren said, and asked the 4 women to come over to one of the tables Ruck had made. “Please, sit.”
+
+The women sat down and Ren took out a stone brick and enchanted it with a single rune of Fire, keyed to bakers.
+
+“This is enchanted the same as the ovens and deep fryer.” Ren said and put the stone in front of them. The women stared at the little symbol on the top of the brick. “This symbol produces Fire when activated.”
+
+“How do we activate it?” Ramona asked. “It's just a stone, isn't it? It can't make fire by itself!”
+
+Ren smiled. “The stone is just the container it needs. The rune produces the Fire.” He said and activated it. A flame popped into existence on the stone, and the women gasped.
+
+“It's magic!”
+
+“It really is.” Ren said and they looked at him.
+
+“I thought you would say it wasn't.” Gemma said.
+
+Ren chuckled. “When a rune can produce something from nothing, it's magic.” He said. “It doesn't consume the thing it's enchanted on... unless the container isn't strong enough. Then it will.”
+
+The women leaned back from the stone, and Ren chuckled again.
+
+“Don't worry, I haven't overloaded something in a long time.” Ren said. “Once I had mastered Enchanting, I could feel how much enchantment an item could handle.”
+
+“So the ovens aren't going to blow up or anything?” Betsie asked.
+
+“No, they are quite safe.” Ren said. “As long as you treat them like a hot oven.”
+
+The women nodded, and Ren deactivated the stone.
+
+“Now, I could just tell you how to turn it on, but you need to know how many to turn on to get the heat you want.” Ren said. “So, that's a little harder than just off and on.”
+
+“We'll learn it!” Ramona said. “Teach us what you can, My Lord.”
+
+Ren smiled at her, and her face went a little red; but, she didn't avert her eyes like he thought she would. He walked around the table to stand behind her, and leaned down to put his head beside hers.
+
+“Okay, Ma'am.” Ren said. “You're first.”
+
+Ramona looked angry for a moment. “My name is Ramona.”
+
+“Hm?” Ren moved to the side a little and turned his head to look at her. “I'm not used to calling women by their first names.”
+
+“You had better get used to it.” Ramona said. “I may have had a child already, but I'm not old enough yet to be called ma'am!”
+
+Ren put a hand on her shoulder, and she caught her breath. “I'm sorry... Ramona.”
+
+“That's better.” Ramona said, and smiled. “Now tell me what to do.”
+
+“You want to call the Fire into being.” Ren said. “The rune is there. Concentrate on it. Imagine the Fire appearing at your call, and then think the word 'Activate'.”
+
+Ramona stared at the stone brick and the rune there, squinted her eyes and thought Activate... and nothing happened.
+
+“You're a baker. You need the warmth and heat from the Fire.” Ren whispered in her ear. “You need it to embrace what you make. You need to bring it to life.”
+
+Ramona shivered slightly, and then closed her eyes and listened to Ren encourage her, and she realized she needed to encourage the Fire. She opened her eyes and thought Activate... and the enchantment activated and a small plume of Fire came out.
+
+“I did it!” Ramona laughed, and turned to hug Ren. “Once I figured out that your encouragement was what I needed to do for the Fire, it came right out!”
+
+Ren hugged her back and stood up. “I'm glad you caught on.”
+
+“Do me next!” Gemma's sister said, and Gemma groaned. Ren chuckled and helped her, but she kept getting distracted by his teaching technique. Every time he tried to whisper in her ear, she giggled like a little girl and squirmed in her seat.
+
+“I'll run her ovens until she can learn it.” Ramona said, and Ren moved on to Gemma. She picked it up faster than Ramona did, and was quite proud of herself.
+
+“Way to go, Gemma!” Her sister said. “I won't even tell your husband Fern that you were cuddling with-OW!”
+
+Gemma had punched her sister's arm, and the other two women laughed. Ren went to help Betsie in the same manner, and she shook her head.
+
+“I don't want to learn that badly.” Betsie said.
+
+“Betsie!” Ramona said. “He's taking the time out of his busy day to help us!”
+
+Betsie shrugged. “He doesn't have to whisper in my ear to teach me.”
+
+“You're right, I don't.” Ren said and smiled. “Sharing your perspective helps, but it's not strictly necessary.”
+
+“You see? He didn't have to be so close to you.” Betsie said to Ramona, and Ramona sighed.
+
+“You completely missed his point.” Ramona said. “He was doing it for us.”
+
+Betsie looked at the other three women, and saw the expressions on their faces. They were happy, and looked like they had gotten away with doing something that they probably shouldn't have done, and she sighed.
+
+“Yes, I missed the point.” Betsie said.
+
+“It's okay.” Ren said. “I'll tell you the same things I told them, and you can try it.”
+
+Betsie nodded, and Ren gave her the lesson. She activated the Fire rune on her second try, and was happy she didn't have to sit through Ren whispering in her ear; mainly because she would have reacted the same way as Gemma's sister did and didn't want to embarrass herself like that.
+
+Notice!
+
+You have unlocked a new skill: Teaching Level 1 (Beginner 0%). This skill allows you to impart your own knowledge to others. Higher levels will allow teaching more difficult students easier, and increase the amount of knowledge transferred in a single session.
+
+“Now, there's a lot more runes in the ovens and the deep fryer.” Ren said and absorbed the rune on the stone brick and stored it. “Practice with it. Get it to the heat you need it to be. It might use all the runes in it, or it might not.” He said and smiled. “I'm sure I added more than you'll need, so try not to burn any bread.”
+
+Ramona chuckled. “We'll start practising right away.”
+
+Ren left them to it, and went to the back of the bakery to see the half-sphere was already set into the cement.
+
+“It's going to have to set overnight.” Tee-one said. “It can be popped out in the morning and be ready to go the next day.” He said. “It really should be left to set for a day or so, though.”
+
+“We can at least build the rest of it, and leave the pestle attachment for last.”
+
+“Agreed.”
+
+They built everything, added extra braces and supports, and made sure the spindle arm would reach where it needed to go. When they were done, Ren took out the pestle and set it beside the machine, then the smell of baking bread filled the bakery.
+
+“I think that's one of the best smells in the world.” Ren said and smiled.

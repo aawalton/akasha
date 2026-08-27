@@ -1,0 +1,277 @@
+---
+id: 4c73677f-908e-5032-a034-c4626745a77a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 148 - Holy Crap!"
+slug: 0133-chapter-148-holy-crap
+partOf: mythrans-master-of-all-continued-completed
+position: 133
+ownLength: 3190
+unit: words
+publishedAt: 2017-01-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114346/chapter-148-holy-crap"
+royalRoadId: "114346"
+---
+
+Ren took off the VR headset and asked Denise for a quick lunch.
+
+“Eager to get back to your two little honeys, are you?” She asked and smiled.
+
+“Yep.” Ren said smugly. “Assuming they're both in the bed, that is.”
+
+“I can almost guarantee it.” Denise said and left to get lunch.
+
+Ren went to the bathroom to check to see if everything was okay, and it was so he went back to bed and waited. He didn't have to wait long, and Denise came back in with a bowl of soup and a couple of pieces of bread.
+
+“I think the game is spoiling you with all the food you're allowed to eat.”
+
+Ren chuckled. “I know it is.” He said and started eating. “I haven't even tried to train my Staying Power skill at all.”
+
+Denise grinned. “I've seen a few minutes of blue screen already today.”
+
+“Staying Power is being able to go longer without food, not how long I can have sex.” Ren snorted a laugh. “That blue screen was only to make Nathalia happy, anyways.”
+
+Denise's grin faded to only a smile. “What do you mean?”
+
+“I only had enough time to please her. Barely. We didn't even get around to my turn.” Ren said, and dipped a piece of bread into the broth of the soup. “It normally takes an hour or so; but, that's only because I have to limit myself.” He took the bread out and sucked it into his mouth. “Hey! Did you add salt to this?”
+
+Denise was kind of speechless, so she only nodded.
+
+“You could get in trouble if the dietitian found out about it.” Ren said and dipped in the other piece of bread. She recovered from her surprise, and smiled.
+
+“You're allowed so much salt a day, smart-aleck.” Denise sat down. “We have a chart to keep track of it and everything.”
+
+Ren chuckled as he ate the other piece of bread, then drank the glass of supplement. “Thanks for the food, Denise.”
+
+“You're welcome.” She said and took the tray. “I'll see you at supper.”
+
+Ren nodded and picked up the VR headset, then stopped. He pulled the laptop over instead and checked his emails. He deleted the spam without even reading the headers, and then noticed a new email from Elise Stanford, the secretary from Sid Tec. Ren opened it and his heart started racing. Denise came in and saw Ren in a kind of panic state, rushed to his bedside, and pushed the rollaway table aside.
+
+“What is it?”
+
+“They bought the pilot for my show.” Ren said, flabbergasted. “I can't believe they actually bought it.”
+
+“Who bought your what?!?” Denise asked, confused.
+
+“The television station.” Ren said. “When the Sid Tec guys were here, I let them take a copy of my game footage. The company's secretary, Elise, made a television series proposal for it... and the station bought it.”
+
+Denise sat down and stared at him. “What... what...”
+
+Ren looked at her. “It's okay, Denise.” He said, to reassure her. “It's all just editing and adding music at this point. At least, that's what Elise said in her email.” Ren pointed to the laptop. “She'll be sending over a registered package with the check.”
+
+“C-c-check?”
+
+Ren nodded. “It's only for the pilot; but if it gets a favorable review from the sample audience, it could get picked up for a series.”
+
+“Oh my god.” Denise said, shocked.
+
+“I know.” Ren said. “Holy crap.”
+
+They sat in silence for a few minutes, and Ren looked around. “I better respond to her that I got the email and will wait for the package.” He said, then did so after Denise pulled the rollaway table back over to him. “I better log in and get some rest. I'm going to have a long day tomorrow.”
+
+“Do you mean here tomorrow?” Denise asked and waved at the room. “Or there tomorrow?” She pointed to the VR headset.
+
+“Both.” Ren said and chuckled. “Help me with it, please.”
+
+“Sure.” Denise said and helped him put it on. He laid back and relaxed.
+
+“Flow Login Start.” Ren said, and his body became still.
+
+*
+
+“I hope you realize what this is going to mean.” Denise said to Ren's inert form. “The hospital tried so hard all these years to keep you out of the media.” She said and sighed. “And now you practically throw yourself in their sights.”
+
+********
+
+Ren woke up on the couch and blinked a few times. Hi, Teepo.
+
+“Hi, Ren.” Teepo said. “You're a little late. It's been an hour and a half.”
+
+Thanks. Ren thought, then stood up. See you in the morning.
+
+“Goodnight, Ren.”
+
+Ren walked down the hallway and opened the old bedroom door. He crept inside and switched his clothes for his armor's bodysuit and climbed into the bed. He didn't even bother checking who he was next to, even though he had decided that morning he should. Ren's back was to whoever it was, as the two women were on their sides again. A woman's arm went around his chest, and another went partially around his waist. Ren hugged both of the arms close and drifted off to sleep.
+
+*
+
+“What do you mean it didn't work out like we planned?” A figure covered in a black cloud said. “We spent months setting everything up!”
+
+The Shadow Weaver, Talon laughed. “You didn't plan on having Tristan drive his crazy train all over everything.”
+
+The black cloud covered figure raised it's arms in exasperation; or at least, that's what Talon assumed happened, as the cloud changed it's shape to look like that.
+
+“You were supposed to keep him under wraps.”
+
+Talon shrugged. “Who could have guessed that he'd find his Nemesis so fast, and then that Nemesis would beat the hell out of him?”
+
+The figure laughed. “I've watched that footage a hundred times!” He said. “Tristan put up a good fight at first, but once that... weapon... came out...” He turned to the side, and the cloud nearly revealed his true form. “Tristan had that coming for a while.”
+
+Talon tried to look at the black cloud covered figure without looking, as he didn't want to get in trouble again for snooping where he wasn't wanted.
+
+“Is he really only level 6?”
+
+Talon shook his head. “No, if I was to hazard a guess, just from his Strength alone he's got to be about 150. At least.” He speculated. “That armor alone is worth a fortune.”
+
+“Yes, I know. Full fire protection is quite nice to have.” The figure said. “I don't suppose he could be hired to make another set?”
+
+Talon shook his head. “The business is there, but there's no storefront.” He said. “I could message him and see if he could do it on the side if you want.” Talon smiled. “Of course, that's assuming you could afford to buy the armor in the first place.”
+
+“No, we don't want him to know that there's people in the game that can afford armor like that.” The figure said. “The less he knows, the better.” He turned back to face Talon. “It's a shame all those contacts Tristan made were lost.”
+
+“They weren't lost.” Talon said. “I went to each one before Tristan did, and told them to humor him.” He grinned. “I did the real deals after he'd left.”
+
+The figure rushed to Talon and put his black cloud covered hands on Talon's shoulders. “That's wonderful news, Shadow Weaver! Wonderful news!”
+
+Talon felt his avatar body lose it's heat and his Health started to drop. He didn't say anything, however.
+
+“Go ahead and get the ball rolling.” The figure said and let Talon go. “It's about time we cause a little bit of a ruckus.”
+
+Talon stood there in silence as he waited for the figure to leave the room. Once he was gone, Talon rubbed his shoulders where the figure's hands had been.
+
+“Goddammit, that hurt.”
+
+*
+
+Ren woke up in the bed, and blinked a few times. Good morning, Teepo.
+
+“Morning, Ren.” Teepo said. “Nothing happened while you were asleep.”
+
+Thanks, buddy. Ren thought, and looked at the 2 female arms he still hugged to his chest. He let them go and turned onto his back to see who was behind him under the blanket. It was Nathalia, and Ren smiled as he turned to face her. He gently kissed the tip of her nose, and she wiggled it slightly. He very softly reached a hand to touch her forehead, then ran it along the side of her face and along her chin. Since he had been concentrating on his hand, he didn't notice that Nathalia had opened her eyes and was staring at him.
+
+“What are you doing?” Nathalia whispered.
+
+“Enjoying the view.” Ren whispered back. “Then I just had to touch you.”
+
+“There's other things you could touch.” She suggested, and took his hand from her face and caressed her ample chest with it.
+
+“Darling...” Ren leaned in close and whispered in her ear. “...are you suggesting what I think you're suggesting?”
+
+“No.” Nathalia breathed back, and moved his hand down to her abdomen after gently moving her mother's arm out of the way. “I'm telling you.” She slid his hand between her legs, and Ren's eyes widened as he discovered that she wasn't wearing any underwear under her slip. Nathalia continuously kissed him as he played with her, and it didn't take long for her to finish. She clamped her legs together to stop his hand from moving, but he'd learned long ago that just because his hand was 'trapped' like that, his fingers weren't. He kept her going for a few minutes more, and when she shook her head, he slid his hand away from her sensitive area and she relaxed.
+
+“By... by the... the gods...” Nathalia whispered. “That... that...”
+
+“...really got you going.” Ren whispered and licked his fingers. “I might have to store the bed to clean it.”
+
+Nathalia blushed a bright red, and Ren tried not to laugh at her embarrassment. He kissed her to distract himself; and while he did that, she reached down and touched the bulge in his bodysuit. He grabbed her hand and shook his head.
+
+“You know what will happen if you do that.” Ren whispered. “I make a lot more of that than you do.”
+
+Nathalia kissed him and smiled. “I'll take care of it.” She whispered in his ear and sucked on his earlobe. She pinched the bodysuit slightly, and Ren stored it to get it out of the way. Nathalia lightly pushed him onto his back, and then she disappeared under the blanket. Ren closed his eyes and held the blanket tightly as Nathalia pleased him. It didn't take long; just as it hadn't taken long with Nathalia, and Ren finished quickly. She came out from under the blanket a few minutes later, and Ren gave her a piece of cloth to help with the clean up.
+
+“It's okay.” Nathalia whispered. “I got it all.”
+
+“By the gods, I love you.” Ren said, and kissed her. They froze like that as they both realized that Ren had spoken without whispering, and they both glanced over to the other occupant of the bed. They sighed in relief as they saw that Narhilda was still asleep.
+
+“I better go.” Ren whispered and equipped his clothing. “If I don't, I won't be able to stop myself.”
+
+“I wouldn't try too hard to stop you, either.” Nathalia whispered back, and kissed him again. Ren slid out of the bed, and then out of the room.
+
+Teepo?
+
+Teepo flew over to land on Ren's shoulder. “Yeah, Ren?”
+
+I think I'm becoming a sex addict. Ren thought as he went into the main room, and then into the kitchen. How long does something like that usually take to happen?
+
+“I wouldn't know.” Teepo chittered in laughter. “I've always been one.”
+
+Ren snorted a laugh and took out the cookware he needed to make breakfast. He worked diligently for almost an hour and had breakfast ready just in time. Nathalia and her mother came into the kitchen and sat down at the table.
+
+“We could smell them all the way down the hall.” Nathalia said and took a piece of french toast from the stack. “I had to knock Ma out of the way to get here first.”
+
+“She tried to.” Narhilda smiled and took a piece for herself and coated it in butter. “I'm no pushover, though.”
+
+Ren grinned and sat down. “It's so much fun to eat a meal with two intelligent and beautiful women.”
+
+Narhilda wagged a half-eaten piece of french toast at him. “Are you being sarcastic?” She asked and swallowed the bite she had in her mouth. “I know you're telling the truth, but it could be taken another way.”
+
+Ren put down the piece of french toast he was about to eat, stood up, and walked around to Narhilda's side of the table.
+
+“My Lady.” Ren said and knelt beside her chair. “I'd never joke about something like that.” He took her hand in his and bent over it. “I really do have fun each and every time we all sit down together to have something to eat.”
+
+“R-Ren.” Narhilda said as her face flushed a little red. “You don't have to go all formal to answer a simple question.”
+
+“I didn't want you to have any doubt about my honest statement.”
+
+“I didn't doubt it...” She started, and Ren stood while still holding her hand.
+
+“My Lady.” Ren said. “You've taken me into your home, and made me feel as if I've always belonged here.” He smiled. “When I go out, in my mind I don't think, 'I better get back to House Neram', like I did at first.” Ren helped her stand. “What I think and say is, 'I need to go home'.” He bent slightly and took her into a hug. “I want you to know how Honored I've been this whole time, that you accepted me the way you have.”
+
+Notice!
+
+You have declared that your Honor gains have been the responsibility of Lady Neram. As you have stated she is the cause and you wouldn't have gathered it otherwise, half of your Honor will be transferred to her; as will half of all future Honor gains. Current Honor: 55, 250.
+
+Transfer half (27,625) of current Honor now? Confirm: Yes / No
+
+“Yes.” Ren said. “You need to know what it means to me.”
+
+Narhilda gasped as half of Ren's Honor was transferred to her. “REN!” She yelled in shock. “What did you DO?!?”
+
+“My Lady.” Ren leaned back and looked her in the face, and saw tears form in her eyes. “I gave you only what was due.”
+
+“Oh, REN!” Narhilda burst out crying, and hugged him tightly. “You... you sweet... sweet fool.” She sputtered between bouts of crying and gasping. “It's... it's nearly... 5 times what... my husband had... when he died.”
+
+Ren held her as she continued to cry. Nathalia stood up and came around the table.
+
+“What happened?” She asked, and joined the hug.
+
+“He... he...” Narhilda tried to say.
+
+“I gave her half of my Honor.” Ren said. “And half of all future Honor I may get.”
+
+“W-wh-what?!?” Both women said together.
+
+“All the things I've done here, it was all with your help.” Ren kissed each of them on the cheek. “If Narhilda hadn't accepted me into the House, though... none of it could have happened.”
+
+They stood there in a triple hug for several minutes, and Ren held them close.
+
+“We... we should... finish breakfast.” Narhilda said as she calmed down.
+
+Nathalia smiled and kissed her mother on the cheek. “That's a great idea.”
+
+Ren let them out of the hug, and they all sat back down in their seats to finish eating. After breakfast, Ren took several pieces out to Princess, who gobbled them up faster than Ren could put them in her bowl. He eventually just tossed them to her one at a time and she had to take her time that way.
+
+“We've got a lot of running around to do this morning.” Ren said and grinned. “I want you to do it in style.” He took out the pieces of armor and gave each piece to her. “Equip them, please.”
+
+Princess put on each piece, and once she wore everything, the golden colored armor matched her hooves perfectly.
+
+“The best piece for last.” Ren said and took out the custom made helm, then looked at the bare metal of the forehead. “Dammit, I forgot to add the diamond crest!” He said and stored the helm again. “I'll be right back.”
+
+Princess huffed and Ren ran from the stable and to the gate. Teepo told him who was on guard, and Ren opened the gate to see that Kharpik was there.
+
+“Good morning, sir.” Kharpik said.
+
+“Good morning.” Ren said. “Leave it open. I'll be right back.”
+
+“Yes, sir.”
+
+Ren ran to the workshop and went inside to grab a dollop of molten metal to make a mount for a diamond. He took out one of the crates of diamonds and picked a nice oval, then enchanted it with the House Neram crest, granting the wearer a House Neram Aura with a 10 foot radius. Ren grabbed some of the molten metal, and took out the helm from inventory. He went to set the enchanted diamond, and saw the House Neram crest was backwards. Ren frowned, then flipped the diamond oval over.
+
+“Well, would you look at that.” Ren said, then set the diamond onto the helm. “With the right diamond, you can see the reverse of what you enchant.” He ran his hands along the metal and absorbed the heat; so the metal would be cool when he handed the helm to Princess. He stored the helm and ran back down the road, through the gate, and into the stable.
+
+“Okay, it's ready.” Ren said, and took out the helm again. “Here you go.”
+
+Princess equipped it, and her eyes widened as she got a popup. A moment later, it was Ren's turn for his eyes to widen as he got a popup, too.
+
+Notice!
+
+Your mount's Intelligence stat is high enough to establish a basic mental connection with you, as if she were a familiar or a construct.
+
+WARNING! Once the link is established, it cannot be undone; except upon the mount's death. Do you wish to initiate this link? Confirm: Yes / No
+
+Ren looked at Princess. “Do you want me to?”
+
+Princess stared back at him for a full minute before she slowly nodded.
+
+“Yes.” Ren said, then felt a sharp pain poke him in the forehead and into his brain. “OW!” He hollered and rubbed his head. “Why does it have to feel like a god...damn... NEEDLE?!?”
+
+Princess winced and shook her head slightly, as she'd gotten the same treatment as Ren.
+
+“Are you all right?” Ren asked and pat her neck.
+
+....wwwwwwhhhhhhhhhaaaaaaaaaattttttttttttt....
+
+....dddddddddddddiiiiiiddddddddddd........ yyyyyyoooooooouuuu.......
+
+....dddddddddooooooooooo...... ttttttoooooooooo...... mmmmmmeeeeeeee.......
+
+“Holy crap!”

@@ -1,0 +1,297 @@
+---
+id: f79abf57-9c89-5173-ab59-879a5a3df34a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 562 - The Morning After"
+slug: 0562-chapter-562-the-morning-after
+partOf: mythrans-master-of-all-continued-completed
+position: 562
+ownLength: 2520
+unit: words
+publishedAt: 2018-04-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209508/chapter-562-the-morning-after"
+royalRoadId: "209508"
+---
+
+Ren waited until he felt Officer Holly leave his Aura before he turned to Xuunah. “Thank you for your help as well.”
+
+Xuunah shook her head and her hand reached out and rested above his heart. “I've devoted myself to protect this no matter what.” She said, and slid her hand over slightly on his chest and touched the spot above the emblem that matched her own. “This mark reflects that.”
+
+Ren reached up and touched the same spot on her, and because he was quite a bit shorter, his arm rested between her breasts.
+
+Xuunah looked down at his arm, then at his face to see a smile there. “Ren...”
+
+“Yes, it's intentional.” Ren said. “It's to placate my need to fondle them like I did with your hand.”
+
+Xuunah snorted a laugh. “At least you're honest about it.”
+
+Ren let his hand slide down and the edge of his thumb and pinkie finger grazed her breasts. Xuunah could feel his teasing emotions and she took in a deep breath and let it out as she sighed.
+
+“I'm not going to break my people's mandate.”
+
+“Me, either.” Ren said. “But, to be fair... you know I desire you and I know you desire me. A loving touch every now and then doesn't even bend that rule.”
+
+“Ren, this...”
+
+“...could get out of hand, I know.” Ren smirked. “Why do you think I'm trying to distract myself?”
+
+Xuunah laughed. “I'm going to bed, Dearest.”
+
+“I'd join you, My Angel; but, I have some work I need to do.”
+
+Xuunah's face flushed a little red. “That... wasn't an invitation.”
+
+“I know, I'm just teasing.”
+
+“I'll see you in the morning.”
+
+“By the gods, I hope so.” Ren said, and she bent down slightly and kissed him.
+
+“Goodnight.” Xuunah said.
+
+“Goodnight.” Ren watched her go into the Main House, then he took Artemis' hand.
+
+“You are pushing her a little.” Artemis said as Ren started to walk down the street.
+
+“I am, because I want to show her that I could be all over her without breaking that rule. I'm not doing that because I respect her too much to compromise her beliefs.”
+
+Artemis shook her head. “It's a fine line.”
+
+“It always is.” Ren said as they approached the Sanctuary. “Give me a second.”
+
+Artemis let his hand go and Ren sent a message to Lara, the Sage of Ages, to see if she was still online. When she didn't respond after a few moments, Ren closed the messaging system and took Artemis' hand again.
+
+“It looks like it's just us this time.” Ren said and opened the Sanctuary door.
+
+“How will I ever cope with that?” Artemis asked.
+
+“Just grin and bear it.” Ren said and she laughed, as did Teepo.
+
+They stepped inside and Ren shut the door. After 2 minutes, they came back out.
+
+“I can't believe you wrote all 4,000 proposals in just under a month.” Artemis said in disbelief.
+
+“When you barely do anything else, you can get a lot of work done.” Ren said and shut the door. “I didn't even read my stat boost books.”
+
+“You could have.” Artemis said.
+
+Ren shrugged. “I had more important things to do.”
+
+They walked back up the street to the Main House, and Artemis bent down and kissed his cheek, then went across the street to the warehouse, and Ren went inside the Main House and up to his apartment.
+
+“How's my time, Teepo?”
+
+“You've got about half an hour before you need to go.” Teepo said.
+
+“Thanks.” Ren said and entered the apartment to see the maids lounging around in various spots. “Good evening, Ladies.” He felt their bodies react to his words, and he smiled at them. “I only have half an hour before I have to go.”
+
+“Then we have a choice to make.” Frikara said. “Do we force you to cuddle with us for a few minutes each, or do we listen to you tell us about your cooking lesson?”
+
+“Why not do both?” Ren asked and stored his clothing, then climbed onto the bed. The maids joined him, and they all rested in a big pile as he told them about the cooking techniques that Nathalia had shown him.
+
+“That cake sounds delicious.” Verwynn said, and the maids laughed. “What?”
+
+“Even with the sustenance rings active, you still want to eat!” Navruth said.
+
+“I like food.”
+
+Ren smiled. “It's a good thing I saved you all a piece, then.”
+
+“You did?!?” Verwynn asked, surprised.
+
+“Nathalia insisted I take the rest of the cake, and there just happened to be 5 pieces left.” Ren said. “Who else would I give them to?”
+
+“Oh, Ren!” Verwynn lunged forward and wrapped her arms around his neck, then kissed him passionately. They stayed that way for a minute, then Teepo had to interrupt.
+
+“Your time is almost up.” Teepo said.
+
+Ren broke the kiss and Verwynn let him go. He hopped off the bed and set out 5 plates to serve the casserole, then put the 5 pieces of cake beside them.
+
+“I'm hoping I'll be back in the morning, but you know I can't promise anything.” Ren said.
+
+“Just be careful.” Frikara said and gave him a kiss. “Come back to us when you can.”
+
+“I will.” Ren said, then kissed each of the other maids and climbed back onto the edge of the bed and laid down. “Logout.”
+
+*
+
+“He's such a considerate man.” Frikara said.
+
+“He gives us things he could easily keep for himself and use.” Verwynn said and took a spoonful of casserole. “Imagine! Food that gives Vitality and Strength!”
+
+“Permanently, too.” Lusinia said and took a bite of casserole as well. “Oh, that's good.”
+
+“I want to hurry and finish this so I can eat the cake!” Verwynn said.
+
+“Why didn't you eat the cake first?” Frikara asked.
+
+“It's dessert.” Verwynn said. “You always save dessert for last.”
+
+Frikara thought about that, then let her pleasure and happiness fill the shared Aura.
+
+“What is it?” Andrela asked.
+
+“Ren always saved us for last.” Frikara said. “We're the ones he spends the end of his day with, and when he's here for the whole night, he stays with us.”
+
+Verwynn stopped eating and they felt her surprise. “We're his dessert?”
+
+Frikara nodded, and Verwynn smiled.
+
+“We're his dessert!” Verwynn exclaimed happily, and her pleasure joined Frikara's, then the rest of the maids let their feelings about it out as well. They all ate their casserole and felt satisfaction, then they moved on to the cake.
+
+It was even more delicious than Verwynn had thought it would be.
+
+********
+
+Ren tried to slip off the VR headset, but his arms didn't quite work right because he was so weak. “Help, please.”
+
+“Already doing it.” Denise said and eased the headset off. “How do you feel?”
+
+“Mentally, I'm okay.” Ren said. “Spending the time inside let me get my thoughts together.”
+
+“And physically?”
+
+“I feel like a bean bag chair that only has half it's stuffing.” Ren looked down at himself and was surprised that he was already all cleaned up, the bedpan was nowhere to be found, and his clothing was already in place.
+
+“This should give you some strength back.” Elise said and pulled the rollaway table over as she sat down beside him on the bed. Ren saw a tray with pancakes and syrup on it, with a large supplement drink on the side.
+
+“Are those banana slices?” Ren asked, and his mouth watered.
+
+“The supplement is banana flavored as well.” Denise said. “It's also a double dose, so it's a little thick.”
+
+Ren popped the top off the supplement bottle. “You made it into a smoothie?”
+
+Denise nodded. “It was the best way.”
+
+“Thanks a lot!” Ren said and put the top back on, and sucked on the straw. It was just creamy enough to not get stuck, and his mouth was full a moment later. He swallowed and smiled. “That's great!”
+
+“I'm always looking out for you.” Denise said and he sucked out another mouthful. “Don't ignore the pancakes.”
+
+Ren swallowed again. “Oops.” He picked up a fork and his hand shook a little as he cut a piece of the pancakes off and started to eat.
+
+“How's my little man doing?” Barbara asked as she came into the room.
+
+“Hm mummon hmm!” Ren said with a mouthful of pancake.
+
+“He said his mouth is working fine.” Elise said.
+
+“I can see that.” Barbara laughed for a moment, and then she sighed. “He's going to need us to do his physical therapy for him.”
+
+“I don't think it works like that, Barbara. How would us doing it help him?” Elise asked.
+
+Barbara smiled. “I didn't mean we replace him in his routine, I meant we have to physically move his body to reproduce the exercises.”
+
+“Oh, that makes sense.” Elise said. “Now I feel stupid.”
+
+Ren stopped eating and touched her hand. “You are not stupid.” He said. “You've just got a lot on your mind and you only missed a subtle distinction.”
+
+Elise opened her mouth to speak when her cell phone rang. She grabbed it off the night stand and went to cancel it, then saw who it was from.
+
+“It's from the law firm.” Elise said. “I have to take this.”
+
+Ren nodded and she got up from the bed and went into the bathroom just as the cell phone rang again. She accepted the call and shut the door.
+
+“I wonder what it's about?” Barbara asked. “It's pretty early.”
+
+Ren took another bite of pancake and a sip of smoothie. “If I had to guess, I'd say it's about me going in and making a deposition.”
+
+“Ren, you can't go in today to...”
+
+“I will if I have to.” Ren said. “Although, I should tell Elise to have them record everything, just in case.”
+
+“In case of what?” Denise asked.
+
+“In case something happens to me before the actual court cases come up.” Ren said frankly, and Barbara put a hand over her mouth to stop herself from sobbing. “I didn't mean anything bad; but, if I have another seizure when I start recounting everything... well...”
+
+“Ren...” Barbara said softly.
+
+“It's okay.” Ren smiled. “I won't start going into the details of the experiments and drug trials until after I tell them who was there and what they did.”
+
+Barbara went over to the bed and sat beside him, then carefully took him into a hug. “My sweet boy, you're so brave.”
+
+“I'm pretty sure you need to be afraid of something to count as being brave when you face it.” Ren said.
+
+Barbara eased him out of the hug and looked at him. “But... going to court and... and facing...”
+
+“As long as I have people I care about there to support me, I have nothing to fear but fear itself.” Ren said and grinned. “Since you kick fear's ass, I'm all set.”
+
+Barbara laughed and kissed his forehead. “Uh, you're sweaty.”
+
+“I'm going to be even more sweaty soon.” Ren said. “Although, if I could convince someone to do two sponge baths today...”
+
+“Even with Barbara's help, it's going to take a while.” Denise said.
+
+Elise came out of the bathroom as she hung up her cell phone. “Can we skip his exercises for now and get him washed right away?”
+
+“I assume I'm urgently needed.” Ren said, and she nodded.
+
+“Once the head partners of the firm heard that you could name names and point fingers, they scheduled an emergency meeting.” Elise said. “I told them what happened, and they asked if you were cognizant of the situation and coherent.”
+
+“You thought about lying.” Denise said, and she nodded. “You didn't, because you knew it would damage his credibility.”
+
+“Exactly.” Elise said. “I told them that despite the massive seizure, he could talk and enunciate well.”
+
+“Then I can have therapy later.” Ren said. He laid back on the bed and held his arms out to the sides. “Wash me!”
+
+Denise chuckled. “What part of it's going to take a while didn't you understand?”
+
+“Hey, there's three of you here.” Ren grinned. “I'm pretty short.”
+
+“I can help.” Elise said and smiled. “I want to help.”
+
+Denise and Barbara exchanged glances, and shrugged.
+
+“You grab the towels and I'll get the basin and sponges.” Barbara said.
+
+“I'll get the little monster undressed.” Denise said and climbed onto the bed.
+
+“You have to catch me first!” Ren tried to roll over and Denise caught him easily, then started to unbutton his pyjama top. “Damn. That was over fast.”
+
+Denise snorted a laugh. “Even at your full movement, you weren't going to get away from me.” She said and slid his arm out of one sleeve, then slid the top off completely by pulling on the other sleeve. “Why did you even try?”
+
+“I need to show at least a token resistance to having you undress me.” Ren said and smiled. “I can't let you think I'm eager for it.”
+
+Denise chuckled and tickled his underarms a little, and made him laugh, then she moved down and slid his pyjama pants off. When she reached for his underwear, she hesitated at the bulge there.
+
+“Ren...”
+
+“I told you I was eager for it.” Ren said softly, and she looked at his face. “Just having you near me makes me like this.”
+
+“But...”
+
+“It's good to know that part works just fine after what happened to me last night.” Ren said.
+
+“What part is that?” Elise asked as she came out of the bathroom with towels.
+
+“My penis.” Ren said.
+
+“Ren!” Denise blushed and Barbara came out of the bathroom with the basin of soapy water.
+
+“What?” Ren asked.
+
+Denise took in a breath and let it out. “N-nothing.”
+
+Elise laughed and put some towels down for Ren to roll over onto, then put the others beside the bed. “You need to take a page out of Stella's book, Denise.”
+
+Denise sighed. “I know, it's just...”
+
+Ren reached up to tickle Denise's underarms. “Penis! Penis! Penis! Penis! Penis!”
+
+Denise laughed and backed away, and Barbara intervened and helped Ren roll over onto the towels.
+
+“That's enough horse-play.” Barbara said and slipped his underwear off. “We have to get you ready.”
+
+“I'm having a hard time believing you're not fighting against me going out so soon.” Ren said.
+
+“It wouldn't help.” Barbara said. “I am going with you, however.”
+
+Ren opened his mouth to say something, and Barbara held up a hand to stop him.
+
+“You are not leaving me behind.” Barbara said sternly. “This is going to be difficult for you, and I am going to hold your hand the entire time.”
+
+Ren held a hand out to her. “I was going to thank you, actually.”
+
+“I'll always be there for you.” Barbara took it and held it. “Now be quiet and stop distracting us.”
+
+Ren smiled and let her hand go, then spread his arms and legs out in a star pattern. “Wash me!”
+
+The three women laughed and did as he said.

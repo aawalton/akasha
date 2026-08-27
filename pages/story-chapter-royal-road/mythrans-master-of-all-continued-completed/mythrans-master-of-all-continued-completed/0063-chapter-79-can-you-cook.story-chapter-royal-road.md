@@ -1,0 +1,373 @@
+---
+id: bb344187-31b6-5784-863c-217824c5b0a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79 - Can You Cook?"
+slug: 0063-chapter-79-can-you-cook
+partOf: mythrans-master-of-all-continued-completed
+position: 63
+ownLength: 4010
+unit: words
+publishedAt: 2016-11-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102318/chapter-79-can-you-cook"
+royalRoadId: "102318"
+---
+
+Ren closed Clint's message and looked at his hand. Now's as good a time as any. Ren opened the Business menu and searched. Healing... healing... ah, injuries. Ren clicked it and entered 'minor injury (cut across hand), may require major healing, no rush', and pushed enter.
+
+“I wonder how long...” Ren started to say when there was a knock on the door. He walked over and opened it, to see a young healer standing there.
+
+“Is someone injured?” He asked, and seemed a bit nervous.
+
+Ren held up his blood soaked bandage and the healer's face drained of blood and looked like he was going to faint.
+
+“I take it you're a trainee?” Ren asked.
+
+The healer nodded. “Yes, sir.”
+
+“Come in.” Ren stepped back, ushered the healer inside, and shut the door.
+
+The healer looked around and saw that it was mostly just open space, except for the anvil and forge, 2 work benches, and a backpack hanging on the opposite wall.
+
+“This... is a nice place you have here.” The healer said.
+
+Ren laughed. “Yes, it is. I haven't had a chance to make any more furniture, though. Just a second.” Ren said and went upstairs to the third floor and put a comfy chair into inventory. He went back downstairs to the waiting healer. “What's your name?” He asked and pulled out the chair for the healer to sit on.
+
+The healer stared at the chair and Ren motioned for him to sit. “Ah... it's Percy, sir.” He said and sat. “Say, that's really comfy.”
+
+Ren smiled. “Well, Healer Percy... I've got a minor wound on my hand, but I'll need major healing internally.”
+
+Percy's eyes widened at that. “I've never heard of anything like that before.”
+
+Ren smiled. “I'm an Adventurer.”
+
+Percy looked at Ren. “So?”
+
+Ren nodded. He's not an NPC then. “Trust me, I need lots of mana.”
+
+Percy shrugged. “Whatever you say, sir.”
+
+Ren undid his makeshift bandage and held his hand out for Percy to look at, who swooned at the slash across Ren's palm. “W-what did you do? Cut yourself with a knife?”
+
+Ren nodded. “That's exactly what I did.”
+
+Percy shook his head and used Minor Healing on it. It took about 10 minutes, but Ren's hand didn't even have a mark on it afterwards.
+
+“Thanks.” Ren said. “How's your mana holding up?”
+
+Percy looked at his Mana bar and sighed. “It's about half gone.”
+
+“You're just starting this class, aren't you?” Ren asked.
+
+Percy nodded. “I didn't like any of the other professions.”
+
+Ren lifted an eyebrow. “Why not?”
+
+“I'm not into the whole fighting thing, but I like helping people. I thought if I put my mind to it, that I could do it.”
+
+“Not liking the sight of blood might make this a bad choice of a job for you.” Ren said.
+
+“How did you...” Percy tried to say and then stopped. “Of course you noticed. How long have you played?”
+
+Ren shook his head. “I don't really remember anymore. There's 4 days in here while only one happens in real life. I've crossed in and out so many times that it's all just jumbled together.”
+
+Percy looked at Ren like he was crazy, and Ren laughed.
+
+“Yeah, that sounds kinda nuts. If I looked at the logs, I'm sure I can find out the day I started, but it doesn't really matter.”
+
+“What level are you?” Percy asked.
+
+Ren smiled. “That doesn't matter, either. All I'm doing is having fun and enjoying myself.” Ren said and took out a Mana potion.
+
+Percy's eyes nearly bulged out of his head. “You have Mana potions?!?”
+
+Ren handed it over. “Only a few.” He said. “Just drink a little bit at a time, until it fills your Mana bar.”
+
+Percy sipped it, and 2 sips later, he nodded.
+
+“Activate your Major Healing ability, please.” Ren said and held his hand out again.
+
+Percy shrugged and activated his 'once a day' Major Healing ability, and watched as his Mana bar fell drastically. “How are you doing that?” Percy asked as Ren's body absorbed it all.
+
+Ren chuckled and shook his head. “Keep drinking.”
+
+Percy drank the Mana potion slowly, keeping his Mana bar at an even spot, and Ren absorbed the Mana pouring into him, and watched as his Mana Pool filled up. When it was finally full, he had Percy finish the potion and Ren took the bottle back.
+
+“I can't believe you took all of that! How hurt were you? How are you walking around?” Percy said.
+
+“I was asked that last question before. The answer is still the same. With my legs.” Ren said and laughed.
+
+Percy shook his head. “You're a strange one, sir.”
+
+You're not the only one to think that. Ren thought and smiled. “How much do I owe you?”
+
+“The base price for minor healing is a silver. A major is usually 20 to 50 silver, depending on how bad the wound is.”
+
+Ren handed over a gold coin and Percy's eyes bulged again.
+
+“S-sir! This is way too much! I'm only an entry level healer!” Percy exclaimed.
+
+Ren put a hand on Percy's shoulder. “You came over right away, even though I said there was no rush... and I assume that you only get to keep a small portion of the fee, right?”
+
+Percy nodded.
+
+“Then consider the rest as a tip.”
+
+Notice!
+
+Your excessive spending has earned you the title: A Fool And His Money
+
+Ren looked at the popup and dismissed it. He'd have to see what it meant later.
+
+“Thank you, sir! If you ever need anything else, just let me know!” Percy said and stood up. He was a head taller than Ren and reached out to shake hands.
+
+Ren smiled again. “I'll do that.”
+
+Notice!
+
+You now have a contact at the Hospital. Various related options have been added to the Business Menu.
+
+Ren led Percy back to the door, and waved as Percy left. Okay, now to look at that new title.
+
+“Show info for title: A Fool And His Money.”
+
+Title: A Fool And His Money
+
+All goods are still the same price, but everyone you meet will require a 5% gratuity for whatever they sell you. More may be given, but it's effectiveness won't increase, no matter the amount.
+
+Rewards: Bonus XP, Extra Perks
+
+Penalties if Unpaid: Fame Loss / Infamy Gain
+
+“Well, crap.” Ren said and sat in the chair.
+
+“What is it?” Teepo asked.
+
+“You know I've been pretty generous in tipping people, right?”
+
+Teepo nodded.
+
+“I've just been awarded a title that will either be a big help, or a big hindurance.” Ren said and told Teepo about it.
+
+“I can see how that could be bad... but, if you just keep doing what you're doing...” Teepo said.
+
+Ren nodded. “Right, I was going to do that anyways. What's the point of having money if I don't spend it?”
+
+“Since you feel that way, you could always buy me something shiny!” Teepo said and Ren laughed.
+
+“The next time I'm out somewhere special, I promise to get you something really nice.” Ren said to his friend.
+
+“I can't wait!” Teepo said, excitedly.
+
+New Quest!
+
+You have promised to find something for your good friend, Teepo. Depending on what it is, there could be both benefits or drawbacks.
+
+Difficulty: D
+
+Rewards: ????
+
+Penalties: ????
+
+Ren dismissed the popup and looked at Teepo, concentrating on not sending his thoughts. What in the world do I buy for an incorporeal spirit that they're going to like? Ren shook his head and smiled. I'll worry about that when the time comes. Ren got out of the chair and stored it into inventory. He took it back upstairs and put it right back where he got it from. Ren turned around and looked at the kitchen and it's complete emptiness. I really do need some kind of appliances in there, but I didn't see anything like that in the business menu. Ren thought. Maybe I just haven't met the right people yet?
+
+Thinking of that, it reminded Ren about the bathroom, and only seeing something like it at the mansion. Ren looked out the window and saw there was plenty of time left in the day, so he went downstairs and put on his cloak.
+
+I'm heading to the mansion, Teepo. Want to come along? Ren asked.
+
+“Sure.” Teepo said.
+
+Ren picked him up and deposited him into the hood. “I should probably leave a note for Lucy, in case she logs back in while I'm gone.” Ren said and took out a scrap piece of cloth and wrote a note telling Lucy where he was going and why. He stuck it to the inside of the door, so she'd see it when she tried to leave. Ren opened the door and turned around. “I'll be back in a little while, Ruck.”
+
+Ruck waved and Ren left the building, locking it behind him.
+
+Ren walked around the corner and down the street until he came to the main road to the West Gate, then turned and walked down that street to the mansion. He wasn't sure if he should go in the front, or look for some kind of side entrance. He definitely didn't want to go in the back door, and walked around to the front. He'd try the main door first, then see if there was a service entrance or something.
+
+Ren walked up the steps and saw there weren't any guards on duty. He thought that was a little odd, but then remembered that most of the city's soldiers were off playing war for King Alamast and that the rest were busy patroling along the walls to guard the city. Ren went inside and looked around. He knew that down the right side hallway was the dining room and meeting hall, so he tried the left side. There were several doors, just like the other hallway, and Ren tried some of them. Most were locked, except for the one on the end.
+
+Teepo.
+
+“On it!” Teepo hopped out of the hood and slid under the door. “It's the kitchen!” Teepo said. “4 people are in here, making food.”
+
+Thanks, buddy. Ren thought, stored his cloak into inventory, and opened the door. The smell of cooking food filled his nostrils and he took a deep breath. “Oh, that smells good.” Ren said and entered the kitchen, shutting the door behind him. He saw several people chopping vegetables and one person stirring a huge pot. If his guess was correct, judging by the smell, it was chicken soup. “I can't remember the last time I had a good meal.”
+
+“Hey! What are you doing in here?” A man asked and Ren turned to look at him. “You're not part of the kitchen staff!” The man walked over to another door and opened it. “Guard!”
+
+Ren wasn't sure what to do. A tall blonde woman entered the kitchen, from what looked like a pantry, and saw Ren. She walked over to the man who had hollered for the guard and slapped the back of his head.
+
+“You idiot! Of course he's part of the kitchen staff!” The woman said.
+
+“Ow! You don't have to hit me so hard, Donna! I didn't know.” The man said.
+
+“You didn't even let him answer before you called for the guard, did you?” Donna said and the man ducked his head.
+
+“Sorry.”
+
+“That's alright.” She said and sighed. “Go back to work, please.”
+
+“Yes, Ma'am.” The man walked over to a table and went back to kneading dough.
+
+A guard showed up a minute later, Donna apologized for disturbing him, and handed over a small pastry. The guard stuffed it in his mouth, nodded, and left. Ren had watched the whole exchange and didn't say a word. Donna came over and asked him to follow her. They left the kitchen, she unlocked the next door in the hallway, and ushered Ren into her office. She shut the door and sat down behind a desk and motioned for Ren to sit as well.
+
+“What brings you here, Ren?”
+
+“You know me?” Ren asked.
+
+Donna chuckled. “Of course I do. You used to work for my brother, Donan.”
+
+Ren looked at her in shock. “You're Donan's little sister?”
+
+Donna chuckled again. “Yes, little sister... by like 5 minutes.”
+
+Ren chuckled, too. It was a small distinction, but an important one. Especially to Donan.
+
+“So, what's with the visit?” She asked.
+
+“When I was here last, I remember seeing things in the bathroom, like a sink and tub, and wondered where to get them.”
+
+“That's it?” Donna raised her euebrows.
+
+Ren nodded. “I wasn't sure who to ask, and I was just wandering around. The kitchen was the first unlocked door I've found so far.” Ren said. “I'm sorry if I caused you any trouble.”
+
+Donna waved his apology away. “Tait always calls for the guard. I think this was the first time he had a legitimate reason, though.” She said and smiled.
+
+“Thanks for coming to my rescue.” Ren said. “I wasn't sure what to do.”
+
+“I do.” Donna said. “You're going to have to keep up the charade.” She smiled. “I've never been a liar, and I'm not going to start now.” Donna stood up and walked around her desk. “I think I have an apron that will fit you.”
+
+Ren's eyes widened slightly and then he smiled. “Yes, Ma'am.”
+
+Donna didn't have an apron that would fit, but Ren took one that she did have, got the pattern, and quickly sewed one up from some of the cloth he'd bought to cover furniture. Donna had stared at him the whole time he worked. It had only taken 5 minutes to make an apron because it was only a simple pattern. She led him into the kitchen and put him with the chopping vegetables section. She handed him a knife and told him to watch the others to learn what to do. Ren nodded and watched for several minutes.
+
+It seems simple enough. Ren thought and then examined the blade he held.
+
+Dull Chopping Knife
+
+This blade is used for chopping.
+
+Durability: 20/30
+
+Ren identified the other knives his 3 companions held and shook his head. No, that just won't do. Ren stepped away from the table and looked at Donna, who was watching him. He held up a finger and pointed to the blade. Donna smiled and nodded. Ren stepped out into the hallway and took out his blacksmith belt. He repaired the blade, sharpened it, polished it to a shine, and examined it again. With his skills now at the Advanced level, it took only a minute.
+
+Deadly Chopping Knife
+
+This blade is extremely sharp and is used for chopping.
+
+Durability 40/40
+
+Ren grinned and went back into the kitchen. He chopped up a carrot, and the 3 other choppers stared at him as he made short work of it with such a sharp blade. Ren smiled at them as they handed over their blades. He stepped out into the hall again to sharpen and polish the blades, went back into the kitchen and handed them back. Ren warning the workers that the blades were very sharp, and that they needed to be careful. They nodded and everyone at the table chopped various vegetables to put into the soup. With the sharper blades being used, the task was done quickly, and Ren got a popup.
+
+Stat Change!
+
+Chop Level 7 (Beginner 0%)
+
+No way! Chopping vegetables increases Chop under Woodworking? You have got to be kidding me! That's a cross-linked skill? Ren thought. That's amazing! Ren put the knife down and Donna led him over to the baking table where Tait was still kneading dough.
+
+“Sorry about earlier.” Tait said.
+
+“Don't worry about it.” Ren replied. “You were just watching out for everyone in the kitchen.”
+
+Tait nodded and showed Ren how to knead the dough properly. Once it was done, Tait cut it up into small portions, rolled the portions into a ball, and put them on a big baking tray. Ren helped with this and the tray was nearly filled by the time they ran out of dough to add. Tait took the tray and put it into the oven behind the table.
+
+“They cook fast, because the oven is so hot.” Tait said as he lifted a huge bowl onto the table. “If you time it right, you can get a mix done just as the rolls are ready to come out.”
+
+Ren nodded and watched as Tait put in all the ingredients he needed to make the dough. He sifted everything together, then added in water slowly, kneading between each pour. The mixture became dough eventually and Tait dumped it onto the flour covered table. Tait turned around and took out the freshly baked rolls and smiled. They were a nice golden brown on the top.
+
+“Grab the brush and bowl.” Tait said and pointed.
+
+Ren picked up the bowl and nearly spilled the liquid butter inside. “Oops... I almost made a mess.” He said, carefully dipped the brush into the butter, and handed the brush to Tait, who quickly brushed the liquid butter over the tops of the rolls and the smell filled the kitchen. Ren put the bowl back where it was and Tait told him to start kneading the dough. Ren dipped his hands in the flour and started to knead. Ren was pretty strong, so he kneaded really fast.
+
+“How many times do you have to do it?” Ren asked Tait, who just stood there and stared at how easily Ren was kneading.
+
+“Um... just until it's mixed together well. Usually 5 to 10 minutes, depending on how big of a batch you're making.” Tait said, surprised.
+
+“I've never done this before. Is it mixed up yet?” Ren asked, and Tait nodded. Ren got another popup.
+
+Notice!
+
+You have learned a new recipe: Baked Bread Rolls
+
+Only 2 minutes! Tait thought. He did it in 2 minutes! Tait put another tray on the table and they both made rolls. They did this several more times and Ren started to get the hang of when the mixture was actually done.
+
+This is fun! Ren thought, getting into the grove of mix, knead, roll and bake.
+
+Tait stood back and watched as Ren took over and did everything. By the fourth batch of doing it alone, Ren had to wait for the last tray of rolls to come out of the oven before he could put in the next one.
+
+“I think that's enough rolls for today.” Donna said and took one to taste. It was one of the rolls Ren had made alone. She chewed it for a minute, swallowed, then nodded.
+
+“Yes!” Ren said. “Thanks for showing me how to make rolls!” He said to Tait, who stood there with a blank expression on his face.
+
+What is with this guy? Tait thought as Ren walked away. He looks like he actually enjoyed that!
+
+“What's next?” Ren asked, enthusiastically.
+
+Donna smiled and took Ren into a quick one arm hug and let him go. “I can see why Donan likes you.” She said and took Ren around the kitchen, showing him all the different things that they made in the run of a day. Ren did everything Donna asked him to, and once he started actually cooking things, he got a popup.
+
+Notice!
+
+You have unlocked a skill: Cooking Level 1 (Beginner 0%)
+
+This skill will allow you to cook basic meals for consumption. Food restores Health and maintains Vitality.
+
+Higher skill levels will allow better quality dishes to be made and potentially offer special bonuses.
+
+When night rolled around, Teepo had explored every nook and cranny he could find. By the time evening supper had been served in the mansion, Ren had participated in more different tasks than he'd ever done in a single day before. He cooked several things on the stove, baked in the oven, made pastries, helped decorate a cake, and so many little things that he leveled up Cooking twice. Ren helped clean up the place and then put away all the ingredients to be used for the next day. It took a lot more time for the prep work to be done than it did for making the actual food, but Ren didn't mind that at all. Once everyone had left for the night, Donna led Ren back to her office.
+
+“You did a great job today, Ren.”
+
+Ren grinned. “It was fun! I don't remember the last time I learned so much in so short a time.”
+
+Donna smiled. “Well, would you like to learn more?”
+
+“I would!” Ren said, but then his face went from enthusiastic to blank. “Um... I've got a couple of things being delivered tomorrow at my building, and a friend is stopping in sometime during the day...” Ren said.
+
+“I see.” Donna said.
+
+“I'll come by as soon as I can tomorrow.” Ren said. “I don't have anything planned for the rest of the week, until the mirror and anvil are delivered.”
+
+Donna's eyes widened at all of Ren's exceptions.
+
+“I'll be all yours for 4 days, between tomorrow and the end of the week. All day, every day.” Ren said. “I'd really like to learn everything I can.”
+
+Donna thought about it for a few minutes. “All right. If you can get here early enough tomorrow, and stay for 4 straight days... I'll teach you.”
+
+New Quest!
+
+You have promised to learn everything you can from Donna in a short period of time. The sooner you get started, the more you will learn.
+
+Difficulty: B
+
+Rewards: ????
+
+Ren hopped out of the chair and reached over to shake Donna's hand. “Thank you!” Ren said. “You won't regret this.” He turned around and opened the office door.
+
+“Wait.” Donna said, and Ren looked back at her. “I asked around, and no one knows where the things in the bathrooms came from. Everyone says that they've just always been there.”
+
+Ren nodded. “Thanks for letting me know. See you tomorrow.” He said, left the office, and equipped his cloak. Teepo hopped into the hood and Ren exited the mansion through the front door. I hope Clint comes over early tomorrow. Ren thought as he walked home. I don't think Donna is someone you should keep waiting for too long.
+
+Ren arrived at his building and let himself in. “Hi, Ruck.”
+
+Ruck waved, then raised it's hands up in a 'what's going on' gesture.
+
+Ren chuckled. “Sorry, I got caught up learning how to cook some things and was gone longer than I thought I'd be.”
+
+Ruck did the 'thumbs up' gesture and Ren smiled. “I'll be going back for a few days; starting late tomorrow.”
+
+Ruck dropped it's hands and looked forlorn, if that was possible for a backpack. Ren walked over to it. “Hey, don't worry.” Ren said and pat it on the head. “I'm really going to need your help soon.”
+
+“Why's that?” Teepo asked.
+
+“I'll be heading to the dwarf city next week, I don't know how long I'll be gone, and I'll need someone to help carry my stuff.” Ren said.
+
+Ruck gave the 'okay' signal. “Thanks, Ruck.” Ren smiled. “Goodnight.”
+
+Ren walked over to the paving stone entrance to Teepo's place and leaned over. Teepo hopped off and crawled out of sight.
+
+Goodnight, Teepo.
+
+“Goodnight, Ren. See you in the morning.”
+
+Ren went upstairs and into the apartment. He shut the door and went into the bedroom. Lucy's phantom form lay there on the bed and Ren crawled into bed next to her, laying on his side.
+
+“Hey, guess what?” Ren asked Lucy's phantom form. “We're spending our first night together in my apartment.” He said and rolled onto his back, tucking his hands behind his head. “It's too bad you have no idea that it's happening.”
+
+Ren smiled and closed his eyes. “Goodnight, Lucy.”

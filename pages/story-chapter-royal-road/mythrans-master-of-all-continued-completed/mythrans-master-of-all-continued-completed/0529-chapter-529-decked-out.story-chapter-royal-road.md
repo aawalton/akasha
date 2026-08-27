@@ -1,0 +1,287 @@
+---
+id: d742e0b9-46b0-512b-bdc0-27f3b093ff0b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 529 - Decked Out"
+slug: 0529-chapter-529-decked-out
+partOf: mythrans-master-of-all-continued-completed
+position: 529
+ownLength: 3377
+unit: words
+publishedAt: 2018-03-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199434/chapter-529-decked-out"
+royalRoadId: "199434"
+---
+
+Ren and Princess took the pixies back to their archway apartments, and they all happily got out of the carriage and went inside. Ren stored the carriage and Princess turned around, then they went to the warehouse across from the Main House. Ren went inside to see Tee-one and asked him to make the mirrors for the pixies. He went back outside and climbed onto the saddle on Princess' back and just sat there.
+
+“How did you know I was still here?” Suniva asked a moment later, and faded into existence on his shoulder. She had formed a tunic and pants around herself, too.
+
+“I could say I noticed that you didn't go inside your apartment when I dropped everyone off; but in reality, I can feel the Fire inside of you.”
+
+“You... you can?” Suniva asked, surprised.
+
+“I think it's a side effect of the flesh bond.” Ren said. “I couldn't see or feel you, but I could feel a spark of Fire on my shoulder.”
+
+Suniva sighed and walked into the air to stand in front of his face. “Are you angry that I tried to trick you?”
+
+Ren smiled and used a fingertip to stroke her cheek. “No, because you were just trying to stay near me.” He said. “I should be angry that you would risk your returning wings for me, though.”
+
+Suniva reached out and rubbed the tip of his nose. “You know I believe it's worth the risk.”
+
+“That's why I'm not mad about it.” Ren said. “I'll see you later.”
+
+“Do you promise to let me have some fun again?” Suniva asked and pat the tip of his nose, and Ren chuckled.
+
+“Yes, I'll let you enjoy yourself like that again if you want.” Ren felt her happiness as she leaned close and kissed his cheek.
+
+“Then you can go and make them pay for what they wanted to do to us.” Suniva said and stepped away, then started to walk away through the air. Ren watched her walk for several moments, and then she turned and looked at him.
+
+“Is my cute little butt distracting you again?” Suniva asked.
+
+Ren nodded. “Those are really tight pants.”
+
+Suniva chuckled. “Good.” She said and turned around and walked a little faster to sway her hips more.
+
+“She's less than a quarter of your size.” Teepo said, and he hung off of Ren's shoulder to watch her, too.
+
+“She doesn't have to stay that way.” Ren said and pat Princess, who took off at her full speed through the air, because with no passengers she didn't have to go slow.
+
+“You've got quite a lot of women that you're not having sex with that are trying to have sex with you.” Teepo commented, and Ren nodded.
+
+“More and more all the time.” Ren said. “It's like I have my Prince Charming title on all the time, even though I don't.”
+
+“With your Aura as big as it is, if you did activate the title and walked through Aurora, I'd bet that half of the women in the city would be all over you.” Teepo said.
+
+“Only half?” Ren asked jokingly, and Teepo chittered in laughter. Princess came to a stop at the site of the battle and landed beside everyone.
+
+“Geezus! Did you see that?” Dennis asked of no one in particular. “He just teleported!”
+
+Ren hopped off of Princess and walked over to the group of Adventurers. “Princess is just really fast.” He said. “Can I see that cloak?”
+
+“What? This thing?” Dennis asked and held up the cloak in his hands, and Ren identified it.
+
+Cloak of Inanimate Objects
+
+This cloak will allow the owner to disguise himself and those around him as an inanimate object. A cabinet, a rock, or anything else they think of at the time they decide to hide.
+
+Warning: This cloak only takes on the appearance and not the qualities of the chosen inanimate objects.
+
+Durability: 100 / 100
+
+“Where did you get it?” Ren asked as Dennis handed the cloak to him.
+
+“I started with it.” Dennis said. “It's a bit useless, actually.”
+
+“Are you kidding?” Ren asked. “A cloak that disguises you and the people with you as a single object is more valuable than you realize.”
+
+“It didn't work against you.” Dennis said.
+
+“You were all well within my Aura when you tried to hide with it, so I already knew where you were.” Ren said. “If you had stayed back farther, I might not have found you at all.”
+
+“Wow, really?”
+
+Ren nodded. “Personal disguises are pretty common; but something like this, that lets an entire party hide together and potentially ambush enemies as one? That's pretty rare.” He felt their surprise at his admiration of the cloak, and after a lengthy examination, he received the plans for it and handed it back. “Thanks.”
+
+“Did you... um...”
+
+“Yes, I have the plans for it now.” Ren said.
+
+“So you can make another one?” Chris asked.
+
+“I can make as many as I want.” Ren said to him. “Show me your weapons.”
+
+Chris took out a standard sword for low level fighters, and saw it had an enchantment with a single Lightning rune.
+
+“I'm not going to ask how much the enchantment cost.” Ren said.
+
+“Pretty much my whole starting bonus.” Chris said. “It's come in handy a few times.”
+
+“You figured out you can hold it against a creature for extra damage, didn't you?”
+
+Chris nodded. “It's difficult to do that against some creatures.”
+
+“A lot won't hold still after the first shock.” One of the other guys said.
+
+“Is that all the weapons you have?” Ren asked, and Chris nodded. “But, you're the fighter, aren't you? Shouldn't you have more weapons?”
+
+“We've got three fighters in the group, so I've been more of a coordinator.” Chris said.
+
+Ren looked at each of them. “What are your classes?”
+
+“Fighter.” Chris said.
+
+“Magic user.” Dennis said.
+
+“Fighter.” The next guy said.
+
+“Ranger.” Another said.
+
+“Fighter.” The next to last guy said.
+
+“Rogue.” The last one said.
+
+“Can I assume you're the thief, too?” Ren asked the Rogue.
+
+The guy looked at him for a moment and then kind of turned his head away.
+
+“Hey, I'm not judging.” Ren said. “I want to know if you have a good set of lock-picking tools.”
+
+The Rogue looked back at him and sighed. “Only the basic set.”
+
+“I'll make you a full set, then.” Ren said. “Do you use a short bow or short sword?”
+
+“Both.” The Rogue said. “It cuts down on my spreading stat points, but I'm also more versatile.”
+
+Ren nodded. “I'll help with that.” He said. “You're limited to leather armor, right?”
+
+The Rogue nodded.
+
+“I'll have a full set made, with reinforcement.” Ren said and looked at the fighters. “Do you want a set of full plate armor, normal armor, leather armor with metal gauntlets and boots...”
+
+“Whoa! Whoa! Whoa!” Chris said and held his hands up. “You're giving us too many options. How are we supposed to choose from all of that?”
+
+“Well, I'll just make normal armor and you can try that for a while, and I'll leave a set of full plate armor available for when you think you need it.” Ren said. “Ranger? Do you use a full bow or a crossbow?”
+
+“Full bow, and I've got a mini-crossbow for short range fighting.”
+
+“Can I see that?” Ren asked.
+
+The Ranger handed him something that looked like a 45 caliber pistol. Ren examined it and saw the release mechanism and hit it, and the bow sides popped out and folded forward.
+
+“It's hand loaded.” The Ranger said and gave Ren a single bolt to put in it. “It's easy, but takes two hands.”
+
+Ren loaded the bolt and saw it really was easy to load. “It doesn't fire far because the bow part isn't set up well.” He said, and popped the bolt back out. “If the bow sides folded back instead, the string would have more tension.” He checked it over and moved everything that could be moved, and received the plans for it. “I'll have a better version ready in a few minutes.”
+
+“What?”
+
+“I have other plans that are similar enough that I can adapt them for you.” Ren said and took out his shop tower, and walked 15 feet away from the group, put the 2 inch wide cube down and activated it. The Instant Tower popped into place and the group of Adventurers gasped at the sight of a 20 foot long by 20 foot wide by 30 foot tall tower.
+
+Ren went inside and worked for almost 10 minutes. He took his time when modifying the mini-crossbow recipe and made sure the new additions didn't jam it or stop it's function. He added the gears from the large automatic version he had made, added a cartridge and an auto-loader, and left it as a single shot. The Ranger was right. It was only good as a short range weapon, and there was no point in trying to enhance it's range.
+
+Ren concentrated in increasing its power and penetration instead, and when he was done, he left the shop tower and handed the weapon to the Ranger.
+
+“There you go.”
+
+“What the hell is this?” The Ranger asked and looked at the contraption that was almost the same as his mini-crossbow, except that it was quite a bit thicker and clearly had a cartridge sticking out the bottom of it.
+
+“A heavily modified auto-loading mini-crossbow.” Ren said. “It functions just like the old one, except you can fire it one handed up to 10 times before you have to reload the cartridge.”
+
+The Ranger and the other members of his party stared at the odd-looking weapon, and Ren went back into his shop tower to make weapons and armor for the fighters. Since he only needed 3 sets of normal armor and 3 sets of full plate armor, he let the system do the hard work and only chose the patterns to use. He enchanted the pieces with basic stat enhancers, Protection, and Defense bonuses. He also made them lighter so they wouldn't slow the wearer down.
+
+With those done, he made 3 long swords, 3 broad swords, 5 short swords, 6 daggers, and enchanted them with a combination of Earth, Fire, Wind, and Lightning runes. He was tempted to add the other elements, but he knew they wouldn't work as well together as the ones he chose. After that, he made 6 bodysuits with the steel-laced Spider Silk Cloth, then made 2 sets of full leather armor and lined the insides with the same cloth.
+
+He enchanted them with stat bonuses, Reinforcement, Protection and Defense, and made them lighter. It could only hold half of the runes the full metal armor could; but, since he hadn't used the full amount on the metal armor anyway, he managed to give them all the same enchantments. As an afterthought, he enchanted the armor bodysuits with Regeneration and Reinforcement, then stored everything. He took out the extensive set of lockpicking tools he had received from Donan a long time ago and made a duplicate set.
+
+The last thing Ren did was make amulets with Unnatural Armor and Spider enchantments, then added in Communication runes so that they could talk to each other. He left his shop tower and deactivated it, stored it, and went over to the party of Adventurers.
+
+“So, are you ready to get started?” Ren asked them, and the 6 men exchanged glances.
+
+“What about our new armor?” Chris asked.
+
+“I'm not handing that over until you accept the quest.” Ren said and smiled. “I'd be a fool to give you that and not have any kind of guarantee.”
+
+“You gave John that kick-ass crossbow.”
+
+Ren shrugged. “It has a limited use, and I can make more.”
+
+“Does that mean you're going to give us all weapons before we accept the quest?” Dennis asked.
+
+Ren took out the long swords, broad swords, and daggers from inventory and gave them to the members of the Adventurer party. “I gave them a mix of enchantments so they can be used in different situations and you won't have to worry if they'll work effectively or not.”
+
+“Good lord.” Chris said and hefted the broadsword Ren had given him. “I could decapitate someone with this.”
+
+“Quite easily, assuming your attack was advantageous and you were lucky enough to do critical damage.” Ren said. “So, what do you say?” He asked and looked at the party of Adventurers in front of him. “Feel like getting started?”
+
+The men stored their new weapons and nodded, and Ren opened the Land Owner menu and made a new Running Quest. He added in the list of ingredients that he needed to make the various potions that he had the recipes for, added the minimum amount to be gathered and put no limit on them, then added in the qualifier to examine their equipment and special items they found. He also added in that he would provide equipment and money for provisions and for anything he couldn't make for them.
+
+When Ren looked over the details, he decided to add in his own quest for finding rare creatures. Ren hoped that their discoveries during their adventures would fulfill his own quests, while he handled things at home. Since it was a specific quest for them and them only, he sent it to them directly and didn't say it out loud. All 6 of their names appeared on his menu screen, and he closed it and looked at them.
+
+“Congratulations! You may have just saved yourselves a lot of time on your redemption story.” Ren said, and the guys exchanged looks.
+
+“What do you mean?” Chris asked.
+
+“Well, depending on where you get your quests from, if you tell them that you're doing a gathering quest for the Hero of Aurora as well...”
+
+“We'll lose Infamy a lot faster!” Dennis said. “Thanks a lot!”
+
+Ren smiled and held out an armor bodysuit to him.
+
+“What's this?”
+
+“Basic protection.” Ren said. “Equip it and see what it does for you.”
+
+Dennis did so and he couldn't believe what the popup said. “I have Regeneration?”
+
+“It's not powerful, since it's only on an armor bodysuit; but, it should keep you from being permanently hurt.”
+
+“Sweet!” Dennis said, and Ren gave one to the other 5 guys. They equipped the bodysuits without question and waited for what was next. Ren gave a set of leather armor to the Rogue and Ranger, then a set of normal armor and full plate armor to the three fighters.
+
+“It sucks I can't wear armor.” Dennis said, and then Ren took out one of the amulets and gave it to him. “No way!” He said after he equipped it. “This is... I'm wearing heavy armor but I'm not wearing heavy armor?!?”
+
+Ren chuckled. “I made that up for a friend who also couldn't wear armor.” He said. “I was not going to let her walk around unprotected.”
+
+“You're a good friend.” Xuunah said.
+
+“For the most part.” Ren said and smiled at her, then turned back to the party of Adventurers and gave each of them an amulet. They couldn't believe that they could all wear the amulet, even though they weren't magic users and could wear armor. He gave them a modified Ring of Sustenance as well, and it almost blew their minds.
+
+While the guys tried to not overreact to the things he was giving them, Ren took a moment to make up one of the Robes of Ranged Weapons. It was covered in pictures of throwing stars, daggers, knives, and darts.
+
+“How's your accuracy?” Ren asked Dennis and held the robe out to him.
+
+“Um... pretty good, actually.” Dennis said. “You need to be able to cast things precisely.”
+
+“Then you'll put this to good use.” Ren said and gave it to him.
+
+“How does it work?” Dennis asked.
+
+“Just touch one of the images and add a little Mana, and it materializes the throwing weapon you touch.”
+
+“Why aren't you wearing it?” Dennis asked and put the robe on.
+
+“I can't use standard weapons.” Ren said, and that shocked them.
+
+“How the hell did you survive so long?” Chris asked.
+
+“I made a non-standard weapon, of course.” Ren said and grinned.
+
+“What a great solution.” Dennis said. “Thanks for all of this equipment.”
+
+Ren took out a Bracelet of Unbelievable Magic that gave the wearer 10,200 Mana and 1,020 Mana Regeneration, and held it out to him. “You'll need this, too.”
+
+Dennis' mouth fell open at the golden bracelet, and he took it from Ren like it was the Holy Grail.
+
+“You don't have to treat it tenderly. It's pretty tough.” Ren said and took out a Bracelet of Magical Balance, which gave +75 to all the base stats and another Mana boost. “This takes up your other wrist slot, but it's worth it.”
+
+Dennis equipped both and couldn't believe his eyes when he read the popups. “It... it's not possible!”
+
+Ren chuckled. “Not only is it possible, I have more.” He said and took out 5 more Bracelets of Magical Balance and gave one to each of the other guys.
+
+“Yeah, we definitely made a huge mistake doing that task for Lord Grasham.” Chris said.
+
+“I'm a little surprised you gained so much Infamy for that; but, I'm not going to complain about it.” Ren said. I have more important things to complain about. He thought, then used his Master Tailor Sewing Needle to repair their clothing, and used his blacksmith hammer to repair anything they needed repairing. He also gave the set of lockpicks to the Rogue. When all was said and done, the group of Adventurers were as decked out as they could be.
+
+“I think that's it.” Ren said, and then smiled. “Except for two more things.”
+
+Ren activated his Craft Wondrous Item ability and made them an Instant Tower with beds included, set the password for them, and put them all as the owners.
+
+“You saw how this works.” Ren said and gave the 2 inch wide cube to Chris. “Put it down in a space wide enough for it and activate it.” He said. “You can set a spawn point inside for your group, so when you're going to start a mission, pop this thing out as a base in case you die. You'll respawn inside and be safe, because no one but you can enter... unless you bring them inside with you.”
+
+Chris shook his head in disbelief. “Who are you?” He asked. “Why are you giving us so much stuff?”
+
+“I promised myself that if I did this, I would make sure whoever took me up on the offer would have access to some of my best stuff.” Ren said and took out the Wand of Transport. “Like this.” He said and cast a Phantom Steed for each of them. “They are loyal to you, and will take you anywhere you need to go.” He cast Permanent Widen Effect on them, then made the steeds permanent, too. “They don't need to be fed or watered, so as long as you don't lose them, they will always be by your side.”
+
+The Adventurers looked at their black steeds with smoky grey manes, and couldn't believe their eyes.
+
+“Well, what are you waiting for?” Ren asked. “Climb on and go start doing your quests.”
+
+“You're unbelievable.” Chris said as he climbed up onto his steed.
+
+“I could make a joke about that, but I'll let it slide this time.” Ren said and watched them all mount their new steeds. “Now go and have fun, and don't worry about doing my quest right away. I'll be busy with something else for a while.”
+
+Chris and the members of his party nodded, exchanged contact info with Ren, and then left at a full trot.
+
+“Everyone, let's go to the breach in the county wall.” Ren said and climbed into Princess. “I've got to fix it first.”
+
+“Then what are you going to do?” Xuunah asked.
+
+Ren smiled crookedly. “We're going to pay Lord Grasham back for what happened today.”

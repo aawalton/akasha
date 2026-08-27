@@ -1,0 +1,389 @@
+---
+id: d513b032-ae6c-5295-990f-155d187e1dde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 388 - Oil's Well That Ends Well"
+slug: 0383-chapter-388-oils-well-that-ends-well
+partOf: mythrans-master-of-all-continued-completed
+position: 383
+ownLength: 4231
+unit: words
+publishedAt: 2017-10-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167922/chapter-388-oils-well-that-ends-well"
+royalRoadId: "167922"
+---
+
+Ren stepped out of the portal, and saw that Elerlyth was asleep on the bed. Hi, Teepo. He thought. I assume nothing happened?
+
+“Everything's fine.” Teepo said. “We did have a few town guards come over and look at this fort thing you made, but since they couldn't find a door, they left.”
+
+Ren chuckled. So easily thwarted.
+
+Teepo chittered in laugher. “That was my thought, too.”
+
+How long did it take Elerlyth to go to sleep?
+
+“A couple of hours.” Teepo said. “Hey, I can feel that new ability.”
+
+Ren smiled and walked over to the bed. Yeah, I gained it when I fought for the Queen's bed.
+
+Teepo chittered in delight. “Oh, I wish I had seen that!”
+
+Ren chuckled again. You had more important work to do while I went and had fun. He thought and sat down on the bed. Now I have to face the consequences.
+
+“She'll understand.” Teepo said. “After she pounds you.”
+
+Ren grinned and reached a hand out. He stroked Elerlyth's sleeping face and she started to stir.
+
+“Hm? What?” Elerlyth woke up and looked at him. “REN!” She yelled and sat up, then took him into a hug. “You're alive!” She said and let relief flood out, felt Ren's ability react to her emotions, and she froze still. “Oh, god!”
+
+“Surprise.” Ren said. “Can you guess what I can do now?”
+
+“Oh, Ren.” Elerlyth said and he felt her sadness.
+
+“May I?” Ren asked, and she nodded. He held her close and kissed her, and her sadness over him becoming like her welled up. He didn't eat it like she thought he would, though. She could feel the difference as Ren absorbed it from her, rather than consume it. She broke the kiss and looked at him.
+
+“R-Ren?”
+
+“It's almost at Advanced.” Ren said, and Elerlyth's mouth dropped open in shock. “Oh, that feels good.” He said and nuzzled her neck, and let his ability absorb some of it. “No wonder you thought I was so tasty.”
+
+Elerlyth felt things stir within her when she felt what he felt for her. Her ability took it and fed, and after a moment, she laid back onto the bed.
+
+“I... I don't know how... is... is this even going to work?” Elerlyth asked.
+
+“It sure is.” Ren said, and remembered mutual sharing and feeding with the healer. Elerlyth caught her breath, and he smiled at her. “That was only from kissing.”
+
+“Oh... oh my.” Elerlyth said, and Ren kissed her. After half an hour of mutual pleasure and feeding, Teepo told them that breakfast was over and the guys were starting to get restless as they waited for them.
+
+“All right.” Ren said and dumped another emotional reservoir into Elerlyth's ability, which made her finish again, and he got up off of the bed.
+
+“R-Ren?” Elerlyth said, dreamily.
+
+“Just stay in bed for a bit, while the guys and I get things prepped.” Ren said. “I'll come and get you when we head back over to the crypt.”
+
+“O-okay.” Elerlyth said and rolled over. Ren sent her the feeling of how sexy she looked draped over the dire wolf pelt naked, and she shuddered as she went again. “R-Ren...”
+
+“I love you, too.” Ren said and went down the stairs and out through the door.
+
+“Thare ya are.” Clint said. “Ah jus' got back from tha general store with tha oil.”
+
+“Great.” Ren said. “I had an idea about how to spread it out.”
+
+“Ah was thinkin' we'd jus' dump it inta tha crypt an' ligh' it.”
+
+Ren shook his head. “There's no way all of those ghouls would fit into that small space.”
+
+“Wha's yer idea, then?”
+
+“Sprinklers.”
+
+“What?”
+
+“I've built 2 farm vehicles now with seed spreaders. The seeds are put in a container and they flow down into a spinning spout to sprinkle the seeds out.” Ren said. “There's no reason why oil can't be added instead.”
+
+“There's no way a farm vehicle can cover all those ghouls.” Billy said. “Not before being overrun.”
+
+Ren chuckled. “The sprinkler doesn't have to be on a vehicle. It's just an attachment.”
+
+“You mean...”
+
+“I'll make a longer flat version, and put several of them on the ceiling of that big cavern.”
+
+“There's no way we can stay there and operate them, man.” Tommy said. “Especially after we light the oil.”
+
+Ren smiled. “Oh, ye of little faith.” He said. “Teepo can lead us to where the big cavern is above ground. We can dig down to it, put the sprinklers in place, then have someone get their attention. The ghouls won't even feel it when the oil covers them as they run underneath it.”
+
+“Will it work?”
+
+“Sure.” Ren said. “They'll be covered in oil, and they can be lit on fire.” He said. “Will it kill them all, though?” He shrugged. “This isn't my first ghoul extermination; but, it's the first time I've seen so many and been inside a nest that flipping big.”
+
+“That's why I said we were screwed.” Billy chuckled. “I still can't believe we got out of there!”
+
+“Me, either.” Dillon said. “Are we going back in?”
+
+“Not all of us, man.” Tommy said. “I know I don't want to do it.”
+
+Clint put a hand on Tommy's shoulder. “Ah won' ask ya ta do anythin' ah wouldn' do.”
+
+“Elerlyth and I will do it.” Ren offered, and the guys looked at him.
+
+“Yer really crazy, aintcha?” Clint asked, and Ren chuckled.
+
+“No doubt.” Ren said. “We can run the fastest, too.”
+
+Clint nodded. “Ah noticed tha'.” He said. “Ahl righ', ya got tha job.”
+
+Ren gave Princess two plates of food and made 6 sprinkler attachments and the large containers for them, then Clint took out the barrels of oil and Ren poured them out into the containers. He made sure they had an even amount, and when they were full, they still had 2 barrels of oil left.
+
+“Molotov Cocktails?” Ren asked.
+
+“Yer jus' full of surprises.” Clint chuckled, and Ren took out some large potion bottles and half filled them with oil, and jammed an oil-soaked scrap piece of cloth into the mouth of each of the bottles. He dispersed the Molotov Cocktails among the guys, kept an appropriate portion for himself and Elerlyth, and stored the large sprinklers.
+
+“Ah think we're ready.” Clint said.
+
+“I'll get Elerlyth.” Ren said and went inside the tower and up the stairs. He saw that Elerlyth sat on the bed, and when she saw Ren, she stood up and stretched with her arms out wide.
+
+“Good morning!” Elerlyth said.
+
+“It sure is.” Ren said and stared at her dark skin in all of it's glory.
+
+Elerlyth felt how much seeing her comfortable meant to Ren, and she walked over to him. She swayed her hips to give him a bit of a show, and Ren fed on her feelings of sexiness and teasing.
+
+“By the gods.” Ren said as she approached him.
+
+Elerlyth felt his body react to her, and things lower in her own body tightened at the feelings from him, and she fed on them as she bent over and kissed him. Her hand went below his waist and massaged him, and Ren couldn't take it. He stored his clothing in an instant and Elerlyth's hand met his flesh. She was surprised, since she only wanted to tease him; then she was really surprised when he picked her up and made love to her right there.
+
+They were done less than 10 minutes later. “Oh, GOD!” Elerlyth yelled when they both finished and fed each other on their feelings. She kissed Ren and held on tightly, and didn't want to ever let him go. It was then that she felt the guys waiting impatiently outside, and she sighed.
+
+“Okay, we have to be very careful about teasing each other.” Ren said and helped her stand up.
+
+“You mean me.” Elerlyth laughed and ran her hand through his hair.
+
+“That's what I said.” Ren grinned at her. She gave him a quick kiss and equipped her armor bodysuit, then the armor.
+
+“This amazes me every time I put it on.” Elerlyth said.
+
+“You amaze me every time I see you.” Ren said, and she felt the truth in his words.
+
+“I love you, too.” Elerlyth said and Ren equipped his armor bodysuit and armor, and left off the helm. He handed over her share of the Molotov Cocktails, and she stored them with a smile.
+
+“The plan is simple.” Ren said and explained what they were going to do as they walked down the stairs.
+
+“The cleanup is going to be messy.” Elerlyth said when they stepped out the door of the Instant Tower.
+
+“Assuming thare's anythin' ta clean up.” Clint said. “Wha' took ya so long?”
+
+“Elerlyth stood in front of me naked, and I had to make love to her.” Ren said. “She's pretty hot, so it didn't take long.”
+
+“REN!” Elerlyth yelled and punched his shoulder as her face flushed to a darker grey. The clang of armor on armor was pretty loud, and the guys winced.
+
+“What?” Ren looked at her. “It's not like they couldn't hear us.”
+
+“You're not supposed to say anything, even if everyone knows!” Elerlyth said, and Ren felt her embarrassment. He didn't use his new ability, though. He turned to her and took her hand.
+
+“My hottest love.” Ren said, and he felt her surprise that he would say that where others could hear it. “No matter what I do or say, you should never feel embarrassed.” He said. “You can feel what I feel. I didn't say it to embarrass you, and I wasn't trying to be mean or malicious. I merely stated the truth.”
+
+“R-Ren...”
+
+“I love you, and I don't care who knows that I get to have sex with you.” Ren said, and she felt how proud he was, and then felt his sincerity. “I'm deeply honored that you let me be with you like that.”
+
+Elerlyth's face flushed the darkest it had ever been.
+
+“Damn, man.” Tommy said. “I gotta remember to thank my girlfriend like that.”
+
+Hank chuckled. “Me, too.” He said. “Those were some smooth lines.”
+
+“But...” Ren looked at the guys. “I... I didn't... I mean, I said them; but, they aren't lines...”
+
+Elerlyth bent over slightly and put her arms around Ren. “I know they're not.” She whispered and kissed him. She felt how flustered he was when the guys thought he was pulling one over on her, and that endeared him to her even more than he already was.
+
+“Ah think we bettah git ovah ta tha' field.” Clint said. “Ren, can ya take all this down?”
+
+“Um... sure.” Ren said as he stared at Elerlyth's smile. “Give me a minute.”
+
+Ren took out the Staff of Earth and pushed the 10 foot walls over and flattened them, then spoke a stream of bubbles and gurgles. The Instant Tower shrunk to the size of a 2 inch wide cube and Ren stored it.
+
+“Dillon told us what that was; but, it's still amazing to see.” Billy said. “What did it take to get it?”
+
+“50 iron bars; 100 stone bricks; 5,000 Mana; 1 platinum coin; and my little finger.” Ren said, and everyone fell silent.
+
+“Wait, WHAT?!?” Elerlyth exclaimed.
+
+“I'm kidding!” Ren laughed. “It didn't actually need my little finger.”
+
+“Oh. That's okay, then.” Elerlyth said.
+
+“Tha's still expensive.” Clint said. “How many do ya have?”
+
+“Just 2.” Ren said. “I ran out of stone bricks.”
+
+“Yer kiddin!”
+
+Ren took out two metal and stone cubes to show them. “I'll make more when I can pick up some more stone bricks.”
+
+“Geez, man.” Tommy said. “What are you going to do with them?”
+
+“It's a surprise.” Ren said and grinned.
+
+“For us?” Tommy asked.
+
+Ren felt the hope Tommy had, and shook his head. “Sorry.”
+
+“Ya don' expec' him ta give us all of 'is neat toys, do ya?” Clint asked.
+
+“Sure I do!” Tommy said. “He's given us everything else, man!”
+
+Ren laughed, and so did everyone else.
+
+“Ren...” Elerlyth said, and Ren nodded and took out the Wand of Transport and cast Elerlyth's Phantom Steed 'Etheria', then 5 more Phantom Steeds for the guys. Ren walked over to the table and ice box, stored them and the chairs, then went over to Princess.
+
+“I'll give you breakfast when we get to the field.” Ren said and Teepo came in for a landing.
+
+“Take out your All-Seeing Mirror.” Teepo said, and Ren held it up for him. He put his front leg on it, and the map appeared, and the shape of the large cavern appeared on it.
+
+“Nice.” Ren said. “Thanks, Teepo.”
+
+“You're welcome.” Teepo said, and Ren ran over to Clint and made the appropriate marks on the parchment map.
+
+“We'll meet ya thare.” Clint said. “Moun' up!”
+
+Ren ran back over to Princess, asked her permission to ride her, then climbed up onto her saddle. “Let's go!” He said and hunkered down. Princess took off at a run and disappeared from sight.
+
+“Ah saw it twice, an' ah still don' believe it.” Clint said and laughed. “Hi-ho, Phantom! Away!”
+
+The phantom steed reared back and flew up into the air, and the rest of the party followed suit. They flew across the town and out into the wilderness, passed Passer Ridge and along the path they had followed before, until they came to the huge graveyard. They changed direction and followed the map to the right area, and came in for a landing. When they did, they saw Princess there with 2 snares around one leg, a leg holding trap on another, and her horns were covered in blood. She also had a grinning Ren on her back.
+
+“You should have seen it!” Ren said and hopped off of Princess. “It was almost like a movie! We came around a corner, and there was a group of ghouls setting a trap. They tried to run when they saw us, but it didn't matter.” He laughed and pat Princess' neck. “Bang! They were gone in an instant!”
+
+“An' tha other traps?” Clint asked and pointed.
+
+“We couldn't let them snare anyone else.” Ren said and scratched Princess' chin. “You did great!”
+
+Thank you, My Lord. Princess thought to him and he took the remnants of the various traps off of her. Everyone climbed off their respective mounts and gathered together.
+
+“So, what's the plan?” Dillon asked.
+
+“Clint, the map.” Ren said, and Clint took it out. “According to Teepo, these 6 spots are closest to the surface.” He showed them where. “We can dig down about 10 feet before we have to start being careful.”
+
+“Why's tha'?”
+
+“Then we get into stalactite territory.”
+
+“Will the sprinklers work with them?”
+
+“Sure.” Ren said. “They're designed to have things drip from them.”
+
+“Ha.” Hank said.
+
+Ren took out 6 shovels and gave the guys one each.
+
+“What about...” Billy started to ask.
+
+“We only need 6 holes.” Ren said. “Plus, we need a guard at the crypt to see if anything comes out that end.”
+
+“I can do that.” Billy said.
+
+“No offense, but I've been in a combat situation with Elerlyth. I'm fully aware of her capabilities.”
+
+“Ren, tha' actually is a might offensive.”
+
+“It shouldn't be.” Ren said and looked at the other guys. “None of you think I'll be any good in a fight, right?”
+
+None of them said anything; but, Ren could feel that they believed what he said was true.
+
+“Ah reckon our opinion migh' change aftah this.”
+
+Ren nodded. “Agreed. I've seen a bit of how you guys react, but I still haven't seen you fight.”
+
+“Ah hope ya won't hafta.” Clint said, and Ren smiled.
+
+“Fingers crossed.” Ren said and gave them each a container and sprinkler. “Just turn the little crank to charge the coil spring and hit the button when it's time. You can keep cranking occasionally if it's necessary; but if my guess is right, there's only going to be 30 seconds or so to cover as many of them as possible.”
+
+“How are we going to light it?” Dillon asked.
+
+“I've got it covered.” Ren said and smiled evilly.
+
+“Ah don' know if'n ah like tha' smile er not.” Clint said and chuckled. “Le's git to it!”
+
+The 6 men went to their designated spots and started to dig, and Elerlyth took her mount back to the crypt to stand guard. It didn't take long for the guys to dig the holes big enough to sit the sprinklers and oil containers into the ground, and Ren went around and made sure the holes were safe and wouldn't collapse. They placed the sprinklers and containers into the holes and cranked them up; then got ready to push the buttons.
+
+“Princess, hit this button when the others do.” Ren said to his mount. “I've got to install the last component.”
+
+Yes, My Lord. Princess thought, and Ren started to run.
+
+“Hey!” Clint yelled, and Ren slowed down. “Where ya goin'?”
+
+“To install the match to light everything.” Ren said.
+
+“How will we know when to hit the button, man?” Tommy asked.
+
+Ren chuckled. “Even if you don't hear me hollering to you, you'll definitely hear the rumbling of the horde.”
+
+Clint nodded, and Ren ran all the way over to the crypt. Once there, Elerlyth watched as Ren made something she'd never seen before.
+
+“What is...”
+
+“It's a surprise.” Ren said and stored it, then made 2 wands with Wall of Earth and gave one to her, then told Elerlyth what he wanted her to make with it.
+
+“Ren, I can't make intricate things like that.” Elerlyth said.
+
+“Ha.” Ren said. “You make me laugh.”
+
+“Ren.”
+
+“Just make a circuit board.” Ren said. “Easy peasy.”
+
+Elerlyth looked at him with surprise, then she ran through his directions again. “Well, damn.”
+
+Ren laughed and kissed her. “Let's go.” He said and opened the crypt's door, and Elerlyth jumped down into the tunnel while Teepo flew in ahead to scout. Ren followed them and ran into the 50 foot long cavern the tunnel was attached to. He took out the Staff of Earth and used it to pull the walls of the cavern down and made a small tunnel from the 300 foot long cavern for the entire length of the 50 foot one, then made a right angle to join it to the crypt's tunnel.
+
+“You're making a bottleneck.” Elerlyth said.
+
+“Yeah, so make sure your circuit board eventually sends them all here.” Ren said. “Add in dead ends where you want, though.”
+
+Elerlyth chuckled. “Contain and corral. Got it.”
+
+Ren nodded and they activated Sneak together, then crept into the large cavern. They didn't see any sunlight, and Ren pointed to the spots with the sprinklers. Elerlyth nodded and they both started to create their wall patterns to lead the ghouls under them. They only made 8 foot tall walls, so the sprinklers could cover everything, and they used up most of the spells in the wands.
+
+It only took them 5 minutes to finish, and they still had 15 minutes before the spell walls wore off. Ren took out his surprise for the ghouls, tossed it up into the air towards the ceiling, and used his Amulet of the Spider's once-a-day Web spell to secure it to the ceiling of the cavern. At this point, they were both standing on the top of their respective mazes. Teepo had sat on the ceiling to keep watch down both side tunnels, just in case.
+
+“Okay, let's make some noise.” Ren said. “Hey, ghoulies! You ugly rat-suckers!” He yelled. “There's a nice tasty meal waiting for you! Hey! HEY!”
+
+Elerlyth laughed at his poor curse substitute, then added a bunch of actual curse words for him when she yelled.
+
+“Elerlyth! I didn't know you had such a dirty mouth!” Ren exclaimed, and it made her laugh.
+
+When they heard a rumbling sound, Ren looked up at one of the sprinklers.
+
+“NOW! HIT THE BUTTONS NOW!” Ren yelled, and he and Elerlyth ran across the top of their mazes to the end by the tunnel entrance, jumped down and ran to the right-angled corner of the tunnel he had made.
+
+“I assume there's a reason you made this new tunnel straight as an arrow.” Elerlyth asked, and Ren smiled as he tapped the large ruby on his chest.
+
+“Here they come, and they're soaked in oil!” Teepo said and flew over to land on Ren's shoulder. “Some of them have figured out to run over the walls.”
+
+“There's so many of them, I figured that would happen.” Ren said as the first ghoul ran down the tunnel.
+
+“Ren.” Elerlyth said and took out her sword. “Fire.”
+
+“Not yet.” Ren said. “I don't want to waste the shot.”
+
+Elerlyth glanced at him briefly, stepped forward, and jammed the sword into the throat of the ghoul. He'd been alone, and they could see a pile of ghouls trying to climb over each other to get into the tunnel. They sorted themselves out when a larger ghoul smashed the head of the ghoul in front. They saw one of it's arms was just a stub to the elbow, then it shrieked at them.
+
+“It's the leader!” Elerlyth said and knelt as the ghouls flowed around the large one and charged down the tunnel. Ren waited for a second to make sure enough of them would be hit, then activated the Illumination runes in the large ruby mounted on his chest. It was at exactly the right height, since the ghouls ran in a crouch, and it hit them right in the face.
+
+The first ghoul's head exploded and it's body lit on fire. The next pile of ghouls had half of their faces singed off and lit on fire, then the beam hit the large ghoul in the chest. It shrieked again as the beam burned into it's chest and the tunnel became a flaming furnace as the other ghouls' bodies burned both brightly and hotly.
+
+The large ghoul didn't fall, mainly because there were so many ghouls behind him; but, then he caught on fire and the ones behind him kicked him away so they wouldn't burn, too.
+
+“No loyalty, huh?” Ren said and concentrated on the present he'd left them.
+
+The present was something he'd modified from the plans he'd gained when he saved Railyse and the Crown Princess from the elemental bomb. He had to change it so that when it exploded, it would send out Fire as well as shrapnel. He had to increase the yield as well, to make sure it caused as much damage as possible in an up and out direction, and added an enchanted trigger. Since it was held upside down on the ceiling, it was in the perfect position with so many ghouls underneath, and Ren activated it.
+
+It exploded in a giant half-fireball from the ceiling downward, consumed the webbing that held it in place instantly, and sent thousands of flaming shrapnel pieces throughout the entire cavern. The ghouls shrieked as they were hit with the metal shards, then lit on fire when the oil covering them ignited.
+
+*
+
+The guys were maintaining their sprinklers when they heard the explosion, then the ground below them moved up and down slightly.
+
+“My sprinkler's getting hot!” Billy said a few minutes later, and saw the oil inside his container as it started to bubble. His sprinkler was the one right in the middle of the cavern and over the main mass of burning ghouls.
+
+“Forget it, man!” Tommy said. “Run!”
+
+Everyone ran away from their oil containers and sprinklers. Princess and the Phantom Steeds ran away a hundred feet and turned around, then watched as the container in the middle sparked and a lick of flame shot out of the hole it was in.
+
+“Ev'ryone down!” Clint yelled when they were far enough away, and the guys all jumped down to the ground just before Billy's oil container exploded. It sent a splashing wave of burning oil out in a wide spray, and a 20 foot wide circle around the hole burned.
+
+“Holy shit!” Billy exclaimed. “I was almost a crispy critter!”
+
+“I think mine's next!” Hank said, and sure enough, his exploded with the same result.
+
+“They're all going, man!” Tommy said, and then the other boiling oil containers exploded one after the other and sent out burning oil in a spray, then the ground started to shake. “Oh, shit! It's collapsing!”
+
+*
+
+Ren and Elerlyth had kept the stray ghouls at bay when they managed to scramble into the tunnel. The ghouls were still on fire; but, that didn't seem to bother some of them. Elerlyth saw two more large ghouls and dealt with them while they waited for the ghouls to burn, and then they felt the whole cavern shake.
+
+“Teepo?” Ren asked.
+
+Teepo flew down the tunnel and through the flames. “The cavern ceiling! It's coming down, Ren!”
+
+“RUN!” Ren said, and Teepo flew back to him as Ren and Elerlyth ran down the tunnel. Ren cast a Wall of Earth several times to seal off the crypt tunnel behind them, then followed Elerlyth out of the crypt and into the sunshine.

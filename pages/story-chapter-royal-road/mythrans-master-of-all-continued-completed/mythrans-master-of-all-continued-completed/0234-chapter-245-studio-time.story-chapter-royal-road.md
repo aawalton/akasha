@@ -1,0 +1,343 @@
+---
+id: c384e75b-c9a2-5847-a93f-fa81714e824d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 245 - Studio Time"
+slug: 0234-chapter-245-studio-time
+partOf: mythrans-master-of-all-continued-completed
+position: 234
+ownLength: 3464
+unit: words
+publishedAt: 2017-05-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134172/chapter-245-studio-time"
+royalRoadId: "134172"
+---
+
+“I'm glad you had fun while you waited for me.” Denise said. “Are we all set?”
+
+“I just have to call for the taxi.” Stella said.
+
+“We can take my car.” Denise said. “It's got a huge trunk, too.”
+
+“Hold on.” Ren said as he sat in the wheelchair. “How come you never offered before?”
+
+“I wasn't allowed to before.” Denise said. “Hospital policy.”
+
+“It's because you were my nurse and weren't certified by the board?”
+
+“You got it.” Denise said. “You're so lucky Stella went through all the trouble to do that for you.”
+
+“I really am.” Ren said and looked at Stella. “If I haven't thanked you enough...”
+
+Stella put a hand on his shoulder and smiled coyly. “If you include today, you've definitely made a tiny little bit of progress in thanking me properly.”
+
+Ren laughed, and Denise held the door open for them. The three of them went out to the car, stored the wheelchair in the trunk, and headed out for an adventure.
+
+*
+
+Detective Ramirez and Officer Stonewall sat outside Mayor Danicot's old house, and were surprised that there wasn't a 'For Sale' sign out front. The Mayor had been living in the new place for about a year, since the last election, and they wondered why he was keeping the old place. They staked it out for half an hour, to make sure that no one was in the neighborhood.
+
+“Let's go.” Detective Ramirez said. The partners got out of the car and walked towards the house. If anyone had been looking, they still wouldn't have seen the crowbar tucked inside the detective's suit coat.
+
+*
+
+“Wow.” Ren said, as he caught sight of the television studio. It wasn't quite a high rise building, but it was pretty close. If he had to take guess, it would probably be about 30 floors high. It's stone and granite facade caught the eye as you walked up the street from the parking lot. Stella pushed his wheelchair and Denise walked beside them.
+
+“It sure is something.” Denise said. “I've driven by here lots of times, but I've never seen the inside of the place.”
+
+“I haven't either.” Stella said. “Now the three of us get to share this new experience together.”
+
+“I can't wait!” Ren said. “I hope I can do a good enough job for them.”
+
+“Don't worry about it.” Stella said. “You're going to do great.”
+
+“No pressure, right?” He said and smiled up at her.
+
+“None at all.” Stella said. “You're only going to disappoint your tens of fans if you mess up your lines.”
+
+Ren snorted a laugh. “Tens of fans?”
+
+Stella grinned at him, and Denise actually laughed.
+
+“There was more than that in the therapy room to watch the first episode.” Denise said and held the door of the studio open for them to pass through. “I'm sure there's at least twice that.”
+
+“If we're lucky.” Stella joked, then stopped walking when she saw that the lobby was full of people, and she heard Ren's breathing speed up. “Oh, crap.” She said. “Denise.”
+
+Denise opened the front door again and Stella wheeled Ren back outside. She knelt by him and took his hand. “It's okay. Take deep breaths.”
+
+Ren nodded and held her hand as he did his breathing exercises and tried to calm down. “Wooo. That's a lot of people.”
+
+“I'm sorry. I should have checked before going right in like that.”
+
+“It's okay.” Ren said. “Who would have thought this place would have so many people inside?” He asked and looked around. “There's barely any traffic, and its lunchtime. What are they all doing here?”
+
+“I'll go and find out.” Stella said as she stood up and let go of his hand. “I'll be right back.”
+
+Denise took his hand and checked his pulse at the wrist. “Don't worry.” She said in as soothing a voice as she could muster. “If anyone can clear that place out for you to get through safely, it's Stella.”
+
+Ren's pulse slowed down to it's normal rate, and Denise saw him smile then let his hand go.
+
+“Yeah, she's awesome like that.” Ren said. “I can just imagine the looks on their faces when she gets going!”
+
+A couple of minutes later, Stella came back out with a security guard. He was a large and imposing black man, around 6 feet tall, and his short-sleeved shirt showed off impressive muscles and skin that was covered in tattoos. His legs on the other hand, were almost as thin as Ren's, and the fabric of his pants flopped around in the light breeze.
+
+“Don't tell me they kicked you out for bashing a few heads in.” Denise said, and Stella laughed.
+
+“No, you nincompoop.” Stella said. “This nice gentleman offered to lead us in the back way.”
+
+“That's great!” Denise said, and offered a hand for him to shake. The security guard looked surprised for a split second, then smiled as he took the offered hand.
+
+“Ma'am.” He said in a deep baritone. “Pleasure.”
+
+“Likewise.” Denise said as Stella got behind Ren's wheelchair. “Lead the way.”
+
+The security guard nodded and walked around the side of the building. Stella, Ren, and Denise followed him down the alleyway and to a small security door near the back of the building. The guard unhooked a walkie-talkie from his belt and clicked the button twice.
+
+“Go ahead.” A small voice said from it's speaker. Ren couldn't tell if it was a man or a woman.
+
+“Requesting authorization for alley access; door D3J.” The security guy said.
+
+“Swipe card.” The small voice said, and the security guard took out a card that was tied around his neck. He swiped it on the small pad.
+
+“Got it, Joe.” The small voice said, and then a loud buzz came from the door. “Authorized.”
+
+“Thanks, Amanda.” Joe said, and pulled open the door.
+
+“Anytime, big guy.” The small voice said, and Joe hung the walkie-talkie back onto his belt after clicking it twice. Stella pushed Ren and the wheelchair inside, and Denise came in behind them. Joe the security guard closed the door and waited to hear the click. There was a loud thunk as the security lock engaged, and he turned to Stella.
+
+“The elevator is straight ahead and to the right, Ma'am.” Joe said.
+
+“Thank you for your help.” Stella said.
+
+“Yes, we really appreciate it.” Denise said. “Ren doesn't handle big crowds well.”
+
+“I saw.” Joe said, and looked at Ren. “You okay now?”
+
+“I am, thanks.” Ren said. “Are you walking us up, too?”
+
+Joe nodded, and they all went to the elevator. They didn't even have to wait after the button to call the elevator was pushed. The doors opened and they went inside.
+
+“Why was there a bunch of people in the lobby?” Denise asked.
+
+“It was a last minute stock holder meeting.” Joe said. “The management, in their infinite wisdom, decided that noon was the best time to have everyone come in.”
+
+“You have to love smart decision making.” Stella said. “Floor 18, please.”
+
+Joe pushed the button and the doors closed. Ren examined some of the tattoos on Joe the security guard's arms, while they rode up in the elevator.
+
+“I like that skull and crossbones on a flag.” Ren said to Joe, when he saw the tattoo that covered most of the security guard's forearm. “Did it take long to get?”
+
+Joe smiled. “Nearly a month.”
+
+“I thought tattoo artists charged by the hour.” Denise commented.
+
+“They do.” Joe said, and Ren whistled. “Yeah, it cost a pretty penny.”
+
+The elevator arrived at their floor, and they went out into the hallway.
+
+“We're going to Studio 3.” Stella said. Joe motioned to the right and led them down the hall, then opened the door marked with 'S3'.
+
+“Have fun.” Joe the security guard said, and Stella pushed Ren into the room with Denise close behind.
+
+“There he is!” A cute statuesque blonde in a business suit and skirt said, and came over to them. “Hi! I'm Barbi. That's with an 'i' at the end, and no 'e'.”
+
+Stella and Denise only nodded to her, and tried not to laugh because they were meeting a model perfect blonde woman named Barbi. Ren, completely oblivious to this, smiled at her and held out a hand.
+
+“It's nice to meet you. I'm Ren.”
+
+“I know who you are, Mr. Haddon.” Barbi beamed a smile at him and shook his hand. “Please, come this way.”
+
+Stella pushed Ren through the small lounge area, and into the studio proper.
+
+“We've only got a few lines that we need you to read for us.” Barbi said, and handed him several sheets of paper. “It's mostly just saying the names of the main antagonist, and the supporting characters.”
+
+“That's all?” Ren said. “I thought you'd need me to say a bunch of phrases and things.”
+
+Barbi smiled at him, and pat his shoulder. “With the way computers can process things nowadays, they should only need a few replacement lines from you, and they can make your character say anything that they want.”
+
+“Really?” Ren said. “I try to keep up with technology, but I didn't think they were that good with voice manipulation.”
+
+“They aren't normally.” Barbi said. “If they're off by even a little bit, you can tell it was faked.” She said. “But, this is an animated show. Every phrase is pretty much it's own recording. It's all pasted together in post processing.”
+
+“That's pretty neat.” Ren said.
+
+“Plus, we have access to a whole year of your game footage.” Barbi said. “It's a huge sampling of your voice in pretty much every situation.”
+
+“I didn't think of it that way.” Ren said.
+
+“No one does.” Barbi said, and looked at Stella. “Does your caregiver need to come into the recording booth?”
+
+“I think he should survive without me to hold his hand.” Stella said. “For a little while, anyways.”
+
+Ren smiled at her and took her hand, gave it a little squeeze, and let it go.
+
+“Great.” Barbi said. “Can you wheel it yourself, or should I push?”
+
+“Push, please.” Ren said, and Barbi got behind the wheelchair and pushed him into the booth.
+
+*
+
+“And I get completely ignored.” Denise said, jokingly.
+
+“Aw.” Stella said and put an arm around her. “Your time will come.”
+
+“Technically, it already has.” Denise said, then described how she had undone her top and distracted Ren when Barbara took out the IV needles. “He had no clue that Barbara had even taken the needles out.”
+
+“Ha! I wish I'd thought of that.” Stella said. “Nice going.”
+
+“Thanks.” Denise said. “I do have my moments.” She grinned. “And breasts.”
+
+Stella laughed. “I swear he'd never look at our faces again if we kept our tops open.”
+
+*
+
+Ren met the sound mixer and booth manager, and they set him up with headphones and a standing boom mike. They told him to just talk normally unless told otherwise, and Ren started to read the words on the pages. It didn't take long, because Barbi had been right. All he really needed to say was the character's names, to replace the ones he said in the footage. He wasn't sure how that would work; but when he was done an hour later, he asked them about it and they said that they just use cutaway shots when the new lines were added so there wouldn't be any sync issues.
+
+The men in the booth thanked him for his hard work, and he thanked them for the experience. Barbi came in and pushed him back out to the main room where Stella and Denise sat and waited.
+
+“We're all done!” Barbi said excitedly. “He did a great job!”
+
+“It went by fast.” Ren said. “I got to the end of the pages before I knew it, and asked if there was anything else they needed.”
+
+Stella smiled. “I bet they were surprised by that.”
+
+“Totally!” Barbi said. “I don't think I've ever seen them so surprised.”
+
+“Did they get you to do anything else?” Denise asked.
+
+“They gave me a few lines for a minor character, because the regular guy is out sick.” Ren said. “So, I did those.”
+
+“It was great!” Barbi said. “He's put the next episode back on track with his replacement lines, and we'll have production wrapped for the following episode done by Monday because of his extra work.” She said, and knelt beside Ren. “Thank you so much for coming down.”
+
+“You're welcome.” Ren said. “I'm glad I could help.”
+
+“So, is that all?” Stella asked. “We've got to get a move on if we're going to beat the afternoon rush.”
+
+“Yes, that's everything.” Barbi said and smiled as she stood up. “You've been a big help.” She said. “Just those few extra lines has saved the station a few thousand dollars.”
+
+“No way!”
+
+“It's true!” Barbi said. “We would have had to book extra studio time, keep the mixer and sound guys late, and hire a replacement voice actor.” She grinned. “It was so great of you to do this for us.”
+
+“It was my pleasure.” Ren said, and held out a hand. Barbi took it and intended to give him a handshake; but Ren turned it automatically, and without thinking about it, placed a kiss on her fingers. “Have a great day.” He said and let her hand go.
+
+Barbi stood there frozen in shock; because she'd never once in her life had anyone do that to her. Her mouth was open in a little 'o' of surprise, and Stella stifled her laugh.
+
+“Come on, you little Casanova.” Stella said as she took the handles of the wheelchair. “Let's get you out of here.”
+
+“To the mall!” Ren said and pointed to the door. Denise held the door open, and Stella rolled Ren out into the hall.
+
+*
+
+Did... did he just... Barbi looked at her hand. She could still feel the press of his lips on her fingers. Who does things like that? She asked herself, and stared at the door as it closed.
+
+*
+
+Stella had to take Ren to the main elevator, because she knew that without the security guard to guide them, there was no way they would get out that back door. The elevator door opened, and no one was inside. Stella wheeled Ren in and kept him faced towards the wall, and Denise pushed the button for the lobby. The ride down was also short, with only one stop on the tenth floor.
+
+Denise stood in front of the elevator's door as it opened and blocked the entryway. The guy tried to walk in anyways, and she coughed at him. He put his hand up to block it, and she hit the button to close the doors. He wasn't as quick to hit the button on the outside, and the elevator continued to the lobby.
+
+“Nice one.” Stella said.
+
+“That guy didn't think so.” Denise said, and Stella laughed. They got to the lobby, and Denise poked her head out. “It's pretty clear.”
+
+“Then let's get going while the getting's good!” Stella said, backed Ren out of the elevator, and pushed the wheelchair to the front door. Denise went ahead and got the door for them, and then they were out into the sunshine.
+
+*
+
+Detective Ramirez and Officer Stonewall had cased the house completely and picked the best spot to get in. They were fortunate that there wasn't another house right behind the lot the mayor's old house was on, and the hedges planted along the street blocked them from view.
+
+“If we do this, we're breaking the law.” Detective Ramirez said.
+
+“Hey, I got you covered partner.” Officer Stonewall said, put a hand over her mouth, and the detective heard another voice close by.
+
+“Help me!” A soft voice said from the basement window.
+
+“What the hell was that?” Detective Ramirez asked her.
+
+“That was 3 years of ventriloquism practice as a child.” Officer Stonewall chuckled.
+
+“I've known you for over 2 years, and I didn't know you could throw your voice like that.” He said, and used the crowbar to break the basement window.
+
+“How would that come up in conversation?” Officer Stonewall asked. “Hey, that case we worked on was a real bitch, wasn't it? By the way, I can make inanimate objects talk if I hold my lips closed.”
+
+Detective Ramirez laughed as he cleared the glass away from the window. He took off his jacket and laid it over the window's bottom edge, and stuck his head inside.
+
+“It's just a storage room.” He said, turned around, and slipped in feet first. Officer Stonewall heard something fall to the floor, and then a loud curse. She looked in through the window to see her partner laid out on his back on the concrete floor.
+
+“Are you all right?”
+
+“Why do people always ask that when someone gets hurt?” Detective Ramirez asked, picked himself up, and wiped off his pants.
+
+“Are you hurt?”
+
+“Only my pride and my backside.” He said, and she smiled.
+
+“All right, I'm coming in.” Officer Stonewall said, turned around, and slid in feet first. She over-compensated with her movements, just like he did. “Ahhh!” She said and started to fall.
+
+Detective Ramirez caught her easily, because he had positioned himself where he would have wanted someone to be when he had fallen. Officer Stonewall ended standing on her feet instead of on her butt; but, she was also in a deep hug with her partner. She stared up at him with surprise on her face, and it matched the surprise on his own. Both of their faces started to flush slightly red as the hug went on a little longer that it needed to. They let each other go quickly, and looked around the room.
+
+“A door!” Detective Ramirez exclaimed, and went to it.
+
+“Great!” Officer Stonewall said and banged into him as the door wouldn't open.
+
+“It's a good thing I brought a key.” Detective Ramirez said, and used the crowbar on the hinges of the door. He pried them out, and moved the door out of the way. He glanced out, and ducked back.
+
+“Do you see anything?” His partner asked.
+
+“No, but I can't see all the way down the hall, either.”
+
+“Any electric eyes?”
+
+“Not just outside this door at least.” He said, nodded to her, and stepped into the hallway. She followed him out and was surprised by what she saw.
+
+“Um, are basements supposed to have this many doors?” Officer Stonewall asked.
+
+“It's not just the number of doors that's odd.” Detective Ramirez said. “Look at the length of the hallway.”
+
+She turned around and looked where her partner pointed, and her eyes widened. “Okay, that's weird.”
+
+The hallway was almost three times the length of the house.
+
+*
+
+Denise drove Ren and Stella to the mall, and they went into the custom tailoring shop.
+
+“Welcome back!” The sales lady said. “Are you looking for more pajamas today?”
+
+“Not today.” Ren said. “The others are working out great.”
+
+“I'm glad.” The sales lady said. “What can I get for you?”
+
+“It's not for me.” Ren said, and pointed to Denise. “She needs some custom fit clothing.”
+
+“Wonderful!” The sales lady said and poked her head into the back room. “Lily! He's back!”
+
+“Awesome!” A young woman's voice said, and she came out of the back room. “Hi!”
+
+“Hi.” Ren said, and Lily looked at his two companions.
+
+“Where's the tall redhead?” She asked. “She sure was a knockout.”
+
+Ren chuckled. “She had to work.”
+
+Lily clapped her hands together. “So, what magic do I have to perform today?”
+
+Ren pointed to Denise again. “I've got a woman here who desperately needs your help!”
+
+Lily looked her over, and gasped. “Oh, you poor thing!” She said. “That bra must be killing you.”
+
+“How would you know that?”
+
+“I've seen so many ill-fitted bras that I dream about them.” Lily said and laughed. “Come over to the underwear section, and I'll see what I can do.”
+
+“I'd rather just get some clothes, if that's okay.” Denise said, a little uncomfortable.
+
+“Nonsense!” Lily said. “How are you going to get clothes that fit over the bra, if your bra doesn't fit properly?”
+
+Denise couldn't think of a reason, and Lily smiled.
+
+“Look, just leave it all to me and my magic fingers.” Lily said. “I'll have you all snug and comfortable in no time.”
+
+Denise looked at Ren and Stella, and they made shooing motions to her. She sighed, and Lily practically jumped for joy.
+
+“Right this way!” Lily said, and dragged Denise by the arm to the underwear section.

@@ -1,0 +1,291 @@
+---
+id: 3f6e3a78-832d-5dd5-a9ee-5879e49222c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 458 - Armor Me Up!"
+slug: 0458-chapter-458-armor-me-up
+partOf: mythrans-master-of-all-continued-completed
+position: 458
+ownLength: 3217
+unit: words
+publishedAt: 2017-12-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181558/chapter-458-armor-me-up"
+royalRoadId: "181558"
+---
+
+In a stroke of inspiration, Ren decided to smelt his old armor down, rather than reforge it. They removed the wands from the mounts, then removed the diamonds from each piece. They also took out the large ruby from the chest, tossed the scrap metal into the giant smelter, then half-filled 2 of the satellite smelters with fresh steel. He took out piles of platinum coins and tossed them in the smelters to fill them up, then stirred it up vigorously. He let it simmer, and thought about something as Tee-one started enchanting diamonds with 50 runes of Augment that would increase each of his main stats by 50 points.
+
+“Tee-one, I had an idea about my armor.”
+
+“HA!” Tee-one barked a laugh and used Double Infusion to make the diamond hold 100 runes. “It'll weaken the strength and the defense slightly; but, if you make the entire thing with the extra pieces like you made for the Marilith demon, each piece will let us add 6 more diamonds for enchantments.”
+
+Ren smiled. “I had an idea about that, too.”
+
+“Oh, you have to try that!” Tee-one said and watched as Ren took out a sack of 1 gold coin diamonds and used the Enlarge or Reduce Anything wand on it. It increased in size to 1 inch across, and Ren enchanted it with glyphs of 50 runes. Since he could feel how much Mana it could take, he knew it was just as resilient as a naturally occurring diamond of similar size.
+
+“I have thousands of these things.” Ren said and handed it to Tee-one. “This is... okay, even I have to admit that I think this mechanic is broken.”
+
+Teepo chittered in laughter. “Then use it to it's full effect, and see what you can do with it.”
+
+“But...”
+
+“Come on, Ren.” Teepo said. “Have fun with it! Make a set of armor that's so overpowered that no one will ever challenge you!”
+
+“That's a good idea, Ren.” Tee-one said and enchanted the diamond Ren had given him. “It's your own motto to make anything that you can.”
+
+“I didn't make that Staff of Necromancy.” Ren said.
+
+“That's because a couple of the spells in it are too nasty to have out in the open.” Teepo said.
+
+“Then change them.” Tee-one said, and Ren looked at him.
+
+“What?”
+
+“Alter the recipe and change the spells.” Tee-one said and enchanted another diamond. “I'm sure you'll be restricted to certain types of spells to put in it; but, other than that...”
+
+“Damn, why didn't I think of that?” Ren asked.
+
+“You're too flipping busy, maybe?” Teepo chittered in laughter.
+
+“All right, yes.” Ren said and smiled. “Give me a minute.”
+
+“Take a few.” Tee-one said and enchanted another diamond. “We've got tons of time before morning.”
+
+“You say that now.” Ren grinned, and Tee-one laughed. “Okay, okay. Staff recipes. Ah, there it is.”
+
+Staff of Necromancy (Unique - Binds On Equip)
+
+This skull and bone staff is topped with a black onyx stone that gleams with smouldering power that is grasped by a skeleton's hand. It allows the continuous use of the Level 5 spells contained within:
+
+Raise Dead - Can raise 25 undead (skeleton warriors or zombies) to do your bidding
+
+Drain Life - absorbs Health from living creatures or adds Mana to undead creatures
+
+Ghoul Lure - creates a beacon that attracts ghouls
+
+Fatigue - causes Stamina loss and eventually severe exhaustion
+
+Circle of Death - can instantly kill anything of lower level than the caster
+
+Similar to Rods, it does not contain charges, but a time limit for usage. Current time limit: 600 minutes (10 hours). When the last of the time has been used, the magic will be expended and the staff will become inert.
+
+The staff has Aura: Fear (50 feet) and merges with caster's Aura (if available).
+
+Cast Distance: Within caster's Aura
+
+Area of Effect: Caster's Aura
+
+Cast Time: Various, dependent on spell chosen
+
+“Now... what to replace those bad spells with... hmm...” Ren rubbed his chin and thought about it. “Well, I can replace Drain Life with Detect Undead.” He said, then remembered his spells. “Turn Undead would fit instead of Fatigue... and... and... Regeneration! Yes! That should fit in well, and replace Circle of Death.”
+
+Ren replaced the spells he didn't want with ones he knew he could use, then added 5 glyphs of 10 runes each for Time, which added another 250 minutes to the time limit.
+
+“You don't need the Fear Aura boost.” Teepo said. “Why not replace it with another spell?”
+
+“Which one?”
+
+“Widen Effect, of course.” Teepo suggested.
+
+Ren changed the Fear Aura to the spell, and frowned. “Hold on, I have something else I can do.” He said and remembered that he had a Spell Combine skill. He smiled and activated it, and tried to combine Widen Effect and Permanency, since he had been using them together a lot.
+
+Notice!
+
+You have combined two complimentary spells to create a new spell: Permanent Widen Effect.
+
+Ren smiled and added the new spell instead of the normal Widen Effect, and took out a 1 gold coin diamond from the sack on the workbench. He used the Enlarge and Reduce Anything wand to make it normal-sized, and took out a wooden pole. He held the diamond on the end and activated his Create Staff ability and chose the new Necromancy Staff recipe. The wooden pole morphed and changed, then a skeleton hand grew out from the end of it and grabbed the diamond. The gem changed from a diamond to black onyx and the rest of the staff became a collection of bones that were fused together.
+
+Staff of Generic Necromancy (High Quality)
+
+This skull and bone staff is topped with a black onyx stone that gleams with smouldering power that is grasped by a skeleton's hand. It allows the continuous use of the Level 5 spells contained within:
+
+Raise Dead - Can raise 25 undead (skeleton warriors or zombies) to do your bidding.
+
+Detect Undead - makes any undead creature within your Aura glow and you can sense where they are.
+
+Ghoul Lure - creates a beacon that attracts ghouls.
+
+Permanent Widen Effect - makes a spell or enchantment double it's numerical value permanently.
+
+Regeneration - Can regenerate Health, heal wounds, and regain lost limbs. Cast time: 1 minute. Warning: Causes pain appropriate for the damage while undoing it.
+
+Turn Undead - permanently changes the allegiance of any undead within your Aura to you.
+
+Similar to Rods, it does not contain charges, but a time limit for usage. Current time limit: 850 minutes (just over 14 hours). When the last of the time has been used, the magic will be expended and the staff will become inert.
+
+Cast Distance: Within caster's Aura
+
+Area of Effect: Caster's Aura
+
+Cast Time: Various, dependent on spell chosen
+
+“Well, it worked; but, it lost it's binding qualifier.” Ren said.
+
+“You did remove it's most powerful spells.” Tee-one said.
+
+“That's true.” Ren said and stored it, then checked the smelter. He stirred it up and didn't see any impurities to remove, so he went back to Tee-one.
+
+“You should start designing the suit and all it's pieces.” Tee-one suggested. “You probably don't have to add the sliding parts on the pieces that cover the large parts of the arms and legs; but, covering the knees and elbows with them will provide more protection and make moving in the suit easier.”
+
+Ren took out a piece of parchment and started drawing. He used the pattern he had made for the Marilith demon's body, and adapted it to cover his entire body. It really was an ingenious design, and he used it to full advantage. He started at his ankles and went up from there. The front of the calf was 3 solid pieces, the knee was 3 sliding pieces, the thigh was 3 solid pieces, the codpiece was 1 solid piece, the waist was 1, then he added 3 adjustable pieces for the abdomen, 1 across the chest to mount the large ruby to, 2 pieces on each shoulder, 3 pieces on each upper arm, and 3 pieces on each lower arm.
+
+“That looks nice.” Teepo said. “Now do the same on the back of the armor.”
+
+“The back?” Ren looked at the design he had so far. “Holy crap! I can make the back separate!”
+
+Teepo chittered in laughter. “I'm glad I was here to point that out.”
+
+“Me, too!” Ren said and cut the pattern in half to make the back pieces. The legs and arms ended with the same number of pieces on the backs, except for the knees and elbows, which had none on the back. Each limb ended up with 15 pieces each, the butt had 3 sliding pieces, the waist had another piece, the lower back had 3 adjustable pieces to match the abdomen, and Ren added 3 pieces for the upper back, rather than a solid piece like he had on the front. When he was done, the design had 80 pieces to put together to make the armor.
+
+“Oh, my god.” Ren said and held up the design to show Tee-one.
+
+Tee-one laughed. “You better start enlarging those 1 gold coin diamonds, since we're going to need 6 of them for each piece.”
+
+“That's 480 diamonds.” Ren said, his voice a little shaky. “Tee-one, that's... with you enchanting and using Double Infusion, and I get to use Double Infusion as well...”
+
+“It's 150 runes per diamond on 480 diamonds.” Tee-one said. “Not counting the armor pieces themselves, and they can be enchanted three times as well since we're using platinum steel.”
+
+“Good god, Tee-one!” Ren said. “This... it's... I mean, even for me, this...”
+
+“I told you to have fun with it, Ren.” Teepo said from his shoulder. “Enjoy it.”
+
+Ren took a deep breath, let it out, and nodded. “I'll enlarge what diamonds we need, and then I'll start forging the armor pieces.”
+
+“Make sure you fold the pieces a ridiculous number of times.” Tee-one suggested. “At least 50 times each.”
+
+“Fifty times!?!” Ren exclaimed, and Tee-one laughed.
+
+“We have all night to make the strongest armor that has ever existed.” Tee-one said. “I suggest we use it all.”
+
+“I can't believe we're doing this.” Ren said and took out a handful of diamonds from the sack and started enlarging them. “Look at me! I'm shaking!”
+
+“You haven't even made the armor yet.” Teepo chittered in delight. “Wait until you put it on before you freak out at it's awesomeness.”
+
+Ren couldn't help himself and laughed, and kept enlarging diamonds to fill their needs. He had to refill the wand over and over again, then stopped the third time he had to do it.
+
+“Ugh! How stupid am I?” Ren asked, and then used Spell Combine to cross Enlarge and Reduce Anything and Permanency to make a new spell. “These wands have been limiting me ever since I made them.” He joked and opened the Wand recipe. “50 charges is nowhere near enough. Let's add a zero to that.”
+
+Ren modified the recipe, and kicked himself mentally for not doing it the very moment he had gained the ability to alter recipes. He absorbed the charges from the wand and broke the empty diamond off the end, dipped it for a second in the smelter, then reattached it to the metal rod and created a wand with the new Permanent Enlarge and Reduce Anything spell with the new recipe. It took 10 times the Mana to make the wand, which was appropriate since it held 10 times the charges.
+
+“There.” Ren said and counted out the right number of diamonds that they needed, spread them out on the workbench, then continuously cast the spell. The task went very fast without having to constantly reload the wand, and he was done only a couple of minutes later.
+
+“That's it, Ren!” Teepo said. “Now start forging your masterpiece!”
+
+Ren nodded and used a paving stone to carve out one of the basic pieces. It was essentially the same piece, just repeated over and over, so he filled it with platinum steel and absorbed some of the heat from it to make it solid, picked it up and used his blacksmith hammer to fold it. With his Fire Manipulation ability, he kept it hot and folded it again and again. He stuck it back in the forge and kept going, and used his abilities to their full effect. Dexterity, Strength and Endurance were tested as he worked and folded the tough metal over and over again, and he even received a popup he thought he wouldn't get for a long time.
+
+Stat Change!
+
+Fire Manipulation (Mastered). Fire is now yours to command! Neither the fire's temperature nor the fire's movements hold secrets from you, as both can be bent to your will.
+
+Ren and Tee-one worked for several hours at their individual tasks. By the time Ren had forged and folded the last and largest piece, the chest piece, Tee-one had enchanted and used Double Infusion on all of the diamonds that had been set aside for increasing the main stats. Out of the 480 diamonds needed, 467 had been used to increase the base stats, not including Luck. That left 13 diamonds to be used for other things.
+
+“We can add the armor enhancements directly to the armor before setting the diamonds on them.” Ren said. “Speed, Protection, Reinforcement, Toughness, Empowerment, Set Completion, Resist Spell, Warding for concealment and Stealth, and Antidark to make it super-light.”
+
+“That was a nice touch by adding in the divots to the armor pieces.” Tee-one said. “What about the other enchantments we have?” He asked. “That Sunder one is nice.”
+
+“It takes away 50 runes if we use it.” Ren said. “On the other hand, that's only on a single piece and we have a lot of spare runes to play with.” He absorbed the heat from the chest piece and placed it on the workbench. “You know, I think we should use 9 of the diamonds to enchant them with 150 runes of the Anti-versions of the elements.”
+
+“You're thinking of damage absorption.” Tee-one said, and Ren nodded. “Well, that's only about 600 damage that you'll save from each element, and then you'll take the rest.”
+
+“Would saving the damage be the same amount as causing the damage?” Ren asked. “I remember that when I enchanted armor a long time ago with Earth runes, it saved a lot more than only a few points.”
+
+“Hm, you're right.” Tee-one said. “Well, let's test it and see.”
+
+Ren used the smelter to make a platinum steel shield and handed it to Tee-one.
+
+Platinum Shield (Very Rare - Heavy)
+
+This shield grants the user an armor bonus, and protects them as if they were wearing heavy armor. This causes the wearer to suffer heavy armor penalties.
+
+Protection: +20% defense to armor
+
+Penalties: Dexterity -10, Agility -10
+
+Durability: 1,200 / 1,200
+
+“Okay, base test.” Tee-one said and held the shield up, and Ren poked it with his finger.
+
+Platinum Shield (Very Rare - Heavy)
+
+This shield grants the user an armor bonus, and protects them as if they were wearing heavy armor. This causes the wearer to suffer heavy armor penalties.
+
+Protection: +20% defense to armor
+
+Penalties: Dexterity -10, Agility -10
+
+Durability: 1,100 / 1,200
+
+Ren repaired it, then Tee-one enchanted it with a single Earth rune and Ren poked it again.
+
+Sturdy Platinum Shield (Very Rare - Heavy)
+
+This shield grants the user an armor bonus, and protects them as if they were wearing heavy armor. This causes the wearer to suffer heavy armor penalties.
+
+Protection: +20% defense to armor
+
+Penalties: Dexterity -10, Agility -10
+
+Durability: 1,140 / 1,200
+
+“Wow, it saved 40 points.” Ren said and repaired it. Tee-one absorbed the enchantment, and Ren activated Rocky Hands. His hands were covered in the Earth element, and he poked the bare shield.
+
+Platinum Shield (Very Rare - Heavy)
+
+This shield grants the user an armor bonus, and protects them as if they were wearing heavy armor. This causes the wearer to suffer heavy armor penalties.
+
+Protection: +20% defense to armor
+
+Penalties: Dexterity -10, Agility -10
+
+Durability: 1060 / 1,200
+
+“You just did 40 extra points of damage.” Tee-one said. Ren repaired the shield and Tee-one enchanted it with a single Anti-earth rune.
+
+“I think this is going to hurt.” Ren said and poked the shield. “AGH!”
+
+The Earth element around his finger disappeared instantly as it was ripped away from him and sucked into the shield.
+
+Resilient Platinum Shield (Very Rare - Heavy)
+
+This shield grants the user an armor bonus, and protects them as if they were wearing heavy armor. This causes the wearer to suffer heavy armor penalties.
+
+Protection: +20% defense to armor
+
+Penalties: Dexterity -10, Agility -10
+
+Durability: 1,100 / 1,200
+
+“It didn't take any Earth damage at all.”
+
+“That's because I took it.” Ren said. He deactivated his Rocky Hands skill while his lost Health regenerated. “Regeneration is awesome.”
+
+“Hey, we should use the Ring of Regeneration enchantment to boost yours.” Tee-one suggested.
+
+“Regaining another 5% of my Health a second would be nice.” Ren said.
+
+“Five percent? What are you talking about?” Tee-one asked. “You know what the effect is, so just make a Regeneration rune.”
+
+“With 19 of them, I'll have 100% of my Health back in a second.” Ren said, amazed.
+
+“Why stop at 19?” Tee-one asked. “If you do an entire diamond with it, you'll have 750% Regeneration, plus your own 5%.”
+
+“Wow.” Ren said. “I... I need to sit down.” He took out a chair and sat down, then took several deep breaths. “Tee-one, I... thank you.”
+
+“It's my job to help you, Ren.”
+
+“I... I can...” Ren took out his Book of Runes. “Thank you!” He quickly opened it to a blank page and drew a medical symbol, a cross with two intertwined lines wrapped around it, then drew a basic heart in behind it. He poured a bunch of Mana into the image, then it disappeared and reappeared in the book.
+
+Notice!
+
+You have created a new Augment rune: Regeneration. This rune grants the user a +5% Regeneration ability that can regenerate Health, heal wounds, and regain lost limbs. Takes 1 minute for full restoration.
+
+Warning: Causes pain appropriate for the damage while undoing it.
+
+Ren did his glyph making technique and they all appeared in the book, from 2 runes up to 10. It would take two glyphs of 10 to make a 100% Regeneration enchantment, and Ren was so happy that he almost couldn't speak.
+
+“T-T-Tee-one!” Ren nearly yelled.
+
+*
+
+Tee-one nodded and ran out of the warehouse and across the street. He activated Ren's Sneak ability and went inside the Main House. He knelt beside Princess and touched her Amulet of the Spider. He used Double Infusion and enchanted it with 5 glyphs of 10 runes each of Regeneration. It gave her 250% Regeneration every second, and he touched the amulets Riley and Stacy wore.
+
+Tee-one enchanted them with Regeneration as well, then snuck up the stairs and went into the bedroom. He had 5 more amulets to enchant in order to give Ren peace of mind.

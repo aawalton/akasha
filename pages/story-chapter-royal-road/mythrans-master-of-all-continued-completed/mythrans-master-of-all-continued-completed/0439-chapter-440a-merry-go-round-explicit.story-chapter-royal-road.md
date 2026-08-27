@@ -1,0 +1,361 @@
+---
+id: e9606819-a639-5136-9fe6-ee48a5ac9851
+page-type-slug: story-chapter-royal-road
+title: "Chapter 440A - Merry-Go-Round - EXPLICIT"
+slug: 0439-chapter-440a-merry-go-round-explicit
+partOf: mythrans-master-of-all-continued-completed
+position: 439
+ownLength: 5245
+unit: words
+publishedAt: 2017-12-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178176/chapter-440a-merry-go-round-explicit"
+royalRoadId: "178176"
+---
+
+All the maids sat in various places in the bedroom, with 3 of the dwarf maids at their dressing tables, two of them on the bed, and Anabelle sat on a chair beside the bed. Ren felt how pensive they were; especially Anabelle.
+
+“Ren...” Anabelle started to say, and he walked over to her.
+
+“Anabelle, I could have stayed at the business and been with you there; but, I wanted the others to know how you feel about me.” Ren said.
+
+“But... they know already.” Anabelle said.
+
+“Do they?” Ren asked. “You don't share an Aura with them, so you may have talked back and forth.” He said and sat down on the bed beside her. “They haven't felt how you feel, though.”
+
+Anabelle sighed. “How could they?” She asked. “You weren't here, and all we could do was wait anxiously for you to return!”
+
+Ren reached a hand out and cupped the side of her face. “I know for a fact that you were the most anxious.”
+
+Anabelle closed her eyes and Ren felt how much she liked his touch, and he shared that with the other maids. He felt their reactions, and they moved from where they sat to stand around her and Ren. She looked at them, and saw the caring looks on their faces.
+
+“N-no, don't... don't look at me like that.” Anabelle said and closed her eyes. “I... I don't deserve it.”
+
+“Why?” Frikara said.
+
+“I'm jealous of you all!” Anabelle said, and they felt her anger. “There are so many of you, and you all spend every night with him when he's here!”
+
+Frikara smiled and knelt by her. “He has sex with you, and not us.” She said and pat her hand. “It's us that are jealous of you.” She said, and chuckled. “Or envious. Sometimes I don't know the difference.”
+
+“Jealous is when you're afraid someone will steal what you have, and envious is where you want what someone else has and can't have it.” Ren said. “Neither is true in this case.”
+
+Frikara nodded for a moment, and then her eyes widened. “R-Ren?”
+
+“I brought Anabelle here so that you could all feel how much she means to me, and how much I mean to her.” Ren said. “I'd like to make love to her, right here in this bed.”
+
+Anabelle looked at the other women. “R-Ren, I... I don't...” She again looked at the other women. “Do I have to share?”
+
+“No, I won't ask you, or any of you for that matter, to do that.” Ren said. “This isn't a... well, a group thing. Sharing, yes. Making love? Not really.”
+
+“But...”
+
+“I could give two of you my attention at the same time; but, that reduces the attention each of you gets.” Ren said and smiled. “I can do it, but that's not my strength.”
+
+Anabelle took several breaths and let it out. “Are... are you asking me to have sex with you, right here, in front of 5 other women?”
+
+“Yes.”
+
+Anabelle looked at the other women and didn't see any denial or hatred. “I... well, I... we can try.”
+
+“If you're uncomfortable, just say no.” Ren said. “I just want everyone to feel what you feel.”
+
+“I don't feel what you feel.” Anabelle said, then sighed. “I can detect your Aura, but... sharing feelings is... it's beyond me.”
+
+“Not any more.” Ren said and reached down to touch her Strong Ring of Storage and used Double Infusion to enchant it with a picture of a document on fire. He touched one of his Rings of Boosted Sustenance and used Double Infusion to give it the same symbol.
+
+Notice!
+
+You have gained a new Aura: Freedom Level 1 (Beginner 0%) - Special: Only usable with another Freedom Aura to create an emotional link. Current distance: 10 foot radius
+
+“I want you to think back to that day. The day I gained your old contracts from Lord Eric.”
+
+Anabelle's face changed from blank to surprise. “Wh-what?”
+
+“Please.” Ren said. “Remember how you felt when I tossed them in the fire.”
+
+“I... I was so... I was devastated.” Anabelle said. “but... but then you made a new one, just for me!”
+
+The new Aura snapped into place around her, and Ren smiled as he concentrated on the Freedom Aura, and it merged with hers.
+
+“AH!” Anabelle gasped and felt his emotions. “I can feel you!”
+
+“I can feel you, too.” Ren said. “Now, I can make a Connection between this Aura and the Contact Aura the maids share.”
+
+“NO!” Anabelle said, and Ren looked at her with wide eyes. “Just you. I only want to feel you.”
+
+Ren looked at the maids. “You can still feel it through me, right?”
+
+The maids nodded, and Ren cupped the side of Anabelle's face. She gasped as his appreciation for her flooded into her, and her desire for him bubbled up and out of where she had carefully concealed it. She stood up and stored her clothing, which left her with only a small pair of panties and the skimpiest bra Ren sold.
+
+“On the bed!” Anabelle demanded, and Ren stored his armor bodysuit to leave himself in just his underwear and moved backwards onto the bed and laid down. Anabelle crawled on top of him and kissed him hard. Frikara and the other maids brought chairs over to the bed and sat down without saying a word, and they revelled in Anabelle's repressed and now unleashed desire.
+
+Ren looked at Anabelle and she saw the need in his face.
+
+“I... I can feel how much you want me.” Anabelle said with wonder in her voice. “Why? Why do you...”
+
+“I can feel how much you want me, too.” Ren said. “I can't help but want you back.”
+
+Anabelle smiled. “You don't know how happy... no, you do know, don't you?”
+
+Ren nodded. “So do the others.” He said, and Anabelle looked at the other maids that sat around the bed. She saw similar looks on their faces, and that made her even happier.
+
+“You don't hate me.”
+
+“How could we?” Frikara said. “We suspected you cared about him a lot more than you let on, but...”
+
+“The proof is something else, isn't it?” Ren said, and Anabelle looked down at him. “Even I was a bit surprised.” He smiled. “Now take off your bra and underwear so you can ride me as hard as you want.”
+
+Anabelle laughed at his playfulness, and she stored her undergarments. Ren did the same, and felt the entire focus of everyone in the room shift to between his legs.
+
+“Mjolnir.” The maids whispered, and that made Ren laugh. They gasped as his joy filled both shared Auras, and Anabelle moved to position herself over him.
+
+“I'm going to ride you so hard that you're going to beg me to stop.” Anabelle said, and sat down hard onto him. “AHHH!” She yelled as he slid all the way inside in one go.
+
+“You'll be exhausted long before I even think of begging you to stop.” Ren said and grabbed her hips to lift her up and almost all the way off.
+
+“R-Ren!” Anabelle said in protest, then Ren pulled her down to make her yell again. “Oh, god!”
+
+“Who's going to beg who to stop?” Ren asked and kept picking her up and pulling her down, over and over.
+
+“N-n-not m-me!” Anabelle said and started to do the same motion herself. Her hands flailed out and around to try and grab onto something, and then her hands met two other hands. They braced her and she steadied her rhythm, and they all felt each other through Ren. He felt something massive building up in the Auras, and he knew it was going to be something spectacular.
+
+Ren reached up to cup Anabelle's breasts and massaged them as she rode him just as hard as she said she would. The other maids went along for the ride, and they were all breathing heavy as that massive something came closer and closer.
+
+“Can... can you feel that?” Anabelle asked. “That... god, is that... OH GOD!”
+
+The orgasm hit Anabelle like a freight train and her entire body locked up as the pleasure overrode all of her motor functions.
+
+“By the gods!” Frikara said as the massive wave of pleasure made her and the other maids finish. Ren didn't take any of it for himself and had funnelled everything out to the maids. Lusinia and Navruth gasped, Verwynn had frozen like Anabelle did, and Andrela had collapsed onto the bed and rolled around like a cat with catnip.
+
+It took several minutes for them to recover, especially Anabelle, and Ren had laid there and patiently waited.
+
+“You didn't... why didn't you...”
+
+“I wanted you to have a turn first.” Ren said and picked her up. She held onto the two hands that held hers as Ren counter-balanced while still inside of her, and laid her down on her back. Andrela's head was right beside Anabelle's now, and both women looked up at Ren with wide eyes.
+
+“Prepare yourself.” Ren said and pulled almost all the way out, and Anabelle clenched up tightly as she expected him to shove into her hard. He smiled and very slowly and carefully pushed his way back inside. The sensations and the feelings from Ren drove Anabelle wild, and she kept shaking her head no as he moved in and out as slowly as he could manage.
+
+“F-f-faster.” Anabelle whispered. “Please... just... just a little faster.”
+
+“No.” Ren said and went even slower. Anabelle almost cried in frustration, and that feeling was shared by the other maids as well.
+
+“R-Ren.” Frikara said, and he looked at her. She had a hold of Anabelle's hand, and was panting just as hard. “Please... you're... by the gods, hurry up!”
+
+Ren chuckled, and let a feeling of naughtiness fill both shared Auras. He did two more agonizingly slow movements in and out, then jammed himself in and out three times in quick succession without warning.
+
+“GAHH!” Anabelle, Frikara, and Verwynn yelled together and finished again.
+
+Ren slowed down again and he felt that they all were starting to resent him because he wasn't giving them what Anabelle wanted. He leaned down and kissed one of the tips of her breasts, and Anabelle gasped and twitched.
+
+“Is that what you really want?” Ren whispered to Anabelle, and she nodded. So did Verwynn. He grinned. “Ask and you shall receive.” He said, then moved as fast as his new speed would let him.
+
+“Ahhhhh... AAAHHHHH... AAAAAAAAAAAAAAAHHHHHHHHHHH!” Anabelle hollered at the top of her lungs as he gave her what she wanted without reservation or holding anything back. He moved in and out of her so fast that she felt like he was both inside her and not inside her at the same time.
+
+“Ren! Ren! Ren! Ren! Ren!” Anabelle said in a constant stream, and Ren felt another massive thing grow within the shared Auras. It was a lot bigger than the last one, and this one he wasn't going to completely give away and wanted to enjoy it himself. Anabelle felt his determination to share in her pleasure, and that brought her back to herself.
+
+“T-together! Let's... OH MY GOD!”
+
+A moment later Anabelle had another orgasm; but, this one was completely mind-blowing for both her and the maids. Ren felt them lose themselves in the feeling and how much they all wanted to feel it with him; and he couldn't hold back anymore and finished himself.
+
+“REN!” They all yelled together at the same time as he let both his physical and emotional pleasure out for them to feel, and he used his ability to caress all of them on the inside at the same time. They caught their breath as he filled them up emotionally, and they finished again. They all collapsed onto the bed completely spent, even though they hadn't done much physically, and Ren propped himself up to look at what he had done. Anabelle lounged on the bed with the heads of the 5 maids arrayed around her.
+
+“Was that too much?” Ren asked.
+
+Anabelle and Verwynn chuckled, Lusinia and Navruth nodded, and Frikara and Andrela just stared at him with wide eyes.
+
+“So, that's a definite maybe.” Ren said, and that made them all laugh.
+
+“Oh, don't make me laugh!” Anabelle said. “Not while you're still...”
+
+“I'm sorry.” Ren said and pulled himself out of her, then sat down beside her. He saw her wince a little, used a hand to gently probe her, then took out a Minor Healing wand and healed her.
+
+“Thank you.” Anabelle said and rubbed herself. “It was... well...”
+
+“Fantastic!” Verwynn said. “If you ever decide that...”
+
+“Verwynn.” Frikara admonished her, and she sighed.
+
+“I can't even say that I want it like that?”
+
+“We promised not to tease him, remember?”
+
+“I'm sorry, Verwynn.” Ren said. “Because-”
+
+“No, I'm sorry.” Verwynn said and cut him off. “We really did agree not to tease you.”
+
+“Can I speak without an interruption?” Ren asked, and she blushed as she nodded. “Thanks.” He said. “I can't do that for you, because I believe we agreed that Andrela would be first.”
+
+“Wh-wh-what?!?” Andrela exclaimed.
+
+“My Lady, would you do me the honor of accepting me as a potential suitor?”
+
+“But... but... but...” Andrela stammered and her emotions were swirling around and changing from being scared to being so flattered that she didn't know what to think.
+
+“I know it's just a formality, since I don't have a House and can't be considered as a husband; but, I also don't want you to think that all I'm doing is using you.” Ren explained. “You can feel what I feel about it... and about you... so all I can do is ask and await your answer.”
+
+“But... you just... don't you have to wait?” Andrela asked.
+
+Anabelle chuckled. “Was this why you brought me here? To help convince them that you can keep going?”
+
+Ren gave Anabelle a quick kiss. “No, all I wanted was for everyone to know how I felt, and how you felt about me.” He said and equipped his armor bodysuit for an instant to clean up, then stored it again. “Now you all know, and I can tell that it's made you all happier.”
+
+“Experiencing this... sharing with you... is what did that.” Frikara said and sat up. “You... you don't have to... we've been working hard to...”
+
+Ren cupped the side of her face, and she felt that he had made the decision, and she took a deep breath and let it out.
+
+“You're really... you want to...” Frikara tried to say, and Ren kissed her. Her arms wrapped around him automatically, and she held on as she kissed him without any reservations at all as she finally let out how much she wanted him. Ren broke the kiss a few moments later, and she sighed.
+
+“Andrela first.” Ren said, and Frikara let him go. He turned to Andrela and held a hand out to her. “My Lady?”
+
+“M-m-my L-l-lord.” Andrela said with her head slightly bowed and took his hand, then she gasped as his desire filled her. It matched her own, and she looked at him and they locked gazes. Ren lifted her hand and she stood up for him. He let her hand go and stood up himself as he rubbed his hands on her bare shoulders.
+
+“D-d-do you w-want me t-to s-store my d-dress?” Andrela asked shakily.
+
+Ren shook his head no and reached around her to undo the back of the dress. He eased his hands back around to the front and used his thumbs to inch the dress down a little, then a little more, and then the tension of the cloth being held in place disappeared and the dress slid off of her and down to the floor.
+
+Andrela's face flushed red from embarrassment, even though she had been topless in front of him every night they had slept in the same bed together. Her skin was as white as it could possibly be, nearly transparent; but surprisingly, she didn't have a single freckle anywhere. Her breasts were only a little bit more than a handful, and Ren had to concentrate to make out the tips. They were so light that it was hard to distinguish where the edges were, and then he quickly glanced down at her special place to see that she had already stored her underwear. The most surprising thing Ren noticed was that there wasn't a trace of hair anywhere on her, except for her head and eyebrows.
+
+Just like him.
+
+Andrela's long straight red hair highlighted just how pale she was. Her blush travelled down her neck and the top of her chest turned a little red.
+
+“D-d-don't s-stare at m-me like th-that.”
+
+“You're too beautiful not to admire.” Ren said, and she felt that it was true. He really believed she was beautiful. Her eyes teared up, and Ren took her into a hug. She put her arms around him, and she felt how much he wanted her.
+
+“Thank you, thank you, thank you...” Andrela repeated, almost like a chant, and Ren leaned back a little to look at her.
+
+“Thank you, Andrela.” Ren said, and kissed her. Her hands dug into the skin on his back, and he felt her desperation. It was even worse than Anabelle's had been when he had neglected her, and Ren picked Andrela up in his arms. “I'm going to make love to you now.”
+
+“P-p-please!” Andrela said, and he gently put her down onto the bed. He ran his hands down her body and rested them on her thighs. She didn't need any prompting as she eased her legs apart.
+
+“Look at that.” Ren said and kissed his way up her thigh, then stopped right at her special place. He used his tongue to lick the very edge of her, and her entire body tensed up as she went. Warm liquid trickled out of her in a steady stream, and Ren wasn't going to let that go untended.
+
+“It seems I have a bit of a mess to clean up.” Ren said and dug his tongue inside of her.
+
+“AHH!” Andrela yelled as she went again.
+
+“You poor thing.” Frikara said as she laid down on the bed beside Andrela. “I didn't realize it was this difficult for you to be near him without being with him.”
+
+“I... I hid it.” Andrela said. “I couldn't... he couldn't know I... that... AHHH!” She yelled as she went again.
+
+“She's like an overstrung bow.” Anabelle said, her voice full of concern. “Ren, you can't keep plucking her string, or she's going to break.”
+
+Ren stopped licking, then gently kissed Andrela's special place. “I really like doing that.” He said and moved up to place himself at her opening. “I usually work a woman over before getting to this step.”
+
+“Just do it!” Verwynn said, and everyone looked at her. “Can't you feel it? She's... all I can think of is that she's starving.”
+
+“Not any more.” Ren said and pushed himself inside of her. Andrela wrapped her legs around him and gripped his shoulders. “I'll feed you as much as I can.”
+
+“Oh... oh, Ren!” Andrela said as he started to move, and she knew he would keep his word and 'feed' her as much as she wanted. She was really tight, so he had to go slow for the first few minutes; then she adjusted to him and eased down on how much she gripped him. He leaned close and kissed her, then moved faster.
+
+Ren could feel it building within her, and so did everyone else. He was sharing everything; his feelings, her feelings, and even the feelings of the other maids. He could tell when Andrela was getting close, so he slowed down and felt it move away.
+
+“Wh-what... what are you... Ren, please...”
+
+“I'm not ready yet.” Ren said and kept moving. “Soon, though.” He almost laid on top of her and put his face beside her head and kissed her ear. Andrela gasped at the sensations he was bringing out of her, and so did the other maids. After a few minutes, he started to throb inside of her. He picked up the pace and Andrela's body matched his movements. For every thrust he put into her, she pushed her hips up to meet him. He reached deep down inside of her, both physically and emotionally with his Emotion Siphon ability; and when he was about to finish, he spoke softly into her ear so that only she could hear him.
+
+“I want you to have my child.” Ren whispered, then spilled himself inside of her as he orgasmed.
+
+“BY THE GODS!” Andrela yelled as her entire body reacted to his words. She clenched up so hard on him that it felt like he was in a vise, and then she finished as well. She bit into his shoulder with her teeth, then growled and tried to chew on him as her arms and legs held him tightly. No one tried to stop her from biting him, because they were all going along for the emotional roller coaster that her extreme pleasure was giving them.
+
+None of them could believe how much she had repressed her sexual desire, and Ren felt how much she wanted him to bite her back. He wasn't really into that kind of thing; but since he wanted to make her happy, he dug his teeth into her soft shoulder and bit her.“GRRR!!” Andrela growled and moaned as she went again, and that made Ren go again. They all felt how happy she was, and then she started to calm down as their feelings of happiness and joy for her let her come back to herself. She stopped biting him, and he stopped biting her, and she opened her arms to slide them up to his shoulders; but, she kept her legs wrapped around him.
+
+“My Lord, I... Ren, I...” Andrela tried to talk as sorrow for biting him filled her.
+
+“Don't be sorry.” Ren said and kissed her. “You can bite me as much as you want.”
+
+“B-but...”
+
+“Does my shoulder look damaged?” Ren asked, and she looked at it.
+
+“It... but, I... I chewed on you!”
+
+Ren chuckled. “I never thought I'd ever be used as a chew toy; but, I'm really glad it was someone so cute that did it.”
+
+Andrela's face flushed red again at his sincere compliment, and he gave her another kiss. He tried to move out of her, but she kept her legs around him.
+
+“Andrela?”
+
+“Just... hold me for a few minutes.” Andrela said. “I want to... to keep this memory.”
+
+Ren smiled and hugged her, then nuzzled her neck for a few minutes. “How was that?”
+
+“It was... how can you still be so hard?” Andrela asked.
+
+“It's a gift.” Ren said with a smile.
+
+Andrela unwrapped her legs from around his waist, and Ren pulled out of her. He equipped his armor bodysuit for an instant to clean up, and stored it again. He turned to Frikara and smiled.
+
+“My Lady, would you do me the honor of accepting me as a potential suitor?” Ren asked.
+
+“By the gods, yes!” Frikara said and jumped on him. Ren laughed as she kissed his cheek and his nose, and then he felt her feelings turn very serious. He looked her in the eyes, and she very carefully kissed him and stared at him. She broke the kiss and smiled.
+
+“Undress me.” Frikara said, and Ren obliged. He undid the back of her dress and eased it down, to reveal a pair of the nicest breasts he had ever seen. She felt his appreciation of the sight, and touched his cheek. “I think it's time you tasted them.”
+
+“Yes, My Lady.” Ren said and cupped one of her breasts with both of his hands and stuck the tip of it into his mouth.
+
+“OH!” Frikara said as he sucked on it like it was going to give him milk to drink, and her heart beat faster as he switched to her other breast and did the same thing. He played with her breasts for several minutes, then laid her down on the bed and slid her dress off all the way. Anabelle didn't even have to move over, since the bed was so big; so, she stayed where she was as Ren eased Frikara's underwear off to reveal her completely naked body.
+
+Frikara had dark black hair that would have been long, had it not been constantly done up in a tight hairdo. It kind of looped in on itself and looked quite stylish; and Ren asked her to undo it for him. She did so, and her dark hair cascaded down and over the bed like a wave. Her light skin was as appealing as her chest; which was a good size, had dark tips, and contrasted with her dark hair nicely. Her womanhood was obscured by hair as thick and dark as the hair on her head, and he felt that it suited her quite well. She was statuesque and a little thin, even for her short height of 4 foot 5 inches; but, it suited her body type well and she looked tantalizing as she laid on the bed to wait for him.
+
+“Can I go down on you, or...”
+
+“You can do what you want.” Frikara said, and Ren felt her utter freedom as it filled the shared Aura. “I'm yours, and will be forevermore.”
+
+Ren smiled and laid down between her legs, and she felt how much he was going to enjoy it. When his lips touched her there, she shivered. He liked that a lot, and he made sure to lick and taste everything. She had much more composure than Andrela did; and Ren wasn't sure if it was because she had already gone several times or if she would always be this composed. He found a sensitive spot on her and used it with his tongue, then added a finger.
+
+Frikara was already soaked, even though he hadn't made her finish; and he doubled his efforts to make sure she was going to feel good. Frikara had thought Ren was going to give up on trying to please her that way, mainly because it was taking so long; but, he kept at it. Being played with there wasn't one of her favorite things, and Ren could tell that she wasn't as into it as she could have been.
+
+Time to pull out the stops. Ren thought, clamped his mouth over her little nub, shoved two of his fingers inside of her opening over and over as he sucked on her and flicked his tongue on her sensitive part.
+
+“AhhHH!” Frikara exclaimed and went. She had never had that happen before from being kissed there; so, she was quite unprepared to see a stream of warm liquid spray out and onto Ren's face. “N-N-NO!”
+
+Ren felt her shock at the spectacle, so he let both tranquility and happiness fill the shared Aura. “It's all right, Frikara.” He said. “That was great!”
+
+“B-but I... you're face is...”
+
+Ren used a hand to wipe at his face and licked his hand and then his lips. “I couldn't have had a better compliment.” He said. “I could feel that you weren't really into it, so I tried my best to make you go.”
+
+“It worked.” Frikara said. She was still embarrassed; but, she could feel that Ren really did like that it happened. “Now stop playing and become one with me.”
+
+Ren equipped his armor bodysuit for an instant to clean up, then stored it as he laid down and positioned himself at her opening.
+
+“Are you sure you're ready?” Ren asked.
+
+“More than I ever have been.” Frikara said. “Of all the times I thought I was ready, I wasn't. I never knew that you... that we... yes, dearest. I'm ready for you.”
+
+Ren slid inside of her and only had to push when he was almost all the way in. Frikara closed her eyes as they became one, and a tear escaped the corners. He used a hand to wipe her eyes, and she opened them to look at him.
+
+“I'm so happy!”
+
+“I know you are.” Ren said and kissed her. He made love to her for almost half an hour before he felt her start to get close. He knew the fast and quick approach wasn't going to work on her, since her body's response to stimuli was so low; so, he kept going at a slow and steady pace.
+
+“R-Ren!” Frikara said and he felt a spike in her emotions. “I'm... by the gods, I... I'm going to...”
+
+Ren leaned in close to put his mouth by her ear, just like he did with Andrela, and spoke softly so that only she could hear him. “Give me an heir.” He whispered and kissed her cheek, then spilled himself inside of her as he orgasmed.
+
+“AHHHHHHHHHH!!!” Frikara screamed as she felt Ren fill her up, and she orgasmed hard as an emotional volcano erupted inside of her at the same time. The other maids yelled as well, as they felt all the years of her frustration and sorrow at being discarded and ignored. It flooded out like lava from her and tried to burn them all with it's negativity.
+
+Ren used his ability to scoop it all up before it could do any damage to anyone, and swallowed it whole. They all looked at him with wide eyes as he used his ability to delve deep into Frikara to find all of those feelings, and he pulled them out of her.
+
+“R-Ren!” Frikara's face was covered in tears, and he kissed them.
+
+“You are not alone. You are here, you are loved, and you are needed.” Ren said. “You can feel it, right? How much we all need you? How much you mean to us?”
+
+“I... I do.” Frikara said.
+
+“Then you never need to worry about being ignored.” Ren said. “I might not have been here the last little while; but, I was always thinking about you.”
+
+“I k-know.” Frikara sobbed. “You wanted to get back to us, even while you were fighting for your life.”
+
+“Of course I did.” Ren smiled and kissed her. “I'm sorry I didn't tell you that this could happen between us before I was hurt during my Adventurer's business, and I regret that I couldn't make it back to you until now.”
+
+“Oh, Ren.” Frikara said, and the other maids echoed her. He felt 5 hands on his back, and the emotions they shared with him made him smile. Gratitude, disbelief, satisfaction, desire, and contentment. He eased out of Frikara and sat up, while the others kept their hands on him.
+
+Verwynn looked at Ren's still erect member and shook her head. “It really is Mjolnir.”
+
+“I think someone just volunteered to be the next one to 'feel the thunder'.” Ren said in a deep voice, and that made everyone laugh.
+
+“Yes, please.” Verwynn said, and Ren made her feel the thunder. She liked it. She liked it a lot.
+
+Lusinia was next, and then Navruth; and much to everyone's surprise, he satisfied them all.

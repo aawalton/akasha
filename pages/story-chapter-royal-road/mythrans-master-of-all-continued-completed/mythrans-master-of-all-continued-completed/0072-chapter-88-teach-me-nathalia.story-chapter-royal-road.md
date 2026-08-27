@@ -1,0 +1,339 @@
+---
+id: 479f9554-e390-5bf0-a468-564f1d5a91eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88 - Teach Me, Nathalia"
+slug: 0072-chapter-88-teach-me-nathalia
+partOf: mythrans-master-of-all-continued-completed
+position: 72
+ownLength: 3893
+unit: words
+publishedAt: 2016-11-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103595/chapter-88-teach-me-nathalia"
+royalRoadId: "103595"
+---
+
+The captain waved at a group that was standing apart from everyone. They came over right away and pulled out various woodworking tools to deal with the floor. Ren offered to help, but they told him that they had enough hands to do the work. It should only take a few hours and he would only be in the way. Ren nodded and left the dueling room. Nathalia followed close behind. Once he was out in the hallway and away from the crowd, he turned to Nathalia.
+
+“I really do want to find out what I can about your culture.” Ren said. “I've made too many mistakes up until now.” He chuckled. “One would have been too many!” He sighed. “I've stumbled around in ignorance and messed things up pretty badly.”
+
+Nathalia reached out and put a hand on his arm. “I'll help you in any way I can.”
+
+“Thank you.” Ren said.
+
+“I'll help with what I can, too.” Teepo said.
+
+Thanks, Teepo. Ren thought. If I hadn't been so distracted by everything I could have asked you all about this.
+
+“It's kind of my fault, too.” Teepo said. “I could have told you some things before we even got on the boat, and then after, but I was distracted by everything, too.”
+
+Ren smiled. We make a good pair, you and I, Teepo. Ren thought with amusement.
+
+“Do we ever!” Teepo said. “I've had more fun now than I ever had when I was alive.”
+
+“Why don't we start your lessons right now?” Nathalia said. “I have to start making supper and I could use a hand. We can talk while we work.”
+
+Ren nodded. “That sounds like a great idea.”
+
+They went into the kitchen and Ren's initiation into dwarf culture began. Nathalia told him about proper seating arrangements, to not address any woman by her given name unless he was expressing interest in her, to not insult anyone or they will challenge you, and it went on and on for hours as they made supper. Today it was soup. They chopped up a variety of vegetables like turnips, potatoes, carrots, onions, and beets. The meat was chicken this time, and Ren had to watch Nathalia as she showed him how dwarves prepared the chicken to add to the soup.
+
+Once it was all done and set on the stove to simmer until supper, Ren had the idea to make rolls instead of cutting up more bread. Nathalia watched in astonishment as Ren quickly made up a batch of dough, cut it up and rolled the pieces into balls and put them on a large cookie sheet. He stuck them in the oven and made another batch while he waited for them to cook. He also put a slab of butter in a bowl, then put it on the stove to melt.
+
+“Why are you doing the dough like that?” Nathalia asked. “I've seen breadmakers work before, but why are you making the loaves so small?”
+
+Ren laughed. “They aren't loaves of bread. They're called rolls.”
+
+She looked at him like he was crazy and Ren laughed.
+
+“Just wait and see.” Ren stood there with another tray ready for the oven. He pulled out the baked rolls and put in the next batch. The butter was melted and he brushed it over the rolls, letting the butter sink in and then broke them apart and put them into several bowls.
+
+“What do you do with them?” Nathalia asked.
+
+Ren laughed. “Eat them, of course.” Ren took a bowl of soup, grabbed a roll and broke it open. He dipped it into the soup, let it soak up some of the broth, and then ate it.
+
+“We do that with normal bread.” Nathalia said.
+
+“I thought so. Rolls are just a little easier to handle than a big piece of bread.” Ren said. “You don't have to worry about it breaking apart when you dip it in the soup, either.”
+
+“I think we should do both, just in case they don't like these 'rolls'.”
+
+Ren nodded. “I'm not trying to change how you cook things.” He said. “It was just an idea.”
+
+They cut up enough bread to make a stack for each table, and Ren made a bowl of rolls for each table, too.
+
+“If no one eats them, I'll take them myself. I don't want to waste any food if I don't have to.”
+
+Nathalia continued his lesson in dwarf culture as they let the soup cook and waited for supper to begin. When she got to how the Houses were set up, Ren had her repeat it a few times so he could get it right. There was a Lord and Lady at the top, Prince and Princess the next step down (usually the Lord and Lady's children and their children's spouses, or adoptions in rare cases), then Commoners. If there was a military part of the House, Knights and Warriors were above Commoners. There could also be associates, like Councilors and Ambassadors. A Priest was also assigned by The Order.
+
+“So... does that mean I'm the Lord of my House?” Ren said.
+
+Nathalia nodded and her face flushed a little red.
+
+“And she's the Lady.” Teepo said from the top of a nearby cabinet.
+
+What?!? Ren thought in shock.
+
+“I told you before that you were in this for the long haul. You're getting married in 2 years. You've called her Lady several times, and won the right to officially court her in a public duel. She's now the Lady of your Dwarf House.”
+
+And I can't deny it, or claim ignorance or anything, can I? Ren thought.
+
+“No. According to dwarf law, you're already betrothed.” Teepo sighed. “I'm sorry, Ren.”
+
+Ren sighed mentally. It's okay Teepo. It's my own fault for not finding out what I could before coming on this trip. Ren thought to his friend. I'll just try my best to not make this situation worse.
+
+Ren smiled at Nathalia. “If I'm the Lord of my House, then that means...”
+
+Nathalia nodded and her face flushed completely red. They stood in silence for a few minutes, then the supper bell rang.
+
+“Let's get to work.” Ren said.
+
+“You're not going out to eat?” Nathalia asked. Ren shook his head and helped her dish out all of the bowls of soup to the waitresses. During a lull in the serving, while the dwarves ate the first bowl, she turned to Ren.
+
+“Why aren't you out there and sitting in your proper spot?” Nathalia asked.
+
+“To be honest, I'd rather stay in here with you, and out of the way of everyone else.” Ren said.
+
+Nathalia nodded and turned around quickly so Ren wouldn't see her blush.
+
+They worked for another hour feeding the crew and when supper was over, the crew had another drinking game. Ren ignored them and helped Nathalia clean up the kitchen and listened to her talk about everything that she could think of that Ren might need to know. When everything was put away, Ren picked up the food he'd made for Princess, and Teepo hopped onto his shoulder. They left the kitchen and Nathalia stopped Ren in the hallway.
+
+“There... there's a lot more that you need to know.” She said. “If... if you wanted to... my cabin...”
+
+Ren smiled at her. “I'm sorry, but I need to tend to my mount. She's been alone most of the day.” He said. “Can we continue my education tomorrow?”
+
+Nathalia's face fell slightly. “Of course.” She nodded. “See you later.”
+
+“Goodnight.” Ren said. He walked down the hall and avoided contact with the dwarves still hanging around the dining room.
+
+“Ren, I think she really wanted you to go to her cabin.” Teepo said.
+
+I know. Ren thought as he left the main cabin area and entered the stairway to the hold. Remember when I said that I didn't want to make this situation worse?
+
+“Yeah.”
+
+Going to her cabin late at night would definitely make things worse for me.
+
+“I'm sure she wouldn't have thrown herself at you.” Teepo said. “She just wanted to touch your pelt!” Teepo chittered in laughter.
+
+Teepo! Ren thought and shook his head as he entered the hold. It was pretty dark, but it didn't bother Ren as he could see as if it was daytime. Then he realized that Princess couldn't see like him and had been sitting in the dark each night. Ren shook his head again and stepped over his protective barrier.
+
+“I'm sorry I left you in the dark, Princess.” Ren took out the lantern he'd gotten in his starter kit, prepped it, and lit it. He was glad that it came with a hook to hang on things, and he hung it on one of the rafters near the ceiling of the hold. He reached the rafter easily, since it was a hold made for dwarves. The lantern lit up a circle about 20 feet wide. Ren watched as it swung back and forth slowly, and then faster, and then slowly again.
+
+“It must be rough water to rock the boat... so... much...” Ren said and then looked at Ruck. He had slid down a little from where he was before. Ren went over and took him from the wall.
+
+“I'm sorry, Ruck. I know what's wrong now.” Ren said. “Can you hold onto me for a few minutes?”
+
+Ruck gave a weak thumbs up gesture and Ren slid Ruck around to his back. Ruck wrapped his legs around Ren's chest.
+
+“It won't take long.” Ren said and took out some wood. He made a cabinet, just slightly bigger than Ruck, and added a hinged door. Ren took out his Spider Silk String and attached it to the 4 corners of the top of the cabinet, then tied the ends together into a single point about 2 feet above the cabinet. Ren hammered the end of the Spider Silk String into a rafter near the ceiling, leaving room for the cabinet to freely swing back and forth without hitting anything.
+
+“Here you go, Ruck.” Ren said and opened the cabinet. “This will let you stay still while the boat moves around you.”
+
+Ren took Ruck from his back and turned him around so that his legs could touch the back of the cabinet. Once Ren let Ruck go inside the cabinet, it started to sway just like the lantern and Ren could see Ruck felt better right away.
+
+“You're just sea-sick.” Ren said. “This should help.”
+
+Ruck gave an 'okay' gesture and Ren closed the cabinet. Princess had watched Ren while he worked and had an odd look on her face.
+
+“Sorry! Here's your supper.” Ren put a big bowl of soup on the floor and a plate of rolls. She sniffed the rolls and turned her head.
+
+“Come on! They're bread, just smaller!” Ren said. He took one, pulled it apart, and ate it. “See? Bread.”
+
+Princess ignored the rolls and ate the thick soup.
+
+Ren laughed. “None of the dwarves liked the rolls, either.” He said and took a roll from inventory to eat. Ren had 94 rolls left in inventory. He laughed. I'll be eating them for a while. He'd been so busy cooking and learning that he'd forgotten to eat a good meal himself, and ate another roll.
+
+Ren sat down on the bed, then layed down on his back to get comfortable. I'm going to sleep now, Teepo. I'll see you in the morning.
+
+“Goodnight, Ren.”
+
+“Goodnight everyone.” Ren said.
+
+“Logout.”
+
+********
+
+Ren was out earlier than usual and spent some time with Barbara before the shift change. They talked about the fight and she congratulated him on how he had ended it so quickly. He thanked her for the advice and they discussed his problems with the whole marriage thing. Barbara didn't know what he could do about it, but told him that since it wouldn't be for another 2 years, Ren shouldn't worry too much about it. Ren didn't have the heart to remind her that it was only 6 months in real life.
+
+Bonnie came in during shift change and Barbara filled her in on what happened overnight and Ren watched television. He had breakfast and did his physical therapy session. The therapist congratulated him on walking a full 30 metres. Ren was exhausted, but forced himself to get a shower. He climbed into bed after that and promptly fell asleep.
+
+*
+
+Ren opened his eyes and saw he was in the dark room again. He got out of bed and huddled in the corner, in the only spot he could squeeze into, between the cold machines. He looked around but didn't see anyone, and he relaxed. They haven't found me yet. He thought in relief, then froze as he heard several footfalls.
+
+“Yes, I've done extensive testing.” A woman's voice said.
+
+“But is it valid?” A man's voice said.
+
+The woman laughed. “Of course. You know I maintain perfect lab protocols.” She said. “You wrote them.”
+
+Ren could see the door from where he crouched and 2 pairs of feet blocked the little bit of light that was in the hallway. The door handle turned slightly and clicked, then turned and clicked again.
+
+“It's locked.” The woman said. “I'll be right back.”
+
+Ren took a shallow breath.
+
+“I know you're in there.” The man said. “I've come to see you.”
+
+Ren started to breathe faster and faster. No.
+
+“Your mother is getting the key now.”
+
+No... no... Ren began to hyperventilate as he heard footsteps, then the key slip into the lock. The door opened and the man and woman stepped into the room.
+
+“Son? Your father is here to see you. Isn't that nice?”
+
+No... no... no... no...
+
+He walked over to where Ren was hiding. His father knew that was the only spot Ren could get into, and reached a hand for him.
+
+“NOOOOOO!”
+
+*
+
+“NOOOOOO!” Ren screamed as he woke up and covered his face with his arms.
+
+Poor Bonnie was startled out of her chair and nearly fell to the floor. She caught herself on the bed and stood up.
+
+“Ren? It was just a dream.” Bonnie said. “Ren?”
+
+Ren was still hyperventilating and tried to calm down. It took several minutes for his heartbeat to slow down to it's normal rate and Ren uncovered his face.
+
+“I... I'm fine, Bonnie.”
+
+“Are you sure?” She asked. “That seemed like a bad one.”
+
+“I'm fine.” Ren said, when his breath was even again, and he looked at his watch. “Oh, crap.”
+
+“What is it?” Bonnie asked.
+
+“I'm late.” Ren said and pointed to his watch. “I've missed breakfast in the game already.”
+
+Bonnie laughed. “You just had a bad dream and all you can think about is that you've missed playing your game?”
+
+Ren nodded. “Barbara and I filled you in on what's been going on. If I stay out too long, something bad is bound to happen.”
+
+Bonnie nodded. “Okay, but you know I have to add this to your sheet.” She said and walked over to the pile of sheets hanging by the door in a clear holder. “You haven't had one in a while, that's good.” She took out the top sheet and filled in the next spot on the paper. “Which one was it this time?”
+
+“The locked door one.” Ren sighed and climbed out of bed. He needed to use the bathroom before he logged back in. Bonnie added the dream info to the sheet, and smiled as Ren went back to bed.
+
+“Are you sure you want to play so soon after that?” Bonnie asked.
+
+Ren nodded. “See you in a couple of hours.” Ren put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the hold of the ship and felt something laying in the bed with him. He glanced down and saw the top of Nathalia's head on his chest. Her body half covered his, and she had a leg draped across his leg, and her long braid was draped across them both. Ren could hear her breathing was nice and even, and knew that she was asleep. He took a deep breath to speak and then he heard her breathing change. He waited a moment more and then spoke.
+
+“Nathalia... why are you in my bed?”
+
+She looked up at him and smiled. “When you didn't show up to help with breakfast, I thought something might be wrong. When I was done in the kitchen, I came down here to look for you.” She said and looked back down to his chest so Ren could only see the top of her head again. “When I saw you sleeping here, I came over to wake you... and I felt that same thing that you did during the duel.”
+
+Ren's eyes widened at her words when she continued.
+
+“I knew you would never hurt me, so I fought the feeling and stepped next to the bed. I felt so relieved... and suddenly exhausted.” Nathalia said. “You looked so peaceful, and the bed looked so soft and comfortable... I... I just couldn't help myself.”
+
+Ren could feel her blush through his shirt.
+
+“I think we should get up, don't you?” Ren said.
+
+Nathalia nodded and sat up, dragging her braid across his chest. “R...R...” She took a quick breath. “Ren... what kind of fabric is this?” She asked and ran a hand over the cloth of his shirt sleeve.
+
+“It's Spider Silk.”
+
+“Spider Silk? Really?” She said, surprised. “I've only ever seen Royal clothing made from it, and the weave wasn't anywhere near this good.”
+
+“I know a great tailor in Aurora that made the cloth for me.” Ren said. “Her name's Sally, of Sally's Tailor Shop.”
+
+“Is she the one you're involved with?” Nathalia asked.
+
+Ren laughed and shook his head. “No. She's just a nice old lady.”
+
+“Oh.”
+
+Ren sighed. “I can tell you all about Lucy, if you want.”
+
+Nathalia shook her head. “I don't really want to know.” She said. “You have 2 years to sow your wild oats, then after the ceremony, you're all mine.”
+
+“Nathalia...” Ren tried to speak.
+
+“I don't want to hear it.” Nathalia shook her head again. “I've told you about how it all works. The both of us have commitments we have to fulfill now.” She said and sighed. “What is my mother going to say?”
+
+“Your mother?”
+
+Nathalia nodded. “After a few more years on the ship and I earned enough money, I was to return to her for a few years to work for the House, then I was to enter training for a year to prepare for courtship.”
+
+“Really?” Ren asked.
+
+She nodded again. “After that, each House would send a likely candidate for the trials. Once that was done, I would be matched up with the one who would best benefit my House.” She said. “I might have been able to avoid all of this if I'd been trained properly... but now? Now I have to leave the ship when we get to port and try to explain to Ma what's happened.”
+
+Ren looked at her. “If you were so worried about that, why have you been cozying up to me the last couple of days?”
+
+Nathalia dropped her head slightly and smiled sheepishly. “I wasn't worried about it at first. All the attention you were giving me was really flattering. The lavish and expensive gifts... it felt like I was being treated like royalty.” She said, then looked at Ren. “You're really handsome, and strong, and... and I... I wanted to pretend for a while.”
+
+Ren stared at her with shock in his eyes.
+
+“I know it was foolish!” Nathalia exclaimed. “But... it wasn't until after I taught you some of our culture last night that it started to hit me. I realized all of the things I was going to have to do, all the things that would have to change, now that you're my official courter and I didn't have 6 years to get ready first.”
+
+Ren took her hand. “I've messed up your life with all of this, haven't I?” Ren said. “Nathalia, I'm really sorry.”
+
+Nathalia squeezed his hand. “It's both of our faults for letting it get this far.” She said and sighed. “You'll have to petition the Dwarven Council as soon as we get to Dornrach.”
+
+“Why?”
+
+Nathalia rolled her eyes. “To register your House, of course.” She said and let his hand go.
+
+Ren thought about it for a minute. “What if I don't register?”
+
+“They'll send for you... and probably charge you for the crime of not petitioning them.”
+
+“It's a crime?”
+
+Nathalia nodded. “You've been using an unregistered House, and made claims on it's name.”
+
+“I didn't!” Ren exclaimed.
+
+She put a hand on his arm. “It doesn't matter how it happened. All that matters is that it did.”
+
+Ren sighed. “Okay, so I register my House, then what?”
+
+Nathlia shook her head. “No, you have to petition for the registration.”
+
+“Oh.” Ren said. “What happens if they refuse?”
+
+“Everything you've done in that House's name will be undone, and-”
+
+Nathalia stopped speaking and looked at Ren. They both had shocked looks on their faces, then they both smiled.
+
+“We'll be out of all of this!” They said together, and laughed.
+
+For the next week, All Ren did was make meals, eat rolls, learn about dwarf culture, and take care of his mount. He was busy all the time as he and Nathalia tried to come up with ways to get his petition rejected. Using a different name, filling it in wrong, giving it to the wrong House, and Nathalia even suggested she talk to her mother, who knew one of the council members that might be able to get it rejected. No one bothered them as they worked. When they were seen together talking, everyone believed that they were preparing to get Ren's House in order. Surprisingly enough to both of them, they had a lot in common and enjoyed a lot of the same things.
+
+The time flew by before either of them knew it, and Ren had increased his Cooking to Level 7, and Chop to Level 9. Dwarves ate lots of vegetables. The ship approached the bay where the main port was and Ren was up on deck with Teepo on his shoulder. They both stared at the mountain range that went as far as the eye could see.
+
+Teepo... are you seeing what I'm seeing?
+
+“I think so. Are you seeing more mountains than sky?” Teepo asked.
+
+Yeah.
+
+“Then I see it, too.” Teepo said. “It looks like it goes on forever.”
+
+Ren nodded.
+
+“It's something, isn't it?” The captain said.
+
+“It sure is!” Ren said, then noticed something. The ship was sailing straight for the mountain range and wasn't slowing down. “Um... captain?”
+
+“Yes?”
+
+“I don't see an opening for the ship.”
+
+“You don't?” The captain asked, surprised. “How have you been getting into the hold every day?”
+
+Ren looked at the captain like he was crazy. “You've got to be kidding me!”
+
+The captain laughed at his expression. Ren activated Enchanted Eyes and one of the mountains in the mountain range glowed. A whole damn mountain! Ren thought.
+
+“Wow.”

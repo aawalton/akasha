@@ -1,0 +1,371 @@
+---
+id: bf5b541c-f0b2-5360-9b41-97e36bbff623
+page-type-slug: story-chapter-royal-road
+title: "Chapter 271 - This Is Teepo"
+slug: 0261-chapter-271-this-is-teepo
+partOf: mythrans-master-of-all-continued-completed
+position: 261
+ownLength: 3419
+unit: words
+publishedAt: 2017-06-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140075/chapter-271-this-is-teepo"
+royalRoadId: "140075"
+---
+
+“The SPECIAL bonus is going to end soon, Ren.” Teepo said.
+
+Ren nodded and stopped digging, then stepped out of the way.
+
+Stat Change!
+
+Mining Level 4 (Intermediate 0%)
+
+Ren smiled and went back to his cart, and saw he'd forgotten to change it out. Gold ore chunks littered the tracks, so he bent down to store them. It took several minutes, but he finally gathered them all. He couldn't leave the chunks on the tracks, because anyone using the tracks would be in danger of derailing their cart.
+
+Notice!
+
+Your SPECIAL bonus has ended. All gains, effects, bonuses, and abilities will no longer be doubled.
+
+Ren started to push the cart out of the mine, and felt that artificial feeling of relief and happiness that he got when he finished a shift at work.
+
+I didn't have to work long at all to finish the shift. Ren thought, and went to the weighing station. The over-full cart was weighed, and the dwarf there whistled.
+
+“I can't believe you're not getting paid for this.” He said. “That's... I don't want to tell you how much you didn't make.”
+
+Ren laughed. “Be prepared to be shocked, then.” He said, and emptied the gold ore from his inventory into the empty cart. It filled it to almost three quarters of it's capacity, and the dwarf shook his head.
+
+“You could have taken all of that, and no one would have ever known!” The dwarf said, and dumped the cart on the scale.
+
+“I'm not here to steal.” Ren said. “I'm here to work off my sentence and enjoy myself.” He smiled and pushed the empty cart. “I'll be back soon.”
+
+“You're crazy.” The dwarf said.
+
+“That's what they say.” Ren said and went back into the mines. He worked the extra two hours, and then Teepo told him it was suppertime. He brought his cart back up to the surface and the weighing station, and the dwarf told him the mine foreman wanted to see him. Ren ran over to the office, and stopped at the door. He equipped his armor bodysuit for a moment to clean himself and his Travelling Clothes, then knocked.
+
+“Come.”
+
+Ren opened the door, and the mine foreman grinned at him.
+
+“That was some find you got this evening.”
+
+Ren nodded slightly. “I had a SPECIAL bonus that made my ability reach twice as far.” He said. “When the dwarves in the mines asked me to find more veins of ore... I obliged.”
+
+The mine foreman chuckled. “You found...” He looked at the parchment papers on his desk. “...six new veins of iron, one copper, and the biggest gold vein anyone has ever seen.”
+
+Ren shrugged.
+
+“I'm tempted to just have you scout from now on.”
+
+Ren smiled. “If I can get my Metal Detection ability up to Advanced, I'd be a good scout.” He said. “Right now, it's only at Intermediate and only goes out 30 feet.”
+
+“I don't know about that.” The mine foreman said. “You were pretty damn lucky to find so many ore veins so fast.”
+
+Ren chuckled. Having 72 for luck has it's advantages. He thought. “I'll keep checking each time I go into the mine, but I don't think doing only that would be a good use of my skills.”
+
+“I agree.” The mine foreman said. “If you get your skill up to Advanced, though...”
+
+Ren nodded slightly.
+
+“Anyways, I just wanted to thank you before you left. You did good today.”
+
+“Does that mean I didn't do good before?” Ren asked
+
+The mine foreman sputtered, and tried to apologize.
+
+“I'm just joking.” Ren chuckled. “I knew what you meant.”
+
+The mine foreman shook his head and smiled. “Get out of here before I do put you on scout duty.”
+
+Ren waved goodbye to him, left the mine foreman's office, and ran over to the medical tent. Deresdra sat at her desk, and looked up at him.
+
+“You!”
+
+“Surprise! It's me!” Ren said, and walked over to the large cabinet. He put the folded up large medical tent inside, and followed it with the 12 folding cots. He shut the door and turned around. “I'm going to be gone for the next two days.”
+
+“So what?” Deresdra huffed.
+
+“So, I don't want you going to the mine foreman and bugging him about me not being here, or about me missing work.”
+
+“Like I would do that!”
+
+Ren smiled and walked over to her desk. “Do you want me to tell you that I didn't want you to worry?”
+
+Deresdra looked at him for a moment. “Yes.”
+
+“It doesn't matter if I lie, does it?”
+
+“Of course it-” Deresdra stopped talking and sighed. “No.”
+
+Ren chuckled and leaned in close. “I didn't want you to worry.”
+
+Deresdra didn't wince. Her eyes widened because she had expected him to lie when he said it.
+
+“See you in a few days.” Ren said as he stood up straight, then he left the medical tent. He ran down to the gate and looked at Princess. “Ready to head home and get some rest?”
+
+Yes. Princess thought to him. We have vanquished our foes and no one is left to fight.
+
+Ren could feel the pride in her, and he let his own pride in her join it. “You were magnificent.”
+
+Princess preened a little. Mount your steed, Mighty Lord.
+
+Ren nodded slightly and climbed up onto her back.
+
+A warm bed awaits us! Princess thought, and took off at a run. They made it back to House Neram Keep a couple of minutes later. She had become quite good at maneuvering around people, carts, and others riding mounts. Ren laughed the whole way; because every time she passed someone, he felt her desire to smash through the 'obstacles' instead of going around.
+
+Ren took her into the stable and she settled onto her mattress. He gave her an extra helping of food, despite her not really needing it, and went inside to eat himself. He left the Dire Wolf Hooded Cloak folded up on the table, refilled the small plate with Health potion, and went into the kitchen.
+
+“There you are!” Ereka said. “We were getting a little worried.”
+
+“What are you talking about?” Nathalia asked her and smiled. “I told you he was working in the mines.”
+
+“Okay, fine!” Ereka said. “I was getting worried, okay?”
+
+“Ladies, please.” Ren chuckled. “Eat, drink and be merry!”
+
+“L-l-ladies?” Ereka whispered, then looked at Nathalia. “He's not talking about me, is he?”
+
+Ren, despite his slip of the tongue, decided it was the right thing to do. He walked over to Ereka and knelt on one knee as he took her hand. He bent over it, and looked up at her.
+
+“For your unwavering service to this House and it's members...”
+
+Ereka caught her breath at the formal words.
+
+“For your devotion to the well-being of the people under it's name...”
+
+Ereka shook her head slightly, but she didn't say anything in protest.
+
+“I hereby grant you the title of Lady.”
+
+Ereka gasped as Ren spoke the words, and she received the benefits of the title.
+
+“Ren... why...”
+
+Ren stood up and kept a hold of her hand. “I should have given you the title a while ago.” He said. “All the work you've done to keep this place running, with all of the people moving here and everything expanding...” He smiled. “You deserve it.”
+
+“Ren, I...” Ereka tried to talk, but she didn't know what to say.
+
+“I know you're a little young to be a Lady of the House.” Ren said. “But if you were going to argue about it, I was going to counter by saying you've been too young to run it, too.”
+
+Ereka started to laugh, then tears formed in her eyes and she started to cry. Ren took her into a hug, and she gripped him tightly.
+
+“You... you've always been... so nice to me...” Ereka said. “I don't... I don't know what to say!”
+
+“Just say thank you, so we can sit down and eat.” Ren said, and her sobs turned back to laughs.
+
+“I'm trying to pour my heart out, and all you can think about is food!” Ereka said, but she smiled while she said it.
+
+“I'm not actually hungry; but I've got to go for a couple of days, and this will be the last time I'll see either of you until I get back.”
+
+Ereka took in a deep breath, and let him out of the hug. “All right. I'll let you off the hook this time.” She said. “But when you get back, you better be prepared for more gushing tears!”
+
+“I'm an Adventurer.” Ren said and smiled. “I just have to store clothing to clean it, remember?”
+
+Ereka nodded slightly and her face was a little red, because she remembered when he'd done that for her to clean her blouse, and he hadn't been able to take his eyes off of her bared chest.
+
+They sat down and enjoyed a meal, and Ren started to regale them with the story of his day working at the giant camp; then he had a much better idea. Teepo dissolved into the ring, and Ren slipped his half of the Ring of Recall over it and put it back on. He took out the beetle body he'd made for Teepo, and both women gasped.
+
+“Where did you get that?” Nathalia asked. “That... that looks like... REN! You did it!”
+
+“Of course I did.” Ren laughed. “Summon Teepo!”
+
+Teepo was shunted into the shiny platinum body of the mechanical beetle, and it turned around and looked at Nathalia and Ereka.
+
+“Ladies.” Teepo said, and bowed.
+
+“By the gods!” Ereka said, then looked at Ren. “Is... is that Teepo?”
+
+“You can ask me that.” Teepo chittered in laughter. “I'm standing right here.”
+
+“He can talk!” Nathalia exclaimed.
+
+“He's also made of platinum.” Ren said, and both women gasped again.
+
+“By the gods, Ren!” Ereka said. “He's a walking, talking, fortune!”
+
+“He always was.” Ren said. “Now he has a body that reflects that.”
+
+Teepo chittered humbly, because even though he was in a solid body, he could still feel that Ren meant every word.
+
+“Is that why you used platinum?” Teepo asked him, and Ren nodded.
+
+I couldn't use shadow coins, even though I know how much they're worth. Ren thought to his friend. I would have, but I don't know what kind of effect they'd have on the metal... or even if they'd melt.
+
+“Thank you.” Teepo said.
+
+“That's really remarkable.” Nathalia said to Ren, then looked at Teepo. “Can I pick you up?”
+
+“Go ahead.” Teepo said.
+
+Nathalia reached for him and gently picked him up.
+
+“I'm not going to break.” Teepo said, and chittered in laughter. “Ren made this thing really strong.”
+
+“I... wasn't sure...” Nathalia said. “You're tiny and look brittle; but I know you're also made of metal.” She smiled. “I had a bunch of thoughts fighting each other for how to act.”
+
+Teepo chittered in delight, and Nathalia turned him over and played with his legs.
+
+“They're all independent?” Nathalia asked.
+
+“Yes.” Teepo said. “Even both wings have their own spring coils.”
+
+“Wings!” Nathalia exclaimed as she turned Teepo right-side up. “Can you show me?”
+
+“Of course.” Teepo said. “Move your hand a little.”
+
+Nathalia opened her fingers slightly, and Teepo's back folded up and the wings came out.
+
+“Oh, my!”
+
+“That's amazing!” Ereka said and leaned in close. “Ren, that's... how by the gods did you make it?”
+
+“It all started with a toy boat...” Ren said, and explained how he went from that to Teepo.
+
+“You're a genius!” Ereka said. “What are you going to make next?”
+
+“Rods, I think.”
+
+“What?”
+
+“They're like wands, but instead of charges, they have a time limit.” Ren smiled. “I was tempted to play with them today, but with everything going on, I completely forgot about them.”
+
+Nathalia chuckled. “You forget everything when you're busy.”
+
+“I'd argue that I'm not that bad, but I am.” Ren grinned at her. “I haven't even looked at all the stuff I'd gained today.” He shook his head. “There's so much that I don't want to think about it right now.”
+
+“Because you have to leave, and you'd be kicking yourself for not staying and playing with them.” Nathalia said, wisely. Ren tapped the tip of his nose, and then he and Teepo told them all about how the day went. Nathalia and Ereka sat in silence as they got to the part about the chase.
+
+“Those poor people.” Ereka whispered, then she nodded when Ren talked about how he'd delayed the Guardians of the Land to let the refugees escape. He dismissed the Honor gain and Teepo took over for the actual battle. Ren tried to argue that he hadn't been that heroic, but Nathalia and Ereka told him to be quiet. He chuckled and let Teepo tell the rest of the story, then Ren told them about the camp and how he cleaned and repaired clothing. He had reminded himself about the Ram and Cart toy, and when he told them about the child giant and how happy he was with the toy, Ren took one out of inventory to show them.
+
+“You changed it!” Nathalia said and picked the toy up. “That makes much more sense than a boat!”
+
+Ren laughed. “Well, you can keep it if you want it.” He said.
+
+Nathalia nodded slightly, and hugged it. He noticed Ereka's expression, and took one out for her, too. Her face lit up, almost as much as the child giant's did, and she took it happily. She turned the key a few times, and the cart sped across the table. Ren caught it, and she laughed.
+
+“Sorry.” Ereka said.
+
+“That's okay.” Ren said and handed it back to her. “Have fun.”
+
+Ereka stood up and walked around the table, then leaned in and kissed his cheek. “Thank you.” She said, and left the kitchen. Nathalia waited until she heard the old bedroom's door shut before she spoke.
+
+“She's agonizing over your decision to sleep with her.” Nathalia said. “Almost every time I go by the old bedroom, she's writhing on the bed and saying your name.”
+
+“What?” Ren looked surprised. “She's what?”
+
+Nathalia chuckled. “I know you can be a little dense with how much a woman wants you sometimes; but even for you, you're pretty oblivious right now.”
+
+“Hey, I'm trying my best to not make all of this uncomfortable.”
+
+Nathalia stood up, leaned close, and kissed his other cheek. “Before you go, at least tell her she'll be the first thing you'll take care of when you get back.”
+
+“Are you serious?” Ren stood up. “Nathalia, you and I haven't... I mean, it's been a couple of days...”
+
+“I've had more than my share of you.” Nathalia said. “So, I don't mind waiting my turn.”
+
+“But...”
+
+“I'll see you in a few days.” Nathalia said, then kissed him on the lips. “Goodnight.” She said, and walked out of the kitchen.
+
+“What are you going to do?” Teepo asked.
+
+“I'm going to do exactly what she told me to do.” Ren said, and stood up. “Keep watch, Teepo. Tell me when 2 hours have passed.”
+
+“Two hours?” Teepo said, and took off to hover in front of him.
+
+“That should be long enough, and it won't mess up my Adventurer's business too much.”
+
+“You got it, Ren.” Teepo said. “Have fun.”
+
+“Don't worry, buddy.” Ren smiled. “I will.”
+
+Ren left the kitchen and went to the old bedroom. Ereka had already taken off her clothes, and only wore her slip. She was cuddled up on her side in the middle of the bed, and she clutched a pillow to her chest.
+
+At least I won't suffer from Distraction while her chest is covered. Ren thought, and knelt by the bed. Ereka had watched him come into the room, but she didn't say anything. He smiled, and leaned in close to her.
+
+“I'll be gone for two days, but when I get back... you'll be the first thing that I take care of.”
+
+“R-r-really?”
+
+Ren nodded slightly. “Apparently, I'm completely oblivious about how women feel about me.” He grinned as Ereka blushed.
+
+“A... a little.”
+
+Ren leaned in and lightly kissed her. “Sleep well, and I'll see you when I get back.”
+
+Ereka nodded slightly, and moved the pillow out of the way.
+
+Notice!
+
+You have gained the condition: Distracted
+
+For as long as the object of your attention is within your sight, you must look at it. You will also suffer penalties to both Intelligence (-20) and Wisdom (-20).
+
+Her slip hung off of her right shoulder, and the breast was completely exposed. Ereka said something, and Ren shook his head. He tried to close his eyes, but the compulsion forced his eyes open after only a second. Out of the corner of his eye, he saw her hand move and hook the shoulder strap. She pulled the slip back up, and covered herself.
+
+Notice!
+
+You have lost the condition: Distracted.
+
+“Yes, Ren.” Ereka said. “You will see me... all of me... when you get back.”
+
+“Um... yes. Right. Okay.” Ren said. “Goodnight.”
+
+“Goodnight.” Ereka said, and clutched the pillow to herself when Ren left her room.
+
+*
+
+It still worked! Ereka thought to herself, surprised. His surprised expression was so cute! She thought, and rolled over on the bed and tried to stop herself before she laughed out loud. Only two more days!
+
+*
+
+Well, they still distract me. Ren thought, amused. What the hell am I going to do when she's completely naked, though? He imagined what it would be like, if he just stood there and stared at her. She'll be so disappointed if I do that for her first time.
+
+Ren activated sneak, and went into Nathalia's room. She didn't hear him come in, and he walked around the bed. Nathalia's eyes were closed, and tears flowed from her eyes. He reached out and touched her face to wipe off the tears, and she opened her eyes.
+
+“You've learned to block the collective feelings.” Ren said, and she nodded. “Please don't.” He said. He felt her sadness that she was slowly losing him more and more, as each new woman came into his life, and he got farther away from her.
+
+“My Love.” Ren said, and she took in a sharp breath as she felt his intense feelings for her. “I love you.”
+
+“I... I know.” Nathalia said.
+
+“I know it seems like you're taking a back seat to everything, but that's not true at all.” Ren said and stored his clothing.
+
+“Wh-what are you doing?”
+
+“I am going to make sweet and passionate love to you for the next 2 hours.”
+
+“Wh-what?!?” Nathalia exclaimed. “But... but you have Adventurer's business!”
+
+“It'll have to wait.” Ren said and moved her over on the bed. “I have a much more important thing to do.”
+
+“What's that?” Nathalia asked as she stored her clothing, too.
+
+“You mentioned something about 'waiting your turn'.” Ren shook his head. “There's no such thing.” He smiled. “It's everyone else that has to wait their turn.” He said and started to kiss her. “You were the first woman I ever slept with in this world, and you will always be the first woman in my life here.”
+
+“Oh, Ren.” Nathalia said, and kissed him.
+
+For the next two hours, he showed her how much he loved her.
+
+“That's time.” Teepo said.
+
+Thanks, Teepo. Ren thought. “My Love, I have to go.”
+
+“Mmm.” Nathalia said, with satisfaction in her voice and her feelings were full of both satisfaction and contentment. He kissed her, and she grabbed his hair and kissed him back passionately. She broke the kiss and Ren blinked his eyes at her.
+
+“See you in a couple of days, My Love.” Nathalia said, then rolled over to get some sleep. He chuckled and kissed her cheek, and got out of bed. He equipped his clothing and went out to the couch.
+
+Teepo?
+
+“Yes, Ren?”
+
+Do you want to stay in your metal body, or switch back to your astral one?
+
+“I'll stay with this one for now.” Teepo said. “I haven't gotten used to it yet.”
+
+Don't have too much fun, and be careful. If you get hurt, I won't be here to help.
+
+“I'll be good.” Teepo said. “Bye, Ren.”
+
+Bye, Teepo. Ren thought.
+
+“Logout.”

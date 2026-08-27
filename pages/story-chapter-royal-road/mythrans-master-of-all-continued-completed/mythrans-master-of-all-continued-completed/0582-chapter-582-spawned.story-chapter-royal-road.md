@@ -1,0 +1,243 @@
+---
+id: dc19ebce-3531-5bfe-835d-ab7420a55807
+page-type-slug: story-chapter-royal-road
+title: "Chapter 582 - Spawned!"
+slug: 0582-chapter-582-spawned
+partOf: mythrans-master-of-all-continued-completed
+position: 582
+ownLength: 2603
+unit: words
+publishedAt: 2018-05-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214625/chapter-582-spawned"
+royalRoadId: "214625"
+---
+
+“I did not just see that!” Several Sea Dwellers exclaimed as the giant metal octopus with 2 human arms swam away.
+
+“Ren, what just happened?” Railyse asked, and lightly touched her heart. “I can... there's... I can feel it.”
+
+“It will stay loyal to you and will protect your people to the best of it's ability, which is quite substantial.” Ren smiled. “I don't know if it will want to participate in tournaments from now on, though. You'll have to ask it yourself.”
+
+“Ren...”
+
+“I know I was a little hasty in removing the giant octopus; but, since she was going to lay waste to everything before leaving anyway, I figured taking her out gently was a better solution.”
+
+Railyse was surprised that sweat didn't bead on his forehead because he was exaggerating. He's not exaggerating. She thought. “Then, I suppose I won't censure you for taking it away.”
+
+“I hope not.” Ren said. “Accepting the 6 months is cutting it close for me as it is.”
+
+“Adventurer business?”
+
+Ren nodded. “Once I leave here, I'll have just enough time to get back to my county so I can leave again.” He chuckled. “Everything is always 'hurry up and do this!'.”
+
+Railyse nodded. “I've noticed that about you.”
+
+“As have hundreds of others.” The old Queen said and pointed. Ren and Railyse looked to where the protesters were, and they had quadrupled in numbers. Surprisingly enough, there were even males in the group.
+
+“Some of those are the participants.” Teepo commented.
+
+Huh. Ren thought. Go figure.
+
+“You did save their lives.” Teepo said. “That kind of sways a person's opinion.”
+
+That's true. Ren smiled. “Well, they can protest as much as they want, because you have the real winners right there.” He said and pointed to the 7 remaining participants.
+
+“Actually, only 2 of them qualified as facing the giant octopus and escaping.” The old Queen said.
+
+“You don't mean the two I told to cut themselves out of their armor, do you?”
+
+“Yes.”
+
+“But, the event was over when I rescued them.” Ren said.
+
+“They were still conscious before that.” The old Queen said. “According to the rules, they faced the fiercest creature of the deep and survived.”
+
+“So, who came out on top?” Ren asked.
+
+“The one with the most eel kills, and showed gallantry as he saved his fellows from them.” Railyse said, and floated up slightly. “Everyone, thank you for coming and witnessing this spectacle of epic proportions.”
+
+The crowd cheered, and she raised her hands to quiet them.
+
+“After a short deliberation, it has been determined that (gurgle bubble gurgle) is the winner.”
+
+The 6 other participants congratulated (gurgle bubble gurgle) and he graciously accepted their praise.
+
+The old Queen floated up beside her daughter. “As the winner, you have earned the privilege to sire the Queen's spawn.” She said. “You may approach and meet her personally.”
+
+You could see him gather his courage and then he swam slowly to where Railyse floated. He gave her a very deep bow and held a hand out to her.
+
+“It is a great honor to meet you, My Queen.” (gurgle bubble gurgle) said. “May I ask how long it will be before the official ceremony?”
+
+“Your joining will take place just before she spawns her eggs, so that everything is official.” The old Queen said, and then Railyse staggered slightly and held onto her belly.
+
+“M-mother...”
+
+“Which will be right now.” The old Queen said. “Do you promise to honor and cherish the spawn for which you are about to sire, until your dying breath?”
+
+“I do.”
+
+“Do you promise to put the welfare of the spawn first, then the people second, and the realm third in your priorities?”
+
+“If the Queen is included in the people part, I do.”
+
+The old Queen smiled. “Queen (bubble gurgle bubble bubble), do you...”
+
+“Yes, yes, yes!” Railyse nearly yelled as she doubled over in pain. “Get... get us to... the royal chambers!”
+
+“Hurry!” The old Queen used her Water Manipulation ability to gently pick Railyse up, and she swam out of the Colosseum. The king went with them, and Ren watched them go.
+
+“Ren you have to go, too!” Teepo said. “You promised to be there!”
+
+“Right!” Ren said and swam after them with Artemis right behind him, and caught up to them a moment later. Railyse caught sight of him and she smiled sweetly at him, then she winced in pain. “Hey, I can give you something for the pain.”
+
+“N-no, it's t-tradition.” Railyse said as they entered the castle. “I have to... endure the... PAIN!”
+
+Ren winced as he felt her emotions, and he took her hand. “Can I at least take some of those emotions from you?”
+
+Railyse shook her head. “S-same... reason.”
+
+“Then why am I here, if you don't want me to help?” Ren asked as they entered the royal chambers.
+
+“Special... day.” Railyse panted. “Wanted... you... love... need...”
+
+Her words were starting to become incoherent as the special time approached, and Ren glanced at the male Sea Dweller. He was already building the special place for her to lay her eggs.
+
+“Hurry up!” The old Queen said. “I had this timed perfectly, until someone decided to rescue the giant octopus!”
+
+“Then let me help.” Ren said and took out a crate. Inside were the carcasses of the brain arthropod grubs and the glands that squirted out the numbing gel. He equipped a gauntlet and used his armored hand to grab a gland and stored the crate. “I suspected this might be needed, so I took it out of my storage tower.”
+
+“What is it?” The old Queen asked.
+
+“It's a numbing gel.” Ren said. “Railyse is fighting to keep her eggs in until the nest is done, and she's suffering more pain than she should.”
+
+“But...”
+
+“Please, I know it's against normal procedure, but we're kind of past that at this point.”
+
+Railyse was mumbling and crying as her body shook, and the old Queen reluctantly nodded. She pulled open Railyse's ceremonial dress to reveal the hidden access to her belly and special place. Ren could see that it was distended and dilated, and he carefully squeezed out a tiny bit of numbing gel. It floated in the water, and he used his Water Manipulation ability to gather it up, then pushed it against her special place. Railyse sighed and relaxed, and she stopped trembling as he rubbed it around and covered what he could see.
+
+“That... worked very well.” The old Queen said.
+
+“The healers in the Dwarven Kingdom were trying to figure out the medicinal uses for it.” Ren said and stored the gland. “I just found one.”
+
+The old Queen smiled and turned to the king. “Is it done?”
+
+“Yes, Your Highness.” The king said and stepped away from the well-constructed bowl-like container.
+
+“Very good.” The old Queen said and used her ability to lift Railyse over to the container. “(bubble gurgle bubble bubble)? It's time.” She said. “You can let them go now.”
+
+“N-n-no! F-f-feed!” Railyse managed to say and opened her mouth to wait. The king quickly stabbed his hand and squeezed his blood into her mouth. After a moment, she started to gag and closed her mouth to spit the blood back out.
+
+“What's wrong?” The old Queen asked. “You said you needed to feed!”
+
+“Bad... bad... want... want...” Railyse eyes fluttered as she started to lose consciousness.
+
+“It's me.” Ren said as he felt her feelings. “She wants a feeding from me.”
+
+“That's not possible.” The old Queen said. “Only the king can feed her on spawn day.”
+
+“I did feed her.” The king said. “We have met the requirements, so let him try.”
+
+The old Queen opened her mouth to protest, and the king turned to Ren and put a hand on his shoulder.
+
+“If it will help her spawn, do it.” The king said.
+
+Ren nodded and floated up and took out his hammerpick. “Railyse, open wide.”
+
+Railyse sighed as her mouth opened up completely, and Ren felt how happy she was. He deactivated his Regeneration and carved a huge chunk of flesh up from his wrist. Blood poured out of him as he gained the Bleeding Profusely condition, and the flesh bobbed in the water as he used his Water Manipulation ability to push all that blood into her mouth.
+
+Ren felt her start to come back to herself, and she used her own ability to gather the blood. Ren used Major Healing on himself several times as she took more and more blood, and then suddenly her mouth snapped closed and bit the large chunk of his flesh that was still attached to his arm.
+
+“Railyse! Don't!” Ren exclaimed and activated his Regeneration again. “AGH!”
+
+Railyse tore the chunk of flesh off in a spurt of blood and chewed it up. She swallowed it and sucked in the extra blood. “So good!” She said and looked at the king. “Help me.”
+
+The king nodded and eased her over to the container, and she nodded her approval.
+
+“Carefully, now.” Railyse said in a normal voice as she squatted over the nest, and then her eggs started to slowly ooze out of her. Ren, Artemis, Teepo, and even Ren's pet spider watched in amazement as Railyse gave birth to hundreds of eggs that were in a thick gel, and they plopped down onto the well-constructed container. The king gently spread the eggs out to cover the entire surface, and then Railyse winced again.
+
+“M-More! I have more!”
+
+“There's only one nest!” The old Queen said.
+
+Ren examined the nest and activated his Craft Wondrous Item platform and tossed in the ingredients that were nearby, and he made another one. “Here!”
+
+“How did you-” The king started to ask and Ren cut him off.
+
+“Just use it!” Ren said and shoved the nest at him.
+
+The old Queen moved the first nest out of the way and Railyse filled the second nest. Ren had a feeling that wasn't going to be enough, since Railyse's belly was still bulged slightly, so he quickly made a third nest. The king took it wordlessly and Railyse sighed in relief as she half-filled the third one and her belly was finally empty.
+
+“I did it!” Railyse said and tried to swim, but her arms and legs wouldn't work right.
+
+“Take it easy.” The old Queen said and caught her. “You just...” She looked at the 3 nests and shook her head. “I've never seen this before.”
+
+“My Queen is truly special for her to have so many eggs in a single spawn.” The king said reverently.
+
+Railyse floated a hand near him, and he took it. “You must do your best.”
+
+“My Queen, I could fertilize 5 nests for you with the way I feel after seeing such a miracle!”
+
+Railyse smiled warmly at him as sweat beaded on his forehead, and the old Queen eased her daughter out of the room.
+
+“I can stay and help.” Ren said, and the king looked at him. “She knows you lied, as do I.”
+
+The king sighed. “I may be able to manage the one full nest and perhaps the partial nest, but not another full nest.”
+
+“I can use Healing, Regeneration, and Energize on you after the first nest.” Ren said. “Um, I'll leave the room until I'm needed, though.”
+
+The king chuckled and clapped him on the shoulder. “Give me 10 minutes and come back in.”
+
+“Yes, Your Highness.” Ren said and he and Artemis left the royal chambers. Teepo told him when the 10 minutes was up and he went back in to cast the three spells, and the king thanked him profusely. Ren said that he was only there to help and left the room, then repeated the procedure 10 minutes later. Once that was done, he left with Artemis and they went back to their room. When they arrived there, Teepo realized their guide hadn't followed them since they had left the arena and told them that they no longer had a babysitter.
+
+“Now I wonder if he left us alone on his own, or if the old Queen told him to leave us alone.” Ren said.
+
+“Either way, it doesn't matter.” Artemis said. “The big question is, are we still being observed from the next room?”
+
+“Let's find out.” Ren said and opened the door to the room, and he led Artemis inside. When they looked around the place, they noticed that the painting on the wall had changed. “I liked the old painting.”
+
+“Check the mirror.” Artemis said.
+
+Ren used it to check the room next door. They saw that it was an actual painting and not a one way mirror enchantment or anything.
+
+“It seems we are no longer going to be observed against our will.” Artemis said.
+
+“Oh, no!” Ren said in mock horror. “Whatever will we do?!?”
+
+“We should celebrate our newfound freedom.” Artemis said. “Once you check if we are being observed by any means.”
+
+Ren chuckled at her suspicious mind and asked the mirror, and nothing appeared. “All clear.”
+
+“Then get that armor off so we can have some fun without having to hide under the covers.” Artemis said.
+
+“That was kind of fun, though.” Ren said. “Having to sneak around and getting away with it, I mean.”
+
+“We can still do that; but, I want to see and feel you without anything in the way or hampering our movements.”
+
+“Yes, ma'am.” Ren said and stored his armor to leave him in just his underwear. Artemis stepped close and put her hands on his chest, then knelt in front of him and caressed his muscles.
+
+“Seeing you like this in the light is so much better.” Artemis said.
+
+“What are we going to do first?” Ren asked, and she smiled as she pulled his underwear down. He was turned on by her confidence and was quite ready.
+
+“I told you we have to celebrate.” Artemis said as she stared up at him, and pleased him right there. Ren returned the favor not long afterwards, then they moved over to the bed to get more comfortable.
+
+After an hour of mutual pleasure and the occasional check to see if anyone was watching, they relaxed and went to sleep.
+
+*
+
+“I can't believe you took a feeding from someone other than the king.” The old Queen said.
+
+“Mother, the king was right.” Railyse said as she rested on the bed of seaweed. “He had fulfilled his duty and I needed more. Much, much more.”
+
+“How was that even possible?” The old Queen said. “Ren should have died 6 times over with that much blood loss!”
+
+Railyse chuckled. “That was the most he had ever fed me at one time; but, I've had similar feedings from him before.”
+
+“You were quite vicious at the end there.” The old Queen said. “Why did you eat his flesh like that?”
+
+Railyse smiled. “I saw that big piece of tempting flesh swaying in the water like a lure as he fed me, and I couldn't resist biting into it.” She rubbed her now flat belly and sighed. “It was so delicious!”
+
+“I'm glad you didn't try that with the king.” The old Queen said.
+
+“I... I wouldn't have, even if he had done something similar.” Railyse said. “After having his blood, I... it was disgusting.” She turned her head so she wouldn't have to look at her mother's worried face. “Don't worry, mother. I'm sure with time and practice, I won't throw up at the awful taste anymore.”

@@ -1,0 +1,335 @@
+---
+id: 742eb3a3-dfef-5d82-8af1-9e5cb0bfd71e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99 - House Faldihr"
+slug: 0083-chapter-99-house-faldihr
+partOf: mythrans-master-of-all-continued-completed
+position: 83
+ownLength: 3436
+unit: words
+publishedAt: 2016-11-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105127/chapter-99-house-faldihr"
+royalRoadId: "105127"
+---
+
+Ren arrived at the Garrison and proceeded to his training area, only to see that no one was there. Even Ghomhan, who was there all the time, was nowhere to be found. Ren went back to the previous area, walked over to the Commander's office, and knocked.
+
+“Enter.”
+
+Ren entered the office and stood at attention.
+
+“What can I do for you today, Recruit?”
+
+“Sir! No one is in my designated area, sir!”
+
+“There's a good reason for that.” The Commander said. “It's your day off.”
+
+“Sir?” Ren said, perplexed.
+
+The Commander smiled. “I guess you did miss that part of the Recruit speech. You get one day off, every week.”
+
+“Sir! We get a day off, sir?” Ren asked.
+
+The Commander nodded slightly. “We give it to you during the week, and not on the weekend, so that you Recruits don't go drinking all night and then don't show up the next day.”
+
+“Sir! I thought Recruits had to stay here, all day, every day. Sir!”
+
+The Commander laughed. “We say that to give you all a sense of being stuck in this together. Your squad is your life. You train together, you bunk together, you eat together.” He said. “When you do well, we reward you together, then give you time off together.”
+
+Ren thought about it. That does make sense, assuming you like the people you're assigned to.
+
+“I suppose you missed the part where you get paid as well?” The Commander asked.
+
+“We get paid?” Ren asked, surprised.
+
+The Commander laughed at Ren's expression, and didn't comment on his lack of 'sir'. “We aren't slave drivers. You're doing a job for the common good, you get paid when working on that job.” He said. “You should have gotten it last night just before you hit the bunk.”
+
+Ren smiled. “Sir, I left at dusk last night... about an hour before the end of the army's actual day, sir.”
+
+The Commander sighed. “You're giving me complications, Recruit. I hate complications.”
+
+“Sir! I'm sorry, sir!”
+
+The Commander put 2 gold coins on the desk. “When Ghomhan pays you tomorrow, you can pay me back.”
+
+“Sir! Thank you for the kind gesture, but I can wait, sir!” Ren said, sincerely.
+
+The Commander looked at him like he was crazy, and Ren smiled.
+
+“Sir. I'm not hurting for money. Waiting a day won't make a difference for me, sir.”
+
+The Commander took the gold coins off the table. “Is there anything else, Recruit?”
+
+“Sir! No, sir!”
+
+“Dismissed.”
+
+Ren saluted and left the office. He grinned and quickly made his way back to the main gate and then started to run. “I've got the day off!” Ren said and started to laugh. “I can have those uniforms done by tonight!”
+
+Teepo chittered in delight all the way back to House Neram. Ren activated Sneak and went inside to find out that Narhilda, and her daughter Nathalia, were still asleep. He entered the old bedroom and shut the door. Once inside, he greeted Ruck and went to work. An hour later, Ren heard both women get up, and about an hour after that, he got a popup.
+
+Stat Change!
+
+Sneak Level 7 (Beginner 0%)
+
+Ren smiled and kept working. He had about a hundred uniforms done so far. At noon, there was a knock on the front door. Ren still had Sneak on, and crept over to the bedroom door. He opened it slightly to hear an arrogant man trying to invite himself in. Ren scowled and opened the bedroom door, deactivated Sneak, and walked right up behind Nathalia, who had opened the front door. She turned to Ren, surprised at his unexpected appearance... and Tegwen saw Ren at the same time. The blood drained from his face and he started to stutter.
+
+“Son, what is it?” Thanyur said and got down out of his fancy coach. “Have you arranged a meeting with Narhilda or not?”
+
+Nathalia's head whipped around as she gasped. To use my mother's name so casually!
+
+Ren smiled. I'm not sure how well he does in business, but he's definitely an idiot when it comes to social graces. Ren thought as Thanyur approached the doorway. At least I had the excuse of ignorance at first. This idiot knows it all and is ignoring it.
+
+“F-father!” Tegwen said. “She won't let me in the house.”
+
+“Step aside.” Thanyur said to Nathalia's startled face. “Men have business here.”
+
+“No, you don't.” Ren said as he switched to his Command Aura. “I won't let anyone come into this House that would speak to a woman like that.”
+
+“Do you know who I am?” Thanyur asked.
+
+“Yes, I do.” Ren said, with derision in his voice. “You're the arrogant fool that gave me a hundred gold coin fine, and tried to have me sent to the mines for 6 months. When that didn't work, you had me drafted into the army, just so you and your son would have access to this House without my interference.”
+
+Ren heard a gasp from the kitchen, and a plate as it hit the floor and shattered. Thanyur looked like he was getting angry and his face flushed red. Tegwen tried to calm his father down, but he'd let his bloodlust get the better of him.
+
+“Listen, you! I've worked for years to weaken this House enough to take it over! A merger now is it's best option! I won't let someone like you come in here and mess it all up on me now!”
+
+Ren grinned. Here it comes.
+
+“I challenge you to a duel!” Thanyur said before his son could stop him. “My House champion against yours!”
+
+“Father, no!” Tegwen shouted, but it was too late.
+
+Thanyur smiled wickedly. He knew the idiot didn't have a House, because that's why the fine went through. He can't accept the duel for House Champions.
+
+“House Neram accepts your challenge.” Ren said with a grin.
+
+“Ren, don't!” Nathalia exclaimed.
+
+“W-w-what?!?” Thanyur said in surprise. “But I thought...”
+
+“When my unregistered House petition was rejected, Lady Neram, in her infinite wisdom, hired me on the spot.” Ren stepped forward around Nathalia and said to Thanyur's shocked face. Thanyur was nearly a foot lower than him. “I am the man of this House, and I will not stand idly by and watch you try to take advantage of these women.”
+
+Thanyur shook his head. “No... I... I withdra-”
+
+Ren lightly backhanded Thanyur in the face. “You have no Honor.” Ren said to several gasps. “To prey upon a grieving woman in her time of need, withering her House's Influence and Honor away, just so you can take it over?” Ren shook his head. “If there's one thing I hate, it's someone who takes advantage of people.”
+
+Ren grabbed Thanyur by his collar and lifted him up to face height, nearly choking him. “Call your House Champion. Right now.” Ren said and let Thanyur go, who then stumbled and fell to the ground.
+
+Tegwen went to help his father stand back up.
+
+“And you... thinking you had any right to Nathalia, just because your father was manipulating things behind the scenes.” Ren said in disgust to Tegwen. “I thought you were only angry because I said your repair work was so poor; but you were also angry that I became a rival and was messing up your plans, too.”
+
+Nathalia caught her breath, Ren turned slightly, then reached out a hand to put on her shoulder. “If it had just been Tegwen here, I would have known it was only because of me... but if his father is here to negotiate with your mother...”
+
+Nathalia nodded her understanding.
+
+“So, call your Champion.” Ren said as he turned back to Thanyur. “We'll do the duel right there.” He said and pointed to the street.
+
+Thanyur had fully recovered from the manhandling Ren had given him. “Tegwen, send the footman to get Brohnik Stonepike. He's needed to defend House Faldihr's Honor.”
+
+By this time, Narhilda had joined Nathalia at the doorway and Ren crossed his arms and stood in front of them to wait, switching his Command Aura to just Aura, and concentrated hard on it. Thanyur and Tegwen moved away to the edge of the property, near the gate.
+
+“Ren... you shouldn't have accepted the duel.” Narhilda said.
+
+Ren glanced at her.
+
+“The rules are different when it's House Champions.”
+
+“Are weapons still allowed?” Ren asked.
+
+Narhilda nodded.
+
+“Then I'll end this quickly.”
+
+“It would be best if you did that.” Nathalia said in a low voice, with her head lowered.
+
+“Why are you sad?”
+
+“House Champion duels... are to the death.” She said to Ren's horror.
+
+When he recovered from the shock, he replaced his Immense Terror glyph (of 4 Terror runes) with a double glyph he called Screaming Terror (8 runes of Terror). After that, Ren sighed as he realized Terror wouldn't work well in this instance and absorbed the Lightning glyph (of 4 Lightning runes) on the other ring. He then enchanted it with a double glyph of the same, making it 8 Lightning runes in total.
+
+“Tell me everything you know about this duel ritual, Nathalia.” Ren asked her quietly.
+
+About 10 minutes later, a cart with 2 dwarfs arrived. It was being pulled by a pony that was identical to the 2 attached to the fancy coach. The dwarf, Ren assumed was Brohnik, climbed down and walked over to where Thanyur and Tegwen stood. They exchanged some words, and Brohnik walked towards Ren, pausing only slightly when he hit the 20 foot radius of his Aura. He wore full plate armor from head to foot, and carried a longsword in one hand and a tower shield in the other. It was the first time Ren had to tilt his head slightly up, as Brohnik was about 3 inches taller and came to a stop in front of him.
+
+“I'm really sorry I'm meeting you under these circumstances.” Ren said. “Hopefully this will be over quickly.”
+
+Brohnik motioned to the street, and they walked side by side, well away from the cart and fancy coach. They stopped walking and Ren turned back to look at Thanyur.
+
+“What are the stakes?” Ren asked.
+
+Thanyur let an evil smile spread across his face. “If my Champion wins, I get House Neram and everything inside it.”
+
+“And if I win?”
+
+“Ha! That's not going to happen. Brohnik has never lost a fight!” Thanyur said and laughed.
+
+“Humor me. If I somehow win?” Ren said.
+
+“I'll leave them alone.”
+
+Ren shook his head. “Not good enough. If you win and get everything they have, why not the other way around?” Ren smiled. “If I win, you have to give your House to them.”
+
+Everyone gasped.
+
+“That.. that's outrageous!” Thanyur shouted.
+
+“I know it is.” Ren said and grinned. “Now you know how Lady Neram and her daughter feels.”
+
+Thanyur opened his mouth to give Ren a hot retort, but Tegwen stopped him.
+
+“How about this instead?” Ren said, reasonably. “We take death off the table and fight to submission instead. If I win, you pay all of House Neram's debts. You must leave us alone, and not take revenge or swear a blood feud or anything of the sort against House Neram... and I get an honorable discharge from the Army.”
+
+Thanyur smiled. “Sorry, it's always to the death. That's not negotiable as it's part of the Rites. I'll accept paying the debts, about no retaliations, and the discharge from the army. Although, you'll be dead; so that's pretty much automatic anyways.”
+
+Ren sighed and turned to Brohnik. “You've heard the terms. Do you accept?”
+
+Brohnik widened his eyes. “Why are you asking me?”
+
+“I want you to die with Honor, not by these idiots foolish plan.” Ren said and thumbed over his shoulder.
+
+Brohnik nodded. “I know of your water trick.” He said and tapped his boots with his sword. Ren glanced down and saw metal spikes on the bottom and extra cloth padding over the edges. “I accept the duel.”
+
+Notice!
+
+You have entered PvNPC Special Mode: Champion Duel. This battle is to the death.
+
+Rewards: 5000 XP
+
+Influence: +100
+
+Honor: +50
+
+Penalties if Failed: Influence: -100
+
+They took 10 steps away from each other, and turned.
+
+“Ren! Aren't you going to wear your armor and shield?” Nathalia asked from the courtyard.
+
+Ren shook his head. “There's no need.”
+
+Her mother Narhilda, stepped into the street nearby, but far enough away to not get caught in the coming battle. Since she was the Lady of the House that was in dispute, it fell to her to officiate.
+
+“Begin!”
+
+Ren activated his double glyph Lightning Ring, and a 4 inch wide bolt of lightning shot out and hit Brohnik in the chest. It instantly melted the armor plate that he wore, which burned a hole through most of his chest. Brohnik didn't even have time to scream in pain, as it only took a moment to happen. Ren deactivated the ring and Brohnik's body fell to the ground with a clang.
+
+Ren walked over to the body and knelt beside it. “I really am sorry it had to come to this.” He said and closed Brohnik's eyes with his fingers. “But... your sacrifice will usher in a new age for House Neram.” Ren folded Brohnik's hands over the chest, so that the sword pointed downwards and the shield covered the chest wound. Ren took out 2 silver coins from his coin pouch and placed them on the dead man's eyes. “The ride with the Ferryman is on me, Fallen Champion.” Ren said. “Go with Honor.”
+
+Notice!
+
+You have performed the proper Death Rites for a warrior that has fallen in battle.
+
+Influence: +50
+
+Honor: +50
+
+Notice!
+
+PvNPC Special Mode: Champion Duel has ended.
+
+Rewards: 5000 XP
+
+Fame Bonus: +29%
+
+Influence: +100
+
+Honor: +50
+
+Notice!
+
+You have defeated an opponent 50 levels higher than you.
+
+Fame: +100
+
+Ren stood up and watched in surprise as the body was enveloped in a bright glow for a few moments, then it vanished.
+
+That... was unexpected. Ren thought and then turned to see the shocked looks on everyone's faces.
+
+“Metal conducts lightning much better than water does.” Ren said, then Nathalia ran out and gave him a bone crushing hug. Once again, she was in hysterics, but from joy this time. Her mother, Narhilda, stood at the side of the street. She didn't know what to do, and seemed to be at a loss for words. Thanyur started to stalk towards Ren, who in turn pointed a finger at him.
+
+“You agreed!” Ren said, menacingly. “Keep your word, Thanyur Faldihr!” Ren said and smiled. “Or your Honor and Influence will be forfeit!”
+
+Thanyur stopped walking with a shocked look on his face. No one's invoked that clause in years!
+
+Tegwen came forward and grabbed his father by the arm. “It's over, father. He defeated our House Champion.” Tegwen said. “We have to go.”
+
+Thanyur looked like he wanted to argue, but his son dragged him back to the fancy coach and put him inside. Once it was on it's way, Tegwen climbed into the other cart and left as well. Ren led Nathalia back to the gate and stood in front of her mother, Narhilda.
+
+“My Lady, I'm sorry that such a display had to take place in front of your eyes.” Ren said, bowing his head.
+
+Narhilda reached out a hand and lifted his head. “My shining white knight.” She said, tears in her eyes. “You came into my life, on the heels of my daughter, and reminded me of the things that I've lost. You've taken over my husband's work, and gave it meaning again.” Narhilda said and reached a hand for her daughter. “You've reminded me of the things I still have.” She said as the tears flowed freely. “Now you've given me back the only thing that... I've been trying so hard... to keep from losing all these years.” Narhilda started to sob.
+
+Ren took her into a hug and let her cry. She gripped him tightly and she continued to weep for several minutes. Ren whispered sweet words into her hair as she soaked his uniform with her tears. He kept repeating that everything would be okay, that nothing else was going to happen, that her House would be strong again, and that people will know her husband's name far and wide. Narhilda eventually calmed down and Ren let her go. He gave her a scrap piece of cloth to wipe her face, then he smiled.
+
+“You know, if I wasn't seeing someone already... and if you were 40 years younger...” Ren said to her and grinned.
+
+“Ren!” Nathalia exclaimed.
+
+Her mother laughed, took Ren's hand in hers, and smiled. “I know you're only joking, but I appreciate the compliment just the same.”
+
+Ren smiled as his own words were repeated to him, and he bent over Narhilda's hand. “Now that this has all been settled, I've got a lot of uniforms to make.” Ren said and let her hand go.
+
+They went inside and shut the gate, locking it this time, as they didn't want any more unwanted visitors. Ren worked hard for the rest of the day, and with Ruck's help, finished the uniform order just before nightfall. He got 2 more points in Dexterity and Agility, and 1 in Endurance. He still had 3 more days to make the delivery, but since it was a speed test anyways, what better way was there to impress them with speed than by finishing early? Ren stored all the uniforms, helped Ruck back into his cabinet, then ran all out to the Garrison. Teepo chittered the whole way. Ren went to the Commander's office and knocked.
+
+“Enter.”
+
+“Sir! House Neram thanks you for your order, sir!” Ren said, then looked around. “Where should I put them? They won't all fit in here, sir.”
+
+The Commander stood up from behind his desk. “It's not nice to joke with a commanding officer, Recruit!”
+
+Ren started pulling out uniforms and stacked them on the floor. He made a pile about the width of the desk, and when it got to about chest height, the Commander told him to stop.
+
+“Alright, alright! I believe you.” He said and sat down. “Take them to 8F4R, and come back here.”
+
+Ren followed the directions and dropped off the 1000 Warrior uniforms at the Garrison's uniform dispensary, then backtracked to the Commander's office about 20 minutes later, and knocked.
+
+“Enter.”
+
+Ren entered and stood at attention. “Sir! Delivery completed, sir.”
+
+The Commander nodded and handed Ren a medium-sized bag with 70 platinum coins.
+
+Quest Complete!
+
+You have impressed the military with your prompt delivery of 1000 Warrior uniforms, well before the set deadline.
+
+Rewards: 5000 XP
+
+Fame Bonus: 30%
+
+Efficiency Bonus: 20%
+
+70 Platinum Coins (Quoted cost for bulk orders 7gc each)
+
+Influence: 500
+
+Honor: 100
+
+“Sir! Thank you, sir!” Ren said and saluted.
+
+The Commander saluted back. “Dismissed.”
+
+Ren left the Commanders office and went back to the main gate. He ran as hard as he could back to House Neram. He fed Princess, and went inside to eat himself. Ren could feel the warmth and welcome that Nathalia, and her mother Narhilda, gave him as he entered the kitchen. He still felt bad about the duel, but he enjoyed a great meal anyways, and afterwards Ren told them he'd completed the order. Much to both women's surprise, he handed over the sack of 70 platinum coins. Narhilda accepted the bag graciously, then took out 10 coins and gave them back to Ren. He tried to refuse, but she pulled the puppy dog face on him. She had the 'big sad eyes, and curled up bottom lip' look perfected, and he tried his best not to laugh. Ren eventually gave in and took the coins.
+
+“I might be 80 years old, but my feminine wiles still work!” Narhilda said and laughed.
+
+“Actually, I think you're just too darned cute to refuse.” Ren said and grinned.
+
+She opened her mouth, blushed, then closed it as her daughter Nathalia, laughed.
+
+“I really have to get to bed, though.” Ren said and yawned. “It's been a long day.”
+
+“Goodnight, Ren.” Narhilda said, still slightly blushing.
+
+“Night, Ren.” Her daughter Nathalia said.
+
+Ren nodded to them both and went to the old bedroom. I'll be gone for a little bit, Teepo, then I'll be back to sleep. Ren thought and lay down on the bed to get comfortable. Goodnight.
+
+“Goodnight, Ren.” Teepo said.
+
+“Logout.”
+
+********

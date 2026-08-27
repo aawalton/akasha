@@ -1,0 +1,161 @@
+---
+id: 48a77c35-f33f-5cbb-b9f5-60fe3b7748fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 Deliberation"
+slug: 0031-chapter-29-deliberation
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 31
+ownLength: 2119
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3269246/chapter-29-deliberation"
+royalRoadId: "3269246"
+---
+
+The atmosphere at Ashridge’s eastern gate had slowly grown tense, not unlike the uneasy days before the Tithe. Once again, Lucien found himself confronted with a choice that would affect the lives of the village he ruled, though this time his choice would also determine the fate of people who did not belong to Ashridge.
+
+Already he could hear the murmurs beginning to spread among the gathered villagers, whispers passing between them.
+
+“The eastern villages fell?” a woman near the back of the gathering whispered, her voice tightening with worry. “I hope my sister is all right…”
+
+“So many people...” another villager muttered under his breath as he stared toward the road beyond the gate. “Do we even have enough food to feed them all?”
+
+“But rejecting them is...” an older farmer trailed off uneasily, rubbing his hands together against the cold before finishing in a quieter voice. “We were not so different from them not long ago.”
+
+“I say we send them to Helvarn,” a man near the front spoke up with a shrug, though his eyes avoided the refugees waiting beyond the gate. “The town’s got space. Food too.”
+
+A rough laugh came from somewhere behind him.
+
+“You know what fate would fall upon them if we did that,” another villager cut in grimly. “One of my kin has been living in that shanty camp outside Helvarn for a year now.”
+
+A younger man shifted uneasily beside the others before glancing toward the gate where Lucien still stood. “Well...the lord will decide, won’t he?”
+
+Another villager nodded slowly, though his expression remained troubled. “Aye,” he murmured. “Lord Lucien will know what to do.”
+
+Not everyone sounded convinced.
+
+An older woman folded her arms against the cold as she watched the refugees waiting beyond the palisade. “Let us hope he does,” she mumbled under her breath.
+
+From his brief observation, the villagers appeared divided in their reactions to the refugees. Their concerns seemed less about welcoming a large group of strangers and more about the strain such an arrival might place on the village’s already limited food reserves.
+
+In hindsight, the reaction made sense. Settlements along the frontier rose and fell each year depending on the severity of the Tithe, and those who lived on its edges had long grown accustomed to moving. Newcomers arrived, others departed, and villages adapted as best they could to the shifting fortunes of the land.
+
+The militia remained where they stood before the gate, their posture steady, though their eyes occasionally drifted toward Lucien as they waited for his decision.
+
+Beyond the palisade, the refugees shifted uneasily among themselves, their motions hesitant and their gazes lowered, as if expecting that the presence of a noble could only mean rejection.
+
+Lucien knew he could not afford to make a hasty decision, yet neither could he simply leave the refugees standing beyond the gate in the winter cold.
+
+Before he could speak, the same man he had questioned earlier stepped forward, the hesitation he had noticed still evident in his posture and expression.
+
+“My Lord...we have more people camped further out, about an hour’s walk from here.” The man spoke carefully, as though weighing each word before letting it leave his mouth.
+
+Lucien’s gaze settled on him, his expression remaining neutral. “How many?” he asked simply.
+
+“A-about the same number we have here, Milord. Mostly women and children… they are too exhausted to move any further.”
+
+‘…So nearly a hundred people in total. A twenty percent increase in Ashridge’s population if I accept them,’ Lucien noted grimly to himself.
+
+He remained silent for a brief moment before speaking. “Send word for them,” he said calmly. “For today, at least, you may rest behind the walls while I consider what is to be done.”
+
+Lucien gestured lightly toward one of the militia standing nearby. “Go with him,” he continued. “Bring the others waiting on the road and see that they are escorted here.”
+
+The militia nodded and stepped forward.
+
+“Y-yes, Milord! Thank you!” the man exclaimed, relief breaking through his careful restraint as he hurried toward the gate with the soldier beside him.
+
+Behind him, several of the refugees visibly relaxed, though the worry lingering in their expressions made it clear that the uncertainty of their situation had not yet passed.
+
+“Tomas, bring the rest here to the southeastern part of the village. There are several abandoned shelters there that can be used to house them temporarily,” Lucien ordered evenly, his gaze shifting toward the younger militia man who had been waiting nearby in a guarded posture.
+
+At his words, Tomas gave a single nod before moving toward an older refugee he had been speaking with earlier. Lucien did not follow what passed between them, his thoughts already turning toward the practical matters that now demanded resolution.
+
+“Dorian, have someone fetch Bran and Harlon. Tell them to meet me at the manor,” he said, keeping his voice low so the surrounding villagers would not overhear.
+
+The captain inclined his head in acknowledgment, remaining silent as he turned to carry out the order.
+
+Before Lucien could make any decision regarding the refugees, he first needed to know exactly what resources Ashridge still possessed.
+
+As Tomas began organizing the refugees and the militia moved to carry out his orders, Lucien allowed his gaze to drift once more across the gathered villagers and the weary strangers standing beyond the gate.
+
+The murmurs had quieted somewhat, though the tension lingering in the air remained unmistakable. For the moment, the immediate problem had been contained, yet the true decision still lay ahead of him, and it was one that could not be postponed for long.
+
+By the time Lucien returned to the manor, the winter sun had climbed higher above the rooftops of Ashridge, its pale light filtering weakly through the frost clouded windows of the study.
+
+The room had already been arranged for the sudden meeting.
+
+Elias stood near the desk with his usual composed posture, a small bundle of parchments held neatly in his hands as though he had anticipated their need. Dorian remained a short distance away, his expression flat, though a faint tightness around his brow suggested the situation outside the gates weighed on him more than he chose to show.
+
+Across from them stood Bran and Harlon.
+
+The farmer looked uneasy, his heavy hands clasped together in front of him as though he were still considering the implications of the refugees waiting within the village walls. Harlon, by contrast, appeared more contemplative, the carpenter’s eyes shifting occasionally toward the window as if measuring in his mind the work that might soon be required.
+
+Alicia waited quietly near the wall beside the shelves of ledgers and books, her hands folded neatly before her apron. Though she maintained the same attentive posture she always held during Lucien’s meetings, a faint flicker of worry lingered in her eyes as she watched the others gather.
+
+Lucien took his place behind the desk, he allowed the silence to settle briefly before speaking. “A group of refugees arrived at the eastern gate this morning,” he said evenly. “They came from the settlements further east.”
+
+The words drew the attention of everyone in the room, though none interrupted.
+
+“There are forty eight currently waiting in the village,” Lucien continued. “However, we have since learned that another group of roughly equal size remain further down the road.”
+
+Bran exhaled quietly at that.
+
+Lucien’s gaze shifted toward Elias. “Report on the current state of Ashridge’s food reserves.”
+
+The steward inclined his head before unfolding the parchment he had been holding.
+
+“Our current reserves remain stable, My Lord,” he began in his usual polite tone. “The harvest before the Tithe was sufficient, and the winter stores have been rationed with the expectation that the village population would remain unchanged until spring.”
+
+He paused briefly before continuing. “However, accepting the refugees would require us to draw from those reserves earlier than planned. It would not empty the granaries, but it would place noticeable strain upon them, particularly if the winter proves harsher than expected.”
+
+Lucien listened without interruption before his gaze moved toward Bran. “How are the fields progressing?”
+
+The farmer cleared his throat before answering. “The new rotation system has begun, My Lord,” Bran said, his voice carrying a hint of stiffness. “The fields we discussed earlier are already being prepared for spring planting. More hands would help, work would move faster.”
+
+He hesitated briefly before adding the rest. “But land is still land. Even if we bring more people in, there is only so much ground around Ashridge that can be farmed without clearing new forest.”
+
+Bran rubbed his beard thoughtfully before continuing. “Some folk will turn to hunting if food grows tight,” he said slowly. “But that can only do so much.” He shifted his weight as he spoke. “Most folk who hunt around here are farmers first. They take a bow into the woods when the season allows it, but few can spend all their days chasing game.” His gaze lifted briefly toward Lucien. “Ashridge can’t spare that many hands from the fields.”
+
+He gave a small nod before turning toward Harlon. “And housing?”
+
+The carpenter scratched lightly at his beard as he considered the question. “Ashridge has space enough,” Harlon replied after a moment. “The southern side of the village is usually left sparse because it sits closer to the palisade. During the Tithe, most folk prefer not to live too near the walls.”
+
+His gaze flicked briefly toward the window. “If the refugees remain, we could put them there for now. Longer term, more houses can be built. It will take work.” Then he added, more plainly, “Though that would mean cutting more timber and processing it. It’s work that can be done, but it will take time.”
+
+Dorian had remained silent throughout the exchange. The captain stood with his usual composed posture, his attention focused on the discussion though he offered no immediate comment. Matters of supply and housing were not his domain, and he appeared content to let the others speak first.
+
+Elias folded the parchment in his hands once more. “There is another consideration,” the steward said carefully.
+
+Lucien looked toward him, waiting patiently for the steward to continue.
+
+“If Ashridge accepts these refugees, word will inevitably spread among the frontier settlements.”
+
+Elias chose his next words with deliberate care. “It is unlikely this group will be the last to arrive. Others who have lost their homes may hear that Ashridge has taken people in and begin moving here as well. It may not occur this winter, but it is highly likely once the roads open again in spring.”
+
+The room grew still.
+
+“Future projections for food and housing would need to be adjusted accordingly,” the steward finished, his tone placid.
+
+At those words, Lucien’s thoughts shifted briefly beyond the refugees themselves.
+
+His gaze moved toward Dorian. “Has there been any word from Cragwatch?”
+
+The captain shook his head. “No horns have sounded from the direction of the watchtower,” Dorian replied. “From this distance, we can still see the trails of hearth smoke rising from the hills.” His jaw tightened. “Means the settlement likely still stands.” He paused before adding the part he clearly disliked. “But from here we cannot know for certain.”
+
+For a moment, after Dorian finished speaking, no one in the room said anything further. The quiet that settled over the study felt heavier than before, as though the discussion had finally reached the point where facts alone could carry it no further.
+
+Outside the manor walls, the refugees still waited within the southeastern quarter of the village, uncertain of whether the temporary shelter they had been granted would become something more permanent or whether they would once again be forced onto the road.
+
+Lucien remained still behind the desk, his gaze lowered as he considered everything that had been said.
+
+Food reserves that could be stretched, though not without consequence, and fields that might benefit from additional hands even while remaining bound by the limits of the land itself. There was also timber and empty ground enough to support new homes, though only with time and labor.
+
+And beyond those immediate concerns lay Elias’s warning of what might follow if Ashridge became known as a place that welcomed those who had lost their homes.
+
+One decision now that could shape the village for years to come.
+
+Beyond the forest to the east, the fate of other frontier settlements remained uncertain, and more refugees might already be walking the same road that had brought the first group to Ashridge’s gates.
+
+Slowly, Lucien lifted his gaze.
+
+The choice before him now belonged to him alone.

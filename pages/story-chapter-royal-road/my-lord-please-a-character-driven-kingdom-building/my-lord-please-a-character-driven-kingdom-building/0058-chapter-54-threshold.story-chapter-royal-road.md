@@ -1,0 +1,255 @@
+---
+id: 6621072d-e601-5851-84a2-0949c6dcc12e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54 Threshold"
+slug: 0058-chapter-54-threshold
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 58
+ownLength: 1921
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3367635/chapter-54-threshold"
+royalRoadId: "3367635"
+---
+
+The muted background noise of the inn carried through wood and stone as Lucien walked downstairs to the ground floor. Voices drifted from below, blending into the larger current of sound that defined Helvarn.
+
+He approached the lower hall where the men had gathered near one of the long tables.
+
+The guards pushed themselves to their feet.
+
+“My Lord.”
+
+Lucien inclined his head, his gaze passing over them before he spoke.
+
+“We begin now. But we will not purchase anything immediately," he gestured lightly toward the guards. "Each of you will inspect the smithies and assess the quality of their work."
+
+His gaze shifted between them as he continued. “Do not purchase anything. Not yet.”
+
+One of the guards gave a short nod.
+
+Lucien folded his arms behind his back. “Note their pricing first. Pay heed not only to what is asked, but how it is asked.”
+
+That drew a faint shift in posture from one of the men.
+
+“We will require equipment for the Ashridge guard. Armor first, shields where necessary and the replacement tools if quality warrants it.”
+
+He allowed a brief moment for the instruction to settle. “While inspecting the smithies, observe where their iron comes from. Identify the merchants supplying them.”
+
+Lucien met one of the older guard's eyes. “Joren can still forge your equipment if suitable stock is unavailable here. But to do that consistently, we need regular access to ore suppliers."
+
+The older man adjusted his helm as he gave a nod.
+
+He returned the gesture. “Prioritize availability and cost. If the pricing aligns too closely between suppliers, make note of it."
+
+Another round of nods from the guards followed.
+
+Lucien inclined his head. “You will report before making any decisions.”
+
+“Yes, My Lord.”
+
+His gaze moved across them before settling on Tomas.
+
+“Tomas.”
+
+The young man stepped forward at once. “My Lord.”
+
+“You will remain with me.”
+
+The other guards did not react, though the older guard had shifted slightly.
+
+Lucien unfolded his arms from behind his back. “This is not a formal escort. Just maintain a distance where appropriate.”
+
+“Yes, My Lord.”
+
+He studied him for a moment before giving a faint nod.
+
+“Come.”
+
+The guards dispersed to carry out his orders, moving toward the inn’s entrance and into the flow of the town.
+
+He stepped out shortly after, Tomas falling into position a short distance behind him.
+
+The street carried the same cadence as before. People passed without pause, their attention solely on their own errands as the day continued around them.
+
+He continued toward the central market square where the grain merchants gathered. A single guard at his side was enough, anything more would have drawn unwanted attention.
+
+The grain merchants would reveal the clearest picture of local market conditions.
+
+The central market remained crowded as the streets converged ahead.
+
+Stalls lined the edges in ordered rows, their goods laid out with care. Stacks of grain sacks filled the square, each marked with trade symbols identifying the supplier.
+
+No voices called toward him as he entered the market, nor did any merchants step forward in hopes of securing a sale.
+
+Lucien slowed beside one of the grain stalls, where an older merchant looked up at his approach. His eyes passed briefly over his clothing, then toward Tomas behind him before returning to him once more.
+
+No greeting followed, the merchant simply waited for him to speak first.
+
+He gestured to one of the sacks. "I am looking to establish a steady supply of grain seeds. For Ashridge."
+
+The man’s eyes sharpened faintly at the name. “Ashridge,” he repeated, his tone giving little away.
+
+A brief hum left him before he spoke. “Seeds, My Lord? Not grain?”
+
+Lucien shook his head in response.
+
+The merchant shifted his weight before glancing toward the stock behind him. “Hmm...Seeds are a different matter, My Lord."
+
+When his attention returned, the earlier indifference had already faded. “What sort of volume are we talking?”
+
+Lucien inclined his head once. “We will begin modestly. If the arrangement proves worthwhile, we can increase the volume.”
+
+The man regarded him for a moment, his gaze lingering. “Mm.”
+
+“Seeds don’t move the same way,” he said at last. “Grain’s easy. In and out, no trouble.”
+
+He tapped one of the sacks. “What you’re asking for needs proper storage. Leave it sitting too long and you’ve got nothing worth selling.”
+
+His eyes returned to Lucien's. “There are not many who keep proper stock for it.”
+
+Then he named a price.
+
+Lucien did not react outwardly despite the number the merchant gave. It was higher than he had expected, and not by a small margin.
+
+He regarded the man calmly. “That far exceeds the current rate.”
+
+The merchant gave a small shrug. “Depends on what you’re buying. Grain’s one thing,” he added. “Seeds are another.”
+
+Lucien’s gaze drifted toward the amount of sacks behind the merchant. “Supply should have stabilized since the Tithe.”
+
+“For grain,” the man replied without hesitation. He glanced briefly toward another stall further down the row before looking back. “Seeds take longer to settle, folks don’t rush to sell what they’ll need come spring.”
+
+Lucien adjusted his approach without changing his tone. “If I make this a standing arrangement, how flexible can you be?”
+
+The man let out a breath through his nose. “Consistency will help. It'll mean less guesswork for me when planning ahead.” He leaned against the stall. “But steady supply means setting stock aside, and goods sitting here earn nothing elsewhere.”
+
+The merchant spread his hands faintly. “Especially not this season, right after the Tithe.”
+
+Lucien studied him, the explanation carried some weight, but it was not enough to justify the price the merchant had set.
+
+“What is your final offer?”
+
+The man hesitated just long enough for it to be noticed before naming it. The number was lower, but only by a fraction, still well beyond what the seeds should command.
+
+Lucien held his gaze briefly before inclining his head faintly. “Understood.”
+
+He turned without another word.
+
+Behind him, Tomas remained silent as they stepped away from the stall and back into the flow of the market.
+
+Lucien continued toward the next merchant without slowing.
+
+His subsequent attempts produced much the same outcome.
+
+The second merchant had listened, asked similar questions, and offered a price that differed only in phrasing, the figures remaining close to the first.
+
+The third had not bothered disguising it at all, naming his price with the confidence of someone expecting acceptance regardless.
+
+By the fourth, he listened more closely to the explanations themselves, observing the way each merchant spoke.
+
+They cited supply uncertainty and post Tithe adjustments, but the result remained the same.
+
+Lucien moved through the market as Tomas followed a short distance behind him. His expression remained unchanged, though he had begun suspecting the merchants were driving the prices upward together.
+
+'Was Lord Vaelric behind this?'
+
+The prices offered by the merchants were too similar to be coincidence. More revealing was the manner of refusal, as though the outcome had already been decided before the conversation began.
+
+He stopped at the edge of the square, his gaze passing once across the rows of stalls.
+
+Grain and seeds. Supplies that should have stabilized after the Tithe. Yet every negotiation had followed the same pattern. Polite refusals or prices too high to justify.
+
+Footsteps approached from behind.
+
+“My Lord.”
+
+He turned as the older guard stopped a few paces back, having returned sooner than expected.
+
+“Report.”
+
+The man dipped his head. “The smithies are occupied, My Lord. Most are working on repairs from the Tithe.”
+
+“And the rest?” Lucien asked. He had accounted for the possibility, though repeated setbacks were beginning to grate on him.
+
+“Maintaining Helvarn’s own guard equipment, My Lord. Most are not taking new commissions.”
+
+He absorbed it without outward reaction. “What of the ores?”
+
+The guard shifted his weight before he carefully spoke. “Limited, My Lord. What is available is already spoken for.”
+
+His brow creased faintly. "I assume the prices for them are high as well. What figure did they give you?"
+
+The older man's gaze lowered as he spoke. “Double, My Lord. Some asked near three times the usual rate.”
+
+Lucien fell silent as the guard’s words confirmed his suspicions. Iron did not follow the same supply and demand patterns as grain.
+
+Cragwatch’s fall could have disrupted distribution somewhat, but not to this extent. The mining settlement’s size did not justify an increase of that magnitude.
+
+More telling was how closely the increase mirrored the grain seed prices.
+
+“Understood,” Lucien said at last.
+
+The older guard remained silent, waiting for further instruction.
+
+His eyes moved briefly across the market once more before returning to him. “Return to the inn.”
+
+The man straightened. “My Lord?”
+
+Lucien gestured toward the direction of the inn. “When the others return, have them rest as well.”
+
+“They’ve earned it,” he said, the edge in his voice easing slightly.
+
+“Yes, My Lord.”
+
+The older guard withdrew without further question, and the market continued around them, the absence of criers compounding the sinking weight in his chest.
+
+Lucien remained where he stood for a moment longer. Different goods, yet both showed the same increase in prices, Elias’s warnings of potential action from Cragwatch’s lord surfaced in his mind unbidden.
+
+He turned to glance at the younger man still standing dutifully behind him. “Tomas.”
+
+“My Lord.”
+
+“You should head back to the inn as well,” he said calmly.
+
+Tomas did not move. “My Lord?”
+
+Lucien’s gaze moved past him, toward the deeper streets beyond the market. “I am taking a walk around Helvarn. Perhaps a change of scenery will give me some ideas.”
+
+Tomas hesitated briefly before straightening. “I will remain with you.”
+
+He regarded him for a moment before giving a faint nod. “As you wish.” It seemed he had not managed to hide his thoughts as well as he had believed.
+
+They left the market behind, moving into the narrower streets of Helvarn. The already subdued sounds of trade faded further as they entered an area where the streets carried a lower density of movement.
+
+He walked without a fixed destination as his thoughts began turning inward.
+
+Negotiation had never been his strength.
+
+Even in his previous life, it had been something he approached as a problem to solve rather than an exchange to navigate. And in a world where most transactions were made with prices already set beforehand, his weakness had been largely irrelevant.
+
+The street turned, the flow of the crowd thinning as the central market gave way to quieter edges of the town. Shops became smaller, less uniform, their placement less deliberate.
+
+That was when something unusual caught his attention.
+
+A sign.
+
+The sign itself was nothing special, yet it was its contents that intrigued him.
+
+Lucien slowed before eventually stopping in front of it.
+
+The markings were simple, written in clear script across a wooden board hung above the entrance of a small shop tucked between two larger buildings.
+
+Buy 1 Get 1 Free.Limited Time Offer.2 vire, 99 penne.
+
+Tomas shifted behind him, his gaze moving from the sign to Lucien. A puzzled expression crossed the younger man’s face as he lingered, uncertain.
+
+Lucien did not explain, perhaps it was more accurate to say he couldn't, his eyes remained fixed on the board. For several heartbeats, he found himself studying the words closely before turning to Tomas.
+
+“Wait here,” he said absently.
+
+“Yes, My Lord.”
+
+Then, without hesitation, Lucien stepped forward.
+
+And pushed the door open.

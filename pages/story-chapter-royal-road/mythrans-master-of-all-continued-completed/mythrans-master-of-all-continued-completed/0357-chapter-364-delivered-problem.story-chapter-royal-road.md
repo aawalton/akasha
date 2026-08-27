@@ -1,0 +1,419 @@
+---
+id: 01f2187f-b37e-501a-90b1-770ef141a071
+page-type-slug: story-chapter-royal-road
+title: "Chapter 364 - Delivered Problem"
+slug: 0357-chapter-364-delivered-problem
+partOf: mythrans-master-of-all-continued-completed
+position: 357
+ownLength: 3741
+unit: words
+publishedAt: 2017-09-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163472/chapter-364-delivered-problem"
+royalRoadId: "163472"
+---
+
+Ren went back to the shop, and then thought about Janice. “I better check on her first.”
+
+Princess took him to the house in the Housing District, and Ren went inside and up to the guest bedroom. He opened the door and knocked on Janice's front door.
+
+Janice opened the door a moment later. She wore a red slip that barely touched the top of her thighs, and her face was flushed a similar red color. “Ren, I'm really sorry for this morning.” She said. “I had to log out and check a few things, and I'd only had an hour's sleep when you knocked...”
+
+“It's all right.” Ren said. “It looks like you've had a good sleep now.” He said and smiled. “Do you feel like going out to your shop now?”
+
+“Out to my what?”
+
+“Your shop.” Ren said. “I built it this morning.”
+
+“Oh, my god.” Janice stared at him. “You're serious? You built an entire shop for me this morning?”
+
+“And the attached house.” Ren said. “I haven't made any furniture for inside, though.”
+
+“Ren, you're amazing!” Janice ran back into her house, bent over to grab the box of glassworking tools under her bed, and stored it. It gave Ren a pretty nice view of her backside and the tiny underwear that she wore. He appreciated the view, but he was pretty sure she hadn't intended for him to see it. She stood up and ran back over to him.
+
+“Okay, I'm ready to go!” Janice said happily.
+
+“I can't in good conscience let you ride Princess dressed like that.” Ren said. “You should at least put on some pants.”
+
+Janice looked down at herself and realized she was only wearing the thin slip she had bought from Ren's shop. Her face flushed a deeper red than the top and she started to breathe quickly. Ren reached out and took her into a hug.
+
+“I can't believe I bent over like that, and right in front of you.” Janice said and hugged him back. “I was just so excited...”
+
+“If it makes you feel any better about it, you've got a really nice ass.” Ren said and grinned.
+
+Janice couldn't help herself and she laughed. “I told you before that it's not that great.”
+
+“I'm pretty sure I have to disagree with you there.” Ren said and stepped back. Janice glanced down quickly and then at his face.
+
+“Ren!”
+
+Ren chuckled. “Sorry, you're outvoted two to one.”
+
+Janice shook her head and equipped an outfit, with a blouse, a pair of pants, and a tunic. “Is that better?”
+
+“Not for leering at.” Ren said and grinned again. “It's great for riding a mount, though.”
+
+“Shut up.” Janice said and shut the door to her house. “Store that and let's get going.”
+
+“Yes, Ma'am.” Ren said and stored her house, then they went downstairs and outside. He took Princess' reins and they walked over to his business. Ren took out the modified cart made of stone that they'd used to move Zetaya from House Neram Keep to the ship, and attached it to Princess.
+
+“What are you doing?” Janice asked.
+
+“I'm moving my friend to a nice new home.” Ren said and went into the business.
+
+“Hello, My Lord.” Katie said. “Anabelle left to make the deliveries.”
+
+“Anabelle did?” Ren asked.
+
+“The Adventurer that normally does it was busy today.”
+
+“Oh, okay.” Ren said. “I wonder why she didn't mention that to me this morning.”
+
+“She knew you'd be too busy to do them.” Katie said.
+
+“I'm never too busy to help.” Ren said.
+
+“Really?” Katie smiled. “What are you doing right now?”
+
+“Talking to you.” Ren said and smiled.
+
+“You know what I meant.”
+
+“I'm picking up Zetaya to move out to my county.” Ren said.
+
+“See? You're busy.”
+
+“No, I'm keeping busy. There's a difference.” Ren said. “I don't have to be busy. I can just sit back and do nothing if I want to; but, I don't want to. I'm going to keep going for as long as I want because I want to. Do you understand?”
+
+“Hey, don't get angry at me for...”
+
+“What's going on?” Anabelle asked as she came into the store. “Hello, My Lord.”
+
+“Why didn't you tell me the delivery guy was out today?” Ren asked.
+
+“You left the running of the store in my hands.” Anabelle said. “I'm not going to bother you with trivial things.”
+
+“Trivial? How many deliveries have you made so far?”
+
+“12.”
+
+“And how many are left?”
+
+“16, and I'm making them as fast as I can.” Anabelle said. “The small orders are easy to double up on.”
+
+“Do you want me to help?”
+
+“No, I can handle it.” Anabelle said. “Even the large cabinet deliveries.”
+
+“Okay.” Ren said and looked at Katie. “Are you uncomfortable being left alone in the store for so long?”
+
+“Wh-what?”
+
+“You started to accuse me of getting angry over this, but I think it's you that's angry.”
+
+“I'm not.” Katie said. “I'm not uncomfortable or angry.”
+
+“I gave Verwynn advice this morning about working a market stall. I told her that if she felt uncomfortable, she was to close the stall and go home right away.” Ren said. “I'll extend the same advice to you, Katie.”
+
+“You remember my name?”
+
+“How could I forget names like Katie, Carly, and Holly?” Ren chuckled. “ You might look similar to each other, but you have different hair and very distinct personalities. Anabelle chose you to work for her, which is actually work for me; so, the least I could do was remember who you are.”
+
+Katie didn't say anything, and Anabelle slid an arm over Ren's shoulders.
+
+“You see?” Anabelle said. “Isn't he just adorable?”
+
+“Yes, he's a dream come true.” Katie said and rolled her eyes.
+
+“He is.” Anabelle said. “If you only knew what-”
+
+“I came to pick up Zetaya.” Ren said and interrupted Anabelle. “Are you sure you don't want me to drop off the big deliveries?”
+
+“There's only one big delivery today. A bedroom set.” Anabelle said. “Bed, dresser, two end tables, and a cabinet.”
+
+“I'll take it.” Ren said and she gave him the address.
+
+“It's right at the top of the stairs on the second floor, and marked with her name.”
+
+“I'll grab it on the way by.” Ren said and took out the step ladder.
+
+“I can bend over, you know.” Anabelle said as he stepped up a couple of steps.
+
+“I like being face to face with you when we kiss.” Ren said, and kissed her. He put a little more into it than he normally would have, since he had a bit of an audience, and Anabelle took advantage of it. She wrapped her arms around him an indulged herself a little. She moved a hand down and groped his butt with one hand, and used the other hand to hold the back of his head as they kissed.
+
+“If you're doing that for my benefit, it's not necessary.” Katie said, and figured they would stop kissing if she spoke up. “You know he's not my type at all.”
+
+Ren and Anabelle kept kissing, much to her surprise; and after a couple of minutes, Anabelle was the one to break the kiss.
+
+“You... you need to go... right now.” Anabelle said and let his head and butt go.
+
+Ren gave her a crooked smile, darted forward to give her a quick kiss, then hopped off the step ladder and stored it. He ran to the back of the shop, opened the door, and ran up the stairs.
+
+*
+
+“You weren't doing that for my benefit at all, were you?” Katie asked.
+
+“Oh, no.” Anabelle said and licked her lips. “It was definitely for my benefit.”
+
+“But... he's so short.” Katie said, and tried her best to understand. “He needs a ladder just to kiss you.”
+
+“It doesn't matter how tall he is.” Anabelle said. “All that matters is how big of a man he is.”
+
+“You mean...”
+
+“No, not that.” Anabelle said and smiled. “Even though I'm his personal maid, he treats me like a woman.”
+
+“But you are a woman.”
+
+Anabelle chuckled. “Not according to... well, any other Lord you can name.”
+
+“I... okay, I guess that's true.” Katie said. “But, still...”
+
+“You've heard of what he's done for the people of this city. You've had access to his books. He's done things that even the Heroes Of Old couldn't do.”
+
+Katie didn't say anything, and Anabelle smiled.
+
+“He may be short in height; but if you measured him by his experiences, he would be taller than anyone this world has ever seen.”
+
+*
+
+Ren stored the order on the second floor, then went up to the apartment. “Hey, Zetaya! It's time!”
+
+The fire elemental moved through the flames like a phantom, then burst out of them and leaped across the distance to land in Ren's arms.
+
+“Ha ha! Nice one!” Ren said and hugged it. “I almost couldn't see you in the flames.”
+
+The fire elemental's color changed slightly, and it ducked it's head stub.
+
+“No, Zetaya! I wasn't criticizing you.” Ren said and kissed it's head stub. “I was telling you that you almost had your own flames match the flow of the flames you were in. With only a little more practice, even I won't be able to see you!”
+
+“Or me.” Teepo said. “And I can see everything that moves.”
+
+The fire elemental lifted it's head stub and poked Ren's face with it, then poked Teepo.
+
+“Come on, I've got the stone cart waiting for you.” Ren said, deactivated the enchantments in the pen, and left the apartment. “You're gonna love your new place.”
+
+Zetaya made the noise of a loud crackling fire, and Ren chuckled.
+
+“Trust me, it's amazing!” Ren said, and opened the door to the shop.
+
+“FIRE!” Katie yelled. “Ohmygodohmygodohmygod!” She said in a continuous stream and looked around frantically for something to throw on Ren to put out the flames.
+
+“It's all right, Katie.” Ren said. “Look.”
+
+“No! I can't watch you burn!”
+
+“Katie.” Ren concentrated on his Command Aura. “Look at me.”
+
+Katie looked at him, and saw the flames were moving, but... they weren't moving over or around him.
+
+“Wh-wh-what?”
+
+“This is Zetaya, a fire elemental.” Ren said. “When I was in the dwarf lands, I... um...” He had almost said his daughter gave him the elemental, but caught himself. “Never mind.” He said and walked through the shop. “Bye, Anabelle!”
+
+“Goodbye, My Lord.”
+
+Ren went outside and Janice's mouth fell open when she saw he was carrying a bundle of fire. A bundle of fire that was almost as big as him.
+
+“What the hell are you doing?” Janice asked. “More importantly, why aren't you burning to death?”
+
+Ren chuckled. “At least you didn't scream 'FIRE!' when you saw Zetaya.”
+
+“Wh-what? You named a bundle of fire?!?”
+
+Ren opened the stone cart, activated the enchantments, and put Zetaya inside. “I'll be right back, Zetaya.”
+
+The fire elemental's color changed slightly and Ren closed the top.
+
+“It's a fire elemental.” Ren said. “My fire elemental.”
+
+“You... have a fire elemental... an honest to god, fire elemental.” Janice said. “How can you keep a pet like that?”
+
+“SHE'S NOT A PET!” Ren yelled, and several people on the street looked over at him. “Sorry!” He said and waved to them.
+
+“If she's not a pet, then what is she?”
+
+“She was a very generous gift from my dau-” Ren clamped his mouth shut, took a deep breath and continued. “It doesn't matter where I got her. She's mine, and that's the end of it.”
+
+“Hey, you don't have to get snippy with me.” Janice said. “It was just a simple question.”
+
+Ren sighed and rubbed his face. “I'm sorry, but it's a sensitive subject, okay?”
+
+“Whatever.” Janice said and put on the Helm of the Eagle that she hadn't given back the last time she'd used it. “Let's go already.”
+
+“I have to make a furniture delivery first.”
+
+“Are you taking Princess?”
+
+“No, it's not that far.” Ren said. “I'll be right back.”
+
+Janice nodded and Ren ran down the street, around the corner, and down the next street. The address was three blocks over and down a street, and he knocked on the front door while Teepo went inside to scout.
+
+“Come in!” A woman's voice yelled from somewhere inside the house.
+
+Ren waited for Teepo's all clear and opened the front door. He walked inside and looked around. It was a pretty big house, and quite opulent.
+
+“I'm in the bedroom!” The woman said.
+
+“It's upstairs.” Teepo said. “First door on the right.”
+
+Thanks. Ren thought and went up the large set of stairs. He reached the top and opened the bedroom door, and saw the back of a completely naked woman.
+
+“Has my big and strong delivery man brought me my new bed?” The woman asked demurely, without turning around. “I'm sure a man of your stature can help me test it.”
+
+“I'm just here to make the delivery.” Ren said, and the woman whirled around to stare at him.
+
+“You're not my delivery man!” She almost shrieked, then she froze when she saw who it was, and realized she had only met him a short time ago.
+
+“Hello, M'lady.” Ren said to Gretchen, the Minister of Trade's wife.
+
+“Th-th-this isn't.... it's... it's not what you think!”
+
+“I have your new bedroom set.” Ren said. “Would you like me to take it back to the shop and have the regular delivery man bring it tomorrow?”
+
+Gretchen's face flushed red in embarrassment. “N-n-no, you can leave it here.”
+
+Ren took out the bedroom set pieces and set them against the wall. “I don't know how long this has been going on; but, I assure you that it won't continue.” He said. “It's none of my business what people do in their own bedrooms, but my shop will not be associated with this kind of thing.”
+
+“Don't you dare snub your nose at me.” Gretchen said. “I haven't had sex with my husband in years, and I will take it from whoever I can.”
+
+“I'm not snubbing you, M'lady.” Ren said. “I'm just telling you that the delivery man won't be working for my shop anymore, and you'll need to come up with another excuse if you want to keep sleeping with him.”
+
+“Why you...” Gretchen's face was now red from anger instead of embarrassment.
+
+“Do you remember what I said about appropriate times for clothing?” Ren asked and went to the bedroom door. “This was one of those times.” He smiled and waved to her. “It was nice meeting you again.”
+
+*
+
+Gretchen watched as the short man left her bedroom, and she slammed the door behind him. She walked over to her new bed and sat down.
+
+“This thing is really com... fort... able...” Gretchen felt the mattress much more than she thought she would, and looked down at herself. “Oh, my god!”
+
+She said and covered her breasts with an arm and her private area with a hand.
+
+“I was naked in front of him! Completely naked!” Gretchen said and her face burned from embarrassment. “How... how can I ever face him again? He's seen all of me!” She said and took several deep breaths. “He also knows about...” She took several deep breaths and sighed. “What am I going to do?”
+
+*
+
+Ren left the house at a run and ran back to the shop. He ignored Janice's insistence on leaving and went inside the business, and saw Anabelle come out through the back door.
+
+“Anabelle? Do you have a list of the orders and deliveries for, say, the last month?” Ren asked.
+
+“Of course.” Anabelle said and reached under the counter to get them. “Here you go.”
+
+“Thanks.” Ren said and skimmed over them. He picked out 6 times Gretchen had ordered things from the shop, and they had been delivered to the same address. “Just out of curiosity, do you know of any other women the delivery man has slept with?”
+
+“Excuse me?” Anabelle asked. “Did you just ask me... no, he didn't... he wouldn't... oh, that idiot!”
+
+“Katie?” Ren asked because he had seen her blush. “You knew, didn't you?”
+
+Katie shook her head back and forth, but didn't say anything.
+
+“Katie! You knew?” Anabelle asked.
+
+“No, I... I mean, he mentioned something the other day, but...” Katie sighed. “I thought he was just teasing me about sleeping with a Lady while we were... well...” Her blush deepened and she stopped speaking.
+
+“He is so fired.” Anabelle said. “My Lord, I am so sorry this has happened.”
+
+“So am I.” Ren said. “I just hope it was only the one woman. I've told her she wouldn't be getting any more special deliveries from him, not from this shop, anyways.”
+
+Anabelle knelt in front of Ren. “Can you ever forgive me?”
+
+Ren cupped the side of her face. “There's nothing to forgive.” He said and gave her a kiss. “I don't think he would be able to conceal it for much longer, if he's telling people he's doing it.”
+
+“But, it's my job to make sure that...”
+
+“You can't police people's personal time.” Ren said. “It's that the fool did it while he was working that's the problem for me.” He said, then looked at Anabelle. “Did you-”
+
+“NO!” Anabelle yelled. “I'm yours, and no one else will touch me.”
+
+“Did he try?” Ren asked, and Anabelle nodded. “Katie? It worked on you, but did he try or succeed with Holly or Carly?”
+
+“I...” Katie blushed again. “Yes. He tried with both, but it worked on Holly, too.”
+
+“That's me!” Holly said. She had just come in the front door. “What worked on me?”
+
+“The delivery man.” Anabelle said and stood up.
+
+“Oh, yeah! He's a handful!” Holly said and laughed. “He's got this trick he does with his-”
+
+“HOLLY!” Anabelle yelled to interrupt her.
+
+“Yeah?”
+
+“Is he sleeping with anyone else?”
+
+“Sure.” Holly said. “Katie, The Minister of Trade's wife Gretchen, the horse lady Ms. Abernathy, the secretary in the mansion, Rebekka I think, and one of the kitchen staff there. Alina or whatever her name is.” She said and grinned at them. “Or so he says.”
+
+Ren glanced over the list again, and sighed. “Well, at least that's only two customers, and it wasn't a regular thing for one of them.”
+
+“His regular thing is Gretchen.” Holly said. “He said she takes up more of his time than anyone else.”
+
+Ren nodded. “Like I was telling Anabelle, I can't fault him for sleeping around; but, I can't have it associated with this shop.”
+
+“You're gonna fire him?”
+
+“Yes.”
+
+“He's not gonna like that.” Holly said. “He really likes this job.”
+
+“He didn't like it enough to not sleep with the customers while he was working.” Ren said. “He's supposed to be paid for making deliveries, not having sex.”
+
+“He's not going to see the difference.”
+
+“It doesn't matter.” Ren said. “He's gone as of right now.”
+
+“Am I?” A man said and came into the shop. The guy was 6 foot 2 inches tall and muscular, wore thick leather armor, and had two swords hooked to his belt. He had short black hair and wore a mean expression.
+
+“Hi, sweetums!” Holly said and hugged his arm. “I told you to wait outside.” She said. “Now everyone knows why you didn't work today.”
+
+Ren opened the business menu and deleted the man's name from the Delivery Man job slot without even looking at it.
+
+“I'm not going to repeat myself.” Ren said. “You're fired.”
+
+The man's face turned even meaner. “Look, you... you might think you're a big man for firing me over a trivial little thing; but, that's not real power. I could pick you up and break you over my knee!”
+
+“Ha.” Ren said. “No, you can't.”
+
+“Are you challenging me?” The man asked.
+
+“Normally I hate having unnecessary fights; but, I think you need to be taught not to use someone's legitimate business for your own sexual gratification.”
+
+“Ooo, a fight! I haven't seen one in a while!” Holly said and clapped her hands several times. “The winner can have me!”
+
+Ren looked at her. “I'm sorry, but a woman shouldn't be a prize that can be so easily won.”
+
+“Wait, what?” Holly blinked her eyes in confusion.
+
+“He said it would be too easy to win you like that.” Anabelle said. “You're worth more than that.”
+
+“Oh.” Holly said, let the man's arm go, and smiled at Ren. “I like you even more now.”
+
+“Hey!” The man said, and Holly looked at him.
+
+“What?”
+
+“I thought you were on my side!”
+
+Holly laughed. “He's my boss and super-rich, and said I was worth more to him than being a prize.” She said and smiled sweetly at the man. “Even you have to admit it's flattering.”
+
+“Whatever.” The man said and looked at Ren. “So, are we doing this or what?”
+
+“That depends.” Ren said. “Your spawn point was reset from here to the last place you made it.” He said. “Are you okay with showing up there in 6 hours?”
+
+“You're really cocky for a little shit.” The man said and Anabelle laughed. “What's so funny?”
+
+“He's very cocky.” Anabelle said and grinned.
+
+The man looked at her for a moment longer, then started at Ren. “Yeah, I'm fine with my spawn point.”
+
+“Good.” Ren said. “I'll be right back. I have to check mine.” He said and went out the back of the shop and up the stairs to the third floor, then went into the bedroom to set his spawn point officially. He took out some wood and made a crate, then filled it with all the items he had in inventory that he didn't want to drop or lose.
+
+Teepo, I'm tempted to put your ring in here, too. Ren thought.
+
+“I won't be able to help you, though.” Teepo said. “You're going to need my help, I think.”
+
+Have I bitten off more than I can chew? Ren asked his friend.
+
+“No, but he's not going to be a pushover, either.” Teepo said. “He might look mean; but, I believe he actually is mean.”
+
+Ren nodded and stored the crate, then went downstairs to face a foe that he didn't have the slightest clue about.

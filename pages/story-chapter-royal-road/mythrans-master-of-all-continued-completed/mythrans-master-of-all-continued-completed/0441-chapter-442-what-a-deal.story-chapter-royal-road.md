@@ -1,0 +1,305 @@
+---
+id: 1b7b3992-22be-52db-83d2-79f9037a5d8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 442 - What A Deal"
+slug: 0441-chapter-442-what-a-deal
+partOf: mythrans-master-of-all-continued-completed
+position: 441
+ownLength: 3535
+unit: words
+publishedAt: 2017-12-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178360/chapter-442-what-a-deal"
+royalRoadId: "178360"
+---
+
+“I have just over 8 platinum coins.” Selene said when she saw Ren's smile. “But, I've got another monthly bank payment due in a few days, and that's going to be 3 platinum.”
+
+“You make monthly payments for 300 gold?” Ren asked as his smile disappeared.
+
+Selene nodded. “I borrowed heavily when I started playing so I could get the best of everything available; and it worked. My attack bonuses were unbelievable at lower levels, especially combined with my special skills and abilities.” She smiled. “As I progressed to higher levels and outgrew my equipment, I borrowed more to maintain my advantage.”
+
+Ren's smile went to a frown, and she wasn't sure why.
+
+“Then you gave me those swords.” Selene said. “I haven't had to do anything with them until the quest where one was broken.” She sighed. “I shopped around, and none of the blacksmiths could even come close to reproducing them.”
+
+“They were only cast and not forged.” Ren said. “They couldn't make you a new sword?”
+
+Selene shook her head. “I've used iron blades before, and they don't have the flexibility I need in a weapon to be effective... and they don't have your enchantments, either.”
+
+“You've checked?”
+
+Selene nodded. “I even had several offers to buy them, by both smiths and enchanters, just so they could take them apart and see what it was.”
+
+“Thank you for not doing that.” Ren said.
+
+“I had a feeling you'd hate me for selling or throwing away something you made, and I didn't want to take the chance that you wouldn't fix them for me.” Selene chuckled. “Then you broke it.”
+
+“I did that to show you how lucky you were that it didn't break the last time you used it.” Ren said. “It had several cracks that could have caused you serious damage if it broke at the wrong moment.”
+
+“I know.” Selene said. “I had to sit out the last quest because I didn't have a good weapon to use.”
+
+“I'm glad you didn't endanger yourself.” Ren said.
+
+“Oh?” Selene said and stepped close. “Does that mean you care about my welfare?”
+
+“You... could assume that.” Ren said, and she smiled.
+
+Maybe my charm works on him after all. Selene thought and reached out to rub her hand on the large ruby mounted to Ren's armor chest plate. “Then, perhaps, we could... work out some kind of payment plan.”
+
+“Ren! Someone's coming!” Teepo interrupted, and Ren activated his Heat Sense Aura. Everything turned to shades of red, and Selene caught her breath as his silver-blue eyes gained a red glow around them. Ren felt all the people in his Aura, and then someone else entered his Aura and he stepped back from Selene and turned to face the threat. He saw a large armored man with a big sword running down the street towards him, and felt the man's bubbling anger.
+
+“What are you looking at?” Selene asked and started to turn her head to see.
+
+“Catch.” Ren said and tossed her the new sword without looking at her, then launched himself down the street to attack.
+
+*
+
+Selene caught the sword easily and then Ren practically disappeared. She turned her head the rest of the way to see where he was going, and saw people move out of the way as her boyfriend ran towards her with an angry face. She realized too late what was about to happen.
+
+*
+
+Ren ran down the street as fast as he could, then saw and felt surprise from the big man in the split second before Ren slammed into his chest. It knocked the wind out of the man and they both flew backwards almost 30 feet as Ren successfully tackled him to the ground. The people on the sides of the street gasped as they witnessed the attack. Ren and the big man landed in a heap, and he thought he heard someone applaud as he sat up and grabbed the big guy's armor chest piece. Ren's Enchanted Eyes skill showed him that the armor wasn't enchanted, so his hand dug through the weak metal easily. The sound of metal being crumpled was loud in the slightly crowded street, and Ren braced with his other hand on the man's shoulder and pulled. The armor broke apart and left the man's chest completely exposed.
+
+“Sword!” Teepo said.
+
+Ren caught the man's hand as he tried to swing, and gripped it around the hilt of the sword. He saw the weakness in the metal sword and used a thumb on that hand to bend it, much to the big man's surprise.
+
+“More people!” Teepo said.
+
+Ren felt 4 more people enter his Aura, then something hit him in the chest. It flung him backwards off of the big man and he landed on his back, rolled over, and activated the Revealing Light on his Bracelet of Importance. 200 feet away, an archer was revealed.
+
+“Oh, shit!” The archer said as he looked down at himself and tried to load another Push arrow. Ren grinned and grabbed the big man, lifted him up like he weighed nothing, then threw him at the archer.
+
+“LOOK OUUUUT!” The big man yelled, but the archer was too slow and didn't duck in time. They crashed together and rolled down the street a little. When they came to a stop, neither of them moved; because they had hit their heads against each other and Ren's Skull Cracker ability of 40% chance to Stun with a hit to the head had stunned them both.
+
+“Dodge right!” Teepo exclaimed and Ren did as he said instantly.
+
+“STOP!” Selene said as her sword swing had missed Ren by a fair margin. He grabbed her wrist and swung her around, and she did a cartwheel to twist out of his grip. She had swung the sword on it's side so that she wouldn't hit him with the sharp edge; but apparently she didn't have to, because he had dodged her attack easily and even countered it.
+
+“Wh-what?” Ren said when her shout registered, and stopped fighting.
+
+Stat Change!
+
+Unarmed Combat Level 2 (Intermediate 0%)
+
+Ren dismissed the popup and looked at Selene. “He was going to attack me.”
+
+“Wh-what?” Selene said, and looked over at her boyfriend. She imagined what he would have seen when he saw what she was doing with Ren. “The big stupid fool.” She said and walked over to him. “What were you thinking?” She asked and kicked his leg, and the other members of her party arrived by their two fallen comrades.
+
+“He's unconscious.” Ren said as he walked over, too. “Give him a minute.”
+
+“I don't want to give him a minute!” Selene said and kicked his leg again. “Wake up so I can yell at you!”
+
+“Allow me.” The healer said and cast Energize on him.
+
+“Huh? Whuzzat?”
+
+“You!” Selene kicked his leg. “Jealous!” She kicked him again. “Idiot!”
+
+“Of course I'm jealous!” The big man sat up, fully awake. “Look at you! Every guy around here hits on you!”
+
+“It's just talk!” Selene said, then decided she had kicked him enough and slapped him across the top of the head instead. “That doesn't mean I ever...” Slap. “...EVER...” Slap. “...follow through on anything!”
+
+The big man sat there and took it while the healer used Energize on the archer. “Look, I saw you! You were this close to snuggling with him!” He held his finger and thumb up an inch apart.
+
+“I was trying to get a good deal on this sword!” Selene said and held it out.
+
+“Holy Moses.” One of the magic users said. “That's... damn, I wish I could use swords.”
+
+“It's wonderful!” Selene said and swung it around. “I'd probably name my first born after him for it!”
+
+“Um... you don't have to go quite that far.” Ren interjected, and she glared at him.
+
+“Stay out of this.” Selene said, and he felt her anger. “This doesn't concern you.”
+
+“Actually, it does.” Ren said.
+
+The whole group gasped as he contradicted her, which never happens more than once.
+
+“Excuse me?” Selene frowned at him
+
+“If I hadn't come here to meet you, or let you flirt so overtly, your boyfriend wouldn't have overreacted.”
+
+“You let me flirt?” Selene asked, and her anger rose. “Since you think it's your business, he would have overreacted eventually!”
+
+“Then I take back what I said.” Ren said. “This is all your fault.”
+
+The group of Adventures and several members of the growing crowd gasped. Their eyes shifted back and forth between Ren and Selene as they talked.
+
+“Excuuuuse me?!?”
+
+“I know you're used to using your good looks and sexuality to get the things that you want; but, you don't have to do that. Just being nice works most of the time. When it doesn't, a bribe can pave the way a little.” Ren smiled. “Other than that, it's not worth the extra effort.”
+
+“Now you listen...”
+
+“No, you listen!” Ren said and gained the Angered condition, then pointed a finger at her. “If you were a better girlfriend, you would make him feel confidence in you! If you don't want him to think you're off having sex with everyone, you have to stop pretending that you are!”
+
+Selene looked at him with wide eyes. “B-but...”
+
+“Saying hello or greeting someone with a warm embrace, isn't supposed to be seen as a sexual act! Speaking seductively and flirting is not the way to keep him from thinking that you're off with some other guy when he can't see you!” Ren ranted. “So stop it! You don't have to throw yourself at everyone you meet just in case you might want something from them later!” He said. “Shake people's hands! Smile and speak politely! Just be goddamn nice!”
+
+Selene and the others had fallen silent as Ren spoke, and when he was done, he took several deep breaths and calmed down. The Angered condition went away, and he sighed.
+
+“How much is your debt?”
+
+“Just under 36 platinum, plus interest.” Selene said, without hesitation. She was too shaken by Ren's comments to even think about lying about it.
+
+Ren took out the other sword and gave it to her. “Store them and equip them, please.”
+
+Selene did so, and she gasped as the enchantments took effect. “Oh... oh, my god.” She said and held them up to show everyone. “They're even named after me!”
+
+“Of course they are, since I made them for you.” Ren said. “Now hold out your hands.”
+
+Selene slipped the swords into the scabbards on her back to make her hands available, and held them out in front of her. Ren pushed them together to make a bowl, then took out 50 platinum coins and piled them in her hands.
+
+“The bank will probably charge you for paying your debt off early, so that should be enough to cover it.” Ren said. “Use the rest to replace your boyfriend's armor and weapon I damaged.”
+
+No one spoke, because they were all too flabbergasted to make a coherent sentence. Even the crowd had fallen silent and couldn't believe what he had just done. Ren waved to Princess, and she trotted down the street and over to him. The other members of Selene's party stared at Princess as Ren climbed up to sit in the saddle.
+
+“The swords have 2,000 Durability and can't be sharpened anymore; so, I'm going to assume I won't be hearing from you for a long time.” Ren said to her, and he felt that Selene understood he meant that she wasn't supposed to message him for a long time. Princess turned around, bent down slightly, then went to half-speed instantly and was down the street and around the corner a second later. The street had caved in where her hooves had been, and had left 2 foot wide craters behind.
+
+*
+
+“Geezus.” One of the guys said and blinked his eyes a few times. “Did they go invisible or something?”
+
+“No.” Selene said. “He said I would see how he came all this way so fast, and apparently it's because of his mount.”
+
+“Wow.” The big guy said, then looked down at what was left of his armor. “He tore through my chest plate like it was made of paper.”
+
+“You idiot.” Selene said and knelt down to hug him. “He could have killed you.”
+
+“Easily.” He said, and the healer laughed. “What?”
+
+“He didn't try to.” The healer said. “Didn't you notice? He wasn't using a weapon.”
+
+“He was half my size and wiped the floor with me, like I was less than nothing to him.” The big guy chuckled. “What would he need a weapon for?”
+
+No one had a good answer for that. The crowd on the other hand, were already talking about how quickly he would have been taken down if a weapon had been involved.
+
+*
+
+“There he goes.” A voice said from the shadows as Ren zoomed past in less than an instant.
+
+“I can't believe you wouldn't let me attack.” The guard said. He had stayed by the castle and hadn't followed Selene or Ren during the fight on the shadow man's order.
+
+“He would have killed you.” The voice said and a gloved hand held out a small bag of gold. “Keep an eye out, and let me know if you hear or see anything else.”
+
+“Will do.” The guard said, and the shadow folded into the castle's shadow and disappeared.
+
+Talon quickly moved through the Void passage back to his hideout. He still hated the feeling of being like this, but it was too useful of an ability not to use. He came out of a shadow in the underground cavern, walked over to the table, and sat down next to Lord Eddlemere.
+
+“He's getting more powerful.” Talon said.
+
+“Why didn't you try to kill him?”
+
+“I set up an ambush with another party of Adventurers; but, he saw them long before they could get close enough to be effective.”
+
+Lord Eddlemere sighed. “That's not what I asked.” He said. “Why didn't you do it?”
+
+“I could say that I couldn't sneak up on him.” Talon smiled. “I'm going to say the truth instead.”
+
+“Well?”
+
+“I wanted to see what he would do before I acted, and he left before I could get into position.”
+
+Lord Eddlemere nodded. “Keep vigil.” He said and walked over to the small cot he used to sleep on. “Wake me if anything happens.”
+
+“Yes, sir.” Talon said and put his hand on the table to touch all the shadow strands on it while Lord Eddlemere laid down and went to sleep.
+
+*
+
+Ren and Princess arrived back at the turn-off that led to the starter city of Aurora an hour later, and she slowed down just enough to turn towards his county. They arrived there a few minutes later and came to a stop at the Main House. Ren brought Princess inside so she could rest a bit and gave her a bit more food, then he walked across the street to Janice's house with her glassworking shop next to it. He approached the front door and knocked, then equipped his Travelling Clothes. Janice opened the door a moment later and huffed at him.
+
+“Can I come in?” Ren asked, and she stepped aside. He walked in past her and went into the living room to sit down on the couch.
+
+“Okay.” Janice said and stood in the doorway between the kitchen and the living room. “Let's hear it.”
+
+“Well, it started in real life when someone that was hiding in my house attacked and almost killed me.” Ren said, and she laughed.
+
+“Stop joking around.” Janice said and crossed her arms as she leaned against the doorway. “Tell me what really happened.”
+
+“That is what happened.” Ren said. “I was unconscious for 2 days after that, and I had to wait for the swelling on my head to go down for a day before I could put on the VR headset...”
+
+“WH-WHAT?!?” Janice quickly walked over to him as she uncrossed her arms and sat down beside him. “You... you were really...” Tears came to her eyes and she took his hands in her own. “I'm so sorry!”
+
+“Not as much as I was.” Ren said and smiled, because he could feel that she really was sorry. “Especially when I logged back in and I wasn't where I was supposed to be.”
+
+“Wh-where were you?”
+
+“Shargon Caverns.” Ren said, and she didn't react. “It's a villain training camp.”
+
+“IT'S A WHAT?!?” Janice yelled, and he felt her shock. “You're not a villain!”
+
+“The game thought I was when this world event thing triggered, and I was shunted off to learn a few things.”
+
+“Oh, god! That's so horrible!” Janice said. “Ren, I... I'm sorry I was so... I had no right to be angry at you for missing the lessons!”
+
+“Yes, you did.” Ren said. “It completely slipped my mind, and I should have made sure you were paid.”
+
+“Ren, you... you don't need to...”
+
+“Nonsense.” Ren said and took out 2 platinum coins. “Here you go.”
+
+Janice looked at the two coins, then looked at Ren. “Wh-what is that for?”
+
+“An apology... and a possible commission to make mirrors... or to teach me to make them.” Ren said and smiled. Janice took the two coins and hugged him tightly.
+
+“We can do it right now!” Janice exclaimed.
+
+“I thought you said we couldn't have sex.” Ren joked, and she laughed.
+
+“I said I wouldn't have sex for money anymore.” Janice said in his ear, then nibbled on his earlobe. “I never said I wouldn't jump on you when I'm horny.”
+
+“I still have women at home; but, it's good to know that money makes you horny.” Ren chuckled.
+
+“Did you already satisfy them?” Janice asked and licked his ear.
+
+“I did.” Ren said then sighed. “Damn, I forgot to check on... ah, never mind.”
+
+“So, you... you had all 5 of them.” Janice said and laid her head on his shoulder. “Why aren't you asleep right now?”
+
+“It was 6, actually.” Ren said and he felt her surprise. “At the house, that is. I was with... someone else for a while before that.”
+
+Janice lifted her head up and leaned back to look at his face, and he felt her surprise. “You slept with 7 women? You said 7, right?”
+
+“In the game.” Ren said and smiled.
+
+“You... how... how many before...”
+
+“If foreplay counts, 3.” Ren smirked. “If you mean how many times... well... even I lose count after a while.”
+
+Janice's mouth fell open at his stark admission; and for some reason, she knew he was being completely honest with her. She looked down at his crotch and didn't know what to say.
+
+T-t-ten! He satisfied ten women!
+
+“So... mirrors.” Ren said.
+
+“W-wait.” Janice said and stood up. “I'll be right back.” She said and quickly walked over to her bedroom. Ren wasn't sure what she intended, until she stored her clothing and flopped down onto her back on the bed. “Oh... oh, god!” She said as she started to rub herself.
+
+“J-Janice?” Ren stared at her as her hand moved faster.
+
+“Yes! Talk!” Janice said as she stared at him.
+
+“Um... what do you want me to say?”
+
+“Anything!” Janice nearly yelled. “Tell me what you did!”
+
+“With which one?”
+
+“I don't care!”
+
+“O-okay.” Ren said, and he started to describe everything he had done with Lara the day before, leaving out her name of course, and in the middle of one particular description, Janice cried out.
+
+“Oh! OH GOD!” Janice yelled as she finished. Ren felt how much she had enjoyed hearing his voice as she did that, and he stood up and walked over to the bed. “N-no, don't... I... I can't believe that I...”
+
+“You made quite a mess.” Ren said and knelt. “I still can't have sex with you; but, after doing what you did in front of me, would you mind if I cleaned you up?”
+
+“C-c-clean m-me u-up?” Janice's voice trembled. “Are...are you crazy?”
+
+“Only a little.” Ren said and licked his lips. When she didn't say no, especially since she thought that he wouldn't really do it; he grinned at her and then used his tongue to clean her. Janice threw her head back onto the bed and moaned, almost uncontrollably. She went again a few minutes later, and he cleaned that up as well. He stopped when she was clean, and he could feel her emotions as she floated on the pleasure she had just experienced. He stood up and walked around the bed to look at her.
+
+“Janice? Are you okay?” Ren asked.
+
+“Imshofine.” Janice mumbled, and Ren chuckled.
+
+“I guess you haven't had that done in a while.” Ren said, and she shook her head lazily. “I'll let you rest for a while, then I'll come back for my next glass working lesson.” He said, and she nodded just as lazily. He closed her bedroom door, then left her house and went next door to the large forging warehouse.

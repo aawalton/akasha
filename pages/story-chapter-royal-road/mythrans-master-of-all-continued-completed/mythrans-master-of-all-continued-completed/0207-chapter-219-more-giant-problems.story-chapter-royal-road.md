@@ -1,0 +1,331 @@
+---
+id: ed593dd9-5aa6-5e1c-b20e-084c7dd012ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 219 - More Giant Problems"
+slug: 0207-chapter-219-more-giant-problems
+partOf: mythrans-master-of-all-continued-completed
+position: 207
+ownLength: 3336
+unit: words
+publishedAt: 2017-04-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128791/chapter-219-more-giant-problems"
+royalRoadId: "128791"
+---
+
+Ren looked at his Bracelet of Enforcement when he came to a stop on the hill in front of the Garrison.
+
+Since I own the Garrison, I wonder if I will always count as working for it? Ren thought, then shook his head. No, that's too much of a stretch. I have to be actually doing something for it to count.
+
+“I'd say so.” Teepo said. “Of course, coming here and helping to clean up should count.”
+
+Picking up Princess, Riley, and Stacy counts as cleaning up?
+
+“You're getting them out of the Garrison's way.” Teepo said. “And do you really think you're going to go in there and not tell them what to do with the giants?”
+
+Ren laughed as he walked the last little way to the main gate of the Garrison. Yeah, that's true.
+
+The gate opened when he approached, the guards nodded to him, and gave him Honor. He nodded slightly in return, and when he passed through the outer gate, he saw the next three gates were open in front of him, and the road was lined with dwarves. They each nodded to him as he passed, and Ren was surprised that they were standing along the entire length of the distance to the Commander's office.
+
+“It's an Honor Guard.” Teepo said, surprised.
+
+Ren couldn't possibly nod slightly back to them all, but he tried his best as he went three sections in and two to the right. When he got to the office door, the closest dwarf knocked and opened it, and nodded as well. Ren stepped into the office and the door was shut behind him.
+
+“The great hero returns.” The Commander said, while he sat at his desk. Ren raised a single eyebrow at him.
+
+“I don't have to be a dwarf to tell that you don't believe that.”
+
+The Commander smiled sadly. “I used to.” He said. “At least, until I found this where you died.” He opened one of the drawers in the desk and took out a small wooden box. He placed it on the top of his desk and sighed. “I thought you were better than this.”
+
+“What do you mean?” Ren asked him, to make sure he understood.
+
+“Please, don't insult my intelligence.” The Commander said and frowned. “We both know what these are.” He said and opened the box to reveal the 30 shadow coins inside, with room for 15 more.
+
+“What are they?”
+
+“I thought I told you not to insult me.” The Commander said, slightly angry.
+
+“I'm not insulting you.” Ren said. “I want to know what you think they are.”
+
+The Commander didn't wince, so he knew Ren wasn't lying. “Fine.” He said, and slammed the little box shut and stood up. “They are markers for criminal acts! They are given to thieves, murderers, kidnappers, and any other kind of criminal to perform a certain act, then when the act is done, they are returned for proper payment!”
+
+“I'm glad you know that.” Ren grinned. “That is exactly what they are used for.”
+
+“And I found 30 of them on you!” The Commander said, heatedly.
+
+“Yes, you did.” Ren said. “I have a perfectly good explanation for it, too.”
+
+The Commander looked at him with a frown. “There's only one reason to have these things.” He said heatedly. “To use them!”
+
+Ren chuckled. “You noticed the 15 empty slots, then.”
+
+“Of course I did!” The Commander said. “To think, someone like you owns the Garrison!”
+
+Ren laughed, and the Commander stared at him in shock.
+
+“Why are you laughing?” He asked. “Is being discovered as a criminal mastermind that funny?”
+
+Teepo chittered in delight, and Ren laughed hard; nearly as hard as he did while using the bathroom in real life, when his pee went on and on.
+
+“Oh... ohhh...” Ren said between guffaws. “You... oh, that's funny...” He said and laughed some more. After a minute or so, he calmed down enough to speak properly. “You're so angry at me, and yet you knew the whole time that Lord Lodur was a criminal mastermind.” Ren said. “Did you ever accuse him of being one?”
+
+The Commander of the Garrison didn't say anything, and Ren smiled.
+
+“I didn't think so.” Ren said. “I think you had better start asking questions before laying accusations, Commander.”
+
+“I have half a mind to have you arrested for getting your friend out of prison.” The Commander said. “Did you give him a shadow marker, too?”
+
+“What did I just say about laying accusations?” Ren asked him. “It was Croggart's fault I was in the condition I was in when I got here during the giant's attack. Why in the world would I give him a marker to do that?”
+
+“To cover your tracks, that's why!” The Commander said. “We brought you right inside and let you run all over the place.”
+
+Ren shook his head, and started laughing again.
+
+“Please tell me you don't question prisoners like this.” Ren said. “I own the Garrison. You are all my personal soldiers. I'd have no need whatsoever to do what you just said.” He smiled. “I could order you to tear this place apart, and you'd have to do it.”
+
+The Commander looked at Ren with wide eyes.
+
+“Yeah, that's right.” Ren said and stepped close to the desk. “You're jumping to conclusions and making assumptions.” He picked up the box of shadow markers and opened it again. “If you must know where I got these, I'll tell you.”
+
+“No, I don't want to know how you got so many of those blasted things!”
+
+“That's too bad; because I'm going to tell you anyways.” Ren said. “I got this from Lord Lodur's loot.”
+
+“You WHAT?!?”
+
+“When he was executed for his crimes against the kingdom, I was given a sack with his loot in it.” Ren said. “You don't know how shocked I was when I found this box in the sack, and that 15 of the markers were missing.”
+
+“No... that's not true.”
+
+“You aren't wincing, Commander.” Ren said. “If I said I used them...”
+
+The Commander winced.
+
+“Or if I said I wanted to use them...”
+
+The Commander winced again. “Stop...”
+
+“Or even if I said that I'm a criminal mastermind...”
+
+The Commander winced and closed his eyes.
+
+“You would know that I'm lying.” Ren said.
+
+The Commander sat down at his desk. “They're really Lord Lodur's.”
+
+“That doesn't matter at this point.” Ren said. “What matters is, there's 15 missing.”
+
+The Commander sighed. “Yes, that was my worry, too.”
+
+“You thought it was bad when you assumed it was me using them.” Ren said. “Now imagine what Lord Lodur would use them for.”
+
+“By the gods.”
+
+“Yeah.” Ren said. “Start an investigation, please.”
+
+The Commander looked at him.
+
+“Discreetly. This isn't a witch hunt. You want to find the actual criminals, not just someone to blame.”
+
+“I deserved that.” The Commander said. “I'm sorry.”
+
+“You should be.” Ren said. “Now, where are my mount and dogs?”
+
+“They're in the central park.” The Commander said. “We've got stonemasons working around the clock to repair the damage from the giants.”
+
+“Speaking of which... where are they?”
+
+“They're still in the pit.”
+
+“They're WHAT?!?”
+
+“We don't have anywhere else to put them.” The Commander said. “What would you suggest we do?”
+
+“Get them out of the death pit, for one thing.” Ren said. “We can set up temporary shelter far away from that place.”
+
+“They're giants.” The Commander said. “We don't have the resources to build them all shelters.”
+
+Ren rubbed his forehead. “Tell me you've at least been feeding them.”
+
+The Commander shook his head. “We've barely got enough for the troops.”
+
+“So you're going to let them starve to death?” Ren asked. “They have to be fed!”
+
+“It's not that simple.” The Commander said. “Unless you can do some kind of special magic that we don't know about...” He said and shrugged.
+
+“I can if it works like I think it will.” Ren smiled, and turned towards the door.
+
+“Hold on.” The Commander said, and Ren turned back to watch as he placed a web wand and the Screaming Terror ring on the desk. “I found these where you died, too.”
+
+“You're not going to keep them?”
+
+“I could keep the ring.” The Commander said. “It was loot. The wand you dropped before the giant stepped on you.”
+
+“Then keep the ring.” Ren said, and took out 9 platinum coins. “I buy shadow markers that fall as loot for 30 gold each.” He said. “I don't want them just floating around for anyone to take and use.” He handed the surprised Commander the 9 coins. “You can keep the 32 platinum and change I dropped, too.”
+
+The Commander reached back into the drawer and took out a small sack. “Then you'll want to buy these as well.”
+
+“What... no way.” Ren said as the Commander opened the small sack and saw it was full of shadow markers. “Damn, you've been collecting them for a while.”
+
+The Commander nodded. “They've been showing up occasionally.”
+
+Ren dumped the sack into his inventory, and shook his head. “I can only hope that some, or all, of the missing shadow markers are right here.” He said. There were 147 of them in the sack, and Ren did the math. He handed the Commander 44 platinum and 10 gold, then picked up the web wand and stored it.
+
+“What about the loot from the brain arthropods?” Ren asked. The Commander got up from behind his desk and walked to his office door.
+
+“Bring it in.” The Commander said and stepped back. Two Warriors came in and carried a crate between them. Ren opened the crate, and it was nearly half full with a mix of large grub legs, mandibles, and venom glands.
+
+“We kept about a third of it. The healers want to see what they can do with the numbing venom.”
+
+Ren closed the crate and stored it. “And the platinum coin from each one?”
+
+“We do have extra costs with the repairs.”
+
+“As long as it's actually being used for the Garrison, and not kept for personal gain.” Ren said. “Have you hired every stonemason available? Apprentices, too?”
+
+The Commander shook his head. “We can't afford to...”
+
+“Just do it.” Ren said. “Start with the outer walls. Get the defenses up before worrying about the internal damage.”
+
+“We're at the end of the year. There's nothing left in the budget.” The Commander said. “Nearly everything has been put on hold until next week.”
+
+“Good.” Ren said and took out 50 platinum. “Then put all of this into the repairs and hiring workers.” He said. “Poll the soldiers. See who has stonemason training. Get them to help, and have them make sure we're not getting ripped off by the hired crews that are doing the job.”
+
+“Understood.”
+
+“I'm going to pick up my mount and dogs, and I'm going to see what I can do about getting shelter and food to the giants.”
+
+“Sir.” The Commander said, and saluted.
+
+“Would you still do that if the shadow markers were actually mine?”
+
+“No.” The Commander said. “I've also never saluted Lord Lodur.”
+
+Ren nodded slightly, and left the Commander's office.
+
+*
+
+Nathalia was in a great mood, and blew through making special ordered breakfasts at her restaurant faster than ever, then did the same on the Aurora side of her portal. After that, she started transferring over all of the orders for Ren's business. She didn't even think about all of the extra weight she was carrying with each trip.
+
+I can't wait until this afternoon! Nathalia thought as she dropped off two dressers and a sitting table, and another crate full of lingerie.
+
+*
+
+Ereka was in a great mood as well. She'd kissed Ren right in front of Nathalia, and she didn't even get a twinge of jealousy from her in their shared Aura at the time.
+
+It would have been better if Ren had kissed me back, though. Ereka thought and sighed. Once again, she contemplated signing up for her training early, and remembered what Nathalia had said about training. Practicing on a man she didn't know still wasn't an appealing idea, so she pushed the thought to the back of her brain again.
+
+*
+
+Jhulune, the 18 year old girl who had red hair styled like Ren's and worked at the lumber yard in Aurora, was lonely. She'd decided that she should try and date again. Of the three guys she went out with during the last month, only one of them was as nice as Ren; at least, he was nice until she took her top and bra off.
+
+At least he stopped when I asked him to. Jhulune thought as she nailed another plank to the roof of the building being repaired. No more dating co-workers!
+
+*
+
+I wonder if today will be the day? Donna, the cook at the mansion in Aurora thought, and stirred the batter for a cake.
+
+*
+
+Ren made it to the central park, and found Princess standing next to a tree that had half of it's bark missing, and Riley and Stacy stood guard. He knelt in front of Princess on one knee, and held out a hand. Princess put her front right hoof on it, and he smiled.
+
+“Princess.”
+
+Greetings... My Lord... Princess thought to him. You look well... after dying...
+
+Ren chuckled. “It's a new body, so it definitely looks better than the old squashed one.”
+
+Princess took her hoof back and huffed. Felt being squashed...
+
+“Me, too.” Ren said, and she looked at him.
+
+Not first time...
+
+“No.” Ren said. “I'd like to say this would be the last time, but I thought that before.”
+
+Dangerous life...
+
+“At least it's not boring.” Ren said.
+
+Princess brayed at him and he felt her amusement.
+
+“I've got some work to do out past the wall. Do you feel like coming along?” He asked her.
+
+Will there be food...
+
+“I plan on making some, yes.”
+
+Princess spit out the piece of bark she had been chewing on, and Ren shook his head.
+
+“I'm sorry you had to do that.” He said and motioned to the tree. “Does it have any flavor at all?”
+
+No... Princess thought. It's just sustenance...
+
+“Then I'm really sorry.” Ren scratched her chin. “What about the two of you?”
+
+Riley and Stacy barked at him, and Ren asked Princess if he could climb into the saddle on her back. She nodded to him, and he mounted her.
+
+“Let's go to the closest cafeteria.” Ren said, and Princess took off at a slow run because the cafeteria was only a few sections away. Once there, Ren asked for some basic ingredients to make a large pot of stew; enough to feed at least a hundred people. They started to protest at first, because it would leave them short at suppertime; but Ren paid for all of the ingredients and then asked them to order a lot more. He wasn't sure if they could get enough food for everyone; but at least they could try. Ren then asked to borrow several large pots, that he would replace once he got to a forge.
+
+“We can give you two of the old ones.” The head cook of the cafeteria said, and dug out two large pots to hand to him. “We don't use them because they're wearing out, and could leak at any time.”
+
+“That's fine.” Ren said to her. “Thank you.”
+
+“You don't have to thank me.” She said. “You saved my son and brother with that stunt of yours yesterday.”
+
+“I did?”
+
+The head cook nodded slightly. “They were assigned to the barracks.”
+
+Ren's eyes widened. “I hope they weren't hurt too badly.” He said. “I got there as soon as I could.”
+
+“I know.” The head cook said. “Everyone knows.”
+
+Ren looked around at the other cooks, and they all nodded slightly. “You all had someone involved in that?”
+
+They all nodded slightly again, and he smiled.
+
+“Then what I said goes for everyone.” Ren said. “I hope they're all okay.”
+
+“They are.” One of the female cooks said. “Did you really jump into the pit to fight giants?”
+
+“Jump?” Ren chuckled. “No, I didn't jump. I ended up there just the same, though.”
+
+“Woooow.” She said, and looked at Ren dreamily. “You fought giants.”
+
+Two of the helpers brought over a couple of sacks of ingredients, and Ren thanked them and stored everything. He bid them a good day, and left the cafeteria. He climbed up onto Princess again, and they ran to the closest stairwell to get up on top of the battlement walls. No one questioned him being there, and they ran for the end of the Garrison and the spot where the pit trap was.
+
+It didn't take them long to get to the end of the Garrison, because there wasn't anything in the way up on the walls. The walls were wide so they easily avoided the Warriors on patrol, then ran along the edge to where the pit trap was. Teepo found a stairwell for them, they went to ground level, and then they went outside through the closest gate. They arrived at the pit, and saw it was surrounded by Warriors and crossbows. Ren climbed down from Princess, told her not to go too far, and asked Riley and Stacy to keep guarding her. He walked over to the pit and looked down at the giants, and saw they were packed in tighter than sardines in a can.
+
+Teepo? Use your Spot ability and count how many of them there are.
+
+Teepo took a few minutes to do what Ren asked. “There's a hundred and thirty-five, Ren.”
+
+“A hundred and thirty-five?” Ren said out loud. “Why so many?”
+
+“They added in the ones that you captured inside the Garrison.” One of the Warriors said. “There wasn't anywhere else to put them.”
+
+“How did they do that?”
+
+“Ropes.” The Warrior said, and pointed to several large piles of ropes. “Some of them broke. They weren't designed to hold that much weight.”
+
+“Was anyone hurt?”
+
+“None of us at least.” He said, and Ren frowned as he concentrated on his Command Aura.
+
+“Send for a couple of healers that won't mind working on giants.” Ren said. “I want the giants examined and checked out.”
+
+“What for?” The Warrior asked. “They're just giants.”
+
+“I didn't ask for your opinion, I gave you an order.” Ren said. “I want to know if any of them are sick. If they are, then I want them healed so it doesn't spread. Either to the other giants, or to the dwarves.”
+
+“Yes, sir.” The Warrior said, and waved to a messenger to convey the order. While that was happening, Ren walked over to the piles of ropes to see what they were tied to. Several large spikes had been driven into the ground and the ropes were tied to them. Ren picked three of the closest ones, and sorted out the ropes attached to them.
+
+“What are you doing?” One of the other Warriors asked.
+
+“Making a stronger rope.” Ren said, then proceeded to braid the three ropes together. It didn't take long for him to do the entire length, and he tied a knot in the end. Ren held tension on the new braided rope, and walked over to the pit.
+
+“Hey, you can't do that!” The Warrior said.
+
+“Why not?” Ren asked him as the rope was eased down into the pit. The Warrior didn't know how to respond, and Ren smiled as he looked over the side of the pit. Several of the giants looked up at him, and he waved to them. Surprise was on a lot of the faces, and one of the female giants waved back.
+
+“I'll be back in a few minutes.” Ren said, and disappeared over the side as he slid down the rope.

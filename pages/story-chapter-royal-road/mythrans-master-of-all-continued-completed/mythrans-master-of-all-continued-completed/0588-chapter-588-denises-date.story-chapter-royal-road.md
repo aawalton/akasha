@@ -1,0 +1,201 @@
+---
+id: c5a22ca5-7734-5c4c-b02a-f5b59101637d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 588 - Denise's Date"
+slug: 0588-chapter-588-denises-date
+partOf: mythrans-master-of-all-continued-completed
+position: 588
+ownLength: 2764
+unit: words
+publishedAt: 2018-05-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216176/chapter-588-denises-date"
+royalRoadId: "216176"
+---
+
+Elise and Barbi walked through the kitchen and heard voices in the first living room. They peeked in and saw Stella and Lisa cuddled up on the couch together, and Elise motioned to Barbi to leave them alone. They went to the elevator instead of going into the living room and went up to the second floor.
+
+“I thought I heard something about police.” Barbi said, and Elise nodded.
+
+“Apparently Lisa had quite the day, too.”
+
+“Aren't you going to ask about it?”
+
+“I will tomorrow, and discreetly.” Elise said. “Lisa looked pretty shook up, and I don't want her feeling upset with everyone around.”
+
+“That's reasonable.” Barbi said. Donald was right. She thought. They are treating her like a little wife.
+
+Elise walked down the hall and opened the room on the right. “This was supposed to be my room.” She said and they entered together. “I've got a few things stored here, but they are out of the way.”
+
+“Wow, this is like a luxury hotel.” Barbi said and looked around the room. “A private kitchen, a living room, and a huge bedroom.” She chuckled. “Ren could make a pretty penny if he rented these out as full service hotel rooms!”
+
+Elise laughed and opened the closet near the bed. “I was tempted to offer to pay rent, but you know what he would say to that.”
+
+Barbi smiled as Elise handed her an oversized t-shirt and shorts. “He would say, 'It's already paid for, why do you want to pay for it again?' and then he would probably look at you funny for making the suggestion.”
+
+“That's exactly right.” Elise said. “I knew you were a good pick for handling his social media persona.”
+
+“I'm good at my job.” Barbi said and unhooked her skirt and let it fall to the floor. “Once I get acclimated to his mindset, I should be able to get everything set up the way he needs it, and then we can blitz the media with how awesome he is.”
+
+Elise smiled. “Hey, don't go overboard.”
+
+Barbi grinned at her and unbuttoned her shirt. “Don't worry, it's going to be so subtle that no one will even notice that Ren will be all they are going to talk about.”
+
+Elise chuckled and picked her skirt up off the floor, shook it out, and folded it up. “That will be a neat trick.”
+
+“I had everyone expecting a great show before it aired, didn't I?” Barbi asked and took off her bra, and Elise looked at her with wide eyes. “Yes, that was me.” She said and picked up the t-shirt. “Little blurbs here and there on our own channel as well as on a few different channels at key times to catch the right demographic.” She put the t-shirt on over her head. “A newspaper ad in the local paper.” She pulled the t-shirt into place and it fit well. “Even a few well-placed flyers on several well-travelled street corners.”
+
+“Those are great ideas.” Elise said. “The show was an instant hit.”
+
+Barbi nodded and took off her underwear, but because the t-shirt was oversized, everything remained hidden. “Subtlety is the key.” She said and picked up the boy shorts Elise had given her. “Um, can I get an extra pad?”
+
+“Sure.” Elise said and went to the bathroom, then came back out. “Here.”
+
+“Thank you.” Barbi said and applied it, then put on the shorts. “You don't have to bombard them with it, because sometimes that can backfire.” She cautioned. “The old show coordinator made that mistake and tried to shove a new show down people's throats.”
+
+“Oh, no.”
+
+“Everyone was so sick of seeing commercials for it all the time that no one watched it when it finally aired.” Barbi smiled. “Not even the executives that had ordered it.”
+
+Elise smiled back. “The poor girl.”
+
+“A victim of her own eagerness.” Barbi said. “It's okay, though. She's now the bubbly weather girl on the Weekend AM show.”
+
+“Oh, my god!” Elise laughed. “She was the old show coordinator?!?”
+
+Barbi nodded and laughed, too.
+
+“They really upgraded when they got you, didn't they?” Elise asked and put a hand on her arm. “Then we stole you away.”
+
+Barbi pat her hand. “I worked there for 3 years, so they know how things need to be run.” She said. “I was getting a little bored, actually.”
+
+“No challenge, right?” Elise asked, because she had felt the same way working as just a secretary.
+
+Barbi nodded. “Now I've got a great job with a great co-worker, that I can actually stand to be around for more than a few minutes, and it's something new every day.” She took in a slow breath and let it out. “This day was pretty awful, though.”
+
+Elise stepped close and gave the other woman a hug. “It really was.” She held Barbi for several moments, then let her go. “Get some rest, and tomorrow will be a bright and wonderful day.”
+
+“If breakfast is anything like supper was, then I'll have to agree.” Barbi said and walked over to the mirror that hung on the bathroom door. She looked at herself in the mirror and at the matched set of blue t-shirt and boy shorts. “Damn, girl! You have great taste in clothes.” She said and turned around to check out her own ass. “I look good enough to eat!”
+
+Elise laughed. “Try not to break your neck looking at yourself like that.” She said. “See you in the morning, Barbi.”
+
+“Goodnight.” Barbi gave her a little wave and watched Elise leave the room through the reflection in the mirror. Barbi wiggled her butt and turned to face the mirror, then held her arms together to squish her boobs, which made them almost pop through the t-shirt. “Note to self: Ask Elise where she got this outfit.” She said and cupped her breasts, and her face flushed a little red. “Mmm, that's sexy.”
+
+Barbi went over to the bed and rummaged through the drawers, and didn't find what she had assumed Elise kept close by for emergencies. She shrugged and went to the bathroom and came out with a small towel, then climbed onto the large bed. She slipped off the boy shorts because she didn't want to insult her friend by getting them dirty right away, and then she placed several pillows in a pile.
+
+Barbi sat down and leaned her back on the pillow pile and smiled. She had positioned herself perfectly to see her reflection in the mirror on the bathroom door, then she tucked the towel underneath herself and lifted her legs to get a great view.
+
+“So sexy.” Barbi muttered and started to please herself.
+
+*
+
+Gloria arrived home and quietly parked her car. She had burned through most of her enthusiasm during the exhilarating drive back to her place, and she had even avoided getting a speeding ticket. That added to her happiness and she entered her apartment. She turned on the lights and went inside, then tossed her keys on the counter with the job portfolio.
+
+Gloria grabbed a quick shower to clean up after being in a full body containment suit, then went to the kitchen to grab a quick bite to eat. She went over to her recliner and sat down, with the large towel still wrapped around her, and she laid back and relaxed.
+
+I can't believe this! What a great job it will be! Gloria thought. I can't wait to tell Ren all about it! She stopped that thought and it was replaced with another. What am I going to tell him? If I take this job, I can't work on the weekends for him and Stella.
+
+Gloria sighed and closed her eyes for several moments.
+
+No, he's going to be happy. Gloria thought. He's always been enthusiastic about me getting what I wanted. She opened her eyes and smiled. He might not like me leaving the medical research project; but, he knows how important my career is to me and he'll be happy about that. I know he will.
+
+Gloria looked at the clock and figured Ren would be well into the next game day by now, so she picked up her VR headset and slipped it on.
+
+********
+
+Ren was actually well into Denise, and had been for most of the game morning, and she was well into her hundredth or so full body orgasm. She had been completely surprised how different it was to be with him like this, a fully-functional Ren, and it also surprised her that Elise had been completely right. It was different and also the same. Ren moved a little, and she gripped his shoulders.
+
+“D-don't... just...” Denise panted. “R-rest. We need a break.”
+
+“No, you need a break.” Ren said and smiled. “I can keep going like this forever.”
+
+Denise made that little 'o' of surprise with her mouth, so he kissed her. She moaned as he did so; but, he did as she said. He had stopped moving and wouldn't move again until she said so. The whole time they had been making love, he had done everything she said. It drove her a little mad that he wouldn't go that one extra step, even though her body had begged for it several times; but, his behavior also drove her a little crazy with happiness and made her love him that much more.
+
+Ren could feel all of her emotions of course, and he knew what her body had wanted even though her brain thought otherwise. He also knew that he was establishing a deep seated trust with her, and he wouldn't jeopardize that for anything... not even to give her a better orgasm when her body demanded it. That he could do later, when she trusted him enough. Until then, he would only do what she asked him to do, and nothing else.
+
+After several minutes, Ren felt her calm down and she tapped his shoulder to get his attention. Without missing a beat, he started in on her and she immediately began to pant. They fit together so well that neither of them had long to wait before they finished again. Ren didn't stop, however. He kept moving and pleasing her, and she enjoyed it a lot more than she thought any sane person should enjoy anything.
+
+Why isn't it getting boring? Or repetitive? Denise asked herself as Ren shifted slightly, then he hit yet another spot inside of her that she didn't realize she had. “Oh, GOD!” She exclaimed, and her brain kind of shut off as she went again.
+
+Ren on the other hand, had to restrain his own emotions as Denise's pleasure tried to overwhelm him, and he fought hard not to absorb them with his Emotion Siphon ability. She was so happy and enjoyed it so much that he didn't want to stop. Unfortunately, he had to.
+
+Teepo gave Ren the warning that he only had half an hour left until noon, so he finished Denise once more and then stopped pleasing her. He lay beside her in the bed and she cuddled tightly to him, and his fingertip lightly traced the thick tan lines on her skin where her fur bikini had covered her.
+
+“Is... is it... over?” Denise asked.
+
+“It's almost noon, so I stopped so we could cuddle for about half an hour.” Ren said.
+
+Denise looked at what his finger was doing, and smiled. “Is it that fascinating?”
+
+“The tan highlights your assets quite well, and it focuses the eyes directly on them.” Ren said. “It's not the lines themselves, but what they represent.”
+
+“Oh?” Denise let her own hand caress his chest in return. “What's that?”
+
+Ren gave her a soft kiss. “That they've been covered up for a long time, and it's a very rare treat to see them exposed.” He said and carefully pulled himself out of her embrace and stood up. “Look, I'll show you.”
+
+“Show me?” Denise asked, but she had blinked and he had disappeared. “Ren? Where are you?” She turned her head to look around the bedroom, and he was back. “Ah!”
+
+“Oops, I didn't mean to scare you.” Ren said and propped a large mirror against the wall, then secured it in place. He wore his armor bodysuit and held a hand out to her. She took the offered hand and Ren helped her out of the bed and stood her in front of the mirror. “Look at you.” He said and stood behind her. “You've got a great body, and the tan lines make it stand out so much more.”
+
+Denise stared at the short amazonian woman in the mirror and at the reflection of Ren's hands as he traced the tan lines she could see. He did her breasts first, then traced the line at her waist.
+
+“You look so good.” Ren said and eased her around to show how the lines on her backside made it look like she was still wearing a bikini, even though she wasn't. He traced the lines over the cheeks, and she shivered. “I only stopped making love to you because we are out of time.”
+
+Denise shivered again, and Ren felt her finish.
+
+“Oh, I think there's another leak in the boat. I better check.” Ren said. “Yes, there is!”
+
+Denise smiled as she sat down on the bed, and watched Ren's reflection as he went down on her again. He's the perfect man. She thought as he quickly made her finish again. She squeezed and massaged her own breasts while he did it again, and she laid back on the bed to give him easier access. She tapped the top of his head, and then he was looking at her face and had joined with her again. She gasped at the sensation, and her body shivered at the look of happiness on his face. They moved as one to try and enjoy themselves again before their time was up completely.
+
+“You've got 5 minutes.” Teepo said a short time later.
+
+“Denise... we have... to stop.” Ren said. He was now on bottom and she was riding him like she would in real life.
+
+“W-why?” Denise asked and kept moving.
+
+“It's... almost noon.” Ren said. He grabbed her hips and moved her up and down quickly to make her finish, and she collapsed onto him when she did. He finished as well when she clamped down on him, and her body shivered at the feeling of his release.
+
+“Darling, we... we should just... stay like this.” Denise panted and kissed his cheek. “I don't want... this feeling to end.”
+
+“Imagine if that was possible.” Ren said. “Just us, forever locked into mutual pleasure, with no other care in the world.”
+
+Denise shivered at the thought, then gripped him tightly with both her arms and her body, and he did the same.
+
+“Despite how nice that would be, neither of us lives in a vacuum.” Ren said.
+
+Denise sighed. “All right, I'll behave.”
+
+“I'm the one you are supposed to keep in line.” Ren said and laughed, and she chuckled and kissed him. The both of them froze when they received a popup.
+
+System Notice!
+
+Congratulations, Adventurers! You have survived the first successful World Event: Ghoulpocalypse!
+
+You will now receive the appropriate XP and rewards for your contributions in fighting off the ghoul infestation.
+
+Notice!
+
+Your contributions were mostly supportive in nature, which was appropriate for your class.
+
+Rewards: 135,852 XP
+
+Class Bonus: 15,000 XP
+
+Fame: +500
+
+New Title: Survivor (Ghoulpocalypse)
+
+Ren dismissed the Fame conversion popup. What's with that notice? He asked himself. Appropriate for my class? Really? He thought. Oh, and no level. He shook his head. I guess it's going to be a lot harder to gain levels if I need more than that to go up a level.
+
+“I didn't get anything.” Denise said. “Surprise, surprise.”
+
+Ren smiled at her. “If I had realized you wanted to come into the game, I could have arranged something appropriate.”
+
+Denise smiled back. “I'm happy with what you already 'arranged' for me.” She said and kissed him.
+
+System Notice!
+
+The new World Event: Water Works is about to start! In order for the new content to be loaded, you need to log out for: 30 minutes (real time)
+
+“Well, damn.” Denise said. “Apparently, you were right.”
+
+“It's a curse.” Ren chuckled and gave her a kiss, then rolled over to lay beside her without touching her. “See you in a minute.” He said. “Logout.”

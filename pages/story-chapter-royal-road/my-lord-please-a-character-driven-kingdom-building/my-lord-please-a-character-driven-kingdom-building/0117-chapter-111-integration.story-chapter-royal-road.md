@@ -1,0 +1,211 @@
+---
+id: 77ff5d6f-6cba-5d9a-85d0-bc81294312fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111 Integration"
+slug: 0117-chapter-111-integration
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 117
+ownLength: 2131
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3796570/chapter-111-integration"
+royalRoadId: "3796570"
+---
+
+Once Sera appeared at his door, the rest of the meeting had been doomed from the start.
+
+There had still been matters to discuss with Elias. When he informed her of as much, Sera did what she always did.
+
+She waited patiently.
+
+In his study, by her usual spot near the window.
+
+While a meeting was still taking place not far away.
+
+It was rather amusing to watch his steward repeatedly glance toward the hunter. The faint disapproval on his face was unusually obvious for a man who normally revealed so little.
+
+The moment Elias left the room, Sera was already standing in front of his desk with an expectant look in her eyes.
+
+After their practice ended later that morning, she made to follow him once more. He briefly considered questioning it before deciding there was little point.
+
+As usual, Alicia was waiting for them by the manor's entrance. Just as he was about to leave his bow with the maid, he felt a stare from behind him.
+
+Lucien let out a breath and adjusted the bow over his shoulder, pointedly ignoring the look of amusement on the maid's face as he stepped out of the manor. He adjusted his cloak around his shoulders so it wouldn't catch on the strap.
+
+Returning the greetings from the guards posted at the entrance of the manor courtyard, they moved along the main path toward the northern palisade walls.
+
+Already, he could see the effect an additional three hundred and fifty people had on Ashridge.
+
+There were nearly a thousand people within the village now.
+
+Not more than half a year ago, Ashridge had only slightly over five hundred residents. Now its population had nearly doubled.
+
+He had been in Ashridge long enough to vaguely recognize most of its inhabitants' faces. Though that was beginning to change.
+
+Despite that, he could still tell who were the newer arrivals by the way they seemed to shy away from him when he walked by.
+
+It was a stark contrast to the older villagers, who greeted him with nods and smiles. The refugees often looked on in confusion at the sight.
+
+Beside him, Sera received just as much attention with the red case slung across her back. Already, he could hear villagers recounting the tale of the variant to the newer arrivals.
+
+While the refugees listened to the stories being told about her, Lucien found himself watching Sera instead.
+
+From the corner of his eye, he observed her closely to see if the surrounding noise was affecting her in any way.
+
+The lack of expression on her face made it difficult to tell, but she seemed more interested in observing the newer arrivals than anything else. There didn't appear to be any problems so far.
+
+He relaxed slightly causing Sera to glance at him in question.
+
+"I was just checking to see if the noise wasn't causing problems for you."
+
+Sera tilted her head before her posture seemed to still briefly, then she shook her head.
+
+Lucien regarded her for a moment before inclining his head. "Make sure to let me know if it does. Don't try to keep it to yourself, Sera."
+
+She gave a small nod before going back to her observation.
+
+While they were passing by Talia's shop, he spotted Maris speaking to a woman he didn't recognize. A familiar child was hiding behind the woman even as Maris bent down to smile gently at her.
+
+When Lucien neared them, Maris met his eyes and straightened, smile still on her face.
+
+She dipped her head. "My Lord."
+
+He returned the gesture. "Maris. Has Talia managed to find someone to help you with the shop among the newer arrivals?"
+
+Maris gestured to the woman. "I was actually speaking to her about it but..." her eyes shifted to the girl who was peeking at him.
+
+When she noticed both of them watching her, she immediately hid again behind her mother.
+
+"Aisha...! Don't be rude and greet him properly!" When the girl shook her head, the woman immediately turned toward him and bowed low.
+
+"Milord, I'm sorry. She's just been quiet and..." her words trailed off when Lucien raised his hand.
+
+"It is fine. I have been told my face can be frightening for some people." At his words, Sera glanced briefly at him before turning her attention to Aisha who was now staring at her openly.
+
+Lucien shook his head wryly at the sight before turning toward the woman. "I was just discussing the possibility of a communal nursery for the village."
+
+The woman looked uncertain whether to speak, only doing so when Maris nodded gently at her.
+
+"...Including the refugees, Milord? B-but we have no coin to pay you for it."
+
+Lucien gestured toward the shop. "The nursery itself will be paid for by the village treasury. It would allow people in your case to find work."
+
+"That alone would grant an increase in taxes in the future as well. So you may consider that as payment enough."
+
+The woman hesitated for a brief moment, but when Lucien motioned for her to speak freely, she seemed to gather herself before lifting her gaze to him. "Milord...would it be alright if I could work in that nursery?"
+
+She turned toward Maris and dipped her head. "I know I said I was interested in working here, but...back in the camp, I often helped watch the younger children when their mothers had to look for work."
+
+Maris shook her head faintly. "You prefer to work with children, yes?"
+
+At the woman's slight nod, Maris's expression softened with understanding. "That's fine, Zara. I can always find someone else to help. With the number of new arrivals in the village, it shouldn't be a problem."
+
+Zara bowed her head once more before turning back to him. "M-milord, if you would allow it, then I would like to work there. As long as the pay is enough to feed the two of us..."
+
+He rubbed his chin briefly before giving a slow nod. "I don't see why not. Though those plans were only discussed just a few hours ago so nothing has been set up officially yet."
+
+"I suppose I will just have to implement them soon."
+
+It seemed tonight would be another sleepless night for him. Still, he had the power of coffee this time.
+
+When Zara looked like she was about to bow again, he waved it off.
+
+Even with that, the woman still looked determined to bow regardless. The motion stopped halfway when she noticed her daughter openly staring at Sera.
+
+At some point during the conversation, Sera and Aisha had apparently become locked in a silent staring contest.
+
+Zara's eyes widened before mortification flashed across her face. "Aisha...! Stop staring at Milord's companion like that!" The girl jerked at her mother's reprimand, immediately blinking.
+
+Sera gave a firm nod to herself.
+
+"Sera...you were seriously competing with her...?" Lucien muttered, shooting Sera a dry look.
+
+The hunter turned toward him with a deadpan expression that spelled Of course all over it.
+
+Maris shook her head at the sight, amusement written across her face.
+
+Zara hesitated, her eyes lingering on Sera for a moment longer than expected before she turned back to him. "...Sera? Milord, is she perhaps from the eastern side of the frontier?"
+
+At her words, Lucien's brow rose slightly. "What makes you think she is from the east?"
+
+It was Maris who spoke next, gesturing toward Zara and Aisha. "People from the east tend to have...different names compared to our side of the frontier, My Lord."
+
+Now that she had mentioned it...Sera's name had never quite matched the names he was used to. Zara and Aisha's speech carried the same slower cadence and faint lilt he remembered from the eastern refugees back during winter.
+
+Aisha had grown bold enough to walk up to Sera, head tilted upward. "You're from the east?"
+
+The hunter looked down at her, tilting her head before turning toward him expectantly.
+
+Lucien wondered why she was looking at him until he realized for someone who's lived in the forests for most of her life, Sera likely didn't differentiate such things in the first place.
+
+He turned toward Aisha who now was staring up at him. Somehow, their previous staring contest had turned into the two of them staring at him together now.
+
+Zara looked about ready to scold her daughter again while Maris turned her head to the side, hand covering her mouth.
+
+"Sera! I was looking for you all over the village!"
+
+Coming to a stop close to them, Cora looked excitedly between everyone before her expression shifted into confusion. "Why is everyone staring at Lord Lucien? He never has exciting stories to tell!"
+
+Lucien's brow twitched even as Maris's shoulder began to shake.
+
+As usual, Cora was drawn to whatever was new as she walked curiously to Aisha who grew shy again. "Hello! Are you one of the new kids in the village? Wanna play?"
+
+Bending down slightly, Maris had a soft but chiding look on her face. "Cora. You should at least ask her name first."
+
+Cora bounced once as though she had truly forgotten. "Oh! Sorry! My name is Cora. What's your name?"
+
+The other girl gave a slight nod. "I'm Aisha...hello..."
+
+Cora's eyes brightened. "Okay! Let's play then!" She would have already been pulling Aisha away if not for Maris's look.
+
+Instead, she remained rooted in place, practically vibrating with impatience.
+
+Aisha looked up at her mother who gave a nod. "Just remember to come back when it's time for dinner. And don't cause any trouble, okay?"
+
+Immediately after Zara's words, Cora had already grabbed Aisha's hand. "Come on! I can show you around the village. Oh, and we can go find the others too!"
+
+'...Wasn't she looking for Sera?'
+
+Lucien glanced toward the hunter, whose posture had grown slightly still, head tilted toward the two girls' direction before she gave a small nod to herself.
+
+He couldn't help but wonder whether Sera had been playing along with the shy girl because she had heard her heartbeat.
+
+Then again, considering who it was, it was probably a little bit of both.
+
+When Sera gave him a glance, he shook his head and turned toward the other two women. "I will make an announcement regarding the nursery, Zara. In the meantime, could you spread the word to anyone who might be interested in such work?"
+
+Zara dipped her head. "Of course, Milord. Thank you for everything...for taking us in as well."
+
+He waved it off before turning toward Maris. "I will let Talia know to keep a lookout for people suited to the shop as well. She's...been a little too focused on something else as of late."
+
+The older woman shook her head. "Pay no mind, My Lord. The two of you have more important things to do. I can handle finding someone myself with the number of new people here."
+
+She gave a smile toward Zara. "And perhaps Zara here can find someone amongst the refugees too. I am afraid some of them might simply be too nervous to approach me."
+
+At his questioning look, Maris gestured to the shop. "They think someone who's in charge of the shop must be someone important in the village. So they are cautious for the moment. It'll pass when they grow used to Ashridge, My Lord."
+
+Lucien gave a nod at her words. "Then I will be off. I still have to meet Harlon and Garrick at the irrigation ditch."
+
+The two women dipped their heads as he continued down the road, Sera falling into step behind him.
+
+Outside the northern palisade, he could finally observe the ditch that had been dug since mid-spring.
+
+The irrigation ditch disappeared beneath the northern road through a crude culvert.
+
+Heavy timber beams bridged the channel while packed earth and gravel had been laid over them, allowing carts to pass uninterrupted.
+
+Lucien made a note to construct stone-lined culverts soon, though with the amount of construction already waiting, it would likely take some time before they could spare the labor for it.
+
+At least it remained serviceable for now. The convoy carrying the refugees had crossed it yesterday without issue.
+
+Sera turned to the distant treeline before glancing back at him and giving a small nod.
+
+Returning the gesture, Lucien made his way toward the Easthollow River.
+
+A short while later, he spotted Harlon standing beside the sluice gate, examining the newly built structure closely.
+
+Some distance away, Garrick stood near the workers who were finishing the last stretch of the ditch.
+
+It was a smaller group now compared to the numbers that had been digging when he was here last time.
+
+Soon, there would be more than one ditch in this area.

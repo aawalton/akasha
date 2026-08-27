@@ -1,0 +1,225 @@
+---
+id: 06ffa577-7866-5660-a06a-d6d894a57332
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85 Inference"
+slug: 0090-chapter-85-inference
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 90
+ownLength: 2216
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3585668/chapter-85-inference"
+royalRoadId: "3585668"
+---
+
+Lucien paced his room, his thoughts circling what he had learned only a few hours ago.
+
+A soft knock sounded at his door.
+
+He moved to open it at once, only to pause at the sight before him.
+
+Talia was standing there in her nightclothes.
+
+She walked past him as if it were the most natural thing in the world, and only then did he stir, closing the door quietly behind her.
+
+Lucien turned to face her, his brow twitching. “Why are you wearing something like that?” he hissed, keeping his voice low.
+
+She merely grinned. “So if someone walks in, they’ll assume we’re having a secret rendezvous. Not a discussion between...transmigrators.” Her voice dropped around the last word.
+
+He exhaled through his nose. It was not as though only his own reputation was at risk. Talia was risking hers as well, though he doubted she cared much for that sort of thing.
+
+“Anyway, shall we begin? We don’t have much time before someone starts asking questions. Keep it quiet too. Sera’s room is close, right?” she added with a wink as she moved toward the chair beside the small side table near the window.
+
+He was tempted to flick her forehead at the deliberately suggestive tone, but instead he shook his head faintly and took the seat opposite her.
+
+Talia leaned back, crossing her legs. “Honestly? I don’t even know where to start.” There was a faint edge of exasperation in her tone.
+
+He leaned forward, placing his hands on the edge of the table. “Let us start at the beginning and work our way up from there.”
+
+At her gesture to continue, he went on.
+
+“When Sera led us to the mana-infused area, there was a...clearing of sorts. My household guards were already affected by the time we reached the edge of it.”
+
+Talia leaned sideways in the chair, one arm resting along its side while her hand came up to her chin.
+
+“What kind of effect? And did it happen gradually as you approached, or only once you were near the entrance?”
+
+Lucien’s gaze lowered slightly as he recalled the events. “Gradual. It looked like discomfort at first. But the closer we got, the more apparent it became that something was wrong.”
+
+She hummed, her head tilting. “From the way you’re describing it...you weren’t affected at all, were you?”
+
+Lucien gave a small nod, his brow creasing faintly. “Yes. I felt nothing at all. Very much like—”
+
+“—the cathedral in Helvarn.”
+
+They spoke at the same time.
+
+The words lingered in the air for a moment as they considered the implications.
+
+Talia let out a breath, shaking her head. “But that’s strange, right? They’re different sources...at least, according to what Alicia said.”
+
+Lucien’s fingers tapped lightly against the table. “That is only if you take her words literally. It is possible the divinity of this world draws from the same source...Mana.”
+
+His fingers stilled as he continued. “Even so, we cannot make that assumption yet,” he added, gesturing lightly toward her. “I was unaffected, but we have not confirmed whether you would respond the same way.”
+
+She let out a soft groan. “I doubt I could find a reason to go there. A merchant heading into a place like that? Even I can’t maintain that kind of image without consequences.”
+
+His brow lifted slightly. “You barely act like a merchant as it is. Didn’t you leave the shop to her again today?”
+
+Talia uncrossed her legs and leaned back, nearly tipping her chair. “Ugh, don’t start, Senior. Alicia’s been on my case about that too.”
+
+He shook his head faintly. “For now, let’s assume you would share the same response. The only link I can identify between the two is the presence of Mana.”
+
+Her chair dropped forward with a soft thump, causing Lucien’s eyes to narrow slightly at the noise.
+
+Talia rubbed the back of her head and gave him a small, sheepish smile before speaking. “The locals seem to have some vague awareness of magic, which is kind of odd considering we haven’t seen any actual evidence of it.”
+
+Lucien exhaled through his nose as her words brought another thought to mind. When she glanced at him in question, he spoke.
+
+“One of my household guards from the heartlands mentioned a place where people gather to study magic. That may explain it. Most practitioners are likely centralized there, rather than scattered throughout Arcencia.”
+
+Talia abruptly fell silent, the contemplative look crossing her face drawing his attention immediately.
+
+“When you learned about the academy...did anything feel off?”
+
+Lucien’s brow tightened as he considered her words. “Other than learning that the capital keeps a centralized place of knowledge I can't access because of my exile?”
+
+She snapped her fingers lightly. “Yes, that. The former Lucien was from the capital. Yet you didn’t know anything about it before that, right?”
+
+“I thought we had already established that. Many of our memories lack context.”
+
+Talia tilted her hand back and forth. “No, I think it goes deeper than that. We don’t actually know what we remember until something draws it out.”
+
+She pointed lightly toward him. “You didn’t know you could ride a horse until you actually got on one, right?”
+
+Then toward herself.
+
+“I didn’t know I could curtsey until I had to do it in front of someone.”
+
+Lucien felt a sinking weight settle in his chest as he caught on. "The knowledge only surfaces when the situation demands it."
+
+"And even when it does...it comes in bits and pieces." Talia's gaze shifted to the side, uncertainty flickering across her expression. “The only reason I know this body has a family at all is because of the letters they send.”
+
+Lucien looked at her quietly. “You haven't responded to them.”
+
+Talia recoiled slightly at the suggestion. “No way. That’s not something I’m touching. It’s too risky...and honestly, I don’t want to.”
+
+Both of them had been close to their families in their former world. Neither of them had truly wanted to seek out whatever ties these bodies might still have here.
+
+But if even something as personal as that could remain buried so easily…
+
+Then what else had he taken for granted?
+
+Lucien leaned back, his expression tightening as he began tracing back the assumptions he had made since arriving in this world.
+
+“During my first days here, I assumed Elias had been someone who took care of the former Lucien in his childhood...”
+
+Talia rested her chin on her hand. “And that might not be the case at all. It’s not like you can just ask him without raising suspicion.” She pointed vaguely toward him. “Your steward isn’t easy to fool. A lot like that sly carpenter of yours.”
+
+Her tone remained light, though the caution beneath it was unmistakable.
+
+Lucien fell silent for a brief moment.
+
+If even the people around him could not be trusted as anchors for his own assumptions, then the uncertainty surrounding his past in this world ran far deeper than he had thought.
+
+His fingers came to rest against his chin. “You said you would not have known about your family without those letters.”
+
+Talia’s eyes narrowed slightly as she followed his train of thought.
+
+He tapped lightly against his cheek, his gaze lowering. “Then it is possible there are parts of this body’s past that have not surfaced yet.”
+
+She rested her cheek against her hand as she looked at him. “…You don’t usually make leaps like that, Senior.”
+
+Lucien shook his head faintly. “House Varentis is an old house. That much we know.”
+
+He paused long enough to put the thought into order. “I assumed King Abel sent me here to die during the Tithe. But nobles were never meant to remain in the frontier settlements during winter.”
+
+Talia straightened, her expression sharpening. “So if we take that into consideration...”
+
+Lucien gave a slow nod. “More tellingly, neither Elias nor Dorian resisted my actions as much as they should have. If this body truly were the last of its line...they are not trying very hard to keep me alive.”
+
+She gave him a brief, unimpressed look at that.
+
+He ignored the look pointedly. “If we put that all together, it would not be a stretch to think that House Varentis might still have other members besides myself.”
+
+Lucien left it unsaid that even if such people existed, he was not eager to seek them out.
+
+Talia’s eyes met his own, an unspoken understanding passing between them before her expression shifted.
+
+“Then there’s Sera,” she said at last.
+
+Lucien leaned forward, his hands steepled atop the table. “Her hearing goes beyond simple enhancement. Especially the final test you conducted.”
+
+His junior was already nodding before he finished. “If it were just something like hearing heartbeats, that would only mean her hearing is absurdly sharp. But that’s not what actually happened...”
+
+Lucien considered the arrangement of the test. “You mentioned there were servants speaking nearby. Sound from the hallway would have carried over regardless of where you were standing.”
+
+She mimed cupping her ears. “I couldn’t hear the exact words, but I definitely heard their voices from my end.”
+
+His gaze lifted to meet hers. “Yet during every test, Sera identified the exact moment you spoke. There was no hesitation at all when she wrote the words down.”
+
+Talia stilled, her hands slowly lowering. “Even the third test? She immediately knew where I was?”
+
+He gave a slow nod. “The third result was effectively no different from the first two.”
+
+At his words, her eyes sharpened. “That’s...not just hearing anymore, Senior. It’s like she’s...” Her words trailed off as she searched for the proper way to phrase it.
+
+Lucien understood what she was trying to say.
+
+“Processing the information differently. In a way a human mind should not be able to.”
+
+For a brief moment, neither of them spoke.
+
+Then Talia exhaled softly through her nose, leaning back against her chair.
+
+“Senior, why did you react so strongly back there? Please don’t tell me there’s something strange about Alicia too.” There was a faint tint of exasperation in her tone.
+
+He uncurled his hands from where they had been steepled, resting them lightly against the table. “You know Alicia has been helping me draw the various tools from our world, right?”
+
+She crossed her legs, settling back into her chair. “Yeah, I heard she was the one that drew the crossbow from your descriptions. I always thought that was kinda strange to be able to do that from just hearing about it.”
+
+Lucien gave a slow nod, one finger tapping lightly against the wood. “It goes beyond that. We didn't actually meet often for it because of how busy I was. When I returned from Helvarn, I intended to go into more detail regarding several of the drawings.”
+
+His brow creased as the memory of the crowbar surfaced.
+
+“There were a few where Alicia corrected the designs herself, Talia. Without any further information from me. She barely even needed to consult Harlon or Joren.”
+
+Talia's eyes widened as she gestured vaguely toward Alicia’s room near his own. “She was a farmer’s daughter before becoming your maid, right?”
+
+When Lucien inclined his head, Talia straightened immediately, her legs uncrossing.
+
+“That’s not possible. What exactly did she say when you asked her about it?”
+
+Despite Talia’s unusually strong reaction, Lucien could not blame her for it. The thought had lingered in his own mind as well.
+
+He cupped his chin, recalling the conversation.
+
+“She said she used the local tools as reference...then tried to imagine how they would feel to use.”
+
+Talia stared at him, blinking once. “I-imagine? That’s it?”
+
+If they were not trying to remain quiet, he suspected she would have said it far louder.
+
+Lucien let out a slow breath before rising from his chair and walking toward the drawer beside his bed. After opening it, he retrieved the crowbar drawing he had kept.
+
+When he returned and placed the parchment on the table, Talia immediately picked it up.
+
+She shook her head, eyes moving carefully across the parchment. “I mean...to be fair, a crowbar isn’t exactly complicated. Though this drawing has a lot of details added to it, so—”
+
+“After the initial draft, Alicia drew that in her first attempt.”
+
+Talia fell silent at his words, clutching the parchment a little tighter as she leaned closer to examine it. “This is her first attempt? But there’s no...”
+
+Lucien gave a small nod, resting his hand against his chin once more. “Charcoal leaves marks when corrections are made.” He gestured lightly toward the parchment. “And there are none.”
+
+Setting the drawing back on the table, Talia rested her hands against the edge of the parchment. “And she’s not the type to hide her mistakes by making another copy.”
+
+Silence settled over the room for a moment as they considered the implication.
+
+Talia’s eyes narrowed slightly. “Which brings us back to what Alicia said earlier. If there’s actually more to it than simple folklore...”
+
+Lucien’s gaze lowered briefly at the drawing before lifting to meet her eyes.
+
+“It can’t be confirmed yet, but Alicia might very well possess one. A blessing.”
+
+The parchment remained between them atop the table, charcoal lines illuminated faintly beneath the candlelight.

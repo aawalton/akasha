@@ -1,0 +1,283 @@
+---
+id: a07b4e2b-c80d-56d7-a187-9b21775262d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 259 - She Likes It"
+slug: 0248-chapter-259-she-likes-it
+partOf: mythrans-master-of-all-continued-completed
+position: 248
+ownLength: 3239
+unit: words
+publishedAt: 2017-05-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137773/chapter-259-she-likes-it"
+royalRoadId: "137773"
+---
+
+Ren ran inside the house and put on his Dire Wolf Hooded Cloak, made sure the spider was safely tucked into it, and ran out to the stable. It didn't take any convincing to get Princess to carry Ren to the portal. She was well and truly prepared to run as far and as fast as she could. Each time she ran all that way, and carried him with all his extra weight, she became both stronger and faster.
+
+What she didn't know, was that Ren had been slowly replacing the Strength enchantments on her armor with Protection. It only happened a few times when they stopped to eat during their trips to the portal, and only when she was too busy eating to notice. She would lose a point of boosted Strength, and then would gain it back either on the same trip, or on the next one.
+
+They arrived at the warehouse in only 50 minutes, and Princess could feel Ren's pride in how well she did. He felt her pride in the same thing, pat her neck, and brought her inside.
+
+“You're doing very well.” Ren said. “We only stopped three times.”
+
+Princess flopped down on the mattress in the crate, and Ren gave her some food.
+
+“I'm not planning to be long.” He said, and ran up the stairs to the cabinet that surrounded the portal.
+
+“See you on the other side.” Teepo said, and dissolved into the ring. Ren stepped through the portal and came out the other side. He felt the familiar pain on his hand and the spider crawled back inside the cloak. He opened the cabinet and saw Anabelle as she laid on her bed in the living room. She wore the same nightgown that she'd worn all those nights ago, back when he'd first met her in the mansion. He summoned Teepo, took out some nice fabric, and recalled one of the patterns he'd altered from Thern Neram's designs. Ren made up a pretty nightgown for Anabelle to wear, and laid it beside her.
+
+Ren snuck out of the apartment and went down the stairs to the second floor. Teepo flew behind him, and they went out through the back door. Once outside, Ren ran down the stairs and then down the street. Teepo flew up high enough to scout, but not too high as to lose sight of Ren. The last thing either of them needed was for Trouble to happen.
+
+Ren arrived at the Library, and went inside after Teepo landed on his shoulder. A woman he didn't know sat at the main reception desk. He was tempted to just go right into the hallway at the side of the room; but, he thought it would be rude to ignore the woman that stared so intently at him. He walked over to her confidently and stopped at a respectful distance from the desk. She looked to be about 50 years old, and wore her blondish-brown hair up in a very complicated hairdo.
+
+“Good evening, Ma'am.” Ren said. His Etiquette skill activated, so he took one step forward and reached a hand out for her. “My name is...”
+
+“I know who you are, young man.” The woman said in a slightly high-pitched voice, reached out a hand, and let Ren grip the tips of her fingers. “You are the Hero of Aurora.”
+
+Ren's face flushed a little red, because even though he'd earned the title, it just seemed pretentious to say it out loud like that.
+
+“I've been reading about you.” She said.
+
+“You have?” Ren asked, surprised.
+
+The woman nodded. “As the Head Librarian, it is my duty to read every book that passes through these halls.”
+
+Ren's eyes widened and he stared at her. “You... you've read... every book?”
+
+The Head Librarian nodded, and kept her very dignified manner. Ren still had a hold of her fingers as protocol demanded, because they were still technically greeting each other. He bent over her hand and lightly kissed it.
+
+“I'm very honored to meet you.” Ren said, stood up straight, and kept a hold of her fingers. He wasn't sure why the Head Librarian looked surprised. When her lips formed a very small smile, she spoke.
+
+“So am I.” The Head Librarian said and gave his hand a light squeeze. “What can we do for you, Patron of Knowledge?”
+
+Ren smiled and let her fingers go. “I came to meet the Sage of Ages.”
+
+The Head Librarian looked at him with a blank face for a moment. “Then why have you...”
+
+“I would be severely lacking in both social decorum and manners, if I ignored such a handsome woman, and didn't find out who she was.”
+
+“That... was a very good answer.” The woman said. “I will not fall under your spell, however.” She gave him another slight smile. “No matter how well you write, how composed you are, or how entertaining you may be.”
+
+“You cut me to the quick, dear lady!” Ren put a hand over his heart and fake gasped. “My bounty is as boundless as the sea, my love as deep...”
+
+“...the more I give to thee, the more I have, for both are infinite.” The Head Librarian finished the quote from Romeo and Juliet automatically, then gasped herself as she stared at him. Ren smiled, gave her a regal bow with a bit of flourish, then turned and walked to the door on the side of the room. He opened it and went into the hallway without looking back.
+
+*
+
+The Head Librarian watched the door close, and looked at the hand Ren had kissed.
+
+Rosie was right. She thought. He really is full of surprises.
+
+*
+
+“Did you see the look on her face?” Teepo chittered in delight.
+
+Yeah. Ren thought as he walked down the hallway. She definitely didn't expect me to say that.
+
+Teepo took off to scout the next room, and when he gave the all clear, Ren opened the door to the area where Lara's desk was. He went inside and walked over to her desk. Lara sat there in a chair, with her feet up on the desk, and a book in her hands.
+
+“Hi, Lara.”
+
+“Ren!” Lara slammed her book closed and looked at him. “What are you doing here?!?” She exclaimed, dropped the book on the desk, and stood up. “The giants are sending an attack force right now!”
+
+“I know.” Ren said and held his hands up in surrender. “They'll be at the camp sometime around noon tomorrow.”
+
+Lara looked like she wanted to send him right back to the dwarf lands anyways, then she sighed. “I'm really sorry about that.”
+
+“It's all right.” Ren said. “It was kind of my fault for not assuming an attack would come in the first place.” He smiled. “What's that old saying about poking a bees nest with a stick? The Guardians of the Land are not going to like the reception they're going to get.”
+
+Lara chuckled. “I'm not going to ask, so don't tell me.” She said. “I'm staying away from the giants for a while, even though the Librarian there was the only one that has been nice to me.”
+
+“I'm sorry to hear that.” Ren said, honestly.
+
+Lara looked at him with an odd expression on her face.
+
+“What is it?”
+
+“Nothing.” Lara said and sat back down. He really is sorry. She thought. “What can I do for you now?”
+
+“That depends.” Ren said. “Are there rubber trees in the game?”
+
+“Rubber trees?” Lara laughed. “They don't grow on trees, Ren!”
+
+“Ha. Ha. Ha. Very funny.” Ren said sarcastically. “I meant trees that produce sap that you mix with a galvanizing agent, and it makes rubber.”
+
+“I know what you meant, numb-nut.” Lara chuckled and closed her eyes for a minute. “Nope.”
+
+“You didn't even check anything.” Ren said.
+
+Lara tapped the side of her head. “I memorized the Library index.”
+
+“No way!”
+
+Lara nodded. “It's so much easier to remember things in here.” She said. “Imagine if I could take my high school equivalency exam right here, instead of in some smelly classroom.” Lara sighed. “I'd kick it's ass so hard, school students in the future would feel it!”
+
+Ren laughed, and sat down on the edge of the desk. “High school equivalency?”
+
+“Yeah.” Lara said. “I got kicked out for...” She looked away from him. “Never mind.”
+
+“Hey, you don't have to tell me what happened.” Ren said. “I probably wouldn't understand anyways. I've never stepped foot inside of a school.”
+
+“Wh-what?”
+
+“Come on.” Ren said. “Look at me.”
+
+Lara turned to look at him.
+
+“Do I look like I could survive going to high school?” Ren asked and chuckled. “In real life, I can barely survive walking more than a hundred feet.”
+
+Lara sighed, and Ren saw her sad expression.
+
+“So, you looked me up after all.”
+
+Lara snorted a laugh. “Considering you're all over the news because of the lawsuits, all over the television because they're promoting your show like there's no tomorrow, and all over the message boards with that neat shop you opened up that has everything in it.”
+
+“Have you watched it?” Ren asked, and Lara smiled. “Ha! I knew you couldn't resist my charm!”
+
+“I admit it's a good show.” Lara laughed. “Don't get a swelled head about it.”
+
+Ren smiled. “By the way, my shop doesn't have everything.” He said. “I didn't make my wands available to the general public.”
+
+“Why not?” Lara asked. “You'd make a fortune.”
+
+“I'm already rich.” Ren shrugged. “Plus, they're kind of a cheat.”
+
+“What? How?”
+
+“They can cast 50 spells, and don't cost any Mana to use... besides the original Mana cost to make, and Mana to recharge them.” Ren said. “If everyone had them, no one would ever choose the magic paths in the game.”
+
+Lara thought about, and nodded. “Yeah, you're right.”
+
+“Of course I am.” Ren said, and grinned.
+
+Lara shook her head. “So, what else do you want?”
+
+“Can you wear armor?”
+
+Lara sighed. “No, I can't.”
+
+“Not even something light, like leather or something?
+
+She shook her head. “No, I'm completely defenseless.”
+
+“Well, damn.” Ren said. “I guess I won't be making you new armor.”
+
+“Is that what you were going to repay me with?”
+
+“I was thinking about it.” Ren said.
+
+Lara shook her head. “I can't even equip leather gloves.” She said and lowered her gaze to the desk. “I guess you wasted a trip coming to see me.”
+
+“Lara.” Ren said, and she looked up at his serious tone. “Of all the times I've come here, not once has it been wasted.”
+
+“But, I didn't help you this time.” Lara said.
+
+“That's not why I came here.” Ren said. “I only asked those questions because I was here.”
+
+“So why are you here, then?”
+
+“To repay you, of course.”
+
+“But... you just said...”
+
+“I didn't even think about making you armor until Ereka suggested it this morning.” Ren said. “I figured I'd ask when I met you.”
+
+“Then what...”
+
+Ren took out the small wooden box from his inventory, and laid it on the desk. “Don't touch it yet.” He said when she reached for it.
+
+Lara looked at him in surprise, and he smiled.
+
+“If you touch the box, you'll see what's inside right away.” Ren said. “I want to see your actual expression when you see it, not one you'll pretend to wear because you've already seen it.”
+
+Lara was going to argue that she might not see the contents, but nodded instead. Ren flipped the top open, and grinned as he saw Lara's startled expression. She stared at the gold metal diamond-covered tiara with a 1 inch diamond in the center.
+
+“Oh, my god!” Lara nearly yelled, and reached for it. Ren didn't tell her no, so she picked it up. She gasped and closed her eyes. She saw where the diamonds came from, how many it had taken to make it, and how long Ren had worked at it. He'd made it by hand, and thought about her the entire time, and about how much she should like it. He made her a special, one-of-a-kind tiara, and she opened her eyes.
+
+“You... made this... just for me.” Lara said, and the tears flowed out of her eyes unhindered. She put the tiara in the box, closed it, and stored it. “Ren, I...” She stood up and stepped close to him. “I don't know what to say.”
+
+“You don't have to say anything.” Ren said. “Your expression alone spoke volumes.”
+
+Lara reached up and cupped the side of his face. “Oh, Ren.” Lara said. “You poor, helpless fool.”
+
+“Hey, I can argue the poor part.” Ren said, and Lara laughed through her tears.
+
+“You... you don't know how sorry I am that... that I... I couldn't tell you about...”
+
+“Shh.” Ren said as Lara leaned in. “I know you can't reveal things before I discover them for myself.”
+
+“I wanted to tell you...” Lara said, when their lips almost touched.
+
+“I know you did.” Ren said, and cupped the side of her face like her hand cupped his. “I can hear the sorrow in your voice.”
+
+“I really, really want to kiss you now.” Lara said, and moved forward that infinitesimal distance, and pressed her lips to his.
+
+Ren wasn't sure what had happened, but suddenly he wasn't kissing Lara anymore. His mind opened up and he saw them together, going on adventures, spending time reading in the Library, carrying on, joking around, eating meals, and then some very private things. Ren experienced two full years of memories, the same memories that Lara had experienced when she'd kissed him the first time. He felt so much love from her, and his heart started to accelerate.
+
+*
+
+“Great Vasalor!” Lylyth, the Queen of the Dark Elves, exclaimed and put a hand over her heart. “What... what is this?”
+
+Her skin started to glow slightly, and she had a hard time breathing. She searched through herself and found it was her Connection to Ren. For some reason, it had overwhelmed her own emotion consuming ability, and passed directly into her heart.
+
+“How is that possible?!?” Lylyth asked, and the dark elf attendant that stood next to her throne started to sway back and forth. “Are you all right?” Lylyth asked, and reached out a hand. A tendril of Mana shot out from her palm and hit the dark elf in the chest. The dark elf was frozen in place as the tendril wrapped around her, and Lylyth could feel everything that her attendant felt.
+
+I haven't had this ability in ages! Lylyth thought, and pulled the Mana tendril back. The attendant continued to sway slightly, and after a few moments, Lylyth remembered something. Centuries ago, susceptible people would sway with her heartbeat, while they were within her Aura's area of effect.
+
+Ren, you are worth more than a thousand other mark-holders combined! Lylyth thought, and smiled.
+
+*
+
+Ren's trip down future-memory lane ended, and he came back to his senses. He was still being kissed by Lara; but, he knew that thought wasn't quite right. They had just started to kiss, so really, only a few seconds had passed. He cupped the other side of her face and kissed her the way she deserved to be kissed for loving him so much; and she felt the change in his response.
+
+Lara hadn't realized that she was desperate to have someone kiss her like that, until someone actually kissed her like that. Like she was air, and they wanted to take as many breaths of her as they could before they died. Her body responded appropriately, and she grew sensitive in certain spots. It felt like an itch that she needed to scratch, and she moaned into his mouth as his hands left the sides of her face and moved down her body.
+
+Ren felt her desperation and immense need to be held. He ran his hands quickly across her small chest, around to her back, and down to cup her other cheeks. She gasped into his mouth as he grabbed her backside tightly. He picked her up easily a moment later, and she wrapped her legs and arms around him automatically. They still had their lips locked together, and Ren started to move his head back to ask where to go.
+
+Lara broke the kiss before he could and looked at him “My closet. Down there and to the right.”
+
+Ren practically ran down to where she said. Lara opened the door for him when they got there. He stepped inside and she shut the door behind them.
+
+Warning!
+
+You have entered a game restricted area. All skills, abilities, bonuses, and effects have been temporarily suspended. They will be restored once you leave the game restricted area.
+
+Please Note: Blue Screen protocol is in effect.
+
+Once inside the closet, they started to kiss again, and Ren still held her easily. He massaged the part he was holding, and Lara didn't know how long she could take him holding her like that, and not do anything about it. Almost as if he knew what she was thinking, he moved his hands to her lower back, and she unwrapped her legs from around him.
+
+“We... have to... stop.” Lara said, a little breathless as she broke the kiss, and stood up. “You... you should go.”
+
+“Lara...”
+
+“I told you before, Ren. My real name is Lisa.” Lara said, and ran her hands through his hair. It was just too tempting not to. She sighed and smiled. “Is it Lisa you're kissing, or Lara the Sage of Ages?”
+
+“Yes.” Ren said, and Lara stopped moving her hands and looked at him.
+
+“Wh-what?”
+
+“Yes, that's who I'm kissing.”
+
+“But... you didn't choose.”
+
+“I don't have to.” Ren said. “It's you.”
+
+“Ren...”
+
+“Do you honestly think I could run as far as I just did in real life? Not to mention carrying you while I did it?”
+
+Lara opened her mouth to respond, and Ren put a finger to her lips.
+
+“I'd probably die of a heart attack if I tried.” Ren said. “I'm still me, no matter what I can and can't do.”
+
+“But...” Lara said, and the movement on her lips made it feel like she kissed his finger.
+
+“No buts.” Ren said. “You're you, and it doesn't matter what name you want to use.” He said and moved his hands to cup the sides of her face. “We're all alone in here. No one else can see us. No one else can hear us.” He smiled. “I don't even have my Aura, or any of my awesome abilities.”
+
+Lara put her hands on his. “Ren, I...” She blushed, and Ren felt the heat through her skin.
+
+“I think this is the start of our time together.” Ren said, and she nodded.
+
+“I knew it was going to happen soon, but...” Lara shook her head. “Never mind.” She said and leaned in. “Can... can you...” Her blush deepened. “...kiss me like that again?”
+
+“It'll be your pleasure.” Ren said, and she laughed. It was a genuine laugh and a pleasant sound; one that he felt she hadn't made in a long time. He kissed her again like he had before, and laugh was the last thing she wanted to do right then.

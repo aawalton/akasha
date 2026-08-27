@@ -1,0 +1,283 @@
+---
+id: 5bb90cbc-6af5-56ad-bd3f-65939712e455
+page-type-slug: story-chapter-royal-road
+title: "Chapter 584 - Winner, Winner, Chicken Dinner"
+slug: 0584-chapter-584-winner-winner-chicken-dinner
+partOf: mythrans-master-of-all-continued-completed
+position: 584
+ownLength: 2772
+unit: words
+publishedAt: 2018-05-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215085/chapter-584-winner-winner-chicken-dinner"
+royalRoadId: "215085"
+---
+
+Ren tried to slip off the headset, but he was still too weak to do it physically.
+
+“I've got it.” Denise said. “Well, you were in a blue screen for a long time.”
+
+“The pocket realms are like that.” Ren said.
+
+“I thought you couldn't enter them.” Denise said.
+
+“Well, I can't enter portals made by the realms or their rulers, or be dragged through.” Ren said. “I'm sure Max took care of those possibilities, but he didn't take into account me making my own portal.”
+
+“That shouldn't work, though.” Denise said. “It's still a portal into another realm.”
+
+“So, you won't accept a reasonable explanation.” Ren said and smiled. “Will you accept an unreasonable one?”
+
+Denise chuckled. “Go ahead and try me.”
+
+“I was told by a very important person that I could make the Portal Spell work no matter what anyone does to try and stop me.”
+
+Denise looked at him with an odd expression. “Who is this person?”
+
+“That I can't tell you.” Ren said. “If anyone knew I'd talked to him directly, well... it might be bad for him, and definitely bad for everyone that plays the game.”
+
+“Are you sure about that?” Denise asked. “You're terrible at lying, and keeping a secret is a form of lying.”
+
+“Only if asked about it.” Ren grinned at her, and she laughed.
+
+“How are you feeling?” Denise asked.
+
+“I just spent 6 months in a Sea Dweller mine, so I'm feeling kind of grimy.”
+
+“You WHAT?”
+
+Ren laughed at her shocked face. “I'm kidding. I don't feel grimy.” He said. “Help me into the wheelchair, so we can go down to the dining room and eat with everyone.”
+
+Denise was pretty sure he wasn't kidding about the 6 months part. “We... we were all going to come up here...”
+
+“No, the table in the big dining room is much better.” Ren said and eased himself over to the edge of the bed. “Chair, please.”
+
+“Okay.” Denise said and helped him into it, then took him downstairs in the elevator to the ground floor. She pushed him across the house to the kitchen and they met Barbara, Stella, and Donald. “He says he wants to eat with everyone in the dining room.”
+
+“That's great!” Elise said as she came out of the office. She walked over to him and bent down to give him a kiss.
+
+Barbi came out of the office behind her. “I'm glad you're feeling well enough for that.”
+
+Ren smiled. “I figured I needed to get up and around as much as I can, to try and get my strength back.”
+
+“You're so strong already.” Barbi said, and Ren could see that she had been crying.
+
+“Hey, are you okay?” Ren asked.
+
+“M-me?” Barbi asked, a little surprised. “I'm f-fine.”
+
+Ren closed his mouth to stop from laughing, but Elise couldn't hold it and barked a laugh.
+
+“What's funny?” Barbi asked, and Elise had to explain it to her. “Really? I didn't know it was an acronym.”
+
+“It's not all the time, but it fits now, doesn't it?” Elise said, and Barbi smiled and nodded.
+
+“Since everyone's ready, I'll get supper served.” Denise said. “Can someone...”
+
+“I've got him.” Elise said.
+
+“Thanks.” Denise said and went to the oven to get the chicken she had cooked for everyone.
+
+“I'll set the table.” Barbara said.
+
+“I'll just stand here and look pretty.” Stella joked.
+
+“That's not a hard job.” Ren said, and she chuckled.
+
+“Get going, you!” Stella said.
+
+“Come with me!” Ren reached out dramatically. “It's so far to go!”
+
+“It's like 20 feet.” Stella laughed and took his hand.
+
+“I wanted to ask if you've had any luck contacting Gloria.” Ren said and she sighed. “I guess that's a no.”
+
+“She's not answering her phone or my texts.”
+
+“I hope everything is okay.” Ren said.
+
+Elise pushed him into the dining room while he talked to Stella.
+
+“I'm sure she's just busy, or she left her phone somewhere.”
+
+“I hope it's that simple of an explanation.” Elise said. “With the way things have been going lately, and with... with everything Ren said...”
+
+“I should tell you not to let that color your judgment, but it's going to no matter what I say.” Ren said, and she looked down at him with wide eyes. “Even telling you that I'm still me and that I love you, won't change what you think about what I went through.”
+
+“Ren, you don't have to...”
+
+“It's all right.” Ren said and pat her hand with his free one, because he still had a hold of Stella's hand. “You know that old saying about people not talking about the elephant in the room?”
+
+Elise nodded.
+
+“I don't want the elephant's poop to drown us before we talk about it.”
+
+Stella snorted a laugh, and Ren smiled.
+
+“Plus, there's other stuff I need to discuss with you.”
+
+“Just me?” Elise asked.
+
+“With all the women in my life, actually.” Ren said. “It's getting harder to get you all together at once, though.”
+
+“You might want to stop picking them up like stray puppies, then.” Donald said as he entered the dining room and sat down with a handful of silverware.
+
+“Donald!” Barbara said as she set down the dishes.
+
+“What? It's true.” Donald said. “I know he's cute and all, but damn.” He looked at Stella, Elise, and Barbi; then Denise entered the room with a covered tray. “He must have something going for him that I just don't see, because it doesn't make sense for him to have so many beautiful women around him all the time.”
+
+All of their faces flushed red, even Barbi's.
+
+“You all go out of your way to help and protect him as much as you can, too.” Donald said. “You even gathered together to make a stable home life for him.” He said. “I've never seen any of you fight with each other, though.”
+
+“That's because women handle things differently than men.” Ren said, and everyone looked at him. “They handle it discreetly, usually away from men's eyes, if there's a conflict that concerns him.”
+
+“How do you know that?” Stella asked.
+
+“It's part of the 'protecting me' part Donald mentioned.” Ren said. “I know some of you fight; but, you usually do it away from where I can see and hear it, so it doesn't cause me any stress for putting you into the same house together.”
+
+“You're a lot smarter than your IQ tests show.” Barbi said.
+
+“Those tests are old and completely biased.” Ren chuckled. “I hadn't had any exposure to normal things until I was 12, so I had no references for most of the common questions.” He said. “Plus, I was pretty traumatized at the time.”
+
+Stella, Denise, and Barbara exchanged glances, then looked at Ren.
+
+“Yes, I can remember taking it. I don't really want to take another one; but, I'm pretty sure Stella is going to work one into my next VR medical research test.” Ren said and smiled.
+
+“You do know me well.” Stella smiled back.
+
+“You see that interaction?” Donald asked. “I've been trying to fit you into the standard family model, and the farthest I've gotten is Barbara as the mother.”
+
+“Donald, we can talk about this later.” Barbara said.
+
+“Why? It's still going to be the same conversation later, just with less people around.” Donald grinned. “The rest of you I can only class as wives... in reference to Ren, I mean.”
+
+“What about in reference to each other?” Elise asked.
+
+“To each other?” Donald pointed at Stella and Elise. “Respected colleagues and becoming close friends.” He pointed at Stella and Denise. “Sisters, with a bit of jealousy mixed in.”
+
+“I'm not jealous.” Denise said, and Donald smiled.
+
+“Lisa's not here, but I have her pegged. She's as close to a female Ren as anyone can get. You all are starting to treat her the same way, and she's becoming a little wife to you all, including Ren.”
+
+“And Gloria?” Ren asked.
+
+“She's a square peg in a round hole.” Donald said. “She fits just fine, but there's a lot of room for her to move around in.”
+
+Ren smiled, because he remembered using the same analogy to describe her. “You do your old job justice, sir.”
+
+“Not yet I haven't.” Donald said. “You need to get better before I can do that.”
+
+“I'll do my best.”
+
+“I know you will.” Donald said. “Maybe by then we can figure out what roles to call everyone.”
+
+“Actually, I think you got it right the first time.” Ren said and looked at Barbara. “I have a mother who loves me as a mother should...” He looked at Stella, Elise and Denise. “...and women who can easily fill the role of a wife.”
+
+Their faces flushed red again, and Denise finished adding food to the plates Barbara had set out for everyone.
+
+“We should eat, and maybe this awkward conversation will die a nice quick death.” Denise said, and everyone laughed.
+
+“I feel a little left out, since I don't fit any of the descriptions of a family member.” Barbi said as she started to eat.
+
+“You haven't been around long enough to find a role, let alone fit a description of one.” Ren said. “It's too soon to try and mold yourself into something, when you probably don't know what it is you want to do.” He smiled. “Believe me, you don't want to chose a role and realize you messed up, then get stuck playing that role for a long time.”
+
+“Yeah, you really don't want that to happen.” Denise said a little morosely, and Stella pat her shoulder.
+
+“We've all been trying to find our way as best we can, so we can't expect you to be any different.” Stella said and sat down. “Of course, this is assuming Ren has any kind of romantic feelings towards you.” She said and started to eat. “If he does, then we can start worrying about trying to integrate you into our dynamic.”
+
+Everyone turned and looked at Ren, and he could see the expectation in their eyes. He knew they fully expected him to declare her a part of their family and to accept her.
+
+Ren held up both hands in a clear stop gesture. “Barbi just started coming around here, so no one should expect me to develop feelings for her so soon.”
+
+Barbi averted her gaze when Ren tried to look at her.
+
+“I'm not saying it won't happen, especially if you stick around and help out as much as Elise says you do; but, I don't know you very well, Barbi. It takes time to get to know people well enough to accept them into your life.” Ren said. “Plus, I haven't seen any of you in 6 virtual months.”
+
+“Wh-what?” Elise asked, surprised.
+
+“I returned Railyse, the Sea Dweller's Ambassador to the Land Dwellers, to the Water Realm.”
+
+“But... that doesn't...”
+
+“Well, I did it against her will because she wanted to stay with me. When we got there, the Queen wasn't the Queen anymore, so I had to keep Railyse safe by holding her. I defeated the current Queen and took control of the realm, which meant Railyse was safe. I freed her and she attacked me, which let her take control of the realm from me.”
+
+“Wait, what?”
+
+Ren chuckled. “Long story short, Railyse is the new Queen. She charged me with kidnapping her and sentenced me to 6 months of hard labour in the mines.”
+
+“Good god, you and your flipping mines!” Elise exclaimed.
+
+Ren laughed. “It's a lot better than sitting in a cell and doing nothing.”
+
+“According to you.” Stella said and smiled.
+
+“Well, yeah.” Ren said. “Of course, that's not all that happened.”
+
+“This should be a good story.” Denise said. “Go ahead and tell it.”
+
+“Keep eating, all of you.” Ren said and took another bite of food, then waggled his fingers in the air. “I will reveal all the mystical splendor as the meal progresses!”
+
+That made several of them laugh, and while everyone ate, he told them all about his adventures in the Water Realm.
+
+*
+
+Gloria was currently in technology tinkerer heaven.
+
+She had received a call from a representative of what she thought of as one of the major players in the microchip industry the day before and had spend all day researching it. The call had been completely out of the blue, or so she thought. It wasn't until she had arrived at the company the next day and was being given the grand tour of one of the test labs, that her guide had let it slip that the Dean of Sciences at her college had praised her work to the head of the company.
+
+Gloria felt nothing but grateful to the man after the incident with her college professor, and hearing that his words about her had gotten her an exclusive look into the industry she has had her eye on since she was young, propelled the man to a much greater height in her appreciation of him.
+
+“This is the new chip design for next year's tech competition.” The guide said and pointed into the clean room. “I don't feel guilty showing you this, because none of the new innovations we've made have been added in yet.”
+
+“Do I need to ask why it's nearly a foot across?” Gloria asked, and he chuckled.
+
+“We always work in a macro-scale at first, so we can work out the proper pathways.” The guide said. “If we tried to lay down the electron paths in actual scale without testing it first...”
+
+“Oh! You did that, didn't you?” Gloria asked and grinned.
+
+The man nodded. “It wrecked a whole line of chips because we had inadvertently touched two of the pathways by accident, and no one caught it until we tried to test it.”
+
+“Oh, wow.” Gloria said. “Did you have to go all the way back to the drawing board to find the fault?”
+
+“Unfortunately.” The guide said. “It set us back almost 2 months, and it pushed back the release of the chip by almost 6 months by the time we had it all set up properly and started production.”
+
+“What... what did that cost the company?” Gloria almost whispered the question, because she knew a delay of half a year affected a lot more things than just the product you were currently making.
+
+“Three techs and an executive lost their jobs, and the company lost about 30 million dollars.”
+
+“Oh, god.” Gloria said.
+
+“Don't worry about that.” The guide said. “It hasn't happened once since we started working in larger scale first and then miniaturizing.”
+
+“I'm glad.”
+
+“You should be.” The guide said and walked down the hallway to a door and opened it. “I'm hoping you'll be a valuable asset to the tech construction team.”
+
+“Excuse me?” Gloria turned and looked at the man before stepping into the room. “I thought this was just a tour of the facilities.”
+
+“It is just a tour of the facilities.” The guide said and motioned into the room. “The interview doesn't begin until right now.”
+
+“Wh-what?”
+
+“Please have a seat, Ms. Rayford.” The guide said, and Gloria walked into the room and sat in the chair in front of the desk. “I've looked over your resume and your qualifications, and I have to say I'm impressed.”
+
+“S-sir? How did you... I didn't bring...”
+
+“Relax, Ms. Rayford.” The guide chuckled. “I'm one of the peers that reviews the medical research grants at the university.”
+
+“Oh.” Gloria thought. That makes sense.
+
+“As I was saying, with your work on the grant and your exemplary work on that course project, you've caught my attention.” The guide said. “That doesn't happen very often, so when it does, I don't waste any time.”
+
+“Waste any time on what?” Gloria asked.
+
+“I want to offer you a job.”
+
+Gloria blinked her eyes for several moments and just stared at the man. “But... I thought... you were just a guide.”
+
+The man laughed. “I'm glad you have a sense of humor.” He said. “Just because I wouldn't trust anyone but me to take someone on a tour, doesn't mean I'm only the guide.”
+
+“Then who are you?” Gloria was almost sure he was a recruitment officer, or at least a department head, and that made her nervous because she hadn't been on her best behavior today.
+
+“My name is Barley Bitterdew, and I own this company.”
+
+Oh, my GOD! Gloria thought as her mouth dropped open in shock.

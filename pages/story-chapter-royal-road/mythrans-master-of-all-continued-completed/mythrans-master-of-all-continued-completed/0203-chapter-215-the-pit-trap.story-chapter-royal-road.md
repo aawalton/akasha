@@ -1,0 +1,277 @@
+---
+id: 5d59ee30-12db-5f2c-ac97-0330c50c04b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 215 - The Pit Trap"
+slug: 0203-chapter-215-the-pit-trap
+partOf: mythrans-master-of-all-continued-completed
+position: 203
+ownLength: 3549
+unit: words
+publishedAt: 2017-04-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128102/chapter-215-the-pit-trap"
+royalRoadId: "128102"
+---
+
+Using his mount's exceptional speed across the tops of the battlement walls, Ren continued to deal with the giants. The technique he used varied with each encounter; Princess tripped one and Ren subdued it, another was easily webbed to the wall it was trying to beat through, one he used the leg-holding trap, and one giant he only had to get within his Aura's radius, and the grub popped right out.
+
+“Sir, the pit trap is ready.” The Sending Square said in the Commander's voice. It had taken several hours for the pit trap to be ready, and Ren had already dealt with 15 more giants. He could have defeated even more than that, but they were spaced so far apart that he spent a lot of his time traveling and setting up encounters to capture the giants. Ren concentrated on the Commander and spoke back.
+
+“I've already got 6 of the little monsters in a sack.” Ren said. “I wasn't sure only one would be enough.”
+
+The Commander didn't say anything back, and Ren smiled. He had forgotten to tell him the Sending Squares didn't have the same restrictions as a Sending Stone.
+
+“I'll start running these things along the damage paths to draw out the giants still inside. Once I do that for each spot with the giants that still remain, I'll drag the sack out into the wilderness and drop some more pheromones.” Ren waited for a minute for the Commander to realize the Sending Square was still working. “I'll make a direct path from there to the pit trap. If we can draw enough of them to the spot, we can actually leave the pit there and keep capturing the giants. Once the pit trap is open, we can make more pheromone paths out into the wilderness by dragging the sack out from the pit.”
+
+“How are you still talking?” The Commander asked.
+
+“My mouth still works.” Ren said and laughed.
+
+“No, I meant... you know what I mean.”
+
+“Yeah. These squares are only limited by distance, not usage. Out to about 10 hours by cart, actually.” Ren explained.
+
+“How long have you had them?”
+
+“About 2 months.” Ren said. “That's counting the month I was away with Adventurer's business.”
+
+“We need these squares.” The Commander said. “You don't realize how easy it will be to get messages to the other deployed squads around the Garrison.”
+
+“It takes a heck of a lot more than 10 hours to travel by cart along the Garrison.” Ren countered.
+
+“We'll set up relays. One bunch of squares to connect the several miles within that first section, then a single pair to connect to the next section. Etcetera, etcetera.”
+
+“That would take a while to set up.” Ren said. “I'm a little busy right now.”
+
+“Agreed. We can worry about the communication problems later.” The Commander said. “Good luck, and watch your back.”
+
+Ren unhooked the sack from Princess' saddlebag and cut several small holes in it, and sewed them around the edges so that they wouldn't tear. It exposed the small grubs inside without letting them escape, and he tied the sack to the saddle with a rope that one of the dwarves had given him.
+
+“Riley, Stacy.” Ren said to the dogs. “You've been a big help, but Princess and I are going to be running really fast now. I know you can almost keep up with us if we aren't going all out; but, until I find a speed spell...”
+
+The dogs barked softly and sat down. Ren felt consternation from them, and then Princess gave him an idea.
+
+Remember hooves of speed...
+
+Ren turned around to look at her, and then he grinned. “That's a great idea!” He said, and took out a piece of scrap cloth. He measured the outside dimensions of Riley's and Stacy's paws, and then did up a design for little boots for them. He left the tips of the boots open so that the retractable claws wouldn't cut the fabric; then Ren sewed up 4 pairs of dog-sized paw-shaped boots and dyed them black.
+
+“These are just temporary.” Ren said. “If I remember to do it when I get back to a forge, I'll make metal versions.” He accessed his Craft Wondrous item ability, and the 1 foot square golden platform appeared. He placed each pair of boots on it, and made them into Boots of Striding and Leaping. Ren put them on both dogs, and they combined to give each dog a 50% boost to speed and doubled their jump distance.
+
+“That should be enough for you to keep up.” Ren said. “If it's not, head out to the spot where the pit is. I'll meet you there.”
+
+Riley and Stacy barked softly, and Ren climbed back into the saddle.
+
+“Okay, guys. Let's go!”
+
+Princess took off down the last path of damage Ren had come down to get the giant, and they dragged the sack behind them. The dogs had no trouble keeping up with them. Thanks to Princess' speed, Ren managed to go all along the parts of the Garrison where giant sightings had been reported. After he reached sight of each report, he would drag the sack of exposed grubs out to the wilderness to the same spot, picked it up, and then went to the next sight to do it again. It took another 3 hours to do it, and Ren covered nearly 20 hours of distance. He didn't hear of any new reports, so when he was done, he dragged the sack back out towards the wilderness.
+
+“RWWWAAAARRRR!”
+
+Ren heard a bellow and turned around. The giant from that last damage path ran out through the opening after them.
+
+“Perfect! Let's go!” Ren said, and Princess took off at a good run, with Riley and Stacy close behind, and the giant right behind them. As they moved through the wilderness back to the spot he'd picked at random, Teepo warned him there were more giants close by.
+
+“This is where it gets dangerous! Riley, Stacy, stay sharp! Head to the pit!”
+
+The dogs peeled off to the right and disappeared from sight. Ren took out one of the vials of pheromones and sprinkled a little bit on the sack of grubs. He heard a dozen more yells and roars from nearly all around them; and Ren told Princess to not waste any time and to head to the pit trap. A giant crashed through the trees in front of them, and Princess weaved between it's legs and just barely missed getting caught by the next giant. The one chasing them hit the one that jumped out, and they tumbled to the ground. Ren didn't wait to see if they untangled themselves, because all of the other giants were now chasing him.
+
+Princess couldn't run full out because of the trees; but the giant's didn't have that problem and barreled through them as if they weren't there. Ren wasn't sure how they could to that, since he could see several of the giants had broken arms.
+
+It's just like that giant I fought that pulled the webbing off it's head. It didn't react at all when the web took most of the giant's hair with it. Ren thought. That numbness venom must be powerful stuff!
+
+Princess led the giants through the trees and through several open areas.
+
+They aren't slowing down, either. I wonder if the numbing venom somehow bypasses the Stamina bar.
+
+Ren pondered the idea as they made their way back to the pit, then he thought about the Commander.
+
+“I've got a whole bunch of giants chasing me.” Ren said. “If you have anyone near the spot, or between here and there, clear them out now.”
+
+“Understood.” The Commander said.
+
+He's really chatty. Ren thought in amusement.
+
+“He doesn't seem like the type that talks much.” Teepo commented. “We're coming up to the cut-off point.”
+
+Right! Ren thought. “This is it! Are you ready, Princess? It's a big drop.”
+
+He felt Princess' amusement, and he scratched her neck.
+
+“It's all or nothing time!” Ren said.
+
+“Yeah!” Teepo said, and Princess huffed and poured on the speed as they broke out into the clearing where he'd said to dig the pit trap. Riley and Stacy were on the other side, and waited for them. When Princess hit the part where the dirt was barely being held up, her stride faltered slightly because the ground was a lot softer than it should be. She kept going as best as she could, and then the giants came into the clearing right behind them.
+
+“Jump!” Ren said, and Princess kicked off from the ground and leaped as far and as high as she could. The giants chasing them hit the pit trap and took several running steps before the thin supports that held up the top ten feet of dirt let go. Time seemed to slow down as Princess flew through the air and the ground fell out from underneath her and the giants, and the entire pit trap opened up as the giants tumbled down the 50 feet to the bottom. Princess barely managed to land on the far side of the pit trap, and skidded to a stop beside Riley and Stacy.
+
+She turned around and Ren watched as giant after giant kept running after them, and fell into the pit instead. Teepo took off from Ren's shoulder to scout for anything else that might be approaching, and froze as he looked at the side of the pit trap Ren was on.
+
+“Ren! There's a giant coming up behind you!” Teepo said, and Ren turned just in time to see a giant come through the other side of the clearing. Ren used the grease wand, and the giant slipped and fell to the ground, but kept coming towards them on momentum alone.
+
+“Oh, crap!” Ren exclaimed. “Run!”
+
+Princess tried to run to the side, and managed to get out of the giant's path; unfortunately, the giant was too close and grabbed the sack that was tied to her saddle. The giant slid by and into the pit trap, then dragged Princess and Ren along with it.
+
+“NOOO!” Teepo hollered as his best friend fell into a 50 foot deep pit with over 60 angry giants inside.
+
+*
+
+“They still aren't back yet?” Ereka asked Nathalia as she came into the kitchen to have supper.
+
+“No.” Nathalia said. “But, I'm not worried. They're probably still too far away to call and let us know what's going on.”
+
+“I don't know how you can keep so calm during a crisis.” Ereka said. “I can make myself forget the situation for a while when I get busy; but other than that, it's all I can think about.”
+
+“I've had lots of practice.” Nathalia said, then got a surprised look on her face. “I just realized what that means. I've been in so many situations like this, that it's not a big deal.” She sat down, kind of shell-shocked. “When did I become so nonchalant about the man that I love being in danger?”
+
+Ereka put a hand on her shoulder. “I think it's the amount of danger that's kind of made you numb to it.” She said. “Like you said, he's only going up against one giant. If he was facing a group of giants, I think you would be reacting differently.”
+
+“I certainly hope so.” Nathalia said and smiled.
+
+“Ereka?” Croggart's voice emanated from Ereka's pocket. She dug out the Sending Square that was paired up with Croggart's, and smiled in relief.
+
+“Croggart! You made it back!” Ereka said. “Did you rescue Groggot?”
+
+“Yes, but there's no time for that right now.” Croggart said. “Pack your things. We're leaving.”
+
+“WHAT?!?”
+
+“Pack your things. We have to go.”
+
+“Why? What happened?”
+
+“I'm not going back to the Garrison and prison.”
+
+“Croggart, they won't keep you in prison.” Ereka said. “They'll find you innocent of Nershan's death.”
+
+“You always look to the bright side of things.”
+
+“And you always try to avoid responsibility.” Ereka said and laughed. “Let me talk to Groggot.”
+
+“I said there's no time for that.” Croggart said. “Get over here and pack your things.”
+
+“You're at the house?” Ereka said, surprised.
+
+“Yes. Now, let's go!”
+
+“Not until you tell me what's going on.” Ereka said, sternly.
+
+Croggart sighed. “Ren tried to take me back, and I couldn't let him.”
+
+“What did you do to him?!?” Nathalia exclaimed after touching the Sending Square.
+
+“Nothing.” Croggart said, and both Nathalia and Ereka winced.
+
+“You lying piece of...” Nathalia tried to say, but Ereka pulled the Sending Square out of her reach.
+
+“Croggart, tell me what you did.” Ereka said, much more calmly than she felt.
+
+“I used a sleep spell on him, and sent him to the Garrison with his cart and mount.”
+
+“No!” Nathalia said.
+
+“What is it, Nathalia?” Ereka asked.
+
+“Ren won't react well with a sleep spell.” Nathalia said. I've used my sleep ability on Ren a few times already. If he had a sleep spell used on him, too... She shook her head slightly. I hope he's okay.
+
+“What is it?” Croggart asked.
+
+“Nathalia said Ren will react badly from the spell.”
+
+“Huh. I wondered why it worked on him for so long.”
+
+“How long?” Nathalia asked.
+
+“How long?” Ereka asked Croggart.
+
+“It was only supposed to be for a couple of minutes, but it lasted for the two hour trip to the Garrison after I used it this morning. I don't know anything past when I left him there.”
+
+“By the gods.” Nathalia said. “He could still be asleep!” She looked at her Sending Ring, and concentrated on Ren. “Ren? Can you hear me?” She said, a little desperately. “Please, be okay!”
+
+There was no answer.
+
+“Croggart, how could you do that to him after everything he's done for you?” Ereka asked. “After everything he's done for all of us?”
+
+“I've spent enough time in jail, thank you very much. I'm not going back.”
+
+“Well, you aren't dragging me along with you, either.” Ereka said. “I'm staying right here.”
+
+“Ereka, please.” Croggart said. “With Groggot gone into the giant lands, you're the only family I have left here.”
+
+“Groggot did WHAT?!?”
+
+Croggart sighed. “Now you know why I didn't want to talk about it right now.”
+
+“You will tell me everything right now, mister!” Ereka said, vehemently. “Or I will never forgive you!”
+
+“That's pretty much it. We saved Groggot, and then Ren saved the giant from some head slug. When she woke up, Ren took us to the giant lands to drop her off. Once there, they said she wasn't allowed in, so her and Groggot snuck in. Ren and I left, and on the way back I used a sleep spell on Ren, and here I am.”
+
+“You jerkface!” Ereka said. “If Ren ends up hurt from this, you are going to pay! Do you hear me? I'll make you pay!”
+
+“Oh, come on.” Croggart said. “He's an Adventurer. He gets hurt all the time.”
+
+“Not from people who are supposed to be his friends, you idiot!”
+
+“It was just a sleep spell.” Croggart said. “What's the worst that could happen? He falls asleep?”
+
+*
+
+When Ren and Princess had been dragged over the side of the pit, he'd tried to hold on; but, he had tumbled away before they had landed on the bottom. Ren had also banged his head when he'd fallen onto the giant. He wasn't sure what it was that he had hit; only that it was hard and it had knocked him out cold.
+
+Ren tried to open his eyes, and all he could see was the underside of a grub. He wasn't sure how long he'd been asleep; but it must have been a while. When he moved the grub on his face away, he saw that he was covered nearly head-to-toe in the small Brain Arthropod Grubs. One was digging at the side of his head, and Ren pushed it away. The grub was covered in blood, so he felt his ear, then sighed. It was in tatters, and his hand was covered in blood. Ren took out a piece of cloth and held it to his ear, and was really glad that the fist-sized grubs couldn't fit inside his ear like they so desperately wanted.
+
+Ren sat up and looked around as the grubs squealed at him for disturbing them. The giants didn't react to his movements at all, and were gathered in the center of the pit. He thought that behavior was a little odd, considering how hard they had been chasing him, and then he remembered the sack of grubs with the pheromones sprinkled on it. That must be what they are all standing around, so Ren pushed the other grubs off and stood up. He felt woozy and fell to his knees.
+
+“Ren!” Teepo said as he flew over to him. “Hurry! Princess is hurt!”
+
+Ren nodded and tried to stand again, with the same result. Crawling it is. He thought and started to move in the direction Teepo flew off to. The giant that had dragged them down was nowhere to be found, but Ren did find Princess.
+
+“Oh, no!” Ren said when he saw what she looked like. He ignored his own condition and half-ran, half-stumbled over to her and knelt beside her. The rope the sack of grubs had been tied to, had wrapped around one of her back legs somehow during the fall. Unfortunately, the giants really wanted that sack, and had taken it in the most brutal way possible. Her back leg was now pointing nearly straight out to the side.
+
+“I'm so sorry, Princess.” Ren said, tears in his eyes.
+
+“I saw what happened.” Teepo said. “The giant stepped on her other back leg, and pulled the sack away.”
+
+Ren looked at her other leg, and got angry. “Godsdammed giants!” He said as he took out one of the venom-covered mandibles he had looted from one of the large brain arthropod grubs, and rubbed it across both legs. Princess sighed in relief, and Ren pat her neck.
+
+“It's okay.” Ren said. “I'll get a healer here as soon as possible.”
+
+Princess huffed, and he scratched her chin as he concentrated on the Commander.
+
+“I need a healer in the pit trap.” Ren said. Teepo, where are we?
+
+“North side, just under the overhang.”
+
+“I'm on the north side, just under the overhang. My mount's legs are broken. I need a healer right now.”
+
+“I'm sorry, Ren.” The Commander said. “But I won't send a healer out there with over 75 giants in there, with more coming every few minutes.”
+
+“Don't worry about them.” Ren said as he stood up. He still felt woozy, but he ignored it as he concentrated on his Fear Aura. A sharp pain lanced through his brain, and he rubbed the venom-covered mandible over his head. The numbness venom didn't get rid of the pain completely; but, it did lessen the feeling some, and he smiled. “There won't be any awake in about two minutes.”
+
+“How can you be so sure about that?” The Commander asked.
+
+“I don't have to chase them down, or set them up to use my Fear Aura and Screaming Terror trick. They're all right here in front of me.” Ren took out his hammerpick and enchanted it with Screaming Terror as he walked towards the center. “And in the pit, I don't have to be careful of collateral damage to the Garrison.”
+
+“What do you mean?”
+
+“I mean...” Ren said as he put on the helm he almost never wore, and took out the golden shield that he'd taken so long ago from the temple where he'd found the last piece of meteoric ore, and enchanted it with Screaming Terror as well. He formed a Connection between it and the hammerpick, and smiled. “...these grubs are going to find out what it means to hurt one of my friends!”
+
+Ren made a Connection between the hammerpick and the Dire Wolf Hooded Cloak, and activated both Screaming Terror enchantments. Both the hammerpick and the shield glowed as the enchantments were amplified and funneled through his Fear Aura.
+
+Stat Change!
+
+Aura (Dire Wolf Hooded Cloak) Level 4 (Expert 0%)
+
+Fear Level 3 (Expert 0%)
+
+Pain lanced through Ren's brain again; but, he smiled as the entire pit was filled with screams of pain from the giants.
+
+“That's right, you little pieces of garbage!” Ren said, and felt his blood boil. “It's time for you to pay!”
+
+Notice!
+
+You have unlocked a hidden Honorary Dwarf ability: Controlled Berserk Rage
+
+This skill allows you to make continuous attacks by using your Stamina Bar as a timer, as if you were running.
+
+Warning: This ability causes severe exhaustion after every use.
+
+“RaahhhHH!!!” Ren yelled as he started to swing the hammerpick at all the grubs, both large and small, that fell to the ground from the ears and mouths of the giants as the overwhelming fear he continued to generate forced the grubs to try and flee. If he paced himself, just like when he ran, he could keep doing this for as long as it would take.

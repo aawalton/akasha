@@ -1,0 +1,381 @@
+---
+id: 595a3a5d-216f-5e9f-9e3d-c61dada9a63f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 293 - The Award"
+slug: 0284-chapter-293-the-award
+partOf: mythrans-master-of-all-continued-completed
+position: 284
+ownLength: 4851
+unit: words
+publishedAt: 2017-06-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145265/chapter-293-the-award"
+royalRoadId: "145265"
+---
+
+Ren led the 5 female dwarves down to the road and to the waiting carriage.
+
+“It's beautiful.” One of them said.
+
+“Tee-one and I can do great things when we work together.” Ren said, then the gate to House Neram Keep opened and Nathalia and Ereka came out.
+
+“Hi, Re-WHAT ARE YOU DOING?” Nathalia yelled when she saw his personal maids standing around him.
+
+“They're my dates.” Ren said. “Surprise.”
+
+“You... YOU...” Nathalia looked like she was going to start ranting and raving at him, and Ren could feel how she felt. He walked over to her and took her hand.
+
+“Before you say something you can't take back, they are already under personal maid contracts that can't be altered.” Ren said. “Even bringing them in front of the kingdom's ruler cannot initiate a marriage contract, not without removing the old contract first.”
+
+Nathalia opened her mouth to say that it was a bad idea to bring them; but, then she thought about what Ren said.
+
+“You can't have a marriage contract with them.” Nathalia said. “And they're okay with you parading them around like this?” She waved at the fancy dresses and jewelry.
+
+“More than okay.” One of them said. “He didn't order us. We're doing this of our own free will.”
+
+Nathalia sighed. “Warning you...”
+
+“It won't make any difference.” Ren said. “They are the only ones I can take that won't automatically get me married.”
+
+“But... couldn't you have...”
+
+“...just picked one?” Ren asked, and Nathalia nodded slightly. He stepped to the side and motioned to the personal maids. “With almost no information about them, their personalities, or their feelings, which one should I treat as a favorite and take on a date, and who should I let stay here?”
+
+Nathalia looked at them, and then at Ren. “You didn't want to choose at random.”
+
+“I couldn't just choose one; that would insult the one I chose and the rest at the same time.” Ren said. “I'm not going to argue about fairness or anything like that.” He smiled. “When I decided they were going, either they were all going or no one was.”
+
+“You didn't tell us that!” One of them said, and he felt their surprise.
+
+“It would have influenced your decision if you knew.” Ren chuckled.
+
+“You're sharing your Aura with them!” Nathalia said, surprised. “Why can't I feel their emotions? Are you blocking it?”
+
+Ren shook his head. “The Aura can only be shared with someone that had a similar experience, but I'm a little surprised you can't feel them through me.”
+
+“Me, too.” Nathalia said. “Ereka? Can you feel them?”
+
+“No, but I think that's because Ren's not concentrating on his House Neram pendant.”
+
+“Oops, I forgot.” Ren said, then added in the House Neram Aura. The 5 personal maids and Ereka gasped as their Aura's merged with each other and then the artificial one around the carriage, which in turn merged with the one around the Keep. Since Ren was the central focus, he eased the amount of feelings flowing out through the shared Aura, and they all breathed easier.
+
+“No wonder he doesn't do that all the time.” One of the maids said. “I think we'd all be drunk on his emotions, otherwise.”
+
+“That sounds kinda nice, actually.” The bold one said. “I don't mind basking in his glow.”
+
+“That was my thought when I first felt it, too.” Ereka said. “It's so...”
+
+“...overwhelming!” The youngest one said and looked at Ren. “It's... it's not scary, though.”
+
+Ren felt what she felt, and smiled. She enjoyed it a lot, and that was a little scary for her because of the way she had been treated. He reached a hand out to her, and she took it with wide eyes. Ren brought up how he felt while relaxing in the Jacuzzi in real life, and let that calmness fill the Aura.
+
+“Wow.” She said. “It's so great that you can do that.”
+
+“This night is going to be fun, and probably a little scary.” Ren said and smiled as he led her over to the carriage. “Let's get to it.” He opened the door of the carriage, and helped each of the women climb up and get inside. When they were all inside, he closed the door. “I'll be right back.” He said and ran inside the Keep and into the house.
+
+*
+
+“I can still feel him!” One of the maids said.
+
+“The size of his Aura changes depending on what he's thinking about at the time.” Nathalia said. “His personal Aura is 50 feet, and that doubles when he wears the cloak.”
+
+“He mentioned picking up a cloak.” Another one said. “Is that it's ability?”
+
+Nathalia shook her head. “No, all it does is grant access to Auras.” She smiled. “Ren filled them, though.”
+
+“Them?”
+
+“The cloak gives off an Aura by itself of 50 feet now, and it also gives Ren access to Fear which is also 50 feet.”
+
+“That's what he used against the giants.” One of the maids said. “Combined with a Screaming Terror enchantment, whatever that is.”
+
+“It's a glyph of his own design.” Nathalia said. “He's used it quite a few times.”
+
+“He can do so much.” Another of the maids said. “He's a great Adventurer.”
+
+The personal maids all froze still as they felt the Aura change from awe to a slight menacing feeling with a tinge of Fear.
+
+“By the gods.” One of them said, and tried to catch her breath.
+
+*
+
+Ren had checked to see if the tarantula was still tucked into the Dire Wolf Hooded Cloak, then put it on and sighed as his Aura expanded out. With his personal Aura at 50 feet, the cloak added 50 feet, and he has split his concentration between his new Contact Aura of 15 feet and the House Neram Aura of 40 feet. All in all, it came to a whopping 155 feet when he was alone.
+
+“Ah, you don't realize what you miss until you go without it for a while.” Ren said, then thought about the other Auras the women shared with him. It was 75 feet for the 5 personal maids, and 30 feet from Ereka. If he added them in, his Aura was out to 260 feet.
+
+That's not counting my Fear, Command, or Camaraderie Auras. Ren thought. I'd be over 300 if I added one of them. He walked towards the door. I wonder why Nathalia is only using the 'collective' thing her mother unlocked? She's not getting all of this.
+
+*
+
+“He's coming!” The youngest maid said. “How is he doing that?”
+
+“It's one of the benefits of sharing with him.” Nathalia said. “You can pinpoint others inside the shared Aura.”
+
+The maids all looked at her with questions on their faces.
+
+“No, I'm not sharing Auras.” Nathalia said. “I get a headache after a while.”
+
+“Will we get one, too?” She asked.
+
+“It depends.” Ereka said. “Unlike Nathalia, it never bothers me.”
+
+“So, you're saying you don't know.” The bold maid said. “We'll find out soon, I guess.”
+
+*
+
+Ren came out of the house, walked over to the carriage, and climbed inside to sit by the door. He had felt the swirling emotions that had been moving around the shared Aura, but he ignored them for now.
+
+“To the castle, please.” Ren said to the driver, and Teepo flew out to scout ahead when Deliliah flicked the reins and started the ponies off with a good trot.
+
+********
+
+Officer Holly Stonewall had no idea what had happened, but when she'd seen her partner's tear streaked face and he'd asked her to leave, she gathered their things up immediately and left with him. Once out of the house, she had convinced him that staying for the night was the best idea, rather than packing up and taking the two hour drive in his current emotional state. John had only nodded and drove back to the inn without saying a word.
+
+When they were alone in the room, John finally broke down and sobbed. Holly had never seen him react like that to anything, and they had seen some awful things on the job. It had taken her over an hour to calm him down enough for him to relay the story of what had happened between him and his niece, Nancy.
+
+“Oh, John.” Holly had said as tears came to her own eyes. Her heart had broken just as much as his did, because she knew how much he loved his family. Nancy had wounded him deeply by telling him she never wanted to see him again. Holly didn't even try to convince him that Nancy was only saying it to convince him to return her feelings, because it didn't matter why she said it. All that mattered was that she did, and he had to deal with the implications.
+
+John had clung to Holly in the bed after he had frantically made love to her. He was full of desperation and hurt, and Holly had held him closely as he vented his frustration out in the only way that he could. He looked like he was asleep now, and Holly stopped stroking his hair.
+
+“Thank you, Holly.” John said, much to her surprise.
+
+“Are you going to be okay?” Holly asked.
+
+“No.” John said. “But, I can't let that stop me.”
+
+“I'll help you out when I can.” Holly said and smiled. “When you need a shoulder to cry on...”
+
+“You don't have to do that.” John said, then looked at her. “You've helped me so much already.”
+
+Holly took his hand and held it. “I won't throw you away so callously.”
+
+John lifted their clasped hands and kissed hers, then let it go and cupped the side of her face and kissed her deeply on the lips. Holly responded to his need again, and hugged him as he proceeded to pleasure her. He was gentle and forceful at the same time, and it drove Holly a little crazy. She let John do things to her that she'd never let anyone else do to her. Ever.
+
+********
+
+“You aren't going to believe this, Ren.” Teepo said.
+
+“Whoa.” Ren said as the carriage came to a stop in front of the Main Keep. They had dropped the illusion and the castle could be clearly seen as it towered over the Main Keep. Dwarves covered all of the available space, and Ren noticed that there weren't any guards on the main gate.
+
+“They're not checking people.” Ren said. “Anyone could come in with anything.”
+
+“Everyone is here.” Nathalia said. “I don't think it matters much at this point.”
+
+“This is when it would matter most, though.” Ren said and reached for the door of the carriage. “It looks like we're walking from here.”
+
+“Hold on, Ren!” Teepo said. “Something's coming.”
+
+What is it? Ren thought to his friend.
+
+“It's a platoon of heavily-armored dwarves.” Teepo said. “They're splitting off and opening a way for us to go through.”
+
+How do you know it's for us?
+
+“The Commander is leading them.” Teepo said.
+
+“Wait here.” Ren said and got out of the carriage. The dwarves close by had never seen a carriage like it before, and a few of them had felt a strong Aura; but they hadn't known it was Ren until he stepped out into view. A hush fell over the crowd, and they parted for the oncoming troops.
+
+“Good evening.” The Commander said, and reached out a hand. Ren grasped his forearm in a formal greeting.
+
+“Good evening, Commander.” Ren said and leaned in close. “There's no guards on the gates.”
+
+“We have spell casters dispersed throughout the crowd to keep everything civil.”
+
+“Nice.” Ren said. “Thanks for the escort.”
+
+“You wouldn't get that carriage anywhere near the Keep or the castle if I didn't.” The Commander said and smiled. “How many can sit in it?”
+
+“Eight comfortably.” Ren said, then grinned. “Twelve if you're really good friends.”
+
+The Commander chuckled, and the dwarves nearby stared at him. They'd never heard the Commander of the Garrison laugh before. Ren turned to look at the soldiers that had formed the path, and it caught their attention. It was the dwarves that had fought the giants with him, so he nodded to them to give them Honor, and they saluted him in return.
+
+“If you want a ride back to the castle, it'll be a little tight.” Ren said when he turned back to face the Commander.
+
+“I'll just stand on the runner.” The Commander said, and Ren nodded slightly and climbed back inside. The Commander stood on the step under the door and held onto the handles that were used to climb in, and Ren told the driver to go to the castle. The carriage moved out, and the crowd watched it travel down the cleared path. The soldiers folded back into formation to follow the carriage as it passed their positions.
+
+They arrived at the castle proper, and the Commander stepped off the runner to clear the doorway, then opened the door. Ren stepped out first, and held a hand back for the closest maid. They had discussed it quickly, and decided that even though they were his dates, Nathalia was the Head of the House and the most senior; so she would be the last to get out and be presented to the waiting delegation.
+
+The entire courtyard was lit up so that everyone could see who was arriving, and with who; so when the first maid stepped out of the carriage, everyone wondered who she was. Her outfit matched Ren's, and her accessories showed off her face to full effect. When she stepped aside and another woman stepped out and wore the same thing, they didn't know what to think. When the third one stepped out, a ripple of murmurs ran through the crowd. When the fourth one stepped out, the women in the crowd gasped. When the fifth one stepped out, several fainted from the shock.
+
+Ren chuckled as he could clearly hear what they were saying. Wait until they find out they're personal maids. He grinned and held a hand out for Ereka to use as she climbed down from the carriage. Ren heard a collective sigh that there wasn't any more women dressed like him, and he reached in for Nathalia. She took his hand and gasped herself. All of the feelings everyone was feeling flooded into her and she let his hand go.
+
+“By the gods!” Nathalia said.
+
+“Sorry.” Ren said, and eased the flow. “It's a lot to handle, even for me.”
+
+Nathalia nodded slightly and took his hand again. She didn't get the same sudden burst, and smiled as she stepped out of the carriage and saw the reception waiting for Ren.
+
+“So, she did go overboard.” Nathalia said and looked at Ren. “I'm sorry you have to do this.”
+
+“Don't be.” Ren said. “I figured she'd hear about some of the things I've done.” He grinned. “I was pretty sure that at least one of the ten thousand books I gave away was going to reach her at some point.”
+
+Nathalia snorted a laugh, then motioned to the formed line of greeting waiting for them. “This is for you, so you have to go first.”
+
+Ren turned to his personal maids. “Showtime.”
+
+The maids held hands and formed a line behind Ren, and he took the first maid's hand. They walked over to the first person in line, and it was Lady Longore. Because she was single, her place was at the start of the line despite her Major House status. Some saw it as a place of shame, but Ren saw it as a place of opportunity. She would be the first to meet his dates.
+
+“Lady Longore.” Ren said and took her hand. Instead of bending over it like he was supposed to, he leaned in to give her a kiss on the cheek. Several members of the surrounding crowd gasped, but Lady Longore herself only smiled warmly at him.
+
+“I, Ren the First, would like to introduce my dates for the evening.” He said, and stepped back. “These are my personal maids; Navruth, Lusinia, Verwynn, Andrela, and Frikara.”
+
+The entire crowd fell silent because Ren had spoken the given name of a woman in public, and he could feel the thrill and shock go through his maids as well.
+
+They didn't know I knew their names. Ren thought, and Teepo chittered in delight as he flew down to land on Ren's shoulder.
+
+“What is that?!?” Lady Longore asked, and pointed at Teepo.
+
+“This is my good friend, Teepo.” Ren said.
+
+“It's a pleasure to meet you in person.” Teepo said, and waved one of his front legs at her.
+
+“Um...” Lady Longore looked like she didn't know what to do, and Ren chuckled.
+
+“Next in line is the stunning blonde Lady Ereka. She runs House Neram pretty much by herself.”
+
+The crowd gasped again as Ren spoke another woman's given name publicly. They couldn't say anything about it, because she was of his House and they can't sign a marriage contract.
+
+“She'll deny that she works too hard, but we both know how difficult it is to do.”
+
+Lady Longore nodded slightly, and several other heads in the line nodded.
+
+“Lastly, and most importantly; is the beautiful Lady Nathalia. She's the current Head of House Neram.” Ren said. “I love her dearly; but because our marriage contract was nullified, I couldn't bring her as my date.”
+
+Complete silence filled the area they stood in, because Ren had told them the absolute truth.
+
+“It was very nice meeting you again, Lady Longore.” Ren said, gave her a slight bow, and took two steps to the right. He introduced himself to the next person in line, and then repeated what he had said to Lady Longore. He changed the descriptions slightly each time, just so people weren't hearing the exact same thing each time. No one else spoke as Ren introduced his maids to all of the members of the Minor and Major Houses.
+
+Ren went up the line, and made sure to use his cheek kiss ritual for all of the women. It embarrassed some of them, and others received it gladly. It gave them Honor, and a public thrill that they hadn't felt before. Some of them acknowledged Teepo, and others ignored him completely. When Ren reached the very end of the line, he saw Barnar.
+
+“It's good to see you, old friend.” Ren said and reached out a hand.
+
+“I'm not that old.” Barnar said, then smiled as he briefly clasped forearms with Ren.
+
+“I know I don't have to introduce myself; but, may I introduce my dates for the evening?” Ren asked him.
+
+“I think everyone in Dornrach knows their names by now.” Barnar said and chuckled. “I'll hand you over to the Queen instead.”
+
+Ren nodded slightly and took the two steps to the side to stand in front of Narhilda, and brought his dates with him. “Good evening, Your Highness.” He said, but he didn't use the cheek kiss ritual. He had noticed her face and saw that she looked happy, sad, and angry at the same time; so, he bowed to her instead.
+
+“You're making quite the spectacle.” Narhilda got out through gritted teeth. “Wearing royal purple and royal style clothes. The jewelry is a nice touch. Why didn't you give it to Nathalia and Ereka, too?”
+
+“I'm not allowed.” Ren said. “I can't give expensive gifts to members of my own House.”
+
+“But you can give them to your personal maids?” Narhilda said the last two words as if they were dirty.
+
+“They aren't members of any House, Your Highness.” Ren said, and leaned in close to whisper. “I haven't slept with them, if that's why you're so angry.”
+
+“It's not.” Narhilda said, and Barnar winced slightly. She glanced at him and sighed. “You're flaunting something that should only be kept within the walls of a House.”
+
+“There's no law against telling everyone that I have personal maids.” Ren said. “Lots of people have them. I'm just making sure everyone knows that my personal maids don't have to be kept hidden.”
+
+“They should be...” Narhilda said as she glanced at them. “...but, it's too late to change things now.”
+
+“Only for some things, Your Highness.” Ren smiled. “Thank you for inviting me, and requiring that I bring a date.”
+
+“I didn't know your marriage contract with Nathalia had ended.” Narhilda said. “I thought this would have been a good time for the two of you to enjoy yourselves.”
+
+“We can't do anything publicly, Your Highness.” Ren reminded her. “If there's dancing, I'll still dance with her; but, other than that...”
+
+Narhilda sighed. “Let's just go inside.” She said. “We'll make the announcement in an hour.”
+
+Ren nodded slightly, and stepped back. Now that the main guest had arrived, they could all go inside and start to enjoy themselves. The line started moving, and rather than try to interrupt the flow to go inside, he stood by the door and greeted everyone that walked by.
+
+Several of them greeted him back, and some even talked to the personal maids as they passed by. When all of the Major and Minor House members had entered the area where the celebration was to be held, Ren led his personal maids, Ereka, and Nathalia into the room.
+
+For the first 30 minutes, Ren and his personal maids mingled. They talked about anything that people asked them about. It had all been polite small-talk until someone had asked Ren how he had gotten so many of them. When Ren told the story of how he had found them, they stared open-mouthed at him and at the personal maids. People started to drift away from them, and after another 15 minutes, a large area had been cleared around them. Ren let his amusement fill the shared Aura more and more as time went on.
+
+Now that there was kind of a gulf between them and everyone else, he took out the bag with the shadow markers he had received after the giant battle. Even though it had his name on it, he had wanted it for the Garrison's budget to make sure that no one would interfere with it for the next 5 years.
+
+Ren opened it and dumped it into his inventory, then smiled. That Special Bonus doubled this, too.
+
+There was 200 shadow markers in it, instead of 100. Because it took 100 platinum coins to make a shadow marker, Ren converted the 200 shadow markers into 20,000 platinum coins.
+
+If my calculations are right, that should run the Garrison for 10 years. Ren thought. I already paid 5 years of taxes, so there should be enough left over to pay for the other 5 years.
+
+“You're thinking about something really hard.” Ereka said to Ren.
+
+“I'm doing math in my head.” Ren smiled. “It's not pretty.”
+
+Ereka chuckled, and then the background music became louder. “I think the dance is starting.”
+
+Ren frowned. Narhilda said the announcement was going to happen in an hour; and that was 50 minutes ago.
+
+“Maybe she changed her mind.” Teepo whispered in Ren's ear.
+
+No, she wouldn't do that, unless something else has come up. Ren thought. Teepo, can you go and check it out?
+
+“Not like this.” Teepo said. “Everyone can see me.”
+
+Ren slipped the Ring of Recall off of the Beetle Crown ring, and summoned Teepo. Teepo flew off towards where Narhilda and Barnar stood, and took up a position close enough to hear. Ren stored Teepo's metal body and hoped that Teepo wouldn't be detected.
+
+While he waited to hear if Teepo could find anything out, Ren went to do what he said he was going to do. He walked over to Nathalia and held a hand out.
+
+“My Lady, may I have this dance?”
+
+“Wh-what?” Nathalia had a surprised look on her face.
+
+“Dance with me.” Ren said, and waggled his fingers.
+
+“We... we can't do anything... in public.” Nathalia said.
+
+“I already told Narhilda that if there was dancing, I would dance with you.”
+
+“I... well...” Nathalia took his hand. “...if the Queen is okay with it.” She smiled. “You may have the first dance.”
+
+They walked only a little ways away from the group they had arrived with, and Ren activated Sneak. It let him step lightly and quickly, and he used the dance moves Rosie had taught him so long ago in Aurora. Nathalia had danced with Ren and these moves before, so she matched him stride for stride as they moved around. They were almost lost in their own little world as the music played, and all they could see was each other. When the music stopped several minutes later, Ren let her out of the embrace he had her in, and stepped back slightly.
+
+“Thank you very much, Lady Nathalia.” Ren said, then bowed to her deeply. When he stood up, he was met with applause. He looked around, and everyone else had stopped dancing to watch him and Nathalia. Ren smiled and gave several regal bows, and Nathalia chuckled as he hammed it up for the audience.
+
+“They're doing it now.” Teepo said. Ren took out the Sending Square connected to the Commander and called him. The crowd turned as Dural, Advisor to the Throne, took to the stage.
+
+“If I may have your attention please.” Dural said in a booming voice. “There are several announcements to be made before the main event.”
+
+The Commander made his way through the crowd and came over to Ren.
+
+“They're shunning you for having personal maids?” The Commander asked.
+
+“No, because I got them from the head of the Thieves Guild.”
+
+The Commander shook his head. “How fleeting fame.”
+
+Ren laughed and put a hand on his shoulder. “That's the truth.”
+
+They didn't really pay attention to what the Advisor to the Throne was saying, until he said Ren's name.
+
+“Yes, Lord Neram. Please come up here and join the others on the stage.”
+
+Ren looked at the others on the stage, shrugged, and went to join them on the stage. The Commander followed closely behind, then stood behind him when Ren stood in the spot the Advisor pointed to.
+
+“As I was saying, these people have made contributions to the Kingdom that deserve to be recognized.” Dural said, and described that the first individual had introduced a streamlined way to file documents.
+
+You have got to be kidding me. Ren said, and looked into the crowd. I thought this was supposed to be a celebration for me. He could see the spot where his personal maids were, and Nathalia and Ereka looked just as confused as he was. Ren stood there as each person on the stage received an award from the Queen on behalf of the Kingdom, after a completely mundane reason was given.
+
+When Dural got to Ren, a hush fell over the crowd. Rumors had spread like wildfire about why he was on there with the other House and government officials, and with a military escort.
+
+“For defending the realm against a threat that could have caused untold damage, we present the Dwarven Kingdom's Medal Of Valor to Lord Ren Neram.”
+
+“That's it?” A male's voice yelled from the distance. “Aren't you going to describe how he led 24 dwarves against 30 elite giant soldiers, then killed them?”
+
+Ren looked for who had spoken, and he saw his friend Dorcot, who was the Official Gemcutter for House Neram and had his own area in Ren's workshop. He was near the back of the room where the commoners were relegated.
+
+“The government cannot divulge the details of what had happened.” Dural said.
+
+“Don't be a pompous ass, son!” Dorcot said. “These people deserve to know how close we all came to dying!”
+
+“The government can't divulge...”
+
+“Bah!” Dorcot said. “Get on with it, then!”
+
+“Ah... yes. Please step forward, Lord Neram.”
+
+Ren stepped forward and Narhilda held out the award for him.
+
+“We can't tell them, Ren.” Narhilda whispered. “If they knew the actual danger they were in...”
+
+“They aren't in danger from giants anymore, because of me.” He said in a normal voice instead of whispering, accepted the award, then went back to stand where he was.
+
+“And now... the main event.” Dural said, and Narhilda and Barnar stepped forward. “There's an announcement that the Royal Family would like to make.”
+
+“After a long time in searching, we have been unable to find a suitable heir for the throne.” Narhilda said, and everyone in the crowd started talking at once, and wondered what was going to happen with the Kingdom if it didn't have a ruler. She let the talk go on for a minute, then spoke.
+
+“While we searched, though; a miracle happened.” Narhilda said. “Instead of finding an heir...” She put a hand on her stomach. “...we made one.”

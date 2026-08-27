@@ -1,0 +1,421 @@
+---
+id: a09c0131-d034-53cb-8836-1c6f22e4b8c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 225 - It's Magic"
+slug: 0213-chapter-225-its-magic
+partOf: mythrans-master-of-all-continued-completed
+position: 213
+ownLength: 4581
+unit: words
+publishedAt: 2017-04-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130003/chapter-225-its-magic"
+royalRoadId: "130003"
+---
+
+“Did we just see...” Nathalia started to say, and Ren put a finger on her mouth.
+
+“Shh.” He said. “I think we shouldn't talk about it.”
+
+“But...”
+
+“I know she's your mother, but she's also...” Ren shook his head. “I'm taking my own advice.” He said and removed the finger.
+
+“Well, if we can't talk about that...” Nathalia looked at him with her face full of questions. “...then tell me about everything we just went through.”
+
+Ren started to shake his head, then stopped. “Actually, I...” He smiled and his grip on her hand tightened. “I would like to talk about it.”
+
+“I'm glad.” Nathalia said, and tears came to her eyes again. “How could other Adventurers do that to you?”
+
+Ren smiled sadly. “They weren't other Adventurers.” He said. “They were my parents.”
+
+“By the gods!” Nathalia exclaimed. “No. That... that's not...” The look of horror on her face matched the tone of her voice. “How could they do that to you?!?”
+
+“I've been asking myself that for years.” Ren said. “I still haven't come up with a reason, other than money, or that they enjoyed it somehow.”
+
+Nathalia shook her head, and lifted his hand and gripped it with both of hers, and pressed it to her chest.
+
+“That someone as good as you came from all of that.” Nathalia said and beamed a smile at him. “You're a miracle!”
+
+“It's a miracle that I survived as many times as I did.” Ren said. “That's true.”
+
+“No, Ren.” Nathalia let his hand go, and moved to sit in his lap again. She hugged him close, and kissed him. “You help anyone that needs it.” She said. “You never worry about what will happen to you, but you'll do anything for the people you care about.” She stroked her hand through his hair, and gazed into his eyes. “You went through all of that, and it didn't break you.” She kissed him softly. “Despite all of that, you became a good man. You're not mean, or vindictive, or angry all of the time.” She smiled at him. “You are a good man, and I love you.”
+
+“I love you, too.” Ren said, and kissed her back just as softly as she had kissed him.
+
+“Now I have a question.” Nathalia said.
+
+“Just one?”
+
+“I have more than I can count, but... there's one that I need answered right away.”
+
+“Go ahead, My Love. Ask away.”
+
+“What's a 'pool', and what do you do with it?”
+
+That was not the question Ren thought she would ask first, and he laughed a full-throated laugh; then Nathalia joined in and laughed, too.
+
+********
+
+Denise checked the recorded footage, and relaxed a she saw the time indexes matched. Nothing was lost or over-written from the sheer amount of data that was being recorded. She was a little surprised that the game could recreate all of the real life things that Ren had seen; considering it was supposed to be a medieval setting and shouldn't be able to make those things.
+
+*
+
+“Sir!” One of the techs at Sid Tec tried to get the head programmer, Max's attention. “Sir! You aren't going to believe this.”
+
+“It's quitting time, dammit.” Max sighed. “What is it now?”
+
+“F.L.O.W. accessed the internet.”
+
+Max laughed. “It always does. That's how it sends data to the players.”
+
+“No, sir.” The tech said. “It accessed it for content.”
+
+Max frowned. “What do you mean?”
+
+“My job is to monitor all the things being created and used in the game, and managing the databases so there's no problems for the game to bring up the items when needed.”
+
+“Yeah.” Max said. “And you like that job.”
+
+“I do, sir.” The tech smiled. “All the order and neatness is a soothing balm to all the chaos.”
+
+Max laughed. “Got it.” He said. “So what happened?”
+
+“This, sir.” The tech said, and turned his flat-screen monitor for Max to see the sensory deprivation chamber.
+
+“Is that?”
+
+“A sensory deprivation chamber.” The tech said. “It's now a part of the game item inventory list.”
+
+“How the hell did that get in there?”
+
+“It came in a data packet, sir. Along with these.” The tech hit a key, and a long list of real world items appeared. Everything from electrodes to an olympic-sized in-ground swimming pool.
+
+“A treadmill? Modern clothing? Surgical gear?” Max shook his head. “What the hell?”
+
+“It's amazing that this much could be inserted so fast, then rendered into the game mechanics.” The tech said. “I knew the AIs were the best mankind could produce; but this...” He shook his head. “Highly detailed, fully modeled and functioning real-world items in seconds.”
+
+“Is there any kind of player ID on this?” Max asked. “If someone is importing these things and breaking our proprietary software...”
+
+“It wasn't a player doing it, but it was done for a player.”
+
+“I don't have to ask, do I?” Max said, and sighed as he checked the list again. “It's Ren Haddon, isn't it?”
+
+“Yes, sir.”
+
+“Damn that kid.” Max said. “He keeps messing things up on us.”
+
+The tech smiled. “It gets better, sir.”
+
+“How could it possibly get better?”
+
+“I can't delete the new items or over-write them.”
+
+“Excuse me?” Max said. “You have full access to the archives and call data.”
+
+“I thought so, too.” The tech said. “But as soon as I change the IDs, or copy over the files, they are automatically copied right back and restored.”
+
+“From where?”
+
+“The automatic backup files.”
+
+“How in blue blazes did it get backed up already? That's not supposed to happen until midnight!”
+
+“I don't know, sir.” The tech said.
+
+“Okay.” Max said. “Mark it for the programmers to go over tomorrow. Give it a priority heading, and it'll be the first thing they have to deal with in the morning.”
+
+“What if the data is needed later, and the game doesn't have it?” The tech asked. “It'll crash, won't it? Or give an error?”
+
+Max rubbed his forehead. “Have them replace the items with similar things. The sleep deprivation chamber with a sleeping bag, the treadmill with a set of paving stones, the operating tables with cots. You get the idea.”
+
+“So the data won't be gone, just replaced.”
+
+“Right. The game won't know the difference.”
+
+The tech smiled. “I think you're underestimating the game, sir.”
+
+“It won't know the difference, because we'll tell it that it doesn't know the difference.” Max said. “A computer can only do things within the limits we set for it.” He said. “Goodnight. I'll see you tomorrow.”
+
+“Goodnight.” The tech said, watched Max leave the room, then turned the flat-screen monitor back around and turned it off. “That's what I thought about computers, too.”
+
+*
+
+Elise Stanford, the secretary at Sid Tec, hopped into her Hummer H2 and drove home at a normal speed. She didn't rush, because she still had a bit of time before she had to be at Ren's side for when he logged out. When she got home, she undressed quickly and tossed the clothing into the laundry basket, then took a shower. The water rinsed away the sweat that had gathered during the day, and she felt refreshed as she stepped out and looked at herself in the mirror.
+
+“Hi, beautiful.” Elise said, repeating the words Ren had said to her that morning. She blushed just like she had then, then grinned as she remembered the kiss he had given her afterwards. She brushed her hair diligently, and it's natural waves formed as her hair dried.
+
+“What to wear... what to wear...” Elise said as she browsed through her closet, looking for the perfect outfit. “Dammit, what do I wear?” She flung several outfits onto her bed, then went back to her closet. “I want him to see me, but I also don't want him to see too much of me so soon.”
+
+Elise looked down as herself, and her massive chest hung there. “Yeah, there's not a lot I can do to hide you from his sight.” She picked a pretty black bra that was supposed to cover all of her, but all it really did was hold her steady while she walked, and stopped her from popping out of any top that she wore.
+
+“No, that's a bit too restrictive.” Elise said, and tossed it aside and picked up a nice purple one with lace, that covered enough to save her modesty, but left enough that it would drive men wild. “Perfect!” She said, and put it on. It took some bending over and a few shoves, but she got herself positioned in the cups properly and fastened it in place. She started to put on the matching panties, then remembered she should wear another thick pad. She grabbed one, and looked at the underwear. There was no way it was going to cover enough to hold the pad in place, and she sighed.
+
+“It shouldn't be this hard to dress sexy and practical at the same time!” Elise said to the empty room.
+
+*
+
+“I wish she hadn't left the blinds closed.” Gary, the NSA agent, said from the van.
+
+“Geez, Gary. If you want her so bad, just go over there and ask her out.”
+
+“Yeah, right.” Gary laughed. “The boss would kill me for revealing myself and blowing the operation, and then my girlfriend would kill me for trying to cheat on her.”
+
+“Come on. You'd still let her kick you in the balls.” Bill said.
+
+“Damn right I would.” Gary said, as he listened to Elise's running commentary about how different articles of clothing weren't the right thing to wear. “Just imagine the sight I'd see while writhing around on the ground, looking up at that statuesque redheaded goddess.”
+
+Bill laughed. “Well, at least we know she legitimately doesn't have anything to do with this case, besides coming to the kid's rescue.”
+
+Gary looked over at Bill with his eyebrows raised. “Then why are we staked out at her place?”
+
+“I had hoped she'd have the blinds open, too.” Bill said, and Gary laughed and clapped his partner on the shoulder.
+
+*
+
+Elise went with a nice a-line black skirt, and a loose fitting purple top that matched the color of the bra. She added a black belt around her waist to hold the top closed on the bottom, and pulled it up slightly so it hung over the belt and didn't form around her chest like a lot of the other things she wanted to wear. She chose a pair of flat shoes to go with the outfit instead of her trademark heels, put on a touch of makeup to make her eyes pop, then decided to keep her contact lenses in instead of switching to her glasses, like she normally would.
+
+I don't want my glasses getting in the way if I kiss him again. Elise thought as she grabbed her purse and tablet, and headed for the door. Watch out, Ren Haddon. She grinned. I'm dressed to kill, and I'm coming for you!
+
+********
+
+Ren explained as much as he could to Nathalia about the things she had seen in his memories, and she absorbed the information as if she was going to be tested on it later. Teepo on the other hand had remained quiet, and stood on the ceiling and stared at them. He wondered how his best friend had survived everything he'd gone through.
+
+“They're called 'sneakers'?” Nathalia asked, and Ren nodded. “Do they help you Sneak?”
+
+“A lot more than shoes do.” Ren said. “Unless they're wet. Sneakers squeak when they're wet.”
+
+“And almost everyone wears them?”
+
+Ren nodded slightly.
+
+“Why?”
+
+“They're comfortable, cheap, and easy to get.”
+
+“Can you make them?”
+
+“No.”
+
+“Why not?”
+
+“There's no rubber here.”
+
+“And rubber is sap from a special tree, and only becomes rubber when mixed with other things and dries, right?”
+
+Ren smiled. “That's right.”
+
+“Are you sure there's none of those trees here?”
+
+Ren looked at her, then grinned. “No, I'm not sure. I know just who to ask about it, though.”
+
+“The Sage of Ages.” Nathalia said, then frowned slightly.
+
+“What is it?” Ren asked her.
+
+“Did she really tell you that you and her were going to get together?”
+
+Ren nodded slightly. “She told me I'd have to go through a few things before the time came, though.”
+
+Nathalia sighed. “Then... then that means... you an I...”
+
+Ren shook his head. “She didn't say that.” He said. “She only said we'd be together. She didn't say no one else was involved.”
+
+“But...”
+
+“I know. It's hard to think that she's referring to something as if it's already happened, even though it hasn't, or might not happen at all.”
+
+“But...”
+
+“Probabilities are funny like that.” Ren grinned. “Like, how you just happened to be the cook on the ship that picked me up.” He said. “Imagine if I stayed in the hold and ate ration packs for the trip.”
+
+Nathalia's eyes widened. “We... we never would have met.”
+
+“Right.” Ren said. “I never would have come to the attention of the Council, I wouldn't have interfered with anything, and I would have been back in Aurora already with no clue about what had been going on.”
+
+“By the gods.”
+
+“But, let's not think about that.” He said. “I've only got another hour or so with you, and I want to spend it doing something worthwhile.”
+
+“Like what?” Nathalia asked, and tried not to blush at the thoughts going through her head.
+
+“Let's make some pastries!” Ren said and held onto Nathalia as he stood up.
+
+“P-p-pastries?!?” Nathalia stammered, and he laughed.
+
+“Just kidding.” Ren said and took her to her bedroom. “I have to properly thank you for saving me.”
+
+“But... but I... it was only at the end that I... I finally convinced you...” Nathalia had a hard time getting the words out as she remembered everything Ren had endured, and what she had watched him endure.
+
+“You did convince me, though.” Ren said and laid her down on the bed. “Right at the perfect time, too.”
+
+“Ren, I... I really love you.”
+
+“I know you do.” Ren said. “We're still sharing our feelings.” He smiled. “Now I'm going to make you feel so good that you're going to forget your own name for a while; because all you'll be thinking about is me.”
+
+“Oh, Ren!”
+
+For the next hour, the only name Nathalia could think of, or say, was his.
+
+********
+
+“Hi.” Elise said as she came into Ren's room.
+
+“Elise!” Denise said, and stood up. She was thankful that the blue screen had ended only a minute before, and Ren was already on his way back to the giants. “You're here early.”
+
+Elise smiled. “I tried not to rush over, but I get too excited to wait sometimes.”
+
+Denise nodded. “I hear you.”
+
+“How is he?” Elise asked, as she looked at Ren.
+
+“He's... oh, Elise.” Denise sighed and held the tears back. “You have to see... to see the...” She shook her head, and then Elise's tablet beeped at her.
+
+“I shouldn't get a download unless it's got a priority setting...” Elise said and put her purse down and opened the tablet. “Oh, my god.” She said, as the thumbnails and text descriptions popped up on the screen. “This... this...” Elise sat down in the chair beside the bed, shock clearly on her face.
+
+“Ren will be out in about 30 minutes.” Denise said. “He's running a little late with the giants.”
+
+“With the what?!?” Elise looked at Denise. “That quest was supposed to be over.”
+
+Denise smiled. “He's dealing with the ones still alive.”
+
+“Some of them lived?” Elise asked, then looked at the television monitor. “He's already got them in their own settlement?” She shook her head. “He's amazing!”
+
+“You don't know how amazing he is yet.” Denise said and took a deep breath. “Watch the videos, and then you'll know.”
+
+Elise nodded and started the first video, then slowed it to normal speed and watched it again as tears came to her eyes.
+
+“My sweet little Ren.” She whispered, and wiped her tears away as she watched the next video.
+
+********
+
+Ren had stopped in at one of the local farms and bought a huge pile of food ingredients to make various meals, as well as flour, sugar, and everything else needed to make bread. He also bought the cooking utensils and tools needed and stored everything. On the way through the Garrison, he stopped at one of the supply depots and picked up a few more tents, just in case some of the others were damaged. He was going to need at least one more for the new giant, anyways.
+
+Ren had been tempted to take Princess along; but he wasn't staying that long, and could run this far pretty fast by himself, anyways. Teepo hasn't complained. He thought as he glanced at this friend that had perched on his shoulder as soon as he left House Neram Keep. Ren also had Adventurer's business to take care of in a couple of hours, and needed to get back home before then.
+
+“I'm back.” Ren said as he ran over to the group of giant-sized tents.
+
+“Hi, Ren.” Laurelia said as he came over to the stew pots. “You're just in time. The stew's gone.”
+
+“Did everyone get at least one bowl?” Ren asked as he rinsed out the pots, filled them with water again, and she nodded.
+
+“There was enough left for the trench diggers to have a second bowl when they stopped.”
+
+“How far did they get?”
+
+“Pretty far.” Laurelia said. “Go have a look.”
+
+Ren ran over to the trench, and grinned. Nearly 500 feet of ground had been dug up in a trench that was 25 feet wide and 12 feet deep. He ran back to the cooking area and nodded to her.
+
+“That looks great.” Ren said. “I assume people want to have supper soon?”
+
+“Only the ones that had bowls of stew first.” Laurelia said and chuckled. “Like me.”
+
+“It's a good thing I brought lots of ingredients then.” Ren said, and took them out. “Where's Nikaia? She can convert these and we can get some other volunteers to help cook.”
+
+“She's in her tent, I think.” Laurelia said. “Can Telaka do it? He's right over there.”
+
+Ren looked over at the giant she pointed to. It was the male giant with the inventory, and he nodded.
+
+“Sure.”
+
+“Hey, Telaka! Can we get your help?” Laurelia asked, and he came over to the cooking area.
+
+“More food?” Telaka smiled. “I'll gladly help.”
+
+He converted the food ingredients and cooking tools to giant size, and the table was immediately swarmed with helpers.
+
+“With this we can make bread!” One of the female giants said, then looked around. “But... how in the world...” She looked down at Ren, who had gently pat her knee.
+
+“I'll worry about making the oven. You worry about making the dough.” Ren said to her, and remembered what the oven at the mansion looked like. The female giant looked at him with raised eyebrows, then nodded.
+
+“It's a deal.” She said, then got to work making the dough, and Ren had to make a trip back to the Garrison to gather enough stone bricks to make a giant-sized oven. He was tempted to borrow one of the ovens being used by one of the many cafeterias, but that would be too much to ask the soldiers and cooks to deal with. The loss of a single oven could throw off the entire meal schedule for a good portion of the Garrison.
+
+Ren ran back to the giant camp and quickly made a raised platform with some of the dirt from the trench. Once it looked high enough, he climbed up and laid out the stone bricks into the right configuration, enchanted the ones on the bottom with fire, then covered them with another layer of stone bricks. Once that was done, he took out a chisel and cut a very slight angled edge into every row of bricks for the sides, then set them all into place on top of a temporary wooden brace. He made a shelf in front of the oven; but it was off to the side, so anything placed on it wouldn't get direct heat.
+
+Stat Change!
+
+Stonemasonry Level 2 (Beginner 0%)
+
+Stone Cutting Level 2 (Beginner 0%)
+
+The bricks own shape and weight should hold them together. Ren thought, then asked one of the giants to cover the top with dirt, just in case.
+
+“Are you sure?” The giant asked, and he dumped a shovel full of dirt on top of the stone arch.
+
+“Positive.” Ren said. “The dirt will hold it in place if anyone happens to bump it by accident.” He said. “It will keep the heat inside the oven much better, too.”
+
+“You little people and your crazy ideas.” The giant said, and kept shoveling dirt where he was told to. Ren packed it in tight, and into the crevices, to make sure it was as secure as it could be.
+
+“I think... yes, that's enough.” Ren said as he stepped away from the enormous oven, then took the wooden brace with him and stored it. He thought 'Activate' and the enchanted stones immediately had the heat in the oven up to a warm temperature. “How's the dough coming along?” He hollered over to the giant workbench and the women working on preparing food there.
+
+“It just has to rise for a while.” The female giant with a large bowl of dough said. “Is there somewhere that I can... yes, there is. Thank you.” She said as she saw the stone shelf she could use to put the dough on near the heat, but not in it. “You've done something like this before.”
+
+“I haven't built one like this before, or one this size.” Ren said and waved at the oven. “This was a first.” He smiled. “I have baked a lot of bread, though.”
+
+“Me, too.” She said. “I'm really glad to be able to do it again.”
+
+“So am I.” Ren said. “Plus, it smells wonderful.”
+
+“I always thought a kitchen was never really finished until it had that smell in it.”
+
+“I like that.” Ren smiled at her. “That's a good view to have.”
+
+“It's going to be half an hour or so for that dough to finish rising.” She said. “I better get back to chopping vegetables.”
+
+“What did you decide to make first?”
+
+“Thanks to that side of ram you brought, we're going to have a roast tonight. In the morning, we'll have ram and eggs.”
+
+“It sounds delicious.” Ren grinned at her. “I'm sorry I'm going to miss it.”
+
+“Oh? Why's that?”
+
+“I've got Adventurer's business to take care of in half an hour, and then I've got to get your story out to the world.”
+
+She shook her head. “I can't believe you can do that.” She said. “If you can... you... that's too much power for a little person to have.”
+
+Ren smiled at her, and she went back to the giant workbench, then he went to his own workbench. The child giant was there with the female giant that was taking care of him, and the child held out the backpack Ren had given him earlier. Ren took it and pulled out the old and tattered clothes that were inside.
+
+“Let me see what I can do with these.” Ren said, and unrolled them and put them into their proper shapes. “Hm.” He said, and put a hand under his chin. “They're pretty torn and messed up.”
+
+The child giant looked like he was going to cry, and Ren beamed a smile at him.
+
+“I think it's time for some little person magic!” Ren said enthusiastically. “First I need to take out my Magic Needle!” He said, and pulled the Master Tailor Sewing Needle out of inventory so that it magically appeared in his hand. The child clapped, and Ren took a little bow.
+
+“Now! Some magic waving of my arms!” Ren said, and flailed his arms around wildly, and the child laughed. “Okay! I think it's ready!” He said. “Magic Needle! Grant me your power!” He poured Mana into the needle, and it glowed brightly in the dim light. “Restore this child's precious clothing!”
+
+Ren held the needle to the child's top, and it started to glow. He heard a gasp; but he wasn't sure if it was the child, or the female giant standing behind him. At this point it didn't matter, because everyone that was nearby, and had gathered after hearing the child laugh, gasped as the top remade itself.
+
+“Thank you, Magic Needle!” Ren said, and flailed his arms again to make the child laugh. “Now! Once more!” He said and touched the pants, and the same thing happened. The giants gasped as the pants glowed and remade themselves. “Ha ha!” Ren laughed. “Thanks again, Magic Needle! You can go home now!” He said, and stored it. To the child, the needle just disappeared into thin air, and he clapped again. The little magic show had cost Ren nearly half of his Mana Pool, but the look on the child's face was worth it.
+
+“There you go!” Ren said, and handed him the clothing and the backpack. “Please accept this with the blessings of the little people.”
+
+“Thank you!” The child said happily, and all of the giants stopped whatever they were doing as they watched the child go to the changing tent. The female giant that was watching over the child giant, stepped close to Ren and then knelt.
+
+“That's the first time he's spoken since all of this happened.” She said. “Thank you very much.”
+
+“It was my pleasure.” Ren said. “Hopefully, he'll continue to talk, now that he can wear the clothes his mother made for him.”
+
+The female giant blinked her eyes at him. “How... how do you know that?”
+
+“I'm a tailor.” Ren said and smiled. “Those clothes weren't bought from someone that makes lot of them; they were made with love and care.”
+
+The female giant nodded her head and stood. “That they were.” She said, and walked over to the changing tent as the child came out wearing his old clothes. He ran over to Ren and took off the backpack.
+
+“You can keep it.” Ren said. “I'm sure you're going to find lots of things to put in it.”
+
+The child smiled, and ran back to the female giant and took her hand, much to her surprise. She looked at the child, then at Ren, and waved before they walked off to their tent.
+
+“How did you do that?” Laurelia asked, and Ren turned to look at her.
+
+“Magic.” Ren grinned. “Which I'll have to replenish before coming back.” He said, and took out several more tents in case the giants needed them. “I have to go, but I should be back sometime tomorrow to finish making clothes for everyone.”
+
+Laurelia nodded. “We'll make this food last a couple of days, at least.”
+
+“You should make sure the trench gets finished, too.” Ren said.
+
+“How will you get back in if it's finished?”
+
+“I'll make a bridge.” Ren said and grinned. “Goodnight, Laurelia.”
+
+“Goodnight, Ren.” She said, and he ran off before she could say anything else.

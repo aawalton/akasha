@@ -1,0 +1,509 @@
+---
+id: b3c2d549-c862-5eaa-ae89-7e7852149fea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123 - You've Been Shelved"
+slug: 0108-chapter-123-youve-been-shelved
+partOf: mythrans-master-of-all-continued-completed
+position: 108
+ownLength: 4959
+unit: words
+publishedAt: 2016-12-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108939/chapter-123-youve-been-shelved"
+royalRoadId: "108939"
+---
+
+Ren looked at the Librarian and smiled. I guess that's why I didn't get a popup for completing the quest. Ren thought as he stood. “Where are the rest of them?”
+
+The female dwarf smiled and walked down to the first floor. Ren followed her until she stood by the stairs. The Librarian looked around and frowned.
+
+“Where's my desk?”
+
+Ren walked around her, pulled the desk out from inventory, and placed it beside the stairs. Even with the books on shelves, there wasn't much room left to move around. It looked a lot better, though.
+
+The female dwarf rummaged through her desk and pulled out an old rusted key from a drawer. “If you can find where I've hidden them, I'll give you a prize.”
+
+Ren perked up at the offer. “Do I get to read one of these books?”
+
+“Of course not.” She said and chuckled. “I won't compromise the reading system by letting you check one of these out.”
+
+“Then what's the prize?”
+
+“You'll have to find the books to find out.”
+
+“I accept your challenge, Ma'am.” Ren said. Teepo!
+
+“Nothing yet.” Teepo said and skittered across the floor. Ren activated Enchanted Eyes and looked around the main floor himself. He didn't see anything, either. If there's nothing out here... Ren thought and went back to the Librarian still standing by the stairs. “May I check your sleeping area?”
+
+The female dwarf smiled, then nodded slightly.
+
+Teepo, give it a look. Ren thought and walked over to the area in question.
+
+“Nothing but a bed and books, Ren.” Teepo said. “Checking under the bed now.”
+
+Ren moved aside the drape covering the doorway, to see more stacks of books. Ren ignored them, walked over to the bed, and knelt. Nothing showed up with Enchanted Eyes as he looked underneath it. He did see Teepo turning around in a circle, however.
+
+What is it, buddy?
+
+“There's something here.” Teepo said. “My new Search skill says so, but I don't actually see anything.”
+
+Come on out. Ren thought. This should be enough to qualify as finding the books.
+
+Ren picked Teepo up and went back out to the Librarian and smiled.
+
+“The entrance is under the bed.”
+
+The female dwarf's eyes widened at Ren's words. “Well, damn.” She walked over to her sleeping area. “I don't know how you found it.” She said and moved aside a small picture on the wall, to reveal a keyhole. “But you did, so you get the prize.” She inserted the key and turned it.
+
+Ren barely heard a click and the bed lifted straight up to the ceiling. There wasn't a sound, and it revealed a small opening and a ladder going down.
+
+Go Teepo! Ren thought and Teepo slipped into the hole.
+
+“I'll answer any one question that you have.” She said.
+
+Ren turned to her with a smirk. “I wonder what you know about Kytal?”
+
+“K-K-Kytal?” The female dwarf looked at Ren in surprise. “How do you know that name?”
+
+“That doesn't matter.” Ren grinned. “You have to tell me what you know.”
+
+“Alright.” She sighed. “A bargain is a bargain.” She turned the key the other way and the bed dropped back down to cover the opening.
+
+“What are you doing?” Ren asked.
+
+“This may take a while.” The female dwarf said.
+
+“That doesn't mean I can't work while you talk.” Ren said. The Librarian opened her mouth to speak, then shrugged and turned the key again to reveal the ladder.
+
+“It's just crates, Ren.” Teepo said. “Lots and lots of crates.”
+
+Ren climbed down and stepped away from the ladder. Teepo was right. Crates filled the space, so much so that Ren couldn't move any farther into the room. The female dwarf climbed down and squeezed into the available space next to the ladder.
+
+“They've been down here in storage for as long as I can remember.” She said. “I've never had any room to take them out.”
+
+Ren looked at her. “You might get a good portion of these to fit on the third floor.” He said. “If we move the shelves a little closer together on the first and second floors... I could squeeze in another row of cabinets.”
+
+“That's an idea.” She said.
+
+“Once we do that and fill the third floor, there should be enough room down here to make the rest of the shelves that would be needed.”
+
+“I don't know...” The Librarian said. “...there's a lot of crates down here.”
+
+“If it comes to it, I'll get a work crew out here to make another floor upstairs.” Ren said.
+
+“If you're sure...” The female dwarf said.
+
+“We won't know until we do it.” Ren said. “Are they in any kind of order?”
+
+She shook her head. “They're completely unsorted.”
+
+“That's both good and bad.” Ren said and grinned. “Good that I can do this.” He said and stored a dozen crates. “Bad that I can make cabinets for them, but you'll need to shift the books around on all the other shelves to sort them properly.”
+
+The female dwarf waved her hand. “Don't worry about that part.” She said. “Once they're up on shelves, I can sort them first and then worry about integrating them into the collection.”
+
+Ren nodded slightly. “Sounds like a plan.”
+
+They went back upstairs and Ren shifted the cabinet shelves over a little bit, and moved a row of cabinets from the second floor down to the first, then shifted the cabinets on the second floor over, and had room for 2 more rows of cabinet shelves. He built them, filled most of them with unsorted books, and left a couple of cabinets empty between the sorted and unsorted section. The movement space could be used later for mixing them together.
+
+They went upstairs and Ren built enough cabinet shelves to fill all of the available space. While he worked, the Librarian filled him in on everything she knew about Kytal. She was the female Deity of Water, and that everyone associated her with destruction because of how she can wear away everything; even stone. She was also known for flexibility, conformity, and for testing those that knew of her. The female dwarf told Ren that not much was known about her actual powers, but it was rumored that she had once taken human form. She had laid waste to the half of the world with a tidal wave, that covered an entire continent, because of how she was treated. By the time the Librarian was done speaking, Ren had used up nearly all of the wood he had, and then he took out the crates of books.
+
+“Don't worry about sorting them.” The Librarian said. “Just get them on the shelves for now.”
+
+Ren nodded slightly and loaded as many books onto the shelves as he could, without damaging them. He made several more trips down to the underground storage and loaded up more crates to take back to the third floor. He filled all the shelves he'd built, and still had several more crates in inventory.
+
+“I need to go and get more wood.” Ren said, and the Librarian nodded slightly. She'd already started sorting the books, and Ren left her to it.
+
+He went outside and the driver of the cart was there, kind of dozing off. “I'm sorry, it's taking a lot longer than I thought to complete this job.” Ren said, and smiled at the driver as she woke up completely.
+
+“Where to?” She asked, and Ren told her to go to the lumberyard. She took him there and he ordered another 20,000 wood planks, 2,000 4x4s, and several crates of nails. He took what the lumberyard had available, paid 50 gold for the order, then had the driver take him to House Longore. Ren walked up the steps and the guard opened the door for him. Once inside, he was greeted with a squeak.
+
+“Your highness!” Angeilin said.
+
+“Ma'am.” Ren walked over to the desk. “It's nice to see you.”
+
+“Likewise.” She said. “I'd ask you what you're doing here, but obviously you want to order more paving stones.”
+
+“Only another 20,000 or so.” Ren smiled. “To start.”
+
+“20... thousand?” She squeaked.
+
+Ren nodded slightly. “I'm having houses built, and they need roads.”
+
+“Do you want to talk to the Lady?” Angeilin asked.
+
+“I'd like to order through you, if that's okay?”
+
+“Of course.” She said and smiled as she took out an order form. “We've already had production going at an accelerated rate because you bought half of our stock the last time.”
+
+Ren chuckled. “If I'd realized I'd only have enough to make a single road, I would have ordered more.”
+
+“You needed more?” Angeilin asked.
+
+“I had to build my workshop over the road because I'd used them up, so yeah, I could have used a lot more.” He said and smiled.
+
+Angeilin chuckled and filled out the form. “20,000 paving stones to be delivered, with an open end contract for more, when needed.” She said, and handed Ren the form. “It'll take several days, possibly a week.”
+
+He signed it and passed it back. “That's fine.”
+
+“That'll be 2 platinum, 50 gold.” She said, and didn't question Ren about payment options. He grinned and handed her the payment, and she put it into her desk.
+
+“Thank you, Ma'am.” Ren gave her a slight bow.
+
+“Y-you're welcome, your highness.” Angeilin squeaked in surprise.
+
+Ren left the building and told the driver to take him back to the Library. She did so, and Ren went inside and up to the third floor. He filled all of the available space with cabinets and then went back down into the storage area to gather up more crates of books. He made multiple trips and filled all the available cabinet shelves with books.
+
+Once that was done, Ren went down into the storage area under the Library, and made more cabinets down there, and filled those as well. He made it to the other side of the room and filled that with cabinets, too. It took nearly all day, but Ren finally put the last book from the last crate, onto a shelf right at the back of the room. It was a little tight in there, as he'd had to put the shelves a lot closer together so they would fit.
+
+Ren sighed and went back up into the female dwarf's bedroom. He looked at the books there, but since the Librarian didn't mention them, Ren didn't think they were included in the deal he'd made. He went up the 2 flights of stairs and to the third floor.
+
+“Ma'am?” Ren said and the Librarian turned to look at him. “I'm done of the storage area.”
+
+“You're WHAT?” She hollered and then half-ran-half-stumbled down the 2 flights of stairs and Ren heard her shout. He waited for a few minutes and then heard her clomping feet as she ran back up the stairs. Ren braced himself as she tried to tackle him into a hug again.
+
+“Ow!”
+
+“My armor is still hard, Ma'am.” Ren said, and she laughed.
+
+“You did it!” She exclaimed. “I can't believe you did it!”
+
+Quest Complete!
+
+You have successfully built enough shelves for the Library to hold all of it's books.
+
+Rewards: 1000 XP
+
+Fame Bonus: +57%
+
+“I may have built the shelves, but you're going to have to sort all of these books.” Ren said and smiled.
+
+The Librarian chuckled. “All I need is time, my boy.”
+
+Ren chuckled. “I've left a couple of cabinets on the second floor unfilled. When you start shifting things around, you'll have a little extra space for everything.”
+
+“That's great, your highness.” The female dwarf said. “Can you wait here for a little while?”
+
+Ren nodded slightly and the Librarian went down the stairs. She was gone for about 10 minutes, and when she came back, she had a medium-sized crate in her hands. The female dwarf struggled with it and Ren ran over to help her.
+
+“Ma'am.” Ren said and took it from her. “I could have carried that for you.”
+
+“Then how could I surprise you with it?” She said between breaths.
+
+“What?”
+
+“I came across these last night, after you left.” The female dwarf said. “I thought if you actually did make me enough shelves, this would make a good reward.”
+
+So that's what the 4 question marks were for when the quest popup appeared. Ren thought and looked into the crate. At first glance, he counted nearly 50 books. He looked at her in shock. “You're giving me these?”
+
+“No, silly.” The librarian laughed. “That wouldn't bring your Library Card level up at all.” She smiled. “You can read them.”
+
+“These are Rank D?” Ren asked.
+
+“Some of them don't even have a rank...” She said. “...and since reading increases your rank...”
+
+Ren smiled. “Thank you, Ma'am.”
+
+The female dwarf pat his hand. “Let's go down to one of those nice tables you made on the second floor and read for a while.”
+
+“That'd be great!” Ren said and followed the Librarian down to the second floor. He took out several books and picked out a few that looked interesting. He read them, and enjoyed the stories, but he didn't find any Hidden Knowledge in them. The Librarian yawned and Ren looked at her.
+
+“Is it that late already?” Ren said and put the book he'd just finished reading, into the box. “I better go.”
+
+“You don't want to keep reading?” She asked.
+
+Ren grinned. “Of course I do.” He said and stood. “I've got other commitments that need to be taken care of, though.”
+
+She nodded slightly and had kind of a sad expression on her face.
+
+“I'll be back sometime tomorrow.” Ren said. “I've been slowly handing tasks off to others, so I should be able to sneak away and get back here.”
+
+The female dwarf smiled and nodded slightly.
+
+“Do you want this brought anywhere?” Ren motioned to the box.
+
+“No. If you're coming back tomorrow, you can just leave it there.”
+
+Ren looked at the box and then around at the shelves. “I think I'd rather you keep it in your bedroom. Just leaving it out like this isn't right.”
+
+The female dwarf grinned. “I'm glad you think so.” She said and stood, the put the book she was reading on a shelf. “You can carry it down, then.”
+
+Ren picked it up and followed her to the main floor, and over to her sleeping area.
+
+“Right here by the doorway is fine.” She said and pointed.
+
+Ren put it there and turned to her. “Do you want me to make you a door?”
+
+“No, thanks.” She said. “I've never slept with one, and it would feel kind of weird with one now.” She walked with Ren down the aisle to the front door. She put a hand on his arm and he turned to her. “Thank you so much, your highness.” The Librarian said. “You've done me a great service.”
+
+Ren smiled, took her hand, and bent over it. “It was my pleasure, Ma'am.” He said and left the building. The cart was waiting there in the alley, and Ren climbed up next to the driver. “House Neram, please.”
+
+The driver flicked the reins and the cart rolled down the street. They made it back to House Neram quickly, and Ren saw that a house was already built, and a second lot was already dug. The cart came to a stop at the road to the workshop and Ren gave the driver 3 gold.
+
+“But, sir...”
+
+“You waited for me all day, and never complained once that you had to do that.” Ren said as he climbed down, then he walked around the cart and examined it. He moved all the parts that could be moved, and checked the wheels.
+
+“What are you doing?” The driver asked as she watched Ren.
+
+“Seeing what goes into making a cart.” Ren said and then got the plans when he examined how the pony was attached.
+
+“I thought you were checking for damage or something.” The driver asked.
+
+“I was doing that, too.” Ren said and smiled. “Thank you for your help today.”
+
+“You're welcome.” She said.
+
+Ren waved as she drove up the road to the workshop, he assumed to pick up passengers. He turned towards House Neram and saw the once blank side was completely covered in details. Ren looked at the wall, and saw that it's details were different from the work that was done to the front. He walked over to where Barnar had set up his workspace and saw that the work crew was packing everything up.
+
+“Ren!” Barnar said and came over to him. “What do you think?”
+
+“I think you went as far overboard as I thought you would.” Ren said and laughed.
+
+Barnar clapped Ren on the shoulder. “You knew I was going to have fun, didn't you?”
+
+“With a canvas this size?” Ren said and waved to the 200 foot length of the front wall. “I'd be disappointed if you didn't have fun with it... and it's 3 other sides.”
+
+“Ha ha!” Barnar said and let Ren's shoulder go. “I enjoyed it almost as much as I enjoyed spending time with the Lady of the House.” He said and grinned. “I envy you, my friend.”
+
+“You don't have to envy me too much.” Ren smiled. “3 years isn't that long to wait.”
+
+Barnar put out a hand for Ren to shake. “No, it isn't.” He said as Ren shook his hand. “I hope I'll see you again soon.”
+
+“Definitely.” Ren said. “You still owe me a lesson or two.”
+
+Barnar chuckled. “You know the basics well enough. The real expertise comes from practice, my friend.”
+
+“It sure does.” Ren said and grinned. “So, what do I owe you for the work?”
+
+Barnar shook his head. “We agreed that I'd let you pay for the workers and for the materials.”
+
+“I know, but Barnar...” Ren looked back at the battlements. “...this turned out to be a lot more than either of us envisioned.”
+
+“That doesn't matter.” Barnar smiled. “A deal is a deal.”
+
+“Okay, my friend.” Ren said. “Can I at least give you a bonus for finishing early?”
+
+“Well...” Barnar hedged. “...everyone did work a lot harder for you than they have for anyone else.”
+
+Ren pulled out a platinum coin and handed it to Barnar. “A 5 gold bonus for everyone.”
+
+“Ren...”
+
+“It's not even 2 days pay.” Ren said, and smiled as Barnar took it. “I'd say to tell them to have fun, but I think that'll happen anyways.”
+
+Barnar smiled. “I can guarantee it.” He said. “Take care of yourself, Ren.”
+
+Ren nodded slightly. “I will, Barnar.”
+
+Barnar walked over to one of the carts that were being loaded and helped the workers finish. He climbed up into it, and all the workers waved as they drove away. Ren waved to them, and when they were far enough away, he turned towards the gate to the house and walked over to it. Wohrum was standing guard this time.
+
+“Welcome home, your highness.”
+
+“Thanks, Wohrum.”
+
+Ren went to walk by, and Wohrum coughed. “Yes, Wohrum?”
+
+“Sir, I'd like to know how I can pay you back.”
+
+“For what?”
+
+“Sir, you gave me the 200 gold for the work penalty when I left House Lodur.”
+
+“And?”
+
+“That's a lot of debt.” He said and sighed. “It's about a year at the mines.”
+
+“House Lodur's mines.”
+
+Wohrum nodded slightly.
+
+“I told Lady Neram that I won't have anyone go into debt to move here.” Ren said. “You don't owe me anything.”
+
+“But sir...”
+
+“The money shouldn't have to be paid in the first place.” Ren said and frowned. “Making someone work for that long, for free, is horrible.”
+
+Wohrum's eyes widened at the disgust in Ren's voice.
+
+“I hope you're taking your pay, at least.”
+
+“I haven't been paid yet, sir. It hasn't been a full week.”
+
+“Sorry, Wohrum.” Ren said and gave him a platinum coin. “Here's 10 weeks pay.”
+
+Wohrum stared at the coin. “But, sir...”
+
+“Dammit, I keep forgetting.” Ren said and handed him a coin pouch. “Equip that and put the coin in it.”
+
+Wohrum equipped the pouch, put the coin in it, and Ren nodded slightly.
+
+“Now you can take out anything you need.” Ren said. “While I'm at it, and before I forget, where's Golir?”
+
+“In the tent with his wife, sir.” Wohrum said.
+
+“You won't be living in the tent after tomorrow.” Ren said. “Your house should be done by then.”
+
+“M-m-my house, sir?” Wohrum asked.
+
+Ren snorted a laugh. “You didn't think I'd let you stay in a tent, did you?”
+
+Wohrum smiled. “The thought had crossed my mind, sir.”
+
+Ren chuckled. “I've spent a few nights in a tent. It's fine for visits, but nothing beats the comforts of a good bed.”
+
+Wohrum nodded.
+
+“I hope you won't mind staying by yourself tonight.” Ren said and walked around the side of House Neram's battlement wall to where the tent had been set up. He wasn't sure where they got the poles, but it didn't really matter at this point. Ren walked over to the tent and stopped at the flap. How am I supposed to... He sighed.
+
+“Knock. Knock.” Ren said, and then heard some movement. A minute later, the flap opened and Golir's wife was there.
+
+“Y-your highness.” She stammered.
+
+“I'm sorry for bothering you, but your house is ready.”
+
+“M-m-my HOUSE?!?”
+
+“I told you yesterday I'd try to have a crew sent out.”
+
+“But... but...”
+
+“What's going- Sir!” Golir said when he saw Ren was at the flap.
+
+“I was just telling your wife that her house was done.”
+
+“H-h-her HOUSE?”
+
+Ren chuckled. “If you'd like to come with me?”
+
+“Of course, sir.” Golir said. “Elean, gather our things.”
+
+“That won't be necessary.” Ren said. “Step out, please.”
+
+The couple stepped out of the tent and Ren walked around and pulled up the 6 spikes holding it down. He selected it and stored it in inventory.
+
+“By the gods!” Elean exclaimed.
+
+Ren smiled. “It's just a couple of miles down the road.” He said and started walking. Golir took his wife's hand and they followed a short distance behind, far enough back to talk freely without Ren hearing them.
+
+*
+
+“I thought the statue was a figure of speech or something.” Elean said to her husband.
+
+Golir shook his head. “No, it's really true.” He said. “Wohrum told me his highness almost died doing it.”
+
+She was quiet for a moment. “Why did he even do it?”
+
+Golir smiled. “The way I heard it, he did it just to see if he could.”
+
+“Wow.” Elean said. “That's... an amazingly stupid reason.”
+
+*
+
+The couple was back kind of far, but Ren's hearing was quite exceptional and he had heard every word, and so had Teepo.
+
+“A-amazingly s-stupid!” Teepo was chittering in laughter, and Ren clamped his own mouth shut to try and not laugh himself. Ren led the couple down the main road to the new housing area. The road into the housing area was marked, but nothing was dug up. He stopped walking and waited for Golir and Elean to catch up.
+
+“There's no actual road yet.” Ren said. “I'm having paving stones delivered, starting tomorrow.” He walked along the marked road and over to the rectangle. The house was clearly visible, and both the front and back yards were marked as well. Ren stepped up to the dwelling and got a popup.
+
+New Dwelling!
+
+As the land owner, you now have a permanent structure built on your land.
+
+Notice!
+
+You have yet to assign an occupant to this dwelling. Do you wish to assign an occupant now?
+
+“Yes.” Ren said and a virtual keyboard appeared in front of him.
+
+Please enter the names and / or Player IDs now.
+
+Ren asked them to spell their names and he entered them into the system. He got another popup that asked for confirmation.
+
+“Yes.” Ren said and a small key appeared around Golir's and Elean's necks. They grabbed them and held on tight.
+
+“It's true! It's our house!” Elean said and gave her husband a kiss. She broke it a moment later and turned to Ren. “Sir... I... thank you so much.” She took out the 40 gold that Ren had given her and Ren took it.
+
+“No, thank you.” Ren said. “You reminded me that I wanted to do this.”
+
+“Sir, I don't know how I can repay you.” Golir said. “My wife has been wanting a house of her own since she was a little girl.”
+
+“You gave up your lives somewhere else and moved here. That's payment enough.” Ren said. “Oh, that reminds me.” He said and gave Golir a coin pouch, and then a platinum coin. “Here's 10 weeks pay.”
+
+“10 weeks!” Golir exclaimed. “I've only been here 2 days!”
+
+“You're not thinking about leaving already, are you?” Ren asked.
+
+“No, sir.” Golir said and looked at his wife. “Not at all.”
+
+“I don't know if they have furniture or anything inside.” Ren said. “After you go in and look, let me know.”
+
+“You aren't coming in?” Elean asked.
+
+Ren shook his head. “Not for your first time entering your house.” He looked at Golir. “That's something special between a husband and wife.”
+
+“Right!” Golir said and turned to his wife, and took her hand.
+
+Ren stepped away to give them some space.
+
+“Walls do not a home make; Caring is what is needed.” Golir said.
+
+“A roof does not cover us; Devotion is our shelter.” Elean responded.
+
+“A house alone is nothing; Love brings us together.” Golir said.
+
+“I will dwell here; and build a home with you.” They said together, then walked over to the door. Golir opened it and Elean stepped inside. He followed her inside and shut the door.
+
+Ren got to work and made a bed, just as comfy as the one he still carried, a table and 4 chairs, a couch, and 2 comfy chairs. He made covers for everything, but left them white, as he didn't know what colors Elean would like. When he was done, Ren stored everything and then took out the tent. He put the tent on the lawn, and only had to wait a couple more minutes for the front door to open. They came back outside, and Elean's hair was a little messed up and Golir had a smile on his face.
+
+“I take it the 'kiss in every room' ritual was successful?” Ren asked, then tried his best not to grin as Elean blushed and Golir looked proud of himself.
+
+“Yes, a... a kiss...” Elean looked at her husband like she'd never seen him before. “...in every room.”
+
+Golir grinned and preened a little.
+
+Ren chuckled. “Was there furniture inside?”
+
+He shook his head. “It was as bare as old Mother Hubbard's cupboard.” He said. “Elean, can you get our things from inside the tent?”
+
+“Sure.” She said and went into the tent.
+
+“I'd like to give you a house-warming gift.” Ren said.
+
+“Sir, you've given us so much already...”
+
+Ren waved his comment away. “It's just something I whipped together while you two were... busy.”
+
+Elean came out of the tent carrying blankets and pillows, and had another blush on her face. Ren looked away to save her some embarrassment, and walked to the house.
+
+“Can you show me inside?” Ren asked.
+
+“Of course, sir.” Golir said, and opened the door for him. “The main room.” Ren dropped off the couch and 2 comfy chairs. “The kitchen.” Golir said, and Ren dropped off the table and 4 chairs. “One bedroom.”
+
+“Is this your room?” Ren asked, and Golir shook his head.
+
+“It's the next door.” Golir opened the door and Ren dropped off the comfy bed. Elean's eyes had widened each time she came in the house with their meager possessions, and saw yet another piece of furniture. When Ren was done, she stared at him.
+
+“You... made all of that... just now?” She asked.
+
+Ren smiled. “I would have made end tables, but I ran out of time.”
+
+Elean's mouth dropped open and Ren chuckled.
+
+“I hope you enjoy your first night in your own home together.” Ren said and bowed slightly to them both. “Goodnight.” Ren left the house, stored the tent, and ran over to House Neram. He dropped it off back where it was, nodded slightly to Wohrum, and closed the gate behind him to lock it. Ren went inside and had a great supper of boar and potatoes. He told Nathalia and her mother about Golir and Elean's first time in the house. After a lot of speculation and good cheer, the meal ended and Ren took some food out to Princess. He went back inside and told Nathalia that he had Adventurer's business to take care of, and would be gone for a little while. Ren kissed her goodnight and went into the old bedroom.
+
+I'll see you when I get back, Teepo.
+
+“Bye, Ren.”
+
+“Logout.”
+
+********
+
+Ren had breakfast and did his therapy session, took a shower and climbed back into bed.
+
+“I'll see you at lunch, Denise.” Ren said and put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the bed and Nathalia was there. He took off his armor and cloak, and climbed in under the blanket with her. She stirred a little bit, but she stopped moving as he spooned in behind her and hugged her around the waist. She grabbed his arms tightly, and Ren drifted off to sleep.

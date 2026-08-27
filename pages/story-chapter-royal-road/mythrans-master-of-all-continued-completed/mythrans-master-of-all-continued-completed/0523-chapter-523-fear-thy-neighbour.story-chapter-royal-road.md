@@ -1,0 +1,227 @@
+---
+id: 280fdfe5-7d29-5072-aee7-b747c44afe89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 523 - Fear Thy Neighbour"
+slug: 0523-chapter-523-fear-thy-neighbour
+partOf: mythrans-master-of-all-continued-completed
+position: 523
+ownLength: 2097
+unit: words
+publishedAt: 2018-02-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197349/chapter-523-fear-thy-neighbour"
+royalRoadId: "197349"
+---
+
+“What the hell is that?!?” The scout from the next county exclaimed when a giant man appeared on top of the wall he was watching. He wasn't sure how it was possible that a 24 foot man could safely stand on top of a 40 foot wall without it crumbling or him falling off. Even with the wall 10 feet thick, his footing wouldn't be stable at all when he took a step.
+
+“Tell the commander!” The scout said and gave the pertinent information to the two men standing at the base of the tree he was in. One of the men took off at a run to bring the message to the commander, and then the scout saw something in the corner of his eye. When he looked farther down the wall, another giant man appeared.
+
+I think Lomax had the right idea after all. The scout thought about his old partner that had defected to the target. He wasn't going anywhere himself, though. He was loyal to the end, no matter how useless and bitter it was going to be.
+
+“It's a go!” A voice said from below him.
+
+The scout sighed and cleaned up his scout position. His normal job was now over, and he was to take his place with the other troops.
+
+This is not going to be fun. He thought and climbed down the tree. It didn't take long to assemble properly into ranks behind the forest, which wasn't a forest anymore because they had cleared out a good portion of it to assemble their troops. It would take them less than 10 minutes to get through the trees in front of them, and they had pre-made moat crossing bridges that they could just drop into place and run across.
+
+Now we just wait for it to begin. The scout thought and adjusted his bulky iron armor that he hadn't worn since he was fitted for it.
+
+*
+
+Ren finished enlarging the Skeleton Knights and rode Princess back to the Main House while Artemis flew beside them. Ren hopped off of the saddle and thanked Princess for the ride, then went into the warehouse with Artemis while Princess went into her own house.
+
+“What are you working on?” Ren asked Tee-one.
+
+“I had an odd idea.” Tee-one responded.
+
+Ren chuckled. “Okay, tell me about it.”
+
+“You have 10 constructs available to be made, two of which are your dogs, Riley and Stacy.” Tee-one said. “Why don't you make the rest?”
+
+“Wait, did you say 10?” Ren asked, and Tee-one nodded. “When did I get 10?”
+
+“The last one you received when you hit level 140.” Tee-one said.
+
+“I read through those popups extensively and I didn't see anything about that.” Ren said.
+
+“Really?” Tee-one asked. “I wonder why?”
+
+Ren had an odd thought himself. “I haven't had a Church or Ship popup in a while, either.” He said and looked up at the ceiling. “Great Vasalor, why didn't I receive the popups for constructs and the Church?”
+
+System and Administration Query (Player Version)
+
+Your miscellaneous and low priority popups have been disabled.
+
+Ren frowned at the popup. “Why?”
+
+System and Administration Query (Player Version)
+
+Due to your excessive time online, it was determined that low priority popups are not necessary for your continued participation.
+
+“Who determined that?”
+
+System and Administration Query (Player Version)
+
+Player Name: BLOCKED
+
+User Name: BLOCKED
+
+“Well, damn.” Ren said. “Can the popups be reinstated?”
+
+System and Administration Query (Player Version)
+
+That function is not available for Player Name: REN
+
+Administration Level: Green required for SysOp functions
+
+“How can I get that?” Ren asked, even though he suspected what the answer would be.
+
+System and Administration Query (Player Version)
+
+That function is not available for Player Name: REN
+
+Administration Level: Green required for SysOp functions
+
+Ren sighed, because that was the answer he suspected he would get. “I wonder what else I missed.”
+
+System and Administration Query (Player Version)
+
+You have:
+
+Found 3 more hidden creatures. Reference #: 63828364
+
+Impressed new people with what you can do. Reference #: 63828379
+
+Impending Attack - Hostile Takeover (Walin County). Reference #: 63828384
+
+“WHAT?!?” Ren yelled. “Show info for the impending attack!”
+
+System and Administration Query (Player Version)
+
+That function is not available for Player Name: REN
+
+Administration Level: Green required for SysOp function (Reinstate Minor Popups)
+
+“Dammit!” Ren said. “Why is this considered a low priority?!?”
+
+System and Administration Query (Player Version)
+
+Any attack upon your current defenses will fail, even if you did not have human troops available.
+
+“Just because the attack will fail, doesn't mean it's unimportant!” Ren said, and tried to explain his reasoning. “People could die, or one of their siege weapons could misfire and hit one of the farms! It could light everything on fire, or even kill the animals in the pens and stables!” He said. “Respond!”
+
+System and Administration Query (Player Version)
+
+Material damage is negligible in either case.
+
+“Ugh!” Ren turned and looked at Tee-one and Symmetra. “If I have 10 constructs, since it's a skill, you both have 10 each as well.” He said, and he felt their surprise. “Make them right away, give them proper weaponry and necessary wands, then deploy them on the other walls of the county.”
+
+“Wait, the other walls?” Artemis asked, then she smiled. “Oh, that would be sneaky of them.”
+
+“It would be.” Ren said. “They know I have forces deployed on their border, and if their scouts are worth their pay they would have found out by now that I have nothing on the other 3 walls except for the occasional patrol by the 13 human guards on their Phantom Steeds.”
+
+“We'll get to work right away.” Symmetra said.
+
+“Go nuts with the designs, okay?” Ren said. “I want anyone that sees them to know that picking on me is not a good idea.”
+
+Tee-one smiled. “Oh, we'll show them.”
+
+“I'll be back to make 8 more of my own.” Ren said and left the warehouse with Artemis beside him.
+
+“You have another familiar you can make, too.” Teepo reminded him.
+
+“I can't make another one to come with me, because of the restrictions they would have.” Ren said and went into the Main House. He saw the Mayor's door was open, and knocked on the door frame.
+
+“You didn't have to knock.” Patty said.
+
+“It's just respectful.” Ren said. “There's going to be an attack on the county.”
+
+Patty shot to her feet. “When?”
+
+“It could be any time, since the information I just discovered said 'impending attack'.”
+
+“Dammit! We won't have time to warn the families near the walls!”
+
+“I'll do that.” Ren said. “You get the guards mobilized.”
+
+Patty nodded, and Ren left the Main House and went to Princess. He told her what was going on, and they left to warn the families near the walls.
+
+*
+
+Patty left the Main House and went around back to the Barracks to get the guards. She knocked hard on the door, and it opened right away.
+
+“I'm glad I caught you between patrols.” Patty said.
+
+The scout that had defected to Ren's county was relaxing on a comfortable bed in the barracks with the other soldiers, when Patty had interrupted his nap. He could hear her talking about mobilizing, and then he felt something warm near his chest. He rolled over to face away from everyone and opened his shirt to look at the small medallion around his neck. It had a slight glow to it, which meant that it was time.
+
+“We'll armor up and head out right away” The guard said, and then his eyes rolled into the back of his head as he lost consciousness and collapsed to the floor.
+
+“What...” Patty started to say, then saw that the other guards were unconscious, too.
+
+“I'm really sorry about this.” The scout said as he took Patty by the arm and pointed a sword at her neck. “You're a really nice lady, and I feel really bad about lying to you.”
+
+Patty scowled at him. “You rotten scum!” She said. “How can you do this? You even moved your whole family here!”
+
+“It was the only way you would buy my story and let me stay.” The scout said and led her from the Barracks and over to the Main House. “Now you're going to tell me what your defenses are, and then you're going to order them to stand down.”
+
+“I'll do no such thing!” Patty exclaimed as they entered the front door.
+
+“Don't make me use this.” The scout said and touched the sword tip to her neck. “I'm not used to it, and my hand could slip at any time.”
+
+“If your hand slips, you better make sure you kill me.” Patty said. “If I'm still alive, I'm going to make you eat that sword and then tear you limb from limb.”
+
+“You villagers always talk big.” The scout said and made her sit in her office chair. “Now show me the layout of the defenses so I can get the word to Lord Grasham's forces.”
+
+*
+
+Xuunah had heard Patty's shout and went to her apartment door. She opened it and saw the scout with the sword against Patty's throat, and her armor formed around her.
+
+“What is it?” Officer Holly whispered from behind her.
+
+Xuunah saw she had her armor on as well. “It looks like a coup attempt.” She whispered and they watched the scout and Patty go into the Mayor's office.
+
+“Oh, damn.” Officer Holly whispered. “What do we do?”
+
+“Our job.” Xuunah whispered and stepped out of her apartment as her sword appeared in her hand.
+
+*
+
+Ren, Artemis, and Princess went around the county's edges and gave a warning to all the families that lived near the wall, or had farms close enough to be in danger. They were back at the Main House just over 10 minutes later, and Ren felt trepidation and urgency as his Reassurance Aura merged with Xuunah's.
+
+Ren went into the Main House and into the Mayor's office. He was surprised to see a shaken Patty, Xuunah with an unhappy face, and Officer Holly with a strong grip on the scout that had defected. He also had Xuunah's sword sticking out of his chest, and his face was blank.
+
+“What happened?” Ren asked.
+
+“You've been sabotaged.” Xuunah said. “He somehow knocked out your guards to stop the patrols and any warning they could raise.” She said. “He also kidnapped Patty and had her give him information about the county's defenses.”
+
+“Did he pass it on?” Ren asked.
+
+Xuunah shook her head.
+
+“He managed all of this while I was out warning the families to stay clear of the county walls.” He said and looked at Patty. “I'm sorry.”
+
+“No, it's my fault.” Patty said. “I accepted him and vouched for him, so this is on me.”
+
+“I didn't object to your decision to keep him here, so it's my fault.” Ren said.
+
+“If you're looking for who to blame, it's both your faults.” Officer Holly said. “You both contributed to this.”
+
+“She's right.” Patty said. “Our willingness to give people a chance gave them an opportunity to weaken us.”
+
+“I won't stop trying to help people, just because one of them might try to betray me.” Ren said.
+
+“But...”
+
+“I've gained quite a lot of people the last little while, and so far, this guy is the only one trying to tear down what I've built here.” Ren said and smiled. “Everyone else is grateful and is enjoying it.”
+
+“Ren.” Xuunah said, and he shifted his gaze to her. “This... all of this... is just a distraction.”
+
+“For what?”
+
+“For you.” The scout said. “To keep you busy while the army takes down part of your wall and overcomes your easily avoidable defenses.”
+
+*
+
+“Go! Go! Go!” The commander shouted, and the troops ran forward through the trees, and brought their siege weapons with them. Horses and carts with extended ladders on them, makeshift bridges for the moat, and shields to defend them from fiery attacks. The side of the wall that was defended with Skeleton Knights and giant-sized Spell Ballistas didn't see anything at all coming towards them... because the army wasn't there for them to see.
+
+Ren had been right. The army had been deployed in front of another wall and assaulted it instead of the heavily defended one. With no one patrolling the walls, the defenders would have no idea where the attack was coming from, just as Lord Grasham's forces had planned.

@@ -1,0 +1,259 @@
+---
+id: 63307578-68aa-5d2c-ab87-32f2e6783b84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 282 - Hard Fought"
+slug: 0273-chapter-282-hard-fought
+partOf: mythrans-master-of-all-continued-completed
+position: 273
+ownLength: 3275
+unit: words
+publishedAt: 2017-06-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142735/chapter-282-hard-fought"
+royalRoadId: "142735"
+---
+
+The dwarves were engulfed in fireballs and webs, which caught on fire after Ren unleashed a second volley of fireballs. A dozen or so dwarves were covered completely with flaming webs, and Ren didn't know if they would suffocate before the flames did enough damage to kill them.
+
+“On the right!” Teepo said, and Ren looked over to see a couple of dwarves making a hasty retreat while three others opened fire with crossbows. Ren ducked his head behind the shield and the crossbow bolts bounced off without leaving any kind of dent or even a scratch.
+
+I guess there's no point in hiding anymore. Ren thought, and made a Connection between his two Screaming Terror rings and his Dire Wolf Hooded Cloak. He activated the enchantments and funnelled them through his Fear Aura. He heard several dwarves holler as they succumbed to the feelings of Terror he was producing, but he didn't hear them all scream.
+
+Teepo?
+
+“It's not quite working.” Teepo said. “I don't know if some of them have resistance or some kind of charm to help them deal with it.”
+
+So my trump card is a bit of a joker here. Ren thought. Tell me when they're reloading.
+
+“They're taking turns and alternating their fire.” Teepo said. “These guys really know their stuff!”
+
+Ren generated a few more elemental grenades and tossed them over the shield.
+
+“A little to the right!” Teepo said, and Ren tossed another handful. “Now!”
+
+Ren moved the shield out of the way and used his Fireball and Web wands again.
+
+*
+
+“Sir! It's a prison break!” One of the dwarves that had escaped Ren's onslaught said to the head of the Thieves Guild. “We heard another squad yell, and went to see who they were fighting.” The dwarf went quiet because he didn't know how to describe what he'd seen. “It's... unbelievable, sir.”
+
+The bolts had stopped killing his men only a moment before, and the head of the Thieves Guild was quite angry. He turned to the closest squad of troops. “Get the ones still alive to the healers!” He nearly yelled and looked at his personal guard. “Let's go!”
+
+They all ran across the courtyard to where the dwarf had said the attacker was. When they reached the edge of Ren's Aura, they all stopped.
+
+“I've felt something like this before.” The head of the Thieves Guild said, and he shook slightly. “Where... where...” His eyes widened as he remembered. “It's him!”
+
+“Who, sir?”
+
+“It's that House Neram freak that beat House Lodur's champion in the Council chamber.”
+
+“By the gods, what do we do?”
+
+“Wait here!” The head of the guild said, and ran back the way they'd come.
+
+“Sir! Where are you going?”
+
+He didn't say anything and ran around to the side of the main building. He knocked three times, then once, and the door opened. Inside was something like an alchemist's lab, except it's ingredients were much more evil in it's contents, and it was tended by a hunched over cloaked figure with the hood pulled up to cover the head.
+
+“I need your...”
+
+“It's almost ready.” The cloaked figure said. “Take this.”
+
+The head of the Thieves Guild took a talisman from the figure's outstretched hand and put it on. A feeling of superiority and confidence filled him, and he smiled. After a moment, the cloaked figure handed him a small bundle.
+
+“What's this?”
+
+“A containment spell.” The cloaked figure said in a wheezy voice. “It's crude and needs a physical component, but it should work against such a foe.”
+
+“Thank you.” The head of the Thieves Guild said. “How much...”
+
+The figure waved the comment away. “He threatens everything we've built here! Get going before he escapes!”
+
+The head of the Thieves Guild nodded, and left the room at a run.
+
+*
+
+“There's a group on the edge of your Aura, Ren.” Teepo said. “They're just standing there.”
+
+They're probably waiting for someone important. Ren thought. Let's get out of here before they arrive.
+
+He didn't bother trying to loot anyone this time, and ran over to the wall.
+
+“Ren! Above you!” Teepo yelled.
+
+Ren dodged out of the way as several pieces of stone were dropped where he had been standing. He retreated back towards the building when several crossbow bolts just missed the side of his head.
+
+Dammit, they've got me cornered. Ren thought and blocked the next few shots with his shield. I can't even take out a Ballista to fire back.
+
+“More are coming, Ren!” Teepo said, and Ren thought furiously about what to do.
+
+*
+
+The head of the Thieves Guild ran to his waiting guard, and they joined him as he ran right into Ren's Aura without effect. Ren couldn't feel them enter his Aura, either. The dwarves came around the corner to see a large golden shield that deflected several crossbow bolts.
+
+Perfect. The head of the Thieves Guild thought, and threw the bundle that the hooded figure had given him.
+
+*
+
+“REN!” Teepo shouted as the bundle flew through the air. The crossbowmen were too good at their jobs, though; and Ren couldn't take the chance to dodge the bundle because of the constant attacks.
+
+I have to take it, whatever it is. Ren thought to his friend. I hope it's nothing too- “AGGGHHH!”
+
+Lightning covered Ren from head to foot, and seared his skin. His armor provided a lot of Protection; but it was also metal, and conducted the Lightning over his entire body. Since it wasn't a physical attack, his shield didn't provide him any protection, and he dropped to one knee as his Health steadily fell. He had a death grip on his shield and Staff of Earth Moving; but his muscles were frozen, and he had a hard time keeping a coherent thought.
+
+After almost 30 seconds the Lightning subsided, and Ren breathed a sigh of relief as all of his muscles relaxed. Now that he wasn't under constant pain from the Lightning, he equipped a Level 2 Web wand in the hand with the shield strapped to his arm. He thought of the spells he had, and knew that he didn't want them to know who he actually was. He absorbed the charges from the wand and filled it with the Disguise Self spell, then cast it on himself.
+
+Ren imagined he was 3 inches shorter, the average size of a dwarf, had long dark hair, and the staff he held was just a normal walking stick. He couldn't change the shield because it was still in view and crossbow bolts still peppered the surface, but he hid his armor by making it look like robes, and changed the Dire Wolf Hooded Cloak to look like normal cloth. He was pretty sure the disguise wouldn't fool a trained observer, since it was just an illusion and didn't actually change him; but at the moment, it was all that he had until he could work out a way to escape.
+
+“Cease fire!” The head of the Thieves Guild said, and silence filled the space around Ren as the dwarves stopped firing at him. “You can come out from behind that shield.” He said. “You're our prisoner now, and will fetch a high price.”
+
+Ren stood up and looked towards the voice and saw the head of the Thieves Guild. He had grey hair on his head, a long grey beard, and was covered in muscles. He also had a surprised look on his face.
+
+“Who by the gods are you?” The head of the Thieves Guild asked. “I thought... your Aura...”
+
+“I have enchanted rings.” Ren said in as squeaky a voice as he could muster. “They don't work very well on your men, though.”
+
+The head of the Thieves Guild laughed. “That's because they're more afraid of me than anything else.” He said. “A little Terror now and then strengthens the soul.”
+
+Now that Ren didn't have to hide behind the shield, he saw that he was in a cage made of Lightning.
+
+This might be a little harder to get out of than I thought. Ren quickly glanced down and saw the 'bars' of the cage didn't connect to each other on the bottom, then smiled. “So you run this place and control your men with fear?”
+
+The head of the Thieves Guild nodded slightly.
+
+“How many of your men would give their lives for you?” Ren asked, and looked at the gathered dwarves. There were about 30 of them that surrounded him, both on the ground and on top of the walls.
+
+None of them spoke, and the head of the Thieves Guild looked at them. “You can speak!”
+
+“I would!”
+
+“I'd gladly give my life.”
+
+“I'd die twice for him!”
+
+“You can't spend money if you're dead.” Ren said, and concentrated on the ground in front of him. If I can just distract them a little more... I know I can't use it to move man-made objects... but I can move the ground underneath.
+
+“That's true.”
+
+“Are you sure? He said we'd get money then, too.”
+
+“That's for our families, you idiot.”
+
+“Oh.”
+
+“So...” Ren said. “What made you do it?”
+
+“Do what?” The head of the Thieves Guild asked.
+
+“Why take little girls, rip them from their families, and hurt the ones they love?”
+
+The head of the Thieves Guild laughed, and several other dwarves joined in. He made a slashing motion with his hand, and everyone went quiet.
+
+“Money, of course.” He said. “We've made more money from ransoms than every other venture combined.”
+
+“Really?” Ren chuckled. “You're making more money by having more mouths to feed and people to take care of? Doing extra patrols to make sure no one escapes? Having to keep guards on the dungeon to watch over people that can't contribute to all the things that need to be done around here? Constantly worrying that someone would find this place and attack it because you're holding children here?” He laughed. “Is all of this really worth it?”
+
+The other dwarves looked uncomfortable, and exchanged glances with several others.
+
+“You don't know what you're talking about!” The head of the Thieves Guild said, angrily. “One prisoner alone brought in 10 platinum in the last two months!”
+
+A loud murmur rose among the dwarves. Some of them even discussed why they hadn't heard this before.
+
+“I see a lot of your men didn't know you've been making that much money.” Ren said. Almost there. He thought. “I guess that means you kept their share.”
+
+The murmur rose higher, and the head of the Thieves Guild turned on the men.
+
+“QUIET!” He yelled. “We share cuts at the end of the week!”
+
+“That was 2 days ago.” One of the dwarves close by said, and the head of the Thieves Guild drew his sword and ran the dwarf through. The dwarf fell to his knees when the sword was pulled out a moment later, then collapsed and died.
+
+“Anyone else want to question how I divide the spoils?” The head of the Thieves Guild asked his men. No one spoke and he nodded slightly. “Now.” He said and looked at Ren. “You are going to tell me who you are working for, and then I'm going to kill you, kill them, then kill your family, their families, and just for fun I'll burn your Main House down.”
+
+Ren laughed and laughed, then ducked behind the shield to cast Disguise Self again. All of the dwarves were unnerved by his laugh, then Ren switched from his Fear Aura to his Command Aura and stood up straight.
+
+“Do you really think I'm going to let you live after knowing you kidnapped children and held them in a dark and cold place underground?” Ren asked and laughed maniacally. “You are all going to die!” He commanded as Teepo flew down and landed on his shoulder.
+
+“You're in no position to make threats!” The head of the Thieves Guild said.
+
+“What's going on out here?” The hunched over hooded figure asked when it came around the corner. “By the gods, NO!” It exclaimed as it saw Ren. “Don't! Don't do it!”
+
+“It's too late to beg for mercy.” Ren said. “I gave my word that death would follow.”
+
+The hooded figure threw off the cloak to reveal a High Elf woman. She stood up to her full height, nearly double that of a dwarf, and her hands started to glow.
+
+“I won't let you ruin the plan!” She nearly yelled.
+
+“Go ahead and cast your spell.” Ren laughed. “It won't make any difference.”
+
+For the entire time he had been captured, Ren had been using the Staff of Earth Moving to shift the dirt, mud, rock and earth from underneath that side of the castle. Like the description said, it moved the earth like waves, and Ren took that to be a literal meaning.
+
+“What is that?!?” One of the dwarves on top of the battlement wall asked as he saw the crest of a tidal wave of dirt.
+
+It had taken a while; but Ren had made the ground recede like the tide, from under one side of the castle, destabilizing it, and everyone yelled and screamed as the last bit of dirt slid out from under it. The wave was finished, and the entire castle lurched to the side and tilted at an almost 45 degree angle. There had been no sound from the dirt shifting, but when the castle started to move, it sounded like thunder. All the dwarves fell and rolled towards the wall; along with carts, weapons, crates, and debris. Some of the dwarves died immediately as they hit the wall, like the head of the Thieves Guild, and others got to see the wave of dirt as it started to crash down upon them.
+
+Ren, thanks to his Amulet of the Spider, stood inside the Lightning cage he was trapped in, and looked at the High Elf. Her face had changed from the grace you would expect from an elf, to one of rage. She stood in the same spot, even at the 45 degree angle, just like Ren did.
+
+“This isn't over!” She said, as the dirt rose up to engulf her. “My master doesn't like it when people interfere with his plans!”
+
+“Me, either.” Ren said. “I only came here to rescue one girl.”
+
+“Wh-what?” She exclaimed as the dirt went up to her waist. “You didn't come here to wreck everything?”
+
+Ren shook his head as the dirt flowed around him, but didn't cover him thanks to the staff. “If the Thieves Guild hadn't been so persistent, I'd have been long gone already.” He laughed. “Their own greed to try and keep me here, ended their lives.”
+
+“This... was a mistake...” She said as the dirt filled to her neck. “It's a fitting end, isn't it?” She asked Ren. “I figuratively wallowed in the dirt and sullied myself with dwarves, and now I wallow in it for real.”
+
+Ren nodded slightly to her, and then the dirt covered her face.
+
+*
+
+“What is that sound?” The dwarf who wanted to rescue his daughter asked out loud, and the oldest girl that rode on Princess' saddle turned around.
+
+“I don't see anything.” She said.
+
+That reminded the dwarf that he had the All-Seeing Mirror, and he took it out and thought of the castle.
+
+“By the GODS!” He yelled, and came to a stop. Princess stopped, and all of the girls looked out of the cart at the dwarf.
+
+“Dad? What is it?” His daughter asked. He held up the mirror and showed them the castle. It was tilted up at a crazy angle, was half-buried in the dirt, and they could see more dirt covering it. “Oh, no!” She said. “What... what about...”
+
+The dwarf thought about Ren, and all of the girls started to cry. Princess brayed her sorrow as she watched Ren be covered over in tons of dirt.
+
+*
+
+I'm really glad I was wrong about needing both hands to use the Move Earth spell. Ren thought as he looked around the small area he was in. The spell's description said that he wasn't allowed to dig tunnels with it; but, it didn't say anything about not being able to keep a large air pocket around him as the dirt flowed and covered where he was.
+
+“You should keep it up for another 10 minutes at least.” Teepo said. “You don't know how long that High Elf woman can hold her breath.”
+
+Ren nodded slightly and stayed where he was. Surprisingly, with him and the staff completely underground, he could actually feel the 'current' of the dirt as it moved. The best thing was, the dirt had disabled the Lightning trap, and he was no longer held captive.
+
+That's both scary and cool. Ren thought and kept the dirt flowing for 15 minutes more, just in case. Once that self-imposed time limit was done, he received a popup.
+
+Stat Change!
+
+Knowledge Of Earth Level 1 (Intermediate 0%) - Earth affinity and resistance increased to 25%
+
+“Thank you for accepting my apology.” Ren said to the Earth, then stored his shield and used the disguise wand again. He stored it, put the Staff of Earth Moving in his other hand, and took out his mining pick. He took his time and moved carefully, and dug his away across the space to where the High Elf woman was.
+
+Ren dug out the packed in dirt and exposed her face. The dirt was in her eyes, nose and mouth, and from what he could tell, there was no life in the body.
+
+I guess I didn't need to disguise myself. Ren thought and looted her body, and gained a High Elf bracelet, several platinum coins, and three shadow markers. The dirt filled in the spot where her body was, and Ren turned towards where he knew the bodies of the dwarves that had attacked him rested. He found them quickly, looted them, and only found 5 more shadow markers. Then he found the body of the dwarf that ran the Thieves Guild.
+
+When Ren looted it, he found a pile of platinum coins, an unidentified ring, and surprisingly, another small wooden box. Inside it were 15 shadow markers; but there was space for 30.
+
+Thank the gods. Ren thought and took out the one he had looted from Lord Lodur. When he opened both boxes and compared them, the shadow markers in one would fit in the empty spaces in the other. They were transferring them back and forth to each other. He thought and shook his head. Just think, one of the richest dwarves that ran pretty much everything, was also responsible for stealing everything, too.
+
+Ren stored everything he'd found and started to dig up at an angle.
+
+Let's get out of here, Teepo. Ren thought to his friend. I've got some Adventurer's business to take care of.
+
+“What about the rest of them?” Teepo asked. “There's probably a lot of dwarves trapped inside. They could dig out, just like you are.”
+
+Dammit. Ren thought, and changed the direction he dug. You're right. I can't leave them alive after saying I'd kill them.
+
+“The closest spot anyone could be in, is right over there about 30 feet.” Teepo said. “You've got the staff to hold the dirt back, so dig faster.”
+
+I'm only using one arm! Ren said to defend his slow progress.
+
+“That's no excuse!” Teepo chittered in laughter. “Swing faster!”
+
+Ren shook his head and did as Teepo said.

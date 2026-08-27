@@ -1,0 +1,699 @@
+---
+id: 73828348-c8c7-53e0-9e7e-8cb0f05abe9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136 - It Still Floats"
+slug: 0121-chapter-136-it-still-floats
+partOf: mythrans-master-of-all-continued-completed
+position: 121
+ownLength: 6646
+unit: words
+publishedAt: 2017-01-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111021/chapter-136-it-still-floats"
+royalRoadId: "111021"
+---
+
+Ren slept the rest of the night, despite his desire to do more work. He opened his eyes and remembered where he was; in bed and being snuggled on both sides by a beautiful woman. He felt Narhilda move slightly and he looked at her. She lifted her head and looked back at him.
+
+“I'm glad you coming home yesterday wasn't just a dream.” Narhilda said and smiled.
+
+“I thought that for a while, too.” Nathalia said. “I'm so glad you're really here.”
+
+Ren chuckled and it shook both women slightly. “I'd have dug my way out of there to get back here.” He said. “Especially if I'd known you'd be in here waiting for me.”
+
+Nathalia, and her mother Narhilda, laughed.
+
+“Don't expect this to happen again.” Narhilda said and blushed a little. “I just... when you were taken like that...” She sighed. “I spent the last 2 nights in here because Nathalia missed having someone else in the bed.” Narhilda smiled. “Of course, I missed you almost as much... and with all the things you've been doing, I...” She shook her head. “How can you do so much?” Narhilda asked. “I'm barely keeping track of everything!”
+
+Ren squeezed her shoulders. “I'm sorry about dumping all of this on you, Narhilda.” He apologized. “I want you to hire someone to help take care of it.” Then he thought about it. “Okay, maybe two someones.”
+
+Narhilda chuckled. “You're finally realizing how much you've got going.”
+
+Ren smiled. “The revenue from the Hole should help some.”
+
+“W-what?”
+
+“While I was there, I arranged a better way for the fighting to happen.” Ren explained. “I'll tell you all about it over breakfast.”
+
+“Can't... can't we just lay here a while longer?” Nathalia asked. “We were asleep for most of it, and didn't... that is... you're really here...”
+
+“I think I can spare another half an hour.” Ren said and grinned. “If you're lucky.”
+
+She got a surprised look on her face, and Ren laughed.
+
+“I'm kidding.” He said and kissed her. “I'll stay here for as long as you want.”
+
+She sighed and put her head back on his chest.
+
+Narhilda tried to pull away to sit up. “I'll leave, so you...”
+
+Ren held onto her shoulder, and her eyes widened. “We're just cuddling, Narhilda.” He said. “I don't mind providing comfort to you as well, as long as you know it can't go any further than that.”
+
+Narhilda smiled and nodded slightly, then lay back down to cuddle his chest. “I've forgotten how nice it was to have a man to cuddle.”
+
+Nathalia chuckled. “I haven't forgotten it; but I sure missed it when I couldn't do it.”
+
+Ren hugged them both tightly, and they sighed.
+
+Teepo? Make sure we're awake in an hour.
+
+“You got it.” Teepo said.
+
+Thanks, buddy. Ren thought, and just lay there, being cuddled.
+
+********
+
+“He's becoming quite the Casanova.” Bonnie said, then shook her head. “I wonder what Lucy would think about all of this.”
+
+*
+
+During her lunch break, Elise finally got the chance to review some of the thousands of hours of game footage Ren had made available to her. She watched in horror at his first encounter with wolves while gathering herbs, then smiled at his ingenuity with crafting clothes and potions. Her mouth dropped open as she watched The Smith Trials, and his determination to complete them.
+
+I... I knew he was something special when I met him... but this... Elise thought as she continued to watch Ren's adventures.
+
+“Ahem.”
+
+Elise put the tablet down on her desk and looked at her boss. “Yes, sir?”
+
+“What are you doing?” Edward asked.
+
+“I've been reviewing the footage Mr. Haddon gave us access to in the proposal.” Elise said. “Have you seen some of it?” She asked. “The things he went through, just after starting the game...”
+
+Edward smiled. “I've seen some of it, yes.”
+
+“The differences in his VR body and his real life one are significant, even right after logging in.” Elise smiled. “If we can get the VR technology and the medical field integrated like he thinks...”
+
+“Yes, it'll be a breakthrough unlike anything anyone has ever done before.” Edward said.
+
+Elise nodded, then looked at the clock. “I nearly forgot to eat lunch!” She took out a small brown bag with a couple of sandwiches in it, and started to eat. “Don't worry, sir. I'm not using company time to look at the footage.” She said after swallowing a bite of sandwich. “Lunch was the first opportunity I've had today.”
+
+Edward chuckled. “I wasn't worried about your time management, Ms. Stanford.”
+
+Elise smiled. “You don't have to worry about that, either.” She said. “You saw the report and footage from the installation.”
+
+Edward nodded. “You handled that quite well. I was impressed at your restraint.”
+
+“I do have some willpower, sir.” She said and chuckled. “I went into the lion's den and found a cute little kitten.”
+
+He laughed. “Okay, Ms. Stanford. I'll leave you to it.”
+
+Elise picked up the tablet and kept watching. This is the best show, ever! She thought, then froze. Oh, my god! Elise dropped her sandwich back into the bag it came from and she typed up the proposal. It'll take months to edit it all, and change some of the scenes a little to fit a good narration... but... this could be the best show ever!
+
+********
+
+Teepo woke Ren up an hour later, and he opened his eyes. Both women were lightly sleeping and he smiled.
+
+How many men would pay a fortune to be where I am right now?
+
+“3?” Teepo asked, and Ren chuckled, which shook Nathalia and Narhilda. They sighed and took in deep breaths. Ren let their shoulders go and rubbed their backs. They wiggled a little, fighting his gentle prompting to get up. He kept a hand on Narhilda's back, and moved his other hand down to Nathalia's hip. She snuggled closer, and Ren smiled.
+
+“Nathalia.” Ren whispered, and made a pinching motion with his fingers. “Don't make me use the key again.”
+
+Her eyes popped open and she sat bolt upright to glare at him. “Don't you dare!”
+
+Ren laughed, and Narhilda sat up as well.
+
+“By the gods, you're loud.” Narhilda sighed and rubbed her eyes. “I'll make breakfast.”
+
+“Let me do that, My Lady.” Ren said and sat up, too. “Rest here, and I'll come and get you when it's ready.”
+
+“You're so sweet.” She said and laid back down.
+
+Ren turned to Nathalia. “You can sleep a little while longer if you want.”
+
+She nodded, kissed him, and laid back down as well. Ren climbed out of the bed and tucked the blanket back over them. He went out to the kitchen and made french toast for everyone, including Princess. He went back into the bedroom about a half an hour later with two serving trays.
+
+“What's this?” Nathalia asked as she rolled over in the bed.
+
+Narhilda smelled her favorite food and sat up in the bed. “It's french toast!”
+
+“I know what it is, Ma.” Nathalia said and chuckled. “I meant this.” She waved to the two serving trays of food.
+
+“I'm serving you breakfast in bed.” Ren said and put a tray of french toast, apple slices, and juice in front of each of them. “I made a lot, just in case you were hungry.”
+
+While they ate, Ren told them all about his adventure in the Hole and that he was still charged with disobeying a Council edict, but was out on bail. They asked what bail was, and he explained that it was when you arranged to be released before going to court.
+
+“What are you going to do now?” Nathalia asked.
+
+“Keep working, of course.”
+
+“Ren...”
+
+“What are they going to do?” Ren asked and grinned. “Arrest me again for the same charge?”
+
+“Yes.”
+
+Ren frowned. “They can do that?”
+
+“If they catch you at it.” Narhilda said.
+
+“Then they won't catch me at it.” Ren smiled. “I'll be sneaky.”
+
+Nathalia smiled coyly. “Can I convince you to relax for a day or two?”
+
+Ren walked over to her and knelt by the bed. “I promise I'll take the whole day off tomorrow... and spend it with you.”
+
+Nathalia kissed him and grinned. “I'll hold you to that.”
+
+“What about me?” Narhilda said, and smiled crookedly.
+
+Ren went to her side of the bed and knelt. “I promise to spend as much time as I can today... working on the Keep.”
+
+Narhilda snorted a laugh. “You're always so practical.”
+
+Ren grinned and gave her a kiss on the cheek. “I need to make a run to the city to check on all my missing deliveries, so I'll see you both later.”
+
+They nodded, and Ren took their food trays.
+
+“What are you doing?” Narhilda asked.
+
+“I'm cleaning up first.” Ren said.
+
+“We'll take care of that.” She said. “You get going right now.”
+
+“But..”
+
+“I'll ban you from my kitchen, if you don't drop those trays.” Narhilda squinted her eyes at him. Ren's eyes widened, and he put the trays back down.
+
+“Yes, My Lady.” He took her hand, bent over it, then left the bedroom.
+
+*
+
+When he shut the door, Nathalia turned on her mother.
+
+“What was that all about?” She asked. “That was kind of mean of you.”
+
+Narhilda sighed. “Haven't you noticed? He's doing everything himself.”
+
+“Yeah, but that's how he is.” Nathalia said.
+
+“He shouldn't have to do everything by himself.” Her mother said. “He does too much as it is!” She raised her hands in the air in exasperation. “He's so busy making things for everyone else, he's forgotten how to just live for himself.”
+
+“I know.” Nathalia sighed and took her mother's hand. “I'll make sure he doesn't work on anything tomorrow.”
+
+*
+
+Ren had stood in the hallway to equip his Travelling Clothes and Dire Wolf Hooded Cloak, and heard everything that Nathalia and her mother had said.
+
+Is that true, Teepo? Ren asked his friend, then walked down the hallway. Am I doing too much for everyone?
+
+“Of course you are.” Teepo chittered in laughter. “But, that's what makes you, you.”
+
+Ren walked out the front door and went to the stable to feed Princess.
+
+“If you weren't helping people, what would you be doing?” Teepo asked. “How would you learn all the great things you've learned, if you didn't help people?”
+
+Yeah, you're right. Ren thought. If all I did were things for myself, I'd never learn anything new.
+
+“That would be a complete shame, not to mention a waste of time.” Teepo said. “You're doing things because it's fun... so keep doing them! You can do what you want.”
+
+Ren took a deep breath and smiled. You're right, Teepo. I'm going to do what I want to do, and if I want to make things for everyone, then that's what I'm going to do!
+
+“Darn right.” Teepo said.
+
+Ren chuckled and pat Princess, then left the stable. He tossed Teepo in the air to check for what was outside the gate, and Teepo said Golir was standing guard.
+
+“Drawbridge coming down!” Ren said, and untied it and let it down slowly. He opened the gate and Golir stood there with surprise on his face.
+
+“There's a new gate?”
+
+“Yeah, I made it yesterday.” Ren said and shut it with a resounding clang. “Doesn't it sound nice?”
+
+Golir raised his eyebrows for a moment and then nodded slightly. Ren smiled and stepped over to him. “I'm sorry for ramming through the old one.” Ren apologized. “Wohrum told me last night you had to jump out of the way.”
+
+“I didn't have to.” Golir chuckled. “That was just my reflexes trying to escape impending death.”
+
+Ren grinned. “I knew you weren't close enough to be hit, but I'm sorry anyways.”
+
+“Thank you, sir.”
+
+“Let me make it up to you.” Ren said and took out another set of gleaming red full plate armor. “I gave Wohrum his last night.”
+
+Golir equipped it and grinned. “Sir, it fits perfectly.”
+
+“What about your sword?”
+
+“Family heirloom, sir.” Golir said, as he took it out of the sheath with reverence. “My grandfather... he... when he died...”
+
+“He used that sword during the Great Divide, didn't he?”
+
+Golir's eyes widened. “How did you know that?”
+
+“A good friend told me all about the Dwarf Civil War.” Ren said and smiled. “Your grandfather would have been about your age at the time, I think.”
+
+“Sir! He was!”
+
+Ren smiled. “May I?”
+
+“Of course, sir.” Golir handed it over and Ren examined it. The sword was old and rusted, chipped really badly along one edge, and the pommel was worn smooth. It was still strong and sturdy, though.
+
+“That's a nice blade.” Ren said and handed it back.
+
+“I thought about having it repaired, but Pappy told me all the stories about how he got all the nicks and chips. I don't want to lose those memories.”
+
+“I'm glad I didn't offer to repair or sharpen it, then.” Ren said and smiled. “I'd like to give it a good polish, though. If that's okay?”
+
+Golir nodded slightly and handed the blade back to Ren. He polished it as hard as he could, and removed nearly all of the rust from the blade, and added a lot of Durability to it. Ren wrapped one of the straps of Spider Silk Cloth he'd sewn up when making the handles for his own weapon, and sewed it tight.
+
+“By the gods!” Golir exclaimed and looked at the shiny metal. “It's magic!”
+
+That prompted Ren to use Enchanted Eyes and saw it glow. He used Read Rune and Decipher and saw a blue rune appear on the metal.
+
+“Hold this for a moment.” Ren said and took out his Book of Runes, and flipped to where the new rune would have appeared. He held it out for Golir to see. “What does this say?”
+
+“That's my grandfather's emblem!” Golir said. “He said it gave him the ability to pierce the hardest beast's skin.”
+
+Ren smiled. “Did he tell you what it was called?”
+
+Golir nodded. “It says, 'Spear'.” Then the blade in Golir's hand shot out to 6 feet in length and nearly clipped Ren in the forehead as it swished through his hair. Both men had shocked looks on their faces. The blade had become a spear.
+
+“By the gods! I'm sorry, sir!” Golir said and looked at the new weapon in his hands. “How in the world?” About 10 seconds passed, and the spear shrank back into a short sword. Ren took it gently from Golir and pointed it away from either of them.
+
+“Spear.” Ren said, and nothing happened. He looked at it and the rune no longer glowed. “We'll have to wait for it to recharge I guess.” He said and handed it back to Golir.
+
+“Recharge?”
+
+“If my guess is right, after an hour, it'll be able to do that again.” Ren said and deactivated his active abilities.
+
+“Amazing!” Golir said. “I never knew my grandfather meant what he said literally. I thought it was just a battlecry or something!”
+
+Ren chuckled. “Yeah, you'd be surprised what you can learn from old stories.”
+
+Golir nodded slightly and looked at Ren. “Thank you very much for showing me this, sir.”
+
+Ren shook his head. “Thank your grandfather. He must have put it to good use to come back from that battle, then raise a family.”
+
+“That he did, sir.” Golir smiled. “That he did.”
+
+“I'm heading into the city for a while. See you later.” Ren took off running and Teepo didn't chitter in delight. Sorry, buddy. Ren thought. There's no way I can run like Princess.
+
+“That's okay.” Teepo said. “I think I overdosed on speed, anyways.”
+
+Ren snorted a laugh.
+
+“What's so funny?”
+
+Overdosing on speed means something different where Adventurer's come from. Ren thought, then explained it to Teepo.
+
+“I don't know whether to laugh or cry.” Teepo said. “It was funny for the double meaning, but now that I know what you meant, I feel bad about all the Adventurers doing that.”
+
+Ren nodded as he slowed down in the middle part of town. He went to Barnar's place first, and found out the reason deliveries weren't going to House Neram.
+
+“We can't defy the Council, Ren.” Barnar said.
+
+“You can't, no.” Ren said and grinned. “I already have.”
+
+“They told us to keep the money from your order, too.” Barnar said and tried to hand it back to Ren, but Ren shook his head.
+
+“I wont hurt the other businesses by taking back the money I already paid.”
+
+“We aren't fulfilling our contract!” Barnar exclaimed and the nearby workers cowered a little and tried to not look at Ren.
+
+“I'm sorry that the Council is hurting you like this.” Ren said. “I'm canceling my order.”
+
+Barnar took in a sharp breath. “Ren!” He tried to hand back the money again and Ren shook his head.
+
+“I canceled it, so you can keep the money.” Ren looked around. “Can I pick up the House Neram crest mold?”
+
+Barnar huffed out a breath and pointed to the corner where the molds were made. “Help yourself.”
+
+“Thanks.” Ren said and went over to the area and stored the mold.
+
+“Do you need any mortar?” A worker asked and then winced. “I'm sorry.” She said and blushed in embarrassment.
+
+Ren smiled and put a hand on her arm. “It's okay. I'm hoping this will all be worked out soon, and we can all get back to working normally.”
+
+She smiled at him and nodded slightly. Ren waved to Barnar and the workers he could see and left to go to the lumberyard. He told them the same thing when they tried to give him a refund for the undelivered materials, since they were breaking the contract. Ren canceled the order, and they kept the money as well. The place for the windows was next and he repeated the process. Ren went to the stables and the female dwarf there wouldn't even lift her head to look at him, when he entered her office. She also tried to give the money back, then got tears in her eyes as Ren canceled the contract, and she got to keep the money by default.
+
+“You.. you can't do that!” She said, nearly sobbing. “You paid so much, and now you're getting nothing in return!”
+
+Ren took her hand and bent over it. “I believe your tears are worth more to me than the money.” He said. “Thank you for all your hard work.”
+
+She actually did start sobbing then, and Ren left the office. His next stop was House Longore, and the paving stones. No sooner had he entered the lobby, when he heard a squeak of surprise and the patter of tiny feet as Angeilin ran over to him. She waved him to kneel down and he was taken into the smallest and cutest hug he'd ever gotten.
+
+“I'm so sorry, your highness.” She said and let him out of the hug. “I tried my best to sneak more stones to another address and transfer them over, but the workers wouldn't even drop them close to your property.”
+
+“Thank you, Ma'am.”
+
+“Why aren't you wearing your nice armor?” She asked.
+
+“I'm keeping things casual today.” Ren said and grinned. “You aren't though.”
+
+Angeilin blushed a little. “Dorcot's taking me out for a boat ride after work.”
+
+“You can rent boats?” Ren asked.
+
+“Rent?” Angeilin chuckled, and it still sounded like glasses tinkling to Ren. “He bought one.”
+
+“Can you tell me from where?” Ren asked, and she told him where to go. “Thank you, Angei... Ma'am.”
+
+Angeilin laughed. “It's okay. We're almost family.” She said. “We sent in the petition a few days ago to change our last names.”
+
+Ren's eyes widened. “Angeilin... you... you didn't have to...”
+
+“You've shown me how things really are, and how unfair I've been to Dorcot all these years.” Angeilin said. “We pledged to House Neram, and you took us in without question.” She said. “We're more than pleased to change our family name to match someone so honorable.”
+
+“I don't know what to say.” Ren said.
+
+“You can say congratulations.” Angeilin said and laughed.
+
+“Congratulations.”
+
+“Now that that's out of the way, I guess you're here for a refund because we aren't fulfilling the contract.”
+
+Ren shook his head and told her he was canceling the order, and they got to keep the money.
+
+Angeilin shook her head. “I won't accept that.”
+
+“Is Lady Longore in?” Ren asked, and smiled at her surprised expression. “Angeilin, I won't have the Council's decision hurt all of the businesses that I deal with, by making them lose Honor for no reason.”
+
+“But... you...” Angeilin started to argue, then sighed as her resolve melted at the sincerity in Ren's eyes. “Okay.” She said. “Fine. I'll accept the cancellation.”
+
+“Thank you.” Ren said, and bent over her hand. “Have fun tonight.” He stood up and left her standing there in the lobby. Ren ran to the Library and knocked, but there was no answer. He entered the building, since the door was unlocked, and crept over to the staircase, and got a popup.
+
+Stat Change!
+
+Sneak Level 8 (Beginner 0%)
+
+Teepo.
+
+“On it.” Teepo said and hopped out of the hood and went into the sleeping area. She wasn't there, and Teepo skittered up the wall by the stairs to search the other floors. “Second floor, third table.”
+
+Thanks. Ren deactivated Sneak and walked up the stairs, making quite a bit of noise.
+
+“She heard you.” Teepo said.
+
+“It's me.” Ren said. “The shelf builder.”
+
+“Your HIGHNESS!” The Librarian yelled, and Ren heard her clomping feet quickly cross the floor. He braced himself and caught her into a hug at the top of the stairs. “When she told me you'd been arrested... I thought... I thought...” The female dwarf started to cry. “...I'd never see you again!”
+
+Ren smiled and pat her back. “If I thought I wouldn't be back, I'd have had my wife tell you that.”
+
+She sobbed a few times and Ren gave her a piece of scrap cloth to wipe her face.
+
+“But... you were sent to the HOLE!”
+
+Ren's eyes widened, because she knew what it was. “I arranged for an early release.”
+
+She shook her head. “They never release prisoners until they either serve a sentence, or are sent somewhere else.”
+
+Ren smiled and gently let himself out of the hug. “You could say they sent me home.”
+
+“I'm not going to ask how you did that.” She said as her crying slowed down.
+
+“I just changed how everything was handled.” Ren said. “Now they even pay me for it.”
+
+It was the Librarian's turn for her eyes to widen, and then she started to laugh. “You... you... hahaha!”
+
+Ren let her laugh until she calmed down.
+
+“You did the same thing here.” She said. “You changed how everything was handled. I have access to everything now.”
+
+Ren nodded slightly. “I'm sorry I haven't been around to help.”
+
+“Oh, that's okay.” The Librarian said. “I've been sorting in the mornings and reading in the evenings.”
+
+“I'm glad that you're taking your time and enjoying yourself.”
+
+“Me, too!” She said. “I've been kind of in a slump for years, and now I'm all excited over books again!”
+
+“When I have time, so am I.” Ren said. “You can learn so many things.”
+
+“I'm done sorting for today. Do you want to read something?”
+
+“I do. In fact, a good book would have served me well in the Hole.” Ren said. “A good friend told me all about the Great Divide instead.”
+
+Her eyes widened. “You're kidding!”
+
+Ren shook his head. “Nope. I've got all these facts and figures floating around in my head.” He said and smiled. “The names are the worst, though.” He laughed. “Pronouncing them was harder than a freshly cut diamond!”
+
+“Show me.” She said, seriously.
+
+“W-what?”
+
+“Tell me some of it.” The Librarian said. “Sit.” She commanded and pointed to a nearby chair.
+
+“Where should I start?” Ren asked and sat down.
+
+“House Greentree.” She sat down beside him. Ren thought back to what Teepo had told him, then nodded.
+
+“Okay. There was this young girl named Annette...” For the next hour, Ren told the female dwarf all about House Greentree, it's lineage and it's role in the Dwarf Civil War. She asked him questions about it, and he answered them as best as he could. Teepo tried to give him some answers, but Ren told Teepo that he needed to do it himself. When the Librarian finished with her questions, she nodded to him, and he gained 10 Honor.
+
+“Give me your Library card.”
+
+Ren handed it over and she took it downstairs. She came back several minutes later and handed it to him. He examined it and his eyes widened.
+
+Library Car Holder - Ren
+
+Rank C
+
+Books Read: 112
+
+Earth Elemental Magic (D), Fire Elemental Magic (D), Water Elemental Magic (D), Wind Elemental Magic (D), Light Elemental Magic &copy;, Dark Elemental Magic&copy;, Ice Elemental Magic&copy;, Lightning Elemental Magic&copy;, Arcane Elemental Magic&copy;, The Guide to Endless Joy (Children), Fletching Mastery(B), Bruhilda and the Water Sprite (Children), The War - Civil War - Great Divide (Compendium) (A).
+
+“Ma'am! What's this?” Ren asked surprised.
+
+“I'm sorry, I can't give you more credit than that.” The Librarian said. “There's only a hundred books in the Civil War Compendium.”
+
+Ren's mouth dropped open, and she laughed.
+
+“Your highness, you just told me about 20 books worth of information, and I confirmed that you know the little details as well.” The female dwarf smiled. “I assume that if I asked about House Lokmorn...”
+
+“I could tell you they had 3 sons, 2 of which married into the Royal family.” Ren said automatically. “By the gods...”
+
+“You see?” She grinned. “You know the whole thing.”
+
+“Ma'am... I... thank you.”
+
+She waved his thanks away. “Whoever taught you all of that really knows his stuff.”
+
+“He sure does.” Ren said. Thanks, Teepo.
+
+“You're welcome.” Teepo chittered humbly.
+
+“Now, about reading another book...” The Librarian said.
+
+“I'm sorry, but I have to go.” Ren said. “I have an urgent appointment that I need to get to before dark.”
+
+She sighed and nodded. “Try not to wait so long between visits, okay?”
+
+Ren chuckled. “I kind of didn't have much choice the last few days.”
+
+“Okay, you get a pass for that.” She said. “I know what the Hole is like.”
+
+“You do?”
+
+She nodded slightly. “I'm allowed to visit my brother once a month.”
+
+Ren stood up. “Hopefully, it should be better there now.”
+
+“Only if they stopped the unfair betting.”
+
+“They did.” Ren grinned. “It's all fair odds now.”
+
+She stood up and gave him a hug. “I'll ask him about you.”
+
+“Just ask him if the stew was good.” Ren said as he walked towards the stairs. “He'll know who I am.” Ren walked down the stairs and towards the doors, and turned to wave at her. She waved back and Ren left the building, then jogged down to the docks. He went to the building that Angeilin had said sold boats. He went inside and saw it was a huge warehouse, with a pool in the center that went out into the harbor.
+
+“That's pretty cool.” Ren said, and a Shipwright came over.
+
+“What can I help you with?”
+
+“How big are the boats you have for sale?” Ren asked.
+
+“That depends. Can you sail?”
+
+“Not a bit.”
+
+“Then I have some nice rowboats out back.” He said and grinned.
+
+Ren chuckled. “Sorry, I'm more interested in big boats that need a crew. I won't be sailing it myself.”
+
+“Are you thinking of going into the shipping business?” The Shipwright asked. “You'd have to register and apply for permits from the Shipper's Guild.”
+
+“I shouldn't have to register if it's personal property I'm moving.” Ren said. “Or doing it for fun.”
+
+“Fun, eh?” He said and smiled. “I haven't met a lot of you before 2 days ago when I had another guy come in here and buy a big boat to go out on the water.”
+
+“What do you have available?” Ren asked, and the Shipwright took him out to the dock through a small doorway and showed him one of the biggest ships Ren had ever seen.
+
+“That's even bigger than a normal-sized ship!”
+
+“Noticed that, did you?” The Shipwright laughed. “I was trying to compete with the Humans and Elves, but the damn thing is too heavy to move fast enough to compete.” He sighed. “I sunk a few platinum into it trying to make it lighter; but once you put cargo on it, it bottoms out in the harbor.”
+
+“How's the engine?” Ren asked, admiring the hull.
+
+“The what?” The Shipwright looked around, but no one was there. “How do you know about that?”
+
+“I came here on a ship, and it had an engine, too. It made great time crossing the ocean.”
+
+“Oh.” He said. “As long as you don't tell anyone about it.”
+
+“You're only the second person I've talked to about it, and the other person was the captain of the ship I came here on.”
+
+The Shipwright nodded slightly.
+
+“So... the engine?”
+
+“Fastest on the market.”
+
+“I'll take it.”
+
+“You don't even know the price.”
+
+“How much do you want for it?”
+
+“30 platinum.” The Shipwright said, jokingly.
+
+Ren reached into his coin vault and started counting out platinum.
+
+“I was only joking!” The Shipwright said. “It's not worth that much.”
+
+“Oh, right.” Ren said and used Appraisal on it. It was worth just under 5 platinum. “How much?”
+
+“8 Platinum.”
+
+“I assume you're charging for all the work that still needs to be done on it?”
+
+The Shipwright nodded. “I've got to finish the cabins inside.”
+
+“How long will that take?”
+
+“About a month.”
+
+“How many are done already?”
+
+“Only 4. There's 6 more, counting the engineer's bunk and the cook's.”
+
+“I'd offer to help, but I'm too busy at the moment.” Ren said and handed over the 8 platinum. The Shipwright left to get the deed and Ren admired the thing.
+
+I'll finally get to see the engine. Ren thought, and after a minute, the Shipwright was back and handed Ren the deed. He stored it and spoke. “I'll see you in a month.” Ren said and started to walk away.
+
+“Wait!” The dwarf said. “Who are you?”
+
+“I'm Ren, from House Neram.”
+
+The Shipwright's mouth fell open in shock and he started to stammer. “No...no...not y-y-you...”
+
+Ren sighed. “Let me guess. You got an edict, too.”
+
+The dwarf nodded.
+
+“Then everything is okay.” Ren said. “It said to stop deliveries, not stop sales.” He grinned. “You're not delivering it at all. It's staying right here.”
+
+The Shipwright's face lit up. “You're right!” He said and grinned. “See you next month!”
+
+Ren left the building and ran all the way back to House Neram. How's my time, Teepo?
+
+“You've got about 4 hours before you have to leave.”
+
+Perfect! Ren thought, and nodded slightly to Wohrum as he unlocked the gate to let Ren in. “Leave it open, I'm leaving again.”
+
+“Of course, sir.” Wohrum said and left the gate open. Ren went inside and told Nathalia and her mother about everything that was happening, then came back outside.
+
+“You can shut it now.” Ren said as he ran by and up the road to the workshop. He went inside and over to Dorcot's workbench. “Hi, Dorcot.”
+
+“Hey, Ren! How are you?” He asked. “Prison has been good to you, I guess.”
+
+Ren laughed. “They liked me so much they kicked me out.”
+
+Dorcot laughed. Ren looked at the bench and saw it was covered in diamond dust.
+
+“You shouldn't leave all of that out.” Ren said. “It'll get all over everything.”
+
+Dorcot turned in his chair and Ren saw he was covered from chest to thigh in diamond dust, and Ren shook his head.
+
+“Angeilin won't be happy if you show up for her looking like that.”
+
+Dorcot's mouth dropped open and he stood up to shake it off. “By the gods, I forgot!” He said and looked down at his clothing. “I'm a complete mess.”
+
+Ren chuckled and took out some fabric, then sewed up a kind of suit, based on one of Lord Neram's designs. He dyed it black, and made the lapels red and added a red handkerchief to the pocket. Dorcot had stood there in shock as Ren made an outfit appear like magic.
+
+“Get those clothes off and put this on.” Ren said. “Be right back.” He ran outside and waited for one of the carts from the mine to finish unloading. “I need to hire you to drive a couple of friends to the dock, then go back and pick them up later if they need it.”
+
+The driver looked at him in surprise. “I'd like to, but I'm getting 2 gold a day to haul this stuff from the mines.” She said. “If I leave, my friends won't get paid.”
+
+Ren smiled. “Since I'm paying you, that's okay. I can guarantee you'll still get paid.”
+
+Her eyes widened. “You're Mr. Ren?” She looked at him. “Where's your gold armor?”
+
+He chuckled. “I left it off today.”
+
+“Well, I guess I can...”
+
+“Great!” Ren said and went to the back of the cart, and sewed up a nice plush cover for the back, dyed blue.
+
+“What are you... oh, that's pretty.” She said as Ren spread it out and nailed it to the sides. “Hey!”
+
+Ren looked at her. “I'll fix it later, or make you a new cart and I'll keep this one.” He said. “I don't need another cart, but I'll find a use for it.”
+
+She just stared at him as he rambled and Ren hopped out of the back and went into the workshop. Dorcot had changed and he looked fantastic.
+
+“She should love that.” Ren said. “Oh, wait!” He went to the workbench and picked two nice oval diamonds and enchanted them with double glyphs of Antidark (8 runes total). He sewed up 2 pillows with holes cut out of them, attached a strap, and stuffed them with cotton. He dyed them red, slipped in the diamonds, and sewed the pillows shut. Ren went back out to Dorcot and passed him the 2 improvised life vests.
+
+“When you go out on the water, put these on and tie them. They'll let you float on the water if you fall in.”
+
+Dorcot stared at the bright red pillows and Ren chuckled.
+
+“One is for you, and the other is for Angeilin.” Ren said. “Your cart is waiting outside.”
+
+“My what?”
+
+“Your cart! Go! Go!” Ren shooed Dorcot out of the workshop and then helped him climb in the back. He sat down on the plush interior and Ren turned to the driver. “His wife is the receptionist at House Longore. Pick her up and take them to the docks.” Ren handed her a gold coin. “Hurry! You want to catch her before she leaves.”
+
+“Yes, sir.” The driver said and flicked the reins. Ren didn't watch them go, or notice the women as they stood there and stared at him. He ran back inside and went down the secret passageway to the Keep. He ran all the way to the bottom and started to dig out the bottom few floors. He cleared out 4 feet of dirt from around the entire Keep, about 30 feet high and for the full 800 feet around it. He took out the cart he mixed cement in, made some, and then jammed the 1 foot long, 1 inch wide iron bars every few feet into the wall after dipping the ends in the cement. Ren left about 4 inches sticking out, and covered the entire area that he'd dug out. He took out the pieces of the mold he'd made for the Main House and used the pieces of wood to construct a wooden wall that touched all the iron bars sticking out of the stone wall. He used fresh lumber to cover the rest of the 800 feet with wood as well. Once that was done, he made up tons of cement and poured it into the thin one sided mold, covering all of the iron bars and filling it to the top.
+
+How's my time, Teepo?
+
+“You're just about out.”
+
+I'm just about done, too. Ren thought and poured the last bit of cement from the cart into the mold. Whew! Ren stored the cart and climbed down the handholds and looked up at his handiwork. 30 feet filled with cement in just under 4 hours is pretty good.
+
+“Okay, you're out of time.”
+
+“Dammit!” Ren ran over to the ramp staircase and up to the surface. He came out of the workshop and ran down to the house. He was through the gate before Wohrum even had a chance to say anything. “Nathalia? Narhilda?” Ren said. “I've got to go, or I won't make it in time.”
+
+They came into the hallway from the kitchen and Nathalia went to hug him.
+
+“Ren! You're covered in dirt!”
+
+He looked down at himself and chuckled. “Sorry.” He unequipped the clothing and equipped it again. Nathalia hugged him and he gave her a kiss. “I'll be back sometime in the morning.”
+
+“I'll be here.” Nathalia said.
+
+“I didn't see Croggart today.” Ren said. “Where is he?”
+
+“He said he needed to talk to his sister and brother about something.”
+
+Ren nodded slightly. “Make sure you keep the gate locked while I'm gone.” He said and kissed Narhilda on the cheek.
+
+“Are you expecting trouble?” She asked.
+
+“I am these days.” He said. “At least I didn't build anything openly.”
+
+“What did you do?”
+
+“I told you before. I'm fixing the Keep.”
+
+“How? You were outside.”
+
+Ren winked at her.
+
+“You're fixing it from OUTSIDE?!?”
+
+Ren chuckled. “It's the safest way. I'm doing the outside first, and then I'll worry about the interior.”
+
+“You're crazy.” Narhilda said, and then smiled.
+
+“See you tomorrow.” He kissed Nathalia again and ran out of the house to the stable. “Princess, I'm going for another ru-.”
+
+She was by his side in an instant and Ren laughed.
+
+“Just a second. You need your saddle and harness.” He got them from Ruck, who didn't want to go this time. “Okay. I'll see you tomorrow.” Ren said, stored Princess' crate, and Ruck gave him an 'okay' gesture.
+
+Ren put the saddle and harness on Princess and they left the courtyard at a normal pace. Once they were out of the gate, Ren told Wohrum to not open the gate for anyone, and to let the other guards know. Ren took off running and Princess ran beside him. Once they went through the city and got to the road to the warehouse, Ren let her go and she ran as fast as she could. They did the same routine that they did the last time, and Princess kept slowing down to let Ren feed her and let her Stamina bar refill, then she kept running full out.
+
+They made it to the warehouse in just under 5 hours and Ren took out Princess' crate. She got inside and Ren went upstairs to the portal. He went through it and came out of the cabinet on the other side.
+
+“There you are.” A familiar woman's voice said. Ren sighed and walked to the bedroom, then stopped in the doorway.
+
+“Who the hell is she, and why is she laying in my bed?” Lucy asked.

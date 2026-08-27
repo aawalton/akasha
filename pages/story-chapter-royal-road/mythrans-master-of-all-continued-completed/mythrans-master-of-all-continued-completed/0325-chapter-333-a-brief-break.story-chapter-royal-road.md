@@ -1,0 +1,353 @@
+---
+id: 296f809a-d91f-5ea2-816d-dca11696c1c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 333 - A Brief Break"
+slug: 0325-chapter-333-a-brief-break
+partOf: mythrans-master-of-all-continued-completed
+position: 325
+ownLength: 3404
+unit: words
+publishedAt: 2017-08-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155770/chapter-333-a-brief-break"
+royalRoadId: "155770"
+---
+
+It had been about 10 minutes since Ren had messaged Tommy about meeting them at the ranch, when they heard something coming up behind them.
+
+“...aaaaaaaAAAAAHHHHHHHHhhhhhh...” Janice screamed as Princess, Ren, her, and the cart passed by Clint's impromptu caravan, and everyone stared at them.
+
+“That wasn't...”
+
+“It couldn't be...”
+
+“No way, man!” Tommy exclaimed. “How the hell can they go that fast?”
+
+“Ah don' rightly know.” Clint said, and only a moment later, could no longer spot Ren or the cart. “Tha' shore is somethin'.”
+
+*
+
+“Breathe, Janice!” Ren said.
+
+Janice stopped screaming and took several deep breaths, then screamed again. Ren laughed and used a hand to brace her more securely. She accepted this gratefully and calmed down a little bit. She wanted so badly to close her eyes and wait until it was over, but she knew it would feel much worse if she did that.
+
+“It's not so bad once you get used to it.” Ren told her, and she stared daggers at him. “It's true! Honest!”
+
+“Did you have to get used to it?” Janice asked.
+
+“Of course not.” Ren said and grinned. “I love it!”
+
+Teepo chittered in laughter and Princess let her amusement out as well and brayed in agreement.
+
+“You're crazy!” Janice said and tried to look at the road and not look at the road at the same time. It was going by so fast that if she stared at it too long, she would start to get dizzy.
+
+“We're almost there.” Ren said.
+
+“Almost where?”
+
+“Clint's Ranch.” Ren said. “I'll drop you off, feed Princess, and take the cart back to Clint and ease his load a little.”
+
+“You're gonna subject the other girls to this... this...”
+
+“...action-packed thrill ride?” Ren asked and laughed at her scowl. “I'll ask them first if they want to go full out.”
+
+“You should have asked me!” Janice exclaimed and Ren gave her a one arm hug.
+
+“Princess got first choice this time.” Ren said. “When she's satisfied that she's beaten any and all records for Izabeal doing this run, she'll be a bit more agreeable about slowing down.”
+
+Ha! Princess thought in amusement, and Teepo chittered in delight.
+
+“A little, anyways.”
+
+All right. Princess slowed down slightly, and Janice's grip on Ren eased a little. Princess came to a stop a few minutes later at Clint's Ranch, and Ren helped Janice climb down. When her feet hit the ground, she fell to her knees and pretended to kiss the dirt over and over.
+
+“Solid ground! I'm so glad to feel you again!” Janice said, reverently.
+
+Ren laughed at her reaction, and took out some food to let Princess eat. Her Stamina bar refilled while she rested, and Janice stood up and looked around.
+
+“This looks like a nice place.” Janice commented, and Ren nodded.
+
+“I think he runs his mount business out of here.” Ren said.
+
+“Mount business?” Janice asked.
+
+“He captures various creatures and tries to train them to be mounts, then sells them to people that want them.”
+
+“So, anyone can have a mount?” Janice asked, and Ren shrugged.
+
+“As far as I know.” Ren said. “I'm not sure what prerequisites it has for other people.”
+
+“Other people?” Janice asked. “What were yours?”
+
+“Cart Handling, since it included handling mounts.” Ren said. “At least I assume so, anyways.”
+
+“Can't you just check your help guide?”
+
+“I don't have one.” Ren said, and Janice looked at him.
+
+“Excuse me?”
+
+“I won a contest and received a one-of-a-kind special class. There's no help guide, besides the very generic one my girlfriend gave me.”
+
+“That kind of sucks.” Janice said and then chuckled. “I meant not having a help guide for your class, not that your girlfriend helped you.”
+
+Ren smiled. “I knew what you meant.” He said. “Princess? Ready to go?”
+
+At your command, My Lord. Princess thought and stood up straight. Ren looked at Janice, and walked to the side of Clint's driveway and took out Janice's house from his inventory and gently put it on the ground. Janice stared at him as he climbed into the driver's seat of Princess' cart.
+
+“There's no need for me to haul that back and forth several times.” Ren said and Princess turned the cart around to face the other way. “Plus, now we can go faster.” He said and took out the Haste wand and used it. Teepo chittered in delight as Princess took off at an even faster pace without the extra weight, and Janice shook her head at them.
+
+*
+
+“Ah wonder if'n he'll wait fer us at tha... nope.” Clint chuckled as he spotted Princess coming down the road towards them. She flew past them at breakneck speed, slowed down and turned around when the opportunity arose, and she went back to the caravan at a moderate pace.
+
+*
+
+“Hi, Clint.” Ren said and grinned at his friend. “The Princess Express is ready for loading.”
+
+Clint snorted a laugh. “Ah don' think...”
+
+“I'll go!” One of the girls said and raised a hand.
+
+“Me, too.” Another one said. “It looks like fun.”
+
+The caravan came to a stop so the girls could transfer over into Princess' cart. Ren helped them climb in and told them to hold on. Three of them wanted to get in the back, and surprisingly, another one wanted to ride up front with Ren. It was the one who wanted him to order her around back in the strip club's dressing room, and he helped her climb into the passenger seat.
+
+“Is there any goods or things you want me to take, too?” Ren asked.
+
+Clint shook his head.
+
+“Okay, then.” Ren said. “See you at the ranch in about an hour or so.”
+
+Clint nodded and Ren climbed into the driver's seat of Princess' cart.
+
+“Hold on tightly.” Ren said to the girls in the cart, and the one that sat next to him got a death grip on his arm. “Okay, Princess.” He said, and Princess started to trot, then galloped, then ran full out.
+
+*
+
+“Ah'm seein' it, bu' ah still don' believe it.” Clint said as the cart with it's extra passengers disappeared from view again.
+
+“I can't believe it, either!” Tommy said. “Look at them go.” He shook his head. “I need to learn how to use a mount.”
+
+“Ah've been tryin' ta git ya ta take it seriously fer months...” Clint sighed. “...an' ahl it took was fer ya ta see a fas' mount?”
+
+“I still don't want to do the work, man!” Tommy grinned at him, and Clint laughed.
+
+*
+
+Ren and Princess arrived back at the ranch 10 minutes later, just as the Haste spell wore off. Princess clomped to a stop in Clint's driveway, and Ren helped the girl on his arm climb down from the cart. He helped the three in the back to climb down as well, unhooked the cart to store it, then gave Princess another helping of food.
+
+“Janice!” One of the girls said when she saw Janice standing by an old shack. “You're alive!” She said and laughed.
+
+“Ha ha.” Janice said.
+
+“You sounded like you were screaming bloody murder.” One of the other girls said. “The look on your face was priceless!”
+
+“It's not my fault high speed is scary!” Janice said to defend herself.
+
+“Scary can be good for you sometimes.” The one who liked to be ordered around said. “As long as it's the good scary, and not the bad scary.”
+
+“I agree.” One of them said. “That ride was a thrill!”
+
+Ren walked around the group of women and selected Janice's house and stored it.
+
+“Ahhh!” One of the women screamed and pointed at Ren. “How did you do that?!?”
+
+Ren wiggled his fingers at her. “I can do MAGIC!” He said and the other girls laughed. “I just stored it into inventory.” He told them. “No biggie.”
+
+“It was a house! You stored a HOUSE into inventory!” She exclaimed.
+
+“It was only two rooms, though.” Ren said and grinned, and the others laughed again.
+
+“So, what can we do while we wait for the others to get here?” One of them asked.
+
+“I have a few ideas.” The one who liked being ordered around said, and stared at Ren.
+
+“What about going for a swim?” Ren asked her, and she looked at him like he was crazy.
+
+“We're in the middle of a prairie!” She said and put her hands on her hips. “There's not a lick of water around here for at least a hundred miles!”
+
+Ren took out his Staff of Earth and grinned. “Give me a few minutes.”
+
+*
+
+Clint and the caravan arrived back at his ranch about an hour later, a little worse for the wear, and they were all glad to finally stop and unload. It had been a bit of a hard go, considering the improvisation of their transports, but it wasn't as bad as it could have been if Ren hadn't taken those 4 girls with him. When the caravan came to a stop, they could hear hysterical laughter from a nearby field. Surprisingly, it was out of sight, despite Clint knowing there wasn't supposed to be hills of any kind around here.
+
+“Wha' the hell is goin' on ovah there?” Clint asked.
+
+“I'll go check.” Tommy said and hopped down off of the cart. “I'll be right back.”
+
+Clint nodded and got down, then started to help the passengers get to solid ground. Tommy came back a minute later with shock on his face.
+
+“Wha' is it, Tommy?” Clint asked.
+
+“You gotta see this, man.” Tommy said. “I don't believe it. I have to know if it's actually real.”
+
+“Let's all go.” Hank said. “Whatever it is, it sounds like fun!”
+
+The 5 men and 8 women walked over to the gently sloping hill and walked up it. When they got to the top, they all froze at the sight.
+
+Before them was an Olympic-sized swimming pool. There was a shallow and a deep end, two planks for diving boards spaced far enough apart that they didn't interfere with each other, and 6 lounge chairs. The 5 women wore bikinis, and were sitting on the edge of the pool with their feet in the water.
+
+*
+
+Ren came to the surface of the water with a flourish, and hopped out onto the side of the pool. “Okay! Watch this!” He said and ran over to one of the diving boards.
+
+“Oh, this is gonna be good!” Janice said and watched intently. Ren took two steps and jumped off the diving board high into the air.
+
+“Cannonball!” Ren said, slipped the ring of Water Walking back onto his Hand of Glory necklace, and gripped his knees.
+
+“He's gonna soak us!” One of the women exclaimed and braced for the onrush of water. Ren's butt hit the surface of the water, and rather than going into the water and splashing everyone, he bounced and let his knees go, flipped over, and landed face first on the water and slid several feet.
+
+Everything was quiet for several seconds, and then Janice lost it. She laughed and laughed, and then the other girls joined her. Hank couldn't keep it in either, and he guffawed loudly, and was quickly followed by the other women.
+
+“Wha' tha hell?!?” Clint exclaimed, and Ren looked up at him.
+
+“Hey, Clint!” Ren said as he stood up on the water and waved. “I hope it's okay that I used one of your inactive fields.”
+
+The girls there waved enthusiastically at the other girls beside Clint and the men, and they didn't need any other invitation than that. The girls ran down to the pool's edge and started talking animatedly about what was going on. Ren walked over to the side of the pool and onto solid ground.
+
+“Ren! That was hilarious!” Janice said as she came over to him. “How did you do that?!?”
+
+“Ring of Water Walking.” Ren said. “It lets me treat water like solid ground.”
+
+“Oh, I want one of those!” One of the girls said.
+
+“They're for sale at my shop.” Ren said. “They're life preservers.”
+
+“Really?” She asked. “How?”
+
+“Like this.” Ren said, took the ring off his necklace, and jumped into the water. They watched him slip the ring back onto the necklace, and he shot up to the surface of the water without making any kind of splash.
+
+“Wow!” The girl said. “That's so cool!”
+
+“I know, right?” Ren said and grinned.
+
+“Ren!” Clint said, and Ren looked at him. “Where did all this come from?”
+
+“I made it, of course.” Ren said.
+
+“You should have seen it!” Janice said. “He used this funky staff and waved it around, and the whole field just folded up and moved out of the way to make a pit!”
+
+“I used the displaced dirt to make hills around the pool to stop anyone from seeing us.” Ren said. “The pool isn't lined like it should be, though.”
+
+“Oh, don't worry about that.” Janice said. “Unless one of us decides pulling the rock out of the sides is a good idea.”
+
+Ren chuckled. “I was surprised at the sheer amount of large rocks; but, then figured, 'hey, I can use those to shore up the sides!'.” He grinned. “It worked like a charm.”
+
+“We've been having fun for over half an hour!” One of the other girls said.
+
+“Half an hour?” Billy asked.
+
+“It only took ten minutes to make the pool; but, I didn't want the girls to have to swim around in their underwear, so I made them bathing suits.”
+
+“We just told him what we wanted and he made them right away!” Another girl said, and turned around to show off the bikini. “If you can believe it, this thing has a higher Durability than my leather armor!”
+
+“No way!” Tommy said. “How?”
+
+“It's a special cloth I discovered how to make a long time ago.” Ren said. “Although, getting the main ingredient is a pain in the ass.”
+
+“I can imagine.” Dillon said and smiled. He had identified the Spider Silk Cloth and knew what the main ingredient was.
+
+“Can you make us some?” Jennifer asked. “I want to have fun in the pool, too!”
+
+“Me, too!”
+
+“I want to play!”
+
+“Ren!” “Ren!” “Ren!”
+
+“All right, all right! Just a second.” Ren said and took out a table from inventory and put his portable sewing kit on it. The girls swarmed the table and bombarded him with requests and he laughed as he made Jennifer what she wanted. It only took a couple of minutes, and she equipped it and sighed.
+
+“Oh, my god.” Jennifer said and ran her hands over the fabric that cupped the underside of her breasts nicely. It had thin straps over the shoulders, and thin straps down the sides attached to the high cut bikini bottoms. It was a one piece but looked like a bikini. “It's so soft and supple!”
+
+“So is what it's touching.” Ren said and smiled at her, and she laughed.
+
+“Thank you.” Jennifer said and kissed his cheek. Ren's face flushed a little red, and she smiled sweetly at him and touched the spot she'd kissed. She left the group of girls and Billy whistled at her.
+
+“Oh, my god.” Billy said. “Jennifer! You're super-sexy!”
+
+“Don't I know it!” Jennifer said. She walked over to him and swayed her hips so much, that it should have been illegal. Billy glanced at the other guys and saw them stare at her, and he smacked each of them on the shoulder and head.
+
+“Back! Back, you swine! She's mine!” Billy said as he continued his assault, and the guys and Jennifer laughed.
+
+Ren made the rest of the women bathing suits. Some of them kissed his cheek like Jennifer did, and others merely thanked him and pat his shoulder. The last one stared at him as he made her favorite bathing suit. It was one that she never could have afforded in real life, but had always wanted.
+
+“I hope you're not expecting me to kiss you like the others.” She said, with a little meanness in her voice.
+
+“I don't expect you to even say thank you.” Ren said, and smiled at her.
+
+“Excuse me?” She looked at him with wide eyes.
+
+“I'm doing this because I want to.” Ren said. “I'm not doing it for people to thank me.” He said. “They can thank me if they want to, but I don't expect it.”
+
+“But...”
+
+“I learned the hard way that if you do something for someone and expect to be thanked for it, then you didn't do it for the right reasons.” Ren said, then smiled sadly as he remembered his last day in the dwarf lands, and how it had ended. He finished the suit and handed it to her, and she reached out and took his hand instead. He looked at her, and he could see a very similar sad smile on her face, too.
+
+“Thank you.” She said, took the suit with her other hand, and equipped it. “Thank you very much.”
+
+Ren stepped close and looked up at her. “You are very welcome.” He said and beamed a smile at her, and her sad smile changed into a real one. “Now go and show the others what kind of beast you are in the water.”
+
+She snorted a laugh and walked over to the other girls, as the impromptu pool party was getting into full swing.
+
+“Can you make us swim trunks?” Hank asked as he stared at his favorite dancer. “I have got to get in the water with her.”
+
+Ren chuckled and handed him a pair of swim trunks. “Go have fun.”
+
+“You're the best!” Hank said, equipped the swim trunks, and ran over to the girls. He scooped up the one he wanted and jumped into the pool. Everyone laughed, and Ren handed the other guys swim trunks; then Tommy, Dillon and Billy jumped in as well.
+
+“Didja plan this?” Clint asked as he equipped the pair of trunks Ren had given him.
+
+“No, it was just a spur of the moment thing.” Ren said. “Let me know if you want the pool removed when I come back next week.”
+
+Clint listened to the laughter and carrying on, looked over at the pool and looked back. He shook his head and smiled. “Ah think ah'll be keepin' it fer tha foreseeable future.”
+
+Ren nodded, stored his portable sewing kit and table, then equipped his Travelling Clothes. “I better get going.” He said and turned to walk away.
+
+“Ren.”
+
+Ren stopped walking and looked back at Clint. “Yeah?”
+
+“Wha' happened ou' there?”
+
+Ren opened his mouth to say, then looked at Janice. “Ask Janice. She saw it all.”
+
+“Ah'm askin' you.” Clint said.
+
+Ren sighed. “I was being stupid.” He said, and started to explain what had happened. Clint's eyes widened more and more as Ren told him the story, and by the end, Clint didn't know what to say.
+
+“If you want me to resign for being so reckless, just say so.” Ren said.
+
+Clint let a smile spread across his face and put a hand on Ren's shoulder. “We're tha Reckless Rough Riders, Ren.” He said and squeezed his shoulder. “Yer gonna fit righ' in.”
+
+Ren smiled and nodded.
+
+“Wan' me ta tell ya about wha' happened at tha Pink Pearl?”
+
+Ren shook his head. “Just from having all the girls with you, I know you shut the place down.”
+
+Clint laughed. “It wasn' tha easy.”
+
+“You can message me with the details, or fill me in next week.” Ren said. “I really do have to go.”
+
+“Good luck wit whatevah yer doin'.” Clint said.
+
+You mean whoever. Ren thought and chuckled. “Bye, Clint.”
+
+“Bye, Ren.”
+
+Ren started to walk up the hill, then stopped when he heard a shout.
+
+“REN!” Janice yelled and ran over to him. “You're not abandoning me, are you?”
+
+“Of course not.” Ren said. “I just thought you'd want to stay here with your friends.”
+
+“When will you be back?”
+
+“Clint said the next quest isn't until next week game-time.”
+
+“Then I'm coming with you.” Janice said.
+
+“I'm letting Princess go all out.” Ren cautioned her. “You know what that means.”
+
+“I had a thought about that.” Janice said, and smiled.

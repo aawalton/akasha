@@ -1,0 +1,345 @@
+---
+id: da4ac5b5-05f7-50e6-9486-8941b3ef8342
+page-type-slug: story-chapter-royal-road
+title: "Chapter 193 - Selling and Buying"
+slug: 0181-chapter-193-selling-and-buying
+partOf: mythrans-master-of-all-continued-completed
+position: 181
+ownLength: 3087
+unit: words
+publishedAt: 2017-03-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123113/chapter-193-selling-and-buying"
+royalRoadId: "123113"
+---
+
+Nathalia stared at the neatly hung up outfits, and the drawers filled with skirts, blouses, and other things.
+
+“I have to go.” Ren said. “Look through them and tell me what else you might want.”
+
+“Wh-wh-what else?!?” Nathalia exclaimed. “There's twice as much here as what I have already!”
+
+“I couldn't let all the old clothes that don't fit you anymore, be the only things that you have.” Ren said. “Maybe you should sort through the old clothes first, and see what you want to keep.”
+
+Nathalia nodded slightly.
+
+“Then you can see if anyone wants your old clothes.” He said. “It would be a shame to just throw them away.”
+
+Nathalia looked at Ren with smoldering eyes and smiled. “You know how much I love you, right?”
+
+“Nope!” He said, kissed her surprised face, and ran from the house.
+
+“RENNNN!” Nathalia hollered, and she heard his laughter before the front door shut.
+
+Ren ran to the stable to ask Princess to take him to the warehouse by the diamond crystal mine. She agreed, and then he asked Riley and Stacy if they wanted to come as well. They both barked softly, and Ren led the trio out to the courtyard and hooked Princess up to the cart. Riley and Stacy jumped into the back without being prompted, and Ren took them out to the main road. Ren nodded slightly to the guards as he climbed into the cart, and Teepo landed on his shoulder.
+
+“Let's go.” Ren said.
+
+*
+
+Ereka felt Ren pass by, and held her breath. He's gone by much more quickly this time. She thought as she put a hand over the brooch she always wore. At least I got to feel him today.
+
+*
+
+Ren had caught a glimpse of feelings as he passed by House Neram's Main House. First it was happiness, then a touch of sadness. He reached into his pocket and took out the steel square with the Sending Glyph on it.
+
+“Hi, Ma'am.” Ren said, in case Ereka wasn't alone.
+
+“Hi, Ren.” Ereka said after she touched the steel square that never left her sight, just in case it glowed. “No one else is in my office.”
+
+“The Ma'am made you say that.” Ren chuckled. “I was worried I might have offended someone if I'd said your name right away.”
+
+“I have the same problem when you're around. I check to see if anyone is listening before I say your name in public, too.” Ereka laughed. “What can I do for you?”
+
+“I need a few things ordered from Barnar's Stoneworks.” Ren said, and gave her a rundown of the mix of things that he wanted.
+
+“That's a lot of stonework.” Ereka said. “It might take a week or so, depending on what other things he has going.”
+
+“That's fine.” Ren said. “I only need them as examples, anyways.”
+
+“Really?” Ereka asked.
+
+“Yeah.” He said. “In fact, you should order some blank flat slabs, and a few figure carving blanks for me, too.”
+
+“It sounds like you're planning to carve a bunch of things for yourself.”
+
+Ren laughed. “When I'm not being run ragged and have some actual time to work on things, I want to have the supplies I'll need to do that.”
+
+“I'll have them ordered right away.” Ereka said. “Anything else?”
+
+“Actually, yeah. Contact the shipyard, and ask them when my ship will be ready.” Ren said. “I'll need a crew for it; but, not right away. Unless they need to train and practice on it. It's a big ship.”
+
+“You bought a ship.”
+
+“A couple of weeks ago. The shipwright told me it would take a month to finish, and I was just wondering if he was ahead of schedule.”
+
+“I'll send a messenger over.”
+
+“Thanks, Ereka.”
+
+“You're welcome.” She said. “Have fun in Aurora.”
+
+“How did you know I was going there?”
+
+“You went by the Main House really fast.” Ereka said. “A lot faster then when you ran by before. You've got to be in your mount-drawn cart; and you only go in that when you've got to get to Aurora.”
+
+“I couldn't just be taking a leisurely ride through the countryside?” Ren asked, and she laughed.
+
+“I haven't known you for very long; but, I know for a fact that you've never done that.” Ereka said. “You're always going somewhere, and it's never just for a ride.”
+
+Ren laughed, too. “You've got me there.” He said. “I'm just making a quick delivery to the shop, and should be back in a few hours.”
+
+“I'll see you at home, then.” Ereka said. “Bye, Ren.”
+
+“Bye, Ereka.”
+
+Ren put the steel square back into his pocket and watched the countryside zoom by, then smiled. Like I could see any of it riding like this.
+
+...Do you want me... to slow down... Princess thought to him.
+
+“Hell, no!” Ren and Teepo exclaimed at the same time. Ren laughed, and Teepo chittered in laughter, as they both felt amusement from Princess.
+
+*
+
+“I'm bored.” Croggart said to his brother as he sat down to eat a dry ration pack. “I thought you said there were giants around here?”
+
+Groggot laughed. “We've only been scouting for 2 days.”
+
+“2 days of nothing.” Croggart said. “No animals. No tracks. Nothing.”
+
+“What are we sitting in?” Groggot asked.
+
+“Okay, fresh tracks.” Croggart said as he looked down to see the 3 foot long foot-shaped indentation in the ground. “This one is weeks old.”
+
+Groggot nodded slightly. “This is the one Ren and I killed.” He said. “When the Commander asked for volunteers to track it and see where it came from, I jumped at the chance.”
+
+Croggart grinned. “I was really lucky I was visiting the Garrison at the time.”
+
+“Lucky?” Groggot snorted a laugh. “You've been camped out on the giant's side of the wall for a week!”
+
+Croggart laughed. “I wanted to see one for myself.”
+
+Groggot shook his head. “I'm only allowed to track for another day; then I need to report back.”
+
+Croggart nodded slightly. “We're well out into the wilderness already.” He said. “I doubt there's anything else around here.”
+
+Just then the bushes rattled behind them, but neither man turned to see what it was.
+
+“You guys are loud.” A male dwarf said. He was the only other one who had volunteered to follow giant tracks, just to see where they led.
+
+“Hey, Nershan.” Groggot said. “Have a nice nap?”
+
+“No.” He said, sat down on the ground beside them, and took out his own ration pack. “For some reason, I kept hearing talking and laughing.”
+
+Croggart clapped the little dwarf on the shoulder. “Sorry, Nershan. I was just complaining about how bored I am.”
+
+“You and me both.” Nershan said, with a bit of disgust in his voice. “I actually missed the last skirmish at the Garrison.” He frowned. “I got caught near one of the bunkers and the stupid Knight on duty there, ordered me inside.”
+
+The other two men laughed.
+
+“I'd ask why you joined the army if you hate taking orders, but I already know you joined for the same reason as me.” Groggot said.
+
+Nershan nodded slightly. “A change of pace!”
+
+“More excitement!” Groggot responded.
+
+“More boredom!” Croggart said and laughed.
+
+*
+
+Ren made it to the warehouse within the hour and unhooked the cart. He led Princess and the two dogs inside, and left them there to wait.
+
+“I shouldn't be long.” Ren said, as Teepo dissolved into the ring. He left food for Princess, ran up the stairs, and went through the portal after opening the cabinet. He appeared on the other side and came out of the cabinet. He nailed it shut, summoned Teepo, and sent him down the stairs.
+
+“All clear, I think.” Teepo said. “There's a few customers, and it looks like they are giving Anabelle a hard time.”
+
+Ren ran down the stairs, and came out through the door he had installed the last time he was there. He calmly walked over to the counter where Anabelle was being confronted by several people, two of which were women.
+
+“What kind of business are you running here?” One woman asked. “I ordered a sitting table, and you said it would be a day before I could get it.” She said. “It's been nearly a day already, so where is it?”
+
+“What's your name?” Ren asked, and the people turned to look at him. She told him, and he took out the list. “Your name is not on this list.” Ren said. “If you ordered it when you say you did, it would be.”
+
+She opened her mouth to say something and Ren held up a hand to stop her.
+
+“Wait just a minute.” Ren said, and stepped by her. “Can I have today's list, Anabelle?”
+
+“Of course, Sir.” Anabelle said, and handed him the list.
+
+“It seems you only ordered it this morning.” Ren said. “I don't appreciate you being angry at my business manager, just because you thought a 'day' meant 'today'.”
+
+The woman opened her mouth to respond, and her friend put a hand on her arm. “He's right.”
+
+“I don't have to listen to some kid who thinks he owns the place, and tells me that I'm wrong!”
+
+“But I do own the place.” Ren smiled, and the woman's mouth dropped open in surprise. He tapped his ears. “Also, I'm an elfling; not a kid.”
+
+The woman closed her mouth loudly, and her teeth clacked together.
+
+“We're terribly sorry.” Her friend said, still holding the woman's arm. “We didn't mean to be insulting.”
+
+“That's usually how people get insulted.” Ren said. “But that's okay.” He grinned at the woman, and she blushed a little. “You're actually in luck. I have an extra sitting table ready.”
+
+“You... you do?!?” The other woman asked, surprised.
+
+“Of course.” Ren said. “I wouldn't lie to a customer.” He said and took out a sitting table with a round mirror, just like she had ordered. When Ren asked for the money, the woman got a worried look on her face.
+
+“I... ah... I'll have to come back for it.” She said, and turned and walked towards the door. Her friend stared after her, with shock clearly on her face.
+
+“We can hold it for today, but they sell fast. You'll have to make another order if you wait too long.”
+
+The woman kept walking, and ignored Ren's words. She opened the door and left the shop. Her friend turned to Ren.“I... I...”
+
+Ren put a hand on her arm, just like she had done for her friend. “It's okay.” He said. “You don't have to explain, or make up an excuse.”
+
+She looked at him with her eyes wide.
+
+“Sometimes people just need some attention.” Ren said. “Either good or bad, it's still attention.”
+
+The woman sighed. “I'll talk to her, and see if she'll come back to buy it.”
+
+“That's not necessary.” Ren smiled. “It should sell tomorrow, especially since it's here and a customer doesn't have to wait a day to get it.”
+
+“You... you're not going to hold her to the order?” She asked, surprised.
+
+Ren shook his head. “I don't think she would have put up such a fuss, if she could have afforded to buy it.” He smiled. “She might have been looking for a discount, or even hoping to get it for free.”
+
+Her friend nodded. “Thank you.”
+
+Ren let her arm go, and waved the thanks away. “I don't know what her problems may be; but if she's looking for a job, I know someone who will be opening a restaurant soon. They'll need servers, cooks, dishwashers, cleaners, and the whole deal.”
+
+The friend blinked her eyes a few times. “Are...are you serious?”
+
+Ren nodded. “The decision was just made, so it might be a week or two before it gets off the ground.”
+
+“That's wonderful!” The friend said. “I... I might come by and see what I can do, too.”
+
+“I'd like that.” Ren said. “We're always looking for good people to come and work for us.”
+
+She smiled one of those smiles that just lit up her face, then she looked at the door. “I better go and see if I can catch up to her, and tell her the good news.” She looked back at Ren. “Thank you.”
+
+Ren nodded to her, and she walked quickly out the door.
+
+“Is there really going to be a restaurant opening?” One of the other customers asked.
+
+“Yes.” Ren said. “The next street over and on the corner, assuming someone else hasn't bought Mitchell's old place yet.”
+
+“Nice.” The guy said. “I'm getting sick of the poor quality food and ration packs.”
+
+“I hear that.” Another customer said. “A couple of the inns offer ale, and breakfast sometimes...” He shook his head. “Actual food would be nice for once.”
+
+Ren smiled. “So, what can I help you with?”
+
+The other customers had placed orders the day before, and were on the list Ren had. He gave them their items, and they paid Anabelle for them. Once the business was empty, she turned to him.
+
+“You handled that really well.” She said.
+
+“I was angry that she was yelling at you...” Ren smiled. “...but, I figured twisting it around on her would be better than trying to yell back at her.”
+
+“Thank you.” Anabelle said, and took him into a hug.
+
+“For what?” Ren asked. “You could have handled it yourself.”
+
+“I could have.” She said, then smiled as she held him and he didn't protest. “But you gallantly stepped in and took the attention off of me.”
+
+“Well, you didn't know I had an extra sitting table ready.” Ren explained. “It gave me a leg up in diffusing the situation.”
+
+Anabelle squeezed him tightly, then kissed the top of his head.
+
+“What was that for?” Ren asked her, kind of surprised.
+
+“For getting angry that someone was yelling at me.”
+
+Ren wasn't sure what to say to that, and she let him out of the hug.
+
+“I can't believe you made everything on the list.” Anabelle said, and then Ren took it all out and gave her the list back. Each piece had the person's name on it, too. “You're amazing.”
+
+Ren shook his head. “I have an amazing helper who did most of the work.”
+
+Anabelle smiled. “Can the helper do repairs?”
+
+Ren looked at her. “You've got customers for that?”
+
+She nodded. “On the shelves you made.”
+
+Ren went over to the forge area, and there were things scattered over the shelves.
+
+“All of this after only one day?”
+
+Anabelle chuckled. “I sold 2 of the suits of armor, too.”
+
+Ren picked her up and spun her around. “You're the amazing one!” He said, and she giggled as he put her down. “I'll fix these when I come back.”
+
+She looked at him with a question on her face.
+
+“By come back, I meant half an hour.” Ren said. “I just need to run a couple of errands.”
+
+“Oh, okay.” Anabelle smiled. “I'll be here.”
+
+Ren left the shop and walked a street over and down to the corner to Mitchell's old place. It was still boarded up; but, it didn't seem run down or anything. He got the popup for purchasing it when he was close enough to the front entrance, and when he saw the price was the same as it was for the warehouse, he smiled and paid the fee right away, rather than negotiate. He changed the business name to Nathalia's Nourishment, and put Nathalia Neram as the owner. He listed himself as the primary contact for inquiries, chose renovation instead of refurbishment, and stood there to wait. About 10 minutes later, Jen and the work crew came down the street to him.
+
+“You again!” Jen exclaimed, and waved her arms in exasperation. “We have to stop meeting like this!”
+
+Ren laughed as she came over to him. “I'm sorry to keep bugging you.”
+
+“No, you're not!” She said and grinned.
+
+“Okay, I'm not.” He said. “I'm keeping you busy, though.”
+
+“Ain't that the truth.” Jen said. “What do you want this time?”
+
+Ren grinned. “Join this building to the storage in behind, to make it one large building.”
+
+“Why in the world do you need that much floor space?”
+
+“Restaurant.”
+
+Jen blinked her eyes at him. “You're kidding!”
+
+“Nope.” Ren said. “I've already talked to the head cook and owner about opening it. I bought this place in her name.”
+
+“You seem to be buying a lot of things for everyone.” Jen said and chuckled. “If you want to keep that trend, I've been looking at a nice piece of land a few miles outside the city.” She said. “It's got a great view of the water.”
+
+“How much?”
+
+“Only 130 platinum.” Jen said and laughed. “It's got it's own dock, too.”
+
+Ren thought about it. “How big is the dock?”
+
+“Big enough to hold a couple of ships.”
+
+“Okay.” Ren said, and took out a coin pouch. He put 130 platinum in it and held it out to her. “I want exclusive rights to land at the dock though.” He said. “And maybe build a large warehouse to hold everything, far enough away from the water that it doesn't block the view.”
+
+Jen's mouth dropped open. “You... you...”
+
+“What?”
+
+“I was JOKING!”
+
+“So there isn't a piece of land there?” Ren asked.
+
+“No, there is.” Jen said. “I was joking about you buying it for me!”
+
+“Oh.” Ren said. “What if I loan you the money and you buy it for yourself?”
+
+“Wh-what?!?”
+
+“I'll still need the dock, though.” Ren said. “Far enough away from the city so it doesn't impact the trade already going through there, but close enough that I can trade if I want to.”
+
+“But... but...”
+
+“It was your idea.”
+
+“But... but...”
+
+“I already have a ship. It's not quite done yet, but I'll need somewhere to keep it.”
+
+“But... but...”
+
+Ren dangled the coin pouch in front of her. Jen looked at it, then at Ren.
+
+“You're really serious?” She asked.
+
+Ren nodded. Jen sighed, and took the coin pouch.
+
+“I'm going to owe you for the rest of my life.” She said.
+
+“Your grand-kids will owe me for the rest of their lives.” Ren said, and Jen looked horrified. “I'm going to charge you a gold a week, with no interest.” He said, and grinned as her horrified expression turned to joyous laughter.

@@ -1,0 +1,485 @@
+---
+id: 99ba141f-5a7a-51de-8814-f43b4508862d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 350 - Fight Or Flight"
+slug: 0343-chapter-350-fight-or-flight
+partOf: mythrans-master-of-all-continued-completed
+position: 343
+ownLength: 5247
+unit: words
+publishedAt: 2017-09-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159488/chapter-350-fight-or-flight"
+royalRoadId: "159488"
+---
+
+At least, Elerlyth tried to punch Ren in the face. Thanks to Teepo's warning and his Lightning Reflexes skill, Ren quickly reached up and blocked the shot with the palm of his hand.
+
+Notice!
+
+The combination of your Hardy and Block Skills has nullified the effect Nerve Shock.
+
+Stat Change!
+
+Hardy Level 3 (Advanced 0%)
+
+Ren grabbed the fist and held on, then looked at who had tried to punch him. “Elerlyth? What's going on?”
+
+“You tell me!” Elerlyth said. She tried to take her hand back, but she couldn't. “Let go!”
+
+Ren eased Frikara aside with his other hand and sat up. “Why did you attack me?”
+
+Elerlyth didn't say anything and pointed to the maids on the bed.
+
+“Why are you attacking me for sleeping in the bed with them?”
+
+“Oh, come on! Look at them!” Elerlyth said. “They're naked and in a pile! You used them and tossed them aside!”
+
+“I did no such thing.” Ren said, and Teepo dropped down onto his shoulder.
+
+“Let my fist go.”
+
+“No.” Ren said and stood up on the bed.
+
+“Don't make me hurt you!” Elerlyth said, and Ren laughed.
+
+“With this?” Ren said and shook her trapped fist. “My Hardy skill is at Advanced Level 3. I didn't even feel it.”
+
+“I meant with this!” Elerlyth said as she generated a tarantula in her other hand, then tossed it at him. Time seemed to slow down as the spider flew through the short distance between them.
+
+Ren's tarantula had sensed the danger when Elerlyth walked into the room, and came out to see what was going on. It saw Elerlyth use her Summon Spider spell, and timed it's leap from the cloak perfectly. Ren's spider flew through the air, pulled a pre-made web from a tiny leather pouch that it had on it's underside, and used all 8 of it's legs to unfurl it and engulf the other spider as they collided in front of Ren's face. The impact deflected them from hitting Ren and the pair of spiders tumbled through the air over Ren's shoulder. They hit the wall behind the bed with a sickening crunch.
+
+Ren felt a familiar sharp pain on his right hand and lifted it up to look at the recalled spider. “Thank you.”
+
+It wiggled a leg at him and crawled up his arm to stand on his shoulder.
+
+Ren looked at Elerlyth. “What the hell is wrong with you?”
+
+“You invited all these women into your bed and you're asking me what's wrong with me?!?”
+
+“You just tried to kill me!” Ren said. “That's twice now!”
+
+“You deserve it!” Elerlyth said. “How could you do this to me?”
+
+“I haven't done anything to you!” Ren said.
+
+“You've been sleeping with 5... no, 6 more people!” Elerlyth said when she remembered the water being from downstairs. “Why would you think I wouldn't be upset about that?”
+
+“You know what?” Ren said and let her fist go. “I'm sick and tired of people jumping to conclusions!” He said. “I haven't had sex with them! Any of them! I haven't even had sex with Railyse, who I assume you met downstairs.” He pointed behind her.
+
+Elerlyth glanced back over her shoulder to see Railyse, who stood behind her with a 2 pronged trident held menacingly at an attack angle.
+
+“I've known her for a lot longer than I've known you, and surprise, surprise! I didn't have sex with her! Do you want to know why?” Ren asked.
+
+Elerlyth didn't say anything, because she couldn't figure out how he could know someone, that she had just met, for longer than she'd known him.
+
+“Because I haven't talked to you yet! I haven't talked to Lara, Elise, or even Stella!” Ren said. “I thought I'd get the chance tomorrow, because I was going to invite you all over for a visit, and we could discuss... together... what was going on and how to deal with it!”
+
+Elerlyth looked at him with wide eyes. “Ren, I...”
+
+“Look at Frikara's breasts!” Ren said and pointed. “Do you see them? Do you see how good they look?”
+
+Frikara's face flushed red, and she thought about covering them up; but she didn't, because she could feel how much Ren wanted to use her as an example.
+
+“I can only imagine how good they taste!” Ren said, and Frikara blushed hard. “I've never tasted them, even though I could have! Right from the moment we met, she wanted me to!”
+
+“Ren, listen...” Elerlyth tried to speak.
+
+“What are you going to tell me?” Ren asked. “That I'm making a mistake? That I should drop everyone and be with you alone? WHAT?”
+
+“I'm sorry.” Elerlyth said.
+
+“I can't believe that you tried to kill me again over a stupid... wait, what?”
+
+“I'm sorry.” Elerlyth said. “You're right. I jumped to conclusions, and I'm sorry.”
+
+“You believe me now?” Ren asked, then frowned. “Why?”
+
+“She blushed.” Elerlyth said and pointed at Frikara. “All I can pick up from you is indignation and anger, but from her... her desire for you to...” She shook her head. “She wouldn't feel that way if she'd already slept with you.”
+
+“Well... then... that's good.” Ren said and sat down on the bed and sighed. “Why did you do that?” He asked. “Why was the first thing you thought of doing was to kill me?” All of his bluster deflated, and it left him a little empty inside. “You couldn't just wake me up and talk?” He never thought he'd feel what righteous indignation felt like; but when it was gone, apparently it hollowed you out afterwards.
+
+“Ren, I...” Elerlyth tried to talk, but she didn't know what question to answer first, and didn't say anything else.
+
+“You came here for a reason.” Ren said. “What was it?”
+
+“It's nothing.” Elerlyth said and turned around and almost walked into the two-pronged trident. “Step aside.”
+
+“You tried to kill the Assistant to the Amabssador.” Railyse said and pointed the trident at her face. “You will state your reason for being here.”
+
+“Railyse...”
+
+“She came in here, uninvited, and tried to murder you over a lover's squabble.” Railyse said. “I will have her reason, or her head.” She said. “Or both. I haven't decided yet.”
+
+“I'm an Adventurer. My reason has nothing to do with any of this.” Elerlyth said, but the catch phrase didn't work.
+
+“I don't believe you.”
+
+“Fine.” Elerlyth said and turned to look at Ren. “I passed, okay? They gave me extra credit for the research grant and I can pick up my diploma tomorrow.”
+
+“No way!” Ren said and stood up. “That's great news!”
+
+“I came here to celebrate with you.” Elerlyth said and looked at the maids and Railyse. “I had no idea that you had all this other stuff going on.”
+
+“I actually can't remember the last time we were together.” Ren said. “It's been so long since then.”
+
+“What are you talking about?” Elerlyth asked. “It's only been a few weeks since we... ah... in here.”
+
+“It's only been that long for you.” Ren said.
+
+“What do you mean?” Elerlyth asked.
+
+“I figured Stella would have told you about it already.”
+
+“Told me what?”
+
+Ren started to tell her about going to the Water Realm and his adventures there, and how long it had been since he'd actually seen her. Elerlyth had a hard time believing the sounds coming into her ears, because they didn't make any sense to her. Not at first. While he talked, she walked over to the bed and sat down next to him. She took his hand and listened to his outrageous story. When he was done, she knew it was all the truth, though.
+
+“Good god, Ren.” Elerlyth said. “You... good god.”
+
+After a few minutes of silence, Elerlyth told him the details of her story, and about what had happened with the professor and the Dean of Sciences the day before.
+
+“So, which news wins this part of our 'who's better' contest?” Ren asked.
+
+“Yours, hands down.” Elerlyth said. “My graduation is pretty insignificant compared to...”
+
+“No, it isn't.” Ren said. “I've heard from you a lot about how much the professor pissed you off, and how much you wanted to have your actual credentials.” He smiled. “I guess we'll have to discuss your pay with the boss, now that you're not a student anymore.”
+
+Elerlyth sighed. “Ren, I... before that misunderstanding, I... I wanted to spend the night with you. I wanted to... to celebrate...”
+
+“Okay.” Ren said and stood up.
+
+“Wait, what?”
+
+“Frikara, Andrela, Verwynn, Navruth, Lusinia, and Railyse.” Ren said. “I'll be gone for a while, but I will be back in the morning to make breakfast.” He equipped his Travelling Clothes and held a hand out to Elerlyth. She took it with a sigh, and he picked her up and hefted her over his shoulder.
+
+“REN!” Elerlyth yelled and he left the bedroom at a jog.
+
+*
+
+“Where do you think he's taking her?” Lusinia asked.
+
+“Not to Anabelle's place.” Navruth said. “There's no way he'd let her have a front row seat and not invite us, too.”
+
+Railyse laughed. “He'll take her where others go for such things.”
+
+Four of the maids started to laugh, then stopped and looked at Frikara. She sat there and cupped her chest and jiggled them a little.
+
+“What are you doing?” Andrela asked her.
+
+“Ren said they looked good.” Frikara said, and let them go. They jiggled more and bounced a bit, then she did it again. “I'm trying to figure out why.”
+
+Railyse stored her two-pronged trident. “Ah, the eternal struggle continues.”
+
+“What's that?” Frikara asked and looked down at herself. Ren, I hope you try to taste them soon. I would really, really like that!
+
+“The struggle to figure out how a man thinks.” Railyse said, and they all laughed.
+
+*
+
+Ren ran down the street as fast as he could.
+
+“Ren!” Elerlyth said. “Put me down!”
+
+“In a minute.” Ren said ran across the city to the Leisure District and stopped at the old inn he stayed in a couple of times, and carried her inside.
+
+“Ren!” Several people said and lifted their tankards to salute him. He gave them a little wave and went to the counter of the Snoozing Bear Inn.
+
+“My old room, please.” Ren said, and the innkeeper nodded. No one said a word about him having Elerlyth over his shoulder. She was surprised by that, and she tasted the feelings they had about it.
+
+They like that he caught me! Elerlyth thought, shocked. They're supposed to be afraid of me, but with Ren here, I'm not getting a touch of Fear from any of them. Not even from the innkeeper!
+
+The innkeeper led them up the stairs to the best room in the place, and Ren gave the innkeeper a handful of silver coins.
+
+“A round of drinks for the men downstairs.” Ren said and gave him a single gold coin. “No breakfast, and we might break a few things.”
+
+The innkeeper looked at Elerlyth's butt by Ren's face, shook his head and chuckled, then shut the door when he left.
+
+“You can put me down now.” Elerlyth said.
+
+Ren stood her up and she swatted him on the head with her open hand.
+
+“What the hell did you carry me like that for?” Elerlyth asked and hit him again. “Even if I was wrong, I'm still mad at you!”
+
+“I know you are.” Ren said and concentrated on his Spider Aura. He tapped her brooch, and she thought about not doing it; then sighed and concentrated on it herself. It was one of the things she had been looking forward to, because her hunger was pretty strong. Their Auras merged and Elerlyth gasped as his feelings hit her.
+
+“Oh my god!” Elerlyth exclaimed. “Ren! You... you...”
+
+“You haven't felt anything yet.” Ren said. “I've got a year and a half of pent-up emotions for you to feast on.”
+
+“Wh-wh-what?” Elerlyth looked at him with wide eyes.
+
+“I hope you're hungry after not logging in for so long.” Ren said.
+
+“I am, but... I don't know if I'm quite that hungry.” Elerlyth said in a soft voice.
+
+“Let's find out.” Ren said and cupped the sides of her face. “Store your clothes and show me paradise.”
+
+“Ren, we just had a fight...”
+
+“I'm pretty sure make-up sex is supposed to be the best thing.” Ren said and stored his clothing. Elerlyth looked at his rippling muscles and reached out to touch them.
+
+“How... how strong are you now?”
+
+“My basic Strength stat is 303.” Ren said, and Elerlyth's mouth dropped open.
+
+“WHAT?!?”
+
+“All that hard labour nearly doubled my Strength while I was in the Water Realm.” Ren said. “With the rings and my armor equipped, it's about double that.”
+
+“God!” Elerlyth said, and sat on the bed. How can he be so far above me?
+
+“Oh, no you don't.” Ren said and stood her up. “Clothes off.”
+
+Elerlyth stored her clothing and revealed that she had on the see-through bodysuit underneath. He turned her around and bent her over, and she braced herself on the side of the bed.
+
+“Look at that.” Ren poured out how much he enjoyed what he saw and knelt on one knee. “At long last.” He said and kissed her there. “Paradise.”
+
+She caught her breath and moaned as his feelings poured into her, and gasped when he used his fingers to tear the thin fabric and exposed her. His breath was hot and cool at the same time, and her flesh burned from the need to be touched.
+
+It took him almost an hour to drive her crazy with desire, but he only used his mouth and fingers. He had fed her with all the sexual frustration he had stored up for the year and a half he had been gone, and by the time he was done pleasing and feeding her that way, she had cried a torrent of tears and mercilessly begged for him. He changed tactics then and fed her all the times he had thought about her, then stood up and started to make love to her.
+
+Elerlyth was frantic in her movements, and he felt that she was trying her best to make up for all the time they had been apart. Even though it had only been a short time for her in comparison, she had missed him quite a lot, too. She poured out her feelings for him, and he poured out his feelings for her. Their shared Aura contained it all and fed it back to them, and Elerlyth's mastered ability gorged itself on everything. The feeling of intimate skin contact, their love, their lust, passion and sorrow, was quite a potent cocktail for her.
+
+Elerlyth had never had a meal quite like it before, and the tears she had cried for Ren changed and became tears she cried for herself. She didn't know if they were tears of joy or sorrow; for her mistake and for leaving him alone for so long, or for their reunion. At the moment, she didn't care amidst everything that they were feeling, and cried them anyways.
+
+Her body had started to glow at some point, and neither of them could tell when it happened. She started to gain XP in a slow trickle as they kept going. After another hour of sharing each other's feelings and bodies, Elerlyth couldn't take any more and collapsed onto his chest. She was both exhausted and energized at the same time, and had actually gained a level.
+
+“Oh... oh my god.” Elerlyth said and kissed Ren. “I... that... oh, god.” She said. “I gained a level!”
+
+“What? We already mastered your ability.”
+
+“No, Ren.” Elerlyth said. “I gained the level.”
+
+“Oh.” Ren said, then his eyes widened. “Holy crap!”
+
+Elerlyth chuckled and kissed him again, then rolled off to lay beside him. They looked around the room at the shambles they had left. The desk was cracked and on it's side, the chair had been shattered, there were several dents in the walls, and the bed had two broken legs and sat at an angle. The only thing still intact was the unicorn poster. Neither of them had wanted to damage it and had been careful around it.
+
+“I think I need to give the innkeeper another gold coin.” Ren said, and Elerlyth laughed a deep laugh, and Ren joined her.
+
+They equipped their clothes and cleaned up as much of the mess in the room as they could. Ren made a new desk and chair, and even fixed the bed. There wasn't anything he could do about the dents in the walls, not without removing and replacing the planks, so he left them and told the innkeeper about them. He offered another gold coin, but the inkeeper asked for the broken furniture instead. Ren handed the pieces over to him, and he accepted them gratefully.
+
+What Ren didn't know was that the innkeeper had been collecting things Ren had broken or destroyed from all over the city, and had made a kind of show for them. The innkeeper had more people request to stay in the 'Hero Of Aurora Room' or the 'Ren Room' as some of them called it, than any other room he had; which included the best room in the place that Ren and Elerlyth had just wrecked.
+
+Ren and Elerlyth left the Snoozing Bear Inn and ran across the city towards the Housing District. Elerlyth had been surprised that he could run just as fast as her, even though her legs were almost twice as long as his. Ren on the other hand, made sure to match her pace and didn't get ahead of her at all.
+
+“Are you heading to your place?” Ren asked her when they came to a stop just outside the Housing District, before his Aura covered the new house and would have merged it with the shared Aura that the maids had.
+
+“No, the elves might still be stalking me.”
+
+“Even after all this time?” Ren asked. “I've been out of the city a few times now, and I haven't seen or heard anything.”
+
+“They're after me, though.”
+
+“They think I'm a shape-shifted you.” Ren countered.
+
+“You have a point.” Elerlyth said. “But I think I'll stick with staying in the apartment.”
+
+“There's something else I should tell you.” Ren said. “I joined another party.”
+
+“You did?” Elerlyth asked. “What happened to your old party?”
+
+“It's still there.” Ren said. “I have a skill that lets me join another.”
+
+“Well that's just great!” Elerlyth said. “Why didn't you tell me this before? I wanted to add you to my party!”
+
+“How many members do you have?”
+
+“One.”
+
+Ren snorted a laugh. “We'd have been a party of two?”
+
+Elerlyth nodded, and Ren gave her a hug.
+
+“I'd like that, actually.” Ren said. “But, for now... my new party is short a member, and we've got a quest tomorrow night, real-time.”
+
+“Are you inviting me along without asking them first?”
+
+“Better.” Ren said and sent her a party invite. “I want you to join my party.”
+
+“Ren, I... wait, how do you have an extra slot?” Elerlyth asked. “Don't tell me you lost someone!”
+
+“Not how you mean.” Ren said. “Nathalia voluntarily left the party.”
+
+“Oh, Ren.” Elerlyth said and hugged him close. “I'm sorry.”
+
+“It's okay.” Ren said. “She was right. It's for the best.”
+
+Elerlyth nodded and accepted the party invite. “Virtual Survivors?”
+
+“It seemed appropriate.” Ren said. “Hey, I just had a neat idea! Come over to the house tomorrow night and bring your VR headset. We can watch my show, then log in for the quest.”
+
+“I don't know.” Elerlyth said. “I've got a neat set up at home.”
+
+“I've got a really big bed and a bathroom you can play basketball in.” Ren said, and she laughed. Elerlyth wrapped her arms around his neck and gave him a kiss.
+
+“All right. I'll see you tomorrow night.”
+
+“Great!” Ren said when she broke the kiss and let him go. He started to slowly walk backwards down the street. “By the way... don't ever attack me like that again.”
+
+“Ren, I said I was sorry.”
+
+“You said that last time, too.” Ren said. “If it happens again, I might have to rethink what we have between us.” He said. “I don't want to do that.”
+
+“Ren...”
+
+“Bye, Elerlyth.”
+
+“Bye, Re-AH!” Elerlyth gasped as Ren's Aura merged with the shared Aura the maids had. She felt everything the maids felt, and their emotions flooded through her.
+
+“Oops.” Ren smiled. “Sorry about that.” He said and stopped concentrating on the Spider Aura.
+
+Stat Change!
+
+Spider (Aura) Level 5 (Expert 0%)
+
+Cool. Ren thought, then waved to Elerlyth. She waved back, and she watched as he ran down the street and went into his house.
+
+*
+
+Good god. Elerlyth thought. She stumbled over to a nearby building and leaned against it. How can he... he... why isn't he drowning in their emotions?
+
+*
+
+“I'm back.” Ren said as he entered the bedroom. None of the maids had gone back to bed when he had left.
+
+“Like we didn't know that.” Navruth said and laughed.
+
+“We felt her in the Aura.” Andrela said. “Is... is she all right?”
+
+“Yeah.” Ren said. “She's just not used to sharing with multiple people, and I thought I'd give her a bit of a taste.”
+
+“That's what we got from her before she was cut off.” Frikara said. “I think you surprised her again.”
+
+“I sure did.” Ren chuckled, and let out some of the shared feelings he'd had with Elerlyth.
+
+“By the gods.” Frikara almost moaned. “If we ever do anything... anything at all... please let it be what you did to get that reaction!”
+
+Ren laughed and hugged her. “I'll see what I can do.”
+
+“You've got about 6 hours left before morning.” Teepo said and took off to land on the ceiling. Ren picked up the spider that had stayed on his shoulder, and tucked it back into the Dire Wolf Hooded Cloak. He stored his clothing and climbed into bed, and the maids all piled in on top of him. He could feel that they were surprised that he didn't complain about it, and he touched each of their faces and let them feel that he didn't mind if they hung all over him. He didn't mind it at all.
+
+A strong feeling of gratefulness entered the shared Aura, and they settled down together. With Ren on the bottom, it was a more ordered pile than usual because they all wanted as much skin contact with him as they could get. The maids all sighed in contentment and Ren felt sleep drag them down, and he closed his eyes. He had a long day ahead of him at his county tomorrow. He gave his word that he would help with the harvest, and that's what he intended to do.
+
+*
+
+“Let me go!” Lylyth said, rattled the chains around her wrists, and stared at her attendant. “I will have him!”
+
+“You need to wait, Your Majesty.” She said. “You've felt what he went through.”
+
+“That's why I need to go to him!” Lylyth said. “I need to ease his suffering!”
+
+“He isn't suffering right now.” The healer said. “He was just remembering...”
+
+“I will taste his emotions for myself!” Lylyth said and strained against the magically-reinforced chains. “Let me GO!”
+
+“She's going to become more and more despondent as his emotional bond to her strengthens.” The healer said.
+
+The attendant looked at the almost fully-formed image of a spider over her Queen's heart. “She should make the final connection soon.”
+
+“I just hope he survives.” The healer said. “He's a remarkable man.”
+
+The attendant chuckled. “Don't tell me that you...”
+
+“I would let him, if he were so inclined, and my Queen would allow it.” The healer said. She took out the Mana potion Ren had given her and recharged herself with it.
+
+“Is that...”
+
+The healer nodded. “He gifted it to me when I healed his arms.”
+
+The attendant laughed. “He doesn't realize it lets you siphon off his Mana, does he?”
+
+“He hasn't noticed.” The healer said. “I draw from his main source, and it refills before I finish taking what I need.”
+
+“Really?” The attendant was surprised. “May I?”
+
+“I'm sorry, but no.” The healer said and stored it. “It needs to be an untouched sample for my ability to work.”
+
+“You could pour some out for me...”
+
+“You know it has to be complete.” The healer said.
+
+“Maybe you can get another one from him.”
+
+“Would you take that chance if it was yours?”
+
+The attendant opened her mouth to say that she would, then sighed. “No.”
+
+The healer looked at her Queen and held a hand out to her. Lylyth was tempted to bite it off, just because she could, then relented and let the healer touch her forehead.
+
+“He's sleeping now, Your Majesty.” The healer said. “He will be yours soon.”
+
+“Yes, he will.” Lylyth said. “Mine to have. Mine to love. Mine to keep!” She said. “Forever!” She laughed maniacally.
+
+“Do you have to act like that?” The attendant asked, and Lylyth looked at her.
+
+“Was that too much?” Lylyth asked. “I know I'm getting more unreasonable, but I didn't think I was pushing things too far.”
+
+“The laugh was a little bit much.” The healer said. “It was quite unpleasant.”
+
+“That's what I was going for.” Lylyth said and smiled. “Now take off these chains.”
+
+“No.” The attendant said. “You really do have to wait.”
+
+“But I don't want to.” Lylyth said and strained against the chains. “What is this enchantment, anyway?”
+
+“The more force you apply, the more it holds you in place.”
+
+“Dammit!” Lylyth said and pushed as hard as she could against them. The chains didn't budge at all, and she sighed. “Why did I agree to let you chain me up again?”
+
+“You're a masochist, Your Majesty.” The healer said. “You love this kind of thing.”
+
+“Oh, right.” Lylyth said and looked down at the chains. “They do bite in nicely, don't they?”
+
+The attendant laughed. “Do you want the whip as well, My Queen?”
+
+“No, not today.” Lylyth said. “I'm not in the mood for it right now.”
+
+“I'll keep it handy, just in case.” The attendant said.
+
+Lylyth nodded and looked down at herself, and saw the image of the spider. The webs on her arms had made their way up her shoulders and across her chest, and almost joined together under the spider.
+
+“I am so close.” Lylyth said. “If you would only let me chew on him just a little bit...”
+
+“My Queen.”
+
+Lylyth sighed. “Yes, yes. I'll wait.” She said. “When this design is done, nothing will stop me from going to him.” She looked at the attendant and the healer. “Nothing.”
+
+“Good.” The healer said. “You need to get this over with, and then you can go back to being our Queen again.”
+
+“I am your Queen.” Lylyth said.
+
+“Our rational Queen.”
+
+“Rational?” Lylyth asked, and then laughed. “Well, okay... I can't argue with that.”
+
+The healer rolled her eyes and the attendant laughed.
+
+*
+
+Ren woke up early the next morning and couldn't stretch like he wanted to. He could feel that his arms were pinned under two of the maids, and his legs had at least one maid on them. When he opened his eyes, he was greeted with a sight he didn't think he would ever wake up to.
+
+One of the maids had somehow turned around so that her head rested on his thigh and her chest was on his abdomen. Her abdomen was on his chest and her thighs were on either side of his head. That position gave Ren a very clear view between her legs, since it was right in front of his face; and if he remembered correctly, Lusinia was the one that wore the blue panties.
+
+“Lusinia?” Ren whispered. “Can you move a little?” He nodded his head, which rubbed against both of her thighs, so she would know what part he wanted her to move.
+
+“O... okay...” Lusinia mumbled. She'd recognized Ren's voice, even though she was still half-asleep, and braced her arms on the bed. She'd felt something touch her on her inner thighs, and figured that she'd gotten her legs wrapped around him somehow and he wanted her to move. She got up onto her knees, which took her private area away from Ren's direct view, and he sighed in relief.
+
+Lusinia pulled her knees forward and over Ren's arms to rest on either side of his chest; but she couldn't lay down with Navruth in her way like she was, so she sat down to figure out where she could move to.
+
+Ren opened his mouth to tell her to stop. “Lusi-” His words were cut off as Lusinia sat on his face.
+
+Lusinia rubbed her eyes to try and wake up a little, and she looked around. I don't see anywhere comfortable. She thought, and sighed. She felt that something was kind of poking her special place, so she sighed again and almost stood up. Ren had been so surprised that she had sat down on him, that he didn't know how to react. He watched as Lusinia crawled over Navruth, sat down on Navruth's back, then laid backwards to rest on top of him. She yawned and closed her eyes. Ren couldn't believe that no one had woken up after all of that moving around, and that Lusinia still had no clue where his face had been.
+
+“Lusinia, you just-.” Ren whispered, and she turned her head to him and kissed him. Her eyes were still closed, and she broke the kiss and sighed.
+
+“If only I could... tell you how much... you mean to me.” Lusinia whispered. Her hand reached up and touched his face and rubbed his chin. “I miss... your beard... but... you're still handsome.” She said. “I want you to... hold me tight.”
+
+Ren's arms were pinned, and he wasn't sure what he was going to do. He could have pulled them out from under the other maids; but, he didn't want to wake them or potentially hurt them if he pulled too hard.
+
+“Hold me.” Lusinia said and reached out. She grabbed two different arms on either side of her. One was from Verwynn, and the other was from Navruth. She pulled them over herself and sighed. “Yes... like that.” She said and hugged them. One arm was across her chest and the hand hung over her shoulder, and the other was across her belly and the hand hung by her hip. She wiggled a little and stretched her legs out, and got them caught underneath Andrela. Lusinia sighed again, now that she was tucked in, then started to snore a little.
+
+You're right, Teepo. Ren thought. How they get tangled up really is like magic.
+
+Teepo chittered in delight, and Ren figured he wasn't going to be getting up early after all.
+
+Wake me up an hour early. I have to head to the ship in the morning. Ren told his friend and closed his eyes. The maids are like a living blanket. He thought, and went to sleep.

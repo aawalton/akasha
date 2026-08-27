@@ -1,0 +1,389 @@
+---
+id: c7a3af9e-9fab-5760-a8a2-18a4c90663d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 379 - Clint's Ranch Again"
+slug: 0373-chapter-379-clints-ranch-again
+partOf: mythrans-master-of-all-continued-completed
+position: 373
+ownLength: 3898
+unit: words
+publishedAt: 2017-10-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167066/chapter-379-clints-ranch-again"
+royalRoadId: "167066"
+---
+
+Ren looked back at his Book of Runes and imagined a glyph with 2 runes, then 3, 4, and 5 runes. They appeared on the page, and he did the same for 6, 7, 8, 9, and 10 runes; which appeared on the opposite page. Now that he had a glyph of 10 runes, which was the maximum a glyph could hold, he could now combine them to the limit of his Enchanting ability of 5 glyphs.
+
+Ren took out the Legendary Hooves of Speed from Princess' inventory and used his Double Infusion ability. He enchanted them with 5 glyphs of 10 runes each, for a total of 50 runes. Each rune gave a 5% bonus to speed, so Princess would gain a 250% bonus to her speed with the Legendary Hooves of Speed +100% bonus and the Horseshoes of Speed +50% bonus.
+
+“Oh, god.” Elerlyth said when she examined the modified Legendary Hooves of Speed. “That's insane.”
+
+Ren chuckled and examined them himself, then he laughed when he received the recipe for them as well as getting the info for them.
+
+Legendary Hooves of Increased Speed (Compound Wondrous Item - Binds on Equip)
+
+Requires 2 Gold Bars (Any Quality) and 2 Iron Bars (High Quality) to be placed on the Craft Wondrous Item platform. These golden hooves come in sets of four with horseshoes already attached and cannot be modified further. When affixed to an animal’s hooves, they increase the animal’s base speed by 400% (inherent speed bonus of 150% plus enchantment bonus of 250%). This counts as an enhancement bonus, and as with other effects that increase speed, all speed related abilities increase proportionally.
+
+All four hooves must be worn by the same animal for the magic to be effective.
+
+Weight: 10 pounds (2.5 pound for each horseshoe)
+
+“Hahaha!” Ren laughed. “Princess! Guess what? You thought you were fast before...”
+
+My Lord, please adorn me with the new hooves. Princess thought, and almost pleaded to him. Ren put the hooves into Princess' inventory and she immediately equipped them. She was covered in a golden glow for nearly 30 seconds this time as the magic took effect. When it was done, Princess was trembling.
+
+“Are you all right?” Ren asked her.
+
+My... My Lord... I... I'm... Princess bleated loudly. She leaned down slightly and dug her new hooves into the street. The paving stones cracked under the pressure, then she ran. She disappeared from Teepo's sight, much to his surprise.
+
+“Um, I can't see her.” Teepo said in shock, then Princess stopped in front of Ren and Elerlyth.
+
+My Lord, I just ran around the city. Princess thought, and she wasn't breathing hard at all.
+
+“Wow.” Ren said and scratched her chin. “That's... just wow.”
+
+“What happened?” Elerlyth asked. “Did you make her invisible for a few seconds? I thought it only increased her speed.”
+
+“It did.” Ren said. “She just ran around the city.”
+
+Elerlyth's mouth dropped open. “Oh, wow.”
+
+My Lord, let us be off. Princess said.
+
+“I don't think I can use the cart.” Ren said and took out the straps. “We'll have to ride her.”
+
+“What's with the straps?” Elerlyth asked.
+
+“I'm going to carry you like a backpack.” Ren said and tied the straps around her. “It will make you a part of the burden I carry.”
+
+“Excuse me?”
+
+“It'll help Princess adjust to the weight if it's only one thing for her to balance.” Ren smiled at her. “Plus, I just need to make sure you don't fall off, since there's only one saddle.”
+
+“Oh, okay.” Elerlyth said and Ren turned around and tied her to his back. She had to kind of crouch to get it to work, though.
+
+“Just wrap your arms and legs around me.” Ren said, and Elerlyth did so. His posture didn't change at all as she added her weight to him, even though she was physically bigger than him.
+
+“It still amazes me that you can do stuff like this.” Elerlyth said as Ren finished attaching her to his back. “I'm carrying a bunch of stuff, and you can carry me like I'm nothing.”
+
+Ren chuckled. “I'm not even wearing my armor that almost doubles my stats, either.”
+
+“You're right.” Elerlyth said. “Do you want me to store mine?”
+
+“I'd have to adjust the straps on us both if you did.” Ren said and used a step ladder to climb onto Princess, then stored it again. “Take it easy, Princess.” He said. “It's not the weight you need to be careful of now. It's giving us whiplash.”
+
+Princess huffed and trotted slowly down the street. Several people were out and about now, since breakfast was over, and she didn't want to take the chance of running someone over. They made it to the North Gate and then she increased her speed, then more, then more. Teepo couldn't even chitter in delight because he was too shocked at how fast Princess was going.
+
+They made it to Clint's ranch in only 10 minutes, when it should have taken almost an hour. Princess slowed down about a mile away from the ranch and came to a stop in the driveway. Both Ren and Elerlyth's hair stuck almost straight back because of the sheer velocity. Ren took out the step ladder and climbed down, and undid the straps. Elerlyth didn't let go, however.
+
+“Elerlyth?” Ren asked and tried to look over his shoulder. He could see she was trembling slightly.
+
+“I'm fine.” Elerlyth said. “I just... let me hold onto you for a minute.”
+
+Ren chuckled and he hugged her arms. “You can hold on for as long as you want.” He tied the straps back up so it would take the strain off of her arms and legs, and she relaxed. “Wait here, Princess. I'll go and see if the others are ready.” He said and gave her three plates of food. She didn't really need it, since she wasn't hungry or even tired after that quick run, and he walked over to Clint's front door and knocked.
+
+The door opened and a naked woman stood in front of him. “Yeah, what do yo-oh, hi!”
+
+“Hi, Jennifer.” Ren said. “You look pretty this morning.”
+
+“Thanks!” Jennifer said and looked down at herself. “Oh, damn. I forgot my robe again.”
+
+Ren chuckled. “That's okay. I can appreciate a woman for who she is without staring at her assets.”
+
+“But my ass is back here.” Jennifer laughed and turned around. “Don't you want to appreciate it, too?”
+
+Ren laughed. “Now I know you're just playing with me.” He said. “The guys aren't even up yet, are they?”
+
+Jennifer shook her head. “They logged back in early to get some sleep before they had to go on the quest, and... well...”
+
+“You and the other girls gave them a personal quest and they had to complete it.”
+
+Jennifer laughed again. “You're so funny!”
+
+“I do have my moments.” Ren said. “I've got a bit of work to do, so I'll go do that while we wait.”
+
+“Okay.” Jennifer said. “Do you want me to wake them up?”
+
+“Not right now.” Ren said. “Go on back to cuddling Billy for a while.”
+
+“Thanks!” Jennifer said and walked back into the house and left the door open.
+
+“Does that happen to you a lot?” Elerlyth asked.
+
+“What's that?” Ren asked as he turned around and walked over to the middle of the driveway and took out a table to work on.
+
+“Greeting naked women like it was nothing.”
+
+Ren chuckled again. “It's only happened a few times, and if I do my best to ignore the lack of clothing, they don't get insulted.”
+
+Elerlyth snorted a laugh. “She didn't really seem to care, one way or the other.”
+
+“Well, she takes her clothes off for a living; so, being without them shouldn't be that big of a deal for her.”
+
+“Wait, what?” Elerlyth asked. “Undo the straps, please.”
+
+“Sure.” Ren said. “Hold on.” He undid the straps, and Elerlyth stood up.
+
+“Now what did you say? She's a stripper?”
+
+Ren smiled. “There used to be a girly bar much farther out called the Pink Pearl. The guys took me there to celebrate joining the party...”
+
+“You did not have sex with a stripper!”
+
+Ren laughed. “Of course not.” He said. “We just cuddled.”
+
+“Excuse me?”
+
+Ren grinned at her, and she sighed.
+
+“I've got to stop jumping to conclusions.” Elerlyth said.
+
+Ren nodded. “Neither of us was naked at the time, and I didn't want to be a wet blanket for the guys.” He explained. “Of course, after a bit of a misunderstanding with her manager, she was fired and I hired her to give me lessons.”
+
+“REN!”
+
+“Glassworking lessons.” Ren said and laughed. “No jumping to conclusions, remember?”
+
+Elerlyth sighed again. “You're making this difficult on purpose, aren't you?”
+
+“Yes.” Ren said. “Please, don't judge me without hearing the whole story.” He said and took out a crate of diamonds and told her what had happened at the Pink Pearl as he opened it and grabbed 2 handfuls of them to modify her armor. He put the diamonds on the table and stored the crate again.
+
+“Good god.” Elerlyth said. “Those were...”
+
+“I call them wand diamonds.” Ren said. “Specifically cut for mounting on the end of metal wands as the focus material.”
+
+“Ren, that... that crate alone was worth...”
+
+“It's only worth what I'm using it for.” Ren said and enchanted the first one with 5 glyphs of 10 runes each, or 50 runes total, with each rune granting +1 Strength. “Selling them would be pointless, since I'd have to have more cut to replace them.”
+
+“But...”
+
+“I'm not hurting for money.” Ren said and enchanted the next with runes of Vitality. “I've got other diamonds I can sell if I was.”
+
+“God, Ren... how can you...”
+
+“What?” Ren asked and enchanted the next diamond with Endurance. “Waste money?”
+
+“No, how can you be so nonchalant about having so much?” Elerlyth asked. “You're carrying around a crate of diamonds worth more than... than...”
+
+“Good luck thinking of something worth more.” Ren smiled and enchanted Luck on the next diamond. “I haven't found anything even close to the value.”
+
+“The starter city of Aurora.” Elerlyth said, and Ren stopped enchanting and looked at her.
+
+“What?”
+
+“Haven't you ever stood off in the distance and looked at the city?” Elerlyth said. “I thought it was all just the inherent value in the businesses; but when they had that fire, you told me where the real value was.”
+
+“Well, I can't argue that.” Ren said and went back to enchanting. “People are worth more than diamonds.”
+
+Elerlyth watched as Ren enchanted 8 diamonds, then went back and enchanted them again. Ren asked her for her armor chest plate, and she unequipped it and handed it to him. He absorbed the Protection enchantment and replaced it with 4 glyphs of 10 runes each of Reinforcement, Warding, Antidark, and Speed. He added 9 Protection runes and a rune of Set Completion to make up the last glyph.
+
+Ren took out the large crucible of molten metal from inventory and used several drops of it and his Gem Setting skill to set 6 of the diamonds, 3 under each breast protrusion, with the Burnish option so the gems were flush with the surface of the metal.
+
+“I've set Runes of Warding on the chest plate to disguise the gems, but it's not perfect.” Ren said. “I guess I could have used more runes, but I wanted to give you as broad of a range of help as I could.”
+
+“Oh, Ren.” Elerlyth said as she examined her chest plate.
+
+Strong Breastplate of Swift Protection (Rare - Binds on Equip - Part 1 of 6)
+
+This armor chest plate continually provides its wearer with Protection (+45% to Defense), Lightness (-50% to weight and burdens carried), and Speed (+50%). It has also been enchanted for Reinforcement (Armor Value +50%), and partial concealment (+10% to Stealth abilities).
+
+Bonus: +100 Strength, +100 Vitality, +100 Endurance, +100 Dexterity, +100 Agility, +100 Intelligence
+
+“This is so... wait, part 1 of 6?”
+
+“I'm not done.” Ren said and smiled. “Hand me your boots.”
+
+Elerlyth stored the breastplate and handed over her boots. Ren activated his Craft Wondrous item ability and placed her armor boots on the golden platform. A few seconds later, they were modified Boots of Striding and Leaping, which gave her a 50% boost to Speed and doubled her jumping ability.
+
+“Oh, my...” Elerlyth said.
+
+“Do you want a stat boost, more speed, or more protection?” Ren asked her.
+
+“Stats, please.”
+
+Ren took one boot and enchanted it with 4 glyphs of 10 runes, for Strength, Vitality, Endurance and Luck, then used the last glyph of 10 runes to add a rune of Set Completion and 9 runes of Protection, then did the other boot and added glyphs of Dexterity, Vitality, Intelligence and Wisdom, then added the same glyph with a Set Completion rune and 9 Protection runes.
+
+Elerlyth handed Ren her gauntlets next, and she said stat boost; so, he gave them the same enchantments as the boots. When he had passed them back, she looked at him.
+
+“Um... that's only 5 things.”
+
+Ren smiled and took out the Helm of the Eagle he had let Janice borrow several times. He activated his Craft Wondrous item ability and placed the helm on it. It changed size slightly and became larger, and Ren had 2 diamonds left to attach, Luck and Wisdom; so he took out 4 more, since the helm could hold 6 of them, and enchanted them with 5 runes each of all 8 stats. He enchanted the helm itself with a glyph of 9 Protection runes and the last Set Completion rune, then used some more molten metal to recess the gems into the helm and gave it to Elerlyth.
+
+“Ren... you...” Elerlyth stored the helm an then equipped her full armor set. “OH MY GOD!”
+
+Full Armor of Stat Enhancement (Rare - Binds on Equip - Complete Set)
+
+This armor continually provides its wearer with Protection (+270% to Defense), Lightness (-50% to weight and burdens carried), and Speed (+50%). It has also been enchanted for Reinforcement (Armor Value +50%), and partial concealment (+10% to Stealth abilities).
+
+Complete Set Bonus: +10 to all stats, +25% Armor Value, +25% Defense.
+
+Bonus: +155 Strength, +155 Vitality, +155 Endurance, +155 Luck, +155 Dexterity, +155 Agility, +155 Intelligence, +155 Wisdom
+
+“Wha' tha hell is all tha yellin' abou'?” Clint said and as he stormed out of his house.
+
+“Oh, you're up.” Ren said and stored the large crucible and table. “When are we leaving on the quest?”
+
+“When I bloody well feel like it!” Clint nearly yelled, and Ren stared at him.
+
+I didn't hear a trace of accent there. Ren thought.
+
+“Me, either.” Teepo said. “Maybe when he gets mad he loses it?”
+
+Or the words themselves can't let his accent be used. Ren thought, then smiled. “Could you speak a little louder? The people in the next county didn't quite hear you.”
+
+Jennifer laughed, and Ren looked behind Clint. She was there and wore a robe this time, and everyone else stood around her.
+
+“Hi, everybody.” Ren said and waved.
+
+“Hi!” A couple of the girls said and waved back.
+
+“Are you bored yet?”
+
+“Completely!” One of them said. “There's only so much time you can spend in the pool and looking at mounts.”
+
+Ren chuckled. “I had an idea that I want to ask you about.”
+
+“Oh?” She walked over to him and put her hands on her hips and looked at Ren. “What's that?”
+
+“I own a county a few hours cart ride outside the starter city of Aurora.” Ren said. “I think it would be a perfect spot to build a place for you girls to work.”
+
+The woman squinted her eyes. “You don't mean a regular job or something, do you?”
+
+“No, I think your skills, and that of the other girls, would be much better served working in a similar place as the Pink Pearl.”
+
+“Really?” Jennifer ran over to Ren. “You're really going to build a place for us?”
+
+“You aren't going to scam us like that last guy, Conner, are you?”
+
+“I certainly will not.” Ren said and let some of his anger show. It activated his Fear Aura, and the girl's eyes widened. He heard Elerlyth take in a sharp breath, and he calmed down and switched to his Camaraderie Aura.
+
+“I don't want any of your money.” Ren said. “I'll build the place, help you start with supplies and resources, and then it's all yours.”
+
+“Are you serious?” The one who liked being ordered around asked. Unlike the others, she actually walked closer to Ren when he let his Fear Aura out.
+
+“When we get back from the quest, I'll have a really nice place built.” Ren said. “What kind of theme do you want?”
+
+“Theme?”
+
+“The Pink Pearl was a ship and a sea theme.” Ren said. “I'm sure you're all tired of wearing sea shells and listening to water sounds.”
+
+“Oh, am I ever!” One of the other girls said. “I felt like I needed to pee all the time!”
+
+Several of the girls laughed.
+
+“So, any ideas?” Ren asked.
+
+“I'd like a Hell theme.” Jennifer said. “Dancing flames everywhere! Blood red costumes with horns and tails! Maybe even a deadly sins room!”
+
+“Leave your personal fantasies out of this.” The woman that stood closest to Ren said. “This is for men to get off on, not the dancers.”
+
+“Aww!” Jennifer said, and several girls laughed.
+
+“Just come up with something yourself.” One of them said. “If we don't like it, we'll burn it down and tell you to start over.”
+
+Ren laughed. “I'll do it if you leave the 'burn it down' part out.”
+
+She grinned and nodded.
+
+“So, just hang out for a few more days, and then you'll be back to work.”
+
+“Oh, I can't wait.” One of them said. “I really miss the tips.”
+
+“Me, too.”
+
+Ren looked at their sad faces. “I'm sorry you haven't been making any money since the Pink Pearl closed down.” He said. “What did you make every day?”
+
+“8 gold, plus tips.”
+
+“6.”
+
+“15.”
+
+“Don't pad your earnings, Jennifer.” The woman said. “The most we've ever made was 10, and that was on the weekends.”
+
+“It's been about week since you left your jobs, right?” Ren asked, and they all nodded. “Okay, 2 days at 10 gold coins for the weekend, and I'll round everyone up to 8 gold for the other 5 days.” He said. “So, that's 60 gold you've missed out on. Do you all have coin pouches?”
+
+Most of them nodded, but three of them didn't. Ren took out three coin pouches and put 60 gold coins into them, and handed them to the three girls that didn't have coin pouches, then started handing out 60 gold coins to the others. Everyone just stood there and watched as he gave all 12 women money.
+
+“Ren, what are you doing?” Elerlyth asked when he was done.
+
+“I'm paying them for their missed time.” Ren said. “Why?”
+
+“Ren.” Elerlyth said. “Look at them.”
+
+Ren turned and looked at the dozen women, and each of them had slightly red faces and held the money to their chests. It looked like they were afraid he was going to take it back.
+
+“You can put it away.” Ren said. “It's yours. I gave it to you.”
+
+“Ren.” Elerlyth sighed. “You're missing the point.”
+
+“What point?” Ren asked and looked at her. “I can't let them go a whole week without having any money.” He said. “Some of them depend on a steady income.”
+
+Elerlyth chuckled. “Are you really this dense?”
+
+“What do you mean?” Ren asked.
+
+“Ren, you just gave 720 gold, or over 7 platinum, to women that will do anything for money.”
+
+Ren's eyes widened. “Oh.” He said when he finally got it. He turned to the women and gave them a regal bow. “Ladies, please accept my apologies. I sincerely hope that you won't be insulted that I don't want you to do anything for the money.”
+
+“Is he joking?” One of them asked. “I think he's joking.”
+
+“No, he's not joking.” The woman that stood closest said. “You don't want us to at least dance for you, do you?”
+
+“I'm sorry if you feel like you need to earn it.” Ren said. “I was the inadvertent cause of you all losing your jobs, and I won't let you suffer because you can't work right now.” He said. “I'll get the new place up and running soon, and then you won't have to worry about money anymore.”
+
+Jennifer shook Billy's arm. “Billy? Is he serious? He doesn't want us to do anything for all this money?” She asked and held up the blue coin pouch Ren had given her. “Does he know how hard we have to work to get this much?”
+
+“I don't know him very well.” Billy said. “But, I'm pretty sure he's completely serious. I don't know if he's actually a nice guy or just pretending, though.” He smiled. “Either way, he just gave you over a week's pay and you don't have to do anything for it.”
+
+“Is... is he crazy?” Jennifer asked, and Ren chuckled.
+
+“Most definitely.” Billy said. “Remember the bow he made for me?”
+
+Jennifer nodded.
+
+“He practically gave it to me.”
+
+“Mine, too.” Tommy said.
+
+“He gave me mah bow bracers, too.” Clint said.
+
+“He gave me this wicked Mana bracelet.” Dillon said.
+
+“I haven't gotten anything yet.” Hank said.
+
+“That's because you haven't picked what you want yet.” Dillon said.
+
+“Is that my fault?” Hank asked.
+
+“Yes.” Dillon said, and they laughed.
+
+A couple of the women stepped close to Ren.
+
+“You really don't want us to do anything?” One of them asked.
+
+Ren glanced at Elerlyth and saw her grin, because she knew they wouldn't let any payment go without working for it. He sighed and looked back at the 12 women.
+
+“If it'll make you all feel better about this.” Ren said. “When I get the new place built, you can give me the very first dance.”
+
+“Ooo!” One of them said. “A competition!”
+
+“Yes! Whoever has the best dance can use it on him!”
+
+“I'm gonna kick your asses!” The one that liked being ordered around said. “I'll earn that first dance with him!”
+
+The women launched into a huge debate over techniques and proper form, and the guys started to laugh.
+
+“Ladies.” Ren said and held his hands up to try and quiet them. “Ladies!”
+
+They ignored him as they talked heatedly for several minutes, then they stopped and looked at him.
+
+“When you get back, we'll have a dance off.” The one that stood closest said. “Whoever you like best gets the first dance with you at the new place.”
+
+Ren opened his mouth to say that he didn't agree to be a judge, then sighed. “That's fine.”
+
+Several of the girls hugged and two of them even did a high five.
+
+“This is going to be so much fun!” One of them said as the entire group of them turned almost as one and walked back to Clint's house to go back inside.

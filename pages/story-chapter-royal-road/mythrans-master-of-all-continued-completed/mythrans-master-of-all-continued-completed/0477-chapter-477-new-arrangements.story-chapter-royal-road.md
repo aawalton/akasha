@@ -1,0 +1,323 @@
+---
+id: 25d068e9-bcb9-51cf-9617-3e786c9ba109
+page-type-slug: story-chapter-royal-road
+title: "Chapter 477 - New Arrangements"
+slug: 0477-chapter-477-new-arrangements
+partOf: mythrans-master-of-all-continued-completed
+position: 477
+ownLength: 3454
+unit: words
+publishedAt: 2018-01-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185525/chapter-477-new-arrangements"
+royalRoadId: "185525"
+---
+
+Ren and Princess stopped at the outskirts of the High Elven city, and watched the gallivanting colossal cow and the horde of ghouls stumbling around on the ground underneath it. He held in his laugh at the absurdity, and kicked himself for not even looking at the Automatic Image Maker the elflings had at the meeting so he could share this with the maids. If he had caught a glimpse of anything out of the ordinary while he was with the elflings, he would have asked about it.
+
+“Me, too.” Teepo said. “If I'd seen anything like that, I would have reminded you.”
+
+Ren had Princess run over to Zetaya and got the fire elemental's and Elerlyth's attention.
+
+“Thank god you're back so soon.” Elerlyth said and handed back the Generic Staff of Necromancy. “High Elven Scouts have been poking around all over the place.”
+
+“Why didn't you retreat?” Ren asked.
+
+“I just said they are all over the place.” Elerlyth said. “Thanks to the enchantments you put on this armor, they had a hard time spotting me on Etheria.” She explained. “Plus, we tried to retreat, and the ghouls turned around and went right for the High Elves in the city.”
+
+“All right, let's get this done.” Ren said and Zetaya picked him up. “Princess? Help round them up.”
+
+“Yes, My Lord.” Princess said and moved off to the sides to herd the stragglers towards the main group.
+
+“What about me?” Elerlyth asked.
+
+“Keep watch for the High Elven scouts.” Ren said and then Zetaya shoved him inside of it's body and the fire elemental dropped down to the ground. The ghouls, sure of the kill, rushed in to feast on the meat of their prey. Thanks to Elerlyth and Zetaya's movements, the main part of the remaining horde was easily consumed and sorted, and there wasn't as many to save as Ren had hoped. This last bit of ghouls barely had any of them that could be saved, and once Princess had brought over the ghouls that had been on the edge of the horde, their work was done.
+
+“I'm going to drop these off, then come back to check the High Elves that were attacked near the city.” Ren said.
+
+“Be careful.” Elerlyth said. “You don't know how they are going to react to seeing you.”
+
+Ren smiled. “Hopefully, Allynna is there to smooth things over.”
+
+“Allynna?” Elerlyth asked.
+
+“She's an elfling I met the first time I did this.” Ren said. “She's a... servant... of the High Lord of the Elves.”
+
+Elerlyth smiled. “I felt that.” She said. “She's doing it willingly, isn't she?”
+
+“Unfortunately.” Ren said.
+
+“Aw, you poor thing.” Elerlyth chuckled. “You can't come to her rescue and steal her away.”
+
+“She loves him, so even if I wanted to do that, she wouldn't go.” Ren said and smiled. “Hang tight, and I'll be back in a couple of minutes.”
+
+Elerlyth nodded, and Ren hooked the cart to Princess. They made a quick delivery to the storage space above the healer's ward and dropped off the handful of ghouls, then went back to the High Elven City. Ren had Princess slow down in the air near where the front lines were, and then had her land in clear view of everyone. He hopped off and walked over to the townspeople.
+
+“I'm here to check on anyone that was hurt by the ghouls.” Ren said. “There's a chance they could be infected if they were scratched, bitten, or had blood splashed on them.”
+
+“Is that how it's spread?” One of the High Elves asked, and he held a bloody cloth against his arm.
+
+“Mostly.” Ren said. “It could also be a form of magic; but, I don't know for sure.”
+
+“Can you stop it?”
+
+“No, but I know a healer and her assistant that have helped about 2,500 High Elves recover.” Ren said. “So far.”
+
+“You want us to go with you willingly.” A female High Elf said as she wrapped a male's head with a bandage. “You want us to abandon our homes and families to get healed?”
+
+Ren looked at her, and saw she had several small cuts on her arms and one on her face.
+
+“Abandon? No.” Ren said. “I want you to keep yourselves segregated from the rest of the population until they can check you out.”
+
+“You're worried we'll spread it.” She said, and Ren nodded. “How long do we have?”
+
+“Anywhere from 1 to 3 days.” Ren said. “It affects some people quickly, and others not at all.”
+
+“Does normal healing help?” She asked.
+
+“Not that I've seen.” Ren said. “You can heal the injury, but not the infection.” He sighed. “I also don't know if normal healing seals in the infection or makes it worse.”
+
+“You're not very helpful.” She said and finished wrapping the bandage.
+
+“I can help stop the bleeding wounds; but, I won't do more than that.” Ren said. “I don't want to ruin your chances to be cured.”
+
+“Then do what you can.” She said, haughtily. “What little it may be.”
+
+Ren nodded, then ran around and used a Minor Healing wand and bandages to wrap every wound he could see. He was done a couple of minutes later and came back to the female High Elf.
+
+“Everyone is tended to.” Ren said, and she chuckled.
+
+“There are several hundred of us to look after.” She said dismissively. “Come back in a few hours once everyone is taken care of.”
+
+“They already are.” Ren said. “I just came to ask if anyone went inside the city walls during the attack.”
+
+“Wh-what?”
+
+“If anyone was brought inside, they could spread the infection to everyone inside.” Ren said.
+
+“No, no.” She said and looked at him. “You said everyone is taken care of?”
+
+Ren motioned at the surrounding High Elves, and she saw them all looking at and touching their fresh bandages.
+
+“H-how?”
+
+“I'm really fast.” Ren said. “Did anyone get inside?”
+
+She shook her head in disbelief, then looked at Ren. “They locked the city gates after the High Lord arrived with his troops, long before the attack.”
+
+Ren sighed. “He left you to fend for yourselves.”
+
+“We aren't members of the more prominent families.” She explained. “We always have to fend for ourselves.” She tried to smile, and the cut on her cheek split and she winced.
+
+“Allow me.” Ren said, and she knelt. He used the Minor Healing wand to stop the bleeding and closed the cut. He did the same to her scratches in an instant. “Are you hurt anywhere else?”
+
+She shook her head, and Ren stepped back.
+
+“Please, keep the ones hurt by the ghouls separated, yourself included. If anyone turns violent, or starts to morph into a ghoul, you should contain them or kill them.”
+
+“Really?”
+
+“If they are turned so quickly without getting sick, there's probably not much hope for them to be saved.” Ren said, sadly. “Keep an eye on everyone, and be careful.”
+
+The female High Elf had remained on her knees, and she tilted her head to look at him as if she was examining him. “You have affinity with the undead.” She said, and he nodded. “Why aren't you gathering the ghouls to your side and get them to do your bidding?”
+
+“Not only are they a force that shouldn't exist, I can't control them all.” Ren admitted. “I'd tell them to stop attacking if I could.”
+
+“I... see.” She said. “If you could control them all, you would.”
+
+“Yes, but not in the way you think.” Ren said and smiled. “The whole world domination thing isn't my style.”
+
+“It could be.” She said and tilted her head the other way. “You have the tools at your disposal.”
+
+“I...” Ren automatically tried to deny it, then thought about the skills and spells he had. With the recipes he had access to, it was possible he could dominate the world if he legitimately tried to do it. “Yes, actually.” He smiled. “If I wanted to, I probably could.”
+
+“There's no probably about it.” She said, and then smiled. “Thank you for not doing it.”
+
+“You're welcome.” Ren said. “Just so you know, I wouldn't have any fun if I did that.”
+
+“How so?”
+
+“What would be left for me to do if I did that?” Ren asked. “What would be left for other Adventurers, except to try and take me down?” He shook his head. “No, that's not me at all.”
+
+“Here are more blankets.” A female voice said as a stack of thick blankets wobbled towards them. When the blankets were put down, Ren saw that it was Allynna.
+
+“M'lady.” Ren said immediately and gave her a regal bow.
+
+“M'lord Ren.” Allynna said with a huge smile. “The High Lord has dreaded your return.”
+
+“I should ask why, but I'm pretty sure it's because I made such short work of yet another ghoul horde.” Ren chuckled. “The fact that I'm an elfling just makes it that much worse for him.”
+
+“It does.” Allynna said and came close. “My mother sends her regards, and a warning.”
+
+Ren sighed. “The High Elves don't want the Ghoul Kissed back.”
+
+“How did you know?”
+
+“The humans had the same thought, only they wanted the rescued victims killed instead.”
+
+“That is the proper way.” Allynna said. “It doesn't matter that they aren't ghouls, only that they were compromised.”
+
+“They're not pure anymore.” Ren said and sighed, then looked at the female High Elf. He saw her sour expression, and there wasn't anything he could tell her that would make things better. If she didn't leave the home she had built for herself, she might be exterminated like vermin.
+
+“Will the High Lord really unleash his troops on us?” The female High Elf asked.
+
+“Not officially.” Allynna said. “He'll wait for some of you to turn, then let the soldiers do what they will to stop the infection from getting into the city.”
+
+The female High Elf sighed and looked around at the others.
+
+“There's a good chance some of them won't be infected.” Ren said.
+
+“That won't matter.” The female High Elf said. “The opportunity to clear us all out and remove our town is too tempting a possibility for him to pass up.”
+
+“She's right.” Allynna said. “He hates these shanty towns almost as much as the ghouls.”
+
+Ren shook his head. “That's just stupid.” He said. “It's these 'shanty' towns that bring more business and opportunities to the city.”
+
+“What makes you say that?” Allynna asked.
+
+“They need food, clothing, shelter, goods of all kinds, and work to keep themselves busy.” Ren said. “The more people you have needing that, the more you'll get.”
+
+“But...” Allynna started to say.
+
+“He's right.” The female High Elf said. “It was only a few of us at first; but after only a month, we had doubled in size.” She smiled. “Once people saw what we did and how we prospered, in just under a year, we had surrounded the entire city.”
+
+“Do your people prefer individual houses, apartments, or towers?” Ren asked.
+
+“It's a personal choice.” The female High Elf said. “I prefer living in a comfortable house.” She pointed to a male High Elf that she had bandaged his head. “Carcan would give his left arm to live in a spire.”
+
+“Which is never going to happen.” Carcan said. “None of us will be living too much longer, according to her.” He motioned to Allynna.
+
+“I only have a 50 mile by 50 mile county.” Ren said. “There's a no grow zone in the middle; but, I'm building a city there already.” He said. “The rest of the land is being used for farming and animals.”
+
+“We wouldn't need much space.” The female High Elf said.
+
+“With the High Elves I have healing, and waiting to be healed, I have about 4,000 of you.” Ren said. “Not counting the 365 of you.”
+
+“Oh.” The female High Elf said. “That is a problem.”
+
+Everyone fell silent as Ren thought about what he could do with them all, and then Teepo gave him an idea.
+
+“Ren, you've got that 240 foot high iron wall at the back of the county.” Teepo said. “That's a few miles of cliff face next to the other county.”
+
+“With almost everyone out of the village now, I could make that whole section into a High Elf sanctuary.” Ren said. “With 240 feet to play with going straight up, and several miles across, it might be enough to make housing for everyone.”
+
+“You expect us to live in a human village?” One of the other High Elves asked. “That's crazy!”
+
+“It would be, if I expected you to live inside the huts.” Ren said. “No, you'll be living above the village, on the actual cliff face.” He said. “That's appropriate, isn't it? Since you believe you're above everyone else?”
+
+The High Elf didn't respond, since he knew Ren was being derogatory in his observation.
+
+“What will we do for food?” The female High Elf asked. “We can't grow enough for ourselves in an... apartment.” She said, a little disgustedly. Ren reached out and touched her shoulder, and she looked at him with wide eyes.
+
+“Don't worry.” Ren said. “If what I think I can do is possible, you'll have a good choice for how you want to live, and most of the land is for farming for the people that live there.”
+
+“But...”
+
+“You don't want to move away from everyone.” Ren said, and she nodded slightly. He turned to Allynna. “Can I ask you for a favor?”
+
+“M'lord.” Allynna said and dipped her head. “You raised my mother up to her rightful Honor position in a single night.” She said and smiled. “That was something my father couldn't do in 50 years.”
+
+“Wh-what did you say?” The female High Elf asked.
+
+“M'lady Yllana Arthion has had her Honor raised to it's furthest reaches.” Allynna said. “Even the Central Council had to acknowledge her new position.”
+
+“Great Vasalor.” The female High Elf whispered.
+
+“What favor would you ask of me, M'lord?” Allynna asked Ren.
+
+“Can you contact your mother and see if she can petition the High Elves for a parcel of land for... 20,000 High Elves to live on.”
+
+“WHAT?” Allynna yelled.
+
+“Well, it's not just the infected. It's their families, assuming they want to come with them; and then any pack animals they have, farm equipment and animals, and their belongings.”
+
+“But...”
+
+“Now you see my problem.” Ren said and smiled. “50 square miles would be enough, if it wasn't already occupied.”
+
+“M-M-M'lord.” Allynna said. “The petition would be denied immediately.”
+
+Ren sighed. “The High Lord has final say, doesn't he?”
+
+“Yes.”
+
+“Then we can build something in the no man's land between the kingdoms.” Ren said. “I did something similar for the giants and the dwarves.”
+
+“Nothing can grow there.” The female High Elf said. “That's why it's a no man's land.”
+
+“Well...” Ren smiled. “...I have a bit of an upper hand when it comes to things like that.”
+
+“What? How?” Allynna asked. “Even the best agriculturists couldn't get anything to grow there!”
+
+“Let me worry about that.” Ren said. “The one thing I will insist on, is that no elflings are to be treated as a lower class.” He said and looked at the High Elves around him. They all averted their eyes, and he smiled. “I also won't restrict who can live inside the city.”
+
+The female High Elf took in a sharp breath.
+
+“That's right.” Ren said. “Instead of wanting to be a part of an influential family and have the same benefits, you can be the influential family and give those benefits to who you want.”
+
+“It will never be approved.” The female High Elf said.
+
+“It's a no man's land between two kingdoms.” Ren said and smiled. “Who's approval do I need?”
+
+The female High Elf opened her mouth to say the Central Council, then closed it. Her automatic response wasn't valid in this case. Neither she, nor the other High Elves, were under the Central Council's authority anymore, especially if they were going to kill them all.
+
+Ren turned to Allynna. “Can you contact your mother, and ask her to arrange for me to go into the Library, or maybe the central records in her city?”
+
+“I can, but for what purpose?” Allynna asked.
+
+“I need building plans.” Ren said. “None of the designs I have are even close to High Elf architecture.”
+
+“But...”
+
+“I can fake it, since I've seen a few buildings so far.” Ren said. “But then it would just be a facade, and I know they won't be happy living inside fake High Elven buildings.”
+
+Allynna did the same chant and gestures her mother had done and clapped her hands, and a bird materialized in front of her. She asked it to go to her mother and make the arrangements, and the bird took off immediately and disappeared from sight.
+
+“It can fly almost as fast as Princess can run.” Ren said absently, and the High Elves around him blinked their eyes at him.
+
+“Princess?” Allynna asked.
+
+“My mount.” Ren said and motioned to the giant Ram everyone was trying to politely ignore. “She's so fast that even I can't catch her.”
+
+Princess brayed her amusement, and Teepo chittered in laughter.
+
+“You've got another hour before you have to go to the capital city and check on the healers.” Teepo said.
+
+Ren took out the All-Seeing Mirror and asked it to show Yllana Arthion, and her image appeared in the mirror's surface. She was half-reclined on her couch in a relaxing pose, with an old book in her hands. She wore a thin white chiffon dress that clung to her in the right places, and when she turned the page, the light caught her just right and highlighted her svelte form. The bird flew in through her open window and she held her hand out for it.
+
+Yllana jumped up and the book flew out of her hand and tumbled onto the floor. Ren chuckled at her near comical reaction to what the bird told her about him wanting to come and visit, then the bird dissolved. Yllana did the same motions to cast the same spell, and it left her. She did it again and that bird flew away, then she looked down at herself. She lifted the loose dress off her shoulders and let it go, and it dropped to the floor to leave her completely nude.
+
+Ren quickly asked the mirror to go back to normal and put it away. His face was a little red, because he hadn't intended to peep on her changing clothes, just to see her receiving the message. Allynna saw his reaction and smiled, and then a little bird flew over to them and she held her hand out.
+
+“Chirp chirp. Chirp. Chirp chirp, chirp chirp chirp. Chirp, chirp chirp chirp chirp.” The bird said.
+
+“Thank you.” Allynna said, and the bird disappeared.
+
+“Okay, I didn't expect that.” Ren said.
+
+“Did you think it would talk in our language?” Allynna laughed. “That's just ridiculous.”
+
+“Is it?” Ren waved Princess over. She trotted around everyone and stopped beside him, and he climbed up into her saddle. “What was the message?”
+
+“She'll be ready to receive you at her apartment in a few minutes.” Allynna said. “She'll take you to the best architect available.”
+
+“Thank you, M'lady.” Ren said. “Princess, I'd like you to meet the unnamed elfling princess.”
+
+“It's nice to meet another princess.” Princess said. “That makes two of you I know.”
+
+Allynna and the High Elves all gasped as she spoke without speaking, and Ren felt their shock. Once again, he didn't try to use his Emotion Siphon ability.
+
+“I should introduce you to Princess Diana, too.” Ren said. “Then you'll have met 3 princesses from 3 different kingdoms.”
+
+“I would like that.” Princess said.
+
+Ren looked at the female High Elf. “Remember, no one can go into the city, and if they start to turn and get violent, deal with them.”
+
+“I... it will be done.”
+
+Ren nodded, and looked at Allynna. “Thank you for your help, and I'll probably see you again at the next city.”
+
+“Y-yes, M'lord.” Allynna said without looking at him, and kept her eyes on his mount, Princess. “I look forward to it.”
+
+“As do I.” Ren said and gave her a regal bow from the saddle, and the Honor gain caught her attention and she looked at him. “Good day, M'lady.”
+
+“Good day.” Allynna said, and Ren rode Princess up into the air a little, then disappeared from their sight.

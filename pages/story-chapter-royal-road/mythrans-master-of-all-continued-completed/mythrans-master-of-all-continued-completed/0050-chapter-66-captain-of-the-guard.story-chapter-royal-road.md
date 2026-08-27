@@ -1,0 +1,397 @@
+---
+id: cf37c968-70d6-55e8-836b-bb1805165387
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66 - Captain of the Guard"
+slug: 0050-chapter-66-captain-of-the-guard
+partOf: mythrans-master-of-all-continued-completed
+position: 50
+ownLength: 4046
+unit: words
+publishedAt: 2016-10-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100255/chapter-66-captain-of-the-guard"
+royalRoadId: "100255"
+---
+
+********
+
+Ren 'woke up' to the best thing in the world.
+
+“Lucy?!?” Ren said when he took off his VR headset. “Am I dreaming?”
+
+Lucy laughed. Lucy was wearing another pair of jeans and a blue t-shirt that had some writing on it. Ren blinked a few times and read it.
+
+RN: Rescue Ninja!
+
+Ren chuckled and looked around. Ren didn't see anyone else in the room, and the door was shut. Ren sat up and tugged on the t-shirt. “This is true.” Ren said. “You definitely snuck into my heart.”
+
+Lucy's face flushed a little red and she took Ren's hand. Lucy leaned in and gave Ren a kiss. Ren kissed back and they stood there for a minute, just touching lips. Ren didn't try to do any elaborate kissing because he hadn't brushed his teeth yet and didn't want to turn Lucy off with his morning breath. Ren broke the kiss and looked at Lucy.
+
+“I'm really happy to see you. It's felt like ages...” Ren said. “But... why are you here?”
+
+Lucy raised her eyebrows. “I can't just come and see you whenever I want?”
+
+Ren grinned. “Of course you can. Lucy, you could stay here with me forever and I'd be the happiest guy on the planet.” Ren said. “But... we've known each other a long time. I can see that you're tense.”
+
+Lucy sighed and Ren moved over on the bed. Lucy sat down and hunched in on herself.
+
+“They're sending me to the clinic tomorrow.” Lucy said.
+
+Ren put his arm around Lucy's shoulders and Lucy leaned in to cuddle.
+
+“Why would they do that?” Ren asked.
+
+“I've been doing too good of a job with the lab work.”
+
+Ren raised an eyebrow and stared at her.
+
+Lucy chuckled. “It's been backlogged for months, and since they were making me work double shifts anyway and I didn't want to be bored out of my mind, I worked... and kept working.” Lucy said. “File after file, sample after sample. I did it all.”
+
+Lucy half-laughed and half-sobbed. “The HR department said they've received a bunch of complaints that I was making the other people that work there look bad.”
+
+Ren scowled and turned away from Lucy. “Those bastards.”
+
+Lucy looked at Ren in shock.
+
+“You go to all the trouble to do a job well and they're the ones that are in the wrong... but they'll get rid of you because that's easier than changing the situation or working harder themselves.” Ren shook his head. “I can't believe they'd go behind your back like that without talking to you first.”
+
+“I know.” Lucy nodded. “I mean, I know I was new in the department, but they never said anything to me at all. I just got the notice last night before I left work.”
+
+“...and it said that they're sending you to the clinic tomorrow.” Ren said.
+
+Lucy nodded again. “I don't want to go there, Ren.” Lucy said and tears formed in the corners of her eyes. “The kind of people that go in there...” A tear leaked out and rolled down Lucy's face. “..and I thought the guys at the mall that hit on me were bad, but down there...”
+
+Ren rubbed Lucy's back to comfort her. “I received some really good advice recently, and I'm going to give it to you.” Ren wiped Lucy's tear away.
+
+“What is it?” Lucy asked.
+
+“You can always say no.”
+
+Lucy's eyes widened. “What? But Ren... if I say no...”
+
+Ren nodded. “Then what, you mean?” Lucy nodded.
+
+“You won't know what will happen until you say no.” Ren said and wiped a tear from the other side of her face.
+
+“They could fire me if I refuse.”
+
+“Are you sure?” Ren asked. “I'd say the other nurses here would object to that.”
+
+“What do you mean?”
+
+“If... say... it somehow got out that you were being forced to work in a dangerous environment... and where you could be assaulted... again...” Ren said and Lucy's eyes widened.
+
+“Who... who are you?” Lucy asked, jokingly. “Where's my sweet little Ren?” Lucy said and smiled.
+
+Ren chuckled. “Oh, he's here... and he's pissed.” Ren said and slid off the bed. “I won't let them take you away.” Ren said and went to the bathroom to clean up. Ren came back into the room and changed right there in front of Lucy, and didn't notice her watching him the whole time. Ren's new watch beeped and he sat in the wheelchair. “Since you're here... why not take me down the hall to therapy?”
+
+Lucy nodded and slid off the bed.
+
+“It's time to start Operation: Save Lucy.” Ren said. “No ear will be left unbent.” Ren smiled. “When a good friend is in trouble, I'll do everything I can to help them.”
+
+Lucy walked over to the wheelchair. “Thank you, Ren.” Lucy leaned over and gave Ren a passionate kiss. Lucy broke the kiss a moment later and knelt down. “I'm sorry! I got lipstick on you again.” Lucy said and grabbed a handi-wipe.
+
+Ren chuckled. “Please, don't be sorry. A little mess is totally worth it.”
+
+Lucy cleaned Ren's face of lipstick smears and placed a light kiss on his lips.
+
+“Oh, yeah... totally worth it.” Ren said and grinned. “I meant to ask... who's on day shift today?”
+
+As soon as Ren asked the question, the door opened and Stella walked in. Stella looked a little disappointed for some reason.
+
+“Definitely no unbent ears today.” Ren said and laughed at Stella's perplexed expression. “We have a lot to talk about.” Ren said to them.
+
+Lucy said goodbye when Ren went into physical therapy and Ren and Stella began the plan in earnest. By the end of the day, the whole hospital knew the story and everyone was gabbing about how Lucy was being railroaded by the lab workers and the HR department. Barbara came in for her shift and she got the full brunt of the story before Ren even got to talk to her.
+
+“Those lab people have always been obstinate.” Barbara said and sighed. “No one wanted to work in there with them because they're a close knit bunch and they don't like outsiders, and usually attack anyone that intrudes in their space.”
+
+That sounds like the same description Donan gave me for the dwarves. Ren thought.
+
+“I'll talk to Helen in HR. If she doesn't know this has been going on yet, I'll fill her in.” Barbara took Ren's hand and clasped it firmly. “You're a good friend to stick up for Lucy like this.”
+
+Ren squeezed Barbara's hand back. “You're a good friend, too.” Ren said. “We all help each other when we can. That's what friends do.”
+
+Barbara nodded and Ren leaned back into bed. It had been a long day and he'd missed 4 whole game days again.
+
+“There's things I need to do in the game, Barbara.” Ren said and put on the VR headset.
+
+“Have fun, dear.” Barbara said.
+
+Ren nodded.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the game and saw Lucy's still form sitting there. I've done what I can. I can only hope that it helps.
+
+Ren stood and stretched.
+
+“Hi, Ren. Are you pretending to talk to Lucy again?” Teepo asked from the roof of the next building.
+
+Ren nodded. Hi, Teepo. Anything happen while I was gone?
+
+“No... and Donan's mad about it, too.”
+
+Ren widened his eyes. What? Why?
+
+“The order is still sitting in the middle of the shop. It hasn't been picked up yet.” Teepo explained.
+
+Yeah, that would do it.  Ren thought and reached out automatically to catch Teepo when he jumped from the roof. Ren put Teepo on his shoulder and went inside the shop. The forges were cold and there was no sound of a ringing anvil. Ren was so used to hearing metal being struck with a smithing hammer while in the shop, he felt a little unnerved. It wasn't natural. Ren walked around and went into the back room. Donan sat on an unopened barrel of oil.
+
+“Hey, Donan.”
+
+Donan grunted.
+
+“I see all the crates are still here.” Ren said and sat down on the floor.
+
+Donan grunted again. “They should have picked it up 3 days ago.”
+
+“Who is the order for?” Ren asked.
+
+“The city guard.”
+
+Ren raised an eyebrow. “Want me to go and ask them why they're late?”
+
+Donan raised his eyebrows. “They'd throw you in jail if you question them.”
+
+Ren smiled. “I know the captain of the guard. He even saved my life once.”
+
+Donan smiled, too. “Alright, Ren. Go and see what's up.” Donan said. “You better not get locked up in chains.”
+
+Ren stood up.
+
+Donan hesitated for a moment and then nodded his head. “Come with me.”
+
+Ren followed Donan further into the back room and Donan pulled out a small wooden box. “I've made every chain and lock in this city.” Donan said and preened a little. “Needless to say, everyone loses their keys at some point.”
+
+Ren nodded. He'd heard that happens in real life as well.
+
+“So I made these.” Donan said and opened the wooden box. Inside were tiny little tools. Files, hooks, some with twists and some bent in an 'L' shape, some in an 'F' shape, and a few 'S' shapes. There was even a 'U' shape, and various pieces of wire. All had variants in different thicknesses. Ren had an idea of what they were used for. Donan saw the recognition on Ren's face and nodded.
+
+“Yes. Lockpicking tools. You won't find a finer set anywhere.” Donan said and handed the chest to Ren.
+
+Ren stared at Donan. “But... if this is the finest set... why are you giving them to me?”
+
+“I've had them for a while, and if anyone would need such a thing, it would be you.” Donan said and shook his head. “I've never seen anyone find as much trouble as you do, Ren.”
+
+Ren nodded. He had definitely found more than his fair share.
+
+“Plus, I want you to have these when you go with the dwarves. Just in case they put you somwhere that you need to get out of.” Donan stared at Ren and Ren nodded again. “Good!” Donan clapped Ren on the shoulder and led Ren out of the back room and shut the door. “You might want to bring something with you to the guard post, to explain why you're there.”
+
+“That's a great idea!” Ren said and smiled. “I know just the thing.” Ren said and stored the wooden box into inventory.
+
+Ren started his forge and let it heat up for a moment. Ren took several of his normal iron ingots and put them in the smelter. They melted pretty fast and Ren stirred the molten iron quickly, fluffing it up with air. Ren skimmed off some of the impurities that came to the top and let it bubble for several minutes. Ren didn't have the time to wait for hours to have the mixture be a better quality, but Ren was forging it anyways and it would have to do.
+
+Ren got the big blank square mold and poured the molten mixture into it, leaving a little extra on the end to grasp properly. The little end cooled fast and Ren grabbed it with his tongs and took the half molten blank and folded it in half. Ren heated it up again and once it was hot enough, folded it again and again. Ren repeated this several times until he thought it was thick enough to hammer out the shape he wanted. Ren had made the pattern in his head while folding the metal and the shape was a sight o behold when it was done. Ren sharpened and polished it to a gleaming shine and used a strip of his spider silk cloth to wrap around the handle like he did with the pickaxe and his own hammerpick.
+
+Ren finished working and lifted the huge battleaxe up. It was double-bladed, one on each side of the handle, a big spike sticking out of the top, had a round center piece and a small spiked mace head on the end of the handle. With the system's help, Ren had scaled the pattern he made to accomodate the extra iron he'd used for the extra additions and let the system handle the shaping. The captain of the guard was a big man and would need a big weapon.
+
+Ren smiled and took out his Book of Runes. What to add... what to add... ah, got it. Ren thought then placed a hand on the center piece of the battleaxe and cast a quadruple protection rune. The glyph etched itself into the metal and Ren used some of his bat leather pieces to make a sheath for it.
+
+“Donan, I'm off to the mansion. I'll be back as soon as I can.” Ren said, equipped his Dire Wolf Hooded Cloak, and left the shop without looking around. Donan had been standing right there the whole time and had watched Ren work. Donan had never seen such a thing being made before.
+
+Where is he coming up with all these ideas?  Donan thought. That kid is amazing!
+
+Ren hung the sheath over his shoulder and walked down the street, around the corner, and down that street. While Ren walked he figured he better check his status while he had the chance.
+
+“Show Status.”
+
+Status
+
+Name  Ren  Level  4
+
+Gender  Male  Class  Artificer
+
+Race  Elfling  Fame/Infamy  1260 (Locally Known)
+
+Titles
+
+Donan's Apprentice - 20% stat gain at his shop
+
+Sally's Student - 20% stat gain at her shop
+
+Issac's Novice - 20% stat gain at his shop
+
+Lemming - 5% resistance to falls
+
+Son of the Pelt - 20% stat gain using craft station
+
+Honorary Dwarf - Grants Dwarf Race abilities
+
+Health  583  Mana  571
+
+Strength  92  Dexterity  60
+
+Vitality  50  Agility  58
+
+Endurance  70  Intelligence  64
+
+Luck  24  Wisdom  63
+
+Whew! Some high numbers there now.  Ren thought and walked until he came to the mansion and stopped at the guard house behind it. The 2 soldiers standing there came to attention an Ren did as well.
+
+“Request permission to see the captain of the guard.” Ren said in an even tone.
+
+One quard looked to the other and shrugged. “He's in the back.” One said and pointed behind himself with a thumb over his shoulder.
+
+“Thank you.” Ren said and saluted. “Carry on.” Ren said and marched between them. Ren heard them whipser as he passed through the open door to go inside.
+
+“Is that kid for real?” One said.
+
+“Darn right he is. That's Ren, the hero.” The other said.
+
+No one was in the entryway and Ren activated Sneak. Ren stepped to the inside of the doorway and out of sight of the 2 soldiers.
+
+“What? You're kidding! That little guy? I heard Ren was supposed to be 6 feet tall and full of muscles.”
+
+Ren heard a clang.
+
+“Hey, watch it with that thing.”
+
+“Quiet you. Don't say anything bad about Ren around me... or any of the guys that were on that mission.” The other said. “He finished that quest by himself, man! Killed hundreds of Mole Men to boot! He was supposed to just be the blacksmith and not fight at all. If there's anyone you don't want to mess with, it's him.”
+
+“Yeah, whatever.”
+
+Clang.
+
+“Hey, I said watch it!”
+
+“Did you see what he was wearing?”
+
+“Yeah, so?”
+
+“Where do you think he got it?”
+
+“Off some merchant.”
+
+Ren heard a bark of laughter.
+
+“Have you ever heard of any merchant... anywhere... that sells dire wolf pelts?”
+
+Ren walked on when there was no response. Ren felt all warm inside. Having someone defend him like that always made him feel better about everything. It helped Ren believe that he was making a real difference. Ren walked through the empty barracks and to the small office in the back.
+
+Why is everything always in the back of buildings? Ren thought. Maybe it was the default setting.
+
+Ren knocked on the door and a gruff voice answered.
+
+“Enter.”
+
+Ren opened the door and the captain of the guard sat behind a tiny desk. Ren didn't know how the captain had managed to get his legs wedged under the thing.
+
+“Ren!” The captain said and tried to stand up. The desk lifted and nearly tipped over onto the floor. The captain caught it before it fell and Ren picked up the pieces of parchment that had fallen off.
+
+“I think you need a bigger desk.” Ren said and handed the pieces of parchment over without looking at them.
+
+“Ha ha! Yes, I do... but where would I put it? I barely fit in this office myself.” The captain said and Ren smiled.
+
+“What are you doing here?” The captain asked. “I see you've done some adventuring already.” The captain said and waved at the cloak.
+
+Ren nodded. “Yeah... I've had some adventures that I could probably have done without.” Ren said and grinned.
+
+“Ha!” The captain said and slapped the desk. A crack appeared in the surface and the captain covered it with a hand.
+
+“I came about the shield order.” Ren said.
+
+The captain nodded. “Ah, I figured as much.” The captain said. “As you can see, there's not a lot of manpower here to pick them up.”
+
+“I noticed that the barracks were empty. Where is everyone?”
+
+“Some are out on patrol, but the main bulk of our forces is on loan to King Alamast.”
+
+Ren raised both eyebrows. “The King?”
+
+The captain nodded. “He's playing war games in an area a week away from here and wanted experienced dungeon explorers to test his own men against.”
+
+Ren frowned. “When did this happen?”
+
+The captain sighed. “About 2 days after we placed the order.”
+
+Ren squinted is eyes. “And you didn't contact the shop because...”
+
+“I'd hoped they'd be done by then and the men could take the shields with them.”
+
+Ren shook his head. “If we'd cast them, maybe... maybe we'd have had them done... but you said you wanted them forged instead. We barely made the deadline!” It was Ren's turn to sigh. “Then you didn't show up to get them on time.”
+
+The captain nodded. “I'm sorry about that. There's no excuse really. No manpower isn't a good reason to not complete a contract.”
+
+“So you have the fee, then?” Ren asked.
+
+“Of course.” The captain said and took out a bag of 100 platinum coins. “It's right here.”
+
+Ren nodded. “Good. Do you want them delivered?” Ren said.
+
+“You'd do that?” The captain asked.
+
+Ren nodded. “I don't mind carrying them down here.”
+
+The captain stood and moved the desk out of the way before it tipped over. The captain handed over the money bag to Ren.
+
+“I'd really appreciate it, Ren.” The captain said. “The men need a good morale boost. New shields will definitely help with that.”
+
+“What do they need a morale boost for?”
+
+“We had to hire a bunch of new people from the surrounding lands. Once word got out about how well we did in the dungeon, every city in the country was calling for soldiers to come and train their own men.” The captain shook his head. “We couldn't match the outrageous offers some of them made. The men left in droves.”
+
+Ren nodded. “Yeah... some wouldn't mind the pay raise... but I wonder what they are thinking now that they've been away from home for so long.” Ren said. “I'll bring the crates down right away.”
+
+Ren turned to go and stopped. “There was another reason I came here, instead of sending a messenger.” Ren unslung the sheath from his shoulder and held it out. “I never did properly thank you for saving me during the expedition.”
+
+“What is it?” The captain said.
+
+“Oh, it's just something that I came up with to thank you.” Ren said. “You're a big guy, and I thought you would like a big present.” Ren smiled.
+
+The captain took the sheath and then pulled out the battle axe. The captain stared at the shining metal and it's bright silver color. “Ren... I... I can't take this.”
+
+“That better not be true.” Ren said and chuckled. “I don't know anyone else that's even close to your size that could lift the thing, let alone be able to use it.” Ren turned around. “It's yours, so you can keep it or not.” Ren said and walked out of the office. “I'll be back with the crates.”
+
+Ren walked out of the barracks and the guards didn't say anything. “I'll be back in a few minutes.” Ren said as he passed them.
+
+Ren went back to Donan's shop and hoped that what he was going to do would work. If it didn't, then he'd have to open every crate and take out all the shields to put them into inventory individually. Ren walked over to the first crate and mentally crossed his fingers. Ren selected the crate, just like he had selected the logs on Aimus' homestead, and then picked 'store into inventory'. The crate disappeared. Ren smiled and selected each of the 9 remaining crates and they went into inventory.
+
+Ren waved to Donan and left the shop. Ren went back to the guard house and nodded to the guards. Ren walked through the barracks and into the captain's office.
+
+“Where do you want the crates stored?” Ren asked.
+
+The captain told Ren to follow him. They went out the back of the building to the next one and into the armory. No one was guarding it, however. The captain opened it and told Ren to put the crates inside. Ren took each crate out of inventory and when Ren was done, the captain walked over to one. Ren took out his blacksmith's belt and used a tool to open the crate. Inside was 50 dull silver shields that looked just like the battleaxe the captain had strapped to his back. The captain grinned and Ren closed the crate again.
+
+“Considering what I think these shields will do for us, we got a great deal... so in return, I'll make sure that each and every man is told who made these shields.” The captain said.
+
+Notice!
+
+The new recruits from the surrounding lands will be informed of who you are, and your exploits.
+
+Fame: +50
+
+Ren smiled. “It's always a pleasure doing business with you.” Ren said.
+
+The captain led Ren outside and locked up the armory. “Ren... this weapon... I'm not even going to ask how you made it... it's... well, I don't know what to do about it.”
+
+Ren laughed. “I feel like that sometimes, too.”
+
+The captain nodded. “Thank you, Ren. You didn't have to do this.” The captain said and shrugged his shoulders to indicate the battleaxe that hung there.
+
+“I know I didn't have to do it... but you did save my life. I wanted to give you something to remember me by.” Ren said.
+
+“I'll never forget the hero of Aurora.” The captain said and lightly tapped Ren on the shoulder. “Be safe and take care, Ren.”
+
+“I will. Say 'hi' to your wife for me.”
+
+The captain smiled and nodded. Ren left the guard house and waved to the soldiers as he passed them. “Good day, gentlemen.”
+
+Ren walked back up the street and delivered the money to Donan.
+
+“Ren! How did you... that is... you really did know the captain of the guard!” Donan said and laughed.
+
+“I said I did, didn't I?” Ren said and laughed, too.
+
+“What's so funny?” A voice Ren recognized said from behind him.
+
+“Lucy!” Ren turned around and gathered Lucy into a hug. “I missed you.”
+
+Lucy laughed and hugged Ren back. “You just saw me this morning!”
+
+“Yeah, but that was this morning.” Ren said and grinned. “This is now.”
+
+Ren let Lucy go and turned to Donan. “Donan, I'm heading out for awhile. Keep an eye on the shop for me.” Donan swatted at Ren, and Ren laughed.
+
+“Get outta here, you rascal.” Donan said and smiled.

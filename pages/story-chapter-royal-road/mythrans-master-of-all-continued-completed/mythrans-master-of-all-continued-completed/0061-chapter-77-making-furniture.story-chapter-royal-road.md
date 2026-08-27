@@ -1,0 +1,239 @@
+---
+id: d2d3bda5-0f10-5ed4-b781-02aaeeaf3963
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77 - Making Furniture"
+slug: 0061-chapter-77-making-furniture
+partOf: mythrans-master-of-all-continued-completed
+position: 61
+ownLength: 3054
+unit: words
+publishedAt: 2016-11-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102018/chapter-77-making-furniture"
+royalRoadId: "102018"
+---
+
+Ren worked hard for the next hour, making all the parts for the bow bracers. With the system's help, he took out one of the springy trees he'd harvested that day in the grove, cut off two 1 foot long pieces, and trimmed them down to just the cores that he needed to make the bow parts. It was easy to do because he had a Level 3 in the skills required, but felt a little bad that he needed the system's help just to do the basic work.
+
+Ren ignored his ineptitude for now and concentrated on assembling the bracers. As he put each piece together, Ren enchanted them with what he thought it would need. Strength on the pull lever, Smoothness on the loading mechanism, Durability on the main bracer, and Accuracy on the bow. He'd had just enough metal smelted to make both bracers and 1 cartridge each. There was still some left in the smelter, so Ren used the rest to make tips for bolts that he could make from the scraps of the springy tree pieces he'd cut off from the cores.
+
+There was enough metal left for 3 dozen tips and Ren made enough bolts for them to be attached to. He filled the cartridges and loaded them in the bracers and a bolt automatically slid into place to be fired. Ren couldn't equip them to try them out, because then the system would resize the bracers to fit him. He did step out of the way and pull one of the hand triggers, though.
+
+*THWAP!*
+
+The bolt shot across the 40 foot room and buried itself into the wall after he'd barely touched the trigger and another bolt slid into place.
+
+“Whooaaa!” Ren walked across the room and looked at the bolt. Most of it was buried in the wall and Ren went outside to find the end of the bolt sticking out a couple of inches. He went back inside and hammered the bolt out through the hole, went out and got it, then went back inside.
+
+And now I have a hole in my wall. Ren thought and chuckled. I just had this place fixed up!
+
+Teepo chittered in laughter and Ren plugged the hole in the wall after making a plain wooden bolt and shoving it in the hole, then chiseling off the excess.
+
+Ren switched out the smelting apparatus on the forge for the new one he'd made. He could smelt even more metal if he needed to, and Ren wanted to make more cartridges for the bow bracers. He threw in more normal iron bricks and let them stew.
+
+Ren clapped his hands together and took out his box of saws and tools. Now, lets make up some furniture. He grabbed the plans and studied them, to make sure he knew what to do, and got to work. Over the next hour, Ren made a bed frame, a dresser, table, and 2 end tables... dying everything a dark brown. He had to stop there, because he had forgotten to go over to Sally's place to buy supplies.
+
+Ren walked down the alley and around to the front of Sally's shop. He went inside and asked for whatever it was she used for stuffing cushions and things. She sold him cotton batting, and Ren bought several bolts of cloth from her, as well as more thread. Just for the heck of it, he asked her to show him how to make cushions and blankets. Sally laughed and showed him how to make cushions and blankets... and then throw rugs and curtains before he could ask her.
+
+Ren thanked Sally profusely and went back to his building to keep working. Ren wasn't sure what color to make everything, so he went with white for the base color of the fabric. Using his plans for the comfy chair, he made one of them, stuffing the cotton batting under the fabric before sewing it together. When it was done, Ren received a popup.
+
+Notice!
+
+You have unlocked a skill: Upholstery Level 1 (Beginner 0%)
+
+This sub skill under Woodworking will allow you to make fabric covered furniture and add stuffing where appropriate to make them more comfortable.
+
+Higher levels will allow higher quality goods to be made, and increase the value of items redone in this fashion.
+
+Ren smiled and made another comfy chair, then opened the couch pattern and made that as well. Ren spent half the night sewing everything, including a mattress to fit the bed he'd made. Remembering that he needed to log off for supper, he quickly locked up and went to where Lucy's avatar sat. He was tempted to just log off in the building, since he would be coming right back in to keep working, but he didn't want to change his routine... at least, not yet.
+
+“Logout.”
+
+********
+
+Ren used the bathroom, had a quick meal, and made a half-hearted attempt to engage in conversation. Neither he nor Bonnie wanted to talk, and after a laugh and an apology, Ren logged back into the game.
+
+********
+
+Ren went back inside his building and saw that the metal had simmered long enough, and skimmed off some of the impurities. Using the plans for the quick shot bow bracer, he remembered making a set of small springs for the cartridges and with the help of the system, enlarged the spring to be about 6 inches high and 4 inches wide, then made 4 dozen of them. A box spring mattress was then made to put underneath the cotton batting mattress he'd sewn before logging out, and put them on the bed. Once that was done, he decided that pillows would be needed, red to contrast the white, and made several varieties. Long, short, thin, thick, and used up all the cotton batting that he had left.
+
+Ren made a throw rug to put in front of the couch and covers for the table, end tables, and center of the couch. He made curtains for the windows, too. Blankets were next, as they were the easiest to make and Ren had left them for last. He made them red as well, and put them on the bed. He stood back and saw all that he'd made and was quite happy with how they had turned out. After storing everything, Ren took it all upstairs and set out the couch with pillows, the 2 comfy chairs, and the throw rug where he thought they should be, remembering the apartment layouts he'd seen online. He went into the bedroom and put the bed, end tables, armoir, and dresser out... and then remembered what it was he'd forgotten to order. Ren opened his Order menu and picked a large mirror for 10 gold. It would arrive the day before the anvil. He hung the curtains over the windows and declared it done.
+
+Ren looked at the open space in the middle of the floor and walked over to it. He knelt down and opened the Business Menu. He placed a hand down on the floor and chose the personal spawn point option. A large magical circle appeared and burned itself into the wood... and a moment later, healed itself and disappeared. Ren smiled.
+
+“Set Spawn Point.”
+
+Notice!
+
+You have selected to change your spawn point from (Safe Zone: MANSION) to (Safe Zone: UNDEFINED).
+
+Spawn Point cannot be set at this time.
+
+Ren was surprised that it was undefined... and then slapped himself on the forehead. How could I have forgotten that? “Set Business name.”
+
+Notice!
+
+You have chosen to set your business name. Please type in the name now.
+
+A virtual keyboard appeared and Ren typed the name in.
+
+Business name set. Please state the name so the system will recognize it.
+
+“Master of All, Jack Of None.” Ren said and smiled.
+
+Do you wish to activate your storefront? Yes / No
+
+“No.”
+
+Notice!
+
+Your business has been registered as non-active. You may activate it at any time by entering the Business Menu and choosing that option.
+
+Ren smiled again. It should work this time. “Set Spawn Point.”
+
+Notice!
+
+You have selected to change your spawn point from Safe Zone: (MANSION) to Safe Zone: (MASTER OF ALL, JACK OF NONE).
+
+Confirm: Yes / No.
+
+“Yes.”
+
+Spawn point set!
+
+Whenever you die, you will appear in this spot after the respawn timer expires.
+
+Ren nodded and put the rest of the pillows from his inventory onto the bed and smiled. When he left the bedroom, he saw that there was nothing in the part he'd designated as the 'bathroom'. He'd have to try and find out where to get furnishings for that. The only place he had seen anything like that, had been in the mansion. Ren put the table he'd made in the kitchen and covered it with a red cloth. He couldn't make any cabinets until he found out what he needed to cook in the game.
+
+Satisfied that everything else looked fine and his spawn point was set, he picked up the cooling stones he'd set out that day for the workers, closed the bedroom door and then the apartment door. He went downstairs and surveyed his space. This is so great! Ren thought.
+
+“What is?” Teepo asked as he crawled inside through an open space under the rafters.
+
+My own space! I've never had a place to call my own before.
+
+“Me, either.” Teepo said.
+
+You haven't?
+
+“No. My father was quite protective of me, and after he died, my uncle made sure I would never go anywhere again.”
+
+Then we are just going to have to change that. Ren thought to his friend.
+
+“How?”
+
+By making you a space to have as your own, of course.
+
+Teepo didn't say anything else, but Ren could feel the surprise coming from him.
+
+Don't worry, Teepo. When I'm done, you're going to call this place home, too.
+
+“T-t-thank you, Ren.”
+
+You don't have to thank me! The least I can do is make you feel at home. If it wasn't for you, this place would still be covered in workers trying to find the parts to fix and replace.
+
+“I was just helping you...” Teepo said.
+
+Of course you were. That's what friends do. Now I'm going to help you back.
+
+Ren went to the edge of the paving stones at the back of the building. He pulled up 4 of the 1 foot square stones in the floor he'd made for the forge and anvil, then took out a pick and shovel.
+
+“I better make a box first, to carry the dirt.” Ren made a box from the scraps of wood that was left from making the furniture and got to work. He kept filling the box with dirt and taking it behind the building to dump it out. Ren dug down on an angle under his wooden floor for about 10 feet, until he hit rock. He used the pick to dig down a lot further and cleaned out a nice wide area, then dug a whole bunch of cubby holes and pathways. Ren would have to remember to go online and find some nice mazes to make for Teepo. He was always exploring, so finding his way through a maze should be fun for him.
+
+When Ren was done, there was a huge pile of dirt behind his building, but he knew there would be and had spread it out along the full length of the building. He wasn't sure what to do with it, except maybe borrow a cart and have it dumped outside the city or something. Ren poured out some metal and made a frame to set the 4 paving stones into. He cut a sliver off one of the paving stones, just enough for Teepo to slip through, and set the frame, then the stones back into place. Teepo had crawled all the way down from the ceiling by that time and Ren smiled at his friend.
+
+“It's not much right now... so I'll be adding things later that you might like... but at least there's a nice cool place for you to go when you want to.” Ren said.
+
+“Thanks, Ren.”
+
+“You're welcome.” Ren said and Teepo skittered through the hole he'd cut for him and disappeared into his new cave.
+
+“Now... I've got some more bow bracer cartridges to make. A dozen or so should be enough. I can't leave Clint hanging anymore!”
+
+Ren got to work and made a dozen more cartridges, 14 in total. He used the rest of the springy log that he'd made the bow pieces from, to make crossbow bolt bodies. Once he had several hundred made, he forged the tips and attached them. Ren poured out the remaining metal into the 2 molds he had and let them cool, then turned off the forge. He wasn't sure what kind of offensive punch Clint wanted, so he enchanted 14 of the bolts with Ice glyphs, dyed them blue and loaded a cartridge with them, then 14 with Lightning glyphs, made them black and loaded another cartridge, then Fire, dying them red, and Light (Holy) making them white. After doing almost 60 enchantments, Enchanting had only gone up 5%. Ren still had 15% more to go before he'd reach Level 7.
+
+“Well, nothing's worth doing unless it was hard.” Ren said.
+
+“That's a good outlook to have.” A woman's voice said from behind him. Ren smiled and then turned around.
+
+“Hi, Lucy.”
+
+“Hi, Ren.”
+
+“I'm glad you decided to move your avatar inside.” Ren said and approached her.
+
+“Ren, why are you covered dirt?”
+
+“Hm?” Ren looked down at himself. His clothes were filthy. “I was doing a little digging for Teepo.”
+
+Lucy chuckled. “That looks like a lot more than a little digging.”
+
+Ren grinned. “What can I say? I do get enthusiastic over things.” Ren equipped his old travelling clothes and then re-equipped his spider silk ones. Both he and the clothes were now clean. The system was great for things like that.
+
+“I've got the spawn point set up!” Ren said, enthusiastically.
+
+“Ren... about that...”
+
+Ren held up a hand. “All I'm offering right now is the spawn point. Like I told you before, no matter what you may decide to do in the future, you can always use it.”
+
+Lucy looked like she was going to say something, but then closed her mouth without speaking.
+
+“Come on, I'll show you where it is.” Ren said and took her hand without thinking.
+
+Lucy felt his grip and widened her eyes. This new VR headset definitely makes everything feel a lot more real.
+
+Ren led Lucy up the stairs and to the apartment. He opened the door and pulled Lucy inside. She let go of his hand and nearly shouted.
+
+“Ren!”
+
+“What?”
+
+“How... when...?” Lucy looked around the apartment and was stunned at how nice it looked. “Where did all this stuff come from?”
+
+Ren grinned. “I made it, of course. I didn't know if things like these could be bought in the game, so I built them.”
+
+“You... you built them?” Lucy asked and she sat down on the couch. It was plush and soft and she sank into the feel of it and sighed.
+
+“Yeah. I looked up how to make furniture online; then using that knowledge, I applied the techniques I've learned in the game to make them. What you're sitting on is just a large, stretched out chair with upholstery on it.” Ren said.
+
+“You made this...”
+
+Ren nodded. “The chairs are just as nice. I really like how they turned out.”
+
+“I... I do, too.” Lucy said with an expression on her face that Ren couldn't read.
+
+“The spawn point is in here.” Ren said and waved Lucy over to the bedroom door. She stood up and came over to where Ren was, and he watched Lucy's face as he opened the door. Shock and surprise passed over her face and Ren smiled. He had hoped she'd have this kind of reaction.
+
+“You... you... you really made all of this?” Lucy stammered.
+
+Ren eased her in with a hand on her waist and she shuffled into the bedroom. “I've got a mirror on order. It'll be in by the end of the game week, and I'll make a sitting table for it.”
+
+Lucy stumbled around the beautiful bedroom. She'd always wanted a room like this, but could never afford it. She sat down on the bed, a little stunned.
+
+“I know the wood is just plain. I haven't had the time to learn how to carve anything yet. Once I do, I'll be able to add some nice scroll work to the legs and the headboard.” Ren said and rubbed the wood.
+
+“Ren... this place...” Lucy tried to talk and Ren came over to sit beside her.
+
+“I know I probably should have set the spawn point in the living room, but I didn't want anyone but us to access it. This seemed like the best spot.”
+
+“That's not...” Lucy swallowed. “Ren. I could only dream of having furniture like this.” She said and took his hand. “And here you are, making an apartment with everything I've always wanted in it.”
+
+“Well, the bathroom is still empty right now, and the kitchen only has a table...” Ren tried to explain.
+
+Lucy shook her head. “Ren... you did all this for me, didn't you?”
+
+Ren nodded. “I've always wanted a place of my own; but since I didn't really know what I would want, I figured if I had all the things you've told me about, that I'd be happy with it.”
+
+“Are you?” Lucy asked.
+
+Ren squeezed her hand. “I was happy with it, satisfied it had turned out so well... until I saw your face when I opened the bedroom door.” Ren smiled. “Now... I'm ecstatic about it.”
+
+Lucy looked at Ren and saw the sincerity there. “Ren...”
+
+“Go ahead and set your spawn point.”
+
+Lucy attempted to, but stopped when she saw the name of the business. “Is that?”
+
+Ren nodded. “I thought the play on words was a nice touch.”
+
+“It is...” Lucy leaned closer. “...but not as nice a touch as this.” Lucy whispered and kissed him.
+
+Ren heartily agreed.

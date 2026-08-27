@@ -1,0 +1,291 @@
+---
+id: b556d4d0-8838-52f4-9a07-d512194ddf71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 408 - What's this?"
+slug: 0405-chapter-408-whats-this
+partOf: mythrans-master-of-all-continued-completed
+position: 405
+ownLength: 2843
+unit: words
+publishedAt: 2017-10-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171434/chapter-408-whats-this"
+royalRoadId: "171434"
+---
+
+Ren woke up the next morning, and had surprised himself. He didn't remember having a dream. He wasn't sure if he'd had one and forgotten it instantly, or if it wasn't significant and faded before he could concentrate on it and retain the details. Either way, it made him happy; mainly because he hadn't had a nightmare, which was something he had come to expect after visiting the hospital.
+
+Ren opened his eyes and tried to look around; but, his face was wedged between two vastly different breasts. Elise had somehow worked her way up to lay closer to his head and one of her breasts cushioned him on one side, while Stella had somehow tucked her head between Ren and Elise and one of her breasts cushioned him on the other side. When he tried to move his hands, he found them securely held by Lisa and Denise; and discovered that those hands had secure holds on one of each of their breasts.
+
+“Boy, I bet even the maids would be envious of me right now.” Ren said out loud, and chuckled. He felt the two women he held stiffen, and then the breasts that held his head still, moved and eased away from him.
+
+“Good morning, Ren.” Elise and Stella said at the same time.
+
+“Good morning.” Ren said and smiled.
+
+“You got your voice back.” Lisa said. “It's still raspy, though.”
+
+“I'm not complaining... well, okay, I am complaining... but...” Denise sighed. “Ren, why do you have a hold of my breast?”
+
+“It feels good?” Ren offered, and she chuckled. It shook her chest, and he liked that feeling. “I honestly don't know.” He said. “I woke up in heaven, and here we are.”
+
+“Ren's a sleep groper.” Stella said, then started to laugh. “I probably should have warned you.”
+
+“Are you kidding?” Lisa laughed. “Having someone care enough about me to reach out while they're asleep is the best compliment I could get.”
+
+Denise looked at her over Ren's abdomen. “You believe that?”
+
+Lisa nodded. “I've been ogled and stared at by guys a lot. All they were after was getting a cheap thrill, even when they had the gall to call out to me or proposition me.”
+
+Ren let her breast go and cupped the side of her face.
+
+“Unlike them, I know Ren won't think I'm just an object, or use me, or make me think that I don't matter.”
+
+“Lisa...” Ren said.
+
+“You sound like you've been smoking for 20 years.” Elise said and laughed, and her chest jiggled.
+
+“Holy crap.” Lisa said. “Did I just see what I thought I saw?”
+
+“You mean the boob wave?” Stella asked and laughed. “It's amazing, isn't it?”
+
+Lisa nodded. “I didn't know they could do that.” She said and looked at Stella's chest, then Denise's, then looked down at herself. “I feel like the poor cousin.”
+
+“Please, don't.” Ren said and moved the hand back to her chest. “All breasts are amazing.” He said and massaged it a little. “Big ones, small ones, wide ones, pointy ones, perky ones...”
+
+Lisa chuckled, and hers moved only a little. “Which description fits these?” She asked jokingly, and she didn't realize that she would be surprised at the response he had.
+
+“Mine.” Ren said and sat up. “They're mine.”
+
+Lisa blinked her eyes at him for a moment, then she smiled as she nodded and moved the hand on her breast to her mouth and kissed it.
+
+“I guess we have to get up now.” Stella said and sat up, then pulled her t-shirt down. “I'll go and get breakfast ready.”
+
+“Pancakes!” Ren said. “It's been a while.”
+
+“Blueberries?”
+
+“Please.”
+
+Stella climbed off the bed and left the room, and Denise sighed as she moved Ren's hand from her chest.
+
+“Back to real life for me, too.” Denise said and sat up.
+
+“Hey.” Ren said and reached out to her. He put his hand on her back and gave her a bit of a massage. “This is real life.” He said and smiled. “This is the life of the luckiest guy in the world.”
+
+Denise chuckled and turned to him. “Lucky, huh?”
+
+“I just woke up in a bed with 4 women who cared enough about me to be here with the others.” Ren said. “If I'm not lucky because of that, then luck doesn't exist.”
+
+Denise smiled. “I'll be back as soon as I can and be ready for my shift.”
+
+Ren nodded, and Denise got off the bed and left the room. Elise and Lisa had remained quiet.
+
+“Before you say anything, she wouldn't have left if the two of you weren't here.” Ren said.
+
+“I was actually wondering what we do now.” Lisa said and sat up as she put her t-shirt back into place. “How long does breakfast take?”
+
+Ren shrugged. “I usually log out of the game and it's ready.”
+
+“Lucky dog.” Lisa said. “When I'm home I have to make it myself, assuming there's anything to make.”
+
+“Well, you don't have to worry about that anymore.” Ren said. “You're living here now.”
+
+Lisa opened her mouth to say that she wasn't home; but, then she thought about it and smiled because she really wanted it to be.
+
+“I've got to get ready for work.” Elise said and sat up. Her breasts slid around to their full proportions, and Lisa stared at them.
+
+“How in the world can you walk around with all that weight?” Lisa asked, and both Ren and Elise laughed.
+
+“I asked her the same thing after I saw them unleashed.”
+
+“Then what did you do?” Elise asked.
+
+Ren kissed the tip of one, then kissed the tip of the other. “Thank you.”
+
+Elise laughed. “You didn't say that.”
+
+“I was thinking it.” Ren said and grinned. “Now kiss me and go get a shower.”
+
+Elise leaned forward and kissed him, then climbed off the bed, grabbed her business suit, and went to the bathroom.
+
+“Just one of them is bigger than my head.” Lisa said, and Ren chuckled.
+
+“I made a joke and asked her what it was like carrying two bald men around.”
+
+“That's an old joke!” Lisa laughed. “Good one, though.”
+
+Ren looked around, and it was just him and Lisa left in the room. “They all cleared out.” He said, a little surprised.
+
+“I know it wasn't on purpose, so I'm not going to mention it.” Lisa said and kissed him. They wrapped their arms around each other and made out. Stella came upstairs a few minutes later with a food tray that had a huge stack of pancakes and plates for everyone on it.
+
+“If you can stand to tear your lips apart, I've got food for you to eat.” Stella said, and Lisa tried to break the kiss. She turned her head a little, but Ren kept kissing her. Lisa saw the syrup and pointed at it, and Stella opened the top and put a little bit on a plate. Lisa dipped her finger in it and brought it up to her lips. She wiped her finger on the edge of her mouth and turned her head slightly the other way.
+
+Ren noticed the new taste right away and tried to suck the syrup off of her. He couldn't get it all, so he started licking her face. Lisa started to laugh as he kept licking her lips, even with all the syrup gone.
+
+“Okay, you.” Stella said and poked him in the ear. “That's enough.”
+
+“But... she's so delicious!” Ren said. “Then she added maple syrup!”
+
+Lisa blushed a little and Stella chuckled.
+
+“Geez, give the poor girl a break.” Stella said as she put a couple of pancakes on a plate for him. She added a pat of butter and a good dose of syrup.
+
+“All right.” Ren sighed. “I'll eat instead.”
+
+“Don't sound so disappointed.” Stella said, and Lisa chuckled. She handed her a plate of pancakes and added butter and syrup.
+
+“Thanks.” Lisa said and started to eat. Denise came in dressed for work in her nurse outfit, a pair of black pants and a thick white long-sleeved zippered top.
+
+“Denise? Do you want some?” Stella asked. “I made lots.”
+
+“Thank you.” Denise said and took a plate and sat beside the bed. “I can never get them this fluffy.” She said and started to eat.
+
+“The secret's in the vodka.” Stella joked.
+
+“Wh-what?” Lisa looked at Stella with wide eyes.
+
+“She's just kidding.” Ren said. “It's just vanilla extract.”
+
+“Oh.” Lisa said. “That's not something to joke about, though.”
+
+Ren put a hand on her arm. “Your father, too?”
+
+Lisa nodded. “He was a real piece of... work... when he drank.”
+
+“My dad loved his... work... too.” Ren said, and it made her smile.
+
+“I swore I'd never touch it as long as I lived.” Lisa said, and Ren nodded.
+
+“Me, too.” He said. “Not that I'd ever be allowed to drink anyways.”
+
+“Because of your condition?” Lisa asked.
+
+“Because if his inhibitions lowered, which is what drinking does, he could hurt himself even more seriously than he does normally.” Stella said. “I am not letting him do that. Ever.”
+
+Elise came out of the bathroom with a freshly pressed business suit. “I can't believe your bathroom has a heat press.”
+
+“It does?” Ren asked.
+
+“It's in the back of the closet.” Elise said and accepted a plate of pancakes.
+
+“There's a closet?”
+
+“No, the towels float around the room until you grab them.” Elise chuckled. “Of course there's a closet. You know that.”
+
+“I do.” Ren smiled. “I was just seeing how long you would keep answering.”
+
+“I'll answer anything you ask, if I can.” Elise said.
+
+“Are my maids in the game super-angry at me right now?”
+
+“No, they're just really worried.” Lisa said, and everyone looked at her. “What?”
+
+“You went in and checked on them?” Ren asked, surprised.
+
+“Yeah.” Lisa said. “When I heard what happened to you, I logged in and told them.”
+
+“You...” Ren put his fork down and turned to her. “Thank you very much.”
+
+“It's nothing.” Lisa said and tried to take another bite of pancake. Ren stopped her and she looked at him.
+
+“It's not nothing, and you know that.” Ren said, and stared her in the eyes intently.
+
+“Ren...”
+
+“You weren't just thinking about my welfare, but about my welfare after I was out of the game for a while.” Ren said. “I don't know if you have foresight or what.” He cupped the side of her face. “Keeping things going in the game for me when I couldn't... that was not 'nothing'.”
+
+Lisa's heart was beating fast because of his attention, and even though they had just made out for several minutes, she really wanted him to kiss her again. She eased forward a little in anticipation, and Ren obliged her. It was only a brief and chaste kiss, but it held a lot more feelings in it.
+
+“Wow.” Lisa whispered softly, and Ren smiled at her.
+
+“On that note, lets get to work.” Denise said, and everyone nodded. She put her empty plate on the serving tray and went to the bathroom to wash her hands.
+
+“Me, too.” Elise said and put her plate on the serving tray. She bent over the bed and Ren leaned in to her. They kissed, and it had it's own magic; Elise broke the kiss a little breathless and sighed. “You're going to insist I go to work, aren't you?”
+
+Ren nodded. “Have fun, run the company, and make the virtual world a better place.”
+
+“If you manage to get online, send me a message.” Elise said. “So I know you're really okay.”
+
+Ren chuckled. “You won't know if I'm okay unless I can log into the game?”
+
+Elise nodded. “I'll see you later.”
+
+“Bye Elise.” Ren said and gave her another kiss. Elise left the bedroom and Denise stood there while Ren and Lisa ate another set of pancakes, and Stella ate her first set. When they were done, Denise examined him and checked the bump on his head. It had reduced in size and would be small enough soon to let him wear the VR headset without causing himself pain.
+
+The next few hours passed quickly as Lisa spent time with Ren, Stella, and Denise. They mostly just talked and watched television in the big theatre room, and relaxed while they waited. They ate lunch and picked at the various candy available, and Denise kept checking his forehead and his mental and physical reactions. Neither she nor Stella had found any signs of concussion.
+
+After supper was consumed and Ren had a shower that he desperately needed, he finally convinced Stella and Denise that he was well enough to try the VR headset. Ren test-fitted it first, just to make sure it wasn't pressing on his wound, and he relaxed when he realized that he was finally going to get back into the game.
+
+“Lisa, are you coming in, too?”
+
+Lisa nodded. “I've got a lot to catch up on.” She said. “I've been out just as long as you.”
+
+Ren took her hand and gave it a squeeze. “You didn't have to do that.”
+
+Lisa chuckled and gave him a kiss. “What kind of person would I be if I didn't come to help you when I could?”
+
+“Self-centered.” Ren said, and she laughed.
+
+“That's my game character's best trait.” Lisa said. “See you in a little while.”
+
+Ren let her hand go and she left the bedroom.
+
+“This is it.” Stella said. “The big test.”
+
+Ren nodded. He remembered the last time he had hurt his head and logged into the game. It resulted in him being stuck there, and having to be killed to leave. He was really glad the external log out protocols had been installed after that mess, and he relaxed on the bed with the headset in place.
+
+“Flow Login Start.”
+
+********
+
+Ren appeared in the white loading area, and received a popup.
+
+System Notice!
+
+You have logged in for the first time after a major game update. Please wait for calibration.
+
+Ren dismissed the popup and looked around. I wonder how long this is going to take. He thought, and received another popup.
+
+System Notice!
+
+You may experience some disorientation during the loading process. If you wish to sit down while the patch is applied, please do so now.
+
+A chair appeared in front of him, and Ren thought about having a seat.
+
+Summon Teepo. Ren thought, and Teepo appeared at his feet.
+
+“REN!” Teepo yelled and flew up to hover in front of his friend. “How are you?”
+
+“I'm fine.” Ren said. “What's been going on?”
+
+“I have no clue.” Teepo said and chittered in laughter. “We all stayed inside because none of us wanted to leave so we wouldn't miss you when you showed up.”
+
+“You didn't have to do that.” Ren said, and another popup appeared.
+
+Update Countdown:  14 Minutes, 59 Seconds
+
+No matter where he looked, it stayed in front of him and he couldn't dismiss it.
+
+Yeah, that's disorienting. Ren thought. He didn't sit down, though. Instead he took out a table and thought about Lisa. Since his costumes for the dancers that were based on real life outfits worked out so well, he took out his dye station and some Spider Silk Cloth. He cut the fabric he needed to make a pair of pants, but he made these ones special.
+
+Ren loved denim jeans and how women looked in them, especially from behind, so he dyed the cloth a light blue and made the pants, then added all the little details. Belt loops, rivets, pockets, buttons, and even extra useless stitching to make them look as much like a pair of jeans as he could. Once they were done, he took out some bat leather pieces and dyed them black, then made a nice leather jacket. He took his time to get all the details right and saved both recipes, then stored the two items. He made a nice blouse to go with the outfit and stored that, too.
+
+Update Countdown:  0 Minutes, 13 Seconds
+
+“Okay, Teepo.” Ren said and pat his shoulder.
+
+Teepo was so happy that Ren had invited him to take his perch that he almost cried. That was an amazing feat to have achieved from a beetle who never cries.
+
+“Here we go.” Ren said when the countdown reached a second left, and then the white room went to black.
+
+The Great Cleansing
+
+Welcome... to your doom.
+
+“What the hell kind of message was that?” Ren asked out loud, and then the world appeared around him. He wasn't sleeping in bed with his maids like he was supposed to be. He immediately took out the All-Seeing Mirror and thought about where he was. A large map of a cavern system appeared, and at the top it said where it was.
+
+Shargon Caverns
+
+Survive if you can. Live if you dare.
+
+“Oh, crap.” Ren said.

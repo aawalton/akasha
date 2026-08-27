@@ -1,0 +1,287 @@
+---
+id: b282b370-b598-50a5-a303-f30d481d48f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 280 - I Could Use That"
+slug: 0271-chapter-280-i-could-use-that
+partOf: mythrans-master-of-all-continued-completed
+position: 271
+ownLength: 3901
+unit: words
+publishedAt: 2017-06-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142298/chapter-280-i-could-use-that"
+royalRoadId: "142298"
+---
+
+After Ren's little display, everyone relaxed. Now that they knew he didn't intend to be as scary as they had heard from the Librarian, it was a much more jovial atmosphere than the slightly tension filled one. With the unexpected formality over with, Lara took Ren's hand and intertwined her fingers with his.
+
+“Before you ask, they've got enough food for the four days of travel.” Lara said. “Fernosia even hired an experienced scout to lead them to proper camping sites, and a retired Guardian of the Land to set up basic defences.”
+
+Ren nodded, took out a platinum coin, and thought giant. It increased to the right scale and he handed it to Fernosia.
+
+“What... what is this?” She asked, surprised.
+
+“I don't know how much it costs to hire two professionals for four days.” Ren said. “Is this enough to cover it?”
+
+“Wh-what?!?”
+
+“I can't expect you to pay for this.” Ren said, and motioned to the gathered giants. “The refugees are my responsibility. Please accept this as compensation, and let me know if you need any more.”
+
+Fernosia looked at Lara with wide eyes. “Is he serious?”
+
+Lara nodded, and Fernosia shifted her eyes back to Ren.
+
+“Kind sir, your generosity isn't necessary; but it is most welcome.” Fernosia said and took the platinum coin. “Even though you are the Dreaded Foe, as proclaimed by the Chancellor himself; you have touched my heart with your kindness.”
+
+Fernosia looked at the size of her hands in comparison to Ren, and sighed slightly. She extended a single finger and rubbed the right side of his face, and then the left side.
+
+Notice!
+
+You have gained Respect: +1,000. Because it was from an influential member of Giant Society, you also gain Fame: +1,000.
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame x 10 XP = 1,000 x 10 XP = 10,000 XP
+
+“It's supposed to be a full hand, but I hope the intention was enough.” Fernosia said.
+
+“Milady, your intention alone is more than enough.” Ren said. “I humbly thank you for your attention.”
+
+Fernosia's face flushed a little red. I didn't expect him to be so charming. She thought. In the Far-Seeing Mirror, he seemed so hard and... well, evil.
+
+“Ahem.” Lara said, and Ren and Fernosia looked at her. “I think it's time the expedition set out.”
+
+“You are quite right.” Fernosia said and stood up to her full height. She called over the scout and retired Guardian of the Land, told them to get everyone ready, and to lead the way towards the first campsite. She looked down at Ren and smiled. “Will you be accompanying them?”
+
+Ren shook his head. “I can't.” He said, then explained that he couldn't afford to waste the time travelling for two days when he had Adventurer's business to take care of.
+
+“Then what were you going to do with the supplies?” Fernosia asked.
+
+“Carry some and put as much as I could fit in a large cart.” Ren said. “I was going to reduce them in size, but that would mean I'd have to increase them in size once I got back.” He smiled. “It's much easier just to take them as they are.”
+
+Fernosia shook her head. “We don't have a cart like that for you to take.” She said. “Even if we did, it wouldn't be at the right scale for you.”
+
+Ren took out the large cart that he and Tee-one had built. “That's okay, I brought my own.”
+
+Fernosia looked at the contraption before her, and marvelled at it. It was quite large, and had extra wheels to help disperse the load.
+
+“I'm kind of glad that I don't have to use it, though.” Ren said and stored it. “Now I don't have to worry that I'm tasking my mount by having her haul too much.”
+
+“You even care for the animals under your charge?” Fernosia asked, surprised. “The deepness within you is much more than your appearance would allow.”
+
+Ren chuckled. “I'd ask if that was a shot at my height, but even if I somehow quadrupled my height, you'd still consider me short.”
+
+Fernosia did the math in her head immediately and nodded. “You would be close to a more appropriate size, though.”
+
+The giants started to move out, and Ren took that as the perfect time to leave.
+
+“Milady, please excuse me. I must return to the tasks that require my attention.” Ren said to Fernosia. “I will be there in two days to meet the expedition and receive the supplies. I'll start the construction of proper housing soon afterwards.”
+
+Fernosia nodded. “Godspeed; Ren, the Dreaded Foe.”
+
+Ren turned to Lara. “This was a great surprise.” He said, and hugged her. She hugged him tightly, and he nuzzled her neck a little, then let her go. “Thank you.”
+
+“You're welcome.” Lara said and Ren ran over to Princess. He climbed up into her saddle, waved to Fernosia and Lara, then took off at a speed that surprised them.
+
+*
+
+“I assume you are seeing each other?” Fernosia asked.
+
+Lara nodded. “It's only a casual relationship at the moment, but...”
+
+Fernosia nodded. “He definitely has an attraction that can touch a sensitive woman.” She said. “If only he was taller...”
+
+Lara chuckled. If Ren wasn't going to tell Fernosia that he had a spell to make himself larger, she wasn't going to tell her, either.
+
+*
+
+Ren and Princess passed the fast moving giants easily, and outpaced them much to their surprise. Ren took out the Wand of Trample, and he felt Princess' exultation at showing off to such huge creatures. He used the Bull Strength spell, and Princess' Strength increased by 30%. It didn't take long for Princess and Ren to disappear from their view, and Ren shared Princess' feelings. It did feel a bit like showing off; but, it also showed them some of what he and Princess could do.
+
+It took another 5 hours to make it back to the Garrison, and Ren actually had some time left to attend to something he should have done that morning. He had Princess take him to the crafting section, and met with the dwarf who's daughter had been kidnapped. They talked for a few minutes in private, and then Ren remembered that there was something he'd wanted to make.
+
+“Do you have access to a forge?” Ren asked him, and he laughed.
+
+“We all have access to The Forge.” The dwarf said.
+
+Ren thought it was odd that he would say it like that, until he followed the dwarf to the room it was being held in.
+
+“Whoa.” Ren said. It was a forge bigger than anything he'd ever seen before; and the smelter was so big that it couldn't be tipped. What could be done, was access ports were opened near the middle of it, and the molten metal flowed down a trough into a much smaller smelter that actually could be tipped and poured. There were also six small smelters attached to it.
+
+“Please tell me it's all enchanted, and you're not using hundreds of trees a day to keep all of this going!”
+
+The dwarves using the forge laughed. “Of course it's enchanted.” One of them said. “We'd all be burned to a crisp just stepping into this room if it wasn't.”
+
+Ren nodded slightly, and examined everything using Enchanted Eyes, Read Rune, and Decipher. If there was something that he could definitely use, it was a more efficient smelter and a forge big enough to make much larger things. It was almost the same design as the one he had, except for some added reinforcement and the way things were positioned. He didn't find any new runes, and deactivated his abilities.
+
+“Adding the extra smelters is a stroke of genius.” Ren commented as he got the updated plans for both the forge and the advanced smelting apparatus. “You can add different things to each of them, without contaminating the original amount.” He said. “I've made three forges and three smelters to overcome that problem.”
+
+The dwarves nodded slightly. “We had a dozen normal-sized forges at one point, and just as many smelters going at once; but even then, we had to wait in line to use them.” The same dwarf said. “Now we can just come in, take what we want, make anything of nearly any size, and it'll fit back in the forge through one of the large openings in the sides.”
+
+I'm definitely going to make one of these when I go back to Aurora. Ren thought. “May I use some?”
+
+“Go ahead.”
+
+Ren checked the recipe for making a staff, and went over to the pile of stone bricks to pick up enough of them to make a mold for it. He took out one of the crates of odd-sized diamonds that he had, and rummaged through them to find one that was quite large. It was about the size of his closed fist.
+
+“By the gods!” The dwarf with him exclaimed. “Where did you get those?”
+
+“I have a friend who makes them for me.” Ren said and stored the crate. “I usually use them in recipes.”
+
+“You WHAT?!?” The dwarf exclaimed, and Ren chuckled.
+
+“I could sell them, but I honestly don't need the money. They are much more useful as components.”
+
+Several dwarves nearby had heard him, and started muttering that he was crazy. Ren smiled and went to the farthest smelter and made the 5 foot long mold on the floor for the staff. Unlike wands, he had to add the focus element to the mold instead of adding it afterwards.
+
+He opened the access port in the large smelter and he watched as the molten metal ran down the trough. He had used a smelter so much now that he could estimate perfectly how long to leave it open. He closed it, and the metal flowed into the smelter in front of the mold. When it was inside the smaller smelter, he dropped in several platinum coins and stirred it vigorously. After several minutes, he poured out the molten metal and emptied the smelter.
+
+Unwilling to show off by using his hands, he used one of his tools to spread the metal throughout the mold and made sure he covered the diamond completely. Once that was done, all of the other dwarves that had stopped to watch what he was doing, went back to their individual tasks. They knew that it would take a while for the metal to cool and lost interest in watching it. Now that they weren't looking, Ren used his Absorb Fire and Fire Manipulation abilities to cool the metal. He picked up the unfinished staff, and activated his Craft Staff ability.
+
+Ren had thought it would be like his Craft Wondrous Item ability and it would have a platform appear, but he only had to hold the staff in his hand to use the skill. He chose the recipe that he wanted, Staff of Earth Moving, and waited. The staff started to glow, and it took nearly a third of his Mana Pool.
+
+It would take my entire Mana Bar if I didn't have the Mana Pool. Ren thought. No wonder I didn't get this skill until level 40!
+
+It took several minutes for the staff to form, and the diamond that was inside of it moved to the top. Only it wasn't a diamond anymore. A glowing green emerald had emerged, and the staff itself had changed and reformed to look more like a thick tree branch. It was still metal, but it didn't look like it was. When Ren examined it, he gasped and almost dropped it.
+
+Staff of Earth Moving (Unique - Binds on Equip)
+
+This staff is topped with a fist-sized emerald that gleams with smouldering power. It allows the continuous use of the spells contained within. Similar to Rods, it does not contain charges, but a time limit for usage. Current time limit: 600 minutes (10 hours)
+
+Due to the high quality of the materials used, this time has been extended to 1000 minutes (16.67 hours). When the last of the time has been used, the magic will be expended and the staff will become inert.
+
+Spell List
+
+Pass Wall: This spell allows the creation of a passage through wood, dirt, stone and mortar walls. It cannot create a passage through metal or other harder materials, however. If the wall’s thickness is more than the depth of the passage created, then a single Pass Wall spell simply makes a short tunnel.
+
+Multiple spells can be cast if necessary, to make a passage through very thick walls. Anyone caught inside a passage created in this way, are expelled when the spell expires, if it is dispelled, or dismissed by the caster.
+
+Cast Time: Instantaneous
+
+Cast Distance: Touch (None)
+
+Area of Effect: 7 foot tall and 6 foot wide opening, 10 feet deep for a single use.
+
+Time Limit: Passage closes after 10 minutes; or when dismissed or dispelled.
+
+Move Earth: This area of effect spell moves dirt, clay, sand, and rocks. It can be used to collapse embankments, move hillocks, shift dunes, and so forth. It does not violently break the surface of the ground. Instead, it creates wavelike crests and troughs, with the earth reacting with smooth fluidity until the desired result is achieved. Trees, structures, rock formations, and such are mostly unaffected except for changes in elevation and relative topography.
+
+The casting time is determined by the area to be affected. A 150 foot x 150 foot square area, 10 feet deep, takes 10 minutes to shift out of the way. Any combination of dimensions will achieve the same result; a 1,125 foot long x 20 foot wide x 10 foot deep trench would still only take 10 minutes.
+
+The spell cannot be used for tunnelling and is generally too slow to trap or bury creatures. The primary use for this spell is for digging (or filling) moats, or for adjusting terrain contours before a battle.
+
+This spell has no effect on creatures blessed by the Earth (stone or rock golems, earth elementals, etc.)
+
+Cast Distance: Within 500 feet (Long)
+
+Area of Effect: Various, dependent on area chosen by the caster
+
+Cast Time: Various, dependent on area chosen by the caster
+
+“Oh, yeah.” Ren said and grinned. “This is definitely going to come in handy.”
+
+“By the gods!” The dwarf with him said. “If you can make things like that, what do you need the All-Seeing Mirror for?”
+
+“So I can see things, obviously.” Ren chuckled and stored the staff. “Come with me.”
+
+They left the room with The Forge, and went back to the dwarf's crafting area. When they were alone, Ren told him he was going to go and rescue his daughter, and wanted to take the All-Seeing Mirror with him.
+
+“I want to come along.” The dwarf said.
+
+“I can't protect both you and your daughter.” Ren said.
+
+“I don't care about myself!” The dwarf said. “All that matters is her.”
+
+Ren saw the determination in his eyes, and nodded slightly. “All right, you can come... on one condition.”
+
+“What's that?” The dwarf asked.
+
+“When I get in there, I'm going to need a distraction.” Ren smiled. “I just so happen to have an Automatic Ballista you can use.”
+
+The dwarf grinned. “We've already made 50 of them, and surrounded the giant refugee camp with 10 of them.” He said. “They can traverse a field of fire that covers 70% of the area.”
+
+“Nice.” Ren said. “I assume the others...”
+
+“Deployed every hundred feet on the Garrison walls, starting at the main gate to the wilderness, and out to either side.”
+
+“I take it you know that because they've got you setting them up?”
+
+“You didn't even have to guess that, did you?” The dwarf laughed. “I doubt any of them could perform maintenance.” Then he thought about it. “Except for those elites. They really know their stuff.”
+
+Ren smiled. “I gave them a crash course with it before the battle with the giants.”
+
+“Everyone in the crafting section appreciates that.” The dwarf said. “Their knowledge was invaluable when we took one of the things apart.”
+
+“I'm glad you guys got them up and running so fast.” Ren said. “How long do you think it'll take to replace all of the old catapults?”
+
+“Replace them?” The dwarf shook his head. “We're adapting them to the Ballista design.”
+
+“Automatic Catapults?” Ren asked, a little surprised. “How does that work?”
+
+“We're still working on it.” The dwarf said and started gathering supplies. “Let's get going. The shift change for the place she's being held happens in an hour.”
+
+Ren helped him gather the things he'd need, along with medical packs and food; then they left the crafting section to meet Princess, who was waiting patiently.
+
+“I'll be right back.” Ren said, and ran back into the crafting section. He gathered the resources to build a small cart, added a ton of extra padding and handholds, and stored it. He went back out to Princess and the dwarf, then took out the small cart. He attached it to Princess' saddle, and told the dwarf to get in and hold on. Ren borrowed the mirror and looked at the map to get to the place the girl was being held, then showed it to Princess.
+
+“We are here.” Ren said and pointed to the map. “We need to get here.” He said and pointed to a spot about half a mile from where the girl was being held. “It has to be swift and quiet. It would be best if we weren't seen.”
+
+Understood. Princess thought to him. Cast your spell for that when the time comes.
+
+“Cast the spell...” Ren said, then remembered he had a wand with Obscuring Mist in it. He smiled, pat her neck, and climbed up into the saddle after he gave the mirror back to the dwarf. “Let's go.” He said, and Princess took off as if she wasn't pulling the cart at all.
+
+*
+
+The dwarf held in his urge to yell at Ren to slow down, because he knew that their time to rescue his daughter was soon coming to an end. He'd paid the last ransom amount, and they'd increased it again. There was no way he could get 8 platinum by next week. Even if the budget was approved and he received his full share, he could never hide such a large amount from the other workers. The kidnapper's demands were just too outrageous to handle anymore.
+
+*
+
+They made good time to the spot that was half a mile away from the kidnapper's hideout. They dismounted and Ren saw through the trees that it was a large castle. Even knowing what was ahead and seeing the plans of how to get around everything, it was still a massive structure to get through. Then he thought about his new staff.
+
+It's not so massive with that thing in my hands. Ren thought happily.
+
+“I don't see where we can set up a Ballista.” The dwarf said. “Everything here is covered in trees and pretty much even ground.”
+
+“Let me worry about that.” Ren said and equipped the Staff of Earth Moving. It required two hands to use the Move Earth spell, so he concentrated on what he wanted and aimed the head of the staff. The earth twitched and moved; and just like the description said, it moved like waves of water. It was weird to see the ground shift and move like that, but it only took a minute for a small 20 foot square and level hill to appear, and for the trees to move over just a bit to clear out of the line of fire.
+
+“By the gods!” The dwarf said. “Can you make me one of those?”
+
+“It says it's unique.” Ren said, and the dwarf nodded.
+
+“That makes sense.” The dwarf said. “Can you imagine if everyone had one of those?” He laughed. “There wouldn't be a spot that was left untouched!”
+
+Ren nodded slightly. He'd thought of that, too. It's why he avoided the dwarf's question rather than answer it. He was pretty sure that he could make more of them, because it binds on equip. Being unique meant that Ren could only own one of them, not that there can't be more than one. He took out the Automatic Ballista and set it up in the best spot.
+
+“You can see the entire castle from this vantage point.” Ren said. “Give me a couple of minutes, and I'll send a signal, like this.” He said, and used the Obscuring Mist wand to cast the spell off to the right. A 20 foot wide circle of mist, 20 feet high, appeared. “You'll see that appear at the top of the tower on the far right side.”
+
+The dwarf looked to where Ren pointed, and nodded slightly.
+
+“Once it does...” Ren took out the cartridge of bolts, and enchanted the first 5 bolts with glyphs of Fire and Wind Runes. “...shoot the towers on the other side of the castle, through the windows if you can manage it.”
+
+The dwarf grinned. “It will gather the bastards together.”
+
+“Right.” Ren said. “Far away from me and where I need to go.”
+
+“I'll try and choose my shots carefully after that, to take as many of the kidnappers out as I can.” The dwarf said.
+
+“Don't worry about that.” Ren said. “You've got a hundred shots in this thing. After the first dozen bolts or so, they are going to know the direction it's coming from.”
+
+“They won't guess how far, though.” The dwarf said.
+
+“I wouldn't count on that, so just in case, I picked this spot because you can see a lot of the road coming out to here.” Ren explained and pointed. “It'll be like shooting fish in a barrel.”
+
+The dwarf laughed. “I'm so glad I tried to swindle you.” He said. “None of this would have been possible otherwise.”
+
+Ren chuckled and put a hand on the dwarf's shoulder. “If they start to get too close, don't stay and fight.” He said and handed the dwarf one of the Level 1 Fireball wands. “Pop the Ballista apart, shoot it with fireball spells, and run as fast as you can through the woods. I'll meet up with you on the road back that way a few miles.”
+
+The dwarf nodded slightly, and took out the All-Seeing Mirror. “You should take this with you.”
+
+Ren shook his head. “You need that to protect yourself.”
+
+“They might move her when this all starts.”
+
+Ren took out two steel squares and enchanted them with the Sending glyphs. “Keep an eye on her, and if they do move her, think of me and whisper the details.” He said and gave the dwarf one of the squares, and put the other in a pocket. “I'll hear you.”
+
+The dwarf took the steel square and laid it on the Ballista. “Good luck.”
+
+“You, too.” Ren said, went over to Princess, and unhooked the cart to store it. He climbed up onto her back, and she took off through the woods at a sedate pace. Time was of the essence; but stealth was going to be a much needed friend soon.

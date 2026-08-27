@@ -1,0 +1,259 @@
+---
+id: 88f1dbd7-62df-5526-ac2f-b14e3bcb463d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 307 - The Ship: Part One"
+slug: 0298-chapter-307-the-ship-part-one
+partOf: mythrans-master-of-all-continued-completed
+position: 298
+ownLength: 3044
+unit: words
+publishedAt: 2017-07-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148620/chapter-307-the-ship-part-one"
+royalRoadId: "148620"
+---
+
+With the meal finished, Ren got up off the bed and handed out pieces of cloth to his personal maids so they could wipe off their hands and faces. While they did that, he made a small half-sized cabinet and lined the top of it with thick cloth and then paving stones to make an improvised sink. He put a single stone square on the bottom of it and enchanted it with a 5 rune glyph of Antiwater, then made a small wood holder for another one to be used as a tap, and enchanted that with a 5 rune glyph of Water.
+
+Ren had thought about his personal maids as he did both enchantments, so the enchantments would respond to their commands. He was tempted to mix up a tiny little bit of cement to seal the corners of the sink and make sure it was water tight, even though the paving stones locked together; but, then his personal maids would have to wait for several hours for it to dry and he wanted them to be able to use it right away.
+
+“What are you doing?” Frikara asked.
+
+“Making a sink.” Ren said.
+
+“That can't work.” Lusinia said. “There's no pipes to the outside.”
+
+Ren smiled. “It doesn't need a pipe.” He said and pointed to the steel square on the bottom. “This will absorb the water.”
+
+Navruth laughed. “Metal can't absorb water!”
+
+“It's enchanted.” Ren said, then explained how it worked.
+
+“We can all use it?” Andrela said and looked at the tap as she thought about Water. “Activate!”
+
+Water came out of the enchanted steel square and started to fill the sink, and Ren felt her enjoyment.
+
+“Deactivate.” Frikara said and the water stopped. “Try the other one.”
+
+Andrela thought about the Water going away and looked at the steel square on the bottom of the sink. “Activate!”
+
+The water started to be sucked into the steel square and after a few moments, it was all gone.
+
+“So if we activated both...” Navruth said.
+
+“It'll be a continuous stream.” Ren said and activated the 'tap' to turn on the water. It came out of one steel square and disappeared into the other.
+
+“That's amazing!” Verwynn said and stuck her hands under the water. “Now all we need is some soap.”
+
+Ren smiled as he remembered that soap would get rid of his beard. “I'll see if the ship has anything on board.”
+
+“Thank you.” Verwynn said and Ren moved the dresser away from the door and unlocked it. He went outside and equipped his Travelling Clothes to clean himself up and his armor bodysuit went into inventory automatically. He stopped the first deckhand he saw and asked where to get soap. The deckhand told him, and he went down the hall a short way and opened a door. It revealed all the miscellaneous small supplies that a ship at sea would need.
+
+Ren found soap almost immediately, and closed the door with the intention to go back and use Identify on everything. Because of the sheer number of things inside, it seemed like a good chance to grind the skill. He went back to his cabin and gave Verwynn the soap, and she used it to scrub her hands and face with the piece of cloth Ren had given her earlier. She started to wash her arms, and Ren put a hand on her shoulder.
+
+“I'll make a tub for that.” Ren said, and she looked at him.
+
+“But the water's right here.” Verwynn said and deactivated the 'drain'. The sink filled up after a minute and she turned off the 'tap'. “We don't really need a tub.”
+
+“But...” Ren said.
+
+“This is fine.” Lusinia said and used the soap to lather up her piece of cloth. “We can take turns.”
+
+“How will you rinse off?” Ren asked.
+
+Verwynn took the steel square off of the tap and held her soapy arm over the sink and activated it. Water came out and rinsed the soap off.
+
+“Okay, that's a pretty smart way to do it.” Ren said.
+
+Verwynn's face turned a slight red color, and Ren felt how much she liked his compliment on her intelligence.
+
+“We've got about 2 weeks before we get to Aurora, and I'm not going to make you wash yourselves in a sink.” Ren said. “I've got half a dozen empty cabins on this huge ship, so I might as well use one of them as a room for a bath.”
+
+“Please, don't go to any trouble for us.” Frikara said. “We've gotten by with a lot less than this several times; both before and since we signed our contracts.”
+
+“Then I give you my word that you'll have a full bath by the end of the day.” Ren said. “You can clean yourselves up a little with this thing...” He said and tapped the sink. “...but, it's supposed to be for your hands and face only. You need a much bigger receptacle for an actual bath.”
+
+“Ren...” Frikara started to say, then she felt his determination and knew he would refuse any request to stop. “...by the end of the day.” She said instead and nodded slightly.
+
+Ren smiled and the shared Aura flooded with how happy he was that she wasn't going to fight him over such a trivial thing.
+
+“I'll be back for supper.” Ren said and checked on the spider inside the Dire Wolf Hooded Cloak, put it on, then grabbed several plates of food and left the room.
+
+*
+
+“By the gods.” Lusinia said and closed her eyes. “How can his emotions be so strong?”
+
+“I don't know.” Frikara said as she started getting dressed. “It's like... he's the sun. We're just tiny little flowers that he shines on, and we're trying our best not to be blinded by his brilliance.”
+
+“He's the sun?” Andrela asked and slipped on a dress. “Does that mean we can't live without him?”
+
+Navruth smiled and put an arm around her after helping her button the dress. “Yes, Andrela. Even if we had somehow escaped the treasure room, I don't think we would have lasted long if it wasn't for him.”
+
+A feeling of agreement entered the Aura, and they all nodded slightly.
+
+*
+
+Teepo dropped from the ceiling onto Ren's shoulder when he came out of the cabin. Ren slid a plate under Orimihr's door, then went into the cabin Princess was in. He walked over to her and knelt as she lifted a hoof for him. He took it and looked at her.
+
+“Greetings, Princess.” Ren said. “I got back a little early last night, then I slept in to try and get enough sleep.”
+
+You must look after yourself. Princess thought to him.
+
+“Hello, Princess.” Teepo said and bent his front legs slightly to bow to her.
+
+Greetings, Teepo.
+
+Ren took out two plates of food and placed them before her. “I'll make something nice for supper for you.”
+
+Thank you.
+
+Ren turned to the pen that covered almost half of the room and saw there was still some webs and wood inside.
+
+“Hi, Zetaya.” Ren said and stepped into it. The fire elemental hopped out of the fire and Ren caught it. It was now 2 feet long, and had grown 6 inches since the last time he'd seen it. “Whoa! You're getting bigger!”
+
+It's color changed slightly and Ren rubbed his face on it's head stub.
+
+“Do you want something different to eat?” Ren asked it, and it nodded. “Let's see what I have in inventory for you.” He looked through what he had, and didn't see a whole lot that the fire elemental could eat. “I've got a pile of cloth scraps.”
+
+The head stub shook from side to side in a clear 'no' gesture.
+
+“Then I'm not sure... oh! Hello.” Ren smiled when he found the cape that went with his Travelling Clothes. He had made it with the set of Travelling Clothes way back when he had a pile of Spider Silk Cloth to play with; but he never wore it. It just sat in his inventory and took up a slot that could be used for something else. Ren put the fire elemental down and took out the cape.
+
+The fire elemental froze when it saw the large piece of Spider Silk cloth, and Ren chuckled.
+
+“I'm tempted to give you the whole thing, just from that reaction.” Ren said, and the fire elemental let it's chest burn bright with white flames, and Ren nodded slightly. “Don't try to eat it all at once, okay?”
+
+The head stub nodded, and Ren laid the strong silky cloth on the floor of the pen, well away from the enchanted flames. The fire elemental kind of sat on it's back legs, then used it's front leg stubs to pull the end of the cape into itself.
+
+Ren heard a small crackling fire, and he knew the fire elemental really liked having such a large treat.
+
+“I'll leave you to it.” Ren said, pat it's head stub gently, and stepped out of the pen. He pat Riley and Stacy next, and went to the door. “I'll see you all again tonight.” Ren said and left. On his way down to the cargo hold of the ship, Ren finally had a chance to check his missed notifications. A couple of them were messages from Lara, the Sage of Ages.
+
+Lara:  Hi, Ren. I just wanted you to know that I talked to the Ambassador for the giant refugees, and she's making caravans to deliver the weekly supplies and food.
+
+Lara:  She was pretty angry at the little people for kicking you out, too. (winky face)
+
+Ren smiled. I'll have to thank her for that later. He thought, then looked at the next notification.
+
+Notice!
+
+The Church you had constructed on House Neram land has been open for another day. Word continues to spread of it's opalescence, and dwarves from all around come to pray and worship their gods. You have gained bonuses appropriate for encouraging the active worshipping of these gods. 10 visitors = 1% Knowledge bonus to level.
+
+Dark (Gravity) - 201 visitors; Knowledge Of Dark (Gravity) Level 2 (Beginner 22%) +20% = 42%
+
+Earth - 330 visitors; Knowledge Of Earth Level 1 (Intermediate 48%) +33% = 81%
+
+Fire - 692 visitors; Knowledge Of Fire (Mastered) = No gains possible
+
+Ice - 132 visitors; Knowledge Of Ice Level 1 (Beginner 11%) +13% = 24%
+
+Light (Holy) - 354 visitors; Knowledge Of Light (Holy) Level 1 (Beginner 49%) +35% = 84%
+
+Lightning - 158 visitors; Knowledge Of Lightning Level 5 (Beginner 27%) +16% = 43%
+
+Void (Arcane) - 10 visitors; Knowledge Of Void (Arcane) Level 1 (Beginner 1%) +1% = 2%
+
+Water - 167 visitors; Knowledge Of Water Level 2 (Beginner 13%) +17% = 30%
+
+Wind - 132 visitors; Knowledge Of Wind Level 1 (Beginner 14%) +13% = 27%
+
+“Sweet.” He said and stopped at the door into the hold at the final popup he had missed.
+
+Notice!
+
+Your ship (UNNAMED) has been in operation for 24 hours. The following information has changed since the beginning of the journey:
+
+Ship's Hull  14980 / 15000
+
+Food/Consumables  2900 / 3000
+
+Ropes  290 / 300
+
+Cleaning Supplies  1625 / 1650
+
+The following information hasn't changed since the beginning of the journey:
+
+Captain  1
+
+Cook  1
+
+Waitresses  2
+
+Crew  50
+
+Passengers  15
+
+“Cool.” Ren said and went into the hold. “Tee-one!”
+
+“I've got all three forges and smelters going.” Tee-one said. “I even loaded the glass forge with sand.”
+
+Ren chuckled. “If we could figure out how to let you use more than one of my skills at a time, I wouldn't need to help at all.”
+
+“Where's the fun in that?” Tee-one asked, and Ren laughed.
+
+“We could work faster.” Ren said and thought about how he had made a tub the last time. “It's going to be much easier now, I think.”
+
+“How so?” Tee-one asked, then smiled when Ren took out the Wand of Iron Barrier. “That's brilliant.”
+
+Ren clapped him on the shoulder. “Only if it works.” He said, then thought about the best way to do it. “Aw, screw it! I'm not making a tub.” Ren said and smiled. “Get ready to pour the smelters.”
+
+Tee-one went to the middle one and put a hand on the handle. “Ready.”
+
+Ren cast the first Iron Wall spell and left it the standard 10 foot by 10 foot square that was 2 inches thick, except that he cast it laying down instead of standing up. He kept casting the spell until the stack of walls was 2 feet high, then reduced the dimensions by 2 feet to make an 8 foot by 8 foot square, which increased the wall's thickness to just over 3 inches, and he cast that 7 times to make the stack a total of just over 4 feet high. He cast Iron wall 4 more times, to make 4 and a half feet tall walls around the stack, and left an inch of space between them.
+
+“Start pouring.” Ren said and walked over to the closest smelter and poured it out slowly as well. The molten metal filled the 1 inch space quickly, then made a thin layer on top of the 10 foot square section. Ren used his Fire Manipulation ability to move the heat up to his hands and absorbed it, and cooled the metal on the bottom, but left the flat section molten. He cast Iron Wall on top of that molten section to fill in the space up to the 8 foot square section and left an inch space to be filled. The smelters could no longer reach the opening where it needed to be poured, so Ren picked up the third smelter and walked onto and over the iron wall mold and poured molten metal into the one inch space he'd left for it.
+
+It filled quickly, just like the other part did, and he covered the top of the 8 foot square section with most of what was left in the smelter. Now that the mold was full, Ren put the smelter back on the forge, then used his Fire Manipulation and Absorb Fire abilities again and cooled the steel down.
+
+Ren hadn't left the molten metal on the Iron Walls long enough to have them start to melt, so they remained intact and in place until they expired 10 minutes after they had been cast. The bottom 10 foot square ones disappeared first, then the 8 foot square ones; next was the surrounding walls used to contain the outside, and last was the spacers for the 8 foot square section. When the last Iron Wall spell dissolved, Ren was left with what looked like a 10 foot square platform with an 8 foot square platform on top of it.
+
+Ren smiled and stored it, then took it back out right-side up. It was now a 4 foot deep Jacuzzi-like pool that was 10 foot square, with a seat 2 feet down that was 2 feet wide all the way around the inside.
+
+“Now that's cool.” Ren said, and he and Tee-one built a wood frame around it to support the weight, then Ren added steel squares enchanted with Antiwater on the floor of the Jacuzzi. He added steel squares around the middle enchanted with Wind and Water, then added more around the top enchanted with Water only. At the last moment, Ren remembered that it should be heated and added steel squares enchanted with Fire next to the Wind and Water enchantments.
+
+There wasn't anything else to do to it, so Ren stored it and thought about what else to add to a room meant for baths. He smiled and made 6 lounge chairs, 6 chairs and a table large enough for them to eat on. He figured they could make it an informal dining room, too.
+
+“Are you working on anything right now?” Ren asked Tee-one.
+
+“No.” He said. “I put everything on hold to help you.”
+
+“You're too good to me, my friend.” Ren said. “Let's fill the smelters again, and head up to the cabin beside the one Princess is in.” He smiled. “We've got some renovating to do.”
+
+“Sounds like fun.” Tee-one said and they topped off the smelters, then left the hold to go and make a new space for Ren and the personal maids to relax in.
+
+*
+
+“He's so intense!” Verwynn said. “His concentration is astounding!”
+
+“It sure is.” Frikara said. “I can only imagine what he can do in bed.”
+
+“Stop that, Frikara!” Andrela said as she felt Frikara's urges enter the shared Aura. The other maids looked at her with surprise on their faces at Andrela's burning anger. “Ren's sharing his Aura with us! We can't taint him with things like that, or he'll stop!”
+
+“She's right.” Lusinia said. “Frikara? Can you ease off on thinking about it for a while, please?”
+
+Frikara sighed and the urge faded away, and Andrela's anger faded with it.
+
+“I'm sorry.” Andrela said. “It's just...”
+
+“I know.” Frikara said and gave her a hug. “You don't want to ruin a good thing before it starts.”
+
+Andrela nodded, and Frikara smiled.
+
+“You're getting a bit of a backbone.” Frikara said.
+
+“It's your influence.” Navruth said. “We're all a little more than ourselves while we're sharing our emotions.”
+
+“Isn't it great?” Lusinia said. “Even if he'd never done anything else for us, this alone would have earned my devotion.”
+
+Frikara smiled. “Imagine what it's like to be with him like this...”
+
+“FRIKARA!” The other maids said together, and Frikara laughed.
+
+“Sorry.”
+
+*
+
+Ren thought about the popups he'd seen and frowned. “Hold on a second, Tee-one.” He said and stopped walking in the hallway of the main cabin, then held up his hands. “There's 15 passengers.” He said and started counting on his fingers. “Teepo, Princess, Riley, Stacy, Tee-one, Ruck, the fire elemental, the 5 personal maids, Orimihr, and me.” He said and looked at the popup. “I count 14 passengers, but it said there's 15.”
+
+“Then you know what that means.” Tee-one and Teepo said at the same time.
+
+“Yeah.” Ren said. “We have a stowaway.”

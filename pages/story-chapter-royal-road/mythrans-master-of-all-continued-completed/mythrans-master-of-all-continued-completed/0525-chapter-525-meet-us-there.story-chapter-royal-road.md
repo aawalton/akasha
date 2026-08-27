@@ -1,0 +1,205 @@
+---
+id: e985319c-9ada-5a01-9ddc-76596882c664
+page-type-slug: story-chapter-royal-road
+title: "Chapter 525 - Meet Us There"
+slug: 0525-chapter-525-meet-us-there
+partOf: mythrans-master-of-all-continued-completed
+position: 525
+ownLength: 2387
+unit: words
+publishedAt: 2018-03-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197718/chapter-525-meet-us-there"
+royalRoadId: "197718"
+---
+
+Ren and Artemis left the roost and met Xuunah and Officer Holly at the base of the succubi roost, and they ran back over to the warehouse and saw Symmetra and Tee-one as they finished a construct. It was 3 feet tall and had 8 arms, 4 of which had swords, 2 had bows, and 2 tower shields filled the last 2 hands. It would have been front heavy, except that it was counterbalanced by a segmented prehensile tail that looked like a scorpion.
+
+“Okay, that's cool.” Ren said. “How many do you have?”
+
+“This is the sixth one.” Tee-one said and pointed to the others, and they all looked different and had different bodies. “The work went quicker with us working on them together.”
+
+“We don't have time to test them.” Ren said. “Are they active?”
+
+“Yes.”
+
+“Then pick them up and let's go!”
+
+“Hold on little ones.” Symmetra said to them, and all 6 of the 3 foot tall constructs hopped up into her arms and she caught them; one in each arm. It was a bit of an odd sight to see, but it worked and they held onto her.
+
+“I'll stay here and make more.” Tee-one said, and Ren, Artemis, and Symmetra left the warehouse and went over to Princess' house.
+
+“Princess!” Ren said, and she was out of the house and positioned to face the right direction.
+
+“Hook me up, My Lord!” Princess said, and Ren took out the covered cart from her saddlebag and attached it to her. Riley and Stacy came out of the house and barked, and Ren nodded to them.
+
+“I'll go and get my steed, Cobalt.” Officer Holly said and ran around the Main House to her place and the steed she had secured there.
+
+“Can we come, too?” A voice said from behind them. Ren turned around to see every single pixie was there.
+
+“I can't ask you to-”
+
+“We just got this land.” Suniva the Firekin said hotly, and her voice could melt cold iron. “We are not giving it up!”
+
+“It's going to be dangerous.”
+
+“With our Unnatural Armor and Regeneration, it will take a lot to hurt us.” Shanna the Earthkin said. “Plus, we discovered something.”
+
+“What's that?” Ren asked.
+
+Suniva stepped forward and made her hands into fists. Ren felt Mana cover her as if she was generating clothing, and he was surprised when a tiny female version of his armor covered her.
+
+“Oh, wow.” Teepo said. “It's platinum armor!”
+
+“You gained a lot more from me that I thought.” Ren said and smiled.
+
+“Yes, we did.” Suniva said and walked up into the air as all the other pixies formed similar armor. “We gained a purpose.”
+
+“Then hop aboard.” Ren said. “I can use all the help I can get.”
+
+The pixies, Xuunah, and Symmetra climbed into the cart and Riley and Stacy walked up to stand on either side to keep the cart's balance. Officer Holly came back riding her steed and stopped behind the cart so Ren could tie the horse to it, then the heat around the area doubled as a 10 foot tall excited fire elemental ran out of the warehouse.
+
+“Zetaya!” Ren said, and the fire elemental stopped beside him. “You can't...” He started to say, then remembered telling the succubi to not hold back and smiled. “I'm glad to have you by my side.”
+
+Zetaya reached out and rubbed an arm stub over his head, which messed up his hair and made him laugh.
+
+“You're riding with me.” Ren said and climbed onto Princess, and Zetaya climbed onto his back. It was a really odd sight to see a 10 foot tall fire elemental trying to hold onto a 4 foot 7 inch tall armored man, who rode a 5 foot tall armored ram that hauled a cart with two large metal dogs with wings as they hung on the side of it. Princess trotted up into the air and poured on the speed, and Artemis flew beside them.
+
+*
+
+“This is going great!” The hostage squad said as it left the second farmhouse and had finally caught a man and his wife. The first house had been empty and the child in this house had gotten away; but, that was okay. Even a single hostage would work for their plans. More would work better, though.
+
+“Good work.” Their platoon captain said when they fell back into the troop formation. Their platoon had been sent ahead to capture anyone they could. “Put them near the back and tie them to the supply cart. We don't want them to slow us down.”
+
+“Yes, sir.” The hostage squad said and moved back through the troops. When they secured the two captives to the cart, they heard a screech in the distance.
+
+“Hey, did you hear that?” Someone asked. “It kind of sounded like a scream or something.”
+
+The soldier next to him laughed. “There's probably going to be a lot of screaming soon.”
+
+The other soldiers started to laugh, too. Barely a second later the soldiers were all shocked to see flying women approach their formation.
+
+“Platoon! Halt!” One of the lead soldiers said. “What is that?”
+
+“They're coming for us!” One of the soldiers said frantically, tossed his sword into the dirt and fell to his knees and prayed. For some reason he knew he was doomed.
+
+“Archers!” The platoon captain said, and 20 archers stood tall while the rest of the men knelt. “Ready! Aim!”
+
+The succubi were almost on top of them.
+
+“Fire!”
+
+The soldiers let their arrows fly and every single arrow hit one of the flying creatures... and went right through them.
+
+“What? How?” The platoon captain was dumbfounded that not a single arrow had taken out one of the creatures, and then the succubi passed over the soldiers. All 20 of the archers disappeared, and before the other soldiers knew it, there were horrendous screams and bone-chilling yells. The noise was cut off a moment later, then nothing could be seen or heard.
+
+“Captain!” One of the soldiers exclaimed.
+
+The captain turned to the shout and saw a tall blonde red-skinned woman, with large red leathery bat wings, that stood right in front of him.
+
+“B-b-b-beautiful.” The captain mumbled as his emotions were captured by the vision of deadly loveliness in front of him, and she reached out to touch him. The rest of the world faded away as this creature enticed him to give up everything he had for her, and he nodded and closed his eyes. He didn't feel the claws of the succubus as they entered his chest, and then all of his emotions were drained. A moment later his heart was ripped out of his chest, held up like an offering, then the succubus tore into the tough muscle with her teeth.
+
+“Sooooo gooooooood!” Zunala moaned as she feasted on the man's emotions and heart blood, and her Frenzy ability increased in strength again. She felt a sword as it tried to pierce her chest, then there was short scream.
+
+“Are you okay?” Kelfaren asked her friend. “My displaced image passed over you when the soldier attacked.”
+
+“Yes, I'm fine.” Zunala said. “Pull it out, will you?”
+
+Kelfaren pulled the sword out and the skin reformed instantly.
+
+“Thank you.” Zunala said and looked around. “Oh, it seems I missed it all.”
+
+All of the soldiers in the platoon were dead on the ground, and most of them were in pieces.
+
+Kelfaren chuckled. “You ate the whole heart, so that took a minute.”
+
+Zunala smiled. “I'll be more careful next time.”
+
+“Just wait and save one for last like we did.” Seldanna said and held up her pilfered heart. Zunala chuckled and nodded, and Fayeth, the succubus that spoke constantly, deactivated her Displacement enchantment and went over to the soldier's abandoned supply cart and the two captives tied there. The man stood his ground and the woman flinched a little at her odd appearance.
+
+“That was a horrible incident to bear witness to, wasn't it? I hope neither of you are traumatized by it. There's going to be more of it soon. I'm glad you're fine. You're fine, aren't you? Are your wrists sore?” Fayeth asked the two captives. She successfully pushed aside her Frenzy without deactivating it, and she held in her moan at the resolve and strength the captives felt as they tried to not let what they saw affect them.
+
+“Wh-what are you?” The woman asked.
+
+“That is an existential question, and depending on who you ask, you will get different answers. In some respects, we are villains. In others, we're scavengers. We could be avengers, defilers, saviors, and even destroyers.” Fayeth said and reformed her hands into human hands, then untied the woman. “In the end though, all we can claim to be, are succubi.”
+
+“Why did you help us?” The man asked.
+
+“Lord Ren rescued us from a horrible fate, one that no one should ever be subjected to, no matter their origins of creation; either summoned from the ether or being born from a womb, both of which could signify the same thing. Are children born, or are they summoned into the womb and then get to grow up normally?” Fayeth asked and untied the man.
+
+“Are you okay?” The woman asked with concern in her voice and held a hand out to the succubus.
+
+“I'm fine. I just tend to talk a lot when I'm asked a question. It's not a character flaw, at least not in my eyes, because what I say usually has some relevance.” Fayeth said and held the woman's hand tenderly.
+
+“What are you going to do now?” The man asked, fully prepared to sacrifice himself to the creatures so his wife could escape.
+
+“We're protecting the home he gave us.” Fayeth said and smiled sweetly at the man.
+
+“...and it's citizens?” The woman asked.
+
+“Of course.” Fayeth said, reassuringly. “We're both citizens of Lord Ren's county, so I'm really helping myself.” She said. “There's no better feeling than that.”
+
+The woman smiled sweetly back at her and gave her hand a squeeze. The man's hand touched both hands, and Fayeth looked at them both.
+
+“Thank you for saving us.” The man said. He was filled with relief that they wouldn't be eaten like the soldiers, but was still wary it could happen. Fayeth once again held in her moan at these feelings, because they should be wary of her. She was a succubus and it was dangerous to be around her; but she could feel they were accepting of her, too.
+
+“Hey, is this yours?” One of the succubi asked and held up a young child by his shirt. He screamed and hollered names at the succubi, then kicked his legs and swung his arms to try and escape, to no avail.
+
+“Yes, it's ours.” The woman said. The succubi put the boy down and let him go. He turned and kicked her shin, then ran over to his mother.
+
+“Ow! You little creep!” The succubi said and rubbed her shin. The mother covered her mouth to stop her laugh, and hugged her son when he was close enough.
+
+“Is it okay for him to see things like this?” Fayeth asked. “It could be quite traumatizing for young minds to see such gore and horror and not have it affect them adversely.”
+
+“We work on the livestock farm.” The man said. “He better be used to seeing slaughter like this.”
+
+Fayeth smiled at the man, then at the woman, because she felt their slight attraction to her, despite her being covered in the soldier's blood. She also felt that they didn't look at her like she was a monster.
+
+“Come on, we better go!” Seldanna said and hovered in the air. “We're going to be late to the-” She cut off her own words as Princess with the cart, Ren with the fire elemental on his back, and Artemis flew over them.
+
+“Dammit! We already are!” Seldanna took off after them, as did the other succubi.
+
+“Hurry! Go!” The woman said and let Fayeth's hand go. “Protect our homes.”
+
+Fayeth nodded and took off after the others, and her heart was filled with hope. A moment later she realized that she couldn't get through a battle with just hope, and let her Frenzy take back over. A feral snarl crossed her lips as she caught up with the others, and it was echoed from the other succubi. She couldn't believe that she would gain another reason to fight the invaders. She didn't need another one; but now that she had it, she would use it to full effect.
+
+The soldiers almost took my chance to be happy away from me! Fayeth thought, then let out an ear splitting screech. It was quickly matched by the other succubi, because there really was no match for their righteous anger.
+
+*
+
+“When are we going to attack?” Dennis asked the party leader, Chris.
+
+“When the time is right.” Chris said as they kept well back away from the back of the troops and out of their direct line of sight.
+
+“When will that be?”
+
+“When I say so.”
+
+“Can you be a little more specific than that?” One of the others asked.
+
+“Look, it's simple really.” Chris said. “We wait for an opportune moment and then pounce.”
+
+“So, you're saying you don't know when.”
+
+“No, I know.” Chris said. “I'll tell you when.” He smiled. “Trust me.”
+
+“Oh, geez.” Dennis said. “We're going to be killed for sure.”
+
+Chris chuckled. “Don't worry, we'll keep you safe.”
+
+“How can you keep me safe if you're dead?”
+
+“Easy.” Chris said. “Use your pigeon spell and surrender to Lord Ren.”
+
+“You're supposed to protect me, not make sure I die.” Dennis said.
+
+Chris laughed. “He won't kill you.” He said. “I don't think, anyway.”
+
+“Why?”
+
+“If what we did earned us so much Infamy, then that means he's a good guy. If we do a bunch of damage to this invading army, he's sure to forgive us for breaking down the wall.”
+
+“I think you're making a huge assumption.” One of the guys said.
+
+“What's that?” Chris asked.
+
+“That he'll listen at all.” The guy said, and everyone fell silent after that.

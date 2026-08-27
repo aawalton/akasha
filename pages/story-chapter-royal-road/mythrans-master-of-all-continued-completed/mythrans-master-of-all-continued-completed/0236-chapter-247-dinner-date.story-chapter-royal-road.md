@@ -1,0 +1,397 @@
+---
+id: 76c93adc-1bd8-5691-8ccd-a1031d866d0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 247 - Dinner Date"
+slug: 0236-chapter-247-dinner-date
+partOf: mythrans-master-of-all-continued-completed
+position: 236
+ownLength: 3872
+unit: words
+publishedAt: 2017-05-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134599/chapter-247-dinner-date"
+royalRoadId: "134599"
+---
+
+Ren and Elise kissed for several minutes, and then there was a knock on the door. A moment later, Stella opened the door and brought in a tray with two plates of food on it.
+
+“Dinner is served.” Stella said, and put the plates on the rollaway table, then looked at Ren and Elise. “Ren sit up on the edge of the bed. Elise, move the chair out a little.”
+
+They followed Stella's instructions, and she slid the rollaway table between them. She left the room and came back with silverware, napkins, and a drink for each of them. She lit the candle and changed the television channel to one that had soft music.
+
+“Enjoy.” Stella said, did a little curtsy, and left again.
+
+“What was all that?” Elise asked and smiled.
+
+“That was Stella going out of her way to make everything perfect.” Ren said and chuckled. “Once I asked her to invite you to dinner...”
+
+Elise nodded, and they enjoyed the pork chops and mashed potatoes. They ate in silence, and occasionally looked at each other. Ren wasn't sure how it happened, but they both seemed to look up at the same time, and then they stared at each other for several moments before looking back at their food. The meal ended eventually, and Stella came in to check on them.
+
+“How is everything?” Stella asked.
+
+“It was great.” Ren said. “Thank you.”
+
+“You're welcome.” She said, and looked at Elise. “Are you ready for dessert, or do you want to wait a few minutes?”
+
+“Wait, I think.” Elise said and looked at Ren. “What do you think?”
+
+“I agree.” Ren said. “We should let that settle before piling ice cream on top of it.”
+
+Stella nodded, put the dirty plates and glasses on the tray, and cleaned up the rollaway table. “I'll be back in a little while.” She said, and left with the full tray just as quickly as she'd come in without it.
+
+“She'd make a great waitress.” Elise commented. “That was really well done.”
+
+“It was.” Ren said. “So. What do you want to do for a few minutes while we wait for Stella to come back?”
+
+“I can think of a few things that I'd like to do.” Elise said, and gave him a sexy look. “Doing them in only a few minutes might not be possible, though.”
+
+“We did pretty good last time.” Ren said.
+
+Elise blushed a little as she remembered how far they'd gotten, and that they had to stop.
+
+“You're right. A few minutes won't be nearly enough time.” He said and moved the rollaway table aside. “But, you can whisper it to me.”
+
+Elise smiled and leaned in, and he turned his head to listen. She pressed her lips to his ear, and started to whisper. Ren's eyes widened as she told him what she wanted to do, then she nuzzled his ear. He put his hands on her shoulders and closed his eyes as she kissed and licked his earlobe. He shivered slightly, and Elise moaned because of his reactions. Ren sighed, opened his eyes, and leaned away.
+
+“What is it?” Elise asked.
+
+“I don't want to tease you like this.” Ren said. “We're both... ah... getting excited... and we know it's not going anywhere right now.”
+
+He moved his hands to her neck, and caressed the skin up to her chin and cupped the sides of her face. Just that little touch had Elise panting a little, and he smiled.
+
+“I want to make you feel good, and it's not going to happen tonight.” Ren said, and she sighed.
+
+“You're right.” Elise said. “We're going to drive ourselves crazy if we keep going like this, and then have to stop.”
+
+“Yeah.” Ren said, gripped the back of her neck with both hands, and kissed her passionately. He broke the kiss about 10 seconds later, and leaned back. Elise's eyes were closed, and her lips were still moving. He smiled, and went back in to keep going.
+
+*
+
+Officer Stonewall was getting tired of looking through the same rooms over and over, and sat down in the corner of yet another room with nothing in it. She leaned against the wall, and when her weight hit it, she felt something shift. She thought it might have been something on her belt, so she leaned forward and reached back to check the pouch with the handcuffs in them, one of her fingernails hooked the edge of the wall panel.
+
+“Ow!” Officer Stonewall said, pulled her hand back quickly, and the wall panel hit her in the back. “What the hell?” She said, turned around, and the wall panel was back in place. Using her fingernail on purpose this time, she hooked the edge of the wall panel and pulled. It lifted easily because it wasn't attached on the bottom corner, and she caught a glimpse of a metal grate.
+
+“John! JOHN!” Officer Stonewall hollered, and Detective Ramirez came into the room.
+
+“What is it?” He asked her.
+
+“This.” Officer Stonewall said, hooked the wall panel with her fingernail again, and moved it out. He saw the metal grate, and smiled.
+
+“That looks like an air exchanger duct.”
+
+“Shouldn't it be on the ceiling?” She asked.
+
+“Normally.” Detective Ramirez said. “It depends on how much room you have in a basement.”
+
+“So, not a lot of height down here.” Officer Stonewall said a she looked up at the ceiling, that was barely 7 feet high.
+
+“They must have run it along the inside of the walls.” He said. “How much do you want to bet that this little bolt came from one of those grates?”
+
+Officer Stonewall shook her head. “Seriously, John? We're going to check all of these rooms again?”
+
+“It's your fault.” He said and grinned. “You keep finding things for us to investigate further.”
+
+She sighed. “No, I'm sitting right here. You keep going on your wild goose chase.”
+
+“Don't be like that, Holly.” Detective Ramirez said, and her eyes widened.
+
+That's the second time he's used my first name in the last two days. Holly thought. “I've seen enough of this place to last me a lifetime.”
+
+“You're young.” Detective Ramirez said. “You can take a bit more.”
+
+“Fine.” Officer Stonewall sighed. “But you're buying me coffee for the rest of the week.”
+
+“That's a cheap price to pay.” He said and smiled. “It's Thursday.”
+
+Her eyes widened for a moment, then she shook her head. “Dammit.”
+
+“Come on.” He said and went to the door. “The panels aren't nailed to the metal grates. It should be easy to check.”
+
+“Yes, yes. I'm coming.” Officer Stonewall said and followed her partner for yet another check of the rooms.
+
+*
+
+“Dessert!” Stella said as she knocked on the door, then brought in the tray with two bowls of ice cream. She saw the rollaway table was pushed aside, and put the bowls of ice cream on it. “Enjoy.” She said and smiled, and didn't comment about how Ren had lipstick smeared on his face.
+
+“I think we better cool it for a few minutes, and have some ice cream before it melts.” Ren said.
+
+“I'd rather keep going.” Elise said. “But, you're wearing more lipstick than I am right now.”
+
+“What?” Ren rubbed his fingers over his lips, and they came away red. “Elise! Your lips aren't naturally a luscious red!” He said, and covered his eyes with a hand. “I feel so cheated!”
+
+Elise laughed, grabbed a tissue, and started to wipe it off. Ren puckered his lips for her, and she diligently cleaned it all off. She got another tissue and cleaned off his ear, too.
+
+“There, all evidence removed.” Elise said and pulled the rollaway table over to set it between them again. “Do you want the bowl with the diet ice cream in it, or the bowl with the diet ice cream in it?” She asked with a smile on her face.
+
+“That's a hard choice.” Ren said, and tapped his lips with a finger. “Um, you better give me the one with diet ice cream in it, just in case.”
+
+“Sure.” Elise said and slid one of the identical bowls to him. “I'm pretty sure that's the right one.”
+
+“I hope so.” Ren said, picked up the spoon, and tasted it. “I don't want to get fat.”
+
+Elise chuckled. “I wish I didn't have that problem.” She said. “My diet's almost as restrictive as yours.”
+
+“You're kidding.” Ren said and ate another spoonful.
+
+“No.” Elise shook her head. “When I was younger, all I did was eat.” She said. “You'll be surprised to hear this, but I was quite overweight as a teenager.”
+
+“That is a surprise.” Ren said. “I can't believe that you weren't always a tall beautiful woman.”
+
+Elise laughed. “No, I didn't always look like this.”
+
+“Are you going to tell me that you went from an ugly duckling to a beautiful swan, in only a couple of years?”
+
+“That's exactly what I'm going to tell you.” Elise said and kept eating her ice cream.
+
+“Sweet.” Ren said. “Lay it on me.”
+
+“What?”
+
+“Tell me all about it.” Ren kept eating. “I'd like to hear the story.”
+
+“It... it's not really a story.”
+
+“Then just talk about it.” Ren said. “I'm all ears.”
+
+“But...”
+
+Ren reached a hand over and put it on one of hers. “You don't have to talk about it if you don't want to, but you did bring it up. I'd like to hear more about you.”
+
+“Okay.” Elise smiled, and told him about her struggles as a child and then as a teenager after she had her growth spurt. She started exercising and eating right, and worked hard.
+
+“And that's how I became the woman I am today.”
+
+Ren had stopped eating at some point while she talked, and had given her his full attention.
+
+“That's amazing.” Ren said. “You've accomplished so much in so short a time.”
+
+“Oh, it's nothing really.”
+
+Ren chuckled. “What did I say about underestimating yourself?”
+
+“That I shouldn't tell you about it?” Elise responded, and he laughed.
+
+“Yes, that was the lesson I wanted you to learn.” Ren said sarcastically, and it was her turn to laugh.
+
+*
+
+“I found it!” Detective Ramirez said, and went out into the hallway. “Holly! It's in here!”
+
+Officer Stonewall came out of the next room and walked over to him.
+
+“Hurry up!” He said, took her hand, and dragged her into the room. “I need you to hold the panel out, so I can get the crowbar wedged in.”
+
+Officer Stonewall didn't comment about him holding her hand like that, and he let her hand go and held up the crowbar.
+
+“You only need to get it away from the wall for a second.” Detective Ramirez said.
+
+“Why didn't you just pull it off completely?”
+
+“I can't get the leverage.” He said. “I'm going to use the crowbar to slowly work the whole panel off of the wall instead.”
+
+Officer Stonewall nodded, knelt on the floor and hooked the edge of the panel with her fingernail. She pried it out a little bit, got her fingers inside, and pulled. The detective quickly hooked the curved end of the crowbar into the opening she'd made and started to rock it back and forth. He got about halfway up the wall, and she didn't have to hold it out anymore. After a few more pulls by the crowbar, the whole panel popped off the wall. Detective Ramirez caught it and pushed it aside, and wasn't surprised at what he saw. The wall was dirty and stained, like any old basement wall would be; and at the bottom was the air exchange grate that had a bolt missing.
+
+“Would you like to do the honors?” Detective Ramirez asked his partner.
+
+“No.” Officer Stonewall said. “But I have to, because your hand isn't going to fit.”
+
+He smiled as she got to her knees and turned the remaining bolts. They came out easily, and she moved the grate out of the way. She looked into the hole, and saw something stuffed into the bend. She had to lay on the floor to get enough of her arm into the pipe to reach it. She got a hold of it and pulled it out of the hiding place.
+
+It was a big ball of paper.
+
+“What is it?” Detective Ramirez asked, and Officer Stonewall unwrapped it. Thankfully, it was still dry despite how long it had been in the basement. She wasn't sure if it was because all the vents were blocked off or what, but she was grateful for whatever had happened to keep it intact. She laid the several sheets of crumpled paper on the floor and flattened them as best as she could.
+
+“Oh, god.” Officer Stonewall said, as she read some of the words scrawled on the paper. Detective Ramirez knelt beside her, and picked up the top sheet.
+
+“I am going to have to thank that little genius.” He said, as he read about one of the experiments, and then the names of everyone that Ren had met, and had written down so if his mother ever asked him about them, he would know who they were. Officer Stonewall picked up the next sheet, and it was the best drawing of a group of people she'd ever seen.
+
+“There's no way a child drew this.” She said, and showed her partner the picture. Several people were in the drawing. He could clearly see Ren, with his mother and father on either side of him, and was surprised to see Mayor Danicot as he stood behind Ren with his hands on his shoulders. It looked like an artist's rendering of a photograph, only it was drawn in pencil. He didn't recognize several of the others right away, except for the blonde.
+
+“Oh, shit.” Detective Ramirez said.
+
+“What?”
+
+“Remember the blonde bombshell that I saw under Mayor Danicot's desk?”
+
+“Yeah.”
+
+“That's her holding the clipboard.”
+
+“No way!” Officer Stonewall said, and looked at the picture. “She definitely looks like what you described.”
+
+Detective Ramirez nodded. “Oh, it's her.” He said. “If they've been having an affair for this long...”
+
+“They'd do anything for each other.”
+
+“Yeah.” He said. “Like lie through their teeth to cover everything up.”
+
+Officer Stonewall flipped through the last few pages, and held in her gasp because she saw the tiny scrawl covered the front and back of each page. “It's almost like a journal.” She said. “He kept track of everything.”
+
+“Take pictures of everything, and put it back.”
+
+“WHAT?!?”
+
+“We need evidence of eventual discovery.”
+
+“That's not going to fly in court, John.”
+
+“I know.” He said and sighed. “Even if we could explain how we found it, it doesn't count as visual evidence.”
+
+“Screw that.” Officer Stonewall said. “Even if this can't be used to get a criminal conviction, it sure as hell will help with the current investigation, and can be used in court for civil suits!”
+
+“Why Holly, are you saying we should ignore the letter of the law?”
+
+“No, John.” She said. “I'm saying we should use it to the best of our ability, and use it as it was intended.”
+
+Detective Ramirez smiled. “Then I'm glad I brought evidence bags.” He said, and took them out for her.
+
+“You ass.” Officer Stonewall said, but she had a huge smile on her face.
+
+*
+
+Stella had come in and taken the bowls of half-eaten ice cream, and moved the rollaway table out of the way. “You've only got an hour left before you have to log back into the game.”
+
+Ren sighed. “Yeah, I've missed two whole game days already.”
+
+Elise took out her tablet and checked it. “You have a ton of time made up for your work with the giants and the Garrison.” She said. “If you keep to your 8 hour a day schedule at the mine, you'll finish about a week before you have to leave.”
+
+“Nice.” Ren said. “But, if I stay for an extra couple of hours each day, I should be back on schedule in no time... or even ahead of it if I'm lucky.”
+
+“You could just work for the Garrison.” Elise said. “That was a smart thing to add to your contract.”
+
+“I was tempted to add it to the standard contract when I was at the Main Keep; but, not everyone can work for the Garrison.” Ren said. “At least, not in the same capacity as I can.”
+
+“There's not a lot that anyone else can do in the same capacity as you.” Elise said and smiled.
+
+Ren was about to respond, when his room door opened.
+
+“Hi, everyone.” Barbara said.
+
+“Hi.” Ren said.
+
+“Hello.” Elise said.
+
+“Madam Barbara.” Stella said, and Barbara smiled.
+
+“You're starting on me early.”
+
+“Starting?” Stella said. “I never stopped.”
+
+Barbara chuckled. “How did everything go today?”
+
+That started the story of the adventure they had at the television studio, and about how they picked up clothes for Denise.
+
+“She complained about having to go through all the trouble; but oh boy, was she ever happy.” Ren said. “She's been dealing with clothes that didn't fit for years.” He shook his head. “I couldn't let her keep living like that, once I knew what she'd been going through all this time.”
+
+“We're supposed to be taking care of you, not the other way around.” Barbara said, and put a hand on his arm. “You're too kind.”
+
+“She bought me french fries afterwards.” Ren grinned. “It was totally worth it.”
+
+They all laughed.
+
+*
+
+Officer Stonewall had taken pictures of everything, and put each piece of paper into it's own evidence bag.
+
+“Now what do we do?” She asked as Detective Ramirez put the wall panel back into place.
+
+“We go about our business like nothing happened.”
+
+“WHAT?!?”
+
+“If anyone finds out we found anything, and here of all places, they'll take it from us and we won't get to do anything else to help.”
+
+Officer Stonewall sighed. “Then what...”
+
+“We're going to split the list of names, see how many are in that drawing, and see who and what they are. Both then and now.”
+
+“Should we send it to the FBI?”
+
+“Not yet.” Detective Ramirez said. “We don't know how far up these names go.”
+
+Officer Stonewall's eyes widened slightly, and he nodded.
+
+“Right.” He said. “Some of them could be in the FBI, either then or now.”
+
+“Oh, damn.” She said, and Detective Ramirez chuckled.
+
+“I thought that idea would send you into the realm of cursing.”
+
+“Not yet.” She said and smiled. “I'll save it for when we see who they are.”
+
+“Me, too.” Detective Ramirez said. “Mainly because I'm pretty sure I recognize one of the faces now.”
+
+“Who do you think it is?”
+
+“Senator Eddlemere.” He said, and smiled as his partner cursed.
+
+*
+
+Stella gathered up her things, gave Ren a hug, and said goodbye to everyone.
+
+“I'm looking forward to Saturday.” Ren said. “I can't wait to see the setup you have.”
+
+“You say that now.” Stella said and winked at him. “Let's see what you say after the first day of tests.”
+
+“I'm in capable hands, so everything should be fine.” Ren said. “Plus, Gloria will be there to stop you if you try anything too outrageous.” He said and laughed.
+
+“What if it's her idea?” Stella asked. Ren stopped laughing immediately and held his hands out to Barbara.
+
+“Save me!” He said, and Barbara laughed.
+
+“Geez, I'm just kidding.” Stella said. “I'll be by to pick you up first thing Saturday morning.”
+
+Stella left, and Ren talked with Barbara and Elise a bit more about the recording session, and how easy it was. It didn't take long before it came time for him to log back in. Barbara excused herself to go to the bathroom, and he turned to Elise.
+
+“Thanks a lot for having dinner with me tonight.” Ren said to her, and took her hand. “I know it wasn't what you would normally expect to have as a first dinner date...”
+
+“Of course it wasn't.” Elise said, and gave him a quick kiss. “Normally, it's some pretentious jerk who thinks that because I agreed to have dinner with him, he can ignore me and my feelings while we eat, and then expects me to sleep with him afterwards because he bought me dinner.”
+
+“Oh, wow.” Ren said. “That really is pretentious.”
+
+“Isn't it?” Elise grinned. “But, unlike them, you were attentive, kind, didn't call other people while we ate, or treat me like I'm only a nice piece of ass.”
+
+“What in the world could they be thinking?” Ren asked. “You're giving them the gift of spending time with them.” He shook his head. “How could they even think about ignoring you?”
+
+“I guess they're not as smart as you.” Elise said, and took his hand. “I have to get going, though.”
+
+“I thought so.” Ren said. “I hope you have a great night.”
+
+“I already did.” Elise said, and they kissed. “Thank you for dinner.”
+
+“You're welcome.” Ren said. “Are you available tomorrow night?” He asked. “I'd like to watch the next episode of the show with you, if you're free.”
+
+“I'd be happy to come by.” Elise said. “If I'm running late, I'll call.”
+
+Ren nodded. “See you tomorrow.” He said, and cupped the side of her face. “Goodnight.”
+
+“Goodnight.” Elise said, leaned in, and they kissed again. She started to lean away, and he held onto her. They continued to kiss; and a minute later when he let her go, they both had big smiles on their faces. Elise got up, went to the bathroom door, and knocked.
+
+“Thank you.” Elise said to Barbara, gave Ren a little wave, and left the room.
+
+“I'd like to add my own thanks to hers.” Ren said when Barbara came out of the bathroom. “Thanks, Barbara.”
+
+“You're welcome.” Barbara said and smiled. “But, I was actually using the bathroom.”
+
+“Oh.” Ren said, and then he laughed. “We thought... ha... you were giving us... ha ha... some alone time!”
+
+“I was the one that needed some alone time.” Barbara said, and Ren laughed harder. When he calmed down, Barbara gave him a set of pajamas to change into, because he still had his dress clothes on that he'd worn since noon. Once he was ready for bed, he climbed up onto it and settled back for another night of playing the game.
+
+“I might stay in overnight.” Ren said. “I have got to catch up on some sleep.”
+
+“I agree.” Barbara said. “I'm glad I came in early so I could spend this extra time with you.”
+
+“Me, too.” Ren said. “Don't worry, though. It won't be long before my sentence will be over and I'll get back to a normal schedule.”
+
+Barbara smiled. “A normal schedule? Really?”
+
+Ren laughed. “Okay, a regular schedule. How's that?”
+
+“More realistic.” She said and helped him put on the VR headset. “Have fun, dear.”
+
+“I will.” Ren said. “See you in the morning.”
+
+“I'll be here.” Barbara said.
+
+“Flow Login Start.”
+
+********

@@ -1,0 +1,477 @@
+---
+id: bf5e23d3-f77c-56a6-a0f6-338f9a23067d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 179 - You Did What?"
+slug: 0167-chapter-179-you-did-what
+partOf: mythrans-master-of-all-continued-completed
+position: 167
+ownLength: 5313
+unit: words
+publishedAt: 2017-02-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120387/chapter-179-you-did-what"
+royalRoadId: "120387"
+---
+
+Ren was halfway down the hallway when his dog Stacy whined at him, and felt her scolding him. He stopped walking and sighed.
+
+“Yes, I over-reacted.” Ren said, then knelt to face her. “I just don't like that she can push me aside so easily.” He said. Just like someone else I won't mention. He thought, and pat Stacy on the head.
+
+Stacy gave him a soft bark, and he nodded.
+
+“Okay, go back and guard her.” Ren said. “She can use you to keep her company, at least. I have a feeling she's going to need it.” He looked at Riley. “You, too.”
+
+Riley gave him a soft bark, and the two dogs turned around to run back to the apartment.
+
+“That was nice of you.” Teepo said.
+
+“They wouldn't have much to do, just sitting around and watching Princess, or sitting next to the mine.” Ren said as he stood up, then he kept walking down the hallway.
+
+*
+
+There was a heavy scratching on the apartment door, then some growling, and a shout. Nathalia ran to the door and opened it to see one of the guards on the floor with his arm trapped inside the mouth of one of the dogs, and the other guard with his sword raised to strike.
+
+“STOP!” Nathalia shouted at the guard. “What's going on out here?”
+
+“One of the dogs damaged the door, and I tried to push it away. The other one growled and attacked me.”
+
+“He didn't attack you.” Nathalia said. “His teeth would be out if that was true.” She said. “By the looks of things, he was defending his mate from you.”
+
+“Look! It damaged the door! I had to stop it!” The guard on the floor said.
+
+“Don't be stupid.” Nathalia said. “You should have just opened the door when you saw them coming back. The door wouldn't have been damaged at all.”
+
+The guard looked at her with indignation.
+
+“Riley, please let him go.” Nathalia asked, and Riley opened his mouth. She looked at the guard. “You're not even hurt, are you?”
+
+The guard didn't say anything, and Nathalia shook her head at him.
+
+“Even without his teeth, Riley could have easily crushed your arm.” Nathalia stepped aside and the two dogs entered the room. “Don't interfere with them again.” She shut the door on the guards' surprised faces. When she turned around, she saw Narhilda kneeling in front of the two dogs.
+
+“What does this mean?” Narhilda asked.
+
+“Isn't it obvious?” Nathalia said. “You hurt Ren, and he reacted; but he knows you're still going to need protection, even though he won't be coming back.”
+
+“But...” A tear came to her eye. “...if they are pieces of him, how will I forget about him, with them constantly by my side?”
+
+“Ever since Ren started living with us, he's always been by our side.” Nathalia said. “Are you really trying to forget about it all?” She shook her head. “How can you be so foolish?!?”
+
+*
+
+Ren was really tempted to run all the way, as it was taking so much time to get back to the Main Keep entrance. He kept his cool though, and walked at a brisk pace. He and Teepo made it to the entrance, then left the Main Keep. Since it was still pretty early, he ran as fast as he could back to the place where he was attacked by the group of assassins. He went into the underbrush and found the cart that was full of sand. He looked at the ground again, but there wasn't any more footprints since the last time he had been there, and he sighed.
+
+“I guess if you have a Scroll Mage that can identify everything, you wouldn't need any actual physical evidence.” Ren said, and modified the front of the cart so he could pull it instead of a horse. He checked the contents to make sure nothing was leaking out, then examined it closely to see how it was double-layered and reinforced. Ren dismissed the popup he received for discovering the plans for it, then got in position. He started to pull the cart, and felt the weight of it.
+
+“I think there a lot more than 1 ton of sand in this thing.” Ren enchanted the cart with a double glyph of Antidark (8 runes total) and pulled it through the city and out to his mine. The guard opened the gate for him, so he pulled the cart up the road and next to his small workshop. Ren's eyes widened as he had gained a couple of points in Strength when he stopped.
+
+I'm glad I didn't try and carry the thing. Ren thought. I wonder how much it weighs?
+
+“It doesn't matter.” Teepo said. “If you remember how much sand is in it, then when you refill it, you'll know how to keep gaining Strength.”
+
+Ren nodded, and went over to the mine foreman's office. He knocked, but there was no answer.
+
+“I better check in the medical tent.” Ren said, and ran down the road to the area beside the mine's entrance. There was nothing to knock on; but, the tent's flaps were open. He went inside and looked around. He didn't see anyone here, either.
+
+“Hello?” Ren said.
+
+He heard a gasp, and turned to the curtained-off area used for examinations. He saw the curtain bulge out, there was a clatter of a chair hitting the floor, and the healer fell out and onto the floor herself. Ren ran to her, lifted her head and shoulders, and knelt to rest her on his knees.
+
+“Are you all right?” He asked her, and she stared up at him in surprise. “Are you hurt?”
+
+She blinked a few times at him, but didn't say anything because she was frozen in shock. He looked her over, and realized something he'd missed in his rush to get to her. She wasn't wearing any clothing. Ren looked where the chair had fallen, and saw her pants, underwear, and long white tunic were on the floor beside it.
+
+“I'm sorry.” Ren said. “I didn't mean to interrupt while you were getting dressed.”
+
+She opened her mouth several times to speak, but nothing came out. She looked like a fish out of water, and he smiled.
+
+“Ma'am, it's okay.” He said. “Breathe. Relax.” He grinned. “It's no big deal. They may all be different, but I have seen breasts before.”
+
+The healer took a deep breath to compose herself, took another, and sighed. “Okay, I deserved that comment.”
+
+“I meant it as a joke, not as a critique of your bedside manner.” Ren chuckled. “Do you want me to get your clothes?”
+
+“No, I can get them.” She said, and Ren easily lifted her to her feet. She had been shocked by his sudden appearance, then surprised by his act of chivalry. The show of Strength made her catch her breath, however. She stood there and looked at him, and he smiled.
+
+“Ma'am? Clothes.”
+
+“Yes!” The healer said. “Clothes! Clothes are good!”
+
+Ren grinned as she had repeated the same phrase the day before, when he was nude in front of her. She turned around to gather up her clothes, and Ren couldn't help himself and admired her form. She picked up her underwear, then stepped into them to pull them up. For some reason, he really enjoyed it when a woman bent over like that. Ren stopped that thought in it's tracks, and turned his head away so she wouldn't catch him looking at her. He stood like that for a few minutes, and then the healer spoke.
+
+“You can look now.” She said with relief in her voice.
+
+Ren looked at her and saw she was completely dressed. “Why were you getting dressed in here?” He asked. “There should be a house here for you to use.”
+
+“A house!” The healer exclaimed. “I have to use one of the miner's rest tents!”
+
+Ren frowned. “That won't do at all.” He said. “I'll build you one behind this tent.”
+
+“Wh-what?”
+
+“I can't have a woman that works here, sleeping in some strange man's bed every night.”
+
+“I'm not sleeping with a stranger every night!”
+
+“That's not what I said!” Ren said, then took a deep breath. After a moment of silence, he spoke. “I meant, some man had slept in it the night before, and then you had to sleep in it.”
+
+“Oh.” The healer said. “That's okay. I'll get used to it.”
+
+Ren shook his head. “No, you won't.” He said. “You'll be sleeping in one of my comfy beds tonight.”
+
+“Is that your half-assed attempt at seducing me?” The healer laughed. “Because if it is, it's pretty bad.”
+
+“I'm not trying to seduce you.” Ren sighed. “All I am doing, is talking.”
+
+“You just invited me to sleep in your bed!”
+
+“No. I told you that you'd be sleeping in 'one of' my comfy beds.” Ren said. “I didn't say 'with me'.”
+
+The healer took a breath, and let it out. “I don't know why I'm jumping to conclusions with you like this.”
+
+“I do.” Teepo said. “Can you say 'trouble' with a capital 'T'?
+
+“It's kind of my fault.” Ren sighed. “I'm an Adventurer, and I acquired a recipe long ago that causes trouble.”
+
+“Really?” The healer asked. “Can you tell me about it?”
+
+“I'm sorry, I can't.” Ren said. “I've got 8 hours of work to do today.”
+
+“I can let you out of that.” She said and smiled. “You'll have to tell me about your adventures with trouble, though.”
+
+Ren shook his head. “I have a better idea.” He took out copies of his books. “Have you read these yet?”
+
+The healer shook her head. He handed the books to her, and smiled at her perplexed expression. “This should give you an insight into some of the trouble I've had.” He said. “I'm going to work now.”
+
+“Wait.” She said. “You need another inspection done.”
+
+Ren sighed. “We did one yesterday.”
+
+“Yes, and you left the mine compound, and were gone to the gods know where.” She said. “I have to inspect you again.”
+
+“It won't be another complete one.” Ren said, and she understood that he wasn't asking a question.
+
+“Yes, you can keep your underwear on.” The healer smiled, and stepped aside to hold the curtain open for him. He went into the area, and stored his clothing. She closed the curtain and started the inspection.
+
+“By the way, I wasn't getting changed.” She said as she walked around to check his back. “I was inspecting myself.”
+
+Ren frowned. “But... wouldn't you know where you've been?” He asked, as she poked his back in a few places, then felt the muscles.
+
+“I left the compound early this morning to get more supplies.” She said. “I got back about 10 minutes before you showed up. I can't enter the mine without checking myself, either.” She touched the back of his knee and he bent it.
+
+“Why is that?” Ren asked. “It just seems odd that...”
+
+She held out her arm, and showed Ren the Bracelet of Enforcement she wore, that matched his own. He had missed seeing it on her wrist earlier.
+
+“Who holds your contract?”
+
+“The head of the Medical Wing in the Main Keep.” She said. “She's a wonderful woman! She gave me the funds that I needed to complete my training and join the Guild.”
+
+“How long is your contract for?”
+
+“It was supposed to be for 10 years; but thanks to this job, it's only going to take me 4 years to pay her back!” The healer said. “Then I'll be free to do as I please. Bend your elbows.”
+
+“How much are you being paid to work here?” Ren asked as he bent his elbows.
+
+“15 gold a week!” She said, excitedly. “Normally we don't get paid when picked up to work for a House, mainly because we usually join the House when we do; but, since this is an independent operation, I can get an actual salary instead of working at a second job. With the tithe to my House, the head of the Medical Wing gets 10 gold a week from this!”
+
+Ren did the math in his head. “It cost you over 31 platinum to train and join the guild?” He asked, surprised it was so much.
+
+The healer laughed. “Of course not.” She said. “The early payment penalty fees, early contract termination fees, compounded interest, loss of interest payments over the time the contract should have been filled...” The healer shrugged. “It all adds up in the end. Wrists and fingers, please.”
+
+“If, by some miracle, you paid it off today... how much would it cost?” He asked, and flexed his fingers and turned his wrists.
+
+“I can't imagine that's even possible.” She said. “But, if I had to take a guess, I'd say nearly 40 platinum.”
+
+Ren nodded slightly, and she came around to his front. She massaged his chest muscles, just like she did yesterday, and moved on to his abdomen.
+
+“No distentions today, either.” She looked at him. “You must work really hard to keep this much muscle mass.”
+
+“You have no idea.” Ren said as she checked his arms and legs. “I just hauled a cart full of sand here from the city.”
+
+“That poor horse must be exhausted.” She said. “I didn't hear one, though.” She put a hand over her mouth and gasped. “Oh, no! Don't tell me it died from hauling such a heavy load!”
+
+“It's okay!” Ren said to calm her down, before she kept over-reacting. “There's no horse.” He chuckled. “I pulled the cart.”
+
+“You WHAT?!?” The healer exclaimed.
+
+“I pulled the cart. It's over by the blacksmith shop.” Ren said. “Can I get dressed now?”
+
+“Sure.” The healer nodded slightly. “You're cleared for work.”
+
+“Thank you.” Ren said, equipped his clothing, and left the tent. Since he had a bit of time before the work crew for his shift showed up, he went around to the back of the medical tent and took out his hammerpick.
+
+“Let's get to work.” Ren said, and cleared an amount of space for a small 2 room cottage, and set out the wood to build it. It took about an hour for him to make the walls and set them into place.
+
+“The work crew is here.” Teepo said.
+
+“Great.” Ren said. “I'll finish this at lunch.” He went over to the crew and followed them into the mine, then worked for another 4 hours. When they broke for lunch, he ran out to the entrance of the mine and then behind the medical tent. He had a small pitched roof built and filled in, then took out his icebox and had a quick lunch. He stored the icebox again, then made a nice comfy bed and put it in the bedroom.
+
+“Time.” Teepo said, and Ren left the cottage to run back into the mine. He did 3 hours, and got the relief and happiness feelings again.
+
+“Huh.” Ren said. “I'm done for the day.” He bid the workers a good day, and left the mine.
+
+“That's early.” Teepo said. “I only counted 7 hours.”
+
+“The bracelet must have counted the time I worked on the cottage this morning.” Ren said. “I think... as long as I'm doing work for the mine, it counts against my time.”
+
+“That's pretty neat.” Teepo said, and Ren went back to the cottage. He made a comfy couch, a chair, and a table for the living room, and a cabinet for the bedroom.
+
+“I think that's everything.” Ren said, then took out a coin pouch and put 45 platinum in it. He put it on the table, and left a note for the healer. He left the cottage and went around to the front of the medical tent. “Ma'am?” He said as he entered. She looked up from her desk and smiled at him.
+
+“You're leaving again, aren't you?” She asked, and he nodded. “I've got to go and check on my mount, to make sure she's okay.”
+
+“I'll have to examine you again in the morning.” The healer said.
+
+“Yeah, I know the drill now.” Ren said. “Your cottage is ready, too.”
+
+“What?”
+
+Ren waved her to come with him, and she followed him out of the tent and around to the back. She stopped and stared at the quaint little house he had built for her.
+
+“I didn't know what color you liked, so I just left the plain wood.” Ren said. “Let me know where you want the windows to go, and I'll install them tomorrow.”
+
+She stopped staring at the cottage, and turned to Ren. “How in the world did you make this today?”
+
+“I started it after you inspected me this morning.” He said. “While I waited for the other workers on my shift, I got the walls made. I worked on it some more during lunch, and just now finished the furniture.”
+
+“You made furniture, too?!?”
+
+“I told you before.” Ren smiled. “You'd be sleeping in one of my comfy beds tonight.” He said. “Of course, once I had the bed made, the rest of the place felt empty. So, I made a few other things.”
+
+“You... you...”
+
+“It's only 2 rooms.” Ren said. “Since you eat at the cafeteria like everyone else.”
+
+“I... I haven't seen you in there yet.” The healer said.
+
+“That's because I've been busy.” Ren chuckled. “By the way, I need to know your name so I can assign you as the occupant.”
+
+“Wh-what?”
+
+“I'm not making a pass at you, or trying to trick you into a relationship or anything.” Ren said. “I own this land. As the owner, I need your name to add it to your house.”
+
+The healer bit her lip for a moment, then sighed. “I can't believe I'm giving my name to you, even under these circumstances.” She said. “It's... it's Deresdra Tundraborn.”
+
+“Thank you, Ma'am.” Ren said, and assigned her as the occupant. She gasped as key formed around her neck, and he turned to her. “Enjoy your new place.” He motioned for her to enter the house, and he ran to his workshop beside the blacksmith shop. Ren took out the baby fire elemental's pen and put it on the workbench, added some more Spider Silk cloth, and a pile of normal cloth scraps. He opened up the forge and looked inside.
+
+“Hi!” Ren said. He took out the baby fire elemental and put it in the pen. “It's downright small now, isn't it?” He said to the 6 inch wide fire being. Ren added another paving stone, more bricks around the sides, and enchanted some of them to produce fire. “There. That's better.” Ren said, and added paving stones to the top. He left the workshop and ran down to the gate. The guard waved and opened it for him, and he took off down the road to go back to House Neram.
+
+*
+
+The healer Deresdra, stood and stared at her new house for several minutes, before opening the door. She went inside and admired the handiwork. She sat on the couch, and sighed. Her eyes widened as she remembered he said the bed was supposed to be comfy, and she ran to the bedroom to see a cabinet and a large bed with a blanket. She laid down on it, and practically moaned in pleasure.
+
+“Oh, he was so right!” Deresdra said, and rolled around on the bed. “I've never felt anything so comfortable.”
+
+She stopped moving and laid still for a few minutes, then sighed as she got out of bed. “I've still got a few hours left before I can relax for the night.” She left her bedroom and noticed a small white pouch on the table in the living room. She went to it, and saw that it sat on a note.
+
+Dear, Ma'am.
+
+I couldn't think of what to give you as a house-warming gift, so I hope this will be good enough.
+
+Deresdra smiled. He built me a house, and still wanted to give me a 'house-warming' gift. She shook her head in disbelief. He must have seen that I didn't have one of these. She thought, picked up the coin pouch, and noticed it was a little heavy. What a nice gift. It even matches my tunic! She equipped it and checked it's contents, then froze.
+
+“He DIDN'T!” She counted the contents again, even though she could clearly see the total, and shook her head again. “No... no no no!” She said, and ran out of her house and over to the blacksmith shop. Deresdra opened the door to Ren's workshop, but he wasn't there. She ran down to the gate and stopped at the guard.
+
+“He...” *huff* *huff* “He... left already, didn't he?” *huff*
+
+The guard nodded slightly. “You just missed him.” He said. “Was I supposed to keep him here?”
+
+She shook her head. “No, I just wanted to talk to him.” She said as she finally caught her breath. “I'll see him in the morning. Thank you.”
+
+“No problem.” The guard said. “Have a good day.”
+
+Deresdra walked back up the road to the medical tent to take up her station for the rest of her shift.
+
+“I can't be indebted to him!” She said to herself. “If he makes me sign an indentured servant contract because of this... I... I don't know what I'll do!”
+
+*
+
+Ren ran to House Neram Keep, and up to his old workshop. He greeted the women working there, pat Ruck, and went into the forge room. He still had several hours left before supper, so he helped Tee-one make bows, and took the bolts Tee-one had made for the Ballista. Ren took it out and filled the 100 bolt cartridge, re-installed it, then stored it again. He leveled up his Bow Making and Arrow Making skills to Beginner Level 4, and then it was suppertime.
+
+Ren took out the icebox and helped himself to some more food, and stored it again. He bid Tee-one a goodnight, and left the workshop. He ran down to the house, greeted the guards, and went into the stable.
+
+“Hi, Princess.”
+
+...hello...
+
+Ren opened her stat window, and saw she had leveled up several times from all of the XP he'd gained from the encounter with the spiders.
+
+“Let's allocate your points.” Ren said, and she told him to spend them all in Intelligence. “I don't think that's a good idea.” He said. “Only being intelligent isn't going to help you much by itself. I think you need to spend some points in Wisdom. It's a stat that shouldn't be ignored if you're trying to get smarter.”
+
+...agreed...
+
+Ren split the points between the two stats. “How's that?” He asked. “Do you feel any different?”
+
+...I do. Thank you...
+
+“Yeah, I think that's much better.” Ren said, and smiled. “Are you being fed well?”
+
+...I am. Thank you...
+
+“I'm glad.” He said. “Goodnight, Princess.”
+
+...Goodnight...
+
+Ren left her and went into the house. I might as well check my stats after those gains.
+
+Status
+
+Name  Ren  Level  31
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  405,590 (Lord)  Honor  57,825 (Prestigious)
+
+Titles
+
+Blacksmith  Grants 5 level bonus to Blacksmithing Skills
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Health  1048  Mana  1265
+
+Strength  175  Dexterity  97
+
+Vitality  105  Agility  93
+
+Endurance  101  Intelligence  138
+
+Luck  39  Wisdom  143
+
+I'm really getting up there. He thought as he sat down on the couch in the main room, and leaned back. I'll be gone for a few hours at least, Teepo. Ren thought.
+
+“Have fun.” Teepo said. “See you when you get back.”
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Bonnie greeted him.
+
+“Hey, you.” She said. “Are you having fun digging around in the dirt?”
+
+“It's a ball!” Ren said. “You don't realize how much work goes into making something, until you have to make it safe for other people to use.”
+
+“I know.” Bonnie said. “Nurses do it every day.”
+
+Ren looked at her, and he smiled. “Hey, you do!” He said. “I just take you all for granted, don't I?”
+
+Bonnie laughed. “It's our job to be as unobtrusive and helpful as possible.” She said. “You shouldn't see how much work we do, as it defeats the purpose of doing the work in the first place.”
+
+“That doesn't really make sense.”
+
+Bonnie laughed again. “Think about it.” She picked up the bedpan beside the bed. “If you knew that after every time you used this, it had to be scrubbed for 10 minutes by hand, then sterilized for another 3 to 5 minutes in a machine that costs tens of thousands of dollars, would you have used it as many times as you have?”
+
+Ren blinked at her a few times, then shook his head. “Does it really take that much work?”
+
+Bonnie smiled. “Yes, but you aren't supposed to know that.”
+
+He looked around the room at everything. “You all do a lot of prep work beforehand, don't you?”
+
+“Of course.” Bonnie said. “Patients are supposed to be relaxed, and not have to worry about anything while they are being taken care of.”
+
+Ren sighed. “I knew I was kind of spoiled by all the attention you all gave to me, but I didn't realize...”
+
+Bonnie put a hand on his arm. “That's the point.” She said. “You aren't supposed to.” She smiled. “Live your life and have fun. We'll worry about all the details.”
+
+Ren covered her hand with his. “Thanks.”
+
+“You better get up and get changed.” She said. “I don't want to take the chance of you getting food on your nice new pajamas.”
+
+“I ate supper yesterday with them on.” Ren said as he slid out of bed.
+
+“Plain white rice, and a supplement drink.” She said. “I'm surprised the little grains didn't go everywhere.”
+
+Ren snorted a laugh and walked to his dresser. “Even with one good arm, I can still use a spoon without spilling things.”
+
+“I don't see how.” Bonnie smirked a smile. “I spill them all the time when I eat them.”
+
+“Maybe you should do my therapy session today.” Ren said. “It sounds like you need it more than I do.”
+
+Bonnie laughed as Ren took the top outfit. He looked at the long sleeved t-shirt and sighed.
+
+“Damn, long sleeves again.”
+
+“I'll give you a hand putting it on.”
+
+“I better use the bathroom first.” Ren said, took the jogging pants, and went to clean himself up. He came out a few minutes later with the pajamas on his arm. “I think Stella hung the other ones up.”
+
+Bonnie took them from him and opened the cabinet beside the dresser, and she saw 6 other sets of pajamas.
+
+“Oh, my.” Bonnie said, and hung up the red ones. “Stella said you had new pajamas, but she didn't say you had all of these.”
+
+“I got them all at the same time yesterday.” Ren said, and picked up the long sleeved t-shirt. “Give me a hand.”
+
+Bonnie helped him put it on, and he grunted as his elbow slipped into the hole.
+
+“I can't wait to get the use of this arm back.” Ren said, and slipped the sling back over his elbow.
+
+“It's only a couple more weeks.” Bonnie said. “And you'll feel right as rain.”
+
+Ren climbed back into bed, and Bonnie served him breakfast. The homemade hash browns were all perfectly square and identical in size, and the low salt sausages were evenly grilled. The toast was covered in salt free butter; but, they were soft and easy to chew.
+
+“Thank you for the meal.” Ren said, when he was done eating.
+
+“No complaining about the lack of salt?” Bonnie asked.
+
+Ren shook his head. “Nope. Stella told me I got more than my monthly dose of salt yesterday.”
+
+Bonnie snorted a laugh. “Four helpings of Endless Fries.” She shook her head. “The most I've ever eaten is two.”
+
+“I bet you wasted space with a burger or something.” Ren said, and grinned. “All I had was fries. Coated in gravy. Then more fries.” He took in a deep breath, then licked his lips. “I can almost taste them.”
+
+Bonnie laughed. “Come on, you gravy nut.” She helped him get in the wheelchair to go to therapy. “You've got a workout to get to.”
+
+She took him to therapy and Ren did his normal routine. When he was done, he relaxed at the side of the room and drank another supplement. Bonnie came in to get him, and another nurse ran in after her.
+
+“Hey, everyone!” The other nurse said. “You have got to see this!”
+
+She grabbed the remote to turn on the television mounted in the corner, and changed the channel to a familiar one.
+
+*
+
+“That's right, folks! The very first television show based on footage from the virtual reality game called F.L.O.W., or Fantasy Life Online World, will air tonight at 7 o'clock. It must be good, because it's already been picked up for a full season!” The announcer said, then he took a breath. “Thanks to our partnership with the production company, we now have a teaser trailer to show you. This is a News 8 exclusive, so enjoy!”
+
+A short 30 second trailer played, and the catchy music playing in the background added to the excitement. Ren saw himself picking herbs in the forest outside the starter city, then wolves approached through the trees. He saw them attack, then he tried to fight. He didn't remember stepping on one of the paws, making the wolf yelp, and he didn't remember elbowing another in the snout... but, so much had happened in so short a time that he didn't remember a lot of what had happened. They tore at his clothing and scratched him, and he hadn't realized how close he had come to dying several times. Two of the wolves lunged at him at the same time, but he slipped and they smashed into each other instead of him. He got away after that, and saw the part he remembered well. He watched himself fleeing out into the open and screaming 'Why me?'. The nurse who had turned on the television laughed.
+
+“There you go folks! A quick teaser to whet your appetite. Tune in tonight at 7pm for the full half hour show called Master Of All, Jack Of None.”
+
+*
+
+The therapist looked at him with surprise on her face, as the nurse turned off the television and looked at them. “Isn't that something?” She asked, then looked at Ren. “We've got a real live television star on our hands!”
+
+Ren finished his supplement and put the cup down, then his eyes widened as he heard something he never thought he'd ever hear.
+
+“Say...” The nurse said. “...can I have your autograph?”

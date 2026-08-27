@@ -1,0 +1,307 @@
+---
+id: ded7145b-2020-5df6-a552-6a933f956332
+page-type-slug: story-chapter-royal-road
+title: "Chapter 487 - I Am Helping"
+slug: 0487-chapter-487-i-am-helping
+partOf: mythrans-master-of-all-continued-completed
+position: 487
+ownLength: 3584
+unit: words
+publishedAt: 2018-01-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187926/chapter-487-i-am-helping"
+royalRoadId: "187926"
+---
+
+“I'm sorry.” Ren said. “I remembered that you didn't like being picked up and swung around, so I gave you a kiss on the cheek instead.” He sighed. “I forgot about what happens when I touch someone who's Ghoul Kissed.”
+
+“Wh-what... wait, you claimed me just by kissing my cheek?” Kalyn asked, surprised.
+
+“I healed you completely as well.” Ren said, and he felt the ripple of surprise go through the room. “I came up here to tell you all about it.”
+
+“Then please, go ahead.” Gaelira said as she came over and sat on the closest bed, and all chatter stopped so everyone could listen.
+
+“Okay.” Ren said, and gave them his impassioned speech about not being welcome home, about how he accepts them all equally, and that he was making them a place to live. He then gave them the option for instant healing, with the warning that they would become his vassals and part of his domain.
+
+“Are you for real?” Gaelira asked. “You're really going to take care of us, even if we don't take your instant healing and become your vassals?”
+
+“Yes.”
+
+“Then I'll gladly accept.” Gaelira said and stood up, and pointed to her cheek. “I'll serve you truly and completely, as is my station.” She said, and Ren leaned in to kiss her on the cheek. She waited until the last second and turned to kiss him on the lips. She gasped into his mouth as she was healed instantly and felt a slight burning on her chest.
+
+“Thank you, My Lord.” Gaelira said and ducked her head.
+
+“No, don't do that.” Ren said and put a hand under her chin to make her look at him. She stared at him in surprise, and he smiled. “No one is to duck their heads in my presence.” He commanded, and he felt the ripple of his order cover everyone, and he felt happiness from everyone in return. He let her chin go and turned to Kalyn. “My Lady, please accept my apologies for not giving you the choice first.”
+
+“I sincerely accept your apology.” Kalyn said and smiled. “Is it okay to choose after the fact?” She asked. “Just like Gaelira, I'll serve you truly and completely, as is my station.” She pointed to her cheek like Gaelira did, and that made Ren laugh.
+
+“I'll skip the pretense, if that's okay.” Ren said.
+
+Kalyn giggled and nodded slightly, and he gave her a quick kiss on the lips.
+
+“Now that my mistake is forgiven, I ask the same of all of you.” Ren felt outrage from nearly all of the male elflings, and quite a lot of desire from the female elflings. He held his hands up in surrender to make sure he had everyone's attention. “I meant shaking my hand and accepting my offer for instant healing and becoming a part of my domain.” He grinned. “I did not mean giving you all a kiss on the lips.”
+
+Ren almost laughed at the relief he felt from the male elflings that had been outraged, and the disappointment from most of the females. They all started to stand up, and he waved them all to lay back down.
+
+“Easy, now. I'll come to you.” Ren said and started to walk around to all of the elflings. The first dozen males shook his hand and caught their breath as they were healed instantly and received the popup for becoming a vassal. When Ren reached the first female, her face flushed red and she held a hand out.
+
+“M'lady, if you would like a kiss instead, please say so.” Ren said. He could see the thoughts flicker across her face, and she looked around at the other elflings. “Don't let what others think change what you decide.” He said. “Unless you're married or are with someone, then their opinion does matter.”
+
+“N-no, I... I've been alone...” She said nervously, and Ren smiled reassuringly and disconnected his Fear Aura from his other active Auras. She sighed and relaxed, and Ren sat on the bed.
+
+“I should have disconnected that before coming in here.”
+
+She chuckled. “Even with it active, we all readily accepted your offer.”
+
+“Then M'lady, what is your pleasure?”
+
+“A... a kiss.” She said and her face went red. “Please.”
+
+“It's just a kiss, not a promise or a pact or anything.” Ren said.
+
+“Yes, I... I can't serve well, and that's... that's why I was...”
+
+“Shh.” Ren said. “You will have your own house if you want, or apartment, or even live in a spire.”
+
+She gasped, as did everyone around them.
+
+“No restrictions are going to be held in the city for living arrangements.” Ren said.
+
+“But... the wall...”
+
+“I'll have the wall built; but, it won't be the outer defensive wall.” Ren smiled, and he felt their relief. “You will no longer be in danger of being the first to die if the wall is breached.”
+
+She sighed happily, and her hands touched his platinum armor. “M'lord, can you hold me in your arms?”
+
+Ren equipped his High Elven Court Uniform, and he felt their surprise at it's sudden appearance and then at it's high quality and Durability. He slid his hands under her to hold her, and felt her immediate pain; so, he changed the position of his hands and picked her up in a princess carry. She put her arms around his neck and looked at him with wide eyes.
+
+“May I kiss you, M'lady?” Ren asked formally, and she nodded several times. He gave her a kiss on the lips, and she gasped into his mouth as she was healed instantly. Her arms tightened around his neck and she held on and kissed him enthusiastically for several minutes. He felt her emotions even out and she broke the kiss, a little breathless.
+
+“Thank you, My Lord.” She said in a strong voice, and Ren stood her on her feet.
+
+“You are quite welcome, M'lady.” Ren said and gave her a slight bow. “...and thank you.”
+
+Her face went red again, and she nodded slightly to acknowledge that she knew he was thanking her for the kiss. Ren turned to the next bed and saw that the female elfling there was practically salivating at the thought of getting a kiss from him.
+
+“I'm setting a dangerous precedent here, aren't I?” Ren asked out loud, and several of the female elflings laughed while a bunch of others nodded.
+
+“I'm too hurt to... to pick up.” She said. “Can you... just lean over me?”
+
+“Of course, M'lady.” Ren said and sat on the edge of her bed, then leaned down and braced an arm on the other side of the bed. “Like this?”
+
+“Y-yes.” She said and stared at the handsome man above her. “It... it's just like... a dream.”
+
+Ren felt her doubt, and tilted his head. “What's different from your dream?”
+
+“Your hair.” She said. “It should be black.”
+
+“Just a moment.” Ren said and took out the Disguise wand the skeletons hadn't needed anymore. “Is keeping it fluffy okay?” He asked her, and she nodded slightly, and used a Disguise spell to change his hair black. He felt her desire spike, stored the wand and leaned back over her.
+
+“Great Vasalor.” She whispered, and Ren kissed her. She gasped into his mouth when she was healed instantly and because her dream had become real. She moaned as she put her arms around his neck and kissed her dream man, and Ren kissed her back to fulfill her fantasy. It made him happy to make her dream come true and he felt her getting close to finishing; but, he also felt he was missing something because he knew she needed one little push. He used his Emotion Siphon ability to touch her and used it to tickle her insides.
+
+“Oh! OH!” She yelled as she broke the kiss and finished. She panted heavily for a few moments, and Ren stopped using his ability. “You... share...” She managed to say.
+
+“But...”
+
+“Please.”
+
+Ren nodded and absorbed some of her passion and some of her satisfaction; and he felt her shiver on the bed. He then felt something click inside of her, and she took in a huge breath as she gained the Emotion Siphon ability.
+
+“What... oh, Great Vasalor!” She exclaimed. “What is this?” She asked. “I... I'm only... I should only feel emotions, not consume them!”
+
+“It's an upgrade, apparently.” Ren said. “Becoming my vassal gives you a connection to me.” He touched her face. “I gained my ability in almost the same way.” He turned his hand around and showed her the spider mark. “I had been feeling other's emotions for a long time when I gained this, and then received the Emotion Siphon ability.” He moved his hand and touched the spot above her heart where the mark was. “You gained this mark and when I claimed it, you gained the Emotion Siphon ability.”
+
+“My Lord, I...” She looked around at the other elflings. “I... I can't... I don't want...”
+
+“It's okay.” Ren said. “You don't have to feed on anyone else.” He build up a small reservoir of emotions. “Only on me.” He said and kissed her.
+
+“Mmm!” She moaned as he trickled the emotions into her and filled her ability. It leveled up and her entire body twitched. “Mm! Hm Mm!” She tried to let him go so she could adjust; but, he kept kissing her and poured more emotions into her. “HMMM!”
+
+Ren ignored her protest and kept pouring more and more emotions into her. He leveled her ability again, and she stopped trying to fight him, now that she realized what he was doing. He broke the kiss and looked at her to see that she had a kind of glazed look in her eyes, and he smiled.
+
+“You understand.” Ren said, and she nodded.
+
+“Y-yes, My Lord.” She smiled. “Now give me more.” She said and pulled him back down for another kiss.
+
+*
+
+“Geez, what's taking him so long?” Elerlyth asked as she stared up at the tunnel that went straight up to the surface.
+
+“As far as I could tell, he was horrified at the knowledge that the High Elves convert to ghouls after being infected.” The healer said. “Instead of the majority of them dying, that is.”
+
+“Oh, damn.” Elerlyth said. “We just delivered 1,200 or so ghouls to the healers in the human kingdom, and left about 350 injured at the last walled city.”
+
+“Yes, that would be horrifying.” The healer said. “Imagine how quickly the horde would grow with almost no loss and no eating.”
+
+Elerlyth shook her head. “He should have taken me with him.”
+
+“Are you a healer?” The healer asked.
+
+“No.” Elerlyth said and sighed.
+
+“Then you would have been in the way.” The healer said.
+
+“I could still help!”
+
+“By standing there like you are standing here?” The healer asked.
+
+“What... what if he's attacked?”
+
+“He will deal with it.” The healer said. “He is quite capable.”
+
+“But...”
+
+“You are nervous that he doesn't need your help in battle?” The healer asked, and Elerlyth didn't say anything. She knew she didn't have to, because the healer could feel her emotions just as much as Elerlyth could feel hers.
+
+“You can have some, if you wish.” The healer said.
+
+“Wh-what?”
+
+“You can feel how much I adore him.” The healer said. “You have my permission to taste it.”
+
+Elerlyth reached a hand out and let it hover above the healer's hand.
+
+“Don't be such a child.” The healer said and took her hand to put it on her neck. “You can't truly feed from me, because that's only for Ren.”
+
+“I... I know.” Elerlyth said, because she could feel it was the truth. She opened her ability to taste the healer's emotions, and gasped as she found the deep well of affection the healer had for Ren.
+
+“Isn't it wonderful?” The healer asked as Elerlyth's ability waded into the well, then it came back out with a satisfied feeling. “Who would have thought he could bring out such feelings in someone like me?”
+
+“S-someone like you?”
+
+“I was discarded by the High Elves, and I hate them with a passion that is only matched by the Queen.” The healer said. “It ate me up inside and I knew nothing but hatred for so many years.” She smiled. “Then I met Ren on that fateful day he came to give My Queen a small feeding.”
+
+“When she broke his arms.” Elerlyth said.
+
+“It was an accident; but, it was also horrible.” The healer said. “I only saw him as another patient, and then I felt him.” She said. “His emotions were so raw... and so powerful. I wanted to taste him then, but... he was hurt and I had a job to do. When I was done, he gave me this.”
+
+The healer took out the Mana potion Ren had given her, and it glowed for a moment. The healer was engulfed with a soft glow and Elerlyth felt her being restored, both emotionally and physically.
+
+“How did you do that?”
+
+“It's an innate ability.” The healer said. “I couldn't believe he would give me such a wonderful gift.” She said and stored it again. “I... I started to change after that.” She looked at Elerlyth, then averted her gaze. “I started to care again. For myself, and for others. Being a healer was no longer a job for me, but a way to live.” She looked up at the tunnel. “The next time we met... oh, that was something.”
+
+Elerlyth felt the wellspring of emotions from the healer, and remembered her own meeting with Ren after that. The healer turned and looked at her.
+
+“You shared with him, too?” The healer asked, and Elerlyth nodded. “I didn't realize I helped you like that as well.”
+
+Elerlyth didn't deny it, because she couldn't. Ren discovering that they could share in a loop definitely had helped her that day.
+
+“That makes me even happier about what happened that day.” The healer said and looked back up at the tunnel. “He was so grateful and happy to make me happy.”
+
+“He... always is.” Elerlyth said and looked up at the tunnel, too.
+
+*
+
+The Queen of the Dark Elves had dismissed her War Council just after the healer disappeared through the portal. The Dark Elf Lords left the room quickly, because they knew that the Queen would not hear any more from them until she knew if the Royal Consort had forgiven her for the attack.
+
+Lylyth gasped as she felt horror from Ren and put a hand over her heart as she stumbled into the table. She caught herself before she fell, then she felt his urgency. Unlike the others, Ren didn't try to cut her off from feeling his emotions. She walked over to a chair and sat down, and closed her eyes to ride his emotions. She gasped as relief flooded through him a few moments later, and then urgency again.
+
+What is he doing? Lylyth asked herself as his emotions evened out. For the next few minutes, it was just a low hum and she thought it was over... then pain lanced through her as it did through him.
+
+“AggHHH!” Lylyth screamed and hugged herself as she bent over from the pain. She was covered in a pitch black glow and looked at herself. Some of the webs on her skin faded and disappeared, and she thought she was losing her regained powers; then she felt a sharp pain on her chest where the mark was, and the pain and the glow faded. A moment later, the webs on her skin grew back and she sighed.
+
+“Wh-what... what is happening to me?” Lylyth asked, then pulled down her top to look at her chest. The spider image above her breast now had a skull mark on it, just like Ren's did. Lylyth didn't feel anything new from Ren for several minutes, then she started getting hints of amusement, pleasure, and a need to do a task.
+
+“I am going to have a talk with that man.” Lylyth said and stood up. It happened much quicker than it normally did, and she was a little surprised that she felt somewhat stronger. “Ren, what did you do?”
+
+*
+
+Ren had finished with the elfling and leveled her up several times, and gave his word that he would be back to feed her again. He then went around the ward and shook hands with all the male elflings. He then kissed the female elflings that wanted it, and made sure that they weren't involved with anyone first. A lot of them were, and they were sad that he would only kiss them on the cheek; but, all of them respected his decision and that he kept his word.
+
+“I'll have a place ready for you all soon.” Ren said and walked back over to the door of the ward.
+
+“When will you be back?” One of them asked.
+
+“Perhaps tomorrow or tomorrow night.” Ren said. “It depends on if I can find more people to heal.”
+
+“We'll be waiting.” Kalyn said happily. “See you soon, My Lord.”
+
+Ren nodded to her and left the ward and went downstairs to the healer. “Thank you.” He said to her. “Thanks a lot.”
+
+The healer chuckled. “I knew that would make you happy.”
+
+“What took so long, anyway?” The healer's assistant asked. “I thought you healed instantly.”
+
+“I do, but...” Ren's face flushed a little red. “I kind of kissed a couple of them, and they thought that was how I healed.”
+
+Both women laughed. “How did you 'kind of' kiss them?” They asked at the same time, and that made them laugh harder.
+
+“I kissed one on the cheek, then the next kissed me on the lips.” Ren said. “When they healed... well...”
+
+“I see.” The healer said. “I bet the men weren't too happy.”
+
+“Not at all.” Ren said and grinned.
+
+The healer shook her head. “Does trouble follow you everywhere?”
+
+“Yep.” Ren said. “I've asked to have it removed, or at least restrained; but, my request was flatly denied.”
+
+The healer laughed. “You better get out of here and take it with you, then.”
+
+“Yes, ma'am.” Ren said. “Do you need any more money?”
+
+“No, dear boy.” The healer said. “The money you've given us already will last a long time.”
+
+Ren walked over to her. “Ma'am? Why are you trying to distance yourself by insulting me?”
+
+“Wh-what?”
+
+“I can feel your emotions, and you suspected that calling me 'boy' would hurt me.” Ren said. “Why?”
+
+“I...” The healer's face went red and she looked away from him. “I didn't mean to insult you.”
+
+“Ma'am, lies cause me pain.” Ren said. “Please, tell the truth.”
+
+“N-no.” She said and shook her head.
+
+Ren looked at her assistant. “Do you know why she's trying to push me away?”
+
+“Well, if I had to take a guess...”
+
+“Quiet!” The healer said.
+
+“...she wants another kiss, since you're giving them out so freely.”
+
+“You are so grounded!” The healer said.
+
+Her assistant, who was also her daughter, laughed. “I never go outside anyways.”
+
+“Ma'am, it's okay to want things, and you don't have to distance yourself.” Ren said as he deactivated all of his Auras, and she relaxed. “Now that I know, I'll stay out of your way.”
+
+“It's not that.” The healer said. “I'm angry at myself for...” She looked at her daughter. “...I shouldn't be thinking these things.”
+
+Ren chuckled, and the healer turned around and looked at him.
+
+“What's funny?”
+
+“I have someone in my Adventurer life that... if I had to take a guess, is actually about your age.” Ren said.
+
+“And?”
+
+“She's just as playful with her husband as I am with the women in my life.” Ren said, and then smiled as he remembered Barbara and Donald playing in the pool. “Ha... she really is.”
+
+“But...”
+
+“Before you get upset, I'm not volunteering for anything.” Ren said “I'm just saying it's okay to think about, and want, those kinds of things.”
+
+The healer sighed. “I can't stop thinking about that kiss.”
+
+“Well, that's kind of my fault.” Ren said and smiled crookedly. “I knew you were a bit nervous about doing it, and I wanted you to enjoy it.”
+
+The healer blinked her eyes a few times.
+
+“I told Princess Diana that you conveyed her feelings quite well.” Ren said, and her face flushed red again. “If it makes you feel any better, she was jealous that I kissed you and not your daughter.”
+
+“Wh-what?!?” The healer was shocked to hear those words. “Th-the p-princess was j-jealous of m-me?”
+
+“She wasn't happy that I kissed an experienced woman.” Ren admitted. “So, she wanted another kiss from me.”
+
+“B-but... I'm...” The healer looked down, and Ren reached up and stopped her from averting her gaze.
+
+“Your kiss made the princess jealous, ma'am.” Ren said, and a tear came to the woman's eye.
+
+“Th-thank you, My Lord.”
+
+“No, M'lady.” Ren said and took her hand. “Thank you.” He gently kissed the back of it. “Thank you for all your hard work, for your diligence in healing those not even of the same race...” He smiled wickedly at her. “...and for a wonderful kiss.”
+
+The healer's face burned red at the last statement, and Ren felt her embarrassment mixed with gratitude.

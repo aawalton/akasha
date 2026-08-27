@@ -1,0 +1,251 @@
+---
+id: c34f2ddb-1275-5554-806f-6c2ce2803a88
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77 Proof"
+slug: 0082-chapter-77-proof
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 82
+ownLength: 2517
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3530548/chapter-77-proof"
+royalRoadId: "3530548"
+---
+
+“Dorian, we have much to discuss regarding the weapon Harlon and Joren have been making.”
+
+Dorian’s eyes narrowed slightly at Lucien’s words before he gave a slow nod. “I have heard talk of it from the men. That hunter of yours was seen shooting one two weeks ago as well.”
+
+“Yes. We asked Sera because she is our most proficient archer.”
+
+The captain's gaze shifted in the direction of the palisade walls. “But if only a skilled archer can use it, it will not serve many of the men.”
+
+Lucien shook his head. “We needed someone skilled for the tests. The weapon itself is relatively simple to use, far more so than the training required for the longbow.”
+
+Dorian considered that for a moment. “How many have been produced so far?”
+
+“Five pieces. Three are fully finished,” Lucien replied, adding with a dry tone, “though two still require further adjustments before Joren is willing to consider them done.”
+
+The corner of Dorian's mouth twitched though it disappeared just as quickly. “The smith and the carpenter do good work.”
+
+Lucien’s finger tapped lightly against the desk. “Even so, I requested that all five be ready for a demonstration tomorrow. This time, the militia will be the one testing them.”
+
+At those words, a crease formed in the captain’s brow. “The militia? Not the guards?”
+
+Lucien gave a small nod before elaborating. “The guards are already trained for close combat. While the crossbow can be taught to them easily enough, it would primarily serve the militia.”
+
+“It can be learned that easily?”
+
+It was the closest thing to skepticism Lucien had heard from his guard captain.
+
+“That was the reason we had them made in the first place. There are drawbacks, of course, but you can see that for yourself tomorrow.”
+
+Dorian remained silent for a moment, his expression thoughtful. “At close range, against beasts, I can see the value...but giving such weapons to men with little training carries its own risks.”
+
+His gaze met Lucien’s. “Militia panic. They hesitate and forget drills when fear takes them. A weapon may be simple to fire, but that does not make the man holding it steady.”
+
+“That is precisely why we have to test it now, to see if it would be of use to the militia before we increase production, Dorian.”
+
+After a brief pause, the captain inclined his head. “As you command, My Lord. I will choose the men.”
+
+Tomorrow morning would be the first true test of the crossbow beyond the controlled trials of the past few weeks.
+
+Lucien steepled his fingers as he moved to the next matter. “I will also be heading to the ridge outpost soon to see it for myself. I will need you to have an escort prepared.”
+
+Dorian’s expression tightened slightly. “My Lord, you intend to go there personally?”
+
+At his nod, the captain said nothing at first. His gaze shifted toward the window, toward the western palisade beyond it, as though already examining every possible risk between Ashridge and the outpost.
+
+“It is a shorter journey than Helvarn...but the road to the ridge is still being worked on, and the terrain beyond it remains rough after winter.”
+
+Lucien’s brow lifted faintly at the unusual insistence in his captain’s tone. Dorian had not shown the same concern during the rescue at Cragwatch.
+
+The captain exhaled through his nose. “Winter may be over, but there are still greater threats to consider. An enemy you can see can be prepared for. It is what waits where no one is watching that concerns me.”
+
+The implication between them remained unspoken.
+
+Orcs. Or worse.
+
+“Have there been any reports of wandering beasts?” Lucien asked after a moment's consideration.
+
+A hint of tension touched Dorian's jaw, though he shook his head firmly. “No. We have heard no word of it. But that does not mean there are none. The lands around Ashridge remain wild and uncertain.”
+
+That was the heart of the matter.
+
+With the Tithes, at least danger came with certainty. They knew an attack would come, and they prepared for it.
+
+During the ordinary months, however, uncertainty itself became the greater threat, and the man before him had always hated that far more than any visible enemy.
+
+The captain’s gaze lingered on him for a brief moment before shifting toward the window again. “If it is only for inspection, I could go in your place.”
+
+“There would be no need for you to make the trip yourself.”
+
+Lucien’s brow lifted faintly. “If you go in my place, the only report I will receive will concern the walls, the stores, and how many men can hold a gate. Useful, certainly, but not the reason I am going.”
+
+The tension in his captain eased slightly, and Dorian let out a short breath through his nose that was almost amusement.
+
+Lucien continued before the moment could settle. “Besides, I will be bringing Sera as well. With her tracking, we should be able to avoid danger long before it reaches us.”
+
+That caused the man before him to stiffen again, though for an entirely different reason.
+
+Dorian had never openly questioned Sera’s presence, but neither had he ever looked entirely at ease around her. He respected her usefulness, that much was clear, though trust was another matter.
+
+“With her...” he said at last, the words carrying visible reluctance. “Yes, I suppose there is no better choice for that.”
+
+Knowing further argument would be futile, the captain gave a short nod. “I will have the guards ready when you decide to leave, My Lord.”
+
+Lucien inclined his head before speaking again. “Prepare yourself as well. It will not be immediate, but I will be traveling to Helvarn during late spring. You will be escorting me for that one.”
+
+Dorian bowed his head once in acknowledgment.
+
+“As you command, My Lord.”
+
+With that, he rose from his chair and turned toward the door. The study fell silent again as the door closed behind him.
+
+Lucien's gaze rested on the cup beside him though his thoughts had already moved elsewhere.
+
+The demonstration would decide whether the crossbow remained an interesting experiment or became something Ashridge would build around.
+
+Joren and Harlon had done their part, and Sera had already proven the weapon worked.
+
+Tomorrow would answer the more important question for this world, whether untrained men could use it well enough for battle.
+
+That was the difference between a useful tool and something that could change the village itself.
+
+His fingers tapped once against the desk as he considered which of the militia Dorian would choose. Men who worked fields would soon be asked to stand with a weapon that required far less training than a bow, yet still carried enough force to matter.
+
+If the demonstration succeeded, even Dorian would have little room left to doubt.
+
+The shape of Ashridge’s defenses would begin to change.
+
+Lucien reached for the cup and took another slow sip, the familiar bitterness settling across his tongue.
+
+The next morning arrived beneath a pale spring sky, and by the time Lucien reached the training grounds near the southern palisade, the chosen militia had already gathered.
+
+Men stood with the posture of those uncertain why there were so few of them, their attention shifting between Dorian, the guards stationed nearby, and the unfamiliar weapons resting against the wooden rack at the center of the grounds.
+
+Five crossbows rested against the rack, built for function rather than uniformity. The wood and iron fitted together without ornaments, their thick prods making them appear sturdier than a common hunting bow.
+
+Joren stood near them with his arms crossed, already wearing the expression of a man expecting someone to mishandle his work.
+
+Beside him, Harlon rested one hand against the rack itself, his attention on the militia rather than the weapons, his pipe releasing slow curls of smoke as he watched.
+
+In front of the gathered guards, Dorian's expression remained unreadable. When Lucien approached and came to a stop beside the captain, he dipped his head.
+
+"My Lord."
+
+He returned the gesture before his gaze moved toward the five chosen militia.
+
+Two younger men from the western fields stood among them beside an older farmer Lucien recognized by face more than name, along with a broad-shouldered laborer and one of the manor’s storage hands.
+
+Lucien folded his hands behind his back and let his voice carry across the grounds. “Today is simple. You will fire these weapons, and Captain Dorian will decide whether they are worth the village’s time.”
+
+A few uneasy glances passed between the militia.
+
+Joren let out a low grunt through his nose. “Try not to break them first.”
+
+That drew a few restrained laughs, easing some of the stiffness from the men.
+
+Dorian stepped forward and his voice cut cleanly through the lingering amusement.
+
+“Load them.”
+
+The mood shifted at once as Harlon stepped aside from the racks while Joren moved closer, watching the militia with open suspicion.
+
+The first signs of struggle appeared almost immediately.
+
+One of the younger men furrowed his brow as he struggled with the draw. Beside him, the older farmer adjusted his grip after a brief correction from Harlon.
+
+A man from the western fields muttered something under his breath that was likely not respectful to either the weapon or its maker.
+
+Joren clicked his tongue. “You’re pulling it like you’re arguing with a bad harvest. Just put your back into it and pull harder.”
+
+The man glared at him. “I was doing that.”
+
+“No,” Joren replied flatly. “You were complaining.”
+
+Lucien’s gaze shifted to the side, choosing not to involve himself in a dispute Joren was clearly enjoying. Beside him, Dorian remained focused on the hands holding the weapons.
+
+After several rough attempts, all five finally stood ready. Targets had been set near the outer line, simple wooden boards marked with rough charcoal circles.
+
+The targets stood closer than those used during Sera's tests. For untrained men, accuracy mattered less than proving they could load and fire the weapon reliably.
+
+Dorian gave a single nod.
+
+“Loose.”
+
+The first volley came unevenly as one of the bolts struck high while another buried itself into the dirt before the target. Two landed solidly into wood and the last hit with enough force to punch through the thinner board entirely, burying itself in the earth behind it.
+
+The militia stared at the targets with surprise, as though their own hands had done more than they expected.
+
+One of them looked down at the crossbow in his grip as though it had personally offended his understanding of what a weapon made from a frontier village should be.
+
+Even Joren looked mildly pleased at the results while Harlon gave a slow nod, pipe resting in one hand as he spoke. "Well, that'll make something think twice."
+
+Dorian remained silent, his gaze fixed on the boards ahead, his expression unchanged.
+
+The results before them were worth more than any explanation Lucien could offer.
+
+At last, the captain gave the order for the second round to begin.
+
+“Again.”
+
+This time, there was less hesitation as hands that had fumbled moments ago now moved with more confidence. The militia adjusted their footing, learned where to place their weight, and discovered quickly that the weapon rewarded proper form more than brute strength.
+
+Dorian left the handling of the weapon to the craftsmen and watched the militia closely.
+
+For the second round, the bolts struck with greater consistency. While it wasn't perfect, it was good enough that even the guards watching from the side began to trade glances.
+
+Joren had the look on his face that carried the private satisfaction of a craftsman whose work had proven itself. After a moment, he glanced toward Lucien and let out a low grunt.
+
+“Takes less training and still hits hard enough. Bolts are easier than replacing dead men."
+
+That was likely the closest thing to open praise Lucien would receive from the blacksmith.
+
+Beside him, Harlon rested his pipe against the rack and gave a slow nod. “Less men dying on walls, more men living long enough to build something after.”
+
+His eyes shifted toward Lucien then, resting there for a moment longer than usual. “Most nobles ask for stronger walls. You asked how to keep more men alive.”
+
+He tapped the pipe once against the rack, the sound light against the wood. “…Different,” he muttered.
+
+By the third round, even Dorian’s silence had changed.
+
+There was still caution there, and the instinctive resistance of a soldier raised on older doctrine would not vanish in a single morning. Even so, the doubt he had shown yesterday seemed diminished.
+
+Lucien saw it in the way the captain watched the militia retrieve their bolts, as though already weighing where such a weapon would fit within Ashridge’s defenses.
+
+When the demonstration came to an end and the militia were dismissed, conversation returned to the training grounds. The men spoke in low voices as they compared their shots and the weight of the crossbows.
+
+He made his way toward Harlon as the last of the militia drifted away from the grounds.
+
+The carpenter had returned to the wooden rack, one hand resting against it while Joren inspected one of the prods for damage.
+
+Lucien's gaze shifted briefly toward the southwestern ridge. “I wanted to ask about the road to the ridge outpost. If I am to travel there soon, I would rather know how much of the route has been properly laid.”
+
+Harlon adjusted the pipe in his hand. “Most of the path is cleared well enough now, Lord. On foot, it's still only a few hours if you leave after sunrise. Horseback cuts that down easy enough.”
+
+“The climb near the ridge is what slows it. Spring rain softens the ground, and carts have a harder time of it.”
+
+The older man seemed to consider something before he added, “Garrick heard you were planning to visit.”
+
+Lucien’s brow lifted faintly. "Does he need something brought over? I heard he has been staying there since the outpost was completed."
+
+Harlon gave a short nod. “He has. Says there is still more to learn from that ridge before he trusts it. Mentioned he wanted to speak with you if you were coming.”
+
+“About the outpost?”
+
+The carpenter shook his head slowly. “Maybe that too...but it's better if Garrick tells you himself.”
+
+From what little he knew of the miner, Garrick was not the sort to seek out conversation for its own sake.
+
+There was only one person in Ashridge who spoke less than Garrick, and she did not speak at all.
+
+Harlon offered nothing further, his silence making it clear he had already said all he intended to.
+
+Lucien's gaze drifted toward the distant ridge once more. Whatever waited there, it was not only stone.
+
+Before that, he would need to meet Talia.
+
+A month of uneven burns, revised notes, and stubborn experimentation with limestone had to amount to something by now.
+
+If the latest batch had finally held true, Ashridge would begin changing far sooner than expected.

@@ -1,0 +1,167 @@
+---
+id: 1a5eee4e-54d8-536e-84c5-05a56f7a7211
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59 - Just In Time"
+slug: 0043-chapter-59-just-in-time
+partOf: mythrans-master-of-all-continued-completed
+position: 43
+ownLength: 2050
+unit: words
+publishedAt: 2016-10-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99093/chapter-59-just-in-time"
+royalRoadId: "99093"
+---
+
+Donan used Ren's forge while Ren made over the other forge that Donan normally used. The process went quicker this time because Donan had already cleaned it out. Ren only had to take it apart, grind the top stone bricks down a little and then enchant it all. Once Ren was done and activated the new forge, keeping his face well away from the opening this time, Ren and Donan switched places and kept working. At lunchtime, Donan called a halt to the work and they went to a nice little house only a block or so away. Ren watched Donan as he made a nice stew and set it to cook on the stove. Teepo, in his usual behavior, crawled over everything and came back when he was done.
+
+“Where did you learn to cook?” Ren asked.
+
+“My sister taught me.” Donan said.
+
+“I've been wanting to learn how to cook for a while now.” Ren said. “I've had no idea where I'd learn something like that... assuming someone would even teach me.”
+
+Donan chuckled. “I hear ya.” Donan said and sat down. “Sometimes it's like pulling teeth from a chicken to get people to tell you their secrets.”
+
+“Secrets?” Ren asked.
+
+Donan chuckled again. “Of course! If people didn't keep their secrets, everyone would be able to do their job... and then where would they be?”
+
+Ren thought about it for a moment. “Out of a job.”
+
+Donan nodded. “Right. If people didn't guard what they knew... there'd be no use for them anymore.”
+
+Ren had a thought and instead of contemplating, simply asked it. “Is that why you didn't have an apprentice before?”
+
+Donan smiled and stood up to check the stew. Donan took 2 bowls from the cupboard next to the stove and filled them with stew. Donan turned off the stove and put both bowls on the table with spoons. Donan sat down again and picked up his spoon. Ren didn't pick up the spoon closest to him and looked at Donan. Donan nodded. Ren smiled and picked up the spoon to eat. They ate in silence and Donan refilled each bowl only once. They finished eating and Donan put the bowls and spoons in the sink.
+
+“Thank you, Donan.”
+
+Neither Ren nor Donan knew what the other had meant for sure. Donan's nod and Ren's thank you could have meant 2 different things; but each assumed that what they wanted it to mean was what the other meant, and nothing else needed to be said.
+
+With their bellies full they went back to the shop and kept working. By the time the evening came around, they were finished of all the forging. Once all the blades were done, with a hundred extra in case of weakness and breakage, Donan showed Ren how to strengthen the blade by tempering it and then how to sharpen it. They worked halfway through the night to temper and sharpen the required 1000 blades.
+
+Donan showed Ren how to make a proper hilt for the short sword and they worked through the rest of the night to attach all 1000 hilts properly. Once that was done, They polished the short swords to increase the durability and it's effectiveness. At the break of dawn of the third day, Ren helped Donan crate up the weapons. Ren's woodworking skill came in handy and they finished quickly. No sooner had Ren nailed the last nail in the final crate, when he got a popup.
+
+Quest Complete!
+
+You have successfully completed a nearly impossible task, much to Donan's satisfaction.
+
+Rewards: 9000 XP
+
+Fame Bonus: x12%
+
+Ren noticed that the game really did delay any stat change until after a Quest was completed because Ren then got all the ones he had missed during the task. Staying Power was now Intermediate Level 5 and Ren looked at his Health bar. Ren was surprised that it was down to only 55, or 10% of it's full number of 550. Ren took out a Health potion and recovered 100 points.
+
+Normal health potions won't last long with me, will they? Ren thought as he looked at the other popups.
+
+Stat Change!
+
+Smithing Level 2 (Intermediate 0%)
+
+Smelting Level 4 (Intermediate 0%)
+
+Blade Forging Level 2 (Intermediate 0%)
+
+Stat Change!
+
+Smelting Level 5 (Intermediate 0%)
+
+Blade Forging Level 3 (Intermediate 0%)
+
+Stat Change!
+
+Smithing Level 3 (Intermediate 0%)
+
+Smelting Level 6 (Intermediate 0%)
+
+Stat Change!
+
+Blade Forging Level 4 (Intermediate 0%)
+
+Ren swiped the rest of the popups away and just looked at his stats. Serene State of Mind finally reached Intermediate Level 1, Smithing was over halfway to Level 4, Smelting was just above Level 6, Blade Forging was at Level 4, and Iron Grip was over Level 2. All Intermediate. Ren didn't even remember having to use Iron Grip and looked at the tongs he was still holding. The handles were bent a little, and Ren chuckled. Fire Resistance and Affinity increased to 25%, and Ren had gained 3 points in Endurance.
+
+Ren had used the main Smithing skill to temper the blades and had leveled it up twice more, while Blade Forging leveled once. Sharpening leveled up 3 times because Ren had to sharpen both sides of the blades. Getting the end of the sword tips sharp without breaking them was the hardest part. Ren had broken a half dozen blades before he learned how to do it right. To Donan's credit, he didn't get mad even once, and only gave Ren corrections and tips. Polishing had leveled up once, too.
+
+All in all, a good turnout. Even with losing my eyebrows. Ren thought and smiled.
+
+There was a loud knock on the entryway to the blacksmith's shop. A large stern man stood there with a scowl on his face. He squinted his eyes as he noticed the 4 crates. They were quite big and each held 250 short swords, with layers of cloth between each layer of swords to stop them from scuffing each other up. The cloth had been Ren's idea and Donan had loved it.
+
+“I assume that those are mine.” The large man said.
+
+Donan approached him with a scowl on his own face.
+
+“Of course they are!” Donan said in a deep base growl. “You don't think I'd stiff you, do you?”
+
+“I'd heard that you couldn't make the deadline.” The man said.
+
+“Rumors! Lies!” Donan huffed. “I've never failed at anything in my life!”
+
+The man turned his head, looked at Ren, and then looked back at Donan. “Very well.” The man said and waved to someone behind him. 2 other men came in, almost as big as the first man that had spoken and dropped 2 huge sacks at Donan's feet. Donan just glanced at them and back at the man.
+
+“Are you going to count it, old man?” The man said in challenge.
+
+“Not in front of you.” Donan said and grinned. “I'm not stupid.”
+
+The man's gruff facade broke apart and he started laughing. He and Donan hugged quickly and they walked over to Ren as the other 2 men waved 2 other men in and the 4 of them carried out one of the crates. The other 3 crates soon followed the first.
+
+“Ren, this is my brother.” Donan said. “Nodal, this is Ren.”
+
+Nodal reached out a shovel-sized hand and Ren shook his hand.
+
+“So... this is the famously absent apprentice.” Nodal said in a gravelly voice and smiled.
+
+Ren ducked his head slightly and nodded.
+
+“He was really worried about you, you know.” Nodal said. Donan punched Nodal in the arm and Nodal laughed. “What? It's true.”
+
+Ren nodded and smiled. Ha... brothers. Kinda friends, kinda enemies. Ren thought and a moment later had a pain right above his right eye. Ow. Ren reached up and rubbed the spot. I think I'm getting a headache.
+
+“You've been working for 2 days straight... you're probably really tired and don't realize it.” Teepo suggested.
+
+You're probably right, Teepo. Ren thought. I don't feel tired, but I think I should go and get some sleep anyways.
+
+Nodal and Donan talked for a few minutes and Ren interrupted them. “I'm getting tired, so I'm going to go and lay down for a while.” Ren said. “Maybe for a day or two.” Ren smiled.
+
+Donan patted Ren on the back and Nodal shook Ren's hand again. “Thank you.” Nodal said and let Ren's hand go. “Donan just told me that you helped finish the order. A thousand short swords in only 2 days... people will hear of this. I guarantee it.”
+
+Notice!
+
+Your name will be spread to the surrounding land.
+
+Fame: +50.
+
+Ren laughed. “You're welcome. It was the least I could do for not being around. If you have a similar order that needs to be done, though... it'll have to wait.” Ren said and put on his Dire Wolf Hooded Cloak. “See you in a couple days, Donan.”
+
+Ren left the shop and once he was around the corner, he sat down next to Lucys phantom form and logged out himself.
+
+*
+
+Ren left the blacksmith's shop and didn't notice the stares of the 2 men that stood behind him in awe. Nodal turned to Donan. “Did you see...”
+
+Donan nodded. “I did.”
+
+“How... I mean, he's so small...” Nodal said.
+
+Donan laughed. “He's been surprising me since the first day he started working here, Nodal.” Donan grabbed Nodal's arm and hauled him out of the shop. “I'll get the story from him as soon as he comes back.” Donan locked the place up and turned towards his house. “I've got a pot of Donna's stew on the stove. It will only take a minute to heat up.”
+
+“Donna's stew?” Nodal said and clapped his hands and rubbed them together. “Count me in.”
+
+“Your men are welcome, too.” Donan said.
+
+Nodal asked the men if they were hungry, but they said no and agreed to meet up at the west gate in an hour.
+
+“Let me tell you a few stories about my apprentice.” Donan said and started walking to his house. “There was one time when he went to the mines to get ore...”
+
+*
+
+********
+
+Ren woke up and did his normal routine of breakfast, physical therapy, and visiting with the nurses. Stella was his nurse today and Ren enjoyed spending time with her. Since Ren had told Donan that he would be out for a couple of days, Ren felt no rush to get back to the game and spent the whole day just doing other things. Ren watched television for a while, just to catch up on the daily shows that he had missed while playing the game. The soap opera that was broadcast every day, that Ren hadn't watched in about 3 months, had started with the phrase: “Later that same day...” and Ren laughed. If Ren remembered correctly, it had been the same day on the show for almost a year.
+
+Ren had a nice lunch, took a nap for a few hours, had supper, and then spent even more time visiting with the other nurses on the floor. Word about Lucy being in the game had spread like wildfire. Ren was teased about it relentlessly, but took it all in stride. Ren could only hope that Lucy wasn't being teased as much as he was, and that Lucy wasn't having too hard of a time adjusting to the new job. Ren sighed when he thought about not getting to see Lucy every day like he used to. It really was as the old saying goes... you don't know what you've got until it's gone.
+
+Ren stayed offline until the shift change that night. Barbara came in and exchanged words with Stella. When Barbara sat down, Ren filled Barbara in about what had been happening all day and Barbara laughed just like Ren did when he told her about the soap opera. An hour or so later, when the next game day was about to start, Ren told Barbara that he was logging back into the game and would see her in a few hours. Barbara nodded and sat down next to the bed. Ren said the key phrase and entered the virtual world.
+
+“Flow Login Start.”
+
+********

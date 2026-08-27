@@ -1,0 +1,327 @@
+---
+id: 10c553c8-0c9d-5b91-abe9-400d1da5ed98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 - Timber!"
+slug: 0027-chapter-43-timber
+partOf: mythrans-master-of-all-continued-completed
+position: 27
+ownLength: 3812
+unit: words
+publishedAt: 2016-10-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96455/chapter-43-timber"
+royalRoadId: "96455"
+---
+
+(Author's Note: As I half-heartedly promised... an extra long chapter (instead of 2) to make up for missing yesterday.)
+
+(Author's Note 2: I'm not liking this 'new' layout at all. Half of the links and options don't work. They should have made a dummy site first and fixed all the problems, then imported all the data. Going back and trying to fix it afterwards is not a smart way to do it.)
+
+Ren and Aimus dropped the hatches on the trench once all the pelts were submerged. It would take a couple of days for them to cure properly, so Aimus took Ren over to the small tanning pit and the other pelts he had inside. Aimus used the tool to hook each pelt and hung them on the back of the shed.
+
+“It'll take a few hours or so for the pelts to dry.” Aimus said as he hung the last one. “While we wait, I need your help with something.”
+
+Aimus went around to the front of the shack and opened the door. Ren saw Aimus grab a long handled axe, a hatchet, and put the hammers back. Aimus handed the axe, hatchet, and saw to Ren who stored them into inventory. Ren followed Aimus across one of the fields, but stopped when Aimus climbed over the fence.
+
+“But... you said...” Ren started.
+
+“I know what I said.” Aimus replied. “Come on. I don't have all day.”
+
+Ren sighed and climbed over the fence. As soon as his feet hit the dirt on the other side, Aimus spoke.
+
+“Okay. Get out. You're not welcome here anymore.”
+
+“Wh-what? But... but you told me...” Ren stammered.
+
+“Bwahahaha!” Aimus guffawed. “I'm just kidding.”
+
+“What?!? But I thought... the fence...”
+
+“Naw. I own a few miles out past the fence. I just put it up to make the place seem more like home... and it keeps the bears out.”
+
+“B-bears?” Ren said and looked around the edge of the forest. He regretted giving back Ana's bow so soon.
+
+“Hahaha!” Aimus laughed. “There's no bears around here. They like it better up near the mountains.”
+
+Ren put his hands on his hips and glared at Aimus.
+
+“Did you like that feeling? No? Now you've had a taste of what it was like going after you when you took off after your friend.”
+
+Ren stopped glaring and took his hands off his hips.
+
+“Those rats could have swarmed us at any time. That's why it too me so long to come after you. I had to be really careful not to attract their attention.”
+
+Ren nodded. “But Teepo was in trouble! I had to go...”
+
+“Yeah! Ren saved me!” Teepo said.
+
+Aimus nodded to Ren. “I didn't say you shouldn't have... I did this just to teach you to be more mindful of your surroundings. You can't go running off whenever you feel like it into unknown territory without checking around first. That's just a recipe for trouble.”
+
+Notice!
+
+You have learned a new recipe!
+
+Recipe: Trouble
+
+Run off into an unknown area without checking it out first.
+
+This recipe is guaranteed to make Trouble for you and anyone in your vicinity.
+
+“You have got to be kidding me!” Ren said and dismissed the popups.
+
+“I'm deadly serious. You never know what could...” Aimus continued, but Ren just tuned him out.
+
+I just received a recipe for Trouble. Ren thought.
+
+“What does that mean?” Teepo asked.
+
+It means I can literally make Trouble anywhere I go that I haven't been before.
+
+“Oh... I guess that could be dangerous.” Teepo said.
+
+No kidding! I'll have to be extra careful... and I'll be depending on you a lot, Teepo.
+
+Teepo chittered in delight. “I'll be more than happy to help!”
+
+Thanks, Teepo.
+
+Aimus finished talking. Ren nodded, even though he had barely heard a word Aimus had said. Ren understood the jist of it. Don't make Trouble.
+
+Aimus asked for the axe and Ren handed it over. The walked into the trees and Aimus picked one that was only about a foot across. Aimus showed Ren how to hold the axe and the correct way to fell a tree. Dig a wedge on one side, in the direction you want it to fall, then go to the other side and dig another wedge, slightly higher, so the weight of the tree would move toward the wedge that was previously cut. The tree would fall that way and then you could clean off the branches to make the log smooth.
+
+“Pass me the hatchet.” Aimus said. Ren handed it over and Aimus pointed to the next tree. “You can do that one.” Aimus said and handed the hatchet back to Ren. “This is about the right size for you to use, right?”
+
+Ren looked at the hatchet, and then at the tree. “You've got to be kidding!”
+
+Aimus looked at Ren sternly. “Yes.” Aimus said and burst out laughing. “The look on your face! Oh, that's priceless.” Aimus chuckled and handed over the long handled axe. “Here. Let's see if you learned anything.”
+
+Ren glared at Aimus for a moment as he put the hatchet away, then walked over to the tree. It was a bit smaller around than the one Aimus did, but the technique was still the same. Ren decided to use the same direction that Aimus did for his tree and dug out the first wedge. It went pretty fast, and Ren switched sides on the tree and cut the next wedge above the other one. The tree fell in the right direction a moment later.
+
+Notice!
+
+You have learned a new skill!
+
+Chop Level 1 (Beginner 0%)
+
+This sub skill under Woodworking will allow you to chop wood in it's various forms.
+
+Higher skill levels will allow faster chopping and deeper cuts each chop.
+
+Ren grinned. “Next.”
+
+Aimus pointed to several similar trees in the area and Ren promptly chopped them all down.
+
+The kid is getting faster with every tree he cuts down.[i] Aimus thought. [i]I know adventurers are supposed to be amazing, but this is getting a bit ridiculous.
+
+Once they had 2 dozen trees felled, Aimus asked Ren for the saw. Aimus cleaned off the branches of the first tree and handed the saw to Ren. “Your turn.”
+
+Ren nodded and sawed off the branches of the second tree. He took his time with it and even managed to get most of the knots off of the log.
+
+Notice!
+
+You have learned a new skill!
+
+Saw Level 1 (Beginner 0%)
+
+This sub skill under Woodworking will allow you to saw wood in it's various forms.
+
+Higher skill levels will allow faster movement and deeper cuts.
+
+Ren grinned again and moved to the next tree. When all the logs were cleaned and the tops chopped off, Ren had leveled up both skills. Aimus motioned for Ren to follow, and Ren asked what he was doing.
+
+“We have to go and get the cart. It would take a long time to haul all of these back otherwise.” Aimus said.
+
+Ren shook his head and went back to the logs they'd neatly piled. Ren knew there was some kind of trick he could use and opened the system help. It took a few minutes, but he finally found what he had been looking for. Ren smiled and was thankful that he didn't need to actually lift the things into his inventory, he just selected each log and they popped into a slot into his inventory.
+
+Aimus stood there in shock. How the hell is he doing that?!? Those logs must weigh a couple hundred pounds each! Aimus thought, and managed to close his mouth before Ren saw it gaping open.
+
+Ren collected the logs and turned to Aimus. “Is this enough, or do you need more?”
+
+Aimus blinked a few times. Is he serious? Aimus thought. He wants to carry even more? Aimus sighed. “I want to replace the lumber we used for the hatches. We'll need a few more trees for that.” Aimus said and waved to a patch of similar trees.
+
+Ren grinned and got to work. One more level each for his new skills and another 3 dozen trees later, Ren and Aimus headed back to the homestead. Once there, Aimus went into the barn and pulled out a table with a large round saw blade. It looked just like a spinning wheel, except instead of a spool, it had a table. Aimus had Ren drop a log from his inventory and they lifted the end onto the table.
+
+“I'll guide it in, you get over there to the blade and start pumping the pedal.” Aimus said.
+
+Ren went to the saw blade and started pumping the pedal with his foot. It didn't take much effort to get the blade spinning, but Ren figured once the tree started going through, it would slow down and get much harder. Ren pumped it faster and Aimus nodded. Aimus pushed the log through and it hit the saw blade. Ren smiled as the tree went through the process easily and a third of it was cut away. Ren stopped pumping and helped carry the larger piece back to the front. This was repeated several times until 6 large planks were left and a 4 large pieces of bark. Ren took out another tree and they kept going.
+
+Ren and Aimus fell into a rythym and Teepo hopped off Ren's shoulder and ran along each log as it went through the saw blade. Ren shook his head at Teepo's utter disregard for the danger, but then realized even if Teepo somehow tripped or fell, he wouldn't get hurt by the blade or the fall, since he was just an astral projection. Ren smiled as it actually happened and watched as Teepo slipped off the side of a log and fell into the pile of sawdust by the table.
+
+“Ren! I can't see!” Teepo almost shouted.
+
+Ren bent down and spread the sawdust out, to see Teepo upside down on the ground.
+
+You should be a bit more careful where you step. Ren said and picked Teepo up.
+
+“Thanks, Ren!” Teepo said as he was placed on his regular perch on Ren's shoulder.
+
+Once all the logs were cut up and they had all the lumber that they could get, Ren had leveled up his Saw twice more and his Endurance went up 2 points as well. Ren loaded the rough lumber into his inventory and went up into the hay loft of the barn. Ren stacked it in the spot they'd taken the other lumber from and ended up with more than twice the amount that was there before.
+
+“Hopefully it won't take too long for it to dry out up there.” Aimus said from the bottom of the ladder. “Now that I've used up my previous stock, something will come up and I'll need dry wood and it won't be ready.” Aimus shook his head. “That's how it usually works, anyways.” Aimus chuckled.
+
+Ren climbed down the ladder and followed Aimus out of the barn. Ren handed over the saw, axe, and hatchet, and Aimus took them.
+
+“Go on into the house until I get back. I have an errand to run.” Aimus said and waved to the house.
+
+Ren nodded and didn't argue because he needed the break. What they did that day was fun, but it was also a lot of hard work. Ren went into the house and sat down at the kitchen table. “Aimus said he had an errand to run.” Ren told Abigail, who didn't even turn around when Ren spoke. Abigail must trust Aimus a lot, or it's happened so much that she doesn't consider Aimus leaving that important anymore... or maybe a bit of both. Ren thought.
+
+“Probably both.” Teepo said and jumped onto the table.
+
+Abigail put another bowl of homemade buns on the table and Ren helped himself to one. They were quite good and he stashed a couple into his inventory to replace the ones he had shared with Aimus before. About a half an hour later, Aimus came in and Ana came out of her room. Abigail served supper and they enjoyed another nice meal.
+
+“It's a little late to do anything else right now.” Aimus said as he looked out at the sightly darkening sky. “It's better to get an early start than to have a late finish.”
+
+Ren nodded and thanked Abigail for the meal. “I'll head to bed then. See you all in the morning.”
+
+*
+
+Aimus nodded and watched Ren leave the kitchen.
+
+“Do you think you should go and get the healer again?” Abigail said in a quiet voice, once she thought Ren was out of earshot and heard the bedroom door shut.
+
+“No, he seemed okay today.” Aimus replied in just as quiet a voice. “He worked harder than I could have by myself.” Aimus said and chuckled. “The way he cut down those trees, I thought he might even be part beaver!”
+
+“That's good. I was so worried... and when the healer kept using her magic... it's hard not to assume the worst.” Abigail said.
+
+“I know, honey... but he really is fine.”
+
+“I'm still checking on him every hour.” Abigail said.
+
+Aimus shook his head. “All you're doing is worrying yourself for nothing. He'll be dead asleep until morning, at least. If he doesn't wake up again... then you can start worrying again, all right?”
+
+Abigail nodded.
+
+*
+
+Ren shut the door to the spare room and went to the bed. Now that he was away from the others, he could admit to himself how tired he was. Ren got into bed and tucked himself under the covers.
+
+“Don't worry, Ren. I'll keep watch!” Teepo said after he came into the room from under the door.
+
+Thanks, Teepo... Ren thought as he drifted off to sleep and wondered why Teepo had to squeeze under the door and didn't just walk through it...
+
+********
+
+Denise had watched Ren as he did the whole lumberjack thing. It had touched something deep inside her. He's so strong! Denise thought and gazed at the still form lying in the hospital bed next to where she sat. If he was like that in real life... Denise shook her head. No, I don't have feelings for Ren like that. Look at him, he's just a child. It would be so wrong to even think about dating him. Where would we go? What would we do together? It's not like he can drive, or dance, or do anything that a normal guy could do. Denise said and sighed.
+
+And that's the crux of the argument right there, isn't it? Ren isn't a normal guy. Denise stood up and walked to the door of Ren's hospital room. There wasn't going to be any kind of relationship if anything did happen. Why were all the good guys either taken or off limits? Denise thought as she went to the break room to get another coffee. Full shifts of just sitting there with Ren were even more tiring than doing actual work. How did Lucy do it all the time? I'm almost bored out of my mind.
+
+********
+
+The next morning Ren woke up at the crack of dawn. Shuffling feet could be heard outside of his room and Ren got out of bed. The feet quickly shuffled off down the hall and Ren smiled.
+
+They're still worried about me. Ren thought.
+
+“I was worried, too!” Teepo said and landed on Ren's head.
+
+“Hey! Cut that out!” Ren said out loud and slapped his hand over his mouth. Oops.
+
+Teepo chittered in laughter and crawled off Ren's head and onto his shoulder. Ren opened the door to the spare room and went into the hallway. Clinking dishes could be heard in the kitchen. Ren entered and saw Aimus sitting at the table eating and Abigail doing dishes.
+
+How many dishes do they use? She's doing them all the time! Ren thought and sat down at the table. “Good morning.”
+
+Aimus nodded in greeting and Abigail turned around to face Ren. “Good morning. Did you sleep well?” She said.
+
+Ren nodded. “I did. That was a lot of work to do yesterday. I was exhausted.”
+
+Abigail smiled and whacked Aimus across the head when he tried to open his mouth. “Hey! What was that for?” Aimus said and rubbed his head.
+
+“Don't tease the poor boy first thing in the morning.” Abigail said and handed a plate to Ren. “At least wait until after lunch.”
+
+“Yes, dear.” Aimus said and rolled his eyes.
+
+Ren stiffled a laugh and Teepo chittered in delight. Ren helped himself to a big slice of homemade bread and covered it in strawberry jelly. The bread was still warm from the oven and the jelly was just sweet enough to make Ren's mouth water.
+
+“It's a minimal breakfast today.” Aimus said. “I'll have to visit the local farms later to pick up some supplies.”
+
+Ren nodded, finished the piece of bread, and put several gold coins on the table. Ren thanked Abigail for breakfast and left the kitchen.
+
+*
+
+Aimus turned to Abigail. “You see? He didn't even ask for another piece of bread.”
+
+Abigail shook her head. “Is he intentionally starving himself?”
+
+“I don't know. He's been doing things like that ever since I've known him. Even on the road traveling here he only ate a single fried egg.” Amus stood and looked out the window as Ren entered the barn. “I noticed he'd taken some of your rolls when he gave me one at the lookout.”
+
+“He did that again yesterday.” Abigail said. “It made me wonder if he was poor and starving.”
+
+Aimus shook his head. “No, you've seen that he has plenty of money. I don't know what he thinks he's doing.”
+
+*
+
+Ren went into the barn to clean out the cart. The two duffle like bags were still in it. One was significantly empty, and Ren assumed that it was the one that held the traps that Aimus had ordered from the genral store. The other one was still quite full. Ren grabbed both bags and lifted them out of the cart. Ren looked around to see where he could put them, and Aimus came in the barn.
+
+“I'll take them.” Aimus said and went to the hidden hatch in the middle of the barn. “I can't leave these things just lying around for anyone to find.” Aimus opened the hatch and gently placed both bags inside. He closed the hatch and kicked dirt over it again to hide it.
+
+“Those hides should be good and dry now.” Aimus said and went around the barn to the shed out back.
+
+The hides were good and dry, considering they'd been hung there for most of the day yesterday and then overnight. Aimus took them down and went into the shed and the small work table there. Aimus put the pelts down on the nearby rack, took the top pelt and put it on the bench. Aimus grabbed a small thin brush and stroked the pelt on the fur side. The hair became fluffy and soft after a few passes. Ren picked up the pelt and felt it.
+
+“Wow. Nice.” Ren said in admiration.
+
+Aimus nodded and did the same thing to the other pelts.
+
+“Now, if you wanted to remove the hair, you use this one.” Aimus said and grabbed another tool. It looked like a wide razor blade on the end of a handle. Aimus picked up a scrap piece of pelt that was uncombed.
+
+“You scrape the hair off the skin, just like shaving.” Aimus said and shaved the pelt. The hair just slid off and Ren was amazed.
+
+“It's that easy?” Ren asked.
+
+“Ha!” Aimus laughed. “Easy? It takes years of practice to get this good at it.”
+
+Aimus stood and handed the piece of pelt and the tool to Ren. Ren smiled and slid the razor across the skin in another line, making sure to take his time and follow the line Aimus made.
+
+Notice!
+
+You have learned a new sub skill.
+
+Scudding Level 1 (Beginner 0%)
+
+This sub skill of Leatherworking allows you to remove hair from a pelt.
+
+Higher skill levels will increase the speed of scudding, and reduce damage to the main skin.
+
+Ren smiled and skinned the rest of the scrap piece of pelt. Aimus shook his head and took the tool.
+
+“I have got to stop being surprised by you.” Aimus said and hung the tool back above the workbench. “We'll have lots of that to do tomorrow.”
+
+Ren nodded and Aimus left the shed. Ren followed and helped Aimus hook up the horse to the cart.
+
+“I'll be back after lunch.” Aimus said and then flipped the reins. The horse took the command and trotted off with the empty cart.
+
+Ren waved as Aimus left and wondered what he was going to do with himself while Aimus was gone.
+
+“Now would be a good time to look for the Sage of Ages.” Teepo said.
+
+“You're right, Teepo. It is a good time.” Ren said and opened up the system menu. It didn't take long for him to not find what he was looking for, though. “I can't find her. I don't know what her name is.”
+
+“Sage of Ages didn't work?” Teepo asked.
+
+“No. I have to know what her actual name is if I want to contact her.”
+
+“Oh... well, I guess you can wait...” Teepo said.
+
+“No, you're right. I do have to contact her somehow.” Ren said. “Hm... if I do it that way...”
+
+Teepo wondered what Ren meant. “What other way is there?”
+
+Ren thought for a moment. “The adventurer's way.” Ren said and smiled. “Teepo, I'm going to be... immobile for a little while. No one will be able to wake me.”
+
+“Like before?” Teepo said.
+
+“Yes. Only this time I'll only be gone for a short time. Maybe an hour or so.”
+
+“You can choose how long you'll be like that?!?” Teepo said, surprised.
+
+Ren smiled again. “Yes, I can choose. The last time I actually missed the time when I was supposed to wake up... and that's why I slept all day.”
+
+Ren looked around for somewhere to log out safely, and remembered the hay loft. That would be the best spot to hide away so no one would know that his body would be in the same state that it was in before. Ren climbed up there and hid behind the fresh timber planks that were there.
+
+“I'll be back as soon as I can, Teepo.” Ren said and laid down in some hay.
+
+“I'll keep a lookout!” Teepo said.
+
+Ren nodded and closed his eyes. “Thanks, Teepo.”
+
+“Logout.”
+
+********

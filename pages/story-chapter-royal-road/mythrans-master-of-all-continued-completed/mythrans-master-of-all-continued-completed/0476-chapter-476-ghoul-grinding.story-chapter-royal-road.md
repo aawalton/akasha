@@ -1,0 +1,249 @@
+---
+id: 7bc89274-0ca6-5603-be06-180a3a46d840
+page-type-slug: story-chapter-royal-road
+title: "Chapter 476 - Ghoul Grinding"
+slug: 0476-chapter-476-ghoul-grinding
+partOf: mythrans-master-of-all-continued-completed
+position: 476
+ownLength: 3096
+unit: words
+publishedAt: 2018-01-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185284/chapter-476-ghoul-grinding"
+royalRoadId: "185284"
+---
+
+Ren and his group arrived at the next city on the map, and saw the fight had already started. It wasn't normal troops this time, though. It was the townspeople that lived in a kind of smaller town that had grown around the High Elven city.
+
+“Dammit!” Ren said. “Princess, land on the far left and change to ramming speed!”
+
+Princess brayed her happiness and changed course. When she landed where directed, Ren had taken out the Generic Staff of Necromancy and activated the Ghoul Lure spell.
+
+“Go!” Ren commanded, and Princess slowed down to plow through the ghouls right behind the front lines. Ghouls were batted aside by her horns and flung through the air, and Ren activated his own Ram enchantment. The ghouls bounced off of his magical horns, just like they did off of the ones Princess had.
+
+“If you were a ram in truth, My Lord.” Princess said and turned around to make another pass. “Our kids would be the most powerful to ever exist.”
+
+“I didn't have anything ram related to put into the polymorph helm.” Ren said, and for a brief moment, he felt her sadness... then it turned to wistful hope.
+
+“Then I must grudgingly accept your inadequacies.” Princess said and completed the second run through. They had definitely gotten the ghouls attention, and had only killed a few hundred each pass. “You would have been a spectacular ram.”
+
+Ren almost laughed at what she could have said instead of 'ram', and she felt his amusement as she heard his thoughts.
+
+“Mating is what I meant, My Lord.” Princess said, and he did laugh at that.
+
+“Let's get Zetaya over there in the woods.” Ren said, and Princess started another run into the middle of the ghoul horde, then turned and ran right through them and out the back. The horde as a whole slowed down and came to a stop as the effect of the Ghoul Lure passed over them, and the ones not affected followed the tide as it shifted. Princess did a quick burst of speed to get them well away from the horde as it started to follow them, then came to a stop.
+
+“Zetaya!” Ren said.
+
+Zetaya hopped off his back and ran up into the air. Ren wasted no time and used the Permanent Enlarge and Reduce Anything wand to make Zetaya 288 feet tall again. The crackling fire was loud, and Ren couldn't hear the shouts from the High Elves or the screeches from the ghouls.
+
+“Head back to the city and keep helping to defend the High Elves.” Ren said to Princess and opened the large cart. Elerlyth rode her Phantom Steed out of the opening and hovered next to him. He disconnected the cart and stored it. “Don't worry about hurting them, just keep them at bay.”
+
+“Yes, My Lord.” Princess said and ran back to the front lines.
+
+“What about us?” Elerlyth asked.
+
+“Stay out of the High Elves line of fire.” Ren said. “You're anathema to them, remember?”
+
+Elerlyth reluctantly nodded.
+
+“That doesn't mean you can't have fun wrangling the stragglers.” Ren said, and she smiled evilly.
+
+“Consider it done.” Elerlyth said and rode Etheria out to the edge of the horde and started fighting them.
+
+“Let's go, Zetaya!” Ren hollered, and Zetaya picked him up and shoved him inside, then tromped over to the ghoul horde that approached them. Once again, Ren made her look like a giant cow, then the fire elemental did the same thing it had done before. It spread it's legs and flopped down to land in the middle of the mass of ghouls, then started to shovel them inside.
+
+It went almost the same as the last time, and once the ghouls he could save reached a certain amount, he left Zetaya and took out the enormous cart. Zetaya stopped 'eating' them, then turned and threw up all the ones Ren had put aside inside the colossal fire elemental. He closed and locked the cart, and Zetaya once again shoved him and a bunch of ghouls inside.
+
+The fire elemental was having an easier time with them, and Ren was learning that even with his ability maxed, there were subtle things he could use it for that he didn't realize. After the second batch were expelled, he discovered that he didn't have to use his full ability to completely protect the ghouls. All he needed to do was give them some resistance to fire, and he could protect that many more.
+
+“Okay, this should fill the cart!” Ren said, and Zetaya stepped over to the cart and Ren opened it. The fire elemental spit out the ones still inside, and Ren locked the cart again. “Princess!”
+
+Princess appeared next to him, and he attached the cart to her while Zetaya walked up into the air and out of the ghoul's reach.
+
+“Elerlyth!” Ren yelled. She rode over to him and he gave her the Generic Staff of Necromancy. “Just concentrate on the Ghoul Lure spell, and they'll come right too you.”
+
+“Do you want me to kill the meanest ones?” Elerlyth asked. “They aren't going to be happy with a colossal cow like this and not being able to eat it.”
+
+Ren chuckled. “You're right.” He looked at Zetaya. “Run around the horde and try to keep them distracted, and Elerlyth will keep pace with you.” He said, then looked at Elerlyth. “Stay well away from the High Elves and the city.” He cautioned. “If they send soldiers or something to come out here and fight the ghouls, let them.”
+
+“But...”
+
+“It's not worth it to save them, if it costs me you.” Ren said, and she felt his resolve.
+
+“All right.”
+
+“We'll be back in about an hour.”
+
+“An hour?” Elerlyth asked.
+
+“That's how long it takes the healers to sort the ones that can be saved in a cart this big.” Ren said. “If you get bored, kill some of the large ghouls.”
+
+“I can kill them?” Elerlyth asked, surprised.
+
+“Not too many, or it breaks their will.” Ren said. “They're like leaders or something.”
+
+“Every second one, then.” Elerlyth bared her teeth. “That shouldn't bother them.”
+
+Ren chuckled. “Have fun.”
+
+“Oh, I will.” Elerlyth said.
+
+Ren climbed onto Princess and they trotted up into the sky, then disappeared. They crossed the High Elven Kingdom, the no man's land, and part of the Human Kingdom; then came to a stop in the small town where the healers were. Ren jumped down and knocked on the door of the ward, then remembered the healers said he didn't have to do that. He went inside and saw the High Elves there were happy and talking to each other. When he saw an elfling walk around with a serving tray, he gained the Angered condition.
+
+“What's going on here?” Ren asked, and the High Elves looked at him.
+
+“Ah! Another one.” One of the female High Elves said. “Come in, come in.” She said. “We need a strong back to help carry some of the food.”
+
+“Excuse me?”
+
+“Kalyn and Gaelira are managing so far.” She said. “There's too many of us to be served properly, so we've had to make do.”
+
+“More hands really would be of great help.” The elfling said. “I'm Kalyn.”
+
+“I'm Gaelira!” An elfling waved from farther down the ward.
+
+“Where are the healers?”
+
+“Called away on an urgent mission to the human capital city.” Kalyn said.
+
+“Dammit.” Ren said and took several deep breaths. “I don't need to ask why, do I?”
+
+“A Ghoul infection, the same as us.” She said and smiled. “Word of them healing so many infected has spread far and wide in this kingdom.”
+
+“Now what do I do?” Ren asked.
+
+“Help them serve, of course.” The female High Elf said. “That is your job, even if you haven't been accepted into a family formally.”
+
+Ren formed a Connection between his Fear Aura, Command Aura, and Ultimate Terror ring and activated it. All of the elves in the large ward caught their breath as his Aura covered them in Terror.
+
+“Shut up.” Ren commanded, and her mouth snapped closed. “I am not your servant.” He thought about activating his Submission Aura, then dismissed that idea because he didn't want that as part of his arsenal. “I am the Adventurer that brought you here.” He felt their shock and terror; but he didn't feed on it, because he knew he would get sick from it if he did.
+
+The High Elves didn't say anything, and Ren smiled.
+
+“From this point forward, you will never refer to me, or any elfling in a derogatory manner.” Ren said. “If anyone within my Aura insults us like that again, even by calling us halflings the way you do, you won't live long enough to correct the mistake.” He looked at their shocked faces. “Do you understand?” He asked, and then remembered his first order. “You may speak.”
+
+“We understand.” A few of them said.
+
+Ren thought about them and what they had been through, and activated his Undead Adept skill that let him feel the undead in his Aura and gave him affinity with them. He felt all of them, and they all gasped as they felt him detect their Ghoul Kissed marks.
+
+“Do you understand?” Ren asked, and they all responded that they did. “Good.” He said. “Now did any of you participate, help, or know what the healers did to heal you, and are possibly healers yourselves?”
+
+The two elflings raised their hands, as did three of the High Elves.
+
+“Excellent.” Ren said. “I have another batch of ghouls that need to be tended to.”
+
+“But... it... it won't... work.” Kalyn said through her terror.
+
+Ren deactivated the ring and his Fear Aura, and he felt everyone relax as the pressure of his Aura was greatly reduced.
+
+“We can't detect the level of infection, or what herbs to use in which combination, or how to properly apply healing.”
+
+“Dammit, dammit, dammit!” Ren said and made fists. “I've got hundreds more of you that can possibly be saved, and I can't save them!”
+
+Kalyn put the food tray down and walked over to him. She looked similar to the first elfling he had met, with long raven-colored hair and similar cheekbones; but, she wasn't as pretty. Ren felt odd judging her like that, and he looked down at the floor and frowned.
+
+This Angered condition is affecting me more than I thought it did. Ren thought.
+
+“It's all right.” Kalyn said and he looked at her. She was about an inch shorter than him, and she wore an uneasy smile. “I think the healer said they can stand another day or so as ghouls before they are too far gone.”
+
+“I... I have to hope they can come back in time.”
+
+“Why not make sure they do?” Kalyn asked.
+
+“Wh-what?”
+
+“They told us you travel very fast.” Kalyn said. “Since they are already on their way, go to them and pick them up, take them to the capital to heal whoever is sick, then pick them up when they finish.”
+
+Ren's Angered condition disappeared at her kindness. “Ha ha!” He said and picked the elfling up. “Thank you!”
+
+“Gah!” Kalyn yelped at the sudden movement.
+
+“Oh! I'm sorry.” Ren said and put her down. “Please forgive my impropriety.”
+
+“It... it's quite all right.” Kalyn said.
+
+“I'll build a holding pen upstairs for the new ones, and I'll bring the healers back as soon as they're done.” Ren said and turned around to leave the ward.
+
+“My Lord.” Kalyn said, and he turned back. “Thank you for saving us.”
+
+“No, M'lady.” Ren said and bowed to her. “Thank you for letting me save others.”
+
+Kalyn's face didn't flush red like he expected. “If you want that to happen, you have to hurry.”
+
+“Don't worry.” Ren smiled. “I'll be done in a minute.”
+
+“How...” Kalyn started to say, and Ren disappeared. “Where did he go?”
+
+There were several bangs and scrapes on the roof above their heads, and then nothing. A minute later, Ren came inside the ward. “I put the stairs on the outside, so there's no chance the ghouls can get out and into the ward while we wait.”
+
+“Wh-what?”
+
+“I work fast.” Ren said. “I'm going to help the healers, and then I'm going back to get more ghouls.”
+
+“Good luck!” Gaelira said from across the ward and waved.
+
+“Thanks.” Ren said and waved back, then looked at Kalyn. “Do you want me to order everyone to get their own food?”
+
+Kalyn's eyes went wide at the thought, and then she smiled. “No, it really is an honor to serve.”
+
+“I know.” Ren said. “I had to offer anyway.”
+
+Kalyn nodded, and Ren left the ward. He detached the cart and stored it, then took out the All-Seeing Mirror and asked where the healers were. They were in a carriage about a quarter of the way to their destination. Ren showed the spot to Princess and climbed up onto her saddle.
+
+“Let's go.” Ren said, and Princess ran up into the sky and went to full speed right away.
+
+********
+
+Elise had waited until Barbara came into the room before she went to the bathroom and changed for bed. She came back out and picked up the laptop, and sat on the bed. She set up a few dummy servers and activated her VPN, or Virtual Private Network, and took out Officer Holly's business card. She flipped it over and typed in the internet address on the back of it, and pushed enter.
+
+What she saw and heard surprised and shocked her. Even considering she had been the one to catch the guy, when she found out officially that it was an actual assassination job on Ren, that someone had hired him for, it shook her down to her soul.
+
+My poor Ren. Elise thought and kept watching the video. If she saw or heard anything that would help the upcoming court cases, she would transcribe the words and make several copies of the video. Not to distribute, since she couldn't say it was from an anonymous source; but, for their own records and to make sure they would always have a copy.
+
+Elise did the preliminary work on that while she watched and listened, and smiled as she realized that even on it's own, it would be a damaging piece of evidence against anyone that claimed Ren wouldn't be hurt from the court cases proceeding.
+
+He is the star witness, and he doesn't even have to testify. Elise thought. He just has to show them the condition his body is in.
+
+********
+
+Ren and Princess landed beside the coach, and managed not to startle the guards or the driver. Once he explained what he wanted to do, they quickly agreed to allow him to take over. The healers also agreed to his idea for them, since they also thought leaving those people to suffer was not the right thing to do. He hooked Princess up to the front of the carriage in front of the other horses, and cast Air Walk on both the horses and the carriage.
+
+“We'll go slow at first.” Ren said to the people, then climbed up onto Princess. “Hold on tight.”
+
+They braced themselves, and Princess trotted up into the sky.
+
+“We're doing it!” The assistant healer said. “We're going to disappear into the sky!”
+
+The healer laughed for a moment, then caught her breath as Princess poured on the speed. “Good god.” She said as they went faster and faster across the sky, and they couldn't even see the countryside as it blurred past. Princess started to slow down less than a minute later, and the healer thought something must have gone wrong for them to stop so soon... and then she saw King Alamast's castle in the center of the capital city.
+
+She couldn't believe it.
+
+Ren directed Princess to one of the lesser used streets near the back of the castle, and came in for a landing. He hopped off and unhooked her from the horses and carriage.
+
+“There you go.” Ren said. “I'll be back in 3 hours to check on your progress.”
+
+“I... I...” The healer tried to speak.
+
+“Travelling so fast takes a bit of getting used to.” Ren said. “You adjust quickly, believe me.”
+
+“I'll meet you here at the back gate to let you know what's going on.” The healer's assistant said. She hadn't been fazed at all by the trip, and had even enjoyed it.
+
+“Thank you.” Ren said. “Good luck, and I hope whoever you treat makes a full recovery.”
+
+The healer finally gathered her wits about her. “As do we.” She said. “Driver, to the front of the castle.”
+
+The driver flicked the reins and the carriage drove up the street and around the corner.
+
+“Let's get back to Elerlyth and Zetaya.” Ren said. “We've got a lot of work to do.”
+
+“Yes, My Lord.” Princess said and ran up into the sky and disappeared.
+
+*
+
+Diana, Princess of the Human Kingdom, had been at her perch in her upstairs window at the back of the castle, when she saw a horse drawn carriage fly in and around behind the castle. She rubbed her eyes and blinked them several times, then looked again. She watched in wonder as it landed, and then a short figure jumped off the lead horse and detached it.
+
+“What in the world?” Diana asked herself out loud as she tried to figure out who it could be. She couldn't hear what was being said; but, she watched the short interaction between the short man and the passengers with interest. It was then that she noticed the carriage was the Royal one she had dispatched for the special healers, and she recognized the guard uniforms.
+
+It's not possible for it to be here so soon. Diana thought as the short man stepped back and carriage pulled away to drive around the castle. She watched the short man climb up onto his steed, and it ran up into the air fairly close to her window. In the instant she recognized who it was, both he and the giant ram he rode disappeared.
+
+“REN!” Diana yelled. He didn't hear her, mainly because her window was closed. She banged her fist against it, then got up from her perch and ran from the room to meet with the healers. She had to know what was going on.

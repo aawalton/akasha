@@ -1,0 +1,361 @@
+---
+id: dc07fcee-3733-553c-8076-e7849fd57a26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 316 - Here We Are"
+slug: 0308-chapter-316-here-we-are
+partOf: mythrans-master-of-all-continued-completed
+position: 308
+ownLength: 4347
+unit: words
+publishedAt: 2017-07-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150614/chapter-316-here-we-are"
+royalRoadId: "150614"
+---
+
+Stella had called Barbara and told her where Ren was and what he was doing, and let her know that she could come there if she wanted, or she could have the night off. Barbara, surprisingly enough, decided to take the night off because Ren wasn't going to need her to watch over him.
+
+“Are you sure?” Stella asked. “This will be the first time...”
+
+“I'm sure.” Barbara said. “With both you and Elise there, I'm pretty sure I won't be needed.”
+
+“Barbara, he'll always need you.” Stella said. “But, you're right. You won't have anything to watch over tonight. We didn't even bring his VR headset.”
+
+“I assumed that.” Barbara said and chuckled. “I wonder what he'll do instead?”
+
+Stella laughed. “Goodnight, Barbara.”
+
+“Goodnight.” Barbara said.
+
+Stella hung up the phone and changed into a pair of jogging pants and an over-sized t-shirt, and went to bed.
+
+*
+
+Ren and Elise made out for a while after having sex, and Ren felt a wave of tiredness.
+
+“I can't believe I'm going to say this.” Ren said and smiled. “Elise, stop kissing me and go to sleep.”
+
+Elise laughed, and kissed him again. “I guess that's a reasonable request.” She said. “It's pretty late.”
+
+Ren stroked the side of her face. “I am so glad you chose me.”
+
+“I'm so glad you let me.” Elise said and ran her hand through his hair. They kissed once more, and Elise pulled the blanket up to cover them. She laid back and Ren cuddled in, and she wrapped an arm around him.
+
+“Goodnight, beautiful.” Ren said.
+
+“Goodnight, handsome.” Elise said.
+
+“I love you.” Ren said, his heart and mind at ease.
+
+“I love you, too.” Elise said. Her heart full of joy and happiness and eventually Ren drifted off to sleep as he held onto someone that he loved. He didn't really understand that Elise's initial love, her blind obsession over him, had changed because of something she never thought she'd ever experience. The object of her obsession actually loved her back. A tear came to her eye, and she wiped it away.
+
+“I really do love you.” Elise whispered, and gently kissed his forehead.
+
+*
+
+Max, the head programmer, was ecstatic when his boss Edward Torren, told him that the players themselves couldn't access the portals to the pocket realms. Once he knew that, it had been child's play to add a few lines of code to ensure that Ren wouldn't be trapped inside another one. He went home with his mind at ease, that there wouldn't be another incident like this.
+
+*
+
+Gloria had just come home after a long shift at the garage, and took a shower. When she came out, she had to keep working on her class project for that idiot professor that always picked on her. He'd assigned her the worst fluid dynamics problem that he could think of, then told her that when she solved it, she was to build it for him.
+
+“Ugh!” Gloria said as she sat down to try and work out the math again. “This is the stupidest problem I've ever seen! This would never come up in real life!”
+
+Gloria stopped ranting because she had thought of something. She looked over at her VR headset and smiled.
+
+*
+
+Sera Loris, or Selene, the Mistress of Dance in the game, sat in her room and stared at the large screen. She'd finally made herself watch the show that she believed was stolen from her. There were 3 episodes so far, and she watched each of them direct from the television station's website. She'd paid the member fee to skip the commercials, and didn't speak at all as she watched Onscreen Ren struggle and fight to complete his tasks.
+
+When the third episode finished, Sera went to her bar fridge and grabbed a sport drink. She guzzled it down and finished it, and tossed the empty bottle into the recycle bin beside the fridge. She dabbed her mouth with a napkin and tossed it into the trash, then went back and sat down again. She picked up the piece of paper she'd received from her contact at the television station, and looked at the viewership breakdown for all three episodes.
+
+“Damn.” Sera said, finally. “I have to agree with it.” She sighed. “I fit right into their target demographic, and I liked the show.” She admitted. “I liked it a lot.”
+
+She turned everything off and went into her VR room. She looked at the setup she had, and wondered what Ren used to make such a great show.
+
+“I don't know how he did it.” Sera said as she picked up her VR headset and laid down on her custom-made recliner and put it on. “If I knew the secret, maybe... just maybe... I'll be able to become famous, too.”
+
+“Flow Login Start.”
+
+********
+
+Selene woke up in her house, and got off the bed. She'd spent a lot of gold to have one of the nicest houses in the large port city of Braddock. She'd left the starter city of Aurora, believing if she had a different background for her filming, it would drum up more interest from the television studio. She had worked her way across the Human Kingdom, did all of the quests she could along the way, and ended up staying in Braddock after the most difficult quest she'd ever had.
+
+Her party had changed several times since the Aurora fire, and she thought she had the best mix of fighters and underlings. She had watched her last attempt at making a pilot episode, and thought it had the right balance of excitement and story; but, she'd not received any kind of response after sending it in.
+
+Selene left her house and walked over to her new party's meeting place, and everyone was there. They had a brute fighter, her for finesse and precise strikes, two archers with both crossbows and long bows for short and long range, two magic users, and a dedicated healer / cleric.
+
+“There she is.” The brute fighter said. “You're lucky. We were just going to leave without you.”
+
+Selene smiled sweetly at him. “Don't kid yourself. You'd never survive without me to back you up.”
+
+“I did just fine without you before.” The brute fighter said.
+
+“That's because you kept yourself limited to the minor quests until I came along.” Selene said and equipped the two swords Ren had given her. They were still sharp, despite not having them repaired in so long; but their durability was down to about half, and she wasn't sure if she wanted to take the chance of having someone else fix them or take them back to Aurora and have Ren fix them. I really should message him about it.
+
+“How many major quests have we done now? 6? 8?” One of the archers asked.
+
+“12.” The healer / cleric said. “I am so glad they become available every week. We'll have another chance at that minor demon tonight.”
+
+“Hey, it's not my fault the containment spell scroll failed.” One of the magic users said. “I've already got the replacement scroll from the guy.” He said. “He was gonna charge me for it, too!”
+
+The other magic user laughed. “After we threatened to give him permanent boils, he apologized for giving us a bad scroll and changed his mind.”
+
+“So, is that it?” The other archer said. “We've got all the things we need?”
+
+They all agreed and left the meeting place to head out to the site of the quest and activated it.
+
+“It's time to rock and roll!” The brute fighter said as the portal opened, and the first 10 of the 100 demonic minions leaped out of it to attack them.
+
+*
+
+Lara, the Sage of Ages, wondered where Ren was. She'd sent him a message as soon as she got into the game that night; but he didn't respond, so she knew he was offline. She sat in the Aurora Library and read another one of the thousands of books she had access to.
+
+I wonder what he's doing? Lara thought. It's strange that he'd be offline like this at night. She sighed and regretted that she couldn't call him on the All-Seeing Mirror.
+
+*
+
+Clint and his party had arrived at the first stop, spent a bit of time relaxing and taking care of the horses, and left it soon after. At the moment, they were at the second stop and were about halfway to their destination. Billy was putting his gold coin to good use with his guilty pleasure, Jennifer.
+
+The other members of the party enjoyed the girly show, and spent a bit more than they had intended. The girls had gotten a few new outfits, and the novelty of seeing real lingerie in the game, was too tempting for them to resist. Their brief stopover had turned into an all night thing.
+
+*
+
+Talon, the Shadow Weaver, was working. Lord Eddlemere had once again decided to scheme and try to undercut King Alamast's power over the Human Kingdom. It was a heavy ideal for him to try, and he'd attempted it several times already; but, now he was determined to make the King look as foolish as possible.
+
+Word had been sent that an important dignitary would be coming to the Human Kingdom, and Lord Eddlemere wanted the King to look as incompetent as Lord Eddlemere knew he was.
+
+“I need this to be delivered to the Ambassador's office in three days.” Talon said to the messenger. “Here's the holding and delivery fee.”
+
+“Thank you.” The messenger said and accepted the package and the payment. “You won't regret using our service.”
+
+Talon nodded and walked out of the business. I won't regret it, but you will. He thought, and slid into the closest shadow and disappeared.
+
+********
+
+Ren felt something poke him in the back and winced. He'd gotten used to the feel of the spinal tap needle, and as long as he didn't see it beforehand, he could pretend it was something else.
+
+Like a molten hot poker. Ren thought as the needle dug into the bone. He'd suffered this enough that he expected it to hurt a lot less; but, it almost always felt just as bad or worse. I swear, they are trying to intentionally hurt me. He thought after one particularly strong jab.
+
+“He's not reacting like he's supposed to.” A male voice said. “I thought you said he would...”
+
+“He's developed a high pain tolerance.” Ren's mother said. “It takes a lot to cause him real pain.”
+
+“Then hurry up and do it.” The male voice said. “I'm not paying to see mediocre results.”
+
+Ren's mother nodded, and switched from the needle to the drill. She pulled the trigger a couple of times, and Ren's whole body twitched at the sounds.
+
+“That's better.” The male voice said. “Proceed.”
+
+The drill dug into Ren's bone and he probably could have taken it; but, the edge of the drill bit snagged the edge of the incision. It tore into his skin and he screamed loudly from the pain.
+
+*
+
+“AahhhhHHH!” Ren yelled as he woke up, and gripped the closed thing to him. Elise. She woke up instantly at his yell and held onto him.
+
+“Shh! It's okay.” Elise said. His grip is so strong! She thought as she consoled him. “It was just a nightmare. It wasn't real.”
+
+Tears were in Ren's eyes as he sobbed. “It wasn't a dream.” He said, because he could still feel his back as it spasmed. “It was a memory.”
+
+“Oh, Ren.” Elise said, and wiped off his face. Stella ran into the room and came over to the bed.
+
+“What happened?”
+
+“M-m-memory.” Ren said, and took shallow breaths. “My... my back...”
+
+Stella pulled the blanket off of them and checked his back, and saw a small muscle there was knotted up pretty bad. “You've got a severely contracted muscle here.” She said. “Elise, move the pillows out of the way.”
+
+Elise moved them, and Stella turned Ren onto his stomach.
+
+“This is going to hurt.” Stella said to Ren.
+
+“I don't care.” Ren said. “Just do it.”
+
+Stella nodded and started to massage the muscles around the affected muscle and she could feel Ren trying to stay still. When she thought she had relaxed the surrounding area, she dug her thumbs into the contracted muscle.
+
+“AahhhHH!” Ren yelled. “Goddammit!”
+
+Stella kept working the muscle out and it eventually relaxed, then Ren gave a long sigh.
+
+“By the gods.” Ren said. “Stella, please tell me you've got...”
+
+“I do.” Stella said and went to the bathroom, and came back with some muscle cream and some painkillers. “Elise, can you rub this on him while I prep his medication?”
+
+“Sure.” Elise said and took the tube of cream, put some on the tips of her fingers, and rubbed the spot where the muscle was. Stella made a small supplement shake and added the painkillers. It was only a small dose, but it was strong and had to be administered carefully.
+
+“How much of this should I...” Elise started to say.
+
+“Cover the area and rub it in gently.” Stella said and put a straw in the cup. “Ren, drink this.”
+
+“Thanks.” Ren took a sip and sighed. “Both of you.” He said and took another sip. “Oh, that... that's good.” He said as Elise rubbed his back. “Uhhhhh.” He moaned as Elise got a good rhythm going.
+
+“Keep drinking.” Stella said.
+
+“R-right.” Ren said and took a sip. The muscles in his back relaxed a few minutes later, and Ren's whole body went limp as he finished the supplement and Stella took the cup from him.
+
+“If it didn't hurt so much at first, I could probably get used to this treatment.” Ren said and chuckled.
+
+“Can you tell us what happened?” Elise asked.
+
+“Well, it was like this...” Ren said and explained what he remembered.
+
+“Oh, Ren.” Elise said. “I'm so sorry you went through that.”
+
+“Me, too.” Ren said, then looked at her and then Stella. “On the bright side, if I didn't go through that, I never would have met either of you.”
+
+Stella shook her head. “I'm not going to ask you if it was worth it.”
+
+“That's because you know what... the answer... is.” Ren said and smiled sleepily. “I'm... really tired.” He said and closed his eyes, then fell asleep.
+
+“Is he okay?” Elise asked. “That was a strong memory to go through.”
+
+Stella sighed. “I don't know.” She said. “He hasn't had something like this happen in a while.”
+
+“You keep track?”
+
+“We have to.” Stella said and took out her phone, and wrote out a note to add it and the details to the chart. “It lets us gauge when the next one might occur, and possibly how severe it'll be.” She looked at Ren. “This was the first time for one like this, though.”
+
+“Do you think it was...”
+
+“All the time that his mind spent playing the game?” Stella asked.
+
+Elise nodded.
+
+“It's possible that was the trigger.”
+
+“What can we do?” Elise asked.
+
+“What we just did.” Stella said. “The other nurses and I tried a few other things before, but...”
+
+“You didn't want to bring too much attention to it.” Elise said.
+
+Stella nodded. “If we treat it like it's a normal everyday occurrence, it becomes a normal everyday occurrence.”
+
+“You mean that it stops him from worrying about it?”
+
+“Exactly.” Stella said. “Our job is to take care of him. Removing his worries and making his life easier keeps him emotionally healthy.”
+
+Elise ran her hand through Ren's hair and listened to his breathing. It was nice and even, and she placed a kiss on his cheek.
+
+“He'll be out for a while.” Stella said. “You might as well get some sleep.”
+
+“What if it happens again?” Elise asked.
+
+“I'll come running again.”
+
+Elise shook her head. “I didn't let it show, but I was so scared when he woke up screaming.” She said. “Please stay.”
+
+“But...”
+
+“This is a huge bed.” Elise said and put the pillows back. “There's lots of room for the both of us to watch over him.”
+
+“Elise...”
+
+“He'll be happy if you're close by.” Elise said and pat the bed on the other side of Ren. “Especially when he wakes up and knows you've been watching over him.”
+
+Stella nodded and climbed onto the bed, and laid down beside Ren. Elise grabbed the blanket and slid it up to cover the three of them.
+
+“Stella?”
+
+“Yes?”
+
+“I'm really glad that you were here for this.”
+
+“So am I.” Stella said, and ran a hand through Ren's hair. “So am I.”
+
+*
+
+“Okay, I think I got it.” Gloria said as she finished writing up a proper simulation for fluid dynamics. She'd used her remote connection to the micro-server at Stella's place, and set up a small test area. She sent over the files she needed, since the medical simulation only had a rudimentary fluid system installed. She made sure that nothing she did would affect any of the data Stella recorded for her experiments, and laid down on her recliner with her VR headset on.
+
+“Admin Login Start.”
+
+********
+
+Gloria appeared in the white loading space for administration use, and opened the operating menu. She loaded her advanced fluid dynamics system, and several mechanisms and experiments appeared in front of her.
+
+“That jerk-off professor won't know what hit him!” Gloria said and got to work.
+
+*
+
+Selene, the Mistress of Dance, had worked hard during the quest her party was involved in. She'd killed more demon minions than all of the other party members combined, and had kept the Minor Demon's attention when it had finally appeared.
+
+“My Stamina's almost gone!” Selene said as she dodged the Minor Demon's latest attempt to spear her with it's 30 foot long poleaxe. “I can't believe this is classed as a Minor Demon!”
+
+The 40 foot tall dark red creature had 2 legs, 4 arms, 6 horns (2 of which were on it's head), and a 20 foot long tail covered in poisonous spikes. Selene couldn't describe its face, because it was shrouded in a dark mist.
+
+“I can only imagine what a Major Demon looks like!” The brute fighter said as he ran by the Minor Demon and took a swipe at its leg, then rolled over to avoid the tail as it tried to crush him. A large sword swung down to attack the annoyance, and several arrows hit the hand that held the sword. The arrows had been enchanted with Light, or Holy magic, and the Minor Demon roared as its swing missed the brute fighter and hooked its own tail. It lost several tail spikes and hopped around in pain.
+
+“Watch its feet!” The healer / cleric said to the brute fighter as Selene slid out of the line of fire and made her way over to him. “This is my last Energize spell for the day.” He told her, and put his hand on her forehead.
+
+“That's all I'll need.” Selene said.
+
+“You know, this would work a lot better if...”
+
+“I'm not going to pray to one of the gods.” Selene said. “I don't believe in them, and I don't think they'll work any better than they do now.”
+
+“It was just a thought.” The healer / cleric said and finished casting the spell. “Okay, go!”
+
+Selene didn't waste any time and ran right back into the fray. “Get that scroll ready!” She said. “It's almost down to the required Health!”
+
+“It's ready!” One of the magic users said. “Lure it over here!”
+
+“Ha!” Selene barked a laugh. “I don't have to lure it! I just have to stop keeping it away!”
+
+Selene had been right. As soon as they stopped distracting the Minor Demon, it ran right over towards the two magic users because it knew they were the dangerous ones that it had to get rid of. It hit the Shield spell the other magic user had cast, dropped its weapons, and stood there as it pounded its 4 fists into the Mana barrier.
+
+“Ah, dammit!” The magic user said. “It's sucking out my Mana reserves!”
+
+“Drink a Mana potion!” The other magic user said, then started the chant on the scroll. The containment circle they had set up started to glow, and more Light arrows hit the Minor Demon.
+
+“Almost!” The brute fighter said. “Just a bit more!”
+
+“Give me a boost!” Selene said to the brute fighter, who stored his sword and knelt as he held out his cupped hands. She did a small pirouette as she leaped up into the air, hit his cupped hands with a single foot, and the brute used all of his Strength to throw her into the air and stood up at the same time. Selene used the extra momentum to flip forward in the air to add extra strength to her strike, and drove both blades into the Minor Demon's eyes. It howled in pain as it pulled its head back, and it took her swords with it. Selene couldn't kick off from the Minor Demon like she had wanted to, and she fell towards the ground, helpless.
+
+The brute fighter jumped up and caught her before she hit the Shield spell, and he landed on the ground on the other side with Selene cradled in his arms. The Minor Demon grabbed one of Selene's swords and yanked it out of its eye, and caused itself more damage. When it tried to grab the other one, the sword broke in half and the broken end stayed lodged in the mangled eye. Its clawed hand tried to dig out the the broken piece, and it slashed and clawed at its own face.
+
+The party all received the popup that they'd achieved the desired Health loss for the containment spell to work, and the Shield spell dropped. One of the magic users tossed the small metal box into the middle of the containment circle, and when it hit the ground, the spell snapped into place. The metal box opened up, and a mystical black hole appeared inside.
+
+The Minor Demon couldn't see; but, it howled anyways when it was caught in the black hole's pull. Its manifested body started to dissolve and be sucked into the containment spell, and it scrambled to grab onto anything that could stop its capture... to no avail. Once it was caught, there was nothing it could do to escape. After about 30 seconds, there was nothing left to the Minor Demon except for a small magically-sealed metal box.
+
+“Yeah!” The two archers said.
+
+“Whoo-hoooo!” One of the magic users said.
+
+“Yes!” The other magic user said.
+
+“Good work everyone.” The healer / cleric said.
+
+The brute fighter and Selene hadn't said anything, and the group looked over at them. The cat-calls and whistles started soon after because they saw Selene and the brute fighter making out like there was no tomorrow.
+
+*
+
+Nathalia tossed and turned in bed, and couldn't get to sleep. She was tempted to use her Sleep ability on herself; but if anything came up, she wanted to be awake for it. She was pretty sure that nothing would happen, since nearly everything had settled down after Ren had left.
+
+Both Ren and Teepo had joked that things only happened when Ren was around. Nathalia thought. It seems like they were right.
+
+*
+
+Tristan, the Fallen Prince, had finally managed to complete the elaborate quest he'd received months before. With the loot he'd recovered from the various assassinations and planting evidence to frame others for the crimes, he was much better off than he was before. He always enjoyed it when he could milk a quest for double or even triple the XP and monetary bonuses.
+
+Tristan arrived at the prearranged meeting point and stood in front of an unremarkable market stall in Bore-Reale, the major city that was the capital of the Human Kingdom, where King Alamast's castle was directly in the center of. He wasn't sure why the game designers would put the castle right in the middle of the city, considering it made entry into that castle easier than entering this market stall undetected.
+
+When the coast was clear, Tristan slipped over the counter and through the trap door, and walked through the underground tunnel to the spot he was instructed to go to.
+
+“There you are.” A hooded figure said. His face was covered in a dark mist, so Tristan couldn't see his face; but Tristan didn't care who the guy was. He gave out the best missions with the biggest payouts, and Tristan's Infamy bonuses have boosted his level ups considerably.
+
+“I was starting to get worried that you wouldn't complete it.”
+
+Tristan shrugged. “If I'd known a main quest could have 8 parts to it, I might have declined your generous offer.” He said, then smiled. “It's a good thing I enjoyed it, or I'd be pissed right now.”
+
+The hooded figure laughed. “Yes, that's why I chose you for that quest.” The voice said. “Do you have it?”
+
+“Of course.” Tristan said, took out the shadow marker he'd recovered from Ren, and handed it over.
+
+“Thank you.” The hooded figure said. “I declare the quest complete.”
+
+“Thank fuck!” Tristan said and sat down to read the popups of the things he'd gained. “What a huge pain in the ass that was!” He said, then grinned at the huge increase in several of his stats and abilities.
+
+“Here's your 5 platinum reward.” The hooded figure said and handed him the money. “I have some minor quests if you want them.”
+
+“Sure.” Tristan said. “I'm in the main city now. I might as well have some fun while I'm here.”
+
+The hooded figure laughed again. He didn't even have to try to convince the idiot to do his dirty work.

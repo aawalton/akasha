@@ -1,0 +1,357 @@
+---
+id: 6b2c5c3b-42e3-598a-a2ab-41b08a121e7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 339 - Can We Build It?"
+slug: 0332-chapter-339-can-we-build-it
+partOf: mythrans-master-of-all-continued-completed
+position: 332
+ownLength: 4086
+unit: words
+publishedAt: 2017-08-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157207/chapter-339-can-we-build-it"
+royalRoadId: "157207"
+---
+
+Ren ran back to the Main House he had built, and saw that the work crews already had 12 houses built and were starting on the next.
+
+“You're doing great!” Ren said to Jen as he came up to her.
+
+“It was your idea.” Jen said. “Having 2 extra work crews to gather supplies and build the parts beforehand, then to help put them together? It has definitely increased production.” She smiled. “We'd be barely starting the fifth house right now without them.”
+
+Ren nodded. “Why build at the normal rate when you can spend 3 times the normal cost and have them built 4 times as fast?”
+
+Jen laughed. “It's your money.” She said. “You wanted it fast.”
+
+“I do... and I assume it'll take a couple of days to make the next batch of prefabricated parts?”
+
+“About that long.” Jen said. “We can have another caravan ready after 2 days of prep.”
+
+“Nice.” Ren said. “I'll make the rest of the places for the houses right now.”
+
+“You're not coming back with each caravan?” Jen asked. “With you along, we got here pretty fast this time.”
+
+“I want to come along, but...” Ren smiled. “...you know how things can get.”
+
+Jen nodded. “I'll hope you're available, but I won't plan on it.”
+
+“That would be smart, even though I should be available since I don't have any urgent plans then.” Ren said and took out the Staff of Earth. “I'm going out to the edge of the county to make a retaining wall after this, so I'll see you in a few hours.”
+
+“You'll be here for lunch, right?”
+
+“Hopefully.” Ren said. “I should have enough for everyone, too.” He took out the large icebox and looked inside. “Yeah, there's plenty left.” He said, then closed and stored it. “I have to remember to refill it after this, though.”
+
+“Good god, is there anything you can't do?” Jen asked.
+
+Ren wiggled his eyebrows suggestively at her, and she laughed. He left her there and ran over to a clear spot on the other side of the main house and formed a road to attach to the main road, then made another 5 sections of 10 houses and small roads, with 5 houses on each side of them. He left the grass between the houses and in the yards, and made more subdivisions behind the two he had made. Since it was only a minor movement of the land to get the spots for the houses raised slightly and levelled, Ren was done of all 6 sections in just under half an hour.
+
+Ren left there and ran towards the edge of his county across the wilderness. Since an average runner could run a mile in about 7 to 10 minutes, 25 miles would take well over 3 hours. Ren was not a normal runner, though. He could normally run a mile in 3 minutes; but with his Boots of Striding and Leaping, it doubled his speed and he could do a mile in only 90 seconds.
+
+When Ren cast Haste on himself, it doubled his speed again and reduced a mile to only 45 seconds. With everything combined, he made the 25 mile trek across his land in only 18 minutes; well within the 20 minute time limit of the Master level Haste spell.
+
+Once at the border of his county, Ren asked the system to show him where it was and highlight it. A bright yellow dotted line appeared on the ground in front of him and it went off into the distance to either side of him. He used the Staff of Earth to make a 20 foot wide trench along that line, made it 20 feet deep, and shifted all that displaced dirt a foot away from the edge of the trench so it wouldn't collapse under the weight. He made a 40 foot high and 10 foot wide dirt and stone wall to discourage anyone from trying to attack his land.
+
+“You don't think that's going a little overboard?” Teepo asked. “40 feet is pretty high.”
+
+“Yeah.” Ren said. “But, all I can remember is those tall giants that could see over the 30 foot iron barriers I'd made when they jumped a little.”
+
+Teepo chittered in laugher. “Okay, I have to agree. If you giant-proof the land, nothing smaller than that should be able to get in.”
+
+“That's what I'm thinking.” Ren said. Now that he had the plan in his head of how to do what he wanted, he used the staff to full effect and did 550 feet of trench in just under a minute. If he was just making the trench, it would go a lot faster; but because he was making the wall so high rather than just making a hill out of it, it took longer. He looked at one of his raised platform rings and absorbed the enchantment from it, then replaced it with 5 glyphs of 10 runes each. It had 35 Water runes and 15 Wind runes for a total of 50 runes, and he examined it.
+
+Water Geyser Ring
+
+This ring has been enchanted to produce a torrent of water the likes no one has ever seen produced from a ring. The force produced is so strong that the user of this ring will lose their footing and be knocked down, unless they are braced securely.
+
+Ren activated his new Water Geyser ring and walked along with it pointed at the trench, and used the Staff of Earth to make more trench. Once he had the pace down, he walked fast and kept going. As the trench continued expanding, the water continued to fill it. Ren worked for 2 solid hours and had completed 12 miles of trench, wall, and moat.
+
+Ren had hit a bit of a snag when he reached a thick forest that was higher than the wall would be; but, then realized he could just shift the trees to the top of the wall instead of pushing them aside. Of course, this also made him think about covering the rest of the wall with trees as well, then he shrugged.
+
+I can always come back and do it later. Ren thought, then looked at the forest on the other side of his property line. I could just shift them all over this way. He thought, then shook his head. No, I'll stick with what I have. I don't have to steal from someone else's land.
+
+“You need to head back if you want to make it for lunch.” Teepo said.
+
+“Thanks.” Ren said and finished shifting the dirt into a wall and filled the trench with water. He deactivated the ring and stored the staff, then cast Haste on himself and ran.
+
+*
+
+“What do you think he's doing?” The scout asked his partner. They were almost a mile away and had watched Ren with their Spot ability.
+
+“It's obvious, isn't it?” The other scout said. “He's preparing for war.”
+
+“With who?”
+
+“I don't know.” He said. “Us, maybe.”
+
+The first scout laughed. “Are you kidding? You've seen that village. They don't have anything at all that could hurt us.”
+
+The other scout looked at his partner. “This new guy is changing things.” He said. “What if he doesn't use the village idiots and hires an army instead?”
+
+The first scout thought about it. “I'll run back to the camp and get the messenger.”
+
+“Tell him to pass on what we saw here.” The scout said. “Even if all this guy is doing is making defences, the Captain still needs to know about it.”
+
+The first scout nodded and slipped out of the makeshift scout perch that was in a tall tree within the large thick forest Ren had just reached.
+
+I'm sure the Captain would love to get his hands on that staff. The second scout thought as he went back to his boring 'scan the borders' order he had received a month ago, that wasn't quite so boring to follow today.
+
+*
+
+Ren made it back to the Main House on his land just in time to see the workers finish up the house they were working on.
+
+Stat Change!
+
+Running Level 1 (Advanced 0%)
+
+Jen had just called for the lunch break and everyone finished what they were doing and gathered together.
+
+“Who brought their own lunch?” Jen asked as Ren came to a stop beside her. Nearly half of the workers put their hands up. “Well, you can eat that, or what Ren brought.”
+
+“Ren's!” Jhulune said, threw a small bag of food over her shoulder, and several people laughed.
+
+“Do you you want it cold or hot?” Ren asked as he took out his large icebox.
+
+“Oh, definitely hot.” The woman that had asked for a kiss during the trip there said, and several more people laughed. Ren took out a stone brick that was enchanted with Fire and Wind runes, put it on the ground, and activated it. He took out a plate of food and held it over the flames for about 10 seconds, then held it out to the closest person.
+
+“You're kidding, right?” The guy said. “There's no way that's hot.”
+
+Ren chuckled. “Jhulune?”
+
+Jhulune ran over to him, took the warm plate, and scooped a piece of meat into her mouth. “Mmm! That's so good!”
+
+The guy tried to take a piece and she moved it out of his reach.
+
+“Hey, get your own!” Jhulune said, and more people laughed. He got a plate next, and Ren kept heating up plates of food for everyone. Like a good boss, Jen had waited until last to get hers, and Ren made one for himself. He deactivated the stone block and stored it and the almost-empty icebox.
+
+“This really is good.” Jen said after she took another bite. “You made this?”
+
+Ren nodded. “I spent a lot of time travelling and needed a constant food source for myself and my mount.” He said. “I also had to keep it for a while, so I made an icebox to store it in.”
+
+“How old is this food?” One of the guys asked. “It tastes like you just made it.”
+
+“About 3 days.” Ren said. “I made it on the ship before I arrived here 2 days ago.”
+
+“This is 3 day old food?!?” The guy exclaimed. “That's crazy!”
+
+Ren chuckled. “That's me in a nutshell.” He said, and everyone laughed.
+
+They all enjoyed a good meal and pleasant conversation, and Jhulune had sat next to Ren while they ate. At one point, her hand had snaked it's way across his lower back and rubbed it in slow circles. It happened out of sight of everyone else because his Dire Wolf Hooded Cloak covered the action, and Ren took his time while he ate so that she could keep doing it.
+
+Ren couldn't delay anymore, so he finished his meal and stored the plate. When people saw this, they handed him their empty plates and he stored them as well. Each of them thanked him and said the food was good, and they went back to work. He felt Juhulune's hand move out from under his cloak, and she passed him the plate.
+
+Jhulune leaned in to press her lips to his ear. “That was delicious.” She whispered in a breathy voice. “Thank you.”
+
+“You're welcome.” Ren said, and Jhulune stood up and went back to work.
+
+“You really are taking her on a date, huh?” Jen asked as she passed him her plate and he stored it.
+
+“You don't approve?” Ren asked her, and she laughed.
+
+“Neither of you need my approval.” Jen said. “Just don't break her heart.”
+
+Ren stood up and looked at Jen. “Don't worry. I told her not to expect any kind of relationship, or for us to date on a regular basis, or anything like that.”
+
+Jen nodded. “I'm glad you were honest with her.”
+
+“So.” Ren said to change the subject. “How did the inspection go?”
+
+Jen looked at him with surprise on her face. “Inspection? What inspection?”
+
+Ren chuckled. “Like I wouldn't guess that you would be all over the Main House when I left.”
+
+Jen grinned at him. “Why didn't you open the door for me, then?”
+
+“I didn't want it to be too easy for you to get the plans.” Ren said and grinned back.
+
+“It's magnificent.” Jen said and looked at the large two storey building. “I can't believe you built it all by yourself.”
+
+“Twice.” Ren said. “This is the second one.”
+
+“What?” Jen looked at him with wide eyes. “But... I thought...”
+
+“The other one is in the Dwarven Kingdom.” Ren said. “Although, only the outside walls, floor, and staircases are the same. I changed the layout on this one quite a bit from the other one.”
+
+Jen shook her head in disbelief. “I thought you were teasing me a little with how you described everything.”
+
+“Not a bit.” Ren said. “Of course, I can make it a lot easier and safer now.”
+
+“Why's that?”
+
+“Amulet of the Spider. As long as I have two points of contact on a surface, I can stick to it.”
+
+“You're kidding!”
+
+Ren walked over to the Main House, crawled up the wall a couple of feet, and smiled at her.
+
+“Wow.” Jen said and walked over to him. Ren had both feet on the wall and let his hands go. Jen gasped because she thought he was going to fall, but Ren only 'stood up' on the wall and crossed his arms.
+
+“That's amazing.” Jen said. He was standing horizontally in front of her, and Ren chuckled when she poked him in the chest. He pulled a foot from the wall and jumped to the ground. “Out of all the Adventurer's I've met, you are definitely the most interesting.”
+
+“Is that good or bad?” Ren asked her, and she laughed.
+
+“It depends on the mood I'm in.” Jen said. “Now get to work.”
+
+“Yes, Ma'am!” Ren said and saluted her, cast Haste on himself with the wand, and took off running. Just over 15 minutes later, he arrived back at the spot where he had stopped before lunch and continued to make the trench, moat, and wall. For the next 5 hours he shifted dirt and filled the trench with water, and had gone another 30 miles, for a total of 42 miles of 40 foot high and 10 foot thick wall, and a 20 foot wide by 20 foot deep moat. Satisfied with a good day's work, but a little sad that he didn't quite get the full side done, he ran back to the Main House to meet up with the caravan.
+
+“We only have a few houses left to build.” Jen said to him as he approached. “Give us another hour to finish up.”
+
+“No problem.” Ren said. Damn, I could have finished that side of the land if I'd stayed. He thought to himself and looked at the work the lumber yard crews had done and the 46 houses they had already built. “You even made them all slightly different.”
+
+Jen nodded. “I remember you mentioning different plans for them.”
+
+“Thank you, Jen.” Ren said. “You've been going above and beyond all my expectations.”
+
+Jen chuckled. “I guess turnabout really is fair play after all.”
+
+Ren smiled, then looked across the road. “Remind me to talk to Catalina about getting a large stable set up out here.”
+
+“You really are going all out, aren't you?” Jen asked, and he nodded.
+
+“I want this place to be functional, and for my citizens to be happy.”
+
+“I'll remind you to ask her about it when we get back to the city.” Jen said, and they discussed what else Ren wanted to build while the work crews finished the last 4 houses.
+
+“I'll have to get more lumber when I go to the capital.” Ren said nearly an hour later, after telling Jen what he wanted, and she told him what was possible and what wasn't. “I know there's not enough wood stored at the dock warehouse after Tee-one made all the replacement stock for my shop.”
+
+“It would be best if you did find another source, if you're going to build things yourself.” Jen said. “I won't have any wood or people to spare until at least a week after this order is done; so, about a month.”
+
+“That reminds me.” Ren said. “Did you need any more money?”
+
+Jen laughed. “No, I don't need any more money.” She said. “What you gave me was more than enough to cover the cost of everything for the next three weeks.”
+
+“Even the extra work crews?”
+
+“Yes, even the extra work crews.”
+
+“I'm glad.” Ren said and looked at the crews. They had just finished the last house and were giving each other high-fives, so he took out the Haste wand and refilled it's charges.
+
+“Ren, did you just-”
+
+“Yes.” Ren said and smiled as he put a finger to his lips. “Shh.”
+
+“That was exhausting!” Jhulune said as she came over to them, with the other workers right behind her.
+
+“Are you out of Stamina?” Ren asked and took out another wand.
+
+Jhulune chuckled. “Yes, but it'll recharge on the trip back.”
+
+“I can...”
+
+“It's all right.” Jhulune said and put a hand on his. “I'll be fine for our date.”
+
+“I'm not sure where to take you, though.” Ren said. “There's not a lot of places that serve food around here.”
+
+“Ren...”
+
+“I know, I know.” Ren said and smiled at her. “I'd like to just spend time with you, too.”
+
+“If you can't think of anything by the time we get back to Aurora, we can just hang out or go for a walk or something.”
+
+“Everyone got their tools?” Jen asked the crew.
+
+“Jhulune's got them.” Someone said, and Jen looked at her. She didn't see her carrying anything, then Jhulune showed her the Ring of Storage that she had.
+
+“Oh, my.” Jen said. “Where did you get-” She looked at Ren and saw his big smile. “Never mind.”
+
+Everyone laughed, and they climbed into the three carts they had arrived in.
+
+“I didn't even notice that the other carts had left.” Ren said and laughed. “I'm pretty observant.”
+
+“Me, too.” Teepo said. “I didn't notice, either.”
+
+Jen climbed up into the front cart and sat in the passenger seat. “I think we can squeeze you in.” She said. “I didn't even think about holding a cart back for you to ride.”
+
+Ren chuckled. “It couldn't take me anyways.” He said. “I need my special mount to carry me.”
+
+“Well, then.” Jen said. “Driver, let's go.”
+
+“Yes, Ma'am.” The driver said and flicked the reins, and Ren cast Haste on the horse, then on the other 2 horses and himself. He kept pace with the much smaller caravan, even though he could run quite a bit faster than them.
+
+Imagine if I had the Haste spell way back during the Aurora Expedition. Ren smiled at himself. Or any of the spells I have now.
+
+Ren pictured himself outrunning the troll and getting off the bridge before it collapsed; then he frowned. No, I shouldn't think like that. He thought. If I hadn't taken that fall into that dark abyss, I wouldn't have completed the quest without any loss of life to either the players or the soldiers. He smiled. Everything happens for a reason, and if that reason changed, then everything would change with it.
+
+The horses stopped when the Haste spell wore off, and everyone took a break with the horses. Since there was only 3 of them, they were quickly fed and the break was only short. They got on the road again and kept going, and did the same thing when the spell wore off again. This happened 3 more times and they made it back to Aurora just in time for supper.
+
+The streets were practically empty as they went down the street, and Ren saw the hastily constructed market stall that a guy had sold him ale from the day before. It was empty, just like it had been that morning; but, it reminded him that he still had that ale. The drivers took the carts over to the lumber yard and came to a stop. Everyone hopped out and the carts were positioned by the mill to await the next trip.
+
+“Thanks a lot, Ren.” Jen said. “We got to stay a lot longer than we normally would, and we completed the entire 50 houses of this batch.” She pat him on the shoulder. “I thought we'd be stuck out there until tomorrow.”
+
+“We could have stayed.” Ren said as everyone gathered around. “There was plenty of room in the Main House.”
+
+Jen shook her head. “We had to come back to get more supplies anyways.”
+
+“If I can't go with you in two days, I better give you a key to the place.” Ren said and opened up the house owner menu, and added Jen as an occupant. A small key appeared around her neck with the others that she had, and she put a hand on it.
+
+“Thank you.”
+
+Ren closed the menu and smiled. “You're welcome, and thank you for today.”
+
+“You're welcome.” Jen said. “Okay, you mooches! Get lost, and I'll see you in the morning!”
+
+“Wait!” Ren said, and everyone looked at him. “Would anyone like a drink of ale?”
+
+“I sure would!” One of the guys exclaimed, and his friends laughed.
+
+“I've only got one keg...” Ren said, and there was a loud whoop.
+
+“Tell me you've got tankards!” The guy said, and Ren shook his head. “Aw.”
+
+“I do have these, though.” Ren said and took out an expensive looking blue mug covered in sea shells, and the handle looked like a seahorse.
+
+“That's so pretty!” Jhulune said as Ren handed it to her, then handed out 35 more to the crew, and one to Jen. He carefully split up the keg among the held out mugs, and ran out just after filling Jen's and Jhulune's mugs. He stored the empty keg and looked at everyone. They stood there and looked back at him.
+
+“Where's yours?” Jhulune asked.
+
+“There's not enough for me.” Ren said. “Go ahead and enjoy it.”
+
+“Take out your mug.” Jhulune said, and he held one out, and she poured half of hers into it. “There!” She said, and turned to everyone. “Three cheers for Ren!”
+
+“Ren!”
+
+“Ren!”
+
+“REN!”
+
+After the last cheer, they all took a drink.
+
+“Whoa-ho-ha!” One of the guys said. “That's great stuff!”
+
+“Yeah!” His friend said and took another drink. “Thanks a lot, Ren.”
+
+“Thanks!”
+
+“Thank you.”
+
+Everyone stood around and chatted while they finished their drinks, then handed back the mugs. They all said goodnight, and went home to have supper.
+
+“Jhulune? Don't forget to drop off the tools.” Jen said.
+
+Jhulune went into the building to hang them back up, and left Ren and Jen alone.
+
+“I've got to lock up and get over to my place.” Jen said. “I'll mention the stable idea to Catalina.”
+
+“And temporary houses for the workers.” Ren said. “If we can teach some of the villagers how to handle the animals properly...”
+
+“You won't be taking other people away from their normal jobs.”
+
+Ren nodded. “Goodnight, Jen.”
+
+“Goodnight, Ren.” Jen said and started to walk away, and saw Jhulune as she walked back over to Ren. “Have fun.”
+
+“Hopefully.” Jhulune said and stopped in front of Ren. “So, have you thought of where to go yet?”
+
+“I'm sorry.” Ren said. “I'm drawing a complete blank.”
+
+“A walk it is.” Jhulune said and took his hand. Ren smiled as she led him down the street and over a couple of blocks, and came to a stop in front of a moderate two storey house. “Ren, I had an idea.”
+
+“Is it a good one?” Ren asked as he got the plans to the house.
+
+“Probably not.” Jhulune said and led him to the front door.
+
+“Jhulune, is this...” Ren started to ask, then his Etiquette skill activated when Jhulune opened the front door.
+
+“I'M HOOOOME!” Jhulune yelled.
+
+“It's about damn time.” A deep baritone voice said from the living room. “I felt something weird pass over the house a minute ago.” He said. “It's not going away, though.”
+
+Oh, crap. Ren thought, and Teepo chittered in laughter.

@@ -1,0 +1,335 @@
+---
+id: 0ad7d075-471f-59e4-8206-a4cf32cf91bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87 - The Duel"
+slug: 0071-chapter-87-the-duel
+partOf: mythrans-master-of-all-continued-completed
+position: 71
+ownLength: 3972
+unit: words
+publishedAt: 2016-11-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103537/chapter-87-the-duel"
+royalRoadId: "103537"
+---
+
+Ren saw that the room was lined with bleachers on one side, and they were full of dwarves. All of them were talking excitedly as Ren stepped to the middle of the room where Tegwen stood. A hush fell over the crowd. Gausen stood up and came over to Ren and Tegwen, and turned around to face the crowd.
+
+“A Trial By Combat challenge has been issued and accepted.” He said and held out a hand near Tegwen. “The challenger declares that his intended woman has been stolen.” He held a hand out near Ren. “The accused has accepted the challenge.” Gausen dropped both hands. “Weapons and armor are allowed and encouraged.” He said and turned back to face Ren and Tegwen. “Death is not. You will fight until one of you declares he surrenders, or is unconscious and unable to do so.”
+
+Both Ren and Tegwen nodded.
+
+“Take your positions.”
+
+Tegwen walked away about 10 paces and turned back to face Ren. “I will win your heart, Nathalia!” Tegwen shouted and pointed his weapon at her.
+
+“Whaaaaaaatttt!?!” Nathalia shouted back.
+
+“Do the same thing.” Gausen whispered to Ren, who nodded and took 10 paces and turned around. He didn't get into a ready position however.
+
+“If I may speak?” Ren asked.
+
+Gausen nodded. “You have that right.”
+
+Ren spoke loudly so that everyone could hear him clearly. “I know nothing of your culture.” He said, and a single gasp was heard. “I've only known one dwarf, and none of this...” Ren said and waved at the ship. “...had ever come up in conversation. I didn't know that acting politely would cause so much trouble.” Ren said, then he froze in shock. Goddammit!
+
+“What is it?” Teepo said from the ceiling.
+
+I completely forgot about my recipe for Trouble!
+
+“Ha... ha ha... hahaha” Teepo chittered in laughter so hard, he shook himself from his hold on the ceiling. His astral form fell down to the floor on his back, then bounced Teepo from his back to his front. Teepo stood up shakily on his legs.
+
+“Oops.” Teepo said then skittered across the floor and under the bleachers. Ren clamped his mouth shut to stop himself from laughing, because he'd made that same fall and it had ended the same way. A moment later, Ren took a deep breath and spoke.
+
+“I want to apologize to all of you for any indescretions that may have come up from my ignorance, especially to you, Nathalia.” Ren said to several more gasps from the crowd. I wonder if that's the default response? I've been hearing it a lot. “When this duel is over, I'd like to find out as much about your people and culture as I can, before we reach wherever we're going.” He was looking at her as he spoke, and she nodded.
+
+Ren shifted his gaze to the crowd. “If you've all heard Gausen's story of my encounter with him, then you know that I hate fighting for no reason. I believe it's both pointless and serves no purpose.”
+
+There were a few mutters of disagreement, and a few more telling them to shut up and listen.
+
+“On the other hand, I was given some wise advice recently.” Ren continued. “I was told that if I was ever challenged again, that I shouldn't hold back anymore.”
+
+Several gasps and mutters of disbelief spread through the crowd.
+
+“That person told me to go all out... and I'm going to.” Ren said and equipped his blood red leather armor, but without the gloves. Louder gasps and mutters were heard and Ren smiled, then equipped his Dire Wolf Hooded Cloak.
+
+“Ahhh!” The captain's companion screamed, and several other women joined her. Half of the dwarves in the bleachers stood to try and get a closer look, then were quickly dragged down to sit again.
+
+Ren flipped up the hood to cover his face in shadow and the captain's companion half-screamed and then fainted. The captain tried to revive her, but was unsuccessful. When asked later what had happened, she claimed that it looked like the wolf had eaten Ren's head.
+
+Ren had the Beetle Crown ring and 2 raised platform rings on his hand so far, then put his last raised platform ring on the same hand and added a ring on each of the fingers on his other hand. He absorbed the enchantments he'd placed on the rings he'd made, and then enchanted one raised platform ring with a quadruple Lightning glyph, the middle one with the Water Spray glyph (2 wind and 2 water runes), and then had a nasty thought. He enchanted the last one with the Immense Terror glyph (4 Terror runes) while concentrating on his Aura ability, and felt a connection form.
+
+Notice!
+
+You have unlocked a hidden class ability: Connection Level 1 (Beginner 0%)
+
+This ability will allow a connection to be made between 2 different items with similar properties.
+
+Higher levels will allow more connections to be made with mutiple items, for longer periods of time.
+
+Notice!
+
+You have formed a temporary connection between an enchantment and another item's granted ability.
+
+Aura has been boosted to Level 1 (Intermediate 0%).
+
+Area of effect: 20 foot radius.
+
+Duration of connection: 2 minutes.
+
+Oh, that's cool. Ren thought, then enchanted the 4 single rings on his other hand with quadruple Protection rune glyphs, giving him a 160% bonus to his Defense. His Mana Pool dropped considerably, putting him down to only a quarter of it left.
+
+Ren then equipped his golden metal shield with the Grip of the Earth enchantment on his left hand with the protection rings, and then equipped his Great Earthshaking Hammerpick Of Reaping in his right hand. Another woman fainted and the man near her did his best to revive her quickly, so they could see the upcoming fight.
+
+Ren concentrated on his Aura ability and pumped it with Fear. Gausen visibly shook from the effect, but it didn't show on his face. Tegwen on the other hand, was sweating profusely. A good portion of the bleachers closest to Ren trembled with fear, and some of the women were visibly crying. “Okay, I'm ready.” Ren said in a gravelly voice to a completely silent room.
+
+“B-b-begin.” Gausen said and ran for his chair, trying to get as far away from Ren as he could.
+
+Tegwen readied his shield and spun his maul, waiting for Ren to attack. Ren smiled, realized that no one could see his face at all, and laughed. It echoed in the room and Ren started to run at Tegwen, who dropped his maul and gripped something behind the shield. The center spike on the shield shot towards Ren, and was soon followed by several others. Ren stopped running and held his shield at the ready. He was about halfway to where Tegwen stood. At the first impact, his shield generated the big rock hand and caught the projectile. The others hit the rock hand and it started to crumble.
+
+Deactivate. Activate. Ren thought quickly, as more impacts hit the shield. He stored the hammerpick and looked at his Lightning ring. Not yet. He looked at the Water Spray ring and smiled. Oh, that's just nasty. Ren pointed his fist down and activated the Water Spray ring. A spray of water splashed under his shield and sloshed across the floor. Ren counted to 5, deactivated it, then activated the Lightning ring. A moment later, several yells were heard and Ren glanced around his shield. Tegwen, and 7 dwarves on the bottom row of bleachers who hadn't lifted their feet in time to avoid the deluge of water, were held in place by small bolts of lightning being conducted by all the water on the floor. They all twitched visibly and Ren deactivated the Lightning ring.
+
+“Sorry about that.” Ren said in apology.
+
+They all collapsed to the floor stunned, including Tegwen who couldn't keep firing in the state he was in. Ren used his Water Spray ring and soaked Tegwen from head to foot, pulled out a stone brick and enchanted it with a quadruple Ice glyph.
+
+Notice!
+
+Your temporary connection between items has been lost.
+
+“Here, catch!” Ren said and tossed the stone brick at Tegwen, who had recovered from the shock and stood, and he automatically caught it without thinking. Tegwen's arms and chest were almost instantly covered in spreading ice.
+
+“Argh!” Tegwen grunted as the ice spread to his neck and waist. Ren could see that he had a repeating crossbow mounted behind his stone shield and used Water Spray ring again, making the ice thicker.
+
+“You should have kept firing, or grabbed your maul.” Ren said and equipped his hammerpick. He hefted it high overhead and then swung it almost sideways at the stone slab shield/crossbow combination. Since it was frozen in place because of the ice, the intitial impact from the blow caused cracks to form all along the stone shield's surface. In the same instant, the shockwave from the impact shattered the shield to pieces. It didn't stop the hammerpick in the least. The crossbow fell to the floor and Ren continued his swing up and around his head, then down to smash the crossbow as well, embedding the front half into the floor. The shockwave from that impact lifted the surrounding floorboards and rippled them for a good 10 feet, then they stayed that way.
+
+Ren had looked away for a moment while smashing the crossbow, and Tegwen had used something to melt the ice from most of his chest. Tegwen dropped the Ice enchanted stone brick, it froze his boots in place, and he grabbed his maul.
+
+“I'll kill you!” Tegwen said and swung the maul at Ren's face.
+
+Ren put up the shield and the Grip of the Earth rock hand caught the maul easily. Ren pulled the maul out of Tegwen's hand, stored the hammerpick, and grabbed the handle of the maul.
+
+Deactivate. Ren thought and then examined the maul. He got the plans for it, then stored his shield. “I thought this was a nice maul when I first saw it... but I see there's a flaw in it's design.”
+
+Tegwen looked at Ren with loathing for calling down his hard work. “What's that?” Tegwen spat at Ren, who smiled and gripped both sides of the maul's dual heads.
+
+“It met me.” Ren said and used Iron Grip to crush both ends and let the pieces fall. “Surrender.”
+
+Tegwen bared his teeth at Ren. “Never!”
+
+Ren stepped away slightly. “I'm sorry that you have to be my example.”
+
+Tegwen looked at Ren with hatred. “Example of what?”
+
+He then kicked Tegwen in the chest. Since Tegwen had both feet stuck in ice, he fell onto his back with a loud thud, completely stunned. Ren had kicked him straight back so that the trapped legs wouldn't be broken. Maiming his opponent like that might not be against the rules, but it would have been a bit too cruel for Ren to cripple someone in a fight for no reason. He knew good and well what being crippled felt like, and wouldn't wish that on anyone. He walked over and took out the anvil he had in inventory and put it on Tegwen's chest. Ren waited for Tegwen to recover slightly before speaking.
+
+“Surrender.”
+
+Tegwen shook his head and Ren enchanted a single enhancement rune on it. Heavy. It pushed the air from Tegwen's chest. He shook his head again and Ren absorbed the enchantment, let Tegwen breathe, then used a double enhancement rune glyph while thinking 'heavy'. Tegwen grunted and shook his head again.
+
+“Fine.” Ren said and absorbed the glyph. He skipped the triple glyph and used the quadruple enhancement glyph instead, thought 'heavy', and then sat on the anvil himself. Ren figured that if he wasn't touching the floor, and all of his weight was only on the anvil... it would add that weight, and everything he carried in inventory, to the anvil. Tegwen turned blue a minute later, then passed out. Ren hopped off the anvil, stored it, his cloak, and his armor into inventory. He deactivated the Immense Terror ring and listened to Tegwen's breathing.
+
+“He's unconscious.” Ren said and turned to Gausen. “That means I win, right?”
+
+They all just sat there, with surprise on their faces.
+
+“He's not dead.” Ren said and rolled his eyes. He activated the Water Spray ring quickly several times to splash Tegwen's face. Tegwen spit and sputtered a minute later.
+
+“See? He's fine.” Ren grinned. “He's going to have a sore chest for a while, though.”
+
+Someone started laughing and then it spread through the crowd. Gausen got up from his chair and cautiously approached Ren, but didn't feel that fear anymore, and relaxed. He grabbed Ren's hand and lifted it.
+
+“The winner, and rightful courter to the chosen Maiden!” Gausen said. “Ren! Of House Ememay!”
+
+Notice!
+
+PvNPC Special Mode: Duel has ended.
+
+Notice!
+
+Congratulations! You have defeated your opponent in One-on-One combat.
+
+Rewards: 1500 XP
+
+Fame Bonus: 17%
+
+Notice!
+
+You have defeated an opponent 45 levels higher than you.
+
+Fame: +75
+
+Notice!
+
+The (Unregistered) Dwarven House of Ememay has gained: Influence +50
+
+The crowd erupted in cheers and Ren was soon swarmed with congratulations and pats on the back. He was engulfed in another bone crushing hug by Nathalia that he automatically returned. Ren looked down at her and despite everyone else talking, she took a deep breath and let a stream of words come out of her mouth that Ren could still clearly hear.
+
+“How did you do all of that? It was so scary! You killed a Dire Wolf? What kind of weapon was that? That was a nice shield! Where did you get that ring? Can I touch the pelt? I liked your leather armor!”
+
+Ren laughed. He still found it funny that she could say so much on a single breath and as a single sentence. “Hold on... hold on!” Ren said and broke the hug, still laughing.
+
+Nathalia looked at him with wide eyes as she realized something. “Your name's Ren!” She exclaimed, then put a hand over her mouth in surprise, because she'd said his given name out loud and in public... and then everyone laughed.
+
+“I think you're allowed to say it, now that you know it.” Gausen said and laughed, too. The crowd moved away some, and talked about how it had all turned out. No one was leaving, however.
+
+“That was quite the show.” Gausen clapped Ren on the shoulder. “It's the first time I've seen an anvil used like that.”
+
+Ren nodded. “I did my best in the fight, since it was only until submission or unconsciousness.”
+
+Tegwen came over to where Ren stood. “It was a good fight. Sorry I didn't surrender.” He said and rubbed his chest. “I was so caught up in my bloodlust that I couldn't surrender. No hard feelings?” He put out a hand and Ren looked at it.
+
+“That depends.” Ren said. “Are your repair skills really so bad that you could hardly fix a locket?”
+
+The people around them froze at Ren's words and quiet decended on the group. Tegwen stared at Nathalia and she started to blush in embarrassment.
+
+“No! Don't you dare look at her!” Ren commanded with venom in his voice.
+
+Tegwen snapped his gaze away from her. Unbeknownst to Ren, his command was now considered law, because he was now her official courter. Tegwen was no longer allowed to look at Nathalia.
+
+“She didn't know you did such a poor job until I saw it earlier today and told her.” Ren said and calmed himself down. “You even charged her an outrageous amount.”
+
+Tegwen looked at Ren. “Are you accusing me of something?”
+
+Ren shook his head. “No, I'm just stating facts.”
+
+The spectators watched the exchange like a tennis match. First Ren, then Tegwen, then Ren, then Tegwen.
+
+“I'll repair it again if it needs it.” Tegwen said.
+
+“You're kidding me, right? I just said you did a poor job.” Ren chuckled. “Plus, I took care of it myself.” He looked at Nathalia and smiled. “It won't need to be repaired ever again.”
+
+Once again, gasps could be heard from the growing crowd.
+
+Yeah, that's definitely a default response. Ren thought.
+
+“He's joking right?”
+
+“That can't be true, can it?”
+
+“He wins one fight and he thinks we'll believe anything he says.”
+
+“He's pulling our legs.”
+
+Ren tuned it all out as the captain of the boat came over. His companion was still being attended to by one of the waitresses.
+
+“Can you show us this locket?” The captain asked Nathalia.
+
+She looked at Ren, and he nodded. “You don't have to see it open, though.” Ren said to the captain. “It's Na... the Lady's secret to keep and share if she wishes.”
+
+More gasps and mutters from the crowd were heard. The waitress taking care of the captain's companion nearly fainted herself. She already has the title of Lady! She thought. It was also the same thought that everyone else there had.
+
+Nathalia blushed at Ren's words, publicly confirming her title, and hooked the gold chain with her thumb and pulled the locket out from the front of her dress. The captain had to blink a few times from the brightness of the gleaming golden locket, then leaned in to examine it closely.
+
+“He's right.” The captain said, standing up straight. “It's flawless.”
+
+Of course I'm right. Ren thought. I saw the Durability stat when I repaired it. It's N/A, or Not Available. It will never wear out.
+
+At the captain's declaration, everyone wanted to see it. Nathalia looked both uncomfortable and pleased with all of the attention. No one dared reach out to touch it, though. During this little exchange, Tegwen had slipped away, unnoticed. Once everyone else had seen it up close, Ren got another popup.
+
+Notice!
+
+Word of the first Treasure of The House of Ememay has spread.
+
+Influence +50
+
+Ren leaned in close to Nathalia. “I really am in a relationship with someone right now.” Ren said.
+
+Nathalia nodded. “I heard you the first time you told me.”
+
+Ren raised a single eyebrow. Nathalia reached up and rubbed it, and made Ren laugh.
+
+Nathalia smiled. “Men are expected to have fun before the marriage ceremony.”
+
+“M-m-marriage ceremony?” Ren stammered.
+
+Nathalia nodded. “Of course.” She said. “A year of courting, a year of engagement, and then the marriage ceremony.”
+
+Ren stared at her.
+
+“I know! It's so sudden, isn't it? We don't have much time to get ready!” Nathalia said and beamed a huge smile at Ren.
+
+She... she's serious! Ren thought.
+
+“Of course she is.” Teepo said from over by the hole Ren had made in the floor. “It really is kind of a rush. Normally, she'd have to prepare for a year first to get ready to be courted by a man.”
+
+No way!
+
+Teepo chittered in laughter. “It's true. You've skipped a whole year of her training... that's why she didn't know how to handle your advances.”
+
+But... I didn't know they were advances at the time! Ren thought.
+
+“That doesn't matter.” Teepo said. “You're in it for the long haul now.” Teepo chittered in laughter.
+
+Lucy is going to kill me when she finds out.
+
+Ren sighed as he looked over at the captain surveying the damage done to the floor. “I have to go help the captain.”
+
+Nathalia looked up and him. “I'll come, too.”
+
+Ren nodded and led her over to the large dent and rippled planks he'd left in the floor. Another dwarf was there, talking to the captain.
+
+“It's a good thing we reinforced this room.” He said and tapped the floor with his boot. “Otherwise, we'd have lost the floor. At least.”
+
+“Sorry about that.” Ren said. “I held back as much as I could.”
+
+They both looked at Ren with wide eyes. “I thought you said you weren't going to hold back.” The captain said.
+
+“Against my opponent.” Ren said. “The ship didn't do anything to me.”
+
+Ren knelt down and looked at the indent in the floor. Most of the crossbow was still wedged into the metal underfloor, and Teepo crawled up onto Ren's shoulder.
+
+“What can we do about this, Hevaz?” The captain said to the dwarf.
+
+“I'm not sure how we're going to get that out of there.” Hevaz said. “We could build-” He stopped talking when Ren reached out to grab the crossbow.
+
+“What are you doing?” Hevaz asked.
+
+“Helping.” Ren grabbed the crossbow with both hands, as close to the floor as he could and enchanted it with Smoothness. He braced himself, used Iron Grip, and pulled. There was a sound of grinding metal for a moment, the wood of the crossbow started to splinter, then it popped out of the floor. The captain, Hevaz, and Nathalia stared at him.
+
+“How did you do that?” Hevaz asked. “Even Groggot couldn't pull it out.” He said and thumbed over his shoulder to a slightly hunched over dwarf that was all muscles.
+
+“He must have loosened it.” Ren said and nodded to Groggot, and Groggot nodded back. Ren absorbed the enchantment and handed the damaged crossbow to Hevaz. Ren took out his blacksmith hammer and felt around the indent and saw where it needed to be fixed. He couldn't detect any other flaws, besides the ones he had added. “Did you install this floor?” He asked Hevaz, who nodded. “It's really nice work.”
+
+The dwarf preened at the compliment and Ren held his hammer against the metal. “Repair.”
+
+The metal glowed in the area that Ren had felt out and was concentrating on, and it reformed itself into it's proper form a minute later.
+
+Stat Change!
+
+Repair Level 4 (Intermediate 0%)
+
+“My Lord!” Nathalia yelled in delight and gave Ren a quick hug, then let go. “You're amazing!”
+
+“You're just saying that because you like my cooking.” Ren said and she laughed.
+
+“Of course I do!” She said and then blushed a little. “That's not all I like, though.”
+
+Hevaz went over and stomped on the floor where the hole had been. “It's like it never happened!”
+
+Ren smiled. “Those are the best repairs.”
+
+Hevaz nodded in agreement and then looked at Ren. “I've heard of Adventurers doing things like this... but seeing it in person is something else.”
+
+“I hear that a lot.” Ren said and smiled. He looked at the rippled wood around the hole and frowned. He saw how far out it went and shook his head. “I really am sorry I ruined this nice floor.”
+
+“That's what it's here for.” The captain said. “You gave it a great christening!”
+
+Ren chuckled. “I'm glad I've done at least one thing right so far.”
+
+The captain laughed. “At least we won't be using this room again for a while.”
+
+“What do you mean?” Ren asked.
+
+“All the other House representatives have withdrawn their protests.”
+
+Ren had a surprised look on his face as he stared at the captain.
+
+“Did you expect to have more fights like this one?” The captain said and waved at the damaged room. Water still sloshed around from his Water Spray ring, and several dwarves were pushing it with mops into drains on the sides of the room.
+
+“Actually, I did.” Ren said.
+
+The captain laughed again. “You shouldn't.” He said. “Some of them were knocked out with your shocking water trick. When they woke up, all the House representatives agreed that since you are the sole representative for your House, you have the right to sit at the main table.”
+
+“Oh.” Ren said. “Thank you for telling me.”
+
+“You're welcome.” The captain said and laughed again. “You definitely gave us all something to talk about!”

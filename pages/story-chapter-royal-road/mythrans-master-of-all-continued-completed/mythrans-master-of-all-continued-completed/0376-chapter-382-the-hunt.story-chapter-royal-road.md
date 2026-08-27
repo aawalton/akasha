@@ -1,0 +1,355 @@
+---
+id: cfe7ff03-4326-5288-9a7e-ff33fb264956
+page-type-slug: story-chapter-royal-road
+title: "Chapter 382 - The Hunt"
+slug: 0376-chapter-382-the-hunt
+partOf: mythrans-master-of-all-continued-completed
+position: 376
+ownLength: 3611
+unit: words
+publishedAt: 2017-10-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167087/chapter-382-the-hunt"
+royalRoadId: "167087"
+---
+
+The door to the house opened, and a teenage girl about 14 stood there. Her face was tear-streaked, and it looked like it had been that way for a long time.
+
+“Y-y-yes?” The girl said. Her voice trembled and her hand on the door shook slightly. Ren stepped forward immediately and knelt. It put his head as far below her head as his was below Elerlyth's when they stood together.
+
+“I am so sorry.” Ren said, and he let the emotions he felt through Elerlyth show on his face. The teenage girl saw his face change into a mirror of her own, and she sobbed. Ren opened his arms, and she opened hers and hugged him. He let her cry in his shoulder for a minute, then stood up. She was still a little bit taller than him, and he held her as she let out what she was feeling.
+
+Ren glanced at Elerlyth and gave her a slight nod, and Elerlyth reached out and touched the girl's forehead with a fingertip. The girl was so focused on Ren and sharing her pain with someone who understood, didn't notice. Elerlyth, now with direct skin contact, could feel the girl trying to pour out her sorrow.
+
+Oh, Ren. Elerlyth thought. You're helping us both. She used her ability to start absorbing the girl's feelings of sorrow and loss, and the girl was giving them up freely. Elerlyth rejoiced in the fact that Ren would do this for her, give her a willing meal from someone else, and her ability sucked in as much of the sorrow and despair the girl wanted to surrender.
+
+After a few minutes of the three of them standing there, the girl's constant sobs eased back to just occasional ones, and then to several deep breaths. She took in one really long breath of air, and Elerlyth stopped touching her as the feelings petered down to only a trickle.
+
+“I'm sorry.” The teenage girl said and let Ren out of the tight grip she had on him. “I don't even know who you are, and I just cried all over you.”
+
+“I'm Ren, and I'm here with some Adventurers to-”
+
+“IEEE!” The girl screamed in a high pitch and hugged him again. “Mom! MOM!” The girl yelled and let Ren go, grabbed his hand, and pulled him inside the house. “MOM!!!”
+
+“Wh-what... what is it?” A woman asked and stepped out of the living room. Her face was just as tear-streaked as the girl's was.
+
+“Adventurers!”
+
+“Oh, thank god.” The woman said as more tears streamed down her face. “Please, come in.”
+
+“Thank you.” Ren said, even though both he and Elerlyth were already in the house and the front door had been shut. They went into the living room and sat down, and the woman tried to tell them the story of what had happened to her husband while holding Ren's hand; but, she kept crying and couldn't get it out. Ren asked Elerlyth to sit on the woman's other side to take her other hand, and he felt how happy Elerlyth was that he was trusting her with such an important task.
+
+The daughter was much more composed because of how Ren and Elerlyth had helped her, and she told the story herself. By the time she was finished talking and told them everything that she knew, her mother felt much better and told them the things her daughter got wrong.
+
+“Please, help find him.” The mother asked.
+
+“I promise I'll do what I can.” Ren said and nodded to Elerlyth. They let the woman's hands go and stood up. The teenage girl took Ren's hand and led him out of the living room and back to the front door. She didn't open it, however.
+
+“You know, you're really short for an Adventurer.” The girl said.
+
+“That's okay.” Ren said. “I have a step ladder.”
+
+The girl chuckled and Ren smiled at her and took out a piece of cloth. He wiped off her face, stored the cloth for a split second, then took it back out and gave it to her.
+
+“Will you find him?” She asked as she held the cloth with her free hand.
+
+“I'm not going to lie to you.” Ren said. “All I can promise is that I'll try.”
+
+She nodded and let his hand go, and opened the front door. “I hope to see you again really soon.”
+
+“I hope so, too.” Ren said, and he and Elerlyth stepped outside. The door shut behind them and they walked over to their mounts. Elerlyth put a hand on his arm and Ren looked at her.
+
+“That was...” Elerlyth tried to describe how much what he had done meant to her, and he pat her hand.
+
+“It was nice, wasn't it?” Ren asked. “We helped them feel better.”
+
+“Ren...”
+
+“You don't have to say anything.” Ren said and climbed up onto Princess' saddle. “I can feel what you feel.”
+
+“But...”
+
+“You can thank me after we visit the other homes who suffered losses and deal with their sadness.” Ren said. “Let's get to work.”
+
+Elerlyth nodded and climbed up onto her steed, and they went down the street to another house where someone had disappeared and they hunted down the sorrow to remove as much of it as they could.
+
+*
+
+“He's helping the Adventurer of our kind.” The healer said after touching the Queen of the Dark Elves forehead. “The sheer amount of sorrow is... it's quite...”
+
+“Delicious.” Lylyth said. “I'm only getting a small sample, but it's so good!”
+
+“He is quite intelligent to harvest this way.” The healer said. “People are actually willing to give up their pain to him.” She smiled. “It's quite admirable.”
+
+The Queen's attendant chuckled. “You sound like you're in love with him.”
+
+“I am.” The healer said, and Lylyth looked at her with surprise. “My Queen, I love you, too.”
+
+Lylyth smiled. “So, it's not romantic love.”
+
+The healer tilted her head to the side as she thought about it. “He's grown in my heart, just as much as you have, My Queen.” She said. “I've already told you that I would sleep with him if he deemed me worthy.”
+
+Lylyth nodded. “I will allow it; but, only after I have had my fill.”
+
+The healer sighed. “I do not enjoy the husks you leave, My Queen.”
+
+“We shall see.” Lylyth said and smiled, then felt another pulse of sorrow in her heart. She looked down at the image of a spider there, and was saddened that it was not complete. Part of the head and the tips of the front two legs were still missing. “What will it take to finish it?” She asked the healer.
+
+“I don't know.” The healer said. “It should have finished long ago.”
+
+*
+
+“CLINT!” Dillon hollered over an hour later. “Over here!”
+
+Clint jogged over to where Dillon stood and knelt down where Dillon pointed.
+
+“I'm no expert, but that looks like drag marks to me.” Dillon said.
+
+“Yer righ'.” Clint said as his Tracking skill activated. “Tha' thare is a pair of boots bein' dragged ovah the edge.”
+
+Dillon leaned out and looked down the very steep slope. “You said dragged?”
+
+Clint stood up and leaned out like Dillon. “Yep.” He said and pointed 20 feet down the slope. “Thare.” He pointed 60 feet down the slope. “An' thare.”
+
+“That's all?”
+
+“Mah range is only 60 fee'.” Clint said. “Ahl haveta git down thare ta keep trackin'em.”
+
+“Ropes are only 50 feet long, unless you special order them.” Hank said. “We don't have any special order rope.” He looked down the slope. “That slope is almost 200 feet long.”
+
+“How doya know tha'?” Clint asked.
+
+Hank tapped his helm. “This gives me Intermediate levels of Spot, Perception, and Track skills.”
+
+“Okay, that's it.” Tommy said. “I officially hate not being able to wear armor, man.”
+
+“I'd say that I feel your pain, but I don't.” Hank chuckled. “Hey, here comes Ren and the scary hottie.”
+
+*
+
+“Clint!” Ren said as Princess came to a stop, and he hopped off the saddle to land beside the guys. “I've got a map.”
+
+“Ya have a wha'?”
+
+“A map.” Ren said. “Thanks to Elerlyth, we tracked down where the victims were from and got their stories from their families.” He said. “Once I wrote down the places they were from and the places they went missing, I realized I didn't have any idea where those places were.”
+
+“Wha' didja do?”
+
+“I went to the town hall and asked for a map of the town and the countryside.”
+
+“Did they give it to you?”
+
+“No, they only had one.” Ren said. “They let me look at it, though.”
+
+“Tha's not really gonna help us.” Clint said.
+
+“Sure it will.” Ren said and took out a piece of parchment. “I redrew it.”
+
+“Wha'?”
+
+Ren held out the piece of parchment and Clint saw the town with a bunch of dots and numbers, and dots with the same numbers out in the countryside.
+
+“Goddamn.” Clint said as he saw the intricate detail of the map. “How long didja take ta draw this?” He asked, worried that Ren had wasted too much time drawing and not enough time helping out the party.
+
+“About 5 minutes.” Ren said. “I'm sorry it's not as detailed as the real map, but I figured a general outline and getting it to you faster was better than taking the time to draw a higher quality one.”
+
+Clint glanced at Ren and back at the map. This is a general outline? He thought to himself. He drew individual trees in the forests!
+
+“I marked the missing people with numbers from 1 to 12.” Ren said.
+
+“The numbers aren't to keep them separate, that's the order they disappeared in.” Elerlyth said.
+
+“That was Elerlyth's idea.” Ren said and smiled. “She's pretty smart.”
+
+Elerlyth chuckled. “Yeah, putting them in order sure was brilliant.” She said sarcastically.
+
+Clint looked at the numbers for the disappearances, and nodded. “It shore was.” He said. “Accordin' ta tha map, they all wen' missin' around this area.” He said and ran a finger along the jagged dots that ended where they stood.
+
+“We were just trying to figure out how to get down there to follow the tracks when you showed up.” Hank said and pointed.
+
+“I've got that covered.” Ren said and turned to Princess. “I need to borrow your Amulet.” She huffed and it disappeared from her neck, and Ren took it out of her inventory.
+
+Amulet of the Spider (Wondrous Item)
+
+This amulet gives the wearer the ability to climb as if a permanent Spider Climb spell had been placed upon them. In addition, it grants immunity to entrapment by web spells or webs of any sort. You can also move in (or on) webs at half your normal speed. It also increases resistance against poison from spiders by 30%. Two points of contact must be maintained for the enchantment to work.
+
+Due to the higher quality of the materials used in it's creation, this amulet grants extra bonuses.
+
+Once per hour, the wearer can cast the Web spell for free. It is generated from the amulet and can be shot anywhere in a 45 degree arc forward. The wearer gains +2 bonus to Luck.
+
+Ren used his Retain Essence ability to absorb the enchantment from it and changed the two points of contact to one, then added enough Speed runes to give normal movement over any surface. He was tempted to load it up with other runes, but he didn't want to change it's inherent abilities. It was an Amulet of the Spider, and he wanted to keep it that way. He dropped the enchantment back on it, and examined it again.
+
+Improved Amulet of the Spider (Wondrous Item)
+
+This amulet gives the wearer the ability to climb as if a permanent Spider Climb spell had been placed upon them. In addition, it grants immunity to entrapment by web spells or webs of any sort. You can also move in (or on) webs at normal speed. It also increases resistance against poison from spiders by 30%. Only one point of contact must be maintained for the enchantment to work.
+
+Due to the higher quality of the materials used in it's creation, this amulet grants extra bonuses.
+
+Once per hour, the wearer can cast the Web spell for free. It is generated from the amulet and can be shot anywhere in a 45 degree arc forward. The wearer gains +2 bonus to Luck.
+
+Ren gained the plans for it and gave it back onto Princess. “Thanks.”
+
+Everyone watched as Ren took out the last 6 blank gold discs he had and used his Craft Wondrous Item ability to make 6 of the Improved Amulet of the Spider.
+
+“Here, put this on.” Ren said and gave one to Elerlyth, then to Clint, Tommy, Billy, Dillon and Hank.
+
+“Oh, Ren.” Elerlyth said. “Can my mount have one, too?”
+
+“No.” Ren said. “It's out of time.”
+
+“Wh-what?” Elerlyth turned and reached out, and just as her hand touched the Phantom Steed on the nose, it started to fade. “NO!” She yelled and tried to hug it, and her arms met empty air. “No.”
+
+Ren hugged her from behind, and she hugged his arms.
+
+“Ren.”
+
+“I'll cast it again at the bottom of the slope.”
+
+Elerlyth sighed and shook her head. “No, it... it's just a spell. It... it's not going to be Etheria.”
+
+“Are these things going to work?” Billy asked. “I mean, I got the popup telling me, but...” He looked over the edge of the slope. “We're really high up.”
+
+Ren let Elerlyth go and climbed up onto Princess. “I'd say trust me, but we all know what that means when someone says it.”
+
+Tommy chuckled. “Yeah, we're getting scammed.”
+
+Ren smiled. “I'll just show you.” He said. “Princess? Trot down the slope, but avoid the drag marks, please.”
+
+Princess walked over to the edge and went right over it, much to everyone's amazement, and they watched as she trotted down the 50 degree slope.
+
+“Wouldja lookit tha'.” Clint said as Princess came to a stop near the bottom of the slope and turned around to wait.
+
+“Me next!” Hank said and gingerly stepped over the edge and put a foot down. It held his weight, and he took another step. “Ha!” He said and started to jog. “This is great!”
+
+The others watched in amazement while their heavily armored friend jogged down the slope, stopped halfway, and waved to them. Elerlyth went next and ran down the slope, and Clint could hear her laugh when she beat Hank down to the bottom.
+
+“Come on, scaredy cats!” Hank yelled up to them when he stood next to Ren. “Don't make me call you the p-word!”
+
+Clint laughed and walked over the edge, and Tommy, Billy, and Dillon followed him.
+
+“This is so freaking weird.” Billy said. “It's like we're walking on the ground, and it's them down there that are standing on a steep slope.”
+
+“Yeah, man.” Tommy said. “I don't know if I like this or not.”
+
+Dillon laughed. “Are you kidding? Do you realize what this means?”
+
+“No, what?” Tommy asked.
+
+“We don't have to worry about falling anymore.” Dillon said as they came near the bottom. “As long as we are touching something, we won't fall.”
+
+“Unless we're picked up and thrown.” Tommy said.
+
+“Well, okay... there's not much you could do then.”
+
+“Just grab onto whoever is throwing you.” Ren said, and everyone looked at him. “What?”
+
+“Now that's brilliant, man!” Tommy said and grinned. “I've gotta remember that!”
+
+“Yer assumin' we git ta keep 'em.” Clint said.
+
+“I would have said I wanted them back when I gave them to you.” Ren said.
+
+“Why don't you have one?” Hank asked. “These things are great!”
+
+“I have an unmodified one that has more restrictions.” Ren said. “I don't want to play with it and mess it up in the middle of a quest, though.”
+
+“We hafta go tha' way.” Clint said and motioned to the left. “Ah followed tha drag marks ta thare.”
+
+“There's not much in that direction.” Ren said. “Not according to the map, anyways.”
+
+“How far do we have to go?” Dillon asked.
+
+“Ah don' rightly know.” Clint said. “Leas' not 'til we git thare.”
+
+“Do you want more phantom horses?” Ren asked, and the guys declined. Elerlyth sighed dramatically, and Ren climbed down off of Princess. “I have a surprise for you.” He said and took out the Wand of Transport.
+
+“Ren, I don't... I don't want another...” Elerlyth stopped talking when Ren cast the spell in front of her, and the Phantom Steed looked at her knowingly. “E-E-Etheria?”
+
+The Phantom Steed neighed at her and licked her face.
+
+“Etheria!” Elerlyth kissed the horse on the nose, then turned to face Ren.
+
+“Wai-” Ren's words were cut off as she kissed him.
+
+“I love you so much!” Elerlyth said when she broke the kiss a few seconds later, and the guys stared at them.
+
+“Blah!” Ren said and tried to wipe off his tongue. “You taste like horse!”
+
+Elerlyth laughed. “Come on, you still love me!”
+
+Ren sighed dramatically. “Yes, I still love you.”
+
+“How did you do it?” Elerlyth said and hugged her Phantom Steed.
+
+“I read the spell.” Ren said. “When cast, it creates a steed specifically for who I choose it for.”
+
+“Oh, Ren.” Elerlyth said and climbed up onto it. “Thank you!”
+
+“Stay bahind us.” Clint said. “Ah don' wan' ya messin' up somethin' we migh' find.”
+
+Ren rode Princess behind the group, with a happy Elerlyth beside him on her mount, and they followed the tracks for half an hour.
+
+“Ren.” Teepo said. “200 feet ahead on the right.”
+
+“200 feet ahead on the right!” Ren repeated, and everyone looked.
+
+“Wha' is tha'?”
+
+“It looks like a cloak.” Hank said, and the group approached it cautiously. It was a cloak, but it was also in tatters, with tears and holes in it that ran the full length of the fabric.
+
+“Tha's blood.” Clint said and reached out for it.
+
+“Wait!” Ren said, and Clint stopped. Ren used Enchanted Eyes to see if there were any enchantments around, and he didn't see anything. “Just a second.” He said and took out a Level 5 wand and absorbed the Web spells from it and replaced it with the Level 2 spell Detect Magic. He used it on the cloak, and nothing happened. He stored the wand and took out another and replaced it with the Level 3 spell Detect Traps. He cast that, and a cone of emanation 120 feet long covered the cloak. The ground around the cloak glowed, and it highlighted a thin line to a nearby tree and back to the cloak.
+
+“It's a snare.” Ren said, a little surprised. “A human-sized snare.”
+
+“Thanks.” Clint said and used a knife to cut the highlighted line, then stepped away from the cloak. “Tha' changes things a little.”
+
+“It sure does!” Hank said and smiled. “We're gonna meet something soon!”
+
+Ren examined the trap and frowned.
+
+Crude Rope Snare (Large)
+
+This snare was hastily made to catch large unsuspecting prey, and it quite effective to those not wary enough to watch out for such things.
+
+“We need to be a lot more careful from now on.” Ren said. “Right, Dillon?”
+
+Dillon nodded. “I got the implied warning, too.”
+
+“Stay close, bu' no' too close.” Clint said. “Ren, how many times can you cast it?”
+
+“As many times as you want.” Ren said, and the guys looked at him.
+
+“Really?”
+
+“It's a wand. I can empty it and refill it with Mana when necessary.”
+
+“Then keep castin' it in fron' of us when we reach it's range.”
+
+Ren nodded and cast it in front of the party, then again. They found three more snare traps, a hidden pit with several wood spikes on the bottom, and a 5 foot wide rock set to roll down a small incline when triggered. The party disabled these traps as they went along, so that no one would get caught in them. Ren, struck with inspiration, stored the large rock and then dropped it into the pit, and it almost filled it. He used his Staff of Earth to push the dirt together and the pit was no more.
+
+“Ha, nice one.” Hank said, and they walked on.
+
+My Lord, I smell something. Princess thought to Ren.
+
+“Princess smells something.” Ren said. “Can you tell what direction?”
+
+Princess lifted her nose and turned it from side to side, then stopped when she faced the right.
+
+“That way.” Ren said and cast both Detect Magic and Detect Traps ahead of them. Nothing showed up, and when they walked through the underbrush, they saw what Princess had smelled. Graves.
+
+Hundreds of freshly dug up graves were in the field in front of them.
+
+“Tha's no' on tha map.” Clint said.
+
+“It wasn't on the other one, either.” Ren said. “I would have noticed a mile wide graveyard on such a small map.”
+
+“What do we do?” Billy asked.
+
+“Ah los' tha drag marks a while back.” Clint said. “Bu' thare are tons of 'em here.” He said and pointed. “They go that-a-way.”
+
+“Lead on.” Hank said. “We got your back.”
+
+“Ah know ya do.” Clint said. “Le's go.”
+
+The party moved off in the direction of the drag marks, and Ren kept casting Detect Magic and Detect Traps spells to make sure that they weren't in any immediate danger.

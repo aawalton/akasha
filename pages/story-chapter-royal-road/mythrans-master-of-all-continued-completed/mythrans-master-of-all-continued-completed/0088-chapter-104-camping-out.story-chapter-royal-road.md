@@ -1,0 +1,639 @@
+---
+id: e0ce5ca7-9bdf-5cfa-b50a-9419800166fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104 - Camping Out"
+slug: 0088-chapter-104-camping-out
+partOf: mythrans-master-of-all-continued-completed
+position: 88
+ownLength: 6407
+unit: words
+publishedAt: 2016-12-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105975/chapter-104-camping-out"
+royalRoadId: "105975"
+---
+
+Ren and Nathalia kissed each other for a few minutes, until the female dwarf that picked Nathalia up at House Neram, stomped over.
+
+“What's going on over here?” She said.
+
+Ren turned his head to look at her, and saw that several women around them had fainted from his public display of affection. He let Nathalia go and turned towards the female dwarf when she came to a stop near them.
+
+“She proposed!” One blushing woman said. “Oh, my nerves.” She said and fanned her face with a hand. “I've seen people kiss before... but that...” She sat down on the ground. “Oh, my...”
+
+“I told you that having him come along would defeat the whole purpose.” The female dwarf said to Nathalia.
+
+“Please accept my sincere apologies.” Ren said, and bowed to her.
+
+All the women gasped at the same time, even the well-armed women guarding the caravan.
+
+“I didn't intend for this to happen; but since it has, I'll do my best to live up to my responsibilities.” Ren said and stood up straight.
+
+The female dwarf stared at him with wide eyes for several moments, before speaking. “W-well... see that you do.” She said and kind of wobbled as she walked away. Another female came over to help her, staring in surprise at Ren.
+
+“That was laying it on a little thick, Ren.” Teepo said.
+
+Sorry, but I had to diffuse the situation before it got out of hand.
+
+“It's not out of hand now? You're back to being engaged!”
+
+I know! Ren thought. I don't know what came over me to accept her proposal like that... after I read what Lucy wrote... telling me she'd never touch me again... I just... her over-reaction made me over-react.
+
+“I'd say!” Teepo said. “I only wanted you to sow some oats, not buy the farm.”
+
+Ren smiled and turned back to Nathalia. “I really do need to gather some ore and things.” He said. “I think we should stick with the caravan until we're near the convent, then veer off into the mountains.”
+
+“That sounds good.” Nathalia said and looked down at herself. “I won't be needing this robe anymore. My training has been cancelled.” She said and laughed. “It's starting to get itchy, too. I didn't bring any spare clothes with me, though.”
+
+“Let me help you with that.” Ren said and walked over to a clear area. He took out some wood and built a table. He set it on the ground and took out enough fabric for what he wanted to make. He cut out the pieces, dyed them to the right color, and sewed them together. Nathalia's eyes widened as he finished, and Ren turned to her.
+
+“Your clothing, My Lady.” Ren said, and held out an exact copy of the dress her father had made for her.
+
+“Ren... Ren, I... you really did memorize all of Da's work.” Nathalia said in wonder, and took the dress. Ren flipped the table up on it's end and draped a large piece of fabric over it, making it into a changing room for Nathalia. He held open the edge of the fabric, and she stepped inside. A few minutes later, she came out wearing the dress, and carried the robe in her hand.
+
+“It's perfect.” Nathalia said and gave Ren a hug. “Thank you.”
+
+“You're welcome.” Ren said, then stored the cloth and table.
+
+“W-w-what are you doing?” The female dwarf leading the caravan said as she came back over.
+
+“I don't need training anymore.” Nathalia said and handed the robe to the female dwarf. The smell of food filled the area and a lot of women's stomachs rumbled. “I'll still be coming along for a while, but I'll be with my fiance, not in a cart.” Nathalia said, and took Ren's hand.
+
+The female dwarf looked at their hands, then at their faces, and sighed. “Fine. I hope you can keep up while walking in that dress.”
+
+Ren shook his head. “She won't be walking.” He said and went over to where Princess was still tied to one of the carts. He tightened the saddle a little, and pat the side of Princess' neck. “My Lady will be riding in style.”
+
+Everyone stared at him in surprise, even Princess. Ren turned to her and whispered. “It's okay. She's really light.” Ren enchanted the saddle with a double glyph, one for Enhancement (Ren chose Toughness) so the saddle could survive the enchantment, and Antidark to make anything that sat on the saddle lighter. Princess nodded and Ren smiled. “Thanks.”
+
+Nathalia came over to Ren and looked at his mount. “You're going to let me ride her?” She said and pat Princess on the other side of her neck. “She's quite the noble mount.” Princess stood a little straighter and almost preened.
+
+Ren smiled. “That she is; and yes, you're going to ride her.”
+
+“I haven't ridden since I was a teenager.”
+
+“It'll come back to you.” Ren said.
+
+Nathalia looked down at her dress. “I think side-saddle would be best.”
+
+Ren nodded. “We can worry about that when the caravan moves out again.” He said and looked around. “Everyone's eating at the moment.”
+
+Nathalia looked as well. “Should we join them?”
+
+Ren shook his head. “I've brought enough food for about a week. We can eat some of that, if you'd like.”
+
+“I would.”
+
+Ren took out the table and the same piece of cloth he'd used before, and set out several plates of food. He made 2 chairs quickly, and they sat down to eat. When the other women started to gather everything up half an hour later, Ren stored the remaining food, chairs, table, and cloth. He and Nathalia walked over to Princess and Ren untied her from the cart. He led them both towards the road and waited by the side. They didn't notice when the Sending Stone started to glow, until they heard Narhilda's voice.
+
+“This is just another test. I hope everything is okay.” Narhilda said and the stone stopped glowing. Ren looked at Nathalia and smiled. “Go ahead.”
+
+Nathalia pat his arm and touched the stone, then told her mother what had happened. 5 minutes wasn't long, and the stone stopped glowing before Nathalia could finish the whole story.
+
+“I think she got enough of that to get the gist of what happened.” Ren said. “The next time we hear from her, she'll either be overjoyed or angry.”
+
+“Why angry?” Nathalia asked.
+
+“I kinda jumped the gun.” Ren said. “After I explained to her why I wouldn't, or shouldn't, marry you... and then I accepted your proposal.” He shook his head. “It was a rash decision, and I didn't think about the consequences.” Ren cupped the side of her face. “Nathalia, it might have been rash, but I did make the decision. My friend once told me that I was in this for the long haul, and with you by my side, I am.”
+
+Nathalia put a hand over Ren's.
+
+“You've also broken new ground by doing something that no one has ever done before. Your name will be written into the Annals of Dwarf History... right next to mine.”
+
+“Really?”
+
+Ren nodded and dropped his hand.
+
+“That's... really nice.” Nathalia said and her face flushed a little red.
+
+Notice!
+
+Lucy (2645) has voluntarily left your party, Virtual Survivors.
+
+Warning!
+
+You are the only remaining member of your party, Virtual Survivors. It will be disbanded unless you invite more party members.
+
+Invite new party members now? Yes / No
+
+“Yes.” Ren said and looked at Nathalia.
+
+“Invite Nathalia Neram.” Ren said.
+
+Notice!
+
+You have invited an NPC to join your party. Confirm? Yes / No
+
+“Yes.”
+
+“Ren, you're inviting me to join your party?”
+
+Ren nodded. “I want you to benefit as much as you can from being with me.”
+
+“Ren... I... I don't know what to say.”
+
+“Just say 'yes'.” Ren smiled.
+
+“Yes.” Nathalia said and smiled back. A slight golden glow covered her from head to foot. “Ren? What's happening?” She said and looked at her hands.
+
+“It's okay.” Ren said. “I think you're just getting an upgrade.”
+
+“I'm what?!?” Nathalia said, shocked. The glow faded a moment later and she looked at him in consternation. “Ren, I don't feel any different.”
+
+“Of course not. You're still you.” Ren grinned. “I believe all that glow did was give you access to an inventory, and probably unlocked your Level to let you gain experience, just like I do.”
+
+Nathalia looked at Ren in surprise. “I... I can hold stuff like you do now?”
+
+“Pretty much.”
+
+Nathalia gave Ren a hug. “Thank you so much!”
+
+Ren hugged her back. “I'm glad you're not angry about it.”
+
+“Why would I be angry?” She asked.
+
+“I didn't even ask you what you wanted to do. I just sprung that on you...”
+
+Nathalia laughed. “Kind of like asking you to marry me?”
+
+Ren opened his mouth to say something, then smiled instead. “We make quite a pair, don't we?”
+
+“We sure do.” Nathalia said and kissed him.
+
+“Ahem!” One of the well-armed female dwarfs said and they broke the kiss. “The fires you started won't go out.” She said and pointed. Several women were trying to put out the fires by pouring water on them.
+
+“Nathalia, why don't you help them deal with that?” Ren said and smiled. “I better stay here, so I won't disturb the caravan any more than I already have.”
+
+Nathalia smiled. “I'll be right back.”
+
+Ren watched as Nathalia and the female dwarf went to each fire and Nathalia put it out, expertly hiding the enchanted bricks, then stored them into inventory. She came back a few minutes later and smiled.
+
+“This inventory thing is great!” Nathalia said. “How much can it hold?”
+
+“That depends on what you want to carry.” Ren said. “A pound of feathers or a pound of bricks.”
+
+Nathalia looked at him like he was crazy, and Ren chuckled. “Ren, that's the same thing! They're both a pound!”
+
+“They are; but, there's going to be a lot of feathers making up a pound. I don't know how much you can hold in each slot, so a pound of feathers will take up a lot more room, whereas a pile of bricks takes only a single slot.”
+
+“Ah... I see.” Nathalia said. “How you store things is just as important as storing them in the first place.”
+
+Ren nodded slightly. “Exactly.” Ren said and motioned towards Princess. “I better help you mount up. The caravan's leaving.”
+
+Ren helped Nathalia climb up onto Princess' saddle and hooked one of her feet into the stirrup on the side her legs were on. The carts in the caravan started to move and Ren waited until the last one passed him. He glanced around the site to make sure nothing was left behind, and led Princess up the road. Ren looked at Nathalia sitting side-saddle on Princess, and smiled.
+
+She looks like a Queen sitting on her throne. Ren thought.
+
+“She probably feels that way, too.” Teepo said. “Everyone's looking at her in awe.”
+
+Ren looked at the caravan, and sure enough, nearly everyone that could see, or lean out to see, was staring at Nathalia.
+
+At least they aren't staring at me for a change! Ren thought, and Teepo chittered in laughter.
+
+The caravan moved on for about 45 minutes and the Sending Stone glowed again.
+
+“He did it! I can't believe he did it! You aren't pulling my leg, are you? He really said yes?” Narhilda said in a single breath. “Hold on... you asked HIM?!?”
+
+Ren chuckled. I guess that's where Nathalia got that ability. He thought as Nathalia touched the stone. She started talking, taking up the story where she'd left off before, and finished just as the stone's glow faded. The caravan went on for another hour, and Nathalia and her mother spoke to each other again. When the next hour approached, the glow started again and then in the middle of a sentence, stopped working.
+
+“We found the cut off point. We're about 10 hours away from the city.” Ren said and stopped walking.
+
+“We're about an hour or so from the convent, too.” Nathalia said, and she waved to the women in the caravan. Some waved back to her, and Ren waved to them. That wasn't against social protocol, but most of them fanned their faces with their hands and turned away. Ren saw two women wave back, and he smiled. He turned Princess around and walked back about 20 feet.
+
+“Go ahead.” Ren said to Nathalia, and pointed to the stone.
+
+Teepo, scout for me. Ren thought. Maybe a hundred feet or so. Far enough to not be seen from the road, but not too far to get back to it quickly.
+
+“You got it, buddy!” Teepo said and hopped out of the hood and skittered into the underbrush by the roadside.
+
+Nathalia touched the stone and spoke. “Sorry Ma, we hit the spot where the Sending Stone won't work anymore. We've stopped here, and I assume will be making camp.” Nathalia said and Ren nodded. “We'll talk to you again in an hour.”
+
+The stone's glow faded and Nathalia smiled. “Things have changed so fast that I didn't even ask where we were going to stay.”
+
+“Don't worry. I have an idea about that.” Ren said.
+
+Nathalia looked at him with her head tilted slightly. “Where were you going to stay if I wasn't here?”
+
+“The same place, just a lot smaller.”
+
+Nathalia's eyes widened at his words and Ren smiled. “You'll see.”
+
+“All clear, Ren!” Teepo said. “No snakes, spiders, or even frogs!”
+
+What about other large animals?
+
+“Those were the large animals!” Teepo said and chittered in laughter.
+
+Thanks, we're coming in. Ren thought and led Princess off of the road and through the underbrush, careful to not leave any tracks. He went in about a hundred feet and found Teepo in the middle of an open area, with some trees scattered around, almost at random.
+
+“This looks like a good spot.” Ren said and helped Nathalia dismount. “How are you? Is anything sore from the long ride?”
+
+“I didn't want to say anything...” Nathalia said. “...but that saddle wasn't designed for riding like that.” She rubbed her backside and winced a little.
+
+“I'm sorry.” Ren said. “I should have made you a cushion or something.”
+
+“Ren, everything that happens isn't your fault.” Nathalia said. “You can't think of every possibility for every situation that could possibly ever happen! You'd go crazy!”
+
+Ren chuckled. “Yeah, it's nerve-wracking for sure.”
+
+Nathalia looked at him in surprise. “You... you've been doing that?”
+
+Ren gave her a half-smile.
+
+“Oh, you poor thing.” Nathalia said, and gave him a bone-cracking hug. “After everything you've gone through...” She let the hug go and reached up to run a hand through his hair. “I'd tell you to not worry so much, but you're going to anyways.”
+
+Ren looked at her with a single raised eyebrow. Nathalia reached up and rubbed it with her thumb, just like she did the last time he'd done it in front of her, and it made Ren laugh again.
+
+“I better get camp set up.” Ren said.
+
+“What can I do?” Nathalia asked.
+
+“You can watch and be pretty.” Ren grinned.
+
+Nathalia snorted a laugh.
+
+“I'll need your help soon.” Ren said and took out enough fabric to make a half-sized Canvas Tent. He added a cloth floor, since he didn't have enough wood left. He dyed the tent grey and quickly sewed up the pieces, to finish making the exterior. Several poles were needed, and the 2 dozen springy trees he still had in inventory wouldn't do. Ren looked around, and noticed that if he had enough rope, he could use the local trees as supports instead. Nathalia helped as he got three of the top corners of the tent tied off, but then he ran out of rope.
+
+The Spider Silk String! Ren thought and took out the string he would be using for bows, and used that for the last corner and tied it off. He put small piles of stone bricks inside each corner of the 10 foot square tent, to hold it steady, and two of the springy trees to hold up the pointed top of the tent. They weren't load bearing, so they didn't bend and sway, as the ropes held the tent steady.
+
+“There!” Ren said and stepped back outside to admire the finished tent. “A palace fit for a king!”
+
+Nathalia chuckled, took the Sending Stone from Princess' saddle, and stepped inside. Ren followed her, took out his bed and placed it near the wall of the tent, and left enough room behind it to walk. He took out the table and chairs, and put them just inside and to the right of the front flap.
+
+“Is this a good spot?” Ren asked Nathalia.
+
+“Maybe a little more to the right.” She said. “If you sit on that side, you're back will be to the flap.”
+
+Ren moved the table over, closer to the side of the tent, and Nathalia nodded. Ren glanced outside and saw that it was getting dark.
+
+“I better set up some protection.” Ren said and went outside. He took out Princess' crate and set it right beside the tent. He fluffed the mattress and stepped aside to let Princess enter. She stopped beside him, Ren undid the saddle and harness, then stored them. She went inside and turned around, then plopped down on the mattress. One of the seams started to tear and Ren took out his Master Tailor Sewing Needle and used Repair on the mattress. It glowed for a moment and repaired itself.
+
+“That is so cool.” Ren said and put the needle away. He pat Princess on the neck and took out Ruck's small cabinet. He nailed it to the outside of Princess' crate and opened the door. “I know its tight, but I won't leave you out in the open.” Ren said and turned around. Ruck climbed into the cabinet and gave Ren an 'okay' gesture. “Hold on, Ruck.” Ren said as Ruck tried to close the cabinet. “I just had a really weird idea.” Ren stepped back a little. “Invite Ruck to party Virtual Survivors.”
+
+Notice!
+
+You have invited Ruck (RENFamiliar001NPC) to join your party. Confirm: Yes / No
+
+“Yes.”
+
+Ruck did several different hand gestures, from 'thumbs up' to what Ren thought was 'jazz hands', and Ren laughed.
+
+“I think just an 'okay' sign should do it.”
+
+Ruck gave Ren an 'okay' sign on each hand. He was enveloped in a golden glow for only a moment and then it stopped. Ren reached out a hand and pat him on the head.
+
+“I'd say you can Level up now, my friend.”
+
+Ruck gave him a 'thumbs up' gesture and closed his cabinet. Ren stepped back and looked at Princess.
+
+“Why stop now, right?” Ren said and smiled. “The system's letting me do all sorts of crazy things.” Ren asked Princess to stand, put the saddle on her, and sent the party invite. Princess huffed, was enveloped in a golden glow for a few moments, and Ren saw the saddle grow a saddlebag on each side, and the glow faded. He took off the saddle and she plopped back down onto the mattress. He took out her bowl and fed her some food.
+
+Teepo? Are you busy?
+
+“Nope.”
+
+How far away are you?
+
+“About 10 feet.” Teepo said and Ren turned to the sound of his voice, and saw Teepo walking along the rope to the tent.
+
+Perfect timing! Ren thought and sent Teepo a party invite. He was enveloped in a golden glow for a moment and the glow faded.
+
+“Thanks, Ren.”
+
+You don't need to thank me, Teepo. Ren shook his head. I just wish I'd thought of this sooner.
+
+“It's like Nathalia said earlier. You can't think of everything, all the time.” Teepo said.
+
+It'd be nice if I could! Ren snorted a laugh and then grinned. I think this is the coolest Party of Adventurers anyone's ever had! He thought. I love the stuff I can do with my class!
+
+With that done, Ren took the 4 rocks he had left and set them up in front of the tent. He absorbed one of the light concealment enchantments and tried to replace it with a double glyph. The stone cracked and crumbled.
+
+Damn. Stone bricks it is. Ren enchanted double glyphs of Concealment (8 Runes of Warding, 5% chance of not being discovered for each rune) on 4 stone bricks, placing them in front of the tent. Then he enchanted 2 stone bricks with Screaming Terror, (8 Runes of Terror, 10% chance of fear and fleeing for each rune), then dug a little dirt to place those at an angle, pointing upwards at about 10 degrees and slightly away from each other. Ren had put them in front of the tent opening so that if anything approached, even from the trees, they'd be hit by the area of effect. He stepped behind his line of defense and thought, Activate, and Ren heard several clawed feet scramble away as fast as they could.
+
+I better put one on each other side, just in case. Ren thought and did that. He checked his Enchanting skill and saw it was up to 10% of Level 1, and half of his Mana Pool was gone. I'm going to need some healing soon. Ren thought. I'm burning through the Mana Pool a lot faster with these double glyphs of 8 runes. He walked around the tent to make sure that it was as secure as it could be. Teepo? Anything out there?
+
+“Nope. We hit paydirt with how clear this area is.” Teepo said from the top of the tent.
+
+Sweet. Ren thought. Are you staying out?
+
+“Yeah. I'll be able to warn you if I see anything.” Teepo said. “I assume you'll be staying up all night?” Teepo said and chittered in delight.
+
+Teepo!
+
+“What?”
+
+I'll be on guard! I won't have time for that.
+
+“You might want to consult with Nathalia first.”
+
+Why?
+
+“She might have other plans for you.” Teepo said, wisely. “This will be the first night you'll be spending with each other, alone.”
+
+Oh. Ren thought. I... ah... don't think I'm ready for anything like that to happen yet.
+
+“It's too soon, huh?”
+
+Ren nodded. I'd say! As much as I'd like for someone to hold me, and tell me it'll all be okay... I still have things that I need to do.
+
+“Well, good luck.” Teepo said. “You're not the only one allowed to do what they want before the wedding ceremony, you know.”
+
+Ren sighed mentally, then entered the tent. Nathalia was sitting on the bed, waiting for him.
+
+“Hi, Ren.” She said and smiled.
+
+“Hi, Nathalia.”
+
+Nathalia pat the bed beside her. “Come and sit for a while. You must be exhausted.”
+
+Ren smiled. That's an old trick. He thought and walked over to kneel in front of her. “I'm an Adventurer, and I have to log out for a little while.”
+
+Ren pulled out the pair of armor gauntlets he'd made a long time ago, and enchanted them with double Augment glyphs, concentrating on Strength. Each glove would now give her a +8 to her Strength.
+
+“Put these on.” Ren said and handed them to her.
+
+“Ren! What are you doing?”
+
+“Armoring you up, of course.”
+
+She opened her mouth to speak, but then shook her head and put the gauntlets on. They shrunk to fit her hands and she caught her breath as she gained +16 to her Strength and +44 to her Health.
+
+“Ren... I...”
+
+Ren pulled out a short sword, enchanted it with a double glyph of Lightning (8 Lightning Runes), and handed it to her. Nathalia's eyes widened as she took the blade.
+
+“Wh-what's this for?”
+
+“Just in case.” Ren said, then pulled out the full breastplate he'd made, and enchanted it with double Protection Glyphs (8 Protection runes, +10% to Defense each), and gave her that, too.
+
+“Ren!” Nathalia said, shocked. “Where did you get all of this?”
+
+“I made them a long time ago.” Ren said. “I never got a chance to use them until now.”
+
+“I can't... I can't accept these things, Ren!” Nathalia said. “This is worth... a... a fortune!”
+
+Ren shook his head. “These are just things. They aren't worth as much to me as you are.” He said. “If you're going to be near me, you will be protected.”
+
+“Ren...”
+
+“Please, put it on.”
+
+Nathalia sighed and equipped the breastplate. It formed itself around her voluminous chest and covered her from just below the waist to her neck. Ren smiled and took out a medium shield, enchanted it with the same double Protection glyphs as the breastplate, and gave it to her as well.
+
+“I'll be able to make the rest for you, once I get a forge set up and running back at the Keep.”
+
+“The rest?” Nathalia said, surprised.
+
+“The rest of the armor for your arms, back, and legs.”
+
+“Ren, why aren't you making it for yourself?”
+
+“I would have...” Ren said and held his hands out to cup imaginary breasts on himself, and grinned. “...but a breastplate like that wouldn't fit me.”
+
+Nathalia snorted a laugh and then shook her head. “All right, I'm all armored up. Now what do I do?”
+
+“When you swing that sword, if it hits anything, it'll shock the heck out of it.” Ren said. “If you hold it there long enough, or keep swinging for that matter, you'll kill whatever it is... hopefully.”
+
+“Are... are you expecting us to be attacked?” Nathalia asked.
+
+Ren shook his head. “I'm just preparing for the worst, and hoping for the best.”
+
+Ren climbed onto the bed and laid down. “I'll be gone for about an hour, maybe longer.” Ren said, as Nathalia stood up. “See you soon.”
+
+“Logout.”
+
+********
+
+Ren took off the VR headset with his good arm, and ignored the look that Denise gave him. “Is supper ready?”
+
+Denise nodded. “I'll go get it.”
+
+“Thanks.”
+
+Ren ate in silence as Denise crossed her arms and stared a hole through him. When he was finished, he looked at her.
+
+“Go ahead and say it.” Ren said.
+
+“You're an idiot.”
+
+Ren sighed and rubbed his face with his good hand. “I know.”
+
+“That's it? You know?”
+
+Ren nodded and dropped his hands. “What else is there to say? I tried so hard to get out of the engagement when it happened by accident the first time... and then this time I jumped in with both feet, knowing full well what it meant.”
+
+Denise sat in the chair by the bed. “Ren, I thought you loved Lucy.”
+
+“I do!” Ren said. “I really do.”
+
+“Then how could you do this to her?”
+
+“Do this to her?” Ren said, nearly shouting. “You read what she wrote, Denise!”
+
+“You just took it the wrong way...”
+
+“She said... she said that she couldn't bring herself to look at me anymore. That she'd never... never touch me again... not even in the game.” Ren said, taking several deep breaths to calm down. He couldn't let himself get worked up, or things could get bad for him. “How am I supposed to take that the wrong way?”
+
+“She only meant for right now.” Denise said. “She just needs time to deal with this, Ren.”
+
+“I messaged her, explaining about the accident... and you read her response.” Ren sighed. “I should have tried to go and see her.”
+
+Denise shook her head. “No one else is insured to take you out, Ren.” She said. “Stella's doing the course in her spare time; but that's assuming the insurance company will let you leave again, and that Lucy would open the door if you showed up.”
+
+“What do you mean?” Ren asked.
+
+Denise sighed. “Doctor Hobbard wasn't impressed with us ignoring the rules with you, Ren. The first thing he did was report your injury.”
+
+Ren's eyes widened. “Well, crap.”
+
+“We're all subject to review.” Denise nodded. “Stella, Bonnie and I are new at this... so that'll buy us a little leeway... but, there's not going to be a lot of happy people here on the hospital board, or at the insurance company.”
+
+“Denise, I'm sorry.” Ren said and put a hand on her arm.
+
+“It's not like it's your fault.” Denise said and smiled. “We're just going to have to be a lot more careful from now on.”
+
+“I know what that means.” Ren sighed and took his hand back. “No more visitors for a while, no outside trips, and constant monitoring.”
+
+“For the first little while.” Denise said.
+
+Ren nodded and pulled over the laptop.
+
+“What are you doing?”
+
+“Just looking stuff up.”
+
+“You're not going to do anything crazy, like message Lucy again, are you?” Denise asked.
+
+Ren shook his head. “No, you're right. I should leave her alone for a while.” Ren said, and checked for a mortar recipe. He found one that was the same as the one in the game.
+
+“What about your... fiance?” Denise said the last word with a bit of venom.
+
+“What about her?” Ren said. I wonder... He looked up another recipe.
+
+“Are you going to break it off with her?”
+
+“No.”
+
+“You're not?!?” Denise said, surprised.
+
+“I can't. You saw the popup just like I did. It's a legally binding contract. I couldn't get out of it even if I wanted to.”
+
+“Ren! It's just a game!”
+
+“Yes, it is... and it's so much better than my real life, it's not funny.” Ren found what he wanted and smiled. Oh, that's awesome... and so easy!
+
+“It's not real!” Denise said and lightly pat the arm that was in a sling. “This is real!”
+
+Ren sucked in a deep breath and pulled his arm out of her reach.
+
+Denise had a shocked look on her face. “I... I'm sorry, Ren. I didn't mean...”
+
+“I know what you meant.”
+
+Denise shook her head. “You weren't listening to what I was saying.”
+
+“I was, and I heard you loud and clear.” Ren said. “If it's just a game, why are you so worried about it? Can't I just play it however I want? What's it to you?”
+
+“You can't get emotionally invested in fake people, Ren.”
+
+“Why not? Aren't there just as many fake people here in the real world?”
+
+Denise opened her mouth to say something, then closed it.
+
+“Right.” Ren nodded. “People act all nice and normal when others are around, but get them alone and they are completely different people.” He said. “I've had personal experience with that.”
+
+Denise tried to speak and Ren held a hand up to her.
+
+“I know everyone isn't like like my parents” Ren said. “But there are a lot of them who are, to some degree.”
+
+Denise sighed. “I'm sorry, Ren.”
+
+“For what? Trying to push on me your belief that the game is bad for my emotional health?”
+
+“Yes.”
+
+“People say things all the time, and then act differently when certain things happen.” Ren sighed. “I'm getting tired of it, to be honest.”
+
+Denise looked at him in surprise.
+
+“I made a decision in the game, Denise. It was a rash one, with a lot of consequences; but, it was my decision. I made it.” Ren said and looked at her. “I'm going to see it through, no matter what.”
+
+Ren reached for the VR headset an had a difficult time getting it on. Denise stood up and reached over to help.
+
+“I got it, thank you.” Ren said and Denise sat back down. He pulled it into place and got comforable.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up to see Nathalia's back. She stood in a fighting stance, her sword ready and waiting.
+
+“Nathalia?”
+
+“Shhh!” She said, then whispered. “There's something out there.”
+
+Ren climbed off the bed and equipped his armor and hammerpick. Teepo?
+
+“It can't find the tent, but it knows something is here.”
+
+What is it?
+
+“A giant boar.”
+
+Ren stepped around Nathalia and activated Sneak. He slipped out of the tent and over the protective barrier he'd set up.
+
+“On the left.” Teepo said.
+
+Ren looked that way and saw a shape the size of a horse move through the trees. Ren stepped quickly to one of the trees that the tent was tied to and glanced around it. He saw the giant boar sniffing the ground where they'd passed earlier that night.
+
+Dammit, I forgot to go back and muddle the scent. Ren thought, then activated his Terror ring and pointed it at the beast. It froze then turned around to look right at Ren.
+
+Oh, crap!
+
+The beast ran full out over the short distance and Ren rolled out of the way, just in time for the boar to hit the tree and snap it off where Ren's head used to be. The boar spun around from the impact and Ren deactivated the ring. The tent flapped a little after losing one of the main support lines. The boar looked around again, and started sniffing.
+
+It's drawn to the terror! Ren thought, shocked. How is that possible?
+
+“I've got no idea.” Teepo said. “This is my first giant boar.”
+
+Ren slinked around to another tree, much farther away from the tent. He didn't want a repeat of that last encounter. Ren aimed carefully and activated his Lightning ring. The 4 inch bolt hit the flank of the beast and it yelped and jumped around. He couldn't hit it reliably now, so he deactivated it and activated his Water Spray ring. He covered the ground that the boar was jumping around on and one of the boar's hooves slipped on a wet rock. It fell down and it's legs splayed out in a star pattern. Ren ran over to it, soaking it, then activated the Lightning ring again. He hit it squarely in the eye and the bolt boiled it instantaneously and it popped.
+
+“SQWUUEEEE!” It bellowed. Without missing a beat, Ren deactivated the rings and swung the hammerpick into it's skull. The boar shook it's head from side to side, and Ren whacked it again.
+
+This thing is tough! Ren thought, then heard clomping hooves.
+
+“Move!” Nathalia said.
+
+Ren dove out of the way and Princess slammed her large horned head into the giant boar's skull. The boar stopped squealing and slumped to the ground. Nathalia climbed down from the saddle and pat Princess on the neck.
+
+“Keep attacking it!”
+
+“Yes, My Lady.”
+
+Ren whacked it a few more times, Nathalia stuck her sword into it's side several times, shocking it, then Princess took another run at it. The boar rolled over onto it's side, unconscious.
+
+“What does it take to kill this thing?” Nathalia asked. “Lightning's not doing much.”
+
+Ren absorbed the Heavy enchantment from his hammerpick, and replaced it with a double glyph of Earth (8 runes in total), remembering the shape of Tegwen's maul with all the spikes on it. The head of the hammerpick formed a large rock protrusion covered in spikes and Ren smiled.
+
+“Mother Earth wants you back.” He said to the boar, and with all of his strength, slammed the Earth enchanted hammerpick into the skull of the boar. A loud crack was heard and the boar started convulsing. Ren swung again and crushed the skull completely, with a sickening thud. Ren flicked the hammerpick slightly and thought, Deactivate, and the rocky end dissolved.
+
+Notice!
+
+The 'Spirit of Earth' has accepted your generous tribute.
+
+Knowledge Of Earth Level 4 (Beginner 0%) - Earth affinity and resistance is now 13%
+
+Notice!
+
+Your party fought well and has defeated a creature far beyond all of your levels, combined.
+
+Rewards: 5000 XP
+
+Fame Bonus: +38%
+
+Camaraderie Bonus: 14% (5% Base x2, + 1% Per Extra Party Member Present)
+
+Ren wondered at the extra 2%, since he only saw Princess and Nathalia, then he turned around and saw Ruck was standing there with Teepo on his back. Then he was tackled by Nathalia and gripped in a bone crushing hug.
+
+“I was so scared!” Nathalia said. “I've never ridden into battle before!”
+
+“You did great.” Ren said and looked at Princess. “So did you.” Ren smiled. “Thank you all for coming to my rescue.”
+
+“All?” Nathalia asked.
+
+Ren chuckled. “I think it's time we were all formally introduced.” He said. “You all know Nathalia.” He walked over to Ruck. “This is Ruck.” He stepped to his mount and pat her neck. “This is Princess.”
+
+“You named your mount Princess?!?” Nathalia exclaimed in shock.
+
+“She named herself actually.” Ren said. “It was the only one she liked.”
+
+“Oh... well, I guess that's okay.” Nathalia said. Ren looked at her for a moment, then his eyes widened in surprise.
+
+“Nathalia, I didn't realize...” Ren said and stepped over to her to take her hand. “You're Lady of House Neram's daughter, which makes you...”
+
+“A Princess.”
+
+Teepo chittered in laughter. “Even I missed that one!”
+
+Ren sighed. “I'm sorry.” He let her hand go and walked over to Teepo. “This is Teepo.”
+
+Nathalia squinted her eyes. “You just said that was Ruck.”
+
+Ren picked Teepo up and held him out. “This is Teepo.”
+
+Nathalia looked at him like he was crazy, and Ren laughed. “I've got to get used to that look.” He said. “I've had Teepo for a long time. He's my best friend. He's also my eyes and ears as my scout.”
+
+“You're serious? There's something there, in your hand?” Nathalia asked.
+
+Ren nodded, Princess huffed and nodded, and Ruck gave a 'thumbs up' gesture.
+
+“You can see him too, Ruck?” She asked, and he gave another 'thumbs up'.
+
+Nathalia looked at everyone. “It's nice to meet you all.”
+
+Ren put Teepo in the hood of his cloak, then stored the giant boar's carcass. “Did any of you get notices that you leveled up?”
+
+Ruck put up a hand, and so did Nathalia. Princess huffed.
+
+“Me.” Teepo said, and chittered in delight.
+
+“Let's get back to the tent, and I'll give you all a crash course in what to do.” Ren smiled, took Nathalia by the hand, and led the Virtual Survivors back to the tent.

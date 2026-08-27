@@ -1,0 +1,251 @@
+---
+id: 754eade1-f8ca-5cf1-bf61-ac95a5c675f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 250 - Stained Glass"
+slug: 0239-chapter-250-stained-glass
+partOf: mythrans-master-of-all-continued-completed
+position: 239
+ownLength: 3576
+unit: words
+publishedAt: 2017-05-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135232/chapter-250-stained-glass"
+royalRoadId: "135232"
+---
+
+Once Ren got the technique down, soldering all the pieces together went fairly quickly. Without the need of special tools, because he was only using his fingers, he was finished of one side of the picture in just over an hour. Ren picked it up, flipped it over carefully, and soldered the other side. It went much faster this time, because he'd leveled up Soldering to Level 4 on the first side. The more he leveled a skill up, the faster he was able to do it.
+
+Ren was grateful for his Fast Craft ability, which increased his crafting speed by 25%, and he finished the second side in just over 50 minutes. Once it was secured on both sides, he soldered all around the outside edge of the picture to make it one solid piece.
+
+Stat Change!
+
+Soldering Level 6 (Beginner 0%)
+
+Ren remembered the lessons he'd learned from the woman who taught him how to do stained glass properly, and took out some wood to set the picture into a proper window frame. He measured the outside edge, and cut the wood to the right length. It was a plank, so it was a foot wide; and that was much too wide for a window. He cut each frame piece lengthwise into 3, so now he had 3 pieces that were almost 4 inches wide, for each side of the window. He nailed 4 of them together to make a nice rectangle that would fit around the stained glass window.
+
+He took the second set of pieces and cut it lengthwise again, making them just under 2 inches wide, and trimmed out enough room for the pane of soldered stained glass to fit in between. Ren nailed four of the 2 inch pieces to the inside of the 4 inch frame, laid the soldered stained glass window into it, then nailed on the other 2 inch pieces on top. It made a nice trough for the stained glass to sit in, which held it securely. He held it up and grinned.
+
+“Now that is a thing of beauty.” Ren said, and set it aside. He had made that one for the private room for Fire Dancer, so now he gathered up the other pieces of stained glass and made another picture that was identical to the first, with the large humanoid fire being standing up from the mountain, and stomping on the ground with blue flame shooting out. The only difference was that the red and orange pieces were reversed. He'd used orange to replace a lot of the red in the first picture, so in this one, he used red to replace a lot of the orange.
+
+There were lots of white, blue, and yellow pieces of colored glass left from the window panes he'd made for the first one; so, he just trimmed them to fit the spaces that they needed to go in the second picture. Ren ran out of foil about halfway through wrapping the edges of the new pieces, so he had to take out another copper square and hammered it out really thin to make more foil. He realized that the more elaborate a picture he tried to make, the more pieces of glass it would need; and it would also need more foil so it could be soldered together. Once he'd made more foil and cut it up into tiny strips, he kept going and wrapped all of the edges of the pieces. He set down the last wrapped piece, and got a popup.
+
+Stat Change!
+
+Foil Wrapping Level 1 (Intermediate 0%)
+
+Ren sighed a little bit, because it would take quite a bit longer to level it up, now that it wasn't at the Beginner stage; but, then he smiled. He remembered that all he had to do was work hard and not worry about it. The skill would level up eventually, as long as he kept going. He had to refill the crucible with molten metal, and soldered the pieces of the new picture together. It took about 45 minutes to do it all, then he flipped it over and did the other side. Once that was done, he soldered all along the outside edge, just like he did with the other stained glass window.
+
+Stat Change!
+
+Soldering Level 1 (Intermediate 0%)
+
+“Whew.” Ren said, and stood back. “Almost 6 hours straight, and that was with the pieces already cut.” He said. He took out another plank of wood and repeated the cuts he'd made to make the other window frame to set the stained glass window into it, and when he was done, he had enough pieces left to do another window without having to cut another plank.
+
+“Two planks makes 3 window frames, and I'm making 18 more pictures for the stained glass windows.” Ren said. “So, I need to cut up 12 more planks.”
+
+Ren took out 12 more planks, and repeated the cuts on them, and piled them to the side. Now all he had to do was grab the next set of pieces and could build the frames without having to stop and make the cuts each time.
+
+Stat Change!
+
+Saw Level 3 (Intermediate 0%)
+
+Ren assembled the next window frame, set the second stained glass picture into it, and finished it off. He set that one aside with the first one, and looked at his over-sized workbench. It was covered in pieces of glass. He was sure he was going to need at least some of them for other pictures; but at the moment, they were in the way. Rather than keep them, he decided to do what he did with the picture of the Fire Deity. He'd dye a few panes of glass to the right colors for the picture he wanted, then duplicate that picture on each. That way, he didn't have to worry about making a single glass piece to fit for each and every color; he would already have them and just had to switch them out on the original.
+
+Ren thought about what Deity to do next, and figured that Wind should be the one. He used it a lot and had enchantments going right now that used it. He closed his eyes and wondered what the best picture to showcase Wind would be. A minute later, he decided that the best option would be a half bent over tree with it's branches and leaves blowing in the wind, a little bit of green on the bottom for grass, some long thin clouds, and streams of lines to show the wind blowing. He was tempted to make it come from a big cloud, but he didn't want to insult the Deity by saying it was a fat cloud.
+
+Ren only needed 4 panes of glass; one green, one brown, one white, and one blue. He took out his scoring tool, and traced out the image on the white pane of glass. Using the gripping tools, he broke all of the pieces apart and reassembled them in the proper order. He repeated this with the blue, brown and green panes of glass, then replaced their parts in the white pane of glass with the appropriate colors. Surprisingly, there were just as many pieces in this picture as there was in the fire one, and Ren used the copper foil to wrap the edges. Some of the pieces were quite big, so they wouldn't be as difficult to solder together. Most of the grass was one piece, even though he was tempted to cut it up just because he could. A lot of the sky was blue and were big pieces, too; so, he knew he couldn't use the replacement pieces to make a similar picture like he did with the red and orange pieces in the Fire stained glass windows.
+
+There were lots of left over pieces, though. Especially with the brown and green. He easily cut out another bent over tree and branches, and used the top of the green to make another grass section. He took out a fifth pane of glass, scored it across the middle, and snapped it in two. He dyed one half white, and the other blue, and cut out the appropriate pieces to make a duplicate of the Wind picture he'd just made.
+
+More foil was needed, but that was okay because Ren had 58 more 1 foot by 1 foot copper squares that he could hammer out. He took another one out, hammered it and stretched it, then cut it into thin strips. Using the foil, he wrapped up the edges of all of the pieces for both pictures. He refilled the crucible again with molten metal, and soldered the front side of each picture. He did the both of them in only 80 minutes.
+
+“Ren!” Teepo said, but Ren was concentrating so hard on soldering the outside edge of the panes of stained glass, that he didn't hear him. “REN!” Teepo yelled as he landed on Ren's shoulder, and Ren looked at him. “Supper time.”
+
+“Already?” Ren asked. “Damn, the day went by fast.” He said, covered up his work with a large piece of cloth, and ran down to the road.
+
+Stat Change!
+
+Running Level 4 (Intermediate 0%)
+
+I'm just full of popups today. Ren thought, and stood there to wait for Nathalia, who he saw walking up the road towards the Keep. “Ma'am.” He said, and she nodded slightly to him. The guard opened the gate, Ren led Nathalia inside, and the gate shut behind them.
+
+“Did you have good day at the mine?” Nathalia asked.
+
+“No.” Ren said. “I didn't work there today.” He sighed. “I spent the day in my workshop.”
+
+Nathalia looked at him with surprised expression. “Why?”
+
+“I couldn't go through with the physical examination this morning.” Ren said.
+
+“Why not?” Nathalia asked. “I thought you worked everything out with Deresdra.”
+
+“She wasn't there today.” Ren said as he tossed a couple of planks into the fire elemental's pen and webbed them up. “It was a man that I didn't know.”
+
+“Oh, no.” Nathalia said and hugged him from behind. “Did you kill him?”
+
+Ren laughed because he could feel that Nathalia was joking. “No, My Love. I took the day off and ran away.”
+
+Nathalia turned him around and kissed him. “I'm glad you got out of there before anything bad happened.”
+
+“Me, too.” Ren said. “I think I would have been okay if it had been another woman; but... I... I couldn't...”
+
+Nathalia hugged him tightly. “Are you going to be okay?”
+
+“I was okay once I got out of there.” Ren said. “Deresdra will be back as the healer tomorrow, so everything should be good.”
+
+Nathalia nodded slightly, let him out of the hug, and took his hand. “Let's get something to eat before you have to deal with your Adventurer's business.”
+
+She took Ren into the house, and the little table was set up with three plates of food on it.
+
+“Hey, you two.” Ereka said. “How was work?”
+
+“We were going to ask you that same question.” Nathalia said. “My day was long and a little frustrating. We hired a new cook, and they don't know their pots from their pans.”
+
+“Mine was both fun and a little frustrating.” Ren said. “How was your day, Ereka?”
+
+“It was filled with paperwork.” Ereka said. “I never imagined having all these things to take care of would take up so much time.”
+
+“I told you a while ago to hire someone to help.” Ren said, and Teepo flew off to do a check of the house. “The receptionist can handle some things for you, but I think you need an assistant.”
+
+“Okay.” Ereka said as they sat down at the table. “I'll put the word out that I'm looking for an assistant.”
+
+“You can check with the families that have already moved here and joined the House first.” Ren said. “Then you won't have to worry about hiring someone and have to make them sign confidentiality agreements with House Neram.” He took a bite of food. “There might not be anyone close to what you need; but, you can always train them to be the best assistant for you.”
+
+Ereka looked surprised for a moment. “That's a good idea.” She said and smiled. “I'll check first thing tomorrow.”
+
+Nathalia and Ereka discussed the different things that they did during the day, and when it came to Ren's turn, he told them he had made 2 stained glass windows for the church, and had 2 more half-finished already, with enough wood cut to make the frames for the rest.
+
+“That's wonderful!” Ereka said. “I've had quite a lot of people stop in at the Main House to ask when it was going to be finished.”
+
+“It should have been finished about a month ago, but I wasn't here to work on it.” Ren said. “I've gotten so much done today because I spent all day working on it.” He said. “I've got Adventurer's business to do tonight, too.” He sighed. “I should be back in time to get a few hours sleep, but I can't guarantee it, or that I'll get the windows done before I head to work back at the mine.”
+
+“Oh, Ren.” Ereka shook her head. “You do too much.”
+
+“It's not like anyone else can do it.” Ren said. “I've already got Tee-one working on the Keep, and he fills orders for funiture, weapons, armor, and clothing when people want them.”
+
+“What about Ruck?” Nathalia asked. “He's just sitting in his cabinet room in the stable.”
+
+“I've knocked, but he didn't answer.” Ren said. “I think he's mad at me for being gone for so long.”
+
+“I'm sure he knows that it wasn't your fault.” Ereka said.
+
+“He should.” Ren said. “I explained it to Princess, and he would have heard me.” He sighed. “I'll try to talk to him again in the morning.”
+
+When they finished eating, Ren helped clear off the table and put the dirty dishes in the sink. He put on an apron and started to wash the dishes.
+
+“What do you think you're doing?” Nathalia asked him.
+
+“Doing the dishes.” Ren said.
+
+“Let me do that.” She said, and untied his apron.
+
+“Hey, I've got to start pulling my weight around here.” He said, and tried to tie the apron again. Nathalia held onto the end of the apron string and smiled.
+
+“We've gotten along without your help for this long.” Ereka said and took his other apron string. “You better get into the main room and deal with your Adventurer's business before Nathalia makes you go.”
+
+“Why do I have to make him go?” Nathalia asked.
+
+“Because he loves you and will do pretty much anything you want him to.” Ereka said and smiled. Nathalia grinned and looked at Ren.
+
+“She has a point.”
+
+Ren snorted a laugh. He knew when he was out-gunned. “Okay, fine.” He said and slipped off the apron. “I'll be back as soon as I can.”
+
+“I'd tell you to have fun; but, I'm sure you've got something not so pleasant to do.” Nathalia said, and gave him a quick kiss.
+
+“That's the truth.” Ren said and took Nathalia by the hand.
+
+“Bye.” Ereka said. Ren went to the main room with Nathalia, and they sat on the couch together. She could feel his trepidation, and caressed his face.
+
+“Is it going to be bad?” Nathalia asked.
+
+“I hope not.” Ren said. “But, there's always a chance it could be.”
+
+Nathalia kissed him to try and make him feel better, and he appreciated her concern. He was worried, because he had physical therapy to go to, and Stella wouldn't be there to help.
+
+“I'll be here when you get back.” Nathalia said. “That's not a promise; just the truth.”
+
+Ren nodded slightly and let her hand go. She slid slightly away, and he relaxed on the couch.
+
+See you later, Teepo. Ren thought to his friend, who was perched on the ceiling above him. “Logout.”
+
+********
+
+Ren woke up in the bed, and when he slipped off the VR headset, he saw Denise's short blonde hair was a little more stylish than usual, and she seemed a little taller than her normal 5 foot 3 inches. He saw Barbara across the room and smiled.
+
+“Hey, you.” Denise said and took the headset from him. “Did you have a good night?”
+
+“Yes and no.” Ren said, and explained about what happened at the mine, then told her about the stained glass windows he'd made.
+
+“They're really pretty.” Barbara said. “Even the two that are all fire.”
+
+“I'll have to check out the footage later.” Denise said. “I assume you'll have to go back to the mine first thing?”
+
+Ren nodded. “Missing a day right after starting again was not the best thing to do.”
+
+“Nonsense.” Barbara said. “I was really proud that you got out of there before anything happened.”
+
+“Me, too.” Denise said and put a hand on his arm. “I'm glad you didn't try to go through with the examination.”
+
+“You... you are?” Ren asked, surprised.
+
+“Of course I am.” Denise smiled and took her hand back. “You didn't foolishly throw yourself into a traumatizing situation, Ren.” She said. “You didn't know how you would handle anything that might happen, and you did the wise thing and left instead.”
+
+Ren took a breath and let it out. “Thanks.” He said, and looked at Barbara. “Thank you.”
+
+Barbara smiled. “You don't have to be stupidly brave all the time.”
+
+Ren chuckled, and shook his head. “Stupidly brave?”
+
+“There's brave; like walking away from a bad encounter.” Barbara said. “Then there's stupidly brave; where you jump in and never consider the consequences... to either yourself or others.”
+
+“Hey, when have I been stupidly brave?”
+
+Barbara didn't say anything, and Ren looked at Denise.
+
+“When that man broke your finger at the mall, for one.” She said, and Ren's eyes widened.
+
+“Wh-what?” Ren said. “I thought you meant in the game!”
+
+“It can be any situation, anywhere.” Denise said. “Not just virtual.”
+
+“But... but if I didn't stop him...”
+
+“You didn't have to grab his arm.” Barbara said. “You could have hollered, or waved your arms to get someone else's attention.” She sat by the bed and took his hand. “I'm not saying what you did was wrong.” She explained. “Just that there were other choices that you could have made.”
+
+“But...”
+
+“It worked out, probably better than any other choice might have.” Denise said. “But it could have been really bad.”
+
+“Listen.” Ren sighed. “I can't promise that if any situation like that ever comes up, that I won't do the exact same thing again.” He looked at Barbara, then at Denise. “I won't second guess myself over what might have happened the last time, either.” He shook his head. “There's no point to that. What happened happened, and that's it. I can't go back and change it; and I wouldn't even if I could.”
+
+“Ren...” Barbara started to say.
+
+“No.” Ren said. “I'll take your advice. I'll try my best to not get into anything that could cause that type of situation; but, I also won't predetermine what my decision would be in some situation that might never come up again.” He said. “And that's all I have to say about that.”
+
+Denise looked at Barbara, and then back at Ren.
+
+“I'd like to have breakfast now, if it's not too much trouble.” Ren said. “I've got a bit of time before therapy, and I'd like to have the food in my stomach for a while before going in there.” He sighed. “I'm not looking forward to this session one bit.”
+
+It was Denise's turn to sigh. “I'm not as good at intervention like Stella is, Ren.” She said. “I'm sorry.”
+
+Ren smiled. “It's not your fault that Stella can handle men without them realizing she's handling them.”
+
+“She's one of a kind, that's for sure.” Denise said. “I'll be right back with breakfast.”
+
+Denise left the room, and Barbara still held onto Ren's hand.
+
+“I can't intervene either.” Barbara said. “I'm even worse at it than Denise.”
+
+“That's okay.” Ren said. “If I had a choice of dealing with the therapist or avoiding him, I'd definitely avoid him every time.”
+
+“I know.” Barbara said. “We've talked to him several times already; but, he just doesn't understand.”
+
+“I don't think he wants to.” Ren squeezed her hand. “He probably thinks he can cure me if he just keeps working on me.” He sighed. “It's just too bad that he's wrong.”
+
+Barbara sighed. “I'm sorry, Ren.”
+
+“Me, too.” Ren said. “Me, too.”
+
+Denise came in with his breakfast, and Barbara had to let his hand go so he could eat. It didn't take long for him to finish, and Denise took the tray away. Ren slid out of bed and took his workout clothes out from the top drawer of the dresser. He changed fairly quickly and put his pajamas in the small hamper by the dresser, then climbed back up onto the bed to sit and wait. If Ren's guess about the therapist was right, and after Stella had kept the therapist at bay yesterday and barely let him touch Ren at all...
+
+Today's physical therapy session was going to be pure hell.

@@ -1,0 +1,311 @@
+---
+id: 47eace94-b125-562e-a221-54fa72b3d470
+page-type-slug: story-chapter-royal-road
+title: "Chapter 260 - Not Again"
+slug: 0250-chapter-260-not-again
+partOf: mythrans-master-of-all-continued-completed
+position: 250
+ownLength: 3501
+unit: words
+publishedAt: 2017-05-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137943/chapter-260-not-again"
+royalRoadId: "137943"
+---
+
+The make out session lasted for quite a while, and the both of them had lost track of time. Neither of them knew exactly how long they'd been away; but, now that their immediate passion had been quenched, Lara chose the Aurora Library from the drop down menu and opened the door to her closet. They stepped out and Lara shut it behind them.
+
+“Hey, Ren.” Teepo said. “That was fast.”
+
+What do you mean? Ren asked as he and Lara walked back to her desk.
+
+“You only went in there a few seconds ago.”
+
+Really? Ren was surprised. It definitely felt a lot longer than that. He thought about the time dilation he'd experienced before. I wonder if it has the same time compression as the fire realm?
+
+“Probably.” Teepo said and landed on his shoulder. “As it stands, you've got plenty of time to get back to House Neram before nightfall.”
+
+Lara came to a stop by her desk and turned around.
+
+“Teepo says only a few seconds have passed.” Ren said, and Lara nodded as she leaned against the desk.
+
+“Ren...”
+
+“Yes?” Ren stepped right up to her.
+
+“Can... can I... come and see you?”
+
+“If you want to.” Ren said. “But, you know... I'm right here.”
+
+Lara smiled. “I meant in real life.”
+
+“It can't be for a couple of days.” Ren said. “I have to work tomorrow, and I've planned on meeting my girlfriend Elise on Sunday.”
+
+“I'm home most of the time anyways, so I can come and visit whenever you want me to.” Lara said.
+
+“Can I ask why?”
+
+“Sure.” Lara said. “You can ask.”
+
+“Ha.” Ren said. “Why do you want to see me in real life?”
+
+“I just... I want to know... I need to know... if we have this connection out there, too.”
+
+Ren nodded. “I know what you mean.”
+
+“You do?” Lara asked, surprised.
+
+“You want to know if the memories the game showed you is influencing how you feel.”
+
+Lara's mouth dropped open in shock. “How... how...”
+
+“When you kissed me, right here.” Ren said, and stood in the spot she'd kissed him before they went into the closet. “Time seemed to stop, and I saw all these scenes of us together.”
+
+How is that possible? Lara thought. That's supposed to be my ability!
+
+“I don't know how it happened.” Ren said, almost as if he could read her mind. She didn't realize what he was actually doing was reading her facial expressions. “All I know is, my mind opened up and I lived all these memories with you.” He smiled and touched the side of her face. “Then I felt how much love you had, and how much of it you wanted to give to me.”
+
+“Ren...”
+
+“I'm sure you didn't intentionally share that with me; but honestly, it doesn't really matter how it happened.” Ren took her into a warm embrace, and Lara wrapped her arms around him just as warmly.
+
+Why does it feel so nice just to be held like this? Lara asked herself as she rested her forehead against his, then she sighed. “You should have just enough time to get back to the dwarf lands.”
+
+“I know.” Ren said. “Teepo told me.”
+
+Lara smiled. “You didn't give that scroll to the foreman at House Lodur's mines yet.”
+
+Ren froze still for a moment, and then started to laugh. “I completely forgot about that!”
+
+“I know you did.” Lara said, and kissed him. “Thank you very much for the tiara.”
+
+“I'm really glad you liked it.” Ren said, and just held her.
+
+“You really do have to go.” Lara reminded him, but didn't loosen her grip.
+
+“I know.” Ren said. “It's just really nice holding you like this.” He said, and repeated her thoughts. He sighed and let his grip loosen. “I don't know when I'll be back.”
+
+“That's okay.” Lara said and let her grip go, too. “Even I don't know that.”
+
+Ren smiled. “I'll see you when I see you, then.”
+
+Lara chuckled. “Not if I see you first.” She said. “Do you want my phone number?”
+
+“That might make it easier to call you, so sure.” Ren said and grinned.
+
+“Smart ass.” Lara said, and gave him her number. “I'll look forward to hearing from you.”
+
+“You should.” Ren said. “Unlike every other man you've ever known, I really will call you.”
+
+“You better.” Lara smiled. “Goodbye, Ren.”
+
+“Bye, Lara.” Ren stepped back, gave her a regal bow, and walked away down the aisle.
+
+*
+
+Lara looked down at her hands, and she could feel the ache in them. She wanted to keep a hold of him so badly; but, she also had to let him go. He can't only be mine. She thought. Nathalia was right. There's just too much in him for only one woman to have.
+
+*
+
+Ren walked down the hallway and opened the door when Teepo gave the all-clear signal. Several people now sat in different places and were reading various books. Ren stepped out into the main room of the Library and shut the door quietly. Despite that, the Head Librarian looked over at him with her finger over her lips.
+
+Ren gave her a slight nod, activated his Sneak ability, and made his way across the floor without making a sound. When he came to a table with a man sitting at it, he frowned. The man had his chair balanced on it's back legs, his feet on the table, and flipped the pages of the book he was pretending to read like they were indestructible. Ren stopped and bent close to him.
+
+“You should be more respectful of the books.” Ren whispered.
+
+It startled the guy and he jerked, then started to fall backwards. Ren was ready for this and caught the chair, and him, easily.
+
+“What the...”
+
+“Shhh!” Ren whispered and sat him up straight. “This is a Library.”
+
+“Like I care.” The man said and tried to toss the book on the table. Ren grabbed it as soon as it left the man's hand. The man looked at Ren in surprise, and spoke. “I came here looking for you.”
+
+“This is not the place to talk.” Ren continued to whisper and placed the book on the table. “Outside. Now.”
+
+The man stood up. “Now listen here, I don't-muhm!”
+
+Ren clamped a hand over the man's mouth, grabbed him by the waist, and tucked him under an arm. He walked calmly to the front door of the Library with the man flailing around. Ren shifted his grip and lifted the man out in front of him, turned around, and pushed the front door open with his back. He tossed the man gently away from the door, looked back inside, and saw the Head Librarian as she stared at him. He gave her another regal bow with a flourish, received a genuine smile and a head bow in return, and he shut the front door.
+
+“What the hell was that for?” The man asked, irate. “I was only talking, for crying out loud!”
+
+“Yeah, that was the problem.” Ren said as the man stood up. “You'll get banned faster than getting shot, if you don't keep a civil manner inside.”
+
+“Like that matters.” The man said. “I only came here to see you.”
+
+“Why?”
+
+“There's some things we should talk about.”
+
+“I don't have to talk to you at all.” Ren said. “I have no idea who you are.”
+
+“Oh, right.” The man said. “We've never actually met.” He said and held out a hand. “I'm Charles. I work as a tech at Sid Tec. I wrote the Giant expansion for the game.”
+
+Ren glanced at the guy's hand and raised his eyebrows. Charles dropped the hand and smiled.
+
+“Look, is there somewhere we can go to talk?” He looked around. “Somewhere a bit more private?”
+
+“No.” Ren said. “The last time I was led off somewhere by the tech guys, I was killed.”
+
+Charles sighed. “Look, I'm sorry that happened; but, it wasn't me.”
+
+“Like that matters.” Ren said, throwing the man's own words back at him. “What do you want to talk about?”
+
+“The giants, obviously.”
+
+“You mean their obvious stupidity?”
+
+Charles shook his head. “They aren't stupid. They're just... written to follow a directive.”
+
+Ren smiled. “So, blindingly stupid then.”
+
+“Ren...”
+
+“Walk with me.” Ren said and started walking. Teepo.
+
+Teepo took off from his shoulder and scouted up high. Charles followed Ren down the steps and they walked up the street.
+
+“So, what's the scoop on the giants?” Ren asked.
+
+Charles sighed. “Look, you've accessed content that's not finished.” He said. “You've even gotten the Chancellor of the giants involved!”
+
+“Technically.” Ren said. “All I did was bring a huge problem to their attention; not that they needed reminding. It's not my fault they are ignoring the very simple solution I've proposed.”
+
+“No, it's mine.” Charles said. “It's one of the main purposes I added into the code.”
+
+“What? To be dicks to their own people when they are suffering? To kill them because they've been exiled?”
+
+“Yes.” Charles said, and Ren chuckled.
+
+“Boy, that really sucks.” Ren said. “How the hell would that work with player characters dying and respawning?”
+
+Charles sighed again. “It's not supposed to.” He said. “This was supposed to be lore. A background that the giants went through, to let others come and join them.”
+
+Ren snorted a laugh. “Are you serious?”
+
+Charles nodded.
+
+“It was really stupid of you to have them attack the dwarves, then.”
+
+“We didn't do that.” Charles said. “When the giants were exiled from their homeland, there wasn't supposed to be a way for them to live long enough to get to the dwarves.”
+
+Ren shook his head. “Well, someone screwed up the numbers somewhere.” He said. “Not only have the crazy giants been attacking the dwarves, but I personally fought over a hundred of them.”
+
+“That kind of an attack wasn't supposed to happen for...” Charles smiled. “It doesn't matter.”
+
+“So, you did plan for the dwarves to be attacked.” Ren said. “Just not this soon.”
+
+Charles didn't say anything, and Ren smiled.
+
+“I'm going back there to save the refugees again, you know.”
+
+“We know.” Charles said. “That's why I'm here.”
+
+“Please tell me you have a magic button I can push to stop the attack.” Ren said.
+
+“Sorry.” Charles said. “But, in order for the system update to work...”
+
+“DUCK!” Teepo shouted. Ren ducked and rolled out of the way as a sword slammed into the street. A ripple went out from the impact site, and Charles lifted the sword. It was nearly a tall as him, and Charles was close to 6 feet tall.
+
+Notice!
+
+You have entered PVP Mode.
+
+“The giants have to win.” Charles said.
+
+“You are such an idiot!” Ren said and dodged the next attack. “They'll slaughter women and children!”
+
+“Yes, and then the remnants will go on to break through the Garrison, and decimate the dwarf population.” Charles said, and changed his next sword swing into a stab motion. Ren equipped his shield and deflected the blow. Charles stepped forward and kicked the shield. A loud clang followed, and Ren's Shock Absorption and Block Abilities took the brunt of it, but then the force of the blow picked Ren up and tossed him backwards nearly 20 feet.
+
+When he flew through the Air, Ren equipped his bodysuit and armor. By the time he'd landed, Charles was there and swung his huge sword. Ren didn't try to block, he only raised the shield on an angle and deflected the blow. Ren activated the Screaming Terror enchantment on his ring, and Charles smiled.
+
+“I've made this avatar to be the strongest in the game.” Charles said. “Your fear based things won't work on me.”
+
+Ren deactivated the ring's enchantment, and absorbed the same enchantment from the shield. He deflected another blow, and jumped backwards.
+
+“You're not getting away.” Charles said. “I was told to keep you here until the camp is destroyed.”
+
+Ren laughed and enchanted the shield with Illumination runes. “Are you kidding me?” He asked. “You're going to keep me here all night and for half of the day tomorrow?”
+
+“No.” Charles said, and generated a Mana ball of some kind. “I'm going to kill you.”
+
+Ren activated the enchantment on the shield, and it lit up like the sun.
+
+“Ahhhh!” Charles stored his sword and held a hand up to block the light. Ren pulled out a Web wand and shot him in the chest with it. Since it made a 20 foot circle of web, it covered him from head to foot, and also a good portion of the ground. Charles laughed, and started to walk. The web started to tear, and Ren shot him several more times. After a few more shots, it made a really big cocoon to contain him.
+
+“What... what are you...” Charles said, but it was muffled by the web. The large pile of webbing moved slightly.
+
+He's still trying to walk. Ren thought in amazement, deactivated his shield enchantment, then thought about the spells he had access to. Oh, that's just mean. He grinned and took out several wands to change their spells.
+
+*
+
+Charles was getting frustrated. He'd held his hand over his face to block the blinding light, then the first web spell hit him and covered everything. His hand had luckily stopped the web from covering his face and eyes, but it didn't stop him from walking. The next spell hit and wrapped around him, then made the first one tighter. More web spells encompassed him, and squeezed tightly. He could move a little bit, but he couldn't see a thing.
+
+Unwilling to keep moving, Charles equipped his sword again and activated the Fire enchantment. Thankfully, the sword granted him a boost to Fire protection, and the webs lit on fire. He was tempted to use the Sphere of Death in his other hand, but he wasn't sure it would only kill the webbing if he used it, while the web was wrapped around him like it was.
+
+Normally, I'd be worried he was running away. Charles thought. But, as long as he's in PVP mode, he can't leave until one of us is dead.
+
+The fire burned the webbing, and it started to lose it's strength. Charles struggled and pulled, and swung his sword once his arm was free. The webbing dissolved much faster, and he stepped out of it.
+
+I should have used the enchantment right away. He thought. I could have cut the web spells down as he cast them!
+
+Charles looked around when he was free.
+
+“You're not killing me!” Ren said from behind him. Charles turned around and saw a fireball coming towards him. He held up the sword and the fireball hit. He barely took any damage, and saw Ren as he stood down the street in a fighting pose. He had a shield and a weapon ready, and Charles threw the Sphere of Death at Ren. A tower shield made of Mana appeared in front of him, and the spell hit it. It encompassed the shield and shattered it. The shield had done it's job, though. The Sphere of Death didn't come near Ren at all.
+
+Charles made another Sphere of Death and threw it. Another tower shield of Mana appeared and blocked it again.
+
+“ARRHH!” Charles yelled, then an Obscuring Mist covered the space between them. “I said you aren't getting away!” Charles said, clenched his fist, and cast Gust of Wind when he opened his fingers. He directed it to where Ren had stood, and the Obscuring Mist was blown 60 feet down the street to the extent of the spell, and it dispersed. He saw Ren was farther away, but in the same fighting pose, and ran closer.
+
+“Take this! And this!” Charles said, and cast Lightning Bolt twice. The tower shield made of Mana appeared in front of Ren both times, and the Lightning destroyed them. “Stop defending!”
+
+“You're not killing me!” Ren said again.
+
+Charles was enraged and ran forward to engage in hand to hand, and another Obscuring Mist covered Ren.
+
+“Dammit!” Charles yelled, waited for a moment, and cast Gust of Wind again.
+
+*
+
+Do you think he's getting low on Mana yet? Ren thought to Teepo.
+
+“I'd say so.” Teepo said. “Cast them again, just in case.”
+
+Ren cast Ghost Image, Magic Mouth, and Shield just past where the Obscuring Mist was. Ren had cast the spells from his safe perch, which was on top of one of the one storey buildings at the end of the street.
+
+He still thinks its really me. Ren thought in amusement as he shot Grease onto the ground right in front of his perch, and cast ghost image of a clean street on top of it. He's gonna love this. He thought as the Obscuring Mist was blown away again.
+
+*
+
+“You're not killing me!” Ghost Image Ren said. Charles bellowed angrily, brandished his sword, and ran towards Ren. Charles had used up nearly all of his Mana casting those spells, and was left with just pummeling the idiot until he agreed to let the scenario play out like it was supposed to, or died.
+
+Whichever came first.
+
+*
+
+Charles hit the hidden grease spot and his feet flew out from underneath him. He flipped backwards uncontrollably, and slammed into the ground. His head and shoulders hit the street and it knocked the wind out of him. Despite his enormous Strength, and the Durability and enchantments on his armor, he still took quite a bit of damage from the fall. He had been dazed, and dropped his sword somewhere. When he tried to roll over to see where it was, he stopped and stared as a 5 inch long tarantula landed on his chest and crawled up to stand on his chin.
+
+“You know, I'm getting really tired of you guys coming in here after me.” Ren said and put his foot on the guy's chest. “What happened to just sending me a text message? Or explaining what was happening? Or even just asking me to listen?” He asked, and put some of his weight on Charles as the spider crawled over Charles' face. “You think you can do what you want to me, and nothing's going to happen to you?”
+
+Charles couldn't catch his breath because he didn't want to scare the spider, then Ren leaned more of his weight on him and cut off his breath completely. He heard the metal of his chest plate groan, but it didn't break.
+
+“I figured I'd have crushed your chest by now.” Ren said, and used Enchanted Eyes. “Ah, I see.” He took his foot off of the guy's chest and he heard a large drawn in breath. Ren touched the armor and used his Retain Essence skill. It absorbed the enchantment on the armor, and Ren saw a small window appear under his Mana Pool that said he had an Essence to transfer.
+
+“That's better.” Ren said and put his foot back on the guy's chest. The armor, no longer enchanted, was now only plain iron with a high Durability. He smiled as his foot went right into the metal as if it wasn't there. Charles grabbed the foot and tried to stop it before it crushed the metal into his chest. Even though he'd put nearly all of his available stat points into Strength, he was having no success in stopping the foot's progress. The tarantula on his forehead wasn't helping things, either.
+
+“It's not my fault you messed things up.” Ren said. “Why did you put access to special content in the game, when you don't want people to access it?” He shook his head and looked at Charles. “It's not like you didn't know I was in the dwarf lands.” He said. “I've been there for months. I would have seen or heard about attacks on the Garrison.” He stopped talking, and then smiled. “Boy, I bet you wish your buddies in the tech department had installed the logout protocol on PVP.”
+
+“Please... don't...”
+
+Ren chuckled. “You were going to kill me, just so you could alter the storyline, or fix the storyline, or whatever... and you want me to not kill you now?”
+
+Charles nodded, and Ren leaned on him more. Charles' Health dropped steadily as he bled.
+
+“You do realize that in PVP, one of us has to die, right?”
+
+Charles nodded again.
+
+“You want me to spare you and then let you kill me?” Ren asked, incredulous. “I knew you were stupid for starting this with me, and without set conditions; but, you are really god-damned flipping stupid!”
+
+“Would have been... quick... if not for... Mana shield.” Charles sputtered.
+
+“Yeah, you're definitely stupid.” Ren laughed. “I hope you have lots of loot!” He said, and pushed his foot to the ground.

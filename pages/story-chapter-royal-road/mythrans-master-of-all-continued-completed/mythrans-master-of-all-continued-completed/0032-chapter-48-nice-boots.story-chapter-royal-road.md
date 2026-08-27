@@ -1,0 +1,161 @@
+---
+id: eaba5c3e-cf0e-5ac5-8ea6-3338a33441cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48 - Nice Boots"
+slug: 0032-chapter-48-nice-boots
+partOf: mythrans-master-of-all-continued-completed
+position: 32
+ownLength: 2218
+unit: words
+publishedAt: 2016-10-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97233/chapter-48-nice-boots"
+royalRoadId: "97233"
+---
+
+Ren watched the kids taking turns riding the 'unicorn', and the rest of the afternoon passed by quickly. The unicorn changed back at the two hour mark, but since it still had the big gold horn, the kids still treated it like it was still a real unicorn, even though it was now brown and had lost it's extra hair. By the time the horse was too exausted to move more than a few feet at a time, Aimus called a stop to the festivities and Ana got off the horse. The families thanked Aimus for a great party and gathered up their kids so they could head to their respective homes. Ana waved as each one left and then hugged her dad.
+
+“Thanks so much, dad! This was the best birthday ever!” Ana gushed.
+
+“You're quite welcome, you little devil.”
+
+“Dad!” Ana let the hug go and punched Aimus in the gut.
+
+Aimus exaggerated the 'oof' and grabbed his stomach. “Angel! You little angel!” Aimus chuckled.
+
+Ana huffed and walked to the tent. Ana came out a moment later with an armful of presents and went to the house. Aimus took the fake horn off the horse and led it to the barn. Ren got the feed bag, poured a minor healing potion in it, and hooked it over the horse's head while Aimus secured the pen and took off the saddle.
+
+“Thanks again for everything today, Ren.” Aimus said.
+
+Ren shrugged. “It's not like I'd just stand around and not help. That wouldn't be right.”
+
+Aimus smiled. Most adventurers actually would just stand around and do nothing when given the choice, unlike you, Ren.
+
+“On that note, let's get this place cleaned up!” Aimus said and slapped Ren on the back.
+
+Ren chuckled. “I stepped right into that, didn't I?”
+
+Aimus grinned and they went to the tent to gather up everything. It took about an hour to clean it all and Ren put the decorations back into the boxes they came from. Aimus had to get the ladder again to unhook all the firework decorations he'd hung up the night before. They were one use items so they would have to be thrown out. Ren wasn't sure where to put them, but Aimus said to just collect them for now and he'd toss them in an old fire pit they sometimes used for campfires.
+
+“What about the tent?” Ren asked when they were done.
+
+“I think I'm going to leave it up for a while.” Aimus said. “It really is a nice big tent.”
+
+Ren nodded and followed Aimus as he carried the ladder out to the barn. Aimus put the ladder inside and walked around the back of the house. Ren followed and Aimus led him about halfway to the treeline to a brick and mortar pit about a foot high and 3 feet wide.
+
+“Toss the used fireworks in here.” Aimus said and pointed.
+
+Ren put them in the fire pit and Aimus went up to the house. Ren followed him into the kitchen.
+
+“Honey, we've got all the trays of food. Where do you want them?” Aimus asked his wife.
+
+“Spread them out across the table and the counter. I'll salvage what I can from them and wash the platters.” Abigail said from the sink.
+
+Ren spead out the almost empty platters and the half filled punch bowl. Ren took out the stack of dirty plates and went to the sink. “Do you need any help?”
+
+Abigail turned, looked at Ren, and decided he was sincere in his offer. “No, that's okay. I can handle a few dishes.”
+
+Ren put the dishes down and took out all the glasses as well. “Are you sure? An extra pair of hands could be handy.” Ren said and smiled.
+
+Abigail smiled. “I'll wash, you dry. The plates go here.” Abigail pointed to a cupboard next to the table. “The glasses go here.” Abigail pointed to the cupboard above the sink.
+
+“I don't think I can reach that.” Ren said a bit dejected.
+
+“That's what the stool is for.” Abigail said and kicked a small stool out from under the sink. “Ana helps me sometimes and she can't reach it, either.”
+
+Ren nodded and put the stool close enough that he could reach the cupboard but not interfere with Abigail's movements, and they got to work. With Abigail washing and Ren drying, it didn't take long to get everything done.
+
+“Thank you for your help, Ren.” Abigail said. “Now get out of here while I sort out the leftovers.” Abigail ruffled Ren's hair.
+
+Ren left the kitchen but didn't see Aimus anywhere. Teepo? Do you know where Aimus went?
+
+“He's in the new shed.” Teepo said. “I followed him in here to see what he was doing.”
+
+Thanks, Teepo. I'll be right there. Ren thought and then went to the new shed.
+
+Aimus was gathering up a few of the pelts that still had fur on them.
+
+“Let me help with that.” Ren said and stored the pelts.
+
+“I figured I'd make a few pairs of boots while I waited for you.” Aimus said. “Apparently, I wasn't quick enough to do more than a single pair.” Aimus chuckled.
+
+Ren followed Aimus out of the new shed and over to the old one. Aimus sat down at the workbench. Ren handed over a pelt and watched Aimus flipped the pelt to the flat side and use several wooden cutouts. As soon as Aimus had covered as much of the space as the wooden cut outs allowed, he took a big pair of shears and cut them all out, laying each similar piece together. Once that was done, he took a tool with a rotating wheel on the end and ran it along the pieces, an inch from the edge. It made evenly spaced holes that Aimus said was for sewing the leather together. Aimus took another tool, a skiving blade, to trim the edge of certain parts. Ainus said it was for folding pieces together. Ren noted which pieces were done and what side to trim. Aimus used a beveler on the other sides of the pieces. It was a wedge shaped tool that removed the squared edges if there was any.
+
+Aimus took a sewing needle that had a larger than normal hole, and threaded through a leather like thread. Aimus sewed together 2 similar pieces, hiding the stitching between folded ends, then sewed those pieces onto 2 long ones. When he was done, there were 2 pairs of boots without soles. Aimus grabbed a thick hide from the rack and cut out 4 boot soles. Aimus stitched them to the bottom of his boots, and they were done.
+
+Notice!
+
+You have learned a new recipe: Basic Boots
+
+Aimus looked at Ren's face and recognized the look. It was the same look Aimus had seen on Ren's face when Aimus had shown him how to make a basic chair. Aimus stood up. “Go ahead.”
+
+Ren grinned and sat down. Ren pulled out a pelt and used the same techniques that Aimus had just used and produced boots almost as good as the ones Aimus had made.
+
+“I think you need a little more practice.” Aimus said.
+
+Ren nodded and got to work. As Ren kept making more and more boots, his Leatherworking skill leveled up a few times until the boots he was making were actually better than the ones Aimus had made.
+
+“Okay, stop.” Aimus said after Ren finished his 40th pair of boots. “People like nice boots. We're going to have to put some kind of design on them. Cut out the pieces from another pelt.”
+
+Ren did so and Aimus took Ren's place at the table. “Some people can be picky over what they want to see on a boot.” Aimus explained as he took a small flat tool from the shelf above the bench. “You can get away with some swirls, but flowers are a no-no unless you're specifically making them for a girl.”
+
+Aimus took a small wooden mallet and tapped the tool into the leather, over and over. A pattern started to form along the top of the boot piece. There was a nice swirl and groves along the edge but Aimus left a lot of room in between. Aimus put the tool back and got another one with a rounded head. He tapped it seemingly at random in certain spots and filled in a lot of the empty space. He changed tools again and tapped this one in the remaining spaces and it make star patterns. When Aimus was done, a mosaic of swirls, shooting stars, and clouds covered the top third of the boot piece. Aimus did the same on the other piece, but reversed the pattern so that they would match when sewed together. The tips of the boot received a similar pattern, as did the heels. Aimus made the boot and the finished product looked fantastic. A lot better than a normal boot.
+
+“How do you decide what pattern to do?” Ren asked.
+
+“I don't usually. I'll just sit down and let inspiration take me.” Aimus said. “Want to give it a try?”
+
+Ren hesitated for a moment and then sat down. He took the same boot part Aimus had started with and then his mind went blank. What do I draw? Ren thought.
+
+Teepo hopped down onto the workbench. “Why not draw the Dancing Flames?”
+
+Dancing Flames? Ren thought. How do I draw fire?
+
+“Close your eyes.” Teepo said and Ren closed them. “Remember back in the forest. After lighting the trees, how the flames came forth and ate everything in their path. Remember how they rose into the sky. Remember how the wind helped make the fire dance higher and higher.”
+
+Ren nodded and opened his eyes. He picked up the wooden mallet and different tools and got to work. It took him a while, considering he'd never used anything like these tools before. When Ren was finished, he sat back and heard Aimus whistle.
+
+“Well, damn. I've never seen anything like that before. You had your eyes closed most of the time.” Aimus said.
+
+Ren nodded. “I needed to keep the image fresh in my mind.”
+
+“Well, don't just sit there!” Aimus urged. “Put the boots together.”
+
+Ren assembled the pieces and when the boots were complete, the scene Ren had made on them was spectacular. Large trees were on the sides and backs of the boots, half consumed. The fire started at the toes, flowed over the middle, rose over the sides, and around the tops of the boots. It was like the fire was alive.
+
+Aimus picked up the boots and admired Ren's handiwork. It was a little rough, especially since it was Ren's first attempt, but it was also quite beautiful. Aimus put the boots down. “Can you do it again?”
+
+Ren thought about it for a minute and took out another pelt. The pieces were cut and laid out properly. Ren took a deep breath and tried to recapture the image. Ren did the technique again and when he was finished and assembled the boots, it was still trees and fire, but the scene was slightly different. The fire still started at the toes, but swirled to the right side and ate the trees there, and left the trees on the other side of the boot alone.
+
+Aimus picked up the boot and whistled again. “I thought you would just copy the old one. This is excellent work, Ren.”
+
+Ren blushed a little.
+
+“Making the same pattern on a boot would make them less desireable, if anyone could get the same design.” Aimus said. “Making each pair of boots with it's own pattern gives it a unique and desirable quality.” Aimus put the boots down and smiled at Ren.
+
+“I never thought I'd ever say this to someone outside of the family...” Aimus said and smiled at Ren. “...but considering I've been thinking of making you my apprentice ever since you did such a fantastic job skinning all those giant rats back at the lookout... I might as well make it official.”
+
+“Ren, I hereby declare you Son of the Pelt.”
+
+Notice!
+
+You have earned a new title: Son of the Pelt
+
+Son of the Pelt
+
+This title grants you the use of a portable Leatherworking crafting station.
+
+It contains various tools and equipment for the processing and construction of leather goods.
+
+Grants a 20% bonus to skills related to Leatherworking when used.
+
+Ren swiped the popups away and Aimus handed him something that looked like a wooden briefcase. Ren took it gingerly and opened it. Inside was everything that was on the workbench; hand tools, hammers and knives, and two closed compartments. One marked 'Treat' and the other marked 'Drying'. Ren opened the 'Treat' one and got the same distinctive smell he expected from a treating mixture.
+
+“It'll only hold a single pelt at a time.” Aimus said. “The same goes for the Drying one.”
+
+Ren closed the Treat compartment and opened the Drying one. There was a single inventory slot inside.
+
+“Aimus, I don't know what to say...” Ren said.
+
+“I do.” Aimus responded and clapped Ren on the back.
+
+“Get to work!” Aimus said and laughed.

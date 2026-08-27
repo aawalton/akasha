@@ -1,0 +1,351 @@
+---
+id: 9bd84f91-e09a-56d7-a5b6-3984651b4f8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 385 - I Agree"
+slug: 0379-chapter-385-i-agree
+partOf: mythrans-master-of-all-continued-completed
+position: 379
+ownLength: 3810
+unit: words
+publishedAt: 2017-10-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167345/chapter-385-i-agree"
+royalRoadId: "167345"
+---
+
+Elerlyth had a big smile on her face as Ren walked over to her. “That was a spectacle.” She said and hugged him. “I've been getting pangs of jealously from them all day.” She whispered in his ear. “I'm sorry that I didn't realize...”
+
+“I could feel it through you, too.” Ren whispered back. “I didn't catch it, either.”
+
+Elerlyth leaned back. “Would you have done things differently if you knew?”
+
+Ren smiled at her and raised a single eyebrow.
+
+“I didn't think so.” Elerlyth said and kissed him passionately. She broke the kiss a few minutes later and sighed. “I hope you've got something bigger than a one man tent.” She said. “I don't mind a small space if we're busy; but...”
+
+“Hey, I said I have you covered.” Ren said and walked backwards until they were 25 feet from the earth barrier. He took out a small metal and stone square from inventory, and Elerlyth stared at it.
+
+“What is that?”
+
+“It's something I didn't have the resources to make until now.” Ren said and walked forward and placed the cube 11 feet away, then stepped back beside Elerlyth. A short stream of bubbles and gurgles came out of Ren's mouth, and the Instant Tower expanded instantly.
+
+Instant Tower
+
+This metal and stone cube is small, but when activated by speaking a command word it grows to form a tower 20 feet wide by 20 feet long and 30 feet high, with arrow slits on all sides on the second floor and high battlement walls. The metal and stone walls extend 10 feet into the ground, which roots it to the spot and prevents it from being tipped over. The tower has a small door that opens only at the command of the owner, and even Knock spells won't open the door against the owner's will.
+
+The tower springs into existence with the door facing the owner, which opens and closes instantly upon command. People and creatures nearby (except the owner) must be careful not to be caught by the tower’s sudden growth. Anyone caught in this way takes impact damage depending on how close they were to the center when it was activated.
+
+The tower can be deactivated by speaking the command word again, and must be empty of occupants. Material things stored inside will be compressed with the tower's magic and will remain unharmed.
+
+Please Note: The tower cannot be repaired by normal means if it is damaged.
+
+Elerlyth gasped as the tower appeared in front of her, and she reached out to touch the metal and stone surface.
+
+“It's amazing.” Elerlyth said, and marvelled at the construction.
+
+“You haven't been inside yet.” Ren said and took her hand. Open. He thought and the door opened. He led Elerlyth inside, and the door shut behind them.
+
+“Oh, my.” Elerlyth said.
+
+They stood in the middle of a workshop. A large forge and smelter was near the back corner in the blacksmith section, a woodworking section was in the other corner, a tailor shop was in the front corner, and a kitchen was in the last corner.
+
+“Ren, how...”
+
+“I had to do something for the 5 hours while I waited for you to get here.” Ren said, and she laughed.
+
+“I don't see a bed anywhere.” Elerlyth said.
+
+“That's because it's upstairs.” Ren said and led her over to the stairs beside the tailor shop. They went upstairs and Elerlyth saw the comfy bed was nestled into the corner and out of the way, to give unimpeded access to the arrow slits. She let Ren's hand go and walked over to the bed and sat down.
+
+“You really know how to impress a girl.” Elerlyth said.
+
+“You haven't seen anything yet.” Ren said and reached a hand out. “Take off your clothes.”
+
+“That's my cue to take my watch post.” Teepo said and flew out of an arrow slit, then went up and landed on top of the tower.
+
+Thanks, Teepo. Ren thought.
+
+Elerlyth took the offered hand and used it to stand, then stored her armor and bodysuit. “What...”
+
+Ren took out the Dire Wolf pelt and draped it over the bed, picked Elerlyth up and tossed her onto it.
+
+“REN!” Elerlyth chuckled.
+
+Ren stored his own armor and bodysuit, and left his Dire Wolf Hooded Cloak on. “I'm going to level you up so much, you're going to beg me to stop.”
+
+“R-R-Ren.” Elerlyth whispered, because she could feel his determination to do just that. “You... you can't...”
+
+“Do you remember what I promised you all that time ago?” Ren asked and smiled as he laid down beside her. “About what would happen when you beg?”
+
+Elerlyth felt a very strong wicked feeling from him. “That... that you wouldn't... wouldn't stop.”
+
+Ren nodded and took her into his arms.
+
+“Oh, Ren.” Elerlyth said and kissed him. “You always know just what to say.”
+
+*
+
+Clint and the guys had a great time at their impromptu drinking party, finished all three kegs of ale, then tucked themselves into their tents. They were well and truly sated, and went to sleep happy.
+
+*
+
+Officer Holly enjoyed a great meal with Ren's personal maids at the kitchen table. They had an enlightening conversation, and when the subject of her Adventurer's business came up, she told them she hadn't picked a class yet, and that was why she was still only level one. Once they talked to her for a while longer to discover her likes and passions, one of them gave her a suggestion.
+
+“You should become a Paladin.” Navruth said.
+
+“A... a what?”
+
+“A Paladin. A lawful class that will always do what is right for the people.” Navruth said.
+
+“That's a great idea!” Lusinia said. “She can be the local law enforcement!”
+
+“The what?” Officer Holly asked, surprised.
+
+“Law enforcement.” Lusinia said. “That's the Paladin's primary job. Any time they see injustice, they act to right the wrong.”
+
+“Really?” Officer Holly asked.
+
+The maids nodded.
+
+“It's a difficult job, though.” Frikara warned. “The path is usually lonely, since Paladins normally work alone.”
+
+“Why is that?”
+
+“The class is too rare to have more than one in any area.” Frikara said. “In fact, we didn't have any at all in the dwarf lands.”
+
+“You didn't?”
+
+The maids shook their heads.
+
+“We had a Thieves Guild.” Andrela said. “I think that alone stopped any Paladins from appearing.”
+
+“Ooo! Do you think any Paladins appeared after Ren destroyed it?” Verwynn asked.
+
+“I hope so.” Frikara said. “It would be nice to know that a Paladin was looking over everything.”
+
+Officer Holly took their words to heart, and remembered the conversation with her partner about not being able to police the game world.
+
+“I... I might just do that.” Officer Holly said. “I might become a Paladin.”
+
+“I'm glad we could find something that interests you.” Frikara said and pat her hand. “Not having a purpose is... well, it's horrible.”
+
+“I know.” Officer Holly said and stood up. “Thank you for the meal.” She said and took out a couple of gold coins.
+
+“Please, don't insult our hospitality.” Frikara said, and Officer Holly smiled.
+
+“It's always polite to offer.”
+
+“Friends don't pay friends for food.” Frikara said and stood up herself. “I'll walk you out.”
+
+The two women went to the front door, and Frikara opened it.
+
+“It was nice meeting you again.” Frikara said.
+
+“It really was.” Officer Holly said and held a hand out for her to shake. “Thank you.”
+
+Frikara took the offered hand and shook it. “Goodbye.”
+
+“Goodbye.” Officer Holly said and left in a much better mood than she'd been in for a while.
+
+*
+
+Lylyth, the Queen of the Dark Elves, was having a hard time trying not to freak out. Ren was once again sleeping with someone else, and all she could do was ride along with the feelings. She felt like it was killing her not to participate, and her attendant and the healer held onto her to stop her from writhing on the floor or trying to go to him.
+
+“Yes, I'm definitely going to kill him.” The attendant said and struggled to hold her Queen still.
+
+“N-n-no.” Lylyth managed to say. “He... he's too... import... import... Great Vasalor!”
+
+Since the attendant and the healer were touching her bare skin, it gave them a much deeper emotional connection to her. When Lylyth finally let the passion take her over and she finished, so did they. The attendant and healer writhed on the floor just as much as their Queen did, as wave after wave of passion from their Queen flowed over them.
+
+*
+
+Elerlyth had started to beg after an hour, and Ren stayed true to his word. He didn't stop or even slow down, and Elerlyth had leveled up twice. She couldn't believe what he was doing to her. He literally made her feel too good to even think straight, and he poured his feelings into her over and over again. Her ability funnelled all of those feelings through her and converted them into XP.
+
+Elerlyth tried to pace herself and keep her emotions under control; but when they passed the second hour mark, she stopped caring one way or the other and let her own emotions run free. Ren felt it as she finally let herself go, and he took those emotions and added them to his own, then funnelled them back into her.
+
+“Oh GOD!” Elerlyth yelled as she finished again and leveled up. “R-R-Ren... s-s-stop... I... I can't...”
+
+“I can feel what you feel.” Ren whispered in her ear, then bit her ear lobe. “You were so jealous when you visited me in real life.” He said. “You wanted me all to yourself.”
+
+“That... that's not...”
+
+“You can't deny it now.” Ren said.
+
+Elerlyth gasped as she felt what Ren felt. “You... you wanted me to... to get to this point!”
+
+“Yes.” Ren said, rolled her over, and kept going. The move buried her face in the dire wolf fur. “You were so turned on when you saw this new pelt, that I knew it was the best opportunity I would have to get the truth out of you.”
+
+“You... you jerk!” Elerlyth said and pushed herself up onto her knees and elbows. “St...stop!”
+
+“I love you, Elerlyth.” Ren said, and her heart skipped a beat, because he poured all of the love he had for her into her. She had let her own emotional control go, so it bared her own feelings for him. They flowed out into their shared Aura for him to feel, and he took them.
+
+“Say it!” Ren said as he built up a reservoir of what she felt for him. “SAY IT!”
+
+“I hated it!” Elerlyth said. “I hated that I couldn't hold you! I hated that I couldn't kiss you!” She said, as she finally admitted out loud what she had refused to admit to herself. “It hurt so much to see you there with Lisa, and then with Elise, and I was left with nothing but a hug! Just a fucking hug from the man that I love!”
+
+Ren picked her up and turned her around, and saw the tears on her face. “Now you know how I felt when I saw you.” He said, and Elerlyth's mouth dropped open as he let her feel how he felt that day, and it was so much like her own that it shocked her. “You weren't the only one hurting. I couldn't kiss you or even hold you like I desperately wanted to.”
+
+“But...”
+
+Ren laid her down on the dire wolf pelt and embraced her. “The only thing holding us apart in real life is our working relationship.” He said and kissed her. “With your diploma, that relationship is no longer valid.”
+
+Elerlyth stopped trying to think through everything and felt what Ren was doing. “What... what are you doing?”
+
+“I'm going to give you all of the love you've been holding back from me.”
+
+“R-Ren, wa-wait.” Elerlyth tried to catch her breath. “It's too much! I... I can't take it!”
+
+Ren smiled. “You don't want me to stop any more than I do.”
+
+“Ren! Please!” Elerlyth pleaded.
+
+“Don't fight it, my hottest love.” Ren said and gave her a kiss, then concentrated on his Command Aura. “Open up.” He commanded, and he felt something shift inside of Elerlyth.
+
+“REN!” Elerlyth yelled as her ability's limitation turned off, and then he dumped the entire reservoir of her feelings he had built, into her all at once. “AHH-MMmmmm!!!”
+
+Ren's kiss cut off her scream, and Elerlyth couldn't understand what was going on.
+
+He commanded my ability. Elerlyth thought in confusion. Not me, my ability!
+
+Ren could feel the flood of emotions as they funnelled into her ability completely unfiltered, and he felt it when the last of them went through. It made her finish again, and he finished, too. He broke the kiss right afterwards, and Elerlyth stared at him with wide eyes.
+
+“Close up.” Ren commanded her ability, and it shifted back to it's normal use.
+
+“Good god, Ren!” Elerlyth exclaimed, and he could feel a trace of fear from her. “What did you do?”
+
+“If I'm not mistaken, I made you level up again.” Ren said in satisfaction and rolled off of her. “I felt it right near the end.”
+
+Elerlyth sat up. “That's not what I meant!”
+
+“I know.” Ren said, and he could feel anger well up in her. “Go ahead.”
+
+“With what?”
+
+“I know you want to see if I'm more vulnerable right now.” Ren said. “I won't even try to block it.”
+
+Elerlyth scowled and unclenched her fist. “Don't you ever do that to me again.”
+
+“Okay.” Ren said, and he felt surprise from her. “What?”
+
+“You're really not going to do that to me again?”
+
+“Once was enough, wasn't it?” Ren asked.
+
+Elerlyth looked at her level and saw it had gone up twice, not once like Ren thought. “For... for now.”
+
+Ren chuckled and leaned back and put his hands behind his head.
+
+Elerlyth had gained 5 levels and had the appropriate stat points to allocate. When she glanced at the popups she had missed, she gasped.
+
+“What is it?”
+
+“I missed... the popups.” Elerlyth said. That can't be right. She thought. That's not possible!
+
+“Ha.” Ren said. “I've missed a pile of my Church popups, too.” He said and counted the notifications. “I've missed 6 of them now, since I'm always been logged out or asleep when I got them.”
+
+Notice!
+
+The two Churches you have constructed have been open for another day. Word of their existence continues to spread, and you gain new visitors every day from all around, as they come to pray and worship their gods. You have gained bonuses appropriate for encouraging the active worshipping of these gods. 10 visitors = 1% Knowledge bonus to level.
+
+Dark (Gravity) - 200 visitors; Knowledge Of Dark (Gravity) Level 4 (Beginner 58%) +20% = 78%
+
+Earth - 334 visitors; Knowledge Of Earth Level 3 (Intermediate 85%) +33% = (Level 4) 18%
+
+Fire - 702 visitors; Knowledge Of Fire (Mastered) = No gains possible
+
+Ice - 133 visitors; Knowledge Of Ice Level 2 (Beginner 55%) +13% = 68%
+
+Light (Holy) - 350 visitors; Knowledge Of Light (Holy) Level 4 (Beginner 55%) +35% = 90%
+
+Lightning - 162 visitors; Knowledge Of Lightning Level 6 (Beginner 36%) +16% = 52%
+
+Void (Arcane) - 15 visitors; Knowledge Of Void (Arcane) Level 1 (Beginner 14%) +2% = 16%
+
+Water - 184 visitors; Knowledge Of Water (Mastered) = No gains possible
+
+Wind - 131 visitors; Knowledge Of Wind Level 2 (Beginner 84%) +13% = 97%
+
+“I've got a lot of progress so far.” Ren said and smiled. “Who would have thought doing something like building a Church would be a constant boon?”
+
+“That's great.” Elerlyth said absently as she stared at the popup she had received. It can't be true. She thought and looked at Ren. “Ren, do you... feel any different?”
+
+“Besides feeling really good you mean?” Ren asked, and she nodded. “No, I don't feel any different.” He felt her concern. “Why? What's up?”
+
+“Nothing.” Elerlyth let her happiness overwhelm her concern over what she had read, and she saw Ren relax.
+
+“We've got about 10 hours before morning.” Teepo said. “Are you going to get some sleep?”
+
+No, actually. Ren thought. I think... yes, I better do it now. He sat up. “Elerlyth, I'm going to do something that I've been putting off for a while now.”
+
+“What's that?” Elerlyth asked and read the popup again. It can't be. She thought. He's just Ren.
+
+“Don't be mad.” Ren said and climbed off the bed and equipped his armor, but left off the gauntlets and helm.
+
+“Why would I be mad?” Elerlyth asked and turned to look at him.
+
+Ren told Teepo what he was about to do, took out a Revealing Light Pearl and activated it, then tossed it to Elerlyth.
+
+“Ren, what...”
+
+Ren reached into the Dire Wolf Hooded Cloak and took out the tarantula the Queen of the Dark Elves had given him when she had marked him with her favor. He held the spider close to his lips and spoke.
+
+“I'm ready, Lylyth.” Ren said.
+
+*
+
+The Queen of the Dark Elves had recovered quickly from Ren's latest sexual encounter, unlike her attendant and the healer.
+
+“All right, I... I won't kill him... not right away.” The attendant said and sighed. “Great Vasalor, that was...”
+
+“I can still feel him.” The healer said and rubbed the spot over her heart. “Even though I'm not touching you My Queen, he's still here.”
+
+It was then that they heard a disembodied voice. “I'm ready, Lylyth.”
+
+“AHHH!” Lylyth yelled as she felt a sharp pain in her chest. The image of the spider that was over her heart filled in that last little bit and was completed. She was covered in a dark blue glow for a moment, and then she stood up.
+
+“I'm coming, Ren!” She said and the wall of spiders dropped down as one and swarmed around her. She strained as hard as she could against the magical chains that still bound her arms, and she screamed in frustration that she still could not break them. She opened the portal and her 10 foot long spider familiar appeared before her from the mass of spiders, and used it's ability to widen the portal for her. Lylyth stepped through and dragged the chain that held her to the large piece of stone floor it was still attached to.
+
+*
+
+“Ren, NO!” Elerlyth exclaimed, but it was too late. She hopped off the bed to try and get to him, and then a portal opened in front of him and her body stopped moving against her will. Giant spider legs pushed the portal wider and higher, and then Lylyth, the Queen of the Dark Elves stepped out of it. Her 9 foot 2 inch tall body was almost completely bare, except for a few traces of cloth over her breasts and waist.
+
+Ren gave her a regal bow as he tucked his spider back into the cloak, and looked at her chained arms. He used Enchanted Eyes and saw they glowed, but didn't gain the plans or a new rune from them. He raised a single eyebrow at her, and she almost laughed at how cute he looked.
+
+“I would take you in my arms, Royal Consort; but, they are bound by magical chains that resist my every effort to strain against them and break their hold.”
+
+Ren thought about it for a second. “So, the more you try to escape, the more they hold you?”
+
+“Essentially.”
+
+Ren smiled. “Then relax.”
+
+“Wh-what?”
+
+“Don't strain. Don't try to break free.” Ren said and grinned. “If they get stronger the more you struggle, then stop struggling.”
+
+Lylyth looked at Ren like he was crazy, but she felt his confidence. “Very well.” She said and took a deep breath, let it out slowly, and stopped trying to break out of the chains that held her. It took several moments for her muscles to relax, and when they did, she took another deep breath and let it out. The chains stopped glowing, loosened their hold, and then rolled off of her arms as if they were water and she were oil.
+
+Lylyth stared at the pile of chain on the floor in front of her, then she looked at her arms. “It... it worked.” She said, surprised. Her arms were heavily bruised from straining against the chains, and even had fully formed indentations of chain links in the skin. Her arms also didn't quite work right after being held immobile for so long.
+
+“I'm so sorry.” Ren said as he saw her arms and took out a Major Healing wand. “Please, allow me.”
+
+Lylyth didn't refuse, so Ren took out a step ladder and climbed it to the top. He gently probed one of her arms and caressed the damaged skin.
+
+“Nothing's broken.” Ren said and checked her other arm. “You've just over-stressed them.”
+
+Lylyth watched wordlessly as Ren used the wand to heal her and the bruises faded away to nothing, and then her arms filled back out and the damage she had suffered was no more.
+
+“There. All better.” Ren said and stored the wand, then looked at her face. “You can hug me now.”
+
+Lylyth smiled before she could stop herself, and took him into a hug. His armor creaked a little, but it held. Her long white hair fell forward and covered him as she leaned down a little, then she picked him up.
+
+“Ren!” Elerlyth finally managed to say through her immobility, and then she felt actual terror as Lylyth looked at her with solid black eyes. Not play terror, or enchanted terror, but real honest-to-goodness actual terror... and she didn't much like it. Lylyth let a grin out as she felt what Elerlyth felt, and Elerlyth shivered as she felt Lylyth sample everything within her.
+
+Ren was right. Elerlyth thought. Being willing is much more pleasant than having someone just take it.
+
+Lylyth held Ren close, turned back towards the portal and stepped through it. It closed a moment later, cut off the magical chain that Lylyth had left, and cut off Elerlyth's shared Spider Aura with Ren.
+
+*
+
+Elerlyth almost stumbled when she regained her movement, and she ran to where the portal had appeared. She dropped to her knees and picked up the severed end of the thick chain. It was sheared across one of the links, and she looked at the smooth end and sighed.
+
+“Don't let this be you, Ren.” Elerlyth said and looked at where the portal used to be. “Don't let it be you.”

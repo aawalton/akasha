@@ -1,0 +1,295 @@
+---
+id: ef697c67-1433-53a0-9780-5580e9a88dbb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 432 - You've Got The Touch"
+slug: 0429-chapter-432-youve-got-the-touch
+partOf: mythrans-master-of-all-continued-completed
+position: 429
+ownLength: 3909
+unit: words
+publishedAt: 2017-11-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176354/chapter-432-youve-got-the-touch"
+royalRoadId: "176354"
+---
+
+“Lylyth is your sister?” Ren asked, and the Marilith demon nodded. “But... she's a spider, and you're a snake.” He said. “Should I even ask how that happened?”
+
+She laughed and untied the piece of cloth that hung around her waist. “Would you like me to tell you all about our sordid tale as you finish taking my measurements?”
+
+“But...”
+
+“You asked to do it.” She said, and her thumbs rubbed the cheeks of his face. “Do you really want to stop with your information incomplete?”
+
+“I...” Ren glanced at the cloth that was only being held in place by inertia. “Well, I am curious what it could be like, considering you don't have legs.” He said. “I mean, look at you. You've got all these arms and snake parts and scales, and they all fit together so seamlessly.”
+
+“If I laid down, would that make it easier for you?”
+
+“I don't know.” Ren said.
+
+“Then it won't hurt to try it.” The Marilith demon said as she put a hand on the cloth to hold it in place, slithered herself around in a circle, then laid down in front of him across the dead boar demon's back. Ren knelt down beside her and she pulled her hand away from the cloth, then her tail slithered underneath her abdomen, which lifted her private area up like an offering. He used his hands to rub along her abdomen and down to the spot between the tops of her thighs.
+
+Only above the cloth. Ren thought and carefully held the cloth in place and tried to trace the space; but, it was too bulky and wouldn't give him the information he needed. Once more.
+
+The Marilith demon writhed as he tried again to feel everything through the cloth, then he sighed and looked at her face. Her eyes were closed and her mouth was open slightly, and two of her hands slowly caressed the space just under her breasts.
+
+I guess this is the moment of truth. Ren thought.
+
+Ren slowly pulled the cloth out of the way, and was amazed at the sight. The snake scales stopped right at the edge of her special place and left it completely exposed.
+
+Now I know she has a vulnerable spot that's ridiculously easy to get to. Ren thought and examined it.
+
+Normally, a woman would have to open her legs for someone to gain full access to her, because her opening was on the bottom of her torso; but, since the Marilith demon didn't have legs, her private part was positioned on the front of her body, which meant it had to be oriented just enough to achieve the same result.
+
+Ren reached out and ran his fingers around the scales on the outside of it and mapped the area, and the sound of scales sliding across each other was loud in the silence as the rest of her body slithered around the more he touched her. He could feel her desire and a severely denied need, so he carefully placed his hand over her special place and felt the intense heat from it.
+
+“AH!” The Marilith demon yelled and covered her mouth with two of her hands, and Ren felt something splash onto his hand.
+
+What is that smell? Ren asked. Both his hand and her private area were soaked, so he lifted his hand to his nose and sniffed the dampness on his palm. There's too much of a bacon smell around for me to figure it out.
+
+Teepo quickly crawled down his arm and smelled it. “If I had to guess, I'd say it's maple syrup.”
+
+You're kidding. Ren thought, surprised.
+
+“I remember it from those jugs the farmer brought over when we were in the dwarf kingdom.” Teepo said. “I'd tell you to taste it, but you'll probably get lots of corruption if you do.”
+
+Notice!
+
+You have been corrupted! You have absorbed Marilith fluid directly from the source through your skin. It's effects vary by those infected, and by the amount of fluid absorbed.
+
+Current Corruption Level: 42%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+Ren had been waiting for that popup. Wait, it only went up 1%?
+
+“I guess I was wrong.” Teepo said. “It's probably because it's fluid and not blood.”
+
+Well, if you think it smells like maple syrup, I have to try it. Ren shrugged mentally and licked his palm. “By the gods.” He said as the taste hit his tongue. It does taste like maple syrup, except that it's a hundred times better!
+
+Notice!
+
+You have been corrupted! You have absorbed Marilith fluid directly from the source through your skin. It's effects vary by those infected, and by the amount of fluid absorbed.
+
+Current Corruption Level: 43%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+Only 2%? Ren thought, shocked; then received a popup he never expected.
+
+Notice!
+
+You have gained the temporary Aura: Heat Sense. With it active, you no longer need to concentrate on your Aura to feel others within it, even with your eyes closed.
+
+Time Limit: 10 minutes
+
+Ren concentrated on it, and the entire cavern shifted from it's normal colors to shades of red. The darkest reds were the coldest and the brightest reds were the hottest, and Ren looked down at the Marilith demon. Her mouth, tips of her breasts, and her heart were a bright red; then he looked down at her private place to see that it was the brightest red of them all.
+
+“Why are you just...” She opened her eyes and saw Ren's silver blue eyes had a red glow around them, and she caught her breath. “Wh-what... how... you can't... it's...” She shook her head and concentrated on her own Heat Sense Aura, and it merged with the temporary one Red had. “Great Vasalor!” She exclaimed as Ren's emotions hit her. “AHHH!”
+
+More of her warm liquid came out in a spurt, and Ren saw that it was almost white in it's heat content.
+
+“I still can't have sex with you.” Ren said.
+
+“I DON'T CARE!” She yelled. “JUST TOUCH ME!!!”
+
+Ren couldn't refuse her desperate request, because he could feel how much she had missed being compatible with someone. He wasn't sure how long it had been for her since the last time someone touched her; but, he knew it must have been quite a long time because when he put his hand on her private place again, she almost cried. He caressed the soft and very tender boiling hot skin, and he gave her every single bit of his enjoyment of the sensation.
+
+“OHHH!!!” The Marilith demon hollered as she went again. She could feel Ren's ability as it struggled not to take what it wanted through their shared Aura. “Feast, damn you!”
+
+Ren felt a slap across the face and he blinked his eyes, and saw it was the end of her tail. It was almost as bright as her special place, and he reached out to caress it.
+
+“Ohh...” She moaned and he gave it a gentle kiss. “Not there! I want you to FEAST!!!”
+
+Ren felt that she had a more than excessive need, and he nodded as he bent over and started to kiss her special place.
+
+“GREAT VASALOR!” She screamed, and it echoed back and forth in the small cavern. Ren opened his ability and started to absorb the emotions that she was practically shoving down his throat.
+
+*
+
+Without Ren's mark to guide the portal, the closest spot that Lylyth, the Queen of the Dark Elves could get the portal to appear safely was just on the outskirts of the starter city of Aurora. The healer stepped out of the portal and it closed behind her. She thought about activating her concealing cloak, which wrapped her in shadows; but, since it was nighttime, she didn't think it was necessary and calmly walked through the West Gate of the city.
+
+The healer had been to Ren's business before, so she made her way over to the Artesian District and looked at the front door. The entire district had been in darkness, since everything was closed, and she walked around to the back. She went up the stairs and stopped at the second floor entrance, and took out a set of lock-picking tools.
+
+Normally, that tactic wouldn't work; but, since she was breaking into the upstairs apartment and not the business, her effort was successful and the door opened. She walked inside and shut the door behind her, and slowly crept up the stairs. She knew the apartment itself wasn't locked, so she opened the door and stepped inside. She walked by the sleeping woman in the living room and opened the bedroom door, only to be disappointed. Ren wasn't there, and the bed didn't look like it had been used in a long time.
+
+The healer sighed and shut the bedroom door, then walked over to the comfy chair beside the bed in the living room and sat down. If the last time she was here had been any indication, she would have to wait until morning before she could find out the answers that both she and her Queen desperately wanted.
+
+*
+
+“Sir!” One of the High Elf guards said as he approached the High Elf Lord. “The ghouls are approaching!”
+
+“So, they believe they finally have the numbers to overtake our position.” The High Elf Lord said. “Ready the Multi-shot Ballistas and load them with Fire enchantments.” He said and looked at the other elves around him. “This is it. If we break here, this city is lost.”
+
+“That won't happen, sir.” They said.
+
+“Be sure that it doesn't.” The High Elf Lord said. “Prepare for the assault!”
+
+“SIR!” They all said together and left to take their positions for the coming battle. The High Elf Lord gathered up his powerful combat scrolls and tucked them into his scroll belt in order of importance, then walked out of the meeting area and took his place at the highest point of their defense, inside a well-constructed tower.
+
+“Fire as soon as they are within range.” The High Elf Lord said, and he heard acknowledgements back from the heavy weapon crews. “Reload teams, stand by. You're going to be worked hard today.”
+
+“Sir!” They said, confidently.
+
+“Here they come!” Someone said from the viewing post above them, and a moment later, something moved on the horizon. The High Elf Lord tapped the elf that had taken up the position beside him, and he handed him a scroll. The High Elf Lord unrolled it and read the spell, the parchment dissolved a cloud formed in front of him. It swirled around quickly and formed a temporary far-viewing window, and the High Elf Lord held in his curse.
+
+It hadn't been something on the horizon that moved, but the horizon itself. There were so many ghouls that not one bit of ground could be seen. The first heavy weapons started to open fire, and he sighed because he knew that it was beyond pointless.
+
+The battle raged on for nearly half an hour before the ghouls arrived close enough for him to use his combat spells, and he unfurled one and read it's contents. The sky darkened and was covered in black clouds as he invoked Lightning, and offered up the ghouls as sacrifices. Hundreds of lightning bolts shot out of the clouds and struck the immense ghoul horde. It killed thousands of them, much more than the High Elf Lord has expected, but it didn't even slow the horde down.
+
+He opened the next scroll and read it, and invoked Fire to offer up the ghouls as sacrifices. The black clouds changed and became orange and red, and a Tornado of Fire dropped down from each of them. The closest tornado was over 50 feet wide, and it spun and sucked up hundreds of ghouls into itself. There were 20 tornadoes, the maximum spell that he could cast, and just the invocation had cost him nearly all of his Mana.
+
+The spell had been his trump card; the very last thing that he could use to protect the people, and he watched as the tornadoes flowed randomly over the battlefield and continued to suck up more and more ghouls. They left nothing but charred remains as they passed, and when the spell had ended, over 200,000 ghouls had been killed.
+
+Silence had fallen as the devastation was too much even for the simple-minded ghouls to ignore, and the horde hesitated on the edge of the burned remains of so many of their numbers.
+
+“Did it work?” One of the High Elves asked. “Are they discouraged enough?”
+
+Let's find out. The High Elf Lord thought and took out his last scroll. He unrolled it, and an ice cold shiver went down his back. He read it's contents and the scroll dissolved, and he felt a sharp pain inside his heart.
+
+“AGGHHH!!!” The High Elf Lord screamed as a Void portal opened inside of him and expanded out. It stopped when it reached 30 feet and had sucked in everything around it, including the elves in command and their tower, then it disappeared. Another portal, this one 300 feet wide, appeared underneath the center of the ghoul horde and they screamed fruitlessly as they fell into the dark abyss.
+
+********
+
+“Did you see that? That was AWESOME!” One of the programmers said and ate some popcorn.
+
+“All right, I have to admit that was a good idea on your part.” Another programmer said.
+
+There was a group of them that sat in the viewing room at Sid Tec, so they could watch the battles that happened that players didn't actually get to witness. They got the information as popups when requesting information about the state of the world event; but, they didn't get the enjoyment of the battles themselves. It seemed like such a waste to have huge battles like this and not have anyone see it, so the programmers had organized viewing parties to watch upcoming battles.
+
+“Scheduling them for game days that happen in the evenings was a stroke of genius, if I do say so myself.” One of them said, and he was immediately assaulted with a deluge of popcorn from the other guys. “Hey, it was!” He said and tossed some popcorn back. “It's not like we could stop working in the middle of the day and do this!”
+
+“We know.” One of the others said and laughed. “You just don't have to be smug about it.”
+
+“Geez, when else am I supposed to be smug?” He asked, and everyone laughed.
+
+“Hey, the portal's gone!” One of them said.
+
+“Damn, that didn't last long.”
+
+“That's probably because the caster died.” Another said. “It was a 50/50 shot.”
+
+“The fire tornadoes killed a lot more.” Someone else said and ate some popcorn. “Let's see what the ghouls do now.”
+
+********
+
+The ghouls had been shaken when they had lost a good portion of their numbers from the fire; but, when the ground had opened up and swallowed another portion, they were on the verge of turning tail and fleeing.
+
+When the portal quickly closed and didn't take any more of them, one of the larger ghouls stood up on his haunched legs and screeched. The ghouls looked at him and he pointed to the spot where the High Elven Tower used to be, and every other ghoul screeched with him.
+
+“To arms!” One of the High Elves tried to rally his fellows as the ghouls ran forward; but, to no avail. The ghoul horde smashed into the defending elves and overran them easily.
+
+*
+
+When the Marilith demon stopped reacting to Ren's touch and he could feel that she was floating on how much pleasure she had received, he stopped trying to please her and licked her clean. He put the piece of cloth over her private area when he was done and stood up to look at her face.
+
+She looks and feels peaceful. Ren thought.
+
+Notice!
+
+You have been corrupted! You have absorbed Marilith fluid directly from the source through your mouth. It's effects vary by those infected, and by the amount of fluid absorbed.
+
+Current Corruption Level: 65%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+Wow. Ren thought. I drank that much and I only gained 22% corruption?
+
+“Well, you only gained 1% from a long kiss with Zunala.” Teepo said.
+
+So, that means it's not just the amount, but the quality of the fluid. Ren thought.
+
+“It could also be because she's powerful.” Teepo said. “You might not have gained as much if she was only a low level like the succubi.”
+
+That's true. Ren thought, then realized he didn't get any other popup for Angered, Enraged, or something else, even with his corruption so high. He hopped down off of the boar demon's back and started to walk away, and the tail of the Marilith demon caught him around the chest.
+
+“W-wait.” She said, and Ren turned to look at her. “Come here.”
+
+Ren walked over to her and she tried to sit up; but, her body was too full of endorphins to move. She sighed and used her tail to urge him closer.
+
+“Kiss me.” She said. “I want to taste myself on your lips.”
+
+Ren leaned over her and tried to kiss her. Since her mouth was almost twice as big as his, it was a little awkward; then she opened her mouth a little and her tongue slithered out. She put a hand behind his head to hold him in place and jammed her tongue into his mouth and down his throat. Ren gagged on it, because it had happened so suddenly and was such an odd thing to feel. It touched something deep inside of him, and then he received a popup.
+
+Notice!
+
+You have permanently gained the Aura: Heat Sense. With it active, you no longer need to concentrate on your Aura to feel others within it, even with your eyes closed.
+
+The Marilith demon let his head go and gently retracted her tongue as she kissed him. Ren broke the kiss and leaned back.
+
+“I'm delicious.” She said demurely as the tip of her tongue licked her lips.
+
+Ren nodded. “Why couldn't you have been as gentle putting it in as you were taking it out?”
+
+“You would have fought it if I had told you what I wanted to do first, and it wouldn't have worked.”
+
+“Um... I guess I should thank you for choking me, then.” Ren said, and she laughed.
+
+“Was it enough to let you keep the Aura?” She asked, and he nodded again. “Good.” She said and sighed contentedly. “You deserved a reward for making me feel like that.”
+
+Ren smiled. “I'd like to say that it was it's own reward; but for some reason, women never believe me when I say it.”
+
+She chuckled. “I should demand that you give up all your other commitments and stay here with me.”
+
+“You know I can't do that.”
+
+“It would only be for a year or ten.” The Marilith demon said, and her womanly laugh filled the cavern.
+
+“I must politely decline.” Ren said and looked up at the cavern ceiling. Teepo? How high is that?
+
+“It's 32 feet.” Teepo said, and Ren smiled as he took out a 2 inch wide cube and placed it on the floor far enough away and activated it.
+
+“What the hell is that?!?” The Marilith demon exclaimed as the Instant Tower appeared in front of her.
+
+“It's my home away from home.” Ren said and went inside. The door shut behind him, and the Marilith demon flopped over onto her front, then slowly slithered off of the boar demon and over to the tower. She was still pretty relaxed after her encounter with Ren, so her movements seemed lazy and sluggish as she slid up the side of it to look into one of the arrow slits; but, she couldn't see anything and kept looking.
+
+Ren made a pattern for what he wanted, and knew he couldn't reforge something so big in a single piece; so, he divided the design into pieces, added sliding parts and hinges and rivets where necessary, then made the various molds on the floor. It took a while to get all the pieces made, since he had never made anything like it before. When he was done and had assembled them together, he thought about what kind of enchantment it could use.
+
+Ren examined the Sunder enchantment that he still had stored in his Retain Essence ability, and got the recipe for it. He enchanted the item with a copy of the enchantment, and stored the new item. Happy with his work, he left the instant tower and didn't see the Marilith demon. That didn't matter, though. He had felt her heat moving all over the Instant Tower while he worked and knew exactly where she was; as well as all the succubi.
+
+Ren stepped over to the side of the tower and looked up, and the Marilith demon was hanging upside down from the tower and was trying to look through one of the arrow slits.
+
+“I'm out here.” Ren said.
+
+“I know that!” She said. “I'm trying to see what's inside!”
+
+Ren chuckled. “Are you really that curious?”
+
+“I've never seen anything like this before!” She said and slithered down to the cavern floor. “What's inside?”
+
+“I actually have 4 shops inside on the ground floor. A blacksmith, tailoring, woodworking, and cooking.” Ren said. “There's just an icebox and a bed upstairs.”
+
+“You are the first Adventurer that I've met to have such odd things.” She said and then smiled. “You are also the first one I've met that didn't scream like a little girl at the sight of me.”
+
+Ren smiled and deactivated the Instant Tower to store it, and looked at her. “Can I ask you a question?”
+
+“Yes.” She said and coiled her body around herself and kind of sat on it.
+
+“Did you kill any knights?”
+
+“That depends.” The Marilith demon smirked. “Are you going to be outraged if I say yes?”
+
+“No.” Ren chuckled. “I was going to ask for their skulls.”
+
+“Oh? What for?”
+
+“It's a side quest for me to complete while I'm here, and I assume that since you are such a fearsome fighter, if anyone was going to stop their progress through here, it would be you.”
+
+“You're such a flatterer.” She said. “I... may have a skull or two.”
+
+“May I have them, please?” Ren asked.
+
+“Well... you did perform valiantly in our fight.”
+
+“We had a fi...” Ren started to ask, then he felt her sated desire. “Oh.” He grinned. “Does that mean I won?”
+
+She chuckled. “I could only declare you the winner if I could return the attack.” She said. “Then I would see how much stimulation you could take.”
+
+“A tie it is.” Ren said, and that made her laugh.
+
+“I'll be right back.” The Marilith demon said and slithered over towards her tunnel, grabbed the well-cooked boar demon on her way by, and dragged it into her lair.

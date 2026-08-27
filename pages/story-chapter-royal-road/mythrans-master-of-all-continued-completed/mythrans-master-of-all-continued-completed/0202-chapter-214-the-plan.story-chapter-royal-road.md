@@ -1,0 +1,285 @@
+---
+id: d8b19fe5-11d2-5b71-8697-e1f3c75d238a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 214 - The Plan"
+slug: 0202-chapter-214-the-plan
+partOf: mythrans-master-of-all-continued-completed
+position: 202
+ownLength: 3070
+unit: words
+publishedAt: 2017-04-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127930/chapter-214-the-plan"
+royalRoadId: "127930"
+---
+
+Ren rode Princess for only 30 seconds before Teepo spotted a giant coming towards them.
+
+“Ren! There's a giant coming! It's got a tree, too!”
+
+I wonder. Ren thought. Do you think it's just like the one we just defeated?
+
+“I don't know for sure.” Teepo said. “But, this will be only the second time we've seen a crazy giant use any kind of weapon... oh, wait. Third time.”
+
+What do you mean third time? Ren asked his friend. This will be the second...
+
+“There's a giant behind the one coming.”
+
+Crap. Ren thought, and asked Princess to stop. “Riley and Stacy! To the sides of the hole! Princess, get ready to ram it in the chest!”
+
+Princess dug in her hooves and leaned forward slightly. Ren took out a Fireball wand and replaced the charges with Grease. He also took out the only wand he didn't give Groggot; the Wand of Shrinkage, that had Reduce Person spells in it. Ren was tempted to use the web wand again, but he saw how little effect it had when the giants were moving. He used the Grease wand and covered a good portion of the ground in the section ahead of them.
+
+“Here they come!” Teepo said, and Ren saw the lead giant run towards them. Ren changed his mind and used the web wand to cover the opening behind him with several layers of web, then turned back around.
+
+“Get ready!” Ren said, and the group prepared to pounce on his command.
+
+*
+
+“Can you believe this guy?” One of the Warriors said as they came over to look down at the devastation the other giant had left, and saw Ren standing against the giants. “Look at him! He's not even scared!”
+
+One of the other Warriors laughed. “Are you kidding? He's taken down a few giants already. What's three more?”
+
+“Two more than he's handled at once.”
+
+“That's true.” The Warrior said, then hollered at Ren. “THERE'S THREE OF THEM!”
+
+*
+
+“THANKS!” Ren said. “You heard. Attack accordingly!”
+
+The two dogs barked softly, and Ren climbed down off of Princess. She glanced at him, and he smiled.
+
+“You don't need me slowing you down.” He said, and pat her neck and walked to the side a little. She huffed at him, and he felt her amusement. A moment later, the giant in front hit the grease in the next section, slipped and fell, then slid through the opening in the other wall. The tree he carried hooked the wall as the giant slid by, and tore the tree from the giant's grip. It covered part of the opening the giant just came through, and the giant skid across the dry ground on it's side facing Ren.
+
+“Now, Princess!” Ren said, and Princess ran to head butt the giant in the chest, where Ren had seen the large Brain Arthropod Grub come out from. The speed of the giant collided with the speed of Princess, and the giant's mouth opened as a gush of blood and gore came out through the mouth and the nose. It was much more than could possibly come out from a hit like that, so Ren knew the creature had met it's end. Thankfully, neither he nor Princess were in the splash zone as the blood and other things spilled out. Ren webbed the body up to stop the little grubs from escaping, and turned his attention to the next giant.
+
+It hit the grease, fell, and slid into the downed tree the first giant had dropped. There was a sound of bone being crunched, and the giant stopped moving. Ren webbed it's head and the ground to stop the grubs before they escaped, and waited for the last giant. It was a little smarter than the first two, and tried to jump the grease; it mostly succeeded, and landed close to the webbed tree. It's momentum carried it forward, however; it tripped over the second giant and rolled over the tree, to end up in a sitting position right between Riley and Stacy. They both launched Fireballs from the wands in their mouths, and hit the giant in the head at the same time. It hollered in rage, and the dogs grabbed it's arms with their jaws to stop it from moving.
+
+Princess took that opportunity to ram it in the chest, and another burst of blood and gore spewed forth across the ground. The giant's head lolled to the side, and when the dogs let the giant's arms go on Ren's command, the body slumped over. He webbed it up, then took out the Wand of Shrinkage, and shot the first giant. The body reduced in size by half and the weight was cut to an eighth of it's original weight; so the 22 foot giant was now only 11 feet tall and the space available inside of it was also reduced. Ren heard a sloshing sound as all of the grubs inside were crushed.
+
+The spell only worked on humanoids; so he suspected this would happen, and smiled as his idea was confirmed. He shot the other two bodies, and their unwanted passengers were squished as well by the shrunken space they were trying to hide in, then he looted the bodies.
+
+Notice!
+
+You have dispatched 3 more adult Brain Arthropod Grubs from existence.
+
+Rewards: 25,095 XP
+
+Loot: 90 legs (full size), 6 mandibles (venom covered), 6 venom glands (numbness), 3 platinum coins.
+
+Level up!
+
+You have gained a level and are now Level 32. 10 stat points have been automatically allocated. You have unlocked new class skills: Fast Crafting, Craft Rod
+
+Notice!
+
+Your familiars have gained enough levels that your skill Craft Familiar has increased in level.
+
+Craft Familiar Level 4 (Intermediate 0%)
+
+I didn't get anything from the giants themselves. Ren thought. Maybe there wasn't enough of them left for anything to be looted. He dismissed the popups and looked around. “Good job!” He said, and pat Riley and Stacy on the heads, then climbed up onto Princess' saddle. “That was perfect timing.”
+
+Ren felt happiness and some proudness from Princess and his dogs, and nodded slightly. He looked at the Warriors that had stood on top of the battlement walls and watched.
+
+“Where's the Commander?” He asked them, and they told him where the field Command Center was. “Thanks!” Ren said, and Princess took off running, with Riley and Stacy close behind.
+
+*
+
+“Okay, that guy is crazy.” One of the Warriors said. “He didn't dodge, jump, or even try to avoid anything that might hit him.”
+
+“You can see the armor he's wearing, right?” The second one said and laughed. “I doubt he has to do anything but stand there.”
+
+“I guess so.” The first one said. “Wouldn't it be nice to have armor like that?”
+
+“And stand out on a battlefield like a lantern in the dark?” The third one said. “It's just begging for special attention from enemies.”
+
+“Apparently, he can take it.” The second one said. “I would have been shaking in my boots with 3 giants, nearly 5 times my size, running at me!”
+
+“You were shaking in your boots.” The first one said, and laughed himself. “I could even hear your knees knocking together.”
+
+“Shut up.” The second one said, but didn't argue the point. He actually was terrified to see giants up close.
+
+*
+
+“I really hope he's okay.” Ereka said absently, as she finished the nice meal she'd ordered from Nathalia's Nourishment and had brought back to her office.
+
+“Who?” Artrude the healer asked her childhood friend. She still had a dessert to tackle, so she waited to see who Ereka meant.
+
+“What?”
+
+“You said you hoped he was okay. Who did you mean?” Artrude asked.
+
+“Groggot, of course.” Ereka said.
+
+“Really?” Artrude smiled. “Not even a bit worried about our magnificent benefactor at all, are you?”
+
+Ereka rolled her eyes. “Yes, I'm concerned about him too; but, he went out to save Groggot. Nathalia told me not to worry about Ren, and that he could take care of himself.”
+
+“Uh huh.” Artrude smiled knowingly at her, and took a bite of the piece of cake she had. “Oh, that's delicious!”
+
+“Nathalia always makes the best food.” Ereka looked at her friend. “By the way, why did you ask to join me for an early lunch?”
+
+“What? I can't just spend some time with my childhood friend?” Artrude asked playfully.
+
+Ereka smiled. “Of course you can.” She said. “I just assumed you wanted to talk about something after we ate.”
+
+“Well...”
+
+Ereka smiled. “Go ahead. Ask away.”
+
+“It's been a while since Malenka and I met.” Artrude said. “I'm... well, I want to get her something nice to celebrate.”
+
+Ereka nodded slightly for her to continue.
+
+“I have no idea what to get her, though.”
+
+“Hm. That's a tough one.” Ereka said. “Does she like furniture?”
+
+“Not besides using it to jump on.” Artrude said and both women laughed.
+
+“Okay. Since you've got a house already, and furniture, and all the medical supplies you need...”
+
+“See? It's hard to come up with something.” Artrude said.
+
+“Well, there is something you don't know about...” Ereka smiled, and told Artrude about some of the special products Ren sold out of his store in the human kingdom. Before she had finished telling her about it all, Artrude stood up and grabbed her by the shoulders.
+
+“Take me to the workshop where they're made!” Artrude exclaimed, and Ereka laughed.
+
+“Easy, girl! They aren't going to sell out in the next few minutes.”
+
+“You just said he makes them for the human kingdom. I can't let something like that slip through my fingers, now that I know about it!” Artrude said, and shook Ereka by the shoulders.
+
+“All right, all right!” Ereka said. “Can I at least eat my pastry before-”
+
+“NO!” Artrude hauled her out of the chair and pushed her towards the door of the office.
+
+*
+
+Ren didn't encounter any more giants along the path of destruction the first giant had caused. When he got to the cross-section he needed to take, he noticed several dwarves trying to repair the damage. He was tempted to stop and help; but, he needed to get the critical information about the grubs to the Commander. Ren made his way over to the Command Center, and was surprised to find two dozen dwarves just standing around and not doing anything.
+
+“What's going on here?” Ren asked as he climbed down from the saddle on Princess' back, and the dwarves turned around to look at him.
+
+“They're waiting for orders.” The Commander said as he came through a gate that opened for him as he passed. “I hear you're doing good work.”
+
+“Technically.” Ren said. “It might cause more problems, though.” He said, and explained about the Brain Arthropod Grubs.
+
+“No, that's perfect!” The Commander said. “Them being attracted to their kind like that, isn't a bad thing. We can use that to gather them together.”
+
+“Is there somewhere we can do that?” Ren asked. “This place is huge. I thought I covered a lot of ground, but you say there's 25 or more still breaking in?”
+
+“Yes.” The Commander said and pointed on a map where the giants were last seen. “I've got scouts watching them, but any kind of defense we try to mount, just aggravates the giants and gets dwarves killed.”
+
+“Where do you want them led to?” Ren asked.
+
+“Right here.” The Commander pointed. It was a blacked out area on the map he had.
+
+“What is it?”
+
+“The Hole.”
+
+Ren frowned. “There's no way we can get them to go through those little tunnels to get there.” He said. “I've been in it, and there's not enough room for the giants to even stand up.”
+
+The Commander laughed. “Not the Hole under the section by the Brig, this is the Hole. As in, bottomless.”
+
+“No.” Ren said.
+
+“What?”
+
+“I won't send victims to their deaths like that.” Ren said. “I've been down a 'bottomless' hole. I won't subject anyone else to that.”
+
+“Are you refusing to help defend the Dwarven Kingdom?”
+
+“Absolutely not!” Ren scowled at the Commander. “I'm doing my best to defend it!” He said, heatedly. “I've put my life, and the lives of my mount and dogs, at risk to defend this kingdom.” He said. “I'm trying to save as many lives as I can. If all I wanted to do was kill the giants, I could have just shot them all. I am NOT going to drop them into a bottomless pit!”
+
+The Commander scowled back. “It's the fastest way to deal with them! Your way is taking too long!”
+
+“Only because I'm standing here arguing with you, instead of dealing with them!” Ren fired back.
+
+“How are you feeling?” The female healer asked Ren as she stepped forward.
+
+“Wh-what?”
+
+“You were unconscious not that long ago. How are you now?” She asked.
+
+“I'm much better, thank you.” Ren said.
+
+“No lingering effects?”
+
+“Not that I'd noticed.” He said.
+
+“That's good.” She said. “I want you to be careful. If you feel drowsy at all, come back here to see me.”
+
+“Okay.” Ren said.
+
+“Commander...” She smiled at the Commander. “...is there another area that the giants can be lured into, that they wouldn't die right away, and this man can deal with a group of them all at once, rather than running all over the Garrison?”
+
+“You want him to fight a bunch of them?!?”
+
+“I've handled 3 at once.” Ren said. “But that was with my mount and dogs helping, in a small space. I don't know if I can handle too many at once.”
+
+“What was it that you did to them to make the grubs come out?” The healer asked, and Ren explained about his Fear Aura, and Screaming Terror rings.
+
+“Dammit! So, we can't duplicate it.” The Commander said.
+
+“I could make more Screaming Terror rings easily enough; but they don't work directly, and the only other people I know who can produce a Fear Aura can't form Connections to them.” Ren said.
+
+The Commander sighed and rubbed his forehead. “We could draw the giants somewhere else, but there's nothing inside the Garrison big enough to deal with them.”
+
+“How many men with digging experience and picks can you get?” Ren asked the Commander, who laughed.
+
+“Everyone.”
+
+“That are willing to dig out under the Garrison to a spot, say, a thousand feet out. It would have to be 50 feet deep, or 10 feet down and 40 feet deep.” Ren looked around. “Anyone have some parchment?”
+
+A piece was handed over, and Ren drew out what he wanted. “You can start at the Garrison, dig a small tunnel out to where the pit will be, then make a pit this wide and deep, leaving small thin supports to hold up the top 10 feet of dirt.”
+
+“You want us to make a large pit trap.” The Commander said. “How are you going to get them there?”
+
+“Two ways.” Ren said. “I'll scare out another normal grub, and run down all the damage paths to get the normal giants to follow me. Once I have enough of them on my trail, I'll lead them out to the middle of the pit trap.” He said, and took out a vial of the Brain Arthropod Pheromones. “I can lure the big ones with this.”
+
+“But you'll be caught in the trap as well.” The healer said.
+
+“That doesn't matter.” Ren said. “I'd have to go into the pit anyways, to deal with them.”
+
+“You're crazy.” One of the dwarves said.
+
+“Crazy is as crazy does.” Ren smiled. “Just make sure you keep the dimensions of the pit to this diameter, and no further.”
+
+“Why's that?” The Commander asked.
+
+“It's within the limit of my Aura.” Ren said. “Anything outside of that, and they'll escape.”
+
+“Understood.” The Commander said, and looked at the gathered dwarves. “I was going to say that this mission is strictly volunteer, but you're all mostly volunteer anyways.” He said and smiled. “Gather the picks and shovels you'll need. This pit has to be done as soon as possible.”
+
+Ren took out a pair of steel squares and enchanted them with the Sending glyph, without anyone noticing. “Take this.” He said, and handed one of the squares to the Commander. “Let me know when I can start luring the giants to the pit area.”
+
+The Commander looked at the Sending Square, then at Ren. “Where did you get these?” He asked. “I've never seen anything like them before.”
+
+“You haven't been to the Main House at House Neram then.” Ren said and smiled.
+
+“I may have to visit it soon.” The Commander said and pocketed the square.
+
+“How many diggers do we have that are willing to do this?” Ren asked.
+
+Twenty dwarves raised their hands.
+
+“Perfect.” Ren said and took out a crate that held a suit of armor. “I've got something for you.”
+
+“I take it those are the suits of armor you mentioned a while ago, that you have at a discount for the Garrison?” The Commander asked.
+
+“Yeah.” Ren said. “I've been selling them out of my store in the human kingdom.”
+
+“We'd definitely be interested in buying them.” The Commander said.
+
+“Buy them?” Ren asked. “I own the Garrison, remember? All I'm doing is equipping a special unit for a mission.”
+
+The Commander nodded slightly. “Why are they bare metal, though?”
+
+“Because I haven't dyed them yet.” Ren said, enchanted the chest pieces with Protection glyphs, and dyed the armor a mottled gray, just like the regular uniforms.
+
+“This is great!” The first dwarf to put on the bodysuit and armor said. “It's lighter and easier to move in.”
+
+“Okay, now I want in.” One of the dwarfs that didn't raise their hands said, and the others laughed. Ren equipped 22 dwarves in armor and Protection glyphs, and they left to start digging the pit.
+
+“All right.” The Commander said, then turned to Ren. “Get out there and stop as many giants as you can.”
+
+“Now that I know where to look, it should go faster.” Ren said, nodded slightly to the Commander, and to the healer; then climbed up to sit on Princess' saddle again and took off at a run, with his two dogs close behind.

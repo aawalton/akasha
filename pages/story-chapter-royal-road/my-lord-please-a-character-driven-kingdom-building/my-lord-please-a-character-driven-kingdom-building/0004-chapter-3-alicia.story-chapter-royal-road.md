@@ -1,0 +1,275 @@
+---
+id: 4a379292-dd4b-57a5-9767-3ce4a3c5deea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 Alicia"
+slug: 0004-chapter-3-alicia
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 4
+ownLength: 2690
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191545/chapter-3-alicia"
+royalRoadId: "3191545"
+---
+
+Lucien woke slowly, consciousness returning in uneven fragments. For a brief moment, there was nothing but the unfamiliar ceiling above his bed and the faint ache behind his eyes. Then memory followed.
+
+In hindsight, he supposed it had been a hidden blessing that his meeting with Dorian had stretched so late into the night. He had been far too exhausted to dwell on the fact that it was his first night in an entirely new world, in a body that was not truly his.
+
+Instead of tossing and turning, plagued by racing thoughts and quiet dread, he had fallen asleep almost the instant his head touched the unfamiliar bed. The sheer weight of the day had dragged him under, leaving him unconscious before anxiety could take hold.
+
+That mercy did not last.
+
+Now fully awake, his usual lazy morning haze was shattered at once by everything he had experienced the day before. The memories surged back without restraint, sharp and unwelcome.
+
+Standing in judgment over a man’s life.
+
+Knowing that his word alone had been the difference between survival and execution.
+
+The creeping panic of realizing just how unprepared he truly was, cast into a role he still had no idea how to perform convincingly.
+
+A lord, a ruler, a figure whose decisions carried weight far beyond his own understanding.
+
+Then there was winter.
+
+Not the gentle seasonal shift of the world he had come from, but something harsher. Here, winter was not merely cold or inconvenience.
+
+It was danger. Hunger. Beasts. A season that demanded blood and grain alike.
+
+And of course—
+
+“M-my Lord. It’s morning.”
+
+The voice came from beyond the door, hesitant and unsure, carrying that same fragile softness that made him slow his reply.
+
+“Master Elias asked if you would like your breakfast in your room, or in the dining room instead.”
+
+Alicia.
+
+The name alone carried an uncomfortable weight in his conscience.
+
+The consequence of a decision that had not been his to make, yet now rested squarely on his shoulders. A girl forced into his household through circumstances wholly beyond her control, and only partially within his.
+
+“I will have breakfast in the dining room,” he replied quietly, pushing himself upright. “Let me dress first.”
+
+Lucien rose from the bed, reaching instinctively for the clothes laid out for him. Even that small detail still felt strange. Someone else had prepared them and had decided what he would wear. Even his fractured memories dictated some part of his movements, in ways so small and habitual that he wasn’t sure he would notice them at all.
+
+Before he could begin, however, Alicia’s voice came again, softer now, with the faintest tremor beneath it.
+
+“W-would you need help?”
+
+Lucien froze.
+
+The words caught him so off guard that, for one brief and unwelcome instant, his mind betrayed him. The phrasing carried an unintended implication, and his thoughts strayed somewhere they had no right to go.
+
+He grimaced internally.
+
+Lucien could hardly help it. This body was young, barely into its twenties, with all the vigour and responsiveness that came with it. A body that reacted faster than his reason could always rein in.
+
+“I-I mean,” Alicia squeaked hurriedly, panic flooding her voice, “with dressing yourself, My Lord.”
+
+Lucien exhaled, tension draining slightly.
+
+He remained silent for a moment, not because he was tempted, but because he genuinely did not know what the correct answer was supposed to be.
+
+‘Was this normal here?’
+
+He had read before that nobles in his own world’s medieval past often had servants dress them, attend them at all hours or have them handle even the simplest tasks.
+
+It was one of those historical facts he had absorbed passively through years of reading, especially through his guilty pleasure of transmigration novels.
+
+Still, knowing something academically and living it were entirely different matters.
+
+He had no intention of following that custom, regardless of misplaced thoughts.
+
+Lucien was not an infirm.
+
+He had never liked having things done for him even in his old life, preferring to be as independent as he could whenever possible. At the very least, he would always try to have the minimum knowledge for his own daily needs.
+
+It was a small thing, he realized. Almost trivial in the grand scheme of rulership and survival.
+
+And yet, it mattered.
+
+Yesterday, he had acted as he believed a noble should, mimicking authority, leaning on formality, hiding his uncertainty behind false indifference. Today, at least for something small, he wanted to act differently.
+
+To be just a little more himself, the old Leon.
+
+A silent act of defiance against a fate he hadn't chosen, forced into a world he barely knew.
+
+‘And what better way to start than with Alicia, someone so far beneath him in the social order?’ Lucien thought cynically. Even this small act of defiance was calculated, not the bold rebellion he liked to imagine himself capable of.
+
+“It is fine. I will dress myself,” He ordered at last, after his brief moment of self-criticism. It would not do to leave the poor girl frightened and waiting for too long.
+
+“Y-yes, My Lord,” Alicia replied, relief slipping into her tone before she could hide it.
+
+He heard soft footsteps retreat down the corridor, the sound fading until he was alone once more.
+
+It was still early, and already he felt tired at the thought of what the day might bring. If the morning had begun with this much weight, he could only imagine what awaited him for the rest of the day.
+
+“Well,” Lucien muttered as he began pulling on his clothes, “I suppose it is time to face a whole new world again.”
+
+His second day in this strange land had begun.
+
+Food in this world was, all things considered, rather mundane.
+
+That realization struck Lucien almost immediately as he sat at the long dining table, staring down at the spread laid out before him.
+
+He had half expected something wildly unfamiliar, perhaps strange meats or exotic dishes that defied his understanding. Instead, what greeted him was almost disappointingly recognizable.
+
+There were eggs, cooked simply. Strips of bacon, salted and crisp at the edges.
+
+There were vegetables as well, some vaguely resembling tomatoes, others leafy greens not unlike lettuce. The colours were muted, the presentation practical rather than decorative, yet nothing about it felt alien.
+
+Strangely enough, the fare bore an almost startling resemblance to the food of his former world.
+
+Of course, whether they were actually called eggs, bacon, tomatoes, or lettuces here was another matter entirely. They might have entirely different names, histories, or cultural meanings attached to them.
+
+There was just one problem.
+
+There was no coffee.
+
+It was, quite frankly, a massive problem.
+
+Lucien, or rather Leon, was rather fond of the caffeinated drink.
+
+Maybe saying he was fond of it was putting it lightly.
+
+He had been one of those people, the sort who owned his own coffee machine, who knew the difference between blends, who could not truly consider himself awake without at least a cup. He was a coffee aficionado through and through, with no shame of his love for it whatsoever.
+
+And now, sitting in a medieval dining room in a world utterly unrepentant in its cruelty to his love of that blessed drink, he was left in a poorer mood than even after he had learned about his forced transmigration.
+
+There was no coffee here.
+
+Absurdly enough, it ranked higher on his personal scale of shock than learning about the Beast Tithes.
+
+Well. Almost.
+
+Fine, that was an exaggeration. But only a little.
+
+“I-is something wrong, My Lord?” Alicia’s voice broke through his thoughts, cautious and tinged with fear.
+
+She stood a respectful distance away, hands nervously clutching the hem of her maid outfit.
+
+Once again, Lucien could not help but note that the skirt seemed far too short for comfort, though whether that was a matter of local custom or simply a preference for the former Lucien's taste, he had no idea.
+
+Alicia must’ve seen the despondent look on his face and wrongly assumed it was her fault.
+
+“It's nothing, Alicia,” Lucien replied quickly, “I am just thinking of a drink I missed having in the mornings.” He conveniently did not mention how often he would have that specific drink in a day.
+
+“A drink?” Alicia echoed, blinking. For the first time since entering the dining room, she seemed to gather a bit of courage. “What would it be, My Lord? Perhaps I can ask the cook to prepare it for you.” She continued, clasping her hands together, a determined look on her face.
+
+The initiative caught him off guard.
+
+So far, Alicia had spoken only when spoken to, her manner deferential to the point of discomfort. This was the first time she had asked a question unprompted, even if it was clearly driven by a desire to please.
+
+“If possible,” Lucien said slowly, already suspecting the answer but he was desperate enough to try anyway, “could you ask the cook if there is any coffee?”
+
+The confusion that replaced her earlier expression told him everything he needed to know.
+
+“C-coffee?” Alicia repeated uncertainly. “I-I do not believe I have heard of such a drink before, My Lord.”
+
+A slight pang of guilt coursed through him when he noticed her tone dip, fear creeping back into her eyes. It almost seemed as though she was afraid her ignorance might earn her punishment.
+
+“It's fine,” he attempted to assure gently. “Perhaps it simply does not exist out here in the frontier.”
+
+Alicia bowed quickly, clutching her skirts as she attempted a curtsy that was more hurried than graceful. Even to Lucien’s untrained eye, it looked poorly executed, but he made no comment.
+
+She remained standing there afterward, however, posture stiff and uncertain.
+
+It took him a moment to realize why. As his personal maid, it was likely her duty to remain present while he ate. The thought made his shoulders tense.
+
+It was awkward to have someone standing in the room, attending to him while he ate. Especially when that someone was so visibly uncomfortable that the silence between them felt louder than any conversation, a tension he was painfully aware he was responsible for.
+
+He ate slowly, aware of every sound. The scrape of cutlery against the plate felt louder than it should have. Each bite tasted fine, even good, but the act of eating under watchful, anxious eyes made his appetite wane.
+
+‘Damn it. My tastes are vanilla.’
+
+Lucien repeated the phrase internally, almost like a mantra, recalling his own irritation from the previous day. There was nothing alluring about hesitation or fear. His imagined ideal of a noble and his maid was quietly falling apart, and the realization left him faintly saddened. It was a dynamic he’d once taken comfort in through stories.
+
+From the outside, the scene must have looked strange.
+
+A noble eating his breakfast in silence, visibly ill at ease, while his maid lingered nearby, equally uncomfortable. No conversation. No warmth. Only the faint sounds of chewing, breathing, and the unspoken tension between two people trapped by circumstance.
+
+‘If this is how mornings are meant to be in this world,’ Lucien noted dryly, ‘Then the lack of coffee is hardly the worst of my problems.’
+
+His meal passed in silence, and the day continued, indifferent to his discomfort.
+
+The dining room slowly emptied of sound.
+
+Alicia moved to clear the table with hesitant, uncertain motions, her hands lingering too long before touching anything.
+
+Plates clinked softly as she gathered them, each movement overthought, as though she feared drawing attention not through boldness, but through mistake alone.
+
+Lucien watched her from the corner of his eye.
+
+She had not spoken since their brief exchange about his favorite drink, but her silence carried weight. There was a stiffness to her movements now, a slight hesitation each time she stepped closer, as if she were bracing herself for something unseen.
+
+He knew what that something was.
+
+The fate of her father hung between them, unspoken and unresolved.
+
+When she reached for the last dish, her hands trembled faintly. Not enough to spill anything, but enough for Lucien to notice.
+
+“Alicia.”
+
+She froze.
+
+“Y-yes, My Lord?” she replied quickly, turning to face him.
+
+She straightened as if remembering she should, her eyes dropping a moment later, the motion hesitant and slightly out of sequence.
+
+He tried to consider his next words carefully. This type of scenario, where the power imbalance between him and another person was so great, made things difficult for him to express what he really wanted to say.
+
+He wanted to reassure her, say something definitive about the fate of her father and her own forced employment under his household. But what words could he say that would convey his sincerity? When he held all the power over her, anything he said was merely just that, platitudes from the very nobleman who ripped her from her life with her family.
+
+“You may go for now,” he ordered instead. “Remain nearby. I may have need of you later.”
+
+A flicker crossed her expression. Relief, or perhaps a form of that mixed with anxiety, it was hard for him to tell as her head lowered slightly and she made to leave.
+
+“Yes, My Lord,” she added, curtsying belatedly, clearly unused to such rituals, before retreating from the room.
+
+The door closed carefully behind her, not as loud as yesterday’s mistake, but clearly not as experienced as Elias’s own exit from a room whenever he had to do the same.
+
+Lucien remained seated for a moment longer, staring down at the empty place setting before him. The food had been filling enough, but it sat heavy in his stomach nonetheless.
+
+Delay, he realized, was its own form of cruelty.
+
+He had spared Bran in the moment, driven by instinct and revulsion at the alternative.
+
+But sparing a man without deciding what came next merely traded one form of suffering for another. Uncertainty gnawed just as sharply as punishment.
+
+Lucien rose from his chair and crossed the room, stopping by the window that overlooked the distant fields beyond the village.
+
+Even from here, he could see signs of preparation. Harvested fields lay bare beyond the village, furrows freshly turned where work lingered late into the season. Tools were gathered and set in careful rows, as men and women moved with the urgency of those bracing for what came next.
+
+He knew nothing about farming in this world. Not truly.
+
+He did not know what yields were considered good or poor. Nor did he know what tools were used, or what methods had been passed down.
+
+How much labour was wasted simply because no one had thought to question the way things had always been done?
+
+And yet he was expected to pass judgment on a farmer.
+
+On one of the men whose hands fed this village.
+
+Lucien exhaled slowly
+
+If he was going to decide Bran’s fate, then he would do so with his eyes open.
+
+And perhaps, he considered, this could serve another purpose as well. If a noble was seen to favor his maid, then sparing her father would hardly seem strange. It would fit neatly into the assumptions of this world, mercy reframed as indulgence rather than compassion.
+
+It would not immediately ease her fears, but involving her more closely in his work gave that arrangement a legitimacy mere reassurance never could.
+
+Turning from the window, Lucien reached for the bell at the side of the room and rang it once.
+
+When Alicia hurriedly returned from his summons, he met her eyes briefly before speaking.
+
+“Alicia,” he said, his tone measured. “I would like you to bring me any books, records, or ledgers related to the land. Farming practices. Harvest yields. Anything the manor keeps on such matters.”
+
+Her eyes widened slightly, surprise flickering across her face. “At once, My Lord,” she replied, bowing before hurrying off.
+
+Lucien remained where he was, alone once more, the quiet of the manor settling around him.
+
+Bran’s "punishment" would come later.
+
+For now, there was much to learn.

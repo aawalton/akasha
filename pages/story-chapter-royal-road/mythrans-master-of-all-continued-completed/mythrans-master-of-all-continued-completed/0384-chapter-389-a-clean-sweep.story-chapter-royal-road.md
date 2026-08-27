@@ -1,0 +1,341 @@
+---
+id: 95ea388d-b8d9-5ad0-ad5e-4f74a253fc27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 389 - A Clean Sweep"
+slug: 0384-chapter-389-a-clean-sweep
+partOf: mythrans-master-of-all-continued-completed
+position: 384
+ownLength: 3402
+unit: words
+publishedAt: 2017-10-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168192/chapter-389-a-clean-sweep"
+royalRoadId: "168192"
+---
+
+Ren used the Staff of Earth to cover over the crypt and packed the dirt in, and Elerlyth climbed onto her mount. Ren ran back to the field and Elerlyth rode her Phantom Steed beside him. When they came to the field, there wasn't a field anymore.
+
+“REN!” Clint yelled and waved from across the large gaping hole. “YA MADE IT!”
+
+“SO DID YOU!” Ren yelled and waved back. Princess appeared beside Ren and he climbed up onto her saddle, then Ren and Elerlyth rode their mounts around the collapsed cavern to where Clint and the rest of the party was.
+
+“Nice job.” Clint said as Ren and Elerlyth stopped beside them.
+
+“I was just about to say the same thing.” Ren said. “What happened up here?”
+
+“Yer oil things exploded.”
+
+“They what?!?” Ren looked at Clint with shock.
+
+“The things boiled and popped, man.” Tommy said. “They couldn't take the heat.”
+
+“Oh, damn.” Ren said. “I'm sorry, I didn't think...”
+
+“Well, ya know now.” Clint said and chuckled. “If something like this evah happens again, yule know ta put some distance between tha oil an' tha fire.”
+
+Ren nodded.
+
+“Hey, I just realized something.” Billy said.
+
+“Wha's tha'?” Clint asked.
+
+“WE DID IT!” Billy yelled and started to jump up and down.
+
+“Sorry, but no.” Ren said. “That was the easy part.”
+
+“That was the easy part?” Billy asked.
+
+“We took out the main force, but that doesn't mean they're all gone.” Elerlyth said. “We've got to go down there and root through all the tunnels to dig them out.”
+
+“Oh, geez.” Dillon said. “My defensive magic won't help much.”
+
+“Are you kidding?” Ren asked. “In close quarters, it's going to be more useful than offensive spells.”
+
+“Really?”
+
+Ren nodded. “We don't know what we're going to find down there. Being overly defensive while we explore isn't a bad thing.”
+
+Dillon smiled, and Ren felt that Dillon liked to be useful.
+
+“How long do you think it'll take?” Hank asked.
+
+“We won't know until we get down there and find out.” Elerlyth said. “At least there's enough of us to split up into teams.”
+
+“We've all got the weekend off, so it's no sweat if we are doing this for the next week.” Hank said. “I don't want to do it for a week, though.”
+
+Ren chuckled. “The sooner we get started, the sooner we finish.”
+
+“Then let's get going.” Hank said. “My sword is hungry.”
+
+“Armor up firs'.” Clint said, and Hank nodded and equipped his armor. “If everyone's ready?”
+
+They all nodded.
+
+“Hank, Ren.” Clint said and smiled. “Lead on.”
+
+“Sweet!” Hank said and held an armored fist out. “Let's rock and roll!”
+
+Ren gave him a fist bump and smiled. “Mount up.” He said, and the guys looked at him. “You don't want to walk over that.” He said and pointed to the rubble inside the hole.
+
+“But...”
+
+“The Phantom Steed can cross anything, just like Princess.” Ren said.
+
+Princess trotted over to the hole with Ren on her back, and the guys watched as she jumped into the hole.
+
+“They did not just jump down 20 plus feet onto uneven ground.” Billy said. “I didn't just see that, did I?”
+
+“Are you guys coming or what?” Ren asked, and they saw him and Princess halfway across the 300 foot expanse of rocks and dirt mounds. Elerlyth laughed and her Phantom Steed trotted over to the hole and jumped in.
+
+“They're both crazy, man.” Tommy said as his Phantom Steed came over to him. He climbed up onto the saddle and it went over to the hole. “And here I am doing it, too.” He said and laughed, then the steed jumped into the hole.
+
+“Hank, yer fallin' behind.” Clint said.
+
+Hank mounted his steed, and it ran over to the hole and jumped, then glided down into the hole to land beside Ren and Princess.
+
+“Ha ha! Nice one.” Ren said and he and Hank fist bumped again. Clint, Billy, and Dillon jumped into the hole on their mounts and the group gathered near the beginning of the left tunnel.
+
+“We'll watch the back and see if anything comes out the right tunnel.” Dillon said, and pat Billy's back.
+
+“Then Tommy an' me will back Ren an' Hank.” Clint said and the guys got off their mounts.
+
+“I'll head over to the tunnel that leads to the crypt and keep it blocked.” Elerlyth said.
+
+“If'n ya see any ghouls, kill'em if ya can.” Clint said. “None of 'em can git away.”
+
+Elerlyth nodded and rode her mount across the 300 feet to the other side and over piles of rocks and rubble.
+
+“Princess, it's the same deal as yesterday.” Ren said and used the Staff of Earth to open up the left tunnel enough so that he and Hank could walk into it side by side. “If I activate the Charge! party ability, you come running.”
+
+Yes, My Lord. Princess thought, and huffed her agreement.
+
+Ren equipped his helm and took out his hammerpick, then enchanted it with 50 Fire runes to replace the old Earth enchantment. The green meteoric ore of the hammerpick was immediately covered in a thin layer of bright blue flame.
+
+“Whoa, man!” Tommy said. “Doesn't that burn you at all?”
+
+“Not a bit.” Ren said.
+
+“That's pretty cool.”
+
+“It sure is.” Hank said.
+
+“I've got Energize spells, so don't hold back.” Ren said.
+
+“Sweet!” Hank said. “Let's see how many of them we can kill before you have to use it!”
+
+Ren chuckled. “You're on!”
+
+“Guys!” Clint said, but Ren and Hank had already run down the slight embankment and into the tunnel. “We're in no rush.” He said and chuckled.
+
+Ren and Hank ran down the empty tunnel to the first intersection. There the tunnel split in two, with a tunnel going off to the right, and the one they were in going slightly left.
+
+Teepo? Ren thought to his friend.
+
+“They both cut off at right angles at the end, with the right one at 250 feet, and this one at 350 feet. I can't see past that.” Teepo said. “I'll go further when you pick a tunnel.”
+
+Ren smiled. Who would have thought I'd get to the point that I would need two of you.
+
+“You need more than that.” Teepo said and chittered in laugher. “If I remember correctly, there's 4 tunnels in the other tunnel back where we came in.”
+
+Ren chuckled. “Okay, I think we need to do what Elerlyth said.” He took out a Wall of Earth wand and cast it over the right tunnel. “We've got 20 minutes to explore this side.”
+
+“Nice goin'.” Clint said and came up behind them. “Carry on.”
+
+Ren and Hank moved off down the left tunnel and Teepo flew well ahead.
+
+“There's a smaller cavern about halfway, then a short tunnel and another cavern.” Teepo said. “No ghouls yet.”
+
+Ren and Hank stayed at the ready as Teepo flew around the corner.
+
+“Ghouls!” Teepo said. “About a dozen, with a large ghoul herding them.”
+
+“We've got customers.” Ren whispered to Hank, and saw his smile. “Left or right?”
+
+“Right.” Hank whispered. “When I swing this baby back and forth, I don't want to hit you.”
+
+“Just watch the wall.” Ren switched sides with him and they moved forward. “I'll even let you have the big ghoul.”
+
+“Geez, you're all heart.” Hank said and they ran the last bit of distance and around the corner, and caught the entire group of ghouls flat-footed. It gave Ren and Hank the advantage, and the first swing in combat.
+
+They didn't waste it.
+
+Ren swung low and took out three ghouls by crushing their legs, and his hammerpick lit them on fire instantly. They collapsed right away, and didn't even scream as the bright blue flame consumed them in only moments.
+
+Hank swung high and decapitated 2 ghouls, and sheared the top of the skulls of two more. His sword's enchantment let him do the back swing for free, with no Stamina loss; so, he stepped forward and swung back. He finished off the two he'd only 'mostly' killed by swinging slightly lower, and took the arms off the 4 ghouls behind the first 4 and cut across their chests.
+
+“Hey, no fair.” Ren said and turned his hammerpick around and swung the 'reaping' end across the enemies on his side, and it speared a ghoul in the side of the head. Ren was glad he'd worn his helm, because the head exploded and it covered him in blood and gore. He followed through on the swing and hooked two more in the same manner; then their heads exploded, too.
+
+“Damn, I'm glad I'm on the right.” Hank said and laughed as he stepped forward and turned his sword on it's end, then swung upwards as hard as he could at the large ghoul. It had been so surprised to find food attacking it, that it didn't even try to defend itself. Hank's sword went between it's legs and travelled upwards, and cleaved the unsuspecting ghoul right up the middle.
+
+The large ghoul fell to it's knees, and that was enough to jar the two halves apart. There was a sickening slurping sound as the bisected ghoul slid apart and fell in two different directions.
+
+“That's both cool and disgusting.” Ren said as he killed the last ghouls on his side.
+
+“You made it, my friend!” Hank said and laughed.
+
+“Ya didn' even leave us nothin'.” Clint said as he and Tommy appeared around the corner.
+
+“We surprised them.” Hank said, and Clint nodded.
+
+“Ya took good advantage of it.” Clint said and looked at the bodies. “Loot'em ta git 'em outta tha way an' star' searching.”
+
+“You got it, boss.” Ren said and he and Hank looted the bodies and stored the items without looking at them.
+
+“There's a couple of chests under the mounds of clothes.” Teepo said as he came out from under them. “They might be good to loot, but they also might be booby-trapped.”
+
+Ren took out the Detect Magic and Detect Traps wands and cast them, then activated Enchanted Eyes and moved the clothing out of the way when nothing appeared. He saw one of the chests glowed slightly, and cast the spells again. The Detect Magic spell found something, and Ren read the popup.
+
+Notice!
+
+Detect Magic has found a spell that was cast on this item.
+
+Curse of the Lost Chest: Anyone that touches this chest will be Cursed. This curse is a Permanent condition that causes minor poisoning, and cannot be cured by potions or other spells.
+
+“Don't touch that chest.” Ren said and pointed, then told them what it did.
+
+“Did... did you say 'permanent'?” Hank asked.
+
+“There is a Permanency spell.” Ren nodded. “It's Master level, and it can make certain other spells or effects permanent.”
+
+“Damn.” Clint said. “Ah don' even wanna try storin' it, either.”
+
+“Hold on.” Ren said and switched the wands he held for another. “Let me read something first.”
+
+Wand Of Entering (Level 5)
+
+A Knock spell opens stuck, barred, locked, held, or arcane locked doors. It opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold closures shut). If used to open an arcane locked door, the spell does not remove the arcane lock but simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own.
+
+Limitations: Knock does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like.
+
+Range: Within 500 feet (Long).
+
+Target: The doors on one level of a building, any number or size box(es) or chest(s).
+
+“I wonder if the chest is locked.” Ren said.
+
+“Why?”
+
+“If it's locked, then the Knock spell will suspend it's function for 10 minutes.”
+
+“If it's not?”
+
+“Whoever touches it is cursed.”
+
+“Leave it, man.” Tommy said. “No matter what's inside, it's not worth the risk.”
+
+“Ah agree.” Clint said. “Bury it, Ren.”
+
+Ren took out the Staff of Earth, then stopped. “No, I can't do that.”
+
+“Wha'?”
+
+“I can't risk having the Spirit of Earth hurt by it.” Ren said, and the guys looked at him with wide eyes. “Just... give me a minute. I can figure something out.”
+
+“Tha' wall ya made ain' gonna las' ferever, ya know.”
+
+“Yeah... hold on... I know I have something...” Ren closed his eyes and activated Serene State of Mind. He took several deep breaths and relaxed. He was overthinking everything and needed to clear his mind.
+
+Okay, I need to move the chest without touching it. Ren thought, then remembered the toy boat. I can make something to push it without touching it myself, so... what to do with it? He thought about the other things he'd made, then he smiled.
+
+Ren opened the recipe for the Instant Tower, and looked at the requirements and the size of the thing when it was done; then edited it. He didn't need 20 feet long by 20 feet wide by 30 feet high. All he needed was 4 feet long by 3 feet wide by 3 feet high, just big enough for a chest. When he cut that down, the iron bar requirement dropped from 50 to 4, and the stone brick requirement dropped from 100 to 8. It would only cost 100 Mana and 50 gold. He made the door the entire side of it, then saved the new recipe and called it a Forget It Box.
+
+Ren deactivated Serene State of Mind and opened his eyes. “Okay, I got it.”
+
+“What?” Hank said. “You just closed your eyes!”
+
+Ren chuckled and took out the ingredients he needed, activated his Craft Wondrous Item ability, and put the items on the platform and added the Mana needed, then spoke the command word needed for the recipe. The platform glowed for a few seconds, and a cube half an inch wide was left in it's place.
+
+“Wha' the hell is tha'?” Clint asked.
+
+“Watch.” Ren said and placed the small cube 3 feet from the cursed chest, stood on the side facing the chest, and spoke the code word in a stream of bubbles and gurgles. The Forget It Box popped to it's full size instantly, and Ren opened the door.
+
+“That's...” Dillon shook his head. “How did you do that?”
+
+Ren smiled. “That's not the neat part.” He said and took out the Staff of Earth. He used it to move the dirt away from the ceiling to the walls, and when Teepo told him it was just over 30 feet, he stopped and stored the staff and took out his Instant Tower.
+
+“Yer not...” Clint started to say, and then Ren activated it and it popped into existence. “Ah don' believe it.”
+
+Ren went inside the tower and used it's resources to make a large spring coil and a small cart with an attached flat piece of metal in front. When he was done a few minutes later, he came out and shrunk the tower to store it, then put the small bulldozer behind the chest. He cranked it up and hit the button, and the thing rolled forward, hit the chest, and pushed it into the Forget It Box. Ren stored the small bulldozer, closed the door on the Forget It Box, and spoke the command word. It shrunk back into a cube half an inch wide and picked it up.
+
+“Ah still don' believe it.” Clint said, and Ren chuckled.
+
+“Now I can bury it.” Ren said and used the Staff of Earth to push the dirt aside. He went down about 30 feet, dropped the Forget It Box inside, then pushed the dirt back together. “There, safe and sound.”
+
+Clint shook his head in disbelief. “Hank, store tha othah chest so we can git back ta tha othah tunnel.”
+
+Hank did so, and the group of them ran down the tunnel to get back to the fork. They made it just in time, and saw the wall as it faded away.
+
+Teepo? Ren thought.
+
+“Nothing's there.” Teepo said and flew down the long tunnel. “There's nothing in this corner chamber, or down the next tunnel.” He flew down that tunnel. “There's a split here. One goes into another chamber, and the other is a tunnel that leads to another chamber.”
+
+Ren told the guys what was there, and they ran all the way down to the split.
+
+“It's all the victim's stuff.” Tommy said when he looked into the first chamber. “Clothing, leather pieces, and boots.”
+
+“Should we take it?” Ren asked. “The families might want them as confirmation.”
+
+“Tha's a good idea.” Clint said and smiled. “Ah don' suppose ya got a crate or anythin' on ya.”
+
+Ren took out an empty crate and he and Tommy filled it with the items. Clint stored it, and they went down the next tunnel to the last chamber on that side.
+
+“Nothin'.” Clint said. “We bettah head back.”
+
+They ran all the way back to the collapsed cavern and came out into the sunshine.
+
+“You sure get used to being underground fast.” Hank said and held his hand up to cover the eye holes in his helm. “The sun almost hurts.”
+
+“Ren?”
+
+“I got it.” Ren said and used the Staff of Earth to close off the left tunnel, then opened up the right one. Go for it, Teepo. He thought. Check what you can.
+
+“Sure thing.” Teepo said and flew into the tunnel.
+
+“Teepo's checking what he can.” Ren told the guys.
+
+“He sure is useful, ain' he?” Clint asked.
+
+Ren nodded. “I use him a lot more than I should sometimes.”
+
+Teepo chittered in laughter. “What else am I gonna do?”
+
+You can relax. Ren thought to his friend.
+
+“I do that every time you leave.” Teepo said. “It's boring as hell.”
+
+Ren chuckled.
+
+“Wha's funny?” Clint asked.
+
+“Teepo said it's boring as hell for him to relax.”
+
+Hank laughed. “He needs to find himself a nice lady beetle, then.”
+
+Hank says you need to find a mate. Ren told Teepo.
+
+“I would if I could.” Teepo said. “The first side tunnel to the right is a dead end after 75 feet.”
+
+Ren relayed the tunnel information, and Clint marked it on the map. Teepo checked the next side tunnel and flew into a large chamber.
+
+“Ugh, this is... the... ah...” Teepo hedged.
+
+Just tell me. Ren thought.
+
+“It's the slaughter room.” Teepo said, and Ren didn't wince or react. “It's mostly just covered in blood from floor to ceiling, though.”
+
+Thanks. Ren thought, then told Clint that the next side tunnel was where they cut people up for feeding. The guys all lost a bit of color, until Ren said it was just bloody. Teepo flew back and checked the first side tunnel on the left, and it looked like a nursery of some kind. When Ren relayed that, the guys lost almost all of their color, and Dillon held a hand over his mouth.
+
+Teepo flew out and down the tunnel to check the last one, and stopped. “Um, Ren.”
+
+Ren could feel Teepo's trepidation. What is it, buddy?
+
+“I found... well, it's kind of hard to describe.” Teepo said. “You know how ghouls are made, right?”
+
+I think so. Ren thought and remembered how it happened in another game he had played. They find suitable candidates, usually by kidnapping people randomly. They try to bite them and infect them with their saliva and poison, which corrupts them. After a day or two, if they aren't treated, they either start to change into a ghoul or they don't.
+
+“That's it.” Teepo said. “Where I am is where the large ghouls are doing it.”
+
+You have got to be kidding me. Ren thought and shook his head. “Oh, crap.” He said out loud.
+
+“What is it?” Hank said. “I haven't known you for long; but, I'm pretty sure that was a 'we are in deep shit' 'oh crap'.”
+
+“Right you are, my friend.” Ren chuckled. “We are in deep shit.” He stopped laughing like a switch had been thrown and looked at the guys with anger in his eyes. “Teepo just found a ghoul factory.”

@@ -1,0 +1,287 @@
+---
+id: 2389d6c7-60d7-5549-bf1c-85a3cf765ffa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 494 - A New Problem"
+slug: 0494-chapter-494-a-new-problem
+partOf: mythrans-master-of-all-continued-completed
+position: 494
+ownLength: 2701
+unit: words
+publishedAt: 2018-01-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190155/chapter-494-a-new-problem"
+royalRoadId: "190155"
+---
+
+Ren, Xuunah, Officer Holly, and Artemis walked back up the street to the warehouse when Ren was struck with inspiration. “Why didn't I think of this sooner?” He said out loud as he came to a stop and started a message conversation with Lara, the Sage of Ages.
+
+Ren  Lara? Are you online right now?
+
+Lara  I am.
+
+Ren  Can I ask you for a huge favor?
+
+Lara  That depends on what it is.
+
+Ren  I'm looking for building plans for a city, and thought about popping by the human capital's Library to see what they had.
+
+Lara  I see where this is going.
+
+Ren  Can you check there and see what they have available?
+
+Lara  How am I supposed to know what you need?
+
+Ren  Ha ha. Wait, that was a rhetorical question, right?
+
+Lara  Yes, dumbass. You can still come along, though.
+
+Ren  Hey, I never thought of that!
+
+Lara  Get your butt back to the Library in your county and I'll pick you up.
+
+Ren  Thanks a lot, Lara!
+
+Lara  Anytime.
+
+“Ladies, I've got a small errand to run first.” Ren said and closed the messaging system. “Go on to the warehouse and wait for me there.”
+
+“Hey, where are you going?” Officer Holly asked.
+
+“To the human capital's Library.” Ren said and started walking backwards.
+
+“There's no way you're getting there without taking us along!” Officer Holly said.
+
+“If I was travelling normally, I'd take you all with me in a heartbeat.” Ren said. “Unfortunately, I'm taking a shortcut. At least, I hope I'm taking a shortcut. I've never travelled that way before.”
+
+“Ren!” Officer Holly started walking after him. “You're going to the public library of the main capital city! Anyone... literally anyone... could see you in there!”
+
+Ren stopped walking as he thought about it. “I don't think I'm going out into the main part of the Library, since what I need would be in the archive in the back.”
+
+“Ren, please.” Officer Holly said. “At least ask if it's possible that I can come along and do my job.”
+
+“All right.” Ren said. “Artemis, Xuunah, I'll see you in a few minutes.” He saw a kind of lost look on Artemis' face, and he quickly ran over to her and took her hand. “It's only for a few minutes.”
+
+“It's going to be the first time I've been out of your Aura since I was born.” Artemis said. “I don't know what's going to happen to me.”
+
+“You are going to be fine.” Ren said confidently. “I'll be back soon.”
+
+“Okay.” Artemis said.
+
+Ren ran down the street and back to Officer Holly. When he reached the Library, he felt a slight tug on the edge of his Aura and looked back. Artemis had been dragged about 10 feet down the street.
+
+“Well, damn.” Ren said. “Artemis, come here.”
+
+Artemis flew across the 500 feet in an instant and landed beside him.
+
+“It looks like you have to stay within my Aura.” Ren said, and she nodded. “Then I have to change my plan.” He said and opened the messaging system again.
+
+Ren  Lara? I'm sorry, but there's been a slight change of plans.
+
+Lara  What happened?
+
+Ren  I made a new familiar, a sentient crossbow, and apparently she can't leave my Aura.
+
+Lara  I'll be right out.
+
+“My previous ride is coming out.” Ren said and closed the messaging system, then waved to Xuunah to come over to them. “She should only be a minute.”
+
+“Okay, what's going on?” Lara asked as she came down the Library's front steps at a run. She stopped when she saw the 6 foot tall metal woman. “Holy crap!”
+
+Ren chuckled because she had used his most frequent phrase of surprise. “Lara, this is Artemis.”
+
+“When you said she was a sentient crossbow...” Lara shook her head. “...I did not imagine this at all.”
+
+Ren smiled. “Yeah, I was inspired to make a female version of Tee-one, then I updated the armor and changed a few things...”
+
+“A few?” Lara asked and looked at Artemis from head to foot. “She doesn't look like a crossbow at all!”
+
+Artemis smiled and held a hand out to her. “It's nice to meet you.”
+
+Lara looked at the offered hand, glanced at Ren, then took the hand. Her eyes went blank for a few moments, and then she came back to herself and let the hand go.
+
+“Dammit, how could you do this to me?” Lara asked and turned to Ren, and he felt her anger.
+
+“Do what?” Ren asked.
+
+“You can't enter my closet anymore!” Lara nearly yelled and pointed at Artemis. “If you do, it causes her unspeakable pain!”
+
+“Wh-what?” Ren was shocked to hear this.
+
+“It's considered a pocket realm, and because of the time compression it causes a disruption to any connections you have with people!” Lara said and looked at Xuunah. “Like when she goes into her Sanctuary and you can't feel her!”
+
+“Oh, damn.” Ren said and looked at Artemis. “I'm sorry.”
+
+“No, I'm the one that's sorry.” Artemis said, and Ren could feel that she was. “I thought we had a stronger bond because of your Emotion Siphon ability, but I didn't think it would backfire like this.”
+
+“Why are you apologizing to her?!?” Lara nearly yelled. “I'm the one that's lost spending special time with you!”
+
+“What?” Ren looked back at Lara. “You said I can't go into your closet and leave Artemis alone, so just take the both of us in with you.”
+
+“I can't!” Lara said as her tears started to well up. “I'm allowed to share the space with only one person, and I chose you!” She said. “Just you! No one else can enter!”
+
+The gravity of the situation weighed down on Ren, and he felt how much he had inadvertently hurt Lara. He equipped his Travelling Clothes and put his arms around her, and she rested her head on his shoulder and cried.
+
+Ren turned his head to put his mouth by her ear and whispered. “It's all right.”
+
+“N-no, it isn't.” Lara whispered back. “I've lost our special time together.”
+
+“Lisa, any time we're together is special.” Ren said, and she caught her breath because he had called her by her real name. “Before you decide that part of our relationship is ruined, let me do a couple of tests, okay?”
+
+“T-tests?” Lara lifted her head up and looked at him. “What kind of tests?”
+
+“I've got one particular skill that should be useful in this situation.” Ren said. “I've never tried to cancel more than one effect at a time, though.”
+
+Lara blinked her eyes at him. “You mean your Filter Effect skill.” She said and looked from him to Artemis. “It might work.”
+
+“Shouldn't you know?” Ren asked as he let her out of his embrace.
+
+“I've gotten really good at blocking out constantly reading people.” Lara said. “I'm afraid that... if I read into you again, I... I won't like what I see.”
+
+“Are you sure it's going to be that bad?” Ren asked. “Here I thought things were going so well.”
+
+“I didn't mean... never mind.” Lara said. “Please do your tests.”
+
+“Artemis.” Ren said, and she stepped close. “This might cause you pain, like Lara said.”
+
+“I'm ready.” Artemis said.
+
+Ren first tried to turn off his Auras. “Try flying away.”
+
+Artemis flew 600 feet away, then flew back without suffering any consequences. Ren then turned off his Emotion Siphon ability, and Artemis gasped and clutched at her chest in pain. He turned it right back on again, and thought about their mental connection.
+
+“I think our mental connection will be the hardest one to deal with.” Ren said and turned off the connection.
+
+“AHHHHH!” Artemis screamed loudly and started to collapse. Ren turned the connection back on immediately and caught her before she fell. He activated Restoring Hands to heal her and gave her good feelings, and she panted as she tried to gather her thoughts together.
+
+“I'm sorry that I had to do that.” Ren said and stroked her face. “At least now we know why you'll suffer pain.”
+
+“I don't understand.” Lara said. “When you take care of Adventurer's business, she doesn't suffer like that.”
+
+Ren sighed. “Yeah, and I'm pretty sure I have a sneaking suspicion why.”
+
+Lara looked at him and then at Artemis as she thought about it. “Oh, those bastards.”
+
+“Yeah, I just realized it myself.” Ren said. “While I'm not on Adventurer's business, she's my anchor.”
+
+“She's your what?” Officer Holly asked.
+
+“Ren has spent some time, some willingly, some not, in another pocket realm that has a different time scale from this one.” Lara explained. “The first time he went in, the...” She glanced at Xuunah. “...Adventurers that can change things here, tried to stop him from going back in.”
+
+“Yes, they altered things so I couldn't voluntarily go back, and then I discovered another way.” Ren said. “It was completely by mistake, since I didn't know I couldn't go back voluntarily.”
+
+“Then they changed it so you couldn't get dragged in, either... and wanted to make sure you wouldn't go back anymore.” Lara said. “Artemis is the result of that.”
+
+“I am?” Artemis asked, surprised.
+
+“Ren won't go anywhere near a pocket realm now, because he knows it will cause you pain.” Xuunah said when she understood the problem. “Unless he makes one himself and adds you as the second person.”
+
+“Wait, what?” Ren looked at Xuunah in surprise. “I can do that?”
+
+“You have access to the Sanctuary spell, don't you?”
+
+“I do.” Ren said. “I also have the Holy Relic recipe.”
+
+“Then you can create your own space and still have access to the same time compression as a pocket realm, and it won't cause Artemis pain when you access it with her.”
+
+Ren thought about it for a few moments, then looked at Xuunah. “Is it the Sanctuary spell that causes the 2 person limitation, or the place you cast the spell?”
+
+“I don't know.”
+
+“Lara.” Ren looked at her. “Sage of Ages, can you check on that for me?”
+
+Lara nodded and ran back inside the Library.
+
+“What are you going to do?” Artemis asked. Now that she felt better, she pat his hand and he helped her stand back up.
+
+“I'm going to try and fix this mess.” Ren said and stood up straight. “The last thing I wanted to do was cause anyone pain. If it's the spell, I can try adding more Mana to it to try and enhance the spell or even combine it with another to increase the number. If it's the space it's cast on, it might have a Mana limitation that I can enhance and change to achieve the same goal.”
+
+Lara ran out of the Library's front door and down the steps to them. “It's both!”
+
+“You're kidding.” Ren said, and she shook her head.
+
+“The Sanctuary spell has a two person limit and can only affect a 10 foot by 10 foot room or smaller.”
+
+“Then you can relax.” Ren said and smiled. “I'll make something for us to stay in when I come back from the capital.”
+
+“Wait, you're still going?” Lara asked.
+
+“Yeah, you were right.” Ren said. “I need to see the plans for myself.”
+
+“But...”
+
+“I'll meet you there in about 10 minutes.” Ren said and put his arms around her. “I'm sorry I made you cry.”
+
+Lara took a deep breath and sighed. “Why aren't you angry that I overreacted like that?”
+
+“Did you overreact?” Ren asked her and gave her a kiss, and she kissed him back. They stayed that way for several minutes, and then Officer Holly coughed to break up the kiss.
+
+“We will never get to the capital city if you just stand there and make out with her like that.” Officer Holly said.
+
+“You're just envious that he'll never kiss you like that.” Lara said as she let Ren go.
+
+Officer Holly didn't say anything; but, Ren could feel her conflicting emotions, and so could Xuunah and Artemis through him. They looked at her with raised eyebrows, and Ren motioned down the street.
+
+“We should go and see if Princess feels like taking a stroll.” Ren said.
+
+Artemis, Xuunah and Officer Holly started walking down the street, and he turned back to Lara.
+
+“I've already got the Sanctuary space designed in my head, so all we need to do is decide where we want to put it.”
+
+“Oh.” Lara said. “Um... I don't know.”
+
+“Now you have a taste of my problems in designing things.” Ren chuckled. “See you at the capital Library in 10 minutes.”
+
+Lara nodded and Ren ran down the street and met the other 3 women. They stopped in front of Princess' house and Ren knocked.
+
+“Yes, My Lord.” Princess said as she came out. “I'll take you anywhere you need to go.”
+
+“Thank you so much.” Ren said and scratched her chin, then he took out the cart from her saddlebag and attached it to her. He opened the top and helped Xuunah, Officer Holly, and Artemis climb in. “Have a seat and hold on.” Ren said and closed it, then climbed onto Princess' back. “You know the drill when we have passengers, Princess.”
+
+“Yes, no sudden starts or stops, or they go splat.” Princess said.
+
+“Wait!” Ren said as Princess started to trot up into the air, and she came to a stop. “Thanks for reminding me.” He said and went back to the cart and opened it. “Ladies, would you be so kind as to equip your armor to enhance your stats? I know at least one of you definitely needs it for the trip.”
+
+“Oh, right.” Officer Holly said and equipped her Holy Light Armor.
+
+“Great Vasalor!” Xuunah said as the white glowing armor appeared. “Where did you get that?”
+
+Officer Holly pointed to Ren, and Xuunah looked at him with shock and surprise.
+
+“H-how?”
+
+“Officer Holly gave me the official plans for Holy Armor, and I tweaked them a little.”
+
+“A little!” Xuunah said. “It's better than my armor.” She said as her own armor faded into existence around her. It looked nearly identical to the one Officer Holly wore, except it lacked the recessed jewels and extra enchantments. “This took nearly a year to be forged and imbued with Light!”
+
+“A year?” Ren thought about the time compression difference. “Actually, since it took just over 2 hours to make it here, just over a year passed in the Light realm.” He smiled. “The time to make them is just about the same.”
+
+Xuunah shook her head in disbelief. “I can't believe you are so much better than blacksmiths that have been working for hundreds, and in some cases, thousands of years.”
+
+“I am a Master Blacksmith.” Ren said. “That's not all I am, though.”
+
+“Close this thing and lets get going.” Officer Holly said. “We're wasting time.”
+
+“Okay.” Ren closed the cart again and went back to Princess. “You heard the lady.”
+
+“Yes, My Lord.” Princess said and she streaked across the sky.
+
+*
+
+Lara watched them go until they disappeared from sight, then went inside the Library.
+
+“What was all that about?” Rosie asked.
+
+“Ren's new familiar.” Lara said. “She has to stay within his Aura or she'll suffer horrible pain.”
+
+“Oh.” Rosie said. “I... I guess that...” She smiled. “...that means he will never be alone again.”
+
+Lara stopped walking and looked at the Head Librarian with wide eyes. “I never thought of it like that.”
+
+“I know you didn't.” Rosie said. “You never seem to look past your visions to see what's really there.”
+
+Lara frowned. “You're just saying that because you don't like me.”
+
+“You're wrong about that.” Rosie said. “It's not that I don't like you, it's that you always act so pretentious and believe that you know more than everyone. That just rubs me the wrong way.”
+
+Lara opened her mouth to respond, then changed her mind and started to walk away.
+
+“What I said is the truth, though.” Rosie said just before the door to the side hallway closed behind Lara.

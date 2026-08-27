@@ -1,0 +1,235 @@
+---
+id: 1df7b184-ff49-5b7f-bb15-1fbef6f560cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 152A - Both (Explicit Content)"
+slug: 0138-chapter-152a-both-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 138
+ownLength: 2924
+unit: words
+publishedAt: 2017-01-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115379/chapter-152a-both-explicit-content"
+royalRoadId: "115379"
+---
+
+Ren turned to say goodnight to Narhilda, and she lifted her face to say it as well, and they touched lips briefly. Her eyes widened and she pulled away, then put a hand on her mouth.
+
+“It was you.” Narhilda said, surprised. “My dream... I thought it was a dream... I kissed Thern when I got out of bed.”
+
+Nathalia lifted her head, and looked at Ren.
+
+“It wasn't Thern. It was you that I kissed.” Narhilda said, and Ren nodded slightly. “Why? Why would you do that?” She asked. “Why let me think it was my dead husband?”
+
+“You were half-asleep.” Ren said. “You were talking to me as if I was Thern.” He sighed. “I wasn't sure what you were going to do, if you thought I was him.”
+
+“I... I wouldn't have...”
+
+It was Ren's turn to speak sheepishly. “You were... making yourself available to me.” He said. “You... um... rubbed your behind on my... ah...”
+
+Narhilda got a shocked look on her face. “No.” She shook her head. “I didn't.” She said. “I wouldn't.”
+
+“Mother.” Nathalia said. “You were half-asleep. If you thought Ren really was...”
+
+“No.” Narhilda said. “If I was going to do that, I wouldn't be pretending to be half-asleep. I'd just do it.”
+
+“Mother!”
+
+“You know I would!” Narhilda said. “I would never play a game where he thinks I'm only sleeping with him, just because I believe he's my dead husband!” She said. “I'd want him to know it was me because I wanted him.” She turned to him. “Ren, it was you that first time, wasn't it? When I fell asleep watching you making uniforms.”
+
+Ren nodded slightly. “You'd nearly passed out, and I placed you on the bed. After a few hours, you were half-asleep again, and thought I was Thern, keeping you up all night while making clothes.”
+
+Narhilda's mouth dropped open. “Then...”
+
+“You asked me to come to bed and sleep with you.” Ren said. “I pretended to be Thern, and told you I'd be to bed later.” He said. “You fell asleep, and I got out of there.”
+
+“Why?” Narhilda asked.
+
+“I think having me around, and doing the things he did, is bringing up all your old memories of him.” Ren responded.
+
+“No.” Narhilda said. “Why did you leave? Why didn't you do it?”
+
+“Do what?”
+
+“Take advantage of me!” She said. “Any man with half a mind would have jumped at the chance.”
+
+“Mother!”
+
+“Not once, but twice.” Narhilda said. “You could have had me both times; and quite easily, apparently.” She said. “I never would have known the difference.”
+
+Ren put a hand on her face. “I didn't take advantage of you, for the same reason you just gave.” He smiled. “I wouldn't want you to think I was your dead husband, if I was going to sleep with you.” He said. “I'd want you to know it was me.”
+
+Narhilda nodded. “I would definitely want to know it was you, too.”
+
+“Then I want you to do something for me.” Ren said. “Concentrate on your House Neram pendant.”
+
+Narhilda closed her eyes, and Ren looked at Nathalia.
+
+“You, too.”
+
+“It gives me a headache after a while.” She said and concentrated as well.
+
+“You're not going to worry a whole lot about that in a minute.” Ren said, and unequipped his underwear. He concentrated on his Aura and the pendant, and felt their Auras sync up.
+
+“It's just like earlier today.” Narhilda said, and Ren took Nathalia into a hug and kissed her passionately. “What do you... oh my!”
+
+Narhilda laid down on her back beside them, as Ren caressed one of Nathalia's breasts with a hand. He picked her up easily and laid her down next to her mother.
+
+“You'd better brace yourselves.” Ren said, then slid under the blanket, and in between Nathalia's legs. He started working her with his mouth, and Nathalia flailed her arms around until it hit another hand. She slid her hand into that hand, and held on. Her mother was just as taken by the feelings Ren was feeding her, and the feelings her daughter was feeling. Nathalia was getting close, and Ren could feel her need, her passion, and it meshed with his perfectly. He could also feel Narhilda laying there, and going along for the ride. He waited for only a moment, then plunged 2 fingers inside of Nathalia and made her go. He kept her going, over and over, for several minutes, and they were all taken away with the feelings of each other. He felt her mother finally lose her self control, and she went a little as well.
+
+“Oh.... oh.... by the gods...” Narhilda said, then looked at Ren as he came out from under the blanket. “Do you do that... every.. time?”
+
+“No.” Ren said, and saw her face get a little sad, and the feelings that went with it. “I usually take my time.” He said, and felt the joy flow back... and then a tinge of jealousy. Narhilda put a hand over her mouth.
+
+“I'm so sorry!” Narhilda said. “I shouldn't... I shouldn't be jealous!” She tried to get out of the bed, but Nathalia held onto her hand. Ren looked at Nathalia, and she nodded slightly.
+
+“You don't have to be jealous anymore.” She said, as Ren lifted the thin slip Narhilda had on.
+
+“What...”
+
+Ren plunged his face down between her legs, and kissed her there.
+
+“OH!” Narhilda hollered, then Ren started to work her with his mouth. “You... you can't... oh... oh... oh! By the GODS!”
+
+Narhilda went, probably for the first time in over a decade, and her body bucked and shook. Ren stopped to let her recover.
+
+“Did... did you feel that?” Nathalia asked Ren, who nodded slightly. “That was so... powerful.”
+
+“Narhilda, are you all right?” Ren asked her, as they could feel her bliss at finally achieving release.
+
+“Mmm... ummm... I... I don't know...” Narhilda blinked at Ren a few times, trying to clear the afterglow. “That was...”
+
+Ren moved Nathalia aside enough to lay down on his back. “There was no way that I was going to do something like this with Nathalia... sharing our feelings, I mean... and let you suffer while you lay next to us; or worse, in the next room.”
+
+“You did last night.” Narhilda said.
+
+Ren and Nathalia looked at her. “We thought you were asleep.”
+
+Narhilda snorted a laugh. “Really?” She asked. “Who could sleep while you went down on each other?” She chuckled. “The slurping noises alone would have woken anyone up.”
+
+“But...”
+
+“Do you think I didn't know what you've been doing in this bed?” She asked. “I could hear you from my room.”
+
+“We... ah...”
+
+“You never thought about it.” Narhilda said and chuckled. “I know.”
+
+“Now that this is all out in the open...” Nathalia said. “...what do we do about it?”
+
+“I know what the first thing I want to do is.” Narhilda said. “I want to see it.”
+
+Ren looked at her, and she felt his concern over it.
+
+“Take off the blanket.” Narhilda said. “Let me see the prize Nathalia has.”
+
+He slid the blanket off, and Narhilda's eyes nearly bulged out of her head.
+
+“It's Mjolnir!” (mee-yol-neer)
+
+“That's what I said!” Nathalia chuckled. “When I first saw it, anyways.”
+
+Narhilda moved down to examine it closely. “By the gods, Ren!”
+
+“I know.” He said. “It's too bi-”
+
+“You're magnificent!” Narhilda said, grabbed it by the shaft, and slipped her mouth over the tip. Ren's eyes widened as he didn't even have a chance to say no, or to protest. After a moment, he accepted the exchange of oral stimulation; then he let the feelings Narhilda was making in him, flow out to both of them. Of course, this made Narhilda all the more voracious in her movements. Ren watched in surprise, as she barely made any sounds; then she went all the way down on him, and her top lip met the skin of his abdomen.
+
+“By the gods, Narhilda!” Ren said. “If you keep doing that, I'm going to...”
+
+She slid her mouth off of him, and smiled. “Go ahead.” Narhilda said. “It's your turn after all.”
+
+“But...”
+
+Narhilda plunged her mouth back over Ren to sheath him completely, and he looked at Nathalia. He could feel her sorrow at not being able to do that for him, and he let all the love he felt for her come out. She turned to him with surprise on her face, then kissed him passionately. A moment later, he went; and Narhilda caught it all. Or, at least, she thought she did. When she tried to slide her mouth off of Ren, he went again and her eyes widened.
+
+“I think you caught something big.” Nathalia said, and Narhilda snorted a laugh as amusement filled the feelings everyone was sharing. She didn't choke, however; and Ren was impressed.
+
+“Slowly.” Ren said, and Narhilda slid up to the tip, and she put a hand around his shaft. He went again just from her gentle touch, and she took it all. Narhilda lifted her mouth off of him, and glanced at his face.
+
+“How can you go so much?” She asked. “I've never heard of such a thing.”
+
+Ren grinned. “I'm special.”
+
+She looked at his throbbing member, and gave the tip a quick lick. A bit shot out at her and she caught it in her mouth.
+
+“By the gods, I'll keep going if you do that again.” Ren said, and he felt how pleased she was about that. “You really like that you can affect me so much?”
+
+Narhilda nodded. “I'm an 80 year old woman, Ren.” She said. “To think that I can make a handsome young man like you so excited from just my touch...” She closed her eyes and shivered. “...it makes me very happy.”
+
+Ren cupped the side of her face briefly. “You're not an old woman, Narhilda.” Ren said. “I've seen the picture in the locket. You're just as beautiful now, as you were then.”
+
+Narhilda sighed, and lifted her slip off over her head. “Look at these!” She said, and lifted them with her hands. “See how much they sa-”
+
+“By the gods!” Ren said. “They're wonderful!”
+
+“W-what?”
+
+He used both hands and massaged them, and played with the engorged tips. Narhilda moaned appreciatively.
+
+“I've seen them through your thin white chiffon dress.” Ren said. “But... oh... my.” He suckled one tip, and then the other. Narhilda ran her hands through his hair as he played with her breasts, and she felt how much he enjoyed them.
+
+“Oh, Ren!” Narhilda said. “I... I...”
+
+Ren could feel a wall around her heart that started to crumble.
+
+“I... I can't deny it anymore!” She lay on top of him, and the wall around her heart disappeared. “I love you!”
+
+Ren's eyes widened as she kissed him passionately on the lips, and he felt all the love she'd been storing away, and hiding from him, pour into their shared Aura.
+
+“Make... make love to me, Ren!” She pleaded as she straddled him. He felt her damp warmth on his member. “Please! Don't make me wait any longer!”
+
+She moved herself forward and back along the shaft, and moaned. “By the gods... oh... by the gods...”
+
+Ren grabbed her hips and stopped her movement. “Narhilda... I...” He rolled over and put Narhilda on the bed, and he ended up above her. “I love Nathalia.” He said, and the two women felt the wall in part of Ren's heart start to crumble. “But I love you, too.” The wall crumbled, and they felt how he felt. The love he had for each of them was different, but he loved them both. “I'm not sure how it happened, but I fell in love with you somewhere along the way.” Ren said. “When I did, I saw that you and Nathalia are like two sides of the same coin.” He slipped the tip of his member inside of her, and she gasped. “I can't describe why I think you're like that, but once I saw how the two of you fit together, I...” He shook his head. “When you let me into your lives like you have, I...” Ren slid in further, and Nathalia caught her breath. “I don't have the words to describe how you made me feel.” He pulled out nearly all the way, and she wrapped her legs around him.
+
+“By the gods, don't stop!” Narhilda said. “Now that you're finally here, I can't let you go!”
+
+Ren smiled. “I was just making a little room.” He said, and jammed himself inside of her, over halfway in, and her body clamped down on him.
+
+“Aaahhhh... oh... OH!”
+
+He worked himself slowly in and out, and her body made room for him. It took a while before he could get a rhythm going; but once he did, Narhilda was overwhelmed with the sensations and floated away with all the feelings they were sharing. They stared at each other intensely for several minutes, and they could feel when the other was close.
+
+“You... go when I... oh... by the...” Narhilda tried to say, and ran her hands through his hair. Everyone knew what she wanted, as they could feel her desperation to finish together. “By... by the GODS!” She gripped Ren's hair tightly as he jammed himself inside of her one last time; and they went together. She bucked and twitched, and Ren spasmed with her. Nathalia lay beside them, and had went herself. After a minute, Ren started to pull out, and Narhilda held onto him tightly.
+
+“Just... hold me, Ren. Like this, for a little while.” Narhilda said, and blushed deeply. “This feeling... you inside of me... I don't... I don't want this moment to end.”
+
+“Narhilda...” Ren smiled, then gave her a quick kiss. “Who said this was going to end?”
+
+Her eyes widened. “I... I thought... we just... together, and... that it was over.”
+
+Ren picked her up easily, and she let out a little yip of surprise. “My dear, we're just getting started.” He kissed her as he slid himself out of her, and he felt her need to have it back inside; so he eased her over to kneel on the bed, and entered her again.
+
+“By the GODS!” Narhilda said, as Ren had his way with her again. She went several times before he went himself, and she collapsed on the bed when he pulled out. “Oh... oh, Ren... you...” She rubbed herself, and spasmed again. “By the gods, you've... how can you make me... so much...” She had a hard time catching her breath. “It feels so good!”
+
+“With us sharing our feelings like this...” Ren said. “...I know how good it feels.” He smiled. “And I know how much you're hurting.”
+
+“No! I love it!” Narhilda said. “It will let me remember you.”
+
+Ren pulled out a Minor Healing wand and pointed between her legs, and then at her head; then did the same to Nathalia.
+
+“Lay back and relax, Narhilda.” Ren said. “I've neglected Nathalia a little too much.”
+
+Nathalia shook her head. “No, you keep going.” She said. “I can feel everything from the both of you.”
+
+“She needs a break.” Ren said. “The healing will help with the aches, but it won't give her back any Stamina.”
+
+Nathalia looked at Narhilda, and she nodded slightly. “Okay, but it's only a short break.”
+
+Ren smiled. “About 15 minutes, if how much we practiced pays off.”
+
+Nathalia chuckled. “It will.”
+
+Ren laid down on the bed with his feet up to the headboard, and Nathalia slid down to position her head by his member. She rolled on top of him, straddled his face, and took him into her mouth. Narhilda stared at them as they pleased each other orally at the same time, and then the feelings hit her. She closed her eyes and rode along with them as they built up pressure in each other. Ren was in the perfect position to reach between Narhilda's legs, so he slid a finger inside of her. She gasped; and Ren and Nathalia felt it together, and they worked harder on each other. He worked Narhilda with his finger, then 2 fingers, and found that special spot in her. Narhilda went, Ren went, and Nathalia went; all at the same time.
+
+“By the GODS!” Narhilda yelled for all of them, as she was the only one who didn't have something in her mouth. Ren and Nathalia separated, and he knelt on the bed.
+
+“Now it's time to have some fun.” He said.
+
+Narhilda stared at him, and he proceeded to please both women over and over, for several hours. He used up one of the Minor Healing wands and when he was finished, he lay between them and they snuggled down onto his chest.
+
+“I never thought this would happen.” Ren said. “I... I can't believe that I...” He shook his head. “I told someone that I wasn't morally corrupt enough to sleep with the both of you, at the same time, and in the same bed; but I guess I am.”
+
+The two women felt his regret that he could do such things with the both of them, but they poured their love and acceptance into him and he smiled.
+
+“I guess... I guess we can be morally corrupt together.” Ren said, and then lay there, thinking about what had happened.

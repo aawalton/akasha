@@ -1,0 +1,231 @@
+---
+id: d131b8e3-75dd-51b4-aa71-7ae3cb830f95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 472 - Episode Five"
+slug: 0472-chapter-472-episode-five
+partOf: mythrans-master-of-all-continued-completed
+position: 472
+ownLength: 3280
+unit: words
+publishedAt: 2018-01-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184475/chapter-472-episode-five"
+royalRoadId: "184475"
+---
+
+They finished the second string of bowling and Ren calculated up the scores. He smiled at the results, and added them to the television screens.
+
+“Look at that!” Ren said and pointed. The two scores were only 2 pins in the difference, and Officer Holly's team won this time.
+
+“Ha ha!” Officer Holly barked a laugh and high-fived Donald. “We won!”
+
+“The show is going to start soon, so that means the day ends in a tie.” Elise said and smiled, and Officer Holly's joyous expression faded away.
+
+“Well, damn.” Officer Holly said, and everyone laughed.
+
+“I'm sorry there's no time for another contest.” Ren said and transferred from the seat behind the score keeping table over to the wheelchair. “We'll have to do something like this another time.”
+
+“I'd like that.” Officer Holly said. Surprisingly. She thought and smiled.
+
+“Let's get across the hall to watch the show.” Ren said. “Who's pushing me this time?”
+
+“I've got it.” Denise said. “You exhausted Lisa when she took you to the bathroom.”
+
+Both Lisa and Ren grinned at that, and Denise pushed him across the hall into the theatre room.
+
+“This place is unbelievable.” Officer Holly said. “I knew there was a theatre room, but I didn't expect an actual theatre.”
+
+“Me, either.” Ren said and stood up. “I don't know if I can watch television on a normal screen anymore.”
+
+“I was thinking that just the other night.” Barbara laughed. “Seeing your favorite shows on a 20 foot screen kind of ruins everything else.”
+
+“Barbara!” Ren said and fake gasped. “Don't tell me you believe that bigger is better!” He chuckled. “Say it isn't so!”
+
+“Ha. Ha.” Barbara said, and Ren laughed. “Get your butt in that front middle seat.”
+
+“Yes, ma'am.” Ren said and sat down on the recliner.
+
+Barbara went into the booth to turn everything on, and Ren pat the seat on his left.
+
+“Elise, have a seat.” Ren pat the seat on his right. “Lisa, please sit.”
+
+“What if we want to sit somewhere else?” Elise asked teasingly as she sat on his left.
+
+“I'd be in trouble and get yelled at if you sat where I really wanted you to sit.” Ren said and wiggled his eyebrows at her. Elise shook her head and laughed, while Lisa sat down on his right side.
+
+“You're right, Lisa.” Officer Holly said from behind Ren. “A chainsaw would be needed to cut through the innuendo.”
+
+Lisa nodded with a smile, and leaned over to Ren and whispered in his ear. Ren chuckled and took her hand as the screen came on and showed a commercial. He glanced around when Lisa leaned back, and saw that everyone had found seats. Stella was beside Elise on his left, and Gloria was beside Lisa on his right. Barbara and Donald sat behind Gloria and Lisa, Officer Holly sat behind Ren, and Barbi sat behind Elise. Ren relaxed when he realized that no one else had heard what Lisa whispered in his ear.
+
+“What are you planning?” Elise whispered as she leaned close to Ren.
+
+“Shh.” Ren said as the lights dimmed, and when Elise tried to take his hand, he avoided it. She started to sigh with disappointment, and then his hand touched her thigh. He started to rub up and down the length of it and she caught her breath instead.
+
+“You wore my favorite jeans.” Ren whispered and gripped the inside of her thigh. Elise almost gasped out loud, but caught herself. His hand grazed her special place, and she closed her eyes for a moment. When he just rested his hand there, she decided that wasn't enough for her. He had been around other women all day and she knew that he had been turned on, especially by Barbi's lack of body consciousness... and she wanted him to use that pent up desire on her.
+
+When the theme music for his show started, Elise used the cover of sound to undo her button fly jeans. Ren felt the movement near his hand and glanced down, and saw that access was being granted. He was doubtful that she would want to do anything with so many people around; but apparently, he was wrong. His hand moved up slightly and then down inside, and Elise covered the spot with both of her hands so that if anyone looked, they wouldn't actually see anything except them holding hands.
+
+“I love you.” Ren whispered as his hand went where she wanted it to go. Elise could only nod and hold her mouth closed, because if she opened it even a little bit, her moans would escape and the charade of propriety they had created would be over.
+
+*
+
+The episode started with Onscreen Ren inside the Library, and it had shelves of books up to the two storey high ceiling. He looked around in wonder at everything, and then walked right into the front desk. He bounced off with a grunt and a young woman with glasses peered over the desk at him.
+
+“Are you okay?” She asked.
+
+Onscreen Ren nodded and stood up as he brushed himself off. “Yes, I'm fine.” He said. “Sorry, it's my first time here.” He glanced around. “All these books.” He looked back at her. “It's amazing.”
+
+She giggled. “Are you here to pick up something for your parents, perhaps?”
+
+Ren frowned, because he didn't want to be reminded of them, and silently handed over Issac's letter. The young woman apologized for her mistake, and set about getting him a Library card. When she took out a needle, Onscreen Ren visibly shook. He asked her to use something else, and she handed him a knife. He received his Library card, and a quick explanation of it's use, and discovered he could read the 4 books Issac asked him to read, and she would get them for him.
+
+“Thank you, miss.” Onscreen Ren said.
+
+“Just call me Rosie.” She said and giggled, and he thanked her before taking a seat. The books were delivered, and he read through them quickly after he gained the Speed Reading skill. He took the books back to Rosie and asked if there were any more.
+
+“I think a couple of them are a rank above you, but...” Rosie examined the books. “...you treated these ones well, plus you're a cutie.” She smiled as Onscreen Ren's face flushed red. “I'll have them all brought over to you.”
+
+Rosie winked at him, and giggled as Onscreen Ren's face turned even redder as he scampered back to his seat. He received the next 5 books and started to read. They were thicker than the other books, and after a quick montage, he was done and had learned about all 9 of the elements.
+
+Dark (Gravity), Earth, Fire, Ice, Light (Holy), Lightning, Void (Arcane), Water and Wind.
+
+He put the books on the Librarian's desk and left the Library, then went to Issac's shop as the scene faded to black.
+
+*
+
+“They cut out Rosie yelling at me for staying up all night.” Ren said. “She was pretty mad.”
+
+Elise tapped his hand to get him to stop moving it. She waited a moment before she spoke. “They had to cut it because of the montage.” She said. “You went into the Library in daylight, and came out in daylight. Adding in that it took you all night to do it wasn't necessary.”
+
+“I guess.” Ren said, and then thought about what the next scene was going to be like. “Elise, are they going to show the basic runes?”
+
+Elise sighed. “It took a while, and a lot of debate.” She said. “They decided not to show them in their actual forms.”
+
+“Why?” Lisa asked as she let go of his hand and leaned in close to Ren. She saw his other hand was in Elise's lap, and she suspected he wasn't just holding her hand as it appeared.
+
+“The company didn't want players going into the game and trying to scratch or scribble runes onto their items themselves and think they are going to get the bonuses from them.” Elise said. “I didn't think including the basic runes would be a problem, until I saw how glyphs were made using those runes.”
+
+Ren nodded. “Yeah, once I figured out how to combine them, I could make glyphs of any combination of runes.” He looked at Elise. “I take it this is going to be another montage?”
+
+Elise nodded. “Once they decided that they couldn't include what the runes looked like, there isn't much left for them to show.”
+
+Ren chuckled. “Almost nothing, I'd say.”
+
+The commercials ended and the music started, and Lisa took the opportunity to do what she had whispered to him before the show started. She was still leaning close, and no one could see as her hand drifted down below his waist. Ren figured out that Lisa hadn't been kidding as her hand slipped inside his pyjamas.
+
+*
+
+After a very quick montage, Onscreen Ren learned the Enchanting skill, and Issac gave him a book of seals. He flipped through the book and picked one to use. The camera view didn't show the pages, and Issac put a ring on the table. Ren used his new Enchanting skill to add Earth to it, and held it up.
+
+“It worked!”
+
+“Nicely done.” Issac said, and then named Onscreen Ren as his Novice. The popup appeared for a moment, and then Issac gave Onscreen Ren another book, and explained that he didn't normally do this, but Ren's affinity with the NPCs in the Artesian District was pretty high now and Issac wanted to help him. Onscreen Ren took the book and learned 4 new enchanting sub skills.
+
+“Oh, my god! Thank you so much, Issac! This is amazing!” Onscreen Ren exclaimed and hugged the tall thin man, who yelled and tried to pry him off.
+
+“Gah! Hahahaaa. Okay, okay. You like it. I get it.” Issac said. “Now get off of me.”
+
+Ren let him go, much to his relief.
+
+“You just make sure you do your best with this and help the soldiers, okay?” Issac said and ruffled Onscreen Ren's hair.
+
+“Yes, sir!” Onscreen Ren said excitedly and left the shop. He ran down the street and over to the mansion in the middle of town, and joined a small group of players that would be squad leaders for the expedition. Soldiers and hundreds of players were there in the town square with them. There were 4 others that were to be squad leaders with him, and just like him, they were the winners of the contest for the special classes. You could see Onscreen Ren was nervous as they interviewed other players for the 50 available spots on the expedition.
+
+*
+
+None of the other players looked like their actual counterparts, though. Elise had been right. Trying to get permission from all of the players would have been a huge hassle, and probably would have cost a fortune. Replacing them with stand-ins was the smartest choice.
+
+I'm a little surprised they are showing this part at all. Ren thought. He couldn't say anything out loud because he was using his hand to please Elise, and Lisa was using her hand to please him. They were both going slowly, as to not draw attention to what they were doing; but, it was still stimulation that would not lend itself to having a normal voice when you spoke, so he kept his observations of the show to himself.
+
+*
+
+When the team leaders decided on splitting the 50 up between them for 10 each, the Tristan replacement character tried to whittle away at Ren's 10.
+
+“Someone needs to stay with the soldiers, and you'll be fixing their gear.” He said. “Your team is going to have 50 soldiers there, so you aren't going to need all 10 players of your team. You can spare one for each of us. 6 is enough to look after the soldiers.”
+
+Someone complained that 6 wouldn't be enough if the monsters somehow got past them, and the fake Tristan threatened them with taking Ren's place with a smaller team.
+
+“Just what is your problem?!?” Onscreen Ren cried out when he was finally fed up with Fake Tristan’s attitude. “Acting like you have control of everything and everyone! I’m taking my ten and I’ll take care of the soldiers because you're too damn lazy to; but, I’ll be dammed if I’m going to sit around and just twiddle my thumbs while you prance about like you're king of the goddamn world!" Onscreen Ren fumed. "I bet you already think everything in the place were going to, rightfully belongs to you; and that were simply here to help you get it, don't you?!?”
+
+Onscreen Ren stomped off, and the camera showed the shocked faces of the other 4 players, and then faded to black.
+
+*
+
+Both Lisa and Ren stopped moving their hands but didn't remove them from where they were.
+
+Ren took several breaths and spoke, now that he could. “I can't believe they left that rant in.”
+
+“It's a great rant.” Elise chuckled. “I imagine they probably could have cut it down a little, but then it would reduce how angry you were and the impact of the whole scene.”
+
+“Yeah, I guess it would.” Ren said. “I don't know if people are going to like that side of me, though.”
+
+“Let's find out.” Barbi said and took out her cell phone.
+
+“You can do that?” Ren asked.
+
+“My hands are in all the pies at the television station.” Barbi said absently as she typed furiously on her phone. “Yep, the preliminary numbers are in.” She said and smiled. “We're up almost 10 points in the ratings.”
+
+“You're kidding!” Elise said and tried to turn around to look at Barbi. Ren still had his hand tucked into her jeans, and he gripped her special place firmly to get her attention. She winced and stopped moving, and looked down at her lap. His wrist was at an odd angle, and the blood drained from her face. She eased back into the recliner to sit properly, and Ren slowly slid his hand out from the compromising position it had been in.
+
+At least it's not broken. Ren thought as he carefully put his hand with the sprained wrist in his lap. Elise buttoned up her jeans and looked like she was going to say something, and Ren shook his head slightly.
+
+“The fan pages are going nuts.” Barbi said. “Most are commenting on how someone named Mary Sue is reacting.” She looked up from her phone. “Who's Mary Sue?”
+
+“Mary Sue isn't a person's name. It's a character description.” Barbara chuckled because Barbi had worked at a television station and didn't know a lot about television. “If you watch as much television as I do, it comes up a lot.” She said. “If the protagonist of a show or movie is too good to be true, is altruistic, and always has everything go their way because they are so perfect... they are called a Mary Sue.”
+
+“Then that means... hold on.” Barbi said and looked from Barbara, to the back of Ren's chair, then back to Barbara. “They're saying that Ren is a Mary Sue?” She asked, surprised. “But he's male!”
+
+Barbara laughed. “It doesn't matter.” She said. “Male or female, it's still the same character type.”
+
+“Then... how do we change it?” Barbi asked.
+
+“They just did.” Barbara said. “That's why everyone is reacting so much.”
+
+“I'm a Mary Sue?” Ren whispered to himself softly as the commercials ended. Lisa removed her hand from inside his pyjamas and turned to reach over with her unused hand and cupped the side of his face. They stared at each other for a moment, and then she kissed him tenderly.
+
+*
+
+The show then focused on Onscreen Ren finding his 10 crew in a quick montage, and then the quest popup appeared and the group of soldiers and players were on their way. There was yet another montage of him enchanting everything on the soldiers as they walked to the quest's destination, and then the players when they saw what he was doing. They agreed to give him their junk drops in exchange for enchantments, and then the questing group was in front of the cavern.
+
+After overhearing that the soldiers would be going inside after a full night's rest, Onscreen Ren took out a bedroll from inventory and got inside, then the screen faded to black as the episode ended.
+
+*
+
+“A lot happened in that episode, and not a lot happened in that episode.” Ren said, and Lisa chuckled.
+
+“I thought it was going to be like that.” Elise said reservedly, and tried not to overreact to Ren's damage as she pat Stella's knee to get her attention quietly. “According to the notes, the episode was going to end with you arriving at the town's square.”
+
+Stella wondered what Elise wanted, then saw her discreetly point to Ren's hand. She took the hint and went over to Ren's recliner to examine his hand, and discovered the sprained wrist.
+
+“When they realized how little was in the episode, they added the rant and the quick journey to the cave.” Elise said and held in her tears as Stella quickly walked over to the small booth at the back of the room to get some supplies to wrap Ren's wrist. Lisa had watched everything, and didn't say anything out loud; but, she leaned in closer to Ren and kissed his neck.
+
+“You're so brave and strong.” Lisa whispered to him.
+
+“That's because I've survived all of my worst days so far.” Ren said as Stella came back, and when Lisa leaned away, he looked at Elise. “This is not even a footnote on that list.”
+
+“Ren...”
+
+“Things happen, sweetheart.” Ren said as Stella carefully wrapped his wrist and hand after wiping it clean. “We've discovered another limitation on my body, at least.”
+
+“B-but...”
+
+“Please, don't think less of me because of this.” Ren said and smiled. “I love you.”
+
+“I hurt you.”
+
+“No, I was hurt while trying something.” Ren said. “Now we know distractions are bad when that happens.”
+
+“Ren.” Elise said and closed her eyes for a moment and took a breath. She opened them and stared at him. “You're so brave... and strong.”
+
+Ren smiled as Elise repeated Lisa's whisper. “When certain things happen, all you can do is smile and move on with your day.”
+
+“But...”
+
+“I refuse to let pain rule my life, Elise.” Ren said. “It doesn't dampen my passion, or lower my will to be with the ones I love.” He said and held out the hand with a sprained wrist. Elise gently touched the palm of the hand and Ren closed his hand on her fingers. It hurt; but, he didn't let it show. “You're a part of my life, and I will fiercely defend my right to be with you, no matter what happens.”
+
+Elise used her other hand to touch his face, and Ren saw a tear roll down her cheek.
+
+“I choose to be happy, Elise.” Ren said. “I want you to choose to be happy with me.”
+
+“I... I do.” Elise said and kissed him. It was a restrained kiss, but it had more feelings in it than their normal kisses did. She broke the kiss and pulled back, then wiped the lone tear away from her face.
+
+“That's so sweet.” Barbi whispered, and that made Stella and Ren chuckle because she had been saying that all day.

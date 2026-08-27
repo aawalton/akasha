@@ -1,0 +1,375 @@
+---
+id: 62e2201f-d31a-5ab6-abdd-9d3a59f58c38
+page-type-slug: story-chapter-royal-road
+title: "Chapter 384 - Have A Drink"
+slug: 0378-chapter-384-have-a-drink
+partOf: mythrans-master-of-all-continued-completed
+position: 378
+ownLength: 3323
+unit: words
+publishedAt: 2017-10-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167176/chapter-384-have-a-drink"
+royalRoadId: "167176"
+---
+
+Ren and the party had flown out of sight just in time, because it was then that the crypt door burst open and 15 ghouls leaped out of it to capture their prey; only to find there was nothing waiting for them. The rest of the horde stayed inside because most of them didn't like direct sunlight.
+
+A slightly larger ghoul crawled out of the crypt and hobbled forward with only three limbs. It had two legs and an arm left, and the other arm had been burned down to only a shoulder stub. It had sacrificed it's arm to destroy the magical fire wall that had blocked the exit, and now it was angry that the prey had gotten away.
+
+The large ghoul grabbed the closest normal-sized ghoul and shoved it's face to the ground. He rubbed it back and fourth, and a moment later, the ghoul tapped the ground. The large ghoul let go and the normal ghoul crawled on all fours as it followed the trail it had found. It went around the crypt, then stood on hunched legs, and ran. Three more joined it as it followed the trail out and out in a spiral, and the large ghoul waited.
+
+Almost 20 minutes later, the ghouls reached the end of the spiral Princess had made turned around, and followed the trail she'd left inside the spiral. When they appeared within the large ghoul's sight 15 minutes later, he expected them to have something to show for it.
+
+The ghouls came to a stop where the first ghoul had started, and the large ghoul stood up as far as his hunched form allowed. He grabbed the closest ghoul with his only hand, pulled it close before the ghoul could react, and clamped it's jaws onto it's neck. The fangs and mangled teeth tore the throat open, and the large ghoul spit out the horrible-tasting flesh and raised it's face to the sky and shrieked.
+
+*
+
+Ren and the rest of Clint's party flew towards the town, and came in for a landing well outside of it so that they wouldn't scare the locals. Ren put Princess down, pat the Phantom Steed he had used, and dismissed the spell.
+
+“Aw, man!” Tommy said as he climbed down from his steed. “What do we do now?”
+
+“We need ah lo' of oil.” Clint said. “Thare's no way we can survive fightin'em head on like tha'.”
+
+“Oil?” Hank asked.
+
+“Ah'm thinkin' we can burn'em out by soakin'em and lightin'em on fire.” Clint said. “Assumin' we can git enough oil here.”
+
+“If we can't get enough here, Princess and I can make a run back to Aurora.” Ren said, and Clint nodded.
+
+“When ya canvassed the people, didja find the businesses, too?” Clint asked and took out the map Ren had given him.
+
+Ren pointed to a building near the town hall. “There's no sign, but that's the general store.”
+
+“Thanks.” Clint said. “Ah'll head in and see wha' they have.” He said and looked at his party. “Stay togethah an' don' go explorin'.”
+
+“Of course we'll stay here!” Billy said. “We don't want to find something else!”
+
+Clint nodded and walked towards the town.
+
+“Give me your Fireball wands.” Ren said, and they handed over the almost emptied wands. He recharged them in moments and handed them back.
+
+“Hey, did you just...” Tommy started to ask.
+
+“Yep.” Ren said and smiled. “I can refill them.”
+
+“Geez, man.” Tommy said. “What else can you do?”
+
+“I can make a mean pastry.” Ren said, and everyone laughed. While they waited for Clint to come back, Ren checked the party members and their equipment over, and was glad to see that no healing or repairs were needed.
+
+“Hey, there's Clint.” Hank said. “He looks happy, too.”
+
+“They have a huge tub of oil in tha' store.” Clint said. “Ah bough' mos' of it, and it'll take a while fer them ta put it inta barrels.”
+
+“Whew!” Dillon said. “That's a relief.”
+
+Clint nodded. “We can relax fer a while.”
+
+“How about an early supper?” Ren asked.
+
+“Ah didn't see a place ta buy meals.”
+
+Ren took out his icebox. “Why worry about buying them when we already have some?” He asked and opened the door to reveal all the shelves filled with plates of food.
+
+“Damn, man.” Tommy said. “That looks good!”
+
+Ren chuckled. “Wait until you taste it.” He said, took out a table and chairs for them to sit around, then did his stone brick with Fire runes technique to warm the food. He served them plates of food and sat down to eat himself.
+
+“Wow!” Dillon said and took another bite. “This is fantastic!”
+
+“I told you.” Ren said and grinned. “My ex-fiance is a fantastic cook.”
+
+“Did you say ex-fiance?” Tommy asked. “Aw, man. I'm sorry.”
+
+“Me, too.” Ren said. “But, to be fair, there were too many things against us from the start.” He explained. “We had a nice long run, though.”
+
+“Yer bein' positive abou' it, at least'.”
+
+Ren smiled. “We still love each other, even though we can't be together.”
+
+“That... that's pretty sad.” Hank said. “I don't know what I would do if it was me.”
+
+“Hey, guys... it's okay.” Ren said. “I'm okay.” He smiled. “I didn't say that to make you sad.” He looked at Elerlyth. “I've got good friends to take care of me.”
+
+The guys saw the look Ren and Elerlyth exchanged and felt relief, and Ren felt the change in them through Elerlyth. Hank asked for another plate, and once they knew Ren was willing to give them more, the other guys asked for a second plate as well. They all ate their meals in relative silence after that; but, it was companionable silence and not uncomfortable.
+
+“It's gettin' dark.” Clint said. “Ah better go and see wha's takin' so long.”
+
+“I'll come, too.” Ren said and stored the table and chairs. “If there's anything wrong, I might be able to help.”
+
+Clint nodded. “I'll give y'all tha same advice as before.” He said to the others. “Stay togethah and don' roam.”
+
+“I'm not moving after that meal!” Hank said and pat his armored belly. “I'm stuffed!”
+
+Billy laughed and grabbed his own belly. “Belly fight!”
+
+“Ha ha!” Hank said and went to belly bump him.
+
+“STOP!” Ren's command voice rang out and everyone stopped. “Hank, store your armor.”
+
+“Right!” Hank said. “Thanks.”
+
+“Carry on.” Ren said, and the guys went on to have a belly fight. Elerlyth stood off to the side and shook her head, but Ren could feel her amusement at seeing grown men acting like children.
+
+Clint walked towards the town, and Ren followed him.
+
+“Tha' was a good catch.” Clint said. “Ah coulda hollered, but yer Command Aura stopped 'em cold.”
+
+“It wasn't this effective until I mastered it.” Ren said and stopped thinking about it. “It's definitely come in handy a few times.”
+
+“How didja git it?” Clint asked, and Ren told him he'd received it when he became Ren the First after being drafted into the dwarf army.
+
+Clint chuckled. “Yeah, I ain' gittin' drafted jus' fer tha'!”
+
+Ren grinned. “You never know what skills you might pick up in certain situations.”
+
+“Ah can imagine.” Clint said. “Ah've done hundreds ah missions, ahl ovah tha place; an' ah ain't nevah seen er met anyone else like ya.”
+
+“That's because you'll never find anyone else like me.” Ren chuckled. “Did you get anything for completing a hundred missions?”
+
+“Diligen' Quester.” Clint said. “Ah git an extra 25% XP fer every new ques' I find.”
+
+“Oh, nice!” Ren said and they stopped just outside the general store. “Is that why this place is so far out from Aurora?”
+
+Clint nodded. “Ah farmed out all the ones between here and thare.”
+
+Ren laughed and opened the door. “Yeah, you're definitely a diligent quester.”
+
+Clint and Ren went inside the store to see what the holdup was. They found out that the store had run out of barrels. The last shipment they had were full of leaks and they were 10 barrels shy.
+
+“Is the blacksmith shop still open?” Ren asked the clerk.
+
+“I'm sure Boman is still there.” The clerk said. “You know where...”
+
+“Yeah, I'll be back as soon as I can.” Ren said and left at a run.
+
+*
+
+“How can he run in full armor like that?” The clerk asked.
+
+“He's an Adventurer.” Clint said and smiled.
+
+*
+
+Ren stopped at the blacksmith shop and waved to get Boman's attention.
+
+“What can I do for you?”
+
+“I need 20 barrel rings.” Ren said, and Boman grabbed the mold for the long piece of iron.
+
+“That's going to cost a silver each.” Boman said.
+
+Ren's Haggle skill activated and he smiled. “Why don't we trade for it.”
+
+“Trade?” Boman asked.
+
+“I see you're using coal to stoke the fire and a bellows to blow on it.” Ren said. “Would you like an upgrade?”
+
+“Upgrade?” Boman looked at him with squinted eyes. When Ren took out the stone brick with the Fire enchantment and activated it, Boman started to laugh. “Deal!”
+
+Ren showed off a little and started to build a new forge, rather than replace the old one, while Boman poured out the first barrel ring. When the metal had cooled a little, Boman picked it up with tongs and hammered it into a circular shape, then welded the ends together with more molten metal and hammered it to secure it.
+
+Ren saw the first ring was almost ready and made the wooden parts of the barrel. He'd made barrels before, and having another person available made it go a lot faster. Boman picked up the ring with tongs and set it onto the floor, and Ren put the wood pieces for the sides into it, then added the bottom of the barrel.
+
+“Now we just have to wait for it to cool.” Boman said and turned to make the next ring. Ren absorbed the heat from the ring and it shrunk to hold the bottom of the barrel together tightly, and he went back to making the forge. When he was done, the second ring was ready.
+
+“Don't you have the wood pieces ready?” Boman asked.
+
+“I do.” Ren said and picked up the set of straps to pull the barrel pieces together. He tightened them quickly, to Boman's amazement, and Ren nodded to him. He shrugged and dropped the ring onto the ready barrel, and Ren slid on the top.
+
+“Hey, you can't add... oh.” Boman watched as Ren absorbed the heat from the metal and it shrunk down. “You've got a high affinity with Fire, I see.”
+
+“Yes, sir.” Ren said. “It makes forging go a lot faster.”
+
+“That it does.” Boman said, and tossed his tongs aside. “Let's do some real work.”
+
+Ren chuckled and nodded, and they made 10 barrels in 20 minutes, then added the sealant for the inside to make them waterproof.
+
+“I don't have to explain how to use the new forge, do I?” Ren asked when they were done, and Boman shook his head.
+
+“I've been using Fire since I was a kid.” Boman said. “When I reached the age of consent, I gained the Absorb Fire ability.”
+
+“That's great.” Ren said and stored the barrels. “Your affinity must be pretty high, too.”
+
+Boman grinned. “It's at 88%.”
+
+“If my guess at your age is close, and my math is right, then...”
+
+“I'll have it filled in 3 years.” Boman said. “I've been working hard all my life to achieve it.”
+
+Ren nodded. “Good luck.”
+
+“Thanks.” Boman said. “And thanks for the new forge. I'll use it well.”
+
+“I know you will.” Ren said and gave him a wave, then ran back to the general store. “I've got 10 barrels.”
+
+“How didja... nevah mind.” Clint said and chuckled. Ren gave the barrels to the clerk, and the clerk said it would take another little while for them to be filled.
+
+“Tha's fine.” Clint said. “We hafta wai' 'til tomorrow ta use 'em. It's way too dark ta do anythin' with'em now.”
+
+“Say, now that I'm here.” Ren looked at the clerk. “You don't have any pelt treatment solution, do you?”
+
+“Of course we do.” The clerk said. “How much do you need?”
+
+“Enough for 30 wolf pelts.” Ren said, and the clerk stared at him.
+
+“Did... did you say wolf pelts?”
+
+Ren nodded. “I bought them from Clint after his last quest.”
+
+“Oh, whew.” The clerk said. “I thought you'd killed them here.” He smiled. “You'll need 2 barrels for that many pelts, assuming you want to soak them all at once.”
+
+“I do.” Ren said.
+
+“They're 10 gold coins each.”
+
+Ren handed over the 20 gold, and a gold coin for the tip.
+
+“Thank you, sir.” The clerk said and ran to the back storeroom. “Cliff! 2 PT barrels!”
+
+“On the left by the door.” A man's voice said. The clerk came out of the back and rolled a barrel in front of himself, and Ren ran over and stored it. The clerk went back and grabbed another one, and Ren stored that, too.
+
+“Will there be anything else?”
+
+“I think that's all for now.” Ren said. “Thanks.”
+
+“Ah'l be back in tha mornin fer the oil.” Clint said to the clerk, then looked at Ren. “We bettah git back to tha guys before they kill each othah.”
+
+Ren chuckled and followed Clint out the door. “Elerlyth will stop them before they get that far.”
+
+“No offence, Ren; but, are ya crazy?” Clint asked as they walked. “She's mighty scary.”
+
+“Yeah, I'm a little crazy.” Ren grinned.
+
+Clint laughed. “Ah knew it!” He said. “Where didja mee' her?”
+
+“In jail.”
+
+“In...” Clint looked at Ren with surprise on his face. “No, ah don' wanna know.”
+
+“But...”
+
+“Ah said ah don' wanna know.” Clint said. “Ya can keep tha' secre'.”
+
+“I was only charged with...”
+
+“Ah don' wanna know!” Clint said. “So shut it!”
+
+Ren laughed and they walked out of town and over to where the rest of their party was. “Hey! You're all still alive!” He laughed again. “Who won?”
+
+“Do you really have to ask?” Dillon pointed to Hank, who had a huge grin on his face.
+
+“This is ah good place ta make camp.” Clint said. “Git yer gear out.”
+
+“Are you nuts?” Billy asked. “There's ghouls here!”
+
+“Yeah, man.” Tommy said. “I don't want to wake up in one of their stomachs.”
+
+Hank laughed. “You wouldn't wake up there.”
+
+“You know what I meant.”
+
+“We're on the othah side of where everyone was taken.” Clint said. “We can keep watch, too.”
+
+“I can use my staff to make a barrier.” Ren said.
+
+“Good idea.” Clint said. “Git to it.”
+
+Ren ran off and took out the Staff of Earth to start making a good thick barrier.
+
+“Ren.” Elerlyth said. “I don't have camping supplies.”
+
+“You don't need them.” Ren said.
+
+“Then where am I going to sleep?”
+
+“Who said you'd be sleeping?” Ren asked her, and her face flushed a little darker.
+
+“Ren...”
+
+“I told you that I've got it covered.” Ren said and raised a 100 foot long and 10 foot high wall in only a minute. “I'll show you after I get the walls done and the guys are distracted.”
+
+Elerlyth nodded, because she could feel his confidence and reassurance, and Ren ran over to the right spot and made another 100 foot wall to join to the first, made another, then enclosed the party when he finished the last wall and made a square.
+
+“Ren.” Clint said. “How are we gonna keep watch? Ya blocked our line of sigh'.”
+
+“Teepo said he was going to keep watch.” Ren said. “Since he can fly, he makes his own line of sight.”
+
+“Ah guess tha's true.” Clint said.
+
+“He's also the best sentry anyone could ever have.”
+
+“Why's tha'?”
+
+“He never needs to sleep.” Ren said, and Clint chuckled.
+
+“Ahl righ', ah'll leave ya to it.” Clint said and went back to the guys.
+
+“How are you going to distract them?” Elerlyth asked.
+
+“Easily.” Ren said and took out a barrel of sunflower ale.
+
+Elerlyth laughed. “Yes, that will distract them.”
+
+“Watch the spectacle, my dear.” Ren said and stored the ale, and she felt a distinct feeling of naughtiness from him. It gave her a bit of a thrill, and she watched with interest as he walked over to the guys and stood there until they had their tents set up.
+
+“Um, hey.” Ren said and the guys looked at him. “I... ah... I bought something to save for a special occasion, and I thought we could use it after this quest; but, I don't know how long it'll last.” He ducked his head a little. “So, I think you should use it now.”
+
+“Wha' is it?” Clint asked. “Yer lookin' awful bashful.”
+
+“Um... it's this.” Ren said and took out the keg of ale.
+
+“REN!” Hank threw out his arms to the sides and took several steps towards him. “BUDDY!”
+
+Ren knew what was coming, so he held the barrel up in front of him so Hank would hug it instead.
+
+“I love you!” Hank said and kissed the barrel.
+
+“Geez, man! Get a room!” Tommy said, and everyone laughed.
+
+“All we need now is something to drink from.”
+
+Ren took out the table and set 5 tankards on it. Hank put the keg on the table and grabbed a tankard, popped the cork and turned the spigot. Honey-colored ale came out and Hank took a gulp of it.
+
+“Good lord, that's delicious!” Hank said and filled the tankard up.
+
+“Don't hog it, man!” Tommy said, and elbowed the bigger man out of the way and filled a tankard. “Whoa.” He said when he tasted it. Billy, Dillon and Clint filled a tankard and tasted it as well, then they all drained their tankards.
+
+“This ain' gonna las' long.” Clint said as they filled their tankards again.
+
+“It's a good thing I didn't buy just one, then.” Ren said and put another keg on the table. Clint put a hand on Ren's arm, and led him about 10 feet away from the table and the guys.
+
+“Yer no' doin' this on purpose, are ya?” Clint asked.
+
+“Doing what?”
+
+“Makin' me look bad.” Clint said.
+
+Ren looked at Clint with wide eyes. “No, I'm not.”
+
+“Ya command tha party like yer tha leader, givin' us all equipment we can nevah afford, an' now yer rewardin' us with ale.” Clint said. “Yer doin' a bettah job than me.”
+
+“I'm not trying to do that.” Ren sighed. “Before you keep arguing that I am, I would be doing this for any party that I could have joined.”
+
+“Ren...”
+
+“I wasn't going let anyone go into a quest without prepping them as much as I could beforehand.” Ren said. “I'd still give armor to anyone that could wear it, and enchant anything that I could to help.” He explained. “So please, don't take my normal behavior as undermining your authority.”
+
+“But...”
+
+“I did command Elerlyth to stop, but that was so she wouldn't see what was in that room.” Ren said. “I didn't use my Command Aura when we left the crypt. All I said was what needed to be done to escape.”
+
+Clint sighed. “Ahl right.” He said. “Ah won' hold it agains' ya.”
+
+“Thanks.” Ren said and took out another keg.
+
+“Wha' the... how many of these have ya got?” Clint asked and stored it.
+
+“Only 9 more.” Ren said and grinned. “If you'll excuse me, I've got to go and take care of Elerlyth.”
+
+Clint shook his head. “Yer distractin' us.”
+
+Ren chuckled. “You figured me out.”
+
+“Go on. Go git her.” Clint said and turned around. “Ah'll keep 'em busy.”
+
+“As you command.” Ren said and walked over to Elerlyth.

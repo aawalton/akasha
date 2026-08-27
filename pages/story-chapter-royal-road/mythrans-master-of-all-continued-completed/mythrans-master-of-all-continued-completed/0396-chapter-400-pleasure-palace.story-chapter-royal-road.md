@@ -1,0 +1,361 @@
+---
+id: 49e93530-be47-596a-923b-0c3935c56deb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 400 - Pleasure Palace"
+slug: 0396-chapter-400-pleasure-palace
+partOf: mythrans-master-of-all-continued-completed
+position: 396
+ownLength: 4071
+unit: words
+publishedAt: 2017-10-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170250/chapter-400-pleasure-palace"
+royalRoadId: "170250"
+---
+
+In a skills total, Ren found out there was an innkeeper, a cook, 2 teachers, a guard, a junior tailor specializing in shoes, a junior blacksmith, a healer that hadn't passed the tests, a farmer and his family, a merchant, a baker, a miner, a woodcutter, a cart driver, a stable hand, a rope maker, a librarian, and even a courtesan.
+
+The woman had been reluctant to admit it at first; but, after everyone encouraged her to tell Ren what she did, she nodded and whispered it in his ear.
+
+“Can I talk to you privately for a moment or two?” She asked, and Ren nodded.
+
+“Please excuse us for a few minutes.” Ren said to the others, and she led him down the hall and to her own bedroom. She shut the door behind them and leaned against it.
+
+“My name is Dalli, and my... skills... are pretty much useless to help the community.” She said, and started to open her dress. “But, I can still be useful.”
+
+Ren touched her hands and she stopped moving. “Why did you come here?”
+
+“I...” Dalli sighed. “To start over. In a small town, it doesn't take long for rumors to spread.”
+
+Ren felt that she was telling the truth. “Ma'am, if you want to keep using your skills, then I have an idea you might like.”
+
+“My Lord.” Dalli smiled seductively and started moving her hands again. Ren took them in his to stop her.
+
+“I didn't mean with me.” Ren said. “Although, I do appreciate the offer.”
+
+“Then what...”
+
+“I'll show you.” Ren said and buttoned up her dress. “Come with me.”
+
+They left her room and walked back to the meeting area.
+
+“I'll get started on the Inn, Barracks and Cafeteria right after I see about getting this young woman a job.” Ren said. “The work crews will be here in the morning to start building your homes.”
+
+Everyone thanked him, and Ren led Dalli up the street with Teepo flying behind.
+
+“Where are we going?” Dalli asked.
+
+Ren took her off the road, across the parking lot, and to the Pleasure Palace.
+
+“Why is there a woman standing in the middle of nowhere?” Dalli asked, and Ren smiled.
+
+“Hi, Ren!” The Manager said. “Who's this?”
+
+“Hopefully a new worker.” Ren said. “She's a courtesan, and her skills might be just what you need.”
+
+“Oh... oh, Ren!” The Manager said happily. “What a great idea! A professional girlfriend!”
+
+“A... a what?” Dalli asked.
+
+“That's just an Adventurer's name for courtesan.” Ren said.
+
+“Oh, okay.” The woman said and smiled. “I'm quite good at it.”
+
+“I'm sure you are.” The Manager said. “How much do you get paid?”
+
+“It depends on the client.” Dalli said. “I usually accept presents instead of money, though.”
+
+“Hm. Well... I'm sure we can work something out.” The Manager said.
+
+“Dalli will need her own space.” Ren said. “I was thinking an apartment on the top floor of one of the towers.”
+
+“A private apartment that players can rent by the hour!” The Manager said. “Ren! You're just full of great ideas!”
+
+Ren chuckled. “Can you add her as an employee?”
+
+“I'd be happy to.” The Manager said and added Dalli to the list of employees, and Dalli gasped as a castle appeared in front of her.
+
+“Oh, my god! A castle just appeared out of nowhere!”
+
+“I was surprised the first time I saw it, too.” The Manager said and looked at Ren. “How are the new outfits coming along?”
+
+“They're done.” Ren said. “I also have some decorations for the walls.”
+
+“Is that what you've been doing all day?”
+
+“Among other things.” Ren said. “Shall we go in?”
+
+“I really need to find a doorman.” The Manager said. “I don't want to have to stand out here and open the door all day.”
+
+“Oh, damn.” Ren said and took out 2 steel squares and enchanted them with the Sending Glyph. He attached one beside the door, then added a wooden sign that said 'Touch and Speak for Entry'. He gave the other one to the Manager. “Until you find someone, keep that on you. When someone asks, you can just tell the door to open.”
+
+The Manager looked at the steel square, then at the door. “Will that work?”
+
+“Go inside and we can test it.” Ren said, and the Manager went inside. He waited for a moment and touched the Sending Square. “I'd like to come in, please.”
+
+The door opened and they saw that the Manager stood in the middle of the room by the main stage.
+
+“It worked!” The Manager nearly yelled. Ren chuckled and brought Dalli inside after he dismissed the Adult Only and Blue Screen Protocol popups, and Teepo flew in behind them.
+
+“This is definitely not a castle.” Dalli said as she looked around.
+
+“It's more like a private dance studio.” Ren said, then Tee-one and Ruck came over to him.
+
+“We've got all the small details done.” Tee-one said. “Shelves for the tankards, chairs, curtains and drapes, railings, windows where the dancers wanted them, and we even added a set of hot tubs in the front tower.”
+
+“This is going to be the best strip club ever!” The Manager said.
+
+“That's what I was going for.” Ren said and took out a bunch of the wall decorations and gave them to Tee-one and Ruck. “Let's get these hung up, and then we can make Dalli's apartment.”
+
+The three of them went around and hung the weapon plaques in appropriate spots, and added mood lighting to show them off.
+
+“What about those outfits?” The Manager asked when they were done decorating. “When I told the girls what you had in mind, a few of them said they'd just die if they didn't get a fur bikini.”
+
+“I bet one of them was Jennifer.” Ren said.
+
+“That's a fool's bet.” The Manager chuckled. “She almost assaulted me when I told her she might get a cloak, too.”
+
+Ren laughed.
+
+“We can start the apartment while you give the dancers their new costumes.” Tee-one said.
+
+“Dalli? Go with Tee-one and Ruck and tell them what you want.” Ren said.
+
+“Really?” Dalli asked. “I can get anything I want?”
+
+“As long as it's something they can build.” Ren said. “Dressers, cabinets, fancy beds, and anything else you might want.”
+
+“Oh, wow.”
+
+“If you want a mirror, that we have to order.” Ren said.
+
+“Maybe you should ask Janice about it.” Tee-one said. “She's a Glassworker. She might have the recipe for it.”
+
+“That's a great idea.” Ren said and looked around. “Yes, we can add mirrors in certain spots...”
+
+“...like behind the bar and the main stage...” Tee-one said.
+
+“...and it will make the place look twice as big.” Ren finished.
+
+“That was weird.” Dalli said and looked between Ren and Tee-one. “It's like you two are thinking the same thing.”
+
+Ren chuckled. “We are.” He said. “Tee-one? Put her upstairs in the tower that doesn't have the hot tubs in it.”
+
+“Ma'am? This way, please.” Tee-one said to Dalli, and took her hand. She nodded and went with Tee-one and Ruck, and Ren looked at the Manager.
+
+“Call the girls together, and I can give out their new outfits.” Ren said.
+
+The Manager brought the other 11 dancers over and they all stood there and watched as Ren took out a display with the 4 dozen wolf fur bikinis on it.
+
+“There's no way we can wear all of those.” One of them said. “There's only 12 of us.”
+
+“I figured you can take two of each, and since each one is different, it still gives you some variety.” Ren said. “My idea is that this is the waitress uniform when you're out serving drinks between dances.”
+
+“That's a great idea!” Jennifer said. “I'll put one on right now!”
+
+Ren watched as she stored her clothing right there in front of him, took the first fur bikini off the rack, and equipped it. He examined it and was surprised at the popup.
+
+Wolf Fur Bikini (Rare)
+
+This bikini embodies both scariness and sexiness in the best possible combination. When worn grants Aura (Seduction - 10 foot radius) and Aura (Fear - 10 foot radius).
+
+Durability: 400/400
+
+“Oh, you put that nice soft cloth inside.” Jennifer said and rubbed her hands on the wolf fur that barely covered her chest. “Mmm!”
+
+“Um... yes.” Ren said. “I lined them so that the pelts wouldn't be rough on your skin.”
+
+“It feels great!” Jennifer said and stepped close, took Ren's hands and placed them on her chest. “See? Doesn't it feel great?”
+
+“Um... yes.” Ren said and his face went a little red. “It does feel nice.”
+
+Jennifer squeezed his hands, which squeezed her breasts, and Ren felt a lot more than the wolf fur bikini. He slowly pulled his hands out of hers and smiled.
+
+“Thank you.”
+
+“Don't thank me yet.” Jennifer said and grinned. “You're going to feel a lot more of me during the dance competition.”
+
+“I... I am?” Ren asked, and she ran a hand through his hair.
+
+“Just wait.” Jennifer said. “It's to die for.”
+
+“O-okay.” Ren said, then took out a nice cloth cloak with a diamond brooch clasp and a step ladder. He climbed the ladder and draped the cloak over Jennifer's shoulders and hooked the clasp. It wasn't a full-sized cloak, though. It hung partially over one shoulder, and hung down just enough to almost cover her backside. It was a nice bright blue and highlighted the grey and white fur bikini very well. It also didn't impede her movement. The last thing was a helmet with spider fang horns.
+
+“So, how do you like the Pleasure Palace Waitress Outfit?” Ren asked her as he stepped off the step ladder.
+
+“Is... is that a diamond brooch?!?” Jennifer asked as she touched the clasp. “It's huge!”
+
+“It's barely an inch and a half across.” Ren chuckled.
+
+“I love it!” Jennifer said and hugged him, which jammed his face between her breasts. “Thank you!”
+
+“D-d-don't thank me yet.” Ren said when he looked up at her. “There's a lot more to come.”
+
+Jennifer let him out of the hug and he looked at the other dancers.
+
+“This outfit is strictly voluntary and the helmet is optional, so you don't have to wear either of them if you don't want to. It was just the idea I had to match the decor.”
+
+“I'd wear it just to get the diamond brooch.” One of the girls said, and the others laughed.
+
+“I... I'm not trying to bribe you into wearing it.” Ren said, and his face went red again.
+
+“I know you aren't.” She said and smiled. “I was only joking.” She reached out and touched his cheek. “You're so sweet that it's hard not to tease you a little.”
+
+Ren felt that what she said was true, and that she liked that he was flustered because of her. “Um... okay... ah...”
+
+“Shall we all put them on?” One of them suggested, and 10 of them grabbed 2 fur bikinis each and equipped one. Ren stepped up onto the ladder and as each woman stood in front of him, he gave them their own blue cloaks with diamond brooch clasps, and horned helmets.
+
+“I feel a little out of place.” The Manager said.
+
+“I made something for you, too.” Ren said and handed her a special outfit. She equipped it, and the other girls gasped.
+
+“That looks so cool!” Jennifer said.
+
+The Manager wore a half-leather, half-armor suit that made her look like a Valkyrie from old Norse tales. It had leather pants, a metal bustier over a halter top that left her midriff bare, metal plate shoulder and knee pads, leather bracers, and boots. It also included a helmet with spider fang horns, and a half-length blue cloak with a diamond brooch as well.
+
+“Oh, my.” The Manager said. “Ren, you... this...”
+
+“Since it's mostly leather, I didn't enchant the pieces with anything besides a Set Completion rune.” Ren said. “It should give you some protection if anything happens; but, I'll make something to act as a bouncer until you find someone to do the job.”
+
+“You're going to make a bouncer?” The Manager asked, surprised.
+
+“Two of them, actually.” Ren said. “Probably right after I give the girls the other outfits.”
+
+“Hold on, this wasn't it?” One of them asked.
+
+“I told you, that's just the waitress outfit if you want to wear it.” Ren said and took out a large cabinet. He opened it and smiled as a ripple of shock when through the girls and they stared at the contents. “I've got School Girl outfits, Nurse outfits, Librarian outfits with fake glasses, Business Suits with skirts or pants, Royalty outfits, Mining outfits with head light, Generic Military outfits...”
+
+The girls stood in silence as Ren told them all of the different kinds of outfits he had for them, and when he was done and closed the cabinet, one of them spoke.
+
+“I can't believe you're giving us all of that.” She said. “You're going to let us fulfill every man's dream!”
+
+“Only on the surface.” Ren said. “That is, unless you wear these.” He took out another similar cabinet and opened it. Inside was 12 copies of all new pieces of lingerie. He'd changed the design, the fabrics, and even the aesthetics of them. New bras, new underwear, new teddies, baby doll dresses, negligees, stockings, leggings, and even garter belts; none of which he intended to sell in his store.
+
+“Oh, my god.” One of them said, and Ren recognized her as the one that didn't want to say thank you when he had made her a bathing suit at Clint's pool. She took his hand and gave it a squeeze. “Thank you.”
+
+Ren smiled and squeezed her hand back. He felt how awestruck she was because he was giving her a dream wardrobe, but he didn't feed from her. She let his hand go and ran a hand over the silky fabrics.
+
+“Where did you get all of this?”
+
+“I made them.” Ren said. “I used up quite a bit of special cloth for it, too.”
+
+“Special cloth? You mean the same stuff you made our bathing suits out of?”
+
+Ren nodded. “I was away for a while and I had some spare time on my hands; so, I used up a lot of my inventory and weaved up the cloth.” He said. “I've got bolts and bolts of it now, and I won't use normal fabric to make clothing if I don't have to.” He smiled. “Normal cloth is fine for everything else, though.”
+
+“You're amazing.” She said and turned to look at the other girls. “Let's head upstairs to the dressing room and get ready for the competition.”
+
+“We can't carry those things.” One of them said and motioned to the two large cabinets.
+
+“I'll take them up for you.” Ren said, closed the two cabinets and stored them with the fur bikini display. He followed the women to the back of the building and up the set of stairs to their private living area. “Hey, this place looks great!”
+
+“It really does.” The Manager said. “Like I said before, your servants are fantastic. They made everything we asked them to.”
+
+“Over here!” Jennifer said and pointed to the door into the tower at the corner of the room. They had made the upstairs above the bar their personal dressing room, and the dancers could change together. There were 12 stations for them to sit or stand at, and Ren saw that they were all missing the mirrors that they should have had. He dropped off both cabinets where the women said they wanted them.
+
+“I'll go and see about those mirrors.”
+
+“We do each other up, so there's no rush.” Jennifer said and stored her waitress outfit, which left her completely naked in front of Ren again. He could feel that it didn't bother her to be without clothes, so he didn't mention it. She leaned into one of the cabinets and flipped through the outfits. “I had picked a normal outfit for the competition; but, with so much to choose from now, I don't know what to pick!”
+
+“Once word gets around about this.” The Manager said and motioned to the cabinets and smiled. “We might have to turn people away at the door.”
+
+Ren smiled. “Are you going to open tonight?”
+
+“Only if you can cook up a stew or something for the customers.” She said.
+
+“I'll do that right now and set it to simmer.” Ren said. “Before I forget, you can send out anything from a local notice, to a server notice, or even a game notice from the Business Owner menu to advertise about this place.”
+
+“I can?” The Manager asked and opened it. “Hm... where... where... there it is.” She said and clicked the button. “Oh, it's a little expensive with the different options.”
+
+Ren chuckled and passed her a platinum coin. “It's worth the investment.”
+
+“Which one should I do?”
+
+“You definitely want at least the server level notice.” Ren said. “Local would only notify people within my county.”
+
+“Maybe I should go with a whole game notice.” The Manager said. “It's the most expensive, but it also advertises to anyone playing the game.”
+
+Ren thought about it and opened his Business Owner menu. He played with the different levels of notifications, and found one that would be suitable. “Actually, I think you might want to just do a General Area notice.” He said. “It will cover most of the countryside, including the starter city of Aurora and the capital city Bore-Reale.”
+
+“That should give us a good coverage for players, especially if they're doing the weekend quest thing.” The Manager said, chose that option, and Ren dismissed the popup that advertised the Pleasure Palace.
+
+“The party I recently joined just did a weekend quest.” He said. “We finished early, though.”
+
+“Clint told us all about it.” The woman who liked being ordered around said. “He told us how... forceful you were.” She licked her lips and closed her eyes. “You even ordered a dark elf around, and she didn't question you or anything.”
+
+“Clint also said if you hadn't been there, he would still be trying to figure out how to kill all those ghouls without sacrificing party members or dying himself.” The Manager said.
+
+“You kept our favorite customers alive.” Jennifer said and her emotions switched from perplexed to seduction as she walked over to him. With her completely naked and trying her best to sway her hips a lot more than they were supposed to, Ren couldn't help but look at her like she had intended. She walked around him and hugged him from behind. Since Ren's head was at the same height as her chest, her breasts were on either side of his head. She gave him a squeeze, and it squeezed her breasts against his ears.
+
+“Thank you so much for keeping my Billy safe.” Jennifer smiled down at him.
+
+Ren tilted his head back and looked up at her. “You're welcome, Jennifer.”
+
+“Does that count as cheating?” One of the girls said. “The competition hasn't even started yet, and Jennifer already has her boobs on him.”
+
+Jennifer laughed and let Ren go. “I don't have to cheat.” She said and walked back over to the cabinet of outfits with the same exaggerated walk. “He knows who has the best body.”
+
+“This is a talent competition.” One of them said. “Whoever has the most talent will win.”
+
+Jennifer turned and posed with her fists on her hips and her feet about a foot apart. “Do you see this? This is talent.”
+
+“Oh, geez.” One of them said.
+
+“If I want to walk around naked and strut my stuff with a man here, you can't tell me that I can't.” Jennifer said.
+
+“Great, now you've got her going.” Another one said.
+
+Ren could feel the emotions starting to turn from playfulness to ruthlessness. “Ladies, please behave yourselves and have a nice clean battle.” He said. “I'm going down to the kitchen, so I'll see you all in a bit.”
+
+Ren left and went down to the kitchen. It was a large setup, with everything needed to run a full restaurant, except for a deep fryer. He nodded, because that was something he wanted to keep for himself. He set out the vegetables to make stew, a big pot of mashed potatoes, and prepped some steaks to cook. He kept everything going and had it all ready in just under an hour.
+
+Stat Change!
+
+Cooking Level 2 (Intermediate 0%)
+
+“Hey, Ren.” The Manager said when she came into the kitchen. “We're all ready for you.”
+
+“That's great timing.” Ren said and left the beef stew to simmer. “The steaks are on the warmers, the mashed potatoes are buttered, and there's enough stew for a hundred people.”
+
+“Wh-what?”
+
+“The steaks and potatoes are for you and the girls, and the stew is for customers.” Ren said. “I was tempted to put a pile of steaks on for customers; but, I figured stew was easier for the girls to manage.” He smiled. “Of course, that's assuming customers want to eat when they get here.”
+
+“I never thought of that.” The Manager said. “They might not be hungry at all.”
+
+“It's there if it's needed.” Ren said and walked over to her. He equipped his armor body suit for a moment to clean up, then equipped his Travelling Clothes again. He stopped and thought about what he was about to go through, and looked at his inventory. “Maybe I should wear a more appropriate outfit.” He said and equipped his fancy red suit. “This one?”
+
+The Manager shook her head. “Too fancy.”
+
+“That takes out the Royal suit and the High Elven Court uniforms, too.” Ren said. “Well, Travelling Clothes are out, since it's just basic clothing and I don't want to insult you like that.”
+
+“What about that black thing you wore a second ago?”
+
+“What, my armor bodysuit?” Ren asked.
+
+“Is that what it was?”
+
+Ren nodded and equipped it. “I wear it under my armor to stop it from rubbing certain spots.” The bodysuit covered him from his neck to his feet and his arms down to his wrist. The Manager stepped close and ran her hand up the sleeve.
+
+“Yes, I think that's perfect.” She said and smiled. “You're completely covered, and you're not wearing anything that can get caught up on a dancer's costume.”
+
+Ren thought about that. “Does that happen a lot?”
+
+“More than it should.” The Manager said and caressed the other arm. “Most times they don't take off their armor, let alone change clothes for us.”
+
+“That's inconsiderate of them.” Ren said.
+
+She nodded and ran both hands up his arms and rested them by his neck. “Maybe we can add a requirement that they have to change before coming in.”
+
+“It's your business.” Ren said. “You can set a dress code if you want.”
+
+“You won't object?”
+
+“Not as long as you don't demean anyone, make them go without clothes, or make them wear something ridiculous.” Ren said. “Other than that, it's ladies choice.”
+
+The Manager nodded and moved her hands up to his cheeks and gave them a little pinch.
+
+“Ma'am, the other girls are waiting.” Ren said.
+
+“Yes, they are.” She said and ran her hands through his hair twice, stepped back, and held open the kitchen door for him. Ren didn't say anything to her about what she just did, because he felt what she felt. She was trying her best to generate some kind of desire in herself for him, and she just couldn't do it. She liked him a lot, but only in the most basic way. There was no sexual tension at all between them.
+
+Ren stepped out into the main room and found a single chair was in front of the main stage. This is going to be interesting. He thought as he sat down and the lights dimmed. A spotlight appeared to light up just the stage, and music started to play from somewhere. I wonder how they're doing that. He thought, and then the first dancer came out and he didn't do much thinking after that.

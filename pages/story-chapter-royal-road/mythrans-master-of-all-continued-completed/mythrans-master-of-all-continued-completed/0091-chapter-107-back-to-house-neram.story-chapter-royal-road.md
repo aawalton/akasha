@@ -1,0 +1,419 @@
+---
+id: a8a6cb92-e473-55c4-b954-8bf3c19d0cb4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107 - Back To House Neram"
+slug: 0091-chapter-107-back-to-house-neram
+partOf: mythrans-master-of-all-continued-completed
+position: 91
+ownLength: 4994
+unit: words
+publishedAt: 2016-12-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106483/chapter-107-back-to-house-neram"
+royalRoadId: "106483"
+---
+
+Ren put down the lantern and carefully dug out the diamond crystal with his pick, then examined it.
+
+Rough Diamond Crystal (Clear)
+
+This diamond crystal can be cleaned and refined into a diamond of considerable value by a Gemcutter. The higher the skill of the craftsman, the higher the quality and worth of the finished product.
+
+“Sweet!” Ren said and dug up a few more and stored them. He saw that as long as the size was about the same, they'd go into the same slot. That didn't stop him from digging up as much as he could, however. By the time he had cleared the surface of the 30 foot area he'd been in, he had 12 slots going, with several diamond crystals in each. Ren tried digging down a little, and found there was even more diamond crystals. He picked up another one to examine, and got the same popup as before. He had the bright idea to use Appraisal on it, but it said that the unrefined diamond crystal 'couldn't be appraised at this time'. Ren shrugged and kept digging.
+
+After several hours (and lamp refills), Ren had dug down only about 10 feet. He'd shoveled the dirt and rocks into piles along the edge of the 30 foot area, so he could push it back into the hole when he was done, but he kept finding more and more diamond crystals. He dug a ramp out of the hole and up to the floor, and walked back to the cave entrance. All those rocks that he'd stepped on while checking the place out, reflected back the light of his lantern.
+
+“This place is just full of them.” Ren said, and Teepo chittered in delight. “I just hope the ones that I broke can still be salvaged.” In his enthusiasm, he hadn't been as careful as he should have been while digging down into the ground. He'd smashed a few with direct hits, and broke several others before realizing what he was digging into. He dug at a snail's pace after that. That's why it took so long to dig out such a small area. Ren squeezed out through the opening he'd dug in the cave wall, picked up the stone holding the cloth closed, and nailed the cloth into place. He wasn't going to be back until he could find a better way to carry the diamond crystals, and that might take a while.
+
+“I could keep digging, but if I find any that are different sizes to the ones I'm carrying, I can't take them. All of my slots are taken up.” Ren had a dozen or so diamond crystals in each slot, though. “I hope there's a Gemcutter somewhere in Dornrach.”
+
+“I don't know.” Teepo said. “There should be. I've seen jewels on a few different things so far.”
+
+Ren thought back as he picked his way down the steep slope, but didn't remember seeing anything. “Where?”
+
+“In the market that we passed through the first time, coming from the ship.”
+
+“Oh, right!” Ren said. “You pointed out a big shiny piece of silver in one of the stalls.”
+
+“That was it.” Teepo said. “It had a nice emerald in the center, but the peddler didn't look like he was getting anyone interested in it.”
+
+“How could you tell?” Ren asked.
+
+“He pointed to it several times as we passed, and the dwarves walking by turned away.”
+
+“I think we'll have to pay him a visit, then. If only just to see where he got the emerald.” Ren said, reached the bottom of the slope, and started running. “I better tell Nathalia I'm coming back.” The ring glowed slightly. “Hi, Nathalia. I'm on my way now. I'll be at the tent in about 15 minutes.”
+
+“Only 15 minutes? It took you half an hour before.” Nathalia said.
+
+“I wasn't running full out before.” Ren said. “See you soon.” The glow faded and Ren poured on the speed. Teepo chittered in delight and Ren smiled.
+
+********
+
+Gloria Rayford was not in a good mood. It was nearing 11pm and she'd just got the transmission on the client's VW Bug attached. Normally she enjoyed working alone; but the thing had been a real bitch to hold in place, and tighten the bolts at the same time. She slid out from under the car on the rolling dolly to rub her aching muscles. Both of her arms were sore now and grimaced as she worked out a nasty knot from one of them.
+
+I'll have to skip my workout tonight. Gloria thought and stood up. At least I don't have to study for that stupid engineering exam. She snorted a laugh. I could tell you the torque needed to tighten a bolt on a V8 in my sleep!
+
+Gloria walked over to the bathroom and washed up as much as she could. She always had that last little bit of grime under the ends of her short nails, that you just couldn't get rid of no matter what you did. She dried off and locked the shop up.
+
+If I wasn't allowed to work overtime like this, I'd never be able to afford the tuition fees. Gloria thought and hopped into her beat up '69 Mustang. She never made the mistake of restoring it to what it should look like, though. It would have been stolen faster than I could say 'gone in 60 seconds'. Gloria chuckled and pat the dash.
+
+“Who needs to look good to work well, right baby?” She asked the car and turned the key. The engine turned over immediately and it purred as Gloria fed her some fuel. “That's it girl... take a big drink.”
+
+Gloria shoved the car into gear, and peeled the tires as she left the parking lot. Once on the street, she slowed down to a respectable speed. The last thing she needed was another ticket. After a short 15 minute drive, she pulled into the apartment complex. It was run down, and sometimes the heat gave out, or the water was a little brown; but it was the best she could get on her paycheck, still eat, and go to school. She parked in her spot and walked up the three flights of stairs to her place. She unlocked the door, went inside, and set the deadbolt. After taking off her coveralls and changing into a pair of shorts and a clean t-shirt, Gloria sat down at her computer and checked her emails.
+
+Looks like I better login tonight. She thought as she read the dozen emails she'd gotten while at work. She didn't bother responding to the emails; as she could easily send messages in the game, and it only took a quarter of the time. Gloria sat in the old recliner that she'd scavenged from the sidewalk and put on the cheapest VR headset available on the market. Once she'd figured out how to change the thing to work just as well as the high end set, she'd made a nice profit on the black market, and enough to start her engineering degree. That was a year ago. Now that the company changed the settings for one permanent user only, refurbishing the headsets had dried up overnight.
+
+I might as well make some in-game currency. Gloria thought. There's surprisingly a lot you can have people do for you, for so little money. She smiled. I wonder what kind of job 'Emanon' has for 'Elerlyth' tonight?
+
+“Flow Login Start.”
+
+********
+
+Ren arrived back and the tent and Nathalia had supper ready. She gave him a quick hug and they sat down to eat. Ren told her about his find, and asked her if she knew of any Gemcutters. She shook her head.
+
+“I've never heard of one.” Nathalia said. “Da was only a tailor, and didn't make jewellery or anything like that.”
+
+Ren nodded. “I didn't see anything like that in the patterns I went through and modified, either.” He said. “If your father did work with jewellery, he didn't write it down on them.”
+
+Nathalia look at Ren in wonder. “I still find it hard to believe that you have all of Da's work up there.” Nathalia said and ran a hand through his hair. “Despite you contantly providing me with proof.” She said and chuckled.
+
+She never ruffles my hair, and just runs her hand through it. Ren thought. Unlike everyone else. He smiled at her. “Well, when I find something that really interests me, I devote a lot of time to it, if I can.”
+
+Nathalia laughed. “You don't have to tell me twice.” She said. “How many rolls did you make that time?”
+
+“Over a hundred.” Ren said and laughed, too. “I was pretty sick of bread by the end of the week.”
+
+Nathalia looked at him in surprise. “You... you ate them all?” She asked. “I thought you fed them to your mount.”
+
+Ren grinned. “She didn't like them any more than you did.”
+
+They heard Princess huff and they laughed together.
+
+“I better feed her, too. Be right back.” Ren said and took some food out to Princess, then came back into the tent. “I think we better pack up.”
+
+Nathalia widened her eyes. “Are you sure?”
+
+Ren nodded. “My inventory's full, and I don't have much wood left to make a single crate, let alone enough to carry what I want.”
+
+“I could take some of it.” Nathalia offered.
+
+Ren thought about it for a minute. “I'll need 4 slots, I think.” He looked into his inventory. “I'll give you all of the small diamond crystals I have.”
+
+Ren emptied 5 slots, one more than he thought he needed, and Nathalia stored them easily.
+
+“How are you feeling?” Ren asked.
+
+“I... I'm fine.” She said.
+
+“It's not too heavy?”
+
+“I can do it.”
+
+Ren smiled and gave her a hug. “That's my girl.”
+
+Nathalia's face flushed a little red and hugged him back. They broke the hug a minute later, and Ren stored the bed and the 2 springy trees holding up the top of the tent. The table was next, after Nathalia took the Sending Stone brick and the chairs, and they went outside. Ren untied the ropes and string from the trees, leaving them attached to the tent. He stored the tent and went to Princess, leading her out of the crate and putting on her harness and saddle, freeing up 2 more slots. He stored her food bowl in a saddlebag, seeing there were 4 slots on each side. He gave the reins to Nathalia and knocked on Ruck's cabinet.
+
+“Hi, Ruck. Hand me the springy trees, please.”
+
+Ruck did so with relief and Ren smiled as he turned around. “Hop on.” Ruck climbed on and Ren turned around to store the crate. He walked over to the protection barrier and stored the 2 Screaming Terror stones in one slot, and the 4 Warding stones of Concealment in the last slot. Ren walked to the other 3 stones he'd set around where the tent was, and stored them as well.
+
+“I think that's everything.” Ren said, then looked at Princess. “Or not. Just a minute.”
+
+Ren took out the table and some cloth, a bit of stuffing, and made a big comfy pillow for Nathalia to sit on. He stored the table again and took the pillow to Princess and put it on the saddle, then sewed a strap around it to tie it securely, and sewed it to the saddle to stop it from slipping. Nathalia passed him the Sending Stone brick and he attached that as well.
+
+“My Lady.” Ren said and knelt on one knee, to let Nathalia use that knee as a step.
+
+She put a hand on his shoulder and smiled. “Thank you, kind sir.”
+
+Nathalia climbed up and sat side-saddle, then sighed at the comfort from the pillow. Then the reduced weight from the glyph enchanted on the saddle took effect and she smiled again. Ren was tempted to unload some things into Princess' new saddlebags, but figured with Nathalia and the added weight from the diamond crystals she carried, even with it reduced, was more than enough for Princess to carry all at once.
+
+“Everyone ready?” Ren asked.
+
+There were nods all around and he led Princess out of the clearing, and then had a thought. He went back and activated his Water Spray ring and gave a good rinse to the whole area, hopefully wiping away any trace that they were there. Ren led them to the road, and once there, he headed towards Dornrach.
+
+“If we pick up the pace a little, we can be back in the city by nightfall.” Ren said.
+
+Nathalia agreed, as long as the mount wasn't pushing herself too much, and Princess huffed. He smiled and pat Princess on the neck.
+
+“Let's go.” Ren said and walked at a fast pace, making sure to not push Princess too hard. “Nathalia, you should call your mother and let her know we're coming back early.”
+
+“That's a good idea.” She said and touched the stone as Ren led them down the road.
+
+*
+
+Gloria (Elerlyth, The Dark Elf) was still in a bad mood. Emanon's in-game message had given her the details of the job, and she didn't like it at all.
+
+How in the world am I supposed to find this Mitchell guy, who could be hiding anywhere in a whole city? She thought in exasperation. I'm really tempted to tell him to take this stupid job and shove it!
+
+Elerlyth replied to the message and said she'd take the job provisionally... she'd go to the city, sure... and if she happened to find Mitchell, she'd accept the job. That way, she didn't suffer any repercussions if she didn't manage to find him. The last thing she wanted was to gain a reputation for not completing jobs. She sent the message off and waited. A minute later, her idea was agreed to and she confirmed receipt.
+
+Maybe I'll look up that cute little elfling. She thought and caressed the shiny breastplate she never took off. She'd lost count of how many offers to buy, and threats, she'd had about it. Ren was just a doll, to make this for me!
+
+*
+
+Ren and the Virtual Survivors made good time, and hit Dornrach's city limits just after nightfall. He led Princess to the intersection and then up the main street to the turnoff to the road for House Neram. It only took about 20 minutes to get to the gate of the house, and Ren unlocked it.
+
+“Home Sweet Home.” Ren said and brought Princess into the courtyard and then shut the gate behind them. He locked it and then helped Nathalia get down from the saddle.
+
+“The pillow worked great, Ren!” Nathalia said, turned around to show Ren her backside, and pat it a few times. “It's only slightly sore; but that's just from sitting so long, not from the saddle.”
+
+“It definitely looks fine.” Ren said, then grinned as Nathalia blushed a little and turned to face him.
+
+“R-Ren!”
+
+“What?”
+
+“You... you shouldn't say such things... in public.”
+
+Ren stepped close and leaned down a little. “You're right.” He whispered in her ear. “I should wait until we're inside before telling you that your backside looks fine.”
+
+Nathalia blushed and Ren smiled as he stepped around her to lead Princess to the stable, then took out the crate and set it back where it was before. Ren undid the Sending Stone from where he had it tied and stored it. He took Princess' bowl from the saddlebag, set it on the ground, then undid the saddle and harness. Ren handed the saddle and harness to Ruck, who stored them. Ruck climbed down to go to his cabinet, and Ren saw that he was riding really low on his legs.
+
+“Ruck? If you're carrying too much, just pile it in the corner there.” Ren said and pointed to the corner by the cabinet. “You don't have to carry all of my stuff, all of the time.”
+
+Ruck gave Ren the 'okay' gesture and unloaded all the bolts of cloth Ren had given him, stacking them neatly. When he was done, he wasn't nearly as low as he was before, waved, and then went into the cabinet. Princess entered her crate and plopped down. Ren pat her neck and smiled.
+
+“You did great today.” Ren said and rubbed the spots where the harness had dug in a little. “I'll make you something nice for breakfast.”
+
+Princess huffed and Ren put the last of the food he had in inventory into her bowl. He closed the stable door and saw that Nathalia had already gone in. He went inside as well and saw the two women talking in the kitchen. Ren walked through the main room and into the kitchen. Narhilda saw him, put a hand on Nathalia's arm to end their conversation, and walked around the table. Ren watched her approach; and when she stepped close to hug him, he saw tears in her eyes and he hugged her back.
+
+“T-t-thank you, Ren.” Narhilda said and ducked her head as she started to cry. “You don't know...” Sob. “...how much...” Sniff. “...this means to me.”
+
+Ren looked over her head at Nathalia. She pointed to him, then herself, and pretended to tie a knot in the air. He nodded and smiled.
+
+“I have some idea.” Ren said and took out a scrap of cloth to wipe Narhilda's eyes. “Getting married means a lot more here, than it does where I come from.” He said, leaned back and dabbed her eyes. “I also don't have a lot of time to provide everything that I need to.”
+
+“D-don't worry. You'll do just f-fine.” Narhilda said.
+
+“I'd do a lot better if you know a good Gemcutter.” Ren said and smiled.
+
+“I'm sorry, I don't.” She said and took a deep breath. “I'm also sorry I broke down like that.” Narhilda smiled and let Ren out of the hug. “It's just... you saved this House... and knowing that my daughter has found a man like you...” She took his hand in both of hers. “...most of my worries have disappeared.”
+
+Ren wiped the last of her tears off her face and stored the scrap of cloth. “I'm glad I could be of service.”
+
+“Ren.” Narhilda said. “You're not providing a service...” She let his hand go and cupped his face with both of her hands. “...you're just being who you are.” She rubbed his cheeks with her thumbs for a moment and let his face go. “Everything that's happened to me and my family, is the result of your kindness.” Narhilda smiled. “I don't think we can ever repay you.”
+
+Ren smiled and cupped her face just like she did to his, and rubbed her cheeks with his thumbs. “I think giving me your daughter, and accepting me into the family, is more than enough payment.” He said and gave her a quick, light kiss, on the lips. “It's much more than I ever expected when I came here.”
+
+Narhilda blushed a bright red. “You... how did you know... the ritual... that you were supposed to kiss me like that... to cancel my Honor debt to you?” She said and turned to her daughter.
+
+“I didn't tell him, Ma.” Nathalia said and held up her hands in surrender. “I knew you didn't want to be let off the hook so easily.” She turned to Ren. “How did you know?”
+
+Ren smiled a crooked smile and shook his head, as Teepo chittered in laughter.
+
+“You could have made her your servant for years, you know.” Teepo said.
+
+I know... and now she knows that I know, too. Ren thought.
+
+“Oh, Ren!” Narhilda said and gave him a bone crushing hug. “You shouldn't have done that.” She shook her head and her braid flopped back and forth. “I wanted to do penance for you.”
+
+Ren chuckled. “I know you did.”
+
+Narhilda let him go with surprise on her face. “Then why?”
+
+“I have the upmost respect for women.” Ren said and smiled. “I learned that a woman works harder, faster, and better, than I ever could.”
+
+“But...”
+
+“I was practically raised by the best group of women there ever could be.” Ren said. “I won't have any woman reduced from a Lady of the House to a servant, just because she believes she owes me something.”
+
+“You... you really believe that.” Narhilda said, surprised.
+
+“Of course I do.” Ren smiled. “I fell in love with one of those women.”
+
+“Lucy, you mean?” Nathalia asked. “She took care of you?”
+
+Ren nodded.
+
+********
+
+Barbara sat riveted to the television screen. “I can't believe he told them about Lucy!”
+
+“Shhh!” The other night nurse said.
+
+********
+
+It had taken Elerlyth nearly all day to get back to the starter city of Aurora. When she approached the newbie area around the West gate, she didn't get a popup to warn her away. She smiled and entered the gate.
+
+“If I remember right, he spent time near the blacksmith's shop.” Elerlyth said and made her way over there. As she approached Donan's shop, she could see that everything was closed up for the night. “Damn, I'm too late.” She walked around and saw all the other shops in the Artesian District were closed as well. “I better get a room for the night.” Elerlyth said. “I won't find him now.” She shook her head. “I don't even know where he stays at night.”
+
+*
+
+Ren didn't explain why he needed a group of women to take care of him; he just said that it was Adventurer's business, and they let it drop. “Actually, I have to go and take care of some Adventurer's business right now.” Ren said. “I shouldn't be long.” He said and smiled. “Then again, depending on how things go, I might be out until morning.”
+
+Nathalia and her mother nodded.
+
+“Goodnight.” Ren said and bowed slightly to both of them.
+
+“Goodnight.” Nathalia said, and her mother waved.
+
+Ren walked through the main room and down the hallway. He entered Narhilda's old bedroom and shut the door.
+
+*
+
+“You see?” Nathalia said. “He's been avoiding me since last night.” She sighed. “I think I might have scared him a little, with how forward I was.”
+
+Her mother smiled and walked over to her. “Dear, I think you're missing his motivation completely.” Narhilda said. “He's not scared of how you feel about him, he's scared of how he feels about you.”
+
+“W-what?”
+
+Narhilda put a hand on her daughter's arm. “He's afraid that if he lets himself feel anything for you, he'll be betraying how he feels about Lucy.”
+
+“Oh.”
+
+“Just give him some time, dear.” Narhilda said. “He'll come to see that there's all kinds of love, and that he can love someone new, without changing the old love that he has for someone else.”
+
+“But... how does that work?”
+
+Narhilda chuckled. “Everyone is different. It's not possible to love them all the same.”
+
+*
+
+Ren had stood just inside the bedroom door and heard every word Nathalia and her mother had said.
+
+Is that true, Teepo? Ren thought. Can you love more than one person?
+
+“Sure.” Teepo said. “It's just like Narhilda said. Everyone is different. The love you can feel for one person, wouldn't be the same as what you feel for someone else.”
+
+I can't love 2 people at the same time, though.
+
+“You love Lucy, right?” Teepo asked and Ren nodded. “Who else takes care of you?”
+
+Barbara, Stella, Bonnie, and Denise.
+
+“Do you love Barbara?”
+
+Actually, yes. She's like the mother I never had. Ren thought and went to the bed.
+
+“There you go.”
+
+What?
+
+“That's 2 different kinds of love right there.”
+
+Ren froze as he climbed onto the bed. Hey, you're right! He thought as he flopped onto his back on the bed and Teepo jumped out of the hood. I do love Lucy... and Barbara... but it's not the same.
+
+“You said Lucy was your first love, and will always have a special place in your heart; but that doesn't mean that no one else can have a place, too.” Teepo said. “You've got a big heart, Ren. Lucy didn't fill it up. She's just the only part that you can see right now.”
+
+Ren smiled. Teepo is smart. Teepo is wise.
+
+“Darn right, mister!” Teepo said and chittered in laughter.
+
+Ren grinned. See you in a few hours, buddy.
+
+“Bye, Ren.”
+
+“Logout.”
+
+********
+
+Ren reached up to take the VR headset off, but Barbara beat him to it and smiled.
+
+“You've had quite the eventful day, young man.” Barbara said and smiled.
+
+“Tell me about it.” Ren said. “Barbara... Lucy and I...”
+
+“I know.” She said and put a hand on his good arm. “I saw the X-rays.”
+
+Ren widened is eyes.
+
+“Nurses need to be told what condition the people they are caring for are in.” Barbara said. “Can you tell me how it happened?”
+
+Ren told her how it came about, and how it wasn't Lucy's fault, and that he blames himself for not paying more attention.
+
+“Ren. It actually was Lucy's fault.”
+
+“Barbara! How can you-”
+
+“It's our job to look after you. She's done it for just as long as I have, and I'd never... ever... put you in that kind of position for you to get hurt.”
+
+“But...”
+
+“Ren, the least... the least... she could have done was have you sit up before doing anything.”
+
+Ren opened his mouth to speak, but Barbara kept going.
+
+“She didn't, though. She forgot to treat you with the respect you deserved, and she hurt you by mistake.” Barbara said. “I think she shocked herself with how easily it could happen, even though she knew you could be hurt, and then made another bad decision right afterwards.”
+
+“Then you...”
+
+“I know you love each other, but sometimes...” Barbara sighed and had a sad look on her face. “...sometimes things don't work out right, and you just have to say goodbye.”
+
+“But... Barbara...”
+
+“I know. She's hurting, too.” Barbara said. “For her, it only just happened today, but you... you're working on your third day already.”
+
+Ren looked at her with wide eyes. “What are you saying?”
+
+“I'm saying that you'll get over her much faster by playing the game.”
+
+“But...”
+
+“She knows this, too.”
+
+“What!?!”
+
+“She told Denise that it would be better for you to find someone in the game instead.” Barbara said.
+
+“She... she did?” Ren said, down-hearted. “I guess it's a good thing that I'm already engaged.”
+
+Barbara sat down and smiled. “I saw that, too.” She said. “It was Denise's fault, actually.”
+
+“WHAT?”
+
+“When she saw what was going on with that dwarf, she called Lucy.”
+
+“No way!”
+
+Barbara nodded. “She didn't know what Lucy would do, though. She was just as shocked at Lucy's message as you were.”
+
+Ren blinked a few times, and remembered his confrontation with Denise. “So... that's why she acted the way she did.”
+
+Barbara nodded. “She doesn't think having an electronic relationship would be good for you, despite all the other nurses telling her that it would help.”
+
+“You... you all told her that?” Ren asked, surprised.
+
+Barbara nodded again. “People meet online all the time. Electronic dating services make tons of money. Texting, emails, voice chats, and now VR. It's a new age, Ren.”
+
+“Barbara... Nathalia isn't...” Ren's face flushed red a little. “She's... not re-” Barbara put a hand over his mouth.
+
+“How does she make you feel, Ren?” Barbara asked and took her hand back.
+
+Ren thought about it. “I enjoy her company. She makes me laugh, sometimes for no reason. We can sit together and not say a word, and the silence is never uncomfortable.” He said. “When I'm with her... she... she makes me want to be a better man.”
+
+“Then you can't get any more real than that.” She said.
+
+“But...”
+
+“Does it really matter if she's an electronic person, or just somone controlling that electronic person?” Barbara asked. “Either way, she's still an electronic person.”
+
+Ren opened his mouth, and then closed it. “Well, damn.”
+
+“Ren!” Barbara exclaimed.
+
+Ren grinned and reached out his good hand. “A friend pointed something out to me, recently.”
+
+“What's that, potty-mouth?” Barbara smiled and took his hand.
+
+Ren chuckled. “He told me that there's all kinds of love, and then he asked me about you.”
+
+Barbara blushed slightly. “And what did you say?”
+
+“I told him that you were like the mother I never had...” Ren said. “...and that I love you.”
+
+Tears came to Barbara's eyes. She tried to hold them back, but she couldn't.
+
+“Ren...” Barbara said, wiping some of the tears away, but missing a bunch of others. “You're like the son I never had... and I love you, too.”
+
+Barbara stood and tried to give Ren a hug without putting pressure on his bad arm; but after they tried and failed a couple of times, they eventually ended up laughing and she gave him an awkward one armed hug.
+
+“I'll give you the hug you deserve in a few weeks when we get that bum wing working again.” Barbara said and chuckled. “By the way, I think your favorite actress is on the late show tonight.”
+
+“No way!” Ren said. “Is she still with her girlfriend, or back with her ex-husband?”
+
+“Both I think.” Barbara said.
+
+“No way!” Ren exclaimed.
+
+“Let's put it on and check, shall we?” Barbara asked and turned the television to the right channel. They watched the show, and the actress came out to roaring applause and the host of the show roasted her for a good 10 minutes before getting the scoop on her personal life.
+
+Ren and Barbara watched in fascination.

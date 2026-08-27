@@ -1,0 +1,311 @@
+---
+id: 631c7dcd-dca0-5570-9fb6-a5397aaa1bf9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94 - A New Uniform"
+slug: 0078-chapter-94-a-new-uniform
+partOf: mythrans-master-of-all-continued-completed
+position: 78
+ownLength: 3544
+unit: words
+publishedAt: 2016-11-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104345/chapter-94-a-new-uniform"
+royalRoadId: "104345"
+---
+
+Ren stood up from the table. “I guess I better head to the Garrison.” Ren said and turned to Gausen. “Thanks for coming by and not really doing anything.” He said and grinned.
+
+“Hey! That was an Imperial Order! I'm only an Ambassador to a foreign city. I can't do anything about it!” Gausen said, a bit heatedly.
+
+Ren clapped him on the shoulder. “I know. I was just teasing you.”
+
+Gausen frowned. “You have a strange sense of humor.”
+
+Ren laughed. “You have no idea.” He said and turned to Nathalia and her mother, Narhilda. “I don't know what the situation will be like when I get to the Garrison, but I should be back by tonight.”
+
+“Wait.” Narhilda said. “You can't go dressed like that.”
+
+Ren looked down at himself. He wore his Spider Silk Cloth Traveller's Clothes (High Quality). “What's wrong with it?”
+
+She shook her head. “You'll lose Honor faster than water through a broken dam if you show up like that.” She said, then sighed. “I know just the thing that you'll need. It may take a few minutes to find, but I'll be back.”
+
+Narhilda left the kitchen and walked through the main room and down the hallway. Ren heard a door open, and a moment later, a loud shriek. Ren ran as fast as he could and was at the open door a moment later, to see Narhilda kneeling on the floor of her old bedroom. She was in front of the workbench, crying.
+
+“What is it?” Ren asked as he knelt beside her and Nathalia came into the room behind him. Narhilda pointed to the neat and tidy shelf of patterns, and between sobs, told Ren how she had left her husband's old workbench the way it was, because it was the last thing he'd touched before he died. Ren reached out and rubbed her back, consolingly.
+
+“My Lady, I'm terribly sorry.” Ren said. “This was my fault. The first night I spent in here, I saw the shelf of mixed up papers, and it bothered me that it was such a mess. I thought... I thought that the least I could do to repay your kind hospitality, was to straighten it up for you.”
+
+Narhilda looked at him with tears in her eyes. Ren pulled out a scrap piece of cloth from inventory and wiped her face with it.
+
+“In my ignorance, I thought they were just bills and contracts, and started to sort them. It was then that I realized what they actually were.” Ren said. “Once I saw that they were patterns, I was consumed with them.”
+
+Narhilda's face was filled with shock. “You... you read them?!?”
+
+Ren nodded. “I did. When I was done and had them all put away properly, I knew your husband wasn't just a great man like your daughter had told me.” Ren said. “He was a Master Tailor.”
+
+Nathalia gasped. “Ma, is that true?”
+
+Narhilda nodded.
+
+“I knew he was a great tailor and that everyone wanted him to make them something... but a Master Tailor?” Nathalia walked over to the bed and sat down. “I never knew that.”
+
+Narhilda took the cloth Ren held for her and wiped away another bout of tears. “It's not something that comes up in normal conversation, dear.” She said and then laughed a little. “How would that go? Good morning, Nathalia honey. Your dead father was a Master Tailor. I just thought you should know. Eat some breakfast.”
+
+Ren snorted a laugh and Nathalia smiled.
+
+“Okay, I guess it wouldn't just come up... but you could have told me once I was older.” Nathalia said.
+
+“It didn't really matter after the House lost most of it's Influence.” Narhilda said and sighed. “It just wasn't as important as keeping this place running.”
+
+Nathalia nodded, and Narhilda turned back to Ren. “So... you read them.” She said. “What did you think?”
+
+“I think that if he were alive today, there wouldn't be a single dwarf that wouldn't own a piece of his clothing.”
+
+Narhilda caught her breath. “You... you understood what he was doing!”
+
+Ren nodded. “The patterns, once I had them sorted and organized, told me exactly what his intentions were.”
+
+“Show me.” Narhilda said and stood up. “Find the 'Dwarf Recruit Uniform' in there.” She said and waved to the organized parchment paper stacks. “You have my permission to use the workbench to make it.”
+
+Ren stood up and pulled a bolt of white cloth from inventory. He measured out the proper length, cut it off, then started to cut out the pieces he needed.
+
+“What are you doing?” Narhilda asked.
+
+“I'm making the Dwarf Recruit Uniform like you asked.” Ren said, but didn't stop cutting out pieces.
+
+“But... you didn't take out the pattern yet!” She said.
+
+Ren smiled. “There's no need. I memorized them all.”
+
+Gasps were heard from behind him, but he ignored it. Definitely a default response. He thought and finished cutting out the pieces.
+
+“There are hundreds of patterns! How could you...” Narhilda's eyes widened as Ren took out the portable dying station and dyed the cloth pieces to be the mottled grey of the uniform. He stored it again and began to sew. He took his time, as this was his first attempt at making one of Lord Neram's creations, and he wanted to do it justice. When he was finished, he stepped back and examined it.
+
+Dwarf Recruit Uniform (High Quality)
+
+This uniform designed by Lord Neram is both practical and functional. Due to the care and professionalism used in it's construction and the impeccable stitching by Ren the First, this garment will last much longer than a regular uniform.
+
+Durability: 150/150
+
+Narhilda stepped over to examine it herself, and tears came back to her eyes as she ran her hand over the fabric. “He would have been so proud to have had a student like you.” She said and wiped her tears away with the cloth Ren had given her. “You are a great Tailor yourself.”
+
+Notice!
+
+A Master Tailor's wife has recognized that you are a Tailor in your own right. You have gained the title: Tailor
+
+Notice!
+
+The title of 'Tailor' grants you a 5 level bonus to your Tailoring skills.
+
+Tailoring Level 6 (Advanced 0%), Bag Craft Level 7 (Beginner 50%), Stitching Level 7 (Intermediate 50%), Cloth Repair Level 2 (Intermediate 0%), Spinning Level 6 (Intermediate 20%)
+
+XP Bonus: 5,000 XP
+
+Fame Bonus: 29%
+
+“My Lady... I don't deser-” Ren tried to say and Narhilda put a finger over his lips.
+
+“If you are going to continue my husband's work, you will be recognized as a Tailor.” She said and turned to the workbench, slid open a small compartment and took out something. She turned back to Ren. “He would want you to have this.” Narhilda said and passed him an old sewing needle. Ren froze. It was nearly twice the size of a normal needle, with a huge loop at the top.
+
+“What is it?” She asked, perplexed at Ren's reaction.
+
+Ren shook his head and closed his eyes, to do a breathing exercise. I can do this. I can do this!
+
+“You can do this, Ren!” Teepo encouraged.
+
+Ren opened his eyes and held his hand out. Narhilda gently placed the needle in his hand and Ren shook slightly. He took a deep breath and examined it.
+
+Master Tailor Sewing Needle
+
+This needle can be used like a normal needle, but is intended for Cloth Repair.
+
+With a high enough skill level (Intermediate or higher), the Master Tailor Sewing Needle can be held against a piece of clothing, and the command of “Repair!” will restore it to it's original state.
+
+“My...My Lady!” Ren said in surprise. “I... this...” He shook his head. “Thank you, My Lady. I will use this well.”
+
+Narhilda nodded. “I know you will.”
+
+Ren turned towards the bed where Nathalia still sat, and walked over to her. She looked up at him and smiled. Ren put a hand on her shoulder and smiled back.
+
+“What are you...” Nathalia started to say and Ren held the Master Tailor Sewing Needle against her dress.
+
+“Repair!”
+
+The cloth of the dress was enveloped in a soft golden glow for a few moments, and Ren watched as all the frays reformed, the worn spots filled back in, and the slight tears knit together. The glow faded and Nathalia looked down at her dress in shock.
+
+“Ren!” She shouted and jumped up to give him a bone crushing hug. She let him go and tears came to her eyes as well, and Ren gave her a piece of cloth to wipe them. Ren stored the needle in inventory, until he got the chance to put it in the Portable Tailor's Kit.
+
+“I thought... I thought I was going to... have to... throw it out and replace it!” Nathalia said and cried. Ren rubbed her back like he'd rubbed her mother's. Narhilda came over and gave her daughter a hug. A few more minutes passed and Narhilda looked at Ren, then waved to the uniform.
+
+“Please, put it on.”
+
+Ren took the uniform and equipped it. Once on, it resized to fit him. It had an undershirt, slightly form-fitting pants, an overcoat that tied in laces down the front to hold it closed, and a belt sash around the waist. The uniform had thick pads on the shoulders, back, elbows and thighs. He'd even made the boots, and everything was a mottled grey. Ren flexed his arms and turned side to side, to show the ease of movement and the functionality.
+
+Narhilda let go of her daughter and gave Ren a hug. “Oh, Ren.” She said and ducked her head against his chest so her tears wouldn't stain the new uniform. “My husband lives on... in you.”
+
+Optional Quest!
+
+You have been tasked to spread the word of the dwarf Master Tailor, Lord Neram.
+
+Make his name and House mean something again!
+
+Rewards: +30% Influence gain while working for House Neram.
+
+“I'm honored to be a symbol of his legacy.” Ren said and Narhilda sobbed.
+
+Another minute or so passed, and she calmed down and wiped her eyes. “My daughter was right. You're a good man.” Narhilda said. “Are you sure you don't want to marry her?”
+
+“Ma...” Nathalia said and rolled her eyes. “We've been through this.”
+
+Narhilda reached up and put a hand on the side of Ren's face. “If I was 40 years younger...”
+
+“Mother!” Nathalia exclaimed and her mother laughed.
+
+“My Lady.” Ren said and took her hand from his face and bent over it. “My heart and love belongs to another, but I appreciate your compliment just the same.”
+
+Narhilda's face flushed a deep red, and Ren let her hand go.
+
+“I really must get going.” Ren said to both of them. “I believe 'report to the Garrison immediately' means I should get there as soon as I can.”
+
+Both women nodded to him, he bowed slightly back to them.
+
+“Before I leave, however... there is one thing I've been meaning to do, and it slipped my mind until now.”
+
+Ren activated his new personal Aura ability, and then equipped his Dire Wolf Hooded Cloak.
+
+Notice!
+
+You have equipped an item that has a similar ability to your own. Your personal Aura distance has doubled! Current Distance: 20 foot radius.
+
+“Oh...” Nathalia said.
+
+“Oh my...” Her mother Narhilda said.
+
+“Can I?” They said together, then reached out to stroke the dire wolf pelt. They stepped close and cuddled it.
+
+“It's real...” Narhilda said.
+
+“I told you I saw it on the ship.” Nathalia said to her mother.
+
+“To kill something so dangerous...” Her mother said, and looked at Ren with admiration.
+
+Ren smiled and stepped back from them, dragging the cloak from their hands. “Good day.” He said and left the room. Ren walked up the hallway and met Gausen in the main room.
+
+“What was all that about?” Gausen said, turning around. “You've been in there for half... an... hour.” His eyes widened when he saw what Ren was wearing and stopped talking.
+
+“I just needed a change of clothes. Sorry to keep you waiting.” Ren said. “Let's go.”
+
+Ren turned around and went out the front door. Gausen caught up to him in the courtyard and tried his best to ignore the dire wolf cloak.
+
+“I looked for you all over the ship when we docked.” Gausen said.
+
+“I don't mean to insult you, but that wasn't very smart.” Ren said and smiled as he opened the front gate. “There's only 2 places that I could have been on the ship. The kitchen or the hold... and since we were docking, the kitchen was closed. The only place left was the hold.”
+
+Gausen stopped and turned around as Ren closed the gate. “Okay, you got me there.” Gausen said.
+
+Ren stood still and concentrated on his Command ability and his Dire Wolf Hood Cloak, and turned around to face the 2 Warriors, who had slightly surprised looks on their faces.
+
+Let's see if this works. Ren thought. “Lead the way.” Ren commanded them. The Warriors nodded and led the way down the street, and Ren smiled.
+
+“I was supposed to take you to the Garrison myself.” Gausen said.
+
+Ren looked at him with raised eyebrows, and Gausen laughed.
+
+“It's true. The whole point of this trip was to get you some training.” Gausen shook his head. “It was supposed to be specialized, to allow you freedom of movement and flexibility in what you wanted to study... but now... you're going into the general population.”
+
+“So, what you're saying is... I was supposed to go to the Garrison anyways.” Ren said. “Thanks for telling me beforehand.”
+
+“You were a little busy with your fiance.” Gausen said in his defence. “You didn't even come to any meals after that first night.”
+
+Ren nodded. “I might have earned a seat at the table, but I had no idea what I was dealing with. I made sure I stayed out of the way until I learned what I could and couldn't do around your people.” Ren said. “I'm not her fiance anymore, either.”
+
+They walked in silence after that and then arrived at the main part of the city. Ren looked around at the way everything was laid out. This was his fourth time passing through (once to Nathalia's House, to the Main Keep and back, and now to the Garrison) and Ren noticed that it was a really inefficient way to have things set up. He didn't say anything to Gausen, mainly because he didn't want to insult their culture by pointing out how things should be. Dwarves were set in their ways; suggesting they change something about the way they live, was not a good idea... unless they were drunk, then it didn't matter.
+
+Instead of turning to the Main Keep, as Ren had expected, they turned to the east instead and continued to the outskirts of the city. They walked over some more rolling hills until they came to a large one. When they got to the top of it, Ren saw what the Garrison actually looked like.
+
+“Holy crap!”
+
+For almost as far as the eye could see, was battlements. Walls and walls of battlements. Each one walled off a section for something, but Ren wasn't high enough to see inside them. He could see that gates connected sections together, however... and marveled at the whole thing.
+
+“Where in the world did you get this much stone and mortar?” Ren said and half-walked, half-stumbled down the hill then stopped dead. “No way! NO WAY!” Ren turned to Gausen. “This is what you did with the mountain that used to block the bay!”
+
+“What else were we supposed to do with that much stone?” Gausen said and laughed.
+
+Ren shook his head and jogged down the hill to catch up to the Warriors that hadn't slowed down when Ren did. Gausen continued to just walk and he caught up to them just as they arrived at the outer gate. They weren't challenged by the guards stationed there and were let inside. The walls were 50 feet high, just like they were by the bay. The gate was made from planks of wood that were about a foot thick and covered with metal straps. There were gates on every side of the 100 foot square area. Ren followed the Warriors straight forward through 3 more gates of similar sized areas and then 2 to the right.
+
+The area they entered was quite different from the others Ren had seen, as it was much larger and encompassed nearly an entire field by itself. It was filled with roped off sections, and to Ren's surprise, had a full sized obstacle course. Ren did a double take because he had assumed that since everything else was dwarf-sized, the obstacle course would be, too. He followed the dwarf warriors to a door off to the side, and they knocked.
+
+Teepo, go! Ren thought and Teepo hopped out of the hood and skittered under the door. I wonder why they don't use windows?
+
+“They're too weak to take an axe or a crossbow bolt.” Teepo offered. “There's just a dwarf and a desk, again.”
+
+Ren smiled. Thanks, Teepo.
+
+The dwarf inside told them to come in and the 4 of them entered the room. A dwarf sat behind a desk and looked at the new occupants of his office.
+
+“We've brought the recruit.” Maldir said.
+
+Ren came to attention. He knew how to act, at least inititally. Once he started training, it was all new territory. He'd have to wing it and watch what he said. “Sir! I was drafted, sir!”
+
+The dwarf stood up and Ren smiled. He was exactly Ren's height.
+
+“Did I do something amusing, Recruit?”
+
+“Sir! No, sir! I'm just glad to finally meet someone of your stature, sir!”
+
+The dwarf chuckled and walked around the desk, then sat on the edge with one leg up. “I like your uniform, Recruit.”
+
+“Sir, Thank you, sir!”
+
+“Even from here I can tell it's high quality. Where did you get it?”
+
+“Sir! Master Tailor Lord Neram of House Neram, sir!”
+
+“How much was it?”
+
+Ren looked down at the uniform and used Appraisal. “Sir! This uniform cost 15 gold, sir.” Ren said. “Sir! The Military would get a nominal discount if you bought in bulk. I'm sure the price would drop to 10 gold, and possibly 7 gold if enough were ordered, sir!”
+
+Quest Update!
+
+You have informed the Commander of the Garrison about the origin of your uniform, and he will let everyone know that High Quality Uniforms can be ordered from House Neram.
+
+Rewards: Influence: +100
+
+Influence Bonus: +30%
+
+Possible Tailoring Contract
+
+“I also noticed your cloak. That's not standard issue.”
+
+“Sir, no sir! Even though it's not against regulations, I will remove it if you require it, sir!”
+
+The dwarf shook his head. “No, you can keep it on. It might inspire some of the other Recruits to try to do better.”
+
+“Sir! I'll do my best to be a good example, sir!” Ren said as Teepo crawled up his back and into the hood.
+
+“I'm glad we have at least one Recruit that knows what he's doing.” The Commander said. “Orders.”
+
+Ren handed over his draft notice and the Commander read it, then frowned, and put it on his desk. Gausen stepped forward and handed the Commander a piece of parchment, too. The dwarf read it and his frown turned into a scowl.
+
+“What the hell is this?” He said to Gausen.
+
+“Those are supposed to be Ren's orders, sir.” Gausen said.
+
+The Commander closed his eyes and sighed. He opened them and picked up the draft notice, then looked at Gausen's note. He shook his head, put the draft notice back on the desk and tore up Gausen's note.
+
+“You... why...” Gausen didn't know what to say after that.
+
+“I hate complications.” The Commander said. “I'll allow him to leave at night, but that's all. None of that other crap will fly in my Garrison. He's to be back here by daybreak, or he'll be sent for... and he won't want that.” The Commander looked at Ren. “Isn't that right?”
+
+“Sir! I didn't want to see these two the first time they came to get me. I definitely don't want to see them again, sir!”
+
+The Commander nodded. “Good. You're to report to Division A-113.” He turned to Maldir. “Show him where to go.” He turned to Darhom. “Go back to your post.” He turned to Gausen. “You may leave.”
+
+Gausen looked at the Commander with surprise. “But... but... I'm his assigned Ambassador!”
+
+“Are you offering to volunteer and stay?” The Commander asked.
+
+The blood drained from Gausen's face and he shook his head.
+
+“Then your job here is done. You've delivered your note. Have a good day.” The Commander motioned to the door and Gausen had no choice but to leave. Once he was gone, the Commander turned to the two Warriors and Ren. “Carry out your orders.”
+
+“Sir, yes sir!” The three of them said and left the Commander's office.

@@ -1,0 +1,273 @@
+---
+id: d36665e0-2523-5f7e-bb17-d349c277a3e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 490 - Relaxing In Style"
+slug: 0490-chapter-490-relaxing-in-style
+partOf: mythrans-master-of-all-continued-completed
+position: 490
+ownLength: 3421
+unit: words
+publishedAt: 2018-01-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189179/chapter-490-relaxing-in-style"
+royalRoadId: "189179"
+---
+
+Ren turned around inside the warehouse and went back out to Officer Holly. “Oops, I almost forgot.” He said and took out the Wand of Transport. “One Phantom Steed for a Guardian of the Light, coming up.” He said and cast the spell. Since he now knew what the Holy Armor did, he had a better understanding of what kind of steed she needed. When it formed, instead of being black like all the others, it was pure white. It's smokey hooves and mane were now golden clouds instead, and it's red eyes were now blue.
+
+“REN!” Officer Holly yelled and stored the platinum coins as she darted forward to pet the horse.
+
+Ren felt how happy she was and let her caress the mount for a moment. “Step back for a minute.” He said and used Permanent Widen Effect on it to increase the mount's speed, then made the mount permanent. “Okay, it's done.”
+
+“I'm not even going to ask how you did this.” Officer Holly said as she stepped forward and pet the steed again. “It's like a dream come true.”
+
+Ren smiled, because the statement reminded him of what the female elfling said when he had made her dream come true. “It doesn't have to eat or sleep, so as long as you never lose it, it will stay by your side forever.”
+
+“I...” Officer Holly ran her hand through it's cloudy mane. “It's what I've always wanted.”
+
+“Then I'll leave you to it.” Ren said and went back into the warehouse. He thanked Tee-one for all of his hard work, waved to Ruck, and left the warehouse with Artemis. Officer Holly was still there, and she lovingly pet the animal.
+
+“By the way, it can fly.” Ren said as he approached, then cast Permanent Air Walk on Officer Holly. “With this, you can run through the air and stop yourself from falling, or being thrown around, or anything else that would make you fall or move through the air.” He said and walked up into the air. “Like so.”
+
+Officer Holly looked at him with wide eyes.
+
+“I better give you this, too.” Ren said and made her a modified amulet with Unnatural Armor and the Spider enchantments. He gave it to her and started to walk away. “See you in the morning.”
+
+“W-wait!” Officer Holly managed to say, and Ren turned around. “Why are you doing all of this for me?”
+
+“I told you before. If you're going to be around me, you need to be protected and also be able to watch my back.” Ren smiled. “Now you can.”
+
+Officer Holly took out the pile of platinum coins he had just given her. “Ren, I... I can't accept this.”
+
+Ren walked over to her. “Why not?”
+
+“It might be considered a bribe.”
+
+“Are you so easily bought?” Ren asked, and he felt her immediate anger.
+
+“Absolutely not!” Officer Holly said, hotly.
+
+“Then what's the problem?”
+
+“Money changing hands between...”
+
+“Uh, fine.” Ren said and opened up the Land Owner menu. He added her as a personal guard, and gave her a yearly salary for the same amount of platinum coins. “There, happy?”
+
+Officer Holly stared at the popup. “A... a year?!?”
+
+“You can quit anytime you want, and keep the rest of the year's salary.” Ren said and smiled. “Does that ease your conscience?”
+
+“I...” Officer Holly sighed. “Yes, kind of.”
+
+“Geez, I thought I had an odd view of things.” Ren chuckled. “I just gave you a set of armor worth more than 10 times that amount, and yet you didn't even consider that as a bribe.”
+
+Officer Holly gasped at that, because it was true, and Ren started to walk away.
+
+“If I had to guess, the Permanent Phantom Steed I gave you would be worth about the same as what you have in your hands.” Ren said and waved at her over his shoulder without looking at her. “Have fun!”
+
+*
+
+Officer Holly sighed as she watched him and his metal woman walk across the road. “Dammit, he's right.” She said and stored the money again and pet her Phantom Steed. “I looked at them as gifts; but, as soon as money appeared, I immediately thought 'bribe'.” She chuckled. “Isn't that funny?”
+
+Her steed nodded, and she rubbed her hands through it's cloudy golden mane.
+
+“How about we go for a quick ride?”
+
+The steed neighed at her, and she climbed up into the saddle.
+
+“Up, up, and away!” Officer Holly said, and the horse reared back and took off up into the sky.
+
+*
+
+“There she goes.” Artemis said as she watched Officer Holly fly away on the Phantom Steed.
+
+“It didn't take her long to adjust to the concept that I'd already bribed her with gifts.” Ren laughed and opened the door to the Main House. “She really is going to have a hard time spending even a fraction of that money.”
+
+Artemis walked by Ren, and he followed her inside. Now that he wasn't distracted, he could clearly feel Xuunah in her apartment. He walked over to the door of the apartment at the back and knocked. The door opened and Xuunah stood there in the same clothing she had worn since she arrived.
+
+“Hi, Xuunah.” Ren said. “Do you want me to make you something else to wear?”
+
+Xuunah chuckled. “I generate this clothing by default when I resume this form.”
+
+“Oh.” Ren said. “Does that mean you don't wear normal clothing?”
+
+“No, it means I don't waste energy or Mana to make anything different.”
+
+“Then I'll have Tee-one make a few things up for you.” Ren said and smiled. “Something appropriate, that is.”
+
+“It's not necessary.”
+
+“It never is.” Ren grinned. “By the way...”
+
+“Yes, I was in the Connected Sanctuary.” Xuunah said. “Because of the time difference, even though we are still connected, we can't share emotions properly.”
+
+“That's a relief.” Ren said. “I had hoped that was why, and not because... well, I thought...”
+
+“I believe you'd know it if I left, or suddenly died.”
+
+“That's good to know.” Ren said. “Are you going back inside tonight?”
+
+“No. I was in there earlier and won't need to visit again until I have something new to report.”
+
+Ren nodded. “What did they think of the plans I gave you?”
+
+“They were overjoyed to have received so much information so quickly.” Xuunah said. “Of course, I've been assigned to a very long term watch over you.”
+
+Ren chuckled. “Long by their standards, I assume.”
+
+Xunnah nodded. “Who's your new friend?”
+
+Ren turned slightly and presented Artemis to her. “This is Artemis, my new familiar.”
+
+Xuunah held a hand out and Artemis took it. “You sure know how to make them.”
+
+“Thank you... I think.” Ren chuckled again. “Artemis, Xuunah.”
+
+“I see we are both bound to him, but in different ways.” Artemis said. “Will you be accompanying us from now on? I need to know if you should be protected as well.”
+
+Xuunah looked at Ren. “Can I come with you?”
+
+“Sure. You were busy, so I couldn't bring you along this time.” Ren said. “I'm not sure what you can do, but having you along is better than not having you along.”
+
+It was Xuunah's turn to chuckle. “You make that sound so appealing.”
+
+Ren grinned. “It's a gift.” He said. “I better get upstairs.”
+
+“Yes, they've missed you all day and are quite full of anticipation for tonight.”
+
+“Then I can't keep them waiting anymore.” Ren said. He activated his Contact Aura and it merged with the shared Aura the maids always had active. “Goodnight, Xuunah.”
+
+“Goodnight, Ren.” Xuunah said and closed the apartment door.
+
+Ren and Artemis went back to the stairs to go up to the second floor, and went to the apartment. He knocked to give them a moment to get dressed if they wanted, then opened the door. He saw a flash of red hair and then he caught Andrela in his arms.
+
+“Ren!” Andrela said, then kissed him. “Welcome home!”
+
+“I thought we agreed to greet him demurely.” Frikara said from the chair she sat in next to her dressing table.
+
+“No, you agreed and I didn't say anything.” Andrela said and laughed, which made the others laugh, too.
+
+“Well, that's true.” Lusinia said.
+
+“Everyone, I'd like you to meet someone.” Ren said.
+
+“She's almost a foot and a half taller than you, Ren.” Frikara said. “We can clearly see her.”
+
+Ren chuckled. “This is my new familiar, Artemis.”
+
+“Hello, everyone.” Artemis said and waved. “It's nice to meet you.”
+
+“She's a sentient crossbow?!?” Lusinia asked, astonished. Her Identify ability had given her the details.
+
+“She shoots Mana bolts, too.” Ren said. “It came in handy today.”
+
+“I can imagine.” Frikara said. “Why don't you tell us all about it?”
+
+“I'm pretty sure you can drop the reserved act.” Navruth said. “We can all feel your excitement.”
+
+“Sometimes pretense is all we have.” Frikara said as she stood up, and they could feel her emotions trembling through the shared Aura. Andrela let Ren go and stepped out of the way as Frikara walked over to him.
+
+“Frikara.” Ren said, a bit surprised at her struggle to retain control of her emotions for him. She stopped right in front of him and visibly shook, just like her emotions.
+
+“I missed you.” Frikara said and let her control go as she put her arms around his neck.
+
+“By the gods.” Ren said and was immediately excited by her. She felt his reaction to her, and that made her passion for him explode into the shared Aura. She gently leaned in and kissed him, and it sent a ripple through the Aura.
+
+“Wh-what is that?” Lusinia asked and walked over to them. She put a hand out and felt along a force about 5 feet away from Frikara. Ren broke the kiss and saw sparkles in Frikara's eyes.
+
+“I think someone discovered a new Aura.” Ren said, and Frikara nodded.
+
+“I don't know why, but...” Frikara caressed Ren's hair. “...something changed inside of me today.”
+
+Ren thought about what had happened during the day, and there were several things that could have been the cause.
+
+“It's... Desire.” Ren said when he used his Aura Sight ability. “I thought the succubi were a little dangerous with their Seduction Auras... but... but this...”
+
+“Only for you.” Frikara whispered.
+
+“But...”
+
+“No other man will ever see me this way.” Frikara said and stored her clothing. “No other man deserves this feeling from me.”
+
+“F-Frikara.”
+
+Frikara unhooked his cloak and handed it off to Lusinia, who folded it and put it beside the bed. “It's been a long time since we bathed together.”
+
+“I-it has.” Ren said as Teepo flew off of his shoulder and landed on the ceiling. “Give me a minute.”
+
+Ren altered the Instant Tower recipe and removed the in-ground extensions the tower normally put into the ground to hold the tower in place, then substituted the Jacuzzi recipe he had. He activated his Craft Wondrous Item ability and added the ingredients needed. An instant later, a tiny little cube appeared and he placed it in the middle of their apartment and activated it. A very large hot tub appeared and filled with water instantly.
+
+Ren stored his clothing and everyone saw how excited he was, and all of the desire from the maids flooded into the shared Aura.
+
+“That must hurt so much.” Frikara said and touched his very erect part tenderly, and they all felt the thrill and a bit of pain. “Right this way.” She said and gripped it firmly, then guided him over to the large hot tub.
+
+“By the gods.” One of the maids said as they felt Ren's emotions when Frikara climbed into the hot tub and dragged him with her. The other maids were unsure of what to do, and Frikara looked at them.
+
+“Don't just stand there.” Frikara said. “Ren needs our help.”
+
+“O-of course.” Andrela said and stored her clothing and climbed into the hot tub with them. The others didn't need any more prompting and did the same. Once they were all in the water, Frikara squeezed Ren a little to get his attention.
+
+“We are both separate and together.” Frikara said and sat down on his lap. Everyone gasped at the sensations and froze still to become accustomed to it, then Frikara took in a deep breath. “When you are in pain, we are in pain.” She rocked her hips forward and back. “I give to you all that I am, willingly and lovingly.” She said and leaned forward and hugged Ren tightly. “Please accept this gift.”
+
+“I do.” Ren said and kissed her. The other maids went along for the ride as the small light of connection with Ren in their chests started to glow. Their hips moved in the water as their bodies mimicked Frikara's movements. They all shared the desire, passion, and love between each other, and then they all finished as one.
+
+*
+
+Nathalia had woken up in bed when she felt a strong spike of desire from Ren, and wasn't sure what was going on. She looked down at her chest and saw that the small light of connection she had to Ren glowed softly.
+
+“R-Ren!” Nathalia said as she felt his emotions reach a crescendo, then she finished with him.
+
+*
+
+Xuunah had tried her best to ignore the feelings she was receiving from Ren as she laid in bed; but, when the strong spike of desire hit her, her body had refused to respond to her. She thought about going to her closet Sanctuary, but it was much too late for that.
+
+He had even warned me. Xuunah thought as a small light of connection to Ren in her chest started to glow. It was the first time she had felt this way in millennia, so she knew why her physical body wasn't reacting properly. She also knew there was nothing she could do about it. She couldn't avoid feeling everything he felt and went along for the ride. When Ren finished, so did she; just like the maids and Nathalia had. They had all finished together.
+
+*
+
+Artemis had stood there and watched as Ren was taken care of in a special way. Unlike the other familiars, when her mental connection formed with him, it had added the emotional component as well because of his Emotion Siphon ability. She didn't gain that ability; but, she did feel his feelings completely.
+
+Normally, it only took some of her concentration to block him from feeling her feelings in return. In this situation, however... with him being overwhelmed with desire and passion... it had taken all of her concentration to stop sharing her feelings. Since her main component was metal, she could stand there like a statue and no one would know what she was going through. Inside, she was in so much emotional turmoil that she didn't know what to do.
+
+Her own desires were held in only because she knew that she wasn't welcome to join in with the others, despite her being more a part of Ren than they were. She knew that was arguing semantics, and she didn't care. She wanted to feel good, too; but, she knew it wasn't her time. She would only be an intrusion if she attempted to cross the room and get in the hot tub with Ren, even though she really wanted to.
+
+*
+
+After Ren had finished, he looked down and saw the small light of connection in his chest glowed, and realized that Nathalia and Xuunah had shared the experience and finished with him.
+
+I'm going to have to apologize to Xuunah. Ren thought for a moment, and then Frikara kissed him and moved off of his lap. Andrela was next, and the feelings were much sharper with her. It wasn't because of the situation, it was always more intense with her. He wasn't sure if it was because she was the youngest and had the least experience, or because he had accepted her into his life despite those facts.
+
+Either way, it didn't matter anymore, because Andrela demanded his undivided attention as her body moved. She put his hands on her breasts and Ren massaged them for her... and for himself. This continued as Frikara kept her Desire Aura active, and they all shared in the pleasure. The bonds between them deepened and became stronger as each maid took a turn and joined with Ren. By the time all 5 of them had finished, even Ren was nearing the point of exhaustion because the emotional turmoil they had gone through drained them just as much as the physical activity had.
+
+They sat together and soaked in the hot tub, and didn't try to use any soap to wash themselves. It had only been an excuse by Frikara to be together with Ren somewhere other than the bed, and it had worked spectacularly. In fact, it had worked much better than she had ever imagined as her Aura had leveled up and expanded out to 10 feet, and it now affected the other maids, too.
+
+“That... was... fun.” Andrela managed to say as she sighed in contentment and snuggled close to Ren, who chuckled and put an arm around her and across her back, and rested his hand on Lusinia's back. He used his other arm to do the same with Frikara and Navruth, and it left Verwynn out of the loop. She smiled as she realized the only way to touch him was on his lap, so she sat sideways across it and put her legs up and rested them on Andrela and Lusinia. She snuggled in and put her head on Ren's chest, and they all let out a collective sigh.
+
+“It was.” Ren said and relaxed. “Thank you, all of you.”
+
+“You are quite welcome.” Frikara said. “After we rest for a while to recover, we should get to bed.”
+
+A couple of the maids laughed.
+
+“After we rest we should go to bed?” Navruth asked with a smile on her face. “That doesn't make sense.”
+
+“You know what I mean.” Frikara said. “I doubt I could even stand up right now.”
+
+“I could carry you to the bed, but I'm kind of in the same situation.” Ren said. “Of course, it's more like I don't want to move right now, not that I can't.”
+
+Frikara kissed his cheek. “Then relax, enjoy the water, and being with us.”
+
+“I am, I will, and I sure did.” Ren smiled, and they felt how happy he was. After about 10 minutes, Ren did as he said. He picked up and carried each maid over to the bed, and they equipped an outfit for a moment to dry themselves off, and he put them down on the bed. Once all 5 were in the bed, he equipped his Travelling Clothes for a moment to dry off as well, then stored them and laid down in the middle of the bed.
+
+“I'll be right back.” Ren said and logged out. His phantom form was there for about 10 minutes, and then he was back. “All right, we're good for the night.”
+
+“You really are staying the whole night with us?” Andrela asked, and he nodded. “Yay!” She said and snuggled in close to him.
+
+“Hey, no hogging.” Verwynn said jokingly, and the others chuckled.
+
+“Spoon time.” Ren said and turned onto his side, and Andrela was more than happy to turn her back to him. He put his arm around her waist and pulled her in close, and she moaned a little as he pressed himself against her backside. “Sorry.”
+
+“That's okay.” Andrela said. “I have a fix for that.” She said and slid up slightly so that he rested between her legs instead.
+
+“Yes, that's much better.” Ren said in a slightly deeper voice, and she blushed.
+
+“Don't tease her.” Frikara said and laid down in front of Andrela, then moved in close to press her back against her. Ren reached around Andrela and pulled Frikara in closer, and Andrela snuggled into her and sighed. Being held was nice for her; but, being embraced on both sides made her feel safer than she'd ever felt. Ren kissed the back of her neck, and she sighed again. The other three maids spooned in behind Ren and they all held each other as they drifted off to sleep.

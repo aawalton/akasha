@@ -1,0 +1,351 @@
+---
+id: 4431939c-d141-5750-8ba4-75765e760361
+page-type-slug: story-chapter-royal-road
+title: "Chapter 340 - Meet The Parents"
+slug: 0333-chapter-340-meet-the-parents
+partOf: mythrans-master-of-all-continued-completed
+position: 333
+ownLength: 3745
+unit: words
+publishedAt: 2017-08-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157406/chapter-340-meet-the-parents"
+royalRoadId: "157406"
+---
+
+The man stood up to his full 6 foot 6 height and turned around, then got a good look at Ren. “What the hell?”
+
+“Language!” A very effeminate voice said from the kitchen, and a woman only an inch taller than Jhulune turned around and saw Ren. “Oh, dear!”
+
+“Mom. Dad. This is Ren.”
+
+“We know who he is.” Jhulune's father said and took a couple of steps towards them.
+
+“Yes, we do!” Jhulune's mother said, cut off her husband and practically ran over to them. “Welcome, welcome!”
+
+“Thank you, Ma'am.” Ren said as he was engulfed in a hug.
+
+“Moooom!” Jhulune exclaimed. “He doesn't even know you!”
+
+Her mother laughed and let Ren go. “I'm sorry, My Lord. I'm a hugger.”
+
+“I am, too.” Ren said and beamed a smile at her.
+
+“Oh, dear!” Jhulune's mother said and fanned her face with her hand several times.
+
+“That's enough of that.” Jhulune's father said and put a hand on his wife's shoulder to move her back and out of the way.
+
+“It's a pleasure to finally meet you, sir.” Ren said and held a hand out for her father to shake.
+
+“Sir?” He said surprised, and shook the offered hand. “Are you all right in the head?”
+
+“DAAAAD!”
+
+“WHAT?”
+
+“It's not nice to ask something like that! Especially about someone you just met!” Jhulune said.
+
+“He didn't take offence.” He said to her, then looked at Ren. “Did you?”
+
+“No, sir.” Ren said. “I get called crazy all the time.”
+
+The father and mother looked at him with wide eyes, and Jhulune laughed.
+
+“He's not actually crazy.” Jhulune said. “People just think he is because of all the crazy things he does.”
+
+“It's true.” Teepo said. “He does lots of crazy things.”
+
+“Did... did that bug thing on your shoulder just talk?” Jhulune's mother asked.
+
+“That's just Teepo.” Jhulune said. “He's been Ren's friend for ages.”
+
+“Oh, well... okay.” Her mother said, then smiled at Ren. “Would you like to stay for supper?”
+
+Ren looked at her expectant face, at Jhulune's expectant face, and then at her father's borderline angry face. Outvoted 2 to 1. He thought and smiled. “Ma'am, I'd be honored to share a meal with you and your family.”
+
+“Wonderful!” Jhulune's mother said and smacked her husband on the arm. “Go back in the living room, Angus. The food will be ready soon.”
+
+“Gail.” Angus said.
+
+“Go! Shoo!” Gail said and pushed on him as hard as she could, and he didn't move.
+
+“All right.” Angus said and frowned a little at Ren, then turned around and went back to the living room and sat down.
+
+“Come in, come in!” Gail said and took Ren's other hand. “Right this way!”
+
+“Mom! He's been in a house before.” Jhulune said, and her mother laughed.
+
+“Not ours.” Gail said. “That's the living room, that's the dining room, and that's the kitchen.”
+
+“Geez, Mom.” Jhulune said and rolled her eyes.
+
+“It looks very nice.” Ren said. “Did you decorate it yourself?”
+
+“Oh, great.” Angus said from the living room. “Now you've done it.”
+
+“Hush, Angus!” Gail said crossly, then smiled at Ren. “In fact, I did do it.” She said. “I got the curtains from the tailor, the tables from the lumber yard, the mirror from the glassworkers-”
+
+“She didn't want to decorate, though.” Jhulune said to stop her mother's babbling. “When they rebuilt the house, they wouldn't make it the way she wanted.”
+
+Ren thought about it. “I can understand why they didn't.” He said. “Replacing with parts they already had would be much quicker than building new... assuming they even had plans for a different design.”
+
+“That's what I told her.” Jhulune said, then laughed. “Once she stopped complaining that the work crew wasn't listening to her.”
+
+“I'm sorry you couldn't get the house you wanted.” Ren said. “How much did they say the renovations would cost?”
+
+“More than the house is worth.” Angus said from the living room. “So we didn't bother.”
+
+“Plus, we got the house for free, and we didn't have to pay extra taxes this year.” Jhulune said and kissed Ren on the cheek. “I still can't believe you did that for us.”
+
+“Neither can the Finance Minister.” Ren said, and that made Angus bark a single laugh.
+
+“Go on into the living room while Jhulune and I finish with the food.” Gail said, and let Ren's hand go. Jhulune let his other hand go, and he looked into the living room.
+
+“Would you mind if I helped in the kitchen instead?” Ren asked, and Gail's eyes widened. “I know a thing or two.”
+
+“Well, if Angus doesn't mind...”
+
+“Like I care if he sits here and waits, or stands in the kitchen and waits.” Angus said.
+
+“Then come on in to the kitchen.” Gail said.
+
+With the three of them in the small space, it was a little hard to move around, but they managed to do it safely. Ren was careful where he put his hands while they worked, and intentionally grabbed Jhulune's behind only twice. The first time made her laugh, the second time made her grab his. Gail was well aware of this interaction, however; but try as she might, she couldn't quite make herself grab Ren's tempting behind and only blushed when the opportunity arose.
+
+Ren helped set the table and put everything into it's proper place, and discovered that it was only the 4 of them that would be eating. He was tempted to ask why Jhulune didn't have any brothers or sisters; but, he didn't want to spoil the happy mood if the answer wasn't a good one.
+
+“Angus!” Gail said as she and Jhulune set out the food on the table. Ren remained standing until Angus came to the table. Angus looked at him with an appraising look, then sat down.
+
+“Sit!” Gail said to Ren, and he nodded and sat down in the chair she pointed to. It was a 4 person table, so the father sat at the head, Ren sat on the left of him, Jhulune sat on the right of him, and the mother sat across from the head.
+
+Rather than grab the food right away, Ren sat there and waited. It was the right choice, because Angus took Jhulune's hand, and Jhulune took her mother's hand. Gail reached out to take her husband's hand, then smiled and held it out to Ren instead. He took it and held on, and looked at Angus.
+
+Angus had a bit of a frown, then shrugged slightly and held out a hand to Ren. He took it and then Angus spoke.
+
+“Thank you Mother Earth for the bounty we are about to receive. It was grown in your embrace, and we embrace ourselves to honor that. Without you and your care, none of us would be here.”
+
+Ren glanced at his face, and saw Angus was looking right back at him. Ren gave him a slight nod, then closed his eyes and concentrated on the Earth element. He remembered all the times he'd found things in the earth, both good and bad, and how he felt while he was digging in it and was surrounded by it on all sides. He let out some Mana as a kind of offering, and let it flow out through his hands.
+
+Ren felt Angus and Gail's hands tense up as they felt the Mana flow, then Jhulune caught her breath when it hit her. The Mana travelled around their joined hands and back to Ren to complete the circle, then it faded away. He lost 200 Mana and got a popup.
+
+Notice!
+
+Your meager offering has been reluctantly accepted by the Spirit of Earth. You have gained 5% to your Knowledge of Earth skill.
+
+“That's never happened before.” Angus said and looked at Ren.
+
+“I... ah... offered up some Mana to the Spirit of Earth.” Ren said. “I didn't know something like that would happen.”
+
+Angus grunted and looked at his wife and daughter. “Hard work got this food, so eat and work hard in return.”
+
+Notice!
+
+This table has been blessed by the Spirit of Earth. All food consumed here grants +5% Stamina, +5% Health, +5% Endurance.
+
+Duration of effect: 6 hours
+
+Angus let Ren's and Jhulune's hands go and grabbed the large bowl of what was supposed to be chunks of potatoes. He started to scoop them out, then discovered it was a large bowl of mashed potatoes instead.
+
+“What the hell is this?” Angus asked, a bit angrily.
+
+“It was Ren's idea.” His wife Gail said. “It took a little longer to make than normal; but, it came out well didn't it?”
+
+Angus grunted and put as small of a scoop as he could onto his plate and put the bowl back. Gail was a little worried that he didn't take much, since Angus loved potatoes; but she glanced at Ren, saw his grin, and smiled herself as she picked up the bowl. She took a good helping and passed it to Jhulune, who took some and passed it to Ren. He took the same amount as Angus and put the bowl down.
+
+The meat was next, and it was passed around in the same order; then the vegetables made the trip. Everyone waited for Angus to take the first bite of food, which turned out to be the mashed potatoes, and they waited for his reaction. Ren had added quite a bit of butter and some milk, to make it more creamy, and mashed the heck out of them to make them nice and fluffy. Angus didn't react at all from the first mouthful, and took another. He glanced at Ren for only a second, then picked up the bowl of mashed potatoes and gave himself another large helping.
+
+Jhulune and her mother grinned and started to eat, and Ren joined them. The meal passed quietly as they ate and enjoyed the slightly different flavors, and no one felt like they needed to talk in order to break that silence.
+
+“Time for dessert!” Gail said when everyone was done of the main meal, and stood up.
+
+“None for me, thanks.” Angus said and pat his stomach. He had eaten the rest of the mashed potatoes when no one else wanted them. Ren knew there was no higher compliment than that.
+
+“You're going to want this.” Gail said as she went into the kitchen and grabbed a small platter and brought it in.
+
+“What is that?” Angus asked and stared at the dozen puff pastries with whipped cream on top.
+
+“Just try them.” Gail said and held the platter close enough for him to take one. Angus looked at her, at Ren, then sighed and reached for one. “Delicately. They're really soft.”
+
+Angus nodded, gently picked one up, and looked at it. He wasn't sure how he was supposed to eat it, so he just tossed the whole thing into his mouth and started to chew.
+
+“Geez, Dad!” Jhulune snorted a laugh and picked one up herself. “You don't have to wolf it down.” She took a small bite of it and sighed in pleasure. Ren took one, winked at Jhulune, and popped the whole thing into his mouth.
+
+“You're just as bad!” Jhulune said and laughed. Her mother put the tray down and took one herself.
+
+“Oh, dear!” Gail said as she bit into it. “That's so... so...”
+
+“Heavenly!” Jhulune said and looked at Ren. “Where did you learn to make these?”
+
+“Two master cooks in the dwarf lands showed me a few things...” Ren smiled. “...and yes, before you ask. I showed them a few things, too.”
+
+Gail laughed and put a hand on his shoulder. “I watched you make these, and I still can't figure out how you did it.”
+
+“I can give you the recipe.” Ren said. “Do you have a piece of parchment?”
+
+“I'll get it!” Jhulune said and left the dining room at a run.
+
+“Jhulune! Don't rush!” Gail nearly yelled at her. “I don't think he's going to change his mind in the extra few seconds it'll take for you to walk to the cupboard.”
+
+“Sorry, mom.” Jhulune said and came back with the piece of parchment. Ren wrote out the recipe and how to do the steps in the right order, and the techniques he used to make them.
+
+“You should write a cook book.” Gail said and looked at the recipe Ren handed to her. “You're so descriptive that I feel like I've already made them!”
+
+Ren chuckled. “I'm pretty sure I don't know enough for a cook book; but, thank you for the compliment.”
+
+Gail rolled the parchment up and tucked it into a pocket. “Go on and sit in the living room while Jhulune and I clear everything up.”
+
+“Allow me.” Ren said and stored the dirty dishes and took them back out again.
+
+“Storing them does that?” Jhulune said.
+
+“Unless there's a lot of food on it.” Ren said. “Then it just stores it.”
+
+“Wipe off chunks of food before storing them.” Jhulune said. “Got it.”
+
+“We still need to put them all away.” Gail said. “Go on, go on!”
+
+Ren stood up and looked at Angus, who had already eaten 3 more puff pastries.
+
+“Yes, I'm coming.” Angus said and stood up, grabbed another pastry, and went into the living room with Ren close behind.
+
+*
+
+“Did you see dad scarf down those potatoes?” Jhulune asked her mother as they carried the clean dishes into the kitchen.
+
+“I think the neighbors could see it.” Gail said, and they laughed as they put the dishes away.
+
+“So, what do you think of him?”
+
+“Jhulune...” Her mother sighed. “...he'll never be yours.”
+
+“I know, Mom.” Jhulune said and went back to the dining room and grabbed the large dishes the food was in and brought them back into the kitchen. “He warned me we wouldn't be dating or have a relationship or anything.”
+
+“And yet you brought him home.”
+
+“I wanted you to see that there are people who treat me with respect.” Jhulune said. “I didn't want you to think that I wouldn't find someone.”
+
+“Not him, surely.” Gail said. “You know that he-”
+
+Jhulune shook her head. “No. He's got more than enough going on without me trying to make him my boyfriend.”
+
+“Boyfriend?” Gail laughed. “I was thinking more along the lines of husband and children.”
+
+“Mom!” Jhulune said, and tried to hide the ring Ren had given her. “I'm too young to think of that!”
+
+Gail pat her daughter's hand with the ring on it. “Then you should just have fun with the nice young man.” She said. “I'll worry about the husband part.”
+
+“Mooom!” Jhulune said and her mother laughed again.
+
+*
+
+“So.” Angus said as he sat in his big chair. “What are your intentions towards my daughter?”
+
+Ren sat there and wasn't sure what to say. He couldn't just blurt out that all he was going to do was sleep with Jhulune, or that he wasn't planning on dating her or anything.
+
+“You're not planning on marrying her, are you?” Angus asked, and Ren shook his head.
+
+“No, sir.” Ren said. “I was engaged not too long ago to a woman that I love very much, and I told her that I would never look for another wife when it didn't work out.”
+
+Angus grunted, and Ren wasn't sure if it was in agreement or disagreement.
+
+“When a man makes a commitment to a woman, there's no other priorities to uphold.” Angus said. “It's just like you said. Even if it doesn't work out, you should never try to replace them.”
+
+So, the grunt was in agreement. Ren thought. Good to know.
+
+Angus looked into the kitchen and saw his wife and daughter with their heads together as they talked, then looked back at Ren. “I've had several boys in here that asked to date my daughter.” He said and stared at Ren. “I suppose you want to plead to me for permission, too.”
+
+“No, sir.” Ren said. “I wouldn't presume to do something like that to you.”
+
+“Why not?” Angus asked and frowned.
+
+“Jhulune is a smart and resourceful girl. You raised her well. If she wants to date someone, it's her I'd need to ask.” Ren smiled. “Or plead with. Not you.”
+
+Angus scowled for a moment, then let it go and had a blank face that showed no emotion.
+
+“She's old enough to make that decision for herself.” Ren said. “All you have to do is decide if you trust her judgment or not.”
+
+“I trust her.” Angus said right away. “It's everyone else that I don't trust.”
+
+Ren nodded. “That, sir... was the best answer you could have given.” He said and smiled. “You're a good father to believe in her so much, and still care about how other people treat her.”
+
+Angus didn't say anything in response.
+
+“I saw right away where she got her looks from.” Ren said. “After talking to both you and your wife, I know where she got her Intelligence and Wisdom from.”
+
+Angus still didn't speak, but he did give Ren a small nod.
+
+“Hey! What are you two discussing?” Jhulune asked as she came into the living room, then sat down on Ren's lap and put her arms around his neck.
+
+“Fishing.” Angus said without missing a beat as his wife Gail did the same move to him.
+
+“It's terrible near the harbour.” Ren said. “All those boats churn up the water and scare the fish away.”
+
+“It's definitely a problem.” Angus said as his wife leaned in and put her head on his shoulder.
+
+“I think that's enough man talk.” Gail said and kissed her husband's neck. “Jhulune? Why don't you show Ren the upstairs.”
+
+Jhulune leaned in and put her head on Ren's shoulder and kissed his neck. “I think that's a great idea.” She said. “We can hang out in my room.”
+
+“Then go on.” Gail said. “Your father and I need to discuss something.”
+
+Jhulune grinned as she got up off of Ren and held a hand out to him. “Let the redundant house tour continue.”
+
+Ren chuckled and took her hand, and she led him out of the living room and up the stairs.
+
+“That's my parent's room.” Jhulune said and pointed with her free hand at a closed door. “Spare room.” She said and only made a small wave in the direction of an open door. “That's a closet.” She said and didn't even bother to point, then turned around and leaned against the door to her room. “This is my room.”
+
+“I can't wait to see it.” Ren said, and her eyes widened.
+
+“Um... wait! Wait! Turn around!” Jhulune said and let his hand go, then tried to turn him around. Ren chuckled and turned around for her, and he heard her room door open and shut.
+
+“There's clothes tossed everywhere.” Teepo chittered softly in laughter as he whispered into Ren's ear. A couple of minutes later, the door opened and a slightly dishevelled Jhulune looked at him with a smile.
+
+“Come in.” Jhulune said and stepped back, and there wasn't a trace of clothing anywhere to be seen.
+
+“I'm glad the Ring of Storage is coming in handy.” Ren said teasingly, and Jhulune chuckled.
+
+“You shouldn't have peeked! I didn't want you to see how messy it was!”
+
+“I didn't.” Ren said and pointed a thumb to Teepo on his shoulder.
+
+“Teepo!” Jhulune exclaimed mockingly. “How could you?!?”
+
+“I have working eyes.” Teepo chittered in laughter. “I'd say I'm sorry, but it's my job to scout.”
+
+Jhulune shut the door behind them and told Ren to sit on the bed. He did so, and Teepo took off and landed on the ceiling. Jhulune sat beside Ren and he looked at her.
+
+“We're all alone.” Jhulune said in a breathy voice.
+
+“We're also in your room, in your parent's house.” Ren said. “With your parents downstairs.”
+
+Jhulune ran a hand through his fluffy hair and leaned in close. “They'll ignore anything we do as long as we're quiet.” She whispered to him, slid her arms around his neck, and kissed him. Ren kissed her back, and when her hands slid down his tunic towards his waist, he moved back.“Jhulune, we can't.”
+
+“Why not?”
+
+“Please refer to my previous statement.” Ren said and smiled. “Your parents are downstairs.”
+
+Jhulune laughed. “Ren, they're probably going at it right now.”
+
+“Wait, what?” Ren asked, surprised.
+
+“Mom and dad never 'discuss' anything.” Jhulune said. “I doubt they waited for us to get all the way up the stairs before they started.”
+
+“You're kidding!”
+
+Jhulune shook her head. “You got mom good and fired up with all that flirting and cooking.” She said. “Dad's probably raring to go, too.”
+
+“How can you be so casual about it?” Ren asked her.
+
+“They usually wait for the weekend to play around, but with us showing up like this and pretty much encouraging them...”
+
+“I didn't encourage them.”
+
+Jhulune smiled. “Dad loved those mashed potatoes.” She said. “That would have been enough to get him going. Teaching mom to make the puff pastries on top of that?” She chuckled. “I'm a little surprised he didn't kick us out of the house until morning.”
+
+Ren sighed. “I still don't think we should... I mean, this is your bed, and...”
+
+“Ren.” Jhulune gave him a very serious look. “If we do it here, every time I go to bed, I'll remember you.”
+
+“That's kind of why I don't-”
+
+“I want to remember you!” Jhulune said. “I want your arms around me! I want you to hold me tight!” She said and wrapped her arms around his neck. “Be mine, Ren.” She said and kissed him. “For tonight. For the few fleeting hours we have left before you have to go... please, be mine... and let me be yours.”
+
+Ren had already agreed to be hers for the night a long time ago, it was just the chosen venue he had a bit of a problem with. Jhulune seemed fine with it, though; so, he nodded. Jhulune squealed a little bit from happiness as Ren stood up and took off his Dire Wolf Hooded Cloak and folded it on a nearby chair, then he crawled onto the bed and locked lips with her. Jhulune moaned as Ren put his practised make-out skills to good use.

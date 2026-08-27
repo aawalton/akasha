@@ -1,0 +1,373 @@
+---
+id: 6d573756-5a38-53e9-93d2-0a401dd7b425
+page-type-slug: story-chapter-royal-road
+title: "Chapter 394 - New Residents"
+slug: 0390-chapter-394-new-residents
+partOf: mythrans-master-of-all-continued-completed
+position: 390
+ownLength: 4139
+unit: words
+publishedAt: 2017-10-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169234/chapter-394-new-residents"
+royalRoadId: "169234"
+---
+
+“I hope your offer is a sword to the throat.” One of the men laughed, almost hysterically. “Because it's better than the rope my own family offered.”
+
+Ren felt he was telling the truth, and that made him angry. “No.” He said and took a breath. “I want to offer you a new place to live.”
+
+“Are you kidding?” One of the women asked.
+
+“No, ma'am.” Ren said. “I'll even build you homes and provide everything you need to live.”
+
+The first woman brought in reached out and touched Ren's hand. “Why?”
+
+Ren felt her confusion quite strongly now that they were in direct contact, and he turned his hand and held onto hers.
+
+“I want to help people.” Ren said. “You didn't ask for this to happen, and you're being treated differently because of it.” He smiled, and he felt her confusion start to fade. “Since you apparently can't stay here, I'll take you.”
+
+A tear came to her eye, and Ren gave her a scrap of cloth to wipe it.
+
+“What about our families?” A man asked. “What if they want to come with us?”
+
+“If they want to come with you, then bring them.” Ren said. “I won't tear a family apart if it's not necessary.”
+
+“My wife won't even look at me.” The man that had talked before said. “I'm wearing everything I own.”
+
+“ I know my parents won't come; but, I think my sister would.” A young man said. “If I could talk to her.”
+
+“I'm a widower and my children are grown and have their own families.” An older lady said. “I'm not really needed here, and won't be missed.”
+
+“I think we should call a forum.” A woman said. “Family and friends only. Then we can find out for sure who wants to come and who doesn't.” She looked at Ren. “I'll gladly take your offer.”
+
+“Me, too.” The older lady said.
+
+“We all will.” The first woman said, and all 8 people nodded. Ren felt a slight pulse from the mark on his hand, and looked at it. The spider image glowed slightly, and he let the woman's hand go. His mark stopped glowing, and Ren had a really odd idea.
+
+“Ma'am? Can I see your mark again?” Ren asked her, and she nodded. He reached out and moved the cloth of her top aside, then used his right hand to touch the faded skull. The woman gasped as her mark throbbed, and the mark on Ren's hand glowed again. He felt that she didn't mind him touching her at all, and she blinked her eyes at him.
+
+I think she can feel a bit of my emotions. Ren thought and smiled. I wonder... “This is Mine!”
+
+Notice!
+
+You have declared sovereignty over the Arcane (Void) mark: Ghoul Kissed (Skull).
+
+Do you wish to add the holder of this mark to your domain? Yes / No
+
+“Yes.” Ren said, and felt a sharp pain on the back of his hand. His tarantula had suddenly appeared there and bitten the mark. To Ren's surprise, the mark on the woman's chest was reproduced on the back of the tarantula. He was about to ask what had happened when it scurried up his arm and back into the cloak. It was then that he noticed that the mark on the back of his right hand had also been altered in the same fashion. The picture of a spider now had a skull on the back of it.
+
+That's kind of cool. Ren thought.
+
+“I... I feel so much better!” The woman said. “Thank you.”
+
+Ren smiled and nodded to her, then looked at the next person. “May I?”
+
+The man pulled his shirt open and Ren touched the mark, claimed it, and added the man to his domain. The spider didn't come back this time, though.
+
+I guess once I have the mark, I can claim and add as many people that have it to my domain. Ren thought.
+
+The other 6 people let him claim them as well, and Ren turned to look at the town council.
+
+“Ladies and gentlemen, as you have witnessed, those marked by this tragedy have chosen to voluntarily leave this town to go to a land far away.” Ren said formally and gave them a slight bow. “I humbly request that be taken into consideration when you make your declaration about this quest.”
+
+The town council looked at each other, at Ren, and then at the town elder. They gave him a slight nod, and he smiled.
+
+“Nicely spoken.” The town elder said to Ren. “Your request has been accepted and granted.” He made a slight gesture, and the guard walked away from the people that had been escorted in.
+
+Clint stepped forward and produced the cart of clothing and items they had found, told them about a large unmarked graveyard that was empty, and then he waved and Hank hauled in the cart with the dark elf headless bodies in it. With Ren's help, Clint explained the rogue dark elves involvement.
+
+“In light of this new development... I, and the town council, are more than satisfied that the requirements of this quest have been met.” He smiled broadly. “I declare this quest complete.”
+
+Ren felt that everyone was happy with his compromise, especially the marked ones, and then he received a popup.
+
+Quest Complete!
+
+The Reckless Rough Riders have completed a quest. Since all XP earned is given to the leader and then a copy of it is divided up among the other party members, you will receive a percentage of the total.
+
+Your percentage: 20% (1 of 5)
+
+Quest Breakdown:
+
+Creature (Deaths)  XP
+
+Ghouls (616)  616,000
+
+Large Ghouls (58)  116,000
+
+Dark Elves (8)  80,000
+
+Dark Elven Lord (1)  50,000
+
+Misc Breakdown:
+
+Bonus (Number)  XP
+
+Civilians Saved (198)  198,000
+
+Party Leader Fame Bonus (+125%)  1,194,500
+
+XP TOTAL: 2,150,100
+
+Your Share (20%)  430,020
+
+“Holy crap!” Ren exclaimed, then immediately apologized to the town council for his outburst.
+
+System Notice!
+
+Congratulations! The Reckless Rough Riders have earned enough XP to reach the second spot on the XP leader board. The party name (and it's members) have been published on the main server and the message board.
+
+Bonus: +1000 Fame
+
+Notice!
+
+You have changed the town council's opinion and gained 8 new members to your domain.
+
+Bonus: 12,000 XP; 2,500 Fame
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame: 3,500 x 10 XP = 35,000 XP
+
+Level Up!
+
+You have gained 7 levels! You are now Level 80 and 70 stat points have been automatically allocated. You have unlocked: (HIDDEN) (Spell), (HIDDEN) (Wondrous Item Recipe), (HIDDEN) (Recipe), Enhanced Crafting (Skill), Faster Crafting (Skill), (HIDDEN) (Skill).
+
+What? Some of them are hidden? Ren thought in surprise. What the hell?
+
+“Wow.” Teepo said, shocked. “I just gained 4 levels.”
+
+Anything hidden? Ren asked him.
+
+“No.” Teepo said. “I wonder why some of yours are.”
+
+“Ah thank y'all kindly fer lettin' us help ya out.” Clint said to the town council and nodded slightly. Ren could feel that Clint and the other party members were quite shaken over the enormous XP total.
+
+“No, no.” The town elder said. “Thank you, Adventurers!” He grinned. “You have saved this town and it's people from further torment and bloodshed.”
+
+The town council clapped three times, stood up, and left the room. The town elder followed them out through the back door, and it shut with a loud bang.
+
+“Ah'm thinkin' we're no longer welcome here.” Clint said and chuckled.
+
+“That's probably my fault.” Ren said and looked at his 8 new county residents. “Let's get your families to that forum.”
+
+They smiled and Clint asked Ren to store the cart of clothing and items, while he looted the dark elves. Everyone left the town hall and saw that people were still gathered in the streets in large numbers, and they talked about everything that had happened. Teepo had been right. Everyone in the town would know what had happened down in those tunnels, both the good and the bad.
+
+The family members of Ren's new citizens gathered together and discussed their options, and Ren was surprised that a lot of them had agreed to move. Even the man whose wife said she didn't want to see him again, had only said those things to him because she didn't want to be shunned by the other townspeople.
+
+Ren had enjoyed a very large feeding of good emotions from them, and his Emotion Siphon ability had leveled up again. Now that they knew who was going and who was staying, they followed Ren back to the town hall and Princess. Ren took out the first cart to attach to her, then took out the next cart.
+
+Ren told them to go home and gather the things that they wanted to take with them. They dispersed before he had even finished speaking and Teepo chittered in laughter.
+
+“They're just as eager as we are to get out of here.” Teepo said.
+
+Ren smiled and waited for the marked ones and their families to come back, and reminded Clint to take his tower.
+
+“Mah tower?” Clint asked and looked at it. “Tha's mah tower?”
+
+Ren leaned close and whispered the command word to him, and he laughed.
+
+“Yer a real joker.” Clint said and looked at the tower. It took him three attempts to say the command word properly. “Supercalifragilisticexpialidocious.” He said and it shrunk down to the 1 inch wide cube and he picked it up. “Hey, it's ligh'.”
+
+“That's what a lot of the Mana is for.” Ren said. “Make sure you put it to good use.”
+
+Clint smiled and stored it, and the marked ones and their families came back to the town hall. Ren now had 30 people to take care of, and they climbed into the train carts carrying sacks and boxes.
+
+On their way out of town, they stopped and met Elerlyth, and Ren told the rest of the party to go on home without him. Clint tried to refuse at first; but then Ren convinced him to get home as fast as he could without wasting time, and then cast Widen Effect on their steeds so they would last long enough.
+
+Ren also handed over everything he had looted during the quest, and Clint added it to the pile that he had.
+
+“Ren, I'm staying with you.” Elerlyth said. “I know it's going to take a lot longer to get back this way, but I'd rather go on the long drive with you, instead of getting there fast and having to wait for you.”
+
+“Like I did to get here.” Ren said and chuckled.
+
+“You kept busy, though.” Elerlyth said. “I'd just be sitting around and waiting.”
+
+Ren nodded. “All right, but you're riding Etheria for as long as you can.”
+
+It neighed at Ren, and Eleryth smiled and pat the steed.
+
+“We're takin' a break 'til nex' weekend in real life, an' then we're jus' hangin' ou'.” Clint said. “Yer both welcome ta come.”
+
+“I might be busy I think.” Ren said. “It all depends on when the horses show up.”
+
+“Horses?”
+
+“I ordered 60 horses, and the Lady that sold them to me will be bringing them by this week.”
+
+“60 horses? Wha' are ya doin? Breedin'em?”
+
+“No, they're for transport for the people of Goagan City.” Ren said, then smacked himself on the forehead. “I forgot to make more carts.”
+
+Clint chuckled and looked at the carts Ren had made today. “Yer no' gonna have any trouble wit tha'.”
+
+Ren smiled. “I'll be by the ranch tonight to pick up the girls, now that I've got the transport to handle them.”
+
+“Ah'll tell 'em ta git ready, an' ah'll have yer share of tha loot then, too.” Clint said. “See ya later.”
+
+“Bye, Clint.”
+
+The guys took off flying and Ren asked Princess to take them home at a good speed. Elerlyth and Etheria kept pace with them along the way. Ren kept the Staff of Earth ready, in case the road needed repairing or smoothing out, and he had to do that occasionally. They stopped for lunch about a third of the way home, and Ren figured that Clint and the guys would get to the ranch soon.
+
+Ren gave everyone a plate of food, and they were very grateful for the meal. They went on the road again, and now that they had experienced what it was like to be hauled by Princess at a faster speed, Ren asked if they could take going faster.
+
+“There's only one way to find out.” One of the men said, and Ren told Princess to go faster.
+
+Even at the much faster speed, they didn't arrive at Clint's farm until late that evening, just after supper. Ren added another cart to the train and helped load the exotic dancers and their things into it. They were actually happy to stop relaxing and to get back to work, and with his ability, he could tell it was true. Clint gave him his share of the loot, which turned out to be 6 platinum coins, and also all of the old clothes and leather pieces in the crate.
+
+“What was in the chest Hank stored?” Ren asked.
+
+“Almos' 2,000 Gold.” Clint said and grinned. “T'was definitely worth tha trip jus' fer tha'.”
+
+Ren thanked him, and Princess hauled the train carts for the two hours it took to get to Aurora. It took another hour to arrive at his county, and they saw the 40 foot tall dirt wall and 20 foot wide moat that surrounded it. It was really late at night now, and when they came to a stop in front of the Main House, everyone was exhausted.
+
+“Ugh, remind me never to do that again.” One of the marked men said as he opened the door on the cart and stepped out rubbing his back. He turned and helped his wife climb out, and she hugged him.
+
+“I'm pretty sure we're not going to be hauled across the countryside again.” The woman said. “Although, we probably should have brought more of our things along.”
+
+“Now, now.” The man said as someone passed him their baggage. “Lord Ren was generous enough to accept us. We couldn't abuse his generosity and have him haul our furniture, too.”
+
+“I actually have a business that sells furniture.” Ren said and unhooked Princess from the train carts. “It's based in Aurora, though.”
+
+“Not here?” Someone asked.
+
+“I had the business long before getting this county.” Ren said. “I don't think I'll make one here, since I can only have one in each kingdom.”
+
+“Really? That's horrible.” The marked older lady said. “Every town I've been in has a blacksmith, a general store, a tailor, and a few other things.” She smiled “You Adventurers have some odd restrictions.”
+
+Ren chuckled. “I'm not going to complain. Having just one is enough.” He brought Princess over to the Main House so she could plop down on her mattress. He gave her some food and went back to the train carts.
+
+“So, are any of those houses ours?” The young marked man asked and pointed.
+
+“Wow, it's a whole town worth of houses!” His sister said. “I can't count how many!”
+
+Teepo flew up and came back down. “They're all done, so 300.”
+
+“There's 300 of them.” Ren said, and everyone looked at him.
+
+“You're kidding.” The sister said.
+
+Ren chuckled again. “No, but most of them are spoken for by the townspeople. I'll have a work crew out here, hopefully tomorrow or the next day, to build houses for you.”
+
+“Where are we going to stay tonight?”
+
+“There's lots of room in the Main House upstairs.” Ren said. He was about to say something else, then turned to see Tee-one walk towards him with Ruck right behind. “Hey, guys.”
+
+“Hi, Ren.” Tee-one said and Ruck waved. “We'll make up a refugee center for them, so they'll at least have room dividers.”
+
+“Good idea.” Ren said. “Ladies and gentlemen, if you'll wait right here, my friends and I will have accommodations ready for you soon.”
+
+“Ren what do you want me to do?” Elerlyth asked.
+
+“Elerlyth! We're in public!” Ren exclaimed, and he felt her embarrassment and a bit of anger. He gave her a big smile and took her hand. “All I want you to do is relax.” He said. “Oh, and stay sexy. That's a must.”
+
+Elerlyth snorted a laugh.
+
+“We'll be done soon.” Ren said, and then whispered. “I have an unused apartment upstairs in the Main House.”
+
+Elerlyth nodded, and Ren walked up the road a short way with Tee-one and Ruck, and they built a large Refugee Center in only half an hour. They also made 40 beds and various things for the inside less than 20 minutes later and came back out. Ren went to the exotic dancers and told them they wouldn't be staying in the center.
+
+“Everyone else? You can head on over and pick out where you want to sleep.” Ren said, and the 30 people he had taken from the quest town gathered up their things and walked up the road.
+
+“Why can't we sleep in a nice bed?” The woman who liked being ordered around asked.
+
+Ren chuckled. “You will be.” He said. “Tee-one? I had an idea while I played around with the Instant Tower recipe.”
+
+Tee-one nodded. “That is a good idea, but can you stack that much onto your Craft Wondrous Item platform?”
+
+“I'm sure it will let me add it in stages, just like the Mana.” Ren said and opened the Instant Tower recipe. Tee-one could see it, and they started altering it to fit what they wanted.
+
+“We can cut the thickness of the wall, since it's not a defensive structure.” Tee-one said.
+
+“We can also add extra metal to reinforce the second floor.” Ren said and added it. “We can keep the battlement walls on top...”
+
+“...and we can modify the middle so that it's at a normal room height, and then add individual rooms for the dancers in the back with wood.” Tee-one said. “If we do that...”
+
+“...then we can add the single booths on the first floor under them, also out of wood.” Ren said and added them, along with a large dancing stage in the main room with 12 smaller ones around it. “With those easily accessible but separate from where they live...”
+
+“...they can go to work and not have it interfere with where they sleep.” Tee-one said.
+
+“They'll need a separate stairway and entrance for the living space.” Ren said and added them.
+
+“You were going to add that anyway.” Tee-one said, and Ren saved the recipe and called it 'Pleasure Palace'. “You better take out the Major Healing wand. We're both going to need a lot of Mana for this.”
+
+Ren nodded and handed it over, then took out a step ladder for Tee-one to climb up on.
+
+“What are you doing?” One of the dancers asked.
+
+“Using a ton of resources to make something for you instantly, rather than take hours to build it.” Ren said. “Here goes.”
+
+Ren activated his Craft Wondrous Item ability and choose the 'Pleasure Palace' recipe. It asked for 200 iron ingots; 250 wood planks; 500 stone bricks; 40,000 Mana; A pile of cotton batting; 2 bolts of fabric; and 5 platinum coins. Ren and Tee-one stacked the iron ingots carefully onto the 1 foot by 1 foot square golden platform, and cross-hatched them so they wouldn't slip. The iron ingots disappeared when the last one was placed on the stack, and then they started on the stone bricks.
+
+They stacked 100 stone bricks and they disappeared, and Ren was glad that it was taking them like he had hoped. They did 4 more stacks, added the wood and fabric items, then added 10,000 Mana each. Tee-one used the Major Healing wand to heal them, which refilled their Mana. They added 10,000 more Mana each, making a total of 40,000 Mana; and Tee-one used the wand again while Ren put the 5 platinum coins onto the platform.
+
+The coins disappeared and Ren spoke the command word while concentrating on the dancers, and the platformed glowed for 5 full minutes. Both Ren and Tee-one were surprised when a 1 foot by 1 foot metal, stone, and wood cube appeared.
+
+Ren laughed. “I think we just discovered the maximum size of anything I can make with this recipe.”
+
+“What... what is it?” The dancers asked and gathered around him.
+
+“This is your new business.”
+
+“WHAT?!?” They all said together.
+
+“I know it doesn't look like much now.” Ren said and stored it as the glowing platform disappeared. “Follow me, please.”
+
+The women followed Ren as he walked down the road, and they talked animatedly about how crazy he was. One woman spoke up in his defense, though.
+
+“He's not crazy.” She said. “He's rich. That means he's eccentric.”
+
+The other dancers thought about it quietly for several minutes, and then Ren came to a stop.
+
+“This spot is only temporary, unless you like it here.” Ren said. “I'll move you out to the edge of the county later if you want.”
+
+“We'll try it here and see how business goes.” One of them said while Ren took out the 1 foot wide cube. “I don't know how we're going to work on that thing.”
+
+Ren chuckled. “You'll see.” He said and took out the Staff of Earth, then used it to flatten out a space for a parking lot and the business. He walked over to the middle of the cleared space and put the cube down. He walked back to the waiting women and watched their faces as he spoke a short stream of gurgles. The Pleasure Palace popped into existence before their eyes, and they all gasped.
+
+“That... that's not possible.” One of them said and stared at it.
+
+“IEEE!” Jennifer, who had Billy as a regular customer, squealed. “It's a castle!”
+
+There were 4 towers, one on each corner, with windows instead of arrow slits. It was 80 feet wide, 80 feet long, and 30 feet high; with 2 floors in both the towers and the main building. Ren felt their shock and Jennifer's happiness.
+
+“Tell me there's a dungeon!” Jennifer jumped up and down. “Tell me! Tell me!”
+
+Ren chuckled. “I'm not going to tell you what to put in your own private work spaces.” He felt a strong ripple of surprise and need pass through them. “You... ah... have living quarters upstairs, and a corresponding private work room below it.”
+
+“I... I think he's serious.” One of the women said and looked at her friend beside her. “We won't have to trade off, or have to wait to use a private area!”
+
+A couple of the girls were quite happy about that, but he felt one dissenter. Ren turned to her and spoke.
+
+“Can I ask what you don't like about it?”
+
+She looked at him with wide eyes, and then sighed. “I... I don't want to do the private rooms anymore.”
+
+“Good.” Ren said, and she looked at him. “The girls need a manager that knows the business inside and out. The private room below your bedroom will be your office.”
+
+“Wh-what?”
+
+“Congratulations, Manager.” Ren said. “Do the girls proud.”
+
+“But... but I still want to dance...”
+
+Ren smiled at her. “You can do whatever you want, remember? I'm giving this place to you.” He looked at the other girls. “I'm giving it to all of you.”
+
+The new manager stared at him. “You really meant that?”
+
+“Look around you. Do you think I can run all of this stuff by myself?” Ren chuckled. “I'm having a hard enough time just having everything built!”
+
+The woman reached out and put a hand on his shoulder. “Thank you.”
+
+“You're still competing for the first dance, right?” Ren asked her, and she nodded. “Then that's all the thanks I need.” He stepped away from her and waved to the door. “The door opens at your command, and I'll add the draw bridge tomorrow.”
+
+“Does that mean we don't have to let people in if we don't want to?” One of them asked.
+
+“That's right. It won't open without your say so. I'll set up the business part tomorrow, too.” Ren said and yawned. “I really need to get some sleep.”
+
+“What about beds?” One of them asked.
+
+“They're already in there.” Ren said and started to walk away. “Sleep well.”
+
+“We will!” Jennifer said and waved, and then the door to the Pleasure Palace opened at one of the dancer's command and the 12 dancers went inside to marvel at what Ren had made just for them.

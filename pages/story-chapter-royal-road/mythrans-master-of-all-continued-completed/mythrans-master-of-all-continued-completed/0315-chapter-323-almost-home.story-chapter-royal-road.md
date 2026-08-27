@@ -1,0 +1,357 @@
+---
+id: d3990619-7bc8-55bb-b26b-3cb1eb55ba0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 323 - Almost Home"
+slug: 0315-chapter-323-almost-home
+partOf: mythrans-master-of-all-continued-completed
+position: 315
+ownLength: 3818
+unit: words
+publishedAt: 2017-08-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153477/chapter-323-almost-home"
+royalRoadId: "153477"
+---
+
+Ren woke up in bed with 5 topless women, and felt like he was truly blessed. He could feel contentment and relaxation throughout the shared Aura, and he added his own contentment and appreciation to it. With even that slight change in the Aura, he felt the maids wake up from the disturbance.
+
+“I'm sorry.” Ren said and eased back how much he was sharing. “I didn't mean to wake you.”
+
+“Please, don't pull away.” Frikara said. “It woke us because we've become sensitive to everyone's mood.”
+
+Lusinia nodded, and Ren felt agreement enter the Aura. “When we felt that you are just as content as we are, we... well, I wanted to tell you how much it means to me.”
+
+“Me, too.” Andrela said.
+
+“And me.” Navruth said.
+
+“I'm hungry.” Verwynn said, and everyone laughed. “What? He can feel what we feel. He knows it means a lot to us.”
+
+“Then you all should know how much it means to me, too.” Ren said, and let that flow into the Aura. “I like that we can all lay in bed together and accept each other for who we are, and are comfortable enough with each other that we don't need to wear clothes if we don't have to.”
+
+Frikara chuckled. “Well, we didn't give you a lot of choice there.” She said. “We were going without clothes anyways, and we were really happy that you didn't order us to stay dressed.”
+
+Ren smiled. “What if I ordered you to stay undressed?”
+
+Frikara laughed. “You don't need to order that.” She said and leaned over Lusinia to put her face next to Ren's. “You don't even need to ask, actually.” She said seductively. Ren felt that she meant it, and not just for her. He looked at the others and they all nodded.
+
+“You'd walk around, completely naked, all the time?” Ren asked. “All of you?”
+
+“We'd do anything for you.” Andrela said and lightly kissed his abdomen. “Anything.”
+
+They all felt a thrill pass through the Aura, and the other maids looked at Frikara.
+
+“It wasn't me.” Frikara said.
+
+“It was me.” Ren said, and the maids looked at him. “I've never been kissed there before.”
+
+“But... you've...”
+
+“Yes, I've been with a few women.” Ren said and smiled. “That doesn't mean they've touched me everywhere.”
+
+Frikara looked at the other maids and grinned as mischievousness flooded the shared Aura. “Shall we fulfill his unrequested request?”
+
+“Oh, yes.” Andrela said and kissed the spot next to where she had just kissed him.
+
+“W-w-wait...” Ren stammered, and then he was covered in kisses all over his body. He'd never felt anything like it before, with 5 sets of lips doing their best to cover every inch of his exposed skin; and he wasn't sure what to do about it because it felt really good. It took about 5 minutes for the maids to finish, then they sat up with very satisfied looks on their faces.
+
+They had felt how much Ren had enjoyed what they did, but they also felt that he really liked that they didn't push it too far, or try to take advantage of his weakened and quite distracted state by either moving, or removing, his underwear.
+
+“Um... I...”
+
+Frikara leaned in close to his face again and spoke. “Just say, 'thank you'.”
+
+Ren cupped the sides of her face with both of his hands. “Thank you.” He said, and kissed her. Another thrill went through the Aura, and they all knew it was Frikara this time. Ren broke the kiss and turned to Verwynn and kissed her, too. Navruth was next, then Lusinia. Lastly was Andrela, and he could feel her anticipation. He kissed her with the same amount of attention that he had given the others.
+
+“Oh... oh my.” Frikara said as she floated on everyone's feelings, and she let them fill her up. “Ren, thank you so much for giving us this shared Aura.”
+
+“We can't thank you enough for it.” Lusinia said. “It lets us know where you are, when you're close enough that is; and it's also brought me and my fellow maids closer together.”
+
+Andrela nodded. “That's been one of the best parts of all of this.”
+
+“What we just did is right up there with it, though.” Navruth said, and Ren felt everyone's agreement.
+
+“I'm still hungry.” Verwynn said, and they felt a hunger pain enter the Aura.
+
+“I'll make breakfast.” Ren said, and started to get up.
+
+“Can't we do what we did before?” Frikara asked. “I want to share food again.”
+
+“You're trying to spoil me, aren't you?” Ren asked, then chuckled when he felt Frikara's embarrassment. “Then go ahead.” He said and felt her happiness at his acceptance. “I'm kind of hungry, too.”
+
+Frikara touched his hand, squeezed it a little, then went to the icebox to get some plates of food.
+
+*
+
+The short captain couldn't believe how fast the ship could go. He'd tried his best to ignore his ingrained training that a ship couldn't handle going too fast and would break apart; but, he just couldn't bring himself to push the speed lever up past the halfway mark.
+
+“LAND, HO!” Glint yelled from the scout perch in the crow's nest, which was on top of the main mast.
+
+“Prep for landing!” The short captain said and brought the boat's speed down to a quarter, which was half of what it was, and the ship slowed down to the speed it would have travelled at with the old engine.
+
+That's more like it. The short captain thought as the dwarf crew dropped the sails and ran out the oars. There was a facade for them to maintain, so that no one else would know how much faster dwarf ships were than every other ship. Except for this one. He thought. I've never seen a ship move this fast before.
+
+*
+
+Ren felt the ship as it slowed down. “It looks like we're here.” He said and opened his mouth for another morsel of food.
+
+“Already?” Navruth asked. “Shouldn't it take another few days at least?”
+
+“The short captain didn't take full advantage of the engines.” Ren said. “By rights, we should have been here a few days ago.”
+
+“You're kidding!” Andrela said. “It can go that fast?”
+
+“With 4 engines instead of one, this thing can cross the same distance as a normal ship in a quarter of the time.”
+
+“When people find out, you... you'll take over the entire shipping market!” Verwynn said. “You'll be rich!”
+
+Ren laughed and took her hand. “I'm already rich.”
+
+Verwynn's face flushed red because she could feel what Ren actually meant.
+
+“The rest is just money in comparison.” Ren said and let her hand go. “I think I better go topside and make sure everything is okay.”
+
+“We'll get dressed and join you in a few minutes.” Frikara said and washed her hands. “Will you escort us when we get to land?”
+
+“Of course.” Ren said, then stood up and equipped his Travelling Clothes, which cleaned him up. “I'd be honored to show you around the city while the ship unloads.”
+
+“That would be wonderful.” Lusinia said. “We'll look forward to it.”
+
+Ren put on his Dire Wolf Hooded Cloak, and left the room.
+
+*
+
+“Come on, everyone!” Frikara said and clapped her hands. “Fancy dress! Full regalia!”
+
+“Yes! Great idea!” Lusinia said. “Lets show everyone what Ren has given us!”
+
+“Should we tell people we're his personal maids?” Andrela asked as everyone started getting dressed, and she grabbed the nicest dress from her cabinet and slipped it on. “It might embarrass him if maids aren't accepted here like they are back home.”
+
+“Andrela!” Frikara exclaimed.
+
+“What?”
+
+“That's not home anymore.”
+
+“It's not?”
+
+“No.” Verwynn said and took Andrela into a one arm hug. “Our home is wherever Ren is now.”
+
+“Oh, right!” Andrela said. “I forgot.”
+
+Verwynn chuckled. “Doesn't he feel like home?”
+
+“I...” Andrela thought about it. “I didn't feel anything like this when I was home.”
+
+“Verwynn didn't mean that literally.” Navruth said. “She meant that this feeling is what home should feel like.”
+
+“If I'd felt anything like this at home, I never would have left!” Andrela said, emphatically.
+
+Frikara nodded slightly. “That's right; but, we did leave home and we found him.”
+
+“He found us, though.” Andrela said.
+
+“We found each other.” Frikara said. “I think we're all just starting to realize what that really means.” She said and smiled. “Now turn around and let me button you up.”
+
+*
+
+Teepo followed Ren as he delivered food to Princess and Orimihr, then out to the main deck and up to the back deck where the steering wheel and the short captain was. Ren deftly avoided the crew that ran around taking care of the various tasks that seemed to be necessary for the ship's operation. He couldn't understand the need, especially if you removed the sails that now weren't really necessary. If, somehow, one or more of the engines failed, one would be more than enough to propel the ship to it's destination.
+
+“We're still pretty far out.” Ren said as he looked towards the land. “Why did we slow down so soon?”
+
+“We can't let everyone know we have a way to go faster than sail and wind.” The short captain said.
+
+“Who's 'we'?”
+
+“The dwarves.” The short captain said, and Ren nodded slightly.
+
+“This isn't a dwarf ship, though.” Ren said.
+
+“It was built by a dwarf and dwarves run it.” The short captain said, and Ren smiled at him. The short captain felt slightly unsettled by that smile, and Ren looked up to the top of the main mast.
+
+“Glint! How long before we enter the harbour?” Ren hollered up to the crow's nest.
+
+“About an hour, sir!” Glint said from his scout perch.
+
+“Thanks!” Ren said and waved to him, then looked at the short captain. “Don't go to the main city to dock. There's a spot just outside the city where I've got a dock big enough for this thing.”
+
+“Can we do that?” The short captain said. “What about paying the docking fees and...”
+
+“It's a private dock.” Ren said. “My private dock.” He smiled. “There will be no docking fees, transshipping fees, unloading fees, or anything else that normally needs to be paid.”
+
+“Import fees?”
+
+“They only count if what I brought is for sale.” Ren said. “Everything that was loaded onto the ship is for personal use.”
+
+“Everything?”
+
+Ren nodded slightly. “It was all the things I was using or had made while in the Dwarven Kingdom.” He said. “None of that will be sold.”
+
+The short captain nodded slightly himself. “So, if anyone comes by and asks for...”
+
+“Tell them to come to my shop in a few hours.” Ren said. “I'll be escorting my personal maids on a tour of the city until then.”
+
+The personal maids he had just mentioned came out of the main cabin and looked around. All work stopped at the sight of them, and they could feel the intensity of the stares. Each maid had their hair done up in a fancy hairdo, and they wore the nicest dresses Ren had made for them. They even wore all of the jewellery he had given them, and it glistened and shone in the sunlight like miniature stars.
+
+Ren walked over to them and gave them a bow and a flourish with his hand. “You all look beautiful.” He said and he felt how much they liked that he was telling the truth. “I greet you, and welcome you to the starter city of Aurora.” He said, and motioned to the side of the ship towards the land. “It's still about an hour away, though; so your preparations are a bit premature.”
+
+Frikara chuckled. “I don't think so.” She said, and motioned to the crew that still stood there and stared at them. “I think the crew will have just enough time to get used to seeing us like this.”
+
+Ren chuckled, too. “I doubt that.” He said. “I don't think any of them have ever seen something so pretty.”
+
+“GET BACK TO WORK!” The short captain yelled at the crew and waved his arm angrily at them. The crew jumped and enthusiastically did their jobs to appease the captain. Ren noted the reaction of both the captain and the crew, and looked at the maids.
+
+“I'm going to take a tour of the ship.” Ren said. “Do you want to stay here, or come with me?”
+
+“We'll stay here.” Frikara said. “Our outfits are not suited for crawling around the bowels of a ship.”
+
+“You have my permission to stay here for as long as you want, and to defend yourselves if others don't behave themselves.”
+
+“We'll call you right away if anything like that happens.” Frikara said, and waggled her finger with the Sending Ring on it. Ren nodded slightly, and kissed her cheek. He went to each of them and kissed their cheeks as well, just so they wouldn't think he was favoring anyone over the others, and left them to go through the ship.
+
+“This is the first time you've had a chance to do this.” Teepo said as he flew behind Ren.
+
+“No, I could have done it yesterday.” Ren said. “I just...”
+
+“...got too busy and forgot about it.” Teepo said and chittered in laughter.
+
+Ren smiled and went into every part of the ship; including the multiple engine rooms. The engine room crew greeted him warmly, and he did the same. They had spent a long time together and had built more than just things in the Water Realm; they had built friendships and mutual respect with each other. The engines ran smoothly and didn't require any maintenance; especially since they hadn't been tasked to their full potential.
+
+“I'm sure the captain will get over his squeamishness eventually.” One of the engine crew said. “We'll see what these things can do soon.”
+
+“Let me know if it happens.” Ren said. “I don't want all of our hard work to go to waste.”
+
+“Don't worry.” Another one said and grinned. “We've already convinced the senior officer to try it on the return trip.”
+
+“How the hell did you...” Ren stopped talking and then smiled. “What did you give him?”
+
+“One of the Mermaid Pearls.”
+
+“Really? Wow.” Ren said. “You know they're only a one-time use, right?”
+
+“Yeah, we told him.” One of the crew said. “Deep water, midnight, and a gold coin.”
+
+“He practically tore the pearl out of my hand when I offered it and told him what it did.” Another one said and laughed. “He said he was gonna take the ship out as fast as he could to call one.”
+
+“Did you tell him to keep a spear handy?” Ren asked.
+
+“Of course.” The engine crew member said. “I don't want him to get eaten!”
+
+They all laughed.
+
+Ren finished his quick tour around the ship and acquired the plans for it. It had only taken 20 minutes, since he ran most of the way. Everyone was doing their jobs to get the ship ready to dock and unload, so the ship was pretty much empty in every section, except for the hold and the main deck of the ship. Ren entered the hold to tell Tee-one to pack everything up, because he forgot that Tee-one would know what he wanted when he thought of him.
+
+“Since you're here, you can take these.” Tee-one said and handed over 100 Rings of Water Walking and 100 Strong Rings Of Storage.
+
+“Thanks.” Ren said and stored them. “Do you need a hand getting things ready for transport?”
+
+“No.” Tee-one said. “We've had everything loaded so it could be taken off easily.” He said. “You can store the forge and smelter, though.”
+
+“Good idea.” Ren said and stored it.
+
+“I'll stay here and monitor the off-loading.”
+
+Ren nodded. “I'll contact Jen as soon as I get to the city, so her and her work crew can come out to build the warehouse we'll need to store all of this.”
+
+“You need to dig out the area first.” Tee-one said. “You don't want the warehouse to impact the view.”
+
+“Thanks for reminding me.” Ren said. “I'll swim over and get started.”
+
+Tee-one smiled and handed Ren a Hand of Glory.
+
+Hand Of Glory
+
+This Wondrous Item provides the wearer with a 60 foot circle of magical daylight when activated, and 60 feet of dimness beyond that, no matter what kind of environmental conditions you may be in. Although it is made of metal, it is in the shape of a small distorted hand on a chain.
+
+When worn, it hangs around the neck and replaces any necklace or amulet worn. Because of the mangled fingers, it can only wear one ring and grasp a single small item.
+
+“I don't need that.” Ren said. “I can see just fine.”
+
+Tee-one chuckled. “Ignore that part, Ren.” He said. “It can wear a ring and hold a wand.”
+
+Ren read the popup again, and smiled. “Ha! Sneaky.” He said, and used his Retain Essence ability to store the enchantment on his Amulet of the Spider, stored the blank disc, then used Double Infusion to transfer the enchantment to the Hand Of Glory and slipped a Ring of Water Walking on the hand.
+
+“Thanks, Tee-one.” Ren said and left the hold and went up to see the maids. “I'm going over to the mainland to dig out a spot for the warehouse.”
+
+“How are you going to get there? Swim?” Lusinia asked.
+
+“I'm going to run.” Ren said and put his hands on the railing. “I'll see you in half an hour.”
+
+“Don't have too much fun without us.” Frikara said, and Ren chuckled.
+
+“I can't promise that!” Ren said and pulled himself over the side of the ship.
+
+“MAN OVERBOA-” A deckhand started to yell when Ren disappeared over the side, then gaped at Ren when he landed on the water without sinking and started to run. “WHAT THE HELL?!?”
+
+The personal maids laughed as everyone on the deck shifted their eyes from them to stare at Ren as he took off at his top speed.
+
+*
+
+Nathalia had suffered through another night without Ren, ate a light breakfast, and went to work. She served breakfast to all of the dwarves that expected her to put a personal touch on their food, then went through the portal to do the same thing for her restaurant in Aurora. She was now on a 10 minute break and sat with Anabelle at one of the restaurant's outside tables.
+
+“He's been gone for about a week now.” Nathalia said to Anabelle, the manager of Ren's store, who had come in to visit her every day, since Nathalia wasn't making daily deliveries for the shop anymore. “We only have to wait about a week more for him to arrive.”
+
+“I still can't believe your Queen threw him out like that.” Anabelle said. “How stupid can she be?”
+
+Nathalia laughed. “I can't comment on our reigning monarch's current mental capacity.” She said. “The people on the other hand, still can't decide if she set it all up on purpose to get rid of him or not.”
+
+“What do you think?”
+
+“She definitely did.” Nathalia said. “It was the quickest way to remove Ren from the kingdom without causing another incident like the Council tried the last time.”
+
+“And people aren't upset over that?” Anabelle asked.
+
+“They are, but...”
+
+“She's giving them a new ruler.”
+
+Nathalia nodded slightly. “They can't get rid of her without losing the heir, so they'll put up with her antics until the child is of age.”
+
+“Any idea if it's a boy or a girl?” Anabelle asked.
+
+Nathalia shook her head. “She won't even let the medics do a full examination until just before her due date.”
+
+“I assume that if it's a boy...”
+
+“It doesn't matter.” Nathalia said. “Whatever it is, they become the new monarch immediately and the Queen becomes the Queen Mother.”
+
+“Which reduces her powers considerably.” Anabelle said. “I hope she changes her attitude before then.”
+
+“Why?” Nathalia asked.
+
+“They'll have her out of there faster than day old bread in a bakery.” Anabelle said. “You saw what happened the last time the Council raised one of her children.”
+
+Nathalia nodded. “It almost destroyed our nation and our people.”
+
+Anabelle smiled and put a hand on her friend's arm. “Ren saved you, though.”
+
+“Yes.” Nathalia said. “Me personally, and everyone else.”
+
+“He's a good man.” Anabelle said and let Nathalia's arm go. “I better get back to the shop and open up.” She said and stood up. “I'm not sure what a 'leader board' is, but Ren topped it again and now we've had more customers than we ever had before.”
+
+Nathalia nodded slightly, because she knew it was the Adventurer's ranking. “How is the store's stock?”
+
+“Pretty low now.” Anabelle said. “I don't know if we can make it another week without more items for the shelves.”
+
+Nathalia thought about the huge cabinet of clothes that Ren had given her. “I suppose I could...”
+
+“No.” Anabelle said. “I won't take anything he's given to you.”
+
+“How do you know I was going to offer that?”
+
+“We've known each other a while now, Nathalia.” Anabelle said. “You've got that same worried look on your face you get when you're trying to help Ren without him knowing.”
+
+Nathalia laughed. “All right, fine.” She said and stood up. “I've got to get back to work anyways.”
+
+Anabelle stood up and hugged her. “See you tomorrow.”
+
+“Bye, Anabelle.” Nathalia said and went back into the restaurant.
+
+*
+
+Clint and his mount, the warhorse Izabeal, ran on the road towards the North Gate of Aurora. He'd fallen behind his schedule when a fox had run across Izabeal's path and caused her stride to falter. She didn't trip or fall from the incident; but, she'd been affronted that a creature so small had dared to cross her path, so she had to chase it down to trample it.
+
+Clint could only hold on and wait for her to finish, because she could not be reasoned with at all when she got into such a state. He had been lucky it had only taken 10 minutes to catch the thing, thanks to his expert shot to wound the fox in the leg at the end, and then Izabeal had crushed the thing into paste. Clint had only shaken his head that she had destroyed the body so well, that there wasn't even any loot to be had.
+
+“We're almos' there, darlin'.” Clint said when he saw the walls of the city. “Then we c'n take a break an' head back.”
+
+Izabeal huffed at him and poured on the speed.

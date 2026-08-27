@@ -1,0 +1,243 @@
+---
+id: 798c252d-763e-5be3-9e45-9771e9203a76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 555 - Picking Them Up: Part 2"
+slug: 0555-chapter-555-picking-them-up-part-2
+partOf: mythrans-master-of-all-continued-completed
+position: 555
+ownLength: 2711
+unit: words
+publishedAt: 2018-04-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207888/chapter-555-picking-them-up-part-2"
+royalRoadId: "207888"
+---
+
+“Ma'am? Do you have a lot to pack?” Ren asked Maria, the old woman who was Belinda's mother.
+
+“Yes, young man. I have lots of mementos to bring with me.”
+
+Since Maria was now outside the shack, Ren looked at it and saw it only sat on the ground and his Heat Sense showed him nothing living was inside.
+
+“Don't be surprised when I do this.” Ren said as he reached out and touched the shack, then stored it. “There. All packed.”
+
+Belinda stared at the empty space, and the old woman cackled.
+
+“You Adventures sure know how to show a woman a good time.”
+
+“It's a gift and a curse.” Ren said, and she kept laughing. He led her and the others over to the wall, and they all stood there to wait for Princess to come back.
+
+*
+
+Ren's mount Princess had taken Xuunah and Narshan right to the apartment and stopped just outside the door.
+
+“Hurry.” Xuunah said and climbed down from the driver's seat of the carriage. “Ren will be waiting.”
+
+“What's the rush, anyway?” Narshan asked as he hopped off the carriage. “Why did he say only half an hour?”
+
+“He needs time to meet with representatives for the High Elven Kingdom before coming back here to the capital to plead his cases.” Xuunah said. “He's being generous with that time estimate, since it should only take 10 minutes to gather everyone.”
+
+“No, 10 minutes would be unreasonable. Anyone could use up that much time just by getting dressed.”
+
+“Then you help them get dressed.” Xuunah said and entered the large building. “I'll pack for them.”
+
+“I don't think they are going to like you touching their things.”
+
+“I don't care what they think.” Xuunah said. “Ren wants them gathered and they will be gathered.”
+
+“No discussion?” Narshan asked and followed her to his apartment.
+
+“It's not necessary. They are coming and they will want their things. Those things will be brought.” Xuunah said and pointed to his door. “You first.”
+
+Narshan sighed and opened the door. “Mother! Sister!”
+
+“Narshan!” A prim and proper woman, with speckles of grey in her hair, shuffled over to the front door. Her ornate dress was so tight that her feet barely moved, which explained the shuffle.
+
+“Welcome home!” The woman said.
+
+“I've got good news and bad news.” Narshan said and gave his mother a hug.
+
+“You know we hate bad news.” His sister said and shuffled over, and Xuunah saw that her hair was surprisingly like her mother's. It had speckles of grey in it and it was in the same style, as was her dress.
+
+“The good news is that I quit my job and I told that wench to shove it.” Narshan said, and his mother and sister gasped and covered their mouths with their hands, then started to speak at the same time.
+
+“H-how is that good news?” His mother asked.
+
+“What will we do, now that you don't have an income?” His sister asked.
+
+Narshan held his hands up to stop them from talking. “I got an offer to leave the kitchens, so I did.” He said to placate them, and both women visibly relaxed.
+
+“So, what part of the castle are you working in now?” His mother asked.
+
+“I'm not going to be in any part of the castle.” Narshan said. “In fact, I don't even know what kind of job I'll have when I get to where I'm going.”
+
+“Get to where... are you moving?” His sister asked and started to get hysterical. “Is that the bad news? You're abandoning us?!?”
+
+“No, I'm not!” Narshan said.
+
+Xuunah stepped around him and put a hand on each of the women's shoulders and flooded them with calm. “Relax. He is moving, but he is also taking you both with him.”
+
+The mother and daughter looked at her with wide eyes. “We're moving?”
+
+Narshan nodded. “We're here to pick you up.”
+
+The mother sighed. “If that was all good news, I don't know if I want to hear the bad news.”
+
+“You might as well tell us.” His sister said.
+
+Narshan ducked his head. “You only have 30 minutes to get ready.”
+
+“OH MY GOD!” Both women screamed at the top of their lungs and flailed their arms into the air. They started to run around as fast as they could, which turned out to only be a quick shuffle, since their dresses restricted their movements so much.
+
+Xuunah just stood there and watched in disbelief as the two women completely overreact to the time limit.
+
+“I told you.” Narshan sighed.
+
+Xuunah left the apartment and went out to Princess. “You can go and pick up Ren. This is going to take a while.”
+
+Princess nodded and trotted up into the air and disappeared.
+
+“She really does go a lot slower for us.” Xuunah commented, then went back inside to try and bring calm to two irrationally hysterical women.
+
+*
+
+Princess slowed down when she entered Ren's Aura and stopped above his head.
+
+“You're back early.” Ren said and she came in for a landing.
+
+“Xuunah is busy corralling the clucking hens and sent me back.”
+
+Ren chuckled and scratched her chin. “Then we'll use your talents to get these good people back to the county.”
+
+“Can I go see my brother first?” Belinda asked.
+
+“Of course.” Ren said and opened the carriage door and held a hand out for the old woman. “Everyone climb aboard.”
+
+“Thank you, My Lord.” Maria said as she took his hand, and he helped her to a seat. He helped everyone else be seated and saw it was quite crowded.
+
+“If your brother accepts, I might have to switch to the covered cart to fit him in.” Ren said and asked the All-Seeing Mirror where Belinda's brother was. He showed Princess where it was, then on a whim took out his shop tower and went inside. He came back out and stored the tower, then gave a heavily modified Amulet of Unnatural Armor to Belinda, her mother Maria, and Sharlee.
+
+Ren was used to people's reactions to his crafted items and ignored their shock and surprise. “Go ahead and equip them.” He said, then climbed up and sat down on the driver's seat of the carriage. “Hold on, everyone.”
+
+Princess trotted off towards the Mage Guild to where Belinda's brother was working as a scribe.
+
+*
+
+Lady Eleanor felt Ren's warm presence leave her perception, and she took in a deep breath. She pulled her composure around herself like a blanket and lifted her head high. She walked over to the dining room door and opened it, and a guard appeared out of nowhere to accompany her. She nodded to him and walked across the hallway and down the stairs, then went down another hallway. She came to the door she wanted and the guard knocked on it.
+
+“Come in, Your Highness.” A woman's voice said.
+
+The guard opened the door for Lady Eleanor and she stepped into the small room. The guard stayed outside and shut the door behind her.
+
+“Thank you for seeing me.” Lady Eleanor said. “I am having improper thoughts.”
+
+“Please, sit.” The woman said, and Lady Eleanor sat on the chair in the middle of the room. “Hmm.” The woman's hands glowed and she waved them around Lady Eleanor's head. “Yes, yes. I see.” The woman said. “You aren't attracted to the Adventurer at all, but he represents an appealing life for you.”
+
+“I can't get the thoughts of trying to escape out of my head.” Lady Eleanor said. “I fought hard to be where I am today, and I am not giving it up!”
+
+The woman chuckled. “You are trying too hard to convince yourself of that.”
+
+“Wh-what?”
+
+“Those that protest too much are the ones that are so easily swayed to change their minds.”
+
+Lady Eleanor sighed. “Is that what I'm doing?”
+
+The woman nodded. “Within this room, for the next 10 minutes, you can be whoever you want.” She said, and cast Full Illusion to put them in the middle of a field of flowers. “Who do you want to be? A wench in the local tavern?” She asked and cast Disguise Self on Lady Eleanor to change her beautiful dress into a barmaid's outfit.
+
+Lady Eleanor looked down at herself and shook her head.
+
+“Perhaps a young girl waiting for a date with her boyfriend?” The woman asked and cast Disguise Self again and made Lady Eleanor look half her age and made a silhouette of a man appear beside her.
+
+“No.” Lady Eleanor said. “Nothing like that.”
+
+“Then tell me, Your Highness. What do you want?”
+
+Lady Eleanor thought about Ren taking people away from their normal lives, and the freedom that gave them. “I... I want... to be free.” She said and finally admitted it to herself. “If only for a moment, I want to be free of responsibility. Free of structure. Free of rules. Free of... everything.”
+
+“Then close your eyes and keep them closed until this is over, Your Highness.” The woman said. “I will grant you that wish.”
+
+“Thank you.” Lady Eleanor said and closed her eyes, then waited patiently for the feeling of freedom to fill her.
+
+“No, Your Highness.” The woman said and unsheathed a short sword. “Thank you for this opportunity to give you what you deserve.”
+
+*
+
+Princess arrived at the Mage Guild and Belinda went inside, and then Ren received a popup.
+
+Security Notice: Black
+
+One of the members of your domain (HK-NPC-LadyEleanor01) is in mortal danger.
+
+Ren took out the All-Seeing Mirror instantly and asked for her location. He cast a Portal spell as Teepo dissolved into the ring, then Ren grabbed Artemis' hand and jumped through the portal.
+
+*
+
+Lady Eleanor gasped as Ren's presence was suddenly there in the room with her. Oh, god! That... that means...
+
+A Mana bolt skimmed by Lady Eleanor's hair and hit the woman in the chest. The woman felt it as the bolt cracked her Mana Shield. It didn't penetrate, and she hefted the short sword over her head to plunge it into Lady Eleanor. Ren saw the shadow mist around the sword and leaped forward. He grabbed the woman's arm as he tackled her into the wall. There was a sickening crunch when the woman was crushed into the wall under Ren's momentum, because he hadn't tried to restrain himself at all.
+
+Ren pulled himself out of the indent he had made in the thick underground stone wall and saw the remains of the woman. “Identify.”
+
+Remains of Fidelia
+
+These are the pulverized remains of the Dark witch, Fidelia. With her heart and brain destroyed, she can no longer Regenerate.
+
+Ren shook his head at the popup and looted the body. He received a shadow coin, several gold coins, and an Amulet of Mana Shield. The sword has disappeared with the body, and Ren kicked himself mentally for not trying to grab the sword first. He equipped his red suit for a moment to clean the blue suit in inventory, then equipped the blue suit again and knelt in front of Lady Eleanor.
+
+“Your Highness, are you all right?” Ren asked.
+
+“Fidelia? I can hear someone else's voice. Is... is that normal?” Lady Eleanor asked.
+
+“Your Highness, it's really me.” Ren said and took her hand, and Lady Eleanor jumped at the touch.
+
+“This is the best spell you've ever cast, Fidelia.” Lady Eleanor said and kept her eyes closed as she gripped Ren's hand. “It feels so real.”
+
+“It is real.” Ren said. “Open your eyes and see.”
+
+Lady Eleanor shook her head. “You told me to keep my eyes closed until it was over.” She said, and she held his hand as her other hand reached out and touched his arm, then made it's way up to his face. She cupped his cheek and caressed the skin.
+
+“When will it be over?” Ren asked, because he wasn't sure what to do.
+
+“When I feel free, of course.” Lady Eleanor said. “After I asked for it and then felt his presence appear here, I... I realized what it meant.” She smiled. “It gave me the answer I wanted to my question.”
+
+“What question?” Ren asked, curious.
+
+Lady Eleanor leaned forward. “Why didn't he ask me to run away with him like he did with the others?”
+
+Ren was too surprised by the question to answer. He never imagined that she would consider going with him, and it didn't occur to him to ask.
+
+“You see, he knew it was vital for me to stay. He knew I couldn't run away from my family, from my life, or from my kingdom... and they couldn't run away with me if I did go.” Lady Eleanor said. “My responsibilities are all that I am. They make me happy, sad, angry and passionate. I also hate them and love them at the same time.”
+
+Ren felt her emotions, and realized she had made a kind of breakthrough with whatever it was that had been keeping her reserved. When he had healed her, it had lifted some of the weight from her; but, she hadn't accepted the fact that the rest was a weight she had to choose to bear.
+
+Lady Eleanor leaned forward as she used her hand on his face as a guide. “I've always been reserved. I've always held back. I've never tried to do anything beyond what was expected of me, and I strove to be perfect in every way.”
+
+Ren didn't try to stop her as she put her face right in front of his, and her breath was hot as she started to breathe heavily.
+
+“I would never do anything like this. Ever.” Lady Eleanor said. “But, since this is just an Illusion... and you said I had to experience the freedom that I've always craved...” She closed that last bit of distance and pressed her lips to his. It was very platonic at first, and then Ren felt her subdued carnal passion be unleashed. Her arms wrapped around his neck and she kissed him as she let her inhibitions go.
+
+Ren's Emotion Siphon ability activated because of the sheer amount of emotions she had let loose, and she moaned as he fed from her, and then she broke the kiss.
+
+“Yes, take it from me.” Lady Eleanor moaned. “Ease my pain and don't let me drown in it.” She whispered and then kissed him again. She poured everything she had into him, and he absorbed as much of it as she wanted.
+
+After a minute or so, Lady Eleanor's movements and enthusiasm started to drop, and Ren felt her composure start to reassert itself. Her reluctance to do something like this also grew, and a moment later, she broke the kiss and sat up straight as she let Ren go. She took a deep breath and let it out, and then again.
+
+“Thank you, Fidelia.” Lady Eleanor said in her normal voice. “I believe I've felt the freedom I've always thought I wanted... and it's not what I want at all.” She said. “I can finally face the rest of my life without regrets or questions.”
+
+Ren didn't say anything as he stood and walked over to the portal and took Artemis' hand.
+
+“I can still feel his presence, Fidelia. When will the spell be over?”
+
+“Right now.” Ren said and stepped through the portal with Artemis, then he dismissed the portal.
+
+Lady Eleanor felt Ren's presence disappear and she relaxed. “The spell's over.” She said and opened her eyes. “Fidelia, that was... Fidelia?” She looked around and didn't see her. “Fidelia? Where are you?” She stood up and checked the small bedroom, and Fidelia wasn't there. “Guard!”
+
+The guard opened the front door and peeked in. “Yes, Your Highness?”
+
+“Did anyone pass by you in the hallway just now?” Lady Eleanor asked.
+
+“No, and the door wasn't opened, Your Highness.”
+
+Lady Eleanor gave one last look around both rooms. Perhaps she thought I no longer needed her counsel. She thought, and left the small apartment. “Let me know if she appears again.”
+
+“Yes, Your Highness.” The guard said and shut the door to the empty room.

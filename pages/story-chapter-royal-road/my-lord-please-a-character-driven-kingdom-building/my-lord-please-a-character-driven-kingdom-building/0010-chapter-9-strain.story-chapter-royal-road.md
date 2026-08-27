@@ -1,0 +1,171 @@
+---
+id: 7b652be6-87f8-5cbc-94e3-0bdab5eeaef6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 Strain"
+slug: 0010-chapter-9-strain
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 10
+ownLength: 2191
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202166/chapter-9-strain"
+royalRoadId: "3202166"
+---
+
+Inside the workshop, the air was warmer compared to the brisk autumn wind outside. Harlon's tools lined the walls in a careful yet disorderly way. Some of them were well-made, and others were clearly repaired over and over again, with the handles replaced and iron blades reforged.
+
+Harlon led them to a small sitting room, a space clearly meant for the craftsman to take breaks between work.
+
+"Take a seat, Lord. You’ll have to forgive the lack of refreshments." Harlon gestured to the chairs in a blunt manner, clearly not used to having guests in his workshop.
+
+Lucien made to sit down, with Alicia standing right behind him. "Think nothing of it, Harlon. I am the one who called without notice."
+
+Harlon grunted as he took out a small wrapped package. As the man unwrapped it, Lucien was surprised to see a weathered pipe. It was the first he had seen since coming to this world.
+
+The man was clearly used to smoking it, lighting it in a practiced manner, snorting slightly at Alicia's nose scrunching at the smell. Was it tobacco? Or something similar but local to this world? Lucien couldn't help but examine it closely, wondering if the medicinal herbs of this world were similar to those from his former one.
+
+"Curious about this, Lord?" Harlon asked, motioning with the pipe.
+
+He shook his head slightly. "Not in smoking it. In its contents. The scent is unfamiliar to me."
+
+"Hmph. You spent most of your life in the capital, right? Then no, you would not have come across it. These herbs grow only in the frontier." he replied, taking a long drag from his pipe.
+
+"Alicia tells me you were here from the beginning?" Lucien asked.
+
+"Aye, that's right," Harlon answered. "It's been near twenty years since we first put roots down in this wilderness."
+
+"I have heard that's a long time compared to most frontier settlements." Lucien's eyes met Harlon's. "In those twenty years...how often have the palisades fallen?" he continued, his gaze intense.
+
+"Half of them, near enough. I don’t count such things," Harlon replied, his tone flat.
+
+Lucien frowned at the dismal figures. A fifty percent failure rate was unacceptable in his eyes, but judging by Harlon's demeanor, it seemed to be a usual occurrence. He could hear Alicia's quiet sigh from behind him.
+
+“Why do they fail?” he asked after a moment.
+
+Harlon took a long moment to think. After another drag, he replied at last, "The palisades were never built to hold during the Tithes. You need a strong wall made of stone for that."
+
+"So when the walls of a frontier settlement fall, it's because the men didn't hold long enough during an attack..." He trailed off, eyes flickering to Alicia. The look in Harlon's gaze told Lucien enough. Should she be hearing about matters like this?
+
+Lucien turned slightly to look at her. The tense expression on her face gave him pause, and he wondered if he should send her away. Yet she did not lower her gaze or step back. He studied her for a moment longer, then turned back toward Harlon.
+
+"She stays," he said quietly.
+
+Harlon's eyes flicked between the two of them once more before he gave a noncommittal grunt. "Suit yourself. She's lived here long enough to know the truth whether we say it in front of her or not."
+
+Alicia relaxed slightly, though her shoulders remained drawn tight.
+
+"You said something about stone," Lucien continued. "Yet from what I understand, Ashridge has none."
+
+"None that are worth quarrying," Harlon corrected. "The quality of stone that can be found nearby isn't nearly good enough for defensive walls."
+
+"And even if there were a place to quarry the rocks, we don't have enough carts and horses to bring them here in time. Not to mention masons to build the walls," Lucien finished, rubbing his chin in thought.
+
+Harlon merely grunted in agreement. "Much easier to work with what we have."
+
+"And yet, what we have isn't enough," Lucien replied, resisting the urge to sigh. "If the walls cannot be strengthened, what do you reinforce first, Harlon?" he asked instead.
+
+The carpenter leaned back in his chair, his gaze studying the ceiling for a moment before answering. "The gates. Always the gates. They fall first, and the longer they stand, the fewer men bleed to hold the breaches."
+
+"And how long would you need to repair them if they break?" Lucien pressed.
+
+"That depends on how badly the beasts ruin them..." Harlon shrugged. "and how many hands I’ve left to mend them."
+
+Harlon's last sentence settled heavily in the room. Lucien couldn't help but glance at Alicia again. Her hands were clenched together in her lap now, knuckles pale from how tightly she held them.
+
+“And during a Tithe...when the gates fall, are they raised again?” he asked slowly.
+
+Harlon snorted once before dourly muttering a single word. "Never."
+
+Lucien closed his eyes briefly. ‘Fifty percent failure rate for the walls and an almost certainty the gates will break.’
+
+When he opened them, he kept his tone calm. "If I provided more hands...men drawn from elsewhere...could you do more than patch what’s broken before the Tithes arrive?"
+
+Harlon frowned thoughtfully. "Could I? Aye, I have an apprentice helping permanently, but I don't see where you could get the men. Most of the lot are already busy with the drills."
+
+Lucien motioned for him to continue. "Just assume that you will have more men to work with."
+
+The man met Lucien's gaze directly. "With stronger iron fittings, thicker bracing, and time enough before winter...maybe. But you’d need the smith."
+
+Alicia looked up. "You mean Master Joren?" she asked softly, her voice still tight from listening to a conversation she was clearly not used to.
+
+Harlon nodded, a faintly annoyed expression on his face. "Aye. He won't like it."
+
+Lucien nearly allowed himself a faint smile, but held it back. “That seems a common trait among those who know their craft.”
+
+“I was planning to speak with him later anyway. It’s better to ensure those involved are kept informed,” he continued.
+
+Harlon watched him carefully, his pipe forgotten for the moment. “For a noble, you ask the right questions. I half expected you to storm out once you learned your gold would not solve this cleanly.”
+
+This time, he smiled faintly. “I would not be so certain that gold cannot solve our troubles yet. It merely requires a different application.” His tone carried a quiet, knowing edge.
+
+Harlon raised a single eyebrow, curiosity flickering across his face. When Lucien refused to elaborate, the man snorted with amusement. He tapped the bowl of his pipe against a shallow tray before setting it aside.
+
+He rose to his feet. "If you're heading to the smith, I'm coming along with you. Might as well have that meeting together."
+
+Alicia hesitantly looked to Lucien, somewhat scandalized at Harlon's presumption. "Is... is that alright, My Lord?" she asked cautiously.
+
+Lucien considered Harlon for a moment, then nodded once. "It's fine. It would help to have you along as well."
+
+Harlon gave a satisfied grunt as he reached for his coat, pulling it from a peg near the door. "Let's be off then, Lord. Daylight is short this time of year."
+
+Lucien rose unhurriedly from his seat, adjusting his coat before speaking. "Very well. We will speak with Joren together." The way he phrased the statement was deliberate; the implied meaning was clear. He was not going to simply let the older man set the pace.
+
+Harlon paused only briefly at the subtle shift, then gave a short nod of acknowledgment, understanding the implied order.
+
+Alicia hurried to Lucien's side once more. Her earlier tension had eased slightly, replaced with something steadier, though she was clearly still out of her element.
+
+As they moved to leave the workshop, Lucien cast one last look around. Foreign-looking tools lined the space, only a few bearing any resemblance to those he had known in his old world, alongside materials clearly salvaged from broken things. Everything was repurposed with little waste, each piece measured against necessity and survival.
+
+Their walk to the blacksmith’s shop was a silent one. Harlon was clearly not one to make small talk, and neither was he. Lucien much preferred the silence, there was more to observe even without words.
+
+Like how Harlon had placed himself neither ahead of him nor quite beside him. It was an interesting compromise, showing a hint of respect yet not deference. The man reminded him of a much older Dorian. Both were blunt, but Harlon showed a canny sense of social manoeuvring that Dorian hadn’t quite learned yet.
+
+Lucien noticed the sounds change first as they neared the place where the blacksmith’s shop was built. Where the carpenter’s had been filled with the muted rhythm of wood being shaped and trimmed, here a sharper noise began to echo ahead of them. A steady, metallic ringing of metal against metal carried through the autumn air.
+
+Clang!
+
+A pause.
+
+Clang!
+
+Each strike was deliberate, measured. Heavy enough that he felt it faintly in his chest before they even reached the source.
+
+“…The smith starts early as well?” Lucien muttered, breaking the silence.
+
+“Heh, Joren never truly stops if he can help it,” Harlon replied wryly. “If he isn’t hammering iron, he’s sharpening something. And the only reason he’s not hammering is because his neighbors will knock on his door late at night from the racket.”
+
+Lucien noticed there was no fondness in the carpenter’s tone, but neither was there disdain. It carried the weight of long familiarity and grudging respect.
+
+Alicia piped up hesitantly. “Unc–Master Joren can be rather… brash, My Lord,” she offered softly. “But he does care deeply about the village,” she added hastily.
+
+Harlon huffed with a trace of skepticism. “The man only cares about his forge and a few of the people in the village,” he rumbled before adding a moment later, “He at least cares enough about the village to put in the effort to ensure it remains standing. Within reason.”
+
+Lucien noticed Alicia did not respond to that. He filed it away as they neared the forge itself. The surrounding buildings grew darker from years of smoke staining their walls. Grass did not grow here, and the earth near the structure was packed hard and blackened from stray embers.
+
+The forge itself was squat and sturdy, built lower than the carpenter’s workshop but thicker and clearly reinforced with heavier beams. A long chimney of stacked stone rose from its center, exhaling a slow plume of black smoke into the pale sky.
+
+If the carpenter’s workshop had carried the scent of resin and sawdust mixed with smoke, then the blacksmith’s was defined by the air itself. The autumn chill he had felt on the way over was swallowed by a subtle wave of heat that rolled over them before they even reached the entrance.
+
+Another clang rang out, much closer this time. Then it was followed by the hiss of metal meeting water.
+
+As they rounded the final corner, Lucien saw him.
+
+Joren stood beside the anvil with the easy weight of a man accustomed to heat and hammer alike. The leather of his apron had been darkened by years of sparks, and the sleeves of his shirt had been rolled high enough to reveal forearms thickened by work repeated thousands of times. His hands rested easily against the iron as though it were simply another tool waiting to be persuaded.
+
+The man stood bare-armed despite the chill in the air. His arms rippled each time he brought the hammer down upon the anvil, sparks leaping in brief golden arcs at each measured strike. Just as with Harlon, Lucien stopped at the threshold of the forge and waited while the blacksmith continued his work.
+
+Behind him, Alicia shifted nervously. Joren carried on without pause, striking the piece he had been shaping even as Harlon crossed his arms and waited. Each time the hammer rose and fell, it shaped the glowing red iron with another resounding clang. After a final blow, the man plunged the metal into a trough.
+
+Steam rose sharply.
+
+The silence that followed was broken only by the faint crackle of cooling steel. Joren set the hammer aside and wiped his brow with the back of his wrist.
+
+The blacksmith finally turned once his tools were put away. His gaze landed on Harlon first, and a short nod of greeting passed between the two men before it moved to Alicia. It lingered there. A trace of relief flickered in his eyes before they hardened as his gaze shifted to Lucien.
+
+There were no bows, no immediate greeting. Instead, a long measuring look settled on him as the forge fire flickered behind the blacksmith, casting shifting light across his soot-darkened features.
+
+“So,” the blacksmith finally said, voice low and rough from smoke and heat, “the Lord comes to visit while showing off the very girl he took from her family.”
+
+Lucien winced inwardly.
+
+It seemed the man did not have a good impression of him at all.

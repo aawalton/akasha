@@ -1,0 +1,277 @@
+---
+id: 4d234aa9-e549-5b29-9330-0e8916f0c269
+page-type-slug: story-chapter-royal-road
+title: "Chapter 452 - Moving Day Part Two"
+slug: 0452-chapter-452-moving-day-part-two
+partOf: mythrans-master-of-all-continued-completed
+position: 452
+ownLength: 3264
+unit: words
+publishedAt: 2017-12-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180331/chapter-452-moving-day-part-two"
+royalRoadId: "180331"
+---
+
+Xuunah walked over to Ren and took his hand, and he helped her get into the bus-like cart. She sat in the second seat, and he walked over to the house and went inside. He knocked on Officer Holly's door, and she opened it.
+
+“I assume it's time to go.”
+
+“It is.” Ren said and motioned outside. “Please have a seat.”
+
+Officer Holly looked out the front door of the house and saw the long bus-like cart with black horses that had smoke-like manes and hooves. “Where did that come from?”
+
+“I just made it.” Ren said, walked up the stairs, and went into the main bedroom. “Ladies, our ride is ready.”
+
+“We just finished up.” Frikara said and stored the chair she sat in. “Do you want us to...”
+
+“...sit back and enjoy the ride?” Ren asked. “Yes.” He smiled and stored all of the cabinets of clothing, the dressers, end tables, and the extra large bed. He emptied the room of everything and they went downstairs and outside. He helped the maids climb in and they sat in the front two rows to fill those seats.
+
+Officer Holly inspected the Phantom Steeds and passed her hand through their smoky hair. “That's so freaky.”
+
+“Just wait until they start pulling the cart.” Ren said to her, then walked over to the tower the succubi were in, and heard a shout.
+
+“WAIT!” A man down the street said, and behind him were several others. Ren stood there and waited for them to jog over before he spoke.
+
+“What is it?” Ren asked.
+
+“Take us with you.”
+
+“What?”
+
+“I'm in love with Zunala!” Weston, the city guard said. “If she's going with you, then I'm going, too!”
+
+Ren opened his mouth to say no right away, and the other men took up similar arguments. He sighed and changed what he was going to say.
+
+“Wait here.” Ren said.
+
+Weston nodded and Ren went into the tower, and saw that the succubi sat on their beds.
+
+“Okay, someone tell me what's going on.” Ren said, and the succubi looked at each other. “I've got a dozen men outside that want to come with us, and one even claims to love Zunala.”
+
+Zunala came down the stairs in front of the other succubi that were upstairs, and walked over to him. “You never said we couldn't meet with other men.”
+
+Ren sighed and rubbed his face. “Please tell me you didn't sleep with them.”
+
+“They didn't.” Seldanna said. “We all remember what you said to the Minor Demon.” She said. “If you can't have us, then no one else can.”
+
+Ren took a deep breath and let it out, because he felt that what she said was the truth. He looked at them all, and they felt his relief in return.
+
+“Thank you.” Ren said.
+
+Zunala touched his cheek. “Would it have hurt you if we did?”
+
+“Yes.” Ren said, and it was their turn to feel that it was true. “You're my responsibility.” He said, then frowned. “Wait, why are there only 12 men outside?”
+
+“We couldn't find anyone to feed us what we wanted.” One of the others said.
+
+“Oh, okay.” Ren said and looked at Zunala. “Do you want this man to come with us?”
+
+“His desire is intoxicating.” Zunala said. “We've only kissed, and yet... he is infatuated with me.”
+
+Ren could feel how much she enjoyed that, and he remembered his pledge to give them what they needed. “I'll take steps to protect them from your more... damaging aspects.” He said, and he felt how happy that made her, and the rest of them were happy as well. “You can use your life-draining ability up to a point; but, you are not... I repeat NOT... going to kill them.”
+
+“We know it would bring death and destruction upon us if we did that.” Zunala said.
+
+“To me as well, since I brought you here.” Ren said. “I'll give them each a Ring of Sustenance with runes of Anti-corruption, so you can use both of your abilities on them every day if you want.”
+
+“Really?” Wynphine asked. “We can... oh, my.” She sat down on the closest bed and her body shook. “You'll let us taste the forbidden fruit?”
+
+“As long as you don't eat it all.” Ren said and looked at them. “If any one of them ends up dead, even by accident, all privileges will be revoked for everyone.” He said. “No flying, no feeding beyond sustenance levels, and no boyfriends.”
+
+“Boyfriends!” One of them laughed. “They are just toys!”
+
+“I'll take away your toys, then.” Ren said and felt ambivalence from them. “I'm being serious here.”
+
+“Your Reassurance Aura isn't helping convince them of that.” Seldanna commented.
+
+“Oh, right.” Ren said and made a Connection between his Fear, Importance, and Command Auras, added in one of his Ultimate Terror Rings for good measure, and concentrated on it. All the succubi gasped and stepped back, then knelt. “I will take away your toys if you don't play with them nicely.”
+
+“Y-yes, M-my L-lord.” They all said at the same time, even the ones that didn't have anyone yet, and he switched back to his Reassurance Aura.
+
+“Now, with that unpleasantness out of the way, we're heading out.” Ren said and opened the door. “All aboard the transport to go to your new home.”
+
+*
+
+The scouts of the nearby county had returned to their outpost to rest properly, since it was too dark at night for them to see, and they left their lodgings in the morning and walked to their assigned area. Once there, they climbed up into the tall tree to take up their scouting position, and gawked at what they could see. The dirt wall wasn't a dirt wall anymore. It was now made of iron.
+
+“What are those things at the base?” One scout said to his partner, once he had gotten over the shock. “I can't make it out.”
+
+His partner put on a pair of goggles and squinted. “It's... statues of men?” He shook his head and looked again. “Yes, statues of men are on the wall for some reason.”
+
+“How the hell did they put that up overnight?” The first scout asked.
+
+“I don't know.” His partner said. “You stay here this time, and I'll head over to the next position.”
+
+“Why?” The first scout asked. “We can see the wall for miles from here.”
+
+His partner sighed. “If it really is all the way around, there's no way the boss is going to let it go.”
+
+“But... we aren't at war.” The first scout said. “We're part of the same kingdom.”
+
+“Like that matters.” His partner said. “The boss is going to want whatever this guy has.”
+
+“Well, then.” The first scout said and started to climb down the tree.
+
+“Hey! I said to wait here and I'll go!”
+
+“You can do whatever you want.” The scout said. “I quit.”
+
+“What? You can't do that!”
+
+“I am not going to be a part of whatever this is.” The scout said. “I'll watch and report, that's fine.” He said and stopped at the bottom of the tree. “I am not going to fight someone that can put up a 40 foot tall iron wall around an entire county overnight.”
+
+“You traitor!”
+
+“Bwa-ha-ha!” The scout laughed. “That's funny, coming from someone that wants to fight their own people.”
+
+“I don't want to fight them; but, I will when I'm ordered to!”
+
+“Then that's your problem.” The scout said and started to walk away through the trees.
+
+“You can't just leave! You'll be subject to court-martial!”
+
+“I resign my commission, you dunce.” The scout said, and once he was far enough away from the tree, gave words to what he was thinking hard about. “He needs scouts, right? He should have scouts.”
+
+The scout tried desperately to convince himself he would be needed as he made his way to the end of the county several miles away, then turned the corner to walk along the moat in front of the iron covered walls. When he reached the giant open doors, he marvelled at them because they looked like they would really open and close.
+
+“I wonder if he's hiring?” The scout asked himself and walked inside, and completely missed that the steel statues had watched him closely the entire time.
+
+*
+
+The succubi in their flawless disguises had walked out of the tower and gathered in a group by the bus-like cart. Ren closed the tower door and deactivated it, then stored the 2 inch wide cube. He felt shock from the 12 men at the display, and walked over to them.
+
+“I'll agree to you all coming along, on two conditions.” Ren said. “One: You will be hired to resume your guard positions for Walin County, on a rotating schedule. It's a nice wall that I'll finish before you'll be allowed to patrol on top of it.”
+
+“Is it a city wall like this one?” One of them asked.
+
+“No, the wall surrounds the whole county.” Ren said, and once again he felt their shock. “Don't worry, you'll have steeds to help cover the 210 miles of wall.”
+
+“You can't seriously think 12 of us can defend the entire county!” Another said.
+
+“I have constructs to do that.” Ren said. “I might put each of you in command of a platoon of them, though.”
+
+“A platoon!” Weston laughed. “I'll become a lieutenant!”
+
+Ren smiled. “I'm glad you're enthusiastic about it.”
+
+“Enthusiastic? Try ecstatic!” Weston said. “We just resigned our positions in the Aurora City Guard and didn't know what we were going to do for money, or where we'd live, or anything like that.” He said. “Giving us jobs when we show up out of nowhere is more than any of us could have asked for!”
+
+“I've got a Barracks for you to live in as well.” Ren said, and they started to laugh.
+
+“Well, let's go!” Weston said and walked over to Zunala. “I can't wait to start my new life with this gorgeous creature!”
+
+Zunala put her arms around him and gave him a kiss, and he practically melted in her arms. Everyone heard her moan, and he sighed when they broke the kiss.
+
+“You forgot my second condition.” Ren said, and they all looked at him. “As long as you are with the succubi, you need to wear a special ring of my own design.” He took out a Ring of Sustenance, absorbed the enchantment and modified it, then put it back and added a glyph with 10 runes of Anti-corruption. “It takes a day to activate; but after that, you can kiss them and not become exhausted.”
+
+“It's a DEAL!” The other men said, and Ren gave them all modified rings. When they put them on, a couple of them winced in pain as the corruption they had acquired over the last 2 days was absorbed. Weston winced the longest.
+
+“I see a few of you have had some deep kisses already, despite the inherent danger.” Ren said, and he felt some embarrassment from both the men and the succubi; and then some of them laughed.
+
+“It's worth it.” Weston said and looked at Zunala. “I knew as soon as I saw her that I wanted to be with her.” He said and she cupped the side of his face. “It's not because of what she is, either.”
+
+“Dearest?” Zunala asked.
+
+“It's in your eyes.” Weston said. “There's a loss there. You had something important, and now it's gone.” He said. “I want to fill that empty space in you.”
+
+Zunala smiled warmly at him. “Despite being only human, you are making headway into it.”
+
+Weston smiled back. “There's the smile I want to see on your face all the time.”
+
+They stared at each other for several moments, and then Officer Holly came over.
+
+“Don't just stand there, you lazy bums! Get your asses on the bus! I mean cart!”
+
+The men went to their respective succubi and everyone except Ren boarded the cart. Ren went into the house to get Princess and the dogs, and brought them out to the transport. They climbed into the large back area to lay down on the comfy mattress he had put there for them. He ran back into the house and stored the bed in the kitchen, then replaced it with the table and chairs that were supposed to be there, and ran up the stairs to put the bed in the main bedroom.
+
+Ren went into Ruck's room to see if his friend had left anything in there. There was nothing to be found, so he ran back down the stairs and outside. Once he had gathered up the skeleton knights, he told them to hold onto the outside of the cart, because there was no more room inside. Ren got in himself and climbed up onto the driver's seat.
+
+“Ren?” Frikara spoke, and he turned to look at her. “Let Xuunah drive us to our new home at a nice leisurely pace.”
+
+“But...”
+
+“I want you to tell us what happened to you in Shargon Caverns.”
+
+“I never actually told you, did I?”
+
+“It's all been second hand from Lara.” Frikara said. “We know a lot about it, but not everything.” She said, and Xuunah stood up and changed places with Ren. He sat down beside Frikara, and she took his hand. “Drive slowly, Xuunah. We're going to need a few hours, I think.”
+
+Xuunah nodded, flicked the reins, and the Phantom Steeds trotted for a few steps, cast Air Walk on the cart they pulled, and the whole thing lifted into the air like it was going up a steep hill.
+
+“WHOAAAA!” Officer Holly yelled as she looked over the side of the cart. “We're flying! We're really flying!”
+
+“I told you.” Ren said, and he felt how much she liked it.
+
+“Ren.” Frikara said and he looked at her.
+
+“Okay.” Ren said, took a quick breath, and started to talk. “It all started one day when I didn't wake up in your arms...”
+
+Everyone fell silent, because none of them had heard the story from the beginning like that. As he talked, Xuunah followed along with the memories that she had absorbed from him. They were the most recent and easily accessible; so, with his exposition added to it, it cemented in her mind that for the first time in her very long existence, she had shared everything that she was with someone else.
+
+The Phantom Steeds could cast Air Walk at will, and when the spell would run out and before the cart started to slowly descend, the other steed would cast it and keep the cart in the air without interruption. Ren had been smart to have two of them to share the load, even though he hadn't realized that at the time.
+
+Xuunah drove slowly so she could listen to Ren talk, as he went on and on about the adventure he had. When he arrived at the part where he needed to sacrifice a life, Xuunah felt everyone's emotions change through Ren. Even if she hadn't known the outcome, like the male guards who were hearing the story for the first time and were horrified, she would have known Ren would have given up his own life instead.
+
+Ren continued on with the story, and everyone was enraptured as he described what he encountered, what he did to work around or defeat the next challenge. When he discussed some of his alternate thinking, several of the guards had chimed in to say they would have done some of them instead. Ren had told them that no plan survives contact with the enemy, and that most times he just did the first thing that came into his head.
+
+“Except for that ogre.” Ren laughed. “I was going to smash it's head in no matter what!”
+
+That made everyone laugh, too; and he continued on with the story. By the time they arrived at the Main House in Gaugan City, he had just reached the part where he met the Marilith demon.
+
+“Please, finish the story.” Frikara said, with her head rested on his shoulder.
+
+“Xuunah? Do a lap around the county to show the guards the wall.” Ren said, and she turned the cart around to go back to the wall. He told them about the encounter with the Marilith demon, and then when he and the succubi went to the next chamber and met the trolls he had previously vanquished.
+
+“I didn't have to do anything at all.” Ren said and turned to look at the succubi. “I just asked them to take care of it for me, and they did.”
+
+“You're kidding!” Weston exclaimed and looked at Zunala. “You defeated that many trolls?!?”
+
+Zunala chuckled. “Thanks to Ren's weapons and enchantments.”
+
+“That's amazing.” Weston said with wonder in his voice and his emotions. “I always thought creatures like you would run from a fight, no matter what.”
+
+“Oh, we do.” Zunala said and laughed. “It's much easier to run than fight.”
+
+“But, you didn't.” Weston said. “Even when you were warned you would be hurt, you were still right there with him.”
+
+“I think our time with Ren has made us an exception to the rule.” Zunala said.
+
+Weston stood up and looked at Ren. “Sir, thank you for taking care of them.” He said. “With your intervention, not only did they escape that place with you; but, they have more confidence in themselves in actual battle than some of the trained soldiers I've worked with.”
+
+Ren waved his thanks away. “I'm just glad we all made it out.” He said and pointed to one of the succubi. “Even her pet Dretch.”
+
+She nodded and picked up the carry sack he had made for her. “He's a little hungry, though.”
+
+“Oh, damn.” Ren said. “I'm sorry. What do dretches eat?”
+
+“Corrupted dirt and rotted meat, mostly.” She responded. “Usually discarded dretch legs like we used to eat.”
+
+“I can give you a pile of legs when we land, and I'll have a ton of corrupted dirt for him to feed on soon enough.” Ren said. “Once I make your living space.”
+
+“Aren't we staying in the tower?” She asked.
+
+“If you want to.” Ren said. “I had planned on making an underground sanctuary for you, though.”
+
+“R-really?”
+
+“I can't very well expect you to live above ground right off the bat.” Ren said. “You need a transition stage, at least.”
+
+“How long will it take to build?” Zunala asked.
+
+“I'd say about an hour, if I can convince a certain Earth Spirit to give me a hand.”
+
+“Just make another offering, and she'll come to you.” Frikara said. “Then you can ask for her help.”
+
+“You don't mind that some of her payment is hugs and snuggles?” Ren asked.
+
+“Not at all.” Frikara smiled. “Because I know you won't ever go past kissing her, not without talking to us and the others first.”
+
+Ren gave her a kiss. “You know me well.”
+
+“You've never hidden anything or lied to us.” Frikara said. “You always tell us everything when we ask.”
+
+“Well, I probably could have told you this story last night.” Ren said, and she chuckled.
+
+“It was much more fun to just lay in bed and hold you.” Frikara smiled crookedly. “There was no thinking, or wondering, or contemplation needed for that.”
+
+“You're right.” Ren laughed. “We didn't need any of that.”

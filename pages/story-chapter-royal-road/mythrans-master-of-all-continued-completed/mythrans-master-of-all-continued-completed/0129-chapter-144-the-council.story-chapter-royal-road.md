@@ -1,0 +1,643 @@
+---
+id: cc72ac82-75f1-5c18-b560-5de6fe0a6f65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 144 - The Council"
+slug: 0129-chapter-144-the-council
+partOf: mythrans-master-of-all-continued-completed
+position: 129
+ownLength: 6399
+unit: words
+publishedAt: 2017-01-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/112281/chapter-144-the-council"
+royalRoadId: "112281"
+---
+
+Ren stared at the multiple popups he received after the Commander's surrender.
+
+Notice!
+
+You have soundly defeated an entire Battalion of troops. As this has never happened before, you have been granted XP for every member of the Battalion (462) as if you had dueled them personally.
+
+Rewards: Commander (x1): 10,000 XP; Senior Knight (x1): 5,000 XP; Knight (x20): 3,000 XP; Senior Warrior (x40): 2,000 XP; Basic Warrior (x400): 1,000 XP
+
+Total XP Gained: 555,000 XP
+
+Fame Bonus: 88%
+
+Influence: +231,000 (500 per member average)
+
+Honor: +46,200 (100 per member average)
+
+Notice!
+
+Because of your high Influence (338,970) and Honor (54,230), everyone will now see you as a Prestigious Lord.
+
+Notice!
+
+For defeating your first army in battle, you have been granted a Fame bonus.
+
+Fame: +9240 (20 per member)
+
+Notice!
+
+You have maxed your Fame at 10,000. You are now Revered. Your extra Fame has been converted to XP, and you have been granted a 10 Level Bonus to all Auras.
+
+Fame to XP: 79,900 (1 Fame = 10 XP)
+
+Notice!
+
+You kept a cool head during a major crisis, and inspired those around you.
+
+Command Aura Bonus: +5% XP, plus 1% per Player/NPC under your command (7).
+
+Total Gained: 66,600 XP
+
+Running Quest Update!
+
+You have shown an influential member of society (and hundreds of witnesses) what you can do, much to their surprise and horror.
+
+Rewards: 10,000 XP
+
+Fame Bonus: 100%
+
+Notice!
+
+Because you gained more than 1,000,000 XP from a single action, you have earned the top spot on the 'XP Gain' Leader Board. Your game handle: REN, and your total: 1,068,650 XP, have been posted to the main website and the public forum. Grants +5 Levels to personal Aura.
+
+Aura (Personal) Level 8 (Advanced 30%) Your presence is such as those near you will be in awe of you and your accomplishments. Current distance: 20 foot radius
+
+Level Up!
+
+You have gained 17 levels and are now Level 25. 170 Stat Points have been automatically allocated.
+
+You have unlocked:
+
+Special Class Rune - Store Spell
+
+Class Skill: Artisan (grants 5 levels to Appraisal, make things look more expensive, with higher quality and value)
+
+Special Class Skill: Retain Essence (can absorb an enchantment, then transfer it onto another item)
+
+Class Skill: Intense Student (doubles all knowledge abilities when inside a Library)
+
+Special Class Skill: Craft Construct (unlike a familiar, it is only semi-sentient. Limit: 2)
+
+Craft Construct/Familiar Recipe: Homunculus (Humanoid)
+
+Craft Construct/Familiar Recipe: Homunculus (Iron Defender)
+
+Craft Familiar Recipe: Dedicated Servant Crafter
+
+Special Class Skill: Artificer Knowledge (grants 5 levels to Appraisal, can tell what kind of magic is in an item)
+
+Class Skill: Improved Toughness (you are now much harder to hurt)
+
+Special Class Skill: Improved Homunculi (grants +1 Familiar, sneak attack, weapon proficiency, automatic spell storage on creations)
+
+Special Class Skill: Craft Wand (Can make wands that cast spells: 50 charges. Spells Known: Fireball, Minor Healing)
+
+Special Class Rune: Holding (grants +5 slots of storage)
+
+You can view the individual gains per level in the Level Up Menu.
+
+Notice!
+
+Your familiar is now Level 26, and it grants you a +5 to your Craft Familiar skill.
+
+Craft Familiar Level 7 (Beginner 90%)
+
+Ren dismissed the popups, and stood there in shock. I never imagined...
+
+“Ren, are you okay?” Teepo asked as he landed on Ren's shoulder.
+
+I'm fine, Teepo. Ren thought, then turned to the men still on the battlement wall. “Get me several lengths of rope, and gather up all the Knights you can find here. Tie them up, and then together.” He turned back to the Commander. “I'm sorry about this.”
+
+The Commander nodded slightly. “So am I.” He said. “If I'd known...”
+
+“You'd still have come, but you'd have brought a catapult or two.”
+
+“At least.” The Commander smiled.
+
+Ren took out some rope and tied the Commander's wrists. “I've had an idea about those, by the way.”
+
+The Commander shook his head. “Don't tell me yet.” He said. “If I'm not removed from my post for this epic failure... you and I have a lot to discuss.”
+
+Ren smiled. “Don't worry, Commander. I'll tell the assembly it wasn't your fault. You were just following illegal orders that you couldn't refuse.”
+
+The Commander's eyes widened at the truth in Ren's words. “How do you know that?”
+
+Ren chuckled. “Would you normally have a Battalion march and assault a Minor House?”
+
+He shook his head again. “A squad is usually enough.” The Commander looked around. “I'd have brought a Regiment or even a Brigade for this.”
+
+“It wouldn't have made much difference.” Ren said and smiled. “If you'd taken more time to gather forces, I would have more time to make better defenses.”
+
+“Better defenses?” He asked, surprised.
+
+“What? You think this is all I'd have done if I knew you were coming?” Ren asked. “I'd have had fire traps all over the place. Spiked pit traps. Trenches. Leg holding traps by the dozens.”
+
+“We'd have seen those giant things a mile away.” The Commander said.
+
+Ren laughed. “Normal-sized ones, about a foot across. Covered in dirt. You'd never see them.”
+
+“Covered... in dirt...”
+
+“Don't tell me you've got those huge things just sitting out in the middle of the field.” Ren said, and the Commander looked away. “How many?”
+
+“2 dozen. Right across the width of the field.”
+
+“Did you leave space between them for the catapults shots to land?”
+
+He shook his head.
+
+“You must set half of them off every time.” Ren said.
+
+He nodded.
+
+“You're right, Commander. We will have a lot to discuss after this.”
+
+“We've got them all, Ren!” Croggart said, and brought over the end of a rope. “Counted them myself.”
+
+Ren tied the Commander near the end of the rope Croggart had, and nodded. “Did you clean them of weapons?”
+
+“Nope. I even gave them back the swords and shields that they dropped.” Croggart said, then guffawed. “Of course I took their weapons.”
+
+Ren grinned. “I had to ask.”
+
+Croggart nodded slightly. “What do you want us to do with them now?”
+
+“I'll bring the cart out and you can tie them to it. I'll be taking them to the meeting.”
+
+“What about all the Warriors?”
+
+“You can round them up after I'm gone.” Ren said. “But just in case they decide to regroup and attack again, I'll show you and the guards how to use the protections on the battlement walls.”
+
+Croggart smiled. “That would be great.”
+
+“The automatic crossbows are still loaded, too.” Ren said, then went inside to get the nice plush cart and brought it out to Croggart. “I've got to go in the house and get ready for the meeting.”
+
+Croggart nodded and Ren went inside the house. It was a little crowded with all the people in the main room, so Ren stepped to the middle of the room and concentrated on his personal Aura.
+
+“It's okay, everyone.” Ren said. “The danger is over now that the army's Battalion surrendered.”
+
+“They WHAT?!?” Most of the people exclaimed.
+
+“After a short battle, the Commander came to his senses.” Ren said and smiled. “I've captured the officers, and I'm taking them to the council meeting after I get changed.”
+
+A few people congratulated him, and the rest sat there in silence. Nathalia came over to him and kissed him passionately.
+
+“I don't know what you did, but I gained 8 levels, Major Healing, a Mana shield, and this.” Nathalia held up her fist, and four cat like claws made of Mana, grew out of her knuckles. They were bright blue and were about 3 inches long.
+
+“They look sharp.” Ren said. “You can tell me more later.” He smiled. “We have to get ready for the meeting.”
+
+Nathalia nodded. “Ma, we have to get ready.”
+
+Narhilda came out of the kitchen and passed some plates of food to the guests. “I'm not going.”
+
+Ren turned to her. “My Lady, you have to come.”
+
+She shook her head. “I have to stay and take care of everyone.”
+
+“My Lady...” Ren said. “...I'll make you something nice to wear.”
+
+Narhilda looked at him. “I can't wear anything else.” She said. “I'm in mourning.”
+
+Ren smiled. “I've got an idea about that.”
+
+“Show me.” She said, her face full of hope.
+
+Ren took the two women into the old bedroom and he modified a different royal dress, and added the pattern for the white chiffon dress, so it would fit underneath it. He dyed it red to match both his clothing and Nathalia's dress, added the white parts where appropriate, then sewed it up, but left out the white chiffon parts.
+
+“Put this on.” Ren said and handed it to Narhilda.
+
+Narhilda put the dress on, and it fit over her mourning dress easily. The white chiffon became the under-skirting for the royal dress, and she marveled at it.
+
+“With this, you're still wearing your mourning dress and can still honor your husband's memory.”
+
+“Oh, Ren.” Narhilda said. “You're amazing!”
+
+Ren smiled. “Now will you come to the meeting?”
+
+“Of course, dear.” Narhilda said. “I have to show this off!”
+
+Nathalia chuckled and equipped her own dress. “Should I leave the cloak on, too?”
+
+Ren nodded slightly. “Yes. We're going to give the council a show. With our combined Auras, we can cover the whole building.”
+
+Nathalia smiled and Ren stored his armor, then equipped his red royal suit to match the two women.
+
+“I think that's everything.” He said, and asked Nathalia to concentrate on her personal Aura. “Let's go.”
+
+Ren told Narhilda to walk in front, since she was the Lady of the House, and he held out his elbow for Nathalia to take. They walked out of the bedroom and were greeted with silence.
+
+“We're leaving for the council meeting.” Narhilda said. “Please stay and enjoy the food. We'll be back in a few hours.”
+
+There were several nods and Narhilda turned and walked out of the house. Ren and Nathalia followed her out into the courtyard.
+
+“The cart is out on the road.” Ren said. “The officers are tied to it.”
+
+“Ren!” Narhilda exclaimed. “How could you do-”
+
+“Mother!” Nathalia exclaimed right back.
+
+“It's just for show, My Lady.” Ren said. “They are prisoners, and I'm returning them to the council.”
+
+Narhilda sighed. “Very well.” She said. “I don't like this, though.”
+
+“Neither do I.” Ren said. “But it's necessary.”
+
+She nodded slightly and Ren led the two women out to the cart. The loud chatter Ren could hear stopped as everyone caught sight of Lady Narhilda, and then Ren and Nathalia. The two women climbed into the back of the plush cart and settled down for the trip. All of the dwarves stared at them and they held their heads up high. Ren smiled and ran back into the courtyard to get the baby fire elemental from the oil barrel. It had eaten all the remaining oil and was sitting on the bottom.
+
+“Hey, there!” Ren said. “Are you full?”
+
+It's color changed slightly and he picked it up and tucked it into the hood of his cloak, then went into the stable to get Princess.
+
+“Hi, there.” Ren said and opened her stat window. “Wow, 15 levels!”
+
+She huffed and stood up. Ren helped her assign her 75 stat points and he could almost see her muscles getting bigger. He knocked on Ruck's cabinet.
+
+“Are you okay in there?” Ren asked.
+
+The cabinet door opened and Ruck stepped out.
+
+“Whoa.” Ren said as he saw Ruck was almost double in size. “Let me guess. One of your perks was double capacity.”
+
+Ruck gave the 'thumbs up' gesture and Ren smiled wistfully.
+
+“You're not going to fit on my back anymore.”
+
+Ruck pat Ren's leg and ran across the stable, up the wall, and across the ceiling to end back above Ren.
+
+“Nice.” Ren said and grinned. “I'd say you're nearly as fast as me, now.” He turned to Princess. “I need a ride to the Main Keep.” Ren said. “We're towing soldiers behind, too... actually, you know what? We should put them in a cart, too.” He took Princess out of the stable and out to the road.
+
+“By the gods! Look at that ram!” One of the Knights said.
+
+“It's gigantic!” Another said.
+
+“Look! Golden hooves, too!”
+
+No one told them to be quiet, so they kept talking as Ren hooked Princess up to the front of the cart. Ren went back into the courtyard and took some of the lumber he'd piled up and made a really long 2 wheeled cart. He changed the front so it could be attached to the other cart, and added benches inside so the soldiers had somewhere to sit. Ren enchanted it with a double glyph of Antidark (8 runes total), pulled it out to the road, and the prisoners stared at it.
+
+“Did he have that this whole time?”
+
+“He knew he'd win.”
+
+“How do I get out of this chickenshit outfit?”
+
+“You secure that shit, soldier!” The senior Knight said.
+
+“Untie them from the cart and move them aside, please.” Ren said to Croggart, Dorcot, and the guards. They did so, and Ren put the long cart in the right spot then attached it so it would swivel when they turned the front cart.
+
+“Okay, put them inside and tie them to the front and sides.” Ren said and ran up to the workshop. He started the forge and smelted up a little bit of gold and iron ore. He stirred it quickly, and since there wasn't a lot, he added a bit more gold ore. Ren opened up his locket pattern, and edited it. He took off the front and enlarged it to be about 4 inches long. He took one of the crates of diamonds and picked out 3 similar-sized oval ones. Ren was tempted to give them a basic enchantment, but then he had an idea. He took out the plans he made for the House Neram crest mold and set the design in his mind. He placed a hand on the diamond oval and enchanted it, thinking that he wanted everyone to know what it meant. Ren felt a Mana drain, and looked at the stone as the House Neram crest etched itself onto the surface of the diamond.
+
+Hidden Class Skill Unlocked!
+
+Your ingenuity has given you the ability: Enchant Design. You can create designs and enchant them onto objects. You can imbue these designs with Mana for various effects.
+
+Ren's eyes widened after he dismissed the popup and examined the diamond.
+
+House Neram Diamond
+
+This diamond has been enchanted with the crest of House Neram. It grants the wearer: Aura (House Neram). Distance: 10 feet. Can combine with other Auras or effects to increase both distance and effectiveness.
+
+“That is so cool!” Ren said and enchanted the other two diamonds. He poured out enough molten metal and let the system form it into 3 pendants, then set the diamonds into them. He took one, equipped it, and dismissed the popup. He turned off the forge and ran back down to the cart and the waiting men.
+
+“Sorry.” Ren said and pointed to his pendant. “I got distracted making this.”
+
+“You... you just...”
+
+“Come into the courtyard, and I'll show you how to use the enchantments.” Ren said to Croggart and Dorcot, then motioned for the guards to come, too. They followed him and he assigned Croggart all of the Wind stones, Dorcot the Water, Wohrum the Terror, Kharpik the Fire, Golir to one automatic crossbow, and Broxor to the other one.
+
+“You shouldn't need them; but if you have any trouble gathering up the Warriors, let lose with what you have.” Ren said. “Then shut the gate and pull up the drawbridge.”
+
+They nodded and Ren went back outside to the waiting prisoners. “I'm not bringing a guard, because I'm going to trust your Honor-bound surrender.” He said to the Commander. “It'll be a short ride, so you better hold on.”
+
+The Commander's eyes widened as Ren grinned and went to the front cart. He climbed in the back and presented a diamond pendant to Lady Neram, and to Nathalia.
+
+“Ren, they're beautiful.” Narhilda said as she put hers on, and Nathalia nodded slightly as she equipped hers.
+
+“They match their owners, then.” Ren said, kissed them both on the cheek, and told them to hold on. He jumped down to the ground, walked around to the front of the cart, and looked at Princess. “It's heavy, even with the lightness enchantments. Go slow until you feel it out, then you can run.”
+
+Princess huffed and nodded, and Ren pat her, then climbed into the driver's seat.
+
+“Okay.”
+
+Princess leaned forward and pulled, then the carts started to roll. Ren heard her hooves scrape the road, then she got them going at a good speed, then she ran. There were shouts of 'slow down' and 'by the gods', but Ren ignored them. They made it to the city a couple minutes later and Princess slowed down. She took the corner slowly and the extra long cart made it around without any trouble. Everyone got out of the way of such a large cart, and stared at all of the soldiers in the back. They got to the Main keep a few minutes later and Ren pulled up to the gate, and concentrated on his personal Aura and pendant.
+
+“Where can I park this thing?”
+
+The guard just stared at him. Ren turned to the other guard.
+
+“Parking?”
+
+“There isn't any.” He said. “No one ever brings a cart.”
+
+“I wasn't going to make these men walk all the way here.” Ren said and motioned to the soldiers tied in the back. “I'll just put it over there.” He said and Princess walked over to the spot. Ren climbed down and tied the reins to a small tree, then turned to Princess to whisper. “I normally wouldn't tie you, but I don't want them to think you're going to run free.”
+
+Princess huffed.
+
+“Yes, if anyone tries to hurt or take you, run them over.” Ren said and undid the straps holding her to the cart and left them laying there so it looked like she was still attached. Princess nodded and Ren pat her neck, then went to the back of the front cart to help Nathalia and her mother climb down.
+
+“That was quite the ride.” Narhilda said, and her daughter laughed. Ren stood on the back of the front cart and saw the soldiers sitting there in shock.
+
+“How the hell did it do that?” The Commander asked as Ren untied the ropes holding everyone to the sides of the cart. He walked around to the back and untied the end and helped everyone get out.
+
+“She's my mount.” Ren said. “She's strong and fast.”
+
+The Commander shook his head. “I've never seen a ram do any such thing as I've seen today.”
+
+“That's because she had to pull so much weight.” Ren chuckled. “You should see her when she runs normally.”
+
+Narhilda and Nathalia walked over to him.
+
+“We should get inside.” Nathalia said. “There's a long line, though.”
+
+“Concentrate on your Aura and the pendant.” Ren said and he felt her Aura sync with his, and turned to Narhilda. “Think about the pendant. Remember it's beauty.”
+
+Narhilda looked at it and closed her eyes.
+
+“Now think of House Neram, and what it means to you.” Ren said, and a minute later, Narhilda's eyes opened as her Aura matched Ren's and Nathalia's.
+
+“By the gods!” She said as Ren's Aura went out to over 75 feet.
+
+Ren smiled. “My Lady, please take the lead.”
+
+Narhilda grinned and started to walk. Ren held an elbow out for Nathalia to take, and followed her mother past the line and into the Main Keep. He held the rope tightly, and pulled the soldiers behind them. Once inside everyone stopped to look at them and the line of prisoners tied together. They walked unimpeded down the left hallway to the last door and a guard there opened it for them.
+
+“You can't take them in there with you.” The guard said. “House Members only.”
+
+Ren was ready for this argument. “Since they attacked my House, and I defeated them, I took them into custody. They are under House Neram's protection until I release them.”
+
+The guard opened his mouth to protest, but then he shrugged and waved them through. The procession entered the large meeting hall and the noise slowly died as the House members got a look at what had entered the room. Lady Neram ignored all the stares and walked over to her section. It was small, as she was only a Minor House, but there was enough room for her to sit in the main chair, Nathalia to stand beside her, and for Ren to get the other 22 people into the area by storing the rest of the seats. He didn't untie anyone, however.
+
+“You are prisoners under my command.” Ren told them. “Do. Not. Nod.”
+
+Half an hour later, the last House members entered the chamber and everyone sat. The Council entered the chamber and everyone nodded to them, except for everyone in the House Neram section. The Council members all looked over to where they should have gotten more Honor, and saw the large number of people in that section. Someone started to ask why House Neram had so many retainers and no one else was allowed, then Ren held the rope up and all of the prisoners' hands raised slightly as well. There was an outburst of talk and accusations, and the head of the Council tapped a hammer onto a stone tablet.
+
+“Order will be maintained.” The head of House Lodur said. “House Neram, you have not paid the proper Honor requirement to the Council.”
+
+“That's because you don't deserve it.” Lady Neram said. “I will not nod to arrogant fools, just because they believe I should.”
+
+Gasps were heard around the chamber at Lady Neram's truthful words. Lord Lodur's eyes widened at the blatant snub, and was tempted to censure her for it.
+
+“Go ahead.” She said. “Censure me. Show everyone here you're just as big of a fool as they all know you are.”
+
+More gasps were heard and Ren smiled as conversations stared and became so loud that it was hard to make anything out. Lord Lodur coughed and put the hammer down.
+
+“We are all gathered here today...” Lord Lodur said. “...for the trial of Ren Neram.”
+
+The room burst with new conversations about the subject, and Ren chuckled and leaned down to whisper in Lady Neram's ear.
+
+“That's pretty slick of them.” He said.
+
+She nodded. “It's sure to waste nearly all of the afternoon.”
+
+“It's too bad it won't work.” Ren said. “Go ahead, My Lady.”
+
+Lady Neram stood, and everyone looked at her. She smiled and spoke. “I challenge your right to put Ren on trial for disobeying an illegally issued Council Edict.”
+
+The entire room fell silent, and the Council members all had shocked faces.
+
+“Can she do that?”
+
+“I thought there was going to be a trial?”
+
+“Shhh! It's just getting good.”
+
+“Smack them down!”
+
+“Which one?”
+
+“I don't care, I just want to see someone smacked down!”
+
+Lord Lodur tapped the hammer on the stone tablet again. “Order. Order!” He said, and the place grew quiet. “Do you have any proof of that, Lady Neram?”
+
+She chuckled. “Of course I do.” She said and took out the order. She read it through, and no one spoke. “Now that you have heard the ridiculous terms of their cease work order, you should also know that the Council was NOT IN SESSION when it was issued.”
+
+“Hey, she's right!”
+
+“They announced the break over a month ago. I'd forgotten about that.”
+
+Lord Lodur tapped the hammer again. “The Council doesn't have to be in session to issue edicts.”
+
+“Since when?” Someone shouted.
+
+“Order!” Lord Lodur said.
+
+“What I'd like to know, is how many of the Council actually voted for this?” Lady Neram held the edict up. Several Council members looked around at the other members, and everyone saw doubt on their faces.
+
+“No one is going to admit that this was just a plot to hurt House Neram, and in turn, every business that we dealt with?” Lady Neram asked. “The Honor they lost because you wouldn't allow them to complete their contracts on time.” She shook her head. “How were you going to give that back?”
+
+No one on the Council spoke, and Lady Neram laughed.
+
+“How arrogant you are.” She said. “I'm so glad that Ren was so Honorable that he went to every business we dealt with and canceled his orders; just so they wouldn't lose any more Honor, or the fees he'd paid.”
+
+Most of the House members gasped; but, the ones that Ren had dealt with all nodded slightly.
+
+“They all wanted to give him a refund, especially the ones where he'd paid for extra workers to help cover the orders.” Lady Neram smiled at the reactions from the crowd. “Ren paid a good wage for an honest day's work, and that burned you up inside.” She said to Lord Lodur. “Didn't it?”
+
+He frowned but didn't say anything.
+
+“We knew it was you, Lord Lodur, because we got the notice almost right after Ren paid one of your guards 10 weeks salary for guarding his workers shoveling silt at the mines.” Lady Neram said, and looked at the other Council members. “How many of you have been unhappy that gold... actual gold coins, and not debt payment notices... was starting to seep back into the economy?”
+
+The other House members started agreeing that actual money was going around now, and Lord Lodur scowled.
+
+“Order! ORDER!” He said and slammed the hammer into the stone tablet. It broke and he didn't know what to use the hammer on anymore, and dropped it. “All of that is just hearsay and conjecture.” He said when he calmed down a little. “Unless you have some actual evidence, the Council will ignore your protest.”
+
+Lady Neram laughed. “Really? You speak for the entire Council, and you didn't even ask them what they think.”
+
+Lord Lodur's eyes widened as she blatantly pointed out his mistake.
+
+“You should have at least pretended to confer about it, you idiot.”
+
+“Now, that's enough!” He said.
+
+“No, it isn't.” Lady Neram said. “I want it put to an open vote. If the majority of Houses here believe you are an honest and honorable man, and can do no wrong, then you have nothing to worry about.” She said and grinned. “But, if they believe that Ren is the one who's honest and honorable, and that you are running the Council like your own personal plaything... if you are issuing edicts without the entire Council's knowledge illegally, and out of session, then that will be quite apparent.”
+
+“I run the Council here, Lady Neram.” Lord Lodur said. “Not you. I'm the one that can call a vote, and I'm not going to.”
+
+Several gasps were heard and conversations started up again. Lord Lodur picked up the hammer and hit the desk. It made a dull thud and he sighed.
+
+“Well, then.” Lady Neram said. “You leave me no choice.” She turned to Ren and nodded slightly. He motioned for the soldiers to back out of the House Neram space and then led the whole group of prisoners to the center of the chamber floor.
+
+“These soldiers you ordered to... what was it? Oh, right. You ordered them to 'Capture and Contain' Ren so he couldn't make this meeting today, even though it was Ren that made this emergency meeting happen in the first place.”
+
+Half of the people in the chamber stood at those words, and stared at the Council.
+
+“You sent 2 whole squads to detain him?” Lady Longore asked.
+
+“2 squads? Are you kidding?” Lady Neram laughed. “These are the top officers of the Battalion they sent.”
+
+“Inadmissible!” Lord Faldihr said. “There's no proof that we sent...”
+
+Several Council members turned to stare at him, and he frowned.
+
+“Commander.” Lady Neram said. “As a prisoner, you are Honor-bound to answer truthfully.”
+
+“You are not allowed to question people in this chamber without my permission!” Lord Lodur exclaimed, and everyone stared at him.
+
+“Really?” Lady Neram asked. “As far as I know, according to the law, I can interview my prisoners anywhere I wish.”
+
+Lord Lodur clamped his mouth shut.
+
+“Commander, who told you to come and get Ren?”
+
+The Commander pointed to Lodur, Faldihr, Greentree, and Breakwater... then the chamber nearly exploded at the audacity of the Council members sending the military to assault a House.
+
+“QUIET!” Lord Lodur shouted. “WE run this PLACE! Not YOU!” He turned to Lady Neram. “I'm placing you under arrest for accusing the Council of illegal activities.”
+
+“Thank you.” Lady Neram said.
+
+“What?”
+
+“If you'd said 'the Council is arresting me', then I couldn't say anything.” She grinned. “But you said 'I'm arresting you', and it gives me the option to challenge you.”
+
+His mouth dropped open. “You... you...”
+
+“Lord Lodur, I challenge you.” Lady Neram said.
+
+“I accept.” He said.
+
+“I opt for a replacement champion.” They said together.
+
+Lady Neram nodded slightly to Ren, who brought the soldiers back to the House Neram section. Lord Lodur turned and nodded slightly to someone behind him and the dwarf left the room at a run.
+
+“The arena will be ready shortly.” Lord Lodur said.
+
+“That won't be necessary.” Lady Neram said. “Right here on the chamber floor will be fine.”
+
+“If you choose the venue, I chose the conditions.”
+
+She nodded.
+
+“No armor, weapons...” Lord Lodur grinned. “...or projectile enchantments.”
+
+“Submission or unconsciousness” Lady Neram said, then turned to Ren. “He did what you said.”
+
+“You played your part well.” Ren said and kissed her on the cheek, then kissed Nathalia on the lips. He equipped his Travelling Clothes, left his cloak on, and stepped down to the floor and concentrated on his Fear Aura.
+
+“Hey, you're already breaking the rules!” Lord Lodur accused.
+
+“My Aura isn't a projectile weapon.” Ren said, and grinned as Lord Lodur had to agree. A few minutes later, a dwarf, if he could be called that, stepped into the chamber and walked over to stand across from Ren. He was about a foot taller than Ren and his fists were nearly the size of Ren's head.
+
+“By the gods!” Someone exclaimed. Ren didn't turn around to see who it was, because it didn't matter. The big guy wasn't phased at all by Ren's Fear Aura, so Ren closed his eyes, and switched to his Hatred and used Connection to add his Screaming Terror ring to it.
+
+“By the GODS! Do you feel that?” Someone exclaimed, and Ren thought it was the same voice.
+
+“I'm sorry we had to meet like this.” Ren said.
+
+“I'm not.” He said, and smashed his fists together. “I heard you were a good fighter.”
+
+“I'd rather be fighting for fun; but I'm fighting for something important this time.” Ren said, and the big guy grinned.
+
+He nodded and Ren nodded back.
+
+Notice!
+
+You have entered PvNPC Special Mode: Duel
+
+“Begin!” Lord Lodur said and the big guy swung a meaty fist at Ren's head. Ren dodged easily and punched the guy in the side. He grunted and elbowed Ren in the head, and it whipped to the side. Ren turned around and tried to kick the big guy, but it was caught and the big guy picked him up and slammed him into the floor. Ren bounced off the floor and the big guy kicked him into the podium the Council was sitting at.
+
+“Argh!” Ren grunted as he hit the solid stone base. The big guy walked over and Ren kicked out at one of his legs and connected. The big guy's leg slid out from underneath him and he toppled forward. Ren slid to the side and the big guy hit the Council's desk face first and made a dent. Ren swung his elbow backwards and hit the back of the big guy's head and shoved his face through the wood. The big guy got his head stuck, and Ren grabbed his leg and hauled him out of the desk. The big guy looked at him like he was crazy.
+
+“What did you do that for?” He asked. “You had me.”
+
+“I don't want you to lose because your ears are too big.” Ren said and grinned.
+
+“Ha!” The big guy said and cracked his knuckles as he stood up. He took a fighting stance and lunged at Ren, who ducked and ran to the Council's desk. Ren hopped on top of it, turned around, then jumped and grabbed the big guy around the neck. Ren's momentum carried them forward and he jammed the guy's head into the hard floor. The guy's forehead bounced off the wood and he was dazed for a moment. Ren knelt on one knee and punched the back of the guy's head as hard as he could, and the guy grunted as his nose smashed into the floor.
+
+The big guy grabbed Ren's foot and pulled, and he fell back as the big guy stood up. He punched Ren in the face, then swung him by his foot into the Council's desk, and shattered the front of it. He grinned and stepped back to let Ren climb out of the rubble. Ren smiled and took off at a run, hooked the big guy's chest in a tackle and brought him to the floor. Ren knelt on him and punched his face several times, until his Skull Cracker ability's 20% chance to Stun kicked in.
+
+He rolled the big guy over and stepped across his back to straddle it, then picked the guy up and rested the big guy's armpits on his knees. Ren grabbed him under the chin, then sat down on his lower back, pressing the big guy into a Camel Clutch. The guy immediately snapped out of the stun because of the pain, and started waving his arms. Ren pulled a little harder and the big guy grunted in pain.
+
+“Submit!” Ren said, and the big guy shook his head slightly. Ren leaned back and pulled harder.
+
+“AhhhHHH! I submit! I submit!” The big guy said.
+
+Notice!
+
+You have defeated your opponent in Hand-To-Hand combat.
+
+Rewards: 1700 XP
+
+Influence: +2500
+
+Honor: +1000
+
+Notice!
+
+You have defeated an opponent 90 levels higher than you.
+
+Fame: +1650
+
+Notice!
+
+Excess Fame converted to XP (x10): 16,500
+
+Notice!
+
+PvNPC Special Mode: Duel, has ended.
+
+Ren let him go immediately and switched to his Camaraderie Aura. The entire chamber was deathly silent as Ren helped the guy stand up. He took out the three quarter full Health potion he'd fed the horse with, and shared it with the big guy.
+
+“That was a good fight.” The big guy said and took a drink. “What the hell kind of move was that?”
+
+Ren smiled and took a drink. “It's called a 'Camel Clutch', and it's really painful if applied properly.”
+
+“You don't have to tell me that!” The big guy said and laughed as he rubbed his lower back. “I'm gonna feel that tomorrow.”
+
+“Just like I'm going to feel your fist in my face.” Ren said and rubbed it and passed the potion back. “Damn, you hit hard!”
+
+“Hahaha!” The big guy clapped Ren on the shoulder and finished the potion. “That was the point!”
+
+Ren laughed, and then looked around. He saw everyone's hands in the air.
+
+“Motion to dismiss all charges has been carried.” Lord Lodur said in a sad voice.
+
+“What?” Ren said.
+
+“You're free to go.” Lord Greentree said. “So go.”
+
+Ren looked at the Council member's clothing and frowned. “Annette would be so disappointed in you.” He said. “After all the hard work she did to make this Council a fair and honest forum.”
+
+Lord Greentree had a shocked look on his face, and Ren turned to the big guy.
+
+“Come on over to House Neram sometime.” Ren said. “We can have a few fights for fun.”
+
+“As long as you show me how to do that move.” He said and smiled. “And after I recover.”
+
+Ren nodded slightly and walked back to House Neram's section.
+
+“What about the illegal order to attack a House?” Ren asked Nathalia in a whisper, as he equipped his red royal suit.
+
+“They're voting now.” She whispered back. Lady Neram raised her hand and so did nearly everyone else.
+
+“The order is hereby nullified and no consequences will be dealt to the Commander and his troops.” Lord Lodur grumbled.
+
+Ren leaned forward. “My Lady, perhaps...”
+
+Lady Neram nodded slightly and stood. “I motion for the Council seats to be audited, and any wrong doings by Council members should make their seats invalid; with elections to be held next year for replacements.”
+
+“Seconded.”
+
+“All in favor?” A Council member dressed in blue on the end said. Once again, nearly everyone raised their hands and Ren grinned. Lord Lodur got up from the desk and left the room. Lord Faldihr followed him a moment later.
+
+“Motion carried.”
+
+The room erupted in shouts and cheers, and Ren hugged Nathalia. Lady Neram turned to them and hugged them both.
+
+“We aren't out of this yet.” Narhilda said. “They still have a stranglehold on the economy with all the debts still owed in labor.”
+
+Ren nodded slightly as he turned to untie the Commander and his Knights. “They do have a stranglehold for now; but by the time the contracted labor is over, no one will want to work into debt again.”
+
+The Commander nodded to him, and Ren nodded back.
+
+“I'll probably see you in a few days.” Ren said to him. “I've got a good deal going on expensive armor and enchantments.”
+
+The Commander chuckled, nodded slightly, and led his troops out of the chamber.
+
+“Now what do we do?” Nathalia said.
+
+“Let's go home.” Ren said and kissed her.
+
+“That sounds great.” She said, and Ren held out his elbows for them to take. They grabbed on and he led both of them out of the chamber.

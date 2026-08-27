@@ -1,0 +1,433 @@
+---
+id: aac05a77-715e-5d6b-9d18-86afcb0ab95a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 368 - A Good Day"
+slug: 0361-chapter-368-a-good-day
+partOf: mythrans-master-of-all-continued-completed
+position: 361
+ownLength: 5162
+unit: words
+publishedAt: 2017-09-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164054/chapter-368-a-good-day"
+royalRoadId: "164054"
+---
+
+Now that the giant flour maker was as completed as it was going to be until the cement dried, Ren ran back over to the warehouse and giant forge, and made two long sinks. They were 2 feet wide, 2 feet deep, and 3 feet long. He added an indentation on the bottom to hold several steel squares, then added 2 taps that would hold one square each. He enchanted the ones for the taps with all Water runes, and the ones on the bottom of the sink with Antiwater runes.
+
+Ren then made braces and legs for them, rather than have them only mounted to the wall, stored everything and ran back into the bakery to set up the two sinks between the three sets of ovens.
+
+“I think that's everything.” Ren said.
+
+“We still need the giant sifter.” Tee-one reminded him.
+
+“Dammit!” Ren exclaimed. “I forgot!”
+
+“Language, My Lord!” One of the women said, and Ren turned to see who it was.
+
+“I'm sorry, M'lady.” Ren said to Gemma, and gave her a quick bow. “Please forgive me.”
+
+Gemma's mouth opened and closed several times at being called a Lady, then she took a deep breath and nodded. Ren ran back over to the giant forge and made another large bowl, about half the size of what the flour grinder would be when it was done, then enlarged the plans for the flour sifter. He didn't increase the size of the space in the wire mesh, however.
+
+Ren added in the turning gear and handle for the sifter to push the flour though the mesh and scoop out any larger pieces that weren't ground properly. With that done, he went back over to the bakery and Tee-one already had the shelf ready. Ren put the large bowl and sifter on it and stepped back.
+
+“Okay, now I think that's everything.”
+
+“You should probably set the owner of this place before you leave for the night.” Tee-one said.
+
+“Thanks for reminding me.” Ren said and walked over to the 4 women who were hard at work. “I know this is going to sound a little weird, but... which of you is the most senior?”
+
+“That's Gemma.” Betsie said. “She's been a baker a lot longer than any of us.”
+
+“Hey, I'm not that old!” Gemma said in her defense. “My daughter Falla is only 10!”
+
+Ramona chuckled. “My Russell is only 10, too. Do you want me to claim I'm older than you?”
+
+Gemma opened her mouth to respond hotly, then she sighed. “All right.” She said a little sadly. “I'm the oldest.”
+
+Ren chuckled. “That wasn't really what I meant, but it'll do.” He said and opened the Land Owner menu and made Gemma the owner of the building. A key appeared around her neck, and she gasped.
+
+“Wh-what's this?”
+
+“Congratulations.” Ren said. “You are now the proud owner of the very first bakery in Goagan City.”
+
+“I'm the WHAT?!?” Gemma gripped the key in her hands and stared at Ren. “W-wait! D-did you just say Goagan City?”
+
+Ren nodded and added the other three women to the allow list for the building, and similar keys appeared around their necks. “The rest of you have full access as well.” He said. “I hope you can make as much baked goods as you can.”
+
+The 4 women stared at Ren with open mouths as he walked back over to Tee-one.
+
+“I'm tempted to have you work on the defenses for the county.” Ren said.
+
+“I can do that.” Tee-one said. “I just need some supplies from you.”
+
+Ren took out a couple of good-sized diamonds and a couple of poles, and gave them to Tee-one.
+
+“I'll head out right after Ruck and I make the medical building.”
+
+“Right!” Ren said and opened the order menu; then laughed. “Actually, I don't know what I'm supposed to order for healers to use.”
+
+“You can ask Nathalia to get the information from Ereka.” Tee-one said.
+
+“That's a great idea.” Ren said. Teepo, what's my time like?
+
+“If you leave now, you can be back in Aurora and still have an hour before supper.” Teepo said.
+
+Thanks, buddy. Ren thought to his friend. “I better get going if I'm going to catch her before the supper rush.” He said. “I might be gone for a few days, too. The guys have a quest in a couple days, and I might have Adventurer's business until then.”
+
+Tee-one nodded and Ren gave him the farm vehicle and bid the women bakers goodnight. He saw that Ramona was disappointed that he didn't kiss her hand goodbye, and noticed Gemma's sister had a similar look on her face. He gave them a little bow instead, and when he turned to leave, Gemma spoke.
+
+“Wait!” Gemma said. “It's almost done!”
+
+“I'm sorry, I can't wait for the bread to finish baking.” Ren said.
+
+“No, these!” Gemma said, and shook the wire basket in the deep fryer. Ren ran over to her without hesitation and looked into the large steel tub.
+
+“They look good.” Ren said and took in a deep breath through his nose. “They smell good, too.”
+
+“Just wait.” Gemma said, and shook them again. “Okay.” She said and few moments later, and Ren watched as she lifted out the basket and hung it on the side. He reached for one and she slapped his hand.
+
+“Ow!” Gemma said and cupped her hand against her chest.
+
+“I'm sorry.” Ren said and took out a Level 5 Major Healing wand. “Let me see your hand.”
+
+“No, it's fine.” Gemma said.
+
+“Gemma, show him your hand and let him heal it.” Ramona said.
+
+Gemma sighed and held it out. Ren saw one of the fingers was immobile, and he very carefully examined it with his own fingers. He sighed in relief when his Healing ability told him it was just a dislocated knuckle, and he switched the Major Healing wand for a Minor Healing one, and healed her hand.
+
+“Gemma, you need to be more careful.” Ren said. “I'm pretty Tough, and you'll hurt yourself if you try to hit me like that again.”
+
+“I'll remember.” Gemma said and picked up the wire basket. “They should be cool enough now.”
+
+“Butter!” Ramona said. Gemma dumped the fried pieces of dough out onto a large cookie sheet, and Ramona covered them in butter.
+
+“I've got the sugar.” Betsie said and grabbed a small handful, then sprinkled it over the butter-covered fried dough. Gemma offered Ren the first one, and he took a bite.
+
+“Oh, wow.” Ren said and ate it. “That's really good!”
+
+“I told you.” Gemma said and took one herself. The other three women took a piece, and Russell took one, too. Gemma offered Ren the last piece, which he gratefully accepted and stored.
+
+“I'll need a couple of buckets of grease.” Ren said and Ramona pointed to the third one Ruck had brought in.
+
+“That's the last of my stock for the month.” Ramona said. “Gemma?”
+
+“I've got one, and maybe another half of one.”
+
+“I haven't used mine at all.” Betsie said. “I have 4 of them.”
+
+“Ladies, if you would be so kind, I'd like to get them from you.” Ren said.
+
+“Well...” Betsie said. “I don't want to give up all of what I have...”
+
+“Just two from you will be fine.” Ren said. “I see two empty buckets, so I assume two can half-fill the fryer.”
+
+Gemma nodded. “If you put much more than that in it, you run the risk of it spilling or splashing.”
+
+Ramona looked at her son. “Russell.”
+
+“If Ruck comes along, sure.” Russell said. “He can run faster than me!”
+
+Ren chuckled and stored the bucket of grease. “I'll go and see how the houses are coming along while you're gone.” He said and ran out of the bakery behind Russell and Ruck, then went across the road to see how far along Jen and her work crews were in building the houses.
+
+“We're just packing up.” Jen said when he approached. “It's taking a little longer because Jhulune isn't here to carry everything this time.”
+
+Ren was tempted to offer Jen a Strong Ring of Storage; but that would cut Jhulune's usefulness to her down, and he didn't want to do that.
+
+“If you're going to be a few minutes, then I'll go and check on Janice and get Princess ready.” Ren said instead. Jen nodded, and Ren ran across the road to Janice's shop. He knocked on the workshop's door, and she stopped working to look at him.
+
+“I'm heading back to Aurora for the night, and I'll probably be gone for a couple of days.”
+
+“I have to log out soon, too.” Janice said. “Can you leave my old house and my spawn point?”
+
+“Sure.” Ren said and ran around the back of her workshop and took her old house out of inventory and set it on the ground, then ran back to the front. “It's out back, and you can transfer your stuff to your new place.” He said, then made her a small icebox and gave her a dozen plates of food. “By the way, I'm pretty sure you can set your spawn point for the new house. It should be a safe zone.”
+
+“Thanks, Ren.” Janice said. “You really... I mean, look at this place.” She said, then walked over to him to give him a hug. “You've done so much for me, and... and you... you don't expect me to... well, I...” She smiled at him. “Thank you.”
+
+“You're welcome.” Ren said, and let a smile spread across his face. “Although, I wouldn't mind seeing you bend over in just a slip again.”
+
+“Ren!” Janice said and playfully swatted at him. “Get!” *swat* “Out!” *swat* “Of!” *swat* “Here!”
+
+Ren laughed, then ran over to the Main House and went inside.
+
+“Hi, Princess.” Ren said and pet her. “Did you have a good rest?”
+
+Hello, My Lord. Princess thought to him and stood up. I did, but I am ready to run again.
+
+Ren smiled and led her outside the Main House and over to Jen. She stood beside the three carts that her work crews were going to ride in. Ruck and Russell arrived back at the bakery, then came over and gave Ren the buckets of grease he wanted.
+
+The work crews all loaded into their carts and Ren took out the Giant Strength and Haste wands, and cast them on the three horses. They took off at full speed, and Ren switched out the Phantom Steed wand his Hand of Glory held for the Energize wand. Ruck and Russell waved at them, then Princess ran after the carts to follow them back to Aurora.
+
+*
+
+Officer Holly Stonewall was glad that there was an underground network online for buying FLOW gold, because she didn't have the time or the inclination to go adventuring to earn money. She was currently asleep at an inn because she had an early appointment at the Temporary Care Facility where she thought Ren was staying. She was exhausted because she had been up nearly the whole real life night and tried to follow Ren's erratic movements around the city, to try and discover what it was he was doing.
+
+*
+
+Ren and the lumber yard carts arrived at the West Gate into Aurora, and he cast Energize on the horses so they wouldn't be exhausted after the hard run.
+
+“I'll see you again in a few days.” Jen said, and Ren shook his head.
+
+“Actually, I've got Adventurer's business to take care of, and I won't be available.”
+
+“I... oh, well... I guess we're going back to regular travel for the next trip.”
+
+“I'm sorry if that messes up your schedule.”
+
+Jen smiled. “Don't worry about that.” She said. “I'll see you the trip after that.”
+
+“Probably.” Ren said. “See you then.”
+
+“Bye, Ren.”
+
+They went their separate ways when they entered the city. Jen took her crew back to the lumber mill, and Ren went to the Housing District.
+
+Verwynn should have closed the market stall a couple of hours ago. Ren thought and felt his Aura merge with the shared Aura. He felt reservations and feelings of concealment, and frowned. What are they doing? He asked himself.
+
+Princess came to a stop outside the house, and he took her inside and put her in the back bedroom with a couple plates of food. He saw Riley and Stacy and didn't get any ominous feelings from them, so he left the back bedroom and tried to check on Railyse. He only managed to check on the water elemental guard because it wouldn't let him in, and instead went upstairs to the bedroom. Ren walked inside, and all 5 of the maids sat still on the end of the bed and looked very reserved.
+
+“Okay, what's going on?” Ren asked them. “You're all hiding something.”
+
+The maids exchanged glances, and he felt their worry.
+
+“If something bad happened...” Ren let a spurt of anger out. “...to any of you...” He said and clenched a fist. “Tell me who it was and I'll deal with it.”
+
+The maids let appreciation flow into the Aura, then they let the feelings of reservation go and happiness and joy flooded out of them.
+
+“We sold it all!” Verwynn said and jumped up. “Look!” She took off her coin pouch and dumped out 120 gold and a pile of silver coins onto the bed.
+
+“Wh-what?” Ren let his anger go and blinked his eyes a few times. The maids laughed at his reaction and tackled him. Verwynn got her arms around his neck and stood in front, Navruth and Lusinia had one of his arms each, and Frikara and Andrela hugged him from behind.
+
+“It went a little slow at first; but, once the first person bought a vase at a discount...” Verwynn smiled and kissed his cheek. “We couldn't beat them away!”
+
+“Really?” Ren asked.
+
+“It's true!” Lusinia said and kissed his cheek, too. “I don't think I've ever seen so many people before!”
+
+“They were all so tall.” Navruth said and kissed his other cheek. “We didn't see anything besides people all day.”
+
+“Until you showed up at noon riding Princess.” Frikara said. Ren turned to look at her and she kissed his cheek, too. “What a sight that was.”
+
+“It was great!” Andrela said, and Ren turned his head the other way to look at her and she kissed his other cheek. “I really liked how much you appreciated us.”
+
+“We all did.” Verwynn said, and Ren faced front. Her face was only a couple of inches lower than his. “Then just now, when you thought we were in danger, we felt how angry you were.” Her face flushed red and she leaned in close. “I really liked that.” She whispered seductively. She was so close, and in fact they all were; and he could feel they all liked that he would crush anyone that would try to harm them. The maids held onto him, but weren't restricting him at all; and he let his appreciation for them and their efforts on his behalf flow out.
+
+They all caught their breath, and then gasped as Ren kissed Verwynn. Just like the last time he had kissed her, she wasn't sure what to do with herself and just stood there and let him kiss her as much as he wanted. Ren could feel her desire and her uncertainty, and Navruth and Lucinia let his arms go. He wrapped them around Verwynn and held on tightly, and that was enough to shake her out of her doubt.
+
+Verwynn was still kind of lost in how she felt, but her body knew exactly what it wanted. Her hands moved through his hair and grabbed on, and she pulled herself up so her lips were at the same level as his. Ren moved his hands to her backside to hold her up, and she moaned into his mouth because he was touching something she had thought he would never touch. She desperately wanted to wrap her legs around him, but the long dress prevented that.
+
+Ren felt her frustration and broke the kiss. “What...”
+
+“Dress.” Verwynn said.
+
+“Just store it.” Ren said
+
+Verwynn's mouth made that little 'o' of surprise, because she had forgotten she could do that with the ring. She actually thought she would have to get undressed and they would have to stop what they were doing; then she smiled and stored the dress in an instant. She wrapped her legs around him, now that the dress was no longer in the way, and kissed him. Ren felt her joy, all of their joy, and walked over to the bed. He sat Verwynn on the end of it as they kissed, then he moved her back and laid down with her underneath.
+
+All Verwynn wore was a pair of underwear and a smile, and Ren got caught up in the beauty of the sight. He knew what he was doing, and the maids knew what he was doing, and he let the maids feel how he felt as he looked at Verwynn. The other maids climbed onto the bed and laid down beside her. Verwynn let her arms fall away from around Ren's neck, and two maids on one side held onto one arm, and the two maids on her other side held her other arm.
+
+Verwynn looked at Ren and nodded, and he ground himself against her. He was still fully clothed, but he knew that didn't matter for her. Verwynn's breath sped up as his movements sped up, and they stared at each other as he did his best to make her go. He could feel it in the Aura as it slowly built up, and he felt the other maids going along for the ride.
+
+Ren didn't look at anyone else, even though he felt like some of them wanted him to look at them. This was Verwynn's turn, and he let some of that feeling out. Verwynn stopped breathing when she felt that, and that was enough to push her emotions over the edge and she let herself go.
+
+“By the gods!” Verwynn said and kissed him. When she let all of her reservations and uneasiness go, she finished. She broke the kiss and threw her head back onto the bed. “UnnnnNNNN!” She half-screamed and half-moaned as Ren kept rubbing himself over her. She panted over and over as the rest of the maids finished, and she unwrapped her legs from around him. Her limbs lost all mobility as her entire body relaxed. All 5 maids had been satisfied far beyond what they thought was possible, and Ren got up off the bed.
+
+“R-R-Ren...” Verwynn mumbled.
+
+“I need to run a quick errand, and then I'm going to be gone for a couple of days.” Ren said, then walked over to the first maid on the bed and kissed her, then the next, and so on until he had kissed all 5 of them. “I'll be back in a bit so we can eat supper.”
+
+“No... rush.” Frikara said, and Ren chuckled. He left the bedroom and ran down the stairs, then went outside and down the street. He ran to his business and went inside to see Anabelle.
+
+“Hi, Ren.” Anabelle said.
+
+“No one else in the store?” Ren asked.
+
+“I was about to close early and go grab a bite to eat.”
+
+“That's a great idea.” Ren said. “Mind if I join you?”
+
+“Mind?” Anabelle said and came around the counter. “I insist.”
+
+“Go put on something sexy and I'll close up the shop.”
+
+“What makes you think I'll do that?” Anabelle asked, teasingly.
+
+“Because when you swing your hips when you walk, you want me to know that you're doing it only for me.”
+
+Anabelle bent over and kissed him. “It is only for you, Ren.”
+
+“Then get your ass upstairs and change. I'm a little sexually frustrated right now, and I need the distraction.” Ren said. “So, hurry up.”
+
+“Yes, My Lord.” Anabelle said and jogged over to the back door and disappeared up the stairs. Ren closed the curtains on the windows and locked the door, then equipped his stylish red suit. Anabelle came down a minute later in a dress that wasn't supposed to be low cut; but, because she had done something to her chest, it was pushed well above where it should have been. When she walked, he saw the skirt had a large slit cut up the side of it so she could show off her long legs.
+
+“You've been sewing?” Ren asked her, and she nodded.
+
+“Do you like the alterations?” Anabelle asked, and bent over in front of him. Her breasts almost spilled out of her dress, and Ren swallowed loudly as he watched intently for it to happen. Her hand reached out and touched his chin, and he looked up at the huge smile on her face. She gave him a kiss, and stood up straight.
+
+“Shall we go, My Lord?” Anabelle asked and held her arm out. Ren nodded wordlessly and took her arm, then they left the business and walked up the street to Nathalia's Nourishment.
+
+*
+
+Lara, the Sage of Ages, had finally finished her Required Knowledge quest. She sat up straight at her desk and then stood up to put back the book she had borrowed.
+
+Who would have thought that reading a thousand books, even with Expert level Speed Reading, would take so flipping long? Lara asked herself and walked over to the shelf she had gotten the book from, and slipped it back into place. Her stomach rumbled, and she looked down at it. That's new. She thought, and then it rumbled again. She looked at her Health Bar and it started to drop a little. Ha. They added a warning system.
+
+Lara walked over to her closet and went inside, chose the Aurora Library from the drop down menu, and stepped back out. She came out of the back area and walked across the Library, then glanced at the Head Librarian. They exchanged respectful nods, and Lara left the Library and walked up the street to Nathalia's Nourishment.
+
+*
+
+Ren was glad they were a little early, and they got in almost right away.
+
+“Oh! Hello, My Lord!” The woman who sat people said, and looked at Anabelle. “Table for two?”
+
+“Please.” Ren said. “Preferably secluded, if that's possible.”
+
+“We just had a partition installed in the back.” She said and smiled. “Three private tables, separated by a curtain.”
+
+“Anabelle?” Ren asked.
+
+“Oh, yes.” Anabelle said. “More privacy would be preferable, My Lord.”
+
+“A private table it is.” Ren said and looked at the woman. “Lead the way.”
+
+“Follow me.” She said, and Ren led Anabelle across the restaurant to the back. They went behind a partition and through a curtain to a very nice private table. It was covered in the red tablecloth that he had made for it, and for every other table in the establishment. Ren held a chair out for Anabelle and she sat down, then Ren sat across from her.
+
+“I'll send a server over in a few minutes to take your order.” The woman said and gave them menus to look over.
+
+“Thank you.” Ren said, and the woman left.
+
+“No, this won't do.” Anabelle said. “I'm much to far away from you.”
+
+“It's a 3 foot wide round table.” Ren smiled. “You can bend over the table and I can kiss you.”
+
+“No, no.” Anabelle stood up and picked up the chair. “That's much too far away.” She walked around the table and put her chair right next to Ren and sat down. “Yes, this is much better.” She said, and wrapped an arm around Ren's, which squeezed her breasts together. Ren thought for sure they would pop out when she did that; but they didn't.
+
+“Can I take your order?” The server asked as she stepped through the curtain. “Oh! Hello, My Lord!”
+
+“Hello.” Ren said to her. It was the server that liked getting her hand kissed. “What's the special today?”
+
+“Steak and potatoes, with a side of vegetables.”
+
+“Two please.” Ren said.
+
+“Yes, My Lord.” The server said. “There's going to be a brief wait. They're still butchering the cow.”
+
+“That's fine.” Ren said. “I don't have to leave for Adventurer's business for another hour.”
+
+“I'll have it to you as soon as it's ready.” The server said, and left to wait on more tables.
+
+“It seems we have a bit of time on our hands.” Anabelle said. “Whatever will we do?”
+
+“I have a couple of ideas, but we're in public.” Ren said. “We can't just...”
+
+“Oops!” Anabelle said and tossed a spoon onto the floor. “I seem to have dropped my spoon!”
+
+“Anabelle...”
+
+“Don't worry, My Lord.” Anabelle said and moved her chair back a little. “You just sit right there and relax. I'll get it.”
+
+Ren watched as Anabelle bent down and went to pick up the spoon, then she ducked under the table and disappeared behind the tablecloth.
+
+“Anab-” Ren stopped talking when her hand came out from under the tablecloth and touched him between the legs. He was still excited after what he had done with the maids; so he squirmed a little when Anabelle tapped on it, and then she tugged on the cloth of his pants. He didn't protest, and her other hand came out from under the tablecloth and undid his pants. Ren moved a little closer to the table to hide what she was doing, and he closed his eyes as she pleased him.
+
+*
+
+Nathalia came through the portal in the storage room, and gasped as her collective with Ren formed immediately. She closed her eyes and let his feelings flow over and through her.
+
+By the gods! Nathalia thought. What are you doing?
+
+Nathalia walked to the storage area door and made sure it was locked, then sat down on the floor to ride out what she was feeling from him.
+
+*
+
+Ren had felt Nathalia appear and his emotions reached a new height when their collective formed. Anabelle had felt the change in his body, and she took full advantage of it.
+
+By the gods! Nathalia thought. What are you doing?
+
+Anabelle is... under the table... and... Ren thought to Nathalia.
+
+I can feel it, too. Nathalia thought to him. It's like...
+
+I know. Ren thought. I'm... almost done.
+
+Oh, Ren. Nathalia thought. I wish it was me.
+
+It is you, my dearest love. Ren thought. It's always you. He fed her the feelings he remembered of her mouth on him. Nathalia covered her mouth because she really could feel him on her lips, and then she gasped as he finished.
+
+Anabelle was determined to hold all of him this time, and she stayed where she was until he was done. The server came in with their two plates of food and placed them on the table. “Where is your pretty date?”
+
+“She had a last minute thing that she wanted to do.” Ren said in a normal voice.
+
+“I hope she comes back before the food gets cold.” The server said.
+
+“She's almost done.” Ren said and smiled. “Thank you.”
+
+“I'll come back in a while to see if you need anything else.” She said and left.
+
+It took a couple of minutes for Anabelle to finish cleaning up, and she had somehow came out from under the table gracefully.
+
+“My Lord, you really needed that.” Anabelle said and sat down.
+
+“I did.” Ren said and kissed her. “Thank you very much.”
+
+“It was my pleasure.” Anabelle said, and then Nathalia stepped through the curtain. “Nathalia!” She said and stood up to give her a hug.
+
+“Hi, Anabelle.” Nathalia said and hugged her back. “I just stopped in to see that everything was all right.”
+
+“Everything is fine.” Ren said in a satisfied voice, and sent Nathalia the feeling of a quick kiss on the lips. “Thank you for checking in on us.”
+
+“After that order you made the other day, I had to see what you've been up to.” Nathalia said.
+
+“I've been feeding lunch to the work crews building the houses in my county.” Ren said. “And also myself, Princess, the maids, and sometimes Anabelle and a woman I met, Janice.”
+
+“Janice?”
+
+Ren nodded. “She's a glassworker, and I'm paying her for lessons.”
+
+“Have you made anything yet?”
+
+“Only a few odd-sized potion bottles.” Ren said and chuckled. “I've only had one lesson so far.”
+
+“Well, if it's like everything else you can do, you'll pick it up fast.”
+
+Ren stared at Nathalia and remembered getting to touch her all over, and saw Nathalia shiver a little. “I'm sorry.” Ren said. “Just seeing you in person...”
+
+“I know.” Nathalia said and hugged herself. “I feel it, too.”
+
+“Well, before I forget... can you ask Ereka what Artrude and Malenka ordered for the medical building as supplies? I'm building a healer outpost and I'd like to know what to fill it with.”
+
+“Of course.” Nathalia said. “I'll step through the portal and ask her, then check again when supper is over.”
+
+“Thank you, Nathal... ah... M'lady.”
+
+Nathalia smiled. “When we're alone, you can call me by my name.”
+
+Ren shook his head. “I won't take the chance that it might happen in public, my dearest love.”
+
+“I feel so bad for the two of you.” Anabelle said. “So close, and yet so far.”
+
+“It's all right.” Nathalia said. “We... we both need to adjust to... not being together anymore.”
+
+“Let me help.” Anabelle said and kissed Ren passionately. She broke the kiss and walked over to Nathalia.
+
+“I don't think that seeing him kiss another woman is-Mmm!” Nathalia's words were cut off as Anabelle kissed her just as passionately. She broke the kiss and smiled at her friend.
+
+“There! You kissed but you didn't kiss!” Anabelle said. “You don't have to feel guilty about it, okay? You didn't actually kiss him, right?”
+
+Nathalia blinked her eyes at her, and Ren blinked his eyes at both of them.
+
+“Now go and do what Ren asked, and let us know what Ereka said.” Anabelle said, turned Nathalia around by her shoulders, and eased her out through the curtain.
+
+“O-okay.” Nathalia said and walked away, stunned.
+
+“Anabelle.” Ren said and she walked over to the table and sat down next to him.
+
+“Yes, My Lord?”
+
+“That was very nice of you.” Ren said, rather than tell her that she had shocked Nathalia.
+
+“It was!” Anabelle said. “Did you see her face?” She took a bite of food. “She still really loves you, you know.”
+
+“I know.” Ren said and started to eat as well.
+
+The poor spoon was still on the floor, alone and abandoned.

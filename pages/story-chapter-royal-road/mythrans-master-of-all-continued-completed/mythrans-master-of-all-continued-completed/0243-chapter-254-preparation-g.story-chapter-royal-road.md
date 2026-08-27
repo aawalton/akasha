@@ -1,0 +1,411 @@
+---
+id: 1c57511f-7768-5f08-8cec-8323318b45da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 254 - Preparation G"
+slug: 0243-chapter-254-preparation-g
+partOf: mythrans-master-of-all-continued-completed
+position: 243
+ownLength: 4298
+unit: words
+publishedAt: 2017-05-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136766/chapter-254-preparation-g"
+royalRoadId: "136766"
+---
+
+Ren ran to Princess and climbed up into the saddle. “We’ve got work to do.” He said, and she took off towards the other side of the camp, and jumped over the trench that faced the giant lands. “I hope they finished it all the way around.” Ren said as Princess came to a stop, and he took out several steel squares. He enchanted them with Water Spray glyphs, just like his ring, and activated them. Water gushed out like fire hoses from each of them, and Ren directed it into the trench. It looked like it was going to take a lot of water to fill, so he tossed the squares into the trench and Princess trotted around the edge.
+
+The trench was 20 feet deep by 20 feet wide; so, Ren dropped another steel square enchanted with Water Spray every 30 feet or so. Princess’ trot was pretty fast, so by the time he had enchanted another square, he had to throw and activate it. They went all around the circumference of the trench, and Ren was relieved that it had been finished, and the dirt had been left on the outside. It was already in kind of a mound, but it was mostly flattened out.
+
+“How’s my time, Teepo?” Ren asked, and climbed down from the saddle.
+
+“You’ve got about 40 minutes before Lara tells the Chancellor the actual location of the giant’s camp.”
+
+Ren nodded and took out a shovel.
+
+“What are you doing?”
+
+“I’m going to build a dirt wall around the camp.” Ren said and started to dig in the churned-up dirt.
+
+“You’ll never make it high enough to stop the giants.” Teepo said.
+
+“The wall itself isn’t going to.” Ren said. “I’m going to embed steel squares into it to aim up at the giants.”
+
+“Sweet.” Teepo said.
+
+Once Ren had a mound about a foot high, he set a steel square in it and enchanted it with a glyph of Fire and Wind runes. Ren kept going, and went along all the way around the trench. He settled into a Serene State of Mind as he worked, and kept his pace and breathing even as he continued to dig and place steel squares. He was tempted to drop a few Screaming Terror enchantments, but the last time he tried it, it didn’t work well without the boost from combining them.
+
+There’s no way for me to make a Connection between all of them, even if I made one Connection at a time. Ren thought. I need to keep making Connections every 2 minutes, and I can’t do that if they aren’t within my Aura’s radius.
+
+“Princess, let’s go out about half a mile, and drop some more steel squares.” Ren said an hour later, once he was done with the small mounds and set the Fire and Wind enchanted steel squares in them. He climbed up onto Princess and sat on the saddle.
+
+“Well, nothing happened after Lara told the Chancellor the information.” Ren said. “That's a good sign it's not happening right away.”
+
+Princess took off at a run and went out to where Ren said, and he enchanted a steel square with a Magic Mouth spell, set it for activation when something large passed by it, and had it scream repeatedly as an early warning system. The scream he used was appropriate, as it was the same scream he’d heard the giants make when he was excising the Brain Arthropod Grubs from their heads.
+
+“Is half a mile far enough?” Teepo asked.
+
+“It should be.” Ren said. “We saw how much ground they can cover when they run. I should be able to activate all of the enchantments around the camp as I ride Princess around it long before they can reach here.”
+
+“So, you’re not going after the ones that left?”
+
+“I can’t.” Ren said. “I don’t know where they went, or even know where to look.”
+
+“It’s too bad that both giants with an inventory left.” Teepo said. “They were a big help.”
+
+“Yeah.” Ren said as he dropped another square on the ground. He thought about setting them up in specific spots, but the giants were so big that if they were going to pass near enough to the square, it didn’t matter if the steel squares were 5 feet off the ground or on the ground itself. It didn’t take long for Ren to cover the whole area with them, and he made sure their area of effect of 20 feet touched the others; that way, no giant passing through could miss hitting at least one of them.
+
+Ren had Princess go back to the spot he thought was the most likely approach for the giants to come, and climbed down to wait.
+
+“You’re just going to sit here?” Teepo asked. “They could be coming right away, or they could be here a week from now.”
+
+“I know.” Ren said. “I probably should have asked Lara if they had a portal spell or something.”
+
+“Even if they do, could she tell you about it?”
+
+Ren opened his mouth to respond, and then laughed. “Nope.”
+
+*
+
+Nathalia woke up and found Ren wasn’t beside her. She got out of bed and looked out on the couch. Well, he didn’t 'leave' again. She thought, and went to the kitchen. He didn’t eat, either. She sighed and went to Ereka’s room. When she opened the door, she saw that Ereka was alone. He’s not there, so he hasn't told her that he accepted her offer. She closed the door and went back into the kitchen. She glanced down at her Sending Ring and thought of him.
+
+“Ren?”
+
+*
+
+“Good morning!” Ren said. “I’m sorry I had to run out so early, but Lara sent me a message that said the giants wanted to know where the refugees are.”
+
+“Why does that sound like a bad thing?” Nathalia asked.
+
+“Because you catch on fast.” Ren chuckled.
+
+“I take it you’ve set up some defenses.”
+
+“Paltry ones.” Ren said. “It’s a trench that currently filling up with water, and a pile of fire and wind enchanted steel squares.”
+
+“You can’t activate them all at once, can you?”
+
+“No.” He said. “Only the ones within my Aura.”
+
+“How long do you think it’ll take them to get to the giant camp?”
+
+“No idea.” Ren said. “It took 2 days with Princess pulling a giant cart to go from where Groggot was being held to the giant lands; so I assumed it would take about a week for a giant.” He sighed. “I’m thinking I should head back to the Garrison and let them know there’s no set time limit for all of this.”
+
+“You definitely shouldn’t just sit there and wait.” Nathalia said. “That’s just wasting time.”
+
+“All right, you’ve convinced me.” Ren said. “I’ll head to work instead, and leave instructions for the Garrison to contact me.”
+
+“You should get something to eat, too.” She said. “See you tonight.”
+
+“I have Adventurer’s business to handle, too.” Ren said. “The good news is, it should be short.”
+
+“That is good news.” Nathalia said. “I love you.”
+
+“I love you, too.” Ren said, and the Sending Ring stopped glowing. He got up and looked at Princess. “I know I probably shouldn’t ask you this, but… do you feel like a quick run out 50 miles or so? I want to see if we can find the giants that left.”
+
+I would rather do battle. Princess grumped.
+
+“Don’t worry.” Ren said. “We’re both going to have a lot to deal with soon enough.”
+
+Very well. Princess thought to him, and Ren climbed up onto her back.
+
+“Let’s go.” Ren said, and Princess ran out at an angle for 50 miles, then made an arc along the area Ren thought the giants would have gone, and then went back to the giant camp. “Damn, not even a trace of them.”
+
+“Maybe they ran all the way?” Teepo suggested. “If they did, they’d be a couple of hundred miles out by now if they left yesterday.”
+
+“That’s assuming they all could run for that long.” Ren said. “At least they don’t have a portal spell, or someone with a portal ability.”
+
+Ren asked Princess to take him to the center of the camp to see Laurelia, and she knelt to talk to him. He explained to her that he set up some defenses, including the warning system, and that he would be back to check everything later that evening. She looked disappointed for a moment, then she smiled crookedly.
+
+“I hope nothing happens before you come back.” Laurelia said. “No one left can handle any kind of battle.”
+
+Ren put a hand on her arm. “I’m sorry they abandoned you like that.” He said. “I assume it was mostly men?”
+
+“Mostly.” Laurelia said. “A few of the women that didn’t think you could get any kind of response from the Chancellor wanted to get back to their families.” She sighed. “Including the child and his aunt.”
+
+“Oh, no.” Ren said. “He can’t handle that kind of journey, even if they had enough food!”
+
+“I… I tried to reason with them; but, once they had enough people behind them… there was no convincing them to stay and wait.”
+
+“I didn’t see any trace of them when I did a patrol.” Ren said.
+
+“We can move fast if it’s necessary.”
+
+“How fast?” Ren asked.
+
+“We double our stride once we get enough speed.”
+
+“Oh, crap.” Ren said. “That means…”
+
+“We’ve got maybe 2 days.” Teepo said. “They can go just as fast as Princess pulling the cart.”
+
+“They’ll be here soon.” Laurelia said.
+
+Ren nodded. “I’ll be back.” He gave her arm a pat, and rode Princess to the Garrison. The gate was opened for him, and he asked Princess to stop at the section with the Commander’s office. Ren climbed down and knocked.
+
+“Come.”
+
+Ren opened the door and looked at the Commander.
+
+“Did you deal with the giants yet?” The Commander asked him.
+
+“No.” Ren said. “They could be here in several hours, or within 2 days.”
+
+“Well, thanks for the accurate assessment.” The Commander said and Ren smiled.
+
+“Well, considering I was expecting 2 days to a week for their arrival, it’s a lot more accurate than I assumed.”
+
+“Okay, I’ll give you that.” The Commander said. “What can I do for you?”
+
+“I’m here to pay for the food you bought for the giants.” Ren said, and the Commander told him how much it was.
+
+“Do you want another shipment sent?”
+
+“No.” Ren said and paid the money. “The two giants that were helping with that left yesterday.”
+
+“Left?” The Commander nearly exclaimed. “Where did they go?”
+
+“Home.” Ren said. “Or they’re trying to, anyways.”
+
+The Commander shook his head. “They made a pile of edible food and took it from that shipment, didn’t they?”
+
+“Unfortunately.” Ren said.
+
+“Even dwarves experienced with the wilderness and living in the rough, would balk at a journey like that.”
+
+“I know I wouldn’t do it if I didn’t have my mount.” Ren said. “Or a party to watch my back.”
+
+The Commander nodded slightly. “Same here. No one in their right mind would try it without the proper resources.”
+
+Ren nodded slightly in response. “I’ll be back this evening to check everything.”
+
+“Where are you going?”
+
+“To work in the mines.” Ren said. “See you later.”
+
+“All right, but you know the budget is coming due in a few days.”
+
+“Don't worry, I have it.” Ren said. “I want to talk to you about it’s distribution, too.”
+
+“I’m looking forward to that conversation.” The Commander said sarcastically, and Ren laughed as he left the office. When he shut the door, he remembered that the Commander had wanted Sending Squares. For 5 minutes, Ren made a dozen pairs of Sending Squares, then knocked on the office door.
+
+“Come.”
+
+“Hello, again.” Ren said. “I forgot to give you these.” He put 12 stacks of pairs of Sending Squares on the Commander’s desk. “I didn’t have time to make more than that.”
+
+The Commander stared at the Sending Squares. “Those are what I think they are, aren’t they?”
+
+“Each pair can be used just like the ones we have.” Ren said. “Have a good day.”
+
+*
+
+The Commander watched Ren leave the office, and then touched the Sending Stone in his top desk drawer.
+
+“I need a few runners.” He said, and someone responded that they were on the way. The Commander would have to wait for an hour before he could use the Sending Stone again. He looked at the 12 stacks of Sending Squares, and smiled. He no longer had to wait like that anymore.
+
+*
+
+Ren rode Princess back to House Neram Keep, dropped her off with some food, and ran up to the workshop. He was nearly out of steel squares, and filled the mold several more times and made another 500 of them. Once that was done, he ran for the mine so he could get to work. The guard opened the gate as he approached, and Ren ran through and nodded slightly to him.
+
+Ren ran up to the medical tent, and stopped just outside. He took out two of the Fireball wands, absorbed the charges from them, and replaced them with Minor Healing and Major Healing. He stored them in their own slot and was relieved to hear a woman’s voice as she discussed, quite loudly, the benefits of proper hygiene.
+
+Ren tried not to smile as he stepped into the tent, and saw that the conversation with a dwarf, who was more dirt than man, had just ended. The dwarf passed by Ren, and Ren held his breath. The dwarf was pretty rank, and Ren let his breath out after the dwarf left the tent. Deresdra was so distracted, she didn’t see Ren as he approached.
+
+“I’m really glad to see you.” Ren said. Deresdra whipped around in surprise that someone else was there in the tent with her, and her eyes widened as Ren took her into a warm embrace.
+
+“Where did you come from?” She asked.
+
+“My parents.” Ren said, and she chuckled.
+
+“That is usually how it happens.” Deresdra said, and felt a little weird that he was holding her like that, and wasn’t trying to do anything else. Almost as if he felt her discomfort, Ren let her out of the hug.
+
+“When I came in to work yesterday, you weren’t here.” Ren said.
+
+“It was my day off.” Deresdra said.
+
+“It was some male dwarf that I’d never seen before.” Ren said, and shook slightly.
+
+The other healer had told her all about the incident, and Deresdra watched Ren closely to see his reaction.
+
+“He wanted to… to…” Ren shivered.
+
+Deresdra put a hand on his arm. “He’s supposed to examine you.”
+
+“I… I couldn’t let him do that.” Ren said. “I’ve had a lot of bad experiences with that, and… and I…” He shook his head. “I’m really glad you’re here.”
+
+“Does it really bother you that much?” Deresdra asked. “For it to be a man instead?”
+
+Ren nodded slightly several times. “I told him that any day he was here, it was my day off.”
+
+“Oh, Ren.” Deresdra said. “What happens if I take two days off? Or if I get hurt, or don’t feel well?”
+
+“I won’t be here if that happens.” Ren said. “I will not submit to an examination if a male is doing it.”
+
+Deresdra wasn’t sure what to say about that. He’s always been so confident and self-assured, and now he’s… vulnerable. “Well, I’m here today. So, let's get you checked out and you can get to work.”
+
+Ren beamed a smile at her and went into the curtained-off area and she followed him in. She closed the curtain, Ren stored his clothing, and put his Dire Wolf Hooded Cloak on the chair beside him. Deresdra performed the examination, and while she worked, Ren relaxed. She felt the change in his muscles as the tension left them, and she wasn’t sure what that meant.
+
+Usually, he stays at the same tension during the whole thing; but, now it seems like he’s enjoying it. Deresdra thought, glanced down, and saw the bulge in his underwear. Yes, he’s definitely enjoying it. She finished the examination, and Ren had a big smile on his face.
+
+“You’re cleared for work.” Deresdra said.
+
+“Thank you.” Ren said happily, equipped his clothing, and put the cloak back on.
+
+“You seemed to enjoy that.” Deresdra commented when Ren reached for the curtain. He stopped and looked at her.
+
+“To be honest, I always saw this as a necessary evil.” Ren said. “If I didn’t do this every time I came back, I wouldn’t be able to work.” He smiled. “It wasn’t until I came here and saw that I could be suffering through this with a man touching me like that, that I realized how lucky I am.”
+
+“You really believe that.” Deresdra said, a little surprised. “Even after everything that happened, or could happen, between us.”
+
+Ren chuckled. “Believe me, that’s the least of my worries right now.” He said. “But, now that you mention what can happen between us...”
+
+Deresdra smiled. I knew he couldn't keep resisting my charms.
+
+“Why are you trying to seduce me?”
+
+“Wh-what?”
+
+“The last time you did something like offering me sex, you wanted the money to buy your contract.” Ren said. “I'm just wondering what you want from me now.”
+
+“I... I don't want... ah...”
+
+Ren smiled. “Are you having a hard time lying about it?”
+
+Deresdra looked at him with surprise on her face. He stepped close and put his hands on her shoulders.
+
+“Just tell me what you want.”
+
+“I...” Deresdra sighed. “If I tell you what I really want, will you get angry?”
+
+“No.”
+
+“I... I want your Healing Wand.”
+
+Ren remembered how he'd slept with her to make her forget the pain he'd inadvertently caused her.
+
+“That's not your pet name for my appendage, is it?” He asked, then grinned at her deep blush.
+
+“N-n-n-no.” Deresdra stammered. “I-I-I meant your Major Healing spell wand!”
+
+Ren chuckled and let her shoulders go.
+
+“Okay.” Ren said, and took out the two wands he'd just prepared for her. “Here's a Minor Healing wand and a Major Healing wand.”
+
+Deresdra stared at the two wands, and didn't know what to say. She thought it would take her weeks of seduction to get a wand from him; and now she had two.
+
+“Don't throw them away when they're empty.” Ren said. “I'll recharge them.”
+
+Her mouth dropped open in shock, and he chuckled. Ren took her hand, and bent over it.
+
+“Have a good day, Ma’am.”
+
+Deresdra didn't respond and he left the medical tent. Ren ran to the workshop to check and see if the blacksmith on duty needed his help with anything, and when he didn’t, Ren ran into the mine to help the current crew. He worked for the 8 hours required by his contract and received the false feelings of relief and happiness. After he worked for another 2 hours as he’d promised, he ran back to House Neram Keep. Once he was there, he mounted Princess again and rode her back to the Garrison.
+
+“We’re going to the crafting section.” Ren told the guard and Princess at the same time, when they stopped at the front gate. The appropriate gates were opened for him along the way, and Princess ran through them to the right spot. He dismounted and went to the door marked 'CRAFT'.
+
+“What do you want?” One of the belligerent dwarves asked as Ren entered the crafting section.
+
+“Everything.” Ren said.
+
+“Wh-WHAT?!?”
+
+“Bring me a list of everything that you’re doing here.” Ren said and looked at several other dwarves that were standing around. “That goes for all of you.”
+
+They all looked at each other, and Ren put on his overall command uniform, and concentrated on his Command Aura.
+
+“The budget is due next week, and if you can’t prove what you’re doing here is worth it, you won’t get your allotment of 200 platinum this year.”
+
+“By the gods!” One of them exclaimed, and took off at a run. “I’ll bring a full list right away!” He said before he disappeared through the next gate.
+
+“There’s the enthusiasm that I’m looking for.” Ren said and looked at the belligerent dwarf. “Don’t you think you should get me a list, too?”
+
+“No.” He said, and crossed his arms. “Just because you own the place and locked us down, doesn’t mean I can be intimidated into turning all of my work over to you.”
+
+“I don’t want your work turned over to me.” Ren said. “I want to know what you spend 200 platinum on.”
+
+“What if I say that’s none of your business?”
+
+“Then I’d say it was nice having you as an employee, but your services are no longer required.” Ren turned and waved one of the guards over. “Please escort this man out of the Garrison.”
+
+“Yes, sir.” The guard said, grabbed the dwarf by the arm, and dragged him towards the gate Ren had come through.
+
+“Wait… wait!” The dwarf said.
+
+“What is it?” Ren asked.
+
+“Fine! I’ll tell you what I’m working on.”
+
+“I think it’s a little too late for you to make something up now.” Ren said. “You’ve denied my reasonable requests several times before this, and I’m tired of your unwilling attitude.” He said. “What you don’t realize is, since the budget is decided by the Council and is dictated by the amount of people that work here, the only thing I do have control over is firing people and how to disperse the budget.” He sighed. “Even though it’s my money, I’m not allowed to add any; but I can take your budget away… and maybe give the soldiers a raise, or even double the cafeteria’s budget.”
+
+The guard holding the dwarf grinned, and the other dwarves that had stood there and listened, took off at a run to get their lists.
+
+“That’s better.” Ren said. He turned around when Teepo said someone was coming out one of the other gates.
+
+“Hello.” The dwarf said as he came over to them. It was the one that had examined Ren’s construction of the Main House. “Here’s my list.”
+
+“Traitor!” The belligerent dwarf said, and the new dwarf laughed.
+
+“He owns everything, you idiot.”
+
+“You’re the idiot!” He responded. “Lord Lodur left us alone! He never asked us what we were doing with the money!”
+
+“That’s because he honestly didn’t care what you did, as long as it didn’t cause him any problems.” Ren said. “Once I took over, you’ve done nothing but cause me problems.”
+
+“That’s because you’re interfering!”
+
+“He must really need his part of the budget.” Ren said to the new dwarf.
+
+“He’s never said what he uses his part of the money on; but, perhaps he desperately needs it for something.”
+
+“Yeah, and not for work.” Ren said and looked at the belligerent dwarf. “What are you going to use the money on?”
+
+The dwarf clamped his mouth shut, and Ren sighed.
+
+“You’re only hurting yourself by keeping quiet.” Ren said, and looked at the list the other dwarf had given him. “You’re modifying an enchantment-based engine?”
+
+The dwarf nodded. “Our normal ones have a single enchantment, and it’s based on faith.”
+
+“You’re kidding.” Ren said. “The engine in my ship is run from an enchantment?”
+
+“You didn’t know that?”
+
+“I haven’t had the chance to get into the engine room yet.” Ren said. “I’ve been really busy lately.”
+
+The dwarf nodded slightly. “We heard.”
+
+Ren smiled. “I actually can’t stay here for long. I have to get out to the giant camp and check the enchantments I put there.”
+
+“That’s too bad.” The dwarf said. “I’d be happy to give you a tour of my space.”
+
+“I’d like that.” Ren said. “I look forward to doing that…”
+
+“…when you can spare the time.” The dwarf said, and they both laughed.
+
+The other dwarves came back and handed Ren their lists, and Ren thanked them.
+
+“You aren’t going to check them over?”
+
+“Not right now.” Ren said. “Maybe tomorrow.”
+
+“But… you said…”
+
+“I’ll read these before I come back.” Ren said. “If I have any questions, I’ll let you know.” He nodded slightly to them, and looked at the belligerent dwarf. “Have you changed your mind?”
+
+The dwarf didn’t say anything, and Ren nodded slightly at the guard.
+
+“Have him searched, and make sure he doesn’t have anything that belongs to the crafting section.” Ren said and stared at the dwarf. “I’m tempted to have his coin pouch confiscated to make sure he’s not hoarding Garrison money.”
+
+The dwarf’s eyes widened at his statement.
+
+“It seems that I should do just that.” Ren said, when he saw the reaction.
+
+“NO!” The dwarf broke away from the guard and started to run. The guard took out his sword and looked like he was going to end the dwarf.
+
+“Just follow him.” Ren said, and started to go after the dwarf. “There’s not really anywhere for him to run to.”
+
+The dwarf they chased arrived at the nearest gate, and opened it.
+
+Teepo.
+
+“Are you sure I should leave your side?” Teepo asked.
+
+Ren nodded slightly, and Teepo took off flying after the dwarf. They both disappeared through the gate and Ren followed them at a good distance. He didn’t want to spook the dwarf by showing him that he could easily be caught. Ren wanted to know why the dwarf needed the money, but didn’t want to tell Ren why.

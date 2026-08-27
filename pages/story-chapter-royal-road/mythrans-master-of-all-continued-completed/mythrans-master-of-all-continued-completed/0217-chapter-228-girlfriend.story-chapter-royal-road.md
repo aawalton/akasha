@@ -1,0 +1,361 @@
+---
+id: 7b800c1e-8754-5df3-a96b-ce2655033eee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 228 - Girlfriend"
+slug: 0217-chapter-228-girlfriend
+partOf: mythrans-master-of-all-continued-completed
+position: 217
+ownLength: 3496
+unit: words
+publishedAt: 2017-04-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130601/chapter-228-girlfriend"
+royalRoadId: "130601"
+---
+
+Ren kissed Elise, and then sat back up. He reached for her chest, and smiled as a thought he'd had a while ago, went through his mind again.
+
+“What?” Elise asked, as she saw a question on his face.
+
+“I meant to ask you how you can still walk upright with all this weight on the front.”
+
+Elise laughed, and he grinned as he massaged her chest.
+
+“It must be a daily struggle.” Ren said. “Carrying two small bald-headed people around like that all the time.”
+
+Tears started to form in her eyes as she laughed. “Don't... stop...”
+
+“Okay I won't stop.” He chuckled. “Have you named them yet? I think they're big enough to have their own names.”
+
+Elise hugged her sides and kept laughing.
+
+“Maybe their own zip codes, too.” Ren said and let them go. “How much fan mail do they get, anyways?”
+
+She shook her head and kept laughing. “Stop... oh, stop.”
+
+“Did you know that a man's IQ drops by 50% at the sight of a woman's chest? That's per boob.” He said as he poked one of her breasts with a finger, then poked the other.
+
+“Oh, god!” Elise said between guffaws. She tried to hold her sides, wipe her tears away, and stop her chest from jiggling all at the same time.
+
+“Boobs are the only proof that a man can focus on two things at once.” Ren said and laughed.
+
+“St-stop...”
+
+“I think when women are alone, they grab their own boobs.” He said. “You know, because they can.”
+
+Elise gave up trying to stop her chest from jiggling and just held her hands over her ears as she laughed.
+
+“You know men are a lot like babies. You can shut them up by putting a boob in their mouth.”
+
+“Please... stop...” Elise said and tried not to laugh as she took a deep breath.
+
+Ren finally took mercy on her. “All right, I'll stop after this one.” He said. “Nine out of ten men prefer women with large boobs.” He grinned. “The tenth man prefers the other nine men.”
+
+Elise snorted a laugh and let her ears go. “So it wasn't just a fluke the last time when I drove you around town with Stella.” She wiped her eyes, then checked her clothing. She tucked everything back into place and grinned at him. “You really are funny.”
+
+“I try.” Ren said, and then Denise and Barbara came into the room.
+
+“I'd ask what you were laughing at, but I don't really want to know.” Denise said, and looked at Barbara. “Do you want to know?”
+
+“Of course I do.” Barbara said. “But I was listening at the door, so I already know.”
+
+“Barbara! You were spying on Ren?” Denise shook her head. “How could you do that?!?”
+
+Barbara swatted Denise on the arm playfully. “Because you asked me to.”
+
+“I did no such thing!” Denise said with a grin on her face.
+
+“Ladies, ladies! Please!” Ren said. “You have an audience.”
+
+“Are we putting on a good show for you?” Denise asked him, then turned around and stuck out her butt a little towards Barbara. “Barbara! I've been bad! Punish me.”
+
+Barbara laughed, took Denise's hand, and swatted the fingers like you'd do to an errant child. “Stop that.” She said, and they all laughed.
+
+*
+
+“Are these people for real?” Gary asked the other man in the van. “Geez, it's like a sitcom in there.” He said. “The damn blinds are closed here, too.”
+
+Bill chuckled and looked at the feed from the only camera they could sneak into the building, and it was in a bad spot in the lobby. It only caught a bit of the main desk and part of the hallway. It's field of view ended just beside Ren's room.
+
+“If we had a bit more money in the budget, we could have paid that guy to go back in and fix his mistake with the camera.”
+
+Bill chuckled again. “It wasn't his fault the desk clerk came out of the bathroom right when he was about to put the camera up in the corner.”
+
+Gary shrugged. “Whatever.”
+
+“No one's shown up except Elise and the night nurse... since the last time we checked the footage, anyways.”
+
+“They haven't spilled any more secrets, either.” Gary commented.
+
+“Except for the requests for his medical and court records.”
+
+“That wasn't a secret.” Gary said. “Even I would request my own records after all of that.”
+
+*
+
+Detective Ramirez and Officer Stonewall stood in the middle of an office on the tenth floor of a building near the center of downtown.
+
+“This is the address.” He said, and looked around. The place was completely empty. “There's no way... no way... that they could clear out this fast.”
+
+“It's been over a week, John.” His partner said. “I've seen places cleaned out overnight.”
+
+“Like this?” He said and walked over to the wall and touched the wet paint. “The place has been renovated for god's sake!”
+
+“John!” Officer Stonewall's eyes widened. “It's been renovated!”
+
+“I just said that.”
+
+“You don't understand, John.” She walked over to the wall, took out her nightstick, and tapped the wall. She didn't use her knuckles because she didn't want to get paint on them. The wall made a nice solid sound when struck, and she tapped the wall as she walked along the length of it. That is, until she hit a hollow sound.
+
+“Ha!” Officer Stonewall said, and Detective Ramirez walked over to her.
+
+“Please tell me that's a hidden door, compartment, or room.” He said, and she tapped further down and got the solid sound again. She tapped around the place where she'd found the hollow sound, and discovered it was the outline of a doorway.
+
+“You're a genius, Holly!” Detective Ramirez said.
+
+That's the first time he's used my given name. Officer Stonewall thought. “Now what do we do?”
+
+“Honey, you just sit your pretty little butt right there on the carpet.” Detective Ramirez pointed to the spot between her feet. “I'll be right back with a warrant!” He said, and left the apparently not-quite-abandoned office at a run.
+
+Did he just say that I had a pretty butt? She thought for a moment, and then she remembered what else he'd said and her eyes widened. Did he just call me 'honey'?!?
+
+*
+
+“It's quarter to nine.” Elise said, and sighed. “I think I better go.”
+
+“If you don't want to just sit here and watch me play, that might be for the best.” Ren said. “I don't know if I'll be out at midnight, either. It all depends on how things go.”
+
+“As tempting as that is, I think I'll head home.” Elise said, and slid off of the bed.
+
+“Elise? What's the name of the store I got these great pajamas from?” Ren asked. “I know it's in the big mall, down on the east end, but I have no idea what it's called.”
+
+“It's called 'Jacques'.” She said.
+
+Ren looked at Denise. “They do quick alterations there, too.” He said. “I'm sure we can find some good things for you to wear.”
+
+“Are you planning on going back?” Elise asked him.
+
+“Yeah. Denise has a hard time buying clothes that fit right, and I told her about how well the pajamas turned out.”
+
+“Are you getting anything?”
+
+“I wasn't planning on it, but I might have another look around while I'm there.”
+
+“Oh.” Elise said, a little sadly. Ren reached a hand out to her, and she took it.
+
+“You're thinking you want to book off work so you can come along, aren't you?” He asked her, and she nodded.
+
+“You need to do your job, Elise.” Ren said. “You've used up a lot of your time off on me already.”
+
+“Is it wrong for me to want to spend time with my boyfriend?”
+
+“I won't complain about it, unless you let your career suffer because of it.” Ren said. “You need to go home, get some sleep, then get your ass to work in the morning.”
+
+Elise chuckled, leaned in, and gave him a kiss. “You're right; but, I still want to be there with you at the studio tomorrow.”
+
+“No way.” Ren said and smiled to take the sting out of his words. “I'd really like for you to be there, but you need to keep your job.” He said. “I'm sure Stella and I can handle it on our own.”
+
+“But...”
+
+“Elise.” Ren said seriously. “I can never thank you enough for everything that you've done.” He said. “It would be horrible of me to keep monopolizing your time.”
+
+“You aren't monopolizing my time.” Elise smiled. “I've only seen you for a couple of hours today... and even less than that yesterday.”
+
+It was Ren's turn to smile. “Uh huh.” He said. “And when was it that you picked up the paperwork so I could request my medical records and court documents?”
+
+Elise looked at him with her eyes a little wide, and he shook his head.
+
+“Please, Elise. Don't give up everything else just to spend a little more time with me.” Ren said. “I won't argue that I'm not worth it, because I know you won't believe that.”
+
+Elise shook her head, took a breath in through her nose, and let it out through her mouth. “All right.”
+
+Ren beamed a smile at her, lifted her hand, and kissed the back of it. Her face flushed slightly red at the formal gesture. It wasn't because of the act itself, but because it looked like a completely natural movement on Ren's part.
+
+“I wouldn't be against seeing you tomorrow, as long as it's after work.” Ren said and let her hand go. “But I expect you to keep our date to watch the next episode of the show on Friday night.”
+
+“I don't know.” Elise said. “You just told me not to give things up for you.” She smiled. “Friday nights are sometimes a big thing for a woman.”
+
+“You have other plans?” Ren asked as his smile faded. “Okay. I guess we'll have to cancel.”
+
+“Of course not.” Elise said. “I'm just teasing you.”
+
+“Oh.” He looked at her. “I guess I deserved that.”
+
+“Yes, you did.” Elise said. “If I want to throw my whole life away to spend one more moment with you, you shouldn't tell me that I can't.”
+
+“I didn't tell you that you can't.” Ren smiled. “I only said that you shouldn't throw it all away. You're a big girl. You can make those decisions for yourself.”
+
+“Was that a height joke?” Elise asked and smiled herself. “If it was, it fell a little short.”
+
+Ren chuckled. “You know, you should appreciate the little things in life.” He held his arms open. “Hug a short person.”
+
+Elise snorted a laugh, leaned in and gently gave him a hug. His arms were still bruised, but they were healing well. While her head was beside his, she whispered in his ear. “No one matters as much to me as you do.” She kissed his cheek and let him go. “Goodnight, Ren.”
+
+“Goodnight, Elise.”
+
+She stood up, picked up her purse and tablet, and went to the door.
+
+“Hey, Elise.” Ren said, and she turned around to look at him. “There's just one really important question I have to ask you before you go.”
+
+“What's that?” She said, unsure if she wanted to hear it.
+
+“Why do really short men enjoy playing soccer?”
+
+“I... I don't know.” She said, surprised.
+
+“Because the grass tickles their balls.” Ren said and grinned.
+
+Elise burst out laughing, and Denise joined her.
+
+“Ren!” Barbara said, but he could see she was trying not to laugh.
+
+“Sorry! I meant to say it tickles their dangling fiddly bits! Or was it bits they fiddle and dangle with?”
+
+Barbara couldn't help herself and laughed, too.
+
+*
+
+Officer Stonewall didn't have to wait long for her partner to return. “That was fast.” She said as Detective Ramirez came into the office carrying a duffle bag.
+
+“I had to call in a favor.” He said, and put the bag on the carpet as Officer Stonewall stood up to get out of the way. She'd done what he had asked her to, and sat on the spot in front of the hollowed out part of the wall until he returned.
+
+“Where's the warrant?”
+
+“I already gave it to the building manager downstairs.” He said, and handed her their copy.
+
+“How in the world did you get them to sign off on demolition?”
+
+Detective Ramirez held up his hand, and it was covered in white paint.
+
+“Yeah, I guess that would do it.” Officer Stonewall said, and he handed her a crowbar from the duffle bag. “What am I going to do with this?”
+
+“Clear the way after I finish.” Detective Ramirez said and pulled a sledgehammer out of the bag.
+
+“I'm not going to ask where you got that.”
+
+“It's been sitting in my trunk since the police academy.” He said and laughed. “You never know when something like this will come in handy.” He held it in both hands, hauled back, and swung into the wall. The gyprock cracked and the sledgehammer got stuck in the hole. Officer Stonewall used the sharp end of the crowbar to stab the wall around the head of the sledgehammer, and Detective Ramirez pulled it free.
+
+“Thanks.” He said, and swung again. He angled it downwards this time, rather than hit dead on, and the sledgehammer tore a huge hole in the white wall. There were two wooden support beams to hold the gyprock in place, and he swung sideways to smash one, then the other.
+
+“Step back.” He said, and stepped back himself. The detective braced himself, then jumped forwards and jammed his shoulder into the opening. His momentum carried him out the other side of the temporary wall, and he landed on the floor.
+
+“John!” Officer Stonewall used the crowbar to clean a better hole to step through, then came into the room and knelt beside his face-down form. “Are you all right?”
+
+“I'm fine.” He said, and rolled over. “The sledgehammer broke my fall.”
+
+Officer Stonewall chuckled and shook her head, then offered him a hand up. They stood up together, then looked around.
+
+“You have got to be kidding me.” Officer Stonewall said as they saw why the door to the room had been covered over, instead of just having the room cleaned out.
+
+Thousands of pictures of Ren covered all of the available wall space. Lines connected certain ones, almost like a time line or a direction to follow, and they ranged from tiny polaroids to ones that were almost poster size. They stared at all of the images, and could tell what kind of time frame they had to have been taken in. Ren's appearance hadn't really changed in almost 6 years, and he appeared to look the same in all of them.
+
+“They must have been watching him for years.” Officer Stonewall said and walked over to the closest wall. “This place is what? 30 feet long? 20 wide?” She said, and used a fingernail to try and pry up an edge of one of the pictures, but it was stuck solid.
+
+“It's about that size, yeah.”
+
+“I don't see a bit of blank wall anywhere.”
+
+“Me, either.”
+
+“Is that a desk?” She asked, and pointed into the corner. Detective Ramirez walked over to the pile of wood and electronics, then knelt.
+
+“I think we found the computer the digital signature device pinged.” He said and took out a pen to poke the thing. “It's been smashed.”
+
+“How badly?” Officer Stonewall came over and looked herself. “Oho!”
+
+“What?”
+
+“I'd say you should get a technical forensics team in here right away.” She said and grinned. “They smashed the case and the solid state hard drive; but... if my guess is right...” She took out her own pen and poked the normal hard drive that stuck up slightly from the pile. “That's going to be the backup.”
+
+“Ha ha!” Detective Ramirez laughed, and stood up. He took out his cell phone and dialed the precinct. “Ramirez here.” He said. “I need a tech team, forensics, and the photographer.” Ramirez gave them the address, and hung up. “Half an hour.”
+
+“How in the... no, don't tell me.”
+
+“This is a high profile case.” Detective Ramirez said and smiled. “The feds are gonna be begging us to share some of this with them.”
+
+*
+
+“...to share some of this with them.” The detective's voice said through the little speaker. Agent Smith looked at his partner, the other Agent Smith.
+
+“What do you think? Should we go in and rain on their parade?”
+
+Agent Smith shook his head. “No, we should let them gather everything first.” He said. “Then we can go in and take it all.”
+
+“You're not worried they'll mess something up?”
+
+“Not really.” He said, and tapped the small monitor screen they had stuck to the dashboard. “We've already got the surveillance taps in place on the security cameras. If the detective and his cute sidekick miss anything, we'll know about it before they do.”
+
+*
+
+Elise climbed into her Hummer H2, and put her purse and tablet between the seats. She put the key in the ignition, but didn't turn it on. She held onto the steering wheel, then slowly put her head back to rest on the seat.
+
+He distracted me with humor again. Elise thought. That sneaky little bugger! She smiled as she looked at the window to Ren's room, and saw the closed blinds. I'll let you delay for a while, my little darling; but, one of these days... She started the vehicle and drove out of the parking lot.
+
+*
+
+“I guess that means she really is your girlfriend.” Denise said as she gathered her things to get ready to leave.
+
+“She's what?!?” Ren said, surprised.
+
+“You missed that, did you?” Denise asked, then turned to Barbara. “You heard her, too.”
+
+Barbara nodded. “She called you her boyfriend, and you didn't say no... or even protest.”
+
+Ren looked at the two women, and they smiled at him. “But... but...”
+
+“Then you had a quick argument and made up.” Denise said. “Yes, she's definitely your girlfriend now.”
+
+“But... I didn't even ask her...”
+
+“I heard you ask her for another date to watch the show.” Denise said. “Right, Barbara?”
+
+“I heard that, too.” Barbara said.
+
+“I...” Ren looked back and forth between the two nurses. “I... have a girlfriend.”
+
+“And an urgent need to get back in the game.” Barbara said. “You've been gone nearly all night.”
+
+“Right! Okay.” He slid out of bed, grabbed a foil packet, and went into the bathroom.
+
+*
+
+“Hey.” Denise said. “He didn't hide it from you.”
+
+“I knew about it already.” Barbara said and looked at her. “Apparently, so do you.”
+
+Denise smiled. “Not much gets by these eagle eyes.” She said. “Or ears. I heard the foil crinkle once when he was trying to sneak it by me.”
+
+Barbara nodded her understanding, and looked like she was about to say something; then the bathroom door opened and she stayed quiet.
+
+*
+
+Ren came back out of the bathroom after taking care of some business, and climbed back into bed.
+
+“Okay, I'm ready.” He said, and Barbara handed him the VR headset, then helped him get settled for a night in the game.
+
+“Denise, don't forget to meet here, just after noon tomorrow.” Ren said as he put on the VR headset. “We can go to the clothing shop after the studio.”
+
+“I'll be here.” Denise said.
+
+“Flow Login Start.”
+
+*
+
+“I'm really glad you filled me in about what happened today, while we were getting coffee and donuts.” Barbara said to Denise; all humor gone from her face and voice, now that she didn't have to pretend so hard in front of Ren.
+
+“I'm really glad we could make him laugh after... after...” Denise closed her mouth, and wiped her eyes before the tears could escape.
+
+“And he remembers it?” Barbara asked.
+
+“Only the things the game made him live through.” Denise said. “He also admitted he remembered the pictures from the court case.”
+
+Barbara took a deep breath. “I didn't want him to remember any of that.”
+
+“You knew?”
+
+Barbara nodded. “Lucy and I were there. We were his first care nurses. One for the day, and one for the night.” She said. “We had to... to testify... about his physical condition.”
+
+Denise walked over to Barbara and gave her a hug.
+
+“I didn't know him very well back then.” Barbara said, and didn't bother trying to stop the tears that came. “But I never cried so much in my whole life, as I did during that trial.”
+
+“Oh, Barbara.” Denise said, and held her as she cried on her shoulder.

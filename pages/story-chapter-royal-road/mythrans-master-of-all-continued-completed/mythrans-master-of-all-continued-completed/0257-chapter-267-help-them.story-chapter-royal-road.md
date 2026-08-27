@@ -1,0 +1,323 @@
+---
+id: 5a3fd2db-b5d2-5a36-b5d8-a39b4be68370
+page-type-slug: story-chapter-royal-road
+title: "Chapter 267 - Help Them!"
+slug: 0257-chapter-267-help-them
+partOf: mythrans-master-of-all-continued-completed
+position: 257
+ownLength: 3583
+unit: words
+publishedAt: 2017-05-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139346/chapter-267-help-them"
+royalRoadId: "139346"
+---
+
+The Chancellor didn't say anything, and Ren sighed.
+
+“It's not that hard of a question.” Ren said. “Look, even if you don't want them to return, the least you can do is send me seeds, food, and building supplies, so I can give them someplace to actually live.” He sighed. “The tents are nice for camping, but you're not supposed to live in them.”
+
+The Chancellor looked at his two guards, at the infuriated Librarian, and then at the contempt on the Sage of Ages' face.
+
+“Fine.” The Chancellor said, and pointed to the Librarian. “I appoint you as the Ambassador to the...” He ground his teeth together. “...refugees.”
+
+The Librarian gasped, and put a hand over her heart. “But... what... what about the Library?”
+
+“I'll have the guards bring everything back.” The Chancellor said. “Keeping all of this secret by removing the source of the information was... a little short-sighted of me.”
+
+The Librarian didn't tell him that it wasn't short-sighted of him, it was just plain stupid. Lara on the other hand nodded agreement, and the Chancellor looked at Ren.
+
+“I suppose you'll want a written guarantee that I won't send anyone else out to finish the job?”
+
+“That won't be necessary.” Ren said. “By the time you can get another platoon gathered together, I'll have this place so well defended that all you'll accomplish is the very swift deaths of more soldiers.” He smiled. “Plus, the Sage of Ages is right there. She's the best guarantee I could have that you'll keep your word. If you were going to lie about sending more troops here, everyone in the whole world would know about it tomorrow.”
+
+The Chancellor looked like he was going to explode from anger, and Ren pointed at him.
+
+“Before you decide to send someone here to shut me up, just so I won't say anything about what happened here today; you should know that I'm an Adventurer.” Ren said. “If you do somehow succeed in having me killed, I'll only come right back.” He smiled and bared his teeth. “Then I'll come for you.”
+
+The Chancellor stood there and stared at Ren for a full minute, then nodded.
+
+“People will hear about this battle. It's too good of a story not to spread around.” Ren said. “As long as you keep your end of the bargain, I'll keep your true motivations to myself.”
+
+“Agreed.” The Chancellor said. “You can discuss the details with the Ambassador.” He said, paused for a moment, then spoke again. “You truly are the Dreaded Foe.”
+
+“Only to those that cross me, or piss me off.” Ren said. “Good day, Chancellor.”
+
+“Good day.” The Chancellor said, looked at Ren for another moment, then turned around and walked away. The two Guardians of the Land that were his bodyguards, followed him as he left the Library.
+
+*
+
+He forgot the Far-Seeing Mirror. Lara thought, amazed. It's one of the Giant Kingdom's treasures, and he left it!
+
+“It's nice seeing you again, Lara.” Ren said. “Even under these circumstances.”
+
+Lara turned to look at him, and it was like he was standing right in front of her. I have such an urge to hug him. She thought. It's just a chat window, but... “You just saw me yesterday.”
+
+“Do people get tired of seeing the sun every day?” Ren chuckled, and then saw her hand move a little, like she was trying to stop herself from doing something. He stepped forward and put his hand on the spot where hers rested.
+
+“Are you really going to kill the leader of the platoon?” Lara asked, and kicked herself mentally. She really didn't want him to answer that question.
+
+“Cover your ears, Lara.” Ren said. “I believe the dwarves are taking care of that right now.”
+
+Lara looked down at her hands, she could move one, but she couldn't move the other. If she lost contact with the mirror, the spell would end.
+
+“I can't. I... I have to keep touching the mirror.”
+
+Ren nodded and took out a wand. “Just a second.” He said and stepped out of view. Lara looked at the landscape and saw two of the Ballistas.
+
+He made more of them. Lara thought. No wonder the giants were defeated so easily.
+
+Ren stepped back into view with a sad smile on his face. “I'm sorry you had to go through this.” He said, and Lara stared at him.
+
+“Me?”
+
+Ren nodded. “You're really only supposed to be an information broker. You shouldn't be mixed up in the middle of all of this.”
+
+“Oh, Ren.” Lara said. How can he guess how I feel so easily?
+
+“I can't promise you won't have to get involved again.” Ren said. “But, I can promise that I'm going to do everything that I can to protect you.”
+
+“You... don't have... to...” Lara said in a soft voice, and started to blush. No one's ever said anything like that to me before. She thought. He's so sweet.
+
+“I know I don't have to.” Ren said. “I just like seeing you blush.” He grinned. “You look so cute when you do that.”
+
+“Ren!” Lara exclaimed, and her face turned a deep red.
+
+“There it is.” Ren chuckled. “Now that I've embarrassed you in front of your friend, I should work out the details of the supplies I need.”
+
+Lara nodded and moved aside, then the Librarian grabbed a piece of parchment and wrote down the things Ren needed. After about 10 minutes, they had worked out that there would be several shipments of actual food first, with some supplies mixed in. They would be delivered to the border of the giant's lands, and Ren would come to pick them up at noon 2 days from now.
+
+“Thank you.” Ren said to the Librarian. “I'll have a list of refugees made, and I'll give it to Lara to pass along to you.”
+
+“I'd appreciate that.” The Librarian said. “So many people will be relieved to know their family members are still alive.”
+
+“I'll try and ask for the names of the ones that... didn't make it.” Ren said. The Librarian nodded solemnly, stood up, and left the Library to start her duties as the Ambassador.
+
+“Thank you very much, Lara.” Ren said after the Librarian left. “I thought I'd be sending you message after message, trying to work all of this out; and here you came along and showed me this!” He waved his arms to indicate the huge view screen. “A video chat!”
+
+Lara chuckled. “I was surprised myself when I was asked about it.”
+
+“It's huge!” Ren said. “What is it?”
+
+“It's called the Far-Seeing Mirror.” Lara said. “It's also one of the treasures of the Giant Kingdom.”
+
+“No way!” Ren said. “Is it anything like the All-Seeing Mirror?”
+
+“The All-Seeing Mirror?” Lara asked, then shut her eyes for a few seconds. “It's... very similar.” She said. “How do you know about the All-Seeing Mirror?”
+
+“I've got a quest to complete by the end of the week, and it's one of the rewards.”
+
+“Let me know if you complete the quest.” Lara said. “We can talk again about it then.”
+
+Ren smiled crookedly at her. Thanks to those memories the game showed him, he knew her well enough to know she was intentionally not telling him something.
+
+“I'll contact you about it later, then.” Ren said, and looked up at the top of the screen. “What are you going to do with the Far-Seeing Mirror?”
+
+“I don't know.” Lara said. “I can't just leave it here, and it's too big to take with me.”
+
+Ren chuckled. “Only if you believe it is.”
+
+“Wh-what?”
+
+“When you end this call, touch the mirror, and select 'store in inventory'. Make sure you're thinking 'normal size' when you do it, too.” Ren said. “You'll be pleasantly surprised.”
+
+Lara nodded. “Thanks.”
+
+“Anytime.” Ren said, held his fingertips to his lips to kiss them, then held them out to touch the video window. Lara chuckled, and did the same thing.
+
+“Bye, Ren.”
+
+“Bye, Lara.”
+
+Lara took her hand off of the mirror, and it's surface became reflective again. She put a hand back on it, selected 'store into inventory' like Ren said to, and thought 'normal size'. The mirror disappeared and Lara didn't feel the weight of it. She looked into inventory and saw the mirror there. She took it out, and it was only 12 inches square, and not the 12 foot square it was just a moment ago.
+
+He was right. Lara thought in amusement and stored the mirror. I am pleasantly surprised that it worked.
+
+*
+
+The video window disappeared, and Ren looked at the leader of the giants. He'd had a dozen swords jammed into him, but it hadn't killed him yet.
+
+“Sorry... sir.” One of the dwarves said. “He's... too tough.”
+
+Ren nodded slightly, and took out the Wand of Spanning. He cast Bridge from the ground up to the leader's neck. Once it was in place, he walked up the bridge to stand in front of the giant's face, then used the hammerpick to cut open the webbing he'd used to keep the giant quiet while he talked to Lara.
+
+“I hope the fact that your death has eased your people's suffering, will bring you comfort on the other side.” Ren said.
+
+“It will.” The leader said. “Now kill me and defile my corpse.”
+
+“Excuse me?” Ren asked, surprised at his words.
+
+“I know you little people bury your dead.” The leader said. “Every school child has heard the story of your barbaric use of bodies to fertilize your crops.”
+
+Ren chuckled. “I don't know where you heard that.” He said. “As far as I know, it's like everything else around here when they die. You loot the body and it disappears.”
+
+“Ah.” The leader said. “You remove all evidence of it's existence.”
+
+“The physical evidence of the body, yes.” Ren said. “Otherwise, we'd be stepping over endless graveyards as far as the eye could see.”
+
+“I've seen a place like that.” The leader shivered.
+
+“Where is it?” Ren asked.
+
+“Shargon.” The giant said.
+
+Ren nodded, because he remembered that was where those henchmen said that Tristan had spent a bunch of time. He looked at his hammerpick and replaced the enchantment on it with Lightning.
+
+“This will be quick.” Ren said.
+
+“How is that going to be quick?” The leader asked. “You're going to beat me to death.”
+
+Ren shook his head. “No, you at least should have a quick death.” He said and pointed the end of the hammerpick at the giant's eye. “I don't enjoy this... not at all.” He sighed. “But, it must be done.”
+
+The leader of the wiped out platoon nodded, and Ren activated the enchantment.
+
+********
+
+“Oh my god!” Barbara exclaimed, and watched as Ren unleashed a bolt of lightning from the end of his weapon. The giant's eye burst into a pile of goo, and the lightning bolt continued into the giant's skull unimpeded. She had to cover her eyes as a torrent of blood gushed out of the now empty eye socket.
+
+********
+
+Ren moved the end of the hammerpick from side to side, to make sure he got as much of the brain as he could, then turned off the enchantment. The horrible task was done, and the deceased giant's head slumped backwards.
+
+Notice!
+
+Your assigned Quest: Save Them! has been completed.
+
+Please Note: As the quest giver, you cannot earn rewards from participating in this quest.
+
+The next window opened up and it was a list of all the conditions he'd set for earning rewards. He chuckled as he saw his name by a lot of them, and then the INVALID stamp on it, and 'Next Highest Chosen' after it with a dwarf's name. A small portal opened in front of Ren, a large sack dropped out of it, and it closed. He opened it, and it was full of smaller sacks. Gold, items, and one marked for him. He took that one and stored it, then carried the sack over to his table.
+
+“Gather around everyone.” Ren said.
+
+All of the dwarves scrambled over to where he stood; along with Ruck, Princess, Riley, and Stacy.
+
+Where's Deresdra? Ren asked Teepo.
+
+“She's helping the wounded giants.” Teepo said. Ren thanked him and looked at everyone gathered.
+
+“As the quest giver, and the designated Defender of the Realm, I couldn't be prouder of you.” Ren said, and everyone preened a little. “I formally declare this quest over.”
+
+Everyone gasped as their Honor, Influence, and XP took a huge jump.
+
+“By the gods.” One of the dwarves whispered. “How is this possible?” He asked no one in particular. “I have more Honor than my father now.”
+
+“It gets better.” Ren said, and started to hand out the sacks of money and items. Everyone received money no matter what; but he'd added bonuses of special equipment as well. The dwarves stood there in silence as Ren acted like Santa Claus as he handed out presents.
+
+“This one's for you. Enjoy.” Ren said and handed a dwarf a gold-plated crossbow after he examined it. “Ooo, this is nice. You deserve it.” He said and handed another dwarf a pair of gauntlets after he examined them. “Here's something I hope you'll like.” He said and handed the next dwarf a Belt of Strength. This went on for several minutes, until he came to Ruck.
+
+“This is for you.” Ren said, and held out a sack of gold.
+
+Ruck reached out and took the sack. He held it in his hands, and wasn't sure what to do with it.
+
+“Just store it for now.” Ren said.
+
+Ruck stored the sack of money into inventory, and Ren reached back into the bag and took out the other thing he had set as a prize for Ruck. Ren had been worried about Ruck going into battle without the ability to wear armor, so Ren asked the system to provide something appropriate for Ruck to have instead. Ren examined it closely, and used Identify.
+
+Amulet of Natural Armor (Wondrous Item)
+
+This amulet grants the wearer a natural armor bonus, and protects the wearer as if they were wearing heavy armor. This does not cause the wearer to suffer heavy armor penalties, however. This cannot be used with actual armor, and the bonuses and protection are lost if armor is equipped.
+
+Duration of Effect: 2 hours, but that can be split as many times as necessary. Two 1 hours slots, eight 15 minute slots, etc.
+
+Ren used Appraisal on it, and it was worth 100 gold. Wow. He thought. It's too bad it can't be used with armor. He smiled. Of course, it's going to help the heck out of healers, magic users, and anyone else that doesn't wear armor.
+
+Notice!
+
+You have learned a new recipe: Amulet of Natural Armor (Wondrous Item).
+
+Cool. Ren thought and handed the amulet to Ruck; who put it on and then pat Ren on the head. Ren chuckled and reached into the sack to take out two more very special things, then stored the almost empty reward sack. The things he held in his hands were in the shape of large metal pills, nearly 6 inches long and 3 inches wide. He knelt in front of Riley and Stacy, and held one out to each of them.
+
+“These are going to take a while to get used to.” Ren said. “I had planned on making these for you myself; but, the option to access these things doesn't appear until you've been around for a set time limit.” He grinned. “I'm so glad that getting upgrades as rewards was an option. Instead of getting money like the others, these things became available and I had them granted to you instead.”
+
+Ren held one out to Stacy, she sniffed it, then opened her mouth and took the pill. She swallowed it, and nothing happened. It took another minute, and then she started to glow. Her body was engulfed in a gold light, and part of her back rippled. Everyone watched closely as two panels on her upper back popped out and slid back, then sharp metal protrusions started to come out slowly. They kept coming, and Ren smiled as they finished deploying, and Stacy flicked them several times to expand them.
+
+They were wings. Metal-feathered wings.
+
+Riley barked excitedly and started to jump around.
+
+“All right, take it easy.” Ren said, and Riley settled down and held his mouth open. He took the pill and started to swallow it... and it got stuck. In his excitement, he'd tried to swallow it as fast as he could, and it turned slightly to wedge itself in his throat.
+
+“Stop, stop!” Ren nearly yelled, and Riley calmed down. “Open.”
+
+Riley opened his mouth, and Ren reached into his mouth and down into his throat.
+
+“Almost... al... most... got it!” Ren exclaimed and pulled his hand out quickly. Riley clamped his mouth shut, and went through the same transformation as Stacy.
+
+“That is so cool.” Teepo said.
+
+It sure is. Ren thought, proudly.
+
+His two steel dog constructs, Riley and Stacy, started to flap their wings to take off; and nothing happened.
+
+“Easy, you two.” Ren said, as he felt their frustration. “They don't just work right off the bat. You have to get used to them before you can fly.”
+
+They stopped flapping their wings and folded them in close to their bodies, instead of completely retracting them.
+
+“We'll work on it later, okay?” Ren said, and pat them on the head. “Now, who wants to loot bodies and gather bolts?”
+
+Everyone raised their hands, including Ruck, and he laughed.
+
+“Well, don't just stand there looking at me! Get to work! Move it! Move it! Move it!” Ren commanded, and the dwarves took off to clear up the battlefield. Ruck went to the nearest of the giants and stored the several bolts on the ground by him. Riley and Stacy picked up a bolt each, and ran over to give them to Ruck to store.
+
+“I didn't get anything?” Teepo asked.
+
+It'll have to wait for a few minutes. Ren thought to his friend. It's something so special, that even I can't wait to see what you think of it.
+
+“Cool.” Teepo said, because he could feel how happy Ren was about it. “I can wait.”
+
+Thanks. Ren thought and went over to the moat. He used the Wand of Spanning to make a bridge to cross it, and went to the center of the giant camp.
+
+“REN!” Laurelia exclaimed, and picked him up. She nestled him between her breasts, and held him tightly. “You did it, you handsome little devil!” She rocked him from side to side. “YOU DID IT!”
+
+Ren didn't know what to do. Having a giant yell in your ear hurt a lot; but, he didn't want to hurt her feelings by telling her that. He didn't have to worry for long, because Deresdra was there to talk some sense into Laurelia.
+
+“By the gods, he's not a squeeze toy!” Deresdra said, and laughed. “Put him down before you break him in half.”
+
+Laurelia blushed, and Ren felt the change in her skin as the blood rushed to her face. “I... I'm sorry.”
+
+“It's okay.” Ren said. “No harm done.”
+
+Laurelia eased her hold on him, and then put him down on the ground.
+
+“I feel like I should apologize for not being bigger, though.” He said, and Laurelia laughed as he walked over to Deresdra. “How are they?”
+
+“They're even more battered than the fish at the cafeteria.” Deresdra said, and smiled. “It's mostly just exhaustion I'm treating, with a few scrapes and bruises.”
+
+“Do you need a hand?”
+
+“Sure.” Deresdra said and pointed to the male giant that sat beside her. “Take out a Major Healing wand and concentrate on this bruise.”
+
+Ren took out the wand, and she held up a hand.
+
+“Wait.” Deresdra said. “You can see the bruise, right?”
+
+Ren nodded.
+
+“Now, imagine the damage underneath. Crushed muscles, compressed blood vessels, and possible damaged bones.”
+
+Ren nodded again. “I got it.”
+
+“Now, use a single spell and then wait.”
+
+Ren did so, and waited. The bruise quickly faded from the giant's arm, and Deresdra smiled.
+
+“Perfect.” She said. “I think you'd make a good healer.”
+
+Notice!
+
+You have unlocked a new skill: Healing Level 1 (Beginner 0%). This skill allows you to properly diagnose and heal minor wounds.
+
+“Thanks.” Ren said, and used his Master Tailor Sewing Needle to repair the giant's clothing.
+
+“Good god, that wasn't a trick?!?” The male giant said as he stared at his repaired clothing. “I thought you'd made the kid's old clothes glow to distract him, then replaced the clothes with new ones!”
+
+“No, it's not a trick.” Ren said. “It's real. I can magically repair clothing.”
+
+“Do me next!” One of the female giants said and stood up to come over to Ren.
+
+“I'd like to help heal the injured first, and then I'll take care of cleaning and repairing clothing.” Ren said, and she stopped walking over.
+
+“You're going to clean them, too?!?” She exclaimed with a huge smile on her face. “That's great!” She said and went to sit back down. “I can wait.”
+
+Ren chuckled and turned to Deresdra. “Can you keep showing me how to heal things properly?”
+
+Deresdra nodded slightly, and then smiled.

@@ -1,0 +1,263 @@
+---
+id: 8a202c90-ffdc-5f55-934d-e46197f2e125
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 Horn"
+slug: 0037-chapter-35-horn
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 37
+ownLength: 2623
+unit: words
+publishedAt: 2026-04-19
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3293579/chapter-35-horn"
+royalRoadId: "3293579"
+---
+
+In the days following the refugees’ arrival, Ashridge slowly began to find its rhythm again.
+
+The same could be said for the manor, which had quietly gained a new occupant within its halls.
+
+Pale bands of winter sunlight filtered through the windows of the manor’s dining hall, stretching across the long wooden table where Lucien had taken his usual seat.
+
+Alicia stood nearby in her customary place as she arranged the morning meal. Under ordinary circumstances the scene might have passed as the manor’s usual routine, if not for its newest occupant.
+
+Sera lingered near one of the windows, nonchalantly taking a bite of the bread in her hand, the larger bow slung across her back as usual.
+
+'I suppose I had missed having someone to share a meal with, but this is...' His thoughts trailed off.
+
+For a brief moment, he considered saying something to convince the wild girl to sit at the table, though he quickly dismissed the idea as pointless and reached for his cup instead.
+
+Across the table Alicia remained perfectly composed as she finished arranging the dishes, though Lucien thought he might have glimpsed the faintest curve at the corner of her lips.
+
+Before returning to her place she paused beside the small writing cabinet near the wall, sliding the loose parchment Sera had written upon inside the shallow drawer and closing it with particular care.
+
+It had been one of the first things he had noticed about Sera. The girl rarely seemed to move far from the windows whenever he saw her, particularly during meals, always choosing a position that left the rest of the room clearly within her view.
+
+She also appeared to possess even less sense of social conventions than he did, which was saying something for a man still learning the customs of this world.
+
+Fortunately, she seemed to gravitate toward Alicia more than anyone else within the manor. In fact, Sera would likely have attempted to remain inside the maid’s room entirely if not for the obvious limitations of space.
+
+Even then, when offered a room of her own, she had chosen the one directly beside Alicia’s without hesitation.
+
+Elias had spent the better part of the past few days attempting to instill some sense of decorum into the girl, though he had ultimately abandoned the effort when she simply refused to listen.
+
+He could not deny that watching the normally implacable steward struggle to find words had been rather entertaining.
+
+On more than one occasion, the steward had attempted to subtly suggest that the girl’s presumptuous residence within the manor, combined with her thoroughly uncouth manners, warranted some form of correction from its lord.
+
+Lucien had responded each time by pretending not to notice. He had no intention of punishing what was clearly a troubled girl, regardless of the customs of this world.
+
+For a time, the dining hall remained quiet as the morning meal continued in its usual, unhurried rhythm.
+
+He took another sip from his cup while Alicia moved about the table with an efficiency that had become second nature to her.
+
+Near the window Sera remained where she stood, the bread in her hand slowly diminishing with each absent bite.
+
+Then her head turned, a small movement subtle enough that it might have gone unnoticed had Lucien not already grown accustomed to observing her unusual habits.
+
+Sera’s attention shifted briefly toward the corridor beyond the dining hall, her posture growing still as if she were listening for something.
+
+Lucien followed the direction of her gaze, though he heard nothing beyond the ordinary silence of the manor.
+
+A moment later, footsteps sounded faintly in the corridor outside, and she returned to her breakfast like nothing had happened.
+
+He set his cup back upon the table, noting how neatly the timing aligned with the suspicion already forming in his mind.
+
+Across the room, Alicia appeared not to have noticed the exchange at all as she finished arranging the last of the dishes.
+
+For Sera, however, the window remained her chosen post, the winter light outlining her still form as she continued eating in the same unhurried manner as before.
+
+For a time, the manor remained peaceful.
+
+And Ashridge, at last, seemed to be settling into a fragile kind of normal.
+
+The meal continued quietly for a short while after that.
+
+He finished the last of his tea while Alicia moved about the table, gathering the empty dishes with her usual careful attention. It was not the morning drink he would have preferred.
+
+Near the window Sera had already finished her bread, she brushed the remaining crumbs from her fingers before resting one hand lightly upon the smaller bow she carried.
+
+The weapon rarely left her reach, though it was not the wary grip of someone expecting immediate danger. Rather, it appeared to be a habit so deeply ingrained that she no longer thought about it.
+
+That sort of habit only came from years spent walking through forests where the line between hunter and prey could shift without warning.
+
+Alicia stepped toward the window with a small cloth in her hands. “You may sit at the table if you wish,” she reminded gently.
+
+Sera’s attention shifted toward the maid, and she seemed to consider the suggestion, her gaze drifting briefly toward the table before returning to Alicia.
+
+Then she shook her head once.
+
+Lucien hid the faintest hint of amusement behind his cup.
+
+Alicia did not appear surprised by the response and merely nodded, as though it had been the answer she expected. “Very well,” she said quietly.
+
+Sera remained where she stood briefly before reaching into the small pouch at her side, withdrawing a piece of charcoal and one of the spare parchments Alicia often used for her drawings.
+
+She stepped closer to the table, her movements careful but no longer hesitant, far more comfortable within the manor than she had been only a few days earlier.
+
+The charcoal moved across the parchment in short, deliberate strokes until she finished and slid the page toward Alicia.
+
+She glanced down in response, pausing briefly before her brows lifted slightly as she looked back toward Sera. “You would like to go outside?” she asked.
+
+Sera nodded, the motion short but firm.
+
+Lucien set his cup down. “You wish to practice?” he asked calmly.
+
+Her attention shifted toward him and, a breath later, she gave another small nod.
+
+He leaned back in his chair. That, at least, was something he could understand.
+
+Alicia hesitated before speaking again. “The fields beyond the southern palisade are often empty this morning,” she said. “The militia use the clearing near the treeline for their drills.”
+
+Sera listened intently before reaching for the parchment once more and writing something beneath the first line.
+
+Alicia read the new words silently, a faint smile touching her lips. “She says thank you.”
+
+He inclined his head in acknowledgement.
+
+She watched him for a heartbeat before turning toward the door. Once she had made up her mind, Sera moved with certainty, the door closing behind her with barely a sound.
+
+Lucien exhaled softly through his nose. “Well...at least she hasn't brought the entire forest into the manor yet.”
+
+Alicia covered her mouth, though the giggle that escaped her was impossible to hide.
+
+The low winter sun had already begun its slow descent by the time Lucien reached the southern portion of the village.
+
+The change was visible well before he reached the palisade.
+
+Where the ground had once been little more than packed earth and scattered brush, the sound of work now carried steadily through the cold air. The dull rhythm of axes striking wood echoed from the treeline beyond the clearing, while nearer to the village, several half finished timber frames had already begun to take shape.
+
+Men moved steadily between the structures, carrying beams across their shoulders or dragging rough cut logs toward the growing pile of lumber near the road.
+
+Lucien slowed his pace as he approached.
+
+The scent of freshly cut wood hung faintly in the air, mingling with the dry chill of winter.
+
+At the center of the activity Harlon stood beside one of the rising frames, his broad shoulders dusted with sawdust as he examined the alignment of a newly raised beam. A pair of villagers held the support ropes steady while another man hammered wooden pegs into place along the joint.
+
+The carpenter stepped back, squinting upward toward the frame before giving a short nod, “that will hold,” he said, brushing his hands together.
+
+Only then did he notice Lucien approaching along the road.
+
+“Lord,” Harlon greeted, straightening slightly.
+
+Lucien inclined his head in return as his eyes moved across the clearing.
+
+Several of the workers he recognized immediately, farmers from the village who had traded their plows for axes during the winter months. Yet among them now moved unfamiliar faces as well, men from the refugee group who had arrived only days earlier.
+
+The difference between them was easy enough to see.
+
+The villagers worked with the casual familiarity of men accustomed to the place, while the newcomers carried themselves with a more careful awareness, their eyes occasionally drifting toward the palisade or the treeline beyond, still adjusting to the idea of shelter behind walls.
+
+Harlon followed Lucien’s gaze across the construction site.
+
+“We’ve started with the southern row first,” the carpenter explained. “Ground’s good here, easier to lay the frames.”
+
+Lucien studied the spacing between the structures. Even half built, the houses stood well apart from one another, leaving broad stretches of open ground between the foundations.
+
+It was the same pattern found across the frontier, and his attention soon returned to the half finished frame before him.
+
+“With enough hands,” Harlon continued, gesturing toward the workers nearby, “we should have the first few roofs raised before the next snowfall.”
+
+Lucien gave a small nod. “It will have to do.” His gaze moved slowly across the site. “At least they will have shelter from the winter cold.”
+
+Around them the work continued without pause.
+
+Axes rose and fell along the treeline while the steady knock of hammer against wood carried across the clearing. A pair of children lingered at the edge of the site, watching the men work until one of the militia waved them back toward the road.
+
+The village had grown busier in recent days, noticeably more active without descending into chaos.
+
+Lucien turned slightly, looking back across the stretch of Ashridge behind him.
+
+Thin trails of smoke curled upward from the scattered rooftops while figures moved along the narrow roads between houses. Villagers and refugees alike crossed paths in cautious exchanges that still carried the stiffness of unfamiliar company.
+
+Yet the distance between them seemed to shrink a little more with each passing day.
+
+Ashridge had begun to change, slowly but unmistakably.
+
+As the sun drifted lower toward the western treeline, the pace of the work began to ease.
+
+One by one the tools were set aside.
+
+A pair of men rolled their shoulders after lowering a beam into place while another wiped the sweat from his brow despite the winter air. Even the sound of axes striking the trees beyond the clearing had begun to grow less frequent.
+
+Harlon stepped back from the frame he had been inspecting and gave the structure one final measuring look before nodding to himself. “That will do for today,” he said, loud enough for those nearest to hear.
+
+The announcement passed quickly among the workers.
+
+A few of the villagers began gathering their tools while others stacked the remaining timber neatly beside the unfinished frames. The refugees followed their lead, their motions growing more relaxed now that the rhythm of the work had become familiar.
+
+Lucien watched them for a time without speaking.
+
+The last of the light slipped lower across the clearing and before long, the first of the workers began making their way back toward the village proper.
+
+He remained where he stood a while longer, his eyes drifting toward the treeline beyond the southern fields.
+
+The forest there stood dark against the fading sky, and beyond it stretched the long frontier roads that wound between scattered settlements, places that had not endured the winter’s passing as well as Ashridge had.
+
+He exhaled quietly through his nose. They had been fortunate, or perhaps simply better prepared.
+
+A faint crunch of footsteps over frost touched ground drew his attention. Someone had approached without speaking, causing him to turn.
+
+Sera stood a short distance away.
+
+She had appeared with the same silent ease she carried everywhere, her posture relaxed yet alert as she watched him. The larger bow remained slung across her back while the smaller one rested loosely in her hand.
+
+For a moment, the space between them remained quiet.
+
+Then, Sera reached into the small satchel at her side and withdrew a folded scrap of parchment before stepping forward to offer it to him.
+
+When Lucien accepted and unfolded the parchment, he found only three words written across the page in deliberate strokes.
+
+Dinner ready soon.
+
+He glanced back up at the girl. “Alicia sent you?” he asked.
+
+She gave a small nod in response, Lucien folded the parchment and returned it to her.
+
+“Very well.” He turned toward the road leading back through the village.
+
+“Let us not keep her waiting.”
+
+Sera fell into step beside him as they began the walk toward the manor.
+
+The road leading back through the village had begun to quiet by the time they reached the first of the houses.
+
+Evening had settled gently over Ashridge as the last of the workers returned from the southern clearing, their voices carrying faintly across the narrow roads as small groups drifted toward their homes.
+
+The sharp sounds of hammer and axe that had filled the afternoon were gone now, replaced by the softer hum of a settlement preparing for night.
+
+Lucien walked at an easy pace while Sera moved beside him, her steps light against the frost hardened ground.
+
+They had nearly reached the central road leading toward the manor when she stopped.
+
+It was a small motion, yet abrupt enough that Lucien slowed and glanced toward her.
+
+She had turned her head a fraction, her pale eyes fixed somewhere beyond the northern stretch of the village.
+
+For a brief moment, she didn't move, her posture shifting before his eyes like a problem that had suddenly gained a new variable.
+
+The relaxed stillness she usually carried had sharpened into something more alert, as if she was listening for something that had not yet reached him.
+
+Lucien followed the direction of her gaze, but the village lay quiet beneath the fading light. Smoke drifted above the rooftops, and a pair of villagers crossed the road further ahead while speaking in low voices.
+
+Nothing seemed out of place, yet Lucien could not help but frown. “Sera?” he asked, his tone low.
+
+Sera stood motionless, her head tilted faintly toward the distant horizon.
+
+Several seconds passed before Lucien heard it. A long, hollow note carried faintly through the evening air.
+
+It was distant enough that the sound arrived thin and uneven, like the wind itself struggled to carry it across the open frontier.
+
+The horn sounded again, and this time there was no mistaking it as Lucien’s previously placid mood shifted at once.
+
+From beyond the forested ridges that lay between Ashridge and the neighboring settlement.
+
+Cragwatch.
+
+The horn called once more across the fading light of evening.
+
+Lucien’s gaze moved toward the darkening horizon.
+
+Beside him, Sera had not taken her eyes from that distant direction since the first moment she had stopped walking.
+
+And far beyond the quiet village of Ashridge, the horn of Cragwatch continued to sound.

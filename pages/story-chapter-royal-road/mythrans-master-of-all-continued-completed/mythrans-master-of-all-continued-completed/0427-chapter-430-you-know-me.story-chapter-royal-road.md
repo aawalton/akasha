@@ -1,0 +1,307 @@
+---
+id: 89e1f41c-aa29-5c01-b46c-5bf309204ec4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 430 - You Know Me"
+slug: 0427-chapter-430-you-know-me
+partOf: mythrans-master-of-all-continued-completed
+position: 427
+ownLength: 3561
+unit: words
+publishedAt: 2017-11-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175977/chapter-430-you-know-me"
+royalRoadId: "175977"
+---
+
+Ren and his group flew across the barren cavern below them and into the next section. Ren used the Staff of Earth to make ripples of dirt flow along the ceiling, and it snapped every single stalactite off. The improvised ballistic weapons plunged down onto the waiting demon-like creatures. They had all looked up at Ren as he flew overhead, even with the displacement enchantment, and the stalactites pierced through their huge eyes.
+
+There were hundreds of the things down below, and he wondered how anyone could cross the place on foot. Of course, the creatures were decimated from the stalactite bombardment. Even the ones smart enough to try and jump out of the way were hit by the ones where they landed. It was a slaughter.
+
+Notice!
+
+You have used an ingenious method to kill 243 Nothic Demons. Their necrotic stare makes you rot from the inside out and gives you corruption. You were smart to avoid them.
+
+Rewards: 88,695 XP (365 XP each); Intelligence: +3
+
+Notice!
+
+You have gained a level! You are now Level 83 and 10 stat points have been automatically allocated.
+
+Still nothing? Ren asked. That's 2 level gains in a row with nothing extra. He dismissed the popups, then looked at the destruction below. “That worked a lot better than I thought it would.” He said and looked at the succubi. “Loot, please.”
+
+“Right away!” One succubus said and dove for the cavern floor as she deactivated her Displacement enchantment, and the rest followed her to harvest the corpses. They flew back up and handed over all of the loot except for the money. They didn't fight over it, though. Ren looked briefly at the loot as he stored it and saw some large eyeballs, 10 inch talons, 4 inch talons, and a few weird-looking organs. No weapons, armor, or anything mechanical.
+
+I wonder if that means they were mindless? Ren asked himself. He checked the All-Seeing Mirror for Lost Knight skulls, and didn't find any. “Well, let's move on.” He said, and they all flew over towards the next section of the cavern. He had them all stop when he looked at the ceiling and there weren't any stalactites at all. I guess I can't cheat that way again.
+
+Ren checked the All-Seeing Mirror again and asked for what the next creature was. He was surprised when something that looked surprisingly like The Grinch Who Stole Christmas appeared on the surface of the mirror. It's arms and back were covered in large spikes and it had a long tail; but, it definitely looked just like the Grinch.
+
+Are they running out of ideas? Ren asked himself, then a blast of flame covered his Phantom Steed and him. All of the succubi took out their Acid Arrow and Fireball wands and unloaded them on the creatures below. There weren't a lot of them, so even though a lot of the wands ran out of charges, the succubi made short work of the opposition.
+
+Ren had used Fire Manipulation to keep the Phantom Steed from taking damage, and absorbed the fire. The succubi didn't need to be ordered to gather the loot, and brought back several tails, dozens of spikes, and 40 sacks of some kind of liquid. He stored the rest of the loot and examined a sack.
+
+Liquid Fire Gland (Rare)
+
+The glands of a Barbed Devil can produce a stream of fire when squeezed. If squeezed at a constant pressure, it can spray up to 150 feet for several seconds before becoming empty.
+
+Limited Regeneration: Will refill with liquid automatically after 10 minutes.
+
+Neat. Ren thought and stored it with the others, then took out the All-Seeing Mirror again. He asked for a map, and saw there was one section left before the tunnel to go up to the next level and the safe zone. He asked to see any creatures in the cavern, and nothing appeared.
+
+“Okay, it says there's nothing up ahead.” Ren said. “Activate your Displacement enchantments and spread out.”
+
+The succubi did as he said, and Ren nodded to the skeleton knights. They followed at his flanks as he flew over to the last section of the level.
+
+*
+
+Elise parked her Hummer H2 in the driveway and grabbed her purse and the bag with her change of clothes, and went inside after the security team checked her ID. She took the elevator up to the second floor and walked down the hallway, and saw that Ren's bedroom door was open.
+
+“What is our little man up to?” Elise asked as she entered the bedroom.
+
+“Just his normal shenanigans.” Lisa said and smiled.
+
+“You're too young to use that word without it sounding weird.” Denise said and grinned.
+
+“I'm only 2 years younger than you!” Lisa said and laughed.
+
+“Is it okay to say you look younger than that?” Elise asked as she put her bag of clothes out of the way.
+
+“Only if you mean that I'm prettier now than I'll be when I look that old.” Lisa said.
+
+“Oh, definitely.” Elise said and gave her a quick hug. “I'll be right back. I have to go get another chair.”
+
+“That's okay.” Lisa said. “We can share.”
+
+“How?” Elise asked as Lisa tried to move over enough for her to sit down. “Stand up for a second.”
+
+Lisa stood up and Elise sat down on the warm chair.
+
+“That was sneaky!” Lisa said and shook her head. “I was tricked so easily.”
+
+Elise laughed and pat her lap. “It's not a trick.”
+
+“You... want me to... sit on your lap.”
+
+“You can't be much heavier than Ren.” Elise said. “Have a seat.”
+
+Lisa looked like she was going to refuse, then kind of shrugged and sat down across Elise's lap. After a bit of adjustment, Lisa finally put an arm around Elise's neck and felt comfortable, then Elise put her arms around her waist to keep her steady. Neither of them felt awkward about it.
+
+Denise had watched the interaction closely, and realized that both women cared enough about Ren that they were okay with normal contact with each other.
+
+I don't think either of them feel awkward at all about sitting like that. Denise thought.
+
+“Fill me in on what happened today.” Elise said.
+
+“Lisa and Ren had a fight.” Denise said, and Lisa's face flushed red.
+
+“Aw.” Elise said and hugged Lisa a little tighter, then turned her head to look at her. “What happened?”
+
+Lisa looked back at her and their faces were so close that they were almost touching. “I... um...”
+
+“She confronted him about having to get rid of the succubi.” Denise said. “They had this long 'discussion' over the detrimental effects staying corrupted would have on him.”
+
+“Like what?” Elise asked.
+
+“If he keeps the succubi around him, every time he dies it's going to feel the same.” Lisa said. “Whether he has a little corruption or a lot, he'll throw up blood until he's dead.”
+
+“Wh-what?” Elise said, surprised. “You can't be serious.”
+
+Lisa nodded. “It made me so mad that he wasn't taking my advice.”
+
+“I can't believe he would ignore you.” Elise said.
+
+“He didn't ignore her.” Denise said. “He explained that he couldn't do what she wanted right now.”
+
+“He said it's because he promised that he would take them out with him, and he can't... or won't... abandon them.” Lisa said.
+
+“It's okay, though. Ren and the succubi had a bit of a falling out.” Denise smiled. “He's been keeping them at a distance since then.”
+
+Elise had watched Lisa's reaction to Denise's words. “You're still angry at him.” She said, and Lisa nodded.
+
+“I can't help it.” Lisa sighed. “I told him he was being pigheaded...”
+
+Elise snorted a laugh.
+
+“What?”
+
+“Of course he's being pigheaded. You gave him an ultimatum, and he couldn't pick either option to make the situation better for everyone.”
+
+“But...”
+
+“If you had said, 'Ren, keep the contact to a minimum and be very careful of them until you escape the caverns' would have been a much more appealing option for him than 'get rid of them now'.” Elise said and smiled.
+
+“But... that won't be enough.” Lisa said. “If he doesn't stop all contact with them...”
+
+“What's the first thing a man does when you tell him not to do something?” Elise asked.
+
+Lisa opened her mouth to say something, then sighed. “He goes and does it.”
+
+“Uh huh.” Elise said. “And what did you tell him not to do?”
+
+“I told him not to keep them.” Lisa said and covered her eyes with a hand. “Okay, I... yes, I was being stupid! But... but I...”
+
+Elise gently kissed her cheek and Lisa dropped her hand and looked at her with surprise on her face.
+
+“You love him.” Elise said, and Lisa glanced at Denise.
+
+“Don't look at me, I didn't tell her.” Denise said.
+
+“We all want what's best for the people we love.” Elise said. “I tried my hardest to get Ren out of there, had a fight with the head programmer over it, and then confronted my boss.”
+
+“Wh-what?” Denise and Lisa said together.
+
+“You don't seriously think I'd sit by and let my handsome little man suffer through all of this without trying to protect him, do you?” Elise said and smiled. “I didn't manage to get him shunted back, but I did finally convince my boss to give him the reward he was promised.”
+
+“Oh, Elise!” Lisa said and put her other arm around Elise's neck and kissed her cheek. “He'll be so happy!”
+
+It was Elise's turn to have her face flush red.
+
+“Look at that.” Denise said, and all three of them watched the television screen as Ren and his horde made short work of a pile of Grinch-like creatures and then flew across the cavern towards a wall.
+
+*
+
+When Ren and his group arrived at the last section, they saw that it only had a small opening in it. Ren tried to open it wider with the Staff of Earth, and found it was impenetrable rock.
+
+Is it just me, or is it changing to take away any advantage we have? Ren asked.
+
+“It's a bit too convenient that anyone flying has to land right here.” Teepo said. “Check for magic and traps.”
+
+Ren used the appropriate wands and came in for a landing when nothing showed up, and he saw that the Phantom Steed would just barely fit through the opening... if he wasn't riding it.
+
+“Yeah, it's definitely trying to remove my advantages.” Ren said and waved the succubi in to land.
+
+Stat Change!
+
+Staying Power (Mastered) - Reduces Health loss from hunger by 90%
+
+I wonder if I would still get that popup if my Sustenance ring had kicked in. Ren thought and refilled all of the wands the succubi had emptied, let them feel how proud he was of them, and gave them a warning. “We might get separated after this opening, so don't panic.” He smiled and gave them a feeling of reassurance. “If anything happens, stay together. I will come for you.”
+
+“How will you find us?” Zunala asked.
+
+“Easily.” Ren said. “I'll leave a skeleton knight with you. As long as it is within 300 feet of me, I'll know where you are.”
+
+“What if it's farther than that?”
+
+“It can't be, since it's only 200 feet to the tunnel exit; but, if somehow it's further than that, I can make a Locate wand and find you.”
+
+“What if you die?”
+
+“I'll try not to.” Ren said. “Mainly because I won't have the tower out and I won't know where I'll reappear.”
+
+“Take it out now.”
+
+“There's no room for it.” Ren said. “Plus, if I leave it back here and it gets cut off, any time I die I'll come right back here.”
+
+Zunala sighed. “I guess you have to take the risk.”
+
+“No, we have to take the risk. We're in this together.”
+
+Zunala could feel that he was telling the truth. “We are only coming along.” She said. “If you weren't here, we would just find a nice place to roost and stay there.”
+
+Ren smiled. “I hear there's an old Aerie that's recently become available for new tenants.”
+
+“Is that supposed to be some kind of joke?” Zunala asked.
+
+“It's to remind you of what happens in Shargon Canverns if you stay in one place for too long.” Ren explained. “Someone better than you might come along and remove you, too.”
+
+Zunala sighed again. “You have made your point.”
+
+“I hope so.” Ren said. “Stay together, be safe, and follow me.”
+
+“Should we hold hands?” One of the other succubi asked.
+
+“That's a good idea.” Ren said. “Get a good grip on the one in front of you.”
+
+The succubi formed a line and held each other's hands, and Zunala was at the front of the line beside Ren. He held his hand out to her, and she took it. His confidence and apprehension flowed to all of them, and he felt their dependency on him.
+
+Ren reached out and gently grabbed the middle of the tail of his Phantom Steed. “Lead on.”
+
+The Phantom Steed let out a raspy huff and walked into the small opening with a trail of succubi and the two skeleton knights behind them. The tunnel was about 30 feet long, so by the time the Phantom Steed had reached the other end, everyone was inside the tunnel. The ground started to shake, and Ren let the Phantom Steed's tail go and took out the Staff of Earth. He didn't try to push anything away, all he did was hold the current shape of the tunnel.
+
+“Go! Go! GO!” Ren yelled and pushed Zunala out the end with the Phantom Steed, then touched each succubi as she went past. He gave each of them a burst of urgency and when the two skeleton knights and their steeds went past, he ran out of the end of the tunnel. The entire cavern shifted and dropped down, and it looked as if there hadn't been a tunnel there at all.
+
+Ren felt something powerful enter his Aura, and he turned around to see what it was. A much larger tunnel had been opened on the other side and something moved within it.
+
+“Scatter and hide.” Ren whispered, and the succubi flew to different parts of the small cavern and activated their Displacement enchantments as they ducked behind rocks, stalactites, and stalagmites, and hoped that the Ward enchantments kept them hidden.
+
+“Ren, it's cloaked in shadows.” Teepo said. “I can't see it.”
+
+Me, either. Ren thought as he used the Staff of Earth to create barriers in front of the succubi, the skeleton knights, and himself. He took out the All-Seeing Mirror and asked it to show him what it was.
+
+Oh, crap. Ren thought.
+
+“What is it?” Teepo asked. “Oh, crap!” He said when he saw what the All-Seeing Mirror showed.
+
+It was the oddest creature Ren had ever seen. It was a woman from the thighs up, had 6 arms, and was about 10 feet tall. That wasn't the interesting part, though. From the middle of her thighs down, she was a giant snake about 3 feet wide, and if Ren had to guess, the snake part was about 25 feet long.
+
+Her hair was a deep red color and cascaded in waves down her back. Her eyes glowed red as well, and Ren had the distinct feeling that he had met her before. He wasn't sure why, though.
+
+She wore odd-shaped armor pieces that covered her waist, chest, and all 6 wrists. The armor looked like it had been cobbled together from different sets to make each piece and it didn't look safe to wear at all. She also had a 4 foot long broadsword in each hand.
+
+I have to see this for myself. Ren stored the All-Seeing Mirror and looked around the barrier he had made for himself. The tunnel she was in was still cloaked in shadows, and for some reason, he felt a vibration in his Aura where the creature was.
+
+WHHHHHOOOOO... YOOOOOUUUUU...
+
+“GAH!” Ren grabbed the sides of his head as the mental voice screamed in his head. He bent over in severe pain and lost 10% of his Health.
+
+GAAAAHHHHH... ODDDDDDD... NAAAAAAAMMMMMEEEEEE...
+
+“GAH ISN'T MY NAME!” Ren yelled. He had lost another 10% of his Health. “S-S-STOP TALKING!”
+
+YOOOOOUUUUU... DAAARRRRREEEE...
+
+“YOU'RE KILLING ME!” Ren yelled at her. He had lost another 10% and was down to only 70% Health left. A loud woman's laugh filled the cavern.
+
+SOOOOO... WEEEEEEEAAAAAAK...
+
+The shadows that hid it from view dissipated, and it slithered out of the tunnel. All the succubi gasped as they finally saw the creature Ren would be facing. Ren felt their shock and peeked out to see the creature firsthand. He used Vision of Impurity and saw all the cracks and splits in the armor pieces, and he knew they wouldn't protect her at all in a fight.
+
+Identify.
+
+Marilith (Level 189)
+
+This female snake-like creature is one of the most fearsome single opponents anyone can face. It's multiple arms can attack without pause in a relentless flurry. It's tail can grab and crush those unlucky enough to be caught with it, or it can lash out and strike opponents like a whip.
+
+Damage Resistances: Elemental - Ice, Fire, and Lightning; Physical - Bludgeoning, Piercing, and Slashing from both magical and non-magical attacks.
+
+Immunities: Poison, Acid
+
+Inherent Abilities: True Sight (can see as if daytime in any conditions, and can Spot anything within it's sight, hidden or not), Multi-attack, Multi-weapon Fighting, Telepathy (Range: 100 feet), Damage Reduction, Spell Resistance, Natural Armor.
+
+Permanent Conditions: Corrupted, Combative (loves fighting)
+
+Ren dismissed the popup after quickly reading it, and watched the Marilith as it looked at each and every spot that the succubi were, and then it stopped when it looked right at him.
+
+Oh, crap. Ren thought, and then the creature crossed all 6 of it's swords in front of itself. Ren was about to wonder what she was doing when he felt a buildup of Mana. A huge portal opened in front of her, and a 15 foot tall demon stepped out of it. It kind of looked like a giant pig that was standing up on it's hind legs. It had a pig snout and large tusks, a big pot belly, and pig ears; but, it also had large clawed hands, a longer tail, and feathered wings. Before Ren could use Identify on it, it was engulfed in 20 fireballs, then 20 more, and 20 more. A loud pig squeal filled the cavern, and so did the most wonderful smell Ren had ever encountered.
+
+“BACON!” Ren yelled and activated his Controlled Berserk Rage as he jumped as high as he could over the barrier he had made for himself, equipped his hammerpick and changed the enchantment to Fire in mid-air, then brought it down onto the flame-covered head of the demonic pig beast. It didn't die from the blow, even though there was a sickening bone crunch; but, it did become stunned as Ren landed in front of it and the Fire enchantment on the hammerpick increased the flames tenfold.
+
+Without considering the consequences of what he was doing, Ren turned the hammerpick around to use the plow end, and swung the hammerpick up to split the beast's belly. Blood and viscera poured out of it and covered him from head to foot, and he laughed because he was so close to the wonderful bacon smell and the disembowelment was successful.
+
+Notice!
+
+You have been corrupted! You have absorbed Boar Demon blood directly from the source through your skin. It's effects vary by those infected, and by the amount of blood absorbed.
+
+Current Corruption Level: 41%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+Oops. Ren chuckled. I forgot about the corruption. He dismissed the popup and stepped to the side as the demonic pig beast fell to it's knees, then dropped dead to the cavern floor.
+
+Notice!
+
+You have killed the rare Boar Demon.
+
+Rewards: 35,000 XP
+
+Hidden Quest Update!
+
+You have found another rare creature! A SPECIAL bonus awaits those that can find all the rare creatures in the game. Number found: 2/100
+
+Rewards: 3,000 XP
+
+Ren used the plow end of the hammerpick to carve off a big chunk of skin and fat off of the well-cooked creature's still smouldering back. He stored his helm and climbed up onto the creature's back to sit down, used the Energize wand on himself so he wouldn't collapse from his Controlled Berserk Rage, then took a big bite out of the piece of meat.
+
+“Oohhhh, that's so good!” Ren moaned as he chewed, then took another bite. He felt shock and surprise from all around him; but at the moment, he didn't care. He was too busy enjoying himself to worry about anything else. He heard a slithering sound close by and looked up at the Marilith demon.
+
+“I'm sorry! Where are my manners?” Ren used the plow end of the hammerpick to cut off a much bigger piece and held it out to her. “Would you like some?”

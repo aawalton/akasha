@@ -1,0 +1,187 @@
+---
+id: 5f50c247-6f83-52d0-b2f3-7e79f40e0958
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95 Routine"
+slug: 0100-chapter-95-routine
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 100
+ownLength: 2013
+unit: words
+publishedAt: 2026-07-12
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3667800/chapter-95-routine"
+royalRoadId: "3667800"
+---
+
+A small bead of sweat dripped from Lucien's brow as he leaned back in his chair. It was around this time of year that he began missing the air conditioners from his former world.
+
+He took a sip of his coffee, inwardly lamenting the lack of ice as well. It was not even fully summer yet.
+
+Talia seemed just as energetic as ever, though perhaps that was because she had long since abandoned wearing her vest once the weather began growing hotter.
+
+Of course, he didn't have that luxury as a noble, something she teased him about often much to Alicia’s faint disapproval.
+
+A firm knock sounded on his door. Lucien wiped the sweat from his brow with the cloth he had begun carrying before calling out.
+
+“Enter.”
+
+The door opened shortly afterward, Dorian stepping through before quietly closing it behind him. He approached the desk and dipped his head.
+
+“My Lord.”
+
+Lucien gestured toward the chair across from him. Once the captain had taken his seat, he leaned forward slightly, steepling his hands.
+
+"Dorian. We will leave for Helvarn soon. Have you arranged for our absence while we are there?"
+
+The captain inclined his head. "Yes, My Lord. Merek will be taking over my duties as captain. I have already briefed him on the necessary arrangements."
+
+It made sense for Dorian to select the older man to hold the fort here. From his observation of the man, he was reliable and one of the more experienced men among his household guards.
+
+Dorian cleared his throat before he spoke. "As for your escort. Henric and Tomas will be joining us as you have ordered."
+
+Leaning back into his chair, Lucien glanced toward the captain. “It will be a good opportunity for you to observe him while we are traveling to Helvarn.”
+
+The captain considered it briefly before answering. “The roads should be safer at this time of year...as safe as anything on the frontier can be. I would still prefer the escort consist of more than just three men, My Lord.”
+
+He shook his head. “A smaller party would allow us to move faster if trouble appears. And arriving with too many guards would not send a favorable message to the lords attending the meeting either. It is after all merely a...discussion.”
+
+Dorian’s expression remained unchanged, though Lucien already knew the man still disapproved of the arrangement.
+
+He let out a breath and decided to move the topic along to another subject. "The militia's progress with the crossbow. They should be somewhat proficient in it by now?"
+
+The captain's eyes lowered as he considered the question. "Joren and Harlon have made an additional five of them. The total now stands at twenty, and all of the men have managed acceptable accuracy with them."
+
+The two craftsmen had been busy working on the water gate and the windlass crossbow over the weeks since mid-spring. The five newer crossbows had instead been made by their apprentices with the aid of several helpers.
+
+Dorian lifted his eyes to meet Lucien’s. “Sera has already instructed the other volunteer in the use of the new crossbow.”
+
+The captain shifted lightly in his seat, the faint clank of plate armor following the motion. "It...is powerful, My Lord. Far more than the ones the militia are using."
+
+Lucien placed his hands on the arms of his chair. “It is. But the windlass crossbow cannot be made quickly, Dorian. They are also not suited for rough conditions. For now, we will restrict their use to the towers only.”
+
+Without precision tools and more blacksmiths, they couldn't produce too many of them. Since mid-spring, only one had been made so far and even during that time, there had been an incident involving Joren's apprentice.
+
+The mechanism had slipped under a full draw which nearly injured the younger man. Joren had refused to let it out of his sight until he had reforged and examined every piece of iron in it before allowing another attempt.
+
+Dorian inclined his head slowly. "Then we will make do with the one we have for now. If more women volunteer, we can have Sera tr-"
+
+"No."
+
+The captain stilled at his words, his eyes widening slightly.
+
+"My Lord?"
+
+Lucien's hands lightly clenched the arms of his chair before he released it. "Have one of the guards instruct any future volunteers. Or the first volunteer that Sera had already taught."
+
+Dorian's eyes narrowed. "They will not be as proficient as her, My Lord."
+
+Lucien kept his expression carefully neutral as he shook his head. “The crossbow is not meant to be a weapon of skill. That would defeat the purpose, Dorian. And when I asked for volunteers, I said it was for defensive purposes only.”
+
+The man before him studied him for a long moment before he inclined his head slowly.
+
+"As you command, My Lord."
+
+The meeting gradually drew to a close as they briefly discussed the increased guard presence at the ridge outpost along with several additional guards being stationed near the northern palisade where the irrigation ditch was being dug.
+
+So far, no fights had broken out between the men, though he had decided to keep the guards there for the time being.
+
+As Dorian left the room, Lucien leaned back against his chair. He wiped the cloth across his brow, his gaze shifting toward the window where the late-spring sun shone cheerily at him.
+
+His boot nudged an object under his desk, causing him to remember that it was about time he got moving.
+
+He reached beneath the desk for the hunting bow Sera had given him weeks ago, feeling slightly more at ease with its weight as he rose from his seat. He crossed to one of the shelves at the side of the study, taking a quiver before slinging it across his back.
+
+Clasping the cloak upon his shoulder, Lucien left the study, passing servants who bowed at the sight of him. Returning the gesture, he continued onward.
+
+None spared a glance at the bow he carried, as though it had long since become just another familiar sight within the manor.
+
+At the back of the estate, Lucien passed the kitchen herb gardens toward a small clearing near the rear walls where he had ordered the archery range built. Sound rarely carried through the manor grounds, but the space here felt quieter still.
+
+Near the shed, he crouched to open a crate of slightly blunted arrows before filling the quiver at his back. By the time he straightened again, sweat had already begun forming along his brow despite not having practiced a single shot yet.
+
+The soft crunch of a footstep against the grass drew his eyes over to Sera as she approached, pale eyes fixed on him beneath a faint scrunch of her brows.
+
+Lucien rubbed his hand on his temple briefly. "I said the meeting would take some time, Sera."
+
+Sera had been rather...insistent about the time they would practice archery in the early hours of the day, to the point where she would wait patiently around the manor grounds, even forgoing some of her hunting days to make up for the lost time.
+
+Talia of course had taken to teasing her about it by saying it seemed spending time training with him had become more important than hunting.
+
+That backfired immediately when Sera gave a firm nod without hesitation, causing Talia’s teasing smile to falter.
+
+At his words, Sera tilted her head before reaching into her satchel and pulling out a parchment. After a few quick strokes, she turned it toward him.
+
+Meeting here?
+
+He stared at it for a brief moment. In her eyes, there was little difference between holding an official military meeting at the back of the manor or in his study.
+
+Lucien shook his head wryly. “Let's not waste time when we could be training.”
+
+She inclined her head immediately before stepping forward to stand beside him.
+
+The archery range he had ordered built only had two targets. He had originally intended for only one to be made for his own training.
+
+He had assumed Sera would continue practicing at her usual spot until one day, while he was training, she simply dragged another target over to place beside his own before giving him a firm nod.
+
+The sight of the petite girl moving it through the manor without the slightest hesitation brought him no small amount of suffering once Talia spotted it, amusement immediately deepening across her face.
+
+To his dismay, even Alicia briefly looked away to hide a smile before composing herself again.
+
+Lucien set the thought aside as he nocked an arrow onto the bow, the motion noticeably smoother than his first attempts weeks ago.
+
+He drew, held the tension for a single breath, then released.
+
+The arrow struck between the outer circles with a light thud against the bundled straw.
+
+Since first beginning his training, he had practiced nearly every other morning whenever he could spare the time. Many of his shots now landed somewhere between the two circles, though the occasional strike at the center still felt more like luck than skill.
+
+Sera had a different opinion. Whenever he managed to hit the center, she would place her hand lightly against his chest before giving him a small nod.
+
+His rhythm.
+
+That was what she was trying to tell him. He needed to find his own rhythm.
+
+Such an abstract way of thinking was not something Lucien usually took seriously, but considering there was such a thing as Mana and Blessings in this world, he couldn't help but give it more consideration.
+
+They practiced in silence for a time, the only sounds being the light thuds of arrows striking bundled straw. When a strain finally began to settle into his shoulders, Lucien lowered the bow and glanced up toward the sky.
+
+It seemed his muscles were gradually growing accustomed to it compared to before.
+
+Wiping the sweat from his brow, he let out a soft breath. “I need to meet Talia in the village soon. Let's stop here for now.”
+
+Sera relaxed from her firing stance before turning toward him. The two of them began gathering the arrows back into the crate.
+
+Lucien rolled his shoulders before heading off in search of Alicia so he could hand the hunting bow over to her, Sera naturally falling into step beside him.
+
+It didn't take long to find the maid waiting near the entrance to the backyard.
+
+She dipped her head. "My Lord. Shall I keep it in the study for you?"
+
+Lucien avoided looking at what was likely a scrunch in Sera's brows. "Yes. I will be meeting Talia regarding the masons we recently received in Ashridge."
+
+Alicia folded her hands lightly before replying. "I will ensure lunch is ready when you two return, My Lord."
+
+He returned the gesture. "My thanks Alicia."
+
+Normally, that would have been when he would leave the manor while Sera would follow the maid or wander the village by herself.
+
+When footsteps sounded behind him, Lucien turned to find Sera stopping the moment he did. Alicia glanced briefly toward her, mildly surprised as well.
+
+Lucien stared at her. "...You want to come along as well?"
+
+Sera’s head tilted once in confirmation.
+
+He shook his head faintly. "Sera, the meeting with Talia won't be something you would be interested in."
+
+At his words, Sera's shoulders dropped slightly before she gave a slow nod.
+
+Lucien exhaled through his nose. "...If you want to come along, that's fine as well."
+
+Sera immediately moved to stand beside him while Alicia turned her head sideways, covering her mouth with her hand.
+
+He shot the maid a dry look, but she merely lowered her hand, her lips pressing into a straight line.
+
+"I will ensure lunch is ready for the three of you then."
+
+Lucien inclined his head. Sera followed the motion a moment later, the corner of Alicia’s mouth twitching once again at the sight.
+
+He pretended not to notice, turning around to leave the manor with his silent tagalong.

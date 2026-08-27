@@ -1,0 +1,349 @@
+---
+id: 8b1536e0-cd52-5480-ad5b-4736501c177b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 167 - Found Them"
+slug: 0154-chapter-167-found-them
+partOf: mythrans-master-of-all-continued-completed
+position: 154
+ownLength: 4019
+unit: words
+publishedAt: 2017-02-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118183/chapter-167-found-them"
+royalRoadId: "118183"
+---
+
+Ren walked down the hallway and Teepo came out from under the last door.
+
+“All the rooms are empty, Ren.” Teepo said. “Narhilda isn't here. It's just the other woman.”
+
+That would have been too easy. Ren thought. I'll look for her once I find Riley and Stacy. He sat down on the floor in a meditation pose. I've never done this before, but I should be able to sense where Riley and Stacy are.
+
+Ren closed his eyes and concentrated on Riley. He got an intense feeling of anger and growling, and a general direction, but that was it. He's too mad to get a good response. Ren thought, then switched to Stacy. He got a low growl, but a very clear picture of where they were. It looked like some kind of alchemy laboratory, and Ren got the distinct feeling of which way to go. I'm here in the castle and I'll be there as soon as I can, Stacy! He thought to her, and her growl eased slightly.
+
+Ren opened his eyes and stood up. He hadn't ended his connection to Stacy, so rather than trying to remember where to go, he could follow the connection to her. He equipped his bodysuit and armor, and took out his shield, but didn't take out his hammerpick.
+
+“I better check some things first.” Ren whispered. “Show info for Elemental Grenades.”
+
+Elemental Grenades Level 1 (Beginner 0%)
+
+You can create miniature grenades that can be thrown, and will detonate within 5 feet of a target you designate. Will not damage you or party members, as it is a Mana generated effect. Current Limit: 2. Blast Radius: 10 feet.
+
+Please Note: If holding an object while using this skill, it becomes the grenade instead. The object will explode when thrown and damage anyone within the blast radius, friend or foe alike.
+
+Higher levels will allow more grenades to be made for a single action.
+
+“Sweet.” Ren whispered. “Show info for Take Them Down.”
+
+Take Them Down (Party Ability) Level 1 (Beginner 0%)
+
+Temporarily provides your party members with the 'Killing Blow' Ability (30% Chance of 1 Hit Kill) for their first attack, and can perform a second attack immediately at no cost to Stamina. The second attack does not benefit from the 'Killing Blow' ability. Mana Cost: 30 Mana/second. Time of Effect: 10 seconds.
+
+Higher levels will increase the time of effect and reduce the Mana cost.
+
+“Aw.” Ren whispered. “I could have chain attacked as many times as I wanted.” He sighed. “What else was there? Oh, right. Show info for Hail of Arrows.”
+
+Hail Of Arrows Level 1 (Beginner 0%)
+
+Magically doubles any projectile fired within your Aura. Cost: 10 Mana per projectile.
+
+Higher levels will increase the projectiles created, and reduces the cost in Mana.
+
+“Show info for Tricks of the Trade.”
+
+Tricks of the Trade (Party Ability)
+
+You may join another party, as long as you are not the party leader. You help any party you are a part of make the most of its abilities, increasing the damage and duration of all status effects that party members (or you) generate. Mana Cost: 50 Mana/second. Time limit: 10 seconds.
+
+“Show info for Opportunity Knocks.”
+
+Opportunity Knocks (Party Ability)
+
+Party members can deal double damage within your Command radius for 10 seconds. Mana Cost: 100 Mana.
+
+“Whoa.” Ren whispered after reading the popups. “The designers definitely wanted me to be an essential party member, that's for sure.” He said. “Show info for Craft Wondrous Item.”
+
+Craft Wondrous Item Level 1 (Beginner 0%)
+
+Your various skills and abilities allow you to create marvels of ingenuity, almost as if by magic.
+
+Recipes Known: 1. Boots of Striding and Leaping (Cloth) - Increases run speed by 25%, can jump 2 times the normal distance.
+
+Higher levels will grant new recipes, if you don't discover or create them on your own.
+
+Ren opened the recipe right away and looked at it. “Those aren't boots. They're socks!” He read the procedure through, and smiled. “Oh, that's cool.” He activated his Craft Wondrous Item ability, chose the recipe Boots of Striding and Leaping, and a small golden platform appeared in front of him.
+
+Please place the boots you created on the platform for conversion.
+
+Ren grinned, took off his armored boots that had each been enchanted with double glyphs of Protection (8 runes total), and put them on the platform. The boots were enveloped in a golden glow for about a minute, much longer than the few seconds that the recipe called for, then the glow faded. Ren picked up the boots, and the platform faded away.
+
+Notice!
+
+Due to the high quality and craftsmanship of the original materials, and the enchantments they contained, the item produced is far in excess of the original recipe's guidelines.
+
+When Ren examined the boots, his mouth dropped open.
+
+Armored Boots of Rampage
+
+These boots grant the ability: Unstoppable.
+
+Running Speed: x2. Jump Distance: x3.
+
+“S-s-show info for Unstoppable.” Ren stammered. I knew using armored boots would change it a little, but I didn't expect this!
+
+Unstoppable (Complimentary Ability)
+
+Your movements know no bounds! Similar to Rock Steady, you will always move at the same speed no matter what, and are not impeded by any moderate obstruction. Chest deep water, foot deep mud, dense foliage, etc. are no longer considered obstacles while walking. You are also difficult to knock over or trip while you have both feet on the ground.
+
+When combined with Rock Steady, you can run instead of walk, and can no longer be tripped or knocked over if both feet are on the ground.
+
+“Oh, wow.” Ren said, then grinned as he equipped the boots. “This... might be fun.” He walked over to the door that led to the balcony, and knocked. A moment later, a voice answered.
+
+“What is it?” The guard asked.
+
+“Open the door.”
+
+“I'm sorry, I can't do that.” He said. “Once you're in the holding area, you have to stay there.”
+
+“You didn't tell me that when you brought me here.” Ren responded.
+
+“That's not my job.” The guard said.
+
+“Open this door, or I'll pick the lock.” Ren said.
+
+“Ha!” The guard said. “It's enchanted. You can't pick it.”
+
+Ren looked down, and since he still had Enchanted Eyes activated, he saw that the lock glowed. He touched it and used Dismantle Glyph on it.
+
+Notice!
+
+A rune you had previously found is now known to you: Sealed - 20% chance this entryway cannot be entered by any means.
+
+So that's what the rune on Mitchell's door was. Ren thought and smiled.
+
+“It's not enchanted.” Ren said and took a step back from the door.
+
+The guard took in a sharp breath, because he knew Ren wasn't lying. “It's supposed to be!” The guard said and leaned closely to look. Ren took a step forward and kicked the door handle as hard as he could. He had intended to kick the door open and hit the guard in the head; but his foot smashed through the door instead. The door handle bounced off of the guard's forehead and stunned him; thanks to Ren's Skull Cracker ability (20% chance to stun, with a hit to the head using bare hands or a weapon), and the guard fell backwards onto the floor unconscious. Ren pulled his foot back, and the door swung out with nothing holding it closed. The door stopped when it hit the guard's foot, and Ren stepped out of the holding area. He dragged the guard over and sat him in front of the door to hold it closed. Ren saw the door handle and picked it up.
+
+“A guard's coming up the stairs!” Teepo said.
+
+“Hey! What are you doing?” The guard asked as he saw Ren standing beside the unconscious guard.
+
+“I was checking to see if he was okay.” Ren said and knelt by the guard.
+
+“What happened?” The other guard asked, and came over to the door.
+
+Ren held up the door handle. “I believe this hit him in the forehead.”
+
+“How the hell did that happen?”
+
+“Like this.” Ren said, and stood as he swung the door handle into the guard's forehead. A 'thunk' was heard as the metal impacted the guard's skull, and Ren caught him by his tunic and sat him right next to the first guard.
+
+I should put them inside, but I don't want anyone thinking Nathalia or the other woman are responsible.
+
+“You could enchant some stones with Warding.” Teepo suggested. “Make the guards harder to see.”
+
+That is an excellent idea, Teepo! Ren thought, and took out 4 bricks and enchanted them with double glyphs of Warding (8 runes total). He put two right in front of the guards, giving them each a 40% chance of not being discovered, then put the other 2 bricks in front of those, giving everything behind them an extra 40% chance of not being discovered. Ren tied up the guards and put a piece of cloth in their mouths to keep them quiet; then walked across the balcony, and down the huge staircase to the lobby floor. Thankfully, no one else was nearby or had seen the altercation between Ren and the two guards.
+
+He followed the connection he had to Stacy to the right of the stairs and down another hallway. Once he got to the door he needed to go through, he examined it to see if there were any enchantments. There wasn't any on the door or handle, so Ren tried to turn it as Teepo slid under the door. It was locked, and Ren used Iron Grip to crush the handle and pulled it off.
+
+“Clear. It's a hallway. One door at the end, several on the sides.” Teepo said. Ren opened the door, held the handle back in place, and used Repair. He closed the door and walked down the hallway to the end and ignored the other doors he passed.
+
+This place is huge. Ren thought, as Teepo slid under the door at the end. How does anyone find anything in here?
+
+“There's 2 dwarf guards standing by a door on the left of the room. A female dwarf is sitting at a table in the middle and writing something.”
+
+Can you see what it is?
+
+“It's... it's a drawing of Riley.”
+
+Ren took a deep breath and held it, squared his shoulders, and concentrated on his Command Aura. He opened the door, walked into the room like he owned the place, and believed he had every right to be there. The dwarf sitting at the table looked up as he approached.
+
+“What can I do for you, My Lord?” She asked, then smiled as she saw him up close. He's so handsome! She thought, and noticed his golden-colored armor. Such pretty metal!
+
+Ren tapped her drawing and smiled at her.
+
+“Yes, they were brought in this morning.” She said. “The Alchemist said he'd never seen anything like them before.” She caught her breath as she saw his cloak. Oh... oh my... is that... dire wolf fur?
+
+“I'd like to see them, please.” Ren said, letting the breath he held out.
+
+“I... I...” She glanced at the 2 guards. “I can't take visitors into the lab, My Lord.”
+
+“I'm not a visitor.” Ren said. “I'm their owner.”
+
+“Wh-what?” She blinked at him a few times.
+
+“They are my dogs, and I came here to get them back.”
+
+“You... you can't!” She said. “They attacked the Royal Guard!”
+
+“That's because the Royal Guard trespassed on my land, and captured Lady Neram and my fiance while I was gone.” Ren said. “They did nothing wrong.”
+
+He... he believes that! She thought, and shook her head. “I'm still sorry. No matter how many times you ask, I can't let you into the lab.”
+
+“I wasn't asking.” Ren said, then an intense pain pierced his brain. He grabbed his head and concentrated on it, and saw Stacy was being hurt, and hurt badly. “He's hurting her!” Ren exclaimed, and the female dwarf's eyes widened as he used his Elemental Grenade ability to generate a Fire Grenade in each hand. Ren turned around and threw the grenades at the 2 guards, and they detonated 5 feet away from them. The guards were engulfed in two 10 foot fireballs and Ren ran at them with his fists at the ready.
+
+“Agghh-Guh!” The guards half-yelled, half-choked as Ren smashed his fists in their faces, and jammed their heads against the wall behind them.
+
+“S-S-STOP!” The female dwarf yelled and started to run towards him, but Ren had already disabled the guards and they fell to the floor. He put a hand on the door and used the ability again, and stepped aside. Activate!
+
+The door exploded and rained splinters of wood over everything. The female dwarf had been close enough that the blast picked her up slightly and she fell to the floor unconscious. Ren stepped into the alchemy lab and saw a dwarf crouched beside a table, that had Stacy strapped to it, and part of her leg was dissolved away.
+
+“You ROTTEN piece of FUCKING GARBAGE!” Ren yelled as he grabbed the alchemist by the back of his neck and picked him up. “She did nothing to YOU, and you HURT HER!!!” Ren threw the dwarf across the room and into a wall of shelves full of empty glass jars and vials. The shelves broke apart as the dwarf hit them, and the glass jars shattered as the dwarf and shelves fell to the floor.
+
+Ren broke the straps on the table to free Stacy, and he cupped the side of her head when she whined.
+
+“Don't worry.” Ren said, as he felt gratitude from her. “I'll make you all better.” He took out his blacksmithing hammer, held it to her leg, and poured Mana into it. “REPAIR!” He yelled.
+
+Stacy's entire body was engulfed in a soft golden glow, and her leg filled out to where it had been before. She flexed her paw and moved her leg. When she didn't feel pain, she wagged her tail and it hit the table she was on, denting the wood.
+
+“You're a good girl!” Ren said and hugged her. “You did great.” He leaned back. “Open.”
+
+Stacy opened her mouth and Ren saw that the wand was missing.
+
+“Close.” Ren said, and she closed her mouth. “Come.” He turned around and went to the cage that held Riley. Ren saw that he had scratches across his body, and several dents. Thanks to his Vision of Impurity, he couldn't see any flaws besides them, though. “You did well, too.” Ren said, and saw that the iron bars of the cage had several flaws. He used Iron Grip to crush several of the iron bars, then tore apart the cage.
+
+Stat Change!
+
+Vision Of Impurity Level 7 (Beginner 0%)
+
+Ren used Repair on him, and Riley's body was nice and smooth again. “Open.” Ren said, and saw Riley's wand was missing, too. “Close.” When he noticed the dogs had expended their Minor Healing innate spells, he put a hand on both of them and infused them with Major Healing instead.
+
+“That should help you a lot better.” Ren said and pat their heads. They gave him a soft bark, and he smiled. “Follow.” He said, and walked over to the dwarf, who had started to dig out of the pile of glass shards and wood. Ren grabbed his tunic, lifted him out of the pile, and shook him to get all of the glass off of him.
+
+“Why were you hurting her like that?” Ren asked, and shook the dwarf again. “Why?”
+
+“I... I've never seen metal like that before.” The dwarf said. “I had to test it!”
+
+“They are NOT things to perform experiments on, you ignorant FUCK!” Ren yelled and shook the dwarf again. “Didn't you see them moving? Didn't you hear them growling and whining?”
+
+“Of... of course I did! They're wonderful mechanisms!”
+
+“Then why hurt them? What possible purpose did it serve?”
+
+“I was... I was ordered by the King to find out what they were made of, and to make them myself if I could!”
+
+“And you decided an acid potion was the BEST way to do that?!?”
+
+The dwarf didn't say anything, and Ren grinned.
+
+“You know what? I think I want to know what YOU are made of.” He said, and carried the dwarf over to the table Stacy had been strapped to.
+
+“No! NOOO!” The dwarf screamed and struggled as Ren tied him to the table. “Please! They're just things! I'm alive! ALIVE!”
+
+“So are they.” Ren said and picked up the vial of acid. The dwarf struggled and the ropes pulled tighter. Ren smiled as he had found a good use for his Knot Tying skill. He held the vial over the dwarf's leg, and tipped it slightly.
+
+“By the gods, please stop!” The dwarf pleaded. “I... I can help you!”
+
+Ren stopped with the acid near the edge of the vial. “Oh?” He asked. “How could you possibly help me to make up for hurting my dogs like this?”
+
+The dwarf looked around the lab, breathed quickly, and nodded. “There. On my workbench.”
+
+Ren straightened the vial and turned around to look. He saw a thick book there, put the vial down, then walked over to the workbench to read the cover.
+
+Alchemy Of The Ages
+
+The Expert Guide To Potions, Elixirs, and Tonics
+
+“I'll give it to you, if you let me live.” The dwarf said.
+
+“Why can't I just take it myself right now?” Ren asked.
+
+The dwarf laughed. “You're an Adventurer. You should already know that if you steal it, it's just a book, and the information within will erase itself.”
+
+That's... good information to know. Ren thought as he took in a deep breath, and let it out slowly. Stacy whined slightly, and he pat her. “Very well.” He said. “You have my word that I won't kill you over this.”
+
+The dwarf relaxed, and sighed at the truth in Ren's words. “You may have the book.”
+
+Ren saw the book glow slightly blue for a second, and he picked it up.
+
+Book of Advanced Alchemy Skills
+
+Create Elixir, Create Tonic, Create Vial, Decipher Ingredients
+
+Would you like to learn these skills? Confirm: Yes / No
+
+“Yes.” Ren said and the book glowed brightly, then the glow enveloped him.
+
+Notice!
+
+You have gained access to a book from the Lore Of The Ages series. Alchemy of the Ages is well beyond your Alchemy skill level, so a Boost has been granted as a reward for finding such a rare and valuable book.
+
+Alchemy Level 1 (Advanced 0%), Herb Aura Level 1 (Advanced 0%)
+
+The book dissolved and the glow faded away a moment later.
+
+Notice!
+
+You have learned the following Alchemy sub skills:
+
+Create Elixir Level 1 (Intermediate 0%) - Elixirs grant permanent stat bonuses
+
+Create Tonic Level 1 (Intermediate 0%) - Tonics grant temporary boosts to abilities
+
+Create Vial Level 1 (Intermediate 0%) - Vials are more concentrated potions
+
+Decipher Ingredients Level 1 (Intermediate 0%) - You can now determine what ingredients make up a potion, given enough time and access to the proper equipment.
+
+Notice!
+
+Thanks to your Hidden Knowledge skill, you have discovered a hidden sub skill.
+
+New Sub Skill!
+
+Ingredient Substitute - You can change out ingredients with similar properties, that don't normally go in your potions.
+
+Notice!
+
+You have learned new recipes: Potion of Major Healing, Potion of Giant Strength, Tonic of Speed, Tonic of Invulnerability, Vial of Invisibility, Vial of Acid, Elixir of Knowledge, Elixir of Vitality, Elixir of Life
+
+“By... by the gods!” Ren said as he dismissed the popups, then turned to the dwarf. “You had that book just laying around, out in the open?!? Are you crazy?”
+
+The dwarf laughed. “I told you. It's worthless unless given to someone.”
+
+Ren shook his head and walked over to the table the dwarf was tied to, and Riley and Stacy followed him.
+
+“Stay.” He told the dogs. “Watch. Attack if he moves.” Ren went out to the guards and tied them up, then checked the female dwarf. She was a little bloody from all of the wood splinters, but she was still alive and breathing normally. He tied her up and gagged her, picked out all of the splinters he could see, then used the Major Healing wand on her. She woke up and looked at him with wide eyes, and started to panic.
+
+“I'm not going to hurt you.” Ren said. “I only came for my dogs.”
+
+The female dwarf relaxed as she heard the truth, and Ren went to the door to the hallway. He took out his Book of Runes, found the Sealed rune, and did his mental trick of making the double, triple and quadruple glyphs. They appeared on the page and he concentrated on the triple glyph, then enchanted the door with a double glyph of Sealed (6 runes total). Each rune granted a 20% chance that the entryway couldn't be entered by any means, but when Ren examined it, it was maxed at 100%.
+
+I guess there's no point in letting it be 120% entry proof. Ren thought, then went to the desk in the center of the room. He looked at the drawings the female dwarf had made, and admired them.
+
+“You can draw well.” Ren said to her and took out a Fireball wand. “I don't suppose you know what happened to the ones they took from my dogs, do you?”
+
+The female dwarf shook her head, and Ren shot a fireball at the desk. It immediately burst into flames and the dry parchment was consumed in seconds. The female dwarf started crying, and Ren went over to her and knelt. He dried her eyes with a piece of cloth, and smiled.
+
+“I told you I wouldn't hurt you.” He said. “The alchemist on the other hand...”
+
+“Mummggll!” She mumbled, and Ren took out the gag. “Don't kill him! He's my father!”
+
+“I already gave my word that I wouldn't kill him.” Ren said, and she sighed.
+
+“T-thank you.” She said and a few more tears came out of her eyes in relief.
+
+“He still has to pay for what he's done, though.” Ren said, and put the gag back in her mouth. She mumbled a yell, but Ren ignored her and went back into the alchemy lab.
+
+*
+
+The female dwarf heard bones crack and muffled screams, and she cried and sobbed. This went on for several minutes, and then there was silence.
+
+No! He... he said he wouldn't kill him! She thought in desperation. What kind of monster would... would break their word like that!
+
+*
+
+Ren came out of the lab and walked over to her. “I didn't break my word.” He said. “He's just passed out. I didn't kill him.”
+
+The female dwarf stared at him as he picked her up, and brought her into the lab. He pulled over a chair and put it by the table her father was strapped to, and sat her in it. Her eyes watered, and she cried as she saw her father's mangled fingers.
+
+“I couldn't let him hurt anything else, like he did with my dogs.” Ren said, then sighed. “If you think that taking him to a healer will fix them, they are already healed.”
+
+She gasped into the gag and sobbed.
+
+“It... it really hurt something inside of me to do this.” Ren said, his voice full of sadness. “I didn't know that I could... that I could do something like this...”
+
+The female dwarf looked at him, hearing the truth in his words.
+
+“I know what his life is going to be like, you see.” Ren took out a stack of platinum coins and put them on the table. “Take him away from here. Let him live a comfortable life away from all of this.”
+
+She kept crying, and looked away from Ren to stare at her father.

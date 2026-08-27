@@ -1,0 +1,379 @@
+---
+id: 8b0a6d75-99d0-5fd4-98a8-a1d68d6ff957
+page-type-slug: story-chapter-royal-road
+title: "Chapter 226 - I See You"
+slug: 0214-chapter-226-i-see-you
+partOf: mythrans-master-of-all-continued-completed
+position: 214
+ownLength: 4017
+unit: words
+publishedAt: 2017-04-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130189/chapter-226-i-see-you"
+royalRoadId: "130189"
+---
+
+Ren ran back through the Garrison and down the road to the city of Dornrach, then out to House Neram Keep and came to a stop in front of the gate.
+
+“Welcome home, sir.” The guard said as he opened the gate.
+
+“Hello, Broxor.” Ren said, and went inside. He didn't quite trust Broxor, since he was the one that let the Royal Guards into the Keep to take Lady Neram and Nathalia, despite his orders. The gate shut behind Ren, and he went to the pen that held the fire elemental.
+
+“Hey, you!” Ren said, and jumped into the pen and into the flames that the elemental was basking in. He grabbed onto it and hugged it, then rolled around and played with it for a few minutes. “You don't know how glad I am that Nathalia rescued you from where I left you.” Ren said, and rubbed his head on the head stub. “I can't promise I won't disappear again, because I don't want to lie.” He sighed. “All I can say is that I'll do my best to never leave you alone.”
+
+“That's all anyone can ask of you.” Nathalia said as she came into the courtyard through the gate.
+
+“How was supper at the restaurant?” Ren asked her.
+
+“Long.” She said and smiled. “I'm exhausted for some reason.”
+
+Ren smiled. “I'd say that I'm sorry for that, but I honestly regretted that I had to stop 'thanking' you.”
+
+Nathalia laughed, because he was telling the truth, and she felt his regret and a touch of teasing.
+
+“Come inside the house, and I'll whip something up for you.”
+
+“Oh, all right.” Ren fake pouted and let the fire elemental go. It ran around the pen and back to him. “I'm sorry, but I've got to get something to eat.” He said, and smiled. “I've got something for you, though.” He took out the wooden brace he'd made for the giant oven, and the fire elemental jumped on it to try and consume it right away. Ren left the pen and followed Nathalia inside the house.
+
+“Hi, Ren. Hi, Nathalia.” Ereka said as they came into the kitchen. “How are you?”
+
+“Tired.” They said together, and smiled as they both could feel the other actually was tired.
+
+“That's so cute.” Ereka said and put two plates of food on the table. “It's a good thing I ordered these for you.”
+
+“Ereka!” Nathalia said. “What... how... why?”
+
+Ereka chuckled. “I saw how tired you were when I went in to the restaurant to eat.” She said. “I knew you would probably try and make something when you got home, but would be too tired to care what it was.”
+
+Nathalia nodded slightly. “I was going to, and I am.” She smiled. “Thank you.”
+
+“You don't have to thank me.” Ereka said. “The cooks at the restaurant made the food. I just brought it home for you.”
+
+“It's because you thought of it that I'm thanking you.” Nathalia said, and looked at Ren. “He would have had to wait to eat, otherwise.”
+
+“I've got Adventurer's business to take care of, too.” Ren said. “I should be back by morning, but...”
+
+“You're not going to disappear again, are you?” Ereka asked the one thing that Nathalia never would.
+
+“No.” Ren said. “I'm in a good place at the moment, with good friends who care about me.” He said, and looked at the two women. “Just like here.” He smiled. “I'll be back as soon as I can.”
+
+“Good.” Ereka said. “It's a relief to have you back.”
+
+“I only see you once, maybe twice a day.” Ren said and smiled again. “How is that a relief?”
+
+“That you're here at all, silly.” Ereka said. “Everything just seems... better... when you're around.”
+
+“I definitely agree with that.” Nathalia said and took Ren's hand. “Now sit and eat, so you can get your business done and come back here.”
+
+“Are you that eager to get me into bed again?” Ren asked her, and grinned as she blushed slightly.
+
+“Ren.” Nathalia said, and glanced at Ereka. Ren looked at her, and saw she also had a slight blush on her face.
+
+“I'm sorry, Ereka. I shouldn't say such things in public.”
+
+“That's all right.” Ereka said. “I wasn't embarrassed by what you said.”
+
+“But... your face...”
+
+She touched it with a hand, then smiled. “I...” her blush grew darker. “I was imaging what you'd be doing.”
+
+“Oh.” Ren said, and it was his turn to blush slightly.
+
+“By the gods, you're so cute!” Ereka said, walked around the table, and put a hand on both Ren and Nathalia's shoulders. “Enjoy the meal.” She said, squeezed lightly, and let go. “Goodnight.”
+
+“Goodnight.” Ren and Nathalia said at the same time.
+
+“Too cute!” Ereka grinned. “See you in the morning.” She said, and disappeared down the hallway. Ren heard the old bedroom door close, and looked at Nathalia.
+
+“She seems to be a lot more honest with what she wants to say.” Ren said.
+
+Nathalia nodded slightly. “While you were gone all that time, she... well, I think she decided that she wouldn't hide anything anymore.”
+
+“How's that working out?” Ren said and grinned.
+
+Nathalia laughed. “I've already had complaints that she's harder to deal with than...” She clamped her mouth shut and shook her head.
+
+“Go ahead and say it.”
+
+“A man.” Nathalia said, and they both laughed. They enjoyed a good meal together after that, and she went with him when he went to sit on the couch. “You know, you can lay in the bed like you used to.”
+
+“I know.” Ren said. “After I was away for so long, though... I... I think it's hard on you to see my phantom form.”
+
+Ren felt her surprise, and then he felt her acceptance.
+
+“I think it is hard on me.” Nathalia said. “I see it, and think... is he coming back this time?”
+
+He took her hand, and pulled her into his lap. “I can't promise I won't disappear again, because I don't want to lie.” He sighed. “All I can say is that I'll do my best to never leave you alone.”
+
+Nathalia looked at him with wide eyes, and he grinned at her. “You said that to the fire elemental!” She said, and swatted him on the head. “You could...” *swat* “At least...” *smack* “Tell me something else!” *slap*
+
+Ren laughed as her blows tickled. “But...” *duck* “You said that...” *dodge* “It was all...” *weave* “Anyone could ask of me.”
+
+Nathalia raised her arms and huffed in frustration, and Ren took the golden opportunity to tickle her armpits. She laughed and giggled as he was merciless in his attack; and she rolled around on his lap as she tried to get away.
+
+“You cannot escape the tickle monster!” Ren said, picked her up, and she gave that surprised little 'yip' she always did when he showed off his Strength. He tickled her a little more to make her laugh again, then took her into a hug. “What I said is true for the both of you.” He said. “All I can do is my best.”
+
+Nathalia sighed, snuggled down on his shoulder, and kissed his neck. “I can't even tell you to hurry back, can I?”
+
+“You can, but I won't know how long I'll be gone until I come back.”
+
+Nathalia chuckled. “I was going to say that doesn't make sense; but, you would know then when you'd be back.” She nuzzled his neck. “Because you'd be back.”
+
+“You're trying to get me to stay longer, aren't you?”
+
+“Is it working?” She asked.
+
+“I thought you wanted me to go so I would come back sooner.”
+
+“I changed my mind.” Nathalia said in a sexy voice, and playfully bit him a little. “Ren, please stay.”
+
+“I... boy, I want to... but, I can't.” Ren said. “You had it right. The sooner I go, the sooner I'll be back.”
+
+Nathalia sighed because she could feel the conflict in him, kissed his neck again, and let him go. She got off of his lap, and smiled at him. “I'll stay up if you want me to.”
+
+“No, My Love.” Ren said, reached out a hand, and pulled her in for a kiss. He let her go and smiled. “I promise I'll wake you when I get back, if you aren't awake before then.”
+
+“Alright.” Nathalia said, and stood up. “See you later.”
+
+Ren nodded slightly to her, and she went to her room and shut the door.
+
+Wow. He thought, as her feelings faded away. That was intense.
+
+“Not as tense as what happened this afternoon.” Teepo said. “How... how are you still you after what they did?”
+
+Ren smiled. I honestly don't know. He thought. After years of therapy, I've come to realize something important. It should have broken me; but, it didn't.
+
+“I'm glad it didn't.” Teepo said. “Now get out of here, and hurry back.”
+
+See you soon, buddy. Ren thought.
+
+“Logout.”
+
+********
+
+The television screen went blank, and Ren took off the VR headset to see a tall redhead going into the bathroom.
+
+“Elise? What's wrong?” He asked her.
+
+“N-nothing!” She said, and closed the door.
+
+“She has to fix her makeup.” Denise said and took the VR headset from him. “Her eyeliner was running.”
+
+Ren blinked his eyes a few times, then looked down at the chair Elise had sat in. On it was a paused video of him on an operating table.
+
+“Oh.” He said. “That makes sense now.”
+
+“Ren, how...” Denise shook her head as tears came to her eyes. “I don't... what do I say about... good god!”
+
+Elise came out of the bathroom, and looked perfect except that her eyes were a little puffy. “I brought the forms for you to sign.”
+
+“Thank you.” Ren said, and she opened her purse and unfolded the papers and handed them to him. He read them through while Denise went to get his supper, then signed them and handed them back to Elise. She put them into her purse, picked up her tablet, and sat in the chair by the bed again.
+
+“I'm sorry you had to see that.” Ren said, and motioned to the tablet. “I... you must think that I...” He shook his head. “I'll understand if you... if you don't want to see me again.”
+
+“What are you talking about?” Elise asked as Denise came back into the room with his food.
+
+“You saw a lot of what happened to me.” Ren said. “You've seen how... how pathetic I was...”
+
+“Pathetic?!?” Elise exclaimed. “You were heroic!”
+
+“Wh-what?”
+
+“Look at this!” She said, and played the first video again, where he'd died, and when he was brought back, he hugged his mother.
+
+“That was the only hug she ever gave me.” Ren said. “No matter how many times I asked, or begged, or cried.”
+
+“Oh, Ren.” Elise said, put the tablet down, and took his hand. “You're a better man than anyone I've ever met.” She said. “How can you not hate her after all of that?” She asked. “I hate her so much!”
+
+“Me, too.” Denise said. “That she could do all of those things to you...”
+
+“You're going to hate her a lot more than that, then.” Ren smiled.
+
+“Why?” Denise asked.
+
+“What you saw? That was only the times I actually died.”
+
+“Wh-wh-WHAT?!?”
+
+“You'll see what really went on when you get copies of the medical records and court transcripts.” Ren said. “It's a real treat for the eyes.” He smiled sadly. “Especially the pictures.”
+
+“Pictures? What pictures?” Elise asked.
+
+Ren looked at her. “They had to keep visual records for proof of the data.” He explained. “I don't remember a lot of what happened, though. Too much trauma.” He said and tapped his forehead with a finger.
+
+“Oh, Ren.” Denise said.
+
+“I remember the pictures, though.” He shivered. “They tried to jog my memory with them, but it didn't work.”
+
+Elise held his hand, and he squeezed it. At least, he tried to.
+
+“Damn, I'm too weak to even squeeze your hand properly.” Ren said, and sighed.
+
+“Like that matters right now.” Elise said. “You'll keep exercising, and you'll get strong again.”
+
+Ren nodded, and looked at Denise. “I assume that's my supper.”
+
+“No, this is mine.” She teased. “You have to get your own yourself.”
+
+“Okay.” Ren said, and sat up in the bed. “Come on, Elise. Drive me over to Amazon Jim's. Endless Fries smothered in gravy is calling to me.”
+
+“Don't you dare!” Denise said, and put the tray on the rollaway table. “I was kidding!”
+
+“So was I.” Ren said and grinned at her. “I'd barely get through one plate after a week with a liquid only diet.”
+
+Denise shook her head, and Elise didn't know if she wanted to laugh or cry.
+
+I don't know how he can joke around like this after... after... Elise shook her head. No, if he can be brave, so can I!
+
+“I don't know about that.” Elise said and smiled. “The food on that tray looks a little questionable.”
+
+“Excuuuuse me?” Denise rocked her head from side to side and put her hands on her hips. Ren laughed, and Elise grinned at him.
+
+“Just kidding.” Elise said. “Go ahead, Ren. Eat away.”
+
+“Bathroom break first.” Ren said, and slid out of bed. “Okay, I can do this.” He took a step, then another. He took a deep breath then shuffled to the bathroom and almost shut the door.
+
+“He didn't shut it.” Elise said, and tried not to look through the opening.
+
+“He has to leave it open, so we can get to him fast if he needs us.”
+
+“Oh.” Elise said. “Does that happen often?”
+
+“More than it used to.” Denise said. “It's been a hard month for him.”
+
+Elise nodded. “I don't know how he has the strength to get out of bed.”
+
+“I have deep reserves.” Ren said as he came out of the bathroom after doing his business and cleaning up. “I should be back to my old self by next week.” He said and climbed back into bed to end in a sitting position. “I just have to work a little harder to get my strength back up.”
+
+“We'll do what we can to help.” Elise said, and Denise nodded.
+
+“Thanks.” Ren said, and started to eat. “For now, I've got to expand my stomach.” He said between mouthfuls. “The last battle I had against Endless Fries, it was a draw because it had to be called for time.” He smiled. “I don't intend to lose the next time!”
+
+*
+
+Detective John Ramirez was agitated. They'd followed up on Ren's tip about the digital signature device, and he and Officer Stonewall waited at their desks for the call from the tech department.
+
+“Goddammit! I wish they'd hurry up!” Ramirez said again.
+
+“They're not going to go any faster, no matter how many times you say that, John.” His partner said.
+
+“They should!” He responded, then leaned back in his chair. “They've had the information since yesterday!”
+
+Officer Stonewall sighed. “It's not magic.” She said. “They'll get the results to us as soon-”
+
+The phone on Detective Ramirez' desk rang, and he picked it up before Officer Stonewall saw his hand move.
+
+“Ramirez!” He said enthusiastically into the earpiece, nodded his head, wrote something down, and hung up the phone. “We got it!” He said and stood up to grab his suit coat from the back of his chair.
+
+“Got what?” Officer Stonewall asked as she stood up and followed her partner to the door.
+
+“Those fancy little digital signature devices automatically ping their host computer to confirm the package was signed for.” He said over his shoulder as he hit the door almost at a run. “We got the address where the thing is registered!”
+
+“Then what are you waiting for?” Officer Stonewall asked as she easily ran passed him in the hallway and reached the door to the outside long before he did. “Let's go!”
+
+*
+
+“Do we have that address?” Agent Smith asked the other Agent Smith, who smiled.
+
+“We do now.” He said as his phone beeped, and looked at the text message with the address. He told his partner where it was, and the car eased out of the parking lot located behind the police station, then sped down the road to the destination.
+
+*
+
+“That was great, Denise.” Ren said as he finished eating. “Thank you.”
+
+“I'm glad you took your time and didn't wolf it down.”
+
+“Hey, I'm not that reckless.” Ren said, and she gave him a knowing look. “What? I'm not!”
+
+“Who ran through a forest thick with giants, and jumped a giant pit trap on the back of an armored ram?” Denise asked him.
+
+Ren's mouth dropped open, and Elise chuckled.
+
+“I... uh...”
+
+“Yeah, that's right Mr. I'm Not Reckless.” Denise said, and laughed as she picked up the tray the food had been on. “I'll be back in a little bit.” She said, and looked at Elise. “I've got to do the dishes. Can you watch him for a little while?”
+
+“No problem.” Elise said. “Take your time.”
+
+Denise smiled and left the room. Everything went quiet, and the only thing Ren could hear was Elise as she breathed. He looked at her, and smiled.
+
+“I really like your outfit.” Ren said. “The purple makes it look like your skin is glowing.”
+
+“It does?”
+
+Ren nodded. “I don't know if it's because of the contrast to your bright red hair, or if you're just that beautiful; but, you look amazing.”
+
+“Thank you.” Elise said as she stood up, and a slight blush flowed up her neck and to her cheeks as she did a little twirl for him.
+
+“That top must be really comfortable.” Ren said. “It doesn't cling to you like some of the other things you wear.”
+
+“You... you noticed...”
+
+“How could I not notice?” Ren chuckled. “You better not tell me that people don't normally notice you.”
+
+Elise smiled at him, and bent over the edge of the bed. The loose-fitting top let gravity take it's toll, and it fell away to reveal the barely there purple-colored bra.
+
+“I don't normally have someone to dress this way for.” Elise said, and Ren swallowed loudly. “Most men think they can buy me with expensive gifts or fancy dinners.” She ran a hand through his hair, and she sighed in pleasure. “I have my own money. I don't need anything like that.” She licked her lips and leaned closer. “None of them understand that all I want...” Elise spoke in a soft and sexy voice. “...all that I need...” She whispered to him, and his eyes widened as she came in for a kiss. “...is someone to care about...” Her lips pressed lightly onto his for a brief moment, then she backed away slightly. “...and for them to care about me.”
+
+Ren reached both of his hands up. Elise thought he would take a hold of her chest, since she was presenting it to him despite telling herself earlier that she wouldn't; but instead of grabbing all that available flesh, his fingertips touched the sides of her face and he caressed the soft skin.
+
+“You should have hundreds of men fighting over who gets a chance to look into your eyes like this, and yet here you are, giving me that honor.” Ren said, and kissed her just as gently as she had kissed him a moment before. “Thank you.”
+
+Elise blinked her eyes at him. “You... you're thanking me...”
+
+Ren smiled, and ran his hands through her flowing red hair as he stared at her. “I could get lost in your eyes.”
+
+“My... my... eyes?”
+
+“You're wearing contacts, too.” Ren said, as he saw the little round circles around her pupils. “I was wondering what happened to your glasses.”
+
+“You...” Elise tried to articulate her thoughts. Screw it! “Why are you focusing on my eyes and not my chest?”
+
+Ren gave her another quick kiss and smiled. “Which would you rather I be focused on?”
+
+“I... I don't know.” She said and blushed.
+
+“I do.” He said, and traced a line from her eyebrow, across her cheek, to her chin. “You've had so many men focus on only your chest, that you don't know what to do when they focus on you instead.”
+
+Elise took in a breath, and let it out slowly. “I... I want you to touch them.” She said, as she finally admitted it to herself. “A lot.” She said. “Use them.” She smiled. “Play with them.” She was almost desperate as she begged. “Please, Ren.” She sighed. “They're yours to do with as you wish.”
+
+“Okay.” Ren said, and she closed her eyes in anticipation of the sensations she was about to receive. He reached out and used both of his hands to grab her earlobes. Her eyes flew open and her mouth made that little 'o' of surprise, because that was not the sensation she had expected. Ren kissed her surprised mouth, and then the door to his room opened.
+
+“Just what do you think you're doing?” Barbara asked as she came into the room, and carried a small basket. Ren broke the kiss and smiled.
+
+“Isn't it obvious?” He said. “I'm kissing one of the most enchantingly beautiful women on the planet.”
+
+Barbara looked at Elise's face, and it still had that little 'o' of surprise on it. “I think someone else is the one that's enchanted.”
+
+Ren chuckled as he massaged Elise's earlobes for another moment, then let them go. Elise licked her lips as she looked at him, then stood up.
+
+“Hi, Barbara.” Elise said in a normal voice.
+
+“Hi, Elise.” Barbara said. “How are you?”
+
+“I... I'm fine.” Elise said. “I just... um... I'll be right back.” She picked up her purse and went into the bathroom.
+
+*
+
+Elise leaned on the sink and sighed. I told him I wanted him to... to... and he didn't! She lifted her skirt and checked herself to find that everything was fine; so she went back out to confront him. Barbara had put the basket she'd brought in by the television, and sat in the chair on the other side of the bed.
+
+“So who's ready to watch last week's episode?” Barbara asked.
+
+Denise had come back into the room by this point; but no one responded except with smiles.
+
+“Great!” Barbara said. “Everyone have a seat, and I'll start it.”
+
+Ren moved over on the bed, and pat the space beside him while smiling at her. Elise nodded slightly, she put her purse and tablet on the dresser, and carefully climbed onto the bed. She half-laid down beside him, propped up on her elbows, while Denise sat in the chair the tablet had been on.
+
+*
+
+Elise looks kind of mad. Ren thought, as the theme music of his show came on the television. “A penny for your thoughts.” He whispered to Elise, and she looked at him. She took a breath, and spoke.
+
+“I asked... no, begged... for you to touch me.” Elise whispered back. “Why didn't you?”
+
+Ren leaned in close, and put his lips by her ear. “I want to see them the first time I get to touch them.” He said, and she shivered as his breath tickled her ear. “Denise was coming right back, so I knew I only had a few moments alone with you.”
+
+Ren was tempted to kiss her neck, then thought there was no better time with her head turned like it was; because her hair blocked everyone's view. His lips touched her skin, and Elise bit her lip as she closed her eyes.
+
+“That it was Barbara that came in makes no difference.” He whispered. “We still didn't have the time for me to...”
+
+The theme music ended, and Ren moved back to a sitting position. He watched the television screen after he gave Elise a quick glance, and saw her smile.

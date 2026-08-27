@@ -1,0 +1,309 @@
+---
+id: 03e34e2b-2f8b-535a-bc8d-a9cdd25b33ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 410 - Abyssals, Terrorize!"
+slug: 0407-chapter-410-abyssals-terrorize
+partOf: mythrans-master-of-all-continued-completed
+position: 407
+ownLength: 3329
+unit: words
+publishedAt: 2017-11-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171814/chapter-410-abyssals-terrorize"
+royalRoadId: "171814"
+---
+
+Lisa stood up and looked at the television screen to see Ren making long straps and securing them around the large dead creature. “I'm going back in to tell everyone what happened.”
+
+“We can log him back out ourselves.” Stella said.
+
+Lisa shook her head. “He can log out himself if he wants to; but, he's going to be stuck there even if he dies.”
+
+“What? Why?”
+
+“It resets to the last location considered 'safe' within it's borders.” Lisa said. “It's intended to let players level up and learn how to control their abilities properly.”
+
+“But... why is Ren there?” Stella asked. “I don't think that skull mark alone should do something like that, would it?”
+
+“Let's try and find out.” Lisa said and pointed to the cell phone. “Can I text Elise?”
+
+Stella nodded, and Lisa picked up the phone and sent a text.
+
+Ren  Elise, it's Lisa. Can I bother you for a minute?
+
+Elise  Can it wait? I was just getting ready to leave work.
+
+Ren (Lisa)  No, I need to know something, and I knew you would be the one to ask.
+
+Elise  Okay, then. What is it?
+
+Ren (Lisa)  After Ren got that mark during his last quest, did anything odd happen?
+
+Elise  I'm not sure what you mean.
+
+Ren (Lisa)  Did he ask you about anything weird? Or tell you he saw something weird?
+
+Elise  What's going on, Lisa?
+
+Ren (Lisa)  Ren's avatar has been reassigned from his safe zone in Aurora to Shargon Caverns.
+
+Elise  WHAT?!?
+
+Ren (Lisa)  It's a shock for me, too. Is there anything at all that would explain this? If there isn't, this is an awful mistake on the tech guys' part.
+
+Elise  Let me think for a minute.
+
+Elise put the phone down on her desk and ran through everything she and Ren had talked about recently. Her mouth fell open and she gasped slightly when she remembered that he had asked her about hidden skills and abilities.
+
+Elise  He asked me why skills, recipes, and abilities would be hidden after he leveled up.
+
+Ren (Lisa)  Oh, damn.
+
+Elise  Yes, the game is compensating for him not having the requirements to use the things he has access to.
+
+Ren (Lisa)  But he's on the villain track right now, without being given the option. We can't change that, can we?
+
+Elise  No, he's stuck there until he meets the requirements.
+
+Ren (Lisa)  He's not going to like being there, or having to do what he needs to do.
+
+Elise  No, he won't. (sigh) Not at all.
+
+Ren (Lisa)  Thanks, Elise.
+
+Elise  I'll be there soon.
+
+Lisa put the phone down and sighed. “Ren has skills and things that the game is trying to teach him to use.”
+
+“In a villain training camp.” Stella said.
+
+“Unfortunately.” Lisa said. “Apparently whatever he has to learn can only be taught there.”
+
+“And there's nothing we can do.” Stella sighed, and Lisa shook her head. “Well, damn.”
+
+Lisa walked over to the door of the room. “I'm popping in for a minute to let the maids know what's up, then I'll be down to talk to Elise. After that, I'll be in for most of the night in case Ren does somehow find a way out and contacts me.”
+
+Stella nodded and watched the television, and Lisa left the room.
+
+********
+
+Ren had tied the huge creature to his back, just like a backpack, and it became a part of his burden. It was extremely heavy, but with his armor on, he didn't need any spell boosts to carry it. He stored the 2400 foot long rope and carefully crawled up the wall to the point that it turned off to the distance and stood up.Ren wasn't sure if it had been worn away, designed that way, or had been manipulated to be that way; and it didn't really matter. He used it as a step and took out the length of rope and the Wand of Rope Ladder. He used the wand and the rope glowed slightly as it magically doubled and made rope rungs, then it quickly rose up into the air. It was a really long rope ladder, and it took a while for the entire length of it to unfurl.
+
+Once it was finished, Ren started to climb and carried his monstrous burden along with him. He had the bright idea to tie off the wings with Spider Silk String, so that as he climbed, the wings stayed out like the beast was gliding. When he had climbed up almost 500 feet, Teepo warned him that one of the creatures was coming towards them.
+
+Ren stopped climbing when his Etiquette skill activated and he concentrated on his Fear Aura automatically. He had forgotten that he wasn't wearing the Dire Wolf Hooded Cloak, but the Fear Aura popped into existence anyway and he activated his Ultimate Terror ring to funnel through his Aura.
+
+The abyssal terror that flew towards him felt the change in the Aura. It screeched a little and altered it's direct flight to a passing one. It's wing clipped the edge of the wing of the dead one on his back, and Ren moved his body to the right a little to hit it back with a wing when it curved around and passed the other way. On a hunch, Ren activated the second Ultimate Terror ring and funnelled that through as well, and the abyssal terror flew around him again.
+
+“What's it doing?” Teepo asked.
+
+Testing the waters. Ren said. Like all big predators, I'm pretty sure I'm passing through what it thinks is it's space.
+
+“You should get a wand ready.” Teepo said.
+
+Ren took out a level 5 wand and changed the spells to Acid Fog, which was a Level 3 spell. I hope this works. He thought, and when the abyssal terror came close for another pass, he cast Acid Fog in front of it and it flew right through it. It screeched and rubbed at it's face to try and get the acid fog off, and Ren tried not to laugh at it. The other abyssal terrors didn't have that problem and he could hear an almost cackling sound reverberate from the walls.
+
+They almost sound like crows. Ren thought. He had another feeling to deactivate his Ultimate Terror rings and he did so. He was a bit worried that the abyssal terror he had just attacked would come back for revenge, but the cackling got louder and the abyssal flew off and disappeared from view. With the immediate threat over, Ren dismissed the Acid Fog spell and started to climb again. He was well into the area that he would be weightless; but, he dared not let go of the rope ladder.
+
+Not this soon, anyway.
+
+*
+
+“You... you can't be serious.” Frikara said. She had become the unofficial spokeswoman for the maids, and they all deferred to let her speak for them.
+
+“Unfortunately, I am.” Lara, the Sage of Ages said. “He's currently being trained in Shargon Caverns.”
+
+“How is that possible?”
+
+“Did Ren tell you anything about what happened during his last quest?” Lara asked.
+
+“No, he had to go and said he would tell us everything when he came back.” Frikara said.
+
+“Then I can't say anything.” Lara sighed. “If you already knew about it then I could fill in the details; but, if you have no idea...” She sighed again. “...just... hope that he'll be okay.” She said. “I have to go and try to keep an eye on him for a while, then I'll come back.”
+
+Frikara nodded, and Lara logged out. When her avatar went to it's phantom form, Frikara looked at the other maids.
+
+“She was telling the truth. She really can't tell us if we don't know.”
+
+“She's a terrible Sage.” Lusinia said. “I don't know why she even bothers.”
+
+Verwynn laughed. “Yes, she's like... I don't know everything, but what I do know I can't tell you unless you already know it.”
+
+“Navruth?” Frikara put a hand on the woman's arm. “What did you make of what Lara said?”
+
+“That her ability is useless without some outside information or input.” Navruth said. “It's no wonder why she latched onto Ren when she had the opportunity.”
+
+“So did we.” Frikara said, and the other maids looked at her because they felt she was telling the truth. “Once we found out what kind of man he was, we agreed that we would do anything we could to stay with him.”
+
+“That's because of who he is, not what he can do for us.” Navruth said, and her Practicality skill went into full swing. “He could be as poor as dirt and we would all still want to be with him.” She said. “We would do our best to give him the life he deserves, and make sure that he's happy.”
+
+The other maids nodded and they all looked at Lara.
+
+“I don't know if many of the others would do the same.” Navruth said, quietly.
+
+********
+
+Elise came into the house and took the elevator up to the second floor, then quickly walked down the hall to Ren's room.
+
+“Tell me what's going on.” Elise demanded and Stella filled her in on all the details. Lisa came into the room a few minutes later and joined in on the discussion while they watched Ren climb a ridiculously long rope ladder with the creature he had killed on his back.
+
+“I think... I think I know what happened.” Elise said. “He wasn't offered to switch classes because he didn't lose his Fame, but he does meet almost all the other requirements for the villain track.”
+
+“What?” Stella asked.
+
+“How?” Lisa asked.
+
+“Just on the practical side, he has tons of shadow markers in his inventory. He holds contracts with several other criminal businesses, including the Thieves Guild in the Human and Dark Elven Kingdoms.”
+
+“WHAT?” Lisa yelled and Elise winced. “I'm sorry.”
+
+“He gained them when he looted the Dwarven Thieves Guild; but under my direction, he hasn't even looked at them and they are just sitting in his inventory.”
+
+Lisa nodded and Elise continued.
+
+“He has 6 personal maids, 5 of which were gained from the same Thieves Guild. He has a restricted ability to absorb emotions, and he has that ghoul mark.” Elise said. “He also accepted the other people from that quest as part of his domain.”
+
+“What does that mean?” Stella asked.
+
+“Unlike every other person that lives in places that he owns, people under his domain are like his personal vassals. They are loyal to him and him only.” Lisa explained.
+
+Elise nodded. “He had all of that before he leveled up, and the combination unlocked several new things that he shouldn't have gained access to.” She said. “After the update for the new world event, all of those things triggered his transfer.”
+
+“Without asking him?” Stella asked. “That's not a good way to run a player-based game.”
+
+“You do realize Ren is the single exception, right?” Elise chuckled. “I've checked. No other player has been shunted off like Ren has.”
+
+“Why is it always him?” Lisa asked. “He hasn't done anything to deserve being treated like this.”
+
+“Then tell him to stop playing.” Elise said, and Stella and Lisa stared at her with open mouths.
+
+“Are... are you crazy?!?” Lisa exclaimed. “If we tell him not to do something that makes him so happy...”
+
+“He'd never forgive us.” Stella said, and Elise nodded.
+
+“That's right.” Elise said. “That's something you need to understand. It's always going to be him.”
+
+“What do you mean?” Lisa asked.
+
+“Things happen when Ren is involved.” Elise said. “I'm not sure why it also happens in real life, but it does.”
+
+“But...”
+
+“We've all been changed by him.” Elise said and put a hand over her heart. “Some of us a lot more than others.”
+
+Stella put a hand over her hand, and they both smiled.
+
+“We're all emotionally and physically involved with him. We're going to see him go through things that seem unfair; but, it's because we care so much about him that it's unfair.” Stella said. “He'll get through anything that life can throw at him, both real and virtual, because that's who he is... and we are going to do everything we can to help him.” She smiled. “He's our Ren.”
+
+********
+
+Ren had plenty of time to think about where he was and what he was going through. Climbing a 2400 foot tall ladder took a lot of time. He didn't bother trying to rush, mainly because he didn't want to make a mistake.
+
+This is a really odd cavern. Ren thought.
+
+“It really is.” Teepo said. “There are hundreds of those things in here.”
+
+Hundreds? Ren asked.
+
+“That I can see.” Teepo said. “This cavern is about 300 miles long.” He chittered in laughter. “There's probably thousands of them in here.”
+
+That's not a comforting thought. Ren thought.
+
+“It's more of an 'oh, crap' thought.” Teepo said. “If they figure out your trick.”
+
+Yeah, it'll probably be a quick death.
+
+“You hope.” Teepo said, and Ren nodded.
+
+Something about this bugs me. Ren thought a few minutes later.
+
+“Besides the prospect of being eaten alive?”
+
+Yeah, besides that. Ren thought. This cavern is surrounded by impenetrable rock.
+
+“Uh huh.” Teepo said.
+
+Well, who put it there? Ren asked. There's so much of it that there has to be a reason. He stopped climbing when he realized what it was. The Spirit of Earth is keeping them contained! He thought in surprise. That's why it opened and let me in before my hammerpick could smash it. If I had broken my way through, they all could have escaped!
+
+Notice!
+
+You have reasoned out the truth of the lair of the Abyssal Terrors. It's not a lair at all, but a cage to hold them in check.
+
+Intelligence: +5
+
+Wisdom: +5
+
+Stat Change!
+
+Knowledge Of Earth Level 5 (Intermediate 0%). Earth affinity and resistance increased to 30%
+
+Ren kept climbing at a slow and steady pace, and was in a better mood about the whole thing. This mood lasted for almost another hour, right up until he reached the top of the ladder.
+
+How far to the top of the cavern, Teepo? Ren asked, because had a hard time seeing with the creature's large head above him.
+
+“Do you want the good news or the bad news?” Teepo asked.
+
+I'm gonna regret this. Ren thought. Good news first.
+
+“It's only about 1000 feet to the top, so you were almost right with your rope ladder idea.”
+
+That is good news. Ren thought. What's the bad news?
+
+“Apparently, the ceiling is where the spawning grounds are.” Teepo said sadly.
+
+********
+
+Stella, Elise, and Lisa sat in front of the television and watched Ren intently.
+
+“Oh, my.” Elise said as Ren leaned out from the rope ladder to get a good look at what was above him.
+
+“What is he going to do now?” Stella asked. “He's at the end of his rope.”
+
+“If I know Ren, he's going to do something really stupid or something really crazy.” Lisa said.
+
+“Or both.” Elise said as they watched Ren take out one of the 15 foot wide Automatic Ballistas he had. He tied his hammerpick to a length of Spider Silk string that he had weaved into a 20 foot long rope, which he attached to the straps around his chest. He then tied the hammerpick to front of the 6 foot long bolt in the loaded Automatic Ballista.
+
+“He can't be serious.” Stella said. “That's never going to work!”
+
+“Actually... I think it will.” Lisa said. “Look at him. He's moving around like he's almost weightless.”
+
+“How is that possible?” Elise asked. “None of the creatures are around him.”
+
+“I think it's like his shared Aura with the maids.” Lisa said. “When there's enough of them, the Auras combine and expand.”
+
+“...and he's going to shoot himself right into the middle of them.” Stella said, and the three of them watched as Ren took careful aim.
+
+********
+
+“A little to the left.” Teepo said. “A little more... there! That's right between two groups.”
+
+I hope they don't treat me as hostile. Ren thought.
+
+Teepo chittered in laughter. “We're about to dive into the place they spawn. We're going to be hostile no matter what.”
+
+Good point.
+
+“Just jump as hard as you can when you fire.” Teepo said. “You need to get your momentum going or the bolt won't take us far.”
+
+Ren crouched down and prepared to jump. He activated his two Ultimate Terror enchanted rings to funnel through his Fear Aura, pulled the trigger on the Automatic Ballista, and jumped at the same time. With almost no weight to slow him down, he took off like a bolt from a crossbow; then the actual bolt sped ahead and dragged him and his burden of an abyssal terror's corpse along. He stored the Automatic Ballista and activated the hammerpick tied to the bolt, and it burst into blue flame. Travelling at such high speed changed the blue flame almost instantly to white, and every single abyssal terror in the spawning grounds above him noticed.
+
+“Oh, CRAAAAAAAPPP!” Ren yelled as they all took flight straight towards him. He aimed with his raised platform Lightning ring and shot one. It died, but there were hundreds more. He thought about one of the spells he had never used before. Chain Lightning! The spell activated and his single large bolt of Lightning shot out to the next, then the next, and then the next abyssal terror. Wh-what?
+
+Notice!
+
+You have unlocked the skill: Spell Caster Level 1 (Beginner 0%). This allows you to cast spells that you know. These can combine with enchantments for enhanced bonuses. Higher levels allow more powerful spells to be cast.
+
+Widen Effect! Ren immediately thought, and the bolt doubled in size and hit 8 more abyssal terrors that couldn't dodge it.
+
+Notice!
+
+You have unlocked the skill: Proficiency. This allows you to maximize the amount of damage given from using magic, and reduces the time needed to cast spells.
+
+Ren didn't even have to think about what to do next. Fireball. Widen Effect. Fireball. Widen Effect. Fireball. Widen Effect. Fireball. Widen Effect.
+
+Four giant fireballs went out instantly and he used his Fire Manipulation skill to keep them slightly out to the sides and in front of him. The abyssal terrors attacked him anyway, despite his defenses, and their claws tore at the carcass on his back. He took out his Wall of Fire wand and thought Widen Effect as he cast them and pushed them away with his Fire Manipulation ability. Giant fire walls impacted the abyssal terrors and kept them at bay.
+
+“Now, Ren!” Teepo said as they quickly approached the ceiling, and Ren looted the dead abyssal terror on his back. It disappeared as several things dropped into his inventory, and he dismissed the popup about gaining XP. He also dismissed all the various fire spells he had cast to clear the way. The impenetrable rock of the ceiling dissolved before the hammerpick could touch it or break it, and Ren was dragged through the opening and into a tunnel an instant later.
+
+The tunnel was exactly 5 feet in diameter and a perfect circle. Ren thought about why it could be in just the right spot for him to enter, and then his ascent started to slow down. Without the gravity cancellation ability of the abyssal terrors, his weight was going to bring him to a stop. He cast Wall of Earth below himself just as his momentum was cancelled out, and landed in a slight crouch as he caught the hammerpick with one hand at the same time.
+
+“That was the scariest and coolest thing I've ever seen!” Teepo said and chittered in delight.

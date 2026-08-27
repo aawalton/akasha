@@ -1,0 +1,253 @@
+---
+id: d6821ee7-291c-5fc6-928f-0b20b5d19750
+page-type-slug: story-chapter-royal-road
+title: "Chapter 574 - If You Asked Me To"
+slug: 0574-chapter-574-if-you-asked-me-to
+partOf: mythrans-master-of-all-continued-completed
+position: 574
+ownLength: 2622
+unit: words
+publishedAt: 2018-05-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212722/chapter-574-if-you-asked-me-to"
+royalRoadId: "212722"
+---
+
+After Ren had presented Railyse and the old Queen the modified amulets of unnatural armor and interrogation as an apology for what he did, he and Artemis were led out of the throne room and brought to a different part of the castle. They were shown where they would be sleeping, then they were led out of the castle. Even though Ren was a prisoner, he was allowed to stay inside the castle at night. He had done a lot for the Sea Dwellers since he had found out that they existed, and their trust in him reflected that.
+
+“Railyse was so nice to only give you six months!” Teepo chittered in delight as Ren and Artemis approached the mine behind the guide. “That's only about an hour back home!”
+
+Ren smiled and nodded as they passed through the cordoned-off area with 'Danger' signs all over the place. The guide took them to the foreman of the mine, and he gave Ren and Artemis a look from head to toe.
+
+“I'm glad to see at least one of you isn't afraid of work.”
+
+“Hey, I work hard as a ranged combat specialist and constant companion.” Artemis said. “That's all I'm confident in doing, however.”
+
+“Artemis is only an observer and isn't assigned to hard labour.” Ren said. “She's here to watch my back, not wield a mining pick.”
+
+“We don't allow 'observers' here.” The mine foreman said.
+
+“She's a special exception that was approved by the Queen.” The guide said.
+
+“Which one?”
+
+“The new one. Her Royal Highness, (bubble bubble gurgle bubble).”
+
+“Ha.” The mine foreman barked a laugh. “The Lost Daughter has returned, and she took the throne.”
+
+Ren didn't comment that she wasn't lost, mainly because the last time he had mentioned it, it didn't make any difference to the conversation.
+
+“Well, we can always use a good pair of hands.” The mine foreman said.
+
+“Experienced hands.” Ren said. “I've spent time here before.”
+
+“Really?” The mine foreman squinted his eyes at him. “I don't remember you.”
+
+“It was probably a few centuries before your spawning.” Ren said. “I was here for 6 months then, too.”
+
+“Then I guess I don't need to give you all the warnings about jellyfish, squids, and the giant octopus.”
+
+“Nope.” Ren said and grinned at the Sea Dweller. “I was the one that made all the warning signs.”
+
+“Ha! Ha hahaha!” The mine foreman laughed. “Those damn things are practically indestructible! How did you do that?”
+
+“Extremely expensive enhancement enchantments.” Ren said. “Now say that 5 times fast.”
+
+The mine foreman had finished saying it twice before he messed it up and laughed again. “All right. The mining picks are over there.” He said and pointed to a small shack that was lined with them. “We actually found a good iron ore deposit about 30 miles down.” He said. “Cold forging it was a pain in the backside, let me tell you.”
+
+“I assume you had the mages try shaping it for you?” Ren asked, and he nodded.
+
+“They could only take it so far, and then we had our best metal smiths use their own abilities to finish them and get them sharp.”
+
+“Nice.” Ren said. “How are they holding up?”
+
+“We have to have them looked at every day.” The mine foreman said.
+
+“You should do that anyway, even after I fix them.”
+
+“You?”
+
+“I'm a Master Blacksmith.”
+
+“Why didn't you lead with that?” The mine foreman asked. “You can start right on them right away!” He shoved Ren towards the shack. “I'll get you assigned to the next crew shift while you work.”
+
+Ren chuckled and swam over to the shack, and Artemis went with him.
+
+That started Ren's hard labour sentence, and he worked tirelessly that first day. He remembered what he had been like the first time he had served a sentence in the Water Realm, and what he was experiencing now was nothing in comparison. He had struggled every day just to move at the time, even in his gold armor, and now he didn't have to wear armor at all if he didn't want to.
+
+Ren finished working on the picks by repairing, sharpening, and enchanting them, then he went into the mines with the next crew shift. Once the foreman saw him work, he was immediately promoted from 'grunt' to 'grunt that can do stuff'. The distinction made Ren laugh, and then he was constantly on the move doing things for everyone. Removing large rocks, storing ore, repairing things, and dug where they needed digging. His previous mining experience, both in the water and on land, was invaluable to the mine foreman.
+
+By the time Ren and Artemis were led back to the castle by their guide, Ren had met everyone working at the mine and they all saw him as a godsend. He hadn't tried to make himself indispensable; it just worked out that way once he showed them what he could do. He hadn't receive a popup about it, though; and he wondered if he ever would.
+
+“Standing there and watching you all day was really tiring.” Artemis said as they entered the castle.
+
+Ren chuckled. “I know it was a hard day for you, so when we get back to the room, I'll give you the massage you deserve.”
+
+“Wonderful!” Artemis said and put her arm around his shoulders. “I've never had an all night massage before.”
+
+Ren laughed and put his arm around her waist, and the guide opened their room door.
+
+“I hope you enjoy the accommodations.” The guide said.
+
+“You showed us this morning and it looked good then, so I'm sure it will still be more than satisfactory.” Ren said and took out a gold coin. “Thank you.”
+
+“Sir, you...”
+
+“It's all right.” Ren smiled. “There's no law against bribes, is there?”
+
+“Of course there is.” The Sea Dweller said. “What are you bribing me for?”
+
+“Peace and quiet.”
+
+“But...”
+
+“I don't want to see you until it's time for me to go back to work first thing in the morning.” Ren said. “If I'm to perform at my best, I don't want to be disturbed until then.”
+
+The Sea Dweller's hand reached out and took the coin. “I can only promise that no one of equal or lower standing than myself will bother you.” He said and stored the coin. “I will not stop the guards or any of the Royal Family if they come to visit.”
+
+“That's always the way it is.” Ren chuckled and pat the guide on the shoulder. “Goodnight.”
+
+“Goodnight, sir... and madam.” The Sea Dweller said and left.
+
+Ren stepped into the room and into dry air. “Ha ha! Sneaky bugger!”
+
+Artemis entered the room and shut the door. “I don't know how that works.” She said and opened the door again, and the water was right there and didn't flood in.
+
+“I'd say 'magic', but I don't want to sound like a know-it-all.” Ren grinned at her.
+
+“Quiet, you.” Artemis said and shut the door. “What was with the bribing?”
+
+“I first noticed it when the guards came to get us after I 'recovered', then again in the throne room and at the mines.” Ren said. “If my guess is right, they are expecting us to perform some kind of Land Dweller mating ritual.”
+
+“You're kidding.” Artemis said and could feel his emotions. “You aren't kidding.”
+
+“I think denying the new Queen's several requests has put them on edge, and they are wondering what is wrong with me.”
+
+“Geez, all they had to do was ask me about that.” Artemis said. “I've got tons of examples to prove how crazy you are.”
+
+Ren chuckled and pat the bed. “Get over here and equip your sleeping attire.” He said and equipped a pair of shorts to replace his armor. “It's time for your well-deserved massage.”
+
+Artemis equipped a small pair of shorts that barely covered her backside, and a t-shirt that strained against her chest. She walked sexily over to the bed, then crawled up onto it and laid down on her belly.
+
+“Go for it.” Artemis said and closed her eyes.
+
+Ren smiled as he reached out with a hand, gripped her shoulder for a moment, then let it go. “There! All done!”
+
+“What?” Artemis opened her eyes and rolled over onto her back. “What was that?”
+
+“That's the massage you deserved!” Ren laughed. “That's all you get!”
+
+“Why you little...!” Artemis lunged for him and he dodged to the side. “Get back here and do it right!”
+
+“You gotta catch me first!” Ren joked and started to run around the room to avoid her. Artemis gave chase, and after jumping several things like the bed, they started to just run through the air. Teepo chittered in laughter, and even Ren's pet tarantula clicked it's tiny mandibles in amusement.
+
+*
+
+The two Sea Dwellers watched them from behind a Full Illusion wall, and were amazed at the sight of two Land Dwellers moving around like a pair of freshly spawned younglings.
+
+“What in the world are they doing?” A Sea Dweller observer whispered in his native tongue.
+
+“If I had to guess, I would say it's a bedtime ritual of some kind.” The other Sea Dweller whispered back. “It seems like a rare occurrence as well.”
+
+They watched for several moments, and then they saw Ren zig when he should have zagged, and Artemis tackled him. They tumbled through the air and bounced off the wall and onto the bed, then rolled onto the floor. Their laughter was so loud that it could be heard through the wall.
+
+“Is this really going to help us against the Land Dwellers?” One of the observers asked.
+
+The other shrugged. “We were told to watch and report on anything that happened, so that's what I'm going to do.” He said. “This seems like odd behavior for adults, though.”
+
+*
+
+Artemis stood up and held a hand out for Ren. He took it and she pulled, and he hopped into the air and she caught him. He gave her a tight hug and put his lips by her ear to whisper.
+
+“Did you feel them when we passed by the wall on the right?” Ren asked.
+
+“They're protected somehow.” Artemis whispered back. “What about your Heat Sense?”
+
+“They must have been there for a while, because they would have to be the same temperature as the surrounding water for me to not detect them.” Ren said. “They must also be really calm, because I just barely felt the spike of curiosity when we passed them.”
+
+Artemis laughed for no reason, then carried Ren back to the bed and climbed onto it. They snuggled down with each other, and Artemis made sure she laid down with her back towards the appropriate wall.
+
+“What do we do?” Artemis asked.
+
+“We play chicken.” Ren said and smiled.
+
+Artemis didn't say anything for a few moments, then she smiled. “Oh, that's evil.”
+
+Ren laughed. “We can start in the morning.”
+
+“Do you really want to sleep like this?” Artemis asked, and Ren used his eyes to look for a blanket. He didn't see one, so he sat up and pulled out a bolt of generic fabric to make a blanket big enough to cover the bed. He made it almost instantly, much to his surprise.
+
+“Boy, that extra 50% crafting speed is going to make everything go so much faster.” Ren said and stored the bolt of fabric, and draped the blanket over them and the bed. “How's that?”
+
+“At least my ass isn't sticking out anymore.” Artemis said, and Ren laughed.
+
+“It's a great ass, though.”
+
+“Thanks.” Artemis said. “Now tell me how much you appreciate it.”
+
+“I'd rather just cuddle the hell out of it, if that's okay.”
+
+“It's more than okay.” Artemis said. “Cuddle away.”
+
+Ren moved in close and Artemis put her arms around him, and he let his hands roam and touch her backside. “You know, I never understood why you wanted to look like you had skin and left your hair metallic red.”
+
+“I fit in better when in a crowd, and I don't look so odd when I wear clothes.” Artemis said. “I don't draw as much attention to myself.”
+
+“You've seen yourself in a mirror, right?” Ren asked, and she chuckled.
+
+“You made me look like a goddess, that's true.” Artemis said. “The bare metal made people look at me funny, and I didn't want to live with that feeling.”
+
+Ren kissed her cheek. “I'm sorry you had to experience those feelings.”
+
+“It's okay.” Artemis said. “As soon as you had the time to spare, you gave me a wand with the Permanent Full Illusion spell and I fixed that problem.”
+
+“If there's anything else you want, you only have to ask.”
+
+“I'll keep that in mind.” Artemis said.
+
+“For the first time since you came into this world, you and I going to be alone together.” Ren said. “For the next six months, it's just us.”
+
+“Ahem!” Teepo fake coughed.
+
+“You're included in the us.” Ren chuckled. “Believe me, Artemis. If there's something you want, now would be the time to ask.”
+
+Artemis pulled away slightly and rolled onto her back without saying anything.
+
+Ren propped himself up on his elbow and the blanket slipped down to their waists. “Artemis?”
+
+“I... I want...” Artemis tried to ask for something, then shook her head and looked away.
+
+Ren reached out and touched her neck, moved his hand up and caressed her chin, then turned her face back towards him. “What do you want?”
+
+“If it's only going to be us for the next 6 months, then I... I want... a kiss.”
+
+Ren could feel her swirling emotions, and how much courage she had to build up to ask. “Artemis, you know I didn't bring you into this world for that.”
+
+“Can you imagine how useless I would be if you did?” Artemis asked. “I would only be someone you left at home while you went out into the world on your adventures, and I would be pining for you endlessly while I waited for you to return home.” Her hand reached up and cupped the side of his face. “Instead, I get to come with you. I get to be constantly by your side while you do your adventures. I get to defend you and be there to see you perform feats beyond all reasoning.”
+
+“Artemis...”
+
+“Shh. It's okay.” Artemis said. “I knew it was too much to ask.” She sighed. “Even here, well away from-MhMM!!”
+
+Her words were cut off as Ren leaned in and kissed her. He had intended it to be just a kiss, one that good friends who had known each other for a long time could share and not feel awkward afterwards; but, once his lips touched hers, apparently all bets were off.
+
+*
+
+“Goodness! Look at that!” One of the Sea Dweller observers exclaimed. “He's eating her!”
+
+“Relax, he's just giving her a kiss.”
+
+“A what?”
+
+“A kiss. It has the same significance as when we bite our females.”
+
+“She's a potential mate?” The observer asked and stared at Ren and Artemis, and he saw Ren massage her chest. “Well, her primary mammary glands are quite large.”
+
+“According to the stories, they only ever have the one pair.”
+
+“You're kidding!” He said. “How do they feed all of their younglings?”
+
+“Surprisingly enough, they only ever have one youngling at a time.”
+
+“That... that's just...” The Sea Dweller stared at Ren and Artemis. “How do they survive the predators?”
+
+“I have to assume very carefully.” The other said, and they both fell silent as they kept observing.

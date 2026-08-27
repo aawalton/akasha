@@ -1,0 +1,363 @@
+---
+id: 73680fc2-65bb-5cb6-a567-8e635105a429
+page-type-slug: story-chapter-royal-road
+title: "Chapter 222 - Camp Giant"
+slug: 0210-chapter-222-camp-giant
+partOf: mythrans-master-of-all-continued-completed
+position: 210
+ownLength: 3774
+unit: words
+publishedAt: 2017-04-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129431/chapter-222-camp-giant"
+royalRoadId: "129431"
+---
+
+Ren jogged ahead of the giants as he led them into the wilderness. Since their steps were so huge, it was difficult to pace along with them. He was tempted to run, but then he would lose them if they didn't run as well. Princess lapped them back and forth, and around the entire group, almost as if she was herding them. Teepo rode on her helm so he could keep an eye out in all directions, so neither he, nor Ren, would make the same mistake they had made before. No random giant was going to sneak up on them again.
+
+Teepo? How's the time?
+
+“It's been about 45 minutes.” Teepo responded.
+
+Then here's a good enough spot. Ren thought, ran out a little ahead of the giants, and came to a stop facing them. He waved to Laurelia, and she told everyone to stop.
+
+“Is this it?” She asked Ren, and looked around. “There's not a lot here.”
+
+“That's kind of the point.” Ren said. “We'll be setting up 135 giant-sized tents. We're going to need a lot of room.”
+
+“You're right.” Laurelia smiled. “I hadn't thought of that.”
+
+Ren looked into the group of giants close to him, and found the two giants that had an inventory.
+
+“I'm going to need your help again.” He said to them, and they stepped forward. Ren took out the 12 crates of camping supplies, the crate with bolts of cloth for himself, the workbench, the sacks of food ingredients, and the two large stew pots. He opened all of the camping supplies crates, and found most were tents, some were bedrolls, and one was full of lanterns, ropes, cooking utensils, small pots, bowls, and knives. It even had a bunch of those racks to put over campfires. The last crate held the ration packs.
+
+“Let's try this one first.” Ren said, and closed the crate of ration packs. “I'm giving you this crate of ration packs.” He said to the male giant, who nodded, picked up the crate and stored it. He waited a moment, then took the crate out again. It was giant-sized, and the giant opened it. He picked up a ration pack, and it hadn't increased in size at all.
+
+“I was worried that already prepared food wouldn't scale.” Ren said. “It's a good thing I brought lots of ingredients for stew.”
+
+“I can't wait!” One of the giant said. “I haven't eaten in almost two days!”
+
+“That's why I had you walk instead of jog or run.” Ren said and took out the icebox and a plate of food. “Even after getting healed, that would have been too much to ask of you.” He walked over to Princess and gave the food to her.
+
+“How can you be so scary and so nice?” The female giant with the inventory asked when Ren came back over to them and he stored the icebox. “I mean, when you were scary, I was filled with dread.”
+
+“Me, too.”
+
+“So was I.”
+
+“Some of the stories really are true.”
+
+“Yeah, little people can be dreadful sometimes.”
+
+“Do you remember that one story with the Prince fighting the little person?” Laurelia asked no one in particular. “I thought the little person didn't have a chance, and then he caused so... much... fear.” Her eyes widened, and she looked at Ren. “Oh, my god.” She said in a soft voice. “You're just like him. You're the Dreaded Foe.”
+
+Notice!
+
+You have been granted a new title: Dreaded Foe
+
+This title grants the bearer +5 levels to all Auras that can be influenced by Fear. Enemies/Opponents/Creatures within your Aura's radius suffer a penalty of -5 Intelligence and -5 Wisdom. Respect: +5,000.
+
+Auras increased by title: Aura (Dire Wolf Hooded Cloak) Level 9 (Expert 10%), Command Level 5 (Expert 60%), Fear Level 8 (Expert 10%), Hatred Level 4 (Expert 20%), House Neram Level 3 (Expert 0%), and Spider Level 3 (Advanced 80%)
+
+System Notice!
+
+Respect (Giants) and Honor (Dwarves) are synonymous, but will not be combined in your Status Screen. Gains in one do not count as gains in the other.
+
+I guess that would stop people from cheating. Ren thought, then opened his Status Screen to see how much Honor he had.
+
+Status
+
+Name  Ren  Level  32
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  499,000 (Lord)  Honor  63,820 (Prestigious)
+
+Giant Kingdom:
+
+Respect  5,000
+
+Titles
+
+Blacksmith  Grants 5 level bonus to Blacksmithing Skills
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+Health  1048  Mana  1337
+
+Strength  175  Dexterity  97
+
+Vitality  105  Agility  93
+
+Endurance  101  Intelligence  147
+
+Luck  39  Wisdom  150
+
+I would have had almost 69,000 Respect right away if they had combined. Ren smiled. That would have been one heck of a nice boost. “Can you tell me that story?”
+
+“I don't really remember much of the details.” Laurelia said, much to Ren's disappointment, and he told the male and female giants to start storing the tent crates one at a time, to resize them to giant scale.
+
+“Why can't we do them all at once?” The female giant asked. “You had them all stored.” She said as she took out a crate of tents that were now scaled to giant size.
+
+“I can carry a lot more than normal people.” Ren said. “I even carried a house once.”
+
+“You WHAT?!?” The female giant exclaimed. “That's not possible!”
+
+“Well, you're almost right.” Ren said, and held his finger and thumb about an inch apart. “I was this close to dying afterwards.”
+
+Laurelia shook her head. “If I didn't think you were crazy before, I definitely think it now.”
+
+Ren chuckled. “The big question is, does anyone here have experience setting up a tent?”
+
+Nearly a dozen of the giants raised their hands, and Ren grinned.
+
+“Excellent! You're the official Tent Construction Crew.” He said. “Grab a tent, and start about 30 feet over there. Place them in a circle around this clearing where the food will be made. Leave some room between the tents, though. There's no point in crowding yourselves too closely together.” He smiled. “I'll start making clothes for the women and child first, then for the rest of you.”
+
+The giants came over to the crates of resized tents and took one each, and spread out to where Ren had pointed.
+
+“Ma'am? Can you store the sacks of food?” Ren said, then took out his blacksmith hammer and repaired the two large stew pots that were on the workbench.
+
+“My name's Nikaia, not ma'am.” She said, kind of angrily. “Ma'am makes it sound like I'm really old.”
+
+“My apologies, Nikaia.” Ren said. “I wasn't sure you wanted me to know your name; and saying, 'hey, you!' seemed a bit too rude.”
+
+She snorted a laugh. “Would you be angry if that's what I thought you were going to say?”
+
+“No, just a little sad.” Ren said and made another workbench for the female giant to use. “If you thought I was going to be rude just because I can be scary sometimes, then I haven't made a good impression on you.”
+
+He told the male giant with the inventory to store the workbench and take it back out, and it was now giant size as well.
+
+“Put it there.” Ren said, and pointed to a spot just to the side of the middle of the clearing, then looked at the female giant. “Nikaia, can you store the two large stew pots and take them back out?”
+
+She did so, and the pots resized to giant proportions; going from 2 feet wide and 3 feet deep, to 5 feet wide and almost 7 feet deep. Nikaia put them on the large workbench, and looked back at Ren.
+
+“Now what?” Nikaia asked.
+
+Ren pointed to the last crate, that had yet to be resized. It had the lanterns and things in it, and he asked the male giant to store it and take it back out.
+
+“Now that I know how big to make it, I can make a fire.” Ren said, and walked to the center of the clearing, and made two large squares out of stone bricks. “How many of you can cook?” He asked, and all of the women, and some of the men, put up their hands. “We won't need quite so many this first time.” Ren said and smiled. “Maybe 4 of you?”
+
+Nikaia, Laurelia, and two other women took knives and bowls from the crate, along with several short and long spoons, and other cooking utensils.
+
+“You'll need two of the cooking racks.” Ren said. “One for each pot.”
+
+One of the other female giants took them out and put them over the top of the stone squares where Ren asked her to.
+
+“Thanks.” Ren said.
+
+She nodded to him and went over to the large workbench where the other 3 women had started cutting up the vegetables. Ren enchanted several of the bricks in the center of the stone squares with wind and fire glyphs, while thinking about Nikaia and Laurelia.
+
+“I'm ready for the pots.” Ren said. “Laurelia? Can you bring them over?”
+
+“Sure.” She said, and picked up one of the pots. “I don't see any water around, though.”
+
+“Don't worry, I have that covered.” Ren said. Laurelia put the pot onto the cooking rack over one of the stone squares. He took out a ladder, climbed up to the top of the pot, and activated his Water Spray ring. Water gushed out of the ring like a fire hose, and Laurelia stared at him in surprise.
+
+“Are... are you a water sprite?”
+
+Ren smiled. “No, I'm an elfling. The ring is an enchantment.”
+
+“You're just full of surprises.” She said.
+
+“There's more.” Ren said. “Think of the cooking fire, and say 'Activate'.”
+
+Laurelia looked at the stones. “What about the wood?” She asked. “Don't you need wood?”
+
+“Nope.” He said and grinned. “Go ahead.”
+
+She looked at the stones, and thought about the fire they would need to cook. “Activate.”
+
+The enchantments activated and both stone squares under the cooking racks, burst into flame.
+
+“Wow!” Laurelia said, amazed. “How do I turn it off?”
+
+“Say 'Deactivate'.” Ren said. “If you're busy, or asleep, or whatever... Nikaia can do it, too.”
+
+“Don't tell her that.” Laurelia said softly. “She'll be running the place if you do.”
+
+Ren nodded and filled the pot to three quarters full with water, and Laurelia got the other pot. He did the same to that one, and stored the ladder. Both pots simmered on the heat while the female giants chopped vegetables and meat to add to them. While they worked, Ren asked the women and child to line up, and the child was in front.
+
+“Hi.” Ren said to him, and he stared at Ren like he was the boogeyman.
+
+“You probably are the boogeyman.” Teepo said. “Now, anyways.”
+
+Ren sighed mentally, and looked at the child's clothes. They weren't as tattered as some of the other giant's clothing; but they were still pretty bad.
+
+“Would you like some new clothes?” Ren asked him.
+
+He didn't respond, and Ren smiled. He looked through the designs he'd copied from Lord Neram's private stash, and found several outfits for children.
+
+“Here we go!” Ren said, a bit more enthusiastically than he had to, but the child's eyes brightened as Ren pulled out some fabric with a flourish, and made a big show of cutting out the pieces, dyed them, and sewed them together. He quickly embroidered an image of the baby fire elemental frolicking in it's pen onto the top, and handed the clothes to the child.
+
+Ren put a hand by his mouth, and whispered loudly. “Just equip them like the adults for now. I won't tell anyone that you're going to keep the old clothes.”
+
+The child had wide eyes as he looked at Ren, who made a backpack to hold the old clothing.
+
+“Put them in here for now.” Ren said and gave the child the backpack. “Come back in a little while and I'll fix them, and you can change back when no one is looking.”
+
+The child grinned as he took the backpack, equipped it and the new clothing, then took off the backpack to put the old clothing in it. The child stepped to the side, and waited for the woman that had been behind him.
+
+“Dress or pants?” Ren asked her.
+
+“Pants, please.”
+
+Ren made her a pair of pants, dyed brown, and a nice blouse. He looked at her feet and saw they were bare, the same as a lot of the other giants.
+
+“I can make you cloth boots.” Ren said. “They won't be much, but they're better than nothing.”
+
+She nodded, and Ren made her a pair of brown cloth boots and a pair of underwear. He looked over to the stretcher that had the changing curtain on it, and saw the giant was still unconscious.
+
+“The first few tents are up.” Teepo said, and Ren turned around.
+
+“That first one is the changing tent!” Ren declared loudly, and everyone turned to look at him. “The women need a closed space to change, and that's it.” He looked back at the female giant, and smiled as he handed her the clothing. “You can get changed right over there.”
+
+She knelt next to Ren and put a hand near him, glanced at the child, then back at Ren. “Thank you.” She said, and Ren shook her finger. She stood up, took the child's hand, and walked over to the changing tent. The child waited outside as she equipped the new clothing, and she came out looking like she had just stepped out of an expensive shop.
+
+“Dress, please.” The next woman said when Ren looked at her, and he made her a nice dress, different from the one he'd made for Laurelia. “You can leave it white.”
+
+Ren made her underwear and cloth boots, then handed them to her. “There you go.”
+
+She left to get changed, and he looked at the next female giant in line.
+
+“Dress or pants?” He asked her, and she smiled. This went on for an hour, and he had clothed all of the women and 2 of the men, when Teepo told him it was time to leave.
+
+“I have to go for now.” Ren said loudly, and the line for clothing broke up. He looked at the male giant with the inventory. “While I'm gone, I've got a job for you to start.” He said and smiled. “It will go a lot faster if you have helpers, and switch off to rest.”
+
+“What's the job?” The male giant asked, wearily.
+
+“I want you to dig a trench around the area that the tents are being set up. About your height wide, and half your height deep.” Ren said, then pointed in the direction of the giant lands. “Start on that side and go across.”
+
+“You're not asking for much, are you?” He asked and shook his head. “I don't know about the others, but I can't do it on an empty stomach.”
+
+Ren took out a Health potion and walked over to the pots, and took out the ladder again. He climbed up and poured half of the potion into one pot, and half into the other.
+
+“The stew is almost done. Once you get a bowl of it in you, you're going to feel fantastic.” Ren said, and stored the ladder. “You've got 2 picks and 4 shovels. I'm sure there's a few people who will want to have some kind of protection around the place.”
+
+“I know I do.” One of the male giants said, then one of the women said she'd help.
+
+“Get something to eat first.” Ren said. “You're no good to anyone while you're hungry.”
+
+“I hear that!” The same giant said and picked up a bowl and spoon from the crate of mixed items.
+
+Ren turned to Laurelia. “It's lunchtime, so I should be back in about 5 hours. You're in charge until I get back.”
+
+“I'm wh-wh-what?!?”
+
+Ren chuckled. “Make sure everyone gets at least one bowl of stew, and that there's enough tents for everyone. I'll bring more when I come back.”
+
+“You're leaving me in charge.” Laurelia said. “Me.” She shook her head. “You're crazy.”
+
+“Not an insult.” Ren laughed. “See you later.”
+
+“Goodbye.” Laurelia said, and Ren ran over to Princess.
+
+“Having fun?” He asked her, and scratched her chin.
+
+Bored...
+
+“Well, I need a really fast ride back to Nathalia.” Ren said. “I wonder where I could get one?”
+
+Not nice to tease...
+
+Ren smiled and pat her neck. “I've kept you idle for too long.” He said. “May I?”
+
+You may...
+
+Ren climbed up on her back and looked at the two dogs. “Try and keep up!”
+
+Riley and Stacy barked at him, and he could feel the challenge was accepted as Teepo landed on his shoulder.
+
+“Let's go!” Ren said.
+
+Princess took off like a shot, with the dogs close behind, and Teepo chittered in delight. They had barely started to get a good pace going, and had to slow down because they were already at the Garrison. Ren waved to the Warriors on the top, and the gate opened for him. Princess sauntered through with the dogs at her sides, and came to a stop at the next gate.
+
+“I think I might have to make it standing orders to open the gates all the way through when I'm around.” Ren said.
+
+“It already is, sir.” The Warrior said and opened the next gate.
+
+Ren saw it was clear all the way through, and Teepo chittered in laughter.
+
+“You'll still have to stop at the other end.” The Warrior said.
+
+“Understood.” Ren said and nodded to the Warrior, who's eyes widened at the Honor gain. Princess took off and a few minutes later, slowed down at the front gate. It opened, and they passed through and Princess kept running. It only took a few minutes to get to Dornrach, then back to House Neram Keep.
+
+“Home, sweet home.” Ren said, and climbed down from the saddle, and led Princess into the courtyard and then to the stable. The dogs came in right behind her, and she huffed at them. “I think she wants you to run the track with her.” Ren said, and smiled as he felt their acceptance. He pat Princess on the neck, left her some more food, and went to the house.
+
+“Nathalia?”
+
+“In the kitchen.”
+
+Ren went through the main room and looked into the kitchen. He saw that Nathalia had her back to him and was wearing an apron and a pair of underwear. That was it. Her breasts hung partially out the side of the apron, and the fabric wasn't thick enough to hide everything.
+
+“I'd ask you what you're doing, but I can clearly see that you're tempting me with your delights.” Ren said as he stood in the doorway.
+
+“You don't know the half of it.” Nathalia said, stepped away from the counter she had been in front of, and grinned at Ren's shocked expression.
+
+“Bacon!” Ren exclaimed. “Where in the... no, don't tell me!” He said and held a hand up. “Let me fantasize about you hunting in a fur bikini, and spearing a boar for me.”
+
+“A fur what?” Nathalia asked as she laughed.
+
+“It's just a bra and underwear, made with thin colorful cloth.” Ren said as he came over to the counter. “Have I told you how much I love you?”
+
+“Not tod-” Nathalia started to say, then stared at Ren as he picked up a piece of bacon and kissed it.
+
+“I love you!” He said, and kissed it again.
+
+“REN!”
+
+Ren started to laugh, ate the piece of bacon, and looked at Nathalia. “Yes, My Love?”
+
+“I...” Nathalia put her fists on her hips, and her large breasts slid a little further out the sides of the apron; which exposed a bit of the tips. “That wasn't funny.”
+
+“It was the only way I could think of to stop myself from tearing off what little clothing you have on, and making love to you right here, right now.”
+
+Nathalia blinked her eyes at him, then she smiled coyly. “What if that's what... mwh!”
+
+Ren kissed her, and then did exactly what he said he was going to do. Over the next two hours, they christened the floor, the table, two of the chairs, ate some bacon, then christened the counter and the floor again. When they were done, Nathalia was exhausted and Ren was a little winded.
+
+“By the gods...” Nathalia said, and looked at him as they lay on the floor. “Was it the bacon?”
+
+Ren laughed, and kissed her. “Let me put it this way.” He said. “I'd never seen anything sexier than you standing there with your back to me, with the space between your legs, and your breasts hanging out the sides.” He closed his eyes and sighed. “I tried to distract myself, then you had to turn around and put your hands on your hips.” He opened his eyes and looked at her. “That little peek drove me crazy.”
+
+Nathalia blushed at the intensity in Ren's eyes, then she remembered the House Neram pendant.
+
+“If it was the bacon, I'd have eaten it all before starting on you.” Ren said, then felt Nathalia's Aura merge with his.
+
+“It... it really was all me.” Nathalia said in wonder, as she felt Ren's feelings. They were just as intense as the look he was giving her.
+
+“It's always all you.” Ren said.
+
+Nathalia's heart leaped, and she kissed him passionately.

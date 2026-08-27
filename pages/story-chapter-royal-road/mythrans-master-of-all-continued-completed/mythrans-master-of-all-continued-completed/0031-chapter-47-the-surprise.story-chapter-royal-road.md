@@ -1,0 +1,201 @@
+---
+id: 43920273-bb8d-567f-9a6a-479e0ebf63fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 - The Surprise"
+slug: 0031-chapter-47-the-surprise
+partOf: mythrans-master-of-all-continued-completed
+position: 31
+ownLength: 2521
+unit: words
+publishedAt: 2016-10-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97066/chapter-47-the-surprise"
+royalRoadId: "97066"
+---
+
+Ren stood in the tent as people came in. You could see a visible change in their walk and they all took deep breaths when they passed the tent's entryway. They carried gifts, which Ren assumed were for Ana, and sat at random in the chairs that Ren had made. There was no rhyme or reason for where they ended up sitting. The only consistent thing was that they sat together as a family. Some of the men nodded to others, and some of the women exchanged pleasantries... but there was no intermixing other than that. Ren noticed that quite a few of them were looking towards him, and he moved to the side of the tables. Ren saw their gaze didn't shift to him when he moved and he realized that it was the tables they were looking at. Ren left the tent and walked quickly to the house.
+
+“Is there any food ready? The guests are getting restless, even though they just got here.” Ren said when he saw Aimus was waiting anxiously in the kitchen.
+
+Aimus waved to the counter and the stacked trays and plates of food. Ren loaded them all into his inventory. There was a large bowl of liquid on the table and Ren looked inside it. If I'm not mistaken, I think that's punch.
+
+“What are you punching?” Teepo said.
+
+Ren smiled. I'm not punching anything, I just think the drink Abigail will be serving is called 'punch'.
+
+“Oh.” Teepo said.
+
+Where are you?
+
+“I'm out by the place where you chopped down all those trees.” Teepo responded.
+
+You're going to miss Ana's party if you don't get back here.
+
+“A party?” Teepo said, excitedly.
+
+Yeah, there's a bunch of people here already. I was just about to take out some food to the tent.
+
+“Ooo, summon me back, Ren! The party will be over if I have to walk there.” Teepo said.
+
+“Summon Teepo!” Ren whispered and tapped the ring. Teepo's astral form appeared at Ren's feet. Are you going to see for yourself, or do you want to ride in style?
+
+“In style, please.” Teepo said and Ren picked him up to place on his regular perch. “I always see more from up here.”
+
+Aimus was still waiting anxiously and didn't notice Ren's interactions with Teepo. A moment later a door was opened and Abigail came into the kitchen.
+
+“May I present to you, in her most regal outfit... 10 year old Miss Ana!” Abigail said and ushered Ana into the kitchen. The dress fit Ana perfectly (as Ren knew it would). There were 2 bows in Ana's hair that matched the one on the back of the dress. The tails of the bows swished across her shoulders when she turned her head, even only a little bit.
+
+Ana stood there with a huge blush on her face. “W-w-ell, say s-something.”
+
+“My beautiful little girl.” Aimus said and knelt by Ana. You could tell that he wanted to hug her, but he didn't want to crinkle her brand new dress.
+
+“Go ahead and hug her. The dress can take it.” Ren said and smiled. “Trust me.” The three looked at him together with doubt on there faces. “You see what I'm wearing? I fell out of a tree wearing it and the only thing that was hurt was my face.”
+
+Aimus let a grin spread across his face and took Ana into a big hug. The dress bunched up and the frills were squashed a bit.
+
+“Aimus-” Abigail started to say, but the words cut off when Aimus let Ana go and the dress popped right back into place as if nothing had happened to it.
+
+“I told you.” Ren said and chuckled. It would take a lot more than a little hug to hurt that fabric.
+
+“But.. but how?” Abigail said as she knelt and gave Ana a hug, too.
+
+“It's just something Sally came up with when I provided some... unusual silk thread.”
+
+“It's amazing!” Aimus and Abigail said together and they laughed.
+
+“You won't have to worry about tearing it or having to be too careful while wearing it.” Ren said. “The shoes are just shoes, though.”
+
+“Okay, Ana. We've held you up long enough. You can go and play with your friends.” Abigail said and Ana ran out the kitchen door. A moment later, Ana ran back in and gave Ren a big hug. Ren wasn't that much taller than her and Ana's head fit right over his shoulder when she stood on her tippy-toes.
+
+“Thank you!” Ana said and let go.
+
+“You're welcome.” Ren said and pat Ana on the back. “Happy Birthday.”
+
+Ana giggled, gave Ren a quick kiss on the cheek, and ran out of the kitchen.
+
+“Wha-?” Ren started to say, then was enveloped in a big hug by Abigail.
+
+“Thank you so much, Ren.” Abigail said and smothered Ren against her chest. Unlike some of the other chests he'd been pressed against, Abigail had an average sized bustline and Ren's face fit right between them.
+
+She's... she's not wearing a bra! Ren thought and Teepo chittered in laughter.
+
+Abigail let him go and Ren was blushing harder than he'd ever blushed before. “It... it was nothing.”
+
+“Ren!” Aimus said loudly. Ren stopped blushing and looked at Aimus. “What you've done here is more important than that.” Aimus walked over to stand by his wife and put a hand on Ren's shoulder. “You replaced an important present my wife bought for Ana. She'd saved up for a long time to get enough money to buy that pattern. My mother made that dress for her granddaughter to have on her special day.” Aimus shook Ren's shoulder. “That's no small thing.”
+
+“When I saw what had happened to the dress, my hopes were lost.” Abigail said. “There was no way to have Sally make another one, and then it would have been several days just to get it back here even if she'd had another one ready to go.” Abigail put her hand on Ren's other shoulder.
+
+Teepo skittered out of the way and onto the top of Ren's head.
+
+“But then you proposed a solution that I didn't think would work. Even if you'd just replaced the torn pieces, the dress wouldn't look right with different pieces.” Abigail smiled. “But I trusted Aimus and let you work. I distracted Ana by getting her help with the food... then Aimus came in with the brightest blue dress I'd ever seen. It shimmered in the light like a spiderweb! I don't know how you managed it, but it was a miracle.”
+
+Ren's blush was back in full force by this time and Ren nodded. “I couldn't just use normal fabric, or splice in different pieces. You're right Abigail, that would have looked awful. I had this amazing cloth with me, though... and once I took apart the other dress and found the pattern, I had to do the very best job I could to make it.”
+
+Aimus and Abigail smiled down at Ren and let go of his shoulders.
+
+“Then I'm glad that I trusted the both of you.” Abigail said and turned to hug her husband. “Ana loves her new dress!”
+
+“It would have been all white if Aimus hadn't lent me the dying station Sally had given him.” Ren said.
+
+“Hmm... white might have been nice... but it wouldn't have gone well with the bows and ribbons in Ana's hair.” Abigail said.
+
+“That reminds me.” Ren said and pulled out the dying station. “Where do you want me to put this?”
+
+Aimus shook his head. “Why don't you just keep it.”
+
+Ren shook his head and tried to give it back to Aimus.
+
+“It's the first time it's been used since mother gave it to me all those years ago.” Aimus said. “Remember what I told you? Sally said to give it to someone I met that would take up her profession. I don't think I could find someone better than you for that honor.”
+
+Ren blushed again and put the dye station back into his inventory. “Thanks, Aimus.”
+
+Aimus dismissed Ren's praise with a wave. “I'm sure you'll put it to good use.”
+
+Ren nodded then remembered something. “Oh, right! The food. Did you want this bowl of punch brought out to the tent? What about glasses and plates?” Ren asked Abigail.
+
+Abigail nodded and gave Ren a pile of plates and glasses. Ren stored them all and the punch bowl. There was no need to try and walk with the thing. It was sure to be spilled if Ren tried to carry it normally. Abigail shooed Ren away and Ren went to the tent. Aimus followed right behind and after Ren entered the tent, Aimus called for everyone's attention. While Aimus thanked everyone for coming, Ren stood behind one of the tables and put out all the food platters and the stack of empty plates. It didn't take long, and Ren nodded to Aimus once the punch bowl was on the table and the glasses were spread around it.
+
+“...and you can put your presents on the table over there if you want. That's all I've got to say for now. Lets eat!” Aimus said and everyone clapped.
+
+Ren stepped back and watched the throng of people swarm to the table with all the delicious food piled on it. Aimus pulled Ren aside and explained that it wasn't often that people gathered like this. Ren raised his eyebrows while Aimus said that most families out this far from a big city usually kept to themselves, but the closest ones usually let their kids play with each other when they could.
+
+Ren saw Ana run into the tent with several boys and another girl hot on her tail. They laughed and carried on like kids do, and Ren closed his eyes and sighed. Seeing things like that made him wish that he'd had a normal childhood sometimes... and a sharp pain hit him behind his eyes. Ren rubbed his face and told Aimus that he needed a bit of fresh air.
+
+Ren left the tent and went to the barn. Aimus had moved the big saw back inside the barn and covered it. Ren climbed the ladder at the back of the barn and unloaded the last couple of planks he still had in his inventory. Ren settled down behind them in the hay and tried to figure out why he kept getting headaches whenever he thought about his childhood... and another throb of pain hit him.
+
+“Ow.” Ren said.
+
+“Is everything alright, Ren?” Teepo said after crawling over Ren's chest and onto the floor.
+
+“Yeah, I'm fine. It's just a headache.” Ren said and closed his eyes.
+
+A little while later, Ren heard someone moving around in the barn and went to the ladder. Ren saw Aimus taking another package out of the hidden space and went to the horse. Ren didn't see what it was, but was curious enough to climb down the ladder to see. When Ren hit the ground with his feet, Aimus jumped and turned around at the noise.
+
+“Oh, it's just you, Ren.” Aimus said in relief. “I thought it might have been Ana. That would have ruined the surprise.”
+
+Ren walked over to the horse... only it wasn't a horse anymore. It was a white unicorn. A gleaming golden horn stuck out of it's forehead and it's mane was a big mass of hair. Ren looked at the hooves and they had big clumps of hair on them as well.
+
+“What in the world...” Ren said.
+
+“Ah. It was something I picked up when I was in Aurora. It was thanks to you, actually.” Aimus said and smiled.
+
+“Really?” Ren said, surprised. Teepo crawled up onto Ren' shoulder.
+
+“Yeah. With the gold coins you gave me at mom's, I went out and bought this little trinket at an enchantment shop.”
+
+Ren wondered if it was Isaac's shop that Aimus had gotten it.
+
+“It'll only last two hours and won't work anymore, but at least Ana can have a few rides on her dream horse.” Aimus said and admired the horse/unicorn while he saddled it up properly.
+
+“I'm going into the tent now, will you bring the horse in when you hear the shouts?” Aimus asked Ren.
+
+“Shouts?” Ren said.
+
+“You'll know it when it happens.” Aimus said and winked.
+
+“Sure. I'll be listening.” Ren said.
+
+Aimus left and Ren stood there holding the reins. Teepo, I don't want there to be 'Trouble'. Want to go and scout the tent for me?
+
+“Of course, Ren!” Teepo said and jumped off Ren's shoulder. Teepo skittered out of the barn and a few minutes later, told Ren what was happening. “Aimus has Ana lifted up to grab the string knot. She's having a hard time pulling it. Oh, there it goes. Wow.”
+
+Ren waited for Teepo to continue but Teepo remained quiet. Teepo? Ren heard shouts coming from the tent and led the horse/unicorn out of the barn. TEEPO!
+
+“Hm? Oh, sorry, Ren. It was... it was a bunch of little flames all over the tent! All different colors, too! So pretty.” Teepo rambled.
+
+Teepo, I'm almost to the tent. What's inside?
+
+“It's done now... it looks like a... monocerus.” Teepo said.
+
+A what?!? Ren thought.
+
+“A monocerus. Like the picture in the inn.”
+
+Ren laughed. We call it a unicorn.
+
+“Why?” Teepo asked.
+
+Because it only has one horn. Ren replied.
+
+“But that's what 'monocerus' means. One horn.”
+
+Ren didn't know what to say to that... but at least his suspicion that it was a horse decoration was confirmed. Ren wasn't sure what it was when Aimus had hung all those things at first. It had kind of a horse shape. Ren smiled and entered the tent just as all the oo's and ahh's stopped. Aimus turned with Ana still in his arms and her face lit up at the real life unicorn in front of her.
+
+“Eeeeeeee!” Ana screeched, and several other kids did the same.
+
+Aimus barely managed to put Ana down and she was across the tent and on the saddle. Ren laughed as Ana tried to grab the reins from him.
+
+“Hold on, now. Let me at least get you out of the tent.” Ren said and turned the horse around.
+
+All the kids followed Aimus when he walked over to Ren leading the horse.
+
+“Don't leave the field. Don't run him too hard. You need to share rides with the other kids.” Aimus said and took the reins from Ren, who stepped back and out of the way.
+
+Ana scowled a little, but nodded. Aimus smiled and handed her the reins. “Have fun.”
+
+“Thanks, dad!” Ana said and was gone across the field. Aimus sighed.
+
+“He's not a race horse!” Aimus shouted. Ana laughed and Aimus shook his head. “He might last 10 minutes.”
+
+Ren passed Aimus a couple of his minor healing potions. “He can go a lot longer than that.” Ren said and winked.
+
+Aimus smiled at Ren and nodded his thanks.

@@ -1,0 +1,241 @@
+---
+id: 10619d1c-7afa-5a2a-985b-b668335c34af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84 Unveiled"
+slug: 0089-chapter-84-unveiled
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 89
+ownLength: 2028
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3576258/chapter-84-unveiled"
+royalRoadId: "3576258"
+---
+
+“What makes her different from everyone else?”
+
+A faint crease formed in Alicia's brow. She looked as though she was about to speak before her gaze shifted to Sera, who showed no outward reaction to Talia's words.
+
+Lucien glanced at the hunter, considering Talia's question before he spoke. “The only thing I can think of is how sharp her hearing is.”
+
+At his words, Talia’s eyes sharpened. “Oh? How good is it?”
+
+He leaned back in his chair. “She managed to hear Cragwatch’s horns before anyone else. And if I remember correctly, she can likely hear footsteps outside this room.”
+
+Alicia spoke up hesitantly. “My Lord...should we be talking about this in front of her?”
+
+Before he could respond, Talia was already speaking.
+
+“Have you two actually asked her how good her hearing is?”
+
+Both Alicia and Lucien looked at Talia before turning to Sera, who tilted her head.
+
+He exhaled softly through his nose. “It’s not something one simply asks-”
+
+Already on her feet, Talia headed toward the door even as she spoke. “Hey Sera, just write down what I say outside the door, kay?”
+
+Sera gave a nod, though her attention drifted back to the table, where the remaining food sat. She glanced toward Alicia expectantly.
+
+Alicia studied her for a moment before relenting, moving to prepare another plate for her.
+
+The door opened and closed with a soft thud.
+
+From the other side, he could hear Talia’s voice, though it was muffled and the exact words didn't carry through the door.
+
+A brief moment later, Sera tilted her head, then reached for her satchel and wrote something down in quick strokes.
+
+When Talia stepped back inside, she immediately moved to see the result.
+
+She leaned in slightly. "So? What did I say?”
+
+Sera turned the parchment toward her.
+
+Lucien Coffee.
+
+For a moment, Talia simply stared at it, her expression caught between confusion and disbelief.
+
+Lucien would have found it amusing, if not for the purpose behind the test.
+
+“Two words, Talia? I didn’t realize your laziness had gotten that bad,” he said, a dry note in his tone.
+
+She turned toward him, indignant. “I said, ‘Lord Lucien likes coffee more than anything else!’”
+
+As if in response, Alicia moved to his side to refill his cup of coffee, a faint curve on her lips.
+
+Talia caught it, her gaze narrowing briefly before something lit up in her eyes. With a familiar teasing expression, she turned toward Sera, who had already returned to her usual place by the window.
+
+“Sera, once more. Same distance, but this time, I am gonna be whispering the words!”
+
+She barely waited for Sera's nod before heading toward the door, practically skipping the first few steps.
+
+Lucien took a sip of his coffee, noting that he could not hear anything this time. Sera, however, clearly could, as she had already begun writing on her parchment while chewing on her food.
+
+The door swung open as Talia stepped through and made her way over, a hint of eagerness in her stride.
+
+“Okay, did you hear anything at all?”
+
+The hunter gave a firm nod and turned the parchment toward her.
+
+Red Book.
+
+Lucien’s gaze lingered on the words for a moment longer than necessary.
+
+Sera tilted her head, watching Talia for a brief moment before looking toward Alicia, who had gone still beside him.
+
+Talia followed her gaze and broke into a grin. “Yep, that’s exactly what I said.”
+
+Lucien’s brow rose slightly. “You said two words this time? Not a sentence?”
+
+“Yeah, I figured she heard me the first time. She just didn’t bother writing the whole thing, right?” She glanced toward Sera, who gave a small nod, though her attention remained fixed on Alicia.
+
+Lucien turned to the maid at his side. “Are you alright? Did you wait for Sera and me without having your meal again?”
+
+She startled at his voice. “A-ah...yes, My Lord. I am fine.” Even as she spoke, her hand had begun twisting the cloth of her apron without her noticing.
+
+Talia let out a soft chuckle, a knowing smile on her lips. “Don’t worry, Lord Lucien. I convinced her to have a light snack while waiting for you both.”
+
+Lucien’s gaze narrowed slightly. Something about this felt familiar, especially the mention of the red book again. The innocent expression Talia immediately adopted as he continued to look at her only made him more suspicious.
+
+He decided the best way to pull Alicia away from what was likely Talia’s teasing was to shift the topic back to the matter at hand.
+
+Lucien turned his attention to Sera. “If volume is not the limitation, then what about distance? Talia, try standing further down the hallway, but whisper this time as well.”
+
+His junior nodded before he had even finished, already turning to Sera.
+
+“So, I’m going to stand over there,” she said, pointing toward the direction nearest to the manor hall. “And say some words that are relatively simple to pronounce at the start, kay?”
+
+Sera inclined her head once, though her gaze still drifted toward Alicia from time to time.
+
+When the door closed once more, Lucien focused his attention on Sera. Her expression remained largely nonchalant as she continued to eat her lunch with single-minded focus.
+
+A moment later, she looked toward the door in brief consideration before writing on the parchment again in quick, deliberate strokes.
+
+'She didn’t hesitate at all?'
+
+Talia opened the door a third time, a grin already on her face as she spoke before fully stepping inside.
+
+“Well? Did you hear what I said? There were a few servants talking near the manor hall, so it might’ve muffled things a bit.”
+
+When Sera shook her head, his first thought was that perhaps there was a limit to the distance of her hearing.
+
+That thought vanished almost immediately.
+
+The hunter lifted a hand and pointed in the opposite direction from where Talia had said she would be.
+
+Talia’s eyes sharpened at that before she spoke. “Oooh? You’re sure? But I told you I’d be near the manor hall. That’s by the kitchens.”
+
+Sera gave a firm nod, then turned the parchment toward her.
+
+Split Lever.
+
+He stared at the word for a moment before glancing toward Talia, who gave him a subtle nod.
+
+Alicia spoke up then, confusion flickering across her face. “What does that mean, Lady Talia? I don't think I have heard those words before.”
+
+Talia gestured lightly toward herself. “That’s because I picked something obscure on purpose. I wanted to see if she could still catch unfamiliar words.”
+
+Lucien leaned forward in his chair, his cup of coffee forgotten as he regarded the parchment.
+
+“Now we know that Sera can at least hear whispers through closed doors from several paces away.”
+
+Before he could continue, Alicia moved toward Sera, stopping a short distance from her.
+
+The maid’s gaze lingered on her. “Are you always hearing so many things, Sera?” she asked gently.
+
+Sera tilted her head before giving a small nod.
+
+Alicia studied her for a brief moment before speaking again, her voice softer. “Is that why you came to my room that day, when we first met?”
+
+Sera stilled. For a moment, it seemed she wouldn't answer before she inclined her head once.
+
+Lucien’s brow creased as the implication settled in. “If she’s always hearing so many things at the same time...” His words trailed off.
+
+Talia, who had remained silent during the exchange, now wore an unusually serious expression as she spoke.
+
+“That must be overwhelming. Is it something that’s always on?”
+
+Sera considered her words briefly before writing, her strokes slower than before. When she finished, she turned the parchment toward them.
+
+Better now.
+
+A faint smile formed on Alicia’s lips. “I am glad you are not suffering as much anymore.”
+
+Talia settled back into her seat across from him, her gaze lingering on the words for a moment.
+
+“Hmm...how good exactly is your hearing, Sera?”
+
+Sera had been about to spear another generous portion of meat when she stilled, her gaze drifting toward Alicia.
+
+The maid met her eyes and gave a small, reassuring nod.
+
+She took a bite before reaching for the charcoal stick beside her, writing in quick strokes as she continued chewing quietly.
+
+When she turned the parchment around, the room fell silent.
+
+Heartbeat.
+
+Alicia’s expression shifted from its usual gentle composure into something far more mortified as a flush spread across her face.
+
+Her breath caught faintly as her fingers tightened in her apron. “…Heartbeat?” she echoed softly.
+
+Sera’s attention turned to her, still chewing as she gave a small nod. A moment later, she tilted her head and pointed toward Alicia’s chest.
+
+Lucien cupped his chin in thought before speaking. “That’s...impressive.”
+
+It was more than simply impressive. It bordered on something else entirely.
+
+And clearly, he was not the only one to think so.
+
+Talia leaned forward, her chin resting lightly against her hand. “Yeah...I don’t think I’ve heard of anyone with hearing that good.”
+
+Her gaze shifted, not lingering on Sera this time, but moving toward Alicia instead. “Is that something common out here? Or is she just...different?”
+
+Lucien cast a brief look toward Talia.
+
+Alicia, who had mostly recovered by now, lowered her eyes in thought. “I have heard that...there are people born with such gifts...or that they receive them from the Goddess after passing some kind of trial.”
+
+When she looked up and saw both Lucien and Talia watching her, she flushed once more and quickly shook her head.
+
+“Ah...it's just something people say. It might not mean anything at all,” she added quickly.
+
+Her fingers tightened slightly in her apron. “My mother used to say I was blessed by the Goddess too...when I recovered from my illness as a child.”
+
+For a brief moment, no one spoke.
+
+Lucien’s fingers stilled against the side of his cup.
+
+His brow creased faintly as her words brought to mind how she had recreated drawings from his vague descriptions of certain tools, and in several cases, gone even further by adding details he had never mentioned.
+
+Talia’s gaze flicked to him briefly before returning to Alicia. “I’ve heard people talk about that in Helvarn’s cathedral before. Usually parents, when they’re describing their children.”
+
+Alicia folded her hands before her. “It’s just a common saying...though people think there might be some truth to it when they hear stories of others performing things even without magic.”
+
+The phrasing gave Lucien pause, though his expression remained composed.
+
+Sera glanced at him for a brief moment before returning her attention to her food.
+
+Talia hummed softly, her chin still resting on her hand. “Then how would they know it isn’t just a mage pretending to have a blessing or something?”
+
+Alicia looked confused at the question, though she answered anyway. “Because magic is something that can always be seen, while the Goddess’s blessing is always hidden from our eyes.”
+
+Her words carried a certainty to them, as though she were describing something as self-evident as the laws of gravity.
+
+This time, both Lucien and Talia fell silent at the way those words had been said.
+
+Sera’s gaze flicked between them, her pale eyes narrowing slightly.
+
+Talia recovered first, letting out a soft chuckle. “So...turns out our resident hunter might actually be someone blessed by the Goddess after all. Pretty impressive.”
+
+There was a lightness to her tone as she gestured toward Sera, who had already looked away.
+
+Alicia’s brow creased faintly, disapproval clear in her eyes as she spoke. “Lady Talia, that is not something to make light of. She must have suffered greatly because of her hearing.”
+
+Talia scratched the back of her head, sheepish. “Sorry, I didn’t mean it like that. I’m just saying...maybe something good came out of it.”
+
+Sera showed no outward reaction, setting her plate back on the table before returning to her seat by the window.
+
+As Alicia continued to gently chide her, Lucien caught the glance Talia sent his way.
+
+He gave a small nod in return as he took a sip of his now cold coffee.
+
+It seemed tonight would be another long night.

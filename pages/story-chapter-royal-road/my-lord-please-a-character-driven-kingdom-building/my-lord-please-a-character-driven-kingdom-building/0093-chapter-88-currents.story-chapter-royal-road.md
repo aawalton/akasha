@@ -1,0 +1,211 @@
+---
+id: 2f270f59-ed0a-50a7-aca1-ed523f82a917
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88 Currents"
+slug: 0093-chapter-88-currents
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 93
+ownLength: 2108
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3608736/chapter-88-currents"
+royalRoadId: "3608736"
+---
+
+He had not spent that much time in the western fields handling the incident. By the time he returned to the manor courtyard, Dorian was still there.
+
+Tomas saluted the guard captain from a distance, then wisely chose to continue immediately toward his post. He avoided the pointed look Dorian gave him as he walked away at a brisk pace.
+
+Dorian’s gaze shifted toward the two men behind Lucien. “Henric, Merek. Resume your post until the next rotation.”
+
+“Yes, Captain.”
+
+Lucien gave the two men a nod before gesturing for Dorian to follow him toward the edge of the courtyard.
+
+Once they were far enough from any listening ears, Lucien spoke first.
+
+“Two groups of men from Cragwatch and the western farmers were involved in the fighting. The western farmers started it.”
+
+Dorian crossed his arms, his expression unchanged. “They threw only fists, My Lord?”
+
+Lucien shook his head. “The fight itself did not go beyond that. But it would have escalated if Tomas and Cragwatch’s leaders had not intervened.” He paused briefly, meeting Dorian’s eyes. “Go a little lightly on Tomas, Dorian. He made the right call leaving his post given the circumstances.”
+
+Dorian gave a nod but no indication of whether he intended to do so. Lucien decided to leave the final decision to him.
+
+The captain’s brow furrowed. “Leaders? I had thought Cragwatch only had the reeve remaining from their old leadership.”
+
+Lucien inclined his head. “I assumed the same. But Bran’s kin was there as well.”
+
+To his mild surprise, Dorian’s expression shifted with something close to realization.
+
+His brow lifted. “You know something.”
+
+Dorian hesitated briefly before speaking. “It has been speculated that you favor that family more than most, My Lord.”
+
+Lucien stared at him. “Favor? What do you mean?”
+
+As soon as the words left him, he realized what his captain meant.
+
+The former Lucien had taken Alicia as his personal maid. He himself had also given Bran what was effectively a position not far removed from a reeve, even if unofficially.
+
+His hand rose to rub at his temple. “So the people of Cragwatch listen to Bran’s kin because of that.”
+
+The captain allowed himself a small breath touched with amusement. “Yes, My Lord.” The amusement faded as quickly as it appeared. “But that alone is not enough to quell this resentment between them.”
+
+Lucien’s gaze lowered in thought. “If problems are already surfacing before the next wave of settlers arrives, the situation could deteriorate beyond our control.”
+
+Dorian folded his arms behind his back. “The Tithe served as a focus for their frustrations in the past. We expected something like this would happen sooner or later, My Lord.”
+
+He remembered the conversation with his captain, of how crime would inevitably increase as populations grew. But he had not expected it to happen so quickly, nor to take this form.
+
+Lucien rubbed his chin, his brows creasing in thought. “We will have to solve this soon, Dorian. Before my meeting in Helvarn in late spring.”
+
+Dorian straightened, his arms still folded behind his back. “They will need a new focus, My Lord. Men bond quickly when they face difficulty together.”
+
+His gaze shifted toward the southern palisades. “It will not erase their resentment entirely, but it would redirect it toward more productive matters.”
+
+For a time, the two men remained silent as each considered the matter before them.
+
+Lucien exhaled softly through his nose. “For now, keep watch over them for me. But do not increase the guard presence. We don't want the tension worsening because of it.”
+
+Dorian’s expression remained unreadable as he inclined his head. “By your command, My Lord.”
+
+He turned and began walking toward the eastern palisades, likely to speak with Tomas next.
+
+Lucien watched him leave for a brief moment before departing the courtyard as well, his thoughts turning back toward the matter.
+
+Earlier that morning, he had spoken with Elias about the changes he intended to make to the village. But if this situation was not resolved, or at least contained, those plans might have to be delayed.
+
+Lucien had not walked far from the manor before he found himself near the gathering hall and Talia’s shop. The small gathering outside the shop caught his attention.
+
+Alicia’s mother stood near the entrance with a broom in her hands, speaking with two familiar children.
+
+“Matthias, are you watching who comes in and out again?”
+
+The Cragwatch boy gave an overly serious nod. “Yes, Miss Maris. I wanted to see what people in the village liked most.”
+
+Maris’s lips curved in a way that reminded him faintly of Alicia. “I see. You can always come inside if you want.” She lowered herself slightly toward the boy. “I happen to have some sweet scones in the back,” she added in a quieter tone, as though sharing a secret.
+
+Matthias’s eyes widened, though he didn't accept immediately. Instead, he visibly considered the offer.
+
+Maris turned toward the girl holding the ragdoll. “Elin, do you want one too?”
+
+Elin looked toward Matthias first, watching him carefully before she spoke softly. “Matthias, shall we? Miss Maris’s scones are very good.”
+
+The boy’s expression grew unusually serious, as though faced with a heavy decision. His gaze shifted to the side and abruptly landed on Lucien.
+
+“L-Lord Lucien!” Matthias blurted before quickly covering his mouth.
+
+Maris straightened slowly before dipping her head toward him. “My Lord.”
+
+Lucien returned the gesture even as Matthias continued staring at him openly.
+
+“Maris, did Talia leave the shop in your hands again?” A trace of exasperation slipped into his voice.
+
+She shook her head faintly. “It's fine, My Lord. I find myself with more time these days now that Alicia is occupied at the manor, and Bran has hired more help for the fields.”
+
+Her gaze lingered on him briefly before she spoke again. “Would you care for some tea, My Lord? The shop is usually quieter around this time of day.”
+
+Lucien considered the offer before noticing that Matthias’s eyes had not left him. “I suppose it would be a shame to miss out on your famous scones.”
+
+The boy immediately perked up before hesitantly speaking. “I-I would like some too, Miss Maris.”
+
+Beside him, Elin nodded softly, her arms still wrapped around the ragdoll held against her front.
+
+Maris clapped her hands lightly in front of her. “Go right in then. I will prepare some for you as well, My Lord.”
+
+She turned toward the shop entrance while the two children continued staring up at Lucien expectantly.
+
+At his small gesture for them to go first, they immediately moved ahead while he followed behind at a more measured pace.
+
+The interior of Talia’s shop was filled with afternoon light filtering through the front windows.
+
+Matthias and Elin sat near the far end of the room. The boy remained upright at the edge of the bench while Elin took the spot beside him with the ragdoll resting across her lap.
+
+Lucien noticed Matthias’s attention drifting toward him more than once before the boy quickly looked away each time.
+
+Maris disappeared briefly into the back before returning with a wooden tray balanced carefully in her hands. A small kettle rested beside several cups along with a plate of freshly baked scones that immediately drew Matthias’s full attention despite his attempt to hide it.
+
+“You may as well eat while they are still warm,” Maris said as she set the tray down upon the table.
+
+The children needed little encouragement after that.
+
+Lucien pulled out one of the chairs near the window while Maris settled into the seat across from him.
+
+“Do you often receive customers earlier in the morning, Maris?”
+
+The older woman tapped her chin lightly as she glanced upward in thought. “Sometimes they come later as well, My Lord. After the day’s labor has ended.”
+
+Lucien’s gaze moved across the items arranged along the shelves lining the walls. “I see Talia took your advice seriously. Most of the things here were your suggestion.”
+
+Maris’s lips curved faintly at his words. “I am just glad we no longer have to wait for months on end to buy the things we need. And we have a place to sell our grain at a fair price as well. Stillmark Exchange has been good for Ashridge, My Lord.”
+
+Her gaze rested on him as she continued. “She's always so busy, I admire that energy of hers. And the two of you always seem to be doing something, like that strange kiln of yours.”
+
+Lucien took a sip from his tea before speaking. “There is always more to do as a lord.”
+
+Maris studied his face briefly. “Something troubles you, My Lord.”
+
+He exhaled softly through his nose. Of course Alicia’s mother would notice.
+
+Lucien set his cup down though his fingers remained resting against it. “There was a fight at the western fields earlier today. Your husband was informed first, then came to fetch me.”
+
+His thumb rubbed slowly along the edge of the cup. “It was between the people of Cragwatch and the western farmers. There seems to be...some resentment between them.”
+
+Maris fell silent as her brow creased at the news. “I believe it is more than that, My Lord. The western farmers...I assume you know their history?”
+
+At his nod, her gaze shifted toward the window, some of the warmth leaving her expression. “Even last year, there had been disagreements between them and some of the other villagers.”
+
+Lucien’s brow lifted as he considered her words. “I heard from Alicia that some of them came from the heartlands. But some of them are from the frontier as well.”
+
+Maris lowered her eyes as she released a soft breath. “They have worked difficult land together for too long.” She hesitated briefly before continuing carefully. “The previous lord never interfered whenever arguments happened between them.”
+
+At Lucien’s questioning look, she continued.
+
+“I do not know much, My Lord. But I heard it was to avoid appearing to side with either group. The reeve at the time said it would cause too many problems if a noble became involved.”
+
+In a way, the reasoning made sense.
+
+Even so, Lucien suspected the previous lord of Ashridge simply had little reason to care so long as the taxes remained unaffected. Frontier nobles rarely concerned themselves with disputes like the one now surfacing in Ashridge.
+
+Lucien rested a hand against his chin. “So the problem never truly disappeared. It simply remained contained until the village grew larger.”
+
+His finger tapped lightly against his cheek. “Then it runs deeper than I thought. It will not be solved so simply.”
+
+Maris tilted her head slightly as she regarded him. “Forgive my words, My Lord. But Alicia was right. You try to carry too much by yourself.”
+
+Lucien blinked before the corner of his mouth twitched faintly. “I was told your husband is much the same, Maris.”
+
+She let out a light chuckle. “Sometimes, yes. But I am there to remind him of it.”
+
+A trace of amusement passed briefly between them.
+
+Maris clasped her hands together atop the table. “But I believe their resentment is not as deep as you think.” Her eyes shifted toward the children seated at the far end of the room. “After all, Elin’s family is from the western fields as well. And look at them now.”
+
+After his initial hesitation, Matthias had begun eating the scones rather ravenously, crumbs scattered near his mouth. Elin tugged insistently at his sleeve before taking a cloth to wipe at his face, a small scrunch forming on her expression.
+
+The boy’s gaze shifted aside only to meet Lucien’s eyes.
+
+He immediately looked away, a faint flush spreading across his cheeks.
+
+Lucien pointedly shifted his attention away, sparing the boy any further embarrassment.
+
+The older woman’s expression had already returned to its usual warmth as she rose from her seat. “Matthias, would you like some more?”
+
+The boy perked up immediately despite his attempt to remain composed. “...If it's not too much trouble, Miss Maris.”
+
+Elin nodded as well before nudging him lightly.
+
+“Thank you, Miss Maris.”
+
+They spoke almost at the same time.
+
+He watched quietly as Maris moved about the table refilling cups and replacing the now emptied plate with another batch of scones.
+
+His gaze lingered briefly on the two children seated together at the far end of the shop.
+
+The resentment between the villagers still remained.
+
+But Matthias and Elin sat together as though those divisions had never existed at all.
+
+Lucien lifted his cup once more, letting the sound of their conversation fill the warmth of the shop.

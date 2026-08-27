@@ -1,0 +1,301 @@
+---
+id: c268a4d2-debc-5429-adc7-e4f7cd5224e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 161 - Hello, My Lord"
+slug: 0147-chapter-161-hello-my-lord
+partOf: mythrans-master-of-all-continued-completed
+position: 147
+ownLength: 2942
+unit: words
+publishedAt: 2017-02-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117005/chapter-161-hello-my-lord"
+royalRoadId: "117005"
+---
+
+“Elerlyth, what do I do?” Ren whispered, and she stepped in front of him, blocking him from view of the doorway.
+
+“Equip your armor and play to the crowd.” She whispered back. “Most of them haven't seen what it looks like in the daytime.”
+
+Ren smiled at her, and did as she said; then he concentrated on his personal Aura for all he was worth. “Ready.”
+
+Elerlyth stepped around him to follow, and Ren walked into the mansion. The crowd parted as much as they could to allow Ren to pass by. Some of them nodded their respect, others pat his shoulder, he shook some of their hands, and some only reached out to run their hands over his cloak. Everyone stepped back and avoided looking at Elerlyth, however. She smiled and bared her teeth, then heard several of them gasp.
+
+Oh, I wish I could feed on that! Elerlyth thought, as they walked down the hallway on the right to the large ball room, where they held the large parties. The door was opened, and Ren was surprised that there was no one inside.
+
+What a waste of space. Ren thought as they were ushered into the large, and practically empty room. An ornate throne was positioned at the far end, and various members of the aristocracy lined the sides of the red carpet that went up to where Lord Eric sat. Ren had been introduced to the Finance Minister and his wife before, but he didn't know any of the other ministers at all. Ren laughed mentally.
+
+Who'd have thought I'd be worried that I didn't know all of the ministers from the surrounding countryside?
+
+“Most people don't even meet the Lord controlling where they live.” Teepo chittered in laughter. “And you've been here how many times?”
+
+Ren smiled as he approached the throne, and stopped the expected 30 feet away. He saw Lord Eric's brief reaction to seeing Elerlyth walking behind him, and smiled. Lord Eric got his face under control before he spoke.
+
+“I bid you, welcome!” Lord Eric exclaimed. “The Hero of Aurora!”
+
+A popup appeared in front of Ren, and he blinked at it.
+
+Notice!
+
+Your accomplishments have been publicly acknowledged by Lord Eric, of the Principality of Aurora. You have been granted a new title: Hero of Aurora.
+
+This title grants you 10 levels to Etiquette, Fame: +5000, +5 levels to all Auras.
+
+Notice!
+
+Your excess Fame has been converted to XP.
+
+5,000 Fame x 10 = 50,000 XP
+
+Level Up x 2!
+
+You have gained 2 levels, and are now level 27. 20 stat points (10 per level) have been automatically allocated. You have unlocked: Elemental Grenade (Skill), Take Them Down (Party Ability)
+
+Ren's eyes widened slightly as he felt his Aura expand, and several people standing along the red carpet took in a deep breath. With Ren concentrating on his personal Aura, and wearing his Dire Wolf Hooded Cloak, they combined for an overall effect of 70 feet. The people had felt it as he passed by, but now it nearly covered the entire room.
+
+I need to remember to look at my gains later. Ren thought, as Lord Eric continued to speak.
+
+“In thanks for your service to Aurora and it's citizens, I have seen fit to grant you a Knighthood in my Principality of Aurora.” Lord Eric motioned to the side of the room, and one of the maids brought over a large scroll to Ren. It was Anabelle, the maid he'd almost had an encounter with after the party Lord Eric had thrown in his honor. She handed Ren the scroll, and he watched her as she stepped around him to stand slightly behind Elerlyth.
+
+“You get a title, and ownership of a small County near the outskirts to the west of the city. It's only 50 square miles, and only has one small village; but, it's all yours. You may do whatever you wish with it.” Lord Eric smiled. “Unfortunately, you'll need to build a home to live in. There's nothing suitable for a Knight to stay in... with his new maid.”
+
+Ren's eyes widened as he glanced back at Anabelle, then back to face Lord Eric.
+
+“Normally, there's a census taken of the population, to see who would be willing to serve under a freshly minted Knight; but, when she learned it was for you, she volunteered immediately.” Lord Eric said. “Before you say anything, this is a gift that can't be returned.” He chuckled. “Not that I have any say in the matter.” He waved to the people that had crowded into the doorways of the room, and they cheered.
+
+“Ren!” “Ren!” “Ren!”
+
+Ren sighed, opened the scroll, and read it.
+
+Land Deed for the County of Walin
+
+This deed grants you the ownership of fifty (50) square miles of claimed and unclaimed land on the border of the Principality of Aurora (map included). Copies can be obtained at the Library for 1 gold.
+
+New title!
+
+You have earned a new title: Lord
+
+This title is earned when 1,000 square miles (or more) is owned in any Kingdom. Within your lands, you have the ability: Word Of Law - anything you say will be considered law in the eyes of your citizens. This title also grants you: Etiquette +10 Levels; +10,000 Fame; +10 to all Auras; and Instant Recognition from anyone within your Aura's radius.
+
+Notice!
+
+Your excess Fame has been converted to XP.
+
+10,000 Fame x 10 = 100,000 XP
+
+Level Up x 2!
+
+You have gained 2 levels, and are now level 29. 20 stat points (10 per level) have been automatically allocated. You have unlocked: Hail Of Arrows (Skill), Tricks Of The Trade (Party Ability)
+
+Ren gasped as he felt a tingling sensation, and looked at himself. He was enveloped in a soft golden glow for a moment, his Aura jumped out to 90 feet, and everyone's eyes widened as they all now recognized him as a Lord.
+
+“What... what is this?” Lord Eric asked as he stood up. “I... I only granted you a Knighthood!”
+
+Ren flexed his hands, and smiled. “It appears that if you own enough land, you earn the title.”
+
+Lord Eric's mouth dropped open. “You... you...”
+
+“Thanks to your generous gift that can't be returned, I now own over a thousand square miles of land.”
+
+Lord Eric sat down on the throne. “This... this can't be happening...” He said and looked at Ren. “You're the thirteenth Lord.”
+
+“I'm the what?”
+
+“The thirteenth Lord. Our governing body has been deadlocked for decades because there's 12 of us. Six on each side.” Lord Eric said. “You can break the tie.”
+
+Ren looked down at the scroll. “I really can't give this back, can I?”
+
+“You can toss it in the ocean if you want, for all the good that would do you.” Lord Eric laughed. “Once you become a Lord, nothing can change it.”
+
+“Crap.”
+
+“My thoughts exactly.” Lord Eric said. “What do you plan on doing now?”
+
+“I'll get back to you about that.” Ren said, and nodded politely. “Thank you for honoring me today.”
+
+Lord Eric nodded back to Ren, and Ren turned around and walked out of the room, with Elerlyth and Anabelle the maid following close behind. People bowed to him as he passed, and Ren nodded to them in return. Once they were outside the building, Ren stopped when a delicate hand tapped him on the shoulder.
+
+“My Lord.” Anabelle said. “My things are still in my room upstairs.”
+
+Ren blinked at her a few times. “Yes. Right. Okay.” He said. “Is it all packed?”
+
+Anabelle nodded, and Ren looked at Elerlyth.
+
+“I'll be right back.” Ren said, then looked at Anabelle. “Lead the way.”
+
+Anabelle went back inside and Ren followed her up to her room.
+
+“It isn't much.” She said as she opened the door. “Only a few boxes. It will be a lot to carry at once.”
+
+Ren saw 6 boxes and stored them easily. “What about the furniture?”
+
+Anabelle shook her head. “Everything I own is in the boxes, My Lord.”
+
+“Then we can leave.” Ren said, and she led the way back down the stairs. They went outside to where Elerlyth waited, and Ren walked up the street, and back to his business. He held the door for the two women, and they went inside.
+
+“Lord Eric asked a good question.” Elerlyth said. “What are you going to do?”
+
+Ren took out enough wood to make a couch, and didn't speak for about 10 minutes. When he was finished of the couch, he sat down in the middle of it.
+
+“I don't know what I'm going to do.” Ren said. “For the first time... I... I really have no idea what to do next.”
+
+Elerlyth walked over and sat beside him. She cupped the side of his face and smiled. “Well, the first thing you should do is stop trying to figure out what to do.”
+
+Ren looked at her with wide eyes.
+
+“You're over-thinking too much.” Elerlyth said, and leaned in to gently kiss him. She leaned back a minute later and smiled. “That's better.”
+
+Ren grinned. “Like I could think of anything else with you doing that.”
+
+“I know.” She said and grinned back at him. “Take a deep breath. In. Out. In. Out.”
+
+Ren followed her instructions. “Okay.” He said. “No over-thinking.”
+
+Elerlyth nodded and he spoke.
+
+“I need to go to my new County to see the state it's in.” Ren said, then looked at Anabelle. “Then I need to find out what to do with you.”
+
+“I am yours to command, My Lord.” Anabelle said and looked around. “This looks a little sparse, but I suppose I could stay here.”
+
+Ren shook his head. “This is supposed to be my workshop and store front. The living area is upstairs.”
+
+“Will I be staying there, then?” Anabelle asked.
+
+Ren sighed and rubbed his head. “You can't. I use that living space when I'm here.”
+
+“Then where...”
+
+“I got it!” Ren hopped up from the couch. “Come with me.” He waited for Elerlyth to stand, stored the couch, then walked out the front door before either woman could ask where he was going. They followed him and saw that Ren was going to the Housing District.
+
+“Ren! What are you doing?” Elerlyth asked. “You can't buy her a house!”
+
+“I think My Lord can do what he wants.” Anabelle said in a neutral voice.
+
+“It's okay, Elerlyth.” Ren chuckled. “I've got an idea.” He went to the other side of the Housing District and went along to each lot, 7 in total, and bought the basic 2 storey house, but expanded it's size to fill each lot. He looked through the options, and removed a lot of the internal rooms, and added extra bedrooms instead. He paid the right amount with a large gratuity, and waited. A few minutes later, Jen and a whole bunch of her crew came down the street.
+
+“Ha! You again.” Jen said, as she came close. “You're coming up in the world.”
+
+“Hi, Jen.” Ren said. “It is possible to make the whole row of houses one building?”
+
+Jen opened the popup for the orders. “Why you sneaky little bugger.”
+
+Ren grinned and she laughed.
+
+“Yes, we can have it be one building.” Jen said. “It'll take a little longer that way, though.”
+
+“That's no problem.” Ren said. “I've got a bit of traveling to do and won't be back for a few hours anyways.”
+
+Jen nodded. “Yes, it should be done by then.”
+
+Ren looked at the crew, and they already had one of the prefabbed end walls standing in place. “Thank you for coming over so fast.”
+
+“I had to.” Jen said. “I want to get this finished before the orders for repairing the rest of the city comes in.”
+
+“Who's paying for all of that?” Ren asked, curiously.
+
+“Taxpayers of course.”
+
+Ren frowned. “Can you let me know how much it's going to be?”
+
+Jen looked at Ren in surprise. “I... I don't know if I'm allowed.” She said. “I've got the survey crews out and making the assessment. I'm supposed to submit it to the mansion by noon.”
+
+Ren took her hand and leaned in close. She looked down at him and he smiled at her.
+
+“I'd consider it a personal favor.” Ren said. “I have a token of appreciation, if you'll accept it.” He let her hand go and took the couch out of inventory.
+
+“Oh, my.” Jen said as she sat on it. “This is really comfy.”
+
+“I'm getting faster at making them.” Ren said. “I can make 2 matching chairs for it.”
+
+Jen looked at him and smiled slyly. “Are you trying to bribe me, Mister Lord?”
+
+Ren shook his head. “No, I'm just sharing things with a fellow shop owner.”
+
+Jen stood up and looked back at the couch. “I won't promise anything.” She said. “But... if I get an estimate that... say... was a lot more than the townspeople could handle...”
+
+“Then I would be greatly appreciative for anything you might share with me.”
+
+Jen nodded, and Ren turned to Anabelle.
+
+“You're welcome to stay here and wait for the Refugee Center to be built, or you can wait back at my business.”
+
+“At your business, My Lord.” Anabelle said. “Wait, did you say Refugee Center?”
+
+Ren nodded. “I bought the whole side of the Housing District and filled the lots. There should be enough beds and rooms for a good portion of the city.”
+
+Anabelle stared at him. “How is that possible?”
+
+Ren smiled. “There's only one large living room and kitchen at one end; the rest of the space of both first and second floors is all bedrooms full of beds.”
+
+“It's quite the idea.” Jen said. “I never thought there was enough room to make this large of a structure still left inside the city.”
+
+Ren chuckled. “Technically, you're right and there isn't; but you've allowed me to join the houses together to make it a single structure.”
+
+“Your taxes, though...”
+
+“Can I pay you for that?”
+
+“That would be too easy.” Jen laughed. “You'll need to make an appointment to see the Minister of Finance to pay the taxes.”
+
+Ren nodded. “Thanks, Jen. I'll see you later.”
+
+“More than likely.” Jen said and waved as Ren led Elerlyth and Anabelle back to the warehouse.
+
+Ren opened the door and they went inside. He ran up the stairs, Teepo dissolved into the ring, and Ren went through the portal. He went downstairs and fed Princess, gave her a few more pastries, and went back upstairs and through the portal. Ren nailed the cabinet shut, summoned Teepo to put on his shoulder, and ran down to the waiting women.
+
+“I have to go, so don't leave the building.” Ren said to Anabelle. “The door will lock and you won't be able to get back in.”
+
+Anabelle nodded, and Ren looked over at the workbench he'd left food out on. It was almost empty, so he added more food and looked at Anabelle.
+
+“Help yourself to the food. You can relax on the couch or in the chairs upstairs, but do not sleep in the bed.”
+
+Anabelle nodded. “I want to tell you something before you go.” She said. “Thank you, My Lord.”
+
+“For what?”
+
+“For not saying 'no, I don't want her'.”
+
+Ren put a hand on her arm. “I honestly didn't even consider saying no.”
+
+Anabelle took a deep breath, let it out, and smiled. “Then... thank you again, My Lord.”
+
+Ren smiled and left the building, taking Elerlyth's hand as he passed by her. Once they were outside and had walked down the street, she spoke.
+
+“She's really grateful to you.” Elerlyth said.
+
+“I know.” Ren said.
+
+“She wants to thank you...” Elerlyth smiled crookedly. “...privately.”
+
+“I know.”
+
+“Then why...”
+
+“I told you about what happened after the party that time.” Ren explained. “She's the maid.”
+
+“Oh.” Elerlyth said. “That makes sense, then.” She chuckled. “She's not just horny for you. She's grateful and horny.”
+
+Ren laughed. “Come on. If we hurry, we might find a cart and horse to rent.”
+
+Elerlyth smiled. “I know something you don't know.”
+
+“What's that?” He asked.
+
+“I stashed a horse and cart in the woods outside the West Gate.”
+
+“Then let's run instead.” Ren grinned and they ran for the West Gate of the city. They made it to the spot about 10 minutes later, and Ren helped her uncover the cart. He fed and watered the horse, and checked to see that everything was in good condition. They climbed in and Ren drove the cart into the countryside. He was disappointed in the lack of get up and go that the horse displayed, but he figured he was spoiled with the way Princess could handle the same load.
+
+“Yeah, we're both definitely spoiled.” Teepo said. “I can barely feel the wind in my hair.”
+
+Ren snorted a laugh, then had to tell Elerlyth why he laughed. “It's not as funny if you have to explain it.” He said. “It loses something.”
+
+“Yeah, sense.” Elerlyth said, then laughed.
+
+Ren grinned and flicked the reins again. If they were lucky, they could get there in only a couple of hours. If they were really lucky, he wouldn't find anything wrong and would be back a couple of hours after that.
+
+What are the odds of that, Teepo?
+
+“3 to 1.” Teepo said.
+
+Actually, that's pretty good. Ren thought. How did you come up with those numbers?
+
+“I made them up.” Teepo chittered in laughter.

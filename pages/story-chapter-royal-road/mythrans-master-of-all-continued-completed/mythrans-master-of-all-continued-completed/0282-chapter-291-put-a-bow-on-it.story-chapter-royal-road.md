@@ -1,0 +1,307 @@
+---
+id: 307c8d6b-1822-5b92-be64-57f6325eb1d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 291 - Put A Bow On It"
+slug: 0282-chapter-291-put-a-bow-on-it
+partOf: mythrans-master-of-all-continued-completed
+position: 282
+ownLength: 3168
+unit: words
+publishedAt: 2017-06-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144814/chapter-291-put-a-bow-on-it"
+royalRoadId: "144814"
+---
+
+Ren concentrated on his House Neram pendant as he arrived at the door of the restaurant, and Teepo flew over behind him.
+
+“Do you want me to scout inside?” Teepo asked.
+
+I don't think we should advertise that you exist. Ren said. At least not yet.
+
+“I understand.” Teepo said. “I'll scout out here.”
+
+Ren nodded and then remembered what the hostess of the restaurant had said about having a proper appearance before he would be allowed in. He equipped his House Neram red suit to replace his set of Travelling Clothes, ran his fingers through his hair, then went inside.
+
+“Good evening, sir.” The hostess said, then she noticed who it was. “A very good evening.” She gave Ren a warm smile. “Would you like to be seated?”
+
+“I'm tempted to eat; but, I only need to talk to Lady Neram for a couple of minutes.” Ren said. “Is she busy?”
+
+“Please wait here while I check.” The hostess said and left her post by the entrance. Half of the dwarves in the restaurant stared at him, and the other half looked at the people staring, then looked over to him to see what they were staring at. They had all stopped eating to do that, and Ren smiled at them.
+
+“It's a great evening.” Ren said. “I hope you all enjoy your meals.”
+
+Several of them nodded slightly and started eating again; but, more than two thirds of them kept staring. Nathalia came out of the kitchen at a fast walk, hooked her arm in Ren's, and tugged. Ren went with her out of the restaurant, and she hauled him around the corner of the building and out of sight of the road.
+
+“Why didn't you call me?” Nathalia asked.
+
+“I knew you were busy.” Ren said. “I came back a little early, then found out I had to make a bow for a friend.” He said. “It didn't take long, and here I am.”
+
+“Ren, I have to tell you something...”
+
+“This is that thing you wanted to tell me before I left.” Ren said, and she nodded slightly.
+
+“Narhilda scheduled a celebration.” Nathalia said. “Nearly the whole Kingdom is invited.”
+
+“What?”
+
+“It's not quite the whole kingdom, though. She only gave everyone two days notice and there was no way to get everyone here; but, it's all the Major and Minor Houses, officials, Guild members, their families, and a good portion of the population from the surrounding countryside. They'll be there in the common area outside the castle.”
+
+“Wow.” Ren said. “What's the celebration for?”
+
+“You.”
+
+“WHAT?!?”
+
+Nathalia chuckled. “Narhilda somehow received all the details about your last battle with the giants, and she's throwing a party to thank you for saving the realm.”
+
+Ren looked at her, and he could feel what she felt about it. “I have to go, don't I?”
+
+“Unfortunately.” Nathalia said. “All Major and Minor Houses are required to go.”
+
+“Well, damn.” Ren said. “I guess I better go.” He said. “When is it?”
+
+“In about an hour.”
+
+“I'm glad I didn't give you a chance to tell me about it before I left, then.” Ren said. “I still would have left, but I would have been worrying about it the whole time.” He smiled. “Will you be accompanying me?”
+
+Nathalia shook her head. “We can't do anything publicly, remember?”
+
+“Can we at least arrive together?” Ren asked.
+
+“Yes, but...” Nathalia sighed. “You're required to have a date.”
+
+“WHAT?!?”
+
+“I know.” Nathalia said. “Everything would have been fine if you and I were still under a marriage contract.”
+
+“Who the hell am I going to take as a date to this thing, that I don't want to go to in the first place, and isn't already a part of our House?”
+
+“I don't know.” Nathalia said. “Ereka has been looking for someone you can take, but the only viable option she's found was Lady Longore.”
+
+“The woman who runs the place where we get the paving stones from.” Ren said, and Nathalia nodded slightly.
+
+“I can't take her.” Ren said.
+
+“Why not?”
+
+“Because, I'm now a free male of House Neram.” Ren said. “She can claim me as her suitor if I ask her to a political function like this.”
+
+Nathalia sighed. “I forgot about that.” She said. “You don't even have to speak her name if you show up together in front of the kingdom's ruler.”
+
+Ren nodded slightly. “I am not going to enter into another marriage contract.”
+
+“What are you going to do?” Nathalia asked.
+
+“I'll think of something.” Ren said and took out the heavy bow he'd made for Tommy.
+
+“What is that?” Nathalia asked, then laughed. “It's bigger than I am!”
+
+Ren handed the bow to her, and she struggled to hold it. Her hand wouldn't fit around the grip and she had to hold onto it with both hands.
+
+“It weighs a lot!” Nathalia said and stored it into her inventory. “I assume this is going to the shop.”
+
+Ren nodded slightly. “It's for an Adventurer named Tommy. Give it to Anabelle to put behind the counter, and I'll have Tommy go there and pick it up.”
+
+“How much is it?” Nathalia asked.
+
+“Tell Anabelle that when Tommy comes in for it, she is to ask him how much money he has on him.” Ren said. “It's a joke, but she can find out how much he has.”
+
+Nathalia nodded slightly.
+
+“I'd say it should be a platinum coin, or 100 gold coins; but, depending on how much he has, tell her to accept anywhere from 20 to 50 gold for it.”
+
+“Ren, this bow...” Nathalia shook her head. “You can't just give it away.”
+
+“I've only got two Adventurer friends, and I made a special weapon for one a long time ago.” Ren said. “I really should have made something for Tommy at the time, too.”
+
+“How long ago was that?”
+
+“Just before I came to the Dwarven Kingdom.” Ren said.
+
+“Okay.” Nathalia said. “Giving him a discount because it's been so long is understandable.”
+
+“I would give it to him outright, just to see his reaction.” Ren said and smiled. “I won't be there to see it, though; so, having Anabelle play a bit of a practical joke on him will have to do.”
+
+“I'll make sure Anabelle understands what you want.” Nathalia said.
+
+“Thank you for doing this.” Ren said. “I know you're usually really busy this close to supper.”
+
+“Everyone's eating early, and we're closing for the night in about half an hour.”
+
+“Oh.” Ren said. “I'm sorry that I didn't wait.”
+
+Nathalia smiled, because she could feel that he really was sorry. “It's all right, Ren. I wasn't busy.”
+
+“I'll send Tommy a message and tell him to go and pick it up.” Ren said. “I'll be vague about it and say I have an important event to go to.”
+
+Nathalia chuckled. “I'll be back in a few minutes.”
+
+“Wait!” Ren said and gave her the set of Bracers of Archery. “Give him those, too.”
+
+“REN!” Nathalia said. “What did I just say about giving things away?”
+
+“That it's okay as long as I have a good excuse.” Ren said and grinned.
+
+Nathalia snorted a laugh and went into the restaurant to go through the portal so she could deliver the items to the shop.
+
+Ren opened up the messaging system and sent a message saying the bow was ready, that it had been a rush job, and that he had an important event to go to but had taken the time he needed to get ready to make it. As an afterthought, Ren added that he hoped Tommy liked the bow, and if he didn't, Ren would try and make him something else soon.
+
+Ren closed the messaging system and thought about the celebration tonight. He looked down at his House Neram suit and thought it wasn't sufficient enough to appear at a political event of this size, and looked through his patterns. It took a few minutes to find the patterns he wanted, and he smiled as Nathalia came out of the restaurant and walked over to him.
+
+“It's delivered.” Nathalia said. “Now we wait.”
+
+“I'm not waiting.” Ren said, stepped forward, and kissed her passionately. He wrapped his arms around her, and he let her feel how much he had wanted to do that since the first moment he saw her. Nathalia moaned as the kiss went on, and she let him feel how much she had wanted it, too. They were tucked around the back of the restaurant, so no one would see them; but, it was possible someone could and that added a bit more excitement to it.
+
+*
+
+Tommy ran down the street from the inn he and his girlfriend were staying in, and felt excitement.
+
+I hope it's something like Clint's bow bracers! Tommy thought as he came around the corner of the side street and ran up the main road towards the street Ren's shop was on. I know I can't actually use bow bracers like that, but they're so cool that I can't help but want them.
+
+Tommy activated his class special ability Sprint, since it was getting late and there wasn't anyone on the street. His speed doubled and he grinned as he ran at what he thought was a ridiculous speed. It burned through half of his Stamina bar, but he would have that regenerated by the time he walked back to the inn. He arrived at Ren's shop, went inside, and walked to the main desk.
+
+“Hi, I'm Tommy.” He said to the gorgeous black-haired woman behind the counter. I don't know who designed this game; but whoever it was, needs a raise. Tommy thought as Anabelle smiled at him.
+
+“My boss has graciously decided that he wanted to make you something.” Anabelle said. “It's something so fantastic that we can't have it out for display, or everyone would want one.” She said and looked around the shop. Tommy was the only one inside, and she smiled. “You're going to drool over this.”
+
+I'm already drooling. Tommy thought, as he admired Anabelle in her business suit and skirt.
+
+“Are you ready for this?” Anabelle asked, and Tommy nodded. She picked up the heavy bow and put in on her desk.
+
+“What the hell is that?!?” Tommy asked, surprised.
+
+“Do you have Identify?” Anabelle asked, and Tommy shook his head. “This is the Archer's Heavy Bow of Improved Lightning.” She said, then explained what it did.
+
+“You've gotta be kidding me!” Tommy said. “Ren made that?”
+
+“Of course he did.” Anabelle said. “This is not a resale shop. Everything in here has been custom made by skilled hands.” She smiled. “In fact, that also includes the displays, desk, second floor, shelves, the forge, and even the lights.”
+
+“Wh-what?” Tommy was surprised. “Ren made everything?”
+
+Anabelle nodded. “It's been his passion to craft, and he's become very good at it.”
+
+“Geez, I thought he just opened the place and added the stuff to sell.”
+
+Anabelle shook her head. “His hands have touched everything in this shop.” She said and smiled sweetly. “Everything.”
+
+Tommy looked her up and down quickly. Ren, you lucky dog! “How much is the bow?”
+
+“That depends.” Anabelle said. “How much have you got?”
+
+Tommy looked at her with surprise clearly on his face. No one's ever asked that before. He thought. Should I lie? He looked around, and there was still no one else in the shop. Can she tell if I lie?
+
+Anabelle watched the thoughts flow across Tommy's face, and she held in her laughter. Ren was right! She smiled slightly. This is really fun to tease him like this!
+
+“Um... I...” Tommy sighed as he saw her smile, and checked his coin pouch. “I've got 57 gold, 13 silver, and 89 copper.”
+
+“Then I'm sorry.” She said, sadly. “It's 100 gold, or 1 platinum coin.”
+
+Tommy's face fell and he looked at the bow. If I save up for a while... a really long while...
+
+“Oh! I almost forgot!” Anabelle said excitedly. “On this particular item, we're running a special for Adventurers that are friends with the business owner.”
+
+Tommy whipped his head up and stared at her. “What... what kind of special?”
+
+“It's not much.” Anabelle said. “The special is only 80% off.”
+
+“It's WHAT?!?” Tommy yelled, and Anabelle grinned at him.
+
+“That's right. Just for you, it's 20 gold coins.”
+
+“You're joking!” Tommy said. “A platinum is a steal for it!”
+
+“I can only sell it for what he said I could sell it for.” Anabelle said, and didn't say she could have charged the full price if she wanted. She smiled. He trusts me so much.
+
+“He's out of his mind.” Tommy said, and took out 20 gold.
+
+“Don't forget that it binds on equip.” Anabelle reminded him. “Even if you die, it's not eligible to be dropped as loot.”
+
+“That's why I said a platinum was a steal.” Tommy said and stored the bow. “A weapon that you can never drop?” He shook his head. “I can't believe he sold it for only 20 gold!”
+
+Anabelle lifted up an arrow and handed it to Tommy. “The dummy is set up at the end of the shop.” She said and pointed. “Can you make it a head shot?”
+
+Tommy grinned and equipped the bow. “Geezus Cripes!” He exclaimed as he got the popup for it. “It doesn't have set requirements!”
+
+Anabelle nodded. “He assumed since it was for you, he didn't want it limited by a level cap or stats that you may or may not have.”
+
+Tommy shook his head again and took the arrow. “I knew he was a little crazy for going out on an adventure at only level 2, when everyone else was level 30 to 60.” He knocked the arrow in the middle string. When he pulled it back, he struggled a little bit with it and smiled. The arrow was surrounded by a twisting bolt of Lightning, then he aimed for the head of the training dummy and let the arrow fly.
+
+The arrow crossed the 30 feet to the target instantly, shattered the head of the training dummy in a burst of lightning, went through the paving stone behind it and broke it apart, then went through the outside wall and into the wall of the building across the street.
+
+“Good lord!” Tommy said, and looked at the bow.
+
+“Do you like it?” Anabelle asked. “Is it satisfactory?”
+
+“Satisfactory?” Tommy looked at her with wide eyes. “It's fucking awesome!”
+
+Anabelle laughed. “He'll be happy to hear that you liked it.”
+
+“I'm ecstatic!” Tommy said and walked over to her. “Please tell him I appreciate this very much.”
+
+“I will.” Anabelle said.
+
+“Thanks a lot.” Tommy stored the bow and turned to leave.
+
+“Sir?”
+
+Tommy stopped and turned back. “Yes?”
+
+“You forgot the bonus item that you get with a special purchase.” Anabelle said and put the Bracers of Archery on her desk.
+
+“You have got to be fucking kidding me!” Tommy said and stared at her, and Anabelle laughed.
+
+*
+
+“Ren, we... we have to stop...” Nathalia said as Ren kissed her earlobe and massaged her backside. “We're... out in public.”
+
+Ren let her go slowly, and stepped back. “I'll meet you at the house later to head to the castle.”
+
+Nathalia nodded slightly, and then Ren got a message from Tommy.
+
+Tommy:  You are f*****g AWESOME!
+
+“Well, I think Tommy liked it.” Ren laughed. “He said I'm awesome.”
+
+“You are.” Nathalia said. “See you soon.”
+
+Ren gave her another quick kiss and ran out to the road and then back to the Keep and up to the workshop. He had finally figured out what he was going to do for a 'date'; but, he would need new clothes for it to have the impact that he wanted. He took out the table he'd had at the battle of the giants, and chose the suit pattern for himself.
+
+It was one he had adapted from Thern Neram's designs for royal wear, and he altered it so that it stood out as much from normal royal wear as his House Neram Suit was different from a normal suit. He dyed it a royal purple, added gold accents, and stored it. He recalled one of the dress patterns Sally had given him, and altered it to match the suit he had just made. He made 5 of them, dyed them the same royal purple, added gold accents, and stored them
+
+Ren took out 6 diamond brooches and thought about the time he had found the 5 personal maids inside the hidden room. He smiled as he imagined a gold plate as it flew towards him, then enchanted all 5 brooches with the new design.
+
+“Nice.” Ren said then made a new dress for Nathalia and one for Ereka. He dyed them both House Neram red, and stored them. Teepo? Hows my time?
+
+“Nathalia just got home.” Teepo said. “You might have 20 minutes.”
+
+Thanks. Ren thought and ran into the forge room. This has gotta look good. He went to the forge with gold in it, and poured out enough to make 5 small tiaras and attached a 1 inch wide diamond oval to them. He took out a handful of 1 gold coin diamonds and put them in a line on either side of the large diamond. He smiled as he quickly enchanted the 1 inch wide diamond ovals in the center of each tiara with a single Illumination Rune. It only took a second with his Enchanting up so high.
+
+Ren made a quick necklace with several diamonds of different sizes, then made 4 more once he had the pattern and let the system make them. He enchanted the center diamonds with Illumination runes as well. The last thing he did was make 5 pairs of nice comfortable shoes and stored them.
+
+“Whew.” Ren said, when Teepo said his 20 minutes was up. “I just made it.”
+
+Ren left the workshop and went to the building beside the workshop, then knocked on the door.
+
+“Just a minute.” A woman's voice said, and a moment later, she opened the door. “REN!” She exclaimed. “You're back!”
+
+“I am.” Ren said. “I also heard you've already met Nathalia.”
+
+She nodded slightly. “She's really nice.”
+
+“And scary.” One of the others said. “I like her.”
+
+Ren chuckled. “I'm glad, because you're going to be seeing a lot more of her in a few minutes.”
+
+“Why?”
+
+“I've been invited to a celebration, and I'm required to take a date.” Ren said.
+
+“You can't!” One of them said. “It's forbidden!”
+
+Ren laughed. “I'm not taking her, so don't worry about me causing a scandal from that.”
+
+“Then who are you taking instead?” The one holding the door open asked.
+
+Ren grinned as he stepped into the building. “The 5 of you.”
+
+“WHAT?!?” The 5 women exclaimed together.

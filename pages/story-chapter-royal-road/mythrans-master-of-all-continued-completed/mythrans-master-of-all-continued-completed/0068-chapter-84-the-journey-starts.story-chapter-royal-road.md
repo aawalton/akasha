@@ -1,0 +1,419 @@
+---
+id: ead313fd-0933-5378-9649-696ca5bca98e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84 - The Journey Starts"
+slug: 0068-chapter-84-the-journey-starts
+partOf: mythrans-master-of-all-continued-completed
+position: 68
+ownLength: 5027
+unit: words
+publishedAt: 2016-11-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103070/chapter-84-the-journey-starts"
+royalRoadId: "103070"
+---
+
+Ren walked out past the protective barrier and met the dwarf. “I never did ask your name.”
+
+“It's Gausen.” The dwarf said. “I'm the ambassador for this city.”
+
+Ren stopped walking and stared at the dwarf. “You're kidding!” He said in disbelief. “You're the ambassador?!?”
+
+Gausen nodded.
+
+“You don't get out much, do you?” Ren asked.
+
+The dwarf shook his head. “I just got the job before coming here.”
+
+Ren's eyes widened. “I don't know if I should be honored to be your first contact, or glad that you didn't succeed in beating me up first.”
+
+Gausen laughed. “Go with the honored part. Despite my spectacular loss, it was a good fight.”
+
+It was Ren's turn to shake his head. “Should I ride my mount?”
+
+“No... and before we leave, you better take this.” Gausen said and opened the dufflebag.
+
+“What is it?” Ren said, a little wary.
+
+The dwarf had difficulty digging out a medium sized anvil and the stand for it from the bag.
+
+“What the hell?”
+
+Gausen was a little out of breath when he spoke. “We had someone pick it up on the way here. It seemed like the best way to meet you and conduct the test.”
+
+Ren shook his head again. “Why did you make it so difficult on yourself? You showed up early anyways. I wasn't expecting you for at least another few days.”
+
+Gausen smiled. “That's why we always show up early, to catch people unprepared to meet us.”
+
+Ren stored the anvil and stand into inventory.
+
+“You're not going to put it in your shop?”
+
+“No. Let's get going.”
+
+Gausen shrugged. “This way.”
+
+Ren followed the dwarf down a side street to the main road by the Artesian District, but instead of turning west, Gausen turned east.
+
+“Where are we going?” Ren asked.
+
+Gausen half turned and smiled. “It's a surprise.”
+
+It's not that much of a surprise. Ren thought and followed Gausen.
+
+“Why not?” Teepo asked.
+
+You'll see in a minute. Ren thought to his friend.
+
+They reached one of the east gates and went through it.
+
+“Oh, I see what you mean.” Teepo said.
+
+It was the dockyard. The group walked down to the first dock and then along the wooden walkway. Princess' hooves sounded loud on the wood as the group walked around other people that were working on the dock, loading and unloading ships. When they got to the end of the dock, Ren saw what it was that they'd be traveling in, and shook his head.
+
+“Seriously?” Ren asked. “We're going across the water in that?”
+
+“What? Did you think we made things for ourselves the same size as everyone else?” Gausen said and laughed as he walked over the gangplank onto a dwarven ship. It looked exactly like the regular ships that were tied along the dock, the only difference... it was half the size.
+
+“Where will I be staying?” Ren asked.
+
+“There's a small cabin for you in the back.”
+
+“What about my mount?” Ren stopped walking at the end of the gangplank.
+
+“I'm sure we can find room in the hold for it.”
+
+“I'm sorry, but no.” Ren said.
+
+“W-what?” Gausen said, surprised.
+
+“I won't leave my mount all alone in the hold for the trip.”
+
+“Why not? It's just a mount.”
+
+“No, she isn't.” Ren said. “She's my mount and she's staying with me.”
+
+Gausen looked at Ren like he was crazy. “You... you want to keep your mount in your cabin with you?” He asked, shaking his head. “Are you crazy?”
+
+“That depends... how long is the voyage?”
+
+“I can't tell you that. Dwarf secret.” Gausen answered.
+
+Ren smiled. “Then, yes... I want to keep her with me.”
+
+“I'll ask the captain.”
+
+“I can wait.” Ren said. Gausen went onto the ship and disappeared into the interior as Ren waited. Princess looked at him, and he shrugged.
+
+“I literally just got you. Putting you in the hold for however long we'll be on the boat, would be both cruel and negligent on my part.”
+
+Princess huffed and nodded.
+
+“I'm glad that you agree.” Ren said and smiled. Gausen came back with an odd look on his face.
+
+“The captain said that he doesn't want animals in his cabins... but if you're so worried about it, you can stay in the hold with it.”
+
+“That's fine.” Ren said and laughed at Gausen's shocked look. “Did you think I'd demand the captain accept my terms or I'd refuse to go?”
+
+Gausen nodded.
+
+“I'm not that full of myself.” Ren said. “I'll stay in the hold, if there's room.”
+
+Gausen looked at Ren and believed. “You really are crazy, aren't you?”
+
+Ren laughed and led Princess up the gangplank and asked where to get to the hold. Gausen led him to the front of the ship to a big square opening. A group of dwarves were lowering a large pallet of goods down into the ship, using a single pulley.
+
+“You really should have a second pulley on that.” Ren said and tied Princess to the side of the boat, out of everyone's way. “I'm going to help them load, then get you settled, okay?”
+
+Princess huffed and Ren pat her neck.
+
+“Let's get this done!” Ren said and walked over to the empty pallet that they just pulled up out of the hold. He enchanted it with an Antidark rune, making it and anything they load on it 16% lighter, and joined the line of dwarves loading the pallet. Once the deckmaster waved that the pallet couldn't hold anything else, Ren joined the ones holding the rope. The dwarves were all surprised at how much lighter the load seemed to be with only one more person on the rope, but they didn't question it and the work went that much faster.
+
+After all the supplies were loaded and stored properly to balance the ship on open water, Ren led Princess onto the pallet and got on himself. He gripped the rope to keep his balance and the dwarves lowered him and his mount into the hold. Ren disenchanted the pallet and stepped off with Princess, then asked the holdmaster where he should put his mount's crate. The holdmaster led Ren to a dark corner of the hold and said he could do whatever he wanted there. Ren thanked him and the dwarf looked at him like he was crazy, then walked away. Ren chuckled and took out the crate that was to be Princess' home and slid it next to the wall.
+
+“Ruck, do you want to hang on the wall or something for a while? I need to be able to move freely while I work.” Ren said.
+
+Ruck gave him an 'okay' gesture and crawled off his back and then over to the wall next to the crate.
+
+“You can look around if you want, but just be careful if you do.”
+
+Ruck gave the 'thumbs up' gesture but stayed on the wall.
+
+Ren examined the wall that the crate was up against, and since the ship was curved on the outside and the wall he was examining was vertical, he assumed it wasn't an outside wall and could nail into it. Ren took out some wood and made braces to attach to the wall and to the crate, to stop it from moving when the ship rocked back and forth... which it would undoubtedly do when they were out on the water. Once that was done, Ren took out some cloth, sewed up a giant pillow, and stuffed it with cotton batting. When it was nice and fluffy, he sewed it closed and placed it inside the crate. Princess had watched as Ren worked and didn't move, even though Ren had neglected to tie her onto anything. When he put the pillow inside the crate, Princess looked at him.
+
+“I know it's just a pillow, but at least you don't have to lay down on mangled straw... or just the bare wood.” Ren said. “Go ahead. Try it.”
+
+Princess gently stepped into the crate and turned around. She pawed it a little with her hoof, careful to not tear the cloth, then folded her legs and plunked down onto it.
+
+Ren laughed. “I'm glad you like it.” He then made one for himself, after modifying his bed design to remove the posts and headboard, leaving just enough space for the stuffed mattress. He didn't have the resources to make a bedspring. Ren laughed again. I'm getting spoiled if the first thing I thought is that I don't have a proper bed to sleep in.
+
+Ren stood back and surveyed his work. “That's not too bad.” He said, then turned to Princess. “Are you hungry?”
+
+Princess huffed and nodded.
+
+“I'll go see what's for lunch.” Ren said and walked around the hold. “There were a dozen dwarves down here, and they didn't go up on the pallet lift before we came down... so I know there's a hatch or something around.”
+
+Teepo? Want to take a look while I search, too?
+
+“Sure, Ren.” Teepo said and hopped off his shoulder. “Then I can explore the ship.”
+
+They searched the hold from end to end, but couldn't find anything.
+
+“I know there's something I'm missing.” Ren said, then slapped his forehead. He activated Enchanted Eyes, then laughed. Hidden entryways were all along the hold. After activating both Read Rune and Decipher, he saw the Warding rune to help hide the opening, the Protection rune, the same rune he saw in the jail cell (he still didn't know what it was), and another one he didn't know.
+
+Ren concentrated on the nearest hidden opening. “Deactivate.” He was surprised when it actually disappeared. “Ha. Go figure.” Hey, Teepo. I found a way out.
+
+Teepo skittered over and Ren picked him up.
+
+I'll drop you off at the top of the stairs.
+
+“Thanks, Ren.”
+
+Ren stepped into the opening and climbed a couple steps, then turned and concentrated on the enchantment. “Activate.” and the wall appeared again. “Neat.” Ren said and climbed the rest of the steep but shallow stairs and arrived up on deck through one of the many portholes in the side of the main cabin area. He put Teepo on the wall and Teepo skittered away. Don't get lost!
+
+“Lost? Me?” Teepo chittered in laughter as he crawled into a crack in the wall.
+
+Ren shook his head and walked around. Dwarves were working hard to get the ship ready to sail again. He offered to help, but they told him that he didn't know anything about how to handle a ship. Ren couldn't argue with that, then went inside the main cabin area. The first dwarf he came across, he asked where the kitchen was. The dwarf just pointed and kept going. Ren shrugged and followed the path the dwarf pointed. Even though the ship looked small on the outside, there was surprisingly a large amount of space inside. It took Ren a few tries of locked doors, but he eventually found the room where meals were served.
+
+Ren walked over to the serving window that looked like the one in the mansion, and saw a female dwarf working in the kitchen. She had her brown hair tied back into a braid, and it went all the way down to her ankles. Unlike the male dwarves that Ren had seen so far, she was actually well-proportioned for her size and was only slightly stocky. Her chest however, was quite large in comparison to her 4 foot tall body. It was quite a contrast, Ren had to admit to himself, as he saw that her apron hugged those curves closely. She wore a fancy green dress under the apron, much to Ren's surprise.
+
+Most kitchen workers wore shirts and pants for the ease of movement. Ren thought.
+
+“Pardon me, but can I ask you a question?” Ren asked.
+
+“Obviously, you can.” She said. “You just did.”
+
+Ren chuckled. “Okay... are you serving lunch, what is it, and can I have enough for 2 people?”
+
+She looked at Ren with raised eyebrows. “No, nothing, and no.” She said, answering his questions in order.
+
+Ren chuckled again. “Nothing for lunch. Got it. Is there any chance I could get something to eat, then? I didn't buy any food before coming to the ship.” He pulled out the 3 dry rations packs that he had bought weeks ago. “These are all I have.”
+
+The dwarf frowned. If Ren's guess was correct, she should automatically hate these things as a cook.
+
+She huffed. “Fine. What would you like?”
+
+Ren smiled. She sounded a lot like Princess when she huffed like that. “I'd ask you what you have ready, but since you just said you don't have anything ready... I have a better idea. Do you think it would be okay if I came into the kitchen to have a look?”
+
+The female dwarf opened her mouth and looked like she was about to rant and rave at Ren, until Ren pulled out his apron and put it on. Her eyes widened and she closed her mouth, because the apron he now wore matched her own. She told him to come to the next door in the hallway and that she'd let him in.
+
+“Thanks!” Ren said and walked around to the kitchen's door and knocked. She let him in and he looked around. “This is nice.” He walked over to the large stove and saw that it was the same as the one at the mansion, and it took up nearly half of the wall in the tiny kitchen. “How in the world did you get this thing in here?” Ren asked and then looked at her. “You're burning wood on a ship?”
+
+The female dwarf laughed. “How else are we supposed to get heat to cook? Wood is what we can burn in it.”
+
+Ren reached out and felt the stove. It was cold and Ren smiled. “Well.. it would depend on if you had access to an enchanter.”
+
+The female dwarf looked at Ren like he was crazy.
+
+I've been getting that look a lot lately.
+
+“We're only a small merchant ship. We could barely afford the cost of the stove when the ship was built.” She said. “We could probably afford an enchantment now, but why? Wood is pretty much free.”
+
+Ren opened up the bottom tray of the stove and started taking out the wood. He'd done it several times a day at the mansion to clean it out, since no one else wanted to do it. Ren smiled as he thought about the girls ganging up on Tait to make him do it.
+
+“What are you doing?”
+
+“Obviously, I'm removing the wood.” Ren said. “Are you the only cook on the ship?”
+
+The female dwarf nodded.
+
+“May I ask your name?” Ren asked as he glanced at her.
+
+She looked a little flustered for a moment, and waved a hand in front of her face a few times. “N-N-Nathalia.”
+
+Ren smiled and cleared out the last piece of wood, then stored all of the wood into inventory to get it out of the way. Thinking about the mansion, he remembered that Donna wouldn't let him alter the stove in their kitchen because she didn't think changing it would be of enough benefit to matter; and the royal woodcutters would lose their jobs. Ren didn't want to cost anyone their job, so he didn't do it. That wasn't a worry here, since it was a ship, and it would just be one less thing for the dwarves to do when they hit land. Ren took out three stone bricks, enchanted them with a double Fire rune glyph, and concentrated hard on Nathalia. He placed them into the bottom tray where he'd removed the wood.
+
+“Come here, please.”
+
+Nathalia caught her breath. How can he be so forward! She thought. First he asks me my given name, and now he wants me to approach him as he kneels on the floor!
+
+Ren waved her forward, but Nathalia shook her head. Ren wasn't sure what was wrong, but seeing that she was a little uncomfortable, he stood and stepped away from the stove.
+
+“My apologies.” Ren said and bowed slightly.
+
+Nathalia gasped. And now he's giving me Honor! She thought, shocked. Who is this man?!?
+
+Ren still wasn't sure what was going on. “If you go to the stove and say 'Activate', the stones will light and heat the stove.”
+
+“W-w-what?!?” Nathalia said and leaned on the table she stood next to. Now he's giving me an expensive gift! She waved her hand in front of her face again and tried her best to not pass out. I'm only 30! For a man to be doing such things for me so soon... I... I... don't know what to do!
+
+“I've enchanted it so you won't need wood.” Ren said. “To turn it off, say 'Deactivate'.”
+
+Ren stood there and waited for Nathalia to recover from whatever it was she was going through. “Are you all right?” He asked after a few minutes.
+
+“I... I'm fine. Thank you.” Nathalia said and smiled.
+
+Ren relaxed. She seems to be over it, whatever it was.
+
+Nathalia went to the stove and said 'Activate'. The stones lit and the flames burned high enough to warm the stove almost immediately. She bent over to open the stove's door, and as blast of heat hit her in the face, she smiled.
+
+“It's hot already, and I didn't even have to stoke it!” Nathalia said, excitedly.
+
+“You never have to stoke it.” Ren said and smiled at Nathalia's shocked expression.
+
+“W-w-what did you say?”
+
+“As long as you don't damage the stones, or remove them from the stove, they'll work for as long as you want them to.”
+
+Nathalia's mouth fell open as she stared at Ren, who chuckled.
+
+“I didn't put a time limit on them, so you can keep saying the commands and it will work.” Not that I know how to put a time limit on them, anyways. Ren thought.
+
+“You're serious? They'll always work?” She asked, dumbfounded.
+
+Ren nodded. Nathalia stood up and stepped close to Ren. In one swift motion, she stood up on the tips of her toes, wrapped her arms around Ren's neck, and kissed him.
+
+Oh, crap.
+
+“What is it?” Teepo asked.
+
+Another woman is kissing me. Ren thought and held his hands out in a 'I'm not touching her' gesture, knowing full well that someone... namely Stella... was watching the game feed right now. He also did not kiss her back in any way.
+
+“Way to go, Ren!”
+
+Teepo, this isn't a time to celebrate!
+
+“Oh... I thought you'd be happy about it.”
+
+If I didn't have a girlfriend, I probably would be happy about it. Ren thought.
+
+Nathalia wasn't wearing a bra, and Ren could feel a lot of her through her green dress, the thin aprons they wore, and his shirt.
+
+There's apparently a shortage of bras in this game. Ren thought and Teepo chittered in laughter.
+
+A moment later, Nathalia broke the kiss and stepped back with a deep red blush on her face.
+
+“Thank you very much for the gift.” She said and ducked her head slightly.
+
+“You're welcome.” Ren said.
+
+“You can help yourself to... anything... in the kitchen.” Nathalia said and held her hands together in front of her waist, and turned slightly from side to side.
+
+Ren didn't know what to say to that, and after what he thought was a really long awkward pause, he looked around the kitchen to see what they had in stock.
+
+“There's not a lot here for a quick meal.” Ren said and looked at Nathalia. “You only make big meals, don't you?”
+
+She nodded.
+
+“What are you making for supper?”
+
+“I've got a side of boar in the pantry, and I'd planned on mashed potatoes. They're hard to peel and take forever to do, so that's what I was doing when you showed up.”
+
+Ren looked at the table she stood near and nodded. There was a half dozen peeled potatoes and a pile next to that, chopped up. “I'm sorry that I interruped you.” Ren said. “I'd like to make something up, if you don't mind my intrusion.”
+
+Nathalia shook her head and smiled. “I don't mind at all.”
+
+Ren went over to her and grabbed a large cookie sheet from the rack above the cabinet by the table the potatoes were on. He put the cookie sheet down on the table, as there was still lots of room left. Ren reached for a knife on the rack and examined it. He nodded and started to peel potatoes, then chopped them up into slices.
+
+“What are you doing?” Nathalia asked.
+
+“Making one of my favorite things.” Ren said and chopped the slices into french fries. “I can't cook them like I want to, at least not yet, but baking them works almost as well.”
+
+She watched him work and studied what he was doing. He can cut them up so fast!
+
+Ren filled the cookie sheet with them, sprinkled a bit of seasoning on them, and put them in the stove. “They're pretty thin, so it won't take long before I have to flip them.”
+
+Nathalia stared at him again like he was crazy, and Ren chuckled.
+
+“Don't worry. There's a method to my madness.”
+
+A few minutes later, Ren took out the sheet and used a spatula to flip them, added a bit more seasoning, and put them back in. After another few minutes, he took out the pan and the french fries were a nice golden brown. Ren stirred them up a little, then grabbed a big bowl from the shelf under the table. He slid the fries into the bowl, ate one, and then held the bowl out to Nathalia.
+
+“Want to try them?” Ren asked and watched her face as she tried to reach for one.
+
+Now we're sharing food! She thought.
+
+Ren saw consternation, curiosity, denial, longing, and a few other emotions that went by too fast to read. Nathalia eventually made up her mind, and took one. Her face lit up and she ate it quickly, then took another one. “They're delicious!”
+
+They're not as good as deep frying them, but I haven't found a good oil to use for frying. Ren thought as Nathalia took another french fry.
+
+“What are they called?” She asked.
+
+“Fries.” Ren said.
+
+“F-fries. Fries. Fries!” Nathalia said and took another.
+
+“I have to take these to my friend, but I'll be right back.”
+
+Nathalia looked a little sad, but nodded.
+
+“I'll make more.” Ren said. She smiled and went back to work peeling potatoes. Ren took the big bowl of fries to the hold and gave it to Princess. She looked at it skeptically, until Ren took one and ate it.
+
+“Mmm, delicious!” He said and rubbed his belly.
+
+She sniffed them, gave one a lick... and then tried to eat the bowl.
+
+“Hold on! HOLD ON!” Ren said, laughing. “Take your time! Please, don't eat the bowl. I'll bring more later.”
+
+Princess ate the fries at a pace that she considered slow, but Ren pretty much saw her suck the things into her mouth and they were gone. He laughed again, shook his head, and picked up the bowl. After looking for teeth marks, he left the hold and went back to the kitchen. Ren knocked on the door and Nathalia let him in. He put the bowl on the floor next to the door and went to work. He made another batch of fries for Nathalia, that she ate while Ren helped her peel and chop up the potatoes. When they were all chopped up, she brought out a giant pot and tied a rope to it, then opened a window.
+
+“What are you doing?” Ren asked.
+
+“Getting water for the potatoes.”
+
+Ren stared at her. “You... you're getting water... from outside of the ship?!?”
+
+“Where else would I get it?” Nathalia asked. Ren looked at the sink and saw the tap. She followed his gaze and chuckled. “Where do you think the water in that comes from?” She asked and laughed at Ren's expression. “You don't travel on ships much, do you?”
+
+Ren shook his head. “This is my first time.”
+
+Nathalia looked at him with wide eyes. “I don't know if I should tell you that you're going to have a great time, or warn you that you might be sick as a dog.”
+
+“I'm voting for having a great time.” Ren said. “I get a vote, right?” He laughed.
+
+Nathalia shook her head. “You really are crazy.”
+
+Ren smiled. “You go back to peeling, I'll fill the pot.”
+
+She shrugged and handed Ren the rope and pot. She always had trouble pulling the pot back in anyways. Ren took out another raised platform ring and placed a finger on the front of it, enchanting it with a quadruple Water glyph. He put it on and held it over the pot. Activate. Water poured out of the ring and filled the pot and a moment later Ren gave the second command. Deactivate.
+
+“Where do you want it?” Ren asked.
+
+Nathalia looked at him with surprise on her face. She'd only looked away for a minute and he'd already brought a full pot of water up from outside.
+
+“On the stove, please.”
+
+Ren put it there and the water slowly started to heat up. Looking at the pot with his Vision of Impurity, he saw a flaw in the metal near the top. He examined the pot and was surprised that it had barely any durability left. Ren took out his blacksmith's hammer and held it to the pot.
+
+“Repair.” He whispered. The pot glowed for a moment and was fixed. It made Ren wonder what else needed repairs so badly. Using his Vision of Impurity and examining everything he could see or find, he repaired anything that needed it.
+
+Nathalia had watched Ren out of the corner of her eye the whole time, as he went around and touched everything in the kitchen. She'd almost protested out loud several times as he dug out every single piece of metal he could find.
+
+No one has ever touched all of my things like that! She thought and tried to get mad about it, but as she watched him, she couldn't bring herself to hate him. He took out each item, gently ran his hands on it, almost caressing it, and held onto it for only a moment. She thought she saw a few things glow, but she dismissed that, because she was straining her eyes trying to watch him and assumed that her eyes were playing tricks on her.
+
+When Ren was done repairing everything, he made up another batch of french fries for Princess, and then another for the captain. The potatoes finished boiling. He didn't even ask Nathalia if she wanted him to do it, he just grabbed the strainer and set it over the sink, took the big pot of potatoes, and drained them. Even though he'd only worked in the mansion's kitchen for just over 4 days, He'd done it so often that it was almost automatic. He reached for the potato masher and made short work of the boiled potatoes.
+
+“Milk?” Ren asked a shocked Nathalia.
+
+He didn't even blink as he mashed those potatoes! How did he do that so fast? She thought and pointed to the pantry.
+
+Ren found the milk and grabbed a slab of butter from the pantry, too.
+
+“What are you doing?” Nathalia asked.
+
+“Making mashed potatoes.” Ren said.
+
+Milk and butter? In potatoes? She thought and frowned.
+
+Ren chopped up the butter and mashed the potatoes a little, then poured in a good amount of milk. He pumped his hand up and down, mashing and mixing at the same time, and soon the potatoes were a white fluffy mass that looked like clouds. Ren grabbed a spoon from the rack hanging over the table and scooped out a little bit.
+
+“Here. Try this.” Ren said and held the spoon out for her. Nathalia blushed a little, and held her mouth open. Ren fed her some of the mashed potatoes and saw her face light up.
+
+“That's really good!” She said. “When I saw you put on your apron, I figured you knew how to help out in a kitchen; but, I had no idea that you knew how to cook!”
+
+Ren laughed. “I'm just learning, so I can only do a few things.”
+
+The boat rocked from side to side and Nathalia stumbled. She would have fallen onto the hot stove, but Ren caught her and pulled her away from being burned. “Are you alright?”
+
+Nathalia nodded as the boat steadied. “We're casting off.” She said, and blushed as she realized that Ren had caught her before she realized she was even falling. He's so gallant!
+
+Ren let her go and she held onto the table. “I have to get the side of boar into the stove for supper.” She said. He nodded and went to get it. He came back carrying it and put it on the table, like it weighed nothing.
+
+He's so strong. She thought and started to wave a hand in front of her face again.
+
+“I have to go.” Ren said and Nathalia nodded. “Don't forget to give the fries to the captain.”
+
+Nathalia nodded again. “Thank you for all your help.”
+
+Ren nodded, waved, and left the kitchen. I hope Princess isn't too shaken up right now. He thought. I should have been there for the cast off, but I didn't even know we were leaving so soon. You'd think they would have made an announcement or something!
+
+Ren got back into the hold and Princess was calm as can be and he smiled. “Are you ready for more fries?” Ren asked and she bleated loudly. “Okay, okay! Here.” He said and laughed as he passed her the bowl full of fries.

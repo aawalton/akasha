@@ -1,0 +1,277 @@
+---
+id: 4d8c4d59-4c12-5ab0-9269-eae8d64c39ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 606 - Ending The Day"
+slug: 0606-chapter-606-ending-the-day
+partOf: mythrans-master-of-all-continued-completed
+position: 606
+ownLength: 2801
+unit: words
+publishedAt: 2018-06-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223621/chapter-606-ending-the-day"
+royalRoadId: "223621"
+---
+
+Ren worked at making steel squares for about 15 minutes, then took a break when Anabelle and the other three sales girls came out the back of the shop.
+
+“What a great nap!” Holly said and stretched, which pushed her slightly large chest against the shirt of her work outfit. Ren noticed she wasn't wearing a bra because the tips of her breasts were quite prominent, and he could feel that she wanted him to notice.
+
+“Your breasts seemed to enjoy it, too.” Ren said and chuckled, and she laughed that confident laugh women did when they got what they wanted.
+
+“Oh, you.” Holly said, then she looked around the shop. “Hey! Where is everyone?”
+
+“Gone home.” Ren said.
+
+“But...”
+
+“No, I didn't kick them all out.” Ren laughed. “I served them all and they left happy.”
+
+“Oh.” Holly said. “Well, I guess we're done for the day.”
+
+“Yes, and I appreciate you for working so hard.” Ren said.
+
+“Really?” Holly asked and bent over to drape her arms on his shoulders. “What are you going to do for me to make it up to me?”
+
+“Well...” Ren smiled. “I should ask you what you want, but I'm pretty sure I know what it is.”
+
+Holly chuckled. “Is it that obvious?”
+
+“Definitely.” Ren said and took out a moderate gold necklace with one large diamond in the center and several small diamonds scattered over it's surface. “Thank you for being a great sales girl, Holly.”
+
+Holly let his shoulders go and hopped up and down as she squealed loudly. “Ohmygod, ohmygod, ohmyGOD!”
+
+Ren held the necklace out to her and her hands trembled as she reached for it.
+
+“Nonono, I can't hold it myself!” Holly said and knelt on the floor. “Put it on me! Put it on me!”
+
+The other girls laughed at her reactions and Ren walked around her and put the necklace around her neck.
+
+“It's enchanted to protect you and keep you safe, too.”
+
+“I don't care about that!” Holly said and rubbed her hands over the large diamond. “Look at this rock! It's beautiful!”
+
+It wasn't marred by the enchantment because Ren had hidden the glyph with a spell. He walked back around her and she only had eyes for the necklace. Ren took out one of his armor bodysuits and handed it to her.
+
+“Holly, equip this please.” Ren said.
+
+Holly reached out and touched the bodysuit and equipped it without even looking at it, and she didn't say anything about it as she continued to stare at the slightly glowing diamonds of her necklace.
+
+“Well, we're not going to be able to talk to her for a few hours.” Anabelle said and everyone laughed. “Ren, you didn't have to do this.”
+
+“Everyone keeps telling me that.” Ren said and held a necklace out to Carly. She didn't reach for it, though.
+
+“I don't think I should take that.” Carly said.
+
+“You can leave it in your inventory or you can sell it if you want.” Ren said. “Assuming you wanted my permission to do that.”
+
+Carly opened her mouth to say she wasn't sure if her boyfriend would want her wearing a gift from another guy, and Ren felt her emotions.
+
+“I'll leave it under the counter for now, and if you change your mind, you can get it from there.” Ren said and put it under the counter Anabelle worked at. “I won't take a no for the bodysuit, though.”
+
+“But...”
+
+“You will have the best basic protection I can provide.”
+
+Carly sighed. “Well, I guess he can't complain if it's for my own protection.”
+
+“Your boyfriend?” Katie asked, and she nodded. “He's a good guy.”
+
+“I just don't want him to get the wrong idea about what this means.” Carly looked at the bodysuit, then touched it and equipped it.
+
+“If he gives you any lip, you tell him to see me.” Katie said. “I'll let him know what's what.”
+
+“Thanks, Katie.” Carly said and hugged her friend.
+
+Ren handed Katie a necklace and a bodysuit and she equipped both.
+
+“Oh, that's nice.” Katie said. “Thank you.”
+
+“You're welcome.” Ren said and looked at the three women. “You can have the whole rest of the day off.”
+
+Katie laughed and Carly smiled, but Holly only stared at her necklace.
+
+“Come on, Holly.” Katie said and put a hand on her friend's shoulder. “We can go now.”
+
+Holly didn't say anything as she stood up and walked towards the door, until she reached it and Katie opened the door for her.
+
+“It's really mine, right?” Holly asked as she turned around. “It's not a loan, is it? Or I can only wear it for a while then I have to give it back, right?”
+
+Ren walked over to her and took a step up into the air. “Holly, it's all yours. If you had the Identify skill, you would see it's bound to you and you can never lose it.”
+
+Holly let it go and gave Ren a hug. “You... you don't know how much this means to me.”
+
+Ren didn't remind her that he could feel her emotions or told her that he knew exactly what she was feeling and felt how important it was to her. All he did was hug her back, and a moment later, she let him go. He gave her a piece of cloth to wipe her eyes. She took it and wiped her tears away and then turned and left the shop without another word. Katie and Carly left as well and Ren shut the door and locked it.
+
+“Ren, you are spoiling them.” Anabelle said, and he walked over to her.
+
+“And you.” Ren said and held out a bodysuit for her. She chuckled and stored it without equipping it, then put her arms around him.
+
+“Can you spend the night?”
+
+“Unfortunately, no.” Ren said. “Adventurer's business.”
+
+Anabelle nodded and gave him a kiss. “I'll let you get back to work.”
+
+“It's not really work.” Suniva said from his shoulder. “He's just filling and emptying a mold for metal squares.”
+
+Anabelle gave Ren an appraising look. “What do you have planned, you little sneak?”
+
+Ren chuckled. “If I don't get enough made, it's not going to matter what I want to do.”
+
+“Then you better hurry.” Anabelle said and let him go. “I'll see you later.”
+
+“Yes, you will.” Ren said and gave her another kiss, then went back to the forge and kept smelting more and more steel squares. Anabelle watched him for several minutes, then left the shop and went upstairs to the apartment. She barely glanced at her old bed in the living room and went right into the bedroom. She stored her clothing and climbed onto the bed, then rolled around on the blanket completely nude.
+
+He let me sleep here! In his bed! Anabelle thought and gathered the blanket into her arms and took a deep breath of it. I can almost smell him.
+
+“I didn't realize you liked my old bed that much.” Ren said, and she rolled onto her back and sat up.
+
+“Ren! I... I was just...”
+
+“Rolling around naked in my bed.”
+
+“I... yes, I was.”
+
+“You didn't sleep at all during your 'nap', did you?”
+
+“Not even a little.” Anabelle said and laid back on the bed with his blanket still in her arms. “You let me stay in your bed. I couldn't waste the time by actually sleeping.”
+
+Ren chuckled. “Then let's not waste it by cuddling with a blanket, either.”
+
+Anabelle looked at him as he stored his clothing and was quite ready to please her. “But... what about...”
+
+“I'll worry about making more things when I come back.” Ren said and climbed onto the bed. “Right now, I need to spend some personal time with you.”
+
+“Yes, please.” Anabelle whispered and embraced him.
+
+Ren used up the remainder of the hour, then supper time as well.
+
+Teepo warned him when it was time to go. “Ren, I hate to interrupt...”
+
+“It's okay, Teepo.” Ren said and made Anabelle finish. She collapsed onto the bed and wallowed in the sensations he had given her. “Anabelle's pretty much done now.” He said and leaned in to give her a kiss. “I'll see you later, Anabelle.”
+
+“I look forward to it... every time.” Anabelle breathed.
+
+“As do I.” Ren said and equipped his clothing as he left the apartment, then met Artemis and Suniva on the second floor by the back door. “I'm sorry I kept you waiting.”
+
+“Ren, we don't mind waiting.” Artemis said. “We're here for you, not the other way around.”
+
+“Speak for yourself.” Suniva said from her shoulder. “I'm trying to get as much out of him as possible!”
+
+Ren chuckled, because he could feel that all she wanted was to be near him. He activated his Hands of the Gods ability, then chose Burning Hands as he held his hand out to her. Suniva gasped and jumped from Artemis' shoulder to land on the offered hand, then she was covered in pure Fire. She enjoyed it for only a moment, then looked at Ren's face.
+
+“I was only joking, you know.” Suniva said.
+
+“I know.” Ren said and moved the hand to his shoulder. Suniva sat down, then sighed when he moved the hand away. After a moment, she gasped again as Ren used his Fire Manipulation ability to move the Fire up from his hand to his shoulder.
+
+“You're too good to me.” Suniva said and leaned against his face and kissed his cheek.
+
+“I know that, too.” Ren said and chuckled, which made her laugh.
+
+Ren and Artemis left through the back door of the business and walked over to the Housing District, then stopped by the front door as the succubi landed beside them.
+
+“I've got Adventurer business, so no cuddling for me this time.” Ren said.
+
+“We can do it when you come back.” Seldanna offered. “You know we're always willing.”
+
+Ren nodded. “Thank you.”
+
+Seldanna laughed. “You don't have to thank us for hugging you.”
+
+“Yes, I do.” Ren said, and she felt his emotions turn serious.
+
+Seldanna stepped close and knelt on one knee and put a hand over his heart. “I've devoted myself to protect this heart, and I am sorry I can't protect it from its old wounds.”
+
+“As am I.” Ren said and gave her a kiss. It wasn't passionate; but, it wasn't devoid of meaning either. “I'll see you in the morning.”
+
+Seldanna stood up and stepped aside, then Ren and Artemis went inside the house. They went upstairs and into the main bedroom, then Ren laid down on the edge of the bed. Teepo hopped off and flew up to land on the ceiling, and Artemis laid down on the bed beside him. She was close but not touching, and Ren took in a breath and let it out.
+
+“No matter what happens, we'll always be here for you.” Artemis said.
+
+Ren felt her devotion and love, and he leaned over and gave her a passionate kiss. Artemis responded in kind and they did that for several moments, then Ren broke the kiss and leaned back.
+
+“Logout.”
+
+********
+
+Ren waited and let Stella take off his VR headset, and he saw her happy face.
+
+“Oh, no! What happened?” Ren asked, worriedly.
+
+“Wh-what?” Stella's smile faded a little. “What's wrong?”
+
+“You had a bright and happy smile and I wondered what was going on.” Ren said and grinned, and Stella shook her head.
+
+“I can be happy for no reason.”
+
+“Who are you and what did you do to the woman I love?” Ren asked, and she laughed.
+
+“Shut your pie hole.” Stella said and shook her fist at him.
+
+“Mmm, pie.” Ren said and drooled a little, which made her laugh more.
+
+“No pie today.” Lisa said. “Just ice cream.”
+
+Ren looked over at the table in his bedroom and saw Lisa, Elise, and Barbi sat there with plates of food in front of them. Stella helped him get out of bed and took him over to the table. He sat down in the empty seat between Elise and Lisa, and Stella sat down on the other side of Lisa.
+
+“Thank you all for coming up here to eat.” Ren said.
+
+“Did you expect us to make you go down to the dining room or the kitchen for every meal?” Stella asked and started to eat.
+
+“Well, not every meal.” Ren said, and everyone laughed. They sat and ate their food and enjoyed the company they shared, and had a good conversation about what was going on and how they were going to deal with it.
+
+“I think we should start a media blitz.” Barbi said between bites of food. “Subtle at first, about how all the characters in the game have been altered when it wasn't necessary.” She said. “We can see the public's response to see if enough of them share the view.”
+
+“For what purpose?” Elise asked.
+
+“Pressure, of course.” Barbi said. “If we can garner enough public outcry, the designers might decide to change things back.”
+
+Elise sighed. “Unfortunately, it doesn't work that way.” She said, then explained that the programmers had added an entirely new data package that all the NPCs referred to, no matter who they were and what their normal roles were.
+
+“That is so stupid.” Ren said and put his fork down. “In the short term, it will work; but, after the game starts to progress at it's accelerated rate, it's call functions are going to overload that data package.”
+
+Elise, Lisa, and Barbi stared at him. Ren didn't notice this and continued to talk.
+
+“I mean, once the players go around all the NPCs in the game and activate their access to the Sea Dweller update, that's going to be hundreds of thousands of data requests pretty much simultaneously for what seems to be a very limited data set.”
+
+“How do you know that?” Elise asked.
+
+“One of the experiments I went through was to test the difference in speed between my brain and an advanced computer.” Ren said. “I mentioned it during my deposition, and it actually refers to the patent case next month.” He didn't say it also concerned Gloria and the new job she was trying to convince herself to take, since they already knew that anyway.
+
+“So, what do we do?” Barbi asked. “Just making complaints doesn't seem to work.”
+
+Ren chuckled. “Darn right it doesn't.” He said. “I've actually stopped trying to contact them about anything, let alone something this drastic.”
+
+“Why?” Barbi asked.
+
+“Because they aren't going to believe me.” Ren said. “They never do.”
+
+Elise sighed. “Unfortunately, he's right.” She said. “Everyone has been ordered to not interfere with Ren or his gameplay experience in any way.”
+
+Barbi shook her head. “I'm sorry to repeat Ren's words, but... that is so stupid!”
+
+Ren laughed. “Welcome to my world.”
+
+“Maybe... maybe I...” Elise looked at Stella, who nodded. “Ren, I have something to show you.”
+
+Ren watched her as she stood up and went to the closet and took out another VR headset. It was nearly identical to the one Ren normally wore, except it had two big red stickers over the ear pieces. Stella motioned for Ren to get up, and she helped him back over to the bed.
+
+“I want you to try something.” Elise said as Ren laid down and got comfortable. “It's not the same log in command to start up this one. It's actually 'Flow Secured Start'.”
+
+“Okay.” Ren said, and she put the VR headset on him. “Are you coming in, too?”
+
+“No, I only had the time to set up one headset so far.” Elise said. “I'll have another done in half an hour and can join you then.”
+
+Ren took a breath and spoke the proper command sentence. “Flow Secured Start.”
+
+*
+
+Ren woke up on the bed and opened his eyes. Teepo?
+
+“Hi, Ren!” Teepo said. “You were gone for a while this time.”
+
+Sorry about that, buddy. Ren thought to his friend. The Adventurer's business took longer than I expected.
+
+“Well, you've got about 2 hours left to the night, so you've got plenty of time to have some fun.” Teepo chittered in delight, and then Ren realized he could feel 5 presences beside him in the bed. He sat up and looked; but instead of seeing Artemis and the 4 succubi in the bed, he instead saw Frikara, Lusinia, Navruth, Verwynn and Andrela. They woke up because of his intense concentration on them, then their shared emotions joined with his Aura.
+
+Frikara sat up and smiled at him. “Hey there, handsome.” She purred and slid in close to kiss his neck. “Welcome back.”

@@ -1,0 +1,309 @@
+---
+id: 476c8055-c530-52a1-9517-dc22d2bc1fd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 268 - Last Of The Prizes"
+slug: 0258-chapter-268-last-of-the-prizes
+partOf: mythrans-master-of-all-continued-completed
+position: 258
+ownLength: 3504
+unit: words
+publishedAt: 2017-06-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139554/chapter-268-last-of-the-prizes"
+royalRoadId: "139554"
+---
+
+Deresdra motioned to the long cut on the male giant's leg. She'd already prepped it and stopped the bleeding, but it was jagged and torn on the edges.
+
+“It's from a tree that he stumbled over.” Deresdra said, then shook her head. “That sounded really odd saying it out loud.” She chuckled. “He stumbled... over a tree!”
+
+Ren chuckled, too. “What do we do?”
+
+“Unfortunately, we'll have to cause him some pain.” Deresdra said. “There's nothing we can numb the wound with before we probe to see if there's any underlying damage.”
+
+“You need numbness? I got that covered.” Ren said, and took out the crate that was nearly full of Brain Arthropod Grub loot. He picked out one of the mandibles and stored the crate.
+
+“What is that?”
+
+“It has a numbness venom on it.” Ren said, then looked at the size of the wound. “Um, I should probably dilute it to spread it around.” He said, sewed up a sack, then changed the enchantment on one of his Screaming Terror rings to Water Spray. He held the mandible above the top of the sack, and sprayed it with water. He was careful not to get any on himself, because the last thing he needed was to have a numb hand, and half-filled the sack with water. He dropped in the mandible, closed the sack, and shook it up.
+
+“What are you doing?” Deresdra asked.
+
+“Making sure there's an even mix.” Ren said. “I learned that while mixing building materials.” He smiled as he stopped shaking the sack. “It was pretty messy when I added in too much water a few times.”
+
+Ren opened the top of the sack, and slowly poured the mixture over the wound. He'd emptied about a third of the sack, and the male giant visibly relaxed.
+
+“What in the world made you think of doing that?” Deresdra asked.
+
+“When I picked up my share of the loot from the Garrison.” Ren said. “The Commander told me that the medical staff wanted to experiment with the venom, to see what they could do with it's numbing properties.”
+
+Deresdra shook her head. “Why didn't you tell me this?”
+
+“I just did.” Ren said. “I haven't had them for long, and this is literally the first time I even thought of using it since then.”
+
+“You can be really frustrating sometimes.” Deresdra sighed. “You know that, right?”
+
+“Yep.” Ren said and grinned at her, and she couldn't help but smile.
+
+“By the gods.” Deresdra said, then chuckled. “Watch closely, okay? It's a little different, since the patient and the wound is so big, but the theory and actions are the same. Understand?”
+
+Ren nodded, and watched her as she gently worked on the wound and checked for any underlying damage.
+
+“Okay, now you try.” Deresdra said, and Ren stepped up and did the same motions as she did. “No, not like that.” She said. “You're only repeating what I did.” She shook her head and took his hand. “Like this.” She put his hand on the skin, and pushed his fingers in the correct motion. “Don't just do the action. You have to feel around to see if anything might be wrong.” She explained. “Every wound, every person, is different. The action itself doesn't change, but the motions do every time you use it.”
+
+“I... I see.” Ren said, and realized he couldn't grind Healing like he'd been doing everything else. He wouldn't be able to constantly repeat the same actions to level it up faster. “Thank you for making it clearer.”
+
+“You're welcome.” Deresdra said. Her hand was still pushing Ren's around, and she let him go. “We don't have to hold the wound closed, and it can be healed as long as there's nothing inside or in the way.”
+
+Ren nodded slightly, and Deresdra took out her Major Healing wand.
+
+“This is going to take a few charges to knit the skin back together.” She said, and took aim.
+
+“Wait.” Ren said, and she looked at him. He took out a Level 2 Web wand, absorbed the charges from it, and filled it with Major Healing spells instead. “Use this one.”
+
+“What's the difference?” Deresdra asked as she stored the old wand and took the new one.
+
+“It might be nothing, but it could cut down on how long it'll take to heal.”
+
+Deresdra nodded slightly, and concentrated on the wound. She used a single Major Healing spell, and the wound half-closed. She used it again, and it was like the wound was never there.
+
+“By the gods!” Deresdra exclaimed and looked at the wand. “How can it be almost twice as powerful?”
+
+“It's a Level 2 wand, and I think it only made the spell 20 to 25% more powerful.” Ren said. “It made my webs last longer and made them bigger, so I hoped it would boost the Healing spells a little.”
+
+“How many of them do you have?” Deresdra asked, a little excitedly.
+
+“Level 2 wands with Healing spells? Just that one.” Ren said, and her face went from excited to blank. “You can keep it, though.”
+
+Deresdra's face lit up. “Thank you!” She said loudly, put a hand on his arm and gave it a tight squeeze, then let him go. “Let's go over to the next one!”
+
+For the next half an hour, they worked on healing all of the cuts and bruises, scrapes, and fatigue that the 19 giants had suffered. Deresdra prescribed food and rest for the fatigue, and she and Ren healed everything else. When they were done, Ren had leveled up Healing to Beginner Level 7, and walked with Deresdra out of the camp. He cast bridge across the moat, and took her back to the medical tent.
+
+“Now that you've healed the sick, here's your reward for the battle.” Ren said, and took out the sack of prizes. He handed Deresdra a sack of gold, and she stared at it.
+
+“What's this?”
+
+“A reward from the battle.” Ren said and chuckled. “I just told you that.”
+
+“But... I didn't do anything!”
+
+“I could argue just being there helped the morale, and some of that is reflected in the money; but, even though I was busy, I know you ran to each artillery team to make sure they weren't over-exerting themselves, or getting too excited.”
+
+Deresdra opened her mouth to ask how he could see out of the back of his head like that; but she was afraid she wouldn't like the answer, and decided that she didn't want to know that badly. It was Teepo that had seen her and told Ren about it.
+
+“Thank you.” Deresdra said, and dumped the money into her coin pouch. She stopped breathing when she saw how much was in it. Ren let her ogle at the money, while he examined the item she had been awarded.
+
+Bracelet of Magic
+
+This bracelet has been enchanted to boost Mana, Intelligence, and Wisdom. It is the quintessential item for a Mana user to have. It grants: Intelligence: +5, Wisdom: +5, Mana Production: +20%, Mana: +200
+
+Ren smiled as he got the plans for the bracelet, then used Enchanted Eyes, Read Rune, and Decipher on it. He saw the runes for Intelligence and Wisdom because of his Decipher skill, and his Read Rune skill let him see a rune between those other runes that connected them together. He gained the new rune, and glanced at the popup for it.
+
+Notice!
+
+You have learned a new rune: Mana Boost
+
+This rune, a subtle combination of Intelligence and Wisdom, boosts Mana production by 5%, and increases the Mana Bar by 50 points.
+
+Stat Change!
+
+Read Rune Level 4 (Beginner 0%)
+
+Decipher Level 4 (Beginner 0%)
+
+Sweet! Ren thought, used his Vision of Impurity on the bracelet, and didn't see any flaws in the metal.
+
+Stat Change!
+
+Vision of Impurity Level 8 (Beginner 0%)
+
+“This is yours, too.” Ren said and handed her the bracelet.
+
+“What... what's this?” Deresdra asked, completely surprised by the sudden gift.
+
+“Hopefully, something you'll like.” Ren said. “I had the system assign something to everyone that would give them benefits. It came up with this one for you.”“I... I don't know what to say.” Deresdra said, and put it on. She gasped as it took effect, and increased her Intelligence, Wisdom, and Mana production. The thing was, since Mana was based off of Intelligence and Wisdom, it actually became a double boost.
+
+“I... I...” Deresdra stared at the bracelet, then at Ren. “You're amazing!”
+
+“I sure am.” Ren said jokingly, and waggled his eyebrows up and down. Deresdra's face flushed a little red, because it made her remember the time they had spent together, and then she sighed.
+
+“I've been such a fool, haven't I?” Deresdra asked rhetorically. “I... I've handled this thing between us... very badly.”
+
+Ren didn't say anything, then stepped forward and gave her a hug. Deresdra was once again surprised for a moment, then she hugged him back.
+
+“This isn't nearly as comfortable when you have your armor on.” Deresdra said and chuckled.
+
+“Oh! Sorry.” Ren said, and stored his armor. “How's that?”
+
+“Much better.” She said, snuggled him for a moment, and then sighed. “You're never taking me up on my offer to sleep with me again, are you?”
+
+“No.” Ren said.
+
+“You won't even lie, just so you can spare me my hurt feelings?”
+
+“Of course not.” Ren said and leaned back to look her in the eyes. “Your feelings would be hurt more if I did that.” He said. “You'd think I couldn't even be honest with you about it.”
+
+Deresdra smiled, and nodded slightly. “I would, but... I... I think... I want you to lie.”
+
+“This is going to hurt you, though.” Ren said. “I don't want to do that.”
+
+“Please, just... say it.” Deresdra said. “I need to know.”
+
+“I...” Ren sighed. “Okay.” He took a hand from around her back, and cupped the side of her face. “Deresdra.” He said in a deep resonating voice, as if he was deeply in love with her. “There's nothing that I want more than to bend you over that table, and ravage you like you want me to.”
+
+Deresdra winced slightly; and she also shook from excitement at the thought. She buried her head on his shoulder as she cried.
+
+“Shh.” Ren said. “It's okay.”
+
+“No, it isn't!” Deresdra didn't try to stop her tears. “I really, really want that!” She said as she sobbed. “I want you to do me so hard that I... that I won't ever need it again!” She said. “I haven't you know... not since that day... and I know you'll never do it again; but... but I need you to!” She cried. “Look at me, I'm shaking so much!”
+
+Ren didn't have to look, because he could feel the vibrations. He also knew that she was trying to manipulate him. Again. He had hoped she would have moved past this, but then guessed it took more than a few consoling words for someone to change how they act when they want certain things.
+
+“I'm sorry, but you know it's not going to happen.” Ren said. “I told you it was going to hurt you.”
+
+“Then make me feel better, like you did the last time you hurt me.” Deresdra said in a low voice.
+
+“I can't.” Ren said. “I don't know how else I can tell you no.”
+
+“Then don't tell me no.” Deresdra said as she lifted her head from his shoulder. Her face was covered in streaks of tears.
+
+“You'll find yourself a good man one day.” Ren said and smiled sweetly at her. “That day isn't today, though; nor am I that man.” He leaned forward, and kissed her forehead.
+
+“Ren...”
+
+“I have to go and finish something.” Ren said. “I'll send Ruck over here to help you pack everything up.”
+
+“I... thank you.” Deresdra said and let him out of the hug. “I could use the help.”
+
+Ren nodded slightly, and left the medical tent.
+
+*
+
+By the gods, it's impossible to seduce that man! Deresdra said and wiped off her face. I wonder what he would have done if I'd tried to take my clothes off?
+
+*
+
+Ren went over to the forge and took out a paving stone. He started to carve out grooves, gears, spring coils, channels, rounded pieces, and several other things.
+
+“What are you doing?” Teepo asked.
+
+“It's an idea that I've had for a while.” Ren said. “Only, it never would have worked if it was solid.” He smiled and kept carving. “Now that I know about gears, spring coils, steel cables, and everything else I've learned, it's finally time to make it a reality.”
+
+“This I've gotta see.” Teepo said. “What's it going to be?”
+
+Ren chuckled. “It's a present.” He said, and tossed several handfuls of platinum coins into the smelter.
+
+“What are you doing?!?” One of the dwarves asked as he dropped one of the expended bolts next to the table Ren had beside the forge.
+
+“What does it look like I'm doing? I'm melting platinum coins.”
+
+“You're melting platinum coins?!?” The dwarf exclaimed, turned around, then started to mumble as he walked away in a daze. “He's melting platinum coins.”
+
+Ren chuckled and stirred the steel and platinum up to make sure there was a good mixture. He poured the platinum out into the new mold he'd made, and filled it. He absorbed the heat from all of the parts, except for the strips of metal for the spring coils. He turned to use an anvil to hammer the metal, and realized he didn't have one.
+
+“Oops.” Ren said, then had an inspiring thought. He took out the Wand of Iron Barrier, and rather than think about making the wall bigger, he made it smaller and wider. He decided a wall a quarter of the 10 foot square size would be big enough, and used the wand to cast the spell. A solid chunk of iron, 2.5 feet wide, 2.5 feet high, and 2.67 feet thick appeared in front of him.
+
+“Perfect!” Ren said, and used the improvised anvil to hammer out the spring coils. He had 8 of them to do, and with his Fast Crafting bonus doubled, it took no time at all to make the coils.
+
+“Eight of them?” Teepo asked. “How many toys are you going to make?”
+
+Ren smiled and absorbed the heat from the last coil as he shaped it, then cleaned and polished all of the parts.
+
+“Can you go and get Ruck for me, Teepo?” Ren said. “Tell him to head to the medical tent to help Deresdra pack everything up.”
+
+“Sure, Ren.” Teepo said. “I'll be right back.”
+
+Teepo took off, and Ren quickly assembled the pieces together. He placed the 8 coils in the right spots, added the connecting gears, and made sure all of the pieces moved freely. He left the top off, and enchanted the main piece with a double glyph made from 8 runes of Holding. Since each rune gave it 5 slots, 8 of them combined made 40 slots available for storage. He covered it with a piece of cloth just before Teepo flew back over.
+
+“He's going now.” Teepo said as he landed on Ren's shoulder. Ruck came over to the table and dropped off nearly every bolt that was fired.
+
+“Nice going!” Ren said. “Thanks!”
+
+Ruck gave him a 'thumbs up' gesture, and scuttled over to the medical tent.
+
+“Okay, show me what you made.” Teepo said. “I know you wanted me out of the way so you could put it together.”
+
+Ren chuckled. “I can't show you yet.” He said, and took out the sack of prizes, and removed the final sack. It was the smallest sack of them all, and Ren opened it. He took out a small interlocked ring, and examined it with Identify.
+
+Ring Of Recall (Rare)
+
+This ring is actually two rings that are interlocked together. When separated and given to two different people (or secured to objects) and the command phrase 'Return To Me, (person's name/object name inserted here)' is spoken, the other ring will be immediately transported to the location of the ring that the command phase was spoken from.
+
+Range: 2 miles
+
+Weight Limit / Size Restriction: One person, or an object that weighs under 200 pounds.
+
+Ren used Enchanted Eyes, Read Rune, and Decipher. Unfortunately, he couldn't read the runes like he did with Deresdra's bracelet.
+
+Maybe I can read it when the level is higher. Ren thought and twisted the ring. The two rings popped apart, and Ren put one down on the table, and lifted the cloth that covered his creation.
+
+“What the hell is that?!?” Teepo exclaimed.
+
+“It's something that I've been thinking about for a while, just like I told you.” Ren said, and put one of the rings into the space he'd left for it above the gears. “I have an extra Construct slot now, and I figured now was the best time to use it.” He picked up the top of the thing, and snapped it together with the bottom.
+
+“No way!” Teepo said. “It's a beetle!”
+
+“Oh, it's much more than that.” Ren said and picked it up. He inserted the key into the slot on the bottom, and wound it up for nearly a full minute. “It's completely mechanical. The legs are wired with tiny steel cables, the gears work the legs, and there's another special feature that I'm going to let you discover for yourself.”
+
+“Me?”
+
+“Yes, Teepo.” Ren said. “Can you dissolve into the ring for a moment? I need to make one last adjustment to the construct.”
+
+“Sure.” Teepo said, and dissolved. Ren smiled, and took off the Beetle Crown ring. He slipped it inside the other Ring of Recall, and put it back on. He activated the Craft Construct ability, added the value of the mechanical beetle to the small portal that appeared, and then placed his hand on the beetle to make the connection. When the construct started to take his Mana, he grinned and thought of Teepo.
+
+Summon Teepo! Ren thought, and Teepo didn't appear at his feet this time. The Craft Construct ability finished, and Ren waited for a minute.
+
+“Teepo?”
+
+“Yes, Ren?” Teepo said, and the mechanical beetle turned to look at him.
+
+“How do you feel?”
+
+“A little stiff.” Teepo said. “What happened? I don't remember ever feeling like this before.”
+
+“That's because you haven't had a real physical body like this before.” Ren said.
+
+“Wh-what?!?” Teepo said, and looked down at himself. “Blessed Fire Dancer!” He exclaimed, and lifted a platinum leg to look at it. “I'm real?!?”
+
+Ren chuckled. “You've always been real, my friend.” He said and leaned down. “Your bonus for the battle, and for keeping an eye on everything, was a Ring of Recall.”
+
+“So that's what you put in the back!” Teepo chittered in laughter. “You put the other one on your finger!”
+
+“It's around the Beetle Crown ring, actually.” Ren said and showed him. “When I made the construct animate, I summoned you at the same time.”
+
+“So... does that mean that I'm stuck in here?” Teepo asked.
+
+“Of course not.” Ren said and went to take off the ring. “I wouldn't do it if it was only a one time thing.”
+
+“DON'T!” Teepo yelled. “It hurts when you do that while I'm still here.”
+
+“It's all right.” Ren said. “You're still connected by the Rings of Recall.”
+
+Teepo closed his eyes to wait for the excruciating pain of being ripped from the mortal realm, and then nothing happened. “Wh-what?”
+
+Ren chuckled. “You're in a physical body.” He said, and took the Ring of Recall off of the Beetle Crown Ring and slipped it back onto his finger. “Summon Teepo!”
+
+The mechanical beetle stopped moving and Teepo appeared at Ren's feet.
+
+“Okay, even I have to admit that was cool.” Teepo said and flew up to look at his new body. “Why did you do this for me?”
+
+“That's easy.” Ren said. “I took on a task to get you something spectacular a long time ago.” He smiled. “After everything we've seen and done so far, the only thing I knew you hadn't seen, or would ever expect, would be a body of your own.”
+
+“Made of platinum!” Teepo chittered in delight. “Thank you, Ren.” He said. “It's the best present I could have ever gotten.”
+
+Quest Complete!
+
+Your friend, who is impossible to buy for because he is with you all the time, has received a gift worthy of his status in your life.
+
+Rewards: 3,000 XP
+
+SPECIAL x2: +3,000 XP
+
+“You're quite welcome.” Ren said.
+
+System Notice!
+
+You have finished distributing the prizes awarded to the participants of the Quest: Save Them!
+
+Normal gains acquired during the quest will now be awarded.
+
+Normal gains? Ren thought, then froze still as he received a series of popups.

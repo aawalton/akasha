@@ -1,0 +1,335 @@
+---
+id: 8a69470e-ff12-5686-a9f6-642e219d026e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 Accord"
+slug: 0027-chapter-25-accord
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 27
+ownLength: 2683
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3252900/chapter-25-accord"
+royalRoadId: "3252900"
+---
+
+The farmers gathered in the open clearing near the eastern fields after midday. Frost still clung stubbornly to the shaded edges of the earth, though the center of the ground had hardened into dark, workable soil.
+
+They gathered loosely in numerous groups, spaced apart like men accustomed to gauging land by stride and boundary markers.
+
+Lucien had not summoned all of Ashridge.
+
+Only those with yields that had remained stable even in leaner seasons, with herds that endured the winter without desperate culling, and fields that had suffered damage during the Tithe, but remained relatively intact.
+
+These were men who knew how to calculate risk.
+
+Bran stood among them, set within the middle rather than the edges. His stance was firm, shoulders squared, arms folded loosely across his chest. There was tension in him, though not the kind that had once driven him to the manor gates.
+
+Alicia walked beside Lucien as they approached. Several farmers noticed her first before properly looking at their Lord.
+
+“Milord,” one of the older farmers said, removing his cap.
+
+The others followed, caps coming off in staggered sequence.
+
+“You were summoned because Ashridge stands at a decision.” Lucien’s gaze moved across them as he spoke.
+
+A murmur passed through the group.
+
+“It concerns the fields,” another man spoke up.
+
+“It does.” he said, stepping forward so that he stood level with them rather than above.
+
+“You have practiced the three field rotation since this village was founded. It has preserved soil. It has sustained livestock and it has allowed recovery after each Tithe.”
+
+Several men nodded. It was what they had always done.
+
+“In the heartlands nearer to the capital, a four field rotation is common practice.”
+
+A few brows furrowed while others shifted their weight.
+
+One farmer shook his head. “That won’t fit here.”
+
+Another man spat lightly into the frost. “That’s for land that doesn’t burn. For fields that don't get torn up every few years.”
+
+“You are correct.” Lucien let the murmurs die before continuing. “The four field system assumes continuity. It assumes soil will remain undisturbed long enough to benefit from its rotation and that livestock numbers remain stable.”
+
+He allowed the agreement to settle before he spoke. “Ashridge has not adopted it because we could not afford it.”
+
+That acknowledgment softened the tension.
+
+“The Tithe has passed. The walls stand and the ditch has been reinforced. Losses were significant, but contained.”
+
+He did not speak of the one who had been lost. They remembered it well enough.
+
+“You stand here because your fields remain viable. Because your livestock endured and you managed your holdings with care.”
+
+His words carried no flattery, the farmers before him had maintained consistent surplus over the years. “I will not require all of Ashridge to change its method,” he said. “Only those whose land and herds can bear the transition without risking collapse.”
+
+The murmurs that followed were thoughtful rather than defensive.
+
+An older farmer rubbed his thumb along the brim of his cap. “And if the harvest comes in thin?”
+
+“It may.” Lucien did not soften the answer.
+
+That honesty drew stillness from the group of men before him.
+
+“For the first year of transition, participating fields will carry reduced tax. Should yield fall below your current average, the manor will compensate the difference in grain.”
+
+“And seed?” another man asked, glancing toward the others.
+
+“The manor will provide legumes sufficient for the additional rotation.”
+
+“And if it all goes wrong?”
+
+“Then we revert.” Lucien answered without hesitation. “No man will be compelled to persist in failure.”
+
+One man rubbed at his beard, eyes narrowing at him. “Why now? After all these years?”
+
+Lucien met his gaze. “Because resilience alone will not sustain Ashridge indefinitely.” He paused for a beat. “You did not adopt the four field system because survival was uncertain. That was prudence.”
+
+A few of the farmers nodded slowly, glancing toward one another.
+
+“I intend to reduce that uncertainty.”
+
+One of the younger farmers dragged a hand across his mouth before speaking. “We rebuild every time the beasts come through. What makes next year any different?”
+
+Lucien did not hesitate. “Because I remained.” The words came without weight, yet they shifted the air all the same.
+
+A faint shift passed through the men.
+
+One of the older farmers looked at him more intently than before. “You did,” the man said slowly.
+
+Another added, almost thoughtfully, “They do not usually stand on the wall with us.”
+
+Lucien heard the words without fully grasping the weight beneath them. “I was required here,” he replied evenly.
+
+The farmers exchanged glances that carried more meaning than their voices.
+
+Bran watched him closely. “You did not leave,” he said carefully.
+
+“No,” Lucien answered simply.
+
+Alicia’s fingers tightened faintly where they were folded before her.
+
+He continued before the silence could deepen further. “Transitioning to four fields requires coordination. Land must be marked clearly and the livestock rotated deliberately.”
+
+His gaze settled on Bran. “You stormed my manor for your daughter.”
+
+The clearing stilled, the murmur of the other farmers fading at the edges.
+
+Bran did not flinch, though his jaw tightened by a fraction. “I did.”
+
+Lucien watched him for a moment. “You believed she had been wronged.”
+
+“Yes,” Bran answered, the word firm, without hesitation.
+
+Alicia’s breathing remained steady, though something tightened beneath it. She knew the memory. The anger that had driven her father forward, the fear that had followed and the same hand that had stopped the blade.
+
+Lucien’s tone did not sharpen. “As punishment, you will work for Ashridge instead.”
+
+Bran’s jaw tightened before he spoke, voice rough. “You would have me take this on?”
+
+“You will.”
+
+“This transition will bring disputes,” Lucien continued. “Boundary lines will shift. Livestock access will require scheduling and each man’s yield must be recorded accurately.”
+
+He left the weight as it was “You will organize the rotation and mediate disagreements. You will report weekly to the manor.”
+
+Bran’s gaze flickered toward Alicia for a brief moment before returning. “And if they will not listen?”
+
+“They will.” The man had dared to storm a noble’s manor, he was more than capable of managing this.
+
+“And if it fails?” Bran pressed.
+
+“Then you will correct it.”
+
+A faint tension touched Bran’s expression. “That is not how punishment is usually done.”
+
+“No,” Lucien agreed. “It is not.”
+
+Bran studied him for several long moments. “And if it works?”
+
+“Then Ashridge eats more next winter.” There was no grandeur in the answer.
+
+He offered no status, or favor. Only what every farmer understood. Stronger yields, heavier stores, and a better chance of meeting winter without fear.
+
+One farmer spoke up. “If some do better than others, folks’ll talk.”
+
+“Participation is voluntary,” Lucien said. “Those who choose to remain with three fields will not be penalized.”
+
+Another man frowned. “If the beasts come again and tear it up?”
+
+“Then we rebuild,” he answered simply. “But we rebuild from strength rather than stagnation.”
+
+The older farmer who had first spoken removed his cap once more, rubbing its brim between his fingers. “You think we’ll last out here?”
+
+He had read the records during his first days in this world. Settlement logs. Yield reports. Names of villages that no longer existed except as ink upon parchment.
+
+Most frontier settlements did not last beyond a handful of years. Many vanished within ten years of their founding. Failed harvests, disease, the Tithes. The causes varied yet the results remained the same.
+
+One village in the Kingdom of Arcencia’s recorded history had endured fifty years on the frontier.
+
+Only one.
+
+Ashridge was not even halfway there.
+
+“We will.” Lucien said at last.
+
+For a moment, the clearing fell still before Bran straightened slightly. “If I take this on,” he said, voice firm, “it’ll be done proper. Fields marked clean. Livestock shared when it must be. No man saying he didn’t understand after he’s given his word.”
+
+Several farmers nodded. “And disputes?” one asked.
+
+“You bring it to me first,” Bran replied. “If I can’t settle it, we take it before the lord.”
+
+Lucien watched without interrupting, this was not his moment to assert authority but Bran’s to shoulder responsibility.
+
+One by one, a handful stepped forward.
+
+A broad-shouldered farmer ran a rough hand through his beard, then gave a short nod. “My northern strip can bear it.”
+
+The man who spat lightly into the frost spoke next. “I will take the western boundary,” he said, tone measured rather than eager.
+
+A third man squinted toward the distant fields beyond the clearing, lips pressed thin in thought. “If the tax is reduced as promised,” he said, folding his arms as though sealing the matter.
+
+A few low grunts followed, thick with approval at the farmer’s words.
+
+“It will be,” Lucien confirmed.
+
+Not every man volunteered. Some lingered at the edge of the clearing, exchanging low murmurs or staring toward their fields as though the soil itself might offer counsel. That was fine, enough had stepped forward and given their word for the matter to proceed.
+
+As discussion shifted into practical matters, the broad shouldered farmer who had claimed the northern strip rubbed at his beard again, already counting what could be done before the frost set in. “How many oxen will we need to turn it proper?” he asked, glancing toward Bran rather than Lucien now.
+
+The man who had spat into the frost nudged the toe of his boot against the ground, tracing an invisible boundary in the soil.
+
+“Legumes will need sowing early,” he muttered, half to himself, half to the others nearby. “Else the timing will be off come harvest.”
+
+The third farmer, arms still folded from before, lifted his chin toward the distant edge of the southern plots. “We will need the lines set clear before thaw,” he said. “Once the ground softens, markers shift.”
+
+A few men grunted in agreement, one already stepping away to pace the imagined distance between two existing stones. Bran stepped in without waiting, boots pressing shallow into the frost as he joined their circle.
+
+He crouched, scraping the toe of his boot along the ground to trace where a boundary might shift. The broad shouldered farmer argued that the stone marker would need to move by at least three strides. Another countered that doing so would crowd the pasture rotation.
+
+Bran listened first. Then he spoke with the firmness of someone accustomed to being obeyed among peers. “We measure it properly before shifting anything,” he said. “No guessing. If a marker moves, it’s done clean.”
+
+There were nods at that.
+
+Lucien watched from a short distance, saying nothing.
+
+Alicia’s gaze followed her father carefully.
+
+After several exchanges, Bran straightened and glanced toward Lucien. For a brief moment, their eyes met across the clearing.
+
+He said something to the men nearest him, then stepped away from the cluster and approached.
+
+“That’s a heavy task you’ve set on me, My Lord.” He said once he stood within speaking distance, his voice low enough that it did not carry beyond them.
+
+“Yes, it is.” Lucien replied.
+
+Bran folded his arms loosely, mirroring the stance he had held earlier, though there was less defiance in it now.
+
+“When I came to your gates that day,” he said plainly, “I expected chains. Or the blade.”
+
+Alicia’s breath stilled faintly.
+
+Lucien’s expression did not shift. “You expected consequence,” he said.
+
+The older man held his gaze a moment longer than needed. “I expected punishment, My Lord...the kind that leaves a mark.”
+
+“You set me to organizing men instead.”
+
+He inclined his head in response.
+
+Bran exhaled through his nose, not quite a laugh. “You could have made an example out of me, My Lord.”
+
+“I am,” he replied evenly.
+
+That drew a sharper look from the older man.
+
+He continued before misunderstanding could take root. “Ashridge watches how I respond to defiance,” he said. “If I break you, I teach fear. If I ignore you, I teach disorder. If I place responsibility upon you and you succeed, I teach structure.”
+
+Bran studied him for a long moment. “And if I fail, My Lord?”
+
+“You will not,” Lucien stated calmly. Bran’s holdings had endured where others faltered. His yields remained consistent and his herds intact. Through it all, Alicia remained his only child.
+
+The farmer searched his expression carefully this time, looking for mockery, for condescension or some hidden edge.
+
+“You are certain of that, My Lord?” Bran asked quietly.
+
+“I would not assign the task if I believed you incapable.” The simple words he had spoken carried more weight than praise.
+
+Bran’s jaw tightened, though not in anger. “I stormed your manor for my daughter,” he said, quieter now.
+
+“I know.”
+
+“I thought you would discard her once she ceased to amuse you, My Lord.”
+
+Alicia lowered her gaze slightly, though she did not retreat.
+
+Lucien’s voice remained steady. “If I intended harm, you would not be standing here.”
+
+The bluntness of the statement settled heavily between them.
+
+Bran rubbed a hand across his beard, then nodded. “That is true, My Lord.” He hesitated before continuing, “You stayed on the wall.”
+
+Lucien shook his head faintly. “It was necessary.”
+
+Bran’s brow furrowed faintly. “Most would not have.”
+
+“Most are not responsible for Ashridge.”
+
+Bran held his gaze for several breaths more before giving a short nod. “I will not fail, My Lord.” he said again, but this time with commitment laced in his words.
+
+“See that you do not,” Lucien answered, his tone blunt but not unkind.
+
+Something shifted in Bran’s expression then, a slight ease at the corner of his mouth, before he turned without speaking further, his gaze fixed ahead rather than on his daughter.
+
+The broad shouldered farmer straightened instinctively when Bran addressed him, as though the line between equal and overseer had silently redrawn itself.
+
+Alicia remained at his side, though her gaze lingered on her father.
+
+There had been a time, Lucien suspected, when Bran would have stood between her and the manor gates, ushered her inside at the first glimpse of riders and guarded her from even the faintest whisper of attention from above.
+
+Now, he walked away without looking back, leaving her where she stood.
+
+Lucien was not blind to that.
+
+He might not understand every undercurrent of Ashridge's sentiment, but he understood fathers.
+
+He knew enough of the former lord’s reputation to recognize what Bran was relinquishing in that simple act.
+
+Trust. Or at the very least, the willingness to extend it.
+
+Lucien recalled Alicia’s composure earlier today when he had spoken of her father’s punishment. She had shown quiet acceptance with her composure held, as though his judgment was already decided and that it would be fair.
+
+‘I suppose I should be grateful for such trust,’ he had thought then.
+
+Now, watching Bran return to the farmers without once calling his daughter back, Lucien felt something unfamiliar tighten in his chest.
+
+‘Like father, like daughter,’ he noted wryly to himself.
+
+Alicia’s fingers loosened where they had been folded before her.
+
+“He accepted,” she said softly, though her eyes remained on her father’s back.
+
+Lucien did not answer immediately. He watched Bran instead, observing how the farmers shifted around him and how they listened.
+
+“He evaluated,” he replied at last.
+
+“Yes,” she murmured, and a faint smile touched her lips. “He did.” Her voice carried relief, with a trace of recognition.
+
+Bran now aligned himself with Ashridge’s future.
+
+Lucien inclined his head once, acknowledging the structure settling into place.
+
+He did not speak of trust, nor did he name it. But he understood that something unspoken had passed between them. It was something steadier than mere forgiveness or absolution.
+
+Alicia cast one final glance toward her father before turning to follow her lord as he walked away.
+
+Behind them, Bran’s voice carried faintly over the frost as he began dividing responsibilities.
+
+Men who had rebuilt the same boundaries for years now debated how to reshape them deliberately.
+
+Lucien did not look back.
+
+But he could hear it clearly.
+
+The sound of men planning how they would remain.

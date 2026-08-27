@@ -1,0 +1,245 @@
+---
+id: ced722e5-060d-5a0b-8728-dd64ea864a9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 558 - Back To The Meetings"
+slug: 0558-chapter-558-back-to-the-meetings
+partOf: mythrans-master-of-all-continued-completed
+position: 558
+ownLength: 2718
+unit: words
+publishedAt: 2018-04-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/208600/chapter-558-back-to-the-meetings"
+royalRoadId: "208600"
+---
+
+While Yllana and Ren prepared the meal, Allynna told everyone what it has been like in the High Elven Kingdom since the main threat of the ghoul infestation had been dealt with. Under the orders of the High Lord of the Elves, the High Elves were using raiding parties to remove the remaining nests, and even taken it upon themselves to recruit normal citizens for the task. These raiders ventured well outside the normal patrol routes soldiers used regularly in order to clear the ghouls out.
+
+“How many people have been infected in these raiding parties?” Ren asked.
+
+“None.” Allynna said. “Or none that they are admitting to.”
+
+Ren sighed. “Do I need to ask how many have died during these raids?”
+
+“Quite a few, but they die when the ghouls attack.”
+
+“No, they are probably getting infected and their own raiding party kills them.” Ren said. “They just don't want to admit it.”
+
+“That's a bit cynical, isn't it?” Yllana asked.
+
+“Yes, and I'm afraid it's more than likely accurate.” Ren said and rinsed off his hands, then took out the All-Seeing Mirror. “Please show me the remaining ghoul nests.”
+
+Several dozen red dots showed up on the overhead map of the land and they were spread out and far apart.
+
+“Now show me the raiding parties.” Ren said, and the entire map was covered in green dots. “By the gods.” He turned the mirror to show it to everyone, and he felt their surprise. “The High Elven army is completely dispersed over the kingdom.”
+
+“Spread out like that, they will get rid of those last ghoul nests soon.” Yllana said as she put the dish they were making in the oven and set it to cook.
+
+“It's not the ghouls that I'm worried about.” Ren said.
+
+“What do you mean?”
+
+“I'm not sure if warning you will help you or hurt you more.” Ren said. “I think it's kind of a moot point right now.”
+
+“What is?” Allynna asked.
+
+“Who's been trying for decades to weaken the High Elves just enough to have a fighting chance?” Ren asked, and Allynna and her mother Yllana gasped.
+
+“N-no! You don't mean...”
+
+Ren nodded. “These raiding parties are exactly what the Dark Elves have been hoping for.”
+
+“You do realize what this means, don't you?” Xuunah asked.
+
+Ren nodded again. “If nothing is done, a good portion of the world will soon be at war, and not just clearing up the scraps of one that was barely averted.”
+
+“What can we do?” Allynna asked.
+
+“They can be warned, at least.” Ren said. “Depending on how good the Dark Elves surveillance is on the High Elves, it might be too late to have recall orders issued to the troops and have it make a difference.”
+
+“I have to try.” Allynna said and stood up. “Mother, help me.”
+
+“Of course, dear.” Yllana said and reached over the counter to take her daughter's hand.
+
+“If you're sending a message to the High Lord, you might as well tell him I'm a legitimate Chosen of Vasalor.”
+
+Yllana and Allynna stared at him with wide eyes. “You're what?”
+
+“Vasalor himself told me to tell you.” Ren said, and their mouths dropped open in shock. “He doesn't like that I'm seen as a heretic after he went to the trouble of picking me.”
+
+“But... but...” Allynna tried to put her thoughts into words.
+
+“When an Adventurer dies, they are reborn in a new body.” Ren said. “So, I qualify by High Elven rules.”
+
+“G-great Vasalor.” Yllana whispered.
+
+“Um... I... ah...” Allynna still had trouble getting her thoughts together. The impending war with the Dark Elves and Ren's revelation was a bit too much for her to process at once.
+
+Ren used Restoring Hands and took her other hand. “Easy, now. You're sending a message to the High Lord about an impending attack by the Dark Elves.”
+
+Allynna took several breaths and calmed down. “Thank you.”
+
+“You can tell him I'm not a heretic later.” Ren smiled and let her hand go.
+
+Allynna and her mother still held hands, and they concentrated on the message. Their connected hands glowed, and they brought their other hands close together. A large bird appeared between the hands, tweeted once, then disappeared.
+
+“He should get it immediately.” Yllana said. “What do you think he'll do?”
+
+“He'll try to recall everyone, but I... I think Lord Ren is right.” Allynna said. “It will take days or even weeks to get everyone back, even with swift transport.” She said. “Getting them organized into a cohesive fighting force will take even longer.”
+
+“Ren, you're out of time.” Teepo said.
+
+“I have to get back to the capital of the Human Kingdom and meet with the king.” Ren said.
+
+“You can't stay for supper?” Yllana asked.
+
+“I'm sorry, I can't.” Ren said. “I don't even know how long I'll be there, so I can't promise to come back later.”
+
+“Aw.” Yllana sighed. “You won't be here to enjoy us eating the meal you helped make.”
+
+“You can always starve yourself and save it until I can sneak away and see you again.” Ren chuckled.
+
+“Yes, that's entirely practical.” Yllana said and laughed. “I think I'll just have to accept your absence.”
+
+“That would be a wise decision.”
+
+Yllana looked at everyone. “Thank you all for visiting.” She said. “It was very nice meeting some of the women in his life.”
+
+“You're in his life, too.” Frikara said as she and the other women stood up.
+
+“That's nice of you to say; but, I know I'm not anywhere close to being a woman in his life.” Yllana said.
+
+“He visits you...”
+
+“Just to play.” Yllana said. “We all know it can never be more than that.”
+
+“You'd like it to be.”
+
+“Oh, yes. After several visits, I... I think I'd give up everything I have for the full experience.” Yllana said. “Although, even if one of you went crazy and decided that you had enough of him and left, I know that I would not be the next one he would accept as a replacement.” She smiled. “I came much too late to this party to enjoy that kind of favor.”
+
+No one said anything, because no one wanted to lie.
+
+“I'm grateful to at least share a little bit of his time.” Yllana said. “Thank you all for not begrudging me for it.”
+
+Frikara walked over to her and gave her a hug. “We can feel that he gives you more than you thought he would.” She said and let her go. “I'm glad that you're happy with that.”
+
+Yllana smiled. “No one else likes that, do they?”
+
+“Likes what?” Her daughter Allynna asked.
+
+“You're too young to know.” Yllana said and laughed.
+
+“Except for you and Miss Xuunah, I'm older than everyone here.” Allynna sighed.
+
+“I know! That's why it's funny!”
+
+“You all better go before she starts laughing maniacally.” Allynna said, and the women all said goodbye as they left, and Ren was the last to leave. He took her hand and bent over it, and saw her eyes go wide as he gave the back of it a kiss.
+
+“M'lord, I...”
+
+“It was a pleasure seeing such a beauty again.” Ren said. “I hope when I come back to visit your mother that you are still visiting. I'd like to just sit and talk about things that won't affect the lives of entire continents... at least once.”
+
+Allynna snorted a laugh. “I'd like that as well, M'lord.”
+
+“Oh, so formal.” Yllana said to her daughter and stepped close to Ren. “With your visit so short, we didn't get to play.”
+
+“I'll try and correct that soon.” Ren said and took her into a hug, then whispered into her ear. “If Allynna hadn't stayed so close to the kitchen counter...”
+
+Yllana started to tremble as Ren described what he had planned to do to her with so many witnesses in attendance, and she rested her head on his shoulder and held on as her legs lost their strength. He gave her cheek a kiss and helped her sit down, then took her hand and kissed the back of it.
+
+“Until the next time, M'lady.”
+
+“Th-th-thank you, M-m'lord.” Yllana managed to say.
+
+Ren nodded to Allynna and left the apartment, then he and the rest of the women went out the front door and walked up the side of the building to Princess and the waiting cart.
+
+“Ren, do you really think the Dark Elves will take advantage of the High Elves?” Officer Holly asked.
+
+“The only way I would be surprised, is if they didn't.” Ren said. “If my guess is right, then this turned out to be the best outcome for them.”
+
+“It almost sounds like you're rooting for them.”
+
+“I just saved most of the High Elven Kingdom from being overrun by ghouls. I don't want to have to save them from the Dark Elves, too.”
+
+“Would you?” Xuunah asked. “Would you interfere in a civil war to save them from the Dark Elves?”
+
+“Actually, I think you need to ask yourself if you should interfere.” Officer Holly said. “If this was meant to happen, mainly because of everything that happened before...”
+
+“Even though I stopped the ghouls, it still weakened the High Elves enough for the Dark Elves to have a chance at revenge for being cast out.” Ren said, and then sighed. “You're right. Is it my place to decide what they can and can't do as a people? Do I have the right to deny them their revenge?”
+
+No one spoke as they all climbed back into the covered cart, and Ren sat in the driver's seat as Artemis floated beside him. Princess took off at an easy pace and then poured on the speed.
+
+They were back at the Main House several minutes later and picked up Patty, then travelled to the capital and unloaded in front of the castle. They made their way through the various hallways to the right meeting room and they were stopped by the guard.
+
+“Meeting is in session. You can't go in.”
+
+“I didn't ask your permission.” Ren said.
+
+“You'll disrupt the proceedings if you all go traipsing across the room in the middle of a discussion.” The guard said.
+
+“Fine.” Ren said and turned to his group. “Follow me.” He walked down another hallway and around the corner, then took out the All-Seeing Mirror and checked the wall beside their seats. No one was close to it, so he cast a Pass Wall spell on the wall and opened up an 8 foot high and 6 foot wide passage through it.
+
+Xuunah, Patty, Frikara, Lusinia, Verwynn, Navruth, Andrela, Officer Holly, and Artemis went through, then Ren entered last and dismissed the spell. They were all in their seats by the time anyone noticed that they had appeared. It was Princess Diana, because she had been looking from the door to Ren's empty seat. When she saw him sitting in the chair, she caught her breath; which caught King Alamast's attention and he looked where she looked.
+
+“Well, he made it in time.” King Alamast whispered to his daughter. “They are about to vote on the trade tax, which is the last official meeting for the day.”
+
+The man at the podium called for a vote. “All those in favor of raising the trade tariffs on lumber from 3 gold per ton to 5 gold per ton, please choose now.”
+
+Ren was surprised when a popup window appeared and gave him the option to up-vote. He didn't, and the popup closed. He liked his lumber cheap and easily accessible, and assumed everyone else would, too.
+
+“Motion carried.” The man said. There was a clinking sound, like coins being shaken in a bag, and several people in the audience chuckled as they received the increased payments. The man turned to the king and bowed. “That concludes the voting polls for today, Your Highness.”
+
+“Thank you.” King Alamast said and stood up, and the man stepped aside and resumed his seat at the closest table. The king walked over to the podium and braced his hands on it's sides. “This morning, the question of appropriating lands and it's consequences came up. As the first order on the non-official list, Lord Ren has requested for us to appoint a new Lord to this governing body.”
+
+Ren raised his hand to speak.
+
+“Questions must wait until the debate portion of the proceedings.” A shrill male voice said from the table the other man sat at. Ren put his hand down, and King Alamast started to drone on about responsibility and the burdens of becoming a Lord. Ren tried not to sigh continuously as the speech went on, then he felt relief when it ended nearly 10 minutes later.
+
+“If you have anyone that you want to submit as a nomination for the next Lord, please come up here to Gerald and we will record them, then consider their validity before putting it up for debate and voting.” King Alamast said.
+
+“Are you kidding?” Ren asked.
+
+“No, this is an emergency situation.” King Alamast said. “The previous Lord is dead, by your actions, and another must be put forward to fill the gap.”
+
+“Not by my actions, by his.” Ren said. “I only wanted someone to take over the lands so the people don't suffer without someone to run things.”
+
+“I'm sure if I and my colleague joined forces, we could acquire the land in less than a month.” One of the other Lords said.
+
+“That's not what I asked for.” Ren said.
+
+“Yes, it is. You want someone to take over the land...”
+
+“I meant 'assume control' not 'overrun'. These people have had soldiers harass them enough without someone trying to conquer their land.”
+
+“What soldiers of other Lords do on their own lands shouldn't be your concern.” One of the Lords said.
+
+“It should be all of our concern.” Ren said. “Do you let your soldiers walk around and assault and rob people? Do you let them paw at young girls?” He looked at their passive faces and shook his head. “You don't even care what your own soldiers are doing, do you?”
+
+No one said anything, so Ren stood up and looked at the king.
+
+“As the person that brought this up to the crown, does my recommendation hold a heavier weight?” Ren asked. “If it does, I'll add a recommendation for the new Lord.”
+
+“If it doesn't?” Another Lord asked.
+
+“Then there's no point in nominating anyone because I am alone here. You and your friends are going to vote for your own picks and I'll automatically lose.”
+
+The other Lords exchanged glances, and the government officials around them did the same.
+
+“That's the way it's always been done.” King Alamast said.
+
+“Then I don't know how you ever get anything done.” Ren said and sat down. “Go ahead with the nominations and voting. I abstain on the grounds that it's both pointless and unnecessary.”
+
+“Duly noted.” The shrill male voice said.
+
+Ren sat there and didn't pay them any attention at all as they debated the people nominated, and he took out the All-Seeing Mirror and asked to see the hospitals and wards of the ghoul infected. He shook his head at the haphazard setups and living conditions and couldn't believe that people weren't succumbing to the sickness while living like that.
+
+Now that he had the opportunity, Ren used the All-Seeing Mirror to check the shipping routes and any altercations that were ongoing with the Sea Dwellers. It wasn't as desperate as he thought it was going to be, and the Sea Dwellers were only harassing the ships and not stopping them. The Land Dwellers still had a couple of days left before the deadline, and he hoped they would use them wisely.
+
+“Ren.” Frikara whispered and touched his arm, and he nodded to her and looked at the king.
+
+“Bring the Lord nominee to the castle tomorrow, and we will have the indoctrination ceremony.”
+
+“Yes, Your Highness.” One of the Lords said, happily.
+
+“Now, to deal with the final petition before the crown.” King Alamast said. “The Sea Dweller's Ultimatum.”
+
+Ren stood up and walked towards the podium.

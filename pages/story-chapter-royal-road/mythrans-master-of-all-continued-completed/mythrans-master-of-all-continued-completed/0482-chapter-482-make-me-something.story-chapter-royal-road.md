@@ -1,0 +1,279 @@
+---
+id: ef98ab15-f80d-5d0e-9ae2-c34f9773a099
+page-type-slug: story-chapter-royal-road
+title: "Chapter 482 - Make Me Something"
+slug: 0482-chapter-482-make-me-something
+partOf: mythrans-master-of-all-continued-completed
+position: 482
+ownLength: 3433
+unit: words
+publishedAt: 2018-01-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186645/chapter-482-make-me-something"
+royalRoadId: "186645"
+---
+
+Diana hadn't ever kissed anyone like that before. She'd shared a kiss with one of the stable boys, and they laughed and carried on a little; but, it didn't mean anything and they both knew it. She had a crush on her combat instructor a year ago, and when she confronted him and tried to kiss him, it felt wooden and lacked any kind of substance. It was then that Diana realized that the man was actually afraid of her; so, the crush she had on who she thought was a strong and powerful man died a quick and painless death after that. She had even practised kissing her pillow after the last time she had met Ren... and it was nothing like this.
+
+Ren felt Diana's emotions run through several changes, and it seemed as if she had lost herself in the sensations. He knew that if he didn't stop her soon, she would just keep going. Almost as if she felt his decision, Ren was surprised when Diana firmly stomped on her emotions to put them back in check.
+
+“Thank you for the amulet.” Diana said as she broke the kiss and let him go.
+
+“Your Highness, you keep impressing me.” Ren said, and that made her smile. “Would you like an upgrade for it?”
+
+“An upgrade?” Diana asked, and Ren nodded. He took out the Amulet of Interrogation he had made in Lord Tathalyn's apartment, used Double Infusion to add the modified Amulet of Natural Armor enchantment to it, and held it out to her.
+
+“You're serious?” Diana asked as she took off the amulet she had on and untied the small sack of his hair that she had on it. Ren gave her the new amulet and replaced the enchantment on the old one with the modified Amulet of the Spider enchantment, and used Double Infusion to give it the Natural Armor enchantment as well.
+
+“You can keep this in case you want to go wall crawling.” Ren said and handed her back the amulet. “Do you have an inventory?”
+
+Diana shook her head and Ren gave her a Strong Ring of Storage as well.
+
+“Now you do.” Ren said and smiled.
+
+“What... what else can I get for... for another kiss?” Diana asked and put on the ring, then stored the old amulet and the small sack of hair inside.
+
+“Your Highness, I think I'm teaching you the wrong things.” Ren chuckled. “Your kisses should be more valuable than that.”
+
+“I know you aren't interested in actual money.” Diana said and smiled. “What do you have for me, and what do you want for it?”
+
+“This is not the conversation I thought we were going to have.” Ren smiled back. “I'll think about what you might need, and I'll get back to you.” He said and climbed up onto Princess. “I need to go and keep clearing out the mass of ghouls in the High Elven Kingdom.”
+
+“Wait, what?”
+
+“I can't let the ghouls build up their forces.” Ren said. “If they become a horde again, they could keep overrunning everything.”
+
+“You're fighting the ghouls... by yourself...”
+
+“No, I've got good friends with me.”
+
+“Your mount?” Diana asked and looked at Princess.
+
+“I help round up the beasts and Zetaya eats them.” Princess said proudly. “It's quite fun.”
+
+Diana's mouth dropped open from shock, and Ren laughed.
+
+“I knew I forgot to ask for something when I was talking to Yllana.” Ren said. “I would have liked to save that image.”
+
+“Wh-what?” Diana asked, and he felt her confusion.
+
+“The High Elves have something called the Automatic Image Maker. It can make images and illusions of current events.”
+
+“They have that, too?” Diana asked. She saw Ren's reaction to her question, and let a smile spread across her face. “I believe I now have something you want.”
+
+Ren raised a single eyebrow at her, and she held in her giggle. “Okay, what do you want in exchange?”
+
+“I don't know.” Diana said. “I've never had access to someone with all of your skills before.”
+
+“Why don't you think about it for a while, and I'll come back with a few things for you to look at.”
+
+“Don't try and fool me with useless trinkets or something.” Diana warned.
+
+“Your Highness, I am so tempted to lie; but, I won't.” Ren grinned. “You should know that even the trinkets I make can be worth quite a lot of money.” He said, and hopped off of Princess. “In fact, wait here for a moment.”
+
+Diana watched Ren walk 15 feet away and put something on the ground. He spoke a short stream of bubbles and gurgles, and then a 20 foot long by 20 foot wide by 30 foot tall tower sprung into place and pushed him almost all the way back to her. She yipped in surprise, and Ren chuckled as he opened the door to his storage tower and went inside. He came back out and the tower shrunk away, and he went back to the spot, switched the towers, and had his shop tower spring into place.
+
+“Wait, why are you doing it again?”
+
+“It's a different tower.” Ren said and went inside. He came back out a minute later, shrunk the tower and stored the cube.
+
+“That's amazing.” Diana said, and Ren walked over to her.
+
+“I'd like for you to have this.” Ren said and took a Ram and Cart toy out of his inventory. “You wind it up here, and push this to get it to go.”
+
+Diana stared at the thing in his hands, and he could feel her utter amazement. Ren turned the key once and put the toy down, then hit the button. It went a little ways and he picked it up and handed it to her.
+
+“Enjoy.”
+
+Diana looked at the toy, then back at Ren. She had never seen anything like it before.
+
+“It's pretty neat.” Ren said. “I probably should update it to look like her new armor, though.”
+
+Diana looked at the toy, then at Princess. “It's her?”
+
+Ren nodded. “I wanted to immortalize her in toy form, and when I found a toy boat with wheels in the dwarf lands, I adapted it.”
+
+“You were in the dwarf lands, and this was what you brought back?”
+
+Ren chuckled. “I brought a lot more back than that; but, that's one of the more important things.”
+
+Diana shook her head. “You have strange tastes.”
+
+Ren laughed. “I sure do.” He said. “Would you like another present?”
+
+“I... I would, actually.” Diana stored the toy and looked at him expectantly.
+
+Ren took out a 2 foot tall plush rock golem. Diana let out a short squeal of delight before she caught herself, and Teepo chittered in laughter. Ren felt her emotions and knew she really liked it, so he handed it to her without saying anything.
+
+Diana gingerly took the plush doll and hugged it close. “Thank you, Ren.”
+
+“You're welcome, and I'm glad you liked it.” Ren said, sincerely. “Now, if you'll excuse me, I have to get back to the High Elven Kingdom.”
+
+Diana nodded, but didn't ease her hold on the plush toy. “Don't forget our deal.” She said. “I'll get the image maker for you, and you give me something just as valuable in exchange.”
+
+“I won't forget.” Ren said and climbed back onto Princess' saddle. “I've already got a few things in my head to have ready for you.”
+
+“Good.” Diana said. “It was nice meeting you, Princess.”
+
+“It was nice meeting you, too.” Princess said.
+
+Ren gave Diana a nod, then Princess turned around and trotted up into the air, then disappeared from sight.
+
+*
+
+Diana looked up at the sky for a few moments, turned around and went back inside the castle. She walked slowly back through the various hallways to get back to the main staircase, then went up to her room. Several people had tried to talk to her as she passed them; but, she ignored them because she was lost in thought. She made it back to her room, and rather than go to her perch at the window to look out, she went to her bed instead.
+
+Diana laid down and stared up at the ceiling. Her grip on the plush rock golem hadn't eased since Ren had given it to her. She rolled over onto her side and buried her face into the toy's softness.
+
+I hope he comes up with something for me soon. Diana thought and took a big breath and let it out, then she smiled as her hand grazed the new amulet. He said my kisses should be more valuable than that! She thought happily, and hugged the plush toy even tighter.
+
+*
+
+Ren arrived back at Elerlyth and Zetaya's rest spot, and found that they were both asleep. Really? He thought as he looked at the colossal cow and at the dark elf in a recliner. Can you believe this, Teepo?
+
+“I sure can.” Teepo said. “Maybe you should get some sleep, too.”
+
+I'm not... Ren yawned. Dammit.
+
+Teepo chittered in laughter. Ren made another recliner and put it next to Elerlyth and sat down in it, pulled the lever, and sighed.
+
+Wake me up if anything happens. Ren thought to his friend, then closed his eyes and fell asleep.
+
+*
+
+Xuunah came out of her Holy Connected Sanctuary and sighed. She always felt refreshed after being exposed to the Light, and she closed the door behind her.
+
+I wonder where Ren is? Xuunah asked herself and walked over to the door to leave the apartment. She would ask the maids where he was, and then she saw the note stuck to the inside of her door. She read it, and it explained where he was and that he couldn't feel her while she was inside the Sanctuary and he was worried about her.
+
+I probably should have told him about that possibility. Xuunah thought, and took the note down and left the apartment. She walked down the hallway towards the staircase, and saw Officer Holly come inside the Main House.
+
+“Oh, hi!” Officer Holly said. “How are you today?”
+
+“I'm fine.” Xuunah said. “You?”
+
+“I'm a little worried about Ren.” Officer Holly said. “I'm supposed to stay near him to keep an eye on him.”
+
+Xuunah smiled. “I'm supposed to as well.”
+
+“Hey, we can look for him together.”
+
+“No need.” Xuunah said and took out the note Ren had left her.
+
+Officer Holly read it and sighed. “There's no way we can get across the countryside to meet him.”
+
+“Not a chance.” Xuunah chuckled. “What should we do until he comes back?”
+
+“The bakery across the road has great fried dough.”
+
+“Great what?”
+
+“Come with me.” Officer Holly said and walked back towards the door. “You're in for a treat.”
+
+Xuunah followed Officer Holly out of the Main House, and felt anticipation. Officer Holly on the other hand, her mind was filled with what Ren had written in the note.
+
+He can feel Xuunah without sharing an Aura like he does? Officer Holly asked herself. What kind of connection does he have with her? She let no sign of her thoughts show as she opened the bakery door for Xuunah, and saw her reaction to the smell of the place.
+
+“Isn't that the best smell?” Officer Holly asked out loud. “That means they've already made a batch of bread, and should have some extra dough for the deep fryer.”
+
+“For the what?” Xuunah asked.
+
+“Don't worry about the details.” Officer Holly said. “Just have a seat, and I'll get some.” She went over to the counter to order 2 dozen fried dough pieces. These things are as good as real donuts. She thought, ordered 2 dozen and paid for them, then went to sit with Xuunah to wait. A few minutes later, one of the bakers brought the plate over with the fried treats on it.
+
+“Thank you.” Officer Holly said to her, and gave her a tip.
+
+“It's always nice to serve a regular customer.” The woman said and left.
+
+“Go ahead.” Officer Holly said and took one, then bit into it. “Oh, that's good!”
+
+Xuunah could clearly see the other woman's pleasure at the taste, and picked one up. She only took a small bite and chewed it, and then the taste hit her tongue.
+
+“Oh, my.” Xuunah said and took another bite, this one much bigger.
+
+“I told you.” Officer Holly said. “These things are great!”
+
+“They truly are.” Xuunah said and finished one, then picked up another.
+
+*
+
+Ren woke up after an hour had passed, without Teepo's help, and felt completely rested. Elerlyth was still asleep, as was Zetaya; so he took out the two books he had gained from leveling up. He read the Book of Understanding first and gained +1 to his Wisdom, and the pages went blank. He stored it and read the Book of Thought and gained +1 to his Intelligence, and it's pages went blank as well. He stored it with the other book and thought about what he could make for Princess Diana.
+
+“You could make her a new wardrobe.” Teepo suggested.
+
+No, she probably has tons of clothes. Ren thought. Maybe new armor?
+
+“Or a necklace.” Teepo said. “Or a couple of bracelets.”
+
+Actually, before I do that. Ren stood up and took out his shop tower. I need to make a new familiar.
+
+“Ooo, did you decide what to make?”
+
+I did. Ren went inside and started up the forge, and added enough iron bars to fill the smelter.
+
+“Are you making it the normal way, or are you using the Craft Wondrous Item platform?” Teepo asked.
+
+“I'm tempted to use the platform; but, if I use it, I'd have to make it small and then enlarge it.”
+
+“You can do that.” Teepo said. “You need the body before you infuse it with Mana to make it a familiar, so the method you use to build the body doesn't really matter.”
+
+Ren thought about it. “Okay, you're right. Depending on how this goes, I'll use the platform instead.” He said and brought up the sentient crossbow recipe he had gained so long ago. “Regular bolts won't work.” He said. “It's too limited by the amount of bolts it can hold, even if I added the Automatic Ballista modification.”
+
+Ren deleted that part of the crossbow and opened one of the High Elven tower recipes. He copied the Mana infusion point and added it to the crossbow. Now that it had the proper receptacle, Ren added the wand recipe for the Magic Arrow spell.
+
+“This is going to be so awesome.” Ren said, and turned the design on it's side.
+
+“What are you doing?” Teepo asked.
+
+“Since it's going to be sentient, I can't just leave it be a normal crossbow.” Ren said, and added legs and arms to it in the appropriate spots. “No, then it looks like it's headless.” He said and removed the arms and legs and turned it back upright. “Hm... what can I... I got it!”
+
+Ren opened Tee-one's recipe and changed the base to look distinctly female, deleted the male face and added one that looked female, and removed the added armor. He opened Elerlyth's armor recipe and added that to the body, then for the heck of it added her web pattern bodysuit under it. He added the enchantments right into the recipe, including the diamonds necessary for it, then tossed in 2 copies of the Bracelet of Unbelievable Magic recipe.
+
+Ren probably could have left the bracelets off and given them to her afterwards; but, he was adding them into the recipe so she wouldn't have to worry about equipping them or keeping track of things. Since he was adding everything anyways, he tossed in the recipe for the Amulet of Unnatural Armor Protection of the Spider that he had given to Lara, the Sage of Ages, and a Strong Ring of Storage with Dwarf Communication runes in it, just in case, then added in the same shield and mental protection enchantments his own armor had.
+
+“No one is going to be able to touch her.” Ren said and smiled as he moved the sentient crossbow recipe into the new female familiar body. Since it was now magic-based, Ren merged the recipe into the familiar's chest, with the main body of the crossbow down the spine and the ends of the bows went out to the arms.
+
+“Is that even going to work?” Teepo asked.
+
+“It should, since it doesn't really need any actual moving components anymore.” Ren said. “But, I think you're right.” He said, and moved the discharge mechanism down to the hand instead, then copied it for the other hand.
+
+“Dual firing?” Teepo asked, and Ren nodded.
+
+“She's going to have twice as much Mana as everyone else, so being able to fire two Mana bolts at the same time is definitely a plus for this design.”
+
+“Is there any particular reason you're making it female?”
+
+“Not really.” Ren said. “I made Tee-one and Ruck male, so it's just a change of pace.”
+
+“You should make her fast, too.” Teepo suggested, and Ren threw in the heavily modified Boots of Striding and Leaping with Speed runes. Since they were going to be solid metal, their bonuses were going to be huge.
+
+“I can't make it on the Craft Wondrous Item platform, though.” Ren said. “The diamonds need to be full size to hold all the enchantments.”
+
+“Then you need to get the mold set up.” Teepo said, and Ren laid out an approximate shape for what he needed. He then took out the right number of diamonds and enlarged them to the proper size.
+
+“Here we go.” Ren said and poured out the molten metal. It started to fill the mold and he poured it all out to empty the smelter. He bent down and put his hand into the molten metal and activated his Craft Familiar ability. He didn't wait for it to cool at all, because it would just be a featureless mass if he did. He wanted the recipe to form it into the shape it was going to be, and let the game system handle the details. When it asked for the platinum coins, the diamonds, and the Mana, he added them to it.
+
+Notice!
+
+Please choose the inherent spell this familiar contains.
+
+“Permanent Regeneration.” Ren said automatically, and used his Spell Combine skill to make it. The molten metal churned and condensed as it formed into the proper shape, and it even had long flowing metallic hair. Ren used his Fire Manipulation and Absorb Fire skills to cool it off instantly.
+
+Notice!
+
+Initiating bond. Please do not remove your hand.
+
+Ren felt something click inside his head, then felt a new intelligence grow. It fully formed in only a moment, and the presence filled the new link. The familiar opened her eyes and looked at him.
+
+“You really should ask a woman first before touching her chest.” She said and smiled, and Ren looked at where his hand was. It was nestled right between her armored breasts.
+
+“Oh! I'm sorry!” Ren exclaimed and removed his hand. “Please, forgive me.”
+
+“There's nothing to forgive.” She said and sat up. “I was only joking.”
+
+“Oh.” Ren said, a little flustered. “Um...”
+
+“Give me a hand.” She said and held a delicate hand out, and Ren took it and helped her stand. She was 6 feet tall, her chest was a good size and was at least a 36 C, and her metallic hair flowed in a non-existent breeze as if it were alive. Ren stared at her, because without thinking about it, he had combined three women's faces. The familiar had Elise's eyes and chin, Lisa's mouth and lips, and Stella's cheeks and forehead. She also had Elise's long flowing hair, albeit metallic and not red in color.
+
+“May I have a name, please?” The familiar asked.
+
+Ren didn't know what to say, because he hadn't thought of a name beforehand. Now he was at a loss to think of one, and he knew that the longer he waited, the less chance there was for her to like what he picked. The familiar laughed because she could hear all of his thoughts, and crossed her arms under her armored breasts. The movement lifted them up a little, much to Ren's surprise.
+
+“I'm waiting.” The familiar said and started to tap her foot impatiently.

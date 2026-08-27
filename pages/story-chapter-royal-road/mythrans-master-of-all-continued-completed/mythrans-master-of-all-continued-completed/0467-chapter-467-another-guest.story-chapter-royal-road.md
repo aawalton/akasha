@@ -1,0 +1,331 @@
+---
+id: 0fe33641-d92c-5a84-9ca1-68311fe3a62c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 467 - Another Guest"
+slug: 0467-chapter-467-another-guest
+partOf: mythrans-master-of-all-continued-completed
+position: 467
+ownLength: 3186
+unit: words
+publishedAt: 2017-12-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183454/chapter-467-another-guest"
+royalRoadId: "183454"
+---
+
+Now that Elerlyth didn't have to keep to the roads or pay attention to land borders, patrols, or even look out for bandit raiding parties, the trip back to Hailey's hideout went by fairly quickly. They came in for a landing just outside the hideout and Hailey slid off the steed.
+
+“What a guy.” Hailey said and pat the horse. “He gave you a present on his birthday.”
+
+“You should have asked for one.” Elerlyth grumbled. “Come on, Etheria! Let's go!”
+
+Etheria didn't move, and Elerlyth grunted again.
+
+“What NOW?!?” Elerlyth yelled.
+
+Etheria turned his head to the side and licked a huge bruise on her bare leg.
+
+“I can get looked after later! Go! GO!”
+
+Etheria turned his head to face forward and didn't move, no matter how many times she flicked the reins.
+
+“He's not leaving until you get healed.” Hailey said, and Elerlyth felt her amusement.
+
+“It's not funny!”
+
+“Oh, yes it is.” Hailey said. “What was it you said? When the spell is cast, it gives you the steed specifically made for you?”
+
+“Goddammit.” Elerlyth said and got off the steed. “I'm walking!”
+
+Etheria quickly darted forward and caught her hair in his teeth.
+
+“Hey! Let go! I'm leaving!”
+
+Etheria shook his head, which shook her head.
+
+“GODDAMMIT!” Elerlyth yelled, and Hailey laughed and laughed.
+
+********
+
+Ren took off the VR headset, and Denise took it from him.
+
+“I'm sorry, Ren.”
+
+“It's okay.” Ren said. “She's having a hard time joining together her feelings in the game to her feelings in real life.” He said. “She's spent so much time compartmentalizing and keeping things separate, that she can't reconcile between them.”
+
+“That's very mature of you.”
+
+Ren chuckled. “You saw what I did to that house, right?”
+
+Denise grinned. “That looked kind of fun, actually.”
+
+“It was.” Ren said and got out of bed, then sat down in the wheelchair. “Let's get back downstairs.”
+
+Denise took him to the elevator and went down to the ground floor, and back to the living room.
+
+“So, did you find her?” Stella asked.
+
+“Yes, so you can stop trying to call her.” Ren said. “She was playing a stupid quest in the game.”
+
+“Oh?” Stella smiled knowingly. “I seem to recall someone else that does things like that.”
+
+“I've never accepted a quest that required me to be beaten up constantly by over 50 fighters.”
+
+Stella's smile disappeared and no one spoke.
+
+“It's okay.” Ren said. “I killed them all and ended her quest.”
+
+“Wh-what?” Elise bent over to look at him. “You did what?”
+
+“I wiped out the fighting school that had captured her and her friend, destroyed the house the fighters lived in, then removed any evidence the house even existed.” Ren said, casually.
+
+“But... that should have taken...”
+
+“Less than a second.” Ren said and smiled. “I did it with my chest laser.”
+
+“Ren, you...” Elise closed her eyes, took a breath, and opened them again. “You can't do things like that.”
+
+“I know.” Ren said. “I got a warning that I'll start gaining Infamy if I keep doing it.”
+
+“That's not what I meant.” Elise said.
+
+“I think I can help there.” Barbi said, and Elise and Ren looked at her.
+
+“If the public saw that you can just casually kill a bunch of people and not think twice about it, or even feel guilty...”
+
+“You're my publicist now.” Ren said. “I assume Elise gave you access to the server footage?”
+
+Barbi nodded.
+
+“Then if you're worried about what people will think, take that footage and post it.” Ren said. “Make sure to say I was worried about her, and when I showed up to talk to her, found that she was being repeatedly beaten and battered.” He said. “I won't stand for a woman being treated like that, so I killed them. Not a few, not half of them, all of them.” He smiled. “I erased anyone that touched her.”
+
+No one said anything, and then Ren felt a large hand on his shoulder. He looked up and Donald gave him a slight nod.
+
+“I'll be right back.” Barbara said and left the dining room.
+
+“I think I should leave, too.” Barbi said.
+
+“Nonsense.” Ren said and smiled at her. “It would be impolite to ask my present to leave after just arriving.” He said and waved to the dining room table. “Please, come in and have a seat.”
+
+“Um, I... ah...”
+
+“You're going to have to get used to being around here.” Elise said. “Why not start today?”
+
+“Oh, all right.” Barbi said with a huge smile and walked over to the end of the dining room. She stuck a portable camera up on the wall and positioned it to catch most of the room. “I can get some nice pictures to share on social media.”
+
+“Make sure you get my best side.” Donald said and sat down with his back to the camera.
+
+Barbi checked the view on her phone and her smile faltered. “It's only going to see the back of your head.”
+
+“That's what I said.” Donald smiled. “It's my best side.”
+
+Lisa snorted a laugh and Stella covered a smile with her hand.
+
+“Someone get the lights!” Barbara said, and Stella turned them down. Everyone started singing the Happy Birthday song, and Ren saw a huge slab cake with 19 candles on it.
+
+Only 19? Ren thought, then shook his head. Right, time in the pocket realms doesn't count.
+
+“Blow out the candles and make a wish!” Barbara said and set the cake on the dining room table as Stella turned the lights back up.
+
+“I don't have anything to wish for.” Ren said and looked around at everyone. “I've already got everything I could ever want.”
+
+“That's so sweet.” Barbi whispered in the silence, and Lisa leaned forward and whispered in Ren's ear.
+
+“Really?” Ren asked. “That's a little unrealistic.”
+
+“It wouldn't hurt.” Lisa said. “I mean, why not wish for it?”
+
+Ren shrugged, took in a huge breath, then blew out the candles.
+
+“What did you wish for?” Barbara asked.
+
+“I asked-” Ren's words were cut off when Lisa put her hand over his mouth.
+
+“Shh! It's a secret!” Lisa said.
+
+Ren chuckled and she moved her hand away.
+
+“Can we eat now?” Donald asked. “I'm starving.”
+
+“Stella and Lisa, give me a hand with the other dishes.” Barbara said. “Ren, you can have one piece of cake.”
+
+“Okay.” Ren said and picked up the knife. When the three women left the dining room, he cut a 6 inch by 6 inch square right out of the middle of the slab cake, the part that had his name on it, and put it on a 5 inch wide plate. He grabbed a fork and sat down, then waited until Barbara came back into the dining room.
+
+“REN!” Barbara yelled and almost dropped the plate of sandwiches.
+
+“What? It's only one piece.” Ren said and grinned.
+
+“Mister, you better cut that up into 4 pieces right now!”
+
+Ren laughed and cut it up as instructed. Elise took a piece, Lisa took one after putting down 2 bowls of potato chips, and then the doorbell rang.
+
+“I'll get it.” Stella said and left the room after putting the dish of potato salad down. Ren put the third piece of cake on another small plate and set it aside. Stella came back into the dining room, and she was followed by a short brown-haired woman, who Ren easily recognized.
+
+“Hello, Officer Stonewall.”
+
+“Hello, Mr. Haddon.” Officer Holly said with a smile. “I just got off shift and thought I'd stop by to say Happy Birthday.”
+
+“That was nice of you.” Ren said.
+
+“It really was.” Officer Holly chuckled and looked around. “I'd comment that there's not a lot of people here; but, I think that opinion is skewed because the last birthday party I was at had about 30 teenage girls in attendance, and it was like a stampede.”
+
+Ren stopped moving and the piece of cake on his fork teetered dangerously. “What?”
+
+“My partner's niece had a birthday party not that long ago, and I was invited.” Officer Holly said. “I swear I've never seen so many string bikinis and bouncing boobs in my life.”
+
+The cake on Ren's fork fell off and landed on the table.
+
+“S-string b-bikinis?” Ren asked, and Elise and Lisa covered their mouths to stop from laughing.
+
+“Yeah, it was a pool party.” Officer Holly said. “We played water polo, chicken, and a few other games I don't know the names of.” She said. “It was pretty fun.”
+
+“I... can imagine.” Ren said, his eyes a little wide as he put the empty fork in his mouth and chewed the piece of cake that wasn't there, then looked down at the table. “C-cake?”
+
+“Oh, thank you.” Officer Holly said and picked up the third piece Ren had cut off his own, and started to eat it. “Hey, this cake is delicious!”
+
+“It really is, isn't it?” Barbara asked and picked up a large plate from the stack, added a bit of potato salad, some chips, and two sandwiches to it, then gave it to her husband.
+
+“Thanks.” Donald said and started eating.
+
+Barbara turned and looked at everyone. “Don't just stand there. Help yourselves.”
+
+Everyone but Officer Holly grabbed a plate and added what they wanted to it, and sat down at the table as Ren picked up the piece of cake he had dropped on the table and tossed it into his mouth.
+
+“We were planning on a quick dip in the pool, too.” Stella said and took a bite of a sandwich. “After a quick meal, a bit of rest...” She looked at Ren and then at Barbi. “...and more presents.” She laughed. “Preferably less dramatic ones.”
+
+“Let me add mine to the pile.” Officer Holly said and put her hand into her shirt pocket, and took out a business card and put it on the table beside Ren.
+
+Ren put his fork down and picked up the card. “What's this for?”
+
+“It's an apology for how I acted.” Officer Holly said. “I know I was wrong, and I'm sorry for overreacting.”
+
+“Does this mean I can call you day or night and you'll come running?” Ren asked with a grin.
+
+“Hell, no.” Officer Holly chuckled. “Flip it over.”
+
+Ren turned it around and saw a long internet address on it.
+
+“It's a secured link to the interview footage of the guy hired to attack you.” Officer Holly said, and everyone fell silent. “My partner and I have been sharing everything with you so far, so I figured you'd want to watch it for yourself.” She said and finished eating the piece of cake. “He confessed to everything, and he's locked up and awaiting transfer back to prison.”
+
+“Back to prison?” Stella asked.
+
+“He violated his parole conditions.” Officer Holly grinned. “No trial and no messy public mudslinging.” She said. “Go straight to jail. Do not pass go. Do not collect 100,000 dollars.”
+
+Everyone else exchanged glances, and then they all looked at Ren.
+
+“Ren.” Elise said, and he looked at her. “Are you okay?”
+
+“Actually, I think I'm a little insulted.” Ren said and handed Elise the card with the internet address. “I thought I would be worth more than that.”
+
+Officer Holly snorted a laugh. “I can't tell if you're joking or not.”
+
+“I'm kind of joking.” Ren said and picked up his fork. “Since you're already here, why don't you stay?”
+
+“What?”
+
+“Grab a plate and help yourself to some food.” Ren said and used the fork to take another bite of cake. “This cake really is delicious.”
+
+“But...”
+
+“If you're busy and have to go, that's okay.” Ren said and finished off his cake. He licked his lips and pointed to one of the bowls of potato chips. “Can someone pass me the chips?”
+
+“Only a handful!” Barbara said.
+
+“Whose hand can I use?” Ren asked, and she laughed.
+
+“You really do use literal interpretations to make a point.” Officer Holly said as she picked up a plate and took a sandwich, and remembered when she told him not to grab her butt in the game, and he told her what he could have done to her instead. Ren chuckled and tapped himself on the tip of the nose.
+
+“Use Lisa's hand, smart aleck.” Stella said. “They're smaller than yours.”
+
+“Aww.” Ren said. “Outsmarted again.”
+
+Lisa laughed as she picked up the bowl and dropped a small handful of potato chips onto his plate. “It's almost better than nothing.” She said and kissed his cheek.
+
+“Thanks, Lisa.” Ren picked a chip to hold up reverently. “Oh, salt and vinegar flavor!” He said loudly. “How I miss thee!”
+
+Officer Holly covered her mouth with a hand. “Bzzt! Car 54 to station. We have a 10-54 in progress. I repeat. We have an overactive ham on the loose.”
+
+That made everyone laugh, especially Donald because he knew what the code meant.
+
+“Loose livestock! Ha ha!” Donald guffawed.
+
+Officer Holly felt relieved that they weren't as angry at her as she thought they were going to be, considering the things she had said the last time she was here. She had hoped her apology would smooth the way, and that the footage would help to try and get her back into their good graces. Her partner John had been right. It had been a huge mistake to make assumptions, and then jump to conclusions, without gathering as much evidence as she could first.
+
+Ren asked for a sandwich and Elise handed one to him. He started to eat it and talked to her about what he was doing in the game, and what he planned on doing next. Lisa leaned in close so she could hear over the other conversations going on, and put her hand on his shoulder. Ren stopped talking and turned to give her a kiss, then turned back to Elise to continue talking.
+
+“I even got a popup telling me to log off for an update.” Ren said and smiled. “You know what I did?”
+
+“What was that?”
+
+“I pointed up into the sky and shouted that I wasn't leaving until I wanted to.”
+
+“That's my Ren.” Elise chuckled. “How long did you stay after that?”
+
+“I had just arrived back in the High Elven city in mid-afternoon, so I stayed right up until it got dark.”
+
+Lisa snorted a laugh. “You're so bad!”
+
+“Tell them everything that happened when you logged back in to get Gloria.” Denise said.
+
+“Well, I was a little pissed that she wasn't here...” Ren started the story, and the other conversations died out as they all listened to him talk.
+
+********
+
+Elerlyth restlessly laid on the bed as Hailey administered the same healing techniques she had been using at the fight school, and the bruises on her arms and legs faded.
+
+“Why are you in such a rush to get to him, anyway?” Hailey asked and opened up Elerlyth's top. She hissed at the major bruise above her right breast, and hovered her hands above it and activated her Major Healing ability.
+
+“Because I hurt him and I didn't mean to.” Elerlyth said. “I have to explain...”
+
+“Explain what?” Hailey asked. “That you're too scared to face him in real life?”
+
+“I. Am. Not. Scared.” Elerlyth said through gritted teeth.
+
+Hailey chuckled. “I've known you for a long time now, and I can tell when you're scared.” She said. “Really scared, as in 'my whole body is shaking' scared, and not that temporary 'oh, that's horrible' kind of scared, either. Real, serious, life-altering scared.”
+
+Elerlyth clamped her mouth shut and didn't respond, and Hailey finished the healing. She closed Elerlyth's top and leaned over a bit further to touch Elerlyth on the cheek.
+
+“You love him and you told him, and that's that.” Hailey said. “I remember that time he gave you those wands and you let it slip out then.” She chuckled. “You were an emotional wreck for a week afterwards.”
+
+“It... it wasn't that bad.” Elerlyth said and sat up.
+
+“You couldn't even hold your sword straight, because he had given it to you, and it reminded you of him.” Hailey said and laughed. Elerlyth looked down at her outfit and how damaged it was, equipped her armor bodysuit, then equipped her armor. Or rather, the armor that Ren had retrieved and then discarded. She sighed and stood up.
+
+“Thanks for healing me.” Elerlyth said and walked over to the door.
+
+“Elerlyth.” Hailey said, and she turned to look at her friend. “Would he really have come to my rescue because of you?”
+
+“He said he would... and before you doubt him, he never lies.” Elerlyth said. “When he tries, he sucks so badly at it that it's funny.”
+
+Hailey smiled and nodded, and Elerlyth left the hideout.
+
+“Okay, you stubborn horse!” Elerlyth said when she was outside. “Look! Look at me!”
+
+Etheria, the Phantom Steed, looked at her and she turned around so he could see everything.
+
+“Are you happy now? I'm all healed, and I'm even wearing the armor he left for me.” Elerlyth said. “Now will you take me to him?”
+
+Etheria nodded, and Elerlyth climbed up into the saddle. The steed reared back on his hind legs and took off, and flew up into the sky at full speed. Hailey came out of the hideout to wave goodbye, and she sighed when Elerlyth flew away.
+
+“If she hadn't been so stubborn, Ren could have been the one to fight for me in the ring instead of her.” Hailey said wistfully. “That would have been interesting to see, with him so short and everyone else a foot and a half taller.” She said and walked back inside and shut the door.
+
+Elerlyth flew Etheria all the way back to Ren's county, and landed in front of the Main House. She hopped off the steed and ran to the front door, and then stopped when two identical men suddenly appeared in front of the door and stood there with their swords across the doorway.
+
+“What the...?” Elerlyth looked at them, and they looked back at her. “Let me in, please.”
+
+“You are not authorized to enter the premises.” One of them said without moving their mouth.
+
+“How do I get authorization?” Elerlyth asked. That's a little creepy.
+
+“Our Lord must say you are approved.” He said.
+
+“Well, then.” Elerlyth said. “Go and get him.”
+
+“My Lord isn't here.” The man said. “He is out on Adventurer's business.”
+
+Elerlyth sighed. “Can I leave a message for him?”
+
+“We are not messengers.” The disguised skeleton knight said.
+
+“Ugh!” Elerlyth grunted. “What is wrong with everyone?” She asked. “You are all stopping me from doing what I want!”
+
+He didn't respond; so, Elerlyth walked back over to her Phantom Steed and climbed up to sit on the saddle. After one long look at the upstairs of the Main House, she flicked the reins once, and Etheria flew away with a disgruntled dark elf on his back.

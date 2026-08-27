@@ -1,0 +1,249 @@
+---
+id: 14084031-7307-5a43-ace7-e2b5927893ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57 Undercurrent"
+slug: 0061-chapter-57-undercurrent
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 61
+ownLength: 2121
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3379428/chapter-57-undercurrent"
+royalRoadId: "3379428"
+---
+
+Word did not spread loudly in Helvarn. It moved in subtle ways, carried between conversations and passed along in fragments.
+
+By late morning, rumors had already begun circulating about the riders who had entered Helvarn.
+
+Two merchants stood beside a grain stall, one thick-bearded merchant adjusting the tied cloth around a bundle while the thin merchant kept his eyes on the passing crowd.
+
+The man watching the crowd crossed his arms. “Ashridge, right? And he spoke to you?”
+
+The thick-bearded merchant gave a tight pull before he spoke. “Very briefly. I was one of the last ones before he left.”
+
+The thinner man raised a brow. “And? What was he looking to buy?”
+
+“He asked for seeds. Not in small amounts either.”
+
+A low scoff followed as the thin merchant glanced toward a passing customer. “Seeds, in this season?”
+
+The thick-bearded merchant gave a light shrug. “Mm. Perhaps he plans to expand Ashridge.”
+
+“What did you tell him?”
+
+The reply came without hesitation. “What anyone in our group would.”
+
+A short pause lingered before the thinner merchant nodded toward an approaching customer. “Then he moved on?”
+
+The other merchant lifted the bundle and carried it toward the back. “Yeah, didn’t loiter about long. He looked like he was in a rush.”
+
+The conversation ended there as the thin merchant turned to greet the customer.
+
+By the next morning, the name had already begun to circulate, and with it, the tone had shifted.
+
+“Did you see it?” the thin merchant asked, his voice quieter this time.
+
+The thick-bearded merchant's brow furrowed. “See what? I was up late working the books.”
+
+The thinner man glanced around briefly. “The tavern we often go to. He was there.”
+
+A few breaths later, the other man asked, his tone low. “…Why would a noble go there?”
+
+“And he wasn’t alone.”
+
+That was enough for the thick-bearded man to frown. “With his guards maybe?”
+
+The thin merchant shook his head. “He was with that girl. The one with the small shop.”
+
+Recognition flickered across the thick-bearded merchant’s expression. “That shop with the strange prices?”
+
+The thin merchant gave a small nod, clicking his tongue.
+
+The other man rubbed his hand across his beard. “Hm...since when does she deal in bulk trade or grain?”
+
+The thin man let out a breath. “She doesn’t. But her family might.”
+
+This time the silence lingered before the thick-bearded man muttered. “...Didn't we already check? Her family won't get involved in Helvarn's market...so why?”
+
+No answer came, and the market didn't slow. Goods continued to move, and coin still changed hands.
+
+Yet it no longer moved quite as smoothly as before.
+
+Offers that would have once been made without thought were now weighed more carefully.
+
+Prices, previously spoken with confidence, carried just a little more hesitation.
+
+And when the name surfaced again,
+
+“Ashridge…”
+
+It no longer passed as easily as it had before.
+
+Despite Talia’s suggestion to walk through Helvarn leisurely, Lucien found little inclination to do so.
+
+The notion of leisure had never sat easily with him, not in his previous life, and not now.
+
+Instead, he turned his focus to the other purpose behind his visit. If trade could not proceed as he had intended, then the time would not be wasted. There were still things he needed to learn about this world.
+
+The guards had been dismissed earlier, instructed to set aside their armor and take their rest. There was no reason to keep them with him while he observed the city.
+
+The exchange had been...strange.
+
+Lucien exhaled softly through his nose as the memory surfaced again. Whatever conclusion Tomas had reached after the night before was not something he particularly cared to examine.
+
+'That was a matter for future Lucien', he noted dryly
+
+He pushed the matter aside as he stepped out into the busy streets.
+
+It did not take long to find what he was looking for.
+
+The shop stood near the inner roads, its exterior unassuming, marked only by a simple wooden sign etched with a quill.
+
+Lucien stepped inside to find a narrow interior that felt less cramped than expected. Shelves lined the walls from end to end, filled with bound volumes and loose stacks of parchment.
+
+The scent of ink lingered faintly in the air.
+
+Behind a counter near the back, an older man sat hunched over a desk, a quill moving steadily across a sheet of parchment.
+
+He moved along the shelves in silence, scanning the contents as he passed.
+
+Most appeared to be narratives of some kind, collections of local tales, copied stories, and dramatized accounts meant more for passing time than preserving knowledge.
+
+Lucien selected one at random, only to find its contents unremarkable after a brief glance. He replaced it and moved on to the next.
+
+The same held true for the next few volumes. Most were fragments of knowledge, more akin to accounts and tales than anything comprehensive like a treatise.
+
+As he closed a book, a faint sense of disappointment surfaced, though it did not show on his face. The books here were much the same as those in his manor’s library, differing only in quantity.
+
+Behind him, the faint scratching of quill against parchment came to a stop.
+
+“You’re looking for something specific, My Lord?”
+
+Lucien turned to face the scribe. “General information regarding the region. Local customs, nearby settlements closer to the heartlands...anything along those lines.”
+
+The older scribe regarded him for a moment. “You won’t find much of that here, My Lord.”
+
+“None at all?”
+
+“Not the kind you’re asking for.” The man set his quill aside. “Most who pass through want stories. Something to pass the time.” His gaze flicked briefly toward the shelves. “What little else there is tends to stay where it’s written.”
+
+“I see. Then where is such information usually kept?”
+
+He realized a moment later that his question implied more unfamiliarity than he should have shown.
+
+The scribe gave him a strange look but answered. “...Usually in the capital, My Lord. I imagine the collections there are far more extensive.”
+
+Deciding not to pursue the matter further, he shifted to another topic.
+
+Lucien deliberately rubbed his chin. "I am looking for more skilled labor to move to my village. Would Helvarn see many people of that sort passing through?"
+
+The man’s brow creased faintly. “It depends on the time of year, My Lord. Usually some arrive during mid-spring,” he said, shaking his head lightly, “but not during winter. Most are still in their cities at this time.”
+
+He gestured toward the scribe. "Do scribes ever come through as well? Craftsmen too. Masons, blacksmiths and the like."
+
+The older man gave a slow nod. "Scribes? There are some, My Lord. But you would have to provide a significant incentive to attract them to your village," his gaze lowered briefly in thought. "As for craftsmen...you are seeking journeymen, not masters?"
+
+At his nod, the man let out a breath. "You’ll likely have to wait until mid-spring for them as well, My Lord. They usually come from the surrounding regions...but asking them to move to a frontier village will be...difficult."
+
+His eyes narrowed before he spoke. "Because of the danger?"
+
+The scribe inclined his head though he said nothing more.
+
+Lucien gave a nod of thanks before turning toward the door and stepping back into the street.
+
+For a time, he remained where he stood, his thoughts on the absence of structured knowledge.
+
+The texts he sought likely existed, but were gathered in places not easily accessible. Either way, it was clear that he would not come to understand this world through texts alone. His recruitment efforts, too, would have to wait until at least mid-spring.
+
+His attention shifted toward his next destination. The shop had been built conveniently close to it, and he found himself wondering if that had been by design.
+
+The bell tower had stood out the moment they entered the fortress town.
+
+At the time, his attention had been elsewhere.
+
+Now, as he approached the structure at the heart of Helvarn, his gaze lifted to regard it.
+
+Stone formed its foundation, pale and weathered, the cathedral itself built with a restrained practicality that matched the rest of Helvarn. Its bell tower rose prominently above the surrounding buildings, visible from nearly every part of town.
+
+It was not the grandest structure he had seen, especially compared to memories of another world.
+
+At its center stood a bronze statue of a woman, the metal darkened slightly with age.
+
+Her features were smooth rather than sharply defined, composed with a quiet beauty that drew attention without demanding it. Long strands of hair trailed down the length of the statue, merging into the base in flowing lines of metal.
+
+She held a laurel close to her chest, the gesture gentle enough to feel almost welcoming.
+
+Lucien’s gaze rested on the statue for a long moment before shifting toward the entrance.
+
+It remained open without guards or barriers before it.
+
+A set of worn stone steps led inward, their edges softened by time. As he entered the cathedral, the first thing that struck him was how much calmer the interior was.
+
+Light filtered in from narrow windows set high along the walls, diffused as it passed through thin panes of colored glass.
+
+He stepped further inside, his gaze moving across the interior.
+
+The layout was simple. Rows of wooden benches arranged with careful spacing, all facing a raised platform at the far end of the hall. There were no excessive decorations or intricate displays.
+
+People were gathered throughout the space, some sitting in quiet contemplation while others knelt with lowered heads and clasped hands.
+
+A man dressed in white moved between them. His clothing was plain, layered in soft fabric that bore no insignia or mark of rank.
+
+Lucien watched as the priest paused beside a seated figure, leaning slightly as he spoke. The exchange was brief, yet the other person’s response suggested something more than a simple conversation.
+
+The familiarity between them reminded him of someone working as a counselor of sorts.
+
+Lucien’s eyes shifted further ahead, toward the front of the hall where another figure stood.
+
+A woman dressed differently from the priest moved between the kneeling figures. Where his attire had been structured and plain, hers flowed more freely, a white dress falling in soft lines with each step. A laurel rested upon her head as though it were part of a custom.
+
+In one hand, she carried a small vessel filled with water.
+
+The priestess stopped before a kneeling woman whose head remained bowed.
+
+With a small motion, she let several droplets fall over the woman’s head before placing a hand lightly against her forehead.
+
+For a brief moment, nothing happened.
+
+Then Lucien saw it.
+
+A faint white glow surfaced beneath her hand. Soft, almost indistinct, yet clear enough that it could not be dismissed as a trick of light.
+
+The woman’s posture eased before his eyes, the tension gradually leaving her shoulders as her breathing slowed.
+
+The light faded as quietly as it had appeared.
+
+She withdrew her hand and moved calmly to the next waiting worshipper.
+
+Lucien remained where he stood, his gaze lingering on the space where it had occurred.
+
+There had been no visible mechanism or elaborate ritual. The priestess had simply placed her hand upon the woman, and light had appeared.
+
+He considered it briefly, instinctively trying to categorize what he had just seen.
+
+Magic.
+
+The term surfaced naturally, just as it had when he stood before the two variant corpses in Ashridge. But just as quickly, another possibility followed.
+
+Divine.
+
+The distinction was not a trivial one. In the stories he had once read, the two were often treated as separate systems, governed by different rules and drawn from distinct sources. At times, even the limitations between them differed.
+
+He lacked the information to determine which applied here, or whether such a distinction existed at all.
+
+Lucien exhaled softly through his nose. Speculation without the corresponding data held little value.
+
+His gaze moved across the interior of the cathedral, noting the ease with which the others accepted what he had just witnessed.
+
+And if it was known, then it could be learned.
+
+He turned toward the entrance without approaching the two figures dressed in white. One careless question earlier had already exposed gaps in his knowledge he should have concealed.
+
+Repeating that mistake within a cathedral would be unwise. There was someone else better suited to answer such questions.
+
+Someone who would not only know, but explain it in a way he could work with.
+
+It seemed he had plenty of questions for Talia tonight.
+
+Unbeknownst to him, Helvarn had already begun to shift.

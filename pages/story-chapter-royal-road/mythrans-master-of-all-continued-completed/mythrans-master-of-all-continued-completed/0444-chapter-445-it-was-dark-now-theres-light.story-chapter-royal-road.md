@@ -1,0 +1,293 @@
+---
+id: e53e930c-af25-536a-a329-51cd763615b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 445 - It Was Dark, Now There's Light"
+slug: 0444-chapter-445-it-was-dark-now-theres-light
+partOf: mythrans-master-of-all-continued-completed
+position: 444
+ownLength: 3231
+unit: words
+publishedAt: 2017-12-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178994/chapter-445-it-was-dark-now-theres-light"
+royalRoadId: "178994"
+---
+
+Ren installed the mirrors in all the other private rooms, and went up the stairs to the dressing room. The make-up tables all needed the same size mirrors, so he took a 10 foot by 10 foot one out and placed it on the floor. He absorbed the enchantment from it and used his glass scoring tool to snap the pieces off that he needed.
+
+Ren enchanted the now smaller pieces, did the web trick to the backs of them, then installed them on the walls behind each desk. With his task done, he went downstairs and met Gina and Janice by the front door.
+
+“Ren!” Gina said. “The place looks great!”
+
+Ren chuckled. “That makes it sound like the place looked awful before the mirrors.”
+
+Gina laughed. “You know what I meant.” She said and took out the Animate Object wand she had. “Time for the bouncers to get to work.”
+
+Ren watched her as she cast the spell expertly and the two bouncers stepped away from the wall.
+
+“These guys have been a godsend.” Gina said and held the wand out to Ren. “I'm running low.”
+
+“That's okay.” Ren said and recharged it, then stored it.
+
+“Hey, I need that!”
+
+“Not anymore.” Ren said and cast the Permanency spell on the bouncers.
+
+“Oh, my god.” Gina said and went to the bouncers and examined them. “They're going to stay? Permanently?”
+
+“Yeah.” Ren said. “Do you want any more?”
+
+“I... yes. If you can make me one for each dancer, that would be great.”
+
+“Ask and you shall receive.” Ren said and took out 12 of them. “I can cast the spell myself; but, you know better than I do what the girls need as a bodyguard.”
+
+Gina nodded as Ren handed her the wand back and she cast the spell on the new bodyguards. She did them individually, and after each one, Ren made the spell permanent and they went to their respective spots beside the girl's private rooms.
+
+“Ren, you... thank you so much.” Gina said and gave him the wand back.
+
+“I want to keep them safe just as much as you do.” Ren said in response to her feelings. Gina smiled sweetly at him, and he felt a spark of affection from her. “Hey, am I wearing you down?” He asked. “Am I starting to drive you wild?”
+
+Gina laughed and tapped his armor. He stored it and she pulled him in for a tight hug. “Nope, you're still not making my motor run.”
+
+“I'll keep trying.” Ren said. “I love a challenge.”
+
+Gina kissed the top of his head and let him go. “Get out of here before I throw you out.”
+
+“Yes, ma'am.” Ren said. “Are you coming, Janice?”
+
+“Ren.” Janice said and draped an arm over his shoulders. “You have got to stop giving me opportunities to tease you.”
+
+Ren chuckled. “I'm pretty sure you'd be able to do that no matter what I said.”
+
+“True.” Janice said and Gina opened the door for them. Ren turned around and waved to the girls, and they waved back.
+
+“Don't wait so long between visits.” Gina said as Ren and Janice stepped outside, and Ren turned around to smile at her.
+
+“I have to stay away, or I might get suckered into another 'dance'.”
+
+“Suckered, huh?”
+
+“Coerced, tricked, jumped into willingly...”
+
+Gina laughed. “Bye, Ren.”
+
+“Bye, Gina.” Ren said and she shut the door. He walked Janice back to her place and she opened her front door.
+
+“Do you want to come in and talk?” Janice asked. “Just talk. No hanky panky.”
+
+“...and temptation was dangled in front of him.” Ren smiled. “I would, but I actually have to go.”
+
+“My door is always open.” Janice said. “You can come inside anytime you want.”
+
+“Now I know you're teasing me with a comment like that.” Ren said, and she chuckled.
+
+“Thanks for stopping by, and I'll see you again in a few days for another lesson.”
+
+“I might be busy; but, at least you only have to cross the street to check.” Ren said. “I'm moving into the Main House tomorrow.”
+
+“You are?”
+
+Ren nodded. “I've been kind of making things harder on myself by not staying here full time.” He said. “I've delayed leaving the starter city for too long already.” He sighed. “I've spent a lot of time there, and I've met a lot of nice people.”
+
+“It's hard to move on, I know.” Janice said. “But, on the bright side, you'll meet new people. If the old ones are really your friends, they still will be if you're here instead.”
+
+“Thanks, Janice.” Ren said. “Bye.”
+
+“Bye, Ren.”
+
+Ren ran next door to the large warehouse and no one was there. He assumed Tee-one and Ruck were out working on the Library, so he opened the door on the side of the giant forge, put his pet tarantula on the wall beside it, then stepped inside and shut the door.
+
+“Hi, Zetaya.” Ren said, and the fire in the forge swirled and twisted, and then he was hit in the chest. “Hey! That was great!” He said and hugged the fire elemental.
+
+While it stood up on it's hind legs, it was as tall as him; and he genuinely hadn't seen it move in the flames. It's large head stub poked the cheek of his face, and he turned his head and kissed it.
+
+“I'm sorry I've been away.” Ren said and let it go. “If we sit down, I'll tell you what's been happening.”
+
+Zetaya let him go and moved back, and Ren walked over to the side of the forge and sat down. He pat his lap, and he could feel how happy Zetaya was when it laid down on his lap and cuddled up to him.
+
+“I know I've been gone way too long, because I haven't felt your feelings before.” Ren said and hugged it. “Telling this story might take a while.” He felt it's unease, and he kissed it again. “It's okay. I didn't say I wasn't going to tell it. I was warning you that you'll have to put up with me for a while.”
+
+Zetaya's emotions bubbled up and was filled with joy, and he knew that it wanted him to enjoy them as well.
+
+“Thank you.” Ren said and let his Emotion Siphon ability touch the fire elemental. It shivered for a moment, and then a loud crackling fire sound filled the forge. That sound always made him happy, because it was Zetaya's enjoyment sound. “Okay, where to start.” He said and stroked it's back. “Oh, how about when I met the Dark Elf Queen?”
+
+The crackling fire had a loud snapped twig in it accompanied by a strong feeling of disbelief, and Ren chuckled.
+
+“It's true!” Ren said. “It all started when Clint said the party had a new quest...”
+
+Zetaya almost sighed as Ren talked and recounted the story, because it had always enjoyed the sound of his voice.
+
+********
+
+I'm glad he's just sitting there and relaxing. Barbara thought. I was a bit worried when he was in the Pleasure Palace and had all those dancing girls around him. She smiled. I'm still worried, but he wasn't in there for very long.
+
+There was a light knock on the door, and it opened to reveal her husband.
+
+“Donald?” Barbara whispered. “What are you doing here?”
+
+“I came to visit my favorite wife.” Donald said as he walked over to her and held out a cup of coffee that matched his own.
+
+“Shh.” Barbara said and accepted the cup. “People are sleeping.”
+
+Donald chuckled. “I could play football in here and no one would hear a thing.”
+
+Barbara smiled and took a sip of coffee. “Mmm, thank you.”
+
+“You're welcome.” Donald said and glanced at the television screen. “So, what's he do-HE'S ON FIR-”
+
+“SHHHH!” Barbara said and covered his mouth. “He's immune to fire.”
+
+“Oh.” Donald said. “Sorry.”
+
+Barbara shook her head. “If you're going to stick around, have a seat.”
+
+Donald sat down next to her, put his arm around the back of her chair, and crossed his legs in a figure four. Barbara looked at the pose, then at him. Donald smiled and gave her shoulder a squeeze, and they sat there and drank coffee while they watched Ren as he sat inside a fire-covered room with a big lump of fire on top of him.
+
+*
+
+Officer Holly Stonewall had been completely unsuccessful in keeping track of Ren's whereabouts, despite her partner's insistence that he should be easy to find. Ren was still physically at his house in real life; but, in the game where she was supposed to monitor him to see if anyone was trying to contact him, she hadn't seen him around in a long time.
+
+She had visited his store several times, but none of the workers were talking. She had even managed to talk to the Holly that worked there and discovered that she was just as brainless as suspected. She didn't have a clue where he was, either.
+
+Officer Holly checked the game's message boards, a habit she had picked up once she had started playing the game. She saw another message thread about Ren and checked it. It was a heated discussion over if he was getting preferential treatment. She read through several argumentative posts, both for and against, and one finally mentioned what they were talking about.
+
+“The XP leader board?” Officer Holly asked out loud, and clicked on the main page of the message board, and the link for the leader boards was right at the top of the page. She clicked it and was surprised to see the top post.
+
+“Over 7 million? How the hell did he get that?” Officer Holly looked at the time of the post. “He was off somewhere farming XP!” She said excitedly. “No wonder I couldn't find him.” She got up from her work station and picked up her VR headset. “If I couldn't find him, then no one else would have, either.”
+
+Officer Holly settled down on her recliner and put on the VR headset. “Since he posted that recently, he should be back in the general area.” She said and relaxed.
+
+“Flow Login Start.”
+
+********
+
+Officer Holly appeared in a standing position beside the army barracks. She had taken the advice of Ren's head maid and chosen Paladin as a class. What she didn't know was that she had to do a course to complete the basic training to use her abilities. She was glad that today was her last full day, and she could stop using her meal times and breaks for searching.
+
+“Resume quest.” Officer Holly said, and her trainer appeared almost like magic.
+
+“Atten-HUT!” He said loudly, and she immediately came to attention. She had been more than happy about choosing the class, because she had done all this basic training in real life and had excelled at all the physical feats required of her. It was the magic stuff that threw her off.
+
+“Activate your Reassurance Aura!”
+
+Officer Holly thought about how to do that, and her instructor started to frown.
+
+“It's not difficult, recruit!” He said. “Believe in yourself!”
+
+“I do, sir!” Officer Holly said. “I just can't concentrate enough.”
+
+“I'm getting tired of boosting you, recruit.” The instructor said and his Aura popped into place. It was only a small one, about 5 feet wide; but when it covered her, she felt that everything was all right and she took a deep breath. She thought about wanting to help others and to give them that same feeling, and her Aura popped into place.
+
+“Thank you, sir!”
+
+The instructor smiled as their Aura's merged, and he felt how enthusiastic she was. “You have to learn to generate those feelings yourself.”
+
+“I know, sir.” Officer Holly said. “Magic is just a difficult concept for me to wrap my mind around.”
+
+The instructor chuckled. “You better wrap your mind around it, or your progress is going to stall as soon as you leave here.”
+
+“Excuse me?”
+
+He stepped forward and put his face right in front of hers and she felt his anger. “What did you say, recruit?”
+
+“I'm sorry, sir.” Officer Holly said. “Please clarify your statement, sir.”
+
+The instructor nodded and stepped back. “Your main abilities for protection require you to have a firm grasp of your element.” He said. “The most basic is your Aura. You will gain new Auras and abilities related to it as you progress, if... and only if... you can understand the principles.”
+
+“Sir, I...” Officer Holly sighed. “I'm sorry. This is a new experience for me.”
+
+“That's what the training is for.” He said and turned to point. “Once around the course, and help those in need.”
+
+“Sir!” Officer Holly ran towards the course. The instructor watched silently as she deftly avoided the obstacles, then as Officer Holly stopped to help a crying woman.
+
+*
+
+“That's... he couldn't have... did he really...” Xuunah mumbled, and the maids laughed.
+
+“He's unbelievable, isn't he?” Frikara said. “He doesn't do outrageous things every day, but when he does...”
+
+“I'm beginning to see that.” Xuunah said. “Especially with that last adventure.”
+
+“It was awesome.” Andrela said. “He even defeated an entire clan of trolls! 12 foot tall, horribly icky trolls!”
+
+Lusinia chuckled. “Twice, actually.”
+
+“I know!” Andrela said and laughed. “They didn't learn their lesson the first time!”
+
+Xuunah could gauge how happy they all were, thanks to her Aura sense ability. She hadn't felt this much from 5 people before; but, she knew they were sharing with each other and had assumed that was boosting their emotions much higher than what she would normally feel.
+
+“I hope he comes back soon.” Verwynn said. “I need to feel him again.”
+
+“We all do.” Frikara said, and saw Xuunah's expression. “His emotions fill us up through the shared Aura.”
+
+“Oh.” Xuunah said. “I thought you meant physically.”
+
+“That, too.” Verwynn said. “He's so strong and gentle at the same time.” She said. “It kind of drives me crazy.”
+
+Navruth smiled and touched her shoulder. “Kind of?”
+
+“Fine! It absolutely makes me crazy!” Verwynn laughed. “Happy, now?”
+
+Navruth hugged her. “Yes, because you're being honest with yourself.”
+
+Xuunah had observed them for several hours now, and her opinion of them was more than favorable. When she considered what had happened to them before their rescue from the Thieves Guild, her opinion went up that much higher.
+
+“I think you are all quite remarkable, not just Ren.” Xuunah said, and all the maids looked at her. “You've been through so much...” Xuunah said and then a loud rumbling came from her stomach.
+
+“Oh! We didn't feed you!” Frikara said and opened the icebox. “I'm so sorry, Xuunah. You missed breakfast.”
+
+“...and lunch.” Verwynn said. “Humans have strange customs to eat 3 full meals a day.”
+
+“I know.” Xuunah said and graciously accepted the plate of food. “All they really need is a nice light snack to keep them going.”
+
+“Exactly.” Frikara said. “I'm so glad we have sustenance rings and don't have to worry about it anymore.”
+
+Verwynn went to the icebox and took out a plate. “It's still nice to eat, though.”
+
+Xuunah sat there and ate, and glanced at their fingers. She used Identify and saw what the rings did.
+
+Ring of Boosted Sustenance (Rare Wondrous Item)
+
+This ring continually provides its wearer with life-sustaining nourishment. It refreshes the body and mind as well, and the wearer only needs to sleep for 2 hours per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full week before it attunes to the wearer's needs. If it is ever removed, it must be worn for another week to attune it again.
+
+Bonus: +10 to all stats
+
+“Where can I get a ring like that?” Xuunah asked.
+
+“Ren made it.” Frikara said. “If you ask, I'm sure he will make you one if you want."
+
+“I'll do that.” Xuunah said and kept eating.
+
+*
+
+Ren had talked for almost 2 hours, and he had just finished telling Zetaya about the ghoul invasion that he wasn't invited to.
+
+“Ren, I hate to say this; but, we should probably finish the outside walls.” Teepo said. “If we want to be done before we have to head back to Aurora.”
+
+Ren sighed. “I guess you're right.” He said and looked at Zetaya. “I've got a really crazy plan that I'm going to start soon, and I'm going to need your help.”
+
+Zetaya perked up and it's head stub pointed to his face.
+
+“You might not like it, or you might really love it.” Ren said. “I'll come back tomorrow and explain everything, once I get everyone moved out here.”
+
+The crackling fire was really loud, even with the roar of the flames all around them.
+
+“That's right. I'm not going to be so far away anymore.”
+
+Zetaya's head stub poked his face several times all over, and Ren laughed as it pushed him over and kept doing it.
+
+“I'm... haha... going to counterattack!”
+
+Zetaya didn't let up, and Ren reached down and started to tickle it's belly. It twisted around and the sound of crackling fire increased, and Ren felt an increase in happiness. Zetaya tried to bury it's head stub in Ren's neck, and he held on to the fire elemental and rolled over to get a better attack angle.
+
+“I got you now!” Ren said and tickled it's belly.
+
+Zetaya flailed it's limb stubs around; but, it didn't try to attack back or try to get away. Ren eased the merciless attack and just rubbed Zetaya's belly.
+
+“You're amazing.” Ren said and picked Zetaya up to give the fire elemental a hug. The crackling fire sound faded away and was replaced by a constant low twig snapping. “Thank you for not being angry at me.” He said and kissed it's head stub. “I love you.”
+
+Zetaya's arm stubs hugged him back, and he felt that Zetaya loved him, too. It was pure and unrestricted, and it filled Ren with a feeling so warm that it brought tears to his eyes... and the tears evaporated immediately in the intense heat of the forge. Zetaya let him out of the hug, and he reached out and rubbed the sides of it's head stub.
+
+“I need to go, but I'll be back tomorrow.” Ren said.
+
+Zetaya nodded and he walked over to the side of the forge and left through the big door. Once he was outside, he picked up his pet spider and looked at the forge. He remembered the huge hinges that were needed for the large main doors he had made for the county, and made the proper-sized mold for them. He poured out the proper amount and let the system make the hinges, since there was no point in making them by hand.
+
+Ren stored the giant hinges and ran across the street to get Princess. She agreed to help once again, and with the rest of the afternoon and evening to work, they went out to the Main Gate and attached the large iron doors to the walls, then went around the rest of the county to cover the 40 foot tall walls of dirt with walls of iron.

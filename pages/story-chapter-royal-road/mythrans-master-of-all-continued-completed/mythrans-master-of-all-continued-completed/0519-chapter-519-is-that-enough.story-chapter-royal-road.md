@@ -1,0 +1,289 @@
+---
+id: 16e7f732-ce7f-5cfb-b06a-c51331593e97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 519 - Is That Enough?"
+slug: 0519-chapter-519-is-that-enough
+partOf: mythrans-master-of-all-continued-completed
+position: 519
+ownLength: 2912
+unit: words
+publishedAt: 2018-02-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196382/chapter-519-is-that-enough"
+royalRoadId: "196382"
+---
+
+“Wheeeee!” Teepo chittered in delight as the magic of the collapsing tunnel shot Ren up the tunnel at ridiculous speed.
+
+“Coming through!” Ren said, and a bunch of the pixies jumped onto him as he passed, while the magic picked up the others. They all laughed as they were shunted up the rest of the 1,300 feet of the tunnel and shot out the end and up into the air almost the same distance. Lots of them tumbled around and laughed, Princess brayed her enjoyment, and even Artemis had let the collapsing tunnel pick her up as well.
+
+“When are we going to stop?” Suniva asked no one in particular.
+
+“I'd say our momentum is going to an end in a few moments.” Ren said as he started to slow down. “We just have to decide if we want the ride to end here.”
+
+“Keep going!” One of the pixies nearly yelled. Her hair was white and she looked like she had a wind-blown expression with her messed up hair and ruffled clothes.
+
+“This isn't too rough for you?” Ren asked.
+
+“I always look like this!” She laughed. “I'm a Windkin!”
+
+“Oh.” Ren said as his momentum died. “Well, we're going a lot faster on the way back down.” He said, and they all started to plummet. “Everyone! Make sure you stop 300 feet above the ground!”
+
+An outside observer, namely the High Elves that the tunnel in the ground had appeared next to, only saw a mass of something being tossed very high into the air, tumble around and spread out a bit, then start to fall back to the ground.
+
+The pixies that had hitched a ride on Ren leaned out over his body to see the ground rapidly approaching.
+
+“We're getting close.” Teepo said between chitters of laughter.
+
+“On your signal, then.” Ren said. “Everyone, get ready to stop!”
+
+“Aw!” The Windkin said.
+
+“Don't worry. This is just the beginning of our journey.” Ren said.
+
+“Three... two... one...” Teepo said. “Now!”
+
+The entire mass came to a stop as if they had never been moving at all.
+
+“That was fun!” One of the other pixies said, and Ren felt a general agreement from the others. The pile of pixies that had stood on Ren for the ride walked off, and he took out the covered cart from Princess' saddlebag.
+
+“Can we ride in the half-carriage instead?” One of them asked. “I want to see out.”
+
+“Is everyone okay with that?” Ren asked, and they all nodded. “Open carriage it is.”
+
+The pixies watched as Ren put the cart back into the saddlebag and took the carriage out of his inventory and attached it to Princess, then saw him take a few minutes to make appropriate seating for them.
+
+“There we go.” Ren said and looked at them. “Everyone on board!”
+
+The pixies swarmed around the carriage and climbed in. Once everyone was seated, Ren sat in the driver's seat and Artemis floated beside him.
+
+“You know the drill, Princess.” Ren said. “Although, they are a lot hardier than new passengers.”
+
+“Understood.” Princess said and started to trot. Several of the pixies asked when the ride was going to start, and Ren told Princess to head to the High Elven starter city. She poured on the speed, and Ren felt the maniacal laughter from the Windkin. He looked back at her and saw there were several pixies with their hands in the air like they were riding a roller coaster.
+
+Ha, a roller coaster. Ren thought, then smiled. I enjoyed those 'tests' Stella and Gloria put me through. Maybe others would as well.
+
+I'd say so. Teepo thought back. Look at the other pixies!
+
+Ren looked around at them, and saw expressions that ranged from mild amusement to outright joy, and felt the accompanying emotions.
+
+“Go ahead!” Suniva said and waved to him. “You like these feelings the best!”
+
+Ren felt the others offer their emotions up for him. “Thank you.” He said and absorbed them.
+
+“Princess! Do a loop!” Teepo said.
+
+Princess huffed and started to run up and over, then around and back down in a perfect circle. It was over in only a few seconds, and the pixies cheered and Ren was swamped with their joy and happiness.
+
+Notice!
+
+You have gained a level! You are now Level 144 and 10 stat points have been automatically allocated. You have unlocked a skill: Portal Positioning
+
+“Wait, what?” Ren read the popup again. “Show info for Portal Positioning.”
+
+Portal Positioning (Skill)
+
+When using the Portal spell, this skill allows you to choose safe locations to place the exit portal so you don't end up inside a rock or half in the ground. Visiting those places beforehand enhances your accuracy as well.
+
+“Wow.” Ren said.
+
+“Does this mean you'll be using portals from now on?” Teepo asked the obvious question.
+
+“Heck, no.” Ren said. “Besides wasting Princess' talent and probably leaving her home all the time, you'd have to dissolve back into the ring each time I used a portal and I'd have to keep summoning you.”
+
+Princess and Teepo both felt relief at his words, and then they arrived at the High Elven starter city. They came in for a landing, and Ren told Princess to go down into one of the under-city access tunnels where the mirrors were. They came out the bottom and into the 5 mile wide farming area Ren had made underneath.
+
+“Here's fine, Princess.” Ren said, and she landed.
+
+“Goodness gracious!” Shanna, the Earthkin said. “Why in the world did you make this huge space underneath the city?”
+
+“It's for farming.” Ren said. “I was going to have it outside and around the city; but, if anyone or anything tried to attack, the farmers would be completely exposed.”
+
+“That's so smart!” Shanna said.
+
+“Only if this works.” Ren said and hopped off of the carriage and landed on the hard and infertile ground. He sat down and put his hands on the ground, then prayed to the Earth Deity and made a 1000 Mana offering. He sat there and waited for several minutes, and then he felt someone enter his Aura. A moment later, one of the Earth being's heads rose out of the dirt.
+
+“Oh, it's you.” A male voice said. “What is it? I've got to get back to my normal sector.”
+
+“I'm sorry for bothering you.” Ren said. “I have an idea that I'd like your help with.”
+
+The Earth being looked around and frowned. “What's this thing above us?”
+
+“A High Elven starter city.” Ren said.
+
+“A WHAT?!?” He exclaimed. “It's out in the middle of nowhere!”
+
+“That was the safest place for it.” Ren said. “My idea was to convert this section of land under it into viable land for farming.”
+
+“You're crazy.” The Earth being said.
+
+“It's only about 20 square miles.” Ren said. “I'll provide all the Mana you require to do it.”
+
+“Besides the offering?”
+
+“Of course.” Ren said. “I'll make another offering afterwards.”
+
+“Hm.” The Earth being said. “I'll have to think about it.”
+
+“If you can contact the other two beings that helped the one that is taking care of my county, I'm sure they will come and help.” Ren said and took out a gold coin.
+
+“What's that for?”
+
+“It's an incentive to think quickly.” Ren said and put the coin on the ground.
+
+“You're giving this to me, and not to the Earth as a whole?” He asked, surprised.
+
+Ren took out another handful of coins. “These can be added to the 1000 Mana offering.” He said and put them down in a separate pile. The Earth being took the pile of coins and held a hand out. Ren took the hand and poured 1000 Mana into him in less than a second. The Earth being caught his breath at the forcefulness and glowed, then let Ren's hand go.
+
+“I'll... be quick.” The Earth being said and took the lone coin as he disappeared into the ground.
+
+“You talk to the Earth?!?” Shanna exclaimed when the Earth being had left Ren's Aura, and she knew she wouldn't be heard by him.
+
+“Technically.” Ren said. “I only ever met her once.”
+
+“YOU MET HER?!?” Shanna yelled in shock, and Ren laughed.
+
+“I lead an interesting life sometimes.” Ren said and looked around. “I'm glad the mirrors are lighting up the place so well.”
+
+“I was going to ask about that.” One of the other pixies said as they got out of the carriage. “How did you do it?”
+
+“I replaced some of the buildings in certain locations to become sunlight gatherers and dispersion areas.” Ren said, and a pile of the other pixies got out of the carriage and looked around as well. “Otherwise this place would be darker than one of those abyss pits.”
+
+The pixie laughed. “Yeah, I've seen enough of them to know that wouldn't be good for growing food.”
+
+“Not at all.” Ren said, then had an idea. “Is anyone hungry?”
+
+“No, because we have your sustenance enchantment.” Suniva said, a little sadly. “I'd still like to have dinner with you, though.”
+
+Ren smiled at her, and he felt her body react. “Hey, are you okay?”
+
+“More than okay.” Suniva almost moaned. “I just want you so much that it hurts.”
+
+“You don't have any problem with telling me that so directly, and in front of everyone?”
+
+“Why would I?” Suniva asked. “You can feel that I do, don't you?”
+
+Ren nodded.
+
+“Then why hide it?” Suniva asked. “I'm sure if any of the others shared my thoughts about you, they wouldn't have a problem with telling you, either.”
+
+Ren felt a spike of doubt from someone, and he turned to look at Rainie. “Rainie?”
+
+“I'm sure it would be fun, but...” Rainie blushed. “I think of you more like a brother than a lover.”
+
+“Because we share the Waterkin aura?” Ren asked, and she nodded.
+
+“You're more family than anything else.” Rainie said.
+
+Ren was touched by this, so he reached out and touched her cheek with a fingertip and caressed it. “Thank you.”
+
+“Your Prince Charming title is quite distracting.”
+
+“What?” Ren blinked his eyes, then remembered he hadn't turned it off after activating it in the elfling's apartment. “Oh, sorry.” He said and deactivated it. “Is that better?”
+
+Rainie nodded. “Like I said before, I'm sure it would be fun.” She said and chuckled. “Thinking of you like that was kind of weird, though.”
+
+Ren chuckled. “Sometimes I forget the effect I can have on people.”
+
+“Well, you do have so much going on that it's hard to keep track of it sometimes.” Teepo said, and Ren laughed.
+
+“Yeah, that's true.” Ren said, then felt several beings enter his Aura. “Someone's here.”
+
+A moment later, no less than 8 Earth beings stuck their heads out of the ground. Six of them were female, and two were male.
+
+“Why didn't you call me first?” One of the females asked right away, and Ren chuckled.
+
+“I thought it was too far for you to travel, so I just made a general request.” Ren said. “Of course, now that you're here, I should tell you that I have another city between the Giant and Dwarven Kingdoms that need the same treatment.”
+
+“What about the one in your county?” She asked.
+
+“We can do that later, especially since there's a lot for you to do there already.” Ren said. “I know you said you would do everything I would need for the county; but, doing the city as well seems like a bit much to expect you to do when I'm not there to help or feed you Mana.”
+
+“That's true.” She said and looked around. “Containing the farms under the city was a good idea.”
+
+“I thought so, too.” Ren said. “I'd hate to have you do all the work to make the land viable, then possibly let it get destroyed if anything attacked.”
+
+“This dirt feels so empty.” She said and ran her hand through the dirt in front of her. “We're going to need a lot of Mana.”
+
+“Not a problem.” Ren said. “Do you want it personally, or should I dump it into the ground?”
+
+“Oh, personally.” She said and smiled as she crooked her finger at him to come closer.
+
+Ren knelt by her head and leaned down. “How much do you want?”
+
+“5,000 should do for a start.” She said and puckered her lips for a kiss.
+
+Ren equipped his platinum armor to boost his Mana Pool to it's highest limit of 99,999 Mana. Everyone gasped at the sight of his armor, even the Earth being.
+
+“Wh-what... how...” She started to ask him how he had made such an outrageous thing, then Ren kissed her. Her mind went completely blank as he dumped 10,000 Mana into her in an instant, and she glowed brightly from the charge. He broke the kiss and leaned back to let her recover. It took her a minute.
+
+“Never mind.” She said almost a minute later.
+
+“Me next.” One of the other females said, and Ren kissed her and gave her 10,000 Mana as well. He felt her let go of her control as she sunk down into the ground listlessly.
+
+“Is she...” Ren started to ask.
+
+“She's fine.” One of the others said. “She's just being a little dramatic.”
+
+Ren chuckled. “Would you like to be next, then?”
+
+“I won't swoon like the others.” She said, adamantly.
+
+“Do you still want it through a kiss?” Ren asked, and knew that she wouldn't say no. She nodded wordlessly, and he reached down to caress the side of her face. She was surprised at his tenderness, and then he kissed her. Ren didn't dump the Mana into her like he did to the first two, and just let it gently flow out in a steady stream instead. This tactic worked wonderfully and Ren felt her swoon just like the others did.
+
+“No wonder we had so many volunteers.” One of the male Earth beings said. “You haven't even recharged yourself, and yet you've given out 30,000 Mana already.”
+
+“Thanks to my armor and my Mana Pool that triples my maxed Mana, I can give out another 270,000 Mana before I have to recharge.”
+
+Everyone stopped what they were doing and looked at him, even the three Earth beings he had already given Mana to.
+
+“You're not kidding.” One of the others said.
+
+“Nope.” Ren said and held a hand out to him. “Fast or slow?”
+
+“Fast.” He said as he took Ren's hand. Ren shoved 10,000 Mana into him to make him glow, and the Earth being took a deep breath. “By the goddess.” He whispered, and the other male took Ren's hand.
+
+“Slowly. I can't take a huge influx like that without passing out.” He said, and Ren nodded. He eased the Mana out and let the Earth being take it at his own pace, and when he reached 10,000 Mana, let Ren's hand go.
+
+“Mana and gold, given freely.” He said and looked at his glowing hands. “Where have you been all our lives?”
+
+“I wouldn't say 'freely'.” A female Earth being said and came close. “It's more bribery to get us to help.”
+
+“I'd prefer reward to bribe, but that's just my own view.” Ren said and smiled.
+
+“I can live without the kiss, thank you.” She said and held out her hand.
+
+“As you saw, a kiss isn't required for the transfer. It just makes it easier for some reason.” Ren took her hand and started to funnel her Mana.
+
+“You enjoy it more.” She said, and Ren chuckled.
+
+“Actually, I think I do.” Ren said and finished giving her Mana. “It seems since I gained my Emotion Siphon ability, a more intimate touch makes everything that much better.”
+
+“That would make sense.” The next female Earth being said. “Not only are you giving, you're taking as well.”
+
+“No, I won't ever use my ability unless allowed... or there's too much being offered up on purpose that my ability activates on it's own.”
+
+“So, you're saying you haven't been feeding on their pleasure?” She asked and motioned at the others that had already been charged up.
+
+“I haven't. I can feel how much they enjoy the Mana rush, but I'm not absorbing it from them.”
+
+“What if I offer to share my feelings?” She asked.
+
+“Then I would wonder what you would get out of it.” Ren said, and she chuckled.
+
+“Perhaps an agreement of sharing? Mana for emotions?”
+
+“Hey, I told you before. You can't have my Mana source.” The Earth being in charge of Ren's county said.
+
+“Okay, fine.” She said. “I'll stay as just a temporary thing.”
+
+“You'll only shake hands, too.” The other Earth being said.
+
+“You really are scared that I'll steal him away.”
+
+“No, I'm scared that you'll take things too far.”
+
+“Well, that goes without saying.” She said and grabbed Ren around the neck. then pulled herself out of the ground up to her chest and kissed him hard.
+
+“Hey!”
+
+Ren felt the other one's jealousy, so he quickly dumped 20,000 Mana into the one kissing him. Her grip slackened as she gasped, and he deftly slipped out of her arms. He gave 10,000 Mana to the remaining Earth beings without incident, and they all set out to convert the land under the city to make it into farmland.

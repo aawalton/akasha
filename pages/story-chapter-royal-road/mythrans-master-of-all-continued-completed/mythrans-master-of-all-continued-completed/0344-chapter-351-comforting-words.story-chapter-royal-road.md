@@ -1,0 +1,321 @@
+---
+id: ef8253e4-779f-5ba6-a4f7-1ddee4812c2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 351 - Comforting Words"
+slug: 0344-chapter-351-comforting-words
+partOf: mythrans-master-of-all-continued-completed
+position: 344
+ownLength: 3534
+unit: words
+publishedAt: 2017-09-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159702/chapter-351-comforting-words"
+royalRoadId: "159702"
+---
+
+Teepo woke Ren up an hour early, and Ren was grateful that the maids had once again shifted around. His arms were free and he had enough room to lift Verwynn out of the way. He sat up and looked at the others. His legs were tucked under two of them, and the other two maids were on top of them.
+
+Ren shook his head at the mismatched pile and slowly pulled on his legs. One of the maids moaned, and he reached down and lifted Navruth up to free one leg, then rolled Andrela over and freed the other.
+
+“You're not just going to leave them like that, are you?' Teepo asked.
+
+There's no point in waking them up to tell them I'll be heading out soon, just so they can try to go back to sleep for another hour. Ren thought to his friend. I've done that to them already, and they don't need me to do it again.
+
+Teepo flew down from the ceiling and hovered there until Ren equipped his clothing, then landed on his shoulder. Ren glanced at the Dire Wolf Hooded Cloak and smiled.
+
+Say, that reminds me. Ren thought and took out his Leatherworking Crafting Station and opened it up, then he took out the dire wolf pelt he'd bought from Clint. I should have done this a while ago. He cleaned up the edges a little and slipped it into the treatment compartment.
+
+“Ugh... what... what is that smell?” Frikara asked. Someone's arm and someone else's leg fell away from her when she sat up. Ren closed the treatment compartment and stored the crafting station, then leaned onto the bed. He saw she had one eye open and one eye closed, her hair was stuck up on one side and was flat on the other, and he tried not to laugh at her dishevelled state.
+
+“I'm sorry.” Ren whispered to her and cupped the side of her face. “Go back to sleep.”
+
+“...kisses...” Frikara said, puckered her lips like she was pretending to be a fish, and opened and closed her mouth slightly several times. Ren couldn't help it and chuckled a little because she really did look like a fish when she did that. He made the same shape with his lips and kissed her three times in rapid succession. Frikara's open eye closed and she flopped back onto the bed sound asleep.
+
+Ren left the bedroom and went downstairs, slipped a big fish into Railyse's room, and left the house. He ran down the street and out of the Housing District, then over to the road and out through the North Gate. He ran down the side road towards the docks, and came to a stop at his warehouse.
+
+“Hi, Ren.” Tee-one said. “I've already told the captain to head back to the dwarf lands to pick up the next load of ore and cement bags.”
+
+“Is he waiting for the official order from me?”
+
+“Unfortunately.” Tee-one said. Ren put a hand on Tee-one's shoulder and smiled.
+
+“I guess I can't expect everyone to treat you like you are a part of me.”
+
+Tee-one smiled. “I couldn't be that lucky.”
+
+Ren laughed. “How is the farm vehicle coming along?”
+
+“It's done.” Tee-one said and took it out from inventory. “I haven't cranked it yet, though.”
+
+“And the tools?” Ren asked.
+
+Tee-one took out a large crate and Ren stored it and the vehicle.
+
+“The stable workers aren't too happy that I'm using the warehouse as a workshop.” Tee-one said. “I think they're afraid I'm going to burn it down or something.”
+
+“I don't know why.” Ren said and looked out the door. “The stable is way over there.”
+
+“It's probably the horses.” Tee-one said. “They're afraid of fire and loud noises.”
+
+“And both would happen if this place went afire.” Ren said. “Did you...”
+
+“As soon as the forge was moved from the ship to here.” Tee-one said and pointed at the ceiling. “Steel Squares with Water there.” He said, then pointed to the floor. “Steel Squares with Antiwater there.”
+
+“Nice.” Ren said. “Are you going to stay here to work, or are you coming out to the county?”
+
+“I'll stay here until you move permanently.” Tee-one said. “It's a lot easier to do orders from here.”
+
+“You could move to the shop.” Ren said. “The forge and smelter is just sitting there.”
+
+“I've got a lot more room to work here.” Tee-one said. “The cabinets and beds are pretty big and I need the space.”
+
+“How's the lumber holding up?”
+
+“It's nearly gone.” Tee-one said.
+
+Ren handed him 3 of the 12 steel storage squares full of lumber.
+
+“Thanks.” Tee-one said.
+
+“You're not getting any from Jen and the lumber yard for at least a month.” Ren said. “Make them last.”
+
+“You want me to make 15,000 planks last for a whole month?” Tee-one asked. “Are you crazy?”
+
+They both laughed because they knew it could last several months, if the orders kept coming in for furniture.
+
+“Make sure you put a couple of the new modified furniture pieces out for display.” Ren said and started to walk towards the ship.
+
+“They'll be the first things I make this morning.” Tee-one said.
+
+Ren gave him a little wave, then looked at the ship. He checked the last popup, and the only difference was the passengers had changed to zero, and the crew was back up to 50. All the supplies and repairs had been completed the day before, and the ship had been emptied last night.
+
+The ship's cargo hatch on the side was closed, and he didn't see anyone out on sentry duty. The gangplank was also pulled in, and Ren shrugged and crawled up the side of the ship. No one was around, so Ren went to the main cabin door and went inside. He walked down the hall and stopped at the captain's cabin, then knocked.
+
+“Come in.” A male voice said.
+
+Ren opened the door and saw the captain as he sat on the end of his bed, his hair was messed up, and someone else was in the bed and hidden under the blanket.
+
+“Sorry for disturbing you.” Ren said. “You have my permission to head back to the dwarf lands to pick up more ore and cement bags.”
+
+“Our travel times are going to be a lot faster, thanks to the new engines, but... loading and unloading take the same amount of time.”
+
+“I won't expect you back for 3 weeks.” Ren said. “A week voyage, a week to load, and a week back.”
+
+“You're not going to order me to go all out with them?” The short captain asked, and Ren shook his head.
+
+“You're the captain of the ship.” Ren said. “When I asked you to dock early, you didn't question it or balk at it.”
+
+The short captain smiled. “This ship had a bet to win.”
+
+Ren nodded, and the captain's eyes twitched at the Honor gain.
+
+“I'll see you in three weeks.” Ren said and left the captain's room.
+
+*
+
+“I thought he was never going to leave.” The cook said and sat up. She wore the captain's hat, and that was all. “He's such an arrogant...”
+
+“Leave him be.” The short captain said.
+
+“But...”
+
+“Even after the way he was treated, by you and some of the crew...”
+
+“Hey!”
+
+“Alright. By me, too.” The short captain said. “He never called us on it, or ordered us to act proper.” He said and smiled. “He took it like a man, and then when that thing with the engine happened... even though he turned them over... he went with them and made sure they weren't killed out of hand.”
+
+The cook put a hand on his shoulder, and he turned to her.
+
+“There's no greater pride for a captain, to know that when things get into the thick of it, that someone like him will stand up with us.”
+
+“He didn't fight by your side! He didn't-”
+
+“Hush, woman!” The captain said. “Don't you see? He can, and he will... if we need it.”
+
+“But...”
+
+“He even left me alone and let me run the ship as I saw fit.” The short captain smiled. “Yes, this is definitely the best ship on the water.”
+
+*
+
+Ren walked down the hallway to Orimihr's room and knocked. The door opened, and Orimihr sighed and shook his head.
+
+“Well, well. Look who's finally come to pay their respects.”
+
+“I warned you that I'd be busy once the ship docked.” Ren said. “That hasn't changed.”
+
+“I suppose now that it's been a few days since the last time you asked, you want me to tell you everything I know about the thief and what he did to me.”
+
+“I hope you realize that your reluctance to talk is the only thing that's delaying the plans to go and get him.” Ren said. “I just hope you can bring yourself to change your mind over the next three weeks.”
+
+Orimihr laughed. “Do you think 3 weeks alone at sea is gonna soften me up enough to make me sing like a songbird?”
+
+“No.” Ren said. “I'm hoping that spending some time among other people, who are pretty much loners themselves, will make you see something important.”
+
+“And what's that?”
+
+“Even though people can hurt you if you let them in, that doesn't mean that everyone will.” Ren said. “See you when you get back.”
+
+Orimihr didn't say anything in response. Ren closed the room's door and walked down the hallway, then stopped at the captain's cabin and knocked again.
+
+“WHAT IS IT NOW?” A woman's voice yelled, and Ren thought about walking on. The door opened before he could, and an unhappy face greeted him.
+
+“What she said.” The short captain said and pointed a thumb over his shoulder. Ren looked and saw the cook in the captain's bed, and saw that she wore the captain's hat and nothing else. Apparently she had been so angry at a second intrusion that she hadn't bothered to cover herself up. Ren didn't stare, though.
+
+“Ma'am, I'm sorry for the intrusion.” Ren said to her, then looked at the short captain. “I forgot to tell you that you can use the Jacuzzi in the third cabin.” He smiled. “I've left it on, so you can soak in it and relax.”
+
+“I can use the what? Jarcoosie? What the hell is that?”
+
+“It's a large tub of hot water that you can sit in and relax.” Ren said. “It has swirling currents of Water and Wind that massage you.”
+
+The captain and the cook stared at him like he was crazy, and he chuckled.
+
+“You'll understand when you try it.” Ren said and gave the cook a wave. “I'm sure you can find someone to share it with.” He turned and started to walk down the hallway. “Have fun.”
+
+*
+
+The short captain watched Ren as he walked away down the hall and then left. He shut his cabin door and looked at the cook.
+
+“I have no idea what he's talking about.” The cook said. “A relaxing tub of water?” She shook her head. “He's crazy.”
+
+“Well, since we're up...”
+
+“You can't possibly think that...”
+
+The short captain tossed her a robe and put one on himself. “It's just down the hall.”
+
+The cook sighed and got out of bed, and slipped on the robe. “Fine, I'll come and look; but, I hope you don't expect me to get in the thing!”
+
+The short captain opened his cabin door and walked down the hallway to the third cabin. When he opened the door, he didn't know what to say. The cook on the other hand gasped and ran into the room that looked like a relaxing spa, and almost knocked the captain over when she passed him.
+
+“Hey, now!” The short captain said, but the cook had already sat down on one of the lounge chairs.
+
+“Oh, these are comfy!” She said and closed her eyes. “I could lay here all day!”
+
+“Get off your fat arse and come over here.” The short captain said.
+
+“What. Did. You. Say?!?” The cook stood up and her eyes smouldered with hatred.
+
+“I said I love your fat arse, now get over here!”
+
+The cook looked like she was chewing on something, then she swallowed what she was going to say. She took a deep breath in through her nose and let it out through her mouth, then walked over to him.
+
+“Look at this thing.” The short captain said and pointed. “He wasn't kidding.”
+
+The cook reached out and stuck her hand into the hot swirling water. “Oh... oh my...” She said, slipped off her robe, and climbed in.
+
+“I thought you said you weren't getting in?” The short captain said.
+
+“Shut up.” The cook said, then sighed and she sat down and received the full effect of the jets of water and air. “By the gods, this is nice.”
+
+The short captain had never seen the cook react like that, so he had to try it himself. He took off his robe and climbed in, and sat next to her.
+
+“By the gods, you're right.” The short captain said and closed his eyes. “This really does feel nice.”
+
+After about ten minutes, he felt a hand on his arm. When he opened his eyes, the cook was staring at him with lust in her eyes, and it made him a little afraid of what she might do.
+
+“Are... are you okay?” The short captain said.
+
+The cook nodded slightly, climbed onto his lap, and kissed him more thoroughly than she ever had before. It wasn't long before they added their own currents and swirls to the water.
+
+*
+
+Ren climbed down the side of the ship and ran across the dock to the shore, waved to Tee-one, and ran up the road to the North Gate. He still had about 45 minutes before he had to be back at the house to make breakfast, and thought that this was the perfect opportunity to fulfill someone's fondest fantasy.
+
+Ren equipped his armor bodysuit and then his armor. It had some pits and scratches from the shrapnel and had lost a fraction of it's Durability; but he didn't repair it because it added to the ambience he wanted to project. He concentrated on his Command Aura and ran down the street until it met the main street that led out the West Gate, then he ran towards the mansion.
+
+*
+
+“Ren!” Donna said when she felt Ren's Aura.
+
+“Here we go again.” Tait said.
+
+“Quiet, you.” Donna said, but not sternly. She didn't run out to meet Ren this time and fought to keep her composure, because she assumed that he was just passing by again and was probably going to the Library or something. She caught her breath when the door to the kitchen was ripped from it's hinges by a gauntlet-covered hand, and it was crushed into splinters.
+
+Alina screamed and Tait's mouth dropped open as a gold-colored, fully-armored figure stormed into the kitchen.
+
+*
+
+Ren held in his laughter at the looks on everyone's faces, and held a hand out to Donna as he stored his gauntlets and helm.
+
+“Come with me if you want to live.” Ren said, and Donna's face lit up with a huge smile. She took the hand and gripped it tightly.
+
+“How long do...”
+
+“45 minutes.”
+
+Donna looked at the kitchen workers. “Flip the eggs. Cook the toast. Don't burn the bacon.”
+
+Ren picked her up and turned to leave, then dashed out of the kitchen.
+
+“I'll be baaaaaackk!” Donna said as Ren ran with her down the hall and out through the doors of the mansion. She laughed and laughed as he ran around the corner and down the street to her place. Ren didn't stop when he got to her front door, though. He shifted his hold on her, kicked out with a foot, and smashed her front door in two.
+
+Donna clapped her hands as Ren turned backwards to get her through the doorway, and took her to her bedroom and tossed her on the bed. In a flash he went back and shoved the pieces of the front door into place and braced it with a plank, then went back into the bedroom.
+
+“Oh, Ren!” Donna said, and started to take off her clothes.
+
+Ren took out a ring and enchanted it to make it a Ring of Storage with 50 slots and +40 Strength. He handed it to her, and she gasped.
+
+“Oh, Ren!” Donna said and put it on, then stored her clothing. It left her completely naked, and he saw that she was very excited to see him. She took his hand and pulled him close to the bed, but didn't kiss him. She used her other hand to lightly touch the pits and scratches on the armor's chest plate. She looked and saw similar marks on the arms, and a bit on the thighs.
+
+“What was it?”
+
+“A set of elemental grenades infused into a metal container, set to explode when the box it was in opened.” Ren said. “They tried to assassinate the Ambassador, and almost killed the Crown Princess.”
+
+“You stopped it.” Donna whispered.
+
+“I caught it just in time.”
+
+Donna thought about the pattern of the blast, and looked up. “Oh, god.” She touched both sides of his face with her hands. “Your helm was still shiny.”
+
+Ren nodded. “I wasn't wearing it, unfortunately.” He said. “I won't make that mistake again.”
+
+“Oh, Ren.” Donna said and kissed him slowly and sweetly. “My brave soldier.”
+
+“Donna, it... it was bad.” Ren said, and a tear came to his eye. “I... I couldn't see, and... and my hands were mangled...”
+
+“I know, sweetie.” Donna said and tapped his armor. Ren stored it and his armor bodysuit, and Donna laid back on the bed. Ren went with her, and she kissed him gently as she wrapped her legs around him. He let a couple of tears out, and she kissed them away.
+
+“Let me be your comfort, brave knight.” She said and hugged him tightly. “Let me push that memory away from your sight, and let my body replace it for you.”
+
+“Donna... I... I... thank you.” Ren said and kissed her passionately, then made love to her. He took his time, and revelled in her body. Time seemed to crawl by as they held each other and shared themselves, and Donna worked her magic and took from him something that he didn't know needed to be taken. When they were done and laid beside each other, Ren could look back on the incident and it didn't bring thoughts of horror, even though he could still remember the screams as people saw his face after the explosion. Those screams seemed to have receded back enough that they weren't urgent, or jarred the memory back into focus. It was slightly cloudy now, and Ren sighed in relief.
+
+“Thank you so much.” Ren said and kissed her. “I don't know what you did, but... I feel much better now.”
+
+Donna took his hand and put it on her breast, and he could feel that she was still excited. “So do I.”
+
+Ren chuckled. “You know what I meant.”
+
+“I do.” Donna said and turned to him. “I've waited a long time to find someone that I could do that for.” She said and ran a hand through his hair. She smiled as she felt it was still fluffy, even after what they had done. “Who would have thought that a halfling would have more real battles than anyone else, and would become the most seasoned soldier I've ever known?”
+
+“Not me.” Ren said and laughed. “All I wanted to do was make stuff!”
+
+Donna laughed and kissed him.
+
+“Ren? Your time's up.” Teepo said.
+
+“Now I have to go.” Ren said and sat up.
+
+Donna sat up as well, and sighed. “I wonder if my kitchen workers will hate me for running out on prepping breakfast.”
+
+“What about me?” Ren said and grinned. “I scared the hell out of them!”
+
+Donna laughed and hugged him. “I can't believe you did that.”
+
+“Did you like my 'frantic returning soldier' routine?”
+
+“I loved it.” Donna said and hugged him, then stood up and equipped her clothing. “I better get back.”
+
+“Do you want me to carry you back, too?” Ren asked, and she laughed.
+
+“There's no point.” Donna said. “You already busted the door.”
+
+Ren stood up and equipped his Travelling Clothes, and they left the bedroom together. “Give me a minute and I'll fix the front door.”
+
+“No, don't.” Donna said. “I want to see it when I get home tonight.”
+
+“Are you sure?” Ren said. “I can make a new one pretty quickly.”
+
+Donna leaned down and kissed him. “You broke this door down for me.” She said. “I'm going to keep it for a little while.”
+
+Ren smiled at her, and they walked at a fast pace towards the mansion after they propped the broken door back into place.

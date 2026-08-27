@@ -1,0 +1,201 @@
+---
+id: 9f0e929c-3721-5afd-afec-000ddf8f2bf1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73 Disparity"
+slug: 0078-chapter-73-disparity
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 78
+ownLength: 1889
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3506346/chapter-73-disparity"
+royalRoadId: "3506346"
+---
+
+The walk back to the manor held the kind of uncomfortable silence that Lucien knew came from something left unsaid.
+
+He had noticed it even as they left the western fields behind and entered Ashridge through the palisade gates. It was in the way Tomas kept his grip on the crowbar firmer than it needed to be as he walked half a step behind him.
+
+Lucien allowed it to stretch for a time before speaking. “Their treatment of you. During the demonstration of the crowbar.”
+
+Tomas stiffened at his words, the hand gripping the crowbar tightening a fraction before easing.
+
+He continued, turning slightly toward Tomas. “I had brought you with me because I thought it would ease tensions. And it did, to a degree.” A brief pause followed as he considered his words carefully. “They seemed to be...angry with you.”
+
+Tomas let out a slow breath through his nose, his steps faltering for a moment before he resumed. “My Lord...”
+
+It was clear to him that the younger man was weighing what should be said.
+
+Lucien’s gaze shifted fully toward him, a faint lift in his brow. “It is fine, Tomas. You should know by now that I am not a man who takes offense easily.”
+
+Something close to a laugh escaped Tomas before he caught it, the sound cut short as he cleared his throat.
+
+“...No, My Lord.”
+
+He looked ahead as he spoke, his words coming slower now. “I never hid it...that I wanted to be a guard.” His grip tightened once more on the crowbar. “The older farmers knew, even before the Tithe. It was something of a dream for me ever since I was a boy.”
+
+Lucien remained silent, allowing Tomas to continue.
+
+“They work the land. Same as I did, and they take pride in that.”
+
+He let out a soft breath. “And I...I suppose from their eyes, it looked like I thought I was better than that.”
+
+His head lowered slightly. “When Dalen died…” The words ended there, as if the name alone carried weight.
+
+Lucien regarded him for a moment. “I did not know him well, but he seemed reliable.”
+
+Tomas gave a small nod at that, though something flickered across his expression before he spoke.
+
+“He respected you, Milord.”
+
+Lucien’s brow lifted at the unexpected words.
+
+Tomas continued, as though the first words he spoke had broken something open. “He was one of the few that did, even before the Tithe...when you punished us that day, he never blamed you for it.”
+
+Lucien’s steps slowed to a stop as he turned to face him fully, though he found himself at a loss for words.
+
+“He said you chose the harder way,” Tomas went on, his eyes shifting aside. “That it would have been easier not to. Easier for you.”
+
+His jaw tightened a fraction. “None of the men would have grumbled.”
+
+Lucien felt something tighten faintly in his chest, and this time he did not force it down as quickly as he usually would.
+
+“I see…”
+
+The silence lingered, and as if by unspoken agreement, they resumed walking.
+
+For a time, it seemed the exchange had ended. Tomas remained quiet for several steps before speaking again. “When he died, no one said it outright. But it was not just one man they lost.”
+
+“I left not long after and joined the guard...they lost two men, one after another.”
+
+Lucien cupped his chin in thought. “Even if they do not blame you directly, the outcome remains the same in their eyes.”
+
+Tomas gave a short nod. “Aye.”
+
+Not long after, the manor came into view, and their conversation seemed to settle as the path widened into the courtyard.
+
+The younger man slowed, though he did not stop. Seeing that he still had more to say, Lucien gave a small gesture.
+
+“Go on.”
+
+He hesitated briefly before speaking. “They’re not bad people, My Lord,” he said, echoing their exchange from earlier this morning. “They’re just…” He trailed off, searching for the right words.
+
+“…they’ve had it harder.”
+
+Lucien inclined his head in response. “I know. They have been left aside for some time."
+
+The tension on Tomas's shoulders eased before he dipped his head.
+
+“By your leave, My Lord?”
+
+At his nod, the younger man turned and left, while Lucien remained where he stood, his eyes resting briefly on the man’s back.
+
+It explained their treatment of Tomas, but not the rest.
+
+The western fields had been chosen under the former lord’s orders, yet that had turned into resentment toward the farmers from the eastern fields.
+
+He considered the thought for a moment longer before turning toward the manor, where the guards were already opening the doors from within.
+
+Given the hour, Lucien expected to find Alicia in the dining hall. He was right, though someone else had arrived before him.
+
+Talia sat at the long table, slouched in her chair with a cup set before her. Alicia, despite the faint disapproval in her expression, diligently refilled it, the soft sound of tea against porcelain carrying through the hall.
+
+“Thanks,” Talia said cheerfully, still slouched, though she perked up when she saw him approach.
+
+Before he could ask, she spoke first. “The men’ve been kinda busy with spring planting, so construction’s slowed to a crawl.”
+
+Lucien gave a small nod. He had been mildly surprised when Harlon mentioned that Talia had managed to secure spare laborers in late winter to construct her shop, but if the arrangement only held until planting began, it made sense.
+
+Alicia turned toward him, teapot still in hand. “My Lord, would you like some tea before lunch?”
+
+“Yes. Thank you, Alicia.”
+
+He took the seat across from Talia as Alicia placed a cup before him. The scent of tea lingered faintly in the air as he leaned back.
+
+“Ugh, it was so close to being properly finished too!” Talia exclaimed, a note of complaint slipping into her voice.
+
+“It is sufficient enough to store your goods from Helvarn,” Lucien replied after a sip.
+
+“Yeah, true, but I can’t exactly open yet. Wouldn’t look great if the grand opening’s a half-finished shop.”
+
+The maid set the teapot aside and tilted her head. “I don't think the villagers would mind, Lady Talia.”
+
+“They wouldn’t now!” Talia said, spreading both hands, “but later? That’s the impression they’ll remember when Ashridge gets bigger.”
+
+Alicia smiled gently. “I am glad you have confidence in Ashridge. Most would not place hope in a frontier village...even one of our size.”
+
+“Yeah, well,” Talia said lightly, gesturing toward Lucien, “most places don’t have our Lord Lucien.” There was a teasing note beneath the compliment.
+
+Lucien’s brow twitched, but he made no comment, taking another sip.
+
+Alicia, however, nodded in complete seriousness. “That is true.”
+
+Talia’s eyes widened at her response before softening a beat later. “Lord Lucien, that’s one loyal maid you’ve got.”
+
+He exhaled softly through his nose. "If only someone else would follow her example,” a dry note in his tone.
+
+Talia let out a soft chuckle before she leaned forward, her eyes resting on him. “So, how were the western fields?”
+
+Lucien set his cup down with a soft sound, the faint warmth of the tea lingering as his gaze shifted briefly between the two of them. “They are working with what they have,” he began.
+
+“The land is harder than the eastern fields. More stone, thinner soil in places...it demands more from them for less return.”
+
+His fingers rested lightly against the rim of the cup as he spoke. “They are aware of the difference, and they know where most of Ashridge's attention has been directed.”
+
+“The tools will help and I will be redirecting some labor to them.”
+
+Talia placed a hand on her chin. "But there’s something else, isn’t there?"
+
+He exhaled softly as his finger lightly tapped the table. “Their...resentment seems to be focused on the farmers from the eastern fields.”
+
+Alicia shifted, her hands twirling her apron before she spoke softly. “So they still feel that way...”
+
+Both Talia and Lucien turned toward her. Alicia flushed lightly beneath the attention, though she continued after a brief pause.
+
+“I heard from my father...that some of the farmers in the western fields came from the heartlands of Arcencia.”
+
+Talia leaned back in her chair. “The heartlands of Arcencia...I did hear that quite a few of them live in that shanty camp in Helvarn.”
+
+Lucien gave a nod. “I have seen that camp as well. I had assumed it was mostly people from the frontier fleeing the Tithe.”
+
+She gestured with her hands in a left and right motion to mimic a scale. “Kinda here and there, it depends on the time of year.” Talia’s gaze shifted toward Alicia. “Did your father mention why they chose to settle in the frontier?”
+
+Clasping her hands in front of her, Alicia's eyes lowered in recollection. “He said the land there is...better, in most places. Oh, but even that is something he doesn’t know firsthand. My family has lived in the frontier for generations.”
+
+Lucien remained silent as he considered her words. “It would make sense if the lands there are less affected by the Tithe.”
+
+Alicia's fingers tightened faintly in her apron. “There are more people there too...more than the land can support. So the younger sons have to leave.”
+
+Talia tilted her head, her expression softening into something more contemplative. “So that's why they come here instead.”
+
+The maid's gaze lingered on the table. “Yes. To places like this.”
+
+Lucien rubbed his chin thoughtfully. “They arrive as experienced farmers from a land that was more suitable for farming only to be ordered to work the western fields instead.”
+
+“Yes, My Lord.”
+
+Tapping her finger lightly against the table, Talia leaned forward. “Must've been a big change for them. Going from the heartlands to what they’ve got now.”
+
+Lucien inclined his head. “And they see better fields nearby, worked by people of the frontier. Until recently, many were still using the three field system. Some had even fallen back to the two field system after a bad Tithe.”
+
+A sigh escaped Alicia's lips, her eyes still lowered. “It must feel...unfair. When the refugees came and the expansion began...” Her fingers twisted together. “And they remember where they came from.”
+
+Talia exhaled softly as she leaned back. “Yeah, that would make anyone a little resentful.”
+
+Lucien’s gaze lifted. “The tools and labor will ease the strain but the rift will not close so easily.”
+
+She gave a small shrug. “People always look at others and think they've got the better deal. You can't really do much about that.”
+
+Alicia glanced between them, her expression faintly troubled. “Will it cause problems?”
+
+He considered the question with care. “Not all of them will be satisfied. That will become more likely as more seek refuge in Ashridge.”
+
+She looked saddened by that, though she did not seem surprised.
+
+Talia reached for her cup, lifting it idly. Her eyes flicked toward Lucien for a brief moment before returning to the tea. She took a sip and set the cup down, her posture easing back into place.
+
+Lucien inclined his head slightly.
+
+Alicia's explanation had answered one question, but it had also raised another.
+
+If the heartlands truly possessed better farmland, then why were so many people leaving?

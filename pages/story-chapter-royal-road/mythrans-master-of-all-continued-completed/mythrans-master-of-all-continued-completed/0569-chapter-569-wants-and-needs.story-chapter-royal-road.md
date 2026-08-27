@@ -1,0 +1,259 @@
+---
+id: f2922b06-9d01-5140-9a14-240948c10811
+page-type-slug: story-chapter-royal-road
+title: "Chapter 569 - Wants And Needs"
+slug: 0569-chapter-569-wants-and-needs
+partOf: mythrans-master-of-all-continued-completed
+position: 569
+ownLength: 2530
+unit: words
+publishedAt: 2018-04-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211400/chapter-569-wants-and-needs"
+royalRoadId: "211400"
+---
+
+Ren, Teepo, Artemis, and Zetaya spent a full 2 hours inside the Sanctuary, which turned out to be about 4.6 years, or 1679 days. Since Ren had read his 4 stat increase books every day (Strength, Agility, Intelligence, and Wisdom) and did the corresponding exercises to increase the other 3 stats, he gained 1,679 to each of his stats.
+
+Artemis stepped out first as she held Ren's hand, and Ren came out next. He was touching Zetaya's arm stub, and the fire elemental barely fit through the door. Zetaya stood up and was almost 15 feet tall.
+
+“I can't believe you fed Zetaya so much!” Artemis said and rubbed Zetaya's belly. “Imagine! Upgrading to a Greater Fire Elemental!”
+
+Zetaya let out a loud crackling fire, and Ren laughed.
+
+“My Hands of the Gods ability Burning Hands, was apparently very tasty.” Ren said and rubbed Zetaya's belly, too. “I'm glad it worked, but now you're going to be cramped inside the forge.”
+
+“Just use the Permanent Enlarge and Reduce Anything spell.” Teepo suggested. “Zetaya will only be 7.5 feet tall then.”
+
+“Ha! I never thought of that.” Ren said and looked way up at Zetaya's head stub. “What do you think? Do you want to be smaller again?”
+
+Zetaya had to think about it, and Ren felt its indecision.
+
+“Let's get you into the forge first, and you can decide later.” Ren said and took Zetaya over to the warehouse and opened the forge door. Zetaya squeezed inside and its head stub almost scraped the roof. “It's close, but you still fit.”
+
+Zetaya nodded and hugged him, and Ren hugged back.
+
+“See you later.” Ren said and stepped outside, then shut the door. “Artemis, thanks for putting up with me all that time.”
+
+“Like I had a choice.” Artemis teased.
+
+Ren took a step up into the air and took her hands as he started to sing. “Yes, it's true. I am happy to be stuck with you.”
+
+Artemis snorted a laugh as Ren swung their arms from side to side.
+
+“Yes, it's true (yes, it's true), I'm so happy to be stuck with you.” Ren sang. “ 'Cause I can see (I can see), that you're happy to be stuck with me-ee. ”
+
+“All right, all right.” Artemis said to stop him before he sang the rest of the song. “You better get over to the apartment to meet them.”
+
+Ren let her hands go and hugged her, then kissed her cheek. He ran across the road and into the Main House, then up the stairs to the apartment. He had kept the All-Seeing Mirror focused on Frikara and the maids in the Dwarven Kingdom, and had watched their interactions with the clerk in slow motion. He knew he had a few minutes left to go, so he sat down on the bed to wait.
+
+“Show status.” Ren said and looked at the popup.
+
+Status
+
+Name  Ren (Neram) Level  146
+
+Gender  Male  Class  Artificer/King
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000  Honor  250,000 (Untouchable)
+
+Giant Kingdom:  Dark Elven Kingdom (Royal Consort):
+
+Respect  26,000  Influence  1,000,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Master Tailor  Grants 10 level bonus to Tailoring Skills; 5,000 Fame
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Tainted King  All Auras maxed. You must be acknowledged. Grants skills: This Is Mine! & Autocracy
+
+Waterkin  Grants Water Manipulation Skill and Waterkin (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Awesomeness  Grants Admiration, free Charm Person, Personal Aura +150 feet
+
+Vasalor's Chosen  (No Description)
+
+Health  22,856 (Maxed 99,999)  Mana  24,908 (Maxed 99,999)
+
+Strength  2,853 (+15,140)  Dexterity  2,744 (+15,140)
+
+Vitality  2,724 (+15,140)  Agility  2,751 (+15,140)
+
+Endurance  2,734 (+15,140)  Intelligence  2,760 (+15,445)
+
+Luck  75 (+142)  Wisdom  2,775 (+15,445)
+
+“Wow, 4.6 years of daily stat gains is awesome.” Ren said and dismissed the popup, then checked the mirror again. “Here they come.”
+
+Frikara dismissed the Illusion spell over her side of the portal and led the other maids through it, to meet Ren on the other side. “I assume you know it's done.”
+
+Ren nodded and held up the mirror, then stored it. “I couldn't hear anything, but I could see.” He smiled and dimissed the portal. “She actually read them all.”
+
+“She really did.” Andrela said and walked over to the bed and sat down next to Ren. “I've never seen anyone read so fast.” She rested her head on his shoulder, and Ren put his arm around her.
+
+“It surprised me when I saw her read through one of their foot thick law books, then I realized that was probably why she got the job in the first place.”
+
+“That would be an essential skill for her job.” Frikara said and walked over to the bed, then stopped in front of Ren. “You feel tense for some reason.” She said and sat on his lap, then put her arms around him and Andrela. “What is it?”
+
+“I did keep an eye on you while you were in the dwarf lands; but, I didn't do it from inside the apartment.” Ren said.
+
+“You can do it from anywhere in the world, as long as you're looking out for us.” Frikara said and kissed his cheek.
+
+“I did it from inside my Sanctuary.” Ren said, and all 5 maids caught their breath. “It was just me, Teepo, Artemis, and Zetaya.” He said softly. “For 4.6 years.”
+
+“By... by the gods.” Frikara whispered. “R-Ren, you... how much need are you holding back?”
+
+Ren let a fraction of it out into the shared Aura, and they burst into tears.
+
+“Clothes off!” Frikara commanded, and they all stored their clothing immediately.
+
+“You first.” Ren said as he stared at her lovely breasts that were right in front of his face.
+
+“There's no time for turns!” Frikara said and kissed Ren passionately for a moment. “You need us now!” She pushed him back onto the bed. “Andrela and Navruth! Main course!”
+
+“We're on it!” Navruth said as she and Andrela went down on him.
+
+“Lusinia and Verwynn, on your knees within arms reach!” Frikara said, and both women climbed onto the bed and turned around to present themselves to Ren. His hands reached for their private places immediately and started to please them.
+
+“I'll take point and feed his need directly.” Frikara said and straddled his face. “We rotate when he finishes!”
+
+Ren was surprised by this turn of events. He knew Frikara was the one guiding and keeping the maids motivated; but, he had no idea that she would go this far to make him happy. He had always made sure to give each of them equal time and kept them separate, so having them work together was quite a shock. The sensations he was feeling himself and receiving from them could have been too much for him to handle, except for the fact that he decided to let all of his need out.
+
+*
+
+“Great Vasalor!” Lylyth exclaimed as she felt Ren's deep need for sexual satisfaction, and the Dark Elf Lords in her throne room stared at her. “D-Deploy the remaining forces to reinforce our attack! H-hit the High Elven soldiers as th-they convoy back to their assigned posts!”
+
+“What about the civilians?”
+
+“Leave them! It's the soldiers we want removed!” Lylyth said and grit her teeth. “Now go! GO!”
+
+The Dark Elf Lords left in a hurry, because they knew when she went into one of her episodes, it was safer to be as far away from her as possible until it was over. Lylyth's attendant, the healer named Tiatha Miarora, eased her Queen back from the table and had her sit on her throne.
+
+“I can feel it.” The healer said and reached out to touch Lylyth's forehead. When she did, she gasped at the intensity of the emotions. “My Queen, he...” She shook her head. “His need is this strong because he hasn't accepted his tribute.”
+
+“Then I will accept it on his behalf.” Lylyth said and closed her eyes. All of the Dark Elves in her domain were connected to her, and she asked them for the single emotion the Royal Consort was supposed to receive every month. It took almost 10 minutes for her to accumulate everything, and her whole body glowed as over 8,000,000 emotions were funnelled into her.
+
+Lylyth cast a portal to him, and the 10 foot tall spider that was her familiar opened the portal up to allow her access through it. She took the healer's hand from her forehead and held onto it, and the both of them stepped through the portal.
+
+“Great Vasalor.” Lylyth said as she beheld Ren on the bed with 5 women in various stages of pleasure. They had already rotated once, and Ren felt the three new presences in the room and stopped licking Lusinia.
+
+“Wait...” Ren tried to say.
+
+“By the gods, don't stop!” Lusinia said and ground herself against his mouth and cut off his words. The maids were lost in his desperate need and were doing everything they could to please him as much as possible.
+
+Lylyth stepped forward and easily avoided the other women as she put her hand on Ren's chest, then fed him all of the emotions she had acquired for his tribute. Ren's emotion Siphon ability activated and he gasped as the flood of emotions entered him. After a few moments, his ability had absorbed them all and Ren gained another level.
+
+Notice!
+
+You have gained another level! You are now level 147 and 10 stat points have been automatically allocated.
+
+“You need to control yourself better, Royal Consort.” Lylyth said and stood up. “Your maids are overwhelmed by your need to be with them.”
+
+Ren had to let two of the maids go to lift Lusinia off of his face. “That's because I am, too.” He said. “I will visit you in about 5 hours to discuss how I can manage it properly.”
+
+“In 5 hours?” Lylyth asked, a bit confused. “Why so long?”
+
+“Once we finish 5 rotations and they all have a turn, I'm going to make love to each of them.” Ren said. “I'm going to plant my seed so deep that their bodies will have no choice but to let it take root.”
+
+All 5 maids shuddered and finished at the same time, and Lylyth took in a sharp breath and shuddered herself at their extremely strong spikes of pleasure.
+
+“I... I will leave you to it.” Lylyth said, then turned around and dragged the healer with her. When they stepped back through the portal with her familiar, she dismissed the portal and collapsed to the floor.
+
+“My Queen!” Tiatha the healer said.
+
+“Did... did you feel that?” Lylyth asked, and the healer nodded. “They went just because he said he wanted to do that to them.” She said, amazed. “Imagine that. He just... just with his words...”
+
+“My Queen, I don't know what to say.”
+
+“Tell me I can have that same feeling from him.” Lylyth said.
+
+The healer thought about it, and Lylyth felt her contemplating it. “There's only one thing you can do, My Queen.”
+
+“What is it?” Lylyth asked, a little desperately. “Tell me!”
+
+“You need to ask him for it.” The healer said, and Lylyth blinked her eyes at her.
+
+“Wh-what?”
+
+“Ask him for what you want. Ask him for what will make you happy.”
+
+“I... can I... could it be that simple?” Lylyth asked.
+
+“I believe so.” The healer said. “The worst thing he could say is no.” She said and smiled. “But, the best thing he could say is yes.”
+
+*
+
+Ren and the maids finished the rotation and he chose Andrela to be with first. She accepted his attention like she had slipped into a warm and comforting bath. When Ren finished, Andrela had been primed and ready for it. He made love to the other 4 maids in turn, then went back to Andrela.
+
+“M-my L-lord, what...” Andrela tried to ask what he thought he was doing, and he kissed her.
+
+Instead of just asking her to bear his child at the end of their love making session like last time, Ren had begged her in a constant whisper, over and over, to have his heir the whole time he was with her. Her conditioned brain was more than ready for her body to accept the challenge, and this time when he finished, they had stared into each other's eyes.
+
+“He will be strong and worthy of your lineage.” Andrela said, and Ren felt her surety. He repeated this with the other 4 maids, and ended with Frikara.
+
+“By the gods, Andrela was right.” Frikara said and kissed Ren quickly several times when he was done. “You really do give us everything we need.”
+
+Ren was about to respond when Teepo spoke.
+
+“Your 5 hour time limit is just about up.” Teepo said. “If there's one person you don't want to keep waiting, it's the Queen of the Dark Elves.”
+
+Ren smiled and his arms were held out to the sides as he tried to cuddle all of the maids at once. “That was quite the surprise visit, wasn't it?”
+
+“It sure was.” Teepo said. “Did you feel how shocked she was?”
+
+“Who didn't?” Frikara asked, and they all laughed.
+
+“That's understandable, since I was pretty shocked, too.” Ren said.
+
+“We know you were.” Frikara said. “It was a slight twist to men being able to court multiple women.”
+
+“The accepted propriety is one at a time, though.” Lusinia said. “Most women don't normally have enough contact with each other to allow any kind of sharing.”
+
+“We are together all of the time and have been for years.” Navruth said. “We are more comfortable with each other than we are when alone.”
+
+“Also, nowhere does it say in the law that you can't do it with multiple women at the same time.” Verwynn said.
+
+Ren turned his head to look at Andrela to see what she would say to that.
+
+“We all know how much you love loopholes.” Andrela said, and that made them all laugh.

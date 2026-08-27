@@ -1,0 +1,281 @@
+---
+id: da94fd5a-5a80-56cf-9ceb-cc198ab9d3b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 552 - Blair-ingly Loud"
+slug: 0552-chapter-552-blair-ingly-loud
+partOf: mythrans-master-of-all-continued-completed
+position: 552
+ownLength: 2729
+unit: words
+publishedAt: 2018-04-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207182/chapter-552-blair-ingly-loud"
+royalRoadId: "207182"
+---
+
+“Oh, no.” Ren said, and the others looked in the mirror. Diana and Sharlee gasped at the sight of the ghoul, since they had never seen one before. “Show me if he can be healed.”
+
+The ghoul glowed slightly in the mirror.
+
+“Yes! There's still time.” Ren said and stored the mirror, then cast the Portal spell against the closest wall. “I'll be right back.”
+
+Teepo dissolved into the ring and Ren grabbed Artemis' hand and went through the portal with her. They appeared on the other side and Ren dismissed the portal to stop anyone else from going through and summoned Teepo again. The ghoul smelled fresh meat and quickly unfurled from it's huddle on the floor and lunged at Ren. Artemis easily caught the ghoul and held it still. It growled and hissed at her and tried to break free.
+
+“I'm sorry I can't give you the choice.” Ren said and put his hand on the ghoul's shoulder. It squealed as it's chest burned, and then the white color was replaced by a normal skin color. The bald head grew a full head of hair back, the face filled out and was no longer sunken in, and the teeth went from being sharp to normal teeth. His transformation was over after a moment and Blair was fully healed.
+
+“What... what happened?” Blair asked as Artemis let him go.
+
+“You were ghoul-infected.” Ren said, and told him what was going on, and that it was a spoon's fault.
+
+“A spoon?” Blair shook his head. “I don't remember a... no, wait.” He thought about it. “I remember pulling a spoon off of another knight's armor not long ago.” He said. “The spoon disappeared after that and we couldn't find it.”
+
+“That spoon sure gets around.” Artemis said.
+
+“Is there anyone else in the house?” Ren asked.
+
+“Oh, god!” Blair said. “My wife! My kids!”
+
+“Easy, now. Calm down.” Ren said and took out the All-Seeing Mirror. “Show me the other occupants of the house.”
+
+The mirror showed him 2 boys, about the age of 8. They were in bed and cuddled up with a very pale woman.
+
+“Upstairs!” Ren said and Blair ran for the cellar door. It was covered in gouges and scratches; some were recent and some older. The door wouldn't move.
+
+“It's barricaded.” Blair said, and Ren nodded to Artemis. She shot the hinges on the side and shot a thin line across the middle of the door. She punched it and the two halves fell to the floor and they saw the stuff piled on the other side. Ren stored it and dropped it to the side, then the three of them ran up the stairs and into the house.
+
+“Bedroom.” Ren said, and Blair led him to it and opened the door.
+
+“No!” Blair said when he saw his family's pale faces and tried to go to them.
+
+Artemis caught his arm. “Wait a second.”
+
+“They need me!”
+
+“They need Ren first.” Artemis said and Ren stepped to the bed and touched the woman's forehead. She woke instantly and gasped at the pain in her chest, and then her color returned.
+
+“Wh-what? Who...”
+
+“Shh. I'm here to help.” Ren said and touched her two children. They woke up and gasped as well, and their mother held them even tighter.
+
+“Mom?” One of them said. “I'm scared!”
+
+“It's okay, baby.” The woman said as she realized she no longer felt sick. “You feel much better, don't you?”
+
+“I... I think so.”
+
+Artemis let Blair go and he practically jumped onto the bed and hugged his family.
+
+“B-B-Blair?!? You're okay!” The woman exclaimed, and then started crying. The children joined in, as did Blair, and they held onto each other and shed tears of joy and relief.
+
+Ren stepped away from the bed and went over to Artemis, and pointed to the door. They left and shut it behind them, and waited in the hallway. Several minutes later, the bedroom door opened and Blair stood there wearing a full set of clothing instead of the scraps he had on in the cellar.
+
+“I don't know how to thank you.” Blair said.
+
+“You don't have to thank me. I'm just glad I got to you and your family in time.”
+
+The woman stepped around her husband and touched the spot above her heart. “We have these marks...”
+
+“It means you are Ghoul Kissed and a member of my domain.” Ren said. “I won't ask you if you want to move, since the land your husband has as a Knight is the same size as the land I have.” He chuckled. “Do you want to downgrade?”
+
+The woman smiled. “No, you're right. I like what we've built here.”
+
+Ren nodded. “I'll provide funds or anything else you need to live your life.”
+
+The woman looked up at her completely healed husband. “You've already given me everything I need.”
+
+Blair looked down at his wife. “I love you, too.”
+
+“I want a warhorse!” One of the boys demanded when he realized he could probably ask for anything.
+
+His mother gasped at the outrageous request, and Blair turned to his son.
+
+“That is not how-”
+
+“What do you want it for?” Ren asked and cut Blair off. “I won't give it to you for a flight of fancy.”
+
+Blair and his wife turned back to stare at Ren, and the boy walked out in front of his parents.
+
+“Be honest.” Ren said.
+
+“The other kids... they... pick on me.” The boy said and glanced up at his father. “They say I'm too short to ever become a knight like my father, and that I'll never ride a warhorse into battle.”
+
+Ren smiled. “Unlike me, you're still growing. No one knows how big you'll get until you get there.”
+
+“I'm almost as tall as you.” The boy said. “Are you too short to ride a warhorse?”
+
+“Warhorses are usually really big.” Ren said. “I might be too short to ride one, since my legs are short; but, I've ridden other things into battle.”
+
+“You can ride other things into battle?” The boy asked.
+
+“I'm an Adventurer. I don't think there's a set rule for me. A knight probably only has a choice for a normal horse or a warhorse.”
+
+“I want to be a knight when I grow up, just like my father.” The boy said, adamantly. “I want to train!”
+
+Ren looked at Blair. “Then I'll give you one.” He said, and the boy jumped up and down and hollered. “But only with your parent's permission, and their strict supervision.”
+
+The boy stopped jumping and sighed. “I'm never going to get one.” He said sadly. His parents exchanged glances and then sighed themselves.
+
+“Training will be hard.” Blair said, and the boy ducked his head. “Long hours of how to ride properly, how to use the horse to it's fullest potential, how to use a weapon while riding...”
+
+“I know! I watch you all the time!” The boy said. “Dad! Please!”
+
+Blair looked at Ren and nodded. “My Lord, if you are going to be generous, well past giving us our lives, then we would appreciate your offer to our boy.”
+
+Ren nodded. “Give me a minute.” He said and walked over to the front door and stepped outside.
+
+“What is he doing?” Blair's wife asked, and Blair shrugged. They looked at Artemis, and she smiled at them. A moment later, the front door opened and Ren led in a fully armored warhorse... except it was child-sized.
+
+“OH MY GOD!” The boy yelled and jumped up and down excitedly. “It's real! It's real! IT'S REAL!”
+
+“M-my L-lord!” The woman said. “H-how?”
+
+“It doesn't matter.” Ren said and handed the reins to the boy. “He doesn't need to be fed or watered; but he can be, and he still needs to be cared for in other ways. If you keep him by your side, he will be loyal to you forever.”
+
+The boy's eyes sparkled, and Ren felt his utter joy. “Thank you!”
+
+“You're welcome.” Ren said. “You just need to name him.”
+
+“Take him out to the back yard.” Blair said. “You can't keep him in the house.”
+
+“But, Dad!”
+
+“You have a big window in your bedroom.” His mother said, and the boy's face lit up. “Thanks, Mom!” He said and ran out the front door, and the horse trotted behind him and kept pace with him.
+
+“Don't forget to name it!” Blair hollered after them.
+
+“I think our trip to the countryside might have to change a little, now that he has a new best friend.” His wife said.
+
+“I am not bringing a miniature warhorse to the lake.” Blair said. “It's supposed to be family time.”
+
+“You are not getting him away from that horse, dear.” His wife chuckled. “They're a package deal.”
+
+Blair sighed. “Oh, all right.” He said and looked at Ren. “My Lord, thank you for saving us.”
+
+“I'm just glad I could help.” Ren said and then just stood there and looked at Blair and his wife.
+
+“Um... shouldn't you... ah...” The woman said, a little uncomfortable. “Do you have somewhere to go?”
+
+Ren nodded. “I'm just waiting for your other son to decide what he wants.”
+
+Blair and his wife turned and looked at the other boy, and they could see he was struggling with trying to come up with something.
+
+“Baby, are you okay?” His mother asked.
+
+“He doesn't want to waste his wish.” Ren said, because he could feel the boy's feelings. “Just give him a few minutes.”
+
+They stood there and waited for the boy to decide what he wanted.
+
+“Can... can you give me anything I want?” The boy peeked out from behind his mother.
+
+“To a point.” Ren said. “All you can do is ask, and I'll see what I can do.”
+
+The boy huffed and crossed his arms, opened his mouth to speak, then closed it. Ren felt his indecision, but he didn't want to push him to answer. After another few moments, the boy made up his mind.
+
+“I want my imaginary friend to be real.” The boy said, and his mother gasped.
+
+Blair was immediately angry. “I told you to stop doing that!”
+
+“Wait.” Ren said, and Blair and his wife looked at him with wide eyes. “I need to check something.” He said and took Artemis' hand and they stepped out the front door. They left it open, however.
+
+“I can't believe you asked for that.” The woman said to her son.
+
+“No one believes that she talks to me.” The boy said. “If he can make her appear...”
+
+Ren sighed and shut the door all the way.
+
+“That story sounds familiar.” Teepo said.
+
+“It sounds like the start of Lord Tathalyn's story, and how the Lightning being tried to take him over.” Ren said. “I think the boy might be one of Vasalor's Chosen.”
+
+“Can you check?” Artemis asked.
+
+Ren looked up into the sky. “Great Vasalor, heed my call.”
+
+System and Administration Query (Player Version)
+
+I am here, Ren.
+
+“Is Blair's son one of your Chosen?”
+
+System and Administration Query (Player Version)
+
+The boy was imbued at creation with a necessary skill I will need him to use when he is grown.
+
+“Is he being subverted by a Lightning being, possibly the same Lightning being that did it to Lord Tathalyn?”
+
+System and Administration Query (Player Version)
+
+Yes. A connection was formed between him and Lightning Being 584.
+
+“Can I break that connection without harming the boy?” Ren asked. “It's bad enough he's had her in his head for however long it's been, but I don't want to take away someone he believes is his friend.”
+
+System and Administration Query (Player Version)
+
+You can use your Filter Effect ability to turn off the connection.
+
+“What? How can I do that? I thought it was only for my own abilities?”
+
+System and Administration Query (Player Version)
+
+It is. Use your Emotion Siphon ability to enter the child and find the connection. Since it will interfere with your ability, you can turn it off.
+
+Ren's mouth fell open in shock and he stared at the popup.
+
+“Ren?” Teepo said. “If Vasalor says it can be done...”
+
+Ren shook his head to clear it. “Yes, okay. I understand. Thanks for letting me know, Vasalor.”
+
+System and Administration Query (Player Version)
+
+Use it wisely, or you will cause harm to those you try to help.
+
+Ren nodded. “I understand. Thanks for the warning.” He smiled. “I'll talk to you later.”
+
+System and Administration Query (Player Version)
+
+Until then.
+
+Ren dismissed the popups and took out the All-Seeing Mirror. “I know this is a lot to ask.” He said. “Can you show me what the boy believes his imaginary friend looks like?”
+
+It took a moment, and then an 8 year old girl appeared in the mirror. She had short and curly blonde hair, a bright smile, and she was about his height. Ren took out his shop tower and went inside for several minutes, then came back out and stored the tower.
+
+“Do you think it'll work?” Artemis asked.
+
+“Let's find out.” Ren said and went back into the house.
+
+“My Lord, I'm sorry about this.” Blair said. “My son is being unreasonable.”
+
+“It's all right.” Ren said and walked over to the boy. “I'll need to touch your forehead. Is that okay?”
+
+The boy nodded, and Ren put a hand on his head and activated his Emotion Siphon ability.
+
+“This is going to feel a little weird, but bear with it.” Ren told him.
+
+The boy appreciated being treated like he was an equal and not a little kid, so he opened himself up completely to Ren and his ability. Ren took advantage of this and used his Emotion Siphon ability to enclose the boy's mind and felt everything he felt for his imaginary friend and everything he thought the imaginary friend felt for him. Just as Vasalor said, the connection with the Lightning being was quite apparent, so Ren used his Filter Effect ability and turned it off. The connection was still there, and he hoped that meant the Lightning being couldn't create another connection to someone else.
+
+“Okay, I think I have what I need.” Ren said and kept his hand on the boy's forehead. “Don't be scared about what you see next, okay?”
+
+The boy nodded slightly, and Ren took out a construct in the shape of an 8 year old girl with a frilly pink dress and laid it on the floor. The boy and his parents gasped at the sight, and the boy stared at his imaginary friend. Ren had used a Permanent Full Illusion spell to cover the metal structure and made it look just like what the boy imagined.
+
+“She's not awake yet.” Ren said to the boy. “I need your help with that.”
+
+“Sure!” The boy said. “What can I do?”
+
+“Put your hand on her forehead and don't let go, no matter what.” Ren said, and the boy knelt and did as he was told. Ren put his other hand on the girl's forehead and activated his Create Construct recipe. He added the Mana and money it needed, and concentrated on the construct's purpose while he poured in everything the boy had felt and made him the owner. It took a few minutes for it to finish, and when it was done, Ren let go of both the boy and the girl construct.
+
+The girl opened her eyes and looked up at her friend. “Hi, Jashun. Whatcha upto?”
+
+Jashun squealed in delight and fell upon the girl and hugged her tightly. “You're real! You're real!”
+
+“Of course I'm real, silly.” The girl said. “You wanted me to be, didn't you?”
+
+“I did! I really did!” Jashun said. “I love you, Celeste!”
+
+Celeste giggled and her face went red. “You're funny, Jashun!”
+
+“Don't... don't you love me, too?”
+
+Celeste's face flushed red. “I do, but...” She looked at his parents. “Good girls are embarrassed to say stuff like that in public.”
+
+Jashun helped her stand up. “Come on! I want to show you off to my brother. He didn't believe me when I told him about you!”
+
+“Okay.” Celeste said and let Jashun drag her out the front door, and they both giggled the entire time.

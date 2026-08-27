@@ -1,0 +1,277 @@
+---
+id: ceb31902-84c0-594d-891b-309c1c3a64bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49 Weight"
+slug: 0053-chapter-49-weight
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 53
+ownLength: 2050
+unit: words
+publishedAt: 2026-05-02
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3346625/chapter-49-weight"
+royalRoadId: "3346625"
+---
+
+The silence stretched long enough that the faint crackle of the hearth began to fill the space between them.
+
+Dorian drew a slow breath. “If judgment must be carried out, I will do it."
+
+Lucien's eyes lifted, and he straightened slightly in his chair.
+
+The captain’s expression had not changed. “I can give the order, or carry the blade myself.”
+
+He studied him in silence before finally shaking his head.
+
+“No.”
+
+Dorian did not argue but his eyes sharpened.
+
+Lucien’s voice remained even. “If a life must be taken in Ashridge, the responsibility will be mine.”
+
+The captain watched him for a time before inclining his head.
+
+“As you wish, My Lord.”
+
+Lucien rose from his chair and stepped toward the window.
+
+The winter sky had deepened while they spoke, the pale sunlight fading toward the colder tones of afternoon.
+
+In the window’s faint reflection, Dorian paused at the threshold.
+
+“My Lord.”
+
+Lucien turned his head toward him.
+
+The captain paused briefly before speaking. “If the time comes, I will stand beside you.”
+
+He gave a small nod, the response coming a fraction later. “I know.”
+
+Dorian bowed before leaving the room.
+
+The door closed behind him and silence returned to the study.
+
+Lucien remained beside the window for a long moment, watching the village below.
+
+He lowered his gaze slowly to his hands.
+
+‘Will I still recognize myself, even if I succeed?’
+
+Lucien stood by the study window long after Dorian had left.
+
+The captain’s question lingered.
+
+'If it happens again, will you show mercy?'
+
+He exhaled slowly through his nose. It was a problem he had always known would come for him.
+
+The Tithe had kept his attention fixed on survival these past weeks. There had been little room to think beyond the next immediate threat. Every decision had been measured against whether the village would still exist the next morning.
+
+Now that the worst of winter had passed, other concerns began to surface. Ones that required judgment.
+
+The door opened softly behind him, and the faint scent of tea leaves drifted into the room.
+
+“My Lord?”
+
+Alicia’s voice drew him from his thoughts.
+
+“Do remember to take a…” Her words trailed off.
+
+Lucien turned toward her, drawing his attention back to the present.
+
+Alicia stood near the doorway with a tray in her hands. Her gaze lingered on his face a moment longer than usual. “Is something the matter, My Lord?” she asked softly.
+
+“It is nothing, Alicia,” he said, a touch too quickly.
+
+He returned to the desk and seated himself, his features smoothing into composure.
+
+Alicia approached without speaking, placing the teacup beside the papers on the desk.
+
+Lucien lifted the cup and took a sip. The tea was somewhat bitter. How fitting.
+
+“Is it regarding the villagers, My Lord?” Alicia asked carefully.
+
+He lowered the cup. “Why do you think so?”
+
+A gentle smile touched her lips. “You only wear that look when it concerns the people of Ashridge.”
+
+Her words carried more weight than he cared to admit.
+
+In his previous world, he had preferred working with systems and machines. Machines followed logic, and problems could be traced and corrected.
+
+Alicia set the tray down fully upon the desk before speaking. “My Lord...I might not be able to help much, but I can at least listen.”
+
+Lucien studied the surface of the tea in his hands for a breath before answering. “I spoke with Dorian earlier. We were discussing Ashridge’s future, and what follows it.”
+
+Alicia tilted her head, a faint crease forming at her brow. “What follows, My Lord?”
+
+“Crime, Alicia. It comes with stability. As the village grows larger, it will increase. Disputes. Theft. Perhaps worse.”
+
+"Ah..." Alicia nodded slowly, her gaze shifting to the window outside.
+
+“And when those things happen,” Lucien said, his voice quieter than before, “I may have to make decisions like the one I made with your father.”
+
+The words did not cause her to flinch. Instead, Alicia lowered her gaze as though recalling something from long ago. “My parents made an unusual choice when I was young,” she said after a moment.
+
+Lucien’s gaze remained on her, his brow drawing in slightly as he followed the turn in her words.
+
+“They decided not to have another child after me because of my illness.”
+
+Her voice softened. “Many people thought it was strange. Most families here have more children. There is always more work than hands, especially when the Tithe comes.”
+
+He had seen as much since arriving in Ashridge.
+
+“Mother helped where she could,” Alicia said, a faint note of fondness in her voice. “But there were limits. Some of the farm work simply needed strength.”
+
+“So your father hired help?”
+
+“Yes.”
+
+Alicia’s fingers tightened against the fabric of her apron. “During planting and harvest, mostly. For a time it worked well.”
+
+She hesitated, her gaze lowering further. “But there was an incident one year,” she said after a brief pause. “One of the men father hired stole part of the harvest.”
+
+Lucien’s attention sharpened as he listened, already knowing where such an act would lead.
+
+Petty theft was not uncommon, but in frontier settlements, it carried heavier consequences. Grain meant survival in the harsh frontier lands.
+
+“The man begged for forgiveness when father discovered it, he said it had been a moment of weakness.”
+
+“And your father?”
+
+“He reported the matter to the village reeve.”
+
+Lucien looked at her more closely.
+
+Alicia clasped her hands loosely before her. “Father said it was not about the grain. It was that he had broken trust.” The firmness in her tone did not go unnoticed.
+
+His thoughts moved past the theft to what held a frontier settlement together. Villages like Ashridge depended on cooperation. Without trust, that unity would fracture.
+
+“A year later, father learned the man had died. No one would hire him after that, so he tried hunting instead.”
+
+He needed no further explanation. An inexperienced hunter rarely survived long in the frontier forests.
+
+“Father blamed himself,” she said quietly. “He thought...he should have given him another chance.”
+
+He rested the cup upon the desk. “What do you think?”
+
+Alicia lowered her eyes for a brief moment before lifting them to meet his. “I think father and My Lord are similar.”
+
+Lucien’s brow lifted at the implication of her words.
+
+“You both carry burdens no one asked you to carry,” she said gently. “Because you believe it is the right thing to do.”
+
+He regarded the words in silence. Leadership had always seemed simple in principle. Authority required responsibility. The two could not be separated.
+
+“Father could have ignored the theft. Many men would have, but he believed the village needed to know.”
+
+He inclined his head, following the principle behind the decision.
+
+Alicia’s hands drew together slightly. “But the man who stole also made his own choices. He took what was not his. Later, he chose to hunt alone.”
+
+“Father chose to protect the trust of the village.”
+
+The weight of her words lingered in the air. After a moment, Alicia continued. “People in Ashridge speak about you sometimes, My Lord.”
+
+He glanced toward her, brows raised.
+
+“Do they.”
+
+She smiled, a faint curve on her lips. “They do not speak loudly of course. Most villagers are careful when discussing their lord.”
+
+He said nothing, his gaze holding on her as he waited for her to continue.
+
+“But stories travel quickly in a village,” she said, her voice soft with understanding, her eyes drifted toward the window again. “They spoke about the night at the seam.”
+
+Lucien’s expression shifted a fraction.
+
+“The day when the ditch collapsed,” Alicia continued softly. “And when Dalen fell.”
+
+He remembered it clearly, the frost along the ditch and the smell of earth and timber. The circle of guards sharing stories of a man no longer with them in the cold.
+
+“Someone told the story the next morning,” She folded her hands before her apron, a gentle expression on her face. “They said the lord sat with the guards where the ditch had broken.”
+
+Lucien remained silent, his gaze distant as the scene lingered in his mind.
+
+“That you shared a drink with them,” Alicia continued. “And listened to their memories of the man they had lost.”
+
+The silence stretched between them, filled by the memory she had drawn out.
+
+“They said you did not stand above them that night.” Alicia’s voice softened. “That you stood with them.”
+
+Lucien looked toward the study's window, he had not expected it to matter beyond that night, yet it had endured, carried further than he had intended.
+
+“In a village like Ashridge,” she finished quietly, “people remember things like that.”
+
+He took a moment to consider her words before speaking. “I did nothing extraordinary.”
+
+“You stood beside them,” she replied softly.
+
+“That is not extraordinary.”
+
+“It is to them.”
+
+He studied the faint movement beginning to stir across Ashridge beyond the manor walls. Figures moved along the streets, a worker crossed near the storage sheds carrying tools between buildings.
+
+“I didn't ask them to gather,” he muttered.
+
+Alicia nodded gently at his words. “That is why they remember it.”
+
+Lucien fell silent, his gaze still on the village below.
+
+“My Lord thinks he carries every burden alone,” Alicia continued. Her eyes dipped, though her tone remained the same. “But the people of Ashridge do not see it that way.”
+
+He recalled that moment at the seam again, the guards who had approached uncertainly, the circle that had formed without command, and the unspoken understanding that had passed between them.
+
+“No one stands alone on the frontier, My Lord,” Alicia said, her voice soft but certain.
+
+The words carried the weight of something deeply understood.
+
+“Every decision touches others. Farmers. Guards. Craftsmen. Everyone in Ashridge.”
+
+Alicia’s attention returned to him.
+
+After a moment, Lucien met her eyes.
+
+“And when difficult choices come,” Alicia said, “the burden will not belong to you alone.”
+
+Dorian’s words echoed faintly in his memory.
+
+If the time comes, I will stand beside you.
+
+He lifted the cup and took another sip. The bitterness seemed less sharp now.
+
+Outside the study window, Ashridge moved steadily beneath the pale morning light.
+
+And beyond the manor walls the quiet life of the village continued.
+
+Lucien rose from his desk, to walk toward the window after Alicia had withdrawn.
+
+The study grew still again, faint sound of footsteps faded along the corridor while the papers on his desk shifted lightly in the draft.
+
+The village spread across the slope below the manor in a patchwork of roofs and rising chimney smoke.
+
+Villagers carried timber beams toward one of the newer homes near the southern road while several others hauled bundled firewood toward the storage sheds beside the manor grounds. A cart creaked slowly across the open yard, its wheels cutting shallow tracks through the thin snow as a pair of oxen pulled it toward the eastern fields.
+
+He watched the motion in silence.
+
+Ashridge no longer felt like a settlement barely holding its ground at the edge of the Deep Woods, but it had not yet become something that could stand apart from it.
+
+Refugees had become residents and empty ground had turned into homes and fields. Even the quiet stories that passed between villagers had begun shaping the way Ashridge saw its lord.
+
+Alicia had been right about one thing.
+
+The burdens of the frontier were never meant to be carried by a single pair of hands.
+
+A guard passed along the manor road below, pausing briefly to exchange a few words with one of the farmers unloading sacks of grain near the storehouse. The conversation lasted only a moment before both men returned to their work.
+
+A frontier settlement that had grown so quickly would not remain unnoticed. Word would spread through merchants, travelers, and refugees along the trade roads that connected the scattered frontier villages of the kingdom.
+
+Sooner or later, word would reach Helvarn.
+
+Trade would follow, and with it would come influence, negotiation, and perhaps conflict. The frontier had its own problems, but the wider world carried others.
+
+Lucien turned from the window and returned to the desk.
+
+Ashridge had begun to stand on its own foundations.
+
+The next step would be seeing what it might become.

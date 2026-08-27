@@ -1,0 +1,217 @@
+---
+id: 45af6c9a-2969-5dbb-8960-2a3914a4a060
+page-type-slug: story-chapter-royal-road
+title: "Chapter 227 - Episode Two"
+slug: 0215-chapter-227-episode-two
+partOf: mythrans-master-of-all-continued-completed
+position: 215
+ownLength: 2454
+unit: words
+publishedAt: 2017-04-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130408/chapter-227-episode-two"
+royalRoadId: "130408"
+---
+
+Ren, Elise, Barbara, and Denise sat in silence as the show began.
+
+*
+
+The episode started with the smith giving the exhausted Onscreen Ren a drink from water sprinkled with healing herbs, and a popup saying he completed the first part of the quest. The smith helped him stand, and told him he should help keep the smith's forge hot. Onscreen Ren accepted the challenge eagerly, wanting as much training as he could get, and the smith showed him how to work it. It was much bigger than Onscreen Ren, and after a test pump that was the wrong way to do it, the smith called him 'boy'.
+
+Onscreen Ren's face showed determination as he pushed off with each pump of the bellows, and did a kind of dolphin kick to push the bellows to the top of it's movement. The handle slipped and Onscreen Ren had to jump several times before he managed to grab it and kept pulling.
+
+*
+
+“I didn't realize how big those bellows actually were.” Ren said under his breath, and Elise took his hand. The time compression sped up again, and the time he spent at the bellows passed faster than he thought it would.
+
+*
+
+Onscreen Ren lost his grip several more times, but then, he never lost it again as a small popup showed him using Iron Grip. A minute or so later, the smith said the forge was hot enough and he let the bar go and collapsed to the ground for a moment, then stood and stumbled outside and sat against the building. He waited for a minute and ate some bread, then went back in to do the next challenge.
+
+*
+
+“It's still really weird so much time can be skipped, and you can't tell.” Ren whispered. “I was at the bellows for half the night, then logged out for about an hour to eat and rest before going back in.”
+
+*
+
+Onscreen Ren met Isaac the Enchanter for the first time, and found out he'd done something to the anvil. He was tasked to break another hammer, but to hit the glowing runes this time. He started the second part of the quest and it looked easy; but, then little numbers appeared on the screen. The Hammer was actually gaining Durability if he missed the runes. Onscreen Ren increased his pace, and worked hard. The smith distracted him with the tale of the master smith, gave him a new quest, and Onscreen Ren missed several runes.
+
+“Gah!” He said, and doubled his efforts. It didn't take long for him to break the hammer and collapse; but then the smith helped him stand, and Onscreen Ren asked to do the bellows on the forge again. After working it for a few minutes, it looked like he fell into a trance, and then another couple of minutes later, a popup window appeared showing his skill Serene State of Mind.
+
+Onscreen Ren let the bellows go, and the smith commended him for working so hard, then told him to rest. He left the shop, and got a popup window telling him to pause the quest. He did so, and the television faded to black.
+
+*
+
+The words 'Commercial Break' appeared on the screen with a loud beep, and Ren looked at Barbara.
+
+“Is it an actual commercial break, or is it just a placeholder?” Ren asked her. “Or do you know?”
+
+“I think it's both.” Barbara said, stood up and went to the basket. “Time for a snack.”
+
+“Barbara!” Ren said and grinned. “You're corrupting me!”
+
+“No soda pop this time, you rascal.” She handed him a chocolate bar. “Drink your supplement instead.”
+
+Ren picked up the cup, took a big gulp, then unwrapped the bar. “Ah.” He said as he smelled the chocolate. “Are you sure I can have this?”
+
+Barbara nodded as she offered bars to the other women. “At the moment, it's got just the right mix of things your body needs.”
+
+“Fangs.” Ren said with the bar shoved into his mouth.
+
+“Take small bites, for pete's sake.” Denise said, and shook her head to refuse the offered bar.
+
+Ren bit off the part in his mouth, and only had half of a bar left. “That was a small bite.” He said after he swallowed it.
+
+“No wonder you restrict his diet.” Elise said with a huge grin on her face and took a chocolate bar. “Barbara, I'm surprised you still have fingers!”
+
+Barbara laughed. “He's not normally this voracious.” She said, put the basket back by the television, and sat down to eat her own bar.
+
+The television beeped again, and the words 'Commercial Break' disappeared.
+
+*
+
+Onscreen Ren appeared in front of the smith's shop, and looked around. A small window popped up saying he'd have to wait until tomorrow to do the last part of the challenge, so he went out to gather herbs. He looked at his status screen, and commented that he'd gained a lot of stats and hadn't leveled up yet. After a few minutes, he smiled.
+
+“I'm going to be the best crafter in the world...”
+
+He didn't realize he had managed to get too close to the woods again. Growls were heard and he turned to see several pairs of eyes staring at him; then the wolves decided to chase their favorite prey again.
+
+“Uhh… nice doggies….. WAHAHHHHHHHH!!!” Onscreen Ren hollered as another altercation with the wolves happened.
+
+*
+
+Ren put a hand over his eyes. “Tell me when this part is over.” He said. “Boy, that's embarrassing.”
+
+Elise chuckled, and leaned in front of him to block his view of the television. Her hair made the perfect curtain. “This one was a lot shorter than the last time.” She said, and took a small bite of her chocolate bar. She didn't eat it, though; but held it between her lips. Ren raised an eyebrow at her, and she smiled.
+
+He leaned in and gave her a kiss, took the offered chocolate, and she waited for him to chew and swallow.
+
+“You escaped.” Barbara said. “You can look now.”
+
+Before Elise moved out of the way, she leaned close and gave his lips a lick. Ren saw a bit of chocolate on her tongue before it disappeared back into her mouth, and he raised both eyebrows at her. Elise turned to lean back on her elbows to face forward again, and they kept watching the show.
+
+*
+
+Onscreen Ren ate some food and water, then went into the smith's shop to do the last challenge. He was surprised to find the challenge wasn't to break another hammer, but the anvil instead. Onscreen Ren showed the surprise, almost comically, as his mouth dropped open. The smith told him it was possible, and asked if he wanted to give up.
+
+“No, I'll pass your test.” Onscreen Ren said, and hit the anvil as hard as he could with the hammer. The little numbers appeared showing the damage, and he shook his head. “Damn... that’s not it... just adding more power to the strike isn’t the trick to it...” He leaned over and rubbed his hand along the metal of the anvil. “Something's different here.” He said as he found a divot in the metal, then found several others. “That's it!”
+
+Onscreen Ren started to slam the hammer on the spots he'd found. “Yes! There’s an impurity in the metal causing it to be weaker in certain parts!”
+
+The anvil soon developed large cracks where he hammered it, and then it broke in two and the pieces clattered to the floor with the sound of heavy metal hitting stone.
+
+“YES!!!” Onscreen Ren exclaimed.
+
+The smith congratulated him, handed him a tool belt filled with smithing tools, and a book. He stored the tool belt and looked at the book, and then someone came into the smith's shop.
+
+The television faded to black, beeped, and 'Commercial Break' appeared on the screen again.
+
+*
+
+“Hey!” Ren said, surprised. “That wasn't Tristan!”
+
+“We didn't want anyone else trying to steal your show.” Elise said. “Any character that's actually a real player, has been replaced.”
+
+“But... but...”
+
+“It was easier than trying to get all of their permissions, paying fees for appearances, or take anything away from the fact that it's your story, no one else's.”
+
+“So... the only real person in the show... is me.”
+
+Elise nodded. “That's right. Like I told you before, this is your show.” She smiled. “If you're not busy tomorrow, the studio wants you in to read a line or two for the next episode.”
+
+“Really?” Ren's eyes widened, then looked at Barbara. “Am I allowed, Barbara?”
+
+“Stella's working tomorrow; so, yes. You'll be allowed to go.”
+
+“Yes!” Ren said.
+
+“As long as you behave and take extra care moving around.” She smiled. “Let Stella do her job.”
+
+Ren chuckled. “I'd let her carry me on her back if she wants.”
+
+Denise laughed. “I'd like to see that!”
+
+*
+
+On the screen, the commercial break had ended and it showed the altercation between the smith and the computer-generated character over wanting the Repair book, while Onscreen Ren used the book and gained the Repair ability. The computer-generated character grabbed Onscreen Ren and shook him violently for a few moments for stealing 'his' book, then the smith picked the CG character up and tossed him out into the street.
+
+“You dumb brute!” The CG character said in a voice Ren didn't recognize. “I’m a personal friend of Eric the lord of this city, I’ll see to it that you get evicted and exiled from the city for this!” The CG character raised his fist to strike the smith.
+
+“YOU'RE BARRED!” The smith said and grinned as the CG character's fist struck the invisible barrier that protected the business. Once the CG character had healed the hand, he looked around at all the people that had gathered at the spectacle he'd made. Scowls were on their faces, and with a glare at Onscreen Ren and the smith, the computer-generated character stormed off down the street.
+
+Onscreen Ren was named the smith's apprentice, and the half-hour episode was over.
+
+*
+
+“Wasn't that great?” Barbara asked as she turned around to look at everyone. “I'm so glad they picked up your show for the whole season, Ren.”
+
+Ren smiled. “Me, too.”
+
+“Me, three.” Denise said.
+
+“Me, four.” Elise said, looked at him, and smiled. “I guess I better...”
+
+“...stick around for a little while longer.” Ren said. “It's not even 7:30 yet. I don't have to log back into the game until almost 9.”
+
+“But...” She looked at both nurses. “...are you sure I'm not intruding?”
+
+“I know it's a little crowded with me in here.” Barbara said. “But it's not an intrusion.” She looked at Ren. “Plus, it's hard to say no to that face.”
+
+They all turned to look at Ren, and he had that 'sad puppy dog' face you see all the time in the movies.
+
+“You're so cute!” Elise exclaimed before she could stop herself, and covered her mouth while Barbara and Denise laughed.
+
+“That was not the response I was looking for.” Ren said and grinned at her. “But, I guess it will have to do.”
+
+Elise shook her head and joined in on the laughter. “I think you're right, Barbara.” She said and ran a hand through his hair. “How do you say no to him?”
+
+“Years of practice.” Barbara said. “And not looking at him when you say it.”
+
+Denise snorted a laugh. “I have to remember that trick.”
+
+“Hey, now.” Ren said. “When have I ever asked-”
+
+“All the time.” Barbara and Denise said together, and they all had a good laugh again. They settled down and talked about the episode, about the trip to the studio the next day, and what Ren should expect.
+
+“So, they have an entire recording studio?” Ren asked. “I figured a radio station might have one, but not a television station.”
+
+“They dub over almost everything now.” Elise said. “Sometimes during actual takes, the actors are a bit too far away from the microphone, or it sounds a bit too hollow, or a whole bunch of other things.” She said. “The worst thing they have to deal with, is random noises in the background.”
+
+Ren looked at her. “I always wondered why there aren't car horns or airplane sounds in all of the shows, since that's all around us all of the time.”
+
+“Exactly!” Elise said. “Most of the time that's spent working on a show, or even a movie, is actually in post-processing and not the actual filming.”
+
+“That's neat.” Ren said, and then the room fell quiet.
+
+“I was planning on getting a coffee, and maybe a donut from the break room.” Barbara said out of the blue.
+
+“That's a great idea.” Denise said. “I think I'll join you.”
+
+Ren stared at the two women as they left, before he could say anything to them about leaving him alone in the room, with a woman he had convinced he couldn't grope because he was afraid of getting caught.
+
+“It seems we're alone again.” Elise said, and laid back on the bed. Since Ren was still sitting up, he looked down at her face, and saw a naughty look on it.
+
+“Elise.” Ren said. “You know I-”
+
+“I know.” She said, and pulled her loose-fitting purple top out from the belt that held it in place. “I know you love her, and I know you've slept with her...” She smiled. “...and a few other women.”
+
+Ren looked at her with wide eyes.
+
+“I was the one that told them to add the blue screen...” Elise explained. “...instead of just blurring things like they wanted.”
+
+“Oh.” Ren said, then frowned slightly. “Wait. Does that mean there's footage of me... um...”
+
+“No.” Elise said and lifted her top up to her shoulders, to reveal the matching purple bra that barely held her chest in place. “The blue screen doesn't just cover things up, it actually replaces anything that might happen.”
+
+Ren sighed in relief. “That's good to know.”
+
+“Why?” Elise asked. “I...” She blushed a little. “I wouldn't mind...” She licked her lips. “I'd like to see...”
+
+“Even though you know it's not really real?” He asked her.
+
+“Oh, it's real.” Elise said. “The feelings you feel are always real.” She smiled. “Who you're with might not have a physical body in the real world, but your body reacts the same way, just as if they did.”
+
+Ren nodded. “And we're in the real world right now.” He said. “And you still want to let me...”
+
+“I've always wanted to let you.” Elise said and grinned.

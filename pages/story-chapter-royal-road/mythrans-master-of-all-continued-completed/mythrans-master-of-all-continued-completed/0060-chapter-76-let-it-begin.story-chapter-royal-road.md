@@ -1,0 +1,343 @@
+---
+id: cfce87ee-48d7-503b-8096-99078539adf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76 - Let It Begin"
+slug: 0060-chapter-76-let-it-begin
+partOf: mythrans-master-of-all-continued-completed
+position: 60
+ownLength: 4849
+unit: words
+publishedAt: 2016-11-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101895/chapter-76-let-it-begin"
+royalRoadId: "101895"
+---
+
+Ren popped into the real world for lunch. He'd been told that he was missing too many meals lately and that if he didn't take better care of himself, his use of VR would be restricted again. It always rubbed Ren the wrong way when he was given ultimatums like that. Choosing to not do something is one thing, but having someone else choose it for you is grating on the nerves. He didn't want to have his usage restricted again; so here he was, eating more bland soup and trying not to choke on the saltless crackers that were as dry as the Sahara Desert.
+
+The best thing about Bonnie being there, was that if Ren didn't want to talk or anything, she didn't take it as an insult, and almost preferred to not make small talk. Ren wasn't sure if she was just uncomfortable with speaking, or just didn't know what to say.
+
+Everyone has their quirks. Ren thought as Bonnie took the tray away. He had a few hours left before he could log back into the game and Ren went online to check his messages. Nothing new popped up, so he went back and read the messages Elise had sent him.
+
+Huh. She really did ask me to show up that day. Ren thought. What are the odds that I'd be in the game on that day, and near the library... Ren chuckled. The odds I'd be in the game were almost guaranteed.
+
+Ren researched the options that business owners had in the game and marveled at some of them. He already knew about the discount prices from other local businesses, but the spawn point construction and raid funding were pretty sweet. Ren looked at the setup and decided. One spawn point would have to be a personal one for himself on the third floor, and once he had the second floor added in, he'd make one right in the middle of it for any party of adventurers he decided to fund.
+
+Ren looked up what an apartment was supposed to look like and frowned. Where the hell am I going to get a couch in the game? Then he stopped. Wait! If I just look up how to make one myself... After several failed attempts to find how to make furniture, he stumbled across and hobby furniture shop. Ren grinned and downloaded all the plans for them. A fancy couch, fancy chair, dresser, sitting table with mirror, and an armoir.
+
+I have to remember to order a mirror when I get back in the game. Ren thought. What else can I... Ren was shaken out of his thoughts by a knock on the door. When he looked up, he was surprised by what he saw. Lucy stood there with a fast food bag from President Burger.
+
+Ren closed the laptop, moved the rolling table aside, and did the double hand 'come here' gesture. Lucy laughed and stepped over to the bed to hand the food to Ren. She knew what was on the lunch menu today and that Ren would have been gagging from it. Ren reached out, ignored the food bag, and gave Lucy a quick hug.
+
+“Thank you for coming to see me.” Ren said and let her go.
+
+It kind of threw Lucy a bit that Ren had reached for her instead of the food. He... he didn't go for the food first. She thought and handed him the bag.
+
+Ren opened the bag and took out the burger and fries to set them on the rollaway table. “Can this day get any better? Two of my favorite things in one day!” Ren said as he unwrapped the burger and dumped the fries out onto the wrapper. “A decent meal and a visit from a beautiful woman.”
+
+Lucy had assumed Ren meant the 2 things were the burger and fries, then started to blush a little and sat down in the chair by the bed.
+
+Ren took a bite of the hamburger and moaned in delight. “Oh, yeah... that's good cow.”
+
+Lucy snorted a laugh and Ren felt pleased. At least she doesn't seem to be mad at me.
+
+He offered Lucy some of the fries and they ate them together. Ren ate half of the burger and wrapped up what was left to save for later. It was stashed into the cubby hole under the rollaway table and Ren sat back with a satisfied look on his face.
+
+“That was great, Lucy.” Ren said and rubbed his stomach. “I haven't felt like this since the last time we went out.”
+
+They glanced at each other and then looked away. There was an awkward silence, as both of them remembered what actually happened the last time they'd gone out. It had been his birthday and she'd given him quite the unexpected present afterwards. Ren tried to turn things away from that subject and told Lucy all about buying the building, and about setting things up inside. She listened as he went on about his plans for the forge, the second floor, and the third floor apartment. Lucy's eyes widened at that last bit of information.
+
+“You're making an apartment in the game?” Lucy asked.
+
+Ren nodded. “Yeah, I got the idea when I saw how the third floor was positioned... by itself and almost seperate from the rest of the space. I even changed the stairs for easier access.”
+
+“But... isn't it kind of pointless? You can just log out anywhere in safe zones, right?”
+
+Ren nodded again. “You can; but since I'm making my own space anyways, why not make a nice and comfortable place to stay?” He said. “I've got the option to do that now, rather than squatting beside a building like I normally do.”
+
+“Is that where you are now? In your place?” Lucy asked.
+
+Ren shook his head. “No, I've been sitting beside you every time I log out.”
+
+Lucy was a little shocked to hear this. “Why? You just said...”
+
+“I'm not just going to leave your avatar alone in there.” Ren said. “What kind of man would I be if I did that? After you went to all the trouble of making it to be in there with me.”
+
+Lucy didn't know what to say to that.
+
+“I didn't want to say anything until the place was finished, which will hopefully be later on today. I was going to message you about the building...” Ren said. “...but I know how busy you are, and I wanted to ask you face to face, anyways.”
+
+“Ask me what?”
+
+“To stay in my apartment in the game.” Ren said. “With me.”
+
+Lucy opened and closed her mouth several times before she could find some words to say. “Ren... Ren, I...”
+
+“It's all right, Lucy. I don't expect any kind of answer right away.” Ren said and smiled. “I know it's just a game, and that you said you wanted to take a break from it; but once the idea of making my own space in the game hit me, my first thought was that I wanted to share it with you.”
+
+“Ren...”
+
+Ren reached out and took Lucy's hand. “You don't have to take me up on the offer right away.” Ren said and squeezed her hand. “You can just come inside and use it as a log off zone... just so you're not stuck outside all the time.” Ren said let her hand go. “That part will always be available, no matter what you decide. If you change your mind and want to play the game again, it can be your home base.”
+
+“W-w-what?” Lucy stammered.
+
+“It's one of the options that's available when you own a business.” Ren said. “I didn't know this before, but now that I do... I want you to set it as your spawn point. If anything ever happens to you in the game, your avatar will reappear 6 hours later at my place.”
+
+“But... but won't having my avatar there all the time bother you?” Lucy asked.
+
+“Of course not. It's the only way I've been able to see you every da-.” Ren said and then shut his mouth, cutting off his words.
+
+“You come and see me every day?” Lucy asked and reached for Ren's hand.
+
+Ren nodded. “Even though it's not 'really' you, it's still you in the game.” Ren said and smiled. “I miss seeing your smile every day, Lucy.”
+
+“I... I miss seeing you every day, too.” Lucy said and squeezed his hand.
+
+Ren's stomach rumbled loudly and he put his other hand on it. “My stomach misses you too, apparently.” Ren and Lucy laughed.
+
+“Ren...” Lucy said. “...about the package you sent me... how did you do it?”
+
+Ren shook his head. “I'm not giving away trade secrets! You can't make me.”
+
+Lucy raised both of her eyebrows, leaned over, and tickled Ren's armpits. He kicked and thrashed around and Lucy laughed as Ren finally gave in and told her how the company's CEO and his secretary came into the game to apologize, how sincere the both of them were, and their offer to do something to make up for it.
+
+“Ren... you didn't!” Lucy said.
+
+Ren nodded.
+
+“You... you probably could have had anything... anything at all in the game, or even here in the real world...”
+
+Ren nodded again.
+
+“So why?”
+
+Ren took Lucy's hand and smiled. “I keep telling you... over and over again. You're the most important person in my life. You always have been. I had the opportunity to help you, so I took it.”
+
+Lucy shook her head. “I should return it to them.”
+
+“Ha. You can't.” Ren said. “You're not even allowed to sell or give it away.”
+
+“What?” Lucy said, surprised.
+
+Ren grinned. “It's hardcoded with your base pattern. No one else can use it, except you.”
+
+Lucy sat there, stunned.
+
+“It's just a little idea I came up with to stop scum from scamming people. Mr. Torren loved the idea and had one made for you right away.” Ren said. “He wanted to make it for me, but I convinced him that you were a higher priority.”
+
+“What? Why?”
+
+“They want to target normal people. I'm... well, look at me. I'm a special case.” Ren smiled. “In fact, no one has even seen me as an official contest winner.”
+
+Lucy thought back over the course of Ren's treatment and VR escapades, and Ren was right. The only real video people have seen of him was when he'd first started playing the game and someone had captured that video of him running from the wolves... and even then, it was 'elfling running for his life', not 'Ren the contest winner flees'.
+
+“They're making the official announcement tomorrow.” Ren said. “There's going to be a lot of unhappy black market people, I think.” Ren said and grinned.
+
+Lucy shook her head. “Ren Haddon, you're incorrigible.” She said and smiled. “I have to get back to work. I'll see you later, okay?”
+
+“Bye, Lucy.”
+
+Ren spent the next 2 hours memorizing the plans for furniture. With all the knowledge he'd been gaining in the game, adapting them to work would be simple. When the game night was over and it came time to go back in the game, Ren logged in.
+
+“Flow Login Start.”
+
+********
+
+Ren put away the bedroll and concealment stones. Teepo?
+
+“I'm right here, Ren.”
+
+Anyone come by? Ren thought and reached out to catch Teepo.
+
+“No.”
+
+Ren put Teepo on his shoulder and went to his building. I hope it doesn't take me too long to get used to this. Ren thought as he unlocked the place. Woodworkers soon flooded it and Jen came over to him.
+
+“Well, looks like it's just the finishing touches left.” Jen said.
+
+Ren nodded. “Yeah, just the walls on the third floor and the window trim everywhere else.”
+
+“Window trim?” Jen asked.
+
+Ren smiled. “Just my own touch. I'll need some wood, by the way. I have a few projects I want to make.”
+
+“How much wood?” Jen asked, sceptically. Ren chuckled.
+
+“Not that much. I'll take a few of your thicker planks and cut them to size. If you have any scrap pieces, I'll take those, too.”
+
+“Scrap pieces?” Jen asked. “Ren, what are you up to?”
+
+Ren grinned. “Hopefully something neat.”
+
+Jen shook her head. “I'm going to regret our deal, aren't I?”
+
+“Nope. I only want a few planks and all the scraps you can spare. If my ideas work how I think they will, you may want to order some things from me.”
+
+Her eyes widened slightly.
+
+“You'll see.” Ren said as a cart pulled up in front of his building filled with paving stones.
+
+“You Ren?” The man driving the cart asked briskly.
+
+“Yeah.” Ren answered.
+
+“I have your paving stones and bricks here.” He said and pointed to the back.
+
+“Excellent.”
+
+“3 gold and 10 silver.” Ren handed over the money and the man's attitude changed immediately. “Thank you very much for your order.” The man hopped off the cart and went to the back. Ren followed him and looked inside. The stone bricks were on top and the paving stones were underneath.
+
+“We'll need to set up a hand-to-hand train to get all these in your shop.” The man said.
+
+Ren shook his head. “No need. I'm an Adventurer.” It only took a couple of minutes for Ren to store all the bricks and paving stones into inventory.
+
+“Well, would you look at that.” The man said, surprised.
+
+Ren smiled and thanked him for the prompt delivery, and tipped him a silver coin.
+
+“Thank you, sir!” The man said and hopped into the cart and drove away.
+
+“Do you always tip so heavily?” Jen asked.
+
+Ren nodded.
+
+“Now I definitely regret just giving you wood.”
+
+Ren snorted a laugh.
+
+“What's so funny about me giving you wood?” Jen said and Ren laughed again. He calmed down a moment later and went inside to put down the paving stones in the open area of the floor. It took a while, but he eventually had all 300 set properly in the space. Teepo had crawled up onto the ceiling to get a good view as to where to place the stones to keep them straight. Ren had only ordered exactly what he would need to cover the area not covered in wood. He hadn't realized he might need replacements, or extras for stacking things on, and slapped himself on the forehead.
+
+“I'll order more later.” Ren said and set to work building up the forge using the stone bricks, making one slightly larger than the one at Donan's shop, but not as big as the large forge they'd built. Ren wanted at least some flexibility in what he could do, without overwhelming the limited space that he had. When Ren was done, another cart showed up with the smelting apparatus, both large and small crucibles, and the 2 stone molds he'd ordered. Ren put everything where he wanted it, and still had a large area of stone floor left, but couldn't remember why he had it that way.
+
+Ren set up the smelting apparatus, covered over the holes the smaller device left open, and started up his forge. Once the smelter was hot enough, Ren put in a few normal quality iron bars. The very first thing he needed to do was make a larger smelter to fit the larger forge. He didn't want to rush this build so he added in a few more iron bars and let it simmer, stirring it occasionally. Ren stacked the rest of the iron bars that he had in inventory under the bench behind the forge, to keep them both handy, and out of the way.
+
+One of the workers brought in handfulls of scrap pieces of wood, some with bark still on them, and another with several large planks of wood. One of the workers that were helping to finish the upstairs came to Ren and complained about the heat. Ren stared at them and then looked at the forge with it's smelter full of molten metal.
+
+“I am so sorry!” Ren apologized. “I didn't even think about...” Ren shook his head. “Come with me.”
+
+He led the young man up the stairs and to the top floor. Ren could clearly see everyone there was sweating profusely and that the opened windows didn't help at all. Ren took out 8 stone bricks and enchanted 4 with double wind glyphs, and 4 with double ice glyphs, placing the ice glyph bricks in front and facing up, and the wind glyphs behind and facing the room.
+
+“I'm sorry. I forgot that with the forge working, and the front wall and door not finished, some of the heat was bound to come up here.”
+
+“Some of the heat!” One girl said. She was only slightly taller than Ren and had similar hair, except it was red in color. She stood there defiantly, while flapping her unbuttoned work shirt open and closed with her hands, giving the surrounding boys a nice and clear view of her sweat dampened undershirt.
+
+Ren smiled. “Please accept my apology.” Activate. Ice formed on the bricks and the wind bricks kicked in at the same time. A cool breeze filled the loft and everyone sighed in relief.
+
+“Thanks, Mister Ren.” The girl said and a moment later buttoned the bottom few buttons on her shirt. “I thought I was dying.”
+
+Ren raised an eyebrow. “Someone could have told me a little sooner.” Ren looked around, and most of the boys were quite busy not looking at him, and he chuckled. “This should be enough, but if it's not, come and get me right away.”
+
+The girl nodded. “Yes, sir. Thank you.”
+
+Ren smiled. She called me 'sir'. The workers went back to their tasks, and Ren went downstairs to the pile of wood that had been delivered. It was a large pile; a lot more than what Ren had thought it would be. They've been wasting a lot of wood, I guess.
+
+Ren sorted out what could be used for what pieces. Legs, braces, decorations, supports, handles, Ren sorted it all. When he was done, someone arrived and delivered his parchment paper. Ren only tipped 3 copper this time, since it was only paper, but the boy nearly shook Ren's hand off trying to thank him. Ren laughed as the boy ran down the street and then took the parchment paper to the other bench by the forge and placed the roll of paper on it, and then stopped. I forgot to order stuff to write with. Ren thought, then turned around and went outside to find Jen. Luckily, she had some charcoal that she used to mark wood with, and Ren asked to borrow it. She handed it over and Ren went inside to do some drawing.
+
+There was still a lot of banging and hammering, sawing and moving around, so Ren entered Serene State of Mind and let all the noise drift away. He opened the pattern he had for a basic table and modified it. Remembering his research on the plans for the bed, he shortened the table legs to the right height and extended them up about 8 feet, added the sides (to hold a kind of mattress he would sew later) and joining rods for the tall posts, then made it double wide. When he was done, a big 4 poster bed was on the parchment with all the measurements and directions on how to make it.
+
+Ren moved the parchment aside and then altered the chair recipe he had. He made them plush and twice as big, then modified that recipe to extend it to make a couch. The table recipe was altered again and stood up on it's end and doors were added. That pattern was altered to make a dresser and drawers. The table pattern was shrunk down and shortened to make an end table. Ren had used up a good portion of the charcoal he'd gotten from Jen, and almost all of the parchment paper he had. When he put down the charcoal, a smattering of applause greeted him. Ren deactivated Serene State of Mind and turned around. A dozen or so young adults, not much older than Ren was in real life, were standing there and clapping. For him.
+
+“That was great, Mister Ren!” The girl with red hair that he'd met up stairs said. “I've never seen anyone draw like that before!”
+
+Ren's face flushed a little red. “Um... how long have you...”
+
+Jen stepped forward a little. “Quite a while, but I was here for the whole thing.” She said and laughed. “I tried to get your attention a few times, but it looked like you were in some kind of trance.”
+
+Ren nodded. “I get lost in my work sometimes.”
+
+“It was amazing!” One voice said.
+
+“He made those plans so fast!” Another replied.
+
+“I couldn't follow his hands, could you?” One guy asked.
+
+“I can't wait to tell my friends about this!” The red-haired girl said.
+
+“Hey, that's a good idea.” A few of them said.
+
+Notice!
+
+Your skills have touched the youth of the area. Your name will be spread to the next generation.
+
+Fame: +100
+
+Ren dismissed the popup and tried to hand the charcoal back to Jen. “Thanks for loaning that to me. I'll buy you another when I buy some for myself.”
+
+Jen waved it away and told Ren to keep it, as it was being put to good use.
+
+“That was your charcoal, Ms. Nacide?” The girl asked, and Jen nodded. “Now I really can't wait to tell my friends!”
+
+Jen rubbed her hair and the girl ducked away. “Not the hair, Ms. Nacide! You know how hard I work on it.”
+
+Jen chuckled. “Go on. Get on home. I'll see you all back at the lumberyard tomorrow.”
+
+“Just a minute.” Ren said and they all stopped. “Jen, can I talk to you for a second?”
+
+Ren led her across the floor. “Is it okay to give them tips? I don't know how much you pay them, so if I'm allowed, what do you suggest?”
+
+“You're asking me if I should let you tip my students?”
+
+Ren nodded.
+
+“They're here to learn a trade, not to make money.” Jen said.
+
+“They all worked so hard to get this place done so fast.” Ren looked around and saw the freestanding supports and the cross members that Jen had installed to make putting in the second floor easier.
+
+Jen smiled and put a hand on Ren's arm. “I'm sure they'd appreciate a little spending money, but don't overdo it.”
+
+They discussed what to do and then Jen turned around and told the workers to line up in single file. Ren went to the head of the line and palmed a coin in his hand.
+
+“Prepare hands for shaking!” Jen said. “And... march!”
+
+Ren shook each of their hands as they passed and gave each of them a coin during each handshake.
+
+The girl with red hair was the last in line. “It was nice meeting you, Mister Ren!” She said and shook his hand. Ren had the coin in his palm and when they shook hands, she felt it there and her eyes widened.
+
+“It was nice meeting you, too.” Ren said and let her hand go.
+
+Unlike everyone else, who had just closed their fists and kept walking, she looked at her hand and the silver coin there. “Mister Ren!” She shouted. “Thank you!” She gave Ren a big hug and a kiss on the cheek.
+
+Ren blushed. “You're welcome.”
+
+The girl danced away down the street and passed the other workers who had heard her shout and had stopped walking. As she passed each of them and showed then her silver coin, they looked down at their own hands and saw the silver coin they held. They were a bit too far away to walk back and thank Ren, so they just shouted and waved. Ren waved back and they all disappeared from sight.
+
+“What part of 'don't overdo it' didn't you understand?” Jen said and laughed. “Most of them probably won't even show up tomorrow.”
+
+“Sorry.” Ren said and laughed. “They really did work hard, though.”
+
+Jen nodded. “They had a good client.”
+
+He pulled out 5 gold coins and handed them to Jen.
+
+“What's this for?” Jen asked.
+
+“They had a good teacher, too.” Ren said.
+
+Jen shook her head and gave Ren a pat on the shoulder. “If you need any lumber, you know where to find me.”
+
+“If you need... well, I don't have anything to provide yet... but if you need that, I'm right here.”
+
+Jen laughed again, waved goodbye, and walked down the street to follow her students.
+
+Ren went into his building and shut the door. If his guess was right, he only had about 4 hours of game time left in the day and went over to the forge. Ren skimmed off some of the impurities from the simmering molten metal and noticed there was no where to put it. He was so used to having everything right there within his reach that he had forgotten he wasn't in Donan's shop anymore.
+
+Ren sighed and balanced the skimming tool on the edge of the smelting apparatus. Once he was sure it wasn't going to tip over or spill, Ren got out several stone bricks and made what was essentially a stone trash can to put the scrap metal in. Ren dumped the impure metal into the makeshift trash and stirred up the molten metal. It was a nice even color and Ren smiled. Soon he'd be able to hammer this into the shape of a new holder for the smelter and then... Oh, crap.
+
+“What is it, Ren?” Teepo said from the ceiling.
+
+I just remembered that I need to hammer things out... on an anvil that I don't have.
+
+“Yeah, that would be hard.”
+
+Ren chuckled. I've had so much going on that it slipped my mind. Ren opened the Order menu and ordered a medium-sized anvil (50 G), 10 more paving stones (1 G), 10 more parchment (30 C), and 10 drawing charcoal (10 C). Ren knew he was forgetting something , but couldn't remember what it was, so he hit order and looked at the delivery times. Everything would be there tomorrow except for the anvil... which would take about a week to arrive.
+
+A week! I can't wait a week. Ren thought. I guess I'll be taking Donan up on his offer of always having access to a forge in his shop.
+
+Ren went over to Donan's shop and asked to borrow an old anvil after revealing he'd have to wait a week for the new one. He gave Ren one to use until the new one came and asked if there was anything else Ren needed. Ren told Donan he was sure that there was, but couldn't remember what. Donan laughed and said he'd be there if Ren needed anything else.
+
+Ren went back to his building and the anvil was placed in the middle of the open space that was left for it. I knew I left this spot open for a reason. Ren thought and then used the metal in the forge to make a larger smelting apparatus. There was still quite a bit of molten metal left, so Ren tried to think of what else he could make... and then smiled.
+
+Ren went back to the bench with the parchment on it and moved the furniture plans aside to reveal a fresh piece of parchment. Ren looked up the plans for the Quick Shot Bow Bracer and opened them. Ren only recently learned the final process he needed to know about how to make the parts. Ren studed the plans and looked at the design. The original maker, whoever it was, definitely had the right idea. Making it a cartridge system with 6 shots each helped with load times, but it still gave the user a large window where they had to change them out and could easily be attacked.
+
+Ren modified the bracers to extend to the elbow, covering the whole forearm. The bow part was extended only slightly, and then thickened. Ren made new clips that held 14 shots each, that ran all the way around the bracer, so it ended up being a little thicker than the old ones. He left the bolt feed mechanism alone, because it worked and didn't jam, but he did reinforce the draw pull lever as it would have to take 5 or even 10 times the strain once the spider silk string on the bow was added. Ren finished the plans, added them to inventory, and went back to the forge.
+
+Clint is going to love these. Ren thought and started to pour the molten steel into the big blank mold.

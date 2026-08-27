@@ -1,0 +1,203 @@
+---
+id: 8e09cfe4-0f38-54bc-9f1b-10d33c97ea18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76 Taste"
+slug: 0081-chapter-76-taste
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 81
+ownLength: 1997
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3520824/chapter-76-taste"
+royalRoadId: "3520824"
+---
+
+It was as if the arrival of the man with the cart had set off a chain of events that stirred the crowd’s interest in the shop. The villagers made way for him as he exchanged a few greetings and guided the cart toward Talia, who stood beside the entrance with her arms crossed.
+
+Despite her attempt at composure, Lucien noticed the faint motion of her foot tapping against the ground as he drew closer.
+
+Before the cart even reached her, she stepped forward to meet him, shaking his hand and offering her thanks as she passed him a few coins. The man nodded gratefully before turning to begin unloading the goods with care to move them inside the shop.
+
+Talia stepped forward with a welcoming gesture, bowing lightly first before spreading both hands toward the entrance.
+
+“Welcome to Stillmark Exchange! Ashridge’s very own shop!”
+
+The crowd lingered in awkward silence, but Talia had already continued speaking.
+
+“Now, go on in and take a look around,” she said, pointing lightly at a random villager. “No thievery though, alright? There’s only one entrance, and I know my stock well enough.”
+
+Lucien’s brow lifted at the name. It carried a sense of restraint that felt strangely unlike her. His junior was anything but still, though perhaps she had decided that for the name of her shop, something more fitting was necessary.
+
+As the first villagers began to enter the shop, the hesitation among the crowd eased and others soon followed, forming a steady stream through the entrance.
+
+Talia remained outside, speaking briefly with the man who had transported her goods. Before he left, the man reached into the cart, took a small package out, and passed it carefully to her.
+
+The scent he had noticed earlier grew stronger as he drew closer, with Sera and Alicia at his side. They exchanged a glance before looking back at him.
+
+Talia’s gaze flicked toward him, and a faint curve appeared on her lips, the kind that usually meant trouble for him.
+
+This time, however, Lucien found himself unable to care about such things. The moment he stopped a short distance from her, he knew exactly what that package contained.
+
+“Is that...?” he muttered, his gaze fixed on the treasure in her hand.
+
+Talia smiled brightly in response, though in his eyes, it looked more like the smile of a fox that had cornered its prey.
+
+“Lord Lucien! Are you heading inside to see the shop?” she asked innocently.
+
+“…Give it here.”
+
+Alicia blinked in surprise at the rare lack of restraint in his voice. Her gaze shifted to the package in Talia’s hands, and after a brief moment, something in her expression softened as a faint smile touched the corner of her lips.
+
+For some reason, Lucien found that harder to deal with than Talia’s grin.
+
+His junior, meanwhile, gave an exaggeratedly elegant smile that would have been convincing if he had not known her as well as he did, offering a small curtsy with the package held against her chest.
+
+“Oh my, Lord Lucien, surely a noble would not take something from a lady without the proper courtesy.”
+
+Lucien’s brow twitched, but before he could reply, Sera had moved to stand beside Talia, her attention shifting between the package and him.
+
+She tilted her head, then reached into her satchel for a piece of charcoal and a scrap of parchment. After writing for a moment, she turned it toward Talia.
+
+What is it?
+
+Talia’s expression softened for a moment before the grin returned, and instead of replying, she passed the package to her almost nonchalantly, her eyes fixed on him the entire time.
+
+The hunter looked down at the precious treasure now resting in her hands and, to his dismay, began to shake it lightly.
+
+“Sera...! Don't shake it like that, some of it might spill out.” Even as he spoke, his eyes tracked the movement of the sacred item in her hands.
+
+At his raised voice, Sera stilled and glanced at him, her pale eyes narrowing slightly. After a moment, she tilted her head and began shifting the package from one side to the other. Lucien’s gaze followed it as though looking away might somehow cause it to vanish.
+
+This time, she turned the parchment toward him and watched expectantly.
+
+It was hardly a secret. A quick explanation, and he could finally reclai-
+
+“Oh! Is that something important?”
+
+The smallest girl had appeared at some point, the rest of the children close behind her.
+
+Sera glanced down at the girl before looking back at him, the same expectant look still in her eyes, as though the question had simply been repeated louder.
+
+The boy with the wooden sword lifted his weapon boldly into the air. “It must be Lord Lucien’s greatest treasure! Brought by Lady Talia to aid him in his quest to defend Ashridge!”
+
+Technically, he was not wrong. With the power of what rested in Sera’s hands, the number of hours he could work in a day would increase by an order of magnitude.
+
+The hoop boy’s eyes narrowed onto the treasure with childlike focus. “Is that something that improves efficiency?”
+
+At those words, Lucien gave a serious nod. “It does. With it, one could maintain concentration for long periods of time, and of course, it also has—”
+
+Talia cut in lightly. “Ah ah. I am going to stop you there, Lord Lucien. It's a busy day, and we really don't have time to listen to an hour-long rant about it.” Despite the amusement in her tone, there was a trace of exasperation beneath it.
+
+How rude.
+
+There were few things in life that deserved reverence. This was one of them.
+
+The smallest girl looked ready to snatch it straight from Sera’s hands, held back only by the hunter’s reputation in the village, though even that looked like a close thing.
+
+The Cragwatch boy frowned slightly, his gaze fixed on the package in Sera’s hands. “Even he has strange favorite things...”
+
+“Lord Vaelric liked imported wine, and Lord Lucien likes...that.” His eyes narrowed at the package, clearly trying to decide how something so small could possibly hold that much importance.
+
+Lucien was tempted to defend the grave insult of placing the two in the same category.
+
+Beside him, the rag doll girl had been watching with growing concern, especially as Sera continued to shift the package from one hand to the other while his eyes followed it with increasing intensity.
+
+After a moment, she moved closer to Alicia and tugged lightly at the maid’s sleeve.
+
+“Is Lord Lucien unwell?” she whispered, glancing toward him. “He looks kind of worried.”
+
+Alicia quickly covered her mouth, though the smile at the corner of her lips gave her away. Her gaze flicked toward him once before she lowered herself slightly to answer.
+
+“No,” she replied softly. “He is only...very focused on something important right now.”
+
+The girl blinked slowly at that, then looked back toward him again. “…It looks serious,” she said solemnly.
+
+Alicia gave a gentle nod before stepping toward Sera and taking the package from her. Sera did not resist, though she continued to watch curiously.
+
+The maid turned to face him.
+
+“My Lord, shall I keep this for you until we return to the manor?” Despite the light amusement in her tone, there was still a note of diligence beneath it.
+
+As expected of her, it seemed Alicia was his one true ally in this matter, unlike a certain someone.
+
+Lucien gave a firm nod at her words. If there was anyone he could trust with something so important, it could only be the loyal maid standing before him.
+
+Talia let out a light groan. “And just like that, the fun is over.” Her eyes moved to meet his own. "Just to let you know, Lord Lucien. Its not gonna be easy to get something like that often so..."
+
+Her words trailed off for a moment before she punctuated the next with a wink. "Don't drink too much of it in one go, kay?"
+
+“...So it is a drink too...like Lord Vaelric’s wine,” the Cragwatch boy muttered under his breath.
+
+Lucien ignored that entirely as he focused on Talia’s far more dreadful words.
+
+“...How much is it?”
+
+Talia hummed, one hand tapping her chin while the other mimed a counting motion.
+
+“I suppose it depends on the season. The reason for the high price is because the route itself is long rather than dangerous.”
+
+“I will pay twice the amount for a monthly delivery. Enough for two...no, three cups a day.”
+
+She shook her head ruefully at that. “I will try my best to keep a steady supply coming. In the meantime, try not to finish this batch too quickly.”
+
+That was acceptable, he could always interrogate...lightly question her later about the important details. For now, he had more pressing matters, such as returning to the manor at once.
+
+Before Lucien could turn and do exactly that, he caught the faint disappointment in Alicia's expression and froze.
+
+Today had been meant for Talia’s shop opening and spending time outside, not immediately retreating to his study to slowly partake in his long awaited beverage.
+
+He let out a soft cough. “Well, I suppose we should continue with your shop’s opening, Talia.”
+
+At his words, Alicia’s expression brightened at once.
+
+Talia’s eyes narrowed as her gaze shifted between the two of them before a familiar curve appeared on her lips. She gestured lightly toward the shop.
+
+“Come on then. We have been standing around long enough.”
+
+The moment she spoke, Talia walked inside with Sera trailing behind, the former already beginning to introduce the various goods to the silent hunter.
+
+The children, deciding whatever was interesting outside had ended, quickly followed them inside.
+
+Alicia moved back to her usual place beside him before speaking softly.
+
+“Shall we go as well, My Lord?” There was a tint of soft anticipation in her voice.
+
+Lucien gave a faint nod, even as he resisted the urge to keep one eye fixed on what the maid now held against her chest.
+
+The next few hours would likely be both relaxing and nerve wracking at the same time for him.
+
+As Lucien sat behind the desk in his study, his gaze lowered to the steaming cup before him. He found himself far too tense to take the first sip.
+
+What if it only smelled like coffee but tasted entirely different?
+
+It was a foolish thought. How could coffee change simply because it existed in another world? There were some things in life that should remain eternally constant, and this was one of them.
+
+He gave a small nod to himself before reaching for the cup with something close to reverence and took a sip.
+
+His entire body loosened at once as the familiar bitterness settled across his tongue.
+
+'As long as I have this...'
+
+It was a relief that the taste had not changed as much as he had feared. Now, if he could just convince Talia to secure him a steady supply...
+
+A knock sounded at the door.
+
+Lucien exhaled softly through his nose.
+
+It seemed duty had returned.
+
+“Enter.”
+
+The door opened and Dorian stepped inside.
+
+“My Lord, you asked to see me today?”
+
+Lucien gave a small nod and took another sip from his cup while Dorian moved toward the chair across from the desk. He waited for Lucien’s gesture before taking his seat.
+
+A memory surfaced unbidden of that day at the storage shed, when the captain before him had revealed the true nature of orcs and the threat they represented.
+
+Since then, they had not spoken of Dorian’s family or his past, as though an unspoken agreement had formed between them.
+
+Though he had noticed Dorian occasionally clutching the variant goblin’s fang while staring at it in silence, Lucien had never pressed the matter.
+
+“Dorian, we have much to discuss regarding the weapon Harlon and Joren have been making.”

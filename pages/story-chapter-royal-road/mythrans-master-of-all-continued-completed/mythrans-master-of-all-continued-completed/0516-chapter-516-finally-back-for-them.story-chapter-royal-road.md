@@ -1,0 +1,255 @@
+---
+id: 9c8bd255-90ae-5c94-aaea-927e3da9f30a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 516 - Finally Back For Them"
+slug: 0516-chapter-516-finally-back-for-them
+partOf: mythrans-master-of-all-continued-completed
+position: 516
+ownLength: 3102
+unit: words
+publishedAt: 2018-02-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195718/chapter-516-finally-back-for-them"
+royalRoadId: "195718"
+---
+
+With the Dark Elf healer Tiatha riding Princess, they reached the door that Ren was looking for less than 20 minutes after leaving the Night Hag. They had stopped occasionally on the way and Artemis cleared out several centipede nests, and Ren had detoured around several other caverns so that he wouldn't disturb some of the other residents in the Underworld. The last thing he wanted was to disrupt people's lives just because he wanted to get somewhere faster.
+
+“On the other side of this door is Shargon Caverns.” Ren said. “I've been here before, and it can be nasty.”
+
+The Dark Elf healer nodded. “I'll stay here, since that is not an environment where I am at my best.”
+
+“I should be right back, but you know how these things go.” Ren said.
+
+“If you take into consideration what we just went through.” Tiatha said. “I have no idea what you're talking about.”
+
+Ren felt that she was being sarcastic, and he chuckled. “I'm only picking up a few friends that I had to leave behind.”
+
+“A few?” Teepo asked and chittered in laughter. “I don't think almost 200 pixies is 'a few'.”
+
+“Pixies!” Tiatha exclaimed. “Ren, you should leave them there and forget you ever met them!”
+
+“What? Why?”
+
+“They are trouble incarnate!” She said. “The Queen had an infestation of them years ago, and it took us almost 10 years to kill them all!”
+
+“You... killed them?” Ren asked, and she felt his disbelief.
+
+“They captured and killed hundreds of us before we discovered their weakness to expensive things.” Tiatha explained. “Once we knew that, we set traps for them instead.”
+
+“But...”
+
+“Abandon them, Ren.” Tiatha said and touched his arm. “Nothing good can come from helping them.”
+
+“I'm sorry you feel that way.” Ren said. “I won't break my word to them.”
+
+“Ren...”
+
+“I'll be bringing them through this door to get them out of the cavern.”
+
+“Ren, you know why people are sent to Shargon Caverns.” Tiatha said.
+
+“Yes, and it wasn't a mistake in my case, either.” Ren said. “Mind you, I think I got a lot more out of it than I was supposed to.”
+
+“Ren...”
+
+“I know this makes you uncomfortable, so I'll close this cavern off from the rest of the Underworld.” Ren said. “Once I have them all out and up on the surface, I'll put it back to the way it was.”
+
+“No, you can leave it closed off.” Tiatha said, a little sadly. “My Queen will not take the chance that those things will roam free and infest the Underworld again.”
+
+“Tiatha...”
+
+“I wouldn't normally question your actions, but this is a mistake.” Tiatha said. “I will leave and let you commit your folly without my presence.” She touched the spot above her heart. “My Queen, I would like to return.”
+
+A portal appeared beside the Dark Elf healer, and she looked at Ren with pleading eyes.
+
+“I don't know what to say to make you realize the chaos you are going to unleash when you take them out of there.” Tiatha said, and Ren felt her sadness. “You will only have yourself to blame for what is to come.”
+
+Ren watched as Tiatha stepped into the portal.
+
+“She's right, you know.” Teepo said. “There's nothing we can do to stop them from running amok once they're out of the caverns.”
+
+“No, there is one way.” Ren said and took out a piece of parchment paper. “I just hope they agree.”
+
+*
+
+The pixies had lived in the large archway apartments Ren had made for them, and loved it. It was so much nicer than anything they had ever had, both before and after appearing in Shargon Caverns. The archway was also the best. They could set up traps and things to easily capture people, and like Ren had asked them, they made sure that anyone that approached knew there was a chance they would be captured and made to hand over a monetary penalty.
+
+Only 2 people had shown up since Ren had left. A man and a woman. They were a couple and had shown up together, and proved to be quite a bit smarter than the pixies had assumed the average person was. The woman had summoned a short 4 legged creature and sent it through the archway. Even though it was barely 3 feet tall, it was strong and trampled through everything. The pixies were always ready for this eventuality and immediately replaced all the traps with new ones.
+
+At a whistle from the one that summoned it, the creature turned around and trampled back through the archway and destroyed the next set of traps. The two people knew that sending the creature through again would give them the same result, so they dismissed the creature.
+
+“Hello, there!” The man said and waved, even though he couldn't see the pixies. “I wish to buy passage for myself and my mate!”
+
+“I'm your wife, not your mate.” The woman said.
+
+“That's what I meant.” He smiled.
+
+“Calling me your mate makes me sound like I'm a piece of meat that you use occasionally.” She said, and he laughed.
+
+“We both know that I'm the one you can use whenever you want.” He said and took her hand. “Forgive me?”
+
+“I suppose.” She said, and he turned back to the archway apartments.
+
+“So, how much to let us pass without being captured?”
+
+“A platinum coin each!” A tiny voice rang out.
+
+“Your jokes and pranks are very funny!” The man said and laughed. “Perhaps something more valuable than money?”
+
+“What do you have?” Another voice asked.
+
+The man whispered to the woman, and she nodded. She started to chant, and then a light started to form in front of her. After a few moments, the light faded and revealed a golden goblet covered in jewels, that sat atop a 4 foot tall pedestal of stone.
+
+“Behold! The Goblet of Fire!” The man said, and flames erupted from the top of the goblet.
+
+“If you give us that, you may pass.” A female voice said with authority, and then the pixie called Suniva Sunnyvale, the Firekin, revealed herself on top of the archway apartments.
+
+“The flames are sacred, so you cannot touch the goblet.” The man warned. “If you do, you will suffer the consequences for desecrating a holy object.”
+
+“I will not touch the goblet, but you cannot leave it where it is.” Suniva said.
+
+“We can move it to wherever you want.” The man said. “Perhaps over to the side in front of the archway?”
+
+“That will do.” Suniva said.
+
+The woman levitated the goblet and the stand it was on, over to the spot.
+
+“You may pass unhindered.” Suniva said, and the other pixies moved their traps out of the way.
+
+“Thank you.” The man said, and led his wife through the arch and out of the cavern. When they were gone, most of the pixies revealed themselves.
+
+“It's so pretty!” A female voice said as she appeared beside the goblet and looked up at it. “No wonder the Firekin wanted it.”
+
+“I don't want the goblet.” Suniva said and stared at the gushing flames shooting out of it. “I want it's contents.”
+
+“Ooo, sneaky!” Another pixie said. “As long as you don't touch the goblet itself, you won't be breaking the restriction.”
+
+Suniva formed a bridge out of fire from the top of the archway apartments over to the edge of the goblet, without touching it. She crossed the bridge and felt the heat from the roaring flames in the goblet.
+
+“I... I must have it.” Suniva said and reached out to put her hand in the flame. Her fingers entered the bright orange flame, and she felt a shock go through her as the orange flame turned to bright blue. “NOOOO!” She yelled as the cursed blue fire latched onto her and travelled up her arm. “STOP! I command you! Stop!”
+
+The flames didn't listen to her plea as it merged with her own flame and spread over her faster. She fell back onto her flame bridge, and it started to turn blue as well. She dismissed her bridge before the blue flame could spread more than a couple of inches, and then she and the blue flames that remained dropped 5 feet to the ground.
+
+Another pixie had put a pile of rags there to catch her fall; but, she still hit hard and lost her concentration. The blue flames quickly covered her chest and moved down her body. When she came back to herself, half of her body was covered in blue flame, and she felt despair. Since she was the only Firekin in their settlement, she could not call upon anyone to help her fight the curse.
+
+“S-Suniva? Are you okay?” Shanna, the first Pixie Ren had met asked as she carefully approached, and stopped several feet away.
+
+“I guess touching the contents counts as touching the goblet.” Suniva tried to joke.
+
+“W-what can we do?” Shanna asked.
+
+“Watch me die, I suppose.” Suniva said and winced when she sat up. “Unless you know of someone that can break curses or can give me more Fire to burn it away.”
+
+“I...” Shanna took a deep breath. “Not here, no.”
+
+“Then I guess our odd friendship will be at an end soon.” Suniva said.
+
+“H-how long?”
+
+“If I can bother some of you for Mana, I... I can last a week. Maybe a week and a half.”
+
+“We'll give you everything we can!” Shanna said, and the other pixies gathered around to offer what they could.
+
+*
+
+Ren had closed off the cavern from the rest of the Underworld as Tiatha had requested, then stepped through the door into Shargon Caverns. Princess and Artemis followed him, and his full Aura covered the entire cavern. He heard a tiny shout that was a plea for help, and he ran over to the archway apartments. All of the pixies sat around a withered and burned figure that was covered completely in a low burning blue flame. He could feel the Void influence, as well as the small amount of Mana being shoved into the little creature by the other pixies. Shanna tried to stand up, since it was her shout he had heard. She collapsed because nearly all of her Mana was gone, and Ren caught her.
+
+“What happened?” Ren asked, and offered up his Mana to them. They couldn't take it in it's raw form, and then he felt a small hand touch his.
+
+“R-Ren...”
+
+“Rainie, filter for me.” Ren said and sat down as he picked the Waterkin pixie up, and he held both of them carefully.
+
+“AHHHH!!” All the pixies screamed as Ren dumped several thousand points of Mana through Rainie and into them. He felt that Mana trickle into the withered being that lay in the middle of their circle. He used his Emotion Siphon ability to probe the pixie, and discovered who it was.
+
+“Suniva.” Ren said, and he felt a flicker of flame inside of her.
+
+“She was cursed.” Shanna said, tears in her eyes. “She... she said she could last a week... or a week and a half...”
+
+Ren looked at the goblet that had the same blue flame and cast Remove Curse on it. The goblet disappeared as did the stand it was on, and he tried the same spell on Suniva. The blue flame didn't go away.
+
+“How long has it been?” Ren asked.
+
+“Two weeks.” Shanna said, and started to cry.
+
+“Shh. It's okay.” Ren said and put her and Rainie down.
+
+“B-but... she... she's gon-”
+
+“Don't worry.” Ren said and cut her off, then reached out for Suniva.
+
+“No! You'll be cursed, too!” Shanna said.
+
+Ren smiled and activated his Hands of the Gods ability and chose Burning Hands. “I knew there was a good reason for me to have this ability.” He said and picked up the charred body. The blue flame tried to spread to him, but it died as it touched his hands. He cradled Suniva and whispered softly to her.
+
+“I can feel your flame, Suniva.” Ren said. “You've lasted even longer than your lie said you would.”
+
+Shanna gasped at his words, and shock and surprise went through the other pixies.
+
+“Show them... show everyone... that Fire can burn through anything.” Ren said and felt her flame get hotter. “That's it.” He encouraged and increased the Fire his hands produced. “Show me, Suniva!” He said. “Show me that Fire will never die!”
+
+Suniva's internal flame grew and became stronger as Ren talked and poured Fire into her. He activated his Restoring Hands as well, and her Health, Mana, and Stamina started to refill. He was tempted to cast Full Restoration on her, but he was afraid she wouldn't fight so hard to come back if she didn't feel the pain. The charred flesh of Suniva's face cracked and her little mouth opened as she took in a deep breath... then screamed in pain.
+
+“Yes!” Ren said and stuck out the tip of his tongue and touched her mouth with it to cut off her scream. The flame from his hands covered her and his face completely, and he shoved the flame down his tongue and inside of her. The intimate contact of Suniva's mouth on his tongue heightened her sensitivity and receptivity to the Fire, and Ren felt her using that fire to burn away the old dead flesh.
+
+Ren was immediately relieved that he hadn't used the Full Restoration spell, and Suniva absorbed his Fire just as quickly as he produced it. Her dead and charred flesh was melted away and fell to the ground through Ren's fingers, then she converted the Fire into energy and started to heal herself.
+
+Ren felt her emotions change from despair to desperation, to denial, to acceptance, then to happiness that she wasn't going to die. Then she came to the realization that Ren had his tongue out and was touching her mouth with it. Her still partially-bony hands reached up and touched his tongue, and caressed it as she sucked the Fire into herself to keep healing. Ren felt her feelings turn to desire, despite the pain she was in, and he tried not to react to that.
+
+“Ah... nothing to see here.” Teepo said and waved his two front legs at the pixies. “Yep! Nothing! Go on about your day!”
+
+The pixies started to laugh, which was Teepo's intention. It broke the somber mood that permeated the pixies emotions, and they all started feeling happy again once they realized that they had helped Suniva survive for so long.
+
+It took almost 10 minutes for Suniva to completely heal herself, but she didn't stop caressing and kissing Ren's tongue when she was healed. He quickly pulled it out of her grasp before she could grab on firmly, and she sighed when he deactivated his Burning Hands ability.
+
+“Suniva!” Shanna exclaimed and climbed up onto Ren and hugged her friend, then kissed her cheek several times. Suniva took the hug and kisses amicably, then carefully dislodged her friend to look up at Ren.
+
+“You saved me.” Suniva said.
+
+“Your people saved you.” Ren said, and stopped himself from trying to caress her with his fingertips. “They kept you alive long enough for me to get here.”
+
+“Suniva, Ren said you lasted longer than your lie.” Shanna said. “How long did you actually have?”
+
+“I was too surprised to put up my defenses before the curse infected me.” Suniva said, sheepishly. “Maybe...” Her voice fell to a low whisper.
+
+“What was that?” Shanna asked.
+
+“I said 3 days.”
+
+“What?!?” Shanna exclaimed and started to swat at her friend's head. “You...” *swat* “...lied...” *swat* “...to me!” *swat*
+
+“I was trying to protect you.” Suniva said and easily dodged most of the swats. “I didn't realize that you...” She looked around at the other pixies. “...that all of you would give me so much of your Mana.” She sighed. “I thought you all hated me.”
+
+“We do.” One of the males said. “You are so full of yourself and believe you're special, just because there's only one of you.”
+
+“Yeah, and?”
+
+“You intimidate us with your flame, and a lot of us are scared of you.” He said. “But, that doesn't mean we want you to die.” He smiled. “I'm actually surprised that Shanna even looks at you, let alone is your friend.”
+
+“What? But, I love Suniva!” Shanna said. “If she didn't burn down the things I make, we'd all be covered in weeds and vines by now.”
+
+“I don't mind helping a friend when she needs me.” Suniva chuckled. “Plus, you have no idea how good it feels to feed the Fire.”
+
+“I do.” Ren said, and she looked at him with lust in her eyes and in her heart. “Can you tell me what happened?”
+
+Suniva nodded and told Ren of the two people that had left the cursed goblet. Ren took out the All-Seeing Mirror and asked it where the two people were. He saw them huddled inside a cocoon together, their bodes covered in large spider bites, and their skin covered in poison veins. He turned the mirror to show Suniva, and she started to laugh. He showed the other pixies, and they all laughed, too.
+
+Ren asked where they were, and saw they were in the cavern that made them receive the repercussions of their worst decision during their time in Shargon Caverns.
+
+“I didn't meet any spiders myself.” Ren said. “I wonder... does that mean each person gets a different experience?”
+
+“Probably.” Artemis said. “I'm sure if Princess was along the last time you were here, you might have had a different experience.”
+
+Ren remembered his Phantom Steed being half-eaten, and he reached out to scratch Princess' chin.
+
+“Are you going to save them, too?” Suniva asked and pointed to the mirror.
+
+“No, I didn't come here to interfere with other Adventurers.” Ren said. “I came here for you.”
+
+Suniva knew he meant all the pixies, but since he had saved her life, she took it quite personally. Ren felt her emotions, and her gratitude and need for him was powerful. He remembered the last time she felt like that and had pleased herself on his nose.
+
+“Suniva...”
+
+“Ren, my Fire burns for you now.” Suniva said. “Take me from this place and I will be yours forever.”
+
+“Um... about that.” Ren said, and took out a heavily modified contract. “I want you all to read this...”

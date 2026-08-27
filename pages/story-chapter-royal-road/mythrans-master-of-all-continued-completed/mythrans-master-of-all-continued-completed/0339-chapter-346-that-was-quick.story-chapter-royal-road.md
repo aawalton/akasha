@@ -1,0 +1,363 @@
+---
+id: f5353e3d-46fd-5e2c-a2f4-0f2c42d461f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 346 - That Was Quick"
+slug: 0339-chapter-346-that-was-quick
+partOf: mythrans-master-of-all-continued-completed
+position: 339
+ownLength: 3641
+unit: words
+publishedAt: 2017-08-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158656/chapter-346-that-was-quick"
+royalRoadId: "158656"
+---
+
+“That's where you're wrong.” Ren said. “I do have a choice.”
+
+“Come with us peacefully.” One of the guards said and reached out to take Ren's arm. Ren concentrated on his Fear Aura, grabbed the guard's arm and pulled him close, then dug his other hand into the guard's thick leather armor and used Iron Grip. He picked the guard up, flung him around several times and clubbed the other three guards into unconsciousness.
+
+The guard he held was unconscious as well, mainly because it was his head that had clubbed the other three guards; so, Ren dropped him to the floor and turned back to the king. Silence had filled the room again and no one spoke, and Ren switched his Fear Aura into Command.
+
+“I'm an Adventurer, and I'm getting tired of this garbage.” Ren said and pointed to the king. “Either you do your job properly, or stay out of my way.”
+
+“I AM THE KING!” King Alamast yelled.
+
+That amused Ren to no end and he laughed.
+
+“What's so funny?” The king asked him, crossly.
+
+“Someone once told me that if you have to declare that you're the king, then you aren't really a king.”
+
+“You...” King Alamast said and pulled his hand back. “...insolent...” It looked like he was going to backhand Ren across the face. “...wretch.”
+
+The hand started to move forward and Ren grinned.
+
+“I challenge your right to rule.” Ren said.
+
+Diana, the king's daughter, gasped.
+
+“NO!” Lady Eleanor exclaimed. “Don't... don't do this!”
+
+“He said that I didn't have a choice.” Ren said. “So, I'm choosing to question his authority over me.”
+
+King Alamast looked at Ren's small stature and nodded. “Very well. We will have a battle-”
+
+“Right now.” Ren said. “Right here.”
+
+“No, daddy!” Diana pleaded. “You saw what he did!”
+
+“What are the conditions?” King Alamast asked.
+
+“Armor is allowed.” Ren said. “As is innate abilities.
+
+“Agreed.” King Alamast said and equipped his shiny silver plated armor. “No weapons.”
+
+“Unconsciousness wins the match.” Ren said. “If I win, you and everyone in the Human Kingdom will do everything I tell you to do for the day.”
+
+King Alamast shook his head slightly at the gall he had to ask such a preposterous thing. “And if I win?”
+
+“I'll voluntarily exile myself from the Human Kingdom.”
+
+“Ren!” Railyse said. “You've never fought him before! You don't know what kind of tricks he has!”
+
+“It doesn't matter.” Ren said.
+
+“Very we-.”
+
+“DON'T!” The head healer said. “He's only level 73!”
+
+The king laughed. “If he wants a fight, he will get one. Even at such a pitiful level.” He said and waved an arm. “Clear a space! We need room to-”
+
+“This is fine.” Ren said and stepped into the aisle in front of the podium, and faced the wall with the crest. “This will be quick.”
+
+“Yes, it will.” King Alamast said and cracked his knuckles. “You are going to regret man-handling me.”
+
+“I already regret touching you like that.” Ren said and faked a shiver. The king's nostrils flared as he let his anger show, and Ren smiled at him. Railyse shook her head at their stupidity, stepped aside, and brought Diana and Lady Eleanor with her. It cleared the way behind the king, and Ren nodded his thanks to her.
+
+“On your word.” Ren said to King Alamast.
+
+“Wor-”
+
+Ren's fist shot out in an upward motion and punched him in the chest before he could finish the word. Since Ren had punched upwards, the force of the impact picked the king up and flung him backwards. It dented the armor he wore, shattered several ribs and compressed his chest, which cut off the king's airflow and knocked the wind out of him. Ren used his Web spell, that his Amulet of the Spider let him cast once per hour, to shoot King Alamast as he flew through the air.
+
+The webbing carried the king to the wall behind the podium and stuck him there. Ren had been careful with his aim and made sure to only cover the king from the neck down. King Alamast hit the wall with a dull thud, and slumped into unconsciousness.
+
+“DADDY!” Diana yelled and ran over to him.
+
+“I win.” Ren said, and a moment later, he glowed for a second. When it faded, he got a popup.
+
+Notice!
+
+Your ability Word Of Law now applies to the entire Human Kingdom. Commands given on your land are considered law and must be followed. This has a time limitation, and will expire in 23 hours, 59 minutes, 55 seconds.
+
+Running Quest Update!
+
+You have shown a room full of influential people from the Human Kingdom what you can do.
+
+Rewards: 35,500 XP; 3,550 Fame
+
+Notice!
+
+Excess Fame has been converted to XP.
+
+3,550 Fame x 10 XP = 35,500 XP
+
+The timer for the Word Of Law effect popped up on Ren's display, and he smiled.
+
+*
+
+Dammit. Lord Eddlemere thought. Well, I was wrong. This isn't going to be better. He got up off the floor when he thought no one was looking, and started to move towards the door. I suppose I'll have to come up with something else.
+
+*
+
+“Ren! Someone's trying to leave!” Teepo said.
+
+“Guards!” Ren commanded, and 4 more guards came into the room. “Two of you go and get the messenger that left here a few minutes ago, and the other two stop that man from leaving.” He said and pointed to Lord Eddlemere. The guards nodded and 2 left right away, and the other 2 drew their swords to stop Lord Eddlemere from leaving.
+
+“What's the meaning of this?” Lord Eddlemere asked, his anger at being detained was quite prevalent.
+
+“No one is leaving here without answering some questions.” Ren said and took out an Amulet of Truth for Railyse to wear.
+
+“REN!” Diana yelled. “Let him down!” She said, desperately. “Please!”
+
+“Of course.” Ren said and walked over to her. “Step back.”
+
+Diana did so without comment, and Ren shot the king with one of the Fireball wands mounted on his armor.
+
+“NOOO!” Diana screamed. “You're killing h... h... he's not burning?!?”
+
+“The fire is only burning the webbing.” Ren said. He had used his Fire manipulation ability to keep the fire from hurting the king, and a moment later, the webbing dissolved and he caught King Alamast's unconscious body and laid him on the floor.
+
+“I used my two Major Healings already.” The head healer said as she came over to them.
+
+“I know.” Ren said and took out a Level 5 Major Healing wand. “You can use this instead.”
+
+The head healer stared at the wand and then at Ren. “You really could have healed yourself.”
+
+Ren nodded. She took the wand from his outstretched hand and knelt by the king. It only took about 10 seconds for the healer to finish her work, and King Alamast took in a deep breath, then coughed.
+
+“You're going to be sore for a while.” The healer said to him and handed Ren back the wand, and King Alamast sat up with his daughter's help.
+
+“You knew you were going to win.” King Alamast said, and Ren nodded. “Why didn't you say a week, or a month, or not even give yourself a time limit at all?”
+
+“Because that wouldn't be fair.” Ren said, and everyone stared at him. He looked at their surprised faces and wondered what was wrong. “What is it?”
+
+“You could have ruled without being a ruler, and you didn't do it because it wouldn't be fair?!?” Lord Eddlemere nearly yelled the question at him.
+
+“Geez! Tell us all how you really feel, why don't you?” Ren said and chuckled. “It wouldn't be fair because I wouldn't have earned it.” He said. “It would be like stealing.”
+
+“You're flipping crazy!” Lord Eddlemere said angrily and threw his hands up in the air. “I would have killed for the opportunity you just had!”
+
+“Excuse me?” King Alamast was surprised. “Lord Eddlemere, you would have killed me?”
+
+“Of course I would have!” Lord Eddlemere said. “I've been trying my best to sneak around and undermine you since I started playing this game!”
+
+“WHAT?!?” Ren exclaimed. “You're an Adventurer?”
+
+“Shut up, you!” Lord Eddlemere said. “Yes, I am! This plan would have gone off without a hitch if you hadn't interfered!”
+
+“It was you?!?” King Alamast asked.
+
+“Of course it was me, you idiot.” Lord Eddlemere said. “I arranged the bomb with Talon, but it wasn't supposed to be delivered here to the meeting room, but to the office you set up for the Ambassador.”
+
+“Why did you want her dead?” Ren asked.
+
+“I didn't care about her at all.” Lord Eddlemere said. “I only cared that I could pin the blame on King Alamast, and get him to vacate the throne in disgrace.”
+
+“That was a really stupid plan.” Ren said, and Lord Eddlemere turned to him.
+
+“I told you to be quiet!” Lord Eddlemere said. “I've had enough of your interference.”
+
+“What do you mean you've had enough?” Ren asked. “What else did I ruin for you?”
+
+“Plenty.” Lord Eddlemere said with disgust in his voice. “The last one was the Aurora fire, where I wanted to have the whole city sacked; but the worst one? That was the Aurora Expedition.”
+
+Ren blinked his eyes several times at the man, and remembered his very first mission. “You gave the Mole Shaman the summoning spell.”
+
+“I did.” Lord Eddlemere said and crossed his arms in defiance. “That imbecile couldn't come up with a Summon Minor Demon spell if his life depended on it.”
+
+“It did depend on it.” Ren said and smiled. “I took care of it, though.”
+
+“I know you did.” Lord Eddlemere said. “How I had hoped beyond hope you had died on that stage when you accepted your prize money.”
+
+“You were there?” Ren asked, and he nodded.
+
+“I always try to be near major investments when they are about to pay off.”
+
+“Like now.”
+
+“Unfortunately, you let the fool live.” Lord Eddlemere said. “My plan only works if the Ambassador is dead and he's framed, or he's dead and the Ambassador is framed.”
+
+“How would you keep everyone silent?” Ren asked. “Everyone that's here are witnesses.”
+
+“They listen to the current ruler, you fool.” Lord Eddlemere said.
+
+“You're the fool!” King Alamast said and stood up. “Arrest that man!”
+
+The 2 guards looked from Ren to Lord Eddlemere.
+
+“I meant Lord Eddlemere!” King Alamast said. “He's the one that's caused all of this!”
+
+“It's not going to be that easy.” Lord Eddlemere said. “I have a few tricks up my sleeve.” He said and a dark misty cloak started to form around him. A split-second later, a thick red laser beam cut through the cloak at his neck and burned his shoulder. “AhhHH!” He yelled and grabbed his shoulder. “Wh-what was that?”
+
+“Ruby laser.” Ren said. “When I maxed my enchanting, I updated the enchantment on my chest jewel.” He said and took out a Dispel Magic wand. The same kind of mist started to form around Lord Eddlemere's face, and Ren shot him with the wand. The mist dissipated immediately, and Lord Eddlemere stared at Ren.
+
+“Why are you doing this?” Lord Eddlemere asked. “You're messing up my fun!”
+
+“It's you that's been messing up my fun.” Ren countered. “Of course, if you haven't set things in motion, I guess things would have turned out differently for me.”
+
+“You'll never know how much I regret that.”
+
+“Tell me.” Ren said.
+
+“I regret you being here so much that I'm planning on killing the whole royal family to spite you.” Lord Eddlemere said, then had a surprised look on his face. “Why am I telling you this?”
+
+“Amulet of Truth, and my innate ability to command you.” Ren said. “It's a hefty combination.”
+
+“Wh-why?”
+
+“I had to come up with a way to fix the inherent flaw in the amulet.” Ren said. “So I did.”
+
+“You... you...”
+
+“Take Lord Eddlemere into custody.” King Alamast said. “We will have a show trial for him, which will mean nothing, then I will give him an appropriate sentence that I won't need to deliberate over.”
+
+Lord Eddlemere shook his head and uncrossed his arms. “Just like him...” He said and pointed to Ren. “I choose to question your auth-”
+
+“Shut up!” Ren said, and Lord Eddlemere's mouth clamped shut. “I command you to never challenge the rulers of this kingdom or any other!”
+
+Lord Eddlemere's eyes widened as he received a popup telling him that he was forbidden to challenge any ruler, and no time limit was set for it to expire.
+
+Nooooo! Lord Eddlemere thought and yelled. “Mmmmmm!” Was all that anyone heard.
+
+“You are hereby stripped of all authority in this kingdom, including the position and office you held in this government. You will also remain quiet until such time as you are brought before higher authority to face the consequences for your acts.” King Alamast said. “Take him away.”
+
+The two soldiers went on either side on Lord Eddlemere and took his arms. He didn't fight or struggle, because he knew that once the guards had their hands on him, he couldn't get away. They led the surprised man away, amid the silence of the onlookers.
+
+“Thank you, Ren.” King Alamast said. “Without your help, we never would have found the culprit.”
+
+“Wh-what?”
+
+“If you hadn't played along as well as you did...” King Alamast said, and rubbed his chest. “I could have done without the broken ribs, though.”
+
+“Hold on.” Ren said. “You mean you're not normally this ignorant and stupid?”
+
+“No.” King Alamast laughed. “I play the Bumbling Ruler quite well, don't I?”
+
+“You did great, Dad!” Diana said, and the king put an arm around her shoulders and hugged her. She wrapped both arms around his waist and hugged him back.
+
+“I can't believe you played me like that.” Ren said, and looked at the king. “What made you think I'd react like I did?”
+
+“Do you really think we wouldn't have extensively researched both you and the Ambassador before letting you into the castle?” King Alamast asked. “My second cousin Lord Eric was more than happy to fill me in on your antics.”
+
+“He's a real piece of... work.” Ren changed what he was going to say when he saw the expectant look on Diana's face.
+
+“I know.” King Alamast said. “Why do you think he's been shuffled off to one of the smallest areas in the kingdom?”
+
+“So you know what he does there with... different things.” Ren once again changed what he was going to say because of who was listening.
+
+“I've been keeping his proclivities under wraps.” The king said. “You did a nice job of getting Anabelle away from him.”
+
+“You know about her?” Ren asked, surprised.
+
+“I do.” King Alamast said. “I also know what a valued member of society she has become because of how you helped her.”
+
+Ren didn't say anything, because that wasn't his goal at all. What he wanted to do was help Anabelle, not society as a whole through her.
+
+“Now.” The king said and looked at Railyse. “Let's go into my private meeting room and discuss these new trade routes further.”
+
+“No.” Ren said, and the king looked at him.
+
+“Excuse me?”
+
+“We've already wasted too much time with this whole thing.” Ren said. “You need to send people out to look for Talon.”
+
+“I'm sure that...”
+
+“I am ordering you to deploy your considerable resources to find Talon.” Ren said and pushed with his Command Aura. “After you set that in motion, then we can discuss the trade routes.”
+
+The king frowned at Ren, but turned to the man at the door. “Send word to the Messenger Guild. Find Talon, and report his whereabouts and activities.”
+
+“Right away, Your Majesty.”
+
+“That's all?” Ren said. “That's your resource?”
+
+“The Messenger Guild has people all over the city. They will find him, or at least where he's been.”
+
+“I could have done that myself.” Ren said. “Railyse? Let's stand by the doorway and question everyone as they leave.”
+
+“Of course, Ren.” Railyse said. “We will root out anyone else who would plot with Lord Eddlemere to keep our two peoples at war.”
+
+Ren led her over to the door and told everyone that the meeting was over and that they could leave for the day. As the people passed, Ren asked them questions and Railyse offered alternative questions for each person, depending on the answers they received. Out of the 200 people, 30 of them hated the sea dwellers and didn't object to Railyse being assassinated. Of those people, only 3 of them had known about the plot against her, and one had offered to help.
+
+The three of them were detained, relieved of their duties, and sent to stay in the holding cells beside Lord Eddlemere in the dungeon.
+
+“Now we can go and talk about the proposal.” Ren said, then he, Railyse, King Alamast, Lady Eleanor, and Crown Princess Diana left the meeting room and went to the king's private meeting room to discuss the proposal. Ren hadn't known that the first meeting had been just for show, and that the people there wouldn't be voting on if it would be accepted. All they had the power to do, was change some of the conditions of the pact. The king himself was the one who decided to accept it or not.
+
+“I could just order you to accept it as is.” Ren said half an hour later, and the king looked at him.
+
+“I wouldn't like that.” King Alamast said.
+
+“You wouldn't have much choice in the matter.” Ren said and smiled, because the king had said something similar to him about spending time in the dungeon.
+
+“My main point of concern is this.” King Alalamst said and touched the enchanted design etched into the wall. He indicated the largest conflict area, and it also had the largest proposed safe zone in the pact. “I know the shipping firm that uses this route exclusively. They are not going to be happy that they can't do what they want in their own waters.”
+
+“Excuse me?” Railyse said.
+
+“I'm sorry.” King Alamast said. “I meant open waters.”
+
+“It's our water.” Railyse said. “We only let you use it.”
+
+The king looked at her. “You believe that?”
+
+“It's the truth.” Railyse said and tapped the amulet around her neck. “The only reason we haven't destroyed you completely there, is because we're afraid to damage the precious coral reefs under the surface.”
+
+“WHAT?”
+
+“We aren't willing to scorch where we live just to stop you from taking our food.”
+
+“You live there?” King Alamast asked and studied the area.
+
+“My people live everywhere there's a large enough body of water.” Railyse said. “All these places that you land dwellers believe is yours just because you used a boat to cross it and survived, is really ours.”
+
+King Alamast looked from the design to Railyse, then back again. “I don't know if I can convince them of that.”
+
+“You don't have to convince them.” Ren said. “They'll never accept that they don't own the water. All you have to do is tell them to move to here.” He said and pointed to just outside the safe zone and past the coral reefs. “Tell them it's too dangerous where they are, or that if they stay there, they won't have ships that work for much longer.”
+
+“What?” King Alamast said. “Are the sea dwellers going to attack?”
+
+“No. They aren't going to attack.” Ren said. “What they will do is stop the ships from moving through the water.”
+
+“They can do that?” Diana asked, surprised.
+
+“They can now.” Ren said. “That's why they are making this proposal. If you don't accept to shift the routes slightly, none of the ships will work anymore.”
+
+“Are you blackmailing the entire Human Kingdom?” Lady Eleanor asked.
+
+Ren chuckled. “No, Your Highness.” He said. “I'm telling you that the sea dwellers can't take the ships moving over them anymore, and they will be moved aside or stopped without having to fight.”
+
+King Alamast sighed. “That is blackmail.”
+
+“It's not a threat.” Railyse said. “We're telling you it's going to happen no matter what. All this proposal does is give you the option to save your shipping before it needs to be saved.”
+
+“When will it go into effect?” King Alamast asked.
+
+“Next month.” Ren said. “That was the longest amount of time that I could convince them to wait.”
+
+“Only a month?!?” Diana asked. “It... it might be possible to contact all the shipping lines by then.”
+
+“It should be.” Ren said. “A ship can only hold about 2 weeks of provisions for the crew. They should all be back in time to get the new routes.”
+
+“Well, I guess you're right.” King Alamast said. “I don't have much choice.”
+
+“You could choose to ignore the proposal.” Ren said. “Then try to recover the crews from the stranded ships.”
+
+“No, I won't do anything like that.” King Alamast said. “The Human Kingdom accepts the proposal from the Ambassador, and I'll implement it's policies as soon as the Gathering votes on it.”
+
+“I order you to order them not to add any addendums to it.” Ren said. “Take it as it is, or not at all.”
+
+The king looked at Ren, who knew that the king resented the order, and the king nodded.
+
+“Good!” Ren said, grabbed the king's hand and shook it vigorously. “Now if you'll excuse us, I have some parts and supplies to pick up before we head back home.”
+
+The king nodded again, and Ren let his hand go.

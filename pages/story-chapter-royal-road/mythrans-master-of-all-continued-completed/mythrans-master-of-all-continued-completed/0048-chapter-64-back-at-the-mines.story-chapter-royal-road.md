@@ -1,0 +1,417 @@
+---
+id: 1c569b29-8aa1-5fc6-9ad0-e6e2c8953a2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64 - Back At The Mines"
+slug: 0048-chapter-64-back-at-the-mines
+partOf: mythrans-master-of-all-continued-completed
+position: 48
+ownLength: 3961
+unit: words
+publishedAt: 2016-10-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99906/chapter-64-back-at-the-mines"
+royalRoadId: "99906"
+---
+
+Ren ran for all he was worth and after half an hour his Health bar started to drop slowly. Ren kept running and decided to try training Staying Power. When the Health bar dropped below 25% half an hour later, Ren stopped to rest and got a popup.
+
+Stat Change!
+
+Shock Absorption Level 3 (Intermediate 0%)
+
+Ren was surprised at that. Maybe the extra weight is impacting my body more than I thought it would. Ren thought and checked Staying Power. It was up 30%. Only 70% left to reach Level 6. Ren grinned and took out one of the ration packs he'd bought at the general store. Ren ate a small part and waited. The Health Bar increased by 50 points and Ren ate another part. Ren repeated this until his Health bar was nearly full and Ren put the ration pack away. There was still 2/3 of it left. Ren rested for another few minutes, the Health bar topped up, and Ren took off at a fast jog instead of running all out.
+
+3 hours later Ren reached the mines and slowed to a fast walk. Ren had stopped once to recharge and had 1/3 of a ration pack left, Staying Power, Rationing, and Shock Absorption were close to leveling, and he'd gained 2 points each in Strength and Endurance. Ren stored his Leather Armor and the Dire Wolf Hooded Cloak into inventory and Teepo crawled to Ren's shoulder. Ren walked passed the rest tents and the cafeteria to get to the foreman's office. Ren knocked and heard a voice invite him in. Ren opened the door and stepped inside.
+
+“Ren!” Earl the Foreman said and got up from behind the desk to shake Ren's hand. “What are you doing here?”
+
+“I came about the order for Donan's shop.” Ren said.
+
+“Oh? Did he want to change it?” Earl asked.
+
+“Not the content, just the time. We need it earlier than 2 days.”
+
+Earl shook his head. “We can't get that much ore before then.”
+
+“That's why I'm here.” Ren said.
+
+Earl raised his eyebrows. “Are you going to work for me?”
+
+Ren nodded. “I'll have enough ore to send to the shop by tomorrow.”
+
+“That's not possible.” Earl said.
+
+“If I'm allowed to do a bit of... alterations to the carts...” Ren suggested.
+
+“What kind of alterations?”
+
+“Just an enchantment. It should speed things up for you considerably.”
+
+Earl thought about that for a minute. “How much are these enchantments going to cost me?”
+
+Now it was Ren's turn to think. “Well... if I do increase the whole mine's production by a half-decent percentage... say, 10%... what would that make you?”
+
+Earl scowled. Ren suspected that it would be quite the amount of money. The mine was always getting demands for more ore.
+
+“How about this...” Ren said. “...I'll enchant the carts and work at the mine, and you wave the ore bill for this shipment.”
+
+Earl's eyes nearly bulged out of his head. “You...” Earl started to bluster. “If you think...”
+
+Ren raised his hand to stop Earl before he kept going. “We're negotiating, right? It's not like there's a set price for this kind of arrangement, is there?”
+
+Earl opened his mouth and then closed it. Ren could almost see the wheels in Earl's head turning the idea around in his mind.
+
+“You did help me out that time.” Earl huffed.
+
+Ren grinned. “Okay. How about this then... I work at the mine today and tonight for food, I'll enchant the carts for free - if you get the medic to heal me afterwards, and... how about just waving half the fee?”
+
+Earl sat back against the desk and thought about it.
+
+“Before you answer...” Ren added. “The enchantments will stay on the carts until they are removed or the carts are too damaged to hold the enchantment anymore.”
+
+Earl's eyes widened at that. “You'd make them permanent?”
+
+Ren nodded.
+
+“But that's...” Earl shook his head. “I'm not going to ask how you can do that.”
+
+Earl stood up and took Ren's hand. “You have a deal.” Ren shook hands and got a popup.
+
+Stat Change!
+
+Haggle Level 2 (Beginner 0%)
+
+Ren smiled and Earl went back behind the desk. Earl wrote something down on 2 pieces of paper and handed them to Ren.
+
+“Give the food one to Unice in the cafeteria. She runs the place. The healer should be in the first tent in the rest area. His name's Mourn.”
+
+“Thanks.” Ren said and left the office. Ren walked over to the cafeteria and asked for Unice. Ren gave her the note and she nodded.
+
+“What can we get you?” Unice asked.
+
+“A bowl of soup would be great, thanks.” Ren said.
+
+Unice passed Ren a large bowl. “Anything else?”
+
+“No, thank you.” Ren said and turned to walk to a table.
+
+“You have free reign here and all you want is a bowl of soup?!?” Unice said, dumbfounded.
+
+Ren nodded and sat down to eat. The heavy soup was still bland but as he ate, he got a popup.
+
+Stat Change!
+
+Rationing Level 2 (Intermediate 0%)
+
+Ren's health bar filled quickly and when he was finished of the soup, he was at 90% Health. Ren brought the empty bowl back and left the cafeteria. All of the staff just stared in wonder at his retreating form. Ren walked over to the first tent in the rest area and tried to knock on the tent pole. The tent flapped and made almost no noise.
+
+“Come in.”
+
+Ren stepped inside and saw a neat desk and boxes of supplies stacked along the side of the tent. Several cots were there and they were all empty.
+
+“What can I do for you?” Mourn said.
+
+Ren handed him the piece of paper and Mourn nodded.
+
+“Do you need me to monitor you?”
+
+“No, that won't be necessary. I just need healing afterwards.” Ren said. “Thank you.”
+
+Mourn nodded and Ren left the tent. Ren was tempted to run through the mines to look for his friend Fritz, but he knew that Fritz would be coming back up soon anyways. Fritz was a fast miner.
+
+Ren walked over to the long line of carts and placed a hand on the back side, right above the metal stopper that the carts needed to stop them from crashing into each other. Ren put the quadruple antidark glyph on it and gave it a push. It moved easily. Ren pushed another cart and it didn't go as far or as fast as the enchanted one.
+
+Teepo took this opportunity to go exploring and hopped off Ren's shoulder.
+
+Hey, don't go far. We'll be heading into the mines in a while. Ren thought to his friend as Teepo crawled away.
+
+“I'll be good.” Teepo said and chittered in laughter.
+
+Ren shook his head and kept enchanting carts as several miners passed by with full carts to get to the weighing station. Ren watched them as they unloaded the carts and got paid. One man went to take the first cart Ren had enchanted and his eyes widened as the cart seemed to move a little easier than usual. He looked back at Ren and Ren gave him a 'thumbs up' gesture. A small smile appeared on the man's face and he pushed the new cart into the mine. Ren kept going and more miners came out of the cafeteria and the mine to take more carts. Ren had a hard time keeping pace, but a lot of the guys had seen Ren working the forge and they waited patiently for Ren to finish each cart.
+
+“Hey! What's the hold up here?” A gruff voice said and Ren grinned.
+
+Ren stood up from behind the cart he'd just enchanted and saw a very familiar face with a deep red beard and a bald head.
+
+“Ha! I should have known it would be you!” Fritz bellowed and stepped over next to Ren.
+
+“Hi, Fritz.” Ren said and reached out a hand. Fritz reached out and instead of shaking hands he clasped Ren's forearm and Ren did the same.
+
+“Well met.” Fritz said.
+
+“Sorry it took so long for me to get back. There were some things that happened...” Ren started to say.
+
+Fritz shook his head and let Ren's arm go. “I know what it's like to be an Adventurer.”
+
+Ren was shocked. “You do?”
+
+Fritz nodded. “Ah, it was years ago...”
+
+“AHEM!” The weighing foreman said loudly.
+
+“Oh, right. Sorry.” Ren said and nodded to the man.
+
+“Fritz, I have to finish enchanting these carts.” Ren said to Fritz.
+
+Fritz nodded. “I'll be off to eat, then.” Fritz walked off to the cafeteria.
+
+Ren went back to enchanting the carts. Ren hadn't realized just how many carts there were in the mines. Ren's Mana Pool steadily drained as Ren kept enchanting. Ren's Mana Pool was almost empty when Ren finished the last cart's enchantment. Ren knew it was the last because he had reached the carts some of the miners had taken when he'd first started enchanting. If Ren's counting was right, there was just about 110 carts. Ren stood up from the last cart and Fritz was standing there.
+
+“Hi, Fritz.”
+
+Fritz looked at Ren closely. “No jump. I didn't scare you?”
+
+Ren shook his head. “Nope. I'm scare proof.” Ren said and smiled.
+
+Fritz smiled back. “Me, too.”
+
+Ren waved for Fritz to follow him and Fritz did, if a bit reluctantly. Ren walked over to one of the tents and went inside. Fritz went in as well and Ren stood there by the cot.
+
+“I didn't want to do this where everyone would see.” Ren said.
+
+Fritz clenched his hands into fists and leaned in a little, almost into a fighting stance, and waited. Ren saw this and smiled.
+
+“Fritz... I'm not going to challenge you or anything.” Ren said.
+
+Fritz didn't change his stance or his clenched fists. Ren assumed that this must be Fritz' default position when he expected something to happen.
+
+“I wanted to show you something... away from prying... and possibly jealous, eyes. I want to show you this.” Ren said and took out the pickaxe he'd made from meteoric ore.
+
+Fritz' eyes nearly bulged out of his head. “Ren! What... where... how?”
+
+“It's a long story.” Ren said and grinned.
+
+“I've never seen anything like it before.” Fritz said.
+
+“I know you haven't.” Ren said, smugly.
+
+“What? How would you know what I haven't seen?”
+
+“I know exactly what happened to the ore that went into this pickaxe. No dwarves were mentioned in the story.” Ren said. “I'll fill you in on the whole thing when we get into the mine to work.”
+
+“Work? You're working in the mines again?” Fritz asked.
+
+Ren nodded. “For tonight and tomorrow. Donan needs the shipment by then or we can't meet an order.”
+
+“That's why you're enchanting the carts.” Fritz said.
+
+Ren nodded again. “It makes them lighter... as well as anything you put in it.”
+
+Fritz had a skeptical look on his face.
+
+“You find out soon.” Ren said.
+
+“And you're using that new pick, are you?” Fritz asked.
+
+“Of course not.” Ren said and stepped towards Fritz. “You are.”
+
+Fritz froze as Ren knelt down on one knee and handed Fritz the pickaxe, handle first. “I made a promise to make you a pick you'd be proud to own. I wanted to keep that promise.”
+
+“Ren... this... no... you...” Fritz stammered and slowly reached out to touch the handle. “...you should keep.”
+
+Ren shook his head. “Nope. When I found this ore I had no idea what to do with it; but after I had it all and smelted it, the first thing I made was this. For you. I made something else for myself with what was left.”
+
+Fritz nodded and gripped the handle of the pickaxe. A slight glow covered Fritz as his other hand gripped the pickaxe, too. Fritz marveled at the magnificent tool he now held in his hand and tears came to his eyes. Ren thought that Fritz was probably seeing the popup for it. Ren decided to look at the one he'd gotten for it.
+
+Legendary Pickaxe Of Unearthing (Unique)
+
+An ore not of this world has been forged into a digging tool that can cut through the earth like a hot knife through butter. A highly durable cloth has been wrapped around the handle to provide a suitable grip.
+
+Innate Ability: Mana Absorption - will automatically absorb Mana from any source to repair itself.
+
+Strong Grip: 50% Bonus to hold on if handle starts to slip.
+
+Durability: N/A
+
+“Ren.” Fritz said. Ren swiped the old popup away and looked at Fritz. Ren didn't see a dirt covered dwarf in shoddy clothing and old boots anymore... Ren saw a regal figure standing before him.
+
+“Normally an act of kindness is it's own reward. If you'd given me a pickaxe of a higher quality than normal that was made by your own hand, it would have fit the promise you made. But this...” Fritz said and shook his head. “I cannot let such a gift go unrewarded.”
+
+Fritz took his right hand from the pickaxe and raised it at chest height. A bright glow engulfed the hand and a golden staff slowly formed as the glow faded.
+
+“For giving me a tool of unequal value...” Fritz touched Ren's shoulder with the staff. “...with a quality far and above that needed for a simple promise.” Fritz touched Ren's other shoulder with the staff. “I hereby declare you... Honorary Dwarf.”
+
+Ren felt heat engulf his chest and Ren opened his shirt. The medallion that Fritz had given him glowed a deep yellow color and the glow spread to cover Ren. Once it did, the medallion was absorbed into Ren's chest and the glow faded.
+
+Quest Update!
+
+You have provided Fritz with a high quality pick.
+
+Difficulty: D
+
+Reward: Kindness is it's own reward.
+
+Quest Complete!
+
+Fritz was so enamoured of the pickaxe, he cried.
+
+Difficulty: A
+
+Reward: The title of Honorary Dwarf.
+
+Notice!
+
+You have gained the title of Honorary Dwarf and all that it entails.
+
+Notice!
+
+Your title of Honorary Dwarf has given you access to new skills and abilities.
+
+Dwarf Presence, Strong and Wise, Rock Steady, Darkvision, Hardy, and Appraisal.
+
+Stat Change!
+
+Strong and Wise grants you extra bonuses.
+
+Wisdom: +10
+
+Strength: +10
+
+Stat Change!
+
+Vision of Impurity Level 5 (Beginner 0%) (Passive)
+
+Mining Level 2 (Intermediate 0%)
+
+Metal Detection Level 1 (Intermediate 0%) (Passive)
+
+Ren stared at all the popups. “F-F-Fritz!”
+
+“This is not a title to be taken lightly.” Fritz said. “You may stand.”
+
+Ren stood up and swiped the popups away.
+
+“Only once in a generation is this title allowed to be granted.” Fritz said in a stern voice. “No one has earned it until now.”
+
+“But... Fritz!” Ren said. “Who... who are you?”
+
+Fritz smiled. “You will report to Dornrach in 1 month for training.”
+
+“What? Training?” Ren asked.
+
+Fritz nodded. “You're unskilled.” Fritz poked Ren hard enough to push him over, but Ren didn't move.
+
+“I've got plenty of skil-”
+
+Fritz swung his staff quick as a flash and whacked Ren on the side of the head. Ren didn't move, however.
+
+“Ow!” Ren said and rubbed the spot. Fritz had taken 5% of Ren's health with that hit.
+
+Fritz smiled. “You didn't even flinch. Good. You'll learn.” Fritz turned around. “You'll make a good dwarf, Ren.” Fritz said as the staff he held vanished in a ball of light. Fritz chuckled and then left.
+
+Ren stopped rubbing his head and wondered why he didn't fall over when Fritz had hit him so hard. Ren would have to look at those skills when he had a chance. Ren walked out of that tent and hollered to Fritz.
+
+“Hold on, Fritz. I'll come with you in a minute.”
+
+Fritz stopped walking towards the mine carts and crossed his arms. The large pickaxe fit perfectly in the crook of Fritz' arm. Ren smiled, went into the med tent, and sat down on the nearest cot.
+
+“Ready to be patched up, are you?” Mourn said.
+
+Ren nodded and the healer walked over to kneel beside the cot. Mourn raised his hands and they glowed. Ren felt a little better as his Health Bar filled up completely and then the Mana Pool started to fill.
+
+“Mourn, what's your last name?” Ren asked, just to pass the time.
+
+“Ingwood. It's a family name.” Mourn said and sighed. “I don't want to hear any jokes about me, either. I've already heard them all.”
+
+Ren looked at Mourn. “That's good, because I don't know any healer jokes.”
+
+Mourn's eyes widened. He's completely serious about healer jokes. Mourn thought and smiled. Kids these days.
+
+Mourn's face turned into a frown as Ren's body absorbed more and more of his Mana. Mourn's hands stopped glowing and looked at Ren.
+
+“What's wrong with you?” Mourn asked.
+
+“Huh? Oh, nothing. You can keep going, though. I can take a lot.” Ren said.
+
+Mourn's frown deepened.
+
+“I'm an Adventurer.” Ren said and Mourn shrugged and activated his Major Healing ability. Ren didn't like using that phrase, but sometimes it helped that Ren didn't have to explain some things. Mana Pool was something that Ren wanted to keep a secret. The Mana Pool filled up quickly and once it was done, Mourn dropped his hands.
+
+“You're right, you did need a lot.” Mourn said.
+
+Ren nodded. “Thanks a lot, Mourn.” Ren said and left the med tent. Fritz had stood there and waited until Ren approached.
+
+“Did I hurt you that badly?” Fritz said and shook his head in sadness.
+
+Ren grinned. “Ha! That love tap?” Ren laughed and slapped Fritz on the shoulder. “I was just getting my Mana refilled.” Fritz grunted and they walked over to the mining carts.
+
+Teepo! I'm going into the mine.
+
+“I'm in the cafeteria. I can't make it there in time, so summon me back.” Teepo said.
+
+“Summon Teepo!” Ren whispered and tapped the ring. Teepo appeared at his feet and Ren picked him up. Ren looked at the other rings on his hands and realized that he felt lighter than normal. Aw, crap. Ren thought.
+
+“What is it?” Teepo asked.
+
+I haven't felt the extra burden from the rings since I got the Honorary Dwarf title.
+
+“Is that bad?” Teepo said.
+
+Ren sighed. It means I can't make myself heavier to gain strength.
+
+Ren waved Fritz forward when they reached the mining carts and Fritz braced to push the cart like he normally did and the cart jumped forward and nearly got away from him. Fritz looked back at Ren who pushed a cart himself.
+
+“I told you they'd be a little lighter.” Ren followed Fritz into the mine and as they walked, Ren decided to look at his new abilities.
+
+“Show Honorary Dwarf Info.”
+
+Honorary Dwarf Skills and Abilities
+
+Dwarf Presence: Dwarves will recognize you as one of their own.
+
+Warning: You may need to grow a beard of some kind so Dwarves will not distrust you immediately. Dwarves who shave their beards off are considered 'a little crazy' in normal Dwarf society.
+
+Strong and Wise: (Strong) Strength +10, (Wise) Wisdom +10
+
+Rock Steady: You suffer no penalties from wearing any type of armor. You will always move at the same speed no matter what and are not impeded by any moderate obstruction. Chest deep water, foot deep mud, dense foliage, etc. are no longer considered obstacles. You are also difficult to knock over or trip while you have both feet on the ground.
+
+Darkvision: Normally, this would grant clear vision for a limited area at night, but due to your already augmented Elfling vision, you can now see clearly at night (even in pitch blackness) as if it were daytime.
+
+Hardy Level 1 (Beginner 0%) (Passive): You have gained some resistance to poison, foreign spells, and foreign spell-like abilities.
+
+Higher levels will allow resistance to more powerful poisons, spells, and spell-like abilities.
+
+Appraisal Level 1 (Beginner 0%): This skill allows you to determine the worth of non-magical goods and if they contain precious metals and real gems.
+
+Higher levels will allow easier appraisals of any goods, precious metals, gemstones, and magic items.
+
+Ren read it all and swiped the popup away. Rock Steady was definitely going to mess up my training idea.
+
+“You'll figure something out Ren... you always do.” Teepo said.
+
+Thanks, Teepo.
+
+Ren followed Fritz into a different area of the mine. As they walked on, they saw several miners pass by and heard them talking.
+
+“Hey, is your cart full?”
+
+“Yeah, so is yours.”
+
+“Mine, too... but... it's not as heavy as it should be.”
+
+“Same here.”
+
+“Should we fill them more?”
+
+One man laughed. “How? They're already full.”
+
+“Just go dump them and get back in here.” A mine foreman said. “If they're easier to push, push faster.”
+
+Ren chuckled. They knew the carts were lighter but didn't make the leap to the contents being lighter, too. Fritz stopped pushing his cart, moved close to the wall, and glanced at Ren.
+
+“It's pretty far in.” Ren said and Fritz nodded. “You won't have to worry about that now, though.” Ren said and grinned. “You don't know how tempted I was to try and use that thing myself after I made it... and in town, no less...” Ren laughed. “I'm glad I didn't, though. Now I get to see what a real master digger can do with it.”
+
+Fritz nodded and looked at the wall. Fritz hefted the pick a few times to get the weight settled in his hand, then tried to spin it. It didn't spin in Fritz' hand at all. Fritz looked back at Ren who laughed again.
+
+“You saw the description, right?” Ren said and Fritz nodded. “You're not letting that thing go unless you want to.”
+
+“I don't want to.” Fritz said, grinned, and swiped at the mine tunnel's wall. The pickaxe was true to it's description and cut through the earth like it was butter. Fritz started to chuckle and took another swipe. Fritz' chuckle turned to outright laughter as he kept swinging and the dirt fell away. Only a moment later and Fritz was already 10 feet into the rock. Fritz' laughter echoed out through the mine tunnel and out into the main area. All the workers stopped when they heard the maniacal sound Fritz had produced. After a minute they continued working; but the usual quiet was broken by conversation about how no one had ever heard Fritz laugh before, and about how scary it was.
+
+Ren laughed and Teepo hopped off and followed Fritz. Make sure he's not having too much fun, Teepo. Ren thought jokingly at Teepo. Teepo chittered in laughter and disappeared down the tunnel Fritz was digging.
+
+Ren hollered up the tunnel that he and Fritz had come down. “We're going to need someone to shovel down here, fast.” Ren took out a normal pickaxe, moved down the tunnel a little, found a good spot, and started digging himself. Another cart was pushed down the tunnel and a man shoveled the dirt Fritz was leaving behind into it.
+
+Ren looked at the normal pick he had. “Ha, why not?” Ren enchanted it with the quadruple Dark rune to increase gravity's pull on it, then took off the rings he still wore, and kept working. Ren would have to think of something else to do with them. In the meantime, Ren had a lot of ore to gather for Donan. Then Ren froze.
+
+The healer! Ren thought. Mourn. Ingwood. Morning Wood!
+
+“Bwahahaha!” Ren's laughter joined Fritz' as it echoed throughout the mine and Ren kept digging.

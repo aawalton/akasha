@@ -1,0 +1,289 @@
+---
+id: 4cab9fc6-46e9-57f7-875a-365e12132f76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 244 - Stella Says Play"
+slug: 0233-chapter-244-stella-says-play
+partOf: mythrans-master-of-all-continued-completed
+position: 233
+ownLength: 3605
+unit: words
+publishedAt: 2017-05-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133982/chapter-244-stella-says-play"
+royalRoadId: "133982"
+---
+
+“It might have something to do with your anatomy, too.” Stella said, and Ren's face flushed a little red when she said that. “Ooo, so it is true.” She said. “Elise got to see it.”
+
+“Ah... among other things.”
+
+“You little devil!” Stella said and grinned. “How far did you get?”
+
+“Stella, I can't tell you that!”
+
+“Why not?” She asked. “Hold that thought.” She said, and went into his room to get a new set of pajamas. She picked the green set today, and brought it back to the bathroom. “You know what I believe about that.”
+
+Ren opened his mouth to protest, but she was right. He did know that she saw it as a normal body function, and while she helped him finish getting dressed, he told her how far he and Elise had gotten.
+
+“Oh, you poor thing!” Stella said, and pat the place between his legs. “I know you're hungry, but you'll have to wait.”
+
+Ren laughed and shook his head. “What did I say about keeping your hands to yourself?”
+
+“You said I might want to.” Stella grinned. “I help you change clothes several times a day when I'm here.” She said. “How many times have I touched it already today?”
+
+“Good point.” Ren said. They tossed the wet towels in the clothes hamper, and went back into the room. Ren climbed up into the bed, and adjusted the back so he could stay sitting up without much effort.
+
+“We've got a few hours to kill.” Stella said. “What do you feel like doing?”
+
+“My mind just splashed into the gutter.” Ren said, and she laughed.
+
+“I'll throw you a life preserver.” Stella said, and moved the rollaway table over. “Check your emails and messages.”
+
+“Hey, that's a great idea!” Ren said. “Thanks.”
+
+Stella put his room back into order while he opened his email program and deleted the spam emails. Clearing spam was always an ongoing process, because they kept changing their sending protocols and slipped spam into normal emails. Ren found a message from Sid Tec, and opened the response to his inquiry about the Trouble recipe, and sighed.
+
+“What is it?” Stella asked.
+
+“I sent an email to the tech guys at Sid Tec about my Trouble recipe.” Ren said. “I wanted to see what they could do about stopping it from messing everything up for me.”
+
+“I assume they said it was out of their hands?”
+
+“Worse.” Ren said, and looked at the message. “They said, and I quote, 'it is an inherent game mechanic that is story driven, and cannot be altered or removed because it is a slight inconvenience for a single player'.”
+
+“Slight inconvenience!” Stella exclaimed. “They are such dicks!”
+
+That made Ren laugh, and she put away some freshly laundered clothes. He opened an email from Elise next, and it had the details for the meeting at the studio.
+
+“Stella, want to check this out?” Ren asked her and showed her the email. “We should probably write this out, just so we have it.”
+
+“Way ahead of you.” Stella said and took out a notepad. Ren read out the details and contact information, and kept reading the text underneath with the receptionist's name and things... then stopped when the email changed abruptly and Elise started to describe what kind of underwear she was wearing today. Ren was a bit embarrassed that he'd read a personal part of the email out loud; but Stella pat his shoulder and put the notepad away.
+
+“If it makes you feel any better, I'm only wearing plain white today.” Stella said, unzipped her top, and pulled one side of it open. Ren saw it really was just a basic white cloth bra, with no bells or whistles. On the one hand, it provided good support for her, and it was all functionality. On the other hand, it was her bra, and Stella was clearly showing Ren one full half of her cleavage. His body reacted accordingly, and Stella saw his bulge grow.
+
+“You're turned on just from this?” Stella asked, and pulled the other side open to show Ren her whole bra. It excited him to have her do that without any prompting, and she did it so nonchalantly that it had been both a surprise and a delight. She saw that he was standing at attention by this point, and smiled.
+
+“From what you just told me, I know you're doing well in the sex department.” Stella said. “So, is it that my top is open? Or that I'm showing my bra? Or is it the breasts themselves that has you all excited?”
+
+“Um... all three.” Ren said, his face still a little red. “The fact you would open your top just so I wouldn't be embarrassed because I talked about Elise's underwear by mistake. You showed me your bra to prove that it's okay to talk about stuff like that; and...” He stopped talking.
+
+“And what?” Stella asked, and knew what he was going to say.
+
+“...and you know... I... I really like your breasts.” Ren said, and his face flushed red again.
+
+Stella smiled, picked up a chair, and walked over to the door to his room. She slid the chair under the door handle and angled it slightly to stop the door from opening. She came back to the bed and asked him to move over slightly.
+
+“What for?”
+
+“Just scoot over.” Stella said, and he slid over a little. She reclined the bed a little, climbed onto it and sat down beside him, then leaned back. Her top was still open, and he couldn't help but look. “Go ahead.” She said. “You can play with them.”
+
+Ren looked at her face. “But...”
+
+“If you're worried about Elise, she knows all about me.”
+
+“Wh-what?”
+
+“We talked a lot while you were unconscious.” Stella said. “We had to do something while we were here for all that time, and waited for you to wake up.”
+
+“No way.”
+
+“Yes, way.” Stella said. “She knows how I feel about things like this.” She smiled. “Who do you think put her up to making those kinds of advances on you?”
+
+“You're kidding!”
+
+Stella laughed. “No, I'm not.” She said. “Elise had to learn how to not hurt you if anything did happen between you.”
+
+“Oh.” Ren said. “Wow.”
+
+Stella nodded. “She was really scared that if things started to happen, she wouldn't know how to deal with it. So, I impressed upon her what to expect, what she can and can't do, and to not get overly enthusiastic when things start getting hot and heavy.”
+
+“Thank you, Stella.” Ren took her hand and held it. “Thank you so much.”
+
+“You don't have to thank me for taking care of you, Ren.” Stella said, and put the hand that held hers to her chest. “You seem to really like these things, so go ahead and enjoy yourself.”
+
+“Stella, I...”
+
+“I also know all about dwarves, Ren.” Stella said, then smiled as his hand started to move on it's own, and massaged her through the cloth. “I see how your interactions with women have changed as a direct result of your exposure to dwarf culture.”
+
+Ren slipped the hand under the bottom of the bra, and pulled it up. It popped up to her neck, and revealed it's luscious contents when her breasts spilled out of it. He kneaded and caressed the exposed flesh, and they reacted to the sensations.
+
+“You've let... let the idea of... mmm... being with multiple women...” Stella tried to keep her breath even, but it was difficult with what Ren was doing at the moment. “...has influenced... your decisions.”
+
+“You're right.” Ren said as he looked into her eyes. “It's changed how I think.” He said. “I started with the idea that there was only one girl for me, and that was it.” He pinched one of the tips, and Stella caught her breath. “Then that was wrecked when Lucy and I broke up. Then I was with Nathalia, and it started the whole ball rolling.”
+
+Stella's breasts were now fully stimulated and very sensitive. She clamped her teeth together, so she wouldn't moan as he played with them.
+
+“It took the advice of several people, and a lot of encouragement; but I started to see that there was a lot that I could offer a woman, even if I couldn't have an exclusive relationship with them.”
+
+He leaned down and kissed the warm flesh near one of the tips. Stella shivered from it, and he looked up at her face.
+
+“I do like your breasts, Stella. I like them a lot.” He said and started to suckle.
+
+“Oh!” Stella let out before she could stop herself, and doubled her efforts to not react like she was experiencing her first encounter like this. Ren kept kissing her breasts, gave both equal attention because he didn't want her to think he preferred one over the other, then slid a hand between her legs. Stella was wearing pants, so he didn't have as much room to move his hand around like he wanted to; but, she didn't complain as he massaged her there as well.
+
+Stella laid there and let Ren play, but it was difficult for her to not react to so much stimulation. She started to writhe and squirm as he worked her over, and after about 5 minutes, she undid her pants and gave him direct access. He took the hint and shifted his hand from above the cloth and slipped it inside her underwear. She moaned at the intimate touch, and he massaged her for several more minutes; then her hand joined his between her legs. She helped him adjust what to do for her, and she gasped as he caught on immediately. Ren applied the new knowledge he'd gained, and less than a minute later, she finished.
+
+“Oh, god!” Stella let out as she held his hand against herself, and she twitched and shivered. She panted heavily, and pulled both of their soaked hands out while she checked her clothing.
+
+“I'm glad I have extra clothes stashed here.” Stella said, and Ren grinned as he licked his fingers.
+
+*
+
+Gloria hopped out of the shower and dried herself off. Only one more day to wait, and I get to see the practical side of the modifications Stella wanted on these VR headsets. She thought and quickly got dressed. She had plenty of time to get to school and find a parking spot.
+
+*
+
+Ren's lawyers were having a field day with the sheer amount of suits they'd filed, and the billing hours they had racked up so far; even though it had only been a week since they started working on them. While they had divided the major suits among the senior partners, who were guaranteed a huge payday, they'd pawned the smaller cases off to the junior associates.
+
+Those cases weren't as certain, but they had the potential to make or break a lawyers career if handled properly. They jockeyed for position, and once the internal competition ended, the victors weren't greedy and took the others on as assistants. They were going to need all the help they could get; and if even just one of the suits panned out, there was enough money to ensure that everyone was happy with the results.
+
+*
+
+Stella grabbed some of her spare clothes, and they went to the bathroom to clean up. Ren washed his hands, and Stella took her pants off.
+
+“Just look at this.” She said as she pulled her underwear down then slipped them off. They were soaked. “I'm tempted to make you clean up this mess!”
+
+“I'd be glad to.” Ren said, and motioned to the toilet. “Have a seat.”
+
+“What?”
+
+Ren took her hand, led her to the toilet, and she sat down. “Lean back.”
+
+Stella leaned back and he tapped her thighs with his fingers. She spread her legs and he knelt on the floor.
+
+“Ow.” Ren said. “Just a second.” He stood up and grabbed a towel. He left it folded up, put it on the floor, and knelt on it. “There we go.”
+
+“What are you doing?” Stella asked.
+
+“Cleaning you.” Ren said. “Scoot forward a little.”
+
+Stella slid forward to the edge, and Ren used his mouth to clean her. Stella gripped the sink and the towel rack, and for the next 10 minutes, he made sure that every single spot was licked clean.
+
+“That's the outside done.” Ren said, smiled at her shocked expression, then proceeded to clean the inside, too.
+
+*
+
+Detective Ramirez and Officer Stonewall sat in the Chief of Police's office after having endured a very long and berating commentary on their skills, or lack thereof, for their little impromptu visit to Mayor Danicot's residence. It looked like the Chief was trying to start his rant over, however.
+
+“Do you know how long I was on the phone this morn-”
+
+“Yes, Chief.” Detective Ramirez said, and the Chief stopped.
+
+“What?”
+
+“I know how long you were on the phone.”
+
+“Oh.” The Chief said. “That doesn't matter! Do you realize the shit storm you've unleashed on this departme-”
+
+“Yes, Chief.” Officer Stonewall said, and interrupted the Chief's repeated rant.
+
+“What?”
+
+“We realize what we've started.” She said.
+
+“Oh.” The Chief said, his rant derailed before it could get going again, and he sat down. “I'm glad we had this talk.”
+
+“So are we, Chief.” Detective Ramirez and Officer Stonewall said at the same time.
+
+“Good!” The Chief of Police said. “Now get out of my office and stop poking things that shouldn't be poked.”
+
+The pair stood up and left the office, shut the door, and walked over to their desks. They sat down across from each other and didn't say anything. They both knew that any kind of comment from them about it, was only going to make things worse.
+
+“Do you want to go and get a coffee?” Officer Stonewall asked her partner. “I've been wanting to try that new place way out on Olive Boulevard.”
+
+Detective Ramirez was about to say that he didn't feel like trying one of the newfangled coffee combinations that they seem to come out with every day, then realized the name of the street she mentioned. It was the street that Mayor Danicot's old house was on.
+
+“You know what? I think that's a great idea.” Detective Ramirez said, stood up, and grabbed his suit coat. Officer Stonewall stood up, reminded him to take the car keys, and they left the squad room.
+
+*
+
+Stella couldn't believe that Ren was still cleaning her, and it had been nearly half an hour. He'd stop after she would orgasm, and look at it.
+
+“Aw, damn. It's dirty again.” Ren would say, and kept going. She'd lost her grip on the towel rack and sink after the first few times she went, and just ran her hands through his hair over and over, as he kept going.
+
+*
+
+Elise was swamped with work. She had let a few things slide while she took care of things for Ren, and now it was biting her on the ass. She worked furiously, and thought about Ren's trip to the studio.
+
+I really wish I could be there. Elise thought. But he was right. I am letting my work and career suffer with all the time I've been taking off. She sighed. I'll have to make it up to him. If I work through lunch, I can get all of these new accounts settled and can meet him for supper!
+
+The phone rang and she answered it with a smile.
+
+*
+
+Janice, the woman that had helped Ren set up his account at the bank, and had turned in her boss to the FBI for embezzling money, sat in the vice-president's office at the new bank. She had a huge smile on her face, because she was sitting behind the desk. When she had brought them two multi-million dollar accounts, with the potential for a third, they quickly made her the VP of accounts.
+
+*
+
+Lucy had finally gotten an interview at another hospital that was only a few minutes outside of the city. The commute wasn't that bad, and the buses ran that route 4 times a day. She sat in the seat, wore her best clothes, and hoped beyond hope that she could get away from the sinking ship that her old hospital had become.
+
+*
+
+Stella felt like she was losing her mind as they reached the hour mark, and she stared at Ren as he kept going, and it didn't look like he was going to stop anytime soon.
+
+“St... st... stop.” Stella finally managed to say.
+
+Ren looked up at her and saw that she had a dreamy expression on her face, and he assumed it was because he had made her go yet again.
+
+“I...” Stella licked her lips. “I want...”
+
+“Do you need a rest?” Ren asked her.
+
+Stella shook her head.
+
+“Do you want me to keep going?”
+
+“No.” Stella said, and sat up. Ren leaned back, and watched as she grabbed several towels and threw them on the floor, along with his bathrobe. She laid him back on the pile, and pulled down his pajamas and underwear. Much to her surprise and delight, he was full and ready. Stella almost laughed because she didn't have to waste time to get him ready for what she really wanted. She straddled him and positioned herself.
+
+“I want... this.” Stella said, and rocked her hips back. He slid in easily because of all the prep work he had done with her, and her body really needed to have him inside of her.
+
+“Oh, god!” They said at the same time as they joined together for the first time. She stared at him as her hips moved on their own, and he reached up and caressed her breasts. It wasn't long before they were both consumed by the sensations they were feeling.
+
+*
+
+Denise hopped in her car and braced herself for the hectic commute into the city. She normally didn't head out this late, but she didn't have to be at the care facility until noon, so she had a bit of time to waste before she absolutely had to be there to meet Ren and Stella.
+
+*
+
+Ren and Stella reached the point where they didn't have any thought except sharing pleasure with each other, and all that mattered to either of them, was that the other felt good, too.
+
+“I'm gonna...” Ren tried to say, and then he couldn't talk as Stella's body gripped him harder than anything he'd ever felt before. Stella looked like she was in pain as the orgasm hit her, and Ren finished with her.
+
+“Oh, my god!” Stella exclaimed as she collapsed to her hands and knees, with Ren still inside of her. She could feel him throbbing between her legs, and it made her go again. They stared at each other while their bodies finished convulsing and pleasing each other. It took a few minutes, and they both smiled at each other.
+
+“I can't move yet.” Stella said.
+
+“You shouldn't anyway.” Ren said. “If you move while your body is still holding me so tightly, I'll go again.”
+
+Stella chuckled and her breasts jiggled. He reached up and caressed them again, and Stella closed her eyes.
+
+“I can't take much more.” Stella said, and he stopped touching her. “I'm having a hard enough time holding myself up as it is.”
+
+“Sorry.”
+
+“For pete's sake, don't apologize.” Stella said. “This was an amazing experience.”
+
+“It sure was.” Ren said. “It's so amazing that it's still going on, even though we're both pretty much exhausted.”
+
+“Why are you exhausted?” Stella asked. “I did all the work!”
+
+“It takes a lot of energy to just lay here and let you have your way with me.” Ren said and grinned at her.
+
+“Quiet, you!” Stella said, then they both laughed. After a few minutes, her body relaxed enough that it was safe to move off of him, without causing him to go again and possibly make a huge mess.
+
+“I think I need another shower.” Ren said, and Stella looked at his fluid covered mid-section.
+
+“Yeah, I think we both need one after that.” Stella said.
+
+She helped Ren stand up and took off his pajamas. She removed the rest of her own clothing and they stepped into the shower together. They were both too spent to even think about playing with each other again, and cleaned each other up. With the two of them working at it, they were showered, dried off, and dressed again in only 15 minutes. Ren sat on the bed and Stella removed the chair from in front of the room's door.
+
+“What do you feel like wearing today?” Stella asked him, and he thought about it.
+
+“One of the nice blue shirts, and the loose-fitting black pants.” Ren said. “I have to look good for the viewing audience.”
+
+Stella snorted a laugh. “All right, Mr. Wiseguy.” She took out the clothes he wanted, and he started getting dressed. It was getting close to the time they had to leave, and he wanted to be ready. “You do realize they're recording your voice, not taking a picture, right?”
+
+“You never know.” Ren said, and his room door opened.
+
+“Hi.” Denise said as she came into the room. “Did you guys have fun this morning?”
+
+“Did we ever!” Ren and Stella said together.

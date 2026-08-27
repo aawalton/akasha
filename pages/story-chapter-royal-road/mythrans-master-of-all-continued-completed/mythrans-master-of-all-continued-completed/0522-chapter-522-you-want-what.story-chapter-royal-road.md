@@ -1,0 +1,155 @@
+---
+id: 43b21371-3f15-56b8-9d3d-659ba27146d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 522 - You Want What?"
+slug: 0522-chapter-522-you-want-what
+partOf: mythrans-master-of-all-continued-completed
+position: 522
+ownLength: 2272
+unit: words
+publishedAt: 2018-02-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/197112/chapter-522-you-want-what"
+royalRoadId: "197112"
+---
+
+Ren woke up an hour later, but he didn't get up out of bed. He stayed there, cuddled up with the maids, and didn't move around or bother them for another hour. When they started to stir, he didn't rush them or try to wake them up completely, just to see what they would do and say. He felt a hand touch his, and he turned his head to the right, and Frikara's face was right beside his. She was looking at him with an expression like he was an apparition and she couldn't believe that she was seeing him.
+
+Ren snaked his hand up from where it was and cupped the side of her face, then pressed his lips to hers. Frikara kissed him back and the disbelieving look on her face faded away. They made out for several minutes, and then Ren felt the others wake up completely.
+
+“I'm not planning on going anywhere today.” Ren said out loud, and he felt them relax. “I'm sorry I've been away so much.”
+
+Frikara chuckled. “You're a great Adventurer, Ren.” She said. “If the world needs you to go and save it, we don't have any right to complain.”
+
+“Yes, you do.” Ren said. “You're my Ladies in Waiting, and you can express your opinion as much as you want.”
+
+All 5 maids shivered at his words, and he chuckled.
+
+“Go ahead and say it.” Ren said, and the maids sat up and surrounded him.
+
+“We still can't believe you've given us the Lady title. We know it's invalid in it's current form, but it still puts us to the heights of dwarf society until your new House is approved.” Frikara said. “By the gods, we still can't believe you've given us a home we actually want to stay in, and have accepted us into your life like you have!”
+
+Ren could feel agreement from the other maids, so he sat up and used both of his hands to reach out and caress each of their faces. “What kind of man would I be if I treated you the way you expected?”
+
+“Throgg.” Verwynn said without pause, and he felt her embarrassment.
+
+“Hey, don't be embarrassed.” Ren said and gave her a kiss. “You were with him for a long time, and I can't expect you to not compare me to him.”
+
+“But...”
+
+“When you're with me just as long, then I'll start getting upset that you still think about him.”
+
+“I'm not!” Verwynn said adamantly. “I don't think of him at all!”
+
+Ren and the other maids winced as the lie pierced them, and Verwynn started to cry. “Verwynn...”
+
+“N-no. No, I won't...” Verwynn shook her head and started to back up. “I won't let him dictate how... no.”
+
+“Verwynn!” Ren said sharply, and it startled her.
+
+Verwynn clutched her hands together and ducked her head in a submissive pose. “Wh-what is it?” She asked meekly.
+
+“Tell me what you want.” Ren commanded.
+
+“I... I want you to conquer me.” Verwynn said, and the other maids gasped.
+
+“Verwynn.” Frikara said. “You can't expect him to...”
+
+“What does conquer mean, in this context?” Ren asked. “I know what it means when it's someone taking over lands by use of force, but...”
+
+“It means the same thing.” Frikara said, almost angrily.
+
+“Wait, what?” Ren looked from Verwynn to Frikara, then back again. Verwynn's face was a deep red, and her embarrassment was profound as it flooded the shared Aura.
+
+“She wants you to conquer her by use of force.” Frikara said, and this time she was angry and didn't try to hide it. “She'll fight and protest while it happens, and you have to overcome her efforts and have sex with her... without her consent.”
+
+“No.” Ren said and stood up. “Not only no; but, 'Hell, No'.”
+
+“R-Ren...” Verwynn whispered. “P-please...” A tear formed and rolled down her cheek. “I... I need you...”
+
+“Then I'm sorry.” Ren said and stepped off the bed and equipped his platinum armor. “Not only will I not do that to you; I hereby forbid you from ever asking another man to do it to you.”
+
+The maids gasped at him giving her an order, and more tears joined the first that Verwynn had shed.
+
+“B-but... but...” Verwynn tried to speak, but she couldn't think of a way to convince him.
+
+“I don't mind having a bit of rough sex with you, because sometimes things like that keeps it fun; but, if that isn't enough to satisfy you, then I'm sorry.” Ren said. “I won't indulge that kind of...” He shook his head. “Surprising you with sex is one thing, but...” He sighed. “No, I can't treat you like that.”
+
+“I need it!” Verwynn said much more strongly as more tears flowed, and Ren feel her deep need for it because she wasn't trying to hide it anymore. “I want you to make me yours! I want you to show me, physically, that I can never defy you, and that you can take me whenever you want!”
+
+“I can do that now by only saying a few words.” Ren said, sadly.
+
+“No, you can't, because you won't do that.” Verwynn said. “You've given us everything we've ever wanted, and I... it's taken me this long to ask... to finally ask... for what I need.”
+
+“I knew you liked to be dominated.” Frikara said. “I never imagined Throgg could have done something like this to you.”
+
+“I didn't know it was what I wanted until he showed me.” Verwynn said. “The power... the control...” She almost moaned, and her body trembled as she remembered her first time experiencing it. “It was... freeing.”
+
+The other maids shivered, too; but, it was in disgust, not pleasure. They didn't like the idea of anyone being treated like that, any more than they liked the idea of having Ren treat someone like that.
+
+“Verwynn, I can't.” Ren said. “I can do a bit of dominance play like I do for Anabelle, but I won't... I... I can't...” He shook his head. “I will not do that to you.”
+
+“Please, Ren.” Verwynn said. “I want to be completely yours, and I want to know you would do anything for me.”
+
+Ren didn't say anything in response. He left the apartment without kissing the maids goodbye like he usually did. He was too distracted over Verwynn's request that he couldn't think straight. He left the apartment and walked down the stairs, and he heard Xuunah's apartment door open and running feet. He was engulfed from behind in a pair of strong arms, and several kisses were applied to his cheek.
+
+“Ren, I'm so sorry.” Xuunah said. “I'm going to talk to her and try and find out what's wrong.”
+
+“P-please.” Ren said. “I... I can't...”
+
+“Shh.” Xuunah said and turned him around to face her. “Forget about this for a while.” She said, and lifted a glowing hand in front of him. Ren nodded and ducked his head for her, and she tapped the back of his skull. He felt woozy for a moment, then sighed and lifted his head to look at her.
+
+“Thank you.” Ren said, and gave her a quick kiss on the lips. “I've got work to do.”
+
+“Have fun.” Xuunah said, and Ren left the Main House and ran across the road to the warehouse.
+
+“Perfect timing.” Tee-one said. “I was just about to make the next delivery of items to the shop.”
+
+“Great!” Ren said. “I'll go instead.”
+
+Tee-one handed over all the things that needed to be delivered, and Ren ran out of the warehouse and over to Princess. She was more than happy to take him back to the starter city of Aurora, and Ren rode her there in only a few minutes, with Artemis flying beside them. The city's residents were barely awake, so there was no traffic for them to avoid as they went along the streets and stopped in front of the business.
+
+Ren went inside the business and saw the place had several things moved around, he assumed to make the new things be more prominent, and he went out the back of the shop and up the stairs to drop off the orders. They were all clearly marked, and Anabelle would have no problem sorting them out and delivering them later. He went up to the apartment on the third floor and went inside, and saw Anabelle was still asleep on her bed in the living room.
+
+Ren activated Sneak and opened the bedroom door, and saw Elerlyth's phantom form. He was going to get no comfort there, and then he heard Anabelle move around in the living room. He deactivated Sneak and walked over to her bed, and she looked up at him.
+
+“Ren, what...”
+
+“I haven't seen you in a while.” Ren said and smiled as he activated their shared Aura.
+
+“It's only been...” She saw the look on his face, activated their shared Aura and felt his emotions, then she lifted her blanket. “It's a little cold under this blanket.” She said. “I need someone to hold me to warm me up.”
+
+Ren took off his cloak and stored his armor, and climbed into bed with her. He stayed there for half an hour and made love to her. It wasn't rushed or frantic, because Ren had to prove to himself that Anabelle didn't need to be dominated to feel satisfied. She was satisfied, as she always was, and she felt his relief that she didn't ask him to do anything more than have sex.
+
+“I should ask what this is all about, but I don't want to push you away.” Anabelle said.
+
+Ren opened his mouth to tell her, and sighed instead. “Ask me later.”
+
+Anabelle nodded, and Ren got out of bed and equipped his clothing. He put the cloak back on and then leaned back over the bed and gave Anabelle a kiss.
+
+“I dropped off the orders on the second floor.” Ren said. “See you later.”
+
+“See you.” Anabelle said, and Ren left the apartment and ran down the stairs to the ground floor. He went out through the business and mounted the saddle on Princess' back, then took out the All-Seeing Mirror and asked to see Yllana, the elfling in the second High Elf city that he had saved. She was asleep in bed and was tucked in under the covers deep asleep.
+
+Ren rode Princess back to his county and stopped at the various spots along the wall of the next county to check in with the Skeleton Knights on watch there. They hadn't noticed anything out of the ordinary, so Ren went back to the Main House and dropped Princess off at her place. He and Artemis went across the road and went back into the warehouse.
+
+Once inside, he told Tee-one, Symmetra, and Ruck about the fun house idea, and they went down the road and quickly built the outside of the house and left the inside to be completed by the pixies. The pixies were up and moving around, and several of them had watched and commented about the fun house's design. Ren made the changes they asked for, mainly because he wanted them to enjoy working for him and to make the most out of their situation.
+
+Ren, Symmetra, Tee-one and Ruck filled the 100 foot wide by 600 foot long section with the fun house, and that left a 600 foot by 600 foot section for the obstacle course. Ren told the pixies some of the obstacle courses he had gone through, their layout and design, and then told the pixies to do what they wanted with the information they had.
+
+Of course, with their magic and abilities, the pixies could continuously change the obstacle course so it would never be quite the same each time someone went through it. Giving it a rigid structure wasn't the best course of action, assuming that was the case. The pixies told him it was, and that they always changed everything once it was gone though, and Ren made sure that was on the sign out front, as well as the cost for going through it. Ren and his familiars went back to the warehouse and thought about what it was they wanted to do next.
+
+“Well, we could beef up the county's security some more.” Tee-one suggested.
+
+“Are you thinking what I'm thinking?” Ren asked and smiled.
+
+“If you're thinking making all the animated soldier statues quadruple in size, then yes.”
+
+Ren chuckled and made three more Permanent Enlarge and Reduce Anything wands and gave one to Tee-one, Symmetra, and Ruck.
+
+“You all know what to do.” Ren said, and each of them went to a different wall that surrounded the county and started to move along them. They used 2 spells on each of the animated soldiers to make them go from 6 feet to 12 feet, then to 24 feet.
+
+“No one in their right mind is going to mess with us.” Ren said and smiled, then had the bright idea to increase the size of the Skeleton Knights as well. Since they still wore their generic male illusions, he now had 10 generic male giants that stood guard over his county; and they also had giant-sized Spell Ballistas to fire when necessary.
+
+If Ren had been the next door neighbour, he wouldn't even think of attacking a human county with giant protectors. He didn't realize that most people weren't as smart as him, nor did they have the same motivations.
+
+Ren was about to discover that fact.

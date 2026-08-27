@@ -1,0 +1,245 @@
+---
+id: 1579a7a6-0925-5126-b7d9-9cf0895cec69
+page-type-slug: story-chapter-royal-road
+title: "Chapter 604 - Diana Dazzled"
+slug: 0604-chapter-604-diana-dazzled
+partOf: mythrans-master-of-all-continued-completed
+position: 604
+ownLength: 3123
+unit: words
+publishedAt: 2018-06-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/222906/chapter-604-diana-dazzled"
+royalRoadId: "222906"
+---
+
+Diana watched in amazement as Ren stood up and took out a couple of tables and then set upon them rings, bracelets, necklaces, non-necklaces, bracers, gloves, boots, weapons, and various enchanted items unlike anything she had seen before. Her room was practically covered in them when he was done, and then she gasped when he took out the prettiest and deadliest armor she had ever seen.
+
+“Now this isn't as powerful as my own armor, since mine is a unique item and I'm not allowed to duplicate it.” Ren said. “It's pretty close, though.” He moved it and she saw the extreme range of motion the armor allowed, which included twisting with you when you turned your body at the waist. “It's mobility is unmatched, except by other armor like it, and it's enchanted with various things to help protect you from harm.”
+
+Diana couldn't believe what she was seeing. “You made that... for me.” She said and stared at the light blue armor, and saw his nod in the corner of her eye.
+
+“I've only made a couple of sets like it, so it's pretty exclusive.” Ren said and took out a crate and set the armor inside. “So, what do you think? Do you want to trade?”
+
+“Trade?” Diana asked and stood up. Her gaze scanned the room at all the stuff she could see and had identified, and she shook her head as she walked over to the armor. “Ren, I don't think I could ever find enough items to trade for even one of these items.”
+
+“Do you have the image recording device?” Ren asked.
+
+Diana took the small thing out of her Strong Ring of Storage and handed it to him. It was a square block with 2 push buttons on one side and a small round opening on the side next to it.
+
+“Wow, that's all it is?” Ren asked. “I thought it would be huge.” He smiled and examined it.
+
+Notice!
+
+You have acquired the plans for the Image Recording Device. It works just like a camera, and you can take pictures and video with it. It only has a limited amount of space inside, but it can be used in conjunction with various spells (Ghost Image, Magic Mouth, Illusion, Full Illusion, etc.) to reproduce it's contents.
+
+You only need to hold the Image Recording Device when you cast the spell, and you will be prompted to choose what image or video to use.
+
+“Okay, that's cool.” Ren said.
+
+“You know how to use it already?” Diana asked and he felt her disappointment. “It took the meeting recorder half an hour to explain it to me.”
+
+“Oh, I'm sorry.” Ren said and handed it back. “Please, explain it to me.”
+
+Diana chuckled. “You felt my disappointment.”
+
+Ren nodded. “I would have waited to get the plans if I'd realized you wanted to show me how it worked.”
+
+“That's sweet of you.” Diana said and held it out. “You don't have to humor me.”
+
+“I'm not humoring you, Diana.” Ren said and touched her hand that held the device. “I've never used it before.”
+
+Diana took in a breath and let it out, then nodded when no sweat appeared on his forehead. “All right.” She said and stepped close, and started to explain what the device did and how to use it properly. She showed him the different options, used it to take a picture of the light blue armor in the crate, then handed the device to Ren.
+
+“Can you cast Ghost Image or Illusion?” Diana asked.
+
+“I know the basic spells for all 5 levels.” Ren said and held up the camera, then cast Illusion 10 feet away. A flat picture appeared that looked just like the armor. He walked over to it and it looked like it reproduced the armor and crate exactly. Diana walked over to it and then around it, and Ren couldn't see her anymore.
+
+“It's the same on this side, too.” Diana said and Ren walked around it to join her on the other side.
+
+“Well, look at that.” Ren said. “It's even facing the right way.”
+
+With the flat image, no matter what side you were on, you saw the same image and not the reverse as Ren thought would be the case. He cleared the memory of the device, dismissed the spell, and looked at Diana.
+
+“May I take your picture?” Ren asked her, and she nodded right away. She stepped back and struck a classic demure pose that was suitable for a princess, and he laughed.
+
+“What?”
+
+“Never mind.” Ren said and clicked the button.
+
+“Okay, let me see it.” Diana said.
+
+“In just a minute.” Ren said and cast Pass Wall on the wall and stepped through, then quickly made a 2 foot wide by 3 foot high frame with a wood backing to hold a painting. He stepped back into the room and dismissed the Pass Wall spell and propped the frame up against the bed. Ren held the Image Recording Device and cast Permanent Illusion on the space in the frame and chose Diana's posed picture.
+
+Diana caught her breath at the recreation, and she reached out to run her hands over it. “Ren, this... it's permanent.”
+
+“As long as no one intentionally tries to dispel it.”
+
+“I don't know what to say.” Diana turned away from the painting and looked at all of the things in her room. “Ren, I'm kind of overwhelmed.” She admitted. “I don't know what to choose as trade.”
+
+“Don't worry about that for now.” Ren said. “Your birthday is coming up, isn't it?”
+
+Diana nodded. “You said you wanted a dance in trade for the amulet.”
+
+“I still do, but...” Ren sighed. “...with the current climate, I don't know if I can show up without causing you problems.”
+
+“You let me worry about that.” Diana said. “It's my party, and I want you there.”
+
+“I can't promise I will be, depending on what's going on.”
+
+“Just show up when you can... like today. I'll forgive you in advance.”
+
+Ren smiled. “Until then, I thought you might like an early birthday present.”
+
+Diana looked around at the various items in front of her, and she couldn't decide. “Ren, it's too much.”
+
+Ren chuckled. “No, no. I said to not worry about all of this.” He said and cast Full Illusion and everything disappeared.
+
+Diana blinked her eyes a few times and looked at him. “How did you make them disappear?”
+
+“They're all still there, just covered in an illusion.” Ren said. “I'm not really sure how that works, but it doesn't matter.”
+
+“But...”
+
+“So, would you like your present early, just in case I can't be here for the party?”
+
+“I... yes.” Diana said, and her face flushed a little red. “I'd like any gift from you, no matter how small.”
+
+“Turn around and look at the bed, then close your eyes.” Ren said and she did, and he took out the 2 foot wide model of the softly glowing glass castle and placed it on the bed in front of her. “Okay, open your eyes.”
+
+Diana had held her excitement in reserve because she didn't want to be disappointed with whatever Ren had made for her. If the other items in my room are any indication, I should see a golden tiara with some kind of jewel mounted on it. She thought and opened her eyes, and it took her a moment to process what she saw. When she finally realized what it was, tears came to her eyes and she put a hand over her heart. She didn't hear the click of the camera as she felt lightheaded and started to sway, and Ren caught her before she could faint.
+
+“Hey, it's okay.” Ren said.
+
+Diana took several deep breaths and calmed down, but the tears kept flowing. “Ren, how did you make such a magnificent object?”
+
+“I know an Adventurer Glassworker who stays at my county, and I've been taking lessons from her.” Ren said. “Once I drew out the design and we figured out what to do to make the parts of the castle, we made everything and I colored the glass appropriately before we assembled it.” He smiled. “Once we made one completely from scratch and put it together, I received the plans for it and knew I needed to make one for you.”
+
+“R-Ren... good lord, Ren.” Diana closed her eyes. She felt a soft piece of cloth touch her face as it dried her tears and she felt grateful that he wasn't laughing at her sentimentality.
+
+“I can feel how much this means to you, and that makes me very happy.” Ren said. “I'm really glad you like it.”
+
+Diana opened her eyes and looked at him, then the feeling of his strong arms around her registered. “I don't just like it, Ren.” She said in a slightly husky voice. “I love it.”
+
+Ren beamed a smile at her, and she took in a quick breath.
+
+“Ren... can... can you...”
+
+“I don't think I should, Diana.” Ren said as she leaned in close. “You can't be involved with someone like me.”
+
+“Someone like you...” Diana whispered with her lips right next to his, and they stared at each other. “...is all I think about.”
+
+“I...” Ren could feel her breath on his lips. “I'm in a vulnerable place emotionally right now.”
+
+“I know.” Diana said and lightly pressed her lips to his. Ren still had his Emotion Siphon ability active, so her emotions poured into him easily. She let her excitement and passion out from the place she had been holding them in reserve, and it was Ren's turn to catch his breath at their strength. Diana started to move her lips and closed her eyes, and Ren moved his lips in return and closed his eyes as well.
+
+They made out like that for several minutes, with Ren holding her steady and Diana feeding him, and Ren could feel the succubi feeding from the both of them. It was only an Aura feeding, so it wasn't as strong as a touch feeding; but, they were still getting a lot from it and he felt their satisfaction.
+
+Diana broke the kiss and opened her eyes. “We... really should stop.”
+
+Ren opened his eyes and looked at her. “I agree with the opinion of her Royal Highness, Princess Diana.”
+
+Diana smiled as she turned in his arms and wrapped her own arms around his neck. She didn't mind at all that he was shorter than her, and she leaned in and kissed him again. Ren's Aura covered the majority of the castle, so he felt it when several people gathered together at the end of the hallway and moved intently towards Diana's room, and he broke the kiss.
+
+“Diana, there's...”
+
+“Shh.” Diana said to cut him off and kissed him again.
+
+Ren waited for a moment, then broke the kiss and tried again. “Someone's coming.”
+
+“Let them.” Diana said. She grabbed his hand and placed it on her small chest, and she made herself gasp at the touch of his hand through the thin fabric of her top. “Oh, god!”
+
+The door to Diana's bedroom burst open and a mean-looking castle guard stood there with several others directly behind him. He had heard her shout and misinterpreted the situation.
+
+“Get your unclean hands off of the Royal Princess!” The man exclaimed and pointed his sword at Ren, and Ren saw the other guards draw their swords as well.
+
+“Samuel! Get out of my room!” Diana exclaimed right back, and didn't let Ren's hand go. “I didn't call for you!”
+
+“Daiel felt his presence, and we came right away.” Samuel said and looked at Ren. “I said unhand her, you cad! You sully her pureness!”
+
+“I don't want to hurt her feelings by pulling away.” Ren said in his defence. “She's a grown woman and can make her own decisions.” He said. “Plus, I'm quite enjoying the feeling of her breast in my hand.”
+
+Samuel's mouth dropped open in shock that he would say such a thing. He said it right in front of the Princess, too!
+
+Diana stared at Ren because of his admission, and she didn't see any sweat on his forehead. He really likes touching me. She thought, then happiness and pleasure flooded though her... and into Ren.
+
+Whoa. Ren thought as he felt the tip of her breast poke his palm, and his body reacted to her reaction. Diana noticed the change in Ren's expression and glanced down... then moved her gaze right back up to his face. Her eyes were wide and her face turned red as Ren smiled warmly at her.
+
+“R-Ren...”
+
+“It seems you and I have some chemistry between us.” Ren said, and she looked at him oddly. “It's Adventurer speak for us being physically compatible.”
+
+“Oh!” Diana said, then her face went deep red as she realized what that meant.
+
+“Princess, let his hand go.” Samuel said. “He doesn't deserve to touch you like that.”
+
+“You don't know what you're talking about.” Diana said and turned her head to look at the mean guard. “Just because I can't return your feelings, doesn't mean you can dictate who I can have feelings for.”
+
+“Diana, please...” Samuel said softly, but he still wore the mean face.
+
+“It's not really appropriate for a guard to express feelings for the person he's guarding.” Ren said. “Even if the emotions are true and deep seeded, they should never compromise their duty... unless they are transferred to guard someone else, quit, or the person they guard expresses similar feelings first.”
+
+Diana nodded her head as her blush faded and she squeezed Ren's hand, then she took in a sharp breath because his hand was on her breast and it squeezed that as well. The rest of her body started to warm up and react to the intimate touch, and Ren felt her emotions. She wanted the guards gone so that she didn't have any witnesses if something else happened between them.
+
+“Princess Diana, if I may have my hand back, perhaps...” Ren started to say.
+
+“No, this is all that's stopping them from attacking you.” Diana said, confidently.
+
+“You are using your breast to protect me.” Ren said a bit surprised, and she nodded. He let the thought of her using her body to keep him safe fill him, then he took in a long deep breath and let it out. He cast Iron Wall in front of the doorway and blocked off the guards, who immediately started to shout and holler as they banged on the metal with their weapons.
+
+“What just...” Diana looked at Ren. “You can cast walls?”
+
+“I know a few wall spells.” Ren said. “Diana, thank you.”
+
+“For what?”
+
+Ren wiggled the fingers of the hand holding her breast and her face flushed red again. “For using your mind and body to protect me.”
+
+Diana took in a breath, which pushed her breast harder into his hand. “I apparently did it for nothing.”
+
+“No, you didn't.” Ren said. “You did it for me, and I appreciate it more than you can imagine.”
+
+Diana chuckled. “You? Someone so powerful that you could smash this castle to pieces as if it was that glass model?”
+
+Ren glanced at her breast, and she took the hint and let his hand go. Instead of removing that hand, Ren put his other hand on her other breast. Diana shivered at finally being touched like that by him, and Ren gave her a little massage when he didn't feel denial in her emotions and she didn't protest verbally.
+
+“Diana, I appreciate it when someone takes it upon themselves to protect me, no matter what the circumstances and what condition I'm in.” Ren said, and gave her one last squeeze before he let her go.
+
+Diana closed her eyes and cupped her own breasts to try and keep the sensation of his hands on her. “R-Ren...”
+
+“I think it's best I leave, before things get... out of hand.” Ren smiled as she blushed. “Thank you for seeing me today.”
+
+Diana opened her eyes to look at him longingly. “Any... any time you want to...”
+
+Ren smiled and cupped the sides of her face this time and gave her a chaste kiss. “Happy Birthday, Diana.”
+
+“Th-thank you.” Diana responded.
+
+Ren let her face go and walked over to the wall.
+
+“W-wait!” Diana exclaimed, and he stopped and turned back to her. “What about all your things?” She asked and motioned to the items covered by the Full Illusion spell.
+
+“Well, since you can only choose one thing to trade for the device... why not trade me for the one collection of things I made for you?” Ren asked, then cast the Pass Wall spell and stepped out of the room through the wall. Diana watched him until the wall reappeared between them, then the banging on the Iron Wall in front of the soldiers stopped because it had disappeared.
+
+“Where did he go?” Samuel asked as he ran into the room, hit one of the hidden tables, and bounced off. “What... what is this?” He asked and put a hand out and touched the invisible table.
+
+“You are touching my things.” Diana said in a tone of voice that let you know she knew she was entitled to have you listen to her.
+
+Samuel quickly moved back and stopped touching the table. “P-Princess! I'm sorry!”
+
+“You will be if you don't leave my room right now.”
+
+“I... we... we were just...”
+
+“...driving away someone I wanted to visit with.” Diana said, and let her anger show on her face. “Do you know how long I've waited for him to see me?”
+
+“N-no, Your Highness.” Samuel said. “But... but he...”
+
+“...probably would have stayed longer without your interference.” Diana finished for him. “Now get out.”
+
+“But...”
+
+“If you think it will make a difference, you might be able to catch him... if you hurry out the servant's entrance at the back of the castle.”
+
+“Y-yes! Yes, we'll do that!” Samuel said, extremely happy for a reason to leave. He and the other guards left in such a hurry that they didn't even close her bedroom door.
+
+Diana walked over to the door and shut it, then turned around and leaned against it. Before her eyes, the Full Illusion spell faded and revealed all of the things Ren had left there for her. She glanced at the window that looked out the back of the castle, and saw Ren give her a little wave. She smiled warmly at him and waved back, then he was gone.

@@ -1,0 +1,261 @@
+---
+id: d8305d91-89e7-5fb9-bb1d-f4453080953b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 546 - Another Slight Complication"
+slug: 0546-chapter-546-another-slight-complication
+partOf: mythrans-master-of-all-continued-completed
+position: 546
+ownLength: 2893
+unit: words
+publishedAt: 2018-04-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205743/chapter-546-another-slight-complication"
+royalRoadId: "205743"
+---
+
+“And that's what happened when I had to leave you for a few minutes.” Ren said to Zetaya.
+
+“It's time to go.” Teepo said.
+
+“And now it's time for me to go.” Ren said, and stroked Zetaya's head stub one last time. “Thanks for letting me spend this time with you.”
+
+Zetaya rolled over and stood up, then gave him a hug when he stood up to leave and the fire elemental made the sound of a roaring fire.
+
+“Don't worry, I'll be careful.” Ren said and hugged Zetaya back. “I've got Xuunah and Officer Holly coming with me.”
+
+Zetaya let him out of the hug and Ren left the forge. He walked to the door and Artemis joined him as he walked across the street to the Main House.
+
+“Good morning.” Officer Holly said to them.
+
+“If you didn't go to bed at all, does it still count as a good morning?” Ren asked, and she chuckled.
+
+“It depends on what you did last night.”
+
+“I became a Light being, met Vasalor, share-bonded with Xuunah, travelled to the Light Realm twice and threatened to destroy it, then spent over 5 hours inside my giant forge talking to a fire elemental.” Ren said. He felt her utter shock and tried not to laugh. “So, yes. I guess it is a good morning.”
+
+“Are... are you serious?”
+
+“He is.” Xuunah said as she came out of the Main House. Her hair was done up in a fancy hairdo and she wore one of the more regal dresses that Ren had Tee-one make for her. It was blue in color and showed off a bit of cleavage; but, it was also long-sleeved and very conservative.
+
+“You look stunning.” Ren said.
+
+“Thank you.” Xuunah said.
+
+“You're not going to be able to move around in that thing if we have to fight.” Officer Holly said.
+
+Xuunah smiled at her and took a fighting stance, and the dress slid apart at the knees and allowed her legs full movement and still didn't reveal anything.
+
+“Okay, I'm impressed.” Officer Holly said.
+
+“Ren designed it.” Xuunah said and resumed her normal posture. “It's less restrictive than my normal clothing.”
+
+“I'm glad you like it.” Ren said. “Before we go, I need to make two quick stops. Please wait here for a minute.”
+
+“Of course.” Xuunah said. “We are your guards and will do what you wish.”
+
+Ren took her hand and smiled. “That's not entirely true.”
+
+Xuunah chuckled. “Go tell Frikara and the others you are leaving for the day.”
+
+Ren nodded and let her hand go, then ran inside the Main House and went upstairs to the apartment. He went inside and saw that the maids were still in bed, and he didn't know if they had left it at all or had just gotten back into it. He walked softly over to the bed and saw their happy faces and could feel contentment from them, so he carefully kissed each of them on the cheek in an attempt to not wake them.
+
+Ren took out 5 of the special armor bodysuits like the one he and Lara wore, hung them in front of their closets, then quietly left the apartment.
+
+“You don't think they'll be angry you left without telling them?” Teepo asked.
+
+“No, I told them last night I might not be back until morning.” Ren said and walked down the stairs. “I didn't say I would stay when I did.” He smiled. “They'll know I was there once they see what I left.”
+
+“I hope that placates them.” Teepo chittered in laughter. “Frikara can get ornery about things like that.”
+
+Ren chuckled and stepped outside. “Now to visit Railyse.”
+
+“Is she coming along?” Xuunah asked.
+
+“I believe so, but I haven't asked her yet.”
+
+Officer Holly chuckled. “You really shouldn't leave things like that until the last minute.”
+
+“I know, but I got back late last night and didn't want to wake her.” Ren said. “Depending on how grumpy she is this morning, our trip might be delayed slightly.”
+
+“Good luck.” Xuunah said.
+
+“Thanks.” Ren said, and he and Artemis went over to the 300 foot long by 300 foot wide by 100 foot deep pool that was beside the succubi roost. He didn't just jump in, since that would be the most disrespectful thing he could have done. Instead, he stuck his finger into the pool and wiggled it to churn the water slightly. Almost instantly a 6 foot tall water elemental burst out of the water less than 10 feet away.
+
+“Greetings!” Ren said in Sea Dweller's language. “May I speak to the Queen-In-Waiting?”
+
+The water elemental bubbled and gurgled, and Ren nodded.
+
+“Yes, I'll make a proper offering to her.”
+
+The elemental slid back into the water and then the water went completely still. Railyse rose up out of the water 50 feet away with the two water elementals behind her, and she started to walk over to Ren. Even though she wasn't a human and didn't really understand their customs, she swung her hips seductively as if she was trying to attract as much attention as possible. As Railyse approached, Ren's eyebrows raised up, and her smile grew until she stopped in front of him.
+
+“Good morning, Ren.”
+
+“Good morning, Railyse.” Ren said and motioned at her hips. “What's with the little show?”
+
+Railyse chuckled. “I've received council that I should start acting more like my position demands.”
+
+“Is that supposed to include driving me wild?” Ren asked, and she laughed.
+
+“Has the swaying of my hips like a boat on the ocean swayed your heart?”
+
+Ren smiled. “Hey, we can't go there, remember? I'd be hunted relentlessly and you would lose your place in line for the throne.”
+
+“I'm at the end of the line.” Railyse smiled back. “It might be worth it.”
+
+Ren shook his head. “I won't ruin a good friend's life by doing something we shouldn't do, assuming we were even compatible.”
+
+“You wouldn't even want to try?” Railyse asked softly.
+
+Ren squinted his eyes and looked at her. “What's going on?”
+
+“N-nothing.” Railyse said and turned her head slightly to the side.
+
+“Railyse.” Ren felt the lie strongly and reached out. When he touched her arm, he felt her skin was almost blisteringly hot. “What is it?”
+
+“I'm... Ren, I...”
+
+“Please, just tell me.”
+
+“I'm ready to spawn.”
+
+“Wh-what?!?” Ren exclaimed.
+
+“I... I know. I'm years... no, decades early.” Railyse said. “These last couple of months that I've been in the Human Kingdom, I've been growing more powerful.”
+
+“Because of my full feedings.”
+
+Railyse nodded. “With you giving me so much to feed on, I... my body has... matured.”
+
+“By the gods.” Ren said and let her arm go. “I can't take you to see King Alamast like this.”
+
+“Was that supposed to be today?” Railyse asked. “In my current state, it's been difficult to keep track of time.”
+
+“We need to get you back to the Water Realm right away.”
+
+“We can't go back.” Railyse said. “Not until my mother's ultimatum to the Human Kingdom is expired.”
+
+“That's not for another 2 days. Can you hold out that long?”
+
+“Of course.” Railyse said and turned to the side, and she rubbed a hand over her slightly extended belly. “I've only just entered the gestation phase.”
+
+Ren blinked his eyes. “Um... how long is this phase?”
+
+“A month, maybe more. It depends on how much I eat.” Railyse said. “I must find a mate to build me a proper nest before the phase ends.”
+
+“Will that be enough time?” Ren asked. “I mean, you've been away from the Water Realm for about 1,200 years now. Can you get to know someone well enough to sire your children? Will they accept that responsibility if they don't get to know you first?”
+
+Railyse sighed. “I don't know.”
+
+“By the gods.” Ren said. “This is...” He shook his head and then smiled warmly at her. “I want you to relax and don't stress yourself.” He looked at the water elementals. “Keep doing your jobs well. I'll have you and her back in the Water Realm in 2 days.”
+
+“Ren...”
+
+“Don't worry about a thing.” Ren said. “Will you accept my offering?”
+
+“Without question.” Railyse said and carefully knelt. “Thank you for not getting angry.”
+
+Ren cupped the sides of her face. “I would never get angry over something like this.”
+
+“But, it changes what you had planned to do.”
+
+“Only in the fact that you won't be there with me when we learn if the Human Kingdom decides to fight the ghouls or your people.” Ren said. “Instead I'll come back and tell you what they said.”
+
+“Ren, I'm sorry.”
+
+“Railyse, you don't have to apologize.”
+
+“Without me there, it won't show them that there's still a chance for them to change their minds about not accepting the peace.”
+
+“I am not going to expose you to that much danger or to that many males that are unsuitable to be around you while you're like this.” Ren said, and both water elementals gurgled at him. “No, they don't realize her importance.”
+
+“Ren, I'm not important.”
+
+Ren smiled at her and knelt, then carefully caressed her belly. “I think there's a few around that will disagree with you.”
+
+Both water elementals bubbled and gurgled, and Railyse smiled.
+
+“All right, I'll stop arguing.”
+
+“Then open wide and accept my offering.”
+
+“I still can't believe you do this for me.” Railyse said and took a deep breath, then let her head hinge back to open her mouth completely. Ren stood up and disabled his Regeneration, then cut open his wrist with his hammerpick. He poured his blood down her gullet and she drank it faster than she usually did.
+
+“You're really hungry.” Ren commented and used Major Healing on himself to refill his Health. It was so high now that he only had to do it once for her to finish eating, then he cast it again to heal the wound. He was tempted to ask her how she was doing, especially since none of the normal external signs of her powering up had occurred. There were no clouds, no rain, or even churning water.
+
+Railyse put her hands on her belly as she closed her mouth. “They took it.” She said happily.
+
+“I'm glad they liked my offering.” Ren said and knelt. “Did they leave anything for you?”
+
+Railyse chuckled. “Not one trace.”
+
+“Then please, take some for yourself.” Ren said and offered his neck.
+
+“You've already given so much.”
+
+“I promised your mother I would take care of you while you were here, and I promised you that I would give you all that you need.” Ren said. “Plus, having a beautiful woman like you sucking the lifeblood out of me is starting to be a turn on.”
+
+“You are a terrible liar.” Railyse laughed. “You only like me kissing your neck!”
+
+Ren laughed, too. “Your reactions are great, too. Your soft moans, the feel of your lips, your gentle hug and your enthusiasm are considerably sexy to me.”
+
+“Oh, no! You're using me for my body?!?” Railyse fake gasped, and that made them both laugh again.
+
+“Using is a strong word.” Ren said. “Mutually beneficial sharing without reciprocation is more appropriate.”
+
+Railyse nodded. “Yes, neither of us really enjoys what the other does, and yet we both get pleasure from it.”
+
+“Imagine the people we would be if we did enjoy what the other did?” Ren joked and tilted his head to the side and exposed his neck fully. “I'd be an insatiable blood-drinking cannibal and you would be...”
+
+“...an insatiable sex goddess.” Railyse whispered as she leaned forward and gently kissed his neck. “With that power alone I could conquer half of the world.”
+
+Railyse wrapped her arms around him to hold him steady and opened her mouth just enough to expose her piranha-like teeth, then she bit his neck. Ren felt her exaltation that he didn't flinch or complain about the pain, then he felt her pleasure as his blood flowed into her mouth. She kissed and suckled his neck to consume as much of his blood as possible, and the water of the large pool started to churn.
+
+Since Railyse had given all of his offering to her spawn, she was still quite hungry herself. Ren let her take as much as she wanted and didn't try to stop or ease how much she took. Railyse felt overjoyed that he would give her everything like this, especially to the benefit of her spawn, and she let Ren feel how much she appreciated what he always did for her.
+
+When Railyse had her fill, and a little more, she broke the lip-lock she had on his neck and saw the huge bruise there. She licked the spot and made her various teeth marks fade and heal, then licked up the small trails of blood she had left behind.
+
+“You taste so good that I've made a sloppy mess.” Railyse said and gave the spot several kisses.
+
+Ren chuckled and started his Regeneration again. “I can just equip...”
+
+“No, I'll get it all.” Railyse said and tapped his special armor bodysuit. Ren stored it and left himself in just his underwear, and Railyse used her tongue to lick up the small trails of blood that had escaped her and rolled down his chest. It did nothing at all for her, except give her more traces of blood; but, she knew Ren would like it and she wanted to thank him for the meal.
+
+Ren thoroughly enjoyed the cleaning she gave him, and when she was done, he was quite excited and raring to go. “Th-thank you very much.” He said and stood up quickly, and Railyse saw his body's reaction up close.
+
+“So, you enjoyed it?” Railyse asked and looked up at him, and he nodded. “I'm so glad that worked.” She said. “You are always pleasing me, and yet the only enjoyment you ever have is pleasing me.”
+
+“Railyse, I...”
+
+“Yes, I know we can't.” Railyse said and stood up, then took him into a hug. “I just wanted you to know that I appreciate everything you do for me.” She said and kissed him on the lips without giving him a blessing. “If you were a Water being, I would pledge to cut off the entire surface world from the oceans for the chance to let you fertilize my very first clutch of eggs.”
+
+Ren's mouth dropped open in surprise at her admission, and the two 6 foot tall water elementals that were her guards dashed forward to surround them. They bubbled and gurgled furiously at her, and the water under her translucent skin swirled faster and faster. After a few moments, Ren felt Railyse's emotions shift to annoyance.
+
+“Enough!” Railyse said and a ripple of power came out of her. It hit the two water elementals and pushed them back almost 10 feet. “You will not question me or my decisions in public! If I want to fantasize about having something like that happen, then I will! It is just a fantasy! It can never happen!”
+
+Ren hadn't moved at all because he had both feet firmly planted on the ground, and Railyse still held him. “Um... that's... not entirely accurate.”
+
+Railyse stopped talking and looked back at Ren with wide eyes. “What? Which part?”
+
+“The never happen part.” Ren said. “I have a polymorph helm.”
+
+“Yes, and you can only change into what you add to it when it is created.” Railyse said, then she thought about it. “I know you didn't have any Water being or Water elemental parts to add to it.”
+
+“I didn't have to.” Ren said. “I haven't told you this story yet, so here goes. I became a Light being earlier today.”
+
+“You WHAT?!?” Railyse let him out of the hug and stepped back. “How?”
+
+“I added a piece of myself to the helm.” Ren said. “Since my Light affinity was maxed and I had a bond with a Light being...”
+
+“...you concentrated on that part of yourself and changed into it.” Railyse said. “By my mother's trident, Ren! Did you kill yourself?”
+
+“Thankfully, no. The form is highly unstable though, and it can't be held for more than a minute or two before I have to change back. Vasalor helped me when it happened and told me that I could change into other physical forms easily.”
+
+Railyse paced back and forth in front of him. “So, you can become a Light being because your affinity is maxed?”
+
+“I think it's my Hands of the Gods ability, actually.” Ren said. “It lets me access the element in it's purest form.”
+
+Railyse stopped pacing and walked back over to him. “What other Hands of the Gods abilities do you have?”
+
+“Burning Hands, where I can create Fire. Rocky Hands that let me create Earth, and it also has Green Thumb for growing things. Restoring Hands, which is the Light version. It restores Health, Stamina, and Mana while giving off good feelings. Lastly is Refreshing Hands, which lets me create thirst-quenching Water.”
+
+Railyse didn't say anything and just stared at him as she thought about the implications of Ren's words. Especially the last sentence and what that would mean for her.

@@ -1,0 +1,417 @@
+---
+id: 5a5600e0-8dea-5977-b368-b93471a364fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 273 - Mixing Business and Pleasure"
+slug: 0263-chapter-273-mixing-business-and-pleasure
+partOf: mythrans-master-of-all-continued-completed
+position: 263
+ownLength: 4315
+unit: words
+publishedAt: 2017-06-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140481/chapter-273-mixing-business-and-pleasure"
+royalRoadId: "140481"
+---
+
+Since it was Saturday morning, Detective John Ramirez was heading out to his sister's place for his niece's birthday party. He'd offered to take his partner, Officer Holly Stonewall along; so, he picked her up just like he said he would. He showed up at her place at the normal time, as if he was picking her up for work; the only difference was, he got out of the car and went over to her door instead of waiting for her to come out. He knocked on the door, and she opened it right away; almost as if she was waiting for him to do it. Even though they'd been partners for about 2 years, this was the first time he'd seen her in a pair of jeans and a scoop neck top.
+
+Where the hell has she been hiding them? John thought, when he got an eye full of her cleavage. Her 38 inch chest was quite substantial, and the top showed them off to full effect despite her not wearing a push-up bra. Some detective I am! He thought in amusement.
+
+“You better offer to take this, before I shoot you.” Holly said and pointed to her large bag of luggage. John laughed and picked it up easily.
+
+“Ready to go?” John asked.
+
+“Almost.” Holly said, reached behind the door for her purse and keys. She motioned for him to step back, and he took two steps away to wait. She shut the door after she stepped outside, and turned to lock the deadbolt and handle. John couldn't help himself and looked at her backside. He didn't know if she was intentionally sticking it out for him to look at, or if she didn't realize that she was offering it up for him to stare at. At the moment, he honestly didn't care, because it was a great view.
+
+Damn, that's even cuter than I thought it was. John thought, and smiled. She's been hiding a lot of things in that uniform.
+
+Holly turned around and saw his smile, and knew exactly what he'd been thinking.
+
+“Well, don't just stand there.” Holly said. “Get that bag into the trunk so we can leave.”
+
+“Yes, ma'am.” John said, and walked over to the car.
+
+He was totally checking out my ass. Holly thought in amusement. After his 'cute butt' comment when we found that hidden room, I just had to wear these so I could tease him about it. She smiled as she walked to the car.
+
+John went to the car's passenger door and opened it for her. Holly's eyes widened for a moment in surprise, then she got into the car without a word. John shut the door, walked around to the back of the car to put her bag into the trunk, and got in the driver's side. He started it up and pulled away from the curb.
+
+“I hope you like 80's hairbands.” John said, and hit the button on the stereo. “For long drives, it's the best traveling music.”
+
+“As long as there's lots of Motley Crue, I'll be happy.” Holly said.
+
+“You're gonna be ecstatic, then.” John said as 'Kickstart My Heart' started. “They're my favorite band.”
+
+“You're kidding!” Holly said. “We've known each other for 2 years, and this is the first time you've said that around me.”
+
+John chuckled. “I usually reserve it for long drives, or if I'm off for the day and want to relax.”
+
+“Me, too.” Holly said. “Not the long drive part, the relaxing part.” She smiled. “Nothing beats the songs from back then.”
+
+“I agree.” John grinned. “Some of them had actual stories, and some were just ear noise; but none of them had rapping about shootings, killings, crime, or anything else that was going on at the time.”
+
+“Exactly!” Holly said. “That's why it's so relaxing.” She grinned, too. “The worst thing in a song then was a bad breakup.”
+
+“Hey, that could be a crime, too.” John said, and they both laughed; then started to sing the chorus of their favorite song.
+
+*
+
+“That was the most delicious thing I've ever tasted!” Ren exclaimed.
+
+“Really?” Stella said. “Barbara told me on the phone about you and a certain piece of cake.”
+
+Ren's mouth started to water and he closed his eyes. “Mmm. Black forest cake.”
+
+Stella laughed. “Hey, you just ate!”
+
+Ren opened his eyes and looked at her. “It was my first one.” He said. “I've never tasted anything like it before.”
+
+Stella put a hand on his shoulder. “I know.” She said. “I can't wait to see what kinds of food we can feed you now.”
+
+“Me, either.” Ren said. “But, that's enough fantasizing.” He smiled. “Let's get to work.”
+
+Stella nodded and pushed him into the bathroom so he could wash up, then brought him back to the spare bedroom.
+
+“Everything's ready.” Gloria said. “We're all set as administrators, so the activation code is 'Admin Login Start' not 'Flow Login Start'.”
+
+“It should load the main room, right?” Stella asked. “And give us access to all of your mods?”
+
+Gloria nodded. “The medical program the techs at Sid Tec sent over was... well, laughable.”
+
+Stella laughed. “I'm really glad Ren recommended you.”
+
+“Me, too.” Gloria said.
+
+“Me, three.” Ren said. “Now get me up on the recliner before I try to do it myself.”
+
+Stella helped him transfer over.
+
+“Why do you need help to do that?” Gloria asked. “The last time I saw you in real life, everything worked fine.”
+
+Ren gave her a quick rundown of the therapy incident where he bruised his chest and abdomen muscles, and he saw the anger on her face.
+
+“What an asshole!” Gloria said. “Not listening to a patient's concerns is one thing; but when every nurse, and even the doctor told him to be careful about it?” She shook her head. “I'll kill him!”
+
+Ren chuckled and put a hand on her clenched fist. “Denise gave him a good slap upside the head, and I don't have to take therapy from him anymore; so, it's okay.”
+
+“It's not okay!” Gloria said. “You wouldn't be hurt if he'd had a sensible thought in his head.”
+
+Ren squeezed her hand, and she looked down at it.
+
+“Why are you so mad?” He asked her.
+
+“I...” Gloria sighed. “You were here completely naked, and you've got a bruise that covers you from your neck to your waist, and I... I didn't see it at all.”
+
+“So, what you're saying is... you were looking at me, but you weren't looking at how hurt I was.”
+
+“Yes.”
+
+“Then don't be mad about that.” Ren said. “Be happy about it, like I am.”
+
+“You're happy to be hurt?!?” Gloria asked, shocked.
+
+Ren laughed. “No, I'm happy that you can look at me and see me, not my injuries.”
+
+“Oh.”
+
+“Now get me hooked up and show me your prestigious programming skills.”
+
+Gloria chuckled. “Then get ready to be amazed.” She said, and handed him the VR headset. “They're super-cooled, so they can run without generating any heat whatsoever.”
+
+“Sweet.” Ren said. “If this works as well as I think it will, I'm tempted to get you to mod mine as well.”
+
+“No can do.” Gloria said. “My contract states my skills are for work-related purposes only.”
+
+“Geez, Stella!” Ren said and looked at her. “How am I supposed to abuse the boss/worker relationship, if you anticipate how I'll abuse it?”
+
+Stella laughed. “Stop stalling and put the helmet on.”
+
+“Okay, fine” Ren chuckled and put the headset on. The next thing he said was in a low whisper. “I don't think talking to a beautiful woman should be considered 'stalling', though.” He took a deep breath, then relaxed.
+
+“Admin Login Start.”
+
+Ren's body went limp as the protocols engaged, and Stella got on her recliner. She put on her headset and relaxed.
+
+“Admin Login Start.”
+
+Stella's body went limp, and Gloria looked at Ren.
+
+I wonder if he knows that I heard him. Gloria asked herself. She leaned in close and undid a few buttons on his shirt. Ren, you poor thing. She thought and reached out to touch the bluish-yellow skin. He didn't react, but she could feel how... squishy it was, and she winced for him. She buttoned his top back up and looked at his half-covered face.
+
+Oh, what the hell. Gloria thought and kissed him. She stopped a moment later, and leaned back. Huh. That wasn't as fun as I thought it was going to be. She sat down on her recliner and put on her VR headset. Maybe... maybe enjoying it requires his participation. She smiled. His eager participation.
+
+“Admin Login Start.”
+
+********
+
+“Wahoo!” Ren yelled as he ran through the obstacle course Stella had loaded for him for the second time.
+
+“You know, you're not supposed to be enjoying this.” Stella said as she monitored his progress.
+
+“Ha ha!” Ren said as he finished the course and ran over to her. “You suspended the Stamina requirement for this test.” He said. “I could do this all day and not break a sweat.”
+
+“You've got him going already?” Gloria asked after she materialized and saw the end of Ren's run through the obstacle course.
+
+“I could ask you what took you so long to get here, but with the time compression boosted to 8 times normal, I'm a little surprised it didn't take you longer to get in.”
+
+“Yeah, that was a neat thing I discovered in the code.” Gloria said. “If you hadn't given me admin privileges, though...”
+
+“Please.” Stella said. “Like you wouldn't have given them to yourself anyways.”
+
+Gloria chuckled.
+
+“Okay, it's your turn.” Ren said.
+
+“What?” Gloria said.
+
+“We need a normal person to test.” Ren said. “So get your butt in gear and get going.”
+
+Gloria looked at Stella.
+
+“I already did it myself, so it would be a good idea to have three sets of data.” Stella said.
+
+“I don't know...”
+
+“Tag!” Ren said, and tapped her forehead with a fingertip. “HA! You're it!” He said, and took off at a run.
+
+“You little shit!” Gloria shouted and ran after him. “Get back here!” She yelled. “I'm going to kill you!”
+
+“Ha ha ha!” Ren laughed and started to do the obstacle course again, with Gloria right behind him.
+
+********
+
+It was a normal business day at Sid Tec, except for the monumental failure the night before by one of the tech staff. The entire department had been up in arms about the whole thing, but Charles had explained about the circumstances. He'd convinced most of them it was perfectly fine, and then he was summoned to the boss' office.
+
+Charles sat in the chair in the outer room, and had been waiting to see the boss for 15 minutes. Every so often, the redheaded secretary glanced daggers at him. Charles wasn't worried, though. It was just like he'd told her the night before. He didn't break any rules; and had even checked his contract to confirm it. The door to the office opened, and Edward Torren stood there and glared at him. He didn't say a word, though. All he did was hike a thumb over his shoulder, to indicate that Charles should go into the office.
+
+Charles nodded that he understood, and walked by him. The door was shut, and Edward walked over to his desk and sat down.
+
+“Sit.” Edward said and pointed to the chair in front of the desk.
+
+Charles complied and walked across the office and sat down.
+
+“I hear that you've caused me a few problems last night.” Edward said in a heavy voice.
+
+“I'm sorry, sir.” Charles said. “I don't know what you mean.”
+
+Edward sighed. “Are you really going to pretend that you didn't attack a valuable asset to this company?”
+
+“I don't understand.”
+
+“Of course you don't.” Edward said. “If you'd done any research into Ren Haddon at all, you'd know that you've seriously messed up.”
+
+“Sir, he's just a kid.” Charles said. “I didn't break any rules, company policies, or anything of the sort by doing what I did.”
+
+“Ms. Stanford tried to enlighten you to the situation, and you...” Edward checked the papers on his desk. “...completely ignored her concerns, and then hung up on her.”
+
+“She doesn't have the right to insult or threaten me.” Charles said. “It was late, and I didn't want to deal with her negativity before going to bed.”
+
+Edward sighed. “I assume that you didn't even consider that she was trying to protect the company's interest, did you?” He asked. “Her job, despite what you may think, is to keep this company afloat. She deals with the public relations, the clients, and all of the accounts that we have on file.”
+
+“I don't see how...”
+
+“Ren Haddon was one of the contest winners. He has been a priority for this company to keep happy.” Edward said. “He was also awarded a medical research grant to look into the viability of the VR headsets on being a physical therapy tool.”
+
+Charles was surprised to hear this. “I... didn't know that.”
+
+“Of course not.” Edward said. “It's only been posted on the main server, on posters all over the office for about a month, and we've only sent out three company notices about it.”
+
+Charles didn't know what to say to that. He never bothered to read the notices.
+
+“At a loss for words, are you?” Edward asked. “Aren't you going to protest for your innocence again, and how you didn't break any company rules?”
+
+Charles thought about doing that, but it just seemed a little petty at the moment.
+
+“I'm glad you aren't, because I'd have tossed you out of here on your ass if you did.” Edward said. “Just because it's not in your contract, doesn't mean it's not a rule you should follow.”
+
+“I don't know what you mean.” Charles said.
+
+Edward sighed. “Do you really need a class on common sense?” He shook his head and raised a hand with his fingers unfolded. “Never attack a player using company resources.” He said and folded one finger. “If you'd been at home and used your own character to do it, that would have been one thing; but you manufactured a character specifically designed to fight Mr. Haddon with system administrator hacks.”
+
+Charles didn't dispute that point.
+
+“Never publicly attack or target a player with such a high profile.” Edward said and folded the next finger. “If you'd challenged him to duel, saying he'd wronged you personally, rather than saying...” He looked at the papers on his desk. “...that you wanted to fix the storylines for the giants and dwarves.”
+
+How does he know I said that? Charles wondered. I deleted all the references and video for the fight. He thought about it for a moment. Dammit, he must have had a separate recording device and saved the footage!
+
+“You should always consult a fellow team member, or even the head of your department before embarking on anything to do with the company, or any product under it's control.” Edward said and folded the next finger. “Going it alone to try and... adjust... how things are playing out, is not a good idea; no matter how smart you think you are, or how you're going about it.”
+
+“Hold on.” Charles said. “I did my best...”
+
+“Lastly, you should never undermine the company or any of it's products; especially to the detriment of both the company and the product.” Edward said, folded the last finger, and let his hand drop to his desk.
+
+“But, sir...”
+
+“I'm tempted to fire you, just because that's what I did to the others.” Edward said.
+
+“I didn't kill him, sir.”
+
+“You tried to, and you wanted to.” Edward said. “That's reason enough; but, since you didn't succeed, I can't use that as a reason.” He looked at Charles. “Now, I want you to tell me why you thought it was a good idea to do what you did.”
+
+“I... well, to be honest... he's been messing things up a lot in the game.” Charles said. “The High Elves scenario has been rewritten 3 times already because of him.”
+
+“Why?” Edward asked.
+
+“What?”
+
+“Why did it have to be rewritten?”
+
+“Um, he unlocked the High Elves expansion 6 months before they were set to be released.”
+
+“How did he do that?”
+
+“He... um...”
+
+“He played the game.” Edward said. “Did you know that he's logged in more hours in the game than any other player?” He smiled. “Actually, if you do up the stats...” He lifted up another sheet and showed it to Charles. “...and if we had a leaderboard for the amount of time spent in the game... he'd have been on the top of it after the first month he started playing it.”
+
+“Wh-what?”
+
+Edward chuckled. “You don't even know who he is, do you?”
+
+“I... I'm not sure what you mean.”
+
+Edward turned around the monitor on his desk, and hit the button to play the video. Ren's show started playing, and Charles' eyes widened.
+
+“He's our walking, talking advertisement for the game, you idiot.” Edward said. “I'm sorry, I shouldn't have called you an idiot.” He said. “Flipping blasted idiot is more along the lines of what I was thinking; only with more curses and yelling.”
+
+“Sir...”
+
+“He's got a hit television show, a store that every single player buys things from, and he's the kindest person you'd ever want to meet.” Edward said. “Look, here's the numbers from the pilot episode.” He said and slid a piece of paper over to Charles, who picked it up and stared at the numbers.
+
+“This... this can't be real!”
+
+Edward laughed. “Flip it over.”
+
+Charles flipped it over and stared at the numbers for the second episode. They were even higher than the first.
+
+“That's not possible.” Charles said. “No show has ever had more viewers for the second week it's been on!”
+
+“Look at the viewer breakdown.” Edward said.
+
+Charles looked at it, and sighed. It was highest with women between the ages of 18 to 34. Everyone knew that was the main demographic that a television station wanted to appeal to.
+
+“The television studio knew they had a hit on their hands.” Edward said. “They knew it was going to be such a big hit that they put it in the prime time lineup in the 7 p.m. time slot on Friday night.”
+
+“WHAT?!?” Charles yelled.
+
+Edward chuckled. “I think you're getting it now.” He said. “Ren Haddon isn't just 'some kid'. He's a sensation that everyone wants to get their hands on.”
+
+“I... I'm sorry.”
+
+“I think you might actually mean that; but, I think you're really going to be sorry.”
+
+“Why?” Charles asked automatically, despite the fact that he didn't want to know.
+
+“You're being shunted from the manager position of the Giant Kingdom update, to just quality control on it.” Edward said. “It comes with a small pay cut; but, at least you can keep the same desk.”
+
+“But... but sir!” Charles begged. “I worked for three months on the coding for it!”
+
+“I know you did.” Edward said and tapped the pile of papers. “I keep an eye on everything that goes on in this company.” He sighed. “My secretary knows, too... and she still wanted you gone for what you tried to do.”
+
+“What? Why?” Charles asked. “I didn't do anything to her!”
+
+Edward looked at him like he had two heads. “I'm sure you heard about what happened after the last time the tech department dealt with Ren.”
+
+Charles nodded.
+
+“Ms. Stanford only knew of him and his case at the time.” Edward said. “She took the attack on him personally, however; and over-reacted.”
+
+“I did hear the story.” Charles said. “But unlike them, I didn't succeed or use their method. She shouldn't be mad at me for what I did.”
+
+“Mr. Haddon has been through a lot the last little while; and thankfully, she's been there for him when he needed her help.” Edward said. “She over-reacted back then, and she barely knew him.” He smiled. “Now? She's dating him.”
+
+“She's WHAT?”
+
+Edward chuckled. “I don't know how it happened either.” He said. “They sure didn't start off on the right foot.” He smiled when he remembered that incident in front of the Library in the game, and then taking her in later to apologize to Ren. “As it stands, she's been seeing him regularly for a couple of weeks now.”
+
+“Well, damn.” Charles said. “I guess that would explain her reactions.”
+
+“Among other things.” Edward said. “I can't justify losing you over something like this, though. We need all the help we can get. Despite your mistakes, you work hard and fast. We need a lot of that right now.”
+
+“You're pushing the Giant update ahead, aren't you?”
+
+Edward nodded. “Max told me Ren distributed his book about the giants.” He said. “We have no choice but to move forward.”
+
+“Most of it has to be changed now.” Charles said. “I assume the giant attack failed.”
+
+“Oh, it's much better than that.” Edward said, and moved the game footage ahead. “Look.”
+
+Charles looked at the screen, and watched as Ren negotiated with the giants, and stopped the invasion completely.
+
+“What... what... how?”
+
+Edward chuckled. “Ren was right, you know.” He said. “Leaving access in the update files, and letting the giants make random attacks on the dwarf Garrison wasn't a good choice.”
+
+“I realize that now.” Charles said. “In my defense, I was also right.” He said confidently. “Ren has completely destroyed both storylines.”
+
+“Yes, he has.” Edward said. “Thanks to you.”
+
+“Wh-what?”
+
+Edward typed a few things, and the video went away. A list of Ren's achievements appeared on the monitor instead.
+
+“What is that?” Charles asked and leaned forward.
+
+“This is the result of your 'SPECIAL' bonus.”
+
+“WHAT?!?”
+
+Edward sighed. “You completely wrecked his character building profile, that I worked so hard to make for him.”
+
+“But... but...”
+
+“He's supposed to work hard, and earn a lot of regular stat points doing other things, and then eventually go up a level.” Edward said. “Thanks to your bonus, and the giant battle, it gave him all of this and took away the next year of him leveling up normally.”
+
+“That's not possible.” Charles said. “How did the battle get him all of that?”
+
+“It didn't.” Edward said. “The little genius made a quest for the dwarves and his party members, so that they would get it all. He didn't get anything from the battle itself.”
+
+“I thought you said...”
+
+“I said it was thanks to your bonus and the battle.” Edward said. “He trained every skill he could think of before the battle, and raised almost everything practical to Intermediate.” He shook his head. “I've never in my life thought someone would grind a skill called 'Hold Breath' in the game.” He laughed. “He held his breath underwater while he enchanted things; crushed them, then repaired them.”
+
+“Wow.”
+
+“It's a sight, let me tell you.” Edward said. “He was a grinding machine... and then after the battle was over, he gained normal bonuses.”
+
+“He gained... oh, no.”
+
+Edward nodded. “The system decided that he did so well, he had to be rewarded; mainly because he lost out on... what was it...” He moved several papers aside and picked one up. “Ah, here it is.” He said. “If he hadn't made the quest and just fought normally, and with the SPECIAL bonus... he'd have made somewhere around 2,500,000 XP.” He dropped the paper to the desk. “That's with his Fame bonus included.”
+
+“I'm glad he made the quest, then.” Charles said. “That much would have put him on top of the leaderboards.”
+
+Edward laughed. “Who said he wasn't?”
+
+“What?”
+
+Edward typed a few things, and the leaderboard popped up on the screen.
+
+“1,240,000 XP!” Charles nearly yelled. “He got that from normal rewards after the battle?”
+
+Edward nodded. “Anything that he did that didn't impact the course of the battle.” He said. “He didn't get anything for leading the dwarves, even though he was leading them. He didn't get anything for inspiring them and keeping morale high, he didn't...” Edward laughed. “If he knew how much XP he could have gotten for killing a giant with one blow...”
+
+“Sir, I'm sorry.” Charles said. “I greatly misjudged his character.”
+
+“I want that in writing, and addressed to Ren Haddon.” Edward said, all traces of laughter gone from his face. “I've already sent him an apology myself.”
+
+“I'll get right on it, sir.”
+
+“Good.” Edward said. “If you keep your nose clean, you'll be back to update manager in a month.”
+
+“I... thank you, sir.” Charles said.
+
+“I hope I never see you for anything like this again, or it will be the last time I see you.”
+
+“Understood.” Charles said and stood up. “I'll have the quality report on your desk by this afternoon.”
+
+Edward nodded, and Charles left the office. He stopped beside Elise's desk, but he didn't have the nerve to look at her.
+
+“I'd like to apologize to you for my behavior.” Charles said. “It was rude and uncalled for.”
+
+“Yes, it was.” Elise said in a cold voice.
+
+Charles felt a shiver go down his spine. “I'd also like to apologize for what I did in the game.” He said. “I'll bring back a written apology for Mr. Haddon when I bring the quality report this afternoon.”
+
+“I eagerly await to see what it says.” Elise said.
+
+Charles nodded and walked out of the reception area and back to the tech department. True to his word, he was back that afternoon with both the quality report on the giant update, and an apology for Ren.
+
+Both were better than what Edward and Elise had expected.

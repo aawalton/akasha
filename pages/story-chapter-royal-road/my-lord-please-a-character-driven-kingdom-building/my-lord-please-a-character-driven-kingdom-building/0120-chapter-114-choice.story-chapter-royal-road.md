@@ -1,0 +1,203 @@
+---
+id: d161ec38-adbe-5899-b2fb-82684cefe338
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114 Choice"
+slug: 0120-chapter-114-choice
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 120
+ownLength: 2110
+unit: words
+publishedAt: 2026-08-16
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3822337/chapter-114-choice"
+royalRoadId: "3822337"
+---
+
+The day before the irrigation ditch was due to be tested, Lucien made his way along the main path toward Joren's workshop with Alicia beside him.
+
+When he told her that he would be bringing the scorpion drawing for Joren to examine, she had insisted on coming along, a hint of anticipation in her expression.
+
+He had agreed, having planned to bring her along in the first place.
+
+Sera would have come along as well, had today not been one of her hunting days. It was, admittedly, one of the reasons he had chosen to visit Joren today.
+
+A single maid escorting him around the village was far better for his reputation than being seen accompanied by two women.
+
+Talia, of course, had seen through his intentions almost immediately. She had teasingly remarked that she suddenly found herself curious about the discussion as well and would be delighted to accompany them.
+
+He shot that down immediately by pointing out that she would be too busy helping Harlon mark out the courtyard layout before construction could begin.
+
+She had relented easily enough, though the knowing smile she left him with did little to reassure him.
+
+Lucien gave a small nod to himself, drawing a curious glance from Alicia.
+
+There was still time before Lord Vaelric visited later in the summer...he could still salvage some part of his reputation!
+
+As they approached the forge, he found the place busier than usual. Helpers moved about while Joren's apprentice spoke with someone unfamiliar.
+
+It took only a brief moment for him to realize the man was one of the newer arrivals, his clothing bearing the more distinctive style common to the eastern frontier.
+
+Joren was at the worktable, carefully fitting a piece onto what looked to be one of the windlass crossbows. Lucien and Alicia stopped at the threshold first, waiting patiently for him to finish.
+
+When the man set the piece down, he turned toward them and gave a slight dip of his head.
+
+"Lord."
+
+His gaze shifted to Alicia, a much warmer expression taking root before his eyes settled on the roll of parchment in her hands. The warmth immediately gave way to something more wary.
+
+"Alicia...did you two bring something again?" There was a wary curiosity in his voice.
+
+A light huff left him as he shook his head slowly. "Still figuring out the windlass crossbow...and you've brought another one. Only remember old Uncle Joren when you've got something for him to make?"
+
+At the blacksmith's words, Alicia's face flushed. "Unc—Master Joren, I came to visit only a few days ago."
+
+The corner of Lucien's mouth lifted as he watched the exchange. When Alicia gave him an imploring look, however, he took pity on the poor girl and steered the conversation elsewhere.
+
+Lucien stepped through the doorway. "Yes. Though it is only something I want you to take a look at first. There is no rush to build it for now with how busy the forge is."
+
+He glanced toward the man speaking with Joren's apprentice. "You took in another apprentice? I had thought with your standards you would be more...selective."
+
+Joren followed the direction of his gaze and exhaled lightly. "Normally. But with the amount of work the forge has these days...and the lad could use the experience of teaching someone else the ropes."
+
+If Harlon was the busiest person in the village at the moment, then the blacksmith was right up there in second place.
+
+"By the time the second wave of refugees arrives, your workload should lighten as well, Joren. There were a few interested journeymen smiths who responded to my call while I was in Helvarn," Lucien assured him.
+
+Despite that, Joren looked skeptical. "As long as they meet my requirements...but I suppose the younger ones there aren't as stubborn as those old grumps running the place."
+
+Lucien's brow lifted slightly. "...Stubborn? Wait...what exactly were your requirements when we were recruiting smiths a few weeks ago? Elias told me you had some, but..." His words trailed off when Joren let out a slight chuckle.
+
+The blacksmith took off his gloves, setting them on the table. "You thought it was something about smithing, Lord? Well, of course there's that. But I had asked for one simple thing."
+
+He picked up the unfinished windlass crossbow from the worktable, turning it slowly in his hands. "The open mind to ask whether something can be forged first."
+
+Lucien stared at the blacksmith, but before he could respond, Alicia clapped her hands once. "Ah! I remember you saying that when I was a child, Master Joren. When I asked what the most important thing for a blacksmith was."
+
+The blacksmith let out a grunt. "Aye. That's how a smith improves. A smith who never tries anything new ends up hammering by habit."
+
+Perhaps it was unfair, but Lucien had always assumed the blacksmith was the sort who insisted on doing things a particular way.
+
+Joren shot him a suspicious look. "...Why do you look so surprised, Lord? You thought I was the stubborn sort, eh?"
+
+Coughing slightly, Lucien shook his head. "Not at all. Alicia, let's show him what we came here for."
+
+The blacksmith continued to peer at him before shaking his head.
+
+He set the unfinished crossbow back upon the worktable before gesturing toward the entrance leading deeper into the forge. "Come on then. Better you show it to me inside so we don't get in their way."
+
+Once they were inside, Alicia unfurled the parchment and set it down on the worktable between them before taking a step to the side.
+
+The drawing of the scorpion had changed little since he last saw it.
+
+Alicia had asked whether there was anything she could improve based on his description.
+
+Truth be told, Lucien understood the principles behind the design far better than the mechanism itself. He knew what the individual parts were meant to achieve, but not necessarily how every piece worked together to do so.
+
+The blacksmith's brows furrowed. He fell silent for a long moment before a slow breath left him. "This...it's larger than anything you've asked for before, Lord."
+
+His eyes moved toward the mechanism containing the torsion system. "...These bundles. Similar to the windlass crossbow...but different somehow."
+
+He leaned in closer to the parchment. "Whatever's wrapped inside them is going to be carrying a lot of force."
+
+Alicia raised her hand slightly, drawing the blacksmith's attention. "Lady Talia called it torsion, Master Joren. She said the name sounded fitting."
+
+Joren gave a slow nod before turning back toward the parchment. He rubbed a hand across his beard in thought.
+
+Lucien waited patiently while Alicia folded her hands before her, her fingers shifting nervously against one another.
+
+Picking up the parchment to hold it closer, the blacksmith continued mumbling some half-coherent words under his breath while tracing some of the parts in the design.
+
+"...It looks sound, but I won't know if it'll work until we build it proper," he muttered, setting the parchment down. He stared at it for a while longer before glancing toward Lucien.
+
+"Lord, the windlass crossbow is one thing...but this settles it for me." The blacksmith folded his arms and stared at him. "You got these ideas from dwarves?"
+
+At the sudden mention of the name, Lucien couldn't keep the surprise from his face. "...What makes you say that?"
+
+Alicia tilted her head. "Dwarves, Master Joren? I thought they rarely dealt with humans."
+
+"Aye. They don't, most of the time. But he has probably heard talk of them before," he replied, jerking his chin toward Lucien.
+
+Keeping his face carefully neutral, Lucien folded his arms behind his back. "Do they use weapons like this too, Joren?"
+
+The blacksmith shrugged faintly. "I don't know, Lord. Never met them before. Only heard of them when I was a journeyman back in the inner regions of Arcencia."
+
+"They hole up inside their mountains and rarely come out. But most smiths have heard stories about them."
+
+Joren looked back down at the drawing again before glancing toward Alicia, his eyes narrowing slightly.
+
+The maid looked confused, while Lucien felt a sinking weight settle in his chest.
+
+Folding his arms, Joren nodded toward the parchment. "Alicia, you drew this from his descriptions?"
+
+"Yes. My Lord told me about it before he left for Helvarn. Is there anything wrong that I could fix, Master Joren?"
+
+The blacksmith's expression grew unusually still. "Hm. Need to take a longer look before I can say."
+
+He scratched the corner of his beard before glancing toward Lucien. "I won't have time to make something like this yet, Lord. Maybe after those smiths you mentioned arrive from Helvarn."
+
+Alicia clasped her hands together in front of her. "Please let me know if there is anything I can do to help too, Master Joren."
+
+"...Aye. But we'll need Harlon's help for this as well. Alicia, could you draw another copy of this for him? How long would you take?"
+
+She considered the question briefly. "I could do it by tomorrow if I start now." Then she turned toward Lucien, who had remained silent throughout the exchange. "Unless My Lord needs me for something...?"
+
+Lucien shook his head. "You can return first, Alicia. I will see you later at lunch."
+
+The maid bowed her head and was about to leave when Joren called. "You forgot the parchment."
+
+Alicia turned back slightly, tilting her head. "Ah. That's okay, Master Joren. I can make a copy without it."
+
+With that, she continued out of the workshop.
+
+Joren's expression hardened at those words. He let out a breath before glancing toward Lucien.
+
+"How much did you actually tell her, Lord?"
+
+Lucien exhaled through his nose. "I gave her a rough description of how it would work..." He hesitated only for a brief moment before shaking his head. "She drew everything else based on that."
+
+Joren stared at him, then looked outside the door where Alicia had just left. "The windlass crossbow. She drew that based on your descriptions too, Lord?"
+
+At his nod, the blacksmith rested his hands on the worktable. "How? She doesn't have the training for that, Lord. I have known her for half her life."
+
+Lucien wondered how much he should share before realizing that Joren would likely find out on his own if he went around asking Bran and Maris.
+
+"Have you heard of the Goddess's blessing before, Joren?"
+
+The blacksmith's eyes widened. "It's a folktale, Lord. You're saying that she's..."
+
+Lucien held his gaze. "I don't know, Joren. But it is the only explanation I can think of."
+
+After that, he explained how his suspicions had begun with Sera, speaking only of her heightened hearing and how overwhelming it had once been for her after she came to Ashridge.
+
+Joren didn't speak throughout the explanation, his expression growing steadily more rigid at the mention of Sera's struggles.
+
+When Lucien finally fell silent, the blacksmith remained where he was, one rough hand resting upon the worktable.
+
+Outside, the steady rhythm of hammer striking iron continued as though nothing had changed.
+
+The blacksmith slowly rubbed a hand across his beard, his gaze lowered. "Does Bran know, Lord?"
+
+"No. For now, only Talia and I know. You're the third person to find out," Lucien replied, folding his arms behind his back.
+
+Joren's eyes snapped toward him. "...For now? You plan to tell her, Lord?"
+
+Lucien gave a slow nod, only for the blacksmith to shake his head. "It's too dangerous, Lord. We don't know what we're dealing with here."
+
+"She deserves to choose, Joren. I can't continue to ask for her help if she remains unaware of the potential risks."
+
+Joren's hands clenched tight. "Then don't ask her to draw anything anymore, Lord."
+
+Lucien gestured toward the drawing of the scorpion. "...Would you or Harlon be able to make something like this without her help?"
+
+For a moment, the blacksmith looked like he was about to say something before he gritted his teeth, glancing away. "So you'll put the choice in her hands...even knowing she'll choose to help?"
+
+Lucien's brow furrowed. "If I say nothing and something happens when she continues to draw, what then?"
+
+"She lived her whole life not knowing before you came here, Lord." Joren snapped back, struggling to keep his voice low. "And you've seen what happened to the hunter. You know what choice she's going to make."
+
+At his words, Lucien's eyes widened before he fell silent.
+
+Neither man spoke for a moment before Joren let out a slow breath.
+
+"You're her lord. Sometimes making the difficult choice for her is the kinder thing."
+
+Lucien had nothing to say to that.

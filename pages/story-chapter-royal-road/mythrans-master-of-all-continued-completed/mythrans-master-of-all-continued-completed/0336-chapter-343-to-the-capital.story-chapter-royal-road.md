@@ -1,0 +1,313 @@
+---
+id: 2348616c-c993-5e8a-918f-7e2215f0bb75
+page-type-slug: story-chapter-royal-road
+title: "Chapter 343 - To The Capital"
+slug: 0336-chapter-343-to-the-capital
+partOf: mythrans-master-of-all-continued-completed
+position: 336
+ownLength: 3632
+unit: words
+publishedAt: 2017-08-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158018/chapter-343-to-the-capital"
+royalRoadId: "158018"
+---
+
+The carriage got to the road that lead out the West Gate without incident, despite travelling over very rough ground, and Catalina drove it out the road to the first turn to the south. They took that road and started to pick up speed. Ren stood up and opened the small door behind the place where the driver sat. He slipped out through it and sat down on the passenger side beside Catalina.
+
+“How are the horses handling the carriage?” Ren asked.
+
+“Surprisingly well.” Catalina said without looking at him. “It's like they're only pulling a small cart.”
+
+“Technically, they are.” Ren said. “This carriage has been enchanted to be much lighter than it's supposed to be, but it still moves like it was heavy.”
+
+“You have got to do that to all of my carts.” Catalina said. “It'll be so much easier on the horses.”
+
+“Were some of the carts and horses a part of the caravan that delivers the parts for the lumber yard?”
+
+“They're all mine.” Catalina said. “I made more in deliveries yesterday than I did all last month.”
+
+“Then all those carts are already enchanted.” Ren said and smiled. “The delivery was for me, so I enchanted them all before they went to my county.”
+
+Catalina chuckled. “If that keeps up, I'll make more this month than the whole time I've been running my stable as a business.”
+
+“I can guarantee that, then. There's 5 more deliveries that have to be made.” Ren said. “Did Jen talk to you about having a stable built?”
+
+“She did.” Catalina said. “I'm not sure it's a good idea, though.”
+
+“Why not?”
+
+“I won't be close by to supervise it's operation.” Catalina said. “If you're going to have a stable and horses for over 600 people...”
+
+Ren chuckled. “They aren't all going to need horses and carts at the same time.” He said. “Most of them don't even leave the village, let alone the county.”
+
+“Then what do you want a stable for?”
+
+“Just in case they do want to go somewhere.” Ren said. “I'm thinking only a small stable, maybe 20 or 30 horses, and just as many carts.”
+
+“That's going to take a lot of stable-hands to run and maintain.”
+
+“I figure one per horse, plus a manager.” Ren said. “That's why I want to make a kind of school for training.”
+
+“I'm already doing that at Jen's place.” Catalina said. “I can't go out there and teach, too.”
+
+“What about horses? Can I at least get them from you?”
+
+“I think I can spare a dozen or so... but I won't sell them without inspecting where they're going to stay.”
+
+“I had hoped I could just say, 'hey, do this for me', and you'd do it all and I wouldn't have to worry about anything.”
+
+Catalina laughed. “You've been letting your money get to your head.”
+
+“I guess.” Ren said and looked at the horses. “While I'm here, I can cast Haste on the horses to double their speed.”
+
+“Really?” Catalina glanced at him quickly and then back at the road. “You look more like a fancy knight.”
+
+“Is it the shiny gold color of the armor or the encrusted shimmering jewels that gave you that impression?” Ren asked her, and she laughed.
+
+“Both, I think.”
+
+“Looks can be deceiving.” Ren said and took out the Haste wand.
+
+“Oh, I know.” Catalina said and glanced at Ren again. Now I really want to know how good he is in bed.
+
+Ren cast Haste on the horses and the carriage doubled in speed. Since the 4 horses were hauling a very light carriage that didn't slow them down at all, they thought they had been cut free and ran for all they were worth.
+
+Catalina guided their bridled passion for freedom, and held them to the road expertly. After 20 minutes, they slowed to their normal speed and Catalina pulled off the road to feed and water them. Ren helped her and added a bit of Health Potion to the feed, just like he did for the caravan horses. They got back on the road a few minutes later, and Ren cast Haste on them again and went back into the carriage.
+
+“Are you having fun?” Railyse asked him as he sat down beside her.
+
+“Not really.” Ren said. “It looks like I'll need to think of another way to get a stable up and running.”
+
+Railyse smiled. “You'll figure out something.” She said. “You always do.”
+
+Ren took her hand and she held onto his with both of hers. “Are you up for this?”
+
+Railyse chuckled. “It's a little late to ask me that now.”
+
+Ren leaned in close to her. “Do you want to feed?”
+
+“I... yes, but...” Railyse sighed. “I still don't think...”
+
+“I agreed to give you any fluid that you needed while on the surface.” Ren said. “I'm not being forced or coerced, okay?” He said and gave her face a light caress. “I'll make it special this time.”
+
+“Special?” Railyse asked. “How?”
+
+“You'll taste the difference.” Ren said and closed his eyes. He thought about the Water Realm, and Railyse with all of her family, and then her being torn away from them by time. Years, decades, and now a century have passed, and Ren imagined the sorrow she felt about not seeing her whole family for over a hundred years. A very small tear formed at the corner of his eye, but he wasn't done.
+
+Now that he had thought about a daughter being torn away by time, he remembered his own daughter and the several millennium that have passed in the Fire Realm since he had last seen her. He had let too much time pass without contacting her, and he felt so guilty over it that he couldn't bring himself to contact her now.
+
+Ren felt Railyse's lips on his face as the tears flowed, and he poured out his sorrow and let her drink it up. A water tendril touched his other cheek as she kissed and licked his tears away. This went on for several minutes, until Railyse had had enough.
+
+“Oh, Ren.” Railyse said, as the glow on her skin faded. “You're so... so... (bubbles gurgle bubble)!”
+
+Ren smiled because he had made her revert to her native speech to describe him. “I said you'd taste the difference.” He sighed and let the thoughts fade, then stopped crying and the water tendril dried his face for him.
+
+“How can you cry on command, time and time again?” Railyse asked as the tendril formed back into part of her hair. “They're not fake tears, either. You're actually crying.”
+
+“I have depths to my mind that...” Ren sighed. “Let's just say that I can relive and experience events as if they just happened.”
+
+“You mean...”
+
+“I should be able to do this for you indefinitely.”
+
+Railyse laid her head on his shoulder. “If mother knew you could do this all the time...”
+
+“She'd have extended my sentence by at least a year.” Ren said and smiled.
+
+“A year?” Railyse chuckled. “She might have tossed my father aside and made you the royal consort!”
+
+Ren snorted a laugh. “She loves your father too much to do that.”
+
+Railyse squeezed his hand. “Royal concubine? Royal Tear-jerker?”
+
+Ren laughed. “Now there's a fun job.” He said sarcastically. “Ren! Cry for me. Yes, Your Majesty.”
+
+Railyse laughed, too. “I thought you meant concubine when you said fun.”
+
+“They're practically the same job in the Water Realm.” Ren said, and Railyse nodded.
+
+“My mother would have decreed it, if you so wished.”
+
+Ren smiled and stroked her face again. “I didn't want you tied to me like that.”
+
+“Assistant to the Ambassador is not an appropriate job description for what you do for me.” Railyse said and sighed. “You've done too much for us for my mother to deny you such a simple request.”
+
+“That's why I made it.” Ren said, and she looked at him.
+
+“Wh-what?”
+
+“I could have asked for anything, anything at all.” Ren said. “Even for your hand in marriage.”
+
+“WHAT?!?” Railyse exclaimed and sat up to stare at him.
+
+“You didn't know that?” Ren asked her, and she shook her head. “Your mother offered you to me that morning.”
+
+Railyse frowned and squinted her eyes at him.
+
+“Don't be mad at her.” Ren said. “She was trying to ensure the future of the Water Realm.”
+
+“By giving me away and not talking to me about it first?”
+
+Ren chuckled. “I'm pretty sure it was smart of her to ask me if I wanted you first, before she tried to throw you at me.”
+
+Railyse opened her mouth to say something, then sighed. “Okay, yes. You're right.” She said. “That would have been embarrassing for me to have happen in the throne room.”
+
+Ren nodded. “That's why she did it privately.” He said. “Plus, this way I get to spend all this time with you, share all these things with you, and you aren't tied to me or constrained by your culture's rules, etiquette, and customs.”
+
+“Ren, you...” Railyse shook her head. “You're way too good to be true.”
+
+Ren laughed and put an arm around her shoulders, and she put her head back on his shoulder. They stayed that way until the Haste spell wore off on the horses, and he had to cast it again. This happened 12 more times, with 5 more rest stops, and they finally reached the capital city of Bore-Reale just over 4 hours later.
+
+“Holy crap!” Ren said as the mountain trail they were on turned to give them a side view of the entire city.
+
+“Land dwellers sure do like walls, don't they?” Railyse asked, and Ren nodded. The city had 100 foot tall battlement walls, towers twice that height every 1000 feet along the walls, and it had a gigantic castle in the center if it. He stared at the castle because he recognized it. Any kid would recognize this castle, no matter where they lived in the real world.
+
+It took another half an hour to reach the city gates, and Ren called Andrela and the other maids to let them know that they had arrived at the capital safely. He described what the castle and city looked like, and they made small talk until they were close to the city and he told them he had to go.
+
+When the carriage arrived at the city gates, he presented documents and identification for Railyse and himself. The guards ignored the driver, much to her dismay. Ren thought it was a very big loophole for someone to exploit; but, he didn't mention it to the guards. The last thing Railyse needed was a delay. They had arrived just as lunch started, and the meeting they needed to attend was just after lunch.
+
+“To the castle.” Ren said to Catalina, and she nodded and flicked the reins. It took another 20 minutes to get through the traffic in the streets and reach the castle. There wasn't any kind of guard or sentry at the front door, and Ren was puzzled.
+
+This is where you should have people to detect anything that came in. Ren thought as he opened the carriage door and stepped out. He reached up a hand and helped Railyse down out of the carriage and looked at Catalina.
+
+“I've been here before.” Catalina said. “I'll stash the carriage and take care of the horses.”
+
+Ren passed her a steel square. “I'll call when we need you again.” He said. “It'll be a few hours.”
+
+Catalina looked at the metal square, shrugged and slipped it into a pocket. “I'll keep myself busy until then.”
+
+Ren nodded, and Catalina flicked the reins and drove the carriage away.
+
+“Let's do this.” Railyse said, took a deep breath, and held out an arm for Ren. He hooked his arm in hers and led her into the castle, and the song 'When You Wish Upon A Star' played in his head.
+
+*
+
+“Today's the day.” Lord Eddlemere said and took another bite of food. He chewed and swallowed, then shook his head. “I'm getting tired of taking time out of my day just to eat.”
+
+“You could stop eating and let yourself die.” Talon said from the shadow behind him.
+
+Lord Eddlemere laughed. “Talon! I'm glad you could make it.”
+
+“I had to come and see if it worked.” Talon said. “I've been working overtime to pull this off.”
+
+Lord Eddlemere nodded. “I assume you had the package sent.”
+
+“No, I brought it here myself.” Talon said. “Of course I sent it.”
+
+“Don't be flippant.” Lord Eddlemere said. “This is serious business.”
+
+“Deadly serious.” Talon said. “I just hope it's worth it.”
+
+“Don't fret, young man.” Lord Eddlemere smiled. “It's worth it. In fact, it's going to be worth a whole kingdom.”
+
+*
+
+It took a little while to find the meeting room they had to get to, but Ren and Railyse made it to their assigned seating section in plenty of time. They sat and waited for lunch to be over, and then Railyse could start the task that her mother had set for her.
+
+*
+
+“King Alamast!” A young boy yelled and waved as the king walked by one of the many open windows in the royal dining room.
+
+“Oh! Hello!” King Alamast said as he came to a stop dramatically, and went to the window. “How are you?”
+
+The young boy's mouth dropped open in shock as his ruler spoke to him. He tried to talk, but all that came out was spits and sputters.
+
+King Alamast chuckled. “It's all right, boy.” He said. “Breathe. Relax. Just say what's on your mind.”
+
+“I love your daughter!” The boy blurted out and his face turned dark red.
+
+“Someone loves me?” The king's 16 year old daughter said as she came over to the open window. “Hi!” She said and waved to the boy. “I love you, too!”
+
+“Ahhhh!” The boy screamed. He was startled because the object of his affection had appeared before him unexpectedly, and he ran off through the small crowd that had gathered. Several people laughed, and so did the princess.
+
+“Diana, you shouldn't tease people like that.” King Alamast cautioned her.
+
+“I wasn't teasing him.” Diana said and waved to the people. “I love you!”
+
+“We love you, too!” Several people said and waved back.
+
+“See?” Diana smiled at her father, and he shook his head.
+
+“One of these days, someone is going to call you on it.” King Alamast warned his daughter and stepped back from the window.
+
+“Who's going to do that to the Crown Princess?” Diana asked as she took her father's hand and dragged him back to the table. “Hurry up and finish eating! I want to meet the Sea Creature Ambassador.”
+
+“It's 'Sea Dweller', and I'm pretty sure her documentation says she's the Ambassador to the Land Dwellers.”
+
+“Whatever.” Diana said and made him sit down. She picked up a piece of food and tried to shove it in his mouth.
+
+“Diana! Stop that!” Her mother, Lady Eleanor said. “Let your father eat in peace.”
+
+Diana laughed when her father ate the piece of food she gave him and tried to bite her fingers. “Daaad!”
+
+“They aren't food?” King Alamast asked, and she sat down next to him and leaned on him a little.
+
+“No, silly.” Diana said and picked up a piece for herself and took a tiny little bite out of it.
+
+“Diana.” Her mother said.
+
+“I know, I know.” Diana said and took a bigger bite. “Eat properly, and not like a bird feeding her chicks.”
+
+“We should be using utensils like with a proper meal, but I think you're right.” Her mother said. “We need to hurry, or we'll miss the beginning of the meeting.”
+
+“What are they going to do?” King Alamast asked. “Start without me?”
+
+Diana laughed. “Can you imagine the gall they'd have if they did that?” She asked and finished the piece food she had. “They'd be spending a week in the dungeon!”
+
+Her father laughed, and her mother sighed.
+
+“Sending people to the dungeon isn't a laughing matter.” Lady Eleanor said.
+
+“It can be.” Diana said. “Especially the looks on their faces when it's suggested.”
+
+“Diana.” King Alamast said a little sternly, and Diana sighed.
+
+“Fine, no joking about dungeons.” Diana said. Not when mom is around.
+
+“Thank you.” King Alamast said and kissed her cheek.
+
+“Daaad!” Diana laughed as she leaned out of the line of fire and pretended to wipe the kiss off, despite the fact that she really liked that he would still kiss her cheek. She was almost fully grown now, but he had spoiled her quite a lot as a child with how much he showed his affection for her. He always made time for her, no matter how busy he was, and he always made her laugh. She loved her father very much, and would do almost anything that he asked her to.
+
+“Diana! What's that?” King Alamast pointed and she turned her head to look at whatever it was, and he kissed her cheek again.
+
+“DAAAD!” Diana yelled, and he laughed and laughed.
+
+They finished their small lunch, cleaned up, and made sure they looked the part they were going to play. The wise and just King, the dutiful wife, and the obedient Crown Princess.
+
+“I think we're ready.” Lady Eleanor said and took her husband's arm, then looked at her daughter. “Two paces behind, big smile, and no skipping.”
+
+“But...”
+
+“No. Skipping.”
+
+“Fine.” Diana sighed. “No skipping.” She said. Not that I was going to, anyways.
+
+Her mother gave her a big fake smile and looked at her husband. “Lead on, My King.”
+
+*
+
+Ren and Railyse had sat in silence as the room slowly filled up with more and more people. Several of them stared at him and her openly, without trying to be sneaky about it like a lot of the other people were doing. Ren couldn't tell if they were government officials or not, because his Identify skill only worked on items and not people.
+
+I wonder if there's an 'Identify Person' skill? Ren asked himself and was about to ask for the skills popup when the main doors of the meeting room opened. His Etiquette skill activated and he stood up quickly, and had Railyse stand as well.
+
+The King came around the corner in the hallway, and Ren saw him for the first time. He bared a striking resemblance to Lord Eric of Aurora, and he had his wife on his arm. She looked nothing like Lord Eric's wife, though; and then Ren noticed the young woman behind them. She had long flowing blonde hair that was just curly enough to catch the eye, but not enough to say that it was all curls. She was only about 5 feet tall, nearly the same as her mother; which was about a foot shorter than her father.
+
+“Everyone, please rise.” A man at the door said quite uselessly, since everyone had already stood up when the doors had opened. “His Majesty King Alamast, Her Highness Lady Eleanor, and Crown Princess Diana.”
+
+The king nodded at the room as he entered, and everyone nodded back, including Ren. The king entered the room and walked towards their seats, and Ren took a moment to examine them. The king wore an expensive outfit that was well made, a long cloak of purple fabric, and the crown on his head was real. Lady Elanor had a smile as fake as the jewels she wore around her neck; but, her clothing was just as expensive as what the king wore.
+
+Crown Princess Diana wore a simple white dress with long sleeves that covered her from neck to knee, a necklace made of silver, and a thin bracelet. She gave the crowd a small wave as she walked behind her parents, like she always did when she entered a room of important people. Unlike everyone else there that knew it was just for show, Ren assumed it was an actual wave and waved back. He had been the only one to move in the entire room, so Diana took notice of the action immediately. Her eyes widened a little as she saw Ren for the first time.
+
+Who the hell is that? Diana asked herself. She couldn't believe someone would show up wearing full plate armor for a business meeting. It's shining gold, too! She thought as she sat down next to her mother in their section. Are those diamonds? Her eyes darted to the person that stood beside him, and she caught her breath as she finally got a good look at the Sea Dweller's Ambassador. Oh, my god!
+
+King Alamast had remained standing while his wife and daughter sat. “I bid you welcome!” He said loudly and he spread his arms wide. His voice didn't need any kind of amplification because he was a natural public speaker. “Senators and Ministers, Lords and Ladies.” He looked at Ren and Railyse. “Esteemed guests.”
+
+No one spoke as the king continued.
+
+“You all know why we are here.” King Alamast said. “We have been contacted by a representative of the Sea Dwellers.” He motioned to Railyse and everyone turned and looked at her, now that they were given permission to. “It seems that they have a proposal for us. It's one that no one... myself included... could have possibly expected.”
+
+The king paused for dramatic effect and smiled.
+
+“She is here to discuss... the first ever... non-aggression pact between Land Dwellers and Sea Dwellers.”
+
+“WHAT?!?” Several people in the room yelled, and then everyone started to yell and holler.

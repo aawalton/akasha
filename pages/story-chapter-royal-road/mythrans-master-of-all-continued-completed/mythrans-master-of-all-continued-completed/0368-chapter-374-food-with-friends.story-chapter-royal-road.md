@@ -1,0 +1,319 @@
+---
+id: 9708d69a-64c6-5c21-84ea-f5f9238b7808
+page-type-slug: story-chapter-royal-road
+title: "Chapter 374 - Food With Friends"
+slug: 0368-chapter-374-food-with-friends
+partOf: mythrans-master-of-all-continued-completed
+position: 368
+ownLength: 3242
+unit: words
+publishedAt: 2017-10-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165279/chapter-374-food-with-friends"
+royalRoadId: "165279"
+---
+
+“Okay, they're gone.” Gloria said as she came back to the living room.
+
+“Stella, take me into the large dining room.” Ren said and moved from the couch to the wheelchair. Stella pushed him across the living room, towards the kitchen a short distance, then turned into the large dining room. The table there could seat 16 people comfortably, and Stella parked him at the head of it after Lisa moved the chair out of the way.
+
+Ren put the folder down on the table and took several deep breaths, and looked at Lisa and Gloria. “If there's naked pictures of me in here, you can't have them.”
+
+They both chuckled, and he opened the folder.
+
+“Oh, wow.” Ren said. On top was the picture he had drawn when he was a kid, only he didn't remember doing it. He only knew it was his because someone wrote on it. It had a group of people around himself, and was quite well drawn. It also had names written by half of the people.
+
+“No, it... it can't be.” Stella said and picked up the drawing. “Ren you were so young.”
+
+Ren nodded. “Yeah, and I only know two of the people in that picture.”
+
+“Which two?”
+
+“Him.” Ren said and pointed. “I saw him in one of my memories that Nathalia relived with me.”
+
+“It says it's Mayor Danicot.” Stella said. “Who else?”
+
+“Her.” Ren said and pointed. “Don't you recognize her?”
+
+Stella held the picture closer to her face. “No!”
+
+Ren chuckled and moved some of the other papers around. “Who would have thought that my ex-psychiatrist Suzie has actually known me since I was a kid.”
+
+“Oh, Ren.” Stella said.
+
+“It gets better.” Ren said and held up a news article. “She's dating the governor.”
+
+“What... oh, my god.” Stella said when she caught sight of another sheet of paper. “It says here that the woman by the mayor is actually his mistress.” She said. “I wonder if his family knows?”
+
+“According to 'my' drawing, they've been together a lot longer than he's been married.” Ren said. “Does she still count as a mistress if it's the wife that came second?”
+
+“What's that?” Lisa asked and took out another piece of paper with a photo attached. “Ren!” She said and plopped it in front of him. “Recognize him?”
+
+Ren looked at the man, then looked at Lisa. “He's Lord Eddlemere, the one that tried to assassinate Railyse.”
+
+“He's actually Senator Eddlemere in real life.” Lisa said.
+
+“No way!” Gloria exclaimed and picked up the picture.
+
+“What is it?” Ren asked.
+
+“He's been behind the huge tech push the last 2 years he's been in office.” Gloria said. “He even provided the major funding for that new processor you told me about!”
+
+“You're kidding.” Ren said. “Why would he do that?”
+
+“He delved into technology about 10 years ago.” Gloria said. “He's been producing better and better microchips and processors ever since. I found out a lot of stuff about him while comparing the new processor to what I already have in our research hardware.”
+
+Ren looked at Stella, and she sighed. She would have to confirm the timeline with Barbara to make sure; but until then, she had to assume Senator Eddlemere's technological advances had happened at the same time Ren was with his parents. He had suffered the worst of the experiments at that point, and if the drawing was done about the same time, then all that 'new' technology the Senator had created could be directly linked to Ren and the experiments.
+
+The next few sheets in the folder confirmed Stella's suspicions as it showed links between Ren's experiments and the release of new microchips. If she wasn't mistaken, the information must have come from Ren's sealed court records. There was no way for anyone else to have the right timeline for comparison.
+
+“We need to bring Elise in on this right away.” Ren said, then looked at the time. “On second thought, it's almost supper time. She's going to be here soon anyways.”
+
+“We should look through the rest of it.” Stella said.
+
+“We could, but we're going to have to go through it all when Elise gets here, anyway.” Ren said. “While we wait, we should get takeout; unless you've got something big planned for us all to eat?”
+
+“My big plan.” Stella took out her cell phone and typed up a text message. “What do you want?”
+
+“Like you have to ask.” Ren smiled and gathered everything up and put it back in the folder.
+
+“Large order of fries and gravy it is.” Stella said. “Lisa?”
+
+“I vote for pizza.” Lisa said. “Cheese, pepperoni, mushrooms, and green peppers.” She said. “Oh, and garlic fingers.”
+
+“Actually that does sound good.” Stella said and added it to the list. “I'll get a large and we can split it.”
+
+“I could go for a burger.” Gloria said. “I want the works on it, though. No sissy burgers are going in this mouth.”
+
+Ren chuckled. “You better get a side order of fries, too.” He said. “I'm not sharing.”
+
+Gloria fake gasped. “Ren! You'd let me starve?”
+
+“Yep.” Ren said and laughed at her fake outrage. “I'm only allowed to have them every so often, so when I do...”
+
+“He's like a vacuum.” Stella said. “What's your record at Jungle Jim's, now? 4 plates?”
+
+“Yeah, and the look on the waitress' face after every plate was priceless.”
+
+Gloria laughed. “Okay, make it a hamburger platter instead.”
+
+“Got it.” Stella said. “Elise says she wants some Chinese food.”
+
+“She can have it.” Ren said and made a gag noise. “I eat enough rice already!”
+
+That made them all laugh, and Stella walked over to one of the many house phones and picked it up.
+
+“Hi, this is House 6, and I'm going to order takeout from a few different places.” Stella said. “Is there anything you would like?”
+
+“Lady, are you serious?” The guard in the shack asked.
+
+“It's supper time, and I'm pretty sure you've only got a bag lunch or something.”
+
+The guard laughed. “So you're psychic and generous.”
+
+Stella smiled. “We've got burgers, fries, pizza and Chinese food so far.”
+
+“Chinese, please.” The guard said. “Moo shu pork with plum sauce, an order of sweet and sour chicken balls, and a fortune cookie.”
+
+“Hopefully it'll be here in half an hour to 45 minutes.” Stella said. “I'll have yours put in a separate bag.”
+
+“Hey, thanks a lot.” The guard said. “This is really nice of you.”
+
+“Don't expect this every night.” Stella said. “I'm just too busy right now to cook for everyone.”
+
+“Considering I didn't expect it at all, that sounds reasonable.” The guard said. “I'll ring when they get here.”
+
+“Thank you.” Stella said and hung up, then she called the different fast food places to place the orders and paid for the food, then added the delivery and the tip.
+
+“Offering the guard food really was nice of you.” Ren said.
+
+“Can you imagine having to sit in that little booth and watch 3 food delivery trucks come though the gate?” Stella chuckled. “I thought I could hear his stomach rumble on the phone.”
+
+A low rumble was heard by the 4 of them, and the three women looked at Ren.
+
+“That was me.” Ren said.
+
+“We know.” Lisa said and laughed. “It shook the table!”
+
+The others laughed, too; then they decided to wait in the living room for the food, rather than sit around the large dining room table. Lisa went up to the third floor and grabbed the book she wanted to read and came back down to meet Ren on the couch.
+
+“I want to take you up on your offer from before.” Lisa said and held up the book.
+
+“I knew you couldn't resist my pillow-like softness.” Ren grinned.
+
+Lisa chuckled as Ren moved to sit in the corner of the couch, then held an arm open for her. She sat down slightly away from him, then eased herself back to rest partially against the couch and partially against his chest. She laid her head back onto his shoulder, and Ren laid his arm around the front of her shoulders and held her close.
+
+Ren's arm across her sternum didn't impede Lisa from moving her arms, and she opened the book to start reading. Stella sat on one of the large plush chairs beside the couch, and Gloria sat on the identical chair on the other side of the couch.
+
+“Do you mind if we watch television?” Gloria asked.
+
+“Hm?” Lisa blinked her eyes and looked up from the book. “What?”
+
+“Never mind.” Gloria said and turned on the television, and Lisa went back to her own little world.
+
+*
+
+As supper time approached, Elise's mood improved more and more. She knew it was because she hadn't seen Ren in a couple of days and she would get to spend more time with him. When she received the text from Stella about ordering out for supper, she knew it wouldn't be long before she could leave work, get a shower and change, and head over to Ren's place.
+
+Elise finished up the important things quickly, and when the clock struck 5 o'clock and beeped at her, she stopped working like a switch had been thrown. She turned off her computer monitor, grabbed her purse, and almost ran out of the office. Several people greeted her and she nodded to them, but she wasn't really paying attention. Even though she'd done a lot of things with Ren, like cuddling, holding hands, and even having sex; it still excited her to think that she could keep doing them with him.
+
+Elise left work and drove home a bit faster than she should have; but, she didn't get caught this time and arrived at home without incident. She took a quick shower, despite the fact that she knew Ren didn't care if she was sweaty, and she dug out the skimpiest underwear that she had in her underwear drawer. She grabbed a short skirt and a thin blouse, and thought about not wearing a bra.
+
+It would be a surprise for him, that's for sure. Elise thought, then she sighed. I need to keep them contained, though.
+
+Elise picked a three-quarter-cup bra and bent over to lower her chest into it, and hooked it together. When she stood up, her breasts tried to hang down and the bra held onto her.
+
+It should still be a surprise. Elise thought and finished getting dressed. She grabbed her purse and left her place to drive to Emerald Estates. It took a little longer than it should have, because she got caught behind a slow driver; but she made it in time to hopefully cuddle a little bit before the food got there.
+
+The guard opened the gate and Elise drove inside and up the road to Ren's place. She parked and went to the front door and opened it.
+
+*
+
+“Where's my cute little man?” Elise asked.
+
+“In the first living room.” Stella responded.
+
+Elise walked across the lobby and went into the living room, and saw Ren as he sat in the corner of the couch with a young woman half-laying on him and reading a book.
+
+“That looks comfy.” Elise said.
+
+“Surprisingly, it is.” Ren said and put his mouth by Lisa's ear and whispered to her. She sat up and moved over a little bit without closing the book, and Ren moved over, too. He pat the corner of the couch and Elise didn't hesitate to walk over and sit where he was. Ren leaned back into the side of Elise and rested his head on her shoulder, and Lisa leaned back as well. Elise put her arm around the front of Ren's shoulders, and he put his arm around Lisa's.
+
+“This is nice.” Elise said and held Ren close. “What are we watching?”
+
+“I have no idea.” Ren said. “It's mind-numbing, whatever it is.”
+
+Gloria snorted a laugh. “Watching how to build an aircraft carrier is not mind-numbing.”
+
+“It's an aircraft carrier?” Ren asked. “I thought it was just a big building.”
+
+“It is a big building.” Gloria said and laughed.
+
+Ren started to shake his head, and it rubbed Elise's breast. He looked at her chest, then up at her face with wide eyes. She gave him a quick kiss, and he smiled and laid his head on her chest instead of her shoulder.
+
+“The police were here a little while ago.” Ren said.
+
+“Really?” Elise asked. “That's weird. They called me earlier today to check up on you.” She said. “Why would they ask me about you and then come here themselves?”
+
+“Because they didn't know the address.” Ren said.
+
+“What?” Elise looked down at him, and he looked up. “They didn't?”
+
+“None of us told them.” Stella said. “That wasn't really intentional; but, it did leave Ren out of their sights for a while.”
+
+“They knew you moved, though.” Elise said. “Officer Holly even asked me how you liked the new place.”
+
+“She didn't ask for the address?” Stella asked.
+
+“No, and I didn't give it to them, either.” Elise said, then thought about the conversation she had with the police. “Oh, damn.” She said. “I might as well have given it to them.”
+
+“What did you say?”
+
+“That it had 5 bedrooms and a guest house.” Elise said. “Ren, I'm sorry.”
+
+Ren reached up with his free hand and cupped the side of her face. “It's okay.” He said and stroked her cheek. “I didn't tell you to keep my address a secret.”
+
+“I should have known better, though.” Elise took in a deep breath, which lifted Ren's head, and she sighed. “She tricked me so easily.”
+
+“We shouldn't have to worry about talking to her again for a while.” Ren said and smiled.
+
+“Why?” Elise asked.
+
+Ren told her about what happened, and Elise's face went from blank to intense anger.
+
+“That bitch.” Elise said. “She had no right!”
+
+“That's what I told her.” Stella said.
+
+“Then I told her to get out.” Ren said. “The detective was a lot more reasonable, though.”
+
+“Why was that?”
+
+“He gave me an apology gift.” Ren said and the phone rang.
+
+“That'll be the food.” Stella said and picked up the phone. “Yes, you're welcome.” She said. “Thank you.” She looked at Gloria. “Give me a hand.”
+
+Gloria nodded and followed Stella out of the living room and to the front door to help carry the food.
+
+“What was the gift?” Elise asked Ren.
+
+“Nothing much.” Ren said and smiled at her. “Just a folder full of documents about all of the things they've dug up about me.”
+
+“Wh-what?!?” Elise exclaimed.
+
+“When I pointed out that Detective Ramirez had led everyone to me and gave away my location, he gave me the folder.” Ren said. “Nothing will hold up in a criminal court, since there's no evidence trail... but, he said with all the lawsuits...”
+
+“Oh, Ren!” Elise hugged him. “We should go through it all right away!”
+
+“After we eat.” Ren said. “I also have something I want to discuss with everyone; but that can wait, too.”
+
+“We're using the big dining room again.” Stella said with her arms full of take out bags, and she and Gloria walked into the large dining room to set everything out. Ren leaned down and whispered in Lisa's ear.
+
+“Hm? Right, food.” Lisa said and slipped a silk bookmark into the book to save her spot. Ren let her go and she stood up. “Oh! Hi.” She said when she saw Elise sitting behind Ren. “It's nice to meet you.”
+
+“It's nice to meet you, too.” Elise said and let Ren go, and they both stood up. Lisa had to look up at Elise, and blinked her eyes at her.
+
+“Now I know what statuesque means.” Lisa said, and Elise laughed.
+
+“You're so cute.” Elise said. “Almost as cute as Ren.”
+
+Lisa's face flushed a little red, and Ren sat down in the wheelchair.
+
+“Elise? Can you...”
+
+“Of course.” Elise said and pushed the wheelchair, and the three of them went into the large dining room.
+
+“It looks like a food bomb went off in here.” Ren said when he saw nearly half of the table was covered in food dishes, and Stella chuckled.
+
+“That's what happens when you have several people that like to eat different things when given a choice.”
+
+“That's so true.” Gloria said. “I always get something different every time I go out to eat.”
+
+“Not me.” Ren said as Stella put a serving of french fries smothered in gravy in front of him. “I am so gonna pay for this tomorrow.”
+
+“You mean all week.” Stella said. “The salt content alone...”
+
+“Can you get me a supplement drink? I'll start flushing my system right away.”
+
+“Anyone want plates or real silverware?”
+
+“Right here.” Lisa said. “I know pizza is supposed to be finger food, but it's too hot to do that right now.”
+
+“Same here.” Elise said and picked through the Chinese food containers. “They forgot the chopsticks.”
+
+Stella chuckled. “The poor guard.”
+
+“What?”
+
+“He has Chinese food, too.” Stella said. “Moo shu pork.”
+
+“Oh... ha... hahaha!” Elise laughed. “I hope he has lots of napkins!”
+
+*
+
+The guard sat in the guard shack after the food trucks had left, and was both happy and sad. It really was nice of the lady in House 6 to order his favorite food for him, but he stared at the containers and didn't know what to do. Without the chopsticks, he was going to have to use his fingers when the food cooled off, and he didn't have anything like a napkin if he did use his fingers.
+
+Someone knocked on his door and he looked out the little window. Gloria stood there with a knife, spoon and fork wrapped in a bundle of napkins, and he opened the window for her.
+
+“Stella from House 6 will pick these up in the morning.” Gloria said and handed the silverware to the guard.
+
+“Thank you so much.” The guard said. “You don't know...”
+
+“Hot moo shu pork and fingers don't mix.” Gloria said and started to walk away. “Enjoy.”
+
+“I will!” The guard almost yelled and sat back. “Well, it's official. The people in House 6 are really nice.” He said and chose the fork to start and took a huge bite.
+
+*
+
+“What did he say?” Ren asked when Gloria came back into the dining room.
+
+“Just thank you.” Gloria said. “But, if he wasn't in the guard shack, I'd swear he would have tried to hug me or something because he looked so happy.”
+
+Ren chuckled and picked up another gravy-covered french fry from a huge plate of them and sucked it in.
+
+“Are you going to eat that whole thing?” Gloria asked, and everyone else laughed.
+
+“Of course he's going to eat it all.” Elise said and rubbed Ren's belly. “Endless Stomach hasn't lost a fight against fries yet!”
+
+Ren laughed. “It was a draw once, but I slaughtered Endless Fries the next time.” He said. “Only this much? I'll barely feel it.”
+
+The whole group of them, Ren, Stella, Elise, Lisa, and Gloria, enjoyed a good meal that consisted of all different dishes; they also shared good company with each other as well.

@@ -1,0 +1,325 @@
+---
+id: 44d2b1d1-98b9-5888-b7a4-2ef47c226215
+page-type-slug: story-chapter-royal-road
+title: "Chapter 371 - Gloria, Come On Over"
+slug: 0365-chapter-371-gloria-come-on-over
+partOf: mythrans-master-of-all-continued-completed
+position: 365
+ownLength: 3532
+unit: words
+publishedAt: 2017-09-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164612/chapter-371-gloria-come-on-over"
+royalRoadId: "164612"
+---
+
+They finished their game of bowling and Ren reminded them that Lisa still needed a tour of the place. They left the bowling alley and went across the hall to the movie theatre with 20 leather recliners.
+
+“We'll be watching the next episode of my show in here.” Ren said.
+
+“That should be fun.” Lisa said.
+
+They left there and Ren pointed to Stella's room. “That's Stella's room.” He said. “She's not living here, but when she's here, I like having her close by.” He pointed across the hall. “That room is empty, but I'm pretty sure Elise might take it. I mentioned her having a room here, but I don't think she wants to actually move in or anything.” He said and pointed. “Of course, that's my room and you've already been in there.”
+
+Lisa nodded. “I saw a third floor in the elevator.”
+
+“We can go there next.” Ren said, and Stella pushed him back down the hall to the elevator. They got in and went up to the third floor.
+
+“Wow, these lobbies could be their own huge rooms.” Lisa said when they stepped out into the third floor lobby.
+
+“I'm sure we can figure out something to do with all this space.” Stella said.
+
+“These two rooms are like the large bedrooms on the second floor.” Ren said and told Lisa to open the door to one of them.
+
+“Oh, wow.” Lisa said. “This... it's like...”
+
+“A really expensive hotel.” Stella said as Lisa walked around and looked at everything. “Mini-kitchen, really large attached bathroom, living area, and bedroom.”
+
+“I was going to say swanky apartment.” Lisa said and came back over to them. “A fancy hotel fits, too.”
+
+Ren nodded. “I've offered a room to Denise, too.” He said. “It's the same deal as Stella at the moment and she hasn't said yes or no; so, I don't know if she wants it to be more than that.”
+
+“Is it the sharing living space that's made her nervous, or the not having to go home part?” Lisa asked.
+
+“I'm pretty sure it's both.” Ren said. “It's a big commitment to store some of your stuff at someone's place, let alone be asked to stay during the week to make it easier for the commute.”
+
+Lisa nodded. “Yeah, that would be a big step.”
+
+Stella pushed Ren down the short hall to the door at the end.
+
+“This is the den.” Ren said and Lisa opened the door.
+
+“Whoa.” Lisa said. “It's a library.”
+
+Ren chuckled. “I haven't gone through anything yet, and I was debating on making this a VR room...”
+
+“Don't you dare!” Lisa said and looked at the shelves of books. She walked over to one, reached a hand out, and took one of the books off the shelf. She held it up to her nose and sniffed.
+
+“I love the smell of books.” Lisa said, then hugged the book to her chest. Ren saw the title was Moby Dick, but refrained from making a joke about it.
+
+“If you want to visit and read books, you're more than welcome to.” Ren said.
+
+“Really?”
+
+“Sure.” Ren said. “I'll be sad that you'll come here to see the books and not me; but, it'll make you happy, so I'll hide how I feel about that.” He said and grinned at her.
+
+“Ren.” Lisa put the book back on the shelf and walked over to him. She knelt by his chair and took his hand. “Even if I spent all of my time sitting here and reading, I'd still have come here to see you.”
+
+“I know.” Ren said. “I was just kidding.”
+
+“You know what they say. Half in jest, half in seriousness.”
+
+Ren smiled, and touched the side of her face. “Then, I'll extend the same invitation to you that I gave my nurses.”
+
+Lisa smiled for a moment, and then her eyes widened. “Wait, what?”
+
+“I have at least one, and possibly two spare rooms left.” Ren said. “I know you have to travel pretty far to get here just to visit for a few hours. Now, with all these books to entice you, maybe you'd like to have a sleepover.”
+
+“Are... are you...” Lisa took a quick breath. “Did you just ask me to move in with you?”
+
+Ren nodded. “It'll be one of the two rooms here on the third floor. I don't know how your mother would feel about making it permanent, though.” He said. “So, maybe a trial run to see if you'll like living here first before making the commitment?”
+
+“I... Ren, I...”
+
+“You don't have to answer right away.” Ren said. “It's not like this offer is a limited time deal and will expire if you don't answer.”
+
+Lisa stared at him and didn't know what to say.
+
+“I think it's time for lunch.” Stella said. “Let's go down to the kitchen and grab a quick bite to eat.”
+
+“Sounds good.” Ren said and pointed to the door. “Push me, my devoted servant!”
+
+“I'll push you, all right... right down the stairs... if you ever call me your 'servant' again.” Stella said and grinned evilly at him.
+
+“It... it was a joke.” Ren said and looked at her with worry on his face. “Stella, I'm sorry. I... I didn't mean... you know I... that... that I...”
+
+“Gotcha!” Stella chuckled, and Ren looked at her with wide eyes.
+
+“That... that wasn't funny.” Ren's voice wavered and he started to hyperventilate as he put his head in his hands. “I thought... I offended you... and I never meant... to do that.” He said and rubbed his face several times. “I'd never... ever... offend you.”
+
+“Ren?” It was Stella's turn to have worry on her face, and she knelt down beside him. “Are you okay?”
+
+“I'll... I'll watch what I say... from now on.” Ren said and took several deep breaths to calm down, then he looked at Stella with a blank face. “I won't make the same mistake again.”
+
+“Ren...”
+
+“Please take me to the kitchen.” Ren said in a normal voice. “I'm kind of hungry, and I'd appreciate it if you made me something.”
+
+Stella and Lisa exchanged glances, then they both stood up. Stella pushed the wheelchair down the hallway and they all went into the elevator. They arrived at the ground floor and walked by the weight room, both living rooms and dining room, then went into the kitchen. Stella parked Ren at the kitchen table, and started to make lunch for the three of them.
+
+“Lisa? How long can you stay today?” Stella asked and took out a baking sheet, covered it with parchment paper, and put a dozen frozen chicken strips and several handfuls of frozen french fries on it.
+
+“I told my mother I'd be out of her hair until tonight.” Lisa said.
+
+“What did she say to that?” Ren asked.
+
+“She was too busy spitting and sputtering to say anything.” Lisa said, and Ren snorted a laugh.
+
+“You're so bad.” Ren said and put a hand on the table, then turned it over to offer it to her.
+
+“Damn right I am.” Lisa said as she took the offered hand and held it. “I should have recorded it for you.”
+
+“Oh, she'd kill you for sure!” Ren said and laughed. Lisa squeezed his hand slightly and they talked about what they could do for the afternoon.
+
+*
+
+Gloria had picked up her graduation diploma from the Dean of Sciences office that morning, and had to wait an hour for the copy place to open. She had 3 copies made, then had the original laminated. She went to the picture frame store and splurged a little bit as she bought an expensive frame for it. They covered it in protective wrap to make sure the glass didn't break, and she stored it and the copies in her trunk. She drove home at a moderate speed, but in her head she had floored the gas the entire time. She pulled into her parking space at her apartment complex, grabbed her real diploma, and ran up the stairs. She went into her place and then into her living room.
+
+Gloria looked at the blank wall and thought about the best place to hang it up... then remembered where she lived. If she left something this valuable to her just hanging on the wall where anyone would see it, was just asking for someone to steal it on her. She sighed and took the still wrapped diploma into her bedroom, opened the middle drawer, and tucked it under the clothing inside.
+
+When it was well hidden, Gloria walked out to her living room and sat down at her computer. She'd already booked off work at the garage for the day, mainly because she knew she'd be too distracted about getting her diploma.
+
+I got my diploma. Gloria thought. My actual diploma. She shook her head. I can't believe I actually finished. She took a deep breath and smiled. I did it!
+
+A beep sounded and Gloria saw the ad for the new processor that Ren had mentioned to her last week, and she laughed.
+
+Let's get to work! Gloria thought and delved into the technical specs for the new chip, to see if it would be an improvement over her modifications. After several hours of comparisons, tracing where the chips would improve what she had, and seeing where it would actually be a detriment to what she had designed, she decided that the new chip wouldn't be a good investment. The pros and cons balanced each other out, and the net gain for the research project wasn't enough for her to justify the expense.
+
+Even though she was a little sad that it wouldn't be something new she could play with, it had been fun to try and discover if it could be. With that important task done, she gathered up her VR headset and it's components to put them in a box, put a change of clothes and a bathing suit in a bag, then left her apartment.
+
+I hope he doesn't mind if I show up a little early. Gloria thought and put the box and bag in her trunk. She hopped in the car and drove out of the parking lot to head across part of the city. The traffic wasn't too bad on the back streets, despite it being lunch time, and she indulged her need for speed and stepped on the gas.
+
+*
+
+“That was great, Stella.” Ren said and rubbed his belly. “My stomach was a little sad there wasn't gravy for the fries, though.”
+
+“I'm so sorry you had to suffer like that.” Stella said and they all laughed. “So, did you decide what you wanted to do this afternoon?”
+
+“Not really.” Ren said. “I offered to lounge on the couch in the den and let Lisa use me like a pillow while she read a book; but apparently, I'm not really pillow material.”
+
+“That's not what I said.” Lisa rolled her eyes. “What I said was-”
+
+The phone rang and interrupted her, and Stella picked it up.
+
+“Yes, you can let her in. Thank you.” Stella said. “Gloria's here.”
+
+Ren looked at the clock. “Hey, she's only 6 hours early.” He said and chuckled, and Stella pulled his chair away from the table.
+
+“I'll wait here.” Lisa said.
+
+“What for?” Ren asked. “Gloria's just a friend.”
+
+“With benefits.” Lisa said.
+
+“Only in the game.” Ren said and motioned for Lisa to come with him. “I've never slept with her for real.”
+
+“Do you want to?” Lisa asked and followed Ren and Stella across the house and to the front door.
+
+“Yes.” Ren said. “But, she's also Stella's and my employee. I respect her decision to keep things professional, and I won't push her for anything else besides what we already have.”
+
+“And what do you have?” Lisa asked.
+
+“When she needs me in the game, I do everything I can for her.” Ren said. “At least, that's the way it used to be.” He said. “Once I leveled her ability to Master, things... kind of changed between us.”
+
+“She doesn't need you as much anymore.” Stella said, and Lisa and Ren looked at her. “Feelings between people change when their needs change.” She said wisely. “Look at what happened between you and Lucy, Ren. When she left and she didn't need to take care of you anymore, she lost what it was she cared about the most.”
+
+“You don't mean me, do you?” Ren asked.
+
+“No, Ren. I'm sorry.” Stella said and put a hand on his shoulder. “What she lost was the need to be needed.”
+
+Ren sighed. “I still needed her, though; and she hurt me so badly when she broke it off like she did.”
+
+“I know.” Stella said, and the doorbell rang.
+
+“I'll get it.” Lisa said and opened the door as she stepped back and out of the way.
+
+“I did it!” Gloria said when the door opened, stepped inside and put down the box and bag she had, then bent over to hug Ren.
+
+“I'm so happy for you.” Ren said and hugged her back. “You deserved it.”
+
+“She sure did.” Stella said, and Gloria let Ren go, then gave Stella a hug, too.
+
+“It's all thanks to you.” Gloria said. “If you hadn't spoken to the Dean of Sciences...”
+
+“I had to.” Stella said. “He's the head of the peer review for the research project. If I didn't speak to him, our license would be revoked just like that.” She said and let Gloria go to snap her fingers.
+
+“He told me it was your recommendation that got me the extra credit for my last two courses.” Gloria said.
+
+“Ha.” Stella said. “I'm pretty sure the report on your work did that.”
+
+“You're not going to let me give you any credit, are you?” Gloria asked.
+
+Stella put a hand up and held her thumb and index finger an inch apart. “I'll take a little bit.”
+
+Gloria chuckled, and turned when the front door shut behind her. “Oh! Hi, Lara.”
+
+“Hi, Elerlyth.” Lisa said, and Gloria snorted a laugh.
+
+“I'm sorry.” Gloria said. “You look too much like your game character.”
+
+“I don't have my elfin pointed ears, though.” Lisa smiled and brushed her hair back to show off her ears, and Gloria laughed.
+
+“So, you're a little early.” Ren said and Gloria looked back at him.
+
+“I hope you don't mind.” Gloria said. “I was too excited about getting my diploma to work today.”
+
+“I don't mind at all.” Ren said. “We were just trying to decide what to do this afternoon.”
+
+Gloria bent down and opened the box she had brought, then took out a copy of her diploma to hand to Stella.
+
+“Is this supposed to kick off the renegotiation of your student researcher contract?” Stella asked and Gloria grinned.
+
+“It's just for your records. We can discuss work when we get to work.”
+
+“It'll be Sunday this week.” Stella said and looked at the box and it's contents.
+
+“We've got a mission with Ren's new party in the game tonight.” Gloria said. “Rather than go home after his show and take the chance I might miss the start of it, he asked me to stay over and play here.”
+
+Lisa looked at Ren. “You didn't ask me to do that.”
+
+“That's because you're too important to me, and the game, to risk your life going on a dangerous adventure.” Ren said and held a hand out to her. “At least, not until I fix a few things up for you first.”
+
+“Oh?” Lisa stepped close and took his hand. “Like what?”
+
+“I'm not spilling game secrets outside the game.” Ren said.
+
+Lisa laughed, because he was using her own argument against her. “I'll find out the next time I see you in the game.”
+
+“I should have everything done by then.” Ren said and looked at Gloria. “We should log in a little early so that I can redo your armor a little.”
+
+“Please tell me it's new enchantments like your armor!” Gloria said.
+
+“Maybe.” Ren said, and she laughed.
+
+“We are going to kick ass tonight!”
+
+Ren looked at Lisa and squeezed her hand. “It's going to be difficult, even with the extra enchantments.”
+
+“All the better.” Gloria said and picked up her box and bag. “It wouldn't be any fun without a little danger thrown in.”
+
+“Let me take that up to Ren's room.” Stella said and pointed to Gloria's box. “I've got to put your diploma in my room and I can take that up, too.”
+
+“Thanks.” Gloria said and handed her the box.
+
+“If your VR stuff is in the box, what's in the bag?” Ren asked.
+
+“A change of clothes and a bathing suit.” Gloria said. “Just in case.”
+
+“A dip in the pool would be nice.” Ren said and looked at Lisa. “Did you bring your respectable swimsuit?”
+
+“Respectable?”
+
+“I mean, not the naughty one.” Ren said and smiled. “I hope you brought both of them; but, that one would be difficult to actually swim with.”
+
+“I can swim in it.” Lisa said.
+
+“I meant me.” Ren grinned. “There's no way I can swim properly if you're wearing it.”
+
+Lisa laughed and grabbed her backpack from the coat rack by the door with her free hand. “Yes, I have an actual swimsuit in my backpack, you pervert.”
+
+Ren laughed, too. “Then swimming it is.” He said and looked at Stella. “When you're done upstairs, can you bring me a pair of swim trunks? Please?”
+
+“Sure, Ren.” Stella said.
+
+“Thank you.” Ren said. “I won't go near the water without you there.” He said. “I'll wait out by the change rooms for you.”
+
+Stella nodded and walked over to the elevator and got in.
+
+“Now... which of you strong beautiful women wants to push my chair?”
+
+“You don't have to butter us up.” Gloria said. “Lisa?”
+
+Lisa shook her head. “It's a little too awkward for me to handle.” She said. “I don't think I can handle it enough to get it out the door without hitting something, anyways.”
+
+Gloria nodded and stepped behind the wheelchair and pushed Ren, while Lisa walked beside the chair and held Ren's hand.
+
+She hasn't let it go since he offered it to her. Gloria thought. Is he doing it on purpose? She asked herself. Is he trying to make me jealous? She looked at him and at Lisa, then remembered what had happened when she had jumped to conclusions in the game. No, I'm sure he's not.
+
+Lisa had to let Ren's hand go to open the patio door, and Gloria pushed him out through it and over to the change rooms.
+
+“Gloria? Set the wheel locks, please.” Ren said, and she did. “Thanks.”
+
+“I'll get changed first.” Lisa said and went into the closest change room.
+
+“You don't have to wait, Gloria.” Ren said. “I'm fine by myself for a couple of minutes.”
+
+“What if I wanted to talk to you?” Gloria asked. “In private.”
+
+“Unless you've got a sound-proof room in your pocket, it'll have to wait until we have some privacy.” Ren chuckled. “Because that's not going to happen right now.”
+
+“Thanks for waiting.” Stella said after she came out of the house. “Ren, here's your trunks.”
+
+“Thank you.” Ren said and stood up. “I'm taking the center stall.”
+
+“Go ahead and change, Gloria.” Stella said. “Lisa should be...”
+
+“...already changed.” Lisa said and came out wearing the bathing suit she hadn't shown Ren. It was the red one with the push up top. Stella nodded to her and stepped into the change room, and Gloria went into the first one to change.
+
+“Oh, wow.” Ren said when he came out of the middle change room and saw Lisa. “You always look nice; but, you look really nice.”
+
+“I'm glad you like it.” Lisa said and turned around to show him all of it.
+
+“If I'd asked you to do that, you would have smacked me.” Ren chuckled and sat down.
+
+“Yes, I would.” Lisa said and smiled. “Are we actually swimming, or are we soaking for a while?”
+
+“A little bit of both, I think.” Ren said. “I'm just waiting on... helllllooooo, nurse!”
+
+Stella stepped out wearing a bathing suit he'd never seen before. As far as Ren could tell, it was a piece of fabric in the shape of a capital 'T'. That was it. There were no straps over the shoulders and no straps around the hips. Just fabric that surrounded her breasts to completely cover them, and a strip of fabric that went from that, down her belly, between her legs, and up the other side.
+
+Stella did the same thing as Lisa, and performed a little twirl to show Ren all the way around. He did a good imitation of a wolf whistle for her, and she laughed.
+
+“I think he likes it.” Stella said.
+
+“Maybe I should have worn the naughty suit.” Lisa said. “How is that even staying up?”
+
+“Wishful thinking.” Stella said, and they laughed.

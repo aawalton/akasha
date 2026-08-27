@@ -1,0 +1,249 @@
+---
+id: 33a8cdcc-d874-5808-9843-a8272981eb41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 Responsibility"
+slug: 0005-chapter-4-responsibility
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 5
+ownLength: 2234
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191548/chapter-4-responsibility"
+royalRoadId: "3191548"
+---
+
+When Alicia returned with a bundled stack of books clutched to her chest and uncertainty written plainly across her face, Lucien realized he had made a mistake.
+
+This world, as far as he could determine, remained firmly rooted in a medieval age. The tools, the architecture, even the way knowledge was recorded suggested as much.
+
+His order to Alicia had been clear in his own mind. ‘Bring me any books, records, or ledgers related to the land. Farming practices. Harvest yields.’
+
+How, exactly, was she meant to do that? How was she meant to distinguish one book from another when she likely could not even read the titles?
+
+The realization settled heavily in his chest.
+
+He could already imagine how it must have gone after she had received the order.
+
+Alicia would have hurried off at once, without hesitation, eager to fulfil her lord’s command.
+
+Her soft, hurried steps would have carried her straight to the library, urgency driving her forward until she stood helplessly before rows upon rows of books she could not understand.
+
+For someone like her, the manor’s modest library must have felt vast.
+
+Overwhelming. A place meant for people entirely unlike herself. She was a farmer’s daughter, not a scholar or a clerk. Books were not tools she had ever been taught to wield.
+
+He could picture it all too clearly in his mind.
+
+'So many books,' she must have murmured to herself, the words trembling with uncertainty as her eyes darted from shelf to shelf.
+
+Spines packed tight together. Titles written in careful script she could not decipher.
+
+He imagined her standing there, frozen, panic creeping in as tears threatened to spill. Choosing wrongly. Failing. And knowing the cost would not be hers alone, but her father’s as well.
+
+‘Is it this one? Or this one?’
+
+Rushing back and forth, hands trembling as she lifted volumes that looked older than her own lifetime, wary of dropping them or damaging what must surely be precious.
+
+Lucien exhaled slowly.
+
+He had taken too much for granted in his former world. There, instructions could be vague, corrected with a message or a follow-up explanation.
+
+Here, words carried weight, and misunderstandings had consequences.
+
+This would not be the last time such a thing happened, he realized.
+
+If he wanted to rule effectively, he would have to learn to think as they did. To speak in terms that could be understood, not assumed.
+
+He could not blame Alicia for this.
+
+Lucien had never been the sort of person to blame his juniors for failures born of his own unclear orders. He had suffered under enough of those himself.
+
+‘Like that one manager,’ he thought bitterly, the one who demanded results without guidance and scolded every mistake that followed.
+
+And yet, intent mattered little in the moment.
+
+Judging by the look on Alicia’s face as Lucien examined each book in turn and set it aside without opening a single one, she was already convinced she had failed.
+
+With every book added to the growing pile, her shoulders sank further. By the time he reached the last, a glimmer of tears had gathered at the corners of her eyes, as though judgment had already been passed.
+
+‘Damn it.’
+
+‘I look like I am bullying her,’ Lucien cursed to himself. ‘I don't have tastes like that!’
+
+It was not as though he was doing this on purpose!
+
+He needed to see whether she had brought anything even remotely close to what he had asked for, and now it looked as though he was doing it just to torment her.
+
+In the end, he yielded to his embarrassment, along with the need to ease the moment and offer what small kindness he could afford.
+
+When he reached the final book, Lucien opened it at last, pretending to read the title with interest, as though it was precisely what he had been searching for.
+
+It was not.
+
+The cover was wrapped in striking red leather, smooth and faintly worn at the edges, the title pressed into it in delicate gilt script.
+
+Judging by the name alone, it was a novel. This world’s version of one, at least.
+
+Still, the small deception was worth it. Alicia’s expression brightened at once, like a wilted flower given water after a long drought.
+
+Lucien cleared his throat and flipped a page, feigning concentration.
+
+“Alicia, good work,” he said evenly. “Please return the rest, and ask Elias to assist you in finding the appropriate records.” he added, deliberately making no comment of the pile next to him.
+
+“Y-yes,” she replied at once, her voice light with relief as she gathered the rejected books, cheeks faintly flushed with embarrassment.
+
+She waddled out under the weight of the stack, nearly as tall as she was, her exit shy and awkward in equal measure.
+
+It might have been endearing, if Lucien was not the one responsible for it.
+
+‘I have vanilla tastes,’ he reminded himself firmly.
+
+The door closed with an unceremonious sound, followed by a faint muffled eep from the other side. Likely the same mistake in whatever etiquette servants were meant to follow.
+
+Lucien let out a breath, turning a page as though absorbed in the text.
+
+This world, he was beginning to realize, demanded more than poor attempts at borrowed authority.
+
+It demanded awareness of how easily a careless word or unexamined order could become a mistake he would not be allowed to take back.
+
+“Here are the books you requested, my Lord.”
+
+Lucien had only just settled into his reading when the voice reached him. It was not Alicia’s soft, tentative tone this time, but Elias’s measured politeness cutting through his concentration.
+
+A shame.
+
+The novel had been unexpectedly engaging. A little too indulgent in its prose, perhaps, and far more poetic than his personal tastes inclined toward, but compelling nonetheless.
+
+More importantly, he had been able to read it.
+
+When he had first opened the book yesterday, there had been a flicker of doubt. The script was unfamiliar at a glance, the characters shaped differently from anything he consciously remembered learning. For a brief moment, he had wondered whether he would find himself stranded in a world whose language he could speak but not decipher.
+
+The fear had lasted only a heartbeat. The words yielded their meaning as though they had always belonged to him.
+
+What surprised him more was the perspective. The story unfolded through a woman’s voice, her thoughts and emotions laid bare with an intimacy he had not expected from a world like this.
+
+He did not yet know how women were treated in Arcencia, let alone on the frontier, but he suspected their reality was far harsher than what he had once known. The contrast lingered with him even as he reluctantly set the book aside.
+
+Lucien leaned against his chair. “My thanks, Elias. The ledger first, if you would. And a text detailing local farming methods.”
+
+The difference between Elias and Alicia was impossible to ignore.
+
+Where Alicia moved with anxious enthusiasm, fumbling through her duties with an earnest desire to please, Elias embodied restraint. Every motion was economical, deliberate, and refined through years of repetition.
+
+He did not rush, nor did he linger. He simply did what needed to be done.
+
+Lucien could not deny that, on a personal level, Alicia’s awkward attempts had been endearing in a way that tugged uncomfortably at his conscience.
+
+It reminded him of interns and juniors from his old life, eager, inexperienced, and terrified of making mistakes that felt far larger than they truly were.
+
+Professionally, however, Elias was everything a lord could want.
+
+Before the ledger even touched the desk, Elias had already produced an ink pot and quill, setting them neatly to one side. Fresh parchment followed, placed precisely within Lucien’s reach, aligned just so.
+
+The movements were smooth, almost seamless, each action flowing into the next with a grace that suggested long habit rather than conscious effort.
+
+Lucien found himself momentarily distracted by the precision of it all.
+
+Honestly, he had no idea where Elias kept producing these items from. It was as though they simply appeared when needed.
+
+Only after everything else had been arranged did Elias place the ledger before him, followed by the remaining books stacked neatly off to the side. The placement was intuitive, efficient, as if the steward had mapped the arrangement in his mind well before entering the room.
+
+The routine faltered only when Elias’s gaze flicked, briefly and involuntarily, toward the red leather book Lucien had been reading earlier.
+
+The pause was slight, barely more than a single breath, but Lucien caught it.
+
+It reminded him of watching a well written program he personally coded encounter unexpected input, hesitating before deciding how to proceed.
+
+“Is something the matter?” Lucien asked, brow furrowing slightly.
+
+“Should I return this to the library for you, My Lord?” Elias offered tentatively, as he gestured toward the novel.
+
+Lucien hesitated at the offer. He wasn’t that attached to the story but the reason he was reading it in the first place was the cause of his hesitation.
+
+Alicia’s small relief earlier, the way her expression had brightened at the mere illusion of success, lingered uncomfortably in his thoughts.
+
+If she were to see the book back on the shelf too soon, it would not be difficult for her to connect the dots.
+
+“No,” Lucien said after a moment. “Leave it.”
+
+The decision was firm, immediate. With Alicia, he could afford softness. With Elias, hesitation would invite questions he was not prepared to answer.
+
+“Of course,” Elias replied.
+
+Taking Lucien’s casual wave as dismissal, the steward withdrew. The door closed behind him with practiced care, quiet enough that Lucien barely noticed.
+
+He was already absorbed again.
+
+Once he had an objective in front of him, everything else tended to fade away. Research had always been his strength.
+
+In his old world, it had been the thing he could lose himself in completely, hours slipping by unnoticed as he chased understanding and solutions.
+
+He enjoyed it.
+
+Perhaps a little too much for his own good.
+
+There was a reason he had worked himself to death, after all.
+
+His friends had worried. His family had scolded. He had brushed it all off at the time, convinced that responsibility justified exhaustion.
+
+Relationships had suffered for it. Opportunities he never took, moments he never slowed down enough to appreciate. That too was part of the price he had paid.
+
+‘It seems the technological level here truly is lacking,’ Lucien inwardly noted as he scanned the ledger.
+
+The records were sparse, uneven, and frustratingly inconsistent. Measurements varied. Terminology shifted between entries.
+
+Much of the information appeared to have been copied from neighbouring territories rather than observed first hand, with assumptions layered atop assumptions.
+
+He frowned.
+
+This was not the organized data he was used to. There were no standards, no centralized system, no reliable baseline to work from.
+
+Of course there wouldn’t be one. This world did not have the luxury of shared knowledge on a planetary scale.
+
+It did not have instant communication, vast infrastructure, or institutions devoted solely to refinement and optimization. Here, survival dictated priorities.
+
+Between Beast Tithes, territorial skirmishes, and constant instability, consistency was a privilege few could afford.
+
+Fields were planted because they had always been planted that way. Methods were followed because they had worked well enough to keep people alive.
+
+Progress, if it came at all, came slowly.
+
+As Lucien worked through the texts, trying to reconcile conflicting information and extract anything usable, the sheer weight of his ambition settled in.
+
+The amount of knowledge he needed was staggering. Not just farming techniques, but soil management, labour distribution, storage, logistics, seasonal planning. And that was only the beginning.
+
+Simply acquiring that knowledge would be an uphill battle.
+
+No internet. No libraries filled with comparative studies. No mentors he could consult freely without suspicion. Everything would have to be learned piecemeal, tested cautiously and introduced gradually.
+
+But giving up was never an option.
+
+He was responsible for more than his own wellbeing now. Five hundred lives rested, however unfairly, on the choices he made, on the thoughtless orders he could not afford to give, and on the effort he was willing to pour into a land handed to him as punishment.
+
+He knew there was a better way.
+
+Lucien had lived in a world where famine was rare, where systems existed to catch failures before they became tragedies. A world that was not perfect, but far gentler than this one.
+
+That knowledge was a burden as much as it was a gift.
+
+The word Responsibility had defined him once. It had driven him beyond his limits, hollowed him out, and finally killed him.
+
+And yet, here he was again.
+
+He could walk away. He could rule as others did. Maintain the status quo. Let winter take what it would take, blame circumstance, and survive another year.
+
+But he would know.
+
+He would know he could have done more.
+
+So he would try.
+
+Even if it broke him.
+
+Even if it killed him again.
+
+If this land, and perhaps this world, had to be dragged forward kicking and screaming into something kinder, then so be it.
+
+And it would begin here. With soil and grain, ledgers and half truths, and the slow, grinding work of understanding how this land fed itself.
+
+One book at a time.

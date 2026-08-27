@@ -1,0 +1,297 @@
+---
+id: 3cfd956a-5e70-5312-a8f3-b153a0950659
+page-type-slug: story-chapter-royal-road
+title: "Chapter 534 - Back in Full Capacity"
+slug: 0534-chapter-534-back-in-full-capacity
+partOf: mythrans-master-of-all-continued-completed
+position: 534
+ownLength: 2845
+unit: words
+publishedAt: 2018-03-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/202928/chapter-534-back-in-full-capacity"
+royalRoadId: "202928"
+---
+
+It didn't take long for supper to be ready, and everyone went back up to Ren's room to eat. Stella carefully fed Ren and herself from the same plate; her with the roast beef, him with the gravy fries. It was quiet in the room while they all ate, and the only sounds were breathing and the clinking of utensils on plates. Barbara asked to see the footage of what happened, and Elise played it for everyone to watch. When they were done eating, Barbara gathered everything onto the push cart.
+
+“I think going back into the game so soon might not be a good idea.” Stella said. “Lisa's right. Your brain is not going to register properly.”
+
+“I'll take the chance.” Ren said. “Hopefully I'll adjust much faster because of the time compression, and my body should stop this damn twitching by the time I log back out.”
+
+“I'm going to contact the CEO of Sid Tec and tell him what happened.” Elise said.
+
+“No, don't.” Ren said.
+
+“What? Why?”
+
+“Isn't it obvious? He'll shut the game down.” Ren said.
+
+“But...”
+
+“It's not the game's fault that I'm susceptible to hypnotic suggestions.”
+
+“Ren, you were attacked...”
+
+“Was I?”
+
+“Ren!”
+
+Ren smiled at Elise's indignation on his behalf and looked at their clasped hands. She hadn't let go of him the entire time, despite him squeezing too hard at first. “We both know that even with the video, it's still subjective about what actually happened.”
+
+Elise shook her head. “We have several witnesses that saw what took place.”
+
+“Yes, and it can be argued that it was my people that attacked first, and not her.” Ren said. “I'm glad Officer Holly gave us the rest of the footage, but having the rest of the people there killed is not in my favor.”
+
+“Ren...”
+
+“No, it's okay.” Ren said. “There's definite proof of witness tampering at the very least.” He smiled at her. “You can use that wonderful brain of yours to come up with the best way to handle this situation.”
+
+“Don't worry, I am.” Elise smiled wickedly. “You can try to go into the game for a while, and if there's no problems, I'll meet you in there later.” She said. “In the meantime, I've got some calls to make and some video files to transfer.”
+
+“Make sure you tell them that I'll give a full deposition with all the details of what happened to me, and I'll tell them who's responsible and everyone else that's involved.” Ren said, and Barbara coughed. “When I'm able to.”
+
+“I'll make sure that's the first thing I tell them.” Elise said as she reluctantly let his hand go, and looked at Barbi. “Let's get back to work.”
+
+Barbi nodded and the two women stood up.
+
+“Wait.” Ren said, and they looked at him. “I'm going to experience something with Xuunah tonight, and I don't want anyone to get mad about it afterwards.”
+
+“What are you going to do?” Elise asked.
+
+“We're not going to have sex, since it's apparently forbidden for Light beings to sleep with mortals.” Ren said. “At least, I don't think it'll be sex.”
+
+“Just spit it out.” Stella said.
+
+“I think I found a work around for it.” Ren said.
+
+“You and that mind of yours.” Stella chuckled. “Always looking for loopholes.”
+
+“I kind of have to, considering everything that happened and the restrictions I've had to deal with.”
+
+“So, it might be sex, but you're not sure?” Elise asked.
+
+Ren nodded. “I think it's going to be more of a deep emotional sharing instead of physical.”
+
+“You're going for Nathalia's mother figure... again?” Denise asked, a little disheartened.
+
+“I'd like to say that it's not my fault that I have a mother complex; but, it totally is.” Ren said and smiled. “Plus, they're pretty hot.”
+
+“Excuse me?” Barbara put her hands on her hips.
+
+Ren raised a hand in surrender. “Let me correct that statement and say that I think other people's mothers are pretty hot.” He said to placate her, and saw her relax. “I'm not going to say something like that about my own mother, even if it's true.”
+
+Barbara's face went red at his words. After a moment, she nodded slightly and pushed the cart out of the room.
+
+“That was nice of you.” Stella whispered, and Ren smiled a little.
+
+“I'll be discussing it with Nathalia first anyways, and she might say no... but, I wanted to talk to you all before approaching her or Xuunah about it.”
+
+“Why now?” Elise asked.
+
+“You're all here... except for Gloria... so it seemed like the right time to ask.”
+
+“Are you going to do whatever this is when you log in?” Lisa asked.
+
+“No, but it might happen later, or not at all.” Ren said. “I'm just making sure you know about it, so if it does happen, it's not a shock for everyone or something I've done without your knowledge.”
+
+“You're just covering your bases, to use a sports analogy.” Barbi said, and Ren nodded. “You're a strange one.”
+
+Ren chuckled. “You know that old saying, you don't know the half of it? Well, you don't know 1/32nd of it.”
+
+Barbi looked at him with a bit of a frown on her face.
+
+“I mean, you barely know me at all.” Ren said. “I wasn't saying that you're dumb.”
+
+“Oh.”
+
+“Come on, Barbi. Let's get things rolling.” Elise said. “I'm glad lawyers work late on Saturdays.”
+
+Barbi nodded and the two women left the bedroom at a fast walk.
+
+*
+
+Officer Holly had logged back into the game to tell Xuunah and the others what was going on, and that Ren's condition was stable. She stayed there for 4 game hours, then logged back out to check her messages. She was relieved to hear that Ren was awake and getting something to eat, so she logged back in to let everyone know he was going to be okay.
+
+*
+
+“You're going to have to use the bedpan again.” Ren said to Stella when she moved out from cradling him to let him lay back on the bed. “There's no way the foil packet is going to be good enough.”
+
+Stella snorted a laugh. “Are you planning another marathon session?” She asked. “You can't seriously think...”
+
+“I'm assuming there's going to be a lot going on.” Ren said. “After Lisa in the Sanctuary, I still have to visit Jennifer at the club tonight.”
+
+“Oh, damn.” Stella said. “Billy.”
+
+Ren nodded. “After that is Elise in Aurora. It'll be our first time together in the game, so you know I have to impress her.”
+
+Stella chuckled and nodded.
+
+“Since I'll be in town, I'll probably visit Anabelle afterwards.”
+
+Stella shook her head. “How can you keep them all going?”
+
+“Some of them are patient with me, thank god.” Ren said. “Anabelle especially.”
+
+“I don't know how you can please so many of us all the time.” Lisa said.
+
+“I do.” Ren smiled. “I was conditioned for it.”
+
+“Wh-what?” Denise stared at Ren, then looked at Stella's contemplative face, and Lisa's understanding one. “Wait, you two knew?”
+
+“Not really.” Stella said. “I've been suspecting something of the sort, especially after...” She exchanged looks with Lisa. “Well, let's just say my thoughts have been going along similar lines, like he was made to please women.”
+
+“It didn't start out that way.” Ren said. “I mean, look at me.” He said and the three women looked at him. “Do I look like an appealing sexual partner at first glance?”
+
+Denise was the only one to blush, but he knew Elise would have been in the same category.
+
+“Ah... to most women.” Ren corrected, and Stella chuckled.
+
+“Remembered Elise, did you?”
+
+Ren nodded. “After quite a few other experiments, including sexual enhancement surgeries...”
+
+“Wait, what?”
+
+“I don't know all the details, since I was unconscious for a lot of it.” Ren said. “But I was awake for the discussions afterwards... and the extensive testing.”
+
+“Oh, god.” Lisa put a hand over her mouth. “Please, don't tell us that...”
+
+“No, no.” Ren shook his head. “Thankfully it was all by my hand or mechanical in nature.” He said. “My real first sexual experience was with Lucy, and that was only after she had transferred to a different department in the hospital.”
+
+The three women sighed in relief, and Ren touched each of their hands in turn.
+
+“Thank you.”
+
+“For what?” Stella asked.
+
+“For not looking at me in a different light because I can remember all of the things I've gone through.”
+
+“Oh, Ren.” Lisa leaned forward and gave him a quick kiss on the lips. “You know we all have you up on a high pedestal. This little thing won't sway our opinion of you.”
+
+Ren chuckled. “So, high enough to stand on, but not too far to fall?”
+
+Lisa chuckled, too. “Exactly.”
+
+Denise handed over his VR headset. “Are you sure you want to try this so soon?”
+
+“I might as well.” Ren said. “The situation's going to be the same whenever I try it, so now is as good a time as any.”
+
+“I'll meet you in there.” Lisa said and stood up as Stella helped Ren put on the headset. “I'll wait for you by the door.”
+
+“You'll see and feel me coming.” Ren said and smiled. “Geez, I'm full of double meanings today.”
+
+“Denise and I are right here, and we'll watch you carefully to see if it works.” Stella said.
+
+“It might take a few minutes to register my altered brain pattern, but it should work.” Ren said. “Flow Login Start.”
+
+********
+
+Ren appeared in the white loading area and stared at the popup.
+
+System Notice!
+
+Major Anomalies and abnormalities in the registered brain wave pattern have been detected. Estimated time for recalibration: 10 minutes
+
+Ren looked down at himself, and he had on his pyjamas and none of his normal equipment. “Boy, my brain is really out of whack if I don't have access to basic game mechanics.” He said and looked up. “Stella? I assume you saw the popup, since I'm in normal time here.”
+
+There wasn't a response, and he didn't expect any.
+
+“I'm going to move around and see if everything works.” Ren said and started to run. Nothing was in the white loading area, but he pretended there was a fallen tree and leaped over it. He imagined a tree falling over near him, and he dodged out of the way and landed on his hands and knees, rolled over, and did that double leg kick thing to flick his body up into a standing position.
+
+Ren started to laugh as his mind quickly adjusted to its new reality, and with all of his memories accessible, he knew his game avatar was much more capable of things than he realized previously. He worked through his imaginary obstacle course for almost 12 minutes, and then he received another popup.
+
+System Notice!
+
+Recalibration complete. Initializing connections. Please wait.
+
+Ren knew what that meant, and braced himself for the piercing pain like he had experienced the last time his brain pattern had changed. He felt a mild poke in the back of his head, one down a little lower, and another at the base of his skull.
+
+That was it.
+
+Huh. Ren thought. I wonder why it didn't hurt this... He stopped that thought and smiled. It hurt before because the game detected that the pattern was incomplete and it had to compensate for what was missing.
+
+The white room faded away, and the game world faded in around him. He was cradled in Xuunah's lap, and everyone else that had come to Lord Grasham's lands was around him.
+
+“Ren!” Xuunah gasped as the connection between them went to a bright white and nearly blinded everyone before they turned away.
+
+“Thank you for protecting me, My Angel.” Ren said and pulled her down for a kiss. Xuunah was overwhelmed by his intact mind so completely that her resistance to his charms evaporated in an instant.
+
+“My dearest!” Xuunah said when she broke the kiss. “I will renouce-Mmm!”
+
+Ren cut her words off with another kiss, then covered her mouth when he broke the kiss a moment later. “That won't be necessary.” He said and moved his hand. “We will meet with Nathalia to discuss things first, then I'll share myself with you.”
+
+“Ren... I...”
+
+“It has to wait.” Ren said and stood up. “I have a few things to do first.”
+
+“Of course.” Xuunah said, and her resolve snapped back into place. “We are at your command.”
+
+“Teepo? How are you?”
+
+“I was worried about you, since you left so abruptly; but, you seem fine.” Teepo chittered in laughter.
+
+“Ren?”
+
+Ren turned to see Officer Holly as she stored her swords. “Store your armor as well, please.”
+
+Officer Holly did so automatically, even though he hadn't commanded her to do it, and she only wore the thin armor bodysuit. Ren activated his Prince Charming title and she caught her breath at its strength.
+
+“Thank you so much for what you did.” Ren said and took a step up into the air and equipped his armor bodysuit as well, which replaced his armor. “Not only have you helped me escape from being caught by that witch again, you opened the door for me to come back to myself.”
+
+“Wh-what do you mean?” Officer Holly asked with wide eyes.
+
+“I remember everything I've ever gone through, and in minute detail.” Ren said and put his arms around her. “I relived everything the instant I woke up from my hypnotic state, and that caused the seizure.”
+
+“Ren, I... I'm sorry.”
+
+“Don't be. I'm not.” Ren said and leaned close to whisper in her ear. “Thanks to your actions, I can nail the sons of bitches to the wall that did those things to me.” He gave her ear a gentle kiss. “I know names, places, details of experiments, everything.”
+
+Officer Holly's body reacted to the treasure trove of evidence Ren now had, and she trembled from pleasure.
+
+“As a reward, would you like me to do to you what I did before?” Ren asked softly, and Officer Holly nodded. He cast full illusion around them and made a solid room so that no one could see them. He let her go and sat down in mid-air. “You know the position.”
+
+Officer Holly climbed onto his lap and laid down across it.
+
+“Such a beautiful sight.” Ren said and caressed her backside. “Ever since I touched it that time, I remember every curve of your sumptuous ass, Holly.”
+
+Officer Holly shuddered as she had a small orgasm, just from his words and the light touch of his hand.
+
+“If I hadn't given myself a 'no sex with new women' restriction, I'd ram myself so hard inside you that you would never want anyone else to ever touch you.” Ren said and gave her cheeks a light slap.
+
+“Oh, god!” Officer Holly shuddered again as she had another orgasm.
+
+“You'd like that, wouldn't you?” Ren said and his hand slipped down between her legs and grazed her special place through the armor bodysuit she wore. “You want to have a man desire you so much that his only choice is to make you feel like a woman.” He said and started to rub her vigorously. “His woman.”
+
+“YES!” Officer Holly exclaimed and arched her back. “GOD, YES!”
+
+Warm liquid gushed out of her through the cloth and over his hand, then soaked both of their armor bodysuits.
+
+“How... how can you...” Officer Holly panted hard, as if she had run a mile straight without stopping.
+
+“It's a talent.” Ren said. “Do you want me to keep going?”
+
+“N-no, I... I don't think...” Officer Holly took a deep breath and let it out. “I can't take any more right now.”
+
+“Are you sure? I don't mind going down on you.” Ren said.
+
+“Wh-what? No.” Officer Holly said and tried to stand up; but, her legs weren't quite working yet and she almost fell. Ren caught her and held her gently. “You barely know me!”
+
+Ren chuckled. “I barely knew the Queen of the Dark Elves and the boss of Shargon Caverns, and I went down on them.”
+
+Officer Holly stared at him. “Did... did you just compare me to a dark elf spider deity and a marilith demon?”
+
+“Yes.” Ren said and smiled crookedly.
+
+“I... I'm tempted to say yes, just because of the compliment.” Officer Holly said, and Ren chuckled.
+
+“I knew you'd take it that way.” Ren said. “You're all highly dangerous beings, after all.”
+
+Officer Holly took several more breaths to absorb everything that just happened. “Okay, I think I can stand now.”
+
+Ren took her at her word and helped her stand up, and he equipped his platinum armor without letting her go.
+
+“You can let go.” Officer Holly said. “I'm fine.”
+
+Ren kept a hold of her and started laughing.
+
+“What? What did I say?” Officer Holly asked, confused.

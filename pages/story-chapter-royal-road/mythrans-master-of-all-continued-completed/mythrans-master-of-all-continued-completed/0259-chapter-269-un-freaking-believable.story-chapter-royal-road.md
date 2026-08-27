@@ -1,0 +1,475 @@
+---
+id: 49736322-df14-5acf-858a-fd4e22bb8a1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 269 - Un-Freaking-Believable"
+slug: 0259-chapter-269-un-freaking-believable
+partOf: mythrans-master-of-all-continued-completed
+position: 259
+ownLength: 3331
+unit: words
+publishedAt: 2017-06-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139705/chapter-269-un-freaking-believable"
+royalRoadId: "139705"
+---
+
+Running Quest Update!
+
+You have shown an influential person (the leader of another nation) what you can do.
+
+Rewards: 20,000 XP
+
+Fame Bonus: +100% - 25% (Slow and Steady) = 75%
+
+Fame: 5,000
+
+SPECIAL x2: +20,000 XP, +75%, +5,000 Fame
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame x 10 XP: 10,000 Fame x 10 XP = 100,000 XP
+
+SPECIAL x2: +100,000 XP
+
+Notice!
+
+You have gained 4 levels! You are now Level 38, and 40 stat points have been automatically allocated. You have unlocked: Double Infusion (skill), Brooch of Shielding (recipe, Wondrous Item), Immovable Rod (recipe, Craft Rod), Wall of Fire (spell)
+
+SPECIAL x2: You have gained 4 levels! You are now Level 42, and 40 stat points have been automatically allocated. You have unlocked: Artificer Knowledge - Greater (skill), Craft Staff (skill), Ring of Sustenance (recipe, Wondrous Item), Ring of Water Walking (recipe), Elixir of Strength (recipe)
+
+Notice!
+
+The skill 'Artificer Knowledge - Greater' allows you to increase 1 (one) chosen skill to the next higher stage. Beginner to Intermediate, Intermediate to Advanced, etc. You must choose now.
+
+“Smithing!” Ren said immediately, without having to think about it.
+
+Stat Change!
+
+Your 'Smithing' skill has been boosted by your Artificer Knowledge - Greater, and has gone from Smithing Level 4 (Advanced 90%), to Smithing Level 4 (Expert 90%)
+
+SPECIAL x2: Your 'Smithing' skill has been boosted by your Artificer Knowledge - Greater, and has gone from Smithing Level 4 (Expert 90%), to Smithing (Master)
+
+Holy crap! Ren thought in amazement.
+
+Title Update!
+
+Your Blacksmith title has become Master Blacksmith. All Smithing skills have gained +10 levels, and you have gained Fame: +5,000.
+
+Main Skill: Smithing (Mastered); Sub Skills: Blade Forging Level 2 (Expert 70%), Hammering Level 4 (Expert 10%), Polishing Level 2 (Expert 70%), Sharpening Level 5 (Expert 40%), Smelting Level 4 (Expert 30%), Soldering Level 2 (Advanced 25%)
+
+SPECIAL x2: All Smithing skills have gained +10 levels, and you have gained Fame: +5,000.
+
+Main Skill: Smithing (Mastered); Sub Skills: Blade Forging (Mastered), Hammering (Mastered), Polishing (Mastered), Sharpening (Mastered), Smelting (Mastered), Soldering Level 3 (Expert 25%)
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame x 10 XP: 10,000 Fame x 10 XP = 100,000 XP
+
+SPECIAL x2: +100,000 XP
+
+Notice!
+
+You have gained 3 levels! You are now Level 45, and 30 stat points have been automatically allocated. You have unlocked: Amulet Of Truth (recipe, Wondrous Item), Rod of Displacement (recipe, Craft Rod), Wall of Earth (spell)
+
+SPECIAL x2: You have gained 3 levels! You are now Level 48, and 30 stat points have been automatically allocated. You have unlocked: Staff of Earth (recipe, Craft Staff), Helm of the Eagle (recipe), Elixir of Acrobatics (recipe)
+
+By the gods! Ren thought in shock. It just keeps going!
+
+Notice!
+
+You have used both brawn and brains during the battle. Your ability to think on your feet while circumstances changed and using your abilities to full advantage, has turned out to be one of your greatest strengths.
+
+Intelligence: +5
+
+Wisdom: +3
+
+Strength: +4
+
+Agility: +6
+
+SPECIAL x2: Intelligence: +5, Wisdom: +3, Strength: +4, Agility: +6
+
+Notice!
+
+You have successfully defended the Dwarven Kingdom from suffering an unrelenting attack by the Giants. You have won the first battle, and averted a possible war.
+
+Influence: +100,000
+
+Honor: +50,000
+
+Fame: +20,000
+
+SPECIAL x2: Influence: +100,000; Honor: +50,000; Fame: +20,000
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame x 10 XP: 40,000 Fame x 10 XP = 400,000 XP
+
+SPECIAL x2: +400,000 XP
+
+Notice!
+
+You have gained 10 levels! You are now Level 58, and 100 stat points have been automatically allocated. Please refer to your Skill list and Recipes to view the unlocked items, as there are too many to list in this popup.
+
+SPECIAL x2: You have gained 10 levels! You are now Level 68, and 100 stat points have been automatically allocated. Please refer to your Skill list and Recipes to view the unlocked items, as there are too many to list in this popup.
+
+This is unbelievable! Ren thought. I just... I just gained... 34 levels! From one battle!
+
+System Notice!
+
+Because you gained more than 1,000,000 XP, you have earned the top spot on the 'XP Gain' Leader Board. Your game handle: REN, and your total: 1,240,000 XP, have been posted to the main website and the public forum. Previous record held by: REN 1,068,650 XP. Grants a bonus of +5 Levels to Aura (Personal).
+
+SPECIAL x2: +5 Levels to Aura (Personal)
+
+Notice!
+
+Your Aura (Personal) is maxed. Level gains converted to Fame Bonus instead.
+
+10 Levels x Fame 1,000 = 10,000 Fame
+
+SPECIAL x2: +10,000 Fame
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame x 10 XP: 20,000 Fame x 10 XP = 200,000 XP
+
+SPECIAL x2: +200,000 XP
+
+Notice!
+
+You have gained 2 levels! You are now Level 70, and 20 stat points have been automatically allocated. Please refer to your Skill list and Recipes to view the unlocked items.
+
+SPECIAL x2: You have gained 2 levels! You are now Level 72, and 20 stat points have been automatically allocated. Please refer to your Skill list and Recipes to view the unlocked items.
+
+Notice!
+
+You have been recognized by the Chancellor of the Giants as the Dreaded Foe, and the dwarves will spread the word quickly to everyone in the Garrison, who will then tell their friends and family. The entire population of both Kingdoms will know of this by tomorrow.
+
+Respect: +10,000
+
+Influence: +87,500
+
+SPECIAL x2: Respect: +10,000; Influence: +87,500
+
+Ren stood still for several minutes to see if it was going to keep going, but nothing else happened.
+
+Whew, it's finally stopped. Ren thought in relief. I honestly thought it wasn't going to stop. He shook his head. 1,640,000 XP and 38 levels! He started to laugh. I can't believe it!
+
+“Wow.” Teepo said. “I just gained 26 levels.”
+
+That's great, buddy! Ren thought to his friend. I bet Ruck and Princess... “Oof!”
+
+Princess had just run over to him and bumped into his back.
+
+“Hey, what are you... stop! Stop!” Ren said as Princess proceeded to lick his head and hair, then covered him in slobber.
+
+Thank you! *LICK* Thank you! *LICK* Thank you! *LICK*
+
+“Okay, okay!” Ren laughed and pushed her away. “You're welcome!”
+
+Quickly, My Lord! Princess thought at him and huffed. Assign my stats!
+
+“I think you might be a little excited about this.” Ren opened her status screen, and they felt each other's amusement. Princess told him where to put the points, and she sighed when they were all assigned.
+
+Ah. Thank you. Princess thought to him. I am off!
+
+“Don't go far!” Ren said as she disappeared, then he got a message popup. He smiled when he saw the sender, and opened the messaging system.
+
+Ren:  Hi, Lara.
+
+Lara:  Ren! What the hell?
+
+Ren:  What?
+
+Lara:  You know what I'm talking about!
+
+Ren:  I figured you'd know I won. LOL I shouldn't have to tell you.
+
+Lara:  Ren! What was all of that from?
+
+Ren:  Well, I met someone at the Library. They were waiting for me, and when I went outside...
+
+Lara:  Oh, that rat bastard!
+
+Ren:  LOL I was upset myself at first, but after I killed him, I got a SPECIAL bonus.
+
+Lara:  Oh... oh my!
+
+Ren:  Yeah. I've been grinding my skills all day.
+
+Lara:  You leveled nearly everything!
+
+Ren:  There's a few skills that I can't level right now, but yeah. I've been working on everything I can think of.
+
+Lara:  I bet he's going to be in so much trouble!
+
+Ren:  More than likely.
+
+Ren:  Not only didn't he succeed, but thanks to the SPECIAL bonus, I had a pretty easy time with the battle.
+
+Lara:  The extra Ballistas didn't help with that at all, huh?
+
+Ren:  LOL I could only bring 7 to the battle. If I'd known how effective they'd be, especially against such large targets...
+
+Lara:  I assume you're going to make more of them?
+
+Ren:  Of course. It's just like I told the Chancellor. If he sends anyone, they're not going to make it. No one is going to mess with this encampment ever again.
+
+Lara:  You're a good man, Ren.
+
+Lara:  Scary, but good.
+
+Ren:  LOL Thanks, I think. By the way, how many levels did you gain?
+
+Lara:  (points finger) Ha! Every question!
+
+Ren:  (snorts laughter) You don't have to do that every time I ask you something.  Bye, Lara.
+
+Lara:  Bye, Ren.
+
+*
+
+Lara closed the messaging system and sighed. I can never tell him how many levels he's given me. She thought. It's one of my class restrictions.
+
+*
+
+Ren closed the messaging system and thought about his party. “Show Party Status.”
+
+Party Name:  Virtual Survivors
+
+Name  Class  Level  Position
+
+Ren  Artificer (Lord)  72  Leader/Equipment
+
+Nathalia  Warden (Head of House)  42  Fighter/Cook
+
+Princess  Mount  68  Mount/Fighter
+
+Ruck  Familiar  49  Assistant/Helper
+
+Teepo  Scout  56  Companion/Scout
+
+Tee-one  Dedicated Servant Crafter  33  Crafter/Fighter
+
+Lara  Sage of Ages  (Restricted)  Information Broker
+
+Ren chuckled when he saw 'restricted' as Lara's level. It really is a closely guarded secret, apparently. He figured while he was at it, he might as well check his own status. “Show Status.”
+
+Status
+
+Name  Ren (Neram) Level  72
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  900,010 (Lord)  Honor  187,820 (Prestigious)
+
+Giant Kingdom:
+
+Respect  25,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Smithing Skills; 5,000 Fame
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+Health  1617  Mana  1868
+
+Strength  253  Dexterity  175
+
+Vitality  165  Agility  172
+
+Endurance  170  Intelligence  215
+
+Luck  70 +2  Wisdom  200
+
+Would you look at that! Ren thought. My stats are so high!
+
+“That's usually what happens when you level up so much.” Teepo said.
+
+I wonder what Nathalia thinks of this. Ren looked at his Sending Ring and thought of her.
+
+“Nathalia?” Ren whispered.
+
+“REN!” Nathalia yelled. “I'm so glad you're okay!”
+
+Ren chuckled. “You should have known I was okay, after that giant XP boost.”
+
+“Giant is right!” Nathalia said. “I'm up to Level 42 already, and I haven't done anything!”
+
+“You're in my party, so you get the benefits just the same as the others do.” Ren said. “Plus, I'm sure you would have come if I'd asked.”
+
+“You mean if you hadn't snuck out on me this morning.” Nathalia laughed. “Thanks for leaving me all alone in the bed like that.”
+
+“Hey, I kissed you and you mumbled.” Ren said. “I thought you said 'get the hell out there right now!'.”
+
+“I did not tell you to 'get the hell out'.” Nathalia said. “I didn't say 'hell' at all.”
+
+Ren laughed. “I've got to finish repairing and cleaning the giant's clothing, then I'll be heading to the mine for a few hours to finish out the shift.” He said. “I'll be home after that.”
+
+“See you then.” Nathalia said. “I lo... ah... I'm at the restaurant.”
+
+“I'll let you get back to work then.” Ren said and grinned. “I lo you, too.”
+
+“Ren!” Nathalia said, slightly scandalized.
+
+“See you in a few hours, Nathalia.”
+
+“Goodbye, Ren.” Nathalia said, and the Sending Ring stopped glowing.
+
+“So, do you want to try your body again?” Ren asked Teepo.
+
+“Sure.” Teepo said, and dissolved into the Beetle Crown ring. Ren slipped the Ring of Recall over it and put it back on.
+
+“Summon Teepo!” Ren said, and Teepo was shunted into the platinum beetle body. “You with me, buddy?”
+
+“Yeah.” Teepo said. “This is kinda weird, though.”
+
+Ren handed him the key, and Teepo held it in front of him.
+
+“What do I do with this?”
+
+“There's a slot on your underside. If you get tired or anything, just wind yourself up.”
+
+“No way!”
+
+Ren chuckled. “Yes, way.” He said. “I wound it as much as it could take before animating it, so you should be good for a long, long time; but, you should take the key with you, just in case.”
+
+“What do I do with it?”
+
+“Store it, of course.” Ren said. “You've got 40 internal slots for stuff.”
+
+“Wh-what?!?”
+
+“Just select 'store key', and it'll tuck it into one of the slots.”
+
+“This present keeps getting better and better!” Teepo said, and stored the key. “It worked!” He said and started to move around. “I can't remember the last time that I had to crawl, though.”
+
+Ren grinned. “Who said you have to crawl?”
+
+“What?”
+
+“I wouldn't give you a present you couldn't use properly.” Ren said. “Deploy your wings.”
+
+“How do I... oh, I just have to think about it.” Teepo said, and his back opened up and thin metal wings unfolded and spread out. He started to beat them furiously, and his platinum body slowly lifted off of the ground.
+
+“I... I'm doing it!” Teepo said, and went higher. “Wheee!” He said, and took off like a shot.
+
+“You're not a bullet! Take it easy!”
+
+“You can fix me if I crash!” Teepo said and did several loops in the air.
+
+“I'm more worried about you getting hurt, you nut!” Ren chuckled as Teepo did several spirals and then nearly hit the ground at full speed.
+
+“Wooo! That was close!” Teepo said and flew over to Ren. He gently came in for a landing on Ren's shoulder. “Thanks a lot, Ren!”
+
+“You're not going to be a secret anymore, my friend.”
+
+“That's okay.” Teepo said. “Now people won't think you're talking to yourself.”
+
+Ren laughed. “I think it's going to take a little more than seeing that you're real for people to not think I'm crazy, Teepo.”
+
+“It's a start!” Teepo said, and Ren nodded.
+
+“Yes, it's a start.” Ren said and stored the table and the forge. He walked over to the moat and looked at it. He glanced down at his Amulet of the Spider and smiled. He used the inherent Web spell in it, and it just barely covered the 20 foot distance. He walked across it without sticking to it, and went into the giant camp.
+
+Once there, the giants lined up in front of the table Ren had left there, and he made another curtain for them to get changed behind. When the female giant handed him her clothing from around the curtain, he repaired them, stored them, and took them out.
+
+“Can you wait for a moment?” Ren asked her, and she thought about it.
+
+“What are you going to do?” She asked. “It's not some perverted ritual with my underwear, is it?”
+
+Ren laughed. “No, Ma'am.” He said and made her a quick robe to wear. “I'm thinking you might want a bath before wearing clean clothes.”
+
+“I... yes, I would.” She said. “How are you going to do that?”
+
+“If I could get a hand from a few men, to help dig?” Ren asked.
+
+A few of the giants picked up the shovels by the large oven.
+
+“Thanks.” Ren walked around the curtain and picked the empty unused tent he had designated as the changing tent. He stored it, thought normal size, and took out his hammerpick. He marked out the size of the hole he wanted, and the giants got to work. With 4 of them working, it only took a few minutes for the large square pit to be finished. He used paving stones to line the pit, and since they interlocked, he figured there would be very few leaks. When he was done, he took out his forge, and made a long thin mold, 30 feet long and 2 inches thick. He melted more ore, and then poured out the very long mold.
+
+The giants gasped when Ren picked up the smelter with his bare hands, and went along the whole mold to make sure it was evenly distributed. The last thing he did was take out a steel square and enchanted it with a double glyph that contained 8 runes; 5 of which were Water, and the last 3 were Fire. He attached the enchanted square to the top of the long steel bar, and then Ren built a large wooden brace for it. With a giant's help, he stood it up and embedded it into the ground beside the pit. Ren waved to Laurelia, and she came over.
+
+“What can I do?” Laurelia asked.
+
+“Say 'Activate'.” Ren said.
+
+“Activate.” Laurelia said, and the enchantment activated. Water and Fire gushed out of the steel square, and everyone gasped. “Good god!” She said. “Is that... no, it can't be!”
+
+“Steamy hot water.” Ren said as the pit started to fill up. “I got the idea the other day when you said you couldn't clean yourself up.” He said. “I'm glad that it worked.”
+
+“You didn't know it would?!?” Laurelia asked, surprised.
+
+Ren laughed. “This is all guesswork.” He said and enchanted a steel square with a double glyph (8 runes total) of anti-water. He knelt down and stuck it into the water. Activate. He thought, and it started to suck up the water. Perfect. He secured it near the top of the pit, then made several more of them and placed them around the top of the pit on the other three walls, to make sure the water wouldn't overflow and possibly flood the camp.
+
+“It shouldn't take long for the pit to fill, and you'll have nice hot water to take baths.”
+
+“Oh, Ren.” Laurelia said and knelt down. “Thank you so much.”
+
+“You're welcome.” Ren said. “Things are definitely going to get better once I start getting the supplies to replace your tents with houses.”
+
+“Wh-what?”
+
+Ren smiled at her shocked expression. “I made a deal with the Chancellor. I won't tell the world what a miserable bastard he is, and he'll send food and supplies for you.”
+
+Laurelia picked him up, nestled him between her breasts, and hugged him. Ren couldn't really do anything about the situation, except hug her back.
+
+*
+
+“Out of the way!” The female giant who wore the robe said, and the male giants that had helped dig the hole stepped out of her way. She tossed the robe aside and waded into the makeshift hot water bath.
+
+“Oooohhh! This is bliss!” She said, leaned back against the side of the pool, and looked at Ren. “You're a godsend, little person!”
+
+“You're supposed to wash and let someone else take a turn.” One of the male giants said.
+
+“I will.” She said. “In a minute.” She closed her eyes and sighed. “I needed this. I really did.”
+
+Another female giant chuckled. “If you can stand having someone else in there, I'll join you.”
+
+“Grab the soap and get in here.” The one in the bath said as she moved over slightly. “I don't mind sharing.”
+
+“Thanks.” The other female giant said, and started to strip. Most of the men turned away so they wouldn't see something they shouldn't see; but, a few others watched her intently. “Oh, my god... you were right.” She said as she sat in the water beside the other female giant. “I needed this, too!”
+
+They both sat there for a minute, sighed at the same time, and started to lather up with the soap.

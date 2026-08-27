@@ -1,0 +1,333 @@
+---
+id: f580c683-f147-5f7b-8197-614dccbaa4fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 298 - Special Delivery"
+slug: 0289-chapter-298-special-delivery
+partOf: mythrans-master-of-all-continued-completed
+position: 289
+ownLength: 4242
+unit: words
+publishedAt: 2017-07-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146280/chapter-298-special-delivery"
+royalRoadId: "146280"
+---
+
+Ren had scored the brown pane of glass completely, and was just about to start breaking it apart when he remembered something important. He left the workbench and ran out of the hold and up to the main cabin. He had to slow to a walk because of the dwarves, and made his way to the meal room. The place was only about half-full, and Ren walked over to the serving window.
+
+“Hi. I need 7 meals to go, please.”
+
+“Excuse me?” The cook responded. “This isn't a restaurant. If you want to eat, have a seat. One of the waitresses will bring you a plate... one plate... in a few minutes.”
+
+“It's not for me.” Ren said. “My personal maids need to eat.”
+
+“Then tell them to come here.” The cook said and dished out another plate. A waitress took it before it even hit the ledge of the serving window and was gone with it before Ren could say anything. “This is a ship. We don't have room service.”
+
+Ren sighed. “You do now.” He said. “I wanted to save your girls the trouble and take the food myself, since I'll be doing it tonight as well; but, if you aren't going to be reasonable about it, then neither will I.”
+
+“I'm the cook on this ship.” The cook said. “If you want to change how the food is served, you can't.” She smiled. “I set the menu and the meal times.”
+
+“Please, don't make me talk to the captain.” Ren said.
+
+“Go ahead and talk to him.” She said. “You'll see that he can't tell me what to do, either.”
+
+“Why are you doing this?” Ren asked her. “I'm only making a simple request.”
+
+“I'm tired of you people.” The cook said. “You think because you have money that you can do whatever you want.” She handed another plate out to a different waitress. “Well, that's not going to fly here.” She said. “You can toss around as much money as you want, and I'm not going to do you any favors.”
+
+Ren shook his head. “What if I fired you?”
+
+“Go ahead.” She said. “This ship won't leave the harbour without a cook.” She smiled and handed over another plate to the first waitress. “Good luck finding a replacement on such short notice.”
+
+“All right, then.” Ren said. “I changed my mind. I'd like some food, but I want you to fill up a platter instead of a plate. I'm really hungry.”
+
+“The platter can't leave the dining area.” The cook said. “The food has to be eaten right here.”
+
+“I know.” Ren said. “I'll be right back for it.”
+
+*
+
+The cook watched in satisfaction as the smug man walked out of the dining hall.
+
+“You shouldn't have done that.” One of the waitresses said.
+
+“Why?” The cook asked. “Just because he's rich and handsome doesn't mean he's entitled to have everything brought to him.”
+
+“Don't you know who that is?” The other waitress asked.
+
+“Of course I know who he is.” The cook said. “I've read his books.”
+
+“So why are you being mean to him?”
+
+“He's so full of himself!” The cook said. “Strutting around like he owns the place...”
+
+“He does own the place.”
+
+“You know what I mean! He brought 5 personal maids on board, too!”
+
+“Yeah.” The waitress smiled slyly. “He didn't even look tired this morning.”
+
+“He won them.” One of the male dwarves said. “He killed everyone in the Thieves Guild to rescue girls that were kidnapped, and they were his reward.”
+
+“He WHAT?!?” The other waitress exclaimed. “He... he...”
+
+“I know it sounds like a fairy tale, but I was on the docks last night picking up supplies.” The dwarf grinned. “I got the whole story from one of the guards.”
+
+“Tell us!” One of the waitresses said.
+
+“Later.” The dwarf said. “I'm gonna watch the show first.”
+
+“What show?” The cook asked as she handed the platter of food to one of the waitresses. They heard several loud scrapes across wood, and then the doors to the dining room burst open with a loud bang.
+
+Princess stood in the doorway with drool dripping from her mouth.
+
+“This one.” The dwarf started to laugh as Princess ran towards the waiting pile of food and the cook and waitresses screamed.
+
+*
+
+“Yeah, I went a little overboard.” Ren said to the captain a few minutes later as he prepared 5 plates of food for his personal maids. “I'd like to say I'm sorry, but I'm not.”
+
+“You could have handled it a lot differently.” The short captain said.
+
+“Yeah. I could have fired her, or confined her to her cabin, or just relieved her of duty until I got the food myself. I could have insulted her, I could have...”
+
+The short captain raised a hand to stop Ren's ramble. “So why did you do what you did?”
+
+“It was the best way to get my point across.” Ren said. “I need food and she provides food. It's a very simple relationship. There's no need to make it difficult.”
+
+“She doesn't want food anywhere else on the ship.” The short captain said. “It's a simple request.” He said, using Ren's argument against him.
+
+“Are you seriously telling me there's no other food on the ship?” Ren asked him.
+
+The short captain looked away without saying anything.
+
+“I'll have the things I need to do all of this myself brought on board.” Ren said. “You can tell her that I'll stop bothering her for food for my entire stay on the ship.”
+
+“What are you going to do? Make another kitchen just for yourself to use?”
+
+“Yes.” Ren said. “If she can't be reasonable, then I won't be either.”
+
+“You can't.” The short captain said. “According to the law, you need to have the kitchen in a specific area, in case there's a fire.”
+
+Ren chuckled. “I'm not worried about a fire.”
+
+“But...”
+
+“Look. I do things differently.” Ren said. “She's right, though. I can't fire her and try to find a replacement. There's too many mouths to feed on a regular basis for me to even consider that option.” He said. “After this meal, she won't have to deal with me, the maids, or my mount ever again.”
+
+The short captain sighed. “That's your final word?”
+
+“Why?” Ren asked. “Is she threatening to quit if I eat food somewhere else?”
+
+“Yes.”
+
+“Good.” Ren said. “Tell her to submit her two week notice, and to pay me the penalty for leaving.”
+
+“WHAT?!?” The short captain exclaimed. “I thought that was only for leaving a House!”
+
+“You never read the contracts completely, do you?” Ren chuckled. “Being dismissed is one thing, but choosing to leave is quite another.” He smiled. “I hope she changes her mind, or she's going to be in debt to me for... well, it'll be for a long time.”
+
+“You... you can't...”
+
+“Not can't; I shouldn't.” Ren said. “I don't want to, either.”
+
+“Then what...”
+
+“Like I said at the event last night, I'm tired of dealing with your culture and your rules.” Ren said. “So, I'm not going to. If she wants to leave over this, tell her that she can; then tell her she has to work for free until she pays off her debt to the ship.”
+
+The short captain frowned. “I'll tell her.”
+
+“I know you don't like me being so harsh, but it's not like I have a choice.” Ren said. “I'd tell her myself, but I'm pretty sure she hates me for some reason.”
+
+“It's because you're doing exactly what rich people do.” The short captain said. “You think because you have money, that you can do whatever you want.”
+
+Ren stored the 5 plates of food and turned to look at the short captain. “Even if I didn't have a copper coin to my name, I'd still do whatever I wanted.” He said and smiled. “Make sure you tell her that, too.”
+
+The short captain nodded slightly, and Ren left the kitchen and went into the dining room. He asked Princess to go back to her room, and disappeared out the door.
+
+*
+
+“He's gone.” The captain said. The door to the pantry opened and the cook stepped out.
+
+“That arrogant-” The cook clamped her mouth shut before she cursed Ren's name. “I can't believe that he would...”
+
+“You heard him. He's doing what he wants anyways, no matter what you say.” The captain said. “I didn't know we had penalties on our contracts if we quit, though.”
+
+“I didn't either.” The cook said, and didn't say anything else.
+
+“So, your threat to quit...”
+
+“...doesn't mean anything if I have to work to pay the debt anyways.” She said. “He wins this round.”
+
+“This round?” The short captain asked. “You're not planning to keep fighting him on this, are you?”
+
+“Of course I am.” The cook said. “Like you said, the law says a kitchen must be in this section in case there's a fire.” She shook her head. “He's going to create a fire hazard with a kitchen somewhere else.”
+
+*
+
+Ren delivered the food to the personal maids, and they thanked him for thinking of them. They also asked him to concentrate on the Contact Aura, and Ren shook his head.
+
+“I need to work, and I can't maintain my concentration.” Ren said. “I can do it, but my work slows down if I'm thinking of too many things at once.”
+
+They gave up on the idea, and Ren left them to eat. He ran back to the hold and kept working. Using the proper tools, he broke apart the brown pane of glass into the pieces he had scored earlier, and reassembled them on the workbench. The green and blue panes of glass were next, and he did the same thing to them; they were scored, broken apart, and reassembled into the right spots.
+
+Using his replacement technique, Ren shifted the brown and blue pieces of glass around. There wasn't much grass in the picture, though; so they were easily replaced. When he was done, there was a shout of another load coming. He walked over to the side of the hold with the large cargo hatch, and stepped out onto it. He could see the dock, and the arriving carts. One of them looked like it was made of stone. That one was rolled right onto the barge and the pony was disconnected; then Tee-one stood on the barge and activated the enchantments. The barge moved at a good speed towards Ren and the ship, and arrived a few minutes later.
+
+“Thanks.” Ren said, and looked at the cart. It looked like a solid stone block, but Ren knew it was just crafted to look that way. “A complete enclosure was a good idea.”
+
+“It's got Antiwater runes on it, too; just in case it was splashed or something.” Tee-one said. “Do you need a hand with it?”
+
+“Just for balance.” Ren said. “I can move it easily, but it'll be awkward to pull it onto the ship.”
+
+Tee-one nodded slightly, and braced the side of it. Ren eased it around to point the end towards the ship, and discovered that he had been right. It was awkward to move from the barge to the cargo hatch with a cart designed for hard solid surfaces. They managed to get it transferred over, and Ren pulled it over to the middle of the hold.
+
+“I brought the anvil and one of the forges.” Tee-one said.
+
+“Thanks, Tee-one.” Ren said. “I was just about to start wrapping glass pieces in copper foil.”
+
+“I got here just in time, then.” Tee-one said. “I'll be right back with them.”
+
+Ren nodded slightly and concentrated on his Command Aura. “Men! Top hatch!”
+
+The deck hands did the same thing that they did when the captain has given the order the day before. Two of them ran to the crank on the side, unhooked the rope, and turned it. The hatch opened and the platform came down. Ren pulled the cart over to the platform, enchanted it with 3 glyphs of 5 runes each of Anitdark, and it made the cart 60% lighter. He waved at the dwarves by the crank, and the platform lifted up from the hold and to the deck.
+
+Once up top, Ren pulled the cart over to the main cabin doors, opened them, and pulled the cart inside. He took it down to the cabin he'd modified with paving stones and stone bricks.
+
+This cart never would have fit in a normal dwarf ship's hallway. Ren thought and opened the door to the room and thought about the fire elemental. I hope this hasn't been too much of a shock for it.
+
+Ren lifted the top of the stone container a little bit, and immediately heard tree branches breaking and sap popping as if being consumed by a raging fire.
+
+“Shh!” Ren said and put a hand in. “It's okay.” He said and pet the fire elemental. “I know it's scary.”
+
+A foot-wide blast of flame came out of the opening and would have taken all of Ren's hair with it, had he not been immune to Fire. “I'm so sorry.” He said and opened the top a little further so he could see inside. “I had intended to make a nice big place for you, and the boat was supposed to be right by the dock. Having you so close to the water was not how this was supposed to go.”
+
+The sound of trees being consumed by fire died down a lot, but it didn't go away.
+
+“Your new place is bigger than your pen.” Ren said and opened the top all of the way. “But, you're on a ship. Please, please don't try to run away or explore.”
+
+The color of the fire elemental changed slightly, and Ren reached into the cart and picked it up.
+
+“These are your roommates.” Ren said. “Princess, Riley, and Stacy.” He said and pointed to each one as he said their names. “Everyone, this is...” He stopped talking and looked at the fire elemental. “By the gods, I never named you.”
+
+Ren sat down on the edge of the bed and held the fire elemental in his arms, and stroked it's head stub. “I've been so busy with everything that it completely slipped my mind.” He said surprised. “I've talked to you a bunch of times, and we've played and trained; but...” He shook his head. “I can't believe not having a name has never come up before.”
+
+“I didn't think of it, either.” Teepo said, sadness clearly in his voice. “And I've been checking up on it every time I did a patrol.”
+
+Ren hugged it to his chest, and it rubbed it's head nub on his face. “I'll think of a good one for you.” He said. “I promise.”
+
+New Side Quest!
+
+You have neglected to name the fire elemental under your care for far too long. You have 24 hours to give it one. It's not essential to name it, but a name will help form it's core identity and give it something to answer to.
+
+Rewards: ????
+
+Penalties for Failure: Devotion / Loyalty of the fire elemental will drop by 25%
+
+“Okay, then.” Ren said and stood up. “I'll come up with something I hope you'll like.” He said to the fire elemental, and walked over to the large area he had made for it and put it inside. “Don't jump out or anything, okay? This place is wood underneath and will burn if you touch it.”
+
+The color changed slightly on the fire elemental and Ren smiled.
+
+“I'm going to have more free time to spend with you soon.” Ren said. “I'll have two whole weeks of doing nothing but floating and relaxing when we leave the dwarf lands for good.”
+
+The fire elemental let a few crackling wood sounds out, and Ren pet it's head nub.
+
+“I'll see you later.” Ren said and stored the mostly stone cart, then looked at Princess. “Keep an eye on it for me.”
+
+Yes, My Lord. Princess thought to him. You will know if anything happens.
+
+“Thanks.” Ren said, pet her and the two dogs, then left the room. He ran down the hall and out to the deck then looked over to the dock. Tee-one was already on his way back with a forge and anvil. Ren went down into the cargo hold and waited for the delivery.
+
+*
+
+Nathalia had woken up and rolled over to find that Ren wasn't there beside her. He must be out on Adventurer's business. She thought, equipped her clothing, and went out to the main room to see him; then saw the couch was empty. She caught her breath and put a hand over her heart, because she had forgotten that Ren wasn't ever going to be there again.
+
+“I know.” Ereka said from behind her, and Nathalia turned around to look at her. Ereka's eyes were red and puffy, and she didn't look like she'd had any sleep at all. “I haven't known him for as long as you; but, my heart misses him, too.”
+
+“Oh, Ereka.” Nathalia said and took her into a hug. “I love him so much!”
+
+“At least you can still see him when he goes back to the human kingdom.” Ereka said. “You can just step through your portal and call him.” She smiled and hugged her back. “If I want to see him, it's almost a month round trip; and that's assuming I don't stay for a day or two.”
+
+“I... I'm sure that... you'll find someone to... to...” Nathalia tried to say some consoling words to Ereka; but, all it did was remind her that the same statement now applied to her, and she couldn't say it.
+
+*
+
+Ren had stored the forge and anvil to move it over next to the workbench. “I'll need food ingredients for 8 people; 2 meals a day for 2 weeks.” He said. “You know what to get.”
+
+Tee-one nodded slightly. “I'll have it on the next run.”
+
+“Thanks.” Ren said and put a hand on Tee-one's shoulder. “I'm really glad you're here.”
+
+“Me, too.” Tee-one said. “I'd hate to see all your stuff get picked over by ignorant people that didn't know what they were doing.”
+
+“That's not the only reason I'm glad.” Ren chuckled and stored the wood he'd already cut for the frames of the stained glass windows. “But, it'll do.”
+
+“It should only take a few more trips to get the other forges, the maid's things, the icebox, the rest of the supplies, and then the forge, glass forge, and anvil from the mines.”
+
+“That's a relief.” Ren said. “I keep expecting the Queen to kick me out of the kingdom, and not just the lands.”
+
+Tee-one smiled. “I'll bring over the stone masonry supplies now.”
+
+“Make sure you leave the crates of uncut diamond crystals for Dorcot.” Ren said. “It should take him a few months to a year to do them up for me.” He started to walk away and stopped. “On second thought, take one of them for me. I've been meaning to try Gemcutting for a while now.”
+
+Tee-one nodded slightly and took the barge back to the docks, and Ren took out the anvil and one of the 1 foot squares of copper he had, hammered it out really thin, and cut it into strips. He wrapped the copper foil around the pieces and put them together. Now that the hard part was done, Ren put paving stones down to cover a good portion of the floor, then took out the forge. The smelter was full, so Ren used a crucible to take some of the molten metal out of it.
+
+Using his finger, Ren dipped it in the molten metal and touched the pieces of glass where the copper foil was wrapped. He did the entire picture on one side, then rubbed his finger along the edges to solder them together. He flipped the stained glass pane over and soldered the other side, then did the entire outer edge, and build the frame to set it inside.
+
+“Only 17 more to go.” Ren said, and made another Earth one. He already had the pieces cut so he just had to wrap and solder them together. For the rest of the day, Ren made stained glass windows. He already had 2 each of Fire with a picture of the mountain of fire, Wind with the tree blowing in the breeze, and now had the rock formation for Earth. So he did 2 each of a waterfall for Water, a glacier for Ice, a sky full of lightning bolts for Lightning, a golden star covered halo for Light, a black hole surrounded by stars for Dark (Gravity), and the last one was the easiest. The Void, or Arcane, he just had a single black pane of glass. That was it.
+
+They had all been mounted in their frames, and Ren stored them so they wouldn't get damaged. Tee-one had kept making deliveries all day, and nearly everything that could be taken was now stored in the hold of the extra large ship. Ren gave Tee-one the stained glass windows to store, and told him what order to install them in.
+
+“Is it really that important to do them in a specific order?” Tee-one asked. “I mean, no one will see it until the morning when it opens.”
+
+Ren shrugged. “I don't think it should make a difference, but...” He smiled. “Fire will always come first, though.”
+
+Tee-one nodded slightly and walked over to the barge. “There's only the ore shipments and cement bags from the mines left.”
+
+“It shouldn't take a whole day for that, though.” Ren said.
+
+“Maybe around noon.” Tee-one said. “I'll see you then.”
+
+Ren waved to him, and the barge went back to the dock empty except for Tee-one. Ren covered the smelter and closed up the forge, just in case someone was stupid enough to stick their hand in it to see if it was dangerous. He smiled and ran up one of the many staircases to the top deck, then went to the large cabin where he and his personal maids were staying.
+
+Ren was tempted to tell them to move to the other rooms, mainly because they were going to be alone again tonight; but, he'd already slept in the bed with them once. He couldn't make an argument that it wasn't right for him to sleep in the same bed with them after already doing it; so, he sighed and knocked.
+
+“You still don't have to knock.” Frikara said when she opened the door. Ren smiled and walked into the cabin.
+
+“I'm giving you a chance to put your clothes on.” Ren said, and held up a hand. “Yes, I know how stupid that sounds when talking to personal maids.”
+
+Frikara laughed, and so did a couple of the other maids. “So, what's going on?”
+
+“I'm making you supper, and then I have Adventurer's business to take care of.”
+
+“Aww.” Frikara said. “I have to go through another night with you, and I don't get to wake up in your embrace?”
+
+Ren smiled because he was usually out on Adventurer's business most of the time. He made a quick table to work on, and took out some of the food Tee-one had delivered earlier that day.
+
+“Hey, we can help!” Andrela said and came over to Ren. He gave her a knife to start chopping, and then the rest of the maids came over to help. The food was prepared quickly with 6 people working at it, and Ren cooked it for them. He stored the plates they had used that morning to clean them, then used them to serve supper on. They sat at the table they'd just used to make the meal, and made polite conversation until they were done eating.
+
+Ren excused himself after taking two plates of food for Princess, and delivered it to her. He told her, Riley, Stacy, and the fire elemental that he would be gone for several hours, if not the whole night, and would see them tomorrow. He went back into his cabin, and saw the maids were already taking their dresses off.
+
+“Oh, right!” Ren said and walked over to the side of the room. “These were some of the last things Tee-one dropped off.” He said, and took out the cabinets and dressers with their clothing in it.
+
+“Thank you.” One of them said. “But, we're good.”
+
+“We sure are.” Frikara said, and chuckled. “We don't normally wear clothing at night.”
+
+“Oh.” Ren said and looked at the underwear he had asked them to wear. “I didn't know.”
+
+A couple of them laughed.
+
+“These are fine.” Frikara said. “You made them, and they're comfortable.”
+
+Ren nodded slightly. “Goodnight.” He said, and sat down on the couch at the side of the room.
+
+“What are you doing?” Navruth asked. “Come to bed.”
+
+“I have to go.” Ren said. “Adventurer's business.”
+
+“But... we want to cuddle.” Lusinia said. “Can you do that when you come back?”
+
+“If I'm back before morning.” Ren said. “Goodnight.”
+
+“Goodnight!” The maids said together.
+
+Ren sat back on the couch and closed his eyes. “Logout.”

@@ -1,0 +1,413 @@
+---
+id: c8d06522-eccd-5786-a8b1-53741b391fef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 347 - She Wants That"
+slug: 0340-chapter-347-she-wants-that
+partOf: mythrans-master-of-all-continued-completed
+position: 340
+ownLength: 4118
+unit: words
+publishedAt: 2017-08-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158873/chapter-347-she-wants-that"
+royalRoadId: "158873"
+---
+
+“Send a messenger to Walin County next week to let us know how far along the acceptance of the pact is.” Ren said. “If you need us back to explain more of the details, you can let us know then.”
+
+King Alamast nodded without saying anything.
+
+Ren turned to Lady Eleanor and gave her a deep bow. “Your Highness, it was a pleasure to meet you.”
+
+Lady Eleanor was surprised that he would bow so deeply to her, especially after the way he had just treated her husband, and essentially the entire kingdom.
+
+Ren turned to Crown Princess Diana and took her hand. “This kingdom is in good hands with you as the one in line for succession.” He said. “Keep doing what you're doing. Look. Listen. Be smart. Be wise. You know how this kingdom is really run, so use that knowledge to your advantage when you come to power.” He bent over her hand and lightly kissed it. “Princess, it was both a delight and an honor to make your acquaintance.”
+
+Diana's face flushed red as Ren stood up straight and smiled at her.
+
+“You can stop flirting with my daughter now.” King Alamast said, a little crossly.
+
+“I wasn't flirting, Your Majesty.” Ren said, truthfully. “If I was, I would do this.”
+
+Ren still had a hold of Diana's hand, and he gently pulled her in close. She didn't resist, but her eyes widened as his other hand reached out and touched the side of her face. She was 5 inches taller than him, but she felt quite small as he leaned in close to put his mouth near her ear.
+
+“You have beautiful hair, Diana.” Ren said to her in a slightly deeper voice. “May I touch it?”
+
+Diana didn't respond verbally, but she did nod. With them so close, Ren shifted the hand that held hers and intertwined their fingers, then put his other hand into her hair.
+
+“So soft.” Ren said as he ran his hand through her long hair. Diana closed her eyes and took in deep breaths through her nose and she let the sensation of someone else feeling her hair go through her.
+
+Oh, god. Diana thought. Keep... keep going.
+
+Ren played with her hair for several moments, then used that hand to cup the side of her face. “Thank you.” He said, took his hand from her face and tried to untwine his fingers from hers to let her hand go. “That was flirting.” He said to King Alamast, but Diana wouldn't let his hand go and held on tightly.
+
+“Our definitions of flirting are different, apparently.” King Alamast said and looked at their hands.
+
+“Let... let me touch yours.” Diana said.
+
+“Go ahead.” Ren said, and she took her free hand and ran it through his soft hair.
+
+“It's so fluffy.” Diana said, and she ran her hand through his hair again. Ren smiled at her, and she smiled back, then her expression changed to an evil grin and gripped his hair in her fist. She pulled on it hard and leaned in close. “You hurt my father.”
+
+“I did.” Ren said.
+
+“Don't do that again.” Diana said and gave his head a little shake.
+
+“I will if I have to.” Ren said. “I told you that I won't play stupid royal court games anymore.”
+
+“This isn't a game!” Diana said and shook his head by his hair again.
+
+“Diana!” Lady Eleanor exclaimed. “Let him go!”
+
+“No! Not until he promises to not hurt daddy anymore!”
+
+“Diana.” King Alamast said, sternly.
+
+“No, Dad.” Diana said. “He's going to promise me, right now, or he's going to lose a good chunk of his hair!”
+
+“You're going to have to pull it out.” Ren said. “I made that mistake before. I made a promise that I thought I could keep, but I couldn't.” He said. “It cost me my future wife, my life with her, and I lost the place I had called home.” He said to Diana with a calm face. “I won't make that mistake again.”
+
+“Let him go, baby.” Lady Eleanor said softly.
+
+“Let him order me!” Diana said to her mother, then looked back at Ren. “Order me!”
+
+“I order you to make up your own mind.” Ren said, and she caught her breath. “I order you to not let other people's opinions influence your decisions.”
+
+Diana stared at his face, and didn't know what to do.
+
+“I told you before.” Ren said. “Look. Listen. Be smart. Be wise.” He said. “The only freedom anyone really has is choice.” He smiled at her. “So, what will you choose?”
+
+Diana opened her mouth to say something, then sighed as she opened the fist that held his hair and let his other hand go, too. King Alamast grabbed his daughter and pulled her out of Ren's reach and hugged her closely.
+
+“Don't do anything to hurt her.” Lady Eleanor said as she hugged her daughter and husband.
+
+“Why would I hurt her?” Ren asked.
+
+“She just... I mean, she...”
+
+Railyse laughed, and they heard the sound of pouring rain. “Ren could have removed her hand easily.” She said. “He could have removed her completely, if he had wanted to.”
+
+“But... she had... had him...”
+
+“By the hair? Yeah, that doesn't work.” Ren said. “Can I prove it?”
+
+“P-prove it?” Diana asked.
+
+“Don't be afraid, okay?” Ren said to Diana, and looked at her parents. “You see, I wanted her to make her own choice. It didn't matter what she had of mine. I didn't want it to influence her decision.” He reached up and grabbed the same chunk of hair she had, and pulled.
+
+“AHHH!” Lady Eleanor screamed and turned away as the chunk of hair came away from his head. Diana and King Alamast didn't flinch at all, and just looked at Ren in appraisal. He smiled to them, then took out a small sack that wasn't much bigger than a coin pouch, and put the chunk of hair in it.
+
+“Please accept this as my pledge that I'll try my best to not cause your father any harm.” Ren said and handed the small sack to Diana. She frowned at him for a moment, because he had let the scene between them play out, then she smiled as she took the sack and held it close.
+
+“Thank you.” Diana said, and looked at his head. “You're a little lopsided, now.”
+
+“Don't worry about it.” Ren said, stepped back, and gave them a regal bow. “Goodbye.”
+
+“Goodbye.” Diana said. Ren took Railyse's offered arm and they left the private meeting room.
+
+*
+
+Lord Eddlemere sat in the dark cell and waited. He knew it wouldn't take long for Talon to come and get him. They had arranged to meet right after the meeting, and Talon had a knack for finding people as long as a good portion of them were covered in a shadow.
+
+“There you are.” Talon said as he stepped out of a nearby shadow and sat next to Lord Eddlemere. “How did they-”
+
+“Something called an Amulet of Truth, and that fool's innate ability to command people.”
+
+“Who? The king?”
+
+“No, I meant the other fool.”
+
+“Ah.” Talon said. “Ren.”
+
+Lord Eddlemere nodded. “He's ruined everything that I've built here.”
+
+“In just the last 20 minutes?” Talon asked, surprised.
+
+“When you're compelled to talk and to tell the truth...”
+
+“Well, damn.” Talon said. “You told them about me, didn't you?”
+
+“Only that you had the bomb delivered.” Lord Eddlemere said. “Once they discovered I was behind the scheme, they didn't even bother asking about you.”
+
+“That figures.” Talon chuckled. “I'm always shunted aside and not considered relevant during these events.”
+
+“You should be glad for that.” Lord Eddlemere said. “It lets you be more effective.”
+
+Talon nodded.
+
+“Now get me out of here.”
+
+“Sure.” Talon said. “Grab on.”
+
+Lord Eddlemere gripped Talon's arm tightly and they faded backwards into the shadow.
+
+*
+
+Ren used a Major Healing wand to heal his head and replaced the hair that he had torn out of his head to give to Crown Princess Diana. He stopped concentrating on his Command Aura and took Railyse out of the castle. He stopped at the side of the street, took out the Sending Square that was paired with the one he had given Catalina, and called her. She answered and said she would be there in a few minutes.
+
+“Well this was an exciting day.” Railyse said, and let go of Ren's arm while they waited for their ride. “Are all of your adventures like this?”
+
+“This was a new one for me.” Ren said. “No, wait.” He said and thought about it. “Um, actually... there's usually screaming of some kind, me getting hurt or potentially getting hurt, sometimes there's some kind of misunderstanding, and then a resolution that is usually the best that anyone could hope for.” He said and chuckled. “So... yes. A lot of my adventures are like this.”
+
+Railyse chuckled, too. “You lead an interesting life, my friend.”
+
+“I sure do.” Ren said. “Although, just once, I'd like to go somewhere and not have a big conspiracy to unravel, a murder plot to foil, a puzzle that needs to be solved, or a monster that has to be defeated.”
+
+Railyse put an arm around Ren's shoulders and gave him a one-arm hug. “Should I apologize that mother had you assigned to the Obelisk for a month?”
+
+Ren laughed. “Like you were responsible for that.” He said and put an arm around her waist. “I wonder if they've figured out where it came from yet.”
+
+“Probably not.” Railyse said. “People have been trying to figure that out since it was found.”
+
+*
+
+“He has Command over the entire Human Kingdom for the whole day, and what is he doing?” Diana asked her father as they looked through the closed castle window at Ren. “He's just standing there.”
+
+“I just stand around sometimes, too.” King Alamast said. “Or sit around.” He said and left the window to sit down on a small couch across the room.
+
+“Why did he do it?” Diana asked, now that she'd built up enough courage to ask.
+
+“Do what?” King Alamast asked.
+
+“Everything!” Diana said and turned to look at her father. “Pretending to be an assistant! Challenging you and winning! Pulling out his hair for me!” She said and crossed her arms. “Pick one!”
+
+King Alamast laughed. “I think you've finally found someone interesting.”
+
+“Don't put those kind of thoughts in her head.” Lady Eleanor said. “She'll start pining for him by the day's end.”
+
+“I will not!” Diana said and huffed.
+
+“I think your warning is too little, too late.” King Alamast said to his wife, and held a hand out to his daughter. “Come sit beside me.”
+
+Diana thought about saying no; but she didn't really want to, so she walked over to her father and took his hand. She turned around and wrapped his arm around her waist, and sat down in one fluid motion.
+
+“You really should think about taking up dancing.” Lady Eleanor said.
+
+“I don't have time for that.” Diana said. “I've got fencing practice tonight.”
+
+“Fencing is not a sport a princess should be interested in.” Her mother said. “I really do think you should drop that and concentrate on your duties.”
+
+Diana shook her head at her mother. Thanks to his order, I don't have to listen to you today. She thought and touched the small sack of Ren's hair that she had tied to her silver necklace. Even after all of that, he still chose to help me.
+
+*
+
+“Oh, damn! I almost forgot!” Ren said. “Teepo? Where's the closest guard?”
+
+“I don't see one.” Teepo said and took a quick flight out and around and landed on Ren's shoulder again and pointed. “The royal family is right there in a room on the second floor, if that helps at all.”
+
+“It'll have to do.” Ren said and let Railyse go. “Railyse? I'll be right back.”
+
+“I'll be here.” Railyse said as she took her arm from across his shoulders, and saw their carriage coming up the road. “And so will Catalina.”
+
+Ren smiled and ran over to the castle wall and used his hands and feet to crawl up it. He moved pretty fast, considering he was using all 4 limbs, and he was up on the second floor in only a moment. He didn't want to startle them, so he moved out of view and knocked on the window.
+
+“What was that?” King Alamast asked. “I know it was a knock, but that sounded like it came from the window, not the door.”
+
+Ren moved over to stand on the ledge in front of the window and knocked again.
+
+“AHHH!” Lady Eleanor screamed and pointed when she saw Ren.
+
+Diana hopped up and went over to the window and opened it. “What the hell are you doing?”
+
+“Watch your language, young lady!” Lady Eleanor said, her brief scare completely forgotten.
+
+“I'm sorry to bother you.” Ren said. “I was wondering if you could tell me the name of your head seamstress.”
+
+“What?”
+
+“Do you still have a head seamstress?” Ren asked. “I'm going to feel stupid if I brought her family heirloom all the way to the capital and she's not here.”
+
+“Did you say you have a family heir loom of Maria's?” King Alamast asked.
+
+“It's a sewing needle, and it's unique.” Ren said.
+
+“You found it!” Lady Eleanor exclaimed and stood up to come over to the window. “She'll be so happy!”
+
+“I hope so.” Ren said. “Where does she live?”
+
+“I can give it to her.” Lady Eleanor said and held a hand out for it. “I am quite capable of making a simple delivery.”
+
+“No, thank you.” Ren said. “I'd like to see her face when I give it to her.”
+
+“Don't be like that.” Lady Eleanor said. “Hand it over, and you can be on your way.”
+
+“You seem really eager to give this to her yourself.” Ren said, and switched to his Command Aura. “Tell me where she is.”
+
+“She's retired, and lives in a little shack out behind the castle.” Lady Eleanor said, and covered her mouth.
+
+“Why did you want the needle?”
+
+Lady Eleanor shook her head, but spoke anyways. “It has magical properties that lets the holder expertly sew anything they touch.”
+
+“Were you going to give it to her?” Ren asked, even though he suspected what the answer would be.
+
+“No. I was going to keep it.”
+
+“Mother!” Diana said.
+
+“It's worth a lot of money and can do amazing things.” Lady Eleanor said without being asked. “I can't let that old woman lose it again.”
+
+“That's not your choice to make.” Ren said and turned around. “Thanks for the information.”
+
+“Wait!” Diana said and Ren looked at her.
+
+“Yes?”
+
+“I want that Amulet of Truth.” Diana said. “How much is it?”
+
+“Are you sure you want it?” Ren asked. “Most people think they want people to tell them the truth all the time, but that's just not true.”
+
+“I want it.” Diana said. “What do you want for it?” She asked, confident that she could give him anything he wanted. She'd been saving up all of the money her father and mother had been giving her, and all the donations her fans sent to her. She had quite the amount in her coin pouch now and knew no matter how much he asked for, she could pay it.
+
+“When's your birthday?” Ren asked her.
+
+“It's... in three months.” Diana said, unsure of where he was going with the question.
+
+“I assume your parents are having a party for you.”
+
+Diana nodded. “They always throw the best parties.”
+
+“If I come back this way...” Ren said. “...I want a dance.”
+
+“A.. a what?!?”
+
+“A dance.” Ren said. “I'll give you the amulet for a dance.”
+
+“I... well, I... um...” Diana wasn't sure what to say. She had thought she would pay any price, but that was when she thought he wanted money. “You won't take a platinum or two for it?”
+
+Her mother gasped at the amount her daughter had offered; but, Ren shook his head no. Diana glanced at her father, and he had a blank look on his face and didn't say anything. She looked at her mother, and she knew she would say no in a heartbeat. That made Diana's decision much easier, and she took a deep breath and looked at Ren.
+
+“If... if you are back in the capital in three months for my birthday celebration, then... and only then... I will give you a dance.” Diana said. “I guess I can wait until then to get the amulet.”
+
+Ren beamed a smile at her, took out an amulet, then slipped the amulet's chain over her head and hung it on her neck. “Happy Birthday, Diana.”
+
+“Wh-what?!?” Diana exclaimed and the amulet took effect. “This... you...”
+
+“Have fun with it!” Ren said and jumped away from the building.
+
+“REN!” Diana reached out the window fruitlessly to try and catch him, but he had already dropped down the two stories and landed on the ground.
+
+“I'm looking forward to that dance!” Ren said and waved, then helped Railyse climb into the waiting carriage. “Let's head around to the back of the castle.” He said to Catalina and held onto the outside of the carriage. “I've got a family heirloom to return.”
+
+“Right away.” Catalina said and flicked the reins.
+
+*
+
+“I can't believe he jumped.” Diana whispered and stared at the carriage.
+
+“Look at that carriage.” Lady Eleanor said to try and distract her daughter's fixation on Ren's antics. “That must have cost a fortune to make.”
+
+“Just like his armor.” King Alamast said and came over to the window to put his arms around his wife and daughter. They watched the carriage disappear around a corner. “It's no wonder why he didn't want your money.”
+
+“Speaking of which.” Lady Eleanor said. “Where did you get 2 platinum coins?”
+
+“I've been saving it.” Diana said. “Ever since I was little.”
+
+“You have?” King Alamast said. “How much... no, don't tell me.” He said. “It's your money, and you can do what you want with it.”
+
+“I was going to anyways.” Diana said. “It's nice to have your permission, though.”
+
+King Alamast chuckled and hugged her tightly. “You're pretty frugal.” He said. “Maybe I should put you in Accounting and let you see where we can stretch the budget.”
+
+“I'd like that opportunity.” Diana said. “But, it'll have to wait until tomorrow.”
+
+“Right, your fencing class.” Her father said. “I'm glad you're having fun with it.”
+
+The words 'have fun with it' rang in her ears and Diana glanced out the window.
+
+“I am having fun with it.” She said, then blushed a little. “There's no reason why I can't take the occasional dance class, though.”
+
+Lady Eleanor stroked her daughter's hair, and Diana sighed. It didn't feel anywhere near as nice as when Ren did it.
+
+*
+
+The carriage stopped at the back of the castle and Ren hopped off, then walked over to the small half-wall that surrounded the back courtyard. He jumped over it easily, and found a pile of shacks in several rows.
+
+I should have asked which shack. Ren said and smiled as he knocked on the closest one.
+
+“What?” An old man asked when the door opened.
+
+“Head Seamstress Maria, please.” Ren said.
+
+“Three down and one back.” The old man said and shut the door.
+
+Ren took out a gold coin and knocked again.
+
+“What now?” The old man asked when the door opened again.
+
+Ren held out the gold coin to him. “Thanks.”
+
+The old man looked at his face, then at the coin, then back at his face. “You're crazy, aren't you?”
+
+Ren chuckled and tossed the coin at the old man, then walked three shacks down and one behind and knocked.
+
+“Just... just a minute.” A old woman's voice said. The door opened, and Ren was greeted by a woman that looked remarkably like Margaret, the old hunched-over woman he had given an Amulet of Truth to back in his county.
+
+“I'm sorry to bother you, but is your name Maria?”
+
+“It is.” Maria said. “Can I help you?”
+
+“Actually, it's me that can help you.” Ren said. “You used to be the head seamstress for the King and his consort, right?”
+
+Maria nodded. “They made me retire last year when I lost my sewing needle.” She said. “I told them I could still sew, but they didn't believe me.”
+
+“Mother, who is it?” A young woman asked as she came to the door. “Oh! Hello, My Lord.” She said and gave him a curtsy. She held her skirt out, and it showed the proper amount of leg. It was enough to give you an idea of what she was wearing underneath, which wasn't much; but, it didn't actually show you anything. She appeared to have shoulder-length brown hair, but when she had curtsied, Ren saw her hair had been pulled back and tied in a knot.
+
+“I came to return this.” Ren said and took out the sewing needle. Both women gasped as they saw it was their lost family heirloom. The old lady reached out quickly; but rather than take the needle, she took Ren's other hand and held it tightly instead.
+
+“Dear boy, you... you're a godsend.” She said and tears came to her eyes.
+
+“Mother, don't cry.” The young woman said, but she had tears in her eyes as well. “Can... can you come in and visit for a while?”
+
+“I'd like to.” Ren said. “I really would; but, I have several errands I need to do, and then I'm heading back to Aurora.”
+
+Both women had very disappointed looks on their faces, and he gave them pieces of cloth to dry their eyes.
+
+“If I didn't have such a long drive to get back home, I would have invited myself in to stay for supper.” Ren said and smiled at them, and their faces changed from disappointment to acceptance. He held the sewing needle out to the old woman, and she took it gingerly.
+
+Side Quest Complete!
+
+You have returned a valuable family heirloom to it's rightful owner.
+
+Rewards: 1,520 XP; Gratitude of the Morgan Family
+
+“Can I ask you something?” The young woman asked Ren when he dismissed the popup.
+
+“Sure.”
+
+“Why didn't you keep it?” She asked. “It's magic, you know.”
+
+“I already have a magic needle.” Ren said, and they stared at him.
+
+“You... you do?!?”
+
+Ren looked at the young woman's dress and saw that it was well-crafted, but it had seen better days. He took out his Master Tailor Sewing Needle, and the old woman gasped.
+
+“You... you...” Maria tried to speak. “...master...”
+
+“I'm not a Master Tailor yet.” Ren shook his head. “I'm pretty close, though.”
+
+“Then how...”
+
+“It was an unexpected and much appreciated gift.” Ren said and touched the young woman's dress with it. “Repair.”
+
+The dress glowed for several seconds and reformed itself into a perfect state.
+
+“It's just like mother sewed it yesterday!” The young woman gasped.
+
+“I haven't had the Mana available to do that in years.” Maria, the old lady said. “Back then, it was simple designs and they were easy to repair. Nowadays, with all the intricate cuts, frills, lace, and everything else, it's just too hard to keep up with the demand.” She sighed. “I miss the old days.”
+
+Ren took out 2 of the gold rings he had in inventory, and enchanted them with 5 runes of Mana Production, which increased a person's Mana Regeneration by 50%, and 5 runes of Mana Boost, which increased Mana Regeneration by 25% and added 250 points to the total Mana.
+
+“Here.” He said and gave them each a ring. “Don't think back on the old days, Maria. Do what you want to do now.”
+
+“You... why...”
+
+“Because I can.” Ren said and grinned at them. “I might be back in three months for the Crown Princess' birthday. Can I invite myself over for dinner if I am?”
+
+“You can come over for dinner whenever you want!” The young woman said. “We'll keep a plate set for you!”
+
+Ren gave them a little wave, and turned to walk away.
+
+“Wait!” The young woman said. “My Lord! What's your name?”
+
+Ren chuckled. “My name's Ren.” He said, then ran over to the wall and jumped over it, climbed into the very expensive-looking carriage, and the two women watched wordlessly as it drove away.

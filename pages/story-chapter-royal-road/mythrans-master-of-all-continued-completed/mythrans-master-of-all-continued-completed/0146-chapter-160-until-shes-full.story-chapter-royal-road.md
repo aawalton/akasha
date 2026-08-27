@@ -1,0 +1,373 @@
+---
+id: f96ae463-e703-5ac0-a27c-7eb9fa1eb64a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 160 - Until She's Full"
+slug: 0146-chapter-160-until-shes-full
+partOf: mythrans-master-of-all-continued-completed
+position: 146
+ownLength: 3469
+unit: words
+publishedAt: 2017-02-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116785/chapter-160-until-shes-full"
+royalRoadId: "116785"
+---
+
+Once the door was closed, Ren got a popup.
+
+Notice!
+
+You have unlocked a new ability: Quest Giver
+
+This ability lets you start and end quests (Major, Minor, Special, Running, and Limited). As an owner of a business on 2 different continents, you can set the parameters to fit your needs at the time the quest is given, in both Kingdoms.
+
+“That's cool.” Ren said, and told Elerlyth about the new ability. She looked at him with raised eyebrows.
+
+“You've already thought of a way to abuse that, haven't you?” Elerlyth asked.
+
+Ren nodded. “Of course I have.”
+
+She laughed. “I'm not going to ask.”
+
+Ren took her hand and they went upstairs to the apartment. Ren stored his armor and bodysuit, and noticed the pile of shadow coins. He transferred them back into his coin vault, and changed most of them back into platinum coins. He kept a few as shadow coins, just so he could keep his access to the hidden currency. He climbed into bed, and Elerlyth took off her armor and bodysuit to climb into bed as well.
+
+“Go ahead and ask.” Ren said. “I know it's been bugging you.”
+
+“What's the show Miss Golden Globes is going to call you about tomorrow?”
+
+“Miss Golden Globes.” Ren said. “I have to remember that.” He smiled. “That's a good one.”
+
+“Come on, spill it.” She said.
+
+Ren told her about the show proposal, that the pilot was bought by the television network, and that he'd be a consultant.
+
+“No way.” Elerlyth said. “You...” She swallowed audibly. “...are going to have a show on television.”
+
+“It's just a pilot.” Ren said. “At least, that's what Elise said in her email. It's going to be shown to a target audience first, then aired once. When they get the ratings after a couple of days, then they'll decide if it's good enough to be picked up for a series.”
+
+“Ren.” She looked at him with a serious face. “Do you think they'll need a tech person?”
+
+He looked at her. “They have a whole department of tech people at Sid Tec.” Ren said. “I'm sure they've got everyone they need.”
+
+Her face fell and she sighed.
+
+“Actually, that reminds me of something I meant to ask you about.” Ren said. “It's only just happened, so don't get mad at me.” He said, and she nodded. “One of the nurses and I were hired to conduct medical experiments, to test the limits and viability of the VR headsets as rehabilitation tools.”
+
+“You WHAT?!?” Elerlyth yelled.
+
+“Could you speak up? I didn't hear you.” Ren chuckled as she smacked him. “I remember you telling me about modding the old helmets.” He said. “I haven't mentioned you to Stella yet, but I'll be seeing her tomorrow morning for her regular shift. I'll talk to her about getting you added onto the project.”
+
+“Are you serious?” Elerlyth asked. “You want me to come and work for you?”
+
+Ren nodded. “It's right up your alley, too.”
+
+“But I... I don't have my degree yet.” She said.
+
+“I don't think we'll need a full engineer.” Ren said. “Plus, it's not like it'll be full time.”
+
+“What?”
+
+“I know what your schedule is like; and I know what my schedule is like.” He smiled. “My nurse Stella only works with me every third day. We're not going to be working on this all the time.”
+
+“Oh.”
+
+“You sound disappointed.” Ren lay back. “I thought you'd be excited about it.”
+
+“It sounds like a great project, but... I'll have to think about it.”
+
+How's my time, Teepo?
+
+“You've got a few hours before you have to leave, assuming you want to get home before breakfast.”
+
+I do. Thanks. Ren looked at Elerlyth. “I've only got a few hours before I have to go.” He said. “Will that be enough for you?”
+
+“I've been feeding this whole time.” Elerlyth smiled. “I'm pretty full.”
+
+Ren looked at her. “Then... why did you come to bed?”
+
+“You've been hiding something from me.” She said. “I felt a touch of it when we found that man and woman in the ashes.”
+
+Ren took a deep breath and let it out. “The reason I messaged you.”
+
+Elerlyth nodded, and pulled him in close to get as much skin contact as possible. “Tell me about it.”
+
+Ren opened his mouth and his heart, and told her the story, then let everything he'd been holding in out. Elerlyth stopped breathing from the tidal wave of guilt and sorrow, and kissed him, and didn't even try to pace herself. Ren held her tight and made love to her, frantic for her to take everything she could from him. He did her over and over, for nearly an hour, and she gorged on everything he felt and leveled her ability again. They both went several times, and when the tiredness of barely sleeping for 2 days hit him, Ren finished once more, and lay beside her.
+
+“It wasn't your fault.” Elerlyth said, and kissed him softly. “It could have been anyone. It could have been no one.” She said, and stroked the side of his face when he turned to face her. “They were coming for you anyways.”
+
+Ren opened his mouth to argue, but then he thought about it. “I still think it's kind of my fault; but, I guess you're right. It was... it was bad timing that she was making a delivery right then.”
+
+Elerlyth nodded. “Really horrible timing.”
+
+“Thank you.” Ren said, and cupped the side of her face. “You've helped me again.”
+
+“I'm more than happy to.” Elerlyth licked her lips and sighed. “You have so much to give me that I can't help myself.”
+
+Ren smiled. “I was actually pretty desperate for you to take as much of it from me as you could.”
+
+Elerlyth nodded. “I felt that, too.”
+
+“You handled it all really well.” Ren said. “I thought you might have had trouble with it.”
+
+“And you wanted to give it to me, anyway?”
+
+Ren nodded, and she smiled.
+
+“Thank you.” Elerlyth said and kissed him. “You trusted me enough to handle your problem.”
+
+“Nathalia and Narhilda wanted me to share it with them, though.” Ren said, and Elerlyth's eyes widened.
+
+“How would they do that?” She asked. “They don't have my ability, do they?”
+
+Ren shook his head. “I discovered a trick to share Auras, and we can feel the other person's strong feelings.”
+
+Elerlyth looked at him with surprise on her face. “You're just telling me this now?”
+
+“Yeah.” Ren said. “What's wrong?”
+
+“Why didn't you tell me before?” Elerlyth asked. “We could have been feeling each other's feelings this whole time.”
+
+Ren smiled. “It only works for people who understand the importance of House Neram.” Ren said, and took out the pendant from around his neck.
+
+“Good god! What the hell is that?” She asked, and held the 3 inch diamond pendant in her hand. “It's huge!”
+
+Ren pointed to the design etched onto the surface. “This is the House Neram crest.” He explained. “When you wear it, and concentrate on what House Neram means to you, it lets your Aura merge with someone else who is also concentrating on their own copy of the crest.”
+
+“That... that's...”
+
+“Kind of dangerous, actually.” Ren said, then explained about how Ereka had reacted to having access to his strong feelings.
+
+“You unleashed your gushing emotions on that poor girl?” Elerlyth laughed. “Ren, you have to be careful about things like that.”
+
+He nodded. “I know. I decided to only share my Aura with those I care about.”
+
+“Can you make me one?”
+
+“I could give you one, but it wouldn't work for you.” Ren said. “You don't have any reference about what House Neram means to you.”
+
+“Why does it have to be only House Neram?” Elerlyth asked. “Can't you just enchant it with whatever design you want, as long as it's about something you and that other person shared?”
+
+Ren stared at her with wide eyes. “I... I...”
+
+“You didn't think about it at all after you made it, did you?” She grinned. “That's all you seem to do. You make something, then move on.”
+
+Ren took a deep breath and let it out. “I don't know why I'm so surprised.” He gave her a quick kiss. “You are brilliant, after all.”
+
+Elerlyth laughed. “You can say that as many times as you want, it won't make it true.”
+
+“Elerlyth.” Ren said, seriously. “How often do you think I meet someone who is smart enough to earn an engineering degree in their spare time?”
+
+She felt his sincerity, and fed on it. “I won't argue about it.”
+
+“That's because you can't.” He laughed. “Okay, I think I know a design that I can enchant.”
+
+“Are you going to make me one of these?” Elerlyth held up the pendant, and Ren took out one of the brooches.
+
+“Would this satisfy you instead?”
+
+Her eyes sparkled at the brooch, and she nodded. Ren absorbed the old enchantment, and thought about the design he had in mind. He combined it with the Enhancement rune, thought Distance and enchanted the diamond. A tenth of his Mana Pool drained away, and he looked at it. A spider etched itself onto the surface, and a glyph of Enhancement runes appeared on it's back. Ren examined it, and smiled.
+
+Brooch of the Spider
+
+This brooch was made, and enchanted, by Ren the First. It grants the wearer: Aura (Spider). Distance: 18 feet. Can combine with other Auras or effects to increase both distance and effectiveness.
+
+Ren handed the brooch to Elerlyth, and she examined it herself.
+
+“Oh, Ren!” She said, kissed him, then looked down at herself. “I apparently don't have anywhere to pin it.”
+
+He reached out and lightly pinched the tip of one of her breasts, and she laughed.
+
+“I don't think so, mister.” Elerlyth said. “This body is in pristine condition. I'm not piercing anything.” She smiled. “It would make wearing my clothes and armor difficult, too.”
+
+Ren chuckled. “It was just an idea.”
+
+“You're not becoming one of those people, are you?”
+
+“What 'people' is that?”
+
+“Someone who only wants to see how odd I am.”
+
+Ren shook his head. “You know I don't see you like that.”
+
+“Sorry.” Elerlyth sighed. “It's... it's a sore spot for me.”
+
+“I have no doubt that it would be sore for a while, if you went through with it.” Ren said, intentionally twisting what she meant, then kissed the tip of her breast that he had pinched. She laughed as his tongue tickled it a little.
+
+“So, what do I do with it?” Elerlyth asked, and held out the brooch. Ren took out another one, absorbed the old enchantment, then enchanted it with the same one he had used on Elerlyth's brooch.
+
+“You can just hold it in your hand.” He said. “Close your eyes.”
+
+She looked at him for a moment, then closed her eyes.
+
+“Remember when we were together, and you showed me your ability to create a spider.”
+
+Elerlyth took in a sharp breath and opened her eyes. “You...”
+
+“I made it something that only you and I could ever share.” Ren smiled. “Close your eyes.”
+
+She took a deep breath, and closed them again.
+
+“Remember how that felt. Us together like that, then you using your ability.”
+
+Elerlyth's new Aura (Spider) sprung into place, and Ren nodded.
+
+“That's it. Keep thinking of that feeling.” Ren concentrated on his own brooch, and thought of the same thing. His new Aura (Spider) sprung into place, and Elerlyth caught her breath as the two Auras merged. She felt his feelings, and felt him feeling her feelings, and she fed on them. With their Auras merged, it created a kind of self-charging battery of emotions.
+
+“Oh. My. GOD!” Elerlyth yelled and opened her eyes. She grabbed him with her free hand, and kissed him. She felt what he felt, then felt how she felt through him, and how much he enjoyed knowing how she felt. Elerlyth broke the kiss and stared at him.
+
+“Inside of me! Right NOW!”
+
+Ren obliged without hesitation, but thought about teasing her.
+
+“Oh, god!” Elerlyth felt his brief amusement, and his reaction to feeling her reaction to that amusement. She clamped her legs and arms around him, and kissed him passionately. For another 2 hours, she reveled in the sensations they shared, and fed so well that her ability leveled again.
+
+“I... I can't take any more, Ren.” Elerlyth said, and let him go. “Good god, that was...” She checked her ability. “My ability is almost at Expert!”
+
+Ren lay beside her, and grinned. “I'll have that at Master in a month.”
+
+Elerlyth reached a hand over to him, and rubbed his chest. “That's why you're doing this, isn't it?” She asked as she felt his feelings, and Ren nodded.
+
+“Besides being with a woman like you; which is awesome, by the way...” He grinned. “...I want to see what you can do when it's full.”
+
+“You're too good to me.” Elerlyth said. “You could be working on your own abilities, instead of all the time you're spending with me.”
+
+“You're right.” Ren said and got out of bed. “See you later.”
+
+“WHAT?!?”
+
+Ren felt her indignation, and let that feeling and his amusement, flood back. Elerlyth grabbed her abdomen.
+
+“I can't take it, Ren.” She said. “I'm more full than I've ever been.”
+
+Ren stopped concentrating on the Aura (Spider). “Is that better?”
+
+Elerlyth relaxed. “Thank you.”
+
+He chuckled and put on his Travelling Clothes, pinned the brooch to his shirt, and equipped the Dire Wolf Hooded Cloak. “I've got to go.”
+
+“You're really leaving me?” Elerlyth asked. “I thought you were joking.”
+
+Ren walked around the bed and knelt beside her. “If I leave now, I can get back to House Neram before breakfast.”
+
+“Oh.” Elerlyth said. “I thought...”
+
+“I was joking about you being right.” Ren said, and kissed her. She reached a hand up and held onto him. They made out like that, and she could feel how happy he was that she was doing it because she wanted to, and not because she needed to feed. Elerlyth broke the kiss, and Ren leaned back.
+
+“I wish I could feed on that feeling.” She said. “It's so pure that it hurts to feel it and not be able to.”
+
+Ren grinned and ran a hand through her hair. “Remember that feeling. When you start coming down off of your feeding high, you'll still be able to 'taste' it.”
+
+Elerlyth nodded and closed her eyes. “Yes... okay. I've got it, I think.” She opened her eyes and looked at him. “I guess I won't see you for a few days.”
+
+“4, if my calculations are right.” Ren said. “It'll be another real time overnight game night by then.”
+
+Elerlyth sighed. “I don't think I can make it tomorrow night.”
+
+“Then 8 days, assuming you can't get back online before then... or feel yourself getting hungry for little old me.” Ren smiled. “Then I'll come when you call.”
+
+Elerlyth nodded. “I really can't thank you enough for everything you've done for me.”
+
+Ren grinned. “I was going to say the same thing to you.”
+
+She grinned back. “So, is Little Ren still getting the most out of all of this?”
+
+“It's a hot debate.” He kissed her again. “I'll see yo-”
+
+*BANG* *BANG* *BANG*
+
+“That's the front door.” They said together, and Ren smiled as he stood up.
+
+“I'll see who it is.” He said. Teepo. Ren thought, then went downstairs.
+
+“On it.” Teepo came out of his living space and flew over to land on the door just as Ren reached the first floor. Teepo squeezed out under the door. “It's several soldiers, Ren.”
+
+Do they look angry? Ren thought.
+
+“No.” Teepo said and flew up to see their faces. “They look a little happy, actually.”
+
+Ren went over to the door and opened it, just as the soldier was about to knock again.
+
+“Can I help you?” Ren asked.
+
+“Lord Eric orders your presence at the mansion.”
+
+“Really?” Ren said. “I don't remember joining the army.”
+
+The soldier looked at him like he was crazy.
+
+There's that look again. Ren thought in amusement, and Teepo chittered in laughter and landed on his shoulder.
+
+“Lord Eric... requests... you attend to him at the mansion.” Another soldier said.
+
+“That's better.” Ren said. “I'll just be a minute.” He said and shut the door in their surprised faces. He ran up the stairs and to the bedroom. “Elerlyth, I've been summoned to the mansion by Lord Eric.”
+
+She got out of bed and felt Ren's appreciation of her nude form, then smiled and equipped her bodysuit and armor. “Let's go.”
+
+“I have to pop through the portal to tell Nathalia what's going on, and that I'll be a little late getting back.”
+
+Teepo dissolved into the ring and Ren went into the living room, followed by Elerlyth.
+
+“I'd really like to go through that with you.” Elerlyth said, and Ren smiled.
+
+“If I can figure out a way to do it, I'll let you know.” He said. “As it is, you'd be killed instantly if you tried.”
+
+Elerlyth nodded and Ren stepped through the portal and concentrated on talking to Nathalia.
+
+*
+
+Nathalia was standing in front of the ornate door, when she noticed her Sending Ring started to glow. She clenched her fist and covered it with her other hand. She looked around as Ren's voice came out as if he were standing right there with her.
+
+“I'm really sorry for bothering you so early.” Ren said. “But I've been summoned to the mansion by Lord Eric. There was a fire in the city last night, and I helped deal with it. I'll explain more later.”
+
+“Can't talk. Busy.” Nathalia said, and sighed in relief because no one else had been around to hear.
+
+*
+
+Ren looked at the ring, and frowned. Something must be going on. He thought. I wonder if it has anything to do with that scroll? He stepped back through the portal and nailed the cabinet shut.
+
+“Ready?” Elerlyth asked.
+
+Ren nodded. “Let's go have an audience with the high and mighty Lord Eric.”
+
+Elerlyth snorted. “You better not say anything like that while in the mansion.” She advised. “You know some of the spells they have in there.”
+
+Ren nodded and they walked down the stairs together. He opened the door and let Elerlyth step out ahead of him, closed and locked the door, and concentrated on his Command Aura.
+
+“Lead on.”
+
+The soldiers recognized a command voice, and led the way down the street before they even realized Ren wasn't someone that should be able to command them. Ren and Elerlyth followed closely behind and looked around at the city. Now that it was daylight, a lot more of the details could be seen. Fire had pretty much touched everything; from the paving stones to the buildings, and to people and their clothing.
+
+“It's sad, isn't it?” Elerlyth asked. “There's so much damage from the fire.”
+
+“That depends on your perspective.” Ren said. “You could also say that there's so much left after the fire.”
+
+She glanced at him. “What would you actually say?”
+
+“My first thought was that the fire had touched everything.” Ren said. “So that's how I see it.”
+
+Elerlyth smiled. “You always have a neat perspective on things.”
+
+“It's because I'm so short.” Ren said and chuckled. “I have a completely different angle to see things from.”
+
+She put an arm around his shoulders and pulled him close, and Ren looked up at her face as they walked together behind the soldiers.
+
+“Although, to be fair, it doesn't matter what angle I see you from, you're still beautiful.”
+
+Elerlyth glanced down at him, and smiled as she felt the truth from him. “You might be a little biased.”
+
+“A little?” Ren raised a single eyebrow and laughed.
+
+The soldiers didn't comment about the conversation they were overhearing, but they were in awe that such a little man could talk to such a dangerous creature and not cringe. Elerlyth could feel their fear and awe, though.
+
+I can't even enjoy it. Elerlyth thought, looked down at Ren, and grinned. You're really doing a job on me, aren't you?
+
+They walked to the mansion and Ren noticed that the townspeople were gone.
+
+“I wonder where...” Ren started to say, when the front doors of the mansion opened. “...never mind.”
+
+He saw that the place was packed full of townspeople, who noticed him and started to cheer.
+
+“Ren!” “Ren!” “Ren!”
+
+“Your adoring public awaits you, little hero.” Elerlyth said and grinned.
+
+“Oh, crap.” Ren said, and she laughed.

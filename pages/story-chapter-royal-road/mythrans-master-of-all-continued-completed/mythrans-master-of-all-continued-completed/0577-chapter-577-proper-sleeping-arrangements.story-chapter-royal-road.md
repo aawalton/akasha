@@ -1,0 +1,239 @@
+---
+id: ba9328f4-c703-52dd-9990-db9388625699
+page-type-slug: story-chapter-royal-road
+title: "Chapter 577 - Proper Sleeping Arrangements"
+slug: 0577-chapter-577-proper-sleeping-arrangements
+partOf: mythrans-master-of-all-continued-completed
+position: 577
+ownLength: 2540
+unit: words
+publishedAt: 2018-05-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213420/chapter-577-proper-sleeping-arrangements"
+royalRoadId: "213420"
+---
+
+“I wonder if I can get a copy of that painting before I leave.” Ren said.
+
+“We can ask.” Artemis said. “There's the spot where we hit the wall and bounced off.”
+
+“How did we not smash it to bits?” Ren asked.
+
+“I have no idea.” Artemis said. “Want to try it again and see?”
+
+Ren snorted a laugh. “You just want to tackle me again.”
+
+“Of course I do.” Artemis gave his shoulders a squeeze. “Play fighting gives us a legitimate excuse to paw at each other without having to admit that's what we're really doing.”
+
+Ren chuckled and let his hand slide down to her jean-covered backside and gave it a squeeze. “Are you sure you only want it like that?”
+
+Artemis came to a stop beside the bed, and they were on the opposite side that they had started on. “Ren, we need to be careful.”
+
+“Don't worry, I will be.” Ren smiled. “Now get on the bed and I'll give you a real massage.”
+
+“Sleep attire?”
+
+“Please.” Ren said, and equipped his shorts to replace his blue suit.
+
+Artemis equipped her short shorts with the tight t-shirt and crawled onto the bed. She laid down on her stomach and folded her arms underneath her head, then rested her chin on her forearm.
+
+“I don't know how to turn off the lights here, so I have to improvise the dark.” Ren said and picked up the blanket, climbed on top of Artemis and sat on her lower back, then flipped the blanket up and over them to cover them completely.
+
+“Is that necessary?” Artemis asked.
+
+“I don't want you to be embarrassed by having someone other than me stare at you.” Ren said and started to massage her back.
+
+“Mmm.” Artemis moaned as his fingers dug in.
+
+“Artemis, can I ask you a question?”
+
+“S-sure.” Artemis said.
+
+“Can you dismiss the Full Illusion spell?”
+
+“I... I don't think I should.” Artemis said. “If I do...”
+
+Ren leaned down and moved her hair out of the way, then kissed the back of her neck. Artemis shivered from the feel of his lips, then dismissed the spell without another word. Her skin tone faded to reveal the bare metal it really was, and Ren kissed her neck again.
+
+“Oh, god.” Artemis said as his kissed his way down her back and massaged her muscles as he went. “That feels sooo good.”
+
+Ren moved past her lower back and reached the mounds of metal that was barely covered by her shorts. “You were right, Artemis.” He said and kissed each cheek. “You really do look so much better like this.”
+
+“R-Ren...”
+
+Ren grabbed onto the cheeks and massaged them, and Artemis couldn't hold her moans in. She was pretty vocal as he moved onto her thighs and kissed them as well, then he pushed her legs open.
+
+“I guess this means you really are fully functional.” Ren said and saw that her shorts couldn't contain her excitement.
+
+“I've tried to restrain myself and not react to you all this time.” Artemis said. “You don't know how hard that was, especially with you being with all the others.”
+
+Ren touched her private place through the damp cloth.
+
+“Oh, GOD!” Artemis almost screamed in pleasure as she went.
+
+Ren lifted her hips up and pulled her shorts down to reveal her completely, so that he could get a good look. “Wow.” He said and touched her directly for the first time. “It's amazing.”
+
+“P-please, Ren!”
+
+“Of course.” Ren said and kissed her there. Artemis shoved a hand into her mouth to stop herself from screaming as Ren finally played with her intimately. She had seen him do this so many times, and felt the woman's reactions; but, feeling it directly herself was a lot different... and in her personal opinion, so much better.
+
+They both knew they had most of the night to spend together before they had to sleep, but they also knew that they wanted a bit more privacy if they wanted to go further.
+
+“S-s-sleep!” Artemis said after she went again, and Ren stopped kissing her. He moved up to lay beside her, then moved the blanket down to their shoulders.
+
+“You're right.” Ren said. “Let's sleep first.”
+
+Artemis only nodded and breathed heavily. He gave her cheek a kiss and rolled over onto his back.
+
+“Goodnight.”
+
+Artemis leaned over and gave him a kiss on the lips, then rolled over onto her back as well. “Goodnight.”
+
+*
+
+“Damn, we didn't get to see anything.” One of the observers said. “Whatever they were doing under the blanket, they weren't moving much.”
+
+“If the stories are true, we know they weren't mating.” The other said. “They needed a lot more room than what they had, and they would have been a lot louder.”
+
+“Are you sure?” The first one said and put his face close to the back of the observation window. “They could be shy.”
+
+“While alone with each other?” The other laughed. “No, we just need to give it a few days.”
+
+“I'll hold you to that.” The first one said. “My mate is really curious about what they do.”
+
+“Come on. We should eat something while we have the chance.”
+
+“Sounds good.”
+
+They got up and left the room. When they were down the hall and away from their post, the first one sighed.
+
+“When they did that weird tour of the room, I was completely unnerved.” He admitted. “I nearly screamed 'he caught us!' when he touched the painting.”
+
+The other one chuckled and pat him on the shoulder. “I'll let you have the first kill, all right?”
+
+“You're a good (bubble gurgle).” The first said. “I'm glad I didn't have to kill you for mating with my sister.”
+
+The other one laughed and laughed as they entered the dining room.
+
+“It wasn't that funny.” The first one said.
+
+“No, it was hilarious!” The other said and pointed as a large fish swam past them. “There goes your meal!”
+
+“(gurgle bubble)!” The first one cursed and started to swim, and several Sea Dwellers laughed as he scrambled after it.
+
+*
+
+Ren and Artemis woke up after an hour, and Teepo told them they were alone.
+
+“They left about 15 minutes after you fell asleep.” Teepo said. “Now that I know what to look for when they move, I managed to catch them and watched as they left the room next door and went down the hall.”
+
+“I guess you didn't follow.” Artemis said.
+
+“No, I'm never leaving Ren's side again.” Teepo said. “I've made that mistake in the past, and it cost us a few times.” He said. “I'm keeping my word and keeping Ren safe.”
+
+“I'm not even going to discuss the t-word with everything going so well.” Ren said and looked at Artemis. “Since we have a bit of time and aren't being watched...”
+
+“Ren, we... we shouldn't.” Artemis said. “They could come back and we might be...”
+
+“...in a compromising position.” Ren finished, and she nodded.
+
+“That's easily fixable.” Ren said and made a 5 foot wide box with one side open, then cast Full Illusion on the inside to reproduce the room exactly. He asked Artemis to hold it and took out the All-Seeing Mirror. “I've got a slightly more complicated task for you, if you're up for it.” He said. “Please give me the view of this room through the observation window.”
+
+The mirror showed him the room and he could see himself and Artemis in it.
+
+“Please keep this view and overlay what we do next.” Ren said and Artemis held up the small fake room against the painting that was the observation window in the other room. He had to direct her to shift it over slightly, then down a bit, and he made a brace to hold it in place. Once it was secured in place, he cast Full Illusion to cover it over.
+
+“That's not going to work for long.” Teepo warned.
+
+“It's only a temporary sight blocker, and it can be moved in and out at any time.” Ren said. “If we want privacy at night, that is.”
+
+“Ren, it's brilliant.” Artemis said.
+
+“As long as we get back under the blanket, I can move it out of the way whenever we want.” Ren said. “With the Full Illusion spell, I probably didn't have to make the box; but, I'd rather have an actual thing in the way instead of a spell that might get dispelled.”
+
+“Good point.” Teepo said. “So, what are you going to do with your newfound privacy?”
+
+Ren and Artemis looked at each other and spoke as one. “Full body massage.”
+
+Artemis walked over to the bed and sat down, and Ren grinned at her.
+
+“It's not going to be that easy.” Ren said and took two steps away. “I distinctly remember someone saying they wanted to try to tackle me again.”
+
+Artemis grinned back at him and darted across the room after him. Teepo chittered in laughter as his friends chased each other around the room. This went on for several minutes, and then Ren tried to hop over the bed.
+
+“Ha! Got you!” Artemis said as his foot got tangled in the blanket, and tackled him onto the bed. They wrestled around a bit and touched each other, tickled a little, then relaxed as they held onto each other and calmed down.
+
+“So, how was that?” Ren asked, now that they were laying on the bed. “Did you have fun?”
+
+“Ren, I'm just getting started.” Artemis said and kissed him.
+
+“I'll keep a lookout.” Teepo said and went over to the door to watch for the returning observers.
+
+The massage started not long after that, and both Ren and Artemis enjoyed the feelings they elicited in each other. After that, Ren felt, caressed, kissed and licked everything on Artemis, and she was in ecstasy. When she had finished several times, she turned the tables on him and did everything that he did to her back to him.
+
+It was the first time Ren had someone do that for him, and he watched as Artemis did everything exactly the same as he did; that is, until she came to his private place. They both knew it had to be different for this part, considering the different shapes, and Artemis looked at his face as she very slowly pressed her lips against him.
+
+Ren caught his breath as she kissed him there with her soft warm metal lips, then she stuck out her tongue and licked him. Artemis almost laughed at his reactions as she moved up and paused before going any further.
+
+“Tell me what you want.” Artemis said.
+
+“I want to feel what it's like for you to please me like that.” Ren said. “I really, really do.”
+
+Artemis smiled and gave him another lick, and he took in a sharp breath. “What did you say?”
+
+“I want you to suck on it so hard that I won't be satisfied if you aren't sucking on it.”
+
+Artemis chuckled. “Yes, My King.” She said, then plunged down onto him.
+
+Ren didn't talk much after that.
+
+After three hours of playing with each other and not going further than that, Teepo warned them that the observers were coming back. They equipped their clothing again and Ren used his Water Manipulation ability to move the model room away from the observation window. Ren and Artemis settled down on the bed and covered up with the blanket, and resumed their normal sleeping poses.
+
+Once back in place, they started to laugh at getting away with what they did. Artemis put a hand over Ren's mouth to stop him, and he stuck his index finger in hers. Artemis snorted a laugh at the absurdity, then she started sucking on it. He couldn't say anything because they were trying to stay quiet, and he also didn't want her to stop. She pulled his finger out of her mouth and then stuck the next one in her mouth. She did all 4 fingers, and she could see his face and feel his surprise.
+
+“You're not thinking about the observers now, are you?” Artemis whispered.
+
+“Hell, no.” Ren whispered back and used his freshly sucked fingers to reach down between her legs. She caught her breath as he played with her, and held in her moans.
+
+“R-Ren, you... mmm... shouldn't...”
+
+Ren moved close and kissed her, and she put an arm around him. They made out like that for quite a while, and then Teepo told them to get some sleep so they could be ready for work in the morning. They weren't fussy on the idea, but had to agree that he was right. They held each other's private place tenderly and drifted off to sleep, and both of them were quite happy with the arrangement.
+
+*
+
+“How long do Land Dwellers normally sleep, anyway?” One of the observers asked.
+
+“It depends on a lot of factors, and on who it is.” The other said. “It could be anywhere from 4 hours to 12.”
+
+“You're kidding.”
+
+“No, that's why we always come back before that 4 hours is up, just in case these two are early risers.”
+
+“Ha, I was wondering why we always had to rush back.”
+
+“It's just a precaution.” The other said. “They've stayed in bed almost the entire time they are in the room.”
+
+“Well, that makes our job a lot easier, so I'm not going to complain.”
+
+“Me, either.”
+
+They settled in for the long night of observing. They always made their reports in the morning before going to bed themselves, so they were wide awake the whole night and watched Ren and Artemis sleep.
+
+*
+
+Ren and Artemis got up the next morning and equipped their armor, and then the guide showed up.
+
+“I'm to escort you right to work.” The guide said.
+
+“Aww, we didn't get invited to breakfast.” Ren fake pouted.
+
+Artemis chuckled as she bent down to kiss his cheek. “You didn't really expect an invitation, did you?”
+
+“No, I was just hoping to be surprised.” Ren's pout became a huge smile as he held out an elbow for her. “Are you ready to watch me work again today?”
+
+“I'm always ready to watch you.” Artemis said and took Ren's offered elbow, and they followed the guide out of the castle and to the mines.
+
+For the next month, that day was repeated. Ren worked during the day and Artemis watched, and at night they played with each other and had fun spending time together. Ren kept teasing and testing the observers, and played the game of 'chicken' with them, to see if they would flinch first.
+
+All that came to a stop on the day of Railyse's tournament. It would determine who would sire her spawn and lead the people into the new era, with the continued Royal Family, and Ren had the day off. He didn't know that he would have to watch all of it, and not just the spawning ceremony. He and Artemis were given a choice place to float to witness the tournament.
+
+Right next to Railyse and her mother, the old Queen.

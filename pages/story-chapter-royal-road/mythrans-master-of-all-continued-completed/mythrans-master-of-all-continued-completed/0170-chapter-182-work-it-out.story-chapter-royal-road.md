@@ -1,0 +1,405 @@
+---
+id: 299e0263-bcc2-5e4b-976b-7cf4356dd9a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 182 - Work It Out"
+slug: 0170-chapter-182-work-it-out
+partOf: mythrans-master-of-all-continued-completed
+position: 170
+ownLength: 4671
+unit: words
+publishedAt: 2017-02-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121005/chapter-182-work-it-out"
+royalRoadId: "121005"
+---
+
+It took another hour and 20 minutes to get back to House Neram, and Ren put Princess in the stable.
+
+“Thank you so much for taking me all that way.” Ren said to her as she plunked down onto her mattress in her crate.
+
+...You're welcome... Princess thought to him. ...Surprised you didn't go to portal...
+
+“I probably should have, but I need to work first.” Ren said. “When I'm in Aurora, I don't have the help of someone so awesome, though.” He smiled and scratched her chin. “It takes so long to go anywhere without you, that I've been kind of avoiding going back right away.” He sighed. “Even though I need to deal with some things there.”
+
+...Take day off and go...
+
+Ren stopped scratching her chin and looked at her. “That's a great idea.” He said. “I'll take tomorrow off, as I didn't say in the contract which day I would get off each week.” Ren pat her neck. “Thank you.”
+
+...You're welcome...
+
+Ren gave her a bit more food and went into the house. “Hello? Anyone here?”
+
+“In the kitchen.” Nathalia said, and Ren ran into the kitchen and hugged her from behind.
+
+“What's my beautiful soon-to-be-ex-fiance making today?”
+
+Nathalia chuckled as he nuzzled the back of her neck. “It's just meat and vegetables.”
+
+Ren looked over her shoulder at the food. “Do you want me to leave some of the food from the large icebox?”
+
+Nathalia shook her head. “You're going to need that during the day yourself.” She said. “I'm just trying to keep busy.”
+
+Ren grinned. “Well, I know a way you can keep busy.”
+
+She laughed as he slipped his hands under her apron and cupped her breasts.
+
+“You have to get to work.” Nathalia said, and pulled his hands away from her.
+
+“I do have a lunch break coming up.” Ren suggested, and she turned around and wrapped her arms around his neck.
+
+“We both know half an hour is nowhere near enough time to get started, let alone finish.” Nathalia said, and kissed him. She broke the kiss a minute later. “Now get out of here.”
+
+Ren grinned. “I'll tell you about my visit to the Convent after I get to work.” He said and held his Sending Ring up.
+
+“I look forward to it.” She said.
+
+“You say that now...” He laughed and gave her a quick kiss goodbye. Ren left the house and ran down the road, while Teepo flew by his side. They passed through the city a couple of minutes later, then arrived at the mines a few minutes after that.
+
+These boots are great! Ren thought as he went through the gate at the mines, and nodded slightly to the guard.
+
+“They sure are.” Teepo said. “I'm having a hard time keeping up with you.”
+
+You're increasing your stats, though... aren't you?
+
+“Yeah, but it's tiring.”
+
+Ren chuckled as he ran to the medical tent. If it was easy, everyone would do it. He went inside, and saw the healer working on a dwarf, who was passed out on one of the cots. He saw the dwarf's foot was quite mangled, and the healer was sweating a little as her hands glowed.
+
+“Are you okay?” Ren asked her, and she looked up at him. He could see she was struggling, and he went over to her. “How's your Mana level?”
+
+“A-a-almost gone.” Deresdra said, and Ren took out a Mana potion and tipped it into her mouth. She swallowed it eagerly, and her hands glowed brighter.
+
+“Did you use your Major Healing ability already?”
+
+She nodded. “Both of his feet had been crushed. I took off one of his boots, and the foot almost came with it.” She shuddered. “I didn't even try to spread the healing out, just fixed that one.” She sighed. “Now I'm stuck using Minor Healing on this one.”
+
+Ren looked at the foot. “It's not working well.”
+
+Deresdra shook her head. “The Major Healing took nearly three-quarters of my Mana.” She sighed. “There wasn't a lot left for other healing.”
+
+Ren took out his Major Healing wand and Deresdra stared at it. He used the wand several times, and the foot reformed itself into it's proper shape.
+
+“By the gods!” She exclaimed. “Where did you get that?”
+
+“I can't tell you.” Ren said and stored it. “Unless you joined my House.”
+
+Deresdra looked like she was considering the proposition, then the dwarf woke up.
+
+“Ugh... what... what happened?”
+
+“You were in an accident.” Deresdra said. “The large boulder your crew dug out shifted and rolled onto your feet.”
+
+The dwarf's eyes widened and he stared at his two bare, but perfectly fine, feet. “Thank you so much!” The dwarf said as he hopped off of the cot and hugged her. “You're a miracle worker!”
+
+Deresdra tried to protest; but the dwarf wouldn't hear any of it. He put on his boots and strode out of the medical tent, as happy as can be. Now that they were alone, she turned to Ren.
+
+“Behind the curtain.” Deresdra said. Ren walked across to the curtained-off area and went inside. She followed him and closed it. “Take them off.” She said, and tugged slightly on his clothing. Ren stored them and stood there in his underwear. She started the examination, and poked and prodded him a little harder than she did the last 2 times.
+
+“Is something wrong?” Ren asked, after a particularly hard poke in the lower back.
+
+“You've got a Major Healing wand, and didn't tell me.” Deresdra said. “The healer.” She massaged his back muscles much harder than necessary.
+
+“Was I required to?” Ren asked, as she came around to his front. She grabbed his pectoral muscles tightly, then sighed.
+
+“No, I don't suppose you had to.” Deresdra said as she eased her grip, then moved her hands down to his abdomen and massaged the muscles there. “It would have been nice to know, though.”
+
+“I wasn't even here.” Ren said. “Knowing I had one would only have made you angry at me.” He said. “Like you are now, actually.”
+
+Deresdra sighed again as she moved on to check his arms. “Where can I get one?”
+
+“I can't tell you that, either.”
+
+She knelt and checked his legs. “Why don't you want to help me?”
+
+Ren looked at her with both of his eyebrows raised. “Excuse me?”
+
+“You have a fantastic wand that any healer would die to have, and you won't tell me where you got it or even how to get one myself.”
+
+“So...” Ren started to say, as Deresdra stood up in front of him. “...building you a house, and giving you 45 platinum coins didn't count as helping you. That's good to know.” He snorted a laugh at her surprised expression. “Can I get dressed now?”
+
+Deresdra looked at him. “Why did you do that?”
+
+“I wanted you to pay off your contract, so you wouldn't be bound to it for another 4 years.” Ren said.
+
+“If I did that, then I'd have to sign one with you.” She responded.
+
+“What?”
+
+“It's bad enough that I'm indebted to a wonderful woman for such a long time; but, I won't be bound to a man I barely know for even longer.”
+
+Ren laughed. “What in the world makes you think I want you bound to me?”
+
+“You gave me all that money!”
+
+“Yes.” Ren said. “I gave it to you. Not loaned. Gave.” He sighed. “Did you see an indentured servant contract anywhere on the note I left? Have I even mentioned that I want you to sign one? Have I?”
+
+“No, but you just got here.” Deresdra said. “You could have-”
+
+“Stop!” Ren said. “If you are this upset about it, give me the money back.”
+
+“Wh-what?!?”
+
+“I will not have any woman think she owes me anything, just because I gave her money.” Ren said. “Hand it over.”
+
+Deresdra took in a deep breath, and handed over the coin pouch. Ren checked the contents, and dumped it into his coin vault. He took out a single platinum coin and showed it to her.
+
+“Do you see this?” Ren asked, and she nodded slightly. “This is a nice shiny toy. Spin it to play with it.” He said and dropped the coin into her coin pouch, then gave the coin pouch back to her. “Does that make you feel better?” He asked. “It's not money that I gave you, just a toy.”
+
+She looked at the coin pouch, then stared at Ren as he equipped his clothing.
+
+“Am I cleared for the mine?” He asked, and she nodded slightly again. “I hope you enjoy playing with your new toy, just as much as I enjoyed having to give it to you.”
+
+Ren stepped around her, left the curtained off area, then the medical tent. He went into the mine to take out his frustrations on the dirt and rock within. His first target was the large boulder the miners had unearthed. He went over to it, after asking where it was, and found that it was nearly 8 feet high and 12 feet across. He smiled as he took out his hammerpick.
+
+“Hey, what are you doing?” One of the dwarfs asked.
+
+“I'm about to smash this thing into pieces.” Ren asked, and glared at him. “Why?”
+
+“I was just... just curious.” The dwarf said, as he saw Ren's maniacal glare.
+
+“Give me some space, please.” Ren grumbled, and the dwarf backed away, then had the other dwarves back away as well. Ren smiled as he absorbed the Earth enchantment from his hammerpick.
+
+Earth against Earth doesn't work well. He thought, then had another. He took out a crate of diamonds, and picked out a large oval. He stored the hammerpick for a moment, and took out his Book of Runes. He enchanted the diamond with a single Earth rune, and turned it over. The new rune appeared in his book, and he did the same mental trick to make double, triple, and quadruple glyphs of it. Now that he was doing it, he enchanted the diamond with each of the other runes to find out the reverse of them, and added them to his Book of Runes. He did the mental trick to create all of the other glyphs for each of them. When he checked the pages, he saw the reverse of each rune had shifted all of the other runes to the next pages. The normal runes were on one side, and the reverse was on the other side of the page.
+
+That's pretty cool. Ren thought, then flipped to the page with Earth, and looked on the back of it.
+
+Rune of Antiearth
+
+This rune has the ability to disrupt other Earth enchantments, and causes extra damage to earth-based constructions/materials.
+
+“Oho!” Ren said. “That's perfect!”
+
+His words echoed in the main tunnel, and the dwarves standing there to watch, shifted on their feet because they were slightly uncomfortable with the tone of Ren's voice. He stored the Book of Runes and the crate of diamonds, and took out the hammerpick again. He held it in his hands, thought of the Antiearth quadruple glyph, and enchanted the hammerpick with a double glyph of it (8 runes total). The hammerpick glowed a deep green, and Ren closed his eyes for a moment.
+
+Earth, this is nothing personal. I just need to get my frustrations out on a large, inanimate object.
+
+Ren felt a bit of peace enter him, and he grinned. Thank you. He opened his eyes and hefted the hammerpick over his head.
+
+“You try to do something nice!” He said, and swung with all of his might. The hammerpick impacted the surface of the large boulder and it shook, then the shock wave cracked it right down the middle and left a 4 foot wide and 6 inch deep depression on the surface. It also threw dust into the air, and covered Ren. He hefted the hammerpick again.
+
+“You try to help people!” He swung again and hit the right side, and the same thing happened. It split down the middle and crushed a 4 foot area, 6 inches deep and turned it into dust. “You never ask for anything in return!” Ren swung at it again and smashed it. “All you do is give!” He swung. “And give!” He swung. “And give!” He swung again, and pulverized that side of the boulder until there was only head-sized chunks left. Ren stepped back from the pile of rubble, and moved over to the other side.
+
+“They all assume I want something!” Ren swung at the left side, and smashed it. “They all think I have bad intentions!” He swung. “Not once did they say thank you!” He swung harder and the boulder crumbled. “Why can't they say it?” He swung. “It's godsdamned easy!” He swung. “Thanks for your help, Ren!” He swung. “You see? It's EASY!” He exclaimed, and kept swinging until there was only fist-sized chunks left. When he was done, he stepped back and looked at the remains of the boulder. He took a deep breath, and then another.
+
+“Um... sir?” One of the dwarfs said.
+
+“Yes?” Ren said, almost completely calmed down.
+
+“There's another boulder over there.” He said, and pointed across the tunnel to a boulder that was nearly the same size as the one Ren had just crushed.
+
+“Yes!” Ren said, and ran over to the new boulder and slammed the hammerpick into it's surface, breaking it into three pieces. “Thank you!” Smash. “Thank you!” Smash. “THANK YOU!” Smash.
+
+For the next 4 hours, Ren destroyed every boulder that was pointed out to him. A few of them were even still embedded in the tunnel walls, and he reduced them to small chunks anyways.
+
+“That's 4 hours.” Teepo said. “How do you feel?”
+
+Relieved. Ren thought as he grunted to the work crew and left the mine. I didn't realize how much frustration I'd built up.
+
+“I'm glad you could work some of it out.” Teepo said. “You shouldn't hold stuff like that in.”
+
+I didn't really know I was holding it in until now.
+
+“Oh.” Teepo said. “It's a good thing you'll be working here for another 3 months, then.”
+
+Why's that?
+
+“It's going to be really frustrating for you to do all of this work, and then have to leave.” Teepo said wisely.
+
+Yeah. Ren thought. And I can't get invited back for a while.
+
+“I'm sure they'll welcome you back with open arms... eventually.”
+
+Some will. Ren chuckled as he opened the door to his workshop. Some won't.
+
+Teepo chittered in laughter and took off from Ren's shoulder to land on the top of the workshop. “Yeah, that's true.”
+
+Ren took out one of the anvils and placed it near the forge, but well away from where he could make molds on the floor. He took out the icebox and ate some food, then checked on the baby fire elemental by opening up the pen it was in. The baby was nearly 6 and a half inches across now, and he smiled.
+
+“You're getting bigger.” Ren said, and took out a piece of wood, and crushed it into sawdust and splinters. The baby fire elemental sucked up the sawdust like a vacuum, and Ren laughed. “You don't have to eat it all at once.” He said. “There's lots more where that came from.” He crushed another piece of wood, and the baby fire elemental dove into the pile. Ren finished eating while he watched the pile of sawdust slowly shrink, and then it caught fire. The pile collapsed in on itself, and Ren saw the sawdust sliding into the baby fire elemental. He moved some of the sawdust to cover it again, and the same thing happened.
+
+“That's neat.” Ren said, and did it again.
+
+“That's lunch.” Teepo said.
+
+Thanks, Teepo. Ren thought, then closed the baby fire elemental's pen. He left the workshop and went back into the mine to keep working. He dug for about half an hour, and then got the relief and happiness feeling.
+
+The trip to the Convent to get the anvil actually counted. Ren thought, then left the mine after telling the workers to only dig around any large boulders they find, and he would deal with them later. He went back to his workshop and to the cart of sand outside, while Teepo went back to his perch on the roof. Ren took a shovel full, and went inside the workshop to start up the large glass forge. He poured in the shovel full of sand, and went back out to get another. After several filled shovels worth of sand was added to the glass forge, he closed it to let the sand melt.
+
+I don't know how long to leave it. Ren thought, and shrugged. I'll come back in a few minutes.
+
+Ren left the workshop, went to the mine foreman's office, and knocked on the door.
+
+“Enter.”
+
+Ren opened the door, and stepped inside. “I just wanted you to know that I'm taking tomorrow off.”
+
+“That's fine.” The mine foreman said. “You've been doing good work.” He said. “I heard about the boulders.”
+
+Ren laughed. “I needed to work out some frustrations.”
+
+“I wasn't complaining.” The mine foreman grinned. “In fact, once the other workers got over the shock of you smashing the boulders apart so easily, they're actively looking for them instead of avoiding them.”
+
+Ren smiled. “I'm glad I could help.”
+
+“Make sure you enjoy your day off.” The mine foreman said. “I wish I could take one.”
+
+“You're not?” Ren asked, and the foreman shook his head.
+
+“I can't, until we get the production going.” The mine foreman said. “After that, though...” He grinned. “I can hand this off to someone else.”
+
+“There's no point in ordering you to take a day off right now, is there?”
+
+“Nope.” He said. “When you have a job to finish, who would want to take a break until it's done?”
+
+“I have to take the break, so... me, I guess.” Ren said, and he laughed.
+
+“See you in 2 days.” The mine foreman said. Ren nodded slightly and left the foreman's office, then went back into the workshop. He looked inside the glass forge, and saw the sand was nearly melted into a liquid. He stirred it around with his hand, as he didn't know if any of his blacksmith tools would survive the heat that could melt sand.
+
+“Another couple of minutes, I think.” Ren said, and closed the glass forge.
+
+“The healer is almost at the door.” Teepo said.
+
+Ren turned around and opened the door to his workshop, to see the healer staring at him with her hand raised to knock.
+
+“H-hello.” Deresdra said, and dropped her hand. “I... I came to apologize.”
+
+“That's not necessary.” Ren said, and stepped back to let her into the workshop. “It was my own fault for trying to help you.”
+
+“D-don't be like that.” She said as she came inside. “You're a nice guy. Don't let my stupid assumptions stop you from doing what you want to do.”
+
+Ren tilted his head slightly to the side as he shut the door. “You were in the mine.”
+
+Deresdra nodded slightly. “One of the workers thought you were going crazy, and came to get me.”
+
+Ren smiled. “And what's your professional opinion?”
+
+“I think you shouldn't hold in your feelings like that.” Deresdra said and grinned. “You should let them out.”
+
+Ren snorted a laugh.
+
+“Seriously, though...” She sighed. “...I'm sorry that I thought...”
+
+“That's okay.” Ren said. “It's not like you know me or anything.”
+
+Deresdra smiled. “I... I'd like to.”
+
+Ren shook his head. “I'm sorry; but, I can't.”
+
+“W-what?”
+
+“Despite the fact that I'm still engaged, even though it will end in 4 months, I'll always think you would be offering this because you want to make it up to me for thinking that I wanted to buy you.”
+
+Deresdra stared at him in shock. “You... you...” She swallowed. “You're turning me down?” She asked. “But... but you're allowed to enjoy the company of another woman, especially if she's willing!”
+
+Ren shook his head again.
+
+“You've seen me without my clothes on!”
+
+“That didn't seem to matter to you before.” Ren said. “Why does it matter now?”
+
+Deresdra closed her mouth, and didn't say anything.
+
+“Well, that clears things up nicely.” Ren said. “I'll be taking tomorrow off, so you won't be able to inspect me until I get back the next day.” He opened the door to the workshop. “I hope you have a good day otherwise, Ma'am.”
+
+Deresdra took in a deep breath through her nose, and let it out through her mouth. She looked at Ren, and was about to speak, then changed her mind and walked out of the workshop. Ren shut the door behind her, and sighed.
+
+“Why does it matter now?” Teepo asked. “I'm curious.”
+
+After my little rant in the mines, she knows that I had no intentions of doing anything with her afterwards. Now she wants me to give her the money to pay off her contract.
+
+“And she was willing to sleep with you to get it.” Teepo said.
+
+Yeah. Ren thought. Little does she know that's exactly the wrong thing to do.
+
+“What are you going to do?”
+
+The only thing I can do. Ren left his workshop and ran to the gate, while Teepo flew above him. The guard opened the gate and Ren ran by, waved to him, then ran down the road. I'm going to buy her contract. He ran back to the city, then to the Main Keep. He concentrated on the House Neram pendant, and bypassed the long line as one of the guards stationed there opened the side gate to let him through. Ren went inside and to the main desk.
+
+“Head of the Medical Wing.” Ren said to the receptionist before she could speak, and she gave him directions. “Thank you.” He walked at a fast pace to the right doorway, and down a hallway. Teepo.
+
+Teepo flew under the door and Ren waited until he got the all clear, then opened the door to the Medical Wing. He ignored all the stares as he walked to the right door and Teepo flew under it. After Teepo told him what was inside the office, he knocked.
+
+“You may enter.” A very dignified voice said, and Ren opened the door to see a very beautiful woman. She sat behind a large and ornate wooden desk, and wore a simple white tunic just like all of the other healers. Ren closed the door, walked over to her, and held his hand out. She stood and put her hand in his; he bent over it, and spoke.
+
+“It's a pleasure to meet you.” Ren said, let her hand go, and stood up straight. She was an inch taller than him, and had her dark hair tied up in a bun at the back of her head. It revealed a long neck and drew attention to her face, which was more like an exquisite carving instead of a woman's face.
+
+“Likewise.” The woman said. “I've attended both Council meetings of course, so I know who you are.” She smiled. “Meeting you in person is quite the treat.”
+
+“I can honestly say the same thing.” Ren smiled. “You're a sight to behold.”
+
+“So are you.” She said, and motioned to his clothing. Ren looked down and saw he was covered in dust and dirt. His eyes widened, and he looked up at her.
+
+“My sincere apologies.” Ren said as he equipped his armor bodysuit to replace the Travelling Clothes, then stored the Dire Wolf Hooded Cloak for an instant, then equipped it and his clothing again. “No wonder everyone was staring at me.”
+
+She laughed, and it sounded like birds singing. “Yes, you're quite the treat.” She said. “People are going to stare at you no matter what, though.”
+
+Ren nodded slightly, and she sat down.
+
+“What can I do for you today?” She asked, then smiled.
+
+“Did you receive the Minor Healing wand?”
+
+“I did.” She said. “50 charges will definitely help the younger members of the staff.”
+
+“Don't throw it away or harvest it for the focusing material.” Ren said. “It's not a normal wand.”
+
+She laughed again. “I know that, dear boy.” She said and looked at him intensely. “I examined it myself, and was surprised to discover that it can be recharged.”
+
+“I think it's because of the focusing material.” Ren said.
+
+“You are careful to avoid saying 'diamond'.” She said. “Are you trying to downplay it's value?”
+
+Ren nodded slightly. “It's worth about 3 and a half platinum.” He said. “In the wand, 5 platinum.”
+
+“Yes, it's quite valuable.” She said. “And a gift worth more than it's value to a healer.” She smiled. “is that why you are here? Do you want it back?”
+
+He shook his head. “No, of course not. It was a gift, and I hoped that the Medical Wing would put it to good use.”
+
+“Then why are you here?” She asked.
+
+“Although meeting you is reason enough...” Ren smiled. “...I came here about a healer working at my mine.”
+
+“Ah, yes. Deresdra.” She smiled. “She's a feisty one.” She looked at Ren with a question on her face. “Are you not happy with her?”
+
+Ren avoided the question, because he didn't know how to answer it honestly. “I'd like to buy her contract, if that's possible.”
+
+She leaned forward and folded her hands on the desk. “That's interesting.” She said, and frowned. “I'm not in the habit of selling my healers.”
+
+“I don't want to buy her for sex, if that's what you're implying.” Ren said to her surprised face. “I can get all that I want, or ever need, from other women the normal way.”
+
+“Then why...”
+
+“I tried to help her, and she accused me of the very thing you just accused me of.”
+
+Her eyes widened at the truth in Ren's words.
+
+“I want to prove to her that I'm not like that.”
+
+“Hmm.” She smiled. “I'm not sure I should sell her contract to you.” She said. “I don't really need money, you see.”
+
+Ren took out 5 Minor Healing wands and put them on her desk.
+
+“Oh... oh my...” She stared at them, then at Ren. “They're all rechargeable.”
+
+Ren nodded slightly. She caressed the diamond tips and sighed.
+
+“I don't think...” She started to say, and Ren took out the Major Healing wand. She gasped. “By the gods!”
+
+“I had to use it a few times so it's not full; but, since it's rechargeable...”
+
+She reached into her desk for a moment, then slid over Deresdra's indentured servitude contract without another word. Ren put the wand on the desk with the others, and picked up the contract.
+
+“Thank you for-”
+
+“Yes, yes! You can go!” She said as she waved him away, then gathered the wands into her arms and hugged them to her chest. “Such wonderful items!” She said, and started to laugh. “We can help so many people now!”
+
+Ren didn't say another word, and left her office. The sound of singing birds followed him through the Medical Wing until he shut the door to the connecting hallway.
+
+That went better than I expected. Ren thought. I figured she'd hold out for 10 wands.
+
+“You should have started with the Major Healing wand.” Teepo said, and chittered in laughter. “She might have just taken that by itself.”
+
+Ren smiled as he went back to the Main Keep's lobby, then thought about something. He turned from the front door and went into the General Information / Hall of Records door instead.
+
+“What can I do for you today, My Lord?” The female dwarf at the desk asked.
+
+Ren grinned at her. “Well, there is something...”

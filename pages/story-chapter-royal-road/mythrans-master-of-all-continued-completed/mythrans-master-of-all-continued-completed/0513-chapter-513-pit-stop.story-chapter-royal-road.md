@@ -1,0 +1,265 @@
+---
+id: fa4ccecf-af41-55fb-8bc8-627088ae44ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 513 - Pit Stop"
+slug: 0513-chapter-513-pit-stop
+partOf: mythrans-master-of-all-continued-completed
+position: 513
+ownLength: 2997
+unit: words
+publishedAt: 2018-02-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194854/chapter-513-pit-stop"
+royalRoadId: "194854"
+---
+
+Ren helped everyone climb out of the gigantic cart, and one of the last to get out was Tanelia. No one had moved away from the cart, because they were too busy staring at everything.
+
+“There's a museum!” Someone said.
+
+“A theatre!”
+
+“Is that an arena?”
+
+“There's two great meeting halls!”
+
+“Look at the standard businesses, with lots of room for expansions!”
+
+“Count the outer spires!” A female voice exclaimed. “He wasn't kidding! He really made 10 of them!”
+
+“There's everything here.” Tanelia said with wonder in her voice.
+
+“With lots of room for anyone that wants to do what they want.” Ren said. “Don't worry about the lack of greenery, because I'll be taking care of that soon.” He said. “Hopefully.”
+
+Tanelia looked around to see what he meant, and she nodded. There were no trees, grass, bushes, or anything else in the designated relaxation areas.
+
+“So, where do I go to take over running this thing?” Tanelia asked.
+
+“There's 3 administration buildings, so you can set up your office in one of them.”
+
+“Did you say 3?” Tanelia asked, and he nodded. “Why did you make 3 of them?”
+
+Ren shrugged. “I was going for an aesthetic look, and added them because I could.”
+
+“Why not 4 to make them evenly spaced?”
+
+“I had that, but changed one into a pile of smaller buildings to make them Embassies for the other races.” Ren said. “I think we can leave them empty, and as time goes on, we can start adding ambassadors to them.”
+
+“Well, you've definitely surprised me.” Tanelia said.
+
+“Not really.” Ren said and smiled. “I have a real surprise for you.”
+
+“You do?”
+
+Ren nodded and took a couple of steps into the air to whisper in her ear. “I've met your sister.”
+
+“WHAT?!?” Tanelia yelled. Several High Elves were shaken out of their reverie over the place and looked at her. “Everyone, please find yourselves a place to live.”
+
+“Good idea!” Someone said. “M'lord, can we have our things?”
+
+Ren took out the two buildings he had stored and placed them off to the side of the street in an empty lot, and went back to Tanelia.
+
+“When I discovered her name, I asked about you.” Ren whispered. “After we talked for several minutes, I mentioned the two of you meeting.”
+
+Tanelia shook her head. “She can't forgive me for siding with the family.”
+
+“You're not on your family's side right now, are you?” Ren asked.
+
+“I... I don't know.”
+
+“Good.” Ren said, and her eyes widened. “If you aren't sure, then there's a chance you won't stay separated.” He said. “I won't pressure you into doing anything you don't want to; but, you and your sister are one of the reasons I made the embassies for other races.”
+
+Tanelia sighed. “I will think over what you said.”
+
+“Not right now.” Ren said and waved to the buildings around them. “Get to work!”
+
+Tanelia chuckled. “Very well, M'lord.”
+
+Tanelia walked over to the building with their personal stuff in it, and Teepo spoke.
+
+“Ren, now that you're here, you should go and check on that elfling with the Emotion Siphon ability.” Teepo said.
+
+“You're ahead of me again.” Ren said and looked at the large cart. Artemis already had it disconnected from Princess, so Ren stored it. He mounted the saddle on Princess' back, and they took off through the air. With all of his Auras active, Ren activated his Emotion Siphon ability and had Princess run a criss-cross pattern over the city.
+
+They found her in the middle retaining wall, in one of the top apartments that were designed for elflings, and Princess landed on top of it. Ren asked Artemis to stay with Princess and walked down to the female elfling's window and knocked. He felt her as she moved through his Aura, and the window opened.
+
+“My Lord.” The female elfling said. “Please, grace my home with your presence.”
+
+“I probably should have knocked on your door, if we're being so formal.” Ren said, and she smiled.
+
+“Just having you here is fine, My Lord.”
+
+“I came to see how you are feeling.” Ren said, and he used his ability to touch her. She gasped and shuddered as she reached out for him. He equipped his High Elven Court Uniform and took her into his arms.
+
+“M-my Lord...”
+
+“I'm sorry. I didn't mean to...”
+
+“Do.... do it again.” She said and looked at him with longing in her eyes. “I haven't felt this good since the last time we... touched.”
+
+“You know that we...”
+
+“Yes, I can feel your reluctance to ravage me like I want you to.” She said and waved to the couch. Ren walked over to it with her and sat down. She sat on his lap and wrapped her arms around his neck. “You said that physical touch enhances the feelings we can share.” She said and kissed his cheek, then shivered when she received a good chunk of his emotions. “So, touch me as much as you want, and bestow upon me what I crave.”
+
+“I don't even know your name.” Ren said.
+
+“Activate your Prince Charming title and I will tell you.” She said, and he chuckled.
+
+“Do you really need to see me as a more desirable mate?” Ren asked. “I can already feel how turned on you are.”
+
+“Your Auras are intoxicating, especially with the trace of Fear through them.” She said, and rubbed her cheek on his forehead. “I've tried this with some of the others; but, it's like eating a piece of fish when what I'm really hungry for is a piece of thick...” She kissed his forehead. “...hard...” She tilted his head back and kissed his cheek. “...meat.”
+
+Ren kept his eyes open as she straddled his lap and kissed him on the lips, and her Emotion Siphon ability opened up. She started to suck his emotions down, and she offered her own heightened emotions. His Emotion Siphon ability opened in response to her offer and he absorbed everything she gave him. One of her hands slid down to his chest and opened his uniform to touch his bare skin, and he moved his hands down to grab her backside.
+
+Oh, what the hell. Ren thought and activated his Prince Charming title, and she sighed into his mouth as the feelings he brought out of her filled her up. Her emotions doubled and she offered them up to him without reservation, so Ren absorbed them and gave her his own enjoyment in return. Her ability consumed it greedily, and she broke the kiss.
+
+“I'm Halaiyah Granaihon, My Lord Ren.” She whispered and kissed him again. Her emotions increased somehow, as if she had learned to store them like he did, and Ren absorbed them just as greedily as she was taking his. She broke the kiss again and leaned back slightly, then pulled open his uniform to expose his chest.
+
+“What... what are you... doing?” Ren asked, almost groggily.
+
+“I was seeing if your mark had changed like mine has.” Halaiyah said and rubbed the spot on his chest where a mark would have been, had Ren been marked normally.
+
+“Your mark... changed?” Ren asked.
+
+“Yes, My Lord.” Halaiyah said and stored her dress, which left her in just a small pair of underwear. Ren was surprised, because he saw that her chest was quite a bit larger than he had assumed from the clothing she had worn, and his hands were now only touching a thin bit of cloth.
+
+“You see?” Halaiyah said and touched the mark. “It's growing legs.”
+
+Ren looked at the skull mark above her heart and it had the first segment of spider legs sticking out of it. He lifted his right hand to touch her mark, and she took the hand and put it beside the mark above her heart.
+
+“It's becoming like yours.” Halaiyah said. He felt how happy she was at the thought, and that made him happy. “My... My Lord, I...” She almost gasped as her ability chose that moment to level up, and it left her emotionally empty.
+
+Ren felt her start to panic, and he stopped trying to filter his emotions and just poured them into her. She did gasp at that, then she moved his hand down to cup her breast with it.
+
+“Y-yes, My Lord!” Halaiyah said. “M-more!”
+
+Ren's other hand joined that one and cupped her other breast, then he started to massage them both. His emotions spiked through her, because it felt really good for the both of them.
+
+“Mmm!” Halaiyah moaned. “More! Give me more!”
+
+Ren liked it when a woman knew what she wanted, so he let her breasts go. He felt her immediate flash of anger at the loss of contact and his strong emotions. He smiled as he turned and laid down on the couch and dragged her with him. He felt her startle slightly, then her bare chest landed on his exposed chest and her whole body quivered from the direct intimate contact.
+
+“You said... you wanted more.” Ren said. He wasn't sure why he was feeling a little breathless, since he wasn't doing anything strenuous, so he used an Energize spell in the hopes it would counter whatever was wrong. He felt better instantly, and Halaiyah caught her breath as his emotions were back in full strength.
+
+“M-my L-lord! Thank you!” Halaiyah said. “You are so giving!” She said and kissed him.
+
+Now that it wasn't a gradual thing, Ren felt that it was Halaiyah that was consuming him and exhausting him. For some reason, her ability was much stronger than normal and was draining his Stamina, too. When he thought about it, he remembered her saying that she had always felt emotions.
+
+Maybe when that ability changed to what it is now, it brought that added strength with it. Ren thought to himself. “Let me feed you as much as I can.” He said and picked her up, rolled over and put her on the couch.
+
+“My Lord, you can do whatever you want.” Halaiyah almost moaned in anticipation.
+
+“I've recently done this to 5 succubi.” Ren said and sat up as he pulled off her underwear, then he built up everything the succubi had felt. “This should fill you up.”
+
+“Please!” Halaiyah said, and Ren bent down slowly. He watched her face as he descended between her legs, and her anticipation built and built. When he was just about to touch her special place, he stopped. Her body jerked because it reacted as if he had touched it, and he grinned.
+
+Halaiyah whined a little, and Ren could feel that she ached to be touched. He touched the inside of her thighs with his fingertips to tease her a little. She caught her breath, her legs trembled, and she begged him with her emotions. His tongue quickly darted out and grazed her only slightly, and she finished.
+
+“AHHH!” Halaiyah yelled, then grabbed onto his head and shoved his face down onto her special place. She threw her head back and screamed as he pleased her over and over, and fed her with everything the succubi felt, too. Her screams turned to long and drawn out moans as Ren stayed there for nearly 10 minutes to make sure she was completely satisfied.
+
+When Ren was finished and stood up, Halaiyah's ability had leveled twice more, she had finished many more times than that, and he felt that she was emotionally full and exhausted from pleasure. Her hand reached out and weakly waved to him, so he took it and knelt by her.
+
+“Thhhank youuu.” Halaiyah breathed.
+
+“Just make sure you only do this with me from now on.” Ren said. “Your ability is too strong for anyone else to handle.”
+
+“I... lied.” Halaiyah whispered. “No... no one else.”
+
+Ren smiled, and she felt how happy he was that she hadn't hurt anyone.
+
+“I... can't eat yet.” She said.
+
+“You won't have to eat anything else for a while.” Ren said.
+
+“When... again...”
+
+“A few days, maybe a week.” Ren said, and touched the Ghoul Kissed skull mark above her heart. “Or longer. I fed you a lot more than I've fed anyone else in so short a period of time.”
+
+Halaiyah's mark now had 2 segments of spider legs sticking out of it. “I'm... special?”
+
+Ren lifted her hand and kissed the back of it. “You are.” He said. “Probably one of a kind.”
+
+“H...happy... with me?” Halaiyah asked. “I... kind of... used you.”
+
+Ren chuckled. “I'm not the one that's barely conscious right now.”
+
+“Almost.” Halaiyah said, because she had felt him waver that first time.
+
+Ren nodded. “Once I knew, I kept using Energize on myself.” He said. “Now I need to go.”
+
+“Can... can I...”
+
+Ren leaned in and gave her a platonic kiss, and he felt her acceptance.
+
+“I'm... willing to share.” Halaiyah said, and he smiled.
+
+“Despite the occasional exaggerated boast, there actually isn't enough of me to go around.” Ren said. “I'm barely keeping up with occasional visits.”
+
+Halaiyah nodded, and he gave her another kiss with a trace of desire.
+
+“You have really nice breasts.” Ren said, and she chuckled. Her chest jiggled, and he watched them until they stopped.
+
+Halaiyah felt his appreciation, and she smiled. “You're so nice.”
+
+“Not after what we just did.” Ren smiled back and let her hand go. “See you later.”
+
+Halaiyah nodded and Ren touched her head and cast Energize on her. She felt better instantly and watched as Ren stood up, went to the window and stepped out into the air, then closed the window behind him.
+
+What a man. Halaiyah thought, and she couldn't wait until the next time.
+
+Ren ran up to the top of the wall to meet Princess and Artemis. “Sorry it took so long.”
+
+Artemis chuckled. “Actually, we are both surprised it was only this long, especially after the succubi.”
+
+Princess brayed her amusement, and Teepo chittered in laughter.
+
+“Yeah, yeah.” Ren said and took out the All-Seeing Mirror. “Please show me the closest Underworld entrance.”
+
+It showed him on the map, and in was an old ruined building just on the inside of the border of the High Elven Kingdom. He showed it to Princess and Artemis and stored the mirror, then climbed up into the saddle.
+
+“Onward, upward and downward!” Ren said and pointed in the right direction. “We're late for an important date!”
+
+Princess trotted up into the air and ran towards the spot where the closest entrance was.
+
+“I don't think we're late.” Artemis said. “We don't know how long they've been down there, and they knew you had an important task to handle after getting out of there.” She said as she flew beside Ren. “In fact, we're going in early, considering that there are still ghouls to take care of.”
+
+They landed at the spot and Ren hopped off of Princess, and the three of them went into the old building to see a dark well.
+
+“This is a neat way to hide an entrance.” Ren said. “An abandoned well inside an old barn.”
+
+“I don't see any water.” Teepo said. “Is it an illusion?”
+
+“Good point.” Ren said and used Detect Traps and Detect Magic, and nothing appeared to glow. He used Enchanted Eyes next and nothing appeared. “Looks clear.”
+
+“Princess isn't going to fit in there.” Teepo said.
+
+“Yes, she will.” Ren said.
+
+“No, I don't want to.” Princess said. “I will wait here.”
+
+“Come on, it won't be that bad.” Ren said.
+
+“No, I don't want to.” Princess repeated.
+
+“Will you let me go down into the Underworld without you this time?” Ren asked, and she sighed.
+
+“You had better change me back when we are down there, or I will never forgive you.” Princess said.
+
+“I promise.” Ren said and touched her, then used the Permanent Enlarge and Reduce Anything spell to make her half her size. Instead of being 5 feet tall, 5 feet long, and 3 feet wide, she was now only 2.5 feet high, 2.5 feet long, and 1.5 feet wide.
+
+“Aw, you're so cut-”
+
+“DON'T SAY IT!” Small Princess yelled. Her voice wasn't the nice husky female voice it normally was, but a squeaky high pitched one. Teepo chittered in delight, and Ren snorted a laugh while Artemis held a hand over her mouth to stop from laughing. Small Princess felt their amusement and huffed her derision, then jumped into the well.
+
+“Hey, wait for us!” Ren said and jumped in behind her, and Artemis went in after them.
+
+********
+
+Stella had watched Ren in the High Elven Kingdom and saw the conflict, and picked up the cell phone and told Elise about it. They talked back and forth about it, and since Elise had already told Stella about Ren's new title, they agreed that it was the cause. There was nothing they could do about it until he logged out for supper and filled him in on what Elise had learned from Max.
+
+Stella then watched Ren go into a female elfling's apartment and the Blue Screen Protocol went into effect after they sat down on the couch.
+
+Ren, what are you doing? Stella asked herself, and then 2 minutes later it was off and she saw him leave. Okay, I think Barbara is right. She looked at him in real life and saw his excited condition. You are having trouble keeping your pants on, aren't you?
+
+Stella had removed his pants and protection during the last extended Blue Screen Protocol, and now had a bedpan put in it's place. She was glad that she did, because he would have made a huge mess if she hadn't.
+
+“You and I need to have a talk.” Stella said out loud and touched his hand, covered him up with a towel, then left the room to go downstairs and make supper for everyone.

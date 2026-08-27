@@ -1,0 +1,233 @@
+---
+id: 0776844c-6c16-52bb-baef-578e4ddd3f1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 600 - What Can I Do"
+slug: 0600-chapter-600-what-can-i-do
+partOf: mythrans-master-of-all-continued-completed
+position: 600
+ownLength: 2694
+unit: words
+publishedAt: 2018-05-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/219291/chapter-600-what-can-i-do"
+royalRoadId: "219291"
+---
+
+Elise travelled back to the house and was summarily checked by the security guards and ushered inside. She was grateful for that, because she was afraid their metal detecting equipment might damage the special package she had in her purse. She went into the house and saw no one was around, as was usually the case most times because whoever was home was usually with Ren.
+
+Elise went to the elevator and rode it up to the third floor, walked down the hallway to the den, and went inside. She locked the door and went over to the wall and pushed on the book to hit the switch, and the bookcase opened up to reveal the panic room she had found. She went inside and sat down at the security desk and looked at the monitors that still only showed the various hallways and not the interiors of the rooms.
+
+Elise had been tempted several times to add small remote cameras in certain areas so she could keep an eye on things; but, she didn't because she had to admit that it was her own personal need to want to see Ren all the time, and not a practical need for security.
+
+Elise opened up her purse and took out the large portable drive and hit a switch by the closest monitor. It changed from the camera that looked at the third floor lobby to a camera she had installed in the crawl space under the house. She smiled at what she saw, and felt happy that she had achieved such a thing without anyone knowing. She plugged the drive into the access port on the terminal she sat at, and the light turned on.
+
+“It has power.” Elise said in relief and typed up several commands to check the integrity of the files on the drive. “The file structure looks intact, even in the compressed state.” She said and typed a few more commands as her breath sped up. “Okay, okay.” She said and tried to calm down. “Easy, girl. You know it's going to take a while.”
+
+Elise hit execute and the portable drive whirred up to full speed as the data on it started to decompress and was sent to what she had set up under the house. She looked at the security monitor to see if there was any change to what it showed, and she smiled as the activity light blinked almost faster than she could see. She brought up a time estimate and saw it was going to take over 6 hours to finish, so she stood up and left the panic room, closed the bookcase, and left the den.
+
+*
+
+Ren sat on the step stool in the shower, and he couldn't help but laugh as Stella and Lisa scrubbed him all over very quickly. It only took a couple of minutes for both women to clean him from head to toe, and then Stella gently rinsed him off.
+
+“If I'd known it was this much fun to wash you, I might have volunteered to do it before now.” Lisa said.
+
+Ren held a hand out to her, and she took it. “It's fun because you're here.” He said. “I'm just sorry I can't return the favor right now.”
+
+“Then there's only one thing to do.” Stella said and started to lather up her hands. “Lisa, hold on to him.”
+
+Lisa looked at Stella and saw her soapy hands, then turned to Ren and took his other hand without a word. Ren's eyes nearly bulged out of his head as Stella's soapy hands reached around Lisa and grabbed her breasts. Lisa caught her breath as Stella massaged her chest, then those soapy hands moved down her abdomen and made Lisa gasp as they scrubbed her special place.
+
+“G-good l-lord.” Ren whispered as Lisa stared at him and moaned her pleasure, while Stella's deft hands made short work of pleasing her. Lisa leaned close and kissed him, and she felt something boiling hot splash onto her chest. She broke the kiss and stood up straight, and it wasn't just soap on her front anymore.
+
+“Stella, I'm dirty again.” Lisa said innocently as she kept hold of Ren's hands, and Stella looked at what happened. She chuckled and lathered her hands again, then washed Lisa's front. Stella knelt and washed Ren's private place again, and he let one of Lisa's hands go to put it on Stella's face.
+
+“You're both unbelievable.” Ren said.
+
+“Not yet we aren't.” Lisa said and let his other hand go. She lathered her hands and looked at Stella. “I think it's your turn now.”
+
+Ren's mouth dropped open as Stella stood in front of him and took his hands, and Lisa proceeded to wash Stella in the same way. It took longer because Lisa wasn't as familiar with pleasing Stella like that, but Ren didn't care. When Stella finally finished and leaned in to kiss him, she felt a warm splash on her chest just like Lisa had.
+
+Stella broke the kiss and smiled, then leaned down to kiss Little Ren, too. “Thank you.”
+
+“Stella...” Ren looked at her as Lisa washed her front, then he looked at Lisa. “Lisa, you...”
+
+“You don't have to say anything.” Lisa said and knelt to wash him off. “I can see how happy you are.” She said and stood up, then kissed him again. “I figured it was about time I did something to make you happy for all the things you've done to make me happy.”
+
+“How many times can I say I love you before it looses its meaning?” Ren asked.
+
+Lisa chuckled as she grabbed the shower head and rinsed him off. “You always mean it when you say it.” She said and rinsed Stella off, then herself. “So, never.”
+
+The three of them dried off and left the shower, and they helped Ren climb onto the bed.
+
+“Ren, about this Water Works thing...” Lisa said.
+
+“Please tell me it's only temporary.” Ren said.
+
+“It's...” Lisa sighed. “Ren, everyone has been affected.” She said. “I tried a few times to use my abilities to see what was going on... and then I tried to use my status as the game's guru and talked to some of the system administrators.” She sat down on the bed and took his hand. “No one is telling me that something can be done about what's happening with the maids.”
+
+Ren closed his eyes and lay back on the bed. “So, what you're saying is, I have to wait for the event to be over before I can see if anything can be done, or if the NPCs will go back to normal on their own.”
+
+“Even then, it might not happen, Ren.” Lisa said. “The way they coded the game has been... odd.”
+
+“I've noticed the repeat dialogues.” Ren said, and she nodded.
+
+“As time goes on and more people show up, that's going to get a lot worse.” Lisa said. “As it is, about every tenth NPC in town says the same rumor about a woman down at the docks who lost her husband.”
+
+“Hey, I just did that quest.” Ren said. “I even got the captain and the cargo back to the dock.”
+
+Lisa thought about that. “You brought the ship back.” She said, and he nodded. “That's the only way to get the captain back to the dock... voluntarily, at least.”
+
+“Hold on.” Ren said. “If you know about it, and you just said it can leave multiple times a day...”
+
+“It's a repeatable quest.” Lisa said. “Everyone can do it.”
+
+“Well, damn.” Ren said. “I just wasted my time doing it, didn't I?”
+
+Lisa chuckled. “No, beloved.” She said and leaned in and gave him a kiss. “You were just the first to do it, and I suspect you'll be the only one to bring the whole ship back.”
+
+“I only got something for the captain and the cargo.” Ren said.
+
+Lisa nodded, and he looked at her with wide eyes.
+
+“Holy crap. There wasn't a response for bringing the ship back, because they didn't expect it to happen!”
+
+“Now you're getting it.” Lisa said. “Ren, no one else would even consider trying to bring the ship back.”
+
+“It was supposed to stay out there.” Ren said and went to smack himself on the fore head, and both Lisa and Stella stopped him. He smiled at them and kissed their hands. “Thanks.”
+
+“I doubt that ship stayed in dock for more than a few minutes.” Lisa said. “I don't think it would just disappear, since that doesn't happen with the game mechanics, so it would have to leave under it's own power.”
+
+Ren nodded. “I didn't feel it leave, but I also didn't stick around after completing the quest.”
+
+“I'm sure there would be an excuse made for it to leave if you were around; but, it's pretty easy to just wait until no one's looking and reset the conditions.”
+
+“If it's repeatable and resets even if I'm around...” Ren smiled. “If I was the villain they keep tagging me as, I could ruin that quest for everyone.”
+
+“Ren, don't tell me you'd kill the prisoners!” Stella exclaimed, and Ren laughed.
+
+“Nothing so dramatic.” Ren said and looked at Lisa. “I would make the ship trying to return to the same spot to resume it's captured nature, never reach that spot.”
+
+Lisa thought about that for a moment. “You don't mean...”
+
+“Yes, I could make the forbidden sea routes inaccessible by ship and completely enforce the Sea Dweller's Non-Aggression Pact.”
+
+“Oh, Ren.” Lisa said. “That would undermine the whole world event.”
+
+“Yes, it would.” Ren said and smiled.
+
+“How would you do it?” Lisa asked.
+
+“I'm sorry, that information is classified and cannot be divulged at this time.” Ren said and chuckled.
+
+“Ren...”
+
+“There's multiple ways, one of which is casting Invisible Walls to guide ships around the Sea Dweller's sacred areas.”
+
+“Since they would be invisible, no one would know they were there until it was too late.” Lisa said. “You could destroy a lot of ships if they ram into the walls at full speed.”
+
+“I wouldn't be that cruel.” Ren said. “I'd angle them so ships couldn't hit them directly and have a sign out front to warn ships of the danger.”
+
+“Are you going to do that?” Stella asked.
+
+“I'm not the villain, so I wasn't planning on it.” Ren said. “I would have done it already if I was.”
+
+“Good lord.” Lisa said. “You could have derailed the entire event.”
+
+“Could have?” Ren chuckled. “I still can.”
+
+“But...”
+
+“There's a lot of things I can do to make things troublesome for the programmers.” Ren said.
+
+“Are you?” Lisa asked. “You love the game just as much as I do.”
+
+Ren nodded, then his bedroom door opened and Elise came in.
+
+“Hey, sexy.” Elise said.
+
+Stella, Lisa, and Ren exchanged glances and looked back at Elise.
+
+“You need to be more specific.” Ren said, and Elise laughed.
+
+“How did we get to this point?” Elise asked and put a hand on Stella's arm. “Hi, regular sexy.”
+
+Stella snorted a laugh, and Elise climbed onto the bed and placed a kiss on Lisa's cheek.
+
+“Hi, cute and sexy.” Elise said.
+
+Lisa blushed and Elise moved over to Ren and kissed him on the lips.
+
+“Hi, super sexy.” Elise said.
+
+“I guess that's specific enough.” Ren grinned.
+
+Elise gave him another kiss and propped herself up on an elbow as she laid down beside him. “I went to Sid Tec and talked to the owner directly.”
+
+Ren could hear by the tone of her voice that she didn't like the experience. “They aren't going to do anything to help me, are they?”
+
+“Ren, I'm sorry.” Elise said. “Max said that you entering the Water Realm and bypassing the restrictions is what caused you to change the conditions enough to... well...”
+
+“When I came back, it said the Trouble Recipe ingredient for the Water Realm was complete.”
+
+“The way they wrote the scenario, gives all the NPCs new content. All of them.” Elise said, then she explained everything that Max had told her. Ren listened to her as she asked him where they would put the limit on the NPCs that he interacted with, and she also said she hated that Max was right. She also explained that if they did do a limited patch to change the maids back, it would be undone once they accessed the communal pool for responses.
+
+“Well, damn.” Ren said. “Elise, do you think they would get angry at me if I did act like a villain?”
+
+“I honestly don't know.” Elise said. “Tell me what you mean.”
+
+Ren explained about what he could do to subvert the entire event, and she sighed.
+
+“Ren you shouldn't do that.” Elise said. “You love the game too much to screw over all the other players.”
+
+“I do love it; but, the programmers have been consistently ruining it for me as time goes on.” Ren said. “I know at least some of them are doing it on purpose, and I've been okay with that.” He said. “I've ruined a few of their things and that made them angry, and I expect some retaliation.”
+
+“Ren, I don't think...”
+
+“It's okay. Like I said, I expected some bad things to come my way.” Ren sighed. “This time it affected people I care about instead of me, and I can't let it go.”
+
+“Ren...” Lisa tried to speak and he touched her mouth to stop her.
+
+“I can feel their pain, Lisa. They're full of conflicting words and emotions, and just being around me hurts them.” Ren said. “I had to move back to Aurora.”
+
+“Wh-what?”
+
+“I can't have the maids within my Aura until they are fixed, and it looks like that's not going to happen.” Ren sighed. “I took Princess, Artemis, and a pixie named Suniva with me.” He said. “Oh, and 4 of the succubi.”
+
+“Succubi? Why did you bring them?”
+
+“They invited themselves along because they didn't have anyone else to feed them. I didn't know how long I would be away, so...”
+
+Lisa sighed. “You're staying in the same room with them, aren't you?”
+
+“With Artemis and Suniva, yes.” Ren said. “It's okay, though. They aren't trying to seduce me.”
+
+“They don't have to try.” Lisa said. “Just being around them is enough.”
+
+“Are you sure?” Ren asked. “I didn't feel any deceit or anything from them.”
+
+“That's because you have a good heart and an open mind.” Lisa said. “Do you mind if...”
+
+“You can't, remember? You have to stay near the Library in case anyone needs you.”
+
+“I don't care about anyone else except you.” Lisa said.
+
+“Really?” Ren asked and raised a single eyebrow at her. “I'm pretty sure that's a lie.”
+
+Lisa chuckled. “Okay, smart ass. I care about you the most, okay?”
+
+“That's better.” Ren said and looked at the three women around him. “I've got a few errands to run when I go back into the game, so I won't be available to cuddle for a while if anyone decides to join in.”
+
+“I've got a few things I need to take care of myself.” Elise said. “I won't be available to cuddle for a while, either.”
+
+“I don't have anything I need to do, except hang out at the Library.” Lisa said and reached for the VR headset, then she helped Ren put it on.
+
+“I'll see you all at lunch.” Ren said as he relaxed. “Flow Login Start.”
+
+*
+
+Just as Ren logged into the game, Stella's cell phone rang. She checked it and saw it was Gloria, and answered it.
+
+“I've been expecting your call.” Stella said, then didn't say anything.
+
+Elise and Lisa watched as she nodded her head several times, then she spoke again.
+
+“Yes, Ren was telling the truth, and he was right to tell you to give that job offer up.” Stella said and listened some more. “I watched the footage of your fight, Gloria. Ren didn't overreact.” She said. “Let me tell you why...”

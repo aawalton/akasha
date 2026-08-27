@@ -1,0 +1,205 @@
+---
+id: 0b390876-8087-571d-849d-4af86af948a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68 Misconstrued"
+slug: 0073-chapter-68-misconstrued
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 73
+ownLength: 2068
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3466149/chapter-68-misconstrued"
+royalRoadId: "3466149"
+---
+
+Lucien's steps carried him along the main path of Ashridge, though the familiar stretch of dirt roads had changed along with the season.
+
+The air held a softness that had not been present weeks before, the lingering cold of winter fully receded as spring settled over Ashridge.
+
+Villagers passed by him, no longer driven solely by the pressure that winter and the Tithe had brought.
+
+His gaze shifted toward the well as he continued toward the manor. A familiar group of children moved across the open space, no longer confined to its boundaries as they had been before.
+
+A hoop rolled unevenly along the packed ground, its owner chasing after it before slowing abruptly as he caught sight of a group of older villagers passing nearby.
+
+“That’s inefficient, If you angle it-” the boy declared.
+
+The hoop slipped from his control and veered off course.
+
+“...properly,” he finished, recovering it a moment later as though nothing had happened.
+
+A groan followed from somewhere behind him.
+
+“You always say that,” the smallest girl said, already moving past him without waiting for a response. Her gaze lifted briefly toward Lucien as he passed, unbothered as ever. “Are you going somewhere again?”
+
+Lucien did not break stride, though his gaze lowered to meet the girl's curious eyes. “Not today.”
+
+She nodded once, satisfied, before turning her attention elsewhere just as quickly.
+
+The wooden sword boy stepped forward next, planting his stick into the ground with unnecessary force before lifting his chin. “Then the village remains secure!”
+
+A faint laugh followed from one of the women at the well.
+
+The girl holding the ragdoll stood close to the Cragwatch boy, her posture angled slightly toward him as she guided him a step back from the path “Don’t stand in the way,” she murmured softly.
+
+The boy nodded, though his gaze remained fixed on Lucien as he passed. “…He doesn’t turn away,” the boy said under his breath.
+
+He didn't notice, Bran’s concerns still lingering in his thoughts.
+
+Once raised, the issue became difficult to dismiss entirely.
+
+As the manor came into view ahead, he made a note to visit the western fields soon.
+
+Lucien sat behind his desk, one hand resting lightly against the stack of parchment before him as his eyes moved across the lines drawn in careful strokes.
+
+Light filtered through the nearby window, catching along the edges of the completed sketches spread across his desk. A single volume, bound in red, sat among the arranged papers, its presence no different from any other object upon the desk.
+
+The faint scent of ink and treated parchment lingered in the air as he lifted one sheet from the rest of the pile.
+
+The drawing was precise, more so than Alicia’s earlier attempts. He turned the page aside, going over the next few drawings. Each one carried the same consistency, the same careful thought behind its design.
+
+His eyes rested on one in particular.
+
+With the discussion about the western fields still fresh in his mind, it had drawn his attention more than the others.
+
+The tool itself was simple, but the notes surrounding it were another matter. Measurements had been marked along the margins in careful script, each one consistent with the proportions of the drawing despite how little information he recalled giving her.
+
+His fingers rested lightly against the edge of the parchment as his thoughts lingered there, considering the drawing in silence.
+
+A gentle knock sounded at the study door before it swung open smoothly, revealing the one whose drawings he was currently examining.
+
+“My Lord, it is time for lunch. Would you be having it here?”
+
+Lucien gave a nod, though Alicia was already pushing in a wheeled tray as if she had expected his answer. Sera trailed after her, her gaze sweeping across the room once before returning to the tray.
+
+The maid guided the trolley to the side of the desk, the faint clink of porcelain sounded as she brought it to a stop. Steam rose gently from the covered dishes, carrying a warm scent that lingered in the room.
+
+“My Lord,” she said softly as she began setting the items upon the desk.
+
+Lucien inclined his head in acknowledgment, though his brow raised when Sera, clearly waiting for the meal began to lift a piece from one of the plates before Alicia could finish arranging them.
+
+'Well, at least she has grown a lot more comfortable within the manor now.' Lucien noted dryly.
+
+“…Take one that has been set aside for you,” Alicia reminded gently, a firm tone in her voice even as she continued preparing his plate.
+
+Sera paused, her eyes lowering to the piece in her hand before shifting briefly toward Alicia. She tilted her head in consideration for a breath before nodding, stepping back to remain where she was as Alicia moved to prepare another portion.
+
+Lucien reached for the cup that had been placed beside him, his gaze briefly passing over the two of them. The exchange was simple, almost serene, and he found himself relaxing slightly as he leaned back in his chair.
+
+Alicia placed another plate upon the desk before turning, setting aside a portion meant for Sera when the door swung open without warning.
+
+“Lord Lucien! What’s for lunch?”
+
+Talia’s voice carried easily into the room as she stepped inside without hesitation, her presence breaking through the serene air with practiced ease. Her eyes moved immediately toward the desk.
+
+“And you were all planning to eat without me?”
+
+She crossed the room in a few quick steps, already reaching toward the plate set before him.
+
+Alicia’s hand stilled as her gaze lifted toward her. “…Lady Talia,” she said softly.
+
+Talia froze mid-motion, her fingers hovering just above the plate as her eyes shifted slowly toward Alicia. The usual ease in her expression faltered under the soft reproach in the maid’s gaze. She stepped back and waited for Alicia to finish serving, a sheepish look on her face.
+
+The corner of his mouth twitched at the sight before retreating the instant Talia's eyes narrowed at him.
+
+Shaking his head, he glanced toward Sera instead. "Sera. Are you going hunting tomorrow?"
+
+The hunter's gaze shifted from the food to him before she shook her head.
+
+“If you are available, could you meet me at the southern palisade?”
+
+Talia's smile widened before she nudged her gently. "Oooh? Is it Sera's turn to go on an outing with Lord Lucien?"
+
+She looked at Talia briefly before her attention returned to him, her head tilting slightly in consideration.
+
+Seeing the look she gave him, Lucien exhaled through his nose. "No. Joren and Harlon recently finished assembling the crossbow and tomorrow's the first test."
+
+Talia let out a hum. "And you're having Sera be the first to test it?"
+
+Leaning forward at his desk, Lucien steepled his hands. "I want to see if someone can learn to use it without any instructions. If it can be picked up quickly, that would make it useful to more than just trained men. Sera’s the ideal fit for a trial run given her skills."
+
+'And perhaps, if she's the first to test it then I could slowly...'
+
+It seemed Talia had noticed what he had left unsaid when she shot him a look. A brief moment later, she gave him a subtle nod before she turned toward Alicia.
+
+"Say, Alicia? I have been meaning to ask but do the women of the frontier ever get involved in the defense of their villages during the Tithes?"
+
+Still in the midst of setting the plates, Alicia placed the current one down first before she spoke. "You mean...fighting upon the walls? I don't think they do, Lady Talia."
+
+Talia waved toward the window. "Why not? Ah! I am just curious, being from the heartlands and all."
+
+Following the motion, Alicia shook her head lightly. "I heard from my father it is because being in formation would require both strength and endurance."
+
+While Alicia's words made sense, there was something that didn't sit right with him. None of the villagers had batted an eye at Sera and her skill with a bow yet there were no women he had seen training with bows or even slings.
+
+If strength and endurance remained concerns, those limitations could be lessened over time as well. After all, the current crossbow was only the first iteration he planned to introduce.
+
+Talia looked as though she was about to question it further when Alicia tilted her head.
+
+"Do the women in the heartlands train as guards, Lady Talia?"
+
+At the maid's question, Talia’s expression faltered for the briefest moment before she tapped her chin thoughtfully.
+
+“Hmm...I don't think so? I come from a merchant's family so that's not something I'd know too much about.”
+
+Deciding to change the topic, Lucien reached for one of the drawings, shifting the stack enough for a red-bound book hidden beneath the pages to reveal itself.
+
+Sera, having been patiently waiting beside Talia immediately turned her gaze toward the desk with unusual focus. She reached over to pick up the book before her pale eyes flicked toward Alicia who had gone very still.
+
+The silent girl turned the book once before opening it, the faint rustle of pages breaking the sudden quiet in the air. Her dull eyes moved across the lines briefly before she tilted her head, looking toward Alicia, then back to the page.
+
+'Ah...that book again.'
+
+He had just been observing how Alicia’s drawings of his plans had improved remarkably through her own initiative. Seeing the book reminded him of when Alicia could not even read.
+
+It stirred a faint sense of satisfaction at how far the once shy girl had come.
+
+She could even correct his nosy junior now.
+
+Lucien gave a small nod to himself even as he took a sip of his cup.
+
+Talia moved closer toward Sera, a knowing look settling across her face as her eyes flicked between Alicia and the book. She leaned over the hunter’s shoulder before speaking in a casual tone.
+
+“Oh? What kind of book is it, Sera?”
+
+Sera’s eyes shifted toward her at the question before returning once more to Alicia, then to the page in her hands.
+
+Seemingly arriving at a decision, she reached for a scrap of parchment and the charcoal in her satchel, placing the book back on the desk as she did so.
+
+She wrote quickly before turning it outward.
+
+What book?
+
+Talia looked far too pleased with herself as she watched. There was something in her eyes that Lucien found unsettlingly familiar, though he could not place why it would surface over something so trivial.
+
+Across the desk, Alicia’s composure began to falter as the color on her cheeks deepened further, her fingers tightening against her apron as though she wished to disappear entirely.
+
+Lucien watched the exchange, his brow furrowing faintly.
+
+The reaction seemed rather excessive.
+
+His gaze lingered on Alicia for a moment longer before a thought surfaced.
+
+'Perhaps she is still embarrassed about it after all.'
+
+No matter, there was little reason to allow it to continue.
+
+He set his cup aside and reached forward, taking the book from the desk with a calm, unhurried motion. “Sera, this book is nothing of note.”
+
+He closed it without looking further and returned it to the drawer, sliding it shut with a soft rasp of wood.
+
+“It is merely a book that people read for leisure.”
+
+Alicia lowered her head further, her posture drawing inward in a way that did not match the composure she had shown moments before.
+
+A faint curve lingered on Talia’s lips as her gaze shifted slowly toward Lucien.
+
+Nearby, Sera’s attention remained on the closed drawer, her head tilted.
+
+Unaware of the scrutiny directed his way, Lucien picked up the cup once more and took a sip, satisfied that the problem had been resolved promptly.
+
+Outside the study, Elias stood at a distance, deliberately positioned along the far end of the hall where the turn in the passage provided a clear line of sight without placing him directly within earshot.
+
+The sounds from within the study carried faintly into the corridor while the steward remained still, his hands folded neatly behind his back.
+
+Elias regarded the door for a moment longer as the murmurs began to fade. Satisfied, he inclined his head faintly before continuing down the corridor.

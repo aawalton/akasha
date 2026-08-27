@@ -1,0 +1,343 @@
+---
+id: 2b7e3be3-7aee-5644-93c0-f19493324636
+page-type-slug: story-chapter-royal-road
+title: "Chapter 258 - A Treat For You"
+slug: 0247-chapter-258-a-treat-for-you
+partOf: mythrans-master-of-all-continued-completed
+position: 247
+ownLength: 3742
+unit: words
+publishedAt: 2017-05-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137592/chapter-258-a-treat-for-you"
+royalRoadId: "137592"
+---
+
+Barbara's sister didn't call back, and Ren talked about the giants and the attack that would come during the second game day that night. Elise thought his plan was a good one, but suggested he build more Ballistas and bring the dwarves with him.
+
+“But... I don't want them to die.” Ren said, and Elise chuckled.
+
+“Ren, they're dwarves.” Elise said. “They are all volunteers. Tell them you have several Ballistas for them to use, and then ask them to come with you.” She said. “Even if they die, it'll be against a tremendous foe, and for the defense of their land.” She grinned. “There is nothing more Honorable for them.”
+
+Ren thought about her argument, and then smiled. “I'd ask you how you became so smart, but I don't want to ruin my impression that you always were.”
+
+“Oh, you.” Elise said, and gave him a quick kiss. “I think I'll head home now.” She said and handed the laptop to Barbara. “It's getting late, and someone needs to get back into the game.”
+
+“Thanks for coming over.” Ren said. “I really enjoyed spending this time with you.”
+
+Elise put her hand on the side of his face, and Barbara turned away to give them the illusion of privacy. Denise turned away as well, and Elise leaned in close to him.
+
+“Not as much as I enjoyed spending it with you.” Elise whispered to him, and touched his lips with hers. The kiss was a lot more reserved than what Elise had wanted at first, considering she wanted it to be unbridled passion; but, the fact that she was doing it with two other women in the room made the kiss that much more exciting. She broke the kiss and slid off the bed.
+
+“I'm... ah... going to Stella's tomorrow...” Ren said.
+
+“I know. It's your first day on the grant.” Elise said. “I'll go home tomorrow after work, and give you a break from seeing me.”
+
+“I don't need a break from that!” Ren said.
+
+“If I have any inkling about what Stella is going to put you though...” Elise smiled. “...you're going to need to rest afterwards.”
+
+Ren chuckled. “Okay, that's a good point.” He said. “What about Sunday?”
+
+“It's my day off, so you can give me a call...” Elise leaned in and whispered in his ear. “...if you want to do something together.”
+
+“I'll definitely call.” Ren whispered back. “What time do you get up in the morning?”
+
+Elise laughed, gave him a kiss, and left without telling him the time.
+
+“I guess I better go, too.” Denise said and stood up. “I'll see you both on Sunday.”
+
+“See you then.” Ren said. “Just remember to keep the room offer in mind.” He smiled. “You can use it just to store stuff if you want; because it'll be your room, whether you sleep there or not.”
+
+Denise smiled and nodded, then left.
+
+“You might have wanted to wait before you made that offer.” Barbara said.
+
+“Why?”
+
+“You know she's uncomfortable with some things.”
+
+Ren thought about her ex-boyfriend, and slapped himself in the forehead. “I am so stupid!” Ren said, and slid off of the bed.
+
+“What are you doing?”
+
+“I'm going to catch her!” Ren said and walked to the door.
+
+“Ren!”
+
+He ignored Barbara and opened the door to his room, then stepped out into the hallway.
+
+“Denise!” Ren nearly shouted, and she stopped at the front door and turned around. Her eyes widened as Ren walked towards her. She walked quickly back down the hallway to him.
+
+“What are you doing?” Denise asked.
+
+“Coming after you.” Ren said, and took her into a hug. “I'm sorry.”
+
+Barbara came out of the room to go after Ren, but saw that he had already been caught. Denise was only 5 foot 3 inches, but she was still a head taller than Ren's 4 foot 7 inches.
+
+“You're sorry?” Denise looked down at him and hugged him back. “What are you sorry for?”
+
+“I shouldn't have asked you to move in like that.” Ren said. “I'm an insensitive jerk.”
+
+“Ren...”
+
+“I'm really sorry.” He said, and took in a deep breath. Ren looked up at her, and she saw in his eyes that he meant it. “I would be honored if you would consider spending some of your off time at my house.” He said to her, quite formally.
+
+Denise was struck by his sincerity, and she didn't know what to say.
+
+“I know this is kind of out of the blue, and nothing is planned right now.” Ren said. “But please, don't let my moments of stupidity affect your decision.”
+
+Denise smiled at him. “Does this count as a moment of stupidity?”
+
+“Geez, I hope not.” Ren said and grinned. “I don't like wasting hugs.”
+
+Denise laughed, and let him out of the hug. “Get back to your room, you little bugger.”
+
+“All right.” Ren said, turned his head a little to the side, and pointed to his cheek. “I want a kiss first, though.”
+
+Denise shook her head for a moment, then leaned in with her lips slightly puckered. Ren waited until she was close enough, then turned his head back at the last second and kissed her on the lips. He pulled away a second later, and walked back down the hallway to his room. He hadn't noticed the surprise on Denise's face, and passed by Barbara with a smile on his own.
+
+*
+
+I let him steal a kiss from me. Denise thought as Barbara waved to her. He took it so easily, too. She waved back, then left the care facility. Why did I let him do that? She asked herself as she climbed into her car. Come on, Denise! Admit it! You wanted him to kiss you. She put the car into gear and pulled out of the parking lot. No, I wanted him to want to kiss me. She thought, and then smiled. And he did!
+
+*
+
+Barbara watched as Ren stood on a chair, then he sat down on the edge of the bed. He slid back carefully, and rested against the raised portion of the bed.
+
+“So, will you be able to stand it if I don't kiss you, too?” Barbara asked jokingly, and Ren grinned.
+
+“I have another cheek right here.” Ren said, and pointed to the other cheek.
+
+“Ha!” Barbara said. “You're not tricking me like that.”
+
+Ren laughed. “Saw right through that, did you?”
+
+Barbara chuckled. “Like a pane of clear glass.”
+
+“At least it worked once.” Ren said. “I just hope it made her forget about my mistake.”
+
+“I don't know what you mean.” Barbara said.
+
+“Denise told me about her ex-boyfriend, and how he treated her.” Ren said. “One of the things he did...” He sighed. “...was offer to let her move in. When she gave up her apartment and brought her things to his place...”
+
+“Oh, no.”
+
+Ren nodded. “He hurt her so badly with that lie. I wanted her to know that I didn't lie, and that I meant what I said.”
+
+Barbara smiled, and then nodded. “Then I think you've earned this.” She said, and picked up the covered plate.
+
+“What is it?” Ren asked, and Barbara removed the cover.
+
+It was a piece of triple-layered black forest cake.
+
+“Barbara!” Ren exclaimed, and his mouth watered automatically. “What are you doing?!?”
+
+“After everything that you've been through, I started thinking about what you eat.”
+
+“Why?” Ren said and licked his lips. The piece of cake had whipped cream and a whole cherry on top.
+
+“Doctor Hobbard set your diet and meal schedule.”
+
+Ren blinked his eyes several times, and then his mouth dropped open. “You... you don't think...”
+
+“You still have special conditions, and your system can't digest certain things.” Barbara said, plucked the cherry from the top of the whipped cream, and ate it.
+
+“Aww.” Ren said, because he was never allowed to eat them.
+
+“Sorry, Ren.” Barbara said and smiled as she put the piece of cake in front of him. “I called a dietitian yesterday and asked them to review your meal plan.”
+
+Ren looked at the cake, then at Barbara. “No way!”
+
+“I'll have a full menu and a list of food for you on Monday.” Barbara said. “For now, though...” She handed him a fork. “Enjoy.”
+
+Ren slowly reached out his hand to take the fork. He glanced at her face to see if she was going to call 'sucker' and pull it away; but his hand wrapped around the handle without incident, and she let it go.
+
+“I can really eat it?” Ren asked, actually surprised, and Barbara nodded. He dipped the fork into the whipped cream, and Barbara didn't call 'foul', so he put the fork all the way through the cake. He stabbed the piece he'd cut off, and slowly put it to his mouth. Even now, he expected her to knock the fork away so he wouldn't eat it. He stared at her as he slipped the piece of cake into his mouth, and he sighed at the taste.
+
+“Oh, Barbara!” Ren said, sighed dramatically, and took another bite. “Mmmmm!”
+
+It's just like Stella said. Barbara thought. It really is like food porn. She tried not to laugh as Ren continued to eat. Even though he took his time and savored every bite, the cake was gone before he knew it. Ren put the fork down after he licked it clean, and sat back.
+
+“Thank you very much, Barbara.” He said, contented.
+
+“Are you going to be okay?” Barbara laughed and took the plate.
+
+Ren gently pat his belly. “I've never had anything like that before.” He said. “The flavors... the texture...” He grinned. “Why don't people eat stuff like that all day, every day?”
+
+“For one thing, there wasn't enough nutrition in that to keep you alive.” Barbara said.
+
+“Is starving supposed to taste that good?” Ren asked, and she snorted a laugh.
+
+“Recline the bed back to lay flat, you lush.” Barbara said. “I'll take the dirty dish to the kitchen.”
+
+Ren looked at his watch, and saw it was almost time to log back in. Barbara left the room, and Ren lowered the bed from the sitting position to lay flat. Even doing that much bothered his abdomen muscles; but there was nothing to be done about it, except endure it. She came back into the room and smiled at him.
+
+“I know you're going to be bothered a little if I ask this.” Barbara said and smiled. “Are you planning on having fun in the game tonight?” She asked, and moved her fingers in the 'air quotes' motion. Ren's face went a little red, and then he realized he didn't take precautions yet.
+
+“I don't know if I will; but I should prep for it, just in case.” He started to raise the bed, and Barbara stopped him.
+
+“Stella told me what to do if you forgot.” Barbara said. “I'll get the wash basin.” She went into the bathroom and came out with the cloth, soap, and water-filled basin. Ren looked at her with wide eyes, and she smiled as she put the basin and supplies on the rollaway table and put it beside him. She unfolded the blanket, and held it up to cover most of him, then turned her head away.
+
+He took care of applying the foil packet's contents, washed his hands, and told her he was done. Barbara folded the blanket back up, took the basin back to the bathroom, then came back into the room.
+
+“Barbara, I...” Ren smiled. “Thanks.” He said, gratefully.
+
+“You're welcome.” Barbara said. “You don't have to be embarrassed or nervous.”
+
+Ren nodded, and she handed him the VR headset.
+
+“Now you can have fun and not worry about it.” Barbara said, and he settled down on the bed. “See you in the morning.”
+
+“How do you know I'm not logging out at midnight?” Ren asked as he put the headset on.
+
+“I'm assuming you're going to be too busy to come back out.” Barbara said. “That's how it's been lately.”
+
+“That's going to change soon.” Ren said. “My sentence will be up and I won't have to constantly go back in all the time.”
+
+Barbara laughed. “You're kidding, right?”
+
+Ren lifted the headset to look at her.
+
+“You don't have to constantly log back in now. You do it because there's people you care about in there, and you don't want to leave them alone.”
+
+“I... okay, you're right.” Ren said and smiled.
+
+“Hurry up, or you'll miss virtual breakfast.” Barbara said, and he slipped the headset back into place.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch and stood up. Hey, Teepo. He thought to his friend.
+
+“Good morning, Ren.” Teepo said as Ren checked the spider. He refilled the potion on the small plate for it, and went into the kitchen. Teepo flew in and landed on his shoulder.
+
+“Good morning!” Ereka said.
+
+Nathalia turned around to see who Ereka was talking to, and she smiled as she saw Ren. She walked over to him, took him into a hug and kissed him.
+
+“Good morning.” Nathalia said, and Ren stroked the side of her face.
+
+“It definitely is now.” He said, and looked at Ereka. “Morning.” He said, to return her greeting.
+
+“That was another long night for you.” Ereka commented, and put plates of food on the table.
+
+“It didn't seem like it.” Ren said. “It was all over before I knew it, and I came back here.”
+
+“At least you don't have to leave tonight.” Nathalia said, and Ren smiled. “Actually, I think I need to pop through the portal to Aurora. I haven't repaid the Sage of Ages for her help yet.”
+
+Nathalia nodded. “What did she ask for this time?”
+
+“She told me to surprise her.” Ren said. “So I'm going to.”
+
+“Your surprises are always something special.” Ereka chuckled and sat down at the table. “Is it a new set of armor or something?”
+
+“I don't know if she can wear armor.” Ren said. “If I remember, I'll ask her about that.”
+
+Nathalia sat down, and he joined them at the table. They all ate breakfast together and cleared up the dishes. Ren walked with them to the restaurant, Nathalia kissed him goodbye, and she went to work. He walked Ereka to the Main House, and she stopped walking just outside of it.
+
+“So... have you thought about...” Ereka started to say.
+
+“I have.” Ren said. “I've also discussed it with Nathalia.”
+
+“Should I assume you've made a decision?” She asked as she turned to face him, and he nodded. Ren stepped close, and concentrated on his House Neram pendant. His Aura merged with Ereka's and the artificial one around the Main House, and she gasped.
+
+How can it be stronger? Ereka thought, and her eyes widened as he took her into a hug. The feelings intensified, and she caught her breath.
+
+“Ereka, I would be most Honored to be the first man to sleep with you.” Ren said, and she felt his deep sincerity.
+
+“Oh, Ren!” Ereka said, and kissed him. Since she was 5 inches shorter than him, he had to bend over slightly and she stood up on her toes. This went on for a minute, and she broke the kiss practically breathless.
+
+“By the gods.” Ereka said, and Ren cupped the side of her face. She closed her eyes at the sensations and emotions swirling through her, and she sighed. “We have to go to work.”
+
+“Have a good day, Ma'am.”
+
+“Ma'am!” Ereka exclaimed as she opened her eyes to glare at him, and Ren laughed. She felt his amusement at teasing her, and she smacked his arm. “Get out of here!” She said. Before I rip your clothes off. She thought in amusement.
+
+Ren felt her amusement in return, and he took her hand, leaned in, and gave her a kiss on the cheek. He held it for about 10 seconds, and Ereka gasped at the Honor gain.
+
+“See you later, Ereka.” Ren said, let her hand go, and started to run back to House Neram Keep.
+
+“Hey! Aren't you going to work?” Ereka asked before he got too far away.
+
+“I need to talk to Tee-one first.” Ren said, waved to her, and poured on the speed.
+
+*
+
+Look at him go! Ereka thought as she watched Ren get farther away. She smiled and went into the Main House.
+
+“Good morning!” The receptionist said.
+
+“It is.” Ereka responded. “It really is.”
+
+“There's several people waiting to be interviewed for the assistant position.” The receptionist said. “Let me know when you want the first one sent in.”
+
+“Now is fine.” Ereka said, and went to her office in the best mood she'd ever been in.
+
+*
+
+Ren went to the workshop and gave Tee-one a bunch of springy trees to make a few more Ballistas and ammunition.
+
+“What about working on the Keep?” Tee-one asked.
+
+“You can keep doing that.” Ren said. “Just when you come back up here to make one of the parts for the Ballista, use all three forges and make three parts instead.” He said. “Actually, on second thought, let's do it now.”
+
+Tee-one nodded, and set up the proper molds on the floor for the main piece. Ren poured out the first one while Tee-one made a mold in front of the next forge. Ren absorbed the heat from the molten metal, took out the piece, and poured the next smelter. He absorbed the heat from the molten metal, and Tee-one had the third mold ready and poured that. Ren absorbed the heat from that and they poured each one again. They now had 6 main pieces to make the bodies of 6 Ballistas. They changed the molds on the floor for the second piece and made 6 of those. Next were the braces needed for the bow parts. With Ren there to absorb the heat, it only took about 20 minutes for all the metal parts to be done.
+
+“I'll leave the rest to you.” Ren said. “Don't forget to make the bolts to fill the cartridges, too.” He pat Tee-one's shoulder, and left the forge room. He stopped at one of the workbenches and made a small wooden box, a foot square and 6 inches deep. He lined it with black cloth, laid the tiara in it, and stored the box. He left the workshop and ran down the road, through the city, and to the mine. After a suspiciously quick medical inspection, he was cleared for work and did his 8 hours. He stayed for the 2 extra hours doing repairs, and ran back to House Neram. He stopped in at the restaurant to see Nathalia, and the woman at the door told him he needed to change before coming in. Ren looked down at himself and laughed.
+
+“Sorry about that.” Ren said, equipped his armor bodysuit to clean up, then equipped his House Neram red suit. He was still concentrating on his House Neram pendant, so his Aura covered the whole restaurant.
+
+“That... was amazing.” The woman said as she stared at him. Ren smiled at her, and looked over her head to the kitchen. “Am I allowed in the kitchen, or do you want to get Miss Neram for me?”
+
+“I... I'll go get her.” The woman said, and walked towards the kitchen. She got to the door and looked back at him. With his red suit and blonde fluffy hair and beard, she was having a hard time keeping her eyes off of him.
+
+Do you think it's my Aura? Ren thought at Teepo.
+
+“No, I think she just finds you very attractive.” Teepo said. “Now that you're not covered from head to toe in dirt, that is.” He said, and chittered in laughter. Ren smiled, and Nathalia came out of the kitchen. She walked over to him quickly, and they went outside together.
+
+“What did you do to the hostess?” Nathalia asked.
+
+“Honestly, nothing.” Ren said. “I was dirty and she wouldn't let me in, so I changed clothes.”
+
+“Is that all?”
+
+Ren nodded slightly, and Nathalia could feel what he felt.
+
+“She wants to know if you're looking for a personal maid.” Nathalia said.
+
+“A... a what?”
+
+“A personal maid.” Nathalia said. “They take care of everything for a man.” She said. “It's a very polite way of saying she wants to be a bed partner.”
+
+She felt Ren's surprise, and she smiled.
+
+“Does it have to be me that tells her no, or can you decline her offer for me?”
+
+“I can tell her.” Nathalia said and smirked. “I'll even do it nicely.”
+
+Ren took her into a hug, and she was stiff and unresponsive. He let her go, and looked at her.
+
+“What is it?”
+
+“We can't do that in public, remember?” Nathalia said.
+
+“It was just a hug.” Ren said. “I'm sure House members have hugged each other before.” He smiled. “If I'd kissed you passionately instead, I'm sure that would be against the rules.”
+
+Nathalia felt that he wanted to do just that, despite the law, and she blushed a little. She really wanted that, too.
+
+“I came here to tell you that I'm going to Aurora now, rather than tonight.” Ren said. “I've got 2 hours left before nightfall, so it should be quick. I'll be back before you know it.”
+
+Nathalia chuckled. “You could have just called.” She said and held up the ring.
+
+“I could have.” Ren said. “But, I haven't seen you in about 10 hours.”
+
+Nathalia felt how much he wanted to see her, and smiled. He smiled back and looked around. No one was there, and Teepo gave the all clear. Ren leaned in, quickly kissed her, and let her feel everything he felt about this situation. He leaned back and grinned at her gasp and deep red blush.
+
+“See you later.” Ren said.
+
+Nathalia only nodded slightly, and he ran over to House Neram Keep to get Princess.
+
+*
+
+That man! Nathalia thought, and tried to calm down. It's only supposed to be behind closed doors for a reason! She did Ren's breathing exercises, and managed to get her blush and emotions back under control. She shook her head and chuckled, then went back into the restaurant to work.

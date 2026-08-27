@@ -1,0 +1,335 @@
+---
+id: ed185912-9267-5541-9d0a-d9310e34618e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 252 - An Inquiry"
+slug: 0241-chapter-252-an-inquiry
+partOf: mythrans-master-of-all-continued-completed
+position: 241
+ownLength: 2995
+unit: words
+publishedAt: 2017-05-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135589/chapter-252-an-inquiry"
+royalRoadId: "135589"
+---
+
+“That is both cool and scary.” Ren said. “I had trouble before with people ruffling my hair constantly.” He chuckled. “I can't imagine what it's going to be like now.”
+
+“Probably like this.” Denise said, and he turned around to look at her. She grinned as she ran her hands through his hair several times. She didn't ruffle it, however.
+
+“I sincerely doubt it'll be quite that pleasant.” Ren said, and she laughed.
+
+“I think you'll be surprised.” Denise said as she put her top back on, and they left the bathroom. Ren went to his dresser and chose the silver gray set to wear this time, and untied his robe.
+
+“Bathroom.” Denise said.
+
+“What?”
+
+“You shouldn't change in the middle of the room like that.” Denise said. “Anyone could come in, and they'd...”
+
+*knock* *knock*
+
+“Janitor for the trash.” A male voice said.
+
+Ren tied his bathrobe again, and the man opened the door.
+
+“I knocked because the door was shut.” The janitor said. “How's the trash can?”
+
+“It feels used and quite full.” Ren said.
+
+The janitor laughed and came in to pick it up. He brought it out to the hallway, lifted the plastic lid on part of his cart, and dumped the trash into it. He brought the trash can back into the room and put it back where it was.
+
+“Thanks.” Denise said. “You saved me the trouble.”
+
+“No problem.” The janitor said and smiled. “Have a good day.”
+
+He left the room and shut the door.
+
+“See? You would have had your frank and beans out and he'd have seen it all.”
+
+“Frank and beans?” Ren laughed. “All right.” He said, and picked up his clothes and went into the bathroom to change. He came back out wearing the set of pajamas a few minutes later. “How's that?”
+
+“It's crooked.” Denise said.
+
+“Huh?” Ren looked down at himself. “What's crooked?”
+
+“You started with the wrong button.” She said, and held out the collar of his pajama top. Sure enough, there was an extra button hole.
+
+“Crap.”
+
+Denise chuckled as she undid them, then buttoned the top back up properly. “There you go.” She said, and adjusted the collar. Ren reached up and put his hands on hers.
+
+“Denise... I...” He stepped close and gave her a hug, careful of his sore chest. “Thank you.”
+
+“I only buttoned your shirt up the right way.” She said, a little surprised that he'd hug her for that.
+
+“That's not what I...” He smiled at her. “Thank you for what you did in the therapy room.”
+
+“Oh, Ren.” Denise said, and wrapped her arms around him. She was careful and didn't squeeze him tightly, even though she wanted to. “If I'd only been faster...”
+
+“What you did was perfect.” Ren said, rested his head on her chest, and sighed. “You kept calm, kept me calm, and helped me breathe.”
+
+“I know it must have felt like you were dying.” She said and gently held him. “Thankfully, once your diaphragm relaxed...”
+
+He lifted his head and looked at her. “I would have panicked for sure if you hadn't kissed me.” He said and grinned.
+
+“I wasn't kissing you, you nut.” Denise laughed. “I was trying to stop your lungs from collapsing. If I'd kissed you for real, you'd know it.”
+
+“I... I know.” Ren said. “When you dropped us off yesterday...”
+
+“I remember the look of surprise on your face.” Denise said. “It was so cute.”
+
+“Really?” Ren asked. “I... ah... I mean I... it was a surprise, and...” His face flushed a little red. “...I forgot to kiss you back.”
+
+Denise ran a hand through his really soft and extra fluffy hair. “Doing what you did for me...” She shook her head. “I don't mean buying the clothes. Those are just things. I mean... you made me go out shopping, let me have some fun, and you showed me that I don't have to live with either constant pain or discomfort.” She smiled. “I had to kiss you for that; because, just saying 'thank you' wasn't enough.”
+
+“I feel the same way right now.” Ren said. “After what you did today, I...” He took a breath and let it out. “Then you really put that jerk in his place, and... and I...”
+
+“Yes?” Denise asked.
+
+“You're right. Sometimes saying 'thank you' just doesn't seem like it's enough.” He said, a little embarrassed to admit it.
+
+“You know, if we were still in the hospital, I'd be fighting tooth and nail to stop myself from holding you like this.” She said.
+
+“You would?” Ren asked, surprised.
+
+Denise nodded. “It's definitely against hospital policy to hold you this close, and have... certain thoughts... at the same time.” She said. “Now here we are outside of the hospital, and I have you in my arms; but because of your bruise, I can't cuddle you like I've always wanted to.”
+
+“You've always wanted to?”
+
+Denise nodded again. “I've had...” She sighed. “...inappropriate thoughts about you for a long time.”
+
+Ren's eyes widened, and she chuckled.
+
+“I've struggled for a long time with it.” Denise said. “I eventually came to accept that nothing could ever happen between us, and did my best to forget that I ever did have those thoughts.” She said. “I've worked hard to help you out as much as I can, and still keep my distance.”
+
+“And now I have a girlfriend.” Ren said.
+
+“And now you have a girlfriend.” Denise said. “Several actually, if you count the ones in the game.” She smiled. “They all seem to be okay with a little sharing, too.”
+
+“For the most part.” Ren said. “I haven't specifically discussed it with anyone except Nathalia and Stella, though.”
+
+“That's okay.” Denise said. “Stella discussed it with both Elise and me.”
+
+“She talked to you, too?” Ren asked, surprised again.
+
+“Of course she did.” Denise said. “We're all in your life, and play major parts in it now.” She said. “The last thing we need is to keep secrets from each other.”
+
+Ren was about to ask if Barbara knew all about it, but decided that would be a stupid question to ask.
+
+“So, what do we do now?” He asked instead.
+
+“The first thing you're going to do is thank me for today, and give me a kiss.” Denise said. “The second thing you're going to do, is log into the game and get some sleep.” She glanced at the clock on the wall. “You'll have nearly 7 hours, if my math is right.”
+
+“It is.” Ren said and let her out of the hug. Denise looked at him with a bit of surprise on her face, because she had expected him to give her a kiss before he let the hug go. Ren climbed up onto the bed, and rather than lay in the center like he normally would, he sat on the edge by where she stood and motioned for her to come closer. He moved his legs apart to make room for her, and she stepped in close.
+
+“Yeah, this is much better.” Ren said, and smiled as he put his hands on her shoulders. “I didn't want you to get a sore neck.”
+
+“Oh.” Denise said. “This seems like a lot of prep work just for a little ki-mhm.”
+
+Denise's words were interrupted when Ren's lips met hers. Unlike the kiss they had the day before, he didn't settle for a quick peck. He wanted her to know that she'd been kissed. It lasted for about 2 minutes, and Ren stopped kissing her and leaned back. Her eyes were wide and her mouth was still open.
+
+“Denise.”
+
+“Um... what?”
+
+“Thank you...” Ren caressed her cheek. “...for saving my life today.”
+
+“Y-you...” Denise licked her lips. “You're welcome.”
+
+Ren gave her another quick kiss, much to her surprise, then he slid back on the bed and laid down.
+
+“Can I have chicken noodle soup for lunch?”
+
+“O-of course.”
+
+“Thanks.” Ren said. “Hand me the VR headset, would you?”
+
+“S-sure.” Denise said, and got the headset for him. “Have fun.”
+
+“Oh, right!” Ren said, and reached into the cubby hole to grab a foil packet. He sat up a bit too quickly, and it tightened the muscles in his chest. “Ow.”
+
+“What are you doing?” Denise asked.
+
+“Going to the bathroom to... ah...” He held the foil packet up. “I need to put this on.”
+
+Denise grabbed the edge of the blanket and pulled it up to cover his legs and mid-section. “Go ahead.”
+
+“But...”
+
+“I'll get the little water basin so you can wash your hands afterwards.” Denise left and came back with the water basin, soap, and a towel. She held the blanket up as Ren pulled his pajamas and underwear down, applied the contents of the foil packet, then washed his hands. He dried them on the towel and put his clothing back into place.
+
+“Thanks.” Ren said.
+
+Denise folded the blanket back to the foot of the bed, and had a slightly sad expression.
+
+“What is it?”
+
+“If we'd had our conversation before your shower...” Denise sighed. “...I wouldn't have had to ignore your... considerable assets.”
+
+Ren chuckled. “You do realize that I take a shower... or rather a bath now... every day, right?”
+
+Denise didn't have to think about that for long, and she smiled as she handed him the VR headset.
+
+“Have fun.” She said again.
+
+“I'm sure I will, now that you've helped me get prepared.” Ren said and put the headset on as Denise chuckled.
+
+“See you at lunch.” She said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, and Nathalia still sat beside him. She was asleep, and her head rested on the back of the couch. He leaned in close and put his lips by her ear.
+
+“My Love, your neck is going to be sore if you stay like that all night.” Ren whispered.
+
+“I'm not leaving your side.” Nathalia mumbled, and he felt her determination. He nuzzled her neck, and she almost giggled. Her eyes flew open, and she looked at him. “Ren! It's really you!”
+
+“Actually, I'm just a very handsome copy.” He said, and she laughed. “I think we should get to bed.”
+
+“Me, too.” Nathalia said and yawned. “We both have a long day tomorrow.”
+
+They got up from the couch and went into her bedroom, stored their clothes, and climbed into bed. The only thing they did was hold each other as they went to sleep.
+
+********
+
+Denise was a little disappointed that there wasn't a blue screen, because she figured he'd go right in there and 'have fun'. There was a knock on his room door, and then it opened.
+
+“Fresh linens.” The maid said, and brought in clean towels and bed sheets. “Is there any for me to take?”
+
+“There is.” Denise said and went to the bathroom. She rummaged through the hamper and picked out all the normal clothes. She brought the hamper out and gave it to the maid.
+
+“Thank you.” The maid said, and dumped the hamper into her laundry cart. She looked through the contents, and picked out a pair of red underwear. “This isn't linen.” She said and grinned.
+
+“Oops.” Denise said and took them from her. “I missed that. Sorry.”
+
+“That's okay.” The maid said. “You should see some of the things people throw in the hampers by mistake.”
+
+“I don't want to know.” Denise said and held up a hand in a stop gesture. “I have enough experiences with stuff like that as it is.”
+
+The maid laughed. “See you later.”
+
+Denise went back into the bathroom and gathered up the dirty clothes, and put them into the small hamper by the dresser in the room. She was tempted to toss them into the small washing machine, just so they wouldn't become an even bigger pile later; then figured that was better than watching Ren sleep on the television and in the bed. After sorting through the clothes again, she picked out the delicates and went to the laundry room that was there for the guests.
+
+*
+
+“Any luck?” Detective Ramirez asked his partner during their lunch break. He'd splurged today and had offered to pay for lunch at Amazon Jim's. Officer Stonewall was halfway through her second plate of Endless Fries.
+
+“Some.” She said, and slid her half of the list across the table. Three of the eight names had check marks by them. “The first one is a guy who works as a janitor at the museum. Nothing special.”
+
+“Nothing special, huh?” Detective Ramirez smiled. “What did he do back then?” He asked and bit into his double-sized hamburger.
+
+“He was a lawyer...” Officer Stonewall said. “...and before you ask, it wasn't for the firm that handled Ren's case.”
+
+Her partner nodded, and she kept talking.
+
+“The second guy... he's a lobbyist in the state legislature.”
+
+Detective Ramirez grunted. “And back then?”
+
+“He ran Mayor Danicot's campaign.”
+
+“The third name... she's something special.”
+
+“Why?”
+
+“Back then, she was a secretary in the state capital.”
+
+“That's nothing special.” Detective Ramirez said. “What's she doing now?”
+
+“The governor.” Officer Stonewall said, then laughed because her partner nearly choked on his drink.
+
+“Y-y-you're kidding!” Detective Ramirez said, once he wiped off his mouth and stopped coughing.
+
+“Nope.” She said, and took out a piece of paper. She unfolded it and passed it to her partner.
+
+“Well, damn.” He said as he looked at a copy of the newspaper article saying the governor had finally found a new love, more than a year after his wife had died.
+
+“What about you?” Officer Stonewall asked as she ate some more french fries.
+
+“I got nothing.” Detective Ramirez said. “I checked 5 of the 8 names, and they were all aliases.”
+
+“Wow.” His partner said. “The last three names on your list we already know.”
+
+“Yeah.” He said. “The blonde with the mayor, Senator Eddlemere, and the Chief of Police.” He sighed. “What about the picture?”
+
+“I made a couple of copies and passed it around.” Officer Stonewall said. “After removing Ren from it, of course.”
+
+Detective Ramirez nodded and kept eating.
+
+“Of the seven people in it, not counting Ren or his parents, we know the blonde, Mayor Danicot, Senator Eddlemere, and now the janitor.”
+
+“So, three unidentified.” He said, and she nodded.
+
+“They must have used one of the aliases on your list.”
+
+“Yeah.” Detective Ramirez said. “I'll see what I can do about getting them redrawn to a larger size.”
+
+“No need.” Officer Stonewall said and handed him a rolled up piece of paper.
+
+“What's this?” He asked, and unrolled it. “How did you do this without getting caught?”
+
+“And the Padawan outshines the Jedi Master.” Officer Stonewall said, and he chuckled. “I just took it to a print shop and had them enlarge it for me.” She said and ate some fries.
+
+“I'm kind of sad that I offered to buy you lunch already.” Detective Ramirez said. “Now I don't have anything to reward you with.” He smiled. “This is great work, Holly.”
+
+“Thanks.”
+
+“I can get Chuck to check these out this afternoon.” He rolled the pictures up and stuffed them into his jacket. “I'll have him use the aliases to enter the pictures into the system.”
+
+“That's great.” Officer Stonewall said. “I can't wait to see who these bastards really are.”
+
+“Me, either.” Detective Ramirez said. “I'm not sure what we can do with the information once we get it, though.”
+
+“We'll worry about that when we have it.” She said and finished the plate of fries, and waved to the waiter. He brought over another plate full of fries, and took the empty one.
+
+“How can you eat like that?” Her partner asked. “I'd be big as a house if I ate like that once a week.”
+
+Officer Stonewall chuckled as she ate several fries at once. “I have a high metabolism.”
+
+“Give me some of that metabolism.” Detective Ramirez said and grinned. “I hate eating salads!”
+
+They both laughed.
+
+********
+
+Ren woke up with a warm body beside him. He opened his eyes and looked around.
+
+Good morning, Teepo. Ren thought to his friend.
+
+“Good morning.” Teepo said.
+
+How's the time?
+
+“You've got about 2 hours left before your early breakfast.”
+
+Thanks, buddy. Ren thought and snuggled back down with Nathalia.
+
+*
+
+Lara, the Sage of Ages, sat at her desk in the Aurora Library. She was in the middle of a good book when she received a popup that said she had a message. She put the book down and opened the message. Her eyes widened as she read the words, and then she closed it and ran to her closet. She stepped inside and chose the Library in the Giant Kingdom. She stepped out of the closet, and was surprised that the stack of books that was supposed to be blocking her door from sight wasn't there. Instead, there were two Guardians of the Land; and in between them stood the Chancellor.
+
+“We need to discuss the book.” The Chancellor said in a gravelly voice.
+
+“I'll tell you anything that you need to know.” Lara said.
+
+“We need to know where the abominations are staying.” One of the Guardians of the Land said.
+
+“All I know is where the description is in the book.”
+
+“So you won't know if that's the actual place or not.”
+
+“Not from just the description.”
+
+“Can you get the actual location?”
+
+“Yes.”
+
+“Then do so.” The Chancellor said. “We will wait for you here.”
+
+Lara nodded, and stepped back into her closet. She chose the Aurora Library, and stepped out of it.
+
+“Oh, crap.” Lara said and leaned against the door. She opened the messaging system and typed up a message to Ren and sent it.
+
+“Please be in the game. Please be in the game. Please be in the game.” She repeated as she waited for Ren's response.

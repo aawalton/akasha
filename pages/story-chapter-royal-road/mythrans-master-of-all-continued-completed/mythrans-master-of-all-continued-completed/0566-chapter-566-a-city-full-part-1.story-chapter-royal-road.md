@@ -1,0 +1,255 @@
+---
+id: 5d7ee105-aa13-53b5-b06a-034fa0346ba6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 566 - A City Full: Part 1"
+slug: 0566-chapter-566-a-city-full-part-1
+partOf: mythrans-master-of-all-continued-completed
+position: 566
+ownLength: 2994
+unit: words
+publishedAt: 2018-04-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210600/chapter-566-a-city-full-part-1"
+royalRoadId: "210600"
+---
+
+Ren came out of the portal with Artemis and they were inside the succubi roost. He summoned Teepo and dismissed the portal, then concentrated on his Heat Sense Aura. He could tell there were 37 people inside the roost, and only 4 of them were alone.
+
+“It's a huge sleepover.” Teepo said and Ren chuckled. It didn't take long for the succubi to come to meet Ren in the large meeting room he had appeared in, in the middle of the roost.
+
+“I'm just giving a quick feed to anyone that needs it, before I head to the capital to heal the ghoul infected.” Ren said.
+
+The succubi had come alone and had left their partners, so he fed them the traditional way and kissed them, which gave them the best and strongest feedings of emotions.
+
+“Before I go, I have a quick question.” Ren said. “Who has two sleep-over guests?”
+
+Fayeth raised her hand and her face went red.
+
+“Don't be embarrassed.” Ren said. “I was just curious about the odd numbers.”
+
+“It is the couple we had rescued during the invasion where the soldiers had captured them and tried to use them as hostages. I felt something then, and then during one of my patrols I felt it again when I passed near their house and landed to investigate. When they discovered it was me and we got to talking and discussed their lives and how it had become stagnant and-”
+
+Seldanna covered her mouth to shut her up. “He gets the idea.”
+
+Fayeth nodded and Seldanna let her go. “My apologies. I didn't mean to drone on and on about what-mmhm.”
+
+Wynphine had her mouth covered this time. “I believe we're done feeding, My Lord.”
+
+Ren nodded. “I hope you all enjoy yourselves and the rest of your day.” He said, and wasn't surprised when 16 of the succubi nodded and left the room to go back to their visitors, and 4 stayed behind.
+
+“...and then there were 4.” Teepo said. Since he didn't have a solid body yet, only Ren and Artemis heard him.
+
+“Ladies, I assume you would like a repeat performance?” Ren asked.
+
+“Oh god, yes!” Seldanna said, and the other three laughed.
+
+Ren took out the two beds he had used before and the succubi laid down on them. Once again, he had barely started to go down on them when they finished and had absorbed all the emotions they could.
+
+“You know, I might start getting a swelled head about pleasing women if I hadn't just had that experience with Allynna.” Ren commented as he and Artemis left the roost.
+
+“I think the succubi are just attuned to you.” Teepo said. “When you willingly touch them like that...”
+
+“...they can't stop themselves from being overexcited about it.” Ren finished the thought.
+
+“Especially considering you said you would only feed them and wouldn't have any kind of sexual contact with them.” Teepo said. “Now that you are, you're kind of driving them wild.”
+
+“Seldanna did say that the others were really sorry that they had already found someone else to share emotions with.” Ren said as they arrived at the Main House, and he knocked on Princess' door.
+
+“Where to, My Lord?” Princess asked as she came out.
+
+“We're visiting the hospitals and wards in the Human capital, and probably some of the outlying towns nearby.”
+
+“Should you bring Zetaya in case we meet any ghouls along the way?” Teepo asked.
+
+“I want to keep this as low key as possible.” Ren said. “Just a quick visit to each, healing if necessary, then on to the next one.”
+
+“What if some of them want to come back to Walin County?” Artemis asked.
+
+“I'll make arrangements for them to get here, but I won't be doing the transporting.” Ren said. “I spent half the time doing that with the High Elves, and that slowed us down too much and we didn't save as many of them as we could have.”
+
+“We aren't fighting a battle this time, either.” Artemis said.
+
+“Not against an enemy.” Ren said. “Against time.”
+
+“Then climb on, My Lord.” Princess said. “You are wasting time talking.”
+
+Ren nodded and climbed onto the saddle on her back after equipping his platinum armor, and Artemis floated into the air beside him. Princess took off at her best speed, now that she didn't have to be careful of weak passengers, and they arrived in the capital 2 minutes later.
+
+Ren used the All-Seeing Mirror to find the closest hospital with ghoul infected inside and rode Princess there. She landed on the street in front of the hospital, and Ren saw that it was surrounded by guards. He hopped off of Princess and casually walked over to the guards, and he saw them tense up and a few of them even drew their swords.
+
+Ren cast Magic Mouth on the door of the hospital before he spoke. “I'm not here to fight.” He said as he concentrated on his Camaraderie Aura, and Magic Mouth repeated his words inside the hospital. He held his hands up to show that he was unarmed. “What are your orders?”
+
+A knight stepped out of the crowd of guards and looked at Ren. “We're here to protect these people.” He said. “From you.”
+
+“You need to protect them from me?” Ren asked. “I didn't come here to kill them, if that's what you were told.”
+
+“Not kill them, no. You're here to steal them, which is almost as bad.” The knight said.
+
+“Do you know the knight named Blair?” Ren asked.
+
+The knight reluctantly nodded.
+
+“Did I steal him away? Did I steal his wife and sons away?”
+
+The knight didn't respond.
+
+“All I did was heal the ghoul infected completely. No one has to come with me at all, even though they become a part of my domain. They don't have to give up their jobs, or families, or any aspect of their lives at all.” Ren said. “On the other hand, I will let them move to my county if they want to, though.”
+
+“We can't let you through.” The knight said.
+
+“You won't let me through? Well, that's okay. If anyone wants to be healed of the ghoul sickness, they just have to come out to me instead.”
+
+The knight laughed, as did a few of the guards. “You're pretty arrogant if you think that...” His words stopped as the hospital door opened behind him.
+
+“I'll take the healing!” One man said and stumbled out into the street.
+
+“Me, too!” A woman said and held her child up. “Heal my son, first!”
+
+“The healers said we'd feel terrible for weeks!” Another man said. “I can't take it!”
+
+The knight didn't know what to do. His orders were to keep Ren out of the hospital, not to keep the patients inside.
+
+Suddenly, a window was smashed and a half-formed ghoul tumbled out into the street. The knight and the guards drew their weapons and darted in to attack it.
+
+“STOP!” Ren commanded and pumped Fear into his Aura. The knight and the guards stopped immediately, and Ren went over to the huddled form. “Hey, are you all right?”
+
+“P-please, h-help!” The man mumbled as he panted in pain. “D-do a-anything! H-help!”
+
+Ren used a single fingertip and touched the man's forehead, then stepped back out of the way. The man grunted and hollered a little as his chest burned, then his body uncurled from it's huddle and his hair grew back in. The man's breathing evened out and he sat up.
+
+“I'm healed! I'M HEALED!” The man said and jumped up, grabbed Ren's hand and shook it vigorously. “Thank you so much!”
+
+“You're welcome.” Ren said, and he was suddenly surrounded by people and they touched him. They were all healed and moved on down the street to let other people get near Ren. The man let Ren's hand go and turned towards the hospital.
+
+“There are other people inside that can't break free of their restraints.” The man said.
+
+“Please step back for a moment.” Ren said, and they moved away. He checked the All-Seeing Mirror for where the restrained people were and cast the Portal spell. “Artemis.”
+
+Artemis stepped through and opened their restraints, then brought the partially transformed through the portal. Ren healed them as they came out, then Artemis came out and he dismissed the portal.
+
+The knight shook his head and looked at the guards. “We aren't needed here.” He said and sheathed his sword, then led the guards away. The people cheered and hollered, and Ren quickly touched them all to heal them. He entered the hospital and told them to hold their hands up if they wanted to be healed, then touched everyone that did as he ran through the ward in only a moment.
+
+Elise was right. Ren thought as he exited the hospital to meet Artemis and Princess. They both had a large crowd around them, and the people turned to look at Ren.
+
+“I'd like to move, just for a change of scenery.” One of the women said. “I don't want to leave my husband behind, though.”
+
+“The moving invite applies to you and your immediate families.” Ren said, and he felt surprise from them. “I'm here to help, not break up families.”
+
+Once that was known, a lot more people decided to come to the county. Ren gave them funds to buy a horse and cart for their families and things, and supplies for the journey to Walin County. Some were reluctant to make a week-long journey until Ren told them there was a whole city just waiting for them to arrive.
+
+Ren, Princess, and Artemis went to the next hospital and the scene at the first hospital was repeated almost identically with only a slight variance. Word of his efforts started to spread, and when they reached the third hospital, the knight there only nodded and walked away without causing a confrontation.
+
+The rest of the morning went by quickly as Ren healed everyone that wanted to be healed. He healed 1,000 of them; then 10,000; and then 100,000. The last one gave him a popup that was a bit of a surprise.
+
+Notice!
+
+You have gained a new skill: Mass Healer (Ghoul). This skill affects your Aura, and those that are within it can be healed of the ghoul infection as if you had touched them.
+
+“Now that's cool.” Ren said. “Time to test it.”
+
+Since they had already done everyone in the capital, they went to the next largest town in the outskirts. Before he entered, he sent Artemis in to tell them that Ren was there to heal them, they would become a part of his domain, but didn't have to give up their livelihoods or their families.
+
+Artemis flew over to Ren when everyone readily agreed. “They're waiting for you.”
+
+Ren nodded and made sure his new skill was activated, then he rode Princess through the town several times and covered it all in his Aura. Teepo, being the amazing friend that he is, actually managed to count the people that were healed.
+
+“Another 56,043 were saved, and it only took you 10 seconds!” Teepo exclaimed.
+
+Ren chuckled. “Nice.” He said and looked at Artemis. “I assume they know...”
+
+“...that they can move to Walin County if they want.” Artemis said. “You might want to hire someone to stay here and give out funds if necessary.”
+
+“That's a good idea.” Ren said and went to the main building. It was a mansion similar to the one Lord Eric had in Aurora, and he left Princess on the roof while he and Artemis went inside. He went to where the receptionist was, and asked her about hiring someone to be like an emissary.
+
+“You'll need to talk to the Minister of Finance for the fees and the Minister of Population for the possible people transfer.” The secretary said. “I can have an appointment for you sometime next week with the Finance Minister, but the Population Minister is off because his son is sick with that ghoul flu going around.”
+
+“He's not sick with that anymore.” Ren said. “I took care of it.”
+
+“Excuse me?” The secretary was surprised. “Did you just say...”
+
+“They are all healed, and I just wanted someone to open a seller's stand to offer them financial aid if they needed it, in case they wanted to move or whatever.” Ren said and turned around. “I'll worry about it later.”
+
+“Wait!” The secretary said, and he turned back to look at her. “You healed them? All of them?”
+
+Ren nodded. “Just a minute ago.”
+
+“Does that mean they are all going home?” She asked as she stood.
+
+“I assume so.” Ren said. “There's no point in staying around a ward if you're not sick anymore.”
+
+The secretary walked around her desk and approached Ren with her arms out. He figured she wanted to give him a hug, so he equipped his blue suit to replace his platinum armor.
+
+“Thank you very much.” She said as she bent over slightly and slipped her arms around his shoulders in a tight hug. She wore a low cut dress, so his face became tucked between her breasts. Ren felt how happy she was, and since he always enjoyed a good hug, he hugged her back just as tightly.
+
+“Hmm mhmhm.” Ren mumbled into her breasts, and she laughed.
+
+“What was that? I couldn't quite hear you.”
+
+Ren pulled his face out of her cleavage and smiled up at her. “I said, you're welcome.”
+
+“My father was one of the first soldiers to encounter the ghouls, and he's been sick for a while.”
+
+Ren took out the All-Seeing Mirror and asked it to show the secretary's father and showed her.
+
+“He really is fine.” She said, as if she didn't quite believe it, and then she let Ren go and picked up a small sign. “Please take me to him.”
+
+Ren nodded and they left the office, and she hung a 'Back in 5 minutes' sign on her door and locked it. He escorted her outside and down the street, with Princess and Artemis right behind them. They went around a corner and down another street, and they passed hundreds of healed people. The secretary kept turning her head to look at their faces, and she saw how happy they were. She also saw them all wave, nod, or acknowledge Ren in some way.
+
+“My Lord, you... you really did it.” She said with wonder in her voice. “I knew you did, since you weren't lying, but...”
+
+“Valercia!” A deep male voice rang out, and her head whipped around.
+
+“Father!” Valercia let Ren's elbow go and ran to her father. They both laughed as he grabbed onto her and lifted her up as he swung her around. Ren walked over to them, and the man put his daughter down.
+
+“Now that's service!” The man said. “He heals me, tells me I can quit being a soldier and move if I want, then he brings me my daughter to celebrate.”
+
+“Father, that last one was me.” Valercia said. “He came to the mansion on other business.”
+
+“Oh! Well, I guess there's no reason for others to be jealous, then.” The man said and laughed.
+
+“Father, you don't actually think he could do this for everyone, do you?” Valercia shook her head. “There would have to be hundreds of him for that!”
+
+The man laughed again. “I'm taking him up on his offer, so it's the least he can do for me.”
+
+“What? Really?” Valercia asked.
+
+“I'm getting too old for soldiering anymore.” The man said. “I want a nice simple life, now that I have the choice.”
+
+“But... father...”
+
+“Come with me.” The man said. “He said you could!”
+
+“But... but my job... and... and the...”
+
+“You've been there long enough. You should have moved up from being the basic secretary a long time ago.” The man said. “You run everything anyway, and none of them appreciate it.”
+
+“Father... I...”
+
+“I'll need someone to run the Starter City everyone will be moving to.” Ren said to interject himself into their conversation, and they both looked at him. “Of course, you'll need to hire an administration staff to help you keep everything in order; but, I'm sure that if it's just a city and not a whole county, you can handle everything you need to.”
+
+“Are you serious?” The man asked, and Ren nodded.
+
+“No one's there yet, but I've healed close to 200,000 people so far today. If even a tenth of them accept and move there, that's a lot of people that are going to need someone in charge.”
+
+“But... we just met!” Valercia exclaimed.
+
+“Your father's rousing endorsement of your capabilities is good enough for me.” Ren said and smiled.
+
+“But... but, I'm not...”
+
+“I can fix that, if you like.”
+
+“Will I feel as good afterwards as my father does?”
+
+“Yes.” Ren said. “You will also gain the Ghoul Kissed mark over your heart.”
+
+Valercia turned to her father and pulled his tunic out of the way and saw the skull mark. Her fingers traced it's outline. “Then yes, make me the same.” She said, and Ren felt her resolve.
+
+“This will hurt, but only for a moment.” Ren said.
+
+“You don't sound sure.” Valercia said.
+
+“It's because I've never done this before.” Ren said.
+
+“I'll be the first?” Valercia asked. When he nodded, he felt how happy that made her. “Then convert me, My Lord. Let me be the first to voluntarily do this.”
+
+Ren reached out and activated his Ghoul Touch ability to intentionally infect her, then touched her forehead. Valercia gasped as the ghoul infection spread through her in an instant, then she was healed in the next instant and her chest burned as the Ghoul Kissed mark appeared over her heart.

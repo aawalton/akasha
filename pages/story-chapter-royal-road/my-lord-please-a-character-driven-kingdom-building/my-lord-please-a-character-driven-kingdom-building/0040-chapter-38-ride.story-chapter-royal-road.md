@@ -1,0 +1,223 @@
+---
+id: e5dd80db-4adf-5b58-8848-a42f9edf517d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 Ride"
+slug: 0040-chapter-38-ride
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 40
+ownLength: 2041
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3301778/chapter-38-ride"
+royalRoadId: "3301778"
+---
+
+By the time Lucien stepped into the manor yard, the usual quiet of evening had already begun to break.
+
+Lanterns burned along the stable wall, their dim light swaying gently in the cold air while shadows of men and horses moved across the packed earth of the courtyard.
+
+Guards moved between the stalls and the armory racks set along the stone wall, tightening straps and checking bridles as stable hands led out horses one by one. The animals stamped against the frost-hardened ground, white breath drifting slowly from their nostrils as leather and iron creaked from their restless motions.
+
+He paused near the edge of the courtyard, watching the preparations unfold.
+
+Even in the dim lantern light, the difference between the two groups was clear. It reminded him vaguely of the time he had seen the different groups of Ashridge's combatants drill those weeks ago.
+
+Several of the riders wore reinforced brigandine over mail shirts with steel helmets sitting low upon their brows. These were the household guards sworn to House Varentis, their movements practiced and deliberate as they checked their weapons and mounted in silence.
+
+The others wore thicker gambesons and patched pieces of armor fixed over the more vulnerable parts of their bodies. The guards of Ashridge lacked the same uniform precision and their preparations carried the familiarity of men more accustomed to winter watches along the palisade then preparing for a rescue operation.
+
+At the center of the yard, Dorian stood beside a tall bay horse while several riders gathered around him. The captain spoke quietly as he assigned positions, his voice calm but firm enough that the men moved quickly once he finished.
+
+Lucien stepped further into the courtyard.
+
+Dorian noticed him almost immediately. “The horses are ready, My Lord,” the captain reported as he approached.
+
+Lucien’s gaze moved across the assembled riders. “Twenty?”
+
+Dorian inclined his head in confirmation. “Twenty.”
+
+He observed the men gathered at the courtyard.
+
+Bundles of blankets and spare cloaks had already been secured behind several saddles while spears rested upright against the stable wall with shields slung across backs or hooked to the sides of saddles.
+
+“Good,” Lucien said quietly, his eyes shifting toward the western road.
+
+Dorian followed it toward the palisade gate where the road disappeared into the hills. “We can ride within minutes.”
+
+“Then we will not delay.”
+
+Around them the yard hummed with controlled activity as the riders finished their preparations beneath the flickering lantern light.
+
+Lucien’s gaze moved slowly across the assembled riders once more.
+
+Bran sat astride a dark brown mare near the middle of the gathering, his broad frame unmistakable even beneath the padded gambeson he wore over his work clothes. The farmer’s spear rested upright beside his saddle while his gaze remained fixed toward the direction of the northwestern ridge.
+
+His expression held the hard set determination of a man who already knew why he was riding.
+
+Lucien slowed as he approached the line of riders.
+
+Bran noticed him and inclined his head once in acknowledgment.
+
+“You have kin in Cragwatch,” Lucien said. He remembered Bran had mentioned them before sometime ago, when Ashridge had their own Tithe to contend with.
+
+The farmer’s jaw tightened faintly. “Aye, Milord.”
+
+He regarded him briefly before nodding once. “Then ride near the front.”
+
+It would allow the man to be among the first to check for signs of survivors.
+
+Bran inclined his head again, slower this time as his hands tightened around the reins.
+
+As he was about to turn to move on, the older man's gaze shifted briefly past him toward the edge of the courtyard, he followed the direction of it.
+
+Alicia stood near the stable wall, a faint crease between her brows. She had returned from the manor corridors and now waited with her hands clasped together before her. Her eyes moved between the riders before it rested upon Bran’s saddle.
+
+Bran noticed her watching and gave a small nod in her direction.
+
+Alicia returned the gesture, her fingers tightening briefly against one another before she lowered her eyes.
+
+He resisted the impulse to approach her and continued along the line of riders.
+
+A few paces further another familiar figure adjusted the strap of a shield hanging from his saddle.
+
+Tomas.
+
+The young militia checked the strap once more before letting his hand fall away, there was a sense of eagerness there yet he was clearly making an attempt to control it. He looked up only when Lucien’s shadow crossed the ground beside him.
+
+For an instant, the old uncertainty flickered across his expression before shifting slowly into something steadier, he straightened in the saddle. “My Lord.”
+
+Lucien regarded him for a moment longer. The last time he had watched the younger man closely, he had clung onto the spear as though he might lose it, now his hand lingered instead.
+
+He inclined his head in response. “Stay close to the column.”
+
+Tomas nodded firmly. “Yes, My Lord.”
+
+Lucien continued past the riders without another word as the stir of preparations continued around the yard.
+
+Somewhere near the stables, a horse stamped against the cold earth while the distant sound of leather being tightened echoed softly through the lantern-lit courtyard.
+
+He slowed at the end of the line of riders, turning toward the ridge. His attention lingered on the western road for a moment before returning to the courtyard.
+
+Most of the riders had already taken their places while Dorian moved between them one last time, checking straps and exchanging a few final words with the men nearest the front of the column.
+
+The preparations were nearly finished.
+
+He had taken only a few steps back toward the center of the yard when something drew his attention toward the well.
+
+Sera stood beside the stone ring of the well, her small satchel resting against her hip while her gaze moved slowly across the assembled guards. When her dull eyes settled upon Lucien she did not look away.
+
+Lucien studied her briefly before he spoke. “You intend to come.” It was not phrased as a question.
+
+Sera's fingers brushed against the wrapped cloth slung across her back.
+
+Then she gave a firm nod.
+
+Lucien held her gaze for another moment before glancing briefly toward the line of riders. He suspected she would go regardless of his answer, perhaps even steal a horse if she had to.
+
+His eyes shifted to the hunting bow resting lightly in her hands, lingering there for a heartbeat as he measured the ease with which she carried it before returning his attention to her.
+
+Sera had not moved, yet something in her posture shifted almost imperceptibly. Her head tilted as she watched him, the same faint stillness settling over her that often came when she was listening intently for something.
+
+A few of the men had begun to notice the exchange.
+
+Dorian approached soon after, his eyes moving between them. The captain’s brow tightened faintly. “My Lord.”
+
+Lucien nodded toward the silent girl. “She rides with us.”
+
+Dorian studied Sera briefly before returning his gaze to Lucien.
+
+The pause lasted only a moment before he spoke.
+
+“As you wish, My Lord.”
+
+He turned away again almost immediately, his attention already shifting back toward the riders.
+
+Lucien looked toward Sera once more. “When we reach Cragwatch, keep to the column.”
+
+She gave a small nod before stepping away from the well.
+
+Around them, the last of the riders settled into position as the low stir of preparation gave way to a stillness that tightened across the yard.
+
+Dorian’s voice carried calmly across the yard.
+
+“Mount.”
+
+The last of the riders swung into their saddles as the order passed down the line.
+
+Several of the guards glanced briefly toward Lucien as he approached his horse, the momentary surprise in their expressions quickly giving way to resolve.
+
+The animal snorted softly as he approached, its breath rising pale in the lantern light.
+
+Lucien placed a hand upon the saddle and swung himself up into the seat. For an instant, the motion felt oddly familiar, like recalling a skill learned long ago but never practiced.
+
+Across the yard, Bran watched the motion before settling his spear more firmly against his saddle.
+
+A few paces further along, Tomas straightened in his seat.
+
+Dorian guided his horse toward the front of the column, where the rider from Cragwatch waited, his posture still stiff from the hard ride that had driven him here.
+
+The captain turned in the saddle and allowed his gaze to pass over the assembled men one final time. Satisfied, he gave a short nod.
+
+Near the stable wall Alicia still remained where Lucien had last seen her.
+
+Sera moved toward the riders as the final preparations were made, pausing beside Alicia, whose attention lingered on the long bow slung across the girl’s back, its polished wood darker with age than the lighter hunting bow in her hand.
+
+For a brief moment, their eyes met.
+
+Alicia’s hands remained clasped before her, though the concern that had lingered upon her face earlier had softened.
+
+Sera remained beside her with the same still posture she carried everywhere, the satchel resting lightly against her side.
+
+Neither of them moved.
+
+Then Alicia gave a gentle nod in acknowledgment.
+
+Sera returned the gesture before turning away. She moved toward the rear of the column where a rider shifted in the saddle to make room for her.
+
+Lucien watched the exchange from across the yard, faintly aware of the understanding that had formed between them despite how different they seemed from one another.
+
+A moment later, Dorian raised his hand. “Forward.”
+
+The gate creaked softly as the first riders began to move.
+
+Hooves struck the frozen earth as the column advanced, passing beneath the wooden arch and onto the dark road beyond the village.
+
+One by one the riders followed.
+
+Lantern light from the yard stretched across their cloaks before falling away behind them.
+
+Lucien guided his horse forward near the middle of the column. As the line began to move, he glanced once toward the stable wall.
+
+Alicia remained where she was, her fingers tightening faintly together as she watched them go.
+
+Then he turned forward and moments later, the column passed beneath the western palisade gates.
+
+The village fell behind them as the road carried the riders west into the waiting dark.
+
+The road beyond Ashridge narrowed quickly once the last of the houses disappeared behind them.
+
+By the time the riders cleared the last of Ashridge’s outer fields, the hedgerows gave way to open ground where the wind moved freely across the low winter grass.
+
+Along the edges of the road the frost had been churned into scattered patches, countless small impressions breaking the thin white crust like a restless tide of feet had passed through the land not long before.
+
+Dorian rode near the front beside the messenger from Cragwatch, the two figures little more than shifting shadows at the head of the riders as the road curved slowly toward the low hills beyond the fields.
+
+Lucien kept his place near the middle of the column.
+
+The pace of the horse beneath him was steady, the movement carrying a strange familiarity that still felt faintly borrowed, as though his body remembered the motion more easily than his thoughts did.
+
+Ahead of him, Bran rode with his spear resting across the saddle, the farmer’s broad back rising and falling with the slow movement of the horse.
+
+Further behind Tomas kept close to the riders beside him, his posture noticeably straighter than it had been only weeks before upon the palisade wall.
+
+The sound of hooves striking the frozen road broke the stillness as the riders pressed onward into the night.
+
+A short distance behind, Sera sat behind one of the guards who had made space for her earlier. The long bow remained slung across her back while the lighter one rested across her lap, her dull eyes scanning the dark fields beyond the road.
+
+As the column rode, Lucien glanced back toward her.
+
+Then the road curved once more and the dark hills ahead slowly began to rise against the night sky.
+
+Cragwatch lay somewhere beyond them.
+
+The Riders of Ashridge pressed on into the dark.

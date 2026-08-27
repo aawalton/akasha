@@ -1,0 +1,367 @@
+---
+id: 685ac9b8-959d-5e17-a171-339ee6219ea8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118 - Back To Work"
+slug: 0103-chapter-118-back-to-work
+partOf: mythrans-master-of-all-continued-completed
+position: 103
+ownLength: 4641
+unit: words
+publishedAt: 2016-12-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108141/chapter-118-back-to-work"
+royalRoadId: "108141"
+---
+
+Stella helped Ren put on his VR headset.
+
+“Make sure you stay in bed and get some rest.” Stella said.
+
+“I will.” Ren said. “See you at lunch.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the game and Nathalia was right there waiting. She lifted the blanket and Ren joined her under it. She put an arm over his chest and pulled herself to him.
+
+“You stayed awake and waited for me?” Ren asked.
+
+Nathalia nodded slightly. “I'll always wait for you.”
+
+He caressed her face and kissed her. “If it's okay with you, I'd like to stay here in bed.”
+
+“Anything you want is fine with me.” She said and started to snuggle down on his chest. Ren put a hand out and stopped her.
+
+“Nathalia? Can you slide up here?” Ren said and pat the pillow. “I want to fall asleep while I look at you.”
+
+Nathalia's heart leaped, and she smiled as she moved up to put her head on the pillow. Ren turned towards her and just stared at her eyes. Nathalia blushed a little at Ren's intense stare, then stared right back.
+
+“I have a lot to do...” Ren said. “...but I promised I'd stay in bed and rest some more.”
+
+Nathalia smiled. “I told mom to take care of the workers, and we'll handle any other details later, when you're better.”
+
+Ren smiled. “Thank you for taking care of everythi-PRINCESS!” Ren exclaimed and sat up in bed. “By the gods, I've missed feeding her 3 times!” Ren started to roll out of bed and Nathalia caught his arm.
+
+“REN!” Nathalia shouted, and Ren turned to her. “She's been fed regularly, and with normal food, not horse feed.”
+
+Ren sighed and relaxed, then slid back over to her. “You remembered.” He said and pulled the blanket back over them.
+
+Nathalia chuckled. “After the last time we did it wrong, and you almost lost her... Ma and I promised ourselves that we'd take care of her, if anything happened to you.”
+
+Ren put a hand on the side of her face and traced her jawline. “Thank you.”
+
+Nathalia ran a hand through Ren's hair, and straightened it a little. “Ma's been paying the wages, too.”
+
+Ren's eyes widened. “But... that's...”
+
+“A platinum a day, for 2 days.” Nathalia said. “You haven't told us what you want to pay Dorcot, though.”
+
+Ren grinned. “I've been paying him with parts of the diamond crystals he cuts for me, then I have him sell them back to me minus 10% of their worth.”
+
+Nathalia looked at him like he was crazy. “Why in the world are you doing that?”
+
+Ren laughed. “I didn't plan it that way; but it happened twice in a row. Once he told me that he'd have a hard time selling them, I figured buying them back would be the best way to keep him happy. He gets to do the work he wants, and I get bunches of tiny diamonds.”
+
+“Why the 10%?”
+
+Ren smiled. “That's what I can sell them for as a business owner.”
+
+Nathalia raised her eyebrows. “So, you're not making any money off of them?”
+
+“Besides the resale value, no.”
+
+“Why are you doing that?”
+
+“Nathalia, I've got a mountain full of diamond crystals. I don't need to make money anymore.” Ren said. “Until it runs out. Then I might need to think about making money.”
+
+“That could take years!”
+
+Ren grinned. “I'm not planning on going anywhere.”
+
+Nathalia's eyes widened. “But... the ship...”
+
+“Already left, if Teepo's timing is right.”
+
+Teepo skittered into the room. “Are you questioning my counting?”
+
+Of course not, Teepo. Ren thought with amusement. You've been keeping me on time for everything around here.
+
+“Good.” Teepo said and skittered up the wall. “Teepo is smart.”
+
+Teepo is wise.
+
+“The captain was holding the cook's position open for me.” Nathalia said.
+
+Ren nodded slightly. “Which he would have had to fill, when you didn't go back to load your things on the ship.”
+
+“I should have sent word to him...”
+
+“When?” Ren said and chuckled. “We've all been so busy...” Ren turned his head towards the ceiling. That reminds me... Teepo, can you tell Ruck to go to the workshop and pick up my Portable Leatherworking Crafting Station?
+
+Teepo turned around and skittered down the wall and out the top of the doorway. “You got it.”
+
+Ren turned his head back towards Nathalia, then gave her a quick kiss. “What did I ever do to deserve you?”
+
+Nathalia chuckled. “I was going to ask you the same thing.” She said and gave him a quick kiss back.
+
+“Well, I'm awesome... so that's your reason right there.” Ren said and laughed when Nathalia winced a little.
+
+“Ren...”
+
+“What?”
+
+“You thought you were lying when you said that.”
+
+“I was.”
+
+Nathalia shook her head. “No, you weren't.”
+
+“Nathalia...”
+
+“Ren. Believe me... the things you've done...” She said. “...the latest, and the most stupid by the way, moving that house all by yourself...” Nathalia looked him in the eyes. “Everything you do is awesome.”
+
+Ren stared at her, and didn't know what to say. There was a knock on the bedroom door and Ren smiled.
+
+“That's for me.” He said and tossed the blanket off himself. “Be right back.” Ren got out of bed and opened the door. He took the Portable Leatherworking Crafting Station from Ruck and stepped out into the hallway and shut the door.
+
+“Thanks, Ruck.” Ren knelt and opened the station, then transferred the pelt from the Treat compartment to the Drying compartment. Ren stored the crafting station into his own inventory and then looked at Ruck. “Remind me to show you how to mix up replacement potions.” He said. “I don't want you running out, okay?”
+
+Ruck gave Ren an 'okay' gesture and Ren stood up. Ruck pat his leg to get his attention.
+
+“What is it?” Ren asked, and Ruck took out each of Ren's portable stations and kits. Ren stored them all and grinned. “Thanks a lot, Ruck!” Ren said and bent to give him a hug. “I never even thought of asking you to do that.”
+
+Ruck gave a 'thumbs up' gesture and Ren laughed. “I should have lots of wood outside now... I'll make you a nice big cabinet to stay in.”
+
+Ruck clapped twice, then turned and walked to the front door. He waved and Ren waved back as he opened the door and left. Narhilda came out into the hallway to see what was going on, and saw Ren standing there in just his underwear.
+
+“By the gods!” She exclaimed, and waved a hand in front of her face.
+
+Ren looked down at himself. “Oops.” He said, then opened the door to the old bedroom. “Sorry, I'll go back to bed.” He stepped inside and closed the door.
+
+“What was that all about?” Nathalia asked.
+
+“Ruck was dropping off my portable crafting stations...” Ren said, then crawled into bed and under the blanket. “...and your mother just saw me in my underwear.”
+
+“You better not be thinking about working in- SHE WHAT?!?”
+
+Ren chuckled. “She must have seen Ruck going by. When she came into the hallway... there I was.”
+
+Nathalia shook her head and smiled. “You must have given her a heart attack.”
+
+Ren smiled. “I was tempted to go over and help her; but that would have made things worse, I think.”
+
+Nathalia nodded slightly. “Definitely.” She said. “If you'd walked over to her dressed like that... okay, undressed like that...”
+
+Ren grinned and settled down in the bed on his side, to face Nathalia. He gave a big yawn and stretched a bit. Nathalia leaned in and gave him a kiss.
+
+“Sleep well.” She said.
+
+“You, too.” Ren said, and looked at her until he drifted off to sleep. Nathalia watched him until then, and fell asleep herself soon afterwards.
+
+Ren spent the rest of the day in bed, actually resting. He woke up to the smell of cooking food, and opened his eyes. He was looking at Nathalia's peaceful face as she slept.
+
+She stayed in here all day with me. Ren thought.
+
+“She did.” Teepo said. “I can even tell you that she kept her hands to herself.” Teepo chittered in laughter, and Ren smiled.
+
+Thanks, Teepo. Ren thought and reached a hand out and used a fingertip to tickle the tip of Nathalia's nose. “Wake up, darling.” Ren whispered and she opened her eyes. “Supper time.”
+
+“Are you sure?” Nathalia asked. “We could just stay in here.”
+
+“I'd like to, but we have to eat.” Ren said. “Then I have Adventurer's business to take care of.”
+
+Nathalia sighed. “All right.” She said and flipped the blanket off and sat up. Ren wasn't sure how it was possible, but her slip had gotten even more tangled up during their extra long nap, and was actually compressing her chest slightly, and the bottom part of one of her breasts was uncovered.
+
+“Wow.” Ren said.
+
+Nathalia looked down at herself and her eyes widened. She covered herself with an arm automatically and Ren turned away just as fast. He stood up and equipped his Traveller's Clothes (without the cape) and Dire Wolf Hooded Cloak.
+
+“Sorry for looking.” Ren said as he smiled. “But... to be fair, it was quite the sight.”
+
+Nathalia blushed as she unequipped the slip, removing the tangle; then equipped the slip again and the fancy green dress. “Okay, you can look.”
+
+Ren turned around and held out a hand. “My Lady.”
+
+Nathalia took the offered hand and Ren helped her stand. They went out of the bedroom, through the main room, and into the kitchen. Narhilda was there preparing steaks and mashed potatoes.
+
+“That smells good.” Ren said, held a chair out for Nathalia, then sat himself.
+
+“Did you have a good nap?” Narhilda asked as she put a plate of food in front of her daughter, and then in front of Ren.
+
+“I did.” Ren said, and smiled. “I'm dying to get back to work, though.”
+
+Narhilda and Nathalia froze and stared at him.
+
+“What?” He asked, looking at them both.
+
+“Ren. You almost did.” Nathalia said.
+
+Ren opened his mouth, then grinned. “I swear I won't do anything that stupid in the future.”
+
+They relaxed at the truth in his words, and afterwards had an enjoyable meal. Ren took one of the steaks and some potatoes out to Princess. She was quite happy to see him, and gave him several licks on the face.
+
+“I'm okay!” Ren laughed, and Princess calmed down. He put the food in her bowl and she ate it without gobbling anything. He pat the side of her neck. “Are you okay?”
+
+Princess nodded and huffed, then Ren stood and smiled.
+
+“See you in the morning.” Ren went back inside and to the kitchen. “I'm heading to bed again.”
+
+Narhilda nodded and Nathalia gave him a kiss. “See you soon.”
+
+Ren went into the bedroom and laid down on the bed. Be right back, Teepo.
+
+“I'll be here.” Teepo said.
+
+“Logout.”
+
+********
+
+Ren popped out of VR to eat a quick lunch, and enjoyed watching a game show with Stella. When that was done, he checked his email and found nothing but spam. Ren told Stella that he'd be out for supper, and she helped him put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren logged back in and woke up on the bed. He saw he was alone and then hopped out of the bed.
+
+“Okay. I've got stuff to do.” Ren said and caught Teepo when he jumped from the ceiling. Teepo crawled into the hood and then Ren went out into the main room and into the kitchen. He saw Nathalia and her mother were standing over the land layout of House Neram.
+
+“What are you doing?” Ren asked.
+
+“We're trying to decide where to start building.”
+
+“Building what?”
+
+“A Main House.”“I thought this was the Main House.” Ren said.
+
+Narhilda shook her head. “My grandfather never had the resources to build anything like an actual House.” She said and sighed. “His whole family spent everything they had to build this Keep first.”
+
+“Really?”
+
+Narhilda nodded. “I grew up playing on some of the lower levels.”
+
+Ren sat down and stared at her. “That must have been something.”
+
+She laughed. “You can't imagine what it was like back then.” Narhilda smiled. “Dad dragged me down into the depths of each new room and showed me things I'd never seen before.”
+
+Ren grinned. “I hope that you'll be able to do that again soon.”
+
+“W-what?”
+
+“I'll be starting work on the Keep within the next few days.”
+
+“But... what about the House?” Narhilda asked.
+
+“Don't pick a spot yet.” Ren said and looked at Nathalia. “I'll need your help tomorrow with something.”
+
+“Of course I'll help.” Nathalia said. “With what, exactly?”
+
+“It's a surprise.” Ren smiled. “At least, I hope it'll be a surprise. It all depends on if it's available or not.”
+
+“If what's available?” Nathalia asked.
+
+Ren shook his head and stood. “Tomorrow.”
+
+“Where are you going?” She asked.
+
+“To work, of course.”
+
+“Work!” Nathalia exclaimed. “It's nighttime! You need to go to bed!”
+
+Ren grinned and gave her a passionate kiss. It left her a little breathless when he was done. “I've slept enough for now.” Ren pulled out 20 platinum and put it on the table, and looked at Narhilda. “My Lady, please take what I owe you, and then keep paying the workers.” He said and stepped away from the table. “Let me know when you need more.”
+
+“But...”
+
+“I'm going to be much too busy to keep track of it all.”
+
+“But...”
+
+“You know what? I think you're right.” Ren said. “We should build the Main House first.”
+
+Narhilda looked at him in surprise.
+
+“We should hire a secretary or something to help.” Ren said. “We'll also need a nice barracks for the guards while they're on duty, too.”
+
+“But...”
+
+“Yeah, sorry. I'm jumping ahead a bit.” Ren turned to Nathalia. “Nathalia, I'll see you at breakfast.”
+
+“But...”
+
+Ren left the kitchen, walked through the main room, and out the front door. He unlocked the gate, opened it, then stopped. “This first, I think.” Ren examined it and moved all the parts, and got the plans for it. He took out his blacksmith's hammer and repaired it, then looked down at the tiny drawbridge and scowled.
+
+“I really should have fixed this a long time ago.” Ren took out his mining pick and carefully followed the edge of the drawbridge, digging the end up. When he tried to lift it, however... it didn't move.
+
+“Damn.” Ren went back to the side by the gate and examined the hinges with his eyes and fingers. “Yeah, rusted solid.” He took out his blacksmith's hammer and concentrated on all the damage that he could see, then imagined the damage that he couldn't see.
+
+“Repair!” Ren said and the entire draw bridge glowed for several moments. When it was done, Ren easily lifted it into place and examined how everything worked. He got the plans for it as well, and then set it back down. It didn't sit well, now that the ground was uneven. Ren lifted it again and dug out enough room for stone bricks to be placed along the edge of the small moat. He put the drawbridge back down and it sat flush with the ground again.
+
+“That'll do for now.” Ren said. “I'll replace it soon.” He stepped back away from it and saw the front of the battlement walls. “Whoa.” Ren said and stared at the masterful work that he beheld. When he'd told Barnar to go all out, he figured a few things, here and there; but the entire wall was covered in filigree, leaves, swirls, figures dancing, columns, and even decorative arch supports under the edge of the battlement. In the middle of each section was Ren's Maker's Mark, which was now House Neram's Crest. Ren grinned and walked around the side to see it was done as well.
+
+“This looks great!” He said and ran to the other side to see it was a clean white wall, making it about halfway done. “Way to go, Barnar.”
+
+Ren ran up the road he'd made and saw the pile of silt was getting near the roof of the workshop, and it covered a good portion of the land beside it. There was also a huge pile of iron ore. Ren frowned.
+
+That's a lot more than three quarters of a ton of ore. Ren thought. That's 3 full tons, or my name isn't Ren. He filled a slot with iron ore chunks and walked around the workshop to look on the other side. When he got there, he saw about 3000 planks of lumber. Ren stored enough to nearly fill a slot, and went into the workshop. He checked to see that all of his stuff was there, and noticed a crate of diamond crystals was missing.
+
+Ren stored everything, looked over at Dorcot's desk, and saw where the missing crate was. Ren walked over to the desk and saw over 60 diamonds of all different cuts. They were on the shelves, in the open drawers, and crowded on the workbench's top. Ren pulled out some lumber and made a half-sized crate, then put all of the cut diamonds in it. He took out the crate he'd modified before and opened it to take out the few cut diamonds that were in there, and added them to the new crate. Ren stored the old crate and it stacked with the other crates he had, freeing up a slot and stored the medium crate of cut diamonds. Ren made another medium crate, and left it next to Dorcot's workbench. Ren noticed the long middle drawer was open as well, and looked inside. There were hundreds of small diamonds, worth 1 gold coin each.
+
+“Dorcot must have worked for 3 days straight.” Ren said and stored the diamonds. They filled 4 slots, making it 396 diamonds, that included the 22 he had before. “Damn, that's awesome work.” Ren said and grinned. “I owe him 336 gold so far.”
+
+Ren walked over to the huge stack of bricks that he'd left on the paving stones and squinted his eyes. “I'm going to need to angle it, I think.” He said. “But if I do that... I'll need a chute. No, two chutes. One big one for the length of the opening, and one for the other side.” He went to the forge and turned it on. He waited for a minute for it to get hot, then put in a few chunks of ore. When they melted, he threw in several more and skimmed off the impurities. Now that no one was around, Ren flung the end of the skimming tool out the 20 foot opening he'd left in the workshop's wall. The molten impurities spread out in the air and hit the gigantic pile of silt, then hissed as they cooled. Ren added more ore, and kept skimming and throwing the impurities into the silt. Ren stirred the molten metal and let it sit for a while.
+
+“Okay. Floor mold.” Ren said and took a pile of bricks and made the shape he wanted. It was just a long flat square, about 22 feet wide and 5 feet long, to cover the distance to where he needed it to go. “I could probably make it in sections, but where's the fun in that?” Ren smiled and checked the molten metal. “Almost time.” Ren ran back to the house and into the stable. Ren crept by Princess and knocked lightly on Ruck's cabinet. Ruck opened it and Ren motioned for him to climb on. Ruck did so, and Ren left the stable. Once outside, he ran back to the workshop and the forge.
+
+“I need your help pouring again, Ruck.” Ren said as Ruck climbed down and gave Ren an 'okay' gesture. Ruck climbed up the wall behind the forge and stepped across to stand on it behind the smelting apparatus. Ren nodded, and Ruck poured it out slowly, and Ren used the skimming tool to spread the molten metal over the whole mold. It had taken almost all of what had been smelted, but the mold was filled high enough and Ren told Ruck to stop. Ren went back to the smelter and slowly filled it with ore again.
+
+“Take a break, Ruck. I've got to build the biggest almost-forge ever.”
+
+Ruck lifted his hands in an 'I don't know' gesture and Ren chuckled.
+
+“Well, it doesn't have to be as hot as a forge, since I'm not smelting, but it has to be about 20 feet wide to hold enough to be worth the time using it.”
+
+Ruck made the same gesture again and Ren smiled.
+
+“You'll see.” Ren went over to the opening and stored all the remaining bricks. He then built a 21 foot long wedge-shaped ramp out of wood, to go from a foot from the opening he'd left in the wall (that was about 4 feet off the ground), to a spot 10 feet away (about 2 feet off the ground). It completely crossed the 10 foot paving stone road Ren had built the workshop over. Ren then modified his forge recipe, making it 20 and a half feet wide and 11 feet long, so the 20 foot opening on one side was facing the 20 foot opening in the wall, and the other side faced into the shop. He used up most of the stone bricks he had left to build the giant oven. It took a while to enchant, but Ren eventually finished and looked at the floor mold.
+
+“That looks cool enough.” Ren said and slid a brick out of the way and lifted the huge piece of steel. He piled a few bricks up as a makeshift anvil, and bent up a foot of steel on each side, so that one end faced out, and the other end fit inside the end of the oven facing the wall opening. He put it in place and nailed it to the wall, and braced the end by the oven with planks and nailed it in place there, too.
+
+“Whew. Okay, half done.” Ren went to the floor mold and adjusted it so that the sides tapered down from 22 feet wide on one side to only 4 feet wide on the other, and it was 1 foot long. “Ruck, ready to pour again?”
+
+Ruck gave a 'thumbs up' gesture and Ren smoothed out the molten metal into the floor mold.
+
+“That's got it. Thanks, Ruck.” Ren said and Ruck stopped pouring. “While we wait for that to cool, I better work on something else.” He took out his Portable Leatherworking Crafting Station and opened the Drying compartment. He took out the giant boar pelt and felt it. “Nice and dry.” Ren recalled the sewing pattern for his own cloak and repeated it exactly, right up until he got to the hood part. He stopped sewing and went to the smelter. He picked up the long thin mold and filled it, then waited for a minute and opened it. The molten metal was just starting to cool and he took out his hammer.
+
+“I really should have bought an anvil.” Ren said, then slapped himself in the forehead. “Dammit, I do have an anvil. The one I used to defeat Tegwen.” He opened his inventory and searched. “Where is... ah, there it is.” Ren said and pulled out the anvil and stand. He'd missed it because while it was attached to the stand, it became harder to see in the single inventory slot. After a quite a few hammer blows, Ren finished what he wanted and held up a metal arch.
+
+“Nice.” Ren said and took out a wind stone to try and help it cool. “Not good enough.” He looked in his inventory and smiled. He made a small crate without a top, poured in 2 of the 6 oil flasks he had left, and dipped the metal arch into it. It sizzled for a moment an Ren took it out. “That's better.” He took it over to the giant boar cloak and set it inside the hood. “Just 2 more things.”
+
+He went back to the forge and used the stirring tool to pick up a good dollop of molten metal, went back to the cloak and put a drop on the underside of the boar's tusk, held it against the metal band, stuck the hot end of the tool on the other side of the band to partially melt the metal, stored the tool, and then hammered 3 nails through the metal and into the horn. Ren went back to the forge and got another dollop of molten metal and used it on the nail heads. He spread it out and used the wind stone to cool it. He repeated the process for the tusk on the other side and stepped back to let it set.
+
+After about 10 minutes, Ren checked the floor mold and saw it was done and popped it out. He went to the anvil and bent a foot up on the short ends of the metal piece, so it would fit in the opening on this side of the oven and then funnel down into a 2 foot opening. Ren secured it with nails by the oven, then built a small brace for the 2 foot wide end of the chute to rest on. He nailed the chute to the brace, then nailed the brace to the floor.
+
+“Well! That's done.” Ren said and looked at it. “It's quite the odd looking thing.”
+
+“An angled forge?” Teepo said. “Yeah, that's really odd.”
+
+Ren chuckled. “There's a method to my madness.”
+
+“Then impress me, oh great maniac.” Teepo chittered in laughter.
+
+“Just watch.” Ren said and concentrated on the oven. “Activate.”
+
+The whole 20 foot wide and 11 foot long oven lit and hit Ren with a blast of heat.
+
+“Holy crap!” Ren said and stepped away to rub his face.
+
+“You definitely showed me your madness there.” Teepo chittered in delight.
+
+Ren laughed and took out some cloth and sewed up a large sack, about 3 feet long and 2 feet wide. He set it on the floor, placed the open end under the chute, and went outside to the silt pile. Ren took out his shovel and shovelled a huge pile onto the chute on this side. It slid down the smooth metal easily and into the oven. Ren kept going along the whole length of the 20 foot chute and the silt slid easily into the oven.
+
+“The silt has already been crushed to get any traces of iron ore out of it” Ren said and stopped shovelling. “It really is mine waste, but it's full of the stuff that's perfect for making something I found the recipe for.” Ren said and went back inside the workshop. He stayed back from the opening and watched as the silt slowly rolled down the incline and was baked and dried. The resulting powder rolled down the chute at the end and into the sack. It was almost full and Ren made another sack to replace it, then made 2 more as the next one filled up, too.
+
+“What recipe was that?”
+
+“I checked to make sure the recipe for mortar was the same, and it was.” Ren sewed up the top of the first sack and replaced the second with an empty. “The next step up from mortar...” Ren said and sewed up the top of the second sack.
+
+“...was cement.”

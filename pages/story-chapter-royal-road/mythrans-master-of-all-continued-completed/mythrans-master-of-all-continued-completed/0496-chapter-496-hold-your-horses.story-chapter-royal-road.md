@@ -1,0 +1,301 @@
+---
+id: ea293a73-314f-522f-b14c-cc723011fc56
+page-type-slug: story-chapter-royal-road
+title: "Chapter 496 - Hold Your Horses"
+slug: 0496-chapter-496-hold-your-horses
+partOf: mythrans-master-of-all-continued-completed
+position: 496
+ownLength: 3326
+unit: words
+publishedAt: 2018-01-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/190705/chapter-496-hold-your-horses"
+royalRoadId: "190705"
+---
+
+Ren and Princess arrived back at the county a few minutes later and slowed down to land in front of the Main House. Ren was surprised to see several horses and carts travelling up and down the road.
+
+“Oh, damn.” Ren said. “I completely missed the horses arriving.” He said and jumped off of Princess and opened up the cart to let Xuunah, Officer Holly, and Artemis out.
+
+“They arrived last week.” Xuunah said and Ren helped her out of the cart. “I think... yes, there's one of the townspeople driving already.” She said and pointed. Ren turned to see a man as he drove a horse and cart. He was wearing cheap-looking clothing, and beside him was an exquisitely dressed woman wearing the same riding outfit professionals wear. She also had a stern look on her face as she watched the man handle the cart.
+
+“That's great!” Ren said and turned around to help Officer Holly out of the cart. She looked around and saw that it was like a parade.
+
+“I guess the first practical lesson is in full swing.” Officer Holly said and Xuunah nodded as Ren helped Artemis out of the cart. He detached it from Princess and stored it, then counted the carts.
+
+“How big was the first class?” Ren asked. He had counted 20 carts so far, and the stream of them kept going.
+
+“I think it was 45.” Officer Holly said. “Once the training school started advertising free lessons...”
+
+Ren chuckled. “Was the rush very big?”
+
+“They filled 3 classes on the first day.” Xuunah said.
+
+Ren sighed. “I guess I've been missing a lot while I've been busy.”
+
+“It's hard to notice things if you aren't here.” Officer Holly said.
+
+Ren nodded. “I have to pop inside the Main House and see Patty for a minute.” He said and went inside. The three women didn't go with him, and he saw the Mayor's door was open. “Hi, Patty.”
+
+“Ah!” Patty exclaimed and Ren felt how startled she was. “Who are you, and why are you using my first name so casually?!?”
+
+“Hm?” Ren looked down at himself and laughed as he dismissed the Disguise Self spell.
+
+“Ren!” Patty shook her head. “Don't scare me like that.”
+
+“I'm sorry, Patty.” Ren said. “I forgot I still had a disguise on.”
+
+“What was that strange outfit?” Patty asked.
+
+“It was just something Adventurers wear sometimes.” Ren said. “I just saw the horses and carts on the street and wondered if Maude was in to see you.”
+
+“She was, and she was a bit upset that you weren't here when she delivered the horses.”
+
+Ren nodded. “I figured she would be.” He said. “If I'd known, I would have stopped in to see her in the capital city.”
+
+Patty chuckled. “It's a good thing you didn't, considering she's still here.”
+
+“Wait, what?”
+
+“She runs the training school at the stable.” Patty said.
+
+“You're kidding!”
+
+“No.” Patty said. “She said something about not entrusting future master horsemen to her less qualified students.”
+
+“From the first impression I had of her, that does sound like something she would say.” Ren smiled. “Did she ask for payment?”
+
+“She did, and I paid the price without any negotiations.” Patty said. “Those are the best horses I have ever seen in my life. When I checked the Mayor menu and saw what a normal horse would cost to buy...” She shook her head. “She practically gave them to us.”
+
+“I'll go and pay my respects to her.” Ren said and turned to the door. “See you later.”
+
+“Less and less it seems.” Patty mumbled under her breath as she looked at the parchment papers on her desk, and Ren felt her disappointment. He stopped and turned back to face her.
+
+“Patty, I'm sorry I haven't been around.” Ren said, and she looked up at him.
+
+“You heard that?” Patty asked, and he nodded. “I need to learn how to keep my mouth shut.”
+
+Ren smiled. “You know I don't have room in my life for another girlfriend.”
+
+“Yes, and I'm sorry if I'm bothering you.” Patty said.
+
+“Having a woman desire me is not a bother.” Ren said. “All I can say is thank you; but, I can't thank you properly.”
+
+Patty smiled. “How would you thank me properly if saying thank you isn't enough?”
+
+Ren opened his mouth to tell her, then changed his mind. “No, I can't tease you like that.”
+
+“If you don't tell me, I'm going to have my imagination run wild.” Patty said and kept smiling.
+
+“Then let it go free.” Ren said and chuckled, gave her a wave, and left her office.
+
+“You should set your spawn point.” Teepo reminded him.
+
+Ren ran up the stairs and chose the Main House as his spawn point. He went back downstairs and outside, and saw that Princess still looked like a horse, so he dismissed the Illusion spell.
+
+“Princess, I'll need you again in a little while, after Tee-one and I make a few more things.” Ren said.
+
+“Yes, My Lord.” Princess responded and went into her house to lay down.
+
+Ren looked at the three women that had waited there for him. “I have to go to the stable down the road for a couple of minutes.”
+
+Artemis, Xuunah, and Officer Holly followed him down the road and into the stable. Ren checked the classroom first and didn't see her, then walked over to the manager's office. Maude was inside, and he knocked on the door.
+
+“Enter.” Maude said without looking up from her paperwork.
+
+“Please pardon my intrusion.” Ren said. “I only came to thank you...”
+
+“Yes, yes. You're welcome.” Maude said and still didn't look up. “I'm glad you've learned how to handle a horse properly.”
+
+She thinks I'm a student. Ren thought and was about to correct her, when Teepo spoke.
+
+“Your Aura isn't active.” Teepo said. “Turn it back on and see what happens.”
+
+Ren smiled as he felt Teepo fully expected her to jump out of her chair. Unable to deny that it would be a sight if she did, Ren made a Connection between all of his Auras except for Heat Sense, Spider, Contact and Hatred, then activated it.
+
+Ren's Aura popped into existence at 600 feet and Maude gasped as it hit her. Officer Holly gasped as well, but for a different reason. Because her Holy Armor automatically gave her Auras for Reassurance, Command, Camaraderie, Sense Undead, and Sense Void, all of which Ren had, her Auras merged with his and let her feel his emotions directly.
+
+“REN!” Maude exclaimed as she jumped up out of her chair at the familiar and different Aura she had felt when Ren had destroyed the city gate at her ranch. Teepo chittered in laughter at the reaction, as Ren figured he would, and Officer Holly grabbed onto Xuunah for support. She leaned on her to catch her breath as Xuunah activated her own Reassurance Aura because she wanted to help; but, she didn't gasp as her Aura merged with Ren's because she already felt his feelings and it wasn't a surprise at all for her. Artemis wasn't affected, either.
+
+“M'lady, it's nice to see you again.” Ren said, and he felt her intense scrutiny. “Yes, I'm wearing new armor, and it's not just for protection.”
+
+“I... I can see that.” Maude said with wide eyes as she saw the stats for the armor. “Where in the world did you get indestructible armor?”
+
+“I made it.” Ren said, and she gasped again.
+
+“H-how?”
+
+“You could say that it was a complicated matter, and it took a while to complete.” Ren said. “Needless to say, I can't make another one like it.”
+
+“That's not a surprise.” Maude said and quickly regained her composure. “It's nice to see you again, too.”
+
+“I'm sorry I wasn't here to receive your high quality horses when you delivered them.”
+
+“As was I.” Maude said. “Then I saw this stable.” She smiled. “What a wonderful sight to behold.”
+
+Ren smiled back. “Tee-one and I worked hard to accommodate any need the horses and the workers might have.” He said. “I'm glad it met your approval.”
+
+“I didn't doubt at all that you would have built a suitable environment for my progeny.” Maude said, saw the surprise on Ren's face, and laughed. “I didn't mean that they are my actual children, only that if it wasn't for my careful breeding program, none of them would exist.”
+
+“Ah, I see.” Ren said. “I appreciate your dedication to your profession.”
+
+“Thank you.”
+
+“When I asked you to send along an instructor, I never thought you would send yourself.”
+
+Maude nodded. “Like I told the mayor of this budding city, I couldn't in good conscience have my horses handled unless people were properly trained.”
+
+“I know you probably don't need the money; but, did you accept the job officially?” Ren asked.
+
+“I did, and I turn the money right over to the stable hands to make the horses stay here that much better.”
+
+“I bet they like that.” Ren said, and she looked at him with a question on her face.
+
+“Do you mean the horses or the stable hands?”
+
+“Both.” Ren said, and she chuckled.
+
+“Yes, they both like it.”
+
+“How long are you planning to stay?” Ren asked.
+
+“I believe you said it was a long term position if the teacher wanted it to be.” Maude said. “Since there are so many people that want to learn here, I'll stay until I am no longer needed.”
+
+“What about your ranch in the capital?”
+
+“It's in good hands, and the training classes there are so small that they don't require my expertise.” She said.
+
+“I'm sorry to hear that, and I'm delighted that you want to stay and help.” Ren said. “Thank you.”
+
+Maude waved his thanks away. “It's the least I can do to make it up to you.”
+
+“I heard you practically gave us the horses.” Ren said, and she nodded.
+
+“It didn't even cover the cost of feeding them growing up.”
+
+“Then why...”
+
+“It's an apology for my behavior.” Maude said.
+
+Ren walked over to her and she discovered that she was over a foot taller and looked down at him. “I can't accept that.” He said. “Even animals that are to be slaughtered have to have their food paid for.”
+
+“S-s-slaughtered?” Maude's face drained of all color and she wavered from side to side. Ren quickly took two steps up into the air and caught her under her armpits before she collapsed.
+
+“I didn't mean the horses!” Ren nearly shouted into her face. “I bought pigs for their meat, and I had to pay for their feed until they are grown!” He said, and felt her relax.
+
+“Good god, you frightened me.” Maude said. “I... I imagined that... you were slaughtering horses...”
+
+“I would never do that.” Ren said. “I know they are smarter than the average farm animal.”
+
+Maude nodded. “They are.” She said and took a deep breath, then stood up solidly on her feet again. “Thank you for catching me before I fell.”
+
+“It was my fault.” Ren said and let her go. “I caused the misunderstanding by not phrasing my words properly.”
+
+Maude didn't say anything for a moment, then glanced down. “You have very strong hands.”
+
+“I do.” Ren said and smiled. “I can crush stone with them.”
+
+Maude shivered a little, and he felt a trace of fear from her mixed with a trace of pleasure. “It took the blacksmiths close to a week to make a new gate for the city to replace the one you destroyed.” She said, and glanced at his face to see his reaction. She was disappointed to not get one.
+
+“I think my expectations are skewed.” Ren said. “I could have forged one by myself in about a day, or used a spell to make one in a few minutes.”
+
+“A... a few minutes?!?”
+
+“Yeah, the Iron Wall spell can be really useful if you're careful with how you shape it.” Ren said. “The gates to the county are Iron Wall spells.”
+
+“How?” Maude asked. “They're on hinges!”
+
+“Those I had to forge, because I don't know how to do that with magic.” Ren said. “Sometimes the old fashioned way is the only way.”
+
+Maude nodded. “It's the same with training horses...” She said, and then mumbled under her breath. “...and people.”
+
+Ren smiled. “Thank you for coming here to my little county, and I hope you enjoy your stay here.”
+
+“I already am.” Maude said. “That bakery is something else.”
+
+Ren chuckled. “I assume you've tried the fried pieces of dough.”
+
+“I think everyone has.” Maude said and chuckled herself. “If I didn't know any better, I'd say they don't use scrap dough anymore, and make up batches specifically for it.”
+
+“I don't doubt it.” Ren said as he took two steps down to the floor and took her hand. “M'lady, it was a pleasure seeing you again.” He said and bent over the hand and kissed the back of it.
+
+“I don't normally allow that sort of pompous behavior in my presence.” Maude said, and Ren looked up at her. “Make sure to remember that for the next time we meet.”
+
+Ren smiled at the subtle hint and gave her hand another kiss before he let it go. “Yes, M'lady. I'll remember.”
+
+“Until then, My Lord.” Maude said and bowed her head slightly, and Ren took the social cue to retreat gracefully. He took out a pile of platinum coins and placed them on her desk, then ushered Xuunah, Officer Holly, and Artemis out of the office and shut the door behind them.
+
+“I'm almost frozen by the cold shoulder she gave us.” Officer Holly said, and Xuunah laughed.
+
+“I think it was more that we didn't exist while she had Ren in the room.” Artemis said.
+
+“Or the clothes you're wearing.” Ren said as they left the stables. “I think they offended her on a deep and personal level.”
+
+“Oh, they did.” Artemis said. “It hurt her eyes whenever she caught a glance at us.”
+
+“Seeing into my closet would probably kill her.” Officer Holly laughed. “It's full of jeans and t-shirts just like these!”
+
+Ren, Artemis, and Xuunah joined in on the laughter, and the group walked back up to the warehouse and the large forge inside.
+
+“Visiting the Library took a bit longer than you thought.” Tee-one joked, and Ren nodded.
+
+“A couple of detours, extra travel time, disguises, and making a carriage.” Ren said. “All the little things add up.”
+
+“They do.” Tee-one said. “Are we making the human city round, too?”
+
+Ren shook his head. “No, we're going perfectly square and we're putting a castle right in the center of it.”
+
+“Nice.” Tee-one said. “What about the buildings?”
+
+“Basic grid pattern, divided up into sections, with plenty of space in and around for streets, and new construction and businesses.” Ren smiled. “You name it, I want it.”
+
+“Like a church?” Tee-one said,
+
+Ren reached up to smack himself in the forehead from force of habit, and everyone felt how much he felt like an idiot.
+
+“NOOO!” Teepo, Tee-one, and Artemis yelled at the same time, and Artemis darted forward to put her arm in the way. She was the only one close enough to do it and succeeded in blocking the shot. The heel of Ren's palm hit her arm, sunk into the metal armor, and crushed it into her arm.
+
+“ARGH!” Artemis hollered, but she didn't move her arm out of the way. It had happened in an instant, and horror filled Ren as he realized what he had done.
+
+“I'm so sorry, Artemis!” Ren said and looked at her arm. “I forgot I shouldn't smack myself in the forehead like that anymore.” He said and saw her arm as the damage started to fill out, thanks to her boosted regeneration. “Please forgive me for being so stupid.”
+
+“I'm... glad that... I stopped you in time.” Artemis said, and tried to deal with the pain. “Imagine if that had been your forehead instead of a metal arm.”
+
+Ren closed his eyes and absorbed her feelings of pain with his Emotion Siphon ability, and rested his head on the back of her hand. He activated his Restoring Hands ability to pour good feelings into her and help heal her, then he opened his eyes to watch her regenerate.
+
+“Thank you so much for sparing me from both the damage and the embarrassment.” Ren said.
+
+Artemis could feel how sorry he was that she had been hurt because of such a stupid mistake. “You're welcome.” She said. “Although, I thought I would be protecting you from external threats, not from yourself.”
+
+Ren smiled and didn't say anything until her arm was reformed and in the proper shape. “I didn't realize that myself.” He said and ran his hand over her healed arm and caressed the metal. “Can you feel that?”
+
+“I can, although it's a duller sensation than if you touched my skin.” Artemis said. “The armor is a part of me, and it can be healed and regenerated.”
+
+“I'm glad for that.” Ren said, gave her hand a very slight squeeze, and let her hand go. He walked over to Tee-one so they could get to work. “I assume you've got the supplies we need for the model.”
+
+“Yes. I've got glass for the windows; wood for the floors, roofs, and accents; and stone bricks and paving stones for the roads, retaining walls, and facades on the administration buildings.” Tee-one said. “Not to mention the steel bricks for the main structures, outer walls, and central tower.”
+
+“That's great.” Ren said. “We just have to add the church to the design.”
+
+“A church for the High Elves?” Xuunah asked, and Ren nodded. “They won't like that.”
+
+“It's a church for the 9 elements.” Ren said. “I've got one here down the road, and one in the Dwarven Kingdom.”
+
+“I would suggest you leave it out.” Xuunah said. “I've spent some time as a High Elf, and they do not take kindly to the paganism of the masses.”
+
+“I don't understand.” Ren said. “I thought the elements, and their deities of course, were all there is.”
+
+“Currently, that is a strong belief.” Xuunah said. “Albeit wrong.”
+
+“Tee-one, go ahead and start making the plans for the human city model, with a 10 foot by 10 foot area.” Ren said and gave him a copy of all the plans for the buildings he had. “Make the outside wall angled just like we did for the High Elf round version.”
+
+“That's going to make the wall look like a square jewel.” Tee-one commented.
+
+“Seems appropriate, doesn't it?” Ren asked, and Tee-one nodded. “I'm taking these lovely ladies over to the bakery to get some fried dough, and I'm going to ask Xuunah to fill me in on Vasalor, and why the elements aren't the highest rung in the worshipping ladder.”
+
+“Can you take the time to listen to this with everything else that's going on?” Xuunah asked.
+
+Ren took out the All-Seeing Mirror and asked it for the biggest ghoul gathering. It showed a small nest of about 20 ghouls, and they were huddled together for some reason.
+
+“Show me just outside the nest, please.” Ren asked the mirror, and the view shifted to show a troop of 40 High Elven Swordsman as they marched around. “Thank you.” He said and stored the All-Seeing Mirror. “It looks like I have a quick errand to run while you wait in the bakery.”
+
+Xuunah nodded, then Ren and Artemis ran over to Princess' house to get her help again. Xuunah led Officer Holly next door to the bakery to get some fried dough pieces while they waited for Ren, so she could tell him a story. Or rather, the story.

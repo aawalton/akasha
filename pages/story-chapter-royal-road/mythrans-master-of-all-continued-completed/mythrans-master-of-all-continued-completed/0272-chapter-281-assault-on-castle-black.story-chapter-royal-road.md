@@ -1,0 +1,255 @@
+---
+id: e1ec25cf-07f2-5c01-829f-e51041a6e9de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 281 - Assault on Castle Black"
+slug: 0272-chapter-281-assault-on-castle-black
+partOf: mythrans-master-of-all-continued-completed
+position: 272
+ownLength: 3902
+unit: words
+publishedAt: 2017-06-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142510/chapter-281-assault-on-castle-black"
+royalRoadId: "142510"
+---
+
+Ren and Princess slowed down as they approached the first barrier to their access of the compound. The dwarf had really done his homework and had checked everything that was needed to successfully enter undetected. Ren used Enchanted Eyes and saw several glowing objects; trees, rocks, and a few scraps of metal. He activated Decipher and Read Rune, then looked at the tree closest to him. On it was a Fear rune, a Hidden rune, and one he didn't know. Rather than trying to avoid them, Ren concentrated on them and thought Deactivate. The objects stopped glowing and he climbed down from Princess' saddle, then approached the closest tree. He reached a hand out and used Dismantle Glyph on the enchantment.
+
+Notice!
+
+You have learned a new Dwarf rune: Detection. This rune, when enchanted on two different objects at the same time, makes one item the main object and the other becomes the sender. When something passes within the area of effect of 10 feet of the sender, the main object will glow.
+
+If several Detection runes are placed within that same area of effect, they connect and those objects become senders themselves. If any of the areas of effect has something pass through them, the original object enchanted will glow.
+
+Sweet! Ren thought, then looked at the other objects that had glowed. He was tempted to dismantle them as well; but he needed to get to the castle quickly, so he moved on. I'm glad I was more than 10 feet away when I saw them, though.
+
+Princess followed closely behind, and was quite nimble on her hooves in the thick underbrush and close trees. Ren made his way through the various traps and early warning systems that the dwarf had warned him about, and made it to the edge of the forest. In front of him was a large wide open area; but, it hadn't started out that way. The trees were hastily cut down and left where they fell, large rocks were scattered haphazardly over the terrain, and several craters were interspersed among them.
+
+If I didn't know any better, I'd say they were making a field of fire for catapults. Ren thought.
+
+Princess huffed behind him. She knew beyond any doubt that she could cross the space long before anyone could shoot her.
+
+Teepo? Are you up for this? Ren thought.
+
+“Only if you take me out of this body.” Teepo said. “Someone is bound to see me if I stay like this.”
+
+Ren nodded and slipped off his part of the Ring of Recall, then summoned Teepo with the Beetle Crown ring. Teepo appeared at his feet, then flew out over the cleared area. Ren stored Teepo's metal body and waited.
+
+“You're right, Ren.” Teepo said after he'd disappeared over the wall. “There's several catapults inside, and they're aimed at the surroundings.” He chittered in laughter. “As much as someone can aim a catapult, that is.”
+
+Ren smiled and took out the Staff of Earth Moving, and concentrated on making a 4 foot wide path to the side of the castle. Once again, it only took a minute, because he wasn't using it to move dirt out of the way; he was just shifting the tree stumps and debris slightly to the side. He stored the staff and took out the wand with Obscuring Mist in it.
+
+Let's get this party started. Ren thought, and shot the top of the right tower. A circle of mist appeared on top of it, and a few seconds later, the first bolt from the Automatic Ballista, 6 feet long and enchanted with Fire and Wind, sailed through the air and smashed through the top window of the left tower. Flames burst out the now open window, and a scream was heard. Thankfully, it was from someone in the courtyard, and they yelled 'Fire!' right afterwards.
+
+Nice shot. Ren thought, then waited while the next 4 shots found suitable targets. With both Wind and Fire enchanted on them, flames burst out of anything that they hit. Some were only a brief flash, mainly because the glyphs were damaged from the impact; but, even that was enough to light several things on fire.
+
+Teepo? Ren thought to his friend. What's the position of the guards on this side?
+
+“Two of them left to go look at the commotion, but one is staying to keep watch.” Teepo said. “He's standing right here behind the battlement.”
+
+Ren looked up at the top of the 50 foot wall, and saw Teepo hovering there. I see you, buddy. He thought, and climbed up onto Princess' back. He used the Obscuring Mist wand on the spot Teepo hovered over, and Princess took off like a shot. They were at the wall only a few seconds later, thanks to Ren making her a smooth path to run through, and they came to a stop. Ren took out the Staff of Earth Moving, and touched the wall with it.
+
+A passage appeared and went 10 feet into the wall, but that wasn't what Ren wanted right then. He thought about the guard at the top of the wall, and concentrated on making a passage up to him. A 50 foot long opening, 7 feet by 6 feet wide appeared, and the guard yelled as he fell into it. Ren was tempted to dismiss the spell and shoot the guard out the end of the passage, but he didn't want to take the chance the body would be flung out to where someone else would see it.
+
+The guard hit the ground with a crunching thud, and Ren dismissed the spell. The 50 foot passage the guard had fallen through disappeared, and so did the 10 foot one he started with. The guard's body was shoved out of the wall and landed several feet away. Ren climbed down from the saddle and looted the body to get rid of the evidence. He found several gold, a dagger, and a helm. He stored it and went back to the wall.
+
+“Princess, are you waiting outside or inside?” Ren whispered to her.
+
+Inside, My Lord. Princess thought to him. If you need my help, I'll be there.
+
+Ren nodded and used the staff to open a passage through the wall. It was about 25 feet long, and Ren and Princess walked inside.
+
+I'm tempted to leave the tunnel, but if anyone notices it, they'll know someone is already inside. Ren thought, and dismissed the spell.
+
+Be safe. Princess thought to him, and gave his face a lick.
+
+“Thanks.” Ren said, and activated sneak. He led Princess over to the corner of the wall to hide in the shadows, and had her kneel down to lower her visibility. He tossed a piece of cloth over her, and left a spot for her to see out of, then he moved off to the closest building. Teepo flew down to join him, and scouted ahead by flying in through a window.
+
+“You're clear.” Teepo said, and Ren touched the building with the staff. An opening appeared, and he walked inside then dismissed the spell. Ren closed his eyes and remembered the layout of the compound, and knew where he had to go. He had picked this building because it was attached to several others. Using the wands he had at his disposal at the time, he could make his way to the central staircase and go down into the dungeon. With his new staff, however; those plans were a little outdated.
+
+Ren opened his eyes and looked at the floor. He never doubted that it would work, because that would have caused it to fail immediately. He concentrated on the ground and believed it was a wall that blocked him from rescuing the girl. He knew where the wall of the cell was, and just imagined making a passage to that wall. The dirt between the two walls was irrelevant to him, and he touched the staff to the floor.
+
+The passage opened up and Ren walked inside. It was at a 20 degree angle downwards, so it was kind of steep and would be a little difficult to come back up; but at the moment, that didn't matter. He would rescue this girl and save her from her kidnappers.
+
+*
+
+“Someone's attacking the castle!” A guard said as he ran into the main meeting room.
+
+“Armor up!” The head of the Thieves Guild said. “Assemble in the courtyard!” He turned to the dwarf on his right. “Load the catapults and get ready to fire.”
+
+“Sir!” The dwarf said and ran from the room.
+
+“Do we know who it is?” The head of the Thieves Guild asked the guard. “Is it a rival Guild?”
+
+“I don't know.” The guard said. “Whoever it is started several fires, and they've killed several men so far.”
+
+“WHAT?!?” The head of the Thieves Guild yelled. “How could they kill us, and we don't know who they are?!?”
+
+The guard leaned out into the hallway. “Bring it in!”
+
+Two more dwarves came into the room, and they carried a 6 foot long crossbow bolt. The head of it was smashed in.
+
+“The others burned up in the fires they started, but this one bounced off the left tower wall and fell to the ground.”
+
+The head of the Thieves Guild looked at it. Who in their right mind would make a crossbow big enough to hold this monstrosity?
+
+“How did we not see this attack coming?” He asked. “Something this big had to be fired from a device that much larger!” He turned to the scouts. “Tell me why!”
+
+“Nothing's shown up on the defences we've set up, sir.” One of them said. “No glow, no yell, and no sprung traps.”
+
+“By the gods, get your men out there and tell me what's happening!”
+
+“Sir!” All of the scouts stood up at the same time, and ran from the room. The head of the Thieves Guild smiled, because they were more afraid of him than any possible attackers.
+
+*
+
+Ren walked carefully down the passage until he saw the end of it. Teepo.
+
+“On it!” Teepo flew ahead and disappeared from view. “There's a teenage girl here, and she's holding a rock.” He said. “She'll try to bonk you on the head, I think.”
+
+Ren chuckled, and the echoed sound carried on down the passage.
+
+“That scared her.” Teepo said. “She's shaking pretty badly.”
+
+“I'm sorry.” Ren said. It carried down the passage just as well as his laugh did. He walked closer and concentrated on his Camaraderie Aura.
+
+“She stopped shaking.” Teepo said. “Hold your hands up in surrender.”
+
+Ren held only one hand up, because he needed to keep a hold of the staff. He saw a girl's face peek around the mouth of the opening, and saw it disappear just as quickly.
+
+“I'm here to rescue you.” Ren said. “Your father is distracting everyone for me while I get you back for him.”
+
+The girl poked her head around the corner again and looked at Ren. “My dad sent you?” She asked, her voice full of disbelief.
+
+“Well, I threatened to kick him out of the Garrison, he ran, and I discovered his plan to rescue you.” Ren said. “I kind of took over after that.”
+
+The girl dropped the rock she had in her hands, and it rolled away. “My... my dad... he isn't going to leave me here forever?”
+
+“It's been killing him having you away for so long.” Ren said. “He desperately wants you back.”
+
+“But... but the head of the guild said...”
+
+“What did he say?”
+
+“The head of the Thieves Guild said that dad didn't want me anymore, and was paying them to keep me.”
+
+Ren shook his head. “It was ransom, plain and simple. They told him that if he didn't pay, they would hurt you.” He said. “Have they hurt you?”
+
+The teenage girl stepped out in front of the passage, and Ren walked towards her slowly.
+
+“No, they pretty much left me alone, except for giving me one meal a day.” She said. “I'm kind of small, so I shared my food with some of the other girls.”
+
+“O-other girls?” Ren asked, surprised. “What other girls?”
+
+“The other girls I met when I came here.” The teenage girl said. “They let us play together for an hour each day.”
+
+“Checking now!” Teepo said and flew into the next room. “She's right. There's 6 other cells in here, and they all have a girl in them.” He said. “Different ages and sizes.”
+
+“How many girls are there?” Ren asked her as he stepped out of the passage.
+
+“Including me?” The girl asked, and Ren nodded slightly. “Seven.”
+
+“That's all of them, then.” Teepo said. “I can't tell if they can hear you or not, though.”
+
+What's the time left on the passage? Ren asked his friend.
+
+“About 3 minutes.” Teepo said.
+
+Plenty of time. Ren thought, and touched the wall of the cell. A passage opened and the girl inside the next cell gave a little shriek of surprise.
+
+“Hi!” The teenage girl Ren thought was the only one he needed to rescue, said to her friend. “We're escaping!”
+
+“Yay!” The new girl said and hugged her friend. Ren walked along to each wall of the cells and opened passages to all of them. Each greeting was just like the last, except there were more shrieks and hugging each time.
+
+“Girls, let's go back to the first cell and get in the passage.” Ren said. “It's going to be a fun ride.”
+
+“YAY!” All the girls yelled and ran for the first cell. Ren dismissed the passages he'd just opened and Teepo landed on his shoulder.
+
+“One minute.” Teepo said.
+
+“Okay girls! Hold onto me and each other!” Ren said as he stepped into the passage a few feet, and looked down at the youngest one. He picked her up and she clung to his neck tightly. “Ready!” He said. “Steady!” The passage started to close behind them. “Go!”
+
+The passage collapsed from the end they were at, then an invisible force picked them up and propelled them forward at a good speed.
+
+“Wheee!!!” All of the girls yelled as they flew through the air. Ren took out a Level 2 Web wand and prepared to fire when they were close to the exit. It came up fast, and he shot several spells into the room he had started from, then he and the girls were expelled from the passage and flew into the soft webbing.
+
+“Ha ha ha!” All the girls laughed.
+
+“That was fun!”
+
+“I wanna do that again.”
+
+“Again! Again!” The youngest one said.
+
+“Maybe later.” Ren said and put the little girl down. “Once we get out of here.” Teepo, check outside.
+
+Teepo flew out of the building and looked around. “All clear.”
+
+“Now, you have to be quiet.” Ren said to them. “The thieves aren't going to like that I'm stealing you back from them.”
+
+Several of the older girls laughed, and Ren touched the staff to the wall. A passage opened up, and he waved them though.
+
+“Go over to the wall there.” Ren said and pointed to where he had come in. “Princess will protect you.”
+
+“A princess!” The youngest girl exclaimed. “Where?” She ran out ahead of the other girls to stand by the wall. “Where's the princess?”
+
+Princess flipped her head, and the horns hooked the cloth that covered her. She threw it off and revealed herself. Her golden armor gleamed in the fading light, and all of the girls gasped as she trotted over to them.
+
+“She's beautiful!”
+
+“By the gods!”
+
+“Your Highness.” The youngest girl said, and Princess nodded to her. The girl giggled, and Princess brayed softly. Ren took out the small padded cart, and attached it to Princess. He helped the girls climb into the back, but there wasn't enough room for all of them to fit. Ren picked the oldest girl, because she took up the most room, and asked her to get out of the cart. She climbed out, and it made just enough room for the others to fit in. Ren looked at the girl, and saw her face start to crumple. He quickly gave her a hug.
+
+“I'm not leaving you behind.” Ren said, and she looked up at him with wide eyes. She was about the same height as Nathalia at 4 foot even. “You get to ride in the saddle.”
+
+The girl's face lit up and she beamed a smile at him, and Ren helped her climb up onto Princess' back.
+
+“Ren!” Teepo said. “There's a group of dwarves coming this way!”
+
+Ren touched the staff to the wall, and concentrated on making a passage all the way through. It opened up, and the dwarf in front came around the corner.
+
+“The prisoners are escaping!” He said, and drew his sword. Two dwarves behind him loaded crossbows.
+
+“Go!” Ren said to Princess.
+
+I won't abandon yo- Her thought was cut off as Ren slapped her backside and she started to run on instinct.
+
+“You're not abandoning me, you're saving them!” Ren said. “Take them to her father!” He closed the passage and two crossbow bolts bounced off of the stone where Princess had just been. Ren snarled and turned to face the enemy.
+
+*
+
+“Send them out!” The head of the Thieves Guild said once they knew the direction the shots were coming from, and the main gate opened as the drawbridge lowered. The troops marched out through the gate quickly, and then all hell broke loose. Bolts rained down on the poor souls and tore the formation apart.
+
+“How many of them do they have?!?” The head of the Thieves Guild asked as 10 bolts hit his men, then 10 more, then 10 more. “They can't reload a single machine that big so quickly!”
+
+*
+
+The dwarf that fired the Automatic Ballista was having the time of his life. He'd never seen so much death and destruction caused by a single weapon before, and the Influence he was gaining was nothing to laugh at. He thought about Ren, and spoke.
+
+“I'm almost out of ammo.” The dwarf whispered. “I see your mount. Abandoning position. Thank you for rescuing my daughter.”
+
+There was no response, and the dwarf didn't really expect one. He knew Ren was busy.
+
+*
+
+Ren had equipped his hammerpick and swung at the dwarves that ran at him. They had never seen such a weapon before, and it made them pause. It gave Ren the time he needed to equip his armor and shield. He turned it towards the group and activated the Illumination enchantment. It blinded the 3 dwarves in front, but the others flipped up hoods and it covered their eyes.
+
+Dammit! Ren thought, then used an underhand swing to smash one of the dwarves in the gut with the hammerpick. It crushed the armor on the dwarf, and then the armor shattered from the shock wave. The dwarf was thrown into the air several feet and landed in a heap behind the group. Unfortunately, this didn't deter the other dwarves one bit. They charged in and Ren fought for his life.
+
+Unlike television shows and movies, and despite the dwarf Honor Code for fighting one on one, the 4 dwarves in front swung their swords at Ren at the same time. Ren blocked three of them. One with the shield and two with the hammerpick; but, the last came in too low for him to deflect. The blade jammed up towards his abdomen, right under the shield, and Ren grunted as the sword hit the bottom of his chest plate and left a small dent. Thankfully, the sword was only short and the dwarf hadn't stepped in to follow through with his full strength, so Ren only took minor damage.
+
+Forgive me, Earth! Ren thought, hefted the hammerpick over his head before the dwarves could swing their swords at him again, and slammed the hammer end of it into the stone floor. Since the hammerpick was enchanted with a glyph of Antiearth runes that caused extra damage to earth-based defences, there was a loud bang and shock wave as the earth shook. All of the dwarves around him fell to the ground as a 30 foot area around the impact site collapsed and dropped several feet. With Ren's Amulet of the Spider combined with his Rock Steady and Unstoppable abilities, he was the only one to remain standing.
+
+While he waited for the ground to settle, he exchanged the enchantment on the shield with the stored enchantment he had saved from the chest plate of Charles the tech guy. The shield started to vibrate and glow, then changed it's shape. Ren watched in wonder as it grew from a small 2 foot oblong shield to a 4 foot wide circular shield. One of the dwarves regained his footing and tried to swing his sword, and Ren backhanded him with the shield. There was a loud clang as the shield moved through the dwarf as if he wasn't there. The clang had been the armor the dwarf wore and his weapon being knocked away. The dwarf and Ren stared at each other, surprised beyond belief that the dwarf now stood there in plain clothes, both armorless and weaponless.
+
+Another dwarf started to stand up, so Ren swung the hammerpick across the unarmed dwarf's face that stood in front of him, stepped back and hit the next dwarf in the chest. Unwilling to let a golden opportunity pass, Ren held the shield out and ran around the depression to hit each of them with his much larger shield. Every piece of armor and weapon was knocked away from the dwarves, and Ren followed through with a hammerpick blow to their heads to finish them off.
+
+What the hell kind of enchantment is this? Ren asked himself as he looted the bodies. I know some enchantments can be enhanced by the shield, but one that removes someone's armor and weapons?
+
+“More dwarves are coming, Ren!” Teepo warned, and Ren ran out of the depression and to the building close by. He switched the hammerpick for the staff, and made a passage into the building. He stepped through and closed it just as the other dwarves arrived to see weapons and armor scattered around a 30 foot wide depression in the ground, but no bodies. Teepo stayed outside to tell Ren where the dwarves were.
+
+“Now what do we do?” Teepo asked. “They aren't going away, and there's no more distractions to help us.”
+
+We'll do what we always do. Ren thought to his friend, and generated elemental grenades as he opened another passage in the wall 4 feet off the ground. He tossed the grenades out and closed the passage, and smiled at the screams. He opened a passage in a different spot and threw out more elemental grenades. Now that he wasn't scrambling from a surprise attack, Ren remembered the Web and Fireball wands attached to his armor.
+
+We're going to kick ass. Ren grinned as he opened a passage in front of himself and fired all 24 of the wands at the same time at the recovering dwarves that had no clue what was happening.

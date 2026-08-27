@@ -1,0 +1,315 @@
+---
+id: 70984b3f-fbf1-5424-b15a-7c7854c0ed49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 242 - Show-Off"
+slug: 0231-chapter-242-show-off
+partOf: mythrans-master-of-all-continued-completed
+position: 231
+ownLength: 3351
+unit: words
+publishedAt: 2017-05-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133566/chapter-242-show-off"
+royalRoadId: "133566"
+---
+
+“REN!” Elerlyth shouted, hopped off the bed, and took him into a hug when he stepped out of the portal. “You're still alive!”
+
+“Of course I am.” Ren hugged her as he felt a sharp pain on the back of his hand. “Why wouldn't I be?” He asked as the spider crawled up his arm and under his cloak. Summon Teepo! Teepo materialized at his feet and flew up to land on his shoulder.
+
+“Ren!” Eleryth said. “You were just whisked away to some unknown place by the Queen of the Dark Elves! She could have dismembered you! Or stripped the flesh from your bones! Or eaten you alive while you watched!”
+
+“Boy, am I glad you weren't there when she was trying to decide the best way to scare the crap out of me.” Ren said and laughed.
+
+“Ren! It's not funny!”
+
+“No, it isn't.” He said and kissed her. When he had come through the portal, their Auras had merged, and he felt what she felt. Sadness, relief, fear, joy, and anger were all mixed together. The kiss was passionate, and a little desperate on both of their parts. Elerlyth moaned as her ability didn't consume the feelings like she had expected, but absorbed them and became a part of her. It energized her more than anything she'd ever felt before, and when the kiss ended, her eyes glowed.
+
+“Oh, my god.” Elerlyth said. “Ren... I... oh, god.” She sat down on the bed and basked in the feeling.
+
+“What is it?”
+
+“I... just that little bit gave be enough XP to finish a level.”
+
+“No way.”
+
+Elerlyth nodded. “I think it's like your Fame bonus.” She said. “Instead of getting more food for my ability, it's converting it to general XP instead.”
+
+“Wow.” Ren said, and sat on the bed beside her. “That's actually really good.”
+
+“I know.” Elerlyth said, then her eyes widened. “Someone just walked through our Aura.”
+
+“Yeah, right over there.” Ren said and pointed out the small window.
+
+“I felt their fear, and a little excitement.” She said. “It gave me 10 XP, too.”
+
+“It'll still take you a while to level like that, but since it's XP you wouldn't normally get, you should level up a lot faster.”
+
+Elerlyth nodded. “I wonder if that's what the queen meant.”
+
+“Did you check your personal Aura's level?” Ren said. “If my guess is right, I think you got a boost to that, too.”
+
+Elerlyth checked her stats, and nodded. “Yes, it's almost at Advanced.”
+
+“I'd suggest walking around town for a while so you can level your Aura up; but, I'm not sure that's a good idea right now... hey, there's someone else in the same spot.”
+
+“Are you sure it's someone else?” Elerlyth asked. “I feel the same fear and excitement.”
+
+Ren smiled. “You don't think someone's doing what I think they're doing.”
+
+Elerlyth felt his amusement and grinned at him. “They're passing through the edge of the Aura, just to see if they can take it.”
+
+“Bingo.” Ren chuckled, and then someone passed through it again. “Should I be bad?” He asked her, and held up his Screaming Terror ring.
+
+“Oh, that's mean.” Elerlyth said.
+
+He felt her mischievousness matched his own, and she took his hand so the feelings they shared would be even more intense.
+
+“If you time it just right...” She said. Ren made the Connection between his Dire Wolf Hooded Cloak and the Screaming Terror ring, and waited. The person entered the edge of the Aura, he activated the enchantment, and pumped Screaming Terror into the Aura.
+
+“Ahhh!” They heard through the window, felt the utter shock the person felt, and Ren and Elerlyth collapsed on the bed and laughed as they shared their feelings.
+
+“Ha ha! Did you feel that?” Elerlyth said between laughs. “They were so surprised!”
+
+Ren only nodded because he was laughing so hard, and deactivated the ring.
+
+“Do... do you think... they'll come back?” Elerlyth asked.
+
+“They had enough guts to try it several times already.” Ren said as he calmed down. “I'd say the odds are greatly in favor of a return visit.”
+
+“I'll take that bet.” She said. “If I win, you have to show me what you did to the giants.”
+
+“And if I win?”
+
+“I'll let you out of our agreement.”
+
+“Which one?”
+
+“You being my food, you numbskull.” Elerlyth said, but he felt that she didn't want that to happen.
+
+“Okay.” Ren said. “I'll bet they won't be back.”
+
+“Wh-what?” Elerlyth said, surprised. “I thought you said...”
+
+“We didn't pick sides before the bet.” Ren said. “I've picked mine, so you're stuck with the other one.”
+
+“Ren...”
+
+“Hey, you shouldn't have made the bet if you didn't want to be stuck with the consequences.”
+
+Elerlyth felt his determination to win, so she relented. “All right, then I have to bet they'll be back.”
+
+“Now we just have to wait for... oh, damn. I lost.” Ren said as someone barely touched the edge of the Aura.
+
+“Hey, that doesn't count!” Elerlyth said, as it had only been for an instant. “That could have been someone else.”
+
+“I doubt it.” Ren said. “It's in the same... yeah, it's definitely the same person.”
+
+Elerlyth felt the person in the Aura pass through the same spot they had before. “You lost on purpose.” She said as she looked at Ren, and felt his happiness.
+
+“I did?” Ren asked her. “That's never happened between us before.” He said, and laughed as she smacked him. “I have to pop back to the Library.” He said, let go of her hand, and stood up. “I forgot to give Rosie a copy of the book.” He said and picked up the copy he'd let Elerlyth read, that she had put on the dresser by the door.
+
+“What about the High Elves?”
+
+“The soldiers are on the lookout for them now.” Ren said. “Plus, I don't think they'd be stupid enough to try and kidnap me again inside the city.”
+
+“Then you know what that means.” Elerlyth said.
+
+“Yeah.” Ren said. “But you are not going to leave the city without me.”
+
+“Excuse me?”
+
+“I won't let you get captured and taken off to wherever this 'Spire' thing is.” He smiled. “Unless we get captured together. That would be okay.”
+
+“Wait, what?!?”
+
+“It's just the start of a plan I had.” Ren said. “It worked for Tristan that time, and I figure it should work for the High Elves.”
+
+“So, you aren't just planning to stay low and hope they leave.”
+
+“Of course not.” Ren said. “They're not going to leave me alone now. I did kill one of their people, even if it was by accident.”
+
+“You better not feel guilty about that.” Elerlyth said as she felt a trace of guilt enter the merged Aura. “It was an accident; but he was trying to kill you, too.”
+
+Ren took a deep breath and let it out. “Yeah, but still...”
+
+“No buts!” Elerlyth said and stood up. “Forget about it and go to the Library, then get back here.” She said. “You have to recreate that cover for me.”
+
+“Only if you really want me to.” Ren said as he reached up and grabbed her by the back of the neck, then pulled her head down to his height. “I'll be right back.” He said, gave her a quick kiss, and let her go. He felt her surprise, and was out the bedroom door and down the stairs to the back door of the business before she could say anything.
+
+Ren went out the back door and ran down the street. His Aura moved with him, and it covered a lot of area; so, when he got 120 feet away from Elerlyth, their Auras separated.
+
+*
+
+Elerlyth's eyes widened as she gained 320 XP from the people Ren's Aura had passed over as he ran, then he was out of range and their Auras separated.
+
+“He's right.” She said, and sat back down on the bed. “It's not much in such small doses; but, it's more than I would get normally.” She thought about how much their shared Aura kiss had given her, both in XP and passion, and she shivered. “That on the other hand...”
+
+*
+
+Ren ran down the street to the Library, and since it was getting late, not many people were around. He poured on the speed and was at the Library only a few moments later. He had avoided the street where he had used so many Sleet Storm spells, just because he didn't want to take the chance that he'd slip and fall. Ren switched his concentration from his Spider Aura to his Personal Aura. It lost the Fear taint and it dropped to only 90 feet. He went inside the Library and looked around; saw the place was nearly empty, and went to the reception desk. Rosie's face lit up when she saw him.
+
+“Hi, Ren.” Rosie said and smiled sweetly at him. “I didn't expect you back so soon.”
+
+“I forgot to give you a copy of my latest book.” Ren said. “So I had to deliver it before I went back to the Dwarven Kingdom.”
+
+“Another book? Seriously?” Rosie asked, and Ren passed her the book. “Oh... oh my...”
+
+“It's a little risque, has a 'B' rating, and there's a lot of blood and gore.” He smiled. “A lot of bug squishing, too.”
+
+“That's quite the cover.” Rosie said, a little reserved. “I assume it's you.”
+
+Ren sighed mentally because he could tell Rosie didn't like it very much. “It is.”
+
+“You want it added to the system?”
+
+“Please.” Ren said. “Anyone that wants a copy...”
+
+“You'll pay for it. I know.” Rosie said, and took the book to the back. Ren stood there and waited for her to return a few minutes later, and she sat down. She didn't have a copy of the book, though.
+
+“You're not going to read it, are you?”
+
+“Not right now.” Rosie said. “I'll wait until tomorrow, when it's light out.”
+
+“You can't read anything scary at night?”
+
+Rosie shook her head. “I can't sleep if I have things like that in my head right before going to bed.”
+
+“Then I don't think you should read it.” Ren said. “It happened to me, and I can't get it out of my head.”
+
+“No, no. I'll read it.” Rosie said. “I can't let something like this pass by without reading it.”
+
+“Do you want me to spoil it for you?” Ren asked.
+
+“Heavens, no!” Rosie said, and shook a fist at him. “One word about the ending and I'll pummel you, mister!”
+
+“Okay.” Ren chuckled. “I'll keep my mouth shut.” He said. “Are you changing shifts soon?”
+
+“Not for another hour.” She said sadly. “I'm sorry.”
+
+“That's okay.” Ren said. “I just wanted to walk your grandmother home.”
+
+“Excuse me?!?” Rosie said, surprised. “I thought...”
+
+“It would have been the easiest way to spend a few extra minutes with you, before I had to leave.”
+
+“Ooohh.” Rosie said, when she realized that Ren wanted the excuse to spend more time with her.
+
+“It was a faint hope.” Ren said. “I might not be able to come back for a week or so.”
+
+“Then I'm more sorry than I can say.” Rosie said. “Bye, Ren.”
+
+“Bye, Rosie.” Ren said, gave her a little wave, and walked out of the Library.
+
+“Are you sure you should be encouraging her like that?” Teepo asked as Ren ran down the steps of the Library.
+
+She said she knew about dwarf relationships, and was okay with it. Ren thought to his friend and ran up the street. She pretty much said she wanted to be friends with benefits.
+
+“You seem to have a lot of friends with benefits.” Teepo said, and chittered in laughter.
+
+Hey, I'm not sleeping with every woman I've met. Ren defended himself. There's actually a lot of women that I'm not sleeping with.
+
+“The list is getting shorter and shorter.” Teepo said.
+
+Who's side are you on? Ren thought with amusement.
+
+“I'm just making sure you know what you're getting into.” Teepo said. “You barely have time to deal with everything when you're here.”
+
+Ren concentrated on his Spider Aura as he came up the street, felt it merge with Elerlyth's Aura, and ran to the back of the business. I'm busy right now, but I'll have lots of time once I'm back permanently.
+
+“Yeah, in three months.” Teepo said. “That's a long time to make her wait for your awesomeness.”
+
+Ren laughed and went up the stairs to the second floor back door. She's waited this long, so I don't think a few more weeks will change her mind. He opened the door, went inside, and ran up the stairs.
+
+*
+
+He's back. Elerlyth thought as Ren's Aura merged with hers. She received another 160 XP for the people he passed by with the Aura, and a few moments later, heard the apartment door open. She took a deep breath, and tried to stop herself from shaking in anticipation for what was to come.
+
+*
+
+Ren felt Elerlyth's overwhelming anticipation as he came into the apartment, and he went into the bedroom.
+
+“I'm sorry, Elerlyth.” Ren said. “I can't do it right now.”
+
+“What?!?” She exclaimed. “You lost the bet!”
+
+“I have to fix my armor first.” Ren said, and let his amusement fill the Aura. It was pushed aside by her anger, and he laughed. “It'll only take a few minutes.”
+
+“You shouldn't tease me like that.” Elerlyth said, and watched him as he took out each piece of his crushed armor. “You really were stepped on.” She said in a soft voice, as the realization finally hit her. She walked around the bed and took him into a hug from behind. “You were literally crushed to death.”
+
+“Not only did it hurt like hell, I lost all the XP from a hidden quest, too.” Ren said and started to repair his armor.
+
+“Aww.” Elerlyth said, and rested her chin on the top of his head. “You poor thing.”
+
+“I still got a ton of Influence, but I can't help but wonder how much XP it would have been.” Ren said, and finished with his armor and stored it. He took out his red House Neram suit and used his Master Tailor Sewing Needle on it and repaired it.
+
+“Ren, what's that on the back of your hand?” Elerlyth asked. “It looks like a spider tattoo.”
+
+“It was a gift from the Queen of the Dark Elves.” He said and stored the suit. “It's her mark, and she also gave me a new friend.”
+
+“A new fr-” Elerlyth stopped talking when a 5 inch long tarantula crawled out of his hooded cloak and onto her arm. “Please tell me your new friend is a spider the size of my hand.” She said and didn't move, so the spider wouldn't be startled by any movement she might make. “If it wasn't, we're in big trouble.”
+
+“We're not in big trouble.” Ren chuckled. “It was a spider, and it's joined to the mark.”
+
+“It's what?”
+
+“I don't know how it works; but whenever the spider is going to be killed, it appears on the mark instead.”
+
+“That's... actually pretty cool.” Elerlyth said. “What else can it do?”
+
+“She said it can do anything that a normal spider can do.” Ren smiled. “Or nothing.”
+
+Elerlyth snorted a laugh. “That's not really a wide range of things it can and can't do.”
+
+“Please go back into the cloak.” Ren said to the spider, and it turned around and crawled off of Elerlyth's arm and disappeared into the cloak.
+
+“Where do you think it went?” She asked, and let him out of the hug.
+
+“If it was me, I'd be snuggled into one of the front leg holes of the cloak.” Ren said and turned around to face her. “It provides a lot of protection, and there's less tendency to get crushed by anything.”
+
+“So, you're kind of stuck wearing the cloak from now on.” Elerlyth said and ran her fingers through his beard.
+
+“Not really.” Ren said. “I could just leave it on me, or I might just make a nice pack for it. Although, I haven't thought about the logistics much.”
+
+“How are you going to get it through the portal?” She asked.
+
+“It will reappear on my hand, just like it did when I stepped through the last portal.” Ren said. “Can you give me your armor bodysuit?”
+
+Elerlyth handed it to him and he repaired it, then handed it back. “Thanks.” She said and equipped it, so that it replaced her old outfit. “That's much better.” She said, and ran her hands over the surface of the fabric, from her waist down to her thighs. She felt Ren's reaction to the movement, and she reversed her hands and dragged them across her abdomen, splayed her fingers, and ended the movement at her breasts. When her hands stopped moving, so did his eyes.
+
+“By the gods, you're sexy.” Ren said, and she felt his desire. The web design and peekaboo cutouts of the bodysuit accentuated her skin nicely. She smiled and cupped her breasts.
+
+“Didn't you get enough of this dark skin from the queen?” Elerlyth asked, and the tips of her breasts made large bumps in the fabric without any prompting.
+
+Ren shook his head. “I got away with feeding her once, and it was only oral on her for a few minutes.”
+
+“No way.” Elerlyth said. “She let you go after only that?”
+
+“Well...” Ren grinned at her. “She did say she wanted to keep me; but, she didn't want to break her word to you and take your main food source.”
+
+“I'm glad.” She said, leaned down, and gave him a gentle kiss. Since their feelings were being shared, it started an emotional loop as they made out. Each felt the desire of the other, and as they made out, several people passed through the Aura and gave Elerlyth an additional boost. She broke the kiss a few minutes later, because she couldn't take much more. Her entire body was filled with a kind of euphoric feeling, and she wanted Ren so badly, it almost hurt.
+
+“We can't.” Ren said, and she felt his deep regret.
+
+“You need to get back to the Dwarven Kingdom before you can log out.” Elerlyth said, and sighed.
+
+“Yeah.” Ren said. “Hand me your armor.”
+
+She handed her armor over, he quickly repaired it, and gave it back to her.
+
+“I'd tell you to not leave here without me, but the last thing I want to do is tell you how to play the game.”
+
+“Damn right.” Elerlyth said, and he laughed.
+
+“But before I go...” Ren walked into the living room and opened the cabinet to the portal. “I did make a bet with you.”
+
+Elerlyth held her breath as Ren equipped his full set of armor, and took out both his hammerpick and gold shield.
+
+“How do I look?” Ren asked her, but she could feel his playfulness.
+
+“Like a dork.” She said. “Hurry up and dazzle me!”
+
+“I hope anyone passing by can forgive me for this.” Ren said, and made the Connection between his hammerpick and shield, and the shield and his Dire Wolf Hooded Cloak. “I can only stay like this for an instant, Elerlyth.” He said, and Teepo dissolved into the ring.
+
+Elerlyth nodded, and Ren activated both enchantments and pumped them through his Aura and into their shared one. She gasped as she was gripped by utter terror, and reveled in the sensation. She froze in place, but not from fear. It was nearly pure joy she felt as Ren activated his Controlled Berserk Rage and his eyes went blood red. The cloak billowed out slightly as he moved, and it looked just like it did on the book cover.
+
+“OH GOD!” Elerlyth yelled, Ren laughed as he felt her orgasm, then he jumped through the portal.

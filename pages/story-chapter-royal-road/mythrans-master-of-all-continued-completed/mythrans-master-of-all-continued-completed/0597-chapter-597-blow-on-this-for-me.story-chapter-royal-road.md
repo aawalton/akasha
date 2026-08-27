@@ -1,0 +1,193 @@
+---
+id: b9705a8d-31c6-5511-9ecd-4f8ac08eaf02
+page-type-slug: story-chapter-royal-road
+title: "Chapter 597 - Blow On This For Me"
+slug: 0597-chapter-597-blow-on-this-for-me
+partOf: mythrans-master-of-all-continued-completed
+position: 597
+ownLength: 2119
+unit: words
+publishedAt: 2018-05-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218506/chapter-597-blow-on-this-for-me"
+royalRoadId: "218506"
+---
+
+The succubi fed from Ren for several minutes, and their eyes met as they kept consuming his sorrow. Unlike when he fed them and gave them the emotions they wanted, this was something they were taking from him to help him, and not for themselves. The distinction was not lost on them, and when they realized the difference, they gained Wisdom and their abilities upgraded.
+
+Each of the succubi gasped as their specialized Emotion Siphon ability grew stronger and gave them even more control. They had a much easier time with Ren's sorrow now, so they pulled more and more of it out of him.
+
+Ren felt the succubi try to take the sorrow he felt for the maids and the pain they were going through, so he lay still and tried to not let out more than they could handle. Unfortunately, his worry over the maids not getting the help they needed, started to seep out with the sorrow.
+
+“R-Ren, we... we can only...” Seldanna tried to speak, and Ren used one of his relaxation techniques. Calmness filled him and smothered the sorrow and worry, and the succubi stopped using their Emotion Siphon abilities.
+
+“I'm sorry, I didn't mean to let it out like that.” Ren said, and the succubi sat up.
+
+“Ren...” Seldanna sighed. “We were just...”
+
+“I know.” Ren said and held a hand out. Seldanna took it and he gave it a squeeze.
+
+“Hm?” Suniva opened her eyes and sat up on his chest. “What's going on?”
+
+“Ren's hiding his emotions.” Seldanna said.
+
+“All men do that.” Suniva said and stood up, then walked up into the air. “How long do we have before your date tonight?”
+
+“We've got a few hours.” Ren said.
+
+“Why don't you see if Janice can give you a glass-blowing lesson?” Teepo asked.
+
+“She should be available, but I can't go to the county.” Ren said. “Her shop is across the street from the Main House.”
+
+“You can send Princess to go and get her.” Artemis said.
+
+“She just got settled in her room. There's no way she'll be happy about going again so soon.”
+
+“Ellaria and I will go.” Seldanna said. “Contact her and tell her to get ready to come here.”
+
+Ren opened the messaging system and sent a quick inquiry to Janice.
+
+Ren  Hey, Janice. Are you busy?
+
+Janice  Ren! What the hell? Where have you been?
+
+Ren  It's a long story, and I'll tell you all about it during our next lesson.
+
+Janice  I think I'd rather hear it now.
+
+Ren  That's what I said. (smile)
+
+Janice  Oh! You're coming here right now?
+
+Ren  Unfortunately, I can't. I'll explain why when you get here.
+
+Janice  Where?
+
+Ren  At the house in Aurora.
+
+Janice  Ren, it's going to take hours to get there.
+
+Ren  I'll be sending 2 succubi to pick you up.
+
+Janice  Excuse me? Did you say succubi?
+
+Ren  Yes. They'll be there in a few minutes.
+
+Janice  ...
+
+Janice  Okay, fine. I'll be ready.
+
+Ren  Great! I'll see you soon.
+
+Ren closed the messaging system and looked at Seldanna. “She said she'll be ready when you get there.”
+
+“We will return with her.” Seldanna said. She and Ellaria got off the bed and stood up, then walked over to the door. Ren equipped his Travelling Clothes and got off the bed, and Artemis followed him to the door.
+
+“Suniva, we're using a glass forge, so you're welcome to come along and bask in the heat.” Ren said.
+
+“Thank you!” Suniva said and ran over to him, then sat on his shoulder. “I've seen the big forge in the warehouse, but I've never had the guts to go in.”
+
+“Tee-one wouldn't let you go into the forge.” Ren said. “It's too dangerous.”
+
+Suniva laughed. “I meant go in the warehouse.”
+
+“Oh.” Ren smiled. “Never mind.”
+
+“We'll go for a patrol flight.” Katori said and she and Chenoa got out of bed. Everyone left the bedroom and the house, and the 4 succubi took off. Two of them flew off into the distance, and the other two went straight up and flew slow circles around the Housing District.
+
+Ren went to the empty lot beside the house and took out his shop tower cube. He placed it in the middle of the lot and activated it, and his shop tower popped into existence. He went inside and activated the glass forge to get it prepped, then left the shop tower and took out his storage tower cube and placed it beside the shop tower and activated it. He went inside and gathered up some sand bags, then left and deactivated it. He stored the cube and walked over to the shop tower, then waited outside for the succubi to return.
+
+After a few minutes, Seldanna and Ellaria appeared on the horizon and quickly flew over to Ren. Seldanna didn't have anything in her arms, which was a bit of a surprise to Ren because it had been Seldanna's idea to go and get her; then he saw Janice. She was held in Ellaria's arms in a 'princess carry', with one arm under her knees and one on her upper back. Janice had her arms around Elleria's neck, and both of them had slightly red faces.
+
+“Hi, Janice.” Ren said when the succubi landed.
+
+“H-hi, Ren.” Janice said as Ellaria put her down and stood her up on her feet. “You didn't have to carry me like that.”
+
+“Well, I didn't feel like changing my feet into clawed talons and carrying you like a piece of meat.” Ellaria said and grinned.
+
+“So, you're telling me you could have treated me like a piece of meat and I should be grateful that you didn't?” Janice asked and grinned back.
+
+“My King, I like this one.” Ellaria said to Ren. “Can I keep her?”
+
+Janice turned to look at Ren. “Excuse me?”
+
+“What? You need me to translate?” Ren asked and chuckled. “Ellaria said she wants to be really good friends with benefits.”
+
+Janice looked from Ren to Ellaria, then back again. “But... she's...”
+
+“Yes, she's a succubi, but she's also kind of lonely and you're apparently compatible with her.” Ren said. “At least, I assume you are. I don't think she would ask otherwise.”
+
+“Why does she need your permission?”
+
+“She doesn't really, but it lets me know she's interested in you, and I can offer you this.” Ren said and took out one of the Anti-corruption rings he had made.
+
+“What are you doing?” Janice asked as Ren stepped close and held out the golden band.
+
+“The succubi are kind of toxic if you're not careful, so anyone interacting with them on a personal basis needs to wear protection.”
+
+“P-protection?”
+
+Ren nodded. “If you're going to hang out with her, please wear this ring.”
+
+Janice looked down at her hands and she wore two of his rings already. “I'm kind of out of hands.”
+
+Ren activated his Craft Wondrous Item ability and the golden platform appeared, and he chose the Hand Of Glory recipe. He added the Unnatural Armor and Spider enchantments to it, then added in the necessary ingredients, Mana, and gold to pay for it. It was created a few moments later, and he slipped the new ring on it and gave it to her to put around her neck.
+
+“Oh, before I forget.” Ren said and cast Permanent Air Walking and Permanent Water Walking on her. “They take a bit of getting used to, but once you do, you can have lots of fun with them.”
+
+Janice couldn't believe what she had just witnessed. “Ren, you... what...” She shook her head. “Let's get to the lesson so you can tell me what you've been up to.”
+
+“Right this way.” Ren said and motioned to the shop tower, and they went inside. Artemis and the succubi stayed outside and rotated taking turns doing the patrol around the Housing District. It was well within Ren's Aura, so Artemis had no problems completing the task.
+
+After a quick introduction between Janice and Suniva, the 1 foot tall Fire-based pixie had perched on top of the glass forge and did exactly what Ren had told her to do. She basked in the radiated heat from the molten glass, and practically rolled around like a cat with catnip.
+
+Janice gave Ren another lesson in Glassworking after they had watched the show Suniva was putting on. This time, she taught him how to make a small teddy bear out of glass. Since all the things on the teddy bear were essentially round, she only had to make round balls of glass and quickly dabbed them together.
+
+While she worked, Ren filled her in on what he had been going through the last little while, and Janice quickly forgave him for not contacting her for a lesson before now. When she tried to tell him how sorry she was for what he went through, he stopped her with a quick kiss. It made her laugh, because there was nothing really romantic between them, and she understood what he was trying to do was distract her.
+
+Janice finished making the teddy bear, Ren absorbed the heat from it and she picked it up. “I usually have to wait for a while before I can handle these things.” She said and admired her own handiwork. “I usually move on and do something else while I wait for one project to cool, though.”
+
+“I've never seen glass be used like that before.” Ren said and admired it, too. “I mean, I knew it was possible to make figures and things out of it; but, I thought they were pressed or poured into a mold or something.”
+
+“They can be made that way, but most times it's all by hand.” Janice said. “This is just a simple sculpture. It takes skill and practice to get any kind of fine details like adding the mouth and flattening the ears, though.”
+
+“That is so cool.” Ren said. “Can I try?”
+
+Janice nodded and Ren did exactly like she did. She was amazed he had picked up the technique so quickly, then she noticed the shape of the center blob.
+
+“Ren that's a mistake.”
+
+“Is it?” Ren smiled. “I only said I wanted to try. I didn't say I was making a teddy bear.”
+
+Janice opened her mouth to say he was supposed to follow her instructions, then she realized that he was following them. Except for the fact that he was making something else, he still did the work exactly like she had shown him.
+
+When Ren was done 10 minutes later, he had a glass horse that was reared up on it's hind legs, and it stood on a glass mound.
+
+“Oh, my god.” Janice picked up the glass sculpture and looked at the details. “You even used the scoring tool to make sharp indents and defined the eyes, mouth, and ears.” She sighed. “You're a born artist.”
+
+“No, I was taught at a very young age how to recognize the shapes in things.” Ren said. “It was against my will of course, since I didn't know any better.” He smiled. “When I was old enough, I used that knowledge to draw... whenever I could steal a piece of paper and a pencil.”
+
+“Oh, Ren.” Janice said. “I... I don't know what to say.”
+
+“That's easy.” Ren smirked at her. “Ren! Teach me how to make the glass horsey!”
+
+Janice snorted a laugh. “I didn't mean that, you dummy.”
+
+Ren put a hand on her shoulder. “I know what you meant.”
+
+“Ren, you... you've been through... you're going through so much...”
+
+“Hey, you've been through a lot, too.” Ren said. “I'm sorry that I haven't been trying to attend lessons more often.”
+
+“After the last bit of money you gave me, I haven't had to worry about a lot.” Janice said. “With your fantastic advertising gimmick, I've been constantly busy with orders.”
+
+“Hey, I'm sorry I took you away from your shop.” Ren said, and it was her turn to put a hand on his shoulder.
+
+“I'll always come and visit a friend when he needs it.” Janice said. “Besides, you're stinking rich and I want your money.”
+
+Ren laughed and gave her a hug, then he took the horse from her and stored it. “So, do you want me to teach you how to make the horse?”
+
+“No, dumb-ass. I can make a horse just fine.” Janice said and he laughed again.
+
+“So what do you want to do for the rest of the lesson?” Ren asked.
+
+“Well, I kind of have an idea...” Janice said and let a wicked smile spread across her face.

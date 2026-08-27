@@ -1,0 +1,333 @@
+---
+id: 7a0b7eb1-2457-5eb7-850e-91b6970aff2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 505 - Drama Unleashed"
+slug: 0505-chapter-505-drama-unleashed
+partOf: mythrans-master-of-all-continued-completed
+position: 505
+ownLength: 3082
+unit: words
+publishedAt: 2018-02-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192990/chapter-505-drama-unleashed"
+royalRoadId: "192990"
+---
+
+“It's getting dark.” Someone said into the silence, and several people agreed.
+
+“This party's goin' ta tha Pleasure Palace if'n ya wan'ta come along.” Clint said.
+
+“Excuse me?” The woman beside him said.
+
+“We've been meaning to check it out since it opened.” Tommy said.
+
+“It's got great ale!” Candy said, and Ren looked to see her hanging on Dillon's arm.
+
+“Hi, Candy.” Ren said.
+
+“Hey, Ren.” Candy said. “I'm sorry all that drama came out like that.”
+
+Ren nodded. “I figured Billy would be a little angry about it, but I had no idea he'd be that angry... or that he and Jennifer weren't... well...”
+
+Candy nodded, too. “We all assumed she was getting it good from him, too... considering she loves him so much.”
+
+“Ah don' think we should be talkin' abou' this.” Clint said. “Bein' none of our business, an' all.”
+
+Ren, Candy, and several of the dancers nodded their heads in agreement.
+
+“Are you really going to a strip club?” The woman asked.
+
+“There ain' no harm in it, considerin' it's all virtual.” Clint said. “Ah ain' nevah been in one in real life, though.”
+
+The woman kind of scrunched her face a little for a few moments, then her face went back to normal and she smiled. “You saved them from being exploited at the Pink Pearl.”
+
+Clint nodded. “Thanks ta mah friend there tippin' me off.” He said and pointed to Ren.
+
+“Really?”
+
+“He even built us the new place!” Caramel said. “It's the best place we've ever worked!”
+
+“He owns the strip club?!?” Someone else asked.
+
+“Nope!” Candy said. “We do!”
+
+“You do?” Dillon asked, and she nodded.
+
+“He made it, set everything up for us, including ale and food, and then handed it over to us with no strings attached.”
+
+“Geez, is he crazy?” Someone asked. “He could be making a fortune!”
+
+Ren chuckled. “I don't need the money, and you wouldn't believe how happy the dancers were that they were their own bosses.”
+
+“Try ecstatic!” Caramel said. “We can work when we want, take breaks when we want, and pick and choose the clients.” She laughed. “I've never been happier!”
+
+“Hey...” Hank started to say, and Caramel turned and kissed him.
+
+“Like so!” Caramel said, and several people laughed.
+
+“So, are we going or what?” Someone asked.
+
+“I think I'll pass.” One of the women said. “I don't want to watch women be objectified.”
+
+“Boy, are you thinking of the wrong place!” Hank said, and the one who spoke looked at him. “It's us that are objectified.”
+
+“Wh-what?”
+
+“If one of the dancers doesn't like someone, the client is usually ignored.” Caramel said. “In some cases, they are even asked to leave.”
+
+“You're kidding!” The woman said, and Caramel shook her head. “Ren gave us full control over everything, and by god we use it!”
+
+“That's why it's so great working there.” Candy said and rested her head on Dillon's shoulder. “No one is forced to do anything they don't want to do, or to spend time with anyone that they don't like.”
+
+“I... ah... maybe I'll stop in for a minute.” The woman said. “Just to check it out for myself.”
+
+Several people laughed at that.
+
+“Let's get to the carts.” One of the guys said.
+
+“Can I offer to give you a tow?” Ren asked, and they looked at him. “Princess and I can haul you with us.”
+
+“Are you serious?” Someone asked.
+
+“We've hauled a lot of things.” Ren said. “Even a royal carriage with 2 horses.”
+
+“If it works, why not?” Someone else said.
+
+“Ma'am, would ya like ta come along?” Clint asked the woman beside him. “Ah'd shore like ta keep sharin' yer company.”
+
+“If I'm there, will the dancers ignore you?” She asked.
+
+“Ah don' rightly know.” Clint said. “Ah ain' nevah brough' a date wit me before.”
+
+“They will leave you alone if you ask them to.” Caramel said. “We are all consenting adults, and no one is pressured into anything.”
+
+“Then I'd like to come along.” She said, and Clint smiled.
+
+“Then let's load up!” Someone said, and everyone walked towards the carts they had left in Clint's driveway.
+
+“I'll go and get Billy and Jennifer.” Ren said before everyone reached the carts.
+
+“I think I saw them go into the house.” Tommy's real life girlfriend offered.
+
+“Thanks.” Ren said. “Artemis, hook Princess up to the carts.” He said to her and ran to the house and went inside, then was back out a second later. “Clint, sell me your ranch for a gold coin.” He said and held out a gold coin.
+
+“What?”
+
+“Trust me.” Ren said and shook the coin.
+
+“Are ya gonna do somethin' funky?” Clint asked.
+
+“Kind of.” Ren said, and Clint chuckled.
+
+“As long as ya sell it right back ta me.” Clint said, and Ren nodded. He took the gold coin and Ren ran back into the house. He was back out a minute later.
+
+“Is there anything else left inside that needs to be repaired?” Ren asked, and Clint stared at him.
+
+“What?”
+
+“I fixed the damage I could see.” Ren said. “I found a couch, 2 chairs, a table, a window, the walls, the ceiling, and the floor.”
+
+“But... but...”
+
+“Was that everything?” Ren asked, and Clint nodded. “Okay, you can buy the ranch back.”
+
+“Ah wish ya hadda been here las' nigh'.” Clint held out the gold coin.
+
+“Only a gold coin?” Ren asked and grinned evilly. “The price is a thousand platinum coins.”
+
+“WHHHAAAAAATTTT?!?” Clint yelled, and everyone gasped and started to yell and holler about the unfairness.
+
+“BWAHAHAHA!” Ren guffawed and bent over laughing. “The... the look on your face! Bwahahaha!” He eased his laughing down after a few moments, then took the coin from Clint's outstretched hand.
+
+“Geez, man.” Tommy said. “That wasn't funny.”
+
+“Are you kidding?!?” Ren said. “That was hilarious!”
+
+“Ren...” Clint started to say it wasn't funny, too.
+
+“Wait, you thought I'd really charge you more for selling it back?” Ren asked, and looked at everyone. “I can understand everyone else thinking that, since they don't know me and hate me a little.” Ren said, and they all avoided his gaze. “But you guys? You know me well enough to realize I would never do that... after the initial shock, that is.”
+
+Ren could feel their emotions, and he was surprised that they thought he would do that.
+
+“Huh.” Ren said. “Is that how you see me?” He asked. “You're just waiting for me to show my true colors?”
+
+It was Clint, Dillon, Tommy, and Hank's turn to avoid his gaze; but, he felt how they felt about it.
+
+“Well, okay then. I guess you don't know me that well.” Ren said. “I'm glad my little practical joke brought that out in the open.”
+
+No one said anything, and Ren shook his head and ran back into Clint's house. He used his Heat Sense Aura for an instant and pinpointed where the two people in the house were. Ren went over to the bedroom door and knocked.
+
+“Leave us alone!” Billy said. “We're busy!”
+
+“Everyone is heading to the Pleasure Palace.” Ren said. “I think Jennifer's working tonight, too.”
+
+“Goddammit!” Billy said and opened the door. “GET LOST!”
+
+“What is your problem?” Ren asked. “This is way too much anger over what happened.”
+
+“IS IT?” Billy yelled.
+
+Ren felt a small spike of fear from Jennifer, and glanced behind Billy to see her holding her cheek, and tears were in her eyes.
+
+“You...” Ren started to say something as he looked up at Billy's face, and gained the Angered condition. “You. Hit. Her.”
+
+“It's none of your business!” Billy snarled.
+
+“I... I think...” Ren made a fist, then quickly opened the Player Menu and chose to leave the Reckless Rough Riders. “You need to log off right now.”
+
+“Make me!” Billy said and chose PVP mode.
+
+Ren saw the popup for a second and then Billy grabbed Ren by the throat with both hands.
+
+“Billy, no!” Jennifer exclaimed.
+
+“Don't make me do this.” Ren said, completely unaffected. “Let me go.”
+
+“Die, you little shit!” Billy said and tried to squeeze as hard as he could. When that didn't work, he pulled out a dagger and swung it at Ren's abdomen. A small Mana shield appeared and the dagger bounced off and flew across the room to hit the wall.
+
+“I hope you use these next 6 hours to cool off.” Ren said as he accepted PVP mode, reached up and grabbed Billy by the neck.
+
+“REN!” Jennifer yelled.
+
+“I'm sorry, Jennifer.” Ren said and used Iron Grip and broke Billy's neck, just as the rest of the Reckless Rough Riders came into the house.
+
+“WHAT THE HELL ARE YOU DOING?!?” Clint yelled at the top of his lungs. The guys had gotten the notification that Ren had left their party, and had come into the house to see what was going on. Ren dismissed the 'PVP has ended' popup and didn't even look at the info it showed.
+
+“Ren! How could you do that, man?” Tommy asked, shocked.
+
+“Billy wanted a fight.” Ren said. “I accepted.”
+
+“Tha's it?” Clint asked. “Tha's yer justificashun fer killin'im?”
+
+Ren took out a Minor Healing wand and used it on Jennifer's face, out of sight from everyone, then stored the wand and turned around to face Clint.
+
+“It's as good a reason as any.” Ren said, and he felt Jennifer's surprise that he hadn't told them that Billy had hit her.
+
+“Git outta mah house!” Clint said. “Ah don' wanna see yer face no more!”
+
+“In a minute.” Ren said calmly and lost his Angered condition, then turned back to face the bedroom.
+
+“Ah said ta git outta here, now!” Clint nearly yelled. Ren ignored him and knelt to loot Billy's body, then stepped into the bedroom and dropped the loot on the bed.
+
+“Jennifer, please accept this as an apology.” Ren said.
+
+“Ren...”
+
+Ren reached out and used his hand to caress the cheek Billy had punched. “You don't know how sorry I am that this happened.”
+
+Jennifer took his other hand and gripped it. “I... I think I do.” She said. “I feel pretty sorry for myself right now.”
+
+“Don't.” Ren said. “This wasn't your fault.”
+
+“But...”
+
+“I want you to ignore everything Billy told you.” Ren said. “There's nothing wrong with you, or with wanting what you want.”
+
+Jennifer's mouth fell open. “How... how did you...”
+
+Ren caressed her cheek again. “It was an educated guess.”
+
+Jennifer sighed. “Now what do I do?”
+
+“When Billy comes back in 6 hours, and if he isn't being reasonable, I want you to message me.” Ren said and added Jennifer as a friend to his contacts, and she accepted. He removed Billy as an afterthought, then leaned in close to whisper. “I won't let him hurt you again.”
+
+“Ren, you can't police my love life.” Jennifer whispered back.
+
+Ren chuckled. “I'm just going to be the friend you need when you need me.” He said and let her cheek and hand go.
+
+“Thank you.” Jennifer said and smiled.
+
+“I doubt Clint will let me give the guys a ride now.” Ren said. “Do you want me to take you to work?”
+
+“I think I'd be hated if I went with you and not the other girls.” Jennifer said.
+
+“I'll wait outside and see if you all get in the carts.” Ren said. “I'm going that way, anyway.”
+
+“I don't know if they will.” Jennifer said. “You did just kill my ex-boyfriend.”
+
+Ren raised his eyebrows at the 'ex' qualifier, and Jennifer held in her chuckle.
+
+“I won't put up with Billy's antics anymore.” Jennifer said. “I also don't think you should come to the club tonight.”
+
+Ren nodded. “I guess I won't be asking Clint if I can bring people over to relax in the pool tomorrow.”
+
+Jennifer bent down to kiss Ren on the cheek. “I'm sorry, Ren.”
+
+“It's okay.” Ren said. “Considering the way Billy reacted, I doubt this could have gone any other way.”
+
+“But... it cost you your friends.” Jennifer said, and Ren shrugged.
+
+“They seemed to think I was going to turn on them anyways.” Ren said. “I didn't think I deserved that; but, I also didn't think I'd be giving them proof that I would.”
+
+“You did that for me.” Jennifer said and ducked her head a little. With Ren so short, it just looked like she was staring at him instead.
+
+“If it makes this whole situation look better, and doesn't make them question what Billy did...”
+
+“What's to stop me from telling them after you leave?” Jennifer asked.
+
+“Nothing.” Ren said. “That's the thing about choice. I made mine so that they wouldn't think less of Billy over his reaction... or think less of you for suffering through it without telling anyone.”
+
+Jennifer opened her mouth to reply that it wasn't anyone's business, and Ren felt her emotions. She sighed instead and spoke. “I'm not a victim.”
+
+“No, you're not.” Ren said. “You're a survivor.”
+
+Jennifer took a deep breath and let it out. “Goodnight, Ren.”
+
+“Goodnight.” Ren said, turned around and walked out of the bedroom. Clint and the guys had scowls on their faces as they saw him again, and he could feel their dislike that he had ignored Clint's order to leave the house. The dancers around them had blank faces, as did the woman with Clint and Tommy's real life girlfriend; but, Ren could feel that they suspected something other than what they saw happen had happened.
+
+Ren walked over to the front door, and he expected them to move aside to let him pass. When they didn't, he looked at them. “First you want me out of your house, now you're blocking the way.” He said. “Make up your mind.”
+
+“Ah decided ah want an explanashun fer whatcha did.”
+
+“Revenge? Jealously? Self defense? Because I could?” Ren said as if each was a question.
+
+Clint's scowl kept getting deeper and deeper.
+
+“He challenged me and I defeated him.” Ren said. “Before you keep asking me what happened, didn't you just say that it's none of your business?”
+
+Clint opened his mouth to yell at him, and Hank put a hand on his shoulder.
+
+“I'm not taking his side, but you did say that.” Hank said. “We shouldn't try to force the real reason out of him.”
+
+“That's right.” Ren said. “You won't be doing that to Jennifer, either.” He said, and everyone looked at him. “It's her business, and you shouldn't pester her about it.”
+
+“Wha' are ya gonna do?” Clint asked. “Kill us, too?”
+
+“I'd rather just appeal to your humanity and tell you that poor girl just saw a man she loved be killed in front of her.” Ren said. “Do you really want to berate and question her about it?”
+
+No one said anything, and Ren could feel their reluctance to do that to Jennifer. It was then that Tommy's real life girlfriend pulled Tommy out of the doorway. That was the cue everyone needed and they all stepped aside, except for Clint.
+
+“Ah'm not steppin' aside in mah own house.” Clint said.
+
+“That's okay.” Ren said and smiled as he walked around Clint. “I could have just gone out through the back door anyways.”
+
+Surprise and awe flowed out to Ren, and he didn't absorb any of it. He assumed it was because he had confronted them about what had happened and hadn't backed down; but, it didn't really matter at this point. He walked out of the house and down the driveway, and climbed up onto Princess' saddle to wait.
+
+It took about 10 minutes before Clint and the others came out of the house to go to the club, and he saw Ren was still there. Since he wasn't on Clint's property, he couldn't get angry about him still being there. He walked right over to Ren and looked up at him.
+
+“Ah'm not ridin' witcha.”
+
+“I don't expect you to.” Ren said. “I was waiting for the dancers so I can get them to the club on time.”
+
+“If'n yer goin', ah'm not goin'.”
+
+“Don't be an idiot.” Ren said, and Clint balled his hands into fists. “I'm not going to the club. I'm going home to people that want to have me around.” He said. “That just happens to be down the road from the club.”
+
+Clint frowned at Ren's logic, then stepped back out of the way. Ren looked back at the carts and saw that the dancers had climbed into the first cart, and they had Jennifer with them.
+
+“Hold on!” Ren said and looked down at Princess. “Go easy for the first time riders, please.”
+
+Princess huffed and trotted up into the air, and there were a couple squeals of delight as they saw Artemis flying beside Ren, one woman let out a short scream, and quite a few shouts rang out to go faster. Princess heard this and poured on the speed at a respectable rate.
+
+“Wooo-hooooo!” A guy shouted. “It's better than a roller coaster!”
+
+A few other people joined him in shouting and waving their hands in the air to increase the thrill ride. Ren felt their enjoyment, and this time let his ability absorb some of it. They arrived at the county 10 minutes later, and Princess slowed down and came in for a landing 2 minutes after that, right in front of the club in the parking lot.
+
+“That was great!” The same guy said as he hopped out of the cart and almost jumped around. His adrenaline was pumping pretty hard after the ride. “Where can I get one of these things?”
+
+“You can't.” Ren said as he and Artemis unhooked the two horse and carts from Princess. “Princess is one of a kind.”
+
+“Then how much...”
+
+“I don't sell my friends.” Ren said and he and Artemis tied the horses to the available posts. He was tempted to help the ladies climb out of the carts, but he didn't want to feel the rejection that was sure to follow.
+
+“Have fun tonight.” Ren said and he walked down the road with Artemis and Princess on either side on him. Princess went into her house and Artemis said she was going into the warehouse to spend time with the other familiars. Ren said goodnight and went into the Main House and up the stairs.

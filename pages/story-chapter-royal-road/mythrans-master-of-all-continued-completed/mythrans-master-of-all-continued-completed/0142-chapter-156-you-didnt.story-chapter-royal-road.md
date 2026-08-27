@@ -1,0 +1,353 @@
+---
+id: 97d1406d-5eca-5797-83ee-47d2312b7846
+page-type-slug: story-chapter-royal-road
+title: "Chapter 156 - You Didn't!"
+slug: 0142-chapter-156-you-didnt
+partOf: mythrans-master-of-all-continued-completed
+position: 142
+ownLength: 4182
+unit: words
+publishedAt: 2017-01-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115984/chapter-156-you-didnt"
+royalRoadId: "115984"
+---
+
+Ren ran to the workshop and went inside to find Tee-one was hammering a piece of metal for one of the braces. Ren laid out some stone bricks to make a 20 foot long mold for the metal of the bow. He poured it out to the proper thickness, leaving a little extra for the folding process. Ren didn't stop at 12 folds this time; because he wanted to make sure this was the strongest metal he'd ever made. After 20 folds, Ren finished the bow part, then made the cable to keep the tension on it. He hadn't made an actual steel cable before, but he knew it was wrapped just like rope.
+
+After setting out several long molds only an eighth of an inch wide, he poured out the molten metal and absorbed the heat from it to recharge his Mana Pool. Ren picked up the long strands and dipped the end into the smelter for an instant, to make the end solid; then used Iron Grip to twist the strands together to make a steel cable. Once he had it twisted tight for the entire length, he dipped the other end into the smelter to hold it together, then smiled.
+
+“That came out better than I thought.” Ren said, then he and Tee-one built the main wooden body (with the wheels and horse hookup) in the main workshop, to attach the metal pieces to. “Okay, here we go.” He said, then enchanted the bow with an Enhancement glyph (8 runes total) and thought 'Springy' and 'Tough', enchanted the moving parts with Smoothness, the trigger with Strength, and increased the Durability of the wooden body. The cartridge didn't have to be enchanted, as all it did was hold the 6 foot long bolts. The springs inside he added Toughness and Springy to, though; then loaded it with the 20 metal tipped bolts Tee-one had made, and slipped it into the mechanism of the Ballista. Ren had used his Artisan skill the entire time, so the thing looked like it was made of solid gold.
+
+“Isn't that beautiful?” Ren asked.
+
+“It's shiny, that for sure.” Teepo said. “And you didn't even polish it.”
+
+“Right!” Ren said, then polished it. When he was done, the Ballista gleamed in the reflected light from the open door of the forge room. Ren stored it, and smiled. “I bet the Commander is going to be impressed.”
+
+“If he can stop staring at it.” Tee-one said. “You're giving them a weapon they've never seen before.”
+
+Ren laughed. “They've seen it.” He said. “It just wasn't this big.”
+
+“What do you want me to make next?” Tee-one asked.
+
+“How about you make a nice house for yourself?” Ren suggested. “There's lots of room behind the workshop.” He said. “Just don't build on Princess' track.”
+
+“I don't need a house, Ren.” Tee-one said. “I'm a Dedicated Servant Crafter. All I do is build.”
+
+“That's not true.” Ren said. “You wouldn't have weapon proficiency, otherwise.”
+
+Tee-one nodded slightly, and Ren handed him copies of the books he'd made.
+
+“For now, build your knowledge.”
+
+Tee-one looked at Ren in surprise, then smiled. “That's a good idea.”
+
+“I'll see you in the morning.” Ren said, left the workshop, and went to the house. He went inside and touched the Sending Stone for the Main House. “Hi, Ereka, this is Ren.” He said. “Can you order a thousand more bolts of tight weave fabric tomorrow? Also, I haven't talked to the people in the houses, but I'm thinking you should order furniture for them all. Tables, chairs, and beds, anything they would need.” Ren said. “For yourself and Croggart, too.”
+
+“You're spending more money than you have coming in.” Ereka said. “That's not a good way to run things.”
+
+Ren chuckled. “I expect to run at a deficit for about 3 years before turning any kind of profit from all of this.”
+
+Ereka laughed. “You definitely have the deficit part down pat.”
+
+“I never did see that sand.” Ren said. “Was there a problem ordering it?”
+
+“No. It should have been there by now.”
+
+Ren frowned. “I better run down the road and try to find it.”
+
+“I can do that.” She said. “You enjoy your supper.”
+
+“No you can't.” Ren said. “You will not go out at night alone. Your brothers would never forgive me if anything happened to you.”
+
+“I'm a big girl, Ren.” She said. “I can take care of myself.”
+
+“I'm not questioning your abilities, I'm questioning your safety.”
+
+“I walk home alone every night.” Ereka said. “Well, almost every night.” She sighed. “Okay, once. I actually sleep here on the couch, now.”
+
+Ren laughed. “I know it's comfy, but you should sleep in a proper bed.”
+
+She nodded slightly, forgetting he couldn't see her. “I'll go home soon.”
+
+“And I'll run down the road.” Ren said. “Talk to you tomorrow.”
+
+“Goodnight, Ren.”
+
+“Goodnight.” Ren said, then went into the kitchen and Nathalia and Narhilda sat at the table, waiting for him. “I need to take a quick run down the road. If I don't see anyone, I'll be back in 10 minutes.”
+
+“And if you do see someone?” Nathalia asked.
+
+“It'll be 15 minutes.”
+
+“How can you be sure?”
+
+“Because no matter what happened, I'll deal with it quickly and be back here to spend this time with you.”
+
+“Oh.”
+
+Ren went to Nathalia and kissed her on the lips. “I'll be back before you know it.” He went to Narhilda and she looked at him expectantly. He smiled, took her hand and he bent over. Her face fell for an instant, as she assumed he was doing the normal greeting, then he kissed her cheek.
+
+“Be right back.” He said, left the kitchen, then the house.
+
+*
+
+Narhilda sat there with shock on her face, then reached up and touched her cheek where Ren had kissed her.
+
+“What is it?” Nathalia asked. “What happened?”
+
+“He... he made that an Honor ritual.”
+
+“He WHAT?!?”
+
+“He just gave me 50 Honor.”
+
+“50? How in the...” Nathalia shook her head. “He must have registered it.”
+
+Narhilda nodded. “I joked about it too much.” She said. “He took it seriously.”
+
+*
+
+Ren ran down the road all the way to the city, and didn't see anything. “I thought for sure the cart would have broken down or something.” He said and turned around. He started to run back and Teepo hollered.
+
+“On the RIGHT!”
+
+Ren rolled left, and ended on his hands and knees as several crossbow bolts whizzed by his head. He saw several dwarves get up out of small piles of dirt scattered by the road. He activated his Screaming Terror Ring and pointed it at them, then equipped his bodysuit and armor. Most of them started hollering and running around, and he concentrated on his Fear Aura.
+
+“Behind you!” Teepo exclaimed, and Ren tried to roll out of the way, but a sword came down on his back and made a clang against the armor plate. Ren grunted from the impact and felt the sword slide off the armor.
+
+“Another one!” Teepo said.
+
+Ren fell to his side and sprayed his assailants with his Water Spray ring.
+
+“Ha.” One of the dwarfs said. “Your little tricks won't work.” He lifted the sword over his head and Ren kicked him in the groin. He let the sword go, and it fell onto his own shoulder and slid down his back.
+
+“ArrggghhHH!” The dwarf screamed, and knelt as he tried to clutch his groin and shoulder at the same time. The other dwarf ignored this and swung a large maul at Ren's head. Ren caught it, absorbed the impact, and used Iron Grip to crush the end. The dwarf let the mangled weapon go, and Ren threw it at his face. The dwarf was stunned immediately, and fell onto his back. His face was quite mangled from the crumpled metal. Ren stood up, smashed his fist into the other dwarf's face, and heard bone crunch. The dwarf didn't pass out, but he wasn't trying to fight, either.
+
+“Bolts!” Teepo said, and Ren took out his shield and turned to deflect them. He enchanted it with his Grip of the Earth enchantment, and it caught the bolts as they impacted the surface. He saw the 6 dwarves try to reload quickly, and Ren stood up to face them.
+
+Let's see how they like a blast of light. Ren thought, and concentrated on the ruby enchanted with Illuminate runes he'd placed on his chest plate. Activate!
+
+A searing beam of red light, the size of Ren's head, shot out and hit the closest dwarf in the arm. Ren had expected a bright flash and not a beam, but the result was something he hadn't expected. The dwarf's arm burst into flame and started to crisp immediately.
+
+“AHHHHHH!!!” He screamed as he dropped to the ground and grabbed his arm, and screamed again when he did.
+
+“Whoa!” Teepo said. “Turn your chest to the others, Ren!”
+
+Ren didn't need to be told twice, and turned quickly to give each of the dwarves a taste of, what Ren assumed, must be a laser of some kind. He caught a couple of them in the face, and they fell to the ground clutching their faces. Ren got one in the chest, and the last 2 in the back. They all fell to the ground, and hollered in pain. He deactivated the beam, turned to the two dwarfs closest to him, and grabbed them by their clothing. Ren picked them up easily and carried them over to the 6 crossbowmen and dropped them in the middle. He proceeded to gather the others, and piled them together to tie them up. After searching them and removing their weapons, he didn't find anything that said who had sent them.
+
+“Who sent you?” Ren asked one of the burn victims.
+
+“By the gods, man! Get us to a healer!” One of them exclaimed.
+
+“As soon as you tell me who sent you.”
+
+“We don't know!” Another dwarf said. Ren sighed and took out his hammerpick.
+
+“I'm getting tired of being ambushed.” Ren said. “And just so you know, I only need one of you alive to question.” He lifted the hammerpick slowly over his head and aimed at one of their heads. “Who's first?” He started to swing.
+
+“STOP!” One of the dwarfs shouted.
+
+“Shut up!” Another dwarf said. “They'll kill us if we say anything!”
+
+“Do you want to die later, or right now?” The dwarf asked. “They didn't tell us he was crazy!”
+
+“Kill me!” The dwarf with the crisped arm said. “By the gods, the pain is unbearable!”
+
+Ren took out a wand and pointed it at him.
+
+“He's really going to do it! Aahhhh!” One of them said, and tried to get away; but Ren had tied their feet and hands together, so the dwarf just rolled around on the ground as he couldn't get away from his companions. Ren used the Minor Healing wand on the dwarf's arm, and the dwarf sighed in relief. He used another 15 charges, and the arm looked a lot healthier. Ren shot a couple of Minor Healing spells at each of them, just to stop the constant moaning.
+
+“It was House Lodur.”
+
+“Ren! 20 feet to the left!” Teepo said, as a dwarf stood up and started to run away from them. Ren stored the hammerpick and wand, then took off after him. He caught up to the dwarf easily, and tackled him to the ground. Ren punched him in the lower back twice, right where his kidneys would be. He heard two low grunts and the dwarf gripped his sides. Ren picked him up easily and carried him back to the others.
+
+“You know, I think I'm insulted.” Ren said and dropped the last dwarf in front of the tied up group. “I single-handedly defeated an entire Battalion of troops, and this time they sent only 9 of you?” He shook his head. “I really hope you aren't an elite troop of fighters.”
+
+One of them laughed. “We thought we were.”
+
+Ren tied the last dwarf up. “Where's the cart of sand?”
+
+“The what?”
+
+Ren sighed. “The cart of sand.” He said. “The one you stopped to set up this ambush.”
+
+“We told the driver the order was canceled.”
+
+Ren had been looking at the dwarves, and saw one of them wince. He picked up the dwarf who spoke, and dragged the others to half-stand with him.
+
+“What. Did. You. Do.” Ren shook him, and the other dwarves were shaken as well.
+
+“Nothing!”
+
+“What part of 'I don't need you all alive', don't you understand?” Ren growled at him, then turned towards the road and dragged the entire group behind him. He heard several of them beg for mercy as he easily pulled them onto the paving stones. Ren let the dwarf go and he fell to the road.
+
+“I don't like doing this.” Ren said. “Fighting like this is stupid.” He knelt in front of the group. “Apparently some of you don't mind dying.”
+
+“I don't want to die.” One of them moaned.
+
+“Then tell me what happened.”
+
+“We stopped the cart, but the driver wouldn't give it to us.”
+
+“Tell me you didn't...”
+
+“It was him.” The dwarf motioned to the dwarf that Ren had dragged everyone behind. “He was supposed to only tie the driver up.”
+
+“The orders were 'no witnesses'.” The dwarf said.
+
+“They meant for the assault, not for everyone we met.”
+
+Ren took a deep breath. “Where?”
+
+“About a hundred feet that way.” The other dwarf said, and pointed off the side of the road. Ren stood up and walked into the underbrush.
+
+*
+
+“Okay, he's gone. Let's go!”
+
+“How are we supposed to go anywhere like this?”
+
+“Stand up and walk, you idiot.”
+
+“Anyone got a knife?”
+
+*
+
+Ren ran for about a hundred feet, and found the cart. He slowed down when he saw the body, and fell to his knees as tears came to his eyes. The young woman was quite pretty, and at least her clothes were intact. Her lips were a dark blue, and he saw hand prints on the woman's neck. Ren clenched his hands into fists and stood. He ran as fast as he could, and saw the group trying to walk away. He jumped in mid-air and kicked the dwarf closest to him with both feet, and hit him in the back. The dwarf smashed into the group and they fell to the ground in a heap.
+
+“You.” Ren walked over to them. “You killed that poor girl!” He grabbed two of them by the chest and picked them up. Since they were tied so closely together, he ended up picking them all up. Some of them yelled because the ropes cut into their bodies, but Ren didn't care. He lifted them over his head, then let them drop onto the paving stones. He didn't even feel bad for the ones on the bottom as their faces smashed into the stone. Ren heard bones break, and looked at the group. He found the dwarf that one of them had said did it, and grabbed him by the neck.
+
+“How do you like it, you piece of scum?” Ren said and squeezed his hand. The dwarf choked and his eyes bulged out of his head as he stared at Ren. Ren stood up, dragged the dwarf with him, along with the others.
+
+“I could break your neck so easily.” Ren said, to the dwarf's shocked face. “But I won't, because you need to be alive for them to hang you.” Ren said and let the dwarf go. “I hope you all enjoy your last few hours of life.”
+
+“We didn't kill her!” One of them said.
+
+“You were there, and didn't stop him.” Ren said. “You also didn't help her afterwards.” He shook his head. “You left that poor girl out in the middle of nowhere.”
+
+“We'd have told-”
+
+“Who?” Ren said. “Who would you tell that would bother to come out here and deal with this?”
+
+The dwarf closed his mouth.
+
+“Exactly.” Ren said and took out the large cart he'd made. He picked up the tied up dwarves and tossed them in the back. He climbed in and tied them to the side of the cart, and hopped down. He went to the spot with the cart, and looked around. There was a bunch of tracks, so leaving her there to preserve the crime scene was pointless. He picked her up gently and took her to the road. He laid the body in the back, then sewed up a cushion for her to rest on, then put her on it.
+
+“I hope you all can get a good look at her.” Ren said. “Look at what greed and stupidity has done.” He walked around to the front of the large cart and made a handhold for himself. He sat down on the ground and wiped the tears away, then thought of Nathalia.
+
+“My... My Lo... v... e...” Ren's voice broke up as he tried to speak. “I'm... I'm going to be a little later than I thought.” He said, and told her what had happened.
+
+“I'm so sorry, Ren.” Nathalia said when he was finished. “What are you going to do?”
+
+“I'm taking them to the Main Keep first, to get their identities and to register the crime; then I'm taking them to the Garrison.”
+
+“If they really are one of the Garrison's units...”
+
+“I know.” Ren said. “The Commander didn't order this, though.”
+
+“How do you know that?”
+
+“They aren't wearing their uniforms.” Ren said. “It's against regulations to take it off, even while at home.”
+
+“So that's why you always wore it.” Nathalia said, then caught her breath. “I'm sorry, I'm distracting you.” She said. “Get going. You might catch them before they close the gates for the night.”
+
+“The mood I'm in right now, I'll just smash the gate down and go inside anyways.” He stood up and started pulling the cart. Once he had it moving, he picked up the speed and kept a good pace going.
+
+“We'll wait here for you.” Nathalia said.
+
+“You can go to bed, My Love.” Ren said. “This could take a while.”
+
+“We'll go to bed, but we're still going to wait up.” She said. “See you soon.”
+
+Ren ran through the main part of the city and along the main road towards the Main Keep. They arrived there 10 minutes later, and Ren pulled the cart right up to the gate.
+
+“You can't take that inside.” One of the guards said.
+
+Ren concentrated on his Command Aura, and connected his Screaming Terror ring. “Open. The. Gate.” Ren said through gritted teeth. “These men murdered a young woman, and I am taking them to face justice.”
+
+“Only Jogloch did. We were only there.” One of them said. The guard went around and saw the bundle of men in the back, and froze as he saw the young woman's body, laid out regally on a soft cushion.
+
+“Open the GATE!” The guard yelled, and the gate was opened. The guard escorted Ren and the cart inside, and people leaving the Main Keep stepped aside, and gasped as they saw what was in the back. The main doors of the Keep were opened as the guard and Ren approached them, and Ren pulled the cart into the lobby. Everyone stood still as they saw a sight they never thought they'd see, a large cart in the lobby, that hauled the body of a young woman and her killers.
+
+“Get the Scroll Mage.” The guard said to the receptionist before she could state the departments. She touched a Sending Stone and asked for the Scroll Mage to come to the lobby right away. The guard turned to Ren.
+
+“Her main ability is Identifier.” He explained. “She can't remember any spells at all because she knows all of this information and there's no room for anything else.”
+
+“So she uses scrolls for everything.”
+
+The guard nodded slightly. “She even has a scribe to keep writing her spells out for her.”
+
+Ren took the opportunity to give the guard all of the weapons and things his assailants had on them, and a minute later, he saw the Scroll Mage come down the hallway on the right side of the lobby. She was 4 feet, 5 inches tall, and had a 4 foot tall girl following her.
+
+“What is it?” The Scroll Mage asked, and the guard had a tear in his eye. “A young woman's body, and her killers.”
+
+The Scroll Mage gasped, and ran around the cart. “Oh, no!” She said, and hugged the body. “Poor, poor Gellian. Her father is going to be devastated.” She looked into the pile of men tied in the back. “Jogloch! You are a horrible man! She hadn't even gone for her training yet!”
+
+“See? We didn't kill her.”
+
+“Ren is right! You were there! You didn't stop him, or even object when it happened!”
+
+Ren saw the scribe writing everything down. “Ask who told them to attack me.”
+
+“It was the Lord of House Lodur, the piece of garbage.” The Scroll Mage said to Ren. “Your book brought to light how corrupt the Council has been, and he wanted to get back at you the only way he could.” She looked back at the men. “You're not going to get away with saying the orders were illegal and you weren't at fault.” She said. “You all knew exactly what you were doing.” She shook her head. “It was all for only a few platinum coins.”
+
+Everyone gasped.
+
+“Her life was worth a lot more than a few measly platinum coins.” Ren said, and held the tears back.
+
+“It definitely was.” The Scroll Mage said. “She was a member of the Royal Family.”
+
+Everyone froze, and the men in the cart started to plead for mercy and their innocence.
+
+“Shut up!” The guard said. “You hurt us with all of your lies!” He turned to Ren. “Tell us what happened.”
+
+Ren glanced at the Scroll Mage, who smiled, and Ren told the story of what happened, and how he came to find the body.
+
+“If I had come across that scene...” The Scroll Mage put a hand on Ren's arm. “...I'd have killed them and not thought twice about it.”
+
+“I wanted to.” Ren said. “By the gods, I wanted to grind them into the dirt!” He exclaimed, then took a deep breath. “But if I did that, then there wouldn't be an end to them coming after me... or justice for Gellian.”
+
+“There will be both justice and an end; for these men and for the Lord of House Lodur.” She said. “You have seen to that.”
+
+Ren nodded slightly, and put a hand on her hand. “Thank you.”
+
+She shook her head. “Don't thank me for this.” She waved at the mess in front of them. “This is going to shake the very foundation of our culture.”
+
+Ren nodded slightly again. “Exposing the corruption of the Council was easy, compared to this.”
+
+The Scroll Mage whispered into her scribe's ear, and the scribe took out a fresh piece of parchment and wrote something on it. She rolled it up, sealed it, and handed it to the Scroll Mage. The scribe wrote something else on another piece of parchment, and handed it to the Scroll Mage as well.
+
+“Give this to Lady Neram.” The Scroll Mage said, and handed Ren the sealed scroll. “It will destroy itself if anyone but her opens it.”
+
+Ren stored it and the Scroll Mage handed Ren the second piece of parchment. It was a Spell of Major Healing.
+
+“You're going to need that.” She said, and turned to the cart. “You can leave the cart and it's contents here.”
+
+“Shouldn't I...”
+
+She shook her head. “The Garrison isn't equipped to handle this.”
+
+“Ma'am.” Ren said. “I will leave this in your more than capable hands.”
+
+“No, I can't give you any more spells.”
+
+“You sound like...”
+
+“I'm not a Sage.” She said and walked over to him. “I'm an Identifier. I can identify everything.” She leaned in close and whispered. “Prince Charming, the Father of Fire.”
+
+Ren's eyes widened, and she stepped back.
+
+“This situation will be dealt with.” The Scroll Mage said.
+
+“If you will excuse me.” Ren said, and bowed slightly. He heard several gasps, and ignored them.
+
+“It was a pleasure meeting you.” She said, as Ren walked away.
+
+*
+
+The Scroll Mage smiled. “It was quite a pleasure indeed.” She turned to the guard. “Get the shackles.”
+
+*
+
+Ren left the Main Keep and walked out through the gate. Once he was on the road, he ran for all that he was worth. Teepo didn't say anything, though. Ren didn't stop at the spot where the cart of sand was, but continued to run home to House Neram.

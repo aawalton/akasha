@@ -1,0 +1,223 @@
+---
+id: 78a338fe-a99a-500b-b18e-d27925da00db
+page-type-slug: story-chapter-royal-road
+title: "Chapter 572 - Rule Of Power"
+slug: 0572-chapter-572-rule-of-power
+partOf: mythrans-master-of-all-continued-completed
+position: 572
+ownLength: 2548
+unit: words
+publishedAt: 2018-04-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212074/chapter-572-rule-of-power"
+royalRoadId: "212074"
+---
+
+Ren and Artemis approached the underwater castle and saw another line of seahorse riding guards lead to the front doors. He realized he had a problem when he saw the doors were not going to accommodate the bedroom. He took out his Staff Of Earth and used Permanent Widen Effect on it twice to make the Pass Wall spell double in size, then double again. He used it on the doors and a 32 foot tall and 24 foot wide opening appeared.
+
+Ren and Artemis walked through the opening and he pulled the bedroom inside with his Water Manipulation ability. He had to do it again to enter the throne room, and saw there wasn't a bubble of air around the throne. He thought that was a bit odd, until he saw the woman that sat on the bench that was the throne.
+
+It was not Railyse's mother.
+
+“I've been cherishing the time until this day arrived.” The unknown Sea Dweller woman said. “Thank you for bringing the Lost Daughter home.”
+
+Ren didn't say anything in response.
+
+Her face twisted into a scowl for a brief moment, then she smiled. “Please set her down.”
+
+“No.” Ren said.
+
+“You are in no position to deny me.” The woman said and made a hand gesture, then 100 Sea Dwellers slid out from the coral on the walls and swarmed around Ren, Artemis, and the bedroom. “Hand her over.”
+
+“I was charged with her protection and safe return.” Ren said and motioned to the circling Sea Dwellers. “This doesn't look safe.”
+
+The woman laughed. “Of course it's not.” She said. “I've worked very hard to train them to respond to my every whim.”
+
+The woman made another small gesture, and one of the Sea Dwellers changed his path as he swung his harpoon at Artemis. She shot the harpoon with several Mana bolts and key places on his armor instantly. Both items shattered at the impacts, and the Sea Dweller flipped end over end before he landed on the floor, stunned. The woman on the throne hissed and went to gesture again, and Ren used his Water Manipulation ability to hold her still.
+
+“Don't.” Ren said, and he felt her try to struggle against him. He took out an Amulet of Interrogation and walked over to her. “Where is the Queen?”
+
+“I killed her!” The woman said, and sweat appeared on her face. It was whisked away by the current, but Ren had seen it.
+
+“If you keep lying, it's going to get very uncomfortable for you.” Ren said and bared his teeth at her.
+
+“KILL THEM!” The woman yelled.
+
+Ren cast Water Walls around Artemis and the bedroom, then used his Water Manipulation ability to push them out. The walls slammed into the Sea Dwellers and knocked them all out, and he moved the unconscious bodies into a single area, then moved the walls around them to make a cage.
+
+“No! My children!” The woman said. “Why are you wrecking everything?!?”
+
+“It's a side effect of defending myself.” Ren said. “Where is the Queen?”
+
+“I banished her! She's on the far side of the sea and-ahhHH!” She screamed as she felt a large burst of Heat. “All right! All right! I'll talk! Just make it stop!”
+
+“Tell the truth and the Heat stops.” Ren said.
+
+“She's in the dungeon with the rest of her stupid family!” The woman said.
+
+“Why is she there?”
+
+“One of her sons fertilized my spawn, and she wouldn't acknowledge it! She wouldn't even register him as the father, and they all look just like him! Even the girls!”
+
+Ren opened his mouth to ask how she could tell they were his, then he remembered that only the father and mother could have access to the nest, once it was made and the eggs were laid.
+
+“I'm sorry that happened.” Ren said. “I wonder why her amulet didn't bring this out?”
+
+“It only works if you ask questions.” The woman said, sadly. “She didn't ask.”
+
+Ren sighed, because he knew that could easily happen. “Let me guess what happened.” He said. “When your spawn were old enough, you trained them to become a strong fighting force, stormed the castle and took over, and tossed them all into prison.”
+
+“That's not even close to what happened.” The woman chuckled. “When they were old enough, the father came to see them. When he saw how big and strong they were, he apologized for abandoning us and brought us to the castle.” She said. “His mother said he had cast them off and they didn't exist in her eyes.”
+
+“Oh, no.” Ren said.
+
+“Oh, yes.” She said. “The father couldn't go against his mother's ruling, so he turned on us... again... and tried to shove us away.” She shook her head. “I wasn't going to let it happen again, so I told them I was taking over.”
+
+“You challenged her.”
+
+“I not only challenged her, I kicked her ass!” The woman said and laughed. “I never imagined she was so weak and feeble!”
+
+“She's been alive for...” Ren shook his head, because it didn't matter anymore. “How long ago was this?”
+
+“Just over 300 years.” She said.
+
+“Or 21 days.” Teepo said. “We weren't coming here that soon, so we didn't 'just miss it', thankfully.”
+
+“I'm taking over now.” Ren said to her, and her eyes widened.
+
+“But...”
+
+“I'm a Waterkin.” Ren said, and she gurgled several curse words.
+
+“I concede.” She said. The small crown she had on her head faded away to reveal a ring of seaweed, and the crown appeared on Ren's head.
+
+“It seems to be a glamour or something.” Teepo said. “It doesn't replace what you're wearing, it only covers it.”
+
+It didn't give me anything, either. Ren thought. No popups, no magic, no ownership of the castle, nothing.
+
+“Maybe it's just symbolic.” Teepo suggested, and Ren nodded.
+
+“What are you going to do with me and my children?” The Sea Dweller woman asked.
+
+“The only thing I can do.” Ren said and stopped holding her with his Water Manipulation ability. “As the current ruler, I acknowledge you and your children on behalf of the father that spurned you.”
+
+The woman let out a stream of bubbles and gurgles so fast that Ren couldn't make out what she was saying. “That... that's all I've ever wanted.” She said and swam over to the cage with some of her children in it.
+
+“Please release them.”
+
+Ren dismissed the Water Wall spells and she shook one of her children to try and wake them.
+
+“What's wrong with them?”
+
+“They're just stunned.” Ren said. “It might take a while for them to recover.”
+
+She sighed. “What am I supposed to do until then?”
+
+“I assume you replaced all the guards?” Ren asked, and she nodded. “Then call a couple of them and have them release the Queen and her family from the dungeon.”
+
+She nodded and swam over to the door and called for the guards, then gave them their orders. Ren moved the enclosed bedroom off to the side and out of the way, and waited for the Queen to come into the throne room.
+
+When the doors opened to admit her, Ren saw the Queen's clothes were ragged and she looked terribly thin; but, she had her family behind her and they all looked relatively healthy. When she caught sight of her usurper, she hissed and took a fighting stance for what little good that would do.
+
+“Relax, I'm not in charge anymore.” The woman said and pointed to her forehead, then she turned and pointed across the throne room to Ren.
+
+“REN!” The Queen exclaimed and started to swim through the water. Her movements were erratic from long disuse of her muscles, and Ren used his Water Manipulation ability to form the water around her and held her gently as he pulled her over to him.
+
+“My Queen.” Ren said and bowed to her.
+
+“You came back.” She said and her hand touched his face. “I was worried that I would never see you again.”
+
+“I didn't know I should have worried about that.” Ren said. “I assumed you would always be here.”
+
+The Queen smiled and let his face go. “Rash decisions by an old woman brought me to this point.” She said. “I'm glad you weren't ambushed.”
+
+“He was.” The usurper said and pointed to her unconscious children. “He didn't kill them, though.”
+
+“Or you.” The Queen said, and Ren felt her anger. He reached out and touched her shoulder, and she looked at him.
+
+“I don't see (gurgle bubble bubble). Where is he?” Ren said, and the Queen sighed.
+
+“He...” She closed her eyes, and Ren felt her sorrow.
+
+“I am so sorry.” Ren said and gave her a comforting hug.
+
+The Queen was surprised by both his familiarity and his sincerity; but, only for a moment. She accepted his hug and leaned her head against his, and he bubbled and gurgled about how great of a Sea Dweller he was and his accomplishments. When Ren finished, she sighed and started to lean back.
+
+“I offer a consoling feeding.” Ren said and pointed to his cheek.
+
+“Thank you, but you are the current ruler.” The Queen said, and he let her out of the hug. “It wouldn't be appropriate for me to accept.”
+
+“Then challenge me.” Ren said, and her whole family bubbled and gurgled their protests.
+
+“I am old and weak.” The Queen admitted as she glanced at her usurper. “Since my mate has been gone, I've been withering away.”
+
+“I think I can fix that.” Ren said, and she shook her head.
+
+“No, I think my time to rule is over.” The Queen said and motioned to her eldest son. “I believe...”
+
+“Let me out of here!” Railyse said and pounded on the Wall of Water that held her captive. “RIGHT NOW!”
+
+The two water elementals with her were still unconscious, and her fists made the water ripple on both sides of the wall. She was quite awake and understandably very angry.
+
+“The Sleep spell didn't last as long as I thought it would.” Ren said and dismissed the front wall without thinking about what would happen when she was free. Railyse burst from the room and swam over to him in an instant, and her fist connected with his face. Since he was floating in the water and didn't have his feet on the ground, the impact sent him flying across the throne room and into the wall.
+
+Railyse darted after him. “How dare you kidnap me!” She said and smashed both fists into his face. Since she wasn't holding back at all and had hit him with all of her Strength, which was assisted by her own Water Manipulation ability, it jammed his head into the stone and coral wall.
+
+Railyse grabbed Ren by the shoulders and pulled him out of the wall, swirled around in a circle several times to gain momentum, then flipped him upside down and slammed him head first into the indestructible bedrock floor the castle was built on. It smashed Ren's nose flat and broke it, and his powerful blood gushed out.
+
+Every Sea Dweller froze at the sight and smell of it in the water, except Railyse. She had tasted it's goodness often enough that its presence didn't bother her, and she used her Water Manipulation ability to pull it into her mouth as she picked Ren up. His eyes were closed and his head flopped to the side, which exposed his neck.
+
+This sight Railyse couldn't resist, and because she was so angry and her prey was defenseless, she wasn't gentle at all as she bit into his neck. She tore a huge chunk of his flesh away and quickly chewed it up and swallowed it. The damage wasn't enough to kill Ren immediately; but, it was extensive enough that his blood flooded out like a water hose as he gained the Bleeding Profusely condition. His Regeneration ability had a difficult time filing in the large missing piece. Railyse was about to take another bite to finish off her meal, when she felt a hand on her shoulder and turned to hiss at the intrusion.
+
+“You can stop now.” The Queen said. “You have won.”
+
+“Wh-what?” Railyse blinked her eyes and shook her head, and her Frenzy ability turned off. When she looked at what she held in her hands and saw Ren's limp and bloody body, the color drained from her face. “R-Ren?” She shook him a little and his head flopped forward and back as if boneless. “REN! NO!”
+
+“He's still alive.” The Queen said as Railyse cried and pulled Ren close and cuddled him.
+
+“Oh, Ren!” Railyse wailed. “I didn't mean to!” She said and rocked him back and forth. “I was just so angry, I... I'm so sorry!”
+
+“You might need to wait for him to be conscious to tell him that.” The Queen said and pat her shoulder. “At least the blood stopped.”
+
+Railyse dropped her head to look at his neck and saw it filling in. “I could have killed him.” She said and kissed his cheek. “With that one bite, he would have been dead.”
+
+“He's an Adventurer. He would come back.”
+
+“Not here.” Railyse said. “He would reappear in the Human Kingdom, and I would never see him again.”
+
+“That worries you?”
+
+Railyse nodded. “I'm preparing to spawn.”
+
+“Why would that...” The Queen stopped talking and her trident appeared in her hand. “Your time among the Land Dwellers was a mistake, I see.”
+
+“No! Ren's not like them!” Railyse said. “Don't kill him!”
+
+“You want him to sire your spawn.” The Queen said and hefted the trident over her head to strike. “That is an aberration that cannot be tolerated.”
+
+“He said no!” Railyse said, and the Queen hesitated. “Even though he fulfilled all the duties of a mate and made me enter the spawning phase decades early, he said he wouldn't complete it because you would hate him and hunt him down.”
+
+The Queen stored the trident and sighed. “He has more sense than you, thankfully.”
+
+“But he's the perfect mate!” Railyse said. “He's strong, powerful, and has abilities beyond anything I've seen before!”
+
+“And yet, in one brief moment, you overpowered him and nearly killed him.” The Queen said. “Those abilities didn't amount to much when it counted, did they?”
+
+Railyse took a deep breath and let it out. “No, they didn't.” She said. “He... he was right, too.”
+
+“He told you to find your own mate, didn't he?”
+
+Railyse nodded. “I don't know if I have enough time to find one, though.”
+
+“You won't have to worry about that.” The Queen said. “Every male in the realm will be scrambling to sire the Queen's spawn.”
+
+“Wh-what?”
+
+The Queen pointed to her own forehead and Railyse saw the crown was missing.
+
+“My Queen! What happened?”
+
+“I'll explain in a moment, Your Highness.” The Queen said.
+
+Railyse stared at the old Queen as her hand reached up to her own forehead and found the crown there. “By Mother's Trident!”
+
+“I think you have to find something else to curse from now on.” The old Queen, who was also her mother, laughed.

@@ -1,0 +1,501 @@
+---
+id: c07ddc27-b575-5f26-9171-787da4711b6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124 - Caught"
+slug: 0109-chapter-124-caught
+partOf: mythrans-master-of-all-continued-completed
+position: 109
+ownLength: 4853
+unit: words
+publishedAt: 2016-12-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109078/chapter-124-caught"
+royalRoadId: "109078"
+---
+
+Ren woke up with Nathalia practically wrapped around him, and he smiled. He took in a deep breath and she woke up as well. She pulled back from him and smiled.
+
+“Good morning.” Nathalia said.
+
+“Good morning, beautiful.” Ren said and gave her a long, slow kiss. “I've got a lot to do today.”
+
+“Do you?” She asked. “Is this different from every other day?”
+
+Ren chuckled. “I'll take a break, don't worry.”
+
+“Will it be with me?” Nathalia asked, her eyes full of hope.
+
+“If you can stand to have me around, sure.” Ren said and grinned.
+
+Nathalia snorted a laugh, and Ren kissed her on the nose.
+
+“Once I get the first level built, I'll have to let it dry anyways.”
+
+“W-what?”
+
+“I'm making the Main House today.”
+
+“Not that.” Nathalia said. “The 'let it dry' part.”
+
+“I'll be casting it.”
+
+“C-c-casting it?”
+
+Ren nodded slightly. “I'll build a big mold for the walls, and then fill it. Pop it apart when it dries, and the first floor is done.” He said. “I'm tempted to just make a whole side and add the floor in later, though.”
+
+Nathalia's eyes widened at Ren's words. “You're serious?” She asked. “You're really going to mold the Main House instead of just building it?”
+
+“It's the best way to test my recipe.” Ren said. “Above ground, anyways.”
+
+She shook her head. “Won't that take a lot more wood than building it?”
+
+“At first....” Ren said. “...but, the wooden walls can be reused as many times as I want.”
+
+Nathalia smiled. “I hope it works as well as you think.”
+
+“It should. I just need a bunch more rebar for the walls. At the moment I only have enough for one wall.”
+
+“You better get to work, then.” She said and sat up.
+
+“I'd rather eat breatfast with my favorite fiance, if that's okay.” He said and sat up, too.
+
+Nathalia chuckled. “I'm your only fiance.” She stopped laughing and looked at Ren. “I better be your only fiance.”
+
+“Hey, I thought I was allowed to do whatever I wanted before the wedding?” Ren said and grinned as Nathalia swatted him on the head.
+
+“Just because you're allowed, doesn't mean I want you to...” She said and took him into a hug. “...and I don't want you to.”
+
+Ren hugged her back, then nuzzled her neck to make her giggle. “Where in the world would I find someone to compare to you?”
+
+*
+
+Elerlyth was quite frustrated. She'd been all over Aurora, again, looking for Mitchell. There was still no sign of him, and she sighed. Even her 'questionable' contacts hadn't come up with anything.
+
+It's like he just dropped off the earth! She thought, and then froze. Oh, no way! She ran back to the Snoozing Bear inn, went up the stairs and entered her room, then flopped down onto the bed.
+
+“Logout.”
+
+********
+
+Gloria took off the VR headset and got out of the recliner. “Those sneaky buggers!” She said with both venom and admiration in her voice as she sat down next to her computer. She pulled up her old hack file for the VR headset and grinned. “If my guess is right...”
+
+Half an hour later, her probes and searches dug up the information she wanted.
+
+“Ha! Hahaha!” Gloria laughed. “It wouldn't have worked if it was the old system; but when they changed to one permanent user per helmet...” She grinned. “...tracking him down this way was easy.” She looked at the Call ID her hack had given her. “Right, Mitchell? Or should I say, Micheal.”
+
+*
+
+“Oh crap!” Max, the head programmer at Sid TEC said. The program he had monitoring 'Mitchell' had just lit up like a christmas tree. “Crap. Crap. Crap. Crap. CRAP!” He exclaimed. “CRAP ON TOAST!”
+
+*
+
+Gloria loaded the information she needed into her navigation hack and patched it into the VR headset. “Go ahead, tech guys.” She said. “You can change Mitchell's Call ID as many times as you want.” She smiled. “I've got his code pattern now.” She went back to her recliner and put on the VR headset. “Easy money.” She said and relaxed.
+
+“Flow Login Start.”
+
+*
+
+Max was trying his best to undo whatever it was that had happened, but it was too late. He'd suffered a data breach and couldn't track it. After another few minutes, he gave up and called the boss.
+
+“Sorry, sir.” Max said. “They've found him.”
+
+“Is he online?” Edward asked.
+
+“Unfortunately.”
+
+“Damn.” Edward said. “Can we warn him?”
+
+“No. It's buffered. He doesn't get anything right now.”
+
+“Well, unbuffer it and get him back in the system.”
+
+“By then it'll be too late.”
+
+“What do you mean?” Edward asked.
+
+“They'll already have him.”
+
+********
+
+Ren had a great breakfast with two of his favorite people, and then fed Princess. He went out through the gate, and Golir greeted him with a huge grin on his face. Ren greeted him back, and walked across the drawbridge, then up the road to his workshop. Carts were already arriving and dropping off workers. Ren had them all stop and he repaired the equipment and clothing of everyone that needed it, apologized for not doing it sooner, and then entered his workshop. He came to a stop when he saw what was there. Nearly the whole floor was covered in standing sacks of cement.
+
+“Whoa.” Ren said, then started storing them into inventory. He had about half of them stored when the door to the workshop opened. The same group of 7 women stepped inside and stopped when they saw him. Ren turned around to look at the group.
+
+“Ma'am.” Ren said and bowed slightly to the first woman, then repeated that with each woman in turn. “You've done a lot more than I had expected.” He said and waved to the sacks he'd yet to store. “I thought I asked you to take your time.”
+
+“We did.” One woman said. “We've changed it to only 2 of us shovel, and 4 of us gather the sacks. We can keep a constant flow of powder and sacks going this way.”
+
+Ren smiled. “That's great.” He said and then stored the rest of the sacks, and started up the forge and tossed in a few pieces of ore. “You've impressed me with getting so much done.” Ren said. “210 sacks is a lot to do in a single day.” Ren walked over to them, handed each woman a coin pouch to equip, and then gave them 2 gold coins and 10 silver each.
+
+“Sir, this is...”
+
+“Only a silver for shoveling, filling, and sewing each sack.” Ren said. “It's quite the bargain for me.”
+
+The women looked at him like he was crazy, and Ren chuckled. “Don't just stand there staring at me.” He said and grinned. “You've got work to do!”
+
+The women laughed and picked who would be shoveling first. Ren tossed more ore into the forge and eventually filled it. He skimmed off some of the impurities and then stirred it quickly. Ren heard something clink in Dorcot's work area and he walked over to it.
+
+“Good morning, Dorcot.” Ren said to the dwarf.
+
+“Morning!” Dorcot said. “Look at my latest creation!”
+
+Ren looked over his shoulder and saw a diamond in the shape of a ball. “Wow.”
+
+Dorcot grinned. “That's what I said when I got to the bottom of the crate!” He chuckled. “I saw this beauty sitting there and it just begged me to do this.” He handed it to Ren, who appraised it at nearly 75 platinum. Ren shook his head.
+
+“Dorcot, you really do good work.” Ren said, then counted the facets. “You must have a lot of small ones left after this.”
+
+Dorcot opened the middle drawer and it was almost completely filled. “I was about to go to the house and ask you to take them.”
+
+Ren looked at him. “How long have you been here?”
+
+“About an hour or so.”
+
+“You've been here since before breakfast?”
+
+Dorcot nodded slightly. “I always get up early to see Angeilin off to work.” He said. “Even though we're closer to where she has to go, it's still a long walk.”
+
+Ren nodded slightly. “That'll be the next thing on my list.”
+
+“Your list?”
+
+“Things I've been meaning to do to get everything running properly round here.”
+
+“I bet it's a long list.” Dorcot said and smiled.
+
+“It gets longer every day.” Ren said and chuckled. He took all of the 1 gold coin diamonds from Dorcot's desk drawer, and put them into inventory to count them. They took up just over 4 slots. “856.” Ren said, then took out the sack he'd made to hold the small diamonds, and dumped the new diamonds into it to join their brothers and sisters. It was nearly full. “I think I'm going to need a bigger sack.”
+
+Dorcot laughed and Ren smiled as he took out the half-sized crate of cut diamonds he had in inventory, and put the diamonds into the full-sized crate. Ren added the ones that filled the half-sized crate beside Dorcot to it, then stored the crate.
+
+“I'm not sure what I can do with all of these, as some of the cuts aren't useful for what I want.” Ren said, then looked at Dorcot. “You've cut gems for royalty, do you know a good jeweller or jewel setter?”
+
+Dorcot smiled. “Want to recruit another craftsman, do you?”
+
+Ren chuckled. “I'd like to learn about it, actually.”
+
+“That'll be hard, since Orimihr Juldor's been working in the mines for about 5 years.”
+
+“5 years?!?” Ren exclaimed. “Why so long?”
+
+“He used to work for one of the Main Houses, and one day, their entire jewellery collection disappeared.”
+
+Ren's eyes widened in surprise.
+
+“Yeah, it was suspicious to be sure.” Dorcot said. “A sword, 2 rings, a tiara, a necklace, and a set of armor was taken. Emeralds, rubies, and diamonds adorned them all.”
+
+“Any clues about who would do such a thing?”
+
+Dorcot shrugged. “It was so long ago, I doubt even the people who were there would remember the details now.” He said. “All I know is that Delthid was so angry, that he quit in protest over it.”
+
+“Delthid?” Ren asked.
+
+“Delthid Kulduhr's the blacksmith who made the items that were stolen.” Dorcot said. “He'd perfected his forging technique on that sword. It only took 5 forgings to craft it.”
+
+Running Quest Update!
+
+Your mentor Donan tasked you to find the Master Smith that can make a legendary sword with only 5 forgings. You've now learned his name: Delthid Kulduhr.
+
+Find him and learn his secrets.
+
+Ren stared at the popup, and Dorcot chuckled.
+
+“I was shocked when I heard that, too.” He said. “Can you imagine? Only 5 forgings!”
+
+“It's a surprise, all right.” Ren said as he dismissed the popup. “Any chance you know where he is now?”
+
+Dorcot laughed. “Are you kidding? He's been missing for nearly 5 years.”
+
+Ren blinked a few times. That's a little convenient.
+
+“It sure is.” Teepo said.
+
+Do you know anything about it, Teepo?
+
+“No, Ren. This is all new to me.”
+
+I guess you can't know everything, Mr. Smart and Wise. Ren teased his friend.
+
+“Bite me.” Teepo said indignantly.
+
+Ren snorted a laugh and clapped Dorcot on the shoulder. “Are you going to take a few days off, or do you want to keep working?”
+
+“This isn't work, Ren.” Dorcot grinned. “This is fun!”
+
+Ren took out another crate of diamond crystals and opened it. It was the crate that had the largest crystals that he'd dug up. Some were nearly 2 fists in size.
+
+“By the gods, Ren.” Dorcot said. “How many crates do you have?”
+
+“Only 8 more. These are the biggest ones I found.” Ren said and motioned to the crate. “I can always go and get more if you want.”
+
+“No... no...” Dorgot shook his head as he stared at the crystals. “I think... I think I'd die if you found any bigger ones.”
+
+Ren laughed. “Go ahead and have fun.”
+
+There was a knock at the door and Ren went to answer it. It was the delivery of the rest of the fabric and Ren went outside and stored all of the rolls. He thanked them for the prompt delivery, and asked if they wanted a toy to play with. He showed them what it was, and 3 of the 5 drivers laughed. Ren spun it on the back of the cart in front, and they watched the coin spin. He asked again and they all declined the toy and left. Ren ran down to the stable and knocked on Ruck's cabinet.
+
+“I need your help again, Ruck.” Ren said.
+
+The cabinet opened and he climbed up onto Ren's back. Ren ran back to the workshop and deposited all the rolls of fabric by the door. The woman doing the sewing stared at all of the bolts of fabric.
+
+“I'll be helping in a minute.” Ren said, and saw relief on her face. He turned to the opening in the side of the building and asked the women shoveling to come inside. Ren asked Dorcot to join him, waited for the powder to finish coming down the chute and into the sacks waiting for it, then spoke.
+
+“Don't be frightened.” Ren said. “I'd like to introduce my friend, Ruck.”
+
+The gathered people looked around and then at Ren.
+
+“He's my backpack.” Ren smiled. “Wave to the nice people, Ruck.”
+
+Ruck waved an arm at them and one of the women gasped.
+
+“It's okay. He won't hurt anyone. He's my helper.”
+
+“Your helper?”
+
+Ren nodded slightly. “He can move around on his legs, pass me things, and even cut fabric.”
+
+“That... that's great!” The woman who was sewing said. “I wish I had a helper to do that.”
+
+“He's definitely gotten me through a couple of tough jobs.” Ren said.
+
+“You said he can walk around.” Another woman said. “Where are his legs?”
+
+Ren pat the legs wrapped around his waist. “I designed him like a beetle.”
+
+“He's got 6 legs?” Another one asked.
+
+“Ruck, you can climb down.” Ren said.
+
+Ruck climbed down from Ren's back and walked in front of him.
+
+“That's pretty neat.” One woman said and knelt. “It's nice to meet you, Ruck.”
+
+Ruck reached out a hand to shake, and the woman chuckled as she took it. Ruck turned her hand to face his head, stepped close, then bent over her hand slightly. Several women gasped and the one who received Honor had a shocked look on her face.
+
+“Well, isn't that a sight.” Dorcot said and laughed. “Even your backpack has proper manners.”
+
+Several women started to laugh as well, and it didn't take long for them all to kneel and be greeted by Ruck.
+
+“Let's get to work, Ruck.” Ren said. Ruck gave the 'okay' gesture and walked to the end of the room and climbed up the wall, then stepped over to the forge. Ren followed him over and flipped the 4 wind stones up on their ends so they pointed towards the ceiling. He had Ruck pour the smelter into the four 10 foot long molds that were still on the floor and Ren spread the molten steel out. He flipped the wind stones back down and walked over to help sew sacks. Ren repeated this process for about 6 hours, adding more ore to the smelter, pouring more molds, and sewing more sacks.
+
+“Break time, Ruck.” Ren said when the smelter was almost empty again. He added more ore and filled it up and let it simmer. “I'm going to spend a bit of time with Nathalia.” Ren said. “I'll be back in about a half hour or so.”
+
+Ruck waved and Ren smiled.
+
+“You could come over here and help me cut fabric.” The woman who was doing the sewing said. Ruck gave a 'thumbs up' gesture and he climbed down off the forge and skittered over to where she sat. Ren left the workshop and walked down the road to the house. It seemed kind of odd to not see Barnar and his crew working on the outside of the Keep. Ren nodded slightly to Golir and went through the gate and into the house.
+
+“Nathalia?”
+
+“I'm in the kitchen.”
+
+Ren walked through the main room and into the kitchen. He took a breath in through his nose. “Is that cheese?”
+
+Nathalia turned around and held a plate of cheese and sliced bread.
+
+“Did you see me coming?” Ren asked.
+
+Nathalia shook her head. “I assumed if you were going to take a break, it would be around noon.”
+
+Ren smiled as she came towards him. “Where should we sit?” He asked.
+
+“There's room on the couch.” She said. “If we sit really close.”
+
+“That might make it harder to eat.” Ren said. “I might be too busy staring at you.”
+
+Nathalia grinned. “I'll risk it.”
+
+*
+
+Elerlyth had her quarry well in hand. It had been child's play to secure him, as he'd never once suspected that she knew who he really was. Elerlyth had borrowed a cart to get him to where he was to be delivered. She pulled up to where the directions had said to go, and climbed down. She tied off the horse on the post there, and reached for the squirming sack in the back. It hit her arm and she punched it. She heard a grunt, grabbed the sack, and dragged it out onto the ground.
+
+“Hey! Not so rough!”
+
+Elerlyth laughed. “You haven't seen rough yet.” She said and dragged him across the ground to the door of the small shack. She knocked 3 times, then once, then 3 more times. It opened and a sword was thrust out to stop an inch from her chest.
+
+“Is that really necessary?” She asked the hooded figure. “How else would I know to come here, if I wasn't invited?”
+
+The sword dropped away, and the hooded figure stepped back. Elerlyth dragged the sack inside and the hooded figure shut the door behind her. She waited as he passed by and opened the other door. Inside was a set of stairs and Elerlyth grinned.
+
+“Okay, now it's going to be rough.” She said and proceeded to drag the sack down the stairs.
+
+“Ow.” “Ow.” “Ow.” “Dammit.” “Ow.” “Ow.” “Geez.” “Ow.” “Ow.” “For god's sake, stop!”
+
+“Okay.” Elerlyth said as she stood at the bottom of the stairs.
+
+“About time.” Another hooded figure said. “I thought you'd never find him.”
+
+“Once I knew where to look, it was just a matter of time.” She said.
+
+“He's waiting inside.”
+
+“Lead the way, Emanon.”
+
+“Hey, you know his number one rule. No names.”
+
+“That's a stupid rule.” Elerlyth said. “Especially since you all know each other.”
+
+Emanon smiled inside the hood. “But no one else does.”
+
+“Fine.” Elerlyth said and rolled her eyes. “Lets go.”
+
+He led the way into the next room and opened the door there. A chair was positioned in front of a desk, and pieces of wood were scattered across the floor. Elerlyth dragged the sack into the room and several hooded figures picked the sack up and sat it in the chair. Emanon flicked out a knife and cut the sack.
+
+“Hey, that's my good sacking sack!” Elerlyth exclaimed.
+
+“I'll pay you for it.” Tristan said, and tossed her a gold coin. “Here.”
+
+“It was worth more than-”
+
+“QUIET!” One of the hooded figures said, and Elerlyth frowned as yet another sword was held out towards her.
+
+“I didn't come here to be threatened.” She scowled at the hooded figure.
+
+“No, you were delivering a package.” Tristan said and pulled the sack down to reveal Micheal. “The wrong package, apparently.”
+
+Elerlyth laughed. “I wouldn't be here if it wasn't the real target.” She said. “I didn't even accept the job until I was sure it was him.”
+
+Tristan looked at Emanon, who nodded.
+
+“Can you confirm...”
+
+Elerlyth opened the message system and sent Emanon the info on the Call ID switch.
+
+“Son of a...” Emanon started to say. “His Call ID's been changed. This really is 'Mitchell'.”
+
+Tristan let an evil grin spread across his face and stepped up to Mitchell. “You failed to do a simple job, Mitchell.”
+
+“Simple? Are you an idiot?” Mitchell laughed. “He tore me apart like I was nothing.”
+
+Tristan laughed, too. “He was only Level 2 during the expedition. You're lying.”
+
+“No, he isn't.” Elerlyth said, then covered her mouth.
+
+Tristan looked at her. “So, we have a lie detector, do we?”
+
+Elerlyth shook her head. “No. I can... feel his fear a little bit. It dropped when you asked about the fight.”
+
+“Good enough.” Tristan said and turned back to Mitchell. “You took a marker for it, and never brought it back.”
+
+Mitchell nodded.
+
+“Where is it?”
+
+“Obviously, I don't have it.” Mitchell said. “I went back to where he killed me, and it wasn't there.” He frowned. “He must have taken it when he took my short sword.”
+
+“Goddammit!” Tristan said, and punched Mitchell in the face, mulching it. He'd used the hand with the enchanted glove, and dismissed the popup about killing a party member. Silence filled the room as he took several deep breaths.
+
+“Sir, that wasn't necessary.” One of the hooded figures said, and Tristan turned to him.
+
+“I'll decide what's necessary here.” Tristan said, calming down. “I need to find that marker.” He turned to Elerlyth. “You've done a good job by bringing me that.” He motioned to the slumped body that was starting to fizzle away. “I need you to find someone else.”
+
+Elerlyth shook her head. “You didn't say this was going to be an execution.” She said. “I wouldn't have taken the job if you had.”
+
+Tristan smiled and pulled out a sack of gold coins. “I didn't pay you for the job yet.” He said and opened the sack to reveal about 100 gold. “I'll double this if you can find him for me.”
+
+Elerlyth looked at the gold with disgust. “Keep it.” She said. “I may be a thief and a scoundrel, but I'm not a killer. Doing it in fights or battles, or even during missions is one thing; but not... this.”
+
+“Are you sure?” Tristan said. “I'll triple it.”
+
+Elerlyth scowled at him. “Who do you want so bad that you'd spend 300 gold to find?”
+
+“A little asswipe that's been a thorn in my side, for nearly as long as I've played.”
+
+“Does this asswipe have a name?”
+
+“Ren.” Tristan said. “His name is Ren.”
+
+Elerlyth's eyes widened slightly, and then pulled her sword out from inventory, swiped away the one that held her at bay and jabbed her sword into Tristan's chest. If she'd thrusted first, it might have worked; however, Tristan had seen her move for the kill and he'd grabbed her sword before it was an inch deep into his chest.
+
+“You will not hurt him.” Elerlyth said and pushed harder. The sword moved slightly, but Tristan had a hold of it with his enchanted glove. He smiled and made a fist with the glove, crushed the end of the sword, and pulled it from his chest and Elerlyth's grasp.
+
+“You know him.” Tristan said with a maniacal gleam in his eye, then jumped forward and punched Elerlyth in the chest, right below the mounds on her breastplate.
+
+“UGHH!” Elerlyth grunted and was pushed into the wall several feet away, then bounced off.
+
+Tristan looked at his glove and then at her breastplate. “Very nice.” He said and knelt by her to examine the shape of his knuckles in the metal. “I haven't met anyone that survived it before.”
+
+“Me, either.” Elerlyth said and tossed a palm-sized black spider onto Tristan's face.
+
+“AhhhhhHHHH!” Tristan screamed and jumped away. “Get it off! Get it OFF!”
+
+One of the hooded figures tried to help him, but when the spider felt hands grab it by it's body, it clamped it's enlarged jaws down on Tristan's nose.
+
+“AAAAHHHHHHHHH!” Tristan screamed at the pain, then venom pumped into his face.
+
+Elerlyth stumbled to her feet and thin hands grabbed her around the waist. She started to fight them off, but could barely move from the pain she was in.
+
+“It's me.” Emanon whispered and helped carry her to the door. “Now get out of here.” He shoved her out the door and shut it. Elerlyth got to her feet again and walked as fast as she could to the stairs. She climbed them on hands and knees, and struggled the whole way. Once at the top, she pushed open the door to the outside, stepped out, and closed it behind her. She jammed a dagger between the door and the frame, essentially nailing it shut. She made it to the cart, untied the horse, and climbed into the driver's seat. Elerlyth looked at her Health bar and sighed. It had dropped dangerously low.
+
+“I really hope Hailey hasn't used her Major Healing yet today.” Elerlyth said as she flicked the reins. The cart took off down the road and no one came out to follow her.
+
+*
+
+Ren had enjoyed spending some quality time with Nathalia on the couch. They'd only had one piece of bread and a piece of cheese each, before the makeout session had started. The half hour break was over before Ren knew it, and he grinned as he walked back to the workshop.
+
+We never did get back to the bread and cheese. Ren thought.
+
+“You were too busy nibbling on her ear, that's why!” Teepo chittered in laughter.
+
+Ren laughed and entered the workshop, then continued his pattern of Ruck pouring molten metal into molds, sew sacks while they cool, store the metal bars, Ruck pouring again, sew more sacks, smelt more ore, and repeat. He did this for 2 more hours, and then used the last of the molten metal to make a large metal liner, in the shape of a bowl, to be placed inside the back of a cart. He then went outside and made a cart for the metal bowl to fit in, and Ren secured it with nails all along the edge, leaving the bowl part nice and shiny.
+
+*
+
+“You're really lucky, Elerlyth.” Hailey said. “If I hadn't been home...”
+
+Elerlyth nodded as she got out of the bed.
+
+“What are you doing?” Hailey asked.
+
+“Leaving.” Elerlyth said.
+
+“No, you're not. You're still hurt.” Hailey said. “My ability for Major Healing only brought you up to half...” She pointed to Elerlyth's breastplate. “...and you really should take that off.”
+
+Elerlyth shook her head. “This thing saved my life.” He saved my life.
+
+Hailey laughed. “Elerlyth, we die all the time.”
+
+Elerlyth shook her head. “Not like this we don't. I never want to be in that kind of situation again.”
+
+Hailey's eyes widened. “What are you saying?”
+
+“I'm saying that the Dark Elf Mercenary is retired.” Elerlyth said and walked out of the room.
+
+*
+
+Once the modified cart was built, Ren gathered up more of the freshly delivered lumber and went inside to find Narhilda. He asked Nathalia where her mother was, and she told him that she was in her bedroom. Ren walked down the hallway to the door at the end, and knocked.
+
+“Y-yes?”
+
+“My Lady, are you all right?”
+
+“I'm fine.” Narhilda said.
+
+Ren leaned on the wall near the door. “It's okay if you're not.”
+
+A moment later the door opened and Narhilda stood there with tears in her eyes. Ren opened his arms and she stepped into them.
+
+“Everything is happening so fast.” She said and more tears flowed. “I have to be the Head of a House.” Narhilda sobbed. “I have so much responsibility now... and I've never had it before.”
+
+“Shhh.” Ren said. “I know it's a lot to deal with.” He leaned back and looked her in the eyes. “Nathalia and I are here for you, Narhilda.”
+
+“All these life changing decisions... people moving here... where to build everything...” Narhilda shook her head. “I don't know if I can do it.”
+
+Ren wiped her tears away and smiled. “Narhilda, you've been doing everything right so far. Why are you doubting yourself now?”
+
+She sniffed and walked back into her room, then came back with a roll of parchment.
+
+“What's this?” Ren said as she handed it to him.
+
+“It's an injunction from the Dwarf Council.” She said. “All work and petitions for residency currently taking place, are to cease until they can review our House's legitimacy properly.”
+
+Ren frowned. “I thought they were on break...”
+
+“They are.” Narhilda said.
+
+“...and when will this review happen?”
+
+“When the council goes back into session.” She said. “In 3 months.”
+
+“Well, crap.”
+
+“What are we going to do?” Nathalia asked as she came down the hallway.
+
+“The same thing we've been doing.” Ren said and smiled at them. “We're going to show them how to do everything right.”

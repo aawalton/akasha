@@ -1,0 +1,279 @@
+---
+id: 45bf45ce-6e63-563a-897a-a5705920a4a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 460 - On Their Way"
+slug: 0460-chapter-460-on-their-way
+partOf: mythrans-master-of-all-continued-completed
+position: 460
+ownLength: 3112
+unit: words
+publishedAt: 2017-12-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181942/chapter-460-on-their-way"
+royalRoadId: "181942"
+---
+
+The CEO of Sid Tec, Edward Torren, was beside himself as he watched Ren create a game-altering armor. He opened the top drawer of his desk and grabbed some antacid pills and popped a few of them.
+
+Nothing can touch him now. Edward thought and chewed on the chalky tablets. With that armor... He shook his head and picked up the phone. He dialed the head of the tech department and waited. After a single ring, it was picked up.
+
+“Hey, boss.” Max said.
+
+“How did you know it was me?” Edward asked.
+
+“I have your line marked with a red button.” Max said.
+
+“Oh.”
+
+“What can I do for you?” Max asked.
+
+“I want to know what the hell happened to my character build.” Edward said. “Hold on, I'm sending you a video clip.” He said and sent a clip of the armor stats.
+
+“Goddammit, he did it again.” Max said and sighed.
+
+“Thanks to you.” Edward said. “I saw what he got when he finished Shargon Caverns.”
+
+“I... damn, I didn't think he could do so well there!” Max said. “He barely killed anything!”
+
+“I know.” Edward said. “I even told Elise to give him my compliments on not slaughtering everything in sight.”
+
+“Then how...” Max typed furiously and then smacked himself in the forehead. “It was the bonuses. He gained a crap load of XP just from having the creatures die during his adventure.” He sighed. “How the hell did he get so much XP for helping people and creatures?”
+
+“I can only assume during some of the blue screen sections that he did something so altruistic that he gained someone's favor.”
+
+“You don't mean... oh, that was sneaky of him.”
+
+“You put him right in the home of the Earth deity. She was bound to meet him when he started to bypass all the tests and trials.”
+
+Max chuckled. “Wasn't giving the Spirit of Earth the Impenetrable Rock Creation ability the best idea?”
+
+“Mostly.” Edward said. “But that's beside the point now. What do we do?”
+
+“Did he use the ring to make the armor?”
+
+“No.”
+
+“Then all we have to do is wait.” Max said. “If he uses that ring...”
+
+“It's supposed to be a gift for the game messing up his XP gains.”
+
+“Oh, it is.” Max said. “But that thing is powerful. You know he's not going to use it for the cheap little things you wrote for the caveat.”
+
+Edward sighed. “I put in those limitations so he wouldn't wreck his character.”
+
+“Like it is now?” Max asked.
+
+“He isn't ready for this level of power.” Edward said. “He even admitted that it was overpowered.”
+
+“At least he knows it.” Max said. “He'll temper his usage of it... believe me.”
+
+“Max...”
+
+“Under your own orders, no one is to mess with him anymore.” Max said. “I'm sorry that my idea to get him out of the way inadvertently caused him to think about his skills in a way to create this... damn, I'd like that armor myself.”
+
+Edward chuckled. “He could have done this a while ago, right after he gained the Rule of Two when he mastered Enchanting.”
+
+“Yeah, but he never had the time until now... at least, he gave himself the time and put aside doing everything else.”
+
+“I did notice something.” Edward said. “Ren hasn't received any of the world event popups or quests.”
+
+“Yeah, about that. I... ah... when I put him in Shargon Caverns, it apparently gave him an exclusion tag for any Adventurer quests.”
+
+“WHAT?” Edward said. “How did that... no, it doesn't matter. Fix it now.”
+
+“I can't.” Max said. “He's been playing non-stop for-”
+
+“He was offline this morning!”
+
+“I'd need more time than that to dig the tag out of his character code.” Max said.
+
+“I can fix that.” Elise said from Edward's office doorway.
+
+Edward hit the speaker function on the phone so Max would hear her, too. “How would you fix it, Ms. Stanford?”
+
+“It's his birthday today.” Elise said. “I'm heading over there at lunchtime for the party his nurses have planned.”
+
+“How long can you keep him out?” Edward asked.
+
+“The rest of the day and the evening, since we're watching his show tonight.”
+
+“Max?” Edward said and looked at the phone. “Is that enough time?”
+
+“It should be.” Max said, and Elise strode over to her boss' desk and bent over the phone.
+
+“If you change anything beyond removing the exclusion tag on Ren's character, I will break every one of your fingers.” Elise said, her voice full of venom. “You will never touch a keyboard again without feeling pain.” She said. “Do you understand?”
+
+“Did you hear that, boss?” Max asked. “She just threatened me with bodily harm.”
+
+“Max.” Edward said. “I am ordering you to not touch anything... anything at all... on Ren's character except for the exclusion tag.”
+
+“But...”
+
+“I will fire you, and have you blacklisted.” Edward said.
+
+“WHAT? You can't do that! I own a third of this company!”
+
+“I believe a two-third's majority can override your one-third.” Elise said. “You and the members of the tech department have interfered with Ren enough.” She smiled. “You don't know how happy I was that he turned your punishment into a way to help so many people.”
+
+“What do you mean?” Max asked. “How did he get so much XP? Was it the Spirit of Earth that gave it to him?”
+
+“Ha ha, no.” Elise said. “Ren was just being himself and supercharged her with a Mana offering.”
+
+“You see, boss? I told you he was sneaky.” Max said.
+
+“He. Is. Not. SNEAKY!” Elise yelled.
+
+“Okay, okay. Take it easy.” Edward said to calm her down. “I assume you have a temporary secretary coming in to take over today?”
+
+“She's not temporary.” Elise said. “We hired her a month ago.”
+
+“You have a temporary secretary on the payroll?” Edward asked.
+
+“She's not temporary.” Elise said and turned around and walked towards the door out of the office. “I haven't been training a co-worker, I've been training a replacement.”
+
+“WHAT?” Edward exclaimed. “Ms. Stanford... Elise...”
+
+“I want to be near him.” Elise said. “I've watched him face challenges that any normal man would balk at.” She said and smiled. “Now, before you say 'only in the game', you haven't been paying attention to everything he's gone through.”
+
+“You can't just leave!” Max said from the phone.
+
+“I'm tired of watching you do things to him that I don't have any control over.” Elise said. “I've spent countless hours going over everything, both his real life history and in the game; and I've come to a conclusion.” She smiled warmly. “He's amazing.”
+
+“Elise...” Edward thought about pleading with her, and sighed instead. “Enjoy your time with him.”
+
+“Edward!” Max said from the phone.
+
+“I'm taking a leave of absence, at least until Ren doesn't need me anymore.” Elise said. “I sincerely hope that doesn't happen for a long time.” She said and shut the office door.
+
+“Boss, you can't just let her walk out.” Max said.
+
+“I'm not letting her do anything.” Edward said. “She is the one that kept this company going right from the beginning.” He sat back in his chair and crossed his arms. “The company is at the point now that she doesn't have any more work to do.”
+
+Max was quiet for several moments. “We have been getting more players just about every day.”
+
+“She was the one that canvassed, advertised, begged, and even coerced people into playing our games.” Edward said. “Making a player the star of a hit show was the best thing she's ever done.”
+
+“...and now she's leaving us for that star.” Max said.
+
+“Would you rather it be some rich and pretentious playboy?”
+
+“Um, Ren is both rich and a playboy.” Max said. “I'm also pretty sure he's pretentious, too.”
+
+Edward thought about it, and then laughed. “Okay... a tall rich pretentious playboy.”
+
+*
+
+Elise took the personal effects from her desk and put them in a plain cardboard box, which is what everyone seems to do when they leave a job.
+
+“You're really leaving this to me.” Her replacement said. “I kind of thought you were joking.”
+
+Elise put the photo of Ren she had on her desk in the box, and turned to look at the woman next to her. “I've stayed on this long just to make sure you had some idea how to handle everything.” She said and held a hand out. “Good luck, and don't let anyone bully you or push you around.”
+
+“Oh, I won't.” The woman said and shook the offered hand. “I learned from the best.”
+
+Elise chuckled and nodded, picked up her box of personal effects, and left the office. As she walked down the hallways to go to the front door, she was constantly stopped and asked why she had been fired. She told them all that she was only taking an extended leave of absence. Most of them believed her, and she left the building she had worked so hard to get the company big enough to get into.
+
+********
+
+Princess could feel that Ren was much more powerful than her, and she stood up calmly. Make me a deserving mount for you, My Lord.
+
+“You know I don't like doing this, because it stunts your normal stat gains.” Ren said. “But, I was told by a good friend that if I didn't make things to the best of my ability, then what's the point?”
+
+“That's a paraphrase.” Teepo chittered in laughter. “I said making it overpowered was the point.”
+
+“Close enough.” Ren chuckled. “Unequip your armor and gold hooves please.” He said to Princess. She was reluctant to give up her Legendary Hooves of Speed because she thought they were so pretty; but, she stored them and her armor a moment later. Ren felt how... diminished... Princess became without the Intelligence and Wisdom boosts, and he reached out and hugged her very, very gently.
+
+Ren opened her inventory and took her old armor and hooves out, then added the new armor and hooves. She equipped both right away and he closed her inventory, and she was enveloped in a golden glow for a full minute just like he had been. When the glow faded, a very over-powered Princess stood proudly in front of him.
+
+My Lord, please cast Permanent Air Walk on me. Princess thought, and Ren chuckled.
+
+“One step ahead of me.” Ren said and took out a wand. He used his Spell Combine skill to merge Permanency and Air Walk, then added the new spell to the wand. He cast it on her and on himself, then did the same with Water Walk and Permanency and cast that on both of them.
+
+My Lord, cast Permanent Magic Mouth on me. Princess thought to him.
+
+“Okay.” Ren said and did the same thing with Permanency and Magic Mouth and cast it on her.
+
+“Thank you, My Lord.” Princess said without opening her mouth.
+
+“You're welcome, especially because you just made me realize why the skeleton knights don't open their mouths when they talk.”
+
+Princess brayed her amusement, and Ren led her outside. Once there, he called over the skeleton knights and asked if they wanted their disguises to be permanent. They looked at each other, then at Ren.
+
+“If you want them permanent, make them permanent.” One of them said. “We know what we are, and so will anyone that has the ability or the spell to detect us.”
+
+“You're right.” Ren said. “I'll make them permanent just to save you from having to recast the spell all the time.” He said and cast Permanency on them. “I need at least two of you to keep patrolling the street for threats, and the other 8 of you I want on the wall to use the Spell Ballistas.”
+
+“We will head there right away.”
+
+“I can drop you off.” Ren said and took out the cart to attach to Princess. He cast Permanent Air Walk on it as well, and the skeleton knights climbed in as Ren climbed onto Princess. “Go slow, Princess.”
+
+“Yes, My Lord.” Princess said and they went up into the air like going up a steep hill, then she ran a little. They were at the wall a couple of seconds later.
+
+“That was slow! Ha ha!” Teepo chittered in delight.
+
+Ren dropped off a skeleton knight at the spot that the scout said was the most watched area of the county, which was about halfway along the wall. He gave it a Web Ballista and enlarged it to giant size. “It has a range of 1000 feet and makes a 100 foot wide circle of webbing.” He took out a Sleep Ballista next and made it giant-sized. “I assume this has a similar effect, but I didn't want to test it.”
+
+“I will use them both wisely.” It said.
+
+Ren nodded to the skeleton knight and leaned over the side of the wall. “Animated soldiers! Skeleton knights are above you, and you are under their command.”
+
+The animated soldiers gave him a salute, and he went a quarter mile along the top of the wall to drop off the next skeleton knight and gave it a Sleep and Web Ballista as well, and told the animated soldiers below them on the wall they were under the skeleton knight's command. He repeated this process 6 more times for the other skeleton knights as he dropped them off, unhooked the empty cart and stored it in Princess' saddlebag, then took out the All-Seeing Mirror.
+
+“The battle is starting.” Ren said and showed Princess the map and where she needed to go.
+
+“Climb up and hold on, My Lord.” Princess said. “I am going full speed.”
+
+Teepo chittered in laughter in anticipation, and Ren climbed up and bent down. He told Zetaya to duck down behind him and he held onto the fire elemental.
+
+“Go ahead, Princess.” Ren said. “We're ready.”
+
+Princess trotted to go up in the air a little, and then literally disappeared from sight. Ren was glad he had modified his own Amulet of the Spider, because he was pretty sure even with his stats, he wasn't going to hold onto her going to that speed almost from a dead stop.
+
+“BWAHAHAHAHA!” Teepo chittered as they crossed the entire countryside in under 2 minutes, crossed the uninhabited no-man's-land, and arrived at their destination in the High Elven Kindgom 2 minutes later.
+
+“That. Was. AWESOME!” Teepo chittered in delight. “We went so fast that I couldn't see a thing! Ha ha ha!”
+
+“My Lord, we are gods.” Princess said as she stood 300 feet above the horde of ghouls below them. “I dare say, we may even be beyond that.”
+
+“It depends on your definition.” Ren said and pointed. “The All-Seeing Mirror said the leaders of the High Elves army are observing from the top of that tower.”
+
+Ren activated his Mana Shield ability and a perfect sphere appeared around them. Princess slowly ran over to the tower, and they were hit with several fireballs, magic arrows, and then a hail of real arrows was shot at them.
+
+“Princess.” Ren said and she darted forward 60 feet instantly. All the arrows missed them completely, and everyone that wasn't in the tower had lost track of them. The High Elves in the tower could see them, since they were so much closer, and Ren could almost feel the Mana starting to build.
+
+Ren's personal Aura of 50 feet was now at 200 feet because of his Awesomeness Aura, his Dire Wolf Hooded Cloak gave him another 50 feet, his Important Bracelet of Unbelievable Magic gave him another 150 feet, Void Sense added 50 feet, Waterkin added 50 feet, and since everything was tainted with Fear, it added another 50 feet. That was a total of 550 feet without concentrating on anything, so he concentrated on his Command Aura and added another 50 feet, and he added his Reassurance Aura just because he could.
+
+Since Ren and Princess were only about 300 feet above the ground, his Aura covered a lot of the High Elves; which included the ones in the tower. He felt their shock that someone could approach them like this, and he did feel the Mana building.
+
+“I'm here to help, so stop attacking me.” Ren commanded, and he felt the Mana slow down and stop.
+
+“Why should we believe you?” The High Elf with the largest headdress said. He wore a harness over his shoulder and had 6 scrolls tucked into it, long robes, and a very sour expression.
+
+“You don't have to believe my words.” Ren said. “Believe my actions.”
+
+“But you haven't done anything.” One of the other High Elves said, and Ren saw that she wore a harness with 3 scrolls on it and long robes.
+
+“Exactly.” Ren said. “I haven't done anything to you.”
+
+The High Elves exchanged glances.
+
+“Tell your soldiers not to fire on me or my friends.” Ren said. “We're going to be too busy to fight you, too.”
+
+“You are right in the path of our most powerful spell casters.” A High Elf that stood behind the robed figures said. “They need a clear line of sight to the enemy.”
+
+“Not any more.” Ren said. “I'm here to stop this.”
+
+The High Elf laughed. “What's a single halfling going to do to several million undead ghouls?”
+
+“Me? I'm not going to do anything.” Ren said and smiled. “Zetaya's going to take care of them.”
+
+“Zetaya?” One of the spell casters asked, and Zetaya moved on Ren's back and lifted it's head stub to look at the High Elf that spoke. “Great Vasalor, it's a fire elemental.”
+
+“HA!” The High Elf in behind barked a laugh. “Do you honestly expect us to trust the security of our entire kingdom to a halfling and a half-grown fire elemental?”
+
+“I honestly don't care about you or your kingdom's security.” Ren said as he felt the High Elf's derision. “I'm only asking you to stop attacking me and my friends while we clean up this mess.”
+
+“Well, then.” The High Elf crossed his arms and his armor clanked. “Go ahead halfling. We'll halt our attack just long enough to watch you fail.”
+
+“That's all that I asked for.” Ren said. “Oh, and by the way.” He used his hands to flip his blonde fluffy hair off of his ears and pointed to them. “For your information, I'm an elfling.”
+
+“WHAAAAAAATT?!?”A very short raven-haired woman exclaimed as she stepped out of the shadows and stared at him.

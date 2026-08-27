@@ -1,0 +1,257 @@
+---
+id: f014e43e-8660-5549-83d2-35951da1dbde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 Collapse"
+slug: 0021-chapter-20-collapse
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 21
+ownLength: 2330
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3226892/chapter-20-collapse"
+royalRoadId: "3226892"
+---
+
+The forest stirred in uneven pulses beneath the canopy, deeper than the usual restless movement of goblins and kobolds. Branches bent and held while the underbrush flattened in widening arcs as something moved through it with deliberate force.
+
+“They are building again,” one of the archers muttered.
+
+Lucien held his silence.
+
+The southern ditch was already clogged from the previous assaults, its angled stakes half-buried beneath green corpses and broken shafts. Frost had melted into churned loam where blood and repeated trampling had softened the ground. The obstacle had become unstable, a mound of bodies and splintered wood.
+
+Dorian stood near the southern curve, gaze fixed beyond the immediate treeline.
+
+“Shields ready,” he called, voice still restrained but carrying a harder edge than before.
+
+The goblins spilled from the wood in jagged clusters, stumbling over one another as if pressed from behind. Their overlapped shrieks gave off a distorted ugly sound as they drove straight for the ditch.
+
+The archers loosed in response, though the dwindling supply made each volley more costly than the last.
+
+Several goblins dropped mid-stride, but the size of the horde absorbed the loss. Bodies crashed into the mound at the base of the wall, scrambling over the dead with frantic urgency. Some slipped and fell back while others clawed upward without regard for footing.
+
+Behind them, within the darkening forest, it appeared once more.
+
+He saw the brown-orange shape between trunks, moving forward in measured steps, compressing the space behind the goblins.
+
+Its red eyes caught the light and held it, burning coals of crimson.
+
+Dorian spotted it as well. “...Its a variant, My Lord."
+
+Lucien gave a slow nod. “It seems to be driving them.”
+
+The first impact struck the southern section with more force than any before. The ditch absorbed part of it, but the strain carried through. The mound of bodies shifted under the new weight, sliding sideways and compacting against the stakes.
+
+Several angled posts snapped and the line of militia shuddered.
+
+“Hold!” Dorian’s voice cut through the collision.
+
+Along the inner ramp, two of the Ashridge guards tightened formation, shields angled inward as if bracing for something heavier than the first impact.
+
+Bran braced at the front, shield rim grinding against another as goblins reached higher than they had previously.
+
+Dalen sealed the seam to his left with a step and a shoulder, driving his spear downward in controlled thrusts.
+
+Tomas, still pale beneath the grime, held in the second rank, his wounded arm stiff. He shifted half a step closer than required, angling his shield to overlap Dalen's rim more fully.
+
+“I’ve got it,” he muttered under his breath.
+
+Dalen kept his focus forward, adjusting his footing instead while pressing his shoulder more firmly into the seam they shared. “Hold steady, Tomas. Not fast.”
+
+Tomas gave a tight nod that Dalen never saw.
+
+More goblins poured forward in a relentless surge, those that reached the ditch below the wall found footing on bodies of their own rather than soil.
+
+At the eastern curve, movement flared at the same time.
+
+Kobolds broke from the reeds near the river bend, racing in sharp, erratic lines toward the shallower section. They snapped at goblins who crossed their path, one kobold latched onto a goblin’s arm mid-scramble, dragging it down into the churn before being kicked aside by another.
+
+The clash below the wall came in overlapping surges as goblins trampled on one another while kobolds lunged for exposed throats of both.
+
+“They’re fighting each other!” Tomas shouted from behind his shield.
+
+“Doesn’t matter,” Dorian snapped, his restrain fraying.
+
+He was right.
+
+The infighting only fed the pressure, individual beasts shoved, bit, and clawed for space, and the combined weight drove them forward.
+
+Another angled stake cracked under the strain, the mound at the base of the southern ditch began to slide inward, compressed too many times under too much weight.
+
+Frost-slick earth gave way beneath the churned loam, and a section near the seam Dalen held sank half a foot lower than before.
+
+“Ditch is failing!” someone cried.
+
+The next surge struck as the ground shifted.
+
+This time, the impact concentrated on the sagging section, where the beasts had found purchase on collapsed wood and compacted soil.
+
+The variant stepped closer and everything in front of it moved.
+
+Lucien felt the pattern break inside his mind.
+
+The ditch groaned beneath the weight.
+
+The next impact did not disperse across the line of militia, instead it struck the sagging section of the ditch below the wall, where the angled stakes had snapped and the churned earth had compacted into unstable footing.
+
+The mound of bodies shifted again under fresh weight, the frost-slick soil gave way beneath the compressed loam, and the lower edge of the ditch sank with a dull, sickening shift.
+
+A goblin found purchase where the line had held firm moments before. Its fingers hooked over the rim of a shield, its weight dragging downward while another scrambled up behind it.
+
+“Seal it!” Dorian’s voice cut through the crash of wood and iron.
+
+Dalen moved first, stepping into the sagging seam without hesitation, driving his shield down to meet the rising claws while thrusting his spear overhand into the mass below. The footing beneath him shifted as the ground continued to move beneath his boots, but he adjusted his stance and held.
+
+Tomas shifted to reinforce him and for a breath, the overlap aligned.
+
+Then the ditch gave again, causing the compacted mound beneath the wooden stakes to collapse inward. The mass of goblins and kobolds were crushed together as the angled posts tore loose from the softened earth.
+
+What had once been a barrier became a ramp of tangled limbs and splintered timber.
+
+The goblins surged over it in a relentless mass, forced forward by the weight of those behind it.
+
+The first of them reached the wall proper, slamming into shields at arm’s length rather than climbing from below. The impact drove the southern segment backward half a step.
+
+Lucien felt the shift beneath his boots and knew, in that instant, that the structure had failed.
+
+“Second rank forward!” he ordered.
+
+Dorian signaled two of his sworn household guards to shift along the inner walk, they stepped in only as the line began to bow, then withdrawing again before the press closed around them.
+
+The response came a fraction too slow, the men were already engaged at closer quarters than they had trained for. Their spears had less room to thrust while their shields collided at uneven angles.
+
+Tomas lunged to meet a goblin that had climbed higher than expected, his wounded arm trembled under the weight of his shield as he twisted to thrust downward. The blade of the goblin’s crude weapon glanced off his rim and caught the edge of his knee.
+
+His boot slid on the churned wood, and the alignment between shields slipped a fraction.
+
+It was only half a step, but it was enough for the seam to open.
+
+Dalen moved to step into the space Tomas had opened, as he always had. He shoved him back with his shoulder and planted himself in the gap as two goblins spilled over the collapsed ditch and crashed into him at once. He braced, boots grinding against wood slicked with mud and blood.
+
+Another goblin clawed up from the side, hauling itself onto the unstable slope where the ditch had given way. Kobolds darted in at the edges, snapping at exposed ankles, one latched onto a goblin mid-climb dragging it sideways.
+
+The variant lingered behind the horde of beasts, closing the distance by a few deliberate steps, and that was enough to compress everything in front of it.
+
+The goblins surged without hesitation, the force from the rear drove them against the wall in compacted layers. Those at the front had nowhere to go but up.
+
+Dalen’s shield split along its rim.
+
+Lucien saw it happen.
+
+A crack formed near the iron band, widened under strain, then tore as another goblin slammed into it from below. Dalen held his ground, shifting his grip and driving his shoulder into the gap between the shield wall.
+
+“Back!” Dorian roared, but the line had nowhere to yield.
+
+Tomas tried to regain his footing, his injured arm faltered under the renewed weight. A goblin’s claws hooked the lower edge of his shield and dragged it down. He fought to wrench it free.
+
+Dalen turned half a fraction toward him.
+
+That was the last clear movement Lucien saw.
+
+The next surge hit in layered force.
+
+Three goblins climbed over the collapsed ditch simultaneously, their combined weight striking the compromised seam where Dalen stood. A kobold darted in beneath them, snapping at anything it could reach. The shield gave way entirely and the beasts spilled forward into the gap before the second rank could close.
+
+Dalen drove his spear once more, impaling one through the throat, but another latched onto his arm and dragged him downward. His footing slipped on the unstable slope as he fell to one knee, still braced between shield rims, holding the seam with his own body.
+
+More weight crashed into him.
+
+He disappeared beneath it.
+
+Tomas lunged without thinking.
+
+“Dalen—”
+
+Dorian’s hand caught the back of his jerkin and wrenched him sideways with punishing force before he could break formation. His wounded arm buckled as he stumbled, fury and disbelief flashing across his face in the same breath.
+
+“Hold the line!” Dorian roared in the young man's face.
+
+For a heartbeat, Tomas strained against the grip. Then he forced his shield forward instead.
+
+The line buckled inward as goblins poured over the collapsed section. Men shouted desperately as their shields overlapped in awkward angles. A goblin crested the wall walk and was cut down instantly by Bran, who stepped into its path with brutal force, driving it back over the edge.
+
+Lucien moved without thinking.
+
+He seized the nearest shield and shoved it into the open space where Dalen had stood, forcing the second rank forward with physical pressure rather than command. Bran shifted right to anchor the new seam while Tomas, jaw clenched white, forced himself upright and slammed his rim into alignment despite the tremor running through his injured arm.
+
+Goblins clawed and bit, as those behind them had begun to clash among themselves as space constricted. A kobold dragged a fallen goblin sideways, only to be crushed beneath another surge from behind.
+
+Arrows no longer fell in disciplined volleys, the remaining shafts were loosed into immediate threats.
+
+The variant stopped its advance causing the horde of beasts in front of the shield wall to begin to thin.
+
+The mound below shifted once more as goblins dragged their fallen away in fractured retreat. Kobolds snapped at stragglers, then scattered sideways into brush.
+
+The red eyes remained visible between trunks for one suspended moment longer.
+
+Gradually, the horde fell back into the treeline, the pressure at the wall easing as red eyes withdrew into shadow and the forest settled into uneasy stillness.
+
+The palisade walls had held but the ditch below had become a collapsed ramp of splintered timber, crushed corpses, and churned earth.
+
+The gap in the wall where Dalen had stood remained.
+
+For several breaths, no one moved.
+
+The wall held, but the pace of combat had fractured into silence broken only by strained breathing.
+
+Lucien lowered the shield he had forced into place.
+
+His arms trembled when the weight shifted away, muscles unaccustomed to sustained strain quivered along his shoulders and spine, and the imprint of the rim burned against his forearm. The wood beneath his boots was slick, and when he stepped back, the sole caught briefly in something that gave before sliding free.
+
+Below, the collapsed ditch had become unrecognizable as a defensive work. The angled stakes lay broken or buried beneath compacted corpses and churned earth.
+
+“Count,” he said, and the word felt heavier in his mouth than any command he had given before.
+
+It carried more quietly than Dorian’s commands had, but it carried.
+
+Names answered along the line, uneven but present.
+
+Bran.
+
+Tomas.
+
+Others followed, breathless acknowledgments, some steady, some wavering.
+
+There was a pause before the next.
+
+“Dalen,” someone called.
+
+No answer came.
+
+Lucien did not look immediately.
+
+He stepped forward instead, peering down into the sloped ruin where the ditch had failed. Goblins dragged their fallen away in fractured retreat, and a kobold snapped at a straggler before darting sideways into brush. The red eyes were gone and the deeper wood stood still.
+
+Near the center of the collapse, beneath a tangle of green limbs and splintered timber, a familiar sleeve showed through.
+
+Dorian descended first, careful not to destabilize the slope further, two others followed soon after. They worked in silence, hauling bodies aside with controlled urgency rather than panic.
+
+Two of the household guards moved to seal the damaged section while the body was lifted, shields locking where the ditch had collapsed. They did not speak, simply taking over the space that had been lost.
+
+When they pulled Dalen free, there was no dramatic revelation.
+
+He had fallen forward, his hands still closed as if holding the seam in place.
+
+Lucien remained where he stood as they carried him up.
+
+Blood stained the frost again, darker this time against the failing light.
+
+The line had held.The wall still stood.The beasts had withdrawn.
+
+But the ditch had failed.
+
+And Dalen had died not because the goblins had coordinated, nor had they breached with strategy, but because pressure had found a weakness and multiplied until the structure could no longer hold.
+
+Lucien understood then, with a clarity colder than the evening air.
+
+It was not unity that threatened them.
+
+Enough bodies forced into narrowing space would always overwhelm whatever stood before them.
+
+He had built a defense to repel waves.
+
+This had been weight.
+
+Behind him, the forest remained unsettled, its depths darker now as dusk settled fully over the village.
+
+Ashridge had paid its Tithe.

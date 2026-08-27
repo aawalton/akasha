@@ -1,0 +1,235 @@
+---
+id: 7c1d8d6f-3127-5f79-a4b7-9d38bf3f85ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69 Refinement"
+slug: 0074-chapter-69-refinement
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 74
+ownLength: 2303
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3474528/chapter-69-refinement"
+royalRoadId: "3474528"
+---
+
+After the previous day’s strange…incident, Alicia had been avoiding his eyes for some reason.
+
+It wasn't the same uncertain look she had when they had first met. If anything, she seemed to be watching him from the corner of her eyes, only to blush for no apparent reason when she thought he wasn’t looking.
+
+When he had asked Talia what the reason might be, she had only given her usual teasing smile. It had been rather satisfying to flick her forehead after that.
+
+Still, she assured him it was nothing serious. True enough, Alicia had returned to her usual self not long after.
+
+The nervousness Alicia carried now came from something else entirely.
+
+She stood to the side of his desk, fingers twisting lightly in her apron as he looked over the drawing once more.
+
+The crowbar was perhaps the most practical tool he could ask Joren to make for clearing the rocks from the western fields.
+
+A slight movement caught his eye. He glanced to the side to find Alicia looking more uncertain.
+
+“Did you adjust the length of it, Alicia?”
+
+Alicia straightened where she stood. “Yes, My Lord,” she said quickly, then caught herself. “I mean...I thought it might be better if it was a little shorter.”
+
+Her gaze dropped to the drawing. “The way it was before...it felt like it would be harder to use for long. So I...tried to move it here.”
+
+She lifted one hand, hesitating for a brief moment before pointing just above the parchment instead of touching it.
+
+Lucien’s gaze followed the motion. “What about the angle of the head?”
+
+Her eyes lingered on the drawn tip, a faint crease appearing between her brows. “It...didn’t seem right before,” she admitted, “If it’s too flat, it won’t catch. But if it’s too steep, it might get stuck…”
+
+“So I just adjusted it until it felt right.”
+
+He regarded the drawing in silence for a moment. "What sort of reference did you use to draw this?"
+
+Alicia hesitated, her shoulders drawing in slightly. “I looked at the other tools. The ones we already have…and I tried to imagine how they would feel to use.”
+
+She clasped her hands together. “It might not be right,” she added quickly. “I can fix it if-”
+
+Shaking his head, Lucien gestured toward the parchment before him. “No, its fine. I was merely surprised at how much it improved despite my lack of involvement.”
+
+Her gaze lifted, a hint of surprise crossing her expression before a faint smile touched her lips as her posture straightened. “…I’m glad.”
+
+Lucien glanced back toward the parchment. There were no visible charcoal marks to suggest repeated revisions.
+
+Alicia had drawn this in her first attempt after the initial draft.
+
+He set the thought aside and focused on the matter at hand. “This will help, Alicia.“
+
+She gave a small nod, her earlier tension easing as her hands relaxed and folded in front of her.
+
+Rolling up the parchment, he added, “I will bring it to Joren and Harlon so they can begin making one by today.”
+
+Alicia’s gaze lifted to meet his. “I heard from my father. Is it for the western fields…?” she asked carefully.
+
+“The ground there requires it. Their fields were settled closer toward the ridges.”
+
+Her eyes drifted briefly toward the folded parchment in his hand. “…I hope it helps,” she said, almost to herself.
+
+Rising from his desk, he put on his gloves and clasp his cloak on his shoulder. “It will, though it will take time before the benefits become apparent.”
+
+“I will be back for lunch. Likely with Sera.”
+
+Alicia dipped her head. “Then I will wait for the both of you, My Lord.”
+
+She seemed to consider something before adding, her hands tightening together as she gave a small nod to herself. “And I’ll ensure Lady Talia doesn’t help herself to the best portions again.”
+
+Lucien inclined his head in acknowledgment as he turned to leave the study, a faint crease at the edge of his mouth.
+
+It was the sounds from Harlon’s workshop that reached him first.
+
+As Lucien neared the workshop, he could hear the distinct tone of iron against wood, along with the steady cadence of laborers sawing and processing timber from the southern palisades.
+
+Light filtered through the wide entrance, catching along suspended dust and the rough surfaces of half-finished pieces set along the walls.
+
+Harlon stood near the central workbench, one hand braced against its surface as he examined a length of shaped wood. His posture was relaxed, though his gaze shifted occasionally toward the blacksmith working on a particular object.
+
+Joren’s broad frame was angled over another section of the bench. A tool rested in his hand as he worked along the edge of a component with slow, deliberate strokes.
+
+Neither man looked up as Lucien paused at the threshold, his gaze settling on the piece being worked on by the blacksmith.
+
+Its shape was unmistakable, even if it was still crude at the moment.
+
+He stepped past the threshold, the sound of his boots against the wooden floor enough to draw the attention of both men.
+
+The tool in Joren's grasp gradually came to a stop before he set it aside and straightened.
+
+Harlon followed a moment later, looking up from the length of treated wood he had been examining. “Lord,” he greeted, setting it aside.
+
+Joren grunted in acknowledgment, wiping his palm against a cloth before resting it against the edge of the bench.
+
+Lucien inclined his head in return as he continued toward them, his attention briefly settling on the assembled parts spread across the table. “It seems you two have been busy.”
+
+Instead of addressing the weapon before them, he lifted the rolled parchment he had brought with him. “There is something else I would have you both look at first.”
+
+He unfolded it with a small motion and placed it flat upon the workbench between them.
+
+Leaning forward, Joren's eyes narrowed as he took in the shape before letting out a huff.
+
+“...That one again.”
+
+Harlon stepped closer to regard the lines more slowly, tracing the curve of the iron head and the length of the shaft.
+
+Joren studied the drawing for a moment before tapping the drawn head. “A crowbar. I've made something like this more than once...but this one’s more consistent.”
+
+He straightened, folding his arms loosely. “The lass brought a bunch of drawings...told you about it a while back, about how she came asking what else could be made.”
+
+Lucien inclined his head before gesturing toward it. "Did she consult you about this one? The measurements in particular seem...precise."
+
+Rubbing his hand across his beard, Joren brows creased. “I may have given some advice here and there about the other ones. But I couldn't find anything wrong with this one. Would've been the same if I had done it..."
+
+One corner of his mouth twitched. "...Mine might've been a little worse."
+
+Harlon had remained silent, his eyes fixed on the drawing for several breaths before they lifted toward Lucien.
+
+“...Western fields?”
+
+Before he could respond, Joren let out a scoff.
+
+“That lot’s been grumbling again? The former lord had offered some of them to move after we lost a few fields in the east. They should’ve taken the offer when they had the chance. Been stubborn about it for years.” the blacksmith said, a hint of disdain in his voice.
+
+Lucien shot the blacksmith a dry look. "...Aren't you just as stubborn as well?"
+
+At his words, Joren's eyes widened as color crept into his face before slowly receding beneath a scowl.
+
+A huff escaped Harlon before he nodded toward Joren. "This grump here is just holding a grudge, Lord. One of the men from the western fields had spread some rumors about Alicia."
+
+Joren folded his arms tight, scowl still on his face. "Hmph. It was a load of bollocks about how she was trying to catch the former lord's eye."
+
+He gave a dismissive shake of his head. "She was even more shy back then."
+
+Lucien looked between the two men for a brief moment. "...Bran didn't mention that to me yesterday."
+
+Harlon scratched his beard lightly before giving a faint shrug. "The one who started those rumors left the village long before your appointment, Lord. No point in bringing up old memories."
+
+A snort escaped the blacksmith, prompting Lucien to glance toward him, one brow raised.
+
+"He just doesn't want your decision to be affected by his own personal problems, Lord. It was a long time ago and we kept it from the lass as well."
+
+Lucien shook his head before he decided to focus on the topic at hand. “We can't afford to neglect one side of the village and even if they had wished to move now, I would not allow it.”
+
+“To concentrate all of our food production in one area invites unnecessary risk. If something were to happen to the eastern fields, we would have little left to fall back on.”
+
+The principle of "placing too many eggs in one basket" remained the same, even in this world.
+
+Joren clicked his tongue once, though he gave a short nod a brief moment after. “...Hnh. Maybe,” he muttered.
+
+The carpenter inclined his head in agreement. “Better to spread the risk wide. The west side of the village has always been neglected because of the ground there.”
+
+Lucien’s gaze returned to the drawing. “That is why I brought this. It would make work on the rocky soil easier.”
+
+Joren exhaled roughly through his nose before finally speaking. “It's simple enough to shape and my apprentice could handle most of it. Would be good practice for the lad.”
+
+“Though if I put time into this, it’ll slow the plows,” he added bluntly.
+
+Lucien nodded in response. “The eastern fields are already ahead of schedule. A delay there is acceptable.”
+
+His gaze shifted between the two craftsmen.
+
+“How long for one?”
+
+The blacksmith rubbed his beard briefly before answering. “If I rush it...tomorrow. With the lad helping.”
+
+“I’ll handle the haft,” Harlon added. “If it’s meant for rough ground, it’ll need to hold.”
+
+“Head’ll do most of the work.”
+
+“Only if the haft doesn’t snap first.”
+
+Before the familiar exchange could continue, Lucien cut in. “Have it ready. I will send Tomas to collect it.”
+
+At his words, the debate faded as both men nodded in agreement. Harlon had already begun rolling the parchment carefully for later reference, while Joren picked up the assembled piece and set it between them.
+
+With the matter settled, Lucien’s attention shifted to it, taking in the curve of the bow, the stock beneath it, and the fitted mechanisms.
+
+“...Now,” he said, his gaze resting on the prototype crossbow.
+
+“Let us see how your work has progressed.”
+
+Joren nudged the assembled piece forward across the workbench, the weight settling with a dull sound against the wood. “Been putting it together these past few days. The frame’s done and the string’s set.”
+
+Lucien gave a slow nod as he continued examining the weapon.
+
+“Draw’s held by this,” the blacksmith added, tapping a simple mechanism set into the body. “Locks in place once you pull it back, don’t need to hold the tension yourself.”
+
+Harlon stepped closer after setting the parchment aside, one hand resting lightly against the bench. “Takes the strain off the arms. Even someone without much strength could manage it.”
+
+Gesturing toward the crossbow, Lucien asked, “How likely is it to fail during use? We can't have the men who are using it injure themselves in rougher conditions.”
+
+The blacksmith rubbed a hand along his beard in thought. "It holds steady enough as long as none of those fools try to put their hands in it."
+
+“A bow's string can sting just as much, Lord.” Harlon added. “And with this, you don’t have to draw and loose in one motion. You can take your time with it.”
+
+Lucien folded his hands behind his back. "How about during battle? Has it been tested to see how much punishment it can take?"
+
+At the mention of stressing the weapon, Joren let out a breath clearly not liking the idea of purposefully damaging a piece he had helped make. "Not yet, Lord. Figured we should test to see if it even works proper first."
+
+Harlon drew on his pipe though he didn't light it. "Better to wait till we have more than one for that, Lord."
+
+Giving a faint nod, Lucien regarded the weapon briefly before asking, “And the force?”
+
+The blacksmith considered the question for a moment. “Stronger. At least at closer range, short shaft’ll hit harder than an arrow.”
+
+"Bolt."
+
+The two craftsmen exchanged puzzled looks, their eyes shifting from the weapon to him in question.
+
+"That is what we will call it," he continued, keeping his tone neutral. It was easier to use the term he was familiar with than to come up with a new one.
+
+Joren gave a noncommittal grunt while Harlon's eyes remained on him for a moment before he spoke.
+
+"The bolt carries well enough though we've not tested it at range yet."
+
+Joren let out a short breath. “That’s the trade, takes longer to ready the next shot. You’re not firing this as fast as a bow.”
+
+“Heavier too,” Harlon said, gesturing toward the piece as a whole. “Not something you carry all day without feeling it.”
+
+Lucien gave a small nod. “It is as we expected. It was never meant to fully replace the bow, only act as a supplement.”
+
+The blacksmith glanced at him, then gave a short grunt. “Aye. That’s about right.”
+
+Harlon’s gaze lingered briefly on the weapon before looking back toward Lucien. “We’ll know more once it’s been tested properly, Lord.”
+
+“Then we will test it.”

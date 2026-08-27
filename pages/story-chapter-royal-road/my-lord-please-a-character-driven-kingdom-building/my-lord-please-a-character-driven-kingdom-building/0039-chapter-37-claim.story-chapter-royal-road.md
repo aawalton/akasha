@@ -1,0 +1,305 @@
+---
+id: 26826cb9-b788-54a6-98a7-46c813029aa8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 Claim"
+slug: 0039-chapter-37-claim
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 39
+ownLength: 2522
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3301739/chapter-37-claim"
+royalRoadId: "3301739"
+---
+
+The rider was brought through the manor doors while the last light of evening faded beyond the western hills.
+
+The manor hall was quieter than the courtyard had been. The low murmur of gathered villagers had been left behind outside the doors, replaced by the steady crackle of a small fire that burned within the hearth along the far wall.
+
+Lucien crossed the hall slowly before stopping near the long table that stood beneath the central beams. Dorian remained a short distance behind him while Elias closed the door once the guards had guided the exhausted messenger inside.
+
+The rider still looked unsteady on his feet, shoulders sagging with the lingering strain of the journey. The cup of water he had been given in the courtyard remained clutched loosely in one hand.
+
+Near the far side of the hall, Alicia stood quietly beside one of the narrow windows that overlooked the courtyard below. The fading light from outside fell across her shoulder while her gaze rested upon the small gathering in the center of the room.
+
+Sera lingered not far from her, standing close enough that the girl’s presence might easily be overlooked unless one were looking for it.
+
+Lucien regarded the messenger for a moment before speaking. “Start from the breach,” he said. “Where did they break through?”
+
+The rider steadied himself, drawing a rough breath. “The southern gate first, Milord. Then a part of the wall next...they kept coming for days...not many at first, but more each time. Then today, when the largest rush came...w-we couldn’t hold two breaches at the same time...”
+
+His eyes sharpened as he cupped his chin in thought while the man tried to catch his breath. Several breaths passed before he spoke. “How wide are the breaches?”
+
+The man’s gaze shifted to the side as he searched his memory. “Wide enough for them to pour through, Milord...I-I can’t say how large it was.”
+
+Lucien’s gaze lowered briefly as he considered the uncertainty in the man's tone. “And the captain?”
+
+The rider shifted where he stood, as though the memory itself carried weight. “He gathered what militia he could...pushed them back...we thought-we thought we could hold...at least until nightfall.”
+
+Lucien lifted his eyes again. “But the line failed.”
+
+The rider dipped his head. “Near the well road...that’s where he fell. Once he went down, the men started to scatter. Some fled with their families...others ran for their homes.”
+
+“And the reeve?”
+
+“Still alive, Milord.”
+
+Relief flickered briefly across several of the faces in the hall before fading again.
+
+Lucien rested one hand lightly against the edge of the table. “And the villagers who remained?”
+
+“They barred themselves inside their homes,” the rider said, his voice rough. “Whole families...in some places.”
+
+His gaze dropped toward the floor. “They don’t gather...not in one place. The beasts...they move through the streets in small groups. Some pass through quick, but others...” He swallowed. “Others linger and stay a while before moving on.”
+
+“They search the houses?”
+
+The rider shook his head slowly. “No, Milord.”
+
+“They’re moving north along the road...right through Cragwatch. Most just pass, but-” the rider shifted as he cleared his throat. "t-the ones that come up to a door or window...they try to break in."
+
+Dorian spoke for the first time since entering the hall. “They’re moving through...you’re certain of that?”
+
+The rider flinched slightly at the voice, then nodded. “Y-yes, Captain.”
+
+Lucien remained silent for several moments, then his gaze lifted toward the man. “The reeve sent you,” he said at last.
+
+“Y-yes, Milord.”
+
+“To request aid.”
+
+“Just...to bring people out, that’s all.”
+
+The rider lifted his head then, meeting Lucien’s gaze directly as if willing the words to be believed. “He said we couldn’t hold it...that it wasn’t worth it. j-just get the people out, that’s all that mattered.”
+
+Lucien inclined his head before turning toward Elias.
+
+The steward had remained quiet throughout the exchange, his hands folded neatly behind his back as he listened. “Cragwatch,” Elias said calmly, “is not a free settlement.”
+
+“The Crown assigns only established frontier villages to noble houses for administration,” the steward continued. “Cragwatch is presently under the charge of Lord Vaelric.”
+
+“The same lord who winters in Helvarn,” Lucien noted, his tone carefully neutral.
+
+“Yes, My Lord.” The steward’s own remained as composed as ever.
+
+“If the people of that settlement are removed under Ashridge’s protection, the matter may not be interpreted kindly.”
+
+Lucien watched him without speaking, keeping his own feelings carefully in check.
+
+“The lord responsible for Cragwatch may claim that the village itself was not truly lost,” Elias continued. “He may argue that the population was taken from him rather than rescued.”
+
+The rider frowned as though hearing the idea for the first time. “T-taken...?”
+
+Elias inclined his head faintly. “The value of a frontier settlement lies not only in its buildings or fields, but in the people who work them.”
+
+Lucien’s expression did not change, though something hardened behind his eyes.
+
+“If the villagers are brought here,” Elias said, “their lord may claim that Ashridge has deprived him of the labor and taxes owed to his house.”
+
+The words settled into the quiet hall.
+
+Near the window Alicia remained still, though her gaze had shifted briefly toward Lucien as the steward finished speaking.
+
+Dorian’s brow tightened a fraction. “He would accuse us of theft?” the captain asked flatly.
+
+Elias let the question linger for a moment before answering.
+
+“Such a claim would not be unreasonable in the eyes of certain lords.”
+
+Lucien glanced briefly toward the western wall of the hall where the last of the evening light still lingered along the stone.
+
+Beyond those hills, Cragwatch lay somewhere in the darkening countryside with families hiding behind barred doors while beasts wandered the streets outside.
+
+His gaze lingered on the western hills for a moment before he turned back toward the rider.“How far has the herd pushed beyond the southern gate?”
+
+The rider blinked in surprise at the question. “I-I can’t say for certain, Milord...but the larger groups were already moving north when I rode out.”
+
+“And how many survivors remain inside Cragwatch?” he asked.
+
+The rider hesitated before answering. ““Maybe half...maybe more.” His fingers tightened around the empty cup he still held. “Most didn’t even get the chance to run.”
+
+For a moment, an uneasy silence settled over the hall as he remained beside the table, turning the rider’s estimate over in his mind.
+
+Half a village remained inside Cragwatch and perhaps by the measures of this land, such losses would already be considered acceptable.
+
+Lucien found the thought intolerable.
+
+Across the hall, Sera’s gaze drifted toward him briefly before returning to the rider once more as she remained beside Alicia, who had not moved from her place by the window, though the fading light that had once touched the stone wall had now begun to withdraw beyond the glass.
+
+The silence lengthened as each man considered the same question without yet speaking it aloud.
+
+Lucien’s gaze shifted briefly between Elias and Dorian before returning to the rider. “The beasts that passed through the gate,” he asked after a brief pause. “Were they all moving along the same road?”
+
+The rider blinked again, clearly surprised by the question. “Most of them, Milord...yes.”
+
+“The well road?”
+
+The rider gave a quick nod.
+
+Dorian spoke from behind him. “If they follow the valley road north, they will pass through the village rather than settle around it.”
+
+Lucien gave a faint nod. “The smaller groups might remain for a time,” he said. “But not the greater body.” He rested both hands lightly upon the edge of the table. “How long did they remain within the streets after the gate broke?”
+
+"Some passed through quick… others stayed longer.” His brow creased as he searched his memory. “Hard to tell how long, Milord.
+
+He inclined his head in acknowledgement to the rider’s words. “And by the time you rode out?”
+
+“A lot had already gone north,” the rider replied quickly, “but there were still some moving through the square when I left.”
+
+Lucien remained quiet for several breaths, picturing the road that cut through Cragwatch and the beasts pushing north along it.
+
+Dorian’s gaze drifted toward the western wall. “If that holds, most of them will be gone by morning.”
+
+Elias folded his hands once more behind his back. “The matter of time does not change the matter of ownership.”
+
+Lucien glanced toward him, the thought of abandoned villagers weighing heavier than any claim of ownership.
+
+“If Ashridge receives the survivors,” the steward continued calmly, “their lord may claim that his labor force has been taken from him.”
+
+The rider shifted uneasily from his position. “Master,” he pleaded quietly, “the reeve just wanted them to live.”
+
+Elias inclined his head faintly. “I do not doubt the reeve’s intention.” His gaze returned to Lucien. “I merely state the interpretation that others may choose.”
+
+The hall fell quiet once more.
+
+Lucien lowered his gaze to the surface of the table as though measuring something unseen across the grain of the wood.
+
+“How many carts remain in Cragwatch?” he finally asked.
+
+The rider hesitated. “Some remain...some were taken by the ones who got out.”
+
+“And horses?”
+
+“A few...not many.”
+
+“And the people who remain inside their homes,” Lucien said. “Are they scattered through the village, or gathered near the square?”
+
+“Most near the square...that’s where they ran.”
+
+Dorian shifted his weight again. “If they’re close together, an escort could bring them out in groups.”
+
+Elias watched the exchange without interrupting.
+
+Lucien raised his gaze once more. “The reeve asked only that the survivors be brought out.”
+
+“Y-yes, Milord.”
+
+His fingers tapped once lightly against the table before becoming still again. “And he sent you here because Ashridge lies nearest.”
+
+The rider nodded quickly. “T—that’s right...Ashridge’s closest, Milord.”
+
+Lucien considered this for a moment, it mattered little that his understanding of leadership stood at odds with the customs of this world.
+
+Across the hall, Sera’s pale eyes had settled silently upon him again, her head tilted slightly.
+
+The silence stretched while each man in the room waited for Lucien to speak.
+
+At length, he drew a slow breath. “The village cannot be held,” he confirmed quietly.
+
+The rider lowered his eyes. “No, Milord.”
+
+Lucien’s expression remained composed, his gaze fixed on the wood before him. “And the people cannot remain where they are.”
+
+No one in the room spoke against that.
+
+The fire in the hearth cracked softly behind them while the last traces of evening faded completely from the windows.
+
+Lucien’s eyes drifted once more toward the western hills beyond the stone walls of the manor.
+
+A true lord of this world might have considered what was owed, what was claimed, and what might be lost.
+
+Leon had never measured people that way.
+
+When he spoke again, his voice carried the same calm steadiness as before.
+
+“We will discuss how they are to be brought out.”
+
+The silence that followed Lucien’s words lingered in the hall like the final echo of a struck bell, the fire cracked softly in the hearth while the last of the daylight faded completely beyond the narrow windows.
+
+For a moment, no one moved.
+
+Then Dorian shifted his weight, straightening from where he had stood near the table, the stillness leaving his posture with the same certainty that had filled his voice moments earlier.
+
+“How many men can ride tonight?” Lucien asked.
+
+“Twenty with horses ready,” the captain answered without hesitation. “Another fifteen on foot if needed.”
+
+Lucien shook his head. “Twenty will have to be enough, we cannot afford to leave the village undefended. Prepare them, we will leave when they are ready.”
+
+The captain studied him for a moment longer. “And you intend to ride with them, My Lord.”
+
+Lucien met his gaze evenly. “Yes.”
+
+For several breaths, the room fell still again before Dorian inclined his head. “Then I will see the men ready.” He turned toward the door before he had even replied.
+
+“Quietly,” he added.
+
+The captain paused briefly, glancing back.
+
+“There is no reason to spread alarm through the village yet.”
+
+Dorian inclined his head in acknowledgement. “Understood.”
+
+He crossed the hall without another word, the heavy door opening before closing again behind him.
+
+Elias remained where he was beside the table, he regarded Lucien silently for several moments before speaking. “Your presence will complicate the matter,” he said calmly.
+
+He did not look away. “I am aware.”
+
+Elias gave a faint nod before he spoke. “Then I will ensure the circumstances are properly recorded, My Lord.”
+
+Lucien’s brow lifted in question at the steward’s words.
+
+“If Lord Vaelric chooses to contest the matter,” he continued, “it will be useful to have the events preserved in accurate detail.”
+
+He studied the steward for a breath before nodding. “See that it is done.”
+
+Near the window Alicia had gone very still, her fingers tightening against the stone sill as she watched him, a faint crease forming between her brows.
+
+Beside her Sera’s head tilted faintly as her gaze lingered on Lucien.
+
+He shifted back toward the rider. “You will ride with us,” he said.
+
+The man had been staring at him, shock and hope mixed in his eyes. “M-Milord?”
+
+“You know the streets,” he continued. “You will guide the column.”
+
+The rider straightened despite the exhaustion that still clung to him. “Yes, Milord!”
+
+He stepped away from the table at last and looked to where the two women had been standing.
+
+“Gather blankets and spare cloaks,” he ordered, his voice carrying easily through the hall without rising. “Those who leave Cragwatch tonight may not have had time to bring anything with them.”
+
+Alicia's lips pressed together briefly before she nodded, turning toward the inner corridor of the manor, Sera following quietly beside her.
+
+The door opened again moments later as Dorian returned briefly, one of the guards from outside already at his shoulder.
+
+“The men will be ready within the quarter hour,” the captain reported.
+
+Lucien inclined his head. “Then we ride before the moon rises.”
+
+Dorian nodded in acknowledgement before disappearing again into the darkening corridor.
+
+The hall grew still once more as preparations began to stir beyond its walls.
+
+He remained where he stood for a moment longer before he pivoted toward the doors.
+
+The southern palisade was silent beneath the deepening night.
+
+Frost had begun to gather along the edge of the ditch where the earth had once collapsed. The repairs held firm now, timber braced tight against the slope.
+
+Lucien stood upon the wall, the wood beneath his boots newer than the rest.
+
+A faint dark ring marked one of the planks.
+
+The seam lay just below him and the road beyond the gate stretched west into darkness.
+
+Somewhere beyond those hills lay Cragwatch. Farther still, were the families who remained behind barred doors as beasts passed through their streets.
+
+Lantern light flickered faintly behind him where the manor yard had begun to stir with preparation.
+
+Lucien's eyes did not shift toward it.
+
+This time, he intended to decide how it would unfold.
+
+He watched the road.

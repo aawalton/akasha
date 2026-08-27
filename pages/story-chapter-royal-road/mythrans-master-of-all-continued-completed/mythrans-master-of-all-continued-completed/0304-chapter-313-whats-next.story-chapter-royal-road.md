@@ -1,0 +1,347 @@
+---
+id: 3d6cc47d-7638-5be1-8fea-a94dd32dd01c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 313 - What's Next?"
+slug: 0304-chapter-313-whats-next
+partOf: mythrans-master-of-all-continued-completed
+position: 304
+ownLength: 3625
+unit: words
+publishedAt: 2017-07-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149869/chapter-313-whats-next"
+royalRoadId: "149869"
+---
+
+“Max! MAX!” One of the guys in the tech department said to the head programmer. “We're getting another spike in backup server activity.”
+
+“Show me.” Max said and came over to the guy. The tech showed him the server data, and Max frowned. “This isn't the same as the last time, but it's pretty frantic.” He said. “How long...”
+
+“About 5 minutes so far.”
+
+“What?”
+
+“I know it sounds crazy, but the system's pulling data like it's having a hard time keeping up with the flow.”
+
+“Ha. Ha. That's so funny, I'll laugh tomorrow.” Max said sarcastically. “What kind of data?”
+
+“It's from the sea scenario.” Another tech said.
+
+“Hm.” Max said. “He must have found it.”
+
+“What?”
+
+“Nothing, nothing.” Max said. “Keep an eye on it, and let me know if anything changes.”
+
+“Aren't we going to do something...”
+
+“We are.” Max said. “We'll wait and see what comes up.”
+
+“Okay, but this is kinda weird.”
+
+Max chuckled. “And how is that different from a normal day?”
+
+The tech laughed. “You got me there.”
+
+Max smiled and went back to his desk to check on the tap on Ren's activity that the boss had him install. When he looked at the footage starting at the time of the spike, it was just a blue screen.
+
+What are you doing? Max thought, as he contemplated Ren's activity. While he worked, he kept checking the feed to see if it would change, and 40 minutes later, it showed Ren being put back on his ship. No way!
+
+Max typed furiously and confirmed that Ren had met one of the elemental deities of the game, as the large elemental body was one of it's trademarks.
+
+I expected him to find the water elementals and the wreckage in the bay... Max thought. But this...!
+
+Max put in an earbud and watched the footage to see what Ren said about it, and kept working as Ren greeted his personal maids.
+
+Lucky dog. Max thought and smiled. I can't believe he found my special contracts. He listened for a bit more, then froze in shock when Ren said that he had been gone for a year and a half. He must be kidding!
+
+Max typed furiously and went into the backup server to see the files it accessed and used, and compared it to the normal file system. The server backed up every game day when players were present, so he knew the proper increments for the file repository. He was completely shocked to see 560 days worth of 'daily' backups had been made in the last 45 minutes.
+
+Good lord! Max thought in surprise, and sat back. How... what...
+
+It took Max almost 10 minutes to work through the implications of what Ren had stumbled onto, then he saved all of his work and got up from his desk.
+
+“Hey, Max.” One of the techs said as he approached. “I've got someth-”
+
+“Later.” Max said and chopped his hand to the side. “I need to see the boss immediately.”
+
+*
+
+Stella debated with herself on pulling Ren out right away. She had the protocol ready to go, then she looked at the time and back at the screen, and sighed. “It's only another hour, and he'll be out for supper.”
+
+Stella gasped and stood up. “I forgot to make supper!” She left the room quickly to prepare something for him.
+
+*
+
+“I need to see the boss.” Max said as he came into the reception area where Elise worked.
+
+“He's on the phone right now.” Elise said and pointed to her own phone. The main light was lit, and showed that the line and extension was in use.
+
+“Any idea how much longer?” Max asked.
+
+“It should only be a few more minutes.” Elise said. “He's just doing a phone interview for the local paper.”
+
+“About Ren.” Max said, and Elise nodded.
+
+“They wanted his view about the game making a popular television star.” Elise said. “He's kind of in his element.”
+
+Max barked a laugh. “He won't be for long.”
+
+“What? Why?”
+
+Max shook his head.
+
+“Max.” Elise said sternly. “If it's something that's going to affect this company, then I need to know.”
+
+“Then come in with me.” Max said. “This isn't something...” He looked around at the empty space. “...that should be said in unsecured places.”
+
+Elise nodded, and sat back. She set the phone to hold any further calls, and waited. She had been right in her estimation, and a few minutes later the light on the phone went out. She picked it up and hit the intercom.
+
+“Yes, Ms. Stanford?” Edward's voice asked.
+
+“Max and I would like to request a meeting.” Elise said.
+
+“Of course.” Edward said. “When-”
+
+“Right now, please.” Elise said.
+
+“Come on in, then.” Edward said.
+
+Elise hung up the phone and stood up to open the office door. Max beat her to it and held it open for her. She walked by and Max shut it behind them.
+
+“What's going on?” Edward asked. “It's a little odd for you to want a meeting at the end of the day like this.”
+
+“This is... well, I don't... ah, dammit!” Max said, and flopped down into one of the visitor's chairs. “Elise? You've swept the place, right?”
+
+Elise nodded. “Every time someone new comes in.”
+
+Max snorted a laugh. “I wish I had someone as diligent as you on my tech team.” He said. “Boy, did we mess something up!”
+
+“Max.” Edward said. “You're rambling. Tell me what's going on.”
+
+Max sighed. “You're not going to believe this.” He said, and then told him about what the file system indicated.
+
+They didn't believe him.
+
+*******
+
+“What do you mean you've been gone for a year and a half?” Andrela asked, and Ren felt how shocked she was.
+
+“Time works a little differently in the Water Realm.” Ren said. “It runs much, much faster there than here.”
+
+“Boy, does it ever.” Teepo said. “It was just like when we were in the Fire Realm.” He chittered in laughter. “Only wetter.”
+
+“Why did you have to stay so long?” Navruth asked.
+
+“That's a bit of a long story, if I went into the details.” Ren said. “I'll just say that we committed a crime against the sea people, and had to serve out a sentence.”
+
+“By the gods.” Andrela said, and her heart despaired over the time he had been away. “You... you've been...”
+
+“Away from you for far too long.” Ren said, stepped close to take her into a warm embrace, and kissed her. He held it for a few endless moments, then broke the kiss and felt the shock of his revelation of the time difference be replaced by the shock of the kiss.
+
+“By... by the gods...” Andrela whispered. Her heart overflowed with emotions, and her face flushed red. I've never been kissed like that before!
+
+Ren turned to the right and looked at Frikara. Her face had that little 'o' of surprise on it from what she could feel from Andrela, and Ren smiled and kissed her, too. He did it slightly differently, and Frikara wrapped her arms around his neck automatically. Ren gave her the same amount of time as he had given Andrela, and broke the kiss.
+
+“Oh, my.” Frikara's face was bright red. She was breathing heavy, and her emotions flooded the shared Aura. The last three personal maids felt what the first two had felt when he kissed them, and then Ren felt anticipation from them for what was to come. He kissed Lusinia next, then Navruth, and finally Verwynn. Ren stepped back from them and saw all 5 faces were red; and he could feel that they were all a little stunned over what he had just done to them.
+
+For the first time.
+
+In public.
+
+“You weren't kidding!” Railyse said to Ren and put a hand on his shoulder. “They really do like you a lot!”
+
+“What the hell are you doing?” The short captain said and waved his arms around. “We don't have anyone to run the engine, and no working engine to run!” He said. “We'll never make it if we stay here any longer!”
+
+The water elementals didn't like having a land dweller's ship in their waters, and had continuously attacked the hull. It wasn't with the intent to cause damage; all they were trying to do was encourage it to leave as quickly as it could.
+
+“Don't worry. We have that covered.” Ren said and turned to the engine room crew. “Don't we, gentlemen?”
+
+“Sir!” They said together, and 4 of the dwarves pulled out a 5 foot long heavily-modified engine from their inventories, and the other three grabbed the spare ends before the engines fell to the deck. Ren had grabbed the end of the last one at the same time as the other dwarves.
+
+“We just need to install these into ram scoops under the ship, and we'll be on our way.” Ren didn't tell the short captain that the water elementals wouldn't attack the ship with both him and the Ambassador on board, mainly because he didn't want the captain to come back here.
+
+The personal maids left the main deck and went back to their cabin to try and recover from all of the excitement they had experienced. Ren had told them he would be in soon to spend some time with them, and then he had Adventurer's business to take care of. The 5 of them nodded slightly, and took turns as they reached out and caressed his face, then walked away together.
+
+Ren leaned over the side of the ship when the maids were gone and used his Staff of the Earth to make two reefs under the ship, which lifted it out of the water. Once he'd made spots for the workers to stand on to do their work, it only took about an hour to add the new engines. When he and the engine room workers were back on board, Ren leaned back over the side and started to undo his reefs. It was then that he heard a splash of water.
+
+A water elemental, the large one Ren had encountered first and exchanged thoughts with, slid up the side of the ship and reformed itself. It talked with crashing waves and bubble sounds, and Ren responded as best as he could. They talked for a minute, and the water elemental nodded its head stub and dove over the side and into the water.
+
+“What was that all about?” One of the deckhands asked.
+
+“It likes the new reefs and wants me to leave them.” Ren said. “It'll stop ships from coming in here.”
+
+“But if you leave the reefs...”
+
+Ren chuckled. “I'm moving the ship off first and putting them back.”
+
+“Oh.” The deckhand said. “That makes sense.”
+
+Ren moved the earth out of the way and the ship settled into the water much higher than it normally would have. The workers from the engine room commented that at least half of what they did worked, and Ren waved to the short captain.
+
+“We're clear.” Ren said. “Take us out.”
+
+The short captain nodded slightly. “Everyone hold on!” He said and waited for a moment while everyone grabbed something to hold onto, then pushed the lever that controlled the speed of the engine forward to one of the marked notches. The ship jumped forward 30 feet instantly with a huge spurt of water from underneath; and in a panic, the short captain pulled the lever back.
+
+“That's great!” Ren said. “Hold it here.” He walked to the back of the ship where Railyese stood and leaned over the side to put the new reefs back where they were, then added a few more concentric rings of reefs around those.
+
+The short captain took out a dagger and made several notches by the lever before the first notch, and when Ren waved to him again, he moved the lever only slightly to the new first notch, and the ship moved at the pace he thought the other notch would have given him.
+
+As the ship slowly drifted out of the bay, all of the water elementals poked their heads up out of the water and watched the ship leave. Railyse waved to them, and a lot of them raised an arm stub and waved back to her. The ship picked up speed gradually, and Railyse sighed.
+
+“I'm really going to miss this place.” Railyse said, and Ren put an arm around her.
+
+“You should have turned down the job.” Ren said. “Your people are going to be a lot older by the time you go back.”
+
+“I know.” Railyse said. “But... your stories of the surface...” She smiled. “They stirred something in me. I had to see it for myself.”
+
+Ren smiled sadly. “I'm sorry.”
+
+Railyse laughed with the sound of a soft rain. “It's not your fault you're so interesting.”
+
+Ren's sad smile turned into a genuine one. “That's debatable.”
+
+“So.” Railyse said in her native language as she glanced around at the dwarves working on the deck. “How many of them do you think believe we're a couple?”
+
+“Probably all of them.” Ren responded in her own language and smiled. “I'll tell my personal maids the truth when we go inside.”
+
+“You don't think they'll be upset?”
+
+“About what?” Ren gargled and bubbled. “That the Ambassador to the Land Dwellers is one of the many potential heirs to the Water Realm?” He asked and chuckled. “They should be even more honored to meet you.”
+
+“All of the other candidates would have to die for me to even be eligible.” Railyse said. “I was never going to see the throne.” She smiled. “I've only ever seen the water, Ren. I wanted to get out on my own and see the world.”
+
+“I've shown you...”
+
+“With my own eyes.” Railyse said. “Plus, I've been given a task by my mother. I will complete it.”
+
+“She sure is something.” Ren said. “Trusting you with something like that.”
+
+“Hey, that makes it sound like I'm a horrible choice!” Railyse said and laughed.
+
+“Sorry.” Ren said and smiled. “You know I meant they should have sent a group or a team.”
+
+“I know.” Railyse said and put a hand on his that was around her waist. “No one else was as stupid as me, though.”
+
+Ren snorted a laugh. “Your mother's Amulet of Truth just glowed.”
+
+“Okay.” Railyse grinned. “Foolish as me, then.”
+
+“Come on.” Ren said and let her out of the one arm hug, but kept a hold of her hand. “I'll show you were you'll be staying.”
+
+“No one's actually looking.” Railyse said. “You don't have to...”
+
+“We decided that keeping the pretense of us seeing each other is going to protect you just as much as your fancy new armor.” Ren said. “Just be glad I didn't kiss you like I did my personal maids.”
+
+Railyse chuckled. “Imagine! Me kissing a land dweller!”
+
+Ren laughed and led her into the main cabin and down to the set of rooms he'd joined together. He opened the door to the room with the large Jacuzzi in it.
+
+“Here we are.” Ren said. “Home, temporary home.”
+
+Railyse laughed and walked over to the Jacuzzi. “There's something floating in this.”
+
+“Probably soap.” Ren said. “We use it as a bath, remember?”
+
+“Right.” Railyse said and stuck her hand in the water. All of the contaminates and soap residue gathered at her hand and she squished it into a ball and lifted it up. “There. All clean.”
+
+“That still amazes me when you do that.” Ren said.
+
+“Yeah, it's amazing.” Railyse said. “Catch!” She said and threw the ball of soap at him. He caught it easily; but it broke apart and splattered over his hand, part of his arm, and some even hit his face.
+
+“Hey!” Ren exclaimed as the soap dripped off.
+
+Railyse laughed at him, and he laughed, too.
+
+*
+
+“So, do you think he has feelings for her?” Frikara asked.
+
+“No.” Andrela said.
+
+“What makes you so sure?” Verwynn asked.
+
+“His emotions didn't jump when he looked at her.” Andrela said. “When he looked at us, though...”
+
+“It did waver a little.” Navruth said, and sighed. “I'm glad.”
+
+“Me, too.” Lusinia said. “How would we compete with a beauty like that?”
+
+“We can't.” Frikara said. “I think... I think she's just too exotic to even try.”
+
+*
+
+Ren came into the room through the side door and Teepo flew off of his shoulder to land on the ceiling.
+
+“You shouldn't sell yourself short, Frikara.” Ren said.
+
+“Ren, I...” Frikara started to say, then Ren remembered seeing her without her clothes on and let her feel what he wouldn't let himself feel then. “Oh... oh, my.” She said, her eyes wide. “Ren...”
+
+“She's pretty, but we're strictly friends.” Ren said. “We have been for almost a year.” He smiled. “But, we're making it seem like we're together in public.”
+
+“Why?” Verwynn asked.
+
+“So that anyone that wants to get to her, knows they have to go through me first.”
+
+“She needs a shield, then.” Lusinia said, and Ren nodded slightly.
+
+“It's kind of complicated.” Ren said, then told them why Railyse needed the extra layer of protection.
+
+“By the gods.” Frikara said. “We'll help if you need it.” She said. “We all will.”
+
+“Thank you.” Ren said, and felt their resolve. “All of you.”
+
+“Where is she?” Andrela asked.
+
+“Where else?” Ren said and smiled. “She's in the Jacuzzi.”
+
+*
+
+Railyse floated slightly underneath the surface of the water in the Jacuzzi as the jets of air churned the water and pummelled her body. She laughed and laughed as she rode the artificial waves and enjoyed herself without having to move a muscle, or worry about floating away on a stray current.
+
+*
+
+Ren took off his Dire Wolf Hooded Cloak and folded it up on the table, and pet the tarantula inside briefly.
+
+“I've got a little bit of time before I have Adventurer's business.” Ren said. “Will you all join me in bed?”
+
+“You don't have to ask.” Frikara said and started to get undressed. “You know we want to.”
+
+Ren smiled because that was exactly what he could feel from them. They got undressed quickly, and started to climb onto the bed and leave a spot in the middle for him.
+
+“Wait.” Ren said, and they got off of the bed. He unbolted the bed and moved it over a couple of feet, bolted it to the floor again, then took out another bed and put it right beside the old one and bolted that to the floor, too. He yanked off the sheets from the old bed and tossed them aside, and took out large custom-made sheets for the new double-sized bed.
+
+The maids helped secure the new sheets in place, and he took out several pillows to put across the top of it. Ren stored his clothing, and left himself in only his underwear as he climbed onto the new bed, and laid down in the middle. The maids sorted themselves and chose which parts they wanted, and climbed onto the bed to take their positions.
+
+“Can we do it a little differently this time?” Ren asked them as he put his arms on the other pillows, and they looked at him. “With a much bigger bed, we're not restricted to laying at the head or the foot of it anymore.” He said and smiled. “Frikara? Can you lay down on your back and rest your head here, on my chest?”
+
+Frikara's heart went pitter-patter and she nodded, then laid down at a right angle to him and put her head on his chest.
+
+“Lusinia? You're next, beside Frikara.”
+
+Lusinia laid down next to Frikara, and sighed.
+
+“Navruth, here on my other side, and Verwynn beside her.” Ren said, and they laid down.
+
+“I'm the odd one out.” Andrela said, and Ren smiled.
+
+“You have a choice.” Ren said. “Beside Lusinia, beside Verwynn, or take your regular spot.”
+
+“Really?” Andrela asked, and crawled onto the bed to lay on her side between Ren's legs, and rested her head on his abdomen.
+
+“I can't hug you while you're down that far, but...”
+
+“It's the best spot.” Andrela whispered and snuggled into him. With Andrela in position, Ren brought his arms down and laid them across the tops of the other women's chests just below their necks. They gasped collectively, even though he wasn't actually touching their breasts; and he smiled at their reaction.
+
+“Is this okay?” Ren asked. “This was only one idea that I had for sleeping arrangements...”
+
+“It's fine for now.” Frikara said, and he felt exactly how fine she was with it. “Now be quiet and go to sleep.”
+
+Ren chuckled, and it shook their heads a little. “I'm sorry.” He said and gave them a little squeeze with his arms. “I'll let you know when I have to go.”
+
+They all took several deep breaths at nearly the same time, and relaxed. Ren had slept just before coming onto the ship; but now that he was back in a comfortable bed, he felt a little tired.
+
+“I'll wake you up if its necessary.” Teepo said from his perch on the ceiling.
+
+Ren yawned and closed his eyes as his thumbs gently caressed the smooth skin of the two women on the end that his hands were on. He wasn't really aware that he was doing it; but it still had a calming effect on everyone, because feelings of contentment filled the shared Aura.
+
+They dozed off for a short nap while Teepo kept watch.

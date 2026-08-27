@@ -1,0 +1,259 @@
+---
+id: a78e27e2-477d-50b5-967d-841e44bc7aba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 464 - Honor Duel"
+slug: 0464-chapter-464-honor-duel
+partOf: mythrans-master-of-all-continued-completed
+position: 464
+ownLength: 3223
+unit: words
+publishedAt: 2017-12-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182786/chapter-464-honor-duel"
+royalRoadId: "182786"
+---
+
+When Ren activated his own Importance Aura, it merged with Yllana's Importance Aura, and she flinched as Ren's unfiltered emotions slammed into her. She watched as his hair grew fluffier, his silvery-blue eyes sparkled with amusement, and his smile dazzled her.
+
+“Great Vasalor.” Yllana whispered as things stirred within her, and her desire rose up almost to the point that she couldn't keep it restrained. She was extremely glad she had worn a dress to meet her daugher, because it was much easier to hide her body's automatic reaction to having such a strong male elfling be her opponent.
+
+“Oh, I forgot to mention that I have the Emotion Siphon ability.” Ren said, and used that ability to touch her from the inside. Yllana caught her breath when some of her desire was absorbed, and then it rose even higher as she felt like he had caressed her where no one had ever touched her before.
+
+It's... it's like he is touching my soul! Yllana thought in shock as he caressed her from inside again.
+
+“I feel like I have you at a disadvantage, M'lady.” Ren said.
+
+“I have to admit that you are strong, M'lord.” Yllana said. “But, I am not to be trifled with so easily.”
+
+Yllana fought through Ren's sea of emotions and concentrated on her own Aura abilities, and she opened up the top of her dress to reveal her cleavage. It was Ren's turn to widen his eyes as she activated her Seduction Aura, and her sexiness slapped him in the face. Her breasts became much more prominent, her lips extremely kissable, and even her eyelashes grew to twice their normal size. She blinked at him seductively, and his own body reacted.
+
+Ren was really glad that his armor hid how excited he was, and then he realized he was insulting Yllana by not showing how she affected him. He equipped his High Elven Court Uniform that he had received as a gift from Sally so long ago; but, he kept the new platinum boots on. He felt her reaction to seeing him in proper clothing, and she moaned as she looked down at his waist and saw his very male reaction to her. One of her hands touched her own breasts and the other tried to touch somewhere else, but the dress that hid her own body's reaction so well, also stopped her hand from reaching it's destination.
+
+“M'lady.” Ren said.
+
+Yllana was startled at his voice's intrusion and quickly looked back up at his face.
+
+“What happens if there is a tie?” Ren asked as he beamed a smile at her and raised a single eyebrow.
+
+“I... I don't know.” Yllana breathed, and she had a hard time not panting at how handsome he was. Her hand kept squeezing her own breast as he took a step towards her. “It's... it's never happened before.”
+
+Ren built up his own desire as if he were going to feed it to her, and she could feel her own building to match it. “Then please.” He said and took another step towards her. “Allow this, our first meeting, to be an historic moment for our people.”
+
+Yllana could do nothing but take a step towards him, like a moth to a flame, and then she stopped breathing as Ren activated his Awesomeness Aura. It washed over her, and she felt his magnetism so much that she took another step forward without realizing it. She blinked her eyes for a moment and came back to her senses, then she smiled.
+
+“M'lord, nothing would make me happier than to neither win nor lose this contest with you.”
+
+Ren took that last step to meet her in the middle, cupped her untouched breast through her dress, and placed the tip of his thumb on the exposed skin. She gasped as he poured his desire into her, and absorbed her desire in return. Her hand that had tried desperately to please herself down below, turned and grabbed him through his clothing instead.
+
+“Those are... magic words.” Ren said and leaned forward to whisper as she caressed him through his clothing. “It's my fetish to make a woman happy.”
+
+Yllana leaned forward as well. “It's my desire to make a man happy.” She whispered back, and Ren felt how much she had missed experiencing both that feeling, and what her hand was feeling.
+
+“On three.” Ren said. “One.” He kept a hand on her breast and rubbed it with his thumb. “Two.” He used his free hand to hold her waist. “Three.”
+
+They both leaned forward and kissed at the same time.
+
+Notice!
+
+Your unconventional Honor Duel has ended in a tie. Since it was a willing choice by both participants, both win and loss conditions will be met.
+
+You have lost 125,000 Honor, and have gained a valuable ally in the High Elven Kingdom.
+
+“Great Vasalor!” Yllana broke the kiss when she received the Honor. “M'lord!”
+
+“A small price to pay.” Ren said and kissed her again.
+
+“M'lord, please.” Yllana said as her desire for him started to drive her crazy. “Help me!”
+
+“Yes, M'lady.” Ren said and picked her up in a Princess carry, with an arm behind her back and one under her knees, and she wrapped her arms around his neck. He crouched slightly and jumped up and up into the air, and he felt her delight as the wind whipped her medium length raven-colored hair into a frenzy.
+
+Ren landed on top of the closest spire that was 300 feet high, took out his Instant Tower and activated it, then brought her inside. Yllana only saw a glimpse of the 4 shops inside, and then she was laying down on the most comfortable bed she had ever been on.
+
+“We can't have sex.” Ren said, and Yllana laughed as she started to open her dress the rest of the way.
+
+“M'lord, there are so many things we can do without actually having sex.” Yllana said.
+
+“What about the meeting?” Ren asked and handed her a Strong Ring of Storage. She put it on and stored her dress and underwear without having to be told what to do.
+
+“They are just getting the food and ale now.” Yllana said. “We have about half an hour before they will wonder where we are.”
+
+“That's not enough time, M'lady.” Ren said as he knelt on the floor and dove between her legs, then pleased her like she had never been pleased before.
+
+********
+
+Elise had gone home to drop off her things from the office, had a shower and changed into Ren's favorite jeans and a loose top, then picked up the gift she had bought for him and headed over to his place. She arrived there half an hour later and went inside, and went into the dining room.
+
+“Hi, Stella.” Elise said and added her present to the small pile on the side table.
+
+“Hi, Elise.” Stella said. “I can't believe it's his birthday again so soon.”
+
+Elise chuckled. “So soon? After all of the things he's gone through this last year?”
+
+Stella chuckled, too. “Well, I guess it could be longer than a year if you added up everything that's happened.”
+
+“Oh, definitely.” Barbara said as she came into the room with a pack of balloons. “I swear, if he wasn't in the condition he's in, he'd be in the condition he's in.”
+
+Stella nodded. “He's been through a lot.”
+
+“Not just in the real world, either.” Denise said as she came into the room and handed Stella a set of streamers. “He's been cleaning up the ghouls all morning.”
+
+“How's it coming along?” Elise asked.
+
+“He had his fire elemental take out the horde that was attacking a High Elf city, took some of them to a healer, then went back to clean up a lot of the nests.” Denise said. “Boy, that's a mouthful of odd things to say.” She smiled. “Right now, he's taking a break and going to meet up with some other elflings.”
+
+“I hope he has fun.” Elise said. “Now that the game has opened up the High Elves as playable characters, he might meet even more of his character's race.”
+
+“He should be out soon.” Denise said and looked at the clock. “Night in the game starts in about 45 minutes, if my calculations are right.”
+
+“I really hope he's surprised.” Lisa said and helped Stella toss a few streamers around to drape them over everything.
+
+“Are you kidding?” Barbara asked and laughed. “Of course he's going to be surprised. We usually have to keep reminding him that it's his birthday!”
+
+********
+
+Ren had been right that half an hour was nowhere near enough time. He had made sure that Yllana had been taken care of and her needs as satisfied as they could be; but, he was quite frustrated when Teepo had warned him that their time was almost up.
+
+“We have to get to the meeting.” Ren said, and Yllana moaned regretfully as he stopped playing with her.
+
+“M-M-M'lord.” Yllana moaned, and pawed at his pants. “Y-you are unsatisfied.”
+
+“We don't have time.” Ren said, and Yllana made several gestures in the air, clapped her hands, and a small brightly-colored bird materialized in front of her.
+
+“Tell the others that we are delayed with our duel, and will be there in half an hour.” Yllana said. The bird chirped twice and flew out through one of the arrow slits.
+
+“That was cool.” Ren said, and Yllana pawed at his pants again.
+
+“M'lord.” Yllana said in a commanding voice. “I will not fail this duel. You will feel satisfied!”
+
+“Perhaps, M'lady.” Ren said and stored his pants and underwear.
+
+“Great Vasalor.” Yllana said, then looked up at Ren. “Are you sure that we can't...”
+
+“We can't, M'lady.” Ren said, and he felt her deep disappointment.
+
+“Then I will satisfy you as much as I can, M'lord.” Yllana said. “Lay down so I can treat you properly.”
+
+Ren laid down on the bed, and Yllana straddled his legs. It was quite a sight, especially since they were both using their Auras to their fullest extent. Her skin glistened from sexual satisfaction, and her eyes smouldered as she rubbed her hands together.
+
+“What are you doing?” Ren asked, and Yllana's hands started to glow green. He had expected her to go down on him, and yet she wasn't.
+
+“M'lord.” Yllana said and cupped her hands together to form a small opening. “This is something I thought I would never get to use.”
+
+“Wh-what is... by the gods!” Ren exclaimed as she slipped her cupped hands over the tip of him and his member was covered in a green glow. “What... what is that?”
+
+“It's... Great Vasalor, it's a... a limited Connection ability.” Yllana gasped and moved her hands down a bit further. They both gasped this time, and Yllana closed her eyes. “I can't believe... gods, this can't...” She moved her hands all the way down and almost collapsed at the sensations she felt.
+
+“It feels so real!” Ren said, astonished.
+
+Yllana nodded. “I... gods, this... I never imagined...” She opened her eyes and started to move her hands up and down. Her body rocked with the motion as if she was really riding him, and he started to thrust up as well. She moved her hands faster and faster, and they both started breathing heavily.
+
+“Yllana! By the gods!” Ren exclaimed, and they both finished together. Yllana had been so surprised by both the success of her limited Connection ability and by Ren's expulsion, that it broke her concentration and the Connection faded. She took several deep breaths to try and calm down as the glow around her hands and his member dissipated. She could still feel Ren's emotions, and he was just as surprised as she was.
+
+“That was with just your hands and your ability!” Ren said and looked at the mess he had made. “Wow.” He said. “I need to clean this up.”
+
+“Please, M'lord.” Yllana said when Ren went to sit up. “Allow me.”
+
+Ren tried to hand her a piece of cloth and she pushed it away, then she cleaned him off without the use of anything except her mouth. It took a while, especially when he finished again, and he felt her happiness that she hadn't failed in her part of the duel. She had satisfied him, even without them actually having sex. They both sat up on the bed, Ren without his pants, and her without her dress, and they stared at each other.
+
+“I've never had any kind of duel like that before.” Ren said.
+
+“Neither have I.” Yllana smiled demurely.
+
+“Wait, what?”
+
+Yllana chuckled. “I've had Honor duels, but... this was the first time that the stakes were so... personal.” She said. “Or so high.”
+
+“High?” Ren laughed. “You gambled undying love for someone you just met!”
+
+Yllana laughed. “I might not have fought so hard if I had known...” Her hand reached over and stroked him.
+
+“Yllana...”
+
+“How much time do we have left?” Yllana asked.
+
+“None.” Teepo said.
+
+“I'm afraid we are out of time.” Ren said, a little sadly.
+
+“Pity.” Yllana said, bent down and kissed it, then let it go as she sat back up. “Let us get dressed and go meet your adoring public.”
+
+Ren chuckled and equipped his platinum armor, and she equipped her dress. She buttoned it up to cover her chest, and she felt his slight sadness at not seeing them.
+
+“M'lord, you can come and see me as much as you wish.” Yllana said. “I expect to be seeing a lot of you, now that you know members of your own race are here.”
+
+“How many of them are there?”
+
+“About 3,000.” Yllana said, and she felt Ren's shock.
+
+“I'm seeing them all today?”
+
+“That's why the meeting is in the Great Meeting Hall. It's the only place where we can all come together.”
+
+“Oh, wow.” Ren said. “After so long of not meeting any of you, and I'm going to meet so many!”
+
+“You might want to deactivate your Auras.” Yllana suggested. Ren stopped concentrating on them and they faded, as did their sharing feelings. “Maybe you should keep the Importance Aura active.”
+
+“Maybe you should drop your Seduction Aura, too.” Ren said and concentrated on his Importance Aura again, so they could keep sharing feelings.
+
+“I should, but... it feels so good to finally let it out after so long.” Yllana purred.
+
+“You don't have to tell me that.” Ren chuckled. “You just have to ask yourself if you want every male you meet to fawn over you.”
+
+Yllana caressed the large ruby on his chest and smiled. “Would that bother you?”
+
+“Yes.” Ren admitted. “Once I had the choice to turn off my Prince Charming effect, I did so.”
+
+Yllana felt his emotions and moved her hand to his face. “You don't like causing undue influence over people.”
+
+“If I did, I'd be running around with my Awesomeness Aura going all the time and casting Charm Person on everyone.”
+
+“Like you did with the High Lord and all the other elves this morning?” Yllana asked, and she felt his surprise. “My daughter felt excluded when you didn't try to charm her with magic.” She said, and then lightly kissed him. “Charming everyone else to protect her worked wonders on me, though.”
+
+“M'lady, I feel as if I've been manipulated somehow.” Ren said.
+
+“Of course you do.” Yllana said and rubbed his lips with a fingertip. “You wouldn't be a man if you didn't.”
+
+Ren chuckled and held his elbow out. “M'lady, may I escort you to the meeting?”
+
+“Now that I've experienced it.” Yllana said and put her arms around his neck instead. “I'd rather be carried.”
+
+That made Ren laugh, and then so did she as he scooped her up into his arms and ran down the stairs and outside, deactivated the tower and stored it, then estimated how far to jump to make it to the third spire from the left. They were on the first spire, so he guessed well and then jumped. Yllana kept laughing as they flew through the air, and Ren revelled in her joy. As he approached the ground with her in his arms, he used his Permanent Air Walk to gently land right in front of the Grand Meeting Hall.
+
+“Thank you, M'lord.” Yllana said and Ren eased her out of his arms and stood her up on her feet.
+
+“It was your pleasure, M'lady.” Ren said and grinned.
+
+Yllana giggled and then shook her head. “You make me forget my decorum, M'lord.” She said, then put her arm around his elbow and rested her hand on the back of his. “I haven't felt this young since....” She smiled. “Is it impolite to say that I miss Allynna's father, right after our shared experience?”
+
+Ren pat her hand, and escorted her into the building. “M'lady, you can say whatever you want, and I won't take it personally.” He said. “Unless it's something bad, or makes you lose your Honor. Things like that you should keep to yourself.”
+
+Yllana laughed. “You are wise beyond your years, M'lord.”
+
+“M'lady Arthion, and the Unnamed King!” Someone exclaimed, and they looked away from each other to see everyone inside the Great Meeting Hall take notice of them, and then everyone knelt.
+
+“What's going on?” Yllana asked, and then Ren received a popup.
+
+Notice!
+
+The elflings within your Aura acknowledge you as a ruling class, and thanks to your title The Unnamed King, you have gained Honor worthy of this.
+
+3,000 elflings x 10 Honor each = 30,000 Honor
+
+Notice!
+
+Your Honor of 225,000 (125,000 + 100,000 from your Important Bracelet of Unbelievable Magic) has been maxed again at 250,000.
+
+Notice!
+
+Excess Honor has been converted to XP.
+
+5,000 Honor x 10 XP = 50,000 XP
+
+Yllana gasped as she received another Honor boost to what she already had and what she had gained from Ren. “What... what... what are you doing?!?” She said to the elflings in front of her.
+
+“I believe they are giving you your due.” Ren said and pat her hand, stepped around, and knelt for her as well. “As am I.”
+
+“Ren!” Yllana gasped as Ren's gesture maxed her own Honor and she received a popup. Her hand slowly reached out and touched it, and it disappeared. “M-M-M'lord!” She took a deep breath. “You... why did you...”
+
+“I need a powerful ally here in the High Elven Kingdom, and who else would be better to help me than The Unnamed Queen?” Ren asked, then stood up and turned to the elflings. “Come and greet her again for the first time.”
+
+The elflings stood and efficiently formed a line, then started to walk by her and shook her hand. Yllana started to laugh as elflings she had known for hundreds of years greeted her. She started smacking the ones that joked about her lofty heights, and the greeting devolved into a joyous and playful event. Once everyone had properly greeted both her and Ren, they all sat down to share stories with each other. The gathered elflings enlightened Ren to some of their history, and he awed them with the retelling of his adventures.

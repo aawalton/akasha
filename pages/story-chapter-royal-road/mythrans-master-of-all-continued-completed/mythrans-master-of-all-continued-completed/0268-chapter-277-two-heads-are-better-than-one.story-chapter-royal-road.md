@@ -1,0 +1,295 @@
+---
+id: 0ebea2cb-6510-51de-811a-121499cb8084
+page-type-slug: story-chapter-royal-road
+title: "Chapter 277 - Two Heads Are Better Than One"
+slug: 0268-chapter-277-two-heads-are-better-than-one
+partOf: mythrans-master-of-all-continued-completed
+position: 268
+ownLength: 3067
+unit: words
+publishedAt: 2017-06-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141703/chapter-277-two-heads-are-better-than-one"
+royalRoadId: "141703"
+---
+
+John and Holly had sex twice, and he held her close as he recovered his strength.
+
+“So.” Holly said, as she snuggled down on John's chest. “Were you expecting that to happen?”
+
+“Hell, no.” John said. “But, to be honest...” He smiled. “...I desperately hoped it would.”
+
+“I'm pretty sure the Chief of Police wouldn't approve of us doing this.” Holly chuckled. “Hell, I don't think anyone at the police station would!”
+
+“You'd be surprised.” John said, then clamped his mouth shut.
+
+“What?” Holly asked. “Who is it?”
+
+John shook his head.
+
+“If you don't tell me right now, I'll initiate my special interrogation technique.”
+
+He shook his head again, and Holly sat up on top of him. She wiggled her fingers, then jammed them into his armpits; then was surprised that nothing happened.
+
+“Not there, huh?” Holly said, and ran her fingertips down his chest, and along the skin. She watched his reactions as she probed him, and she didn't even get a twitch. She turned around and sat facing the other way and ignored the place between his legs; since she knew that wasn't ticklish at all. She ran her fingers past his mid-section and started on his thighs.
+
+Holly received nothing in return on her search, so she leaned way over and reached his feet. She gave one of them a cursory tickle, but nothing happened. John moved slightly, and she thought she might have had some success, and then she felt what he was trying to do. She moaned in pleasure as he made love to her again in that position, and completely forgot that she was supposed to interrogate him.
+
+*
+
+“That was the best one yet!” Ren said, as he climbed out of the pool. He'd ridden on an inner-tube through a huge water slide and ended in an Olympic-sized swimming pool. “Gloria, where the hell did you get all of this?”
+
+“I... ah...” Gloria looked up into the air and started to whistle.
+
+“That's her not so subtle way of telling you not to ask.” Stella said, and they all laughed. “I think that's enough data for today.”
+
+“That's enough for a week!” Ren exclaimed. “I saw the dates you had on the files.”
+
+“Gloria finding that time hack has messed me all up, okay?” Stella said.
+
+“Oh, no!” Ren put a hand over his heart. “Gloria, did you hear that? Stella's not perfect!”
+
+Gloria laughed.
+
+“Let's log out, before we have to suffer even more over-acting from him.” Stella said to Gloria, and she nodded.
+
+“Logout.” They said together, and faded away.
+
+Ren looked at where they used to stand, and didn't see anything. “Huh, no residual avatars.”
+
+“Logout.”
+
+********
+
+“That was fun!” Ren said as he slipped off the VR headset. “This has been the best day at work I've ever had.”
+
+“Me, too.” Stella said.
+
+“It was alright.” Gloria said, and they looked at her. “I'm not big on amusement park rides.”
+
+“I wasn't either, until I rode a few.” Ren said. “Of course, I would never, ever ride them in real life.” He smiled. “I think I'd hurt myself just looking at them.”
+
+Gloria turned to him. “What did I say about playing the sympathy card?”
+
+“I should only do it when you're not looking.” Ren said, and she snorted a laugh.
+
+“Smart ass.” Gloria said and smiled.
+
+“Ren, do you want to take another shower before going back, or do you want to wait and go back to the care facility first?”
+
+Ren lifted his arm and smelled his armpit. “I'm not quite ripe enough yet.” He said and grinned. “You can wait until later to pick me.”
+
+Stella laughed. “Good enough.” She said, and went to get his bag, tossed in his clothes that he'd only worn while they were out for dinner, and handed it to him. “Let's get back before Barbara thinks we're missing.”
+
+“I doubt she's there yet.” Ren said. “She only comes in early on show nights now.”
+
+Stella nodded, and grabbed her purse, then handed the plastic step stool to Gloria. Stella pushed Ren out of the house with Gloria close behind, then locked the front door. They loaded Ren, his wheelchair, and the step stool into the van. Gloria and Stella got in themselves, and Gloria drove them back to the temporary care facility.
+
+“Thanks a lot, Gloria.” Ren said when they came to a stop. “This van was a great idea.”
+
+“It sure was.” Stella said and got out to unload the wheelchair and put Ren in it, then passed him his bag of clothes.
+
+“I'm glad everything worked out well.” Gloria said as she took out the step stool and shut the doors of the van.
+
+“I think we all are.” Stella said and opened her purse. She took out two envelopes, and handed them to Gloria.
+
+“What's this?” Gloria asked.
+
+“Your first paycheck, and the van rental.” Stella said. “Make sure you take your driving fee out of the rental before you give it to Frank.”
+
+Gloria looked at her with surprise on her face.
+
+“I'll be asking Frank later if you did, so don't 'forget' to take your share.”
+
+“I... okay.” Gloria said and her face flushed a little red. How did she know I wasn't going to take it? She wondered. “I guess I'll see you next week.”
+
+“Only if you don't log into the game sometime tonight.” Ren said. “If you do, send me a message. I'll do a patrol around Aurora and talk to the soldiers. You've been stuck in the city for a lot longer than you're comfortable with.”
+
+Gloria chuckled. “I think I've had enough VR for today.” She said. “I'll log in tomorrow night for sure, though.”
+
+Ren nodded. “See you then.”
+
+Stella got behind Ren and started to push him towards the front door of the temporary care facility, with the step stool under her arm.
+
+“Wait!” Gloria said, and ran over to them.
+
+“What is it?” Stella asked. “Did I forget something?”
+
+“No.” Gloria said. “I did.” She knelt in front of Ren. “Did you really mean what you said earlier?”
+
+Ren nodded. “If there's one thing that I've learned in my long life...”
+
+Stella snorted a laugh behind him.
+
+“...it's that lying is bad, and never works out right.” Ren smiled. “Plus, it's hard to get caught in a lie if you never say one, right?”
+
+Gloria nodded, leaned in, and gave him a quick kiss.
+
+“Hey, I thought...” Ren started to say, and Gloria took his hand. She lifted it and put it on the left side of her head, where it was clean-shaven. Ren caressed the smooth skin there, and Gloria closed her eyes.
+
+“You were right.” Gloria said. “All the time we've spent together in the game, we were spending it with each other.” She sighed as Ren ran his fingers over her ear and down to her chin. “But... you're still my boss. A kiss and a touch is all I can offer.”
+
+“Then thank you for offering me the best part of yourself.” Ren said, and she opened her eyes to look at him.
+
+“You... mean that?”
+
+“No, I'm lying through my teeth.” Ren chuckled. “What did I just tell you about lying?”
+
+Gloria laughed, and stood up. “See you later.”
+
+“Bye, Gloria.” Stella and Ren said almost at the same time, and they went inside the temporary care facility.
+
+*
+
+Gloria went back to the minivan and got into the driver's seat. She opened the envelope marked rental, took out the chauffeur fee, and put it into her pocket. She put the envelope in the glove compartment, then looked at the one with her paycheck in it.
+
+My first grant paycheck! Gloria thought, and opened it. “What the hell?!?”
+
+Inside the envelope was two thousand, five hundred and ninety-two dollars ($2,592). It was 6 times what she had expected, and she took it out; then saw a folded piece of paper was in the envelope as well. Gloria took out the paper and read it. It was an itemized list of everything she'd done for the project so far. The list itself didn't add up to that much, only a few hundred dollars; then she read the hand-written note at the bottom.
+
+Gloria,
+
+Your time hack to make the day 8 times longer has helped this project more than you realize. Because we would normally only have a single regular day and a single virtual day each week to work, I expected it to take several months before there was enough data to even start the project. Thanks to you, we completed almost 80 hours of virtual time today.
+
+With all of the extra work you did in your spare time to get the headsets up and running so fast, I had to estimate how many actual hours you worked on the project. If this isn't enough to cover it for the week, please let me or Ren know.
+
+Stella
+
+There was a number of hours written in at the bottom, and it said it included the hours she'd worked in her spare time. Gloria shook her head as she saw the outrageous number, and since she was paid by the hour...
+
+Stella's crazy! Gloria thought. There's no way that... I worked... over 40 extra hours... this... week... She remembered sleeping 8 hours in the game each night after coming home from the garage, and working on the headsets until she had to go to school the next morning. She counted up the extra hours she'd done that every day during the week, and then laughed.
+
+How the hell did she guess so accurately? Gloria thought in amusement, then counted the money again, just to make sure she wasn't dreaming or had miscounted. Almost twenty-five hundred dollars. She shook her head. For a week's work!
+
+Gloria tucked the money into her pocket and drove the minivan out of the parking lot and back towards the garage.
+
+There's no way I'll be making that much every week. Gloria thought. This last week was pretty much a one time deal. Now that the headsets are finished, there won't be much for me to do anymore.
+
+Her cell phone beeped a minute later, but she was driving and it was tucked into her pocket; so, she had to wait until she pulled into the parking lot of the garage before she could get it out to check it. She read the text from Ren, and laughed.
+
+*
+
+“That should make her happy.” Ren said, and handed Stella the cell phone.
+
+“You could have waited until tomorrow to tell her there was a new processor coming on the market next week.”
+
+“I could have.” Ren said and put his bag on the floor by the bed. “But then she'd think there wasn't much left for her to do for us.”
+
+Stella smiled and helped him stand up. “Whew!” She said when she got a whiff of his underarms. “I thought you said you weren't ripe yet!”
+
+Ren laughed. “I said I wasn't 'ripe enough'.”
+
+“You've made Gloria happy, now you have to make me happy.” Stella said. “Get in the bathroom and get those clothes off.”
+
+“No!” Ren said and started to get undressed as he walked to the bathroom. “I want to wallow in my own filth!”
+
+Stella snorted a laugh. “I'll bring the stool.”
+
+“Thanks.” Ren said, and tossed his shirt on top of the clothes hamper. The pants he had to let fall, along with the underwear, because he couldn't bend over without causing himself pain. He stood next to the shower, and Stella put the step stool inside the tub. Ren stepped inside and Stella helped him sit. She stripped, and Ren admired her.
+
+“Stella, can I ask you a question?”
+
+“Sure, Ren.” Stella said, and unhooked her bra.
+
+“Why do men enjoy watching women undress?”
+
+“Do you want my opinion, or the clinical answer.”
+
+“Clinical.” Ren said. “I can't take my eyes off of you, and I want to know if that's normal.”
+
+Stella chuckled. “It's pretty normal.” She said. “Most men are drawn to look at a woman when she takes her clothes off, or even implies they are going to take their clothes off.” She smiled. “It's an inherent genetic drive for males to procreate.”
+
+“Really?” Ren said. “Does it matter who the woman is, in relation to the man?”
+
+“Yes, and no.” Stella said as she got into the tub. “This bathtub seems tiny with the two of us in here.”
+
+“After being in yours, it sure is.” Ren said. “You said 'yes and no'?”
+
+“Right.” Stella said and adjusted the water and turned on the shower. “If the man knows the woman, there's some kind of emotional bond between them; seeing someone like that becomes exciting. If it's just some random woman, there's less of an emotional reaction. Sometimes there's a lower physical reaction, too.”
+
+Ren nodded. “I think I understand.” He said as Stella lathered him up. “Seeing you undress in front of me means a lot more to me, because we have an existing emotional connection; but, for argument's sake, let's say that waitress today had popped her top open. I'd be more shocked than anything else, and wouldn't enjoy it like I should; or how she'd want me to enjoy it for showing herself to me.”
+
+Stella looked at him with wide eyes. “That's exactly what I meant.”
+
+Ren smiled. “You look so surprised.”
+
+“That's because you're only 18, and yet sometimes you act like you're 30.”
+
+“What's that term... um, I know this...” Ren thought for a moment while Stella kept cleaning him. “Ah... I remember now.” Ren grinned. “Osmosis!”
+
+Stella chuckled. “Where did you pick that up?”
+
+“No idea.” Ren said. “Maybe I got it from osmosis.”
+
+Stella laughed.
+
+“All I know is, that's what I can do.”
+
+“You can, huh?”
+
+Ren nodded. “The more I'm around such a smart and beautiful woman, the more of your brain I can pick at.” He said. “The more I hear, the more I learn.”
+
+“If that's true, then tell me the mean ratio I used for the tests today.”
+
+“You didn't use one.” Ren said. “I think you should say the mean difference.”
+
+“Wh-what?” Stella was shocked to hear Ren correct her.
+
+“If you do continuous tests and get the same outcome, you'd be better off going for an average; but, since you have different test results for the same experiment, and three different test subjects each time, it's the difference in the results you should compare instead.”
+
+Stella stopped scrubbing him and sat on the edge of the tub. “Ren... how...”
+
+“You mumble when you analyze data.” Ren said and chuckled. “I've listened to you talk after every test today.”
+
+“You...” Stella wasn't sure what to say.
+
+“I didn't get it all, though. You're much too smart for me to grasp everything you did today.” Ren said. “You totally lost me when you did that recursive spline graph.” He chuckled. “What the heck is a spline, anyway?”
+
+Stella smiled as she put a hand on the side of his face. “You actually listened to me?”
+
+“Of course I did.” Ren said. “I didn't know if I needed to know anything about what you were doing; but, I figured it would be a safe bet if I learned as much from you as I could.” He said. “Just in case you decided to test me on it later.” He grinned. “Like you just did.”
+
+Stella leaned in and gave him a kiss. She held it for several moments, then leaned back.
+
+“What... what was that for?” Ren asked with wide eyes.
+
+“For caring enough about me, and the project, to go out of your way to help me so much.”
+
+“I kind of feel like I'm only along for the ride, so I want to help when I can.” Ren said.
+
+“Don't you think that deserves a kiss?”
+
+“That depends.” Ren said.
+
+“On what?” Stella asked.
+
+“If I can spout more science-like gobble-dee-gook, will you kiss me like that again?” Ren grinned.
+
+“Only if it's relevant science-like gobble-dee-gook.” Stella said and laughed.
+
+Ren started to spout as much medical and science terminology as he could think of, and Stella kissed him again just to shut him up.
+
+*
+
+Six times! Holly thought as she lay contented beside John. How the hell did he do it six times?
+
+How the hell did I do it six times? John asked himself. The most I've ever gone was twice, and that was only because I'd done it by myself an hour before meeting my date that time. He looked at Holly, and put his arm under her shoulders. Holly figured he had felt as much of her as he could already, and a little bit more wouldn't make any difference; so, she moved in close to lay against his chest. John could feel her naked body pressed against him under the blanket.
+
+“So, do you really like t-shirts?” Holly asked, after she let her curiosity get the better of her.
+
+“Not really.” John chuckled. “I think it was the fact that I saw a very attractive woman wearing something that just barely covered her assets, and I couldn't tell if she was wearing any underwear underneath it.”
+
+“Then it was the possibility of a peek at my assets that made you so... vigorous?” Holly asked. “If I'd bent over and you'd seen that I had underwear on, would I have been less attractive?”
+
+“Hell, no!” John said and hugged her tight with the arm around her shoulders. “That little frilly lace thing nearly drove me wild when I saw it.” He chuckled. “After you wiggled your ass at me all flipping day in those tight jeans, getting to see it set free was so fantastic that I could barely think about anything else.”
+
+Holly laughed. “Is it really that cute?”
+
+“Holly, you're so damn sexy that you're better than Viagra.” John said. “Speaking of which...”
+
+“John!” Holly said, surprised at the bulge that had grown under the blanket. “Again?”
+
+“Well, they say that seven is a lucky number.” John said as he pulled Holly on top of him. “Now help me prove it.”
+
+“I really have unleashed a monster.” Holly said, and laughed.
+
+Seven was definitely a lucky number for the both of them.

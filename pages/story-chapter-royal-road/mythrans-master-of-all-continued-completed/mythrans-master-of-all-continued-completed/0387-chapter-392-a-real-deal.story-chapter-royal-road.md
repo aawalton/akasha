@@ -1,0 +1,339 @@
+---
+id: 9fcc4a3e-413f-5f83-8827-e911a4d4fc71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 392 - A Real Deal"
+slug: 0387-chapter-392-a-real-deal
+partOf: mythrans-master-of-all-continued-completed
+position: 387
+ownLength: 3247
+unit: words
+publishedAt: 2017-10-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168836/chapter-392-a-real-deal"
+royalRoadId: "168836"
+---
+
+Ren slipped off the VR headset and Barbara took it from him to set it aside.
+
+“Well, that was something.” Barbara said, and Ren nodded.
+
+“God, it sure was.” Gloria said as she took off her headset. “Imagine, a ghoul factory!”
+
+“I'm just glad Lylyth didn't know anything about it.” Ren said.
+
+“She didn't?” Gloria asked, and Ren shook his head.
+
+“She wasn't surprised to hear about it, but she was almost shocked when I dumped out the sack of severed heads.”
+
+“Ugh!” Barbara gagged. “Did you have to do that?”
+
+“I'm sorry, Barbara.” Ren said and held a hand out to her. She took it, and he squeezed it a little. “We couldn't loot them like we did to the ghouls, because we needed to prove who was behind it.”
+
+“Plus, it was 2 for 1.” Gloria said and sat up. “Ren got to take the heads for evidence for Lylyth, and we get the bodies to prove it to the town council.”
+
+“No matter what your explanation is, it was still awful.” Barbara said. “I had to cover my eyes for a lot of it.”
+
+Gloria laughed. “You must have had your eyes covered for over 20 minutes.”
+
+Barbara smiled and nodded.
+
+“Oh, geez.” Ren said and sat up. “Bathroom break!”
+
+Barbara laughed. “Do you need a hand?”
+
+“Kind of.” Ren said, and Barbara helped him get out of the bed.
+
+“First dibs!” Gloria said and waddled over to the bathroom. She still had the towel tucked between her legs inside her jogging pants, and she walked bow-legged and looked like a duck. Ren started to quack at her, and Gloria gave him her middle finger before she disappeared into the bathroom. Ren laughed and walked across the room behind her, then didn't wait for her to finish before he went into the bathroom.
+
+“HEY!” Gloria yelled, and Ren stepped in and shut the door. “Ren, I'm busy!”
+
+“No kidding?” Ren said and he could clearly hear her tinkling.
+
+“Out! Get out!” Gloria said.
+
+“I'm sorry, but I have to get this thing off.” Ren said carefully pulled down his pyjama pants, then slid his underwear down.
+
+“Good god.” Gloria said when she saw the very full implement of protection that he wore. “That's...”
+
+“It's going to be a flipping mess.” Ren said, and she laughed. “Hey, it's not funny. You did a lot of this.”
+
+Gloria snorted a laugh. “Uh huh. Sure I did.” She said. “You were with Lylyth all night.”
+
+Ren stood over the trash bin and chuckled. “You made me finish a lot more than she did.” He said and carefully removed it and tossed it in the trash. He grabbed a sanitizing wipe and cleaned himself off, then washed his hands.
+
+“We were only together for a couple of hours.” Gloria said.
+
+“You do remember what happened after I went into the tower to get you this morning, right?” Ren pulled up his underwear and pyjama pants, and Gloria's face flushed red. “That's right. Your little teasing walk set me off like a-”
+
+“REN!” Gloria yelled, and Ren laughed.
+
+“You look so cute when you're mad.” Ren said and walked over to her.
+
+“Ren, I'm... I'm not done.”
+
+“I haven't heard any splashing in a while.” Ren said.
+
+“I...” Gloria's face flushed a deeper red. “I'm waiting for you to turn around.”
+
+Ren touched her cheek and she looked up at him. He gave her a quick kiss on the lips, then took a step away and turned around.
+
+“The mirror.” Gloria said.
+
+“My eyes are closed.” Ren said.
+
+Gloria eased up a little, grabbed a tissue and wiped herself, then looked in the mirror. All she could see was his peaceful face and his closed eyes. She stood up and pulled up her jogging pants.
+
+“Okay.” Gloria said.
+
+Ren turned around and opened his eyes. “Yep, you're still beautiful.” He said, and it made her blush again. “Now, step aside.”
+
+“Wh-what?”
+
+“The dam is about to break and you're in the line of fire.”
+
+Gloria chuckled and moved over, and Ren pulled his pants and underwear down and used the bathroom. She turned her head away so she wouldn't stare at him.
+
+“You can look.” Ren said. “It's not like you haven't seen it before.”
+
+“But...”
+
+“We've been intimate for a long time.” Ren said. “I don't mind you seeing me like this at all.”
+
+Gloria let her curiosity take over and turned back to watch. She wasn't sure why it seemed so fascinating; but, she couldn't take her eyes off of it as it performed a basic bodily function. Ren shook it a couple of times when he was done, wiped the tip off, then flushed and pulled up his underwear and pants. When it was safely tucked away, the spell Gloria had been in was broken and she looked at Ren with wide eyes and a deep red blush.
+
+“What did I tell you about being embarrassed about anything I do or say?” Ren asked her and washed his hands.
+
+“D-don't be.” Gloria said and washed her hands, too.
+
+“That's right.” Ren said and took her hand. “Now, let's go and spend some quality time with my night nurse.”
+
+“E-excuse me?”
+
+“Stop jumping to conclusions.” Ren chuckled. “We watch stupid television shows.”
+
+“Oh, okay.” Gloria said and let Ren lead her out into the bedroom.
+
+“Hey, Barbara! What's on tv?” Ren asked.
+
+“You're in luck!” Barbara said excitedly. “Channel 8 is running a marathon of Supervision!”
+
+“IEEE!” Ren screamed like a little girl and pretended to faint. Gloria couldn't help herself and laughed at him as she easily held him up, then Barbara laughed, too.
+
+“Let's get the distressed damsel into one of the recliners in the theatre room.” Barbara said to Gloria, which made her laugh even more. The two of them brought Ren down the hall to the theatre room and sat him in the front row.
+
+“This is still kind of unreal.” Gloria said. “You have your own movie theatre.”
+
+Ren chuckled. “It's like I'm living in a dream, except there's no terror or excruciating pain.”
+
+“Geez, Ren.” Barbara said and chuckled herself. “Just sit back and enjoy the show.”
+
+“That's what I'm doing.” Ren said and held a hand out to Gloria. She took it, and they sat back and enjoyed the rest of the night as they spent time watching television and talked with Barbara.
+
+*
+
+Stella woke up in the most comfortable bed she'd ever slept in, and remembered where she was. She sat up and stretched, then checked the alarm clock.
+
+Ha ha! I woke up just before it went off. Stella thought happily, waited 25 seconds, then hit the alarm when it started to go off. She got out of bed and had a quick shower, applied a touch of makeup, then dressed in a pair of pants and a thin sweater. She had some important errands to run today and she needed to get into town. She was a lot further away from where she needed to go, since she had stayed over at Ren's place; so, walking there was out of the question.
+
+She grabbed her purse and made sure everything she needed was in it, including several breakfast bars, then left her room and went downstairs. Since they were in the higher class neighborhood, when she called a taxi, it only took a couple of minutes for it to arrive. She hopped in it and she asked it to stop at the guard shack. She got out, and the guard there thanked her profusely for everything and gave her back the borrowed silverware. She waved to him and left to do all of the things she normally did on her day off. She ran around and paid bills.
+
+*
+
+Elise woke up in her bed, and it felt empty. Ren had never been in her bed, and that was something she thought she needed to change.
+
+Soon. Elise thought and got out of bed. She hadn't worn a bra, since it was much too restrictive and dug into her skin during the night. When she stretched her arms out, her thin t-shirt bulged out prominently.
+
+Ren would so love to see this. She thought, then smiled. She picked up her cell phone and did the same pose, checked to see that her private area was just barely covered, and took a picture.
+
+'This is for you, sweetie.' Elise typed up in a text and sent the picture. He probably won't get that for a while. She thought when she looked at the clock. She got a shower and did her hair up into a very conservative bun, dressed in her best business outfit, then slipped on her glasses.
+
+Elise put Ren's file folder of evidence into her briefcase and left her house. I can't wait to see the lawyer's faces when they get copies of this!
+
+*
+
+“All right, we've wasted enough time.” Barbara said when she glanced at her watch. “Denise should be here any minute.”
+
+Ren let Gloria's hand go and stood up. “All I have to say is... that was pretty awful.” He said and laughed. “I can't believe the things you like!”
+
+“Oh, come on! You enjoyed it.” Barbara said and winked at him. “I heard you say 'yes!' when that cat swooped in and saved the toddler from getting mauled at the last second.”
+
+“What a great cat!” Ren said. “It sure had guts!”
+
+“Yeah, the dog's.” Gloria said and laughed as she stood up, too. “That pit bull turned chicken and took off before the cat could seriously hurt him.”
+
+Ren nodded and stepped close to Gloria. “You can never tell what kind of reactions you're going to get until you're in certain situations.”
+
+Gloria couldn't be that close to him and not hug him, especially after admitting to both him and herself, about how she really felt. She slid her arms around him, and he did the same to her.
+
+“I think we both need a shower.” Gloria said.
+
+“I would have done that when I logged out; but, since I'm going to try and do some physical therapy first, there's no point in taking two showers.”
+
+“Then I'll get one while you're busy.”
+
+“You can if you want, or you can share mine when I'm done.” Ren said. “Before you argue that I'll want to turn it sexual, I'm usually too exhausted to do anything but sit there and let the nurse scrub me.”
+
+Gloria snorted a laugh. “So, you're not trying to trick me into having shower sex?”
+
+“Nope.” Ren said and kissed her neck, since that was all he could reach. “Sometimes I'm even too tired to help wash back.”
+
+“All right, I'll wait.” Gloria smiled.
+
+Barbara came into the theatre room with the wheelchair and Ren sat down in it.
+
+“To the kitchen please.” Ren said to her, and the three of them went down in the elevator and went into the kitchen.
+
+“I'm here!” Denise yelled when she came in the front door.
+
+“We're in the kitchen!” Barbara yelled back, and Denise walked through the house to meet them.
+
+“Am I cooking for everyone today?” Denise asked.
+
+“That depends on what you're making.” Ren said, and Denise walked over to the refrigerator and opened the door. She took out a carton of eggs, a pack of bacon, and a loaf of bread.
+
+“Can you guess what's on the menu?”
+
+“Omelettes!” Ren said with a huge grin.
+
+“I'll give you omelettes, you little frigger.” Denise said, and he chuckled.
+
+“I'll do the eggs and you can do the bacon.” Barbara said to Denise.
+
+“I'll make the toast.” Gloria offered, and picked up the loaf of bread.
+
+“I'll sit here and tell my stomach to shut up.” Ren said. It rumbled at him and he looked down at it. “Dammit, what did I just tell you?”
+
+Barbara, Denise, and Gloria laughed, then got to work and made sandwiches for everyone. They made a couple extra, and Barbara took one for herself and two for her husband.
+
+“Donald and I will be back over in a few minutes.” Barbara said and left with the sandwiches through the door in the kitchen. Denise, Gloria and Ren ate their egg, bacon, and toast sandwiches pretty much in complete silence, except for the slight crunching sounds of the toast and bacon while they chewed. Barbara and Donald came into the kitchen 10 minutes later.
+
+“Well, it's time for my workout.” Ren said. “Gloria, you're welcome to come and participate.”
+
+“You want me to work out with you?” Gloria asked.
+
+“Not necessarily with me.” Ren said. “There's no way I can physically do what you do.”
+
+“Then what...”
+
+“It's a whole professional gym setup, and you can do anything you want in there.” Donald said, and discretely grabbed Barbara's backside. She jumped a little and her face went a little red; but, she didn't say anything about it.
+
+“I'll come and watch.” Gloria said, and they all went to the workout room. Ren got out of the wheelchair and used Donald's advice for proper walking. He squeezed his butt cheeks together a little and planted each foot from heel to toe to make sure he was walking properly. He did the 50 feet quite quickly, and came to a stop.
+
+“That's it?” Gloria asked. “You're not going to push on?”
+
+Ren shook his head and sat down in the wheelchair Denise brought over to him. “I pushed myself and reached 75 feet yesterday; but, it took nearly everything I had.” He said. “Donald gave me some really good advice when I did that. He told me to do 50 feet consistently before trying to push past it.”
+
+“If that's your goal, then you'll achieve it pretty fast.” Gloria said, and Ren smiled.
+
+“That's just for walking.” Ren said. “I'm not that tired, so I can do other things.”
+
+Gloria watched as he did arm curls with 5 pound weights, and decided that she couldn't just stand there and watch while Ren worked out; so, she joined in and picked up two of the 20 pound barbells and did arm curls. She matched his pace and they sweated and worked out together. They did 10 reps and took a break, then did 10 more.
+
+“I can't do any more right now.” Ren said, and put the weights down. His arms shook slightly, and he sighed. “I've definitely let this go too long.”
+
+“You didn't have much choice.” Denise said. “Don't worry, you'll be back to your old self soon enough.”
+
+“I hope so.” Ren said, and took out his hand exercisers from the pocket on the side of the wheelchair. He squeezed one in each hand at the same time. Gloria watched in fascination as Ren had no trouble with them, and he stopped and pointed. “There's more of them over there.”
+
+Gloria chuckled. “I can't do them.”
+
+“Wait, what?” Ren started squeezing them again.
+
+“I can't take the chance that I might damage these precious fingers.” Gloria said and held up her hands. “I need them for very delicate tasks when I'm working on electronics.”
+
+“Ah.” Ren said and looked at his legs. “Denise, I think we need to look into finding a physical therapist.”
+
+“You're right. Now that you're feeling better, you're going to need to do a full movement session each day or you're only going to get weaker in some spots.”
+
+Ren sighed. “It's been so nice not having to feel sore every morning.”
+
+Denise smiled and squeezed his shoulder. “You'll probably have a few more days of relaxing before we can get someone in here.”
+
+“Donald can do it.” Barbara said.
+
+“Barbara...” Donald said.
+
+“Hush, Donald.” Barbara said. “I've seen you making workout plans for him.”
+
+“I wasn't doing that for me.” Donald said.
+
+“Of course you weren't. You were doing it to give to any therapist that might come in to take care of him.”
+
+“Barbara...”
+
+“I said hush!” Barbara commanded him, and Donald nodded. “He was an intense trainer for the services before he retired, and he's been watching you each day. He knows your physical limitations almost as well as I do.”
+
+“Really?” Ren looked from Barbara to Donald. “Sir? Would you be willing to train me?”
+
+Donald snorted a laugh. “I'll be giving therapy, not training you.”
+
+“No, sir.” Ren said. “If there's one thing that I know about the military, it's that when they teach you, it's training.”
+
+“I can't make you into a soldier.” Donald said.
+
+“I know. I'd have to be normal first before you could make me into that.”
+
+“Ren...” Gloria said.
+
+“What? I'm not normal. I know that.” Ren looked at their concerned faces. “What I want... what I need... is to get as close to normal as I can.”
+
+“It's going to be hard.” Donald warned him. “You remember all of your other therapy sessions?”
+
+Ren nodded.
+
+“Those are cakewalks compared to this.” Donald said. “So, do you still want to subject yourself to it?”
+
+“I'd like nothing better, sir.” Ren said.
+
+“I'd get you to do some warm-up exercises, but you've blown your energy for the day already.”
+
+Ren chuckled. “I should have asked about a therapist before my walk.”
+
+“We'll start tomorrow.” Donald said. “Be ready.”
+
+“I already am.” Ren said and smiled.
+
+“See you in the morning.” Donald said.
+
+Denise pushed Ren out of the workout room and Gloria followed them to the elevator. The three of them went up to Ren's room, and he stood up by the bathroom door.
+
+“My arms feel like jelly.” Ren said and walked into the bathroom. Denise and Gloria followed him, and saw him struggle with the buttons on his pyjama top.
+
+“Let me get those for you.” Denise said, and Ren let her take off his top.
+
+“My fingers are usually my strongest appendage.” Ren said and slid his pyjama pants off. Gloria chuckled, then covered her mouth.
+
+“I'm sorry.”
+
+“Oh? Was someone's mind in the gutter?” Ren asked her, and her face went a little red. “It's weird that I can't feel what you're feeling, and I only just got that ability in the game.”
+
+“We've been sharing Auras for a while, though.”
+
+“Yeah, but... it's...” Ren smiled. “I can't taste you.”
+
+“What?” Denise looked at Ren with surprise.
+
+“That's not what I meant.” Ren said, and explained that he had gained the same ability as Gloria's game character, Elerlyth.
+
+“That is weird.” Denise said. “You can feel each other's emotions, and also feed on them?”
+
+Ren nodded. “It's a restricted ability, too.” He said. “As far as I know, only two players have it.”
+
+“You and me.” Gloria said.
+
+“The sex must be amazing.” Denise said, then it was her turn to cover her mouth and apologize. “I'm sorry.”
+
+“You don't have to be.” Ren said. “Have you thought about my offer?”
+
+“I... I need more time.” Denise said.
+
+“Like I told you before, there's no rush.” Ren said, and turned to Gloria. “Are we sharing the shower?”
+
+“Um...” Gloria looked at Denise.
+
+“I'll be just outside the door.” Denise said and started to walk away.
+
+“Denise.” Ren said, and she stopped walking. He walked over to her and gave her a hug from behind.
+
+“What's this for?” Denise asked.
+
+“Just because.” Ren said and let her go. Denise walked to just outside the bathroom door and closed it almost all of the way.

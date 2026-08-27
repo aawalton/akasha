@@ -1,0 +1,321 @@
+---
+id: ef1d85b1-bac7-50b8-ac6c-c0251024939f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 504 - Back To The Pool"
+slug: 0504-chapter-504-back-to-the-pool
+partOf: mythrans-master-of-all-continued-completed
+position: 504
+ownLength: 3480
+unit: words
+publishedAt: 2018-02-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192755/chapter-504-back-to-the-pool"
+royalRoadId: "192755"
+---
+
+Ren opened the door to his apartment and immediately felt relief, love, reassurance, and a bit of disbelief that he was really there, despite the fact they could already feel him and his Auras because they shared them with him.
+
+“I'd like to say that the rumors of my demise were slightly exaggerated, but they weren't.” Ren said and smiled.
+
+“It's not a joking matter.” Frikara said. “Please don't make light of it.”
+
+Ren felt a strong desire spike in the shared Aura. He couldn't tell who it was from, though. “I'm sorry.” He said and flooded the shared Auras with remorse, and nearly everyone gasped. He walked over to the group of women that were sitting in chairs in a circle, and they were all holding hands. He hadn't even looked at their faces or counted them, since he could feel their feelings. He stopped behind Frikara and put a hand on her shoulder, and she turned her head to look at him.
+
+“I'm sorry I was taken away so quickly and couldn't warn you.” Ren said and gave her a kiss. Her pleasure at being kissed first flooded through the shared Aura, and Ren took it and pushed it back out to make sure everyone knew it wasn't preferential treatment. The light of connection they had started to glow slightly, and he went along the outside of the circle to each woman in turn. He put a hand on their shoulder so they would look at him, and he gave them the same kiss as he gave Frikara.
+
+Ren kissed all 5 maids, almost like it was a ritual, and each of them felt that it was the same as the first kiss and that they deserved it. When he touched the shoulder of the next woman in the circle of chairs, she turned and looked at him just like the others did.
+
+“I can feel it.” Officer Holly said. “You really do treat them all the sa-Mmm!” Her words were cut off as Ren gave her a kiss and he pushed the same feelings into her as he did with the others through the shared Aura. He broke the kiss and moved on, and touched Xuunah's shoulder next.
+
+“Ren, you really shouldn't do-Mmm!” Xuunah's words were also cut off as Ren kissed her and poured his feelings into her. Her light of connection glowed the brightest, and Ren added a very strong thankful feeling to the shared Aura. He broke the kiss and moved on to the next woman, then touched Artemis on the shoulder.
+
+“R-Ren, d-don't.” Artemis said, and Ren kissed her cheek. He knew he couldn't kiss her on the lips, mainly because he could feel that she wouldn't be able to hold her own emotions back if he did. He felt her relief that he hadn't taken her first kiss, and that surprised him. He leaned back and she looked at him with wide eyes.
+
+“It's harder to concentrate when you're touching me.” Artemis said, and Ren caressed her cheek where he had kissed it.
+
+“I'm sorry this is hard for you.” Ren said.
+
+“That's why I'm shielding so much.” Artemis said, and he smiled. He went to the last woman in the circle, and Symmetra smiled at him.
+
+“Yeah, I know.” Symmetra said. “I can't expect you to kiss me on the lips if you don't kiss Artemis first.”
+
+Ren chuckled. “Fair play is a good rule to live by.” He said and kissed Symmetra's cheek, then he turned and looked at Princess.
+
+“Hello, My Lord.” Princess said.
+
+“Princess.” Ren bowed his head slightly, then stepped close and kissed the tip of her nose, then walked over to the start of the circle. “Thank you all for being here and helping each other.” He said. “You didn't have to do that; but, I'm very happy that you did.” He looked at Officer Holly and Xuunah, and both had very surprised expressions on their faces. “I really appreciate it.”
+
+Frikara chuckled. “We can all feel how much you appreciate it.” She said and stood up. “We can also feel that you're not telling us something.”
+
+“I was invited by Clint to come to his ranch and relax for a while.” Ren said. “I'm sure he's inviting a few more friends than just the party members, so I wonder if you'd all like to come with me.”
+
+“No, thank you.” Symmetra said and stood up. “I've got some crafting to do.”
+
+“I'll be coming along, but only because I should stay by your side, just in case.” Artemis said.
+
+“There's not much time left in the day.” Frikara said. “How long is this party supposed to last?”
+
+“I think it's going to be a week or so.” Ren said.
+
+“A week!?!” Officer Holly laughed. “I'm lucky to enjoy a few hours of relaxation!”
+
+“I just said that to Elise.” Ren chuckled. “I still have to show up at Clint's tonight, so I'll ask if we can all come tomorrow instead.”
+
+“That's a bit more reasonable.” Xuunah said and stood up. “We can all get a good night's sleep first.”
+
+Ren felt that she wanted to leave, and he walked back over to her. “Xuunah, it's okay.” He said, and she looked at him with wide eyes. “We agreed that we can feel the feelings, remember?”
+
+“Ren, I...”
+
+Ren took two steps up into the air and kissed her again. Xuunah couldn't fight his sincerity and his need to make her happy, and she opened up what she had been holding back inside. She wrapped her arms around him and kissed him back with reckless abandon, then let all of her feelings out. Love, passion, regret, recalcitrance, defiance, and a strong feeling of reclusiveness despite spending a lot of her time with people not of her race.
+
+Since Ren was still sharing his Auras with everyone, they all felt what Xuunah had been hiding from everyone. He and Xuunah stayed that way for several minutes as his Emotion Siphon ability absorbed everything she was throwing at him, then reason permeated Xuunah's thoughts again and she broke the kiss.
+
+“I... I'm sorry.” Xuunah said, her face bright red. “I... I didn't mean to...”
+
+“Thank you so much.” Ren said as he let her feel his deep gratitude. “You stayed here with everyone to help them deal with what happened, even though you felt that way.”
+
+Once again Xuunah felt how much Ren appreciated what she had done. Everyone now stood and had their hands on either Xuunah or Ren, so they could add their own thanks. Even Officer Holly offered her thanks through the Reassurance Aura she shared with her and Ren.
+
+“I didn't realize you needed the reassurance, too.” Officer Holly said, and poured as much good feelings into Xuunah as she could. Xuunah looked at all of their faces, and nodded slightly.
+
+“On that note, I better get going.” Ren said and let Xuunah go, then equipped his platinum armor. “Princess, can I get a ride, please?”
+
+“Of course, My Lord.” Princess said. “I also have your looted items in my inventory.”
+
+“My what?” Ren asked.
+
+“When you died, you left things behind.” Teepo and Princess said together.
+
+“Princess and I picked them up.” Teepo said alone.
+
+“Thanks a lot.” Ren said and opened Princess' inventory and saw what was in there. “Oh, crap!” He said and took the items out. “I dropped my storage tower!”
+
+“We were wondering which one it was.” Symmetra said and pointed. “You should loot that, too.”
+
+“What?” Ren looked at the sack beside the door and went over to it. He opened it up and saw Lord Tathalyn's remains inside. “Symmetra, you didn't have to do this.” He said, then smiled. “Thank you.”
+
+“You're welcome.” Symmetra said.
+
+Ren looted the body to make it disappear, and received a popup that he didn't expect.
+
+Notice!
+
+Lord Tathalyn was the son of one of Vasalor's Chosen, and had been corrupted as a child. You have removed the remains of the link that (undefined static) had established with the Earth Realm through him. No further attempts may be made through him or his buildings by the Lightning Realm.
+
+Rewards: Lord Tathalyn's Earth Realm possessions. 12,435 platinum coins; 3,536 property deeds; small box of shadow markers, Bracelet of Magical Barrier.
+
+Ren blinked his eyes at the popup. That's all of his worldly possessions?
+
+“Maybe it just doesn't want to list all the clothing and furniture.” Teepo said, and Ren had to agree.
+
+Notice!
+
+As one of Vasalor's Chosen, you now have access to Lord Tathalyn's Chosen Ability: Possession Restoration.
+
+“Wait, what?” Ren said, surprised. “Show info for Possession Restoration.”
+
+Possession Restoration
+
+For an appropriate Mana cost, you may restore anything you possess to it's best condition. This includes (but is not limited to) buildings, armor, furniture, weapons, etc.
+
+“Holy crap!” Ren said.
+
+“What is it?” Frikara asked.
+
+“Um... someone give me something that needs fixing.” Ren said.
+
+“I broke a chair when I first sat down.” Symmetra said and took the pieces out of inventory. “I made a new one, though.”
+
+“That's good enough.” Ren said and put the broken chair on the floor in front of him. He used the Possession Restoration ability and poured a small amount of Mana into the wooden chair, and the pieces sucked together and reformed the chair as if it was brand new.
+
+“I did not just see that!” Officer Holly exclaimed in disbelief.
+
+“I know!” Ren said and brought his hand down through the chair to shatter it into pieces.
+
+“Ah!” Officer Holly jumped back as the pieces scattered across the floor.
+
+“Sorry.” Ren said and put a finger on the closest piece of splintered wood. He used the ability again, and all the pieces sucked together and reformed the chair as if it was brand new again. Awe flowed through the shared Auras as they all beheld the sight.
+
+“Wow.” Someone said, and Ren nodded.
+
+“Yeah.” Ren said and put the chair over by the wall, and everyone looked at it like it was possessed or something. Of course, so did Ren, and he was the one that did it. “Um... yeah. Okay.” He said and opened the apartment door. “I'll see you all later.”
+
+No one said anything as Princess and Artemis followed Ren out of the apartment, and he shut the door behind them. They went downstairs and outside, and Ren climbed up onto Princess' saddle. He took out the All-Seeing Mirror and checked on the ghouls, and they seemed to be calmed down and scattered with only a handful in each of the nests. He asked the mirror for the High Elves patrol areas to see if they covered the nests, and they weren't even close.
+
+Ren knew he had lots of time to spare on that personal quest, and asked Princess to take him to Clint's ranch. Artemis flew beside him as they travelled for several seconds to Clint's place, and Ren remembered when it had taken several hours to make the same trip. They came to a stop above the ranch, and Ren saw about 40 people were scattered around the pool, as well as a Giant and a High Elf. He looked around for Clint, and found him beside a woman that Ren didn't know.
+
+“Should I just land beside him?” Princess asked.
+
+“Sure.” Ren said, and Princess trotted down in a circle to come to a stop beside Clint. A few people had noticed Ren and pointed as they approached the ground, and one woman even shouted that he was going to attack. Clint turned to see what the ruckus was about, then laughed.
+
+“Naw, tha' jus' Ren.” Clint said.
+
+“REN!” The woman beside Clint yelled. “It was all your fault!”
+
+“If you're referring to that.” Ren said and pointed to Hank. “Then yes, it was my fault.”
+
+“You aren't going to deny it?” The woman asked, and Ren felt her shock.
+
+“What for?” Ren asked. “I added 3 new starter cities to the game, and I had no idea the options it would open up.”
+
+“Hank's been having a hard time as a giant, man.” Tommy said. “That's some spiffy armor you have now.”
+
+“It's made of platinum.” Ren said and turned to look at Tommy, then felt everyone's shock as they stopped talking and looked at him.
+
+“You... you smelted platinum...” The woman beside Clint said.
+
+“Yeah.” Ren said. “Enough to get a good alloy mix with steel, then forged and folded each piece 50 times.”
+
+“H-how... how much...”
+
+“I have no idea.” Ren said. “It was about half a smelter full.”
+
+“Half a...” The woman shook her head. “No, that... that's not possible.”
+
+“Ren? It was about 1,500 platinum.” Teepo offered.
+
+“If I had to guess, I'd say it was about 1,500 platinum coins.” Ren said and looked at Hank. “Hey, Hank!”
+
+“Hi, Ren.” Hank said and waved.
+
+“Want me to fix that?” Ren asked and pointed to him.
+
+“Fix... wait, what?”
+
+“Tommy's right.” Ren said. “You're going to have a hard time in the Human Kingdom if you stay a giant.”
+
+“It's a class upgrade.” Hank said. “I've been talking to the system admins, and they said I'm stuck as a giant until I reach the next level plateau that allows another change.”
+
+Ren chuckled. “I didn't mean removing your Giant race, I meant making you smaller.”
+
+“You can do that?”
+
+“Yep.”
+
+“Then hell, yeah!” Hank said and started to stand up.
+
+“STOP!” Ren yelled. With his Command Aura active, the order was so powerful that Hank froze solid... as did everyone else within the Aura. Caramel, who had been sitting on Hank's shoulder, slid off and started to fall. Ren ran over so fast that no one saw him move, and he ran over the water and right up Hank's chest, then caught Caramel.
+
+“AH! I'M FALL-oh.” Caramel started to yell before she realized she had been caught, then looked at Ren. “Thanks.”
+
+“You're welcome.” Ren said and walked back down Hank's chest and across the water to put Caramel on solid ground, then turned to Hank. “You can move now.”
+
+Ren heard a sigh from several people and looked around. “What is it?”
+
+“We all stopped when you yelled.” Caramel said. “I've never felt anything like that before.”
+
+“I'm sorry.” Ren said. “I just wanted Hank to stop before you got hurt.”
+
+Caramel touched the top of his head and ruffled his hair. “Thanks.”
+
+“Hey, are you making time with my favorite dancer?” Hank asked, and Ren looked up at him.
+
+“No, I'm allergic to Caramel.” Ren smiled. “Are you ready to be normal-sized again?”
+
+“I sure am.” Hank said and held his arms out and closed his eyes. “Do your stuff!”
+
+Ren took out the Permanent Enlarge and Reduce Anything wand and shot him once. Hank dropped from 24 feet tall to only 12.
+
+“Can you stop there for a minute?” Caramel asked.
+
+“Sure.” Ren said, and Caramel walked over to Hank and pulled out his swim trunks and looked inside. She shook her head and walked back over to Ren.
+
+“There's no way that's going inside me.” Caramel said, and Ren chuckled.
+
+“I'll keep going, then.” Ren said and used another spell on Hank. “You're done.”
+
+The second spell brought Hank back down to his normal 6 feet in height, and he opened his eyes to look at himself.
+
+“Hey! It worked!” Hank said, and Caramel ran over to him and jumped into his arms. He caught her, and they kissed.
+
+“You'll keep the race bonuses, but you lose the height advantage.” Ren said, and Hank said he didn't care.
+
+“Ren, the High Elf is coming over.” Artemis said, and Ren turned to face him.
+
+“Hey, Billy.” Ren said, and saw Jennifer beside him. “Hi, Jennifer.”
+
+Billy walked right up to him, made a fist, and leaned down to punch Ren in the face in one smooth motion. The sound of breaking bones was loud in the silence that followed.
+
+“ARGH!” Billy yelled and gripped his severely damaged hand.
+
+“BILLY!” Jennifer yelled as Billy dropped to his knees. “What did you do that for?”
+
+“He had sex with you!” Billy said.
+
+“Oh, Billy.” Jennifer said. “I have sex with lots of people, and you don't try to punch them in the face.”
+
+“They never satisfy you, though!” Billy said. “Having sex with them doesn't matter!”
+
+“Billy...” Jennifer tried to speak and he shook his head.
+
+“You told me how good he made you feel!” Billy said. “You said it was the best sex you've ever had!”
+
+“It was.” Jennifer admitted.
+
+“How am I supposed to compete with that?” Billy asked.
+
+“It's not a competition.” Ren said, and everyone looked at him. Several of them had disapproving looks, and he could feel that they didn't like him very much. “Do you want to know what I did?”
+
+“Hell, no!” Billy said. “I don't want details about how much better in bed you are!”
+
+“Ha ha!” Ren laughed, and he felt everyone start to hate him a little. “I wouldn't do that if my life depended on it.” He said. “Even Jennifer won't tell you specifics.”
+
+“That's... true.” Jennifer said, and her face went a little red.
+
+“Then what...”
+
+“All I did was give her what she wanted.” Ren said. “Nothing more, nothing less.”
+
+“But...”
+
+Ren took a step forward and everyone tensed up, including Billy, and he felt that they all expected him to punch Billy back. “Billy, you know what she likes, right?” He asked and put a hand on Billy's shoulder instead, much to everyone's surprise... including Billy's.
+
+Billy didn't say anything in response and ducked his head.
+
+“Making yourself twice as big didn't help, did it?” Ren asked, after an educated guess about why Billy had chosen the High Elf race, besides the obvious Dexterity and Agility bonuses to his Archery skills.
+
+Billy thought about not answering again, then shook his head.
+
+“That's because it's not what she wants.” Ren said. “I don't know how long you've been together, and it's none of my business.” He said and gave Billy's shoulder a little squeeze. “I can only assume that she told you what she wants, so all you have to do to make her happy, is to do that sometimes.”
+
+“I... I can't.” Billy said. “I love her, but I... I just can't.”
+
+“Is that why you're angry at me?” Ren asked, and Billy looked at him with wide eyes. “Because I can?”
+
+“Yes, dammit.” Billy said and ducked his head again. “I hate that you can please her like that, and I... I can't even...” He sighed. “I don't even like being in her work room.”
+
+“Then I'm more sorry about that than you know.” Ren said and let Billy's shoulder go. “What I'm not sorry about is that she had legitimately won the first dance at the club from me, quite handily I might add; or that I had sex with her.” He said. “It was just sex; but, it was also fun for the both of us and we both enjoyed it a lot.”
+
+“That's the problem!” Billy said and tried to point, but his hand was still broken and he winced instead.
+
+“No it isn't, Billy.” Ren said. “I can heal that if you want.”
+
+“I don't want your help!” Billy almost yelled, and Ren sighed.
+
+“You need it healed quickly, or it's going to stay that way.” Ren warned him.
+
+Billy gritted his teeth, then held his hand out. The fingers were mangled, and it reminded Ren of when he had hurt that alchemist in the dwarf lands. Ren took extra care as he examined the damaged hand and used a Major Healing wand to heal it. Several people were surprised by this, and Ren dismissed the Running Quest Update popup for showing people what he could do.
+
+Billy made a fist with his hand and stood up, then turned away from Ren. Jennifer caught his arm and stopped him from leaving.
+
+“Billy...” Jennifer started to say.
+
+“I know, I know.” Billy said. “He's right.” He looked down at her. “I've tried to do things your way remember?”
+
+“I'm sorry, Billy.”
+
+“So am I.” Billy said. “Now I'm stuck like this.”
+
+“I can make you smaller, too.” Ren said, and Billy and Jennifer looked at him. “Just like Hank, you keep the race traits, but you don't have to keep the size.”
+
+“Won't I lose my Dexterity and Agility bonuses because I'm not as tall?”
+
+Ren shook his head. “The only downsize is you'll be a lot lighter than you used to be.”
+
+“Do it.” Billy said.
+
+Ren took out the other wand and reduced Billy to his normal height.
+
+“Thanks.” Billy said and looked at Jennifer. “You and I need to talk.”
+
+Jennifer nodded and they walked off to be alone.

@@ -1,0 +1,303 @@
+---
+id: fb937c90-6577-5bbd-93dc-5904881b4181
+page-type-slug: story-chapter-royal-road
+title: "Chapter 332 - Purr-fect Timing"
+slug: 0324-chapter-332-purr-fect-timing
+partOf: mythrans-master-of-all-continued-completed
+position: 324
+ownLength: 3607
+unit: words
+publishedAt: 2017-08-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155568/chapter-332-purr-fect-timing"
+royalRoadId: "155568"
+---
+
+I'm only going to get one shot at this. Ren thought as the creature leaped through the air towards him. At the last possible moment, he jumped backwards out of the way and the Sabertooth Rock Golem's claws grazed his legs and boots and tore long furrows in them. Ren and the golem crashed to the ground at the same time, but only Ren felt the impact because when the golem landed... the ground wasn't there.
+
+Ren had used the Pass Wall spell from the Staff of Earth to make a 100 foot deep tunnel in the ground right behind where he stood. His jump backwards let him clear it, but the creature's jump had carried it just far enough to land right in the middle of it. The creature howled as it plummeted into the earth, and Ren knew that it wouldn't really be hurt from hitting something that it was made of and used for regeneration. That wasn't his plan at all.
+
+Ren took out a level 5 Iron Wall wand and cast it a dozen times to cover the entire surface of the crater in a thin layer of iron, and made sure to slide it under where Janice still laid. He left the hole the creature was in uncovered, and cast it 20 more times in quick succession to add a foot of thickness to the iron barrier. He heard a crash as the creature finally hit the bottom of the tunnel, and smiled as he dismissed the Pass Wall spells before the rock golem could grab onto the wall to regenerate.
+
+The creature was picked up by the cancelled spell magic and shunted forcefully up through the tunnel towards the surface, and Ren heard it mewl in fear as it was thrown very high up into the air. It flipped end-over-end several times as it went almost as high as the tunnel was deep, then it plummeted back down towards the ground.
+
+Ren had covered the bare earth where the tunnel was with Iron Wall, then emptied the wand of the remaining spells as he cast Iron Wall in 2 foot by 2 foot x 3 foot thick anvil shapes; the same shape he had used as an actual anvil before the fight with the giant soldiers, and spaced them out over the area where the Sabertooth Rock Golem was going to land.
+
+Let's see how you like getting several blunt force trauma hits at once. Ren thought as he watched the creature twisting and turning body smash into the impromptu meat tenderizer. Rock pieces scattered across the iron barrier as the Sabertooth Rock Golem impacted the hard metal protrusions. It's tail was gone, two of it's large paws were broken off, and it had several cracks along it's upper body and one nasty fracture across it's face. One of it's tusks was missing, too.
+
+Ren stored the Staff of Earth and took out a Web wand. He shot it half a dozen times to hold it in place, and it swiped one of it's good paws to clear it away like it was nothing. The web hadn't held it at all, and the rock golem reached for it's broken pieces.
+
+“No you don't!” Ren said and brought his hammerpick down onto the paw closest to him. It smashed the rock, and the toes and claws broke off; but, it didn't shatter under the blow like he thought it would. Rather than take the limb back to stop Ren from attacking it again, it howled in anger and pushed itself up and off of the iron protrusions by it's broken limbs, and hopped forward with it's last good paw extended. It hooked it's claws into Ren's chest plate and let it's own weight pull it downwards.
+
+“AGGHHHH!!!” Ren screamed as the claws tore into the metal and dug into his upper chest. Half of his Health drained away almost immediately, then it dropped at a steady rate.
+
+Notice!
+
+You have gained the condition: Bleeding Profusely. You have 3 minutes to rectify this.
+
+A little timer popped up on Ren's display and counted down the seconds. He fell to his knees in pain, then the claws stopped when they hit the large ruby in the middle of the chest plate. He almost sighed in relief because it gave him the time he needed to activate Serene State of Mind again. The pain disappeared and Ren swung the hammerpick again and again into the creatures head and chest.
+
+Despite the damage the Sabertooth Rock Golem had taken from both falls, it had only lost half of it's Health and Durability, and it still benefited from it's Defense buffs. Ren wasn't sure why his blows weren't that effective, and he glanced at the timer. It was down to 2 minutes, and he didn't know what to do. He tried to pull the claws out with his free hand, but they were wrapped around the center ruby in his armor and the creature kept it's weight on them.
+
+Ren felt burning rage fill his Aura and turned to look at the source. A golden blur came towards him, and he stored the hammerpick so that she wouldn't hit it by accident. He moved his hands and arms out of the way and leaned back as far as the hooked claws in his chest would allow, and he activated his party abilities; Take Them Down, Opportunity Knocks, and Charge!.
+
+Take Them Down gave party members a 30% chance to perform a Killing Blow, then gave them a free attack. Opportunity Knocks let party members do double damage for 10 seconds, and Charge! gave them the Haste and Giant Strength spell effects.
+
+Princess' eyes glowed as she picked up speed and strength and then she dropped her head and slammed her massive horns through the Sabertooth Rock Golem's shoulder and head. The shoulder shattered under the impact and knocked the limb away, which took Ren along with it and he lost his concentration for Serene State of Mind. The rock golem's head had been turned to look at Princess, so one of her horns had hooked the same fracture that was across it's face, and the head broke apart in a spray of dust.
+
+The Sabertooth Rock Golem's body didn't have anything to hold it together anymore, and it collapsed into it's separate parts.
+
+*
+
+Clint and the other guys had sorted through all the mayhem and calmed everyone down, then Conner the Manager came out and threatened to fire everyone like he'd fired Janice. All the girls yelled and hollered at him and attacked. It took another few minutes to stop the ruckus, and the manager was grateful for their intervention. So much so that he told them they were only banned for a month for causing it all in the first place.
+
+The girls attacked Conner again and Clint and his party didn't interfere or try to stop them this time. It was then that he received the popup that could possibly change his view of having Ren on his team.
+
+Party Notice!
+
+A party member (Ren) has been critically wounded. He has gained the condition: Bleeding Profusely. It must be rectified within 3 minutes or he will die.
+
+Clint and the guys all had a small timer appear on their display and it had already started to count down. A minute later, they received popups for Take them Down, Opportunity Knocks, and Charge!.
+
+“Holy shit!” Billy exclaimed. “Clint! What's going on? Where did those popups come from?”
+
+“If'n ah had ta guess, considerin' the firs' popup and tha' ya'll are here, ah reckon it's Ren tha's acteevated 'em.”
+
+“No way, man!” Tommy said. “Ren didn't have anything like that the last time we were in a fight!”
+
+“Ah know.” Clint said. “He'da used 'em if'n he had 'em then.”
+
+The other guys started to run for the door, and Clint yelled for them to stop. He knew they would never reach him in time, and told them to use their temporary Strength boost to sort out the situation they were in instead. The guys reluctantly agreed, and Clint crossed his arms to wait for the next popup... whatever it may be.
+
+*
+
+“REN!” Teepo and Janice yelled at the same time, and went over to him.
+
+“What do I do?” Janice asked him, in full panic mode. “What do I do?!?”
+
+“Pull... out... rock.” Ren said and stored his very damaged armor chest plate.
+
+“Oh, god!” Janice said, because blood covered his chest and she couldn't see where the rock pieces were. Ren stored his armor body suit and equipped it again to clean himself and clear off the blood.
+
+“Minute... left...” Ren gasped.
+
+“GOD!” Janice yelled and dug her fingers into his wounds.
+
+“AGHH!” Ren yelled as she yanked out the first two claws. He couldn't concentrate well enough to activate Serene State of Mind again, so he just suffered through it. Blood welled up again and Janice shook her head in disbelief as she plunged her hands into the next two wounds to grab two more claws. She pulled them out and he gasped.
+
+Ren started to find it hard to breathe as Janice searched for the last claw.
+
+“I can't find it!” Janice said, and Ren stored his bodysuit and equipped it again to clear the blood once more, and she found the last wound a little below the others and off to the side. She dug her fingers in and grabbed the last piece. She yanked hard, and claws designed to tear through armor made mincemeat out of Ren's flesh.
+
+“Uhhh.” Ren sighed, then stopped breathing.
+
+Janice punched him in the chest right in the middle of the wounds, and blood spurted up into the air from 5 jagged holes.
+
+“AGH!!” Ren yelled as he took another breath and stared at her.
+
+“Don't die on me!” Janice said. “You have all my stuff!”
+
+Ren chuckled and pain lanced through his chest. “Don't... make me... laugh.” He took out a Major Healing wand and used it on himself to stop the Bleeding Profusely condition, with only a few seconds left to the timer.
+
+Notice!
+
+You have cured the condition: Bleeding Profusely.
+
+Ren took several shallow breaths and looked at her.
+
+“Thank... you.”
+
+“What the hell happened?” Janice asked and looked at the pile of rocks. “Where did a rock golem come from?”
+
+“The... earth.” Ren said, and tried to lift his arm. With his Health nearly gone, he was having a bit of trouble holding the wand properly. Janice held his hand steady and turned the wand towards the wounds, and Ren used it again to clean and heal them. The wounds closed up and bits of dust and dirt popped out of them.
+
+“That's so weird looking.” Janice said, when she had watched the skin reform itself.
+
+Ren used the wand again to refill his Health, then he tried to stand up. He wobbled a little bit, then sat down with a thump.
+
+“Geez, give yourself a minute to recover.” Janice said and sat back. She looked at her blood-covered hands and equipped a blouse and pair of pants to replace the tunic and skirt she wore, and it cleaned her up and got rid of the blood. She stared at her fingers, and looked back at the holes in Ren's armor bodysuit. “I've never done anything like that before.”
+
+“Me, either.” Ren said and stored the Major Healing wand and the rest of his armor. “That was a first for me, too.”
+
+Princess trotted over to him and laid down beside him. She licked his face and slobbered over him.
+
+“Thank you, Princess.” Ren said, then equipped his set of Travelling Clothes to clean the slobber off. “You got here just in the nick of time.”
+
+You told me to stay away. Princess said, and he felt how angry she was. He wasn't sure if it was because he told her not to fight, or because he almost died.
+
+“I had to soften it up for you first.” Ren said, and she brayed at him. “Hey, it worked didn't it? We beat it.”
+
+Princess shook her head at him, then rested her chin on his lap. Ren chuckled and rubbed her neck, and he felt her start to forgive him. He also felt how exhausted she was after using her version of the Controlled Berserk Rage.
+
+“You don't have to do things like this all the time.” Teepo said and landed on his shoulder. “I'm sticking by you no matter what from now on.” He said adamantly. “No more rides without you along, no more high scout flights.” He said. “I'm not letting you out of my sight ever again!”
+
+Even if you were here, it still would have appeared. Ren thought and pat Teepo. Then Princess would have come to my rescue too early and could have gotten seriously hurt... or even killed.
+
+“I know.” Teepo said. “She was so mad when I told her to stop at the edge of your Aura.”
+
+Ren smiled. So that's why I didn't feel her until she charged in at the last minute.
+
+“If I'd been in the body you made for me, she'd have chewed me up and spit me out.” Teepo said and chittered in laughter. “That is, until I convinced her to stay close by just in case you needed help.”
+
+Thanks, buddy. Ren thought and looked at Princess. Thank you, too.
+
+You're welcome, My Lord. Princess thought to him.
+
+*
+
+“Well, that's a relief.” Tommy said and sat down. They'd received the popup that Ren's Bleeding Profusely condition had been cured. The guys had broken up the fight and had the girls on one side, and several male customers and the men that ran the bar, the kitchen, and management on the other. The manager Conner was fine, even after the beating he took; but, he stared daggers through the girls that had dared to lay their hands on him, and Clint was pretty sure he didn't want to leave the girls anywhere near this place when he left.
+
+Connor stood up and straightened the suit he wore. “I'd fire all of you for the way you've acted today, but I'd rather just-”
+
+“They ahl quit.” Clint said and cut off Connor's rant before it got started, and everyone looked at him. Clint uncrossed his arms and looked at the girls. “They've been treated unfairly by ya'll, an' ya let men peep on 'em an' made lots o' money withou' 'em knowin'.” He said and looked at Connor. “Ah ain' gonna ask wha' else ya'll have been doin', 'cause ah don't wanna know.”
+
+“Now look here...” Conner started to say.
+
+“Shut yer trap, ya weasel.” Clint said and looked at the girls. “Ladies, ya'll are welcome ta come an' stay at mah ranch fer a few days, until ah can werk out what ta do witch ya'll.”
+
+“What about our jobs?” One of the girls said. “We make a lot of gold here.”
+
+“Ya'll quit, remember?” Clint said and smiled. “Besides, ya'll need a break, righ'?”
+
+Several of the girls nodded, and Clint grinned.
+
+“Then pack yer stuff up an' let's go.” Clint said. “We should have jus' enough time lef' in tha day ta git settled back at mah place.”
+
+“Now wait just a minute!” Conner said. “You all can't just leave!”
+
+“Watch us!” One of the girls said and walked by him. “I was getting tired of all the shit going on around here, anyways.”
+
+“Yeah.” Another said and followed her.
+
+“Hey! Me, too.”
+
+“I'm going!”
+
+“Ladies? Billy's friend is right.” Jennifer said. “Let's go.”
+
+All the girls left the main room and went into the employee only door to pack their things.
+
+*
+
+“How do you feel?” Janice asked Ren after a few minutes of silence.
+
+“Like a cat's scratching post.” Ren said, and she laughed.
+
+“I shouldn't laugh!” Janice said, but kept laughing. “That's horrible.”
+
+Ren knew it was nervous laughter, but it was laughter just the same. “Can you imagine the hairballs it coughs up? I mean boulders.”
+
+Janice snorted a laugh.
+
+“Hey. What do you call a cat that gets anything that it wants?”
+
+Janice shook her head.
+
+“Purr-suasive.”
+
+Janice laughed. “Oh, that's bad!”
+
+“What happened when the cat ate a clown?” Ren grinned. “It felt funny.”
+
+“S-s-stop!” Janice said and kept laughing.
+
+“Why was the cat afraid of the tree?” Ren asked.
+
+“I don't wanna know!” Janice said and turned away.
+
+“It was because of it's bark!” Ren said and laughed.
+
+Janice shook her head and put a hand over her mouth.
+
+“How do you know when a cat smells good?” Ren asked her, and she wouldn't say anything. “When it's wearing purr-fume.”
+
+Janice gave a long snort of laughter and covered her ears. Ren put a hand on her shoulder, and she looked at him.
+
+“Janice. What do you call a cat that can't stop licking itself?”
+
+Janice opened her mouth to respond then shook her head.
+
+“Purr-verted.”
+
+“Bahahaha!” Janice laughed and laughed.
+
+Notice!
+
+Trouble Recipe ingredient: The Pink Pearl has been completed.
+
+Ren blinked his eyes at the popup. What the...? He thought. He hadn't done anything but fight the last little while, then he thought about it. Clint and the guys! He smiled and wondered what had happened.
+
+*
+
+Clint was glad that a couple of the girls had their own horses and one even had an old cart. With his cart and Izabeal to ride, they loaded everyone up into the different modes of transport and headed down the road away from the now closed Pink Pearl.
+
+“Tommy, send Ren ah message.” Clint said. “Let 'im know we're goin' back ta tha ranch.”
+
+“You got it.” Tommy said and opened the messaging system. “Do you want me to ask about what happened to him?”
+
+Clint nodded. “Ah'm shore he'll tell us evenchually, bu' it's bettah ta ask.”
+
+*
+
+Ren received the message from Tommy, and looked at the remnants of the Sabertooth Rock Golem. He smiled and moved Princess' head off of his lap, walked over to the pile of rocks, and looted it.
+
+Notice!
+
+You have defeated the rare creature, Sabertooth Rock Golem. It's ferocity and toughness was almost too much for you to handle. If it wasn't for your cunning and the last minute intervention by a teammate, you would not have survived.
+
+Rewards: 25,000 XP; 2,500 Fame
+
+Fame Bonus: +75% (100% - 25% from Slow and Steady) = 18,750 XP
+
+Loot gained: Lump of Meteor Ore (small), 3 platinum coins, Pet Rock, Rending Claws (Wondrous Item Recipe)
+
+Total XP: 43,750
+
+Notice!
+
+Excess Fame converted to XP.
+
+2,500 Fame x 10 XP = 25,000 XP
+
+Notice!
+
+You have gained a level! You are now Level 73 and 10 stat points have been automatically allocated.
+
+You have unlocked: Mana Shield (Skill), Widen Effect (Spell)
+
+“Holy crap.” Ren said out loud. I wonder what the guys are gonna think about having me in their party now.
+
+*
+
+Clint got a Party Notice about Ren killing a Sabertooth Rock Golem, and it gained the party a copy of his XP award of 43,750 XP. It was divided up among Clint and the other members of the party; so, since there was 5 of them, not counting Ren, they each got 8,750 XP. If Clint hadn't been an expert cart driver, he would have driven off the road at the appearance of the popup.
+
+“Holy shit!” Billy exclaimed. “What the hell did he kill?”
+
+“Accordin' to tha popup, somethin' called a Sabertooth Rock Golem.” Clint said. “Ah ain' nevah heard of it before.”
+
+“I don't think anyone has.” Tommy said. “Ren said it's a rare creature, and that he'll meet up with us soon.”
+
+Clint nodded. “Ah hope he can explain wha' happened.”
+
+“He'd better explain!” Hank said. “What was he thinking, stirring things up without us?”
+
+“Ah don' think he was thinkin' at'all.” Clint chuckled. “Not wit his brain, anyways.”
+
+The other guys laughed and Clint went back to concentrating on driving the cart, because his attempt to distract the others had worked.
+
+Ah shoulda gone an' tried ta find 'im. Clint thought. Wha' else is he gonna find?
+
+*
+
+Ren went over to Princess to see how she was. After a good meal mixed with a Health potion, Princess was all set to take Ren back home. He hooked the cart up to her, and helped Janice climb into the front passenger seat. He thought about putting her in the back, but then she'd be all alone for the ride and he didn't know if she would like that.
+
+“We're a lot lighter Princess; but, try not to overdo it.” Ren said.
+
+Princess huffed and dug her hooves into the dirt. Please caste Haste on me, My Lord. She asked him. I will pass the nag before she gets to that damnable ranch!
+
+“You better hold on tightly.” Ren said to Janice and took out a Level 5 wand with Haste charges. “She can go twice as fast with this spell.”
+
+“For how long?” Janice asked and wrapped one hand around the available handhold, and the other around Ren's arm.
+
+“Normally, it's only 5 minutes.” Ren said and smiled. “This is a Master Level wand, though. It lasts for 20 minutes.”
+
+“Oh, god!” Janice exclaimed as Ren cast it on Princess. Her golden armor glowed for a moment, and Ren felt her joy at his indulging her pettiness over Clint's mount, Izabeal. Princess waited for only a moment more, then she ran for all she was worth.

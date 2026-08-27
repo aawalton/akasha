@@ -1,0 +1,237 @@
+---
+id: 33647ea6-9c94-52e7-9568-ea1b6f613010
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53 - The Trip Back"
+slug: 0037-chapter-53-the-trip-back
+partOf: mythrans-master-of-all-continued-completed
+position: 37
+ownLength: 2654
+unit: words
+publishedAt: 2016-10-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98113/chapter-53-the-trip-back"
+royalRoadId: "98113"
+---
+
+Teepo was right about the horse being tired. In fact, they had to make more stops than they did before. Aimus took several detours and spread the word about the dire wolf showing up at his homestead. No one was sure if there was more than just the one that was killed. There could be several of them, or even a whole pack could be waiting in the woods. Aimus made sure that no one would go looking on their own and planned on forming a 'scout and hunt' party when he returned.
+
+They arrived at the beginning of the mountain pass. It was near dusk and Aimus declared that they were staying overnight. Ren helped Aimus unhook the horse and tied it to the back of the cart. Ren could have let the horse graze for a while, but wanted the horse to keep it's strength up. Ren gave it a feed bag instead. Once that was done, Ren looked around and Aimus was gone. He must be going to check the traps. Ren thought.
+
+“He is.” Teepo said.
+
+Ren turned around but didn't see Teepo anywhere. Hey, Teepo... where are you?
+
+“On Aimus' back.”
+
+Ren chuckled and then climbed into the back of the cart with Lucy.
+
+“What's so funny?” Lucy asked.
+
+“While Aimus is checking the animal traps, Teepo hitched a ride on his back.”
+
+“Teepo's your little invisible friend, right?” Lucy asked and Ren nodded.
+
+“You know... I've seen you talking and interacting with it, but nothing else comes up on the screen.” Lucy said. “It's like only you can see it.”
+
+“That's true.” Ren said.
+
+“We all thought you were just making it up. We checked the machine, and with the company, but there wasn't anything wrong with the equipment.”
+
+“It would look like I was crazy.” Ren said with a twisted smile.
+
+“That's what the psychologist thought.” Lucy said and clapped her hand over her mouth. “I did not just tell you that.”
+
+“You don't think I know that already?” Ren chuckled. “They've been calling me a 'basket case' for years. What's one more little quirk?”
+
+“It's supposed to be privledged information. I don't know why it just slipped out.” Lucy said.
+
+“You transfered, remember? You don't work there anymore.” Ren sighed. “Teepo's my friend. He's been my extra eyes and ears since the first time that I found him. I wouldn't have gotten through some of this without him.” Ren chuckled again. “Of course, like a true friend... some of it I had to go through because of him.”
+
+“Hey, I really needed help that time!” Teepo said.
+
+Ren smiled. I'd do it all again in a heartbeat, Teepo.
+
+Ren thought for a moment more then asked Lucy a kind of important question that Ren had forgotten to ask before.
+
+“Lucy, what level are you?”
+
+“I'm already at level 12!” Lucy said and smiled, proud of her achievement. “I didn't like killing all those cute little bunny rabbits and foxes...” Lucy's smile vanished. “...but after a while, new ones would appear.” Lucy said. “People called it something on the help forums... oh, right! Farming.” Lucy smiled again. “It was nothing like 'farming' at all, but it worked. It only took me a couple of weeks to get this high.”
+
+Ren turned his head so Lucy wouldn't see the surprise on his face. How did she make it all the away out here while only a level 12? Ren thought. She should at least be a level 30 to travel by herself. We didn't let anyone below level 30 come on the Aurora Expedition. Ren turned back once the surprise was gone from his face and looked closely at Lucy's clothing. Ren noticed that they were a similar type of starter clothes that he received the first time he had entered the game.
+
+“The first thing we should do is get you some new clothes.” Ren said.
+
+“Why? What's wrong with these ones?” Lucy asked.
+
+“Besides the tears and holes?” Ren teased, then ducked when Lucy tried to swat him on the head. Ren grinned when Lucy missed.
+
+“Yes, besides that.” Lucy said.
+
+“They don't offer you any protection.”
+
+“You can get clothes for that?” Lucy said, surprised. “I thought you needed something like armor to be protected.”
+
+“Most times, yes.” Ren said and nodded. “But... the clothing I'm wearing now is pretty durable. It takes a lot to damage it. The dire wolf's claws didn't even punture it.”
+
+Lucy closed her eyes and shuddered at the memory.
+
+“Sorry, Lucy. I didn't mean to bring it up like that.” Ren said in a soft voice. “I just wanted you to remember that the cloth was strong.”
+
+“Okay.” Lucy opened her eyes. “Where do we get this cloth from? Is it expensive? I don't have a lot of money.”
+
+“It's definitely expensive. In fact, it's nearly one of a kind.” Ren chuckled. “I know who has some, though... and your money is no good to him.” Ren grinned. “Actually, he wouldn't take your money even if you threw it at him.”
+
+“Then what does he want?” Lucy asked. “Who is this guy?” Lucy was a little exasperated.
+
+“Well... he's me.” Ren said and smiled at Lucy's expression. Ren wasn't sure how she managed it, but Lucy looked both mad and happy at the same time.
+
+“You shouldn't tease a woman about clothes, Ren.” Lucy said, then smiled. “How do I get the great Ren Haddon to make me some new clothes?”
+
+“Help me clear a spot in the cart.” Ren said and started stacking the feed bags at the front of the cart. I need some room to work.”
+
+Lucy nodded and helped Ren clear a good sized space and got out of the cart. Ren took out his spool of spider silk fabric and measured out a bit more than what he thought he needed to make a set of travelling clothes. Lucy's clothes were slightly different, but Ren assumed that it was because they had form-fitted to Lucy's body just like Ren's clothes fit him once they were equipped. Ren took out his portable tailoring kit. Ren cut out the pieces of the pattern that he needed from the cloth. When Ren got to the parts for the shirt, he stopped.
+
+Going with a crazy idea, Ren opened the plans for the party dress. If Ren scaled the size a little, left off the frilly parts on the shoulders and only used the chest piece, he could subtitute that for the middle of the shirt and sew on the sleeves. A slight flip to the collar would allow the cloak to be attached properly. Ren cut out the new pieces and looked at Lucy's hooded cloak.
+
+“Can I borrow your cloak?” Ren asked.
+
+Lucy took off the cloak and handed it over. Ren didn't have to take it apart, he could clearly see where the hood attached to the cloak because it had been seperate pieces and Ren adjusted his new pattern to fit. Ren cut out the new hooded cloak and sat back.
+
+“What colors would you like them to be?” Ren asked and pulled out the portable dying station.
+
+Lucy picked the colors she wanted everything to be and Ren instantly dyed them. Ren sewed all the pieces together with the spider silk thread that he had. When the outfit was finished, Ren got a popup.
+
+Notice!
+
+You have unlocked a new skill.
+
+Pattern Making (Beginner 0%) (Active)
+
+This skill will allow you to alter existing patterns to fit your needs.
+
+Higher skill levels will allow quicker alterations and the possibility of creating completely new patterns without the use of old ones.
+
+Notice!
+
+You have learned a new pattern: Modified Travelling Clothes (Female)
+
+“There we go.” Ren said and handed the new set of travelling clothes to Lucy.
+
+Lucy looked around to see if anyone could see her. “Ren, could you turn around? I need to change.” Lucy said and started to take off her boots.
+
+“Wait.” Ren said. Lucy stopped and looked at him. “As much as I would enjoy being here while you undress...” Ren said and cleared his throat. Ren's voice was a bit deeper when he continued. “You can just put the new clothes into inventory and equip them.”
+
+“Really?” Lucy said and reached out a hand to grab Ren's hand. “Thank you.”
+
+“F-for what?” Ren said.
+
+“You could have been a total lech and watched me change clothes.” Lucy said in a soft voice. “But rather than trying to sneak a peek at me, you were a gentleman.”
+
+Lucy smiled at Ren with her trademark 'brighten the room' smile and Ren smiled back. The next moment Lucy was dressed in the new clothes and admired the feel of them.
+
+“Ren! It feels so nice! What's it made of?” Lucy said and ran her hands down the silky cloak.
+
+“Spider poop.” Ren said.
+
+Lucy stopped touching the cloth and her mouth fell open. “What did you just say?!?”
+
+Ren burst out laughing. “S-sorry! I couldn't help it... the look on your face.” Ren laughed for another minute. “It's only a special cloth made from spider silk thread.”
+
+Relief spread across Lucy's face and then anger quickly replaced it. “Ren Haddon! What did I tell you about teasing a woman about her clothes!”
+
+“I should only do it when it's funny.” Ren said and laughed again.
+
+Lucy swatted Ren a few times on the head and arm, but Ren didn't protest or try to dodge. It was totally worth it.
+
+“Hey, Ren. We're almost back at the clearing.” Teepo said.
+
+“Teepo just said that Aimus is coming back.” Ren said and cleaned up the mess of fabric pieces that were left behind from the pattern. “Let's spread the feed bags back out so you can sleep on them.”
+
+“I have a bedroll.” Lucy said.
+
+“Use that, too.” Ren said and they moved the bags around into a bed shape. Lucy took out her bedroll and put it in the back of the cart.
+
+“Are you logging out?” Ren asked.
+
+“I think I should.” Lucy said. “It's going to be a long day out there tomorrow.”
+
+“I don't doubt that.” Ren said. “I'll see you when you log back in.”
+
+Lucy climbed into the back of the cart and into her bedroll. “Goodnight, Ren.”
+
+“Goodnight, Lucy.” Ren said.
+
+Lucy closed her eyes. “Logout.”
+
+“Here we are, Ren.” Teepo said.
+
+Ren turned around to where Teepo's voice came from and watched Aimus come out of the treeline.
+
+“No catch, I see.” Ren commented.
+
+“I had to reset half the traps.” Aimus said and walked over to the unused fire pit. Aimus threw a few sticks on it and started a fire.
+
+“I'm heading to bed. Goodnight, Aimus.”
+
+“Night.” Aimus said.
+
+Teepo hopped off of Aimus and crawled over to Ren, who pulled out his bedroll and set it up on the ground beside the cart, away from the horse and it's clomping feet. Ren settled down inside the bedroll and Teepo crawled up onto his chest.
+
+“Goodnight, Teepo.”
+
+“Goodnight, Ren.”
+
+Ren drifted off to sleep. Once again, since he would be logging out only to sleep in the real world, it made sense to just stay online to get even more time to sleep. If Ren logged off now, he would only get about 6 hours of sleep, but by staying in the game, he could get up to 12 hours and still have time to stay for another whole game day in the same amount of time. Ren's mind had adjusted to the time difference and remembered he would have to log off the next night to eat breakfast and then go to physical therapy.
+
+Ren slept well and woke up early the next day. Aimus had breakfast cooking and Ren took another fried egg and passed Aimus one of Abigail's homemade buns. Aimus raised his eyebrows slightly when Ren refused any more food. Ren left the campfire as Aimus kept eating, and hooked the horse up to the cart. Aimus must have removed the feed bag during the night. Ren thought when he had secured the horse.
+
+“He did.” Teepo said from Ren's shoulder. “Aimus didn't sleep at all and kept watch all night.”
+
+Aimus finished his breakfast and Ren climbed into the front seat of the cart, holding the reins. Aimus climbed in beside him and Ren handed the reins over. Ren was tempted to drive the cart himself, but he had no experience driving it through the mountain pass. Aimus would have an easier time navigating it, even while tired. Ren explained that Lucy would be sleeping for most of the trip and Aimus just nodded. Adventurers can sleep for days on end, apparently. Aimus thought and flicked the reins. The horse trotted out of the clearing and Aimus guided it along the mountain pass. It took a good portion of the day to cross it, but nothing significant happened.
+
+When they passed the section that Ren had found that fragment of ore, all that could be seen was a good sized divot in the side of the mountain and some rubble. Ren had cleared the rubble easily and they continued on their journey. They arrived at the bottom of the mountain pass and Aimus stopped at the clearing. The horse didn't appear tired, but Aimus said they were staying for the night and Ren didn't protest. It would give him time to make up some more potions to replace all the ones he'd used up. Aimus put out his early warning wire trick, lit a fire, and went to sleep beside it.
+
+Ren took out his alchemy kit and started grinding ingredients for the weak health potion. With Lucy around, those would be needed even more often. Ren finished one and took out ingredients for another... then noticed the sunflowers in his inventory. Ren didn't think he would need 48 more vials of antidote and decided to experiment a little. Ren ground up a sunflower, a health herb, 2 potency berries, and just in case it was needed, added in a pinch of the Balefire Moth dust. Some water to swirl the ingredients together and Ren was done.
+
+New Recipe!
+
+Your ingenuity has allowed you to discover how to make: Healing Potion.
+
+Ren examined it.
+
+Health Potion
+
+This will restore a good portion of your Health when used.
+
+Stat Increase!
+
+Intelligence +1
+
+Wisdom +1
+
+Ren grinned. Nice! No more weak healing potions for us! Ren thought and got to work. Ren made 8 more, and poured the weak one he had made first into a feed bag for the horse, so Ren could use the bottle to make another Health Potion. Of course, the next logical step... Ren thought and repeated the process for the weak mana potion, but added the sunflower and balefire moth dust and the second potency berry.
+
+New Recipe!
+
+Your ingenuity has allowed you to discover how to make: Mana Potion.
+
+Mana Potion
+
+This will restore a good portion of your Mana when used.
+
+Stat Increase!
+
+Intelligence +1
+
+Wisdom +1
+
+Ren smiled as he made 9 more mana potions and used up the last of the bottles Camilla had given him. Unfortunately, Ren was down to 28 sunflowers and had used up 1 of the 3 vials of Balefire Moth dust. Ren would have to make another trip out to the sunflower field to gather more ingredients soon, depending on how quickly they went through the new potions. Ren chuckled to himself. I thought 50 flowers would last me a long time.
+
+It was starting to get dark out and Ren tried to tell Aimus he was going to bed early, but Aimus was sound asleep. Ren took out his bedroll and got inside. Ren had things to do in the real world.
+
+Goodnight, Teepo.
+
+“Goodnight. See you in the morning.” Teepo said.
+
+“Logout.”
+
+********

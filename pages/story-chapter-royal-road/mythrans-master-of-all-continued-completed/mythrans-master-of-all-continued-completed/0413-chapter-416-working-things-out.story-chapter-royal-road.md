@@ -1,0 +1,357 @@
+---
+id: b5802a8f-ab44-52e5-8a93-b1a9765fc828
+page-type-slug: story-chapter-royal-road
+title: "Chapter 416 - Working Things Out"
+slug: 0413-chapter-416-working-things-out
+partOf: mythrans-master-of-all-continued-completed
+position: 413
+ownLength: 3956
+unit: words
+publishedAt: 2017-11-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173089/chapter-416-working-things-out"
+royalRoadId: "173089"
+---
+
+Ren and Teepo guided the succubi across the level and avoided the dangers, took the safe paths, and used a hidden doorway to advance up to the next cavern. Once there, he checked the All-Seeing Mirror and saw that they were in a safe zone.
+
+“Okay, we're stopping here for a few hours.” Ren said and slid off the Phantom Steed, and he felt instant panic from the succubi.
+
+“You can't be serious!” Seldanna exclaimed. “This might be a safe area, but it's completely open! We don't have anything to protect us while we wait for... for...”
+
+“I have Adventurer's business to take care of.” Ren said.
+
+“Yes! For that! We can't just wait here until you come back!”
+
+“Relax.” Ren said. “It's going to be fine.”
+
+They weren't really listening to him, and were constantly looking around for threats. Ren took out the Staff of Earth and concentrated on making a 20 foot wide wall around them. The cavern was 200 feet long and 150 feet wide, so he made their courtyard 50 feet by 50 feet, then raised the 20 foot wide walls to the ceiling.
+
+“You've killed us! We're buried!” One of them exclaimed, and two others screamed.
+
+“SHUT UP!” Ren yelled as he concentrated on his Command Aura, and they all stopped talking and looked at him. “Stop acting so stupidly!” He ordered them. “You will not overreact anymore! No matter what you see, you will calmly assess the situation and act accordingly!”
+
+Ren felt that they were comparing him to Murdrasu, and he closed his eyes and took a deep breath. “You can talk now.”
+
+“You don't have to yell at us all the time.” One of them said.
+
+“Yes, I do.” Ren said and rubbed his face as he stopped concentrating on his Command Aura. “You are making it difficult for me to keep my anger in check.”
+
+“I think someone has anger management issues.”
+
+“Yes, because I'm not used to it.” Ren said, then took another deep breath and let it out. “I know you have Dark Vision, but do you want lights?” He asked to try and distract himself.
+
+“For what?” One of them asked. “There's nothing in here with us to look at.”
+
+Ren walked over to a clear area and took out his Instant Tower, then spoke the bubbles and gurgles to activate it. It popped into existence and he felt shock from the succubi; but, they didn't scream or jump away from it in fear.
+
+“What is it?” Wynphine asked.
+
+“It's called an Instant Tower, and it's like a portable base for me.” Ren said. “There's not enough room inside for you, though.”
+
+“You're going to leave us out in the cold and sleep in comfort yourself?” One of them asked. He could feel the resentment she felt, but she didn't let her scorn taint her words.
+
+“No, I'm just telling you that 20 of you won't fit inside because I have other things... material things... that take up most of the room.” Ren said and took out the blank Instant Tower he had, activated his Craft Wondrous Item ability and placed it on the 1 foot wide golden platform. He added the succubi as being able to open and close the door, then picked it up again as the platform disappeared. He set it beside the already deployed one and activated it. “This one doesn't have anything at all in it. There's plenty of room for you inside.”
+
+Ren felt their surprise, and he went inside. The succubi stayed outside, and he turned around and looked at them.
+
+“I know this is a stupid question; but, do you sleep in a bed? Or a hammock? Or hang from the ceiling or something?”
+
+“Are you calling us bats?” One of them asked.
+
+“No, I'm asking if your prehensile feet are used to secure a safe sleeping spot for you.” Ren said. “If they do, I'll add beams to the ceiling for you.”
+
+Seldanna scowled. “We sleep in a bed, you ignorant pr-”
+
+“BEDS!” Wynphine said to cut off her sister. “Just normal beds.”
+
+“What about your wings?” Ren asked. “Doesn't sleeping on them bother you?”
+
+“We can move them like our arms, so not really.” Wynphine said.
+
+“I'll gladly share a bed with you so you can see it first hand.” Ellaria, the one he had healed, said. “Would you like that?”
+
+“Out of curiosity, yes.” Ren said and started making beds. “But, like I told Wynphine and Seldanna, I won't have sex with you... or any of you, for that matter. You can all put thoughts of that happening out of your heads right now.”
+
+“Are we that far beneath you?” One of them asked, and watched as Ren made bed after bed. “Do we disgust you that much?”
+
+“Of course not. You're all desirable; but, I will not jeopardize the relationships I've been working so hard to establish.” Ren explained. “It's not worth losing the women I care about.”
+
+“You could have one, some, or all of us... and that's not worth losing the women you care about?”
+
+“Nope.” Ren said, and felt a general sense of foreboding and depression go through them.
+
+“Then we know where your loyalty lies.” Seldanna said.
+
+“No, you don't.” Ren said. “I'd tell you there are degrees of loyalty, but you won't believe me.” He said, made the last bed and stored it. “I could ask you the same thing, actually.” He smiled. “Are you loyal to me?”
+
+None of the succubi said anything.
+
+“That's right. None of you know me, and I don't know you.” Ren said. “We just met, and none of us know how far we'll go to protect the other.” He said and walked inside the empty Instant Tower to drop off the beds. He put 10 beds on the first floor, and 10 on the second floor, then went back out to the succubi.
+
+“You've got a few hours to decide what you want to do.” Ren said and walked over to his Instant Tower. “I'll be back.”
+
+“Wait!” Seldanna almost yelled. “How do we get inside to sleep?”
+
+“The door to that tower opens and closes at your command, so you can all come and go as you please.” Ren said. “See you soon.”
+
+Ren went inside his tower and up the stairs, climbed onto the bed after he stored his armor, and sighed at the situation he was in. Teepo took off and landed on the ceiling to keep watch.
+
+“Logout.”
+
+********
+
+Ren slipped off the VR headset and both Barbara and Elise were there. “Wh-what? How... why...”
+
+“I came here as soon as Lisa texted me about where you were.” Elise said.
+
+Ren blinked his eyes a few times, then sat up and opened his arms. She gave him a hug and felt him shudder.
+
+“It's okay.” Elise said. “You can do this.”
+
+“I know I can.” Ren said. “But... that Angered thing... I... I don't...”
+
+“You will get through this.” Elise let him out of the hug and looked him in the eyes. “You aren't supposed to be in Shargon Caverns normally, but you have unlocked Hidden things that can only be learned there.”
+
+“Is that why?” Ren asked. “It's so I can learn the hidden skill, spell, and item recipes I have?”
+
+Elise nodded. “I don't know what they are or what you need to do to discover them. All I do know is that you have to complete the caverns quickly.”
+
+“The world event!” Ren said. “The Great Cleansing!”
+
+Elise nodded. “You didn't get the full popup because you were shunted off to a restricted area.”
+
+“Well, damn.” Ren said, then thought about who was in the house. “Where's Lisa?”
+
+“In the game with the maids.” Barbara said. “She's been staying with them and waiting for you to contact her.”
+
+Ren sighed. “Everything is blocked and disabled where I am.”
+
+“You'll only be able to contact her when you leave the caverns.” Elise said. “That's what she's waiting for.”
+
+Ren took a deep breath and let it out. “I could be there for days, and she's going to wait for me and keep the maids company?”
+
+Elise nodded. “There's also something important you need to know about Shargon Caverns.”
+
+“It's for bad people.” Ren said, and Elise blinked her eyes at him.
+
+“H-how did you know that?”
+
+“I remember one of Tristan's henchmen mentioning that was where Tristan had trained and escaped from.” Ren said. “Since Tristan became infamous when he 'killed' me during the Aurora Expedition, I figured that was where he was sent.”
+
+“And you're not mad about that?” Barbara asked. “You're in the villain training camp!”
+
+“I know, isn't it great?” Ren chuckled at both Barbara's and Elise's surprised expressions. “I get to see what the bad guys had to go through, without having to become a bad guy first.”
+
+“But, Ren...” Barbara started to say, and Ren pat her hand.
+
+“It's okay.” Ren said. “Knowing you're here and keeping an eye on me, and Lisa keeping an eye on the maids, and Elise sending me her love... I'm sure I can do anything.”
+
+“You can; but, you have to be careful of the corruption level.” Elise said.
+
+“I jumped to 60% pretty quickly, didn't I?” Ren asked, and then shook his head. “I'm surprised I'm not getting corruption just from walking on the ground.”
+
+“It's supposed to help you manage your anger.” Elise said and cupped the side of his face. “The higher your corruption, the harder it is to manage.”
+
+“Boy, am I in the wrong place.” Ren said. “It's awful having this seething anger all the time.”
+
+“Don't fight it, Ren.” Barbara said. “Take out your frustrations like you did in the dwarf mines.”
+
+“You mean smashing rocks just like I did when I first met those two succubi?” Ren asked, and she nodded.
+
+“Which reminds me.” Barbara said. “Young man, you are NOT keeping them!”
+
+“Not personally, no.” Ren said. “I'll make them a home in my county, though.”
+
+“REN!” Barbara said.
+
+“Don't worry, I won't have sex with a life-draining succubus.” Ren said and looked at Elise. “I won't be asking to, either.”
+
+“Ren...”
+
+“Please, stop.” Ren said. “No matter how much you argue, you're not going to convince me to sleep with all those sexually frustrated and horny half-naked sex beasts.”
+
+Elise laughed. “All right, I'll stop trying to tempt you.”
+
+“Thank you.” Ren said and gave her a kiss. “I'll do my best to go through the levels as fast as I can; but, I need to get back in and get some sleep.”
+
+“Just remember that you can't avoid all of the enemies from now on. The encounters you have can give you what you need to find.” Elise said. “Otherwise you'll be stuck repeating things until you do.”
+
+Ren sighed. “Yeah, I know.” He said and laid down. “I'll stick to what Shargon Caverns lays out for me to follow.”
+
+“Good luck.” Barbara said.
+
+“Thanks.” Ren said and Elise passed him the VR headset. She leaned close and helped him put it on.
+
+“You can cuddle with one to see what the wings feel like.” Elise whispered in his ear. “As long as you think of me when you do it.”
+
+“Elise...”
+
+“I trust you.” Elise said and kissed his cheek. “Have fun.”
+
+“I love you.”
+
+“I love you too, sweetheart.” Elise said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed and had the distinct feeling of being watched. He sat up and could see through the arrow slits, and several pairs of succubus eyes looked back at him. He looked around the room and each of the arrow slits had succubi looking through them at him, and he chuckled.
+
+Teepo? Did anything happen?
+
+“Kind of.” Teepo said. “They were testing that no one can enter this place without your permission.”
+
+I assume they tried to get in through the arrow slits.
+
+“They did.” Teepo said. “One poor girl assumed it was an open window and tried to fly through it.”
+
+No! Ren said and hopped out of the bed and ran down the stairs. Where is she?
+
+“Being tended to by several of the others.” Teepo said and landed on his shoulder. They left the tower and saw the succubi on his tower were still looking in through the arrow slits.
+
+“Where did he go?” One of them asked and Ren went inside the other tower.
+
+“Who's hurt?” Ren asked, and several succubi jumped at his sudden appearance.
+
+“M-Miastina.” One of them said and stepped back, and Ren saw the succubus on the bed. One of her wings was bent backwards, and her face was bruised. He stepped to the bed and examined her thoroughly. She had two broken wrists, a sprained neck, a dislocated shoulder and wing joint, and bruises and contusions all over. She was also having a hard time breathing.
+
+“She must have tumbled to the ground and hit hard.” Ren said and started to heal her injuries. He could feel that she was in a lot of pain and wouldn't be able to use sexual desire to heal anything, so he gave her concern and caring instead. He could feel her ability choke a little on them, and he looked in her eyes.
+
+“Concern can be felt for someone, even if you don't know them.” Ren said and cupped the side of her face that wasn't bruised. “Don't try so hard to eat everything. Just let it in and don't think about it. Let your ability worry about converting it to what you need.”
+
+Miastina nodded slightly and closed her eyes, and Ren felt her ability falter for several moments, then it evened out and accepted his concern and caring.
+
+“There you go.” Ren said, then kept healing her various injuries. By the time he was done 10 minutes later, she was in a much better mood and she had a good emotional feeding. It wasn't anywhere near enough to satisfy her, but she wasn't emotionally drained anymore. When he turned to leave, she grabbed his hand.
+
+“Thank you.” Miastina said. “If you need anything done, I will do it.”
+
+“You don't mean guard duty or gathering supplies, do you?” Ren asked, and she chuckled.
+
+“No, Mas... ah... My Lord.” Miastina had changed what she was going to say when she felt Ren get angry.
+
+“I'm sorry, but that won't be possible.” Ren said. “Thank you for the offer.”
+
+“If you change your mind...”
+
+“I won't.” Ren smiled, gave her some desire, and let her hand go. He left the Instant Tower and the others followed him. One of the ones trying to see him through the arrow slits of the tower looked down at all the commotion.
+
+“There he is!” She said and let the side of the tower go to drop to the cavern's floor. “Miastina's healed, too!”
+
+The others joined her and they all gathered around Ren. They all started talking at once and Ren couldn't make heads or tails of the dozen different conversations going on at once. He waited for a few minutes, then concentrated on his Importance Aura that the bracelet gave him. The succubi fell silent as they felt his influence over them, and that he deserved the proper respect.
+
+“I know a lot of you haven't had a proper meal for your abilities in a long time.” Ren said. “I'd like to give you one now.”
+
+“Who's going to be first?” One of them asked.
+
+“Who's the oldest among you?” Ren asked.
+
+“Ugh, really?” One of them said. “You don't want the youngest?”
+
+“It's her.” Wynphine said and pointed to a succubus whose skin was a much lighter red than the others. “She was here before any of us.”
+
+Ren walked over to her, and saw her blonde hair was flat and stringy like it hadn't been washed, her bra and bikini underwear were so worn that they were barely covering her, and she had a sad expression. He held a hand out to her, and she shook her head.
+
+“I loved Murdrasu.”
+
+“Zunala!” One of the others exclaimed.
+
+“No! I won't betray him!”
+
+“I'm sorry you feel that living is betraying him.” Ren said, and she looked at him with wide eyes. “I am not going to replace him in your life. I'm not going to love you like he did... and I'm definitely not going to hate you, either.”
+
+Zunala didn't know what to do with that admission. She was the oldest, and she had the most experience with her ability; so, she knew that he was telling the truth.
+
+“I want you to be the bridge.” Ren said. “It will take too long to give each of them enough to feed, but if you funnel what they need...”
+
+“I... I see.” Zunala said. “I still won't feed from you.”
+
+“Then don't.” Ren said and motioned to the other succubi. “Feed from them instead.”
+
+“Wh-what?”
+
+“They are going to enjoy this.” Ren said. “A lot.” He smiled. “You can feed from that, as long as you don't overdo it and hurt someone.” He frowned. “I'll kill you if you do.”
+
+“You have no right to-”
+
+“You are old enough to control your ability.” Ren said and cut her off. “If you hurt someone, it's on purpose. Do not tell me otherwise.”
+
+Ren felt a general agreement from the other succubi, and so did Zunala.
+
+“Yes, all right. I'll do as you say.” Zunala sighed. “You have all the power here.”
+
+Ren chuckled. “You do realize there are 20 of you and only one of me, right?” He felt the realization go through them. “If you did attack, I would kill a lot of you; but, I can't possibly get all of you before some of your attacks hit me.”
+
+“We'd be crazy to attack you.” Wynphine said. “You're taking us out of this hellhole!”
+
+“I'm not taking you anywhere.” Ren said and smiled. “We are leaving this 'hellhole' together.”
+
+Surprise went through them, and then Zunala held her hand out to him.
+
+“Do what you need to.”
+
+“Everyone? Please put a hand on Zunala, and she will act as a filter for you.” Ren said and took Zunala's hand. “If all you want is desire, take that from her. If you need passion, take that. If you think you can handle everything, then touch me as well.”
+
+Nearly all of the succubi put hands on Zunala; her arms, back, and even her wings. Wynphine, one of the two sisters he had met first, and Ellaria, the one he had healed of the molten metal burn, were the only ones to put a hand on both him and Zunala.
+
+“Are you ready?” Ren asked as he built up a reservoir of shared sexual experiences he had with Lylyth, the Queen of the Dark Elves, and all of their eyes widened because they could feel it.
+
+“Th-that's... too much...” Zunala managed to say through her surprise.
+
+“Don't worry, it won't be a flood.” Ren said and smiled. “Just a steady river than you can all ride in, with you as the rudder to steer.”
+
+“I'll try.”
+
+“That's all anyone can ask.” Ren said and opened the reservoir a little bit. Zunala caught her breath as more emotion than she'd ever felt before poured into her. The other succubi started to absorb what they wanted from it, and it eased the pressure from her. She took several short breaths and closed her eyes, and Ren felt that she was doing just as he said. She guided the emotions to where they needed to go efficiently, and he gave her a short burst of appreciation. She opened her eyes to look at him, and he reached out to take her other hand.
+
+“Hold on, this is going to be a bumpy ride.” Ren said and made the small trickle into the river he said he was going to give her.
+
+“Oh, GOD!” Zunala yelled, and several of the others echoed her when the emotions poured out of Ren for them to consume. They had always had to take what they needed, and never had someone just give them what they wanted. Ren felt their trepidation and disbelief that he would do this for them and not want anything in return, so he activated his own Emotion Siphon ability.
+
+“Will this make you feel better about me feeding you?” Ren asked and sampled a tiny bit of pleasure from each of them. With them all touching, he could do it easily. They all gasped as they felt his ability touch them, and several of them shuddered and felt a bunch more pleasure from his gentle caress.
+
+“Did you just... why does this feel so good?” Wynphine asked.
+
+“Willing partners always taste better.” Ren said. “Can you take more?”
+
+“M-m-more?”
+
+“I need to sleep for at least 5 hours to rest.” Ren said. “My modified Ring of Sustenance doesn't kick in until tomorrow.”
+
+“But...”
+
+“Zunala can take a lot more, so I'm going to pour more in.” Ren said. “You can feed accordingly, and then I need to go to sleep.”
+
+“O-okay.”
+
+Ren opened the reservoir a lot wider and made a raging river. All of the succubi dropped to their knees and their eyes started to glow. He felt each of them in his Aura now, and he could see who was struggling with the emotions and who needed more. He moved his hand from Zunala's hand up to her face, and she stared at him. He used her like a sieve and directed the emotions to where they needed to go and helped those that were struggling.
+
+“How... can you... do that?” Zunala asked, and she started to feed from the other succubi and how good they all felt.
+
+“Practice.” Ren said and looked at the other succubi. “Some of you are already full.”
+
+Three of them nodded and let go. Their eyes stopped glowing and he couldn't feel them in the Aura anymore. Over the next few minutes, most of the others let go and watched the last few.
+
+“Seldanna, you're full.” Wynphine said. “Don't overload your ability.”
+
+“I... I can take more! I can!”
+
+Ren weaned her down to just a trickle, and she started to cry.
+
+“Please... I don't want it to end.” Seldanna said.
+
+“This is just the first feeding to see who needed what and to get you all back to a healthy state.” Ren said.
+
+“Wh-what?”
+
+“I'll do it again in the morning, now that I know what you need and how much to give.” Ren smiled. “So relax and let me finish these last three.”
+
+“I... all right.” Seldanna let go and her eyes stopped glowing. She rubbed her arms and then hugged herself. “That felt so nice.”
+
+Ren turned his attention to Wynphine, Ellaria, and Zunala. “You're all taking it directly, and it's still not enough.” He smiled. “A higher dose it is.”
+
+The three succubi stopped breathing as he opened up the reservoir and let the flood go into them. Ellaria let go, then Wynphine a second later; but Zunala held onto him. She was feeding directly from him, despite her words from earlier. Her blonde hair had filled out and looked like it had been washed and dried. It was fluffy and curly, and he looked at her skin. It was a nicer shade of red than the faded color it had been before.
+
+“Wh-what are you?” Zunala asked 10 seconds later, then she had to let go of him before her ability overloaded.
+
+“I'm an Adventurer, and my name is Ren.” Ren said and smiled. “It's nice to meet you.”

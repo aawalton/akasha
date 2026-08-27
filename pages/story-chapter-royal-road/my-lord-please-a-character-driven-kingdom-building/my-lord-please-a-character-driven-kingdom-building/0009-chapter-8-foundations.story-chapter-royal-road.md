@@ -1,0 +1,209 @@
+---
+id: f1fc95ea-58d6-5ba5-8c58-6706edc15d15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 Foundations"
+slug: 0009-chapter-8-foundations
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 9
+ownLength: 2505
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3201077/chapter-8-foundations"
+royalRoadId: "3201077"
+---
+
+It was the third day in this world, the sun having barely risen, when Lucien found himself once again seated at the desk in his study, poring over the ledgers. He could not help but think wryly that he was busier now than he had ever been. Even though he was considered a “Lord” in this world, compared to being an average employee in his previous one.
+
+It could not be helped. The stakes were higher here, and lives depended on how well he fulfilled his duties. But no matter how long he stared at the neat columns of ink and numbers, he could only come to a single conclusion.
+
+“It’s not enough...” Lucien muttered aloud, frowning.
+
+Two hundred and fifty Arde in the treasury.
+
+One hundred Arde in personal funds.
+
+Three hundred and fifty Arde was not a small amount, but it was far less than what the situation demanded. It was not as if he could afford to spend everything on the coming crisis either. His future plans would demand just as much coin, if not more.
+
+Lucien leaned back in his chair, fingers steepled, as his gaze drifted from the ledgers before him to the window beyond. Outside, the village was already stirring awake. Smoke rose from chimneys, and the faint rhythm of the morning ambience began anew as the day took shape.
+
+‘Is it time?’ he wondered inwardly, watching the sun climb.
+
+He exhaled slowly and straightened, reaching for the bell placed not far from his hand.
+
+"Elias," he called, ringing it once.
+
+The response came almost immediately, as he had come to expect from the professional steward. The door opened with its usual soft precision, and Elias entered, posture straight, hands folded neatly before him.
+
+"You summoned me, My Lord?"
+
+"I did," Lucien nodded, gesturing toward the open ledger. "I intend to meet with Ashridge's carpenter and the blacksmith today."
+
+“I will arrange for them to come later today, My Lord. Perhaps after lunch?” the steward replied promptly.
+
+"No need, Elias. I will be going to them directly." Lucien said instead, waving a hand.
+
+He paused, just briefly. It was a subtle thing but it was so unusual for the normally implacable steward that even Lucien as he was now managed to catch it.
+
+"If I may," Elias said carefully, "Would it not be more appropriate for them to be summoned here? Men of their ilk are more accustomed to being called upon to the manor by their lord."
+
+Lucien considered the suggestion for a moment before replying. “I know. But I would prefer to go to them myself.”
+
+Elias blinked, the only sign of surprise despite his expression remaining as composed as ever. "May I ask why, My Lord?"
+
+It was the first time Elias had questioned one of his decisions since he had taken over this body, Lucien noted. It would likely become more common in the future, considering what he intended to do.
+
+"Because I would like to see their workshops," Lucien replied simply. "I want to know what they actually have, not just what they tell me they can make."
+
+"It may be...uncomfortable, My Lord. The places in which these craftsmen work are not suited for a noble's presence." he hesitantly cautioned.
+
+"That's precisely the point, " Lucien replied, closing the ledger. "If I must ask them to stretch their limits of what they could do for the upcoming Tithe, I must understand those very same limits first."
+
+A thoughtful silence filled the room.
+
+"...Very well, " Elias said at last. "Shall I have an escort prepared?"
+
+He pondered the question, should he take an escort? It might potentially send too strong of a message for what he intended as their first meeting. His questions would be treated as an implicit sort of threat with armed guards beside him.
+
+‘If not an armed escort then perhaps…’ Lucien's eyes lit up as an idea occurred to him.
+
+He shook his head, "I will take Alicia instead, it would be good for her to be seen by the other villagers."
+
+Elias’s eyes widened slightly in understanding, the reasoning clear to him almost at once.
+
+“As you wish, My Lord. I shall have her prepared immediately,” Elias said, bowing. He lingered for a moment, as if waiting for further instruction, before turning to leave.
+
+As the door closed gently with a soft click, Lucien rose from his seat, reaching for the warm coat draped behind his chair and donning it. His eyes trailed to the ledgers on his desk and scattered documents covering his desk.
+
+He had taken full stock of what he possessed in coin.
+
+Now, he needed to see what sort of manpower the village could offer to make use of it.
+
+Alicia was waiting at the front door of the manor, visibly flustered. Her hands hovered over her uniform, smoothing it, then smoothing it again, as if bracing herself against some imagined flaw. Clearly, the order to escort him had come as a surprise.
+
+Lucien didn’t know whether the anxiety had been drilled into her by Elias or born of her own nerves, but one thing was clear to him, his sudden idea to bring her along into the village had carried far more weight for her than he’d intended.
+
+“M-my Lord! I am ready!” Alicia exclaimed upon seeing him, her small hands clasped together in determination. It was a little embarrassing to see someone so eager when his own mood was far more placid.
+
+When someone's tension was this high up, it was usually better to play along rather than try to tamp it down.
+
+Even he knew that much. And so, Lucien merely nodded in a stately manner, offering his approval instead of attempting to calm the maid.
+
+“Let us be off then. I will be counting on you to escort me well, Alicia,” he said evenly, stepping toward the door as one of the guards opened it for them.
+
+He exchanged nods with the men and, just like yesterday, stepped out into the village for the second time.
+
+Almost immediately, Lucien could feel the difference in the air compared to the somewhat frigid and fearful atmosphere of the day before.
+
+Oh, the villagers still paused in their conversations and bowed hurriedly as he passed. There were more than a few stares from children as they froze while playing to gape at the noble walking by.
+
+But compared to when he had been alone yesterday, it was the difference between night and day.
+
+It was clear to him that Alicia was rather popular within the village.
+
+There were numerous times when women had been about to call out to her, only to stop short when they noticed him beside her.
+
+Even then, a few hesitated, visibly torn, and that alone told him how well-liked she was if they were willing to risk a noble’s attention just to greet her.
+
+Alicia herself had quite the serene expression on her face as they walked.
+
+From the moment they had left the manor, she had settled into her role with calm composure, hands clasped neatly at her front, walking on his left and a single pace behind.
+
+No doubt a result of Elias’s constant instructions, perhaps not only moments ago when he had summoned her.
+
+‘Looking at her like this… it’s quite clear why that bastard took her into his service,’ Lucien noted wryly.
+
+He had suspected as much the previous day while walking toward the palisades, but seeing her now, standing beside him and comparing her to the other women of the village, only confirmed it.
+
+Alicia’s appearance was simply a few steps above the rest. Her naturally delicate figure, her pale complexion that lacked the weathered and ruddy face common of a farmer’s daughter.
+
+And with the calm expression she now wore, She looked more like a young noble lady in his own eyes than himself.
+
+“M-my Lord?” she whispered softly, a questioning note in her voice.
+
+It seemed he had been staring a little too intently.
+
+“Alicia,” Lucien said instead, averting his gaze, “what can you tell me about the carpenter?”
+
+“M-Master Harlon?” she began, quickly correcting herself. “He’s been the village’s carpenter for as long as I can remember. He’s a good man, though...a little blunt. And a bit grouchy.”
+
+She twisted her fingers together nervously. “Please don’t be offended if he seems...impolite, My Lord.”
+
+“He’s been here that long?” Lucien asked, genuine surprise edging into his voice.
+
+“Well...my father said he was one of the first settlers of Ashridge, back when the village was founded,” Alicia explained. Her voice faltered slightly at the mention of her father.
+
+“Hm. One of the village’s founders, then,” Lucien murmured, rubbing his chin thoughtfully.
+
+"Y-yes, My Lord." Alicia nodded, a little too quickly, she seemed to prepare herself for the worst.
+
+They walked the rest of the way in silence after that, and before long Lucien could see the building he had observed the day prior coming into view. The distance between the carpenter’s workshop and the manor was not far, perhaps a ten-minute walk at most.
+
+Up close, the air itself felt different. Sharper somehow. It carried the scent of resin and sawdust mixed with smoke, with the faint, ever present smell of damp earth lingering in the background of it all.
+
+The surrounding buildings grew rougher and more utilitarian in nature, and Lucien couldn't help but wonder if these were the very first buildings that were constructed during the initial days of Ashridge's founding. Perhaps this had once been the village’s original center, long before the lord’s manor was built after the settlement had grown large enough to warrant noble oversight.
+
+The workshop itself stood slightly apart from its neighbouring buildings. Its frame was thicker than most, its walls reinforced with additional planks that bore the scars of age and constant repair. The roof was low-sloped and weighed down with weathered stones and heavy oak beams, likely to keep it from tearing loose during the fierce winds of winter.
+
+Beside the structure, several logs were stacked neatly along one side, their ends marked with chalk and shallow cuts. Beneath a simple awning, finished beams and planks rested in careful order, sheltered from the elements.
+
+For a man who had likely built much of the village with his own hands, the structure was far from elegant. And yet, Lucien felt he could sense the nature of its master simply by observing the place itself. Practical. Stubborn. Built to endure rather than impress.
+
+The steady thud of wood striking wood echoed from within, followed by the scrape of iron across grain. Whoever worked inside did so with the rhythm of long habit, unhurried and sure.
+
+“That’s his workshop, My Lord,” Alicia said softly as she slowed her steps. She straightened her posture, hands clasped neatly at her waist. “Master Harlon usually starts working just before sunrise.”
+
+Lucien nodded as they approached the entrance. Their presence went unnoticed until he stopped just short of the open doorway. Inside, the carpenter was hard at work.
+
+Harlon stood near the broad worktable with the quiet patience of a man who had spent most of his life watching wood before cutting it. The dust of fresh timber clung faintly to his coat, and a carpenter’s square hung from his belt beside a small bundle of marking chalk. His hands rested lightly against the edge of the table as though measuring its grain even while standing still.
+
+He was older than Lucien had expected, even accounting for how long the village had existed. Harlon appeared close in age to Elias, his once-dark hair now iron grey, pulled back loosely at the nape of his neck. He was not frail, however. He carried the weathered strength of a man who had spent decades labouring beneath open skies.
+
+Thick arms corded with muscle moved with practiced efficiency as he planed a beam clamped to a heavy workbench. The motion was effortless, precise. Lucien watched with a trace of admiration, his eyes briefly drawn to the unfamiliar tools lining the walls, some of which he could only guess the purpose of.
+
+When Harlon showed no sign of stopping, even as he set a new beam in place, Lucien cleared his throat lightly.
+
+The carpenter straightened slowly, setting the tool aside before turning. His gaze moved first to Lucien’s finely made coat, then to his face, and finally to Alicia standing just behind and to the side.
+
+The sharpness in his eyes softened, if only for a heartbeat, before hardening again so quickly Lucien wondered if he had imagined it.
+
+“My Lord,” Harlon greeted, inclining his head just enough to acknowledge the title without groveling. His voice was rough, like timber dragged across stone. “Didn’t expect a visit.”
+
+“I thought it better to come in person,” Lucien replied evenly. “I prefer meeting a craftsman at his place of work rather than summoning him.”
+
+Harlon snorted once, a sharp sound of faint amusement. “Aye. I can see that much.”
+
+Alicia flinched, her eyes flicking toward Lucien, but he merely inclined his head. “I hope I’m not interrupting your work, Harlon.”
+
+“You are,” the carpenter replied bluntly. After a brief pause, he added, “But the work can wait a moment.”
+
+His gaze shifted to Alicia. “You’re Bran’s girl.”
+
+Alicia nodded quickly. “Y-yes, sir.”
+
+“Didn’t expect to see you here,” Harlon said, eyeing her carefully. “Not after the last time you ran out of this shop in tears.”
+
+“T-that was...!” Alicia blurted, cheeks flushing as she glanced at Lucien before falling silent instead, fingers twisting together in a gesture Lucien had come to recognize as embarrassment.
+
+Harlon snorted, clearly amused. Even so, Lucien noticed that while the carpenter’s attention seemed focused on Alicia, his eyes never quite stopped watching him, as though weighing something unseen.
+
+‘Is he testing me?’ Lucien wondered, as he watched the byplay of the two calmly, ‘Checking to see whether the rumours were true?’
+
+Whatever the test was, Lucien seemed to pass it. Harlon’s posture eased, his expression opening just a fraction.
+
+“So,” Harlon said at last, turning fully to him, “what brings the new lord to my humble workshop?”
+
+Lucien met his gaze without hesitation. “I want to see what you work with. What you can make. And what you cannot.”
+
+Harlon studied him for a long moment. “...Most lords don’t like being told something can’t be done.”
+
+“Then they’re poor lords,” Lucien replied with a faint snort. “There is always something that cannot be done, whether due to time, labour, or resources.”
+
+Alicia gasped softly behind him.
+
+For the first time, something other than guarded caution flickered in the carpenter’s eyes. Interest, perhaps.
+
+“Hmph,” Harlon grunted. Then he stepped aside and gestured toward the interior. “Come in, then. Mind your boots, Lord.”
+
+Lucien stepped over the threshold.
+
+Behind him, the sound of the village faded, replaced by the creak of old wood and the low, steady rhythm of a man who had been preparing for winter long before Lucien had ever arrived.

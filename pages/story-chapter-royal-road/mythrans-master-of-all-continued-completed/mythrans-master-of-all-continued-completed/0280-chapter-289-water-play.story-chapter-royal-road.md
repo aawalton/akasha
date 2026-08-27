@@ -1,0 +1,507 @@
+---
+id: cbde7f09-126d-51bb-8e9c-f0f9b406c9bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 289 - Water Play"
+slug: 0280-chapter-289-water-play
+partOf: mythrans-master-of-all-continued-completed
+position: 280
+ownLength: 5924
+unit: words
+publishedAt: 2017-06-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144347/chapter-289-water-play"
+royalRoadId: "144347"
+---
+
+“I think you need to have a serious talk with your niece.” Officer Holly Stonewall said.
+
+“I think so, too.” Detective John Ramirez said, once he managed to get over the shock. “I knew she had a crush on me, but...”
+
+Holly chuckled. “There's nothing wrong with a little crush.” She said. “That little display... was a bit more than that.”
+
+John nodded. “I'll take care of it.” He said and started to follow his niece when Holly grabbed his hand and stopped him.
+
+“I think it can wait for a little while.” Holly said, and John looked at her with raised eyebrows. “She's on a great birthday high right now. You don't want to ruin her whole day with reality, do you?”
+
+John sighed. “I guess you're right.” He said. “I'll get her alone after the party and talk to her.”
+
+Holly nodded, then looked down at their clamped hands. “I'm sorry.” She said and tried to let his hand go.
+
+“Don't be sorry.” John said and smiled. “You took my hand willingly.” His smile grew into a grin. “And in public, too.”
+
+Holly blushed a little, and John stepped close.
+
+“I didn't... I mean, I did... but...” Holly tried to explain. John glanced around and saw no one was looking at them, so he leaned in and gave her a quick kiss on the lips.
+
+“You can swim, right?” John asked her.
+
+“Wh-what?” Holly asked, confused.
+
+John's sneaky public kiss had thrown her completely off her train of thought. He laughed at her reaction, picked her up, and ran for the pool.
+
+“JOOOOOOOHHHNNNNN!!!!” Holly screamed, but John had already jumped into the air as they reached the pool's edge.
+
+“Double Cannonball!” John said and they hit the water together. The huge splash they made flew out of the pool and soaked his sister.
+
+“Ahhh! Dammit, John!” Tanya exclaimed. “This is my favorite-”
+
+“GERONIMO!” One of the teenage girls yelled and jumped into the pool, too.
+
+“Everyone into the pool!” Someone hollered, then every single teenage girl did cannonballs, dives, crazy jumps, and one even managed to do a belly-flop into the pool. John and Holly surfaced, and discovered that they were surrounded by laughing and giggling girls. Holly couldn't help herself and started to laugh, too.
+
+*
+
+Lily had made the alterations to both bikinis, and Elise and Denise tried them on.
+
+“That's perfect!” They both said, as they looked at each other in the mirrors.
+
+“It sure is!” Ren said as he stared at them. “Lily, you do great work!”
+
+“Thanks.” Lily said, proud that she'd done such extensive alterations so quickly.
+
+“Okay, now it's your turn.” Elise said to Ren.
+
+“Wh-what?” Ren asked, surprised.
+
+“We've been dancing around in bathing suits for you.” Elise said and grinned. “Now it's our turn to watch you do it.”
+
+“Yeah, turnabout is fair play.” Denise said.
+
+“We have some nice swim trunks over...”
+
+“Oh, no.” Elise said. “We might buy those in the end; but, right now... where do you keep the Speedos?”
+
+Denise started to laugh at Ren's surprised expression, and Lily went to get some bathing suits for men.
+
+“But...”
+
+“I talk to Stella, and she said you need to get up and walk around.” Elise said. “We're just going to kill two birds with one stone.” She smiled. “You get more exercise, and we get to see you strut your stuff.”
+
+Ren shook his head. “How can you smile so evilly and still be so beautiful?”
+
+“You just bring out the best in me, I guess.” Elise said, and Denise laughed.
+
+“Oh, all right.” Ren said and stood up when Lily came back with several different kinds of bottoms for him to try on. “Let's get this over with.”
+
+Lily went with him into the change room to help, when he told Denise and Elise to wait for the show.
+
+“Are you sure you need me in here?” Lily asked. “I mean, shouldn't one of the women with you help instead?”
+
+“I can't quite bend all the way over yet.” Ren said and took off his shirt.
+
+“Oh, my god.” Lily whispered as she saw the extensive bruise. “What happened?”
+
+“I bruise easily, and fell on an exercise ball.”
+
+“Oh, that's horrible!” Lily said. “Does it hurt much?”
+
+“Only when I breathe or move.” Ren said. “Other than that, it only hurts a little.”
+
+Lily chuckled. “I don't know how you can joke about that.” She said and motioned at his chest and abdomen. “But, I'll follow your lead and try to ignore it.”
+
+“Thanks.” Ren said and undid his pants.
+
+“Actually, it's a little distracting.” Lily said. “Do you think I could... um...”
+
+“What?”
+
+“I have some concealer.” Lily said. “We could try and cover it up.”
+
+“That's actually a great idea.” Ren said and stopped undressing. “Give it a shot.”
+
+It took about 5 minutes, and it had used up nearly all of her concealer; but, Lily had managed to cover up his entire bruise and blended it into the surrounding skin.
+
+“That's so cool.” Ren said as he looked down at himself. “Thanks, Lily.”
+
+“I bet they're going to be so surprised!” Lily said, and laughed a she picked up a pair of leopard print Speedos. “Let's get these on you before they come looking for...”
+
+*Knock* *Knock*
+
+“Hey, is everything all right in there?” Denise asked.
+
+“Yes.” Ren said. “Lily is trying to be a lady and not look at me.” He said and grinned. “It's making getting dressed go slow with her eyes closed.”
+
+“Do you want me to help?” Denise asked. “I've already seen it.”
+
+“I'll be out in just a minute.” Ren said. “Have a seat and get ready to be amazed.” He heard Denise laugh and looked at Lily. “Let's get this done.” He said and pulled down his underwear. Lily nodded and knelt, and Ren braced his hands on her shoulders as he stepped into the Speedo. She started to pull them up over his calves, knees, and thighs; then froze as she came face to face with his crotch.
+
+“Thanks for stopping where I can reach them.” Ren said, not realizing that Lily had stopped for a completely different reason. He pulled the leopard print Speedo up the rest of the way, got everything tucked in, and smiled. “Get the door for me.”
+
+*
+
+Lily nodded quickly and reached for the door handle, then opened it without standing up. Ren stepped out of the changing room, and Lily stayed inside and shut the door behind him.
+
+Oh my god. Lily thought, then remembered how much the tall redhead had fawned over him. No wonder! She took several deep breaths and stood up. I have a boyfriend, I have a boyfriend, I have a boyfriend.
+
+*
+
+Elise and Denise sat there in shock, as Ren did exactly like they had wanted. He came out of the change room full of bravery and confidence, and strutted around the platform for them. He did several muscle man poses; the double arm flex, the double bicep curl, then the extended leg and arms behind the head move. That last one had hurt, because he'd had to use both his abs and chest muscles at the same time; but, the looks on their faces was worth it.
+
+Both of their mouths were open in a little 'o' of surprise, and he laughed mentally at their dumbfounded expressions. He turned around and flexed his back muscles, with his legs slightly apart, then tightened his left and then right gluteus muscles to make the cheeks of his butt dance for them. Ren felt pretty full of himself, and turned around to face them again.
+
+“There.” Ren said and put a finger under the top of the Speedo, and pulled it out a little bit. It snapped back into place, and both women jumped a little at the sound. “Are you happy now?”
+
+“Yes, Ren.” Elise licked her lips and nodded. “I'm very, very happy.” She said, and her eyes smouldered as she stared at him. “If we weren't in public right now...”
+
+Ren chuckled and stepped down off the platform to walk over to her. He was getting a little tired, which meant he should have been exercising more: despite what the doctor said about taking a break. He looked around, and didn't see any other customers.
+
+“What would you do in private?” Ren asked her.
+
+“I'd...” Elise reached out and touched his hip. Ren didn't protest or move away; so, she slid the hand around to grab his butt and pulled him in close. “I don't have as much restraint as you, sweetheart.”
+
+Ren laughed. Elise felt the muscle she was touching clench, and she gripped it a little tighter in response. Ren started to get a warm fuzzy feeling as things started to stir in him, then felt his other cheek being gripped. He looked down and saw that it wasn't Elise's other hand like he thought; so he looked at the other woman. Denise had a hand on him, too.
+
+“So firm.” Elise said, and started to massage his backside. “What happened to your bruise?”
+
+“C-c-concealer.” Ren said as Denise massaged his backside, too. Unfortunately, the leopard print Speedo was not up to the task of containing his excitement. He felt himself break free of the tight fabric, and covered it with a hand. Elise was starting to breathe heavy, and Ren looked at her.
+
+“C-cameras.” Ren said to her, as she leaned in and kissed him thoroughly. Unable to resist such kissable lips, he used his free hand to hold onto the side of her neck, and kissed her back with just as much passion.
+
+*
+
+The change room door opened and Lily stepped out to see what was taking so long, and her eyes widened as she saw Ren and Elise making out.
+
+They're kissing like they're all alone and no one can see them! Lily thought, then she thought about interrupting them; but, then she noticed the other woman's hand on Ren's backside.
+
+Oh... oh my... Lily thought and closed her eyes. I will not be turned on by this. I will not be turned on by this. She opened her eyes and stared at them. I am so turned on by this!
+
+*
+
+Denise leaned in close, and Ren thought she was going to join in on the kiss; but instead, she only whispered. “You have an audience.”
+
+Ren broke the kiss, and Elise sighed as she had to let him go. He stroked her face as he stepped back, then smiled at her. She smiled back, and he turned around.
+
+“Sorry about that.” Ren said to Lily. “I'll take these Speedos, a few other pairs with the different patterns, and several pairs of swim trunks.” He said and grinned. “I don't think I can survive any more modelling today.”
+
+“I... okay... um... let's get you changed back into your regular clothes.” Lily said. “Then we can head over to the counter.”
+
+Ren nodded and walked over to the platform with his hand over the front of the Speedo, and Lily could see that he couldn't quite cover everything with his hand. She didn't let her face show how much she could see, and Ren stepped up onto the platform. He went into the changing room and the door shut behind him, then Lily turned to follow him in.
+
+“I can handle this part.” Denise said with a hand on Lily's arm, and smiled at Lily's surprised expression. “He doesn't have to keep the bathing suits a surprise anymore.”
+
+“Oh, right.” Lily said. “I... I'll meet you over at the counter, then.”
+
+Denise nodded, and watched Lily walk away. Elise came up onto the platform and leaned in close.
+
+“She wanted a close up look at Ren.” Elise whispered.
+
+Denise nodded and whispered back. “Our little charmer might have charmed someone else.”
+
+“Do you think she...”
+
+Denise shook her head. “No, he doesn't realize what he can do sometimes.” She whispered. “I even accused him once of playing innocent to make himself more appealing.”
+
+“He doesn't have to do anything at all to make himself more appealing.” Elise whispered. “When he does... good god, like today... I...” She shook her head. “When he popped out of the Speedo I... I wanted to go down on him right then and there!”
+
+“Hey, can I get some help in here?” Ren said from the change room. “I'm kinda stuck.”
+
+Denise snorted a laugh, and opened the change room door, then froze. Ren had knelt on one knee, and had gotten the Speedo down past it, but now it was restricting the movement of his other leg, which was too far away from the other and he couldn't lift it to get the bathing suit off. He was now half-bent over, with his butt up in the air and his head on the floor. He'd even managed to get one of his hands caught in the leg hole of the Speedo.
+
+“It was going well until I slipped.” Ren said, while he looked at the two women upside down. “I was being careful, too.”
+
+Both women laughed as they shut the door and tried to undo the pretzel Ren had contorted himself into.
+
+*
+
+John and Holly had been forcibly recruited to join in on some pool games with the girls. None of the other adults wanted to get wet; and since John and Holly were already in the pool, it made sense that they would have to play, too. They played volleyball first, and no matter what team John was on, they always won. Water polo was next; and no matter what position he played, John was always on the winning team.
+
+“I hope your winning streak continues.” Holly said, when Nancy announced the next game was 'Chicken'. “I''m tapping you for a partner.”
+
+“How in the world are you going to carry me on your shoulders?” John asked her and laughed at her surprised expression. “Just kidding!” He said, then ducked into the water.
+
+“John?” Holly asked as she tried to look for him. She felt hands on her thighs, then something hairy between her legs. She gasped as John stood up with her on his shoulders. “John!”
+
+“Everyone take their flags.” Nancy said and handed out flags to the teams that wanted to play. “Aw, I wanted Uncle John as a partner.”
+
+“Sorry, I called dibs.” Holly said and took a flag. She hung the flag on her hip and stuffed the end into the bottoms of her bikini. “He almost made me the horse, though.”
+
+Nancy laughed, and her father came over.
+
+“It's not fair that you've got a full grown man on your team.” He said, then looked at his daughter. “Have you found a horse yet?”
+
+“Daddy!” Nancy said, and hugged him. “Let's take them down!”
+
+Her father laughed and climbed into the pool, then Nancy sat on his shoulders.
+
+“Take your positions!” Nancy said, and the teams spread out around the pool. “Get ready!” She said, and all the girls held onto the heads of their 'horses'. “GO!”
+
+Then they were off.
+
+*
+
+Elise and Denise had gotten Ren untangled quickly, dressed him, and brought him and the items they wanted to buy to the counter.
+
+“Will that be everything?” The sales clerk asked.
+
+“For now.” Ren said, then looked at Elise. “We should be back again next Sunday for actual clothes.” He smiled. “Someone wants to have fun dressing me up.”
+
+Elise laughed. “That would be me.” She said. “Barring complications and cancellations.”
+
+Ren nodded. “That's why I said 'should'.” He said, and paid for everything. They left the shop and climbed into the Hummer H2.
+
+“I could have bought my own.” Elise said when she pulled out of the parking lot.
+
+“You still can.” Ren said. “I bought all of this for me.”
+
+Elise laughed. “What am I going to do with you?”
+
+“Hopefully, have fun in the pool.” Ren said and grinned. “Otherwise, this whole trip to get swimwear was only a partially fulfilled sexual fantasy, and not practical at all.”
+
+Denise snorted a laugh. “Who's sexual fantasy was it?”
+
+“Definitely mine.” Ren said. “Having two attractive women prancing around in barely-there bikinis, who actively encouraged me to stare at their luscious bodies.” He grinned. “I almost went just from that!”
+
+“You're wrong.” Elise glanced at him, then back to the road. “It was my sexual fantasy.” She smiled. “Seeing my boyfriend strut around and showing me his muscles, shaking his butt at me, then letting me kiss him like I've always dreamed.” She grinned. “I actually did go from that.”
+
+“No way!” Ren said. “Really?”
+
+Elise nodded.
+
+“It wasn't my sexual fantasy.” Denise said, and Elise raised her eyebrows at her through the rear view mirror. “Don't get me wrong, it was pretty hot.” She smiled. “But, that wasn't any kind of situation that I've ever thought of before.” Then she grinned. “I bet Lily has, though.”
+
+Elise laughed. “If she didn't, she will now.”
+
+“Huh?” Ren looked between the two women. “Did I miss something?”
+
+“Yes, but that's okay.” Elise said. “I don't think knowing we turned Lily on would change how you acted.”
+
+“She was turned on?” Ren asked, then thought about Lily, and what she looked like. “How could you tell?”
+
+Denise poked Elise's shoulder lightly. “I told you.”
+
+Elise nodded and glanced at Ren. “Lily liked the way you kissed me, almost as much as I did.”
+
+“Oohhh.” Ren said, finally catching on. “I don't want to kiss her, though.”
+
+Denise chuckled. “You don't have to.” She said. “We're just telling you that if her boyfriend would kiss her like you kissed Elise, she would be much, much happier.”
+
+Ren nodded. “Okay, that I understand.” He said and hit the electronic gate opener. They drove into the Emerald Estates and parked beside the car that was still there. They got out of the Hummer H2, and Ren dug through the bag of things he bought, and left a bathing suit and swim trunks on the hood of Donald's car.
+
+“I hope they get the hint.” Ren said as they went inside the main house.
+
+“I'm sure they will.” Denise said. “Even if they don't get here before we leave, they can still use the pool.”
+
+Ren nodded, and the three of them went to the changing rooms beside the pool. They didn't bother using separate ones, and Ren was glad; mainly because he didn't want to embarrass himself again like he did the last time. They all got changed and went out to the pool.
+
+“It looks clean.” Ren said. “But, looks can be deceiving.”
+
+“There's a form by the changing room that says it's being maintained by the community pool service.” Elise said. “So, it should be okay to use.”
+
+“I'm glad.” Ren said, and looked at her with a smile on his face. “Now carry me into the pool like the delicate flower that I am.”
+
+Elise snorted a laugh. “Are you joking, or do you really want me to carry you in?”
+
+“Well, I don't know how to swim.” Ren admitted. “You don't have to carry me; but, I'd appreciate it if you could keep a hold on me to make sure I don't drown.”
+
+“Oh, Ren.” Elise said, and picked him up with her left arm them sat him on her hip. He wrapped his legs around her waist and put an arm over her shoulders. “I'll carry you as far as you want to go.”
+
+“For now, it's going to be as far as the shallow end of the pool.” Ren said. “I'll need swimming lessons if I want to go deeper than that.”
+
+Elise nodded, and walked down the steps into the shallow end of the pool. It was only 4 feet deep, but considering Ren was only 4 foot 7 inches tall, it was still pretty deep for him to go into it alone.
+
+“It's warm.” Ren said.
+
+Denise came in behind them, then walked around and slid into the deeper water.
+
+“Hey, no fair!” Ren said to her. “I can't do that yet.”
+
+“You can, if you hold onto me.” Elise said. Ren looked at her with wide eyes.
+
+“Um... I... I'm...” Ren tried to say. “I don't... I don't know if I...”
+
+Elise shifted her grip on him, and moved him from her side to the front, so that he was facing her. “Denise, lifeguard duty.” She said and turned so that her back was to the deep water.
+
+“I'm close by.” Denise said.
+
+“I'm not going to jump in or anything.” Elise said to Ren. “I'm just going to gently lay back, and we're going to float together.”
+
+Ren nodded. “Okay.” He said. “I trust you.”
+
+Elise's heart filled with happiness when she heard those words, and she let that feeling keep her afloat as she did what she said. She laid back as she took in a deep breath of air, and her feet lifted off from the bottom of the pool. Ren's eyes went wide as most of Elise sank into the water; then, she kind of bobbed up a little bit and didn't sink any more.
+
+“It... it's working!” Ren said as he clung to her, and pressed himself against her chest. “Elise, you're amazing!”
+
+“I'm just floating.” Elise tried not to laugh, because she would lose her concentration. “Denise, a little help?”
+
+Denise reached out and gently turned Elise around, and pushed her back to the shallow area. “You can stand.”
+
+“Thanks.” Elise said, then held onto Ren as she got her feet under her and stood up.
+
+“That was so cool.” Ren said, and put a hand on Elise's face. “Thank you.”
+
+“I'd like to say it was no trouble, but that was kind of terrifying.” Elise said. “I just took your life into my hands.”
+
+“With backup.” Denise said, and she chuckled.
+
+Ren gave Elise a quick kiss. “I think that's enough life endangerment for me today.” He said. “Drop me off at the Jacuzzi, so I can watch you two swim and have fun.”
+
+“Are you sure?” Elise asked. “Won't that be a little boring?”
+
+“You saw your reflections in the mirrors, right?” Ren said and laughed. “I don't think it's physically possible for me to get bored.”
+
+Both women laughed.
+
+“All right.” Elise said and walked over to the Jacuzzi. She helped Ren get in it, then walked up the steps out of the pool. Ren watched as she walked around the edge of the pool to the diving board, then she took two strides and bounced off the end of it, then did a flip and dove into the water. She came up to the surface a few moments later, to see Denise and Ren as they stared at her.
+
+“That was AWESOME!” Ren said. “How did you do that?”
+
+“I was on the swim team in high school.” Elise said as she swam over to Ren. “I was forced to quit when I hit puberty.” She said as she stood up. Ren looked down at her bikini top, and it was pretty much see-through.
+
+“I'm sorry, and I'm grateful.” Ren said. “I'm sorry you had to go through something like that; but, I'm grateful that your life has brought you to me.”
+
+“I...” Elise looked like she was going to cry. “I feel the same way about you.”
+
+Ren blinked his eyes a few times as he thought about what that meant. He stepped forward and reached a hand up to her face, and she leaned down to give him a kiss from the bottom of her heart.
+
+*
+
+The pool games had ended, with John the clear winner, and he finally managed to get Nancy alone in one of the spare rooms.
+
+“Nancy, it can't happen.” Detective John Ramirez said for the third time.
+
+“But... I love you!” His niece Nancy said. She stepped close and wrapped her arms around him and rested her head on his chest. “Doesn't love conquer all?”
+
+“No.” John said, as he thought about all the time he'd spent with his partner over the last two years, and how his feelings had changed so drastically after only a single night. “Sometimes, all it can do is mess things up for people.”
+
+Nancy looked up at him, and he looked down at her. “You love me, don't you?” She asked, her voice and eyes full of hope.
+
+John put a hand on her cheek. “I have more love in my heart for you than any other.” He said. “You're my only niece. I remember everything about you. The things you like, the things you hate, that you prefer your hair shorter because it's easier to wash; but you wear it long because everyone compliments you on it, that your favorite food is spaghetti and meatballs even though your mom's specialty is lasagna.” He said. “I even remember the time of your birth.”
+
+Tears rolled down Nancy's face as she heard how much he knew about her. “Then... then why can't we be together?”
+
+“You're my niece.” John said. “My sister's daughter. My flesh and blood.” He explained. “I've always looked at you and treated you, as if you were my own daughter; and nothing can ever, ever happen between us.”
+
+“But...”
+
+“It breaks my heart to hurt you like this.” John said. “I thought you just had a crush on me, and that you'd get over it.” He sighed. “The one thing I always promised myself, was that I would never cause you pain.”
+
+“But...”
+
+“You are the most beautiful girl in the world.” John said, kissed her forehead, then leaned back. “You'll find the right guy for you someday.”
+
+“I already found the right guy!” Nancy said, vehemently. “You're perfect!”
+
+“I'm nowhere near perfect, Nancy.” John chuckled. “I even showed up late for my favorite niece's birthday party.”
+
+“I'm your only niece.” Nancy said, completing the joke. “I... I just...” She started to cry again. “It's Holly, isn't it?” She asked. “She stole you away from me.”
+
+John took his hand from her face and hugged her tightly. “No, she's only a weekend fling. We're not having a relationship or anything after this.”
+
+“Then... then I... I still have a chance.” Nancy said. “I'll win your heart!”
+
+“Shh.” John said. “You can't win what you can't compete for.” He said. “You'll fall in love again. You're too smart and beautiful not to.”
+
+Nancy shook her head. “No, I won't. I'll never love anyone else but you.”
+
+“Nancy, you have to.” John said. “You can't let your feelings for me affect your life.” He said. “I want you to be happy, and to fall in love with someone you really care about. I don't want you to be miserable because you want me to be something that I can never be.”
+
+Nancy sobbed onto his chest. “I... I love you!” She said, and tried to punch him. “Please! Please! Love me back!”
+
+“I can't.” John said. “Not in that way.”
+
+“Then... then I... I'll hate you. I'll hate you forever.” Nancy said. “If... if you won't...” She took several breaths to steel herself. “I... I'll never want to see you again.”
+
+John stiffened, and she felt his reaction. Nancy knew that he would have to give in to a demand like that. When she looked up at his face, her fantasy world shattered apart. She saw the tears in his eyes as they flowed out even more than hers, and she realized it had been a mistake to say the only thing that could possibly hurt him. To deny him seeing his only family.
+
+“I'm... I'm so sorry that... that you feel that way.” John said in a normal voice as the tears didn't stop coming out. “I knew you would take it hard...” He let her out of the tight embrace he had held her in. “But... I never thought that...” He shook his head. “I... I'll leave right away.”
+
+“Uncle John!” Nancy almost yelled as he walked towards the door of the spare bedroom to leave. “I'm sorry! I didn't mean...”
+
+“No, I think you did mean it.” John said as he opened the door. “That's why...” He wiped at his face, but it made no difference to the flow of tears. “That's why it hurt so much to hear it from you.”
+
+“Uncle John!” Nancy tried to get his attention, but he ignored her as he stepped out into the hallway and shut the door behind him. She collapsed to the bed and cried her heart out.
+
+*
+
+Ren had watched Denise and Elise swim for a while as he sat in the Jacuzzi. The jets weren't on, it was just a convenient place to sit next to the action. He had been true to his word, and watched diligently as they swam. They did laps, more dives, and at once point Ren had goaded them into a race. Elise won of course, but it had been a close victory.
+
+“I am really out of shape!” Elise said after she swam over to Ren and stood up.
+
+“That depends on if 'smoking hot' is a shape.” Ren said to her, and she laughed.
+
+“You're biased.” Elise said. “You're not a valid judge.”
+
+Ren chuckled. “Okay.” He turned to Denise. “Lily called her a knockout, so it's just your opinion left. What do you think of Elise?”
+
+“I think she must get several whiplash lawsuits filed against her every day when she walks down the street.” Denise said and smiled.
+
+“See?” Ren said. “I'm not in the minority here.”
+
+Elise laughed again. “Let's get dried off and changed.” She said. “We've got to get you back to the temporary care facility soon.”
+
+“But... but we didn't break in my new bed!” Ren said as she helped him out of the Jacuzzi. “I was really looking forward to that.”
+
+“I am, too.” Elise said. “But you've had too much excitement as it is.” She said. “I don't want you to over-exert yourself.” She leaned down and kissed him. “I'm afraid I wouldn't be as careful as I want to be if we...” Her face flushed a little red.
+
+Ren sighed. “All right, I'll wait.” He said. “But the next time I see you, you're going to strip off and let me have my way with you.”
+
+Elise shivered a little bit at the thought. “But... what if it's at-”
+
+“I don't care where it is.” Ren interrupted her, then took her into a hug. His face nestled between her breasts and he smiled up at her.
+
+He looks so cute like that! Elise thought, and she wrapped her arms around him.
+
+“You deserve attention, and I've been... well, I've been kind of afraid.” Ren admitted to her. “You're a lot of woman to handle, and I don't know if... well... I know you have certain expectations, and... I... I don't want to disappoint you.”
+
+“Oh, Ren.” Elise said. “You can never disappoint me.” She smiled. “In fact, you keep surprising me in so many unexpected ways.”
+
+Ren moved his hands down from her waist and grabbed her backside.
+
+“Like now.” Elise said, and they both laughed.
+
+“Come on, you two.” Denise said. “I'm already rinsed off and dried myself, and you haven't even started.”
+
+“Sorry!” Ren said, gave Elise's butt a little squeeze, then let her go. “I couldn't keep my hands to myself.”
+
+Elise let him go and stepped back. “Yes, it's all his fault.”
+
+Denise snorted a laugh and held the shower door open for them. They rinsed off quickly and Denise passed them both towels, then helped Ren dry off. They all got changed and took their wet clothing with them. They saw that Donald and Barbara's car was still in the driveway, and climbed into the Hummer H2.
+
+“Donald seems to be taking a long time checking out the house.” Denise said and smiled. “I hope Barbara isn't too late for work tonight.”
+
+Ren nodded. “If we hurry, I can log into the game before she shows up.” He smiled. “I really don't need a birds and the bees talk from her tonight about my personal maids.”
+
+Denise laughed as they left Emerald Estates. Elise drove them back to the temporary care facility and helped to get Ren back to his room. He was tempted to ask Elise to help him take a shower, but he knew she'd decline because it was getting late.
+
+“Thank you so much for everything today.” Ren said to Elise when she said she had to leave. “I had a lot of fun spending the day with you.”
+
+“I did, too.” Elise said. “I'm starting to regret that I didn't take you up on your offer, though.”
+
+“Don't worry about that.” Ren said. “It's an open invitation. One of these days, you won't be able to resist anymore.” He said and smiled. “Until then, you'll just have to make due with some passionate kisses and maybe a little heavy petting.”
+
+Elise laughed. “Come here, you.” She knelt, and it put her at the perfect height. Ren gave her the kiss she deserved, and Elise held her moan in, because she didn't want him to know how much she loved his kisses. They broke apart and sighed, and then started to laugh as they had both let the other know how much they liked the other's kiss.
+
+“I'm definitely regretting not taking you to bed.” Elise said, and Ren wrapped his arms around her neck. He nuzzled his face under her hair, and she wrapped her arms around his back. He put his lips by her ear so he could whisper to her.
+
+“You don't have to worry about me falling in love with someone else before you.” He said softly, then kissed her earlobe. “I already love you.”
+
+Tears came to Elise's eyes as one of her fondest wishes finally came true.
+
+Ren leaned back and saw her tears, and he unwrapped his arms from around her neck, cupped the sides of her face with his hands, then wiped the tears away with his thumbs.
+
+“Is it okay to say that you still look beautiful with red puffy eyes and a tear-stained face?” Ren asked her.
+
+“No.” Elise said and smiled.
+
+“Elise.”
+
+“Yes, Ren?”
+
+“You look horrible.” Ren said and grinned.
+
+Elise laughed as she shook her head at him, and then he kissed her. It was only a playful kiss; so, it didn't have the intense feelings behind it like some of his other kisses. It was still a kiss that the both of them could enjoy, though.
+
+“I better go.” Elise said, and ran her hands through his hair. “Or I'll never leave.”
+
+“Goodnight.” Ren said, and Elise stood up. “I hope I'll see you again soon.”
+
+“Oh, you will.” Elise said. “Goodnight.”
+
+Elise left the room and Ren went into the bathroom to take a shower. He was done fast, thanks to Denise's help, and he got dressed and climbed into bed.
+
+“This place really does feel small now.” Ren said as Denise handed him the VR headset.
+
+“That's because it is small.” Denise said. “It's even smaller than your old hospital room.”
+
+Ren looked around the room and saw all of their stuff scattered everywhere. “It's sure going to be nice to have an actual house to live in.” He said and put on the headset.
+
+“Flow Login Start.”

@@ -1,0 +1,295 @@
+---
+id: 7ad89e0d-3719-5f09-87eb-64ccd6d6c954
+page-type-slug: story-chapter-royal-road
+title: "Chapter 287 - The New House"
+slug: 0278-chapter-287-the-new-house
+partOf: mythrans-master-of-all-continued-completed
+position: 278
+ownLength: 3605
+unit: words
+publishedAt: 2017-06-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143848/chapter-287-the-new-house"
+royalRoadId: "143848"
+---
+
+Elise pushed Ren inside to the spacious lobby through the large double doors of the main entrance.
+
+“This place is huge!” Denise said and looked up. The lobby was three stories high, and there was a large set of open doors across from the front door. A grand staircase started halfway across the room, then curved off to either side and up to the second floor to end on a large landing and a set of doors, and from there went up to the third floor.
+
+“It's like a movie set!” Ren said. “Look at that staircase!”
+
+“It sure is something.” Barbara commented, and her husband grunted.
+
+“It looks completely different than the pictures!” Ren said. “Let's keep going!”
+
+The group went through the open doors under the staircase and into the largest living room that any of them had ever seen. The walls were white and completely free of pictures or anything else, but all of the furniture was there. Two couches, two recliners, several normal chairs, and a television that was nearly the size of the wall. The bathroom was quite nice as well, with a full shower and free-standing claw foot tub. Off to the left of the living room was a set of patio doors that led to an outdoor entertaining area. It had an entire outdoor kitchen with several patio tables and chairs set up around it.
+
+“It's like an outdoor cafe.” Elise said, a little surprised. “The only thing missing is a waiter.”
+
+“Can you imagine?” Ren said. “Having a waiter, at home, to serve you food and drinks?” He laughed. “Mind you, that would be an easy job with only the small group of us to deal with.”
+
+The group turned to look at what was on the other side of the living room.
+
+“It said there was a workout room, but look at that!” Ren said, excitedly. Off to the right of the living room was a glass partition wall, and behind it was a workout room. “It looks like a real gym!”
+
+Several types of exercise machines lined one wall, each with a television in front of them. There were soft mats covering the middle of the floor, and Ren thought it looked like a fighting or sparing area. Racks of free weights were lined along the other wall, along with two heavy punching bags, two speed punching bags, medicine balls, and everything else that a gym would have.
+
+“I'm surprised there isn't a boxing ring.” Barbara's husband said. “It's got everything else.”
+
+“It doesn't have a walking track, either.” Denise said.
+
+“Yes, it does!” Ren said and pointed through the glass. “Look at the next room!”
+
+There was a boxing ring and two racks of supplies for it, and around the ring was a walking track.
+
+“This is unreal.” Barbara said. “It's got all of this, and we haven't even gotten through the living room yet!”
+
+Ren laughed. “Forward and onward!” He said and pointed to go further into the house. “I think the kitchen is that way.”
+
+They went in the direction he pointed, and it actually was the kitchen. It had 2 ovens, 2 microwaves, 2 dishwashers, a large double sink on the counter along the wall, another smaller sink in an island counter top, a row of stools to eat at that island counter, a 4 foot wide double door refrigerator, and a walk in pantry and cool room.
+
+“I think this was meant for a football team or something.” Barbara's husband said. “A normal family couldn't possibly use all of this room.”
+
+“It's a good thing I'm not part of a normal family, then.” Ren laughed. “It's definitely going to take time to get used to, though.” He said. “Look at that dining room.” Off to the right was a table and chairs that could seat 16 people, with the accompanying cabinets to hold the dishes. Off to the left was what Ren thought of as a breakfast nook; but it was twice the size of a normal one, and could seat 6 people comfortably.
+
+“Look at the pool!” Denise said and pointed out the triple set of patio doors at the back of the house. The Olympic-sized pool was a bright white, and the water inside was a clear blue. There was a Jacuzzi attached at the corner, so that it shared the water but it didn't interfere with the pool. There was a small building off to the side, with changing rooms, bathrooms, and a sauna.
+
+“It's like some big fancy hotel.” Barbara's husband said. “You could have 50 people here, and not have to worry about crowding.”
+
+“That's all for the downstairs living spaces.” Elise said. “Time for the second floor.”
+
+“You're not getting that wheelchair up those stairs.” Barbara's husband said.
+
+“There's an elevator back in the living room.” Denise said. “It's right beside the glass wall.”
+
+They went back out to the living room and Denise pointed to it. Elise pushed the button and the doors opened. It was a good size, and they could all fit in comfortably if they wanted.
+
+“I think I'll take the stairs.” Barbara said, and took her husband's hand. “I've always wanted to walk up a staircase like that.”
+
+“We'll meet you on the second floor.” Ren said, and Elise pushed him inside. Denise got in as well, and pushed the button marked 2.
+
+*
+
+The doors to the elevator shut, and Barbara and her husband walked out to the lobby.
+
+“This... this is all a little overwhelming.” Barbara said. “This place is huge!”
+
+“It sure is.” Her husband said. “I'm not even going to ask how much money he wasted on this place.”
+
+“He's not wasting any.” Barbara said, and then told him the price her sister had negotiated the bank down to.
+
+“You have got to be kidding!” Her husband said as they slowly walked hand-in-hand up the right side of the grand staircase. “If I was still working, we could have afforded this place ourselves!”
+
+Barbara nodded. “It's definitely a great deal.” She said. “Ren didn't even ask how much it was.”
+
+“He didn't?” Her husband asked, surprised. “Wouldn't he want to know...”
+
+Barbara shook her head. “His mind... doesn't really work that way.” She explained. “I've seen it several times with him while he played the game. He was happy to earn money at first because he knew he needed some, and that was his motivation for a while. Once he reached a certain point with it, he just... never thought about it again.”
+
+“You mean, once he earned enough money that he didn't have to worry about it, he literally doesn't worry about money anymore.”
+
+Barbara nodded.
+
+“He sure is something.” Her husband said, and Barbara squeezed his hand.
+
+“That's what I've been trying to tell you.” Barbara smiled at him and they walked through the second floor's doors and into that lobby.
+
+*
+
+“There you are.” Ren said. “I was worried you might have gotten lost along the way.”
+
+“We took our time.” Barbara laughed. “Plus, it was a lot of stairs.”
+
+Ren grinned. “That's why I took the elevator.”
+
+“I think the first bedroom is here, off to the right.” Elise said. “Denise, can you get the door?”
+
+Denise nodded and opened the door onto a small movie theatre.
+
+“Well, damn.” Barbara's husband said as everyone looked inside. “I've always wanted recliners like those.”
+
+“There's only 20 of them, though.” Ren said and laughed. “Let's try the other side.”
+
+The other side was a small bowling alley and canteen. They went through the next set of doors, and found the first two bedrooms; one on each side.
+
+“Yes, this is definitely like a hotel.” Denise said. “These bedrooms are like suites!”
+
+The bedrooms had small living rooms, king-sized beds, walk in closets, and even small kitchenettes. They also had attached bathrooms that were as big as the room Ren currently lived in at the temporary care facility. They went through the next set of doors and marvelled at the room that was there.
+
+“Okay, this is definitely the master bedroom.” Ren said.
+
+It had a living room nearly as big as the one downstairs, a double king-sized bed, an entire other room as a walk in closet, a balcony, and an attached bathroom.
+
+“This bathroom is bigger than my apartment!” Denise exclaimed when they went inside. “And I've got one of the biggest apartments in the building!”
+
+Ren smiled. “The giant walk-in shower with two rainfall shower heads is a little much; but, at least I won't have to worry about slipping in a tub when I take a shower.” He said. “I also won't have to hire a crew to come in and renovate the place to give me more room.”
+
+“More room?!?” Denise snorted a laugh. “We might have to make you wear a bell, just so we'll be able to find you when you're in here!”
+
+Everyone laughed, and they left the second floor to go up to the third. Barbara and her husband opted for the elevator this time, and it opened up into a small lobby. Two more bedrooms were here, along with attached bathrooms, and the last room was the den. It could be a library or office, too; but, in the description of the place, it said there was a den. It was a little odd to have a den on the third floor, though.
+
+“That's it for the main house.” Ren said. “I think it's about time we took a break for lunch.”
+
+“That's a good idea.” Elise said. “What do you have in mind?”
+
+“I'd suggest something simple, like pizza or fast food.” Denise said. “It's getting close to noon, and other places are going to be packed.”
+
+“We can call and order take-out.” Barbara's husband suggested. “You'd only have to go and pick it up.”
+
+“I like that.” Elise said and pulled out a notepad from somewhere. “Who wants what?”
+
+Everyone made their orders, except for Ren. The two nurses had a bit of a debate over his eating practices and the salt content he had over the last few days; so he negotiated one order of fries and gravy on the condition that he ate a large salad with it. Elise called the order in, and looked at Ren.
+
+“It should be done by the time I get there to pick it up.” Elise said. “I'll be back in about 20 minutes.”
+
+Ren waved her down and whispered in her ear. “Thank you.” He kissed her cheek and tried to hand her his debit card. She hid it from view and passed it back to him.
+
+“I've got it, handsome.” Elise whispered back, kissed his cheek in return, and stood up straight. “I'm taking the elevator downstairs.”
+
+“We should all go down to the patio.” Barbara suggested. “It's such a nice day out there, and it's a bit of a shame to spend it all inside.”
+
+Elise winked at Ren, and he winked back. They all rode down to the ground floor, and just before Elise left, Ren handed her the electric gate opener so she could come and go without bothering the guard at the gate. Elise drove away as Ren, Denise, Barbara and her husband, went out to sit on the patio furniture.
+
+*
+
+Detective John Ramirez woke up with a weight on his chest, and looked down to see his partner, Officer Holly Stonewall, snuggled up to him. They were both still naked, and at some point he'd covered them up with a blanket.
+
+“So, it's true.” Holly said, and looked up at him. “Guys really do wake up with a hard on.”
+
+John laughed. “I could argue it's because I've got you pressed against me; but the most I could say is that it's a lot... harder... because of you.”
+
+“Uh huh.” Holly said and propped herself up on an elbow on his chest. John could see her large wonderful breasts in the daylight, and it was something he desperately wanted to keep seeing; so he kept talking.
+
+“After what happened between us last night, are you really going to doubt that it's because of you?”
+
+Holly smiled. “All right, I'll give you that.” She said. “So, what should we do with it?”
+
+“I have a suggestion, but...” He looked at the alarm clock to see it said 11 o'clock in the morning. “We completely missed our wake up call and the room was supposed to be cleaned at 10.”
+
+“I cancelled the wake up call, and the cleaning lady enjoyed watching you sleep.”
+
+“She WHAT?!?” John exclaimed, and Holly laughed.
+
+“I'm kidding!” Holly said. “I put out the 'Do Not Disturb' sign this morning.”
+
+“Hold on.” John said. “How long have you been awake?”
+
+“Only a few hours.” Holly said.
+
+“You... you let me sleep in?”
+
+Holly nodded. “You really wore yourself out last night.” She said and smiled slyly. “And rightly so.” She grinned. “You needed to recover your strength.”
+
+John laughed again, and with Holly propped up on his chest, it made her breasts jiggle enticingly.
+
+“Where have you been all my life?” John asked her.
+
+“John, we spoke about this.” Holly said. “It's only for now. Only this weekend.” She said. “I won't let my hormones wreck both of our careers.”
+
+“I know.” John said, and hugged her. “But if we're doing the whole fantasy thing until tomorrow, can you wait until we leave the Point to remind me?”
+
+“I...” Holly sighed, and then she scowled at him. “Okay, but if you don't keep this whole imaginary future with us together under wraps, I'll kick your ass so hard that you won't be able to sit down for a week!”
+
+“Would you hate me if I said you looked really cute when you're mad?”
+
+“YES!” Holly yelled, and he laughed.
+
+“You look frighteningly beautiful when you're angry.” John said, and she blinked her eyes at him. She was going to punch him if he said she was cute; but, she didn't know how to react to being called beautiful.
+
+“The pool party isn't until 2 o'clock.” John said and pulled Holly on top of him. “I get to hold you in my arms for the next 2 hours, and you can't complain one bit.”
+
+Holly surprised herself when she automatically adjusted herself into the right position, like she was meant to be there.
+
+“W-wait...” Holly said. “...it's 3 hours until the party.”
+
+“We're going to need the hour to clean up.” John said and started to move. Holly couldn't help herself as her body matched his movements, then she leaned down for another great kiss from her forbidden lover.
+
+*
+
+“They really went all out on this place.” Barbara said. “I'm glad it's not over-the-top outrageous, though.”
+
+“Me, too.” Ren said. “Imagine if everything was marble floors and gold fixtures.” He laughed. “I wouldn't want to touch anything!”
+
+“I wouldn't either.” Denise said. “From what I could see, everything was meant to be used, and used a lot.”
+
+“That was my feeling, too.” Barbara said. “Of course, there's a heck of a lot to be used!”
+
+Her husband nodded. “It's a lot for a single person to have.”
+
+“I'm not just a single person.” Ren said. “I've got three full-time nurses who are going to be here constantly, a girlfriend that wants to stay over, and a couple of friends that would probably enjoy a stay somewhere this nice.” He chuckled. “Believe me, this place is not going to go to waste.”
+
+Barbara's husband nodded, because Ren had eased some of his worry. They made idle chit-chat to pass the time until Elise came back with the food orders. They all stayed outside and ate their meals, and the light breeze brought the smells of flowers and trees to them. The sun in the sky was slightly covered, so there wasn't any danger of excessive heat; and the patio tables had umbrellas to unfurl if it was necessary.
+
+“This place is great!” Ren said when he was done, and sat back in the wheelchair. “I can't wait to move in and get all my stuff in here.”
+
+Denise laughed. “You might... might... fill a corner of that room closet upstairs with all of your stuff.”
+
+“Then I'll have to pick up more stuff.” Ren chuckled. “I might need some help when I go shopping, though.” He said and looked at Elise. “You're the resident shopping expert. What do you think I should get first?”
+
+“A new wardrobe.” Elise said. “If you're going to be more active like you are today, then you'll need new clothes to reflect that.”
+
+“That sounds like a good idea.” Ren said. “I should be able to move around on my own in a few days.” He said. “If I could possibly recruit you again next Sunday, I'd be happy to monopolize your day off again.”
+
+Elise laughed. “You want me to give up my only free day to take you around shopping and dress you up?”
+
+Ren nodded.
+
+“If that's the case, then...” Elise grinned at him. “...I'd be delighted!” It's like all my dreams are coming true!
+
+“So, who's up for checking out the guest house?” Ren asked. There were a few grumbles of being tired after eating, and Ren chuckled.
+
+“We can rest here for a bit more, but...” Ren smiled. “...just so you know, we haven't seen the garage, either.”
+
+After another 10 minutes of small-talk, they all went back into the house and out the front door, then walked up the driveway past the main house. A three car garage was at the end of it, with a path to a back door in the kitchen. They went into the garage, and looked around. Even though there were only three garage doors, there was room for 5 vehicles inside. They left the garage and walked along another path to the guest house.
+
+“Okay, this is getting ridiculous.” Denise said. “That's not a 'guest' house! It's a normal house!”
+
+She was quite right. A two storey house stood there with all the trimmings. A porch, a balcony, it's own small one car garage, and a patio with set of the same furniture as the main house. They went inside and looked around.
+
+“It really is a standard house.” Elise said.
+
+There was a living room, bathroom, kitchen, and dining room downstairs; and upstairs was a small bedroom, two closets, the master bedroom with an attached bathroom the same size as the other small room, and a stairway to the attic.
+
+“It's actually a really nice house.” Ren said as they went out through the front door. “It's the kind of place I always dreamed of growing up in.”
+
+Everyone went quiet, and Ren held a hand up. They stopped walking and he looked at Barbara's husband.
+
+“Sir, there's something I need to talk to you about.” Ren said, then looked at the three women. “Please give me a few minutes.”
+
+The women nodded and went into the main house.
+
+“I know what you're going to say.” Barbara's husband said. “It's kind of obvious.”
+
+“What do you think I'm going to say?”
+
+“You want Barbara to move in with you full-time.” Barbara's husband said. “This is a bit too far for her to travel twice a day.”
+
+“You're half-right.” Ren said. “It is too far for her to travel; but, I don't want her to move in with me.”
+
+“You don't?” Barbara's husband frowned. “Then why are you showing her all of this?” He said and motioned at the property.
+
+“I wasn't showing it to her.” Ren said. “I was showing it to you.”
+
+“Wh-what?”
+
+“Sir, I know Barbara taking care of me every day has been hard on you.” Ren said. “It's also been hard on Barbara.”
+
+“But...”
+
+“She's getting paid well, I know that for sure; but, she works hard and she's earned it after all these years.” Ren said. “When I found this place, the very first thing I did was offer her the guest house.”
+
+“So you do want her to move in.”
+
+“No, sir.” Ren said. “I want you to move into the guest house with her.”
+
+“Excuse me?”
+
+“I'm growing up, and I'm becoming more independent.” Ren said. “I've been kind of forced to do it before I was actually ready to; but, Barbara has always been there for me when I needed her.” He smiled. “This is a big event for me. It's a whole new, and kind of scary, adventure. I want to have Barbara as close at hand as possible.”
+
+“What... what are you saying?”
+
+“I want the both of you to move from where you live to come here, and stay in the guest house.” Ren said. “No rent. No bills.”
+
+“Son, are you crazy?” Barbara's husband asked, and Ren felt a well of emotions spring up. He knew that it was just an expression, and her husband probably called everyone son; but, no one in real life had called him that in years. He had always seen Barbara as a mother figure, but he didn't think twice about that kind of making her husband like a father figure... until now. Ren kept a straight face, but his voice wavered slightly.
+
+“S-some people s-say so, sir.” Ren said, then took a deep breath to try and calm down. “I know this is a big decision, and I know it's kind of out of the blue...” He sighed. “...please, let me give you a house to live in, and please make it a home for her to love.”

@@ -1,0 +1,367 @@
+---
+id: 2c5230a0-1af1-5971-a753-3bfb22da20ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 295 - A Hasty Retreat"
+slug: 0286-chapter-295-a-hasty-retreat
+partOf: mythrans-master-of-all-continued-completed
+position: 286
+ownLength: 4210
+unit: words
+publishedAt: 2017-06-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145674/chapter-295-a-hasty-retreat"
+royalRoadId: "145674"
+---
+
+A stabbing pain had lanced through Ren's heart, and he tried not to share that with everyone. His personal maids and Ereka cried out and fell to their knees anyways. Even only a taste of it was enough to hurt them deeply.
+
+“Very well.” Ren said, over the yells, hollers, and crying from the audience. “I'll leave right now.” He turned and started to walk away, then stopped. He walked back to Narhilda quickly and took her in his arms. “I'm sorry, Barnar.”
+
+“Ren! No!” Nathalia said.
+
+Ren kissed Narhilda passionately, and the entire place froze in shock. Narhilda tried to push him off at first; but, then her arms shifted and hugged him as she kissed him back just as passionately. He ended the kiss a moment later and let her go.
+
+“Goodbye, Narhilda.” Ren said and turned to the speechless audience, walked to the edge of the stage, and hopped off of it to meet Nathalia.
+
+“I... I rescind...” Narhilda started to say, then changed her mind. “Goodbye, Ren.”
+
+Notice!
+
+Trouble Recipe ingredient: 'Dwarven Kingdom' has been completed.
+
+*
+
+Lylyth, Queen of the Dark Elves, had been in the middle of a strategy meeting with the Generals of her army, when her chest was lanced through with a sharp pain. She put a hand over her heart and collapsed to her knees. She had been feeling a lot from Ren lately, but this last emotion had actually hurt.
+
+Great Vasalor! Lylyth thought as she felt Ren's pain. It hit her much harder than it should have, because it was a pain that had matched her own. Her generals flocked to her side to see what was the matter, and when one touched her shoulder, they collapsed as they felt Ren's pain, too.
+
+Oh, Ren! Tears came to her eyes because unlike Ren's ability to lessen what others felt through his Aura, Lylyth's Mark bypassed that and gave her a direct connection to him and his emotions. She tried to drink as much of it as she could, and ignored the General suffering beside her. It was too much for her to try and eat both at the same time. A 10 foot long spider crawled down the wall towards the meeting, and scurried over to stand beside her.
+
+“No, I'm not going to make a portal to him.” Lylyth said. “If I was near him now, I... I think... I think I would do anything he asked of me.” She smiled. “They hurt him so much, and I would kill them all for that.”
+
+The spider shifted slightly, and Lylyth chuckled.
+
+“I know. I should kill them anyways; but, I told you I would do anything he asked. I won't go to him because if I tried to kill them, he would ask me not to.”
+
+*
+
+Ren took Nathalia's offered hand as they walked over to his personal maids. Nathalia hadn't visibly reacted to his emotions, but he could feel that she was in just as much turmoil as he was. The maids were on their knees and cried, and Ren apologized to them and stopped concentrating on his Contact Aura.
+
+“No!” They said together and stood up to surround him.
+
+“Don't stop sharing with us!” Frikara said. “You won't show them how much you're hurt, so let us show them!”
+
+“I... okay.” Ren said and concentrated on his Contact Aura. The personal maids sobbed loudly, and Nathalia helped Ereka stand.
+
+“Are you all right?” Nathalia asked Ereka.
+
+“I'm fine.” Ereka said as the tears streamed down her face. “I just... I didn't know that he loved her.” She smiled sadly. “It hit me pretty hard how much she's hurt him.”
+
+Nathalia nodded. “It hit me hard the first time I felt it, too.” She said. “Let's go.”
+
+They all held hands as they walked through the crowd, and the crowd parted for them. Teepo flew ahead to scout while some of the dwarves nodded, some gave a little wave, and others reached out and touched him. Ren dismissed the Honor gains from the nods and the constant error popups when they appeared.
+
+I'm glad that I'm not fighting the urge to leave. Ren thought. Or I'd be losing all of my gained Honor.
+
+“Where are we going?” One of the maids asked.
+
+“To the docks.” Ren said. “I can't... intentionally... delay leaving the dwarf lands.” He said. “I can't go back to House Neram Keep to gather things and pack, either.”
+
+“That's horrible.”
+
+“What's at the docks?”
+
+“A ship.” Ren said. “I bought it months ago to pack up all of my things to take back to Aurora.” He said. “After that, I was going to use it for shipping things back and forth.”
+
+“Then let's not waste time.” One of the maids said as they finally got outside the castle and to the waiting carriage. “We've got to get you to the docks!”
+
+“The docks it is.” Deliliah said. She had tears in her eyes, just like a lot of other women. “I'm so sorry.” She said as she looked at Ren.
+
+“Me, too.” Ren said as he helped one of the maids into the carriage. “At least I got to see you straighten out a little.”
+
+“A little?” Deliliah asked.
+
+“I'd be a fool to think you gave all of your ways up, just for a steady paycheck.” Ren said to her and helped the next maid into the carriage.
+
+Deliliah laughed. “You can read people pretty well.”
+
+“Sometimes.” Ren said. “Other times? Well, you heard the result.”
+
+The maids were loaded into the carriage, and he helped Ereka and Nathalia get in, then climbed in himself. The crowd didn't have to be forced back with soldiers this time, and the carriage made it's way out of the courtyard and through the city of Dornrach to the docks with Teepo perched on top to keep watch.
+
+*
+
+The group on the stage dispersed, amidst gossip, rumours, and accusations after one of the magic users had deactivated the spell to amplify voices.
+
+“At least that's over.” Narhilda said and sighed in relief. “Now we can-”
+
+“By the gods, what the hell was all of that about?” Barnar asked her. “You did see the power he has over the people, didn't you?”
+
+“That's why I had to get rid of him!” Narhilda said. “If he stayed...”
+
+“My Queen, he has never sought power.” Dural, Advisor to the Throne said. “It has been thrust upon him, and he has dealt with it; but, even when he had several opportunities to take it, he didn't.”
+
+“He owns the Garrison! He could overrun and kill us all! I had to remove him!”
+
+“That's not my Narhilda talking!” Barnar exclaimed. “What is going on? Why do you want him gone so badly that you need to make up reasons for it?”
+
+Narhilda didn't say anything, and Barnar looked at her like he was seeing through her.
+
+“We all saw that kiss.” Barnar said. “Is that why you want him gone? Because he loves you?”
+
+“Yes!” Narhilda said. “He'd cause nothing but problems if he stayed.”
+
+Barnar hadn't winced at the 'yes', but he did slightly wince at Ren causing problems. “I guess we'll never know if Ren would or not.” He said. “You've made sure that he doesn't have to cause problems. You've done that all on your own.”
+
+“What do you mean?” Narhilda asked.
+
+“Didn't you see, or hear, the reaction from the crowd?” Barnar asked.
+
+“You just exiled who they now know is a national hero.” Dural said. “The people aren't happy with you right now.”
+
+“They'll forget about him soon enough.” Narhilda said and rubbed her belly. “Especially when the new King is born.”
+
+*
+
+Ren got out of the carriage at the docks, and shut the door. “I'll be staying on the ship from now on.” He said, and looked at the women in the carriage. “We'll leave the dock and float in the harbour.”
+
+“Wait!” Nathalia said. “You can't stay here by yourself!”
+
+“He won't be.” One of the maids said and tried to open the door; but, Ren held it shut.
+
+“You're forgetting your order to stay inside the building Tee-one and I built for you to stay in.”
+
+“No, we aren't.” Another said. “We can ignore it for tonight.”
+
+“I can't let you...” Ren started to say, and he felt their anger.
+
+“Are you going back on your word?” Frikara, the bold one, asked. “You said you wanted us to make up our own minds, and we have. Now open this door and let us out.”
+
+Ren was going to protest, but he could feel how obstinate they would be if he denied them; so, instead he sighed and opened the door. The 5 personal maids stepped out onto the dock to stand behind him, and he felt how happy they were.
+
+“Ereka? Can you hire a work crew to go to the workshop? Tee-one will tell them what I want shipped here to the ship.”
+
+“They'll be there first thing in the morning.” Ereka said. “Ren, I...”
+
+“I know.” Ren said, as he felt her feelings. “I hope it won't take long to move everything that I need to the ship.”
+
+“That's not...” Ereka started to say hotly, then saw his smile and felt his slight amusement. “You're not even going to try and make this difficult, are you?”
+
+Ren shook his head. “I can't fight, argue, or reason with a compulsion to leave.” He smiled. “So, I won't.”
+
+“But... but Ren... you...”
+
+“I'm losing a lot of important things; but, not everything.” Ren said and looked at Nathalia. She reached a hand out for him, and he took it. “I don't know how I'm going to sleep without you beside me.”
+
+“You... you'll get used to it.” Nathalia said, and they could each feel how much, above everything else, that it hurt the most. “Eventually.”
+
+“That's true.” Ren said. “I've told you what it's like for me when I deal with Adventurer's business.” He smiled. “Even though I'm constantly in pain, I've gotten used to it.”
+
+Nathalia nodded slightly, because she knew what he meant. He would be in constant pain without her.
+
+“Aw, that's so sweet.” One of the personal maids said. “Now let your forbidden love go, and start walking.” She said. “This might be considered delaying.”
+
+“Right.” Ren said. “Nathalia, I have to go.” He smiled. “Break the law for me.”
+
+Nathalia leaned forward and didn't even hesitate as she kissed him goodbye, in public and with witnesses.
+
+“Goodbye, My Love.” Nathalia said, with tears in her eyes.
+
+“This isn't goodbye, My Love.” Ren said. “It's just 'see you later'.”
+
+“Then I'll see you later.” Nathalia said and smiled. Both of their hearts broke a little, because their relationship as it used to be, had come to an end yet again.
+
+Ren let her hand go and stepped back to shut the carriage door, then waved to Deliliah to go. She waved and flicked the reins, then the carriage took the second love of his life away. Teepo flew over to Ren and landed on his shoulder.
+
+“It's okay, Ren.” Teepo said. “We'll be okay.”
+
+I hope so. Ren thought to his friend.
+
+The carriage had to leave the docks before it could escape the size of Ren's Aura; but when it did, the Aura reduced by 30 feet because Ereka was no longer within it and sharing hers.
+
+“Let's get to the ship.” One of the maids said and took Ren's hand. “We need to get you off of the land as soon as possible.”
+
+Ren nodded and walked down the large dock towards the warehouse that had his ship stuck out the end of it. The 5 personal maids trailed behind him, and they all still held hands. They had discovered that skin contact made their feelings clearer.
+
+“He still hasn't moved it out?” Ren asked absently as they approached the building. Ren knocked and a short dwarf answered. He was only about 3 and a half feet tall, had a full beard and head of hair, and wore a displeased expression.
+
+“Whatcha want?”
+
+“I'm here to pick up my ship.” Ren said and showed the deed for the ship. “Is the crew ready to go?”
+
+“We'll always be ready.” The short dwarf said. “C'mon in.”
+
+“Thanks.” Ren said and led his personal maids inside. The short dwarf walked over to the ship.
+
+“Owner coming aboard!” He yelled, then knocked on the hull. Ren heard a click and a crank, and a large panel in the side of the ship pushed out, then started to come down like a drawbridge.
+
+“That's pretty cool.” Ren said. “I assume we can get topside from here?”
+
+“Sure.” The short dwarf said. “Standard exits are all along the inside of the cargo hull.”
+
+Ren nodded. It had been the same way in the ship he'd come to the dwarf kingdom in. The hatch finished opening and the short dwarf went inside. Ren followed him and the personal maids went with them. The one in front had kept a hold of his hand, because she knew that Ren needed someone to help him hold himself together. He took them into the large hold of the ship, and they marvelled at the size of it.
+
+“You could fit another ship in here!” One of them said, and Ren chuckled.
+
+“It's true.” The short dwarf said and opened one of the doorways to go topside. “We had one of the other ships inside.” He grinned. “The idiots ran into the shoals by the entrance, and since they couldn't haul it back without sinking it...”
+
+“I'm glad you're all getting good practice with how the ship works.” Ren said as the cargo hatch closed. “We're leaving the dock and parking in the harbour.”
+
+“No problem.” The short dwarf said and climbed the stairs. Even though the ship was made to be a little larger than a human-sized ship, everything on it was still made for dwarves. “We're casting off!” The short dwarf said, then the whole ship came alive with the sounds of dwarves running around and doing their jobs.
+
+“Are you the captain?” Ren asked the short dwarf.
+
+“I am.” He said. “What of it?”
+
+“It's nice to finally meet you.” Ren said. “I'm just sorry it's under these circumstances.”
+
+“What circumstances are those?”
+
+“I've been banished from dwarf lands.” Ren said. “Effective immediately.”
+
+The short dwarf laughed and looked up at the crow's nest at the top of the middle mast. “Grint! You owe me 20 silver!”
+
+“Dammit!” Grint said as he poked his head out from the scout perch. “Add it to my bill!”
+
+The short dwarf laughed again and waved, then looked at Ren. “He's up to almost 8 gold coins now.” He said. “The poor guy bets on everything.”
+
+“I hope you-”
+
+“Yeah, he never leaves the ship.” The short dwarf said. “The crew and I keep him close at hand.”
+
+Ren nodded slightly, and then heard a shout from down below.
+
+“Hey! What's going on?” The shipwright yelled. The short dwarf walked over to the side of the ship and looked down.
+
+“The owner's going on a cruise of the harbour.” The captain said.
+
+“Oh! He's here?”
+
+“Yeah.” The short dwarf waved to Ren, who walked over to the railing, too.
+
+“I've been banished, so I have to go.” Ren said, took out a platinum coin, and tossed it to the shipwright. “This should cover the cost of storing this thing for so long.”
+
+“Thank you!” The shipwright said. “If you need any more ships built, let me know!”
+
+Ren waved to him, and then the ship left the berth.
+
+“I've never been on a ship before.” One of the maids said.
+
+“Me, either.” Another one said.
+
+“I have. It was during a storm, and it was one of the worst things I've ever experienced.”
+
+Ren felt her anxiety, and looked at her. Since he was still holding the lead maid's hand, he knew which of them it was. He walked over to her and smiled.
+
+“This ship is so big that even if we somehow encounter a storm, you aren't going to feel it.” Ren said. “In fact, why don't we head downstairs? I want to see where we're staying.”
+
+Ren felt a thrill shoot through the personal maids, and he smiled. “Before you get your hopes up, I intend to sleep.”
+
+“That's fine.” Frikara, the bold one, said. “Just getting to stay beside you tonight has been...”
+
+“Scary.” The youngest one, Andrela said and reached out a hand to cup the side of his face. She was at the end of the hand-holding line and was the only one with a hand free to do it. “I don't know how you can hurt so much, and you're not rolling around on the ground screaming in pain.”
+
+Ren smiled at her. “I've been hurt before.” He said, and recalled what had happened with Lucy. The personal maids sobbed at the same time, and Ren reined in his feelings. “I'm sorry.” He said. “I usually have a better hold on my feelings than this.”
+
+“It's okay.” Lusinia said. “Let's go below before you can dredge up more things to batter us with.”
+
+Ren felt her amusement, nodded slightly, then looked at the captain. “Take us out to the middle of the harbour, and keep us out of the shipping lanes.” He said. “I want to be seen, but I don't want to interfere.”
+
+“I understand.” The short captain said. “You don't want to be banished from the waters, too.”
+
+Ren tapped the tip of his nose. “I'll be in my cabin if you need me.”
+
+“I won't, but it's good to know you'll be out of the way.” The short captain said and grinned. Ren chuckled, then led his personal maids into the ship through the main cabin doors.
+
+“It's right this way.” Ren said, and took them down the long passage to the main cabin. “If I remember correctly, the cabins on each side should be suitable for-”
+
+“No.” Frikara said. “We are not leaving you alone.”
+
+Ren stopped walking and looked at them. The hallway was nearly 10 feet wide, so he had no problem seeing all of their faces clearly.
+
+“I'm going to be okay.”
+
+“Yes, you are.” Navruth said. “We'll make sure of it.”
+
+“Now, wait just a minute.” Ren said. “You might be my personal maids, but-”
+
+“No! You wait a minute!” Frikara said. “We all agreed that we would help you of our own free will.” She said. “Open that cabin door so we can see where we'll be sleeping tonight.”
+
+“You aren't all sleeping-”
+
+“Open. The. Door.” Frikara said in her Command voice.
+
+Ren felt her commanding him, and he was so surprised by it that he opened the door without even thinking about it.
+
+“Ooo, this is nice!” Lusinia said. “Go in, go in!” She urged Ren, and he stumbled into the room and took the personal maids with him. They all kept holding hands as they looked over the large stateroom.
+
+“I think we can all fit.” Frikara said as she looked at the large bed. Despite the fact that she was the one that had no reservations about telling Ren she wanted to use him as a sexual object, he wasn't getting those kinds of feelings from her at the moment.
+
+“It's getting late.” Navruth said. “If you want to get up in the morning, you're going to need to sleep.”
+
+“I don't think that I-”
+
+“Nonsense.” Frikara said. “Andrela? Be a doll and use your free hand to unhook me.”
+
+Andrela undid the back of Frikara's dress, and it loosened dangerously. Ren turned away so that he wouldn't see her topless.
+
+“You're embarrassed?” Frikara asked, when she felt what Ren felt. “You're so cute!”
+
+“It...it's not like I haven't see women naked before.” Ren said, and tried to let go of Lusinia's hand. She wouldn't let go, though; because she wanted to maintain their skin contact. “Every woman is different, though.” He said. “It... it's because I... I barely know you.”
+
+Frikara laughed, and Ren felt how she felt.
+
+“We are going to spend a lot of time together.” Frikara said. “You'll get to know us eventually, but...” She smiled. “You are going to see one, some, or all of us naked long before then; and more than likely before you can get the ship fully loaded in order to leave.”
+
+Ren sighed, because he could feel the truth in her words; and he knew they were going to be persistent in their pursuit of him. He could actually feel it in them.
+
+“Leave your underwear on.” Ren said, and he felt the rush of joy from them. “Nothing's going to happen!” He reminded them. “We're just going to sleep!”
+
+“Yes, we are.” Frikara said and let her dress drop to the floor. “All of us. Right here. In this bed.”
+
+“You don't have to push so much.” Ren said and looked at her without staring at her chest. He felt her surprise and smiled. “I need to sleep, and I don't need to stare at you to do it.”
+
+Frikara smiled, and stepped aside. Andrela had switched her holding hand to Navruth and Frikara had undone her dress. It slipped down to reveal a nice chest that was quite appealing. It wasn't too large or too small; and it complimented her body type nicely.
+
+“That's not fair.” Ren said as his obvious arousal spread through his Aura, and the maids chuckled.
+
+“It's because she's so cute.” Frikara said. “You'd never suspect she was hiding a body like this under her clothes!”
+
+Andrela blushed a deep red, and Ren felt her approval flood into the Aura.
+
+“Andrela.” Ren said. “Nothing can happen, okay?”
+
+She nodded slightly, and he felt her disappointment and acceptance. She helped the other maids take off the dresses, and they all stood there topless as they stared at Ren.
+
+“I guess it's my turn.” Ren said, and they all nodded slightly. He looked at Lusinia and then at their clasped hands. “I need both hands to take off my cloak.”
+
+Lusinia moved her hand to his face and maintained skin contact, and Ren took off the cloak. He folded it up and placed it on the dresser by the bed. He made sure the spider was still tucked inside it, and looked at the women with him.
+
+“You know, I could order you to sleep in the other rooms.” Ren said to them.
+
+“Of course you could.” Frikara said, and glanced at Andrela. “Someone would be really hurt if you did that, though.”
+
+Ren could feel that Andrela would be hurt a lot if he did; but, he also felt that they would all be hurt a little if he did that. Then he admitted to himself that it would hurt him to hurt them, and he let that feeling flow into the shared Aura. He felt their appreciation, and then stored his Travelling Clothes.
+
+Ren was tempted to equip his armor bodysuit so that he would be completely covered; but, he knew it wouldn't be fair of him to be covered while they only had their underwear on.
+
+“Um, how do we get in the bed without letting go?” Lusinia asked, and Ren smiled as he took her hand from his face.
+
+“Follow me.” Ren said, walked to the bed, then walked up onto it. The maids chuckled as Ren picked where he wanted to lay down, then sat. The maids gathered around him, two on each side, and it left Andrela with nowhere to go.
+
+“Now what?” Navruth asked.
+
+Ren laid back and the two closest to him, Lusinia and Navruth, laid beside him with their heads at the same height as his, then snuggled in close by his shoulders. The next two had their heads by Ren's chest, and they snuggled in.
+
+“There... there's only... one spot left.” Andrela said, and cautiously laid down between Ren's legs, and rested her head on his abdomen. Ren relaxed, because he thought she would try and put her head on his manhood. Despite what erotic books and videos tell you, it actually hurts to have someone use that spot as a pillow to sleep on.
+
+The personal maids felt his relief, and Ren felt their relief that he wasn't fighting against it. Normally Ren would have, but right then, he needed someone to hold him. He lifted his arms, and the ones holding his shoulders had to move slightly. They lost contact for a moment, then Ren wrapped his arms around them and they sighed.
+
+“Goodnight.” Ren said.
+
+“Goodnight.” They said together.
+
+“I rescind my order for you to stay in the temporary building.” Ren said, and felt them tense up. “I order you to stay in this state room, unless you are accompanying me somewhere.”
+
+They all relaxed, and Ren felt how much they appreciated his diligence, and they liked how much he cared about their happiness.
+
+Ren, Lusinia, Navruth, Frikara, Verwynn, and Andrela, drifted off to sleep on good feelings, while the ship they were on drifted off into the harbour.

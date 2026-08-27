@@ -1,0 +1,119 @@
+---
+id: 63698da5-d01c-564b-9137-c25158d4da3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 334A - Anabelle's Fulfillment"
+slug: 0327-chapter-334a-anabelles-fulfillment
+partOf: mythrans-master-of-all-continued-completed
+position: 327
+ownLength: 1795
+unit: words
+publishedAt: 2017-08-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156207/chapter-334a-anabelles-fulfillment"
+royalRoadId: "156207"
+---
+
+Ren went back to his shop and saw the closed sign was already out and the shades were already closed behind the store windows, and he went inside. Anabelle wasn't at the counter, so he made sure the door was locked and went out the back and up the stairs to the third floor. He opened the apartment door and was greeted with the sight of Anabelle as she stood in front of her bed, and she wore her old maid uniform. It wasn't the fancy and cute one people associated with french maids. It was practical and functional, and didn't look sexy at all.
+
+Ren suspected what she wanted him to do with it, though. “Anabelle!” He said with a bit of anger in his voice that he didn't feel. “I told you to pick something nice, not wear something that should have been thrown away months ago!”
+
+Anabelle glanced at him and ducked her head. “I'm sorry, My Lord.” She said meekly. Ren stalked over to her, and he could almost feel her heart as it raced.
+
+Will he... will he do it? Anabelle asked herself, and braced herself for it, just in case. Please, do it!
+
+“Take that off, right now!” Ren said, and grabbed her by the shoulders. “Are you even listening to me?” He asked, then sneered at her. “If you won't take it off, then I'll do it for you!”
+
+Ren slid his hands up slightly to get a good hold of just the cloth, that he had examined instantly and knew this trick would work, then he pulled his hands apart. The outfit tore apart with a loud ripping sound and jerked her slightly. It left Anabelle with just a small bra that only had half-cups, and it didn't cover her chest at all. Ren glared at her jiggling chest, just like she wanted him to, and he let the torn cloth of her top fall to the floor.
+
+He really did it! Anabelle thought excitedly, and she went just from that. She put her hands down between her legs, but the skirt was in the way and she couldn't rub herself like she wanted to.
+
+“You want to keep the skirt on, do you?” Ren asked, and barked a laugh. “No maid of mine will wear such filth!”
+
+Ren grabbed the sides of the long billowing skirt, and yanked. It jerked Anabelle a little bit, just like the top did, and she gave that little yip of surprise as her breasts jiggled some more. He threw the scraps of cloth to the floor and curled his top lip at her.
+
+“That's much better.” Ren said, his voice full of scorn, and Anabelle's hands played between her legs. He could see she was already soaked, and he used his foot to slide a piece of the torn cloth over the floor and left it underneath her.
+
+“You've been disobedient!” Ren said to her, and she nodded vigorously.
+
+“I've been bad.” Anabelle whispered and rubbed herself harder. “Oh, so bad.”
+
+“Yes, you have.” Ren said and walked around her to sit on the bed. “I think it's time you were appropriately punished.”
+
+“Y-yes, My L-Lord.” Anabelle said and turned to look at him. Ren held a hand out to her, and she took it hesitantly. He grinned at her, yanked kind of hard, and she fell on top of him. He changed where she fell before she could catch herself, and he laid her across his lap.
+
+“You've been very naughty!” Ren said and smacked her ass. Her whole body jerked at the sensations, and it made both her ass and her breasts jiggle. “Naughty!” He smacked her ass again and got the same reaction.
+
+Anabelle was in heaven. She had her mouth clamped shut so she wouldn't moan with pleasure as Ren disciplined her. She had hoped he would do a little bit of play, and maybe dominate her a little in bed; but, she never thought he would go this far to please her.
+
+“Harder.” Anabelle whispered, and she felt the sting of his hand against her tender flesh. “Oh... Oh! MY LORD!” She yelled and went again, and she buried her face in the bed and screamed. “RENNNNN!”
+
+Ren gave her a minute or two to calm down, and then he spoke. “I think you've had enough of that.”
+
+Both of her cheeks were bright red from the spanking, and he gently rubbed the sore flesh. He heard her hiss from his touch, and he smiled. He pushed her off of his lap, caught her hips, and knelt her on the floor.
+
+“Do your duty.” Ren said and stored his clothing and underwear.
+
+“You're... you're so hard!” Anabelle said, surprised. “I... I didn't think...”
+
+“Stuff like that doesn't do anything for me.” Ren said. “Making you happy, though? That gets me going like crazy.”
+
+“My... My Lord!” Anabelle was so happy that she couldn't say anything else, and just stared at him.
+
+“I'm waiiiiiting.” Ren said, as if he was as pretentious as he sounded, and Anabelle gripped him with her hand and slipped him into her mouth. “Yes, just like that.” He said. “More. Faster! More!”
+
+His member started to throb and Anabelle slowed down to make her time with him last, and Ren concentrated on his Command Aura and glared at her.
+
+“I said faster, dammit!” Ren said and started to thrust into her mouth. Anabelle let his member go and braced her hands on his hips and he drove himself into her mouth and throat. After only a few minutes, he went in her mouth and Anabelle stopped sucking.
+
+“Don't stop!” Ren said and kept thrusting. Anabelle stared up at him as she kept sucking and he kept going and going; then her eyes widened because after only a few moments, she physically couldn't take any more and tapped his hip with her fingers.
+
+“Stop!” Ren said, and she pulled off of him, both grateful and surprised. He kept going, though... and covered her chest and a bit of her face before he calmed down and his member stopped twitching.
+
+“My Lord?” Anabelle put a hand on his abdomen. “Are you all right?”
+
+Ren laughed and stopped concentrating on his Command Aura. “I should be asking you that.” He said. “That was...”
+
+“...exactly what I wanted.” Anabelle said, used her Ring of Storage to equip a set of clothing and cleaned herself off, then stored them again. “Thank you.”
+
+Ren held a hand out to her, and she took it. She climbed onto the bed and Ren crawled with her to lay down in the middle.
+
+“You ordered me to do just enough, and you listened when I had enough.” Anabelle said. “I couldn't have asked for a better partner.”
+
+“Does that mean it's over?” Ren asked her, and she laughed.
+
+“Not on your life, My Lord.” Anabelle said and reached down to stroke him to get him hard again, then realized it was still hard and it didn't need the extra stimulation. “I have you for another hour before you need to go for your Adventurer's business.” She got up onto her knees and straddled his face. She gasped as his tongue licked her expertly, and she moaned. “I... I intend to use... every second of it!” She said, bent down and took him into her mouth again while Ren sucked on her just as hard as she sucked on him.
+
+This continued until both of them had gone again. With Ren's ability to go as many times as her, every time he made her go, she had to make him go, too. It became a desperate race to see who could finish the other first, and after nearly 20 minutes, there was no clear winner.
+
+Anabelle laid down on the bed beside him, spent and relaxed. “I'm... I'm done, My Lord.”
+
+“We haven't even had sex yet.” Ren said to her, and she laughed.
+
+“Do you really want to, after all of that?” Anabelle asked, and Ren looked at her.
+
+“You're trying to not go all the way, aren't you?” Ren asked her.
+
+Anabelle rolled onto her side to face away from him, and didn't answer.
+
+“Anabelle.”
+
+“I know you don't love me, and that's fine.” Anabelle said. “You've done more for me in the last few months than anyone else ever could... or would want to.” She said. “I don't feel like... like I deserve...”
+
+Ren slipped himself inside of her from behind, and she gasped at how hard he was. “You're wrong.” He said and slid in and out of her slowly to make room for himself. Anabelle lifted her leg and reached down between her legs to rub herself and Ren's member as he slid in and out of her.
+
+“It's you that's done more in the last few months for me than anyone else ever could.” Ren said, and picked up the pace. “While I'm away, the only thing I've had to keep me going, was knowing that you were right here taking care of everything for me.”
+
+“My... My Lord!” Anabelle said as Ren went faster.
+
+“I know I... thrust... it all on you at first.” Ren said and thrust into her harder. Her breath sped up with his pace, and her fingers fiddled with him and herself. “But... you came...”
+
+“AghhhH!” Anabelle yelled as she orgasmed, but he didn't stop pumping his hips.
+
+“...you came to my aid, and did a better job than even I could do.” Ren said and he started to throb inside of her. “You... took everything I could give you... and made it better!”
+
+Ren went inside of her, and Anabelle's body clamped down on his member and she went again.
+
+“My... Lor... My... Lor...” Anabelle panted, nearly out of breath. “My Ren!” She said, turned her upper body just enough, and kissed him passionately. “Stop... having sex and... make... make love to me!”
+
+Ren slipped out of her so she could turn all the way around, and she laid down on her back so he could enter her again. She wrapped her arms and legs around him, but not tightly; that way he could move in and out as much as he wanted... and as much as she wanted him to.
+
+With Ren facing her, she couldn't hide her feelings like she could while she faced away from him; and he could see how much she longed for him. Perhaps she even loved him in her own way. Ren kissed her, and kept making love to her. He moved at the normal pace that she needed, and not at the slamming pace she thought she wanted, for the remainder of the time they had before he needed to leave.

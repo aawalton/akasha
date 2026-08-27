@@ -1,0 +1,347 @@
+---
+id: fd044579-684f-5953-ae98-24e7e60d3b0f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 473 - The Party's Over"
+slug: 0473-chapter-473-the-partys-over
+partOf: mythrans-master-of-all-continued-completed
+position: 473
+ownLength: 3810
+unit: words
+publishedAt: 2018-01-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184667/chapter-473-the-partys-over"
+royalRoadId: "184667"
+---
+
+“Let's get you to bed.” Stella said. “You've had a long day.”
+
+“It's only 7:30.” Ren said. “I don't have to be in the game until 9.”
+
+“That means I have to go.” Gloria said and stood up. “With the traffic and having to get ready, I won't have much time left to check over my VR rig.”
+
+Ren nodded and stood up, then sat in the wheelchair. “Stella? Can you help me walk Gloria out?”
+
+“I'll be going, too.” Officer Holly said and stood up, and so did Barbi.
+
+Ren looked at Elise and then at Lisa. “I'll be right back.”
+
+Ren, Stella, Gloria, Officer Holly, and Barbi left the theatre room. They squeezed into the elevator and went down to the ground floor, then over to the front door. Ren used a hand to hold Gloria off to the side, and he stood up.
+
+“Officer Holly, thanks for coming over.” Ren said and held a hand out to her.
+
+“Surprisingly, it was actually fun.” Officer Holly said and took the hand. She gave it a quick shake and let it go. “I hope I can come back for a rematch sometime.”
+
+“Surprisingly, I'm not against that.” Ren smiled, and she laughed.
+
+“Happy Birthday.” Officer Holly said and went out the front door.
+
+Ren turned to Barbi. “It was both a pleasure and a shock meeting you today.” He said and held out his hand.
+
+Barbi laughed at his candidness and took his hand. “I can say the same to you.” She said. “I'll send the forms to Elise in the morning, and assuming the equipment can be delivered quickly, I'll be back here sometime tomorrow.”
+
+Ren turned their clasped hands and gave the back of hers a kiss, because he believed it was what she expected. “Goodnight.”
+
+“Goodnight.” Barbi said and let his hand go. “Happy Birthday.” She said and left.
+
+Ren turned to Gloria. “If I had realized you would actually come over after what I did, I would have told you to bring your VR setup with you.”
+
+“Ren, I only came over to rant and rave at you, and then I was going to leave.” Gloria sighed. “I didn't expect to stay at all, and I've been here pretty much all day.”
+
+Ren stepped close to her. “Can I hug you?”
+
+Gloria opened her mouth to say he could do what he wanted, and instead closed the small distance between them and put her arms around him. Ren hugged her back, being careful of his sprain, and he rubbed her back.
+
+“Thank you for changing your mind and staying.” Ren said and used his good hand to reach up and touched the multiple piercings in her ear. “I'd like for you to pick a different reason for taking these out.”
+
+“Are... are you asking me to sleep with you?” Gloria asked, since the only two reasons she took them out was when she showered or slept at night.
+
+“Yes.” Ren said and moved his hand down along her neck. “But, not right now.” He smiled. “We have other fun to do tonight.”
+
+“Ren, I...” Gloria wasn't sure if she should respond with a yes, a maybe, or a no. Ren saw the indecision on her face and moved his hand back up to cup the side of her face.
+
+“Gloria, I love you.” Ren said. “I know you love the me I can be, especially in the game; but, I'd like for you to love the me that I am in real life, too.”
+
+“But...”
+
+“I'm the same person. My spirit is the same. My mind is the same.” Ren said. “It's just my body that's different.”
+
+“I... I'm so used to treating you a certain way, both here and in the game.” Gloria said. “I'm... I'm afraid that... that if I...”
+
+“Both I and Stella trust you.” Ren said.
+
+Gloria remembered Stella had stood behind the wheelchair the entire time, and looked at her. “Stella...”
+
+“He's right.” Stella said. “I've discussed this with you already, and I know you'll be even more careful than everyone else is.”
+
+Gloria took a breath and let it out.
+
+“Don't let your indecision change how you feel.” Stella cautioned her. “That's not the way to handle things.”
+
+“But...”
+
+“If it's too difficult for you to decide, then we can do this the same way in real life as we've always done it in the game.” Ren said, and Gloria looked back at him. “When you need me, just show up. We can have great sex, talk and share things with each other, and leave this whole relationship thing form on it's own.”
+
+Gloria blinked her eyes at him for a few moments as she thought about it.
+
+“Stop.” Ren said and tapped the tip of her nose. “I told you that the best way to deal with this, is to not think about it.” He said as he saw thoughts flicker across her face. “I didn't mean only to make a decision, I meant not at all.”
+
+“But...”
+
+“Stella.” Ren said.
+
+Stella walked over to the corner and picked up the small step stool and brought it over to him. Ren let Gloria out of the hug he had her in, put the step stool in front of her, and stepped up the two steps. He was a little taller than her now, so he put his arms around her neck and kissed her passionately.
+
+Gloria couldn't resist him when he did things like that, and put her arms around him and kissed him back just as passionately. A wall she had inadvertently built around her heart cracked a little, and Ren could feel the desperation in her touch and in the movement of her lips and tongue. He took that as a cue to touch her, so he unwrapped his arms from around her neck and put his hands on either side of her head.
+
+Ren couldn't spread the fingers on his left hand because the wrap for the strain prevented that; so, he used the fingertips to caress the shaved part of her head while his right hand dug into the pink hair with blue streaks on the right. After a few moments, he made a fist with his right hand and caught her hair, and Gloria opened her eyes and gasped. Her heart beat faster than ever before as Ren stared at her intensely while he broke the kiss, and held her head still.
+
+“I...” Ren gave her a quick kiss. “...love....” He kissed her again. “...you.” He gave her one last kiss, then let her head go.
+
+Gloria stared at him as he carefully stepped down from the step stool and sat in the wheelchair.
+
+“I'm not sure if Stella needs more VR data from me, so you're probably not going to see me on Sunday when you go to her place to work.” Ren said, as if what had just happened didn't happen. “If that changes, I look forward to seeing you again soon.” He said. “Thank you very much for the blanket, and every time I use it, I'll be thinking of you.”
+
+Gloria just stood there and stared at him, with her mouth slightly open, and didn't say anything.
+
+“I promise not to have sex on it, unless it's with you.” Ren said, and then smiled evilly. “I can't wait to feel it, and you, as we roll around naked on it.”
+
+“R-Ren...”
+
+“Goodnight, gorgeous.” Ren said. “Stella, can you take me back upstairs? I think I can convince Elise to stick around for a while and cuddle with me.”
+
+Stella smiled. “I'm sure she could be persuaded.”
+
+“Let's find out.” Ren said and Stella pushed his wheelchair across the lobby to the elevator. Stella hit the button and they waited, and Ren waved to Gloria, who still stood at the front door. She waved back, and Donald stepped out of the elevator.
+
+“See you in the morning, kid.” Donald said as he quickly stepped out, and then he walked away through the house to the back door that led to the guest house.
+
+Stella took Ren back up to the theatre room, and Barbara had the television set to Big Sister and was riveted to the screen.
+
+“Elise? Can you stick around for a while?” Ren asked. “I'd like to cuddle with you before logging in.”
+
+“I think I can do that.” Elise said and glanced down at his wrapped wrist. “As long as it's just cuddling.”
+
+“There's a really comfortable couch in the den.” Ren said and looked at Lisa. “Grab your book and come with us.”
+
+“Really?” Lisa said excitedly as she stood up. “Okay!” She said and ran from the room.
+
+“She could have waited for us.” Ren said, and Elise couldn't help but chuckle.
+
+“We might get there before her, but I doubt it.” Elise said and looked at Stella.
+
+Stella touched her arm and gave it a little squeeze, then stepped away from the wheelchair to relinquish control of the chair to the taller woman. Elise stepped behind it and pushed Ren out of the theatre room, with Denise and Stella close behind.
+
+“I have to get started on cleaning everything up.” Denise said.
+
+“I'll give you a hand.” Stella said. “Although, we should look into getting some full time help in here.” She sighed. “Having a cleaning service come in once a week isn't going to cut it with all of us here most of the time.”
+
+“I'll look into it tomorrow.” Elise said as they all got in the elevator. “You're right, this place is a bit too big for you to take time away from caring for Ren just to clean up after everyone.”
+
+“It's becoming a bigger job as each day goes by.” Denise said and chuckled. “Especially considering we used to only have a single room to look after.”
+
+Stella laughed and touched her shoulder. “Tell me about it.”
+
+“I'm not complaining.” Denise said and looked down at Ren and saw his smile. “I think a few others would have to agree that all of this is the best thing to ever happen to us.”
+
+“I do.” Ren said.
+
+“I do, too.” Elise said.
+
+“I have to think about it.” Stella said, and the others looked at her with wide eyes. “Ha! Got you.”
+
+Ren laughed and the others shook their heads.
+
+“Of course I agree.” Stella said as the elevator opened on the third floor. “Now go have fun, and I'll see you tomorrow.” She said as Elise pushed Ren out into the hallway.
+
+“Goodnight.” Ren said to Stella and Denise, and they gave him a little wave as the elevator doors closed. Elise took him down the hall to the den and opened the door. Lisa stood beside the couch with the book clenched to her chest, and she was almost jumping for joy.
+
+Ren grinned at her, and asked Elise to sit on the corner of the couch. She did so, and he sat down beside her with the intention to tuck himself under her arm.
+
+“Just a second.” Elise said and eased her loose t-shirt up a little, unhooked her bra, and without taking off her t-shirt slipped the bra off her shoulders and pulled it out through the arm of the t-shirt.
+
+“How the hell did you do that?” Ren asked, shocked. “I mean, I saw you do it; but, I can't believe it.”
+
+Elise chuckled. “It's magic.” She said and lifted her arm. “Now tuck yourself in here.”
+
+“Yes, ma'am.” Ren said happily and snuggled in to the warm softness her lack of bra had unleashed. “Oh, wow.” He said. “It's like the second best feeling!”
+
+“Second best?”
+
+“It's missing something.” Ren said and pat his lap. “Lisa? Make yourself comfortable.”
+
+Lisa smiled as she laid down and rested her head on his lap. Ren caressed her face for a moment as she snuggled in to his abdomen, then put his hand on the space between her chest and her neck.
+
+“There we go.” Ren said and smiled. “This is the best feeling.”
+
+“Can you describe this feeling?” Elise asked.
+
+“No, but it makes two women I care about happy, so that makes me happy.” Ren said and smiled.
+
+“It really does.” Lisa said as something pressed against her ear. She turned her head from side to side to rub it, and Ren took in a sharp breath.
+
+“L-Lisa.”
+
+Lisa nodded, which rubbed it in another direction, and he was going to tell her to stop when she stopped moving her head and opened her book. Ren relaxed against Elise, and he sighed in contentment.
+
+“Ren, I... I'm sorry.” Elise said.
+
+“Elise, you don't have to apologize.” Ren said. “Even I didn't realize something like this could happen.” He said and lifted his wrapped wrist.
+
+“But...”
+
+“Do you know what my first thought was when it happened?” Ren asked.
+
+“That you couldn't believe you were hurt again?” Elise asked.
+
+Ren chuckled. “No, since it's always a possibility.” He said. “My first thought was 'at least it's not broken'.”
+
+Elise took in a deep breath, and was about to apologize again for causing the injury. Ren moved his hand from Lisa, since it was his good one, and grabbed Elise's chest through her t-shirt.
+
+“I thought that, because I didn't want you to suffer about it happening.” Ren said and massaged her chest. “It would have been so difficult for you if it was broken.”
+
+Elise nodded, because if that had happened, she would have cried immediately. “You get hurt, and you're worried about how I'm feeling.” She said and touched his face to make him look up, and she kissed him. “Why are you so amazing?”
+
+“I'm just lucky, I guess.” Ren said, and snuggled in closer as he stopped massaging her chest and put his hand back on Lisa. “Having people like you around definitely adds to that.”
+
+Elise sighed and put both arms around Ren to hold him, and listened to Lisa flip a page of her book. They didn't talk at all for the next half an hour, and the only sound was a page being flipped every few minutes. Lisa put the bookmark in the book at the end of the chapter, and closed the book with a soft thump. She took in a deep breath, and let out a satisfied sigh.
+
+“Ren, Elise.” Lisa said. “Thank you.” She looked up at them. “You don't know how much it means to me that you do this.”
+
+“We have some idea.” Elise said as she moved a hand from hugging Ren to gently stroke the top of Lisa's head. “I'm with Ren on this one.” She said. “Just sitting here and spending some quiet time with you was really nice.”
+
+Since she was laying down on her back, Lisa's face quickly flushed red; and Elise smiled.
+
+“You don't have to be embarrassed.” Elise said. “It's okay to be complimented by other women.”
+
+Lisa opened her mouth to say something, then closed it.
+
+“Go ahead and say it, Lisa.” Ren said and caressed her neck. “I know you want to.”
+
+“I...” Lisa's face went to a deeper red. “Elise, you have amazingly large breasts.”
+
+Elise chuckled and they jiggled freely under her t-shirt, and Lisa's eyes widened.
+
+“Look at that reaction.” Ren said and touched Lisa's cheek, and she looked at him. “I want to see them like that, too.”
+
+“But...”
+
+“Hop up for a second.” Ren said.
+
+Lisa sat up and put her book on the table next to the couch. Ren stood up and asked Elise to move to the center of the couch, then told Lisa to lay down and put her head on Elise's lap. She did so, and Ren laid down on the other side and put his head beside Lisa's head on her lap.
+
+“Okay, we're ready.” Ren said. “Go ahead and laugh, Elise.”
+
+“It doesn't really work that way, but I'll try.” Elise said. “Ha ha ha.” She said, and her breasts barely moved.
+
+“No, that's no good.” Ren said. “Let me think of a joke.”
+
+“Oh, here we go.” Lisa said and smiled.
+
+“A family walks into a hotel and the father says to the clerk, 'I hope the porn station is disabled'. The clerk gets a disgusted look on his face and says, 'You're sick, buddy! It's just regular porn!' ”
+
+“Oh, god.” Lisa snorted a laugh.
+
+“I recently bought shoes from a drug dealer.” Ren said. “I don't know what he laced them with, but I've been tripping all day.”
+
+“Ugh.” Elise said and shook her head. “Is that all you got?”
+
+“I used to have an ant farm; but, I had to give it up.” Ren said. “The little bastards wouldn't grow anything.”
+
+Lisa laughed.
+
+“Some people have trouble sleeping, but I can do it with my eyes closed.”
+
+“Groan.” Elise said and smiled.
+
+“I just noticed the ceiling.” Ren said. “It might not be the best in the world; but, it's up there.”
+
+Lisa laughed and Elise chuckled.
+
+“Why did the redhead go to the dentist?” Ren asked. “She had ginger-vitis.”
+
+“That's terrible.”
+
+“I asked Stella about going on an all-almond diet.” Ren said. “She said that's just nuts.”
+
+“I think you're losing your touch.” Elise said.
+
+“Um... the shovel was a ground-breaking invention?”
+
+“Nope.” Elise said.
+
+“Okay, okay.” Ren said and thought. “A guy once told me he hadn't been in the bathroom for 2 years.” He said. “I think he's full of shit.”
+
+Elise chuckled and her boobs jiggled a little.
+
+“I only wanted one night stand, but now the furniture store keeps calling me.”
+
+“Ha ha!” Lisa laughed and covered her mouth.
+
+“I asked the checkout girl at the supermarket for a date, and she said they are in the fruit aisle next to the bananas.”
+
+Elise chuckled and her chest shook some more.
+
+“I have kleptomania and when it gets bad, I take something for it.”
+
+Lisa snorted into her hands and her body shook.
+
+“Someone once said that my clothes were gay. 'You're right' I said. 'They came out of the closet this morning.'”
+
+“Ha!” Elise laughed and her breasts jiggled quite a bit.
+
+“What did the bra say to the hat?” Ren asked. “You go on a head, I'll give these two a lift.” He said and pushed up Elise's breasts and let them go. She laughed and they jiggled, and thanks to the extra help from Ren, they moved a lot as Ren and Lisa stared at them.
+
+“That's amazing.” Lisa said.
+
+“What do you call a redhead between a blonde and a brunette?” Ren asked. “The interpreter.”
+
+“Bwahahaha!” Elise laughed and her chest jiggled even more.
+
+“A redhead and a blonde are comparing lovers.” Ren said. “The redhead says she slept with a Brazilian. 'You slut!' The blonde said. 'How many is a brazillion?'”
+
+“Oh, my god!” Elise said and laughed and laughed.
+
+“How can they move like that?” Lisa asked and reached up to touch one of the massive mounds of flesh just above her face. “It's like magic.”
+
+“It is magic.” Ren said and reached up to touch the other one. Elise calmed down when Ren stopped telling stupid jokes, and realized she could feel more than two hands on her chest. She leaned her head to the side a little to see Lisa was touching her, and thought that was very brave of her. Elise tapped the hands touching her and both Ren and Lisa stopped touching her. She hooked the bottom of her t-shirt with her thumbs and lifted, and the thin cloth slid up and off of her chest as she crossed her arms and pulled the t-shirt over her head.
+
+“Good god.” Lisa said and thought about sitting up, when Elise put her hand on the younger woman's shoulder.
+
+“It's okay to be curious.” Elise said. “Can you touch it again for me?”
+
+“B-but...”
+
+“It's not an invitation you get every day.” Ren said and touched the breast above his head. “Feeling them through the t-shirt is nice, but this...” He buried his hands into the mound of flesh. “...there's nothing else like it.”
+
+Lisa was going to decline and not do it, then leaned out a little and saw Elise's face. It was just as flushed red as hers was, and they exchanged smiles. She moved her head back under, and just like Ren, used both hands and buried them into her breast.
+
+“Wow.” Lisa said and moved her hands around to massage it. “It... I... I can't describe...”
+
+“Isn't Elise wonderful?” Ren said and kissed the underside of her breast. “I never could have imagined doing anything like this.” He said and gripped the tip. Elise caught her breath, and he massaged her harder. “Now I'm here with two beautiful women, and one is letting the two of us touch her like this.”
+
+“R-Ren...” Elise moaned. She hadn't had two people doing two different things to her breasts like that before, and she wasn't sure which sensation to focus on, because it was both confusing and pleasurable at the same time. Ren sat up and turned around, then leaned on her as he kept massaging her and rested his head on her chest.
+
+“You're so beautiful, and so giving.” Ren said and kissed the top of her breast. “Thank you so much.”
+
+“R-Ren... please...”
+
+Ren smiled at her, then dove for the tip and started to suckle. Elise gasped as he used his lips and tongue on her quite expertly, and she felt movement on her other side.
+
+“L-Lisa...” Elise said and saw Lisa sit up.
+
+“I should go.” Lisa said.
+
+“Don't.” Elise touched her shoulder, and then cupped her own breast to offer the tip. “It's... really tender.” She moaned. “Be... be gentle.”
+
+Lisa blinked her eyes at her, then looked at the blood engorged tip. It really did look sore and like it needed attention. “I'm... not into girls.”
+
+“Neither am I.” Elise said. “But... I... I want to feel your mouth on me.” She said and her face flushed to a deep red. “I want to see...”
+
+Ren stopped sucking and looked at Elise.
+
+“You have to ask for what you want.” Ren said. “We aren't mind readers.”
+
+Elise ducked her head a little. “I want to see... to feel... the both of you at the same time.” She said and looked at Ren, then at Lisa. “Please.”
+
+“Lisa? Give me a hand.” Ren said and grinned. “We have a formal request for emotional satisfaction.”
+
+Lisa chuckled at the absurd notion, then looked at the pleading expression that Elise had on her face. Without a word, she turned and leaned in as she mirrored Ren's position, then she and Ren dove for the tips of Elise's breasts and started to suckle.

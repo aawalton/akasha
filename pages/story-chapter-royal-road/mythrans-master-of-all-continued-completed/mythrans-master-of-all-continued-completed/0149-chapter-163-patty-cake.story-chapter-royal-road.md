@@ -1,0 +1,405 @@
+---
+id: db52b5db-776b-5bc5-9e4f-f89c94e46934
+page-type-slug: story-chapter-royal-road
+title: "Chapter 163 - Patty Cake"
+slug: 0149-chapter-163-patty-cake
+partOf: mythrans-master-of-all-continued-completed
+position: 149
+ownLength: 3689
+unit: words
+publishedAt: 2017-02-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117452/chapter-163-patty-cake"
+royalRoadId: "117452"
+---
+
+“We don't hold to that kind of language here.” The woman said, sternly.
+
+********
+
+“Oh my GOD!” Barbara exclaimed when she saw what the woman looked like, then covered her mouth. She looked around, then relaxed as she remembered she'd shut Ren's door after Denise had left.
+
+What... what is everyone going to think? Barbara thought as she looked at Ren's still form on the bed.
+
+********
+
+“I'd say I'm sorry, but I'm not.” Elerlyth said. “You've messed everything up!”
+
+“I did no such thing.” The woman said in her defense, as she lost her stern expression.
+
+“You didn't have to 'do' anything.” Elerlyth waved a hand around at the field. “Just being here was enough!”
+
+The woman's face started to crumble, and tears appeared in the corners of her eyes.
+
+“That's just fucking great!” Elerlyth exclaimed. “Now you're turning on the waterworks!” She stepped in front of Ren, who was still standing there, frozen in shock.
+
+“Please, listen to me.” Elerlyth pleaded and took him into a hug. “Don't look at her, Ren.”
+
+Ren looked up at Elerlyth with wide eyes. “But...”
+
+“No, Ren.” She said. “It's not her. It's what the game thinks is your ideal version of her.”
+
+“But...”
+
+“Remember when I told you that the game tries it's best to lock you into logic loops?”
+
+Ren blinked at her and nodded.
+
+“This is the biggest one I've ever seen it create.” Elerlyth said. “I thought the loop you were already in with the dwarves was bad enough; but this...” She shook her head and cupped the side of his face with a hand. “Don't get caught up in it, Ren.” Elerlyth said. “Play the game. Have fun. Don't... don't do this.”
+
+Ren put a hand on her hand that cupped his face, lifted it slightly, and kissed the inside of her wrist.
+
+“Thank you.” Ren said, and let her hand go. “I'm okay now.”
+
+“Are you sure...”
+
+Ren nodded. “Don't worry. I can handle this.”
+
+Elerlyth let him out of the hug and stepped aside.
+
+“My apologies for the display.” Ren said to the woman, who had let a couple of tears run down her cheeks. “Seeing a woman of your caliber has thrown our normal behavior out the window.” He stepped forward and gave the woman a scrap piece of cloth to dry her eyes.
+
+“Wh-what's this?” She asked, taking the cloth with her thumb and forefinger.
+
+“It's a piece of cloth to dry your eyes with.”
+
+She looked at him with shock on her face. “You waste cloth by doing that?!?”
+
+“It's not a waste of cloth in my opinion.” Ren chuckled. “It gets to touch your face and dry your tears.”
+
+The woman's eyes widened, and Elerlyth sighed. Ren turned to face Elerlyth, winked, and turned back to the woman.
+
+“I'm the new Lord of this County.” Ren said. “I plan on improving things a little, but I need to find the village elder, Patty. Can you tell me where...”
+
+“I'm Patty.” She said.
+
+“It's nice to meet you, Patty.” Ren said. “I was told that I need to build a house for myself. Where would you recommend I do that?”
+
+“You're the Lord.” She said. “You can build it anywhere you want.”
+
+Ren smiled. “I'd rather not build it where it would interfere with the village.”
+
+“You're the only person I've ever met that cares what happens to the village.” Patty said. “That doesn't live here already.”
+
+“I won't be here a lot.” Ren said. “At least, I'm not planning on being here a lot.”
+
+“That's a relief.” Patty said. “I was worried you were going to come in here and change everything to how you want things to be run.”
+
+Ren glanced quickly at Elerlyth, and saw her grin. “I'm not planning on making any changes right now.” He said. “I haven't even seen how everything is set up yet.”
+
+Patty crossed her arms under her chest, and looked at him. “You're going to come in here, to the village I grew up in, and tell me how to run it?”
+
+“No.” Ren said. “I don't know how to do your job.”
+
+Patty nodded. “That's good.” She said. “If you tried to do that, I'd quit and you'd have to do it all yourself.”
+
+“I definitely don't want that to happen.” Ren said and smiled. “You're too valuable to waste like that.”
+
+Patty blushed a little at the compliment.
+
+“So, where can I build a house?”
+
+“Anywhere in the mile of space between here and the village.” Patty said. “It's all open and can't be used for anything anyways.”
+
+“Then that's perfect.” Ren said. “Thank you for your time.” He turned away and walked over to the horse and cart.
+
+“Wait!” Patty said, and came out of the shack. “I... I can... show you around...” She said and her face flushed slightly red.
+
+“Normally, I'd like that very much.” Ren said. “I need to get going, though.”
+
+A look of disappointment passed across Patty's face.
+
+“I'll be back in a few days.” Ren smiled. “I'd be happy to take a tour then.”
+
+“It's a date!” Patty said happily, and Elerlyth snorted a laugh. Ren untied the horse, climbed into the driver's seat, and Elerlyth climbed up beside him. Patty waved to them as the cart went down the road.
+
+“You handled that a lot better than I thought you would.” Elerlyth said when they got back to the road. Ren turned the cart towards the village and flicked the reins.
+
+“Thanks to your warning.” Ren said and pulled the cart over. “This looks like a good spot.”
+
+“Hold on, you're going to build a house right now?”
+
+Ren chuckled. “No, I'm building the mold for it.”
+
+She looked at him oddly, and he grinned.
+
+“Just sit there and look gorgeous.” Ren said. “This won't take long.”
+
+After storing his armor and equipping his Travelling Clothes, Ren walked over to the side of the road and took out his hammerpick. He stuck the plow end into the ground, and ran as fast as he could. He made a 6 foot wide road 30 feet long, then a lot the size of the Main House he'd built for House Neram. He cleared it out with a shovel, took out the wood pieces he had stored, and assembled them into the 2 storey wooden mold.
+
+“You've been carrying all of that around with you this whole time?” Elerlyth asked, surprised.
+
+Ren laughed as he nailed the last piece up. “This is only the parts I used for the Main House.” He said. “I'm still carrying the rest of the mold I've been using around the Keep.”
+
+Elerlyth's mouth dropped open. “Ren, that's not... how can you carry so much?”
+
+“Practice.” Ren said, then laughed at her scowl. “I'm just really strong.”
+
+“I know it's not normally something people discuss.” Elerlyth said, then looked at him. “But I have to know. What is your Strength stat?”
+
+“169.”
+
+“It's WHAT?!?” Elerlyth yelled. “You... you...” She took a deep breath. “But you're only level 29!”
+
+Ren chuckled. “While everyone has been out level grinding, I've been skill grinding.”
+
+“That still doesn't explain that outrageous number!”
+
+“It's really only 129, but I've got 2 titles that give me +20 Strength each.”
+
+“How many titles do you have?” She asked. “I know Hero of Aurora and Lord didn't give you the Strength bonuses.”
+
+Ren looked at his status again and counted. “16.”
+
+“Oh, my god.” Elerlyth stared at him. “Ren, people might have one, or maybe two; if they are really lucky. How the hell did you get so many?”
+
+“I guess I'm just lucky.” He laughed. “By the way... before you ask... my Luck stat is 34.”
+
+“Mine's 12.” Elerlyth said in a soft voice. “Only 12.”
+
+“I told you before; I can't assign my stat points when I level.” Ren said and took out the modified cart he'd made for mixing cement. “You can.”
+
+She nodded. “Yeah, but I've been pumping up my Dexterity and Agility.”
+
+He nodded. “I figured you would.” Ren said and mixed up a batch of cement. “How's the sword working out?”
+
+“I'm not hindered by it at all, now.” She said and smiled. “You were right. The more I use it, the easier it gets.”
+
+“Do you want me to change the enchantment?” Ren asked as he set the rebar and then poured the cart full of cement into part of the first level of the mold.
+
+“No, thanks.” Elerlyth said. “I want to get used to it first.”
+
+Ren mixed up another batch of cement. “When you change your mind, message me and let me know what you want.”
+
+For the next half an hour, Ren mixed cement and talked to Elerlyth about some of the ideas he'd come up with for the village. The biggest idea was a battlement wall, and Elerlyth shook her head.
+
+“Do you really think Patty will let you put a wall up around the village?”
+
+“It's not like she has a say.” Ren said. “And I'm not putting it around the village.”
+
+“Then what...”
+
+“I'm going to defend my territory to the best of my ability.”
+
+“You've got to be kidding me!” Elerlyth said, surprised. “You're going to build a wall around the 50 square miles of the whole County?!?”
+
+“I'll need dirt for the middle of the wall, so I'm making a moat, too.”
+
+“You're crazy!” Elerlyth said. “A wall that long is going to take... a... a... really long time to build!”
+
+Ren laughed. “A bit too many variables for you to count, was it?”
+
+She clamped her mouth shut.
+
+“It's okay.” Ren said and heat up the ends of the rebar with his Fire enchanted stone brick, and attached the rebar to make the floor on the second level. “It will take a while to build, especially if I'm doing it by myself.” Ren made another batch of cement and covered the floor with it. “I'll look into hiring a crew, though.”
+
+“I'm sitting here watching you work, and I'm still surprised that you can do all of that.” Elerlyth commented. It's kind of turning me on, too.
+
+“It's going so fast because I already know what I'm doing.” Ren chuckled. “It took nearly a day to make all of this the first time, not counting the rebar. Once you have all the parts, though...”
+
+“You just have to wait for it to dry.” Elerlyth said. “That's amazing.”
+
+“Not really.” Ren said as he finished spreading the cement over the second level's floor, and climbed down. “I have to wait for this part to dry before I can pour the second floor's walls, then I have to build the rafters out of wood.”
+
+“What made you think of building this, instead of a copy of your warehouse?”
+
+“I'm only allowed one version of my business in each Kingdom. It would be neat to have one in each County, but I can see the portal system being abused so badly that it would break the game.”
+
+Elerlyth nodded. “Everyone would have a business in every town, city and spot they wanted to quick travel to.”
+
+“You got it.” Ren said and climbed up on the cart beside Elerlyth. “Everywhere would be full of buildings that people would use for personal travel.” He picked up the reins, went to turn the cart around, and saw the woman from the village walking towards him. Ren waited for her to get close and spoke.
+
+“If you're heading to the farm, we can give you a lift.”
+
+“Thlank youl.” The woman said, and Ren hopped down to help her climb into the back of the cart. He got back in the driver's seat, turned the cart around, and headed back to the farm path. They went up the path, and Ren pulled the cart to a stop in front of the house. He hopped down and helped the woman climb out.
+
+“Thlank youl agailn.” She said, and held out the copper coin to him. Ren folded her hand back over it.
+
+“You can keep that.” He said and climbed back onto the cart. “Goodbye.”
+
+“Blye.” The woman said, and the cart drove down the path.
+
+*
+
+The woman walked over to the shack and knocked. Patty opened the door and smiled.
+
+“Unice! What are you doing here?”
+
+She held out the coin to Patty, who took it.
+
+“He gave it to you, didn't he?”
+
+The woman nodded, and Patty walked over to the rickety table and the small jar there. She put the coin inside and heard it clink against it's fellows.
+
+“Thank you so much, Unice.” Patty said. “At this rate, we'll have that new shovel in no time!”
+
+“Whlat aboult hilm?” The woman asked.
+
+“I don't know.” Patty said. “He could be a great asset, or he could ruin everything we've built here.”
+
+“Asslet.”
+
+“I hope so, Unice.” Patty said. “I really hope so!”
+
+*
+
+“I'm glad that's over.” Elerlyth said as they hit the road again, and Ren flicked the reins to egg the horse on.
+
+“It might be over for you, but I've got to come back here and start working.”
+
+“Ren.” Elerlyth said. “What was it you told me earlier? You should be working for fun, not playing the game to work.”
+
+Ren glanced at her, then smiled. “Okay, I deserved that.” He smiled. “I'll see if I can hire a crew, but I sincerely doubt that they would want to come all the way out here to work.”
+
+Elerlyth laughed. “Ren, I don't think anyone in their right mind would be willing to travel all the way out here to work every day.”
+
+“Just me, then.” He said and laughed.
+
+She put a hand on his shoulder. “You know what I meant.”
+
+Ren nodded. “I'd have to build them something temporary to live in first, then hire them.”
+
+“Right.”
+
+“I'll get right on that.” Ren said. “Later.”
+
+Elerlyth smiled. “The procrastinator's meeting was postponed, too.”
+
+Ren chuckled, then kept driving the cart. After a short while, he stopped the cart at the spot where Elerlyth had said her hideout was.
+
+“What are you doing?” She asked.
+
+“I'm letting myself off so you can stash this wherever it needs to go.”
+
+Elerlyth opened her mouth, then smiled. “I was thinking of heading all the way back to the city with you first, then coming back here.”
+
+Ren reached up and took her hand. “I can't have you travel all that way for nothing.”
+
+Elerlyth climbed down from the cart and stored her armor. “I wasn't going to do it for nothing.”
+
+His eyes widened as she kissed him.
+
+“Elerlyth...” Ren started to say. “I...”
+
+She kissed him again and he stopped fighting the urges he had. He picked her up and went to the back of the cart. Ren unhooked the Dire Wolf Hooded Cloak from around his neck, and laid it fur side up in the back, then put Elerlyth on it. They stored their clothing and Ren ran his hands along her slender muscular legs, and she felt how much pleasure he was getting from it. He proceeded to please her, and she nearly cried as he took his time. He moved so slowly, that it drove her crazy, and she tried to take control. Ren held her down and she couldn't move. She felt trapped, and started to panic a little, but he kept holding onto her and moving, and she felt the pressure build faster than it had before. Her body tensed up as she finished unexpectedly, and spasmed several times and clamped her legs around Ren, who kept moving slowly.
+
+“Please... please go faster...” Elerlyth begged. “I can't... I can't take it...”
+
+Ren let her arms go and knelt, put her legs on his shoulders, and took her advice. He went as fast as he could, and she gasped as she went again because she felt his ferocity.
+
+“Oh, GOD!” Elerlyth yelled, as Ren went and she went again herself. He lay down beside her afterwards, and she stared at him. “You've never... like that... with me before.” She said as she tried to calm down.
+
+“You've always fed on my emotions before.” Ren said, and her eyes widened. He smiled and cupped the side of her face. “I wanted you to have an experience without having that particular ability interfering.”
+
+Elerlyth opened her mouth to speak, and he kissed her.
+
+“I know you could still feel the emotions, but your ability couldn't... take the edge off of them. I wanted you to feel them in their raw form.”
+
+“Thank you.”
+
+“Oh, no.” Ren said and grinned. “Thank you.” He smiled. “You let me get my frustrations out.”
+
+“I'm always glad to help.” Elerlyth said. “My body, however...”
+
+Ren touched her there gently, and she winced. He took out a Minor Healing wand and used it on the area, then touched her again. Ren smiled as she didn't wince.
+
+“There, all better.” He said and kissed her.
+
+“Where can I get one of those?” Elerlyth asked, and Ren handed it to her.
+
+“It's only a Minor Healing wand, but it still works wonders.”
+
+“I saw you use it a lot during the fire rescue.” She said, and examined it. “Wait a minute.”
+
+“What?”
+
+“This wand has 49 charges left.”
+
+“Yeah.” Ren said. “Because I just used one.”
+
+“I wasn't counting last night, but I know you used it a bunch of times.”
+
+Ren chuckled. “What makes you think it's the same wand?”
+
+“You have more of them?!?”
+
+“Of course I do.” Ren said. “I made them.”
+
+“You WHAT?!?”
+
+He laughed. “A lot has happened since the last time we saw each other.”
+
+“Oh, Ren!” Elerlyth hugged the wand to her bare chest. “This thing is worth a fortune.”
+
+“You don't know the half of it.” He grinned, and she felt his mischievousness.
+
+“Well, don't just lay there.” She said. “Tell me.”
+
+“I don't know if I should tell you.” He said. “It's kind of a big deal.”
+
+Elerlyth smacked him on the chest. “Ren!”
+
+“Okay, okay!” He laughed. “It's rechargeable.”
+
+Her mouth dropped open and she looked at the wand, then at Ren, then back at the wand. She picked it up and held it at arms length above her face.
+
+“You made a rechargeable wand.” Elerlyth said. “Do... do you know what this means?”
+
+Ren nodded. “Of course I do.” He said. “You saw it last night, and just now.”
+
+“Anyone can be a magic user.” She said in reverence, then looked at him. “Please tell me you have different ones.”
+
+“I only know three spells so far.” Ren said. “Minor Healing, Major Healing, and Fireball.”
+
+“You have a FIREBALL wand?!?”
+
+He took one out and gave it to her. Elerlyth pulled the two wands to her chest, and hugged them.
+
+“Oh, my god. Oh my GOD!” She rolled from side to side for a moment, stored the wands, then hugged him. “I LOVE YOU!” She yelled, then froze solid. She let him out of the hug and she had a shocked look on her face. “I... I didn't mean...”
+
+“I know what you meant.” Ren smiled. “People say things they normally wouldn't say when they get excited like that, while trying to thank someone.”
+
+“Yes! That's right.” Elerlyth said. “I... I love that you can do these amazing things.”
+
+“I'm glad I could make you so happy.” Ren chuckled. “Don't forget to keep them and I'll recharge them when you need me to.” He stood up and equipped his Travelling Clothes. “I better get going.”
+
+Elerlyth nodded, then stood up to equip her bodysuit and armor. Ren stored the cloak to clean it, and equipped it.
+
+“Thank you for the wands.” Elerlyth said as she climbed down out of the back of the cart.
+
+“It was my pleasure.” Ren climbed down out of the cart and saw that she seemed a little awkward and uncomfortable. He took her hand and lifted it to his lips, then kissed it softly. “I'll see you next week.”
+
+She nodded, but didn't say anything.
+
+“Bye, Elerlyth.” Ren said, then started to run.
+
+*
+
+Elerlyth watched him for a minute, before dropping to her knees. “Why did I say that?” She asked herself and covered her face with her hands. “Stupid! Stupid! Stupid!” She berated herself. “Now he's going to think I'm in love with him.” She sighed, dropped her hands, and stood up. She climbed into the driver's seat of the cart and drove it slowly down the road, then turned off into the woods at what seemed like a random spot. There was no trail or anything, but that was the way she and Hailey wanted it.
+
+“What am I going to do?” Elerlyth asked herself. “I know he said that he understood what I meant; but, I said the words, despite what I meant when I said them.” She sighed. “I can't take them back.”
+
+*
+
+Ren ran for all he was worth. She told me she loved me. He thought. I know she was just thanking me, but I can't believe she told me she loved me! He kept running and then came to a stop. Oh, crap.
+
+“What?” Teepo asked.
+
+Nathalia's going to kill me.
+
+“Why?” Teepo asked. “She said you better not come home and tell her that you love Elerlyth. She didn't say anything about Elerlyth loving you.”
+
+That's kind of splitting hairs. Ren thought then started running again.
+
+“I'd tell you not to tell her, but you're going to anyways.”
+
+Of course I'm going to tell her. Ren thought. I told her I'd never lie to her about any of this.
+
+“Your recipe for Trouble doesn't need a lot of ingredients, Ren.” Teepo said. “You saw that today.”
+
+She's definitely going to hate that part of this story. Ren kept running down the road. If I'm lucky, she'll only yell at me for an hour or so.
+
+“And if you're unlucky?” Teepo asked.
+
+Healers can regrow limbs, right?
+
+“That depends. Does Little Ren count as a limb?” Teepo chittered in laughter.

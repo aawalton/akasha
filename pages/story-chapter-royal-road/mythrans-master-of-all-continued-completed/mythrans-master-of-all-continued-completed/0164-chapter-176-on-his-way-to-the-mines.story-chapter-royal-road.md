@@ -1,0 +1,449 @@
+---
+id: 9468dbd6-36b3-540b-84ee-b1838d6b90b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 176 - On His Way To The Mines"
+slug: 0164-chapter-176-on-his-way-to-the-mines
+partOf: mythrans-master-of-all-continued-completed
+position: 164
+ownLength: 4656
+unit: words
+publishedAt: 2017-02-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119811/chapter-176-on-his-way-to-the-mines"
+royalRoadId: "119811"
+---
+
+Ren hadn't recovered all of the bolts, as some had gone out into the hallway, so he only had a limited amount of shots. He waited for the best opportunities, and only shot the giant spiders, and let Tee-one handle the 2 foot tall ones. Ren had dropped the fire brick somewhere, so he deactivated the enchantment and concentrated on keeping the multiple abilities going. The wood he'd set out was still burning, but not very well. He was barely getting any Mana recovered from it.
+
+“I think we might have to retrea-” Ren tried to shout, and Teepo's words cut him off.
+
+“There's no more big spiders coming down the hall, Ren!”
+
+“Thank the gods!” Ren said as he shot the last bolt into a 5 foot tall spider, exploding it's body.
+
+“There's still tons of little ones, though.” Tee-one said and swiped at several more.
+
+“Let them come!” Ren said, and Tee-one backed up and over the barrier of dead spiders to let the small 2 foot tall spiders into the room. Ren took out his blacksmith hammer and repaired his armor, then used his Major Healing wand twice to heal his arm and fill his Health bar. He used the wand again to fill his Mana Pool, stored the Ballista, then took out a handful of steel squares.
+
+“Teepo?” Ren asked, as he saw the mass of spiders crawling over the bodies of their fallen comrades, over the walls, and ceiling.
+
+“They're pretty much all in the room now.” Teepo said. “Only a few dozen out here.”
+
+“Tee-one!” Ren said and used his Elemental Grenade ability, and charged up the steel squares. It took a massive amount of Mana, nearly half of his Mana Pool, but he didn't care at this point. “Take cover!”
+
+Tee-one jumped behind him, and Ren tossed the handful of glowing steel squares over the barrier and ducked behind his shield.
+
+*BOOOOOOOOOM*
+
+Every one of the grenades exploded at the same time. The force from the explosion shattered the steel, and they acted like shrapnel to send small shards in all directions. The metal bouncing off of the shield sounded like machine gun fire, there was so many shards. The barrage stopped a moment later, and Ren took the chance to peek. The spiders had been pulped into mulch, and the entire room was covered in their remains.
+
+“You even got the ones in the hallway, Ren!” Teepo exclaimed, as he flew into the room. “A few of them got away, but we can hunt them down later.”
+
+*BANG* *BANG* *scratch* *BANG* *scratch* *BANG* *BANG*
+
+“They're heeeeere!” Teepo said, referring to the spiders from the cave, as they crawled over the reinforced wooden wall now mounted to the side of the Keep. Spider's legs jammed themselves into the viewing holes Ren had made all along the length of the wall, and tried to hit or grab him.
+
+“Tee-one, are you up for...” Ren looked at him, and saw that Tee-one's legs hadn't been behind cover at all. Metal shards of all different sizes peppered the once smooth surface of his legs, and Ren winced as he felt Tee-one try to move.
+
+“Sit still.” Ren said, and started to use Iron Grip to pull the shards out. The banging got louder, and there was a lot more scraping. “I can't get them all!” Ren said as his fingers couldn't get a hold on the tiny shards. He focused on the larger ones and got all of them removed.
+
+“I hope this works.” Ren said, and used Repair on one of Tee-one's legs, pouring Mana into the hammer. The leg filled back in and slowly pushed the tiny shards out. “It's definitely taking longer when you don't remove the obstructions first.” He said, then repaired the other leg.
+
+“What are we going to do now?” Tee-one asked, as he stood up completely repaired.
+
+“The first thing I'm going to do, is get some payback.” Ren said, took out his hammerpick, and ran the entire length of the wall, smashing the spider legs that were trying to grab him through the viewing holes. The spiders screeched and fell away from the viewing holes, and left several dozen pairs of their severed limbs on the floor. More legs were shoved in, and Ren waited a minute, then ran the other way with the same result.
+
+“They didn't like that one bit!” Teepo chittered in laughter as the banging eased down to nothing, and the scraping sounds went away.
+
+“Thank the gods.” Ren said, and received a series of popups.
+
+Notice!
+
+You have successfully held off a horde of venomous spiders! Thanks to your Command abilities, your vastly under-strength party was not overwhelmed or overrun.
+
+Rewards: 57,500 XP (100 XP per small spider x500; 1,500 per giant spider x5)
+
+Special Bonus: No One Died - 1,500 XP (500 XP per active member)
+
+Level up!
+
+You have leveled up and are now Level 31. Ten (10) stat points have been automatically allocated.
+
+“I didn't gain any Influence, Honor, or Fame.” Ren said. “I guess doing things when no one else knows about it, won't earn me any bonuses.”
+
+Notice!
+
+New skill unlocked: Take Me Instead - This ability lets you become the focus of enemies instead of another party member, as long as they are within your Aura's radius.
+
+Warning: When used, you will become the focus of ALL enemies within your Aura's radius.
+
+Notice!
+
+New skill unlocked: Exterminator - This ability grants you a 25% bonus to Hit and 25% bonus to Damage, when fighting insects and vermin directly.
+
+Notice!
+
+You were really lucky! Thanks to the intervention of a party member, and hurting yourself on purpose, the giant spider was unable to take you back to it's den to eat you.
+
+Luck: +5
+
+Ren dismissed the popups and looked at Tee-one. “Don't comment about this situation.” He said. “Not even when we leave.”
+
+Tee-one nodded and Teepo landed on Ren's shoulder.
+
+“Was that all of them?” Ren asked.
+
+Teepo chittered in laughter again. “On this floor.”
+
+“Now that we know what to expect, we can prepare much better in the future.”
+
+“You definitely need more bolts for the Ballista.”
+
+“Yeah, a full clip of a hundred bolts should do.” Ren said and looked at Tee-one. “Use the rest of the trees for the normal bows, to make enough bolts to fill the cartridge.”
+
+Tee-one nodded, and Ren went around and looted all of the spiders. Tee-one joined him, and it took a while to get them all.
+
+“It's too bad there's not a 'batch loot' option for this.” Ren said. “This is taking too long.”
+
+“You can head out.” Tee-one said and looted the spiders in the hallway. “I'll make a door here and secure it.”
+
+“Are you sure?” Ren said. “I don't want to leave you alone here if there's still danger.”
+
+“It's okay.” Tee-one said. “I'll use your technique of cutting off all the legs if they come back to the retaining wall; but once we're out of here, I'll start filling the molds we set up.”
+
+“Okay.” Ren said. “But if you need help at all, let me know.” He tapped his temple, and Tee-one nodded. “You can make a few crates to store the spider parts, too.”
+
+“Understood.” Tee-one said, then started to make a door for the room. Ren left him there and ran back up the passage to the workshop, with Teepo still on his shoulder. Ren crept out of the hidden hatch, and set it back in place. After he stored his armor and equipped his Travelling Clothes, he used up the last of the still simmering molten metal in the smelters to make another smelting apparatus for the forge he wanted to build at the new mines. He hoped that the mine foreman would have a blacksmith shop set up already; but, it was better to be safe than sorry. Ren tossed some gold ore into the smelters, just to keep something in them. He stored the portable dying station, then on a whim stored the large glass forge, and left the forge room.
+
+“Hey, Ruck.” Ren said. “Did you spend your stat points for leveling up?”
+
+Ruck shook his body from side to side in a 'no' gesture, and Ren helped him spend them. Once he did so, Ren got the popup that his Craft Familiar recipe had leveled up to Intermediate Level 2, and had unlocked another familiar. Ren pat Ruck and grinned.
+
+“Thanks for all your hard work, Ruck.” Ren said. “Can I have some of the Health potions you're holding for me?”
+
+Ruck handed over 6 of them, and Ren stored them.
+
+“Thanks.” Ren said, and looked at the women. “You are all doing excellent work. Thank you.”
+
+Some of them blushed, and Dorathy laughed.
+
+“Thanks to your little toy, we won't have to work again for about a year.”
+
+“Not if you don't want to.” Ren said and grinned at her. “I hope you'll keep coming here for a while, though.”
+
+Dorathy nodded slightly. “We'll work for you until we're not needed anymore.”
+
+“That's right!” “Of course.” “I want to pet your hair again.”
+
+Ren laughed as he looked at the woman who spoke. “Sorry, Ma'am.” He said. “Only once per customer.”
+
+She laughed, and Ren left the workshop. He stored enough stone bricks to make another forge, then gathered more wood from the piles. He ran down to the road and stopped at the guards.
+
+“How did Broxor take being fired?” Ren asked Wohrum.
+
+“Not very well, sir.” Wohrum said. “He doesn't believe he did anything wrong.”
+
+“Neither do you.” Ren said, and Wohrum shook his head. “I explained to Golir, but I guess it just doesn't make sense to you.”
+
+They looked at him with blank expressions.
+
+“Don't worry about it.” Ren said. “There's no one left to guard anyways, except my mount and Ruck.” He sighed. “I over-reacted a little, but I was angry that you could let the people you were guarding be taken. Not to mention my dogs, too.”
+
+Wohrum didn't respond, and Ren smiled.
+
+“Tell him he can lay paving stones around the Barracks and Main House.” Ren said. “Let him do it for a week, then hire him back as a guard.”
+
+Wohrum nodded, and Golir nodded as well. Ren dismissed the popups for Honor gains, and ran down the road. He stopped at the new sub-division across the road from the old one, and found the foreman and his crew there.
+
+“I see you've got a few more houses done already.” Ren said.
+
+“Yeah.” The foreman said. “I kept all three crews going, so they're going up fast.”
+
+“I'm sure that when these are done, it should be enough for now. I'll have Ereka call if more are needed.”
+
+“Sounds good.” The foreman said. “How's the stained glass coming along?”
+
+“Not at all.” Ren said. “I'll be trying it as I work in the mines.”
+
+“It's bad enough that you've been sentenced to heavy labor, but now you're going to do extra work on top of that?” The foreman shook his head. “You're a glutton for punishment, aren't you?”
+
+Ren laughed. “No, I can just use my time differently than people think I can.”
+
+“Well.” The foreman said and held out a hand. “Good luck.”
+
+Ren took his hand and slid a platinum coin into it, then shook it. “Thank you for all your hard work, and I hope you have just as much luck in the future.”
+
+The foreman nodded slightly, and slipped the coin into his coin pouch without looking at it. “Thanks for the shiny new toy.” He said, and winked.
+
+Ren laughed and ran down the road. He stopped in front of the new medical building, took out two of his Minor Healing wands, and absorbed the charges. He filled them with Major Healing instead, stored them, then went inside the building.
+
+“Is anyone here?” Ren asked as he entered the lobby.
+
+“We're in here, My Lord.” Artrude said from the room off the lobby. Ren went inside and saw a dozen beds, half of which were made, and Artrude and Malenka were putting the sheets and a blanket on another one.
+
+“I stopped in to see how things are going.” Ren said, and watched as they finished making the bed.
+
+“They're great!” Malenka said and hopped onto the freshly made bed to jump on it.
+
+“Malenka! We just made that bed!” Artrude admonished her.
+
+“Sorry!” She laughed, and jumped to the next bed that wasn't made. “New beds are so springy!”
+
+Artrude shook her head as she fixed the slightly messed up bed, and came over to Ren. “Ereka has been a godsend. We already have all of the equipment that we need.”
+
+“Well, not all of the equipment.” Ren said, took out the two Major Healing wands, and handed them to Artrude.
+
+“My... My LORD!” She exclaimed, and held them with reverence.
+
+“Was that a general 'lord', or were you referring to me?” Ren chuckled.
+
+“You, of course!” Artrude said, and hugged him tightly. “I don't know how you can give all of these things away like this.”
+
+“It's important that you have them.” Ren said. “Just in case.”
+
+Artrude let him out of the hug and shook her head. “We're losing a huge resource with you leaving.”
+
+“Not really.” Ren said. “Once I get everything set up, this House will be a perpetual machine that will just keep growing.”
+
+“You've done a great job of it so far.” Artrude said. “I don't know what else you could do to make it better.”
+
+“I'm sure I'll think of something.” Ren said and grinned.
+
+“Is that a new wand?!?” Malenka asked as she saw the wands Artrude had in her hands. She grabbed one before Artrude could pull them out of the way and Malenka stared at it. “MAJOR HEALING!” She yelled and ran around the room. On her second loop, Ren looked at Artrude.
+
+“I think she likes it.” He said, and laughed.
+
+Artrude nodded. “She has Major Healing herself, but her Mana's so low right now that it's not very effective.”
+
+“Ah, I understand.” Ren said. “I am not going to hope she can level up soon.”
+
+Artrude laughed. “Me, either.”
+
+“I'll see you later, Artrude.” He said, then looked at Malenka. “Bye, Malenka.” Ren saw her turn and make a beeline for him, so he braced himself to catch her. She jumped up and wrapped her arms and legs around him like a monkey, and Ren laughed as she rained quick kisses all over his face.
+
+“Ma-Ma-Malenka!” He finally got out. “You're welcome! You're WELCOME!”
+
+Artrude couldn't stop laughing as she pried Malenka off of Ren.
+
+“You've thanked him enough.” Artrude said, as she finally pulled Malenka free. “I swear, if I didn't love you so much, I'd think you were trying to replace me.”
+
+“Oh, come on.” Malenka laughed. “He knows I'm just playing.”
+
+“Do I?” Ren asked her, and she looked at him with a bit of surprise on her face, then she blushed slightly at how closely she had hugged him. He laughed at her reaction, and shook his head. “I'm only kidding.” He said. “I wouldn't have caught you, otherwise.”
+
+Malenka nodded slightly, then raised her eyebrows. “Wait, you'd have let me fall?”
+
+Ren shook his head again. “I would have run before you got near me, and you wouldn't have jumped in the first place.”
+
+“Oh.” Malenka said. “That makes sense.”
+
+“Enjoy yourselves.” Ren waved to them, and left the medical building. He ran down the road and into the Main House. “Hello.” He said to a female dwarf he'd never met before. “Is she in?”
+
+“Of course, My Lord.” The female dwarf said, and touched a small piece of steel on the desk. “Ma'am?”
+
+“Send him in.” Ereka said.
+
+“Go right in, My Lord.”
+
+“Thank you.” Ren said and walked by her to the back of the building and knocked on Ereka's office door once, then opened it. He saw Ereka smile at him for knocking, and he went into the office and shut the door.
+
+“Hi, Ereka.” Ren said.
+
+“Hello, My Lord.”
+
+Ren shook his head. “I thought we agreed when we weren't in public, we could use our names without any implications.”
+
+“We did, but...” She grinned. “It's hard to ignore your standing now.”
+
+Ren smiled and sat down in the chair.
+
+“What can I do for you?” Ereka asked.
+
+“I need a dozen rolls of see-through fabric, half a dozen of lace, and one of frills.”
+
+She blinked at him a few times, then thought about what the fabric could be used for, and her face flushed a little red.
+
+“That's... a lot of... ah... fabric.”
+
+Ren grinned. “It's not for me to wear, if that's what you're thinking.”
+
+Her eyes widened, then she blushed completely as she laughed. “You're horrible.”
+
+“I think I like 'crazy' better.” Ren said and laughed. “How's the money situation coming along?”
+
+“We've got a steady income coming from the Hole, and from Barnar's Stoneworks.” Ereka said. “Boy, the Houses just love all those ideas you came up with.”
+
+“I'm glad.” Ren said. “When orders for ore start coming in, this place will really start picking up.”
+
+“Are we taking orders for that?” Ereka asked.
+
+“Once we have production up to a good level.” Ren took out a pair of steel squares, enchanted them with Sending Glyphs, and handed one to Ereka after slipping the other into a pocket.
+
+“What's this for?” She asked.
+
+“I'm going to be working at the mines for the next 3 months, and I don't know if I'll be able to get back here to help take care of things.” Ren said. “If you need me for anything, just let me know.”
+
+“Are you sure?” Ereka asked. “I... I don't know if... I mean, how many other people have these?” She sighed. “I have no right to ask that.”
+
+Ren smiled. “To be honest, only you.”
+
+Ereka's eyes widened at his admission.
+
+“I've got a link to Nathalia.” Ren said, and held up the hand with the Sending Ring on it. “But she's going to be busy taking care of Narhilda, now that they're back at the castle and trying to run the Kingdom.”
+
+Ereka nodded slightly. “If I need anything, I'll be sure to contact you right away.”
+
+“Great.” Ren said. “Is there any chance you can hire some general laborers to set paving stones? They don't have to move here; but, I've got two housing sub-divisions with only dirt roads, and thousands of paving stones beside the Keep just sitting there.”
+
+“Sure.” Ereka said. “I'll put the word out.”
+
+“I'd normally say no women because it's heavy and grueling work; but, as long as they take their time and are careful...”
+
+Ereka smiled. “I know a few women who would be insulted at your insinuation.”
+
+“So do I.” Ren said and grinned. “Why else do you think I added the qualifier?”
+
+“We've got a couple of good healers now, too.” Ereka said.
+
+“I just came from there.” Ren said. “They're really happy that you've given them everything they needed so quickly.”
+
+“Actual money still talks in this city.” She said and laughed. “The messenger said the Woodworkers Guild nearly jumped for joy when I placed the order for all of the furniture for the houses, and the beds for the medical building.”
+
+Ren laughed. “I'm glad.” He said, then took out several hundred platinum. “That reminds me, you better take this.”
+
+“Ren!” Ereka exclaimed. “What am I going to do with all of this?”
+
+“Pay everyone. Hire more people to help. Have fun.” Ren said. “In fact, now that Narhilda and Nathalia aren't in residence anymore, you're actually running everything all by yourself.”
+
+Ereka froze still and stared at Ren.
+
+“You didn't realize that, did you?” Ren asked, and smiled. “You pay wages, order everything, assign housing.” He looked at her. “You're even accepting oaths in Lady Neram's stead, aren't you?”
+
+Ereka nodded, and Ren smiled.
+
+“I'm sorry I had to point it out to you; but, you need to know how important you are to this House.” He held up his Sending Ring. “Nathalia?” He whispered.
+
+“Hi, Ren.” Nathalia said. “You don't have to whisper. We're back in the royal apartments waiting for lunch. Are you at the mines yet?”
+
+“No. I'm at the Main House making a few orders, and straightening out the situation Ereka is in.”
+
+“Oh?” Nathalia asked. “What situation is that?”
+
+“I told her that with you and Narhilda out of the house and at the castle, she is running things by herself right now.”
+
+“Tell her we're sorry for leaving it all to her, and that we know the House is in good hands.”
+
+“She heard you.” Ren said. “The reason I called is that the house on top of House Neram Keep is empty right now. I was wondering if letting Ereka stay there might be a good idea.”
+
+“That's a great idea!” Nathalia said. “I was getting worried about leaving it empty.”
+
+“Me, too.” Ren said. “The only thing the guards are guarding is the stable.”
+
+Nathalia laughed. “It's fine with me if she stays there. Hold on, I'll ask Narhilda.”
+
+Ren waited patiently, and Nathalia spoke again.
+
+“She likes the idea, too.”
+
+“Great.” Ren said. “Thanks, Nathalia. I love you.”
+
+“I love you, too.” Nathalia said. “See you tonight.”
+
+The ring stopped glowing and Ren looked at Ereka. She had a shocked look on her face, and Ren smiled.
+
+“Now do you realize how important you are?” Ren said, as a key materialized around Ereka's neck. She grasped it and took several deep breaths.
+
+“Ren.. you...” Ereka shook her head. “You're amazing.”
+
+Ren chuckled. “I can only hope that I can keep that image up.”
+
+“You don't have to hope too much.” Ereka said and she smiled as she let the key go. “Just keep being yourself. The amazing just happens.”
+
+Ren smiled. “I better go.” He said and stood up. “My first 'day' at the mines is nearly half over, and I haven't even signed the indentured servant contract with myself yet.”
+
+Ereka stood up and came around the desk. “That was a stroke of genius, what you did.”
+
+Ren nodded. “You've got to love wiping the smugness off of people's faces, especially when they think they have you by the ba... ah... dangling man parts.”
+
+Ereka snorted a laugh. “I believe the word you are looking for is 'balls'.”
+
+Ren laughed. “I didn't want to use such language in front of a woman, in case you took it the wrong way.”
+
+“Thanks for that. I grew up with Croggart and Groggot, though.” Ereka said. “I've heard that word a lot.” She chuckled. “Among other words that can't be used in polite conversation.”
+
+“I can imagine.” Ren chuckled himself. “I've used a few words like those myself.”
+
+Ereka smiled. “So have I.”
+
+“I really do need to go.” Ren said. “If I think of anything else that I need ordered, I'll let you know.”
+
+“I'll wait for your call.” She said, and took in a deep breath. “Good luck in the mines.”
+
+“Don't worry.” Ren said and took her hand. “Like I've told a couple of people. Hard labor is just labor for me.”
+
+Ereka sighed and smiled. “I'm glad.”
+
+“Me, too.” Ren said, and bent over her hand. “Bye, Ereka.”
+
+“Bye, Ren.”
+
+Ren left her office and nodded slightly at the receptionist as he passed, and once outside, ran for all he was worth. He made it back to the city a couple of minutes later, then the new mines a couple of minutes after that. He saw the shack he'd made had a large gate added, and a guard stood outside.
+
+“Hello, My Lord.” The guard said and opened the gate without asking Ren what he wanted.
+
+Ren wasn't sure he liked that. “Do you let any Lord in like this, or is it just me?”
+
+“Just you, My Lord.” The guard said. “The mine foreman has been expecting you all morning.”
+
+Ren nodded slightly. “I was held up taking care of a few things.” He said. “Is he in his office?”
+
+The guard nodded slightly. “It's up the road a little, across from the cafeteria.”
+
+“Thanks.” Ren said, and ran up the road to the small building the mine foreman used as an office. He knocked on the door, and went in when the mine foreman told him to enter.
+
+“There you are.” The mine foreman said. “I thought you were going to bail on your sentence.”
+
+Ren snorted a laugh. “I assumed it didn't start until I signed the indentured servant contract with myself.”
+
+“It doesn't, but most people don't realize that.” He said and grinned.
+
+Ren sat down across from him. “How's the mine coming along?”
+
+“We've nearly got the main tunnel finished.” He said. “The blacksmith shop is up and running, and the cafeteria staff are nearly overwhelmed with the amount of money they're making.”
+
+Ren grinned. “You went with my idea after all.”
+
+“Of course I did.” The mine foreman said. “This is your mine.”
+
+“How's it working out for you?”
+
+“You were flipping right, is how it's working out for me.” He said and laughed. “They're handling the buying of food, setting meals, prices, shift rotations, everything.” He shook his head. “I barely had the words out of my mouth, that they were running it themselves, when they kicked me out so they could get to work.”
+
+Ren laughed. “I told you.”
+
+The mine foreman grinned. “Well, this is your show. What are you going to do first?”
+
+“I'll set up a small space for myself in the blacksmith's shop, then I'll head into the mine under the direction of the crew doing the digging of the main tunnel.”
+
+The mine foreman's eyes widened. “Really?” He asked. “You're not just going to go in there and dig wherever you want?”
+
+Ren shook his head. “I'm not that stupid.” He said. “I'll listen to the crew with experience to get the place up and running first, then I'll head off on my own to start digging up ore.”The mine foreman nodded slightly. “I'm glad.” He said. “You've got a good head on your shoulders. Going into a mine without the proper knowledge can get you, or others, killed.”
+
+Ren nodded slightly himself. “Did you get a healer out here, yet?”
+
+The mine foreman nodded slightly again. “She's in the area right beside the mine entrance.”
+
+“I'll stop in to meet her before going into the mine.” Ren said.
+
+“She'll want to examine you first, that's for sure.”
+
+Ren took out the indentured servant form and placed it on the foreman's desk. He filled out the information, with the time of the sentence, and he filled in the details of the time he was required to work (8 hours), where he would sleep (anywhere he wanted), a day off a week, and the pay earned would fold back into the mine. He signed it as the owner, took a deep breath, then signed it as the indentured servant. Ren was covered in a slightly blue glow for a moment, and an iron band formed around his wrist. He examined it, and was surprised at the information.
+
+Bracelet of Enforcement
+
+This bracelet ensures you fulfill your indentured servitude contract. You will be compelled to work to complete the tasks set before you, by the holder of your contract.
+
+“Whoa.” Ren said, and stored the contract. “I better get to work, then.”
+
+He was immediately filled with the urgency to get to the blacksmith shop, turned around automatically and opened the door to the office.
+
+“This is really weird!” Ren said as his legs moved almost without his will, to carry him down the road to the blacksmith shop.

@@ -1,0 +1,183 @@
+---
+id: 45cde643-cc74-51fc-a82c-07d219c692fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55 Resonance"
+slug: 0059-chapter-55-resonance
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 59
+ownLength: 1818
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3371885/chapter-55-resonance"
+royalRoadId: "3371885"
+---
+
+The door creaked softly as Lucien stepped inside, the noise of the street fading behind him.
+
+The shop was smaller than the buildings surrounding the central market, its lower ceiling and narrow walls contrasting the open stalls outside.
+
+Shelves lined either side of the room, their contents arranged with an order absent from the heavier stock displays elsewhere.
+
+Light spilled through the front window in long, angled beams, the late afternoon sun casting a warm glow across the wooden floor. Dust drifted slowly through the air where the light touched, the golden hue softening the edges of the room.
+
+There were fewer goods here, but it was the way they were presented that caught his eye. Where other merchants prioritized storage and volume, this place displayed its goods openly.
+
+His eyes moved once across the shelves before settling toward the center of the shop.
+
+A voice reached him before anything else.
+
+“…and if you take the bundle instead, you’ll spend less overall. You were already looking at both, right?”
+
+Lucien’s gaze shifted toward the source, tracing it to a girl behind the counter.
+
+A man stood across from her, his posture uncertain as his eyes moved between the items laid out before him.
+
+“I was, but...” he hesitated, glancing at the individual prices again.
+
+“Mm,” she hummed softly, leaning slightly over the counter. “Separately, it’s more. Together, you save a little. Not a lot,” she added almost casually, “but enough to matter over time.”
+
+He frowned faintly, clearly considering it. “Feels like spending more coin to save coin.”
+
+“That’s because it is,” she replied without missing a beat. “But you were already looking at both.”
+
+His gaze drifted back toward the individual prices once more. The hesitation remained visible in the way his fingers tapped lightly against the edge of the counter.
+
+She placed a hand on her chin. “And if you come back next month for the same thing, you’ll end up paying the higher total anyway. Might as well save yourself the trouble now!”
+
+He exhaled through his nose. “...You already knew what I was going to buy, didn’t you?”
+
+The girl straightened, one hand on her hip as she winked. “Goes to show I was paying attention.”
+
+Lucien found himself watching her more closely.
+
+Even while speaking, her movements never fully stilled. One hand rested against the wood while the other gestured loosely toward the items between them. Her posture remained relaxed, the exchange unfolding with an ease that felt strangely familiar.
+
+Yet her eyes remained attentive, and a moment later she met his gaze and offered a small nod. A faint smile followed naturally, casual enough that it might have gone unnoticed by anyone else.
+
+The man brought his hand up to rub at his temple slowly. “…Fine. I’ll take the bundle.”
+
+The girl’s expression brightened immediately. “Good choice!” she said cheerfully. “I’ll wrap that up for you.”
+
+Her hands moved quickly, gathering the items with practiced ease. The paper folded neatly beneath her fingers before she tied it closed with a short length of twine and set it forward.
+
+“That’ll be two vire and ninety nine penne.”
+
+The man paused only briefly before reaching for his coin purse.
+
+Lucien’s gaze sharpened. The familiarity in how she said it was impossible to ignore.
+
+Coin exchanged hands, and the man took the bundle before stepping back from the counter. As he turned toward the door, his eyes passed briefly over Lucien before moving on without interest.
+
+The door opened and closed again behind him.
+
+Lucien watched as the girl stepped out from behind the counter instead of remaining behind it like the other merchants he had encountered.
+
+She crossed the short distance between them with an ease that felt entirely out of place within Helvarn.
+
+“What can I get for ya?” she greeted with a welcoming smile.
+
+Something in the cadence of her speech and the way she carried herself pressed faintly against his memory.
+
+Up close, she appeared around his age, perhaps slightly younger. Her hair was tied back in a loose ponytail, a few loose strands framing her face beneath the warm light filtering through the window.
+
+Her attire was practical, a fitted vest over a simple shirt paired with a skirt designed more for movement than appearance. A small pouch rested at her side within easy reach.
+
+She stood too comfortably within the space compared to most people in Helvarn. There was an ease to the way she moved and held his gaze, as though conversation required no effort from her at all.
+
+The silence lingered for a moment longer before she tilted her head. “Not from around here, right?” she guessed, her tone easy, as if continuing a conversation that had already begun. “You’ve got that look.”
+
+Lucien regarded her without answering. He was still thrown off by the stark differences between the girl before him and the merchants he had been speaking with, yet she did not seem bothered by his lack of response.
+
+Instead, her gaze swept over him once more, taking him in with practiced ease.
+
+“Let me guess,” she continued, tapping a finger lightly against her arm while thinking aloud. “You’re not one of the regular merchants...don’t seem to be a caravan lead either...”
+
+A brief pause followed as bright green eyes settled back on him. “...and you don’t carry yourself like someone who answers to another.”
+
+Her expression shifted as an idea lit up behind her eyes. “Oh!” she clapped her hands once in recognition. “You’re the lord from Ashridge, aren’t ya!?”
+
+Lucien’s gaze sharpened faintly. “That conclusion is rather specific,” he said.
+
+The girl smiled, clearly pleased with herself. “It’s not that hard! Helvarn’s not that big once you pay attention.”
+
+She gestured lightly toward the street beyond the window. “Most of the nobles in this region pass through here at some point, especially during winter. Most folks remember their faces.”
+
+Her shoulders lifted in a small shrug. “You’re the only one I hadn’t seen yet.” A faint grin tugged at her lips. “And the only one people keep mentioning.”
+
+Lucien raised a brow slightly in question as she met his gaze without hesitation.
+
+“You stayed in Ashridge during the Tithe,” she continued, curiosity slipping into her tone. “That tends to stick in people’s minds.”
+
+The silence that followed felt easier this time, as though she had already pulled the conversation into a more relaxed rhythm.
+
+She stepped forward before extending a hand toward him. “Talia. I run this place. Kinda, I guess!”
+
+Lucien’s eyes moved briefly to her hand before returning to her face. “Lucien,” he replied evenly. “Ashridge.” He extended his hand before fully thinking about it.
+
+Instead of the formal greeting he expected, Talia clasped his hand and shook it with surprising energy. The gesture caught him off guard. Most greetings in this world remained measured, especially toward nobles.
+
+“It’s nice to meet you! I’ve been rooting for you, ya know!” she exclaimed cheerfully as she finally released his hand.
+
+“Oh? Why is that?” he asked, the familiarity lingering beneath the exchange.
+
+“Well! What can I say, I like people that do things their own way.” she replied, gesturing toward him as if presenting something of note. “Most nobles come to places like Helvarn during the Tithe. You were the only one who stayed.”
+
+She tilted her head before adding, “Ah, that doesn’t mean the other nobles are wrong or anything. I mean, it kinda makes sense why, if you think about it.”
+
+Lucien folded his arms behind his back. “No noble house would consider accepting management of a frontier village if they had to risk themselves every year during winter,” he finished for her, his tone carefully neutral.
+
+He had suspected as much for some time, and the walls of Helvarn had only confirmed it.
+
+“Yep! I mean, it sucks, but Helvarn is considered the true frontier town in the eyes of Arcencia.” she nodded, her bright tone softening into something more contemplative.
+
+Lucien exhaled softly through his nose. “I had suspected as much.”
+
+“Still! You decided to stay. Someone who goes against the grain is kinda cool in my eyes!” she said, naturally pivoting the conversation back to a lighter note.
+
+His eyes lingered on her for a moment longer. “Against the grain,” he repeated lightly, as though examining the phrase. “That is not a common expression here.”
+
+Talia blinked once. It was subtle, gone almost as soon as it appeared, before a faint curve returned to her lips. “Is it not? Huh. Guess I just picked it up from some other region far from here!”
+
+Lucien did not look away. “Perhaps.”
+
+He allowed the pause to linger just long enough to be noticed. Then, almost casually, he added, “You speak in a rather...unusual manner for a merchant of Helvarn.”
+
+Talia’s brows lifted at that, though the smile on her face did not fade. “Unusual, huh?” she echoed, her tone more curious than offended. “That such a bad thing?”
+
+Lucien regarded her closely. “That depends on the outcome it produces. You negotiate differently from the other merchants I’ve spoken with.”
+
+Her eyes brightened faintly at that answer. “Then I’ll take that as a maybe! Better than a no.”
+
+She tilted slightly to one side, resting a hand on her hip as her attention settled fully on him. “Though if I’m unusual...” she added with an easy smile, “I wonder, what does that make you?”
+
+“After all, a noble staying during a Tithe seems pretty unusual too.”
+
+Lucien did not answer immediately. For a moment, he simply observed her, the ease in her posture, the way she filled silence without hesitating and the rhythm of her speech that did not align with the time and place they stood in.
+
+“Practical,” he said at last.
+
+Talia let out a small breath that might have been a laugh. “That’s one way to put it.” She leaned back slightly, folding her arms loosely. “You don’t sound like anyone around here either, ya know.”
+
+Neither of them looked away.
+
+She gestured loosely with one hand, adding almost offhandedly, “Way you talk, I mean.”
+
+Lucien’s gaze lingered on her. “I find it often that patterns tend to repeat. Even when the setting changes.”
+
+Her expression stilled, almost imperceptibly, her bright green eyes meeting his amber ones.
+
+“Situations like this tend to follow a similar structure,” he continued, his tone kept carefully neutral. “It rarely begins with anything complicated.”
+
+His eyes remained on hers. “It’s usually something small, overlooked at the start.”
+
+In that space between them, the silence carried a different weight now.
+
+“Someone misread the request. Everything after that just compounded,” he added dryly.
+
+Her eyes widened, just a fraction, small enough that Lucien might not have noticed if he had not been watching so closely.
+
+Neither of them spoke as they held each other’s gaze.
+
+Then, a tiny voice escaped from Talia’s lips.
+
+“…Senior?”

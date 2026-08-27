@@ -1,0 +1,309 @@
+---
+id: c04699fc-f482-59c8-8d88-81a317b065e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130 - Barracks?"
+slug: 0115-chapter-130-barracks
+partOf: mythrans-master-of-all-continued-completed
+position: 115
+ownLength: 3447
+unit: words
+publishedAt: 2016-12-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109973/chapter-130-barracks"
+royalRoadId: "109973"
+---
+
+Gloria jammed on the brakes and slid her mustang sideways into a parking space. It had taken her years to perfect the move, and she'd blown a tire once or twice; but, now she could park in a space that was just big enough for the car to fit. She laughed as she remembered the one time she had to wait for someone else to leave, because she didn't have enough room to pull the car back out. She grabbed her backpack, locked the doors, and ran to her class. She avoided several near collisions and slipped into the classroom and sat at the back of the room. She hoped that asshat professor didn't call on her again today. Gloria laughed mentally.
+
+Like I'd be that lucky! She thought, and of course, that made her think about the 10 hour long marathon session of Ren feeding her avatar Elerlyth's ability. That cocky little bastard! Gloria thought. My whole plan to suck his emotions dry in one go didn't work at all. She frowned. I'd taken some precautions in real life, with a towel and extra thick pad; but when I logged out, everything was completely soaked! Gloria sighed. It took me an hour to clean up the mess on my recliner. She looked around, and no one was paying her any attention. I guess I could just cover it in plastic. Gloria thought, then the professor came into the classroom. His eyes scanned the waiting students; they found her bright pink hair easily, and he smiled.
+
+Fuck. Gloria thought, and sighed mentally.
+
+********
+
+Ren woke up at Teepo's prompting for breakfast. He slid the covers down a little and looked at Nathalia's sleeping form.
+
+She's so beautiful. Ren thought and stroked the side of her face. Nathalia opened her eyes and put a hand on his and snuggled it.
+
+“Good morning, beautiful.” Ren said.
+
+“Good morning yourself, handsome.” Nathalia said and smiled.
+
+“Teepo says it's time for breakfast.”
+
+Nathalia's eyes widened. “I hope that he...”
+
+“...left the room before we started last night.” Ren finished for her. “Of course Teepo left us alone.” He said and gave her a kiss. “The only one that gets to see you like this, is me.”
+
+Nathalia smiled and sat up. “You seem to enjoy looking at me a lot.”
+
+“No wonder!” Ren grinned. “You keep telling me that I'm amazing, but have you looked in a mirror?”
+
+“All the time.” She said and chuckled. “Trying to see what you see.”
+
+Ren sat up and took her into a hug. “Just imagine you're looking at the most beautiful thing you've ever seen, and that the love they have for you, fills your heart.”
+
+“Oh, Ren.” Nathalia gave him a kiss, that started to go on to other things.
+
+*cough* “Breakfast.” *cough* Teepo said. “Narhilda is pacing back and forth in the kitchen. She might be coming to you soon.”
+
+Ren stopped what he was doing, and Nathalia sighed. “Teepo says Narhilda is getting restless.”
+
+“All right. All right!” She said and pushed the blanket off. “Let's go eat.”
+
+Ren chuckled and stood up, equipped his clothing, and held a hand out to her. He helped her stand, and she equipped her underwear, slip, and fancy green dress. He pulled Nathalia to him and put his free hand on the side of her neck, then ran a finger gently over her skin. She giggled, put her chin on his hand and lifted her shoulder, to trap the hand where it was.
+
+“Stop that!” Nathalia said and smiled. She lifted her chin and pushed his hand away with one of hers. Ren gave her a quick kiss, led her out of the bedroom, and into the main room.
+
+Narhilda had just made the decision to come and wake them up, and nearly ran into them.
+
+“There you are!” She said and smiled. “I thought you'd stay in bed forever.”
+
+“It wasn't for lack of trying.” Ren said, and Nathalia smacked his arm. “What?” He said and grinned. “I didn't want to get out of bed. Did you?”
+
+Nathalia blushed, and her mother laughed.
+
+“Don't make me get a bucket of water to separate you two!” Narhilda said and laughed. “I've got the last of the boar warming in the oven.” She looked at Ren with a sad look. “There's only a little bit of bacon left.”
+
+Ren turned to Nathalia, whispered in her ear, and nibbled her earlobe. She laughed and pushed him away.
+
+“I guess I'll settle for bacon, then.” Ren said and smiled. Narhilda smiled and shook her head, then went back into the kitchen. Ren and Nathalia followed her and they all ate a great meal. Afterwards, Narhilda asked what Ren wanted to do with the giant boar's remains.
+
+“I completely forgot about that!” Ren said and went to the pantry where it was kept, and looted it.
+
+Notice!
+
+You have looted a Legendary Creature! Unfortunately, it's desiccated state has reduced the amount of loot that could be found.
+
+Loot: Legendary Hooves of Speed, Potion of Giant Strength (x1), Potion of Major Healing (x1), 5 Platinum
+
+“Whoa.” Ren said, and Nathalia came over to him. What was left of the giant boar's body dissolved away and he left the pantry.
+
+“What is it?” She asked, and Ren showed her what he'd found. “Imagine what you could have gotten if we hadn't eaten it.”
+
+Ren had a look of surprise on his face for a moment, then he shook his head. “No, we got so much more out of the boar by sharing it like we did.” Ren said. “I won't beat myself up over not looting it right away.” He looked at Nathalia. “I needed to take the pelt for you, anyways.” He handed her 2 platinum coins.
+
+“What's this?” Nathalia asked.
+
+“Your part of the loot, obviously.”
+
+“Ren, you killed it!”
+
+“With help from my party members. If you hadn't shown up when you did...” Ren said. “You've earned it.”
+
+Nathalia smiled and nodded. “What are you going to do today?”
+
+“Build a barracks for the guards.” Ren said. “I think I'll put it behind the Main House.”
+
+“A barracks?” Her mother asked. “Why do we need a barracks?”
+
+“I can't let the guards work out of my old tent, My Lady.”
+
+“I thought they had houses now?” Narhilda asked, and Ren smacked himself in the head with his hand.
+
+“Dammit! I forgot to assign Wohrum the second house!”
+
+Nathalia laughed. “It's okay, Ren. I did that.”
+
+Ren turned to her and took her into a hug. “Thank you.” He said and kissed her. “I don't know what I'd do without you.”
+
+Nathalia chuckled. “Probably find another wife.”
+
+Ren let the hug go and put his hands on the sides of her face. “Don't joke about that.” He said, seriously. “I know I was reluctant at first...”
+
+“Reluctant? You had it annulled.” Nathalia said and smiled.
+
+“Yes, I was scared, and I didn't want to jump into anything with someone I just met.” Ren smiled. “When you asked me to marry you on the way to the convent, though... we'd gotten to know each other pretty well.” He said. “I still don't understand your culture properly, but I know a lot about it.” Ren gave her a gentle kiss on the lips. “I've avoided doing anything that another woman might take as a sign of interest from me.”
+
+Nathalia's eyes widened. “What are you saying?”
+
+“I won't ever look for, or find, another wife.” Ren said. “You're it.” He grinned. “You're the one.”
+
+She kissed him deeply. “I feel the same way about you.”
+
+“You're not going to stand here in my kitchen and paw at each other all day, are you?” Narhilda asked and laughed.
+
+Nathalia rolled her eyes. “No, Ma.”
+
+“I don't know...” Ren said and grinned. “...it's pretty tempting to hold you in my arms all day.”
+
+Nathalia laughed. “She'd chase us out of here with her big wooden spoon long before then.”
+
+“It's a ladle!” Narhilda said and shook the big ladle at them.
+
+Ren held his hands up in surrender. “I'm going, I'm going!” He turned and gave Nathalia a kiss.
+
+“Hey!” Narhilda yelled. “Get out of here, you scoundrel!”
+
+Ren laughed and took off running. He went up to the workshop and gathered up enough wood for what he wanted, and then down to the small stable in House Neram's courtyard. He fed Princess, asked Ruck to come with him, and then ran all the way to the Main House.
+
+*
+
+“You don't have to tease him so much.” Nathalia said as she walked over to the kitchen table.
+
+Her mother grinned. “He enjoys it, dear.” She said and started clearing up the dishes. Nathalia helped her clean up and they sat down at the table.
+
+“Did you decide what to do for the ceremony?” Nathalia asked.
+
+Narhilda nodded. “I'm going to go with Ren's ideas, with a few changes.”
+
+“Oh? What are you changing?”
+
+“That depends on if you can get some more spending money from him.” Narhilda said.
+
+“Ma...” Nathalia asked. “He's already got a stipend from Barnar's Stoneworks coming here every week.” She looked at her mother and squinted her eyes. “Please tell me you haven't spent it all.”
+
+Narhilda laughed. “Of course not, dear. I put it in the chest, along with the rest of the money he's given us.”
+
+Nathalia nodded. “Good. With all of the debts paid, anything we get from him should be used for the wedding ceremony.”
+
+“But there's so much!” Her mother said. “All that platinum just sitting there, begging to be spent.”
+
+Nathalia shook her head. “You know the dowry is supposed to be any money given to me or the House during the courtship.”
+
+“I know.” Narhilda said, then looked at her daughter and sighed. “I forgot to ask Ren for more money to cover the wages of everyone working.”
+
+“He gave me some last night.” Nathalia said and took out 20 platinum. “It should be enough for another few weeks.”
+
+“We definitely need a secretary.” Narhilda said as she took the money. “I'm having a hard time keeping track of it all.”
+
+“Of course you are, Ma.” Nathalia laughed. “He has almost 50 workers shoveling silt for him.”
+
+Narhilda smiled. “That's because they all like the sight of actual gold, and not a piece of parchment saying they paid on their debt.”
+
+*
+
+Ren couldn't build the roof yet, as the cement needed to dry until later that day, so he dug a 5 foot wide path from the courtyard of the Main House and around the back. He stopped about 30 feet away from the incomplete Main House.
+
+I better make the plans for the barracks, so I'll know how big to make the lot. Ren thought, and opened his plans for the Warehouse (2 storey w/ Addition). He changed the apartment in the warehouse to remove the bathroom and made the living room smaller, making the apartment a square instead of a rectangle. He copied the new apartment layout 6 times, and added them to the back of the first floor, with a hallway between them. He dropped the roof down to make the building only a single floor. When he was done, it was a 40 foot by 40 foot square, with a flat roof, 6 apartments in the back and a 10 foot x 40 foot open area at the front. Ren saved the plans as Barracks (6), and got to work. He dug the 40 foot by 40 foot lot with the hammerpick, then cleared it with a shovel. With Ruck's help, and with only having it a single floor, they were done in just under 6 hours.
+
+“Awesome!” Ren said and high-fived Ruck. “Want to give me a hand making the furniture?”
+
+Ruck gave the 'okay' gesture and they went inside to fill the 6 apartments with beds, couches, chairs, and tables. When they were done, Ren got a popup.
+
+Stat Change!
+
+Upholstery Level 2 (Beginner 0%)
+
+“Come on, Ruck.” Ren said. “Let's finish the Main House.” They went over to it, and Ren disassembled the wooden mold. A dark gray structure, 2 stories high, greeted him. Ren laid out the wood needed to make the trusses for the pitched roof, then he and Ruck nailed everything together and Ren stored them. Ren built the sets of stairs needed to reach the second floor, because he'd removed all the ladders he'd made when he took apart the mold. They went upstairs and put the trusses in place, and nailed planks that were dyed red across them to complete the roof. Ren checked the dimensions of all the windows and wrote it down, along with how many he needed.
+
+Ren went outside and did the same for the barracks, counting and measuring the windows, to make sure that they were a standard size. Once that was done, he asked Ruck if he wanted to go to the city with him to order the windows, and Ruck shook his body back and forth. Ren took him back to the stable and he climbed into his cabinet.
+
+“Thanks a lot for your help today, Ruck.” Ren said, and Ruck gave him a 'thumbs up' gesture and closed the door. Ren went inside and told Nathalia that he needed to order more windows and was stopping at the Library while he was there. She kissed him goodbye, and he ran to the city. The business with the windows was only a Minor House, so Ren didn't have to deal with all the formality. He ordered all the windows he would need for the two buildings and was tempted to order more. He decided against it, since he wasn't sure what he'd be building next, and paid in gold coins. There wasn't any issue at all with that, and no one questioned him about it.
+
+He ran over to the Library and helped gather all of the 'H' and 'I' books, and then Teepo told him that he had to go. Ren bid the Librarian a good day, and ran to the textile House. He bought a bolt of see-through fabric, a bolt of lace, a bolt of frills, and then ordered another hundred bolts of tight weave cloth. The hundred tight weave bolts would be delivered in a week, so he paid in coins again and then ran back home and went inside.
+
+Ren sat down and enjoyed another meal with his fiance and her mother, told them he had Adventurer's business to take care of, and would be back after a while. He went to the old bedroom and lay down on the bed.
+
+“See you in a little while, Teepo.”
+
+“Bye, Ren.”
+
+“Logout.”
+
+********
+
+Stella helped Ren take off the VR headset and smiled at him. “Hey, little stud.”
+
+“Hi, Stella!” Ren said.
+
+“You're looking particularly happy today.” Stella said and grinned.
+
+Ren laughed. “I guess Barbara told you about seeing a blue screen for most of the night.”
+
+Stella snorted a laugh. “She was pretty bored, so yeah... she told me all about it.”
+
+“It's not like I can disable the privacy settings.” Ren said. “It's built into the game to stop people from filming it.”
+
+Stella nodded. “I know. I looked into it.”
+
+Ren raised an eyebrow at her and she laughed.
+
+“I wanted to see how it was handled.” She said.
+
+“What? You mean sex?” Ren asked.
+
+Stella nodded. “I'm curious about it.” She said. “Moving from physical stimulation to mental stimulation makes me wonder if anything is lost in the translation.”
+
+“I'd let you use my VR headset, but it's been pattern-coded for me.” Ren said, then had an idea. “Do you want me to get you a set?” He offered. “You could log in then, and try it yourself.”
+
+Stella looked at him. “You know, that's a pretty good idea.” She said and smiled. “As long as you're offering to be my little guinea pig.”
+
+Ren chuckled. “You helped me out a lot before.” He said. “It's been a godsend, Stella.”
+
+She grinned. “Almost 12 hours worth of blue screen told me that, Ren.”
+
+Ren snorted a laugh. “That reminds me. I better use the bathroom.” He dug into his cubbyhole and took out another foil package. “I'm trying to catch up on sleep in the game, but Nathalia just can't keep her hands off of me.”
+
+“Uh huh.” Stella said, as Ren went into the bathroom. “It's all her. Riiiight.”
+
+Ren laughed as he used the bathroom, cleaned up, and came back out. “Can you take care of these for me?” Ren said and handed her several toilet paper wrapped packages. “Depending on how things go, I might have another one for you by suppertime.”
+
+Stella shook her head. “You know you can go in them several times before you have to change them.”
+
+“I know.” Ren said. “I even leave lots of extra room for that.”
+
+“That's good. I thought you might be wasting them.”
+
+Ren put a hand on her arm. “I wouldn't do that after all the trouble you went through to get them for me.”
+
+Stella nodded. “Get back in bed, and I'll bring you lunch, okay?” Stella said.
+
+“You betcha.” Ren said and climbed into bed. “I'm actually kinda hungry.”
+
+Stella went to get his meal, and Ren used the laptop to send a message to the company and asked for another helmet, so a nurse could examine him while inside the game. Knowing they would want something in exchange, Ren thought about an incentive that they would like. He smiled as he offered to send them footage of him in real life, to compare to what he was like in the game. He mentioned that it could help them open the medical demographic, and he would offer proof that it worked. Ren sent it off and pushed the laptop aside as Stella came in with his meal. He ate it all, she moved the tray out of the way, and helped Ren put on the VR headset.
+
+“Thanks, Stella.”
+
+“Anytime, little stud.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the bed, and Nathalia stood beside it, wearing just her slip. Ren grinned and stored his clothes.
+
+“I really need to get some sleep, My Love.” He said, jokingly.
+
+Nathalia heard the lie and chuckled. She climbed on top of him and lay down so her face was right in front of his.
+
+“We can sleep later.” She said and kissed him. He reached a hand for her neck and she caught it. “No you don't, mister.” Nathalia said and he let her push his hand back to the bed, and she held it there. “No tickling this time.”
+
+“No?” Ren said and ran his free hand up her thigh. “You might regret that decision later.”
+
+Nathalia smiled. “No tickling my neck, then.”
+
+“As you command, My Lady.” Ren said and kissed her.
+
+********
+
+Gloria drove at a moderate speed down the road, and pulled into the garage to do another shift at work. She parked sedately and locked the doors before going inside.
+
+“Hey, Gloria.”
+
+“Hi, Frank.” Gloria said and went in the back to change into clean coveralls. She came back out dressed for work and went into the office. “Whatcha got for me today?”
+
+“The best thing in the world!” Frank grinned. “The transmission blew in a Ford Focus.”
+
+Gloria started to laugh and Frank joined her. They laughed for a minute or two and then Gloria spoke.
+
+“All right, I'll do it.” She said. “Did you pull the replacement out of stock?”
+
+“It's already prepped and sitting beside the car.”
+
+“Why didn't you put it in, then?” Gloria asked. “You could have saved me the trouble.”
+
+“Because I know how much you love transmissions.”
+
+Gloria rolled her eyes at him and he chuckled.
+
+“Scott will be in after 2 if you need a hand.”
+
+“Naw, I got it.” She said and went into the garage, then saw the car. “Hey, Frank!”
+
+“Yeah?”
+
+“You didn't tell me it was purple!” Gloria said, and laughed again.
+
+“I wanted it to be a surprise.”
+
+“God, the stupidity of some people.” She said, and that made her think of Ren, and how he'd acted while feeding her. Dammit, why can't I stop thinking about him? She thought and pulled over a rolling dolly. Gloria laid down on it and slid herself underneath the car that was the garage's bread and butter. Frank would have been out of business years ago, if car companies stopped making lemons. Gloria thought as she started to unbolt the transmission.

@@ -1,0 +1,227 @@
+---
+id: 4bb18ce8-46fd-5dc6-94a3-2f6a116faf2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52 - Healing x2"
+slug: 0036-chapter-52-healing-x2
+partOf: mythrans-master-of-all-continued-completed
+position: 36
+ownLength: 3059
+unit: words
+publishedAt: 2016-10-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97933/chapter-52-healing-x2"
+royalRoadId: "97933"
+---
+
+Camilla got to work and her hands glowed. Camilla didn't touch Lucy's arm, but the glow reached it and the wounds visibly reduced. After about 10 minutes, Lucy's arm had no more scars and Camilla sat back. “Whew.”
+
+Lucy stared down at her arm and was amazed when she shook it and it didn't hurt. “Is that how it always goes? Healing, I mean?”
+
+“It depends on the level of the healer. The higher the level, the quicker the healing.” Camilla said. “I'm going to have to rest for a bit before tackling your shoulder.”
+
+Lucy nodded and Camilla got up and went into the kitchen. Abigail and Ana followed her and passed Aimus in the hallway, who stepped forward and shut the door to the spare room. Ren walked over to the chair and sat down. Teepo hopped off Ren's shoulder to the floor and crawled under the door.
+
+“It really is nice to see you, Lucy.” Ren said and took her hand. “When you left... I didn't know if I'd ever see you again.” Ren chuckled. “I couldn't have run after you if I'd tried.”
+
+Lucy nodded. “I know... I'm sorry, but I already stepped across the line when we...”
+
+“Kissed by accident?” Ren suggested.
+
+“Yes! That's it exactly. I didn't intend for that to happen... I mean, I did want to give you a kiss on the cheek... but when you turned your head that little bit, a quick kiss became... something else. I didn't know what to do, except to get out of there as fast as I could.”
+
+Ren didn't say anything, locked eyes with Lucy, and waited. Lucy stared back for a moment before she continued.
+
+“Um... yes. I went to the break room and got Stella to fill in for me. I talked to the head nurse, then Doctor Hobbard. He requested I file transfer papers with the HR Department.” Lucy said and dropped her gaze. “I didn't even argue.” Lucy looked back at Ren. “Like I said... nothing could ever happen between us as long as I worked there as your nurse, after your birthday or not.” Lucy took a deep breath and sighed. “I don't even know where I'll end up.”
+
+“You couldn't just request another floor or department or something?” Ren asked.
+
+“Not on such short notice. The least they would let me do is limit how far away I could be sent.”
+
+“Lucy... I'm sorry.” Ren said. “I didn't realize... well, I didn't think about it, either. If I'd considered the consequences of telling you how I felt...” Ren shook his head. “I'm really sorry that I've uprooted your life like this. I should have just kept my big mouth shut.”
+
+“Yes, you should have.” Lucy said and pulled her hand from Ren's grasp. Ren widened his eyes in surprise when Lucy reached out and gently stroked his face. “But this situation was going to come up anyway. You just... hastened it's appearance.” Lucy's hand moved from Ren's face and into his hair. “What in the world made you say it?”
+
+Ren closed his eyes and savored the feel of Lucy's hand running through his hair. It felt so different from when other people messed with his hair. Ren couldn't decide if he wanted Lucy to stop. Ever. Ren smiled at that thought.
+
+“I've always liked you, Lucy. It's just like you told me... you're pretty much the only person I know that treats me like I'm normal, despite how I look. We do normal things together. We eat. We talk. We enjoy each other's company.” Ren said and took Lucy's hand again. “When I almost died in the game again... I realized how important that part of my life was... and how important you were to me.” Ren lifted Lucy's hand to his lips and very lightly kissed it. “You and I have been through a lot together. You've held me tight every morning after I went through some of the worst nightmares I ever had.” Ren said and put his head down on her hand.
+
+“I've had to relive horrible things while being treated, and you held my hand the whole time. Your strength carried me through it all.” Ren lifted his head and stared at Lucy, who had tears in her eyes. “I don't want to lose that feeling, Lucy.”
+
+“Don't worry, Ren.” Lucy said and blinked the tears away. “I won't be leaving you alone.” Lucy smiled. “I've stood by you all this time, there's no reason I have to stop now.” Lucy said and then laughed. “You're going to be so sick of me.”
+
+Ren chuckled. “Oh, I doubt that.”
+
+“The healer is coming back.” Teepo said as he crawled under the door.
+
+Lucy saw Ren turn his head to the door as if listening for something and then Ren let Lucy's hand go. “The healer's coming.” Ren stood and walked over to the wall.
+
+Camilla knocked once, opened the door, and was a little surprised that she didn't walk in on anything. Camilla shrugged slightly and moved the chair to the other side of the bed, away from the door. Camilla sat down and her hands glowed again as she applied healing to Lucy's shoulder. When Camilla sat back and sighed, Ren stepped forward and handed her a couple of weak mana potions. Camilla looked shocked that Ren would just hand over something like that.
+
+They're like 30 copper each! Camilla thought as she drank them and Ren took the empty bottles back.
+
+“Sorry. I forgot I had them on me the first time.” Ren said and shrugged. “Can you do Lucy's ankle?”
+
+Camilla nodded. The two potions nearly filled her mana bar. Camilla applied some minor healing to Lucy's ankle and sat back.
+
+Ren looked at Lucy. “Switch places?”
+
+Lucy nodded and climbed out of bed, good as new. Ren stepped forward and put his last two potions on the small table by the bed.
+
+“Those are the last ones I have.” Ren said and took off his cloak and shirt.
+
+“REN!” Lucy gasped. “Why didn't you say anything?”
+
+“What? Oh, I wanted you to get healed first.” Ren said and laid on the bed face down.
+
+A hiss could be heard from the hallway, where Abigail stood and covered Ana's eyes. “You don't need to see this, honey.” Abigail turned Ana away, pushed Ana into her room, and closed the door.
+
+Ren had a giant wolf's paw print on each of his shoulder blades, made of large purple and black bruises, with indents in the skin where the claws had tried to pierce his clothing.
+
+I'm really glad I made new clothing with that spider silk cloth. It's too bad it doesn't protect against being crushed, though. Ren thought. It's a good thing Aimus showed up to help you distract the dire wolf, Teepo. Ren didn't remember seeing Aimus in the hallway. Teepo, where's Aimus?
+
+“He said he was cleaning up the road where the dire wolf was.” Teepo said and crawled up the wall to look out the window. “Looks like he needed the horse and cart.”
+
+For a wolf the size of a pony? I'm sure he does. Ren thought and chuckled.
+
+Camilla shook her head. “How can you laugh? I can't believe you stood here all this time while you were this hurt.”
+
+Ren shrugged and the bruises shifted sickeningly. Abigail turned away, but Lucy and Camilla had distant looks on their faces.
+
+“Some bones must have been broken as well.” Camilla said and activated her major healing ability. It would drain her mana quickly, but it was better to do more in one sitting than to draw it out. Just as Camilla's mana was going to go dry, she leveled up and it refilled automatically. “Yes!” Camilla said and swiped the popup away. She could allocate her points later. It took another half of her mana bar before the bruises were gone, but Ren's body kept taking her mana. “Ren, is your health bar full?” Camilla asked Ren.
+
+“Hm? Yes, it is. You can stop if you want.” Ren said and Camilla looked at him with a question on her face. Ren chuckled. “I could take a bit more, but it's not necessary.”
+
+Camilla deactivated her ability and lowered her hands. Ren rolled over onto his back. Lucy and Camilla stared at Ren's abs as he sat up. Ren picked up his shirt and cloak to put them on... completely forgetting that he could just equip them. Ren was oblivious to the two women staring at his flexing muscles and stood up to finish getting dressed. Once Ren flipped the cloak out to set it straight, Lucy and Camilla had stopped staring.
+
+Ren pulled out 5 more gold coins and handed them to Camilla. “Thank you very much.”
+
+Again? He's giving me 5 more gold coins? Who is this guy? Camilla thought and stared at the gold in her hand.
+
+“Ren.” Lucy said. “Can I talk to you for a minute?”
+
+“Sure.” Ren said and stepped over to where Lucy stood.
+
+Lucy leaned in close to Ren's ear and put a hand on his shoulder for balance. “That was way more money than what the work was worth.” Lucy whispered.
+
+Ren smiled and turned his head to put his mouth next to Lucy's ear. “I know... but I told her last time about how much I appreciate a woman that takes good care of me.” Ren whispered and his lip brushed Lucy's earlobe.
+
+Lucy took a deep breath and stepped back. Lucy's face had a slight red tint to it.
+
+Ren turned back to Camilla. “I appreciate you coming so quickly.” Ren said and motioned to the 2 weak mana potions. “You can drink those now or keep them.” Ren said. “I'm going to have to buy some more bottles, though.”
+
+“You need bottles?” Camilla opened her inventory and took out a bunch of empty bottles. “I didn't know what to do with them.” Camilla said and put a dozen bottles on the bed. “It seemed a shame to just toss them when I drank the mana potions, you know?”
+
+Ren nodded and took the bottles. “Thanks. These will come in handy.”
+
+Ren looked over at Abigail. “Abigail, is there any chance we could have a late breakfast?”
+
+Abigail smiled and waved to the kitchen. Ren turned and reached for Lucy's hand.
+
+“Milady, would you care to join me for breakfast?” Ren said and bowed slightly. Lucy laughed, shook her head, and reached out to take Ren's hand. Ren and Lucy walked down the hallway hand in hand.
+
+Camilla stood. Well, that figures. Camilla thought and followed the couple into the kitchen.
+
+They were served a breakfast of porridge and toast. Aimus came in and had some breakfast himself. Everyone enjoyed a light conversation, except for Aimus who kept quiet during the meal.
+
+When Aimus was finished, he stood up. “I'll take you home now, Camilla.”
+
+Camilla nodded and thanked Abigail for the food, nodded to Ren and Lucy, and left the kitchen.
+
+“Ren, could I speak to you for a moment?” Aimus said. Ren stood and followed Aimus out into the yard and then into the barn.
+
+“You remember what I told you before? About not leaving my property, no matter the reason?” Aimus asked Ren.
+
+“But Aimus-” Ren started.
+
+“No.” Aimus held a hand up to cut off Ren's protest. “You didn't know it was her when you went to help, did you?”
+
+Ren shook his head.
+
+“Then you know what that means.” Aimus said.
+
+Ren nodded.
+
+“I asked you not to bring anything here to my family, Ren.”
+
+Ren sighed. “I could argue about that, but it is my fault, isn't it?”
+
+Aimus nodded.
+
+“I really am sorry, Aimus.” Ren said.
+
+“I'll be back in about half an hour. Be ready to go.”
+
+Ren nodded and watched Aimus as he climbed into the cart and left with Camilla. Ren waved and went into the house.
+
+“Lucy, we'll be heading back to Aurora when Aimus comes back.” Ren said when he entered the kitchen. Lucy nodded.
+
+Teepo! We're leaving! Ren thought and Teepo skittered across the ceiling and dropped down onto Ren's shoulder as if he'd never left it.
+
+Abigail stood up. “Are you sure? Both you and your friend are welcome to stay. For a few days, at least.”
+
+Ren shook his head. “No, we really need to get back to the city. I have a few things I need to take care of.”
+
+Abigail frowned for a moment and then sat back down. “It was really nice meeting you, Lucy.” Abigail said and turned to Ren. “Ren, you've been a godsend. I was out in the new shed yesterday. There was so many pelts!”
+
+“I hope they'll last you a long time.” Ren said and smiled. “The boots should fetch a nice price, too.”
+
+Lucy's eyes widened. “Boots?”
+
+Ren nodded. “Come on, I'll show you. I need to drop off the other ones I still have anyways.”
+
+Lucy stood and followed Ren behind the house to a shed. Ren went inside and dropped off a saw, hammer, and some nails. Ren closed that door and went to the shed next to that one and Lucy saw a pile of pelts from floor to ceiling.
+
+“What in the...?” Lucy said.
+
+Ren walked to the shelves on the other side of the shed.
+
+“...oh, my!” Lucy exclaimed. “Ren, did you make all of these?”
+
+Ren nodded and put another 42 pairs of plain boots on the remaining shelves... then stopped. Ren left the shed and went back to the first shed and got the saw, hammer and nails again.
+
+“What are you doing?” Lucy asked.
+
+Ren smiled. “Just an idea.”
+
+Ren took out the torn up post, cut off the end that was in the dirt and tossed it aside. There was about 5 feet left, so Ren cut 2 feet off the end at a 45 degree angle, took that piece and turned it, then nailed it back to the end. Ren had made an 'L' shape from the 2 pieces.
+
+“Be right back.” Ren took off to the barn and grabbed a plank. Ren cut it in half, then cut one half in half again and got a popup.
+
+Sub Skill Increase!
+
+Saw Level 1 (Intermediate 0%) (Active)
+
+A minute later Ren went back to Lucy outside the shed with 2 pieces of wood 2 feet long. Ren nailed the two pieces together in an 'x' pattern on the top of the 'L' shaped post, making a stand. Ren flipped it over and put it down. Ren went into the new shed and came back with a plain pair of boots. Ren shoved one boot on the end of the upside down 'L' and it just fit over the post. Ren smiled.
+
+Ren took out his portable crafting station and grabbed the flat tool and a mallet. Ren worked on the leather boot, even though it was already assembled. Ren used several tools to make a pattern of a stormy sky around the top of the boot, with a single lightning bolt down each side. Ren slid the boot off the stand and did the same pattern on the other boot, but left that boot on the stand.
+
+“What is it?” Lucy asked.
+
+“A present for a friend.” Ren said and put the stand with the boot on it, in the first shed. Ren put the other finished boot on Aimus' workbench. “Aimus won't have to try and make the pattern match on each piece of leather individually anymore. The boot can be put together first and then have the pattern added.” Ren said and put back all the tools he had stored during his time at the homestead. Ren shut the shed's door and heard the horse and cart come down the road.
+
+“It's time.” Ren said and went to the house.
+
+Abigail and Ana stood in the doorway and Ren walked over to them. Abigail hugged Ren. “Come back to visit anytime.” Abigail said and Ren let a sad smile cross his face.
+
+Ren wouldn't be allowed to come back now because he had put Aimus' family in danger. Ren turned to Ana and bowed his head. Ana ruffled his hair and giggled.
+
+Ren chuckled. “Thanks for letting me stay here. I learned a lot! Thanks to your advice, Abigail.” Ren said to Abigail, who nodded and hugged her daughter with one arm. “I'm glad it worked.” Abigail said as Aimus drove the horse and cart around in a circle to end up in front of the house.
+
+Aimus hopped off and came over to Ren. “Give me the portable crafting station, Ren.”
+
+Ren handed it over without a word and Aimus went back to the cart. Ren turned away from Aimus and sighed. It hurt a lot more than Ren thought it would to have that taken away from him so soon after getting it.
+
+“Are you ready to go, Lucy?” Ren asked.
+
+Lucy nodded and thanked Abigail for her hospitality. Abigail nodded as well and Ana waved. Ren and Lucy went over to the cart and Aimus was already in the driver's seat. Aimus motioned with his thumb to the back of the cart and Ren nodded. Ren helped Lucy climb up into the back of the cart and got in himself. Ren shifted a couple of small sacks of feed that was for the horse, so both he and Lucy would be comfortable on the long ride. Ren wondered if there was going to be the same number of stops along the way as there was the first time Ren had done this trip with Aimus.
+
+I guess we're going to find out. Ren thought and motioned for Lucy to sit down.
+
+“Find out what?” Teepo asked as he hopped up onto the front bench.
+
+If there will be many stops along the way. Ren sat down on the rearranged feed bags next to Lucy.
+
+“Probably more.” Teepo said. “The horse looks pretty tired.”
+
+It has been run a lot today. Ren thought. I'm all out of potions, too.
+
+Aimus flicked the reins and the horse trotted out onto the road. The journey back to Aurora began as Ren left the Blackmeadow Homestead for the last time.

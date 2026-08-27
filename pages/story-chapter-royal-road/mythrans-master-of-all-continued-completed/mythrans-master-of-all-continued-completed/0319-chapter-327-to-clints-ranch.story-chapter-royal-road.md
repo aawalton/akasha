@@ -1,0 +1,387 @@
+---
+id: 556ff6cc-6c0c-52f3-b55f-cedc49993c08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 327 - To Clint's Ranch"
+slug: 0319-chapter-327-to-clints-ranch
+partOf: mythrans-master-of-all-continued-completed
+position: 319
+ownLength: 4074
+unit: words
+publishedAt: 2017-08-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154464/chapter-327-to-clints-ranch"
+royalRoadId: "154464"
+---
+
+Ren ran back to his shop and saw Clint's mount Izabeal tied up outside, and went inside to meet Clint.
+
+“Thare ya are.” Clint said. “Ah friend o' mine is needin' anothar bow.” He said. “Ah'm lookin at whatcha got fer sale, an' they're jus' regular bows.”
+
+Ren nodded. “I can put a normal enchantment on it, but it won't be great. Wood just can't hold enchantments like metal can.”
+
+“Wha' abou' anothar one like Tommy's?” Clint asked. “'Cept fer the heavy part. Ah doubt Billy could handle tha' big of ah bow.”
+
+Ren chuckled. “Tommy's putting it to good use, I take it?”
+
+“Is he evah!” Clint said. “Ah'm tempted ta have ya enchant mah own weapons ageen.”
+
+“No can do.” Ren said. “Each part was enchanted before I put your bow bracers together. If I tried to add another enchantment, it would replace them all because it counts as a single item now.”
+
+“Dammit.” Clint said. “Wha' abou' making anothar set of 'em?”
+
+“Are they dragging you down already?” Ren asked. “I thought they'd last a lot longer than this.”
+
+Clint chuckled. “Naw, they're workin' great.” He said. “Ah'm just bein' greedy.”
+
+Ren nodded “Let me know when they aren't measuring up, and I'll put the time aside and I'll try to do up a better set for you.”
+
+Clint pat Ren on the shoulder. “Ah'll try an' keep mah mouth shut 'til then.”
+
+Ren laughed and grabbed one of the normal-sized bows from the wall. “This should only take a few minutes.”
+
+“Ah'll wait righ' here, then.” Clint said.
+
+Ren went to the forge section of the shop and tossed a couple high quality iron ingots into the smelter after starting up the forge. The iron ingots melted pretty fast, and Ren stirred it up very quickly and then tossed in a single chunk of gold ore. After a couple of minutes of constant stirring, he skimmed off the impurities from the ore, made sure no one could see him, then used his bare hand to scoop up some of the molten metal. He covered the middle part of the bow where the handle was, squeezed it slightly to make the grooves for fingers in it, then absorbed the heat before it burned the wood.
+
+Ren spread a little bit of molten metal along the inside of the bow to the tips and absorbed the heat along the way, then did the same to the front of the bow. He added just enough metal to reinforce the structural integrity, without compromising the flexibility of the wood. He popped off the standard string, which was going to be useless for the retooled bow, and covered the ends with metal as well. He had to use a tool to add the proper slits for holding the string, and absorbed the heat from it. After that, he took out some Spider Silk String and tied up a new string for the bow, and attached it by compressing the bow and slipping the knotted string onto both ends of it.
+
+“Clint, what kind of enchantment does Billy want?” Ren asked his friend.
+
+“Ah don' have any idea.” Clint said from the shop. “Maybe jus' extra damage an' Lightnin' fer now.”
+
+“Sounds good.” Ren said and took out a handful of the small 1 gold coin diamonds. “If he doesn't like it, I can make another one when we get to your ranch.”
+
+“Ya don' haveta do tha', Ren.” Clint said. “Ya'll are doin' me a huge favor ahlready by comin' out in tha firs' place!”
+
+Ren stored the bow and used more molten metal to make a set of bracers, then used his Craft Wondrous Item platform to make them into Bracers of Archery. He took the bow back out of inventory and used his Retain Essence skill to store the enchantment on the bracers and transferred it to the bow, then redid the bracers and stored both items.
+
+Ren enchanted one of the small diamonds with a glyph of 5 runes of Damage, making it +50 damage for a single diamond. Having mastered my Enchanting skill is so cool. He thought, then did another and set them aside. He chuckled when he remembered trying to add more runes than that to a small diamond while in the Water Realm, and how spectacularly it had exploded when the enchantment overloaded it.
+
+I'm so glad I was completely surrounded by water at the time. Ren thought and enchanted a diamond with Lightning and gave it a glyph of 5 runes, which was a total of 20 Lightning damage. He did this three times more and set them aside, then took the bow out again. He dipped the 2 Damage diamonds into the smelter and attached them to the top of the metal handhold on the inside of the bow, then did the same with the four Lightning damage diamonds and put them at the bottom of the handhold.
+
+Ren stored the unused diamonds and a couple of the iron ingots so he could make another bow later if it was needed, then examined the now completed bow.
+
+Archer's Medium Bow of Lightning (Billy)
+
+This bow grants the user (Billy) the Archery skill. If the skill is already present, it instead grants +5 levels to that skill and +110 normal Damage and +80 Lightning Damage to attacks while using this bow.
+
+This bow cannot be sold or traded, as it can only be used by (Billy).
+
+Ren smiled and stored the bow, then picked up 4 high quality iron ingots, and activated his Craft Wondrous Item ability again and chose the Horseshoes of Speed. He added the iron ingots to the golden platform, and a few moments later, the Horseshoes of Speed appeared. He stored them and filled a crucible with the last of the molten metal and stored that, too.
+
+“I'm finished.” Ren said when he went over to the shop side of the business, and grabbed another normal-sized bow and stored it.
+
+“Ah'm ready ta go if'n you are.” Clint said.
+
+“I just have to get Princess from upstairs.” Ren said. “I'll meet you out front.”
+
+Clint nodded and started to walk towards the front door, then froze. He got his mount ta go up tha stairs? He thought in shock. Inna buildin'?
+
+Ren waved to Anabelle and went up the stairs to get Princess, and took her out the back door and around to the front.
+
+“Before we go, I think your mount needs a speed upgrade.” Ren said.
+
+“Izabeal is plenty fas'.” Clint said. “Ah don' think...”
+
+Ren took out the horseshoes and held them up. “It grants a 50% land speed bonus.”
+
+“Fifty percent!” Clint exclaimed, and slid off the saddle. “Izabeal, do ya wanna try 'em?”
+
+Izabeal nodded vigorously, and Clint laughed.
+
+“Ahlright, she says she wants 'em.” Clint said. “Do ya gots tha nails fer...”
+
+“No nails.” Ren said. “I'm not going to hurt a mount like that, just for a bonus.”
+
+“Then how...”
+
+“Trust me.” Ren said. “Izabeal? Can you lift your left back hoof for me?”
+
+Izabeal nodded and lifted it, and Ren took out the crucible of molten metal.
+
+“WHA' ARE YA DOIN'?!?” Clint yelled and grabbed Ren's hand. “AH THOUGH' YA SAID-”
+
+Ren concentrated on his Command Aura and his Aura jumped out to 425 feet. “QUIET!”
+
+Clint shut his mouth with a clack and his eyes widened. He ain't nevah talked ta me like tha' before.
+
+“Let my hand go.” Ren commanded.
+
+Clint let his hand go and Ren relaxed.
+
+“You almost spilled molten metal on Izabeal.” Ren said, and Clint's mouth fell open in shock. “You would have caused more harm to her than I ever could.”
+
+“Ah'm sorry.” Clint said. “Ah jus'... ah jus' reacted.”
+
+“Well, don't do that.” Ren said and stopped concentrating on his Command Aura. “I can absorb the heat before it burns her.”
+
+“Ah didn' know tha'.” Clint said.
+
+“Izabeal trusted me.” Ren said and Clint looked down at the still lifted hoof. Izabeal hadn't pulled it away when the molten metal had appeared in Ren's hand.
+
+“Well ah'll be.” Clint said, took off his cowboy hat, and stood there looking bashful. Ren dipped his finger into the crucible and rubbed a good amount of molten metal along the underside of the horseshoe and placed it on the hoof and absorbed the heat. It formed a secure bond quickly, and Ren asked Izabeal for the other back hoof. He repeated this process for the two front hooves, and then the horseshoes glowed for a moment.
+
+“There.” Ren said. “Izabeal? How do you feel?”
+
+Izabeal huffed at him and flapped her lips like she was talking.
+
+“You'll have to start off slow, okay?” Ren said to her, and rubbed her nose a couple of times. “Get a feel for your new speed before trying to go all out. I don't want you to fall while trying to take a corner too fast.”
+
+Izabeal neyed at Ren, and he laughed.
+
+“Yes, you'll adjust fast and then I won't have to worry.” Ren said.
+
+“Howarya talkin' ta her?” Clint asked. “Ah ain' nevah seen...”
+
+“I'm just guessing at what she'd say.” Ren said and chuckled. “Just the look on her face was enough to tell me what she thought about being careful.”
+
+Clint laughed. “Ah gitcha.” He said and climbed up into the saddle. “We gotta git goin' if'n ya plan on being back by tonigh'.”
+
+Ren asked Princess if he could ride her, and she nodded. He climbed up onto her back and sat in the saddle. “Easy does it.” He said. “Until we get out of the North Gate. Then we just have to wait for Izabeal to adjust, and we can have a little race.”
+
+“Ha!” Clint barked a laugh. “Ya just doomed yerself!” He said, turned Izabeal around to go down the street, and she started to trot. Ren and Princess kept up with her easily.
+
+“I can't wait to see the look on their faces when Princess lets loose!” Teepo said and chittered in laughter.
+
+Me, either. Ren thought, and felt a predatory feeling from Princess. He pat her neck and smiled as they followed Clint and Izabeal down the street, around a corner, and up the street that led outside the city. Once they were past the city's North Gate, Clint had Izabeal run in a zig-zag motion for several minutes, to get a feel for how well the new horseshoes gripped the dirt as she moved.
+
+“Ah like it!” Clint said. “Good girl!” He said to his mount, Izabeal. “Ahlright, Ren! It's time fer a whoopin'!”
+
+Ren nodded and Princess came to a stop beside Izabeal. “Do you want Princess to take it easy on you, or to go all out?”
+
+“Git her ta go as fas' as she can!” Clint said and laughed. “Ah can' wait ta see yer face aftah this!”
+
+“On your mark.” Ren said. “Get set.” He said, and saw Clint lean down close to his horse into a racing pose. “Go!”
+
+Clint flicked the reins and Izabeal took off like a shot. He laughed the laugh of someone who believed he had outclassed his opponent, and then he went to look backwards to see how far back Ren was. His head froze as he saw Ren was riding his mount right beside him.
+
+“Wha' tha hell?” Clint asked, surprised.
+
+Ren looked at him and waved goodbye. “Go ahead, Princess.”
+
+Princess brayed at Clint and Izabeal, then ran as fast as she could. With the Legendary Hooves of Speed and the Horseshoes of Speed on her hooves, she and Ren left Clint and Izabeal in their dust. Ren had Princess come to a stop after a few miles, and they waited for Clint to catch up. He did so a few minutes later, and the look of surprise was still on his face, even though it had happened several minutes before. Teepo hadn't stopped chittering in laughter the whole time.
+
+“H-h-how?” Clint asked when Izabeal came to a stop beside Ren.
+
+“Legendary Hooves of Speed.” Ren said.
+
+“But...”
+
+“With the Horseshoes of Speed on top of them.” Ren smiled.
+
+“So... ya got...” Clint squinted his eyes. “How fas' can ya...”
+
+“We can do a 10 hour cart ride in about 40 minutes.” Ren said.
+
+Both Clint's and Izabeal's mouths dropped open in shock, and Ren hoped the automatic recording caught a good clear image of it, so he could make it his screensaver background.
+
+“Ya gotta be kiddin'!” Clint exclaimed. “Tha's not possible!”
+
+Ren chuckled. “It wasn't possible at first.” He said, and Princess started to trot down the road. “It took a lot of hard work and training on Princess' part, and lots and lots of food to keep her Health and Stamina up.”
+
+“Food don' give Stamina.” Clint said and Izabeal trotted beside Princess.
+
+“No, but stopping to eat let it recharge faster.” Ren said.
+
+“Ah don' believe it.” Clint said and shook his head. “Ah saw it; but, ah don' believe it.”
+
+Ren laughed. “We can pick up the pace now that you know, and we should be at your place by noon.”
+
+“Yer jus' humorin' me.” Clint said. “Ya'll can git there in abou' an hour.”
+
+“I could if I knew where it was.” Ren said and smiled. “So, lead on genuine cowboy.”
+
+Clint nodded and kicked Izabeal into high gear. “We gotta stop in an hour or so ta feed tha mounts.”
+
+“Agreed.” Ren said, and Princess kept pace with them easily. They stopped an hour later and fed their mounts, then kept going. They stopped 2 hours after that for another meal, and then kept going. They made it to Clint's Ranch just after noon, and they both slid off the saddles of the mounts and to the ground.
+
+“Ah, tha's a relief!” Clint said and rubbed his backside. “Ah don' remembah tha las' time ah rode tha' far fer tha' long.”
+
+“I do.” Ren said, and pat Princess' neck. “I'm so glad Princess doesn't have to do that anymore.”
+
+“Ah hope Izabeal can git as fas' as yer Princess.”
+
+“Good luck!” Ren said and scratched Princess' chin. “Unless you can find another set of Legendary Hooves and get Izabeal's Strength and Vitality up high enough, no one will ever be as fast as Princess.”
+
+Thank you, My Lord. Princess thought as she felt how proud Ren was of her.
+
+“CLINT!” Tommy yelled as he came out of the front door of the house. “Hank drank everything again!”
+
+Clint laughed. “Then yer lucky ah brought more back from town.”
+
+“Yesh!” Hank slurred, then stumbled out of the ranch-style house and landed on his face in the dirt. “Ow.”
+
+“Geez, man! Take it easy!” Tommy said and helped Hank stand up.
+
+“How can you let him get like that?” Ren said and took out a Level 5 Minor Healing wand and used a charge on Hank's face. It healed the cuts and scrapes, and Hank sobered up instantly.
+
+“Hey, I'm not drunk anymore!” Hank said and touched his face. “I'm not hurt, either!”
+
+“What the heck is that?” Dillon asked and motioned to the wand. He had come over to see if Hank was hurt and was going to use his once-an-hour Cure Light Wounds spell, but Ren had beaten him to it.
+
+“A Minor Healing wand.” Ren said and stored it. “Are you Billy?”
+
+“No, that's Dillon.” Tommy said and turned back to the open door of the house. “Hey, Billy!”
+
+“What?” Billy asked and came outside. “I was trying to relax.”
+
+“Ren asked for you.” Tommy said.
+
+“Ren?” Billy looked over at Ren and frowned. “He's the guy that made your great weapons, isn't he?”
+
+“Yeah.” Tommy said and lowered his voice. “If you comment about how small he is, I'll punch you so hard your mom will feel it.”
+
+Ren heard Tommy clearly, even though Tommy was about 20 feet closer to the house and faced the other way. Thanks, Tommy. Ren thought, and stopped himself from smiling so no one would know he had heard everything that was said.
+
+“I wasn't gonna say anything about it.” Billy responded with his voice lowered, too.
+
+“When ah asked Ren abou' skinnin' tools, he grilled me ovah wha' ta do wit 'em and how ta do it.” Clint said and smiled. “Then he offered ta come out an' do it himself.”
+
+“That was really nice of him.” Dillon said, a bit skeptically.
+
+“Clint was the first friend I made in the game.” Ren said, then looked at Tommy. “Tommy was the second.”
+
+“How many friends do you have on your friends list now?” Billy asked.
+
+“Including these two?” Ren asked, and pointed to Clint and Tommy.
+
+“Yeah.”
+
+“Two.” Ren said, and they all laughed.
+
+“Ah didn' know tha'.” Clint said. “Have'ncha met anyone else since then?”
+
+“Yeah, a few people.” Ren chuckled. “No other friend requests, though.”
+
+Tommy shook his head. “Then they don't know what they're missing, man.” He said and took out Ren's custom made weapon. “Hell, I've neglected to keep in touch with you, and you still made this great bow for me.”
+
+“That reminds me.” Ren said and took out the bow he had made for Billy. “Clint said Billy was looking for another bow, and I just happened to bring one with me.”
+
+“Ha!” Clint barked a laugh. “He jus' happened ta make it a few minutes before we lef' his shop!”
+
+“You're kidding!” Billy said and everyone walked over to Ren and Clint.
+
+“Does anyone have the Identify skill?”
+
+“I do.” Dillon said, and Ren held the bow up for him. “Good god, is that for real?” He asked after he read the popup. “How the hell did you get that kind of enchantment on a normal wooden bow?”
+
+“Lots and lots of practice.” Ren said, and they all laughed again.
+
+“I hear that!” Hank said, and flexed his muscles. “I didn't get this big by just sitting on my ass and watching television!”
+
+“What kind of enchantment is it?” Billy asked.
+
+“Clint didn't know what kind you wanted, so he said to do the same enchantments as Tommy's bow with Damage and Lightning.”
+
+Dillon told them what the actual enchantment did, and everyone went quiet. Billy looked longingly at the bow.
+
+“How much is it?” Billy asked.
+
+“How much have you got?” Ren asked and grinned.
+
+“Don't say anything!” Tommy said and started to laugh. “His store manager put me through the ringer after a question like that!”
+
+“Look what you got from it, though.” Billy said. “It was worth it, wasn't it?”
+
+Tommy nodded.
+
+“Then I've got 27 gold and 15 silver.” Billy said. “I was saving up for the 30 gold coins I needed for the high quality bow at the general store; but, that thing you have is a hell of a lot better than that!”
+
+Ren glanced at the guys around him and saw the looks on their faces. Clint and Tommy looked a little worried, and Hank and Dillon looked like they thought Ren was going to take it all and let Billy suffer in poverty.
+
+“Send me a friend request.” Ren said to Billy, then Clint and Tommy smiled and nodded. Billy sent the friend request, and Ren accepted it. “It seems you qualify for the 'friend of the owner' discount.” He said, and grinned. “16 gold coins should just about cover it.”
+
+“No way!” Billy exclaimed, and looked at Clint and Tommy. “Is he serious? 16 gold?”
+
+“I wouldn't look a gift horse in the mouth.” Tommy repeated one of Clint's favorite catch phrases.
+
+“An yer checking this one's teeth.” Clint finished, and they all laughed.
+
+“All right, all right! I know the deal is too good to be true.” Billy said and gave Ren 16 gold.
+
+Ren handed him the bow. “Enjoy.”
+
+“Holy Mary, Mother of God!” Billy said. “It has my name on it!”
+
+“WHAT?” Hank yelled. “You've got a personal weapon?”
+
+“Yeah!” Billy said. “It's not bound to me, but no one else can use it! Ha ha!”
+
+“It's true.” Dillon said and smiled. “I left that part out when I described it, so it would still be a surprise.”
+
+Hank took Dillon into a one-arm hug. “You're a good friend!”
+
+“Not as good as him.” Dillon said and pointed to Ren. “I appraised it at 80 gold.”
+
+“80 gold!” Billy exclaimed and looked at Ren. “Are you crazy or something?”
+
+Tommy laughed and put a hand on Ren's shoulder. “So, you really did give him the one-time-only 80% off special.”
+
+Ren nodded. “I always treat my friends well.” He said, then took out the set of Bracers of Archery he'd made and gave them to Billy, too. “I almost forgot the bonus item you get with a major purchase.”
+
+Ren immediately received 2 more friend requests from Hank and Dillon, and accepted them with a smile. Billy stood there and stared at the Bracers of Archery and didn't know what to say.
+
+“Now I just have to decide what I need.” Hank said as he rubbed his chin in thought, then looked at Ren. “What do you sell?”
+
+“It would be easier to ask him what he doesn't sell.” Tommy said and laughed.
+
+“I know what I want.” Dillon said. “Is there any chance I could get one of those wands?”
+
+“I'm sorry.” Ren said. “They aren't for sale.”
+
+“Well, damn.” Dillon said and sighed. “We don't have a healer, and all I have is defensive magic spells.” He said. “If I had a healing wand...”
+
+“Actually, even if you had the wand, you'd still need the training to use it.” Ren said.
+
+“You used it.” Dillon said, and Ren nodded. “Wait, you...”
+
+“I have the Healing skill.” Ren said. “It's only at Intermediate Level 4, so I can only diagnose Minor and Normal wounds properly. I'm pretty sure I'll unlock Major wound diagnosis when I hit Advanced, though.”
+
+“Geez, man! You're a healer, too?!?” Tommy asked, surprised.
+
+“I don't have that title or classification; just the skill.” Ren said and smiled. “So far.”
+
+“How many things can you do now?” Tommy asked.
+
+“A lot.” Ren said and grinned.
+
+“What about that?” Dillon asked, and pointed to Ren's wrist that had the Bracelet of Unbelievable Magic. “I could never afford it, even with an 80% discount; but, is it for sale?”
+
+Ren shook his head. “It's... well, it's too powerful to have on the open market.”
+
+“I'd say.” Dillon said. “The things I could do with 10,000 Mana.”
+
+“Ten thousand Mana?!?” Tommy exclaimed and looked at the golden diamond-covered bracelet on Ren's wrist. “How?”
+
+“Mana Boost rune combined with Mana Production, and Intelligence and Wisdom enchantments.” Ren said.
+
+“I'm not going to ask how you did it.” Tommy said. “Geez, man. You're unbelievable!”
+
+“Clint!” Billy said. “I just had a great idea!”
+
+“Here it comes.” Hank said. “This should be good!”
+
+“He's got gold left, he's gonna want to see Jennifer again.” Dillon said and laughed.
+
+“Hey!” Billy said. “It's not that... but, now that you mention it... that's a good idea, too.”
+
+“Billy!” Clint said. “Wha's yer idea?”
+
+“Right, right.” Billy said. “We should ask Ren to fill one of our open party slots.”
+
+No one spoke as they all exchanged looks. No one frowned, though; and they all looked like they were considering it seriously.
+
+“It would be nice to have access to a dedicated blacksmith.” Tommy said.
+
+“We could save a lot of money on repairs, especially if we strike a good deal on gathering supplies.” Hank said. “My armor's getting pretty dinged up as it is.”
+
+“I'm sure he could make me something eventually.” Dillon said. “Plus, his mount looks really cool.”
+
+Princess huffed, and several of the guys chuckled.
+
+“Ah wonder if'n we could work ou' a deal.” Clint said. “Ah don' think Izabeal can wear full plate armor; but, ah would like some reinforcmen' fer her. At leas' on her flanks.” He turned and looked at Ren. “Whaddaya say, Ren? Wanna give it a try?”
+
+Ren looked at their hopeful faces. “Let me think about it.” He said. “Show me the wolves you want skinned, and I'll have an answer by the time I'm done.”
+
+“Tha's fair.” Clint said. “They're righ' ovah here.”
+
+Tommy, Hank, Billy, and Dillon, watched as Clint and Ren walked towards the covered cart near the barn.

@@ -1,0 +1,153 @@
+---
+id: 991f6551-7c9c-5c27-ae86-d688b9ebc911
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 - Into The Wild"
+slug: 0013-chapter-29-into-the-wild
+partOf: mythrans-master-of-all-continued-completed
+position: 13
+ownLength: 2891
+unit: words
+publishedAt: 2016-09-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/93500/chapter-29-into-the-wild"
+royalRoadId: "93500"
+---
+
+Ren and Sally spent a good half hour cleaning up the mess. Teepo on the other hand, chittered in delight with each new place he found to wedge himself into. Ren apologized to Sally again for messing up her shop, but Sally just shook her head and laughed. Aimus came in just as they had tossed the last of the wood pieces into the hearth of the fireplace. He carried two large bags through the shop and into the back. Ren asked to buy a bolt of fabric from Sally and she handed over her best one. He tried to pay for it and she wouldn't take it. Ren walked over to the table he'd used and picked up the three coin pouches he'd left there and handed them to Sally.
+
+“Ren? What in the world!” Sally said when she examined the new pouches. “You shouldn't use up your fabric for something like this!”
+
+Ren smiled to himself. He had guessed right that she'd be upset if she thought he was 'wasting' the fabric. “Don't worry, I only used scraps.” She doesn't need to know the details of how I got those scraps, though.
+
+“I can't take these.” Sally said and tried to hand them back.
+
+“I made them for you, to keep or to sell. Plus, now you know what to do with any scraps you might have left when you use your fabric.”
+
+Sally looked at them closely and commented on how it was quite smart to use the same fabric for the drawstring because it increased the strength and value immensely. Ren blushed a little at the compliment. Aimus came back into the front of the shop and Ren handed him the last one.
+
+“What's this?” Aimus said, sceptically.
+
+“It's just... a thank you for letting me tag along.” Ren said.
+
+Aimus grunted and took the pouch without comment. He saw the ones his mother was holding and assumed Ren had bought it from her. He wasn't about to reject one of his mother's products. No matter how expensive it looked, it wouldn't last long out in the wild.
+
+“Come on, boy. We're wasting daylight.” Aimus said and went out the back of the shop. Ren closed his eyes and took a deep breath.
+
+He doesn't know me yet, or how much I hate being called boy. Ren thought and followed Aimus out the back door. The gate was open this time and a horse was hooked up to the cart.
+
+“Do you know how to handle something like this?” Aimus asked, knowing full well a city boy like Ren wouldn't know the first thing about driving a cart.
+
+“Of course.” Ren said with confidence. He went around the cart and checked all the fastenings, took the reins and hopped up onto the driver's bench. Ren checked that the brake was okay and wasn't too worn, turned to Aimus and nodded. Aimus had a shocked look on his face and Ren grinned.
+
+Sally had come out to stand by the back door. She had watched their little exchange. “You'll have to get used to that feeling, eventually.” Sally said to Aimus, and laughed.
+
+Aimus shook his head and got up onto the bench as well. There wasn't a lot of room, but considering they were both pretty thin, they had room to move around without too much difficulty.
+
+“We're going out the city's south gate.” Aimus said and pointed. He turned to his mother. “I'll see you again next month.” Sally nodded and waved.
+
+“Bye, Sally! I learned a lot! See you soon!” Ren said and waved before he flicked the reins. The horse clopped out of Sally's back yard and into the street. Ren stopped the horse and Aimus hopped off and locked Sally's back gate. He got back on and Ren headed for the south gate.
+
+********
+
+Darkness was everywhere. It would have been difficult for a normal person to see, but Tristan was used to it by now. He'd spent months being tortured; daily whippings, beatings, and starvation. He eventually broke free and fought his way out of the deep caverns of Shargon. He'd only just learned the name a few weeks ago; some poor idiot had stumbled into the caves by accident and had gotten horribly lost. It had happened for the most part because he couldn't see. Luckily, one of the first new abilities Tristan had gained was night vision. His eyes were almost completely black now, instead of the nice sea blue they had started as. His jet black hair was long and matted. His beautiful white and gold armor was nearly pitch black, with veins of darkness flowing through it. His old glowing sword actually absorbed light now. Tristian clenched his fist and blood flowed from a spike he had planted into his palm. Mana flowed and he felt the familiar drain again. A dark mist appeared and formed into a portal. A small hellhound, little more than a pup, stepped out and the portal closed. He reached down and fed the dog with his blood. Summoning required sacrifice. Tristian remembered how he had gotten there and what he'd had to do to survive. A twisted smile appeared on his face.
+
+It was all that little bastard's fault.
+
+********
+
+Ren drove the cart for most of the day. Aimus was surprised that Ren hadn't complained once. Not about the jostling, the rough road, the heat, the hard seat, or even about having to stop to feed and water the horse every few hours.
+
+How is he not boiling with frustration right now? Aimus thought.
+
+Ren was having the time of his life. He'd never been outside the city, except for when he went mining for ore. The scenery was completely different in this direction. There was always something new to see. Some kind of creature, a weird looking tree, or an oddly shaped rock always crept into his vision and caught his attention. The occasional stops to take care of the horse was an opportunity to explore a new area. Ren never went far. He always stayed within sight of the cart. He had no idea what kind of dangers lurked in these spots, but he couldn't stop himself from roaming around a little. Teepo was in the same situation as Ren. They both shared the love of seeing something new, and Ren would smile when Teepo would point out a beetle shaped bush or poop shaped rock. That all came to a halt when Ren pointed upwards and Teepo saw his very first cloud. He had chittered in surprise and just stood on Ren's shoulder for hours, not saying a word.
+
+Aimus directed Ren to pull the cart into a nice clearing, and they settled in to make camp. Ren got the cart secured properly, and unhooked the horse. He led the horse to a nearby tree and tied the reins to it. It gave the horse a bit of room to move around and graze, if it wanted to, and kind of acted as an early warning system if anything should happen close by. Aimus took out one of the big bags that he'd put in the cart and opened it. Inside was a variety of traps that he'd ordered. Ren looked closely as he unpacked several different types. Aimus took out a length of snare wire and went to the edge of the clearing. He tied it to a tree stump near the road and looped it around various rocks and trees around the clearing, then tied the end to a stick. He pushed the stick into the ground near the cart, and kept tension on it. He then took out a little bell and hung it on the wire next to the stick. Aimus walked back, along the length of wire, hitting it occasionally and the little bell jingled each time. He nodded and walked back to the cart.
+
+Ren looked at one of the traps near the bag. It had a metal frame and wires along the edge, and some kind of mechanism in the center. He turned to Aimus and asked if he minded if Ren looked at it. Aimus shrugged, took a similar trap, and went into the treeline. Ren picked up the trap, moved it's parts around, felt the tension in the wire, flicked the mechanism in the center a few times, then pushed the metal frame apart until it opened and the middle piece popped up. Ren instinctively knew not to hit the middle piece with his hand, and grabbed a stick that was nearby. He poked the center piece, and the trap sprung closed with a snap and held onto the stick.
+
+“Whoa!” Ren said, in awe.
+
+New Recipe!
+
+Basic Leg Holding Trap
+
+You have learned the plans to make a basic animal trap. It will hold an animal without hurting it. The plans have been added to your crafting list.
+
+Ren picked up another trap and did the same thing. He learned how to make a basic snare trap and a lure trap, too. He wasn't sure if he liked the snare trap, though. Whatever was caught, if it struggled, the snare would just get tighter and tighter... no matter what part of the animal was in it. It didn't seem quite right to Ren; but since he had no idea what kind of animals it was used to capture, he wouldn't pass judgment on it yet.
+
+Aimus came back when Ren was done and took the leg trap Ren had examined, and a snare trap. Ren looked at Aimus, but Aimus ignored Ren and left again. Ren took out his bedroll and put it next to the cart. He laid down on it and Teepo moved onto his chest.
+
+“It's a big world, master.” Teepo whispered.
+
+“It sure is.” Ren said in response.
+
+The sky grew dark a while later and Aimus returned empty-handed. He laid down on the ground and stared up at the sky. He didn't even get out a bedroll.
+
+“See you in the morning.” Ren said. Aimus just grunted.
+
+“Logout.”
+
+********
+
+Lucy took off Ren's VR headset and smiled at him. Ren smiled back and got out of bed. He needed the bathroom. He wasn't sure if it was because his brain thought he ate, of if it was because he had physically eaten that morning, but it didn't matter. His body said it needed to go, so he went. When he washed his hands and got back in bed, Lucy asked if he wanted anything to eat. Ren nodded and she went to make him a snack. It would be several hours before supper would be served and Ren didn't think he could last that long. He was famished. Lucy returned about 10 minutes later with orange juice, a turkey sandwich and some potato chips. Ren thanked her and dug into the food.
+
+It didn't take him long to finish off the sandwich and then he took his time with the chips. He talked to Lucy about what she thought of Aimus and how he and Ren had met. Lucy said that it was really dangerous for Ren to follow someone like that around the town. If he'd been a real criminal, Ren would have been in some serious trouble. Ren nodded but admitted that at the time, he didn't think about that. It was lucky he didn't, because then he would have missed Sally's son and wouldn't be travelling out of the city. Lucy agreed but warned him to be more careful about strangers in the future. Not everyone would be so nice to him... especially so far away from civilization. Ren nodded again.
+
+Lucy debated with herself about mentioning Ren's encounter with the maid, but decided against it. He'd handled the situation admirably, despite the maid's attempts to seduce him. Lucy was tempted to tell him to not get into those kinds of situations in the first place, but it really wasn't her job to monitor his behavior... no matter how much she wanted to keep him safe.
+
+Several other nurses visited Ren on their rounds and he enjoyed their company. He used to resent them cuddling him and treating him they way that they do, but he knew that they only really did that because they cared about him. He had surprised some of them when he actively hugged them back. Others had hugged him harder. After supper was served, he used the bathroom quickly and got into bed. Lucy had just left and Barbara came in to tuck Ren in. She gave him an extra squeeze during their hug and Ren laughed. He'd lost count of how many boobs his face had met that day. Barbara passed him his VR headset and he settled in for another day in the game.
+
+********
+
+When Ren 'woke up' in his bedroll, Teepo was nowhere to be found. Teepo?
+
+“Yes, master.”
+
+Where are you?
+
+“Talking with my above ground brethren.”
+
+That's what you're doing, not where you are. Ren thought amused.
+
+“Actually, I don't think I know where I am.” Teepo said.
+
+Ren shrugged. Are you finished talking?
+
+Teepo said that he was. Ren told him to tell his brothers goodbye, and Teepo did.
+
+“Summon Teepo!” Ren said as quietly as he could. Teepo's astral projection appeared in front of him.
+
+Ren hadn't seen Aimus on the ground anywhere nearby, but that didn't mean he could make as much noise as he wanted so early in the morning. Teepo told Ren of his adventures that he had roaming all night and Aimus returned to the camp with two rabbits and a fox. They were a bit larger than the ones in the safe area outside the city's west gate. Ren assumed since they were out in the wild that they must have been stronger as well. Ren got out of his bedroll and put it away.
+
+Aimus took the carcasses over to the cart and put down a piece of tarp. He took out a skinning knife and expertly whipped the knife around one of the rabbits, and the whole pelt popped off in a single piece. Aimus stashed it and Ren stepped closer.
+
+“Could you do that a bit more slowly?” Ren asked and sat down next to the tarp.
+
+Aimus looked at him and shrugged. He grabbed the next rabbit, placed the skinning knife at the base of it's throat, pulled it down to it's mid-section, cut around the front leg, then around the back leg, across the top of the body at the tail, around the other back leg, then the front leg, and finished at the throat where he started. The pelt popped off whole and Aimus stashed it.
+
+“Can I try it?” Ren asked. There was only a fox left, but he'd figured if you were careful, the same cutting pattern could be used no matter how big the animal was.
+
+Aimus shrugged again and flipped the knife around in his hand and passed it, hilt first, to Ren. Ren took it, giving the sharp edge the respect it was due, and picked up the fox. Ren took his time, but he followed the same motions he'd seen Aimus do. A few minutes later the fox's pelt popped off whole.
+
+New Sub Skill!
+
+Skinning Level 1 (Beginner 0%)
+
+This sub skill under Leatherworking will allow you to skin animals and gain their pelts.
+
+Higher levels will allow you to obtain higher quality pelts and skin more difficult and larger animals.
+
+Ren smiled and passed the pelt to Aimus. Aimus took it and examined it closely.
+
+“It's a little ragged along the outer edges. I wouldn't have gotten so close to the tail, myself. Other than that, though... I suppose it's a passable pelt.”
+
+Ren smiled. Considering it was his very first one, 'passable' was the best rating Aimus could have given him. Other results could have been 'horrible', 'disastrous', 'mangled', and 'unusable'. Ren smiled wider. Passable was just fine in his eyes.
+
+Aimus looked at Ren's smile and wondered what Ren was thinking. He'd just insulted the kid by saying the pelt was only 'passable'. It was fantastic for a first attempt; but, he didn't want to give Ren a swelled head by telling him that.
+
+Aimus stashed the pelt like he did for the two rabbits and stood up. “Let's hook up the horse and get going.”
+
+Ren looked at the carcasses Aimus had left and looted them. He got a rabbit foot from each rabbit and a fox tail from the fox. He wasn't sure what he could do with them, but it didn't hurt to take what he found. He could always drop them later if he had to.
+
+They got the horse hooked up and back onto the road. Aimus drove this time and Ren didn't object. He didn't know the way, anyways.
+
+Aimus was shocked again when Ren didn't say anything about them not having breakfast. Almost anyone he knew would say they wanted to eat something, first thing in the morning. Who was this kid? Why did my mother like him so much? Ren didn't even object to him driving the cart, even though he had driven it the whole day yesterday. Aimus shook his head slightly and they continued their journey.

@@ -1,0 +1,287 @@
+---
+id: d8997a3a-e98e-5932-b801-40346d66c944
+page-type-slug: story-chapter-royal-road
+title: "Chapter 216 - Did That Just Happen?"
+slug: 0204-chapter-216-did-that-just-happen
+partOf: mythrans-master-of-all-continued-completed
+position: 204
+ownLength: 3480
+unit: words
+publishedAt: 2017-04-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128285/chapter-216-did-that-just-happen"
+royalRoadId: "128285"
+---
+
+“Wow.” The healer said about 10 minutes later after she had watched Ren. She stood at the mouth of the small tunnel the diggers had used to make the pit trap. “He's like a whirlwind!”
+
+“I think it's more like a thunderstorm.” The Commander said, as the ground shook from the impacts Ren was making with his special weapon, and the thumps from the shockwaves that followed. “How is he still going?”
+
+“I'm not sure.” The healer said. “Usually a berserk rage only lasts about 2 minutes. The longest I've ever seen one go for was 4 minutes, and the poor man had used himself up and could barely speak afterwards.” She shook her head. “I sincerely hope that doesn't happen for Ren.”
+
+“Back off, he's coming closer.” The Commander said, and the pair of them retreated down the tunnel, well away from the edge of Ren's Aura. They'd made the mistake earlier by not moving, and had been caught in the grip of the worst fear they'd ever felt. The both of them had frozen in place as Ren killed several grubs with a single hit, and had stared into his blood red eyes as he hefted his weapon to strike another blow. The healer was still trembling from that encounter, but she was brave. Much braver than a lot of Warriors that the Commander had under his command. Once Ren had moved off to continue his unending assault on the grubs, both the healer and the Commander had to change clothes because they were soiled.
+
+“I can't get over to his mount.” The healer said, as Ren moved off again. “He keeps moving around and blocking the way.”
+
+“I know.” The Commander said. “But, I don't want to disturb him while he's in the middle of a fight for his life.”
+
+Just as he said that, five more giants fell into the pit on the side away from the Garrison. Ren ran over to them without hesitation, and was lucky they had fallen on top of each other and not individually. He clanged the glowing shield against the heads he could reach. The Commander wasn't sure what Ren was trying to do; but after he hit each of them one or two times, they stopped screaming and fell unconscious; except for one.
+
+It was laying on it's back and tried to push off the ones that had fell on top of it. The giant's ears started to bleed and it opened it's mouth; then Ren swung the hammerpick down into the giant's face. The Commander winced as the face was instantly mulched and the bones shattered from the shockwave; the face collapsed in on itself and closed off the throat that was the large Brain Arthropod Grub's only escape route. Ren swung again, hit the giant in the chest, and the mulched face exploded like a geyser.
+
+The Commander shook his head as Ren easily avoided the gush of blood and gore, and stomped on the grubs that tried to escape. The Commander asked if there were any more giants coming, and the question was passed along to the messenger, who ran out up above to ask the scout party. The messenger came back a couple of minutes later, and said that it looked clear; so, the Commander took out the most valuable resource he'd ever seen and concentrated on Ren.
+
+*
+
+“I have a healer here for your mount.” The Commander's voice said, and Ren grinned.
+
+“That's... great...” Ren said between swings and stomps. “I'll... escort... you... over...”
+
+“No!” The Commander said. “I only have the one change of clothes.”
+
+“Wh-what?”
+
+“Your Aura is... well, it's overwhelming. The healer has been standing here at the tunnel for the last few minutes, waiting to find a chance to get by you.”
+
+“Sorry...” Ren said. “Have... to keep... concentrating...”
+
+“My scouts say there's no more giants coming.”
+
+Teepo?
+
+“You've got maybe 10 minutes.” Teepo said, from his very high flying point. “There's another 15 or so giants a few miles out coming right for the pit.”
+
+Thanks, Teepo. Ren thought, then after a few more swings, he switched his Fear Aura to his personal Aura. He kept stomping and swinging, because he didn't want to lose his Controlled Berserk Rage. He figured he must look really strange doing that while he walked over to the tunnel entrance; but he knew if he stopped attacking, he'd suffer severe exhaustion and would be pretty much useless for an unknown period of time after that.
+
+*
+
+The healer and the Commander watched as Ren turned towards them, and they started to back up.
+
+“It's okay.” Ren's voice said from the Sending Square. “I'm concentrating on my personal Aura.”
+
+“That's a relief!” The healer said. “I... I don't know if I could take another dose of that.”
+
+Me, either. The Commander thought, but didn't say it out loud. He had an image to maintain, after all.
+
+*
+
+Ren came over to them, then escorted the healer and two Warriors over to Princess.
+
+“Oh, my...” The healer said as she saw Princess' condition. “You poor thing.”
+
+“I think the armor's the only thing holding her crushed leg steady, but it's crushed as well.” Ren said, and stomped on a grub's carcass.
+
+“I can't heal it with the armor like that.” The healer said.
+
+“No problem.” Ren said, and opened Princess' equipment window. He selected the leg armor, and stored it in only 2 seconds. Princess didn't whimper at all as the broken leg fell to hit the crushed one, and Ren smiled at her as he kept stomping on some of the already dead grubs.
+
+“I should have enough Mana for the crushed leg, that's the priority.” The healer said. “I don't know about the broken one.”
+
+“Thank you for doing this.” Ren said and handed her 2 Mana potions. “If you need more than that, let me know.”
+
+“Thank you.” She said and got to work on the crushed leg. “Why isn't she trying to move away, or bray, or something?”
+
+“She's just that brave.” Ren said. “I've numbed the legs a little, too.” He finally found a few live grubs to kill. “When you heal the legs, she should be able to walk; but, I don't know if healing will remove the numbness. It should wear off by itself later, though.”
+
+The healer nodded slightly and activated her Major Healing ability after adjusting the crushed leg to be in the right shape. Princess huffed her frustration, because she had laid there the entire time while Ren had had all the fun. Ren felt what she felt, and he held his laughter in.
+
+“Don't worry, Princess.” Ren said. “There's more coming.”
+
+“Who are you talking to?” One of the escort Warriors asked.
+
+“My mount.” Ren said, and stomped another grub.
+
+“You named your mount 'princess'?!?” The Warrior asked, then started to laugh. Ren turned without thinking and hit the Warrior in the chest with the back of the hand that held the hammerpick. The Warrior was knocked off of his feet and landed on his back a few feet away. Ren's knuckles had dented the armor and knocked the breath out of the dwarf.
+
+“Shut your mouth!” Ren said, his eyes still blood red. “She's a better warrior than you! She's a better warrior than all of you!” He nearly shouted.
+
+The other Warrior tried to intervene; so, Ren swung his shield at him, and stopped it just under the Warrior's chin.
+
+“Has anyone else even thought about standing by my side to fight these things?” Ren asked him, and stomped a grub by the downed Warrior's head. “NO! Not one of you!”
+
+“STOP IT!” The healer yelled. “I can't concentrate!”
+
+“Sorry.” Ren said to the healer, took a deep breath, and let it out slowly. “Princess isn't her name, it's who she is.” He said. “You will treat her with the respect I think she deserves, not what you think she deserves. Do you understand?”
+
+Both Warriors nodded slightly, and Ren felt gratitude and pleasure from Princess as he moved the shield away from the Warrior's neck.
+
+“Good.” Ren said and stepped on another grub as the Warrior he'd knocked down stood up. “Why are you just standing there and not protecting the healer properly?”
+
+“We... ah... don't want to get that stuff on our boots.”
+
+“I thought that, too... until I realized I could just store the boots to clean them.” Ren said and jumped towards the wall and swung the arm with the shield. The Warrior that had stood up ducked and hollered, and Ren's shield cut a grub in half that was trying to crawl up to it's freedom.
+
+“Maybe 5 minutes.” Teepo said and flew over to land on Princess. “The closer they get, the faster they go.”
+
+“This place is full of pheromones now.” Ren said as the grub's bisected body fell to the ground. “Any giant within a few miles is going to come straight here.”
+
+“By the gods...” The healer said as she finished healing the crushed leg and moved on to Princess' broken leg after drinking both Mana potions. “...this will truly be a hellhole.”
+
+“If you don't get the cured giants out, yeah.” Ren said. “This will be the perfect breeding ground for them if you just leave them in here.”
+
+“Where are we going to put them?” The healer asked as she used her Minor Healing ability to try and fix Princess' broken leg.
+
+“The bigger problem is how we're going to feed them.” Ren said, and took out his Major Healing wand and handed it to the healer. “This might help.”
+
+“Where did you... no, heal first. Questions later.”
+
+Ren smiled and killed another grub. “Just for that, I'll let you keep it.” He said, and the healer gasped. Teepo took off after the rest he had needed to recharge his Stamina bar, and flew up to the scouting height he'd chosen.
+
+“Two minutes!” Teepo said.
+
+“There's more giants coming.” Ren said. “Finish fast.”
+
+“I'm done!” The healer exclaimed and stood up. “Princess? Can you stand?”
+
+Princess rolled onto her belly, and when she tried to get her legs under her, her back legs wouldn't quite move.
+
+“I think it's the numbness. She can't tell where her legs are just yet.” The healer guessed.
+
+“Then take her with you.” Ren said and walked over to her. He opened her inventory and took out the armor pieces that used to be on her legs. Ren stamped on an exposed grub, repaired the armor, and equipped it for his mount. While he had the inventory open, he opened his own and transferred the Deed of the Garrison to her. Princess tried to protest by refusing to move, and Ren looked at her sternly.
+
+“Don't make me order you to go.” Ren said. “I've never ordered you to do anything before.” He smiled and scratched her chin. “You've only got a minute and a half to get out of here with the healer before the giants come over the side.”
+
+Princess brayed at him, and he nodded.
+
+“Yes, I'll help.” Ren said. “I'll see you back here soon; but until then, get going.”
+
+Princess huffed and Ren lifted her backside off the ground. He kept stomping his feet on the dead grubs to keep his Controlled Berserk Rage going, and half-carried Princess to the tunnel entrance.
+
+“They're heeeeere!” Teepo said.
+
+The healer had helped lead Princess, and they got to the tunnel entrance just as the first giant fell into the pit trap.
+
+“I have to go!” Ren said, and gently put the back half of Princess down in the tunnel entrance. The giant bellowed and ran towards the center of the pit, where the pheromone covered sack of still screaming grubs was. Two more giants tumbled over the side and Ren heard a sickening crunch as the female giant landed on it's head.
+
+“Good luck!” The healer said to Ren, as he ran towards the center.
+
+“I'm switching my Auras! Get out of here!” Ren hollered and waited for as long as he could, then concentrated on his Fear Aura when he got within the giant's reach and made the connections between both his shield and hammerpick, then his Dire Wolf Hooded Cloak. The giant started to scream, and instead of grabbing it's own head, it took a swipe at him. He lifted his shield at the last moment, and the giant's fist clanged against the glowing gold surface. It sent Ren for a spin, and wrenched his arm when he landed.
+
+Right. Ren thought. I shouldn't try to block punches from giants.
+
+Another giant that had recovered from the fall, ran over to the center as well.
+
+“Ren! Behind you!” Teepo said.
+
+Ren tried to roll away as a giant tried to kick him and the foot missed Ren's back by inches; but unfortunately, it did hook his Dire Wolf Hooded Cloak. Ren was picked up by the neck because even though the kick hit the cloak, the force of the blow was enough to have him flipped over and thrown nearly 30 feet across the pit. He landed on a pile of unconscious giants, and grunted from the pain.
+
+“Oh, now it's on!” Ren said, and jumped down from the pile, smashed a few grubs that had tried to hide inside the giants ears again, and equipped the web wand in the hand that the shield was strapped to. He used it on the giant's feet several times, and left them there to scream.
+
+“Here come the rest!” Teepo said.
+
+“I'll be right there!” Ren said, and stepped on the fleeing grubs from the giants he had secured. The unconscious giants fell to the ground, and Ren discovered he was running out of space to run safely. Giants laid on the ground pretty much everywhere inside the pit, and the next giant landed on top of the female giant that had broken her neck in the fall. The body was partially crushed from the blow; but, it also made it easier for the giant that had landed on her to recover. Ren jumped and hopped over fallen giants to get to the ones coming in. They started to scream and Ren smiled as more of the grubs were evicted from their stolen homes.
+
+*
+
+Malenka, one of the healers Ereka had hired for House Neram, had just finished up a long shift at work. She was tired and weary; mainly because all she and Artrude did every day was maintenance on the medical building's equipment and supplies.
+
+I think Artrude would get angry at me, if I told her I wanted something to happen, just so we would have something to do. Malenka thought as she walked home. She was at her front door a few minutes later, and went inside. She wasn't feeling as upbeat and chipper today... at least, not until she opened the bedroom door and saw what awaited her on the bed.
+
+“Wh... wh... wh...”
+
+Artrude felt pure joy as she saw Malenka staring at her in shock. The look on her face is so cute! She thought as she ran a hand over the black strapless lacy bra that left only that last little bit to the imagination; but, it also lifted and presented her modest chest very well. The see-through underwear with lace trim that barely covered the front, and only had a string up the back, made Artrude blush as she rolled over and gave Malenka the full view. When she completed the roll over and faced Malenka again, she spoke.
+
+“Happy Anniversary.” Artrude said in a soft and sultry voice.
+
+“By... by the gods!” Malenka said, then started hopping up and down in excitement. “Please tell me you have something for me to wear, too!”
+
+Artrude reached beside the bed and picked up a matching set in red, and Malenka slammed the bedroom door shut then jumped onto the bed.
+
+*
+
+“I have to get to the Garrison!” Nathalia said and stood up, while Ereka tried to convince Croggart to stay and ask Ren for forgiveness.
+
+“Wait!” Ereka said. “You can't!”
+
+“Wh-what?”
+
+“They won't let civilians into the Garrison.”
+
+“But... I'm his... his...”
+
+“It doesn't matter who you are.” Ereka said. “I've talked to Groggot enough to know that no one, besides military or the people that work there, can even get in the front gate these days.”
+
+“Dammit! I want to go and help him!” Nathalia said in frustration.
+
+“I know you do.” Ereka said. “But standing outside the Garrison and waiting for him, isn't going to help him any more than staying here does.”
+
+Nathalia sat back down and crossed her arms.
+
+Ereka turned her attention back to Croggart. “Don't be so foolish, you idiot.”
+
+Nathalia gasped, and Ereka held up the Sending Square. Nathalia nodded slightly, and Ereka kept talking.
+
+“You can't just run out on your family like this.” Ereka said.
+
+“I don't want to.” Croggart said. “I want you to come with me.”
+
+“No.” Ereka said. “You just want someone to share in the blame.”
+
+“Hey, that's not true.” Croggart said. “I've never asked you to...”
+
+Ereka laughed. “When you left the family because they wouldn't stick up for me, because it went against a member of the House, who followed you?”
+
+“You did.”
+
+“And who followed me?”
+
+“Groggot.”
+
+“And what are you doing now?”
+
+Croggart didn't say anything.
+
+“You're leaving us to deal with the shame of your actions.” Ereka said. “How much Honor did you lose when you attacked Ren?”
+
+“I didn't attack him!” Croggart said, and both Ereka and Nathalia winced slightly.
+
+“You can't even convince yourself of that.” Ereka said. “Do you really think you're going to convince me?”
+
+Croggart sighed. “I'm not going to convince you to come with me either, am I?”
+
+“No.” Ereka said. “I've built a great life here. It's only going to get better, with more and more people moving here every day.”
+
+“Then I'm sorry.” Croggart said. “I can't stay here anymore. They'll be hunting me now.”
+
+“If I didn't have so much work to do, I'd help them.” Ereka said.
+
+“You don't mean that.” Croggart said, but neither he nor Nathalia had winced even a little bit at Ereka's words.
+
+“I hope you can come to your senses.” Ereka said. “I've never turned you away any time you came home from one of your adventures.” She sighed. “You'll always have a home here.”
+
+“I...” Croggart sighed again. “Goodbye, Ereka.”
+
+“Goodbye, Croggart.”
+
+*
+
+For the next hour, Ren fought hard. He wasn't sure if he was suffering battle fatigue, or if the numbness venom he'd used on his head was wearing off; but, his brain started to hurt a lot from concentrating so long on his Fear Aura, and making Connections between the cloak, hammerpick, and shield.
+
+It had taken a long time for Ren to hunt down all the screaming grubs. He had missed a giant that had one of the large Brain Arthropod Grubs inside, and while he had dealt with the pile of regular giants, a few dozen grubs had very slowly crawled away and hidden under the piles of unconscious giants. He'd found the large one right away, as it had started to drag the sack with the pheromones away.
+
+“That was the last one.” Teepo said. “I flew way up high and I couldn't see any movement at all.”
+
+Thanks, Teepo. Ren thought, then turned around to survey what he'd done. He took a deep breath as he saw that his handiwork covered the floor of the pit, now nearly several giants deep. Ren stored his shield and hammerpick after he let the connections lapse, then switched to his personal Aura.
+
+Notice!
+
+Controlled Berserk Rage ability has ended. You have gained the condition: Severe Exhaustion.
+
+Stat Change!
+
+Connection Level 6 (Beginner 0%)
+
+Ren felt a wave of exhaustion flow over him, and he collapsed to his knees. He dismissed the popups and Teepo flew over to him.
+
+“You did really well.” Teepo said, and Ren nodded as he laid down on the ground. “No! Don't lay down! Get over to the tunnel entrance!”
+
+Ren nodded slightly, and started to crawl towards the tunnel. He saw several dwarves coming towards him, then the healer screamed.
+
+“Watch out!”
+
+Ren stopped crawling, then rolled over onto his back. The female giant that had fallen and broken her neck, the one both he and Teepo had ignored this whole time, wasn't dead. She stood up and walked over to Ren, who looked up at her with half-closed eyes.
+
+“Oh, cra-” Ren's words were cut off as the giant's foot came down.
+
+You have died!
+
+You will respawn at your last chosen spawn point - SAFE ZONE: House Neram in 5 Hours, 59 Minutes, 50 Seconds (real time)

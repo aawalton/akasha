@@ -1,0 +1,479 @@
+---
+id: b7649a92-9884-5838-95c4-655a5a8a6e0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113 - A Job Offer"
+slug: 0097-chapter-113-a-job-offer
+partOf: mythrans-master-of-all-continued-completed
+position: 97
+ownLength: 5547
+unit: words
+publishedAt: 2016-12-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107345/chapter-113-a-job-offer"
+royalRoadId: "107345"
+---
+
+Ren led Dorcot out into the courtyard and to the stack of lumber there.
+
+“Do you want me to carry some of that?” Dorcot asked.
+
+“No, this is for something else.” Ren said, then used a couple of planks and made a good sized crate, with a small section inside. “Be right back.” He said and went into the old bedroom and put in the cut diamonds into the small section, and then filled the crate with several slots of odd-sized diamond crystals. Ren stored the crate in an empty slot and was tempted to make a bunch more crates, but that would have to wait. He went back outside and then stored the crate of nails.
+
+“So, you're an Adventurer.” Dorcot said.
+
+“I've definitely had some adventures, that's for sure.” Ren smiled.
+
+“You can tell me some while we work.”
+
+“If it'll help pass the time.” Ren said and Dorcot followed Ren out to the road and then to the end of it. Ren laid out the size of the building he wanted and Dorcot scratched his bald head.
+
+“You're covering nearly 50 feet of road, you know.”
+
+Ren smiled. “I need the paving stones for the floor, and rather than tear them up and dig another spot for them, it's just easier to build over the road.”
+
+“That makes sense.” Dorcot said and started moving the boards they'd need for the walls, all along the planks Ren had used to show what he wanted. Ren did the same on the other side and then added in the 4x4s as supports for the corners and the roof.
+
+“Are you doing a pitched roof?” Dorcot asked and Ren nodded. They added extra lumber for the roof in seperate stacks, along the sides. “I assume you have some woodworking tools?”
+
+Ren grinned and took out his large woodworking toolbox and opened it.
+
+Dorcot whistled. “Yeah, I think that might be enough.” He said and laughed.
+
+They made all the walls first, in 8 foot sections, for the entire building. With the 2 of them working at it, it only took an hour and they were finished of the walls. They were stood up and nailed together, leaving room for a door and a large entryway where the silt was continuously being dumped. The 4x4 supports for the roof and cross braces, were next. If Ren hadn't had a second pair of hands, he wasn't sure if he could have held them in place and still nailed both ends without dropping something.
+
+Knowing they needed three 8 foot length boards to cross the distance, they make triangle trusses to support the roof. 3 planks across, half a plank high, and 2 planks down on an angle on each side, made the shape that they needed. They nailed planks between each other plank to add extra support, and cross members to hold the triangle shape. It ended up using 12 planks for each truss, and they made 31 of them, spaced a foot and a half apart. They were positioned all along the center support as trusses, and once they were secured, it was a simple matter to run planks all along the roof and nail them in place. Once they were done 2 hours later, Ren made a door and hung it in the spot they'd left for it. He stepped back and smiled.
+
+“Now there's a nice piece of workmanship.” Ren said and held a hand out to Dorcot. “Thank you for your help, Dorcot.”
+
+Dorcot took his outstretched hand and shook it. “It was nice to get my hands dirty again.” He said. “I don't remember the last time I got to do something like this.”
+
+Ren let the handshake go and turned to him. “Why is that?”
+
+Dorcot shrugged. “I was in high demand for a while, found a good wife and married into her House. I had clients like you wouldn't believe.”
+
+Ren smiled. “The King and Queen.”
+
+Dorcot snorted. “Not hard to guess, huh?” He smiled. “The thing is, once you cut up everything that they had, there's wasn't anything left to cut anymore.” Dorcot sighed. “I had a few Gemcutting jobs afterwards, but that was years ago. I've just been sitting around most of the time and doing odd jobs. The wife's been working as a secretary for House Longore ever since.”
+
+Ren's eyes widened as he remembered the tiny little dwarf with the squeaky voice. “She's your wife?”
+
+Dorcot nodded. “Cutest little thing I ever saw.”
+
+“I won't argue with you there.” Ren smiled. I could, but I won't. “Is House Longore your House?”
+
+Dorcot shook his head. “No, we're commoners in House Lodur. They own the mines, and a good portion of the countryside down that way. My wife's brother was really fortunate to get the foreman's job at the mine.” He said. “It's not very often that commoners like us get high ranked positions in Houses like that.”
+
+“That's for sure.” Teepo said. “It's really hard for the lower class to get good jobs, with most of them taken by main family members.”
+
+Ren nodded slightly, then put a hand on Dorcot's shoulder. “Well, my friend. I made you a promise, didn't I?”
+
+Dorcot's eyes widened and then his smile matched it. Ren grabbed some of the lumber planks and a 4x4. He cut the 4x4 into 2 foot pieces to make the legs of a workbench, then added several drawers on one side and a large one across the center, just like the sitting table he'd made for Lucy back at his apartment. When Ren thought of Lucy, he paused working for a minute, sighed, and kept going. He added a back section for tools and things to be hung, and then several shelves. When the workbench was finished, he made a chair for Dorcot to sit on, and then stored them.
+
+“Damn, boy... did you just make a workbench from memory?”
+
+“Kind of.” Ren said. “I added in extra drawers and the back for tools. I wasn't sure what you'd need, so I gave you several options.”
+
+Dorcot shook his head. “People would pay a good amount of money for a custom made workbench.”
+
+Ren smiled. “I've got way too much on my plate to take a bite of something else right now.”
+
+Dorcot chuckled. “I saw.” He said and waved a hand at everything going on.
+
+“Come inside, and I can get you set up.” Ren said and opened the door to his new workshop. It was 45 feet long, 24 feet wide, and easily expandable as everything was made in sections. Ren walked over to the far corner, well away from where he would be building his forges. He took the desk and chair out of inventory and placed them near the wall.
+
+“How do you want this set up?” Ren asked. “You're the expert.”
+
+“Against the wall in the corner is fine.” Dorcot said. “I don't know why you're going through all this trouble, just to let me cut up one diamond crystal.”
+
+Ren chuckled. “Dorcot, I've told you some of the trouble I've been in. This is no trouble at all.”
+
+“Alright.” Dorgot chuckled, sat in the chair, and waggled his fingers in a 'gimmie' gesture. “Hand it over.”
+
+Ren took out the fist-sized diamond crystal and handed it over. Dorcot examined it and whistled.
+
+“By the gods. Where did you get this?” He asked. “It's perfect!”
+
+Ren shook his head. “I can't tell you yet.”
+
+Dorcot looked at him.
+
+“It is from land that I own, but I'm keeping it a secret for now.”
+
+Dorcot nodded slightly. “I'll stop prying, then.”
+
+“Take your time, Dorcot.” Ren said. “Show me what you've got.”
+
+Dorcot grinned. “I might not have used my skills in years, but it's something that you never forget.”
+
+Ren nodded slightly and went outside to the pile of stone bricks that he'd ordered from Barnar, and stored them. Ren ran to the work area Barnar had set up to see how the progress on the exterior wall was coming along.
+
+“Wow.” Ren said as he saw half the crew making mortar and the other half were cleaning the old mortar from the wall. Several stones slid out when this happened and they were replaced with others that were freshly cut and covered in mortar. “You guys are great!” Ren exclaimed and several workers laughed. “I wish I had the time to help.” He said to Barnar, who was standing at his customary workbench and looked at Ren's latest idea.
+
+“I haven't doubted any of your ideas so far...” Barnar said to Ren. “...but this...” He said and waved a hand at the extra large cake icing bag. “I don't know what to think of it.”
+
+“This is the only idea I've had that you're going to question?” Ren laughed and Barnar joined him. “I'll get Narhilda out here, and she can show you what to do.” Ren said. “She's the one who taught her daughter, and her daughter taught me.”
+
+“Okay, but I'll only believe it when I see it.” Barnar said, sceptically. Ren went inside the house and asked Narhilda to come out and show the stonemason how to use the cake icing bag. Narhilda agreed, smiled, and held her hand out for Ren to take. Her daughter sighed and rolled her eyes.
+
+“Just humor her, Ren.” Nathalia said. “She's in a playful mood today.”
+
+“Of course.” Ren smiled and took Narhilda's hand. “My Lady. This way, please.”
+
+She giggled as Ren led her out of the kitchen. He concentrated on his Aura, and Narhilda caught her breath. They walked out through the gate and over to the stonemason's work area, and several workers turned their heads to watch as they passed.
+
+“Barnar, I'd like to introduce you to the Lady of the House.” Ren said. “Lady Neram, this is Barnar Slatebreaker.”
+
+Barnar turned to look at her, and he inhaled a deep breath. Ren let Narhilda's hand go and stepped aside. Barnar stepped close, gently took her hand and bent over it.
+
+“Lady Neram, it is both an Honor and a pleasure to meet you.”
+
+Narhilda's eyes widened and she blushed slightly. “It's a pleasure to meet you as well.”
+
+Barnar reluctantly let her hand go and motioned to the extra large icing bag. “Ren says this will fill cracks in the mortar, without having to remove the whole stone.” He said. “Can you show me how it works, Lady Neram?”
+
+“Of course I can.” She said and stepped to the workbench to show Barnar how to properly fill and squeeze the bag, to get the most use out of the contents.
+
+“I'll leave you to it.” Ren said and Barnar quickly shooed him away behind Narhilda's back. Ren smiled as he went back to his workshop to make the forge that he needed.
+
+That was unexpected.
+
+“Tell me about it!” Teepo exclaimed. “He just met her, and he's already sweet on her!”
+
+*
+
+“Lady Neram... you're an expert cook, aren't you?” Barnar said, and she nodded slightly.
+
+“I learned from the best teacher I could have had when I was young.” She said. “My mother.”
+
+“Then your House is truly blessed.” Barnar said, then continued boldly. “Both with talent and with beauty.”
+
+Narhilda took a quick inhale of breath, and then sighed. “Mr. Slatebreaker...”
+
+“Barnar, please.”
+
+Her eyes widened at him giving her permission to use his given name. “Barnar.” She said and smiled. “As you can see, I'm still in mourning. I've got another 3 years before...”
+
+“Lady Neram.” Barnar said. “Having to wait 3 years is nothing, compared to meeting a woman like you.”
+
+Narhilda blushed and kept smiling.
+
+*
+
+Ren built a normal-sized forge at the far end of the workshop, using about 20 bricks, and enchanted it with the same glyphs as before. He could have used the double glyphs that he had access to, but he didn't know if that would change how the forge itself worked, so it was safer to go with what he knew. He attached the smelting apparatus he'd bought in Aurora. He'd had it stored since he'd had to make a larger one for the bigger forge back at his business.
+
+Ren activated the forge and ran outside to grab several pieces of ore and ran back to add them to the smelter. He took out the 2 molds that he had, one square blank and one long and thin blank, and put them aside. He took out several stone bricks and put them on the floor in front of the forge, to make a 1 foot long trench, an inch wide. He checked if the ore was melted and skimmed off some of the impurities. He ran outside and grabbed several more pieces of iron ore and put them in the smelter, until it was nearly full. He waited until it melted and skimmed of the rest of the impurities and poured out some into the trench he had on the floor. He took out a wind brick and cooled it off, used his tongs to take the 1 foot long, 1 inch wide iron bar and put it aside, then poured another. Ren repeated this process, grabbing more and more ore, smelting it into small iron bars, until he ran out of ore and had several hundred, 1 foot long and 1 inch wide iron bars.
+
+“Well, that went faster than I thought.” Ren said when he poured the last of the smelted iron into the improvised mold and deactivated the forge. “This should be enough to start, though.”
+
+Dorcot turned around and looked at Ren. “To start what?”
+
+“Repairing the Keep.”
+
+“You could just get the Stonemason and his crew to do that.” Dorcot said.
+
+Ren shook his head. “It's too dangerous to have a bunch of people down there, tearing up the walls.”
+
+“But it's not too dangerous for just you?” Dorcot said and chuckled.
+
+“I know what I can do, and what I can risk, without hurting anyone else.” Ren said. “I won't have a mistake that I might make, potentially hurt or kill someone else.”
+
+“That's an honorable outlook to have.” Dorcot said. “You're going to increase the time needed to repair it like that, though.”
+
+“That depends on if my idea works or not.”
+
+Dorcot nodded. “Then I hope it does.” He said, then waved Ren to come over. “I'm just about done.” Ren walked over and looked at the gleaming diamond gemstone that sat in the middle of the workbench.
+
+“Wow.”
+
+“It came out well.” Dorcot chuckled and gave it one last polish with his diamond dust encrusted cloth. “Even I have to admit that.”
+
+“You said, 'It came out well'?” Ren repeated, surprised. “You barely lost any of it's weight!”
+
+Dorcot laughed. “I thought it would be a shame to cut the thing up into smaller pieces.” He said. “Once I started adding the facets, it just came to me to make it a diamond oval instead of any other cut.”
+
+Ren picked it up and examined it.
+
+Diamond - Oval (Large - Expert Quality)
+
+This diamond was cut and polished with exquisite care by an expert Gemcutter.
+
+Ren used Appraisal on it, and nearly dropped it.
+
+“It... it's worth... 50 platinum!”
+
+Dorcot laughed again. “Good luck selling it, though. No one that I know of would buy it... and that includes the King and Queen.”
+
+Ren grinned. “Don't worry about that, my friend.” Ren said. He didn't tell the dwarf that one of the standard options he had as a business owner, was to sell items back to the system at a 10% loss. No one ever did it, since losing 10 gold for every 100 was a bit too much to lose on every sale. It would definitely add up to a lot of lost money if Ren kept doing that; but, there wasn't anywhere else to sell them anyway. Ren stored the diamond oval and looked at the pieces on the workbench.
+
+“Are you going to finish those?” Ren said and indicated the pieces.
+
+Dorcot shrugged and made short work of them. Ren took out the cloth that held the other diamond dust, Dorcot swept the new dust into it, and Ren tied it up again and stored it. He picked up the half dozen diamonds and handed them to Dorcot, who added them to his pile and then handed all of them back to Ren.
+
+“You better take these.” Dorcot said. “I can't sell them, either.”
+
+“I'll use them as accents or something.” Ren said, and handed him 20 gold.
+
+“By the gods, what's this for?”
+
+“You just sold me those diamonds.” Ren said. “Less 10%, of course.”
+
+Dorcot opened his mouth to protest, then changed what he was going to say. “You're crazy.”
+
+New title!
+
+You have impressed enough of the locals with your eccentricities and have earned the title: Crazy Like A Fox
+
+Ren laughed. “I've been hearing that a lot.” He put a hand on Dorcot's shoulder. “Wait here for a few minutes, will you?”
+
+Dorcot nodded slightly and Ren handed him a 3 inch diamond crystal. “You can play with that until I come back.” He said to Dorcot's surprised face and left the workshop. Ren walked back towards the house. “Show info for title: Crazy Like A Fox.”
+
+Crazy Like A Fox
+
+Everyone knows that extremely intelligent people are a little crazy. Some believe that crazy people are actually wise. Your ideas have changed the way people look at things, which makes you a rare combination of both. This title grants you:
+
+Intelligence: +20
+
+Wisdom: +20
+
+Ren walked to the front of the house and saw that Narhilda was now showing the workers how to use the icing bag. Ren had made a half-dozen yesterday, after Barnar had asked him if he had any other ideas in his 'big brain'.
+
+Narhilda is busy... I better ask Nathalia.
+
+“Ask her what?” Teepo asked.
+
+About offering Dorcot a position in our House.
+
+“Well, it's not without precedent.” Teepo said. “Are you offering it to just him, or to his whole family?”
+
+I don't know. Ren thought as he walked through the gate at the front of the house. That's why I wanted to talk to Narhilda. She's the Lady of the House. Accepting Dorcot as a retainer is something she should have the final say in.
+
+“I agree.” Teepo said. “I wonder what she'll say.”
+
+I'll talk to Nathalia and get some idea. Ren opened the front door and smelled something delicious. He took a deep breath in through his nose and exhaled through his mouth; then creeped through the main room and into the kitchen. He came up behind Nathalia and slowly slid his arms around her to catch the bowl she had in her hands.
+
+“Is that vanilla I smell?” Ren whispered in Nathalia's ear.
+
+“AH!” She exclaimed and dropped the bowl.
+
+Ren caught it easily and set it on the table, then hugged her from behind.
+
+“REN! You scared me!” Nathalia said and punched one of the arms holding her.
+
+“Sorry.” He said and grinned. “I've still got Sneak on.”
+
+“You're not sorry at all.” She said, then leaned back into him. “You don't have to sneak up to get a hug, you know.”
+
+“I do if I want to do this.” Ren said and kissed the side of her neck. Nathalia giggled and shivered.
+
+“Don't... don't.” She said, and tried not to laugh. “I'm trying to make pastries.”
+
+“I'm not stopping you.” Ren said and rested his chin on her shoulder.
+
+“I can't reach the cookie sheet now.” Nathalia said and put down the spoon she was using, and turned around in his arms to face him. “You're going to have to reach for it.” She said in a sultry voice, then smiled.
+
+Ren started to reach for the cookie sheet, but since it was now behind where Nathalia stood, she had to lean back over the table as he leaned forward. She snaked her arms around his neck to hang on, and then one of her legs wrapped around his to keep her balance. Ren's finger touched the cookie sheet and he hooked it with a fingertip.
+
+“Ahem.”
+
+Ren and Nathalia looked to where the voice was, and saw Narhilda standing there with her arms crossed.
+
+“I'd ask you what you think you're doing, but it's pretty obvious from where I'm standing.”
+
+Ren looked down at Nathalia and saw that she was practically laying on the table, and had her leg and arms wrapped tightly around him; and he was leaning on top of her, with an arm around her back.
+
+“You're cooking.” Narhilda said and snorted a laugh. Ren started to laugh and stood up, and dragged the cookie sheet over. Nathalia held on and stood up, then laughed as well.
+
+“That's right, Ma.”
+
+Narhilda came over to the table and looked at the bowl. “Pastries.” She said. “Are they for the workers?”
+
+Nathalia nodded slightly and turned around to roll out the dough. She did, folded it over, and rolled it out again.
+
+“You've got perfect timing.” Ren said to Narhilda, and Nathalia chuckled.
+
+“That could be argued.” She said as her face flushed a little red.
+
+Ren kissed Nathalia's cheek and walked around the table. “I meant for what I had come in here for.”
+
+Nathalia looked at Ren in surprise. “You came in here to do that to my mother?!?”
+
+Ren laughed. “No, I actually came in here to talk.”
+
+“About what?” Narhilda asked.
+
+“What does it entail to have someone from another House to either work for, or join, another House?”
+
+“I take it you want to offer Mr. Gurihm a job?”
+
+“I do.”
+
+“His current House can issue a temporary work order, and until a job is finished, they can work for as long as there's work.”
+
+“What are the strings?” Ren asked as he watched Nathalia cut up the dough into squares. She added a spoonful of apple filling, folded them over, and crimped the edges.
+
+“The what?”
+
+“Strings.” Ren said, turning back to her mother. “Conditions set by the House for allowing the work order.”
+
+“Oh.” Narhilda said. “Yes, there's conditions. The House gets a large percentage of any wages paid, usually up to 40%, and they have to live in the House's district and commute to the new job.”
+
+“Geez, 40%?” Ren said. “That's kind of ridiculous.”
+
+“It can be higher, but most Houses want the income from outside jobs, so they usually drop that to around 30%.”
+
+Ren thought about it for a minute. “What about transfering or joining another House?”
+
+“That's a little more complicated.” Narhilda said. “You'd have to petition the House, stating the job required to be filled, then pay an amount equal to a year's work that they would have done if they'd stayed.”
+
+“He doesn't work, except for some odd jobs, so that's no problem.” Ren said. “What about his family?”
+
+“If it was a woman, she automatically takes the family with her.” Narhilda said. “If it's a man, he'd have to petition his House for her to go with him. Then they can choose if any children go with them.” She said. “Houses really are like small businesses. You can have members of the same commoner family in different Houses. It's not the same for the royalty, though. Only men can marry into a family there, royal or not, and they take the family's last name.”
+
+Ren smiled. He knew that part. “With your permission, I'd like to offer a job, and a possible transfer to House Neram.”
+
+“Are you sure?” Narhilda asked. “We've never had anyone who wanted to come and live in this district before.”
+
+“I wondered why your lot was 2 square miles and nothing else was on it.”
+
+Narhilda chuckled. “What was it my husband used to say, Nathalia?”
+
+“Being a tailor wasn't as flashy as all the other professions. Who wants to live next to a tailor?” Nathalia said and put the pastries in the oven.
+
+“I do.” Ren smiled. “Actually, I bought the building right behind a tailor back in Aurora.”
+
+“You did?” She asked.
+
+“It was her old storage space.” Ren said. “It also cost 50 platinum.”
+
+Nathalia's mouth dropped open and she stared at Ren.
+
+“By the gods!” Her mother exclaimed. “50 platinum! That's... that's...”
+
+“Outrageously expensive.” Ren said and smiled. “I could buy a good chunk of the countryside here for that.”
+
+Neither woman said anything and Ren took out the large diamond oval that Dorcot had cut for him. “Or I could buy this.” He said and held it up. The gem gleamed in the sunlight, making multiple colors fly across the room.
+
+“Is that real?” Nathalia asked.
+
+“It sure is.” Ren said and handed it to her. “Dorcot cut it for me.”
+
+Narhilda leaned in to look at the gem as her daughter held it. “This is what you want to hire him for?”
+
+Ren nodded slightly. “I've got all these diamond crystals, that I can't do anything with until they're cut. I'm too busy right now to do anything with them myself.”
+
+“Then go ahead and invite him.” Narhilda said and took the gem from Nathalia. “His skills should not be wasted.”
+
+“That was my thought, too.” Ren said as she handed him the diamond. “I'll go and ask him.” He said, stored the gem, then bowed to Narhilda. “My Lady.” He turned to Nathalia and bowed. “My Lady.” Ren left the house and ran back to the workshop.
+
+*
+
+“How many of those does he have?” Narhilda asked her daughter.
+
+“His inventory is full, so he has a lot.” Nathalia said.
+
+“Oh, my.” Narhilda fanned her face with her hand.
+
+“That's not counting... what did he say? Oh, right.” Nathalia said. “A mountain full of them.”
+
+“Oh... my...” Narhilda nearly collapsed into the chair.
+
+*
+
+Ren entered the workshop and walked over to the workbench he'd made for Dorcot.
+
+“Finished already?” Ren asked and Dorcot handed over the cut gem. Ren appraised it at 10 platinum, stored it, and smiled.
+
+“Dorcot, after your help building my workshop, I'd like to offer you a job as a general laborer.”
+
+“I'm sorry, but no.”
+
+Ren blinked a few times. “Can I ask why?”
+
+“House Lodur is the richest House on this side of the water. I thought joining it would have been the best thing for me, and it was for a while; but, look how it turned out.” He said. “They're already taking 35% of my wife's income, because they 'couldn't find her a job' in her own House. She's been a receptionist for years now, and we're barely making ends meet. I won't give them 35% of what I'd make if I worked, too.”
+
+Ren looked at the 6 small diamonds on the workbench and smiled. “What if I offered you more than that?”
+
+“I told you, they're already-” Dorcot started to say, then stopped speaking when Ren raised a hand.
+
+“I meant, I'd like to offer you a position in House Neram. As in, I want you to transfer here.”
+
+Dorcot's mouth fell open. He didn't say anything for a full minute, shook his head, and smiled. “You're kidding, right? There hasn't been a transfer out of House Lodur in as long as I can remember.”
+
+“I'm not kidding. I was just discussing it with Lady Neram. That's what took me so long.” Ren said. “She told me to go ahead and make the offer, because she didn't want your skills to be wasted.”
+
+Dorcot sat in silence for another minute. “She really said that?”
+
+Ren nodded slightly. “I told her that I had the same thought, too.”
+
+“But... what about my wife, and her job?”
+
+“You'll have to petition for her to come with you.” Ren said. “She can keep her job, but we'll re-negotiate her contract. 35% isn't good for House Neram.”
+
+“And what amount would be good?” Dorcot asked, with squinted eyes.
+
+“Somewhere around 1%. I don't think I can go any lower than that.”
+
+Dorcot stared at Ren like he was crazy, and Ren laughed. “You've seen this.” He said and took out the large diamond oval. “I don't really need to garnish your wife's wages for the House, do I?”
+
+Dorcot smiled. “I guess not.” He said. “What about the kids?”
+
+“You can choose if you want them to come along or not.” Ren smiled and stored the gem again. “If they have good paying jobs with the House, or marriage prospects, or kids of their own...”
+
+Dorcot nodded slightly.
+
+“Or I could approach your wife and petition for her to join, and the rest of the family will have to come along.” Ren said.
+
+Dorcot's eyes widened and he shook his head. “No, no... you're right. If I do this... it'll be me, and possibly my wife. Not the kids. They have lives of their own.”
+
+Ren smiled. “You don't have to accept right away. Go home, discuss it with your wife, and let me know.”
+
+“How long do I have to decide?”
+
+Ren put a hand on his shoulder. “This isn't a decision to make quickly. Take your time.”
+
+Dorcot nodded and stood. “I'll go and talk to my wife, and see what she says.”
+
+“That's all I can ask.” Ren said.
+
+“By the way, how many of those diamond crystals do you have?”
+
+“Are you sure you want to know?” Ren asked. “I don't want to influence your decision.”
+
+Dorcot nodded slightly. “It will influence my decision; but, if you only have a few more hidden away...”
+
+“Well, okay...” Ren said and took out the crate he'd filled with diamond crystals. He opened the crate and it was filled to the top. “...I have a few.”
+
+“BY THE GODS!” Dorcot said and picked up a 4 inch wide diamond crystal in each hand. “By the gods...” He looked at Ren with a maniacal glint in his eye. “I'll be back in an hour.”
+
+Ren followed Dorcot to the door and watched him walk down the paving stone road. When he got to the main road and took the corner into the city, he was passed by 6 carts, that carried 2 women each.
+
+“It must be close to supper.” Ren thought as the carts pulled up in front on the workshop. The women all helped to empty the carts and then they all stood by their carts. “Shovels, please.” Ren said and they held them out for him to inspect and repair. He did so, and as he walked along, he examined their clothes as well. He took out the Master Tailor's Sewing Needle and used Repair all of the clothes. They oo'd and ah'd as their clothes repaired themselves, and had smiles from ear to ear when Ren was finished.
+
+“I saw that you all did a wonderful job today.” Ren said, and beamed a smile at them. “Do you see the pile there?” He said and pointed. “Nearly 200 cart loads in just 8 hours.” Ren could almost feel it as pride filled the women. “That's outstanding!” Ren exclaimed. “I'm glad that you listened to my advice, and took your time.”
+
+“It was easy, sir.” “I work harder in my kitchen.” “He has nice hair.” “You're still married, Mari.” “Dammit.”
+
+Ren chuckled and approached the first cart. Ren handed the driver 2 gold coins, and she gasped.
+
+“Sir! This...”
+
+“Oh, right! Sorry.” Ren said. “Just a minute.” He ran back to the house and into the stable, and stored one of the bolts of cloth. He ran back to the group of women, and they had surprised looks on their faces.
+
+“What?”
+
+“How... how fast can you run?” One woman asked.
+
+“You can get to town in about 5 minutes.” Teepo offered.
+
+Thanks, Teepo.
+
+“I can get to the main city in about 5 minutes.” Ren said, and heard several gasps. He pulled the table he had at the campsite out of inventory, and put the bolt of cloth on it. He cut out 18 coin pouches and sewed them up in only a few minutes, and gave one to each woman. “I keep forgetting that a lot of people can't make change.” He said and smiled. “Now you can.”
+
+“Wh-what!?!” Most of them said.
+
+Ren chuckled. “It's a coin pouch. You put in what you have.” He took the 2 gold he gave the first woman and put it in her pouch. “Then if you want silver or copper, just reach in...” He did, and pulled out 2 silver and a handful of copper. “This way, you won't have to worry about carrying change around anymore.”
+
+The women just stared at him like he was crazy, and Ren chuckled. He didn't realize that they'd never even had change to worry about before.
+
+“Equip the coin pouches, please.” Ren said and they did, and the pouches appeared at their hips. He went along and gave 2 gold coins to each woman and told them to put it in the pouch. When he was done, he stepped back and grinned at all the shocked faces.
+
+“There you go.” Ren said. “I hope to see you all again tomorrow.”

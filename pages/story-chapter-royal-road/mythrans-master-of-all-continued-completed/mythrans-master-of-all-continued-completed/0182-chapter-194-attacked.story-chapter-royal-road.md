@@ -1,0 +1,365 @@
+---
+id: 1a1f905a-f15f-520c-98e3-675c5db35444
+page-type-slug: story-chapter-royal-road
+title: "Chapter 194 - Attacked"
+slug: 0182-chapter-194-attacked
+partOf: mythrans-master-of-all-continued-completed
+position: 182
+ownLength: 4209
+unit: words
+publishedAt: 2017-03-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123302/chapter-194-attacked"
+royalRoadId: "123302"
+---
+
+“I can't believe you're giving me all of this money.” Jen said once she stopped laughing, then shook her head.
+
+“It's a loan.” Ren said and kept grinning.
+
+“That will take 250 years to pay back!” Jen snorted. “It's like you aren't even interested in getting it back.”
+
+Ren winked at her. “I did say 'one gold a week, and no interest'.”
+
+“You're crazy!” Jen shook her head again. “How can you be so... so...”
+
+“Generous? Because I can.” Ren said. “When I started out, I was scrambling to make my first silver, then my first gold.” He smiled. “It was a much simpler time then.” He sighed. “So much has happened since then, though.” Ren looked at Jen. “Now that I do have money, I have no problem with helping out friends when they need it.”
+
+She put a hand on his arm. “Thank you.”
+
+“Don't thank me yet.” Ren said. “I still need the plans for this reconstructed building.”
+
+Jen smiled and took out the old plans for the building. The crew came over to them, they all gathered around in a circle, and discussed the best way to handle it. Jhulune stood beside Ren, and he felt a hand lightly touch his lower back. When he didn't mention anything, or move away from her probing hand, Jhulune slid her hand across his lower back and rested it on the back of his hip. It was the first time Ren had been held quite like that, and he kind of liked it.
+
+“I think the roof is what's going to give us the most problems.” One of the crew said. “Joining the walls, here, here, and here...” He pointed to the corners of the two buildings. “...that's a piece of cake. Taking out the supports on the inside, and removing the walls that hold up each of the roofs, is another story.”
+
+“That's a good point.” Jen said, and looked at Ren. “Do you think we can get away with just an arch in the middle, or something?”
+
+Ren looked at the plans. “Well, if we extend the building here to the corner of the lot, and took off the roof ends here, and here... then joined them together... the kitchen can go into a single section here, behind the support walls that would hold the roof up where they join.” He smiled. “I can even make a small outdoor seating area here on the outside corner, too.”
+
+“Sounds like a plan.” Jen said, and looked at the crew. “Well, what are you doing just standing here?” She asked them and laughed. “Get to work!”
+
+“Yes, Ma'am!” They all said together, and went to the cart to gather supplies. Ren felt the hand on his hip linger for a moment, then it disappeared. Surprisingly, he missed it's comforting warmth and turned to see Jhulune as she grabbed some tools from the cart. She wore the same work pants that she had worn the other day, and he could see the strap of the bra he had given her through her thin t-shirt. Ren looked at the cart, and saw two of the crew as they lifted out one of the prefab wall sections, and watched as they carried it over to where it was to be attached. He then helped Jen make the official alterations on the plans, and memorized a copy for himself to make back in the Dwarven Kingdom. By the time he'd done that, they already had the corner made, and were tearing off the ends of the roofs.
+
+“Your crew is getting faster and faster.” Ren commented.
+
+“More hands makes faster work.” Jen said.
+
+“More experienced hands makes faster work.” He said and smiled. “Just having help isn't always the best option.”
+
+“Okay, that's true.” She said and smiled. “You're lucky that we just stopped working on the city repairs for the day.” Jen grinned. “You'd be waiting until tomorrow for this, otherwise.”
+
+“Thanks, Jen.” Ren said. “I appreciate it.” He smiled. “I've got another errand to run, so I'll leave you to it.”
+
+“Just a second.” Jen reached into her own coin pouch and handed Ren a gold coin. “Here's the first week's payment.”
+
+Ren took it from her, gave her a slight bow, and walked down the street.
+
+*
+
+Jen watched him walk around the corner of the next street, and shook her head. If I didn't think getting involved with him would be more trouble than it was worth... She thought and shook her head. I can barely handle him now, and we're just friends!
+
+*
+
+Jhulune was in a good mood, and felt a little naughty; because she'd gotten away with giving Ren a kind of one-armed hug, and no one had noticed. She smiled. He didn't push my hand away, either!
+
+*
+
+Ren went into Sally's Shop and looked around. He saw one of Lord Neram's designs hanging in her display, and smiled.
+
+She should like these other ones, too. Ren thought, as he waited for Sally to finish up with a couple of customers. They bought their ordered items, and left the shop. He turned around and smiled at her, and her face flushed a little red.
+
+“Ren!” Sally said. “I didn't see you come in.”
+
+Ren chuckled. Since he always had Sneak on, it was easy to be quiet all the time. “Sorry, Sally.” He said. “You were busy with customers, and I thought it was only polite to not bother you.”
+
+Sally nodded and waved him closer. “You always were a little sneaky.”
+
+“That's not a shot at my height, is it?” Ren grinned at her and gave her a hug as she laughed.
+
+“No, dear boy.” Sally said, squeezed him tightly for a moment, then let him go. “I take it you've got a bit of spare time for me today?”
+
+Ren nodded. “And a few more designs, if you want.”
+
+“Please!” Sally said, excitedly. “I've already had several orders for the few you gave me already.”
+
+Ren asked for some parchment, as he didn't have any left, and he drew out a few outfits and the patterns needed for their pieces.
+
+“Oh, these are wonderful!” Sally exclaimed. “The cuts alone are masterpieces.”
+
+Ren chuckled. “Yeah, I was surprised at how easy it is to move in the clothing, even though it looks like you'd be stiff as a board wearing them.”
+
+Sally nodded. “Yes, they are very well designed.” She looked at him. “I visited your store yesterday.”
+
+“You did?” Ren asked. “What did you think?”
+
+“I wasn't really interested in most of it.” Sally said and did a little half-wave with a hand. “I'm not into tools and weapons.”
+
+Ren nodded, and she continued.
+
+“I really liked the outfits you designed, though.” She smiled. “I have no idea what it was that was wearing them, though.”
+
+Ren laughed. “They're training dummies.”
+
+“Training dummies?!?”
+
+“Yeah, fake humanoids made of wood that you practice on.” Ren said. “Usually with weapons.”
+
+“And you have them wearing clothes in a display.” Sally shook her head. “You have some strange ideas.”
+
+Ren laughed again. “You have no idea.”
+
+Sally laughed, and her face flushed a little more red as she thought about what some of those ideas might be. He might even want me to take off my socks! She thought, and laughed harder. They both enjoyed a good laugh for a minute, then Ren sighed.
+
+“I better get back to the shop.” Ren said. “I've got a bunch of repairs to do before I go home.”
+
+“Okay, dear.” Sally said. “Give me another hug before you go.”
+
+Ren hugged her closely, and she smiled down at him.
+
+“Make sure you have fun sometimes.” Sally said. “You can't work all the time, okay?”
+
+“Don't worry about that, Sally.” Ren chuckled. “I've been having fun this whole time.”
+
+She nodded and let him out of the hug. “See you later, Ren.”
+
+“Bye, Sally.” He said. “I can't promise I'll be back to visit soon.” He smiled. “But, I'll try my best.”
+
+“That's all anyone should ever ask of you.” Sally said and smiled. Ren gave her a regal bow, and left the shop.
+
+*
+
+That boy! Sally thought as she sat down and waved a hand in front of her face, flustered from Ren treating her like royalty. She started to laugh again, as she realized she actually wouldn't mind if he did try to take off her socks.
+
+*
+
+Ren ran back to his own shop and went inside. There wasn't any customers inside, so he waved at Anabelle, who sat at her desk all prim and proper, then went to the forge and the shelves of items for repair. It only took about 10 minutes to fix everything, and he went over to Anabelle.
+
+“How is every-”
+
+*BANG*
+
+The front door to the shop flew open, and Elerlyth stumbled in. She was in full armor, and it was beaten and dinged, scratched and clawed, and several chunks were missing. Ren didn't notice that, however. What he did see, was that she was nearly only skin and bones and had practically withered away.
+
+“By the GODS!” Ren exclaimed and rushed over to her. She saw his face and tried to smile, but then she collapsed. He caught her easily, and was afraid to hold her too tightly; because she looked like she might just break and die if he did hug her like he wanted to.
+
+“What happened?” Ren asked as he concentrated on their shared brooch and the Spider Aura... and nothing happened. He equipped his Dire Wolf Hooded Cloak, concentrated on his Fear Aura, and connected his Screaming Terror ring. He couldn't feel her taking anything, though.
+
+“Met... met... others...” Elerlyth whispered, and it sounded like two pieces of sandpaper had rubbed together. “...like... me...” She swallowed loudly. “...took brooch...”
+
+Ren saw her tongue was just as withered as the rest of her. “Oh, Elerlyth.” He said, and tears came to his eyes as he kissed her dried lips. He opened his heart, and poured out everything he felt for her, through his mouth and into hers. He pushed as much of it inside of her as he could, and her eyes widened as her lips started to fill up. Her tongue healed a little, and she gathered enough strength to reach up with a bony hand. She cupped the side of his face as he kept kissing her, and she felt his emotions touch that part of her that housed her ability. She sighed, and Ren broke the kiss and leaned back.
+
+“I'm going to move you now.” Ren said, and she nodded the little bit that she could. He picked her up easily, held her in close to his chest without squeezing her, and walked to the back of the store. “Close the store and lock up, Anabelle.”
+
+“Of... of course, My Lord.” Anabelle said as she tried to not stare at the withered thing Ren carried. “Right away.” She ran to the door and locked up, then covered the windows with the dark curtains.
+
+Ren took Elerlyth up the stairs and into the apartment, then into the bedroom. He gently laid her on the bed, and examined her. He saw several severe injuries and the tears kept flowing. One of her hands was broken, and there was a stab wound in her upper arm. Slashes covered her legs, what there was of them that he could see, and the armor looked like it had been grabbed and crushed in one spot. He'd lost count of how many arrow and crossbow bolt tip dents were in the armor.
+
+“How in the world did you get here?” Ren asked her as he wiped away some of his tears.
+
+“Had... had to get to you...” Elerlyth whispered, and it almost sounded like her. “...need you...”
+
+“Store your armor and bodysuit.” Ren ordered her, and she shook her head.
+
+“They... drained me...” Elerlyth held a bony hand up. “...it looks... bad...”
+
+“Like that matters to me.” Ren said, stored his clothing, and left himself with his underwear and the Dire Wolf Hooded Cloak. “What matters is skin contact; and if you can stand it, I'm going to wrap myself as much around you as I can.”
+
+“...oh, Ren...” Elerlyth said, and he could see her struggling to select the armor and bodysuit to store them. When they vanished, Ren could see just how bad it was. He ran his hands along her once athletic legs, and only felt bone and skin. His hands passed over her hip bones and touched her stomach, and he could swear he could feel her spine. Ren let his tears cover her skin; and when he got to her chest, the dried and withered flesh of her once beautiful mounds nearly broke his heart.
+
+Ren kissed them gently, almost feather light, and poured everything he felt into Elerlyth. Her bony hands ran through his hair, and the fingertips scraped along his skull. He climbed into the bed and laid down beside her, and pulled her close. He heard her gasp, as her bones clanked together and the joints didn't quite work right.
+
+“I can't use a wand to heal you, or you might be permanently like this if I do.” Ren said. “I've got to fill your ability first.”
+
+Elerlyth's eyes looked like they were trying to cry; but, there wasn't any spare fluid at all inside of her. Ren cupped the side of her face, and he felt only jaw and cheek bones. He kissed her, and since her lips were a bit fuller than they were when he first started, it didn't hurt her as much; so he wrapped his arms around her, and let all of his feelings pour out and into her. It took about an hour for there to be enough flesh on her body for them to join together, and once they did, something inside Elerlyth clicked. She gasped and cried out as she gripped him tightly. With a combination of pain and pleasure, she pulled as much of him into herself as she could take; both emotionally and physically, while they made love.
+
+Over the next two hours, Ren pleased her many times. Her body shook from the sensations, and Elerlyth drank down everything he felt. His near heartbreak over her condition was the sweetest thing she'd ever tasted; and he let her take everything that he had. She felt his deep regret that she didn't have the brooch, so they could share it all together; and she drank that down, too. When they got to the point that she had a good amount of flesh on her, her multiple wounds started to bleed. Ren tried to stop so he could heal them, and she rolled over on top of him and held his arms.
+
+“Its okay.” Elerlyth said. “I'm channeling some of my ability to healing.”
+
+Ren nodded, and she rode him for another hour.
+
+“Oh... oh god!” Elerlyth nearly screamed as an orgasm caught her unaware. She collapsed on top of him, and he held her gently.
+
+“I think you're back to your old self.” Ren said. Elerlyth looked at him with a huge smile on her face.
+
+“It's all because of you.” She said, then thought about everything that happened. “You... I can't believe you could... touch me... in that state.”
+
+Ren ran his hand through her restored hair. “I've told you before. I can see who you really are.”
+
+“But...” Elerlyth looked down, and noticed something was missing. “You didn't finish.” She sighed. “So, I was too disgusting for you.”
+
+Ren laughed.
+
+“What's so funny?”
+
+“You drank in everything that I felt.” Ren said. “Did you even once feel disgust?”
+
+Elerlyth opened her mouth to say yes, then shook her head. “Then why...”
+
+“You physically couldn't hold it all like that.” Ren said. “It just seemed like a waste, if you couldn't enjoy it as much as I do.”
+
+“Oh, Ren.” Elerlyth said, and kissed him. “I'm pretty much healed now.”
+
+Ren ran his hands over her restored legs, and felt all the little scratches and pokes. “Not yet you aren't.” He took out a fireball wand, drained the charges, and filled it with Major Healing. He used it on her several times to fix all the things wrong with her, and smiled at her when she was all better.
+
+“Now you are.” He said, then rolled her over. She gave that little surprised yip, and as he pleased her again, he let out everything that he'd held in the entire time they had been together.
+
+“OH GOD!” Elerlyth screamed, as he fed her ability with all of the frustration that he'd built up about not being able to finish, and his mischievousness that he had hidden it from her completely. She gripped his hair and stared at him in the eyes as he finally went, then she went again, and she drank it all down. They rode that feeling for several minutes, and stared at each other as they both calmed down. She pulled his face close and kissed him, then let his hair go. He laid down beside her, and she held onto him as he turned to face her.
+
+“You bastard.” Elerlyth said, and laughed. “How did you do that?”
+
+“Do what?” Ren asked with a crooked smile, knowing exactly what she meant.
+
+“How could you give me everything you had, let me feed on it all, and still have hidden something from me?”
+
+“Practice.” Ren said. “With all of the times we've been together like this, I've learned how to... compartmentalize?”
+
+Elerlyth nodded.
+
+“I've learned to only share the feelings that I want to share, and not overwhelm anyone.”
+
+“Your House Neram pendant.”
+
+It was Ren's turn to nod his head. “I didn't want all of my feelings to be felt.” He said. “Unlike you, no one else can tell what and why I'm feeling things.”
+
+Elerlyth cupped the side of his face and sighed. “What in the world am I going to do with you?”
+
+“For now you can sleep.” Ren said. “I've got to log out for breakfast and therapy.”
+
+“Oh, right!” Elerlyth said. “We've also got that meeting at lunch.”
+
+He nodded. “Now that you're all better, I think you should stay here for a few days.”
+
+“I... don't think that's a good idea.”
+
+“If whoever you met followed you, you'll be safer in here than anywhere else.”
+
+Elerlyth opened her mouth to argue, and Ren kissed her.
+
+“Please.” He pleaded.
+
+Elerlyth sighed. “You know why I didn't want to log in to see you?”
+
+Ren shook his head.
+
+“It was because... because I... I told you that I loved you.”
+
+Ren smiled, and Elerlyth felt the warm fuzzy feelings he felt, and he fed them to her.
+
+“Ren, you know that I... that...”
+
+Ren cupped the side of her face. “Yes, I know you said it only because you were thanking me for the wands.” He let her face go. “It's still nice to have a beautiful woman say those words, no matter the reason.”
+
+“Yeah, that's why I didn't want to see you for a while.” Elerlyth said. “I knew you would take it the wrong way.”
+
+Ren laughed. “But, I didn't take it the wrong way.”
+
+“You just said...”
+
+“Did I confess that I loved you, too?” Ren asked her.
+
+Elerlyth shook her head, and he thought she looked a little disappointed. “No.”
+
+“There you go.” Ren said and lay on his back. “Now, if you'd said that you loved me while we were having sex...” He grinned. “...that I would have taken the 'wrong' way.”
+
+Elerlyth lightly punched him in the side.
+
+“I thought I told you to stop hitting me like a girl.” Ren said and laughed as she hauled off and punched him several times in the side and chest; he blocked some of them, and let others through.
+
+“It's... not... funny!” Elerlyth said, and her fist glowed for a moment. Ren saw it and reacted immediately; he caught the wrist without touching her glowing fist.
+
+“What's that?” Ren asked.
+
+Elerlyth looked at her fist, her eyes widened slightly, and then the fist stopped glowing. “It's nothing.”
+
+“If I didn't know any better, I'd say that was a penetration spell.”
+
+Elerlyth's face flushed to a darker color.
+
+“You were actually trying to hurt me.” Ren said, surprised. “I was just joking around.”
+
+“You... you made me angry.” She said and her face flushed even darker.
+
+“I'm sorry.” He said.
+
+“Ren...”
+
+“I won't joke around with you like that anymore.” Ren said, and moved over on the bed.
+
+“Ren, I...”
+
+“If you're genuinely angry that I didn't say that I loved you back, even though you said you didn't mean it...” He sighed and shook his head.
+
+“Logout.”
+
+*
+
+“I'm sorry!” Elerlyth said as Ren's body phased out.
+
+“I don't think he heard you.” Anabelle said from the bedroom doorway.
+
+“What would you know about it?” Elerlyth asked.
+
+“More than you, apparently.” Anabelle said, and laughed. “He's right, though. You might not have meant it; but, you're mad that he ignored it and didn't say it back.”
+
+“No, I'm not!” Elerlyth said, heatedly.
+
+“You keep telling yourself that, honey.” Anabelle said as she turned around to go back to the bed in the living room. “You might convince yourself eventually.”
+
+********
+
+Ren woke up in the real world to a familiar face. “Hi, Denise.”
+
+“Hi, Ren.” She said as she took the VR headset from him and put it on the rollaway table. “I'm sorry I didn't make it in to watch the show last night.”
+
+“That's okay.” Ren said. “I didn't know there was going to be so many people there to see it.”
+
+“I heard.” Denise chuckled. “Even that tall redhead managed to make it.”
+
+Ren smiled. “Elise was the only one who actually asked to come and watch it with me.”
+
+“'Elise', huh?” She laughed. “Not 'Ms. Stanford'?”
+
+He grinned and pointed to his cheek.
+
+“Oh, you cheeky devil!”
+
+“That now has a new meaning.” Ren laughed as he slid out of bed and walked to the bathroom. “What's for breakfast?”
+
+“Eggs, toast, and juice.”
+
+Ren shut the bathroom door and looked at himself in the mirror. He turned his head to the side and saw the perfect imprint of a set of red lips on his cheek. He smiled, used the bathroom, and cleaned himself up. He came out a couple of minutes later.
+
+“I didn't hear bacon in that description.”
+
+“Candy bar and soda.”
+
+“Damn, I forgot about that.” Ren said and went to the dresser. “It was good, though.” He said and took out his workout outfit. “Yes! No long sleeves!”
+
+“The therapist said she was giving the television star a break.” Denise smiled. “Only a light workout today.”
+
+“Sweet!” Ren said and changed right there. His arm worked better today, so he didn't even need help with the t-shirt. He sat on the bed and checked his laptop while he waited for breakfast. On a whim, he took a picture of himself using the laptop's camera, with his head turned slightly to the side. The lip imprint Elise had left on his face was clearly visible, so he saved it and checked his emails. He groaned as he had several hundred of them from... well, everyone. He browsed through them and saw a lot were probing emails, checking to see if it actually was him. Ren deleted most of those, and left the rest for later. He didn't feel like looking through them all right now.
+
+*
+
+Gloria logged out and sighed. She got up off of her recliner and hopped in the shower.
+
+It doesn't matter that he didn't tell me that he loves me. She thought as she scrubbed herself clean. I'm not mad at him for that! I'm not! She got out of the shower and dried herself off, then started to gather the things she needed to mod the VR headsets. Gloria sighed again. Dammit, I am mad that he didn't.
+
+*
+
+Ren ate a quick breakfast, went to therapy, and took a shower. His arm wasn't as sore as it had been; but, he didn't want to waste any more time than he had to, so he asked Denise for her help. She scrubbed his back, and helped dry him off.
+
+“Thanks.” Ren said. “That would have taken twice as long if I had to do it myself.”
+
+“More hands makes the work go faster.” Denise said and helped Ren put on his green set of pajamas.
+
+“More experienced hands, you mean.” Ren said and smiled. “Just having extra hands isn't always a good thing.”
+
+“That would depend on what you're doing.” Denise said as she buttoned his shirt top, then blushed a little as she realized what she was doing and what she said. Ren was tempted to tease her a little, but changed his mind. When the moment passed, she smiled at him and he went back to bed. Denise helped him put on the VR headset and he settled down into the bed.
+
+“See you at lunch.” Ren said.
+
+“Flow Login Start.”
+
+********

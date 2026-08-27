@@ -1,0 +1,195 @@
+---
+id: 4799cf22-09aa-5586-b8e4-7dfef0974f2c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78 Mortar"
+slug: 0083-chapter-78-mortar
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 83
+ownLength: 1975
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3539140/chapter-78-mortar"
+royalRoadId: "3539140"
+---
+
+By the time the demonstration at the southern drill grounds came to an end, the sun had climbed higher into the pale spring sky.
+
+He left Dorian with the guards still gathered near the targets, the captain already discussing the possible tactical applications of the new weapons with the militia.
+
+The guards themselves had begun trying their hands with three of the completed pieces, while Joren and Harlon took the other two back for further refinement.
+
+Lucien made a note to check with the craftsmen about when production could be streamlined and additional hands assigned to the work. It would not do to keep men like them occupied with production alone when their skills were needed elsewhere.
+
+He continued toward the southwestern edge of Ashridge, where the spacing between homes grew wider, even by the standards of a frontier village, and the smell of damp earth gradually gave way to something sharper.
+
+They had little choice but to build the testing kilns within the walls for now. He could hardly leave the village with Talia every time they needed to conduct another experiment.
+
+The heavier scent of charcoal and burned stone lingered in the air. For a village built largely of timber, it was not the most reassuring smell.
+
+It had been the first time since winter that the villagers had looked at him with a measure of wariness.
+
+Still, his standing in the village had improved considerably since then. The unease had slowly given way to reluctant acceptance that whatever he was doing this time would likely not end with Ashridge burning down.
+
+Even before he reached the cleared ground near the inner side of the palisade, he could already see the dark shape of the clamp kiln rising low against the open space, packed over with turf and clay, its vented sides still carrying the faint signs of yesterday’s burn.
+
+A few laborers were already hard at work, hauling buckets of water and sorting stone beneath the watchful eye of one of the charcoal burners Talia had pulled into the work.
+
+Lucien slowed his steps as he approached, his gaze moving over the shallow slaking pits, the hardened mortar blocks set aside for testing, and the small retaining strip of stone that had been rebuilt twice before finally meeting their standards.
+
+Somewhere nearby, he could already hear Talia’s voice.
+
+She stood near a slaking pit with her sleeves rolled to her elbows, one hand on her hip while the other pointed accusingly at a half-cooled batch of stone before shifting toward the older man as she spoke.
+
+“I am telling you, if it comes out like that again, we are either not burning it long enough, or you are all conspiring against me somehow!”
+
+The older charcoal burner across from her looked unimpressed.
+
+“We burned it long enough,” he replied, arms crossed. “Stone’s always been stubborn to burn, and we made the fire like you said. If it came out wrong, it’s because the stone decided to be difficult.”
+
+Talia stared at him in disbelief for a moment before gritting out in exasperation. “That’s not how rocks work.”
+
+The man shrugged without shame. “You ever burned one before coming here?”
+
+She opened her mouth to give a retort, only to slowly close it a breath later. Then she pointed at him again with far less confidence.
+
+“That’s not the point!”
+
+“Sounds like the point to me.”
+
+Nearby, one of the younger laborers very wisely chose to become deeply interested in a perfectly normal-looking bucket.
+
+Talia exhaled sharply before crouching near the pit and picking up one of the pale fragments, holding it up like it would further prove her words.
+
+“Look at this. Half of this batch still feels wrong. It’s too soft and too brittle. If I throw this at someone, it would probably just make them angry more than injure them.”
+
+The charcoal burner leaned forward with a scoff.
+
+“Then throw it harder.”
+
+Lucien stopped a short distance away, watching the exchange in silence for a moment.
+
+Talia noticed him first and immediately straightened, pointing at the older man with renewed energy.
+
+“Perfect timing, Lord Lucien! Tell him I am right.”
+
+The burner looked over his shoulder at Lucien and dipped his head respectfully.
+
+Lucien looked first at the stone in Talia’s hand, then at the kiln before finally regarding the man himself. “You told her to throw it harder?”
+
+The charcoal burner nodded seriously.
+
+“Yes, My Lord.”
+
+Lucien considered what had happened yesterday with the sacred drink.
+
+“…Sounds reasonable.”
+
+Talia stared at him in open betrayal, her eyes narrowing when she spotted the slight twitch at the corner of his mouth. She ran a soot-covered hand through her hair, paying no mind to the black marks left across the red strands before she gave him another look.
+
+Before she could speak, Lucien did so first.
+
+“We still have that last batch that looked promising. Let’s check that first.”
+
+As soon as the words left him, he turned and began walking toward another slaking pit not far away.
+
+It did not take long for Talia to fall into step beside him. “You did that on purpose,” she muttered, still carrying the faint pout from earlier.
+
+“So did you,” he replied evenly. “No using coffee as leverage.”
+
+She let out a dramatic sigh. “And to think I spent all that effort arranging a special delivery from oh so far away.”
+
+Lucien’s gaze shifted to her, his brow lifting. “You did it as another attempt to make me lose my composure like always.”
+
+She grinned at the mention of yesterday's travesty. “Just ensuring my senior isn’t too serious all the time! At this rate, you’re gonna get grey hair before thirty.”
+
+He exhaled softly through his nose before speaking. “Thank you for it though. It helps to have something familiar again.”
+
+The bright grin on her expression softened into something gentler, and for a brief moment, an unspoken understanding passed between them.
+
+“You’re welcome.”
+
+The moment lingered for only a few more steps before their attention shifted toward the covered pit ahead, where the last promising batch had been left to settle.
+
+The air there carried the sharp mineral scent of wet lime and stone, heavier than the ordinary kiln smoke.
+
+Talia folded her arms as they approached, the earlier playfulness giving way to a more thoughtful expression.
+
+“This one held better than the others! The stones have fewer cracks in them and they bind better. And there wasn't much residue after the slaking too.”
+
+Lucien gave a faint nod, his gaze already moving over the hardened edges of the mortar.
+
+He crouched near the retaining strip and pressed his fingers lightly against the set mortar between the stones before testing it with the edge of his thumb.
+
+“It feels firmer, and the burn seems to be more even. There is less wasted stone as well.”
+
+Talia nodded while gesturing toward the kiln. “The charcoal burners adjusted the vent placement like we talked about. We kept the burn going longer too.” She shook her head lightly. “I had to argue with them the whole way through before they finally agreed.”
+
+That explained the discussion he had interrupted.
+
+Lucien rose again, wiping the dust from his fingers as his gaze shifted toward the clamp kiln in the distance.
+
+“What about the larger batch?”
+
+Talia gave a thumbs up as a small smile curved at her lips. “It’s way better now! Too bad huh? Looks like our days of throwing rocks at each other are over.” She paused briefly before adding sheepishly. “Purely for scientific purposes, of course.”
+
+His eyes moved to meet hers. “How unfortunate. Truly a tragic loss for progress.”
+
+Of course, it had been Talia who had started it first. He had simply responded in kind.
+
+Her smile widened a little. “Didn’t think I’d ever see Alicia give you a look of disapproval.”
+
+The corner of Lucien’s lips twitched, though he soon looked away as the memory of the maid’s gentle look of disappointment surfaced when the two of them had returned to the manor covered in soot and dust.
+
+The faint amusement lingered for a moment before their attention returned to the pit.
+
+Talia crouched beside the mortar blocks and tapped one lightly with her knuckles as she spoke. “Small batches like these? That’s manageable.” She cupped her hands together before spreading them wider. “But the real problem is how we are going to scale it up to the amounts we actually need.”
+
+Lucien gave a slow nod, his hand resting against his chin in thought. “If we push for a larger output, keeping the kiln inside the village becomes a problem.”
+
+She was already nodding before he had even finished. “Yep, not to mention the risk of fire spreading.” Talia waved toward a thatched house that stood a little too close for comfort. “Ashridge is not exactly fireproof after all, no matter what that sly fox says.”
+
+Despite her words, there was little heat in them.
+
+Lucien shook his head faintly at the familiar friction between Harlon and Talia.
+
+“We also have to take into account the consumption of charcoal. It is unfortunate that we have not found any coal in the places Garrick surveyed.” His gaze lowered in thought. “Though I suppose finding limestone there was already fortune enough.”
+
+Talia glanced around briefly before tapping his shoulder lightly, leaving another mark of soot on his clothes to his mild displeasure.
+
+“No way we are that lucky, Senior. Besides, just having limestone this close is already a blessing.”
+
+He gave a faint nod in agreement before continuing. “If we keep burning like this, timber becomes the next problem.” His gaze shifted pointedly toward her. “Harlon has been reminding me about maintaining a proper stockpile for this year’s incoming settlers.”
+
+She smiled innocently even as she responded. “Oh? No wonder he keeps giving me dirty looks whenever I stop by.”
+
+Her tone made it clear she knew exactly why.
+
+Lucien made the wise decision not to involve himself in that particular matter and continued.
+
+“We will have to move full production closer to the ridge once demand increases.”
+
+Talia’s eyes shifted toward the distant ridge. “Yeah, it makes more sense to burn it there alongside the timber.” She moved her hand back and forth as she spoke. “Kind of like a proto industrial zone.”
+
+He inclined his head once. “The outpost itself will likely be left unmanned during the Tithe. We do not have the military strength to hold it yet.”
+
+Talia’s expression softened as she looked over the half finished retaining strip, the shallow pits, and the hardened mortar left to cure in the spring air.
+
+“A month ago this was just me vaguely remembering things I had read during those late-night binge sessions.” She waved a hand toward the nearest kiln. “Honestly, we were pretty lucky we didn't accidentally invent a new way to explode.”
+
+Lucien let his gaze drift across the worksite as well.
+
+“But it is worth it. With proper mortar available, Ashridge will grow far faster than either of us expected when Garrick first found that limestone.”
+
+It would be a great deal of work, but compared to the time when he had first found himself alone in this world, the weight of it felt smaller now.
+
+His gaze shifted toward Talia. A moment later, she met his eyes.
+
+“Do you still regret choosing Ashridge? You were never exactly enthusiastic about work back in our world.”
+
+He was mildly surprised when, instead of the teasing answer he had expected, Talia gave him a smaller, softer smile.
+
+“What can I say? Sometimes difficult things can be pretty fun too.”
+
+Lucien stared at her for a moment before the corner of his mouth lifted.
+
+Somehow, he found that answer far more troublesome than any teasing would have been.

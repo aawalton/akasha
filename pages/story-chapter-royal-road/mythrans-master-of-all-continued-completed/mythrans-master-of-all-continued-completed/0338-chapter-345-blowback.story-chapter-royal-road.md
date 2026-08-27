@@ -1,0 +1,343 @@
+---
+id: 59b93246-5deb-5f7d-adab-6230388a0ada
+page-type-slug: story-chapter-royal-road
+title: "Chapter 345 - Blowback"
+slug: 0338-chapter-345-blowback
+partOf: mythrans-master-of-all-continued-completed
+position: 338
+ownLength: 3458
+unit: words
+publishedAt: 2017-08-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158454/chapter-345-blowback"
+royalRoadId: "158454"
+---
+
+The explosion rocked the room and a large fireball engulfed Ren. People started to scream in terror, but Ren tuned it out as he activated Serene State of Mind. He had been quite fortunate that the bomb was fire-based, and that he wore his full plate armor because it protected him from severe bodily harm. He used his Absorb Fire ability to suck in the blast as quickly as he could.
+
+Unfortunately, he wasn't wearing his helmet that would have covered most of his face, or his gauntlets that would have covered his hands. Since the elemental grenade had been infused into an object that was mostly made of metal, it all became shrapnel when it exploded. Ren's body and armor had taken a good portion of the blast since he had hugged the package close. It deflected and even stopped a lot of the shrapnel from doing any damage behind him, and to some extent on the sides.
+
+That was where his Luck stat came into play. Thanks to his arms being in the way, nearly all of the side shrapnel was shunted above and below where the crowd was as it bounced off of his armor. He had been facing the wall, so the blast in that direction sent shrapnel into the enchanted design and damaged it; but, it wasn't enough damage to end the enchantment and the little ships continued moving through the trade routes.
+
+Some of the shards of metal hadn't hit Ren's armor at all, and those pieces flew through the air unimpeded and struck the man at the door, three other people on one side of Ren, and one on the other. It was the man that had been talking to the king. He had jumped out of the way when Ren had thrown Railyse and Diana over to the king, and he had stopped right in the path of the shrapnel.
+
+Pandemonium ensued, mainly because of the screams of pain from the 5 people that had been seriously wounded. Lords, ministers, their aids, and almost everyone else present were in a panic.
+
+“Healers! Get the healers!” King Alamast yelled to the door of the meeting room as he knelt to check on Lord Eddlemere, and one of the ministers opened the door and yelled for the healers as well. A minute later, a group of them ran into the room and stopped dead at the sight. They didn't know what to do or who to help first, because everyone was running around and screaming, and no one was trying to calm anyone down.
+
+It was at this point that Ren had had enough. He concentrated on his Command Aura, which pushed his Aura out to 350 feet and covered everyone in the room. He stood up and turned around to face the room.
+
+“STOP!” Ren yelled and pushed as much command into his voice as he could. He heard everyone as they stopped moving; then he heard several people gasp and scream, and a few people started to cry again. “SIT DOWN!” He yelled, and everyone sat down. “That's better.” He said. “Healers! Tend to the wounded.”
+
+“Yes, My Lord.” The group of healers said together, then split up.
+
+“REN!” Railyse yelled and ran over to him. “By... by Mother's Trident! Your face!”
+
+“I need a healer, fast.” Ren said. “I'm Bleeding Profusely, and there's only 2 minutes left.”
+
+Thankfully, there were enough healers to go around and deal with everyone, and one of them came over to him.
+
+“Good god.” The healer said as she got a good look at him. His face was mangled and mulched by shrapnel that was still inside his skin, and blood poured down his neck and over his armor. His hands were a lot worse than that, and barely had any flesh left on them at all.
+
+“How are you still standing?” The healer whispered.
+
+“It doesn't matter.” Ren said. “Stop the bleeding.”
+
+“R-r-right a-away.” The healer said. “Ha-have a se-seat.”
+
+“I can't see where to sit.” Ren said. “The shrapnel is in my eyes.”
+
+The healer put a hand over her mouth and tried not to get sick. “How can you stay so calm?”
+
+“I'll only be calm for another minute.” Ren said. “Then I'll be dead.”
+
+“Oh! I'm sorry!” The healer said, then reached out and hovered her hand over his face. She concentrated on him and used her Major Healing ability to stop the blood loss. She thought about using her Minor Healing ability to do it, but with the state Ren was in, she didn't want to take the chance that Minor Healing might not have been enough. Ren sighed in relief as the condition went away.
+
+“This way, Ren.” Railyse said and led him over to a seat.
+
+“Oh, GOD!” Diana, Crown Princess of the Human Kingdom, exclaimed when she saw Ren's face and the ruin that used to be his pretty eyes.
+
+“Don't look, baby.” Lady Eleanor said and tried to cover her daughter's eyes. “You don't need to see that.”
+
+“Yes, I do!” Diana said and moved her mother's hand. “He saved me from being like that myself.” She said. “Or worse! I could be dead right now!”
+
+“But you didn't die.” King Alamast said. “Thanks to this young man's sacrifice, no one died.”
+
+Ren chuckled. “You make it sound like I'm still going to die.”
+
+“This is going to take better hands than mine.” The healer said. “I... I can't... I can't reach in and pull the shards out.”
+
+“That's okay.” Ren said. “Now that the bleeding is stopped, I can wait for more experienced hands.”
+
+“Is he serious?” King Alamast asked. “He's the most hurt of anyone here, and he wants to wait?!?”
+
+Diana knelt in front of him and put a hand on his knee. “Ren, you have to let the healers take care of you.”
+
+Ren chuckled again. “I didn't say I won't take their treatment, just that there's no rush.”
+
+“But... you must be in... in severe pain right now.” Diana said and tried to reach up and touch his face; but, she couldn't make herself do it and clenched her hand into a fist and let it drop back to her side.
+
+“I'm an Adventurer.” Ren said. “I can take a lot of pain.”
+
+It took about 10 minutes for the most experienced healer to become available, and when she came over and saw Ren's face, she gasped.
+
+“Why didn't you come and get me right away?!?” She asked the other healer.
+
+“You were busy, and he said that he could wait.”
+
+“Bah!” The new healer said. “Let me heal this up...”
+
+“No.” Ren said. “You have to dig out the shrapnel first.”
+
+“They'll just pop out when...”
+
+“The small ones will, but the large pieces that are embedded deep won't be.”
+
+“How... how do you know that?”
+
+“I have healing experience.” Ren said.
+
+“I'll be right back.” She said. “I need to go and get my tools.”
+
+“That's not necessary.” Ren said and took out a set of healing tools. “You can use mine.”
+
+“Where did you get those?” The healer asked. They were much nicer than the ones she had paid a large fee for. That had been some time ago, and she wanted to get a new set just like them.
+
+“I spent a little bit of time with a healer while I was visiting Railyse.” Ren said. “I'd do this myself if I could see.”
+
+The healer shook her head and picked up two sets of tweezers. “This is going to hurt.”
+
+“Probably more than it did going in.” Ren said and smiled. He didn't tell them that he wasn't feeling any pain at all because he was actively using Serene State of Mind. It was a constant drain on his Mana; but with so much of it in his Mana Pool, he honestly didn't care how much of a drain it was.
+
+“How can you be so... oh, you're one of those.” The healer said and dug into the skin of his cheek with one set of tweezers to pull it back, and used the other set to grab a piece of metal.
+
+“One of what?”
+
+“Someone who enjoys the pain.”
+
+Ren switched from his Command Aura to his Fear Aura, and everyone in the room froze. “I do not enjoy pain.”
+
+“I... I... I'm sorry.” The healer got out, and Ren switched to his Camaraderie Aura instead. She sighed in relief at the change, and so did everyone else.
+
+“What was that?” Diana asked. “I've never felt anything like it before.”
+
+“That was Fear.” King Alamast said. “The only other time I felt an Aura that strong was when I and my hunting party encountered a Dire Wolf.”
+
+“I'm wearing one, so that's understandable.” Ren said, and everyone looked at the cloak.
+
+“He's right. It's not fake.” King Alamast said.
+
+Ren chuckled. “Like a fake cloak would do anything for you.” He said. “Maybe a few gullible people would be fooled; but, people would just laugh at you I think.”
+
+“How did you get it?” Diana asked, and let her curiosity get the better of her common sense.
+
+“That's an interesting story.” Ren said. “I even wrote a book about it.”
+
+“You did?” Diana asked, surprised.
+
+Ren nodded. “It's faster if I just tell you about it, though.” He said and launched into how he had gotten the cloak the hard way. The healer had continued to work while Ren talked, and pulled more and more pieces of metal out of his face.
+
+“I've picked out all the large pieces.” The healer said when Ren had finished the story. “I have to do your eyes now.”
+
+“I don't think I can open them.” Ren sighed. “They're kind of wedged shut.”
+
+“Oh, god.” Diana said. “Ren... you...”
+
+“It's all right.” Ren said and stopped himself from trying to pat Diana's hand that was still on his knee. “You might want to listen to your mother's advice this time, though.”
+
+“I... okay.” Diana said and stood up. “I won't look.”
+
+Ren waited for a moment, then smiled. “You're going to have to move away, or at least turn around.” He said. “I might not be able to see you right now, but I can still hear you.”
+
+Diana sighed, then walked over to her mother. Lady Eleanor nodded at Ren for his consideration, then berated herself mentally for nodding at someone that couldn't see her.
+
+“Take the pieces near the corners first.” Ren said to the healer. “Then you can peel the lids back to get inside.”
+
+The first healer couldn't stop herself from feeling sick this time, and ran from the room.
+
+“The new recruits just aren't that hardy these days.” The experienced healer said and started to dig into his eyes for the first piece of metal she could see.
+
+“To be fair, if this was her first real incident, she didn't have a lot of preparation for this kind of thing.” Ren said, wisely.
+
+“What are you saying?”
+
+“It's not my place to comment on the training of healers.” Ren said.
+
+“I'm the head healer, and I run the Medical Wing of the castle.” The healer said. “Tell me what you think.”
+
+“You should do mock battles with the king's army, and let the new healers treat the wounded.” Ren said. “If they can handle battle conditions, then stuff like this will seem like child's play in comparison.”
+
+No one spoke as they thought about his suggestion.
+
+It really would test their mettle to be in that kind of environment. The head healer thought and dug into Ren's eyes for more of the metal pieces.
+
+That is a good idea. King Alamast thought, and looked at Ren. Who is this man? He asked himself and finally had the chance to use his Identify Person skill.
+
+Name  Ren  Level  73
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Titles
+
+Master Blacksmith  Tailor
+
+Issac's Novice  Lemming
+
+Son Of The Pelt  Honorary Dwarf
+
+A Fool And His Money  Ren The First
+
+Crazy Like A Fox  Giant Smasher
+
+Atlas  Prince Charming
+
+Patron Of Knowledge  Father Of Fire
+
+Hero Of Aurora  Lord
+
+Dreaded Foe  The Unnamed King
+
+Waterkin
+
+Is this for real? King Alamast asked himself. What in the world is he doing as an assistant to an Ambassador?
+
+“Okay, I think... I... almost... got it!” The healer said and pulled out a twisted piece of metal from Ren's right eye. It made a kind of sucking sound, then popped out with a small squirt of blood.
+
+“Yeah, that's much better.” Ren said. “There's only a couple of small shards left, and then you can do my hands.”
+
+“Your hands?” The healer asked, and Ren held them up for her to see. “Bloody hell!” She said as she saw the ruined flesh.
+
+“I assume so.” Ren said. “I still can't see them, but I also can't really feel them, either.”
+
+The healer sighed and removed the last couple of metal shards from his eyes, then moved on to his hands.
+
+“How is everyone else?” Ren asked.
+
+“They're alive.” King Alamast said. “Even the messenger.”
+
+“He got caught in the blast?” Ren asked.
+
+“He took most of the shrapnel in the upper back, so he's fine. The other two people on the same side were hit in the arm and leg. The doorman was only hit in the arm. Lord Eddlemere was facing you, though.”
+
+“Chest and thighs?” Ren asked.
+
+“How do you know that?” The healer asked.
+
+“You said mine was the worst, so I have to assume no one else was hit in the face.”
+
+“You're very astute.” Lady Eleanor said. “Are you a Scout by any chance?”
+
+“No, I'm an Artificer.” Ren said, but when she mentioned Scout, he thought of Teepo and wondered why he wasn't talking. Teepo?
+
+There was no answer.
+
+TEEPO! Ren shouted in his head, and there was nothing. He tried to move his hand to reach up to his shoulder, but the healer grabbed it.
+
+“Stay still! I can't work if you move!”
+
+“Hurry up!” Ren said, and everyone heard the urgency in his voice.
+
+“Why are you in a rush now?” The healer asked.
+
+“My friend may be hurt.”
+
+“I'll have you healed in a few minutes, and you can check on him then.” The healer said.
+
+Ren sat in silence as the healer finished her work, then used her Major Healing ability to heal the damage to his face. When his sight came back, he immediately looked at Teepo's metal body on his shoulder, and a large piece of metal was jammed into the beetle's head and part of it's body.
+
+The healer used her ability again to heal Ren's hands, and he flexed his fingers to make sure they worked, then deactivated Serene State Of Mind when the healer said she was done.
+
+“This was jammed into the ridge of your double ring.” The healer said and held up a particularly sharp wedge of metal. “It would have taken your finger if not for that.”
+
+Ren looked down at the double ring on his index finger, but it wasn't actually a double ring. It was his half of the Ring Of Recall over the top of the Beetle Crown ring. He could see a large indent in the Ring of Recall where the metal had been lodged, and he slipped it off his finger and examined the Beetle Crown ring underneath.
+
+It's fine! Ren thought in relief. The Ring of Recall had taken the brunt of the impact and the Beetle Crown ring didn't even have a scratch on it. Ren repaired the Ring Of Recall and stored it, then picked up the metal beetle from his shoulder.
+
+“Oh, Ren!” Railyse said. “I was so concerned over you, I didn't notice that Teepo was hurt, too!”
+
+“That's not a brooch or something?” Diana asked as Ren pulled the piece of metal out of the beetle's head.
+
+“It's my friend's physical body.” Ren said. “He's probably not going to want to use it for a while, though.”
+
+Ren repaired the body with his glowing blacksmith's hammer, much to the surprise of the onlookers; but, there was still no response from it or from Teepo.
+
+I hope this works. Ren thought, with hope in his mind and heart. Summon Teepo!
+
+Teepo appeared at Ren's feet, and Ren picked him up with a huge smile on his face. Everyone was a little concerned that he had picking up something that wasn't there, except for Railyse. She knew all about Teepo.
+
+Teepo? Ren asked. Are you okay?
+
+“Ugh.” Teepo said. “Ren? Why do I have a splitting headache?”
+
+You just took a sharp piece of metal to the head. Ren thought to his friend. Actually, we both did.
+
+“We really should stop doing stuff like this.” Teepo said, then crawled up Ren's arm to the the shoulder, rather than fly like he could have. “I don't know how much more we can take.”
+
+Ren smiled and pat his friend, then looked at Railyse. “He's a little shaken, but he seems fine.”
+
+“I'm glad.” Railyse said and put a hand on Ren's other shoulder, and Ren looked at King Alamast.
+
+“Have you closed the meeting room to keep all of the witnesses contained? We need to start the investigation right away.” Ren asked.
+
+“What?”
+
+“Someone wanted the Ambassador dead.” Ren said and stood up. “You will turn this room upside down to find out who did it.”
+
+“You don't give the orders around here.” King Alamast said.
+
+“Then hurry up and do it yourself!” Ren said, a little excitedly. “I couldn't see this whole time, and my scout was out of action! I don't know if anyone has already left the room or not!”
+
+“Everyone is accounted for.” The king said.
+
+Ren looked around and quickly counted the number of people. “Where's the messenger?”
+
+“A healer healed him and he left.” The head healer said.
+
+“Get him back here right now!” Ren said. “He's the star witness!”
+
+“Why is that?”
+
+“He delivered the package, that's why!” Ren said and looked at the people around him. “What is wrong with you?”
+
+“What do you mean?” Diana asked.
+
+“Someone just bombed a room inside your home, seriously hurt several people, and you're not doing anything about it!”
+
+“I'm sure the court investigator will find something in a few days.” King Alamast said.
+
+Ren reached out and grabbed the king by his well-made clothing and pulled him down close. “Your daughter and Railyse almost died! I almost died! Stop being lazy and get to work!”
+
+“Let go of me.” The king commanded in a deep voice.
+
+“Not until you smarten up!” Ren said and shook the king a little. “Protect your family!” He said. “Protect this realm like you're supposed to!”
+
+“Guards!” King Alamast said, and 4 guards came into the room immediately. They carried swords and wore heavy leather armor.
+
+“Ren! Let him go!” Railyse pleaded.
+
+“Please, let him go.” Diana said. “If you're going to take a hostage, take me instead.”
+
+“Take a hostage?!?” Ren asked, surprised; then looked at the king. “I'm not taking anyone anywhere.”
+
+“Then let me go!” King Alamast said.
+
+“Are you really such a fool that you'll let the attempted murder of your own daughter go unpunished?” Ren asked him, and Diana gasped. The king looked at his daughter, then back at Ren.
+
+“She wasn't the target.”
+
+“She'd be just as dead, you fool!” Ren spat at him, gave him another shake, and let the king go. King Alamast stumbled slightly when he wasn't being held steady, and stood up straight.
+
+“Take this man to the dungeon.” King Alamast said to the guards, and Diana watched Ren to see his reaction. She didn't see shock, fear, revulsion, indignation, or anything else even close to what she had expected. She was surprised to see what Ren actually had on his face. Contempt.
+
+“I don't think so.” Ren said. “I won't waste my time sitting in prison while people who have plotted against my friend run free.”
+
+“You don't have any choice in the matter.” King Alamast said.
+
+*
+
+This is turning out wonderfully! Lord Eddlemere thought. He had been healed quickly, but remained on the floor where he had fallen, and watched the events unfold. I had planned on framing the king for the Ambassador's murder, but this might be much, much better!
+
+Lord Eddlemere thought about Talon and how much that boy had screwed up.
+
+Well, I guess it wasn't his fault the Ambassador didn't leave the meeting room for the break. Lord Eddlemere sighed. I'll have to punish him for not warning me it was coming here, though.

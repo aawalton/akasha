@@ -1,0 +1,365 @@
+---
+id: f003dbed-0579-526f-aa72-0cc099a69643
+page-type-slug: story-chapter-royal-road
+title: "Chapter 353 - For The People"
+slug: 0346-chapter-353-for-the-people
+partOf: mythrans-master-of-all-continued-completed
+position: 346
+ownLength: 3779
+unit: words
+publishedAt: 2017-09-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160124/chapter-353-for-the-people"
+royalRoadId: "160124"
+---
+
+“I'll call for an experienced healer right way.” Ren said and stood up.
+
+“Good luck.” Fern said. “No healer has come out this way since I was a kid.”
+
+“They will now.” Ren said. “I'll be right back.”
+
+Fern nodded, and Ren left the bedroom and the house, then thought about Frikara.
+
+“Frikara? Are you busy?”
+
+“If you think trying on clothes is busy.” Frikara said.
+
+“I'm sorry to bother you.” Ren said. “Can you run over to Anabelle and ask her to send an experienced healer out to the village of Goagan in Walin County? I've got a man here with a broken leg and he needs healing right away.”
+
+“I'm already walking down the stairs.” Frikara said. “I'm putting on the things you gave us to protect ourselves.”
+
+“Thank you, Frikara.” Ren said. “Tell the healer they'll get double the normal fee.”
+
+“So, you have to bribe them to travel out so far?” Frikara asked.
+
+“Apparently.” Ren said. “I was going to run back and pick them up myself, but that just wastes everyone's time.”
+
+“What would you do? Let them ride you?” Frikara laughed. “Assuming they'd let you carry them.”
+
+Ren chuckled, because he had just done something similar with Russell. “Call me back when they set out.” He said. “That way I'll have some idea of when they'll get here.”
+
+“I'll let you know as soon as I know.” Frikara said. “Bye, Ren.”
+
+“Bye.”
+
+Ren watched the Sending Ring as it stopped glowing, and sighed. I just hope the healer can get here in time. He thought. It's already been a day.
+
+“Don't worry, Ren.” Teepo said. “You're doing everything you can.”
+
+*
+
+When the Sending Ring stopped glowing, Frikara ran down the street, around the corner, and down to the next street. She hadn't run like that since she was a teenager, and she had forgotten how good it felt. Since she wasn't used to using her Stamina like that, it drained quickly. She slowed down to a jog and arrived at Ren's shop a few minutes later.
+
+Frikara went inside and over to the sales counter, greeted Anabelle, and relayed Ren's message. Anabelle brought up the business menu and sent a message to the Healer's Guild. She knew that wasn't what it was actually called; but, it functioned the same as a guild in every respect, so that's what she called it.
+
+Anabelle gave them the information Ren wanted; a broken leg, the location, and double the fee. She got a response immediately that someone would be at the shop in a few minutes, and she closed the business menu.
+
+“They'll be right here.” Anabelle said. “It's just too bad that it's going to take hours and hours to get out there.”
+
+“Only if Princess doesn't agree to help Ren.” Frikara said and smiled.
+
+“Oh, that's brilliant!” Anabelle said. “Sneaky and scary, but brilliant.”
+
+A couple of minutes later, a male healer came into the shop. “I've been tasked to heal a broken leg in a small village.” He said. “Have you arranged transportation?”
+
+“I was just about to.” Frikara said and walked over to him. “Have you ever ridden a mount before?”
+
+*
+
+Ren stayed outside to wait for Frikara's call, but he didn't pace or worry. He knew that she, and all of the other maids, were quite capable of handling things... as long as it wasn't cooking. He chuckled when he remembered their last attempt at making beef stew, and then his Sending Ring glowed.
+
+“Ren? He's on his way.” Frikara said, with amusement in her voice.
+
+“Thanks, Frikara.” Ren said. “Now we just have to wait for several hours for the cart to get here.”
+
+“Oh, about that...” Frikara said and started to laugh.
+
+It was about 20 minutes later that Princess showed up at the village, and the healer was strapped over her back. He was in the same position that Ren had tied himself in once, with his legs around her belly and his arms around her neck. Ren had fallen unconscious soon after, because of his Controlled Berserk Rage he'd used to show off to Elerlyth at the time; so, he didn't remember the ride at all.
+
+“Get me off this crazy thing!” The healer said, and Ren laughed.
+
+“What happened?” Ren asked and started to undo the straps that held the healer's arms.
+
+“That short dark-haired woman asked me if I'd ridden a mount before, and when I said no, she said she'd take care of it!” The healer said.
+
+Princess? Ren thought.
+
+He kept whining that I was going too fast, so I only went at half-speed and took twice as long. Princess thought to him and huffed. Ren pat her neck, and undid the leg straps. The healer sighed in relief and Ren helped him down from the saddle.
+
+“Are you all right?” Ren asked him, and gave Princess the breakfast he hadn't eaten. She sucked up the scrambled eggs almost instantly.
+
+“The only thing that's really hurt is my dignity.” The healer said and wiped off some imaginary dirt from his white tunic. “I've never been treated like that in my life!”
+
+“I'm sorry about that.” Ren said. “I carry her cart with me all the time, just in case she needs it while we're out.” He said. “I should probably leave it with her when I don't bring her along.”
+
+“A cart ride would have been better, yes.” The healer said, and composed himself. “Can you show me the patient?”
+
+“Right this way.” Ren said and led the healer into the straw and mud house and into the back bedroom. The healer looked at Fern and got to work right away. Fern did his best to not scream in pain as the healer examined him and then again when the healer pulled his leg straight.
+
+“GeaahhH!” Fern yelled as the healer turned his foot to face the right way.
+
+“Don't move.” The healer said and looked at Ren. “Hold the foot and the leg steady.”
+
+Ren did as he was asked and the healer used his Major Healing ability to set the fractures.
+
+“He's lucky the breaks didn't start to set yet.” The healer said as his hands glowed and he slowly hovered them above the calf of Fern's leg. “It would have to be broken again if it did.”
+
+“Ugh.” Fern said.
+
+“How many breaks were there?” Ren asked.
+
+“Three.” The healer said. “The last one was only small, but it would have caused constant pain if it had been missed or healed badly.”
+
+Ren sighed in relief and looked at Fern, and Fern nodded his thanks. It took about 5 minutes for the healer to finish, and then he pat Fern's leg.
+
+“AHH-Hey! That's didn't hurt!” Fern said, and started to laugh, and his daughter jumped onto the bed with him to celebrate.
+
+“You should probably stay off it for the day, but you don't have to.” The healer said and smiled. “I do good work.”
+
+“You sure do!” Fern said and got out of bed, and held his daughter in his arms. He didn't dance around, even though he was tempted to. “Thank you kindly.”
+
+The healer nodded and left the bedroom, and Ren followed him out of the house.
+
+“There should have been extensive bruising, and a possible dislocated knee with those kinds of breaks.” The healer said when they were outside. “Who healed them?”
+
+“I did.” Ren said. “My skill isn't high enough to diagnose major injuries yet, so I called in a professional.”
+
+“You really shouldn't be healing without supervision; but, that was a nice job.” The healer nodded. “If that's all...” He said. “That'll be 4 gold and 80 silver.”
+
+Ren heard two gasps from inside the house, and smiled as he took out 10 gold. “Like I promised, here's double the fee.”
+
+A short shrill scream came next, and Ren figured it was from the little girl; but it was actually from Fern. The little girl was too shocked to react at all.
+
+“That's very generous of you, sir.” The healer said and put away the 10 gold, and took out 40 silver.
+
+“You can keep that.” Ren said. “As an apology for the ride here.”
+
+The healer nodded and put the money back into his coin pouch. “Now that my job is done, I should be getting back.”
+
+“Hold on for a minute.” Ren said. “Russell!”
+
+The young boy popped out of nowhere to appear beside the healer. “Yes'um?”
+
+“Is there anyone else in the village that's hurt, or needs some kind of healing?” Ren asked him. “Now that we have someone with experience here, we should be able to tackle anything that comes up.”
+
+The healer looked at Ren curiously.
+
+“I'll compensate you for your time.” Ren said. “I might not need your help at all; but like you said, having you along will definitely be a benefit.”
+
+“Agreed.” The healer said.
+
+“Three houses that way.” Russell said and pointed. “Biggest cut I've ever seen!”
+
+“Lead on.” Ren said, and the three of them started their rounds, with Princess sauntering behind them. It took several hours for them to check on everyone that was still in the village. The healer had only been needed twice, when Ren wasn't sure if there were any internal injuries with two of the patients. Even with that consideration, the healer had helped the entire time without being asked to. It was like Ren was the experienced healer and he was the assistant, instead of the other way around. They healed cuts and scrapes, both normal and from chickens; broken toes, pig bites, and everything else they could find. When they were done, Ren received a popup.
+
+Stat Change!
+
+Healing Level 1 (Advanced 0%)
+
+“That was worth several hundred patients.” Ren said, and the healer looked at him.
+
+“It's always worth it to heal the sick and injured.” The healer said. “No matter who they are or where they live, everyone deserves to be healed.”
+
+“That's my view, too.” Ren said. “You wouldn't happen to know anyone that would want to move to a desolate farming county to deal with scrapes, cuts, and burns, on an almost daily basis?”
+
+The healer chuckled. “I've got a rotating schedule that sends me all over the place.” He said. “I just happened to be on the long excursion list today.”
+
+“Who do I talk to in order to make arrangements for staffing a permanent healing facility out here?” Ren asked.
+
+“That would be Miss Grandure.” The healer said. “She's the head of the local branch of healers.”
+
+“Do I need to make an appointment?”
+
+The healer chuckled again. “No, she's an administrator and stays at the office.” He said and gave Ren the address. “She used to do rounds herself, but there was too much paperwork and logistics for her to split her time like that.”
+
+“I understand that part.” Ren said and chuckled himself. “If I didn't have my Dedicated Servant Crafter, I'd never be able to leave my shop.”
+
+The healer nodded. “Well, I guess I better go.”
+
+Ren took out the cart to attach it to Princess, and the healer looked at it.
+
+“Are you driving?” The healer asked.
+
+“There's no need.” Ren said and pat Princess. “She'll get you back before you know it.”
+
+“Without a driver?!?”
+
+“You didn't drive her here, did you?” Ren asked, and the healer's eyes widened.
+
+“I... no, I guess I didn't.” He said. “I pretty much just held on for dear life.”
+
+Ren smiled and asked the healer if he wanted to ride up front in the driver's seat, or in comfort in the back. The healer chose the back, and Ren told him what the handholds were for.
+
+“If you call for another healer, I'm not coming back.” The healer said, and Ren laughed.
+
+“Before I forget.” Ren said and tossed the healer a platinum coin. “Thanks for your assistance today.”
+
+“This... you...”
+
+“You only healed two injuries and Fern, remember?” Ren said. “Don't forget to give your boss their cut of just those three injuries. The rest of that money is for your time.”
+
+The healer slipped the coin into his coin pouch. “Maybe I will come back if you call.”
+
+Ren grinned and reminded him to hold on, and went to the front to talk to Princess. After a short conversation of him telling her what to do, Princess took off at her best speed. Ren and Russell laughed and waved to the cart as it disappeared into the distance, to the sound of a man as he yelled for his mother.
+
+“That was fun, mister.” Russell said. “I'm just sorry you couldn't do anything for Unice.”
+
+“Me, too.” Ren said. “Let's go back to Fern's place and see how he's doing.”
+
+They went through the village and back to Fern's place, just in time to see him trying to leave.
+
+“I've got a field to harvest, Gemma!” Fern said to his wife, who had a hold of his arm and was trying to drag him back inside.
+
+“You were just bedridden from a broken leg!” She said. “The healer said you should stay off of it for a while!”
+
+“He said I should, not that I have to.” Fern said. “The only reason I stayed home this long was so I could tell you the good news when you came home for lunch.”
+
+“Ma'am?” Ren said.
+
+The woman froze, because she was in a bit of a quandary. She knew she should curtsy for Ren, and she needed her hands for that; but, she also knew that she had to keep a hold of her husband or he would make a break for the field he had to harvest.
+
+“If I promise that all Fern is going to do is show me the field and watch while I harvest it for him, will you let him go?” Ren said.
+
+“I... I... yes.” The woman said and let Fern go, then gave Ren a proper curtsy. “Thank you, My Lord.”
+
+“Now hold on just a minute!” Fern said. “You can't make me just stand there and watch!”
+
+Ren chuckled. “Trust me, you're going to want to stand there and see what I'm going to do.”
+
+“I dunno.” Fern said. “You look more like a dandy than you do a farm worker.”
+
+“FERN!” The woman hollered and slapped him upside the head.
+
+“Ow! Dammit, woman!” Fern said and rubbed his ear.
+
+“You make sure you keep the proper respect on your tongue! He could order you killed for saying something like that!”
+
+“Ma'am?” Ren said.
+
+The woman turned to him and ducked her head so that she couldn't look him in the eyes.
+
+“Please, you don't have to avert your eyes.” Ren said, and she looked at him. “I won't order someone's death for something like that.”
+
+“You... you won't?” The woman asked, and looked at her husband. “You might change your mind if you're working the field with him today.”
+
+Fern laughed. “She's right, you know.” He said. “I'll get under your nerves right quick.”
+
+“I doubt that.” Ren said and took the woman's hand. “Ma'am, it was nice to meet you.” He said, gave it a very light kiss and let it go. The woman stared at Ren because she didn't know how to react. No one had ever treated her like she was a high class woman, not even her husband. Fern's daughter was right there behind her mother, and she stepped forward and held her hand out. Ren knelt on one knee and took her hand.
+
+“It was very nice to meet you, too.” Ren said and gave her hand a very light kiss, just like he did to her mother. Unlike her mother, the girl giggled at the feel of his lips on her hand, leaned forward and kissed his cheek.
+
+“FALLA!” Her mother yelled.
+
+Falla took her hand back and laughed, then ran down the road. “I kissed a Lord! I kissed a Lord! I kissed a Lord!” She sang as she ran, then met several other girls who were about her age, and had just come out from hiding several houses away. They all looked over at Ren and started to giggle.
+
+“I'm very sorry about that, My Lord.” Fern's wife said, and Ren stood up.
+
+“I hope you don't think I'll have her hung for stealing a kiss.” Ren said.
+
+The woman's face drained of it's color and she started to swoon. Ren reached out and held her steady with a hand on her shoulder.
+
+“I said I wouldn't do that.” Ren assured her. “Are you going to be okay?”
+
+The woman nodded. “I... I'm... yes, I'm okay.”
+
+“Goodness, woman!” Fern said and grinned. “He doesn't have to worry about me at all! It's you and Falla he should be afraid of getting under his skin.”
+
+Ren chuckled, let the woman's shoulder go, and looked at Fern. “Show me this field of yours.”
+
+“It's not that far from here.” Fern said and started to walk down the road.
+
+Ren nodded to Fern's wife and followed Fern.
+
+“It's the closest field to the village.” Fern said. “I won the bid for it this year.”
+
+“I assume people bid for it so they won't have far to go to work it.”
+
+“You're pretty smart.” Fern said. “Yep, that's why. It cost me one of my best cows for slaughter, but it was worth it.” He said. “Last year I had to go all the way across the county to work.”
+
+“That must have been hard.” Ren said.
+
+“That's an understatement if I ever heard one.” Fern said. “It took nearly half the day to walk there carrying the tools I needed. I could only work for an hour or so, then I'd have to head back.” He shook his head. “It got to the point that I just brought along a bedroll and stayed out there until I was done of a full days work, slept, and worked half of the next day.”
+
+“Is that what people are doing now?” Ren asked.
+
+“Now that they know it's possible.” Fern said and smiled. “I was the first one to come up with it.”
+
+Ren didn't say anything else until they came to the field. “This is it?”
+
+It really was only a short walk away from the village, but nothing seemed to be marked. The wheat was over 5 feet high, and perfect for harvesting.
+
+“How big is your field?” Ren asked.
+
+“We're smack dab in the middle of this side.” Fern said. “It's 2 miles that way.” He pointed to the right. “And 2 miles that way.” He pointed to the left. “Then it's 4 miles right out that-a-way.” He said and pointed straight forward.
+
+“How can you tell where your field ends and the other begins?” Ren asked.
+
+“You just know.” Fern said. “Plus, we all start on the same side and go across.” He said and motioned from his chest out. “I'll bet that Mackie's already got a good couple of feet done on the next lot since yesterday.”
+
+“Can you show me how you harvest?”
+
+“I thought you said I could just stand here and watch.”
+
+Ren chuckled. “You can, I just want to know how you do it.”
+
+“It's easy.” Fern said and unhooked the hand sickle from his belt. “You grab a handful like this.” He said and reached out to grab a good handful of the stalks. “Then you be careful of your legs when you swing.” He said and swung the short circular blade into the bottom of the stalks and it sheared through three quarters of the bundle. He swung again and cut it off completely. Fern held the bundle tightly as he took one of the stalks and wrapped it around, then tucked it in and tossed the small bundle aside.
+
+“That's it?” Ren asked, and Fern nodded. “Can I try?”
+
+Fern looked at his sickle and then at Ren, then glanced down at his leg. “It's my Pappy's, so be careful with it.” He said and held the sickle out.
+
+“Thanks.” Ren said did the same motions as Fern. He grabbed a handful of stalks and cut through the bundle with one swipe.
+
+Notice!
+
+You have unlocked a new skill: Harvesting Level 1 (Beginner 0%). This sub skill under Farming is used to gather crops. Higher levels will allow faster harvesting and higher quality crops to be gathered, with less damage caused in the process.
+
+“You can work twice as fast as me!” Fern said.
+
+Ren wasn't too sure about that, because he took the opportunity to examine the sickle and got the pattern 'Modified Sickle' from it.
+
+Pappy's Old Sickle
+
+This sickle isn't a family heir loom, but it still gives bonuses for family members to use it. Sharpness: +20%, Durability: +20%
+
+Durability: 55 / 200
+
+Sharp
+
+Show info for Sharp. Ren thought, but nothing appeared. “Show info for Sharp.” He said out loud and got the popup.
+
+Sharp
+
+This increases a blade's cutting efficiency by 50%. Blades already Sharp cannot be sharpened again to increase the bonus.
+
+“Fern? Do you mind if I repair it?” Ren asked.
+
+“Mind?!?” Fern nearly yelled. “Dammit, man! Hurry up and do it!”
+
+Ren laughed, took out his blacksmith hammer, and held it to the sickle. “Repair.”
+
+The sickle was covered in a golden glow for a few moments and the tarnish on it faded away, the handle felt tighter, and the blade's edge gleamed in the sunlight. Ren couldn't sharpen it because it was already sharp; but, he could polish it to add Durability, and that's what he did for almost a full minute. He smiled when he examined it again.
+
+Pappy's Sickle
+
+This sickle isn't a family heir loom, but it still gives bonuses for family members to use it. Sharpness: +20%, Durability: +20%
+
+Durability: 250 / 250
+
+Sharp
+
+“There we go.” Ren said and handed it to Fern.
+
+“Wooo-eee!” Fern said and held it up. “Lookit that!”
+
+“That sure is nice.” Russell said.
+
+“Nice?” Fern reached out and grabbed a handful of stalks and swiped the sickle across the bottom of them, and it went right through the bundle. “It's beautiful!”
+
+“Whatcha gonna do now?” Russell asked Ren.
+
+“I was about to show Fern why he'll want to stand here and watch.”
+
+“I'm good at watching, too.” Russell said and grinned.
+
+“Then the both of you can step back a bit.” Ren said and motioned them to move back, and when they were far enough away, he took out the farm vehicle Tee-one had built and laughed at their shocked faces.

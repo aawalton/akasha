@@ -1,0 +1,269 @@
+---
+id: 427222be-d8e7-51bf-9420-2f9f833e390c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 212 - Giant Repercussions"
+slug: 0200-chapter-212-giant-repercussions
+partOf: mythrans-master-of-all-continued-completed
+position: 200
+ownLength: 2715
+unit: words
+publishedAt: 2017-04-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127547/chapter-212-giant-repercussions"
+royalRoadId: "127547"
+---
+
+Ren woke up and he didn't know where he was. “Wha... what's...” He shook his head. “Teepo?”
+
+“Ren!” Teepo said. “Quick! Summon me back!”
+
+“B-back? What?”
+
+“There's no time!” Teepo said, as he flew as fast as he could. “I'm too far away!”
+
+“Too far...what?” Ren blinked his eyes and sat up in the back of the cart. “What's going on?”
+
+“By the gods, there's someone IN that cart!” Ren heard a voice say.
+
+“Open the gate!” Another voice said.
+
+“Princess? What... what's going on?” Ren asked his mount.
+
+You sleep... She thought to him. Man say to bring you here...
+
+“W-where?”
+
+Large stone building we pass through days ago...
+
+“Get in here!” A dwarf shouted. “Hurry! They're coming!”
+
+Ren looked around wobbly, and saw a dwarf waving him into the Garrison. “Princess... go... go inside.”
+
+She trotted over to the gate and went inside.
+
+“We thought the cart was empty, sir.” The dwarf said as they shut the gate. “It showed up a minute ago, with no one driving it.”
+
+“'Salright.” Ren mumbled, and tried to climb out of the cart. He fell out and hit the ground on his face. “Ow.” He said, and rubbed his head as he rolled over on the ground. “What... what hit me?”
+
+“I don't know!” Teepo said. “It hit me too, whatever it was!” He said frantically. “That was 2 hours ago! Please, Ren! Summon me!”
+
+“S-s-summon Teepo.” Ren said groggily, and Teepo appeared beside his prone body. “Hi... buddy...”
+
+“Ren!” Teepo said, surprised. “Are you all right?”
+
+“I... I don't know...” Ren said. “I don't... I... I can't...” He laid his head back on the ground and went to sleep.
+
+*
+
+Croggart felt bad about leaving Ren like that; but, he had to buy himself enough time to get away, and to get through the tunnel under the Garrison. I didn't even have to use the wand again. He thought. Ren must have been really tired. He ran for all he was worth through the hidden tunnel. I'm not letting them take me again. Croggart thought. I just hope the mount remembered where the main door was.
+
+*
+
+Ren woke up on a cot in a small stone enclosure. He didn't know where he was, and looked around. “Teepo?”
+
+“Right here, Ren.” Teepo said, from the small window. Ren tried to sit up, and felt dizzy.
+
+“Don't move yet.” A woman's voice said. “And my name isn't Teepo.”
+
+“Wh-wh-what?” Ren stammered.
+
+“You've had a bad reaction to a sleep spell.” The healer said. “It's pretty rare; but, I've seen it a couple of times. With so many dwarves around, I see a lot of things here at the Garrison.”
+
+It was the same healer that had helped him fill his Mana Pool when he was stuck in the brig so long ago.
+
+“Hi.” Ren said, and tried to sit up again.
+
+“Hi.” She said and held him down. “Do I have to tell you again? Don't move.”
+
+“But... but I have... to go...”
+
+“Where?” She asked him.
+
+“I... I don't remember...” Ren said.
+
+The healer chuckled. “Just lay here until you remember, okay?”
+
+“O... okay.” Ren said, and stopped trying to get up. He didn't feel like he could stand up straight, anyways. He looked at the healer with a question on his face.
+
+“You're wondering why I can't just heal you.”
+
+Ren nodded slightly.
+
+“There isn't anything physically wrong with you for me to heal.” The healer said. “Magic is kind of funny that way.”
+
+Ren tried to chuckle; but his tongue got in the way, and it came out as a raspberry. The healer laughed and pat his shoulder.
+
+“Don't worry. I've never seen the effects last more than an hour.” She said. “It's coming up on that now.”
+
+Ren sighed and looked at Teepo. How... how long...
+
+“Nearly three hours.” Teepo said, a little sadly. “That's assuming whatever hit us only happened that once.”
+
+Damn... dammit. “Ril... Sta...” Ren sighed again. “Dogs...”
+
+“They're with your cart.” The healer said. “They wouldn't leave that ram's side.” She said, then shook her head. “Who puts full armor plate on a ram?”
+
+“M-me...” Ren said, and she smiled.
+
+“Get some rest.” The healer said and stood up. “It's going to be a long fight.”
+
+“Wh-what...”
+
+“Don't worry about it.” She said and walked to the door of the little room. “We'll win.”
+
+Ren stared at her as she shut the door, then looked back at Teepo. What...
+
+“You're going to love this.” Teepo said. “I'm tempted to not tell you, just so you won't freak out about it.”
+
+Teepo...
+
+“I didn't say I wouldn't tell you.” Teepo chittered in laughter. “Do you remember that we didn't see any crazy giants on the way to rescue Groggot, or on the way to the giant's lands?”
+
+Yeah...
+
+“Well, there was a reason for that.” Teepo said. “They were coming here.”
+
+What! Ren thought in surprise, and tried to sit up. He wavered from side to side, and put a hand out to catch himself on the wall.
+
+“See? That's why I didn't want to tell you.” Teepo sighed. “Now you'll want to go out there and help.”
+
+Yes!
+
+“You're in no condition to do that.” Teepo said. “Maybe if you could stay awake for more than a few minutes, you might get better.”
+
+Ren sighed, took several deep breaths, and tried to concentrate on his Fear Aura. His brain was still a bit too muddled for that, though. He clenched his fists in frustration, because even if he risked his life to go and help, he actually couldn't help if he couldn't concentrate properly.
+
+What... do I do? Ren thought to his friend, almost desperately.
+
+“Hope.” Teepo said. “Hope that we're back far enough that they don't reach us before you feel better.”
+
+*
+
+“What the hell happened?” The Commander of the Garrison asked the watchman. “Didn't the field of traps catch any of them?”
+
+“They didn't come at us through the field, sir.”
+
+“What? There's several miles of field! They had to cross it!”
+
+“No, sir. That's just the spot they've all come out at.” The watchman said. “Until now.”
+
+“By the gods, tell me we have something to defend where they are attacking us.”
+
+“We've tried, sir.” The watchman said. “At the most, we've had 2 giants attacking at once, and that was a fluke because the sound of the first one attracted the second that happened to be nearby.” He sighed. “There's nearly 30 of them now, all along the Garrison.”
+
+The Commander sighed. “How far are they in?”
+
+“The one farthest in, is about 25 feet tall and used part of a tree as a battering ram. He's in about a quarter of a mile.”
+
+The Commander shook his head. “I'm really glad they aren't following each other down the paths another one carves.” He said. “We'd be completely lost if they did.”
+
+*
+
+Ren stayed awake for about half an hour, questioned Teepo about everything, and actually did feel a lot better. He took several deep breaths, and concentrated on his Fear Aura. It clicked in, and Ren smiled. He looked at his Screaming Terror rings, formed a connection with one of them and his Dire Wolf Hooded Cloak. A sharp pain hit him right between the eyes, and he grimaced.
+
+“It's okay.” Teepo said from his scouting position. “We can wait a little while longer.”
+
+No, we can't. Ren thought as he terminated the Connection and switched to his Command Aura. If the giants get any further in, they'll hit something vital. He sighed and climbed out of bed. He didn't feel woozy or lightheaded at all. I'm really glad they built this place like they did. All the small compartments are contained and the giants have to beat down hundreds of 50 foot tall, 15 foot wide walls just to get to the middle where the main barracks are.
+
+Teepo flew in the window and hovered in front of Ren. “You should rest a bit more.”
+
+I need you to scout ahead of me. Ren thought. But stay close. This is the worst thing the Trouble recipe has done yet.
+
+“I know.” Teepo said. “Why else did you think I wanted you to summon me back?” Teepo slid under the door. “There's a guard, and a small hallway.”
+
+I thought you just didn't want to fly all that way.
+
+Teepo chittered in laughter as Ren opened the room's door.
+
+“Sir!” The guard said. “You should stay in bed.”
+
+“I've had too much sleep already.” Ren said. “Where's my mount?”
+
+“It's... ah...”
+
+“Who would know where my mount is?”
+
+“One of the watchmen, sir.”
+
+“Then go get him.” Ren said, and followed the guard as he left the hallway and went outside. They found the watchman and he told Ren the mount was several sections over in a park area. “Open the gates to there.” Ren commanded, and the guard looked at him like he was crazy.
+
+“Sir! All gates are on lock down now that the evacuations are complete.”
+
+Ren grabbed the guard's shoulder and shook him. “This is no time to question my orders! Close the gates after I go through them!”
+
+“I... ah...”
+
+“Bah!” Ren said, and shoved the guard away. “I'm trying to stop the giants! If you aren't going to help, get out of the way!” He said to their startled faces, then ran towards the nearest gate. “OPEN THIS GATE!” Ren yelled, and the Warrior on top looked down at him.
+
+“I'm sorry, sir!” The Warrior yelled. “The gates are on-”
+
+“OPEN THIS GATE, OR I WILL BREAK IT DOWN!” Ren yelled. “I own this Garrison, godsdammit! You are my soldiers! OPEN IT RIGHT NOW!”
+
+Two more Warriors, and a Knight came over to look down at him.
+
+“What's going on here?” The Knight asked.
+
+“I”M GOING TO FIRE YOU IF YOU DON'T LISTEN TO ME!” Ren hollered as loudly as he could. “OPEN! THIS! GAAAATE!!!”
+
+“Is he crazy or something?” One of the Warriors asked.
+
+“ARRGGGHHHH!!!” Ren bellowed at them. “YOU IDIOTS ARE FIRED!” He took out his hammerpick and ran back about 20 feet. It's just a minor obstruction. It's just a minor obstruction. He thought to himself over and over, then ran towards the gate that looked both solid and sturdy. At the last second, he swung the hammerpick and hit the wood, breaking it slightly, then crashed through the gate as if it wasn't there when his shoulder hit it.
+
+“Hahahaha!” Ren laughed along with Teepo, who chittered in delight. They continued on through the next gate, and then the next, to arrive at the small park where Princess, the cart, and his two dogs, Riley and Stacy, were waiting for him. “Hi, everyone.” Ren said as he came to a stop. He unhooked the cart from Princess, and stored it. “Let's go.”
+
+Where... Princess thought to him.
+
+“We have giants to stop.” Ren said. Teepo? Where's the nearest stairs to go topside?
+
+“We passed it already.” Teepo said. “It's back a section.”
+
+“Follow me, please.” Ren said and ran back a section, with Princess right there with him, and the two dogs close behind. They went up the stairs and looked around at all of the startled faces. Ren ran over to where the Knight and three Warriors still stood. They stared at him in surprise.
+
+“I said you were fired.” Ren said. “I'm sure you got the notification.” He smiled. “I'm tempted to take the cost of the gates from your severance pay; but, I'm not that heartless to leave you with nothing. Drop off your gear at the armory, and get out.” He said and turned away. “I hope you listen better at your next job.”
+
+The Knight and three Warriors watched him walk away for a moment, then started the long walk across the battlement walls to drop off their things at the armory.
+
+“That was a little harsh.” Teepo said.
+
+Yeah. Ren thought. But I had to keep my word.
+
+“You'd have lost Honor and Influence if you didn't.” Teepo said.
+
+Right. Ren looked at Princess. “I think it's time.”
+
+As do I... She thought to him, and knelt. Ren climbed up onto her back and sat in the saddle.
+
+“How is it?” Ren asked her as she stood.
+
+Not too bad...
+
+“That means it's not too good.” Ren said. “Is it too much for you to handle?”
+
+Let's see... Princess thought, and took several steps, then trotted, then ran. She couldn't get up to full speed, but that didn't matter. She was finally his mount after all of this time, and she exulted in the feeling of completion. Princess was still a lot faster than Ren, and they made it to the closest giant a minute later.
+
+A male giant, about 23 feet tall, was pounding the inside wall with his fists, grabbed chunks of stone that broke off, and hurled them at anything that moved. Several Warriors were trying to harass the giant, and that was fine with Ren, because it bought him a little time. He took out a Fireball wand, absorbed the charges from it, and replaced the spell with Web. He shot the giant's feet with it, and asked Princess to back off slightly.
+
+“You know what to do.” Ren said, and took a hold of her reins. Princess huffed her agreement, cantered her hooves a couple of times, then ran for all she was worth. She leaped from the edge of the 50 foot battlement wall, flew through the air and down to the confused giant, and rammed her horns into the giant's back. The impact hit the giant right between the shoulder blades, and Princess' and Ren's momentum smashed the giant into the wall he was several feet from, then he crashed down to the ground. They rode his back until he hit, then Princess hopped off as if she was taking a leisurely stroll.
+
+“By the gods, did you see that?”
+
+“Who is that guy?”
+
+“That's Ren.” One of the Warriors said. Ren looked up at him, and it was one of the dwarves from his recruit class when he was drafted.
+
+Teepo? Is that who I think it is?
+
+“Yep.” Teepo said. “That's the overweight dwarf.”
+
+“I barely recognize him.” Ren said and waved to him. The dwarf waved back, and the other Warriors stared at him, then back at the dwarf. “Now the fun part.” Ren said, and asked Princess to get closer. He switched his Aura from Command to Fear, then connected his Screaming Terror ring. The pain wasn't as bad this time, and Ren sighed. I think this is going to hurt. He thought, and made the connection between the two Screaming Terror rings. A sharp pain lanced through his brain, but he ignored it as he activated both rings together, and he could hear the same thing he heard when he did this to Rubella. The giant's ear filled with blood, and a minute later, a grub-like thing slopped out of the ear and fell to the ground.
+
+Ren hopped down and picked up a nice-sized chunk of stone. “I already have one for evidence.” He said, and dropped the stone on it. It squished nicely, and was only a stain on the ground now. He waited for a minute, to see if any more of the grub-like things would appear; but, they didn't, so he let the Connections lapse, switched to his Command Aura, then used a Minor Healing wand on the giant's ear to stop the bleeding.
+
+“I'm out of rope.” Ren said and waved to the Warriors on top of the wall. “Get down here and secure this man. He won't remember much when he wakes up; but I'll deal with that later.” Ren climbed back up onto Princess. “Do NOT kill him!” He said. “He's a victim of this, almost as much as we are.”
+
+“Understood.” The previously fat dwarf said, and nodded at Ren. The other Warriors nodded to him as well, and Ren dismissed the Honor gain popups.
+
+Teepo? Where's the next set of stairs?
+
+“Two sections in, one section over.” Teepo said.
+
+Ren asked Princess to go that way. “We have a lot more work to do.”

@@ -1,0 +1,341 @@
+---
+id: 7529dce0-fc87-53b7-8f02-0306f81a6163
+page-type-slug: story-chapter-royal-road
+title: "Chapter 489 - The Light Shines"
+slug: 0489-chapter-489-the-light-shines
+partOf: mythrans-master-of-all-continued-completed
+position: 489
+ownLength: 3765
+unit: words
+publishedAt: 2018-01-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/188917/chapter-489-the-light-shines"
+royalRoadId: "188917"
+---
+
+“Why did you do that?” Elerlyth asked as Ren and the healer walked over to her. “I felt what you did.”
+
+“I was tempted to just leave him.” Ren said, and he felt her emotional reaction despite him telling the truth. “I really would have.” He said and raised a hand to stop her protest. “The girl wouldn't survive long if she was alone.”
+
+Elerlyth sighed. “She might have been okay if he had died.”
+
+“Not by your hand, though.” Ren smiled. “We'll never know if she would be, because she saved him.”
+
+“Yeah.” Elerlyth said. “What was that squeal just now?”
+
+“My Lord gave the girl a 4 foot wide plush spider.” The Dark Elf healer said.
+
+“Yeah, that would do it.” Elerlyth said. “She must have been terrified.”
+
+“Not at all.” Ren said and smiled. “She loved it.”
+
+“You're kidding!” Elerlyth said, surprised.
+
+“She damn near tore my hand off taking it.” Ren laughed.
+
+“My Lord, I need to return to the Queen.” The healer said.
+
+“In a minute.” Ren said and disappeared.
+
+“What the...?” Elerlyth looked to where he went by following his feelings, and then he was back. “Ren, what...?”
+
+Ren took out another 4 foot wide plush spider toy and gave it to the healer. “Thank you for helping me today, M'lady.”
+
+“My Lord, it was my pleasure.” The healer said and stored the toy. She took out the Major Healing wand and handed it to him, and he refilled it and handed it back. “My Lord?”
+
+“Please keep it.” Ren said. “It should last a while, and when it's empty, either call me or come to my county for a visit.”
+
+“You are too generous with such expensive things.” The healer admonished him, then smiled sweetly. “Thank you.”
+
+“You're welcome.” Ren said.
+
+The healer turned away from him and touched a spot above her breast. “My Queen, may I return?” She asked, and a portal formed next to her. “Before I go, can you find it in your heart to forgive the Queen for sending the fast attack squad to attack you?”
+
+Ren stepped forward and gave the healer a kiss, and pushed a strong feeling of forgiveness into her. “Please give her that for me.”
+
+“Y-yes, My Lord.” The healer said a little flustered, then stepped through the portal. It disappeared and Ren looked at the All-Seeing Mirror and asked it what was above them. It showed nothing, so he used the Staff of Earth to make another tunnel up through the ground to the surface.
+
+“Let's go.” Ren said and climbed onto Princess' saddle. Elerlyth climbed up onto her mount, Etheria, and Artemis floated up beside Ren. The small group quickly went up the tunnel and came to a stop a couple of minutes later, after they had reached the surface. Ren dismissed the tunnel and took out the large cart and opened it for Elerlyth and her mount to ride in.
+
+They climbed in and he shut and locked it, climbed onto Princess again, then rode across the sky as quick as a flash. He had Princess land on the main road to his county, and let Elerlyth and her mount out of the cart.
+
+“I could have flown from the Main House.” Elerlyth said.
+
+“You could have flown the entire way, too.” Ren said and grinned, and she laughed.
+
+“Okay, okay.” Elerlyth said. “I appreciate both the ride and dropping me off first.”
+
+“You're welcome, now get going.” Ren said. “I've got a couple of errands to do before going to bed.”
+
+“Goodnight.” Elerlyth climbed onto her mount's saddle.
+
+“Goodnight.” Ren said, and she flew away over the trees to her place while he unhooked the large cart and stored it. “Princess, take me to Yllana's place.” He said and climbed up into the saddle.
+
+“Yes, My Lord.” Princess trotted up into the air and disappeared. A few minutes later, she came to a stop just above Yllana's apartment building and Ren asked Artemis to stay with Princess. He ran down to the door of the building and went inside and up to the second floor, then knocked on her apartment door as he equipped his High Elven Court Uniform. He heard swishing cloth and frantic feet approach the door from inside the apartment.
+
+“Who in the world would be knocking this late at...” Yllana opened the door and stopped talking when she saw Ren. “M-my L-lord Ren! What are you doing here?”
+
+“I sincerely hope you were thinking about me.” Ren said and glanced down at her hastily closed robe that wasn't quite closed enough to hide everything.
+
+“I was.” Yllana said. “In fact...” She looked around Ren to see if anyone else was in the hallway. “...I was...” Her hand reached out and touched his uniform. “...doing something naughty.”
+
+Ren took out the All-Seeing Mirror from inventory. “I know you were.”
+
+Yllana gasped, and Ren felt her finish a little.
+
+“May I come in for a few minutes and discuss it?” Ren asked and stored the mirror.
+
+“My Lord, you may come in for as long as you want.”
+
+“Thank you, My Lady.” Ren said and stepped into her apartment and shut the door.
+
+*
+
+Lylyth, the Queen of the Dark Elves, was a bit surprised that Ren had given the healer something for her. “Well, don't just stand there.” She said. “Give it to me.”
+
+“Yes, My Queen.” The healer said. Thanks to Ren's amulet, she climbed up Lylyth's leg and arm to put her head at the Queen's height.
+
+“The Royal Consort said to give this to you.” The healer said and kissed Lylyth right on the lips and poured Ren's forgiveness into her. The healer wasn't as adept as Ren was with sharing emotions, and the Queen's lips were twice as big as hers; so, it took her a little longer to share both the kiss and the whole feeling of forgiveness with the Queen. The healer broke the kiss and climbed back down to the floor, and Lylyth just stood there. She was a little too flustered to say anything coherent.
+
+“I felt the same way when he made the request, My Queen.” The healer said, happy that she had fulfilled Ren's request, and had achieved the same result that he had elicited in her.
+
+*
+
+Yllana had nearly lost her mind in ecstasy as Ren told her what he had been doing while he and Elerlyth had watched her pleasing herself.
+
+“You...” Yllana kissed him. “...are too good...” She knelt in front of him. “...to be true.”
+
+“Yllana, I...” Ren tried to say as she started to undo his pants. “...didn't visit for...”
+
+“Nonsense.” Yllana said and started to please him. She was quite enthusiastic about it, and Ren could feel her passion become unbridled. “You knew exactly what would happen if you told me that.” She said and kept going. He couldn't resist a woman that knew exactly what she wanted and was willing to take it; so, he finished quickly.
+
+“Yllana, I...”
+
+“I know you need to leave, so you can't reciprocate this time.” Yllana said and cleaned him up. “Thank you for fulfilling one of my fantasies.”
+
+“One of?” Ren asked as he fixed his pants, and she chuckled as she stood up.
+
+“I'll tell you more when you have some spare time.” Yllana gave him a hug and whispered. “Think of me again soon.”
+
+“I will.” Ren said. “Goodnight.”
+
+“Goodnight.” Yllana said and kissed his cheek, and Ren left her apartment. He ran downstairs and outside, and up to Princess.
+
+“To Railyse, please.” Ren said as he climbed onto Princess. She trotted up into the air for a moment, then disappeared. They came to a stop next to the 300 foot wide by 300 foot long by 100 foot deep pool, and Ren told Artemis to stay beside Princess once again. He left some food for his mount, deactivated his Water Walk effect, and dove into the pool.
+
+“Ren!” Railyse exclaimed as Ren swam over to her. “I thought you might have forgotten.”
+
+“After we did Elerlyth's task, I made a quick stop at a friend's place.” Ren said and smiled. “Believe me, it was quick.”
+
+Railyse laughed and hugged him. “Yes, I believe you.”
+
+“Now, have you thought of what you wanted?” Ren asked.
+
+“Ever since I've been in this wonderful oasis you've made.” Railyse said. “The biggest thing I want is a whirlpool.”
+
+“Really?” Ren asked. “Isn't that dangerous for water elementals?”
+
+“If they aren't careful.” Railyse said, and Ren caught on to what she was doing. She wanted the water elementals in her care to have access to training for the dangers of open water.
+
+“Let's get to work.” Ren said and they swam off across the pool. It took almost an hour to get everything all set up the way Railyse wanted, and when they were done, they went up to the surface of the pool. Ren activated his Water Walk effect and disabled his Regeneration.
+
+“Even though I've experienced this twice before, it still amazes me that you do this.” Railyse said and knelt on the water. The two water elementals popped up beside her and waited patiently as she opened her mouth all the way to receive the bounty Ren was about to bestow upon her.
+
+Ren took out the hammerpick and was about to cut, when he remembered he didn't have a Major Healing wand ready. He replaced the charges on another wand and held it at the ready, then cut his wrist with the plow end.
+
+Railyse didn't struggle with the flow of blood from him for quite a long time. Ren couldn't tell if the choppy water was from the enchantments that he and Railyse had set up, or from her burgeoning powers. He had to heal himself twice before he felt her start to falter in her consumption. He healed the cut to stop the flow of blood, and Railyse closed her mouth.
+
+“By mother's trident, that was glorious.” Railyse said, and a new water elemental popped up out of the water.
+
+“You're going to have your own Royal Guard soon.” Ren said, then greeted the new arrival with a few bubbles and gurgles. He knelt and cut his finger, and presented it to the largest water elemental. It pulled his finger inside of itself, and Ren felt it relax as his blood tinted it red. He almost chuckled as he felt the water elemental's satisfaction.
+
+When the blood didn't quite fade away as fast as it should, Ren knew it had had enough and pulled his finger out, then presented it to the next water elemental. It pulled his finger inside of itself and Ren felt how happy it was to receive such a good and tasty offering. It was smaller than the first elemental, so it was full much sooner. He removed his finger and looked at the newest water elemental.
+
+“Little one, do you...” Ren asked in the Sea Dweller's language, and it splashed out of the water and he caught it. “I'll take that as a yes.” He said, and Railyse laughed.
+
+“Can you feel how eager it is?” Railyse asked, and Ren nodded. It didn't take too much blood before it was full, and Ren activated his Regeneration ability and the cut healed instantly. He put the water elemental down onto the water, and it swam around in circles.
+
+“Thank you for this.” Railyse said. “All of this.”
+
+“It was my pleasure, Future Queen.” Ren said, and she smiled.
+
+“That sounds so horribly formal.” Railyse chuckled.
+
+“You have a growing audience, and being disrespectful to you is not a good thing in front of them.” Ren said and chuckled, too. “If you will excuse me, I have another errand to perform before I head to bed.”
+
+“Yes, you may leave.” Railyse said and reached out and touched his face. “Would you like another blessing?”
+
+“Of course.” Ren said and smiled. “You know my thoughts on getting to kiss you.”
+
+“I think I'm starting to like this human fetish of yours.” Railyse said and kissed him.
+
+Notice!
+
+You have received a blessing from the Future Queen of the Water Realm. You now have a 20% bonus to all water-based enchantments, spells, and effects for the next 24 hours.
+
+“No, it still feels weird.” Railyse said, and Ren laughed.
+
+“Goodnight, Railyse.”
+
+“Goodnight, Ren.”
+
+Ren ran over to Princess and Artemis, and they all walked over to the Main House. Princess went into her house, and Ren and Artemis went to the large warehouse.
+
+“There you are.” Officer Holly said from a chair just inside the doorway. “Running a little late, I see.”
+
+“Only a little.” Ren said and smiled as Artemis stood beside Officer Holly. “Your armor should be finished in about half an hour.”
+
+“Thank you.” Officer Holly said. “I can't wait to see it.”
+
+“Me, either.” Ren said.
+
+“Wh-what?”
+
+“We couldn't complete the recipe until all the enchantments were finished.” Tee-one explained. “It's not just adding the jewel enchantments that has to be done. The basic metal pieces need to be enchanted as well.”
+
+“Wait.” Officer Holly said. “That's going to take half an hour?”
+
+“Yeah, we're going to take our time and make sure we get it right.” Ren said, and he felt her surprise. He didn't comment on it as he and Tee-one got to work and enchanted the armor pieces to their fullest extent and assembled them. When they were done, Ren checked the Holy Armor recipe. He removed the minimum level requirement and replaced it with the heavily modified Ring of Regeneration recipe, put the armor on the Craft Wondrous Item platform, and activated the Holy Armor recipe.
+
+The armor was covered in a white glow for a full minute before it was done, and then Ren and Tee-one added all the diamond accents to the pieces. That was the time consuming part, and yet they were done well within the half an hour limit Ren had stated.
+
+“Okay, what weapon do you want?” Ren asked.
+
+“Wh-what?” Officer Holly asked.
+
+“Do you want a sword? A pike? A spear? A lance? What?”
+
+“I... I don't know.” Officer Holly said. “I just barely started this class.”
+
+Ren smiled. “Standard weapons it is, then.”
+
+“We could get away with just casting them.” Tee-one said. “If they're just basic weapons, we don't have to fold them a bunch of times.”
+
+“That's true.” Ren said and looked at Officer Holly. “When you go up in levels, you should get a recipe for a weapon, probably something specific for your class. We'll go all out with our forging techniques when you do.”
+
+“Okay.”
+
+Ren turned to Tee-one. “Set up the molds, and I'll add the molten metal to the satellite smelters.”
+
+They went back to work and quickly made the weapons, then changed the molds to different kinds of shields. While Tee-one poured the shields, Ren went to a workbench and worked on the weapons. He enchanted them, used Double Infusion to make them that much better at dealing damage, then sharpened them.
+
+“I have the shields.” Tee-one brought them over to Ren, who worked on them while Tee-one used Double Infusion to enhance the weapons even more. Officer Holly sat there and watched them for the entire time, and she couldn't believe how fast they were working. She suspected they were doing hours of work in only minutes, and she couldn't understand how that was possible.
+
+“It's fascinating, isn't it?” Artemis said. “It's like a well-choreographed dance.”
+
+Officer Holly had to agree. “I've never seen anything like it.”
+
+“Neither have I.” Artemis said. “It's amazing.”
+
+Officer Holly nodded and watched as they finished the shields, then they made a bow and arrow and a crossbow. The last item took nearly 10 minutes to make, and it looked weird with a large canister mounted in the middle of it. Ren stretched a little when they were done, and he walked over to her.
+
+“Well, we're done.” Ren said. “Are you ready to be amazed?”
+
+“Dazzle me.” Officer Holly said.
+
+Ren took her new armor out of inventory and handed it to her. She took it and equipped it, and caught her breath as it took effect.
+
+Guardian of Protection's Enhanced Armor of Light (Very Rare, Binds on Equip, Cannot be Dropped, Permanent)
+
+This armor is the embodiment of Light itself, and shines with an inner light to show others your true value. When worn, it is as much a part of you as your own hand. This armor is complete and can no longer be modified. Weapons used by the wearer will be imbued with Light to enhance their effectiveness.
+
+Grants: Reassurance Aura (Intermediate), Command Aura (Intermediate), Camaraderie Aura (Intermediate), Sense Undead Aura (Intermediate), Sense Void (Intermediate).
+
+Please note: Auras combine with those of the wearer (if present) to enhance your natural abilities.
+
+Inherent Spells: Detect Undead, Turn Undead, Minor Healing, Major Healing, Cure Poison, Cure Curse, Full Restoration
+
+Stats modified when worn:
+
+Strength  2,500  Dexterity  2,500
+
+Vitality  2,500  Agility  2,500
+
+Endurance  2,500  Intelligence  2,500
+
+Luck  100  Wisdom  2,500
+
+Bonuses when worn:
+
+Protection  1,250%  Defense  1,750% to Armor
+
+Spell Resistance  1,500%  Stealth  +150%
+
+Damage Resistance  1,500%  Concealment  +150%
+
+Empowerment  50%  Speed  +550%
+
+Reinforcement  +75% to Defense  Toughness  +1,500% to Durability
+
+Complete Set Bonus: +75 to all stats, +25% Armor Value, +25% Defense
+
+Normal Information:
+
+This armor has Lightness that grants an 80% reduction to weight and burdens carried, and is less restrictive than regular armor. No movements are hampered, and any penalties to Agility and Dexterity are negated.
+
+Durability: Not Applicable (Maxed)
+
+“Oh... my... god.” Officer Holly said as she looked down at herself. She was covered from neck to toe in white segmented armor. It had gold filigree around the edges, and the chest piece didn't have the normal shaped breasts that other women's armor had. It was a single slightly pointed piece that went right across the chest. She also had a full helm instead of the tiara he would normally make.
+
+“Do you like it?” Ren asked, just because he knew that she expected him to, even though he felt everything she was feeling at the moment.
+
+“Ren... oh, my god.” Officer Holly tried to touch the armor and saw her hands were covered in gauntlets.
+
+“You can store the helm and gauntlets when you want.” Ren said. “I always make them as separate pieces.”
+
+Officer Holly stored the gauntlets and traced her fingertips across the gold and white armor. The inner light of the armor highlighted her skin, and she almost giggled at the sight. Her favorite toy had been a glow worm that glowed with internal light, and now she was one.
+
+“Since you don't know your fighting style yet, I've enchanted each of these weapons the same.” Ren said and handed over the 5 weapons he had made. A broadsword, a long sword, a spear, a mace, and a lance. “They are loaded with Light damage and will help you fight the undead.” He smiled. “You should be able to cut through them like a hot knife through butter.”
+
+Officer Holly stored them and Ren took out the shields.
+
+“These depend on the weapon you use, and what you need to protect yourself in battle.” Ren said, and handed her a small buckler, a large round shield, a tower shield, a medium-sized square shield, and a tower shield with a slit in the middle of it to attack through. “They are also enchanted with Light, and when you activate them, will light up a room and reveal any spirits that might be lurking.”
+
+“Spirits?” Officer Holly asked. “Oh! You mean banshees and spectral knights.”
+
+“Those, too.” Ren said.
+
+Officer Holly realized that he meant actual ghosts and a shiver went down her spine.
+
+“Don't worry. I've only met one actual ghost so far, and the Light enchantments on my arrows helped it move on.”
+
+“Okay.” Officer Holly said. “I have to watch out for ghosts.”
+
+Ren chuckled. “Your armor will take care of that.” He said and tapped her arm with a finger. “When they come within your Aura, they will be revealed in plenty of time to deal with them.”
+
+“Understood.”
+
+Ren took out the bow and a quiver of arrows. “I don't know if you have the archery skill, so here's a bow that gives it to you when you use it.” He said and she stored it, and he took out the crossbow. “This is an automatic crossbow. It shoots normal bolts, and you load them like this.” He hit a little switch and the main cartridge dropped out, and he pointed to the slot. “Just shove them in there, and pop it back in.” He did that and showed her a selector on the side. “You can do single shot, triple shot, and full auto.”
+
+“You're kidding!” Officer Holly exclaimed.
+
+“Nope.” Ren said. “Just hold the trigger and they just keep shooting out.”
+
+“Wow.”
+
+“You burn through ammo fast like that; but, in some circumstances, it's necessary.”
+
+“I can imagine.” Officer Holly said and stored the crossbow.
+
+“Here's 2 replacement cartridges, too.” Ren said and handed them over.
+
+“How much do I...”
+
+“Nothing.” Ren said and waved her offer away before she made it.
+
+Officer Holly stored the cartridges and shook her head. “This... it's a fortune's worth of items.”
+
+“Yeah, it always is.” Ren said and smiled. “Why do you think I never sell this kind of stuff?”
+
+“You don't need the money?”
+
+“No.” Ren said. “Even if I wasn't rich beyond compare, I'd only want the cost of the materials anyways.”
+
+“But...”
+
+“If all I wanted was money, I could have stayed in the starter city and worked every day and made a fortune by now.” Ren said. “Instead, I had fun, went on adventures and gathered materials... and inadvertently money.” He chuckled. “I could give everyone I've met a thousand platinum coins each, and still have tens of thousands left.”
+
+Officer Holly's mouth dropped open in shock, and he laughed.
+
+“Look, here's proof.” Ren said and took out a handful of platinum coins and gave them to her. “I'm going to be busy for the rest of the night, so you can go and have fun somewhere.” He said and gently took her arm and guided her out of the warehouse. “Good luck trying to spend it all.” He said and went back inside. Officer Holly looked at the pile of platinum coins in her hands and shook her head.
+
+“He really is crazy.” Officer Holly said.

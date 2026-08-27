@@ -1,0 +1,255 @@
+---
+id: de0872a0-4add-5ee4-bdaf-5a415ac4d062
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51 - Surprise!"
+slug: 0035-chapter-51-surprise
+partOf: mythrans-master-of-all-continued-completed
+position: 35
+ownLength: 3456
+unit: words
+publishedAt: 2016-10-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97772/chapter-51-surprise"
+royalRoadId: "97772"
+---
+
+Ren woke up in the spare bedroom and Teepo was sitting on his chest. Good morning, Teepo.
+
+“Hi, Ren.”
+
+Is there anything wrong? Ren asked and sat up.
+
+“Except for the broken fence, no. I checked the rest of the house and everything is quiet.”
+
+Ren looked out the window and saw that dawn was just breaking across the horizon. Broken fence? I wonder if Aimus is up yet.
+
+“He is. I saw him through the kitchen window earlier.” Teepo said and crawled up onto Ren's shoulder.
+
+Ren nodded, activated Sneak, climbed out of bed, and opened the spare room door. Ren creeped down the hallway and through the kitchen. The house was still dark, but Ren had no trouble seeing and closed the front door once he was outside. Ren listened intently to see if he could find Aimus. Ren heard a clinking sound from over by the old shed and went to see what it was. When Ren stepped close to the door of the shed, Aimus came out with the post digging tool and a shovel.
+
+“Hi, Aimus.” Ren said and closed the door.
+
+Aimus was startled and swung the shovel around at chest height. Thankfully, Ren was a head shorter than normal people and ducked as the shovel swished by his hair.
+
+“Hey! Take it easy.” Ren said and stood up straight. “It's just me, Ren.”
+
+“Jeezus! Don't scare me like that. I could have taken your head off!”
+
+Ren smiled and shrugged. “Sorry. I heard you over here and came to see what you were doing.”
+
+“Something busted my fence over there.” Aimus said and pointed. A fence post was torn up and several feet of wire on each side was tangled beyond repair.
+
+“Need a hand?” Ren asked.
+
+“Sure.” Aimus said and handed Ren the post digging tool and the shovel. Ren stored them and Aimus took out the big roll of wire and a big set of wire cutters. “I'm going to have to buy another one of these when I get back to town.” Aimus said and handed the roll of wire to Ren.
+
+Ren stored it and followed Aimus over to where the damage was. It didn't look too bad, but it was a mess. Aimus used the wire cutters and trimmed off the damaged wire from the nearby posts. Aimus did the same with the torn up one and Ren lifted the post out of the way and stored it. Aimus asked for the shovel and Ren handed it over. Aimus worked at it and had the ground almost flat where the post used to be.
+
+“I'll be right back with the new one.” Aimus said and left Ren standing there in the dark.
+
+Teepo... want to scout around and tell me if anything's out here with us?
+
+“Sure thing, Ren!” Teepo said and jumped onto the ground. After looking at the torn up ground, Teepo crawled around until he stopped. Ren wondered if he'd found something when Teepo skittered quickly away in the direction of the forest.
+
+Be careful! Ren thought as Teepo disappeared behind a tree.
+
+Ren looked down at the ground, but couldn't see any obvious tracks. Ren did see the pieces of wire Aimus had cut away from the posts and picked one up. Ren looked at it closely and saw small tuffs of fur on the burs. Aimus came back with a new post and put it down by the newly packed dirt.
+
+“Aimus. Look at this.” Ren said and handed over the piece of wire.
+
+Aimus took it, picked off one of the tuffs of black fur, and sniffed it. “No. They can't be here!” Aimus' face twisted in a snarl. “Dammit.”
+
+“What is it?” Ren asked.
+
+“Wolves.”
+
+“They had those in the forest around Aurora.” Ren said.
+
+Aimus barked a laugh. “No, Ren. Normal wolves would never cross the mountain pass to get here.”
+
+“Then what are they?”
+
+“Dire Wolves.” Aimus said in a dark tone. “They are a much bigger version of a normal wolf.”
+
+Ren's eyes widened and searched the edge of the forest.
+
+“Don't worry. Once they hit something like this, they usually back off.” Aimus said indicating the fence. “We'll need to reinforce the posts and check the wire all the way around again, just in case they might have hit somewhere else.”
+
+Ren nodded and passed over the post digging tool. Aimus made quick work of it and shoved the new post in the hole.
+
+“Dammit, I forgot the mallet.” Aimus said and rushed off to get it.
+
+Ren stood there in the brightening day and was amazed that Aimus could get so flustered. Aimus was always so calm and collected, even when they were being chased by those golems. Ren wondered why Aimus was so shaken up about dire wolves.
+
+“It's because they track by scent, and once they have it, they'll never stop until they get their prey.” Teepo said.
+
+Teepo? Where are you? Ren thought to his friend.
+
+“Um... maybe a hundred feet in the trees. I followed the tracks I found to here, but there's a bunch of them here and I can't find which way the tracks came from.” Teepo said.
+
+That's okay, Teepo. I'll let Aimus know.
+
+“I'll keep scouting then.”
+
+Okay, but be careful.[i] Ren thought.
+
+Aimus came back to where Ren stood, dressed in full hunting gear and a huge mallet. Aimus took the mallet and drove it onto the fence post and pushed it harder into the packed ground until it was about the same height as the other posts. Ren handed over the roll of wire and Aimus wrapped it around the pole on one side, around the new post, and then around the post on the other side. Aimus did this 3 times to cover the space from the top of the post to near the ground. Aimus twisted the ends together and cut the excess off.
+
+“Teepo said that about a hundred feet or so into the forest there...” Ren said and pointed in the direction that Teepo had been. “...the tracks from here started, but he can't find where they came from because there were too many.”
+
+Aimus looked at Ren and Ren felt like Aimus was blaming him.
+
+“I swear, I didn't do anything... or go anywhere... or even say anything about wolves or creatures or anything else.” Ren said in defence and raised his hands in surrender.
+
+Aimus closed his eyes for a moment and took a deep breath. Aimus opened his eyes and smiled. “I know you haven't. I've been keeping a very close eye on you.”
+
+It was Ren's turn to smile. “I figured you were, but it doesn't hurt to defend myself anyways.”
+
+Aimus passed the tools and wire back to Ren and motioned for Ren to follow. Aimus jogged along the fence and Ren kept up with him. They stopped several times along the way and made minor repairs, but nothing like what was like on the other side of the farm. By the time they got back to the house, half the day had passed. Aimus sat down to rest and Ren stood beside him to unload the tools they'd used.
+
+Ren took out the empty roll of wire, the post digging tool, and the wire cutters. When Ren took out the mallet and saw that it was almost as tall as him, he looked at it closely. It was about 4 feet long, including the wooden handle. Most of the head was wooden as well, but it had two large metal caps on the ends. Ren admired the simplicity of it's design when Teepo called out.
+
+“Ren! I found one!”
+
+“Where, Teepo?” Ren said out loud.
+
+“It's about... a mile away? Maybe a bit less? I have a hard time keeping track of distance with these little legs.”
+
+“Direction Finder.” Ren said to Teepo and they did the direction finding technique they'd used so often before. “Aimus... there's a dire wolf about a mile in that direction.” Ren said to Aimus and pointed about 20 degrees off the main road that led to Aimus' farm.
+
+Aimus nodded and stood up.
+
+“Ren! It's running! I can't keep up. It looks like... yes, they are definitely chasing something.”
+
+“Teepo says it's chasing something.” Ren told Aimus who unslung his bow and headed off into the treeline.
+
+“Summon Teepo.” Ren said and tapped the ring. Teepo appeared at Ren's feet and Ren picked him up. “Good work, Teepo.”
+
+“Thanks, Ren.”
+
+Ren hoped that Aimus found the thing before it found Aimus. Ren gazed at the landscape to see if there was any kind of movement and noticed something in the distance down the road. Ren squinted his eyes and he could barely make out a bright red cloak. Ren walked to the end of the partial road that led to the homestead, and stood beside the main road at the very edge of Aimus' property.
+
+The red cloak came closer, and as Ren stared to try and make out the shape, it waved. Ren waved back and heard something. Ren turned his head to see if he could hear better.
+
+“REN!”
+
+Ren turned to look directly at the figure and it started to run and waved harder.
+
+“REN!”
+
+As the figure got closer, Ren could make out that whoever it was, they were definitely saying his name. Because Ren was looking right at the figure as they ran, Ren just happened to catch movement in the corner of his eye. It was by the treeline, and as Ren tured to stare, a wolf about the size of a pony came through the trees and started running across the clearing to the figure.
+
+“NOOOO!” Ren said and started running down the road. “BEHIND YOU!!!”
+
+The figure turned their head and saw the giant wolf coming. They tried to run faster as a bow appeared in their hands. Ren shook his head. [i]They'll never fire accurately like that! “Just RUN!!!” Ren hollered as he got closer. Ren got to within a few hundred feet and the cloaked figure stopped running and turned to face the dire wolf. When the figure drew back the bow to shoot, the hood of the cloak fell down. Ren recognized the spill of blonde hair that followed. Ren would know that hair anywhere.
+
+It was Lucy.
+
+Ren almost stumbled; but caught himself before he tripped over his own feet, and tried his best to run faster. Ren was tempted to call out her name, but he knew if he did that he would just distract her. Lucy got off a shot and hit the dire wolf in the front leg. It didn't slow down one bit. She drew another arrow and let it go just as the wolf neared her and scored a hit in the chest... but it didn't matter. The dire wolf leaped on top of Lucy and pushed her to the ground. One of the dire wolf's huge paws dug claws into Lucy's shoulder and the other paw scraped claws down Lucy's arm. Lucy screamed.
+
+“NOOOOOOOOO!!!!!” Ren bellowed and charged the last few feet and did the same thing that the dire wolf did. Ren jumped at the last second and tackled the dire wolf around the neck. Thanks to Ren's momentum, and the fact that Ren still held the big mallet in his hand, it all helped knock the dire wolf off of Lucy. Ren and the dire wolf tumbled over and rolled to a stop only a few feet away. The wolf had caught it's movement with it's back paws and stood up. Ren crouched in front of the dire wolf with his hand on the front of the mallet. That little stunt had cost Ren about 5% of his health. A glyph etched itself under Ren's hand.
+
+The dire wolf sniffed and dropped it's nose to it's bloody paws. A low growl came out through the creature's closed jaws and it turned it's head slightly to look at Lucy.
+
+“NO! Come for me!” Ren shouted and stood up, holding the mallet near the end of the handle.
+
+The dire wolf growled louder, took Ren up on his offer and lunged. Ren smiled and swung upwards with the mallet and hit the underside of the dire wolf's muzzle.
+
+*WHACK*BZZZZT*
+
+The mallet hit and a bolt of lightning struck the beast. It yelped and hopped away, shaking it's head.
+
+“Didn't like that very much, did you?” Ren said and stepped towards it.
+
+The dire wolf, seeing that Ren was a credible threat, decided to leave with a meal and lunged... but not at Ren. Lucy had stood up and was backing away, but the dire wolf ran towards her. Ren jumped in front of Lucy and the dire wolf took them both to the ground. Lucy was on the bottom, Ren faced her, and the dire wolf had them pinned to the road. It's loud growl made Lucy cry harder. Ren wondered when the dire wolf was going to bite him and then Ren heard it yelp in surprise. A moment later, it yelped again and it's weight left Ren's back.
+
+Ren rolled off of Lucy and stood up. An arrow stuck out the side of the dire wolf's muzzle and ice spread across it's nose and covered one of it's eyes... and Teepo covered the other one.
+
+Teepo!
+
+“I can't distract it for long!” Teepo said as a giant paw swiped at his little body. Teepo dodged and covered the eye again. Ren glanced to the treeline to see Aimus was there with another arrow loaded. Ren nodded and flipped over the mallet to the other side and put his hand on it. Ren hadn't used the Dark rune before... but Ren figured Gravity should do nicely because he needed to finish this fight before the dire wolf recovered.
+
+Another arrow hit the dire wolf on the side of the head and it howled in pain as the ice crossed it's ears and Ren took the opportunity to attack. Ren jumped forward and swung the mallet as hard as he could to hit the dire wolf on the back. The dire wolf crashed to the ground and Teepo barely held on. The beast shook it's head and the ice from the first arrow started to melt. Jump, Teepo! Ren thought and swung the mallet again to hit the dire wolf in the head this time. The dire wolf's head crashed into the ground and left it stunned. Teepo crawled over to Ren and climbed up to Ren's shoulder.
+
+“Don't just stand there, hit it again!” Aimus said and ran aross the clearing to the road.
+
+Ren nodded and hit the dire wolf on the head again. It's head smashed into the road again and left a small crater under the chin. Ren flipped the mallet over.
+
+“Stay back.” Ren said and swung the mallet down onto the beast's head again. Lightning bolts coarsed through the body and it shook. Ren held the mallet there for a minute. When Ren thought it was enough, he lifted the mallet and the dire wolf lay still. Ren had a sudden thought. Ren took out the metal shield he had found under the mound in the old temple, and enchanted an old favorite glyph on it. Ren asked for silence and listened for a minute.
+
+“Ashes to Ashes, Dust to Dust. Return to the Earth, from which everything comes.” Ren swung the shield with the new glyph and hit the neck of the direwolf. A giant rock hand appeared and grabbed the dire wolf around the neck. There was a loud crack, a little yelp, and then silence again. The giant rock hand dissipated and Ren stood.
+
+Notice!
+
+You have successfully killed a dire wolf.
+
+Rewards: 800 XP
+
+Fame Bonus: +10%
+
+Notice!
+
+You have made an appropriate tribute to Spirit of Earth.
+
+Earth Affinity Increase!
+
+Knowledge Of Earth Level 3 (Beginner 50%)
+
+Earth affinity and resistance increased to 12%
+
+“Ren!” Aimus said and eyed the shield skeptically. “What made you do that?”
+
+“I'm not sure... it was just an idea that struck me.” Ren said and shrugged. “Plus, it wasn't dead.” Ren pointed to his ears. “It was still breathing.”
+
+Ren put away the shield and took the enchantments off the mallet and handed it to Aimus. Aimus raised his eyebrows, but took it from Ren without a word. Lucy tried to stand but collapsed to her knees.
+
+“Lucy!” Ren said and took out the 3 weak healing potions he had left and a weak antidote potion. “Aimus, go and get the healer!”
+
+Aimus hadn't heard that strict of a voice come out of Ren before, but nodded and ran back to the homestead to get the horse and cart. Ren fed the potions to Lucy slowly and stored the empty bottles to fill later.
+
+“How are you feeling?” Ren asked.
+
+Lucy tried not to sob while the tears ran down her cheeks. “I can't believe how much this hurts!” Lucy exclaimed and lifted one arm. The other arm, where the dire wolf had stabbed the shoulder, stayed immobile.
+
+“I'd tell you that you'll get used to it after a while and can block it out; but because of the state your in, I don't think you're going to believe me.” Ren said and smiled.
+
+Lucy laughed a bit then kept crying. Ren's healing potions only managed to stop the bleeding, the wounds were still there and looked bad. Aimus passed by with the horse and cart at a full trot. Ren smiled and made a decision that Lucy may not like.
+
+“This may hurt a little bit.” Ren said.
+
+“What... what are you-whoa!” Lucy started to say and Ren picked her up in a 'princess' carry, across the front of his chest with one arm under Lucy's upper back and one under her knees.
+
+“Ren!” Lucy said. Lucy's wounded arm fit easily around Ren's shoulders and Lucy held on. “How... how are you doing this?”
+
+Ren winked at Lucy and she blushed. Ren walked slowly down the road. It seemed Ren had run quite a ways to get to Lucy. It took about 10 minutes for Ren to get back to the homestead and as he walked down the small road to the house, Abigail came out with Ana hot on her heels.
+
+“The spare room.” Ren said and Abigail nodded.
+
+“Ana, get the extra blankets and put them on the bed in the spare room.” Abigail said and turned to Ren and Lucy. “That arm needs to be propped up and cleaned.” Abigail said and then looked at Lucy's shoulder. “That's actually not too bad.”
+
+Ren smiled. Ren could only imagine that this was how Abigail had acted when he'd been 'hurt' that time. Abigail helped Ren carry Lucy through the house and to the spare room. Lucy was propped up in the bed and Abigail got a good look at Lucy's leg.
+
+“That ankle needs to be healed, too.” Abigail said. “Aimus should be back with the healer soon.”
+
+Ren nodded and turned to Lucy. “Lucy... it's really great to see you, but... what are you doing here? It's dangerous to travel alone.”
+
+Lucy ducked her head. “I saw where you were before... and I've been trying to get here for days. I didn't realize how far away from the main city it was, though.”
+
+Ren raised his eyebrow and Lucy continued. “After our... ah... little talk... I didn't know what to do.” Lucy said and looked Ren in the eye. “But after I left, I thought about it... and I've been fighting how I felt for a while. Nothing can happen right now... but in two weeks... maybe... just maybe... we could do something together.”
+
+Ren smiled. “Well... it'll be my birthday, so anything you want to do is fine by me.”
+
+Lucy's eyes widened.
+
+I meant she could come and see me, but I'm pretty sure that's not what she's thinking. Ren thought and grinned.
+
+Aimus came in with Camilla a few minutes later. Abigail told her what was wrong and Camilla nodded.
+
+“I'll need some space.” Camilla said to Ren, who was standing next to the bed.
+
+“Not a problem.” Ren said and backed away to stand by the wall. “I'll be right here, Lucy.”
+
+Camilla glanced his way and Ren smiled to her. Camilla shrugged and sat down in the chair that Ana had brought in for her. “This won't hurt, but it will probably tingle a lot... like your arm is asleep and when you move it, the blood rushes back into it.”
+
+“Ugh. I hate that feeling.” Lucy said.
+
+Camilla laughed. “Everybody does.”

@@ -1,0 +1,453 @@
+---
+id: d3582c92-48dc-5c35-ac82-a1029a400285
+page-type-slug: story-chapter-royal-road
+title: "Chapter 196 - It's A What?"
+slug: 0184-chapter-196-its-a-what
+partOf: mythrans-master-of-all-continued-completed
+position: 184
+ownLength: 4635
+unit: words
+publishedAt: 2017-03-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123692/chapter-196-its-a-what"
+royalRoadId: "123692"
+---
+
+Ren held onto her shoulders and tried to gently push Deresdra away. She held onto his shirt tightly, and he couldn't force her off; so he stored the shirt and she had nothing to hold on to. He extended his arms and broke the kiss.
+
+“What the hell are you doing?”
+
+“Thanking you.” Deresdra said, as she tried to lean forward with her lips puckered.
+
+“One kiss was enough, thanks.”
+
+“What?” She blinked her eyes a few times as she stared at him. “Don't... don't you want to kiss me?”
+
+“No.” Ren said. “You know I'm involved with someone else, and I don't understand why you want to kiss me now, especially when you've clearly said I wasn't your type.”
+
+“I... I just appreciate everything you've done.” Deresdra said. “I thought you'd enjoy being thanked like that.”
+
+“You don't even like me.” Ren said. “You just said that you haven't treated me fairly. What in the world makes you think I'd enjoy it?”
+
+Deresdra opened her mouth to explain, and then she changed her mind. Ren sighed, stepped away from her, and equipped his shirt.
+
+“I'll report for examinations each morning; but, you will keep your hands to yourself otherwise.” Ren said. “Your sexual advances are both unwanted and unwelcome.”
+
+Deresdra looked like she was about to cry, and he started to laugh. She had a surprised look on her face as she spoke.
+
+“Why are you laughing at me?”
+
+“You looked like you were about to cry over my rejection of your advances, when only a couple of days ago, you were going to fight tooth and nail to not submit yourself to the advances you imagined I was going to do to you, if I owned your contract.” Ren said, and shook his head. “I find that twisted logic pretty funny.”
+
+“Get out of here!” Deresdra said, heatedly. “I don't want to even look at you!”
+
+“Yes, Ma'am.” Ren said, and bowed slightly to her, then left the medical tent.
+
+*
+
+Oh, that man! Deresdra thought as Ren walked away from her. I finally find him irresistible, and he rejects me!
+
+*
+
+Ren walked to the blacksmith shop and checked to see if his help was needed with repairs. It wasn't, but they needed more carts and more rails, so he got to work and over the next 4 hours, produced several dozen carts and a few miles of rails. Once the stockpile was big enough, he took a break for lunch and went into his workshop. Ren checked the baby fire elemental, and it was nearly 8 inches across. He smiled at it, and rubbed it's back.
+
+“You definitely need a much bigger pen.” Ren said, and added a row of stone bricks on top of the others, so the baby could move around freely. He added a pile more food, including actual chunks of wood, and tossed in a piece of a springy tree. Ren ate a quick lunch, then poured out another 60 panes of glass over the half hour lunch break.
+
+“That should give me 6 window panes for each of the 20 stained glass windows I need to make.” Ren smiled. “I'm sure I can make a nice picture for each magic element using 6 colors.”
+
+Teepo told him that lunch was over, so Ren went into the mines to help dig out some of the iron ore that they'd found. He didn't bother going off on his own, even though he could have. Helping get more of the main tunnel cleared was a better idea in his opinion; so he did that instead. Every dwarf he met greeted him in some fashion; a wave, grunt, and some even called him Lord or Sir. Ren wasn't sure why they were suddenly treating him differently, when normally they would just share the same space and not speak. He ignored it for now, and kept working as he filled and refilled mine carts for the remaining 4 hours. Ren didn't need Teepo to tell him when the time was up, because he got the relief and happiness feelings that signaled the end of the day. He bid the dwarves that were still working, a good day; and they all said it back to him.
+
+Okay, that was kind of weird. Ren thought. The most I've ever gotten before were a few grunts in acknowledgment.
+
+“Maybe they respect what you do more.” Teepo suggested. “The gods know you've done the same amount of work as a whole crew of them.”
+
+I guess.
+
+“You better head home.” Teepo said. “I'm sure Nathalia wants the restaurant finished, now that you told her it would be done by tonight.”
+
+Right! Ren thought, and took off running. Tee-one and I should get it all up and finished before I have to deal with more Adventurer's business.
+
+“Goodnight, Sir.” The guard said as Ren ran past him and through the open gate. Ren almost looked back at the guard, but thought better of it and kept his eyes in front of him to watch where he was going. He was back near the Main House a few minutes later, and stopped at the half-built building for the restaurant. Tee-one and Ren worked for another 3 hours, finished the walls, and got the roof on.
+
+“It definitely went a lot faster once you showed up.” Tee-one commented.
+
+“Only because you pre-built everything in sections.” Ren said. “We just had to stand it all up and nail it together.”
+
+Ren felt a bubble of happiness enter his Aura's radius and merge with it. He turned around to see Ereka as she walked towards him. She was just over a hundred feet away, and when she was close enough, he felt a flash of surprise, and then more happiness. Ren raised a single eyebrow at her, and she chuckled at the gesture. He felt amusement from her as she came close, and then she came to a stop beside him.
+
+“What's this?” Ereka asked as she looked at the building, and tried her best to not look at Ren. He stared at her, as he felt her deep attraction to him.
+
+“Um... ah... it's the building for the restaurant.” Ren said, and she nodded.
+
+“It's great that you've got it up already.” Ereka said. “The equipment should start arriving tomorrow.” She glanced at him, and Ren felt a spike of desire from her. “I was getting a little worried about where to store it.”
+
+Ren blinked his eyes a few times; because the feelings he was getting from her, didn't match her words in the least. He was having a hard time sorting between the two. Ereka felt his confusion and swirling emotions.
+
+So, I finally rattled him! She thought and grinned. The calm and cool Ren is all flustered because I'm not hiding what I feel.
+
+“Well... ah... we should get to the house and get Nathalia over here.”
+
+“Actually, I'll keep going to the house alone.” Ereka chuckled. “Why don't you just call her, instead of going to get her?” She asked. “Nathalia will come to you.”
+
+“Right!” Ren said, thought about Nathalia, and the Sending Ring glowed. “Nathalia? Are you busy?”
+
+“Not any more than usual.” Nathalia said. “What's going on?”
+
+“I'm over at the new building for the restaurant, and I wanted you to come and see it.” Ren said. “It's between the rows of houses and the Main House.”
+
+“I'll be right there!” Nathalia said excitedly, and the Sending Ring stopped glowing.
+
+“She's on her way.” Ren said unnecessarily, and Ereka laughed.
+
+“I'll keep going on home then.” Ereka said. “See you at supper.”
+
+Ren nodded slightly to her, she walked down the road a little ways, then turned around.
+
+“By the way, the ship is ready.” Ereka said. “There's also a crew training on it.”
+
+“Thanks!” Ren said, and she turned away and kept walking. He watched her as she came to the limit of his Aura, and then she turned around and waved to him. Ren felt more amusement from her, and then she stepped out of the Aura's limit. Ereka hesitated for a moment, almost as if she was deciding to step back in, then she kept walking.
+
+Okay, now I know something is going on. Ren said. Even Ereka is acting a little weird around me.
+
+“I don't know what to tell you.” Teepo said. “It's not like you've done anything to activate your Trouble recipe.”
+
+That's true. Ren thought. Even what happened with the healer at the mines didn't seem like the Trouble recipe.
+
+“I'll head back to the workshop.” Tee-one said. “With all the new ore, I've got some rebar to make before moving on to the next section of the Keep.”
+
+“Okay.” Ren said. “When you're waiting for the next section to dry, make up some more suits of armor, and another dozen swords and shields.”
+
+Tee-one nodded and walked down the road, and Ren stepped up to the building and gave it the same settings as he'd given Mitchell's old place in Aurora. Nathalia arrived a few minutes later, and came up behind Ren.
+
+“It's huge!” Nathalia exclaimed as she came to a stop beside him. She only had eyes for the building, and pretty much ignored everything else.
+
+“It was supposed to have a storage building in the back.” Ren said. “I had them joined together to make it one big building instead.”
+
+“Oh, Ren!” Nathalia said and took his hand without looking. “Show me the inside!”
+
+Ren nodded slightly, and Nathalia walked towards the building and dragged him along. She opened the door and let his hand go as they stepped inside.
+
+“It's wonderful.” Nathalia whispered as she looked around. Ren had made it the same inside as it was back in Aurora. The counter on the side, the small storage space behind it, and the doorway to the outside behind that.
+
+“I'm glad you like it.” Ren said as he stepped up behind her and gave her a hug. “Want to set up the portal now?”
+
+“Sure.” Nathalia said. “How do I do that?”
+
+“You're the business owner, so open up the menu.” Ren said, then took her through the steps to activate the portal. Once she got to that option, though; Nathalia frowned.
+
+“It's grayed out.” Nathalia said. “I can't select it.”
+
+“What?” Ren asked, surprised. “How can that be?”
+
+He opened up the help menu and searched for a reason. After a few minutes, the only criteria that had to be met was that both buildings had to be identical. Ren meticulously went over the plans he had, looking for anything that either he or Tee-one might have missed.
+
+“Damn, they're the same... so why?” Ren asked himself. He sighed and closed his eyes, and thought about the building. He'd been inside of it himself, and he replayed that memory in his head. When he got to the counter, he slapped himself in the forehead.
+
+“Dammit, I completely forgot about that!” Ren said and went over to the counter, and cut a hole in the floor.
+
+“What are you doing?” Nathalia asked as she kept looking at the business menu while she stood in the middle of the room.
+
+“Adding a missing detail from the plans.” Ren said as he built the small storage area underneath the floor that he had found Mitchell's body in, attached it, then made a hatch from the cut out floor piece. He made sure it was closed and flush with the floor.
+
+“Try it now.”
+
+Nathalia followed the same instructions Ren had given her already, and grinned.
+
+“Yes! It's there!” She selected the portal option to join the two businesses together, and Ren came over to her and put the 100 platinum coins into the little portal that appeared. Nathalia got the popup that she was the owner, and the only one allowed to use the portal, and she squealed in delight. She closed the business menu, hugged Ren from behind, then turned him around to kiss him.
+
+“Oh!” Nathalia gasped. “Oh my!”
+
+“What?” Ren asked her and looked around. “What is it?”
+
+Nathalia wrapped her arms around his neck and kissed him passionately. Ren kissed her back, but was still a little confused about what she had gasped at, and broke the kiss a minute later.
+
+-S
+
+“Nathalia?” He asked.
+
+“Off.” She tugged at his clothing. “Now.”
+
+“What?” Ren looked around. “Here?”
+
+Nathalia nodded slightly, and licked her lips. “By the gods, you better take me now, or I'll never forgive you!”
+
+Ren ran to the door and locked it, then was back a second later. Nathalia went behind the counter, and he took out a bolt of cloth and layered it onto the floor. They stored their clothing, and when Ren tried to lay down, Nathalia pushed him to the floor, got him hard using her hand in only a few seconds, then rode him harder than either of them thought she could. It didn't take long for her to finish, and since Ren was totally into it by this time; when she went, he went, too. Nathalia collapsed on top of him afterwards, completely exhausted.
+
+-E
+
+“What the hell was that?” Ren asked a minute later, once the euphoria from the experience started to fade. “You... you've never done anything like that before.”
+
+“I... I...” Nathalia was having a hard time catching her breath. “I... love you.”
+
+“I love you, too.” Ren said. “But... by the gods, Nathalia... tell me what just happened!”
+
+“I... when I saw...” Nathalia swallowed audibly, then sighed. “I... couldn't help myself.”
+
+“Saw what?”
+
+Nathalia ran a hand from his ear and down along his chin; which he barely felt because she stroked the 2 inch long beard that was the same color as the hair on his head. It was just as soft and fluffy, and she pulled on the hair a little.
+
+“Your beard.”
+
+“My WHAT?!?” Ren yelled, and put a hand on his face in the same spot Nathalia had just touched, and he barely felt his own hand.
+
+“Son of a... godsdammit!” Ren exclaimed. “So that's what she did!”
+
+“Who?”
+
+“The healer at the mine.” Ren said. “She said it was an anti-itch creme for my chin.” He shook his head. “And I just stood there like an idiot and let her do this to me.”
+
+“She gave you a beard?!?” Nathalia asked, surprised. “How did she do that?”
+
+“I don't know.” Ren said. “I'll ask her first thing in the morning, though.”
+
+“When you do...” Nathalia purred. “...thank her for me.”
+
+Ren thought she was going to kiss him; but she bit the hair of his beard instead, and shook her head back and forth a little. It pulled on the hair and his chin as she stared at him.
+
+“N-Nathalia!” Ren said in surprise, and Teepo flew out of the building to keep a lookout.
+
+-S
+
+Nathalia growled at him, and his eyes widened as she let his beard go and sat up to mount him again.
+
+“My Stamina bar is full again.” She said, started to ride him, and leaned back down to bite his beard again. She worried his beard, like a dog with a bone, and her body gripped him tighter than ever before.
+
+“By...by the gods!” Ren exclaimed as they both went again. A moment later, Nathalia collapsed onto his chest once more.
+
+-E
+
+Nathalia's breathing was ragged, and he felt her struggling to catch her breath. Ren was almost afraid to move, in case he caught her attention again; then he decided that action was the better course to follow, and rolled her off and laid her beside him.
+
+“My Love, are you all right?” Ren asked, and Nathalia stared at him.
+
+“I'm... I'm fine, My Love.” She said. “It's just... by the gods, you look so handsome!”
+
+“Nathalia?”
+
+“You... you've always looked great...” Nathalia said as her breath started to even out. “But now...” She shook her head. “You look exactly how I imagined you would if you had a beard.” She shut her eyes and licked her lips. “I've fantasized about it ever since I saw you that first time.”
+
+“You have?”
+
+Nathalia nodded slightly. “Every man should have a beard.” She said and opened her eyes. “When they shave it off, or lose it for some reason... we... we all think there's something wrong, or off about them.”
+
+Ren looked at her with surprise on his face. “Why didn't you ever tell me?”
+
+“What would be the point of that?” She chuckled. “All that would have done was hurt your feelings, and show you how prejudiced we are.”
+
+“So why tell me now?”
+
+“You've got a beard.” Nathalia said. “It was only fair to tell you once you did.”
+
+Ren sighed, equipped his clothing, and stood up.
+
+“Where are you going?” She asked and equipped her clothing, too.
+
+“I... I need some time to think.” Ren said.
+
+“About what?”
+
+“About how you really see me.”
+
+“Ren!” Nathalia exclaimed and stood up herself. “I love you!” She said. “I don't see you that way!”
+
+“You just said...”
+
+“I said 'we' as a people! We! Not 'me'!”
+
+Ren closed his eyes. “I don't know if you actually believe that.” He sighed. “I show up with a beard, and you act like... like... well, I've never seen you act like that before.”
+
+“Ren!”
+
+“You bit and shook it, and growled for gods-sake.” Ren said, and opened his eyes. “It's like I wasn't even there, and all you cared about was the beard.”
+
+Nathalia started to get angry. “That's NOT true!” She said, and poked him in the chest with her index finger. “Now listen to me, mister.” She glared at him. “I. Love. You.” She poked him in the chest again. “Not your money!” *poke* “Not your clothes!” *poke* “Not your extravagant gifts that you throw around as if they were nothing!” *poke* “And definitely NOT your godsdamned MAGIC BEARD!”
+
+Ren stared at her. “Nath-”
+
+“QUIET!” Nathalia shouted. “I'm speaking!”
+
+He closed his mouth and listened.
+
+“When you showed up with the beard, it fit right in with my fantasy, and I was turned on by it!” Nathalia said. “It was exciting to see it come to life, and I didn't want to waste any time by picking it apart, or wondering how it happened.” She started to lose steam in her argument, and she sighed. “When I realized there was even more of you to love, I couldn't help myself and I jumped at the chance.”
+
+“But...”
+
+“I lost control of myself, okay?” Nathalia said as she turned away from him, so he wouldn't see the tears as they started to flow. “I... I wanted to enjoy it as much as I could before... before anyone else did.”
+
+“Oh, Nathalia.” Ren took her into a hug from behind, and held her tightly. He kissed her cheek, then took out a piece of cloth for her to wipe her eyes. “I'm sorry that I jumped to conclusions.” He said. “It's just... you shocked me.” He sighed. “You've never even hinted that you could act that way.”
+
+Nathalia sniffed and sighed. “I didn't know I could act like that, either.”
+
+“What?”
+
+She turned in his arms. “I really did lose control, Ren.” Nathalia's eyes were puffy and red. “I couldn't let another woman have the new you... not until I did.”
+
+“Twice.” Ren said and smiled. “At least I think it was only twice.” He said. “You kind of blew my mind a little, and I wasn't really keeping track.”
+
+Nathalia chuckled, and he kissed her.
+
+“I love you.” She said.
+
+“I love you, too.” Ren said and let her out of the hug. “Let's go home and get something to eat, then I have to take care of some Adventurer's business.”
+
+“Wait.” Nathalia said, and looked around. “Where's the portal?”
+
+“Probably the only place we can't see it.” Ren said, and opened the door to the storage area behind the counter, and there it was.
+
+“Should I go through it to test it?” Nathalia asked, and he shook his head.
+
+“Not right now.” Ren said. “I want to be waiting for you on the other side when you go through.”
+
+“Okay.” Nathalia said, and they left the restaurant. Nathalia locked it up, and they walked back to House Neram Keep, while Teepo flew around and scouted the area. They went inside, then Ren and Nathalia enjoyed a good supper with Ereka, who didn't even ask what had taken them so long to come home to eat.
+
+I don't feel her Aura, though. Ren thought. She must have stopped concentrating on it. He looked at Nathalia. “I'll be back in a few hours, hopefully.” He sighed. “You should plan for me being gone all night, though.”
+
+“Alright.” Nathalia said and gave him a kiss. “Goodnight.”
+
+“Goodnight.” Ren said to her, then looked at Ereka. “Goodnight.”
+
+“Goodnight.” Ereka said.
+
+Ren left the table and walked into the main room, then sat on the couch. See you later, Teepo.
+
+“Bye, Ren.” Teepo said as he flew up to land on the ceiling.
+
+“Logout.”
+
+*
+
+“Thank you for the meal, Nathalia.” Ereka said. “I'm heading to bed.” She sighed. “I really need to get some sleep.”
+
+“Do you want me to tuck you in?” Nathalia asked. “I'm sure you'll sleep well afterwards.”
+
+Ereka looked at her with wide eyes. “I... I haven't been tucked into bed since I was a kid.”
+
+Nathalia chuckled. “I used to do it all the time.” She said. “But all of our schedules changed since then, and now I go to bed before the ones I care about.”
+
+Ereka smiled. “Well, I'm kind of running on willpower, so if you can help me get some sleep, I'd appreciate it.”
+
+“Of course.” Nathalia said and followed her into the old bedroom. Ereka took off her business suit and skirt, left herself in just a thin slip, and climbed into bed.
+
+“What did you think of Ren's beard?” Nathalia asked her.
+
+“I was surprised when I was walking home and saw him with it.” Ereka said. “Do you want to know what my very first thought was?”
+
+Nathalia nodded slightly as she flipped the top end of the blanket a little.
+
+“I thought that you were going to love it.” Ereka said. “Because it fits him perfectly.”
+
+Nathalia smiled as she tucked the blanket up and under Ereka's neck.
+
+“There you go, little one.” Nathalia said in a sing-song voice, and Ereka laughed. “Are you all nice and comfy?”
+
+Ereka nodded slightly, and Nathalia reached behind her head to fluff the pillow a little. When her hand was out of Ereka's sight, it glowed a little blue, and then Ereka fell fast asleep.
+
+“Sleep well.” Nathalia said, then left the old bedroom and shut the door.
+
+********
+
+Ren took off the VR headset and sighed.
+
+“That was quite the adventure.” Denise said, and Ren chuckled.
+
+“Yeah.” He slipped out of bed and went to use the bathroom and clean up. He came back out and Denise served him sandwiches for lunch. They were a little bland; but, that was to be expected. Denise checked his diet schedule regularly, and knew he'd had chocolate and soda the night before.
+
+“Did you know that Stella is supposed to show up here to-”
+
+His room door opened, and Stella came in. She wore a pair of dress pants, had a small briefcase, and a blue blouse that looked like it was a couple of sizes too big for her.
+
+“Speak of the devil.” Ren said and grinned at her.
+
+“I thought I felt my ears burning.” Stella said, and smiled. “Hi, Denise.”
+
+“Hi, Stella.” Denise said. “Can I talk to you for a minute?”
+
+“Sure.” Stella said, and put her briefcase on the chair. “Let's go have a coffee in the break room.”
+
+“Are you going to be okay for a few minutes, Ren?” Denise asked him.
+
+“Good god, no!” Ren said, and reached out with a grabbing hand. “Don't leave me all alone!”
+
+Stella snorted a laugh. “Come on, Denise. Let's see if he can actually survive without you for 5 minutes.”
+
+Denise laughed and followed Stella out of the room.
+
+*
+
+“So, what's going on?” Stella asked, and Denise gave her the rundown about the situation, and what Barbara had told her about Cheryl's late night interview on the news. Stella put her head in her hands and rested her elbows on the table.
+
+“How could she be so stupid?” Stella asked.
+
+“Cheryl never was the sharpest tool in the shed.”
+
+“It was going to be hard enough keeping him under wraps as it was.” Stella said. “But now that everyone knows who he actually is...” She shook her head. “I didn't see any extra security in the lobby, or here on the floor.”
+
+“That's because there isn't.” Denise said.
+
+“What?” Stella asked, surprised. “Why?”
+
+“The board is complaining about budget cuts and other gobbledygook.”
+
+“Goddammit.” Stella said. “What about Ren's Trust Fund?”
+
+“It's already 'tapped', according to Doctor Hobbard.”
+
+Stella sighed. “I'll have to talk to Ren about this.”
+
+“The doctor doesn't think that's a good idea.”
+
+“Why?” Stella asked. “Ren can pay for extra security himself.”
+
+“He thinks if Ren gets too excited worrying about stuff like that...”
+
+Stella sighed again. “Goddammit. How are we supposed to look after him, when we aren't allowed to look after him, or tell him that we can't?”
+
+“Don't ask me.” Denise shrugged. “I just work here.”
+
+Stella snorted a laugh. “Well, our jobs are going to get a lot more interesting from now on.”
+
+*
+
+Ren finished eating and pushed the empty tray aside. He looked at his watch, and saw it was quarter past 12.
+
+I hope Gloria gets here soon. Ren thought and looked at his laptop. No, I still don't want to look at all those emails.
+
+*
+
+Gloria pulled into the hospital's parking lot an slid into a parking space. She hopped out of the car and grabbed her backpack.
+
+I am so late! She thought as she ran towards the front door of the hospital.
+
+*
+
+Ren looked up as Stella came into his room. “Where's Denise?”
+
+“Paperwork.” Stella said and picked up her small briefcase, then sat in the chair. “While I'm here visiting with you, she can catch up with it, rather than trying to do it after her shift.”
+
+“You do that?” Ren asked, and she nodded. “I always thought you had someone else to do that for you.”
+
+“Why would you think that?”
+
+“You've all been so busy taking care of me, where do you find the time to file paperwork, too?”
+
+“We manage.”
+
+Ren shook his head. “And I thought you were a blessing before.”
+
+Stella chuckled and opened her briefcase. “I've got other paperwork to do, too.” She said and took some of the forms out that they would need to hire Gloria.
+
+*
+
+Gloria rode up in the elevator. It felt weird, because the last time she was here, she had to sneak around and bribe her way in. The doors opened and she held her head up high and walked down the hallway as if she owned the place. Everyone stared at her as she passed them; but she was used to that reaction, so she ignored them and kept walking.
+
+*
+
+“So, do I get to know her real name?” Stella asked.
+
+“Sure.” Ren said. “As soon as I ask her if I can tell it to you.”
+
+Stella looked at her watch. “She's really late.”
+
+“I know.” Ren said. “Something must have happened.” He said. “She logged out over 3 hours ago.”
+
+Just then, there was a knock on the door, and Gloria came in.

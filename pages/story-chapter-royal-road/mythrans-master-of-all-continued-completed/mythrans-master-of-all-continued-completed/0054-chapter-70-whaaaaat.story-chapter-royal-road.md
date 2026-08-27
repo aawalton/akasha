@@ -1,0 +1,171 @@
+---
+id: c791ec1b-bceb-53e6-835a-ed0b21ebfeb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70 - Whaaaaat?!?"
+slug: 0054-chapter-70-whaaaaat
+partOf: mythrans-master-of-all-continued-completed
+position: 54
+ownLength: 2580
+unit: words
+publishedAt: 2016-11-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100944/chapter-70-whaaaaat"
+royalRoadId: "100944"
+---
+
+According to what Ren read in the book, 2 bows could be made from each 14 foot high tree, 3 if they were short bows. The trees were about 6 inches thick, tightly spaced together in clumps, and quite springy. Ren had to be careful while he worked, or he could get seriously hurt. One tree had nearly hit him in the face when it was cut down. The top of the tree had hit the ground, the end popped off the stump, and was flung into the air. Ren cut down 2 dozen trees and cleaned the branches off of them, cleaned twigs off the branches, then stored the branches into inventory.
+
+“This should be enough for now.” Ren said to Teepo. “I can make a good mix of bows, anyways.”
+
+Ren gathered the logs into inventory. “Since you can only use the cores of the trees for the bows, it limits how many you can make.” Ren smiled. “I know what you're thinking, Teepo... it's such a waste of wood!” Ren chuckled. “It won't be wasted, though. Arrows can be made from the parts you have to cut off, and from the branches as well.” Ren left the grove and started walking down the path.
+
+“You know so much, Ren!” Teepo said.
+
+Ren shook his head. “I didn't know any of this before I read 'Fletching Mastery'.” Ren said. “The information it held... I know if I took more time with it, I'd have found more things inside.”
+
+“I wonder what other books Rosie has...” Teepo said.
+
+Ren stopped walking and stared at Teepo. “I couldn't do that!” Ren said and started walking again. “I mean, it was great that she lent me such a valuable book... but, I couldn't just ask her to do that.” Ren shook his head again. “Rosie could have gotten into so much trouble for letting me borrow that book. She might have even lost her job.”
+
+“Oh. I guess you shouldn't ask her for more books, then.” Teepo said.
+
+Ren chuckled. “I wouldn't go that far. I still have lots to learn... but, I'm going to stay at my current level until I earn the priviledge to read the better books.” Ren explained. “With just one book of B rank, I went up to level 3 in skills I've never used before. Can you imagine if I had read a rank A book?” Ren said. “I'd probably start at Intermediate. That would definitely feel like cheating to get that high without doing any work.”
+
+“It would be a lot easier, wouldn't it?” Teepo said.
+
+Ren shook his head. “No... because I wouldn't have used the skills to get to that point. I'm going to have a hard time getting used to making a bow, even with the higher skill.”
+
+“Why?” Teepo asked.
+
+“Because... if I'd done it by hand myself and worked at it, I can get to Level 3 pretty fast. At the moment, I could let the system do it, but I won't get anywhere near the XP that I should for doing the work myself.” Ren sighed. “I hope I'll adapt fast so I can get my body to the point that the skills can be used properly.”
+
+“I see... if you'd done the work, it would be better... jumping ahead is nice, but you'll have to work harder now.” Teepo said.
+
+“Right.” Ren said.
+
+Ren and Teepo walked back to the road and then they reached it, Ren looked up and down along the road when he reached it and didn't see anyone. They'd kept a lookout for anyone else that might have been around while Ren walked, but couldn't find any trace of someone following or observing them.
+
+“Think it's clear.” Ren said to Teepo, then took off running back to Aurora. “I don't want to stay out here too long.”
+
+Teepo chittered in delight as the hood bounced on Ren's back as he pumped his arms. Ren was almost running full out, but didn't push himself too hard. He wanted to be ready in case anyone actually was waiting for him. The Stamina bar drained at a steady rate and 15 minutes later, started eating the Health bar. Thanks to Staying Power the amount of Health being lost wasn't that big of a deal. They reached the West Gate about 30 minutes later without incident.
+
+Ren slowed to a walk when they got to the safe area near the gate. Ren wasn't surprised that there wasn't anyone out there, as it was starting to get dark out. Ren went into the city and walked down the main street until he came to the turnoff to the Artisan District, but instead of going to the next one, Ren went down the street that would take him to the middle of the district instead. The street went right through the middle of the Artisan District and Ren got halfway through it and saw no one around. Ren activated Sneak and slipped off the street and behind the close buildings. Most of the buildings were dark and the window shades were closed, but Ren didn't want to take a chance that someone would see him. After sneaking around a few buildings, Ren came to the back of Mitchell's store.
+
+Teepo, I need a scout. Ren thought to his friend.
+
+“Right!” Teepo said and hopped over Ren's shoulder from the hood and onto the ground. Teepo squeezed himself under the door somehow and Ren waited.
+
+“It looks clear, Ren.”
+
+No traps or other surprises?
+
+“I don't see anything, but that doesn't mean nothing is here.” Teepo responded.
+
+Ren nodded, then realized Teepo couldn't see him. Right. Thanks, Teepo.
+
+Ren activated Enchanted Eyes and a moment later saw a glyph appear on the door. Ren smiled and activated Decipher and Read Rune. Several Protection and Lightning runes were in it, and a rune Ren didn't know. Ren was tempted to just absorb the enchantment to recover some of the mana he'd spent earlier, but then thought it would be better to try and learn another rune if he could. Ren used Dismantle Glyph and waited.
+
+Notice!
+
+You have discovered a rune you don't know.
+
+Ren stared at the popup and took out his Book of Runes. Sure enough, when he flipped to the end of the single rune pages, there was a new rune. No description was on it, however.
+
+Well, that's kinda weird. Ren thought, then looked at his Read Rune ability.
+
+Read Rune Level 3 (Beginner 25%)
+
+Allows you to read unknown runes and add them to your book of seals.
+
+There's nothing that says I'd know what they were. Only Dismantle lets me learn what it is automatically. Ren smiled and put the Book of Runes away. He didn't bother doing his normal ritual of making the double, triple, and quadruple glyphs because he didn't know what the rune did, and deactivated Read Rune and Decipher. They wouldn't be needed, but Ren left Enchanted Eyes on.
+
+Ren didn't hear anyone around and took out the small wooden box Donan had given him. After opening the box, Ren examined the door lock. Even though darkness had fallen, everything could still be seen perfectly. Ren took out the flat tool and slid it into the lock. Ren closed his eyes and shimmied the tool around and felt the dimensions of the lock... and realized he had no clue what he was doing. Ren had been so shocked about Donan giving the lockpicking kit to him that he didn't ask how to use them.
+
+Aw, Screw it. Ren thought, and put the lockpicking kit away.
+
+“Screw what?” Teepo said.
+
+Nothing, Teepo. Ren took out a big scrap of cloth and bundled it over a few times, and slid it under the door, right under the hande on the inside. Ren used Iron Grip, crushed the handle, and put it into inventory. A muffled thump was heard and Ren listened intently for almost a minute before deciding no one had heard him crushing the metal handle, or heard the other half of the handle falling onto the floor. The door eased open and Ren slipped inside, closed it, and picked up the handle piece and cloth scrap.
+
+“That was cool.” Teepo said and Ren smiled. There weren't any windows in the room so Ren stood up. He grabbed a small box and placed it behind the door to keep it closed. Ren looked around but didn't see anything interesting. It was just a cot, some dry food supplies, and a pile of tree branches. Ren knelt by the door at the side of the room.
+
+Teepo.
+
+Teepo skittered under that door and after about 5 minutes, spoke. “All clear.”
+
+Ren reached for the doorhandle. Any windows?
+
+“There's 2 big windows at the front, but they're covered.” Teepo responded.
+
+Ren opened the door and slipped into the front room. It was filled with every kind of bow you could think of. Longbows (5 feet long), shortbows (2 and a half feet long), crossbows of different sizes, hunting bows (long and short), target shooting bows (light and uses simple arrows), recurve bows (ones that bend forward in the middle and then back on the ends) and a bow behind the counter Ren didn't see in the book. Ren identified it.
+
+Composite Bow
+
+This bow uses a horn for the handle and wood for the ends. It's not as strong as a normal bow and is vulnerable to water and moisture.
+
+It looks nicer than a normal bow, but that's all it's good for. Ren studied it closely and added it's pattern to his collection. Maybe I can adjust it to make it just as good as a normal bow.
+
+Ren looked through the store, but couldn't find anything incriminating. Dammit! I thought there'd at least be something in here to show the city guards... but it's completely clean. Enchanted Eyes isn't picking anything up, either.
+
+“Ren... what about this?” Teepo said from behind the counter.
+
+What is it, Teepo?
+
+“There's a light.”
+
+Ren bent down behind the counter and didn't see anything. I don't see anything, but that might be because I can see normally... if it was dark, I'd probably see it just like you. Ren reached a hand down and Teepo told Ren where to put his hand. Ren felt a very slight cold breeze through the floor and felt around for some kind of handhold. After a minute, his index finger found a knothole near the front of the space under the counter and pulled. A hatch opened up and Ren shook his head after looking inside.
+
+I don't feel so bad about finishing that guy off, now. Ren thought as he gazed at what Teepo had found.
+
+It was the body of the 'real' Mitchell.
+
+*
+
+“That goddamned piece of SHIT!” Tristan shouted. “He took my coin and didn't even do the job! I'm going to kill that lying piece of garbage.”
+
+“He did at least attempt to do it. I think that...” A voice said from behind Tristan.
+
+“Quiet! I don't pay you to think!”
+
+The cloaked figure didn't respond.
+
+“I want him found and his belongings searched.” Tristan sat down in the chair at the head of the table. “Make sure the people you contact are loyal. We're still too far away to do this ourselves.” Tristan smirked. “ 'Mitchell' better still have that coin... or he's going to be even sorrier than he thinks he's going to be.”
+
+*
+
+Ren left the body where it was and closed the hatch. If he had guessed the time right, then the fake Mitchell wouldn't be back in the game for another 4 hours real time. Ren picked Teepo up, went out the back of the shop, and closed everything up as best as he could. There was nothing to do about the back door, so he just pulled the box behind the door as close as he could and shut it. It hung open a few inches, but that was as close as Ren could get the box without getting his hand caught in the door.
+
+Ren walked as fast as he could to the guard house down by the closest east gate and banged on the door. A minute later, the door was opened and a bedraggled soldier stared at the figure he could barely see because it was so dark. The soldier's mouth dropped open when the light behind him flickered and he caught a glimpse of the figure's red leather armor nearly completely hidden under a pitch black fur cloak. The soldier froze because all he could really see was a floating head with leather straps hanging from it.
+
+“Hi. I'm Ren, and I want to report a murder.” Ren said and deactivated Sneak.
+
+“D-d-d-did you do it?” The soldier asked and the disembodied head shook from side to side.
+
+“No, of course not! But... I did find it. Can you please come with me? Or send for someone to come with me and handle this situation? I don't really know what else to do about it except report it to the city guards.”
+
+The soldier snapped out of his shock and nodded. “Alvyss! I'm heading to the Captain! You're on watch.”
+
+Ren stepped out of the way and the soldier tidied himself up and grabbed a lantern from beside the door and lit it from the one on the table. Ren watched as the soldier took off running down the street and all the way over to Donan's shop, and then disappeared around the corner to go to the guard house barracks behind the mansion. Ren sat down to wait for the soldier to return, hopefully bringing the captain back with him.
+
+A short time later, the captain of the guard came around the same corner with the soldier following close behind. The captain walked at a fast pace and was standing in front of the guardhouse a couple minutes later.
+
+“Speak.” The captain said.
+
+“I'll tell you all about it as we walk to where the body is.” Ren said.
+
+The captain raised his eyebrows for a second and then nodded. “Let's go, Weston.”
+
+Ren started walking and told the captain and Weston how he'd met Mitchell in the grove, the fight, the confession that it was an assassination attempt, him winning, then coming back here to look for evidence and then finding the real Mitchell. They reached the back of Mitchell's shop and Ren tried to step forward, but the captain caught his arm. Ren pulled the captain off balance and stopped walking when he realized what was happening.
+
+“Stay out here, Ren.” The captain said and stood up straight.
+
+“Okay. It's in the main shop under the counter. There's a hatch with a finger hole.” Ren said.
+
+The captain nodded and stepped up to the door and saw it was ajar. He looked back at Ren who shrugged. The captain went inside and there was silence. A while later, the captain came out and tried to shut the door, but had the same problem as Ren.
+
+“Weston, call in the reserve troops... on my authority.” The captain said. “We need to block off this area and then recover the body.”
+
+Weston took off running again and Ren turned to the captain. “Now what?”
+
+The captain turned to Ren and sighed. “Ren, you are under arrest for the murder of Mitchell Fletcher.”
+
+“Whhhaaaaaaaattttt?!?”

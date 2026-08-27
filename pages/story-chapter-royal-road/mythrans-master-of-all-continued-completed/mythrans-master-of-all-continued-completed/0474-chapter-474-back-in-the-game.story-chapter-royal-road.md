@@ -1,0 +1,311 @@
+---
+id: ba953c6b-b0f9-50fb-b244-20bf39edcca6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 474 - Back In The Game"
+slug: 0474-chapter-474-back-in-the-game
+partOf: mythrans-master-of-all-continued-completed
+position: 474
+ownLength: 3322
+unit: words
+publishedAt: 2018-01-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184881/chapter-474-back-in-the-game"
+royalRoadId: "184881"
+---
+
+Elise stared at the similarly-sized faces that stared back at her, and Ren and Lisa suckled on her breasts. She felt something build inside of her at the sight, and her breathing sped up.
+
+“H-harder.” Elise whispered, and the pressure on her tips increased. She put a hand behind each of their heads and pulled them in tightly, then moaned in pleasure with how good it felt. “Oh, god!” She said and a moment later, she finished. She let their heads go as her entire body relaxed, and she leaned back on the couch and closed her eyes.
+
+Lisa stopped suckling and sat up straight. “I think we can stop now.”
+
+Ren stopped and sat up as well. “I think you're right.” He said. “Elise, are you okay.”
+
+“Um-hm.” Elise half-moaned and half-spoke, and kept her eyes closed. Her arms had flopped down by her sides, and she looked exhausted.
+
+“That sure was something.” Ren said and chuckled.
+
+“It was.” Lisa said, and licked her lips. “I can't believe I just did that.”
+
+“You like her just as much as I do.” Ren said and held a hand out to her. She took it and Ren lifted it and kissed the inside of her wrist. “Apparently she likes you just as much as I do, too.”
+
+“I... I do.” Elise said and opened her eyes to look at them. “Lisa, I... thank you for doing that.”
+
+“You're welcome.” Lisa said. “I'm glad I could help.”
+
+Ren chuckled. “Stealing my lines.” He said. “Are you going into the game tonight?”
+
+“I was thinking about it.” Lisa said. “I need to keep current with the world event.”
+
+“Do you have a lot of people coming to you for information?”
+
+Lisa nodded. “A lot more recently, since the event is starting to trickle out from the High Elven Kingdom into the Human Kingdom.”
+
+“I'll be removing the nests and the main ghoul hordes; but, I won't be hunting down all the ghouls myself.” Ren said. “That could take forever.”
+
+“It could, if you didn't have me there to help.” Lisa said. “I'll start sending out parties to the less dangerous regions, and have them do the dirty cleanup work.”
+
+“That's so sneaky.” Ren said and grinned. “Who are you, and where's the Lisa I've grown to love?”
+
+“It's still me, dumb ass.” Lisa said, and then what Ren said registered. “Wait, what did you say?”
+
+“I said, you're a fantastic woman to volunteer to have Adventurers killed for my fancy.” Ren said.
+
+Lisa started to scowl, and he pulled her in close.
+
+“I love you, your body, and your beautiful mind.” Ren said and kissed her. “Go to your room and get ready, and in a little while I'll meet you in the Library in my county.” He said. “I have a few things to give you before I go on another ghoul purge.”
+
+Lisa took several breaths and nodded, stood up and picked up her book, then left the den.
+
+Ren waited for the door to shut before he looked at Elise. “Elise, how do you feel?”
+
+“Soaked.” Elise said, and Ren looked down at her damp jeans.
+
+“Those are my favorite jeans.” Ren said and touched the spot. Elise caught her breath, then when he started to move his hand, she caught it with both of hers.
+
+“I think I've had enough stimulation for tonight.” Elise said.
+
+“I guess that means I can't go down on you.” Ren said, sadly.
+
+“You really like doing that, don't you?” Elise asked.
+
+“It's like tasting heaven.” Ren said and stood up, then sat in the wheelchair. Elise could clearly see he was still excited, even after all this time, and she knew if he didn't get relief soon, it would start to hurt.
+
+“Let's get you back to your room.” Elise said and slipped her bra back on, then put on the t-shirt. She pushed his wheelchair out of the den and down the hall to the elevator, and went down to the second floor. She took him to his room and dropped off the wheelchair, and grabbed a foil packet from the dresser.
+
+“We should do this in the bathroom.” Elise said, and Ren shrugged and went into the bathroom with her. She had him sit down on the closed toilet seat and put the foil packet aside, then opened up his pyjamas. “Thank you for what you did.” She said, and went down on him.
+
+“Th-that's not fair.” Ren said as Elise pleased him. “I wanted... to do this... to you.”
+
+Elise stopped and looked at him. “No complaining.” She said. “You just sit there and enjoy it.”
+
+“But...”
+
+“If you don't enjoy it, I won't do it for you.” Elise smiled crookedly. “Ever.”
+
+Ren opened his mouth to say that would be an unjust punishment, then he saw the determined look in her eyes. “I'll be good.”
+
+“No, I will be.” Elise said, then proved it.
+
+When she was done, he had finished twice for her, much to her satisfaction; and she cleaned him up properly. Once she had applied the foil packet's contents, she put his clothes back in order and brought him back to his room and helped him into bed.
+
+“Do you mind if I stay over tonight?” Elise asked.
+
+“Did you pick a bedroom yet?” Ren asked.
+
+“Yes.” Elise said and kissed him. “This one.”
+
+“This one?” Ren asked. “I thought we decided...”
+
+Elise put a finger on his lips to stop him. “That's if I moved in.” She said. “I'm just staying the night.” She smiled. “I'm not going to stay in a house with the man I love, and sleep in an empty bed.”
+
+Ren moved her finger. “But... I'm not going to be here to enjoy your company.” He said. “I promised the maids that I would stay in the game with them tonight.”
+
+“That's okay.” Elise said and handed him his VR headset. “You go in there and have fun after cleaning up those stupid ghouls, and I'll see you in the morning.”
+
+“Are you sure?” Ren asked, and she nodded. “Okay.” He said and put on the VR headset. “Goodnight.”
+
+“Goodnight, sweetheart.” Elise said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed in the apartment in his county, and saw that the maids were awake and they stared at him.
+
+“What's going on?” Ren asked them, and they all smiled.
+
+“We felt you in the shared Aura.” Frikara said.
+
+“You woke up just a second ago?” Ren asked, and they felt his surprise.
+
+“We've been awake for hours, silly.” Andrela said. “We didn't know what day you would come back, so we've been watching and waiting at the right times.”
+
+Ren sat up and looked at them. “I admire your dedication.”
+
+“You would do the same if it was one of us you were waiting for.” Frikara said, and Ren nodded without hesitation.
+
+Hi, Teepo. Ren thought and got out of bed.
+
+“Good morning, Ren.” Teepo said.
+
+Ren equipped his armor and put on the Dire Wolf Hooded Cloak, then checked on the tarantula and saw the Health Potion saucer was nearly empty. He poured more potion in it and tucked the spider back into the cloak. Teepo landed on his shoulder and Ren turned to look at the maids.
+
+“Ladies, I will see you tonight.” Ren said. He felt a thrill go through them, kissed each of them goodbye, and left the apartment. Teepo, how's my time?
+
+“You've got an hour before normal breakfast; so, considering you don't take time to eat anymore, you have lots of time to spare.” Teepo chittered in laughter.
+
+Ren went down the stairs, and then realized something. He couldn't feel Xuunah. He ran to the back apartment and went inside, then looked at the closet he had suggested as the spot for the Holy Connected Sanctuary.
+
+“I hope she's in there, and that's why I can't feel her.” Ren said and tried to open the door. It didn't move. He knocked several times, and there was no answer. He sighed, and realized with the time compression, she wouldn't even hear the knocks if she was inside. “Dammit.” He said and left her a note, saying where he was going and that he couldn't feel her, and stuck it on the inside of her apartment door. He left that apartment and then left the Main House, then ran across the road to the large warehouse.
+
+“Hey, guys.” Ren said and took out the things he had made for Lara, the Sage of Ages. “Tee-one, can you use Double Infusion on these for me?”
+
+“Of course.” Tee-one said and started on the bodysuit. He added the maximum he could add, another 50 runes, and a third of them had to go to reinforcement just so it could hold the rest of the runes. He did the bracelets next and popped the diamonds out to enchant them individually. One was a Bracelet of Unbelievable Magic, and the other was a Bracelet of Magical Balance. It increased their capacity by 50%, since he could enchant the metal as well as the individual diamonds.
+
+While Tee-one was busy doing that, Ren made two of the modified Amulet of Natural Armor with boosted stats, used Double Infusion to add the modified Amulet of the Spider enchantment, and then handed them to Tee-one to add additional Protection and stat boosts.
+
+Ren looked at one of his new recipes, Pearl of Wisdom, and it's requirements. It didn't count as a necklace, and added +15 to Wisdom.
+
+“Tee-one, did you look at this recipe?” Ren asked.
+
+“I did, and you'll look foolish with all those pearls around your neck.” Tee-one said, and Teepo chittered in laughter.
+
+“Ha. Ha.” Ren said, but they felt his amusement. “I was going to be a bit more conservative with it and make either a string of pearls, or a fancy necklace like I did with diamonds for Lara.”
+
+“Actually, why not do both?” Tee-one said. “You only need the main structure to hold the pearls in place, but the part that goes around the neck is just a chain.”
+
+“Nice.” Ren said, and opened the recipe. He added the maximum runes he could to the pearl, 15, and made them Augment runes for Wisdom. It made the pearl have +30 Wisdom, and then he opened the necklace pattern he had for the one he gave Lara before. He replaced all of the small diamonds in the pattern with those pearls, then added the string around the neck like Tee-one had suggested.
+
+Ren saved the pattern and activated his Craft Wondrous Item ability, and added the steel bars and gold it asked for. It took a minute to finish: but when it did, he was shocked at the result.
+
+Non-Necklace of Epic Wisdom (Rare - Binds on Equip)
+
+This heavily modified necklace has been enchanted to it's fullest potential and cannot be modified further, without destroying it. There are 180 pearls on it, each granting +30 Wisdom, for a total of +5,400 Wisdom.
+
+Durability: N/A
+
+“Oh, man.” Ren said and held it up. “This is ridiculous.”
+
+“What's ridiculous is that you can change that to any stat.” Tee-one said.
+
+Ren blinked his eyes and looked at the necklace, then back at Tee-one. “Are you thinking what I'm thinking?”
+
+“That you can make an entire bodysuit out of them?” Tee-one asked, and Ren nodded. “No, it never crossed my mind.”
+
+Ren snorted a laugh. “We can't do that, though.”
+
+“You would get censured for sure.” Tee-one said, and Ren nodded again.
+
+“This necklace will have to do for now.” Ren said and stored it, the bracelets, the amulet, and the modified clothing. “I hope she likes all of this.”
+
+“If she doesn't, there's a few others around that would take them.” Elerlyth said from the doorway.
+
+“Hello, gorgeous.” Ren said and walked over to her. “How's Etheria?”
+
+“Stubborn as hell.” Elerlyth said. “What did you do to him?”
+
+“Nothing.” Ren said. “The spell says you get the steed for you.”
+
+“I do not want a steed that bosses me around.” Elerlyth said, and Ren smiled.
+
+“He can't talk.” Ren said. “Unless you want him to.”
+
+“Wait, what?”
+
+“I don't know if Magic Mouth will work, since I tried it on my two dogs and all they said was 'Bark'.” Ren said. “I'll cast it on Etheria if you want.”
+
+“I... no, I don't want my horse to talk.” Elerlyth said. “It's bad enough with it just acting all high and mighty, I don't need to hear it's opinions as well.”
+
+Ren chuckled. “I just have to run over to the Library for a few minutes.” He said. “I'll be right back.”
+
+Elerlyth nodded, and Ren ran out the door and down the road almost instantly. “Wow.”
+
+Ren went inside the Library and was pleasantly surprised at what he saw. There were several people sitting down and reading in the main area, and someone was behind the reception desk. He immediately deactivated his Undead Adept ability, and saw Rosie relax. He walked over and beamed a smile at her.
+
+“Hi, Rosie.” Ren said.
+
+“Hi, Ren.”
+
+“How's your grandmother?”
+
+Rosie turned and pointed, and the old lady waved to him. Ren was going to wave back, then had an idea.
+
+“Excuse me for a minute.” Ren said to Rosie, and walked over to the old lady. “Ma'am, may I give you something better to sit in?”
+
+“These creaky old bones are used to these chairs, young man.” Rosie's grandmother said.
+
+“I know, and if you're spending all this time here, I'd like for you to be comfortable.”
+
+“Well, go ahead.” The old lady said. “Let's see what you got.”
+
+“I'll be right back.” Ren said and then disappeared.
+
+“Ahh!” The old lady was startled, and then Ren was back in front of her. “AHH!”
+
+“I'm sorry for scaring you.” Ren said and knelt in front of the old lady. “I couldn't cut wood or make furniture inside the building.”
+
+The old lady nodded, and Ren helped her stand up. He moved her chair out of the way, and put a comfortable recliner in it's place.
+
+“Wh-what is that thing?” Rosie's grandmother asked and poked it with a bony finger.
+
+“Please, have a seat.” Ren said, and helped her sit down.
+
+“Oh, my.” The old lady said as she sank into it's comfy embrace.
+
+“There's a lever on the side.” Ren said. “Ease it back, and the chair lays down.” He said. “Push it forward and the chair sits up.”
+
+“It's a folding bed?!?” Rosie's grandmother exclaimed, and Ren chuckled.
+
+“Actually, that's a good description.”
+
+The old lady pulled the lever and the chair tilted back and lifted her legs, and she pushed it forward and sat up. “Young man, you are unbelievable.”
+
+Ren smiled. “Please enjoy your stay.”
+
+“I always do.” The old lady said. “If I start to snore, tell Rosie to wake me up.”
+
+Ren chuckled and went back to the reception desk.
+
+“Thank you, Ren.” Rosie said. “It's been getting harder and harder for her to sit there.”
+
+“I'm just glad I thought of it.” Ren said. “I figured a comfy chair might have been enough; but, even I like to lay back and relax sometimes.”
+
+Rosie smiled. “I assume you made another one for me to take home for her?”
+
+“Two, actually.” Ren said and took them out, and Rosie stored them. “How do you like the new house?”
+
+“Oh, it's wonderful!” Rosie said. “Two bedrooms on the lower floor, and no steep stairs for grandmother to traverse every day.”
+
+“I was going to give you a two story, since I wasn't sure if you'd like changing how you live too much.” Ren said. “Then I remembered how hard it was for your grandmother going up and down the stairs of the Aurora Library and picked the closest two bedroom house for you.”
+
+“You're always so considerate.” Rosie said, and her face flushed red. “I never imagined you would keep talking to me, let alone give me my own Library and somewhere to live.”
+
+Ren reached out and took her hand, and she gave it a squeeze.
+
+“You're one of the first people I became friends with when I came here.” Ren said. “I'll always do right by you.” He said and took out a Bracelet of Unbelievable Magic, and a Bracelet of Magical Balance. “I want you to have these.”
+
+“R-Ren!” Rosie nearly yelled, and everyone looked at her. She waved to them and apologized for the outburst, then looked back at Ren. “I can't accept these.”
+
+“I know it's not much.” Ren said and activated his Craft Wondrous Item ability and made another modified Amulet of Natural Armor and added the modified Amulet of the Spider enchantment. “But, it's the least I can do to protect you.” He said. “Do you think your grandmother would like them as well?”
+
+Rosie's mouth dropped open at the thought of her grandmother having such things.
+
+“Maybe just the amulet of natural armor?” Ren asked, and she nodded. He made another one and brought it over to the old lady, and she accepted it graciously.
+
+“You don't have to keep giving me presents.” Rosie's grandmother said. “You already have my permission.”
+
+Ren smiled. “If all I wanted was your permission, I wouldn't deserve your permission.”
+
+The old lady cackled a laugh, and Ren went back to Rosie. She had on both bracelets and the amulet.
+
+“Ren, these things are amazing.” Rosie said and caressed the gold metal of the amulet.
+
+“The best part is you can put the books back on the high shelves without using a ladder.” Ren said and grinned.
+
+“Yes, climbing the walls is the best part of getting expensive presents from you.” Rosie said and laughed.
+
+Ren laughed, too. “I'll see you later, Rosie.”
+
+Rosie came out from behind the desk and gave him a hug. “I want to kiss you to thank you; but, it's not appropriate to do that in front of everyone.”
+
+“I'm pretty sure as the Head Librarian, you can set your own policy for conduct.” Ren said and wiggled his eyebrows.
+
+Rosie chuckled. “Okay, but just once.”
+
+“Once a day is enough, I agree.” Ren said and kissed her. They stayed that way for several moments, and then Ren broke the kiss. Rosie had her eyes closed and her lips were still moving; so, he went back in and kissed her again.
+
+“Hmm.” Rosie moaned a few moments later when she broke the kiss. “Thank you for the gifts.”
+
+“You are quite welcome.” Ren said. “I've got an appointment with the Sage of Ages in the back.”
+
+Rosie nodded and Ren quickly walked over to the side door that led to the hallway. He went inside and down the hallway to the last door and went inside.
+
+“Where have you been?” Lara, the Sage of Ages asked.
+
+“I was a little late logging in, because Elise helped me relieve some of my tension.” Ren smiled. “I also stopped at the warehouse when I did log in so I could finish your gifts. When I came into the Library, I talked to Rosie and her grandmother for a few minutes, too.” Ren said and walked over to her. “It's a good thing I don't have to eat anymore, or you might have had to wait for a while longer.”
+
+“You would have made me wait that long?” Lara asked.
+
+“No, I would have told you to come and eat with us.” Ren said and put his arms around her. “As it is now, I've got a few minutes to spare before I head out to the High Elves Kingdom.” He smiled. “Is there any chance you want to hang out in your closet until then?”
+
+“Well, I guess we could.” Lara smiled, and they walked over to the closet and went inside.

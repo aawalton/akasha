@@ -1,0 +1,347 @@
+---
+id: 13462cee-4aa3-5704-95bd-2638e5fbd67a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 355 - Blow On This"
+slug: 0348-chapter-355-blow-on-this
+partOf: mythrans-master-of-all-continued-completed
+position: 348
+ownLength: 3621
+unit: words
+publishedAt: 2017-09-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160567/chapter-355-blow-on-this"
+royalRoadId: "160567"
+---
+
+“Now, we just have to decide if you want an attached house, or an apartment.” Ren said.
+
+“House.” Janice said. “What kind of styles can I choose from?”
+
+“There's 50 of them right behind you.” Ren said. “I can do any of them, any combination of them, or something new.”
+
+“Um... let me look.” Janice walked over to the house subdivision and started to look at all the different houses. Ren took the opportunity to start making some prefab wall pieces. He could use them no matter what design she chose in the end.
+
+“I think I like this one.” Janice said about 20 minutes later. “It looks... homey.”
+
+Ren stored everything and ran over to her. “Which side do you want the shop on?”
+
+“That side.” Janice said and pointed to the left. “It's away from the front door of the house, and I assume that should keep the heat away from the bedroom.”
+
+“It's going to be surrounded in cement, so you don't need to worry about the heat.”
+
+“You're not using paving stones?” Janice asked.
+
+“I don't have enough on me at the moment.” Ren said. “I should have enough for the floor around the glass furnace, but not for the whole floor or the walls.”
+
+“You can wait to build it until you get the parts.” Janice said.
+
+“I'm supposed to be getting my first glassblowing lesson in...” Ren looked at his bare wrist. “...right about now.”
+
+Janice snorted a laugh. “We can't very well do it out in the open.” She said. “We need a nice enclosed space...” She stopped talking and pointed to the two storey Main House. “That's all cement, right? Can't we do it in there?”
+
+“Well, the bed is already in there...” Ren said and waggled his eyebrows at her.
+
+“That's not what I...” Janice saw a huge smile spread across his face and shook her head at him. “March, mister!”
+
+Ren chuckled and they walked over to the Main House, then went inside and up the stairs.
+
+“This is like an administration building.” Janice commented and then looked at Ren's workshop setup on the second floor. “You really are going to work here, aren't you?”
+
+“That's what I built it for.” Ren said and stored the forge.
+
+“Even though I've seen you move my house... my goddamn house... I'm still having a hard time getting over you storing something big and heavy like a forge.”
+
+“You better close your eyes, then.” Ren said and took out the glass furnace that was three times the size of the forge and put it in the same place.
+
+Janice rubbed her forehead and sighed. “You're giving me a headache.”
+
+Ren laughed and took out the cart full of sand, started the furnace, and filled it with several bags of sand.
+
+“You're doing all of these amazing things, like they're just something you do every day, and aren't the amazing things that they really are.” Janice said.
+
+“But... I do do things like this every day.” Ren said. “I hope when things get settled down that I can stop moving all this stuff around and start concentrating on crafting again.”
+
+“When will that be?” Janice asked.
+
+“After all the houses are built, the people that want to be moved are moved, and I've got all the defences set up for the county.” Ren said. “So, about a month game-time.”
+
+Janice shook her head. “I don't even know what I'm doing tomorrow, let alone next month!”
+
+Ren chuckled. “Well, Venerable Sensei.” He said and motioned to the glass forge and activated it. “Show me your skill, and share with me your knowledge.”
+
+Janice took out the box she had stored under her bed and opened it. Inside were various tools and things used in Glassworking, and Ren examined them all and got the plans for them. She even had a glass scorer, too.
+
+“Where did you get that?” Ren asked and pointed to the tool.
+
+“When I got my class.” Janice said. “I had this box in my inventory when I started the game.”
+
+“Nice.” Ren said. “It looks brand new.”
+
+“It's never been used.” Janice said. “I didn't have time to play with it.”
+
+Ren chuckled. “I say that all the time.”
+
+Janice smiled. “We won't be doing anything with that today, anyways.” She said. “We'll start off with the basics.” She pointed to the glass furnace. “Glass is really just molten sand.” She said. “The game takes liberties with the content and the mixture, but that's understandable. Can you imagine having to find all the different minerals and chemicals you'd need to make different colored glass?”
+
+“Yep.” Ren said. “I had to look it up when I researched how to make stained glass.”
+
+“You did?”
+
+“Uh huh.” Ren said. “I'm really glad that I can just use my portable dye station to color it instead.”
+
+“You... you have a... a... portable dye station.” Janice said, shocked.
+
+“Yeah, and it's been great!” Ren said. “I can make anything that I want in any of the basic colors available.”
+
+“You're not joking with me, are you?” Janice asked. “You really do have...”
+
+Ren took out the portable dye station and placed it on the workbench.
+
+“Oh... my... god.” Janice said, and put an arm around Ren's shoulders. “If you didn't have all those women waiting for you at home, I'd drop to my knees and give you a proper thank you.”
+
+“That would be... wait, what?” Ren looked at her with wide eyes. “I'm sorry if I heard that wrong, and I'm really sorry if I'm jumping to conclusions, but... did you... did you just offer to...”
+
+“...pull down your pants and pretend that you're a lollipop, so I could suck on it to try and get to the candy center?” Janice finished for him.
+
+“Yeah, that.” Ren said, and almost laughed at her description.
+
+“You do realize how difficult it is to get things to be different colors in the game, don't you?”
+
+“Apparently not.” Ren said. “That was... quite an unexpected offer.”
+
+Janice looked down at the growing bulge in his pants and smiled. “One that was unexpectedly welcome, too.”
+
+Ren didn't bother to cover himself. “Yeah, it turned me on.”
+
+“You're not going to deny it?”
+
+“Why would I?” Ren asked. “It's not very often that a woman will offer to do something like that out of the blue like this.”
+
+Janice chuckled. “I totally caught you off-guard.”
+
+“You sure did.” Ren said. “I mean, I know we can joke around a bit because we're friends, and I kind of mentally prepared myself to deal with that... but...”
+
+“So I really am a temptation for you?” Janice asked and tapped the back of his head with her finger. “My overt sexuality is just too much for your primitive brain to handle?”
+
+“Overt?” Ren laughed. “You just threw it in my face and I'm trying to duck.”
+
+Janice laughed. “I'm glad you're not completely above my womanly powers.” She winked at him. “Now put that thing away so we can get to work.”
+
+“You mean the portable dye station, right?” Ren asked and grinned.
+
+“You can put both of them away.” Janice said and laughed again. “We both know you're not going to be using either of them for this lesson.”
+
+“Yes, Ma'am.” Ren said and stored the portable dye station, then concentrated on the glass furnace. “What do we have to do first?”
+
+“We need a bucket of water.” Janice said.
+
+“One bucket, coming up.” Ren said. He took out the forge and set it next to the glass forge, and activated it. He took out a smelter and put it on top of the forge and added a single high quality iron ingot to it. While it melted, he asked Janice if she wanted a wide bucket, a deep bucket, or just a normal one.
+
+“Normal is fine, but a wide and deep one would help with bigger bottles and vases.”
+
+Ren nodded and added another ingot and melted that, too. “Don't freak out, okay?” He said to her. “I'm immune to fire.”
+
+“Freak out? Why would I?” Janice asked as Ren reached for the smelter's handle. “What are you going to-OH MY GOD!” She yelled as Ren poured out the molten metal into his hand. She watched in both horror and amazement as he formed the metal into a wide and deep bucket that cooled off right away.
+
+Ren put the bucket down and filled it with water from his ring in an instant. “What's next?”
+
+“I... I... I don't...”
+
+“Relax.” Ren said and turned off the forge. “What's next?”
+
+“Cloth pieces.”
+
+“I have tons of those.” Ren said and took out a handful of them. “Next?”
+
+“That... that's all.” Janice said. “The rest is all skill.”
+
+“Sweet.” Ren said and waited. Janice stood there and gawked at him for several moments, then took a deep breath.
+
+“Okay. I'm okay.” Janice said. “Right. First, you need to use the gathering tool and get yourself a nice little ball going, then you slip that ball over the end of the metal pipe...”
+
+*
+
+“I can't believe this.” Patty said as she watched the carry train move bundle after bundle from the field into the wheat storage house.
+
+“Me, either!” Russell said and hopped up and down several times. “Can I join in, Miss Patty? Can I? Can I?”
+
+Patty sighed. “Go ahead.”
+
+“Yes!” Russell said and ran out into the field much farther than everyone else, then started to toss bushels within reach of the first person in the line.
+
+“They're so excited because they usually can't do this kind of thing until the whole harvest is ready to go.” Fern said from behind Patty.
+
+“Hi, Fern. I'm glad you're okay.” Patty said as Fern came to a stop beside her. “Russell told me about the healer.”
+
+“It sure was something.” Fern said. “Did he also tell you it cost 10 gold?”
+
+“WHAT?!?” Patty yelled, and several people looked at her. “I'm sorry for yelling.” She said. “Keep having fun.”
+
+The villagers went back to storing the bushels and Patty looked at Fern.
+
+“I can't believe the healer charged so much!”
+
+“They didn't.” Fern said. “He paid double the fee to get the healer here.”
+
+Patty almost yelled again, but caught herself.
+
+“How long is it going to take to pay that debt off?” Patty asked.
+
+“I don't know.” Fern said. “He never mentioned anything about paying him back.”
+
+“Fern, you can't just let him-”
+
+“What? Buy me?”
+
+Patty didn't say anything in response.
+
+“He didn't act like that was what he was doing at all.” Fern said. “He treated my wife and daughter like they were in the same social standing as him, and that right there is worth more to me... and them... than healing my broken leg.” He smiled. “Gemma sure gave me an earful over me not treating her the same, until I told her that I didn't know how to treat her like that.”
+
+Patty kept quiet about Ren treating old Margaret the same way. He seems to treat everyone the same.
+
+“Now I'm stuck getting a lesson from her tonight.” Fern said and laughed. “Like I'm gonna remember it all tomorrow.”
+
+Fern felt a hand whack his ear. “Ow! Dammit, woman!”
+
+“You better remember what I teach you!” Gemma said, and looked at Patty. “Miss Patty.”
+
+“Hi, Gemma.” Patty said. “Do I even need to ask what you thought of him?”
+
+“I think he's going to be the best thing that's ever happened to this village.” Gemma said. “Everyone is already talking about what he did here, and what else he's going to do.”
+
+“That's what I'm afraid of.” Patty said. “He's doing all of this, and it's disrupting everything we've built.”
+
+“Disrupting?” Gemma asked. “I think you need to think about what you want in life, Miss Patty.”
+
+“What do you mean?”
+
+“Are you so scared of any kind of change that you don't want any change at all?” Gemma asked. “Do you want to keep everyone exactly the way they are?”
+
+Patty just looked at her and didn't say anything.
+
+“If that's true, then you're in trouble.” Gemma said and pointed at Russell and her own daughter, then at all the kids laughing and having fun throwing the bundles of wheat. “The children aren't us. They think differently, act differently, and are a lot more open and accepting about things.” She said, and remembered her daughter's completely different reaction than her own to Ren's polite gesture. “They can learn and adapt a lot better than we can.”
+
+Patty sighed. “I know.”
+
+Gemma heard a woman call her name, and she waved to them. “Looks like my break is over.” She said and kissed her husband on the cheek. “Don't do more than look!”
+
+Fern shook his head. “I won't go against his word.” He said. “I'm standing here and watching, just like he told me to.”
+
+“You can listen!” Gemma proclaimed and laughed, kissed his cheek again, then walked back to her place in line. Patty watched her go, and then looked at everyone and how happy they were.
+
+I have a lot to think about. Patty thought.
+
+*
+
+Ren watched as Janice made potion bottle after potion bottle. Even though it was supposed to be the same motion for each one, the molten glass was so malleable when used this way that every bottle had to be made carefully. Each small ball of molten glass was stuck on the end of a metal tube, and she very lightly blew into it.
+
+When the glass expanded to the right size, Janice stopped blowing out and kept the same pressure. She dipped a cloth in the water bucket and cupped it over the glass and turned the metal pipe to try and make the glass even. Before it cooled on the neck, she used a wedge tool to indent along the top of the bottle near the end of the metal pipe. When it had cooled enough, she held the pipe over a stack of cloths and used a thin metal rod to tap the edge of the glass. It popped off the end of the metal rod and landed softly on the cloth.
+
+“Do you want to give it a try?” Janice asked Ren.
+
+“I'd like to; but, I know how your first bottle came out.” Ren smiled. “I am not trying something like that right off the bat.”
+
+“Chicken.” Janice said. “Bawk, bawk!”
+
+Ren laughed. “You know I'll blow a little bit through that metal pipe, and it's going to spit molten glass all over the place.”
+
+Janice laughed. “All right. We'll do some blowing practice.”
+
+“Thanks.” Ren said and took out a paving stone and 4 stone bricks. He made a box with them, and poured about an inch of molten glass into it.
+
+“What are you doing?”
+
+“Making a pool to practice in.” Ren said and held a hand out. “May I?”
+
+Janice handed him her metal pipe, and he eased it into the molten glass. “Easy now. You aren't trying to blow air in to expand it all at once. Slow and sure wins the race.”
+
+Ren nodded and put his lips on the pipe. He blew a little bit, with almost no breath at all, and a bubble quickly formed and almost burst.
+
+“Didn't I just say to take it easy?” Janice asked. “Less air, more pressure.”
+
+Ren chuckled. “I barely... barely breathed.”
+
+“Is this where I'm supposed to joke about you being full of hot air?”
+
+Ren grinned. “Some people say I'm full of something, but it ain't air.”
+
+Janice laughed, and Ren looked at the metal pipe. It was 2 feet long and had only a tiny little hole in the center.
+
+“Janice? Does the pipe have to be this size?”
+
+“Not really.” Janice said. “That's just the one I have.” She said. “I've seen some that are about 4 feet long and have a big hole for airflow, and I've seen ones only 6 inches long and had a pinhole for the air to pass through.”
+
+“Hm.” Ren gave her the metal pipe back after cleaning off the end, and dumped the molten glass back into the furnace. “I think... maybe...”
+
+“You think what?” Janice asked.
+
+“Give me a few minutes.” Ren said and started the forge. He put another iron ingot into the smelter and let it melt. Ren used the same paving stone and bricks to make a long thin mold, and poured some metal into it. He let the system actually make the pipe for him with his chosen dimensions, absorbed the heat from it, and picked it up.
+
+“You can make them?” Janice asked, surprised.
+
+“I have the tools to make it if I want, like a wire to mold the metal around; but, it's just easier to let the system make the little things that don't need to be high quality.” Ren said. “It saves a lot of time, too.”
+
+“I always make everything by hand.” Janice said.
+
+“I usually do, once I know how to make it.” Ren said and held it up. “But a small pipe like this?” He shrugged. “I'd barely shave any time off it's creation if I did it by hand.”
+
+“I never thought about it like that.” Janice said.
+
+“I've spent a lot of time playing.” Ren said, and then grinned. “I've done a lot of things lately; but, waste time is not one of them.”
+
+“I distinctly remember someone doing a face-plant on solid water not too long ago.”
+
+“I wasn't wasting time then, either.” Ren said. “I had to keep you all occupied with something, just so some of you wouldn't think that I would be a good option to keep you occupied instead.”
+
+Janice chuckled. “You mean Candace?”
+
+Ren nodded.
+
+“She wants someone to dominate her, but only when she wants to be dominated.” Janice said. “If you try to do it when she's not in the mood, you better watch out. She'll explode and try to take your head off.”
+
+Ren laughed. “I'm really glad I'm never going to find that out first hand.” He said and took out a sack of small diamonds, picked one out and stored the sack.
+
+“What the hell was that?” Janice asked with wide eyes. “That wasn't... it couldn't... you don't have...”
+
+“A bag full of tiny diamonds?” Ren said and held up the 1 gold coin diamond. “Yeah, I do.”
+
+“Good god, Ren!”
+
+“What?” Ren asked, put a finger on the diamond's surface, and enchanted it with a single Wind rune.
+
+“How many... god, I don't really want to know, do I?”
+
+Ren grinned. “Nope.” He said and added the diamond to the end of the pipe and used his Gemsetting skill to secure it in place.
+
+“What are you doing?” Janice asked.
+
+“I knew it was going to be too dangerous for me to blow through the pipe; so, I'll let a constant enchantment do it instead.” Ren said. “I can activate and deactivate it as much as I need.”
+
+Janice watched wordlessly as Ren poured out some molten glass into his hand and stuck the open end of the metal pipe into the blob, and activated the enchantment on the diamond on the other end. A perfect bubble formed in the molten glass, and Ren held the pipe in his mouth as he used his other hand to form the glass into a sphere around the slowly growing bubble. It had been a bit too much glass for a normal potion bottle, so Ren let it grow until Janice told him to stop.
+
+“That's good.” Janice said. “Any more than that, and it'll be too brittle to hold, let alone use.”
+
+“My mom mim.” Ren said and deactivated the wind enchantment on the diamond on the end of the metal pipe, then used her wedge tool to make the ridge on the top of the bottle and grabbed a wet cloth. He used his Absorb Fire ability to suck out the heat evenly as he rubbed it with the cloth to smooth the glass, rather than let it cool normally, and then tapped the metal pipe just above the wedge with the small metal rod. The large potion bottle popped off the end of the modified metal pipe and dropped onto the stack of cloth pieces.
+
+Notice!
+
+You have learned a new skill: Glass Blowing. This sub skill under Glassworking allows you to add air to molten glass, which can be used to make various bottles and shapes. Higher levels will allow higher quality items and more intricate works to be made.
+
+“What did you say?” Janice asked as she picked up the bottle.
+
+Ren took the pipe out of his mouth. “I said, 'I got it'.”
+
+“You sure do.” Janice said and handed him the potion bottle. Ren took it and examined it.
+
+Larger Potion Bottle (Rare)
+
+This bottle, despite it's large size, was made by Ren The First on his first try. The proper application of air and cooling combined perfectly to make this container. Since it holds more potion, it is that much more effective in that potion's application.
+
+“Ha ha!” Ren said, and held it up. “I knew using an enchantment would work better for me.”
+
+“I can't believe you did that on your first try.” Janice said. “That's amazing.”
+
+“It's the wrong size, but that's okay.” Ren said. “I didn't use your technique for gathering the molten glass, so it's only fair it didn't come out like one of yours.”
+
+“Well, then.” Janice said. “You know what that means.”
+
+“Yep! Practice, practice, practice!” Ren said and smiled.

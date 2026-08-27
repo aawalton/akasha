@@ -1,0 +1,317 @@
+---
+id: 2711b981-4426-5cd5-8b50-8b965ba1f5df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 175 - Oops!"
+slug: 0163-chapter-175-oops
+partOf: mythrans-master-of-all-continued-completed
+position: 163
+ownLength: 3583
+unit: words
+publishedAt: 2017-02-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119611/chapter-175-oops"
+royalRoadId: "119611"
+---
+
+Ren left the women standing there in shock, then left to go down to the stable and stored the 15 crates of diamond crystals he'd left there. He went back up to the workshop and went into the forge room and saw Tee-one making a normal bow.
+
+“Hi, Tee-one.”
+
+“Hello, Ren.”
+
+“What's the progress on the bows?”
+
+“I finished the 100 longbows. There was enough left over from each tree to make a short bow, so I've got a hundred of them, too. I'm three-quarters of the way through the normal bows you asked me to make, and I haven't started the trees designated for short bows yet.”
+
+“That's excellent.” Ren said. “I don't remember getting any popups, though.”
+
+“That's because I can only use your skills, I can't increase them.”
+
+“What about your own level?”
+
+“I received the popups for levels, but haven't allocated any points yet.”
+
+“You haven't?” Ren asked, surprised. “Why not?”
+
+“I wanted to talk to you first, and discuss where they should be spent.”
+
+“Oh.” Ren said. “You didn't have to do that; but now that I'm here, show me what you have.”
+
+Tee-one showed him what he had, and Ren made suggestions for the best use of the points.
+
+“You'll definitely want higher Strength and Dexterity.” Ren said. “They're the best stats for working with your hands. Endurance is a good one as well, so you can keep going and not have to worry about stopping to rest.”
+
+“I don't rest, anyways.” Tee-one said. “Would Endurance let me work faster?”
+
+Ren shook his head. “Not if you're using my skills as if they were your own.” He said. “I'll have to bring my skill level up if you want to work faster. Sorry.”
+
+“That's okay.” Tee-one said. “I'll keep working at this pace.”
+
+“When you're done with that, I'd like for you to start working on the Keep.”
+
+Tee-one nodded. “I already have everything stored.”
+
+Ren took out the customized cart and told him how to mix the cement, and then how to add the rebar to the walls, put up the wooden mold pieces, and fill them.
+
+“Each section takes a day to dry, then you remove the wood mold, dig the next level to let the dirt fill in the newly cemented part, add the rebar and the mold, then mix more cement to fill it.” Ren said. “By my calculations, just by doing the wooden mold every day, the entire outside of the Keep will be repaired in a month.”
+
+“What about the inside?”
+
+“I'll worry about that when the outside is done.” Ren said. “With the rebar sticking out 3 inches on the inside, it'll be child's play to attach support rebar and fill the floor and wall molds with cement.”
+
+“You can also get away with thinner walls, if each floor is reinforced.”
+
+“Now you're getting it.” Ren said and grinned. “Once the outside is secured, it will provide a fantastic support base for everything inside.”
+
+“I understand.”
+
+“I'll have as much iron ore sent here as soon as I can.” Ren said. “I'll be working at the new mines for the next 3 months, then I'll have a month to finish everything before I have to leave.”
+
+Tee-one nodded. “I'll get as much done as I can.” He said and finished another bow, stored it, and took out another springy tree, cut it in half, and started making another normal bow.
+
+“Hold on a minute.” Ren said, and took out the lingerie plans he had. He finished adding in the details, and memorized them. Using his Pattern Making skill, he made several permutations of them, adding frills, lace, cutouts, and anything else he could think of. By the time he was done, instead of the dozen outfits he'd memorized in real life, he had nearly 60 outfits, and twice that in single bras and panties. Tee-one's eyes widened as he gained access to the patterns. “I assume you want me to make some of these.”
+
+Ren nodded. “You might as well do something else while you wait for the cement to dry.” He took out the bolt of see-through fabric, bolt of lace, and bolt of frills. He made a large crate, then lined it with regular cloth.
+
+“I'll want 6 of each outfit, and a dozen each of the bras and underwear.”
+
+“You don't know that many women, Ren.” Tee-one said, and Ren laughed.
+
+“They aren't gifts; although that's a good idea.” He said. “I'm planning on opening a storefront with them.”
+
+“Ah.” Tee-one said. “Is there anything else?”
+
+“I have the plans for a mansion, but we can build that when my sentence is up.”
+
+“With cement?”
+
+Ren shook his head. “No, just wood.” He said. “It'll go fast if we prefabricate everything, then assemble it.”
+
+Tee-one nodded. “That's a good idea.”
+
+“I borrowed it from a lumber worker in Aurora.” Ren smiled. “I'll let you get back to work.”
+
+“Bye, Ren. See you in a couple of days.”
+
+“Have fun.” Ren said, and left the forge room. The women were still standing there, staring at the coin in their hands. “I can give you another toy, if you don't like that one.” He said, and it snapped them out of their shock.
+
+“No... no no no...” Dorathy said. “You...” She shook her head. “You really are crazy.”
+
+Ren laughed. “I sure am.” He said. “Especially since you're still getting paid for your work every day.”
+
+“WWHHHAATTT?”
+
+“That's not pay.” Ren said. “That's a toy.” He laughed as he turned around and went into Dorcot's area, then saw he was hard at work carving a new diamond. Ren waited until he took his chisel away from the surface of the crystal before speaking.
+
+“Sorry to bother you, Dorcot.” Ren said. “I need a bit of a favor, and I don't know if you're going to like it.”
+
+“Oh?” He looked up at Ren. “What is it?”
+
+“I need about 300 round-cut diamonds, one inch in diameter.”
+
+“That's no problem.” Dorcot said. “You've got another odd-sized crate of crystals, right?”
+
+Ren nodded and took it out for him, then took out a few more for him to play with. “I thought you might be angry about destroying a large crystal by cutting it up.”
+
+Dorcot shook his head. “It's easier to make the same cuts over and over, than to try and make something new every time.”
+
+“I'd like to have them by the end of the week.” Ren said. “Is that too soon?”
+
+Dorcot smiled. “It is if I take a few days off.”
+
+“Then don't worry about it until next week.” Ren said. “I'll be working the mines for the next three months, and I'm making a workshop there. I need to grind some skills up, so I wanted the diamonds for making wands.”
+
+“I was joking Ren.” Dorcot said. “I don't need a few days off.”
+
+“Oh.” Ren said. “It's okay if you do.”
+
+Dorcot laughed. “I had all the free time I ever wanted, before I started working for you.” He said. “I'm pretty sure I've had enough of it.”
+
+Ren checked the middle drawer of the workbench, and dumped the diamonds into inventory. He gave Dorcot the appropriate amount of platinum in exchange, and Dorcot shook his head.
+
+“I don't need any more money, Ren.” Dorcot said. “We've already bought pretty much everything that we'll ever need now.” He said. “Even a boat.” He laughed again. “Can you imagine? I bought a boat!”
+
+“So did I.” Ren laughed. “Right after you did.”
+
+“You did?” Dorcot asked. “It's bigger than mine, isn't it?”
+
+“Put it this way.” Ren grinned. “Your boat would fit inside one of the cabins.”
+
+“You bought a SHIP?!?” Dorcot exclaimed, and Ren chuckled.
+
+“Yeah. It was quite a deal, too.” Ren said. “It should be done in a couple of weeks.”
+
+Dorcot shook his head. “What in the world are you going to do with a ship?”
+
+“Fill it with stuff, of course.” Ren said. “I've got a lot here to bring when I leave.”
+
+“You sure do.” Dorcot said. “I feel sorry for our land, now that you're leaving.”
+
+“You don't have to.” Ren said. “Narhilda will keep things going, and get this land back to the way it should be.”
+
+Dorcot nodded slightly. “I think we're all going to hope for that now.”
+
+Ren put a hand on Dorcot's shoulder. “Don't worry. She's a good woman. This land is in good hands.”
+
+“Thanks to you.”
+
+Ren shrugged. “This is all just a by-product of the Council having it out for me.” He said. “My trip here would have turned out a lot differently if it wasn't for that.”
+
+Dorcot laughed. “Yeah, Lord Lodur wouldn't have gotten such a sore neck.”
+
+Ren sighed. “I'm sorry that it came down to that; but I won't complain about it, either. He's had something coming for years.” He said. “I thought it was going to be jail time, though.”
+
+“He wouldn't have served a day.” Dorcot said. “He owns the Garrison.”
+
+“He what?!?” Ren exclaimed. “You... you mean?”
+
+“They're all his personal army.”
+
+“He's been protecting the land?”
+
+Dorcot nodded. “House Lodur was the only one with enough money to fund it. Access to nearly an endless supply of building materials was a factor, too.”
+
+“Wow.” Ren said. “I guess that's why Lord Lodur thought he could get away with everything.”
+
+Dorcot nodded. “I wonder what's going to happen now.”
+
+“I don't know.” Ren said. “I'll have to think about it.”
+
+“Have fun worrying about something you shouldn't worry about.” Dorcot said, then laughed as he turned back to his workbench. “Like you need more stuff to worry about.”
+
+“See you later, Dorcot.”
+
+“Bye, Ren.”
+
+Ren left Dorcot to work, and left the workshop. Once outside, he looked at the large wall he'd built to block off the spider lair cave.
+
+“No time like the present.” Ren said, then stored it. He dropped to a knee, and grunted. When he looked into his inventory, he saw it only took up a single slot. “I'm glad I forgot... to clear out my inventory first... considering I didn't have to.”
+
+He stood up and took a deep breath, then walked back into the workshop and into the forge room.
+
+“I forgot to tell you... how to get to the Keep's underground passage.” Ren said to Tee-one, and lifted the paving stone hatch he'd made. “Follow me... please.” He ducked down into the passage and Tee-one followed him. They went down into the underground, and Ren showed him how to put in the rebar, and installed the mold pieces in the part he'd already dug out.
+
+“Now... the hard part.” Ren said, and equipped his armor and shield. “Take out... your swords.”
+
+Tee-one took them out and prepared for battle.
+
+“I'll dig... the last little bit of dirt away... then take the retaining wall... out of inventory.” Ren said and used his mining pick. “I'll be busy... securing it... you'll have to... defend me...”
+
+“I'll defend you with my life.” Tee-one said.
+
+“I hope that... won't be... necessary.” Ren said, as he broke through the dirt and into the spider cavern. Teepo flew in, and looked around. “They heard you! They're coming, Ren!”
+
+Ren dug out enough to fit through the hole, and Tee-one followed closely behind. Ren opened his inventory and selected the wall.
+
+“Here... goes... everything!” Ren nearly shouted as he took the retaining wall out of inventory and placed it in the available space as Teepo flew into the hole in the side of the Keep.
+
+“They're coming this way, too!” Teepo said, and Tee-one took up his position in the center of the 20 foot hole.
+
+“I should have covered the wall in cement.” Ren said, then started to secure the retaining wall to the Keep. He was really glad that he'd added the braces and supports, so he didn't have to hold the wall and secure it at the same time. The first spider came into the room, and Tee-one saw it was only 2 feet high.
+
+“That's not too bad.” Tee-one said.
+
+“Crap!” Ren said and kept working. “You've done it now!”
+
+“What?” Tee-one asked.
+
+“My Trouble recipe only needs a few ingredients these days. Saying 'it's not too bad', means it's going to be REALLY bad!”
+
+“I'm sorry.” Tee-one said and stabbed the spider when it approached. It gave out a low screech, and Tee-one stabbed it with his other sword to kill it.
+
+“Not your fault.” Ren said as he kept securing the retaining wall. “I should have warned you.”
+
+“Me, too.” Teepo said. “Because here comes a pile more!”
+
+“I'll have the wall secured in a minute!” Ren said and kept working as three spiders came into the room, then 3 more, then 3 on the ceiling.
+
+“Ren!” Teepo said. “The Ballista!”
+
+“Dammit! I forgot!” Ren stopped working, took out the Ballista and set it up in the opening, then concentrated on his Command Aura. “There's only 20 shots, so make them count.” Ren said, then activated Hail Of Arrows. “Now it's 20 shots, 2 at a time.” He said, then activated Opportunity Knocks. “Double damage, too.” He went back to securing the wall. “I'll keep activating them, so have fun!”
+
+Tee-one got behind the Ballista and opened fire. Several spiders were skewered by the 6 foot long projectile, and the spiders beside them were hit by the magically generated one. Nearly a dozen were taken out with one shot.
+
+“Nice!” Ren said. “Keep going!”
+
+Tee-one waited for a good shot and fired again, taking out another 15. More spiders clambered into the room and he kept firing. Ren watched his Mana Pool drain, and when Tee-one stopped firing, he'd lost about 20%.
+
+That's with just one person firing. Ren thought. Imagine if I had three or 4 firing, with 40 or 50 shots each. He shook his head and kept securing the wall. My Mana Pool would drain in only a minute or two.
+
+Tee-one took out a bow and started firing. Ren's ability was still active, so he was doing double damage with the arrows, and a magic arrow would hit them and caused double damage as well. It was taking more shots because Tee-one had to hit each one with a single arrow. He couldn't miss, though. It wasn't because he was a great shot, it was because you couldn't see the room through the spiders.
+
+“Switch to your swords!” Ren said. “I'll switch to Take Them Down to give you Killing Blow and a free attack, instead of Hail Of Arrows!”
+
+Tee-one stored the bow and took out his swords, swung and killed a spider with a single hit.
+
+“Ha ha!” Tee-one kept swinging and killed spiders left and right, above and below. He waded into them and stepped into the room. Ren felt his joy at how easy it was, but Tee-one was also being surrounded.
+
+“Don't get lost in the fun!” Ren said. “I've got another 20 feet to attach, and they're boxing you in!”
+
+Tee-one swung harder, then stepped back to block the hole. “Sorry.”
+
+“Don't be.” Ren said and laughed. “I'll be joining you once I'm done.”
+
+Tee-one smiled and kept swinging. There wasn't a lot of room for finesse, as the mass of spiders barely gave him time to pull his swords back to swing.
+
+“Almost... almost...” Ren hammered in the last of the supports. “Got it!” He equipped his hammerpick and joined Tee-one at the hole into the Keep. Ren kept activating his abilities, and about every third spider pretty much exploded from the Killing Blow special ability. Take Them Down and Opportunity Knocks drained Ren's Mana Pool pretty fast.
+
+“I need to recharge my Mana!” He had to yell to Tee-one, even though they were standing next to each other.
+
+“Go ahead!” Tee-one yelled back. “I've got this for a minute or two!”
+
+Ren took out several pieces of wood and his fire enchanted brick. He set them ablaze, and absorbed the fire with his hands to recharge his Mana, then stopped.
+
+“I am such an idiot for using my hands!” Ren said, then stood in the fire, and used his Fire Manipulation ability and Absorb Fire ability. “I can absorb it through any part of my body!”
+
+The wood kept burning, but Ren absorbed the fire before it could eat much of it. He took out a fireball wand and started firing at the spiders on the ceiling. Spider bodies rained down onto the spiders on the floor and some were crushed; but the bodies were building up, and the pile was making a kind of barrier all on its own.
+
+“I think the attack is slowing down!” Teepo said. “There's not as many spiders coming to the room.”
+
+“I didn't think there would be this many inside.” Ren said. “I'd have gotten some more help first.”
+
+“Why?” Tee-one laughed. “We're almost done.”
+
+“Stop doing that!” Teepo shouted. “Aw, crap!”
+
+“What is it?”
+
+“These are just the first wave, apparently.” Teepo said. “They sent in the small ones first to soften you up.”
+
+“These are the small ones?!?” Ren asked. “Wait, did you say 'soften us up first'?”
+
+“Yeah.” Teepo said. “Here comes the 5 foot ones to trample you.”
+
+“Oh, FUCK!” Ren cursed, then ran into the room. He easily jumped over the pile of bodies with his new boots, and landed on several spiders. They went squish, and covered the boots in blood, gore, and poison. He switched the wand for his hammerpick, and swung both that and his shield to smash the spiders he could see out of the way. He stored the 6 foot long bolts for the Ballista that he could reach, then ducked as a spider tried to swipe at his bare head.
+
+“Get back here!” Tee-one and Teepo said at the same time, and Ren jumped back over the pile of spider bodies, just as one of the 5 foot ones came into the room.
+
+“Turn around!” Tee-one said, and grabbed the spider that had climbed up onto Ren's back. He threw it on the floor and stabbed it. Ren stored the hammerpick and shield, gave Tee-one the fireball wand, and loaded the Ballista's cartridge with the recovered bolts. Tee-one fired the wand over and over, and the smell of burning spider hair and flesh filled the room. He'd killed the first one, and another came into the room, trampled the smaller spiders as if they weren't there, and pushed the body of the first one out of the way.
+
+“Ren!” Tee-one exclaimed.
+
+“I got it!” Ren said, then opened fire. The first shot hit the spider in the abdomen and it squealed in pain. “Dammit, I forgot Hail Of Arrows!” He activated the ability, and fired again. Two 6 foot bolts hit the spider in the abdomen, and the body burst open and covered the smaller spiders in gore and viscera.
+
+“By the gods, that's disgusting!” Teepo said.
+
+“It'll work for what I want, though!” Ren said, and generated two Elemental Grenades of Lightning and threw them over the spider body barrier. The grenades exploded and shocked the spiders into immobility.
+
+“Go! Go!” Ren said, and Tee-one climbed over the barrier and sliced at the spiders. “Oh, damn! Duck, Tee-one!”
+
+Tee-one swiped at the next spider and ducked down at the same time, as a large spider came into the room from the hallway. Ren fired again and hit it with 4 bolts; 2 normal, and 2 magical. It's body exploded, and Tee-one jumped out of the way. He landed on his side, and fresh spiders from the hallway came in and swarmed over him.
+
+“Dammit! I can't fire!” Ren said, then looked down at the fire brick. He grabbed it, jumped over the spider body barrier, and hosed the spiders with it. Most of them were killed from the intense heat, but some were only singed and scampered away.
+
+“REN!” Teepo shouted, and Ren looked up to see a giant spider, slightly taller than him, clamp onto his armored arm.
+
+“Oh craaaaaaaaaaaap!” Ren yelled as the spider picked him up, shook him slightly, then turned to take him from the room. The spider jerked once, then twice, and it started to twitch. It shook Ren a bit more and pulled on his arm; but it gave Ren an opportunity to make a fist. He punched the spider in the mandibles several times, to no effect. He looked at his rings.
+
+This is going to hurt. Ren thought, and activated his Lightning Ring.
+
+“Ren, NO!” Teepo shouted as Lightning engulfed the giant spider and Ren. The two of them convulsed and shook, then Ren deactivated the ring. They collapsed to the floor, and the spider let Ren's arm go.
+
+“Yeah.” Ren groaned, and held onto his arm. “I was right. That hurt like hell.”
+
+The spider had clamped down on Ren's armor and dented it, partially crushing his arm with it. Tee-one cut the spider's body in half, and came over to Ren.
+
+“Can you walk?”
+
+“Walk?” Ren asked, and rolled into a crouch. “I can run!” He took off and jumped over the pile of spider bodies. The room was nearly full of them now, and he made it back to the Ballista just in time. Two more 5 foot spiders came into the room and he used his good arm to fire the Ballista into them.

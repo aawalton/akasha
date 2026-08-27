@@ -1,0 +1,397 @@
+---
+id: 8a56c55f-acad-54ff-b2b1-95927dc608d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 192 - Congratulations! It's A Mine!"
+slug: 0180-chapter-192-congratulations-its-a-mine
+partOf: mythrans-master-of-all-continued-completed
+position: 180
+ownLength: 3503
+unit: words
+publishedAt: 2017-03-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122910/chapter-192-congratulations-its-a-mine"
+royalRoadId: "122910"
+---
+
+“Oh, my god.” Barbara said and rubbed her forehead with a hand when the news segment was over. “At least she didn't give out the name and address of the hospital.”
+
+“I don't think that's going to matter much.” Ren said. “How many hospitals do you know that have a custom-built physical therapy room on the same floor with it's patients?”
+
+“Ugh.” She groaned.
+
+“Plus, I go to the mall every month. Everyone around here has seen me.” Ren said. “The wheelchair is kind of hard to miss.”
+
+Barbara sighed. “I'll be right back.” She left the room and was gone for several minutes. Ren checked the laptop to look up stained glass production. He smiled, as he saw that a sharp metal wheel, or small diamond was used to score the edges of the glass, and they were easily broken into pieces. Thin copper strips were used to surround each glass piece, then they were soldered together.
+
+I could literally just dip my finger into the smelter and touch each piece to attach them to each other. Ren thought, then Barbara came back into the room.
+
+“Where did you go?” Ren asked.
+
+“Doctor Hobbard needed to be told right away.” Barbara said as she sat in the chair by the bed. “So did the legal department and the board.”
+
+“Legal department?”
+
+“Yes, Ren.” Barbara sighed. “Cheryl, in a wildly inappropriate fashion, violated your right to privacy... among other things.”
+
+Ren looked at Barbara with wide eyes. “Is... is anything going to happen to her?”
+
+“Unfortunately, yes.” She said. “Even if she doesn't realize what she's done; ignorance is not an excuse.”
+
+“But... if she didn't know...”
+
+“It doesn't matter.” Barbara said. “The least she'll get is a hefty fine, and probably a suspension.” She sighed. “The most...” She shook her head. “You don't need to worry about that part, Ren.”
+
+“But...”
+
+“It's okay.” Barbara said, and handed Ren the VR headset. “You go back to playing your game. I'll worry about things here.”
+
+“But...”
+
+Barbara helped Ren put on the headset. “I'll take care of it.” She said. “Have fun, dear.”
+
+“O-okay.” Ren said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the couch, and stood up. Time for bed.
+
+“I'll wake you in the morning.”
+
+Thanks, buddy. Ren thought, and went to Nathalia's room. He yawned as stored his clothing, left on his underwear, and then climbed into bed. The lump under the blanket moved, and he smiled as Nathalia rolled over to face him.
+
+“Sleep.” Nathalia said. “Now.”
+
+“I couldn't go to sleep without giving you a kiss first.” He said and kissed her.
+
+Nathalia snorted a laugh. “You've gone to sleep a lot without doing that.”
+
+Ren chuckled. “That's because I didn't want to wake you.”
+
+“I'll always want a kiss from you.” Nathalia said. “Even when I'm asleep.”
+
+“I think that would depend on where I kissed you.” Ren said, and waggled his eyebrows up and down.
+
+She laughed. “Go. To. Sleep.”
+
+Ren grinned as he pulled her close, and she snugged down onto his chest. “Goodnight, My Love.”
+
+“Goodnight, My Love.” Nathalia said, and they drifted off to sleep.
+
+*
+
+He still hasn't used the House Neram Aura. Ereka thought as she lay awake in bed. I was really hoping he would. She reached over and touched the pillow Ren had laid on the other night.
+
+*
+
+Ren woke up the next morning and felt refreshed. He looked down at Nathalia, who was still snuggled on his chest. He ran a hand lightly over her hair and smiled.
+
+I'm really going to miss having her in my bed every night.
+
+“You don't have to think about that yet.” Teepo said. “Just like you told Ereka, you've got lots of time yet.”
+
+Ren nodded, and forgot that Teepo couldn't see him. Okay, I'll stop brooding. “Good Morning.”
+
+“Mmm.” Nathalia said. “Few... more... minutes.”
+
+“I'm sorry, I have to go.” Ren said, and she gripped him tightly.
+
+“Don't... don't leave me.” Nathalia said.
+
+“I may have to go...” Ren hugged her. “...but I'll never leave you.”
+
+She opened her eyes and looked at him. “You believe that.”
+
+“I do.” Ren nodded slightly. “Just because I can't stay in the Dwarven lands, doesn't mean I have to leave you.”
+
+“Wh-what?”
+
+“I had a neat idea a while ago...” Ren chuckled. “...but a bunch of things happened, and it got pushed into the back of my mind.”
+
+Nathalia sat up in bed. “Okay, you have to tell me.”
+
+“I'll tell you about it in a few months; right after my sentence is up.”
+
+“Ren!” Nathalia exclaimed, and tried to hit him. Ren laughed as he caught her hands before her attempts succeeded.
+
+“I'm kidding!” He said and kissed her. She stopped struggling, and looked at him.
+
+“About what?” Nathalia asked. “The idea, or telling me about it?”
+
+“Telling you.” He said. “It's a simple idea, actually.”
+
+“Well, spill it!”
+
+“This happened a while ago.” Ren said. “After I talked to a few people, I got the idea of having you open a restaurant.”
+
+“A what?”
+
+Ren smiled. “A fancy cafeteria.”
+
+“Oh.” Nathalia said. “Why would that be a good idea?”
+
+“All of the people living here on House Neram's land have to go all the way to the city to get food; or go to the farm several miles away.” Ren said. “If they can't cook, however...”
+
+“They need something to keep them fed.”
+
+Ren nodded. “If we had a local restaurant, they'd have something that provided regular meals, and at a good price.”
+
+“You're right. That's actually a good idea.”
+
+“It is.” Ren said. “But that's not the best part.”
+
+“It's not?” Nathalia asked.
+
+He shook his head. “I'm not quite sure if it will work or not; but; I have a business in Aurora, and then made an identical business here.” Ren smiled. “It let me create a portal between them; and because I was the owner, only I could pass through it.”
+
+“I know.” Nathalia said. “It's one of the drawbacks of having a portal to go across such a large distance.”
+
+“Yeah, that's what I thought.” Ren said.
+
+“So how would having access to a second portal help you?”
+
+“Don't be silly, my beautiful soon-to-be-ex-fiance.” Ren laughed. “The portal would be for you.”
+
+Nathalia's mouth dropped open in shock. “Wh-wh-wh-WHAT?!?”
+
+“If you own a restaurant here, and own a restaurant there...”
+
+“You... you...”
+
+“It's just something to think about...”
+
+“You are a GENIUS!” Nathalia yelled, and jumped on top of Ren. She smothered him with kisses, and he laughed as she covered every inch of his face with them.
+
+“Okay, okay!” Ren said, as Nathalia calmed down. “I'm a genius!”
+
+She laughed. “We have to build one right away!”
+
+Ren nodded slightly. “Tell Ereka what you'll need to make up a large cooking area, with a staff and everything; then have her order 2 of them.” He said. “Then when I go to Aurora, I'll see about buying a place inside the city. If I can't get anything there, I'll build it in my County instead.”
+
+“Oh, Ren!” Nathalia said. “I love you so much!”
+
+“I love you, too.” Ren said. “Now lets go have breakfast.” He got out of bed and equipped his Travelling Clothes. “I've got to get 8 hours of work in at the mines, deliveries to make this evening, and then more Adventurer's business tonight.”
+
+Nathalia climbed out of bed and equipped her clothing. “I don't know how you do it all.” She shook her head. “I'd be exhausted all of the time, if I worked as hard as you do!”
+
+Ren chuckled as he took her into a hug and kissed her. “Waking up with a woman as beautiful as you, and with someone who loves me, helps keep me energized.”
+
+Nathalia shook her head. “That sounds like two different people.”
+
+He grinned and opened her bedroom door. “Well, you're like 5 different people, so it's appropriate.”
+
+“Wh-what?” Nathalia's eyes widened at Ren's comment.
+
+“You're you.” Ren said. “But you're also the woman I love, a Warden of House Neram, the Head of House Neram, and you're a fantastic cook.”
+
+Nathalia blinked her eyes at him.
+
+“Maybe 6.” He said. “Do you still count as the princess of the House when you're the temporary Head?”
+
+“I... don't know.” She said, kind of stunned at the truth in Ren's words.
+
+He gave her a one arm hug as they went through the main room and into the kitchen.
+
+“It's just a different way of seeing who you are.” Ren said. “I didn't mean to shock you about it.”
+
+“How... how many people are you?”
+
+Ren laughed as he got out some food. “I honestly can't tell you off the top of my head.” He said and put some food in front of her and sat down himself. “Miner, blacksmith, tailor, partial cook, adventurer, boyfriend/fiance, food source, lord...” He waggled his eyebrows up and down at her. “...sex object...”
+
+Nathalia snorted a laugh. “You're a little full of yourself today.”
+
+Ren opened his mouth to make a joke, then stopped. “You know, you're right.” He frowned. “I... I have been full of myself lately.” He shook his head. “I don't know why I feel... I feel...” He rubbed his temples.
+
+“Ren, what's wrong?”
+
+“I know I'm doing some good things, but...” Ren looked at her. “...I shouldn't be this arrogant.”
+
+Nathalia stopped eating and went to sit on his lap. “Is it arrogance if all you're doing is praising yourself?”
+
+“Yes, that's nearly exactly what it means.” He said. “Believing that I'm better than other people, is a sure sign of it.”
+
+Nathalia kissed him lightly. “Even if it's true?”
+
+Ren nodded. “That's where the self-importance comes in.” He shook his head. “I... I'll need your help to stop me from... from...”
+
+“From what?”
+
+“Stop me from treating people like I'm above them.”
+
+Nathalia laughed. “Ren, you're a Lord... and in your own right... both from the Influence you've gained, and the land that you own.” She said. “I haven't seen you treat someone like they were beneath you once.”
+
+Ren opened his mouth to argue, and she chuckled.
+
+“Scammers and criminals don't count.” Nathalia said and hugged him.
+
+“Oh.”
+
+“Hurry up and finish eating.” She said, but stayed sitting in his lap. He shifted her aside a little, and she helped feed him. They took turns feeding each other, laughed occasionally, and pretty much just shared a good meal together.
+
+“All right, I better go.” Ren said, and stood up with Nathalia in his arms. He started to walk towards the door and she laughed.
+
+“You can put me down any time now.”
+
+Ren looked at her in mock surprise. “Wh-what? I... I can't take you with me?”
+
+Nathalia shook her head. “You'd never get any work done if I went with you.”
+
+“Aww.” Ren said and put her down. She kept her arms around his neck, though.
+
+“I love you.” She said, and Ren bent slightly to kiss her. After a minute, he broke the kiss.
+
+“I love you, too.” He said. “See you tonight.”
+
+Nathalia nodded slightly, and Ren left the house.
+
+*
+
+“Thank you.” Nathalia said, as Ereka came into the kitchen a few minutes later.
+
+“For what?” Ereka asked.
+
+“For staying out of the kitchen for one.” Nathalia said and smiled. “And for not making a fuss with all of the yelling and things earlier.”
+
+Ereka nodded slightly. “I wasn't really asleep anyways, so it didn't wake me.” She said. “Plus, it seems like the two of you don't get a lot of alone time.” She smiled. “The least I could do was let you have some.”
+
+*
+
+Ren ran into the stable and fed Princess, visited with her and Ruck for a few minutes, then ran out through the gate. He nodded slightly to the guards, and went up to his workshop. It was still quite early, so no one was there except Tee-one. He handed Ren the lingerie and furniture he'd constructed over the night, and Ren gave him something else to do today while he waited for the cement to set on the latest part of the mold.
+
+“It's about time, I think.” Tee-one commented, and Ren nodded.
+
+“Do you think it'll be ready by tonight?”
+
+“Of course.” Tee-one said. “She's going to be surprised.”
+
+“I certainly hope so.” Ren said. “See you later.”
+
+“Bye, Ren.”
+
+Ren left the workshop and ran down the road, with Teepo flying right beside him. He concentrated on his personal Aura, and the House Neram pendant as he ran; and was at the mines a few minutes later. No one was at the gate.
+
+Huh. Ren thought. I guess they only have the one guard. He hopped over the gate easily, thanks to his boots that let him jump 3 times his normal distance, and ran up to the medical tent.
+
+*
+
+Deresdra had just finished checking herself, put on her clothing, and stepped out of the curtained-off area. I wonder when he'll show up tod-
+
+Her thought was cut off when a now-familiar figure appeared in the medical tent opening.
+
+*
+
+“Good morning.” Ren said to Deresdra.
+
+“Good morning.” She said back, and held the curtain open for him. “Step inside, please.”
+
+Ren nodded slightly to her, and went into the curtained-off area. She closed it behind herself and Ren stored his clothing. Deresdra checked him out completely again; back to front as usual. She didn't speak as she did so, however. When she was finished, he equipped his clothing.
+
+“Is there something wrong?” Ren asked her, and she shook her head. “You're awfully quiet.”
+
+Deresdra smiled. “Am I?”
+
+Ren nodded slightly. “You're usually going on about something, but today you... you're almost brooding.”
+
+She chuckled. “Is that what I'm doing?”
+
+“It seems like it.” Ren said. “You're thinking heavily about something.” He looked at her with a single raised eyebrow. “Are you thinking about quitting?”
+
+Deresdra smiled at his eyebrow gesture. “Actually, no.” She said. “This... this is the first job that I've had, where I get actual money...” She smiled. “...and not a 'your debt has received a payment' slip.”
+
+Ren smiled. “That's what I've been working towards.” He said. “I mean, paying people actual money, not slips like that.”
+
+Deresdra nodded slightly. “It's quite nice.” She said. “I don't know what to buy first.”
+
+“I'd suggest something you've wanted for a while, but never had the money to get before.” Ren said. “It's oddly satisfying to scratch that itch.”
+
+“I... I'll think about it.” She said, and he smiled.
+
+“If all you do is think about it, you won't buy it.” Ren said. “You'll convince yourself that it's not really necessary.” He smiled again. “It probably isn't; but, that's not the point.”
+
+Deresdra nodded slightly again. “I understand.” She smiled. “You're cleared for work.”
+
+“Thank you.” Ren said. “Have a good day.” He gave her a slightly bow, and left the medical tent.
+
+*
+
+I will. Deresdra thought as she watched him walk away.
+
+*
+
+Ren repaired the dozen picks that were hung in the blacksmith shop, checked the baby fire elemental and gave it more food, then went into the mines. He set up more lanterns with the Illumination runes enchanted on them, smashed several large boulders that had been unearthed after he'd left the day before, then started digging another marked offshoot tunnel. An hour later, his regular work crew showed up and he joined them in their efforts to get the mine into operation. They laid down track, cleared more dirt and boulders, and finally hit a very rich iron ore deposit.
+
+“Wow, would you look at that!” One dwarf said. “Someone get me a cart!”
+
+“Someone get us all a cart!” Another one said. “We'll have this dug out lickety-split, or my name isn't Orecruncher!”
+
+A couple of the dwarves ran out of the main tunnel and brought back several carts each. Ren helped dig out the ore, and they filled the carts quickly. They repeated this several times, and filled all of the available carts.
+
+“Now what do we do?” One of them asked. “All of the carts are full, and there's no cart foreman to weigh them for us.”
+
+“I'll go and talk to the mine foreman.” Ren said, and looked at the iron ore vein that still covered the end of the 20 foot wide main tunnel. They had dug through a hundred feet of it so far, and were now pretty much surrounded by it. “We'll need someone on the cart foreman job as soon as possible.” He said. “And a lot more miners.”
+
+“Yeah-hah!” The crew said. “We've opened the mine!”
+
+Ren left them to celebrate, and went to the mine foreman's office, told him what they'd found, and asked when the cart foreman could get there.
+
+“I'll send a messenger right away.” The mine foreman said, and used the steel square Sending glyph to contact Ereka for a messenger. “I'll handle the job until he gets here.”
+
+“Thanks.” Ren said, and the mine foreman laughed.
+
+“Your gamble is paying off.” The mine foreman said. “Once word gets out that we're up and running, people are going to flock here.” He grinned. “I guarantee it!”
+
+They left the office and Ren went into the tunnel to tell the miners to bring out the carts. Once everything was weighed and the miners were paid their due, they went back inside and did it again. Ren on the other hand, took some of the ore into the blacksmith shop and told Lurmoli to start smelting right away, then went into his own workshop and got his own smelter going. They would need more track, and a lot more carts; and now that they had a steady supply of ore, there would be no problem making what they would need.
+
+Ren skipped lunch, and kept smelting ore as more and more of it appeared in the storage area. He went to the mine foreman, and told him to get several carts sent out to pick up ore to be sent to his workshop at House Neram Keep.
+
+“Are you sure that's wise?” The mine foreman asked. “We're going to need this ore if any orders come in.”
+
+“If an order for what we can produce in a day comes in, then offer to deliver it the next day.” Ren nodded slightly. “I started this because I needed the ore.” He explained. “If we can get steady buyers as well...”
+
+“Ah, I understand.” The mine foreman smiled. “We make sure the clients expect a slight delay, then when we can produce more in the same time frame, we can dazzle them with our efficiency.”
+
+“You got it.” Ren said. “If they already have low expectations, then they will be amazed when production ramps up to full scale.”
+
+Everyone kept working, and they produced a fairly large amount of ore that day. Ren finished his shift, changed clothes briefly to clean them, and ran down to the gate. The guard opened it as he approached, and gave him a slight wave as he ran by. Ren was back at House Neram Keep quite early, and went up to the workshop.
+
+“The mirrors were delivered.” Tee-one said as Ren came into the forge room. All three forges were smelting ore, and Ren smiled.
+
+“Please tell me you got it done.”
+
+Tee-one chuckled and handed Ren a huge crate. He opened it, and grinned.
+
+“Oh, this is great!” Ren exclaimed. “Thanks, Tee-one!”
+
+Tee-one opened his mouth to comment about the thanks, then changed his mind. “Here's 2 more sitting tables.”
+
+Ren stored them and the crate, then put a hand on Tee-one's shoulder.
+
+“Yes, I know you regret that you couldn't do it yourself.” Tee-one said. “But technically, you did do it yourself.” He smiled. “I'm a part of you, and I'm using your skills.”
+
+Ren nodded, pat Tee-one's shoulder, and left the workshop. He ran down to the Keep and went inside to the house.
+
+“Honey, I'm home!”
+
+“Can you guess where I am?” Nathalia said from the kitchen, then laughed as he ran in to give her a snuggle from behind.
+
+“I'm really sorry that I can't stay for supper.” Ren said and kissed her cheek. “To make up for it, I had something made for you.”
+
+“Oh? What is it?”
+
+“Come into the main room.” Ren said, and Nathalia put down the chef knife she was using, and took off her apron. She followed him into the main room and looked around.
+
+“I don't see anyth-woah!”
+
+Ren took the huge crate out of inventory.
+
+“What in the world is in that?!?”
+
+“Open it and find out.” Ren said and grinned.
+
+Nathalia stepped close to the crate and couldn't reach the top. “Ren, I...”
+
+“It has a door handle.” Ren said and pointed. Nathalia opened it up and gasped.
+
+“By the GODS!”
+
+It was a whole new wardrobe of outfits for her.

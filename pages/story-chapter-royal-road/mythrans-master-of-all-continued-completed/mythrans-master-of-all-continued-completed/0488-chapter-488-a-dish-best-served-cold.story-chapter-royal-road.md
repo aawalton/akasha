@@ -1,0 +1,373 @@
+---
+id: c0a8064a-780f-5636-b712-e7b4e1b79238
+page-type-slug: story-chapter-royal-road
+title: "Chapter 488 - A Dish Best Served Cold"
+slug: 0488-chapter-488-a-dish-best-served-cold
+partOf: mythrans-master-of-all-continued-completed
+position: 488
+ownLength: 4028
+unit: words
+publishedAt: 2018-01-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/188661/chapter-488-a-dish-best-served-cold"
+royalRoadId: "188661"
+---
+
+“If you will excuse me, I should get back to my friends that I left in the Underworld.” Ren said.
+
+“In the Underworld?” The healer asked.
+
+“As soon as I learned of the change in the ghoul infection rate, I immediately checked on the High Elves then came right here to get you to help deal with the problem.” Ren said. “You know the rest.”
+
+“Then hurry! Go!” The healer said, frantically. “Your friends need you if they're down there!”
+
+“Yes, M'lady.” Ren said, and took two steps into the air and kissed her cheek.
+
+“S-stop that.” The healer said, her face still a deep red.
+
+“I can't help teasing you.” Ren said and chuckled. “See you in a day or so!”
+
+*
+
+The healer blinked her eyes when he disappeared from sight.
+
+“At least he kissed you again.” Her daughter said and laughed, and the healer thought about it for a second and laughed, too.
+
+*
+
+Ren ran out of the ward and climbed up onto Princess. “Let's get back to our friends.”
+
+“Yes, my Lord.” Princess said, and ran up into the air and across the sky. Princess didn't even slow down as she arced down towards the ground and ran through the mile and a half long tunnel down into the Underworld. They entered the cavern and she slowed down then, and Ren saw Elerlyth and the Dark Elven healer looking up at them.
+
+“Thanks for waiting.” Ren said and hopped off of Princess.
+
+“Like we had a choice.” Elerlyth said, and Ren smiled. “What the hell did you do?”
+
+“I went to check on the High Elves we helped, then went to the healers and brought them to the High Elves to help.”
+
+“How long is it going to take?”
+
+“It's done.” Ren said.
+
+“What? How?”
+
+“I... ah...” Ren sighed. “I can heal the ghoul-infected now.”
+
+“WHAT?”
+
+“You see, I had a One Wish Ring...”
+
+“Oh, you idiot.” Elerlyth said and rubbed her face in exasperation. “You've been wearing it, haven't you?”
+
+“Yeah.”
+
+“You said something stupid like, 'I wish I could heal them all' or something.”
+
+“Uh huh.”
+
+“Was it worth it?”
+
+“I gained just over 1,500 new vassals to my domain.” Ren said. “Most of those are elflings, about 1,200 or so.”
+
+Elerlyth and the healer just stared at him.
+
+“What?”
+
+“How... how did you heal so many?” The healer asked.
+
+“I just touch them.” Ren said and reached out and took her hand. “They are healed instantly.”
+
+“Oh... oh, my.” The healer said as she felt his words were the truth, and she felt how happy he was about it. “My Lord, can... can you...”
+
+“Of course.” Ren said as he hugged her and rested his forehead against hers. He remembered how it felt to heal all those people in so short a time, and gave all of those emotions he experienced to her. The healer gasped and closed her eyes as her ability consumed everything he gave to her. Her own emotions flared when he added in all the female elflings reciprocated feelings.
+
+Ren helped himself to her offering, and the healer sighed as his Emotion Siphon ability caressed her from the inside.
+
+“Sorry to interrupt.” Elerlyth said. “We need to get going.”
+
+Both Ren and the healer chuckled, because they could feel that she wasn't sorry at all; and she was actually envious of their exchange. Ren let the healer go and walked over to Elerlyth.
+
+“You know I'm saving the good stuff for you, right?” Ren asked, and he felt Elerlyth's possessiveness. He smiled and took two steps up into the air and put his arms around her neck. “I activated another Emotion Siphon ability.” He whispered to her, and she caught her breath as he gave her a taste of it. “She was an empath, and when I claimed her as a vassal, she evolved.”
+
+“Oh, god.” Elerlyth said as Ren fed her the female elfling's first emotional exchange.
+
+“Yeah, it was... really tasty.” Ren said and kissed her, then poured everything the female elfling felt into Elerlyth and her ability. They stayed that way for almost a full minute, and then Ren eased the feelings down and broke the kiss. “Let's get a move on.”
+
+“S-s-sure.” Elerlyth said, and grabbed a hold of her mount's reins. Ren dismissed the tunnel to the surface and took out the All-Seeing Mirror and checked the direction of their prey. He used the Staff of Earth to open another tunnel in the right direction, then looked at the healer.
+
+“Are you returning to the Queen, or are you coming along?”
+
+“You'll let me come along?” The healer asked, surprised.
+
+“If you want to.” Ren said. “We're just hunting down the Dark Elf that almost killed Elerlyth a while ago.”
+
+“I'd be happy to accompany you.” The healer said and looked at Princess. “M'lady, may I perch upon your accoutrements?”
+
+“You may.” Princess said.
+
+“Thank you.” The healer said and went to climb up.
+
+“Just a moment.” Ren said.
+
+The healer looked at him with wide eyes and he felt her surprise at his interruption. Ren took out a blank amulet and made it into the same Unnatural Armor one he had made for Lara, the Sage of Ages, and added the modified Amulet of the Spider. He gave it to the healer, and she stared at it.
+
+“M-m-my L-lord, I... I can't accept...”
+
+“Please take it, as it is only basic protection.” Ren said. “Plus, it lets you ascend Princess without causing either of you discomfort or possible embarrassment.”
+
+“I...” The healer looked at it again, smiled widely, and equipped it. “Thank you very much, My Lord.”
+
+“You saw how quickly I made it.” Ren said and smiled. “It was almost nothing.”
+
+“I accept it for the gift it is, not the ease of it's creation.” The healer said and climbed up onto Princess and sat side saddle on her. “I... I don't even have to hold on, do I?”
+
+“Not any more.” Ren said. “You should brace for the speed, though.”
+
+“Understood.” The healer said. “Lead on, My Lord.”
+
+Ren nodded and ran into the tunnel at a good pace, and the others quickly followed him. The healer laughed as she enjoyed the ride, and they soon came to the end of the tunnel. Ren did the All-Seeing Mirror trick to check for everything, used the Detect Magic and Detect Traps wands, and Artemis dispatched the centipedes that were presently in their way.
+
+“I hope they aren't pets or anything.” Ren said as he dismissed the old tunnel and they crossed the cavern. No traps or dangers remained in their path, and they crossed slightly above the ground so that they wouldn't leave tracks and mess up anyone that might be tracking something else through there in the near future.
+
+“They are a nuisance.” The healer said. “I've healed countless wounds caused by them. Good riddance, I say.”
+
+“You heard her, Artemis.” Ren said and smiled. “Have fun.”
+
+“Thank you.” Artemis said and quickly spun around in a circle several times, just like a whirlwind, and shot out several dozen 1 foot long Mana bolts in multiple directions. She stopped a moment later, and then they reached the other side of the cavern.
+
+“Did... did she just...” The healer couldn't finish her question.
+
+“Only within her range.” Ren said and smiled. “Since she is the embodiment of ranged combat, that range is... considerable.”
+
+“I suffer a drop in accuracy if the distance is too great, though.” Artemis said as Ren opened another tunnel. “Other than that, I rarely miss a slowly moving target.”
+
+“Or any target.” Ren chuckled and ran down the new tunnel.
+
+“I don't like to brag.” Artemis said and grinned, and Ren laughed. They reached the end and he did the same procedure to check the cavern, as did Artemis. She unloaded a lot more bolts this time, and everyone waited for her to finish.
+
+“I think it was a nest.” Ren said. “Or a feast.”
+
+“Can I check?” The healer said.
+
+“Sure.” Ren said and pointed. “It's a few hundred feet over that way.”
+
+They all went that way, and found a bulbous snail-like creature. It was nearly 10 feet long and 5 feet round, or would have been, had the centipedes not eaten three-quarters of it.
+
+“At least it wasn't a person, as I feared.” The healer said.
+
+“I agree.” Ren said.
+
+The group resumed their journey, and it only took another hour to reach the right cavern. They stopped just outside of the entrance, and Ren looked at Elerlyth.
+
+“How do you want to do this?” Ren asked her, and she sighed.
+
+“We should go through the wall and ambush him, just like he ambushed me, and I'll drain him to the same point he drained me.”
+
+“Sounds good.” Ren said. “Artemis, Princess, hang back. This is Elerlyth's show.”
+
+Artemis and Princess nodded, and Ren opened the tunnel.
+
+“HAAA!” Elerlyth yelled as she charged through the short tunnel. “I FOUND YOU!”
+
+“It's about damn time!” The Dark Elf said and stood to face her. His Emotion Siphon ability lashed out at her, and she laughed as it met a much stronger version. “I've felt you coming for-” His eyes widened as Elerlyth unleashed her Emotion Siphon ability. His breath left his body almost immediately, and his skin started to ripple as he was easily caught in it's embrace with barely a fight at all. His body shrunk and his skin deformed as he was drained both emotionally and physically. His emaciated body collapsed to the floor, unable to hold it's own weight up anymore.
+
+“How does it feel, you bastard?” Elerlyth asked with satisfaction in her voice; but, everyone could feel what she actually felt. She had drained the man that had hurt her, and all she felt was disgust with herself, and a bit of regret. He had been a secret nightmare for her since that night; that he might show up at any time and try to finish her off and kill her. Now that she was in the position of power and had fed on all of his weak emotions, he had turned out to only be a pathetic wretch that hadn't been worth her time to hunt down.
+
+Everyone felt that, too.
+
+Elerlyth dismissed the popup that said she had completed her revenge quest, and then a 4 foot tall Dark Elf girl ran into the small cavern room.
+
+“Leave my daddy alone!” She nearly yelled. “He's sick!” She tried to stand in front of her father to block Elerlyth, and she stumbled and fell onto him instead. He grunted as he was wracked with pain from the impact, and the child saw the state he was in. “Daddy! No!” She said and pulled his head into her lap and started to pet his hair. She looked up at Elerlyth. “I HATE YOU!”
+
+Elerlyth didn't know what to say to the child's pure hatred of her; mainly because it had matched her own for the Dark Elf that had nearly killed her. The child scowled at Elerlyth, and you could feel the venom in her words as she spoke.
+
+“When I grow up and become big and strong, I'm going to find you...”
+
+“No.” Ren said as he stepped into the cavern. “That won't be necessary.”
+
+“I'll find you, too!” The child spat, and gripped her father's head tightly as Ren knelt beside her. He activated his Fear Aura, and the child's eyes widened. “Wh-what... you're not... how can you...”
+
+“It's okay.” Ren said and held a hand out to her.
+
+She hissed at him, and he chuckled. Her eyes widened as she felt his amusement at her antics, and she stopped hissing.
+
+“I know you can feel some of my emotions when I'm this close.” Ren said, because with his Aura Sight he could see the extent of her Aura and it's effects. “I'm sorry that I don't have a Sadness Aura to let them merge, then you could feel it all.”
+
+“How did you know?” She asked, then shook her head. “You came here to hurt my daddy.”
+
+“Yes, we did.” Ren said.
+
+She was genuinely surprised by his honesty. Since she was only a child, she had expected him to lie and believe she would believe him, just because he was older than her.
+
+“Are you going to kill him?” She asked, confidently.
+
+“We did what we came here to do.” Ren said. “My friend had been hurt by him, and she wanted revenge.”
+
+The Dark Elf child opened her mouth to say that it was a lie, and looked at Elerlyth. “Daddy hurt you?”
+
+Elerlyth nodded and didn't say anything.
+
+“You hurt him back!” The child said. “So leave!”
+
+“Elerlyth.” Ren said without looking at her, and Elerlyth turned and left through the short tunnel. Ren dismissed it, and the child relaxed. Tears sprang in her eyes, and they dripped onto her father's face.
+
+“Why... why are you... still here?” She asked as she cried.
+
+“I want to help you.” Ren said, and she looked at him.
+
+“How?”
+
+“Take my hand.” Ren said. He had kept it held out to her since he knelt. She shook her head, and Ren sighed. “He'll die if you don't feed him your emotions.”
+
+“I... I don't know how!” The child wailed.
+
+“Let me show you.” Ren said.
+
+“N-no!” She said. “It's a trick! Daddy says all High Elves trick you!”
+
+“How old are you?”
+
+“I... I'm 8.”
+
+“That's pretty old.” Ren said, and he felt her satisfaction that someone else thought so, too. “If you let me help you, I'll give you a present.” He said, and that got her attention.
+
+“Wh-what kind of present?”
+
+“It's a surprise.” Ren said. “Aren't those the best kind of presents?”
+
+The child nodded.
+
+“Then take my hand.”
+
+She moved one of her hands from holding her father's head steady to do as Ren asked. She and Ren felt some kind of emotion from him; but, it was too faint to make out. She knew now that he didn't have long if his emotions were that weak; so, she grabbed Ren's offered hand.
+
+“Help me!” She pleaded.
+
+“I already am.” Ren said and used his Emotion Siphon ability and his Aura Sight ability to find another Aura within her. He smiled as he found a tiny trace of Fear and poked it.
+
+“Ah!” The child jumped slightly. “What... what was that?”
+
+“Concentrate on that feeling.” Ren said and poked it again. She didn't jump this time, and the Fear grew. “That's it.” He said. “Bring it forward.”
+
+The child started to concentrate, and it grew even more.
+
+“That's it... a little more...” Ren said. “You've almost got it.”
+
+“I... I think...” She stopped talking as Ren poked it once more and the Fear Aura sprung into place around her. “AHHHH!” She screamed as her Fear Aura merged with Ren's, and his huge amount of emotions became available to her.
+
+Notice!
+
+You have gained a new skill: Aura Enabler. This skill allows you to scan people for Auras, and bring them into existence where possible.
+
+Please Note: Not all Auras can be activated in this way.
+
+“It's all right.” Ren said and used his free hand to stroke her face. “You're doing so well.”
+
+“I... I can't...” She said and the Aura started to fade.
+
+“Ignore me and concentrate.” Ren said and he felt her compartmentalize. “That's good. Now, look at your father.”
+
+The child's Fear Aura solidified as she looked down at the Dark Elf in her lap through her tears.
+
+“Tell him to help you.” Ren said.
+
+“You... you do it.” She said.
+
+“He can't hear me.” Ren said. “He can only hear you.”
+
+“B-but...”
+
+“Just ask.” Ren said, and she nodded.
+
+“D-Daddy... please... help me!”
+
+The Dark Elf's Sadness Aura slowly formed and then popped into place. The child cried out in joy as her father started to slowly consume the emotions she had.
+
+“Daddy!” The child bent down and kissed her father's forehead.
+
+“Get ready.” Ren said, and the child lifted her head and looked at him. He felt her determination and the steel in her will, and he smiled. “You've got this.”
+
+The child nodded and Ren felt her brace herself as she concentrated on converting the emotions for her father. Ren felt that the Dark Elf needed Misery to be the most effective emotion to be used in restoring him; so, he thought about his disastrous break-up with Lucy and started to ease a mountain of Misery he had felt into the child. She didn't gasp or complain that it was too much as she poured the Misery in turn to her father, and Ren was so proud of her that his Reassurance Aura activated.
+
+She did gasp at that, because no one had ever shared those kinds of feelings with her before; but, Ren didn't stop feeding her, and she didn't stop feeding her father. They both felt the tipping point approach as the Dark Elf continued to consume Misery from her. Ren had thought it was an odd emotion to be acclimated to; but, since the Dark Elves themselves were an odd bunch, being able to use Misery to heal yourself was kind of fitting in a place like the Underworld. it seemed appropriate somehow.
+
+The Dark Elf's eyes turned from his daughter's face and saw Ren, and the spike of hatred at him being so close was strong.
+
+“You're feeling better.” Ren said, and felt another spike of hatred, then regret. “Why did you want to die?” He asked, and the Dark Elf closed his eyes.
+
+“Daddy...” The child said, and he opened his eyes to look at her.
+
+Now that Ren had a close up look, he saw that the Dark Elf was covered in battle scars and wounds; and quite a few of them looked recent. He also looked at the child closely and saw that she had similar fresh wounds.
+
+“It's because of you.” Ren said, and the Dark Elf girl looked at him. “You're working so hard to keep him alive, and he doesn't want to be a burden on you anymore.”
+
+“Daddy, I love you!” The child's own emotions blocked the Misery Ren was feeding her, and the Dark Elf winced at the change. “I'm sorry!” She said and pushed her love aside and let the Misery through. The Dark Elf sighed and looked back at Ren.
+
+“Yes, I'm feeding you through her.” Ren said and looked at the stub of the arm Lylyth had cut off and given to Elerlyth as an apology. “I'll be right back.”
+
+The child and Dark Elf blinked and Ren was gone, and they were surprised that he was still feeding them Misery.
+
+“Elerlyth, do you still have the Dark Elf's arm?” Ren asked, and Elerlyth took it out of inventory and gave it to him. “Thanks.” He said and looked at the healer. “I don't know if it's possible, but I'd like your help.”
+
+“I'll try anything you have in mind, My Lord.” The healer said, and Ren smiled.
+
+“Come with me.” Ren said and they walked the long way around to the small cavern's entrance and she saw the Dark Elf.
+
+“My Queen maimed him for hurting her vassal without permission.” The healer said.
+
+“I know.” Ren said. “I'm not doing it for him, though.”
+
+The healer looked at the child and felt Ren emotions. “Yes, I see.”
+
+“Can you make an arm regrow?” Ren asked her, and she shook her head. “I didn't think so.” He said and knelt by the Dark Elf. “I can knock you out for this.”
+
+The Dark Elf shook his head.
+
+“It's going to be really painful.” Ren said, and he nodded.
+
+“Just... do... it.” The Dark Elf said and looked up at his daughter. “Close... eyes.”
+
+“No, I want to see.” She said.
+
+He looked at Ren, and Ren smiled.
+
+“She's old enough to decide for herself.” Ren said, and he felt how happy she was. The Dark Elf sighed and nodded, and Ren handed the severed arm to the healer. “This is going to be quick and messy.”
+
+“It always is.” The healer said, and Ren took out his hammerpick. It was still 3 times it's normal size, which meant the plow end was more than wide enough to reopen the wound with a single swipe. He did the severed arm first, then did the Dark Elf's arm stub. Blood gushed out as the Dark Elf screamed in excruciating pain and the healer jammed the severed arm back into place. She activated her Major Healing ability to reattach the bone, and the Dark Elf's screams eased down to a dull roar.
+
+“It still might not work like this.” The healer said and Ren gave her a Major Healing wand. “This... you...”
+
+“Put it to good use, My Lady.” Ren said, and then she did. Even with the wand, it still took almost 10 minutes to diagnose and fix all the damage. Of course, once the arm was re-attached, the Dark Elf didn't want any more healing.
+
+“You're done here.” The Dark Elf said and sat up. “You can stop feeding me.”
+
+“I'm feeding your daughter, not you.” Ren said. “I'm doing all of this for her.”
+
+“I know you are.” The Dark Elf said and tried to stand up. He stumbled a bit and his daughter caught him. With her help, he stood up straight. “You've done enough.”
+
+“You know what? I changed my mind.” Ren said and looked at the daughter. “When you get big enough and think you can handle it, you come and find me.” He said. “Not for revenge, or to thank me.” He smiled. “Just to visit.”
+
+The Dark Elf child could feel his sincerity, and that he did want to see her when she was older. A small smile appeared on her face and she nodded slightly. Ren eased down the Misery he was sharing with her to only a trickle and gave her a nod back.
+
+“M'lady, I must take my leave.” Ren said to her, then took the healer's hand and walked out of the small cavern.
+
+“Ugh.” The Dark Elf grunted and collapsed to the floor of the cavern when he thought they were out of earshot.
+
+“Daddy!” The child exclaimed and tried to comfort him. “You shouldn't have sent him away so soon!”
+
+“I had to.” The Dark Elf said. “Otherwise, we would owe him a debt that could never be repaid.”
+
+“But...” The child wanted to argue with her father; but, she could feel that he didn't want to discuss it anymore and didn't continue her thought.
+
+“Sorry to interrupt.” Ren said, and he saw both of them jump as they were startled. “I almost forgot to give you your present.”
+
+“Present?” The Dark Elf asked, and he could feel his daughter's excitement.
+
+Ren took out an Unnatural Armor Amulet with the Spider modification. “Put this on.” He said as he held it out to the child. She took it and slipped it on over her head, and it adjusted to fit and bound itself to her.
+
+“It's beautiful.” She said as the gold sparkled and she felt the effects.
+
+“That's not the present.” Ren said, and both the child and the Dark Elf looked at him in surprise. “That's just basic protection for you.” He took out a 4 foot wide plush tarantula and held it out to her.
+
+“IEEE!” The girl squealed in delight and grabbed the spider that was just as big as her. Teepo chittered in laughter as the girl squeezed the plush spider tightly and rocked it from side to side as if it was a baby.
+
+“That's your present for being such a good girl and helping your father.” Ren said. While the Dark Elf's emotions reeled over the feelings he felt from his daughter that he had never felt from her before, Ren went over to their old ratty bedrolls and replaced them with 2 nice beds with comfy mattresses, then left without another word.

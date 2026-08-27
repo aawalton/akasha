@@ -1,0 +1,213 @@
+---
+id: ebb72acc-6df7-570e-85dd-98ed72cc9652
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101 Bearing"
+slug: 0106-chapter-101-bearing
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 106
+ownLength: 2197
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3712017/chapter-101-bearing"
+royalRoadId: "3712017"
+---
+
+Upon entering the manor grounds of Helvarn, the sounds of the fortress town straining from overpopulation grew distant.
+
+A servant was already waiting near the entrance of the gates.
+
+Upon their approach, he bowed low.
+
+“My Lord. I will escort you and your entourage to the guest quarters.”
+
+His gaze shifted briefly toward Henric and Tomas before returning to Lucien. “Apologies, My Lord. But accommodations near your own are limited at the moment. Some of your men will need to be housed in the western retainers’ wing.”
+
+Lucien inclined his head. "That is fine."
+
+The servant before him glanced briefly toward the hunting bow fastened to the harness on Lucien’s back, a flicker of surprise crossing his face before his expression smoothed once more.
+
+The man gestured toward a stable hand who walked briskly forward as they began to dismount from their horses.
+
+A maid approached from a distance in a more graceful pace. The servant exchanged a few quiet words with her before motioning toward them.
+
+Stretching his legs lightly, Lucien glanced toward Tomas and Henric. "Take a rest, you two. Best not to roam the manor unnecessarily."
+
+They dipped their heads and followed the maid while Dorian remained behind him to his right.
+
+"If you would please, My Lord." The servant said, waiting until he had given his assent before turning.
+
+As they followed the servant to what seemed like the western wing of the manor, Lucien noticed another noble's banner hanging on the opposite wing.
+
+'...It seems Lord Rathenfell intends to keep us apart before the meeting.'
+
+Compared to his own manor, House Rathenfell had a certain age to it that spoke of the years since it was first built. Most, if not all the structures around him were made of stone as well.
+
+It was the difference between a manor built for a noble house and one meant merely to house nobles tasked with administering frontier villages.
+
+There were noticeably more servants and guards present throughout the manor grounds as well.
+
+Lucien couldn't tell whether the increased security was simply Lord Rathenfell’s response to the town’s current situation or because two frontier lords were now staying within his manor.
+
+When they approached what looked like a modestly luxurious room not unlike his own in Ashridge, the servant dipped his head once more as he gestured toward a door.
+
+"My Lord. This is your room while your captain's room is right across from your own. A meal will be served to you in your room whenever you wish it."
+
+Lucien gave a nod before turning toward Dorian. "Take a rest as well, Dorian."
+
+Even as he said the words, Lucien already knew Dorian would interpret “rest” rather loosely. The man likely would not ease his vigilance until they were safely back within the walls of Ashridge.
+
+In hindsight, Lucien should've expected that it would be in another noble's guest room he would be reminded about his first day in this world.
+
+A maid had knocked on his door and asked whether he required assistance dressing himself.
+
+Compared to the time Alicia had done the same so long ago, he responded more calmly this time, sending her away while he freshened himself up.
+
+There were no such books on noble etiquette and customs within his manor’s library, nor was there anyone he could conveniently question without drawing suspicion.
+
+In preparation for the upcoming meeting, Lucien had done what he could to learn instead. He observed Elias more closely than usual while Talia shared what little she had picked up during her own time in Helvarn.
+
+Outside, the bell tower rang intermittently, signaling the end of the day.
+
+Smoke from countless hearths and cookfires curled upward between the densely packed buildings, hanging faintly above the fortress town beneath the darkening sky.
+
+A knock sounded on his door causing Lucien to turn toward it.
+
+"Enter," he called.
+
+As the door swung open, the same maid who had asked him about helping him dress himself, appeared pushing in a wheeled tray. She remained outside the threshold of the room, bowing.
+
+"My Lord, Your meal is ready."
+
+He inclined his head and gestured at the table though his brow lifted slightly when she didn't move.
+
+“Lord Rathenfell extends an invitation for tea after your meal should it please you, My Lord.”
+
+'Should it please you? And if I reject it, could that be taken as another message?'
+
+“You may tell him that I accept,” he replied, taking a seat at the side table in his room.
+
+The maid dipped her head before pushing the tray in.
+
+Lucien noticed the maid’s uniform was noticeably more formal than Alicia’s. The skirt fell longer while the overall design appeared sturdier and more practical.
+
+Her etiquette and training showed in the near silence with which she placed the plates before him.
+
+Yet despite the refinement, he found himself missing Alicia’s warmth already.
+
+Lucien crouched beside the wooden chest near his bed, carefully setting down the batch of coffee Talia had given him.
+
+Sadly, there had not been enough time to request a cup before meeting Lord Rathenfell.
+
+A small breath escaped him as he regarded it somewhat forlornly for a brief moment before reaching for the hunting bow as well.
+
+He could already imagine the disappointed look Sera would give him, but meeting another noble while visibly armed, even if it was only a bow, would likely not leave a good impression.
+
+Standing up, he gave himself a brief once-over to ensure his clothes were in order, idly adjusting his cloak on his shoulder before turning to leave the room.
+
+When Lucien stepped outside, the maid was already waiting for him with Dorian standing nearby.
+
+She bowed at the sight of him. "If you would please follow me, My Lord."
+
+At his nod, she turned and walked toward the central hall of the manor at a measured pace. Lucien and Dorian exchanged a brief glance before following after her in silence.
+
+Along the way, Lucien found himself observing the manor more closely, noting how the decorations leaned more toward practicality than luxury.
+
+Dorian’s gaze briefly shifted to the guards stationed near the entrance of the western wing as they passed, though the captain’s expression revealed nothing of his thoughts regarding their training or equipment.
+
+The maid eventually led them up a staircase branching from the central hall before stopping near the open threshold of a balcony overlooking Helvarn.
+
+She stepped aside before bowing once more. "Lord Rathenfell is waiting for you outside, My Lord."
+
+Lucien inclined his head before walking past the maid, Dorian following a step behind to his right.
+
+When he stepped out onto the balcony, a faint breeze drifted over him, lightly ruffling his hair.
+
+It carried the distant scent of smoke from Helvarn’s countless hearths and, perhaps only in his imagination, the stale scent of too many people crowded within the fortress town below.
+
+A man stood near the edge of the balcony overlooking Helvarn.
+
+Ever since leaving Ashridge, Lucien had imagined many times what kind of man Lord Rathenfell would be and how he would greet them upon their arrival.
+
+In some ways, the figure before him matched that image.
+
+Lord Rathenfell wore a dark burgundy coat of thick wool that appeared almost black beneath the evening sky, faint gold trimmings lining its edges. Like the manor itself, the clothes were expensive without appearing extravagant.
+
+Yet it was when the man finally turned toward him that Lucien felt the image he had built in his mind shift slightly.
+
+“Lord Varentis! It is good to finally put a face to the name,” the older man said easily, spreading his arms briefly before letting them fall once more, an open smile resting upon his face.
+
+He appeared to be somewhere in his fifties, with a square jaw and a short, neatly kept beard lightly touched with gray around the chin.
+
+Lucien inclined his head once more as Lord Rathenfell approached the tea table set along the side of the balcony.
+
+For the briefest moment, the man’s eyes flicked to the cloak draped across Lucien’s shoulder before shifting to Dorian standing behind him.
+
+“Come, sit,” Lord Rathenfell said warmly. “The tea should arrive shortly and we have much to discuss.”
+
+He noted the older man waited until he had taken his seat before sitting himself. Dorian stood slightly off to the side in what seemed to be the appropriate distance.
+
+Lucien leaned back slightly in his chair. “Thank you for the invitation, Lord Rathenfell. It is always a delight to visit Helvarn.”
+
+The older man let out a chuckle. "Oh? Yet you didn't even come to have tea with me a few months ago."
+
+Shaking his head lightly, Lucien gestured at the town below them. "I had hoped to visit but urgent matters forced me to prioritize Ashridge's need for iron ores and grain seeds before pleasure."
+
+Lord Rathenfell let out a soft breath. “Ah yes. That unpleasant business. I have already sent away the man connected to the trouble surrounding your iron orders.”
+
+He had kept a careful hold over his expression, but at the older man’s words, Lucien could not help but shift slightly in his seat, causing the man to chuckle at the reaction, a knowing glint in his eyes.
+
+“Seems like you didn’t know. One of my subordinates sought to earn my...approval by telling the smiths to limit sales outside Helvarn.”
+
+He gave a faint shrug. "Whether it was directed toward you or not, I don't know. It doesn't matter regardless, the man has been sent away."
+
+Before Lucien could respond to that, Lord Rathenfell glanced at his guard captain. "So. It seems you have returned to the frontier, Dorian."
+
+The captain stiffened slightly though beyond a brief nod of acknowledgment, he remained silent.
+
+Despite the lack of response, Lord Rathenfell merely smiled. “Still as stoic as ever, I see.”
+
+Lucien leaned forward in his seat, hand on his chin. "How did you come to know Dorian, Lord Rathenfell?"
+
+At his words, the man motioned lightly toward Dorian. “He came to Helvarn years ago looking to join the guards. I didn't know his name back then, but I remember every face of a potential guard.”
+
+Another light chuckle escaped him. “It was your father who snatched him right from under my nose when he visited Helvarn back then. I only learned his name afterward when he paid me a visit in my solar.”
+
+Almost silently, the maid returned with a tray filled with cups still steaming. She placed a cup before Lucien first than moved to set another one before Lord Rathenfell.
+
+After setting them down, she moved to stand quietly at the side, hands clasped lightly before her.
+
+When Lucien’s eyes flicked toward the cup, he nearly froze for the second time since their meeting.
+
+The liquid within was black in color and the scent rising from it was all too familiar.
+
+Lord Rathenfell gestured toward it. "I heard you like this drink specifically, Lord Varentis. No need to be overly polite during your stay here and feel free to request as much of it as you want."
+
+Keeping his expression carefully neutral, Lucien took a sip of the drink, the taste failed to bring the same comfort he often took from it.
+
+Slowly placing the cup down, he gave a nod. "It is good, Lord Rathenfell."
+
+As the older man was about to speak once more, Lucien spoke first. "But since you mentioned not needing to be overly polite. I hope you could grant a small selfish request of mine?"
+
+Lord Rathenfell's eyes glinted with curiosity as he motioned for him to continue.
+
+He glanced at the maid briefly. "I have a small package of this very drink given to me by Lady Talia. Would you mind if I ask your maid to prepare them for me instead?"
+
+At his words, the older man gave an easy nod. "Of course, Lord Varentis. Why, I should've expected Lady Talia of all people to be well prepared for times like this."
+
+Shaking his head lightly, Lord Rathenfell exhaled lightly through his mouth. “It’s a shame she left Helvarn when she did. I had been considering moving her into a larger storefront myself.”
+
+Lucien allowed a brief twitch at the corner of his mouth. "Then it seems like my house has the tendency to steal potential subordinates under your nose, Lord Rathenfell."
+
+The older man laughed more openly this time. "Like father like son as they say!" Without looking, he gestured toward the maid. "Ensure that his drink is prepared from the package he brought instead."
+
+She bowed before withdrawing from the balcony as soundlessly as she had arrived.
+
+Their conversation drifted toward lighter topics after that.
+
+Lord Rathenfell briefly asked about the refugees Lucien had accepted into Ashridge before eventually falling quiet, his gaze shifting toward the distant shanty camp beyond Helvarn’s walls.
+
+A thoughtful look crossed his face before he let out a quiet hum. "A waste to leave capable folk idle for too long."
+
+Neither of them spoke openly of the matter weighing beneath the conversation.
+
+Yet both understood what it was the other wanted.

@@ -1,0 +1,323 @@
+---
+id: 5c40fbff-15b0-5686-8c7c-565255becb54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 468 - Party Time"
+slug: 0468-chapter-468-party-time
+partOf: mythrans-master-of-all-continued-completed
+position: 468
+ownLength: 3322
+unit: words
+publishedAt: 2017-12-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183632/chapter-468-party-time"
+royalRoadId: "183632"
+---
+
+“I'm a little surprised you could log back on.” Elise said when Ren was done telling the detailed story of how he had saved Elerlyth and Hailey.
+
+“Me, too.” Ren said. “I guess the programmers weren't just hanging around and waiting until I logged off.”
+
+“Now that really does surprise me.” Elise chuckled. “You pretty much run roughshod over everything, and they have to fight over who has to clean up after you.”
+
+“Do they really do that?” Ren asked, and Elise laughed.
+
+“No, sweetheart.” Elise said. “They really should, though.”
+
+“You think so?”
+
+“Oh, yes.” Elise said. “Just having you play the game constantly has let them fix so many bugs, clear up so many holes, and changed their... well, there's no gentle way to say it... stupid annihilation storylines, so that they could make it more player friendly.”
+
+“Well, I'm glad someone appreciates all my hard work.” Ren grinned, and everyone laughed. They all had a piece of cake and some soft drinks after eating the food that had been prepared, and then it was time for presents.
+
+“Open mine first to get it out of the way.” Denise said and handed him a small box.
+
+Ren opened it and it was a memory expansion chip for the VR headset. “Wow, Denise.” He said and stood up. “You didn't have to do that.”
+
+“I figured I'd get you something practical that you could use every day.” Denise said and gave him a hug.
+
+“Thank you.” Ren said and hugged her back.
+
+“Well, it was either that or an economy box of condoms.” Denise said as Ren sat down. “I just went with the cheaper option.”
+
+Stella, Elise, Lisa, and Barbara laughed, and everyone else was silent.
+
+“It was a joke.” Denise said to Officer Holly, Donald, and Barbi. “We buy condoms all the time.”
+
+They just stared at her, and Stella intervened.
+
+“He wears them in case something happens in the game, and there's not much mess to clean up afterwards.” Stella said.
+
+“Oh.” Barbi said. “I thought... well...”
+
+“That's why it's a joke.” Elise said. “That's all he uses them for.”
+
+Barbi nodded, Officer Holly glanced at Ren, and Donald had tuned out the entire conversation. That made Barbara giggle and she kissed him for not blowing a gasket over the contraception talk.
+
+“You already opened mine.” Elise said and pat Barbi's arm.
+
+“No, I didn't.” Ren said to her and wiggled his eyebrows. “You said it was a misunderstanding.”
+
+Elise snorted a laugh and Barbi blushed again.
+
+Officer Holly shook her head in disbelief. “You can cut the sexual innuendo here with a knife.”
+
+“More like with a chainsaw.” Lisa said as she handed Ren an envelope.
+
+“I'm tempted to argue that, but it's so true.” Ren laughed and opened the envelope. “Oh, Lisa!”
+
+“I know it's not much...” Lisa said and ducked her head slightly.
+
+“This is great!” Ren said and held up a gift certificate to Jungle Jim's. “Look everyone! Endless french fries and gravy!”
+
+“Thanks a lot, Lisa.” Stella said as she sighed dramatically and exaggeratedly rolled her eyes. “He's not going to shut up about it until we go.”
+
+Barbara and Elise laughed.
+
+“Sorry.” Lisa said and her face flushed red.
+
+“Don't mind Stella, she's just joking.” Ren said and stood up to give Lisa a hug. “Thank you.”
+
+“It... it was nothing.” Lisa said, and Ren put his arms around her.
+
+“You gave me a gift from the heart, one you knew I would really like, and I appreciate it.” Ren said, and she looked him in the eyes. “You look very pretty today.”
+
+Lisa's blush went to a deeper red, and he kissed her tenderly. She put her arms around his neck and kissed him back, and they stayed that way for several moments.
+
+“Ahem.” Barbara fake coughed, and Lisa broke the kiss and her face was beet red from embarrassment.
+
+“Let's save that for later.” Ren whispered and smiled crookedly. “Preferably in the dark, and with less witnesses.”
+
+Lisa couldn't help herself as she laughed, glanced quickly around, and then nodded slightly.
+
+“That's so sweet.” Barbi whispered as Ren sat down.
+
+“Open mine and Donald's next.” Barbara said and handed Ren a soft and pliable package. He opened it up and saw it was several new pairs of silk-like pyjamas and matching underwear.
+
+“Oh, wow!” Ren said and picked up the set that replaced the pyjamas they had cut off during his hospital visit. “How did you find another one?”
+
+“I went to that 'Jacques' store at the mall down on the east end of the city, and talked to the sales woman there.” Barbara said. “She immediately told me about what Lily did for you, and she came out of the back when she heard her name.” She smiled. “What a helpful girl! She special ordered another set right away, and then I asked about other colors...”
+
+Ren put aside the one he was holding and picked up a pair of silky underwear. They were hot pink. “P-pink?!?” He exclaimed. “You bought me PINK underwear?!?”
+
+Barbara burst out laughing at the look on his face, and then everyone else joined in. “That was worth the cost right there!” She pointed at Ren and kept laughing.
+
+“It's not funny!” Ren said and shook the underwear in front of everyone's faces. “How the hell am I going to wear a set of HOT PINK PYJAMAS?!?” He yelled, and everyone laughed at his outrage. He was hamming it up, of course; because he knew that half of the fun was how he reacted to their gifts. Especially the gag gifts. At least, Ren hoped it was a gag gift.
+
+“Oh! Oh, that was funny.” Barbara said as she calmed down. “Whew! I need to sit down.”
+
+“Right here, honey.” Donald said and pat his lap. Barbara sat down and he put his arms around her.
+
+“Saved the best for last.” Stella said and handed Ren a box about 10 inches long. Ren opened it and caught his breath. Inside was the repaired watch that told him the game times during the day, that the hospital had cut off and broken on him during the same visit he had lost his pyjama set.
+
+“S-Stella.” Ren said as he fought back a tear. “When did... I mean, I... after the hospital... when it wasn't on my wrist, I still looked for it.” He said and took in a big breath through his nose. “Thank you.”
+
+“You're welcome.” Stella said and walked over to him, bent over, and hugged him from behind. “I know how much it means to you, even though things didn't work out.”
+
+“I... I'll leave it in the box for now.” Ren said and closed it, and put it on the table with the other gifts. “We're going to the pool, right?”
+
+“If you feel like it.” Stella asked.
+
+“Of course I do.” Ren said. “I get to see you in a bathing suit.” He said and looked at the other women around him, and let a huge smile spread across his face. “I get to see all of you in bathing suits.”
+
+“I think someone's fetish is showing.” Denise said and chuckled.
+
+“It's more like a dream come true.” Ren said and smiled. “It's been so long since I've seen you wear something skimpy.”
+
+“You're such a terrible liar.” Denise laughed. “When I gave you that quick shower before the party, you saw me in my bra.”
+
+“Denise!” Ren said and looked at everyone with wide eyes. “Ixnay on the Ahbray.” He said. “We have company over!”
+
+“Oh, hush!” Barbara said. “Stop showing off and let's get changed.”
+
+“Yes, ma'am!” Ren said. “You heard the boss, everyone! Start stripping!”
+
+“Quiet, you!” Stella said and shook her fist at him mockingly. “We've got changing rooms out by the pool.”
+
+“But, it's my birthday!” Ren said.
+
+“You'll be the first to get changed, then.” Denise said and grabbed the handles to the wheelchair.
+
+“Can Lisa help me?” Ren asked.
+
+“You expect me to leave the two of you alone in a small change room together after a kiss like that?” Denise shook her head as she pulled him away from the table. “It's pool time, not play time.”
+
+“But, it's my birthday!” Ren said and grinned.
+
+“That saying is getting old fast.” Stella said, and Ren laughed. Everyone started to leave the dining room to go to the pool.
+
+*
+
+Barbi caught Elise's arm. “I should probably go.” She said. “I didn't bring a bathing suit.”
+
+“I'll be heading out, too.” Officer Holly said. “Same reason.”
+
+“There are spare bathing suits in the change rooms.” Stella said.
+
+“There are?” Officer Holly asked.
+
+“We've had people come over and forget them, or didn't have any, or needed new ones.” Stella said. “We picked up several different kinds and sizes, just in case.”
+
+Barbi looked from Elise to Stella. “Are you sure it's okay for...”
+
+“You can leave if you want; but, if you're using the 'no bathing suit' excuse, it won't float.”
+
+“Blah.” Officer Holly said. “Water puns.”
+
+Barbi laughed. “Well, it's been fun being here so far.” She said and walked over to the camera she had mounted to the wall and put it in her purse. “I guess a quick dip in the pool couldn't hurt.”
+
+“I'll be going then.” Officer Holly said.
+
+“You could show us those games you played at the other pool party.” Stella said, and Officer Holly looked at her.
+
+“You really won't mind me staying around?”
+
+Stella stepped close and leaned down to whisper in Officer Holly's ear. “We know what you're doing in the game.” She said, and Officer Holly's face didn't show any reaction. “If you can keep an eye on him from that end and keep him safe from people in the real world, then letting you come here and not yelling at you for what you said to him the last time you were here, is a good start for what we can do for you.”
+
+So, she's still mad about it. Officer Holly thought. Good to know. “I really am sorry for that, and I'm trying to make up for it.” She said. “If staying can help rebuild the proverbial bridge I burned down, then I will.”
+
+“Thank you.” Stella said and stepped back as she smiled. “You can look through the closets at the back of the change rooms to see if there's anything you like.” She said. “If worse comes to worst and there's nothing that fits, there's t-shirts and shorts to choose from, too.”
+
+Officer Holly and Barbi nodded, and they left the dining room and walked over to the big patio doors to go out to the pool to get changed.
+
+“Do we really want her around like this?” Elise asked when she and Stella were alone.
+
+“I'm not sure, and that's why I asked her to stay.” Stella said. “We're going to find out if it's going to be a good mix, or like oil and water.”
+
+“Just like Barbi.” Elise said. “She was the most receptive of the people I interviewed for the job.” She said. “I just hope it works out.”
+
+“I was wondering why you picked her.” Stella said and they walked over to the elevator to go upstairs and get their bathing suits. “Good compatibility with us is only a bonus, though.”
+
+Elise nodded and they stepped into the elevator. “She seemed to genuinely like Ren, and she praised him that time he went in for the voice-over work.”
+
+“Ren liked that, too.” Stella said as the elevator opened on the second floor. “He said it was fun and didn't mind doing it.”
+
+The two women stepped out and walked to the end of the hall.
+
+“They shouldn't need him again for a while.” Elise said and opened Ren's bedroom door. “It was when I was checking on that when I had the publicist idea.”
+
+“He doesn't have any public persona.” Stella said and opened her bedroom door.
+
+“He does, but it's scattered.” Elise said. “Message board posts, achievements, his show schedule, his social media presence, and a few other things like fan pages that don't have a single entity running them.”
+
+“I never thought of that.” Stella said. “Nice going.”
+
+“Only if it works.” Elise said and smiled. “See you downstairs.”
+
+*
+
+Ren and Denise came out of the changing room and he sat down in the wheelchair again.
+
+“You're just going to sit and watch, right?” Denise asked.
+
+“Uh huh.” Ren said and turned to look at Barbi and Officer Holly Stonewall come out through the large patio doors when he heard the doors open. The two women were complete opposites in body types. Barbi looked just like a Barbie doll with long thin legs and long blonde hair, a high chest and bright smile, and she was 6 feet tall. Officer Holly on the other hand, was short and about the same height as Denise, had a blank face most of the time to hide her emotions, and she had short wavy brown hair.
+
+Ren didn't say anything as they walked past him and went into the first change room. “Did I just see...”
+
+The two women came back out and went into the next stall, then a few moments later came back out and went into the last stall.
+
+“Are they playing musical stalls or something?” Ren asked, and then Barbi came back out and went in the middle one.
+
+“I didn't hear any music.” Denise said and smiled.
+
+“Ren.” Lisa said as she came out of the house wearing her one piece swimsuit used for actual swimming. “I hope you're not disappointed.”
+
+“Turn around for me.” Ren said, and she did a little twirl. “Nope, not disappointed at all.”
+
+Lisa chuckled and gave him a kiss, then ran over to the pool and jumped in.
+
+“Someone's eager for a swim.” Barbara said, and Ren turned around to see her in a body-hugging two piece.
+
+“Barbara!” Ren said and covered his eyes. “What are you wearing?!?”
+
+“A bathing suit, obviously.” Barbara said and laughed.
+
+“It's okay, son.” Donald said. “You'll get numb to the sight eventually.” There was a loud smack of flesh on flesh. “Ow.”
+
+Ren spread his fingers to see what happened, and saw Donald rub his own shoulder. Denise covered her mouth with her hand so she wouldn't laugh.
+
+“Numb to the sight, are you?” Barbara had her hands on her hips and glared at him.
+
+“I didn't say I was.” Donald smiled. “I said he would get used to it.”
+
+“Yeah, right.” Barbara said. “You had better apologize to me right nooooooowwww!”
+
+Barbara's words were exaggerated when Donald surprised her by picking her up.
+
+“Put me DOWN!” Barbara yelled. “RIGHT NOW!”
+
+“Okay.” Donald said and tossed her into the pool.
+
+“She is going to kill you.” Ren said softly, and believed he was looking at a dead man. Donald gave him a quick salute.
+
+“I listened to your story, Ren.” Donald said. “I'm going to give you some advice. Every man has to go down with the ship at some point in his life.”
+
+Barbara came back up to the surface of the water and started yelling incoherently at him.
+
+“Swallow your pride, son.” Donald said. “Be what they want, not what they need.” He took two steps towards the pool and jumped.
+
+“AHHH!” Barbara tried to get out of the way as Donald splashed into the water right beside her, and disappeared. “DONALD!”
+
+Denise laughed as Barbara splashed around, then was pulled suddenly under the water.
+
+“What is he doing?” Stella asked. She and Elise had come out of the house and saw Donald's dive bomb attack.
+
+“Digging his grave.” Ren said and shook his head. “That poor man.”
+
+Elise snorted a laugh. “He'll be fine.” She said and put a hand on Ren's shoulder. “They've been married a long time.”
+
+“I hope they stay that way.” Ren said and looked at the churning water. Barbara and Donald broke the surface of the water, and she was already slapping him all over.
+
+“I'm going to kill you!” *Slap* “How could you do that to me?” *Slap* “You embarrassed me in front of Ren!” *Slap*
+
+All Donald did was laugh in response.
+
+“They started playing already?” Barbi asked after she had come out of the change room. “It looks like fun.”
+
+Ren, Denise, Stella, and Elise turned to look at her, and they all stared at her. She was wearing a nice one piece bathing suit that would fit anyone comfortably; but for some reason, it looked scandalous on her. Her breasts were almost popping out of it, even though it was a conservative swimsuit. It was also so tight on the bottom that it was like she wasn't wearing anything at all.
+
+“Can I take a turn next?” Barbi asked and looked at Ren and the other women. “What is it?” She asked and looked down at herself. “I know it's not on backwards, because I put it on right.” She said and turned around to stick out her well-formed backside as she pointed to a small square bulge at the top of her butt. “The tag is right there.”
+
+“Good god.” Ren whispered because he could clearly see... well, everything. The rest of her might resemble a Barbie doll; but, she is definitely anatomically correct.
+
+“You're looking pretty intensely.” Barbi said and bent over further and Ren caught his breath. “Don't tell me I stained it already?” She asked, then reached between her legs and started to rub herself. “I can't see it.” She said. “Is it wet? It doesn't feel wet.”
+
+Ren's mouth dropped open, and Elise reached over and gently closed it for him.
+
+“You're fine, Barbi.” Elise said.
+
+“What a relief.” Barbi stopped rubbing herself and stood up. “I'll get it dry cleaned if it happens.”
+
+“You don't have to do that.” Elise said. “We usually just let them soak overnight.”
+
+“Okay.” Barbi said. “This one is pinching a little; but, it's the only one that fit me from shoulder to hip.” She reached down to grab the crotch and pulled it down, wiggled a little, and let it snap back into place. “There, that's better.” She beamed a smile. “I'll bring my own swimsuit over tomorrow.”
+
+Officer Holly came out of the change room, and she wore a nice blue pair of bikini bottoms and a baggy t-shirt. “I'm here.” She said. “Let's get this party going.”
+
+“Ren's already going.” Stella laughed, and everyone looked down at Ren. He had his hands over himself and his face was red; but, there was no stopping anyone from noticing his excited condition.
+
+“Was that for me?” Barbi asked, and Ren nodded. “That's so sweet.” She said. “Thank you.”
+
+Ren blinked his eyes for a moment. “You're not insulted?”
+
+“Of course not.” Barbi laughed. “It's a compliment.”
+
+“You really think that?” Officer Holly asked, and Barbi nodded.
+
+“It means I still got it.” Barbi said and licked her fingertip and touched her hip. “Hsss.”
+
+“Hey, what's going on?” Lisa asked from the water near the side of the pool closest to them.
+
+“Barbi's still got it, apparently.” Officer Holly said, and Barbi did the same motion and hissed again.
+
+Lisa laughed. “Are you too hot to get in the pool?”
+
+“We were just waiting for the epic war to end.” Stella said and pointed.
+
+Everyone turned to see Barbara and Donald making out in the shallow end of the pool.
+
+“I guess peace was declared.” Elise said.
+
+“Everyone into the pool!” Ren said to distract them from his embarrassment, stood up from the wheelchair, and jumped into the pool.
+
+“You said you were just going to watch, you little sneak!” Denise said and jumped in after him.
+
+Stella, Elise, Barbi and Officer Holly exchanged glances, shrugged their shoulders, and jumped in, too.

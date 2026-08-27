@@ -1,0 +1,421 @@
+---
+id: 44a76ff1-900a-5c40-817e-11b42e0f22e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85 - A Taste Of Dwarf Life"
+slug: 0069-chapter-85-a-taste-of-dwarf-life
+partOf: mythrans-master-of-all-continued-completed
+position: 69
+ownLength: 4933
+unit: words
+publishedAt: 2016-11-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103285/chapter-85-a-taste-of-dwarf-life"
+royalRoadId: "103285"
+---
+
+“You might enjoy those more if you took your time.” Ren said and Princess looked at him with about half of the big bowl's fries sticking out of her mouth. “Don't get mad at me, it's just a suggestion.”
+
+She tried to huff and a pile of fries popped out of her mouth and back into the bowl. Ren laughed as Princess tried her best to get those fries back into her mouth before chewing what she had first. He waited until she finished the fries and then she licked the bowl clean.
+
+“You didn't have to lick it clean. I was going to wash it anyways.” Ren said, and laughed at her stern look. “I'm going topside for a while. Now that we're actually going out to sea, I'm going out to see where we're going.” Ren smiled. “That sounded weird, even to me.” He said and chuckled. “I'll see you later, Princess. Do you want to come, Ruck?”
+
+Ruck shook back and forth in a 'no' gesture. “Okay. See you later.”
+
+Ren went up on deck and used his water ring to rinse out the bowl over the side of the ship. I'll give it a proper washing the next time I'm in the kitchen. Ren thought as he looked at the open water. He wondered how far he had to go in the ship to get to the dwarven city, then decided to go for a walk around the deck of the ship. He stayed out of everyone's way, until he came to one dwarf that looked like he needed help to secure a loose rope. He was straining to hold it and tie the end at the same time. Ren grabbed on and held it taut, and the dwarf looked at him like he was crazy, shrugged and tied a knot on the end. The dwarf nodded and Ren nodded back, then kept walking around the deck. He didn't see the other 2 dwarves that had come over to help, standing there staring at him as he walked away. Ren came around the main cabin area and saw a group of dwarves standing in a circle near the back of the main deck. They were hollering and goading the 2 dwarves that they surrounded. Ren approached the group and could easily see. Ren was 4 foot 7 inches; he pretty much towered over nearly every dwarf on the ship, since they ranged from 3 feet 6 inches tall to 4 feet 3 inches tall. They were all talking at once, but Ren picked up details here and there. One of the dwarfs had dipped a mop into the other dwarf's bucket that was supposed to be only for brushes.
+
+Ren shook his head slightly and walked on. He climbed the few stairs to the back deck where the steering wheel was. The dwarf holding the wheel had watched Ren as he approached and Ren nodded. The dwarf's eyes widened slightly and nodded back. Ren walked to the very back of the ship and stared at the coastline as it drifted away. He smiled at how wrong that statement was. It was Ren that was drifting away from everything that he knew.
+
+I hope this was a good decision. Ren thought.
+
+“Of course it was.” Teepo said and Ren looked down over the back of the ship. Teepo was clinging to the side of the large rudder.
+
+What the hell are you doing down there? Ren thought, flabbergasted.
+
+Teepo chittered in laughter. “Just checking everything out.”
+
+Ren shook his head. Geez, Teepo! What if you fell off?
+
+“You'd save me.” Teepo said and crawled back onto the side of the ship.
+
+Ren looked at his friend and smiled. Yeah, if I couldn't just summon you, I'd get you out of there somehow.
+
+Teepo crawled all the way up the side of the ship then up Ren's arm to perch on the shoulder.
+
+Explored the rest of the ship, have you?
+
+“I did. There's a lot of spaces I haven't been in yet, but I found out where they all are.”
+
+Ren smiled and looked at the receding land. Tell me about it.
+
+Teepo filled Ren in on all the rooms he'd found, how many dwarves were on the ship, where the captain's cabin was, how to get to the rowing deck, and the engine room.
+
+Did you say engine room?
+
+“Yeah. It's right next to where I just was. I heard the dwarf that was cleaning the rowing deck say that they needed to get the oars ready for when they next get to a dock.”
+
+They don't use the oars all the time?
+
+Teepo chittered in laughter. “Dwarves rowing all the time? No, they just do that around the dock.”
+
+Why?
+
+“Why row when you can just let the water move you?”
+
+Okay, this I have to see. Ren thought.
+
+“I can take you there.” Teepo offered.
+
+No, I think I'll go through 'official channels' for this. The last thing I need is to be kicked off the ship, or worse, prosecuted for stealing secrets.
+
+“Oh. That would be bad.” Teepo said.
+
+Ren nodded and turned around to walk down the other side of the ship, but only took three steps and stopped short when another dwarf stood in front of him. He had a short mohawk of black hair and the sides of his head and chin were shaved clean, except for the part around his mouth. He had a big bushy mustache connected to a large tuft of beard on the end of the chin. He had a wicked tattoo of a snake that started at his temple, ran around his ear, down his neck and shoulder, and around his bicep. He was both muscular and stocky; and pretty much naked, except for a loincloth and leather pouches on the sides of his hips. He also wore boots with thick soles.
+
+“Can I help you?” Ren asked.
+
+The dwarf didn't say anything. Ren stepped to the side to try and go around him and the dwarf stepped to the side as well. The group of dwarves that he'd passed on the lower deck slowly surrounded them, and started goading them.
+
+“Don't do this.” Ren warned him.
+
+“Your on my nice clean deck.” The dwarf said.
+
+Ren didn't look down, as it was an invitation to get punched. Plus, he'd walked all along one side of the ship and from what he'd seen, the deck was anything but clean.
+
+Notice!
+
+You have entered PvNPC mode!
+
+“I guess I don't have any choice in the matter.” Ren said and sighed. “At least I don't have to kill you.”
+
+The dwarf's eyes widened at Ren's words, then closed as Ren's right hand fist struck the side of his face. The dwarf's head spun to the left, but his body didn't move at all. He spit out some blood and started to turn his head back. Ren hit the dwarf with his left fist, then the right again, kicked the dwarf in the gut, put a knee under the dwarf's face, then brought an elbow down on the back of the dwarf's head, smashing the head both in the front and in the back at the same time. Silence engulfed the onlookers as the dwarf Ren had beaten to a pulp, with almost no effort, slid to the deck and didn't move.
+
+Notice!
+
+PvNPC mode has ended.
+
+Notice!
+
+Congratulations! You have defeated your opponent in One-on-One combat.
+
+Rewards: 500 XP
+
+Fame Bonus: 17%
+
+Notice!
+
+You have defeated an opponent 15 levels higher than you.
+
+Fame: +25
+
+Notice!
+
+You have unlocked a skill: Unarmed Combat
+
+Ren dismissed the popups and looked at his hands. That actually worked. Ren thought. I figured using a weapon would probably be against the rules, but just using my hands... that was new. One of the dwarves stepped forward and Ren saw that it was Gausen.
+
+“I tried to convince him not to do it.” Gausen said and laughed, and then everyone else broke into cheers. “Even after I told everyone what happened during your test, he still wanted to see how strong you were.”
+
+“I assume you also told him how I hated useless fights.” Ren said.
+
+Gausen nodded. “I did... but was this one useless?” He motioned to the spectators.
+
+Ren saw that they were all discussing how he'd destroyed his opponent without even getting hit once. Some were even trying to duplicate his moves. Ren shook his head a little and Gausen stepped close.
+
+“Where did you learn to fight like that?” Gausen asked and the crowd fell silent again.
+
+“MMA.” Ren said without thinking. He'd watched shows about it a lot over the years, dreaming that someday he'd be well enough to try it.
+
+“Ememay...” Gausen said, grabbed Ren's arm and lifted it into the air. “I give you the winner! Ren of House Ememay!”
+
+“Wait!” Ren said, but it was too late. The dwarves swarmed him, patting him on the back and arms, congratulating him on a victory that his House could be proud of.
+
+Oh, crap.
+
+“What is it?” Teepo asked.
+
+If I'm reading this situation right... and I'm sorry to say that I believe I'm right... I've just been declared a member of a Dwarven House
+
+“Isn't that a good thing?”
+
+Probably, except that the Dwarven House of Ememay doesn't actually exist.
+
+“It does now.” Teepo said.
+
+What?
+
+“You've beaten a representative of another House in Honorable combat. It grants you the right to either join that House as the new representative, stay with your old House, or claim and establish another House.”
+
+Teepo... how do you know all of this?
+
+Teepo chittered in laughter. “Dwarves spend as much time in caves and dungeons as beetles do. We share the same living space most of the time. You tend to learn a few things about each other over time.”
+
+Ren shook his head mentally. You and I are going to have a long talk later.
+
+“About what?”
+
+Sharing information.
+
+Just then a bell rang twice, and after a moment rang twice more, and 2 of the dwarves picked up the one Ren fought and dragged him between them, laughing. The rest followed them and walked to the main cabin area.
+
+“What are the bells for?” Ren asked.
+
+“Supper.” Gausen said. “I hear we're having boar tonight!” He joined the flow of dwarves, and Ren followed him as they all went inside, down the hall, and into the dining room.
+
+It's more like a cafeteria than a dining room. Ren thought as he entered. Except for the 6 waitresses at the front of the room.
+
+Everyone started sitting down, but Ren didn't see any order or pattern as groups of dwarves sat together. He followed Gausen to the second table closest to the front of the room, near the serving window, and sat down on Gausen's left. Other dwarves sat down across from them and stared at Ren like he was crazy. The first table remained empty, however.
+
+Ren quickly glanced at the dwarf sitting next to him on his left and saw the dwarf was staring daggers at him. Gausen noticed the stares of the others and followed their gaze to Ren, and his eyes widened.
+
+“Why are you sitting there?” Gausen asked.
+
+“I'm... waiting to get something to eat?” Ren said, perplexed.
+
+Gausen started to say something, then changed it. “It's too late to move now.” He said and stood. Ren followed suit and so did all the other dwarves. The captain of the ship came into the room. He was the tallest dwarf Ren had seen yet, at a whopping 4 feet 5 inches. He wore the traditional captain's hat, a half cloak over one shoulder, and had a blonde dwarf on his arm. She was only 3 feet 8 inches tall, however... so, he was quite a bit taller and stockier in comparison.
+
+As the couple passed each table, the dwarves nodded to the captain. When they passed the table Ren was at, he nodded to the captain as well. The captain noticed the change in seating arrangements and raised his eyebrows at Gausen, who shrugged slightly. It's not like you could miss seeing Ren, no matter where he sat. Gausen thought. He's even taller than the captain!
+
+The captain and his companion sat at the front table and once they were settled, everyone else sat down. People started talking once the captain waved permission for the servers to begin handing out the plates of food. Gausen turned to Ren.
+
+“You were supposed to sit at the visitor's table.” Gausen said and nodded to a small empty table at the back of the room.
+
+“Oh. I'm sorry. I didn't know.” Ren said and tried to stand.
+
+“Sit down.” Gausen said. “I told you that it was too late to move.”
+
+Ren sat back down. “How badly did I mess up?”
+
+Gausen sighed. “Normally, your declaration that your House is better than all the others, would be challenged by the lowest House first.”
+
+Ren stared at him with wide eyes.
+
+“But seeing as how you're only a visitor, and apparently don't know anything of our ways, perhaps just the Main House will need to be fought.” Gausen said.
+
+The waitress put a plate of food in front of Gausen and she stopped when she saw Ren sitting in the next spot. She looked at the dwarf that was supposed to be sitting there, then back at Ren, then at the dwarf. Ren took the plate from her frozen hand and passed it to the dwarf that was supposed to get it first.
+
+“Please continue serving the others.” Ren said to her. “I'll wait.”
+
+Gasps could be heard from the next table as shock spread throughout the room.
+
+“Did he just...”
+
+“Why would he...”
+
+“I think he's crazy...”
+
+The waitress looked at Gausen, who nodded. she continued to serve everyone else at the table and went back to wait at the serving window.
+
+“What did I do now?” Ren asked Gausen in a whisper.
+
+Gausen sighed. “You declared you were the highest House by sitting here, and then you declared that your Honor was greater than everyone else's by forgoing being served before everyone else.”
+
+“But... I was going to be served last before. Why is it different?”
+
+“You chose it.” Gausen said. “If you'd sat at the end table, you deserved to be served last, as that was your station. After your declaration to be the best, then choosing to go last, means your Honor won't suffer for it.”
+
+“Okay. That makes sense, I think.” Ren said.
+
+Gausen put a hand to the top of his nose and shook his head. “What am I going to do with you?”
+
+Another waitress served large mugs of a dark liquid to all of the dwarves and not to Ren.
+
+4 to serve the food, 2 for drinks. Ren thought as he waited.
+
+No one touched the food or the drinks. Once everyone was served both food and drink, Ren still hadn't been served and he looked around. Everyone had looks of disbelief on their faces, including the captain. Ren was going to ask what was going on when Nathalia came into the dining room carrying a plate of food and a mug of dark ale. She came over to his side of the table and stood beside him. Ren looked up at her and smiled. “Thank you, Nathalia.” He said and took the plate and mug from her and put it on the table. More gasps were heard and shock spread through the room as a deep red blush blossomed on Nathalia's face.
+
+I'm not asking what I did wrong this time. Ren thought.
+
+“You didn't do anything wrong.” Teepo said.
+
+That's good to know. Ren relaxed for a moment.
+
+“All you did was declare your intention to court her.”
+
+W-w-w-what?!? Ren widened his eyes and stared at Nathalia.
+
+“You used her given name in public, and in front of High House witnesses.”
+
+Oh... crap.
+
+No one said a word as Nathalia gave a slight nod and left the dining room.
+
+Now what do I do? Ren thought.
+
+“Once the captain gives permission, you can eat.” Teepo suggested.
+
+That's not what I meant!
+
+“I know!” Teepo said and chittered in laughter.
+
+*(Author's Note: This is where I would have stopped the chapter. Carry on! LOL)*
+
+“Ahem!” The captain cleared his throat. “Now that we've all been served... some in much better ways than others...” The captain said and looked at Ren. “...let's eat!”
+
+With the silence and shock broken, everyone started to eat. Almost right away, there were declarations of excellent food and wondering what had changed to make it taste so good. Ren didn't say anything and ate quietly, slipping some of the meat into inventory. The meat was nice and tender, and the mashed potatoes were still nice and fluffy. He picked up the mug of dark liquid and sniffed it. It had a nice oaken smell and Ren tasted it. The flavor burst in his mouth and he took a couple of big swallows.
+
+“Ah! That's good stuff!” Ren said loudly without thinking, and put the half empty mug down. Everyone fell silent again and stared at him. He felt something building in his belly and put a hand on it. Is this what I think- Ren's thought was interrupted as he opened his mouth.
+
+*BUUUURRRRP!!!*
+
+It was really loud in the quiet room and a moment later, there was a snicker a table away... and then a deluge of laughter covered everyone. Even Ren had to laugh.
+
+“That was a good one!” Gausen said and followed Ren's burp with one of his own. Of course, this started a contest to see who could get as loud as Ren. No one could quite get to the same level, though.
+
+Mead was continuously served as the meal went on, and then a large plate of food was served to each table. Everyone stared at the plates as if they didn't know what to do with them, and almost all of the dwarves looked to the captain, who picked up each french fry and ate it. Ren wasn't hungry, but he didn't want to insult Nathalia by not eating any, so he helped himself to them.
+
+Everyone grabbed a fry and ate it, then their faces lit up just like Nathalia's did when she had tasted it the first time. They dug into the fries with declarations of masterpieces and food from the gods. Ren chuckled and let the dwarves at his table finish off the plate. If he had been counting, Gausen would have been the one to eat the most. Ren pushed his chair slightly back from the table and looked at the captain, who was already in that position. Soon everyone else had pushed back from the tables and the captain stood.
+
+“I'd like to thank our passenger for the captain's gift of these delicious 'fries'.” He said and raised his mug to Ren, and everyone stared at him again.
+
+Ren raised his mug as well and waited.
+
+“I'd like to propose a toast. To good food! A great cook! And more MEAD!” The captain declared and took a drink.
+
+Ren and everyone else took a drink as well. The gathering soon devolved into a simple drinking game, consisting of how much more you could drink than anyone else. Ren didn't quite play and stayed out of the main area where the heaviest drinkers were. A half an hour later, a dwarf approached him.
+
+“You! You besmirched my House's name!” The dwarf said and swayed from side to side. The boat was in calm water so Ren knew that it was the alcohol and not the waves that made the dwarf sway.
+
+“I...” *burp* “...demand you...” *hic* “...face me. I challen-” Another dwarf slapped a hand over the drunk dwarf's mouth to stop him from finishing what he wanted to say.
+
+“He's a bit out of it, sir. Can you forgive him?” The second dwarf said and bowed slightly.
+
+Ren bowed slightly himself and the dwarf had a happy face for a moment, then dragged his friend away.
+
+“What did I tell you about biting off more than you can chew?” The second dwarf said to his friend and then led his friend out of the dining room.
+
+“The captain, Ren.” Teepo said.
+
+Thanks, Teepo.
+
+“That was nice of you.” The captain said from beside him.
+
+Ren nodded without turning around and took another mouthful of mead.
+
+“I heard about the fight on the deck.” He said and sat in the chair beside Ren. “You could tear old Rugzak apart with those moves.”
+
+Ren nodded again.
+
+“You're not really into the whole drinking until you pass out thing, are you?” The captain asked.
+
+Ren laughed and looked at him. “This is my first time drinking, actually.”
+
+The captain's eyebrows rose. “You're handling your alcohol well, if that's the case.”
+
+“I'm trying my best to not get falling down drunk.” Ren said. “I've seen enough of that from my father.”
+
+The captain nodded. “Those 'fries' were great, by the way. I tried to thank you earlier, but you weren't in your cabin.”
+
+Ren smiled. “Yeah, I've been all around the ship. It's my first time on one, you see.”
+
+The captain laughed. “No point in saying that you're handling that quite well, either.”
+
+Ren shook his head. “I told Nathalia that if I had a choice between enjoying it or being sick, I was choosing enjoyment.”
+
+The captain winced when Ren said Nathalia's name.
+
+“Sorry. I'm not used to all of your customs.” Ren said and looked at the captain. “I assume you're the member of the High House that was the witness?”
+
+The captains eyes widened at that. “How did you... no, it's a logical deduction, isn't it? I wouldn't have the ship if I was of a lower House. I'd be working on it.”
+
+Ren nodded.
+
+“Well, I've got to get back to my cabin.” The captain said and stood. “Captain's business to deal with.”
+
+Ren laughed and raised his mug. “If only all captain's business was as pleasant.”
+
+The captain slapped a hand on Ren's shoulder and laughed hard. When he was done, he downed the last of his mead, nodded to Ren, and left the dining room with a smile on his face.
+
+I better go, too. Ren thought and stood up. He downed the last of the mead in his mug and went over to the serving window. The kitchen was dark and Ren put the mug on a tray that would hold it still, and stop it from sliding if the boat rocked. He left the room, and avoided the dwarves that tried to stop him from going. Ren got to the hold and sat down on his bed. He was really glad that he wasn't feeling the effects of the alcohol that he'd drunk since supper, and handed Princess all the meat that he'd snuck off of his plate during the meal. She took her time chewing each piece and Ren felt peaceful, listening to her chew.
+
+“I'm glad you all came along.” Ren said as he fed Princess the last piece of meat. “I'm going to sleep for a while.” He said and laid down on the bed. Then hopped up and pulled out the 4 concealing rocks that he still had, and then took out a stone brick, enchanted it with a glyph of 4 Terror runes, and placed the 5 of them around the little corner they were in. “Stay in here, please... until I come back, alright?” Ren lay back down on the bed. “Teepo, you're in charge. Keep a look out.” Ren said.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and looked at a very happy Stella.
+
+“You just can't keep your hands off the ladies, can you?” Stella said and laughed.
+
+Ren snorted a laugh. “Hey, you saw what happened! I never touched her. Not even when she kissed me!” Ren said. “I actually didn't even think about doing it, to be honest.”
+
+Stella grinned at him. “Yeah, I saw that little Ren didn't react.”
+
+“Stella!”
+
+She laughed and Ren got out of bed to use the bathroom. “Is there anything that you won't tease people about?”
+
+She thought about that while Ren did his business and came back out and climbed in bed.
+
+“No.”
+
+Ren rolled his eyes and she smiled.
+
+“You're just in time for supper.” Stella said. “I'll be right back with it.”
+
+Ren pulled the rollaway table over, cleared the laptop off of it, and got it ready to receive the tray. Stella came into the room kind of sideways, carrying the tray in front of her. She shuffled like a crab over to the bed and Ren wondered what she was doing. When she stood beside the bed, she turned with the tray in her hands and Ren saw that there was ham, cut just like it was for the dwarf meal, white fluffy mashed potatoes, and a big mug of rootbeer. His jaw fell open.
+
+“Stella...” Ren started to say, until he looked up at her.
+
+She had a few pieces of paper taped together, with a crudely drawn set of gigantic boobs in a tight green dress and apron.
+
+“Stella!” Ren exclaimed and smiled.
+
+Stella started laughing, and put the tray down on the rollaway table, then kept laughing as Ren tried to grab the drawing.
+
+“I was gonna thank you for going to all the trouble, too!” Ren said and grinned. He managed to hook the edge of the paper and pulled.
+
+“Oh, Ren! You've ravaged me!” Stella said and put a hand to her chest. Ren bundled up the drawing and tossed it at her.
+
+“Get out of here, you!” Ren shook his fist at her and laughed. “One of these days I'll get you back!”
+
+Stella picked up the paper ball and laughed as she left Ren alone to eat. He took his time and finished everything, then slowly sipped the rootbeer. He didn't want to guzzle such a good drink.
+
+Stella came in and saw Ren was nearly finished and watched the television while she waited. Normally she would have sat beside him while he ate, but she had teased him a bit too much this time and didn't want to keep pushing her luck.
+
+It's just so much fun! She thought and smiled. Ren saw Stella smile and smiled himself. He always overacted his reactions to her little schemes, mainly because she seemed to like it so much. They enjoyed spending the next hour together, then the shift changed and Barbara came in. Stella stuck around a little longer than usual as Ren filled Barbara in on what had been happening and Stella added her bits to it as well. Barbara laughed as she heard the goings on and then laughed harder at Ren's mistaken courtship of the dwarf cook.
+
+“Ren... you're just too good of a person!” Barbara said and ruffled his hair. “It's not your fault it's been taken as a marriage proposal.”
+
+“See, Stella! I told you!” Ren said and Stella laughed.
+
+“Sure, Loverboy. Keep telling yourself that!” Stella said and ruffled his hair, too. “I better go. Have a good night you, two.”
+
+“Bye, Stella.” Ren and Barbara said together and they laughed again.
+
+“You're definitely having quite the adventure, Ren.” Barbara said.
+
+“I know! Who'd have thought that dwarves would own a ship!” Ren said. “Oh, I can show it to you!” Ren said and dug out the laptop. He pulled up the saved footage from that afternoon and queued up the right spot and turned the laptop so Barbara could see it.
+
+“It's so small.” Barbara said. “Is it safe?”
+
+Ren laughed. “It's actually a lot bigger than it looks.” He said. “I actually feel tall with them around.”
+
+Barbara laughed. “I can see the appeal.”
+
+Ren nodded. “If it wasn't for all the dominance fights, it would be a really nice place.”
+
+Barbara smiled. “Everything has benefits and drawbacks, Ren.”
+
+“I know.” Ren said. “I'm having fun so it's not too bad. That last fight I had... I think they won't challenge me much now.”
+
+“I don't like fighting. I think it's both pointless and useless.” Barbara said.
+
+“That's what I told them!” Ren said and grinned.
+
+Barbara smiled. “At least you've used it to stop more fights.”
+
+Ren nodded again. “I certainly hope so. I've only got one more to fight, assuming the Main House challenges my sitting at the head table above them.”
+
+Barbara put a hand on Ren's arm. “If they don't come to their senses, don't hold back like you did with that other one.”
+
+Ren's eyes widened. “Barbara...”
+
+Barbara shook her head. “You're kind of trapped in this now. If it comes down to a fight, and even though I'd hate for it to happen, it probably will anyways... you make sure you win, Ren.”
+
+Ren took her hand in his. “I... I'll make short work of them if I have to. I promise.”
+
+“Good!” Barbara said, squeezed Ren's hand, and changed the subject. “I think we're missing Big Sister! Change the channel to 36.”
+
+Ren chuckled and changed the channel. Barbara really loves her reality shows.
+
+Big Sister actually was on, and they settled in to enjoy the show. They watched as the women competed for the top spot in the condo, and held hands the whole time.

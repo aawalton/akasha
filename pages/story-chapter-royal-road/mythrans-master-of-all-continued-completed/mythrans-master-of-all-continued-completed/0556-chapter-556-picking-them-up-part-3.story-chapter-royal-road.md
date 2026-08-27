@@ -1,0 +1,245 @@
+---
+id: c7a8ff39-4bbe-537f-bf93-3faa1c3dc5e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 556 - Picking Them Up: Part 3"
+slug: 0556-chapter-556-picking-them-up-part-3
+partOf: mythrans-master-of-all-continued-completed
+position: 556
+ownLength: 2606
+unit: words
+publishedAt: 2018-04-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/208140/chapter-556-picking-them-up-part-3"
+royalRoadId: "208140"
+---
+
+Ren and Artemis came out of the portal and Ren dismissed it.
+
+“What happened?” Officer Holly asked.
+
+“Lady Eleanor was being attacked.” Ren said and summoned Teepo.
+
+“You saved her.” Frikara said, and he nodded. “Was she grateful?”
+
+“She didn't know she was in danger at all.” Artemis said as Ren cast the spells to make Teepo solid again. “She kept her eyes closed the whole time and thought it was a spell. It was weird.”
+
+“That means the only ones that know what really happened are you and Ren.” Officer Holly said. “Are you going to keep it that way?”
+
+“I'm not keeping it a secret, but I'm not going to blab it to everyone I meet, either.” Ren said.
+
+Belinda came out of the Mage Guild and walked over to him. “I was right. My brother told me to leave him alone and to enjoy my new life.”
+
+“I'm sorry.” Ren said, and she shrugged.
+
+“I knew he would say no, but I had to ask anyway.” Belinda said.
+
+“It's all right.” Her mother Maria said. “We can have him come and visit when he's not busy.”
+
+Belinda chuckled. “He didn't visit us when we lived in the same city. He's not going to travel to see us, no matter where we live.”
+
+Maria reluctantly nodded, despite not wanting to believe it.
+
+“Now what?” Officer Holly asked.
+
+“Sharlee? Is there anywhere you want to go?”
+
+“I wouldn't mind visiting my husband and the hussy he's sleeping with, just so I can tell him I'm leaving.” Sharlee said. “Other than that, I don't want anything from the house.”
+
+“What about your things at the castle?” Belinda asked. “Oh, damn! What about my things at the castle?”
+
+Ren smiled. “We can go and get them now, or we can pop back after I get you to my county.”
+
+“Wait, if you can just pop back whenever you want, why did you take mother's whole shack?” Belinda asked.
+
+“Because I could.” Ren said, and she couldn't argue that it wasn't a good enough reason. “So, is that it?” He looked at them. “Then I'll drop you off at the county and come back for Narshan and his family.”
+
+Ren unhooked the half-carriage from Princess and moved her over, took out the covered cart from her saddle bag and attached it to her, then transferred everyone over to it. Once that was done, he stored the empty half-carriage and climbed onto Princess, and they travelled back to Walin County as Artemis flew beside them. Once there, they landed next to the Refugee Center.
+
+“We're refugees?” Sharlee asked as she looked at the building.
+
+“No, you're in transition.” Patty said. “I'll look over the housing plans and see where I can assign you to live, and then you can move in.”
+
+“It's going to be odd living in an empty house.” Sharlee said.
+
+“Empty? They are fully furnished and even have full baths inside.” Patty said. “No expense was spared in making them the best places to live.”
+
+“What kind...”
+
+“All kinds.” Patty said and pointed, and they turned to look at the expanse of houses across the road. “The only limit we have is how quickly they can be built.”
+
+“We'll get you settled properly soon. Until then, you can stay at the Refugee Center.” Ren said and walked over to the side of the Refugee Center and took out the old woman's shack and placed it there. “Maria on the other hand, can stay in her old home until she gets a new one.”
+
+“That's amazing!” The old woman Maria said, then waddled over and went inside. “Nothing's broken!”
+
+Ren chuckled. “If you want to eat out, there's a cafeteria right there.” He said and pointed up the street. “Or you can get meal ingredients from some of the other residents, or order them from the Main House.” He pointed to the large 2 storey cement building, then took out a handful of gold coins and gave some to Sharlee, Belinda, and Maria. “The bakery has some great products as well.”
+
+“Ren...” Patty started to say.
+
+“Right.” Ren said and gave the three women coin pouches as well. “A few gold is more than you will ever need to live here. Everything is pretty cheap, and everyone usually shares what they have. This is a community. No one ever goes hungry, and they are all pretty happy.”
+
+“This place sounds too good to be true.” Sharlee said.
+
+“I'm sure there's a few places that would like to have an experienced maid. Like the Inn, the Library, or the Adventurer-Only business.” Ren said. “Or you can find any other job that you want to try. You don't have to limit yourself to what you know.”
+
+“Yes, it's too good to be true.” Sharlee said and smiled.
+
+“It sure is.” A male's voice said as he walked over the road, and Ren turned to see who it was. He saw a man and a 10 year old girl walking towards him.
+
+“Mr. Farnham.” Ren said to the first farmer he had helped when he came to this county, then nodded to him slightly. “Well met.”
+
+“Well met.” Fern Farnham said and nodded back.
+
+Ren knelt on one knee to put himself just below the girl's height. “M'lady Falla.”
+
+Falla's face flushed red, and she gave him a very well practised curtsy. “M'lord.”
+
+“Aww, that's so cute!” Belinda and Sharlee said at the same time, then they looked at each other and laughed.
+
+“It seems they share my opinion of you, Falla.” Ren said, and her face went to a deep red.
+
+“We were just heading to the cafeteria to get a late lunch for the family.” Fern said. “Their food is great.” He said, then looked at his daughter. “You didn't hear me say that.”
+
+“Yes, I did.” Falla said. “Unless...”
+
+Fern sighed. “I'll get some fried dough on the way home.”
+
+“Yay!” Falla said excitedly.
+
+“The Crown Princess Diana likes fried dough as well.” Ren said.
+
+“She does?” Falla asked and her eyes sparkled.
+
+“I gave her some as dessert after we ate lunch together.”
+
+Falla started to giggle. “My Lord and Princess Diana ate a meal together!”
+
+“You aren't surprised that he knows the Crown Princess?” Belinda asked.
+
+“Of course not.” Falla said. “My Lord is a great Adventurer and has been in many battles and slain many foes and has beautiful women around him all the time and he's rich and he's really strong and he can make magic things and...”
+
+“Falla.” Fern said a little sternly, and Falla clamped her mouth shut. “I'm sorry about that. She can say a lot with a single breath.”
+
+“That's a very endearing quality.” Ren said and used a single finger to touch Falla's cheek. “I almost married a woman who could do the same thing.”
+
+Falla caught her breath and her face went as red as it could go. “Th-thank you.”
+
+Ren smiled and stood up to look at Fern. “I didn't mean to delay you.”
+
+“That's okay. We sent Russell ahead and he ordered the meals for us, so we only have to pick them up.” Fern said. “It was nice seeing you again, My Lord.”
+
+“You as well.” Ren said.
+
+“M'lord?” Falla said and Ren looked at her to see her face was still bright red. “Can we go for another walk soon?”
+
+“I'll have some time in a few hours, so I'd be happy to go for a walk with you then.”
+
+Falla bit her lip and nodded, then she and her father walked past them to go to the cafeteria.
+
+“I think you have a secret admirer.” Belinda said.
+
+“It's not a secret.” Ren said and smiled. “I think she's had a crush on me for a while.”
+
+“And you're encouraging her?” Officer Holly asked. “She's pretty young.”
+
+“She's 10. She works hard, plays with her friends when she can, and is responsible.” Ren said. “I won't discourage her from expressing herself, or tell her not to ask for what she wants when she builds up the courage to ask.”
+
+“But...”
+
+“You think I'm leading her on, or that I'll hurt her when she realizes we can't be together?” Ren asked, and Officer Holly nodded. “She already knows we can't be together. For most people, they don't even meet their rulers, so she knows that not everyone can talk to the Lord of their lands like she just did.”
+
+Everyone watched the young girl as she entered the cafeteria with her father.
+
+“Imagine what she would think of me if I told her that I didn't have time to say hello to her.” Ren said. “Not only would she start to hate me, by the gods I'd hate myself.”
+
+Ren asked Belinda if she wanted to stay with her mother or in the Refugee Center, and she chose the center. Sharlee took her hand and they went into the building together, after Ren had assured them they would receive several new sets of clothing. Ren left Officer Holly and the maids in the covered cart and followed the two women inside.
+
+“I think Belinda had the right idea. I should go and get my things from the castle.” Sharlee said and chose the room she wanted.
+
+“No problem.” Ren said and took out the All-Seeing Mirror and looked at her room in the castle. He stepped into her room and cast a Portal spell to connect it to her room at the castle. “Want me to come with you?”
+
+“Wh-what? No.” Sharlee said, when she thought about having someone in her room while she tried to gather up the mess she had hidden under the bed. “I can handle it.”
+
+Ren gave her a Strong Ring of Storage. “Pack things into bags, or the dresser and cabinet, then store the dresser and cabinet.” He said. “You can carry a lot more things by putting them inside other things.”
+
+“Thank you.” Sharlee said and put on the ring. “How long will the portal stay open?”
+
+“Until I dismiss it.” Ren said. “I could set a timer by changing the amount of Mana I put into the spell; but, all that will do is cause stress and worry over when it will close, so I don't bother.” He turned to Belinda. “Are you taking the room next door?”
+
+Belinda nodded, and Ren entered her room and asked the All-Seeing Mirror for her room in the castle, then cast another Portal spell to connect it to her current room.
+
+Ren stepped out of her room and looked into both. “I'll leave the portals here until you tell me you're done.”
+
+“Thank you.” Both women said and stepped through their respective portals.
+
+Ren left the building and went over to Princess and the cart. “We're making a quick run back to the capital to pick up Xuunah.” He said. “Are you all coming along?”
+
+“No, I'll stay here.” Patty said and Ren helped her climb down from the large covered cart. “I will go back to the capital with you when you return from your visit with the High Elven representatives.”
+
+“Then I'll pick you up in an hour and 15 minutes.” Ren said, and Patty walked down the street to the Main House to wait in her office while she did some work.
+
+“We're staying with you.” Frikara said, and the other maids nodded slightly. “Unless you don't want us to.”
+
+“You would feel it if I didn't.” Ren smiled. “I don't expect anything to happen; but, you never know. Having all these extra eyes around can only help.”
+
+The maids were glad that he wasn't dismissing them, pushing them aside, or belittling their skills; even though he was so much more powerful than them. Ren shut the cart and climbed into the driver's seat, and Artemis floated beside him. They took off and spent another 12 minutes travelling and making their way over to Narshan's apartment.
+
+“I think the place is small, so be wary of tight corners.” Ren said and helped them all out of the covered cart.
+
+“We understand.” Frikara said, and they spread out to surround the cart, then moved together when Ren walked over to the door. They kept a perfect circle until they reached the door, then Frikara nodded to Andrela as the maids turned to observe the door and the surrounding street.
+
+“According to Ren's Heat Sense, there's 13 people in the building. None of them are anywhere near their doors or waiting to ambush us.”
+
+Ren was tempted to use Identify Person on her to try and get her details, then decided that he would rather be surprised by her abilities. Andrela felt his curiosity and his reservedness, and Ren felt her pride in her abilities.
+
+“There are 4 exits, one on each side of the building. There's a stairway on each end of the building for traffic up and down, and 8 apartments are accessible inside.” Andrela said a moment later. “It's not well made, so any excessive structural damage might bring the whole thing down.”
+
+“Wait, what?” Ren looked at her with wide eyes.
+
+“I have Immediate Location Knowledge.” Andrela said. “Ask me where something is and I'll tell you what direction to go. I can't tell how far away it is; but when I see it, I can tell you it's details.”
+
+“Wow.” Ren said. “That's awesome.”
+
+“Unfortunately, it puts a lot of information in my head at once and I'm not quite used to sorting it for relevance yet.”
+
+“You'll get the hang of it.” Ren put a hand on her shoulder for a moment, then let her go.
+
+“Navruth.” Frikara said.
+
+Navruth stepped forward and her hands glowed as she made several gestures, and then the whole building was covered in a blue glow for a moment.
+
+“No nefarious spells or enchantments are inside.” Navruth said. “Magic cleared.”
+
+Ren blinked his eyes at her, and she smiled warmly at him as she felt his surprise.
+
+“Lusinia.” Frikara said.
+
+Lusinia nodded slightly and took a breath, and Ren felt something like an Aura reach out from her. It was just as big as his when it stopped, and she smiled.
+
+“Nothing approaching this location, either on the ground or the air.” Lusinia said. “Andrela's right. The foundation on this building is weak.”
+
+Ren looked at Verwynn.
+
+“I can Track anything. Creatures, carts, people, ranged spells, and anything else that moves.”
+
+“Sweet.” Ren said and looked at Frikara.
+
+“Don't be disappointed.”
+
+“I won't ever be disappointed in any of you.” Ren said. “I thought you were amazing before getting these abilities.”
+
+Frikara nodded. “I'm... well, I'm Strong and Tough.”
+
+“Strong and...” Ren smiled. “You're the Tank.”
+
+“I'm the what?” Frikara asked, surprised.
+
+“It's an Adventurer term for the person who stands out front and takes the brunt of the damage when enemies show up.” Ren said. “You're the Fighter.” He looked at Verwynn. “You're the Ranger.” He looked at Navruth. “You're the Mage.” He looked at Lusinia. “You're the Cleric.” He looked at Andrela. “And you're the Scout.”
+
+“I can't believe it.” Teepo said. “I've been replaced.”
+
+Andrela stepped close and scratched his carapace. “It's okay, Teepo. There's no rules against having more than one scout.”
+
+“Plus, she needs someone to teach her how to scout properly.” Frikara said. “We did the best we could on our own, but... this is our first practical experience.”
+
+“Then let's do this right.” Ren said. “Frikara, get me to the second floor and to Narshan's apartment.”
+
+“Yes, My Lord.” Frikara said and deployed her team to infiltrate the structure.

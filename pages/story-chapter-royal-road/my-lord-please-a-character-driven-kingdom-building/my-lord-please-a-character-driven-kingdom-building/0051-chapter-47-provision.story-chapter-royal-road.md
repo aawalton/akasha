@@ -1,0 +1,235 @@
+---
+id: 3dfe2407-ba2e-58ca-86e3-2833605ab3fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 Provision"
+slug: 0051-chapter-47-provision
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 51
+ownLength: 2350
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3337875/chapter-47-provision"
+royalRoadId: "3337875"
+---
+
+As Lucien followed the packed road toward the manor, the slow rhythm of Ashridge’s daily life unfolded around him.
+
+The village was expanding and signs of it appeared everywhere once he began to look.
+
+New roofs stood where empty ground had been only weeks earlier. Fences had been extended to mark additional garden plots near the eastern cottages.
+
+He passed a small group of villagers carrying sacks of grain toward the storage sheds near the manor. Upon spotting him, they dipped their heads. He returned the gesture without slowing.
+
+Soon, Ashridge would begin expanding beyond its own walls, and with stone, perhaps even iron, its value as a frontier settlement would rise.
+
+More refugees drawn by the shifting fortunes of the village would come, and when they did the village would need to be ready to receive them without collapsing under its own success.
+
+Lucien stepped onto the manor grounds a moment later, the study windows glowing faintly in the mid-day sun.
+
+By the time he walked into the study, Elias and Bran were already waiting.
+
+The steward stood beside the desk with several sheets of parchment arranged neatly before him, while Bran waited at his side, his clothes still marred by soil from the fields.
+
+Both men dipped their heads upon seeing him, though Bran’s movement was rougher than the steward’s.
+
+"My Lord."
+
+He returned the gesture and took his seat behind the desk.
+
+Elias let out a soft cough before he spoke. “My Lord,” the steward began, an unusually dry look on his face. “Alicia would like to...remind you to have your lunch after this.”
+
+Bran adjusted his footing, his gaze lowering to a perfectly ordinary sheet of parchment.
+
+Lucien exhaled through his nose. The meeting with Garrick had run longer than expected.
+
+“…She also said she would ensure the hunter waits to eat until you arrive,” the steward finished, his expression composed despite the nature of the message.
+
+A small cough escaped Bran, his eyes sliding away from Lucien.
+
+The corner of Lucien’s mouth twitched faintly before he spoke. “Then we should finish this promptly.”
+
+Elias inclined his head, then reached for the top sheet from the small stack.
+
+“I have completed the latest census adjustments following the arrival of the Cragwatch survivors,” he began. “Ashridge now holds approximately six hundred and twenty residents within the palisade and its surrounding farms.”
+
+The steward cleared his throat before he continued. “Most of the newcomers have already been distributed among the existing work groups. Several have joined Harlon’s crews in the southern clearing, while others have been placed with the farmers along the eastern fields.”
+
+Bran rolled one shoulder before giving a short nod beside the table. “Hands were needed,” he said. “And the fields won’t wait for grief.”
+
+He glanced down at the table for a moment. “With the extra help, we’ve kept most of the crops in the ground. The stores are holding for now.”
+
+Lucien leaned forward, resting his hands on the table. “What are we pulling from the fields now?”
+
+The farmer gave a nod, scratching his beard. “Some of the faster crops. Mostly root vegetables and the hardier greens.”
+
+Elias lifted one of the ledgers, his gaze lowering briefly. “As a result, our reserves remain stable despite the increase in population. However, greater strain will follow if yields remain limited.”
+
+Lucien’s finger tapped once against the table before he spoke. “The strain is acceptable if the four-field conversion holds.”
+
+His finger stilled when Bran let out a cough.
+
+The older man shifted, rubbing the back of his neck. “My Lord…” he began, though the words trailed off.
+
+Lucien’s gaze settled on him. “There is a problem?”
+
+“…Some of the men you spoke to that day,” Bran said at last. His hand dropped from his neck. “They chose to keep to the three-field system for now.”
+
+That didn't surprise him. Some had chosen to remain with the three-field system when the offer was made. Forcing them would have caused more problems than it solved.
+
+"Did they give you a specific reason?"
+
+The question seemed to make Bran more uncomfortable. He shifted slightly before answering. “Some of them are used to doing things their way and see no reason to change.” His brow creased briefly. “Others aren’t keen on taking direction from another farmer.”
+
+Elias inclined his head before speaking. “While it may not have been made official, My Lord, appointing Bran to oversee the conversion places him in the role of Reeve in all but name.”
+
+Bran’s eyes widened as he glanced toward the steward before looking away.
+
+The reaction was not limited to him, though Lucien remained composed as the thought surfaced.
+
+'...did I just appoint someone as Reeve back then?'
+
+He exhaled softly before resting his hand against his chin. “I assigned him to manage the transition of the fields.”
+
+Elias folded his arms behind his back. “And in doing so, you placed him over the others. To the farmers, authority is defined by function, not title.”
+
+He turned his attention back to Bran, brow creasing faintly. “And they see it that way?”
+
+Bran rubbed the back of his jaw. “They won’t say it outright, My Lord. But I can see how some might think it.”
+
+Lucien leaned back, his gaze lowering as he considered the implications.
+
+“Then we adjust.”
+
+He looked to Bran. “If the yields hold through the year and the transition remains stable, you will be named Reeve by autumn. Until then, you will continue as you are.”
+
+The farmer’s gaze shifted to the side. “But the transition work was meant to be a punishment,” he hesitated, letting out a breath. “Wouldn’t they make even more of a fuss if I became Reeve after that?”
+
+Lucien gestured lightly toward Elias. “They already see you as one, regardless of title.” He let the words settle, the corner of his mouth lifting by a fraction. “And I suspect they won’t be clamoring for the position when they see what it demands, even as you manage your own fields.”
+
+Bran let out a cough that might have been a laugh, though he attempted to cover it.
+
+Lucien’s gaze shifted toward the steward. “Besides, there is still time before autumn, and I expect there will be greater concerns before then.”
+
+Elias, having caught the implication, cleared his throat before speaking. “As we have discussed, frontier settlements tend to attract movement once stability becomes known.”
+
+“Given Ashridge’s current condition, it would be prudent to expect further arrivals next year.”
+
+Lucien steepled his hands on the table as he asked, “Bran, can the fields support them?”
+
+Bran scratched his beard thoughtfully. “If the spring holds and we expand the eastern plots a little further...aye.” He glanced toward the window where the pale outline of farmland lay beyond the village. “But we’ll need to plan for it now.”
+
+He rested both hands against the edge of the table. “The winter crops held better than expected,” he said. “Rye and barley mostly. Frost took a few of the northern rows early in the season, but the soil there was thin to begin with.”
+
+“Eastern plots did better,” Bran continued. “Ground’s softer there. Holds moisture longer once the snow settles.”
+
+Elias made a small note on the parchment beside him while Bran spoke.
+
+“And the damage from the Tithe?” Lucien asked.
+
+Bran’s mouth tightened before he answered. “Lighter than most years.” He hesitated a moment before adding, “Fields near the western woods took the worst of it. Beasts came through there first.”
+
+He understood the rest. When the goblin variant fell and the rust-colored kobold fled, the destruction had driven west toward Cragwatch, leaving Ashridge’s eastern farms spared the worst of it.
+
+Bran exhaled slowly. “Truth be told, My Lord,” he said, “if that herd had come through the eastern fields instead of the Deep Woods, we’d be the ones begging for grain come spring.”
+
+No one spoke for a moment before Lucien shook his head faintly. “But it didn't, what matters is what we do with that good fortune.”
+
+“Yes,” Bran agreed, his gaze dropping to the wood grain of the table before he continued. “The refugees helped. More hands meant more rows stayed clear, and we pushed the eastern plots farther out than usual before the frost set in.”
+
+Lucien leaned forward, his hands coming to rest on the table. “How far has the eastern expansion progressed?”
+
+“Two additional fields,” Bran replied immediately. “Not large ones yet. Soil needs time to rest after clearing. Turning it over like that leaves it rough.”
+
+Elias glanced up from his parchment. “That expansion accounts for the majority of the increased labor assignments among the new arrivals.”
+
+Bran exhaled lightly as he added. “Most of the eastern folk already knew their way around a field. Made things easier.”
+
+Lucien tapped a finger once against the table. “If the population continues to grow, can the fields sustain it?”
+
+The older man rubbed his beard slowly, weighing the question. “How much growth?”
+
+He did not answer immediately, instead glancing toward Elias.
+
+The steward inclined his head. “If Ashridge continues to accept arrivals at its current rate, the population could approach one thousand residents within the next year.”
+
+Bran blinked. For a moment, he simply stared at Elias as though he had misheard. “One thousand,” he repeated slowly.
+
+He let out a breath, his hand dragging across his beard as his gaze shifted toward the village beyond the window.
+
+“That’s...a lot of mouths.”
+
+The number seemed almost unreal in the small study. Villages like Ashridge rarely reached such sizes without years of growth. Frontier settlements usually collapsed long before reaching that scale.
+
+“Well,” Bran said slowly, “if we ever reach numbers like that, food will become the real problem.”
+
+“We could feed them,” he continued after a brief pause. “But only if we keep pushing the fields outward.” He gestured vaguely toward the eastern side of the village. “Spring planting would have to expand as well...far beyond what we had planned.”
+
+Lucien’s gaze settled on Bran. “What limits that expansion?”
+
+He answered immediately. “Seeds," he shrugged faintly. “You can clear new land with axes and shovels. But grain doesn’t grow if you’ve nothing left to plant.”
+
+Elias made another note. “Our current seed stores remain sufficient for the next planting season,” he said, “after accounting for winter consumption, though they would not support large scale expansion beyond that.”
+
+“Most villages save what they need each year,” Bran added. “But when people run from burned homes they don’t bring sacks of seed with them.”
+
+Lucien leaned back in his chair as he considered the numbers.
+
+His gaze drifted briefly toward the study window. "Bran, you mentioned two additional fields in the expansion. Including those, how many fields do we have now?"
+
+The older man answered without hesitation. “Adding the expansion, we have two smaller plots and six main fields. The six main fields were already in use before the refugees arrived."
+
+Lucien gave a slow nod. "This excludes the western fields. We will leave that as a buffer in case our estimates prove optimistic."
+
+Bran blinked as he stared at him. "...There might be more?"
+
+Elias cleared his throat before he spoke. "The projections were based on its current rate," a brief pause followed as he glanced down at the ledger, "if the rate increases, then yes. There would be more than a thousand."
+
+Lucien rested his hands lightly against the arms of the chair. “If seeds were not the limiting factor, how much land can we expand if we stretch the labor as far as we can without straining them?”
+
+Bran considered the question for a long moment. “Five more fields...maybe six if we have more labor to spare.”
+
+'A better plow would help...but that would require iron.'
+
+Lucien put the thought aside for the moment, it would only be something he could implement after he returned from Helvarn.
+
+He turned toward Elias. “Then our only constraint is our supply.”
+
+The steward folded his hands behind his back. “Seed grain can be purchased in Helvarn once the spring markets reopen,” he said. “Though with Cragwatch’s situation unsettled, the prices may not remain favorable.”
+
+“The Fall of Cragwatch has created uncertainty along the western trade routes,” the steward continued calmly. “Merchants tend to raise their prices when stability becomes questionable.”
+
+Lucien’s eyes narrowed. “And Lord Vaelric?”
+
+Elias stilled for a brief moment before he spoke. “...It would not be unreasonable to assume he may attempt to obstruct Ashridge’s position within Helvarn’s markets,” the steward said carefully.
+
+His finger tapped the desk lightly. Politics traveled quickly on the frontier.
+
+Lucien leaned forward, hands resting on the table. "If I leave for Helvarn within the next few days, can I circumvent the actions of Cragwatch’s lord?"
+
+Elias shook his head faintly. "If he intends to act, My Lord, he has likely already done so."
+
+He exhaled softly through his nose. “I suppose I will have to find out for myself when I reach Helvarn.”
+
+Bran dipped his head as the meeting drew to a close. "My Lord." At Lucien's gesture, he left the room first.
+
+Elias finished his note and set the parchment aside. For a time, the study fell quiet, broken only by the crackle of the hearth.
+
+Lucien remained seated, his gaze resting briefly on the glass where the faint outline of Ashridge lay beyond the manor walls.
+
+Elias gathered the remaining papers into a neat stack. “There is one additional matter, My Lord.”
+
+He shifted his attention back toward the steward.
+
+“Captain Dorian has requested an audience.”
+
+Lucien paused at the name for a moment. The militia had grown alongside the village these past months.
+
+He rose from the chair. “Very well.”
+
+“Ask the captain to meet with me tomorrow. I shouldn't keep Alicia and Sera waiting for lunch.”
+
+Elias inclined his head. “As you wish, My Lord.”
+
+The militia had once been little more than farmers holding spears along the palisade. That would no longer suffice.
+
+Now it would have to learn how to defend a population that would only continue to grow.

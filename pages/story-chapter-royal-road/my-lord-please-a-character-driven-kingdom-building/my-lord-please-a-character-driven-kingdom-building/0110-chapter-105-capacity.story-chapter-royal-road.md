@@ -1,0 +1,201 @@
+---
+id: 9f8902de-fe82-51ed-8a03-5fb55ad79f8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105 Capacity"
+slug: 0110-chapter-105-capacity
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 110
+ownLength: 2092
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3742984/chapter-105-capacity"
+royalRoadId: "3742984"
+---
+
+The room fell quiet for the first time since the meeting had begun.
+
+Lord Rathenfell rested his folded hands upon the table, though the slight smile on his face carried a sharper edge now.
+
+"Let us dispense with the pleasantries. Both of you know what I want."
+
+Lucien leaned forward, a hand placed on his chin. "The refugees in the shanty camp outside your town. You want us to take them in."
+
+Shaking his head, Lord Vaelric waved toward the window. "I would gladly take them off your hands for my resettlement efforts but not all of them."
+
+He let out a soft breath. "We recovered most of the stockpile in Cragwatch but the coin from it went into securing the materials needed for the rebuilding efforts."
+
+Lord Rathenfell remained silent as he turned toward Lucien, a brow raised.
+
+Tapping his finger on his cheek, Lucien's gaze lowered briefly. "How many refugees are there exactly, Lord Rathenfell?"
+
+"Over a thousand eight hundred people."
+
+His finger stilled as he turned toward the older man, eyes widening slightly. "...That many of them live in the shanty camp?"
+
+Lord Rathenfell shook his head. "I took in as many refugees as I could. They are scattered throughout Helvarn. A little over a thousand live in the shanty camps now."
+
+When the eastern villages fell, he had spent a day considering whether to take in a hundred people. He couldn't help but realize the man before him was dealing with problems at an entirely different scale.
+
+Lord Vaelric exhaled through his nose. "Even if every survivor from Cragwatch returned with me, there would still be more than sixteen hundred people remaining."
+
+Rubbing his chin, Lucien's eyes moved between the two men. "How many of the refugees are from the frontier and the heartlands? I have heard there are often...troubles between them."
+
+At his words, Lord Vaelric grimaced. "I have heard the same as well. Some of them have gotten into fights with my people when I paid for their stay inside Helvarn."
+
+Lord Rathenfell's hand rose to rub at his temple. "They still think they're in the heartlands. It's hard for a man to come to terms with his changed fortunes."
+
+"As for your question, there are over six hundred from the heartlands. The rest are refugees who fled when the eastern region of the frontier was struck by the Tithe and later raided by bands of orcs."
+
+Lucien kept his expression carefully neutral, though it seemed the older man caught his reaction regardless.
+
+"It's not surprising that you didn't know, Lord Varentis. The villagers you took in during winter were only the first wave of people fleeing. The orcs came later in the winter...near the end of it, I believe."
+
+Lord Vaelric's jaw tightened for a brief moment before he stilled it. "They've not approached our region yet...but it would be best if we are prepared for it."
+
+Garrick's words about how Lord Vaelric had lost his brother to a wandering orc band came back to him.
+
+Lord Rathenfell shot him a subtle look before giving a faint shake of his head.
+
+Deciding to shift the topic, Lucien leaned forward, steepling his hands. "Let us talk about limitations first. With the presence of the two different groups, we will have to take into account how they are distributed."
+
+He gave Lord Vaelric a nod. "Cragwatch should only take people from a specific group, frontier or heartlanders. Resettling a settlement is already difficult enough."
+
+Lord Vaelric held his gaze for a brief moment before he returned the gesture. "Then I will take a group from the heartlands. Better if your share contains fewer of them."
+
+A small chuckle left Lord Rathenfell as he looked between the two of them.
+
+"Good. Now let us discuss the numbers. How many can both of you take?"
+
+Lucien and Lord Vaelric exchanged brief looks before Lord Vaelric slowly spoke.
+
+"With my people...I can sustain two hundred more at most. Cragwatch doesn't have the space to house more. And most of my coin has already been committed to a year's worth of food for three hundred or so people."
+
+Lucien's finger tapped lightly against the table. "Ashridge can take in four hundred if I account for the summer harvest. But it would be a large risk for us...especially during these leaner months."
+
+Late spring was never an ideal time to expand a settlement. The granaries had to last until the summer harvest, and good fortune was not something a prudent lord planned around.
+
+Lord Rathenfell stroked his beard in thought. "That still leaves over a thousand people." He shook his head faintly. "I understand the position you two would be in, but I would have you two take in more if you could."
+
+He raised a hand when Lord Vaelric made to protest. "I will return the favor with grain shipments for the people you take in."
+
+Lucien's eyes sharpened before he asked. "How much grain can you supply us, Lord Rathenfell?"
+
+The older man gestured toward the window. "I'll provide enough grain for one of every two refugees you take."
+
+A frown immediately formed on Lord Vaelric's face. "That is far less generous than it sounds, Lord Rathenfell."
+
+Lord Rathenfell's tone lowered slightly. "Every coin you save now can be used for your rebuilding efforts. And if Helvarn becomes too strained, it would affect you as well."
+
+The younger man's eyes narrowed before Lucien cut in.
+
+"Yet both Cragwatch and Ashridge's continued existence benefits you just as much. If our villages thrive, Helvarn will no longer be the only established settlement in this part of the frontier."
+
+An open laugh escaped Lord Rathenfell at his words. "That is true."
+
+Lord Vaelric glanced briefly at Lucien before inclining his head. "Three for every four mouths we accept."
+
+The older man showed a hint of teeth in his smile. "That would strain even my own treasury, Lord Vaelric. Grain is expensive in these times."
+
+He gestured toward Lucien. "Two for every three mouths, but Ashridge must accept six hundred people."
+
+Lucien stilled at the figure, but before he could respond, Lord Vaelric spoke first, his tone carrying a slight edge.
+
+"You are asking Lord Varentis to double his population, Lord Rathenfell."
+
+Lord Rathenfell gave a slow nod. "I am. But Ashridge can support it. Are you not already considering expansion toward the northern side of your village, Lord Varentis? I have heard of the work you are doing at the Easthollow River."
+
+'Of course he knows about the irrigation ditch.'
+
+Lucien shook his head. "I had planned to restructure the village itself but the work you are referring to is meant to be an irrigation ditch. There aren't any plans to expand the walls."
+
+"Only because you lack the people to do so. And if both of you take in more of them, your villages would stand to benefit in the long run." Lord Rathenfell replied, his gaze moving between them.
+
+For a brief moment, the two younger lords regarded one another.
+
+Lord Rathenfell merely shook his head in amusement.
+
+Clenching his fist lightly, Lord Vaelric gave a slow nod. "Three hundred from the heartlands. Including Cragwatch's survivors, that would bring us to more than four hundred people."
+
+The two men turned their attention to Lucien, who remained silent for a long moment before he finally spoke.
+
+"Seven hundred people."
+
+Lord Vaelric's eyes widened. "Lord Varentis, that is-" His words trailed off when Lucien raised his hand.
+
+"But they must all be from the frontier. That is my condition."
+
+Lord Rathenfell's smile sharpened slightly. "That would not solve my problem, Lord Varentis."
+
+"It will if you spread them throughout Helvarn itself. With Ashridge and Cragwatch taking a total of a thousand people, you would only have a little over eight hundred left."
+
+Lucien leaned back on his chair. "The shanty camp outside of Helvarn could house five hundred. If you separate the rest within the town, it should lessen the fighting."
+
+The older man let out a deliberate hum. "And you are certain seven hundred people would be something you can support? Grain isn't the only concern for that many people."
+
+Resting his arms on his chair, Lucien inclined his head. "If I must expand the northern side of the village, then I would rather expand further with more people now while I can count on your generous support."
+
+Both men stared at him for a brief moment before Lord Vaelric let out a snort.
+
+"And someone said I was reckless."
+
+Lord Rathenfell laughed openly, lightly slapping his hand on the table. "I had thought convincing you to accept six hundred would be hard enough. Perhaps I should've given a higher number at the start."
+
+Giving the older man a dry look, Lucien shook his head. "But I would like to request a favor, Lord Rathenfell."
+
+At his words, Lord Rathenfell's brow rose before he gestured for him to speak.
+
+"Ashridge requires more smiths. With this many people, our current smiths would not be able to supply the tools needed to build their homes."
+
+Lord Vaelric gave a nod. "Cragwatch as well. Our blacksmith still lives, but his apprentice is...we will need at least one more."
+
+The older man stroked his beard. "I can't compel the guilds but my personal recommendation should be sufficient. Some of the journeymen might agree to move if they know that Cragwatch and Ashridge plan to expand their populations."
+
+"But you'll have to convince them it's worth moving to your villages."
+
+For the next hour or so, the three men worked through the more practical side of the arrangement.
+
+Simply moving the refugees to their new homes would be a task in itself. Guards would need to be assigned to escort them along with the supplies for the journey. A convoy of that size would likely turn the one-day trip back to Ashridge into a considerably longer affair.
+
+The heartlanders would be directed toward Cragwatch while the frontier refugees would be offered settlement within Ashridge.
+
+Lord Rathenfell agreed to provide enough grain to support roughly four hundred and sixty people until next year's harvest could be gathered and assessed.
+
+The remainder would be Ashridge's responsibility.
+
+Letters would be sent to several guilds regarding the need for additional craftsmen though he would likely only hear their answer after he had returned to Ashridge.
+
+The journeyman blacksmiths would want to see that he could properly support the additional influx of people first before committing to a move.
+
+By the time the last details had been agreed upon, the sun had begun to dip lower beyond Helvarn's walls.
+
+Lord Rathenfell had arranged for a meal to be brought in while they discussed the remaining details.
+
+Once again, the maid appeared as silently as usual pushing a tray filled with plates and drinks.
+
+When she placed a goblet filled with a deep amber liquid in front of Lord Vaelric, the man inclined his head as he reached for it.
+
+Approaching him, she set his cup of coffee in front of him before dipping her head once.
+
+Lucien returned the gesture and took a sip, only to freeze when an incredulous voice cut in.
+
+"...Lord Varentis, why are you drinking something like that?"
+
+At those blasphemous words, Lucien's eyes narrowed at Lord Vaelric. "Take that back. This is far superior compared to whatever you're drinking."
+
+The man stared at him before glancing back down toward his drink. "You are comparing that dark brew to this?" He motioned his cup toward him. "Look at this splendor! This is far more befitting for a house of your lineage."
+
+He exhaled through his nose. "It seems I would have to ensure you learn the proper drink for a noble of your station."
+
+Lucien's brow twitched but before he could stand up to defend the sacred drink, an exasperated voice interrupted him.
+
+"Must you two start this again? I don't want to spend the rest of the night hearing about which drink is better."
+
+Lord Vaelric and Lucien looked toward the older man who was nursing his cup.
+
+As they realized how ridiculous it was to argue over something so silly in front of the veteran lord, they made to settle back down only to stop short at the next words.
+
+"Of course, my wine is the best. It has the storied history of Arcencia behind it."
+
+The two of them stared at him before they exchanged firm nods with each other.
+
+For the second time that evening, an alliance to denounce such heresy had been formed.

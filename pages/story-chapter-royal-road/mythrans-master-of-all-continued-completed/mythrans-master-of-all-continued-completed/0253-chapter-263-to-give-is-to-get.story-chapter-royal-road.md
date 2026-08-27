@@ -1,0 +1,263 @@
+---
+id: 9c34929d-e437-5644-ac7c-96207ca27c1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 263 - To Give Is To Get"
+slug: 0253-chapter-263-to-give-is-to-get
+partOf: mythrans-master-of-all-continued-completed
+position: 253
+ownLength: 3545
+unit: words
+publishedAt: 2017-05-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138501/chapter-263-to-give-is-to-get"
+royalRoadId: "138501"
+---
+
+Ren went into the house, and Nathalia was there in the kitchen. “Hey, beautiful.” He said, and Nathalia turned to look at him.
+
+“Hi, handsome.” She said, and turned back to keep cooking.
+
+“I'd ask what you're doing up, but I'm going to assume it's because of me.”
+
+Nathalia chuckled, and transferred the food from the pan to several plates. “Yes, I woke up and you weren't there.”
+
+“Sorry about that.” Ren said, and hugged her from behind. Nathalia squirmed around a little, and settled in against him. He nuzzled her neck, and she didn't even twitch. “You're not going to believe what I've been doing with the bonus I got from that guy.”
+
+Nathalia held onto the arms that were wrapped around her. “I'd say you were making some really neat things.”
+
+Ren kissed her cheek, and took out the wood toy boat he'd made with the metal parts inside.
+
+“Oh!” Nathalia exclaimed and took it from him. “That's a really nice toy.” She said, and looked at the sink.
+
+“It's not for the water.” Ren said. “I can adapt it for that, though.”
+
+“Ren.” Nathalia started to turn around in his arms, and he let go of the embrace so she could face him. “What's the good of a boat if it can't float?”
+
+“Let me show you.” Ren said and took it from her. He turned the key to wind it up several times, and her eyes widened as he put it on the floor. “Watch.” He said, and pushed down on the cabin on top of the boat. The spring engaged and the boat sped across the floor, hit the leg of the table, and toppled over.
+
+“By the GODS!” Nathalia said as the wheels spun out the rest of the potential energy from the spring.
+
+Ren walked over to it and picked it up. “What do you think?”
+
+“I'm wondering why it's a boat!” Nathalia said, and Ren laughed.
+
+“It's because the one I found in that box of knick-knacks was a boat.” Ren said. “I took it apart and it gave me the pattern.” He smiled. “Now I can make it myself.”
+
+“You should change it to something else.” Nathalia said. “I really wanted to put it in water.”
+
+Ren stored it and went back across the kitchen to her. “There's another thing I made that I wanted you to see.”
+
+“Is it another toy?”
+
+Ren shook his head. “No, it's something else.” He said, and took out the Revealing Light diamond. “Look on my left shoulder.” He said. “Activate.”
+
+Nathalia gasped as Teepo was finally revealed. “Is... is that... Teepo?”
+
+Ren nodded, and Nathalia came over to him.
+
+“Hi, Teepo.” Nathalia said, and Teepo lifted a leg and waved to her. She laughed and tried to reach out to touch him... and her finger went right through him to touch Ren on the shoulder.
+
+“It can only reveal invisible things.” Ren said. “You can't hear him speak or touch him.”
+
+“Well, I'm sure you'll figure that out eventually.” Nathalia said, confidently. “How long does it last?”
+
+“As long as I want it to.” Ren said. “Using a diamond made it permanent.”
+
+“You're kidding!” Nathalia said, and took the Revealing Light diamond from him. Teepo remained on Ren's shoulder. “How far can it reach?”
+
+“25 feet.”
+
+Nathalia thought about it for a minute. “No one is going to sneak up on you again.”
+
+“It reveals Teepo to everyone, though.” Ren said. “He's been my best friend, and biggest secret, for a long time.”
+
+“He'll have to start tucking himself into the cloak if you're going to keep this on all the time.”
+
+Ren nodded slightly, and Nathalia gave him the diamond back.
+
+“It was nice seeing you, Teepo.” She said and he waved to her again. “I felt like I was the only one that couldn't.”
+
+“Once Teepo told me he'd be revealed for everyone to see, I came right here to you.” Ren said.
+
+“Thank you.” Nathalia said, and kissed him. She turned to the counter, picked up the plates of food, and put them in the icebox. “Are you coming to bed?”
+
+“I really want to work on some things.” Ren said, and he felt Nathalia's disappointment. “Like sleep.” He said, and she felt his amusement at teasing her. Nathalia shook her head, turned off the stove, and hooked her arm in his. Teepo took off and flew up to land on the ceiling.
+
+“Then let's get a few hours sleep, so you can get up early and keep working.” Nathalia suggested.
+
+“How do you know I'm going to do that?” Ren asked as they walked through the main room, and she laughed.
+
+“You're forcing yourself to sleep now, so you can get the most out of whatever bonus you have tomorrow.” She said wisely, and he nodded slightly. They walked into the bedroom, stored their clothes, and climbed into bed. They snuggled closely together under the blanket and held onto each other. It didn't take long for them to relax in the comfort of each other's arms, and they drifted off to sleep.
+
+*
+
+Lylyth, the Queen of the Dark Elves, had a wonderful day even though she had to get a new attendant. The other one was too susceptible to her awakening abilities. Of course, the old attendant didn't want to be replaced, but she wasn't doing her job properly because she was too besotted with her queen to function.
+
+The attendant was quite sad about the whole situation, and Lylyth wrapped a Mana tendril around her to feel that deep sorrow. When the new attendant suggested that the queen could feed on the old attendant, the old attendant was so filled with joy and happiness that the queen gasped and tried to consume it. Surprisingly, she couldn't take it all in one sitting. After a while, she had to let the old attendant out of the Mana tendril.
+
+When the queen told her to rest and come back later, she was once again filled with happiness and left almost skipping.
+
+“Your abilities seem to be returning.” The new attendant said. “High Lord be damned.”
+
+Lylyth laughed. “Yes, the smug bastard exiled me and sent me here.” She said. “He didn't realize that all of my followers would come with me.”
+
+“More convert and arrive every day as well.” The attendant said, and Lylyth nodded.
+
+“We've been making headway into the High Elves society for decades.” Lylyth said. “It's taken a lot of hard work over the years; but, we will soon outnumber them.” She said and looked at the attendant. “Bring me one of the new acquisitions we captured trying to stop my followers.”
+
+The attendant bowed deeply and disappeared through the wall of spiders. She came back a few minutes later with a male High Elf that was bound, blindfolded, and gagged. She dropped him on the floor in front of her queen, and knelt beside him. She grabbed him by the hair and pulled his head up to face the queen, and he hissed in pain. The attendant laughed and lifted the blindfold. The male High Elf saw the Queen of the Dark Elves and screamed through the gag over his mouth.
+
+“Mmmm, yes. There it is.” Lylyth said, and stood up. She was just over 9 feet tall, and was about 2 feet taller than the male High Elf. She let her humanoid form go, and started to transform into her full form. The High Elf screamed and screamed as she became what she evolved into over thousands of years in this hellish place. Lylyth drank his terror down and it filled her up as she enjoyed how much the poor elf feared what was to come. She reached down from her 15 feet of transformed height and grabbed the High Elf by his collar. She picked him up and he continued to scream, over and over.
+
+“That's right, you insignificant fool.” Lylyth said. “Scream for me! Fill me with your terror!” She opened her mouth, and her jaw unhooked to reveal very sharp teeth and two mandibles unfolded from her mouth. The High Elf froze as he realized what she was going to do. He let out one long scream as the mandibles plunged into his chest and punctured his heart.
+
+That didn't kill him, however.
+
+Lylyth pumped her venom into him, directly into his heart. It turned black immediately, and continued to beat and pushed her venom through his entire body. It only took a few minutes to give him enough for the process to begin, and then she retracted her mandibles. They folded back up into her mouth, and she laid the High Elf on the floor.
+
+Her familiar came down from the wall of spiders and wrapped the male High Elf in webbing. It stuck the cocoon under his body and walked back up the wall of spiders and disappeared.
+
+*
+
+Ren woke up and asked Teepo how long he'd been asleep.
+
+“About 5 hours.” Teepo said.
+
+That's enough for me. Ren said, and extracted himself from Nathalia's warm embrace. He gave her a kiss, and she mumbled something in response. He smiled, equipped his clothing, and left the bedroom. How much time before breakfast?
+
+“Half an hour, give or take a few minutes.” Teepo responded.
+
+Ren picked up the Dire Wolf Hooded Cloak and put it on. He checked and made sure the tarantula was actually inside, and left the house. On his way to the stable, he glanced into the fire elemental's pen and saw that almost half of the wood and web pile was gone. He smiled as he went into the stable and over to Princess.
+
+“Good morning, Princess.” Ren said.
+
+Princess nodded to him. Good morning, My Lord.
+
+“I'm running out to the mines for a minute, then heading to the Garrison.” Ren said. “If the estimations are right, the giant attack should happen by noon, or sometime after that.”
+
+I will come with you. Princess stood up.
+
+“I can come back and get you before...”
+
+No. Princess thought at him, determined. We might miss the start, or even the whole battle, if you leave to come and get me.
+
+“I... okay. Yes, I think you're right.”
+
+You have something for me. Princess thought at him.
+
+“I can't hide anything from you anymore.” Ren chuckled, and took out the steel horseshoes.
+
+I won't give up my golden hooves for ugly metal. Princess said, a bit haughtily.
+
+“That's good, because you don't have to.” Ren said. “These go onto the hooves.”
+
+Princess perked up at that. Then apply them immediately! She said and lifted a hoof.
+
+“If only it was that easy.” Ren smiled. “Come with me to the workshop.”
+
+Ren led Princess out through the gate and up to the workshop. Once there, he had her wait by the door while he went in and filled a crucible with molten metal. He came back out with it, and she offered one of her front hooves. He was tempted to attach the horseshoes the old way, with nails up and into the hoof, but that would damage the Hooves of Speed that she wore. Ren carefully poured some molten metal along the top edge of one of the horseshoes, and pressed it to the underside of her hoof. Princess didn't even protest about the heat, because she knew that Ren would absorb it before it hurt her. He did that, and then did the other front hoof.
+
+“Can you try to resist kicking me when I grab your back leg?” Ren asked her, and walked around to see she already had a leg lifted for him.
+
+No promises. Princess thought in amusement, and he laughed. Ren applied the molten metal to the horseshoe and attached it to the back hoof, then she lifted the other back leg. With the final one attached, the horseshoes glowed for an instant, and applied it's boost to her speed.
+
+Wonderful! Princess thought, quite pleased with the boost to speed.
+
+“It is a Wondrous Item.” Ren said, and walked back around to her head. “Wait here, I'll be right back.”
+
+Just a moment. Princess thought to him.
+
+“What is it?” Ren asked, and then Princess stuck out her tongue and licked him from his chin to his forehead.
+
+Thank you. Princess thought to him, and he could feel how grateful she was. Ren chuckled as he used a cloth to wipe his face off.
+
+“You're welcome.” Ren said, and went back inside the workshop to the forge room. He made a mold on the floor in the shape of the same array bracket he'd made for his own armor and Tee-one's harness, and poured the gold and steel mix into it. He made holes in it for 12 wands, absorbed the heat and stored it, then poured it again. He did the same thing to that one, refilled the crucible, and then went to the workbench and stored all of the old Level 1 wands. Ren went back out to Princess, and looked at her armor.
+
+“I think the shoulders would be the best spot.” Ren said, took out one of the brackets, and used some of the molten metal to attach the bracket to her shoulder. He slid in 6 Web wands, and 6 Fireball wands. They sat securely, so he didn't have to solder them in. He repeated this with the other shoulder, and told Princess about the wands and how to use them.
+
+You have given me more weapons. Princess thought proudly. I am becoming a worthy companion for battle.
+
+Ren smiled and scratched her chin. “You've always been a worthy companion.” He said. “Now you're just better armed and armored.”
+
+Princess huffed, and he pat her neck before going back into the forge room. Ren remembered Teepo's idea about making the harness for Ruck, so he made a half circle mold on the floor in front of the second forge, and filled it with steel. He made holes in it, spaced every half inch, for wands. The only difference was that this array was 3 feet across the bottom of the circle.
+
+It's going to hold a lot of wands. Ren thought as he absorbed the heat from it, then stored it. He went out to Princess and led her back down to the Keep. “Please wait here for a minute.” He said, and went into the stable to get Ruck.
+
+Ruck was tucked into the corner, and had his legs folded up underneath him.
+
+“Hey, Ruck. I have something for you.” Ren said, and took out the array bracket. “It'll hold a lot of wands.” He said, and explained how they worked. “Do you want me to put it on you?”
+
+Ruck gave the 'okay' gesture, and Ren took out the crucible and applied some molten metal to the bottom of the bracket. He then mounted the array on the top cross bar of Ruck's back and absorbed the heat before it burned or melted anything. Ren took out a pile of wands and slid them into the holes; with the Fireball wands in the middle, and the Web wands all around them. When he was done, there were 120 wands in the array; 27 fireball, and 93 web. Since it didn't cost him any Mana for fire-based spells and enchantments, he changed 33 of the Web wands to cast Fireball instead.
+
+“Okay, you have 60 Fireball wands, and 60 Web wands.” Ren said. “Don't... I repeat DON'T... test them inside anywhere.” He chuckled. “Each Fireball spell does 8 to 12 damage.”
+
+Ruck thought about the implications, and nodded.
+
+“Your wand array is worth about 500 platinum.” Ren said. “So be careful. I don't mean with the array. That you can wreck and I don't care. It's you that I want to be careful. I told you how much it was, so you'd know you're worth more to me than that.”
+
+Ruck stepped close and gave him a quick hug.
+
+“Oh, before I forget.” Ren took out an Amulet of the Spider. “Put this on.”
+
+Ruck took it and sipped it on over his head and it immediately stuck to his body.
+
+“I know you can already climb walls and ceilings, but this lets you walk across webs without being caught in them.” Ren smiled. “If you're going to shoot off that many Web wands, you're going to need it!”
+
+Ruck pat Ren on top of the head, and Ren laughed.
+
+“I'm going to fight the giants that are trying to wipe out the giant refugees I tried so hard to save.” Ren said. “Want to come along?”
+
+Ruck gave him the 'thumbs up' gesture, and Ren left the stable with him close behind.
+
+“By the gods!” Wohrum exclaimed when he saw Ruck. “What happened to him?”
+
+“Massive upgrades, apparently.” Ren explained. “I think every few levels that he goes up, it increases his capacity to hold things.”
+
+“If this keeps up, he'll be the size of a house!” Wohrum said as they passed through the gate. “He won't be able to get through the gate soon.”
+
+“That's okay.” Ren said. “He can just climb over the walls anyways.” He walked over to Princess. “Do you think we should add the cart?”
+
+Princess brayed, and his two dogs, Riley and Stacy came out.
+
+“You want to come, too?” Ren asked, and they barked agreement. “I'm sorry I didn't ask you before.” He knelt in front of Stacy, and asked her to open her mouth. She had the Fireball wand clamped in her jaws; so he took it and the Deed to the Garrison, then put the wand back into the slot at the back of her throat. “I should make you wand arrays, but I'll do that later.”
+
+Ren went back into the courtyard to get the small cart that he'd adapted for Princess, attached it to her, and the dogs jumped into it. He then gave Stacy and Riley an Amulet of the Spider each. Once he told them what it did, they barked happily and licked his face. He pat them both on the head, then ran up to the workshop and went into the forge room. Tee-one was just coming out of the hidden passageway.
+
+“I was just going to look for you.” Ren said, and Tee-one tapped his own temple. Ren chuckled, handed Tee-one the Deed to the Garrison, and asked him to store it. He then gave him an Amulet of the Spider.
+
+“Thank you.” Tee-one said. “This will make working on the Keep so much easier.”
+
+“How is it coming along?”
+
+“I've just about finished the entire outside.” Tee-one said. “I've only got one more section before I break through to the surface.”
+
+“Nice.” Ren said. “When we switch to the inside, these amulets will definitely help us deal with crumbling floors, ceilings, and internal walls.” He smiled. “We'll still need ropes and things in case what we're standing on breaks, but otherwise...”
+
+“...all we need is time.” Tee-one finished for him.
+
+“I'd like to say I'll be back after the attack, but since I don't quite know when it'll start or how long it'll take...”
+
+“You better take these with you.” Tee-one said, and handed over 36 sets of full plate armor.
+
+“Holy crap!” Ren nearly yelled. “When did you make these?”
+
+“I've been making one every night.” Tee-one said. “They're also forged a dozen times.”
+
+Ren put a hand on his shoulder. “Thanks a lot, Tee-one.”
+
+“Now go and have fun.” Tee-one said and smiled. “I'll keep the home fires burning.”
+
+Ren chuckled, pat him on the shoulder, and turned around. “I think I'll take a forge with me, just in case.” He said and stored a forge and smelter, a pile of iron ore, then went out to the main part of the workshop. He stored the crate of wand-sized oval diamonds, and the various molds he'd made. He ran down to Princess and the cart, and told Ruck to climb aboard. Ruck eased himself up and into the cart, and the cart creaked and groaned.
+
+“I'd make a joke about you having to go on a diet; but, I think it's great that you're getting so big and strong.” Ren said.
+
+Ruck knelt down in the back, and was careful of the dogs.
+
+“Okay, Princess. Easy at first.” Ren said. “You've got a lot of extra weight on this time.”
+
+Princess huffed, and started to walk. It pulled the cart, and Ren felt her determination to not let this much weight slow her down.
+
+“We're stopping at a couple of farms.” Ren said. “We need to pick up some food ingredients for the giants.”
+
+Princess huffed again and started to trot. Once she got the mass moving, it became easier to pull and she poured on the speed. They moved at about the same speed as they did when Ren rode Princess by himself, and it only took a couple of minutes to get to the farm. It actually took longer to pick up the supplies of food than it did to get there.
+
+“The mines next.” Ren said as he got in the driver's seat, and Princess took off at a run.

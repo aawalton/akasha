@@ -1,0 +1,281 @@
+---
+id: 9b0c2a36-e95d-5d04-b9b8-b884de3d687e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 414 - New Friends?"
+slug: 0411-chapter-414-new-friends
+partOf: mythrans-master-of-all-continued-completed
+position: 411
+ownLength: 3322
+unit: words
+publishedAt: 2017-11-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172660/chapter-414-new-friends"
+royalRoadId: "172660"
+---
+
+Ren was deposited inside a small cave, and was surrounded by impenetrable rock, except for directly forward. He knew what that meant, and reached out to touch the rock beside him.
+
+Spirit of Earth... Ren thought and made an offer of 1,000 Mana. ...or one of your people. I'm a bit stuck, and I have a question.
+
+The rock beneath his hand rippled and one of the female Earth beings stepped out. Either fortunately or unfortunately, depending on how you looked at it, it put his hand at the exact height of her right breast. Ren was a bit surprised by this fact and poured the 1,000 Mana into her right away. She took a deep breath, and since he still had about 10 minutes left on the Stone Skin (Level 5) spell, it felt like a real breast and he didn't know what to do about it.
+
+“Thank you, Adventurer.” The female Earth being said. “How can I help you?”
+
+“Um...” Ren still held onto her breast, and he wasn't sure if he was supposed to keep a hold of it or let it go. He didn't want to insult her by removing his hand too quickly, and he didn't want her angry if he left his hand on her too long.
+
+“You have a question?” She asked.
+
+“Um... yes.” Ren said. “Ah... I seem to be locked in a certain direction, and can't dig where I want to.”
+
+“That wasn't a question.” She said, and ignored his hand on her.
+
+“Can you tell me why?” Ren asked, and decided to ignore it as well.
+
+“The higher up you go, the more difficult it is for you to deal with the circumstances.” The female Earth being said. “It's a progression of experience, knowledge, and trials.”
+
+“So, I'm intentionally being directed because I've been bypassing what I should have been doing.”
+
+“In a sense.” She said. “Letting you dig all the way to the surface wouldn't allow you to grow in your skills.”
+
+“Are you and your people doing it?”
+
+“What if we are?”
+
+“I'd ask you to stop, or plead if I must.” Ren said. “I honestly don't have the time to play around. I have people waiting for me, and I need to get back to them.” He said. “Can I make another offering for your help?”
+
+The female Earth being looked down at his hand on her breast. “If you use the other hand as well, I will consider it.”
+
+“R-really?” Ren asked, then cast Major Healing on himself to refill his Mana. He used his other hand to cup her other breast. I won't get exited by this, I won't get excited by this. He thought and poured 2,000 Mana into her.
+
+She grabbed his hands and took a really deep breath, which squeezed her chest into his hands. The tips of her breasts poked into his palms like small boulders, and she moaned a little as her body glowed from the feeling of so much Mana being given to her. Having her chest handled by a Surface Dweller just seemed to be something she enjoyed.
+
+By the gods. Ren thought as he looked into her eyes and absorbed some of what she was feeling. He couldn't stop his body from reacting to her reaction, either. Even though he didn't know this woman, she was definitely quite happy to be touched by him; and that made him happy in return. Making a woman happy was one of his triggers for desire, and he took several deep breaths to try and calm down.
+
+“Your offer... is accepted.” The female Earth being purred and let his hands go... a little reluctantly.
+
+Ren took that as the cue to let her chest go, and did so.
+
+“Let me... if only for... for a moment.” She said and she took a deep breath, and when Ren didn't protest, she knelt and hugged him.
+
+Ren liked hugs, and she was giving him a good one; so, he wrapped his arms around her and she moaned. She was fully pressed up against him and they could both feel how excited they both were. Her hands gripped him firmly for only another moment, then she let him go. She sat back on her heels and looked up at his face.
+
+“I'm such a deviant.” She said, and a pebble formed at the corner of her eye. “If the Spirit of Earth saw me now...”
+
+“I'm sure she won't shun you for liking hugs.” Ren said and caught the pebble. “Even if you did get one from a Surface Dweller.”
+
+The female Earth being smiled, and he could feel her gratitude. “I can only allow you to skip one level, as my authority in this part of your task is limited.” She said. “I believe you will miss an opportunity for another ability if you do jump ahead, though.”
+
+“Well, damn.” Ren said and stored the pebble. “What do you think I should do?”
+
+“To stay or go is a choice you must make for yourself.” She said. “You must weigh the potential use of a new ability against your urgency to reach the surface.”
+
+“How many more levels are there?” Ren asked.
+
+“As many as are required for you to learn what you need to learn to leave this place.”
+
+Ren sighed. “So, even if I skip this, I'll probably have to do something similar to it later.”
+
+“Possibly.”
+
+“All right.” Ren said. “I'll go through it properly.”
+
+The dirt in the only direction he could dig, moved out of the way to reveal a square tunnel, and the impenetrable rock on the sides and above him rippled away to become normal dirt and rock.
+
+“Good luck, Ren.” She said and stood up.
+
+“One for the road?” Ren asked and opened his arms, and he felt a burst of naughtiness and excitement from the female Earth being as she wrapped her arms around him and buried his face in her chest. She squeezed him tightly and he felt her happiness that he would let her indulge like that and let her hug him. He did his best to not kiss her chest, even though it was squeezing the cheeks of his face and the sides of his mouth. He let her go and stepped back, gave her a little wave, and walked down the tunnel to face the next task.
+
+********
+
+“I'm starting to hate those blue screens.” Barbara said, and Stella and Elise came into the room.
+
+“What's going on?” Stella asked.
+
+“I wish I knew.” Barbara said as the blue screen went away and she saw Ren walking down a square tunnel. “He was picked up by that big golem thing, and then the screen went blue.”
+
+“He must have met one of the elementals.” Elise said. “It's one of the things the programmers insisted on.”
+
+“What? That no one can see it?”
+
+“That's just a by-product.” Elise said. “They're naked.”
+
+“Wh-what?”
+
+Elise chuckled. “It kills two birds with one stone. Normal game players can't record footage of the divine beings when they do encounter them, and the divine beings know they can't be seen and can act freely when the time comes.”
+
+“You have got to be kidding me.” Barbara asked. “Why not just restrict the viewing?”
+
+Elise shrugged. “This does both at the same time.” She said. “Why worry about what people see, when you can just set it so they don't see anything. They don't even need any kind of monitoring software this way.”
+
+“I... okay, that makes sense.”
+
+Elise chuckled. “I've had this argument, especially over subjugation of women in roles of power.”
+
+“What? Really?”
+
+Elise nodded. “I fought so hard against it that they included males in the roles as well.”
+
+“Oh... well, I guess that's okay.” Barbara said.
+
+“You were against Ren seeing translucent women naked, but as long as there's translucent men, it's fine?” Stella laughed.
+
+“It sounds bad when you say it like that.” Barbara said, and Elise laughed, too.
+
+********
+
+Ren walked on and entered a cavern, and then he felt something really awful enter his Aura. It started to suck on his emotions and he blocked it immediately. He felt an immediate burst of anger from whoever it was, and then they moved quickly through his Aura. He equipped his full armor set and remembered that he had forgotten to repair it after it had been partially crushed from the giant throne golem picking him up. He winced and twisted to the right, the side that was crumpled, and the insubstantial blade missed his head by barely an inch.
+
+“You're fast.” The man said and came to a stop about 20 feet away. “No one has dodged my killing strike before.”
+
+“Leave him alone!” Wynphine demanded as she flew into the cavern. “He's done nothing to deserve-”
+
+“SHUT UP!” The man said and let a burst of anger out through his Submission Aura. It hit Wynphine and she fell to the cavern floor in a heap. He had wings similar to the succubus; but, his were grey instead of red. “You are my property, and no one takes what is mine!” The man said.
+
+“I literally don't have time for this!” Ren said and stored his damaged armor, equipped his hammerpick and enchanted it with 50 runes of Earth, then used Double Infusion to add another 50. Please accept this sacrifice, Spirit of Earth. He thought as he ran at the man and swung the hammerpick down onto the top of his head.
+
+The man tried to block, but the hammerpick continued down through his feeble attempt and continued down to the floor of the cave with absolutely no resistance. All Ren heard was a 'splorch' sound as a geyser of blood poured out and splashed across the floor, which covered him. Ren lifted the hammerpick and looked at the puddle and pair of large bat-like wings left on the floor, then turned the hammerpick to look at it. It had a dozen triangle drill bits on the end that turned ferociously, and apparently would mulch anything he hit with it.
+
+“That's so cool!” Teepo said. “No wonder the Spirit of Earth wanted to keep the meteor ore hidden!”
+
+“Murdrasu!” Wynphine exclaimed, and then looked at Ren. “You... you killed our... our Incubus.”
+
+Ren looked at the puddle, and he didn't want to touch it to loot it. Ugh, do I have to? He asked himself, then sighed and tried to only touch the surface. His fingers went into it and he almost gagged at how disgusting it felt; then he looted it and both the puddle of ooze and the wings disappeared.
+
+Notice!
+
+You have killed the Incubus for the brood of Succubi in Shargon Caverns.
+
+You have gained: 32,000 XP; 36 gold coins; 20 contracts with subservient Succubi; 1 Blood Sword; a wooden chest with 1,000 dry rations; pile of (22) 1 gold coin diamonds
+
+Notice!
+
+You have been corrupted! You have absorbed Incubus blood directly from the source through your skin. It's effects vary by those infected, and by the amount of blood absorbed.
+
+Current Corruption Level: 20%
+
+Warning: When Corruption reaches 100%, you will become deathly ill and die.
+
+Please note: Corruption resets upon death.
+
+Notice!
+
+You have gained the condition: Angered. Things that normally only bother you slightly, will piss you off. You will lash out unless you keep your emotions in check.
+
+Notice!
+
+You have gained the ability: Winged Flight Level 1 (Beginner 0%). This ability creates temporary wings for you to use in very limited flight. Higher levels will allow full flight and unlock both Sustained Flight and Hover abilities.
+
+“You have got to be kidding me!” Ren said, and then Wynphine stood up.
+
+“You killed... our INCUBUS!”
+
+“I did.” Ren said and then smiled. “Apparently, very easily.”
+
+“Ha... hahaha!” Wynphine laughed. She grabbed her sides and dropped to her knees, and laughed and laughed. “We... we've been... under him for... for...” She gasped and laughed again. “You... swatted him... like a bug!” She said and kept laughing.
+
+“I'd take exception to that; but, you did squish him good.” Teepo said, and then chittered in laughter.
+
+Seldanna stumbled into the cavern, like she was drunk, and came over to her sister. “Wh-what... are y-y-you... l-l-laughing at?” She slurred and Wynphine pointed to me.
+
+“He... ha ha... killed Murdrasu.”
+
+“Wh-what?” Seldanna looked at me, then at her sister, then back to me. “You... you didn't... you... you couldn't.”
+
+Ren didn't think she would believe him without proof, so he activated his Winged Flight ability. Large bat-like grey wings unfurled from Ren's back.
+
+“He... he did.” Seldanna said and dropped to her knees. “M-m-master.”
+
+“I am not your master!” Ren said angrily and concentrated on his Command Aura as he stomped over to them. “On your feet!” He commanded them, and Wynphine stood up right away. Seldanna kind of stood up, then stumbled into her sister. “What's wrong with you?”
+
+“You.” Wynphine said. “You gave her too much.”
+
+Ren calmed down at that, and reached out to put a hand on Seldanna's neck. He could feel her trying to struggle through her disabled ability, and he closed his eyes. He had a lot of practice sorting through emotions, and he used that knowledge to find the block on her ability. He found a large pile of love, and it was somehow stuck in the way and she couldn't deal with it.
+
+“You... you've never felt love before.” Ren said, and she blinked her eyes at him. He absorbed the love from her, because if she hadn't ever felt it, her ability was never going to be able to use it. Seldanna gasped as her ability started up again, and it brought her out of her false drunken state and she stared at Ren.
+
+“What... did you do?”
+
+“Helped more than hurt, hopefully.” Ren said. “Where are the rest of you?”
+
+“Chained up in his dungeon.” Wynphine said.
+
+“Take me there.” Ren said, and the two succubi walked a short distance and then took flight.
+
+“This is going to be fun!” Teepo said, and Ren took a short run and jumped up into the air. His wings were unfurled; but, he had no idea how to use them. He crashed to the ground a second later and slid to a stop on his face.
+
+“Mother fu-” Ren caught himself before he finished uttering the curse, and grit his teeth as he stood up. “Dammit.”
+
+“Just run for now.” Teepo suggested, and tried not to laugh. Ren took a deep breath as he deactivated his Winged Flight ability and ran after the two flying succubi.
+
+********
+
+“He just had wings.” Barbara said, surprised. “He grew wings!”
+
+“They should have been feathered, not bat wings.” Elise said. “I wonder if it's because of the corruption, or because of where he got it from?”
+
+“Does it matter?” Stella asked. “Our Ren is being twisted.”
+
+“What do you mean?” Elise asked.
+
+“What's this Angered condition thing? Why is he having to go through it?”
+
+“It's the corruption.” Elise said. “The more corrupted he gets, the more it will affect him.”
+
+“What kind of game is this?” Barbara asked. “You take people with the propensity for violence and make them more violent?”
+
+Elise chuckled. “No, it teaches hotheads to control themselves.” She said. “If they don't, when they die it resets. Also, when the corruption gets to 100%, they die and it resets. It's then that they usually realize how much they could have done if they'd only kept themselves in check.”
+
+“You do realize this is Ren, right?” Stella asked. “He's not aggressive, and he can't handle those kinds of emotions properly.”
+
+“What do you mean?”
+
+“He's going to bottle them up and keep them to himself.” Stella said.
+
+“He always has.” Barbara said. “Whenever he got angry, he always buried that feeling and covered it with a smile.”
+
+Elise looked from Stella to Barbara. “This... isn't going to work well for him.”
+
+“No, it isn't.” Stella said. “We should log him out and warn him.”
+
+“You shouldn't do that.” Elise said. “Not until he resets the corruption, anyways.”
+
+“And what do we do if he doesn't?” Barbara asked. “What if he keeps it, even after leaving these training grounds?”
+
+Elise opened her mouth to say that he wouldn't do that, then sighed. “I don't know.”
+
+“Well, you better think of something.” Stella said. “Because we know what he's like, and he is not an angry person. Going through this is not going to be fun for him, and that is going to make him unhappy.”
+
+********
+
+Ren ran after the succubi until they came to a gorge. It was about 300 feet across and the succubi were already halfway across it.
+
+“DAMMIT!” Ren yelled, and it echoed back to him. He made his hands into fists and took several deep breaths. Think, Ren. He thought to himself. What would I do if I wasn't angry?
+
+It took only a moment to think of something, and he took out the Wand of Transport and cast a Phantom Steed for himself. It was the same distorted version with the tree trunk like legs and extra wide head, and not like a horse at all. Ren climbed up into the saddle and it took flight.
+
+“I wonder if we can find someone to give us flying lessons.” Teepo said, and felt Ren's anger rise. “Riley and Stacy still haven't learned yet, and they are going to need to know once we get them out to the county.”
+
+Ren's anger subsided and he nodded. “You're right. The most they can do is glide, and flap their wings a little.”
+
+The Phantom Steed landed on the other side of the gorge and ran after the two succubi down a tunnel. There were several small creatures about a foot long on the walls of the tunnel, and Ren didn't know what they were besides having a slug-like appearance and 4 stubby legs.
+
+“Identify.”
+
+Dretch (Demon Spawn - Tiny)
+
+This creature is born of corruption and spawns randomly in areas where corruption is prevalent. It cannot fight or flee. It has no discernible eyes and a huge mouth, full of razor-sharp teeth.
+
+Ren dismissed the popup when he heard a general uproar in a cavern ahead of him, and he brought the Phantom Steed to a halt at the cavern's entrance. Inside was a large workshop where 9 succubi were cutting up those tiny dretches for some reason, and 9 more sat by each of the benches. They all wore shackles and chains that were attached to a large central lock in the middle of the room. He examined the chain, and discovered that they were the same chains that had held Lylyth, the Queen of the Dark Elves, restrained.
+
+“Him?” One of them asked. “He killed Murdrasu?”
+
+Wynphine turned her hands to the sides and mimed something getting squashed as she clapped her hands together.
+
+“It's time for shift change.” One of them said. Each of the 9 succubi stopped cutting and stepped back, then the 9 sitting down stood up and took their place. It was orderly and efficient, and the cutting resumed as the others sat down.
+
+“What are you doing?” Ren asked and climbed off of the Phantom Steed.
+
+“Staying alive.” One of them said and tossed the cut-off legs of the dretch slug onto the pile beside the bench, and the succubus that sat beside the bench picked a severed leg up and started eating it. “The meat of these little scavengers is highly prized, and as long as Murdrasu keeps sending the meat as offerings to the Minor Demon, it leaves us alone.”
+
+Ren felt a ripple of shock go through them, and all of the succubi stopped cutting up the slugs at the same time and dropped their knives.
+
+“Oops.” Ren said.

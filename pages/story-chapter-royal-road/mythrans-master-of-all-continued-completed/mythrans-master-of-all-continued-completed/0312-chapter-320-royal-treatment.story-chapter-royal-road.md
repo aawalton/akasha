@@ -1,0 +1,369 @@
+---
+id: a9f0e3bd-66f3-5619-8d55-d2b2ca964cd2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 320 - Royal Treatment"
+slug: 0312-chapter-320-royal-treatment
+partOf: mythrans-master-of-all-continued-completed
+position: 312
+ownLength: 3673
+unit: words
+publishedAt: 2017-07-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151436/chapter-320-royal-treatment"
+royalRoadId: "151436"
+---
+
+Ren woke up in bed with 5 women that only wore a small pair of underwear and nothing else. I could get used to this. He thought and looked up at the ceiling. Hey, Teepo.
+
+“Good morning, Ren.” Teepo said.
+
+Anything happen while I was away?
+
+“Not really.” Teepo said. “The captain still hasn't used the full engines, though.”
+
+Wow. Ren said. How far up did he manage to take it?
+
+“Almost half.” Teepo said. “I think he's scared of them and what they can do.” He chittered in delight. “How did everything go on your end?”
+
+Great. Ren thought and then concentrated on his Contact Aura, and it merged with the shared Aura his personal maids always had. Once he had shown them how to do it, they liked it's effects so much that they constantly concentrated on it and it never went away.
+
+I've moved into my new place and everything. Ren thought,
+
+“That is great.” Teepo said. “Is it as nice as you told me?”
+
+Ren remembered spending the afternoon with Lisa in the Jacuzzi and grinned. Better!
+
+Teepo chittered in laughter. “I wish I could see it for myself.”
+
+Me too, buddy. Ren thought to his friend. How's my time?
+
+“You're a little early for breakfast.” Teepo said. “That is, if you have it at the normal time. If you're having a late breakfast, then you're really early.”
+
+I think I've had enough relaxation for now. Ren thought and looked at the women that were draped over him. He could see 2 legs, 3 arms, a pair of feet, and the top of a head that he knew would be Andrela.
+
+How are they getting into these positions? Ren asked. It's like I'm a blanket or something.
+
+“They tried that once.” Teepo said. “It didn't work out too well.”
+
+I don't know if I should be glad that I wasn't here for that or not. Ren smiled.
+
+“Oh, be glad.” Teepo chittered in laughter. “Watching them struggle to try and lift you wasn't a pretty sight.”
+
+Ren snorted a laugh when he imagined his personal maids as they tried their best to move his extremely heavy unconscious body, and the sound woke one of them up.
+
+“Hm? Ren? Are you back?” Frikara asked and her head poked up from the pile of limbs.
+
+“Good morning.” Ren said. “Yes, I'm back.”
+
+“I'm glad.” Andrela said, and the top of the head he could see moved and she looked at him. “Good morning.”
+
+Ren saw several arms and legs stretch and pull away from him, then they all sat up.
+
+“Good morning!” Frikara said, then leaned forward with her lips puckered and made kissing motions with them. Ren felt her playfulness and knew she wasn't being serious; so he surprised her and gave her a quick kiss. Frikara kind of froze at the contact and blinked her eyes at him.
+
+“Um...”
+
+“My turn.” Andrela said, her face flushed red. Ren gave her a quick kiss, then did the same for Lusinia, Navruth, and Verwynn.
+
+“I seem to always be last.” Verwynn said.
+
+Ren looked at her. “I'm sorry.” He said and took her hand. “I meant to shuffle everyone around, and not show favor to anyone in particular.” He said and bent over her hand to lightly kiss it. “Please, forgive me.”
+
+“S-s-stop that.” Verwynn said and tried to take her hand back. “We're your personal maids. You can treat us however you like.”
+
+“I can?” Ren said and sat up straight. “Good!” He said and let her hand go. “From now on, you'll be treated like Queens!”
+
+“Wh-wh-what?!?”
+
+“Time for presents!” Ren said. “I already gave you brooches, necklaces and tiaras.” He smiled. “So, all that's left are matching bracelets and rings.”
+
+The 5 personal maids sat there in shock as Ren gave them each a set of bracelets covered in jewels, each with individual enchantments for all the main character stats. He also gave them each a raised platform ring and told them to think about the offensive element they want to have on them, and he would enchant them with it later. He then gave them each a Sending Ring that was connected to one of his own, and to each other; just like the Sending Squares he had given to the young kidnapped girls after he had rescued them from the Thieves Guild.
+
+The maids put on the two rings, one on each hand, since that was the limit that they could hold, and they looked at the bracelets and didn't know what to do with them.
+
+“You can put them on if you want.” Ren said. “They're all enchanted to be as light as possible, and the jewels are all recessed so they won't snag on anything.”
+
+“You... this is...” Navruth tried to say.
+
+“It's too much!” Frikara said. “We've already got a fortune in things from you! We can't possibly accept...”
+
+“You don't have to keep them if you don't want to.” Ren said. “They'll only work for you, though.”
+
+“What?”
+
+“I thought about each of you as I made them.” Ren said. “No one else can wear them.”
+
+“You did that on purpose?” Lusinia asked.
+
+Ren nodded slightly. “I want you all to have the best.” He said. “When I get the chance, I'll take the necklaces and tiaras back to modify them with enchantments for you.”
+
+“Ren...” Andrela said.
+
+“I'm not always going to be around, so I want you to have protection.” Ren said. “I have another idea that I'd like to try, but...” He sighed. “...I don't want to force you to do anything you don't want to.”
+
+“What's the idea?” Navruth asked, and Ren shook his head.
+
+“Now's not the time for it.” Ren said, and looked at their faces. “You don't really like these presents, do you?”
+
+“We love them!” Andrela exclaimed, and Ren felt everyone's agreement. “It's just... they... they're too expensive to... to waste on us.”
+
+“Oh, Andrela.” Ren smiled. “It's not a waste.” He cupped the side of her face. “In fact, it's not enough.”
+
+“Wh-what?”
+
+“I can't have Queens walking around in rags.” Ren said.
+
+“R-r-rags?”
+
+Ren nodded slightly. “I had a surprisingly large amount of spare time while I was away, and kept myself busy.” He said and got off the bed. He felt their slight disappointment that he got up, and he let his appreciation of them flow out. “I hope you like your new wardrobes.”
+
+“Our WHAT?!?”
+
+Ren pulled out 5 extra-large cabinets, with drawers, hangers, and shelves inside. It was just like the one he and Tee-one had made for Nathalia; and they were filled to the brim with clothing.
+
+“Ren!” Frikara exclaimed and hopped out of bed. “You... you...”
+
+“They aren't marked yet; but once you pick one, the clothes will adjust to fit you and it will be your cabinet.”
+
+“Oh, Ren.” Andrela said and got off the bed. “What are we going to do with all of our old clothes?”
+
+“That depends on if you want to keep them or not.” Ren said. “Do you want to keep them?”
+
+“By the gods, no.” Lusinia said. “Throgg bought them for us, and a lot of it looks horrible.”
+
+“Is that why you all seem to wear the same outfits every few days?” Ren asked, and they all nodded slightly. “Then I'm glad I thought of this.” He said and took out a large empty crate. “Please, choose a cabinet and throw your old clothes into this.”
+
+Ren felt how happy they were as they went through their old clothing and tossed them into the crate. They made it into a game, and started to see how far away they could be and still get the old clothing into the crate. This continued for nearly an hour, and Ren had breakfast made for them by the time they were done. They all sat down on the bed to eat.
+
+“You're too good to us.” Navruth said as she bit into a piece of french toast.
+
+Ren was about to comment about it, and she held a hand up to stop him.
+
+“Even if I wasn't a personal maid, I'd say the same thing.” Navruth said. “I haven't seen anyone get this much, not even from a marriage contract!”
+
+“None of us have.” Verwynn said, and looked at Ren. “If we weren't under contract with you already, we'd all be your fiance.”
+
+“Wait, what?” Ren asked and ate a piece of french toast. “How is that possible?”
+
+“If there are multiple contract holders after the year of courtship, they have a contest.” Lusinia said.
+
+“You're kidding!”
+
+“No.” Navruth said. “Whoever proves to be the better one wins, and the others are compensated.”
+
+Ren frowned. “Hold on.” He said. “Are you talking about men or women?”
+
+“Both.”
+
+“How...” Ren shook his head when he thought about it. “A man can make multiple contracts with a different woman in each House, since a woman can accept multiple contracts from men trying to court her.”
+
+“You got it.” Frikara said, and looked at her fellow maids. “We've seen it lots of times, but we've never been courted ourselves.”
+
+“Is it okay to say that those nameless men that didn't court you were ignorant fools?” Ren asked them, and they laughed.
+
+“That's a horrible thing to say; but, thank you.” Frikara said with a big grin on her face.
+
+They finished eating and Ren equipped his clothing and put on the Dire Wolf Hooded Cloak after he pet the tarantula tucked inside. He took a very generous helping of french toast to Princess, and she accepted it graciously. Zetaya the fire elemental took a couple of pieces, then Ren went out to the hallway and knocked on Orimihr's cabin door. Teepo dropped down onto Ren's shoulder to land on his preferred perch.
+
+“Oh, its you.” Orimihr said when he opened the door, then went back into the cabin.
+
+“I'm sorry I haven't been around.” Ren said handed him a plate of french toast.
+
+“No, thanks.” Orimihr said. “What do you want?”
+
+“I'd like for you to tell me everything you can about what happened to you.”
+
+Orimihr laughed. “I've been on this ship for a week, and you've completely ignored me until now.” He said. “Why should I tell you anything?”
+
+“I told you before that...” Ren sighed. “Never mind. You don't have to tell me anything.” He said and stored the plate of food and walked to the door.
+
+“You're giving up that easily?” Orimihr scoffed. “Some Adventurer you are.”
+
+“I'll get around to your quest eventually, but it's not a high priority.” Ren smiled. “I thought having you released was enough for now, and we'd have time to talk during this voyage.” He said. “I'm going to get busy again when we reach shore sometime tomorrow, though.”
+
+“What do you mean we'll reach shore tomorrow?” Orimihr asked, surprised. “It's supposed to take up to two weeks, or even longer depending on the cargo... and we're loaded to the rafters!”
+
+“It's the new engines we installed. They make the ship go 4 times as fast and reduce the burden it carries by the same amount.” Ren said. “The captain hasn't brought it up to full speed, though.”
+
+“How do you know that?”
+
+Teepo told me he's never brought it above half-speed. Ren thought. “We'd already be at the dock if he did.” Ren said and left the shocked Orimihr alone in his cabin.
+
+*
+
+Now that it was evening in real life, Clint and his friends had logged back into the game and had an ale together before heading out to finish their journey. He flicked the reins and the horse pulled the cart out of the stable.
+
+“Now tha' was a good ale.” Clint said.
+
+“You're telling me!” Hank said. “I've never spent that much silver on only one food item!”
+
+Tommy chuckled. “Forget the ale, man! What I can't believe is that Ren's frilly things have made it out this far!”
+
+“Jennifer was smoking hot in that lace see-through, wasn't she?” Billy laughed. “I even tipped her 20 silver because of it.”
+
+“Geez, Billy!” Dillon said. “You're supposed to save your money!”
+
+“It was worth it.” Billy said softly. “The way she moved, the way she kissed, the feel of that soft cloth on my...” He clamped his mouth shut and looked at the other guys. “I'm not talking about it!” He exclaimed. “I'm not!”
+
+His friends all laughed, because Billy always talked about it.
+
+*
+
+Ren walked down the hall to the door of the room with the large Jacuzzi in it, and knocked.
+
+“Come in, Ren.” Railyse said.
+
+“How did you know it was me?” Ren asked her as he came into the room.
+
+“You always knock.” Railyse smiled. “How are you?”
+
+“I'm fine.” Ren said. “A lot of people are worried about how much time I spent in the Water Realm, though.”
+
+“You were sucked out of time, they have a right to be worried.” Railyse said. “I'm on the opposite side of that right now.”
+
+Ren shut the door and walked over to her, and took her into a hug. “It's okay.” He said to her.
+
+“You were right, though.” Railyse said. “I shouldn't have taken this task.”
+
+“Don't doubt yourself already.” Ren said and held her tightly. “You're strong. You're powerful. You will do it.”
+
+“But...”
+
+“No buts!” Ren said. “It's already been over 50 years since you left.”
+
+Railyse nodded.
+
+“That's why you're questioning yourself, isn't it?” Ren asked her.
+
+“I can't help it.” Railyse said, and looked like she was about to cry. “I've been gone so long from there, and yet... it's been only... 4 days...”
+
+“Shh.” Ren said. “Do you want another feeding?”
+
+“No... no, that... I can't ask you to...”
+
+“It's fine.” Ren said, and dropped out of the shared Aura. He heard a ruckus and a moment later, the door to the other room burst open. “You're still here!” Frikara said, and the other maids came into the room behind her.
+
+Ren concentrated on the Contact Aura, and he felt their sadness and worry.
+
+“We thought... you might have been taken again...” Andrela said.
+
+“I'm sorry.” Ren said. “I only stopped sharing because I was going to... well, make myself cry.”
+
+“Excuse me?”
+
+“It's a delicacy where I come from, when someone sheds a tear for you.” Railyse said.
+
+“You wouldn't believe how long it took me to figure that out.” Ren said and smiled. “I always wondered why the water elemental was so desperate to absorb the tears I cried over it, when it was dying.”
+
+“Ren, we... don't leave us alone if you're here with us.” Verwynn said.
+
+“If I keep sharing with you, you'll feel what I feel.” Ren said. “I don't want to cause you pain like that.”
+
+“Will any tears work?” Frikara asked Railyse. “If we all feel what Ren feels and we cry, do you want our tears, too?”
+
+Railyse looked from Ren to them, then back to Ren. “They're serious, aren't they?”
+
+Ren nodded slightly. “This will be quite a feast for you, I think.”
+
+“I don't know what to say to such a generous offer.” Railyse said. “I would be honored to absorb your tears.”
+
+That had been the perfect thing to say, and the maids surrounded Ren and Railyse.
+
+“I'm going to re-live the water elemental's death.” Ren said to his maids. “If it becomes too hard for you to cope, I'll stop sharing right away.”
+
+The maids all nodded slightly and joined hands, and made a circle around Ren and Railyse.
+
+“Don't be afraid.” Railyse said as her hair changed from its camouflage into small water tendrils, that extended out to hover near the maid's faces to gather their tears.
+
+“Is everyone ready?” Ren asked, then he thought about finding the water elemental inside the engine.
+
+“By the gods, that poor thing!” Navruth said, and tears came to her eyes. The water tendril by her dabbed at her face softly and gathered them.
+
+Ren remembered pulling the poor thing out of the engine and despaired over its mangled shape.
+
+“No!” Andrela said, as tears poured down her face and the water tendril by her split into two and continuously dabbed her cheeks.
+
+Ren let the first of his tears escape as he remembered watching the water element's last moments, and Railyse kissed the tear away. Another followed it, and she licked his face to get it all. Everyone was crying at this point, and the water tendrils moved almost faster than the eye could see, in order to gather all of the shed tears.
+
+Railyse licked and sucked Ren's tears away, and her heart was overjoyed that he would share such things with her. Her body started to glow with all of the accumulated energy, and Ren ended the memory with the water elemental's death. One final burst of sorrow came out of him, and the personal maids sobbed at the memory.
+
+*
+
+Lylyth was glad that no one else was around at the moment, because she had collapsed to the floor and clutched at her chest. It's the same pain as before, only slightly weaker. She thought, slightly relieved. He's only remembering something.
+
+Lylyth took several deep breaths and stood up as the deep sorrow feeling went away, then was replaced with satisfaction.
+
+I will have to ask him what happened. Lylyth thought and sat down on her throne. She looked at her hands, and saw the old familiar web designs were starting to emerge on her skin. Oh, Ren. She thought. More, dearest one! Give me more!
+
+*
+
+Railyse couldn't believe the bounty she had received from Ren and his personal maids. It had recharged her powers and abilities even more than several days of floating in the Jacuzzi did.
+
+“Oh, Ren!” Railyse said and kissed him on the lips. “Thank you so much!”
+
+“You're welcome.” Ren said, and tasted a bit of morning dew.
+
+Notice!
+
+You have been anointed by the heir to the Water Realm. You have gained a temporary 5% bonus to all water-based or water-related enchantments, spells, and abilities for the next 24 hours.
+
+“I'm not the only one you should thank, though.” Ren said and smiled.
+
+“Yes, you're right!” Railyse said and turned to the closest maid. “Thank you, Frikara!” She said and kissed her on the lips. Ren felt Frikara's shock go through the Aura, and he added his amusement to it. Railyse went around and kissed all 5 of the maids, and they all received the bonus popup.
+
+“What... how...” Frikara finally managed to say, because she was still reeling from the kiss.
+
+“You've all been anointed by me.” Railyse said. “It's a blessing of Water, bestowed upon those that give of themselves to those in need.”
+
+Andrela put a hand to her lips. “But... a kiss?”
+
+“It's the quickest way.” Railyse said. “Although, I suppose I could spit on you...”
+
+“NO! No, that's okay.” Frikara said. “I definitely prefer a kiss instead of being spit on.”
+
+Ren snorted a laugh and flooded the shared Aura with his amusement. “Don't you just love different cultures?”
+
+Railyse chuckled as she slid back into the Jacuzzi, then the personal maids went back into the large cabin. Ren on the other hand, went down into the hold to see how Tee-one was doing.
+
+“Hi, Tee-one.” Ren said.
+
+“Long time, no see.” Tee-one said, and Ren chuckled.
+
+“I've been meaning to ask. Do you get things from me right away, or only when I think about it?”
+
+“I think it depends on if it's relevant to me.” Tee-one said. “With you being away and increasing your skills so much...” He smiled. “...I got it all as soon as you came back from the Water Realm.”
+
+Ren looked at him. “Could you still access my skills as if they were your own with me gone like that?”
+
+“Not at the new levels until you were back in this realm.” Tee-one said.
+
+“Huh.” Ren said. “Then, if we get separated, I can increase things; but, you won't get them until I come back.”
+
+“It's the same with any new skills you acquire while away.” Tee-one said.
+
+“So... you get a copy if I'm here, but...”
+
+“Just like when you go on Adventurer's business.” Tee-one said. “I can still access your last skill numbers.”
+
+“I don't know if that information will be useful or not later.” Ren said. “It's still good to know, though.”
+
+Tee-one nodded.
+
+“How's the back stock coming along?”
+
+“I've got a lot built up now.” Tee-one said. “I'll fill the second floor of the shop when we arrive.”
+
+“That's great, Tee-one.” Ren chuckled and pat his shoulder. “You've done a wonderful job.”
+
+“Thanks, Ren.” Tee-one said. “What do you want me to do now?”
+
+Ren took out 6 bracelets like the Bracelet of Magic that Tee-one wore to enhance his casting ability, that increased his Intelligence, Wisdom, Mana total, and Mana production.
+
+“I've finished enchanting these bracelets into Bracelets of Magic, but I haven't added the 6 jewels like I wanted to yet.” Ren said. “I tried adding more than that, but the Durability of the metal drops significantly if it's overloaded with too many jewels.”
+
+Tee-one nodded slightly as Ren took out a small crate full of diamonds that had already been sorted into 4 groups.
+
+“I want you to use my mastered Enchanting ability to enchant this set of jewels with Intelligence, this set with Wisdom, these with Mana Boost, and those with Mana Production.” Ren said. “That's 5 glyphs of 10 runes each, or 50 runes.”
+
+“You really must have missed being able to Double Infuse while you were gone.” Tee-one said, and Ren nodded slightly.
+
+“I can't wait to double up on these enchantments and put these Bracelets of Magic together.” Ren said and took out a Level 5 Wand of Major Healing so he could top up Tee-one's and his own Mana when they needed it. “Let's get to work.”

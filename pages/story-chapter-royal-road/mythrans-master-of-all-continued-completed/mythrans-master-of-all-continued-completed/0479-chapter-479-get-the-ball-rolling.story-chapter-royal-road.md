@@ -1,0 +1,311 @@
+---
+id: 67a415c1-6cc5-59cf-a7c7-b2caf335225f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 479 - Get The Ball Rolling"
+slug: 0479-chapter-479-get-the-ball-rolling
+partOf: mythrans-master-of-all-continued-completed
+position: 479
+ownLength: 3116
+unit: words
+publishedAt: 2018-01-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185975/chapter-479-get-the-ball-rolling"
+royalRoadId: "185975"
+---
+
+Ren looked around the High Elf architect's apartment when he and Yllana stepped inside. He saw half-finished plans, half-built models of odd-shaped buildings, and parchment papers covered every single surface in the entire apartment. The chairs, the couch, the bed, several workbenches, the walls, counter tops, and even the ceiling had plans stuck to it.
+
+They were also incomplete.
+
+“Thank you for letting me visit on such short notice, Lord Tathalyn.” Ren said.
+
+“It's no trouble.” Lord Tathalyn said. “When Lady Arthion asks me for a meeting, I grant it without question.” He smiled at the elfling in question. “You are fetching as always.”
+
+“Thank you, Lord Tathalyn.” Yllana said, and ignored the High Elf's oggling. “M'lord Ren would like some building plans.”
+
+“What does he have in mind?”
+
+“City plans.” Ren said. “Spires, apartments, houses, meeting rooms, businesses, and the like.”
+
+“Are you just interested in the architecture, or are you planning to build them?”
+
+“Both, actually.” Ren said. “How does that lift work?” He asked. “I have an idea; but, I know that isn't what it actually is.”
+
+Lord Tathalyn chuckled. “Yes, it's a wonder, isn't it? You build the building, and it has a lift inside.”
+
+“Wait, you don't add it?” Ren asked.
+
+“No, it's a part of the structure.” Lord Tathalyn said. “Each of the buildings when constructed, is infused with enough Mana to ensure it's operation.”
+
+“No way!” Ren said. “Do you have the plans for this spire?”
+
+“Of course I do.” Lord Tathalyn said. “I designed and built it.”
+
+“May I see them?” Ren asked.
+
+“Hm.” Lord Tathalyn rubbed his chin. “Your Honor is quite high; but, how do I know you won't be perverting my vision to your own ends?”
+
+“You don't.” Ren said. “If it makes you feel any better about sharing, I will be doing that.”
+
+“Excuse me?”
+
+“I will be making exact copies of your buildings for the High Elves when I make them another city to live in; but, that won't be the only thing I do with your designs.” Ren said. “I'm going to change, adapt, tear apart, rebuild, and reform them to my own ends. I'm going to achieve my own goals with that information.”
+
+The High Elf looked at Yllana for a moment, then looked back at Ren.
+
+“Your high Honor is well deserved.” Lord Tathalyn said. “I expected you to just admit using them for the city and leave it at that.” He smiled. “Volunteering that you're going to change my designs after that was more than was necessary to admit.”
+
+“I can clearly see your apartment, Lord Tathalyn.” Ren said. “You display your unfinished work because you are proud of it.”
+
+Lord Tathalyn laughed. “Yes! That's exactly right!” He said and pointed to the middle of the ceiling. “That right there is the plan for this very spire.”
+
+Ren looked up at the drawing and didn't get the popup for gaining the plans. “I can't copy them because they are incomplete.”
+
+“Yes, that's right.” Lord Tathalyn said. “You need the knowledge I have in here...” He tapped his temple. “...before the plans can be used.”
+
+“That's an ingenious way to keep your secrets.” Ren complimented him, and he smiled.
+
+“Someone can come in here and take everything, and it's all useless without my help.” Lord Tathalyn said.
+
+“May I have your help?” Ren asked. “I ask for myself, and for the thousands that will benefit from your work.”
+
+Lord Tathalyn walked over to a chair and sat down on it, and it didn't crumple the papers at all. “You can't expect me to give my life's work away for free.”
+
+“What would you like in return?” Ren asked.
+
+“I will give you all the plans that I have. In fact, I'll give you everything I've ever designed.” Lord Tathalyn said. “I only have two conditions.”
+
+“Name them.”
+
+“One, you must build at least one of everything, no matter how ridiculous it's appearance or it's function.”
+
+“Does it have to be within the city walls?” Ren asked.
+
+“Yes.”
+
+“What is the second condition?”
+
+“You help me design... and build... the world's largest tower.”
+
+Yllana gasped.
+
+“Do I need to do that first?” Ren asked.
+
+“I would prefer it, yes.”
+
+“I assume you want the tower in the middle of the city.”
+
+“I do, as it will be the main structure that everything is to be built around.” Lord Tathalyn said.
+
+“How tall do you want the tower?” Ren asked.
+
+“It has to be at least a mile high.” Lord Tathalyn smiled.
+
+“Luberos Eilceran Tathalyn!” Yllana said angrily. “That's preposterous!”
+
+“Those are my conditions.” Lord Tathalyn said to her, then looked at Ren. “What do you say M'lord?”
+
+Teepo spoke as Ren thought about it. “You've got about 15 minutes before you need to be at the castle's back gate to meet the healer's assistant.”
+
+“How big of a base is it going to need at that height?” Ren asked.
+
+“It depends on how deep into the ground we build the supports.” Lord Tathalyn said. “If we go with a straight up tower design, it would have to be very deep.”
+
+“Hm.” Ren thought about it. “I have another appointment I need to get to soon.” He said. “Let me think about it while I go run the errand, and I'll come back in 30 minutes to give my answer.”
+
+“That's fine.” Lord Tathalyn said and smiled. “I expected you to take several days, so 30 minutes is just delightful.”
+
+“Thank you.” Ren said and turned to Yllana. “M'lady, shall I escort you back home?”
+
+“I will remain here until you return, M'lord.” Yllana said. “Lord Tathalyn and I have a few things to discuss.”
+
+Ren gave her a regal bow, turned around, and left the apartment. He stepped into the lift and went to the ground.
+
+*
+
+After the apartment door closed, Yllana waited until she heard the lift take Ren down to the entrance, and she turned to slap Lord Tathalyn across the face.
+
+“How could you do that?!?” Yllana asked, and Lord Tathalyn laughed at her. She slapped him several more times in the face, shoulder, and chest. “You are taking advantage of a great man for your petty pipe dreams!”
+
+“Of course I am!” Lord Tathalyn said. “He asked me what I wanted, and I told him.”
+
+“He can't build a mile high tower before he builds a city for all those people to live in!” Yllana said. “The city alone will take years!” She exclaimed. “How long will this tower take?”
+
+“Like I told him, it depends on how we design it.” Lord Tathalyn said. “If we go with the straight spire, the framework could be done in a year.”
+
+Yllana shook her head in disbelief. “You are a despicable... rotten... underhanded...”
+
+“I've been dreaming of having the world's biggest tower my entire life.” Lord Tathalyn said. “If I can get him to help me build it, then I will.”
+
+“You better start filling in the plans for the buildings he actually wants.” Yllana said angrily. “You are to hand them over to him as soon as he agrees to your ridiculous condition!”
+
+Lord Tathalyn chuckled and tapped the workbench beside his chair. The side of it opened up, and inside were all the completed plans he had ever made. “I always keep a spare set, in case I forget something.”
+
+“You... you...” Yllana shook and clenched a fist. “If I didn't think I'd hurt myself, I'd punch you so hard right now!”
+
+Lord Tathalyn laughed.
+
+*
+
+Ren stepped out of the spire's door and ran up into the air and over to Yllana's two storey apartment that Princess stood on. “Let's go to the castle's back gate.”
+
+Princess huffed and Ren climbed up into the saddle, and she took off through the sky as Teepo chittered in delight. After a minute of enjoying the ride, Teepo spoke.
+
+“You're going to do it, aren't you?” Teepo asked.
+
+Yes. Ren thought to his friend. I'm going to cheat with it, too.
+
+Teepo chittered in laughter. “I'd expect nothing less.”
+
+They arrived at the Human Kingdom's castle a few minutes later, and landed by the back gate. They didn't have to wait long before the healer's assistant came out of the castle. She waved to him as soon as she saw him, and he waved back and jumped down from the saddle.
+
+“You're a little early.” The healer's assistant said, and Ren smiled.
+
+“I have a great friend who always keeps me on track.”
+
+“I'd like to have a friend like that.” She said.
+
+“Everyone should have a friend like Teepo.” Ren said. He felt Teepo's gratitude, and sent him his own gratitude in return. “How's the patient?”
+
+“She's recovering nicely.” The healer's assistant said. “Thanks to your timely intervention, we got to her well before the three day limit.”
+
+“Whew... I'm glad.” Ren said, and he felt relief. “Who was it?”
+
+“We can't say.” She said, and Ren looked at her with wide eyes. “King Alamast's orders.”
+
+Ren had a bad thought pass through his head. “Please tell me it's not Princess Diana.”
+
+The healer's assistant thought about it. “I suppose telling you who isn't sick is okay.” She said and smiled. “It's not the Princess.”
+
+“Thank you.” Ren said. “When will your tasks be done?”
+
+“In another 3 hours.” She said. “Once we observe her for another few hours and administer a few more healing sessions, she'll only need some rest and relaxation for the next couple of days.”
+
+“I'll be back to pick you and the healer up then.” Ren said, and took her hand. “Thank you for meeting me.”
+
+The healer's assistant laughed. “I needed the fresh air anyway.”
+
+Ren smiled and let her hand go, then climbed up onto Princess again.
+
+“See you soon.” She said, and she watched as Ren rode up into the sky and disappeared from her sight. “Even taking that ride, it's still amazing.”
+
+Ren arrived back at the High Elven site where Zetaya and Elerlyth were. “Hey, are you bored?”
+
+Zetaya let out the sound of snapping branches, and Elerlyth huffed at him.
+
+“I think that's an affirmative.” Ren said as he took out the All-Seeing Mirror and asked it for the closest nest of ghouls. He showed it to Elerlyth, Zetaya, and Princess, and he felt their eagerness. “Let's get this done.”
+
+“You should check your Staff of Earth.” Teepo suggested. “It's getting close to it's time limit.”
+
+“Thanks, Teepo.” Ren said and took out the staff and his wand with Permanent Widen Effect. He cast it on the staff and extended it's time by 50%. “Princess, easy pace with Zetaya.”
+
+“Yes, My Lord.” Princess said, and Zetaya stood up on it's 4 limbs and trotted away above the trees. Ren used his Fire Manipulation and Absorb Fire skills to stop the fire Zetaya left on the ground surrounding where it had laid down, and he and Elerlyth rode after the fire elemental. They arrived at the first nest and Ren used the Staff of Earth to pull the dirt and rocks away from the underground cavern. It wasn't as extensive as some of the others; but, it was still pretty big. He had barely opened up the main part when Elerlyth swooped in on her Phantom Steed Etheria and skewered one of the large ghouls through the chest with her sword, yanked it out and swung the sword around to decapitate it.
+
+“You could wait for a minute.” Ren chuckled and moved the rest of the dirt out of the way as the ghouls started to panic.
+
+“I'm not sorry.” Elerlyth said and spotted another large ghoul. Etheria deftly avoided getting grabbed by the other ghouls as they scrambled around, and Elerlyth dispatched the second large ghoul. The normal ghouls were in full rout now, and Ren took out the Generic Staff of Necromancy and activated the Ghoul Lure spell. Since his Aura covered the entire nest, the spell affected all of them. They stopped running away and stood still, which meant the spell wasn't powerful enough to override their panic completely.
+
+Zetaya didn't need any prompting as it scooped up a pile of ghouls and shoved them inside itself. Ren hopped off of Princess and walked over to Zetaya as he equipped his platinum armor.
+
+“Me, too.” Ren said, and with the next scoop, the fire elemental took Ren into itself as well. He started to sort the ghouls as the fire elemental emptied the nest, and there were only a handful to be healed. Ren left Zetaya and opened the cart still attached to Princess, and Zetaya spit out the saved ghouls.
+
+“It seems the longer we take to clear them out, the less there is to save.” Elerlyth said.
+
+“It seems that way.” Ren said, a little sadly as he took out the All-Seeing Mirror and asked it to show him the next ghoul horde. “It's not showing me anything, so they haven't gathered up yet and we can't take out a mass of them.”
+
+“Then let's nickle and dime these nests and try to delay another horde.” Elerlyth said, and Ren used the Staff of Earth to fill the cavern back in. “With only a few minutes for each one, we can do a lot of them before this evening.”
+
+Ren nodded. “I've got to go back and visit the architect in 20 minutes, and I might be there for a while.” He said. “It depends on how quickly we can design the tower that he wants.”
+
+“He wants a tower?” Elerlyth asked. “What for?”
+
+“He said he wants to build the world's largest tower.” Ren said. “I figure that alone is reason enough.”
+
+“You might want to ask him about it.” Elerlyth said. “It could be a summoning point, a Mana battery, or something really nasty.”
+
+Ren walked over to her through the air and cupped the side of her face. “Thank you.”
+
+Elerlyth's face flushed a darker grey. “For what?”
+
+“For making me think cautiously instead of just agreeing outright to make the tower.” Ren said. “I'll ask him and Yllana about why the tower should be built.”
+
+“Ren, I...” Elerlyth put her hand on his. “I'm just being skeptical.”
+
+“Yeah, and that's a good thing.” Ren smiled and kissed her. “Keep me grounded.”
+
+“Geez, you're pouring it on thick today.” Elerlyth said, and Ren chuckled.
+
+“Do you want me to really do that?” Ren asked.
+
+“No, we're busy.” Elerlyth said. “I don't need the distraction right now.”
+
+“Later it is, then.” Ren said and checked the All-Seeing Mirror. He showed Elerlyth and Zetaya the next nest and walked back to Princess. “Move out!”
+
+The group moved on, and as Elerlyth said, each nest only took about 3 minutes to do. They did 5 more nests, and then Ren had to go back to the architect. He told Zetaya to relax and Elerlyth to not let her guard down. He unhooked the ghoul cart from Princess, rode her back to the first High Elven city, and she landed on top of Yllana's apartment. Ren left her there and ran over to the architect's spire, went inside and up the lift, then knocked on the door and equipped his High Elven Court Uniform.
+
+“Come in.” A male voice said, and Ren opened the door. He could see that Yllana's face matched her emotions, despite her desperate attempt to not let it show. Ren walked right over to her and took her hand.
+
+“M'lady, please don't fret.” Ren said. “The situation is not as dire as you believe.”
+
+“Wh-what?” Yllana blinked her eyes at him. “Why would you say that?”
+
+“I can feel how anxious and angry you are.” Ren said. “Thank you for worrying about me.”
+
+“B-but...”
+
+Ren let her hand go and made an Amulet of Interrogation, then turned to look at Lord Tathalyn. “Why do you want the tower made?”
+
+“I told you.” Lord Tathalyn said. “I want my name on the world's tallest tower.”
+
+“That's the obvious reason.” Ren said. “I was actually going to let it go at that, but a friend pointed out a few things.” He smiled. “I want you to tell me the real reason you want it built.”
+
+Lord Tathalyn looked at the amulet in Ren's hand, and sighed.
+
+“What is it?” Yllana asked. “Why aren't you saying anything?”
+
+“He identified my amulet.” Ren said. “He knows what will happen if he speaks a lie.”
+
+“Luberos, you tell him right now.”
+
+“It's always been my dream.” Lord Tathalyn said. “Ever since I saw my first building, I wanted my name on the biggest one there is.” He said. “I've worked all of my long life to achieve this goal, and nothing I've ever done can compare to that dream.”
+
+The High Elf took in a deep breath and let it out. “I made a deal, centuries ago, with... someone.” He said and looked at the amulet. “They agreed to help me become powerful and successful enough to build the tower I've always wanted.”
+
+“But.” Ren said, and the High Elf smiled.
+
+“But, once I was powerful and successful enough, I discovered that the resources needed for such a thing were far beyond anything I could ever hope to buy.”
+
+“That's why you didn't ask me for money.” Ren said, and he nodded.
+
+“I could have dipped this tower in molten gold, and still not come close to touching my wealth.”
+
+“What does this... someone... get when you do build your tower?”
+
+“Something they have always wanted.” Lord Tathalyn said.
+
+“...and that is?” Yllana asked.
+
+“Me.”
+
+“NO!” Yllana exclaimed.
+
+“It's all right.” Lord Tathalyn said. “I've lived a long and prosperous life. I've designed everything I've ever wanted. I've done everything I ever wanted to do... except for this one thing.” He looked at Ren. “Please, help me complete my life's work.”
+
+Notice!
+
+You have been tasked to finish a famous architect's life-long work. It is a herculean task, and both it's rewards and penalties reflect that.
+
+Difficulty: A
+
+Rewards: Fame throughout the High Elven Kingdom; Maxed Honor Stat will be Locked (no gains or losses possible); 100,000 XP; XXXX
+
+Penalties for Failure: -100,000 Honor loss; Automatic Derision from High Elves; XXXX
+
+No time limit has been set for this quest.
+
+Wow. Ren thought in amazement. That's a risky proposition.
+
+“I hope your cheat works.” Teepo said.
+
+Oh, it will. Ren said and smiled. “Lord Tathalyn, I accept your request.”
+
+“Excellent!” Lord Tathalyn said and turned to his workbench, scooped up all the parchment paper designs placed there, and tossed them aside as if they were meaningless. “Let's get to work designing it right away!”

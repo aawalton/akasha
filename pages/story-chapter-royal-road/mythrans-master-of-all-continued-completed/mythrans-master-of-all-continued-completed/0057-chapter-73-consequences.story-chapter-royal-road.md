@@ -1,0 +1,419 @@
+---
+id: fb25df57-7cc0-53a2-8788-e3d4fb486b54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73 - Consequences"
+slug: 0057-chapter-73-consequences
+partOf: mythrans-master-of-all-continued-completed
+position: 57
+ownLength: 4055
+unit: words
+publishedAt: 2016-11-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101383/chapter-73-consequences"
+royalRoadId: "101383"
+---
+
+“What is what?” Ren asked.
+
+Elerlyth got a stern look on her face. “Don't lie to me, Ren.”
+
+Ren sighed. “What can you see, exactly?”
+
+“That's just it. I don't see anything.” Elerlyth said.
+
+“Then what...”
+
+“I can feel your feelings through it. It's faint, like something small, but it's right there.”
+
+Elerlyth pointed again and Teepo crawled over to Ren's other shoulder and her finger followed him.
+
+“When did you first feel it?” Ren asked.
+
+“When you sent us off to get something to eat, I felt it move from you and onto me. I didn't say anything at the time, because I wasn't sure what was happening; but then it settled on my shoulder and it stayed there. When we kissed just now, it moved back.” Elerlyth explained. “So... what is it? A spell? An enchantment? What?”
+
+Ren sighed. “It's a secret.”
+
+Elerlyth's eyes narrowed.
+
+“I haven't told anyone about it. No one else can see it, only me.” Ren said. “Why would I tell people stuff like that? They'd think I was crazy.”
+
+Elerlyth leaned back. “What do you do with it?”
+
+Ren knew he couldn't lie. “It keeps a lookout for me. I always know where it is. When you left to go get something to eat, I had a feeling you weren't coming back, so I tracked you here.”
+
+“You could have just asked me to stay.” Elerlyth said.
+
+Ren laughed. “Yeah, that was going to work.”
+
+She smiled and crossed her arms. It framed her chest nicely.
+
+Ren shook his head to stop staring at her cleavage and looked her in the eyes. “I actually have to log out, and there was no way you were going to stick around and wait for me to come back in.”
+
+Elerlyth nodded. “You're right. I've got stuff to do.”
+
+“Me, too.” Ren said.
+
+“So...” She said.
+
+“So...” He said.
+
+“I need to get going.” They both said and chuckled.
+
+Elerlyth leaned in and touched Ren on the neck again. That seemed to be her habit. “I'll be back to see you again soon.”
+
+Ren nodded. “I'll be looking forward to it.”
+
+They kissed briefly and Elerlyth walked away. She turned when she met up with Betrach and Emanon, and Ren waved to them. They waved back and walked down the road.
+
+Ren went back into the city and started to run. I am so late! He arrived back at Donan's shop and walked around the building to where Lucy's phantom form still sat. Ren sat beside her and tucked his legs in. I'll probably be gone for a couple of days, Teepo.
+
+“Okay. I'll see you when you get back.” Teepo said.
+
+Don't have too much fun without me. Ren thought and Teepo chittered in laughter.
+
+“Logout.”
+
+********
+
+Ren woke up in the real world and took off the VR headset.
+
+“Good morning, little stud.” Stella laughed at Ren's shocked expression.
+
+“Oh...my... God!” Ren exclaimed. “What the hell was I doing?!?”
+
+“Getting some action on the side, by the looks of it.” Stella grinned.
+
+Ren put his hands on his head and groaned. “What am I going to do?”
+
+“Have fun?” Stella suggested.
+
+Ren dropped his hands and glared at Stella, who put her hands up in a 'surrender' gesture.
+
+“I don't know what came over me in there.”
+
+“I'd say little Ren might have been influencing you.”
+
+“It wasn't like that.” Ren shook his head. “I was still me, but I felt drawn to her.”
+
+“She was quite pretty, even with the dark grey skin.” Stella said.
+
+“No, not like that. I mean, I noticed she was pretty but it was... was... ugh... I can't think of what it was like.” Ren said, exasperated.
+
+“A bee with honey?”
+
+Ren shook his head again. “No... more like... a fly and a spider. I was caught in her web.” Ren got out of bed, careful of his weak knee, and went to the bathroom. When he came out, Stella had a change of clothes for him.
+
+“You're about a half hour late for therapy.”
+
+“I know. I was supposed to log out the night before in the game, but things happened beyond my control.” Ren said and changed clothes.
+
+“Barbara filled me in on all the illicit details. You nearly gave the poor woman a heart attack.”
+
+Ren's mouth gaped open and Stella made him sit in the wheelchair.
+
+“Yes, poor Barbara was all in shock from you killing someone, finding a dead body, then getting put in jail!” Stella said as she wheeled Ren down the hall. “Then you met those hoodlums...”
+
+Ren stared at Stella as she went on about his encounter with the trio of criminals.
+
+“Then you got them out of jail, too! Poor Barbara was beside herself with worry all night.” Stella deposited Ren in the therapy room and left him shocked and dismayed at the mess he'd made in real life.
+
+*
+
+Lucy got up for work and changed into her uniform. When she checked her phone, she'd received a message saying her transfer to the clinic had been delayed and was pending a review, and she was to report to the lab for the day. Lucy smiled.
+
+Thank you, Ren! Lucy thought and called the hospital. She got the number for SID Tec from the nurse at the desk and dialed the company's tech support. She stayed on hold for 15 minutes and then someone answered.
+
+“SID Tec, Tech Department.”
+
+“Hi, I'd like to report an assault.”
+
+“I'm sorry, ma'am. This isn't the police.”
+
+Lucy sighed. “It happened in the game.”
+
+There was silence on the phone. “Just a minute.”
+
+Lucy waited through another 5 minutes of elevator music before the phone was answered again.
+
+“Tech Supervisor.”
+
+“Hi, I'd like to report an assault that happened in the game.” Lucy said.
+
+“Okay. What was the nature of the assault?” The man asked.
+
+Lucy ran through the whole incident and how she had dealt with it.
+
+“What exactly do you want us to do about it?”
+
+Lucy sighed again. “I'd like for you to take it seriously and put a stop to it.”
+
+“I'm sorry, but she didn't break any of the game's rules, or laws for that matter.”
+
+“WHAT?!?” Lucy said.
+
+There was silence for a moment on the line and then the man continued. “You handled the situation well... in my own personal opinion, and not that of the company as a whole. Gamewise? There's nothing we can do.”
+
+“Why not?”
+
+“I told you. No laws or game rules were broken.”
+
+“So anyone, at any time, can nearly kill another player and you won't do anything about it?” Lucy asked, flabbergasted.
+
+“There's a PVP option in the game. You may want to enter that to deal with the problem instead... but that's also my own personal opinion, and does not reflect the policies of the company or any of it's other employees.”
+
+“What about... what was it... oh, blocking them?” Lucy asked.
+
+“Currently, there's no option for that in the game... at least in the way you mean. You can stop them from sending you messages, but you'd still be able to see and interact with them.”
+
+“You've been a BIG help, thank you very much!” Lucy said with as much scorn as she could muster and hung up. Lucy looked at her watch and grabbed her house keys. She still had to get to work, and if she hurried, she'd make it just in time.
+
+*
+
+The CEO of SID Tec, Edward Torren, hung up the phone and sighed. It just keeps getting better and better, doesn't it? He stood up and walked round his desk, then sat on the edge. Do I really want to confront her like this? Edward sighed again and a moment later stepped into the outer office.
+
+“Elise, can I speak to you for a minute?”
+
+Elise stopped typing and got up from her desk. Edward went back into his office and Elise followed him and sat in the visitor's chair. Edward sat on the edge of his desk and faced her.
+
+“I just got off the phone with Max.”
+
+Elise nodded because she'd connected the call.
+
+“He said he just received a... very interesting phone call.”
+
+Why is he telling me this? Elise thought.
+
+“Someone called to report an assault that happened in the game... by you.” Edward said.
+
+Elise's eyes widened. “I... I may have gotten a little out of hand, but I would never assault anyone!”
+
+Edward sighed. “You almost killed Ren, Elise.”
+
+“WHAT!?!” Elise exclaimed.
+
+“I had Max pull Ren's stats for that period, and his health had dropped steadily. If that other woman hadn't intervened...”
+
+Elise's face lost all it's color as the blood drained from it. “I.. I didn't mean... I was... I was just so excited that he'd shown up.”
+
+Edward leaned over and put a hand on her shoulder. “Almost strangling him wasn't a good way to thank him.”
+
+Elise took a deep breath and sat back in the chair as tears came to her eyes. “I've messed things up... so badly! First in the tech lab, and now in the game.” She said and tears flowed down her cheeks.
+
+“You might want to stay away from Ren for a while.” Edward suggested.
+
+Elise looked at him like he'd just kicked her in the stomach. Edward winced mentally.
+
+“I should at least apologize first...” Elise said.
+
+Edward sighed again. “Elise...”
+
+“I know... I know... I'm addicted to him!” She said. “He's just so cute and cuddly and strong and smart and...”
+
+“Elise!” Edward nearly shouted.
+
+Elise sighed. “Okay... okay. I'll leave him alone.” She said. “Right after I apologize.”
+
+Edward frowned.
+
+Elise held up a hand. “Send in Max with me, or come yourself. The next time Ren logs in, you can escort me, all right?”
+
+Edward knew she wasn't going to let this go if he didn't agree, and he nodded. Whether or not it was going to be a mistake, only time would tell.
+
+*
+
+Ren did an abbreviated physical therapy session and actually managed to walk a good distance. Once he sat down in the wheelchair to recover, the therapist examined his broken finger.
+
+“I think it's time this came off.” She said. “I'll let the doctor know.”
+
+Ren looked down at it shrugged. Stella came in and took Ren back to his room. Ren got a shower and changed into a new set of pyjamas. He climbed into bed and laid back.
+
+“Stella? Do you have your cell phone?” Ren asked.
+
+Stella nodded.
+
+“Can I borrow it for a minute?”
+
+Stella's eyes widened and she unlocked it then handed it over. “Keep it short.”
+
+Ren nodded and checked her contacts. He found Lucy and hit dial. Lucy's phone rang a few times.
+
+“Voicemail.” Ren said. “Hi, Lucy. It's Ren. Um... something happened in the game... and I don't know what to do about it. If you could call back, or even come and visit, I want to tell you wha-” The phone cut him off.
+
+Ren held the phone out to Stella. “Ran out of space.”
+
+Stella put the phone back into her pocket. “Do you want a late breakfast, or wait for lunch?”
+
+“I can wait.” Ren said. “I don't want you to do more work than you have to.”
+
+Stella laughed. “It's no trouble. We're here to help you, Ren. If you're hungry now, I'll get it for you.”
+
+Ren reached out and took her hand. “Thanks, Stella. I can wait.”
+
+She nodded and Ren picked up the remote and turned on the television, then dropped the remote and pulled over the laptop. Ren searched the forums and the net, for anything similar to Elerlyth's abilities, to try and explain what had happened. Stella brought in lunch and Ren ate it without looking and continued to search. It took hours to dig up everything that could be found about dark elves and drows, and he only found a single obscure reference for a fear eating ability... and then the use of venom to cause such fear.
+
+“That's it!” Ren said. “When she said in my ear that I'd be much easier to control with her venom in me, I actually thought she meant because she had her nail in my neck and had poisoned me... it never occured to me that she meant the venom itself would do it!”
+
+Ren closed the laptop and convinced himself that when he got back in the game, he'd spend some time making potions to replace the ones he'd used... and some of them would be vials of antidote.
+
+“Stella? Can I borrow your phone again?”
+
+*
+
+Lucy's phone vibrated in her pocket and she checked it. Stella again! I'm getting pretty tired of your teasing me about Ren. Lucy thought and put the phone away.
+
+*
+
+Clint sat behind the desk of his 'office'. It was just a table in the shed on his ranch in real life, but it was his space and that was just fine. His VR mount business had taken off and he had several players in the game taking care of the day to day running of the place, so he could go out adventuring whenever he wanted. He wasn't hurting for money at all, but then Clint frowned.
+
+“Ah wonder when Ren'll make my new weapons? It's gettin' harder n' harder to git high level mounts ta sell wit th' piddly one's ah got now.”
+
+*
+
+Ren's left ear started to ring and he rubbed it. Someone's thinking about me.  Ren thought. Since his ears almost always rang from tinnitus at random times and for no reason, he always made a joke about someone thinking of him. I wonder who it is?
+
+*
+
+Tristan was throwing another fit and tossing things around his room. A minute later, he calmed down, sat at his computer, and started typing.
+
+Tristan:  What do you mean you can't find him?
+
+User36:  It's just like I said. We showed up at his respawn point, but he'd already left.
+
+Tristan:  Track him down! He couldn't have gone far!
+
+User36:  He's an experienced Tracker himself. There's no tracks to follow.
+
+Tristan:  ...Fine. Send word out on the Network that I want him found.
+
+User36:  Are you sure about that? It's going to cost you.
+
+Tristan:  Just do it... and only pay for real information.
+
+User36:  Consider it done. Will keep you updated.
+
+Tristan sat back and rubbed his nose. It won't cost me as much as it will if I don't get that coin back.
+
+*
+
+Ren sat in silence as the doctor unbandaged his pinky finger and then flexed it manually.
+
+“Okay, Ren. It looks good. Can you move it for me?”
+
+Ren lifted his hand up and moved the whole finger.
+
+“Now just the tip, if you would.”
+
+Ren tried to move just the tip, but the whole finger bent instead. Ren tried several times, but his finger always bent both joints. “I can't do it, Doctor Hobbard.”
+
+“Good.” He said and stood.
+
+Ren stared at him and the doctor laughed. “If you'd only moved the tip, there could have been unseen damage to the tendons in the middle knuckle, and we'd probably have to open it up and see if it could be fixed.” He chuckled again at Ren's expression. “Go ahead and do the same exercise with your other hand.”
+
+Ren lifted his other hand and tried to move just the tip of his pinky finger, but both joints bent instead. “Would you look at that!” Ren said and held both hands up and flexed his pinky fingers several times. “That is both weird and cool at the same time.” Ren chuckled.
+
+Stella laughed and the doctor left the room.
+
+“Ready for supper?” Stella asked.
+
+Ren stopped admiring his fingers and nodded. “Please.”
+
+Ren ate a quick supper and relaxed. He only had to wait for a few more hours for the shift change. Things needed to be explained to Barbara and Lucy before he could even think about logging back into the game. Ren looked at the television, but wasn't really watching it. How am I going to explain it? Ren thought. Will Lucy even believe me?
+
+Ren got the brilliant idea to edit the footage and make a video compilation of what happened, making sure to leave nothing out. He didn't want the relationship to end because he lied about something. Ren slowed the video down during the important parts, and left it sped up for the long and boring parts. By the time the video was done, the nurse's shift had changed and Barbara came into the room and nearly tackled him.
+
+It took a long time to convince Barbara of what had really happened, even with the video, and Ren sighed afterwards. His prospects of convincing Lucy weren't very good. He could only hope that his sincerity and regret for the way things had turned out in the game would be enough for Lucy to forgive him for his behavior.
+
+*
+
+Lucy sat at a table in the cafeteria to grab a quick bite before heading back to finish the double shift she'd been scheduled to do. She shook her head as she ate a plate of fries and dipped each into the ketchup on the side. Ren's gotten me used to having gravy fries. Lucy thought as she continued to eat the bland fries. She took out her phone and scrolled through her missed messages. The only ones she hadn't listened to already were from Stella, and she sighed. Might as well get it over with.
+
+Lucy hit play and Ren's voice came out of her phone. The first message sounded like he was depressed about doing something in the game. Lucy had paid quite a bit of money for the VR headset she'd bought, only to find out later the guy had scammed her for the cheapest model on the market. He'd disappeared with her money and Lucy's budget had suffered tremendously since. Playing the game was fun in some respects, but she just didn't get as much out of it as Ren did.
+
+Lucy played the second message, and it was a bit more frantic, but still lacked details. She looked at the time and saw it was midnight and shrugged. Ren is probably playing right now... but I guess I could stop in. Lucy thought and finished her meal. She took the long way around the cafeteria to avoid the other lab people, and took the elevator up to Ren's floor.
+
+*
+
+Ren and Barbara were watching a late night talk show when Lucy came in.
+
+“I'll just go and grab a snack.” Barbara said and left quickly, holding Lucy's arm as she passed by.
+
+Lucy stared at Barbara until the door shut behind her, and then turned to Ren.
+
+“Lucy... I...” Ren tried to say. “Please, come sit down.”
+
+Lucy walked to the side of the bed and sat down.
+
+“There's something that I have to tell you.” Ren said... and then he did. The whole thing, leaving nothing out. Lucy's face closed down about halfway through and Ren confirmed that he was in serious trouble. He cued up the video and went through it step by step, just like with Barbara, highlighting the points he wanted to make. Showing Lucy where he'd been repeatedly poked with Elerlyth's sharp nails. Ren showed the research he'd done with the dark elves and drow, finding the only reference to explain what he believed to have happened.
+
+When Ren was done telling the story, he apologized profusely, but Lucy didn't look like she believed him.
+
+“That's quite the excuse you've come up with.” Lucy finally said with a voice devoid of all tone.
+
+Ren sighed. “Lucy... it's not an excuse.”
+
+Lucy looked at him.
+
+“All I'm doing is explaining what happened. There's no excuse for my behavior.” Ren said.
+
+Lucy nodded.On that part, I agree.
+
+“There's nothing that I can do, except apologize. I can't take back the things that I've done... no matter the cause.” Ren said. “I've got a plan to try and stop it from happening again, but once I go back in the game, I don't know if I'll be able to do it.”
+
+Lucy looked at him again. “Once you go back?”
+
+“I haven't logged back in since this happened.” Ren sighed. “I kinda freaked out when I got out the last time... and I didn't want to go back in until I talked to you.”
+
+Lucy's eyes widened at that. If he logged out this morning, or I guess yesterday morning now, he's been out for 3 game days already.
+
+“I need your help.” Ren said.
+
+Lucy squinted her eyes at that.
+
+“I want to go back in and make some potions to replace the ones I've used, but I'm worried I won't even think about taking an antidote for myself.”
+
+“Why not?” Lucy asked.
+
+Ren sighed again. “I... I don't know how to explain it. I've never had anything like this happen before.” Ren said.
+
+“You seem to say that a lot.” Lucy commented.
+
+Ren nodded. “I do. I'm always breaking new ground with everything... but this was ground I would have rathered not even touch, let alone break.”
+
+Lucy raised her eyebrows.
+
+Ren shook his head. “I just told you that I considered you my girlfriend and then this happened.” Ren waved to the screen that still had a close up image of Elerlyth's nail stuck in Ren's neck. “Cheating on you, no matter the reason... even though it was just in the game, really is no excuse.”
+
+Lucy nodded.
+
+“I'm just glad that all I did was kiss her.” Ren said and his face flushed a little red. “I've been saving myself for someone special. Someone that was important to me.”
+
+Lucy's eyes widened at that.
+
+Ren chuckled. “I know... it's not like I've had tons of opportunities to spread myself around or anything.” Ren said. “But I still want my first experience with... ah... being with someone... to be with someone I care about... a lot.”
+
+It was Lucy's turn for her face to flush a little red.
+
+“At this point, though... unless you help me, I might not get much of a choice in the matter.”
+
+Lucy took a deep breath and nodded. Ren reached out a hand and Lucy pulled back. He dropped his hand and told Lucy the plan. Lucy said she had to finish her double shift first and Ren nodded.
+
+“Just call and let me know when you can go in. I can wait until then.” Ren said.
+
+Lucy looked at him sceptically, and Ren laughed.
+
+“Yeah, I'm kinda addicted to the game... I can do so many things in there that I can't even imagine out here.” Ren said. “But... I've jeopardized my relationship with you by not being more careful, and I don't want to make that mistake again.”
+
+“I'm going to be exhaused after this shift, so I'll probably sleep for a while.” Lucy said. “Are you okay with it being tomorrow afternoon? That's a lot of game time you're missing.”
+
+Ren didn't reach for her hand this time, but he nodded. “I can wait for as long as I have to for your help.” Ren said and smiled. “Thank you, Lucy.”
+
+Lucy nodded and stood up. She hesitated for a moment, then took Ren's hand. He gave it a squeeze and Lucy left. She was a little late getting back from her lunch break.
+
+*
+
+No one at the lab said anything when Lucy came in late from lunch. Their plan to get rid of her hadn't worked and they didn't know what to do with her now.
+
+*
+
+Ren laid back in the bed and Barbara came in. She saw that Ren looked like he was on the verge of tears and gave him a hug. The rest of the night passed as it always did, except there were no VR visits for Ren and he slept fitfully, tossing and turning. The morning arrived and after the nurse's shift change, Bonnie came in. Ren did his regular schedule of breakfast, physiotherapy, and a shower; then watched television and waited.
+
+Hoping the whole time that his plan would work.

@@ -1,0 +1,337 @@
+---
+id: 87f0ebfa-a254-5288-adc7-d814567b05fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 391 - Deal With It"
+slug: 0386-chapter-391-deal-with-it
+partOf: mythrans-master-of-all-continued-completed
+position: 386
+ownLength: 3380
+unit: words
+publishedAt: 2017-10-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168658/chapter-391-deal-with-it"
+royalRoadId: "168658"
+---
+
+Ren stepped through the portal into the Queen of the Dark Elves throne room. He looked around and saw that no one else was there except for the Queen on her throne, her attendant, and the healer. He gave the Queen a regal bow, and she chuckled.
+
+“Royal Consort, we are alone here. You do not need to bow to me.”
+
+“I always need to.” Ren said. “I won't show you any disrespect.”
+
+Lylyth felt that he was telling the truth, and nodded slightly. “It hasn't been that long since you left. What has brought you back to me so soon?”
+
+“I won't lie and say it's you, even though that would have been a nice lie to tell.” Ren smiled for a moment, and then took a deep breath. “What brings me here is... it's something that...”
+
+Lylyth felt his sorrow and anger, so she stood up and walked over to him. She knelt in front of him and held out a hand. Ren took her hand and held it, then sighed.
+
+“I came across something disturbing on my latest quest.” Ren said. “An underground cavern used for making ghouls.” He didn't feel shock or surprise from Lylyth, the healer, or the attendant.
+
+“I've heard of such things.” Lylyth said. “I assume it was in some remote town where the people are being harvested?”
+
+Ren nodded. “The quest is to save the townspeople from the scourge that has plagued them.” He said. “Now it's time for the difficult question.”
+
+“You may ask it.”
+
+“Do you have your underlings set these things up?” Ren asked her, and he was relieved when he felt her surprise.
+
+“No. Such things are taboo among both the Elves and Dark Elves.” Lylyth said. “Even in preparation for war, corrupting a different species to give them Elven traits is anathema to our goals.”
+
+Ren felt the truth in her words. “I'm glad to hear that from you...” He smiled for a moment, then asked another question. “...but, is there anyone in your society that doesn't believe that?”
+
+A small ripple of uneasiness went through the room; and Ren, Lylyth and the healer looked at the Queen's attendant.
+
+“Just because I think using every resource we have to win is a good idea, doesn't mean I'm behind it.” The attendant said.
+
+“There's a specific reason why I'm asking these questions.” Ren said and took out the large sack. Blood spots could be clearly seen in the fabric, and he opened it and dumped 9 severed heads onto the floor.
+
+“Arcturis!” The attendant exclaimed, then covered her mouth. Lylyth sighed as she felt the attendant's pain of loss.
+
+“What happened to them?” Lylyth asked.
+
+“I killed them.” Ren said. “I found a cavern with about 200 captive humans, all in various states of becoming ghouls.”
+
+“That doesn't explain-”
+
+“I also found a hidden passage to the Underworld in the same cavern, and...” Ren picked up Grimlow's head. “...I felt this guy and the others enter my Aura and pick up speed when they felt me.” He said. “When they appeared, I dealt with them.”
+
+“They could have just-”
+
+“No.” Ren said, to cut off any kind of justification. “I've encountered ghouls before. They don't listen or even abide by 'outsiders'.” He explained. “That cavern has been there a long time, and it's an extensive set-up.”
+
+“But...”
+
+“The captives are being held in metal cages.” Ren said and Lylyth felt his resolve. “Ghouls don't craft anything except other ghouls. The only way for them to get a dozen metal cages...”
+
+“The cages were made and given to them.” Lylyth said, and stood up. “I will investigate this further.” She said. “Where is the entrance?”
+
+“I have no idea where it is on this side of the portal.” Ren said. “I blocked the door from the other side, though.”
+
+Lylyth nodded. “Will you leave this with me?”
+
+“Of course.” Ren said. “I came to you right away, once I discovered that Dark Elves were involved with it.” He gathered up the heads to put them back in the sack, tied it, and handed it to Lylyth. “I'm really sorry.”
+
+“Dearest one, you are considerate to be concerned over my feelings.” Lylyth said and opened a portal. “Go back to your friends and finish your quest.”
+
+“Thank you.” Ren said and kissed her hand, gave her another regal bow, and stepped through the portal.
+
+*
+
+Lylyth's emotions didn't change at all as she whipped around to throw the sack of heads at her attendant. It hit the unsuspecting woman in the chest and threw her backwards into the wall. It knocked the breath out of her; then both she and the sack bounced off the wall and fell into a heap on the floor.
+
+“You knew about this.” Lylyth said.
+
+“My... My Queen.” The attendant said when she started breathing again. “I... I didn't...”
+
+Lylyth felt the lie and sighed. “Why would you keep this from me?”
+
+“My... My Queen, I...” The attendant stopped talking and Lylyth went over to her. She grabbed the attendant by the hair and picked her up.
+
+“You will tell me everything you know about this...” Lylyth shook her slightly, and the attendant's body flopped around like a rag doll. “...or I will make you tell me.”
+
+*
+
+Ren stepped out of the portal and looked at the 9 headless bodies. He looked around to see if there was anything to put them in, and when he didn't find anything, he made a cart for them. It only took a couple of minutes to build, and Ren tossed the bodies into it.
+
+“You're taking the bodies, but not us?” Someone asked.
+
+“Quiet! Do you want him to kill you, too?”
+
+Ren ignored them, then dragged the cart out of the defunct ghoul factory and up the tunnel.
+
+“They're just angry that you're not letting them out.” Teepo said and came in for a landing on Ren's shoulder.
+
+They have a right to be angry. Ren thought, and used the Staff of Earth to block off the other tunnels. They were attacked, kidnapped, imprisoned, attacked again, and now we're keeping them imprisoned.
+
+“It's for their own good.” Teepo said.
+
+It's nice to believe that. Ren said. I can only hope that they can be cured and might someday forgive us.
+
+“I don't think it matters.” Teepo said. “When people find out what happened here, they will know you did the best that you could.”
+
+I know I did. Ren thought. But...
+
+“But what?”
+
+Why do I have the sinking suspicion that I've done something I shouldn't have? Ren asked his friend, and Teepo didn't have an answer for him. They arrived at the collapsed cavern less than a minute later.
+
+“Ren.” Elerlyth said and turned around. “This is not a dilemma for you to worry about.”
+
+Ren smiled at her, and parked the cart.
+
+“I'll get Etheria.” Eleryth said and walked over to her mount, then led it over to Ren.
+
+“I wonder if that will work.” Ren said as he hooked the cart up to the Phantom Steed. He made a top for the cart and secured it, so that the contents wouldn't fall out if the Phantom Steed's flying magic didn't work on the cart.
+
+“I'm taking this as my burden.” Elerlyth pat the cart, and it glowed slightly. “Ren, can you use your Widen Effect spell?”
+
+Ren did so, and extended the Phantom Steed's time by an hour and a half.
+
+“Thank you.”
+
+“We've got the healers!” Dillon and Billy said as they came in for a landing. They each had a healer on their steeds, and Hank and Clint helped the two women down.
+
+“I've got the Clergy.” Tommy said when he landed, and the man hopped off the back of the steed and blessed himself.
+
+“Lead us to the wounded.” One of the healers said.
+
+“Ma'am.” Ren said. “Do you have the training and the supplies to treat ghoul victims?”
+
+“Both of us do.” She said and they both held up small bags. “We'll do what we can.”
+
+“Hank and Tommy, yer on tunnel guard duty.” Clint said. “Tha res' of us'll guide the little ladies an' tha Clergy to whare they need ta go.”
+
+“I'm staying with the cart.” Elerlyth said. “Just in case.”
+
+Clint nodded. “Le's go.” He said to the others, and led the party down into the tunnel and to the waiting patients. Ren had run ahead and looted the last two large ghouls and the contents of the last cage, then looted the several bodies in the next cage.
+
+“Hiding the evidence, I see.” A woman's voice said.
+
+“Yes.” Ren said, and he felt surprise from her.
+
+“You're not going to deny it?”
+
+“Why would I?” Ren asked and looked at her. “What we had to do here was horrible. None of you, let alone these poor people, deserve to die after what happened to you.”
+
+Several others in the cage looked at Ren and saw the pain and sorrow he had on his face.
+
+“The healers and Clergy will be here in a minute to treat you.”
+
+“How did you get them here so quickly?” The woman asked. “We're so far away from the town!”
+
+“We're Adventurers, ma'am.” Ren said as the party brought in the two healers and the Clergy. “Like I told you before, we're here to save as many of you as possible; even if it means not completing the quest.”
+
+Ren was speaking normally, so everyone in the cavern had heard him, including the healers and the Clergy. He also felt all of their shock and surprise.
+
+“I'm so glad you feel that way!” One of the healers said as she came over to him. “We'll do our best!”
+
+“I couldn't ask for anything more.” Ren told her, and she beamed a smile at him.
+
+“Now, who's first?” The healer asked when she turned to the cage, and everyone in the cage tried to reach out to her at the same time. “Now, now... there's two of us. We will have you all treated as soon as possible.”
+
+Ren left them to it, and walked over to Clint. “Hey, Clint.” He said. “This is going to take a while.”
+
+Clint nodded. “Probably ahl day an' mos' of tha nigh'.”
+
+“Is it okay if Elerlyth and I deliver the cart of evidence to town? We have to do it before the Phantom Steed spell fades.”
+
+“Tha's a good idea.” Clint said. “Take it ta tha town hall and make shore it's secured.”
+
+Ren smiled. “I'll put a Lightning rune or something on it keyed to you, so only you can deactivate it.”
+
+“How do ah do tha'?”
+
+“Say 'Deactivate'.” Ren said and smiled.
+
+Clint laughed because it was something so simple.
+
+“I've got to log out and deal with a few things after that.” Ren said. “I might be back for nightfall, or I might be out until close to morning.”
+
+“Ah gitcha.” Clint said. “Ah won't finish tha ques' til ya git back.”
+
+“Thanks, Clint.” Ren said.
+
+“No, Ren.” Clint said and clapped him on the shoulder. “Thank ya.”
+
+Ren could feel Clint was genuine with the thanks and nodded, then left the cavern. He ran back to Elerlyth and filled her in on what he wanted to do, and they climbed onto their mounts. Ren rode Princess over to the side of the collapsed cavern and she jumped up long before reaching it. With her enhanced stats, she jumped up the 25 feet easily, and Ren had her stop to wait for Elerlyth.
+
+“Are you coming?” Elerlyth said, and Ren looked up at her. The Phantom Steed hovered above him, and the cart hung behind it. Ren examined it, and saw that the Phantom Steed had cast Air Walk on the cart so that it could pull it as if it was on the ground.
+
+“Etheria, that's awesome.” Ren said to the steed, and saw it preen a little. “Race you.”
+
+Etheria neighed at him, and he laughed.
+
+“Princess will try to stay at a reasonable pace.” Ren said, felt Princess' unhappiness, and pat her neck. “We're only escorting, okay? Go slow.”
+
+Yes, My Lord. Princess thought to him, and she and the Phantom Steed kept to the same speed all the way to town. Elerlyth brought the steed in for a landing just outside the town and they rode to the town hall, side by side. Once there, Ren asked the guard where they could store the cart.
+
+“This isn't a stable.” The guard said. “That's on the west side of town.”
+
+“This cart is full of evidence for the quest.” Ren said. “I can't just leave it at the stable.”
+
+“I don't know what you want, then.” The guard said. “You're not getting that through this door.”
+
+Ren took that as a challenge. “Is there a stonemason, or somewhere I can buy stone?”
+
+“Down the street, fourth house.”
+
+“Can I ask why you don't have business signs?”
+
+“Everyone knows where everything is.” The guard said. “We don't need signs.”
+
+Ren didn't want to argue with the guard about how stupid that was, so he looked at Elerlyth. “I'll be right back.”
+
+Elerlyth smiled at him, since she could feel everything he felt. “Do you want me to drain him?”
+
+“No.” Ren smiled as he felt her wickedness. “He's probably the only guard they have.”
+
+Elerlyth nodded, and Ren ran down the street to the house and knocked. A young man answered covered in dust, and Ren smiled at him.
+
+“I heard this was where I can buy stone bricks.” Ren said.
+
+The young man looked at him. “How many do you want?”
+
+“That depends on how many you have.”
+
+The young man laughed. “If you want to count the dozen I've got on the go, then we've got just over a thousand of them.”
+
+“How much are they?” Ren asked.
+
+“They're normally 10 copper coins each.” The young man said. “But if you buy a lot, I could give you a bit of a deal.”“No thanks.” Ren said. “I know how much work goes into making them. 10 copper each is good.”
+
+“Um, sure.” The young boy said. “How many...”
+
+“I'll take 1,000.” Ren said. “At 10 copper each, that's one gold coin for everything.”
+
+The young boy stared at Ren. “Are you serious? You want all of them?”
+
+“Yes.” Ren said and held out a gold coin. “I'll take them right now.”
+
+The young man stepped back and motioned for Ren to come in. “The crates are out back.”
+
+“Thanks.” Ren said and walked into the house.
+
+“DAD!” The young man yelled. “DAD! WE'VE GOT A SERIOUS BUYER!”
+
+Ren had covered his ears just in time to block most of the yell, and the young man led him through the house.
+
+“You shouldn't yell like that.” The dad said when they walked into the room at the back of the house. “It's unprofessional.”
+
+The young man laughed. “Dad, I'd like you to meet our first large order customer.”
+
+“Nice to meet you, lad.” The dad said and held out a dusty hand. It still held a chisel; but Ren shook it anyways. “Oh, sorry.” The man said and put the chisel down. “How many...”
+
+“He wants a thousand.” The young man said.
+
+“That's nearly our whole back stock.” The dad said.
+
+Ren held up the gold coin.
+
+“The crates are out back.”
+
+Ren smiled and gave the man the gold coin, then gave him another for the tip.
+
+“That's too much.” The man said.
+
+“It's going to take a while to get this many again.” Ren said and stepped out through the open back door and stored the 2 large crates. “It's compensation in case someone comes by and you can't fill their order.”
+
+The dad and young man nodded and smiled.
+
+“It's nice doing business with you.” Ren said, walked over to the high stone wall that was around the back yard, and jumped to the top of it. He jumped down to the street on the other side of the fence and opened the Instant Tower recipe. He didn't need it 20 feet by 20 feet, since that wouldn't fit by the town hall, and cut it's dimensions in half except for the height and made the door big enough for a cart. It halved the recipe requirements, so Ren activated his Craft Wondrous Item ability and added 25 iron bars, 50 stone bricks, 50 gold, and 5000 Mana while he concentrated on Clint and gave it a command word. The 1 inch wide cube was formed, and Ren ran back to the town hall.
+
+“That was fast.” Elerlyth said.
+
+“They had a good back stock.” Ren said. He took out the modified Instant Tower, placed it at the right spot beside the town hall, and activated it. A 10 foot wide by 10 foot long by 30 foot tall tower appeared and Ren put the cart of dark elf bodies inside and shut the door.
+
+“You... can't leave...” The guard shook his head. “How the hell did you do that?”
+
+Ren chuckled. “We'll be back.” He said, climbed up onto Princess, and took off with Elerlyth beside him on her Phantom Steed. They arrived back at the collapsed cavern, and Ren hopped off of Princess and took out his own tower and activated it. It sprang into it's full size, and he looked at Elerlyth.
+
+“You've got a choice to make.” Ren said. “I've got to log out for a while, probably for the rest of the game day and game night.” He said as Elerlyth climbed off of her mount. “You can come into the tower and stay there, you can log out with me, or you can stay out here until I come back.”
+
+“There's no choice there.” Elerlyth said and hugged him. “I'm coming with you.”
+
+Ren nodded. “I've just got to tell Clint.” He said and Elerlyth let him go. He ran over to the collapsed cavern and jumped down to the tunnel entrance and ran down to talk to Clint, then told him about the thin tower that he had made to put the cart in.
+
+“Ren, you...” Clint shook his head in disbelief. “Yer crazy fer givin' everythin' away.”
+
+“I'm not going to leave you guys this far away from your place without somewhere safe to stay.” Ren said. “Plus, it's considered a safe zone. You can set a spawn point inside for yourselves.”
+
+“Yer jus' too good ta be true.” Clint said, and Ren chuckled.
+
+“I'll see you later.” Ren said. “Oh, and Elerlyth is coming with me.”
+
+Clint nodded. “See ya.”
+
+Ren ran out of the cavern and through the tunnel to the collapsed cavern, then climbed up the side. He ran over to Elerlyth and opened the door of his Instant Tower to let her in.
+
+“Princess.” Ren said, and she looked at the doorway.
+
+I might not fit. Princess thought.
+
+“It's a standard door.” Ren said. “Come on, there's lots of room upstairs.”
+
+All right. Princess walked forward and ducked her head a little. She walked through the doorway with no problem, and Ren took her up the stairs.
+
+“You seem nervous.” Ren asked her.
+
+I do not like being inside something that can crush me. Princess thought to him.
+
+“Hey, don't worry. I can speak the command word, and nothing will happen with us inside.”
+
+Princess huffed when she felt Ren was going to speak. Do not test it!
+
+Ren chuckled. “I'll make you a mattress, and you can relax.”
+
+Don't forget food.
+
+Ren made her a mattress and a small table, then took out 2 plates of food for her. “I'll be back in the morning.”
+
+Goodnight, My Lord. Princess thought and plopped down onto her new mattress. Ren made a spawn point in the middle of the floor, then set his own to it.
+
+“Elerlyth?”
+
+“I don't expect any danger, but...” Elerlyth set it as her spawn point, too. “...just in case.”
+
+Ren smiled and stored his armor, then climbed onto the bed. Elerlyth stored her armor and climbed onto the bed as well, then snuggled up with him.
+
+“See you in a minute.” Ren said, and they logged out together.

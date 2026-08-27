@@ -1,0 +1,257 @@
+---
+id: 7c4873b7-ce74-5d5b-85da-a43f69e01a9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 547 - To The King"
+slug: 0547-chapter-547-to-the-king
+partOf: mythrans-master-of-all-continued-completed
+position: 547
+ownLength: 2729
+unit: words
+publishedAt: 2018-04-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205965/chapter-547-to-the-king"
+royalRoadId: "205965"
+---
+
+“Look, I really have to go.” Ren said. “I'll come back and visit with you later.”
+
+Railyse kept staring at him and didn't say anything. Ren could feel her swirling emotions, and he touched her arm. It was still quite hot to the touch.
+
+“Hey, don't freak out about it, okay?” Ren asked. “I was just in a huge misunderstanding with the Light Realm because Xuunah and I share-bonded as Light beings. Even though that wasn't against their rules, they believed it was and wanted to punish her for it. I don't want the same thing to happen with you and the Water Realm.” He paused for a moment, then looked at the water elemental guards. “Keep her safe.”
+
+They gurgled at him a bit angrily, and he chuckled.
+
+“I'm sorry. It's just an Adventurer's expression like 'take care'. I didn't mean to insult your intelligence.”
+
+They bubbled at him, and he nodded and looked back at Railyse.
+
+“I'll let you know what King Alamast decides.” Ren said and rubbed her arm reassuringly, then he and Artemis ran back to the Main House.
+
+“That took a while.” Officer Holly said.
+
+“I had to give her a bigger feeding.” Ren said. “I'd say why, but that's her decision to reveal and not mine.”
+
+“Say no more.” Officer Holly said. “She was horny for you and you gave her a bit of comfort.”
+
+“She is and I did, but not in the way you mean.” Ren said.
+
+“Uh huh.”
+
+“We only shared words and a hug after the feeding.”
+
+Officer Holly couldn't argue the truth, so she didn't say anything else.
+
+“I assume she isn't coming.” Xuuah said.
+
+Ren shook his head. “It's just us.”
+
+“And us.” Frikara said and came out of the Main House. She had on a stylish dress, as did the other 4 maids, and they gathered around Ren. “We will protect you.”
+
+“Frikara...”
+
+“It's all right.” Frikara said. “We've been training.”
+
+“Training?”
+
+Frikara nodded. “We did it on our own at first, then we recruited Donna's help.”
+
+“By the gods.” Ren whispered. “She would have destroyed you.”
+
+“She did. Over and over.” Andrela said. “We learned how to take it, then learned how to fight back.”
+
+Ren looked at their faces and felt how happy they were. “How long?”
+
+“Since you came back from Shargon Caverns.” Frikara said.
+
+“No way!” Ren said. “That long?”
+
+“It doesn't seem like it's been that long.” Lusinia said. “When you only have to sleep 2 hours to get a full night's rest...”
+
+“You can do several days of training in a single day.” Ren said, then gave each of them a kiss on the lips. “Thank you.”
+
+“There's no need to thank us.” Verwynn said. “We wanted to do this.”
+
+“You're putting yourselves in danger for me, so I need to thank you for that.”
+
+“You do it for everyone else every day. It's only fitting that others do it for you, too.” Frikara said, and looked at Officer Holly and Xuunah. “You don't mind having a few extra fighters along, do you?”
+
+“More eyes and ears are a good thing.” Xuunah said. “Just be careful not to kill anyone that doesn't need to be killed.”
+
+Frikara chuckled. “Thankfully, we can leave those kinds of decisions to Ren for the most part.” She said. “We won't do anything without his say so.”
+
+“Then welcome aboard.” Officer Holly said, then Princess came out of her house. “Looks like our quick ride is here.”
+
+“I am ready to ferry you to the capital.” Princess said.
+
+Ren turned around to see if the bakery was open, and it was. “I'll be right back.”
+
+“Get us some!” Officer Holly said as Ren ran across the road. He waved acknowledgement and went inside the building. He was back a few minutes later and handed her a plate of them. “I love these fried pieces of dough.”
+
+“Is it so easy for you to give your love away?” Ren asked her and shared another plate with Xuunah, the maids, and Princess.
+
+Officer Holly snorted a laugh. “It's shallow food love, so yes.” She said and ate a piece of dough. “Oh, that's good.” She chewed it up and swallowed. “It's not the same kind of love that I have for a person.”
+
+“Is it, though?” Ren asked and ate a piece himself. “Do you have anyone in your life that you want to eat up like a tasty piece of fried dough?”
+
+Officer Holly immediately thought of her partner, John Ramirez, and the night they had spent together. Her face went red as she remembered what they did, and Ren smiled at her.
+
+“Ha! You do!” Ren said and ate another piece of dough. “Whoever he is, he's a lucky guy.”
+
+“How do you know that you aren't the lucky guy?” Officer Holly asked, then saw the surprised reactions on the other women's faces and immediately regretted trying to joke about it.
+
+“Because I can feel your emotions.” Ren said and smiled. “As can they, through me.”
+
+“I'm sorry. I didn't mean...”
+
+“It's okay. As long as you don't push it too far.” Ren said. “Some things should not be joked about.”
+
+Officer Holly nodded. “I know.”
+
+“Well, if everyone has enjoyed their treats, it's time to go.” Ren said and took out the covered cart from Princess' saddle bag and attached it to her. “We'll be in the capital in about 10 minutes.”
+
+“Why aren't you using a portal?” Xuunah asked and climbed into the cart. “We would be there instantly.”
+
+“First, we need to make an entrance. Second, it would have to be out far enough that we can leave it safely and not worry about anything else coming through, and we would need the cart anyway.”
+
+Xuunah chuckled. “The time you would save you would need to use to ensure both our and other's safety.”
+
+“You got it.” Ren said and helped the maids climb in. “Plus, Princess gets a bit of a good run out of it.”
+
+“In the middle.” Princess said. “Slow at first and slow at the end, all because I have passengers.”
+
+Ren chuckled this time. “Yes, no mulching the passengers with quick starts and stops.”
+
+“Can that happen?” Officer Holly asked as she climbed in.
+
+“It's possible, but I am never going to find out.” Ren said. “If I want someone mulched, Princess can ram them for me.”
+
+Princess brayed amusement. “Yes, they do mulch well.”
+
+“What have I gotten myself into?” Officer Holly asked and sat down.
+
+“One of the safest and most dangerous positions in this world or any other.” Xuunah said. “Near Ren.”
+
+That made everyone laugh.
+
+“I'd make a comment that it's not that bad, but I honestly can't.” Ren laughed. “See you in a few minutes.”
+
+Ren closed the cart up to protect the passengers and climbed onto Princess. She knew the drill by now and slowly trotted up into the sky, then poured on the speed. Artemis flew beside them and they arrived just outside the capital city of Bore-Reale 10 minutes later and came in for a landing.
+
+Once safely down, Ren helped everyone climb out and then switched the cart for the half-carriage he had in inventory and hooked that one to Princess. After he helped everyone climb in, he equipped his blue suit over top of his special armor bodysuit and sat down in the driver's seat. Princess hauled them through the main gate of the city and easily navigated through the half-empty streets to the castle in the center of the city.
+
+Ren was still surprised that Sid Tec hadn't been sued for using the exact castle design that a famous amusement park had, then assumed they were either paying royalties or had special permission. He tried to get the plans for it, and nothing appeared. Princess stopped at the front entrance to the castle and Ren hopped down, then helped Artemis, Xuunah, Officer Holly, Frikara, Lusinia, Navruth, Verwynn, and Andrela out of the half-carriage.
+
+“I'd ask everyone to be on their best behavior, but I don't know if that's going to matter much at this point.” Ren said. “Even I'm trying to decide if I should just storm in and get as much attention as possible, or just walk in and see how things go.”
+
+“What does your Etiquette skill tell you?” Xuunah asked.
+
+Ren activated it. “I should send someone in first and see what's going on.”
+
+“Me! Me!” Teepo said excitedly.
+
+Ren chuckled. “Sorry, someone at least in human form.”
+
+“I'll go.” Officer Holly said. “I need to check the place out anyway.”
+
+“Do you want a clothing disguise?” Ren asked, and Officer Holly nooded. She didn't want to remove her armor, so covering it up at first was the best choice. He made it look like she wore a similar dress to Xuunah, and she smiled.
+
+“Thank you.” Officer Holly said and Ren took out the All-Seeing Mirror and showed her a quick layout and where the meeting room was. “I'll be back in a few minutes.” She said and went inside.
+
+“What next?” Xuunah asked.
+
+“When she comes back and tells me who she's seen, I'll go first, Frikara and the others in an array behind me, with you and Holly on either side of us and Artemis at the back.” Ren said. “I'm here not only as a delegation for the Sea Dwellers, but for my own county as well.”
+
+“Maybe you should have brought Patty along as well, for corroborating testimony.” Frikara said.
+
+“That's a good idea.” Ren said. He asked the All-Seeing Mirror to show him the upstairs of the Main House and saw that it was clear. “I'll be right back.”
+
+Teepo dissolved into the ring and Ren cast the Portal spell against the castle's outer wall, took Artemis' hand, then stepped through the portal with her. They appeared 5 feet away from the top of the stairs in the Main House and Ren walked down the stairs to the Mayor's office. He knocked, and a woman's voice told him to enter.
+
+“I'm sorry to bother you so early, Patty.” Ren said as he opened the door. “I'm going to see King Alamast about the neighbouring county's invasion and wondered if you would like to come along.”
+
+“I'd be delighted to.” Patty said. She closed the menu she had open and stood up, then looked at herself. “”This isn't something to wear to see the ruler of a kingdom, though.”
+
+Ren took out a blank sheet of parchment and asked her what she would like to wear. Patty blinked her eyes for a moment, then told him. A long flowing gown with lace at the neck and cuffs, a bit of cleavage, blue in color since that was what Ren was wearing, and maybe some Earth patterns on the hem. Ren finished the drawing and held it up for her, and her eyes lit up.
+
+“Yes, that's it exactly.”
+
+“I'll be right back.” Ren said and ran across the street to the warehouse, then he, Tee-one, and Symmetra made the dress in about 5 seconds after dying the cloth blue. With all three of them using Ren's mastered Tailoring skills, the only reason it took that long was because they didn't have the fabric already cut. It took another 10 seconds to add the steel-reinforced fabric underneath, then they made the shoes, thin gloves, underwear, a strapless bra because of the dress, and a bow and ribbon for her hair.
+
+“She didn't ask for a bow.” Tee-one said.
+
+“Nope.” Ren said and stored everything. “Thanks! See you later.”
+
+Ren disappeared from the warehouse and was back inside the Mayor's office almost instantly. “All done.” He told Patty, then took out the dress for her. She gasped at it's high quality and Durability and ran her fingers over the soft cloth, then Ren gave her the shoes, gloves, and lastly the bow for her hair.
+
+“A bow?”
+
+“I think you're hair should be pulled back and tied with this.” Ren said. “That way you can show off that long neck you've been hiding.”
+
+Patty's face flushed red. “I've been hiding it because it's long.”
+
+“I know.” Ren said and smiled.
+
+“I'll try everything else on first.” Patty said.
+
+“I'll be just outside.”
+
+“I'm only going to equip it, so you don't have to leave.” Patty said, and she picked up the underwear and bra. “How does this work? There's no straps.”
+
+“Just equip it and it'll do the rest.” Ren said and before he could even blink, she equipped them right in front of him. He saw her completely naked for an instant, which was pretty sexy, and he liked what he saw. Now that her private parts were covered again, he thought she looked even more sexy. She picked up the gloves next and equipped those, then the shoes.
+
+Ren kept his eyes on her face, but he could clearly see everything as she kept bending over to grab each piece, and she intentionally saved the dress for last. When she equipped it, both she and Ren sighed in relief. They exchanged glances, and then they both chuckled.
+
+“I can't believe I just did that.” Patty said, and her face flushed to a deeper red.
+
+“Me, either.” Ren said and held a hand out to her. “Shall we go?”
+
+Patty took his hand and he led her out of the office. “Did... did you like what you saw?”
+
+“Of course I did.” Ren said and turned to lead her up the stairs.
+
+“R-Ren, we... we can't.” Patty said. “I was... I was just teasing you.”
+
+Ren smiled. “I know you were.” He said and led her up the stairs. “The portal to go to the castle is up here.”
+
+“Oh.” Patty said and her face went as dark red as it could possibly go when she saw Artemis standing there waiting. “I'm sorry I jumped to conclusions.”
+
+“If I didn't have my Emotion Siphon ability, I would have taken your exhibition as an invitation.” Ren said.
+
+Patty bit her lip and Ren felt a small spring of hope within her, and he stopped just before entering the portal.
+
+“You wanted me to, even knowing we shouldn't.” Ren said.
+
+Patty tried to turn away from him, but she didn't deny it.
+
+“I can't have that kind of a relationship with you.” Ren said. “I have no more room in my life for that.”
+
+“I... I talked with... with Zunala.” Patty said. “She... she told me...”
+
+Ren realized what she was trying to do, and pat her hand. “Taking advice from a succubi on how to seduce a man can sometimes backfire.” He said. “You're lucky that I have a soft spot for bold women.”
+
+Patty looked back at him. “Do... do you mean...”
+
+“If you want, I'll play with you like I did with the succubi.” Ren said. “It can be no more than oral pleasure, and it won't ever go past that.”
+
+Patty nodded her head several times, because that was more than she ever thought she would ever experience. “Okay. I'm ready.”
+
+Ren chuckled. “We can't do it right now.” He said and motioned to the portal. “We're both a little busy.”
+
+Patty blinked her eyes, sighed, and nodded. Ren held her hand as he took Artemis', and stepped through the portal with them. He summoned Teepo and cast the spells to make him solid again.
+
+“You decided to come.” Frikara said to Patty. “That's a nice dress.”
+
+“Thank you. Ren just made it for me.” Patty said and ran her gloved hands down it. “I've dreamed about having something like this.”
+
+“I know the feeling.” Frikara said. “I get it from everything he makes for me.”
+
+“Me, too.” Lusinia said.
+
+“And me.” Navruth said.
+
+“Me as well.” Verwynn added.
+
+“I like his cuddles more.” Andrela said, and they laughed.
+
+“All clear.” Officer Holly said as she came out the door. “I didn't recognize anyone, and they seem to be preparing for a meeting.”
+
+“Perfect.” Ren said, and told Officer Holly how he wanted to enter the place in a formation that let her, Artemis, and Xuunah protect everyone. She took her position on the side opposite Xuunah, and Patty stood in the middle of the maids. When everyone was set, Ren led the way inside the castle.

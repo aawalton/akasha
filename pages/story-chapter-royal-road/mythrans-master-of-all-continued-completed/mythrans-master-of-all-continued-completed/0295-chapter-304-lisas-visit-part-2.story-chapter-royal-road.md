@@ -1,0 +1,393 @@
+---
+id: 84106d40-78ee-51b2-93b3-ad06d1d4c71c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 304 - Lisa's Visit Part 2"
+slug: 0295-chapter-304-lisas-visit-part-2
+partOf: mythrans-master-of-all-continued-completed
+position: 295
+ownLength: 3893
+unit: words
+publishedAt: 2017-07-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147961/chapter-304-lisas-visit-part-2"
+royalRoadId: "147961"
+---
+
+Melanie was even happier than she was when she arrived. She said she'd handle everything and would let him know how it went, then left with Ren's idea fresh in her mind. Ren and Lisa still sat on the bed with the rollaway table in front of them.
+
+“She didn't even mention your open shirt.” Lisa commented, and Ren looked down at himself. He had completely forgotten that he'd left it open.
+
+“She probably saw the healing bruise and didn't want to say anything.” Ren said as he buttoned it up.
+
+“Or she was too embarrassed to say anything.” Stella said. “It's hard to tell what she was feeling besides happiness.”
+
+Ren chuckled. “I thought she was going to jump out of her skin when I signed that last paper.”
+
+“I thought so, too.” Stella said. “It makes me wonder if it was just because of the sale, or if she's always been so happy.”
+
+“We can ask Barbara tonight.” Ren said. “Now stop slacking off and get in that kitchen.” He grinned. “My lunch isn't going to make itself.”
+
+“Quiet, you!” Stella shook her fist at him.
+
+Lisa scowled and put an arm in front of Ren to protect him. “Don't touch him!”
+
+“Aw! That's so sweet!” Stella said. “You really do like him.”
+
+“Wh-what?” Lisa said, surprised.
+
+“We joke around a lot.” Stella said. “I kind of expected you to sit there and watch; but as soon as I raised my fist, your instinct was to get angry and protect him.”
+
+Lisa stared at Stella, but she didn't move the arm that protected Ren.
+
+“I'd never hurt him.” Stella said. “I'd do anything to protect him, actually.”
+
+“She would.” Ren said. “She even left her job at the hospital to take care of me.”
+
+“You're kidding!” Lisa said as she moved her arm out of the way.
+
+“Nope.” Ren said. “Barbara and Denise came with her, too.”
+
+“You have 3 nurses?”
+
+Ren nodded. “Two for the day, and one for the night.” He said. “Stella and Denise alternate days, and Barbara stays at night.”
+
+“Hold on.” Lisa said. “You need 2 day nurses, and only one at night?”
+
+“I really should have two at night, but Barbara wouldn't be happy if she had to share her duties.”
+
+“That's the truth.” Stella said, and looked at Lisa. “Please stay for lunch.”
+
+After being asked so nicely, Lisa decided to stay for lunch; so, she and Ren got to spend a bit more time together. After that, she said that she had to leave. She'd spent a lot more time there than she'd told her mother she would, and she had a long walk and a bus ride back home.
+
+“Nonsense.” Ren said. “I'm not letting you walk all the way back after the trouble you went through to get here.” He said. “Stella? Can you call a taxi? Lisa wants to go home.”
+
+Stella nodded and picked up the cell phone.
+
+“Ren! I live halfway across the city! I... I can't afford a taxi.” Lisa said.
+
+“Don't worry about that.” Ren said. “I got it.”
+
+“Ren...”
+
+“I'm moving into the new place in a day or so.” Ren said.
+
+Stella left the room to wait for the taxi and took the phone with her.
+
+“Do you want the address?”
+
+“Are... are you asking me to help you move?” Lisa asked.
+
+“No.” Ren chuckled. “I just didn't want you to come here the next time you wanted to come and see me.” He looked at her. “Although, we probably could use an extra pair of hands and eyes.”
+
+“Um...”
+
+“I'm sorry. That's a little too much to ask right off the bat.” Ren said. “We just met. I should at least ask if you're busy first.”
+
+“Um...”
+
+“You don't have to worry, either.” Ren said. “I already left your name at the gate with the guard. Just tell him who you are and he'll let you in.”
+
+“Wait, what?” Lisa asked, shocked. “A guard?”
+
+“It's a gated community.” Ren said. “Emerald Estates.”
+
+“WHAT?!?” Lisa exclaimed. “You... you bought...”
+
+“It was a steal!” Ren said and laughed. “A brand new construction, on foreclosure, and no one has lived in it yet.” He said. “It's great!”
+
+Ren told her the address and then rambled on about all the amenities while they waited for the taxi. Lisa couldn't believe all of the things that were in the house, and the taxi arrived before Ren had finished describing everything.
+
+“Taxi's here.” Stella said when she came back into the room.
+
+“I have to go.” Lisa said as she slid off the bed, and Ren could hear the disappointment in her voice.
+
+“You can always come and visit.” Ren said. “In fact, I'd really like you to.”
+
+“So... so would I.” Lisa said. “When would be a good time?”
+
+“I'm spending the next two in-game weeks on a slow boat back to Aurora.” Ren said. “That's 3 and a half real time days. Since I just spent half of a real time day with you, that leaves me 3 full days and nights.” He smiled. “I'm hoping I can start moving tomorrow, which should only take a few hours because I don't really have a lot of stuff. Anytime after that is fine.”
+
+“I... I look forward to it.” Lisa said.
+
+“I should probably remind you that we can't meet up in the game, if that's what you were hoping for tonight.” Ren said.
+
+“Oh, right.” Lisa said. “No Library on the boat.”
+
+“If I thought it would work, I'd build one on the ship for you.” Ren said.
+
+“You would?!?”
+
+“Yeah.” Ren said. “Not only could I see you, but we could also test out if a moving portal is usable in the game.”
+
+“A moving portal?”
+
+“It would be on a ship, and not a set location.” Ren said. “I'd like to test it, but there's no way a Library could be made on a ship, even one as big as mine.”
+
+A horn honked loudly, and Lisa turned to go.
+
+“Wait!” Ren said. “Stella, how much is the taxi?”
+
+“I already paid him.” Stella said. “Now say good bye to Lisa so she can go and think about all the things you can do together at the new house.”
+
+Lisa blushed and Ren chuckled, then he slid over to sit on the side of the bed. Lisa looked a little awkward, and Stella took pity on her.
+
+“I'll be just outside the door.” Stella said and left the room. Lisa sighed and looked at Ren.
+
+“I'm sorry if I'm being difficult.” Lisa said. “It's just...”
+
+Ren reached out and took her hand. “You're not being difficult.” He said and eased her closer. With him sitting on the bed and her standing, His head was just a little bit higher than hers. “This is new, and a little scary.”
+
+“You're handling it well.” Lisa said and smiled.
+
+“I'm good at compartmentalizing.” Ren said and leaned in. “After you leave, I'll probably freak out that I enjoyed making out with you so much.” He said. “The feel of your lips, the way you squirmed when you let me touch you...” He kissed her lips very lightly. “I can't get enough of seeing that.”
+
+“I really hope you mean tha-” Lisa tried to say when Ren kissed her deeply. She could feel his passionate restraint, that he wanted to do so much more to her; but held himself in check because he knew if he did try to go further, she would push him away. After a few moments, there was another honk of a horn, and Ren broke the kiss and sighed.
+
+“Saved and doomed by the horn.” Ren said, and she smiled.
+
+“It's only a short reprieve.” Lisa said, gave him a quick kiss, then turned and opened the room's door.
+
+“I'll walk you out.” Stella said, and Lisa nodded.
+
+“Bye, Lisa.” Ren said.
+
+*
+
+Lisa waved as the room's door shut, then Stella walked with her down the hallway.
+
+“Ren has a very sensitive heart.” Stella said. “It opens up and it leaves him vulnerable.”
+
+“I know.” Lisa said. “I saw his reaction to Nathalia leaving him.”
+
+“You're not just dismissing those feelings because she's an NPC, are you?”
+
+Lisa shook her head. “He still felt them, even if she isn't real.” She said. “I don't know if I can compete with all his other women, though.”
+
+Stella put an arm around her shoulders and laughed. “You don't have to compete at all.” She said and gave her a one-armed hug. “Each woman seems to fill a certain need for him.” She stopped walking by the front door and turned Lisa to face her. “Right now, he needs you.”
+
+“He does?”
+
+Stella nodded. “You're willing to protect him, and you also need to be protected.”
+
+“I don't need-”
+
+Stella held up a hand to stop her from ranting. “I meant emotionally.”
+
+“Oh.”
+
+“He's never been in that kind of role before.” Stella explained. “He's always been on the receiving end of protection, both physical and emotional. Your relationship with him will be a great way for the both of you to...” She smiled. “I'm jumping ahead of myself.” She said and gave her some money.
+
+“What's this for?” Lisa asked, and started to get defensive. “I don't need charity.”
+
+Stella chuckled. “Do you have a bathing suit?”
+
+Lisa was surprised at the sudden change in subject, then opened her mouth to say that she did; but, she remembered that she hadn't worn it in a while and it was probably not wearable anymore.
+
+“He doesn't know how to swim himself. Denise said he really enjoyed sitting in the Jacuzzi and watching others swim, though.” Stella said. “Take the taxi to the mall on the east side and go to a store called Jacques.” She smiled. “They absolutely love Ren there, and they'll set you up with something to wear.”
+
+Lisa looked at the money in her hand, and at first glace it wasn't near enough for even the cheapest bathing suit that she could think of.
+
+“That should be enough for a taxi ride to come and visit him at the new place.” Stella said. “The swimsuit is already paid for.”
+
+“What?!?”
+
+“Just go to the shop and tell them Ren sent you.” Stella said and smiled. “They'll take good care of you.”
+
+“But...”
+
+“You don't have to do it today if you don't want to.” Stella said. “It would be a good idea to get something before you come to the new house, just in case you do want to go into the water.”
+
+“Well, I...”
+
+“If you don't find anything that you like, just ask Lily for a hand.” Stella said. “Assuming she doesn't help you right off the bat.”
+
+“Um...”
+
+“The taxi's waiting, and gets to keep the extra money whether you decide to go to the mall or not.” Stella said. “Ren seems to really like you, so I hope you do come back to visit.” She opened the front door and eased Lisa outside. “See you later!”
+
+Lisa watched as Stella shut the door and waved at her through the glass. She waved back, and then the taxi honked it's horn again. She walked over to the car and climbed inside after she tucked the money Stella gave her into a pocket.
+
+“Where to, miss?” The taxi driver asked. Lisa looked back at the temporary care facility, and figured she had nothing to lose by going along with Stella's idea.
+
+“The east side mall, please.” Lisa said.
+
+*
+
+“This is the pivotal point, sir.” Elise said to Edward Torren, her immediate boss and the head of Sid Tec. “The main ones inside his Aura started to kneel for him, and then the rest, who were completely unaffected by his presence, knelt as well.”
+
+“I see.” Edward said. “Boy, when I made that class what it was, I never expected him to do so much with it.” He said. “Of course, I knew he would show the normal players what a force he could become eventually; but this...” He shook his head. “The Unnamed King? Really?”
+
+“He has 1,000,000 Influence, and 250,000 Honor.” Elise said. “In fact, he almost had those maxed before he put on the bracelet for the boost.”
+
+“Yes, I saw that.” Edward said.
+
+“It gave him a new Aura, but because it was gained artificially, he didn't get any extra bonuses for the overage.”
+
+Edward nodded. “We can't reward players for 'faking' it.”
+
+Elise nodded. “Yes, that's right.” She said. “They can't gain things for trying to trick the system.”
+
+“So, what are you saying?”
+
+“All the gains after that would have pushed him well over his limit, and he should get the rewards for that.”
+
+“Ah, and this is where the error comes in.” Edward said. “What did Max say?”
+
+Elise sighed, and relayed what Max said.
+
+“Huh.” Edward said. “Just a second.” He said and picked up the phone. He connected an internal call to the tech department and Max picked up.
+
+“Max, here.”
+
+“Hi, Max. It's Edward.”
+
+“Hey, boss.” Max said. “Elise is in your office.”
+
+Edward chuckled. “How'd you guess?”
+
+“She said she might talk to you about this.”
+
+“Is what she told me true?” Edward asked. “You're resetting the error, and not giving Ren the XP conversion bonus?”
+
+“Well, not the bonus he thinks he's going to get.” Max said. “He's done this a few times now.” He explained. “He's jumped a ton of levels, well beyond his capabilities, and he's unlocked a lot of things that his character isn't ready for.”
+
+Edward sighed. “I know.” He said. “Charles really messed up my design.”
+
+“Ren kind of did that, too.” Max said. “It took him a while, but he's got the Slow and Steady ability licked with Fame bonuses.”
+
+“Only when it applies to quests from people that know of him and his deeds.” Edward said. “He's only gotten that a few times the entire time he's been in the dwarf lands.”
+
+“Yeah.” Max said. “So, I'm changing the gains multiplier. Instead of getting 10 XP for every point, he'll only get 1 XP for every 10 points.”
+
+“Hmm.” Edward thought about it. “I don't like that.” He said a moment later. “You're dropping it to one hundredth of what it was.”
+
+“It's the best way to stop him from gaining Honor and XP bonuses every time someone meets him.”
+
+“That may be true, but you're also messing up... hold on, Elise gave me the numbers...” Edward said and shuffled through the papers. She'd printed off the important stats that Edward would need, without having to sort through all the data she'd given him.
+
+“Here it is.” Edward said and looked at the player stat sheet. “Ren's the only one who has unlocked the Honor stat.” He said. “But, if you change the XP multiplier so drastically, it's going to affect nearly 800 players.”
+
+“WHAT?!?” Max exclaimed. “I'll be right there!” He said and hung up the phone.
+
+“He'll be right here.” Edward said and smiled at his secretary. “Ms. Stanford, you're looking radiant today.”
+
+“Excuse me?” Elise said, surprised.
+
+“You must have seen Ren yesterday.” Edward said. “You always seem so much happier after you visit him.”
+
+“I... yes, I did see him yesterday.” Elise said, slightly uncomfortable. “I didn't realize people could tell just from looking at me, though.”
+
+Edward laughed. “I've known you for a long time. I've never seen you this happy for this long before.”
+
+Elise opened her mouth to respond, and Max burst into the office.
+
+“Show me those numbers!” Max nearly yelled as he stumbled into the office and practically fell onto the desk to get the sheets of paper. Edward laughed again and handed the papers over. Max looked through the reams of data, and followed it's progression.
+
+“Well, dammit.” Max said. “How did we get this many people so close to maxing out their Fame?”
+
+“There's about 50 that already have, and they're doing every side quest they can get their hands on to make themselves popular with the local NPCs.” Elise said. “50 Fame for rescuing a farmer's goat is nothing when you're building up to 10,000; but, once you get to that point, 50 Fame becomes a bonus of 500 XP on top of the XP for the quest.” She explained. “I checked the message boards, and found that it's kind of a hidden secret for low level players to mine for Fame. They're posting how to complete specific repeatable quests that give the most Fame, and once they unlock the Fame bonus, their low levels jump up pretty fast.”
+
+“But... that doesn't explain...”
+
+“Once their Fame is maxed for a local area, they do the main quests.” Elise said. “The Fame bonuses convert to XP, and they gain 5 to 10 times the XP for it than they would for doing the mission normally.”
+
+“Damn.” Max said.
+
+“They can take their Fame bonus with them to a new area, as long as they do a few little quests for the NPCs to spread their name.” Elise said and smiled. “If you can believe it, there's even a few detailed maps telling you where to go to do it.” She pointed to one of the sheets. “That's a list of the local NPCs in the main Starter City of Aurora that give the highest Fame for doing odd jobs for them.”
+
+“That... that wasn't how that was supposed to work.” Max said. “It was supposed to be an extra bonus for people knowing you, not something to grind and exploit!”
+
+Edward had sat there and watched the exchange, then tapped his desk with his finger. “If you change that multiplier, we are going to get mobbed with hundreds...”
+
+“Thousands.” Elise corrected.
+
+“...thousands of complaints about it.” Edward said.
+
+Max looked at Elise. “You could have told me this before.”
+
+“I didn't know this before.” Elise said, and he looked at her skeptically. “Honest!” She said and raised her right hand like she was swearing to tell the truth in a courtroom. “I was sorting through the data to see what kind of impact it would have, and literally stumbled on the Fame modifier.”
+
+Max sighed and sat down in a chair. “Then I don't know what to do.”
+
+“Do nothing.” Edward said, and Elise and Max looked at him.
+
+“What?” They said at the same time.
+
+“This is an exploit we didn't plan for in the game, but it's become an integral part of a lot of player's thinking. We can't change it.”
+
+“But-” Max started to say.
+
+“What about Ren?” Elise cut Max off. “He lost over 300,000 excess Honor!”
+
+Edward nodded. “Max is right in that respect, unfortunately. It gave an error, because Ren exceeded the cap for the stat.” He said. “Any subsequent gains were cancelled by the system.”
+
+“But-” Elise tried to say.
+
+“I'll talk with Max and see if we can come up with something to make it up to Ren; but, I can't in good conscience give him 3,312,000 XP for a mistake.” Edward said.
+
+“Can't you at least give him the XP up to the cap?” Elise asked. “He really does deserve some recognition for what he did!”
+
+Edward shook his head. “Ren's pretty important to this company; but, he hasn't even dealt with all of the gains Charles has inadvertently given him yet. I can't pile another large amount of levels and the things they unlock on top of that.”
+
+“But, sir!” Elise said.
+
+“Max and I will deal with it.” Edward said. “I'm sure we'll come up with something appropriate for him.” He smiled. “Like you've pointed out, he's brought in more players in the last month than we had for the first year of operation. I'm going to take good care of him; so, don't worry about it.”
+
+“But...”
+
+“Thank you for bringing this to my attention.” Edward said. “Please hold my calls while Max and I discuss this.”
+
+Elise nodded, picked up her USB drive, and stood up. “Just so you know, unlike the examples I gave, Ren didn't do it for gains or to manipulate the system, sir.” She said in Ren's defence. “He was just being himself and it happened.” She turned and left the office, then shut the door behind her.
+
+I'm sorry, Ren. Elise thought as she sat down at her desk. I tried. She looked at the USB in her hand. If they don't come up with something good to make it up to you, I'll release the info about the error and the footage of your title. She smiled. If it comes down to it, we'll see if popular opinion can sway their minds.
+
+*
+
+“Do you think she'll come back to visit?” Ren asked Stella when she came back into the room.
+
+“I certainly hope so.” Stella said. “She's kinda cute.”
+
+Ren chuckled. “Are you getting certain ideas about her?”
+
+“Not for myself.” Stella said. “I haven't dipped my toe in that end of the pool.” She winked at him. “Not yet, anyways.”
+
+*
+
+Much to her surprise, the taxi driver told Lisa that he would wait for her.
+
+How much did Stella pay him? Lisa asked herself as she went into the mall. She looked at the store directory, and found the location of the store called Jacques. She followed the directions to the right spot, and it looked like any other clothing store.
+
+I wonder why this one is so special? Lisa thought as she walked inside.
+
+“Hello, there!” The sales lady said enthusiastically. “How can I help you today?”
+
+“Um... I... ah...” Lisa stammered. “Ren...”
+
+“You must be Lisa.” The sales lady said. “Stella called and told us to take care of you.” She smiled. “Just a moment.” She leaned into the back room behind the counter. “The young woman Stella called about is here.”
+
+“Great!” Lily said and came out of the back room. “Hi, Lisa. I'm Lily.”
+
+“Um... hi.”
+
+“Oh, don't be shy.” Lily said. “Bathing suits. Any preferences?”
+
+Lisa thought about what Ren had told her, that he had embarrassed himself by saying 'see-through' out loud, and her face flushed a little red.
+
+“Let's go browse a few things, and we'll see what fits well.” Lily said. “Right this way.”
+
+Lisa walked behind her over to the swimwear, because she was pretty sure that if she didn't go willingly, Lily would have dragged her.
+
+“So, one piece? Two piece? String?” Lily asked and held up an example of each.
+
+Lisa looked down at herself and her small chest. “One piece.”
+
+Lily smiled. “You'd be surprised the magic some of these things have.” She said, and picked up a nice two piece. “See that? It's got slightly thicker padding on the underside that tapers to the front. It really gives a nice boost to the girls.”
+
+Lisa thought that was a good idea. “I guess I could try one of them.” She said. “After the one piece.”
+
+Lily nodded and grabbed a few different styles of each. “Anything else?”
+
+“Well...” Lisa said. “I had... an idea. Kind of.”
+
+“Ooo, do tell!” Lily said. “I'm always up for a good idea.”
+
+“Do you...” Lisa's face flushed red again. “...have something that kind of becomes see-through when it gets wet?”

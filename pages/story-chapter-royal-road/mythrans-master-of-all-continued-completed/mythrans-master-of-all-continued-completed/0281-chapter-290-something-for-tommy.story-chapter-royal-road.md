@@ -1,0 +1,251 @@
+---
+id: ed28e8fc-376e-5831-95e0-57c417cd2c2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 290 - Something For Tommy"
+slug: 0281-chapter-290-something-for-tommy
+partOf: mythrans-master-of-all-continued-completed
+position: 281
+ownLength: 2953
+unit: words
+publishedAt: 2017-06-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144585/chapter-290-something-for-tommy"
+royalRoadId: "144585"
+---
+
+Ren woke up on the couch and looked up at the ceiling. Hi, Teepo.
+
+“Hi, Ren.” Teepo said and flew down to land beside him. “Did you get all of your Adventurer's business done?”
+
+Most of it. Ren thought, then opened up Clint's message that he'd left the notification of on his screen. It was just a 'well done and congratulations' message, so nothing he needed to feel bad about for leaving it unanswered for a few game days. Ren opened Tommy's message next, and sighed mentally.
+
+Damn, I probably should have read this before I left. Ren thought, and typed up a response. I could have told Tommy that I wouldn't be able to make him anything until I came back in. He sent a message that said he would need a description and what Tommy would want it enchanted with, then closed the messaging system.
+
+Did anything happen while I was gone?
+
+“Yes.” Teepo said. “Nathalia went to meet your new maids.”
+
+Damn. Ren sighed. What happened?
+
+“Nothing.” Teepo said. “She introduced herself and gave them hot meals. They introduced themselves and took the food, and that was that.”
+
+What? Ren thought, surprised. No fight? No big blowup? No bloodshed?
+
+Teepo chittered in laughter. “Nope, there wasn't any of that.”
+
+Huh. Ren smiled. I'm glad.
+
+“The personal maids knew right away that Nathalia was the one you were having the forbidden relationship with.” Teepo explained. “They also told her about what you said to them about not having the room in your life for any more women.”
+
+That's great! Thanks for the update, Teepo. Ren thought. Do you want to go back into your physical body?
+
+“Sure.” Teepo said. “I need more practice with it.”
+
+I'm sorry I didn't do it before I left.
+
+“That's okay.” Teepo said, then dissolved into the Beetle Crown ring. Ren slipped his half of the Ring of Recall over it, and took out Teepo's platinum body.
+
+Summon Teepo! Ren thought, and the metal beetle started to move. The wings deployed, and Teepo fluttered up into the air.
+
+“That's better.” Teepo said. “You've got about 2 hours left before supper, and an hour before nightfall.”
+
+“You read my mind.” Ren said out loud. “I assume Nathalia and Ereka are both still at work?”
+
+“Yeah.” Teepo said. “What are you going to do?”
+
+“I am going to sit down and relax.” Ren said and chuckled. “I haven't done that in... well, I don't remember the last time I did that here.”
+
+Teepo chittered in laughter. “It has been pretty hectic the last little while.”
+
+“And then some.” Ren said, grabbed a plate of food, and walked out of the house. He went into the stable to greet Princess, gave her the food, and said hello to Riley, Stacy, and Ruck. He pat the dogs, then Princess, and went out to the courtyard and stepped into the fire elemental's pen. He used a web wand to cast Web several times, then sat down on the webbing.
+
+“Hey, I'm back.” Ren said into the flames and wind section. He thought he could see something move, and smiled. “Are you trying to be sneaky?”
+
+Some of the flames changed color slightly.
+
+“That's only going to work if you're surrounded by flames.” Ren said. “But the practice is still useful, since everyone here has Fireball wands. You'll have lots of cover to hide in when you're big enough to come with us.” He grinned. “Especially from Ruck! You should have seen that poor giant get engulfed in 60 fireballs, then he was completely covered in 60 web spells!”
+
+The fire elemental burst out of it's hiding place, jumped into the air, and hit Ren in the chest as it tackled him. Ren laughed as he caught the fire elemental and fell onto his back in the soft webbing.
+
+“Nice one.” Ren said, and hugged it close. “Hey, I think you're getting bigger.” He said as he looked the fire elemental over. It had gone from a foot long to nearly a foot and a half long. “You are getting bigger.”
+
+The fire elemental's color changed slightly, and Ren let it go. It stood up on his chest, and he smiled.
+
+“Counter-attack!” Ren said and started to tickle the fire elemental's underside with his fingers. He heard a loud crackling fire as the fire elemental shook slightly. It didn't try to run away, even though it clearly could.
+
+Ren laughed and picked the fire elemental up in his arms, then sat up. He put the fire elemental in his lap, and gently stroked it's head stub.
+
+“If it's okay with you, I'm just going to sit here for a while.” Ren said to it. “I've got a few things to look over, and there's no better spot for me to do that.”
+
+The fire elemental's color changed slightly. It stood up, rubbed it's head nub on Ren's cheek, then it laid down on his lap.
+
+“Thanks.” Ren said, then thought about what he had gained after the battle with the giants. “Show character gains from recent normal bonuses.”
+
+Skills
+
+Alert  Artificer Knowledge - Greater (Class Skill)
+
+Charge! (Party Skill)  Craft Staff
+
+Double Infusion (Class Skill)  Enhanced Casting (Class Skill)
+
+Far Shot Level 1 (Beginner 0%)  Imposing Figure (Special Skill)
+
+Nimble Fingers
+
+Recipes
+
+Amulet of Truth (Wondrous Item)  Bottle Of Endless Air
+
+Bracelet of Friendship (Wondrous Item)  Bracers of Archery
+
+Brooch Of Shielding  Elixir of Acrobatics
+
+Elixir of Strength  Gauntlets of Giant Strength
+
+Immovable Rod (Craft Rod)  Instant Tower (Wondrous Item)
+
+Hand of Glory (Wondrous Item)  Helm of the Eagle
+
+Pit of Darkness  Ring of Sustenance
+
+Ring of Water Walking  Rod of Cancellation (Craft Rod)
+
+Rod of Displacement (Craft Rod)  Shield of Nullification
+
+Staff of Containment  Staff Of Earth
+
+Wand of Invisible Wall
+
+Spells
+
+Chain Lightning (Level 2)  Sunburst (Special)
+
+Wall of Earth  Wall of Fire
+
+Wall of Ice  Wall of Thorns
+
+Wall of Wind
+
+Runes
+
+Rune of Empowerment  Rune of Set Bonus
+
+“Holy crap.” Ren said. “That's... I can't believe...” He shook his head, then started to laugh. “I don't know what to look at first.”
+
+Ren was about to start naming things to see the descriptions, when he got a message notification. He opened it and smiled.
+
+Tommy:  Hey, Ren. No worries about being late. I was out all day myself. Don't ask me what I was doing because my GF would kill me if I said anything about it. I'd like a heavy bow, preferably 5 to 6 feet tall, a thick grip, and if possible, as strong of a string as you can manage. If you need to know what I mean, my last several levels I've been raising my Strength instead of pumping up my Dexterity and Agility, and it's already up to 100. Yeah, I know that's kind of high for an Archer/Ranger class, but I heard that I can't use the better bows if my Strength doesn't meet the requirements. If you can enchant it with Lightning, that would be great.
+
+Ren typed up a message and said that he'd get on it right away, and would let him know when it was done.
+
+“I need to go and make something for a friend.” Ren said to the fire elemental. “Thanks for keeping me company.”
+
+It hopped up, rubbed it's body across his chest, then stepped off. One of it's leg nubs stuck to the webbing, and Ren watched as it's leg flared a little and lit the web on fire to get it's leg free.
+
+“I wonder if it would work.” Ren took out an Amulet of the Spider, and slid it over the head nub. The chain resized for the tiny neck, and then the amulet stuck to the chest of the fire elemental. Ren started to smile because it had worked; but, then the amulet and chain slowly sank into it's body.
+
+“That would be a no.” Ren said and knelt. “Don't hurt yourself trying to eat that.” He said. “It's pretty tough.”
+
+The fire elemental struggled and shivered, then it shook it's head stub from side to side. A moment later, it spit the amulet out into Ren's hand. There were deep scorch marks on the metal, and a lot of the chain had been partially melted.
+
+“That was a great try!” Ren said, and gave it a hug. “You're getting really strong.”
+
+The fire elemental's color changed slightly, and Ren could hear twigs snapping.
+
+“Have fun with the webs.” Ren said, let the fire elemental go, and stood up. He left the pen and went out through the gate, greeted the guard, then walked up to his workshop. On the way, he used his Metal Repair skill to fix the amulet, then stored it with the others. He went inside the workshop and looked at the large workbench with his stained glass work on it.
+
+“I'll finish them on my day off.” Ren said, then looked at the pile of things he had taken out of inventory and stored in the workshop. He was tempted to store them again, but he had to clear out all of the things he had looted first. He went into the forge room and saw that Tee-one wasn't there. Ren assumed he was working on the Keep repairs, and looked at the smelters.
+
+“I should melt the stuff down, but it might put inherent weaknesses in things we forge if I use inferior materials.” Ren said, then looked through the items. “15 swords, 8 crossbows, 3 helms, 6 pairs of gauntlets, and 5 pairs of boots.” He said, repaired them all, then sold them to the system at a 10% discount. It gave him just over 500 gold coins, and cleared out 5 slots in his inventory.
+
+Ren didn't have any more springy trees left, so he looked through his inventory and found the bows he had made before the battle with the giants, and took out two of them.
+
+Tommy said that he wants a heavy bow. Ren thought. I hope this works.
+
+Ren took the strings off the bows and walked over to the forge. He dipped his hand into the smelter to pick up a small handful of molten metal. He put it between the handles of the two bows, squeezed them together, and used his hands to smooth the metal and absorb the heat from it. It made the bow twice as wide, and the handle was a bit too big to hold. He used his tools to trim the handle to a proper size, then cut the arrow notch deeper out of the sides above the handles. It had to be adjusted so that the thickness of the handle wouldn't throw off the aim of the bow. He left the rest of the bows the same thickness and didn't trim them.
+
+If he wants a heavy bow, then he'll get a heavy bow! Ren thought and used more metal to cover the handle and secure the two bows together. He did the same thing to the tips of the bows where the string was to be attached, and left the wedge in the middle for it. He looked at the old notches for the string and thought about covering them up; then he had a different idea.
+
+Ren took out his Spider Silk String, and cut three lengths of it the same, then tied the knots in the ends. He hooked the three strings on the bottom of the bow, rested it on the floor, and used his Strength to bend the bow ends closer together. He hooked the ends of the three strings on the top of the bow, then let the pressure off slowly. The strings held, and he smiled.
+
+Tommy said he wanted Lightning on it. Ren looked at his Enchanting skill. He thought he remembered hitting Advanced Level 5 in Enchanting, and wanted to make sure. His eyes nearly popped out of his head when he saw he was actually at Expert Level 1. What the hell?
+
+Ren put the bow down and opened the popup window that had the latest skills he'd gained on it. I think that's it. He thought. “Show info for Enhanced Casting.”
+
+Enhanced Casting (Class Skill)
+
+This skill grants +5 levels to all Enchanting Skills, and increases spell cast distance by 50%
+
+“Show Enchanting skill and sub skills.” Ren said.
+
+Main Skill:
+
+Enchanting Level 1 (Expert 15%)  Enchant items with runes or glyphs. Current Limits: 3 glyphs, 5 runes each.
+
+Sub Skills:
+
+Absorb Enchantment Level 9 (Intermediate 55%)  Allows you to remove an enchantment by absorbing it, refilling a portion of your Mana in the process. Current Rate: 35% of original cost
+
+Decipher Level 9 (Beginner 60%)  You can read runes you know in other glyphs, with a chance to find new runes
+
+Dismantle Glyph Level 1 (Intermediate 65%)  Allows you to destroy a glyph with the chance of learning a rune from it. Current chance: 30%
+
+Enchanted Eyes Level 7 (Intermediate 40%)  Enchantments in the area will give off an intermittent glow
+
+Read Rune Level 9 (Beginner 60%)  Allows you to read unknown runes and add them to your Book of Runes
+
+“Holy crap. I can do 5 runes in a glyph, and combine 3 glyphs together.” Ren said, kind of in shock. “That's 15 runes.”
+
+Ren took out his Book of Runes, and saw it had increased in size slightly. He flipped through the pages, and saw it had made room for the 5 rune glyphs on each page. He did his mental trick of imagining the 5 runes making a glyph for each rune that he had.
+
+“Wow.” Ren said as he closed the book. “The potential combinations of runes that I can do now is... wow.”
+
+“It's pretty nice.” Tee-one said as he came out of the secret entrance to the tunnel that led to the Keep. “I've tried playing with them, but my Mana is too low to do more than 2 of the glyphs with 5 runes each.”
+
+“Why aren't you using mine?” Ren asked. “You can, can't you?”
+
+Tee-one nodded. “I won't deprive you of your best resource.” He said. “I've been using the Major Healing wand you gave me to refill my Mana when necessary.”
+
+“I've got a recipe for a Bracelet of Magic.” Ren said. “I can...”
+
+Tee-one held up his left arm and showed Ren the bracelet he had made, and Ren laughed.
+
+“Give me that.” Ren said, then remembered the description said it was a combination of Intelligence, Wisdom, and Mana. He concentrated on making glyphs of them, combined them, and enchanted the bracelet with it. When he looked down, he saw that his enchantment was beside Tee-one's enchantment.
+
+“That's the Double Infusion skill you unlocked.” Tee-one said. “You can add an enchantment to something already enchanted, as long as the original enchantment isn't yours.”
+
+“I really have to look through these skills.” Ren said. “It's like I'm stumbling around in the dark, and only discovering things as I bump into them!”
+
+Tee-one nodded. “Yes, getting all of those levels has messed up everything, and expanded you a little beyond what you're ready for.”
+
+Ren nodded. “Yeah, but I'm not going to complain about it.” He said and grinned. “Here, enchant this bow with as much Lightning runes as you can.”
+
+While Tee-one did that, Ren looked through his recipes.
+
+“Bracers of Archery.” Ren said, and made a mold on the floor. He poured some metal into it, absorbed some of the heat, and picked it up. He took it to the anvil and hammered it into the proper shape like the recipe said. He poured out another, hammered that out, and now had two plain bracers. He held them in his hands and activated his Craft Wondrous Item ability. Even though it was just a regular item, it needed a way to infuse the magic. He placed them on the 1 foot square golden platform that appeared, and a second later, they were done and he examined them with Identify.
+
+Bracers of Archery
+
+Grants the Archery skill. If the skill is already present, it instead grants +5 levels to that skill and +10% Damage to attacks while using a bow.
+
+“Sweet.” Ren said, used his Retain Essence skill and absorbed the enchantment. A small icon appeared to tell him he had an enchantment to transfer, so he looked at Tee-one.
+
+“It's done.” Tee-one said and handed Ren the bow, and he examined it.
+
+Heavy Bow of Improved Lightning
+
+This bow has been heavily modified and can fire three arrows at once with a lower accuracy, or one arrow at +20% power. It adds 80 points of Lightning Damage to any arrow it fires.
+
+Ren held the bow in his hand and used his Retain Essence skill to drop the enchantment he stored onto the bow. He checked it again, and smiled.
+
+Archer's Heavy Bow of Improved Lightning (Binds On Equip)
+
+This bow has been heavily modified and can fire three arrows at once with a lower accuracy, or one arrow at +20% power. It adds 100 points of Lightning Damage to any arrow it fires. It also grants the Archery skill. If the skill is already present, it instead grants +5 levels to that skill.
+
+“Yeah, Tommy should like that.” Ren said, and stored the bow. “I'll head over to Nathalia's Restaurant and have her deliver it to the store.”
+
+“You might as well do the bracers, too.” Tee-one said.
+
+“Right!” Ren used the Craft Wondrous Item skill again to give the bracers back their enchantment, stored them, then left the workshop.
+
+I wonder how much I should charge him? Ren asked himself as he ran to the restaurant.

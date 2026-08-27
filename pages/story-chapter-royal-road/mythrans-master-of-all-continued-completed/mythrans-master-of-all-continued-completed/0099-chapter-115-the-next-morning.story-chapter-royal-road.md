@@ -1,0 +1,457 @@
+---
+id: a9513d0d-eca9-52df-8719-d725e5a797d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115 - The Next Morning"
+slug: 0099-chapter-115-the-next-morning
+partOf: mythrans-master-of-all-continued-completed
+position: 99
+ownLength: 4798
+unit: words
+publishedAt: 2016-12-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107698/chapter-115-the-next-morning"
+royalRoadId: "107698"
+---
+
+Ren 'woke up' in the game, and looked at Nathalia. He'd only been out for an hour, so he still had about 8 hours left until morning. He shifted over a little bit to get closer to her, and she opened her eyes.
+
+“Hey, beautiful.” Ren said.
+
+“Hi.” Nathalia said, and her face flushed a little red at Ren's compliment. He held an arm up and she turned onto her side, moved in close, and cuddled into his chest. He half-hugged her again, just like he did before, and rested his hand on her hip. They both took in a deep breath and exhaled together.
+
+“This feels so nice.” Nathalia said and looked up at Ren.
+
+“It really does.” Ren said, cupped the side of her face with his other hand, and gently kissed her lips. Nathalia caressed his abdomen as the kiss went on a little longer than Ren had intended, then Little Ren made another appearance. The edge of her hand brushed the top of the bulge and Ren took in a breath through his nose. Nathalia broke the kiss and ducked her head down onto his chest, and stared at what she'd accidentally touched.
+
+“G-goodnight, R-Ren.” Nathalia said in a slightly shaky voice.
+
+“Goodnight, Nathalia.” Ren said, and smiled as he drifted off to sleep. The bulge stayed around for a while, and she looked at it the entire time. She tried to look at something else... anything else... but, her eyes were always drawn right back to it.
+
+I have to resist. Nathalia thought. No matter how much I want to see it, I have to resist!  When the bulge eventually went away, she relaxed and sighed, then drifted off to sleep herself.
+
+*
+
+Dorcot was having a hard time trying to have a conversation with his wife. She'd always been a bit stubborn, and it was one of the qualities that had drawn him to her; but sometimes it got in the way, like now.
+
+“Sugarplum! Please...”
+
+“No! I won't hear another word!” She squeaked at him. “This is my House. I've lived here all my life. I've raised 3 children here, and 10 grandchildren! I won't turn my back on it now, just because someone is tempting you away by waving a few stones in front of your face.”
+
+“Baby, please...” Dorcot pleaded.
+
+“I said no!” She whirled around and pointed a finger in his face. Dorcot was over a foot taller than her, so that was quite an accomplishment. “And you're not allowed to accept the position, either.” She dropped her finger and put her hands on her hips. “I'm fine with you working there, but you aren't leaving my House.”
+
+Dorcot knelt in front of her on one knee, and took one of the hands from her hip. “My little Lambchop.”
+
+Angeilin couldn't stop herself from smiling, as Dorcot called her by the private nickname he only used when they were 'alone'.
+
+“You know how I feel about that...” He said. “...but I've never asked you to try and change it, have I?”
+
+She shook her head.
+
+“I've sat by and watched your House take so much of your hard earned money all these years.” Dorcot said. “If you want to stay in this House, I won't argue with you about it.” He reached into his pocket and put 7 gold coins into her hand.
+
+“What... what's this?!?”
+
+“I did a job today.” Dorgot said and let the hand go, and she almost dropped it. “That's 35% of what I earned.”
+
+“J-j-j-just for today?” Angeilin stammered.
+
+He nodded and pulled out the 13 gold coins he had left. “Here's the rest of it.” He said and passed it to her. She had to cup her arms together to hold it all.
+
+“By the gods!” She squeaked in shock.
+
+“That's what I said after he offered me a job.”
+
+“If you made this... every day...” She said. More than a month's wages in only a day!
+
+“No, you're right. This is your House.” He said. “We'll stay.”
+
+“But...”
+
+Dorcot leaned over and gave his diminutive wife a passionate kiss. She dropped the pile of coins, and they clattered across the floor as she wrapped her arms around his neck. The two of them stayed that way for a couple of minutes, and then Dorcot broke the kiss.
+
+“It's getting late.” He said. “Are you coming to bed?”
+
+Angeilin nodded slightly. He hasn't kissed me like that in years!
+
+Dorcot smiled at her, and picked Angeilin up in the classic 'princess carry', with a hand behind her back and one under her knees. She gave a squeaky 'yip' and hugged his neck tighter. He carried her into their tiny bedroom, which was in their tiny house, that sat on the tiny lot assigned by her House decades before. Dorcot closed the door with his foot, and squeaky giggles were heard a moment later.
+
+The money that scattered across the floor had been completely forgotten.
+
+*
+
+Ren woke up in bed, and saw that Nathalia had draped herself across his chest. One arm had worked itself up under the one he was hugging her with, and her other arm had a good grip on his opposite shoulder. Half of her body was on top of him, and one of her legs was across both of his. Since she was wearing a dress, it was like he was covered in a blanket. Ren didn't move; mainly because it did feel really nice, and he didn't want to wake her up. That thought was short lived, however.
+
+Nathalia's even breaths stopped, she took in a deep breath, then exhaled. She compressed all of her muscles at once, essentially giving Ren a full body hug, and then she sighed. Ren lifted his free arm and the one he had on her hip, and gave her a hug back. She froze for a moment and then lifted her head to look at him.
+
+“Oh, you're awake.” Nathalia said and let his shoulder go, then pulled her leg back.
+
+“What's wrong?” Ren asked.
+
+“What?”
+
+“Why are you pulling away?”
+
+“I... I thought... well, I was practically laying on top of you.”
+
+“Yeah, and?”
+
+“You don't think that was a bit too much touching?” Nathalia asked, and then took a deep breath. “I mean, you were asleep, and I couldn't help myself, and I wanted to hug you, but you were laying down and I couldn't wrap my arms around you and I wanted to hold you close, so I-”
+
+Ren chuckled. “Nathalia...” He said and held onto her. “Darling, it's okay.”
+
+Nathalia looked at Ren in surprise. “R-really?” He called me Darling!
+
+“We have some time before we have to get up.” Ren said. “Let me enjoy holding you close for just a little while longer.”
+
+Nathalia beamed a smile and draped herself back over Ren and snuggled down. She took in another breath and sighed. “Thank you.”
+
+Ren chuckled again, then ran a hand along the side of her face. “Nathalia, you don't have to thank me.” He said, and she looked up at him. “I think we're both getting more out of this, than either of us believes the other is getting.”
+
+“What are you saying?”
+
+“Lucy hurt me a lot when she left, and you were right there for me.” Ren said and cupped the side of her face. “I don't know what I would have done, if...” He shook his head. “No, I won't guess about that.” He said. “You gave me something to hold on to, when I thought I was losing everything.” He smiled. “And I grabbed on with both hands.” Ren gave Nathalia a quick kiss, and let her face go. “Thank you.”
+
+“It was the same for me.” Nathalia said and smiled. “I'd met this great guy, got engaged, spent more time with him than any other man in my life, and then developed a great friendship. Then we had the engagement nullified, you saved the House, and then I was sent to a convent... and I wouldn't get to see you again for a whole year!” She said. “I was nearly heart-broken.” She sighed. “When you decided to escort me along the way, and told me you'd be right there for me the whole time, I... I went a little crazy I think.” Nathalia laughed. “Something came over me, and I took a chance on you... then when you actually said yes, I was over the moon!” She gave Ren a quick kiss. “Thank you.”
+
+“We make quite the pair.” Ren said and smiled.
+
+“We sure do.” Nathalia said, took Ren's hand and intertwined her fingers in his, then held on. He pulled their clasped hands up onto his chest and held them over his heart. Nathalia ducked her head down onto Ren's chest, and snuggled into him. They both took deep breaths and exhaled together.
+
+*
+
+Dorcot was making breakfast for his wife. It was only eggs and toast, but at least they had enough money now so that things weren't so tight. If they rationed it out, they'd have a really good month before they had to go back and scrape out a living on her paycheck alone. Angeilin opened the bedroom door and came out to the kitchen. She sat down at the table and rested her head on her crossed arms.
+
+“I'm still exhausted.” Angeilin yawned. “I didn't get a lot of sleep last night.”
+
+Dorcot put a plate of eggs and toast on the table in front of her, and her eyes widened.
+
+“What's this?” She asked, surprised.
+
+“I couldn't sleep myself, so I got up early and made you breakfast.” Dorcot said, and sat across from her to eat. “We've got a bit of extra money right now, so I might head over to the farm and pick up a few things.”
+
+Angeilin sat up straight and dug into the food, then froze. “The money!” She looked frantically over the floor but couldn't see anything.
+
+Dorcot laughed. “I picked it up already.” He said and put 7 gold coins on the table. “You better take that to the Main House before... ah... it get's dropped again.”
+
+Angeilin blushed a deep red and nodded slightly. She tucked the money into her pocket and looked at her husband. “What came over you last night?” She asked and kept eating.
+
+“I don't know.” Dorcot shrugged. “I was really happy, and when I took your hand and got close to you, I just...” He smiled. “...I couldn't help myself.”
+
+Angeilin smiled and ducked her head a little. They finished eating breakfast and Dorcot cleared away the dishes.
+
+“Dorcot.”
+
+“Yes, Sugarplum?” Dorcot asked as he started washing the dishes from the night before.
+
+“Will you be stopping by House Neram while you're out today?”
+
+“I am.”
+
+“Good.” She said and hopped out of the chair. If he makes as much today as he did yesterday...
+
+“I was supposed to go back last night to give him my answer.” Dorcot said.
+
+“What are you going to say?”
+
+“No, of course.”
+
+“But...”
+
+“Honey, you're right. You won't leave, and I can't go without you.”
+
+“But, the job...”
+
+“You know why I won't work for anyone else.” He said, stopped washing the dishes, and turned around. “Look at your pockets. They're overflowing... and you have to give the House a week and a half's worth of wages, just because you aren't working for them.” Dorcot sighed. “I was tempted to just keep it myself and not tell you; but I've never hidden anything from you for the whole time we've been together, and I wasn't going to start now.”
+
+“Dorcot... do it just for a week... and then-”
+
+“Then what?” He said and walked over to her, and knelt. “Let's assume I get paid 20 gold a day for the next 6 days. That's 120 gold, Angeilin... and the House will get 42 of that. 42!” He said and raised his hands in the air for a second, then looked her in the eyes. “I'm not a greedy man. When I was making a lot of money, I didn't think twice about giving money to the House.” Dorcot took her hand and smiled. “But when I lost my job, did they help us out? Did they help me find a job? Did they give you one?”
+
+“There weren't any jobs available, Dorcot.” Angeilin tried to defend her House.
+
+“For 20 years?”
+
+Angeilin sighed.
+
+“I'm tired of the House bleeding us dry, for no reason other than they can.” Dorcot said.
+
+“And I'm tired of hearing this old argument.” She said.
+
+“I know.”
+
+“I have to get to work.” Angeilin slowly pulled her hand from Dorcot's grasp. “I'll see you tonight.”
+
+“Of course, Sugarplum.” He said and gave her a kiss. “I love you.”
+
+“I love you, too.” Angeilin said and left the tiny house. She walked down the street several blocks to the Main House, to drop off the garnished wages.
+
+*
+
+“Hey, Ren. It's almost time.” Teepo said. “I was just in the kitchen, and Narhilda is reheating the stew.”
+
+Thanks, buddy. Ren thought, then rubbed Nathalia's back a little. “Time to get up.”
+
+Nathalia wiggled a little and cuddled closer.
+
+“If you don't want to eat stew for breakfast, you need to let me up.”
+
+Nathalia lifted her head and smiled at him. “Why should I care what I eat, when I have you like this?”
+
+“You have me locked up pretty tight.” Ren said and smiled. “But I have a key.”
+
+“Oh, really?” Nathalia said and gave him a kiss. “What exactly is this ke-eeeahhH!”
+
+Ren had pinched her butt.
+
+Nathalia jumped up and rolled over Ren to his other side, and let his hand go. “Ren!” She said, faced towards him, and rubbed a hand on her backside. “You didn't have to pinch me.”
+
+Ren slid close to her and smiled. “I gave you fair warning.” He said and gave her a quick kiss. “Let me help you with that.” Ren reached for where he'd pinched her. “I'm sorry if it hurt.” He gently ran his hand in slow circles over her cheek and she closed her eyes.
+
+Ren took that opportunity to lean in and nuzzle her neck. Nathalia giggled and he moved up to her earlobe.
+
+“Mmmm....” Nathalia said and hugged Ren with one hand, then ran her other hand through his hair.
+
+“You're doing a great job making breakfast.” Teepo said and chittered in laughter.
+
+Ren stopped nuzzling her ear and leaned back. “I want to make french toast for breakfast.”
+
+“Why didn't you say so!” Nathalia gave him a quick kiss and pushed him away. She rolled of the bed and stood up. “What are you waiting for? Get up, mister!”
+
+Ren laughed and rolled off the bed to stand up himself, and Nathalia practically dragged him into the kitchen.
+
+“Stop whatever you're doing, Ma.” Nathalia said and grinned. “Ren's making french toast.”
+
+“Ooo.” Narhilda said and smiled as she stepped away from the stove. “Have at it.”
+
+Ren shook his head as Narhilda joined her daughter at the kitchen table and he set everything up to cook one of their favorite breakfast dishes.
+
+“I'm starting to regret that I showed you this on the ship, Nathalia.” He said and smiled.
+
+She laughed and her mother joined in. “That's a lie.”
+
+Ren grinned and winked at her. A short time later, he had several pieces done up and set them on the table.
+
+“You've shown me how you do it, but I still can't get them as fluffy as you do.” Nathalia said. “These taste better, too.”
+
+Ren laughed as he made a few more pieces of french toast. “They always taste better because you don't have to cook them.”
+
+“That, too.” Nathalia said between mouthfuls.
+
+*
+
+“Okay, people. Load up.” Barnar said to his crew. Everyone had actually shown up on time. Some of them staggered a little, but that was to be expected. Barnar smiled. “Come on, the carts aren't going to load themselves!”
+
+*
+
+“What do you mean, you're garnishing more of my wages?” Angeilin squeaked to the clerk at the desk.
+
+“You just handed in 7 gold coins. That's nearly a week and a half's wages.”
+
+“I know that, and I told you how I got it. So why?”
+
+“You've obviously been hoarding it from the House.”
+
+Angeilin widened her eyes. “Are you questioning my Honor?!?”
+
+“Yes.”
+
+“You... YOU...” Angeilin yelled, and several other clerks looked their way.
+
+“Calm down, please.” The dwarf said, and looked around.
+
+“You are an IDIOT!” Angeilin yelled. “I've defended this House for years. YEARS!” She skreeched. “I've argued with my husband for decades, over you taking my pay.” She said, calming down a little when one of the guards came over to see what the disturbance was. Angeilin pointed a finger at the clerk. “This idiot just questioned my Honor, right here in the Main House!”
+
+The guard looked surprised, and turned to stare at the clerk with stern eyes. “You really are an idiot.”
+
+“What's going on over here?” The manager said as he approached. The guard filled him in and the manager sighed. “Ma'am, what can we do to make this up to you?”
+
+Angeilin looked at him like he was crazy. “I think... I think my husband was right.” She said. “This... man... questioned my Honor, over money of all things, and you want to make it up to me?” Angeilin took a deep breath to calm down. “If I was a man, he'd be challenged and I'd get my Honor back.” She said to the manager's surprised face. “How will you make that up to me?”
+
+The manager opened his mouth to speak, closed it, then sighed.
+
+“Exactly.” Angeilin said, disgusted. “He's a member of the Main Family. Nothing will happen to him because of this.” She said. “He increased the garnish on my wages to 45%, and since he's a Main family member and you're not... you can't even stop it.”
+
+The manager nodded slightly.
+
+“Then, there is something you can do for me.”
+
+“What is it, Ma'am?”
+
+“You are granting my husband's release from the House, and also his petition for my release to go with him.”
+
+“W-w-what?”
+
+“I will not stand by and let you take nearly half of my money, for NO REASON!” Angeilin screetched. “After all these years, and all the money you've taken from me...” She shook her head. “I'll have no more of it.”
+
+“But... but...”
+
+“Get the forms.” She squeaked. “I want to sign them right now.”
+
+The manager left to get the forms, and Angeilin looked at the smug clerk.
+
+“As for you.” She said and smiled. “My husband won't like hearing about how I've been treated here today.”
+
+“Like that matters.” The clerk said.
+
+“Shut your mouth!” The guard said, and the clerk looked at him in shock. “I'll not have you speak in that tone in front of this woman.”
+
+“And what are you going to do about it?”
+
+“Unlike her, I can challenge you, sir.”
+
+The clerk's eyes bulged, and he sputtered several times.
+
+The manager came back with the forms and saw the state of the clerk. “What happened now?”
+
+The clerk stopped sputtering and glared at the guard. “This... this guard...”
+
+“I'm also submitting my resignation.”
+
+The clerk and manager stared at him, then the guard felt a tiny hand touch his. He looked down at Angeilin and she smiled.
+
+“You don't have to do that.” She said. “It's bad enough that they're losing me and my husband.”
+
+The guard smiled at her. “You're right.” He said. “It is bad, especially since it's people like him...” The guard waved to the clerk. “...are the ones that are running this place, and not people like you.”
+
+“What about your family?” Angeilin asked.
+
+“I haven't found anyone to share that Honor with.”
+
+Angeilin nodded slightly and turned to the manager. “Are they filled out?”
+
+“Yes.” He said and handed them to her. She read them and then frowned. “What's this gold penalty?”
+
+“Your husband needs to compensate the House for a year's work.”
+
+Angeilin chuckled, and it sounded like glasses tinkling. “Sir, he hasn't worked a job in nearly 20 years. He owes you nothing for not working next year, too.”
+
+The manager looked at her with surprise on his face. “But... everyone works.”
+
+Angeilin chuckled again. “He told me that there was no point for him to work, because you'd be taking the money anyways.” She smiled. “You can check your records, but he's never paid anything... until today. You've seen how it's turned out.”
+
+The manager sighed and took the form back, scratched out the gold penalty, and put his initials by the correction. “Bring this back after he signs it.” The manager said and handed it to her.
+
+Angeilin smiled. “I'm his wife. I can sign in his name if he isn't here.” She scribbled her signature on the form and then looked at the one meant for her. Since it was a spousal support form, there was no penalty and she grinned as she signed it and handed both forms to the manager. He checked them over and saw an empty space on one.
+
+“What House are you going to, Ma'am.”
+
+“Is that required?” She asked, and the manager nodded slightly. “House Neram offered my husband a job.”
+
+The manager filled in the name, added his initials, and turned to the guard. “I'll be right back with your form.”
+
+They watched as the manager walked away. The clerk didn't say anything else to them and sat there in silence.
+
+Angeilin looked up at the guard. “What are you going to do now?”
+
+The guard smiled at her. “Do you think House Neram is hiring?”
+
+She smiled back. “I can almost guarantee it.”
+
+The manager came back with the form for the guard. The poor man stared at the gold penalty, shook his head, and signed it. The manager checked it was in order, put his initials on it, and looked at the guard. “You have a week to arrange payment.” He said to the guard and turned to face them both. “I'm sorry that this incident happened, and I'm sorry that we've lost 2 good workers because of it. If you change you-”
+
+Angeilin stared at the manager and he stopped speaking.
+
+“My husband is a great worker.” She said, proudly. “He just doesn't want to work for this House.” Angeilin turned and walked to the door. “Neither do I.” She said and a tear came to her eye. “Not anymore.”
+
+The guard followed her, and once she was outside the building and had walked half a block, he knelt and held her as she cried. She was done after a few minutes, and he let her go.
+
+“I... I'm sorry.” Angeilin said, wiping her tears away with her hand. “It just hit me... what I just did.”
+
+The guard chuckled. “I'm still waiting for it to hit me.”
+
+Angeilin snorted a laugh and then smiled. “Thank you.”
+
+The guard waved her thanks away. “Where are you headed?”
+
+“House Neram.” She said. “Hopefully I can catch my husband there, before he turns the job down.”
+
+“I'd like to accompany you, if I may?”
+
+Angeilin nodded slightly. “I'd appreciate the company.”
+
+They walked down the street several blocks, until they came to the main road. They followed that for several blocks as well, and then took the turn to go to House Neram.
+
+“I hope we can catch him!” Angeilin said and tried to walk faster.
+
+“Ma'am, you shouldn't push yourself too hard.” The guard said.
+
+“Are you saying I can't do it?”
+
+“No, Ma'am. I'm saying you'll be too exhausted to talk, if you rush.”
+
+She sighed and nodded slightly. “You're right. We'll get there when we get there.”
+
+Just then, they heard several carts approach from behind. They stopped walking and turned around to see 12 carts being pulled by ponies, coming up the road. The lead cart slowed down and the others passed it.
+
+“Are you headed to House Neram?” The female driver asked. There was a woman beside her and a woman in the back.
+
+“How did you know?” Angeilin asked.
+
+The driver laughed. “There's nothing else out this way.”
+
+“Oh.”
+
+“Hop in. I'll give you a lift.”
+
+“Thank you.” Angeilin and the guard said together, and he helped her climb up into the back.
+
+*
+
+Ren had made several stacks of french toast, more than enough for all of Barnar's workers. If Ren's guess was right, some of them were going to need extra food this morning.
+
+“I'll be right back.” He said and took several pieces of french toast out to Princess. “There you go.” He'd barely gotten his hand out of the way before she gobbled it down. Ren stood back and glared at her. “Hey, now!” He said sternly. “That wasn't nice.”
+
+She bleated loudly and put her nose next to the bowl.
+
+“No, I need to say something first.” Ren said and concentrated on his Command Aura. “I am not your servant. I am taking care of you because you are mine. You will treat me with respect.”
+
+Princess ducked her head and huffed, then lay her head down next to the bowl. Ren took a deep breath and sighed. He stepped over to her and pat her neck.
+
+“You're a big girl. You can eat without trying to take my hand off.”
+
+She huffed and closed her eyes.
+
+“Okay.” Ren said and stood up. “That's fine.” He walked over to the stable door. “I've been spoiling you a little too much, with all this great tasting food.” He said. “It's been more than you can handle, so I'll only give you what you need to eat from now on.” Ren opened the door and stepped out.
+
+*BLEAT*
+
+Ren turned around and looked at her. “What?”
+
+Princess nodded and huffed, and pushed the bowl away with her nose.
+
+“You'll be more careful from now on?”
+
+She nodded and huffed again.
+
+“Okay.” Ren said and went back over to the bowl. “If this happens again, I'll start treating you like an actual mount.” He said and looked her in the eye. “You won't like that.”
+
+Princess shook her head and Ren dropped 3 more pieces of french toast in the bowl. He moved the bowl back to where she liked it, and Princess picked a piece up with her lips and chewed it slowly.
+
+“I said you needed to be careful about biting me when I feed you.” Ren said. “Once you have it in front of you, you can eat it however you like.”
+
+Princess sucked the piece into her mouth, swallowed, then jammed her face into the bowl.
+
+“You won't enjoy it as much like that, though.” Ren said and left the stable. He heard several carts coming up the road and ran inside to tell Nathalia and her mother that he was going to be busy for a while. Nathalia kissed him and he ran back outside.
+
+Feel like another ride, Teepo?
+
+“Yeah!” Teepo said and climbed onto Ren's hand. Ren tossed Teepo up about 20 feet and Teepo confirmed that it was a mix of carts, both Barnar's and the rented ones.
+
+Thanks, Teepo.
+
+Ren unlocked the main gate, and left it open. The stonemason workers needed easy access, and he didn't want to stand there all day and have to keep unlocking it, just to let them inside. He went out to the main road and walked over to the road he'd made himself. As the carts passed, Ren greeted everyone. Some waved, some smiled, and one woman winked at him. The other woman in the cart smacked her in the back of the head. Ren tried not to smile as the last cart came by and he greeted the women. The cart came to a stop, however; and a guard from another House got out of the back, and he helped someone else climb down. Ren recognized her immediately and stepped over to her. He reached down for her hand and bent over it.
+
+“Ma'am.” Ren said, let her hand go, and stood up straight. “It's a pleasure to see you again.”
+
+Angeilin blushed slightly at his formal greeting and it made her forget what she wanted to say.
+
+“Are you here because of my offer to your husband?”
+
+“Yes. Yes, I am.” She said, trying to regain her composure.
+
+Ren knelt on one knee so he could look her in the face without her having to constantly look up to him. “May I ask what you decided?”
+
+Angeilin reached out her hand for Ren to take again.
+
+“We accept.”

@@ -1,0 +1,255 @@
+---
+id: c481ae8d-c79f-5bc8-9021-4d83e61f9f19
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52 Departure"
+slug: 0056-chapter-52-departure
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 56
+ownLength: 2162
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3359081/chapter-52-departure"
+royalRoadId: "3359081"
+---
+
+They gathered in the manor courtyard beneath the pale light of early morning.
+
+Mist drifted from the horses at the hitching rail, their tack secured, leather straps resting against their flanks while guards checked their gear. Tomas stood among them, out of place in his militia uniform.
+
+Dorian stood a short distance apart, his gaze passing once over the formation before settling on Lucien as he approached.
+
+The guards straightened at once.
+
+“My Lord.”
+
+He returned the greetings with a nod of his own, his eyes moved across the group before pausing briefly on Tomas. The young man met his gaze for a moment before lowering it in acknowledgment.
+
+“First time traveling to Helvarn?” he asked.
+
+“Yes, My Lord.”
+
+He regarded him briefly. “Then keep your pace steady, the road will do the rest.”
+
+Tomas dipped his head in acknowledgment.
+
+In a way, his words were meant for both Tomas and himself. He had never been outside the village for more than a day before.
+
+His attention shifted toward Dorian. “I will leave Ashridge’s security to you.”
+
+The captain gave a short nod. “By your command, My Lord.”
+
+Lucien studied him for a moment, then gave a faint nod in return. He turned to face the others waiting nearby.
+
+Alicia stood nearby, a folded bundle of cloth in her hands. She stepped forward as he approached, the tightening of her fingers betraying a tension she did not otherwise show.
+
+“These will help against the cold,” she said softly.
+
+Lucien accepted the bundle from her. “Thank you.”
+
+She hesitated for a moment after passing it to him, her gaze lifting briefly before lowering again. “Please...take care, My Lord.”
+
+“I will.”
+
+Despite his words, Alicia still looked rather worried. She had requested to come along during yesterday’s dinner, but he had refused. He knew too little about Helvarn’s environment to risk the girl’s safety.
+
+A few paces away, Sera stood near the edge of the courtyard.
+
+Lucien met her gaze, and a long moment passed between them.
+
+She reached into her satchel and drew out the familiar scrap of parchment. Charcoal moved quickly across its surface before she turned it toward him.
+
+Road clear.
+
+He inclined his head faintly. “Good to know.”
+
+Normally, that would have been all, but he hesitated. The planning and marking of the outpost for the southwestern ridge had already begun.
+
+Sera tilted her head, waiting a moment before her gaze shifted toward the ridge, then back to him.
+
+She gave a small nod.
+
+Lucien returned the gesture. “Don’t push yourself too hard.”
+
+If Sera offered out of her own will, then he would respect her choice.
+
+Her gaze lingered on him for a breath before shifting toward the northern gate, as though marking the direction of his departure.
+
+Elias approached as Lucien finished his farewells. “My Lord, I’ve packed the necessary ledgers for your trade requests.”
+
+“Was Joren’s projection for our iron needs included?”
+
+He paused briefly before answering, his tone slightly dry. “Yes… the man was rather insistent about the amount.”
+
+“It’s fine, Elias. Our iron supply is the most urgent of our concerns.”
+
+“Of course, My Lord.” He stepped back with a slight nod.
+
+A cluster of movement rushed in from the outer path, footsteps uneven against the frost-hardened ground.
+
+He caught the briefest shift in the steward’s composure as the children ran in all at once.
+
+The boy with the hoop reached the courtyard first, slowing abruptly as he spotted the gathered riders. He stopped just short of the line of horses, his eyes moving between them as though assessing before speaking.
+
+“You’re leaving early,” he said, certain in the way only a child could be.
+
+Lucien glanced toward him. “The road is clearer in the morning.”
+
+The boy nodded once, accepting the explanation before stepping aside to allow the others to catch up.
+
+The girl with the rag doll arrived next, the worn toy tucked firmly beneath her arm. She did not speak, her eyes drifting toward the horses before settling briefly on Lucien. After a moment, she shifted slightly to make space for the smaller boy at her side.
+
+The Cragwatch boy lingered close to her, his attention shifting from one rider to the next. When it reached Lucien, it stayed there, as if trying to place him.
+
+“You’re going north,” he said, watching him closely.
+
+Lucien regarded him briefly. “I am, to Helvarn.”
+
+The boy nodded once, slower than before. “Our lord used to leave like that,” he said after a moment. “He didn’t come back much.”
+
+It was something he intended to understand in Helvarn. He had his own suspicions, but that could only be confirmed when he reached the fortress town.
+
+Nearby, the smallest girl stepped forward without hesitation, her eyes lifting directly to his. “Are you going to fight something?”
+
+“No, I am going to trade.”
+
+She considered that for a moment, her brow scrunching faintly. “That sounds boring.”
+
+“It is,” he agreed solemnly.
+
+The wooden sword boy pushed forward, nearly colliding with the others. He straightened immediately, planting his feet as he lifted the wooden blade in a rough attempt at a formal salute.
+
+“Then we shall guard the village in your absence!” he declared, his voice carrying a seriousness that did not quite match the wobble of the sword in his hand.
+
+Behind him, the hoop boy let out a quiet breath. “You already do that,” he muttered.
+
+The declaration faltered only briefly before the wooden sword boy recovered, lowering the weapon with a determined nod as though the matter were settled.
+
+Alicia’s hand rose gently to her mouth, though the faint curve at the corner of her lips did not fully disappear.
+
+Lucien regarded the small group for a moment. “Then see that you do,” he said seriously.
+
+The wooden sword boy straightened further at the acknowledgment, gripping the handle of the wooden blade with renewed determination.
+
+He turned toward the horses.
+
+One of the guards mounted first, guiding his horse toward the manor gates while the others followed in sequence. Tomas swung into the saddle, his grip firm as he settled among the riders.
+
+He mounted, the horse shifting beneath him before settling. He guided it forward at an easy pace, the small column forming naturally as they moved toward the palisade gates.
+
+The children stepped aside as they passed.
+
+The smallest girl waved once before lowering her hand quickly, as though unsure she should have. The Cragwatch boy stood beside the girl with the rag doll, their eyes following the riders.
+
+The hoop boy had already turned, watching the formation closely, while the wooden sword boy lifted his blade once more, though this time he said nothing.
+
+The riders continued on, leaving the courtyard behind as they made their way toward the northern gate.
+
+Lucien did not look back as the gates closed slowly behind them, the sound of timber settling marking the boundary between the village and the open land beyond.
+
+They began their journey north, to Helvarn.
+
+The road carried them west from Ashridge before bending gradually north along the low ridges at the edge of the valley.
+
+For most of the day, the journey passed without incident.
+
+The ground remained firm beneath the horses, late winter frost still holding where the sun had yet to fully claim the land. Patches of snow lingered in shaded hollows, though the road itself had been worn clear by passing carts and travelers.
+
+It lay empty, with no sign of the Tithe lingering along the route. There were only faint traces where the horde had moved through weeks ago.
+
+Lucien spoke little, his eyes on the road ahead, noting the gradual shift as the valley gave way to uneven ground. The guards maintained formation without issue, their pace settling into a natural rhythm.
+
+Tomas rode among them without falling behind. He spoke only when addressed, his earlier tension giving way to focus as the distance from Ashridge grew.
+
+By the time the sun began to lower toward the western hills, Lucien brought the group to a halt near a shallow rise where sparse trees broke the wind.
+
+They made camp for the night.
+
+Firelight flickered across the small clearing, where the horses were drawn close and bedrolls laid out upon the ground. Wind moved lightly through the branches above, carrying the faint scent of grass and earth as daylight faded beyond the hills.
+
+The guards settled into a routine. One checked the horses while another gathered spare firewood, the rest moving with the unspoken ease of men accustomed to travel, their voices kept low as night closed in.
+
+Lucien sat near the edge of the firelight.
+
+The ground beneath him was firm, its cold muted by the cloak Alicia had given him that morning. Above, the sky stretched clear between the branches, the first stars beginning to show.
+
+For a time, he simply looked up at the sky.
+
+Without light pollution, nights in this world were truly a thing to behold.
+
+The silence stretched around him, broken only by the faint sound of insects. Lucien had spent most of his life in cities, rarely beyond the reach of constant noise. Even Ashridge was never truly still, the presence of people lingering beneath the surface.
+
+Out here, the silence held, the space between sounds stretching further, unbroken by voices or the traces of human activity.
+
+Is this what Sera sees and hears for most of her life?
+
+It was no wonder she had gravitated toward Alicia’s chambers that day.
+
+Across the fire, Tomas sat with his back straight, his spear resting within reach against a nearby stone. He had been watching the flames for some time, though his gaze shifted slightly toward Lucien.
+
+He decided to break the silence first. “I have heard you wished to join my household guard, Tomas?”
+
+Tomas hesitated before replying, “Yes, My Lord.”
+
+He regarded him calmly. “That is not a decision made lightly. Are you sure of your choice?”
+
+For a moment, Tomas seemed to weigh his answer. “I never wanted to be a farmer,” he said at last.
+
+The words came without hesitation once he began, though his tone remained careful. “My father was one. His father before him.” He glanced briefly toward the fire. “It was expected.”
+
+Lucien said nothing, allowing him to continue.
+
+“But there wasn’t room for anything else. The noble's guard didn’t take more men than it needed. Not then.”
+
+Even then, Ashridge likely could not have afforded excess, every role defined by necessity rather than preference.
+
+“And even if they had,” Tomas continued, his voice lowering slightly, “I wouldn’t have chosen it.”
+
+His gaze lingered on him. “Why not?”
+
+Tomas hesitated, though only briefly. “...I didn’t want to serve him.”
+
+The fire cracked softly between them.
+
+Lucien studied him. “The former lord.”
+
+“Yes, My Lord.”
+
+Tomas exhaled faintly. “He wasn’t a bad lord. Not like some you hear about.” His gaze drifted briefly toward the dark beyond the firelight. “He kept the village running. Didn’t take more than he needed, nor did he punish without reason.”
+
+“But he wasn’t...around.”
+
+He understood the logic. One raised in a noble household would be taught to remain distant from their subjects. He was the odd one here, not the nobles of this world.
+
+Tomas searched for the right words. “He stayed in the manor. Most of the time, things were handled through others.”
+
+It was likely the previous reeve who had handled the daily affairs of the village. Even now, Cragwatch’s reeve had remained mostly by Bran’s side to assist with Ashridge’s work after he had been rescued.
+
+“If something happened,” Tomas continued, “it reached him eventually. But not before.”
+
+“And Alicia?” Lucien asked, though he already knew. It was always useful to hear it from the perspective of someone younger.
+
+Tomas’s expression darkened. “He noticed her. More than most.”
+
+“He wanted her in the manor.” he added, brows furrowing faintly.
+
+Lucien’s gaze remained unchanged. “But Bran hid her from sight.”
+
+Tomas nodded once. “The reeve had tried to convince him, said that her life would be more comfortable.”
+
+“But…” he trailed off, his voice faltering slightly, “there are worse lords.”
+
+Lucien inclined his head. What he had learned of noble authority sat poorly with him, but he withheld judgment for the moment. He still barely understood the world he now lived in.
+
+The fire burned lower, and for a time neither of them spoke.
+
+Then he shifted his gaze toward him once more. “And now?”
+
+Tomas met his eyes. “If you will have me, I will serve.”
+
+He studied him for a brief moment before giving a faint nod.
+
+It seemed he would have to procure some armor in Helvarn as well. It wouldn’t do for a guard to be so poorly equipped.
+
+Around them, the fire settled into a steady glow as the night deepened, the quiet of the open land stretching beyond the small circle of light.
+
+Above, the stars had fully claimed the sky.

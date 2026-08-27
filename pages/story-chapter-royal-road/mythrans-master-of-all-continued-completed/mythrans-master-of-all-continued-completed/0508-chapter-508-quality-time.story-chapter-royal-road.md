@@ -1,0 +1,359 @@
+---
+id: 748fd4d4-3da9-5dcd-905d-fdfa217beacd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 508 - Quality Time"
+slug: 0508-chapter-508-quality-time
+partOf: mythrans-master-of-all-continued-completed
+position: 508
+ownLength: 3427
+unit: words
+publishedAt: 2018-02-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193691/chapter-508-quality-time"
+royalRoadId: "193691"
+---
+
+Ren had been right, and it took a long time for them to adjust to the new time compression. They had to keep opening the front door to suspend the Sanctuary effect, almost like a decompression chamber, and eventually they became accustomed and shut the door for almost an hour.
+
+The time compression that was in Lara's closet and the pocket realms, which was 13.75 years per day, was quadrupled inside the enhanced Sanctuary, or 55 years per day. When the door opened and Ren, Lara, and Artemis stepped out holding hands, thanks to Teepo and his knack for keeping track of time, it had only been 53 minutes since they had left; but, that meant they had spent an entire 2 years together in the house.
+
+“Oh, wow.” Lara said and looked around. “I'd almost forgotten what this place was like.”
+
+“Me, too.” Ren said and let Lara's and Artemis' hands go. “Teepo, thanks for reminding us when we needed to leave.”
+
+“You guys would have just stayed in your self-made paradise if I hadn't.” Teepo chittered in laughter from Ren's shoulder.
+
+“Oh, you.” Lara said and reached out to scratch Teepo's carapace. Her eyes went blank for a moment while Teepo chittered in pleasure, then she smiled. “Make sure Ren doesn't forget about Jennifer.”
+
+“I'm standing right here.” Ren chuckled and took Lara into his arms. “I'll be her white knight, just like we agreed.”
+
+“You are too good to be true, beloved.” Lara said and kissed him passionately.
+
+“I'm sorry to break this up, but the maids are going to be awake soon.” Teepo said.
+
+Lara broke the kiss and stroked Ren's face tenderly with her hand. “Thank you for proving that my first vision of us together could be changed.”
+
+“You left off 'for the better'.” Ren smiled and kissed her hand.
+
+“Did I?” Lara joked.
+
+Quick as a flash Ren used his fingers and tickled her sensitive and ticklish spots all over her body.
+
+“GAH!” Lara yelped and tried to block him, then she laughed uncontrollably when her efforts were fruitless.
+
+“For the better, right?” Ren asked, and she managed to nod her head. He relented in his attack, and she calmed down.
+
+“I really shouldn't let you do that.” Lara said when she caught her breath.
+
+“You can't help yourself.” Ren said and smiled. “I'm just too cute to say no to.”
+
+Lara snorted a laugh. “I should tell you that you are so full of yourself...” She ran a hand through his hair. “...except what you said is true.” She stepped back and partially turned away. “Make sure you watch me as I walk away.”
+
+“Like I'm in a trance.” Ren said and grinned at her. “Nothing could tear my eyes away from you right now.”
+
+Lara smiled sweetly and equipped her leather jacket as she walked towards the Library, and Ren watched her cute little ass saunter away in the tight jeans he had made for her.
+
+“What a sight.” Artemis said.
+
+Ren nodded as he felt Artemis' appreciation for seeing Lara's hips sway like that, and it matched his own appreciation for the sight. When Lara disappeared around the corner of the building, Ren turned and looked at Artemis. She wore jeans and leather jacket that were almost the same as the outfit Lara wore. Her normal-looking skin glistened in the sunlight while her free-flowing metal hair was now a deep amber color.
+
+“It's really weird that you don't block your emotions from me anymore.” Ren said.
+
+Artemis rolled her eyes. “You've been saying that for a year now.”
+
+Ren chuckled and motioned ahead of himself, and they started to walk up the road to the Main House. “I still haven't kissed you, either.”
+
+“You know, you didn't actually promise Rosie that you wouldn't.” Artemis reminded him.
+
+Ren laughed. “You've been saying that for almost a year.”
+
+Artemis laughed, too. Now that he had a spare moment, Ren took a look at his status.
+
+Show Status. Ren thought, and the popup appeared.
+
+Status
+
+Name  Ren (Neram) Level  143
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000  Honor  250,000 (Untouchable)
+
+Giant Kingdom:  Dark Elven Kingdom (Royal Consort):
+
+Respect  26,000  Influence  1,000,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Master Tailor  Grants 10 level bonus to Tailoring Skills; 5,000 Fame
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Unnamed King  +10 Levels to all Auras, you must be acknowledged in some way, grants skill: This Is Mine!
+
+Waterkin  Grants Water Manipulation Skill and Waterkin (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Awesomeness  Grants Admiration, free Charm Person, Personal Aura +150 feet
+
+Health  8,962 (Maxed 99,999)  Mana  9,747 (Maxed 99,999)
+
+Strength  1,169 (+15,140)  Dexterity  1,060 (+15,140)
+
+Vitality  1,035 (+15,140)  Agility  1,072 (+15,140)
+
+Endurance  1,055 (+15,140)  Intelligence  1,076 (+15,445)
+
+Luck  75 (+142)  Wisdom  1,090 (+15,445)
+
+“Wow.” Ren said and dismissed the popup. “I'm glad Lara's plan to get my other stats up to match reading those daily stat books worked out well.”
+
+“You know, you could have checked before now.” Teepo said.
+
+“I wouldn't feel so surprised if I had done that.” Ren said and chuckled, then they kept walking until they heard a shout from behind them.
+
+“Wait!” Lara's voice rang out. Ren and Artemis turned around and saw Lara run towards them.
+
+“What is it?” Ren asked.
+
+“I almost forgot to do this.” Lara said and stopped between them, then kissed Ren hard on the lips. She broke the kiss and took a step up into the air, then turned and kissed Artemis. “Second hand kiss.”
+
+“I don't think I'll ever get tired of seeing that.” Ren said.
+
+“I'd ask why, but I'm pretty sure it's because you're a man.” Lara said and made him laugh. “See you later.” She said and ran back to the Library.
+
+“Lara doesn't have a problem with kissing me.” Artemis said, and they kept walking towards the Main House.
+
+“Lara doesn't have someone that probably won't speak to her again for kissing someone so beautiful.” Ren said, and he felt Artemis' embarrassment at the compliment. “Hey, you know it's true.”
+
+Artemis nodded, and when they arrived at the Main House, she kissed his cheek and went into the warehouse across the street.
+
+Ren activated Sneak and went inside the Main House, then up to the apartment. Teepo, how's my time?
+
+A minute left, maybe two. Teepo thought back to him.
+
+Thanks, buddy. Ren thought and stored his clothing. When he saw one of the women on the bed move, he took the opportunity to slide back into the pile, then Teepo flew up and landed on the ceiling.
+
+“Hm?” Frikara turned her head and opened her eyes. “Where did you... by the gods!” She said and felt the difference in his emotions.
+
+“I missed you.” Ren said and kissed her. Frikara almost cried at the intensity of his feelings, and her whole body trembled as Ren poured 2 years of his feelings into the shared Aura. That woke the other 4 women up, and they trembled as well.
+
+“R-Ren, what...” Frikara tried to speak, but she couldn't put it into words.
+
+“I made a new spot for Lara and I to spend time together, without disturbing my time with anyone else.” Ren said. “It worked like a charm; but, I've been without your touch for a very long time.” He said and cupped her breasts. “You look so delicious!” He said and dove into them.
+
+“Gods!” Frikara gasped as Ren used his mouth and tongue judiciously, and she could do nothing except let him have his way with her. He played and teased, which nearly drove her wild, and then he made hot steamy love to her. The other women in the bed couldn't believe what was happening, because Ren had so much pent up need for Frikara that it was shocking. When he was done pleasing her, he turned to Andrela.
+
+“Look at you, so cute and sexy.” Ren said, and flooded the shared Aura with just as much intensity and need for her.
+
+“D-don't make me wait.” Andrela said and wrapped her arms around him. He made love to her, then to the other 3 women in no particular order. When he had pleased them all, they floated in emotional bliss in the shared Aura, and he let his Emotion Siphon ability touch them all to make them gasp. Ren took out the All-Seeing Mirror and checked on Yllana, and saw that she was asleep in her bed and had been there for a while.
+
+On a whim, Ren checked on the guys. He saw that they were in the club and that they were having a good time. When he checked on Jennifer, he saw her sitting alone at her dressing table in the upstairs communal dressing room.
+
+“I have to go for a little while.” Ren said. “Jennifer looks like she needs someone to talk to.”
+
+“Um-hm.” Frikara mumbled, and the maids nodded slightly.
+
+Ren gave each of them another kiss, then equipped his clothing. Teepo, let's go.
+
+Teepo fell from the ceiling and landed on Ren's shoulder, and they left the apartment, ran downstairs and outside, then up the street to the club. Ren disengaged his Auras and used a Full Illusion spell to make himself kind of ugly; with small ears, long dark hair, a pointy nose and sharp facial features that were at odd sizes to each other. He also took 2 steps up into the air and added a foot and a half to his height.
+
+Disguised Ren went into the club and was met by Gina. She didn't know him, and he smiled as she greeted him like she did all the other customers. He thanked her for welcoming him in, and used a much different voice than his normal one thanks to the Full Illusion spell, then gave her a silver coin as a tip.
+
+“I don't normally take tips.” Gina said, and he felt a spike of desire from her. “I suppose you want a bit of a dance later?”
+
+“No, ma'am.” Disguised Ren said. “I won't take you away from your important work, just to satisfy my insatiable lust.”
+
+Gina blinked her eyes for a moment, and her desire grew. “Did... did you just say...”
+
+“I'll find a dancer to keep me company for a while, then I'll be on my way.” Disguised Ren said, and put the coin in her hand. “I'll try the kitchen first.” He said and walked away.
+
+“There's no dancers in the kitchen!” Gina said. “They're just regular workers!”
+
+Disguised Ren chuckled. “I meant for food, but thanks for the warning.” He walked over to the kitchen and ordered two meals, stored them, then went to the bar and bought 4 tankards of ale and stored them. He activated Sneak and crept around the club and went behind the curtain behind the main stage, then went up the stairs and to the dressing room. He knocked on the door and waited. The door opened a moment later, and Jennifer was there.
+
+“Hey, who are you?” Jennifer asked, and Ren dismissed the Full Illusion spell. “RE-”
+
+Ren covered her mouth with a hand, moved her back into the dressing room, and shut the door. “Shh! I just snuck in here to talk to you.”
+
+Jennifer's animated bodyguard rushed over at them, and Ren quickly let her go and held his hands up in surrender to show that he wasn't a threat.
+
+“How are you?” Ren asked.
+
+“I'm fine.” Jennifer said automatically, and he felt the lie. He took her hand and gave it a little squeeze.
+
+“Did you tell anyone what happened?” Ren asked, and she turned away. He reached out and touched her arm with his other hand, and she looked back at him. “I'm not accusing you of anything, I'm just curious.”
+
+“But... you said...”
+
+“I only wanted to leave the decision in your hands.” Ren said. “I didn't have the right to say anything about it to anyone.”
+
+“I... I told the other dancers.” Jennifer admitted.
+
+“Good.” Ren said, and she looked at him with wide eyes. “Now they have some idea what you've been going through, and can be there when you need them.”
+
+“I thought you said you wanted to be there when I needed you?” Jennifer asked, and Ren smiled.
+
+“I'm here, aren't I?”
+
+Jennifer nodded, and Ren let her hand go.
+
+“Have you eaten yet?” Ren asked, and she shook her head. “Then, may I invite you to eat a meal with me?”
+
+“I'd like that, but I don't think I can look at you if we go downstairs, and you have that awful disguise on.” Jennifer said, and he chuckled.
+
+“I was thinking right here would be fine.” Ren said and took out a medium-sized table and two chairs, and set the two plates of food and two of the tankards of ale on it. “Ma'am, please have a seat.” He said and pulled out a chair for her.
+
+“I can't tell if you're being serious or not.” Jennifer said and sat down.
+
+“It's kind of both.” Ren said, and scooted her chair in closer to the table. “It's not really a date, since I didn't ask you out; but, I also want to treat you like a lady.” He smiled and sat down across from her. “Does that make sense?”
+
+“Not really.” Jennifer said and smiled back. “I'll take it, though.”
+
+They ate the meal in silence, and when they were done, sipped on the ale.
+
+“Are you going to tell Clint and the guys?” Ren asked.
+
+“The girls asked me the same thing not too long ago.” Jennifer said. “It's still the same answer.” She sighed. “I don't know.”
+
+“It's okay if you do, and it's okay if you don't.” Ren said.
+
+“I know, it's just...”
+
+Ren reached across the table and took her hand. “Don't let me or the dancers pressure you into making a decision right away.” He said. “Take your time and decide for yourself what you want to do.”
+
+“I'd rather someone just tell me so I don't have to think about it anymore.” Jennifer said. “As my friend, can't you just tell me what to do?”
+
+Ren chuckled. “I'd like nothing more than to do that for you, but I can't.” He said. “I'll back you 100% when you do decide, but it has to be your choice.”
+
+Jennifer sighed. “I guess I will tell them, just so they don't hate you forever.”
+
+“I killed one of their friends right in front of them.” Ren said and let her hand go. “I'm pretty sure they are always going to remember that.”
+
+“So will I.” Jennifer said. “I didn't believe it at the time, and it still seems a little surreal.” She said. “You just reached up and... snap. He was gone.”
+
+“I'm sorry you had to see that.” Ren said and leaned forward slightly. “Can I be a little vulgar?” He asked, and she nodded. “I wanted to rip off his arms and beat him to death with them.”
+
+Jennifer chuckled at the thought. “Why didn't you?”
+
+“It would have taken too long.” Ren said, and she laughed.
+
+Teepo chittered in laughter, and Jennifer stopped laughing and looked at Ren's shoulder.
+
+“There's a beetle on your shoulder.” Jennifer said and pointed.
+
+“Hi!” Teepo said and waved one of his front legs at her, and Jennifer's mouth fell open in surprise. That made both Ren and Teepo laugh.
+
+“It talked!” Jennifer said. “I thought it was a clasp on your cloak or something!”
+
+“This is Teepo, my longtime friend.” Ren said. “Thanks to some help from Lara, the Sage of Ages...”
+
+“...and a lot of experimentation...” Teepo added.
+
+“...we figured out how to make him solid and speak out loud.” Ren said.
+
+“That's amazing.” Jennifer said. “Wait, longtime friend?” She asked. “Does that mean he's always been around?”
+
+“In some form or another, yes.” Ren said.
+
+“Even... even when you and I... when we...”
+
+“He watched the door for threats, and not us.” Ren said. “He's always been discreet, and he has no interest in human mating rituals.”
+
+“I really don't.” Teepo said.
+
+“Well, that's a relief.” Jennifer said. “I think.”
+
+Ren chuckled. “Hey, do you feel like having another go?”
+
+“Wh-what?”
+
+“I know you're sad about what happened, and I know you won't accept a tip unless you do something for me.” Ren said and smiled. “You'll have to put up with my disguise for a while, though.”
+
+Jennifer thought about it. “Do you really want to do this?” She asked. “I mean, this whole situation happened because of us doing that.”
+
+“That's true, but I want you to be happy.” Ren said. “If I can give you a bit of stress relief, too...”
+
+Jennifer nodded. “Okay, but if you can change what you look like, why did you pick such an ugly disguise?”
+
+“That's why.” Ren said. “No one wants to look at someone that's not appealing in some way.”
+
+Jennifer smiled. “Your preaching to the choir.” She said and stood up. “Exotic dancer, remember?”
+
+Ren chuckled and stored the plates, tankards, table, and chairs. “Well, since I'm here for your pleasure, what do you want me to look like?”
+
+“Can it be anyone? Anyone at all?” Jennifer asked.
+
+“If I know what they look like, sure.” Ren said.
+
+Jennifer stepped close to lean down and whispered in his ear.
+
+“You're kidding.” Ren said, and her face went to a deep red as she shook her head.
+
+“W-w-will you do it?”
+
+“If that's what you want.” Ren said.
+
+“You're a great friend!” Jennifer said happily and hugged him.
+
+“Stand back so I can work my magic.” Ren said, and she stepped back, then darted forward and gave him a quick kiss. He felt how happy she was, and he took two steps into the air and cast the Full Illusion spell again. The man Jennifer wanted him to look like formed around him, and she reached out to touch him.
+
+“It feels so real!” Jennifer said.
+
+“It should sound real, too.” Ren said in a deep voice.
+
+“Oh, god!” Jennifer gasped. “Take me! Take me NOW!”
+
+“We could do it here, but we should go to your work room instead.” Ren said.
+
+“Yes! That's a great idea!” Jennifer grabbed Ren's hand and pulled him to the door. “I am so wet right now!”
+
+Ren laughed the signature laugh, and Jennifer couldn't contain her excitement as she pushed the door open and ran down the stairs.
+
+“Hurry!” Jennifer nearly yelled.
+
+They burst through the curtain behind the main stage, and the entire club stopped what they were doing and stared as Jennifer dragged Santa Claus behind her. No one spoke while the odd sight ran across the club, then disappeared into Jennifer's work room.
+
+********
+
+“Dammit, I can't do it.” Max, the Head Programmer at Sid Tec said. “Everything I try always comes back and interferes with him, and that will make the boss very unhappy.” He said, and then he smiled. “Oh, that... I can't... no, that's...” He grinned and typed up a quick synopsis of the problems Ren's title was going to unleash, then sent it to the CEO of the company, Edward Torren.
+
+“Oh, great and wise boss-man! The ball's in your court now.” Max said and sat back in his chair and crossed his arms to wait. “Tell me what I can do about this.”

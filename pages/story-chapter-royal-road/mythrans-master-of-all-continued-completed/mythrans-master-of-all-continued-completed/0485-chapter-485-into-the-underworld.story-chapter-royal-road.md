@@ -1,0 +1,291 @@
+---
+id: 2fe9ce7b-c57b-56e5-a5a4-92015b754853
+page-type-slug: story-chapter-royal-road
+title: "Chapter 485 - Into The Underworld"
+slug: 0485-chapter-485-into-the-underworld
+partOf: mythrans-master-of-all-continued-completed
+position: 485
+ownLength: 3825
+unit: words
+publishedAt: 2018-01-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187440/chapter-485-into-the-underworld"
+royalRoadId: "187440"
+---
+
+Ren stored the tower and looked at the rest of the group. “I'm sorry that took so long.”
+
+Elerlyth shook her head. “Why are you apologizing?” She asked. “Can't you feel that they were patiently waiting for us?”
+
+“I can, but it's only polite to apologize for making them wait while we-”
+
+“Shut it.” Elerlyth pointed at him. “They don't need to know the details.” She said. “Let's go.”
+
+“Just a second.” Ren said and took out the All-Seeing Mirror and asked it for the closest Underworld access way. It popped up back in the previous town. “Well, look at that.” He said and showed Elerlyth. “You're going back there sooner than you thought.”
+
+Elerlyth nodded and climbed up onto her mount.
+
+“I'll bring Zetaya home, then I'll meet you in the center of the town.” Ren said, and Zetaya tried to climb onto his back. “That's not going to work, now.” He sighed.
+
+Zetaya let out the sound of small branches snapping in a fire.
+
+“Yeah, I'm sad about it, too.” Ren said and took out the cart in Princess' saddle bag and attached it. He made a cover for it, and Zetaya climbed inside. “We'll be home in a couple of minutes.”
+
+Zetaya nodded it's head stub and ducked down, and Ren closed the cover. Elerlyth flew away with her Phantom Steed towards the abandoned town, and Ren rode Princess up into the air. Artemis floated up with them, and when Princess started to pour on the speed, Ren used his Fire Manipulation skill to hold Zetaya's shape, just like he had advised Railyse to do with the water elementals. He was pretty sure it wasn't really needed, since fire functioned differently than water; but, it was better to be safe than sorry.
+
+Zetaya began to feel distress about being alone in the cart, and then the trip was over. Princess came in for a landing right outside the large warehouse where the forge was, and Ren opened the cover on the cart.
+
+“It's okay! We're home.” Ren said as Zetaya jumped out and hugged him. “Next time, I'll use the larger cart and ride in the back with you.”
+
+Zetaya let out a crackling fire sound, and Ren picked the fire elemental up. It looked a little ridiculous, since the fire elemental was about 7 feet tall and Ren was only 4 feet and 7 inches tall.
+
+“Artemis? Wait here, please.” Ren said and carried Zetaya inside the warehouse. Tee-one already had the large forge door open, so Ren went right into the forge.
+
+“You did really well.” Ren said as he put Zetaya down, and when the fire elemental laid down to rest, Ren laid down with it and hugged it's head stub. “Stay here and rest up for a while.” He said. “I'll keep checking the All-Seeing Mirror for ghouls; but, I'm pretty sure we shouldn't have to go back out for another few days at least.”
+
+Zetaya nodded and it's head stub poked his face several times, and Ren puckered his lips and kissed it back.
+
+“I love you, too.” Ren said, hugged the fire elemental once more, and let it go. He stood up and left the forge, and Tee-one shut the door. “Tee-one, can you make Officer Holly's Holy Armor for me?”
+
+“Of course.” Tee-one said. “How do you want the extra enchantments done?”
+
+“Split the armor like we did with Princess, and prep each piece for 6 diamonds.” Ren said and took out a sack of diamonds, spread a couple hundred of them on the closest workbench, then enlarged them all to the right size. “Load them up with base stat boosts and with Double Infusion.” He said as he reloaded the wand. “I'll come back and use Double Infusion myself before going to bed.”
+
+“I should be done by the time you come back.” Tee-one said.
+
+“Thanks.” Ren said, then walked outside and held a hand out to Artemis. She took the offered hand and he brought her inside. “Tee-one, Ruck.” He said and presented her to the other 2 familiars as he let her hand go. “This is Artemis.”
+
+Tee-one stepped close, took her hand, and bent over it. “M'lady, it is a pleasure to finally meet you.”
+
+Ruck dropped down from the ceiling, flipped over, and landed dramatically beside her. He took her hand next and bent over it, too.
+
+“A dedicated worker that can fight when necessary, and a dedicated backpack covered in assault wands.” Artemis said and smiled. “It's a definite pleasure to meet you both, and I look forward to spending my off time with you.”
+
+“As do we.” Tee-one said. “It's just been Ruck and I for so long.”
+
+“I'm not the one you wanted made, though.” Artemis said. “Ren made me for himself to take with him when he goes out on adventures.” She explained. “He still has to make another familiar for you, too.”
+
+“We know.” Tee-one said and smiled. “That just means we get to have two new friends to spend time with.”
+
+Artemis smiled back and nodded.
+
+“We have to get back to Elerlyth before she starts searching for the access way to the underworld.” Ren said. Artemis walked behind him out of the warehouse and over to Princess.
+
+“REN!” A woman's voice hollered, and he turned to see Officer Holly.
+
+“I can't take you with me until your armor's made.” Ren said. “I don't even know if you would even survive the ride without it.”
+
+Officer Holly laughed. “I know I'm still too low of a level right now, so you don't have to rub it in.” She said and looked at the tall metallic woman beside him. “Um, who's this?”
+
+“This is Artemis.” Ren said. “Artemis, this is Officer Holly.”
+
+“I know who she is.” Artemis said and squinted her eyes at the much smaller woman. “You've caused trouble for Ren before.”
+
+“I'm trying to make up for that.” Officer Holly defended herself. “Wait, how do you know...” She looked at Ren. “Are you telling everyone that...”
+
+Ren chuckled and put a hand on her shoulder. “Artemis is my familiar, and was brought into this world with most of her knowledge already intact.”
+
+“Oh, well that makes... wait, what?” Officer Holly looked at the tall metallic woman, then back at Ren.
+
+“Familiars form mental connections with their creators.” Ren said. “She knows what I know.”
+
+“Actually, I only know what I needed to know.” Artemis corrected. “I don't know how to forge or enchant, or even how to sew or cook.”
+
+“Really?” Ren asked as he unhooked the cart from Princess and put it in her saddle bag.
+
+“Those skills aren't necessary for me to fulfill my function.”
+
+“Oh.” Ren said. “Thanks for telling me.”
+
+“You wouldn't have asked me to use those skills, anyway.”
+
+Ren thought about it. “Actually, you're right.”
+
+Artemis chuckled. “That doesn't mean I'm not interested in those skills, just that I wasn't made to do them.” She said. “I'm your ranged combat companion, not a dedicated crafter like Tee-one.”
+
+“Well, that does make more sense.” Officer Holly said, then changed the subject. “When will my armor be done?”
+
+“Later tonight, and you can pick it up then or in the morning.” Ren said. “I've got an errand to run with Elerlyth right now, then I'm helping Railyse decorate her living space after that.”
+
+“How can you do so much every day?” Officer Holly asked.
+
+“It's a gift.” Ren chuckled and climbed onto Princess, and Artemis floated into the air to hover beside him. Officer Holly's mouth opened in that little 'o' of surprise at the sight of someone flying, and Ren felt her shock. Ren grinned as he waved to her, Teepo chittered in laughter, and Princess trotted up into the air and they disappeared from sight.
+
+“Sh-she was flying.” Officer Holly said. “She really flew.”
+
+********
+
+Elise had been surprised that Ren had popped out of the game during a blue screen session, and after discovering why, helped him quickly clean up and change the foil packet's contents. Ren had been relieved that Barbara had gone back to the theatre room to keep watching television, and wasn't embarrassed with Elise helping him with such a sensitive subject.
+
+Now that he was back in and had stopped working on the ghoul event, she watched as Ren took his fire elemental and that new metal familiar back to his county.
+
+I really should have asked him about her. Elise thought. The metal woman was close to her height, and if she wasn't mistaken, kind of had her hair. At least he didn't give her a massive chest. She thought in amusement. She turned onto her side and pulled the blanket up to her shoulder and looked at the short man beside her. You could have made that crossbow into anything... anything at all... and you made it into a woman. She chuckled and touched his chest. “Do you think I should count her as competition, sweetheart?”
+
+Ren didn't hear her and didn't say anything in response; but, she knew what his answer would be.
+
+“There's no competition, Elise.” Elise said as she tried to imitate Ren's voice. “We're all in this together.” The horrible attempt made her laugh, and she closed her eyes.
+
+********
+
+Ren rode Princess back to the abandoned town in the High Elven Kingdom, and met Elerlyth as she ran from house to house looking for a way down the the Underworld.
+
+“Easy, there.” Ren said and Princess landed and blocked Elerlyth's path. “You know it doesn't just open up, right?”
+
+Elerlyth opened her mouth to say that it did, and she frowned. “I'm a dark elf!” She said. “It should open up for me, if I could just find the damn thing!” She waved the Locate wand around.
+
+Ren chuckled and hopped off of Princess. “The only reason it appears for me is because I'm the Royal Consort.”
+
+Elerlyth sighed. “Fine, Mr. Royal Consort.” She said. “Use your awesome dick powers and open the door.”
+
+Ren grinned. “I already used them, and that's why it opens.”
+
+Elerlyth rolled her eyes. “Come on, we're losing daylight.”
+
+Ren took out the All-Seeing Mirror and asked it for the door's location, and he walked over to the house Elerlyth had just walked out of.
+
+“You've got to be kidding me.” Elerlyth said, and she waved her Phantom Steed over.
+
+Ren led Artemis, Princess, Elerlyth, and Etheria into the house and down the stairs into the cellar.
+
+“Look, I searched this place from top to... where did that funky door come from?” Elerlyth asked.
+
+“That's the door we're looking for.” Ren said. “I guess when my Aura passed over it, it uncovered.”
+
+“That's not fair.” Elerlyth said, and Ren chuckled.
+
+“I told you to meet me and we'd look together.” Ren said and walked over to the door. “Show me what's behind the door.” He said to the All-Seeing Mirror, and it showed him a bare cavern. “Thanks.” He said and looked at the others with him. “Don't go running off, because we don't know what could appear. Enemies, friends, creatures, traps, or anything at all.”
+
+“We're not rookies.” Elerlyth said, and then looked at Artemis. “Mostly.”
+
+Artemis chuckled. “Am I still a rookie if I've participated in close to a hundred battles?”
+
+“It depends on if we're talking practical experience or age.” Elerlyth said and smiled, because she could feel Artemis was teasing her, and she teased her back.
+
+“Easy, girls.” Ren said. “Everyone get ready.”
+
+“Should I leave Etheria here?” Elerlyth asked.
+
+“No, you should bring him.” Ren said and opened the door, then used his Detect Magic and Detect Traps wands, and nothing showed up or glowed. “We don't know how far we have to go to get this guy, or where we'll be when we do.”
+
+“Just ask the All-Seeing Mirror.” Elerlyth said and led her mount through the door before Ren could go in. “We can estimate where to go and how to get there.”
+
+“Show me where the dark elf that hurt Elerlyth is.” Ren asked the All-Seeing Mirror, and his location popped up on the map. “Shortest route?” A dotted line popped up, that went straight from their location to their target. “Shortest route following the cave patterns.”
+
+The line changed to a long and convoluted path with twists, turns, ups and downs, and crossed several miles of interconnected caverns.
+
+“Damn.” Ren said and walked through the door after Artemis and Princess had passed through. “The shortest route it is.”
+
+“How?” Elerlyth asked. “You can probably dig through like you did in Shargon Caverns, but...”
+
+“Naw, I'll just use the Pass Wall spell in the Staff Of Earth.” Ren said and took out the staff. He looked at the All-Seeing Mirror and found a cavern half a mile away that he could connect to, and concentrated on making the hole to it. The cavern wall next to them opened up and formed an 8 foot wide by 8 foot High opening, and the tunnel disappeared into the dark.
+
+“Let's go.” Ren said, and they started to jog at an even pace.
+
+*
+
+“Someone has entered the Underworld through one of the High Elf access ways.” Lylyth, Queen of the Dark Elves said, when she felt one of her spiders twitch as it's web tether shook slightly.
+
+“Should we send an encounter party?” One of the Dark Elf Lords asked.
+
+“Of course.” One of the other Dark Elf Lords said. “We can give no quarter to the High Elves.”
+
+“The ghouls have done more damage to the High Elf population than I ever thought possible.” Lylyth said. “Perhaps... we should...”
+
+“Your Highness, they show no mercy to us when we enter their kingdom, even by mistake.” He said. “If we show mercy when they enter ours, especially now with hostilities about to start...”
+
+Lylyth sighed.
+
+“Very well.” Lylyth said. “Send the closest fast attack squad to this point.” She said and pointed to the table they stood around. It was a map of the High Elven Kingdom, and it had all the access ways to the underworld. She tapped the entry way that had been opened. “Determine the strength of the intruders, then deal with them.” She said. “Make sure at least one of them is captured for interrogation.”
+
+“Yes, My Queen.” The Dark Elf Lord said and bowed his head, and turned to his aide. The woman ran from the room at a sprint, and he looked back at the Queen. “What now, Your Highness?”
+
+Lylyth put both of her hands on the table in front of them. “It all depends on how long this ghoul infestation takes to blow over.”
+
+“We should attack now!” One of the Dark Elf lords said emphatically. “They are distracted and disorganized, and even the High Lord himself is in the midst of travelling. If we strike his caravan...”
+
+“We could never gather enough forces in his path to overcome their rolling defenses.” Lylyth said. “He isn't stupid enough to travel without his best guards and archers.”
+
+“Then the cities...”
+
+“At the moment, they are holed up and defending themselves just as I had planned.” Lylyth said. “Their main army has been dispersed to cover as much of the population as it can.” She smiled. “Most have even returned to their own cities to protect their families, rather than to their normal assigned posts.”
+
+“But...”
+
+“For now, we are going to wait... and watch.” Lylyth said and smiled. “Our time will come, and we will prevail.”
+
+“Yes, My Queen.” The Dark Elf Lords around the table said as one; but, Lylyth could feel that they weren't happy about it.
+
+*
+
+Ren and his group stopped just before the exit to the tunnel.
+
+“Why did we stop?” Elerlyth asked.
+
+“Just in case.” Ren said, and asked the All-Seeing Mirror for enemies, traps, dangers, hidden doors, and shortcuts. Elerlyth looked at the mirror's surface in surprise as several enemies popped up, 2 traps, a deep hole was highlighted, and a line appeared going up the wall of the cavern to avoid all of the dangers.
+
+“No wonder you did so well in Shargon Caverns.” Elerlyth said, and Ren chuckled.
+
+“It's been a great help, that's for sure.” Ren said. “Show me what the enemies are.”
+
+A 4 foot long centipede appeared, with large mandibles that delivered poison, and jaws that could probably bite through armor.
+
+“These things are right in our way.” Ren said. “Artemis, feel like having a bit of target practice?”
+
+“Of course.” Artemis said and eased towards the tunnel exit. She raised her hands and targeted the closest centipede and blasted it with several Mana bolts. It didn't even have time to warn the others near it before they were cut down as well.
+
+“We're good.” Ren said and walked up the cavern wall. “Elerlyth, you can walk or ride Etheria across the cavern.” He said. “Just stay several feet above the cavern floor.”
+
+“Got it.” Elerlyth said and mounted her steed, and they flew up into the air. Artemis flew up as well, and Princess ran up the wall behind Ren, and he ran across the cavern ceiling with everyone behind him. They crossed it in only a minute, and then they heard a skittering noise.
+
+“What is that?” Elerlyth said and turned her mount around to look behind them.
+
+The tunnel Ren had made seemed to get darker, and then 6 large spiders with Dark Elves riding them, jumped out of the opening, one after another.
+
+“REN!” Elerlyth yelled, and Ren saw the spiders.
+
+“I'm on it!” Ren said and ran out to stand on the ceiling in front of his group, and made a Connection between his Command, Fear, Reassurance, Importance, Heat Sense and Void Sense Auras, then activated them along with his Emotion Siphon ability. His boosted Aura covered them, and he felt their Frenzy and Hatred.
+
+“They're lost in bloodlust.” Ren said to his group and stored the Staff of Earth and the All-Seeing Mirror. “Don't attack!”
+
+The 6 spiders jumped forward at the same time, and the riders had their spears ready. Two of the spiders turned around in mid air using webs on their legs on one side, which was a pretty neat use of webbing in Ren's opinion, and they tried to shoot him with web strands. Ren caught the strands before the web could deploy and cover him, and he used Burning Hands to set them on fire and used his Fire Manipulation ability to push the fire all the way to the spiders. It destroyed the web strands completely, and he burned their backsides a little.
+
+The spiders squealed in pain and fell to the cavern floor without catching themselves on their legs, and Ren felt their pain as they hit much harder than he had intended. The riders were thrown off and hit hard as well, and Ren ignored them for the moment. The other 4 spiders landed normally, and the riders threw their spears with web strands attached. Ren took out an Iron Wall wand and cast it in front of himself, and the spears hit the wall.
+
+A second later, there was a wrenching metal sound and the wall bent over a little, then was pulled out of the cavern ceiling and fell to the floor. Ren saw that the spiders had turned around and used their combined strength to pull the wall down with the web strands attached to the embedded spears.
+
+“Neat.” Ren said and ran forward, then cast the Iron Wall spell 4 times around each of the 4 spiders and their riders, then added roofs to the makeshift cells before the spiders could jump or crawl out. He walked over to the Dark Elves that had fallen off the two hurt spiders, then dropped from the ceiling to land beside them and checked them. They were just stunned and only slightly hurt, so he went to the closest spider. It's front leg darted out to attack, even though 3 of it's other legs were broken.
+
+“Easy, now.” Ren said as his Animal Affinity skill kicked in. “I'm sorry you hit so hard and got hurt.”
+
+The spider trembled and tried to pull itself away as it lost it's Frenzy condition, and Ren put a hand on it.
+
+“It's okay.” Ren said and remembered one of his dream memories where he was afraid, and pushed that fear into the spider. It shuddered for a moment, and then it relaxed. “That's right, use it to heal.”
+
+The spider felt a sharp pain as it's broken legs snapped back into their proper position, and Ren absorbed it instantly. He felt the spider's gratitude for not killing it for what it did, and Ren chuckled.
+
+“I could say it's not your fault for attacking; but, it's your job to get like this and defend your people.” Ren said. “I need to check on...” He looked at the other spider as it hobbled over on only 6 legs. “...never mind. Here it comes.”
+
+The spider plopped down beside the other one, and Ren put a hand on it to feed it, too.
+
+“I'm glad you calmed down.” Ren said. “I wonder if your friends have, too?”
+
+Ren felt doubt from them, so he concentrated on the 4 iron cells he had made, and let his ability taste both the spiders and the Dark Elves inside.
+
+“Ow.” Ren said and winced. “Nope, they're still pretty angry.”
+
+The spiders he was feeding healed up completely, and stood up. Ren felt their question, and he smiled.
+
+“No, I'm not leaving them in there.” Ren said. “I'll dismiss the Iron Walls as soon as I make a tunnel out of here.”
+
+The spiders skittered over to the cells.
+
+“No, no.” Ren said. “You don't have to block them.”
+
+The spiders turned and looked at him.
+
+“Stay with your riders and keep them safe.” Ren said. “We're leaving right now.”
+
+The spiders skittered back over to their fallen riders and hunkered down over them. Ren nodded and dismissed the old Pass Wall spells, then walked up into the air and ran over to the cavern wall where the rest of his group was, then took out the Staff of Earth to open another tunnel to the next cavern several hundred feet away.
+
+“Let's go.” Ren said, and the group went into the tunnel without saying anything. He stepped inside and dismissed the Iron Wall spells holding the other spiders and their riders.
+
+“RAHHHH!” The Dark Elf riders yelled together when their target appeared before them, and the spiders they rode jumped forward. Ren ran into the tunnel, and dismissed that end of the tunnel to block any access. He was picked up by the magic as the tunnel collapsed behind him, and laughed as he immediately caught up with the others and the magic picked them up, too.

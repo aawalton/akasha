@@ -1,0 +1,409 @@
+---
+id: 87631353-08b7-5967-b8c9-4f0ee4766f7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 159 - It's Over"
+slug: 0145-chapter-159-its-over
+partOf: mythrans-master-of-all-continued-completed
+position: 145
+ownLength: 3986
+unit: words
+publishedAt: 2017-02-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116589/chapter-159-its-over"
+royalRoadId: "116589"
+---
+
+For the next 3 hours, after the encounter in the town square, Ren worked hard to quell all of the persistent fires, with Elerlyth protecting him and Teepo scouting. Nearly every home was damaged in some way, and Ren was a little worried that a lot of the homes would need to be torn down and replaced. Unfortunately, he came across an entire row of homes that were so close together and next to the wall, that the fire could spread no further and had consumed them almost completely. Ren built a small cart to hold the remains of a man and a woman that he'd found, and covered them with a large piece of cloth. He pulled the cart to the town square and turned it over to the soldiers, since he didn't know what else to do with it. Ren told them where he'd found them, and hoped that they could be identified so that their families could be told.
+
+Elerlyth took his hand and led him up the street towards the Artesian District, his happy mood dampened just as much as the fire now was. The soldiers had saved the homes around the Market District, and the Leisure District was barely touched. Smoke permeated the air, and soot covered everything. Ren walked normally, and Elerlyth kept an eye out in case there was any looters still around. When they got to the corner to go down the street his business was on, he looked up the street and saw the Housing District.
+
+“We better check the Housing District.” Ren said. “I'm pretty sure the houses there are far enough away from anything that was close to the fires; but, it's better to be safe than sorry.”
+
+“You're not doing it just to check on Lucy, are you?” Elerlyth asked.
+
+Ren sighed. “I care about what happens to her, but there's at least one other house there.”
+
+“As long as you're honest to yourself about your reasons.” She said, and Ren smiled.
+
+“You know how I feel about her, Elerlyth.” Ren said as they walked the rest of the way to the Housing District. “I've got no reason to lie to you about it.”
+
+“I'm not trying to poke your Lucy complex, Ren.” Elerlyth put an arm around his shoulders. “I can feel how anxious you are, though.”
+
+Ren sighed. “Yeah.”
+
+When they got to the district, he wasn't surprised to see only the two houses there. He checked the closest one first, and there was no answer. There was a light on inside, and he frowned.
+
+Teepo? Ren thought, and Teepo flew down and landed on the door frame. He squeezed into the crack and Ren waited for a minute.
+
+“There's someone in here.” Teepo said. “It looks like she's collapsed on the floor.”
+
+Ren used his Iron Grip to crush the door handle, pushed the door open, and ran inside. He went into the living room and saw a woman face down on the floor. He rolled her over and was surprised to see Elise, the secretary from Sid Tec. Ren looked at her chest, and it wasn't moving so he laid her on her back. He tilted her head back, and performed CPR on her. It was difficult to find a good spot to do the chest compressions, since her chest was so big; but once he had undone the top half of her blouse, he managed to get the heels of his hands wedged between her breasts. He blew air into her mouth, and repeated the chest compressions several times. He blew air into her mouth again, and she started coughing. Ren tasted smoke and ash, and she opened her eyes.
+
+“Ugh... what... what happened?” Elise asked.
+
+“What do you remember?” Ren asked
+
+“I was engulfed in smoke outside, and found my way back inside... then... then... I don't know.” Elise rubbed her chest where he had worked on her, then she blinked a few times as she stared at Ren. “Am I dead?” She asked, and Ren smiled.
+
+“Far from it.” He said. “Your chest is sore because I had to perform CPR to revive you.”
+
+Elise gasped and put a hand on her mouth. His... his lips were on mine, and I missed it!
+
+Ren took out his Major Healing wand and used it on her. Elise felt better instantly, and her eyes widened.
+
+“You saved me.” She looked at him in wonder. “Now you've healed me.”
+
+“It's all in a day's work, Ma'am.”
+
+Elise got up from the floor, but stayed on her knees. She was the same height as Ren like that, and she wrapped her arms around him.
+
+“Thank you very much.” Elise said in a silky voice, and leaned close to kiss him gently. She hissed slightly as the top of her exposed chest touched the hot metal of his armor, but she kissed him anyways. Elise let him out of the hug and leaned back, then looked down to see her top was undone. She put a hand on the slight burn and winced.
+
+“Your armor is quite hot.” Elise said. “I seem to have burned myself.”
+
+“I'm so sorry!” Ren said, and took out a Minor Healing wand and used it on the burn. “There. Is that better?”
+
+“Yes, that's much better.” Elise said, and ran her hand through his hair. “My little hero.”
+
+Ren blinked at her a few times, and didn't know what to say; then he heard Elerlyth cough.
+
+“Sorry to interrupt, but 'your little hero' needs to get his butt down the street to check the other house.” Elerlyth said, and Ren chuckled.
+
+“I'm glad you're feeling better...” Ren said to Elise. “...but, I have to go.”
+
+Elise nodded. “Thank you again for saving me.” She said. “I'll... I'll call you tomorrow.”
+
+“You don't have to do that.” Ren said. “We've got the fire out now. You should be safe if you stay inside.”
+
+“I meant I'd call about the show.” Elise laughed. “We have a lot to discuss.”
+
+“Right!” Ren said and walked to the doorway. “I'll look forward to hearing from you.”
+
+Elise waved and Ren followed Elerlyth out to the front door, and Ren repaired the door handle and shut it after Teepo flew out through it.
+
+*
+
+Elise stood up, then sat down on the couch. “I finally got to kiss him.” She sighed as she touched her lips, then looked down at her half-open blouse. She ran a hand over the soft exposed skin and smiled. “I think... I think almost dying was worth it.”
+
+*
+
+“Did you have fun fondling those huge melons?” Elerlyth asked teasingly, and Ren's face flushed a little red. She fed on his feeling of embarrassment; but, she felt guilty about doing so. I shouldn't tease him like that. She reached out a hand and rubbed the back of his neck. “I'm sorry. I know you didn't do that.” Her eyes widened as she almost choked on the flood of relief that came from him.
+
+“I wasn't even thinking about what could have happened when I opened her blouse like that.” Ren said. “I just needed to get access to her chest.”
+
+Elerlyth smiled as the embarrassment came back. He looked at her and grinned.
+
+“Boy, did that sound horrible or what?”
+
+“It did, but I know what you meant.” Elerlyth laughed. “I watched you. You were very respectable.”
+
+Ren nodded. “Now that I think about it... I wonder what kind of back problems she has.”
+
+“W-what?”
+
+“With that much weight on her front, it's got to put a lot of strain on her back muscles.”
+
+Elerlyth snorted a laugh. “Leave it to you to wonder what her back feels like, while thinking about her breasts.”
+
+Ren laughed, and they walked up to the front door of the other house. Teepo.
+
+Teepo went inside and flew around to check everything. “There's no one here.”
+
+“Teepo says it's empty.” Ren said. “Let's get back to the business.”
+
+Elerlyth nodded and they walked down the street and around the lumberyard to get back to the business.
+
+*
+
+“We haven't found anyone else in a while.” The low level fighter said. “Should we head back to where we got the quest?”
+
+“Yes, that's a good idea.” The dark figure said. “We might find someone else along the way.”
+
+*
+
+Selene looked at her party members. “Well, it seems none of you managed to kill yourselves.”
+
+Several of them laughed.
+
+“Yeah, we tried really hard, too.” One of the said. “I'm down to about half of my Health.”
+
+“I wanted to see if I could still get the XP if I did die.” Another said. “I've got 10% Health left.”
+
+“I could kill you, and we can find out.”
+
+The guy laughed. “No killing innocents, remember?”
+
+“You're not innocent.” His friend said. “You spend a good portion of your normal game time at the Jiggly Puff.”
+
+“You only know that because you're right there beside me.”
+
+“I didn't claim to be innocent, you mook.”
+
+An arrow shot out from an alley and swiped by Selene's head, clipping her hair. Several strands fell to the ground and she whipped around, furious.
+
+“You just messed up my HAIR!” She yelled and charged the figure that had fired at her. He started to run, but she caught him easily and sliced the back of his leg. He dropped to the ground, and she did a cartwheel over him, stabbed his back with the swords, and landed at his head.
+
+“You can't kill me!” He said. “I know things!”
+
+Selene had a manic look in her eyes as she lifted both swords.
+
+“Hey! I said I know who did it! Arrest me! I'll tell you every-GLLGGG!!”
+
+His words were cut off, along with the top of his head. The swords were embedded into the ground several inches, and she worked them from side to side and pulled them free.
+
+“No one touches my hair.” Selene said, and calmed down. She looted the body and picked up a dozen gold coins, and a small black disc. What the hell is this? She thought as she put the coins in her coin pouch, then put the shadow marker into her inventory. That's the worst loot I've picked up tonight.
+
+*
+
+The last 2 quest players had hidden out in an abandoned building for most of the night.
+
+“Did you see how many of them there were?” One guy said.
+
+“Yeah.” The other guy said. “I can't believe we accepted this quest.”
+
+“Me, either.” The guy said. “But we got a sword and shield out of it, and we didn't have to do anything!”
+
+The other guy grinned. “I'm sure we can sell them for a lot.”
+
+“Sell them? Are you joking?” The guy asked. “You can't find stuff like this anywhere.”
+
+“Yeah, and someone will pay a lot to get it.”
+
+The guy snorted a laugh. “You'd sell your mother if she was in here.”
+
+The other guy punched him in the face. “Hey, she doesn't do that anymore!”
+
+“Geezus! It was a joke, man!” The guy said. “I meant you'd sell her away, not sell her like that.”
+
+“Oh.” The other guy said. “That wasn't funny.”
+
+They heard wood creak and went on alert. The other guy pointed to the back of the room and the doorway, and they crept in separate directions towards the opening. They saw a lone guy, beaten and pretty trashed, push open the mangled door. He stumbled in and dropped to the floor.
+
+“I... I made it.” He said. “At least... at least one of us... got away... from that... thing...”
+
+The two guys looked at each other and went into the room.
+
+“He... help...” The hurt guy said. “I'll... I'll pay...”
+
+The other guy grinned. “Yes, you will.” He stabbed the hurt guy in the chest with the sword. The body slumped to the floor and then a moment later, it dissolved. Several gold and silver coins appeared, and a sword.
+
+Quest Complete!
+
+You have successfully completed the Special Quest. Please return to SAFE ZONE: Master Of All Jack Of None to receive the appropriate rewards.
+
+“Nice.”
+
+“Hey, we're splitting right?”
+
+“Yeah.” The other guy said and handed half of the money to his friend. “We'll sell this tomorrow.” He said and picked up the sword. It looked like a great quality blade, and expensive; but it only had a third of the durability of the sword that boy had given him.
+
+“Let's get back to that warehouse.”
+
+*
+
+Selene got the popup and grinned. “We did it!” She said to her party, they cheered, and then headed towards the warehouse.
+
+*
+
+The dark figure grinned at the popup. “Well, you did it.”
+
+“YEAH!” The low level fighter yelled. “I lived! I LIVED!”
+
+“Yes, Kenny.” Stan laughed. “You lived.”
+
+*
+
+Ren got the popup stating that the quest was complete, and he grinned as he opened the door to the warehouse.
+
+“They did it!” He exclaimed. “They really did it.”
+
+Elerlyth hugged him quickly as she went by. “They should be back here, soon.”
+
+Ren nodded, and opened the Quest popup to see who did what, and set appropriate amounts of money and XP for them. He gave a bonus for killing the first and last looter, the most kills, and then added a bonus for surviving. Ren sewed up sacks, put the right amount of money in them for each person, then put them on the workbench. He moved the workbench over in front of the stairs, and waited for the quest runners to arrive.
+
+*
+
+“What the hell is going on?” A hooded figure said. “I thought the city would be completely on fire by now.”
+
+“It should be.” Another hooded figure said as he looked closely at the distant city. “I see lots of smoke.”
+
+“Yeah, but it's not covering more of the city than it was half an hour ago.”
+
+“You don't think they got it under control, do you?” The other hooded figure sighed. “How would they do that?”
+
+“I don't know.” The first hooded figure said. “The first thing we arranged was getting the water tower emptied.”
+
+“Now that's just mean.” The other hooded figure laughed. “They must have been running around like chickens with their heads cut off.”
+
+“I expect so.” The first one said. “This wouldn't have worked if the King wasn't doing all those war games so far away.”
+
+“God bless little miracles.” The other said. “Getting them to do it for a month was a stroke of genius.”
+
+“Thank you.” The first one said, then looked back at the city. “Unfortunately, it doesn't look like it worked.”
+
+“What makes you say that?” The other asked. “They could still be fighting the fire.”
+
+“None of the 'looters' has come out yet.”
+
+“They... could be taking their time.”
+
+The first one laughed. “Even if they did take their time, some of them would have come out about an hour ago.”
+
+The other one sighed. “This was supposed to be a model demonstration of how to sack a city.”
+
+“We'll have to think of something else now.” The first one said. “Word about this will spread, and since it looks like they beat it somehow, other cities will be warned.”
+
+“Well, damn.”
+
+“My thoughts exactly.” The first one said. “Let's go. There's no point in staying around here anymore.”
+
+They turned away from their failed experiment and headed off into the woods. 10 minutes later, they came out of the woods and weren't wearing their hooded cloaks anymore. They went to the waiting carriage, and climbed inside.
+
+“Back to the castle.” Lord Eddlemere told the driver, and the carriage drove away. Neither he, nor his aide, were in a good mood.
+
+*
+
+Ren had waited for all 11 of the quest runners to return before saying anything. He still wore his gold colored armor, and Selene's eyes had nearly bulged out of her head when she had seen it. Ren regretted that he hadn't taken it off; but since he had forgotten he was wearing it, there was nothing he could do about it now. He concentrated on his Command Aura, and paced back and forth in front of the workbench.
+
+“Congratulations to all of you!” He said to the people standing before him. “You successfully held off the looters, so that I and the soldiers could contain the fire, and save the townspeople.”
+
+Several of the players grinned.
+
+“I'm glad that none of you actually had to take me up on the offer to use the spawn point.”
+
+“It wasn't for lack of trying!” One of the guys said, and Ren chuckled.
+
+“Don't worry, I'll heal you after the quest is resolved.”
+
+“Sweet!”
+
+“You're a healer?” Another one asked. “Is that why you didn't go and fight?”
+
+Ren shook his head. “No, I'm not a healer; and I didn't fight with you because I was busy fighting the fire.”
+
+“He's probably too short to swing a sword anyways.” One of them whispered, but Ren had heard him and looked right at him.
+
+“You're half-right.” Ren said to him. “I'll let you think about which half is actually true.”
+
+Everyone looked at the guy Ren was looking at.
+
+“What did you say?” Someone asked.
+
+“Geez, man. Don't piss the guy off before he gives out the rewards.”
+
+“QUIET!” Elerlyth shouted, and let her fear ability loose.
+
+“Sorry.” Several people said, and Ren continued to pace.
+
+“You all did well in hunting down the looters, and I commend you all.” Ren said. “I declare this Quest... complete.”
+
+The players stared straight ahead, and most grinned as they saw the XP they received.
+
+“You've been granted XP for each looter that you dispatched, extra XP for multiple kills, and...” Ren looked at Selene. “...for the most kills.”
+
+She smiled sweetly at him and he continued to pace back and forth.
+
+“I even granted XP for surviving, for the first kill... and for the last kill.” Ren said. “I honestly didn't expect that one to pay off right away.”
+
+Someone chuckled and Ren smiled.
+
+“I figured a day or 2 at least.” He looked at the guy who laughed. “I'm glad I didn't have to wait. Good job.”
+
+The guy nodded, and Ren walked over to the workbench to pick up some of the sacks of money.
+
+“In these sacks is an amount of money, commensurate to your contribution to the Quest. I hope you enjoy the spoils of your hard work.”
+
+He turned around and presented it to each person in turn, then went back and picked up most of the rest and gave them to the others, leaving Selene for last. He went to the bench and picked up the largest sack and gave it to her.
+
+“You didn't have to wait for everyone to get theirs.” Ren said and laughed. “You can open them.”
+
+The players opened them and were surprised as the amounts ranged from 20 gold to 100 gold. He wasn't counting Selene, as she had made much more than that.
+
+“Good god, man! Are you crazy?” One of the players asked, and Ren laughed.
+
+“I've been told that on occasion.”
+
+“20 gold.” The guy said. “I didn't even kill anyone!”
+
+“Everyone got 20 gold for staying alive...” Ren said. “...and 10 gold for every looter.”
+
+Selene hadn't opened her sack, and she stared at him. He... he gave me...
+
+“Now, before you go.” Ren said. “There's something I want to ask you.”
+
+The group looked at him, and he slid a shadow coin from his coin vault into his inventory, and held it up.
+
+“Did anyone find any of these?” Ren asked, and Elerlyth took in a sharp breath. He didn't look at her, however; as he saw three of the players raise their hands.
+
+“What are they?” One of them asked.
+
+“It's a marker.” Ren said. “Bad people use them to hire players to do bad things.” He explained. “When the job is finished, they bring the marker back and get paid for the job.”
+
+“No way!” They said. “We... we've got... evil markers.”
+
+“The markers themselves aren't evil.” Ren chuckled. “They just pass hands after something bad happens.”
+
+“Oh, that's a relief.” He said. “What do we do with them?”
+
+“You can give them to me.”
+
+“You want to cash in the markers?”
+
+Ren laughed. “Even if I knew where to do that, and I don't, they know who they were given to. No one can 'cash them in' now.”
+
+“That sucks.” One of the others said. “So it's dead loot.”
+
+Ren shook his head. “No, it's not.” He said. “I'll buy them from you.”
+
+“Really?” The guy asked. “How much?”
+
+“I'd offer 10 gold, but that's less than what you got for participating.” Ren turned to Elerlyth. “If I found, say, a nice pair of boots on someone. What would they be worth?”
+
+“About 25 gold, if they boosted stats.”
+
+“I got those!” Kenny said, and held out a foot. A few people laughed, including Ren.
+
+“How about 30 gold then? As if you found a really nice pair of boots like Kenny did.”
+
+“I guess that's fair.” The three players stepped forward and Ren paid them for the shadow coins. He stored them in inventory and grinned.
+
+“Thank you all for everything.” Ren said, then used his Major Healing Wand on them. They all stared in wonder at the diamond tipped metal bar. “Have a good night.” He chuckled. “Well... what's left of it, anyways.”
+
+The players started to leave, and one turned around. “When's the next quest?”
+
+Ren laughed. “I'll see if I can come up with something in a few days.”
+
+“Great!” He said and filed out the door with the others. Selene still stood there holding her large sack of coins.
+
+“You could have just given me a couple of platinum.” Selene said.
+
+“Yeah, that would look great.” Ren said. “You with the smallest sack of coins.”
+
+She chuckled. “Okay, yes. I agree. A large sack of gold coins looks a lot better.”
+
+Ren nodded. “Now that the quest is done, why are you still here?”
+
+“I wanted to thank you.” She purred and tried to step close. Ren stepped back and smiled.
+
+“You're welcome.” Ren said. “Is there anything else?”
+
+Selene frowned mentally, but she didn't let it show on her face. Why isn't he fawning over me like everyone else does? She thought. I even used my sexy voice!
+
+“Yes, I have a marker, too.” She took it out and held it up. “I won't take 30 gold for it, though.”
+
+Ren raised a single eyebrow at her, and she didn't react in the least.
+
+“I know it's worth a lot more to you than that.” Selene said and smiled.
+
+Ren snorted a laugh. “Really? That's your argument for more money?” Ren opened his inventory and transferred a pile of shadow coins to it and took them out. “I've got tons of them.”
+
+Selene stared open-mouthed at the enormous pile of them that he had. I... I completely misread his expressions!
+
+“I really do feel sorry that they found the markers instead of an item or loot drop.” Ren stored the coins and looked at Selene. “You can keep it if you want.”
+
+Selene sighed. “No, you're right. 30 gold is better than that thing taking up a whole inventory slot by itself.” She handed it over to him and he paid her the 30 gold.
+
+“Thanks for doing a great job tonight.” Ren said and walked over to open the door. “I have to get to bed, though.”
+
+Selene nodded and walked outside. “I'll contact you later about an armor commission.” She said, looking him up and down. Ren smiled.
+
+“I'll consider it if I ever get around to opening my business.” He said, and shut the door gently, but firmly.

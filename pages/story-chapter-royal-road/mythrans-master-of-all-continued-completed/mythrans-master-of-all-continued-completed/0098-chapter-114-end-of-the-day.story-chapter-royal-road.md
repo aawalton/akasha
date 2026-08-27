@@ -1,0 +1,453 @@
+---
+id: 4c3e7632-7477-5966-ab46-56ad396950e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114 - End Of The Day"
+slug: 0098-chapter-114-end-of-the-day
+partOf: mythrans-master-of-all-continued-completed
+position: 98
+ownLength: 5155
+unit: words
+publishedAt: 2016-12-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107532/chapter-114-end-of-the-day"
+royalRoadId: "107532"
+---
+
+Ren watched all the slightly dazed women climb into the carts. They all waved as the carts turned around, and Ren waved back.
+
+“You paid them a lot for the work they did.” Teepo said, but Ren could feel his amusement. “It wasn't even for a full day!”
+
+Ren chuckled and stored the bolt of cloth and the table. It works out to only 6 silver per cartload, per person. Ren put the table inside the workshop, then walked back outside and around the huge pile of silt that had been dumped beside it.
+
+“I think a basic laborer only makes a gold every 2 days.” Teepo chittered in laughter. “That's why it would have taken you 6 months to work off that 100 gold fine.”
+
+Yeah, that would have sucked so bad. Ren thought as he made sure he couldn't be seen from the house. I'm glad they discovered that they had the option to let me pay in actual money.
+
+“Me, too. 6 months in a mine isn't my idea of fun.”
+
+I thought you liked being underground.
+
+“I do, but once you've seen one mine tunnel, you've seen them all.”
+
+Ren chuckled again and took out his portable Leatherworking Crafting station. Yeah, there's not much variation in them... unless you're following Fritz.
+
+“Yeah! That was fun!” Teepo chittered in delight. “I don't know how he saw anything with his face covered in dirt like that, but he made the best twisting and turning tunnel I've ever seen!”
+
+Ren laughed as he took off his Dire Wolf Hooded Cloak. It was the first time he'd done so since he'd left the starter city of Aurora. Ren examined it closely, and followed the stitching pattern, the cuts and folds, and paid special attention to the hood. Once he was done, he received the pattern for it. He could now trace where the cuts for the original pelt was and smiled. Ren equipped it again and took out the body of the giant boar. He traced the same cut pattern over it, making sure to see where he had to skin it before using a knife. This was one time he didn't want to make a mistake. He had the system highlight the lines, and was tempted to include the lower jaw, but decided against it. Just like with his hood, only the top of the head and the teeth would be left.
+
+Those tusks are going to be a problem, though. Ren thought. The hood can't support the weight without something inside.
+
+He took out the skinning knife from the Leatherworking crafting station and very carefully started to skin the giant beast, following the lines he'd had the system highlight for him. It took nearly half an hour to finish, as Ren had spent extra time on the head, but he removed the pelt completely and grinned. He went over the pelt again with shears, making sure that all the edges were clean and straight, then he opened the Treat compartment on the crafting station and added the pelt to it. Ren put the tools back into the crafting station, closed it, and stored it. Ren looked at the skinned body for a minute, tying to decide if he wanted to loot it, then grinned. You know, a boar is really just a giant pig, and this giant boar has a lot of meat on it.
+
+“Hey, Mister Bacon Man!” Teepo chittered in laughter. “You're in hog heaven, now!”
+
+Ren laughed, stored the giant boar, then his Sending Ring started to glow.
+
+“R-R-Ren... please come... I... need your help.” Nathalia said, with sadness in her voice. “I'm... I'm in my room.” The ring stopped glowing and Ren thought about her and ran to the house. The ring glowed again and he spoke.
+
+“I'll be right there.” Ren was through the front gate a second later, then the front door of the house. He glanced in the kitchen and saw Barnar watching Narhilda cooking, and then opened Nathalia's bedroom door. She stood there wearing just a thin slip, and tears ran down her face. Ren stepped into the room and shut the door. He walked over to her and took her into a hug.
+
+“What is it?” Ren asked in a soft voice, trying his best to ignore the feel of her body next to his, while she wore next to nothing. Nathalia sniffed and Ren took out a scrap of cloth to wipe her eyes.
+
+“Mom... had the bright idea... that since I was engaged, I needed to wear different clothes... every once in a while.” Nathalia said, trying not to sob. “In my haste to do just that, I took off the dress Da made for me and set it aside.”
+
+Ren nodded his understanding.
+
+“I tried on several things, but I haven't... I haven't worn anything else in years.” Nathalia said and Ren wiped her eyes again. “Nothing really fits anymore.”
+
+“Don't worry about that.” Ren said. “I'll make you a new wardrobe.”
+
+“Thank you, Ren...” Nathalia half-laughed-half-cried. “...but... I'm not concerned about that right now.”
+
+“Then what...”
+
+Nathalia stepped out of his hug, turned to the side, and waved at the bed. It was covered in clothes, and right on top of the pile were 2 identical fancy green dresses.
+
+“You know Da's work too well.” Nathalia said and tried to hold the tears back. “I don't know what to do. I... I can't tell which is which.”
+
+“Nathalia...”
+
+“You know how much the dress means to me, Ren.” She said. “Is there anything you can do?”
+
+“Of course there's something I can do.” Ren said, walked over to the bed, and picked up the sleeve of the dress on the right. He smiled and passed it to her. “This is your father's.”
+
+Shock spread across Nathalia face as she stared at Ren, and then at the dress. “H-h-how?”
+
+“The key is the stitching.” Ren said. “I learned how to sew cloth from a couple of different people, using different stitches for different things. If I'd studied under your father, I would have learned how to stitch from him. It would have been nearly impossible to tell the difference, then.”
+
+“But...”
+
+Ren stepped over to her and held up the sleeve of his shirt. “I have an even stitch over everything.” Ren said, showing Nathalia the stitch pattern. “I like things to be as even as possible.” He said, then reached out to hold up the sleeve of the green dress. “Your father adds a second stitch for every four that he does.”
+
+Nathalia looked and compared the stitching. “You... you're right!” She said, surprised. “I see the double stitch over every forth one!”
+
+Ren grinned. “Then you don't have to worry about mixing them up anymore.”
+
+“Oh, Ren!” Nathalia exclaimed and grabbed him into a bone crushing hug. “Thank you!” *Kiss.* “Thank you!” *Kiss.* “Thank you!” *Kiss.*
+
+Ren hugged her back, and once again, tried his best to ignore her body pressed against his. With only the thin slip she wore and his thin shirt between their chests, however... he wasn't successful at all. Nathalia's eyes widened as she felt the appearance of Little Ren through her thin slip, and her body reacted from it being pressed against her. Ren felt the tips of her breasts poke him in the chest, and his eyes widened, too. They looked at each other in the eyes for a second, and then they kissed.
+
+Ren rubbed her back as they made out, and Nathalia held on and tried to not collapse from the overwhelming feelings that rushed through her. They stayed locked together for several minutes, enjoying the embrace, and the touch of each other. There was a knock on the door, and it shattered their shared moment. They broke the kiss and listened.
+
+“Supper.” Narhilda said.
+
+When Ren heard her walk away, he spoke. “I'll let you get dressed.”
+
+Nathalia smiled and stood on her tippy toes to give Ren a quick kiss on the nose. “Okay.” She said, then didn't let go. Ren stood there for a moment and raised a single eyebrow. Nathalia chuckled as she had to let go of the hug to rub his eyebrow with her thumb. Ren laughed as he slipped out of her grip and she tried to catch him.
+
+“You really can stay while I change.” Nathalia said as her face flushed a little red.
+
+“I'd like that.” Ren said and stepped close to her again. “But if I did stay, we'd never get to supper.”
+
+Nathalia grinned as Ren gave her a kiss on the cheek.
+
+“See you in a few minutes.” He said and left the bedroom.
+
+Ren walked through the main room and into the kitchen, then saw that Barnar had left. “Where did Barnar go?” Ren asked as he sat down at the table.
+
+“He took bowls of stew out to the workers.” Narhilda said. “And a few loaves of freshly baked bread.”
+
+“Thank you for making so much extra.” Ren said and smiled. “I know we discussed the possibility of making food for everyone yesterday, but it was so hectic today that I completely forgot to ask you about it.”
+
+Narhilda waved his concerns away. “I wasn't going to have all these people working on the walls here, and not feed them.”
+
+Ren smiled. “That was my thought, too.”
+
+Narhilda chuckled. “That's twice we've had similar thoughts.”
+
+“You know what they say. Great minds think alike.”
+
+“I don't think our minds are quite as alike as you believe.” Narhilda gave Ren an appraising look and smiled. “Where do you get your ideas from?”
+
+“From all over.” Ren said honestly. “One thing leads to another, usually.”
+
+“What about the icing bag?”
+
+“That one was easy. I watched Nathalia make a cake on the ship, and when I saw what the mortar was like as the workers slapped it on bricks, it looked like they were icing them like a cake.”
+
+Narhilda laughed and Nathalia came out of the bedroom in the fancy green dress.
+
+“What's so funny?”
+
+“Ren just told me he came up with using an icing bag for mortar, because it looked like Barnar's workers were icing the stone bricks!”
+
+Nathalia chuckled. “That's a neat way to get an idea.” She said, kissed Ren on the cheek, and sat down next to him at the table. “I assume it worked?”
+
+“Like a charm!” Narhilda said. “You just have to clean off the excess mortar. From both sides, as it turns out.”
+
+Ren chuckled. “I take it you didn't have someone on the other side like I suggested?”
+
+Narhilda shook her head and smiled. “We were all so busy watching how well it worked, we didn't even think about the other side.”
+
+“That must have been a pain to clean up.” Ren said. “How long did it take?”
+
+“About 10 minutes. With a chisel.” They all laughed and then enjoyed another meal of good food and great company. When they were done, Ren asked where the pastries were.
+
+“They're cooling in the icebox.” Nathalia said and got up to get them. She pulled out the cookie sheet full of them and Ren grabbed a plate.
+
+“Can I take some out to the workers?” He asked.
+
+“Sure.” Nathalia said. “Leave some for us, though.”
+
+Ren took exactly enough so that each worker would get one. “Thank you.” He said and turned to go.
+
+“Wait!” Nathalia said and he turned back. She reached back into the icebox and took out a huge bowl of whipped cream. “I almost forgot the topping.” She put a small spoonful on each one, with a little twist to her hand, and they all had a nice pointed top and swirl afterwards.
+
+“That was great!” He grinned at her and Nathalia grinned back. Ren went outside to give the desserts to the workers. “Hi, everyone.”
+
+They all greeted him and he held out the desserts. “There's only enough for one each! No stealing!” Ren said and they laughed. “You think that's funny now.” He said. “Wait until you taste them.”
+
+“Wow.” “This is delicious!” “I want another one, and I haven't even finished this one yet.”
+
+“I told you.” Ren said and grinned as he emptied the plate. Everyone had one, except Barnar. Ren put a hand on his arm. “I didn't take one for you.”
+
+Barnar kind of looked like a puppy that had just been kicked.
+
+“I thought you'd want to come inside and have one, instead.” Ren said, and smiled as Barnar's face lit up. He led Barnar inside the house and to the kitchen. “I need one more.” Ren said, and had Barnar sit at the table next to Narhilda. “Better make that two. I forgot myself.” He said and sat next to Nathalia. Everyone laughed at his words. Nathalia took 4 more and did the little twist with her hand to make the whipped cream pop up. She passed one to her mother, one to Barnar, put one in front of herself, and then turned to Ren. She wiggled her finger in a 'come here' gesture and Ren leaned in close. Nathalia picked up the last one and held it out for Ren to eat. He took a bite, then another, and they stared at each other the whole time. One last bite finished it, and Nathalia leaned in close herself.
+
+“You've got a bit of whipped cream on your mouth.” She said in a soft voice.
+
+“Where?” Ren said and reached up to wipe it off. Nathalia caught his hand and smiled.
+
+“I'll get it.” She said and gently kissed the side of his mouth, then licked the cream off of her lips as she leaned back. Ren smiled at her and picked up her pastry. “My Lady, your dessert.”
+
+“Thank you.” Nathalia smiled and leaned in to eat it, just like Ren did. When she finished, there was a bit of whipped cream left on her top lip.
+
+“It seems you've got some on your mouth, too.” Ren said, then kissed her top lip to get it. It worked, but he now had some on his lip again. He tried to lick it off like Nathalia had licked hers off, but he missed it and Nathalia laughed.
+
+“Let me.” She said, kissed him again, then licked her lips. “I think I got it all.”
+
+“Not quite.” Ren said and held up the hand that had held the pastry. A bit of whipped cream was on his index finger and thumb. Nathalia took his hand and put the tip of his finger in her mouth and sucked off the whipped cream. She slowly pulled it out, then did the same thing with his thumb.
+
+“That's so cute.” Narhilda whispered, but the table was small and everyone heard her speak. Nathalia and Ren turned at the same time to look at her, and saw her holding a hand over her heart. Ren glanced at Barnar, and he just sat there with a surprised look on his face. Neither of them had touched their pastries.
+
+“Sorry.” Ren said. “I got a little distracted for some reason, and I forgot where I was.”
+
+Nathalia laughed and then her mother joined in.
+
+Barnar shook his head and then smiled. “Ah, to be distracted.” He said and glanced and Narhilda, who noticed the glance and blushed slightly.
+
+Ren chuckled. “There's quite a lot around here to be distracted by.”
+
+“That there is, my friend.” Barnar grinned, ate his pastry in 2 bites, and turned to Narhilda. “Lady Neram, I must get back to work.” He stood up, took her hand, and bent over it. “If you will excuse me?”
+
+Narhilda nodded slightly, Barnar let her had go, and he turned to Ren. “There's barely an hour left before full dark.”
+
+Ren nodded slightly himself. “I'll join you.” He said. “Then I have some Adventurer's business to take care of.”
+
+“Then let's go!” Barnar grinned. “There's more work to be done!”
+
+Ren stood up, took Nathalia's hand, and bent over it. “My Lady, I can't let this opportunity pass. I'll be back soon.”
+
+Nathalia nodded slightly, and Ren let her hand go. Barnar walked around the table and Ren followed him. They left the house and went through the gate.
+
+*
+
+“By the gods, mother!” Nathalia said after the two men left the house.
+
+Narhilda blushed and then smiled. “I know.”
+
+“But you still have...”
+
+“3 more years. I told him that.”
+
+“Then what was...”
+
+“He said 3 years was nothing to wait, compared to meeting me.”
+
+Nathalia stood up and walked over to where her mother sat, and gave her a big hug. “I want to tell you to stay alone forever, because of Dad.” She said and Narhilda half-laughed-half-cried, just like Nathalia did when she'd mixed up the dress her father had made. “But really, I'm just happy for you.” Nathalia said, then leaned back and looked at her mother in the eyes. “This is all thanks to Ren, you know.”
+
+“I do.” Narhilda said. “If it wasn't for him...”
+
+*
+
+Ren finally had a chance to look at what the workers were actually doing. He saw they'd set up scaffolding to reach up to the top of the battlements. Ren examined the scaffolding closely and got the plans for it. Then he watched as they mixed up some mortar and used the icing bags to fill the exposed cracks. Another worker had a bucket of mortar and covered over the section of wall that was just filled. Ren looked down the length of the front wall, and saw that nearly all of it was done.
+
+“Barnar, your crew has covered almost the whole 200 feet of wall here.” Ren said, amazed. “In just one day!”
+
+Barnar chuckled. “It's because of your icing bag, my friend.” He said and waved to the workers. “Once we put someone on the other side to scrape off the excess, all that needed to be done was to cover it all.”
+
+“That's great!” Ren said. “I'm glad it's working so well.”
+
+“It would have been completely finished if we'd started out this morning using it.”
+
+Ren chuckled himself. “You didn't believe it would work until Lady Neram came out here to show you herself.”
+
+Barnar grinned and took Ren into a one arm hug. “Thanks for that.” He said. “I might not have met her, otherwise.”
+
+“I'm sure she would have been out to see it when it was finished.” Ren said.
+
+Barnar let him go and then pat his shoulder. “I'm glad I didn't have to wait!” He said. “She has so much talent!”
+
+“Uh huh.” Ren said. “And being just as beautiful as her daughter wasn't a factor at all.”
+
+“Ha ha!” Barnar said and clapped Ren on the same shoulder. “It didn't hurt!”
+
+Ren laughed and gathered up all the dirty dishes left over from the stew Barnar had given the workers. When that was done, Ren asked Barnar to show him how to cut stones. He took Ren over to the carving section and showed him the basics of stonemasonry. It took nearly the whole hour for Ren to get the hang of using a chisel and hammer to shape a stone. It was frustrating, especially since he was so used to getting the hang of things right away. When Ren finally finished working on the practice stone Barnar had given him, he put the tools down and stepped back.
+
+New Skill!
+
+You have worked hard to understand how to properly shape a stone for use in any situation, and have unlocked a new skill: Stone Cutting
+
+“Show info for skill: Stone Cutting.” Ren said.
+
+Stone Cutting Level 1 (Beginner 0%)
+
+This sub skill under Stonemasonry allows the alteration of stones into various shapes using simple tools.
+
+Higher levels will allow quicker shaping, and make more difficult cuts much easier.
+
+Ren smiled and turned to Barnar. “Thanks for showing me the proper way to do it.” He said. “I can see I've got a lot of work ahead of me with this skill.”
+
+Barnar clapped him on the shoulder. “Would you have it any other way?”
+
+“No.” Ren said and grinned. “If it was easy, everyone would do it.”
+
+“Exactly!” Barnar said, let Ren's shoulder go, and turned to his crew. “Alright everyone! Use what you have and cover up your stations!”
+
+The workers complied quickly, and slapped the last of their mortar onto the wall. The 6 large mortar icing bags were rinsed out and put on the mortar making table, then everything was covered in cloth. Ren watched them work, and stayed out of the way of their efficient movements.
+
+“Barnar.” Ren said. “Do you want me to pay them now, or wait until the job is finished?”
+
+“That's up to you.” He said.
+
+“Now, I think.” Ren smiled. “At the rate they're going, it should be finished in about 5 days.”
+
+“That's assuming we don't get any orders while we're here.” Barnar said.
+
+“You didn't bring any extra work here today?” Ren asked and looked around.
+
+“Of course I did.” Barnar said and laughed. “It doesn't count if you didn't see it, though.”
+
+Ren laughed, too.
+
+“Everyone, gather 'round.” Barnar said to the workers. Ren gave each of them 3 gold coins, and several tried to give it back.
+
+“You've all worked hard today.” Ren said. “You deserve to be compensated for that.”
+
+They reluctantly took the money and Ren smiled. “I'll see you all tomorrow; unless you have complications tonight, with either the ale or the women.”
+
+Most of the workers laughed, a couple high-fived, and if Ren wasn't mistaken, one woman blushed a little. He turned to Barnar and nodded slightly.
+
+“Get out of here, you mooches.” Barnar said and they all laughed again as they climbed into the nearly empty carts they'd brought most of their working materials in. Barnar shook Ren's hand. “See you tomorrow.”
+
+“See you tomorrow.” Ren said, then watched Barnar climb into the last cart. They all drove away and Ren went inside the courtyard and shut the gate, locking it. He stopped in the stable to feed Princess some of the stew. She had a hard time with it, since the food was floating in liquid, so Ren held a plate over it and dumped out most of the water.
+
+“There you go.” Ren said, and Princess had a much easier time trying to eat. I'm just sitting here, I might as well check my stats. Ren thought. “Show Status.”
+
+Status
+
+Name  Ren  Level  6
+
+Gender  Male  Class  Artificer/Noble
+
+Race  Elfling  Fame/Infamy  4750 (Well Known)
+
+Dwarven Lands:
+
+Influence  4570  Honor  1780
+
+Titles
+
+Blacksmith - Grants 5 Level Bonus to Blacksmith Skills
+
+Tailor - Grants 5 Level Bonus to Tailoring Skills
+
+Sally's Student - 20% stat gain at her shop
+
+Issac's Novice - 20% stat gain at his shop
+
+Lemming - 5% resistance to falls
+
+Son of the Pelt - 20% stat gain using craft station
+
+Honorary Dwarf - Grants Dwarf Race abilities
+
+A Fool And His Money - Automatic 5% gratuity, plus perks
+
+Ren, The First - Grants Command and Camaraderie Auras
+
+Crazy Like A Fox - Intelligence +20, Wisdom +20
+
+Health  668  Mana  864
+
+Strength  113  Dexterity  73
+
+Vitality  55  Agility  71
+
+Endurance  75  Intelligence  96
+
+Luck  24  Wisdom  96
+
+Ren smiled and handed Princess a piece of bread to chew on while he rinsed her dish and gave her fresh water. “Goodnight, you two.”
+
+Ruck knocked on the cabinet and Ren went inside to the kitchen. No one was around, so he took out the dirty dishes he had in inventory and washed them in the sink. He had an odd thought that he was missing something, and his eyes widened at the water tap he'd used without thinking about it. Ren knelt and opened the cabinet under the sink. Inside were 2 small pipes and one large one. He assumed the large one was for the drain, so the other two had to be for the tap. The pipes disappeared into the floor and Ren closed the cabinet.
+
+I'll have to check that out when I start fixing the Keep below. Ren thought as he put the clean dishes back in the cupboards they were taken from. He left the kitchen, through the main room, and down the hallway to Narhilda's old bedroom. Ren opened the door and found Nathalia inside on the bed. He saw she was still wearing the fancy green dress, and laid on her side, propped up on an elbow. He shut the door and Teepo hopped out of the hood and onto the wall. Ren walked over to the bed and climbed onto it.
+
+“I do have to log out.” Ren said as he laid down next to Nathalia, and propped himself up onto his elbow, copying her pose and faced her.
+
+“I know.” She said and reached out a hand to cup his face. “I just like being here with you.”
+
+Ren smiled, took her hand from his face and held it out slightly, then kissed the inside of her wrist. Nathalia shivered slightly from the feel of his lips on her soft skin.
+
+“I like having you here, too.” Ren said and let her hand go. “I think waking up next to you is the best way to start my day.”
+
+“Me, too.” Nathalia said and turned to lay on her back. Ren copied her again and put his head on the pillow next to hers.
+
+“I'll be back as soon as I can.” Ren said, and Nathalia nodded.
+
+“Logout.”
+
+********
+
+Ren started to take off the VR headset, and Stella lifted it off for him.
+
+“Hey, little stud.” She said and smiled.
+
+Ren snorted a laugh. “Hi, Stella.”
+
+She put the VR headset on the dresser, next to the laptop, and Ren slid out of the bed.
+
+“What's for supper?” He asked as he went to the bathroom.
+
+“Surprisingly enough, stew.” Stella said. “It's just sliced bread and not freshly baked, though.”
+
+“Ha ha!” Ren laughed as he used the bathroom then washed his hands. He came back out and climbed up into bed. Stella stood by to catch him, just in case he slipped.
+
+“I'll go get it.” She said, once Ren got settled.
+
+“Thanks.” Ren said and changed the television station, just to have something on while he ate. Stella came back in a minute later with the food tray and put it on the rollaway table. Ren took his time eating and finished it all.
+
+“That was great, Stella.” Ren said. “Thank you.”
+
+“You're welcome.” She said and took the tray away. She was back a minute later and put the laptop and VR headset back on the rollaway table. She sat down next to the bed and leaned in. “I went out during my break to pick up a few of those things that we discussed earlier.”
+
+“You mean condoms?”
+
+Stella nodded. “I got several sizes. Once you find one that fits, you'll be able to do what you want in the game, and not have to worry about any... mess... that might happen.”
+
+Ren put a hand on her arm. “Stella, I don't know how to thank you for doing this for me.”
+
+“You just did.” She said and handed Ren 5 foil packs. “You'll want to make another visit to the bathroom, I think.”
+
+Ren slipped the condoms into his pyjama pocket and smiled. “I do need to use the bathroom again.” He said and slid out of bed. Ren went into the bathroom and closed the door until it was almost shut. Stella walked over to stand by the wall on the side of the opening. Ren took out the 5 condoms and looked at the sizes; Small, medium, medium wide, large, and large wide. Ren looked down at himself and sighed as he picked the large. He opened the package and tried to slip the condom on. Of course, once he touched himself there, it didn't take long for Little Ren to stand at attention. Ren unfurled the condom a little, and tried to get it over the end, but it felt too tight.
+
+“Stella.”
+
+“Yes, Ren?”
+
+“Um... is it supposed to be this tight?”
+
+“Kind of.” Stella said. “Are you trying the medium?”
+
+“No, the large.”
+
+“You... you started... with the large?” Stella said, surprised. I've seen his bulge a few times, but I never imagined... She thought, then shook her head. Lucy, what were you thinking! You had him and let him go!
+
+Ren's face flushed a little red, and spoke a moment later. “Should I try the wide instead?”
+
+“Y-yes.”
+
+Ren struggled a little, but pulled the large one off. His hands were now covered in lubrication and he washed them in the sink. He opened the large wide package and tried slipping that on. It fit a little better, but he could only get it down an inch or so.
+
+“Does it fit?” Stella asked.
+
+“Kind of.” Ren said. “Only by about an inch.” He sighed again as he saw the tip of himself turn a dark red. “No, it's still too tight.” He said and pulled it off before it caused any damage.
+
+Stella took in a deep breath and exhaled. “I'll have to make another trip.”
+
+Ren cleaned himself up and then washed his hands again, then pulled up his pyjamas. “Stella, what do I do with the used ones?”
+
+“Are you dressed?” She asked.
+
+“Yeah.”
+
+Stella opened the door and came in. Ren had put the two used ones on the edge of the sink. She made a bundle of toilet paper and scooped up the used condoms with it. She folded it over, slipped the bundle into her pocket and took the other 3 packages and put them in her other pocket. She put a hand on Ren's shoulder.
+
+“Stella, I-” Ren tried to say, but Stella shook her head.
+
+“Don't worry, Ren.” She said. “I'll pop in tomorrow at breakfast with better ones.”
+
+“But... if I wasn't...”
+
+“Ren.” Stella said in a stern voice. “There's nothing wrong with you.”
+
+Ren looked at her with wide eyes.
+
+“Everyone is different.” She said with a normal tone. “No one... no one... is the same. We all have different sized parts.”
+
+“But...”
+
+“I said to not worry about it.” Stella ruffled his hair and led him back to the bed. “What you need to worry about is keeping your hands off that cute little dwarf for the next 2 game days.”
+
+Ren smiled as he climbed into bed and settled in. “I'll do my best.”
+
+Stella chuckled. “Do better than that!”
+
+Ren grinned. “She's pretty irresistable.”
+
+Stella helped him put on the VR headset. “I'm sure she thinks the same about you, little stud.”
+
+Ren laughed, and Stella sat down to finish out her shift.
+
+“Flow Login Start.”

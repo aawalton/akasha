@@ -1,0 +1,355 @@
+---
+id: 30d40540-bb75-5b80-b080-b45ec8d9cd29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93 - Unexpected Visitors"
+slug: 0077-chapter-93-unexpected-visitors
+partOf: mythrans-master-of-all-continued-completed
+position: 77
+ownLength: 3415
+unit: words
+publishedAt: 2016-11-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104169/chapter-93-unexpected-visitors"
+royalRoadId: "104169"
+---
+
+Ren had spent a wonderful evening with Lucy, but it eventually came time to get Ren back to the hospital. Lucy called a taxi and it wouldn't be there for a while, so they waited in the living room for it to arrive. Another make out session began in ernest. Ren caressed the side of Lucy's face and drank in the feel of her lips on his. He opened his eyes to see her reaction and caught a glimpse of his wheelchair. Ren broke the kiss, much to Lucy's dismay. He looked at his coat on the wheelchair, and it reminded him of the present he had for Lucy. Ren gave her another quick kiss and stood up. He walked over to the coat to get the small package out of the pocket, then went back to the couch and sat down.
+
+“I know it's a little early, but your schedule is pretty hectic. I figured if I was going to get you something for your birthday, I'd better give it to you now.”
+
+“Ren! You shouldn't buy-” Lucy tried to say and Ren held up a hand.
+
+“It's only something small.” He said and smiled. “I wasn't sure what to get you at first, but then an idea struck me.”
+
+Ren took the small package from behind his back and handed it to Lucy. “Before you tell me to send it back, it's non-refundable.”
+
+Lucy had looked at him with just that thought in mind and she laughed. “You do know me pretty well, don't you?”
+
+“I hope so.” Ren said and laughed. “Or I totally misread what this gift means.”
+
+Lucy smiled and opened the package. Inside was a jewellery box and Lucy froze; then she noticed it was slightly longer than a ring box, and relaxed. She opened it and gasped.
+
+“Ren!” Lucy exclaimed. “H-how?”
+
+Ren smiled and took out the amulet and chain he'd bought online. It was identical to the one he had bought for her in the game. Ren even had the same Protection glyph acid etched onto the surface of this one, that he'd put on the one in the game. Lucy lifted her hair and Ren hooked the clasp. He leaned back and watched Lucy stroke it.
+
+“Happy Early Birthday, Lucy.”
+
+“You really shouldn't have, Ren...” Lucy said. “...but, thank you.”
+
+They kissed, and it started to turn into yet another make out session, when they heard a horn blow from outside.
+
+“That's our ride.” Lucy said.
+
+Ren nodded and gave her a quick kiss. Lucy took the wheelchair outside and Ren sat in it. She locked her house up and pushed him to the curb and the waiting taxi. Ren climbed in the back and the wheelchair was stored in the trunk. Lucy joined him in the backseat a moment later and they went back to the hospital, holding hands the whole way. Ren signed back in at the main desk and Lucy took him up to his floor. When they entered Ren's room, Barbara was there.
+
+“Hi, you two!” Barbara said. “Looks like dinner went well.”
+
+“It was delicious!” Ren said, stood up, and went to the bed and his waiting pajamas.
+
+“Hi, Barbara. It's been awhile.” Lucy said.
+
+“Since Ren's birthday.” Barbara said. “That was a great party.”
+
+Lucy and Ren nodded, then Ren changed clothes. When he started to undo his pants, both Lucy and Barbara looked away.
+
+“Anything good on tv?” Lucy asked Barbara, slightly blushing.
+
+“No, but I'm sure I can find something.”
+
+They watched television as Ren finished changing. He put away his nice clothes and climbed up into bed. Once he got comfortable, a loud yawn escaped before he could catch it.
+
+“Poor thing, you're exhausted.” Barbara said and turned the television's volume down.
+
+“Barbara, I'm so tired that you could crank that thing all the way up and I'd sleep right through it.” Ren said and laughed. He waved Lucy over and she came to his bedside. Taking her hand, he spoke.
+
+“Thank you for tonight.” Ren said. “The meal was great... and the dessert was... phenominal.”
+
+Lucy raised her eyebrows. But I didn't serve dessert... oh. He... he means me! She thought and blushed as Ren grinned. Lucy reached up and stroked the amulet. “It... it was my pleasure.”
+
+Barbara stood up and moved her hands in a shoo away gesture. “Okay, break it up! Ren needs his beauty sleep.”
+
+Lucy and Ren laughed for a moment and then Lucy leaned down to give Ren a goodbye kiss.
+
+“I'll see you later...” She said and gave him a hug. “...sweetheart.” Lucy whispered in his ear and Ren shivered slightly.
+
+“I certainly hope so.” Ren said.
+
+Lucy leaned back to stand and just happened to glance down at his waist and saw how much Ren hoped to see her again.
+
+“I'll try my best.” She said and smiled. “Bye, Barbara. Take good care of him.”
+
+Barbara snorted a laugh. “Like you have to tell me that!”
+
+Lucy laughed. “Sorry. Preaching to the choir, I know.” Lucy walked to the door and grabbed the wheelchair. “Bye, Ren.”
+
+“Bye, Angel.” Ren said and grinned.
+
+Lucy winked at him and left.
+
+“Who's Angel?” Barbara asked and Ren chuckled. “Sorry, inside joke.” Ren explained what he'd said when Lucy had picked him up and Barbara laughed.
+
+“Are you sleeping here or in the game?” Barbara asked. “You really do look tired.”
+
+Ren nodded. “I'm wiped out...” Ren said. “It was definitely worth missing two game days to spend the afternoon and evening with Lucy.” He looked at his watch. “...but I've got another 6 hours of night in the game. I better go in and use it.” Ren said. “Or I could stay here and you can wake me in about an hour.”
+
+“No, you're right. Get in there and get some sleep.” Barbara said.
+
+“Goodnight, Barbara. See you in the morning.”
+
+“Goodnight Ren.”
+
+Ren pulled the rollaway table over and put on the VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up in the game and didn't notice anything different. Teepo?
+
+“Ren! You're back!” Teepo said and plopped down on his chest.
+
+Hey, buddy. Sorry about that. I got caught up in some things and couldn't get back as soon as I thought I could. Ren thought. Is everything all right?
+
+“Besides the 2 Warrior dwarves in the main room, everything is just peachy.”
+
+What?!?
+
+“They showed up here yesterday, looking for you. I didn't know they were here until I came back out of the keep last night.”
+
+Do you know what they want?
+
+“Yes. They want you. Apparently, you were supposed to report to the garrison yesterday morning.”
+
+Ren looked at Teepo in shock. I wasn't supposed to do anything of the sort! Ren shook his head. You've been with me most of the time, Teepo. No one... not one person... has told me to report to the garrison.
+
+“I know.” Teepo said. “I don't know why they think you should.”
+
+Me, either. Ren thought. Should I go out there now?
+
+“No. They're asleep. They cleared out the main room enough to sleep on the floor.”
+
+Ren relaxed. That's good. Ren thought. I need to get some sleep.
+
+“But... didn't you just...”
+
+Ren shook his head. I didn't sleep at all. I have to sleep now, while I can.
+
+“Okay. Goodnight.”
+
+Ren closed his eyes. I'll see you soon.
+
+Ren slept for the rest of the night and woke up in the morning. He sat up and stretched. Are they up yet?
+
+“Good morning to you, too.” Teepo said and chittered in laughter.
+
+Ren chuckled and slipped out of bed.
+
+“Yes, they're up.” Teepo said. “I'm in the kitchen, watching them.”
+
+Nathalia and her mother?
+
+“Both are here, with deep scowls on their faces.” Teepo said. “They don't appreciate having the Warriors here at all.”
+
+Thanks, Teepo.
+
+Ren had activated Sneak when he'd come into the house 2 days before, so he didn't need to activate it again. He crept to the door and listened. He couldn't hear anyone talking, so he stood and deactivated Sneak. Ren opened the door and closed it loudly.
+
+“They've stood up, Ren.” Teepo said.
+
+Ren walked down the hall, and appeared at the opening to the main room. “Good morning, My La- Who are you?” Ren said with as much indignation as he could muster, and took a fighting stance.
+
+One of the Warriors stepped out of the kitchen and into the main room to hand Ren a piece of parchment. Ren glanced at it and then at the Warrior, who sighed. He wore full plate heavy armor, an paired battle axes on his back.
+
+“It's a summons. You are to report to the garrison immediately.” The Warrior said.
+
+“Why?” Ren asked.
+
+“What?”
+
+“Why do I have to report to the garrison?”
+
+“You just do.”
+
+Ren shook his head. “I don't think so. I'm not under your orders, or anyone else's.”
+
+The Warrior frowned, and it make him look demented. Ren stopped himself from smiling and kept his fighting stance. The Warrior turned to the other one.
+
+“What do I do now?” He asked, and the other one shrugged.
+
+“No one's ever refused a summons before.” The other one said.
+
+“Why don't you contact the Dwarf Ambassador for Aurora.” Ren suggested.
+
+“There's no need for that.” Nathalia's mother said. “I've already sent for him. Again.”
+
+Ren looked at her.
+
+“I sent a messenger right after they showed up on my doorstep.” She said and waved to the Warriors. “He didn't come. I sent another this morning.”
+
+No help on that front, then.
+
+“We could just take him.” The Warrior in front of Ren said.
+
+“No, you can't.” Ren said in a deep voice.
+
+The Warrior smiled. “Is that a challenge I hear?”
+
+“It would be if I thought that would get you out of here quicker; but I know you'd just piss and moan about it, after I put you on the floor.”
+
+The Warrior's smile turned into a scowl and he took a step forward.
+
+“Darohm.” The other Warrior said and Darohm stopped. “We can wait a little longer for this Ambassador to show up.”
+
+Darohm nodded and Ren relaxed out of his fighting stance.
+
+“Ignore these fools and come eat.” Narhilda said and pointed to a chair by the table.
+
+Ren nodded to her and started to walk by Darohm, and noticed a smile spread across the dwarf's face.
+
+“Duck!” Teepo said.
+
+Ren ducked the incoming blow, grabbed the dwarf's arm, turned and knelt, yanking the dwarf over his shoulder. The Warrior hit the floor with a dull thud and a slight crunch, and his head popped up a little. Ren punched him in the forehead and slammed the dwarf's head back into the floor and heard another crunch. Ren hoped, slightly, that it was the floor that cracked and not the dwarf's skull. Ren stood up and looked at the 3 astonished faces staring at him.
+
+“He swung first.” Ren said and smiled.
+
+Notice!
+
+You have defended your Honor from an attempted sneak attack.
+
+Influence: +10
+
+Honor: +10
+
+Ren stepped around the dwarf's unconscious body and sat at the table. He didn't need to eat at the moment, but he also didn't want to insult the Lady of the House. Ren gathered some food on his plate and ate in silence. When he was finished, Ren asked if they had fed his mount.
+
+“I tried, but it wouldn't touch anything I gave it.” Nathalia said.
+
+“Oh, no!” Ren gathered up the choicest cuts of meat and a few vegetables. “She hasn't eaten in 2 days!” He said and rushed out of the kitchen.
+
+*
+
+The Warrior still sitting at the table stood up; but Nathalia's mother, Narhilda, stopped him with a glare.
+
+“You are not going to pester him while under my roof.” Narhilda said. “The next time one of your underlings tries to hurt him, Maldir... you... will... regret it.”
+
+Maldir opened his mouth to tell her that her Influence was much to low to do anything; but closed his mouth as a similar glare from her daughter met his eyes.
+
+*
+
+Ren ran outside, around the corner of the house and into the stable. He slid to a stop at the edge of Princess' crate. She lay on her side and her head was hanging off the pillow, her tongue slightly sticking out. Ren looked at the bowl and winced. “I'm so sorry, Princess!” Ren said and dumped the bowl of bone dry horse feed out and halfway across the floor as he flicked his hand. He gently put the meat and some vegetables into the bowl and held it in front of her face, but got no reaction.
+
+“No... please, no!” Ren said and checked to see if she was breathing. It was shallow, but it was consistent. Ren took out a Healing Potion and tipped her head up enough that he could pour it down her throat safely, without choking her. He closed her mouth and waited. Her chest moved out as she took a deep breath and then she opened her eyes.
+
+“I'm so glad to see you.” Ren said and a tear almost escaped the corner of his eye. “I'm sorry that I was away and couldn't feed you properly.” He said and sat down on the floor to pet her neck. “I should have made sure that Nathalia knew to give you actual food, and not any of that garbage.” Ren said indignantly, waving his other hand at the mess he'd made on the floor. He held up the bowl with the nice pieces of meat and vegetables in his hands, and her eyes widened. “I know... but it's the best I could come up with.”
+
+Princess huffed and rolled herself up to get her legs under her, then stood. Ren stood as well and she started to eat. She chewed slowly, making Ren stand there and hold the bowl for her, but Ren didn't mind. He really did feel bad about what happened. She eventually finished and Ren rinsed out the bowl and gave her water. Ren rubbed the side of her face and she stopped drinking to look at him.
+
+“I really am sorry, Princess.” Ren said and gave her a hug around the neck, and she froze. “I'll do my best to take better care of you from now on.” He said and let her go. “I have to go back into the house for now, and I might have to go away for the day, but I promise that I'll be back tonight to feed you personally.”
+
+She huffed and plunked down on her mattress.
+
+“Thanks for your permission.” Ren said and smiled, then walked over to Ruck's cabinet and knocked. “Sorry to bother you, Ruck... but I might need your help later.”
+
+Ruck knocked back and Ren smiled.
+
+“Thanks.” Ren said and went back inside the house and into the kitchen. The Warrior he'd punched into the floor was standing, mostly, behind the Warrior that still sat at the kitchen table. He was mumbling something about how sucker punches were supposed to work. Ren tuned him out and smiled.
+
+I told you he'd piss and moan about it. Ren thought, and Teepo chittered in laughter. Ren was about to sit down again, when there was a knock on the door. “I'll get it.” Ren said and went to the front door. Teepo.
+
+Teepo hopped off Ren's shoulder and onto the floor, then squeezed under the door.
+
+“It's Gausen. He's alone.” Teepo said.
+
+Ren opened the door and greeted Gausen, then asked him to come into the kitchen. The pair walked into the kitchen and Lady Neram, Nathalia's mother, filled them both in on what happened and Gausen asked the Warrior for the summons. He handed it over and Gausen looked at it for a minute.
+
+“It appears that you've been drafted.” Gausen said to Ren.
+
+“Ha... hahaha.... hahahahaha!” Ren laughed maniacally. Everyone stared at him as he kept laughing and tried to talk. “That's just... Ha haha....” Ren wiped the tears away from laughing so hard. “...sheer stupidity.” He finally got out and kept laughing.
+
+“Is there something wrong with him?” Maldir asked Narhilda in a whisper.
+
+“I don't know.” She said and shook her head. “He should be upset or angry... not laughing.”
+
+Ren eased his laughing, took the piece of parchment from Gausen, and read it.
+
+Notice!
+
+Despite not being a dwarf, you have been Drafted. Report to the Garrison immediately for training.
+
+“An Elfling being drafted into the Dwarf Army!” Ren said and grinned. “Spread the word!” He said and pointed to the 2 warriors. “Let it be forever known that I, Ren, having only just arrived in the dwarven lands, has become the first non-dwarf in the dwarf-only military!” Ren said and started laughing again.
+
+Notice!
+
+Your declaration will be spread far and wide! As the trailblazer for all future draftees from other races, your name will be written into the Annals of Dwarven History. Your acceptance of the situation has also given you Honor.
+
+Influence: +1000
+
+Honor: +500
+
+Fame: +1000
+
+Notice!
+
+Your fame has spread to foreign lands. You are now Well Known!
+
+You have gained a Special Skill: Aura Level 1 (Beginner 0%)
+
+Your presence is such as those near you will be in awe of you and your accomplishments.
+
+Higher levels will spread your presence for a further distance (current distance: 10 foot radius).
+
+Can be combined with items and similar abilities to increase both potency and distance.
+
+New Title!
+
+You have received a title to signify your new status in Dwarf society.
+
+Ren, The First.
+
+You have gained a Special Sub Skill: Command (Beginner 0%)
+
+This sub skill under Aura will allow you to lead a group and issue orders.
+
+Higher levels will allow a larger Command Radius, and generate loyalty from those under your command.
+
+You have gained a Special Sub Skill: Camaraderie (Beginner 0%)
+
+This sub skill under Aura allows mutual trust and friendship to easily build among people who spend a lot of time together.
+
+Higher levels will allow a larger Camaraderie Radius, and grants XP bonuses when fighting in a group of 2 or more.
+
+Narhilda, Lady Neram of House Neram, gasped.
+
+“Mother, what is it?” Nathalia asked.
+
+“It's... I didn't expect...” She shook her head.
+
+“What is it n-” Maldir started to speak and looked at her, then his eyes widened. He suddenly stood up, and gave a slight bow. “My apologies for being discourteous.”
+
+“Get. Out.” Narhilda said with a hint of scorn in her voice.
+
+Maldir and Darohm left the kitchen quickly and went out the front door.
+
+“Mother! What was that?” Nathalia asked.
+
+“I can answer that, I think.” Ren said, and everyone turned to him. “I'm Lady Neram's retainer now. As long as I am under her employ, I am a part of House Neram. Any Influence I gain while a member, I believe she will also gain.”
+
+Nathalia turned back to her and her mother nodded. “He's right. As the only male in this House, it's upon his shoulders that the gaining of Influence rests upon.”
+
+Ren looked at her in surprise. “You mean... all these years your husband has been gone...”
+
+Narhilda nodded. “This House's Influence and Honor have been worn away to almost nothing.” She said and sighed. “I didn't know it would work this way when we made our contract.” Narhilda said and smiled. “Apparently, you mean a lot more to this House than any of us realized.”
+
+Ren sat down at the kitchen table and folded his hands under his chin, to think about what he was going to do.
+
+“Ren?” Nathalia said and put a hand on his arm. “Are you okay?”
+
+“I'm fine.” Ren said and smiled. “Whoever did this, they got me good, didn't they?”
+
+Gausen looked at Ren. “What did you say?”
+
+Ren told him about the fine, and then about actually paying money for it. Gausen's face went from surprised, to shocked, to disbelief.
+
+“You paid your fine?!?” Gausen said, and Ren laughed.
+
+“Yes, and someone didn't like that one bit.” Ren said. “And now this.” He held out the piece of parchment. “But they made a huge mistake. This won't get me out of the way.” Ren said and bared his teeth in a big grin. “All this will do is give me a bigger hammer to hit them with!”

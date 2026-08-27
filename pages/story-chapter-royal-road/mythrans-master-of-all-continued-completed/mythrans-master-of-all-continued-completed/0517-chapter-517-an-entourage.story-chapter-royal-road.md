@@ -1,0 +1,181 @@
+---
+id: a2a30ab3-32d1-574d-9516-f8087e66ed31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 517 - An Entourage"
+slug: 0517-chapter-517-an-entourage
+partOf: mythrans-master-of-all-continued-completed
+position: 517
+ownLength: 2023
+unit: words
+publishedAt: 2018-02-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195942/chapter-517-an-entourage"
+royalRoadId: "195942"
+---
+
+“What do you mean he's releasing a couple of hundred pixies from Shargon Caverns?” Lylyth, the Queen of the Dark Elves asked her attendant, the healer, Tiatha. “Those vermin should be exterminated!”
+
+“I told him that, My Queen.” Tiatha said. “I also told him you wouldn't be pleased, and to block off the door from the rest of the Underworld when he brings them through.”
+
+“He's bringing them out through the access way?” Lylyth asked.
+
+“Yes, My Queen.”
+
+“That man!” Lylyth exclaimed. “Why is he doing this?”
+
+“He gave them his word that he would.”
+
+“Familiar!” Lylyth yelled to the wall of spiders, and her 10 foot long familiar slid out of the mass and dropped to the floor, then came over to her.
+
+“He would have blocked it off already, My Queen.” Tiatha said. “You also can't teleport there or contact him while he's inside.”
+
+“Ugh!” Lylyth grunted in frustration. “He didn't even ask me if he could use my doorway, like he did coming in!”
+
+“You could always lock it and keep him from returning unless he has your permission.” Tiatha said, and Lylyth looked at her in surprise.
+
+“Why do you say this?” Lylyth asked. “Don't you...”
+
+“I told him he was making a mistake.” Tiatha said. “If the door is locked, perhaps he will call you.”
+
+Lylyth snapped her fingers and the door locked. “I hope you're right.”
+
+“What else would he do? Try to finish the caverns again?”
+
+“That's exactly what I think he will do if the door is locked.” Lylyth said. “It might not occur to him to call if the door doesn't open for him.”
+
+*
+
+“What in the world is this thing?” Shanna, the 1 foot tall Pixie asked as she started to read the contract. “Are we to become your slaves?”
+
+“No, not at all.” Ren shook his head. “Keep reading.”
+
+Suniva discarded the scraps of cloth that still clung to her and crawled up Ren's chest to his shoulder, then grabbed his hair and swung over to hang in front of his face. “I don't need a piece of paper to tell me I'm yours.” She said and sat on the tip of his nose, then braced herself with her feet spread out to either side on his cheeks.
+
+“Um... do you have any more clothes?” Ren asked, because he could clearly see all of her.
+
+“Of course I do.” Suniva said.
+
+“Can you put them on?”
+
+“Why?” Suniva asked seductively. “Is my tiny naked body getting you excited?”
+
+“Yes.” Ren said, and several pixies nearby were surprised at his admission.
+
+“We are too very different sizes.” Suniva said. “The most we can do is play and remain unfulfilled.”
+
+“Even if we were the same size, that would still be true.” Ren said. “That doesn't mean when I have a naked woman rub herself on me that I won't be affected, though.”
+
+Suniva giggled, and he felt how flattered she was. “You still see me as a woman, even after seeing me look like a piece of well-cooked meat?” She asked as a nice dress formed around her to cover her obvious nakedness. “Thank you.”
+
+“You're... welcome.” Ren said, a little perturbed over her description.
+
+“My arm is getting tired.” Suniva said, and Ren put a hand under her backside. She let his hair go and let her legs drop from bracing on his face. He moved her away so he could see her face better, and she crossed her legs as she reclined in his hand.
+
+“This... you...” Shanna shook her head after reading the contract and looked up at Ren. “You want to hire us?”
+
+“It's more like you'll become citizens of my lands.” Ren said. “I don't know how pixie magic works, so the only way I can be sure you won't cause havoc when I take you out of here, is to have you sign a contract.”
+
+“You don't sound too happy about that.” Rainie said and climbed up onto his knee.
+
+“I'm not.” Ren said, a little sadly. “Contracts have been a bit of a pain in my butt, and making yet another one with all of you bothers me a lot.”
+
+“Then why do it?” Shanna asked.
+
+Ren sighed. “I had a friend warn me about the chaos I would unleash if I took you out of here and let you roam free.”
+
+“We're not that bad.” One of the male pixies said.
+
+“Are you kidding?” Another said. “You remember that village with the crazy shaman?”
+
+“Oh, he had it coming.” The male pixie said. “He called us pests and said we were going to 'infect' his nice village, then convinced the other villagers to slaughter us.”
+
+Ren sighed internally, because that was how Tiatha had described them. “What happened?”
+
+“We showed him what happens when you insult a pixie.” The male pixie said. “He thought we were going to stay and wreck everything, so we wrecked everything and left instead.” He laughed. “The villagers kicked the shaman out after that.”
+
+“I'm really glad I didn't insult you.” Ren said, and the male pixie pointed to the contract.
+
+“Do you really believe asking us to sign that isn't an insult?”
+
+“Yes.” Ren said. “I actually need your help, and I had an idea for more attractions in my county.”
+
+“This I want to hear.” Suniva said, and uncrossed her legs to show that she hadn't conjured up underwear, then crossed her legs again. “What kind of attractions?”
+
+“It's just in my head right now.” Ren said and looked around at the pixies. “But, I had an idea for a kind of fun house full of your tricks and an obstacle course of your traps.”
+
+Every single pixie stopped talking and looked at Ren, and he could feel their shock.
+
+“Did... did you just...” Suniva tried to speak.
+
+“Like I said, it's just an idea I had.” Ren said. “I know it's a lot to ask, but if you sign the contract and work for me, then you can make and use as many traps as you want to try your best to capture people.”
+
+“Is he serious?” Someone asked.
+
+“He can't be.” Another said. “That's just crazy.”
+
+Ren felt a hand on his, and he looked down at a pixie he remembered giving a gold coin to, but didn't know her name.
+
+“You would really give us land... land for our use... and let us use our skills without restriction?”
+
+“As long as you don't seriously hurt or kill anyone, I don't see why not.” Ren told her and smiled. “I mean, it's supposed to be fun. Why not let you have fun and let others have fun as well, right?”
+
+The pixie pointed her finger at the contract, and her name appeared in the first available space. “Then with this, my proper name, I bind myself to your service.” She said formally, and Ren looked at the contract. He felt a little tingle on his hand and looked back at the pixie. “May I taste you, My Lord?”
+
+Ren opened his mouth to ask what she meant, and then saw her hand was already finger deep into his hand. “Sure.”
+
+The female pixie made a fist and removed a tiny bit of his flesh, held it up high for all to see, then took a bite of it. Her body glowed brightly for a moment, and when it faded, her colors were sharper, brighter, and more luminescent.
+
+“Behold! Our benefactor gives of himself without pain or suffering!” She exclaimed and waved at his hand. His Regeneration had reformed his skin almost immediately, and he felt their surprise. “Now I will return the favor.”
+
+“W-wait.” Ren said, but she had already climbed up him like a spider and stopped by his mouth.
+
+“Please.” She said.
+
+“But you'll be hurt.” Ren said, and she reached out and laid a hand on his cheek.
+
+“It's okay.” She whispered and dug a piece of flesh from her arm. “I have Regeneration now.”
+
+Ren saw her arm close up as fast as his did.
+
+“I have tasted you, now you can taste me.” She said. “Please, accept this offering.”
+
+“I...” Ren started to say, and she tossed the piece of flesh into his mouth. When it touched his tongue, his body glowed for a moment. The pixie shivered as a small beam of blue light went from her to Ren and connected them. She didn't say anything about it as she walked down his arm and sat on his lap.
+
+“Autumn!” Suniva said, then smiled. “I had hoped to be first.”
+
+Autumn didn't say anything and leaned against Ren, and he felt her churning emotions; but, he couldn't make heads or tails of them to guess what she might be thinking.
+
+“Oh, well.” Suniva said and pointed to the contract. Her name appeared in the next available space and she said the same pledge, didn't ask Ren for permission for a bit of his flesh, and took some for herself by biting him directly. She was covered in a glow for a moment, and he felt her surprise. She stood up in his hand and walked up his arm to put her own bit of flesh in his mouth.
+
+“If it helps, just imagine it's my breast you're sucking on.” Suniva said and tore some flesh out of her arm.
+
+“No, that doesn't-”
+
+Suniva tossed her piece of flesh into his open mouth and Ren glowed again for a moment, then she gasped as an orange beam of light joined her to him.
+
+“What is it?” Ren asked as he felt her emotions churn in the same manner as the first pixie. Suniva didn't say anything and walked down his arm and sat beside Autumn in his lap.
+
+“I'm not letting Suniva leave me behind.” Shanna said and did the same thing as her friend. Before Ren knew what was going on, Rainie was right behind her at the head of a line that had every other pixie in it. Ren was a bit surprised by this, especially since he expected at least one of them to object to the contract.
+
+Before Ren realized it, he had completed pacts with all of them in only a few minutes. He wasn't sure how that was possible, considering there was almost 200 of them and each pixie seemed to take a minute to accept the deal and sign their name, make a pledge, and adjust to the new bond. He supposed it was just his imagination, or a trick his own mind was playing on him after eating the flesh of so many pixies.
+
+When Ren thought about that part, he was almost sick about it; but, since he didn't know anything about pixie magic or their rituals, he had to stop thinking that it seemed a little wrong. To the pixies, it was probably normal for them to share things this way, and he couldn't impose his thoughts on them just because it wasn't a normal act in his own view of the world.
+
+The pixies were all sitting in a nice pile around him, and somehow had managed to do that with at least some part of them leaning against him. When the very last pixie signed the contract and exchanged flesh with Ren, he received a popup.
+
+Notice!
+
+Trouble Recipe ingredient: 'Pixies' has been acquired.
+
+Wait, what? Ren thought and stared at the popup. I've never acquired an ingredient before.
+
+It's neat, right? Teepo thought back. I wonder what flesh-bonding with so many pixies is going to do to you.
+
+What do you mean? Ren thought to his friend.
+
+They're all bonded to different aspects of things in this world. Teepo responded. Things are going to be interesting from here on out.
+
+Like they weren't before? Ren asked in amusement, and Teepo chittered in laughter.
+
+“You think stuff really loudly.” Suniva said and looked up at Ren. “Can you keep it down a little? I'm trying to tune you down to a dull roar so you're not so overwhelming.”
+
+Oh, crap! Ren thought, and every pixie started to laugh.

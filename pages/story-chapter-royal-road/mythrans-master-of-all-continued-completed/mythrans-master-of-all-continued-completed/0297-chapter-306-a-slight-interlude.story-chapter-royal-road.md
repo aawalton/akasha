@@ -1,0 +1,341 @@
+---
+id: ab28a03a-72c7-5cb5-a546-926cabb5acab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 306 - A Slight Interlude"
+slug: 0297-chapter-306-a-slight-interlude
+partOf: mythrans-master-of-all-continued-completed
+position: 297
+ownLength: 4027
+unit: words
+publishedAt: 2017-07-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148422/chapter-306-a-slight-interlude"
+royalRoadId: "148422"
+---
+
+Ren woke up on the bed in his cabin, and found he was under a pile of women when he opened his eyes. He saw a foot, a knee, an arm, and the top of someone's head right by his face. He couldn't tell who was who; but he knew it was at least 3 of them, and possibly 4 if the foot wasn't attached to the other leg of the person the knee belonged to.
+
+Hey, Teepo. Ren thought.
+
+“Good morning, pancake.” Teepo chittered in laughter.
+
+Ren almost laughed at the situation himself. He never thought, not even in his wildest dreams, that he would ever be in a position to be on the bottom of a sleeping pile of women. When he tried to move one of his hands, he felt it touched bare flesh. He couldn't tell what it was that he was touching; but he did hear a low moan from a couple feet away. When he tried the other hand, he only met slight resistance from having something on his fingers and pulled his hand free.
+
+“Hmm?” Someone said sleepily. “Someone... moved.”
+
+“Not me.”
+
+“I did before... that was... a while ago...”
+
+“Wha?”
+
+“...french... toast...”
+
+Ren chuckled at the last thing he heard, and he felt everyone stiffen slightly as they woke up.
+
+“You're back.” Frikara said and propped herself up on an elbow. She had been the one on his trapped hand, which was now free. The part of her that he had been touching was her stomach.
+
+“Hi.” Andrela said as she lifted her head from his chest. The knee moved away from his face and Lusinia turned around to look at him.
+
+“It's nice to see you.” She said.
+
+A weight lifted from his legs and the foot disappeared as Verwynn sat up.
+
+“Did someone mention food?” She asked.
+
+Now that the way was clear for him to see, Navruth was the one that had been on his other arm.
+
+“Good morning.” She said and smiled.
+
+“I'm sorry to wake all of you up.” Ren said, and ignored the fact that they were all topless. “I came back early to get some sleep.”
+
+“Voluntary cuddles!” Frikara said and laid down on his arm again. “Arm!”
+
+“Leg!” Lusinia said and laid back down herself, but kept her knee well away from his face.
+
+“Staying here.” Andrela said and put her head back down on his chest.
+
+“I'll switch with you if you want.” Navruth said to Verwynn.
+
+“Please.” Verwynn said, and the two of them switched places. Navruth didn't lay down with her feet towards Ren's head like Verwynn did, and Verwynn didn't lay down on his arm like Frikara; instead she tucked herself in close and folded it up, then held his forearm against her chest.
+
+“Frikara? Can you move down some?” Ren asked her.
+
+“You want some naughty cuddling, do you?” Frikara asked, and moved down to put her chest right on his hand. Ren moved the hand out of the way before she could lay down on it, though. “Aww.”
+
+“On your back, please.” Ren said, and she rolled over onto her back. He put his arm around her shoulders and pulled her in close. She had wide eyes as she looked at him with surprise on her face.
+
+“I like cuddling.” Ren said and smiled.
+
+The personal maids all sighed at the truth in his words, and relaxed immediately.
+
+Teepo, wake me up for a late breakfast. Ren thought to his friend.
+
+“Sure thing, Ren.” Teepo said.
+
+“Goodnight.” Ren said.
+
+“Goodnight.” Two of the personal maids said.
+
+“Night.” Another said.
+
+“...fox... stew...” Verwynn said, because she was already half asleep with a death grip on Ren's hand.
+
+“Thank you.” Andrela said.
+
+They all fell asleep not long afterwards.
+
+*
+
+Tommy took down yet another wolf with a head shot and the Lightning bolt froze the body solid for a second. The arrow went through the wolf's skull and hit the hind quarters of the wolf behind it.
+
+“Where did you say you got that bow?” Billy asked and fired his piddly normal bow at a wolf. It ignored the damage and lunged at the person that had stung it. The close combat swordsman in the party swiped at the wolf's neck as it passed, nearly decapitating it; and the wolf fell dead at Billy's feet. “Thanks, Hank.”
+
+“You need a better bow.” Hank said and turned his attention back to the over-sized pack of wolves they thought they had been hunting; when in fact, the wolves had been hunting them.
+
+“I know!” Billy said and shot another arrow. “I've been saving up for a month!”
+
+“I'd suggest getting it from Ren's store.” Tommy said. “This thing is great!”
+
+“I can't afford something like that.” Billy said. “What did you say it was? A platinum?”
+
+“Yeah.” Tommy said and killed another wolf. “He gave me a bit of a discount, though.”
+
+Clint chuckled as he shot a wolf 6 times with his automatic bow bracers and killed it easily. “Ah'm tempted ta see if he c'n improve mah weapons.” He said. “Yer bow is doin' more damage per shot th'n mine.”
+
+“You can continuously fire, man!” Tommy said and laughed, and knocked three arrows to take aim at a wolf that was trying to run around them. Lightning encompassed them as he pulled back, then he let the arrows fly. Two of them hit the wolf, one in the shoulder and one in the leg; but the last one missed completely. The wolf tumbled to a stop with it's leg damaged and shocked by Lightning, then Clint shot it in the head to finish it off.
+
+“Nice leadin' shot thare, Tommy.”
+
+“Thanks.” Tommy said. “The triple shot isn't as accurate as a single, but it's great for suppressing fire.”
+
+“Heads up!” Dillon said. He was the magic user, and his early warning spell had just gone off. “We've got a big one coming!”
+
+“Holy shit!” Billy said. “You don't think its-”
+
+“It is.” Hank said. “Can't you feel that Fear Aura? Dire Wolf at 10 o'clock.”
+
+“Which direction is that?” Billy asked.
+
+“Geez, man!” Tommy said and pointed. “Over there!”
+
+“Okay, I got it!” Billy said and turned that way.
+
+“Don't ignore the normal wolves yet!” Dillon said and cast a free-standing Fire Wall in the middle of the pack, right where Hank had said the Dire Wolf was going to appear. The Fire Wall was 10 feet square and 4 inches thick. Several yips were heard and the smell of singed fur covered the party.
+
+“A gold coin says it falls forward.” Hank said as he swung his sword at a wolf that had gotten too close.
+
+“Hey! I'm trying to save my money!” Billy said and shot an arrow at another wolf and missed. “Ah, dammit.” He said. “I say it's forward, too.”
+
+“Yer always wrong.” Clint said to Billy and laughed. “Ah'm pickin' backwards.”
+
+Tommy shot another wolf and killed it. “I'm with Clint. It's gonna fall towards us.”
+
+They heard a loud crashing sound a moment later, then the wall fell towards them. The Dire Wolf stood on top of it and snarled at them as it's paws were burned; but, it made no move to get off of the wall as the underbrush around it burned.
+
+“Oh, shit!” Billy said. “It looks pissed!”
+
+“Jus' remembah.” Clint said and switched out a single cartridge for the special Ice enchanted arrows he had. “We ahgreed not ta loot it until we take tha head!”
+
+“You and your damn trophies!” Dillon said and cast Protection on the party. “You've got 8 minutes at taking half-damage.”
+
+“Thanks!” Hank said and charged forward. He was their close combat specialist, and activated his Killing Blow ability. A wolf lunged at him from the side and Hank easily killed it with a single swing. The Dire Wolf growled menacingly at the loss, and just before Hank reached him, smashed his front paws into the Fire Wall it stood on. It broke apart spectacularly and threw out flames for several feet. They dissolved after that, but it had been enough to stall Hank's charge and cause him quite a bit of Fire damage. The Dire Wolf reared back and jumped over Hank, then ran towards the rest of the party.
+
+“Dammit!” Hank said as he skidded to a stop and ran after it. Clint went to full auto on his bow bracers, and sprayed the wolves that had rallied at the Dire Wolf's appearance, then concentrated his fire on the Dire Wolf itself. The Ice arrows had little effect, much to his surprise.
+
+Ren's book said tha' Ice arrows worked like ah charm. Clint thought and kept firing.
+
+“Dillon! Shield!” Tommy said and fired as quickly as he could at the oncoming beast. “Shield, man!”
+
+“Just a second!” Dillon said as he prepped the spell.
+
+“We don't have a second!” Tommy said and kept firing.
+
+“I'll use the scroll!” Dillon said and took out the scroll he had bought for an emergency. He opened it and read the short incantation, and a half-dome of blue energy appeared in front of them as the piece of parchment crumbled to dust. The Dire Wolf hit the half-dome shield muzzle first, and the force of it's weight being stopped compressed the wolf's body almost into a ball. It bounced off the shield and fell to the ground in front of them, dazed and confused.
+
+“Go for it, Hank!” Dillon said, and cast Weakness on the Dire Wolf. “It's Weak now!”
+
+The Dire Wolf's Vitality and Agility were cut in half, so it wouldn't be dodging anything for the next several minutes, and it's natural armor value dropped considerably.
+
+Hank saw his target was down as he ran, and used his Leap ability when he was close enough. He jumped up into the air and his Death From Above ability kicked in automatically. It's 20% chance of killing the target with a single blow combined with Killing Blow's 30% chance of killing the target with a single blow; and gave him a 50/50 shot at a one-hit kill. Now that the target was pretty much immobile and Weak, Hank held his sword in a two-handed grip and jammed it down into the side of the Dire Wolf's chest as he landed on top of it.
+
+The Dire Wolf howled in agony as the sword pierced it's body and cleaved through it's heart, doing massive damage. Hank, unsure of the kill, turned the blade quickly to mulch anything he had hit on the inside, then used his considerable Strength to push the blade out through the other side of the Dire Wolf's chest and into the ground. The Dire Wolf's howl was cut off with both lungs skewered, and then it stopped breathing.
+
+“Time to mop up!” Dillon said as the temporary shield disappeared. Tommy, Clint and Billy opened fire on the remaining wolves. Hank didn't even try to pull out his sword from the dead animal, and sat down on the ground in front of it and leaned back to rest against the remains.
+
+“I really hate that Leap takes so much of my Stamina.” Hank said.
+
+“Hey, we told you to put your last level up stat points into Vitality and not Strength.” Billy said and shot a wolf, and succeeded in killing it. “Yes!” He said, then glanced back at Hank. “It's not our fault you put them all in Strength. Again.”
+
+“I'm the Tank for this team. I have to be strong!”
+
+“Not at the cost of slowing us down.” Dillon said and drank a Mana potion that he'd bought from Ren's store. It still surprised him how cheap they were compared to the other shops. “You have to start spreading your points around. Only being strong is starting to limit your usefulness.”
+
+“This from the magic user that doesn't actually fight.” Hank responded.
+
+“Hey! We agreed that I'd take all defensive spells when we put the party together.” Dillon said. “It's worked out great so far!”
+
+“It shore has.” Clint said and killed two more wolves. “Ah'm tempted ta get ahnother Tank, 'n maybe ahnother magic user ta fill tha las' two spots.”
+
+“Yeah, we've got enough ranged combat.” Tommy said and killed the last wolf as it tried to flee. “Assuming we can get Billy a better bow soon.”
+
+“You guys don't have to pick on me all the time about it.” Billy said. “I'll get one soon.”
+
+“I would have sold you my old bow, but I gave it to my girlfriend when I got this one.” Tommy said and then laughed. “She damn near tore my arm off for it, too.”
+
+“Ah c'n imagine.” Clint said. “Tha was ah good bow.”
+
+“It took me a while to convince her to play.” Tommy said. “That changed once I told her that there was actual sex in here with no chance for pregnancy.” He said and grinned. “She was all over me to buy her a VR headset after that.”
+
+Hank laughed. “I hear that!” He said. “I've been seeing someone myself, and it was the same thing. Begging almost on hands and knees just to play.”
+
+Tommy nodded. “Once she was in here and saw what it was like, though...”
+
+“She's gone off on her own, huh?” Dillon asked.
+
+“I set her up with a few other newbies and told them about some of our old haunts.”
+
+“Old Man's Grove?” Hank asked, and Tommy nodded. “I really liked that place.”
+
+“It was the best!” Billy said. “Endless small creatures to hunt and kill, XP bonuses for how quickly you could clear it, and free food.” He grinned. “I miss those days.”
+
+“Me, too.” Tommy said. “I was actually tempted to blow you guys off and join her there for a while.”
+
+“And miss the only chance we had to do this Major Quest on our day off from work?” Hank asked, shocked. “Guys! You're not gonna believe this! I think... I think Tommy's in looooove!”
+
+Everyone laughed, including Tommy. He'd never admit it to them while they were joking around like this; but, he actually did love his girlfriend.
+
+“Ah can' believe the Ice arrows didn' work.” Clint said. “Ah read Ren's books.”
+
+Dillon walked over and used Identify on the Dire Wolf. “I think I see the problem.” He said to Clint. “This is a cold weather Dire Wolf. It's got... well, it had resistance to Ice magic.”
+
+“You're kidding!” Tommy said. “There's different kinds of Dire Wolves?”
+
+“Apparently.” Dillon said and knelt by it. “I knew the smaller wolves had pack leaders that could have different abilities, but this is the first large creature that I've seen with them.”
+
+“Check it's paws!” Tommy said, and Dillon lifted one of them.
+
+“They're healed.” Dillon said. “No burns.”
+
+“Oh, man!” Tommy said. “It had regeneration!”
+
+“Way ta go, Dillon an' Hank.” Clint said. “Weeda been in ah righ' pickle if'n yer combo hadn' worked.”
+
+Billy clapped Hank on the shoulder, and Dillon stood up and smiled.
+
+“Let's get these wolves back to the cart.” Tommy said. “We have to show proof to the Village Elder before they'll finish the quest.” He smiled. “Then we can loot the wolves.”
+
+“What about the pelts?” Billy asked. “They could be worth a bit of coin in the right hands. Is there someone that can skin them around here?”
+
+“No idea.” Hank said.
+
+“Clint? You're a rancher in real life.” Tommy said. “Can't you skin them?”
+
+“Maybe if'n ah had tha righ' tools.” Clint said, then remembered Ren's store sold pretty much everything. “Ah think ah know where'n ah migh' get some.” He said and smiled.
+
+*
+
+“Ren.” Teepo said. “REN!”
+
+Ren woke up to the sound of Teepo's voice telling him that it was an hour after breakfast.
+
+Thanks, buddy. Ren thought, and looked around. He was still surrounded by women, and they had cuddled in even closer while he had slept.
+
+“Good morning.” Ren said, and Andrela, the one with her head on his chest, lifted her head slightly to look at him.
+
+“Good morning.” Andrela said and smiled sweetly at him, with not a trace of sleep in her voice.
+
+“Already?” Lusinia said and let Ren's leg go and rolled over onto her back. “I need more sleep!”
+
+Ren chuckled and felt Frikara move and looked at her. Her face was flushed slightly red, and Ren wasn't sure why. He was tempted to concentrate on the shared Aura and find out what she was actually feeling; but, he left it as a mystery and kissed her cheek instead. Her face flushed a deep red, and she averted her eyes from his. Ren smiled at her acting so shy after how brazen she normally was, and looked at Verwynn on his other side. She had managed to hold his hand the entire time, and was looking at him with hope in her eyes. He opened his hand and she let it and his forearm go, and he caressed her cheek. She closed her eyes and sighed.
+
+“I feel a little left out.” Navruth said and smiled as she sat up and stretched. Ren lifted his leg and used his toes to caress her cheek, and she laughed. “You did not just use your foot to do that!” She said and grabbed his ankle with both hands.
+
+“Hey, you chose the leg to cuddle last night.” Ren said and chuckled. “You shouldn't complain if you get touched by the foot.”
+
+Navruth moved the foot towards her face and stuck the big toe into her mouth. Ren looked at her with raised eyebrows, and she pulled it out and sighed.
+
+“Nothing, huh?” Navruth asked.
+
+“Nope.” Ren said. “I can't even lie and say it felt good.”
+
+Navruth looked at the bottom of the foot and used her fingers to scratch it, but didn't get any reaction. “You're not ticklish there, either?”
+
+“Not really.” Ren said.
+
+“I'm sorry.” Navruth said and sighed at her failed attempt to make him happy, then placed a kiss on the sole of his foot to apologize. Ren reacted immediately at the ticklish sensation, and laughed. The personal maids froze at the sound he made, then Navruth kissed his foot again to make sure that it had really happened and wasn't just a fluke.
+
+“That... that tickles!” Ren said, and laughed.
+
+Navruth and Lusinia exchanged glances and nodded slightly, then they attacked both of Ren's feet with their lips and tongues.
+
+“Ha haha hahaha!” Ren laughed as they tickled his feet with their mouths and he squirmed around on the bed. He was pretty strong by this point and he didn't want to move too much; just in case he might flail about and possibly hurt someone. “St... st... ha ha ha!”
+
+Andrela was still on his chest, so she could feel all of his movements and how he was trying not to move around. She saw his underarms were completely unguarded, so she drove her fingers into them and started tickling him, too.
+
+Ren laughed and laughed because they were merciless in their attack, and didn't give him even a second to tell them to stop. This went on for several minutes, and then the tickle attack slowed down and then stopped.
+
+Ren's laughter faded away, and he relaxed as Navruth and Lusinia let his feet go and Andrela moved her hands from under his arms and folded them across his chest, then rested her chin on them to stare at his face.
+
+“I hope you're not mad.” Andrela said, sheepishly. “We've been trying to come up with something to do for you, and all we could think of was to make you laugh.”
+
+Ren concentrated on the Contact Aura, and his personal maids gasped as his Aura merged with theirs and then the shared Aura was flooded with how happy Ren was.
+
+“By... by the gods...” Andrela said, completely amazed. “How... how can you feel so happy?”
+
+Ren smiled and put a hand on Andrela's back to give her a little hug. “I just woke up in bed, with 5 women, who's only concern was to try and make me laugh.” He said and smiled. “Why wouldn't I be happy?”
+
+Andrela didn't know what to say to that.
+
+“None of you mauled me while I was asleep, either.” Ren said and grinned. “That definitely put me in a better mood.”
+
+“Ren.” Frikara said and he looked at her. “We might say-”
+
+Someone coughed and interrupted her, and she smiled.
+
+“Okay, I might say things that...” Frikara sighed. “I do say things that might have given you the wrong impression.” She said. “I want to have sex with you.” She glanced around at the other personal maids. “We all do.”
+
+Ren could feel their desire; but; it was tempered with a large amount of patience.
+
+“Despite what I imply with my words, I would never try and take something like that from you if you won't give freely.”
+
+“That's right.” Lusinia said and smiled. “Don't get us wrong; we'll tease and play with you as much as we can.”
+
+Navruth nodded slightly. “Just having a man around that respects us as women...”
+
+“...has been a gift from the gods.” Verwynn finished for her.
+
+“We'll keep fighting the urge, even though you're so hard to resist.” Andrela said and blushed.
+
+“Thank you for keeping up the fight.” Ren said to her, and looked at the others. “I appreciate it.”
+
+“We know you do.” Frikara said, because they could feel his appreciation.
+
+Ren looked back at Andrela. “I'm sorry, but you have to move.” He said. “I have to get up and make breakfast for everyone.”
+
+“You can stay there.” Frikara said and got up. “We're having leftovers.”
+
+“What about...” Ren started to ask about Orimihr.
+
+“We knocked on the wall and slid several plates of food out under the door yesterday.” Lusinia said. “He tried to talk to us, but we wouldn't listen or respond.”
+
+“I'm sorry.” Ren said. “I thought we could all get along.”
+
+“He worked in the Lodur mines for 5 years.” Frikara said, and Ren felt her anger rise. “But that doesn't excuse his rude behavior towards Andrela.”
+
+Ren was about to ask why they focused on her when the rudeness was directed at all of them, then he felt a strong protective feeling flood the shared Aura. He smiled as he understood that she was the focus of the group, that she was the one that they all looked after, and he looked at Andrela. Her face was a deep red, because she could feel how much they all wanted to protect her.
+
+Frikara handed out 4 plates of food from the icebox to the other maids, and took one herself. Andrela moved down slightly and put her plate on Ren's chest, and the other 4 maids laid down around him close to his head.
+
+“I think you forgot a plate for me.” Ren said.
+
+“I didn't.” Frikara said and smiled, then Ren felt a bit of playfulness enter the Aura. “I figured we could all share.”
+
+“Open wide.” Andrela said and held out a small piece of meat for him to eat between her finger and thumb.
+
+“I don't think...” Ren tried to say.
+
+“Good.” Navruth said. “Don't think about it.” She smiled. “Just lay back and enjoy it.”
+
+Andrela was still holding the piece of meat by his mouth. He could feel how much she wanted him to eat something from her plate first. Ren opened his mouth for her, and he felt her burst of happiness as he accepted her offering. He chewed it up and swallowed, and another hand was by his face with another small piece of food.
+
+“Mine next.” Frikara said, and Ren ate her offering, too. Each of the personal maids took turns feeding him, and he ate everything they gave him while they ate themselves. They used their fingers to eat and feed him, and it was quite messy; but, they enjoyed themselves the entire time and Ren couldn't help himself and enjoyed it, too.

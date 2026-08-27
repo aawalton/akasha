@@ -1,0 +1,341 @@
+---
+id: f4107316-11b0-5fd8-8854-7ab5a3dd35ec
+page-type-slug: story-chapter-royal-road
+title: "Prologue"
+slug: 0001-prologue
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 1
+ownLength: 2766
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191532/prologue"
+royalRoadId: "3191532"
+---
+
+"My Lord! Please!"
+
+A woman’s voice.
+
+That was the first thing Lucien could remember.
+
+It was as if a veil had been lifted from his mind after a long sleep. Awareness rushed in with sensation. A chill ran through him, sharp and unwelcome, settling into his bones as if it had always been there, waiting for him to notice.
+
+"My Lord."
+
+Another followed, calmer. It bore the cadence of someone steeped in subservience. Measured. Unobtrusive. Later, he would understand that restraint was not the same as weakness.
+
+"My Lord, should we proceed?"
+
+A different one this time, deep and baritone in its tone.
+
+Lucien could almost picture the owner, thick with muscle, effortless in confidence, the sort of man whose voice alone probably caused sighs in candlelit corridors.
+
+‘Ah. The deep-voiced heartthrob type.’
+
+‘Damn it. I picked the wrong character build.’ he noted dryly.
+
+“Please, Milord! Forgive my husband’s mistake just this once!”
+
+‘Wait...forgive? Forgive what exactly? And what's all this nonsense about a Lord?’
+
+"My Lord, we can begin the execution at your command." the man with the baritone proclaimed.
+
+At those terrifying words, Lucien’s eyes snapped open, cringing slightly at the sudden brightness.
+
+The world flooded in with sound, murmurs and whispers from a sizable crowd. The air was thick with the stench of unwashed bodies pressed close together.
+
+Anxiety clung to the scene like fog, seeping into his skin. His knees almost trembled beneath the weight of it.
+
+Before the sudden flood of stimuli could overwhelm him, Lucien forced himself to focus. To focus on the scene unfolding before him.
+
+In front of him knelt a man, his neck laid across a rough, splintered stool. Another figure stood beside him, clad in full plate armor, longsword drawn and resting at the man’s throat like a blade waiting on the edge of balance.
+
+The contrast between them was stark. One was helpless and resigned. The other simply waited for the moment when the order would fall.
+
+What struck Lucien most was the expression on the kneeling man’s face. Not fear…acceptance. The man had already surrendered to what was coming. That sight unsettled something deep inside him.
+
+Off to the side, a woman in her mid-thirties was sobbing inconsolably, tears streaming down her face. Two men held her back as she struggled to reach the condemned man.
+
+They weren’t guards, though. Their clothes were simple, worn.
+
+Probably folks from the same village. Judging by how their faces were drawn with guilt, even reluctance, as they restrained her.
+
+“My Lord, perhaps we should take into account a father's folly?” The measured voice piped up again, closer now. As if he’d been trailing behind Lucien all this time. “It would be prudent not to antagonize your new subjects, after all.”
+
+Lucien turned toward it, wanting...needing to match it to a face.
+
+It belonged to an older man, perhaps in his forties, though grey had already begun to pepper his well-kept beard. He wore cleaner, finer clothes than the crowd, still modest, but clearly of higher standing.
+
+‘Elias’
+
+The name struck him with clarity, loud and irrefutable. He didn’t know how, but he knew it was right. And that certainty only deepened the pit forming in his stomach.
+
+‘At least his name isn’t Sebastian or something,’ Lucien noted dryly.
+
+"My Lord? Shall we proceed?" The plate armoured man repeated, his grip on the sword tightening, as if ready to swing it and end a life at his command.
+
+‘Dorian’
+
+Another name. Pounded into his skull like a hammer, worsening the pulse in his temples.
+
+‘I need time.’
+
+‘Time to assess the situation. Time to make sense out of all this.’
+
+“Remind the crowd again, Elias,” Lucien said aloud, carefully shaping the words to sound authoritative rather than confused. “What is this man’s crime?”
+
+He couldn't afford to sound like someone who’d forgotten the very reason "he" ordered for a man’s death. That would not go well in a time like this.
+
+Elias cleared his throat. “Yes, My Lord. Bran here, attempted to assault your manor last night. He was, of course, stopped by the guards before he got very far. It is a serious crime, but...there was little harm done.”
+
+‘Assaulted a Noble's...my manor?’ Lucien eyed Bran sceptically.
+
+‘This man who looks like he’s already surrendered to death? No. There’s more to this story.’
+
+‘But how do I draw it out without sounding like a lunatic? Think. Think!’
+
+Something Elias had said echoed back to him. A father’s folly
+
+“And what of this ‘father’s folly,’ Elias?” Lucien drawled, forcing a note of boredom into his tone, as though he were inquiring about the weather.
+
+Elias swallowed dryly. “Well, My Lord...the village failed to pay the full amount of its taxes, and so it was...decided that the remainder would be paid by other means.” He trailed off, clearly avoiding something unpleasant.
+
+“Other means? Speak plainly, Elias! Unless you’re suggesting something improper was done by my own orders.” Lucien snapped, getting tired of the situation and wanting to get this over with so he could find a moment to just think and likely fall into a panic in privacy.
+
+“Yes, My Lord.” Elias replied at once. “You ordered Bran’s daughter taken into your service. You said you found her to your...liking.”
+
+‘Fuck.’
+
+‘What did the original Lucien do?’
+
+‘NTR's my top hated genre but non-consensual porn is right under it! I have quite the vanilla taste, thank you very much!’ Lucien grumbled inwardly to himself.
+
+Bran’s body stiffened at the mention of his daughter. The resignation in his posture cracked, revealing something darker beneath...an emotion sharp enough to cut despite the blade at his neck.
+
+‘S-scary.’
+
+Lucien’s gaze flicked nervously across the crowd. ‘That man will kill me if he gets the chance. And the villagers...they don’t look much better.’
+
+Shabby looking clothes. Tight jaws. Some of the men's eyes were burning with barely restrained fury.
+
+‘What should I do?’
+
+‘I can’t just reverse course on a whim...not here.’
+
+By his modern sensibilities, Bran’s actions were justified. Desperate perhaps, yet righteous in his intentions.
+
+But this clearly wasn’t the modern world. This was likely a time and place where his mercy could be mistaken for weakness.
+
+And that weakness? It could be fatal for him especially right now.
+
+Lucien knew far too little about the world he’d been thrown into to afford either.
+
+“P-please, have mercy on him, Milord!” the woman pleaded desperately, likely Bran’s wife. “He won’t cause any trouble again, as long as Alicia is taken care of!”
+
+The voice snapped into place, the first thing he had heard upon waking in this borrowed body. ‘So this Alicia is likely their daughter,’ Lucien noted grimly. ‘Damn it…what a mess.’
+
+“Silence, woman!” Dorian snapped. “You have no right to make demands of the Lord. Your daughter will serve as the Lord sees fit.”
+
+His blade hovered, ever-ready to part flesh from bone without hesitation.
+
+At his words, the crowd’s murmurs swelled, thick with tension. The men restraining Bran’s wife stiffened, their grips tightening as unease spread through the gathered villagers.
+
+‘I would really appreciate it if you were the one to shut up, Dorian,’ Lucien cursed inwardly.
+
+‘You are not helping!’
+
+Ah yes. The archetype. Muscles, authority, and the charisma stat maxed out at character creation. The man looked exactly like the sort who would’ve been effortlessly popular back home.
+
+“What is the standard punishment for Bran’s crime, Elias?” Lucien cut in sharply, before the situation spiralled further and before the crowd found the courage to riot.
+
+Elias hesitated only briefly. “Ordinarily, an attempt upon a noble’s residence is punishable by hanging. As he did not breach the gates...” He inclined his head slightly. “The removal of a hand would suffice.”
+
+‘Damn.’ Lucien winced inwardly. ‘That’s still a death sentence, judging by the rags he’s wearing.’
+
+“And does this man require his hands for his work?” Lucien drawled, eyeing Bran with feigned disinterest.
+
+Outwardly, he was trying to affect the appearance of boredom. Yet inwardly, Lucien was rapidly assessing the village in front of him. The fields, tools, calloused hands. Farmers, most likely. He didn’t want to assume...but perhaps...
+
+“Yes, My Lord.” Elias inclined his head. “They are farmers. The loss of a hand would severely limit his ability to work the fields.”
+
+‘Perfect.’ Lucien nearly cheered internally.
+
+He was proven to be right with his quick assessment. A plan was starting to come together to solve this situation without causing a bad situation to worsen.
+
+“Then that may as well be a death sentence,” he said coolly. “And I would be further deprived of an entire household’s taxes. You mentioned earlier that the village already failed to pay in full, did you not, Elias?”
+
+Lucien eyed his butler(?) in question, trying to lead the flow of the conversation back to another problem, obscuring this farce of an execution further.
+
+“That would be the case, My Lord.” Elias answered with careful precision. The abrupt shift in questioning left him momentarily uncertain of its direction, though he did not show it.
+
+“Well then” Lucien continued smoothly, bulldozing forward with faux confidence. “It would be foolish to worsen that deficit. Killing this man only deepens what the village owes me.”
+
+Bran’s wife stopped struggling. Hope flickered faintly in her tear-filled eyes. The men restraining her eased, just a little.
+
+“Release him, Dorian,” Lucien ordered, already turning away.
+
+“Ensure he understands not to repeat such folly. His punishment will be paid in labor. I will decide the specifics later,” he added belatedly, continuing on without looking back, his measured pace and flat tone an attempt at the bored detachment he imagined a noble ought to have.
+
+“Yes, My Lord!” Dorian barked.
+
+Lucien didn’t look back. Judging by the towering gates and the massive structure ahead, the execution had conveniently taken place just outside the manor grounds.
+
+“Elias, disperse the crowd. I require a moment’s rest, this whole sordid affair has left me with a headache.”
+
+Lucien ordered without turning, adopting the languid air of a noble rather than revealing the truth...a man desperate for privacy, for a moment alone to make some sense of the utterly fucked up situation he’d been thrown into.
+
+“Yes, My Lord. By your command.”
+
+Lucien barely heard him. His thoughts were starting to spiral as he strode straight toward the manor doors.
+
+‘So this is it,’ he thought distantly. ‘An unknown world. An unknown time. With strangers who somehow know me better than I know myself.’
+
+The doors of the manor...his manor slammed shut behind him.
+
+Lucien exhaled shakily and muttered to himself despondently.
+
+“Well…looks like I’m fucked.”
+
+‘I look like a wastrel.’
+
+After leaving the execution behind him, the echo of it still ringing in his ears, Leon found himself staring blearily at his reflection in the mirror of his room. An unfamiliar face stared back, clad in unfamiliar clothes...clothes that screamed fancy in that distinctly medieval sort of way.
+
+He wasn’t ugly by any means, but the narrow set of his eyes, paired with jet-black hair and dark amber irises shadowed by faint bags beneath them, gave him the unmistakable look of a villain. The kind he used to read about endlessly in novels during his free time.
+
+‘At least I’ve got a somewhat above-average face in this damn life,’ Leon scoffed inwardly.
+
+If someone had been spying on him at that moment, they would’ve seen a young man snorting quietly at his own reflection, looking every bit like a two-bit antagonist from a cheap drama.
+
+‘How did I even come to be here…in this place?’
+
+‘The last thing I remember was working on a service request with someone, debugging mistakes my junior made in the code and after that—’
+
+He palmed his face as his final moments of lucidity from his old world came rushing back.
+
+‘D-did I seriously collapse from overwork? Really!?’
+
+‘Something that stupid and cliché!?’
+
+Twisting on his heels away from the mirror, he began pacing his absurdly large bedroom, hands clasped behind his back as if he couldn’t bear to look at that unfamiliar face any longer.
+
+‘N-not even Truck-kun? Come on!’
+
+‘What kind of stupid transmigration is dying from overwork of all things…’ He cringed inwardly, embarrassment creeping in.
+
+‘W-well...at least it wasn’t painful or anything…’
+
+Lucien—formerly Leon—tried to comfort himself as he struggled to come to grips with where he had ended up.
+
+Transmigration.
+
+Anyone who had ever read stories like this would have fantasized about being in such a situation. There was a reason the genre was so popular.
+
+It had been one of his guilty pleasures, something he binge-read during rare breaks, holed up at home with food deliveries, perfectly adjusted air conditioning, and most importantly, modern plumbing.
+
+But if one actually thought about it...really considered the dangers and difficulties of being thrust from the modern world into a medieval one?
+
+‘What a fucked-up situation to wake up in.’
+
+That was what any ordinary person would think.
+
+‘Alright. Calm the fuck down, Leon.’
+
+‘Use that brain you’re so proud of and think. First, what do I know?’
+
+As he forced himself to focus, fragmented information began to surface.
+
+Le—Lucien was the son of a noble whose family had been...exiled? Demoted? Whatever the correct term, it stemmed from monetary embezzlement of the King’s taxes while serving in the treasury.
+
+In simpler terms, Lucien’s father had tried to scam the motherfucking King.
+
+He’d lost his head for it.
+
+Lucien, his only son, had been spared but he got tossed to a backwater village, stripped of his court position and demoted to a rural baron.
+
+On paper, becoming a landed baron didn’t sound so bad.
+
+That illusion shattered once the location was considered.
+
+Frontier territory.
+
+From a cushy post in the capital to what was essentially the boonies. Worse still, his family had never governed land before. They were administrators, not rulers.
+
+It was a task doomed to fail from the outset.
+
+And Leon had the sinking feeling that if he missed even one tax payment, his head would be next.
+
+‘The only thing worse than this would be being born a peasant.’
+
+Le-No, he corrected himself. He needed to get used to his new name.
+
+Lucien.
+
+‘At least being a frontier baron still places me a few steps above the worst case scenario.’ He tried to cling to that thought. Despair wasn’t a luxury he could afford.
+
+The memories in this body...his body were oddly inconsistent. Clear in some places, maddeningly vague in others.
+
+He knew names. Roles. Impressions.
+
+Elias, a longtime family servant from the capital.
+
+Dorian, the guard captain of his household.
+
+But who were they as people?
+
+Nothing. Blank.
+
+He knew he was a noble of the Kingdom of Arcencia, that this was the Eredros Continent but the culture, the current technological level, even the geography beyond vague impressions?
+
+Not a clue at all.
+
+It was infuriating...like staring at a puzzle he knew was missing half its pieces.
+
+‘Oh Google, how I miss you.’ he lamented inwardly.
+
+The pacing, the fractured memories...it all began to build into a migraine, the worst he’d felt across both lives.
+
+“Enough of this” Lucien groaned aloud. “I need to find the library and read up on things.”
+
+Just as he made up his mind—
+
+“M-my Lord? D-did you call for me?”
+
+A soft, songbird-like voice froze him in place.
+
+‘W-who?’
+
+‘That didn’t sound like Elias.’
+
+He turned toward the thankfully still-closed door.
+
+“Who dares disturb me?” he snapped, coughing slightly as he forced an unfamiliar authority into his tone. “Show yourself!”
+
+The door creaked open.
+
+A delicate head peeked through first with her flaxen hair tied into pigtails before a petite figure stepped inside hesitantly, fidgeting with her maid’s outfit. M-my apologies!” she stammered. “I-I heard the Lord’s words and assumed you were—”
+
+She stopped herself, swallowing hard. “Mil-My Lord, Alicia is r-ready...at your service!”
+
+‘Alicia…?’
+
+That pit returned to his stomach.
+
+Lucien’s eye twitched as the earlier scene snapped back into focus.
+
+‘Bran’s daughter’ he realized grimly.
+
+“M-my Lord?” she whispered, barely lifting her eyes. “P-please don’t punish father again…I’ll work harder. I won’t cause trouble.”
+
+She clutched her skirts that were too damn short tightly, knuckles white.
+
+‘At least—’ He stopped himself from falling into a deep hole that he had no intention of even contemplating about.
+
+No. There was no “at least” here.
+
+The implication of the word service finally dawned on him in full, cold clarity.
+
+He could already hear the familiar sirens from his old world wailing in his head...a piercing echo that rang endlessly in this damned scumbag's head.
+
+‘Lucien.’
+
+‘You mother fu—’

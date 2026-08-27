@@ -1,0 +1,179 @@
+---
+id: 9d82a05e-fabd-51fb-84d9-23a6916353c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98 Inquiries"
+slug: 0103-chapter-98-inquiries
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 103
+ownLength: 2042
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3690495/chapter-98-inquiries"
+royalRoadId: "3690495"
+---
+
+A pale line of late afternoon sunlight stretched across his desk, falling over the pile of ledgers before him.
+
+Lucien took a sip of his coffee as he regarded the pile of ledgers before him. Setting the cup down briefly, he wiped the sweat from his face with a cloth.
+
+A measured knock sounded on his door.
+
+"Enter."
+
+As the door swung open, Elias stepped in with a another bundle, closing the door smoothly.
+
+The steward bowed upon reaching the appropriate distance. "My Lord. Here are the grain reports with the proposed changes you have requested."
+
+At Lucien's gesture, he walked over to place it on another open section of his table before he straightened, arms folded neatly behind his back.
+
+Shaking his head at the steward’s usual impeccable manners, Lucien leaned back in his chair, one arm resting along the armrest.
+
+"How are the two scribes we hired from Helvarn, Elias? I trust they have helped with the workload?"
+
+Elias inclined his head. "They are sufficient, My Lord. I have arranged for them to be housed temporarily near the masons while construction of the new homes in Ashridge is underway."
+
+He glanced briefly to the ledgers on the desk. “With the village’s population likely to continue increasing, three scribes should be sufficient for now...particularly with the revisions you proposed for the census records and grain ledgers.”
+
+Lucien leaned forward, hands steepling. "And have we learned anything more about...Lord Rathenfell's...gift, Elias?"
+
+At the mention of it, Elias cleared his throat before speaking carefully.
+
+“The man has been cooperative thus far, My Lord. It would seem Lord Rathenfell never intended for his presence here to be mistaken for coincidence.”
+
+When Lucien had sent out his offers to Helvarn for skilled labor, he had assumed that only a few people would answer his call at the start. The masons being the first was something he had expected.
+
+At most, he had expected a single scribe but when two arrived, and one of them being a familiar face immediately raised the alarms in his mind.
+
+It was the scribe who was working at the shop where Lucien had visited when he first traveled to Helvarn.
+
+The same one who, according to Talia, was rumored to have a connection with someone working in the Lord of Helvarn's household.
+
+Lucien rested his hands on the edge of his desk. "So Lord Rathenfell is not even trying to hide it at this point."
+
+A soft cough escaped the steward before he spoke. “He knew you would recognize him, My Lord. And he would not have sent a message with the man if he intended otherwise.”
+
+Tapping the desk lightly, Lucien’s gaze lowered in thought. “A skilled scribe is not someone that can be wasted as a poorly concealed spy. So it is likely he simply wants someone here to keep an eye on us.”
+
+Elias gave a slow nod. “It would be prudent for him to do so. With Cragwatch’s fall, we are the only named settlement in this part of the frontier.”
+
+Lucien’s finger gradually stilled against the desk as he lifted his gaze once more.
+
+"His message. What do you think of it, Elias?"
+
+Straightening slightly at his words, the steward lowered his gaze for a brief moment. “It was a personally written letter, My Lord. That alone carries certain implications.”
+
+He picked up the folded parchment from the desk. “Such things are typically delegated to a lord’s scribe. If he personally penned the letter...it would mean the contents were intended for you alone.”
+
+Placing it back down, Elias folded his arms neatly behind his back. “But it is not something you can confirm without meeting him personally, My Lord. House Rathenfell is...neutral toward your house. And that can mean many things.”
+
+Lucien rested a hand against his chin. “I look forward to meeting you, Lord Varentis. The man sent to you is my gift, to our prolonged relation between Helvarn and Ashridge.” He shook his head faintly. “It is too short of a message to discern anything, Elias.”
+
+A soft breath escaped him before his eyes gradually sharpened once more. “And what of our own inquiries regarding Helvarn? I need to learn as much as I can before the meeting itself.”
+
+At his words, Elias cleared his throat. “The men we have been sending alongside Lady Talia’s goods have made discreet inquiries where they could.”
+
+The steward's gaze moved slowly toward the window. "Upon collating their findings, it would seem that the refugee presence around Helvarn has increased...significantly."
+
+Lucien's brow creased faintly. "By how much?"
+
+Elias shook his head lightly. "We do not have the exact number but suffice to say, reports have indicated at least five hundred people have recently moved within the town itself."
+
+He cleared his throat. "As for how many are staying in the shanty camp...that is not something we can find out without causing undue suspicion, My Lord."
+
+The talk he had with Talia those weeks ago surfaced, of how Helvarn had at most three thousand people if one included those staying in the shanty town.
+
+Leaning back on his chair, Lucien cupped his chin in thought. "So essentially, Helvarn is at the maximum number of people it could support."
+
+Resting one of his hands on the arm of his chair, he tapped his finger lightly. "During the meeting, Lord Vaelric would want...compensation for me taking in the people from Cragwatch. What form it takes is another matter."
+
+Lucien's eyes met the steward who had remained silent thus far. "Then it is likely that Lord Rathenfell would want something as well if I want his support during the meeting."
+
+"Most likely, he wants me to take in the people from the shanty town. As much as Ashridge can support."
+
+Slowly, Elias inclined his head. "That is the most likely assumption to make, My Lord."
+
+Letting out a soft breath, Lucien leaned forward in his chair. "Do we know where the people moving into the shanty town are coming from?"
+
+The steward lowered his head briefly in thought. "The reports did not specify but there have been...increased fights in taverns and the shanty camp itself, My Lord."
+
+The words caused Lucien's brows to furrow at the implication. "Which means at least some of them are likely from the heartlands as well."
+
+He kept his expression carefully neutral as he spoke the next words. "...Have there been any reports on the inner regions of Arcencia, Elias?"
+
+Elias glanced briefly outside the window before he spoke. "News from the heartlands travel slowly to the frontier of Arcencia, My Lord. But typically...an increased traffic from the inner regions of Arcencia would imply that the skirmishes have increased again."
+
+At the mention of the word "skirmish", Lucien's expression remained unchanged as he tried not to reveal his surprise. The way the steward before him had phrased it, gave the impression that this was not an uncommon occurrence.
+
+He drummed his fingers, deliberately acting as though he was considering the news. "Is it something we would need to be concerned about, Elias?"
+
+The steward shook his head. "Elves and beastmen alike have no interest in the frontier, My Lord. But if there truly is an increase in hostilities in our western and eastern borders then that would mean more people might begin flocking to Helvarn and the other fortress towns of Arcencia."
+
+'When he says they have no interest...what does it truly mean? Is it a matter of preferences for their species or...'
+
+He was tempted to ask the steward for more details but the memory of his impatience back in Helvarn surfaced.
+
+Setting the thoughts aside for now, Lucien gestured toward the pile of ledgers in front of him.
+
+"We will take that into account for now but this means the census and grain ledger reforms are more important than ever. Ensure the scribes maintain proper records moving forward."
+
+At the thought of Lord Rathenfell's potential request, Lucien cupped his chin before he spoke. "Draft a standard intake record for any new settlers coming to Ashridge and a labor roll template as well. But keep it simple, we will likely need it soon."
+
+Elias moved to pick up a blank parchment, a quill already in his hands. "What details should I have the scribes include, My Lord?"
+
+Instead of responding, Lucien reached for his own quill before he wrote down the list of things for it. When Elias received the parchment, his composure faltered briefly for the first time since the meeting began.
+
+Before Elias could speak, he shook his head. "You don't have to include all the details I have written, the circled portions are the most important."
+
+Lucien leaned forward, steepling his hands. "Their names and origins in particular. We cannot afford to have Ashridge break itself apart from the influx of people."
+
+Elias quickly regained his composure before bowing his head. “As you command, My Lord. I will have the scribes begin preparing the records immediately.”
+
+As the steward closed the door smoothly behind him, Lucien exhaled softly through his nose before reaching for his cup of coffee.
+
+It seemed he would need to bring a small batch with him to Helvarn tomorrow.
+
+Lucien closed the door to his room, having just spoken with Talia about what he had learned from Elias. It confirmed their suspicions, but ultimately, there was little they could do about it this far out on the frontier.
+
+Dinner in the manor had been a loud affair after Sera returned covered in leaves and dirt.
+
+Apparently, when the children had asked for her, their first request had been for her to lie flat on the ground whenever Cora appeared as the villain.
+
+Sera had been designated as the first to fall from Cora’s “surprise” attack and, of course, she took the role seriously.
+
+It quickly resulted in the children asking her to play the role over and over again because she was perfect for it.
+
+Lucien shook his head as he recalled Alicia’s exasperated look while she fussed over the leaves tangled in Sera’s hair and the dirt smeared across her clothes when she entered the dining hall.
+
+A soft knock sounded on his door. Lucien turned toward it before calling out.
+
+“Enter.”
+
+The door swung slowly open as Alicia stepped inside, closing it quietly behind her. “My Lord? You asked to speak with me?”
+
+He inclined his head before gesturing toward the small side table near the window. “Yes. Please sit, Alicia. There is something I need you to do for me.”
+
+Alicia tilted her head slightly but moved to take a seat while Lucien walked toward the drawer beside his bed. Reaching inside, he withdrew a rolled parchment he had kept tucked away.
+
+Taking the seat across from her, he set it down between them before speaking.
+
+“I want you to draw something from the words I have written here. You do not need to finish it immediately, but it can give you something to work on while I am away from the village.”
+
+The maid’s expression brightened immediately. “Is it another tool, My Lord? I have been more free recently with the new scribes helping with the work.” She brought her hands together in front of her. “Leave it to me. I will ensure it is finished by the time you return.”
+
+At her diligent response, Lucien let out a soft breath. “Don't push yourself too hard, Alicia. This particular drawing is not as simple as the usual ones...and it is not a tool.”
+
+Alicia tilted her head again, though he merely gestured toward the rolled parchment between them. Reaching over, she slowly unfurled it, her gaze lowering to the words written across it.
+
+Gradually, her expression shifted into confusion before she finally spoke.
+
+“...My Lord. This looks like a crossbow but it is...not?”
+
+'Looks...? Did she already...?'
+
+Lucien leaned forward, resting his hands against the table. “The shape is similar, but the concept behind it is entirely different. And so is the size.”
+
+Looking back down toward the parchment in her hands, Alicia’s brows creased faintly. “So...something like a larger crossbow then, My Lord?”
+
+Lucien shook his head, his gaze shifting briefly toward the distant palisade walls beyond the window.
+
+“No. Let’s call it...Scorpion.”

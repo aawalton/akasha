@@ -1,0 +1,183 @@
+---
+id: 08182fde-655c-5307-a0e1-0a42c61ed572
+page-type-slug: story-chapter-royal-road
+title: "Chapter 594 - Near The Bottom"
+slug: 0594-chapter-594-near-the-bottom
+partOf: mythrans-master-of-all-continued-completed
+position: 594
+ownLength: 2487
+unit: words
+publishedAt: 2018-05-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217739/chapter-594-near-the-bottom"
+royalRoadId: "217739"
+---
+
+Ren stopped at the house in the Housing District and dropped off the 4 succubi and Suniva, and told them to set up a place for themselves inside. He then stopped in at the business to drop off Tee-one, and he felt Anabelle's reaction to that. He told her to have someone watch the main counter, and took her upstairs to the apartment to explain. It didn't take long for her to start crying as well.
+
+“I... I knew I... felt slightly different.” Anabelle said. “I didn't realize...” She shook her head. “Why did it affect them so much, and not me?”
+
+“If I had to take a guess, it's because of your contract.” Ren said. “Since it kind of overrides your normal emotional state, and has been since we wrote it, the changes to you haven't affected you as much.”
+
+“Ren, give them the same contract!” Anabelle said. “Maybe...”
+
+“No, it's too late.” Ren said and sighed. “If I give it to them now, how they are currently feeling will be a part of it and it won't change anything.” He said. “If I manage to change it back and they are under contract, then it won't affect them because it would still be a part of them and would defeat the purpose.”
+
+“It's the same as your Sea Dweller Aura.” Teepo said. “Once someone is affected by it, it doesn't matter if it's on or not.”
+
+“Unfortunately.” Ren said. “I have to try and change things at the source before doing anything else.”
+
+“I... I hope you can fix it.” Anabelle said, and he felt how sorry she was.
+
+“Hey, I told you. I'm not leaving Tee-one here permanently.”
+
+“No, I know... it's just... you promised me we would have those moments together.”
+
+“I did, and we will.” Ren said. “I'm staying at the house in the Housing District, remember? I'm going to be here a lot more for the foreseeable future.”
+
+Anabelle was happy about that, then she felt what he was feeling and put her arms around him. “I'm sorry for being a bother.”
+
+“Honestly, you're not.” Ren said and kissed her. “It's just... I'm sorry that staying nearby is all I can do right now to ease your concerns.”
+
+“Are you going to look for the missing crewmen before you go on Adventurer's business?”
+
+“No, there's no time limit for it, so I have to go and start the ball rolling with whatever happened with the maids.” Ren said. “You can go back to work if you want, and I'll be down to see you when I come back.”
+
+“Okay.” Anabelle gave him a kiss and left the apartment, and Ren laid down on her bed.
+
+“Teepo...”
+
+“You got it.” Teepo said. “I'll keep watch and let you know if anything happens while you're gone.”
+
+“Thanks, buddy.” Ren said. “Logout.”
+
+********
+
+Ren woke up on the bed in the real world and tried to slip off the VR headset.
+
+“Relax, Ren.” Barbara whispered. “I've got it.”
+
+Ren turned his head and looked at the redheaded woman sound asleep beside him. She looked so pretty like that, not a care in the world, and he was tempted to caress her face. He didn't because he knew it would probably wake her.
+
+Ren moved over in the bed instead and he motioned for the laptop. Barbara brought over the rollaway table and the laptop, and Ren looked for the email he had received from the tech support guys. He clicked on it and started typing a scathing complaint about what they had done to his play experience, and then he stopped. He closed the message without sending it and looked for the personal one he had received from the company owner, Mr. Torren.
+
+Ren opened it and clicked reply, because in that message, Mr. Torren had said that if he needed anything, to let him know. Since Ren needed help, he figured going right to the top was going to be the best way to handle things. He explained in a calm manner and pleasing words what he had experienced in the game from the normal people, and said he had accepted that as par and part of the scenario. What he couldn't accept was what had happened to the maids and anyone else he was closely associated with that he hadn't talked to yet.
+
+Ren explained the torturous feelings he had gotten from Frikara and the others, and how whatever they had done had hurt them because it went against how they normally felt. He asked, very politely, to undo what was done to the NPCs that he was associated with, and to make them exceptions to the Water Works World Event if necessary. His playing experience was horrible right now, and he did not want it to continue.
+
+Ren also explained that he never made a formal complaint, even after everything that had been done to him, and that he regretted that he had to in this instance. Most things he could let go, but this time it hurt the ones he cared about, and that he couldn't take without saying something.
+
+Ren gave it an 'urgent' tag and asked for an immediate reply, then sent it. He looked at the clock on the wall and held in his sigh. He knew he had at least a game day before it would be read, assuming Mr. Torren read it himself, and he didn't know if it would receive a reply quickly or not. He checked the other emails and messages he had and nothing jumped out at him, so he closed the message program and sat back on the bed.
+
+Barbara moved the rollaway table back to where she had taken it from and went back to Ren. “I didn't hear what was said, but I saw what happened.” She whispered. “I'm sorry, Ren.”
+
+“So am I.” Ren whispered back. “I just messaged the owner and complained about it.”
+
+“Why didn't you message tech support?” Barbara asked.
+
+“They're idiots and have done enough against me.” Ren whispered. “If I ask about it and they ignore me like when I asked about the interactions between the kids I saw in there, or worse, they tell me there's nothing that can be done and I have to live with it...” He shook his head. “No, I'm calling in the big guns first instead of waiting and calling them in later.”
+
+“I'll cross my fingers and hope that it works.” Barbara whispered. “Are you going back in?”
+
+Ren nodded and she helped him put the VR headset back on.
+
+“See you in a few hours.” Barbara said.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed in the living room and sat up. He thought about just staying there and not doing anything; but, he had people waiting for him, so he left the apartment and went downstairs to see Anabelle. He told her he got the ball rolling, but wouldn't find out anything until tomorrow. She hugged him and told him she would see him tonight, and he and Artemis left the business and met Princess outside.
+
+“We're going back to the house for a minute.” Ren said.
+
+They went over to the Housing District quickly and saw that two of the succubi were floating around the roof and keeping a lookout. Ren waved to them and they came down to land in front of him, and the other two came out of the house, with Suniva the 1 foot tall pixie right behind them.
+
+“I've got a quest to fulfill out on the ocean.” Ren said. “You can stay here or you can come with me.”
+
+“You're giving us a choice?” Seldanna asked.
+
+“Of course I am.”
+
+“Then we choose to come with you.” Seldanna said, and he felt agreement from the other three succubi. “We will always choose that, so you no longer have to ask.”
+
+Ren looked at her and the other three, and they all nodded. “Okay.”
+
+“I'm scared to go near the water.” Suniva admitted. “I'm Fire-based, so if I fall in or get splashed, I don't know what will happen.”
+
+Ren activated his Craft Wondrous Item ability and made 5 more Non-Necklace of Wisdom, then used Double Infusion to give each of them the Necklace of Fresh Air enchantment. He gave one of the necklaces to Suniva, and she equipped it. It shrunk to fit her, and when the fresh air enchantment activated, her Fire burned twice as hot as normal.
+
+“R-Ren! You... thank you!” Suniva said and ran up to his face and kissed his top lip. “With this, I never have to worry about being smothered again!”
+
+“You're welcome.” Ren said, and he felt her sincere gratitude. He gave the other 4 necklaces to the succubi. They were also grateful, but they didn't try to kiss him for it. “Please don't tell me that what happened to the maids is affecting you, too.”
+
+Seldanna shook her head. “We don't want to be seen as needy or want to take advantage of your kindness.”
+
+Ren tried to feel their emotions and could tell they were blocking him from most of them. “Can I have a kiss, then?” He asked, and he felt their surprise. “I couldn't kiss the maids before I left, and my lips are missing their touch.”
+
+The succubi gasped as Ren let some of his loneliness out, and the four of them stepped close and knelt in front of him. Seldanna held a hand out to him, and he took it. She caught her breath as she got a direct feeling from him, and she closed her eyes.
+
+“My King, I would be honored to be a stand in for one of your loves.” Seldanna said and opened her eyes. They glowed red, and he could feel her anger building. “If it was within my power to do so, I would tear those that cause you pain limb from limb.”
+
+Ren felt her honesty and leaned forward. “Thank you.” He said and kissed her. Her whole body glowed as he poured his feelings into her and her ability consumed them. A few moments later, she had to break the kiss and lean back because she was full.
+
+“My... My King!” Seldanna whispered, and Ren did the same thing to the other three succubi. He charged them up, almost to overflowing, and they knelt there and basked in the feelings he had given them.
+
+Ren took out the All-Seeing Mirror and asked it where the Dauntless was, and a map of the ocean appeared on the mirror's surface. A red dot popped up and Ren showed the mirror to Princess. Suniva sat down on his shoulder and crossed her legs as she put her arm around Ren's neck and gripped his hair to hold on. A tiny copy of his platinum armor formed around her and she smiled.
+
+“Everyone ready?” Ren asked, and the succubi stood up instantly.
+
+“For you, we are always ready.” Seldanna said.
+
+Ren nodded to her and the succubi, then climbed onto Princess and sat down on the saddle. “Cruising speed, please.”
+
+“Yes, My King.” Princess said and trotted up into the air, then poured on the speed as Artemis and the succubi flew beside them. Princess approached what she thought was the succubi top flying speed and stayed there, and the succubi kept pace with her.
+
+Ren could feel two of the succubi strain a little at the high speed, and he concentrated on them and gave them a strong proud feeling. The strain on them lessened as they tapped into that feeling and kept consuming it, and the group travelled over open water and across the ocean to the spot that the Dauntless was currently stuck at.
+
+They saw that the ship was tilted at a 45 degree angle and the sails were unfurled; but, since the ship was out of the water and stayed there, the sails were not big enough to move such a massive weight. Ren's Aura passed over the ship and he felt the entire crew react. Like ants that had their hill disturbed, the crew came up on deck to see what the disturbance was. When they saw him riding a giant armored ram with 4 succubi flying around him, the fear was palatable.
+
+“Ahoy, there.” Ren said. “I heard you're missing a few crewmen.”
+
+“Yeah! Your kind took them and won't give them back!”
+
+“Elflings took your men?” Ren asked, and the crew looked at each other in confusion. He pointed to his ears. “I'm an elfling by race, and I know none of them live underwater.”
+
+“What do you want?” The captain of the Dauntless asked as he came over to the railing and hung on.
+
+“I came to investigate the disappearance of your men.” Ren said.
+
+“You should already know what happened to them.” The captain said.
+
+“I'm not psychic, captain. I didn't read your minds or see the incident.” Ren responded. “I did talk to the two crewmen that abandoned ship, though.”
+
+“Those two traitors?” The captain laughed. “They ran after such a little scare.”
+
+“You know, they wouldn't have had a reason to run, if you had diverted to a new course.”
+
+“I won't have you, or anyone else, tell me there's a better route to where I'm going.” The captain sneered. “I've sailed this sea for nearly 20 years, and I've always used this route.”
+
+“Yes, and I bet you any amount of money that you've always had something go wrong on your trip.” Ren said. “Each and every time.”
+
+The captain clamped his mouth shut and didn't respond, but Ren felt his emotions and knew his guess was right.
+
+“I just wanted to tell you to not overreact or to fire on my friends while I go looking for your crewmen.”
+
+“Ha!” The captain barked a laugh. “You're going to go looking for my men? Why?”
+
+“I'm an Adventurer.” Ren said and stepped off of Princess. “Suniva, you should...”
+
+“I'm fine.” Suniva said from his shoulder. “You made sure of that.”
+
+Ren didn't ask again and looked at the succubi. “We'll be back.”
+
+“Not 'right' back?” Seldanna chuckled. “We'll be here.”
+
+“Make sure they don't do anything foolish while we're gone.”
+
+“Define foolish.” Seldanna said and smiled evilly.
+
+“Okay, just watch them and be careful then.” Ren said, and she chuckled.
+
+Ren and Artemis dropped through the air and splashed into the water. The whole crew of the ship watched in surprise as they quickly disappeared from sight into the depths. Suniva laughed and Teepo chittered in delight from their perches on his shoulders.
+
+Ren took out the All-Seeing Mirror to pinpoint where the 4 missing men had been taken. He knew their names, so their location appeared right away, and he and Artemis made their way over to the spot where they were being held.

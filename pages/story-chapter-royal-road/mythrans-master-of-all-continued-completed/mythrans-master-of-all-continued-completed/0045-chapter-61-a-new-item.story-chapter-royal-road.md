@@ -1,0 +1,223 @@
+---
+id: bcd4b4d9-c130-5f26-b63c-ec237fa65010
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61 - A New Item!"
+slug: 0045-chapter-61-a-new-item
+partOf: mythrans-master-of-all-continued-completed
+position: 45
+ownLength: 2878
+unit: words
+publishedAt: 2016-10-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99443/chapter-61-a-new-item"
+royalRoadId: "99443"
+---
+
+Donan sat in silence for a while after Ren told the meteor story. Teepo had been silent, too. Teepo knew some of the story, but not most of it and was just as captured in the tale as Donan had been. Ren wasn't sure what Donan was thinking about, but Ren didn't say anything in case Donan needed the silence to think.
+
+“If what you said is right... that it was on fire and broke apart... then just trying to smelt it won't work. It will just absorb the heat and crack again.” Donan said.
+
+Ren nodded, because he had come to the same conclusion and didn't know what to do about it.
+
+“Then there's only one solution. You'll need to make a molten pool of iron and slowly dip it in to melt it.”
+
+“Won't that dilute the ore?” Ren asked.
+
+Donan nodded. “We'll have to be very careful about the amount of iron we use. Too little, and there won't be enough molten metal to make a difference. Too much, and it will dissolve and just become an impurity in the iron.”
+
+“How are we going to find a balance?” If Ren understood the problem correctly, this task was going to be a difficult one.
+
+Donan waved Ren into the storage area. Ren followed and Donan pointed to a big stack of stone bricks. “Obviously, the forges we have now just won't do for such a big job.”
+
+Ren knew how many stone bricks it took to make a normal forge and took 3 times as many, just in case.
+
+“It will have to be at least double in size.” Donan said and led the way to the middle of the shop and moved the bench that was there with little effort. The bench's legs made a loud scraping sound as Donan shoved it across the floor and next to the wall of blacksmith tools.
+
+“Once it's built, we'll have to make a special smelting top for it, to be deep enough for the metal to stay hot enough, but not too shallow that it will spill when we add the meteoric ore.” Donan explained. “If my experience is correct, an equal amount of iron to meteoric ore should be enough to do the job.”
+
+Ren nodded and used the plans for his Modified Enchanted Forge and built it to be just over twice the normal size. Ren had almost taken enough bricks to make it, and only had to go back to get the top ones that needed to be ground down anyways. Once it was completed, Ren enchanted it with double the fire glyphs on the sides and double the wind glyphs on the ends, to ensure that it would produce heat as evenly as possible. If more needed to be enchanted, Ren could always use the top ones that were tilted downwards.
+
+Once the big forge was built, Donan and Ren got to work on making a much larger smelting apparatus to cover it. It too a while to figure out how to get one to fit, then to reinforce it enough so that it wouldn't collapse under the weight of so much molten metal. Hours later, they were finished and had the apparatus mounted safely on the new forge. They stepped back and admired their work.
+
+“Is that a monster, or what?” Donan said and grinned.
+
+Ren wiped sweat off his forehead. “It sure is! I don't think anyone has ever seen anything like it.”
+
+Donan nodded. “Well... we might as well fire it up.” Donan said and shook his head. “I'm so used to doing so much prep work with coals and oil that just saying 'Activate' seems like cheat-.”
+
+The forge lit up at the word 'Activate' and a blast of heat filled the shop.
+
+“Whew!” Ren said and stepped back. “I might have overdone it a little with the enchantments.”
+
+“Nonsense!” Donan said. The smelting apparatus glowed a bright red along the bottom and Donan nodded. “It's perfect.”
+
+“Great... now how do we figure out how much iron to use?” Ren asked.
+
+“That's the easy part.” Donan said and brought over one of the oil barrels they'd used to cool off the short swords. Donan tied a length of rope around the meteoric ore and the barrel cover, then lowered it into the barrel. Donan must have trimmed the cover to fit inside the mouth of the barrel. The oil rose up and coated the inside until it almost reached the top and Donan pulled out the ore and shook it.
+
+“This isn't exact, since some of the oil will stick to what you put in, but it's close enough to not matter.” Donan said and asked Ren to get a pile of his normal quality iron ore bricks. Donan piled what he thought would be enough and lowered it in. The oil didn't get up to the same level and Ren added more bricks. Once the oil was at the right level, Donan pulled it out and they cleaned off the bricks and the ore.
+
+“There we go. A good estimation of how much we need with almost no guessing.” Donan said and Ren nodded.
+
+They added the iron bricks slowly, letting each one melt in turn. Once all the bricks were in, Donan and Ren skimmed off the imperfections. They let it simmer for a few more minutes and then took the meteoric ore and slowly lowered it into the molten metal. If they slipped now, all of their planning and preparation would mean nothing. The ore slowly began to melt into the molten metal and they lowered it down more.
+
+“Easy, now. Be careful.” Donan said.
+
+Ren nodded and lowered the ore in a bit more. Ren's arm touched the side of the side of the custom made smelting pot and he hissed, but didn't jiggle the ore or drop it. Donan heard Ren but didn't comment. After 5 minutes, all of the meteoric ore was in the smelter and was a nice, flowing liquid and a bright green color.
+
+“I've never used this ore before, but I think we should only mix it a little bit with the molten iron and then pour. It will give the ore stability, while leaving the majority of the iron in the smelter.” Donan suggested.
+
+Ren nodded and they stirred it only a few times, and didn't churn it like a true mixture would need.
+
+“Now... what do you want to cast first?” Donan asked.
+
+Ren didn't even have to think about it. “A large pickaxe.”
+
+Donan was going to ask why that and not a sword or something, but then shrugged. Donan got the large pickaxe mold and Ren said to remove the spacer for the wooden handle. Donan widened his eyes. “Ren... no one uses a solid metal pickaxe.” Donan said. “The wooden handle helps to absorb the shock of digging.”
+
+“I know.” Ren said and smiled.
+
+Donan shook his head and did as Ren requested. They poured the molten meteoric ore into the mold and once it flowed out the top they stopped pouring. They watched as the overflow dried and turned into a dull green.
+
+“Another minute, I think.” Donan said. “Just in case it's not set inside.”
+
+After another anxious minute, Donan popped the mold and out came a medium green pickaxe with iron swirls throughout. Ren picked it up with his slightly bent tongs and dipped it into the oil barrel. He held it there for a minute and took it out. Ren flicked off the oil and wiped it down. It was a thing of beauty. It looked like marble, except it was green and grey instead of white.
+
+“Identify.”
+
+Legendary Pickaxe Of Unearthing (Unique)
+
+An ore not of this world has been forged into a digging tool that can cut through the earth like a hot knife through butter.
+
+Innate Ability: Mana Absorption - will automatically absorb mana from any source to repair itself.
+
+Durability: N/A
+
+“Whoa... is this for real?” Ren said and marveled at the pickaxe.
+
+“Ren!” Donan shouted.
+
+“Huh?”
+
+“With so much ore out of the smelter, it's not at an even mix anymore. What else do you want to make before it dissolves?” Donan asked.
+
+“Oh, right... um... lets do this one again, but I want to modify it a bit.” Ren said and stored the pickaxe into inventory.
+
+“Modify it? How?”
+
+Ren grinned. “I'll need one of the mace molds. The square one. Then we can pour and I'll show you.”
+
+Donan got the square mace mold and Ren put the spacer inside for a wooden handle. They poured the pickaxe mold quickly and then poured the mace mold. Ren let the pickaxe mold set for only a minute and then opened it.
+
+“Ren! The head's not completely set yet!” Donan said.
+
+“I know.” Ren used his tongs to dip the handle of the axe into the oil. “Open the mace mold.”
+
+Donan opened the mace mold and used his tongs to take it out. It was still mostly a bright orange color and Donan removed the spacer for the handle. Ren gripped the handle of the pickaxe with a gloved hand. The head of the pickaxe was still quite malleable, so Ren jammed the slightly pointed end into the handle hole of the square mace head. It filled the hole easily and Ren tapped the mace head a few times to make sure the metal settled together properly. When it started to cool, Ren stuck it back into the forge and got it hot again. Ren took it out after a few minutes and saw that the seam between the two pieces was nice and closed. Ren waited for a minute or two before dunking it into the oil barrel.
+
+“Do you think I should temper it again?” Ren asked Donan.
+
+“The seam looks clean, so I don't think it should be necessary.” Donan said and smiled. “What made you think of doing something like this?” Donan waved at the half-pickaxe, half-hammer.
+
+“After we made the first pickaxe, it just hit me that the end would probably fit like a handle... and the only thing you had that was big enough was the mace, so...” Ren said.
+
+Donan shook his head. “You kids and your crazy ideas.”
+
+“I was tempted to make plates of it and just attach them to something, but we didn't have time to do anything else.” Ren explained.
+
+Donan nodded and looked into the smelter. “Well, it's a good thing you finished what you did... the last of that ore is pretty much gone.”
+
+Ren looked into the smelter himself and saw that Donan was right. There was only a small puddle left in the center and then it slowly melted away into the molten iron.
+
+“So long, little meteor... but don't worry. Your story has only just begun.” Ren said and Donan chuckled.
+
+“Talking to inanimate objects now?” Donan said.
+
+“Hey... it's okay to talk to things like that... but if they talk back to you, that's when you might be in trouble.” Ren said and grinned.
+
+Donan guffawed and slapped Ren on the back. “That's true!”
+
+Now that Ren had a moment to examine it, he looked at what had been created and admired the simplicity of it's design. I wonder why no one had thought of this before?
+
+Notice!
+
+You have discovered an *UNKNOWN ITEM*, and have earned the priviledge of naming it.
+
+Ren's eyes widened at the keyboard popup and message. “I get to name it? Wow... that is so cool.” Ren said... and then he was stumped. “What the heck am I going to name it?” Ren pondered it for a while. “I got it!” Ren said and typed in the name. A moment later, another popup appeared.
+
+Great Earthshaking Hammerpick Of Reaping (Heavy, Unique)
+
+An ore not of this world has been forged into an unknown item type. It's use cannot be defined as it has never been used before.
+
+Innate Ability: Mana Absorption - will automatically absorb mana from any source to repair itself.
+
+Durability: N/A
+
+“Oh... my... GOD!” Ren exclaimed.
+
+Donan shook his head. “You mean 'gods'.”
+
+Ren looked at Donan and blinked a few times. “Sorry.”
+
+“That's alright. Just as long as you don't specifically name one and pray.” Donan's eyes narrowed.
+
+“No, I wasn't praying. I was just excited and it slipped out.” Ren said. “I'll be more careful in the future.”
+
+Donan nodded.
+
+Ren stored the hammerpick and looked at the forge. “You know... now that I've got all this iron melted, I'm going to make a few things.”
+
+Ren opened his Leg Holding Trap recipe and tripled it's size, so he wouldn't have to worry about larger creatures escaping the smaller trap. Ren got the big blank mold and make several blanks for the individual pieces, and a rod mold to make the hinges and rivets. Donan watched Ren working and admired Ren's skill at manipulating the molten metal. Ren made the trap and Donan stared at it.
+
+“What are you planning to catch with that?!?” Donan exclaimed.
+
+“Probably anything bigger than a fox.” Ren said. “I'm tired of meeting creatures that can pretty much walk over any other trap.” Ren remembered that the dire wolf had walked through the woods around Aimus' homestead and didn't set off any of the traps there. Ren made another one and put them into inventory. Ren then forged a couple of long swords, a couple of short swords, a couple of medium sized shields, 2 battle axes, and 4 gauntlets. Ren looked back into the forge when he was done and saw there wasn't much molten iron left.
+
+“Donan... do you have any molds for making rings?” Ren asked.
+
+“Rings? Sure. Just a minute.” Donan left his anvil and went into the back room. Donan came back out with several small stone boxes. “Here's what I have. There hasn't been much call for them, so I don't keep them out front.”
+
+Ren opened them up and looked inside. They were all just regular rounded rings. None with a raised front. “Donan... can one of these be altered? I dont want to try chipping away at it and break it if it can't.”
+
+“I don't see why not. Don't use your own chisel. Use the small chisels over on the bench under the tools.” Donan said and turned back to his anvil.
+
+Ren took one of the ring molds and went to the indicated bench. There were several small chisels there and Ren took up one and set the mold down. Ren carefully marked where he needed to cut to get a raised flat surface. Since each half of the mold covered half of the ring, half of each raised edge needed to be cut from each side. Ren got to work. After some cursing and finger sucking when Ren missed the end of the chisel and hit his thumb instead, Ren finished and took the modified mold over to the furnace. Ren took a small crucible to dip into the smelter and had a crazy thought.
+
+Oh, this is a really crazy idea. Ren grinned and took out a handful of gold coins and dropped 5 of them into the smelter.
+
+“REN!” Donan shouted.
+
+“Ahh!” Ren said and turned around. “What?”
+
+“Did you just put money into the smelter?!?” Donan nearly shouted.
+
+“Y-yes.” Ren answered.
+
+“Why are you throwing money away?”
+
+“I'm not!” Ren said and turned back to the smelter to stir the mixture. “I'm making gold rings.”
+
+“Gold coins can't be melted into rings. It's too soft and...” Donan looked into the smelter and Ren had mixed the iron and gold together. “Huh. Look at that.”
+
+“It was your idea.” Ren said to Donan. “I saw there wasn't much left after I made a few things, and then remembered you saying iron would stabilize the mix... and just using iron for a ring didn't seem right if I'm going to enchant them.”
+
+Ren poured the molten gold into the molds, including his modified one and let them set for a few minutes. Ren opened them and they were a dull gold color. Ren poured the molds again and while he waitd for them to cool, polished one of the rings. It became a bright gold color and gleamed in the light.
+
+“Nice.” Ren said and showed it to Donan.
+
+Donan shook his head. “It's one thing to waste money buying rings... but to use money to make them? That's a new one.”
+
+“I was going to use silver at first, but silver doesn't look as pretty as gold.” Ren said and grinned.
+
+Ren finished up another pouring and the smelter was empty. Ren ended up with 3 raised platform rings, and 9 regular gold rings. Ren filed down the mold lines on the rings and them polished them to a shine.
+
+“Now... what should I enchant them with...” Ren said and Donan interrupted him.
+
+“It's getting dark, Ren.”
+
+Ren nodded. “I better head out, then.” Ren said and stored the rings. “See you in a couple days, Donan.”
+
+Donan nodded and Ren walked out of the shop and around the corner to Lucy's phantom form and sat down.
+
+“Logout.”
+
+********

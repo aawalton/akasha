@@ -1,0 +1,243 @@
+---
+id: bc3b58db-f14f-5db8-a2ee-77b00154f87d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82 Veil"
+slug: 0087-chapter-82-veil
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 87
+ownLength: 2054
+unit: words
+publishedAt: 2026-06-21
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3571411/chapter-82-veil"
+royalRoadId: "3571411"
+---
+
+When Lucien returned to the edge of the clearing, Sera was still there.
+
+She stood near the tree line with her hunting bow in hand, her pale eyes fixed somewhere deeper within the forest where the ridge fell away into thicker growth. At his approach, her gaze shifted briefly to him, giving him a slight nod before returning to the forest.
+
+Noticing that his conversation with Garrick had ended, the two household guards handed their temporary sentry duties back to the guards stationed at the outpost. They untied the horses and led them to where he and Sera were.
+
+The grey-haired guard straightened when they neared, while the younger one gave a quick nod before checking the reins again.
+
+Lucien’s gaze shifted toward the deeper stretch of forest beyond the ridge. “Sera, could you lead us to the strange spot you spoke of next?”
+
+Sera turned to face him, though she stilled and looked toward somewhere behind him, her head tilting faintly.
+
+He turned and followed her gaze, finding the grey-haired guard looking as though he wanted to say something.
+
+"Is something the matter?" Lucien asked.
+
+“My Lord, are you certain you wish to go to a place like that?”
+
+Lucien studied him for a brief moment before answering.
+
+“Yes.”
+
+He looked toward the trees again. “If there is a strange place this close to Ashridge, I would rather see it myself than leave it as a local tale.”
+
+The older guard gave a slow nod, though the look on his face didn't ease. “It's not unusual for the frontier to have places like that.”
+
+“The land borders the Deep Woods, My Lord. Even the Goddess’s touch doesn't reach this place. Some parts of the woods are better left alone.”
+
+Lucien kept his gaze forward, trying not to react overtly even as he heard someone finally mention this world’s divinity in ordinary conversation.
+
+Beside him, Sera’s eyes flicked to him for a breath before returning to the front.
+
+“Does the capital keep records of such places?” he asked carefully enough that the question sounded casual.
+
+The grey-haired guard shook his head. “I wouldn't know something like that, My Lord. Things like this are usually left to those studying magic in the capital.”
+
+Once again, a piece of information came without warning.
+
+From the man’s words, Lucien could infer that there was at least some centralized place in the capital of Arcencia that held answers to questions he had been searching for.
+
+Sera glanced at him again, her head tilted.
+
+Lucien kept his expression unchanged as he turned toward the guard.
+
+“Even so, I must see it for myself. Besides,” he said, gesturing toward the hunter beside him, “Sera claims the place isn't dangerous, and we will not stay there for long.”
+
+The grey-haired guard’s expression shifted into something closer to resignation, though he straightened a brief moment later.
+
+“Then we will do our best to keep you safe, My Lord.”
+
+The younger guard straightened and saluted before taking hold of the horses’ reins.
+
+Lucien inclined his head, his gaze moving between the three of them briefly before settling on Sera.
+
+“If you would lead us there, Sera.”
+
+She gave a small nod before stepping forward to take the lead.
+
+It was as they pushed through thick brush, the undergrowth beneath their feet growing denser, that Lucien first saw how proficient Sera was as a hunter.
+
+He had only ever seen her in the village, so the image he held in his mind had always been that of a quiet girl who preferred solitude. The one time he had seen her as a hunter was during the Cragwatch rescue, and even then his attention had been elsewhere.
+
+Out here, where civilization fell away beneath a canopy so thick it turned the midday sun into thin strands of light, Sera was in her element.
+
+She moved through the forest as though she were walking on stable ground, stepping over roots and shifting around low growth with barely a pause. From time to time, her head tilted, her attention turning toward something deeper within the trees before returning to the path ahead.
+
+Lucien walked carefully behind her, his gaze moving between the ground she chose and the forest ahead. The two guards kept their positions, the grey-haired guard remaining closer to him while the younger one followed behind with the horses, guiding them through narrow game trails.
+
+The deeper they went, the closer the trees grew together. Their trunks thickened and their branches spread wider, the canopy above allowing less and less light through.
+
+It was when the forest had dimmed to a near constant shade that something changed.
+
+The guards faltered for a step.
+
+They kept moving, but their expressions had tightened.
+
+Lucien slowed slightly to match their pace. Sera noticed at once, her pale eyes flicking toward the guards before settling on him.
+
+He glanced at the grey-haired guard. “Are you two alright?”
+
+The man gave a slow nod, though a bead of sweat ran down his cheek. “Yes, My Lord.”
+
+Lucien studied him for a moment before inclining his head. “Let me know if something is wrong,” he ordered, his eyes moving between the two men.
+
+They dipped their heads in acknowledgment, and the group continued.
+
+For a time, only the sound of their passage remained.
+
+Then the forest grew...still.
+
+The movement of wind through the branches lessened until it became difficult to tell whether it was still there at all. Sounds of distant wildlife, faint as they had been, no longer reached them.
+
+Sera came to a stop not long after.
+
+Ahead of her, the trees drew back around what seemed to be a clearing, though Lucien could barely make it out through the dim light.
+
+The hunter turned to face him, her head tilted in question.
+
+Before Lucien could speak, he heard a rough breath from behind him. He turned toward the sound to see the younger guard covering his mouth with one hand, the other gripping the horses’ reins tightly.
+
+The younger guard coughed softly. “I-I am fine, My Lord.”
+
+Lucien looked at him for a long moment before turning to the grey-haired man, who looked paler than usual.
+
+He turned back to Sera. “How much further are we?”
+
+She pointed toward the opening just ahead of them, then gave a firm nod.
+
+“And do you hear anything near us? Anything at all?” he asked, just to be sure.
+
+Sera stilled at the question.
+
+Her head tilted slightly, attention turning outward as though listening past the trees themselves. A brief pause followed before she shook her head.
+
+Lucien noted how her expression remained unchanged, with no visible signs of discomfort. He himself felt nothing unusual either.
+
+'Dorian will likely have...words with me about this.'
+
+He turned back toward the guards. The grey-haired guard already wore a look of resignation.
+
+“Wait here for us. Both of you.”
+
+The older guard made to speak, only to stop midway at Lucien’s gesture.
+
+“I know it is a risk, but I cannot have both of you collapse while we are in there,” he said, a dry note in his voice. “You wouldn't want me dragging the two of you back to the road.”
+
+The guards averted their eyes at that.
+
+“I will inform Dorian that this was done under my orders,” Lucien added before turning to walk toward where Sera was waiting.
+
+“We will come in to search for you if you take too long, My Lord,” the grey-haired guard said, his tone just a touch firmer.
+
+Lucien turned and gave a nod in response before continuing forward.
+
+Seeing him approach, Sera moved ahead without a word. It was not long before she reached the slight opening between the trees.
+
+She stopped there and waited. Only when he stepped beside her did they move forward together, Sera falling into place at his right.
+
+Lucien didn't know what to expect beyond the trees, and so he prepared himself as best he could for whatever lay ahead.
+
+Even then, the sight that greeted him gave him pause.
+
+Beyond the opening, the clearing was...normal.
+
+It was smaller than he expected, barely thirty steps across in any direction. There were no trees within it, and the grass that covered the ground remained at a uniform height, as though something unseen had halted its growth and refused to let it go any further.
+
+That alone would have been enough to mark it as unusual, yet there was more.
+
+Scattered across the clearing were patches of red.
+
+Lucien could not tell at a glance whether they were flowers or herbs. They were not dense enough to dominate the field, yet there were enough of them that the green of the grass was broken by streaks of red throughout, as though the land itself had been marked.
+
+He approached one of the red patches, stopping just short of it as he examined it closely.
+
+'This was likely what Harlon had asked those who hunted on the side to gather from the forest.'
+
+At this distance, he could see that they were something between herbs and flowers, strangely enough. Thin, almost glowing strands of red veins coursed through the green of each plant.
+
+Lucien cupped his chin in thought as he considered whether to risk it and attempt to gather some of them. Before he could decide, Sera, who had remained by his side, stepped forward without hesitation.
+
+“Sera, wai-”
+
+She crouched and pulled a cluster free with little effort. The motion was almost casual, though she paused midway, her head turning toward him at his voice.
+
+Lucien exhaled through his nose, one hand rubbing his temple briefly.
+
+“I suppose if people have been gathering them for some time, they shouldn't be dangerous to touch.”
+
+Sera inclined her head as she held the red herbs out to him.
+
+He shook his head faintly.
+
+“Could you hold on to those for me? I didn't bring anything to carry them.”
+
+She withdrew her hand and placed them into the satchel at her side, alongside her parchments and charcoal.
+
+Lucien stepped closer and crouched beside her, though he made no move to touch the plants.
+
+“They are glowing...strangely. I wonder if it is something about the plant itself.”
+
+Something he couldn't quite place flickered in Sera's expression.
+
+At his questioning glance, she shook her head. Then, without a word, she gathered another cluster and pulled it free before holding it out for him to see.
+
+Almost immediately, the faint red glow began to recede. Within moments, it had faded entirely, leaving behind what looked like ordinary red herbs in her hand.
+
+Lucien’s eyes narrowed. “Then perhaps...it is because the area itself is infused with mana.”
+
+After a brief moment, she gave a small shrug.
+
+He had expected as much. Sera was hardly someone with knowledge of such things.
+
+Lucien rose from his crouch, exhaling softly at the strangeness of it all. He paused when Sera reached for her satchel.
+
+A few deliberate strokes later, she turned the parchment toward him.
+
+Not uncomfortable?
+
+He took a moment to assess himself. Aside from the exertion of moving through the forest, there was nothing unusual about his physical condition.
+
+Lucien met her gaze. “I don't feel anything. What about you?”
+
+Sera hesitated before writing again, slower this time.
+
+A little.
+
+Lucien’s brow creased. “You should have warned me. We should leave. Now.”
+
+Before he could move, Sera shook her head and pushed the parchment slightly closer, as though to emphasize her previous answer.
+
+“You mean it's not that bad?” he asked, his attention fixed on her.
+
+She gave a firm nod in response.
+
+Lucien's hand lifted briefly to rub at his temple before he spoke. “Even so, we have been here long enough. The guards may come in after us if we linger.”
+
+He turned and began walking back the way they had come.
+
+Sera fell into step at his right.
+
+As they moved through the trees, Lucien turned over what he had observed.
+
+The guards had reacted almost immediately. Sera had shown only a faint effect, and he himself felt nothing at all.
+
+If it was because he was a transmigrator, then perhaps that explained his own resistance.
+
+But why was Sera less affected by it?
+
+That question lingered with him long after they left the clearing behind.

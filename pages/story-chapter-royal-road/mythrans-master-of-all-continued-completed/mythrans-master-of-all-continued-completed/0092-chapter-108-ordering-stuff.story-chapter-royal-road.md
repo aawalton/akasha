@@ -1,0 +1,711 @@
+---
+id: 71d99b95-2ac0-5270-a40b-02489926d366
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108 - Ordering Stuff"
+slug: 0092-chapter-108-ordering-stuff
+partOf: mythrans-master-of-all-continued-completed
+position: 92
+ownLength: 6331
+unit: words
+publishedAt: 2016-12-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106620/chapter-108-ordering-stuff"
+royalRoadId: "106620"
+---
+
+Ren watched that show and 2 commercials, before yawning.
+
+“Okay, mister. Sleepy-time.” Barbara said.
+
+Ren smiled. “I think I better log in, that way I can get another 8 hours, instead of the 2 I'd get staying here.”
+
+“You could skip the next game day...” Barbara said, then frowned. “...no, you'd still only have 5 hours here if you did that.”
+
+“The time difference is a little weird, I know.” Ren chuckled. “I do get more sleep in the game than here, though. It's really funny how that works.”
+
+Barbara smiled. “As long as you get your rest, that's all that matters.”
+
+“I'll do my best.” Ren said.
+
+“You always do.” Barbara smiled.
+
+“Pull over the rollaway table for me.” Ren said. “I need to use the laptop for a minute.” Barbara positioned the table over the bed and Ren checked his email. “Bah. Nothing but spam.” He opened a new message window and typed one for Lucy. It took about 10 minutes, and considering he only had one hand, that was fast. He sent it and moved the table aside. Barbara helped him put on the VR headset and Ren got as comfortable as he could.
+
+“See you in the morning.” Ren said.
+
+“Nathalia may be cute as a button...” Barbara said and tickled him a little. “...but you need to sleep!”
+
+“Okay, okay!” Ren said and laughed. “I promise.”
+
+“Flow Login Start.”
+
+The television changed to the VR input immediately, and the laptop started recording.
+
+“Sleep well, Little Prince.” Barbara said.
+
+********
+
+Ren woke up and found that he wasn't alone in the bed. How did she know? Ren thought.
+
+“How did who know what?” Teepo asked from the ceiling, then chittered in laughter. “That sounded weird.”
+
+Ren smiled. Somehow, Barbara knew Nathalia would be in the bed with me.
+
+“So she takes care of you, and she's smart.” Teepo said.
+
+Is she ever! Ren thought with amusement. How long has Nathalia been here?
+
+“Almost right after you left.”
+
+Nathalia was on her side, with her head on the pillow next to him, her arms crossed in front of her chest, and her knees were bent slightly towards him.
+
+She got as close as she could without actually touching me. Ren thought. He shifted his weight a little bit, and Nathalia's eyes opened.
+
+“You're back.”
+
+Ren nodded. “I still need to sleep, though.” He said and lifted an arm over her head. Nathalia's eyes widened and Ren motioned for her to scoot closer. She didn't need a second invitation and slid over to cuddle on his chest. He draped his arm around her and his hand ended up near her hip. They both took a deep breath and exhaled together.
+
+“Goodnight, Nathalia.” Ren said.
+
+She tilted her head up to look at him, and Ren gave her a quick kiss on the lips. Nathalia's eyes widened slightly, and then she smiled.
+
+“Goodnight, Ren.” Nathalia said, and ducked her head back onto his chest.
+
+*
+
+Elerlyth had passed by this inn several times during her previous visits, but this was the first time she'd noticed a picture of Ren by the front door. She went inside and saw the innkeeper was having a hard time keeping up with the orders of ale. When he came back to the desk to deal with her, he saw her dark skin and shook slightly.
+
+Elerlyth smiled. Mmm. There's the fear.
+
+“What can I do for you?”
+
+“I saw the picture of the Hero of Aurora, saying that he was here.”
+
+The innkeeper's eyes widened. “Yes. Yes! He's stayed here twice! Said it was the best inn he'd ever stayed in.”
+
+More likely the only inn he'd ever stayed in. Elerlyth thought. “I'd like a room, then.”
+
+The innkeeper reached for a key.
+
+“His room.”
+
+The innkeeper nodded and changed the key he reached for. Elerlyth followed him all the way up the stairs and to the last door. “The best room in the house.” He said and opened the door. “That'll be 5 silver, but you can pay in the morning.”
+
+Elerlyth stepped by the innkeeper and grazed his neck with one of her nails.
+
+“Ow!” The innkeeper said and grabbed his neck. Fear flooded the room and Elerlyth drank it in. “I'm sure a... better arrangement... can be made in my case.” She said and smiled.
+
+The innkeeper nodded several times and put the key on the desk. He left the room and shut the door behind him. Elerlyth walked around and smelled a few things. The bed, the desk, and even the floor; but she couldn't get a trace of him.
+
+It's been too long, I guess. She thought and walked over to the picture hanging on the wall. What's a unicorn picture doing in here? She lifted it off the wall, but there wasn't anything behind it. She shrugged and put it back, then hopped onto the bed. I'm sure I'll find the little elfling tomorrow. She thought, and drifted off to sleep.
+
+*
+
+Ren woke up to the smell of cooking bacon. He took in a deep breath through his nose and sighed. Nathalia chuckled and Ren smiled down at her.
+
+“I'm sorry. I didn't mean to wake you.” Ren said and she looked up at him. “I smelled something really good, and took a deep breath. I couldn't help myself.”
+
+“I hope you mean me, and not some strips of frying fat.” Nathalia said, indignantly... then let a grin spread across her face. Ren laughed and his chest shook her a little. He let her out of the half-hug he'd held her in all night, and slid part way off the bed, then leaned back over it to put his face right next to hers.
+
+“Nope, frying fat.” He said, gave her a quick kiss on her nose to distract her, then leaned away so her swat at his head would miss. Ren stood up and Teepo chittered in laughter as Nathalia tried to climb over the bed to get Ren, then slipped. She almost slid off the side of the bed, but caught herself on the edge. Unfortunately, her dress didn't stop sliding, made it partway up her legs, and kept going. Ren's eyes widened as Nathalia tried to catch the dress with one hand, and still hold herself steady with the other. She rolled upside down and nearly fell to the floor, but Ren caught her as she slid off the bed. He had one arm behind her back and one under her knees. Nathalia's arm was draped across his shoulders, and Ren cupped her to his chest as he lifted her.
+
+“That was a close one.” Ren said and smiled at her. “Are you all right?”
+
+Nathalia nodded and smiled. “I guess... I guess I don't have to be jealous of my mother anymore.”
+
+Ren looked at her in surprise. “You were jealous of her?”
+
+Nathalia nodded. “When she fell that time, and you thought she was fainting and picked her up.” She said. “I... I wanted it to be me.” She said and blushed a little.
+
+“Nathalia.” Ren said and she looked at him in the eyes. “You don't have to be jealous.” He bent down slightly and put her legs down, stood Nathalia on her feet, and stood up himself. “I won't be doing this with your mother.” He leaned down and kissed her. Nathalia ran her hands up Ren's chest while they kissed, and hugged him around the neck. Ren ran his hands down her back and hugged her waist. They broke apart a minute later, both slightly out of breath.
+
+“That was...” Nathalia said. “...wow.”
+
+“Okay, I have to admit... that was a little better than bacon.” Ren said and grinned.
+
+Nathalia snorted a laugh and swatted his arm. He didn't dodge this time, though. He caught her hand after she hit him and bent over it.
+
+“My Lady, will you join me for breakfast?”
+
+Nathalia reached her other hand up and lightly stroked his face. “Yes, I will.”
+
+Ren turned and stuck out his elbow for Nathalia to take, and they went out to the kitchen to have breakfast. Teepo dropped into Ren's hood as they passed.
+
+*
+
+“What do you mean, he's not here?!?” Elerlyth nearly shouted.
+
+“It's just like I said. He's not here.” Donan said and smiled. “Been gone for weeks, actually.”
+
+“Where is he now?” She asked.
+
+“No idea.”
+
+Elerlyth scowled. She knew that was almost a lie. “You know where he went, though. Don't you?”
+
+Donan's smile slipped and he nodded.
+
+“Then where?”
+
+“He went to the dwarf lands.” Donan said, and smiled at Elerlyth's surprised face.
+
+“H-h-how?”
+
+“He got on a boat. It left.”
+
+“I meant...” Elerlyth huffed. “...how was he allowed to go to the dwarf lands?”
+
+“He was invited, of course.” Donan said. “There's no other way.”
+
+That sneaky little bugger! Elerlyth thought in admiration. Gaining access to the most lucrative area of the game! She paced back and forth. There's rumors all over the net about entire fields of emeralds, overflowing rivers of gold, and even creatures that are unheard of anywhere else in the game. She stopped pacing and faced Donan.
+
+“Who invited him?”
+
+“A dwarf, obviously.”
+
+Elerlyth scowled. “A name.”
+
+Donan shook his head. “You don't need to know that.”
+
+She took a step towards him and he shook his head again.
+
+“You know the rules.” Donan said. “Break them and you'll be Barred.”
+
+Elerlyth sighed. “When will he be back?”
+
+“No idea.” He said and smiled.
+
+Dammit, that's the truth. Elerlyth thought. “Thanks for your help.”
+
+“Anytime.” Donan said. “Any 'friend' of Ren's... only gets so many free passes.”
+
+Elerlyth nodded her understanding, and left the shop. She walked down the street and around the corner, and went to Mitchell's old shop. It was all boarded up and the popup said that it was only temporarily closed, even though it had been closed since the last time she was there. Elerlyth checked around, but there was no sign that the fake Mitchell had been back there at all. She sighed and started her search of every nook and cranny that she could find in the city.
+
+I really wish Ren had been here. Elerlyth thought, with a little sorrow. I'm feeding more than normal, but it still feels like I'm starving!
+
+*
+
+Ren had an enjoyable breakfast with Nathalia and her mother, Narhilda. One of the highlights was when they told him about using the Sending Stone and the Sending Ring together.
+
+“Hold on, they work together?!?” Ren asked.
+
+Nathalia nodded. “I don't know if you need someone to touch both at the same time, or if they just have to be touching each other.”
+
+“We can play with them later.” Ren waved her concerns away. “What matters is that they can work like that!” Ren said happily. The two women glanced at each other and grinned. They all finished eating and Ren spoke.
+
+“I need to go and get some more stone bricks.” Ren said. “I've got some plans that I need a lot of bricks for.”
+
+Nathalia nodded. “Do you need any of the smaller diamond crystals?”
+
+Ren smiled. “Yeah, actually. That's a good idea.” He said. “Just a couple should do.” Nathalia gave him a couple small ones and he put them in inventory. “I was going to stop in the market as well. There's something there that might lead me to a Gemcutter.” Ren explained and turned to Nathalia. “Do you want to come along?”
+
+She shook her head. “I've got a few things I need to take care of.”
+
+“Okay.” Ren said, made 3 egg, bacon and toast sandwiches, and stored them. He stood up and walked around the table. Ren took out 2 platinum coins and placed them in Nathalia's hand. “Here.” He said to her shocked face. “Just in case you need to buy anything.” Ren gave her a kiss on the cheek, waved to her mother, and left the house.
+
+*
+
+“Did he just...?” Nathalia asked, and stared at the two platinum coins.
+
+Narhilda grinned and nodded.
+
+“I can't believe it.” Nathalia said. “He just gave me...”
+
+“Spending money!” Her mother laughed with joy. “Enough to put a down payment on your own house, and he gave it to you... for spending money! Ha ha ha!” Narhilda said, and her chest started to get sore from laughing so hard.
+
+*
+
+Ren went to the stable, gave a sandwich to Princess, and she gobbled it down. “I'd tell you to take it easy, but I'd be wasting my breath.” Ren smiled. “You're just going to do what you want anyways.” He gave her another sandwich. “I'm heading into the city, and might not be back for a while.”
+
+Princess ate the second sandwich a little slower, but it didn't make any difference. It was gone before Ren had finished speaking.
+
+“See you later.” He said then turned to the cabinet. “Bye, Ruck.”
+
+Ruck knocked and Ren left the stable. He went out the gate, making sure it was locked behind him, and started to run. He was in the main city about 5 minutes later and slowed to a walk.
+
+“Where was that vendor?” Ren asked Teepo.
+
+“Two streets over, towards the docks.”
+
+Ren went that way, and after he walked down the street once, Teepo spotted the vendor.
+
+“There he is.” Teepo said. “It's the third stall on the left.”
+
+Ah, I see him. Ren thought and walked over to that side of the street. He didn't walk right up to the vendor, though. That wasn't how the game was played. Ren walked at a leisurely pace and passed the stall, and the vendor called out to him.
+
+“You! You there!” The dwarf said. Ren turned to him. “You look like a man with a discerning eye.”
+
+Ren looked around at the other dwarfs passing by, and then pointed to himself.
+
+“Yes, you!” The dwarf nearly shouted, and Ren smiled.
+
+He's going to try and milk me for all of my money, isn't he?
+
+“Does a monocerus only have one horn?” Teepo said and chittered in laughter. “Of course he is!”
+
+Ren avoided the other dwarfs walking by and made his way to the stall. He looked at the... well, knick-knacks was what they were... and then looked at the vendor.
+
+“What have you got?” Ren asked, and the dwarf's eyes lit up.
+
+I finally got one! Yuncith thought. A genuine customer! He went through the whole speech he'd prepared for just such and occasion, and Ren stood there, absorbing it all. Yuncith described everything he had on the table, pointing to each thing as he mentioned it. Ren followed along, and noticed there were a couple of innovative things that he actually would be interested in buying. Yuncith saw Ren's interest and poured on the salesmanship charm.
+
+“So, which one would you like?” Yuncith asked.
+
+Ren looked them over, appraised everything at about 5 gold coins (total), and then looked at some of the things the vendor had hanging up. Right behind his head, was the large piece of silver with the emerald in the center. Teepo was right, the thing was cut well and glinted in the sunlight.
+
+“What about that?” Ren asked.
+
+Yuncith's mouth dropped open. You've got to be kidding me! He thought. I've been stuck with that thing for ages, and this guy shows up out of the blue and asks me about it?!? He closed his mouth and turned to the piece.
+
+“This, my friend, is a genuine silver brocade serving tray, used by the King himself!” Yuncith said. “Only the richest foods have ever touched it's surface.”
+
+“Really?” Ren said. “What's with the rock in the center? It'd be hard to put food on that, I think.”
+
+Yuncith's eyes widened at that. “How would you know? Are you a cook?”
+
+Ren smiled. “I can cook, but I don't have that title, yet.”
+
+The food tray tactic won't work then. Yuncith thought. Plan B. “Now, I was told that's what it was; but you're right. I don't think it was for food, either. It was probably used as a serving tray for the Queen's hairbrushes.”
+
+“Ooo, good one!” Teepo said and Ren smiled.
+
+“May I see it?” Ren asked.
+
+The vendor squinted his eyes in suspicion.
+
+“If you're worried I'll run off with it, I'll buy everything on your table first.” Ren said.
+
+Yuncith's mouth fell open again. “Are you serious?”
+
+“That depends...” Ren said as his Haggle skill kicked in. “...on how much you're going to fleece me.”
+
+“Ha... hahaha!” Yuncith guffawed. “I like you.” He said, then stopped laughing. “10 gold.”
+
+“10! That's highway robbery.” Ren said. “2.”
+
+“2! That's an insult to peddlers everywhere.” Yuncith said. “8.”
+
+“Geez, do you want my first born? 4.”
+
+Stat Change!
+
+Haggle Level 3 (Beginner 0%)
+
+“Bah! Keep your first born. 7.”
+
+Ren looked down at the wares, then back at the dwarf. “Alright, alright! I know when I've been beaten. You've convinced me.” Ren reached out a hand to shake. “6 gold.”
+
+Yuncith grinned. “Done!” He said and pulled out a box and used a hand to slide all of the things into it, clanking everything together. Ren didn't hear anything break, however. He handed over 6 gold, got the box in return, and stored it.
+
+“The tray, please.” Ren said.
+
+Yuncith handed it over with a smile, and Ren examined it.
+
+Basic Silver Serving Tray (Modified)
+
+This tray has been modified to hold a gem of considerable size.
+
+Ren ran his fingers over it, and his Vision of Impurity picked out several flaws where the silver wasn't quite mixed with the iron. It weaken the tray only slightly. He used Appraisal on it, and saw that the 'gem' was only a piece of colored glass, and the tray itself was only worth a few silver.
+
+Ren sighed and handed it back. “No thanks.” He said and turned away.
+
+“Wait!” The vendor said, and Ren turned back. “Don't you want it?”
+
+Ren shook his head and leaned in to whisper. “It's fake.”
+
+“W-what?” Yuncith said in surprise.
+
+“It's barely worth 3 silver, and that's just for the tray.” Ren said. “The gem is just colored glass.”
+
+“How do you know that?” The vendor asked.
+
+“It's cut really well, but it's not polished.” Ren smiled. “I assume because glass won't hold the same shine as a real gem.” He looked at the vendor. “Did you cut it?”
+
+Yuncith scowled. “What if I did?”
+
+Ren looked around and kept whispering. “I'm looking for a good Gemcutter.”
+
+“Why?”
+
+“I found something, and I want it cut properly.” Ren said. “Only a highly skilled Gemcutter can do it.”
+
+“You're... not with the military, are you?” Yuncith asked.
+
+“I was.” Ren said, honestly. “It was 99% 'this is boring' and 1% 'Holy Crap!'.”
+
+The vendor clapped Ren on the shoulder. “That it was.” He said. “That it was.” Yuncith looked around and asked Ren to step back. He came around himself and pulled a lever beside the stall, and it folded down on itself and then up into the wall.
+
+“That was neat!” Ren said. “You gotta show me how that worked.” He said to the vendor and Yuncith laughed.
+
+“Later.” He said and started walking. “Come with me.”
+
+Ren followed the vendor down the street and behind the stalls to a row of housing. They walked down the row about halfway, and the dwarf stopped at a door.
+
+Teepo. Ren thought.
+
+“On it!” Teepo said and hopped out of the hood and skittered into the house.
+
+Yuncith unlocked the door and stepped inside. Ren looked at all the houses up and down the street, and then back to the one the dwarf was going into.
+
+“How do you tell them apart? They're all identical.” Ren said, stalling for time.
+
+Yuncith laughed again. “You count them at first, then you just know.”
+
+“That makes sense.” Ren said.
+
+“All Clear!” Teepo said. “4 rooms. A workshop, kitchen, living room, and bedroom.”
+
+Thanks, Teepo.
+
+The vendor waved him in and Ren went inside. Yuncith shut the door and walked down the hallway to a door. He unlocked it with 3 different keys in 3 different locks, and then opened it. Ren followed the vendor inside, and discovered that the room was covered in shelves, filled with the same knick-knacks he'd just bought a box of.
+
+This is the workshop. Ren thought as Teepo crawled back into the hood.
+
+Yuncith went over to his workbench and sat down. Ren couldn't resist trying to look and walked over to see what he was doing. The vendor opened a tiny little vise and took out what he was working on. Ren caught a glimpse of red before the dwarf dropped it into a drawer.
+
+“What's this 'something' you've found?” Yuncith asked.
+
+Ren pulled out the smallest diamond crystal that he had, about 2 inches in diameter, and handed it over. The dwarf snatched it and slipped a goggle over one eye. It looked like a monocular lens (mo-nock-you-lar, or tiny telescope), and he examined the diamond crystal.
+
+“Nice.” Yuncith said. “Very nice.” He looked at Ren and the eye behind the goggle was 3 times the size of his normal one. “Good clarity, no impurities.” The vendor said. “Where did you say you got it?”
+
+Ren smiled. “I didn't.”
+
+“Ha!” Yuncith said. “I knew I liked you.” He turned to his workbench and melted something that looked like wax. He set the crystal in it, then blew on it to let it set. He picked up a tiny chisel and hammer, and looked at the crystal. After a few taps, the sides of the crystal fell away onto the workbench, making a point. He picked up something like a file, and used it on the tips of the cuts, grinding down the ends and making facets. The wax-like substance was heated again and the crystal was flipped over to the top. Yuncith filed the edges down to make facets there, and then he was done. He heated the thing again and the finished diamond popped right out.
+
+“There you go.” He said and handed the diamond to Ren, who examined it.
+
+Diamond - Round Cut (Poor Quality)
+
+This diamond was treated roughly and it's quality has suffered for it.
+
+Ren appraised the diamond and it was only worth 10 gold. He sighed, and reached for the other pieces that had been cut off.
+
+“Hey, what are you doing?” The dwarf said and hid the pieces under his hand.
+
+“I was taking my property back.” Ren said.
+
+“I don't think so.”
+
+“Are you going to steal from me, after ruining a gem like this?” Ren said.
+
+“I wasn't stealing it. It's garbage.” He said.
+
+Ren stared at him and switched his Camaraderie Aura to Command. “Return my property, sir.”
+
+“I cut it off, it's mine.” Yuncith said, defiantly.
+
+Ren sighed, and switched to his Dire Wolf Hooded Cloak's Fear ability instead. “You don't want to do this.”
+
+The dwarf started to shake from fear, but wouldn't lift his hand. Ren activated his Screaming Terror ring and the dwarf jumped off his stool and yelled. He scampered into a corner and cowered there. Ren picked up the pieces the dwarf had cut off, and swept the diamond dust into a piece of scrap cloth, added the pieces and tied it. Ren deactivated the ring and the dwarf stopped cowering.
+
+“You can't to that!” The dwarf yelled.
+
+“Where can I get tools like these?” Ren asked.
+
+“I'm not telling you anything, you thief!”
+
+Ren scowled at the dwarf. “Let's let the military decide which of us is the thief.”
+
+Yuncith's face showed shock. “W-w-what?”
+
+“I have no problem with telling the military all about this.” Ren said, and motioned to the setup the dwarf had.
+
+“You... you...”
+
+“I'd think twice about challenging me.” Ren said calmly and switched his Aura back to Command. “I've beaten House Faldihr's Champion.”
+
+“That... that was you?” The dwarf said in shock.
+
+Ren grinned, baring his teeth.
+
+“Well... ah... I guess we don't have to... tell anyone about this.” The dwarf said.
+
+“That would be best for you, yes.” Ren said, and switched to his Camaraderie Aura.
+
+“Since our... business is done... I'll... I'll show you out.” Yuncith said.
+
+“Just a minute.” Ren said. “Like I asked before, where can I get tools like these?”
+
+The dwarf scowled at him. “You wouldn't know how to use them.”
+
+“That doesn't matter.” Ren shrugged. “I like tools.” He said and stepped away from the desk as the dwarf approached it. Yuncith opened a drawer and it held a small case.
+
+“100 gold.” He said, and Ren saw he wasn't going to barter with a gold cost that high.
+
+Ren untied the scrap cloth and took out one of the pieces. “What about this instead?” He asked, and waved it back and forth. The dwarf's eyes followed it, and then nodded. Ren put the piece on the workbench, and the dwarf handed him the small case. Yuncith led him out of the room and then to the front door. Ren stepped outside and turned his head to look at the vendor.
+
+“It seems I've already forgotten which house you live in.” Ren said, stored the tool case, and stepped into the street. “They all look the same, you see.”
+
+The dwarf smiled slightly and then shut the door. Ren walked down the street to get back to the main road. He had to get back there to follow the directions he knew to Barnar's place. Ren didn't run, however.
+
+“That was intense.” Teepo said.
+
+Yeah. I think he really would have challenged me.
+
+“Nice work with the Auras. You're getting good at using them.”
+
+I still had to use the ring, though.
+
+“Better that than your fists.”
+
+Yeah.
+
+They arrived at Barnar's and as soon as Ren opened the door and stepped inside, he was greeted by several people. Ren waved to them, as they wouldn't hear him grunt like he should, and made his way around the various work stations to the main workbench. Barnar saw him approach and jumped up.
+
+“Ren!” He said and took Ren into a hug. “Come to give me more crazy ideas?”
+
+Ren chuckled. “Actually, I need some stone bricks. A lot of them, actually.”
+
+“Good! I always like more business.” Barnar said. “By the way, here's your cut.” He said and dug a sack of coins out of his workbench drawer and handed it to Ren.
+
+“My what?”
+
+“Your cut.” Barnar said and grinned. “I sold 4 fireplaces just today!”
+
+“But...”
+
+“I used your idea to make mortar figures for all of them.” He said. “I wasn't kidding when I told you that you'd saved me a ton of money and time.”
+
+Ren looked at him in surprise, and Barnar laughed.
+
+“My friend, once we carve one figure, we never have to carve that figure again. We had several clients put a rush order in, and they paid a huge bonus.” Barnar pointed to the sack. “That's your cut from each figure's use.”
+
+Ren opened the coin bag he held, and it was full of gold. “Barnar! There's like 30 gold in here!”
+
+“35, actually.”
+
+“You... you didn't have to...”
+
+“It was your idea!” Barnar exclaimed and clapped Ren on the shoulder. “I might have run with it, but it's all you, my friend.”
+
+Ren clapped him back on the shoulder. “Thank you.”
+
+Barnar waved the thanks away. “It used to take a week to make a fireplace, now we can do it in a day!”
+
+“I hope you don't run out of customers.” Ren smiled and dumped the 35 gold into his coin pouch.
+
+Barnar grinned. “Not possible. Even if I put one in every home in the city, they'd all want a second one.”
+
+Ren laughed and handed the empty coin sack back. “That's good.”
+
+“Now, you say you want some stone bricks?” Barnar asked.
+
+Ren nodded slightly. “Paving stones, too... if you have them.”
+
+Barnar shook his head. “I don't do industrial. You'll need to go to House Longore for those. They should sell you some.”
+
+“Where is it?” Ren asked.
+
+“Down the street about 3 blocks.” Barnar said.
+
+“What do you mean, 'should' sell me some?”
+
+“It's industrial. You'll need to order a lot for them to even look at you.”
+
+Ren grinned. “I got that covered.”
+
+“Okay.” Barnar said, looked at Ren like he was crazy, then smiled. “How many stone bricks do you need? They're 8 copper each.”
+
+“I think 200 should do it.”
+
+Barnar's eyes widened. “Are you covering a floor the hard way?”
+
+Ren chuckled. “No, but I do use them to build stuff.”
+
+“Gotcha.” He said. “16 silver.”
+
+Ren took out the money and handed it over.
+
+“Do you want to take them now, or have them delivered?”
+
+“Delivered, please.” Ren said. “I can't carry anything else at the moment.”
+
+“You... you were going to carry them?” Barnar asked.
+
+“I'm an Adventurer. I can carry a lot.” Ren said and smiled.
+
+Barnar nodded. “Where's the delivery to?”
+
+“House Neram.”
+
+Barnar wrote it down. “Is tomorrow okay? I've got fireplaces to finish today.”
+
+“Tomorrow's great, Barnar. Thanks.”
+
+“No problem.” Barnar said. “Anything else?”
+
+“Actually, yeah. You wouldn't happen to know a good Gemcutter, would you?”
+
+“No, sorry.” Barnar said. “Actually, I don't know if there's still one around or not.”
+
+“Is there one working for the King and Queen?”
+
+Barnar opened his mouth, then frowned. “I'll find out.”
+
+“Thanks, Barnar.” Ren said, started to walk away and turned back. “Say, do I need an appointment to see House Longore?”
+
+“Nope. You can knock if the guard isn't standing outside, too.”
+
+“Thanks.” Ren said. “See you later.”
+
+Barnar waved and Ren waved at the workers as he left. He walked down the street 3 blocks and there was a big sign for House Longore.
+
+Teepo.
+
+“This might take a while.” Teepo said as he saw the size of the place.
+
+For now, just check the rooms that can be seen when you go through the door. We can check the other rooms later.
+
+“Gotcha.” Teepo said and hopped out of the hood and skittered up the steps and under the door. There was a guard there, and he noticed Ren.
+
+“Can I help you?”
+
+“I need some paving stones, and I heard that House Longore was the best place to get them.” Ren said.
+
+“It is.” The guard said.
+
+“Then yes, you can help me.”
+
+The guard stepped over to the door and unlocked it. Ren waited for Teepo's 'All Clear' before stepping forward. The guard opened the door and Ren went up the steps to enter the main lobby. A desk was there and Ren walked over to it. A female dwarf was behind the desk, and she looked like she was just under 3 feet tall. She was actually short for a dwarf, which Ren didn't think was possible, and most of her height was from her torso.
+
+“Can I help you?” She asked in a squeaky voice.
+
+“I'm sure you can, Ma'am.” Ren said. “I need some paving stones and was told this was where I should go to get them.”
+
+She looked Ren up and down, and tilted her head to the side. “I'm sorry, but we don't do driveways or courtyards.” She said. “You've got some Influence, but not enough to justify a big order.”
+
+Ren scrutinized her as well. She was well dressed and wore an iron ring on the same finger as that healer in the brig did. It marked her as married; whether she actually was or not, is another story. Her hair was short and as red as red can be.
+
+“Can I ask why Influence is used as a gauge for the order size?”
+
+She smiled. “When you have enough Influence, your lands and titles reflect it. Then we know you actually need a lot of paving stones.”
+
+Ren crossed his arms. “How many stones does my Influence tell you I need?”
+
+“Only about 200.” She squeaked. “We don't do orders that small.”
+
+Ren raised a single eyebrow at her, and she giggled.
+
+“That's cute!” She said, then clapped a hand over her mouth.
+
+Ren smiled. “What if I told you that I needed a thousand paving stones?”
+
+“That's the minimum order we have, but I can tell your lying.”
+
+Ren grinned. “That's because what I actually need is about 3,000.”
+
+She started to talk, Ren assumed to tell him he was lying again, and then her mouth dropped open. “You... you really need...”
+
+“It's 2,800, but I'm allowing for breakage, worn corners, and divots.”
+
+“Just... just a moment.” She said and walked down a small set of stairs to the floor and crossed the floor to knock on an office door to the right of the desk. Ren looked away, so he wouldn't see inside.
+
+Teepo, did you check the office on the right?
+
+“Yes.” Teepo said. “There's a female dwarf inside. I'm checking the others down the hall, just in case.”
+
+Thanks, Teepo.
+
+“Excuse me, sir.” The tiny dwarf said.
+
+Ren turned to look at her and smiled.
+
+“Right this way.”
+
+Ren had to walk really slow to follow her to the office. Once inside, Ren saw a beautiful blonde dwarf sitting behind a large ornate desk. The tiny dwarf bowed slightly to the woman, then had a hard time when she dragged the door shut behind her as she left.
+
+“Please be seated.”
+
+“Thank you, Ma'am.” Ren said and sat.
+
+The blonde dwarf smiled. “Ms. Longore is fine.”
+
+Ren's eyes widened. “You're...”
+
+“Yes, I'm that Longore.”
+
+Ren stood, and then bowed slightly. “My apologies for not greeting you properly.”
+
+She chuckled. “It's quite all right.” She said. “I've had to relax the strict protocol when I took this office.”
+
+“Then... why did you take the office?” Ren asked as he sat again.
+
+“Most men don't even think about it.” She said. “Why do you ask?”
+
+“A woman of your stature should always be shown the proper respect.” Ren said. “You're... pardon my frankness... intentionally losing Honor.”
+
+Her eyes widened. “What makes you say that?”
+
+“I've spent some time with a Lady of a House that has lost nearly all of her Honor, because over the years, men have simply been ignoring her. If you're sitting here, and letting it wear yours away, then you must have a reason.”
+
+She smiled. “You're nothing like the normal clients we get.”
+
+“And you're trying to change the subject.” Ren said, and she grinned. “But that's understandable, and I respect your decision to not let a perfect stranger know one of your secrets.” He smiled. “Ms. Longore, I'd like to order 3,000 paving stones, please.”
+
+She took out a form from her desk. “This is the standard structured payment form.”
+
+Ren shook his head. “Sorry. I've been through something like this before. I'll pay right now, immediately, in coins.”
+
+Ms. Longore had a shocked look on her face. “You're definitely not like any of our other clients.” She put the form away and took out another. She filled it out and handed it to Ren, who took his time in reading it. When he was done, he looked at her and saw she had a huge smile on her face. Ren signed it and passed it back.
+
+“50 gold, please.”
+
+Ren handed the money over. “When can they be delivered?”
+
+“We have nearly twice that many in stock. When would you like it?”
+
+“Tomorrow would be great, Ms. Longore.”
+
+“Please, call me Syudora.”
+
+Ren shook his head. “I'd never call you by your first name in public, Ms. Longore... even with your relaxed protocol.” Ren said. “Plus, I'm already engaged.”
+
+“Another one escapes my fiendish trap!” Syudora laughed and stood as she reached out a hand. “It was nice meeting you, Mister...?”
+
+Ren stood and took her hand, and smiled as he bent over it. “Please make the delivery to House Neram, Ms. Longore.”
+
+“I can't even get your name?” She said, with laughter in her voice. “For the delivery?”
+
+Ren stood up. “I'll be there to receive it.”
+
+“You're good.” She said. “You know how to play 'the game'.”
+
+“I've had a lot of practice.” Ren said, walked over to the door, and opened it. “Goodbye, Ms. Longore.” Ren stepped out of the office and walked over to the desk. Teepo stood on it's edge, and Ren reached out to rest a hand on the shiny wood.
+
+“Thank you for your help.” Ren said, as Teepo crawled up his arm.
+
+“You're welcome, sir.” The tiny dwarf squeaked. “Come back anytime.”
+
+Ren left the building and the guard held the door for him. Ren walked down the stairs and then down the street.
+
+I wonder where the mines are?
+
+“Why?”
+
+They've got tons of what I need.
+
+“Iron ore?”
+
+Some of that, sure... and something much, much better.
+
+“Gold?” Teepo asked. “Because we have lots of gold ore, and access to more in the Keep.”
+
+You'll see what I mean. Ren thought as he walked. I need to ask Barnar where he gets his limestone and sand, though.
+
+“You mean...”
+
+I'm going to need a lot of mortar for the above ground part of the Keep.
+
+“You could just hire Barnar and his crew.”
+
+Ren stopped walking and grinned. Teepo, that's a brilliant idea! Ren thought and ran the rest of the way back to Barnar's shop. With his whole crew working, they could have the above ground walls repaired in no time! Ren entered the shop and was greeted again. He waved more energetically and made his way over to Barnar and the workbench.
+
+“Hi, Barnar.”
+
+“Hi, Ren. Long time, no see.” Barnar said and snickered.
+
+Ren grinned. “What are you doing tomorrow?”
+
+“Delivering your stone bricks.”
+
+“Yes, and if you're interested... I have a job for you and your crew.”

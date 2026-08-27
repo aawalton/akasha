@@ -1,0 +1,205 @@
+---
+id: 8373e89a-e06f-5c6e-8fdf-649ac4646bde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 Breach"
+slug: 0041-chapter-39-breach
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 41
+ownLength: 2278
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3306040/chapter-39-breach"
+royalRoadId: "3306040"
+---
+
+The riders left the shelter of the fields not long after the road began to rise beneath their horses.
+
+The gentle ground that had carried them west from Ashridge gave way to harder earth as the track wound gradually upward toward the dark line of stone ridges ahead.
+
+Sparse stands of wind-bent pines clung to the lower ridges, their dark branches whispering softly as the night wind moved through them. Beyond those scattered trees the land grew barer, the forest line falling away as exposed stone began to dominate the rising ground.
+
+The climb was not steep enough to trouble the horses, yet the road narrowed as it twisted along the slope, forcing the riders into a longer line as they followed the winding track toward the higher ground.
+
+Lucien remained near the middle of the column, allowing the steady movement of the horse beneath him to carry him upward while his gaze moved slowly across the land around them.
+
+From this height, the valley behind them had already begun to sink into darkness. The distant lights of Ashridge were no longer visible beyond the low hills, leaving only the pale stretch of frost across the fields and the road that now climbed toward the ridge where Cragwatch stood.
+
+The first sign of the settlement appeared not long after.
+
+A darker shape rose above the slope ahead where the ridge leveled into a narrow crown of stone. Against the dim outline of the night sky the wooden palisade of Cragwatch slowly came into view, its uneven silhouette stretching across the crest where the mining village had been built to overlook the valley below.
+
+No watch lantern burned along the wall.
+
+The column continued climbing in silence as the shape of the settlement gradually revealed itself in the darkness. Low rooftops pressed close together behind the palisade while dark mouths of the mining cuts could be seen along the ridge face beneath the village where the stone had been carved away by years of labor.
+
+Even at this distance the place felt wrong.
+
+A gate that should have been closed stood open upon the road ahead, its wooden frame hanging crookedly between the palisade posts as the riders approached the final stretch of the climb.
+
+Dorian’s horse slowed first as the captain lifted one hand without turning in the saddle, and the signal passed quietly down the line as the riders brought their mounts to a halt along the narrow ridge road.
+
+The broken gate of Cragwatch loomed only a short distance above them now.
+
+From the ridge road the damage was unmistakable. One of the heavy beams that should have barred the entrance lay splintered as though something had forced its way through, the fractured wood still wedged against the posts where the impact had driven it aside.
+
+Dorian studied the opening for several moments before his gaze shifted toward the dark street beyond.
+
+“We dismount here.”
+
+Leather creaked softly as boots met the frozen ground while the horses were drawn off the narrow track and gathered along the edge of the slope where the stone widened slightly. Several of the guards kept hold of the reins while others loosened their weapons, quiet preparations carried out by men who understood the danger of unnecessary noise.
+
+Lucien stepped down from his horse as well, the frozen earth firm beneath his boots as he turned his gaze once more toward the dark ridge above. Then he loosened the length of rope tied behind the saddle and coiled it across his shoulder before stepping away from the horse.
+
+Nearby, Sera had already dismounted. The girl stood a short distance from the horses with the same stillness she carried everywhere, her head tilted as though listening to something beyond the reach of the others.
+
+Having made a decision, she moved a few steps farther from the animals, choosing a place where the wind carried cleanly up the slope toward the silent gate above.
+
+Dorian stepped closer to the gathered riders while several of the guards secured the horses along the sheltering rock.
+
+Lucien studied the broken gate for several moments before turning toward Dorian. “We cannot ride straight through them,” he said evenly.
+
+The captain inclined his head in agreement. “No.”
+
+“If the survivors remain inside the houses," Lucien continued. "They will not move until the streets are clear.”
+
+“They will be waiting for someone to come,” Bran said quietly from his place at the gathering though his eyes were on the houses that they could see from here.
+
+Lucien glanced toward him.
+
+Bran's expression had not changed, though his hands had tightened. “Most will have barred their doors,” the farmer continued. His gaze remained fixed upon the village beyond the breach. “They will open for someone they know.”
+
+Sera stepped forward from the edge of the group, the scrap of parchment in her hand again. She wrote more quickly than usual before turning the page toward Lucien.
+
+Many.
+
+Her gaze shifted briefly toward one of the larger buildings deeper within the village. From this distance in the darkness, he could barely make out its shape.
+
+Lucien returned his gaze to the settlement, studying the houses for a moment longer. “Then we will go to them.”
+
+None of the riders seemed surprised by the words.
+
+Dorian did not answer at first, his gaze remained fixed upon the broken streets of the village while his jaw tightened beneath the shadow of his helm. After a breath, he inclined his head. “Then we will clear a path for you, My Lord.”
+
+“We enter along the southern road,” Dorian continued. “The beasts follow the northern path. If we keep close to the wall, they will pass us. But we do not leave the way we came.” He gestured toward the far side of the village. “We bring them out through the western gate.”
+
+“And the horses?” Lucien asked calmly.
+
+“We lead them by hand, the survivors too injured to move can ride,” Dorian replied. “We enter through the breach and stay close to the wall until we reach the houses.”
+
+His gaze moved briefly around the group before settling upon Lucien.
+
+“Once we are inside, keep your voices low. The beasts are moving north, not hunting here. If we do not draw their attention they will pass us by.”
+
+Lucien inclined his head faintly, his expression carefully neutral while his eyes drifted briefly toward the churned ground near the breach.
+
+Most of the tracks flowed north along the road beyond the village, but there were narrower kobold prints gathered more tightly, as though several had lingered before rejoining the greater movement.
+
+Dorian turned toward the riders gathered along the ridge road. “Forward,” he said quietly.
+
+The men moved at once.
+
+Reins were gathered and the horses were led carefully up the last stretch of the road while the riders advanced beside them on foot. The broken gate of Cragwatch loomed closer with each step, its splintered beam hanging crookedly.
+
+He walked a short distance behind Dorian as the captain reached the shattered entrance first.
+
+The frost along the road had been broken completely where countless small feet had churned the ground into rough patches of exposed earth.
+
+Most of the tracks continued straight through the village toward the northern road beyond, yet the marks closest to the houses told a different story.
+
+They had not all passed through.
+
+Dorian stepped through the broken gate, the riders filing in behind him.
+
+The street beyond the gate stretched ahead in an uneasy quiet while deeper within the village, faint movement carried through the dark.
+
+The houses of Cragwatch stood close together along the narrow road, their darkened windows shuttered tightly against the night while the wind slipped quietly through the spaces between them.
+
+No lanterns burned, nor did any voices answered the arrival of the riders.
+
+Dorian paused only long enough to study the empty street before raising one hand slightly. “Two ahead,” he said quietly.
+
+A pair of guards moved forward at once, leading their horses carefully along the churned road while the others remained near the gate.
+
+The frost beneath their boots crackled faintly with each step.
+
+Lucien’s attention shifted toward the houses lining the road.
+
+A short distance behind him, Sera walked with the riders, though her pale eyes did not linger on the doors or broken windows. It moved instead along the dark line of rooftops above the street.
+
+One door hung crooked upon its hinges where the wood had been forced inward. Another had been shattered entirely, the broken planks lying scattered across the threshold while the dark interior beyond remained silent.
+
+Farther along the road, a small cart lay overturned where it had been struck aside, its scattered contents half-buried beneath the broken frost.
+
+Beyond the overturned cart, the tracks continued north where the greater mass had passed but those that broke away from the road veered toward the narrow spaces between buildings where the shadows gathered more thickly.
+
+Others circled near the doors.
+
+Lucien’s gaze lingered briefly on one such set of prints before lifting again toward the silent houses ahead.
+
+Ahead of him, Dorian spoke again. “Hold here.”
+
+The riders halted as the two men ahead reached the first bend in the road.
+
+For a moment nothing moved, before somewhere within the dark line of houses, wood shifted softly against wood.
+
+A door opened somewhere along the dark row of houses, though only by a fraction. Narrow sliver of lantern light appeared within the crack before disappearing again as whoever stood inside pulled back into the darkness.
+
+Bran stepped forward beside the captain. “They’re still here,” he said quietly.
+
+Dorian raised one hand, slowing the riders as the narrow street curved deeper into the village. “From now, we move house to house,” he murmured.
+
+His eyes swept across the darkened doors lining the road. “Keep watch on the streets, the beasts move fast.”
+
+The group nodded silently.
+
+Somewhere further ahead a goblin shrieked sharply as something crashed against a wooden door before both sounds were swallowed again by restless chattering that drifted through the dark streets of Cragwatch.
+
+They moved deeper into the village.
+
+The narrow street curved away from the broken palisade before branching between rows of tightly built houses whose upper floors leaned over the road. Lantern light flickered faintly behind several shuttered windows while the restless movement of beasts passed through the wider streets beyond.
+
+“Over here,” Bran called, keeping his voice low. The man had already stepped forward from the line of riders, his gaze moving along the familiar row of buildings before settling upon a narrow door set between two timber posts.
+
+“This one.”
+
+He approached slowly and knocked once against the wood. For a heartbeat, nothing happened then a faint sound shifted within the house.
+
+The door opened only slightly at first, a pair of frightened eyes peered through the narrow gap before widening as the lantern light caught Bran’s face.
+
+“Bran?” a voice whispered.
+
+The door opened wider.
+
+A thin woman stepped out first, clutching a small child tightly against her chest while two more followed behind her. Their faces were pale beneath the weak lantern light, their clothes stained with soot and mud as though they had not dared to move for hours.
+
+Bran gestured gently in an attempt to reassure her. “We are bringing you out.”
+
+The woman did not answer immediately as her eyes drifted past the riders toward the broken palisade where the restless flow of beasts continued to slip through the southern breach.
+
+Only when another kobold darted past the mouth of the street did she pull the children closer and step quickly into the road.
+
+More doors began to open as the riders moved farther along the street. Several of the doors bore deep claw marks where something had battered against them before moving on.
+
+Bran slowed near a narrow house set slightly back from the road. For a time, he simply stood there, studying the familiar doorway as if measuring the silence beyond it. Then he stepped forward and knocked once against the wood, the sound carrying more sharply than expected through the narrow street.
+
+Nothing answered at first, as he made to knock again, the door shifted open and a man stepped into the faint lantern light, his expression drawn with exhaustion. Behind him shapes stirred within the dim interior of the house, a woman pulling a shawl close around her shoulders while two children peered uncertainly from the darkness.
+
+For a moment neither of them spoke, then the man exhaled slowly as recognition settled across his face. “Bran.”
+
+The farmer inclined his head in response. “You are alive.”
+
+Behind them, Tomas had already moved to the next house. He knocked softly against the door before stepping aside with his spear held low across his body.
+
+A moment later, it opened carefully and an elderly couple emerged, their steps slow and uncertain as Tomas guided them toward the growing cluster of survivors behind the riders.
+
+The street gradually filled with the muted movement of survivors as more doors opened along the narrow row of houses.
+
+A short distance away, Sera remained near the edge of the street, her gaze moving slowly along the slanted rooftops above the houses while the bow rested loosely across her hands.
+
+For a breath, her eyes shifted toward Lucien before returning to the roofs again.
+
+The distant chattering of goblins and kobolds continued to drift through the village as the migration pushed steadily north.
+
+Lucien’s gaze lingered briefly upon the churned frost near one of the doorways.
+
+Somewhere above the narrow street a tile shifted softly in the dark.

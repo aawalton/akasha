@@ -1,0 +1,311 @@
+---
+id: f1a810e9-b885-5573-8c88-3068dea14f6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 324 - On The Shore"
+slug: 0316-chapter-324-on-the-shore
+partOf: mythrans-master-of-all-continued-completed
+position: 316
+ownLength: 3227
+unit: words
+publishedAt: 2017-08-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153697/chapter-324-on-the-shore"
+royalRoadId: "153697"
+---
+
+After he had jumped overboard, Ren ran across the surface of the water as if it was solid ground and laughed at himself.
+
+“It's just a novelty item! Ha ha!” Ren said and Teepo chittered in laughter. They arrived at the single dock outside the north side of the city; but, instead of stopping and climbing up, he just ran the rest of the way to the shoreline and onto the land itself.
+
+“Well I'll be.” Ren said as he came to a stop where he thought a warehouse would be best positioned to send and receive goods from the dock. There was already a huge warehouse there, half-buried in a small hill, with a dozen empty carts waiting to be used. A stable was set back a ways from the warehouse, and a quarter of a mile away there was a large well-built house.
+
+“You've been busy, Jen.” Ren said, then went over to the stable to see a dozen horses stored inside. He glanced into the manager's office and didn't see anyone. “Hello?”
+
+“Hello!” A woman's voice said, and then a very tall woman backed out of the last stall and shut the gate behind her. She was about 6 and a half feet tall and had long silver-black hair tied into a ponytail. She wore a loose-fitting shirt and a very tight pair of black pants, then she turned around and froze as she looked at Ren. “You're Ren.”
+
+Ren's Etiquette skill kicked in and he bowed his head slightly. “I believe you have the advantage of me, dear lady.”
+
+The woman smiled knowingly. “Jen wasn't kidding when she described you.”
+
+Ren beamed a smile at her. “Was it my short stature, or my overly pleasant nature that surprised you?”
+
+“Both, good sir.” She chuckled and walked over to him. “I felt your Aura when you approached.”
+
+“It's changed a little since I was in Aurora last.” Ren said and held out a hand, then concentrated on his Sending Ring and thought of Frikara. “Besides expanding by a ridiculous amount, it's influence touches those receptive to it.”
+
+“You've been walking around for a minute or two, haven't you?” She asked and took his hand.
+
+“No, madam.” Ren said. “I just walked in the door.”
+
+“Then... I felt it when... oh, my.”
+
+Ren nodded. “It's at 300 feet right now.” He smiled again. “I can make it bigger, though.”
+
+“Well, Mr. I Can Make It Bigger.” She said and smiled demurely. “My name is Catalina Abernathy.”
+
+Ren bent over her hand and gave the back of her fingers a light kiss. “It's a pleasure to meet you, Ms. Abernathy.”
+
+“Please, call me Catalina.”
+
+“I would never presume to call you by your given name, Ms. Abernathy.” Ren said.
+
+“Then what should I call you?”
+
+“Unavailable.” Ren said, and she laughed.
+
+“Carmilla said you would be a delight when I met you.”
+
+“Carmilla?”
+
+“The Minister of Finance's wife.”
+
+Ren thought back to when he had paid the taxes for the Refugee Center with 50 million copper coins, then meeting the Minister and his wife. “Ah, yes. I remember her. She was quite charming.” He said and remembered giving her a donation for a party. “How did the birthday party for her husband go?”
+
+“It was a big hit!” Catalina said. “I can't remember the last time I had so much fun.”
+
+“I regret that I didn't get to attend.” Ren said sadly, because he had planned to dance with Sally.
+
+“I'm sure that when I tell Carmilla that you're here, she'll want to throw another bash.”
+
+Ren chuckled. “I suppose she's been dying for another excuse?”
+
+“Like you wouldn't believe!” Catalina said, amusement on her face. “I swear she's going to die if she doesn't have another party soon.”
+
+“Then please tell her I'll only be in town for the next week before I head off to Walin County to begin work there.”
+
+“Hm.” Catalina said. “I don't know if she can have anything done that soon.”
+
+Ren smiled and pat the hand he still held. “I'm just telling you where I'll be next week. That's not a deadline for her to be done by.” He explained. “Just send a messenger out to my Main House and it'll reach me.”
+
+Catalina nodded. “That's good.” She said. “I'm sure Carmilla will be relieved she won't be under too much pressure organizing it.”
+
+“My ship will be here in the next 20 minutes or so.” Ren said and let her hand go, then looked around. “Do you have workers to hook up the horses to the carts?”
+
+“Of course I do.” She said. “They should be here right after breakfast.”
+
+Ren nodded. “Would you care to place a wager on who will arrive first?” He asked, and his Haggle skill kicked in.
+
+Catalina smiled. “Will this just be a friendly bet, or are we playing cutthroat?”
+
+“Oh, definitely friendly.” Ren said and smiled. “I wouldn't want to start off on the wrong foot.”
+
+Catalina chuckled. “Then what shall we wager?”
+
+“What do you suggest?” Ren asked her.
+
+“If you win, I'll wave today's rental fees.” Catalina said.
+
+“Are you sure?” Ren asked. “I've got hundreds of tons of cargo to unload and store in the warehouse.”
+
+“Yes, yes. It's fine.” Catalina said. “But if I win...”
+
+Ren raised a single eyebrow at her, and she smiled slyly.
+
+“You try to seduce me like you did with Jen.”
+
+“She told you about that, did she?”
+
+“Only after a few hours of alcohol and constant prying.” Catalina said and laughed.
+
+“Well... I don't see the harm as long as it's under the same conditions.” Ren said. “I'll do the attempt, but nothing will come of it. I won't follow through, and you can't expect me to.”
+
+“It's a deal.” Catalina said and shook his hand.
+
+Stat Change!
+
+Haggle Level 6 (Intermediate 0%)
+
+Ren looked down at his glowing Sending Ring and smiled. “Did you get all of that Frikara?”
+
+“I did.” Frikara said. “I've already told the captain to do another burst of speed, or the fees will come out of his pay.”
+
+Ren laughed. “Thanks, Frikara. I'll see you in a few minutes.”
+
+The Sending Ring stopped glowing and Ren looked at Catalina.
+
+“What... what is that?” Catalina asked, and pointed to Ren's ring.
+
+“It lets me talk to my personal maids.” Ren said, and heard rushing water. “I think that's my ship now.”
+
+“WHAT?!?” Catalina exclaimed and walked quickly out of the stable. Ren followed her, and she watched as a large ship rushed towards the shore. “What... how...”
+
+*
+
+The ship was moving so fast that the sails that were still deployed billowed in the wrong direction, and actually slowed the ship down. The short captain took full advantage of this effect for his plan.
+
+“Full oars port side!”
+
+“Full oars port side, aye!” The crew responded.
+
+The short captain turned off the 2 engines on the port side, then the oars hit the water. The drag started to pull the ship around to the port side with the help of the other engines pushing it only on the starboard side. The ship approached the dock on it's side, and didn't look like it was going to make it.
+
+The short captain hit full power to the starboard engines and the ship whipped around to face the other way. He turned on the port engines to full power, and with the aid of the sails that now faced the right way, the ship slowed it's rapid approach and came to a stop. The engines turned off, and the crew cheered.
+
+*
+
+I can't believe I thought about firing the captain. Ren thought and smiled. If he can do things like that with the ship, he's definitely the one I want for the job.
+
+“Geez, did you see that?” A man's voice said from behind Ren and Catalina, and they turned to see the stable crew standing behind them. “We came back early just in time to see that ship do... whatever the hell that was!”
+
+“Then...” Catalina said.
+
+“It was a tie.” Ren said and smiled. “They both got here at the same time.”
+
+“I agree.” Catalina said. “What does that do to our bet?”
+
+“I think it either cancels it or both sides have to be fulfilled.” Ren said reluctantly, since he knew which one she would choose.
+
+“Both sides should be fulfilled, just to be fair.” Catalina said with a huge smile on her face. Ren nodded slightly and she hooked a hand through his arm. She was much too tall to actually entwine their arms like she wanted to. “Shall we do it now?”
+
+“I really should attend to the ship first.” Ren said.
+
+“The workers can handle getting things started.” Catalina said. “Let's go to my office.”
+
+Ren let her lead him to her office, and she shut the door and drew the curtain. They were now all alone.
+
+“Well.” Catalina said. “Hurry up and get started.”
+
+Ren chuckled. “You really want me to just jump right into it?”
+
+Catalina nodded and smiled evilly. “I can't wait to see you fail.”
+
+“You're so sure of that?” Ren asked her.
+
+Catalina nodded. “Unlike Jen, you know nothing about me or what turns me on.” She said, a little excitedly. “I want to see what you come up with.”
+
+Ren smiled and pat the top of the desk. “Please, have a seat.”
+
+Catalina raised her eyebrows at him, and he pat the desk again. She walked over to it and leaned on it, so her behind barely touched it. Ren smiled and picked her up by her hips, and she grabbed onto his shoulders to keep her balance. He sat her comfortably on the desk, much to her surprise, and she slowly let his shoulders go.
+
+“Just before I went to the Dwarven Kingdom, a friend of mine gave me a mount.” Ren said and leaned in close. “I didn't know anything about taking care of a mount, but I knew I couldn't just go away for an unknown period of time and leave her alone, or worse, with people that wouldn't give her the care she needed... so, I took her on the ship with me.”
+
+Catalina closed her mouth and nodded slightly, because that was what any good person would have done.
+
+“The captain didn't mind me bringing a mount along for the two week trip, but...” Ren reached a hand up and stroked the side of her neck with the tips of his fingers. “He wouldn't let me bring the mount into the cabin that I was assigned.”
+
+“Why-” Catalina started to ask, then stopped herself. She didn't want to influence his attempt.
+
+“I didn't want to leave her alone, you see.” Ren said in a low voice. “I couldn't in good conscience leave her in the hold in a bare wooden crate, with nothing to occupy her time.”
+
+Catalina shivered at the thought of abandoning a mount like that for a long journey, and it wasn't a good shiver. Ren had the idea to imitate Ricardo, from the old television show called I Love Lucy.
+
+“Do not worry, Catalina.” Ren said, like he was speaking with a Spanish accent, and he saw her eyes widen slightly. “Instead of fighting the captain on his not-quite-reasonable decision, I made a soft comfortable mattress for my mount to put in her crate, then made a mattress for myself, and I slept beside her crate... in the hold... for the entire 2 week trip.”
+
+Catalina took in a sharp breath, because that would have been something she would have done; and she didn't think anyone else would have thought to be so considerate of their mount's welfare.
+
+“Everyone was shocked when they learned I did that, but I didn't care. My mount was healthy and well fed, and we'd make it through the trip together.” Ren smiled. “Of course, it didn't stop there...”
+
+Ren told her about how his mount came to his rescue, how she had continually helped him, and how he had made a set of custom armor for her to wear and enchanted it with Protection.
+
+“Oh... oh my...” Catalina said, and hugged herself. I wish I had armor for my mount. She thought and shivered, but this was a good shiver.
+
+“I thought she needed exercise, so I made a custom running track...” Ren saw her reaction and described all the obstacles and things he'd added to help improve his mount. “Then, when I was being banished, she got loose...” He said and described what the Commander of the Garrison had told him had happened.
+
+“Oh, god!” Catalina said, and put her hands between her legs. “You... you... kiss me!” She said, amazed at herself for her reactions, and at him for doing it to her. Ren smiled and kissed her. She let go of herself and wrapped her arms around his neck and kissed him passionately. This went on for a minute, then there was a knock on the door. Catalina broke the kiss and let Ren go.
+
+“What is it?!? Catalina said, crossly.
+
+“Someone's got to tell us where to store the cargo, Ms. Abernathy.”
+
+“We'll be right out.” Catalina said.
+
+Ren heard the footsteps walk away a few feet and stop. “Saved by the knock.” He said and smiled at her, and her face flushed deep red.
+
+“I'm sorry.” Catalina said. “I didn't mean to grab onto you like that.”
+
+“It's all right.” Ren said. “I took it a little farther than I should have, because you said you wanted the same treatment as Jen.”
+
+Catalina nodded. “You don't know me, though... so how... I mean... how?”
+
+Ren chuckled. “I think I have a talent for it.”
+
+“You sure do.” Catalina said. “And you aren't going to follow it up?”
+
+Ren shook his head. “The most I'll do is offer to clean your clothing, just like I did with Jen.”
+
+“That's very gallant of you.” Catalina said and started to take off her pants. Ren turned around to give her privacy, and she laughed. “After what you just did for me, you don't have to turn away.”
+
+“Ms. Abernathy, I won't degrade you in that fashion.” Ren said. “It's something that should only be shared with those you intend to be intimate with.”
+
+Catalina put a hand on Ren's shoulder. “So, you really are gallant and not just pretending.” She said. “If you were any less of a man, you'd have your eyes all over me, wouldn't you?”
+
+“If I was any less of a man, I'd have a lot more than just my eyes all over you, Ms. Abernathy.”
+
+Catalina laughed and handed him her pants and underwear. He handed her a piece of cloth to clean up with, and stored her clothing to clean it. He handed the pants and underwear back, and she handed him the very damp cloth back. He stored it to clean it, and waited for her to get dressed.
+
+“You can turn around now.” Catalina said, and Ren looked at her. She was dressed, and she smiled at him as she twirled her underwear around her finger.
+
+“Ms. Abernathy?”
+
+Catalina stepped forward and slipped the underwear into his pants pocket. “This is just something to remember me by.”
+
+“Ms. Abernathy, I don't need the reminder because I don't think I'll ever forget about this.”
+
+“I certainly hope not.” Catalina said, bent over slightly, and gave him a slight hug. “Although, I wouldn't mind getting a reminder from you.” She said, and placed a quick kiss on his cheek. “Once a week would be good.”
+
+Ren chuckled. “No follow through, remember?”
+
+Catalina sighed. “Oh, all right.” She said and smiled. “We'd better get out there before people start to talk.”
+
+“It's too late for that.” Ren said. “Your worker is standing just outside the door.”
+
+“What?” Catalina opened her office door, and there, a couple of feet away, was the worker. “Why are you just standing there?”
+
+“I'm waiting for you, Ms. Abernathy.” The worker said. “We still need...”
+
+“Yes, yes.” Catalina said. “I'm coming.”
+
+“I have to leave, too.” Ren said and walked by them. “I've got to get to the city because I have a tour to give.”
+
+“Do you need a cart and a horse diverted from...” The worker started to ask.
+
+“No, thank you.” Ren said and glanced at Catalina. “I've got my own cart and mount to handle that.”
+
+Catalina took in a breath and let it out.
+
+“She can't wait to see your mount...” Teepo said. “... and Princess, too.” He chittered in laughter.
+
+Let's not disappoint her too much, then. Ren thought to his friend, and walked out of the stable. “Please excuse me.” He said to Catalina and gave her a short bow, then ran down the short road and along the dock to the ship. The cargo hatch was already down and Tee-one was supervising the loading of the carts. Ren passed by him and went up to the main deck of the ship.
+
+“I'll be right back to lead you down.” Ren said to his personal maids, went in the main cabin, then down the hall and to the room with the Jacuzzi and knocked.
+
+“Come in.” Railyse said.
+
+“Hi, Railyse. I'm taking the maids on a tour of the city. Would you like to come along?”
+
+“Like you have to ask!” Railyse said and got out of the Jacuzzi. She didn't have to dry off at all, since her body absorbed water when she wanted it to. “Let's go!”
+
+“I have to get Princess first.” Ren said.
+
+“I know.” Railyse said, rolled her eyes, and the sea-like water under her skin swirled in amusement. “Hurry up!”
+
+Ren chuckled and stepped through to the other room where Princess was. “Hi, everyone.”
+
+Hello, My Lord. Princess thought to him. Am I to be a mule today?
+
+Ren laughed. “Princess, you've never been, nor shall you ever be, a mule.”
+
+You want me to pull a cart around.
+
+“Yes, but it's because I want to show you off to the woman that runs the stable.”
+
+Very well. Princess stood up. I shall do as you wish.
+
+“Thank you.” Ren said. “Riley, Stacy. Are you coming this time, or do you want to wait?”
+
+They stood up at the same time and barked once; and Ren could feel that they wanted to come along.
+
+“Escort duty.” Ren said, then went over to the pen that housed the fire elemental. “Hi, Zetaya. Ready to go?”
+
+The fire elemental jumped out of the pen and into Ren's arms easily.
+
+“Hey, good going!” Ren said. “Thank you for not trying to roam around on your own.”
+
+Zetaya rubbed it's head stub on Ren's face and snuggled into his neck.
+
+“Is it okay that we'll be in the same cart?” Railyse asked.
+
+“Sure.” Ren said. “As long as you don't touch each other.”
+
+“Oh, don't worry about that.” Railyse said as she stared at the bane of her existence. Of all the other elementals that existed, the fire elemental was the one that was the most dangerous to her. “I will never, ever touch it.”
+
+Ren smiled and kept his arms around the fire elemental. “Then let's go.” He said and the odd group of beings left the cabin.

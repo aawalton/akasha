@@ -1,0 +1,357 @@
+---
+id: 6c626a31-3887-564b-aeca-105749fa7dd6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 435 - The One That You Love"
+slug: 0432-chapter-435-the-one-that-you-love
+partOf: mythrans-master-of-all-continued-completed
+position: 432
+ownLength: 3649
+unit: words
+publishedAt: 2017-11-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176907/chapter-435-the-one-that-you-love"
+royalRoadId: "176907"
+---
+
+“I can't believe you did that.” Teepo said as they arrived in the safe zone and the tunnel closed behind them; and then the shared Heat Sense Aura ended.
+
+“At least she's not sad about me leaving now.” Ren said.
+
+“No, she's pissed!” Teepo chittered in delight.
+
+The Phantom Steed came to a stop in the middle of the succubi, and they all stared at him.
+
+“What is it?”
+
+“How did you...” One of them started to say.
+
+“...change the Marilith demon from...” Another said.
+
+“...wanting to kill you...” Yet another continued.
+
+“...to wanting to-”
+
+“It's a gift.” Ren said to cut the last one off. “Sometimes it doesn't work and just makes them angry.”
+
+“But... she's a Marilith demon.” Zunala said. “She loves to fight.”
+
+“According to her, we did fight.” Ren smiled.
+
+“She should have killed you, then us; eaten us all, and picked her teeth with our bones.”
+
+Ren chuckled. “She didn't, and here we are in the next safe zone.” He climbed down off of the Phantom Steed and pat it's neck. “I've got a lot of Adventurer's business to take care of, so I'm going to be gone for a while.”
+
+“How long?”
+
+“A few days.” Ren said and took out his shop tower and activated it, then took out the tower that the succubi slept in and activated that as well. “I'm putting up the walls, just in case.” He said and used the Staff of Earth to raise the 20 foot wide walls around a 100 foot by 100 foot space, to give the succubi more room to move in.
+
+“Do you need a feeding?” Ren asked.
+
+“Are you kidding?” Wynphine asked. “We had to stop feeding when you were... doing that thing... with the Marilith demon's private place.”
+
+“Was there that much of it?” Ren asked.
+
+“There was too much.” Seldanna said and rubbed her arms. “Good god, how can you...” She shook her head. “I don't want to know your secrets.” She said and stared at Ren. “Just keep your word, and I'll follow you anywhere.”
+
+Ren held a hand out to her. She hesitated for only a moment, then took the offered hand.
+
+“Oh!” Seldanna gasped as he gave her his feeling of thanks.
+
+“You're getting close.” Ren said.
+
+“C-close? To what?”
+
+“Leveling up your ability.” Ren said and smiled. “When I come back, I'll make sure to give you extra attention.”
+
+“You're already giving her extra attention.” Wynphine said, and Ren turned to her with his hand out. “Um... no, thank you.”
+
+Ren smiled and let his hand drop. “I might be back tomorrow, but don't plan on it.” He said and walked to his tower. “Knights, stay on guard. I want 2 of you on my door, 2 of you on the other tower's door, and 2 of you on patrol of the walls. The last 4 can take scout positions on top of the towers. If anything hostile attacks or somehow gets in, subdue it and keep it alive.”
+
+“Yes, sir.” They said together.
+
+“Before you start, wait here for a moment.” Ren said and went inside his shop tower. He went to the forge and tossed in a pile of gold coins to mix with the steel, then made 10 amulet discs. He activated his Craft Wondrous Item ability and made 10 of the modified Amulet of the Spider. He made another disc and dropped the Sunder enchantment he still had stored in his Retain Essence ability on it and stored it.
+
+Ren took off his Hand of Glory and took off the Ring of Water Walking and the Energize Wand out of it's grip, then redid the Hand of Glory to remove the old Amulet of the Spider enchantment on it, then added the new one to it, slipped the wand and ring back on it, and equipped it again. He used Double Infusion to add Speed runes to the amulets, to make the skeleton knights get 250% bonus to their speed.
+
+Ren went back outside, gave them the amulets and told them what they did, then looked at the succubi. “Should I leave meals out for you?” He asked them, and they declined.
+
+“Our rings work, so we don't need food.” One of them said. “If you were here, we would eat with you.”
+
+“Okay.” Ren said. “Be good, don't kill each other, and don't attack the skeleton knights even if all you're doing is playing.” He warned them. “So please, be careful.”
+
+“We will.” One of them said. “Hurry back.”
+
+“I want to get out of here just as much as you do.” Ren said and opened his tower door. “I've got a lot of people out there waiting for me, and I want to get back to them.” He said. “I'll see you all later.”
+
+The succubi had already started to disperse, and he turned to the skeleton knights.
+
+“If they start fighting seriously, break them up.” Ren whispered. “If they attack you, retreat. If that's not an option, restrain them; but, do not use your swords. You are to keep them alive.”
+
+“Yes, sir.” They said.
+
+“Carry out my orders.” Ren said, and the skeleton knights dispersed as he had told them; 2 in front of each door, 2 on top of each tower, and the last 2 on patrol of the walls. He nodded and went inside his tower and up the stairs.
+
+Teepo, I'll see you in a few days. Ren thought, and Teepo flew up to land on the ceiling above the bed.
+
+“See you when you get back.” Teepo said as Ren laid down.
+
+“Logout.”
+
+********
+
+Ren slid off the VR headset and was greeted by three very surprised women.
+
+“Okay, what happened in there?” Lisa asked in a rather accusing voice.
+
+“What do you mean?” Ren asked as Denise took the headset from him.
+
+“There was a lot of blue screen for us to watch.”
+
+“Well, after I broke her armor, I guess she was technically naked; even though she claimed it was her natural state.” Ren said. “She said that she only wears the armor when she fights.”
+
+“What about...”
+
+“Easy there, girl.” Elise said and put a hand on Lisa's shoulder. “Ren, can you tell us what happened after you shared that bacon with her?”
+
+“Sure.” Ren said, and gave them a quick rundown of what had happened for the entire time he was in the last cavern.
+
+“You... you licked...” Lisa made a fist and closed her eyes.
+
+“Teepo said it smelled like maple syrup.” Ren said and shrugged. “I had to at least try it.”
+
+“How much corruption did it give you?” Lisa asked through clenched teeth.
+
+“The first taste only put me up 2%.” Ren said. “In total, 22%.”
+
+“You... how much did you...”
+
+“I actually got 40% when I split open the boar demon's gut to kill it.” Ren said. “What a mess that was.”
+
+“Ren.”
+
+“I'm at 65% right now.” Ren said.
+
+“Ugh!” Lisa said. “How can you be so stupid?!?”
+
+“Look, I'm sorry, okay?” Ren said. “My overactive bacon fetish kicked into overdrive.” He said in his defense. “The smell filled the cavern, and it was sooo good.”
+
+“God.” Lisa said and looked at him. “Ren, you have to stop-”
+
+“Lisa.” Denise cautioned her.
+
+“Ren, you really should ease off on bathing in demon blood and... other bodily fluids.” Lisa said.
+
+“I know.” Ren said. “On the bright side, I got out of there before the Marilith demon realized I was a Marilith myself for a lot longer than 5 minutes.”
+
+“So, it worked.” Elise said. “You really did become a male version of her.”
+
+“Yeah, and it hurt like a son of a bitch.” Ren said. “I guess when my armor bodysuit tore, the blue screen went into effect again.”
+
+“It did.” Elise said. “Did you... you know...”
+
+“You're kidding, right?” Ren laughed. “I couldn't stand up... or hold myself up straight... or even move properly.”
+
+“Then what did you do?”
+
+“Flopped around and slid in the dirt.” Ren chuckled. “She carried me onto the Warming Pad I made, hugged me, bit my ear, then opened the passage to leave.”
+
+“So, you... you didn't have sex with her.” Lisa said.
+
+“Of course not.” Ren said. “Mind you, I was in a completely transformed body. Would you have gotten mad if I did have snakety-snake sex with her?”
+
+“YES!” Lisa yelled.
+
+“Now you know why I didn't.” Ren said, and all three women blinked their eyes in surprise. “We just had this discussion not that long ago. I will not even think about sleeping with another woman without talking to you first.”
+
+Denise looked at the other two women, and then back at Ren. “Um...”
+
+“Yes, Denise.” Ren said. “I talked to them about you.”
+
+“Wh-what?” Denise looked at Elise and Lisa. “You... I mean...”
+
+“He said you were still just thinking about it.” Elise said. “Have you decided yet?”
+
+Denise looked like a deer caught in a car's headlights, and she felt a hand on hers.
+
+“She wants me to be all hers tomorrow.” Ren said, and her face flushed red.
+
+“Stella's on shift to take care of Ren, and I'm working tomorrow.” Elise said and looked at Lisa, who didn't say anything.
+
+“She's still angry at me for not doing what she wants.” Ren said.
+
+Lisa opened her mouth to deny it, then sighed and ducked her head. “Yes, I'm being stupid about it; but... it's because I love you... and I... well...”
+
+No one said anything for a moment.
+
+“L-Lisa.” Ren said, and Lisa looked up to see his surprised expression. “You said it.”
+
+“I...” Lisa's face turned to a deep red. “Ren...”
+
+Ren held a hand out to her, and she took it. He pulled her onto the bed and she laid down on his good side. He took her into his arms and held her, and she hugged him back.
+
+“I've been waiting to see if you would admit it.” Ren said and gently kissed her. “I'm so glad that you did.”
+
+“You dummy.” Lisa said. “I'd punch you for being stupid if I didn't think you'd die from it.”
+
+Ren laughed. “I love you, too.”
+
+“Aw, that's so cute!” Elise said and crawled up onto the bed behind Ren and laid down. “Lift your head, sweetheart.”
+
+Ren lifted his head and Elise slid her arm under it, and also under Lisa's head.
+
+“Now your arm.” Elise said, and Ren lifted his and Lisa's arms slightly, and she slid her arm underneath and across their bodies to hold them both. She wiggled her body, almost like a snake, and it nestled Ren and Lisa into her embrace. She kissed the top of Ren's head and put her head on the pillow.
+
+“Does this mean you two have made up?” Denise asked.
+
+“I want to be, but Lisa's a much harder woman to convince to forgive me.” Ren said and stroked Lisa's cheek. “I think she needs to sleep on it before she can give an answer to that.”
+
+“I... yes, that's true.” Lisa said and sighed. “My anger is just... simmering over it.”
+
+“You can stay here and simmer.” Ren suggested, and Lisa smiled crookedly.
+
+“It's tempting, but I don't think I can be objective about things if I'm staring at you all night.”
+
+“I was about to say the same thing.” Ren said, and she chuckled.
+
+“Hi, everyone!” Barbara said when she came into the bedroom, and they all looked at her. “I'm not going to ask why you three are cuddled up in the bed.”
+
+“Well, that's too bad.” Ren said. “It's an amazing story, with interesting characters and plot twists!”
+
+Elise and Lisa laughed, and Denise chuckled as she stood up.
+
+“I'll tell you all about what's been going on as I get changed.” Denise said and led Barbara from the room and shut the door.
+
+“...and they were conveniently left alone, safely tucked into each other's warm embrace.” Ren said. “In front of him was a short-haired blonde seductress that didn't know the limit of her power over the poor shmuck in her arms.” He gave Lisa a quick kiss. “While behind him, a redheaded long-haired amazonian goddess, whose physical dimensions alone could rock entire worlds, used her brain to keep everyone safer than they ever thought they could be, and whose arms welcome those not worthy of her touch, let alone her attention.”
+
+“That was beautiful.” Elise said and kissed his cheek. Ren turned his head to her so she could give him a kiss on the lips, and she took advantage of it. She broke the kiss a few moments later, and looked at Lisa. She felt a little guilty that she had done that in front of her; then Lisa leaned forward and kissed Ren just as passionately. She broke that kiss a few moments later, and looked back at Elise; then both of them looked at Ren... and he had a huge grin on his face.
+
+“You liked that, did you?” Elise asked.
+
+“I really, really did.” Ren said. “I kinda wish I had two mouths, just so I could kiss you both at the same time.”
+
+Lisa chuckled. “I... ah... don't think I'd kiss you if you had two mouths.”
+
+Ren laughed. “Damn, another impossible fantasy shot down!”
+
+Elise laughed. “Reality: One. Men and their irrational fantasies: Zero.” She gave him a quick kiss. “If you're staying out, I guess I better get changed for bed.”
+
+“Me, too.” Lisa said and sat up. “I really am still mad at you.” She said to Ren.
+
+“I know you are, but that can't stop you from loving me.” Ren said and sat up to give her a goodnight kiss. “I'll see you later, or tomorrow, or whenever you decide you can stand to look at me and not be pissed off.”
+
+Lisa laughed. “You're making it hard to hold onto my anger.”
+
+“My dastardly plan of loving you is working!” Ren said, then cackled in maniacal laughter. “Mwahahaha!”
+
+Lisa shook her head and climbed off the bed. “Goodnight, you crazy nut.” She said and left the bedroom. Elise sat up and started to get off the bed as well, and she felt a hand on her arm.
+
+“Wait a minute.” Ren said.
+
+“Sure.” Elise said. “What is it?”
+
+“You wore those jeans for me, didn't you?” Ren asked, and she nodded. “Then lay down on your stomach, please.”
+
+“M-my stomach?”
+
+Ren nodded, and she laid down with her head on the pillow and her arms crossed under it. “What a sight.” He said as he straddled her knees, and used both hands to touch the backs of her thighs, then slowly rubbed his hands up to her backside and gripped both cheeks firmly.
+
+“Mmm!” Elise moaned into the pillow as he massaged her.
+
+“You look so sexy in tight jeans.” Ren said and moved his hands down to massage the inside of her thighs through the denim. “I just want to rub my hands all over you.”
+
+“D-do w-what you want.” Elise said as she looked back at him.
+
+“Then roll over.” Ren said and propped himself up on his knees, and she carefully turned around to face him, then she laid back on the bed. He sat back down and massaged the front of her thighs, and it pulled on the cloth over her private place.
+
+“R-Ren... are you... is this because of... of her?”
+
+“You mean the Marilith demon?” Ren asked, and she nodded. “Kind of.” He said. “She reminded me of you a lot, but... her hair was different, her breasts weren't as big as yours even though she was twice my size, and her body and personality were a lot different.”
+
+“You know she would have kept you if she knew you could keep that form.”
+
+“Darn right she would have.” Ren said and grinned. “She was pretty mad when I told her that as I left her lair.”
+
+Elise chuckled for a moment, and then moaned as Ren's hands reached her special place and he rubbed it through her jeans.
+
+“The whole time I was there, I kept thinking she was a cheap knock-off of the real thing.” He said and moved his hands up to her waist, then to her breasts. “She was nice, but she was definitely not you.” He said and lightly touched the bra he could clearly see through her top. “You even wore a slightly see-through t-shirt for me.” He said and massaged her breasts through the cloth and her bra. “You're always doing things to make me happy, Elise.” He said and laid down on top of her. “I love you so much.”
+
+“Oh, Ren.” Elise said. Her face was red as she wrapped her arms around him, and he snuggled down into her chest. “I love you, too.”
+
+They stayed like that for several minutes, and then Denise and Barbara came back into the room.
+
+“Did you kick Lisa out for some private snuggle time?” Denise asked with a smile.
+
+“He tricked me!” Elise said with mock horror. “He said he just wanted to talk!”
+
+“No, I didn't.” Ren laughed. “I just wanted to see what your body felt like in painted-on jeans.”
+
+Barbara laughed, and Denise shook her head.
+
+“You were really telling the truth when you said you were going to be completely honest with us.” Denise said.
+
+“Why should I lie?” Ren said as Elise let him go. “If I'm always honest, I don't have to keep track of any lies or try to keep my story straight.” He chuckled. “Can you imagine the mess I'd be in right now, if I had tried to hide something from some, or even all of you?” He laughed. “At least one of you would have killed me a long time ago.”
+
+“Yes, namely me.” Barbara said, and everyone laughed.
+
+“I really should get changed.” Elise said and eased Ren off of her and down onto the bed. “These jeans are okay to sit and walk in.” She said and sat up, then got off the bed. “They are not meant to be slept in.”
+
+Ren watched as Elise wiggled her hips and gripped the denim on her thighs to pull them down and away from between her legs.
+
+“Geez. Even doing that, you looked sexy.” Ren said, and Elise laughed.
+
+“You are completely biased.” Elise said and picked up her bag, then went into the bathroom to change.
+
+“Denise?” Ren asked.
+
+“Do we have to be honest, too?” Denise asked and he nodded. “Then, yes.” She sighed. “She looked sexy.”
+
+“Good girl!” Barbara said and pat the top of her head.
+
+“Stop that!” Denise laughed and pushed her hand away, and Ren and Barbara laughed, too.
+
+Elise came out of the bathroom with just a long t-shirt on, and Ren watched her walk over to the bed.
+
+“I'd say that's a sight for sore eyes, but the sight itself gives me sore eyes.” Ren said, and Elise laughed.
+
+“You don't have to keep flattering me, I'm already completely yours.” Elise said and put her bag down and out of the way, set the alarm for the morning, then climbed onto the bed and laid down beside him.
+
+“Denise, if you do something nice for me and I don't pay you a compliment, you'd get mad, right?”
+
+“Hell yes.” Denise said with a huge smile. “It's happened once or twice.”
+
+“You see, Elise?” Ren said. “I've learned to give women their due, and to be honest, you are due a lot.”
+
+Elise ran her hand through his hair. “You let me do pretty much anything that I want.” She said. “I can come and go as I please, I can cuddle you and you never complain, and I can spoil you with kisses.” She said and gave him a series of quick kisses all over his face.
+
+“Ahaha!” Ren laughed as she kissed his cheeks, his eyes, his forehead, and even his nose. When she was done, she gave him one big kiss on the lips.
+
+“See? You're completely spoiled and you didn't complain once.” Elise said and laughed.
+
+“Who would complain?” Ren asked. “That felt wonderful!”
+
+“We'll leave you two alone so you can get some sleep.” Denise said and started to walk to the bedroom door.
+
+“You don't have to leave.” Elise said, then looked at Ren. “We are just going to sleep, right?”
+
+“Yeah, I need to sleep.” Ren said. “I've gotten too used to having someone else in the bed that I can't rest well without it.”
+
+“Then you're really lucky to have so many of us around to help you sleep.” Elise said, and looked back at Denise. “There's lots of room.”
+
+“I... well, I...”
+
+“I could keep my hands to myself.” Ren said, then smiled. “I'm not going to, though.”
+
+Denise snorted a laugh. “Stella did warn us about sleep groping.”
+
+Elise pat the other side of the bed, and after a moment, Denise walked over to it and climbed up onto it. She wore grey jogging pants and a loose t-shirt, which seemed to be a woman's normal outfit for lounging around comfortably, and laid down on Ren's other side.
+
+“Blanket.” Ren said, and the two women reached down towards the end of the bed and unfurled the comforter there to cover themselves and him up. “What a life.” He said and turned his head to look at Elise. “Goodnight.”
+
+“Goodnight, sweetheart.” Elise said and kissed him.
+
+Ren turned his head to look at Denise. “Goodnight.”
+
+“Goodnight.” Denise said, and didn't lean close. Ren puckered his lips and opened and closed his mouth like a fish. She rolled her eyes and chuckled, then gave him a kiss, too.
+
+“Goodnight, Barbara.” Ren said.
+
+“Goodnight.” She said and turned the lights down, then left and closed the door.

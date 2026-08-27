@@ -1,0 +1,451 @@
+---
+id: 6c2e28a0-b760-553c-be1e-7e8266b25b59
+page-type-slug: story-chapter-royal-road
+title: "Chapter 363 - Healing Hands"
+slug: 0356-chapter-363-healing-hands
+partOf: mythrans-master-of-all-continued-completed
+position: 356
+ownLength: 4932
+unit: words
+publishedAt: 2017-09-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163272/chapter-363-healing-hands"
+royalRoadId: "163272"
+---
+
+Running Quest Update!
+
+You have shown some of what you can do to a large crowd. It was a surprise to them, and they will tell everyone they know what they saw.
+
+Rewards: 1,500 XP
+
+Fame +150
+
+Fame Bonus: +75% (100% - Slow and Steady 25%)
+
+Notice!
+
+Excess Fame converted to XP
+
+Fame 150 x 10 XP = 1,500 XP
+
+Ren dismissed the Running Quest Update popup and rode Princess over to Donan's shop. He made the ore delivery for the driver, and told Donan that the driver would be over later when he got another horse. Donan was happy to hear he wouldn't be stuck with a cart at the shop for long, and Ren left after repeating his promise to visit soon.
+
+Ren climbed into the saddle again and rode Princess over to the street near the Artesian District that had the market stalls, and was surprised that his Aura had merged with the shared Aura and all 5 maids were there. The street was also quite crowded. He thought about getting off of Princess; but then, he would be too short to see over the crowd.
+
+It was a bit of a shock to find that the crowd was around Verwynn's market stall, and they were all trying to buy glassware from her and the other maids. The maids had felt his concern and stopped what they were doing to look at him. He felt that they were okay and he concentrated on his connection to Stacy and Riley, and they confirmed the same thing. It really was just busy, and they weren't being bothered by all the attention.
+
+Ren had Princess saunter around the crowd to the side to try and get closer to the stall so he could hear what people were saying.
+
+“What a great deal!” One woman said and picked up a set of glasses. “Thank you!”
+
+“You're welcome.” Verwynn said, and the next woman had already pointed to a vase on the top shelf.
+
+“Andrela?”
+
+“I got it.” Andrela said and climbed the step ladder to grab the vase, then passed it down. Verwynn and the woman entered into intense negotiations, and Ren almost laughed as he felt how much Verwynn enjoyed it. He didn't need to share the woman's Aura to see that she enjoyed it as well, because as they talked, a smile spread across her face. They arrived at a price that the woman was very happy with, paid for the vase, and left with the smile intact.
+
+The other maids were finding what the other customers wanted and setting it aside as they waited for Verwynn to finish with the next customer. It was an efficient system, and Ren watched them for a few minutes, then let his appreciation for them flood into the shared Aura. He wanted to tell them out loud, to make sure they knew what he meant; but, they all glanced at him with slight blushes on their faces, and kept working.
+
+Ren rode Princess to his business next, asked her to wait around back and gave her a couple of plates of food, then went inside to wait for his orders.
+
+“Hi, Anabelle.” Ren said and walked over to the counter.
+
+“Hello, My Lord.” Anabelle said. “Since you are here, there are some repairs that need to be done.”
+
+Ren raised a single eyebrow at her formal words and the tone of her voice, and she smiled and leaned in close.
+
+“Katie is showing 2 Ladies your wares.” Anabelle whispered. Ren nodded and glanced to where they were, then grabbed the back of Anabelle's neck and pulled her in for a quick kiss. He let her go and smiled at her surprised look and slightly red face, then walked over to the forge and the shelves that had the items for repair. He didn't rush with them; but, each one only took a few seconds to fix and he was done less than a minute later.
+
+Ren went back over to Anabelle. “I'm just waiting for my orders.” He said. “Parchment and ropes.”
+
+“I believe that's them now.” Anabelle said and pointed. Ren turned and saw a cart and horse, and the driver came into the shop.
+
+“I have an order here for Ren.”
+
+“That's me.” Ren said. “I assume you have all the ropes I wanted.”
+
+“They're in the cart.” The driver said and stuck his thumb over his shoulder.
+
+“Great.” Ren said and walked to the door.
+
+“Am I bringing them in here?” The driver asked. “That's a lot of rope and I don't see a spot big enough for it.”
+
+Ren chuckled and opened the door. “I'm not selling them, they're for me.”
+
+“Oh.” The driver said and went out through the open door. “What do you need so many ropes for?”
+
+“No idea.” Ren said. “But, I got caught twice when I need one and I didn't have one to use, and I am not letting that happen again.”
+
+The driver chuckled. “You're an Adventurer, ain't you?”
+
+Ren nodded.
+
+“Yeah, we get lots of replacement orders for Adventurers.”
+
+“I can imagine.” Ren said and the driver hopped up on the cart.
+
+“I'll start tossing them to you.” He said.
+
+“Shouldn't I pay for them first?” Ren asked, and the driver laughed.
+
+“You're the Hero of Aurora.” The driver said. “I'm pretty sure I can trust you to pay after.”
+
+Ren laughed and started to catch and store the bundles of ropes. When the driver counted to 50, he tossed the last one to Ren and hopped down.
+
+“That'll be 50 gold.” The driver said.
+
+“Thanks.” Ren said and gave him 50 gold coins and 5 gold coins for the tip.
+
+“You're welcome.” The driver said. “Hey, I've got something for you, too.” He went to the front of the cart and opened a little box. He took out a small bundle of something, closed the box, and handed the bundle to Ren. “Trust me. You'll use this more than the rope.”
+
+Ren stared at the small bundle, and then stared at the popup.
+
+Small Bundle of Silk Bindings
+
+Delight your significant other by using these sensual bindings to tie them up. They won't leave marks on the skin, and if tied properly, can be easily slipped out of.
+
+Ren read the second popup with several knot tying options, then dismissed both.
+
+“You can thank me for that the next time you order something.” The driver laughed and climbed into the cart and drove away.
+
+“Hey, mister.” A young boy said. Ren stored the silk bindings and looked at the boy.
+
+“Hi, there.” Ren said. “Have you brought all the paper I ordered?”
+
+“I sure did.” The boy said and took off his backpack. “199 large parchment sheets, cut in half, just like you wanted.”
+
+“Great.” Ren said. “What do I owe you?”
+
+“Nothing.” The boy said and handed Ren the sheets of parchment. “That tip you gave me last time...”
+
+“Isn't anywhere near enough to cover the cost, let alone the work to make them.”
+
+“It's not work mister.” The boy said. “It's fun!”
+
+Ren smiled and pat the boy on the shoulder. “I'm glad you're enjoying it.” He said. “What about writing instruments? Do you have any on you?”
+
+“Of course.” The boy said and opened a pouch on the side of the backpack. “People always forget to order them.”
+
+“Just like me.” Ren chuckled. “I'll take 10 if you have them.”
+
+“T-t-t-ten?” The boy stammered, then sighed and handed Ren 10 of them. He closed the pouch and the backpack, then put it on. “S-see y-you l-later.”
+
+Ren stopped the boy from leaving with a hand on his arm. “You forgot this.” He said and gave him 5 gold coins.
+
+“Wh-what?!?” The boy exclaimed.
+
+“I know you said the order was free; but, I saw your frown.” Ren said. “I didn't mean to make you unhappy when I changed my order.” He smiled at the boy. “I want you to keep having fun, okay?”
+
+“Sure thing!” The boy said. “Thanks, mister!” He said and ran down the street.
+
+“That was really nice of you.” A haughty voice said from behind Ren. “That could have been a very painful lesson for him to learn if you hadn't paid him.”
+
+Ren's Etiquette skill activated and he turned to look at the woman who had spoken, and then saw another woman beside her. It was Camilla, the Minister of Finance's wife.
+
+Ren smiled. “It would have been painful with just giving the parchment away... the writing instruments on top of that would have been disastrous for him.”
+
+The woman nodded and held a hand out.
+
+“My Lord, this is Gretchen, the Trade Minister's wife.” Camilla said, and Ren took Gretchen's hand and bent over it to give it a light kiss.
+
+“M'lady.” Ren said and turned to Camilla to do the same to her hand. “M'lady.”
+
+“Didn't I tell you he was a delight?” Camilla said.
+
+“I suppose.” Gretchen said. “His clothes leave a lot to be desired.”
+
+Ren equipped his dwarf overall command uniform for an instant and concentrated on his Command Aura. “Is this more to your liking, M'lady?” He asked her, then equipped his High Elven Court uniform. “Or perhaps this?”
+
+Gretchen's face remained immobile, so Ren equipped his red cloth suit that he wore as a Lord in the dwarf lands.
+
+“Maybe this is more preferable? No? A better design and color then?” Ren asked and equipped his royal purple suit that any member of a royal family would be envious of. He saw Gretchen's eyes twitch at the sight, and he smiled. “That's close; but, I think you want something a bit more flashy.”
+
+Ren equipped his armor bodysuit for an instant and saw her eyes twitch again, then equipped his entire suit of shining gold-colored armor, and she gasped.
+
+“That did it.” Ren said from inside the helm of the armor. He stepped back and turned around to make the Dire Wolf Hooded Cloak billow out, then looked at her. “You'll have to excuse the scratches and pock marks.” He said and touched the spots on the chest plate. “I recently saved King Alamast's daughter from being killed by a metal-infused elemental grenade and I haven't bothered repairing the damage yet.”
+
+Gretchen and Camilla's mouths made that little 'o' of surprise, and Ren equipped his Travelling Clothes again.
+
+“There's a time and a place for wearing certain things.” Ren said. “Right now is the time that I'm busy building the city in my county. I'm wearing my Travelling Clothes because I was travelling.”
+
+The two women didn't respond, and he smiled.
+
+“How are the plans for the party coming along, M'lady?” Ren said to Camilla.
+
+“Oh! Really well!” Camilla said when she snapped out of her stunned condition. “We're all set for sometime next week.”
+
+“Is it in the mansion's ballroom this time as well?”
+
+“It is.” Camilla said. “I'll be sending out invitations in a couple of days with all the details.” She smiled sweetly at him. “You missed the last one, so I sincerely hope that you will attend.”
+
+“I wouldn't miss it.” Ren said. “Now, if you will excuse me, I need to run an important errand before heading back to Walin County to work on the Church.”
+
+“Have a good day, My Lord.” Camilla said, and Ren took her hand and kissed it.
+
+“M'lady.” Ren said, then did Gretchen's hand. “M'lady.”
+
+Gretchen didn't say anything as Ren walked away and went around the corner of the building.
+
+“Did... did he say Church?” Gretchen asked, and then she gasped as Ren burst out of the alleyway wearing full armor. He rode Princess, who was also fully armored, and had her stop in front of the two women. Princess stood up on her back legs and kick her front legs a few times, just like when a horse reared back. The two women stared open mouthed at him, because he rode a giant ram as a mount, and then Princess ran down the street.
+
+Running Quest Update!
+
+You have shown two influential people some of what you can do. It was a surprise to them, and they will tell everyone they know what they saw.
+
+Rewards: 2,250 XP
+
+Fame +350
+
+Fame Bonus: +75% (100% - Slow and Steady 25%)
+
+Notice!
+
+Excess Fame converted to XP
+
+Fame 350 x 10 XP = 3,500 XP
+
+“Did you see the looks on their faces?” Teepo asked as he chittered in delight.
+
+I really shouldn't show off like this. Ren thought, and then smiled. It was fun, though.
+
+“It sure was!” Teepo said. “Now we have to figure out how to top it!”
+
+Ren chuckled as Princess took him through the streets towards the address where the head healer's office was. Princess didn't run even at a quarter of her top speed because of the people in the street; but, people saw her coming and made room for her. It gave her a sense of accomplishment, that people were starting to learn that their place was not in front of her, and Ren pat her neck.
+
+Princess came to a stop a couple of minutes later, and Ren equipped his Travelling Clothes to store his armor, then thought about meeting the head healer and equipped his stylish red suit instead.
+
+“I'll be right back.” Ren said to Princess and pretended to tie her to the stand in front of the nondescript two storey house while Teepo jumped off his shoulder and slipped inside.
+
+“It's a reception area with a woman at a desk, and an office in behind with a woman there, too.” Teepo said about 10 seconds later, and then came back out to land on Ren's shoulder.
+
+Thanks, Teepo. Ren thought and took out a dozen Level 1 wands and replaced 4 of their charges with Minor Healing, 8 with Major Healing, and stored them.
+
+“It's a new area.” Teepo said. “I had to scout it first.”
+
+Ren nodded and then went to the front door. There was an 'OPEN' sign on the door, so he just opened the door and went inside.
+
+“Hello, My Lord.” The receptionist said. “What can we do for you today?”
+
+“I'd like to see the head healer, if that's possible.” Ren said.
+
+“Of course.” The receptionist said and stood up. “Please wait here for just a moment.”
+
+“Thank you.” Ren said, and the receptionist went to the head healer's office door and knocked once.
+
+“Yes, what is it?” A woman's voice asked.
+
+“You have someone here that wants to see you.”
+
+“REALLY?!?” The woman yelled, and Ren heard something metal get knocked over and then several pieces of parchment slid out under the office door. “Oh, dammit!”
+
+The receptionist opened the office door and they saw what had happened. A metal tray had fallen over and dumped all of it's contents over the desk and the floor.
+
+“I almost had them all sorted!” The woman said, almost in despair. She was standing up with her hands on the sides of her head, and sighed. She looked to be about 30 years old, and he couldn't see her hair because it was concealed behind a medical hat. She also wore the traditional long white tunic that healers wore.
+
+“I'm terribly sorry, M'lady.” Ren said and bowed to her. “Please allow me to clean this up.”
+
+“N-no, I couldn't let you clean up my mistake...”
+
+“It's no trouble, M'lady.” Ren said and started gathering the pieces of parchment up and stored them. The receptionist and the head healer watched wordlessly as Ren picked up every single piece of parchment from the floor and then did the same thing for the desk. The entire room was cleared up in only a minute, and the two women stared at him.
+
+“I see the problem.” Ren said when he examined the metal tray. “The center of balance is too high.” He said, and took out his blacksmith hammer to bend the thin legs of the tray underneath it, pounded them flat so that they wouldn't make the tray unstable, then took out the crucible with some molten metal still in it and poured some on the underside to add a lot of weight to it.
+
+Ren used a tool to spread the metal out instead of his hand, because he didn't want to shock them, and absorbed the heat from it to cool it off. He put it back onto the desk with a heavy thump.
+
+“Where was it?” Ren asked, and the head healer pointed to the other side of the desk. Ren moved it to it's proper spot and stood back. “Were you sorting them for storage, or were you working on them?”
+
+“Both. I only have a few more forms to do.” The head healer said and pointed to a small stack of them on a small table behind the desk. “Just put the pile right in the middle of the desk.” She said sadly. “I'll work on getting them sorted after I eat a late lunch.”
+
+“There's no need to sort them again.” Ren said and opened his inventory. It had already sorted them, and he put the individual stacks on the desk beside each other and in order.
+
+“You're kidding me.” The head healer said, and looked at the stacks. “They really are sorted in order.”
+
+“Miss Grandure, maybe he can come back next month and do the next batch.” The receptionist suggested, and Ren chuckled.
+
+“You don't know how much time you've just saved us.” The head healer said.
+
+“Well, it was my fault this stack was knocked over.” Ren said. “The least I could do was put them back.” He smiled. “I don't think I should be handling your documents all the time, though.”
+
+Miss Grandure nodded. “Yes, that's right. This was a valid exception.”
+
+“Aw.” The receptionist said. “I wanted someone else to do it.”
+
+Miss Grandure chuckled. “You're not worming your way out of the grunt work that easily.”
+
+The receptionist grinned at her. “It was worth a shot.”
+
+“Go on back to your desk while I see what this gentleman wants.”
+
+The receptionist nodded and shut the office door.
+
+“What can I do for you, My Lord?” Miss Grandure asked as she took each stack and put them in the filing cabinet at the side of the room.
+
+“I was wondering if a healer or two would be willing to move to Walin County to take care of the residents there.” Ren said, and the head healer stopped filing the documents and looked at him.
+
+“You want someone in my organization to leave here, actually move to a place, and take care of people with no support structure?”
+
+“There's almost 800 people in the whole county, which is 50 miles by 50 miles.” Ren said. “The good news is, nearly 650 of that 800 live in Goagan Village... soon to be Goagan City... so there should only be a bit of travelling to look after the residents that are spread out over the rest of the county.”
+
+“You're actually serious.” Miss Grandure said and started to file the documents again. “You want a couple of healers to give up their jobs here to go there.”
+
+“I don't know if anyone will want to move there permanently, because I know that's a lot to ask, especially if they don't like it there.” Ren said. “Maybe you could just have them rotate in and out on a regular basis, like every month or so.”
+
+“You mean like a remote posting?”
+
+Ren nodded. “You could consider it training, or experience building.” He said. “Or even punishment.”
+
+“Yes, that would go over well.” Miss Grandure chuckled. “You haven't healed enough people! I'm sending you to The County for a month!”
+
+Ren laughed. “I'm glad you see punishment as ridiculous as I think it is, but I had to mention it.”
+
+Miss Grandure nodded. “Yes, some of the healers would see it as punishment.” She said. “Especially since Gerald has been telling everyone about his treatment.”
+
+Ren grinned. “In my defense, it wasn't my idea... and that was a special rush case.”
+
+“Yes, he told me about the farmer and his leg with multiple fractures.” The head healer said. “He also told me about your wands.”
+
+Ren nodded and took out a Minor Healing wand and a Major Healing wand. “They have 50 charges.”
+
+Miss Grandure's eyes widened slightly. Gerald didn't tell me that.
+
+“What Gerald wouldn't know, since I didn't do it in front of him, is that I can recharge them.”
+
+The head healer gasped and sat down. “You're telling the truth, aren't you? Please tell me you're telling the truth!”
+
+Ren chuckled and put the Minor Healing wand on her desk, used the Major Healing wand on himself, which used up a charge and refilled his Mana Pool, and then he used some Mana to fill up the charges on the wand.
+
+“Oh, my.” Miss Grandure said and looked at Ren. “I can't believe... you made a rechargeable Healing wand...”
+
+Ren put the Major Healing wand on her desk next to the Minor Healing one, and took out the other 10 Level 1 wands he had and made a pile.
+
+“Oh, my g-” The head healer cut off her own words and squinted her eyes at him. “Are you trying to bribe me, My Lord?”
+
+“No, M'lady.” Ren said. “I know how difficult it is to constantly have people running around and expending their energy to heal people.” He separated the 4 Minor Healing and 8 Major Healing wands. “You can have these no matter what you decide.” Ren said.
+
+“So, it's a bribe; but, not to buy what you want.”
+
+Ren chuckled. “Is it a bribe if I'm not using them, then give them to someone I know will use them to help people?”
+
+Miss Grandure opened her mouth to respond that it was, and then closed her mouth to think about it. If he really isn't using them... not that someone could use 12 wands anyways... but if they're rechargeable, why have 12? You would only need one, right?
+
+Ren waited patiently for her to work through what he said.
+
+“You have better ones.” The head healer said a few moments later. “Don't you?”
+
+Ren smiled and tapped the tip of his nose a couple of times.
+
+“Very well.” Miss Grandure said. “I will accept this generous donation to the organization, and won't let it influence my decision to approach several individuals about creating a healing outpost in Walin County.”
+
+“I didn't expect it would, M'lady.” Ren said. “All I wanted it to do, was open you up to the possibility of the idea.”
+
+“It worked, My Lord.” Miss Grandure said. “It never would have crossed my mind to make a place for people to work, rather than just sending them out individually.”
+
+“Just make sure you tell the healers that they have the option to actually move there and work there permanently.” Ren said. “I might just get lucky and you'll find someone that will fit my county's needs.”
+
+Miss Grandure nodded. “I'll inform them of the options they will have.”
+
+“Excellent.” Ren said and held a hand out to her. “Thank you for taking the time to listen to my request.”
+
+Miss Grandure stood up and took his hand automatically. Ren bent over it and lightly kissed the back of it.
+
+“Have a good day, M'lady.” Ren said, let her hand go, and left her office. He shut the office door and the receptionist turned to look at him.
+
+“Done already?” She asked, and Ren nodded. “Thank you for visiting.” She said. “We don't get a lot of non-healers coming in here.”
+
+Ren smiled at her. “Do I still count for that if I have the Healing skill?”
+
+“You do?!?” The receptionist asked, surprised. “But you're not a healer!”
+
+Ren chuckled. “I was a bit surprised when I learned it, too.”
+
+“You're amazing, My Lord.” The receptionist said.
+
+“You don't have much information to base that on.” Ren said, and she laughed.
+
+“I felt your Aura when you were down the street, My Lord.” The receptionist said. “Plus, you're the proclaimed Hero of Aurora. I know you're amazing.”
+
+“Thank you for saying so.” Ren smiled, and took her hand. He bent over and kissed it as if she were a Lady. “Have a good day.”
+
+The receptionist blushed so hard her face was bright red. “Y-y-yes, M-my L-lord.” She managed to say. “I will... I mean I did... I mean... thank you!” She said, and her face became even redder somehow. “For visiting! Not for... oh, for that, too!” She used her free hand to cover her face. “I'm so embarrassed!”
+
+“Please accept my apologies for embarrassing you.” Ren said and kissed her hand again. “That wasn't my intention.”
+
+“It... it's all right, M-my L-lord.” The receptionist said, but she still had her face covered with a hand and held onto Ren's hand with the other. “It's my fault for... I should be used to... oh, I don't know what to say!”
+
+Ren reached out and moved her hand from her face and down to her other hand, then held onto both of them.
+
+“I'm sorry I made you so flustered.” Ren said, because he knew it was his Prince Charming title that was at fault this time. “I guess I'm just too irresistible for you to resist.”
+
+“My Lord, I...”
+
+“I hope you don't tear off your tunic and ask me to ravage you.” Ren said. “That would be just terrible!”
+
+The receptionist snorted a laugh. “My Lord...”
+
+“Yes, if you threw yourself on me and covered me with kisses, it would be the most horrendous thing I've ever experienced!”
+
+The receptionist chuckled.
+
+“I shudder at the thought of your wanton advances! I'll put up a valiant fight, mind you; but, I'll eventually succumb to you trying to take advantage of me! Oh! The horror!”
+
+The receptionist laughed for several moments, and Ren saw that she was no longer flustered and was over her embarrassment.
+
+“My Lord.” The receptionist said. “Thank you.”
+
+“It really was my fault.” Ren said and opened his hands to let her hands go. “Please accept my humble apologies.”
+
+“Of course, My Lord.” The receptionist said, squeezed his hands once, and let go as well. “Although, your proposed 'horror' actually sounds quite tempting.”
+
+“I'm sorry, but I'm seeing someone.” Ren said.
+
+“Like I didn't know that.” The receptionist said and chuckled. “Half of the city is talking about how you caught that scary dark elf woman, then wrecked the room at the Snoozing Bear Inn.”
+
+“Th-they are?” Ren asked, surprised.
+
+“When the Hero of Aurora runs down the street with a yelling woman thrown over his shoulder, people are going to notice.”
+
+“Oh.” Ren said. “I... ah... didn't realize...”
+
+“Just because people aren't out in the street, doesn't mean they don't see anything that happens in the street.”
+
+“Okay, that's true.” Teepo said. “Houses do have windows and doors.”
+
+Ren chuckled and the receptionist smiled.
+
+“If you decide that... well, I'm not looking for a date or anything... but...”
+
+Ren smiled. “I don't even know your name.”
+
+“That's because you don't really need to know it.” The receptionist said. “You're the Hero of Aurora. Just being in the same room with you is... well...” Her face flushed a little red.
+
+“I better go, then.” Ren said, and that made her laugh. “Tell Miss Grandure that she can leave a message for me at my shop in the Artesian District.” He said and walked to the door. “Oh, and before I forget.”
+
+Ren took out one of his iceboxes, took out two plates of food from it, and stored it again. He took out a stone brick and enchanted it with Fire, warmed up both plates and stored the stone, then handed the plates to the receptionist.
+
+“Lunch is on me.” Ren said and grinned at her surprised expression. “Goodbye, Ma'am.”
+
+“G-g-goodbye, My Lord.” The receptionist said.
+
+Ren left the house and climbed onto Princess. “Let's go and pick up Zetaya.”
+
+Princess huffed in agreement and trotted down the street at a good pace.
+
+*
+
+The head healer put the wands in her desk and discovered she had a problem. Now she had to decide who would get the wands, and who would be left out. Her office door opened without a knock, and she looked at her secretary with wide eyes as she put a plate of food in front of her.
+
+“When did you leave to make this?” Miss Grandure asked her.
+
+“I didn't.” The receptionist said. “Lord Ren gave them to me.”
+
+“That was nice of him.” Miss Grandure said and looked at the food. “I suppose I can eat it cold.”
+
+The receptionist smiled and started eating, and then laughed at her boss when she gasped at the hot meal.
+
+“How?”
+
+“I don't have any idea.” The receptionist said. “He took out this big box that was full of plates of food, did something with a stone brick for a few seconds, then passed me two warm plates.”
+
+The head healer shook her head in disbelief. I may just have to visit his county myself. She thought and ate her meal in silence. When she was done, she sighed and sat back in her chair, quite satisfied. Yes, I am definitely going to have to visit there.
+
+It was one of the best meals Miss Grandure had ever had, and the receptionist had agreed wholeheartedly.

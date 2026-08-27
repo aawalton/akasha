@@ -1,0 +1,219 @@
+---
+id: 6867f5e6-b484-5038-8315-31a438299d89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 593 - It Gets Murky"
+slug: 0593-chapter-593-it-gets-murky
+partOf: mythrans-master-of-all-continued-completed
+position: 593
+ownLength: 2670
+unit: words
+publishedAt: 2018-05-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217482/chapter-593-it-gets-murky"
+royalRoadId: "217482"
+---
+
+The two men told him the name of the ship was the Dauntless, named after its captain, and that most of the crew were as loyal to him as his own children were. They told him the route the ship took and where the incident happened, what the cargo was, the crew compliment, and they also confirmed the woman's story. It was her husband and 3 other men that had fallen overboard and captured by the Sea Dwellers. He could tell they were telling the truth because they were scared out of their wits.
+
+“Thank you, gentlemen.” Ren said, then gave them a shake.
+
+“Hey! Stop! We told you everything!” One of them yelled.
+
+“Relax, I'm just shaking off the splinters.” Ren said and turned away from the booth and stood the two men on their feet. “Stay right there.”
+
+The two men nodded several times and Ren walked over to the bartender.
+
+“Do you have a broom I can borrow?” Ren asked him.
+
+“Don't worry about it.” The bartender said and banged on the wall. “Clarence! Cleanup duty!”
+
+A young boy came out from a cubbyhole under the bar and stood up. The bartender pointed to the smashed table and the boy ran right over with a broom that was only as big as him. He made short work of all the splinters, even the ones on the seats of the booth, and took the pile of wood and shoved it inside the cold stove in the corner.
+
+“I can make you a new table.” Ren said, and the bartender shook his head.
+
+“I know yer type. It'll be all fancy and sturdy, and my customers will hurt themselves when thrown against it or over it.” The bartender smiled. “That'll hurt my business.”
+
+Ren chuckled and saw the boy pull out another flimsy table from the back room and slid it over to the booth. “I should apologize for the mess and the inconvenience; but, it was neither for you, apparently.”
+
+The bartender nodded and Ren walked over to the two men.
+
+“Have a seat, gentlemen.” Ren said, and the two men slowly sat back in the booth. He put two plates of food in front of them and they stared at them. “Enjoy the meal, and I'll be paying for your drinks for the next hour, too.”
+
+“Geez, are you crazy?” One of them asked. “We can drink a lot in an hour!”
+
+“Most sailors can.” Ren said. “In fact...” He smiled and turned to the bar. “Hey, everyone. Sorry for the ruckus. For the next hour, drinks are on me.”
+
+The patrons that had been completely quiet the entire time burst into cheers and hurrahs for him. Ren waved to them and walked over to the bartender.
+
+“Yer in for a hefty bill I think.” The bartender said.
+
+Ren took out 2 platinum coins and slid them across the bar, then leaned in to whisper. “If you give them the strong ale first to get them going, you should have a lot of change left over.”
+
+The bartender barked a harsh laugh and took the two coins. “All right, you scum. You heard the man! Free ale for an hour!”
+
+Ren had to dodge out of the way of the sailors, including the two he had just talked to, and then he left the bar. “Thanks for waiting outside.” He said to Artemis. “It was nasty in there.”
+
+“I would trudge through a hundred seedy bars by your side.” Artemis said and smiled. “But, not the hundredth and first. I have to draw the line there.”
+
+Ren snorted a laugh and put his arm around her waist. “Let's get back to the shop and check on Anabelle, then we can go to the county to get Princess.”
+
+Artemis nodded and they walked down the dock to the exit at one of the East Gates, then they walked down the street to get to the Artesian District. They stopped in the shop and saw that Anabelle had brought in all three girls for extra help.
+
+“Hi, Anabelle.” Ren said and gave her a kiss when she came over to greet him. “Now that you're so busy, I was thinking of giving you one of my Dedicated Servant Crafters.”
+
+“That would be nice...” Anabelle said and looked away.
+
+“But?” Ren asked, because he could feel her reluctance.
+
+“My King, I... I'll lose these moments with you if you have someone else here to do all the work for you.”
+
+Ren took two steps up into the air and put his hands on her shoulders. “If that's what you want, then you will never lose these moments with me.”
+
+“You promise?”
+
+“I do.” Ren said, then leaned in and kissed her cheek. “I'll come back tonight for a few hours before I have to go for Adventurer's business.”
+
+“A... few hours?”
+
+Ren nodded. “It seems I don't really have a lot of pressing matters to attend to, so I'll have some free time...”
+
+“Oh, Ren!” Anabelle said and kissed him several times. “I'll wear something nice, just for you.”
+
+“You don't have to, but I appreciate it.” Ren said.
+
+“I know you do.” Anabelle said, and she shivered slightly as she felt his emotions through their shared Freedom Aura. “Until tonight.”
+
+“Until then, my dear.” Ren said, took her hand and kissed the back of it, then he and Artemis left the shop.
+
+“She's really excited.” Artemis said.
+
+“I don't spend as much time with her as I should.” Ren said and started to run through the air. “Of course, I guess that can be said about almost everyone in my life, not just her.”
+
+Artemis flew beside him. “Lara and I definitely have the time compression advantage there.”
+
+“I'm tempted to make sanctuaries for everyone and try to get them acclimated, then I wouldn't have to worry about splitting my time up so much.”
+
+“Can you do that?” Teepo asked. “You had to modify the one you made for Lara so that we could all fit inside. With only one extra person, the enchantment quadrupled in size.” He said. “Won't having that much of a change be dangerous for new people?”
+
+“Oh, definitely.” Ren said. “That's why I've been trying to figure out a way to expand it and not increase the time compression.” He said. “Anti-time runes won't work, since that just reduces the amount of time itself, not how fast it runs.”
+
+“What you need is a way to edit spells and change how they affect what you use them on.” Teepo suggested. “I have no clue where you could learn that ability, or even if it exists.”
+
+“Me, either.” Ren said, and he ran for the few minutes to get to the county, and came to a stop in front of the Main House. “I'm going inside for a minute to visit and let them know what's going on.” He said, and went up to the apartment to see Frikara and the others. He took about half an hour to tell them all about what happened in the Water Realm and about his new quest.
+
+“I'm surprised you could get this kind of quest, considering you're a Sea Dweller.” Frikara said out of the blue. “You would think it's a conflict of interest and it goes against your own kind.”
+
+Ren stopped talking and looked at her with wide eyes, and he could feel her conflicted emotions. “Frikara, are you okay?”
+
+“I... Ren, I... don't know.” Frikara said. “Why did I say that just now?” She shook her head. “It doesn't make any sense! I know you're not really one of them...” She put a hand over her mouth. “By the gods! Why am I saying 'them' like it's a dirty word?”
+
+“Shh, it's okay.” Ren took her into his arms and she started crying. “Don't talk. I can feel the conflict inside of you.” He said and looked at the other maids. He could feel traces of the same thing in them as well. “Unfortunately, I think I won't be taking you on any adventures for a while.”
+
+“Yes, you can't trust us to have your back like this.” Navruth said, and Ren could feel her Practicality ability assert itself. “Our... decision making is... questionable right now.”
+
+“I'll look into this right away.” Ren said. “I'll let you know if I find out anything.”
+
+“No, don't.” Frikara said. “It... might...” She shook her head. “Please, go.”
+
+Ren tried to give her a kiss goodbye, and she leaned away from him and cried even harder.
+
+“Why am I... not letting you?” Frikara said as streams of tears rolled down her face. “I love you so much and... and I...”
+
+“I'm tearing you apart.” Ren said as he gained the Angered condition and stood up. “I'll make those responsible for this pay.” He said and went to the apartment door. “They will pay dearly for hurting you like this.”
+
+“R-Ren...” Frikara tried to speak, but now all of the maids were crying.
+
+“I miss you already.” Ren said and left the apartment. He ran down the stairs and to Xuunah's apartment. The door opened before he could knock.
+
+“I am unaffected by whatever it is that's changed them.” Xuunah said. “I can feel the conflict in them as well.”
+
+“If you know, then please forgive me for this.” Ren said and took two steps up into the air and kissed her. She was surprised for a moment, then Ren poured all of his love for the maids out into the shared Aura. Xuunah let her own feelings join his and accepted his loving kiss for what it was. An apology for what the maids were going through.
+
+Ren could have stayed that way forever; but, he knew it was pointless to do it for more than a few moments. “Please stay here and protect them for me, since my very presence hurts them.” He said when he broke the kiss.
+
+“But my vow...”
+
+“They are as much a part of me as you are, My Angel.” Ren said and gave her a kiss meant only for her, and her body shivered as he gave her just as much feelings of love as he did the maids. “Please, protect my heart while I cannot.”
+
+“Ren.” Xuunah said and rested her forehead against his, and he felt her love in return. “I will do my best.”
+
+“I'll come back if I find out anything.” Ren said. “Until then...”
+
+“I will watch over them for you.” Xuunah said. “You have my word.”
+
+“Thank you.” Ren said sincerely, and gave her another kiss. Xuunah sighed loudly when he broke it, because he was leaving her as well as the maids. He left the apartment and met Artemis outside, and they walked over to Princess' house beside the Main House.
+
+“I am so sorry, My King.” Princess said as she came out to meet them. Riley and Stacy were there by her side.
+
+“Not as sorry as those responsible are going to be.” Ren said and knelt by the two dogs. “I charge you with the protection of the maids and Xuunah. Guard this house and keep them safe.”
+
+Both dogs barked once and wagged their tails, and he pet them.
+
+“Thank you.” Ren said and stood up. “Princess, we have a bit of travelling to do.”
+
+“I am up for anything.” Princess responded, and followed Ren across the road.
+
+“Tee-one, I'm changing your assignment back to the business.” Ren said as they entered the warehouse, and Tee-one was already waiting for him. “Symmetra will stay and keep making anything that is needed, and the constructs will stay with her and keep an eye on things.”
+
+“We'll do our best in this time of upheaval.” Symmetra said, then picked Ren up and hugged him with all 6 of her arms. “I'm so sorry this happened.”
+
+“Me, too.” Ren said and hugged her back. “I hope it won't take long for me to fix things.”
+
+“If anyone can do it, you can.” Symmetra said and let him go.
+
+Ren, Artemis, Princess and Tee-one left the warehouse, and Ren attached a cart to Princess. Tee-one climbed inside and they went down the street to the pixie encampment. He wanted to warn them that he wasn't going to be around for a little while. When he stopped by the sign, he saw several of the 1 foot tall pixies call to the others, and a bunch of them came over.
+
+“Well, well, well. Look at you.” Suniva, the Fire-based pixie said and grinned at him. “A Sea Dweller on dry land.”
+
+Ren closed his eyes and made fists, which cracked all his knuckles, and he took a deep breath. He opened his eyes and looked at her sadly, then turned and started to walk away without saying a word.
+
+“R-Ren!” Suniva said and ran forward through the air and ran around him to face him. “It was a joke! I was joking!”
+
+“It wasn't funny.” Ren said and stopped walking. “I have to leave the maids because of it.”
+
+“Wh-what? Why?”
+
+“Whatever this new event is, it changed what they say and how they feel about things.” Artemis said. “They were crying almost hysterically when we left.”
+
+“Oh, no.” Suniva said. “Ren, I... I'm so sorry.”
+
+“I've got the Angered condition, so not much is going to set me off.” Ren said. “I could calm down, but I don't want to.” He said. “I only stopped by to tell you I might be gone for a while, depending on how long it takes to try and fix things.”
+
+“Then I'm coming with you.” Suniva said and walked over to sit on his shoulder. “I won't let you face this alone.”
+
+“I didn't mean for...”
+
+“My playful joke hurt you.” Suniva said and kissed his cheek. “Let me make it up to you.”
+
+“But...”
+
+“You're taking some of everything with you anyway.” Suniva said. “You can't say no.”
+
+Ren opened his mouth to say no, and she quickly tossed a little fireball inside. It exploded and made a large puff of smoke come out of his mouth, and Teepo, Artemis, Princess, and Tee-one laughed at the sight. He couldn't help but chuckle at the mirth they felt, and he nodded.
+
+“Thank you.” Suniva said and kissed his cheek again.
+
+Their next stop was the succubi roost, and when they were close enough for Ren's Aura to cover the entire roost, 4 of the succubi came out to greet him.
+
+“We felt your emotions, My King.” Seldanna said. “The others have someone to keep them fed, so we will come with you.”
+
+“But, I just...”
+
+“We will come with you.” Seldanna repeated. Ren sighed and she felt his acceptance, so she darted forward and kissed him on the cheek.
+
+“Hey!” Suniva said as she had to lean out of the way. “I'm right here!”
+
+“Aren't you a tasty morsel.” Seldanna said and licked her lips and locked eyes with the pixie.
+
+Suniva's hands glowed with Fire. “Just try it, horny demon!” She said. “You don't want to see what a pissed off pixie can do!”
+
+“Ooo, I'm so scared.” Seldanna said and grinned.
+
+“Seldanna.” Ren said to caution her, and she looked at his face.
+
+“She does look tasty.” Seldanna winked at him, and he felt her teasing emotions.
+
+“Give it a rest and hop aboard.” Ren said and motioned to the cart.
+
+“We're better at air patrol.” Seldanna said, and the 4 succubi lifted off and hovered around him and his group. Ren climbed onto Princess and sat down on her saddle, and the group took off into the air to travel to the starter city of Aurora. He felt bad as they left the county for an indeterminate amount of time, and he didn't know when he could come back.
+
+If Ren couldn't convince the programmers to undo what they did to the maids, then he didn't know what he was going to do next.

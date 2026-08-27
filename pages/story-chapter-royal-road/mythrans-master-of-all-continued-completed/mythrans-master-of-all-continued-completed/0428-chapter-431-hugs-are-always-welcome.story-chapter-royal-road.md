@@ -1,0 +1,239 @@
+---
+id: dc0df17a-bb67-5137-be34-2ba021cf06e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 431 - Hugs Are Always Welcome"
+slug: 0428-chapter-431-hugs-are-always-welcome
+partOf: mythrans-master-of-all-continued-completed
+position: 428
+ownLength: 3213
+unit: words
+publishedAt: 2017-11-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176180/chapter-431-hugs-are-always-welcome"
+royalRoadId: "176180"
+---
+
+“It tastes really good.” Ren said and shook the big piece of bacon he held out to the Marilith demon. One of it's 6 hands flipped it's broadsword around and jammed it down through the boar demon's leg to pin it into place, then used the free hand to take the offered meat. Ren used his hammerpick to cut off another piece for himself and started to eat.
+
+The Marilith demon slowly brought the meat to her mouth and took a small bite, and then her face lit up with a big smile. She took a huge bite and chewed it, jammed the rest of her swords into the beasts back legs, then slithered up onto the warm carcass and laid down behind and beside Ren to eat as she coiled herself up to get comfortable. She propped herself up on an elbow and used two hands to eat.
+
+“I told you it was good.” Ren said and cut off another large piece for her, then a piece for himself and stored the hammerpick. “Cooking the meat first gets rid of that corruption taste.” He said and took another bite. “Mmm! It's melting in my mouth!”
+
+The Marilith demon chuckled and put a hand on his shoulder. Ren took the hint and leaned back against her abdomen, and the two of them relaxed as they ate.
+
+*
+
+“Did... did he just...” Lisa stammered.
+
+“Stop right in the middle of a fight to eat?” Denise asked. “He sure did!”
+
+“But...”
+
+“Apparently his love for bacon can cross species barriers.” Elise said and laughed. With Lisa on her lap, it shook her a little.
+
+“You know... now that we've got a good look at the thing...” Denise said and looked at the creature, then at Elise, then back at the creature. “It looks a lot like you, Elise.”
+
+“Wh-what?”
+
+“If you ignore the glowing red eyes, remove 4 of the arms, and take a lot of the mass of hair away...”
+
+“I'm going to kill them.” Elise said hotly. “They can't use my likeness without my permission!”
+
+“They did it with Lucy.” Denise said, and the other two women looked at her. “Patty, the Mayor in Ren's city, looks like Lucy's slightly older sister.” She said. “If she had one.”
+
+Elise frowned. “Oh, those...” She clenched a hand into a fist. “They can claim fair-use of the likeness, since it's already a part of the game. Even just changing one little detail will let them do what they want with it.”
+
+“That includes you and me, too.” Lisa said, and then smiled. “I'm just glad I'm not as beautiful as you, or I'd be seeing copies of myself running around, too.”
+
+Elise smiled as she opened her fist and rested her head against Lisa's. “There's different kinds of beauty, Lisa.” She said and sighed. “I guess I can't go tearing into the tech department and demand that they change things.”
+
+“You could, but it wouldn't do anything except give them something to talk about.” Lisa said and chuckled.
+
+“I'm pretty sure they have enough to talk about now.” Elise said and smiled crookedly. “I wasn't even trying to keep my voice down during my argument with Max.”
+
+Denise chuckled. “Then I definitely regret not having a camera in the tech department!”
+
+That made Lisa and Elise laugh, and they all turned to watch the television screen to see how Ren was going to handle the rest of this encounter.
+
+*
+
+“I could kill you so easily.” The Marilith demon said between bites of cooked meat, and the tip of her tail slid up and over Ren's shoulder.
+
+“No kidding.” Ren said and used a hand to caress the offered tail. He felt it shiver slightly, and he turned to look at her. “I was thinking the same thing.”
+
+She laughed and it shook her chest, almost invitingly. Her laugh was a pleasant sound and not ominous at all. “I can feel your confidence.” She said and used her tail to wrap around his armored chest. “I could crush you before you could react.”
+
+Ren equipped the Vampiric Blood Sword and had the tip of it right in the middle of a huge crack in her armor instantly. “I know your body is resistant to piercing damage; but, your terrible armor leaves you more vulnerable than you realize.”
+
+She blinked her eyes at him for a moment, then looked at the blade.
+
+“If I may demonstrate?” Ren asked, and after a moment, she nodded. He stored the vampiric blade and reached out for her chest. She watched with intense curiosity as he used a knuckle to hit the weakest part of the armor to make it crack, then poked his finger into the space and pulled. The whole mismatched armor piece split into three pieces, and it crumbled as it fell away. The Marilith demon didn't react at all as her breasts were fully exposed, and Ren looked at her.
+
+The snake scales went up her sides and stopped just under her breasts, which left the flesh there pure and silky smooth. Her chest wasn't as big as Elise's was, and then he realized why he thought he had met her before.
+
+She looks like a knockoff of Elise. Ren thought in surprise, then noticed that the tips of her breasts were quite prominent, and that surprised him as well. “You don't mind being without your armor?”
+
+The Marilith demon smiled. “I only wear it when I go out to fight.” She said and two of her hands picked up the crumbled metal pieces. “It's just for show, and to modestly cover myself.” She said. “I didn't realize how... inadequate it was.” She tossed the pieces aside and looked at Ren curiously. “How did you do that?”
+
+“A skill I have let's me see weaknesses in the metal.” Ren said. “I knew if it came to a fight, I would have a distinct advantage over you.”
+
+The Marilith demon laughed. “I can attack you 6 times in less than a second, and with swords just as big as you!”
+
+“That may be true; but, I'd only have to hit you once to prove my point.”
+
+“You really believe that.” She said and leaned in close. “What if I had better armor?”
+
+“Then I'd have to think of something else.” Ren said and smiled. “I don't have to, though.”
+
+“Why do you say that?” She asked.
+
+“If you had better armor, you would have covered up that tempting body already.”
+
+The Marilith demon laughed, and it shook her chest. “You're just turned on from staring at these.” She said and cupped her breasts with two of her 6 hands. “They are twice as big as anything else you've ever seen.”
+
+Ren didn't want to contradict her, so he smiled instead. “May I touch you?”
+
+The Marilith demon opened her mouth to say no, then sighed. “I should have known you would be just like all of the rest.”
+
+Ren slowly reached out, and even though all 6 of her hands were poised to bat his hand away, she let it approach uncontested. He touched the scaled skin on her side and felt the texture, then ran his hand up to the point where the scales faded into the soft normal skin.
+
+“That is so cool.” Ren said, and he felt her emotions shift from disappointment to being intrigued. He used his other hand on her other side, and traced the edges of the faded scales, then moved his hands down to her hips and the thicker scales there. She looked down at this little man as he traced the spots between her soft skin and her scaly skin and couldn't fathom what he was trying to do.
+
+********
+
+“What the heck is he doing behind the blue screen?” Lisa asked.
+
+“Probably talking.” Elise said. “You saw what happened before the Blue Screen Protocol started.” She chuckled. “He broke her armor with just his fingers!”
+
+“That was surprising; but, not as surprising as her joining him to eat!” Denise laughed. “I thought for sure she was going to munch on him and not the piece of meat he gave her.”
+
+“Me, too.” Lisa said. “He really does have some kind of magic over women, doesn't he?”
+
+“I'd say it's his Prince Charming title playing a role.” Elise said. “He sure can work it when he wants to.”
+
+Lisa looked at her. “Is that why you haven't tried to go into the game to be with him?”
+
+Elise blinked her eyes in surprise for a moment, then looked at Lisa with wide eyes. “Wh-what makes you think that?”
+
+“Nothing, really.” Lisa said. “It's just... I'm sure there was a bunch of times that you could have gotten together with him, and you stayed out.”
+
+Elise's face flushed red and she tried to look away. Lisa put a hand on her chin and stopped her.
+
+“You can tell me if it's true.” Lisa said. “I mean, look at me. I'm cuddling with you while I sit on your lap, for pete's sake.”
+
+Elise chuckled. “All right.” She said. “I just... I wanted to keep it all real.” She admitted. “I've seen how long his blue screen sessions can be, and I'm afraid that if I... if we...” She sighed. “If I have sex with the game version of him, I won't want to have sex with the real version.”
+
+Both Denise and Lisa were surprised to hear that, and Denise put a hand on Elise's arm as Lisa put her other arm around Elise's neck and hugged her tightly.
+
+“I never imagined that a woman as strong and confident as you, would be worried about something like that.” Lisa said. On a whim, she lightly kissed Elise on the cheek. Elise's face flushed to a deep red because of it, and Lisa leaned back. “I've been with him here in real life and in VR, and each time it's special.” She said. “Doing it one way shouldn't exclude you from wanting to do it in the other.”
+
+Elise moved her hands from around Lisa's waist to around her torso. “Ren did ask me to meet him in there a few times.”
+
+“That's because he wants to show you how he would treat you if he was fine in real life.” Lisa said. “Believe me, Elise... he treats me juuuust fiiiiine.”
+
+Elise chuckled. “How can you be so cute and imply something that sounds so dirty?”
+
+“I'm going to steal Ren's line to answer that.” Lisa said and grinned. “I'm awesome.”
+
+Elise laughed and hugged her. “Yes, you are.”
+
+********
+
+Ren moved his hands up the front of the Marilith demon to feel the soft skin, then looked at her lower set of arms. His hands moved out over the shoulders and he felt the scales on the tops of the arms and the soft flesh on the underside of her arms.
+
+“Wh-what are you doing?” She asked as Ren closed his eyes and felt along her arm down to her hand, then moved his hands up to the middle set of arms and did it again. He had to stand up to reach the top two arms and felt all along them, and he opened his eyes to look at her.
+
+“I've never met anyone like you before, so I'm taking measurements.” Ren said, glanced at her chest, then looked her in the eyes. “If it's okay with you, I'll need to touch them.”
+
+“J-just do it.” She said and closed her eyes as Ren cupped her breasts and ran his hands over her mounds. She couldn't stop her moan as his palms grazed over her large and sensitive tips, and then she felt his armor as he wrapped his arms around her.
+
+“Take off your armor.” She said, and she felt his slight surprise through her telepathy.
+
+“Okay.” Ren said and stored his armor. All 6 of her arms wrapped around him to give him a hug; or so he thought.
+
+“You ignorant fool.” She said and smiled as she lifted him up 6 feet into the air. “Now I have you, and you can't escape.”
+
+Large fangs dropped down as she opened her mouth, and he could see poison as it dripped from them.
+
+“I wonder what would happen if I equipped my Vampiric Blood Sword while my hand is against your chest.” Ren said as he moved a hand to hold the fist above her heart, and he saw surprise in her eyes. The fangs folded back and she closed her mouth.
+
+“You would still be dead within moments.” The Marilith demon said.
+
+“So would you.” Ren said and grinned. “Unlike you, I won't stay that way and I'll be back here tomorrow.”
+
+“You would throw your life away so recklessly?” She asked as she eased back down to rest the both of them on the boar demon's back once more, and her 6 arms released their tight hold on him.
+
+“I have.” Ren said, and let her out of the half-hug he had her in. “I know it's kind of a cheat, knowing I can come back when I die; but, that doesn't make the death any less important.”
+
+The Marilith demon sighed. “Even with my telepathy, I cannot predict your irrational actions.”
+
+Ren chuckled. “Does that mean you can't tell that I want another hug?”
+
+She tilted her head to the side and her eyes glowed a little brighter as Ren felt a few pokes and prods in his head. “You really like hugs so much that you would accept them from a creature like me?”
+
+“Well, considering I thought you wanted my armor out of the way so you could give me a hug...” Ren chuckled. “...that would be a yes.”
+
+“You are a strange little man.” The Marilith demon said and put her arms back around him. She squeezed him a little tightly to make sure Ren knew that she could still crush him; but with his Improved Toughness, all he got was a good hug. He really liked good hugs so he put his head on her shoulder and his arms around her, and she was surprised when he squeezed her back just as tightly. The tips of her breasts poked him hard in the chest, and he leaned back and looked at her.
+
+“You like getting hugged, too?” Ren asked, and she chuckled.
+
+“Who are you?”
+
+“I'm an Adventurer, and my name is Ren.” He said. “What's your name?”
+
+“It's not pronounceable in your language.” She said, and he felt another prod in his head. “You aren't afraid of me at all, even though I just threatened to stab you with my fangs and poison you to death.”
+
+“I'm sure any other person would be scared out of their wits.” Ren said and shrugged. “You're a bit too beautiful for me to be afraid.”
+
+Her face changed slightly, and her eyes kind of flipped to reveal snake eyes, her jaw unhinged as her fangs flipped down again, and her nose extended out into almost the shape of a snake's nose. She hissed loudly as her long snake-like tongue flicked out and licked his face to taste him. Ren reached up to trace her reformed nose with one hand and used his other hand to touch her chin. He moved both hands to her jaw to feel the dislocated jawbone, then ran his fingers up to her forehead and felt the shift in bones there that allowed the larger snake eyes to sit properly.
+
+“Okay, I think I have enough measurements.” Ren said.
+
+The Marilith demon retracted her fangs, formed her face back to the human-like shape, and put her jaw back into place. “Why didn't that scare you?” She asked, confused. “I have a mirror in my lair, so I know I looked monstrous like that.”
+
+Ren chuckled. “You're trying too hard, I think.”
+
+“Excuse me?”
+
+“Just your Aura alone will scare people.” Ren said. “You don't need to alter yourself to terrify people.”
+
+“But that's the fun part.” She said and let him out of her 6 arm embrace. “They taste so much better when seasoned properly.”
+
+Ren laughed. “I'm definitely not going to be a tasty meal for you, if that's the case.”
+
+The Marilith demon sighed and moved back slightly. “I got that feeling when you stopped fighting to eat.”
+
+“It smelled too good to resist, didn't it?” Ren grinned. “I'm tempted to carve some more of it up to take with me.” He said. “I'm pretty sure you want to keep it for yourself, though.”
+
+“You are so perceptive.” She smiled. “I did summon it, so I should keep it.”
+
+“I agree, and since it's such a huge pig it should last for a while.” Ren said. “Back to the task at hand, I've got most of your measurements, but...” He looked down at her abdomen. “I'm going to have to guess about your... ah... private area.”
+
+“Hm.” The Marilith demon said. “Have I found your weakness?”
+
+“Wh-what?”
+
+“Is the brave Adventurer afraid to touch a monstrous creature...” She ran all 6 hands down her body at once. “...completely?”
+
+“Afraid? No.” Ren said and looked at her face and not at her roaming hands. “Respectful? Yes.”
+
+She bent over and put her face right in front of his. When their noses touched, Ren felt a deep prod in his brain and he didn't try to fight it. After a few moments, the Marilith demon started to breath heavily and the hands on her 2 middle arms reached out and held his upper arms, and the hands on her 2 lower arms took a hold of his wrists.
+
+“Oh... oh, you... you beast.” She puckered her lips and kissed him as the hands on her upper arms touched his shoulders and slid around his back. Since her mouth was almost twice as big as his, her lips covered his mouth and his chin. She broke the kiss a moment later and leaned back, and Ren saw a look of pleasure on her face.
+
+“Um... ma'am?”
+
+“No wonder you are not afraid of me.” She said and smiled sweetly at him. “You are the Royal Consort of the Dark Elf Queen.” Her lower hands pulled his hands in to touch her abdomen. “Please, feel free to 'measure' me in any way you wish.”
+
+Ren blinked his eyes a few times. “Um... why are you... I mean, I appreciate you letting me touch you; but...”
+
+“I 'saw' you together with her.” She smiled sexily. “You alone have done for her what no one else has ever done.” Her upper hands cupped the sides of his head and her middle hands went around his back as she slithered herself closer to him. “You satisfied her.”
+
+“I... ah... can't do that with you.” Ren said, a little sheepishly.
+
+“I know.” She said and used her fingers to fluff his hair a little. “You have commitments you must abide by.”
+
+“Then what...”
+
+“Oh, dear one.” The Marilith demon said and pushed his hands down closer to the piece of cloth that covered her private area. “I don't want my sister to have all the fun.”
+
+“S-s-sister?!?” Ren exclaimed; and Teepo chittered in laughter.

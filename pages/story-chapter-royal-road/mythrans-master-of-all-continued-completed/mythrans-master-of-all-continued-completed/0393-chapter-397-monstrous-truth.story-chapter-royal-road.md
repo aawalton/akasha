@@ -1,0 +1,295 @@
+---
+id: 1dd9628b-e660-5761-a275-9fe27e795ef8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 397 - Monstrous Truth"
+slug: 0393-chapter-397-monstrous-truth
+partOf: mythrans-master-of-all-continued-completed
+position: 393
+ownLength: 3429
+unit: words
+publishedAt: 2017-10-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169654/chapter-397-monstrous-truth"
+royalRoadId: "169654"
+---
+
+“I'm sorry about taking so long.” Ren said to Princess when he stepped out of the back door of the business.
+
+I am here to serve you, even if it is only waiting. Princess thought to him. You do not have to apologize. She huffed. What you should do is visit the others.
+
+Ren nodded and climbed onto her saddle. “Then take me to the house.”
+
+Princess ran from the business to the Housing District almost instantly, and Ren was glad that no one had been on the streets between there and here. He concentrated on the Contact Aura that he and the maids shared, and discovered that they weren't in the house.
+
+“They aren't here.” Ren said and climbed off of Princess. “I wonder where they are.”
+
+Ren walked to the front door and opened it, and when he tried to open the door to Railyse's room to check on her, he found that it was blocked. A stream of bubbles and gurgles came out of his mouth and he knocked on the door. When there was no response, Ren made the sound of a crashing wave. There was still nothing, and Ren was fed up with having his friends not treat him properly. He equipped his full set of armor for an instant and punched the door. It exploded; but not inwards like he had thought it would. It went outwards, because behind the door was a solid Wall of Water.
+
+Ren stored his armor and touched the wall. He could see it blocked both the ceiling and the walls, so he wasn't going to break through another way.
+
+“Open this barrier.” Ren said, and repeated it in the Sea Dweller language. “If you don't open up, I will remove it myself.” He thought he saw movement behind the water wall, but it distorted everything and he couldn't be sure. “Fine.”
+
+Ren enchanted the wall with Antiwater runes and it dissolved immediately; then it took the rest of the barrier with it. The small water elemental splashed out of the water and tried to attack, but Ren was having none of that. He concentrated on his Command Aura and his Water Adept skill as he caught the little creature.
+
+“Stop!” Ren commanded and used his Water Adept skill that let him shape water, to stop the water elemental from morphing. It started to squeal as Ren held it immobile, and the water of the pool rippled slightly. Railyse rose out of it, and he saw the state she was in. She looked like she was starving, and the currents of water under her translucent skin were only slowly moving. She also looked like she was having a hard time keeping her eyes open.
+
+“Dammit, I told you that you should be taking more from me!” Ren said angrily, and Railyse winced at his tone.
+
+“I'm sorry.” Railyse said.
+
+“What the hell is this?” Ren said and motioned to the walls and the small water elemental.
+
+“He was trying to protect me.”
+
+“From me.” Ren said, and his anger faded. “Why from me?”
+
+“We can feel what you have in you now.” Railyse said. “He doesn't want you to drain me.”
+
+Ren looked at the squealing water elemental, shook his head, and tossed it into the water. “I would never, ever take anything from anyone forcefully.”
+
+The small water elemental came back up to the surface and tried to shake it's arm stub at him as it bubbled and gurgled madly.
+
+“I'll stop using my skill on you, if you stop using your skills on me.” Ren told it, and it's steady stream of sound slowed down to a stop. “That's better.” He said and released his Water Adept ability's hold on the elemental. It splashed a couple of times and disappeared into the pool.
+
+“Ren, I... I'm sorry.”
+
+“Railyse.” Ren shook his head again and stepped onto the surface of the water, thanks to the Ring of Water Walking his Hand of Glory had on, and took her into his arms. “I've warned you over and over.” He said. “Your mother warned you. Your father warned you. Your brothers and sisters warned you, too.”
+
+“I can't!” Railyse said. “I can't abuse you!”
+
+“It's not abuse.” Ren said, and let his sorrow at her condition fill him up. The tears welled and started to fall, and Railyse's eyes almost bulged out of her head. She gripped his head firmly and covered his eye with her mouth. A large water tentacle formed from her hair and covered his other eye to catch those tears as well. Railyse moaned as all of his feelings for her flowed out through his tears, and she absorbed them into her being. Her body filled out to where it was supposed to be, and she stopped sucking in his tears.
+
+“By my mother's trident, you are so delicious!” Railyse said and went to start sucking on his tears again.
+
+“Stop!” Ren commanded, and she stopped with her mouth right over his eye. He stopped crying and the tentacle retracted, and she looked at him.
+
+“But... I thought...”
+
+“I can feel how much you need this.” Ren said and took out a Major Healing wand. “So, go ahead and bite me.”
+
+“I... I can't... I... I won't be able to stop!” Railyse said, and he could feel her desperation.
+
+“Railyse.” Ren said, and she felt his anger swirling below the surface, like an undercurrent in an ocean. “Either you bite me right now and feed, or I'm going to cut myself open and pour my blood down your throat!”
+
+“R-R-Ren.” Railyse stammered, and he could feel that she really liked that idea.
+
+“Kneel, Future Queen.” Ren commanded her, and she knelt. He could feel anticipation, lust, and a deep need for exactly what he was about to do. He took out his hammerpick and held the sharp plow end against his wrist. “Open wide.”
+
+Railyse opened her mouth.
+
+“Wider.”
+
+She opened it a little further.
+
+“I said OPEN YOUR MOUTH!” Ren yelled, and it echoed back to him several times. Railyse had been reluctant, because she didn't want Ren to see her so monstrous; but, she couldn't refuse his overwhelming Command Aura and opened her mouth all the way as she tilted her head back. Her teeth made an almost a perfect circle with her mouth opened all the way, and Ren could see 3 rows of sharp teeth and could count all the points if he wanted to. Ren pulled the hammerpick across his wrist and tore open the skin.
+
+Notice!
+
+You have gained the condition: Bleeding Profusely. You have 3 minutes to rectify this.
+
+Ren held his heavily bleeding wrist over Railyse's mouth and her throat worked as she swallowed the blood he poured into her. He stored the hammerpick and held the Major Healing wand at the ready. He dismissed the message popups he received without reading them. When the 3 minute timer dropped to 30 seconds, his Health had dropped a corresponding amount; and he used a charge on the wand to refill his Health without sealing the wound.
+
+The timer reset to 3 minutes and started counting down again. Railyse kept swallowing and her body started to glow. Water started to creep out of the pool and up the walls; but, Ren ignored it and didn't stop. He saw her throat convulse oddly for a moment when they had reached the 3 minute mark, and he felt a small burst of caring from her. He didn't stop and kept pouring blood down her throat. He ran the timer down to 30 seconds again and refilled his Health. He had been bleeding for 5 minutes so far, and Railyse took it all. When they reached 6 minutes, he saw Railyse's throat start to convulse erratically again, only this time he felt a strong burst of caring from her.
+
+Ren used the Major Healing wand to heal the wound, and the blood stopped flowing. “You can stop feeding.” He said to her, and her throat stopped moving. Her mouth slowly closed as she tilted her head back upright, and she had tears on her face.
+
+Ren immediately kissed them and sucked them in from one of her cheeks, then did the same to the other cheek. He could see and feel that she was saddened that he had seen her that way, and he kissed her with her own tears still in his mouth. Her body reacted without her will and she sucked in the offered fluids and wrapped her arms around him.
+
+“Ren, I'm a mon... mon...”
+
+“You are not a monster, Future Queen.” Ren said and kissed her again.
+
+“But... I drank your blood! So much that you should have died, and I didn't care!” Railyse said.
+
+Ren caressed her face. “Yes, you did.” He said. “I saw you struggle a little when we past that point. Both times.”
+
+“But...”
+
+“I can feel what you feel now. I know how much you care about me.”
+
+“Ren, how can you let me feed like this from you?” Railyse said. “It's... it's...”
+
+“Exactly what you needed.” Ren said. “Only... there's one thing missing.”
+
+“Wh-what is it?” Railyse asked. “You've given me so much already! What else could you possibly give me?”
+
+“I'll be right back.” Ren said and ran out of the room and the house. He brought out his Instant Tower right there in the middle of the rain-covered street, and it blocked off any passage. He went inside and worked for a minute to get something ready, then came out and stored the tower. People had just started to speculate about it's sudden appearance right after the rain storm, and then it was gone.
+
+Ren went into the house and slipped something into his mouth, then went in to the room with the pool. Railyse had remained on her knees and he stood in front of her. He was so happy to see that the currents under her translucent skin churned and swirled like they were supposed to.
+
+“R-Ren?” Railyse watched as Ren leaned close and opened his mouth. Her eyes widened as she caught a glimpse of a set of Sea Dweller teeth where they shouldn't have been, and then Ren bit the cheek on her face. It sent a shiver through her, and then she wrapped her arms around him and held on while he licked and sucked on her face. Ren pulled his improvised teeth out of her skin a few moments later, and licked the wound several times as he used the wand of Major Healing on her to close it.
+
+Ren felt how grateful Railyse was for everything he had just done for her. “Blare, blas wha was mushin.” He said, then laughed as he slipped out the set of fake Sea Dweller teeth and stored them. “I meant, 'there, that's what was missing'.”
+
+“Oh... oh, Ren.” Railyse said and stood up. Her legs didn't quite work right, and she had to lean on him to hold herself steady.
+
+“Are you all right?” Ren asked. “Did I overdo it?”
+
+“No, I... kind of...” Railyse cupped the side of his face and kissed him. She broke the kiss a moment later and he blinked his eyes.
+
+“Railyse, I didn't get an anointment popup.”
+
+“That's because I indulged you and your lip kissing fetish.” Railyse said, and Ren smiled.
+
+“What did you think?”
+
+“I much prefer my kisses.” Railyse said, and rubbed her cheek where Ren had kissed and fed from her, just as if he had been one of her own kind. “Yes, I definitely liked that a lot more.”
+
+“I know you did.” Ren said and grinned. “Why else would I do it?”
+
+Railyse chuckled. “Thank you.”
+
+“You're welcome.” Ren said. “Now that I've satisfied you, I have to find my maids.”
+
+“They are out running errands.” Railyse said. “I'm not sure what for, though.” She smiled. “I was in no condition to keep track of them.”
+
+Ren nodded and concentrated on Frikara, and the Sending Ring glowed. “Frikara?”
+
+“Ren!” Frikara said, surprised. “W-where are you?”
+
+“I'm at the house and wondering where you are.” Ren said. “Railyse said that you're out running errands.”
+
+“I am.” Frikara said. “We all are.” She corrected.
+
+“I stopped by to see you on my way back to the county.” Ren said. “I've got a bit more work to do out there before I can come back.”
+
+“Oh... it would be nice to see you.” Frikara said. “Um... how long?”
+
+“I've actually stayed a bit longer than I was supposed to.” Ren said. “I had hoped I'd see you and the others before I left for the rest of the day.”
+
+“We'll be right there!” Frikara said.
+
+“No, that's all right.” Ren said. “Don't try and rush back to see me. I'll just have to wait until tonight to see you.”
+
+“I... okay.” Frikara said, a little sadly. “Until tonight.”
+
+The Sending Ring stopped glowing and Ren looked at Railyse.
+
+“I guess I better go.” Ren said, and Railyse leaned down and kissed him.
+
+Notice!
+
+You have been anointed by the future ruler of the Water Realm. All water-based enchantments, spells, and abilities have additional 15% bonus to their effects for the next 24 hours.
+
+“Hey, it went up again.” Ren said. “Thank you.”
+
+“You deserve much more than that, Assistant to the Ambassador.” Railyse said.
+
+“Does that mean you've heard back from the capital city and King Alamast?”
+
+“Yes, and they said they are still discussing things.”
+
+Ren shook his head. “They are playing with fire and are going to get burned.”
+
+Railyse winced, and Ren gave her a hug.
+
+“I'm sorry, that's just a figure of speech Adventurers have.” Ren said. “It means someone is flirting with danger and are going to get hurt if they aren't careful.”
+
+“That's an odd way to phrase it.” Railyse said and hugged him back. “I will forgive you.”
+
+“Would you like another treat before I go?”
+
+“Ren, darling...” Railyse said and kissed the side of his eye where tears would form. “...stop tempting me so much.”
+
+Ren chuckled. “You're just saying that because you're full.”
+
+“Yes.” Railyse said and kissed his other eye. “You also have work to do.”
+
+“All right.” Ren said and let her out of the hug. “I'll see you later.”
+
+Railyse nodded and went to shut the door to her room. “Um... where's my door?”
+
+“In pieces.” Ren laughed and made her a new one. “Bye!”
+
+Ren left the house and climbed onto Princess' back and sat on the saddle. “The Main House, please.”
+
+Right away. Princess thought to him, then ran at a quarter of her speed until she was near the city's North Gate and Ren had her stop by the man that sold him the sunflower ale twice before. Once again, he bought the entire stock of what the man had; which put the total Ren had in inventory at 25 barrels. Ren asked him to make as much of it as he could, and added him as a contact to the business menu.
+
+“Thank you so much!” The man said.
+
+“I told you that if it was good, I'd be back to buy more.” Ren said.
+
+“You don't know what this means for me and my family.”
+
+“I have some idea.” Ren said and waved to the man, then had Princess run out the city's North Gate and around to the West Gate and the path Ren had made before. It bypassed the heavier traffic that came from the capital city, and Princess ran for all she was worth.
+
+*
+
+“I feel so bad.” Frikara said. “He came to see us and we weren't there.”
+
+“It's okay.” Sally said. “Ren is a forgiving soul.”
+
+“You don't understand.” Frikara said. “He expected us to be there, and we weren't.” She said and held back her tears. “We were all out, and he wanted to see us.”
+
+Sally pat the short woman on the shoulder. “Frikara.” She said, and then gave her a one-armed hug. “Ren is going to be happy that you went out at all.”
+
+“He... he will?”
+
+Sally nodded. “I've known him for a long time. When he finds out what you and the other girls are planning, he'll be more than happy to have missed a quick visit with you.”
+
+“I... I hope so.” Frikara said. “Otherwise, all of this planning wasn't worth missing that one moment with him.”
+
+*
+
+Lylyth, the Queen of the Dark Elves was not happy. “What is wrong with you people?” She asked her chained captives. “I've been reasonable, patient, and understanding!”
+
+“I think that is the problem.” The healer said. “They are scared, but they are not terrified of their Queen like they are supposed to be.”
+
+Lylyth sighed and rubbed her face. “I'm trying not to fall into that trap.” She said. “If I just kill indiscriminately, what would be the point? What would I gain, except unnecessary deaths?”
+
+“That. Right there. That's what's different about you.” The healer said. “You wouldn't question yourself before.”
+
+“Oh, damn.” Lylyth said and looked at her captives. None of them had said a single word to her, even when she threatened the family members she also held captive. “The Royal Consort gave me a conscience.”
+
+One of the captives laughed, and a giant spider leg formed beside Lylyth and speared him through the face. It popped out the back of his skull, and when she withdrew the leg, blood and brains plopped out of both holes and onto the stone floor.
+
+“I warned you.” Lylyth said as several large spiders picked up the tall corpse, unhooked it's chains, and carried it away. “No one disrespects me or the Royal Consort.”
+
+“My Queen.” The healer said and looked at the captives. “They disrespect you by not speaking.”
+
+All of the captives felt Terror then, and Lylyth sucked it all in and smiled.
+
+“I believe you're right.” Lylyth said and 4 giant spider legs formed around her.
+
+“My... My Queen!” One of the Dark Elven Lords said. “I... I will tell you.”
+
+“No!” One of the others said and a spider leg speared through his head as well. The spiders pulled the corpse away, and unhooked the one who offered information.
+
+“Speak and live.” Lylyth said.
+
+“The other lords and I have seen your power wane and degrade over the last few months. We knew if this was to continue, the Elves would hear of it and take advantage of it.”
+
+Lylyth walked over to her throne and sat down. “Continue.”
+
+“Grimlow had the idea to...”
+
+“Liar.” Lylyth said and two giant spider legs shot out and stopped when they touched the sides of his head. The Dark Elven Lord trembled at his almost immediate death and Terror spilled like a river from him.
+
+“My... My Queen.” He nodded. “We all gathered together and I am unsure who had the original idea.”
+
+Lylyth nodded.
+
+“We discovered then that Grimlow already had one operation set up. He wouldn't say how long he had it, but he said that it had been a complete success.”
+
+Lylyth sighed. “You were trying to build a mass of troops.”
+
+“Yes, My Queen.” The Dark Elven Lord said. “They were to be throwaway units to unleash upon the Elves, to cause them both disgust and distraction.”
+
+“Oh, that it would.” Lylyth said and tried to hold in her laughter. “Only it would work on my own army as well.”
+
+“We... ah... hadn't thought that part through, My Queen.” He said. “We were working on it, however.”
+
+Lylyth shook her head. “How many of these... operations... do you have?”
+
+“Not counting Grimlow's, since it's troop production was stopped by the Royal Consort, we have 26 of them available.”
+
+“Did... did you say twenty-six? You have twenty-six of these... ghoul factories?”
+
+“Yes, My Queen.”
+
+“Great Vasalor.” Lylyth said. “How many ghouls...”
+
+“The Royal consort killed the last batch of just over 600 from Grimlow's small-time operation. It had taken him 3 months to get that many ready. We knew his method could be more effective if made on a larger scale, so we ramped it up and can harvest at least that much from each of the other operations every month.” He smiled. “Minimum.”
+
+“...and the total so far?” Lylyth asked. She thought she would dread the answer, and she did.
+
+“They've been in full operation for 3 months, My Queen.” The Dark Elven Lord said proudly. “We have just over 50,000 ghouls ready for deployment.”

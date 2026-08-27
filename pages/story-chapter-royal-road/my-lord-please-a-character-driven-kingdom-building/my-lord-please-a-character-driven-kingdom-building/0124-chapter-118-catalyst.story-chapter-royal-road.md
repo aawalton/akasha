@@ -1,0 +1,179 @@
+---
+id: f7a2a6d8-54db-5fc2-a4cf-819d5ff133de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118 Catalyst"
+slug: 0124-chapter-118-catalyst
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 124
+ownLength: 1938
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3854904/chapter-118-catalyst"
+royalRoadId: "3854904"
+---
+
+Closing the door quickly behind him, he found himself exhaling at the mess that was Talia's little workshop.
+
+The room had once stored most of the shop’s goods, until she requested that Harlon build a separate shed.
+
+Considering it had only been meant as a storage room, the carpenter had begrudgingly cut a narrow window for ventilation when she told him about the little tests she planned to do.
+
+The narrow window did little to weaken the earthy scent from the boiling cauldron. If anything, it only gave the smell somewhere to gather before drifting back into the room, strong enough that even Harlon, who actually smoked the herbs, had winced at it.
+
+A long table had been pushed against one wall, its surface crowded with clay bowls, chipped cups, copper pans, bundles of dried stems, and strips of linen stained in various shades of red-brown.
+
+In the center of the room, another worktable held bundles of half-dried herbs and a small number of glass vials arranged with almost excessive care.
+
+Proper glassware was rare enough in this world that Talia had only managed to acquire the vials a few weeks ago after no small amount of effort.
+
+At the side of the worktable, Talia stood in front of the cauldron, leaning over a reddish-brown mixture where bits of crushed stems turned slowly beneath her ladle.
+
+Without looking up, she let out a cackle.
+
+“Who dares disturb the Lovely Witch of Ashridge!”
+
+He stared at his junior for a brief moment.
+
+“...Maybe I should just find someone else instead,” Lucien muttered, already turning back.
+
+Talia's eyes snapped upward. “Hey! Come on, Senior! At least play along a little! I am bored out of my mind trying to figure this thing out!”
+
+Lucien was still tempted to leave, only for Talia to set the ladle down on the table and hold up a palm. “I need to take a break anyway. What's up, Senior?”
+
+Knowing that if he left, she would just pester him until he told her anyway, he sighed once more before walking over to stand beside her.
+
+"The smell's so strong in here that Sera wouldn't come in," Lucien said, giving a slight nod toward the door.
+
+In response, Talia made an "OK" sign with her fingers. "Imagine what I'm dealing with then. It's not like I like this scent either, ya know!"
+
+Lucien exhaled through his nose. "Would you rather deal with an estranged family member instead?"
+
+At his words, her eyes widened before she shot him a questioning look.
+
+He shook his head. "It is not something I want to talk about here. There are more immediate matters to address."
+
+Once Talia gave a subtle nod, he was about to begin when his eyes caught on a vial set upright in a small wooden holder, the liquid inside a deeper red than what was boiling in the cauldron.
+
+His eyes narrowed as he leaned closer, only for Talia's voice to cut in.
+
+“Ah, that. Yeah, I took some of it from this.” She took out the potion she had once shown him and placed it beside the vial.
+
+Lucien glanced at her, brow raised. “Are you sure? We do not even know what that liquid is. Even finding an alchemist who could identify it would be uncertain.”
+
+A loud breath escaped her lips even as she shook her head. “Honestly? I don't know, Senior. We just don't have enough of the right tools to test anything concrete. Not to mention, it's not like the two of us studied chemistry beyond high school level.”
+
+She rested her hands on the table, staring at the two containers of substances whose effects they didn't understand. “I tried what I could with the herbs you brought back. Boiling them, drying them, filtering them through linen because apparently that counts as equipment here.”
+
+“Even tried drying the herbs in the room and out in the open under the sun to see if there was any difference.”
+
+Lucien's brow creased as he turned fully toward her. “And I assume there haven't been any changes so far?”
+
+The helpless shrug she gave him was an answer in itself. His gaze shifted to the table at the side of the room, where the apparatus that Talia had been using lay. Compared to a high school lab, it looked more like a village witch’s collection.
+
+Ashridge was nowhere near the point where it could produce such tools locally.
+
+His brief introspection was interrupted when Talia let out a chuckle.
+
+“Well, at least I get to keep my promise to that sly carpenter!”
+
+At his questioning look, she gestured to a clay bowl containing dried flecks of reddish herbs that reminded him of the ones Harlon used for his smoke pipe.
+
+Lucien shot Talia a dry look. “Is that why he actually agreed to help build another shed for you...and even offered to cut a window for this room personally?”
+
+“You bribed him with...what? A stronger version of whatever he's been smoking? Wait...shouldn't you be there right now? I thought Harlon would have dragged you over to supervise that courtyard design of yours.”
+
+Talia rubbed the back of her head sheepishly. “Kinda? But he was the one who asked first! I watched him smoke the first one closely by the way, just in case there were any...unintended side effects.”
+
+She slumped over slightly. “Not that I could tell the difference anyway. The only thing it did was make the smell a little stronger. Even Alicia and Sera could smell it in my clothes during meals.”
+
+Lucien's eyes narrowed. “...Talia. You didn't try smoking any of it, did you?”
+
+At his words, she froze then immediately began whistling innocently, looking anywhere but at him.
+
+He rubbed his temple briefly. “Even if there are plenty of villagers who smoke it...we don't know what sort of effect it would have on us, Talia.”
+
+“I know, I know! It was just a few puffs, Senior. And I made sure to do it while letting Maris know to come get me in a few hours just in case. And nothing happened anyway!”
+
+She crossed her arms, caught somewhere between frustration and embarrassment. “I don't even know why Harlon likes the thing. It already smelled awful, and somehow it tasted worse.”
+
+Grimacing, she stuck out her tongue slightly. “Bleh. Earthy, bitter, and nasty.”
+
+Lucien resisted the urge to sigh again, shaking his head. “As long as you didn't do something silly like trying to drink it.”
+
+When the sheepish look on her face grew to full-blown embarrassment, he turned slowly toward her, brow twitching. “...You didn't, right?”
+
+Talia's hands came up, palms facing toward him as if to ward off any further lecturing. “I didn't, okay! Even I am not that reckless!” When he only continued to stare at her, she looked away. “...I was tempted to try a bit...just a sip to see if anything would happen.”
+
+“I mean...smoking and drinking it wouldn't make that much of a difference, right? I just wanted to know if it did anything beyond smelling terrible.”
+
+Perhaps she did need a round of flicking after all.
+
+And yet something about her behavior struck him as odd. It reminded him faintly of a certain time back in their world, and even more recently, when she had talked excitedly about the irrigation ditch.
+
+It was the way her actions seemed to run ahead of everything else, as if stopping would let something catch up.
+
+Lucien walked closer, causing her to flinch as one hand flew up to cover her forehead, her eyes squeezing shut.
+
+She blinked in surprise when he placed his hand gently on her shoulder.
+
+For a moment, neither of them spoke. Behind her, the reddish-brown mixture continued to turn in the cauldron, filling the silence with a faint bubbling sound.
+
+“Talia,” he said at last. “Why are you rushing this much?”
+
+For a brief moment, the usual brightness in her eyes dimmed, leaving something uncertain behind before she glanced away.
+
+"W-what do you mean? Me, rushing?" She forced out a small laugh. "Come on, Senior, you know how easy going I usually am."
+
+When Lucien remained silent, merely raising his brow slightly, the smile on her face faltered before her fingers curled lightly against the edge of the table.
+
+Then she let out a long breath.
+
+"It's just...I don't want to lose my place again."
+
+His hand fell from her shoulder at her words.
+
+Taking a step back from him, she leaned against the table, eyes lowered.
+
+“If this place were gone, that would mean you'd be sent back to the capital, right?”
+
+Beyond the narrow window, the occasional echo of the children laughing near the nursery drifted through even as the silence between them deepened.
+
+He moved to lean against the table beside her, leaving a small space between them.
+
+“...You think Ashridge is the thing keeping me here.”
+
+She froze slightly at his words before giving a small nod. "...When I first found myself in this world...truth be told, I didn't know what to do with myself."
+
+“I don't particularly care about being a merchant or about the family of this body. I had just planned to gather whatever funds I could, leave Helvarn, and wander the world aimlessly...looking for anything that would take my thoughts away from losing my home.”
+
+A chuckle escaped her lips as she glanced toward him. "When I met you that day...it felt like things would be alright again, ya know?"
+
+Slowly, Lucien inclined his head. "I felt the same. My first months here were...harrowing."
+
+“And yet you aren't going to let go of your responsibility to this village...or your house either, right?” Talia cut in, looking directly at him.
+
+Lucien considered her question carefully. He could have denied it, but his junior knew him well enough that there would be no point in doing so.
+
+Talia held his gaze for a brief moment before a soft breath left her lips. She turned toward the narrow window, her fingers still curled against the edge of the table.
+
+“Ashridge...that name is fitting when you take it literally.”
+
+Her gaze remained on the strip of village visible beyond the window. “There are just so many threats around us, Senior. Elves, beasts, and even problems within the village.”
+
+She exhaled through her nose, shoulders lowering. “I guess that's why I have been rushing my research on the herbs...maybe then we won't have to ask Alicia to draw anything too advanced if we can figure out more about the magical side ourselves.”
+
+At Alicia’s name, Lucien’s gaze lowered toward the stained table. The image of her gentle smile surfaced unbidden, along with Joren’s words.
+
+For a time, neither of them spoke. From the front of the shop came Maris’s muffled voice, followed by Aisha answering too softly for him to make out the words.
+
+Maybe they were both trying to do too much.
+
+The thought reminded him of his meeting with Elias earlier, where they had been trying to solve Ashridge’s problem of coin.
+
+He looked toward the narrow window, where the sounds of the village still drifted in. "Perhaps we have been looking at this the wrong way, Talia."
+
+Talia turned back to him, the uncertainty in her expression giving way to curiosity. "What do you mean, Senior?"
+
+Lucien pushed off against the table and turned toward her. "We are trying to advance Ashridge by ourselves...when there's nearly a thousand people living within these walls."
+
+A faint smile touched his lips. "So let's give them a chance to help carry it, instead of trying to do everything ourselves."

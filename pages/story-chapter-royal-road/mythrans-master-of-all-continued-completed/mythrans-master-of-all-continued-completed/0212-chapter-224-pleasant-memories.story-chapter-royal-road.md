@@ -1,0 +1,363 @@
+---
+id: 3f7cbf95-48dd-51e2-8abf-f4f382904c8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 224 - Pleasant Memories"
+slug: 0212-chapter-224-pleasant-memories
+partOf: mythrans-master-of-all-continued-completed
+position: 212
+ownLength: 3701
+unit: words
+publishedAt: 2017-04-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129809/chapter-224-pleasant-memories"
+royalRoadId: "129809"
+---
+
+Ren woke up on the operating table. “Mwuh...”
+
+“Oh, dammit! He's awake again!”
+
+“Calm down.” Ren's father said. “Put in the next electrode.”
+
+“Not while he's awake.” Ren's mother said. “It'll skew the results.”
+
+“We can just delete the readings between 0.6 and 0.8.”
+
+“That will definitely change the results.” She said. “We need the entire scale for this to work.”
+
+“Fine.” He said, and picked up the needle.
+
+*
+
+Nathalia appeared in the operating room, and didn't know what was going on.
+
+“What in the... where am I?” She looked around, and saw a child as it lay on a table, with two people standing by him. “Who are you people?”
+
+They didn't respond, and she watched the man stick something into the child's arm. The child started to cry right away, and Nathalia ran over to help him.
+
+“Hey, stop that!” She said, and tried to push the man away. Her hands passed through him like he wasn't there. “By the gods! What's going on?”
+
+*
+
+Ren cried as the needle plunged into his arm, and then he felt dizzy.
+
+“Mwuh... moh... mommy...” He said, and then fell asleep.
+
+“There.” His father nodded. “He's out. Go ahead.”
+
+His mother started to insert yet another probe into the exposed brain cavity, gently easing it between the lobes.
+
+“If I can just get... a little more...”
+
+The heart monitor started beeping much more rapidly than normal.
+
+“Back off.” His father said. “Take another approach.”
+
+“I've got it.” His mother said. “Just... one... more... millimeter...”
+
+The heart monitor skipped a few beats, and flat lined.
+
+“Oh, look.” Ren's father said. “What a surprise. He's going into cardiac arrest.”
+
+“Shut up!” Ren's mother said, and pulled her latest attempt at a successful probe out. “Defib him. Now.”
+
+“You've gotten so nonchalant about killing our son.” He said, and used the defibrillator. “How many times has it happened this week? Two? Three?”
+
+“I said shut up!” She said, and threw the useless electrode down on the floor. “You've always been nonchalant about it.”
+
+He smiled as Ren came back to life and the heart monitor beeped at a steady fast pace. “That's because I'm not as invested in all of this as you are.”
+
+“Really?” She asked. “Who's the one buying stocks in all the companies before we sell them the data, then selling the stocks at a huge profit when they get the data to their shareholders?”
+
+“That's just business.” He said.
+
+“So is this.” She said. “Now hand me the next probe.”
+
+*
+
+Nathalia felt like screaming. The things in the room, and the words that were said, didn't make any sense to her; and then the room went dark.
+
+“What... what's going... oh, my.” Nathalia said, as the room was lit again. Only it wasn't a room this time, but a large in-ground swimming pool. She had never seen anything like it before; and she wondered what it could possibly be used for. She looked around to see if anyone was around, then gasped as she saw a young Ren come out of a door marked 'locker room'. He was followed closely by another boy, who was much larger and pushed Ren from behind.
+
+“Quit it!” Ren said as he stumbled, then turned around to face the boy. “Stop picking on me!”
+
+“I'll stop it when you stop being so easy to pick on.” The large boy said. “By the looks of you, that's not going to happen.”
+
+“If you don't stop, I'll make you stop.” Ren said.
+
+“What are you gonna do? Cry on me?” The large boy said.
+
+“Yeah, I'll cry on you. I'll cry all over you... with my foot!” Ren said and tried to kick the large boy, who laughed as he grabbed Ren's foot, and pushed. It was unfortunate that when Ren fell, he wasn't quite close enough to the pool. His legs went out from underneath him, and both of his thighs impacted on the tiled lip of the pool. Two loud cracks resounded across the empty room, and Ren screamed in pain as both legs were broken. He flopped backwards into the water, and it filled his lungs as he tried to breathe. He had no chance of swimming to safety without the use of his legs.
+
+“NOOOO!” Nathalia yelled and ran over to the water's edge, then dove into the pool. She had no idea what she was doing; but she frantically tried her best to get to Ren as he sank to the bottom.
+
+No! Please! By the gods, let me get to him! Nathalia thought as she fought against the weight of the water. Just... a little bit... more... GOT YOU!
+
+She grabbed a hold of his shirt and pulled. Someone else jumped into the water, and easily swam down to where she held Ren in the water, and pulled him from her hands. Nathalia watched as Ren was rescued, and her feet hit the bottom of the pool. She pushed off with all of her desperation to get to him, and broke the surface of the water, just in time to see someone performing CPR on him. Since she didn't know how to swim, she started to sink again, and started to flail her arms. That didn't work very well, and her head went below the water.
+
+No! Nathalia thought as she sank to the bottom of the pool again. I have to know if he's okay!
+
+She didn't realize that it was her water-soaked dress that had dragged her down, and as the room went dark, her heart longed for him even more than it had before.
+
+*
+
+Ren was sent to the sensory deprivation chamber. Even though it was his favorite place, he seemed to be spending more and more time being punished for no reason.
+
+It wasn't my fault I broke my legs. He thought, then looked down at the garbage bags taped around his legs. Boy, do they itch.
+
+He heard someone moving around outside, but didn't say anything. It would be best if they thought he was asleep.
+
+“What are you doing?” Ren's father asked.
+
+“I'm going to recreate the scenario.” Ren's mother said, and turned the water on to continue filling the chamber.
+
+“Are you crazy?” He said. “His legs are broken! He's going to try and kick his way out!”
+
+“He's asleep.” She said. “Look at the readings.”
+
+He sighed. “Fine. But if he dies again, I don't want to hear about how you missed observing it because there's no window in this thing.”
+
+*
+
+Nathalia appeared in the room with the chamber, and the same two people were standing near it. She looked around and didn't see Ren.
+
+“Why am I here, if Ren isn't?” Nathalia asked herself. She could hear running water, but couldn't see any. There was a thump from the long black thing, and her eyes widened. “No! They didn't!”
+
+Several more thumps followed the first, and Nathalia walked over to it.
+
+I hope this works. She thought, and put her hand through the chamber wall. Yes!
+
+She bent over and put her face inside, and saw Ren as he panicked.
+
+“It's all right.” Nathalia said, and Ren stopped moving. He looked at her, and his eyes went wide.
+
+“Are you an angel?” Ren whispered, because he didn't want his mother to think he was seeing things, even though he was.
+
+“No, Ren.” Nathalia said. “I'm just someone who loves you.”
+
+“Can you turn off the water? I'm running out of room in here.”
+
+“I wish I could.” She said, and reached in to take his hand. “The only thing I can touch is you.”
+
+Tears came to his eyes, but he didn't cry or sob.
+
+“I'm going to die again, aren't I?” Ren asked.
+
+Nathalia nodded and kissed his cheek.
+
+“Will I come back this time? Or can I stay here and be with you?” He said, and Nathalia's heart hurt to hear such things coming from the mouth of the man that she loved so much.
+
+“You're going to live, My Love.” Nathalia said as the last of the chamber was filled with water. Ren stared at her and gripped her hand tightly. She watched as his eyes grew dim, and he opened his mouth to take a breath that wasn't there. He didn't thrash around, or try to stop himself from drowning. It didn't take long for his hold on her hand to weaken, and then he stopped holding her hand completely.
+
+Nathalia didn't let go of his hand as the chamber was drained and the side of it was opened, and continued to hold his hand as Ren's mother took him to the floor and performed CPR on him. Ren coughed and spit up water, then looked at the beautiful woman that had so suddenly appeared.
+
+“Thank you.” He said, and gripped her hand.
+
+Then the room went black.
+
+*
+
+Ren ran on a treadmill. The steel rods in his legs worked great. He'd been running for a long time, but he didn't care. He was having fun pretending that he was running away from this life, and to a new one. One with that beautiful woman he'd seen all those months ago in the sensory deprivation chamber.
+
+I wonder where she went? He thought, then Nathalia appeared in front of him. “Hi!” Ren said to her. “Where have you been?”
+
+Nathalia looked at him with surprise on her face. “I was just in that room with you and the water.”
+
+“Really?” Ren thought about it. “Are you jumping through time?”
+
+Nathalia blinked her eyes at him. “Um... no. I'm not.” She said, unsure of what she should say; then remembered Ren would hate it if she lied to him. “I'm jumping through your memories.”
+
+Ren stared at her for a full minute, then smiled. “Boy, I'm really lucky.”
+
+Nathalia shook her head. “Unfortunately, I don't think so.” She said. “I'm only here... when you die.”
+
+Ren's steps faltered on the treadmill for a moment, then continued on as if nothing happened. “Well, at least I get to see such a beautiful sight right before I go.” He smiled. “I guess it'll be soon.”
+
+Nathalia walked over to him and passed through the treadmill like it wasn't there, and put a hand on his chest.
+
+“If you stop running, maybe you won't... won't...” Tears sprung to her eyes. “Please, Ren! Don't die on me again!”
+
+“It was only once.” Ren said.
+
+“I was at the pool, too.” Nathalia said. “I hope that idiot got what he deserved.”
+
+“He did.” Ren said. “All the kids he picked on got together, and beat the hell out of him.” He smiled. “I just wish I had seen it with my own eyes.” He said. “Mom told me all about it, though.”
+
+The heart monitor started beeping really fast, and Ren grabbed his chest.
+
+“Huh... I think... GUH!” Ren collapsed on the treadmill and fell over as the track kept going. It flung his limp body off and onto the floor.
+
+“REN!” Nathalia yelled, and went to him. The door opened and two men came in, rolled Ren over, and got his heart started again.
+
+“Was that good enough of a baseline?” One of them asked.
+
+“It should be.” The other guy said. “He ran for a long time before he collapsed.”
+
+“I can't believe he kept going until his heart gave out.”
+
+The other guy laughed. “They did say that he was a trooper, and could take a lot more than we thought he could.”
+
+“But he's just a kid.” The guy said. “Even I couldn't go that long.”
+
+“That's what makes the data worth it.” The other guy said. “If this kid can do this much, what can a full grown man do with the same training?”
+
+Nathalia held Ren's hand, and he smiled at her as the room went black again.
+
+*
+
+This recipe of death happened several more times during different experiments and operations. The last time had been when his father had been drinking too much, because the stress of doing the experiments and hiding Ren had become too much for him to bear. It was also too much for Nathalia to bear as well.
+
+“NO!” Nathalia yelled at Ren. “Stop it! You will NOT cheerfully go to your death this time!”
+
+When no one was looking, Ren turned to her and gave her a hug.
+
+“You don't know how much it's meant to me to have you here.” Ren said and let her go. “You've been a beacon of light inside all of this darkness.”
+
+“Please, Ren.” Nathalia said. “I love you. Don't... don't let them do this to you.”
+
+Ren cupped the side of her face. “But don't you see? If you're jumping through my memories like you say you are, it's already happened. Nothing I do can change it.”
+
+“Ren Neram!” Nathalia said and stomped her foot. “You just said I was a beacon of light for you! I wasn't before! I never saw any of this before! You never told me about any of this!”
+
+“Ren N-N-Neram?” He said, surprised. “My... my last name... it's not... I mean... I...” He shook his head. “How can that be my name?”
+
+“You're a part of my House!” Nathalia explained again. Ren hadn't believed her before, but perhaps now he would. “We're engaged to be married!” She put her hands on his shoulders and shook him. “YOU. LOVE. ME!”
+
+“Of course I love you.” Ren said. “You've been my own personal goddess.”
+
+goddess goddess goddess goddess goddess goddess goddess
+
+“AaaggGGGhhHHH” Ren and Nathalia screamed together, and fell to their knees. They hugged each other tightly, then looked into each other's eyes. “My Love!” They said at the same time as their eyes streamed with tears, then were surprised when a man's hand gripped Ren's shoulder.
+
+“What are you doing, boy?” His drunk father asked.
+
+Ren let Nathalia go and whirled around to stare at the man who had done so much to him.
+
+“You're going to ruin everything by getting older!” His father said. “I'm going to have to fix that!”
+
+Large strong hands gripped Ren by the neck and started to squeeze. Ren wiped the tears away from his eyes and stood up, then started to laugh because the man couldn't hold him down.
+
+“Shut your mouth!” His father said, and slapped Ren across the face. All that did was make Ren laugh harder. His father made a fist to punch him, and Ren kicked him between the legs. His father fell to his knees, with both hands holding his tender bits.
+
+“How does that feel, you bastard?” Ren asked his father, then punched him in the face. It knocked the man out cold, and he slumped to the floor. Ren turned around and held a hand out to Nathalia, who took it with a heart filled with joy. She had finally reached him.
+
+“It's time I stopped living in the past.” Ren said, and looked at her. “Let's go home, My Love.”
+
+“Nothing would please me more.” Nathalia said, and kissed him.
+
+“AS YOU WISH.” A loud booming voice said, then the room went dark.
+
+********
+
+“Oh my god.” Denise whispered, after she watched the events that happened in the game. “I hope that was all recorded.” She looked at the micro-server installed under the bed, and then at the laptop computer. “Everyone is going to want to see this.”
+
+********
+
+Ren and Nathalia woke up on the couch with searing pains in their chests.
+
+“Aggghh!” Ren said as the dagger in his forehead dissolved, and Nathalia cried from the pain she had caused him.
+
+“Don't move.” Xuunah said.
+
+Ren stared at a woman who looked a lot like Nathalia, as she stood up and grabbed the hilt of a sword that was sticking out of Nathalia's back.
+
+“Take a shallow breath.” Xuunah said. “I'll pull it out on three.”
+
+Ren knew what she was actually going to do.
+
+“One.” Xuunah smiled at him. “Two.” She yanked the sword out, and Nathalia gasped.
+
+I knew she wasn't going to wait until three. Ren thought as he grit his teeth, and Nathalia tried to get off of him.
+
+“I said don't move!” Xuunah exclaimed. “Your hearts have been cut. Let me heal you first.” She said, and the sword she held evaporated. She put a hand on Ren's chest, and one on Nathalia's back; then the hands started to glow and enveloped the two of them. Ren could actually feel his body healing from the inside out, and his eyes widened as he felt the same thing from Nathalia.
+
+“Nathalia? Are you concentrating on the House Neram pendant?” Ren asked her.
+
+Nathalia shook her head, then froze as she felt his surprise. “You aren't either, are you?”
+
+“No.” He said.
+
+“That's because you're a part of a collective now.” Xuunah said and removed her hands from them. “You won't need that crude method to feel what the other feels.”
+
+“Crude?” Ren tilted his head to the side. “I thought it was quite a breakthrough.”
+
+Xuunah smiled sadly. “I suppose with your limited intelligence, it would be.”
+
+“Mother!” Nathalia said, and turned her head to look at the woman.
+
+“I guess that explains why you look like her.” Ren said to Xuunah. “But I've seen similar things before.” He smiled. “Asking you for proof that you're her real mother would be pointless, wouldn't it?”
+
+Xuunah nodded. “I thought she had died when her father did.” She said. “Nathalia was only 4 years old at the time. She wouldn't remember much from that long ago.”
+
+“Did you kill them?” Nathalia asked, as she slid off of Ren's lap to sit beside him.
+
+“Who?”
+
+“The men that kidnapped you and killed my father.”
+
+Xuunah's eyes widened because of her words, then she smiled. “Yes, I did.”
+
+“Good.” Nathalia said. “You're right. I don't remember much of anything... except for that day.” She made a fist. “That any being could just throw lives away like that.” She shook her head. “It took me years to understand what had happened.”
+
+Xuunah sighed. “I wish I could have spared you that experience, my daughter.”
+
+“I don't.” Nathalia said, and Xuunah took in a sharp breath. “If it didn't happen, it would have changed all of the other things that happened after that...” She looked at Ren. “...and I wouldn't be where I am today.”
+
+“That is an enlightened philosophy.” Xuunah said, proud of her daughter.
+
+“Ren told me that.” Nathalia said, and Xuunah looked at him with surprise clearly on her face. “He also made me believe it.”
+
+Xuunah didn't say anything in response.
+
+“Now what?” Ren asked her.
+
+“Nathalia has to stop using her ability.” Xuunah said. “No matter what, you must not use it again.”
+
+“I'd ask you why, but you aren't going to tell me.” Nathalia said, and Xuunah shook her head.
+
+“I would like to, but I'd be in breach one of the tenets of the faith.” She said. “But that doesn't matter.” She looked intently at her daughter. “You must never... ever... use your ability.”
+
+Nathalia looked at Ren, then back at her mother. “I don't know if I can promise that I won't.”
+
+“She won't.” Ren said. “I'll make sure that she doesn't.”
+
+“How will you do that?” Xuunah asked him. “You can't watch her every moment of every day.”
+
+“I'd like to.” Ren said, and took Nathalia's hand. “But, I'm an Adventurer. I literally can't be here all the time.” He turned to Nathalia. “All I can do, is ask the woman that I love to not interfere like she has. Not anymore.”
+
+Nathalia looked at him, and sighed. “Is that what you really want?”
+
+“Of course not.” Ren said, and he felt her surprise at his answer. “I'd rather have you watching my back as much as you can.” He said, and lifted her hand and kissed the inside of her wrist. “If your ability is going to put you at risk for something we don't know about...” He smiled. “...I'd want you safe before you concerned yourself with my welfare.”
+
+“My daughter...” Xuunah said. “You have chosen... wisely.”
+
+Nathalia lifted Ren's hand and kissed the inside of his wrist. “I know I have.”
+
+Xuunah sighed, then smiled. “I must leave.”
+
+“What?!?” Nathalia exclaimed. “You just got here!”
+
+“It's been several weeks since I haven't been in my own realm. If I do not return, the questions I have to answer will be harder to respond to.”
+
+“But... but...” Nathalia thought about arguing, but knew it was pointless.
+
+“Do not worry, little one.” Xuunah said. “Now that I know you still exist, I will watch over you.”
+
+Nathalia looked at her mother longingly. “We'll never speak again, will we?”
+
+Xuunah turned to Ren. “If the man you love finishes the Church, you can come and speak to me.”
+
+Ren nodded, and Nathalia gripped his hand tightly.
+
+“Who... who do I ask for?” Nathalia asked. Tears flowed from her eyes and she dropped her head, because she didn't remember her own mother's name.
+
+“Do not be sad, little one.” Xuunah said. “You've never heard my name.”
+
+Nathalia looked up at her with a tear stained face, and her mother cupped it with both hands.
+
+“My name is Xuunah, and you can make an offering in the appropriate place to speak to me.”
+
+Nathalia let go of Ren's hand, and hugged her mother. Xuunah held her daughter tightly for several moments, then let her go.
+
+“Goodbye, little one.” Xuunah said, and a portal opened behind her. The room was flooded with light, and Ren stared at the other side. He saw the perfect scene to recreate for the stained glass window, then looked at Xuunah.
+
+“You're one of the Light.” Ren said to her, and she smiled at him. Xuunah put a finger to her lips, as if telling him to shush, then stepped through the portal. Ren watched in awe as her mortal body vanished and an oval light shape was left in it's place. The portal closed behind her, and it left the room that much darker from it's absence.

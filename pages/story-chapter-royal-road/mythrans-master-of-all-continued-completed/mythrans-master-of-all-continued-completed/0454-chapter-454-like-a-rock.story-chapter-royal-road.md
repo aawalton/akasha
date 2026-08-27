@@ -1,0 +1,321 @@
+---
+id: 89ce5b4a-23b8-5cc2-a15f-b32f9a8692e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 454 - Like A Rock"
+slug: 0454-chapter-454-like-a-rock
+partOf: mythrans-master-of-all-continued-completed
+position: 454
+ownLength: 3898
+unit: words
+publishedAt: 2017-12-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180758/chapter-454-like-a-rock"
+royalRoadId: "180758"
+---
+
+Ren stood there in the burrow and waited silently. The dirt rippled around him almost 20 minutes later, and all three Earth beings stumbled out of the walls and fell to their knees. He could feel that they were extremely depleted and went right over to them.
+
+“What do you need?” Ren asked. “Mana?”
+
+One of then managed to nod, and Ren took two of their hands. Since he was out of hands, he leaned forward and kissed the last one, then started to pour out another 6,000 Mana into the three of them. He had never done it through his lips before; but, he believed that he could, so he did it. All three responded right away as his Mana filled them again, and he felt them relax as they were revitalized. The one he was kissing put her arms around him and he felt her respond to his kiss and not the Mana.
+
+When the infusion was done, 2000 Mana to each of them, Ren let the hands of the other two go. The last one kept kissing him, though. Since he had chosen this method, he couldn't cry foul and say they shouldn't be doing it; so, he put his arms around her and kissed her back with gusto.
+
+The Earth being broke the kiss several minutes later, took a quick breath and sighed, then looked at the Earth being on her right.
+
+“I have to admit that you were right.” She said and looked back at Ren. “He has a charm all on his own.”
+
+“Um... I'm not using my Prince Charming title.” Ren said, and the three Earth beings laughed.
+
+“We aren't affected by silly mortal things like that.” The one on her left said.
+
+“Oh.” Ren said and looked at her, then back at the one on the right. “Wait, you... you really like me for me?”
+
+She chuckled and gave him a quick kiss, then stood up. “I wouldn't have volunteered to help your lands if I didn't.”
+
+Ren stepped close to her and ducked his head so that it wasn't quite hitting her chest, and gave her a tender hug. “Thank you.”
+
+The Earth being was surprised for a moment with the tenderness of his touch, then she hugged him back just as tenderly. “I will guide and grow your crops, protect your livestock, and your people will prosper.”
+
+Ren kept his arms around her and leaned back to look up at her face. “Whenever you need Mana, for any reason, I will provide it.” He said. “In fact, like I said before, I'll give you as much Mana as you want.”
+
+She cupped the sides of his face and leaned down to give him a gentle kiss. “I will hold you to that.”
+
+Ren nodded, and they let each other go.
+
+“Your impenetrable rock mountain is finished, and to your specifications.” She said a bit formally.
+
+“I appreciate your help and your diligence to the details.” Ren said.
+
+“How can you say that so confidently?” One of the others asked. “You haven't even seen it yet.”
+
+“I don't have to.” Ren said and gave them a formal bow. “Thank you, all.”
+
+“I wonder if we should try to get a similar Mana agreement.” The other said, and the first laughed.
+
+“Now, now.” She said. “He is my charge, no stealing.”
+
+Ren felt disappointment from the other two. “Would a platinum coin be enough compensation for doing this for me?”
+
+“Wh-what?”
+
+Ren took out two platinum coins and gave one to each of them. “Thank you for helping me.”
+
+The Earth beings looked at the coins in their hands, then looked at Ren. A moment later, they looked at the other Earth being, shook their heads in disbelief, and walked through the wall behind them as it rippled.
+
+“That was... quite a thank you.” The remaining Earth being said.
+
+“I had hoped so.” Ren turned to her and held out 10 platinum coins. “Thank you very much for helping me, and for getting the help that you needed to complete the task.”
+
+The Earth being took the coins from him, and he could feel her disbelief as well.
+
+“Before you go, I have a question.” Ren said and took out the pet rock he had received as loot from the Umber Hulk that had eaten his Phantom Steed. “Can you tell me what this is?”
+
+“How did you find a Rock Worm heart?” The Earth being asked, and Ren relaxed. “You are relieved to find a giant monster's heart?”
+
+“At least it's not an Umber Hulk heart.” Ren said. “I would have crushed it if it was.”
+
+The Earth being was surprised to hear this, then she saw the bit of pain in his eyes. She ran a hand through his hair as she spoke.
+
+“I should ask for that; but, I don't want to bring back anything that causes so much damage just because it exists.”
+
+“What if it was only normal-sized, or even smaller?” Ren asked. “Would that be okay?”
+
+She thought about it for several moments and then nodded. Ren took out a wand and changed the charges to the Level 5 spell Enlarge or Reduce Anything, and used it on the fist-sized rock heart. It shrunk to the next level, and he used Permanency on it, then did it again. He handed her the pebble, and she held it in her hand.
+
+Ren chuckled. “I guess you don't have pockets.”
+
+The Earth being shook her head, and Ren gave her a coin pouch for the 10 platinum coins, so she could carry them easier; and she hung the coin pouch on her wrist and held the pebble in the same hand.
+
+“Can you bring me back up to the surface? I don't want to dig up and possibly wreck something.” Ren said as he equipped his Travelling Clothes, and she held her hand out to him. He took it as the burrow closed in around them, and they rose up towards the surface. She let his hand go just before they reached the air, and he waved goodbye to her. He popped up above the dirt as if he had never been inside of it at all.
+
+“That was cool.” Ren said.
+
+“REN!” Officer Holly yelled and ran over to him. “Where have you been?”
+
+“Getting help.” Ren said and turned to look at the giant mound of dirt he had made into a roost for the succubi, and saw that it was covered with smooth impenetrable rock in the exact forms that he had wanted. To the untrained eye, it just looked like a bunch of channels that twisted and turned; but, if you followed them all, you would see that they all ended at different spots on the 300 foot by 300 foot pool.
+
+“Now to fill the pool.” Ren said and walked down inside the pool, and set up a pile of steel squares all along the bottom, and was careful to not use Wind runes to make them like hoses, because he didn't want to wash away all the work he had done. He activated them as he went along, and water started to pour out of them. He walked back up the side of the pool and stopped at the bus-like cart. The Phantom Steeds that had pulled it were gone, and he climbed up into the cart to look at the succubi.
+
+“Ladies, I haven't furnished anything yet, and I haven't added the corrupted dirt; but, your beds are still in the tower on the top.” Ren said. “I've made enough external exits that each of you can have your own private landing area and apartment; or, you can keep living together if you want.”
+
+“You really made all of that for us.” Zunala asked and stared at the mountain.
+
+“You have to promise not to involve yourselves with married couples.” Ren said, and then he smiled. “Unless both of them are involved, then that's okay.”
+
+One of the succubi chuckled, and he glanced at her.
+
+“I take it that was one reason why you didn't find anyone yet.” Ren said, and she nodded. “Just be careful, and don't ruin other people's relationships for your own pleasure.” He looked at the others. “That goes for all of you.”
+
+“We understand.”
+
+“I'm glad.” Ren said and concentrated on his Command Aura. “Now, there's one more very important thing that I need to tell you.” He said to them with a stern voice, and then grinned. “Welcome home.”
+
+The succubi had laughed at that, and each of them took a turn to give Ren a hug, then took flight and flew over to their new roost. Except for one.
+
+Ren took her off of the cart and took out his storage tower, went inside and made two sacks. One he filled with corrupted dirt for her pet dretch, and the other he filled with severed dretch legs. He came out and stored the tower, then handed her the two sacks.
+
+“Thank you so much!” She said and hugged him, then flew away to join the others.
+
+*
+
+The scout had been walking for half of the day; but, he had finally arrived at what he believed was the main settlement.
+
+“Geez, look at this place!” He said and looked at all the buildings and businesses there. “This is amazing!”
+
+The scout saw two men walk by him, and he had to look again to see if what he saw was real. The two men were identical. He shook his head and kept walking, and came to a large stone-like building.
+
+“This looks important.” He said and walked up to the door and knocked. There was no answer, so he checked the door and it was open. He went inside and saw a mattress on the floor by the front door, then noticed the door just past it that had Mayor written on it. “Just what I was looking for.” He said and knocked. The door opened a moment later, and the most beautiful woman he had ever seen stood in front of him.
+
+“Can I help you?” Patty asked.
+
+“I... um...”
+
+“Are you all right?” Patty asked.
+
+“I'm... ah... fine! I'm fine!” The scout said excitedly, and she smiled.
+
+“What brings you here?”
+
+“I'm looking for a job.” The scout said, and Patty looked at his uniform.
+
+“Did he fire you?”
+
+“N-no, ma'am.” The scout said. “I quit, especially when I learned there might be an impending battle.”
+
+“Excuse me?”
+
+“We've been watching the changes to your county for a while now, ma'am. The boss has been very interested in them.”
+
+Patty took a deep breath and let it out. “Come into my office and tell me the whole story.”
+
+“I might have quit, but I'm not a traitor.” The scout warned her. “I won't spill any secrets about the strength of his forces, their positions, or it's weaknesses.”
+
+Patty chuckled. “If you did, I would have listened to what you said and then kicked you out for your lack of character.”
+
+The scout opened his mouth to respond, and then smiled. “That would be fair.”
+
+Patty stepped back and held the door for him, and he entered her office full of confidence that he would get the job that she didn't know she needed him for.
+
+*
+
+Ren hopped back onto the bus-like cart and walked to the back of it to talk to Princess. “Until I make you a place to stay, you're stuck with the mattress in the Main House.”
+
+As long as I am close by. Princess thought to him and stood up.
+
+“I'll need your help to finish the walls later.” Ren said, and she huffed her agreement as she jumped out of the cart, and started to trot away. “Riley and Stacy, stick with her.” He said. “You can run around the street as long as you don't bother anyone.”
+
+The two dogs barked and jumped out of the cart to run after Princess. Ren walked back to the front of the bus-like cart and stepped down, then stored it. He looked inside the pool and saw there was barely a foot of water inside.
+
+“That's going to take a while to fill.” Ren said, then decided it needed a wall around it to make sure no one would fall in or possibly get hurt. He used Iron Wall spells to make a 4 foot high wall all along the outside of it, 5 feet from the edge, and made it permanent.
+
+“How can you do all of this?” Officer Holly asked.
+
+“I've been through a lot.” Ren said. “Hell, I've got... 50 plus levels of things I haven't even looked at yet, so I probably can do a lot more than this.”
+
+Officer Holly shook her head. “It's unbelievable.”
+
+Ren chuckled. “Walk with me back to the Main House.” He said, and they started to walk the thousand feet back to the street. “I should probably tell you that there's a strip club here as well.”
+
+“Excuuuuse me?”
+
+Ren laughed at her reaction, and her emotions were tainted with anger. “I wasn't hiding it; but, I figured I better tell you before you found out about it and tried to bust in there and arrest everyone.”
+
+“Ren, prostitution is illegal.” Officer Holly said and frowned.
+
+“Like I don't know that.” Ren said. “The customers aren't paying for sex, though.”
+
+“WHAT?!?”
+
+Ren laughed again at how scandalized she was. “It took me a while to figure it out.” He said. “The only thing the dancers actually get are tips.”
+
+“Wh-what?”
+
+“It's a neat little loophole, isn't it?” Ren asked. “No money is ever exchanged for sex. Not ever.”
+
+Officer Holly didn't know how to respond to that, and her emotions swirled and churned as she thought about it.
+
+“It's just two consenting adults having some fun.” Ren said and smiled. “Now, at the other place they worked, the owner had secret viewing rooms that people paid to watch that consensual sex...”
+
+“NO!” Officer Holly yelled, and Ren put a hand on her arm.
+
+“Easy, there.” Ren said and concentrated on his Reassurance Aura. “Once I made sure all the dancers knew what was going on, word spread fast.” He said. “The place is shut down, now.”
+
+Officer Holly calmed down, since her constantly on Truth Aura told her what he said was the absolute truth, and then her own Reassurance Aura popped into place... and merged with his.
+
+“Oh, god!” Officer Holly gasped as his emotions flooded into her, and she stopped walking.
+
+“You have a Reassurance Aura, too?” Ren asked and he stopped, too.
+
+Officer Holly stared at him with wide eyes.
+
+“Oh, sorry!” Ren said and eased back how much he shared. “Is that better?”
+
+Officer Holly couldn't believe how strong his feeling were, even toned down like they were.
+
+“I'll concentrate on something else.” Ren said and thought about what he could switch to.
+
+“NO!” Officer Holly yelled, then smiled at her over-reaction. “No, that's okay.” She said in a more normal tone. “It was just a surprise.”
+
+Ren chuckled. “I seem to hear that a lot.”
+
+Officer Holly chuckled, too. “I can imagine, especially with everyone that you have around you.”
+
+They both started walking again towards the Main House.
+
+“I haven't even looked at all the popups I missed while I was away.” Ren said.
+
+“You shouldn't ignore them like that.” Officer Holly said, wisely. “They could be telling you something important.”
+
+Ren sighed. “I think Mr. Torren was right, and jumping ahead of my normal character development is messing me up.”
+
+Officer Holly put her arm over his shoulders without thinking about it, and Ren leaned in a bit as they walked. “You need to slow down and pace yourself.” She said and gave his shoulder a squeeze. “You're probably missing out on a lot of things with all the running around you do.”
+
+Ren put his arm around her waist and rested his hand on her hip. “I know I am; but, there's just so much that I need to do first.”
+
+Officer Holly laughed as they reached the street and walked across it. “That's your problem right there.”
+
+“What do you mean?” Ren asked when they reached the Main House and he opened the door with his free hand to let Princess inside.
+
+“You don't need to do anything.” Officer Holly said. “Just sit back and relax.”
+
+Ren chuckled. “You've seen what my life is like, right?” He asked, and she nodded. “Once I get the wall finished, I'll be telling Zetaya about my plan for this world event thing.” He said. “Although, I think I'm changing one crucial detail.”
+
+“What's that?”
+
+“I can't tell you that, because it's going to be a surprise.” Ren said. “A really big surprise.”
+
+“I can feel your mischievousness.” Officer Holly chuckled. “Is what you're planning going to be bad?”
+
+“Not for me.” Ren grinned, and she shook her head.
+
+“I'm getting a naughty feeling from you.” Officer Holly said.
+
+“That's because I've got my arm around your waist, and my hand is dangerously close to slipping a little.”
+
+“Don't you dare grab my butt.” Officer Holly warned him with a deadly smile. “I let that go once.”
+
+“I appreciate that, and I won't take advantage of you like that again.” Ren said and let her hip go.
+
+Officer Holly stepped to the side away from him as she slid her arm off his shoulders, and his thumb slid across the top of her pants and the bottom edge of his hand grazed her backside.
+
+“You did that on purpose.” She said and felt his amusement.
+
+“You only said I couldn't grab it.” Ren smiled.
+
+“Do you always take things so literally?” Officer Holly asked, and couldn't help but chuckle.
+
+“Only when I'm trying to prove a point.” Ren said. “You should be careful about what you say. With the only restriction being that I couldn't grab your butt...” He grinned. “...I could have poked, prodded, slapped, massaged, licked, and even kissed it without breaking that restriction.”
+
+Officer Holly's face flushed a little red as she thought about what else he could have done to her, without grabbing it. Ren could feel her emotions swing from annoyance to being turned on and back again, and he knew that she understood what he meant as he stepped inside the doorway to the Main House.
+
+“I've got some furniture to arrange for the maids, and then for the rest of the day I'm covering the inside of the county walls.” Ren said. “While I'm busy, you might want to try the fried pieces of dough in the bakery.”
+
+“O-okay.” Officer Holly said as he shut the door, then she turned around and walked across the street to try them. She needed something to distract her from what he had said.
+
+Ren concentrated on his Contact aura, and it merged with the shared Aura that the maids had. He pat Princess and told her that he would be back down in a little while to go to the wall, and then the Mayor's door opened.
+
+“I thought I heard your voice.” Patty said and Ren smiled warmly at her.
+
+“Hi, Patty.” Ren said. “Ah... I mean, Ms. Mayor.”
+
+Patty chuckled. “I told you before that you can always call me Patty.” She stepped back and held her office door open. “I have someone I'd like for you to meet.”
+
+The scout from the next county stood up and saluted. “Sir!”
+
+“At ease.” Ren said and looked at Patty. “I assume he has some important information?”
+
+“Even without him divulging the details, yes.” Patty said. “It's very important, and it's your fault.”
+
+Ren could feel that she wasn't being accusatory with that statement; but, the scout thought she was. “If you can wait for a few minutes while I take care of something, I'll come back and we can sit down and discuss it.”
+
+“Thank you.” Patty said. “We'll both wait right here for you.”
+
+Ren nodded and ran up the stairs and stored the workbench, the glass forge and the normal forge, cleaned everything up and built a wall to cover the spot between the stairs and the apartment. He made it solid, so that the only way to get to it was through the apartment, and he put down wood planks to soften the cement floor.
+
+Ren took out the various cabinets, dressers, and dressing tables from his inventory to arrange them just like they had been at the old house, then took out one of the large mirrors he had left from working on the Pleasure Palace. He absorbed the enchantment and cut it up into 9 pieces, with each one about 3 feet by 3 feet square, enchanted them again and used his web trick to mount them behind the dressing tables. He then cut a doorway in the wall to the apartment, and the maids walked over to it.
+
+“What are you... oh, Ren!” Frikara said as she stepped into the new area. “It's wonderful!”
+
+“Mirrors!” Navruth exclaimed and ran over to her dressing table. “We can see ourselves!”
+
+Ren chuckled. “I'm sorry I didn't have them before, but I just learned how to make them.”
+
+“This is great!” Lusinia said and sat down at her dressing table, then gasped at her reflection and opened the middle drawer to pick up her brush. “Hey, why didn't anyone tell me that my hair was messy?”
+
+“We thought that was the look you were going for.” Verwynn said, and the others laughed.
+
+“I definitely wasn't!” Lusinia huffed and started to quickly brush her hair. “What's Ren going to think when he sees me like this?” She stopped brushing her hair and looked at Ren. “Um, I mean...”
+
+Ren walked over to her and she turned to face him automatically. “I think you look... delicious.”
+
+Lusinia's face flushed to a deep red as she felt his desire, and he took her hand to help her stand up. He then took her in his arms and kissed her for several minutes. He broke the kiss and she sat down on her chair, a little stunned, and she had forgotten all about her messy hair.
+
+“My hair is messy, too!” Andrela said, and Ren turned around to see her try desperately to fluff out her long and very straight red hair with her hands. When she stopped, it went back to it's natural straight state. “Dammit.”
+
+Ren laughed and walked over to her, and cupped the side of her face. “You don't need an excuse for me to kiss you.” He said and kissed her, too. Of course, this set the others off and he gave them kisses as well. When they all had their turn, he went through the apartment and out the door, then went down the stairs. He went to knock on the Mayor's door, but it was still open.
+
+“Have a seat.” Patty said when she saw him. “We have a few things to discuss.”
+
+Ren went into the office and shut the door. After listening to the scout for several minutes, he quickly discovered what his basic protection of the county had set in motion. He sighed because he hadn't intended for anything to happen, besides protecting his citizens.
+
+“Well, crap.”

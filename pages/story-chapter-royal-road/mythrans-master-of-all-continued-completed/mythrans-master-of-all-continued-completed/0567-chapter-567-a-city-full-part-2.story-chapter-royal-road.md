@@ -1,0 +1,255 @@
+---
+id: 58623642-8fd5-5876-b2d5-94a25ab79000
+page-type-slug: story-chapter-royal-road
+title: "Chapter 567 - A City Full: Part 2"
+slug: 0567-chapter-567-a-city-full-part-2
+partOf: mythrans-master-of-all-continued-completed
+position: 567
+ownLength: 3025
+unit: words
+publishedAt: 2018-04-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210876/chapter-567-a-city-full-part-2"
+royalRoadId: "210876"
+---
+
+“Valercia, are you all right?” Her father asked and took her hand, and she looked at him with wide eyes.
+
+“I'm... god, no wonder you're so happy! I feel fantastic!” Valercia said. “I feel... feel...”
+
+“Powerful.” Her father said, and she nodded.
+
+“It's probably because ghouls are unnaturally strong, and you now have a part of that in you.” Ren said. “I'm just glad you like the feeling.”
+
+“I... I saw...” Valercia's hand reached out and her hand hovered where a popup had appeared briefly. “It said I was the first of my kind.”
+
+That's understandable. Teepo thought. She is the first one you've used your Ghoul Touch ability on.
+
+Notice!
+
+Trouble Recipe Ingredient: (UNDEFINED) has been found.
+
+Wait, what? Ren thought as the popup appeared and disappeared.
+
+“Is your offer for my daughter to run your city still in effect?” The man asked.
+
+“Of course it is.” Ren said. “Why would I change my mind?”
+
+“People do have second thoughts sometimes.” He said. “Now that she's been corrupted...”
+
+“She is not corrupted and neither are you.” Ren said and let some anger out into his Aura, and everyone in his Aura caught their breath at it's strength. “None of you are corrupted. I've been corrupted before, and I've even died from it. This is not anywhere close to that.” He said, and felt their surprise. “You were sick, and now you're healed. Get over it and move on with your life.”
+
+Valercia put a hand on Ren's shoulder. “Thank you for accepting me into your domain as well.”
+
+Ren nodded. “If it's not too much trouble, perhaps you can be my emissary for this town and help people with finances and arranging transport to Walin County if they need it.”
+
+“Until we move ourselves, I'd be happy to.” Valercia said. “I'll do it from home so that we won't need a display stand or have to pay the fees.”
+
+Ren smiled and asked if she had a coin pouch. When she said no, he gave her one with 50 platinum coins in it. “This should be enough to get everyone settled and compensated for missing work while they were sick.”
+
+Valercia equipped the coin pouch and couldn't believe the amount. “My Lord, this... you can't possibly think that... how am I...”
+
+“Only give out what's needed. Don't just throw it away.” Ren said. “Once you get up to a thousand people, that's only 5 gold each.”
+
+Valercia thought about it, and then smiled. “You're right. I've only ever seen small amounts and dealt in small amounts. It never occurred to me that it's a lot when added together, or that if you have a huge amount, it's not a lot when it's broken up.”
+
+“Welcome to the world of financing.” Ren said, and she chuckled. “I have to go to the next town and see what I can do there.” He said and equipped his platinum armor as he climbed onto Princess.
+
+“I guess the next time I see you, it'll be in the starter city.” Valercia said, and Ren nodded. “Good luck, My Lord.”
+
+“Thanks.” Ren said, and Princess trotted up into the air. People gasped at the sight, then stared at Artemis as she flew up beside them. In the next moment, they disappeared from sight.
+
+********
+
+“Oh, my god.” A woman said as she tried to read the transcript of Ren's deposition. “This... this is...” She looked at the man that had handed it to her. “What the hell am I supposed to do with this?”
+
+“You've got a pending case that involves him.” Jensen said. “Orders from both Ren and the old man say to use it as judiciously as possible.”
+
+“But... it's only a patent case!”
+
+“Yeah, and that patent...” Jensen took the transcript back and flipped through a dozen pages. “...was created by experimenting on the kid.” He said and pointed to a paragraph halfway down the page as he handed it back.
+
+The woman read it for several moments, and then looked back at Jensen with shock on her face.
+
+“Yeah, it's pretty sick, isn't it?” Jensen asked. “If you think reading about it is hard, you should watch the video.” He said and shivered. “It's on the portable thumb drive attached to the top of the evidence folder.”
+
+The woman picked up the folder the transcript had come from and opened it again. Inside were pictures and reference sheets, and at the top was the thumb drive.
+
+“Make sure you're in a well-lit room and don't eat for about an hour before you try to watch it.” Jensen said. “Trust me.”
+
+“This... it's going to change the focus of the whole case.” The woman said softly.
+
+“Tell me about it.” Jensen said. “You wouldn't believe the uproar it caused on the floor below with the lawyers that had already settled their cases.” He smiled. “They think they were robbed and the settlements were far too low to be justified.”
+
+The woman shook her head. “They will never get a settlement appealed, not if they've already agreed to it and money has changed hands.”
+
+“That's what I told them.” Jensen said. “They're looking for exceptions to the Double Jeopardy rule as we speak.”
+
+The woman chuckled. “That won't fly, will it?”
+
+“Not a chance.” Jensen said and turned to leave the room, then stopped and turned back. “Say, I was thinking about going over to O'Reily's Bar for an afternoon nightcap.” He said. “Want to come with me?”
+
+“God, yes!” The woman said and put the transcript back into the folder, then tucked it into her desk drawer and locked it. “Let's go.”
+
+*
+
+“Barbi, you can't release any of this yet.” Elise said. “Several cases are still pending, and we need to keep it under wraps.”
+
+“Elise, people need to know what happened to him.” Barbi said adamantly. “His social media profile is the best platform for it!”
+
+“We can't make accusations like that.” Elise cautioned her. “You know these people are powerful and can make Ren's life... all of our lives... a living hell.”
+
+“His already was!” Barbi nearly yelled.
+
+I knew I should have left checking on the transcript until tonight. Elise sighed. “Barbi, if you put any of it out there, it will warn them and they will try to cover their tracks and get rid of any evidence that might still exist.”
+
+Barbi opened her mouth to reply hotly, then she realized Elise was right. “But, I want to do something to help him!”
+
+“You are helping him.” Elise said. “You've been doing a great job getting the fan pages under control and maintaining the show's websites.” She smiled. “Making the episodes available to watch online the next day while still maintaining the commercial contracts was a great idea.”
+
+“Getting the ads embedded along the bottom of the player and making them as unobtrusive as possible, increased the revenue on the sites by almost 300%.” Barbi smiled. “We've even started to receive bonus checks from companies for the increased volume on their own sites linked from ours.”
+
+Elise reached over and pat her hand. “Keep helping Ren like that.” She said. “Make him... make all of us... proud.”
+
+Barbi nodded and went back to work, and Elise relaxed.
+
+One potential crisis averted. Elise thought, then typed up a message. She thought about not sending it, for the same reasons she had just told Barbi; but, she had gone through a lot to get Sid Tec established, and she wanted them to get ahead of any fallout that might head their way.
+
+Elise's instincts for damage control had kicked in, and she knew that if she didn't tell Mr. Torren that VR technology was a direct result of the experiments that had been performed on Ren, it could potentially destroy the company and end the game that Ren loved so much. She couldn't let that happen, so she hit send on the message and hoped that her old boss would read her instructions with an open mind and follow them precisely.
+
+*
+
+“I don't think I'm ever going to sleep soundly again.” The elderly man that ran the law firm said to his wife. He had left the office early and met her at home, then told her all about the horrible day he had. He felt guilty that he couldn't give her any details, even though she was a lawyer that he had on retainer and she was sworn to secrecy under the lawyer-client privilege.
+
+His wife didn't need to know what had happened to know that her husband was in deep distress about it, and she handed him a glass of his favorite bourbon.
+
+“Thank you.” The elderly man said and sat down on the small leather couch in his opulent home office. His wife sat beside him as he took a sip of alcohol, then she held his hand and leaned against him. Neither of them spoke as he slowly emptied the glass, and then they looked at each other.
+
+“I love you.” The elderly man said, sincerely.
+
+“I love you, too.” His wife said, then leaned in close and kissed him.
+
+********
+
+Ren had gone around to 6 other towns and he and Artemis repeated what they did in the first town. Artemis made the offer, and Ren rode Princess around until his Aura covered everyone to heal them all. He had to keep checking the All-Seeing Mirror to make sure he found everyone, and then he thought about going to the 'front lines' of the battle that wasn't a battle.
+
+“Do I keep my word and forget about the kingdom?” Ren asked.
+
+“You can keep your word, but you can still help.” Artemis said, and told him how. Ren kissed her cheek and thanked her for the idea, and they went to where the main ghoul fighting was. None of the soldiers had heard or seen of him before; but, several of the knights knew Blair. Once that was established, they didn't try to stop Ren as he roamed across the battlefield with Princess and healed the infected. Like Artemis had suggested, it didn't stop the fighting at all. All it did was save those that could be saved, and the fighting continued.
+
+Ren checked the All-Seeing Mirror once more, and saw that a single ghoul was left on the map. He bid the soldiers good luck and farewell, then rode Princess to the spot. When he got there, he saw that it was a pile of ghoul bodies and Princess landed beside it. A moment later, he received a popup.
+
+Notice!
+
+You have healed all the ghoul infected currently in the world. Considering how many there were and how spread out they were, it is quite an achievement.
+
+Rewards: 1,000,000 XP; 100,000 Fame
+
+Notice!
+
+You have maxed out your Fame and any excess gained from this point forward will be converted to XP.
+
+I don't get the extra amount converted now? Ren thought. That sucks! I just lost 99,000 Fame!
+
+Notice!
+
+You have gained 2 new levels! You are now Level 146 and 20 stat points have been automatically allocated.
+
+You have unlocked: Fastest Crafting - Can craft items 50% faster; Craft Construct +5 (total 15)
+
+Notice!
+
+Your title 'The Unnamed King' has been upgraded to 'The Tainted King'. This title boosts all Auras to Master and grants the skill: Autocracy
+
+System Notice!
+
+Your class Artificer/Lord has been upgraded to Artificer/King.
+
+Ren dismissed the popups when he heard a shout.
+
+“HELP! Someone get me out of here! I'M TRAPPED!” A woman's shrill voice yelled. Ren and Artemis tossed ghoul bodies aside until they came to the bottom of the pile. A beautiful woman laid there, and she had her hands over her bare breasts. A piece of tattered cloth covered her waist, and she couldn't have realized that it didn't actually cover her private place.
+
+“It's all right, Ma'am.” Ren said and reached for her to help her stand.
+
+“N-no! Please, don't touch me!”
+
+“I've got her, Ren.” Artemis said and picked the woman up, then stood her on her feet. “You're okay now.”
+
+“Thank you!” The woman said and put her arms around Artemis. “You saved me!”
+
+“No, Ren did.” Artemis said. “He's the one that healed you.”
+
+“What? No, that's not possible.” The woman said. “Men are scum and they can't do anything! I don't believe you!”
+
+“Didn't you feel a burning sensation on your chest?” Artemis asked. “That happened when you were healed.”
+
+The woman let Artemis out of the hug and covered her own chest with her hands again. When she looked down, she saw the skull mark above her heart.
+
+“What is that?!?” She asked and let her breasts go to swipe at it. “Get it off! Get it off!”
+
+Ren activated his Hands of the Gods ability and chose Restoring Hands, then touched her shoulder. The woman calmed down until she turned her head and saw that it was Ren that touched her.
+
+“N-no! Let go of me!” She said and started to panic.
+
+“Look at me.” Artemis commanded, and the woman turned to look at her. “It's my hand touching you. Let the good feelings fill you, and be calm.”
+
+The woman took several deep breaths and nodded.
+
+Ren let the woman's shoulder go, took out his shop tower, and went inside for several minutes. He came back out and stored the Instant Tower, then held out a couple different outfits and undergarments to Artemis. She took them and asked the woman what she wanted, and the woman chose the conservative underwear and put them on, then dithered over the dresses.
+
+“Which one do you think looks best on me?” The woman asked and held one up as she turned from side to side, then did the same with the other dress.
+
+“If I had to choose, I'd say the blue one contrasts your dark hair and highlights your face better than the green one.”
+
+“Blue it is.” The woman said happily. “Can you help me put it on?”
+
+“I can, but you don't need me to. It's not a traditional design.” Artemis said and showed the woman the easy clasp and how the dress just slipped on and stayed in place.
+
+“This is wonderful!” The woman said and put the dress on by herself. “It's so nice to have a woman make clothes that knows what she's doing.”
+
+Either she's delusional, or she's in severe denial. Teepo thought.
+
+Yeah. Ren thought back. To be on the safe side, I'm going with severe denial.
+
+“If you'd like, we can take you home.” Artemis said, and the woman nodded and took her hand.
+
+Ren took out the carriage and hooked it to Princess, and Artemis got in with the woman because she wouldn't let Artemis' hand go.
+
+“Stay close to the ground.” Ren whispered to Princess as he checked the All-Seeing Mirror then showed her where the woman lived. Princess huffed and only went up a foot into the air and started to trot.
+
+“This is a very smooth ride.” The woman said. “It's like we're floating on air or something!”
+
+Artemis nodded and didn't say anything, and then they arrived at her home. The town was a burned out wreck and there was nothing left.
+
+“Oh, no! What happened here?” The woman asked, but she didn't get out of the carriage.
+
+“Did you have any family?” Artemis asked, and the woman shook her head.
+
+“It's only me.”
+
+“Then I guess you'll be coming with us.” Artemis said.
+
+Ren felt the woman's happiness, and her feelings of severe dependency. She needed someone to take care of her, and Ren sighed mentally. Now he had to find someone to take care of her, just so Artemis wouldn't be stuck with her; and then he had a brilliant idea. He asked Princess to take them back to the first town to visit Valercia and her father. They would know what to do with her and could find someone to keep an eye on her.
+
+Ren explained what had happened when he dropped the woman off, and she had clamped her arm onto Valercia to avoid the soldier. Valercia's father assured Ren that she would be looked after, and Ren promised to check in with them later.
+
+With that out of the way, Ren's tasks for the day were done. Princess ran as fast as she could to bring him home while Artemis flew with them. They landed outside the Main House in Walin County and Ren thanked Princess by buying her more fried dough.
+
+“Thank you, My Lord.” Princess said, even though her mouth was full, and she went into her house to lay down.
+
+“I'm going to the warehouse.” Artemis said to Ren and kissed his cheek, then walked across the street.
+
+“Now's a good time to send those forms.” Teepo said.
+
+“Good idea.” Ren said and went into the Main House and up the stairs, then into the apartment.
+
+“Hi, Ren!” Andrela said and waved, and Ren waved back.
+
+“You're in a good mood.” Ren said.
+
+“You're back.” Andrela said, and believed that was good enough of an explanation.
+
+Ren chuckled, and then he asked the maids to do him a favor. When he told them what he wanted them to do, they readily agreed and he gave them the 4,000 petitions, or 800 each, and enough platinum coins to cover any fees that might come up. He used the All-Seeing Mirror to check the hallway in front of the Hall of Records in the Dwarf Kingdom, cast the Portal spell against the wall, then gave Frikara a wand to cast Permanent Illusion over the portal on the other side to hide it.
+
+“It's going to take hours to file all of these.” Frikara warned him.
+
+“I'll keep checking on you the whole time you're gone.” Ren said as he kissed and thanked them, and they walked past him and entered the portal. He watched the All-Seeing Mirror as Frikara covered the portal with an illusion of the wall behind it, and saw them as they entered the Hall Of Records.

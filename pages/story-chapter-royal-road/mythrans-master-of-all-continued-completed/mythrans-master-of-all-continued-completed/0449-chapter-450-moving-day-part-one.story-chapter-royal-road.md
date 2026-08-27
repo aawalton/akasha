@@ -1,0 +1,345 @@
+---
+id: f05c0718-6bd6-505a-9a23-08825d491948
+page-type-slug: story-chapter-royal-road
+title: "Chapter 450 - Moving Day: Part One"
+slug: 0449-chapter-450-moving-day-part-one
+partOf: mythrans-master-of-all-continued-completed
+position: 449
+ownLength: 3800
+unit: words
+publishedAt: 2017-12-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179992/chapter-450-moving-day-part-one"
+royalRoadId: "179992"
+---
+
+Ren and the maids had plenty of time to just cuddle and spend time with each other during the night, and they made the most of it. A light touch here, a gentle caress there, and the occasional switching of cuddle places. They didn't have to talk, since they were sharing emotions, and they basked in the common pool of contentment as they held each other.
+
+Each of them thought about going just a little bit further and having sex; but, they knew that they didn't have to. Just touching and comforting each other was just as fulfilling in it's own way, now that the barrier that stopped them from doing it was gone.
+
+They all drifted in and out of sleep as the night progressed, and when the morning came, they were not only well rested, but well comforted and felt a much stronger connection with each other. Ren was the first to sit up and disrupt the rotating pile, and no one complained that the night had come to an end.
+
+“Good morning.” Ren said, and each of the maids lifted their heads up from the bed for a kiss. He chuckled and kissed each of them, then got up off the bed and equipped his clothing. “Gather up your things and put them away.” He said as he picked up his Dire Wolf Hooded Cloak and checked that the tarantula was okay, then put the cloak on. “I'll come back and pick everything up in a little while.”
+
+“What are you going to do?” Frikara asked and sat up.
+
+“First, I'm going to see if Railyse needs a feeding, and then I thought I'd pay a visit to Nathalia.”
+
+“That's a good idea.” Andrela said and got off of the bed and equipped a cute little pair of white panties. “I'm sure she'll enjoy seeing you again.” She said and started putting the things she had out on her dressing table away.
+
+“Don't forget to tell her about me.” Frikara said.
+
+“I think it's news that should delight her.” Ren said.
+
+“It delighted me, that for sure.” Frikara said in a deep voice and batted her eyelashes. He felt that she was both playing and was remembering what had happened when the contract had been replaced.
+
+Ren chuckled. “I meant that she hates your contracts just as much as I do.”
+
+“I know what you meant.” Frikara said and smiled demurely.
+
+“I'll be back.” Ren said and left the bedroom and ran down the stairs. He stopped at Railyse's door and knocked. He heard a splash and the door opened.
+
+“Hello, Ren.” Railyse said.
+
+“Hi.” Ren said. “How are you doing?”
+
+“I'm fine.” She said.
+
+“And the little ones?”
+
+“Crowded.” Railyse said and chuckled. “This pool is big; but, with three of us in there and two are growing elementals...”
+
+“I'm going to build a very large pool out in the county.” Ren said. “You won't complain about the lack of space soon.”
+
+“I'm sorry to be a bother for so long.” Railyse said. “I should be asking you to take me home, not be asking to go with you.” She sighed. “I just wish the king of the Land Dwellers would get back to me.”
+
+“Me, too.” Ren said and thought about the deadline for her mother's ultimatum. “There's only about two weeks left for them to agree to her terms.”
+
+“Yes, and you're going to make me a better place to live, and it will only be for a couple of weeks.”
+
+“Don't worry about that.” Ren said. “I've got plans for it when you go back home.”
+
+Railyse chuckled. “I should have known.”
+
+“Yep.” Ren smiled. “How are you feeling?”
+
+Railyse touched his cheek. “I don't need another taste of you quite yet.”
+
+“Don't tell me I'm too much of a good thing.” Ren said, and she laughed.
+
+“Of course you are.” Railyse said and leaned down. “Even without your title to enhance your charm.”
+
+“You can tell?”
+
+Railyse nodded. “I have felt it enough to feel it's absence.”
+
+“Do you want me to turn it back on?”
+
+“No, (bubble) (gurgle). You don't need bait on your hook.” Railyse said and smiled. “You caught me a long time ago.”
+
+Ren chuckled. “I still hear 'fish stick' when you call me that.”
+
+Railyse laughed. “Perhaps your brain is telling you to let me gobble you all up.”
+
+“Ha ha!” Ren laughed, too. “I'd have the entire Water Realm after me if you did that!”
+
+“Yes, it's a shame you would be blamed if it happened.” Railyse said and cupped the side of his face. “I'll let you know when I need another feeding.”
+
+“Okay.” Ren said and cupped the side of her face, too. “I'll be back to get you when the pool is built.”
+
+“Thank you.” Railyse said and stepped back into her room and shut the door.
+
+Ren ran up the stairs to go to the spare bedroom and see if Xuunah wanted to go with him to see Nathalia.
+
+*
+
+Officer Holly had woken up when Ren ran down the stairs, and she heard everything that he and someone else had said. Who is he talking to? She asked herself. Water realm? Feeding? She shook her head for a moment, then froze. Hold on. Did she say something about tasting him and then gobbling him all up? What the hell is going on here?
+
+*
+
+Ren knocked on the spare room's door, and a few moments later, Xuunah opened it. “Good morning.”
+
+“Good morning.” Xuunah said.
+
+“I'm heading over to the restaurant to visit Nathalia, because I want to let her know what's going on.” Ren said. “Would you like to come with me?”
+
+“Since I had planned on visiting her myself, I will accompany you.”
+
+“Great!” Ren said, equipped his fancy red suit, and held a hand out to her. “Right this way, please.”
+
+Xuunah chuckled and took the offered hand, and hid her own element's reaction to Ren. He felt it, though; but, he didn't mention it, either. He led her down the stairs and out the front door, and they walked arm-in-arm together down the street. When they reached the end of it, he pointed to two of the disguised skeleton knights on patrol and they followed.
+
+“How are they still here?” Xuunah asked and motioned to them.
+
+“They are both better and worse than a normal skeleton.” Ren said. “The normal raised skeleton only lasts 20 minutes and can probably take a lot of damage.” He explained. “When I raised the first one, I discovered they didn't have a time limit because they were dependent on the Mana they had instead; but, they use the Mana to fix any damage done to them.”
+
+“They wouldn't last 5 minutes in an actual battle.” Xuunah said, a little disappointed that the remains of the Lost Knights were so weak.
+
+Ren nodded. “That's okay, though. I fixed them.”
+
+“What? How?”
+
+“As you can see, I armored them to the teeth and boosted their Protection.”
+
+“I did see that.”
+
+“Since they rely on Mana instead of time, I gave them +105 to Intelligence and Wisdom, then 1,020% Mana regeneration with a 10,200 Mana reserve.”
+
+Xuunah stopped walking and Ren felt her shock and stopped, too. “That... you...” She shook her head and started to walk again, and so did he. “They will never go away.”
+
+“Nope.” Ren said and chuckled. “You should have felt how happy the first one was when I did that.”
+
+“I can imagine.” Xuunah said. “You have taken a severe deficiency away and made them into eternal warriors.”
+
+“That was the intention, once I saw a way to exploit their special nature.”
+
+“You're amazing.” Xuunah said as they arrived at her daughter's restaurant.
+
+“Only when I'm awake.” Ren said and laughed at his joke, and they stood in the short line to get into the restaurant. When the doors opened, the line moved forward and more people gathered at the end of it. “This place is really popular.” He commented as the two disguised skeleton knights took up guard positions on the door. “If you don't show up early, you take your chances for getting a seat.”
+
+When they reached the woman that sat customers, he saw the huge smile on her face. “Oh, I should have known that you two knew each other.” She said. “Table for three this time, I assume?”
+
+“Please.” Ren said, and she led them to the back and a private curtained-off booth.
+
+“I'll let Nathalia know when she arrives.”
+
+“That won't be necessary.” Xuunah and Ren said at the same time, then looked at each other and laughed.
+
+“I'll send someone in with the menus.”
+
+“Thank you.” Ren said, and she left them alone. “So.” He said. “What's it like to be so tall?”
+
+“Why don't you tell me that.” Xuunah said and smiled. “I heard all about you using that Enlarge Person spell.”
+
+“That was only temporary.” Ren chuckled. “I don't think I could handle being over 9 feet tall all the time.”
+
+“But how did it feel at the time?”
+
+“Amazing.” Ren admitted. “It didn't make me more powerful; but I felt more powerful, if that makes any sense.”
+
+Xuunah smiled. “It makes perfect sense.”
+
+They both felt Nathalia as she came through the portal, and she left the back hallway, ran over to the private area and through the curtain.
+
+“You're really here.” Nathalia said and put a hand on her chest. “Just last night I was worried about you, and was so happy that my mother was here to look after you.”
+
+Ren stood up and took her into a hug. “I'm sorry I haven't been over to see you.” He said, and she chuckled.
+
+“I've been thinking the same thing.” Nathalia said and put her arms around him, and opened herself to him. “You've gone through so much.” She said, then closed her eyes as Ren opened himself up and let her feel everything he felt.
+
+Xuunah successfully closed herself off from joining in on their Collective; but it had been a close call. “Having such a deep connection is so rare.” She said out loud, and Ren and Nathalia turned to look at her. “I didn't mean to interrupt.”
+
+Nathalia reached out a hand to her. “You're looking after him, you need at least some kind of connection to him.”
+
+Xuunah shook her head. “No, he's all yours.” She said. “I don't want to muddle what you have.”
+
+Nathalia chuckled. “You know we aren't together like that, and he has... a few others to keep him busy.”
+
+Ren chuckled this time. “And you know that none of them can ever replace you in my heart.”
+
+“They know that, too.” Xuunah said, and they both felt how happy Nathalia was at the news. “None of them are fighting, or upset, or even envious of the others.”
+
+“I guess someone's been checking up on me.” Ren said, and Xuunah and Nathalia laughed.
+
+“I wanted to get to know your character, and who better to talk to than who you are intimate with?”
+
+“I'd say me, but I wasn't around.” Ren smiled. “So, what did you discover?”
+
+Xuunah stood up and took Nathalia's hand. “You are reckless sometimes and do things just because you can.” She said, and then her Light bridged across Nathalia and touched Ren. “Then you deal with the consequences with both compassion and understanding.” She smiled as she formed a limited Collective with the two of them. She took in a deep breath and let it out. “Now that I can feel you, I know all of the information I've gathered is true.”
+
+“I told you.” Nathalia said.
+
+“I desired confirmation despite that.” Xuunah said and Ren looked at her.
+
+“You... also want... an elemental bomb.” Ren said, and he felt her try to disengage. “Wait!” He reached out and touched the side of her neck, and her body tensed up as she giggled. Her self-imposed limit on their sharing disappeared, and Ren and Nathalia saw and experienced everything she had done recently, since that was the most important thing she had been thinking about. Xuunah grabbed his arm and pulled his hand away from her neck and her most vulnerable spot; but, it was too late.
+
+“By the gods.” Ren said and was so shocked that he let Nathalia go and sat down. “I... I erased most of a realm?”
+
+“This isn't the place to discuss these things.” Xuunah said.
+
+Ren rested his forehead on the table and took several deep breaths as he looked at the floor. “I only... I just didn't want to fight anymore.” He said and saw a spoon on the floor. “I warned them to let me pass, and when they refused...”
+
+“You only did what you thought would delay them.” Nathalia said. “We know that.”
+
+“I knew Light could hurt them; but, I never imagined...” Ren sighed as he picked up the spoon. “I can't believe that your realm expects me to hand that power over to them.”
+
+“If not that, then at least have you not do it to anyone else.” Xuunah said. “Mainly to our realm.”
+
+“It wouldn't work.” Ren said. “An anti-”
+
+“SHUSH!” Xunnah slapped him on the side of the head, which made his whole body jerk; and the spoon was flung out of his hand and through the curtain.
+
+“Ow.” Ren said and rubbed the spot where she had hit him.
+
+“Mother!” Nathalia admonished and knelt by Ren. “Are you okay?”
+
+“Yeah. I'm pretty tough.” Ren touched the spot and it was quite sore. He used a Minor Healing wand to fix the damage before it blossomed into a bruise. “I was trying to explain...”
+
+“What part of 'this is not the place to discuss it' do you not understand?” Xunnah asked with her hands on her hips. “Anyone can hear you!”
+
+The curtain moved and the waitress came in. “I have the menus for you.”
+
+“Thank you.” Xuunah said and switched to her Command Aura. “Three orders of eggs and toast, please.”
+
+“Right away.” The waitress said and left. She knew not to question that tone of voice and didn't even bother to ask the other two what they wanted.
+
+“That was rude.” Ren said.
+
+“She just proved my point.” Xuunah said. “She was standing right there on the other side of the curtain.”
+
+Ren opened his mouth to say that she couldn't know that for sure, but then he remembered that he hadn't heard the waitress walk up. He could hear her walk away, though.
+
+“Yes, if you had said anything else, she would have known what happened.” Xuunah said. “What would she do with that information? Do you know? I don't.” She said, then put her hand on the top of his head. “Being honest is good. Blurting out everything that comes into your head is not.”
+
+“I... okay, I understand what you're saying.” Ren said. “You didn't have to slap me, though.”
+
+“It worked, didn't it?” Xuunah said. “Just like it did when you used it for Officer Holly.”
+
+Ren thought about that. “Did it hurt you more than it did me?”
+
+Xuunah's hand moved from the top of his head and stroked his cheek, then used that hand to touch the spot over her heart. “Effective as it is, it really did hurt.”
+
+The curtain opened and the waitress brought in 3 plates of food. Ren stood up and let both women sit, then sat himself. He asked them to join hands, and he gave a quick thank you to the Earth Spirit and offered up 1,000 Mana and a gold coin. The Mana flowed out through his hand and went through Xuunah to make her gasp, then through Nathalia who also gasped, and it dissipated. A small portal opened and he put in the coin, and he received a blessing of +10% to Earth-based enchantments and effects for the next 24 hours.
+
+Xuunah and Nathalia didn't know what to say about receiving the popup, and Ren could feel their indecision.
+
+“I met the Spirit of Earth while in Shargon Caverns.” Ren said and started to eat.
+
+“You WHAT?!?” Nathalia exclaimed, and he felt shock from both of them.
+
+“I've been messing up some things on her, and she wanted to have a chat.” Ren said.
+
+“No one told us about that.” Xuunah said.
+
+“That's because no one knows.” Ren said. “I'm pretty sure it was the only time I was completely out of contact with everyone, including when I had to do Adventurer's business.” He ate a piece of toast. “I was there only briefly, in comparison to everything else I did; but, we had a nice conversation, and she agreed not to kill me for breaking her defenders, and I agreed to try and not break her defenders.”
+
+“That... doesn't sound like an agreement at all.” Nathalia said and started to eat.
+
+Ren chuckled. “I think it amused her that I wouldn't back down, so she kind of gave me a pass.”
+
+“I think that happens a lot more than you realize.” Xuunah said.
+
+“A lot more!” Nathalia said and laughed, and Xuunah and Ren joined in.
+
+*
+
+Officer Holly thought about leaving, now that Ren was out of the house and she wasn't being guarded. She assumed she wasn't being guarded; but, she didn't know for sure and would only find out if she tried to leave. She didn't want to tempt fate yet, so she equipped her Travelling Clothes and left the kitchen, then stood in front of the door across from it.
+
+I need to see what's behind this door. Officer Holly thought. Here goes nothing. She took a quick breath and knocked. The door opened, and she was immediately splashed in the face with a geyser of water; which threw her back and she landed on the floor. She was completely drenched, and she wiped the water away from her eyes and looked at the doorway. A 3 foot tall blob of water shook it's arm stub at her and bubbled and gurgled furiously. She put her hands up in a sure sign of surrender to show that she wasn't going to knock again. The water elemental gurgled at her, spit on the floor, then slammed the door shut.
+
+“By the way, you shouldn't bother Railyse unless you have legitimate business with her.” Frikara said as she came down the stairs dressed in a very stylish dress. “Her bodyguard is ruthless unless your intentions are pure.”
+
+Officer Holly shook her head and stood up. “I just wanted to meet her.”
+
+“No, that won't do it.” Frikara said and laughed. “I'm a little surprised you're just soaked.”
+
+“So, you're saying I almost bit off more than I could chew.” Officer Holly said and equipped her dress to dry off, then equipped her Travelling Clothes again.
+
+“Considering you could have been drowned on dry land? Yes.” Frikara said, and Officer Holly's mouth dropped open. “It's surprising, isn't it?” She said and held an arm out for her. “Escort me just outside of the city so I can gather up the training equipment.”
+
+“Um, sure.” Officer Holly said and took her arm. The two women left the house and walked down the street. “Are you sure this is okay?” She asked. “Me leaving the house, that is.”
+
+Frikara laughed. “You're not a prisoner, Holly.” She said and pat the other woman's arm. “He's trying to protect you.”
+
+“Wh-what?”
+
+“Your level is so low that you're a danger to yourself if you just go wandering around.” Frikara said. “The first thing he did when we came here was equip us with things to protect us.”
+
+“But, I'm not...”
+
+“No, you aren't.” Frikara said. “And you probably won't be.”
+
+“Wh-what?”
+
+“It took him a long time to get permission from the others to be with us.” Frikara said and smiled. “By us, I mean the other maids and myself; not you.”
+
+“I assumed that.” Officer Holly said. “Wait, what others?”
+
+“The ones he has a steady relationship with.” Frikara said. “They are all Adventurers of some kind, but we hardly ever see any of them.” She said. “Except the Sage of Ages. She's been a godsend the last little while when Ren was whisked away.”
+
+They passed through the North Gate of the city and turned down the road to the warehouse.
+
+“Can you tell me what happened?”
+
+“I could.” Frikara said and smiled.
+
+“Will you?”
+
+“I'll give you a quick rundown while I carry some things back.” Frikara said and started to store the training dummies and targets they had set up for training.
+
+“I'd ask what you were doing, but it's pretty obvious.” Officer Holly said. “I can't believe he's training you to fight.”
+
+Frikara laughed. “You're kidding, right?” She asked. “He doesn't know we were doing this.”
+
+“But...”
+
+“We decided to be useful to him when we heard he had gained succubi as companions.”
+
+“Excuse me?!?” Officer Holly exclaimed.
+
+“They stay in the tower next door to the house.” Frikara said. “20 of them.”
+
+“D-did you say... 20?”
+
+Frikara nodded. “They've been surprisingly quiet since they arrived, though.” She said and then told Officer Holly about Ren's adventures in Shargon Caverns. When she stored the last target, she took Officer Holly's arm to be escorted back to the house.
+
+“That's amazing.” Officer Holly said. “How did he do all of that?”
+
+“That was just a list of what he did.” Frikara said. “We'll have a couple of hours on the trip to the county to fill in the details that we know.” She thought about that, and smiled. “Actually, I should ask Ren to tell it himself.”
+
+“Will he do that with me there?”
+
+Frikara laughed. “You're assuming he's going to try and hide something from you.”
+
+Officer Holly nodded.
+
+“He doesn't do that.” Frikara said as they passed through the North Gate back into the city. “Especially if you're going to be around for a while.”
+
+“I don't know how long I'm going to be here.” Officer Holly said.
+
+Frikara pat her arm as they stepped back into the house, then let her arm go. “As long as you're here to help Ren, you can stay for as long as you want.”
+
+Officer Holly watched Frikara go up the stairs and into the main bedroom, then opened the door to the kitchen. She went inside and sat down on the bed, then started to laugh when she realized she had been outside the house... outside the entire city, in fact... and not once had she thought about running or trying to get away from Ren.
+
+Not once.
+
+That's pretty damn funny! Officer Holly thought as she laid back on the bed and laughed.

@@ -1,0 +1,189 @@
+---
+id: c243e96b-c07b-52b1-a694-7afba22c41fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 165A - Ma'am! Yes, Ma'am! (Explicit Content)"
+slug: 0152-chapter-165a-maam-yes-maam-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 152
+ownLength: 2628
+unit: words
+publishedAt: 2017-02-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117990/chapter-165a-maam-yes-maam-explicit-cont"
+royalRoadId: "117990"
+---
+
+Ren put a hand on each of her shoulders and gently pushed her away, breaking the kiss. Donna's face was full of surprise that Ren could push her away like that so easily. She still held onto his tunic, however.
+
+“Donna! I'm engaged!” Ren exclaimed.
+
+Donna got over her surprise, and chuckled. “That's the worst excuse I've ever heard.”
+
+“W-what?” Ren looked at her in shock.
+
+“I know all about dwarf marriages, Ren.” She said. “The man can sleep with whoever he wants to before the marriage ceremony.”
+
+His mouth dropped open. “H-how...”
+
+“I've known Fritz for almost as long as Donan.” Donna said. “When I found out he didn't want to serve in the military, we... drifted apart.” She shook her head. “If there's one thing I can't stand, is someone who ignores their duty.”
+
+Donna let his tunic go, and Ren relaxed; until she started to unbutton her shirt.
+
+“Donna, don't.” He grabbed her hands and stopped their movements.
+
+“Ren.” She said as she looked at her immovable hands. “I need you to do your duty as a man.”
+
+His eyes widened as she started to push against his hands and got another button undone.
+
+“What... what about Donan?”
+
+“What about him?” Donna asked. “My brother doesn't have a say in who I take to my bed.” She laughed. “I'd pound him into the ground if he tried.”
+
+“Donna... I...”
+
+“Please, Ren.” She said, and stopped struggling against him. “I've been alone for a long time.” She sighed and let her hands drop away from her shirt, and he let them go. “Do you know how hard it is, when you're with someone, and you have to be so careful when you touch them so they won't get hurt?”
+
+Ren took one of her hands and interlaced his fingers with hers. “I was on the other side of that coin before I became an Adventurer.”
+
+Donna squeezed his hand, and Ren squeezed back. She squeezed harder, and so did he. They both kept squeezing, and their eyes widened at the same time as their hands started to hurt.
+
+“I'm really tempted to use Iron Grip right now.” Ren said and grinned.
+
+“I want to use Iron Grip, too!” Donna said, much to Ren's surprise. She got a manic gleam in her eye. “At the same time!” She said. “1... 2... 3... Go!”
+
+They both used Iron Grip and tried to crush the other person's hand. Donna started to laugh as nothing happened.
+
+“Oh god, Ren!” Donna said, and ran her free hand through his hair. “You're amazing!”
+
+“You're just saying tha-” Ren's words were cut off as Donna pulled him close and kissed him again. She was enthusiastic about it, and he couldn't help himself and kissed her back. They held their hands in an Iron Grip until she broke the kiss.
+
+“My time's almost up.” Donna said, and looked at their gripped hands.
+
+“Mine's not.” Ren said and grinned. “Release in 3... 2... 1.” He opened his hand at the same time as Donna, then they flexed their fingers and smiled at each other.
+
+“You... you have to show me what else you can do.” Donna said, took a hold of Ren's hand, and placed it between her legs. His eyes widened as he felt that she was completely soaked there. He glanced at the spot, but couldn't see anything. The dark colored pants she wore seemed to hide it. Ren moved his fingers a little and Donna took in a sharp breath.
+
+“Ah... oh....” She gasped. “Do... do your duty, soldier.”
+
+“Ma'am! Yes, Ma'am!” Ren said, getting into the mood Donna was setting. He stored the uniform, leaving himself in just his underwear, and Donna scowled and pulled his hand away from her.
+
+“You are out of uniform, soldier! Drop and give me 20!”
+
+Ren looked at the floor of the small office. “Ma'am! There's no room for me to do that, Ma'am.”
+
+“Then make room!”
+
+Ren slid off of the desk, stored it, then dropped to the floor and did 20 push ups in 10 seconds. He hopped up and stood at attention as Donna stared at him.
+
+“Did you just...” She shook her head. “...only 10 seconds...”
+
+“Shall I continue?” Ren asked.
+
+Donna nodded. “Morning routine! Go!”
+
+Ren proceeded to do all the calisthenics that he did in the dwarf army in record time, and Donna's eyes glowed with delight.
+
+“You weren't lying about being in the service.” Donna said, both surprised and relieved. “You weren't... you weren't trying to fake it just so I would like you better.”
+
+“Why would I do that?” Ren asked, curious. “I didn't even know you liked military men until you told me.”
+
+“Men do all sorts of things to make women like them, Ren.”
+
+“Like what?” He asked, and put the desk back.
+
+“Like doing a half hour exercise routine in 5 minutes, without breaking a sweat.”
+
+“That?” Ren shook his head. “That was easy, even with all the weight I'm carrying.”
+
+“Then impress me, soldier!” Donna said. “Hold on. Did you say, 'all the weight you were carrying'?”
+
+Ren gave her a general rundown of what he had stored in inventory, and she stared at him.
+
+“How are you still walking upright? Even I... I couldn't...” She shook her head. “It doesn't matter. My challenge still stands. Show me something only you can do!”
+
+Ren reached up and grabbed a hold of her shirt at the shoulders, pulled it apart like it was tissue paper, and revealed her luscious breasts. He did the same to her pants before she knew what was happening, and she stood there in only her underwear, just like Ren.
+
+“Does that count?” He asked, and Donna shivered as she put a hand between her legs.
+
+“Y-y-yes.” She said, and started rubbing herself. “Oh, god... yes, it counts!”
+
+Ren grabbed her hand and stopped her movements. “Ma'am! Let me do that, Ma'am!”
+
+Donna's eyes widened slightly, and she nodded. “Permission granted.”
+
+Ren knelt in front of her and slipped the pair of underwear down her legs, then as he stood again, he picked her up easily and laid her on the desk. Donna gave that little yip of surprise, even though she knew Ren was as strong as her. Her 6 foot tall frame wouldn't fit on the desk, however; so he slid her close to himself so her head and back rested on the wood, and he supported her bottom half. Ren knelt again and spread her legs, was greeted by a golden bush, then kissed her other set of lips. Donna gasped and grabbed the sides of his head, and ground herself against his mouth as he continued to make out with her down there.
+
+Less than a minute later, she went, and Ren tried his best to swallow it all. It was quite a lot, especially since Ren didn't stop his movements. Donna's legs started to shake as she continued to go, and Ren held onto her as he kept working her over. He licked her up and down, sucked and played, and Donna kept going.
+
+“Oh... oh GOD!” Donna exclaimed, as she wrapped her legs around his back. She went once more, clenched all of her muscles at once, then collapsed. Her legs fell limply to the sides and she lost the strong grip she'd had on the sides of his head. Ren stood up and looked at her.
+
+“Ma'am, I'm tempted to keep going, but you seem to need a break, Ma'am.” Ren said. “I request permission for the return of oral stimulation.”
+
+“P-p-permission g-g-granted.” Donna stammered. Ren picked her up, turned her around, and laid her down so her back and behind were on the desk, but her head hung in the air towards him. He stored his underwear, revealing himself, and Donna stopped breathing.
+
+“It... it's so...”
+
+“I know.” Ren said. “It's a bit too bi-”
+
+“...perfect!” She said and gave him a lick. His member throbbed from the warmth of her tongue, and she smiled as she gripped his behind and pulled him in close. She licked him a few times, then opened her mouth. Ren positioned himself for her, and slid inside as she pulled. He didn't have to do anything else, as she did all the work. He looked at her body and realized that her breasts didn't really have tips, and he wondered what was up with that. He started to play with one of them, then leaned over and started to suckle. A few seconds later, the large tip popped into his mouth and he sucked on it.
+
+That was neat. Ren thought, and did the same thing to Donna's other breast. Retractable nipples!
+
+Donna sucked and licked his member as she moved him in and out of her mouth, and Ren could feel the pressure building. He could see her neck expand as she pulled him closer each time and his member went further and further down her throat.
+
+“I'm... I'm close.”
+
+“Mhwa-huh.” Donna mumbled and kept pulling him in and out slowly. Ren was tempted to go faster, but this was her fantasy; he didn't want to ruin it for her by doing more than she wanted. Donna felt his member start to throb continually, and she quickly pulled him in tight and held him there. Her bottom lip touched his abdomen, and Ren went. Donna's eyes widened as Ren kept going down her throat. She held him for several more seconds, then had no choice but to pull him out, so she could take a breath.
+
+“Mwhaa!” Donna exclaimed, as she took a breath finally. Ren kept going and splashed some on her face, and then on her chest.
+
+“It just keeps coming out!” Donna said, and gripped his member with both of her hands. Ren gasped as she stroked him vigorously, and he went again; he shot it over her head, chest, and abdomen, to land on her thigh. “Oh, Ren!” Donna said and stopped stroking him. “You're magnificent!” She started to clean him off with her tongue, her own face, then her chest. Ren took out a scrap piece of cloth and helped wipe some of it up.
+
+“This was great!” Donna said. “I never imagined... it... it's like a dream come true!”
+
+“Ma'am! I'm not finished, Ma'am.”
+
+“W-what?” She asked. “You just finished! We have to... wait... for...” Donna looked at Ren who was still rock hard. “That's not possible!”
+
+Ren picked her up and stood her on her feet. He climbed up onto the desk and sat down, then picked her up again and held her close. Donna's eyes widened as he positioned himself for entry.
+
+“Ma'am! Request permission to enter foreign territory, Ma'am.”
+
+She gripped his shoulders and smiled at him, with a gleam in her eyes. “Permission granted, soldier.”
+
+Ren eased her down onto his member, and Donna caught her breath.
+
+“Oh GOD!” Donna said, and her body gripped Ren tightly. He was only part way in, so he lifted her up and moved her down again, going in further. “Oh... oh my...” She breathed and stared at him as he did it again, getting her down a little farther. “I... I can't take...” Ren lifted her once more, then jammed her down onto himself.
+
+“Aahhhh!” Donna exclaimed as she threw her head back, and moaned. Ren tried to lift her again; but she leaned forward and pushed him to lay back on the desk, as she got her knees situated on either side of him. Once again, he didn't have to move as Donna started rocking her hips forward and back, stroking him in and out with just that motion. She stared at him as she pleased herself, and he stared back.
+
+“You... you really... are a... woman's DREAM!” Donna yelled as she went. Her body gripped Ren tightly, and he fought his body to stop it from releasing so soon. “Oh, god... go... go, please... I...” She put a hand on her abdomen. “I can feel your body needs to!” She rocked her body again, and Ren stopped fighting and let himself go. He grabbed her hips and jammed himself up and inside of her as hard and as fast as he could.
+
+“OH MY GOD!!!” Donna screamed, as the orgasm hit her unexpectedly, and Ren went with her. He didn't stop pumping, however; and they kept going together, over and over. She leaned in and kissed him, and he kept pumping into her. She screamed into his mouth as another powerful orgasm caught her, and Ren spasmed inside of her again. He held onto her, jammed tightly inside, and Donna collapsed on top of him. She broke the kiss a moment later, and laid her forehead on the desk beside him. They were both breathing heavily, and neither of them wanted to move just yet.
+
+“Ren, I...” Donna tried to catch her breath, and after another minute, she did. “Just so you know, I'm not going to profess undying love for you.” She said. “But... but...” She swallowed. “Holy fuck!”
+
+“I know.” Ren said. “That was the first time that I... that... I didn't hold back.” He said. “I used all of my Strength and Stamina.”
+
+“Me, too.” Donna whispered, and kissed his cheek. “To think that the perfect man was right there in front of me, and I never knew it until now.”
+
+“Donna, I...”
+
+“I know, Ren.” Donna said. “I know you love Nathalia.” She cupped the side of his face. “I'd never ask you to leave her. That would be too cruel to the both of you.” She leaned back onto her knees, and tried to slide up and off of him. Her body didn't want to let Ren go, and held onto him tightly. Donna spasmed again, and so did Ren. They each closed their eyes and tried to block out the sensations, and she finally disengaged. Ren went again, and covered her opening and her stomach.
+
+“I can't believe you can keep going like that.” Donna said, and stood up in front of the desk. She cleaned herself off with the scrap piece of cloth, and leaned down to lick Ren clean.
+
+“Oh, god... not yet!” Ren said, but it was too late. He went again, covered her face, and Donna laughed.
+
+“Yes, you are definitely a woman's dream.” She said and wiped off her face. “You can go just from my tongue touching you.”
+
+“You've got a great tongue.” Ren said, then took in a sharp breath as Donna slipped her mouth over him. He fought hard to keep the next spasm to himself, and she fought hard to make him give it to her. Ren knew it was a losing battle, and he finally admitted defeat and went in her mouth. She took it all easily, and when his member stopped throbbing, she slid her mouth off of him.
+
+“Ren... I know this is going to sound crazy; but...” Donna sighed. “I want you to keep coming to see me.”
+
+“Donna, you know I...”
+
+She nodded. “Now that we know we have someone else we can let ourselves be with, and not worry about injury or pain... I... I don't want to lose that.” She went to her desk and took out another shirt and pair of pants, and put them on. Ren equipped his dwarf recruit uniform and sat up. She came back around the desk and looked at him.
+
+“We've just had the best sex either of us has ever had.” Donna said. “I want that to continue.” She smiled and stepped close. “I need it to continue.”
+
+Ren didn't say anything as she ran a hand through his hair, then she leaned in to kiss him.

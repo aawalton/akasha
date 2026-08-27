@@ -1,0 +1,187 @@
+---
+id: a73d9f80-72ab-53e4-be9c-42eccca3e2d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 Conception"
+slug: 0028-chapter-26-conception
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 28
+ownLength: 1948
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3257220/chapter-26-conception"
+royalRoadId: "3257220"
+---
+
+Lucien was not a man who sought danger. In his former life, he had avoided it where possible, preferring systems that could be predicted and risks that could be calculated. Impulse had never been a defining trait of his.
+
+When he stepped forward with the shield during the Tithe, it had not been a gesture of heroism but a response to a failing structure. The line had split, and the gap required filling.
+
+He had been afraid, more than he allowed to show. Any man transplanted from a calmer age would have been.
+
+Whenever danger presented itself, his instinct had never been to rush forward, but to prepare. To stack advantage upon advantage until risk ceased to feel reckless and instead became calculated. If it could not be eliminated, it could at least be reduced.
+
+He had been reviewing the Tithe in his mind, examining what he might have executed better and where his first command had revealed its flaws.
+
+The migratory nature of the Beast Tithes was not something he could reasonably have anticipated. To expect a man to grasp the subtleties of an entirely different world without context, precedent, or accessible records was unrealistic. Some knowledge required exposure before it could be understood.
+
+He saw little benefit in revisiting errors that could not be undone. Since the Tithe’s end, he had directed his efforts toward preparation. Survival had granted him the resource he needed most.
+
+Time.
+
+That was enough to begin.
+
+A faint smile touched his lips, the restrained curve that appeared when disorder finally revealed its pattern.
+
+Next year, the flow would bend.
+
+By the time Lucien and Alicia left the cleared field where the farmers still lingered in clusters, the winter sun had begun its slow descent. The light had shifted from pale midday glare to a lower, warmer hue that caught against frost and turned it briefly to gold.
+
+Alicia walked half a step behind him, careful not to disturb the rolled parchment secured beneath her arm. The edge of charcoal smudged faintly against her fingers despite her caution. She had redrawn the mechanism twice after lunch, correcting proportions according to his description.
+
+Lucien could tell she was nervous, though it was anticipation rather than fear that stirred her.
+
+The forge came into view first. Smoke rose in a steady column, darker now that the day’s heavier smelting had slowed. The wide doors remained open to vent heat, and the glow from within stood in stark contrast to the creeping winter chill.
+
+Joren did not look up immediately when they entered. Once again the blacksmith worked on without pause, his hammer rising and falling until he deemed the iron finished. Only then did he turn his head toward them, wiping the back of his wrist across his brow without ceremony.
+
+“Lord,” he greeted simply.
+
+Harlon stood near the long worktable against the far wall, pipe unlit between his fingers, examining a set of spear hafts newly fitted for field use. He did not speak at once, his eyes moved first to Lucien, then to Alicia, then to the parchment she carried.
+
+“You asked for us late,” Joren continued, stepping away from the anvil. “Means you want something.”
+
+Lucien inclined his head. “I do.”
+
+Joren’s gaze narrowed slightly, considering. “If it’s more hinges,” he muttered, “iron’s thinner than you think.”
+
+“Not hinges,” Lucien replied evenly.
+
+Harlon shifted his weight, wood creaking faintly beneath his boots. “Gates held,” the carpenter said, as if noting a result worth saying aloud. “For what they were.”
+
+Lucien gave a small nod. “They did.”
+
+Joren snorted softly at that, as though approval of the gates was praise enough for one day.
+
+Alicia stepped forward at Lucien’s gesture. The movement drew both craftsmen’s attention more effectively than any announcement. She unrolled the parchment across the broad table.
+
+Charcoal lines spread across the page in careful strokes. A stock, a bow mounted perpendicular to it, and a simple trigger assembly, each sketched from multiple angles. Notes were written by Alicia’s neat handwriting along the margins. The script was a significant improvement compared to when she had first started learning her letters.
+
+Joren leaned in first. He fell silent for a moment, thick fingers braced against the table as he studied the drawing before letting out a slow breath. “That’s no hunting bow,” he muttered at last.
+
+“No, it is not,” Lucien agreed as Harlon moved closer, joining the blacksmith at the table at a slower pace as he studied the proportions rather than the shape.
+
+“You’re putting the weight crosswise,” he observed. “Transfers force into the stock.”
+
+Lucien nodded but said nothing, waiting for both craftsmen to continue.
+
+Harlon tapped the drawn prod with a thick finger. “That’ll snap if it’s plain wood.”
+
+“It would,” Lucien agreed calmly. “If it were plain.”
+
+Harlon’s eyes flicked upward briefly. “Composite?” he asked.
+
+“Layered,” he replied. “Wood core. Reinforced at stress points.”
+
+Harlon’s gaze shifted to Alicia. “You drew this?” he asked, studying her more carefully now, as if seeing her for the first time.
+
+She nodded, hands clasping lightly behind her back. “My Lord described it. I...corrected where the curve didn't match his explanation.”
+
+Joren gave a short grunt of approval.
+
+Lucien stepped forward then, resting one hand lightly on the edge of the table. “This is not intended to replace bows,” he said. “It is meant to supplement them.”
+
+It had been one of the first things he had examined during his earliest days in this world. The technological level of a civilization could often be inferred from the weapons it relied upon, and the bow had been among the earliest tools that elevated humanity to dominance in his former world.
+
+He had been mildly disappointed to discover that crossbows appeared absent. It was possible such weapons existed somewhere beyond his current knowledge, yet if they did, they were neither common nor known within the Kingdom of Arcencia.
+
+He had also made a note to investigate the technological level of the other races, though his expectations remained tempered. The histories he had encountered so far suggested frequent conflict between them. If Arcencia and the other human kingdoms still endured, then the balance of power likely remained comparable. Otherwise, one side would have long since subdued the other.
+
+A brief silence settled over the forge as Harlon lowered his pipe, he examined the drawing again, while Joren leaned back and crossed his arms, studying the mechanism with growing scrutiny.
+
+“Mechanism does the holding,” the blacksmith muttered, eyes narrowing as he traced the trigger housing. “Stores the force.”
+
+“It allows the weapon to hold a full longbow draw without requiring the user to maintain it.”
+
+Joren’s thumb continued tracing the trigger assembly drawn in charcoal, following the curve where the catch would hold the string under tension. His brow furrowed as he imagined the strain. “Means less strength needed,” he muttered, half to himself.
+
+“The strength required to work fields is not the same as that needed to draw a war bow. This compensates for that difference.”
+
+Harlon had moved closer to the table without announcing it. The carpenter leaned slightly over the parchment, pipe hanging loosely between his fingers as he studied the proportions. “Slower reload,” he said after a moment.
+
+“It does,” he acknowledged. “But steadier aim.”
+
+Joren reached for a scrap of iron rod lying on the workbench, turning it slowly between his fingers as he tested the imagined tension. His gaze flicked briefly toward Lucien before returning to the drawing. The rod tapped once against the table. “String’ll pull hard,” he said. “Catch needs teeth. Good iron. Clean cut.”
+
+“It must be reliable,” Lucien replied. “If the mechanism slips under tension, the user will be injured.”
+
+Joren grunted faintly in agreement.
+
+Harlon had shifted his attention to the stock drawn along the lower half of the parchment. His finger hovered over the forward grip. He traced the line once, then muttered, “Balance is wrong here. Too much weight forward.”
+
+Alicia’s posture tightened a fraction.
+
+He noticed but did not intervene. “That is precisely why I asked you both to look at it,” he said instead.
+
+Joren leaned back from the table with a slow exhale, folding his arms as he regarded the sketch again. “You’re asking for iron we don’t have much of,” he said.
+
+“I am asking whether it can be done,” he replied. The distinction hung in the warm air of the forge.
+
+Harlon lifted his gaze briefly toward the open doorway. Outside, the winter light had begun to dim, smoke drifting slowly upward against the pale sky. “Possible,” he said after a moment, “and sustainable are two different things.”
+
+Lucien met his eyes evenly. “I am aware. Right now, I would like to know if it is possible first.”
+
+The coals shifted softly within the furnace, releasing a faint hiss as the heat settled.
+
+Joren’s attention returned to the parchment. This time, his gaze lingered not on the mechanism, but on the charcoal lines themselves. He leaned closer, studying the small notes written beside the mechanism, his thumb rubbing absently at a charcoal smudge.
+
+“Hm.” He glanced briefly toward Alicia, then back to the drawing. “Lines are clear,” he said. “Cleaner than most apprentices I’ve seen.” He gave a short nod as if that settled it.
+
+Alicia’s cheeks colored faintly, though she did not lower her gaze.
+
+“Iron’s thin enough already,” the blacksmith continued. “Not keen on wasting good metal on a thing we don’t even know will work.”
+
+Lucien nodded once, as though the objection had been expected. “We are not building it yet,” he said.
+
+Joren’s brow furrowed. “Then what are we doing?”
+
+“Planning,” he replied calmly.
+
+He reached forward and adjusted the parchment slightly, exposing the smaller mechanisms Alicia had sketched along the margins. “The stock, the tiller and the basic frame. Those can be shaped in wood first. No iron required beyond temporary pins.”
+
+Harlon leaned closer, studying the outline again with renewed interest.
+
+“The iron components can be tested separately. We start small by making the trigger teeth and the catch plate.”
+
+Joren’s arms folded across his chest again, but his gaze had sharpened. “You’re saying I test the hard parts first.”
+
+“Yes.”
+
+“With scrap?”
+
+“If possible.”
+
+The blacksmith scratched at his beard, eyes narrowing as he reconsidered the drawing. “That’d tell us how ugly the work’s going to be.”
+
+“That is the intention.”
+
+Harlon shifted his weight beside the table, pipe tapping lightly once against the wood. “Most lords don’t sit in a forge discussing hinge teeth and trigger catches,” he said mildly.
+
+Lucien met his gaze without hesitation. “You will find that I am not most lords.” The words were spoken without pride, stated simply as a matter of fact.
+
+For the span of heartbeat, the forge fell quiet again, Joren exchanged a brief look with Harlon but neither of them said anything.
+
+Then, Joren exhaled through his nose and reached out, nudging the parchment once more. “All right,” he said. “If we’re just testing the bite of it first...that I can do.”
+
+Harlon gave a slow nod. “I’ll start shaping the stock,” he added. “Wood’s easier to waste than iron.”
+
+Lucien looked between them. “Good. Begin with that.”
+
+Joren was already turning toward the anvil again, reaching for a narrow strip of scrap iron as though the problem had begun resolving itself the moment the decision was made.
+
+The coals stirred softly as he set the metal down beside the forge.
+
+Behind him, the charcoal lines of Alicia’s drawing remained spread across the table.
+
+No weapon had been forged yet.
+
+But in the fading light of the winter evening, something new in this world had begun to take shape.

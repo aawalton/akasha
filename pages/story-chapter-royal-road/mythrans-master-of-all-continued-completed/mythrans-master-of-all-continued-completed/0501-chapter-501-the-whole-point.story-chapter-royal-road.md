@@ -1,0 +1,291 @@
+---
+id: bbee57c9-aa98-5605-aa11-d627c6aeed09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 501 - The Whole Point"
+slug: 0501-chapter-501-the-whole-point
+partOf: mythrans-master-of-all-continued-completed
+position: 501
+ownLength: 3204
+unit: words
+publishedAt: 2018-02-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192016/chapter-501-the-whole-point"
+royalRoadId: "192016"
+---
+
+Lord Tathalyn still couldn't believe his eyes as he walked towards the central tower. The city had everything in it that he had designed.
+
+“How big is this city?” Lord Tathalyn asked.
+
+Teepo? Ren asked his friend.
+
+“It's almost 20 square miles.” Teepo said, and Ren relayed that to Lord Tathalyn.
+
+“Did... did you say twenty square miles?!?” Lord Tathalyn said and shook his head. “It should have taken you decades to make the tower, let alone the rest of the city!”
+
+“Now I know you were being completely unreasonable by giving me that quest.” Ren said, and Lord Tathalyn laughed and nodded.
+
+“I really was.” Lord Tathalyn said. “This walk is taking forever.”
+
+“Then a ride is in order.” Ren said and turned to Princess. “If you would be so kind?”
+
+Princess nodded and Ren took out the carriage that didn't have a top and attached it to her. He opened the door and helped the 4 women climb in.
+
+“It's not to High Elf scale, but it will get us there quickly, Lord Tathalyn.” Ren said, and Lord Tathalyn climbed in and sat down. His knees were up to his chest and if anyone was in a laughing mood, they would have found it extremely funny. Ren climbed into the driver's seat and Princess trotted quickly down the street.
+
+They were at the base of the tower a couple of minutes later, and Ren hopped off and opened the door to the half-carriage. Lord Tathalyn stepped out and looked up at his dream while Ren helped the 4 women get out of the half-carriage and stored it.
+
+“It's beautiful, isn't it?” Lord Tathalyn said, and walked over to the entrance. “Please leave the mount outside.” He said and opened the door and went inside.
+
+“No.” Ren said and led Xuunah, Officer Holly, Artemis, Symmetra, and Princess inside right behind the High Elf. They followed him through the lobby and over to the main lift that would take them all up to the top. Lord Tathalyn reached the lift and turned around, and saw Princess was right there with them.
+
+“I thought I asked you...”
+
+“I can't leave such a valuable mount outside unattended.” Ren said as the lift doors opened, and he quickly ushered everyone onto it, including Princess. “She might run off and cause untold havoc among the new residents.” He said and got on the lift himself.
+
+“I suppose.” Lord Tathalyn said, as the lift doors closed. They were magically lifted up to the top of the tower in only a few moments, despite it being a mile high, and the lift doors opened to reveal an oddly-shaped chamber.
+
+When Ren had first seen the plans, he had assumed it was just a personalized living space for Lord Tathalyn. Once he read the hidden Secret Plans, he now knew what it was really intended for.
+
+“I can't believe I'm really here.” Lord Tathalyn said out loud and walked over to a column on the wall. He placed what looked like a square block there, then walked over to the other side of the room and placed another one.
+
+“I can't believe it, either.” Ren said, then quietly told the others to stay beside the lift doors. “Imagine what Roshia would say if she saw you now.”
+
+Lord Tathalyn froze at the sound of the name, but kept his back to Ren. “What... what did you say?”
+
+Ren equipped his platinum armor and took out an unidentified High Elf bracelet that he had looted from the body of a female High Elf magic user. She had been at the Thieves Guild when he had rescued several young girls from their kidnappers. He never would have made the connection with Lord Tathalyn, had her name and task not been in the Secret Plans.
+
+“She wore this before I buried her alive.” Ren said and held the bracelet out to the High Elf.
+
+“You... killed her?” Lord Tathalyn turned around, and his eyes had a red glow around them.
+
+“She was trying to kill me at the time for wrecking the Thieves Guild, and she said her master didn't like people interfering with his plans.” Ren said. “Of course, I had no idea that you were her master.”
+
+Lord Tathalyn took the bracelet from Ren and held it reverently as he looked down at it. “She was a devoted follower, and did everything I asked of her.” He said and turned away again. “I had sent her on hundreds... thousands... of errands.” He sighed. “Who would have thought that a simple currency exchange would lead to her death.”
+
+“So, you didn't set up the Thieves Guild?”
+
+“No, I did.” Lord Tathalyn said and walked over to the middle of the room. “I set up all of them.”
+
+“All?” Ren asked.
+
+“Of course.” Lord Tathalyn said. “I needed money. Lots and lots of money.” He said and equipped the bracelet. “I was playing the long game. I knew that if I set up revenue streams in each of the kingdoms, they would bring me untold riches far beyond anything anyone else could have imagined.”
+
+“Wow.” Ren said. “What did you do with all that money?”
+
+“Spent a lot of it, of course.” Lord Tathalyn said and turned to face Ren. “It takes money to make money.”
+
+“That seems to be the way things work.” Ren said. “But, once you figured out that money alone wasn't going to do it for you...”
+
+“I hired magic users to devise ways to accomplish my goals.” Lord Tathalyn said. “After decades of trying, it was all for naught.” He said and sighed. “Even magically created materials couldn't withstand the height I was trying to reach.”
+
+“Of course not.” Ren said. “Once you try to alter it, it disappears... assuming the time limit is bypassed.”
+
+Lord Tathalyn nodded. “Yes, the Permanency spell was quite costly during the 30 years of that failed attempt.”
+
+“What about the Thieves Guilds now?” Ren asked.
+
+“I've let them work on their own for about a decade or so. Give or take a few years.”
+
+“So why was Roshia there?” Ren asked, curious. He remembered her being surprised that he wasn't there to stop her or her master.
+
+“Cleanup.” Lord Tathalyn said. “Once I didn't need the income, she was to erase all of my ties with each of the Guilds.”
+
+“Did she succeed?”
+
+“In all but one.” Lord Tathalyn said and held up the hand with the bracelet around the wrist. It started to glow, and he smiled. “You finished that one off for me.”
+
+A magical force hit Ren in the chest and pushed him back as a magical barrier appeared between him and Lord Tathalyn, and it blocked him from the rest of the room.
+
+“What are you doing?” Ren asked.
+
+“I'm fulfilling my bargain.” Lord Tathalyn said and held his hands out, one to each of the blocks he had placed on the walls. The blocks twisted and became like putty as they stretched out from the walls and stopped beside his hands. It became solid again, and Lord Tathalyn now had two metal bars that didn't quite reach. He took out the Secret Plans and ruffled through the sheets to pick one, then let the others fall to the floor.
+
+“Ren! What's going on?” Officer Holly asked as Lord Tathalyn started to chant.
+
+“Lord Tathalyn is doing something that is supposed to be forbidden.” Ren said and used Enchanted Eyes to see that the magical barrier completely surrounded the room. Breaking out through the wall and trying to come back in somewhere else would be pointless.
+
+“Then stop him!” Officer Holly said.
+
+“I can't.” Ren said. “Once the ritual is started...”
+
+A loud sonic boom rattled the tower, and if they could have seen outside, pitch black storm clouds had converged above the mile high tower.
+
+“What was that?” Xuunah asked.
+
+“If I had to take a guess...” Ren said, then the first small bolt of lightning came down into the tower and shot out from one of the metal bars Lord Tathalyn had made and into the other. “...it's Lightning.”
+
+“That's right!” Lord Tathalyn said during a pause in the ritual to let the storm build up, and he had a maniacal gleam in his eye. “This isn't just the world's biggest tower!”
+
+“I know.” Ren said. “It's also the world's biggest Lightning Rod.”
+
+“YES! HA HA HA!” Lord Tathalyn said. “She has whispered to me in my dreams since I was a boy.” He said and strode around his dream room. “She has loved and guided me all these thousands of years, and even helped me design this very chamber!” He grinned. “I've loved her my whole life, and I have devoted myself to her!”
+
+“You aren't just sacrificing your life, are you?” Ren asked.
+
+“No!” Lord Tathalyn laughed. “This old and frail body will be reborn to become the perfect vessel for her!”
+
+Lightning started to cascade down the walls, and the sparks between the two metal bars that almost touched became faster and faster.
+
+“Be quiet, now.” Lord Tathalyn said. “This is a very delicate part of the ritual. If anything untoward were to happen...” He smiled. “She wouldn't like that.”
+
+A lightning bolt passed through the magical barrier and struck Ren in the chest.
+
+“ARGH!” Ren screamed and fell to his knees with a hand to cover the spot where he was struck.
+
+“REN!” Officer Holly and Xuunah screamed at the same time as he flooded pain into the shared Aura. They didn't dare approach him, because they could feel him wanting them to stay away. He didn't want them to be struck as well.
+
+“Yes, stay on your knees for the arrival of the new ruler of this realm!” Lord Tathalyn said and started to chant again. The lightning bolts that sparked across the space between the metal bars increased, as did the ones around the room. When he stopped speaking, the lightning was a solid and steady stream.
+
+“My fondest love! I await you! I give my life to thee! Our meeting fulfills my life-long promise!” Lord Tathalyn said and put his hands out and hovered them above the two metal bars.
+
+“N-no!” Ren said and put a hand on the magical barrier.
+
+“Take me, I am yours!” Lord Tathalyn said and grabbed both metal bars to form a physical connection between them. “AAAAARRRGGGGHHHHHHHH!” He screamed as thousands of lightning bolts seared through his body. The Lightning in the room started to coalesce together and slide along the metal bars to merge into Lord Tathalyn.
+
+“Oh, my god!” Officer Holly said.
+
+“Great Vasalor.” Xuunah whispered as Lord Tathalyn's body convulsed and shook. “That poor man.”
+
+“Ren! Do something!” Officer Holly nearly yelled.
+
+“Okay.” Ren said in a normal voice, the magical barrier disappeared, and he stood up completely unscathed.
+
+“Wh-what?” Xuunah and Officer Holly said together.
+
+“Please accept my apologies for the deception.” Ren said and sent sincerity and sorrow into the shared Aura. “I had to make Lord Tathalyn believe I could be kept at bay, so he would complete the ritual.”
+
+Officer Holly's mouth dropped open in shock. “You wanted him to kill himself?”
+
+“No, I didn't.” Ren said. “Unfortunately, the only way to stop this from happening again was to let it play out.”
+
+“Ren! Something's coming!” Teepo warned, and they all felt an enormous pressure. Ren took off his Dire Wolf Hooded Cloak and handed it to Xuunah, who nodded as she took it.
+
+“Teepo, stay with Xuunah until I come back.” Ren said.
+
+“But...”
+
+“No buts, my friend.” Ren said, and Teepo flew over to land on Xuunah's shoulder.
+
+“Ren...” Officer Holly started to say something, and he put a finger on her lips.
+
+“Hey, you said to do something.” Ren said and smiled at her. “I'll be fine.”
+
+Officer Holly watched as he calmly walked over to where Lord Tathalyn still stood.
+
+“You... can't... stop... this.” Lord Tathalyn managed to say through his gritted teeth and convulsions.
+
+“I'm not going to.” Ren said and smiled. “You see, I've read your Secret Plans.”
+
+“W-w-w-what?”
+
+“I knew you would be doing this.” Ren said and waved at the room. “Of course, if I'd known before making the tower, I would have changed a few things.”
+
+“ARGHHHH!” Lord Tathalyn yelled as the Lightning slid up his arms and started to rend and tear his flesh. Ren looked down and saw it rebuild the outer layer into a clear translucent film, and Lightning started to fill it.
+
+“I can't change the tower being the focus, but I can change the vessel she takes.”
+
+“N-n-n-no!” Lord Tathalyn said as Ren took out the Vampiric Blood Sword.
+
+“It's a shame I can't get the plans for this thing.” Ren said. “It sure came in handy a few times.” He said and plunged the sword up into Lord Tathalyn's torso and buried it deep into his chest. The sword started to glow as it consumed Lord Tathalyn's Lightning infused blood.
+
+“S-s-s-stop.” Lord Tathalyn said, and blood started to pour down his chin; then it stopped and was sucked right back in. “Wh-what...”
+
+“By the way, I've enchanted the city with Regeneration.” Ren said and smiled. “You're going to be standing here for a long time while you wait to die.”
+
+Lord Tathalyn's mouth dropped open in shock, and then the Lightning flowed up and over his head.
+
+“That would have been true, had you not stabbed him fatally.” A disembodied feminine voice said from the vicinity of Lord Tathalyn's head. “He dies as we speak.” She said happily.
+
+“I know.” Ren said. “It's the only way to do what needs to be done.”
+
+The lightning gathered up and spread itself over more of Lord Tathalyn's body as it converted him into a Lightning being to better house itself.
+
+“And what is that?” The voice said.
+
+“This.” Ren said and used Double Infusion to enchant the Vampiric Blood Sword with 50 runes of Anti-Lightning.
+
+“NOOOOOOOOO!” The disembodied voice screamed as the Lightning started to be absorbed into the sword with Lord Tathalyn's blood. Everyone could feel the immense pressure try to leave, but it was too late.
+
+“Vasalor doesn't like it when people mess up his designs.” Ren said and turned the sword inside Lord Tathalyn's body to do massive damage. The sword glowed bright red and small lightning bolts swirled around it. Ren felt when Lord Tathalyn died as the last of the blood and lightning was absorbed into the sword. He pulled the Vampiric Blood Sword from the body and Lord Tathalyn's remains slumped to the floor.
+
+“I m-m-miscalculated.” Ren said as the sword vibrated violently. Lightning swirled around it, and it took both of his hands to keep it steady. “F-f-fifty anti-runes were n-n-not enough.”
+
+“REN! Let it go!” Officer Holly yelled.
+
+“P-P-Princess.” Ren said and held the sword out. “M-m-make a h-h-hole for m-m-me.”
+
+Princess didn't hesitate as she ran across the room and smashed a hole through the side of the chamber to the outside in an instant.
+
+“M-m-meet y-y-you all b-b-back at the c-c-county t-t-tomorrow.” Ren said as he deactivated all of his Auras and ran out through the hole as fast as he could.
+
+“RENNNNNNN!” Xuunah yelled and tried to go after him, and Artemis held her back because she understood what was about to happen. Princess also understood, and she watched Ren run as far away as he could.
+
+See you soon, My Lord. Princess thought.
+
+I'm going to make it. I'm going to make it. Ren thought as he tried to get as far away from the starter city as he could. He felt immense pain as the Lightning concentrated on his fingers. His armor started to peel away from his fingertips, and he saw the flesh start to dissolve and be replaced by translucent skin.
+
+“S-s-sorry! N-n-not a w-willing host!” Ren said and came to a stop, gripped the sword by the tip and the hilt, then brought it down onto his knee to shatter it.
+
+*
+
+*BOOOOOOOOOOOOOOM*
+
+The sky lit up like a second sun as the elemental explosion expanded. It was so powerful that even though it was a mile up in the air, it still shook the ground for nearly a hundred miles. The sound alone travelled for thousands of miles past that.
+
+With nothing to house or contain it, the Lightning dissipated. If anyone had been around and hadn't died from being so close to the explosion, they would have heard a soft scream be cut off.
+
+People in the High Elf Kingdom and in the Human Kingdom had no idea what could have happened to make such a loud sound, and rumors started spreading right away. None of them were even close to the truth.
+
+*
+
+Despite being so far apart, and because of their Light Connections with him, Xuunah, Symmetra, Artemis, Nathalia, Frikara, Lusinia, Andrela, Verwynn, and Navruth all felt Ren die instantly. They all burst out crying at the same time, mostly in relief, because Ren hadn't felt a thing when it happened.
+
+********
+
+Notice!
+
+You have died!
+
+Time until you can log back in: 5 Hours, 59 Minutes, 55 Seconds
+
+Ren slipped off the VR headset and took a deep breath. Barbara took the headset from him, and then he felt a hand on his chest.
+
+“That sure was something.” Elise said, and he looked at her. “I guess if you have to die, you might as well do it spectacularly.”
+
+Ren chuckled. “You mean instantly?” He asked, and she nodded. “Yeah, I didn't feel a thing.”
+
+“I'm glad.” Elise said and kissed him. “That was very brave of you.”
+
+“Naw, it was a mistake.” Ren said. “It was supposed to end with the sword absorbing it all.”
+
+Elise chuckled. “You know that old saying.”
+
+“Yeah.” Ren said and put a hand on the one she had on his chest. “No plan survives contact with the enemy.”
+
+Elise nodded.
+
+“Did you stay awake all this time?” Ren asked.
+
+“Kind of.” Elise looked over at Barbara. “When I dozed off, a friend woke me up for the good parts.”
+
+Ren chuckled. “You missed my whole story telling session, then.”
+
+“Yes.” Elise said. “I'll watch it later.”
+
+“I don't know how you can do that.” Ren said and sat up. “You always seem to manage to watch everything I do, and still keep up with everything in real life, too.”
+
+“We all do that.” Barbara said. “You should use the bathroom so you can get some sleep for the rest of the night.”
+
+“Yes, ma'am.” Ren said and got up from the bed.
+
+“Do you need a hand?” Elise asked.
+
+“No, thanks. I've got it.” Ren said and walked towards the bathroom. He came back out a couple of minutes later and climbed back into bed. Elise held her arms open, and Ren smiled as he slid into her embrace and cuddled with her.
+
+“I love my life.” Ren said and rested his head on her chest, then sighed happily.
+
+“I do, too.” Elise said and kissed his forehead. “Goodnight, darling.”
+
+“Goodnight.” Ren said.
+
+Barbara turned the lights down to a soft glow and left the room silently.

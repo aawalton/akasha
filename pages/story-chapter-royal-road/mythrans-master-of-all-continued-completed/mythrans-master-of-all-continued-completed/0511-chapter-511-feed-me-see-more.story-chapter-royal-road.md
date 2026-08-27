@@ -1,0 +1,269 @@
+---
+id: 39bdb842-ef9a-5b8d-842f-e28e9b82eab0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 511 - Feed Me, See More"
+slug: 0511-chapter-511-feed-me-see-more
+partOf: mythrans-master-of-all-continued-completed
+position: 511
+ownLength: 3376
+unit: words
+publishedAt: 2018-02-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194407/chapter-511-feed-me-see-more"
+royalRoadId: "194407"
+---
+
+It didn't take long for everyone in the succubi roost to come to the meeting room, and they all were curious as to what had been going on and chatted openly, especially about the strange woman that stood behind Ren.
+
+“I'm sorry for interrupting your evening.” Ren said. “If I could have your attention, I'll give you all a brief summary of what's been going on with me lately.” He said, and the chatter quieted down. “I know this isn't really relevant to those of you with the succubi, since my situation doesn't really affect you directly; but, I'm glad that they didn't leave you behind to wait.”
+
+“How do you know we're all here?” A man asked, and Ren recognized him as one of his guards.
+
+“I can feel everyone within my Aura.” Ren said.
+
+“Wow, really?” The man was surprised. “If you can feel everyone within this place...”
+
+“Not to brag, but my Aura is huge.” Ren said, and several of the succubi chuckled at the sexual innuendo. “First, I'd like to apologize for not coming back before now.” He said to everyone. “Second, this is Artemis, my new ranged combat specialist. Third, I've got tons of excuses to give you for being away.”
+
+“What's the biggest excuse?” One of the succubi asked.
+
+“I died.” Ren said, and he felt surprise go through everyone. “That was only why I missed the last day and night, though.” He said. “Before that, I was trying to remove the ghoul hordes that were ravaging the High Elven Kingdom.”
+
+“I heard about that.” Weston, the guard with Zunala said. “There have been scattered reports of ghoul attacks all over this kingdom as well.”
+
+“I'll check on those when I can.” Ren said. “I'm only one person, though. I can't handle hundreds or even thousands of these incidents, especially if it's only individual ghouls.” He said. “I've been removing larger groups with the help of my friends.”
+
+“That must be some Adventurer's Quest.” Weston said. “Imagine! You have to fight to defend an entire nation, and it's not even yours.”
+
+“Actually, I'm an elfling.” Ren said, and Weston blinked his eyes for a moment.
+
+“Then... wait... what are you doing here?” Weston asked. “You've built all these things here for everyone, and yet...”
+
+“I'm an Adventurer.” Ren said. “I guess if I had started in the High Elven Kingdom, none of this would have come to pass.” He said and smiled. “But I started my adventure here, and this is where we are now.”
+
+“Thank god.” Seldanna said and gave his hand a squeeze, and he felt her deep gratitude. “I am so glad to be out of those caverns!”
+
+Out of those caverns... out of those caverns... out of those caverns...
+
+Those words rang through Ren's head, and he stopped himself from smacking himself in the forehead.
+
+“Ladies, please kneel.” Ren said. “I'm sorry I have to rush this, but I just remembered something I have to do.”
+
+All the succubi knelt without question, and Ren started pushing his emotions out through his Aura. Seldanna was still holding his hand, and she stared up at him as she received a much stronger dose.
+
+Ren turned to her, and smiled. “You first.” He said, and gave her a kiss. Her hand snaked up and grabbed the back of his neck, and Ren poured the emotions she wanted into her. She started to glow softly right away, and when he felt her reach her limit, he broke the kiss. Seldanna didn't want to let him go, and he stroked her cheek.
+
+“I'll give you another kiss on the way out.” Ren said, and she nodded and let him go. He turned to Wynphine next, and she looked at him expectantly. “Desire this time?” He asked, and she nodded. “Oh, I've got lots of desire to share.”
+
+Wynphine gasped as he kissed her and poured in all the desire he had saved up for the 2 years he had been in the enhanced Sanctuary. She reached her limit a moment later, and almost collapsed from the feeding.
+
+“Before I switch emotions, does anyone else want desire?” Ren asked and looked around, and 6 more succubi raised their hands. He went to each of them and gave them what they wanted, and each only took a moment to fill their hunger.
+
+“Good god.” The last one who wanted desire said, then collapsed to the floor. She licked her lips and looked up at Ren. “That's so good!”
+
+“I'm glad you liked it.” Ren said and smiled, then looked at the closest succubus. “Zunala, what would you like?”
+
+“I'm fine.” Zunala said and took Weston's hand.
+
+Ren could feel the lie, but he didn't want to call her on it. “Well, I do have tons of desire left.” He said and looked at Weston. “I see you have that covered, though.”
+
+Weston nodded, and Ren reached out and touched Zunala's face. He poured a pile of satisfaction and some regret into her to make sure she was full. It wasn't as good of a feeding because it wasn't through a kiss; but, it also didn't make her glow softly.
+
+“If you change your mind, let me know.” Ren said, and he felt Zunala's thanks for hiding her need for other emotions. He moved on, and the other succubi with partners present didn't want a direct feeding through a kiss, either. He did the same thing he did with Zunala and fed them secretly, then went to the rest and kissed them to feed them. When they had all been tended to, they stood up.
+
+“There should be a new book in the Library about my current experiences, The Chronicles Of Ren, Volume 2.” Ren said. “If you want more details about what happened, right up until the point just before I died, you can get a copy there and read all about it.”
+
+Several of them nodded, including Wynphine and Seldanna, and Ren smiled at them all.
+
+“I have to go and take care of an errand I now have the ability to accomplish.” Ren said.
+
+“Can I ask a question?” One of the men asked.
+
+“You just did, but go ahead and ask another.” Ren said, and the man chuckled.
+
+“Why did you make them kneel?” The man asked. “It's a little demeaning to make a woman kneel before you like that, don't you think?”
+
+“Aylviss!” Miastina exclaimed. “I told you that he saved us, and that he has our contracts!”
+
+“That's not why.” Ren said, and everyone looked at him. “You've all felt my emotions, haven't you?” He asked them. “Have I ever felt that I was demeaning you?”
+
+The succubi shook their heads.
+
+“Then why?” Aylviss asked.
+
+“You're overthinking the reason, because it's much simpler than you think.” Ren said. “I'm short.” He said and smiled. “I asked them to kneel because it's much easier for me to kiss them that way.”
+
+Once again, Ren felt surprise go through them, and he chuckled.
+
+“See? Simple.” Ren said. “I'll be back in a few days to check on you all again.” He took Seldanna's hand and started to leave the meeting room with her, and Artemis walked behind them. When they arrived back at Wynphine's entrance, he turned to look at Seldanna. He had felt her growing embarrassment, and wondered what she was thinking.
+
+“Seldanna, what is it?” Ren asked.
+
+“I... I thought...” Seldanna's face went to a deeper red. “Forgive me. I thought you had us kneel so you could keep us below you... and... and that... you looked down on us.”
+
+Ren chuckled. “I figured that was why you feel embarrassed.” He said. “You should know that I don't think that way.” He explained. “If I did, I would have made your home completely underground and kept you from spreading those cool wings.”
+
+Ren reached behind her and ran a hand down the thin membrane, and she shivered from the tender touch.
+
+“M-my Lord.” Seldanna said and closed her eyes, then she knelt. “Please... keep going.”
+
+Ren stepped close to her and cupped the sides of her face. “I can't.” He said, then gave her a kiss filled with regret and longing, that she sucked down and consumed greedily. “I can't show favoritism, and if we do anything, I'll have to do it with all of you.”
+
+“But...”
+
+“I don't think the people with the other succubi would appreciate me doing... things... with all of you.”
+
+“So... so you punish those that don't have, can't find, or don't want mates.” Seldanna said, and her sadness at the prospect was so profound that Ren's Emotion Siphon ability activated and absorbed it, then he decided to break this rule.
+
+“All right.” Ren said. “Gather the ones that don't have, or can't find, mates.” He said, and he felt hope blossom inside Seldanna. “We can't have sex, because I promised I wouldn't do that with anyone new.” He said. “But...”
+
+“I'll be right back!” Seldanna said and flew away before he told her where to bring them.
+
+“This is going to be fun.” Artemis said sarcastically, and Teepo chittered in laughter.
+
+“It's just a short break before we head to the High Elven Kingdom.” Ren said.
+
+“You know that's not what I meant.” Artemis said.
+
+Ren nodded just as Seldanna returned with 4 other succubi, and he smiled at them. “I'm glad that 15 of you have managed to find someone to be with.”
+
+“The others are morose that they cannot be included; but, they were forced to agree that you are righteous in your determination that their chosen mates would be less than pleased if they were to participate in whatever you have planned for the few of us that have yet to discover the joys of true partnership with-.”
+
+“Shut up, Fayeth.” Seldanna said as she covered Fayeth's mouth. “Or we'll never get to what he has planned.”
+
+The other succubi chuckled, and Ren smiled. “Which one of you has the place closest to this one?”
+
+“Wynphine said you can use her space for this.” Ellaria said, and Ren remembered her as the one he had healed the molten metal burns on her wrist.
+
+“She insisted, actually.” Seldanna said and uncovered Fayeth's mouth.
+
+“Then let's get started.” Ren said and took out a nice bed from inventory, then held a hand out to Seldanna. “As one of the very first succubi I met, please allow me to service you first.”
+
+“Service me?” Seldanna asked as she took his hand.
+
+Ren sat her on the bed and laid her down on her back, then lifted her legs and laid them over his shoulders while he positioned himself between her legs. He gathered all the emotions he ever felt when going down on a woman, then slid her bikini bottoms off.
+
+“Are... are you really...”
+
+“I call it an Australian Kiss, because it's when I go down under on a woman.” Ren joked.
+
+Seldanna didn't understand the reference until he kissed her special place and shoved all of those emotions into her. He had just barely started and she wrapped her legs around his head and finished.
+
+“MY LORD!” Seldanna yelled, then lost the use of her limbs. Ren tried to keep pleasing her; but, he felt that she wasn't feeling anything else right now.
+
+“Um... that went a lot faster than I expected.” Ren said and eased out from under her legs, then looked at the next succubus.
+
+“Oh, yes!” Ellaria said and laid down right next to Seldanna, then held her own legs up. “Hurry!”
+
+Ren chuckled. “Should I warn you to brace yourself?”
+
+Ellaria glanced at Seldanna, who was still lost to the pleasure. “I'm not going to brace for anything.”
+
+Ren nodded and slid her bikini bottoms off, then kissed her special place and poured the same emotions into her as he did into Seldanna. Once again, he had barely started when Ellaria finished and couldn't take any more. He moved back and looked at the next succubus, and she walked over to him.
+
+“My Lord, I am pleased that you will administer your immense talents upon this unworthy body, and I thank you for allowing me to float upon the bliss the others have already lost themselves to.” Fayeth said, and Ren took her hand.
+
+“There's not much room left on the bed.” Ren said.
+
+“There is, My Lord.” Fayeth said and let his hand go and turned towards the bed and bent over as she pulled her bikini bottoms down, then knelt between the other two succubi. “If access to my nether regions is all that is required, then this position is more than adequate for that purpose and I won't smother the others or wrinkle or damage my wings by laying down on top of them.”
+
+“That's very considerate of you.” Ren said and enjoyed the sight, then he poured his emotions into her as he kissed her special place. She lasted a few seconds longer than the other two, because he could feel that she was trying to be analytical about the experience; then her body told her mind to shut up, and she succumbed to Ren's touch and his enormous emotions. She collapsed on top of Seldanna and Ellaria, and her wings unfolded and covered the three of them like a blanket.
+
+Ren made another bed in a few moments, then held a hand out to the next succubus. “If I'm not mistaken, your name is Chenoa.” He said, and he felt her pleasure at being recognized. He smiled warmly to her and laid her down on the second bed. “Of course I recognize you.” He said. “We did some very good things together in Shargon Caverns.”
+
+“We... we did.”
+
+“I may not have referred to you by name before now, but that's only because with 20 of you to take care of at the time, individual time with any of you was difficult to come by.”
+
+“You did more than I ever thought possible, and you even kept your word and rescued us.” Chenoa said as she stored her bikini bottoms and lifted her legs into the air. “Fill me with your desire to make me happy.”
+
+“You understand what I'm doing.” Ren moved her legs apart and leaned in to give her a kiss on the lips. She gasped as she felt his thanks, then he moved back between her legs and kissed her there, too. His lips had barely touched her and she finished, and Ren almost laughed that it had been so easy to please her. He stood up and looked at the last succubus, and she came over to him.
+
+“Hello, Katori.” Ren said, and she bent over slightly and kissed him.
+
+“Mmm.” Katori moaned. “Willing pleasure is so tasty.”
+
+“It really is.” Ren said.
+
+Katori knelt on the bed beside Chenoa, then put her head down to stick her backside up into the air.
+
+“Can you try and last a little longer than the others?” Ren asked. “That's a wonderful sight.”
+
+Katori laughed. “I can't.” She said. “I feel how much you like this, and it's driving me crazy.”
+
+Ren chuckled. “It can't be helped, then.” He said and gathered as much emotion as he could, then dove into her and used his quickness to lick and suck as much as he could in the second it took for Katori to finish.
+
+“AHH!” Katori yelled, then her body lost it's function and she slid down to lay on the bed. She was just as lost in the pleasure as the others.
+
+“Even though I was being sarcastic, I was wrong.” Artemis said. “It wasn't much fun at all.”
+
+“The succubi wouldn't agree with that.” Ren said and looked at them. “I would have liked it to have taken longer; but this works, too.” He said. “Ladies, please relax and I'll see you all again later.”
+
+There were several mumbles, and two failed attempts to wave to him, and he chuckled. He went to each of them and gave them a kiss on the cheek with another small burst of emotions. It made them moan and writhe a little, and he felt that they were sated well enough to last them for a while.
+
+“Let's go, Artemis.” Ren said, and they left Wynphine's living space through the balcony and went over to the Main House. They went inside and he told the maids what he was going to do. They told him not to rush and to take his time, and they would see him when he got back. He kissed each of them and left the apartment, then went to Princess' house. He could feel that she was awake, and knocked. “Princess, it's time we head to the High Elf lands for a quick visit.”
+
+“Yes, My Lord.” Princess said and came out, and he climbed up onto her saddle.
+
+“To the High Elven Kingdom, please.” Ren said.
+
+Princess trotted up into the air and Artemis flew beside them, then they poured on the speed and disappeared from sight.
+
+*
+
+“Oh... oh, my god.” Tommy's real life girlfriend Jamie said after she, Apple, and Clint's date collapsed on the bed in Apple's work room. “I... I can't believe... did... did we really...”
+
+“Oh, we sure did.” Apple said, a little breathlessly. It was hardest for her because she had to entertain both women, once they had gotten into it. “That was fantastic.”
+
+“I... agree.” Clint's date said. “I've never even thought that... well...”
+
+“... that another woman would enjoy being with you?” Apple asked.
+
+“Yeah.”
+
+“Well, it can happen.” Apple said and smiled. “Twice in one night, apparently.”
+
+Jamie and Clint's date started to laugh, and Apple sat up and looked at Jamie.
+
+“I hope your curiosity was well fed.” Apple said. She was tempted to stroke the other woman's cheek, but she knew that their time together was over and didn't want it to get awkward between them.
+
+Jamie nodded. “Thanks for... well...”
+
+“...letting you know how players on the other team win the game?” Apple asked, and Jamie laughed again.
+
+“I'm not signing up, if that's what you're thinking.” Jamie said. “I love having... ah...”
+
+“You can say 'penis' and not feel dirty.” Apple said.
+
+“Tommy's a great boyfriend.” Jamie said and sat up. “I really should get back to him.”
+
+“This is kind of still my first date with Clint.” Clint's date said. “Of course, I've never had a day-long date before.”
+
+“Me, either.” Jamie said. “It's weird that we can spend so much time in here, and yet only a fraction of that passes in the real world.”
+
+“You get used to it.” Apple said. She stood up and equipped her fur bikini. “Pop your clothes back on to clean up, and I'll walk you back to the guys.”
+
+“You don't have to do that.” Jamie said and stood up, then her outfit appeared an instant later.
+
+“I want to make sure none of the other customers mistake you for dancers.” Apple said.
+
+“That's a good point.” Clint's date said and equipped her clothes. “We'll follow your lead.”
+
+Apple opened her door and led the two women back across the club. Sure enough, one of the customers tried to reach out for Jamie and Apple gently moved the hand away and plopped it back on the guys lap.
+
+“No touching without permission.” Apple said. “Or you're outta here.”
+
+“Slorry, mish.” The guy said, clearly drunk.
+
+“That's okay.” Apple said and pat the guy's head. “Enjoy the show.”
+
+“I...” The guy tried to say something, then his head fell backwards and he started to snore. Apple smiled at the sight, then brought Jamie and Clint's date the rest of the way across the club to the private booth. When they got there, Jasmine came out with a handful of gold coins.
+
+“Hey, Jazzy.” Apple said. “I take it they aren't bored waiting?”
+
+Jasmine grinned and stored the money. “Not anymore.”
+
+Apple chuckled and pat the other woman's shoulder, and held the curtain open so Jamie and Clint's date could go inside. “I return you to your dates.”
+
+“Thanks, Apple.” Jaime said as they stepped inside.
+
+“Anytime.” Apple said and closed the curtain behind them.

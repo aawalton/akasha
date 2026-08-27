@@ -1,0 +1,309 @@
+---
+id: 2e903cb1-1acc-5f68-824b-fa3397d7e1a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 515 - One Soul For The Road"
+slug: 0515-chapter-515-one-soul-for-the-road
+partOf: mythrans-master-of-all-continued-completed
+position: 515
+ownLength: 3078
+unit: words
+publishedAt: 2018-02-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195274/chapter-515-one-soul-for-the-road"
+royalRoadId: "195274"
+---
+
+“What... this... that is not possible.” The Night Hag said and then disappeared. “You are trying to trick me!”
+
+“It's not a trick.” Ren said and put Tiatha down as he felt the Night Hag move through his Aura. “That apparently doesn't work anymore, by the way.”
+
+She reappeared right in front of him, and he looked up at her to see her angry face.
+
+“Give me a moment, and I'll prove Teepo is telling the truth.” Ren said.
+
+“You have 30 seconds before I ram my magic down your throat and turn you inside out.” She said angrily. “You can't even complain about me hurting you, because you won't feel a thing.”
+
+Ren nodded and took out a blank amulet and activated his Craft Wondrous Item ability, then chose the Amulet of Interrogation. It was done a second later, and he held it out to her.
+
+“Please accept this gift, with no reciprocation required, as a token of my truthfulness.”
+
+The Night Hag took the amulet and walked several feet away, so she wouldn't try to turn him inside out anyway, then held the golden disc up. “How will this...” Her words trailed off as she identified it.
+
+Amulet of Interrogation (Compulsion - Truth)
+
+Beings (creatures or persons) within the area of effect can't speak any deliberate or intentional lies. Anyone within the Aura cannot avoid speaking the truth when asked a direct question, or they will suffer through a blast of Heat that will make them sweat immediately for the first infraction. Each subsequent infraction will increase both the Heat and the amount of sweat produced.
+
+Any creatures or persons with no will of their own are unaffected by any truth-based spell or enchantment.
+
+Area of Effect: 50 foot radius
+
+“You... this...”
+
+“If you are worried that I am trying to trick you, it need not be worn and only has to be in your possession.” Ren said. “If I may demonstrate?”
+
+The Night Hag nodded.
+
+“You are the ugliest thing I've ever seen.” Ren said, and his face burst out in sweat. The Heat didn't affect him at all, though. “I'd like nothing more than to see your head removed from your body and mounted on a spike.” The sweat doubled and rolled down his face. “I really hate long hair.” The sweat doubled again, and started to soak into his High Elven Court Uniform. “I-”
+
+“Enough.” The Night Hag said and Ren's voice stopped, despite his mouth still moving. “How do you stop yourself from continually suffering it's effects?”
+
+Ren pointed at his mouth, and she nodded slightly. “Usually by speaking the truth.” He said and the sweat started to slow down. “Most times when people are asked a question, answering honestly does the trick.”
+
+The sweating stopped and the Night Hag's black eyes stared at the gold amulet.
+
+“This gift is more valuable than anything else I've ever had.” She said.
+
+“Most people do believe that.” Ren said and equipped his Travelling Clothes. “I take it with a grain of salt, myself.”
+
+“What does that mean?”
+
+“It's an Adventurer phrase that means I accept it, but I'm wary of it's consequences.”
+
+“That is a good phrase.” She said and looked at Teepo. “You are alive and have a soul?”
+
+“I am and I do!” Teepo said. “After Ren found me in his very first cavern adventure, we've been best friends ever since.”
+
+A tiny bead of sweat appeared on Teepo's carapace.
+
+“Except for the second time I didn't wake him to stop someone he cared about from leaving.” Teepo said sadly. “Ren was pretty angry about it, and I felt really bad.” He said. “I didn't feel like I was his best friend for some time after that.”
+
+The bead of sweat disappeared, and the Night Hag smiled.
+
+“Well, then.” She said. “If you are the offered soul, crawl over here.”
+
+“No way.” Teepo said and spouted his wings. “I'd rather fly.”
+
+The Night Hag watched in fascination as Teepo took off from Ren's hand and flew around the room, then came in for a landing on the amulet she held in her hand.
+
+“You offer yourself up to save your friend?”
+
+“If that's what he asked me to do.” Teepo said.
+
+“This may turn out better than I had hoped.” The Night Hag smiled and started to walk away.
+
+“May I come with you?” Ren asked, and she turned to look at him. “I'm very interested in what you have planned.”
+
+“Apparently you are, since I see no sweat on you.” The Night Hag said. “What of your friends?”
+
+“Artemis must come with me, because she is my familiar.” Ren said. “The healer can return to her home.”
+
+“No!” Tiatha said. “I won't leave you!”
+
+“Please.” Ren tried to cast Permanent Air Walk on her; but, it didn't work and he sighed. “You don't need to stick around for this.”
+
+“I was too late to keep you out of her grasp.” Tiatha said and took Ren's hand. “I am not letting you go while you are still in it.”
+
+“That is so sweet, it's sickening.” The Night Hag said. “Come or go, it means nothing to me. You already have my permission to be in my domain.” She said and waved a hand, and a door appeared beside Tiatha.
+
+“I'm staying with you.” Tiatha said to Ren, and the door disappeared. The Night Hag started to walk away again, so Ren, Tiatha, Artemis, and Small Princess followed her.
+
+*
+
+“He's supposed to take us with him.” Officer Holly said. She sat on the comfy couch in Xuunah's apartment in the Main House.
+
+“You do realize it's the middle of the night, don't you?” Xuunah asked.
+
+“Yeah, and I can't get any fried dough.” Officer Holly said. “I'm not keeping you up, am I?”
+
+“No, I spent a good amount of time in my Sanctuary.” Xuunah said.
+
+“Thanks for not slamming the door in my face when I knocked.”
+
+“I would never do that.” Xuunah said. “What I would do is pretend to not be home or be asleep, and not answer at all.”
+
+Officer Holly chuckled. “I do the same thing sometimes.”
+
+“So what else do you want to talk about?” Xuunah asked.
+
+“Trying to change the subject away from Ren?”
+
+Xuunah turned her head and didn't say anything, but Officer Holly felt it in their shared Reassurance Aura.
+
+“Don't tell me that you have the hots for your daughter's ex-fiance!” Officer Holly said.
+
+Xuunah's face flushed red. Even though she didn't know what 'the hots' were, she had a pretty solid idea about what Officer Holly meant.
+
+“Isn't that forbidden or something?” Officer Holly asked. “I'm not sure why I know that.”
+
+“Mating with a mortal is forbidden, yes.” Xuunah said, and her face went to a deep red. “You made an accurate guess because of our shared Aura.” She said. “You are probably picking up traces of those feelings from me.”
+
+“Does that mean you can figure out what someone is thinking from their feelings?” Officer Holly asked.
+
+“To some extent.” Xuunah said. “Feelings and actions are two very different things, however.” She warned. “If you start to confuse the two, you could be in serious trouble.”
+
+*
+
+The Night Hag carried Teepo out of her little hovel, through a cavern, and over to the large lake that Ren had seen on the map. Ren, Tiatha, Artemis, and Small Princess followed at a respectable distance. When they arrived at the lake, they saw on the edge was a gigantic mass of... something.
+
+“What is that?” Teepo asked.
+
+“That, dear soul, is my creation.” The Night Hag said. “It's taken me decades to harvest enough materials to create my masterpiece.”
+
+“Would you be insulted if I said it looks like a big pile of slimy flesh?” Teepo asked.
+
+“No, because that is exactly what it is.” She said. “My magic has kept it in this condition, and as I kept adding each new piece, it's size grew. To my delight, it's inherent power grew in proportion.”
+
+“That's cool.” Teepo said. “What is it?”
+
+“You don't need to know, for the knowledge isn't necessary for what is about to happen.” The Night Hag said.
+
+“Are you sure?” Teepo asked. “I mean, if you're shoving my soul into this thing to bring it to life, the least you can do is tell me what it is.” He said. “It might help this... whatever it is... come to life.”
+
+“I don' think...”
+
+“If you've never done it before, it couldn't hurt to tell me.” Teepo said.
+
+“Very well.” The Night Hag said and held Teepo up to her mouth and whispered.
+
+“No. Way.” Teepo said. “You're serious?”
+
+“I am.”
+
+“Okay, then.” Teepo said. “Do your stuff and put me in there.”
+
+The Night Hag chuckled. “Is this the 'willing reluctance' your friend mentioned?”
+
+Teepo chittered in laughter. “I don't want to be put in there, but I trust my friend.”
+
+“Sometimes trust is misplaced.” The Night Hag said, and the mass of slimy flesh started to glow slightly. She started to chant, and Ren listened intently to it. The glow on the mass of flesh pulsed in time with the words she spoke, and after nearly a full minute, she stopped speaking and grabbed Teepo in her hand. The hand glowed the same color as the mass of flesh, and she made a fist; and a loud crunching sound accompanied the motion.
+
+“Oh, Ren.” Tiatha said and kissed Ren's cheek. “I'm so sorry.”
+
+Ren didn't say anything as he watched the Night Hag shove her hand into the mass of flesh. It entered as if the flesh provided no barrier, and she dumped a pile of Mana into it.
+
+“I pay a soul to complete this ritual.” The Night Hag said and pulled her empty hand out. “Accept it, consume it, and let it become the spark to bring you to life!” She stepped back out of the way, and the glow started to fade. Ren felt her anticipation of what was to come, and his anticipation matched it. The mass of flesh twitched when the glow faded completely, then it twitched again.
+
+“Yes... yes! That's it! Come to life!” The Night Hag exclaimed. “Become my greatest creation!”
+
+The mass of flesh quivered and moved, and then it lifted up and up to reveal the head. The flesh of it's lower body unfolded and flopped around as it reached it's full height, and it's true appearance was revealed.
+
+It was a Kraken.
+
+The Colossal Monstrosity was as big as Zetaya was, when Ren had enlarged the fire elemental to deal with the ghoul hordes. The Kraken stood upon the middle 4 of 8 tentacles that were spaced around the lower body, and the upper body had various large fins and thick natural armor pieces covering it.
+
+The amphibian-like head had wide-spaced eyes and was armored as well, and then the mouth opened and let out a huge roar that filled the cavern. The sound reverberated off the walls and came back tenfold, and made the sound that much more menacing. The dozen or so rows of shark-like teeth inside the mouth helped with that, too.
+
+“IT'S GLORIOUS!” The Night Hag yelled, and the Kraken closed its mouth and looked down at her. “I am your master!” She said. “Bow down to my will! I control you!”
+
+The Kraken bent down to put its face down close, opened its mouth, then snapped it shut and gnashed the teeth right next to her.
+
+“Submit!” The Night Hag said, completely undisturbed by the Kraken's attempt to bite her. “I made you! You are mine!”
+
+The Kraken pulled away from her, then somehow, sat down. The Night Hag gasped at the sight, and Ren felt her shock.
+
+“That's what surprised you?” Ren asked, and she looked at him. “It almost bit you in half and you were fine; but, when it sat down...”
+
+“YOU!” She yelled. “You did something to my ritual!”
+
+Ren shook his head. “I didn't do anything at all.” He said. “Did I, Teepo?”
+
+“NOOOOO.” The Kraken said, and the Night Hag's mouth dropped open.
+
+“Who would have thought there was a long and complicated ritual to do what we've done by accident, and several times on purpose.”
+
+“WHAT?!?” The Night Hag yelled.
+
+“That first time was a bit scary, because neither of us understood what had happened.” Ren said. “Teepo freaked out a little.”
+
+“IIIIIII DIDDDD.” The Kraken said.
+
+“What's it like in there, little buddy?” Ren asked the colossal monster.
+
+“IIIIII'VEEE GOOOT EIGGGGGHT LEEEGSSSSS!” The Kraken said and flailed the tentacles around happily, then it hissed loudly for several moments.
+
+“I... think... that was laughter.” Ren said.
+
+“IIIIT WAAAASSSS.” The Kraken said.
+
+“I... I don't... understand.” The Night Hag said. “This... it's not possible.”
+
+“Actually, it is.” Ren said, and she looked at him with wide eyes. “I listened to your chant very closely.” He said. “Not once was 'consume the offered soul' actually used.”
+
+She stared at him, and he chuckled.
+
+“From what I heard, all you did was give your very, very large flesh golem creation a passenger.”
+
+“N-no.” The Night Hag said and staggered. “No, I... can't believe...”
+
+“What did you want it for, anyway?” Ren asked.
+
+“Death and destruction, of course.” The Night Hag said. “Why else would creatures like this exist?”
+
+“Because they can?” Ren asked back.
+
+“Ha... you Adventurers and your morals.” The Night Hag said, then sighed. “I wasted decades on this fool's errand.”
+
+“NOTTTT WASSSSTED.” The Kraken said.
+
+“What?” The Night Hag said.
+
+“SPAARRRRK WOOORKED.”
+
+“Teepo?” Ren asked. “You're not alone in there?”
+
+“NOOO.” The Kraken said, then it shivered. Lightning Bolts generated from its tentacles and flowed up its body. When the bolts reached its eyes, the Lightning came together and shot out to the middle of the lake. The water exploded in a geyser that caused ripples over the entire lake's surface. The water started to bubble up in the middle, and then another large splash happened.
+
+“Wh-what... what is that?” Tiatha asked, and then they all watched in shock as a real Kraken rose out of the water. It looked nearly identical to the one the Night Hag had created, except that it wasn't as thickly armored.
+
+“RENNNNN! HEELLLLP!” The Kraken said and started to slide into the water.
+
+Summon Teepo. Ren thought.
+
+Teepo's astral form appeared at his feet and flew up to land on his shoulder.
+
+“Where are you going?!?” The Night Hag yelled. “COME BACK HERE!”
+
+“Teepo's not in control anymore.” Ren said. “He wouldn't know how to do that...” He waved his hand at the two Krakens. “...whatever that lightning thing was.”
+
+“NO!” The Night Hag yelled. “No! Come back!”
+
+The two Kraken met in the middle of the lake, and then after another large splash, they disappeared.
+
+“NOOO!” The Night Hag fell to her knees and reached out towards the water desperately. “No.”
+
+Everyone was silent, because they all felt what the Night Hag was feeling. Her inconsolable loss reverberated through them, and Ren knew better than to approach her.
+
+Notice!
+
+Trouble Recipe ingredient: 'Kraken' has been completed.
+
+“There's two things I'd like to say before my friends and I leave.” Ren said, and he felt the Night Hag's emotions flip like a switch. She stood up and turned to him, and he saw that her pitch black eyes smouldered with Hatred.
+
+“First... aren't you glad that the Kraken didn't kill you before it left?” Ren asked.
+
+The Night Hag ignored his words and took a step towards him. Her body trembled with power as she started to gather her magic to her. The ground itself started to tremble as well when she took another step.
+
+“Second... and most importantly... how long are Kraken mating rituals, and how many offspring can spawn from a single pairing?”
+
+The Night Hag stopped moving at these words and her power disappeared. Her black eyes stopped showing him Hatred, and instead he felt something akin to intrigue and wonder. Ren took this opportunity to make a hasty retreat, without saying another word, and didn't bother trying to go back through the other cavern to the Night Hag's home. He took out the Staff of Earth and used it's Pass Wall ability to make a tunnel to the next cavern several hundred feet away, and he and his friends all went through it quickly.
+
+“That was the weirdest thing I've ever seen.” Tiatha said as Ren checked the All-Seeing Mirror for the doorway he wanted, now that he was in the Underground.
+
+“Do you need to get back to...” Ren started to ask.
+
+“No, she knows where I am.” Tiatha said and held onto his hand. “I'll stay with you until you leave.”
+
+Ren nodded and changed directions at the next cavern, and dismissed the old Pass Wall spell and made a new one.
+
+“I'm really sorry about your friend.” Tiatha said. “His sacrifice will be remembered.”
+
+“It sure will.” Ren said and cast the series of spells that he and Lara had come up with to restore Teepo's body. “Right, Teepo?”
+
+“I brought a Kraken to life!” Teepo chittered in delight. “An actual Colossal Kraken!”
+
+“You Adventurers.” Tiatha said and shook her head for a second, then smiled. “I'm not sure why; but, I had the feeling that you wanted to say something else back there.”
+
+“I did, but I didn't want to push my luck.” Ren said. “She was pretty pissed.”
+
+“What was it?”
+
+“Don't give up on your dreams, just because things don't quite work out like you thought they would.” Ren said and entered the next tunnel he had made. His friends followed him, and when they had left the Night Hag's domain, they all felt it.
+
+It's almost like an Aura. Ren thought to himself, and cast Permanent Enlarge and Reduce Anything on Princess.
+
+“Finally.” Princess huffed in her normal husky female voice.
+
+“You're not angry that you had to stay small that whole time?” Ren asked.
+
+“No.” Princess said. “Once we came through, you kept your word and made me large again.”
+
+The Dark Elf healer asked if she could ride Princess again so they could move faster, and she agreed. Tiatha climbed up onto the saddle, and Princess, Ren, and Artemis ran through the tunnel to the next cavern. At their new speed, it wouldn't take them long to find the door that Ren wanted.

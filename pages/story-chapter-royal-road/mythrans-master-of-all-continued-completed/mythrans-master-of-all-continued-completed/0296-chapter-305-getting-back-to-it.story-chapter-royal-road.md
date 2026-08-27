@@ -1,0 +1,339 @@
+---
+id: 3179ac70-6436-58f5-b119-561116da5142
+page-type-slug: story-chapter-royal-road
+title: "Chapter 305 - Getting Back To It"
+slug: 0296-chapter-305-getting-back-to-it
+partOf: mythrans-master-of-all-continued-completed
+position: 296
+ownLength: 4227
+unit: words
+publishedAt: 2017-07-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148164/chapter-305-getting-back-to-it"
+royalRoadId: "148164"
+---
+
+Detective John Ramirez and his partner, Officer Holly Stonewall, sat outside Senator Eddlemere's residence at a very discreet distance. It wasn't a stakeout; because they technically weren't working on the case, and especially during their lunch break. They ate their sub sandwiches and watched the comings and goings of the Senator's visitors.
+
+“He seems to have a lot of activity going on today.” Officer Stonewall commented. “Especially for a Monday.”
+
+Detective Ramirez grunted agreement and bit into his sandwich. He'd sprung for a deli-made sub sandwich, and it was nearly twice the size of a fast food one. It was loaded with meat and toppings, just how he liked it, and he put it down to take a drink of soda pop. He'd normally skip the pop and drink water, but he needed the sugar boost.
+
+He and Holly had woken up extra early that morning to make the two hour drive back to the city from the Point. On the way, John started to divorce himself about what had happened between them that weekend. By the time they'd reached the city limits, he was back to being Detective Ramirez. They made it back just in time to get changed and get to the police station for their jobs. After they had signed in at the squad room to let everyone know they were available, they did some cleanup paperwork for a few hours on another case. Once that was done, they headed out for lunch. Now they were working the case, Ren's case, that they weren't supposed to be working on.
+
+“The extra activity could just be making up for not much happening on the weekend.” Detective Ramirez said, then he sighed. “Ah, dammit.”
+
+“What is it?” Officer Stonewall asked. “I don't see... oh, okay. I see it now.”
+
+The car that the Chief of Police drove, came out of the Senator's residence and went down the street.
+
+“I wondered why you parked this far up on the street.” Officer Stonewall said.
+
+“It makes me wonder how many of the aliases we haven't identified, are the ones we've seen leave the place.”
+
+“There's no real way to know.” Officer Stonewall said. “Which reminds me of something. I checked my messages while I was getting changed, and there was one from Agent Smith.”
+
+“And what did our illustrious case thieves have to say?”
+
+“One of the aliases was for their supervisor.”
+
+“Ha!” Detective Ramirez exclaimed. “Them, too.”
+
+Officer Stonewall nodded. “He said he couldn't tell me anything else, except that they are tracking down the other names.”
+
+“At least they're getting somewhere.” Detective Ramirez said, and then fell silent for several minutes. “Are you going to message him back?”
+
+“About what?”
+
+“Maybe let it slip about the mayor's old house being that boy's torture chamber.”
+
+Officer Stonewall thought about it. “I could do that, but... we took the only evidence linking him to the place. They wouldn't find anything there, and you know it would be all flashy and on the news if they went there.”
+
+“Yeah.” Detective Ramirez said. “We could put the evidence back, but they wouldn't have you there to find it for them.” He said and smiled.
+
+“I was just lucky.” Officer Stonewall said.
+
+“You don't have a 4 leaf clover on you, do you?” Detective Ramirez asked her. “We sure could use some more luck right about now.”
+
+“Sure.” Officer Stonewall said. “I'll just pull one out of my butt.” She said and laughed. “You can rub it for good luck and see what happens.”
+
+Detective Ramirez laughed, too; then he remembered he actually rubbed her butt the night before. I wonder if that would count? He asked himself, then his eye caught a glimpse of a small normal car coming out of Senator Eddlemere's driveway. It slid into traffic easily, and he started the car. Apparently it does count. He thought and smiled, and pulled out into traffic to follow it.
+
+“What's so special about this one?” Officer Stonewall asked.
+
+“You remember that woman in the picture, the one that's now seeing the governor?”
+
+“You're kidding!”
+
+“I've studied that picture. It's definitely her.”
+
+“Why are we following her, when we didn't follow the others?”
+
+“It's a hunch.” Detective Ramirez said as he weaved around traffic to keep the other car in sight. “I just... I have a feeling, okay? I can't explain it more than that.”
+
+“You don't have to explain it, partner.” Officer Stonewall smiled. “Saying 'it's a hunch' was enough for me.”
+
+Detective Ramirez nodded, and followed the car through the city streets. He was led on a slow chase over a third of the city, and drove by the place the car had pulled in. He kept going around the block and parked far enough away that it didn't look like they were trying to watch the place, when in fact that's exactly what they were going to do.
+
+“Grab the burner phone.” Detective Ramirez said. “Look up the faculty for the Psychiatric Wellness and Recuperation Centre.”
+
+Officer Stonewall opened the glove compartment and took out the cheap untraceable phone and looked up what he wanted.
+
+“Head, Harvey Mastis; assistant heads, Jill Mackey and Susan Kristal; administrators, Gerry Orbock and Daniel Bornell-”
+
+“Stop!” Detective Ramirez said. “Who were the assistant heads?”
+
+“Jill Mackey and Susan Kristal.” Officer Stonewall said.
+
+“Susan is ringing a bell for some reason.” Detective Ramirez said. “Susan, Susan... why is it familiar?” He asked himself. “I know that name... I know that...” His eyes got wide, and then he smiled. “Officer Stonewall, who was the psychiatrist that the nurses said took care of Ren before he got rid of her?”
+
+Officer Stonewall took out her little notebook and flipped through the pages. “Here it is. They said her name was Suzie.” She said. “We never followed it up because it had happened after he was sent that spider and before he was drugged. We couldn't find a Suzie anywhere in the registry, along with that supposed nurse that administered the drugs.”
+
+Detective Ramirez nodded. “What's a good nickname for Susan that people would use as your real name instead?”
+
+“Suzie!” Officer Stonewall said. “Suzie is short for Susan!”
+
+“And we just saw her leave Senator Eddlemere's place, and the both of them were in that picture he drew that we found in the mayor's basement.”
+
+“Oh, my god.” Officer Stonewall said. “She's been taking care of his mental health for years!”
+
+“She sure has.” Detective Ramirez said. “I can't imagine the damage she's done.”
+
+“What do we do now?”
+
+“The same thing we always do.” Detective Ramirez said. “We investigate and see where it leads us.”
+
+“But... shouldn't we...”
+
+“What? Take her in and question her?”
+
+Officer Stonewall nodded.
+
+“About what?” Detective Ramirez asked. “About what she had to do with a child abuse case from years ago? She'd laugh in our faces.” He said. “This is all circumstantial. We're barely connecting the dots as it is, and using tainted and possibly illegal evidence. We have to follow it backwards and prove eventual discovery, or none of this will matter.”
+
+Officer Stonewall knew he was right; but, she didn't like it one bit. “I think we should send a copy of the drawing to Agent Smith.” She said. “Maybe... maybe the FBI can trace the people we can't identify.”
+
+“I'd like to hold off on that for a little while longer.” Detective Ramirez said. “But, I think you're right. Another set of eyes might see something we missed.” He said a little reluctantly. “Pop the chip out of the phone and replace it.” He said. “We don't need someone else following our breadcrumbs.”
+
+Officer Stonewall popped the back off the phone and pulled out the small sim card. She snapped it in half, grabbed another one from the pile, then put it into place and put the phone back together.
+
+“It's reset.” Officer Stonewall said and put the phone back into the glove compartment.
+
+“Great.” Detective Ramirez said. “Let's pop over to your place, grab the picture, and head over to a copy store.” He smiled. “Let's see how much Agent Smith likes getting an anonymous fax.”
+
+*
+
+Ren still had quite a bit of time left before he had to go back into the game, so he took the time to use the laptop and check his emails. He saw the apology from Edward Torren, the CEO of Sid Tec, and wondered why the head of the company would email him to apologize. When he read it all the way through, he saw what Mr. Torren was apologizing for. Ren wasn't supposed to gain so many levels so fast. His character was supposed to have a long and slow progression, so that when other things unlocked, he was ready for them and had everything else built up enough to handle the implications of what the new things could do.
+
+“I guess that makes sense.” Ren said. “At least that explains the scaling of my Slow and Steady ability.”
+
+“What did you say?” Stella asked, and Ren told her about the apology and what it meant for his character. “You're supposed to go slow and steady.” She said and smiled. “That's kind of clever.”
+
+Ren nodded. “It lets me adjust to new things more efficiently if I have the time to deal with them.” He said. “As it is now, he's completely right. I'm scrambling to make use of all the new things I can do, and I'm kind of lost on what to do first.”
+
+“When it should have only given you one, or maybe two new things each level, which should have taken you a long time to gain enough XP to do.” Stella said. “You're right, too. That does make sense of that ability.”
+
+“With this latest thing... where I gained all that Honor and caused an error...” Ren sighed. “I'm thinking they won't fix it or give me all of the converted XP.”
+
+“That would...” Stella thought about it. “...gain you at least 20 more levels, if the XP needed increases for each level.”
+
+“Yeah.” Ren said. “If the head of the company, that designed my character, is apologizing for giving me too many levels too fast...”
+
+“...he's not going to give you even more.” Stella finished for him. “I'm sorry, Ren.”
+
+“Thanks.” Ren said. “Although I did cause an error when it happened, I didn't really want everyone to kneel before me.”
+
+Stella smiled. “That sure was something to see.” She said and put a hand on the top of his head. “They wanted you to know how much they appreciate what you've done for them, now that they know the truth.”
+
+Ren smiled at her, and she ran the hand down to his cheek, and then pinched it.
+
+“Hey!” Ren chuckled and pushed her hand away.
+
+“Don't let that go to your head, Unnamed King.” Stella said. “Some people are going to hate that they need to acknowledge you.”
+
+“I know.” Ren said. “Especially when I get back to Aurora.” He shook his head. “I'm not really on Lord Eric's good side anymore, and if he's ever within my Aura...”
+
+Stella nodded. “You just be careful and try not to hold it over people's heads.”
+
+“Okay, but I don't know how well that's going to work.” Ren said. “I've been trying to downplay my Prince Charming title for a while, and now I have this one.” He shook his head. “It just keeps adding to my Aura.”
+
+“Speaking of additions, what about your personal maids?” Stella asked. “What are you going to do with them when you get back to the human kingdom?”
+
+“I don't know.” Ren said. “Elise actually gave me an idea for them, but...” He sighed. “It's not really something I want to force them to do.”
+
+Stella pat the cheek that she had just pinched on his face. “You'll figure something out. You always do.”
+
+Ren nodded and checked the next email. “Hey, that guy that attacked me and gave me the SPECIAL bonus apologized.” He said. “He says he's sorry for not realizing who I was and how important I am.” He chuckled. “I don't know what he's talking about there. He knew who I was.”
+
+Stella smiled. I think someone at the company told him what you've been doing for them, with both the show and the store. She thought. I can't imagine how many people play the game just to see if they can find you.
+
+Ren didn't see any other emails that needed his attention, so he checked the message boards to see what the latest gossip was about. He was surprised to discover that it was all about him, and how he had topped the XP leader board.
+
+It would have been the third time I'd done it if that XP conversion had gone through. Ren thought, and followed the link to the leader board. There's my name at the... “What the hell?”
+
+“What is it?” Stella asked and looked at the laptop's screen. “Oh, my.”
+
+Ren's name was emblazoned at the top of the leader board, in a separate section from the other names. His other two entries were marked as numbers 2 and 3 and had the XP totals beside them; but, the top one only had x's instead of numbers.
+
+“If I'm reading that right...” Stella said. “...you'll always remain at the top of the board because they didn't publish your score.”
+
+Ren shook his head. “That can't be right.”
+
+“Why not?” Stella said. “You get the recognition for topping the leader board again, and they don't even have to tell anyone if you actually did get the XP to do it.” She smiled. “Plus, that's the three top spots you have.” She said and pointed. “The fourth spot is Lisa's... well, Lara the Sage of Ages, and she only got that because she's a member of your party. No one else is even close to those totals.”
+
+“Well, damn.” Ren said. “If Lisa sees that, she's going to wonder what happened.”
+
+“Just message her and let her know you don't know what's going on.” Stella said. “I wonder if they'll give you something when you log back in?”
+
+“There's an easy way to find out.” Ren said and looked at his watch. “I've got an hour before the game day starts, which means I can get about 4 hours of sleep.” He smiled. “Or a lot more, if I decide to have a late breakfast.”
+
+“Take the late breakfast.” Stella said. “You've been on the go for a while, and haven't had a lot of actual sleep.”
+
+Ren nodded and sent Lisa a short message like Stella suggested. “At least I don't have any pressing matters to attend to.” He said and put the laptop aside. “All I need to do is relax and enjoy the long boat ride.”
+
+“Good.” Stella said and handed him the VR headset. “I'll see you at supper.”
+
+“Thanks, Stella.” Ren said, then took her hand. “For everything.”
+
+Stella squeezed his hand. “You're welcome.”
+
+Ren put on the VR headset and relaxed.
+
+“Flow Login Start.”
+
+*
+
+Lisa had taken the taxi home, and went into her house. Her mother was irate that she had been gone for so much longer than she said she would be. Her mother hollered and yelled that Lisa could have been dead in a ditch somewhere, and her mother would never know what had happened.
+
+Lisa apologized several times; but when her mother got into this panic mode, there wasn't much anyone could do to take her out of it. She let her mother rant and rave for several minutes, then slowly started to drift over to the staircase. Her mother hadn't even noticed when Lisa got to the stairs and started walking up them as she continued to berate her daughter for being so stupid. Lisa made her escape from her mother's tirade and went to her room; but, she could still hear her mother talking. She shut the bedroom door and put the small bag she'd hidden behind her back, on the bed and sighed.
+
+I can't believe I let Lily talk me into taking them. Lisa thought and pulled out a nice dark blue one piece bathing suit. She really liked this one because it was form-fitting and highlighted her legs with the high cuts on the sides, and the dark color completely hid her small chest from view. That one was for actual swimming, so she put it aside and took out the next one. It was a two piece, a nice light red color, and had the tapered padding in the top to give that push-up look to her chest. That one was for relaxing by the pool and for getting a nice tan.
+
+Lisa took the last suit out of the bag, and her face flushed red as she looked at it. It wasn't quite a g-string bikini; but it was pretty close, and it was made of a thin fabric. It was also a solid yellow color and it managed to cover everything. The biggest selling point for it was that even though the fabric looked like it was a solid yellow, when it was wet it turned semi-opaque and almost see-through. That one was for private time between her and Ren in the Jacuzzi.
+
+Her face burned as she blushed hard at the thought of Ren seeing her in such a thing. She still couldn't believe she had let Lily convince her that she needed all three bathing suits, when one could have been used for all three things.
+
+“The one piece is great for swimming.” Lily had said at the time. “But you'd never get a good tan, and it sucks for lounging by the pool. Plus, you'd boil in it if you're in a Jacuzzi.”
+
+Lisa had agreed that those were good reasons to get at least one more suit, and Lily had convinced her that the push-up one was the best for an all around swimsuit, as long as you didn't try to swim in it. It was meant for walking, lounging, tanning, and pretty much anything you could do in a swimsuit outside of the water. The see-through one was for Ren's eyes only, and Lily had nearly jumped for joy when Lisa had asked for one.
+
+“He is gonna love it!” Lily had said and laughed a little crazily as she picked out the best suit for Lisa's body type. “You have to tell me about his reaction when you slam his eyeballs with this outfit!”
+
+Lisa had just nodded and tried on several suits, then settled on the ones she took. The sales lady had flatly refused to give her a receipt when she took them to the counter.
+
+“We know our products.” The sales lady had said demurely. “If there's any problem, bring them back and we'll either fix them or replace them.”
+
+“I can only imagine how much they were.” Lisa said softly as she touched the silky fabric, then slipped the suits back into the bag and opened her closet and tucked the bag into the sleeve of one of her winter coats. It was already bulky and you couldn't tell there was anything inside; so, it was the perfect hiding place.
+
+Lisa didn't even consider debating with herself about if she would go back to see him; only about when she could. She smiled as she changed out of her nice outfit and into jogging pants and a t-shirt, then picked up her VR headset.
+
+********
+
+Ren found himself in the white loading area, and looked around. “It's kind of strange that I'm...”
+
+“Hi, handsome.” A woman's voice said from behind him.
+
+“Elise!” Ren said and turned around, then gave her a hug. “Is it a set parameter that you always appear behind me?”
+
+Elise chuckled. “It always works out that way, doesn't it?”
+
+Ren smiled. “Seeing you again so soon is great; but, aren't you at work?”
+
+“I am.” Elise said. “I just wanted to check up on you.”
+
+Ren let her out of the hug. “I'm doing okay.” He said, then smiled. “Barbara's sister was by with the house papers for me to sign.”
+
+“That's great!” Elise said. “How does it feel to own your own home?”
+
+“Strangely satisfying.” Ren said and laughed. “I never imagined I'd own my own home.” He looked around at all the whiteness. “Can you make a step stool appear?”
+
+“Of course.” Elise said. She typed up something on an invisible keyboard and a step stool appeared beside Ren.
+
+“Thanks.” Ren said and put it in front of Elise, walked up the two steps, and was now at a more manageable height. He put his arms around her neck and kissed her. Elise wrapped her arms around him and kissed him back. A minute later, she broke the kiss.
+
+“I could have knelt for you.” Elise smiled.
+
+“And I could have asked for a bed.” Ren said, and she laughed.
+
+“Good god, can you imagine?” Elise said. “What would my coworkers say?”
+
+“I wish it was me?” Ren said and grinned, and she laughed again.
+
+“Thank you for making me laugh.” Elise said. “I needed that.”
+
+“I'm glad I could help.” Ren said and kept his arms wrapped around her neck. “Lisa stopped by today, too.”
+
+“Already?” Elise said. “I thought she'd wait until the afternoon at least.”
+
+“She showed up this morning and we hung out for a while.” Ren said.
+
+“And?”
+
+“I really like her.” Ren said.
+
+“So, it wasn't just in the game, then.” Elise said. “That's kind of surprising.”
+
+“It sure was.” Ren said and leaned in to put his lips by Elise's ear. “When we shared our first 'real' kiss, she reacted almost the same as you did.”
+
+“She really does like you, then.” Elise said, because she understood what Ren meant. “Are you going to see her again?”
+
+“Probably tomorrow or the next day, after I move.” Ren said.
+
+“So soon?” Elise asked.
+
+“I'm not planning on anything happening.” Ren said. “I don't think she is, either.”
+
+“But it could.”
+
+Ren nodded. “She hasn't had 'the talk' with Stella yet; but, I did give her a rundown of what's possible and what's not.”
+
+“You're prepping her in case something does happen.” Elise said.
+
+“I'd rather be safe than sorry.” Ren said.
+
+Elise nodded. “I'm glad.” She said. “I want you to have me first, though.”
+
+Ren leaned back and looked at her. “Are you sure? We've both been kind of putting this off for a while.”
+
+Elise nodded. “I'll come by tonight.” She said. “We can head over to your place and break in your new bed.”
+
+Ren smiled. “Nothing would please me more.”
+
+“That better not be true.” Elise said and smiled wickedly. “I'm very good in bed.”
+
+“I can't wait.” Ren said, and they kissed for several minutes. Something caught Elise's attention and she stopped kissing him.
+
+“Damn, I have to go.” Elise said.
+
+“Me, too.” Ren said and let her go. “I have some sleep to catch up on.” He stepped down off the stool and looked up at her. “Thanks for the quick visit.”
+
+“Oh, right!” Elise said. “I forgot to tell you why I brought you here.”
+
+“Then let me have it.” Ren said and smiled.
+
+“Mr. Torren, and Max the head programmer, said they won't be giving you all the XP you were supposed to get.”
+
+Ren nodded. “I finally got a chance to read the apology Mr. Torren sent. He didn't apologize for the attack, but for having my character build wrecked.”
+
+Elise sighed and nodded. “He told me that was why he wasn't going to give you more levels and bonuses.”
+
+“I understand.” Ren said.
+
+“He said he was going to come up with something to make it up to you, but I don't know what it will be, or when you'll get it.” Elise said. “I have all the evidence of everything, so if what they come up with isn't to your liking, I'll leak about the error on the message boards and we'll see what happens.”
+
+“Don't do that.” Ren said, and her eyes widened. “Even if they end up not giving me anything, please don't cause a scandal that could hurt the company.”
+
+“But Ren...”
+
+“Elise.” Ren walked back up the step stool and put his hands on the sides of her face. “If this leaks, they'll know it was either you or me that did it.” He said. “I know you're protective of me and want what's best for me...” He smiled. “...but please, don't get yourself fired or me banned from the game over this.”
+
+“Ren...”
+
+“I love you.” Ren said, and kissed her passionately. Elise got another notification to leave; but, she ignored it as her body reacted to his words and his forcefulness. She wrapped her arms around him and hugged him tightly as they kissed. A few moments later, Ren broke the kiss, much to her disappointment.
+
+“You have to go.” Ren said, and Elise sighed.
+
+“I do.” Elise said and let him go.
+
+“I'll see you tonight.” Ren said. “Bye, Elise.”
+
+Elise hit the button to send him into the game. “Bye, Ren.” She said and kissed him again, then he faded from the white loading area.

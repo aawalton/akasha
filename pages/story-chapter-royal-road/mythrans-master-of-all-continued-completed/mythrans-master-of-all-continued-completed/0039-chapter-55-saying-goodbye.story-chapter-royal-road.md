@@ -1,0 +1,165 @@
+---
+id: 33ea4e0d-f59d-514a-b1d1-8466fde08c4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55 - Saying Goodbye"
+slug: 0039-chapter-55-saying-goodbye
+partOf: mythrans-master-of-all-continued-completed
+position: 39
+ownLength: 2338
+unit: words
+publishedAt: 2016-10-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98455/chapter-55-saying-goodbye"
+royalRoadId: "98455"
+---
+
+Ren stared in shock at the shiny black fur that cascaded down the cloak. Aimus had removed the back legs so the cloak would be flat along the bottom edge. Ren turned the hooded cloak around and saw that Aimus had left the skin of the front legs... and the toes of the paws. They would hang down the front when the cloak was fastened. Ren lifted the hood and saw it was the whole upper head of the dire wolf with the teeth still intact.
+
+Dire Wolf Hooded Cloak (High Quality)
+
+This cloak was made by a master craftsman. Extreme care and diligence was used to produce a high quality item from an unlikely source.
+
+Durability: 500/500
+
+“A-A-Aimus!” Ren stammered. “This... I can't believe...” Ren shook his head. “Why?” Ren asked in disbelief. “Why are you giving it to me and not keeping it for yourself?”
+
+“Well... despite all the trouble that seems to follow you wherever you go... you've done a lot for me and my family. The leather pelts alone will get us enough money that we won't have to worry about anything for a very long time.” Aimus said and clasped Ren's shoulder. “The lumber we harvested usually takes me a month to gather, and we did it in a day. We covered the trench and built a new shed and harvested even more lumber.” Aimus smiled and let Ren's shoulder go. “The trench I'll probably have to bury, since I don't see myself getting another 300 or so pelts to put in it.” Aimus said and laughed.
+
+Ren nearly had tears in his eyes when he clasped Aimus' shoulder in return. Ren thought about giving Aimus a hug instead, but thought that Aimus didn't look like the hugging type.
+
+“I... I really don't know what to say except... thank you.” Ren said and took off his travelling cape and put it into inventory as well as the new hooded cloak. Ren equipped the Dire Wolf Hooded Cloak and got a popup.
+
+Notice!
+
+You proudly wear the skin of a creature you personally vanquished in battle! Because it was more than 30 levels higher than you, those who see you wear it will be in awe.
+
+Fame: +100
+
+Notice!
+
+Due to your high Fame (1000+) you have discovered a hidden power within the cloak. If your Fame drops below the required amount, the skill will automatically deactivate.
+
+This cloak grants you a Special Skill while equipped:
+
+Aura Level 1 (Beginner 0%) (Active)
+
+This produces a menacing effect within a 10 foot radius of you. Small creatures will flee from your sight.
+
+Higher levels will increase the distance and allow larger creatures to be affected.
+
+“Whu-hoa!” Ren half-shouted after the popups. “Aimus... this is amazing!” Ren said and did a little walk and turn to show off the new cloak. Teepo had crawled to the center of Ren's chest after the cloak was equipped. It hung nearly to the bottom of Ren's feet, so the game must have sized it to fit when Ren put it on. The cloak was quite a bit longer than that before. Ren flipped up the hood to see if it would impair his sight, but the dire wolf's head only covered his head and cast Ren's face in a dark shadow. “This is so cool!” Ren exclaimed.
+
+“If you like that, then you're going to love this.” Aimus said and handed Ren 8 jet black claws. The claws were about 6 inches long, an inch wide at the base, and had a slight downward curve. “I looted them and some silver coins right after I skinned it.” Aimus tried to hand over the silver but Ren shook his head.
+
+“Giving me the cloak was enough.” Ren said. “The claws? That's almost too much.” Ren smiled and put them in inventory. “Aimus... even if the dire wolf had dropped gold coins, I'd still want you to keep them. If it wasn't for your well-placed arrows and Teepo's help... I would have been a quick lunch.”
+
+Aimus nodded and reluctantly put the money away in the pouch Ren had given him.
+
+“That reminds me. I left something in your craft shed for you.” Ren said and smiled.
+
+“What?” Aimus said, a hint of doubt in his voice.
+
+Ren laughed. “No... nothing bad. It's something that should help you out quite a bit.” Ren said. “I left it in the shed just before you came back to the homestead with the horse and cart. It was when took the crafting station back... and I thought for sure you were going to take the title away from me as well.”
+
+Aimus had a shocked look on his face. “Ren, I... I'm sorry. When I asked for the crafting station, I was only borrowing it. I didn't tell you why I needed it because it was supposed to be a surprise.” Aimus shook his head. “You've been worrying about losing the title for the last 4 days, haven't you?”
+
+Ren nodded. Aimus took Ren into a quick hug, gave him a squeeze, and let go. Ren had been right. Aimus wasn't a hugger.
+
+“I really am sorry.” Aimus repeated.
+
+“It's okay... I'm glad that I was wrong for once.” Ren smiled, then remembered something he had forgotten. “Oh, by the way... I forgot to give you this. In all the things happening lately, it completely slipped my mind.”
+
+Ren took out the good sized rock he had taken from the river after the forest fire. It only took Ren a couple of seconds to enchanted the rock with a Water Spray glyph of 2 wind and 2 water.
+
+“When you want to use it, just tap the glyph. With 2 water and 2 wind, it should be enough to soak any fire that may come up. It'll keep going unless you disenchant it, or break the surface of the rock. A hammer should do it... or you could just toss it into a river, or use it to fill the trench, or dig a moat around your property and fill it... eventually.” Ren chuckled.
+
+Aimus looked a little befuddled by all the options Ren had given him. “You can save it for a fire, or just use it.” Ren said. “Like I said, I meant to give it to you before. We could have done all of that... if I hadn't...” Ren dropped his head.
+
+Aimus grasped Ren's shoulder again. “I didn't expect you to just stand there and let someone get killed. That it turned out to be someone you knew didn't matter. If I'd arrived in time...”
+
+Ren put his hand on Aimus' hand. “Well... how about we share the blame?” Ren said.
+
+“If you weren't such a good person...” Aimus said.
+
+“...and if you weren't such a hard-ass...” Ren countered.
+
+They both had a good laugh.
+
+“I should go.”Aimus said a moment later. “I have to drop off the horse at the stable.”
+
+Ren walked back to the cart with Aimus.
+
+“Thanks again, Aimus. I learned a lot.” Ren said.
+
+“You know what my father always said?” Aimus asked and Ren shook his head. “You know you're alive when you do something so stupid that it's both fun and scary at the same time.”
+
+Ren laughed again.
+
+“Yeah, he had a way with words... but he died doing just that. Scared for his life, but having fun the whole time.” Aimus said and climbed up into the driver's seat of the cart. “I miss the old coot sometimes.”
+
+Ren didn't say anything, even though he was tempted to find out what it was that Aimus' father had been doing before he died.
+
+“Then I met you.” Aimus said and took the reins. “You sorta remind me of him.” Aimus smiled. “Goodbye, Ren.”
+
+“Goodbye, Aimus.”
+
+Aimus flicked the reins and the horse trotted onto the road. Ren pulled the hood back on his cloak and watched the cart pass through the city gate and disappear around the corner of a building. Ren walked back to where Lucy lay in her bedroll and gathered up several rocks. Ren enchanted them with Immense Terror glyphs and placed them around the small space he and Lucy occupied. Teepo had crawled around Ren's shoulders occasionally to keep an eye out. Ren's Mana Pool was down to less than a quarter. Ren sat right beside Lucy and activated the special ability that his Dire Wolf Hooded Cloak had given him.
+
+Ren's Aura snapped into place and covered a 10 foot radius around him, and Ren wondered again how long he would have to wait before Lucy would log back in. Ren took out his Book of Runes and the metal shield with the Grip of the Earth glyph on it.
+
+“What are you doing?” Teepo asked while crawling around the edge of the protected space. It was the first thing he'd said in a while, but neither Ren nor Teepo were bothered by not talking.
+
+Just practicing. Ren absorbed the glyph and flipped through the pages of the book. Ren assumed that had tons of time to waste and started to enchant the basic runes over and over again. It cost almost no mana and Ren could absorb it and enchant another. Ren looked at his Enchanting XP bar and saw it gradually start to climb in miniscule increments. Ren grinned. Double rune Glyphs it is. Ren thought and the bar went up just a little bit faster. The last of Ren's Mana Pool slowly started to drain.
+
+********
+
+Lucy was in quite a bind. Her suddenly filed transfer papers had thrown months of schedules into disarray. Lucy had been sitting in the HR department since first thing in the morning. Lucy had wasted the whole day in the conference room, listening to the head of the HR department whine about how Lucy had screwed up the only thing that had run properly in the whole hospital... 'The Schedule'.
+
+Lucy sighed mentally and hoped that she wouldn't be too much longer. Lucy was sure that Ren had been waiting for her for quite some time, as it was getting close to the normal shift change upstairs. Lucy still had to go home and eat before she could log back in. Come on... come on! Lucy thought furiously. All you have to do is tell me here I'm being sent. I don't need to hear all about your damn schedule![\i]
+
+********
+
+Ren stayed there all night guarding Lucy. Teepo had crawled up and settled into the open hood of Ren's cloak and occasionally would make the circuit around Ren's shoulders to scout the terrain and return to the hood. Ren didn't think any small animals had come near them during the night, but some must have because just before dawn, a popup appeared.
+
+Stat Change!
+
+Aura Level 2 (Beginner 0%)
+
+Maybe just having it on all the time works? Ren thought. Ren did one more enchantment and it was enough to empty his Mana Pool completely and got another popup.
+
+Stat Change!
+
+Enchanting Level 6 (Intermediate 0%)
+
+Absorb Enchantment Level 1 (Intermediate 0%)
+
+Ren chuckled. [i]I had hoped I could level those up before my Mana Pool was gone. I'll have to be more careful until I can get it refilled. Ren looked at his Health bar and saw that it was slowly dropping. When was the last time I ate anything?
+
+“Yesterday morning.” Teepo said instantly.
+
+Huh. That long ago? I was pretty close to leveling Staying Power the last time I checked... I wonder when I'll get-
+
+Stat Change!
+
+Staying Power Level 4 (Intermediate 0%)
+
+Ren chuckled again as dawn broke over the horizon and light filled the space around the city. It reflected off the high walls behind Ren and made the field that much brighter. Ren looked down at the metal shield he held. Ren had been enchanting and disenchanting it all night, but not a single mark was left on it. Ren rubbed his fingers along the gleaming gold metal and his Vision of Impurity didn't detect any flaws.
+
+After all that time in the temple, and nothing happened to it. Ren thought as he took out one of Abigail's homemade buns and chewed it. Ren could keep leveling up Staying Power, but wanted to at least have a full Health bar when he entered the city.
+
+Abigail made it hard to level up Staying Power on the homestead, though. Ren thought and finished the bun. Ren's Health Bar increased a nice amount and got another popup.
+
+Stat Change!
+
+Rationing Level 1 (Intermediate 0%)
+
+Ren smiled and shifted his gaze to Lucy's unmoving form. Ren really wanted to get inside the city before anything, or anyone else showed up. Ren took out one of the repaired goblin daggers he had sitting in his inventory since the Aurora Expedition and thought he could train Iron Grip on it. Ren crushed the handle and bent the hilt. Ren sighed and took out his blacksmith hammer. The dagger was repaired and put back into inventory. Ren didn't want to empty his Mana bar, but it would regenerate anyways, so Ren kept enchanting the shield with glyphs and absorbing them back while he waited.
+
+********
+
+Lucy finally got her assignment from the head of the HR Department. She looked at it and smiled. It wasn't going to be too bad at all. Lucy thought as she left the conference room. Lucy took a taxi home and grabbed a quick bite to eat on the way. She shouldn't be eating fast food, but she'd left Ren alone in the game for almost 4 days already and didn't want to make him wait any longer.
+
+Lucy entered her house and locked everything up again. Lucy's favorite t-shirt and jogging pants were much more comfortable than the skirt and heels she had been wearing all day, and Lucy changed quickly. After sitting down in a reclining chair and putting on the VR helmet, Lucy logged in.
+
+“Flow Login Start.”
+
+********

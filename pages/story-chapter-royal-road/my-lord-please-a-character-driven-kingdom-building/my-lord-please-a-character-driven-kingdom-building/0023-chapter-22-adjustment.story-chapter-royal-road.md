@@ -1,0 +1,411 @@
+---
+id: 6b895180-550c-5b76-907a-64a21514a4d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 Adjustment"
+slug: 0023-chapter-22-adjustment
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 23
+ownLength: 3682
+unit: words
+publishedAt: 2026-04-05
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3235701/chapter-22-adjustment"
+royalRoadId: "3235701"
+---
+
+No alarm split the air, no hurried boots crossed the yard, and frost lay undisturbed on the roofs, thin and silver beneath the pale sun.
+
+Lucien stood by the narrow window of his study, looking down toward the inner yard where men moved more slowly than usual, arms stiff from bruising and strain.
+
+A dull ache lingered along his own forearm where the shield had taken the worst of the impact. The bruising had darkened beneath the sleeve. His inherited body did not have muscles accustomed to absorbing repeated force.
+
+Timber was being carried toward the southern palisade and a cart of broken shafts had been brought in from the ditch, overturned for sorting.
+
+The collapsed stretch of ditch had been cleared of the worst of the ruin, though the earth there still bore the darkened stain of churned frost and blood. Stakes were being reset in measured intervals placed with deliberate spacing under his direction.
+
+The wall still stood, though sections of it bore dark scarring where wood had splintered under repeated impact.
+
+Lucien observed the repairs from the study's window before withdrawing inside.
+
+The room had been cleared of maps and a long table had been brought forward again. Elias stood waiting beside it, ledger tucked beneath his arm, his expression composed but drawn.
+
+Dorian entered shortly after, helm absent, one shoulder bound beneath his cloak where the variant’s strike had glanced him.
+
+Lucien did not sit. “Report.”
+
+Elias inclined his head and opened the ledger.
+
+“The southern fields suffered trampling along the outer grazing line,” he began. “Two pens destroyed. Livestock scattered, but most recovered by dusk yesterday. We will need to reseed portions of the eastern strip come spring. The grain stores remain intact.”
+
+He turned a page.
+
+“Arrow stock is reduced beyond comfortable margin. Fletchers are at work, but iron heads are limited. What we recover from the ditch will need to be reforged, Joren has been at the forge since first light.”
+
+The ore had already been nearly exhausted before the Tithe began. What remained would not stretch far and replacement iron was unlikely to come from Cragwatch.
+
+Elias continued his report. “Timber reserves are diminished from the reinforcements and the repairs. We can compensate from the northern copse, though it will thin the windbreak.”
+
+After the steward finished his report, Lucien shifted his attention to Dorian.
+
+The captain did not consult parchment. “One dead,” he said, jaw set. “Dalen. Buried at first light.”
+
+At the mention of the name, something tightened in Lucien’s chest before he forced it still.
+
+“Tomas lives,” Dorian continued. “Arm cut but not crippled. He will not lift a shield for some days. Seven others with punctures or breaks. None mortal.”
+
+He exhaled slowly through his nose. “One,” he repeated.
+
+Dorian met his gaze evenly. “In past Tithes, we would count differently.”
+
+Lucien absorbed that in silence. “What about the beast's movement?”
+
+The captain cleared his throat. “Scattered movement since yesterday. Goblins and kobolds continue to drag their dead from the southern wood. No clustering or sustained movement.”
+
+Lucien’s gaze sharpened. “And the rust-colored kobold?” he asked, tone low.
+
+Dorian’s jaw tightened faintly at the mention of it. “It fled west along the deeper wood. Toward the darker stretch beyond the bend. No sign since.”
+
+West.Lucien held the direction in silence.
+
+The manor fell quiet for a moment. Outside, the sound of hammer on timber carried faintly through the shutters.
+
+Ore was nearly gone, arrows depleted, and timber reserves reduced.
+
+Several men were wounded.
+
+One had not come down from the wall.
+
+Yet it had held and the gate remained intact while the village still stood; by the measures of this land, it was considered a success.
+
+“We will not let the men disperse into silence,” he said at last.
+
+Elias looked up from the ledger.
+
+Dorian’s expression did not change, but his attention sharpened.
+
+Lucien folded his arms behind his back. “They have labored since before dawn, the repairs can continue through tomorrow. When the sun lowers this afternoon, we will set aside the work.”
+
+Elias’ brow furrowed slightly. “A gathering, my lord?”
+
+Lucien gave a slow nod. “Acknowledgment is necessary. The village endured and the men deserve to stand without armor, if only briefly.”
+
+He glanced toward Dorian. “We mark that the wall held. We mark that one did not return.”
+
+Dorian studied him for a long moment before nodding once. “It will steady them,” the captain said.
+
+Lucien nodded, walking toward the window once more. The two men withdrew, leaving the study quiet once more. He remained by the window.
+
+Below, Tomas crossed the yard slowly, one arm bound at the forearm. He walked without assistance. His posture was rigid, not from pain but from something heavier.
+
+Lucien watched him until he passed from sight.
+
+Ashridge had endured.It would remember.
+
+By late afternoon, the rhythm of labor had softened.
+
+Tools were set aside in small clusters along the southern palisade, timber dust clung to sleeves and hair. The ditch still bore signs of its collapse, but its edges had been squared and reinforced enough that it no longer looked like a complete ruin.
+
+The gathering formed near the tavern beneath the eaves where the ranking board had once drawn daily attention.
+
+Smoke rose from several hearths at once, thicker than usual for that hour. Tables had been drawn from homes and arranged near the open yard between the well and the inner ramp. No banners were raised to call the village together. The gathering formed gradually, as if by shared understanding rather than command.
+
+Lucien arrived without escort.
+
+Conversations dipped when he entered the yard, settling into something more attentive. Men straightened unconsciously while women inclined their heads. A few of the militia who had stood in the corridor two nights prior shifted their weight as if resisting the urge to salute.
+
+He did not notice the adjustment as his eyes moved over the assembly, counting without meaning to count.
+
+Dalen’s place remained unspoken but felt.
+
+Food had been prepared from what remained easiest to spare, root vegetables, coarse bread, strips of salted meat. No one feasted, they ate with the steady appetite of those who had worked through strain and now found themselves allowed to exhale.
+
+The mood was lighter than it had been in days.
+
+Children moved more freely between the adults and laughter surfaced in brief bursts rather than strained attempts. The sharp vigilance that had tightened shoulders since the first horn had finally eased.
+
+Not far from the well, Elias stood with a small ledger tucked beneath his arm, speaking in low tones with two of the older farmers, guiding the space without overt command.
+
+Men deferred to him instinctively as they shifted a table aside to widen the path between benches. When a cask ran low, he signaled quietly and it was replaced without fuss. The flow of the yard adjusted around him with little more than a word and a gesture.
+
+He caught Lucien’s eye only once across the space and inclined his head in acknowledgement.
+
+Alicia moved between the tables with steady hands, sleeves rolled past her elbows, refilling bowls and adjusting cups before anyone needed to ask. Children drifted toward her without thinking, and more than one older woman pressed a hand briefly to her arm in passing.
+
+Harlon leaned against a post near the cask, pipe unlit but present between his fingers.
+
+Not far from him, Bran stood with one hand wrapped around a cup he had yet to lift. Joren hovered beside him, broad shoulders dusted faintly with forge ash that no washing ever fully removed.
+
+“You look worse than the goblins,” Joren muttered, eyeing the smear of dried blood along Bran’s sleeve.
+
+Bran snorted. “That’s your forge smoke. Clings to everything.”
+
+“It’s called honest work.”
+
+“So is farming.”
+
+Joren gave him a sideways shove with his elbow. “Next time you plan to catch beasts with your shield, warn me. I’ll make you a thicker one.”
+
+Bran’s mouth twitched. “Next time you plan to swing a hammer at my head from the wall, aim better.”
+
+Joren barked a short laugh at that, rough and unguarded, and some of the tightness in Bran’s shoulders finally eased.
+
+Dorian remained present at the edge of the gathering, his presence was visible enough to reassure without overshadowing.
+
+When enough eyes turned toward him, Lucien stepped forward.
+
+He had prepared no speech, only a few words were needed.
+
+“The wall stands,” he began, voice carrying without effort. “The gate is unbroken and the fields remain ours.”
+
+“You held your ground,” he continued. “You did not yield to panic nor did you break formation.”
+
+His gaze shifted briefly across the faces before him. Some bore bandages while others had darkened bruises along jawlines and forearms. Most carried the faint exhaustion of men who had not slept well in days.
+
+“Ashridge endured because you endured,” he said simply. “That is not a small thing.”
+
+He paused, aware of the weight in the space but uncertain how to navigate it.
+
+“One man did not return from the wall,” he added. “Dalen stood where the weight struck hardest. He will be remembered for that.”
+
+There were no cheers at that. Only grim nods.
+
+Bran lowered his head once, when he lifted it again, his eyes found Lucien briefly before shifting past him toward where Alicia stood among the tables.
+
+“We rebuild what failed. We strengthen what bent. And we do so knowing we endured.”
+
+He looked over them once more. “This evening is not for boasting. It is for standing without armor and knowing you still can.”
+
+He stepped back and for a moment, no one moved.
+
+Then Harlon thumped the side of the cask with the heel of his palm and began pouring.
+
+The mood shifted gradually rather than all at once. Cups were passed and quiet laughter surfaced in pockets. A few men inclined their heads toward him.
+
+He remained present, answering brief words from Harlon about timber, from Elias about seed stock, from one of the older villagers who clasped his forearm with calloused gratitude. He responded evenly, without warmth or distance.
+
+Lucien remained at the edge of the gathering, accepting a cup he did not drink from. He observed the villagers instead.
+
+The tightness that had gripped their movements for days had loosened and shoulders were no longer held as though braced for impact. Their voices rose without checking the treeline between sentences.
+
+Relief had weight of its own yet beneath the lightness, something heavier lingered.
+
+They had lost a man.
+
+The grief did not fracture them because it had not surprised them. Loss belonged to the frontier as surely as frost and timber rot. It was not an anomaly, it was accounted for.
+
+Lucien understood the logic of it.He rejected it anyway.
+
+He watched Tomas standing at the outer edge of the gathering, cup untouched in his hand, expression distant. A few men clapped him on the shoulder in passing but none lingered.
+
+Lucien lowered his gaze to the rim of his cup.
+
+By every measurable standard, the Tithe had been a success. The casualties were fewer than projected. The gate had not broken and the walls had not been breached.
+
+In another lord’s ledger, it would have been marked as exemplary.In his mind, it remained flawed.
+
+He had misread the pressure, mistaking movement for retreat and had been expecting the beasts to rise like a wave rather than press like weight.
+
+Dalen had stood where he was told to stand.And Dalen had died.
+
+Alicia approached him quietly, stopping just within his space. “It’s gone cold,” she said softly, glancing at the cup in his hand.
+
+Before he could answer, she took it from him and replaced it with one that still steamed faintly.
+
+“You should eat,” she added gently. There was a faint crease between her brows that had not been there before the Tithe.
+
+Lucien looked down at the warmth now settling back into his hands. “I will.”
+
+She hesitated, as though wanting to say more, but only nodded when someone called her name and stepped away.
+
+He found himself watching her longer than he intended before turning back toward the crowd.
+
+Across the yard, Bran noticed the look linger a fraction longer than most and said nothing.
+
+Around him, laughter grew louder as the cask lightened.
+
+He straightened his posture unconsciously, settling his expression into composure. Even in celebration, a lord must remain measured.
+
+The thought of it brought distance.
+
+He inclined his head to those who passed close enough to greet him and answered quietly when addressed, he did not linger in any one conversation.
+
+The villagers were lighter.He was not.
+
+The sun dipped lower, washing the yard in muted gold.
+
+He missed the lingering glances that followed him. There was something new in the regard, not fear or mere deference.
+
+His thoughts remained on the wall.On the seam.On the half breath where the weight had shifted and he had been slower than he should have been.
+
+The cup in his hand had gone cold again.
+
+He turned it once between his fingers, feeling the absence of warmth, then set it aside without drinking.
+
+Behind him, Joren leaned closer to Bran and said something low that drew a short, rough laugh from the younger man. For the first time in days, it did not sound forced.
+
+And when the laughter swelled again behind him, Lucien turned and walked away from the light.
+
+The noise of the gathering dimmed behind him as he stepped away from the tavern yard.
+
+The cup he had set aside remained untouched on the table.
+
+Lucien did not announce his departure.He simply walked.
+
+Two bottles rested in his hands, one in each, he had taken them from the manor cellar without much thought. They were likely set aside for visiting merchants or formal occasions. Their worth did not matter to him, he rarely drank.
+
+Lucien only knew he did not wish to stand beneath lantern light while others laughed.
+
+He walked without direction at first.
+
+The night air held the faint scent of damp earth and woodsmoke. The palisade loomed darker than the sky behind it, torches marking its curve in intervals. His boots carried him along the inner ramp, past the stretch that had been reinforced, past the section that had bent and been remade.
+
+Lucien exhaled slowly through his nose. ‘Brooding,’ he noted to himself dryly. He had never been prone to it.
+
+Yet here he was, walking through cold air with wine in both hands like some figure out of a poorly written drama.
+
+He did not realize where he was going until the ditch came into view.
+
+The seam.
+
+The slope had been cleared of most debris. The earth was packed firmer now, though its surface remained uneven, marked by the memory of collapse. Frost had begun to settle again along the edges, pale and indifferent.
+
+He almost turned back but movement near the base of the wall stilled him.
+
+Someone was near the outer brace, shoulders hunched against the cold.
+
+Tomas.
+
+The man stood with his uninjured arm hanging loosely at his side, the other bound against his chest. His head was bowed slightly, not in prayer, but in recollection.
+
+Lucien hesitated at the sight of the young militia.
+
+A Noble would not linger alone with a peasant after dark, not without witnesses or purpose. There were expectations even here, unspoken but firm.
+
+A Noble would return to the manor.He could leave the man to his thoughts.
+
+Leon would not.
+
+The thought arrived unbidden and refused to retreat.
+
+Leon had never cared much for hierarchy beyond function. He had cared for performance, for systems, for structure.
+
+But he had also stayed late to ensure his junior was not drowning beneath workload. He had reviewed their code without complaint. He had sat in silence beside someone who believed they had failed.
+
+One rather nosy junior, in particular.
+
+He stepped forward before the thought fully formed.
+
+The crunch of frost beneath his boots broke the stillness in the air.
+
+Tomas jerked in surprise, turning sharply before recognition dawned. He attempted to bow awkwardly, pain tightening his expression as he tried to lower himself.
+
+“Milord—”
+
+“At ease, Tomas,” Lucien said quietly. “We both know why we are here.”
+
+The man froze, stunned not by the words, but by the familiarity of his name on his lord’s tongue. “You remembered my name,” he breathed before he could stop himself.
+
+Lucien’s brow lifted a fraction. “I removed it from the board,” he replied. “That doesn't mean I have forgotten it.”
+
+Tomas swallowed and lowered his gaze and for several moments, a silence settled between them, heavy with what had been lost.
+
+“It should have been me.” The words left him before he could swallow them back.
+
+Lucien did not respond immediately.
+
+Tomas’s hands clenched at his sides. “I stepped early and I was the one who slipped. I was the one who left space. If I had not—” He broke off, breath uneven. “Dalen would still be alive.”
+
+He listened in silence.
+
+Tomas’ voice roughened as he continued. “I’ve stood that line for three Tithes. I know better. I should have—” His breath hitched, anger and guilt tangling together. “He had a wife. Two daughters.”
+
+Lucien looked away first.
+
+‘...I am not the only one blaming myself.’ The thought carried a faint edge of irony.
+
+He had spent the day remembering the sound the line had made when it gave. He had carried Dalen’s death as something he should have prevented.
+
+Tomas had marked it as his own.
+
+Lucien held out one of the bottles without ceremony. “Have a drink.”
+
+The younger man stared at him as though he had misheard. “Milord?”
+
+He extended the bottle again as Tomas looked at him uncertainly.
+
+“Are you going to refuse a noble’s offer?” Lucien asked, a trace of dryness in his tone, tempered by quiet humor.
+
+He blinked, then gave a short, startled exhale that might have been a laugh. “No, Milord.”
+
+Lucien passed him the bottle, the younger man took a cautious swallow, coughed at its strength, then drew a slow breath to steady himself.
+
+He opened the second bottle for himself, taking a swig from it. It burned more than he had expected.
+
+“Tell me about him,” Lucien said at last.
+
+“Milord?”
+
+“Dalen,” he clarified softly.
+
+The name shifted something in the man’s posture. He drew in a breath and began haltingly, speaking of simple things. Of Dalen’s stubbornness when repairing fences and how he always took the heavier load without complaint. The way he carved small wooden animals for his daughters during slow winter evenings.
+
+The words came slowly at first, then with growing steadiness.
+
+Lucien listened, not interrupting as he learned about the ordinary life of a man.
+
+A scrape of boots sounded behind them.
+
+Two guards halted several paces away, clearly uncertain whether to advance or retreat. They were younger than Dorian’s sworn four, attached to the manor and accustomed to distance from their lord.
+
+They looked from Lucien to Tomas and back again. “My Lord,” one ventured carefully. Their eyes flicked from him to the bottle in Tomas’s hand.
+
+He tilted the second bottle in their direction. “You look like you could use a break,” he said. “Join us.”
+
+The guards hesitated. “We did not mean to intrude,” the other said. “Captain Dorian may not—”
+
+“I outrank him,” Lucien replied, the corner of his mouth barely shifting. “I am certain he will survive the offense.”
+
+A nervous chuckle escaped one of them before he could restrain it, they stepped closer and the bottle passed between them.
+
+Conversation resumed, hesitant at first, then easier. Each man added something, whether be it a story or a complaint Dalen used to make. The way he had insisted on sanding the inner grip of his shield smoother than necessary.
+
+They did not stand apart, instead they formed a loose circle naturally, the ditch at their backs, and the wall rising above them.
+
+More footsteps sounded as word traveled quietly along the ramp. A third guard arrived, then a fourth. None announced themselves loudly or turned it into spectacle.
+
+Men on staggered rotation drifted toward the seam, gathering naturally because they had seen their lord standing where one of their own had fallen.
+
+Because he had come alone.
+
+From a distance, the gathering at the tavern remained brighter, louder. Lantern light and laughter carried faintly across the yard.
+
+Here, at the seam, the light was dimmer.Quieter.
+
+Stories began to overlap as the drink passed between hands. A recollection from the training yard or complaints of how Dalen had once voiced about cold rations. Laughter surfaced briefly, soft and genuine, before settling again.
+
+From a distance, the seam no longer appeared abandoned.It held men instead of ruin.
+
+Lucien did not dominate the conversation but did not retreat from it either. He listened then asked a question when silence grew too heavy and allowed memory to fill the space that failure had left.
+
+At some point, he became aware that the circle had widened.
+
+More guards had joined silently, militia who had lingered near the wall drifted closer as they stood in shared remembrance.
+
+He did not know when but the bottles had emptied gradually, someone produced another.
+
+Lucien found himself seated upon the outer brace without recalling when he had chosen to sit. A man leaned against the timber beside him while another stood at his shoulder.
+
+The frost along the ditch caught the faint light of torches from above, pale against dark earth.
+
+He had walked here intending to brood.He had intended to remain apart.
+
+Instead, men had gathered.
+
+And in the seam where the wall had once failed, men gathered not because they were commanded to, but because they chose to remain.
+
+Before he understood when it had happened, the distinction between engineer and lord blurred.
+
+He had not become something else entirely.
+
+But he was no longer only correcting a system.He was standing inside it.
+
+And they were choosing to stand with him.

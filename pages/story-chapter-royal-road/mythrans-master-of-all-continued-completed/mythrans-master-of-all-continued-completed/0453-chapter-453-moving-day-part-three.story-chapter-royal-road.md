@@ -1,0 +1,345 @@
+---
+id: 61580ef6-a8f3-52d8-9bca-1666dc04290e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 453 - Moving Day Part Three"
+slug: 0453-chapter-453-moving-day-part-three
+partOf: mythrans-master-of-all-continued-completed
+position: 453
+ownLength: 3965
+unit: words
+publishedAt: 2017-12-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180528/chapter-453-moving-day-part-three"
+royalRoadId: "180528"
+---
+
+“You only have the outside half of the wall covered in iron.” One of the new guards said as they passed by the huge cliff at the end of the county. “I assume you'll be doing the inside soon?”
+
+Ren nodded. “Once I get you all settled, including making a place for the succubi, I'll do the inside of the wall; then I'll do the top to join the two sides together, and add battlement walls on the outside.”
+
+“Even with steeds, it's a lot to patrol.” Another guard said.
+
+Xuunah flicked the reins and the cart picked up speed to finish the wall tour. Now that Ren was finished of his story, she didn't have to take her time anymore.
+
+“You'll each receive a Phantom Steed like those.” Ren pointed a finger at the steeds hauling the cart. “It doesn't have to be fed or watered, it never gets tired, and runs really fast and can fly.” He chuckled. “It can also carry any burden you have, including weapons and armor.”
+
+“Wow, really?” He said. “Where do we keep it?”
+
+“There's posts for tying up horses in front of everything, including the Barracks.”
+
+“How long do they last?” Someone else asked.
+
+“Normally they only last for 5 hours.” Ren said. “I'll be making them permanent; so, as long as you take care of it and don't lose it, it will stay loyal to you until it dies.”
+
+“Damn, this is too good to be true.” One of the men said. “Somebody pinch me so I know I'm awake.”
+
+The succubi that sat next to him pinched him.
+
+“Ow!” He said. “I was joking!”
+
+“I know you were.” The succubi said and laughed, and so did several others.
+
+“We're landing for real this time.” Xuunah said, and they all held on as the bus-like cart acted like it was going down a steep hill and then stopped right in front of the Main House.
+
+“Okay.” Ren said and stood up. “Men, the Barracks are right there.” He said and pointed. “Go on in and make yourselves at home.”
+
+“But, what about...”
+
+“Don't worry, they'll be close by.” Ren said and pointed to a spot behind his large warehouse. “Believe me, you'll see it.”
+
+The men got up and kissed their succubi goodbye, and left the cart.
+
+“Frikara, Lusinia, Verwynn, Andrela, Navruth, and Xuunah, please come with me into the Main House.”
+
+The 6 women stood up and he helped them down off of the bus-like cart, and Ren looked at the succubi and Officer Holly.
+
+“Please wait here for me.”
+
+They all nodded, and he took the maids and Xuunah into the Main House, and asked the maids to wait at the bottom of the stairs.
+
+“Xuunah, this way.” Ren said, and he took her hand. She followed him to the back of the building and he opened the door to the apartment. “You can stay here.” He said. “It's a full apartment. You get to be close enough to me to keep an eye on things, and still have your own privacy.”
+
+“Ren, I...” Xuunah sighed. “You don't have to keep me so close.”
+
+“We're bound together forever now.” Ren smiled. “I am not letting you live somewhere else.”
+
+“Very well.”
+
+“By the way, that closet over there is the perfect spot for that spell you were given.”
+
+“Wh-what?”
+
+“While I'm busy, Zagatro would probably appreciate you contacting him.”
+
+“R-Ren, I...”
+
+“It's all right.” Ren said and cupped the side of her face. “Just tell him what happened, and that you've decided to keep me under observation.”
+
+“But...”
+
+“You are going to do that, right?” Ren asked, and she nodded. “Then it's the truth.”
+
+Xuunah sighed. “I don't think I should...”
+
+“You've been gone for... what? 35 years or so now?” Ren asked, and she nodded. “He'd appreciate hearing from you, and I don't intend on ever moving again.” He said. “You can make it here, and be confident it will never be disturbed.”
+
+“All right.” Xuunah said. “Thank you.”
+
+“No, Xuunah.” Ren said and moved his hand from her face to grip her shoulder. “You never have to thank me for anything.”
+
+“Ren...”
+
+“Anything you want, you will have.” Ren said and took out a piece of parchment. He drew up the plans for the anti-void elemental bomb, with detailed instructions, and handed them to her. “Unless you can find a powerful enchanter who can make the proper runes to get it to work, these plans are pretty much useless.” He said and smiled. “You can give them to Zagatro, for all the good it will do.”
+
+Xuunah chuckled. “You really do have an answer for everything.”
+
+“Yep.” Ren said and grinned. “I'll leave it to you to decide if it's the right answer or not.”
+
+“Considering what they are thinking, or were thinking when I left.” Xuunah said. “It's both.”
+
+“Well, if you need to tell them that I'm the essential component to make it work, go ahead.” Ren said. “I doubt they will send anyone else, though.”
+
+“Ren, if... If I'd known it was you that did it... I... I would have...”
+
+“Don't kid yourself.” Ren said and hugged her. “You would have come here faster if you knew.”
+
+Xuunah laughed as she hugged him back. “Yes, I would have.”
+
+“There, was that so hard to admit?”
+
+“Yes.” Xuunah said.
+
+“Well, you did; so, don't worry about it anymore.” Ren said and let her go. “I'll see you later.”
+
+Xuunah nodded and Ren left her alone in her apartment and shut the door. He walked over to the maids and motioned to go up the stairs. They preceded him up to the second floor and saw his partial workshop.
+
+“I'll be removing this when I get the chance.” Ren said and opened the door to the apartment, and replaced the bed with the large one he took from the other house in Aurora. He opened the Building Owner menu and added the 5 maids and Xuunah to the list of occupants.
+
+“What about our things?” Lusinia asked. “They are not all going to fit in here.”
+
+“That's what's replacing the workshop.” Ren said. “I'll add a dividing wall as well, so half of the floor will be our apartment.”
+
+“That sounds nice.” Frikara said and sat down on the bed.
+
+“I'll be back in a while to put everything right.” Ren said and left the apartment and ran outside the Main House. He went onto the bus-like cart and held a hand out to Officer Holly.
+
+“Ma'am, if you'll kindly come with me.” Ren said, and she took his hand. He led her off the cart and around the back of the Main House, and over to the newest part of the subdivision. He opened the Land Owner menu and checked the occupancy of the houses. “I believe these 18 houses are currently free.” He said and pointed.
+
+“You're really giving me a house.”
+
+“Yeah.” Ren said. “I decided a long time ago that if anyone was going to come to my lands, they deserved the basic necessities of life.” He said. “Free housing, a job if I can provide it, and food to eat.” He smiled. “I can bypass that last one for a select few by giving them sustenance rings.”
+
+“Can I have one?”
+
+“Of course.” Ren said and took one out, modified it, then added the Amulet of the Spider enchantment to it. “Here you go.”
+
+“It's that easy?” Officer Holly asked. “How much do I...”
+
+“No, there's no charge.” Ren said. “I'll give you anything you need to live here.”
+
+“But...”
+
+“If you want to be the commander of the county's forces, you can be that, too.” Ren said, and she stopped talking. “I know it seems like a lot for a starting Paladin to take over; but, there's only 4,000 animated statues spread out over the outside walls.”
+
+“Wh-what?”
+
+“Yeah, I know.” Ren said. “It's not much, but I'll be adding a lot more as I finish the walls.”
+
+“B-but...”
+
+“No, you don't have to take command.” Ren said. “It's just an offer for you to consider.”
+
+“If I take it, I can't stay near you.” Officer Holly said.
+
+“I can't pull one over on you, then.” Ren said and smiled. “I'll find someone else.”
+
+“B-but...”
+
+“Do you want me to keep the position open for a while, and see how things work out for your investigation first?”
+
+“I... yes.” Officer Holly admitted, a bit reluctantly.
+
+“Then I will.” Ren said. “So, have you picked a house?”
+
+“Um...” Officer Holly looked at them, and there were two of them close to the Main House. “I'll take the one story right there.” She said, and Ren added her as the home owner. A small key appeared around her neck, and she gripped it tightly.
+
+“It's all yours.” Ren said, then added Rosie as the owner of the other house. He made sure it was a two bedroom one first, though. She needed to have room for her grandmother, and he assumed she was tired of going up and down stairs all the time.
+
+“Ren, thank you.” Officer Holly said.
+
+“Hey, you'll be working for it.” Ren said and smiled. “Being by my side isn't a picnic.”
+
+“I kind of got that impression from your story.”
+
+Ren chuckled. “I'm staying within the walls of the county for today and tonight, so you can rest easy.”
+
+“I did that last night.” Officer Holly said. “I didn't think you could get beds like that in the game.”
+
+“You can't, normally.” Ren said.
+
+“Wait, does that mean...”
+
+“The one in your house is probably not going to be as comfortable.”
+
+“Can you make me one?” Officer Holly asked.
+
+“Sure.” Ren said and they walked over to the house, and she let him in. She went into the bedroom and checked the bed, and it was pretty stiff. He stored the old mattress and made her a new one right there, and she checked it.
+
+“Oh, yeah. That's the right stuff.”
+
+Ren chuckled. “Go ahead and take a nap if you want.” He said. “I'm just going to make the succubi a place to live.”
+
+“No, I'll come and watch.” Officer Holly said. “I won't be much good being by your side if I'm not by your side all the time.”
+
+Ren nodded and they left the house, then walked around the Main House and back to the bus-like cart. He told the skeleton knights to patrol the street just outside the Main House and to not go far, and they let go of the cart and did as ordered. Ren and Officer Holly climbed back aboard the cart and he drove it up and over the large warehouse and landed a thousand feet away from the street.
+
+“This should be good enough.” Ren said and climbed down, and walked in front of the Phantom Steeds.
+
+“What are you doing?” Officer Holly asked.
+
+“Watch.” Ren said and took out the Staff of Earth. He knew it was going to take a while, since he was going to be moving so much dirt, so he relaxed his muscles and concentrated on only moving the dirt. Officer Holly watched in amazement as the ground rippled in front of her, and then started to part.
+
+“Wh-what... Ren, what...”
+
+“Shh.” Ren said and willed the dirt to move. He needed a lot of room for Railyse and her two water elementals to move around, so he chose to make a 300 foot wide, by 300 foot long, by 100 foot deep impression in the ground. He shifted the dirt out of the hole and to the side, and spread it out.
+
+It was a lot of dirt.
+
+It took nearly half an hour to get it all out of the way, and when Ren was done of that, he walked down into the bottom and added caves, indents, reefs, mounds, and anything else he could think of to make it as natural as a sea bed. He had seen enough of them to know exactly what one looked like, and he duplicated it as best as he could, then added rocks, flourishes, and anything else to make it interesting for anyone that would be exploring it. He finished his work half an hour later, and walked back up to stand beside Officer Holly.
+
+“I can't believe I just watched you do that.” Officer Holly said, and Ren chuckled.
+
+“You're not the only one.” Ren said, and Officer Holly turned around to see that all the succubi were hanging over the side of the bus-like cart to watch. “Now for the hard part.” He said and walked over to the flattened out dirt. With an underground hive in mind, Ren used a combination of the Staff of Earth and a wand with Iron Walls in it, as well as the Permanency spell, to make living quarters for the succubi that was half underground and half above ground.
+
+Ren made lots of individual bedrooms, a few large rooms, stairways, hallways, living rooms, various landing areas, perches, and anything else he could think of that they might want. Everything was double-wide to accommodate the large succubi wingspan, and he covered the inside of everything with a foot of dirt, then covered the outside with a mound of dirt. He used the Staff of Earth to pack the dirt in tight, and made sure it was stable; because he didn't want it to collapse, tip over, or slide or anything. He ran up to the top of the enourmous mound of dirt and added the tower the succubi slept in on top of it to finish their roost, and added a stairway underneath it.
+
+It looked like a small mountain with a tower on top, and then he figured it was time to ask for help from the Spirit of Earth. He walked back down to where Officer Holly stood and she had watched in awe as he worked, and he sat down cross-legged to put his hands on the ground, then offered 1,000 Mana to the Spirit of Earth. No one said anything as Ren patiently waited, and then the ground in front of him rippled slightly... and a member of the Spirit of Earth quickly stuck her head up out of the ground.
+
+“AH!” Officer Holly yelped and jumped back, and Ren laughed.
+
+“You did that on purpose.” Ren said to the Earth being, and she smiled.
+
+“I had hoped to startle you a little, it's true.” She said and glanced at Officer Holly. “Her reaction will have to do.” She grinned and looked around. “You've been busy.”
+
+“I have.” Ren said. “I'd like your help with some reinforcement for the changes, if it's not too much trouble.”
+
+“Step into my parlour and we will discuss it.” The Earth being said as she reached out a hand. Ren took it without hesitation and she pulled him underground.
+
+“Hey, wait!” Officer Holly exclaimed as Ren disappeared beneath the surface. “Well, damn.”
+
+Ren chuckled as he felt Officer Holly's exasperation. He was deposited in a small burrow, and the Earth being stood in front of him. She was still completely naked and devoid of hair, just like all the rest.
+
+“Make your offering.” She said and smiled.
+
+Ren took out the wand with the Stone Skin spell and cast it on himself, then used the Widen Effect spell to double the time it would last. He stored his fancy red suit and it left him in just the Dire Wolf Hooded Cloak and his underwear, then stepped close to her and took her into his arms. Since he was just the right height, his face nestled between her breasts and he looked up at her.
+
+“Do you want the Mana all at once, or do you want me to ration it?”
+
+“Hm, that's a tough decision.” She said and put her arms around him, which squished her breasts against his cheeks. “You've given me a quick thrust before; so, I think I'd like to take it nice and slow this time.”
+
+“As you wish.” Ren said, and started to let the Mana flow down his arms and into his hands, which were slowly caressing her back. She took in several deep breaths as the Mana entered her, and Ren felt how much she enjoyed the sensations of being fed Mana and having someone to cuddle at the same time. He took his time and dragged it out, and when he reached the 1,000 Mana mark, quickly shoved another 500 Mana into her.
+
+“AHH!” The Earth being gasped and gripped him tightly as her body's soft glow went bright for an instant. She panted as she tried to calm down, and looked at him as she shook her head. “Why did you do that?”
+
+“I thought you wanted me to.” Ren said. “I could feel your disappointment when my offering was coming to an end.” He smiled. “I didn't want you to be disappointed.”
+
+She chuckled and ran a hand through his hair. “You are a dangerous combination of abilities.”
+
+“You know it.” Ren said and let her go.
+
+She released her tight hold on him, but didn't let go. The ground rippled under her feet and she slowly sank into it, which dragged her breasts down over him. She stopped when her face was even with his, and she wrapped her arms back around him.
+
+“That's a neat trick.” Ren said as the tips of her breasts poked him in the chest.
+
+“I don't want you to get a sore neck when you kiss me.” The Earth being said.
+
+“That's very considerate of you.” Ren said and kissed her, then poured another 500 Mana into her. She broke the kiss and looked at him.
+
+“Stop that.” She admonished. “You're distracting me.”
+
+“I'm not sorry.” Ren said, and she laughed.
+
+“You're going to keep doing it, aren't you?”
+
+“Probably.”
+
+The Earth being took a deep breath, which pushed her chest into him harder, and she sighed. “All right, what do you want me to do?”
+
+“Please line the sides of the pool with smooth rock, but leave the bottom alone.” Ren said. “I would do it myself; but, I don't have a spell for Rock Wall.”
+
+“That's a very simple request, and not really worth 2,000 Mana.” She said and tilted her head slightly to the side. “What do you really want?”
+
+“This is the part I wasn't sure if you would do for me.” Ren said. “I need a thin layer of impenetrable rock about 30 feet below the roost I made for the succubi, and if possible, cover the outside of it as well.”
+
+The Earth being let him go and rose up to stand on the burrow floor, then paced back and forth. “The pool is easy, I can do that right now.” She came to a stop and waved her hand once, twice, and then again. “It's done.” She said and kept pacing back and forth. “Impenetrable rock, though...”
+
+“I can give you all the Mana you need.” Ren said. “Or as much as you want, whichever is greater.”
+
+“Good.” She said. “I'll need it.” She didn't wear a path in the dirt; but, she should have with how fast she was walking. “Can I bring help?”
+
+Ren thought about the other Earth beings, and sighed. “I can't believe I'm saying this; but, as long as they aren't male.”
+
+“Why not?”
+
+“Hugging you without any clothes on and feeding you Mana is a delight.” Ren said. “I do not want to do the same thing to the men.”
+
+“That would make you uncomfortable?”
+
+“Yes.” Ren sighed. “I'm worried they would be excited and turned on like you are.”
+
+“Oh.” She said, and then smiled. “I won't bring anyone that might put you in that situation.”
+
+“Thanks.”
+
+“Wait here, and I'll be back in a few minutes.” She said as the wall rippled beside her and she ran into it. The ripples disappeared and she left Ren alone and 20 feet underground. After a few minutes, she came back out of the wall and had two other Earth beings with her; and he was relieved that they were both female. One of the three stepped forward and hugged him, and he looked at the other two.
+
+“I would like to apologize that I can't normally tell you apart.” Ren said, and he felt their amusement. “I can feel your emotions, though.” He said and carefully pointed to one of the other two. “You were the one that was here and went to get the others.”
+
+The one that held him let him go, and the other stepped forward and hugged him. “How did you know?”
+
+“I can see that you're still excited because of my Mana offering.” Ren grinned, and she laughed.
+
+“Such a simple solution to my trick.” She said and hugged him tightly. “How will you tell us apart when we are all excited in the same way?”
+
+“By your reluctance.” Ren said, and he felt surprise from them. “One of you is definitely not a hugger.”
+
+The one he mentioned laughed the same laugh as the others. “You really can feel our emotions.”
+
+Ren nodded. “I can just give you the Mana if we hold hands.” He said. “We don't have to hug.”
+
+She nodded and held a hand out. Ren took it and looked at the first one.
+
+“How much Mana do you need?”
+
+“At least 5,000 each.” She said. “It's a huge thing you have built to cover with impenetrable rock.”
+
+“There's 20 succubi to take care of, and I needed room inside to add corrupted dirt.” Ren said. “That way, they would have a normal space to live in, and still technically be undergound.”
+
+“You are very considerate to those corrupted creatures.”
+
+“They are mine now, so I'll take care of them.” Ren said. “Plus, I want to protect the surrounding dirt from being infected.”
+
+“That is a good answer.” The one that held his hand said. “You may begin.”
+
+“Do you want a blast or a flow?” Ren asked, and she smiled.
+
+“A strong steady flow, that way I don't collapse from it.”
+
+Ren chose 5,000 Mana and held her hand tightly as he poured the Mana out and into her. She caught her breath as he filled her up with Mana at a constant rate, and when she took it all, her body glowed brightly.
+
+“S-sisters!” The Earth being exclaimed and dropped to her knees and hugged herself.
+
+“Are you all right?” Ren asked.
+
+“She's fine.” The one hugging him said, and he reached a hand out for the other one. She smiled and stepped close and hugged him as the other let him go.
+
+“Blast, please.” She said.
+
+Ren hugged her back and chose 5,000 Mana; then shoved it into her through his hands.
+
+“AHHH!” She yelled and dropped to her knees as her body glowed just as much as the first one did. The last one wrapped her arms around Ren from behind, and leaned down to rest her chin on his shoulder.
+
+“Give me a mix, like you did before.” She whispered in his ear. “I apparently like that, now.”
+
+Ren took out a Major Healing wand and refilled his Mana, then hugged her arms. He poured 2,500 Mana into her in a steady stream, then shoved the last 2,500 Mana into her. She didn't cry out, though. Her arms let him go as she slowly slid to her knees and hugged herself like the other two. It took them several minutes to recover enough to stand, and Ren told them specifically what he wanted done.
+
+The three Earth beings slipped into the burrow's walls and disappeared.

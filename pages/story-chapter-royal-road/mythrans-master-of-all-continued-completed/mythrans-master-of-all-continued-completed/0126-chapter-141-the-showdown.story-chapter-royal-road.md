@@ -1,0 +1,539 @@
+---
+id: 1f1407ee-f207-5f83-a76d-8461e3e720a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 141 - The Showdown"
+slug: 0126-chapter-141-the-showdown
+partOf: mythrans-master-of-all-continued-completed
+position: 126
+ownLength: 5108
+unit: words
+publishedAt: 2017-01-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111846/chapter-141-the-showdown"
+royalRoadId: "111846"
+---
+
+Lara was shocked as she watched the confrontation that Ren had been in. She had covered her mouth and stifled her scream when they threw the potion of fire on him and he started to yell. She got mad when the guy with the sword started laughing, then gasped when Ren stood up unhurt and the fire was sucked away. Lara stared as the group led Ren up the street. She closed her eyes for a moment, then opened them.
+
+“You are such an idiot, Tristan!” Lara said, and opened the message system. “Come on, Ren. Answer!”
+
+*
+
+Ren concentrated on his Camaraderie Aura when he got a message popup. “Hey, guys? Can we stop for minute? I got a message.”
+
+Emanon shrugged. “As long as you're not calling for help or anything.”
+
+Ren chuckled. “No, it's personal.”
+
+“Go ahead.”
+
+Ren read Lara's message that it was Tristan, and he responded that he knew, and it was why he was going. She was surprised for a moment, then smiled as she asked to form a party with him. He sent her a party invite, and she accepted. She wished him good luck, and Ren closed the message system.
+
+*
+
+“Virtual Survivors, huh?” Lara said, and laughed as she walked back to the Library. “Nice one.”
+
+*
+
+“Who was it?”
+
+Ren shrugged. “It was just a join party request.”
+
+Emanon chuckled. “I get those all the freaking time!”
+
+“Me, too.” Beltach said. “Newbs are always trying to grab on to us.”
+
+According to my level, I'm still technically a newb. Ren thought as he smiled. The group led Ren out of the West Gate and to a waiting cart.
+
+“That's a relief.” Ren said and climbed in the back without being asked. “We'll get wherever it is a lot faster this way.”
+
+Emanon looked at Beltach, then at Ren. “You almost sound eager to go.”
+
+“I am!” Ren said and grinned. “He's been after me for a while, so I figure it's about time I dealt with him.”
+
+The sword guy chuckled as he climbed in the back with Ren. “Do you even know him? He's crazy powerful, man.”
+
+“I heard him once say he was level 150.” The whip guy said and got on the driver's seat.
+
+“Whoa.” Sword guy said. “How much grinding did he do in Shargon Caverns?”
+
+“Quiet!” Beltach said as he and Emanon got in the back as well. “You know he hates it when you talk about him behind his back.”
+
+“It's better than talking about him in front of his face.” The whip guy said. “Look at what happened to Mitchell.”
+
+Emanon shook for a second. “Geez, don't remind me of that.” He stuck his tongue out and gagged. “I'm glad the body dissolved afterwards.”
+
+“The squelching noise was the worst.” Beltach said. “The programmers are sick, man. Totally sick.”
+
+Ren chuckled. “I think they're doing a fantastic job, myself.”
+
+The sword guy grinned. “Yeah, the Jiggly Puff is awesome.”
+
+“The what?” Ren asked.
+
+“The Jiggly Puff!” Sword guy said. “It's a strip club in the Adult's Only section of Aurora.”
+
+Ren shook his head.
+
+“Aw, man! You don't know what you're missing!” Sword guy said. “It's by players, for players. For a few copper you can see the show. A few silver, and you see the whole show.”
+
+“And for a gold, you can have the show.” Beltach said. “They only have a few outfits, though. Barmaid. Debutante. Peasant girl.”
+
+“Yeah, but the girls!” Emanon said. “Candace is my favorite.” He said and held his hands out in front of his chest to show how big her boobs were. The other guys laughed, but Ren stayed quiet. Emanon turned to him. “You don't like them that big?”
+
+“Hm? Oh, I like all of them. Big or small.” Ren said.
+
+Beltach smiled. “Me, too.”
+
+“I'm just wondering what they do with the money they make.”
+
+“Who cares?” Sword guy said. “They make tons of gold a night. They could buy anything they want!”
+
+The rest of the trip passed by quickly with guy banter. They talked about the last few missions Tristan had sent them on, and Ren listened intently. He knew there was another layer to everything, but this was an inside look at the underbelly of game society. Weapon running, gambling, prostitution, you name it; it was in the game.
+
+Ren mentally shook his head. The programmers have done an even more thorough job than I thought.
+
+A few hours later, the cart pulled up to the small shack that Elerlyth had visited, and everyone got out. The whip guy tied the horse to the stand there, but didn't unhook the cart.
+
+“You can't leave it like that.” Ren said and undid the cart. The horse neyed at him, and he pat it. Ren looked around, and there wasn't a trough. He sighed and made a small one, nailed it tight, and poured water from his water flask into it. He added part of a Health potion, just in case the horse hadn't been fed, and turned to look at the guys he came with. They stood there and stared at him.
+
+“What?”
+
+Emanon shook his head. “Nothing. Let's go inside.”
+
+Beltach knocked on the door and it opened. A sword was thrust at him, and he knocked it aside with his own sword, and punched the hooded figure in the chest.
+
+“Aw, damn! That hurt!” The hooded figure said.
+
+“I told you to stop doing that, you idiot.” Beltach said. “Do we look like intruders to you?”
+
+The hooded figure didn't say anything, as the rest of them passed by. They led Ren down the stairs and into Tristan's office.
+
+“Ha! I finally got you!” Tristan said and stood up from behind his desk. He wore full plate armor and a pleased expression. “I've been waiting a long time for this.”
+
+“I don't know why.” Ren said. “It was all your own fault.”
+
+“No it wasn't!” Tristan yelled. “If you'd given me my book!”
+
+Ren rolled his eyes. “It was my book. I earned it. I used it.”
+
+“Then I lost all my fame because of you!” Tristan said.
+
+“Ha!” Ren barked a laugh. “You tripped me, let me fall into a nearly bottomless pit, and almost ended the mission prematurely.”
+
+“What do you mean, 'almost'?” Tristan frowned. “We had to turn back because of you.”
+
+Ren grinned. “Nope. I finished that mission, and we all went home to a hero's welcome. There was a parade and everything.”
+
+Tristan stood there and stared at Ren in shock.
+
+“The Lord Of Aurora even threw a party in my honor.” Ren said.
+
+“You... you...” Tristan's face turned beet red; and he started to shake. “I went through hell because of you, and they threw you a PARTY!?!”
+
+“He's gonna blow his top!” Whip guy said and waved his arms in the air. “Everybody run!”
+
+Sword guy and Beltach started to laugh, and Tristan turned to them. Whip guy's outburst did the trick, though. Tristan calmed down, and he smiled as he turned back to Ren.
+
+“You're antagonizing me on purpose.” Tristan said.
+
+Ren smiled. “Angry people make stupid mistakes when they fight.”
+
+“Ha ha!” Tristan said. “You almost got me.” He said and flexed his fingers, then smiled.
+
+Ren glanced down at the gauntlet Elerlyth had described. That is the gauntlet I helped Issac enchant.
+
+“I'm going to enjoy this.” Tristan said and grinned as Ren got a popup.
+
+Notice!
+
+You have entered PvP Mode.
+
+“Not in here!” Emanon said, but it was too late.
+
+Tristan lunged at Ren, who turned to the side and let Tristan almost pass, grabbed him by the chest plate, and shoved him into the wall 2 feet away. The wood cracked and Tristan leaned against it.
+
+“Not bad.” Tristan said, then kicked out with an armored foot. Ren caught it and absorbed the impact.
+
+Stat Change!
+
+Block Level 2 (Beginner 0%)
+
+Tristan's eyes widened as Ren twisted the foot around, and he had no choice but to turn with it. Now that Tristan was facing away from him, Ren dropped the foot and stepped forward to punch Tristan in the back of the head. Ren's fist connected and it jammed Tristan's face into the splintered wood.
+
+“Argh!” Tristan grunted and then twisted around, and tried to catch Ren in a roundhouse punch. Ren stepped away and took a fighting stance. Tristan smiled and pulled a sword out of inventory.
+
+“I know you can't use weapons!” He said and swung the sword. Ren pulled out his shield and blocked the swing. Tristan swung several more times, and Ren blocked them easily, as the shield was half of his own height. Tristan stopped swinging and thrust forward quickly. Ren ducked down, deflected the sword up, and punched Tristan in the gut while concentrating on his Deep Impact ability that causes internal injuries to an opponent. A resounding clang was heard as Tristan's feet lifted off the floor briefly, and he grunted.
+
+Tristan put his hand on the shield and brought a knee up into Ren's chest. Another clang was heard and Ren leaned back from the impact. Tristan, seeing Ren was completely open, cast Fireball and hit Ren in the face. It engulfed Ren's head completely and Tristan laughed.
+
+“How do you like the taste of that, you little bastard!” Tristan said, and walked back towards his desk as Ren put his hands to his face.
+
+“Uh, boss?” The whip guy said. “Um... that's not going to work.”
+
+“What?” Tristan said, as Ren started to laugh.
+
+“We used that immolation potion, and it didn't work. His armor has protection from it.”
+
+Ren stood up with a grin on his face as the fire was sucked away. He held the shield to face Tristan and activated it. A gale force wind hit Tristan and threw him over the desk and into the other wall. Ren held him there, suspended above the floor, and walked over to him.
+
+“How does that taste?” Ren asked, and Tristan grimaced at him. Ren deactivated the shield and grabbed Tristan's chest plate and flipped him over and slammed him onto the desk, then through it and into the floor. The desk shattered and sprayed everyone there with splinters of wood.
+
+“Geezus! They're destroying the place!” Sword guy said, and tried to pick the splinters out of his cloak.
+
+Tristan swiftly kicked Ren in the forehead, then rolled away enough to stand. Ren shook his head, and Tristan grinned.
+
+“Smile!” Tristan said and punched as hard as he could with Issac's enchanted gauntlet. Ren saw it coming, though. He thought Dismantle Glyph, caught the gauntlet with a bare hand, and the enchantment was destroyed. The punch stopped dead, thanks to the combination of his Rock Steady, Shock Absorption, and Block abilities.
+
+“Like this?” Ren said, and smiled as he got a couple of popups.
+
+Stat Change!
+
+Shock Absorption Level 4 (Intermediate 0%)
+
+Notice!
+
+You have learned a new rune: Damage +10.
+
+Everyone stopped moving, and silence filled the room.
+
+“What?” Tristan exclaimed. “How can you do that?” He asked and pulled his fist back. “No one can stop my punches!” Tristan punched as hard as he could, and Ren easily blocked it again. “No! No no no!” He said as he kept punching, and Ren kept blocking them.
+
+“I bet that was expensive.” Ren said.
+
+Tristan stepped away from him, and looked at the gauntlet. “It was 3 platinum coins.” He said and punched the wall. It bounced off and Tristan gripped his hand. “What did you do to it?!?”
+
+“I've learned a few things since we met last.” Ren grinned and held his fist out to them.
+
+“Oh, crap!” Beltach said, and braced for the lightning bolt.
+
+Ren chuckled, shook his head, and let loose the Water Spray.
+
+“Ahhglugglugglug!” Tristan said as the huge jet of water slammed him across the room and into Emanon. They fell to the floor and Ren turned the spray onto Beltach, Whip guy, and Sword guy. He kept it on them until the floor was covered in several inches of water. Ren stood on Tristan's chair and grinned.
+
+“NOOO!” Tristan yelled, and Ren used his Screaming Terror ring.
+
+“AhhhhhHHHHH!” They all screamed, and flailed in the deepening water. Ren let them suffer for a few minutes, then deactivated both rings.
+
+“Submit.” Ren said and held his fist down to the water.
+
+“You can go to hel- AHHHHHH!” Tristan said as Ren activated his Lightning ring for a moment. The others twitched and tried to get back to their feet in the foot deep water.
+
+“Stay where you are, or I keep this on.” Ren said, and motioned to his Lightning ring. Emanon, Beltach and the other 2 settled back into the water. Tristan scowled at Ren, and moved his hand under the water. A portal opened a moment later, and a hellhound jumped out and landed in the water.
+
+“You're dead now!” Tristan said, pointed to Ren, and the hellhound growled.
+
+“Call him off, Tristan.” Ren said, and stepped down into the water. “I don't want to kill him.”
+
+“Ha! He was born in the depths of Hell itself! Nothing you can do can hurt him!” Tristan turned to the hellhound. “ATTACK!”
+
+The hellhound barked once and lunged at Ren, who was ready for the attack. He caught the poor beast by the throat and held it at arms length.
+
+“Call him off, Tristan.” Ren said, as the hellhound tore the poncho he wore into shreds and revealed his gold-colored full plate armor.
+
+“Holy shit!” Sword guy said. “Where the hell did he get THAT?!?”
+
+“I'd say he made it.” Emanon said. “He's a blacksmith.”
+
+“No way!”
+
+“QUIET!” Tristan hollered. “Get him!”
+
+The group stood up, and Ren winced as the hellhound finally realized that Ren wasn't wearing gauntlets and tore long scrapes across his wrist and hand. Ren punched it in the head and it stopped moving.
+
+“NOOO!” Tristan hollered and threw his sword. Ren deflected it aside with his shield, and the sword stuck into the wall behind him. No one came over to attack because Ren still held the unconscious hellhound in front of him.
+
+“So, you do care for something after all.” Ren said and tossed the hellhound to Tristan, who caught it and held it close.
+
+“Oh, I care alright.” Tristan said. “I cared so much about getting rid of you, that I made a deal with something.”
+
+“Ren! Tristan's sword!” Teepo said, and Ren turned around to see a cloud of shadow form from the hilt of Tristan's sword. He stepped back enough, and hoped he was out of reach from whatever was coming out of it.
+
+“Good god, Tristan!” Emanon stared at the cloud as it formed into a 7 foot tall Shadow Demon. “You let it loose without touching the sword! It doesn't have to listen to you anymore!”
+
+Tristan's eyes widened as the creature bellowed.
+
+“Rrraaaawwwrrrr!”
+
+Ren took out his hammerpick and enchanted it with a double glyph of Light (8 runes total). The demon jumped and Ren swung at it, hitting it in the head. It flew across the room and hit the wall as a blob. It slid to the floor and then formed itself into the 7 foot tall Shadow Demon again.
+
+Now what? Ren thought. Wait... wait... I know this...
+
+The demon ran at Ren and slammed him into the opposite wall. 2 daggers whipped by Ren's head and hit the wall.
+
+“Sorry.” Emanon said. “It's hard to hit.”
+
+Ren stored his hammerpick since he couldn't swing it against the wall like he was, and punched the thing in the head twice. It didn't seem to be affected very much, so he tried punching it in the chest. The Shadow Demon pulled it's head back and head-butted Ren into the wall.
+
+“Ow.” Ren said as his head got stuck. The Shadow Demon pulled it's fist back to punch, and then it's arm was cut off by Beltach's sword. He followed through with a stab to the creature's chest and the sword slid through like nothing was there. Beltach tried to pull the sword back, but it was now stuck in the creature and he let it go.
+
+“Dammit, that was my favorite sword!” He said as a knife hit the creature in the head and stuck there.
+
+“That was your only sword.” Emanon said, as the Whip guy used his whip to wrap around the Shadow Demon's neck. He pulled and the shadow's head popped off and fell to the floor.
+
+“That's why it's my favorite.” Beltach said. “Nice shot.”
+
+The shadow body walked around a bit, then dissolved into a puddle. Beltach's sword clattered to the floor, but he didn't take the chance to go near the puddle to pick it up. The Shadow Demon's cut-off parts became puddles and they reformed into a single puddle with the body puddle. The Shadow Demon started to regrow itself out of it.
+
+“Beltach.” Ren said.
+
+Beltach grabbed him by the chest and pulled him from the wall. Ren grunted as his cheek scraped on the wood.
+
+“Thanks.” He absorbed the Gail Force Wind enchantment from his shield, and remembered the Illuminate rune he'd learned from that children's storybook. He took a few moments to imagine what a quadruple glyph would look like, then enchanted a double glyph (8 runes total) on the shield.
+
+“Now what do we do?” Emanon said, as the Shadow Demon was almost reformed.
+
+“Cover your eyes!” Ren said, and ducked behind the shield. Activate!
+
+The entire shield lit up like the sun itself, and the Shadow Demon screamed. Even from behind the shield, Ren could barely see anything.
+
+I think this shield is amplifying it! Ren thought. Teepo, can you see?
+
+“No, Ren.” Teepo said. “It's too bright for me.”
+
+The Shadow Demon's screams went on for a few minutes, then they eventually got quieter. Ren lifted his ear above the edge of the shield and listened. Even though he couldn't hear anything from the creature, he didn't deactivate the shield. Ren stood up and walked to where the puddle was. He moved it around with his foot, heard another little scream, and got a popup.
+
+Notice!
+
+You have defeated a Shadow Demon!
+
+Rewards: 5,000 XP
+
+Fame Bonus: 68%
+
+All that was left was a small pile of ash, and Ren deactivated the shield.
+
+“That was GREAT!” Beltach said and picked up his sword. “I thought we were dead!”
+
+“What the hell was that?!?” Tristan yelled. “You just incinerated my Shadow Demon!”
+
+“Shut up, you fool!” Emanon said and grabbed Tristan by the neck. “What the hell were you thinking, letting that thing out in here?”
+
+“He was winning! I had to do something!”
+
+Ren looked at Tristan's sword and used Enchanted Eyes. It's enchanted with something, but I can't read it.
+
+“Ren, you shouldn't.” Teepo said. “That's evil magic.”
+
+Ren nodded, and rather than using Disassemble Glyph where there was a chance he would learn a new rune, he just absorbed the mana instead. For fun, he enchanted it with Enhancement runes and chose 'Blunt'. Ren tried not to laugh while thinking about the next time Tristan tried to stab someone with it.
+
+Emanon shook Tristan. “I joined your little group because you promised I'd be rich.” He said. “I went along with this little adventure of yours because you said we'd be rich if we got that marker back for you.” He let Tristan go. “Killing him won't get the marker back.”
+
+“I can't give the marker back.” Ren said.
+
+“W-what?” Tristan exclaimed. “But you have it!”
+
+“If you happen to have another marker I can use, I can give it back.”
+
+“What? How?” Emanon asked.
+
+Ren smiled. “It's stuck in my inventory. Since I didn't receive it as part of a 'job', I can't take it out unless I have another one.”
+
+The sword guy looked around at the others. “No one else?” He sighed and stepped over to Ren. “I better get this back.” He took out a shadow coin and handed it to Ren.
+
+“Sure.” Ren put it in inventory, then slid it into his coin vault from there.
+
+Notice!
+
+You now have access to a hidden currency!
+
+Ren smiled, and transferred 2 new shadow coins to his inventory, leaving the other in his coin vault.
+
+“Yes! I got it!” Ren said, and took out the 2 shadow coins. He gave one to the sword guy, who stashed it into his inventory.
+
+“Is this what you want?” Ren asked, then held up the shadow coin.
+
+“Yes.” Tristan said.
+
+“Then what's the magic word?”
+
+Tristan scowled. “Give it to me or I'll kill-OW!”
+
+Emanon smacked Tristan in the back of the head. “Are you really such an asshole?”
+
+“You've got to be kidding me!” Tristan said and held the limp body of his dog up. “He killed my dog!”
+
+“He's unconscious, you idiot.” Ren chuckled. “He's not dead.”
+
+“Shut up, you!” Tristan said, and the dog started to stir. He laid it down on the floor and pet it. “Hey, Cujo.” Tristan said, as the dog opened it's eyes. “Thanks for your help.” A portal opened, the hellhound licked his hand, and stepped through it.
+
+“See?” Ren said. “I told you I didn't want to kill it.”
+
+Tristan stood up and held a hand out. “Give me the marker.”
+
+“I'll hand it over... if you say the magic word.” Ren smiled.
+
+“Magic word?” Beltach asked, and looked at Emanon. He shrugged and looked at Tristan.
+
+“Okay, fine!” Tristan said and scowled. “Please.”
+
+Ren took 2 steps forward and put the coin in Emanon's hand.
+
+“Hey! What are you doing?” Tristan asked.
+
+“You need to let Emanon hold that for you.” Ren said and took out his hammerpick. “We aren't finished.” He held the shield over his eyes and activated it. It blinded everyone, and he enchanted the hammerpick with Earth runes. The hammerpick formed giant stone spikes on it's hammer end, Ren deactivated the shield, and swung the hammerpick into Tristan's chest plate. It smashed him through the wall he stood near, and the shock wave from the impact shattered his armor before he hit the floor in the other room.
+
+“You're not the only one that's been waiting for this.” Ren said. “This is for punching Elerlyth for no reason.” He swung the hammerpick into Tristan's abdomen, right at the spot Elerlyth had been punched. Tristan's breath was knocked out of him and several pieces of his armor flew off from the shock wave. “This is for trying to punch the blacksmith.” Ren said and crushed his hand with the hammerpick.
+
+“Aaahhh!” Tristan screamed and clutched the mangled hand to his chest.
+
+“This is for tripping me.” Ren said and smashed Tristan's foot, crushing the metal armor into the flesh, and the shock wave crumbled the armor on his legs.
+
+“Grrrr!” Tristan gritted his teeth.
+
+*
+
+“Good god, man! Stop him!” Beltach said from the other room. “Ren's not fighting anymore! He's torturing him.”
+
+Emanon put a hand on Beltach's shoulder. “They're in PvP, remember?”
+
+Beltach took a breath and nodded. “It has to end, one way or the other.”
+
+*
+
+“Go ahead! Do it!” Tristan said. “I've still got a good foot and a hand! Crush them! I've been through worse!”
+
+Ren leaned over him and grinned. “So have I.”
+
+Tristan's mouth dropped open in shock.
+
+“I'm not that cruel, though.” Ren said. “I'm tempted to hurt you for poisoning the lumberyard's horse: but I'm tired of having to deal with you and all your stupid schemes.”
+
+Tristan clamped his mouth shut and didn't say anything.
+
+“Not going to deny it, huh?” Ren said and shook his head. “If you ever come near me or anyone I care about ever again, I'll do worse than kill you.”
+
+“Ha!” Tristan barked. “What's worse than dying?”
+
+Ren turned the hammerpick around to use the plow end, and sighed. “Wishing you were dead.” He swung the hammerpick down and jabbed Tristan through the heart.
+
+Notice!
+
+You have successfully defeated your opponent in one-on-one combat.
+
+Rewards: 1500 XP
+
+Fame Bonus: 68%
+
+Notice!
+
+You have defeated an opponent 160 levels higher than you!
+
+Fame: +2000
+
+Notice!
+
+PvP Mode has ended.
+
+Hidden Quest Complete!
+
+You have defeated your sworn Nemesis!
+
+Rewards: 10,000 XP
+
+Fame Bonus: 88%
+
+Holy crap! Ren thought. No wonder Tristan wanted me so bad! He took his hammerpick out of the body and after a moment, it dissolved. There was a pile of gold, a set of expensive clothes, and a needle. Ren took a deep breath and picked it up.
+
+He dropped a needle. Ren shook his head. He dropped a freaking needle! He thought, then examined it.
+
+Family Heir Loom: Sewing Needle (Unique)
+
+This needle was used by the head seamstress for King Alamast of the Human Kingdom, and his Consort, Lady Eleanor.
+
+Ren was tempted to use Iron Grip on it and crush it to powder, but changed his mind and stored it. He turned away and walked out of the room. He stopped in the doorway.
+
+“You guys can split the rest of the loot.”
+
+“No way!” Sword guy said.
+
+“I remember Tristan saying he was supposed to make you rich.” Ren said and pointed to the pile of gold. “I'd say that's a good start.”
+
+“Thanks!” Whip guy said and went into the room to gather the loot. “You're a good guy!”
+
+Ren smiled crookedly. “I've done some questionable things.”
+
+“We all have.” Emanon said. “I still haven't apologized to Elerlyth.”
+
+“You helped her when she needed it the most.” Ren said. “I think she'd punch you if you told her you were sorry for that.”
+
+Emanon laughed. “Yeah, she would.”
+
+“Hey.” Sword guy said after whip guy gave him his cut of the money. “We're heading to the Jiggly Puff. Want to come along?” He grinned. “Tristan's paying.”
+
+Ren laughed. “I'll hitch a ride back to town, but that's all I'll need. Thanks.”
+
+“Your loss, man.” Sword guy said as they all walked out of the mangled hideout and up the stairs. Ren hooked the horse back up to the cart, and they headed back to Aurora.
+
+I might even make it back home before morning. Ren thought during the quiet ride back to town. When they approached the city gates, Ren asked them to stop, and he got out.
+
+“Have fun you guys.”
+
+“You bet your ass we will!” Sword guy said, then remembered the deal Ren had asked about earlier. “You can send a message to 'ididntseenothing', no spaces or apostrophes, when you want those potions.”
+
+“Got it.” Ren said, and waved as the cart entered the city. He ran through the West Gate and up the street that led to his business. He was about to open the door when he got a message.
+
+Lara:  Hi, Ren. Thanks for all the XP. (big grin)
+
+Ren chuckled and messaged her back.
+
+Ren:  You knew, didn't you?
+
+Lara:  Ha! (points finger) Every bit of info you want to know about!
+
+Ren:  LOL Okay, talk to you later.
+
+Lara:  You're not going to ask about Tristan?
+
+Ren:  (shakes head) I know he's not gone. Bye, Lara.
+
+Lara:  Bye, Ren.
+
+Ren closed the message system and entered his building. Once inside, he was tempted to log out, but that would eat up even more of his time, so he ran upstairs and into the living room. He had Teepo go back into the ring and Ren stepped through the portal. He summoned Teepo again, ran downstairs and woke Princess up.
+
+“Sorry, Princess.” Ren said. “I'd let you sleep longer, but I need to get back home.”
+
+She huffed and got out of the crate. Ren stored it and took her outside to hook up the cart.
+
+“Oh, before I forget.” Ren said and opened her stat window. “You've leveled 10 times and have 50 points to spend!”
+
+Princess nodded and he grinned as she picked where to put them. Most went into Strength and Vitality, and some went into Endurance and a few points went to Agility. Ren closed the window and climbed into the cart.
+
+“Let's go!” Ren said, and Princess took off like a shot.
+
+“Wheeee!” Teepo said as they sped down the road.
+
+During the trip, Ren finally got a chance to look at the popup he'd dismissed in the fire realm.
+
+Notice!
+
+You have gained a new title: Father of Fire.
+
+This title grants you the abilities: Absorb Fire and Fire Manipulation.
+
+“Show info for Absorb Fire.”
+
+Absorb Fire (Master):
+
+This ability allows you to absorb fire in any of it's natural forms. The resultant energy can be used to heal or recharge Mana.
+
+“Natural fire?” Ren pondered. “I guess that means no cheating with fire runes.” He said. “Unless I light things on fire with them.” He chuckled. “Show info for Fire Manipulation.”
+
+Fire Manipulation Level 1 (Beginner 0%):
+
+This ability lets you change fire into different shapes, and also direct it's movement.
+
+Higher levels will allow greater manipulation of larger amounts of fire.
+
+“Whoa.” Ren said, and the cart came to a stop. He got out and fed Princess food and water, got back in and they kept going. It only took an hour to get back to the city, and Ren had her stop at the housing subdivision. All 12 of the houses were built.
+
+“They finished early.” Ren said, and asked Princess to keep going. He thanked Princess as she came to a stop in front of House Neram, and Ren got off the cart. He unlocked the gate and led Princess inside.
+
+“How's my time, Teepo?”
+
+“You've got about an hour before breakfast.”
+
+“Yes.” Ren said as he unhooked the cart. “I made it back in time.” He led Princess into the stable and put her crate back where it was. She got inside and plunked down on the cushion. Ren fed her and left the stable. He went into the house, crept down the hallway to the old bedroom, and went inside. There were 2 lumps again, and Ren smiled as he stored his armor and put on his Travelling Clothes for a second, then equipped the bodysuit again.
+
+He went around to Nathalia's side of the bed and lifted the blanket. She stirred a little, and he slid in over her shoulder and settled down between Nathalia and her mother. They looked at him, and he opened both of his arms to hug them both. They snuggled down onto his chest and sighed.
+
+Ren held them close, and drifted off to sleep.

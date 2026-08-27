@@ -1,0 +1,283 @@
+---
+id: 979ec07c-eb9b-5253-abbd-6204168bcda9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 417 - Rest And Relax"
+slug: 0414-chapter-417-rest-and-relax
+partOf: mythrans-master-of-all-continued-completed
+position: 414
+ownLength: 3685
+unit: words
+publishedAt: 2017-11-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173268/chapter-417-rest-and-relax"
+royalRoadId: "173268"
+---
+
+All of the succubi decided that they wanted scouts to keep watch, and made a schedule to have 2 of them on watch for 2 hours each for the rest of the night; one on the top of each tower. Ren thought about letting it go at that, then heard that Ellaria had the last shift of the night and walked over to her.
+
+“Ellaria?”
+
+“Yes, My Lord?”
+
+“I'd like to take you up on your offer of letting me find out what you do with your wings in bed.” Ren said. He felt her happiness that he chose her, then he felt envy and some hatred from the others. “It's only for that purpose. No sex will be involved whatsoever.” He explained. “You can see through the arrow slits for yourselves to make sure.”
+
+That seemed to calm them down and gave a few of them a burst of pleasure, and Ren walked over to his Instant Tower with Ellaria right behind him. He dismissed his Phantom Steed as he passed by it, then opened the door of the tower for her. She folded her wings down and stepped inside, and he went in and the door shut behind them.
+
+“What is all this?” Ellaria asked as she saw the 4 businesses he had inside.
+
+“A tailor shop, blacksmith shop, a woodworking shop, and a kitchen.” Ren said.
+
+“You carry all of this with you?”
+
+“It's a recent development.” Ren said. “It could have come in handy a few times if I'd had it before, though.”
+
+“I'd ask you to tell me about it, but I honestly don't care.” Ellaria said and he felt she really didn't, and Ren laughed.
+
+“I'd ask you why you don't, but I'm pretty sure I know why.”
+
+“Adventurers don't last long once we get our claws in them.” Ellaria said and smiled. “They disappear and leave some things when we suck them dry, then eventually come back and try to reclaim their things.”
+
+“Murdrasu took care of them the second time.” Ren said, and she nodded.
+
+“After losing more things, they usually don't come back.” Ellaria said. “Who has time to talk during all of that?”
+
+Ren nodded, because that was what he assumed. Idle conversation was not a priority for them. He pointed to the stairs, and Ellaria walked over to it. Her tail swished back and forth with her hips, and with just bikini bottoms on, it was like a windshield wiper on a window, that kept revealing a shapely backside each time it passed. Her long wavy black hair almost touched her tailbone.
+
+“You're staring at my ass, aren't you?” Ellaria asked as she started to climb the stairs.
+
+“That and your tail.” Ren said and sent her a taste of appreciation. “They are both very nice.”
+
+Ellaria laughed that confident and sexy woman laugh. “Shall I swing my hips more?”
+
+“Please don't.” Ren said. “It'll block seeing the best part.”
+
+Ellaria stopped walking near the top of the stairs and looked back at him. “You're quite honest.”
+
+Ren shrugged. “You asked.”
+
+Ellaria chuckled and walked up the rest of the way and over to the bed. She sat down on it and held her wings out behind her.
+
+“That's what I'm talking about.” Ren said as he approached the bed and pointed to her wings. “How can you sleep with them like that?”
+
+Ellaria folded them up behind her, just like she did to come in through the door, and laid back on them. It kind of looked like she was laying on a blanket.
+
+“That doesn't look comfortable at all.” Ren said and Ellaria sat back up.
+
+“It actually is a bit uncomfortable, since all of our weight rests on the weakest parts of the wings. They tend to lose feeling after a while if you aren't careful.” Ellaria said and unfolded them. She stood up and turned around, then crawled seductively onto the bed and gave Ren an even better view of her backside. She laid down on her side in the right side of the bed and folded her wings in again.
+
+“Can I take a closer look?” Ren asked, and she nodded. He walked over to the right side of the bed and knelt. He could feel she was a bit nervous with him behind her. “Do you mind if I touch them?”
+
+“No, go ahead.”
+
+Ren thought about touching her right away, and instead did something else. “Identify.”
+
+Succubus (Ellaria - Level 12)
+
+This female winged creature is summoned from the void to tempt and tease Adventurers. Succubi are not warriors and will flee combat if given a choice. They can fight when necessary and will use their clawed hands and feet to damage their prey. They prefer to turn foes against one another, and will use their Polymorph shape change ability to take on the guise of a humanoid and can keep the ruse up indefinitely.
+
+Warning: They will feign friendship to create an opportunity to be alone with Adventurers to apply their life-draining kiss. They will even become a damsel in distress to lure in unsuspecting Adventurers.
+
+Inherent Abilities: Life Draining Kiss, Flight, Sustained Flight, Hover, Corruption, Emotion Siphon (Specialized), Lure, Enticement
+
+Permanent Conditions: Corrupted, Constant Arousal
+
+I guess I won't be making them into a fully armored vanguard of troops. Ren thought in amusement, then saw the problem succubi would cause him and concentrated on his Command Aura. “I forbid you all from using your Life Draining ability on me.”
+
+Ellaria hissed and tried to turn around to attack automatically, and Ren put a hand on her shoulder to stop her.
+
+“I wouldn't have used that!” She almost yelled.
+
+Ren could see the corruption dripping from her fingernails, and he could feel that she was lying.
+
+“Ellaria...”
+
+“I like you!” She exclaimed.
+
+“I can feel that you do...” Ren smiled. “...and you can feel that I'm not being mean or malicious.”
+
+Ellaria made an awkward fist with her hand. “Yes, I know you are only protecting yourself.” She said. “I wanted you to trust me.”
+
+Ren chuckled, and she looked back at him.
+
+“Do I look stupid?”
+
+Ellaria opened her mouth to comment, then closed it and turned away from him. “No.” With direct skin contact, Ren could feel the swirling emotions within her. She was upset with him, sad that he didn't trust her, and angry that she wasn't going to drain him even though she was going to have the perfect opportunity to do so.
+
+Ren moved the hand from her arm's shoulder to the shoulder joint for the wing on her back. He traced it with his fingertips to try and figure out how it worked. He used his other hand to move it a little, and in his head he recreated the bone structure as he used his hands to feel along the wing.
+
+“Can you unfurl just the end for me?” Ren asked.
+
+Ellaria didn't say anything and opened just the end of her wing, and Ren used his fingers to touch the thin membrane between two of the long wing bones. He caressed it to feel how much tension it had and how thick it was. He could feel her becoming aroused from his gentle touch, despite her anger at him, and he gave her his fascination at her and her body, and the wonder he felt for her as he kept touching her skin.
+
+“P-please...” Ellaria said.
+
+“You want it, even though you're angry at me?” Ren asked.
+
+“Y-yes.”
+
+Ren remembered the pleasure Jennifer, the dancer at the Pleasure Palace had felt, and gave that to Ellaria.
+
+“Ooohhhh!” Ellaria moaned and closed her eyes. Ren could feel how much she liked it, and then she pulled the wing away from his touch, unfurled it completely, then covered herself from head to ankle with it like a blanket.
+
+“What are you doing?” Ren asked and moved her hair aside to touch the back of her neck. He felt a burst of pleasure from her and used his ability to absorb some of it. He thought about what she was doing under her wing to give herself so much pleasure, and he removed his hand.
+
+“Keep... keep touching...” Ellaria breathed, and he put his hand back. She gasped as his ability touched her again, and she finished. “AhhH!”
+
+A wave of pleasure came from her, and Ren let it wash over him. He took some of it so he could store it for later and duplicate it; but, he let her keep most of it for herself. He gave her a thankful feeling, and he could feel her amusement as she pulled her wing up and folded it back into place behind her.
+
+“I really need to sleep.” Ren said and yawned, and Ellaria nodded and started to get up. “You can stay.”
+
+“Wh-what?”
+
+Ren climbed onto the left side of the bed and laid down. “Just don't poke me with your corruption poison.” He said and took a deep breath. “I'm already at 60%, and I'll get sick and die when it reaches 100%.”
+
+“W-will you come back afterwards?” Ellaria asked and laid back on her side with her wings folded behind her.
+
+“The next day.” Ren said.
+
+“N-no, I mean to us.”
+
+“If my Instant Tower is deployed I'll come back right here; but, I don't know where I'll end up if it's not.” Ren said. “I'll make my way back to you if that happens, though.”
+
+“You will?” Ellaria asked.
+
+Ren nodded. “We're getting out of here together.”
+
+Ellaria held her clawed hand in front of his face. The claws receded, which took the corruption poison with them, and her fingers shrank back to normal human-sized fingers. She put the normal hand on his chest, and even with the armor bodysuit on, he could feel it's warmth. He lifted an arm for her, and she looked at him, then smiled slyly as she snuggled in and rested her head on his chest. He put an arm over her shoulders, and drifted off to sleep.
+
+*
+
+Ellaria waited until Ren's breath evened out and he was asleep. She used her Polymorph ability to change her hands back to their original shape and the corruption poison welled up on her claws. She reached towards his throat and thought about injecting him with enough poison to kill him.
+
+Teepo flew down and landed by Ren's ear to warn him, and then she pulled her hand away, polymorphed it to look normal, then sighed and cuddled with him instead. Her wing unfolded and covered them from the neck down like a blanket; then she drifted off to sleep, too.
+
+********
+
+“I think I'll head home.” Elise said and stood up to stretch. “I'm tempted to stay and sleep here, though.”
+
+“Did you bring any clothes to change into?” Barbara asked, and she nodded.
+
+“I stashed a suitcase in the cargo area of my Hummer.” Elise said. “Just in case.”
+
+“Then go grab it and stick around.” Barbara said. “Ren will like having you here in the morning.”
+
+Elise left and retrieved her suitcase, then came back into the room. “I'll have a quick shower and change.”
+
+Barbara watched Ren sleeping in the game and kept an eye on his physical form as well. She was used to keeping her attention split and herself entertained during the long nights. She kind of missed the old days in the hospital when the other nurses would come in and keep her company, and then she thought about how things were turning out for Ren. She realized that he would tell her not to think about what could have have happened if things were different.
+
+I'll just think about what we can do from now on. Barbara thought and smiled.
+
+Elise came out of the bathroom wearing an oversized t-shirt, and she climbed up onto the bed after she put her suitcase beside it. She laid down beside Ren and put a hand on his chest to feel his heart and listened to his breathing.
+
+“He's really something special.” Elise said. “It makes me wonder sometimes if he's real.”
+
+Barbara laughed. “I hope he is! I could never afford to live in someone else's guest house!”
+
+Elise chuckled. “I never thought I would ever find someone like him.” She said and touched his cheek. “I know I won't ever find anyone else like him.”
+
+“That's for sure.” Barbara said. “Now lay back and get some sleep.” She said. “I'll wake you if something happens.”
+
+“You mean in real life and not in the game, right?” Elise asked, and Barbara nodded. She relaxed and closed her eyes, and put her hand back on Ren's chest. “Goodnight.” She whispered, and slowly drifted off to sleep.
+
+The poor girl is exhausted. Barbara thought. She's been running herself ragged these last few days, and it's all for Ren. She smiled. She's just as devoted to him as we are.
+
+********
+
+Ren woke up on his own, and took a deep breath. He could feel the succubus on his chest and he could also feel that she was basking in his strong emotions. Even asleep, her ability was still working to a degree.
+
+Hey, Teepo. Ren thought and opened his eyes to see that he was covered with a wing. Did anything happen?
+
+“Only that one thinking about ripping out your throat.” Teepo said right by his ear. “She didn't, though.”
+
+Thanks for keeping a really close eye on me.
+
+“I promised to take better care of you.” Teepo said. “I'd have yelled as soon as she tried to attack.”
+
+Ren gave Ellaria's shoulder a squeeze, and she started to stir. “Good morning.”
+
+Ellaria sighed and opened her eyes. “Can't we pretend for a few minutes more?” She asked and caressed his chest.
+
+“I've got a few things to do before we can head out.” Ren said, and when her hand moved down to his abdomen, he quickly grabbed it and held on. Ellaria chuckled and looked down at the bulge she had almost grabbed.
+
+“Maybe next time.” Ellaria said and then rolled up and on top of him.
+
+“Hey, what...”
+
+“I'm getting up.” Ellaria said and straddled his waist, and closed her eyes as she could feel him even through her bikini bottoms. “Just... damn, my wing...”
+
+Ren felt a shock of pain from her as she unfurled the wing that had been held in for too long. “You stayed on the one side just for me.”
+
+Ellaria nodded and sat back as she braced herself with one hand on his chest, and he held the other. That move just happened to put all of her weight on his waist, and she inhaled through her nose at the feeling.
+
+“I wasn't going to give up cuddling with you, just to switch sides.” Ellaria opened both wings to their fullest extent, and Ren stared at her. She felt his wonder at her, and his innocence, and she was so tempted to take advantage of it. Ren felt her feelings turn to naughtiness, even more than they were at the moment, and he smiled.
+
+“You're taking your time.” Ren said and let her hand go, so she put that hand on his chest and pulled in both wings all the way and then extended them again. He watched the movement, quite fascinated, and she laughed.
+
+“I could ravage you right now.” Ellaria said seductively and leaned forward, which rubbed herself on him. Ren put his hands on her hips and lifted. “Eep!” She squealed a little bit as Ren sat up. He stood up and walked off of the bed and held her easily, and he felt her shock that he could do that.
+
+“You can only go as far as I'll let you.” Ren said and smiled as he put her down.
+
+Ellaria stepped close and put her arms around him. “And exactly how far will you let me go?”
+
+“You already reached it.” Ren said to her, and he felt her surprise. “You even pleased yourself in my bed and didn't ask if I wanted to help.”
+
+“Wh-what?” Ellaria said, shocked.
+
+“I might have gone a bit further, since my girlfriend trusts me not to take things too far; but, you jumped ahead and used up a good opportunity.”
+
+Ellaria let him out of the hug and sighed. “You would have helped.” She said sadly.
+
+“Possibly.” Ren said. “I don't know for sure.”
+
+“But... before... you said that...”
+
+“Right. No sex.” Ren said. “I didn't say 'no touching'.”
+
+Ellaria's mouth dropped open, because she never thought about that possibility; and Ren felt her emotions deflate.
+
+“I messed up.” Ellaria said. “I could have... we could have... and now...”
+
+“I'll be more... cautious... in the future.” Ren said and smiled. “Thank you for keeping me company.”
+
+Ellaria sighed and her wings dropped down. “I think it's time for my shift.”
+
+“Not for another 2 hours.” Teepo said. “You woke up early.”
+
+“Not for another 2 hours, but I'll take you back to the others.” Ren said and took her hand. He started to walk across the room and down the stairs, and he gave her his thanks and appreciation. She took some of it, but she was a bit too depressed about what could have happened to enjoy them. He took her outside and over to the other tower and stopped in front of the door.
+
+“Can you kneel for me?” Ren asked, and she did. “Please don't be sad.”
+
+“But... I... we...”
+
+Ren put his arms around her neck and deftly avoided hitting her wings. He put his lips by her ear to whisper. “You were still the first one I invited to bed.” He breathed, and she shivered from the intimacy. “We cuddled, we shared feelings, and we both had a nice enjoyable sleep in each other's company.”
+
+Ren gave her a kiss on the cheek and gave her a feeling of enjoyment and thanks. She took his feelings this time and let her ability savor it.
+
+“Thank you.” Ren said.
+
+Ellaria didn't know what to say to his genuine feelings, and just stared at him as he let her go.
+
+“See you soon.” Ren said and walked back over to his tower and went inside.
+
+“I think you surprised her.” Teepo said.
+
+I think so, too. Ren thought and went over to his forge. He started making basic bracers, 40 of them, and added more ore to the smelter when he needed to. While he waited for it to simmer, he enchanted 1 gold coin diamonds with a glyph of 5 Speed runes, others with Protection, and more with Warding.
+
+When he had enough done for all 40 bracers, he opened a recipe for armored boots, and cut the foot off of it. He made 40 of those, then enchanted more diamonds. When he was done, he activated his Craft Wondrous Item ability and used the amputated boots to make 20 pairs of Boots of Striding and Leaping. He used his Gem Setting ability to recess 2 diamonds into the metal to increase the Speed, 2 for Protection, and 2 for Warding; which completed the 6 gems a single item could hold.
+
+Ren used Double Infusion to make the items binding upon equip and part of a set, then thought about the bracers. He opened the recipe for the Bracelet of Major Displacement.
+
+Bracelet of Major Displacement
+
+Although it appears to be a normal bracelet, upon command its magical properties distort and warp light and sound. This displacement works just like the Displacement spell and lasts for a total of 300 minutes; which the wearer can divide up as they see fit.
+
+Ren made a bracelet and used Retain Essence, then added 50 runes of Time to increase the time limit to 550 minutes, just because he could, then put the enchantment on a bracer. He used Double Infusion again to make them binding and part of a set. He did this for 20 of them, then added the small diamonds of Speed, Protection, and Warding. When they were done, he opened the Amulet of Natural Armor recipe.
+
+Amulet of Natural Armor (Wondrous Item)
+
+This amulet grants the wearer a natural armor bonus, and protects the wearer as if they were wearing heavy armor. This does not cause the wearer to suffer heavy armor penalties, however. This cannot be used with actual armor, and the bonuses and protection are lost if armor is equipped.
+
+Ren made an amulet then used Retain Essence to store it, then replaced the restriction of not being worn with armor with 5 glyphs of 10 runes each for Strength, Dexterity, Agility, Vitality and Endurance. He put that on the 20 other bracers, then made an Amulet of the Spider. He used Retain Essence and then modified it to be binding and part of a set, then used Double Infusion to add it to the Bracers of Natural Armor. He used his Gem Setting skill to add the small diamonds enchanted with Speed, Protection, and Warding to complete them.
+
+When Ren was done, he had sets of modified boots that the succubi could wear with their odd-shaped feet, and gauntlets that could be worn with their odd-sized hands and fingers. When worn together, they would get +90% to their Speed, +80% Defense to Armor and counted as having heavy armor on, and had +80% to Concealment. They would also generate a copy of themselves 5 feet away when they wanted to for up to 550 minutes, or just over 9 hours, thanks to the Displacement enchantment, and had +10 to 5 of their important stats and +2 to all of their stats for a complete set. They could also stick to things like a spider and had an inherent Web spell they could cast every hour.
+
+With a bit more modification, these will work for Lara as well. Ren thought and started to refill the smelter when Teepo told him it was morning. That was a quick 4 hours. He smiled. Time to go.
